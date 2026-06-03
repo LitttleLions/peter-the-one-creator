@@ -1,0 +1,106 @@
+# ============================================================
+# Namens-Mapping – Peter der Erste
+# ============================================================
+# Vorschläge pro russischem Namen in mehreren deutschen
+# Varianten. Die finale Wahl wird pro Buch in `books.yaml`
+# unter `naming_convention.choice` gesetzt.
+#
+# Stil-IDs:
+#   A - Russische Transliteration (Duden-Standard)
+#   B - Eingedeutschte Form
+#   C - Russische Originalschrift + Übersetzung in Klammern
+#
+# Diskussionsstand (Pilot-Rückmeldung):
+#   - "Iwanka" als Koseform klingt im Deutschen ungewöhnlich
+#   - Alternativen werden unten vorgeschlagen
+# ============================================================
+
+# Konvention pro Buch: welche Stil-ID gilt
+current_choice: A
+
+# Diskussion einzelner Namen (zur Abstimmung)
+candidates:
+  - ru: "Пётр"
+    de_full: "Peter"
+    de_short: "Peter"
+    de_kose: "Petruschka, Petja"
+    note: "Eingebürgert: 'Peter der Große'. In historischen Texten meist 'Peter I.' oder 'Peter der Erste'."
+
+  - ru: "Иван"
+    de_full: "Iwan"
+    de_short: "Iwan"
+    de_kose: "Iwanka, Wanja"
+    note: "Koseform 'Iwanka' wirkt im Deutschen archaisierend. Alternativen: 'Iwan' durchgehend, oder 'Iwan' voll / 'Wanja' Kose."
+
+  - ru: "Ивашка"
+    de_full: "Iwanka"
+    de_short: "Iwan"
+    de_kose: "Iwanka"
+    note: "Diminutiv von Iwan. Im russischen Text Diminutiv mit Schimpfcharakter, in der dt. Übersetzung wäre 'Iwan' oder 'Iwaschka' möglich."
+
+  - ru: "Софья / Софья Алексеевна"
+    de_full: "Sofja / Sofja Alexejewna"
+    de_short: "Sofja"
+    de_kose: "Sonja"
+    note: "Standard: 'Sofja'. Kose 'Sonja' eher für Salongesellschaften."
+
+  - ru: "Алексей"
+    de_full: "Alexei"
+    de_short: "Alexei"
+    de_kose: "Aljoscha, Aljoschka, Aljona"
+    note: "Aljoscha wirkt vertraulich (oft in der Bibelübersetzung für 'Aleksej, der Mensch Gottes'). Aljoschka ist noch etwas liebevoller."
+
+  - ru: "Василий"
+    de_full: "Wassili"
+    de_short: "Wassili"
+    de_kose: "Wasja"
+    note: "Voll: 'Wassili'. Kose: 'Wasja' – im Roman wird Wassili oft 'Wassja Wolkow' o.ä. angeredet?"
+
+  - ru: "Иван Артемич"
+    de_full: "Iwan Artemjitsch"
+    de_short: "Iwan"
+    de_kose: "Iwanka"
+    note: "Vater-Name-Patronym. Im Roman wird er als 'Iwan Artemjitsch Browkin' vorgestellt; Kosename 'Iwanka' nur in 3. Person."
+
+  - ru: "Цыган"
+    de_full: "Zigeuner"
+    de_short: "Zigeuner"
+    de_kose: "Zigeuner"
+    note: "Im Russischen auch Kosename/Spitzname für einen dunkelhäutigen Mann. Im Deutschen heikel – historisch, aber im modernen Kontext problematisch. Optionen: 'Zigeuner' (Original), 'Tzigane' (veraltet, ethnographisch), 'Der Schwarze' (Bedeutungsübersetzung, anonymisiert)."
+
+  - ru: "Данила Меньшиков"
+    de_full: "Danila Menschikow"
+    de_short: "Danila"
+    de_kose: "Danila"
+    note: "Historisch: 'Alexander Menschikow' (Sohn) wird meist als 'Alexander Menshikov' eingedeutscht. Vater 'Danila' bleibt 'Danila'."
+
+  - ru: "Артамон Матвеев"
+    de_full: "Artamon Matwejew"
+    de_short: "Artamon"
+    de_kose: "—"
+    note: "Historisch: 'Artamon Matwejewitsch' als voller Namensform."
+
+  - ru: "Софья / Пётр Алексеевич / Иван Алексеевич"
+    de_full: "Sofja / Peter Alexejewitsch / Iwan Alexejewitsch"
+    de_short: "Sofja / Peter / Iwan"
+    de_kose: "—"
+    note: "Zarewitsch-Titel. 'Peter Alexejewitsch' und 'Iwan Alexejewitsch' werden im Roman auch ohne 'Zarewitsch' gebraucht."
+
+# Sonderzeichen in alten Quellen, die eine eigene Entscheidung brauchen:
+specials:
+  - ru: "Зиновий / Zinowi"
+    problem: "In der Logik der Roman-Erzählung als 'Zigeuner'."
+    de_options: ["Zigeuner", "Tzigane", "Der Mann aus dem Süden"]
+    note: "Soll die ethnisch-kulturelle Konnotation erhalten bleiben?"
+
+  - ru: "Степан Семёныч Одоевский"
+    de_full: "Stepan Semjonowitsch Odojewskij"
+    note: "Russischer Kleinadel, historisch verbürgt."
+
+  - ru: "Михалыч"
+    de_full: "Michalytsch"
+    note: "Patronym-Kurzform, oft für Väter."
+
+  - ru: "Хованский"
+    de_full: "Chowanski / Chowanskij"
+    note: "Historisch 'Chovanski'."

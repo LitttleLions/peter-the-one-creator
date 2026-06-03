@@ -18,10 +18,6 @@ global:
 
 # Pro Buch lassen sich Werte überschreiben.
 # Wenn ein Wert fehlt, gilt der global_default.
-overrides:
-  peter-i-buch-01:
-    ruleset_apply: true       # Regelwerk AN
-    style_mode: stylized      # volle Anwendung
     target_word_count_per_chapter: 1500-2500   # nur als Anhaltspunkt
     naming_reminder: |
       Verwende russische Transliteration (Duden-Standard).

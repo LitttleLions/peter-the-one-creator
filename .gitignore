@@ -61,11 +61,3 @@ htmlcov/
 *.tmp
 *.orig
 
-# ============================================================
-# Bücher-Originale + laufender Pipeline-State
-# (Originale sind tabu; output/ und status/ reproduzieren sich
-#  jederzeit aus Source + Pipeline, gehören also nicht ins Repo.)
-# ============================================================
-books/
-output/
-status/

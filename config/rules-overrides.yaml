@@ -1,0 +1,34 @@
+# ============================================================
+# Regel-Anpassungen pro Buch / global
+# ============================================================
+# Hier kannst du:
+#   - Regeln pro Buch ein-/ausschalten (true/false)
+#   - Stil-Modus überschreiben
+#   - Eigene Notizen pro Kapitel hinterlegen
+#   - Wortzahl-Zielwerte anpassen
+#
+# Subregelwerke werden NICHT erstellt – das Original-Regelwerk
+# in logic/ bleibt unverändert. Hier wird es nur aktiviert oder
+# deaktiviert, oder der Stilmodus umgeschaltet.
+# ============================================================
+
+global:
+  ruleset_apply_default: true
+  style_mode_default: stylized
+
+# Pro Buch lassen sich Werte überschreiben.
+# Wenn ein Wert fehlt, gilt der global_default.
+overrides:
+  peter-i-buch-01:
+    ruleset_apply: true       # Regelwerk AN
+    style_mode: stylized      # volle Anwendung
+    target_word_count_per_chapter: 1500-2500   # nur als Anhaltspunkt
+    naming_reminder: |
+      Verwende russische Transliteration (Duden-Standard).
+      Beispiele: Пётр -> Peter, Иван -> Iwan, Софья -> Sofja,
+      Алексей -> Alexei, Толстой -> Tolstoi.
+    custom_instructions: |
+      Historisches Setting: Russland um 1700 (Peter der Große).
+      Sprache entsprechend altertümlich-farbig, aber nicht
+      übertrieben archaisierend. Figuren reden knapp, mit
+      russischer Direktheit; innere Monologe dürfen länger sein.

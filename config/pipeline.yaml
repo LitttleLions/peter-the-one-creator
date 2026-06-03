@@ -1,0 +1,73 @@
+# ============================================================
+# Pipeline-Einstellungen
+# ============================================================
+# Globale Parameter für den Übersetzungs-Workflow.
+# ============================================================
+
+pipeline:
+  # Quellformat des Buches (rtf, docx, txt, md)
+  source_format: rtf
+
+  # Zielformat für die Übersetzung
+  target_format: md   # md als Zwischenformat; später docx via Pandoc möglich
+
+  # Ausgabeformate
+  output:
+    chapter_format: md
+    manuscript_format: md
+    manuscript_export_docx: true   # Pandoc-Aufruf zum Export nach Word
+
+  # Encoding
+  encoding_source: cp1251   # Kyrillisch in der .doc-Datei
+  encoding_target: utf-8
+
+  # Verzeichnisstruktur (relativ zum Repo-Root)
+  dirs:
+    config: "config"
+    output: "output"
+    status: "status"
+    logs: "status/logs"
+    tools: "tools"
+
+  # Kapitelgrenzen-Erkennung
+  chapter_detection:
+    # Wir verlassen uns auf RTF-Styles (heading 1, heading 2, ...)
+    # und/oder explizite Heading-Texte
+    rtf_styles:
+      - s1   # Heading 1 (Hauptüberschrift)
+      - s2   # Heading 2 (z. B. "Книга первая")
+      - s3   # Heading 3 (z. B. "Глава первая")
+      - s4   # Heading 4
+    heading_patterns_ru:
+      - "^\\s*Книга\\s+"
+      - "^\\s*Глава\\s+"
+      - "^\\s*Часть\\s+"
+
+  # Konsistenz-Checks
+  consistency:
+    check_names_every_n_chapters: 5
+    recheck_ruleset_every_n_chapters: 5
+
+  # KI-Aufruf-Parameter (Platzhalter für später)
+  ai:
+    # Welches Modell/welcher Provider – hier nur dokumentiert,
+    # nicht in Code erzwungen
+    provider: "cline"
+    max_tokens_per_chapter: 8000
+    temperature: 0.4
+    system_prompt_template: |
+      Du bist ein literarischer Übersetzer. Du übersetzt aus dem
+      {source_lang} ins {target_lang}. Für dieses Buch gilt der
+      Stilmodus "{style_mode}".
+
+      Wenn style_mode = "stylized":
+      Wende das Regelwerk an: {ruleset_path}. Erweitere die Szene
+      durch innere Monologe, sensorische Details, Szene-und-Sequel-
+      Struktur, Sorkin'sche Konfliktdynamik. Kein "Füllmaterial",
+      sondern organische Vertiefung.
+
+      Wenn style_mode = "literal":
+      Übersetze möglichst originalgetreu, ohne Ausschmückung.
+
+      Verwende die Namensschreibweise aus dem Buch-Eintrag.
+      Liefere die Übersetzung als Markdown.

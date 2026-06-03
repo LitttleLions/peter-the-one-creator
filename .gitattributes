@@ -1,0 +1,30 @@
+# ============================================================
+# Cross-OS Zeilenenden + Sprache pro Dateityp
+# ============================================================
+
+# Standard: alle Textdateien in LF normalisieren
+* text=auto eol=lf
+
+# Dokumentation & Konfiguration explizit
+*.md text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
+*.txt text eol=lf
+
+# Quellcode
+*.py text eol=lf
+*.sh text eol=lf
+*.bat text eol=lf
+
+# Binärdateien (nicht anfassen)
+*.doc binary
+*.docx binary
+*.rtf binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary

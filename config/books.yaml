@@ -1,0 +1,40 @@
+# ============================================================
+# Bücher-Registry
+# ============================================================
+# Jedes Buch bekommt einen eigenen Eintrag. Über die ID wird
+# das Buch in der Pipeline referenziert.
+#
+# style_mode:
+#   - "stylized"   = volle Anwendung des Regelwerks
+#   - "literal"    = nur sprachliche Übersetzung, Regelwerk ignoriert
+#   - "middle"     = leichte Stilisierung
+#
+# ruleset_apply: true = Regelwerk anwenden, false = nur Übersetzung
+# ============================================================
+
+books:
+
+  - id: peter-i-buch-01
+    title: "Peter der Erste"
+    author: "Alexei Tolstoi"
+    source_path: "books/Peter I - Buch 01 - royallib.ru.doc"
+    source_lang: ru
+    target_lang: de
+    ruleset_path: "logic/peter the one - Regeln 001.txt"
+    ruleset_apply: true
+    style_mode: stylized
+    output_dir: "output/Peter I"
+    status_file: "status/Peter I.status.json"
+    log_dir: "status/logs/Peter I"
+    naming_convention:
+      # Bestätigt: Stil A – russische Transliteration (Duden-Standard)
+      style: "russische Transliteration (Duden-Standard)"
+      example:
+        - "Пётр -> Peter"
+        - "Иван -> Iwan"
+        - "Софья -> Sofja"
+        - "Алексей -> Alexei"
+        - "Толстой -> Tolstoi"
+    notes: |
+      Roman in 3 Bänden von Alexei Tolstoi. Russisches Original,
+      417 Seiten, ~201.000 Wörter. Buch 1 in dieser Datei.

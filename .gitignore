@@ -1,0 +1,71 @@
+# ============================================================
+# Secrets & Credentials
+# ============================================================
+.env
+.env.*
+*.pem
+*.key
+*.p12
+secrets/
+credentials/
+
+# ============================================================
+# OS-Müll
+# ============================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ============================================================
+# IDE / Editor
+# ============================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ============================================================
+# Temporäre Debug-/Log-Ausgaben im Repo-Root
+# ============================================================
+/status_mark*.txt
+/status_list.txt
+/status_summary.txt
+/status_diff*.txt
+/debug_*.txt
+/dryrun.txt
+/extract_run.txt
+/final_status.txt
+*.bak
+*.tmp
+*.orig
+
+# ============================================================
+# Bücher-Originale + laufender Pipeline-State
+# (Originale sind tabu; output/ und status/ reproduzieren sich
+#  jederzeit aus Source + Pipeline, gehören also nicht ins Repo.)
+# ============================================================
+books/
+output/
+status/

@@ -17,8 +17,9 @@
 # werden in einer spaeteren Version ergaenzt (siehe
 # Roadmap-Punkt C: "Maximal").
 #
-# Default fuer Peter I: `anthropic/claude-3.5-sonnet`
-# (gesetzt in `config/books.yaml: ai.model`).
+# Default fuer Peter I: `deepseek/deepseek-v4-flash`
+# (gesetzt in `config/books.yaml: ai.model` und als
+# `default_for: [peter-i-buch-01]` im Katalog-Eintrag).
 # ============================================================
 
 models:
@@ -71,6 +72,8 @@ models:
     name: "DeepSeek V4 Flash"
     provider: DeepSeek
     description: "Neue V4-Generation, MoE mit 1M Kontext – extrem guenstig und schnell."
+    default_for:
+      - peter-i-buch-01
 
   - id: deepseek/deepseek-v3.2
     name: "DeepSeek V3.2"
@@ -144,8 +147,6 @@ models:
     name: "Claude 3.5 Sonnet (Legacy)"
     provider: Anthropic
     description: "Bewehrter Klassiker – ausgewogen fuer Schreiben und Dialog."
-    default_for:
-      - peter-i-buch-01
 
   - id: anthropic/claude-3-5-haiku
     name: "Claude 3.5 Haiku (Legacy)"
@@ -205,4 +206,4 @@ defaults:
   # Wird in `tools/translate_chapter.py` benutzt, wenn weder
   # --model noch `books.yaml: ai.model` noch OPENROUTER_MODEL
   # gesetzt sind.
-  fallback_model: anthropic/claude-3-5-sonnet
+  fallback_model: deepseek/deepseek-v4-flash

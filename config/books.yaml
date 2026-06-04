@@ -56,6 +56,6 @@ books:
     # ============================================================
     ai:
       provider: openrouter
-      model: anthropic/claude-3-5-sonnet
+      model: deepseek/deepseek-v4-flash
       granularity: scene
       max_tokens_per_scene: 6000

@@ -23,6 +23,7 @@ an externe LLM-Provider (OpenRouter) ist implementiert
   - `pipeline.yaml` — Pipeline-Defaults (Encoding, Heading-Patterns, `ai_defaults`)
   - `rules-overrides.yaml` — Pro-Buch-Overrides (`style_mode`, `naming_reminder`, `custom_instructions`)
   - `style_modes.yaml` — **System-Prompts pro Stilmodus** (operativ, nicht nur Marker)
+  - `models.yaml` — **Katalog verfügbarer OpenRouter-Modelle** (id, name, provider, description; `default_for: [book-id]` markiert das Default-Modell pro Buch)
   - `naming_proposal_peter_i.md` — drei Stile A/B/C
   - `naming_choices.yaml` — Kandidaten-Tabelle pro Person (zur Diskussion)
 - `tools/` — Python-CLI
@@ -35,6 +36,8 @@ an externe LLM-Provider (OpenRouter) ist implementiert
   - `lib/openrouter_client.py` — OpenRouter-Chat-Completion-Client (httpx, python-dotenv)
   - `lib/style_prompts.py` — Lädt `config/style_modes.yaml`, baut System-/User-Messages
   - `lib/scene_splitter.py` — Splittet MD in Szenen anhand von `## N`-Headings
+  - `lib/models_registry.py` — Lädt `config/models.yaml`, validiert Modell-IDs
+  - `lib/degeneration.py` — Erkennt Token-Loops, Sprach-Drift, Mojibake, Endlos-Sätze im LLM-Output
 - `output/<Buch>/chapters/` — Übersetzungen je Kapitel
   - `NNN-source.md` (Originaltext RU)
   - `NNN-translation-vN-stil.md` (z. B. `v1-stylized`, `v2-literal`, `v3-stylized` …)
@@ -157,6 +160,7 @@ python tools/translate_chapter.py --chapter 001 --style middle --model openai/gp
 - Pipeline-Defaults: `config/pipeline.yaml` (inkl. `ai_defaults`)
 - Regel-Overrides: `config/rules-overrides.yaml`
 - **Stilmodus-Prompts: `config/style_modes.yaml` (NEU)**
+- **Modell-Katalog: `config/models.yaml` (NEU)**
 - Namensschreibweise-Vorschlag: `config/naming_proposal_peter_i.md`
 - Namens-Kandidaten-Tabelle: `config/naming_choices.yaml`
 - OpenRouter-Client: `tools/lib/openrouter_client.py`

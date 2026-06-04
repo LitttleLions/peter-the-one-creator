@@ -1,0 +1,208 @@
+# ============================================================
+# Verfuegbare OpenRouter-Modelle
+# ============================================================
+# Zentraler Katalog aller Modelle, die per
+# `config/books.yaml: ai.model` oder
+# `python tools/translate_chapter.py --model <id>`
+# ausgewaehlt werden koennen.
+#
+# Struktur pro Eintrag:
+#   id          — OpenRouter-Modell-ID (Pflicht)
+#   name        — Anzeigename
+#   provider    — Anbieter (zur Gruppierung)
+#   description — Kurze Beschreibung, wofuer das Modell gut ist
+#
+# Die Liste ist aus dem JS-Snippet uebernommen
+# (Stand: Juni 2026, Schatzwerte). Preise und Context-Längen
+# werden in einer spaeteren Version ergaenzt (siehe
+# Roadmap-Punkt C: "Maximal").
+#
+# Default fuer Peter I: `anthropic/claude-3.5-sonnet`
+# (gesetzt in `config/books.yaml: ai.model`).
+# ============================================================
+
+models:
+
+  # ── Anthropic – Top-Tier fuer literarisches Schreiben ──
+  - id: anthropic/claude-opus-4.7
+    name: "Claude Opus 4.7"
+    provider: Anthropic
+    description: "Premium literarische Qualitaet, beste Prosa, hoechste Kohaerenz – fuer Schluesselkapitel."
+
+  - id: anthropic/claude-sonnet-4.6
+    name: "Claude Sonnet 4.6"
+    provider: Anthropic
+    description: "Aktuelle Empfehlung – exzellenter Stil, starke Figurenzeichnung, faire Preise."
+
+  - id: anthropic/claude-haiku-4.5
+    name: "Claude Haiku 4.5"
+    provider: Anthropic
+    description: "Schnell und guenstig – gut fuer Entwuerfe, Outlines und Iterationen."
+
+  # ── OpenAI – Modernes Drafting ──
+  - id: openai/gpt-5
+    name: "GPT-5"
+    provider: OpenAI
+    description: "OpenAI-Flagship, sehr gut im Plot-Aufbau und Dialog – breit einsetzbar."
+
+  - id: openai/gpt-5-mini
+    name: "GPT-5 Mini"
+    provider: OpenAI
+    description: "Guenstige GPT-5-Variante – gute Drafting-Qualitaet bei niedrigen Kosten."
+
+  - id: openai/gpt-4.1
+    name: "GPT-4.1"
+    provider: OpenAI
+    description: "Bewehrter Allrounder mit grossem Kontextfenster."
+
+  # ── Google Gemini – Lange Kontexte fuer ganze Buecher ──
+  - id: google/gemini-3-pro
+    name: "Gemini 3 Pro"
+    provider: Google
+    description: "Riesiger Kontext (1M+ Tokens), ideal um den ganzen Roman im Blick zu behalten."
+
+  - id: google/gemini-3-flash
+    name: "Gemini 3 Flash"
+    provider: Google
+    description: "Schnell, guenstig, langer Kontext – sehr gutes Preis-Leistungs-Verhaeltnis."
+
+  # ── DeepSeek – Beste Preis-Leistung ──
+  - id: deepseek/deepseek-v4-flash
+    name: "DeepSeek V4 Flash"
+    provider: DeepSeek
+    description: "Neue V4-Generation, MoE mit 1M Kontext – extrem guenstig und schnell."
+
+  - id: deepseek/deepseek-v3.2
+    name: "DeepSeek V3.2"
+    provider: DeepSeek
+    description: "Sehr guenstig, ueberraschend gute Belletristik – ideal fuer Massengenerierung."
+
+  # ── Moonshot Kimi – Beliebt fuer Roleplay & Fiction ──
+  - id: moonshotai/kimi-k2.6
+    name: "Kimi K2.6"
+    provider: MoonshotAI
+    description: "Top fuer narrative Konsistenz und Roleplay, langes Kontextfenster."
+
+  # ── xAI Grok – Kreative Stimme ──
+  - id: x-ai/grok-4.1
+    name: "Grok 4.1"
+    provider: xAI
+    description: "Eigenstaendige kreative Stimme, gut fuer unkonventionelle Genres."
+
+  # ── MiniMax – Long-form Specialist ──
+  - id: minimax/minimax-m2.7
+    name: "MiniMax M2.7"
+    provider: MiniMax
+    description: "Sehr langes Kontextfenster, stark in chinesisch & europaeisch."
+
+  - id: minimax/minimax-m2
+    name: "MiniMax M2"
+    provider: MiniMax
+    description: "Vorgaenger von M2.7 – langes Kontextfenster, gut fuer Long-form."
+
+  # ── Mistral – Europaeisches Modell, gut fuer deutsche Texte ──
+  - id: mistralai/mistral-large-3
+    name: "Mistral Large 3"
+    provider: MistralAI
+    description: "Europaeisches Modell mit starker Performance in Deutsch und Franzoesisch."
+
+  # ── Qwen – Multilingual ──
+  - id: qwen/qwen3.6-flash
+    name: "Qwen 3.6 Flash"
+    provider: Qwen
+    description: "Neue Qwen-Generation, 1M Kontext, multimodal – schnell und guenstig."
+
+  - id: qwen/qwen3-235b-a22b
+    name: "Qwen3 235B A22B"
+    provider: Qwen
+    description: "Grosses MoE-Modell – stark fuer kreatives Schreiben, Rollenspiele und Multi-Turn-Dialoge."
+
+  - id: qwen/qwen3-72b-instruct
+    name: "Qwen 3 72B"
+    provider: Qwen
+    description: "Starke multilinguale Leistung, gut fuer nicht-englische Texte."
+
+  # ── Moonshot – Kimi (Long-Context) ──
+  - id: moonshotai/kimi-k2
+    name: "Kimi K2"
+    provider: MoonshotAI
+    description: "Aktuelles Kimi-Modell – sehr langes Kontextfenster, gut fuer Long-form."
+
+  # ── OpenRouter eigene Modelle ──
+  - id: openrouter/owl-alpha
+    name: "Owl Alpha (Free)"
+    provider: OpenRouter
+    description: "Aktuell kostenlos – langes Kontextfenster, gut fuer Tool-Use & Agenten."
+
+  # ── Legacy-Modelle (aeltere Versionen, weiterhin verfuegbar) ──
+  - id: anthropic/claude-sonnet-4-5
+    name: "Claude Sonnet 4.5 (Legacy)"
+    provider: Anthropic
+    description: "Vorgaenger von Sonnet 4.6 – weiterhin solide fuer Belletristik."
+
+  - id: anthropic/claude-3-5-sonnet
+    name: "Claude 3.5 Sonnet (Legacy)"
+    provider: Anthropic
+    description: "Bewehrter Klassiker – ausgewogen fuer Schreiben und Dialog."
+    default_for:
+      - peter-i-buch-01
+
+  - id: anthropic/claude-3-5-haiku
+    name: "Claude 3.5 Haiku (Legacy)"
+    provider: Anthropic
+    description: "Schnell und guenstig."
+
+  - id: anthropic/claude-3-opus
+    name: "Claude 3 Opus (Legacy)"
+    provider: Anthropic
+    description: "Aelteres Premium-Modell mit literarischer Sprache."
+
+  - id: openai/gpt-4o
+    name: "GPT-4o (Legacy)"
+    provider: OpenAI
+    description: "Vorgaenger-Flagship, multimodal."
+
+  - id: openai/gpt-4o-mini
+    name: "GPT-4o Mini (Legacy)"
+    provider: OpenAI
+    description: "Schnell und kostenguenstig."
+
+  - id: google/gemini-2.0-flash-001
+    name: "Gemini 2.0 Flash (Legacy)"
+    provider: Google
+    description: "Schnell und effizient."
+
+  - id: google/gemini-pro-1.5
+    name: "Gemini 1.5 Pro (Legacy)"
+    provider: Google
+    description: "Grosser Kontext, bewehrter Allrounder."
+
+  - id: deepseek/deepseek-v3
+    name: "DeepSeek V3 (Legacy)"
+    provider: DeepSeek
+    description: "Vorgaenger von V3.2."
+
+  - id: moonshotai/moonshot-v1-8k
+    name: "Moonshot Kimi K2.5 (Legacy)"
+    provider: MoonshotAI
+    description: "Aelteres Kimi-Modell mit langem Kontext."
+
+  - id: minimax/minimax-01
+    name: "MiniMax-01 (Legacy)"
+    provider: MiniMax
+    description: "Aelteres MiniMax-Modell."
+
+  - id: qwen/qwen-2.5-72b-instruct
+    name: "Qwen 2.5 72B (Legacy)"
+    provider: Qwen
+    description: "Vorgaenger von Qwen 3 72B."
+
+
+# ============================================================
+# Globale Defaults
+# ============================================================
+defaults:
+  # Wird in `tools/translate_chapter.py` benutzt, wenn weder
+  # --model noch `books.yaml: ai.model` noch OPENROUTER_MODEL
+  # gesetzt sind.
+  fallback_model: anthropic/claude-3-5-sonnet

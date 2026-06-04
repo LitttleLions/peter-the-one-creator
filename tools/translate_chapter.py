@@ -54,6 +54,10 @@ from lib.status_manager import (
     STATUS_DONE, STATUS_NEEDS_REVIEW,
 )
 from lib.log_writer import write_chapter_log
+from lib.models_registry import (
+    load_models_registry, ModelError as ModelsModelError,
+)
+from lib.degeneration import detect_degeneration
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -138,6 +142,46 @@ def translate_scene(client, messages, temperature, max_tokens):
     )
 
 
+# Maximale Anzahl Retries bei Degeneration (1 = ein Retry,
+# bevor endgueltig abgebrochen wird)
+DEGENERATION_MAX_RETRIES = 1
+
+
+def safe_translate_with_check(client, messages, temperature, max_tokens,
+                              expected_language=None, label=""):
+    """
+    Wie translate_scene, aber mit Degeneration-Check und einem
+    automatischen Retry. Liefert (text, degeneration_warnings) oder
+    raises OpenRouterError.
+    """
+    text = translate_scene(client, messages, temperature, max_tokens)
+    warnings = []
+
+    for attempt in range(DEGENERATION_MAX_RETRIES + 1):
+        result = detect_degeneration(text, expected_language=expected_language)
+        if result.get("ok", True):
+            if warnings:
+                return text, warnings
+            return text, []
+        # Degeneration erkannt
+        reason = result.get("reason", "unbekannt")
+        if attempt < DEGENERATION_MAX_RETRIES:
+            if label:
+                print(f"   [{label}] Degeneration erkannt, Retry: "
+                      f"{reason[:80]}", file=sys.stderr)
+            warnings.append(reason)
+            text = translate_scene(client, messages, temperature, max_tokens)
+        else:
+            # Letzter Versuch immer noch degeneriert
+            warnings.append(reason)
+            if label:
+                print(f"   [{label}] Degeneration nach Retry immer noch da: "
+                      f"{reason[:80]}", file=sys.stderr)
+            return text, warnings
+
+    return text, warnings
+
+
 def render_header(chapter_id, title_ru, book_title, mode, granularity):
     out = []
     out.append(f"# Kapitel {chapter_id}: {title_ru}")
@@ -220,6 +264,29 @@ def main():
     granularity = args.granularity or ai_cfg.get("granularity", "scene")
     max_tokens = args.max_tokens or ai_cfg.get("max_tokens_per_scene", 6000)
 
+    # Models-Registry laden und Modell-ID validieren
+    try:
+        models_reg = load_models_registry()
+    except ModelsModelError as e:
+        print(f"FEHLER: {e}", file=sys.stderr)
+        return 2
+
+    # Modell bestimmen (Prioritaet: --model > books.yaml > registry.default_for(book) > registry.fallback())
+    chosen_model = (
+        args.model
+        or ai_cfg.get("model")
+        or models_reg.default_for(book["id"])
+        or models_reg.fallback()
+    )
+    try:
+        model_info = models_reg.validate(chosen_model)
+    except ModelsModelError as e:
+        print(f"FEHLER: {e}", file=sys.stderr)
+        return 2
+    if args.verbose:
+        print(f"Modell gewaehlt: {model_info['name']} ({model_info['provider']})")
+        print(f"  {model_info['description']}")
+
     # Pipeline-AI-Defaults
     pipe = load_yaml(REPO_ROOT / "config" / "pipeline.yaml")
     ai_defaults = (pipe.get("pipeline", {})
@@ -271,7 +338,7 @@ def main():
           f"{mode_cfg.get('rules_append')})")
     print(f"Granularitaet: {granularity}")
     print(f"Szenen erkannt: {len(scenes)}")
-    print(f"Modell: {ai_cfg.get('model', '(default)')}")
+    print(f"Modell: {chosen_model} ({model_info['name']}, {model_info['provider']})")
     print(f"Temperatur: {temperature}, max_tokens: {max_tokens}")
     if args.dry_run:
         print("** DRY-RUN - keine API-Calls **")
@@ -354,10 +421,14 @@ def main():
             print(f"Regeln angehaengt: {bool(rules_text)}")
             return 0
         assert client is not None
+        # Modell am Client durchreichen, falls per --model ueberschrieben
+        client.model = chosen_model
         print("-> Uebersetze ganzes Kapitel in einem Call...")
         try:
-            translated_full = translate_scene(
+            translated_full, _warn = safe_translate_with_check(
                 client, messages, temperature, max_tokens,
+                expected_language=book.get("target_lang", "deutsch"),
+                label="chapter",
             )
         except OpenRouterError as e:
             print(f"FEHLER: {e}", file=sys.stderr)
@@ -394,9 +465,13 @@ def main():
                 # Im 'full' Dry-Run nur die erste Szene anzeigen
                 continue
             assert client is not None
+            # Modell am Client durchreichen, falls per --model ueberschrieben
+            client.model = chosen_model
             try:
-                txt = translate_scene(
+                txt, _warn = safe_translate_with_check(
                     client, messages, temperature, max_tokens,
+                    expected_language=book.get("target_lang", "deutsch"),
+                    label=f"szene {i}",
                 )
                 scene_translations.append((sc, txt))
                 words_target += count_words(txt)

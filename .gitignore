@@ -9,6 +9,10 @@
 secrets/
 credentials/
 
+# Ausnahme: die .env.example-Vorlage MUSS ins Repo,
+# damit andere Mitwirkende die nötigen Variablen sehen.
+!.env.example
+
 # ============================================================
 # OS-Müll
 # ============================================================

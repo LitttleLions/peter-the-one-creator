@@ -21,10 +21,14 @@ Regelkatalog in `logic/peter the one - Regeln 001.txt` (Sanderson-Stil
 - 18 Kapitel erkannt (Книга 1: 7, Книга 2: 5, Книга 3: 6)
 - 228.951 Wörter Original (russisch)
 - Status: 1/18 in Bearbeitung – Kapitel 1 Pilotphase
-- 2 lokale Commits noch nicht gepusht (`78071c4`, `b5fbc98`)
+- 3 lokale Commits noch nicht gepusht (`78071c4`, `b5fbc98`, `56d9ede`)
+- **OpenRouter-Provider implementiert** (`tools/translate_chapter.py`,
+  `tools/lib/openrouter_client.py`, `config/style_modes.yaml`).
+  Dry-Run getestet; erster echter Lauf wartet auf den API-Key.
 
 ## Wie wir arbeiten
 
+### Manueller Pilot-Workflow (bisher)
 Pro Kapitel:
 1. `python tools/status.py mark NNN in_progress`
 2. Russischen Quelltext aus `output/.../chapters/NNN-source.md` lesen
@@ -37,14 +41,34 @@ Pro Kapitel:
 5. `mark NNN done --words <Wortzahl> --title-de "..."` oder
    `mark NNN needs_review`
 
+### OpenRouter-Workflow (NEU, ab jetzt möglich)
+Pro Kapitel:
+1. (optional) `python tools/status.py mark NNN in_progress`
+2. `python tools/translate_chapter.py --chapter NNN --style {literal|middle|stylized}`
+   - Lädt `config/style_modes.yaml` und baut die System-/User-Prompts
+   - Hängt die Regeln aus `logic/` an (nur bei middle/stylized)
+   - Ruft OpenRouter auf (Modell aus `config/books.yaml: ai.model`)
+   - Schreibt `output/.../chapters/NNN-translation-vN-<stil>.md`
+     (nächste freie vN-Version pro Stil, kein Überschreiben)
+   - Schreibt Logfile und setzt Status auf `needs_review`
+3. Mensch prüft das Ergebnis.
+
+Dry-Run zum Testen ohne API-Call:
+```bash
+python tools/translate_chapter.py --chapter 001 --style stylized --dry-run
+```
+
 ## Stil-Modi
 
-Pro Buch in `config/rules-overrides.yaml` unter `style_mode`:
-- `literal` — wörtlich, regelfrei
-- `middle` — leichte Stilisierung
-- `stylized` — volle Regelanwendung
+Pro Buch in `config/books.yaml` unter `style_mode`. Die konkreten
+System-Prompts liegen in `config/style_modes.yaml`:
+- `literal` — wörtlich, regelfrei (Regeln werden NICHT angehängt)
+- `middle` — leichte Stilisierung (Regeln werden angehängt)
+- `stylized` — volle Regelanwendung (Regeln werden angehängt,
+  inkl. Sanderson/Sorkin-Block)
 
-Aktuell für Peter I auf `literal` gestellt (Pilot für `v2-literal.md`).
+Aktuell für Peter I auf `stylized` gestellt
+(siehe `config/books.yaml: style_mode`).
 
 ## Namensschreibweise
 
@@ -59,8 +83,9 @@ in `config/naming_choices.yaml` (offene Punkte: Iwanka vs. Iwan,
   Konventionen, Pfaden, Befehlen)
 - **Für Menschen**: `README.md` (Status, Workflow, Roadmap)
 - **Bei Pipeline-Fragen**: `config/pipeline.yaml`,
-  `config/rules-overrides.yaml`
-- **Bei Stil-/Regelfragen**: `logic/peter the one - Regeln 001.txt`
+  `config/rules-overrides.yaml`, `config/books.yaml`
+- **Bei Stil-/Regelfragen**: `config/style_modes.yaml` und
+  `logic/peter the one - Regeln 001.txt`
 - **Bei Namensfragen**: `config/naming_proposal_peter_i.md` und
   `config/naming_choices.yaml`
 - **Status-Übersicht**: `python tools/status.py summary`
@@ -78,12 +103,13 @@ in `config/naming_choices.yaml` (offene Punkte: Iwanka vs. Iwan,
 
 ## Offene Aufgaben (Roadmap, sortiert)
 
-1. Kapitel 1 fertigstellen (Szenen 4–19 fehlen in v1 und v2)
+1. **Erster echter OpenRouter-Run** mit echtem API-Key (Validierung)
 2. Vergleichsdatei `001-compare.md` (v1 vs v2 nebeneinander)
-3. **OpenRouter-Provider anbinden** – `.env` mit `OPENROUTER_API_KEY`,
-   pro Buch anderes Modell wählbar; `tools/translate_chapter.py`
-4. Namenslogik final festlegen
-5. Iterative Phase ab Kapitel 2
+3. Namenslogik final festlegen
+4. Iterative Phase ab Kapitel 2 (mit OpenRouter-Pipeline)
+5. `tools/compare_chapters.py` (Szene-für-Szene nebeneinander)
+6. (Bonus) Scene-Splitter verbessern: Szenen-Headings in `NNN-source.md`
+   einbauen, damit die Pipeline wirklich szeneweise übersetzen kann
 
 ## Konventionen – kurz
 
@@ -94,6 +120,7 @@ in `config/naming_choices.yaml` (offene Punkte: Iwanka vs. Iwan,
 - `status/logs/<Buch>/NNN.log.md` = pro Kapitel, ein File
 - Versions-Suffix: `v1` = erste Version (z. B. stylized),
   `v2` = zweite Version (z. B. literal)
+- `.env` (mit `OPENROUTER_API_KEY`) wird per `.gitignore` ausgeschlossen
 
 ## Aktueller task_progress-Stand
 
@@ -102,8 +129,9 @@ in `config/naming_choices.yaml` (offene Punkte: Iwanka vs. Iwan,
 - ✅ Namensschreibweise festgelegt: Stil A (Transliteration)
 - ✅ Pilot-Kapitel 1 in zwei Versionen angefangen
 - ✅ Namens-Kandidaten-Tabelle angelegt
-- ✅ Git initialisiert, 2 Commits lokal
-- ⏳ **Nächster Planungsschritt**: OpenRouter-Provider-System
+- ✅ Git initialisiert, Commits lokal
+- ✅ **OpenRouter-Provider-System** (Code, Config, Doku, Dry-Run)
+- ⏳ Erster echter OpenRouter-Run mit API-Key
 - ⏳ Wartet auf Feedback zum Pilot (Ton, Stil, Namen)
 - ⏳ Rest von Kapitel 1 fertigstellen
 - ⏳ Vergleichsdatei `001-compare.md`

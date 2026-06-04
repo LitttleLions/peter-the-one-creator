@@ -48,26 +48,27 @@ pipeline:
     check_names_every_n_chapters: 5
     recheck_ruleset_every_n_chapters: 5
 
-  # KI-Aufruf-Parameter (Platzhalter für später)
-  ai:
-    # Welches Modell/welcher Provider – hier nur dokumentiert,
-    # nicht in Code erzwungen
-    provider: "cline"
-    max_tokens_per_chapter: 8000
-    temperature: 0.4
-    system_prompt_template: |
-      Du bist ein literarischer Übersetzer. Du übersetzt aus dem
-      {source_lang} ins {target_lang}. Für dieses Buch gilt der
-      Stilmodus "{style_mode}".
-
-      Wenn style_mode = "stylized":
-      Wende das Regelwerk an: {ruleset_path}. Erweitere die Szene
-      durch innere Monologe, sensorische Details, Szene-und-Sequel-
-      Struktur, Sorkin'sche Konfliktdynamik. Kein "Füllmaterial",
-      sondern organische Vertiefung.
-
-      Wenn style_mode = "literal":
-      Übersetze möglichst originalgetreu, ohne Ausschmückung.
-
-      Verwende die Namensschreibweise aus dem Buch-Eintrag.
-      Liefere die Übersetzung als Markdown.
+  # ============================================================
+  # KI-Aufruf-Parameter
+  # ============================================================
+  # Die konkreten Prompts pro Stilmodus liegen in
+  # config/style_modes.yaml. Die Modus-Auswahl pro Buch liegt
+  # in config/books.yaml unter `ai.style_mode` (oder dem
+  # globalen Default unter `style_mode_default` in
+  # config/rules-overrides.yaml).
+  #
+  # Pro-Buch-Overrides für Modell, Granularität und Token-Limits
+  # liegen in config/books.yaml unter `ai.*`.
+  #
+  # Übliche Granularität:
+  #   - "scene"   = Szene für Szene übersetzen (sicherer Context,
+  #                 modular, gut debugbar) — Default.
+  #   - "chapter" = ganzes Kapitel in einem Call (riskant bei
+  #                 > 8k Wörtern, je nach Modell-Context).
+  ai_defaults:
+    granularity: scene
+    max_tokens_per_scene: 6000
+    request_timeout_sec: 180
+    retry_on_5xx: true
+    retry_max: 2
+    retry_backoff_sec: 3

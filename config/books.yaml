@@ -38,3 +38,24 @@ books:
     notes: |
       Roman in 3 Bänden von Alexei Tolstoi. Russisches Original,
       417 Seiten, ~201.000 Wörter. Buch 1 in dieser Datei.
+
+    # ============================================================
+    # KI-Provider-Konfiguration (OpenRouter)
+    # ============================================================
+    # provider       — z. Zt. nur "openrouter" implementiert.
+    # model          — OpenRouter-Modellname. Wird in `.env`
+    #                  (OPENROUTER_MODEL) oder hier überschrieben.
+    #                  Beispiele:
+    #                    anthropic/claude-3.5-sonnet
+    #                    openai/gpt-4o
+    #                    meta-llama/llama-3.1-70b-instruct
+    #                    google/gemini-2.0-flash-exp
+    # granularity    — "scene" (Szene für Szene, sicherer Context)
+    #                  oder "chapter" (ganzes Kapitel, riskant).
+    # max_tokens_per_scene — Sicherheitsdeckel pro OpenRouter-Call.
+    # ============================================================
+    ai:
+      provider: openrouter
+      model: anthropic/claude-3.5-sonnet
+      granularity: scene
+      max_tokens_per_scene: 6000

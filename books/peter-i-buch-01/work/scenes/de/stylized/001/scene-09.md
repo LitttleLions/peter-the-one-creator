@@ -1,0 +1,15 @@
+## Szene 9
+
+## 9. Das Zarenkreuz
+
+*In der Kneipe auf der Warwarka-Straße floss der Wodka wie Wasser, und die Freiheit eines Mannes konnte sich in einem einzigen Rausch in Leibeigenschaft auflösen.*
+
+Auf der Warwarka stand eine niedrige Hütte mit sechs Fenstern, mit Firstbalken und geschnitzten Hähnen – ein Kretscham, eine Zarenkneipe. Über dem Tor hing ein Widderkopf. Das Tor stand weit offen – *tritt ein, wer will*. Auf dem Hof lagen auf gelben, von Urin durchtränkten Schneewehen, auf dem Mist, Betrunkene herum – der eine mit blutig geschlagener Fresse, dem anderen hatte man die Stiefel, die Mütze gestohlen. Viele angeschirrte Bauernschlitten und Kaufmannsschlitten mit bemalten Rückwänden standen am Tor und auf dem Hof.
+
+In der Hütte hinter dem Tresen – ein strenger Schankwirt mit schwarzen Brauen. Auf dem Regal – Flaschen, zinnerne Becher. In der Ecke – Öllämpchen vor schwarzen Heiligenbildern. An den Wänden – Bänke, ein langer Tisch. Hinter der Schranke – ein zweiter, sauberer Raum für das Kaufmannsvolk. Wenn sich dorthin ein Polizist oder ein betrunkener Stadtbewohner verirrte – rief der Schankwirt ihn an, die Brauen zusammengezogen – und wenn man der höflichen Aufforderung nicht folgte, packte er einen von hinten an den Hosen und beförderte einen mit einem Schwung aus der Kneipe.
+
+Dort, im zweiten Raum – ein gesetzter Gesprächston, das Kaufmannsvolk trank Ingwerbier, heißen Sbiten. Man feilschte, schloss Geschäfte ab, schlug ein. Man sprach über die Geschäfte – die Geschäfte waren heutzutage solche, dass man sich am Hinterkopf kratzte.
+
+In der vorderen Hütte am Tresen – Geschrei, Lärm, Flüche. Trink, zeche, zahl nur. Die Staatskasse ist streng. Kein Geld – zieh den Pelz aus. Und wenn der ganze Mensch versoffen war – zwinkerte der Schankwirt dem Schreiberling zu, der setzte sich am Ende des Tisches hin – hinter dem Ohr eine Gänsefeder, am Hals ein Tintenfass – und legte los mit dem Schreiben. Oh, besinne dich, betrunkenes Haupt! Der weise Schreiberling kritzelte dir einen Schuldschein. Du kamst als freier Mann in die Zarenkneipe, du gehst als nackter Leibeigener.
+
+„Heutzutage ist das Trinken leichter geworden“, sagte der Schankwirt, während er grünen Wodka in einen zinnernen Becher laufen ließ. „Heutzutage kommt ein Freund nach dir, ein Verwandter oder die Frau läuft herbei, führt dich fort, bevor du deine Seele versoffen hast. Heutzutage lassen wir solche laufen, wir jagen nicht dem letzten Groschen nach. Geh mit Gott. Aber unter dem seligen Zaren Alexei Michailowitsch, da kam so ein Freund, um einen Betrunkenen fortzuführen, damit er den letzten Groschen nicht vertrinke… Halt… Schaden für die Staatskasse… Und dieser Groschen war der Kasse nötig… Sofort schreist du: ‚Haltet den Dieb!‘ Die Polizisten packen ihn, der vom Trinken abrät, und – ab ins Räuberamt. Und dort, nach Prüfung der Sache, hacken sie ihm die linke Hand und das rechte Bein ab und werfen ihn aufs Eis… Trinkt, Falken, trinkt, fürchtet euch vor nichts, heutzutage hacken wir keine Hände, keine Beine ab…“

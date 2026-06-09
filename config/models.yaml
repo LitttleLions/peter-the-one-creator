@@ -2,7 +2,7 @@
 # Verfuegbare OpenRouter-Modelle
 # ============================================================
 # Zentraler Katalog aller Modelle, die per
-# `config/books.yaml: ai.model` oder
+# `books/<book-id>/book.yaml: ai.model` oder
 # `python tools/translate_chapter.py --model <id>`
 # ausgewaehlt werden koennen.
 #
@@ -18,7 +18,7 @@
 # Roadmap-Punkt C: "Maximal").
 #
 # Default fuer Peter I: `deepseek/deepseek-v4-flash`
-# (gesetzt in `config/books.yaml: ai.model` und als
+# (gesetzt in `books/<book-id>/book.yaml: ai.model` und als
 # `default_for: [peter-i-buch-01]` im Katalog-Eintrag).
 # ============================================================
 
@@ -68,6 +68,11 @@ models:
     description: "Schnell, guenstig, langer Kontext – sehr gutes Preis-Leistungs-Verhaeltnis."
 
   # ── DeepSeek – Beste Preis-Leistung ──
+  - id: google/gemini-2.5-flash-lite
+    name: "Gemini 2.5 Flash Lite"
+    provider: Google
+    description: "Sehr schnelle und guenstige Gemini-Variante fuer Stiltests, kurze Szenen und Massenlaeufe."
+
   - id: deepseek/deepseek-v4-flash
     name: "DeepSeek V4 Flash"
     provider: DeepSeek
@@ -81,6 +86,11 @@ models:
     description: "Sehr guenstig, ueberraschend gute Belletristik – ideal fuer Massengenerierung."
 
   # ── Moonshot Kimi – Beliebt fuer Roleplay & Fiction ──
+  - id: deepseek/deepseek-v4-pro
+    name: "DeepSeek V4 Pro"
+    provider: DeepSeek
+    description: "Staerkere V4-Variante fuer anspruchsvollere Kapitel, Stiltreue und Review-Laeufe."
+
   - id: moonshotai/kimi-k2.6
     name: "Kimi K2.6"
     provider: MoonshotAI
@@ -104,6 +114,11 @@ models:
     description: "Vorgaenger von M2.7 – langes Kontextfenster, gut fuer Long-form."
 
   # ── Mistral – Europaeisches Modell, gut fuer deutsche Texte ──
+  - id: xiaomi/mimo-v2.5
+    name: "MiMo V2.5"
+    provider: Xiaomi
+    description: "Schnelles Modell fuer Tests, Varianten und guenstige Szenenlaeufe."
+
   - id: mistralai/mistral-large-3
     name: "Mistral Large 3"
     provider: MistralAI
@@ -114,6 +129,11 @@ models:
     name: "Qwen 3.6 Flash"
     provider: Qwen
     description: "Neue Qwen-Generation, 1M Kontext, multimodal – schnell und guenstig."
+
+  - id: qwen/qwen3.5-flash-02-23
+    name: "Qwen 3.5 Flash 02-23"
+    provider: Qwen
+    description: "Schnelle Qwen-Variante fuer Stiltests und guenstige Szenenlaeufe."
 
   - id: qwen/qwen3-235b-a22b
     name: "Qwen3 235B A22B"
@@ -138,6 +158,11 @@ models:
     description: "Aktuell kostenlos – langes Kontextfenster, gut fuer Tool-Use & Agenten."
 
   # ── Legacy-Modelle (aeltere Versionen, weiterhin verfuegbar) ──
+  - id: nvidia/nemotron-3.5-content-safety:free
+    name: "Nemotron 3.5 Content Safety (Free)"
+    provider: NVIDIA
+    description: "Kostenloses Safety-/Klassifikationsmodell; eher fuer Pruefung als fuer literarische Uebersetzung."
+
   - id: anthropic/claude-sonnet-4-5
     name: "Claude Sonnet 4.5 (Legacy)"
     provider: Anthropic
@@ -204,6 +229,6 @@ models:
 # ============================================================
 defaults:
   # Wird in `tools/translate_chapter.py` benutzt, wenn weder
-  # --model noch `books.yaml: ai.model` noch OPENROUTER_MODEL
+  # --model noch `book.yaml: ai.model` noch OPENROUTER_MODEL
   # gesetzt sind.
   fallback_model: deepseek/deepseek-v4-flash

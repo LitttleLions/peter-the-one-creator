@@ -12,21 +12,21 @@ vorhanden.
 Verwendung:
     python tools/extract_chapters.py [--book peter-i-buch-01]
 
-Wenn --book fehlt, wird der erste Eintrag aus config/books.yaml
-genommen.
+Wenn --book fehlt, wird das erste Buchpaket unter books/*/book.yaml genommen.
 """
 
 from __future__ import annotations
 
 import argparse
 import io
+import re
 import sys
 from pathlib import Path
 
 # Tools-Verzeichnis auf den Pfad setzen
 sys.path.insert(0, str(Path(__file__).parent))
 
-import yaml
+from lib.book_project import find_book as find_book_project
 from lib.rtf_parser import parse_rtf, extract_chapter_titles, Block
 from lib.status_manager import (
     BookState, ChapterState, new_book_state, save_state, add_chapter,
@@ -37,23 +37,8 @@ from lib.status_manager import (
 REPO_ROOT = Path(__file__).resolve().parent.parent
 
 
-def load_books_registry() -> list[dict]:
-    p = REPO_ROOT / "config" / "books.yaml"
-    data = yaml.safe_load(p.read_text(encoding="utf-8"))
-    return data.get("books", [])
-
-
 def find_book(book_id: str | None) -> dict:
-    books = load_books_registry()
-    if book_id is None:
-        if not books:
-            raise SystemExit("Keine Bücher in config/books.yaml")
-        return books[0]
-    for b in books:
-        if b["id"] == book_id:
-            return b
-    raise SystemExit(f"Buch mit id={book_id} nicht gefunden")
-
+    return find_book_project(REPO_ROOT, book_id)
 
 def chapter_id(idx: int) -> str:
     return f"{idx:03d}"
@@ -82,7 +67,7 @@ def build_chapter_segments(blocks: list[Block]) -> list[tuple[str, list[Block]]]
     """
     headings = extract_chapter_titles(blocks)
     if not headings:
-        return []
+        return build_fallback_segments(blocks)
 
     levels = sorted({lvl for _, lvl, _ in headings})
     target_level = None
@@ -121,6 +106,50 @@ def build_chapter_segments(blocks: list[Block]) -> list[tuple[str, list[Block]]]
     return segments
 
 
+ROMAN_CHAPTER_RE = re.compile(
+    r"^(?=[IVXLCDM]{1,12}\.?$)[IVXLCDM]+\.?$",
+    re.IGNORECASE,
+)
+PART_RE = re.compile(r"^(ЧАСТЬ|Часть)\s+.+$")
+
+
+def build_fallback_segments(blocks: list[Block]) -> list[tuple[str, list[Block]]]:
+    """
+    Fallback fuer Quellen ohne RTF-Heading-Struktur.
+
+    Viele Klassiker aus E-Book-Quellen markieren Teile/Kapitel als normale
+    Absaetze, z. B. "ЧАСТЬ ПЕРВАЯ" und danach "I", "II", "III". In diesem
+    Fall schneiden wir an den roemischen Kapitelmarkern und merken den
+    aktuellen Teil im Titel.
+    """
+    segments: list[tuple[str, list[Block]]] = []
+    current_part = ""
+    current_title: str | None = None
+    current_buf: list[Block] = []
+
+    for block in blocks:
+        text = block.text.strip()
+        if PART_RE.match(text):
+            current_part = text
+            continue
+        if ROMAN_CHAPTER_RE.match(text):
+            if current_title is not None:
+                segments.append((current_title, current_buf))
+            current_title = f"{current_part} - {text}" if current_part else text
+            current_buf = []
+            continue
+        if current_title is None:
+            continue
+        current_buf.append(block)
+
+    if current_title is not None:
+        segments.append((current_title, current_buf))
+    return segments
+
+
+SCENE_NUMBER_RE = re.compile(r"^\s*(\d+)\s*$")
+
+
 def render_chapter_md(title: str, blocks: list[Block], idx: int,
                       book_title: str) -> str:
     lines = []
@@ -137,8 +166,14 @@ def render_chapter_md(title: str, blocks: list[Block], idx: int,
             lines.append(f"## {b.text}")
             lines.append("")
         elif b.kind == "paragraph":
-            lines.append(b.text)
-            lines.append("")
+            # Nackte Szenen-Numbers (z.B. "1", "2.") als ## N Headings
+            m = SCENE_NUMBER_RE.match(b.text)
+            if m:
+                lines.append(f"## {m.group(1)}")
+                lines.append("")
+            else:
+                lines.append(b.text)
+                lines.append("")
     return "\n".join(lines)
 
 

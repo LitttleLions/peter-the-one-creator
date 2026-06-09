@@ -1,0 +1,122 @@
+{
+  "book_id": "anna-karenina",
+  "book_title": "Anna Karenina",
+  "style": "stil-02-poetisch",
+  "scope": "book",
+  "chapter": null,
+  "format": "epub",
+  "partial": true,
+  "created_at": "2026-06-08T15:43:42",
+  "chapters": [
+    {
+      "id": "001",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "002",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "003",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "004",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "005",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "006",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "007",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "008",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "009",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "010",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "011",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "012",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "013",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "014",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "015",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "016",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "017",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "018",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "019",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "020",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "021",
+      "scenes": 1,
+      "missing": []
+    }
+  ],
+  "outputs": [
+    "books\\anna-karenina\\exports\\stil-02-poetisch\\book\\epub\\book-anna-karenina-stil-02-poetisch-20260608-154341.epub"
+  ],
+  "work_markdown": "books\\anna-karenina\\exports\\stil-02-poetisch\\book\\work\\book-anna-karenina-stil-02-poetisch-20260608-154341.md",
+  "cover": "books\\anna-karenina\\assets\\covers\\annakarenina.png"
+}

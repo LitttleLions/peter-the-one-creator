@@ -1,0 +1,81 @@
+# ============================================================
+# Buecher-Registry
+# ============================================================
+# Neue Buecher werden mit tools/init_book.py oder im Dashboard
+# unter Buch-Setup registriert. Die Quelldateien in books/
+# bleiben unveraendert.
+# ============================================================
+
+books:
+- id: peter-i-buch-01
+  title: Peter der Erste
+  author: Alexei Tolstoi
+  source_path: books/Peter I - Buch 01 - royallib.ru.doc
+  source_lang: ru
+  target_lang: de
+  ruleset_path: logic/peter the one - Regeln 001.txt
+  ruleset_apply: true
+  style_mode: stil-03-branderson
+  output_dir: output/Peter I
+  status_file: status/Peter I.status.json
+  log_dir: status/logs/Peter I
+  naming_convention:
+    style: russische Transliteration (Duden-Standard)
+    example:
+    - Пётр -> Peter
+    - Иван -> Iwan
+    - Софья -> Sofja
+    - Алексей -> Alexei
+    - Толстой -> Tolstoi
+  notes: 'Roman in 3 Bänden von Alexei Tolstoi. Russisches Original,
+
+    417 Seiten, ~201.000 Wörter. Buch 1 in dieser Datei.
+
+    '
+  ai:
+    provider: openrouter
+    model: deepseek/deepseek-v4-flash
+    granularity: scene
+    max_tokens_per_scene: 10000
+- id: anna-karenina
+  title: Anna Karenina
+  author: Lew Tolstoi
+  source_path: books/Lew Tolstoi - Anna Karenina.rtf
+  source_lang: ru
+  target_lang: de
+  ruleset_path: ''
+  ruleset_apply: false
+  style_mode: stil-01-original
+  output_dir: output/anna-karenina
+  status_file: status/anna-karenina.status.json
+  log_dir: status/logs/anna-karenina
+  naming_convention:
+    style: ''
+    example: []
+  notes: Neu angelegtes Buch.
+  ai:
+    provider: openrouter
+    model: deepseek/deepseek-v4-flash
+    granularity: scene
+    max_tokens_per_scene: 10000
+- id: anna-karenina-2
+  title: Anna Karenina
+  author: Lew Tolstoi
+  source_path: books/Peter I - Buch 01 - royallib.ru.rtf
+  source_lang: ru
+  target_lang: de
+  ruleset_path: ''
+  ruleset_apply: true
+  style_mode: stil-01-original
+  output_dir: output/anna-karenina-2
+  status_file: status/anna-karenina-2.status.json
+  log_dir: status/logs/anna-karenina-2
+  naming_convention:
+    style: ''
+    example: []
+  notes: Neu angelegtes Buch.
+  ai:
+    provider: openrouter
+    model: deepseek/deepseek-v4-flash
+    granularity: scene
+    max_tokens_per_scene: 10000

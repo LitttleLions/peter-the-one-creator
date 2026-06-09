@@ -1,0 +1,58 @@
+entries:
+- source: Анна Аркадьевна Каренина
+  target: Anna Arkadjewna Karenina
+  aliases:
+  - Anna Karenina
+  type: person
+  status: draft
+  note: Hauptfigur; Patronymisch in formellen Kontexten erhalten.
+- source: Алексей Александрович Каренин
+  target: Alexei Alexandrowitsch Karenin
+  aliases:
+  - Karenin
+  type: person
+  status: draft
+  note: Formelle russische Namensstruktur bewahren.
+- source: Алексей Кириллович Вронский
+  target: Alexei Kirillowitsch Wronski
+  aliases:
+  - Wronski
+  type: person
+  status: draft
+  note: Deutsche Tolstoi-Tradition meist Wronski.
+- source: Степан Аркадьевич Облонский
+  target: Stepan Arkadjewitsch Oblonski
+  aliases:
+  - Stiwa
+  - Oblonski
+  type: person
+  status: draft
+  note: Kosename Stiwa in vertrauter Rede.
+- source: Дарья Александровна Облонская
+  target: Darja Alexandrowna Oblonskaja
+  aliases:
+  - Dolly
+  type: person
+  status: draft
+  note: Dolly als Rufname erhalten.
+- source: Екатерина Александровна Щербацкая
+  target: Jekaterina Alexandrowna Schtscherbazkaja
+  aliases:
+  - Kitty
+  type: person
+  status: draft
+  note: Kitty als etablierter Rufname erhalten.
+- source: Константин Дмитриевич Левин
+  target: Konstantin Dmitrijewitsch Lewin
+  aliases:
+  - Lewin
+  type: person
+  status: draft
+  note: Hauptfigur; deutsche Transkription Lewin.
+- source: Николай Дмитриевич Левин
+  target: Nikolai Dmitrijewitsch Lewin
+  aliases:
+  - Nikolai
+  type: person
+  status: draft
+  note: Bruder Lewins.

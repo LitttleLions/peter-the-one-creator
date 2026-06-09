@@ -1,0 +1,101 @@
+defaults:
+  language: de-DE
+  publisher: ''
+  rights: ''
+  description: ''
+  cover:
+    mode: placeholder
+    image_path: ''
+    background: '#f59e0b'
+    foreground: '#ffffff'
+  front_matter:
+    cover_in_body: true
+    title_page: true
+    summary_page: true
+    author_bio_page: true
+    description_page: false
+    imprint_page: false
+    toc_page: false
+    combined_epub_front_matter: false
+    combined_heading: Titelei
+    cover_heading: Cover
+    title_heading: Titelseite
+    summary_heading: Zusammenfassung
+    author_bio_heading: Leben des Autors
+    description_heading: Zu dieser Ausgabe
+    imprint_heading: Impressum
+    toc_heading: Inhalt
+  output:
+    chapter_headings: true
+    scene_numbers: false
+    strip_control_metadata: true
+    scene_separator: '* * *'
+book:
+  title: Peter der Erste
+  subtitle: Buch 1
+  author: Alexei Tolstoi
+  translator: Motivatier 2025
+  language: de-DE
+  publisher: ''
+  rights: ''
+  description: >-
+    Peter der Erste erzählt vom Aufstieg eines Herrschers, der Russland mit
+    Gewalt, Willenskraft und visionärer Unruhe aus der alten Welt in die
+    Moderne stößt. Alexei Tolstoi zeichnet Peter nicht als entrückten
+    Monarchen, sondern als rastlosen, widersprüchlichen Menschen: roh und
+    genial, grausam und neugierig, maßlos in seinem Ehrgeiz und doch getrieben
+    von der Überzeugung, ein rückständiges Reich neu erschaffen zu müssen.
+
+    Vor dem Hintergrund von Machtkämpfen, Hofintrigen, Krieg, Reformen und
+    persönlicher Härte entsteht das Panorama eines Landes im Umbruch. Das alte
+    Moskowien mit seinen Bojaren, Traditionen und religiösen Gewissheiten
+    trifft auf den ungestümen Willen eines Zaren, der Schiffe bauen, Städte
+    gründen, Armeen modernisieren und Russland nach Europa öffnen will - koste
+    es, was es wolle.
+
+    Tolstois historischer Roman ist zugleich Herrscherporträt,
+    Gesellschaftsepos und dramatische Erzählung über den Preis des
+    Fortschritts. Peter erscheint als Revolutionär auf dem Thron: ein Mann, der
+    sein Land nach vorn peitscht und dabei Menschen, Gegner und sich selbst
+    verbraucht. Ein kraftvoller Roman über Macht, Modernisierung und die Frage,
+    ob ein Staat erneuert werden kann, ohne an seiner eigenen Brutalität zu
+    zerbrechen.
+  summary: >-
+    Peter der Erste erzählt vom Aufstieg eines Herrschers, der Russland mit
+    Gewalt, Willenskraft und visionärer Unruhe aus der alten Welt in die
+    Moderne stößt. Alexei Tolstoi zeichnet Peter nicht als entrückten
+    Monarchen, sondern als rastlosen, widersprüchlichen Menschen: roh und
+    genial, grausam und neugierig, maßlos in seinem Ehrgeiz und doch getrieben
+    von der Überzeugung, ein rückständiges Reich neu erschaffen zu müssen.
+
+    Vor dem Hintergrund von Machtkämpfen, Hofintrigen, Krieg, Reformen und
+    persönlicher Härte entsteht das Panorama eines Landes im Umbruch. Das alte
+    Moskowien mit seinen Bojaren, Traditionen und religiösen Gewissheiten
+    trifft auf den ungestümen Willen eines Zaren, der Schiffe bauen, Städte
+    gründen, Armeen modernisieren und Russland nach Europa öffnen will - koste
+    es, was es wolle.
+
+    Tolstois historischer Roman ist zugleich Herrscherporträt,
+    Gesellschaftsepos und dramatische Erzählung über den Preis des
+    Fortschritts. Peter erscheint als Revolutionär auf dem Thron: ein Mann, der
+    sein Land nach vorn peitscht und dabei Menschen, Gegner und sich selbst
+    verbraucht. Ein kraftvoller Roman über Macht, Modernisierung und die Frage,
+    ob ein Staat erneuert werden kann, ohne an seiner eigenen Brutalität zu
+    zerbrechen.
+  author_bio: >-
+    Alexei Nikolajewitsch Tolstoi (1883-1945) zählt zu den bekanntesten
+    russisch-sowjetischen Schriftstellern des 20. Jahrhunderts. Er schrieb
+    Romane, Erzählungen, Theaterstücke, Science-Fiction und Kinderliteratur. Zu
+    seinen wichtigsten Werken gehören "Aelita", "Der Hyperboloid des Ingenieurs
+    Garin", die Romantrilogie "Der Leidensweg" sowie sein großer historischer
+    Roman "Peter der Erste".
+
+    In "Peter der Erste" schildert Tolstoi den Aufstieg Zar Peters I. und die
+    gewaltsame Modernisierung Russlands. Der Roman verbindet historisches
+    Panorama, politische Machtkämpfe und das Porträt eines Herrschers, der sein
+    Land mit ungeheurer Energie nach Europa öffnen will. Peter erscheint als
+    Reformator und Machtmensch zugleich - visionär, brutal, rastlos und von dem
+    Willen getrieben, Russland neu zu formen.
+  cover:
+    mode: image
+    image_path: assets/covers/peteri.png

@@ -20,6 +20,17 @@ def chapter_log_path(log_dir: str | Path, chapter_id: str) -> Path:
     return Path(log_dir) / f"{chapter_id}.log.md"
 
 
+def extract_section(text: str, section: str) -> str:
+    heading = f"## {section}"
+    start = text.find(heading)
+    if start == -1:
+        return ""
+    next_start = text.find("\n## ", start + len(heading))
+    if next_start == -1:
+        return text[start:].strip()
+    return text[start:next_start].strip()
+
+
 def write_chapter_log(
     log_dir: str | Path,
     chapter_id: str,
@@ -37,6 +48,7 @@ def write_chapter_log(
     """
     path = chapter_log_path(log_dir, chapter_id)
     path.parent.mkdir(parents=True, exist_ok=True)
+    previous_text = path.read_text(encoding="utf-8") if path.exists() else ""
 
     delta = words_target - words_source
     pct = (words_target / words_source * 100) if words_source else 0
@@ -79,6 +91,11 @@ def write_chapter_log(
     if notes:
         lines.append("## Notizen")
         lines.append(notes)
+        lines.append("")
+
+    token_history = extract_section(previous_text, "Token-Historie")
+    if token_history:
+        lines.append(token_history)
         lines.append("")
 
     path.write_text("\n".join(lines), encoding="utf-8")

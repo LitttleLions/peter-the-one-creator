@@ -1,0 +1,53 @@
+## Szene 1
+
+Der Ball hatte kaum begonnen, als Kitty mit ihrer Mutter die große, von Licht überflutete Treppe hinaufstieg, gesäumt von Blumen und Lakaien in gepuderten Perücken und roten Kaftanen. Aus den Sälen drang ein gleichmäßiges, bienenstockartiges Rauschen der Bewegung, und während sie sich auf dem Treppenabsatz zwischen den Bäumen vor dem Spiegel frisierten und ihre Kleider richteten, erklangen aus dem Saal die vorsichtig-deutlichen Töne der Geigen, die den ersten Walzer begannen. Ein älterer Herr in Zivil, der an einem anderen Spiegel seine grauen Koteletten zurechtrückte und einen Duft von Parfüm verströmte, kam ihnen auf der Treppe entgegen, trat beiseite und betrachtete offenbar bewundernd die ihm unbekannte Kitty. Ein bartloser Jüngling, einer jener jungen Leute aus der Gesellschaft, die der alte Fürst Schtscherbazki „Tütchen“ nannte, in einer überaus tief ausgeschnittenen Weste, band sich im Gehen seine weiße Krawatte, verbeugte sich, lief vorbei und kehrte zurück, um Kitty zur Quadrille aufzufordern. Die erste Quadrille hatte sie bereits Wronski zugesagt; sie musste diesem Jüngling die zweite geben. Ein Offizier, der seinen Handschuh zuknöpfte, wich an der Tür zur Seite, strich sich den Schnurrbart und betrachtete bewundernd die rosige Kitty.
+
+Obwohl Toilette, Frisur und alle Vorbereitungen für den Ball Kitty viel Mühe und Überlegung gekostet hatten, betrat sie jetzt in ihrem kunstvollen Tüllkleid über einem rosafarbenen Unterkleid den Ball so frei und unbefangen, als ob all diese Rosetten, Spitzen, alle Einzelheiten der Toilette weder ihr noch ihren Angehörigen auch nur einen Augenblick Aufmerksamkeit abverlangt hätten, als ob sie in diesem Tüll, diesen Spitzen, mit dieser hoch aufgetürmten Frisur, mit der Rose und den zwei Blättern oben darauf geboren worden wäre.
+
+Als die alte Fürstin vor dem Eingang zum Saal das umgeschlagene Band ihres Gürtels zurechtrücken wollte, wich Kitty leicht zurück. Sie fühlte, dass alles an ihr von selbst gut und graziös sein müsse und dass nichts zurechtgerückt werden brauche.
+
+Kitty hatte einen ihrer glücklichen Tage. Das Kleid drückte nirgends, die Spitzenberte saß fest, die Rosetten waren weder zerdrückt noch abgerissen; die rosafarbenen Schuhe mit den hohen, geschwungenen Absätzen drückten nicht, sondern erfreuten den Fuß. Die dichten Zöpfe ihres blonden Haares hielten wie angegossen auf dem kleinen Kopf. Alle drei Knöpfe an den langen Handschuhen, die ihren Arm umschlossen, ohne seine Form zu verändern, hatten sich zugeknöpft, ohne zu reißen. Das schwarze Samtband des Medaillons umschloss ihren Hals von besonders zarter Innigkeit. Dieses Samtband war ein wahrer Liebreiz, und zu Hause hatte Kitty, als sie im Spiegel ihren Hals betrachtete, gefühlt, dass dieses Band sprach. An allem anderen hätte es noch Zweifel geben können, doch das Samtband war entzückend. Kitty lächelte, als sie es jetzt auf dem Ball im Spiegel erblickte. Auf ihren entblößten Schultern und Armen spürte Kitty eine kühle Marmorkühle, ein Gefühl, das sie besonders liebte. Ihre Augen glänzten, und die rosigen Lippen konnten nicht anders als lächeln aus dem Bewusstsein ihrer eigenen Anziehungskraft. Kaum war sie in den Saal getreten und bis zu der tüll-band-spitzen-blumigen Schar von Damen gelangt, die auf eine Aufforderung zum Tanze warteten (Kitty hatte nie in dieser Schar gestanden), als sie auch schon zum Walzer aufgefordert wurde — und zwar von dem besten Kavalier, dem Hauptkavalier der Ballhierarchie, dem berühmten Ballordner, Zeremonienmeister, einem verheirateten, gutaussehenden und stattlichen Mann, Jegoruschka Korsunski. Kaum hatte er die Gräfin Banina verlassen, mit der er die erste Walzerrunde getanzt hatte, als er, sein Reich überschauend, das heißt die Paare, die sich zum Tanz aufgestellt hatten, die eintretende Kitty erblickte und mit jenem besonderen, nur Ballordnern eigenen, lässigen Passgang auf sie zueilte, sich verbeugte und, ohne auch nur zu fragen, ob sie wolle, den Arm ausstreckte, um ihre schlanke Taille zu umfassen. Sie sah sich um, wem sie den Fächer geben sollte, und die Hausherrin nahm ihn ihr lächelnd ab.
+
+„Wie gut, dass Sie pünktlich gekommen sind“, sagte er zu ihr, während er ihre Taille umfasste, „sonst, was soll das für eine Unsitte sein, zu spät zu kommen.“
+
+Sie legte den linken Arm gebeugt auf seine Schulter, und die kleinen Füße in den rosafarbenen Schuhen begannen sich schnell, leicht und gleichmäßig im Takt der Musik über das glatte Parkett zu bewegen.
+
+„Man erholt sich, wenn man mit Ihnen walzert“, sagte er zu ihr, während er die ersten langsamen Walzerschritte tat. „Entzückend, diese Leichtigkeit, Präzision“, sagte er zu ihr, was er fast allen guten Bekannten sagte.
+
+Sie lächelte ob seines Lobes und musterte weiter über seine Schulter hinweg den Saal. Sie war kein junges Mädchen, das zum ersten Mal ausging, für das auf dem Ball alle Gesichter zu einem einzigen magischen Eindruck verschmolzen; sie war auch kein ballmüdes Mädchen, dem alle Gesichter des Balls so vertraut waren, dass sie Langeweile machten; sie stand in der Mitte zwischen beiden — sie war angeregt und zugleich so sehr bei sich, dass sie beobachten konnte. In der linken Ecke des Saales, sah sie, hatte sich die Blüte der Gesellschaft versammelt. Dort war die unmöglich entblößte Schönheit Lidi, Korsunskis Frau, dort war die Hausherrin, dort glänzte mit seiner Glatze Kriwin, der stets dort war, wo die Blüte der Gesellschaft weilte; dorthin blickten die jungen Männer, ohne sich zu nähern zu wagen; und dort fand sie mit ihren Augen Stiwa und erblickte dann die anmutige Gestalt und den Kopf Annas im schwarzen Samtkleid. Und er war auch dort. Kitty hatte ihn seit jenem Abend nicht gesehen, als sie Lewin abgewiesen hatte. Kitty erkannte ihn sofort mit ihren scharfen Augen und bemerkte sogar, dass er zu ihr herübersah.
+
+„Was meinen Sie? Noch eine Runde? Sind Sie nicht müde?“, sagte Korsunski, leicht außer Atem.
+
+„Nein, ich danke Ihnen.“
+
+„Wohin soll ich Sie führen?“
+
+„Karenina ist hier, scheint mir … bringen Sie mich zu ihr.“
+
+„Wie Sie befehlen.“
+
+Und Korsunski walzerte, sein Tempo verlangsamend, direkt auf die Gruppe in der linken Saalecke zu, wobei er sagte: „Pardon, mesdames, pardon, pardon, mesdames“, und, zwischen einem Meer von Spitzen, Tüll und Bändern hindurchsteuernd, ohne auch nur eine Feder zu streifen, wandte er schroff seine Dame, so dass ihre schlanken Beine in den durchbrochenen Strümpfen sichtbar wurden und die Schleppe sich fächerartig ausbreitete und Kriwin die Knie bedeckte. Korsunski verbeugte sich, richtete seine entblößte Brust auf und bot seinen Arm, um sie zu Anna Arkadjewna zu führen. Kitty, errötend, befreite ihre Schleppe von Kriwins Knien und, leicht benommen vom Drehen, sah sie sich um, nach Anna suchend. Anna trug nicht das lilafarbene Kleid, wie Kitty es sich unbedingt gewünscht hatte, sondern ein schwarzes, tief ausgeschnittenes Samtkleid, das ihre vollen, wie aus altem Elfenbein gemeißelten Schultern und Brust und ihre gerundeten Arme mit der feinen, winzigen Hand freigab. Das ganze Kleid war mit venezianischem Gipüre besetzt. Auf ihrem Kopf, im schwarzen Haar, ihrem eigenen ohne Beimischung, steckte eine kleine Girlande von Stiefmütterchen, und dieselben auf einem schwarzen Band des Gürtels zwischen den weißen Spitzen. Ihre Frisur war unauffällig. Auffällig waren nur die sie schmückenden widerspenstigen kleinen Ringellöckchen des lockigen Haares, die stets am Hinterkopf und an den Schläfen hervorsprangen. Um den festen, wohlgeformten Hals lag eine Schnur Perlen.
+
+Kitty sah Anna jeden Tag, war in sie verliebt und hatte sie sich unbedingt in Lila vorgestellt. Aber jetzt, da sie sie in Schwarz sah, fühlte sie, dass sie ihre ganze Anmut nicht verstanden hatte. Jetzt sah sie sie völlig neu und unerwartet für sich. Jetzt verstand sie, dass Anna kein Lila tragen konnte und dass ihre Anmut gerade darin bestand, dass sie stets über ihre Kleidung hinauswuchs, dass die Kleidung an ihr nie sichtbar sein konnte. Und das schwarze Kleid mit den üppigen Spitzen war an ihr nicht sichtbar; es war nur ein Rahmen, und sichtbar war nur sie selbst, schlicht, natürlich, elegant und zugleich heiter und lebhaft.
+
+Sie stand, wie immer, außerordentlich aufrecht, und als Kitty zu dieser Gruppe trat, sprach sie mit dem Hausherrn, den Kopf leicht zu ihm hingewandt.
+
+„Nein, ich werde keinen Stein werfen“, antwortete sie ihm auf irgendetwas, „obwohl ich nicht verstehe“, fuhr sie fort, die Achseln zuckend, und wandte sich sofort mit einem zärtlichen Lächeln der Gönnerschaft Kitty zu. Mit einem flüchtigen weiblichen Blick überflog sie deren Toilette und machte eine kaum merkliche, für Kitty jedoch verständliche Bewegung des Kopfes, die deren Kleidung und Schönheit billigte. „Sie betreten den Saal schon tanzend“, fügte sie hinzu.
+
+„Das ist eine meiner zuverlässigsten Helferinnen“, sagte Korsunski, sich vor Anna Arkadjewna verbeugend, die er noch nicht gesehen hatte. „Die Fürstin hilft, den Ball fröhlich und schön zu machen. Anna Arkadjewna, eine Walzerrunde“, sagte er, sich verneigend.
+
+„Sind Sie miteinander bekannt?“, fragte der Hausherr.
+
+„Mit wem sind wir nicht bekannt? Meine Frau und ich sind wie die weißen Wölfe, alle kennen uns“, antwortete Korsunski. „Eine Walzerrunde, Anna Arkadjewna.“
+
+„Ich tanze nicht, wenn ich nicht tanzen muss“, sagte sie.
+
+„Aber heute geht es nicht anders“, erwiderte Korsunski.
+
+In diesem Augenblick trat Wronski heran.
+
+„Nun, wenn es heute nicht anders geht, dann gehen wir tanzen“, sagte sie, ohne Wronskis Verbeugung zu bemerken, und legte schnell ihre Hand auf Korsunskis Schulter.
+
+„Weshalb ist sie ungehalten auf ihn?“, dachte Kitty, als sie bemerkte, dass Anna absichtlich nicht auf Wronskis Verbeugung reagierte. Wronski trat auf Kitty zu, erinnerte sie an die erste Quadrille und bedauerte, dass er nicht die Gelegenheit gehabt hatte, sie all die Zeit zu sehen. Kitty blickte bewundernd auf die walzernde Anna und hörte ihm zu. Sie erwartete, dass er sie zum Walzer auffordern würde, aber er forderte sie nicht auf, und sie sah ihn verwundert an. Er errötete und forderte sie hastig zum Walzer auf, aber kaum hatte er ihre schlanke Taille umfasst und den ersten Schritt getan, als plötzlich die Musik abbrach. Kitty blickte in sein Gesicht, das ihr so nahe war, und lange noch, viele Jahre später, schnitt dieser Blick voller Liebe, mit dem sie ihn damals angesehen hatte und den er ihr nicht erwidert hatte, mit schmerzhafter Scham in ihr Herz.
+
+„Pardon, pardon! Walzer, Walzer!“, rief Korsunski von der anderen Seite des Saales und, die erstbeste junge Dame packend, begann er selbst zu tanzen.

@@ -3,18 +3,13 @@ RTF-Parser für peter-the-one (v4 – pragmatic)
 =============================================
 
 Strategie (einfach und robust):
-1. Rohe RTF-Bytes einlesen (cp1251)
-2. Mit striprtf den vollständigen Plain-Text extrahieren
-3. Plain-Text anhand von \\n+\\n in Paragraphen aufteilen
-4. Paragraphen als "heading" markieren, wenn sie einem
+1. Rohe RTF-Bytes einlesen
+2. `\\'xx`-Escape-Sequenzen manuell als CP1251 dekodieren
+   (die Datei deklariert fälschlich ansicpg1252, ist aber kyrillisch)
+3. Mit striprtf den Plain-Text extrahieren
+4. Plain-Text anhand von \n+\n in Paragraphen aufteilen
+5. Paragraphen als "heading" markieren, wenn sie einem
    Heading-Pattern entsprechen (Книга/Глава/Часть/...)
-5. Optional: Style-Hinweise aus dem Rohtext extrahieren und
-   anhand der Reihenfolge zuordnen
-
-Vorteil: striprtf handhabt alle RTF-Sonderfälle korrekt, wir
-bekommen garantiert den vollen Text. Heading-Erkennung läuft
-rein über Text-Patterns, was für russische Literatur zuverlässig
-funktioniert.
 """
 
 from __future__ import annotations
@@ -63,14 +58,38 @@ def _classify_paragraph(text: str) -> Tuple[str, int]:
     return "paragraph", 0
 
 
+# Regex zum Finden von \'xx-Escape-Sequenzen in RTF
+RTF_ESC_RE = re.compile(rb"\\'([0-9a-fA-F]{2})")
+
+
+def _decode_rtf_escapes(raw_bytes: bytes) -> bytes:
+    """
+    Ersetzt alle `\\'xx`-Sequenzen im RTF durch das entsprechende
+    CP1251-Byte. Danach werden keine Escape-Sequenzen mehr da sein,
+    und striprtf kann sie nicht mehr falsch interpretieren.
+    """
+    def _replace_escape(m: re.Match) -> bytes:
+        hex_val = m.group(1).decode("ascii")
+        byte_val = bytes.fromhex(hex_val)
+        return byte_val
+
+    return RTF_ESC_RE.sub(_replace_escape, raw_bytes)
+
+
 def parse_rtf(path: str | Path) -> Tuple[List[Block], dict]:
     raw_bytes = Path(path).read_bytes()
-    raw_text = raw_bytes.decode("cp1251", errors="replace")
+    
+    # Schritt 1: \'xx-Escapes als Roh-Bytes ersetzen
+    decoded_bytes = _decode_rtf_escapes(raw_bytes)
+    
+    # Schritt 2: Als CP1251 dekodieren (korrekt für Kyrillisch)
+    raw_text = decoded_bytes.decode("cp1251", errors="replace")
+    
+    # Schritt 3: striprtf extrahiert Plain-Text
+    # (es findet keine \'xx-Escapes mehr, da bereits ersetzt)
     full_plain = rtf_to_text(raw_text, errors="ignore")
 
     # An aufeinanderfolgenden Leerzeilen splitten
-    # striprtf trennt Paragraphen typischerweise mit \n
-    # Wir nehmen \n\n oder mehr als Blockgrenze
     raw_paras = re.split(r"\n+", full_plain)
     blocks: List[Block] = []
     for p in raw_paras:

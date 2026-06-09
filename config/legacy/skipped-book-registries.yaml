@@ -1,0 +1,22 @@
+skipped:
+- id: anna-karenina-2
+  title: Anna Karenina
+  author: Lew Tolstoi
+  source_path: books/Peter I - Buch 01 - royallib.ru.rtf
+  source_lang: ru
+  target_lang: de
+  ruleset_path: ''
+  ruleset_apply: true
+  style_mode: stil-01-original
+  output_dir: output/anna-karenina-2
+  status_file: status/anna-karenina-2.status.json
+  log_dir: status/logs/anna-karenina-2
+  naming_convention:
+    style: ''
+    example: []
+  notes: Neu angelegtes Buch.
+  ai:
+    provider: openrouter
+    model: deepseek/deepseek-v4-flash
+    granularity: scene
+    max_tokens_per_scene: 10000

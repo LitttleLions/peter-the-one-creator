@@ -1,4 +1,4 @@
-"""
+﻿"""
 status.py – CLI für die peter-the-one-Pipeline
 ==============================================
 
@@ -30,7 +30,7 @@ except Exception:
         sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8",
                                       errors="replace")
 
-import yaml
+from lib.book_project import find_book as find_book_project
 from lib.status_manager import (
     BookState, load_state, save_state,
     mark_in_progress, mark_done, mark_pending,
@@ -42,17 +42,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 
 
 def find_book(book_id: str | None) -> dict:
-    p = REPO_ROOT / "config" / "books.yaml"
-    data = yaml.safe_load(p.read_text(encoding="utf-8"))
-    books = data.get("books", [])
-    if book_id is None:
-        if not books:
-            raise SystemExit("Keine Bücher in config/books.yaml")
-        return books[0]
-    for b in books:
-        if b["id"] == book_id:
-            return b
-    raise SystemExit(f"Buch mit id={book_id} nicht gefunden")
+    return find_book_project(REPO_ROOT, book_id)
 
 
 def load_book_state(book: dict) -> tuple[BookState, Path]:
@@ -68,15 +58,19 @@ def cmd_summary(args) -> int:
     state, _ = load_book_state(book)
     from lib.status_manager import summary
     print(summary(state))
+    current_style = book.get("style_mode")
+    if current_style and current_style != state.style_mode:
+        print(f"Aktuelles Style-Profil aus book.yaml: {current_style}")
     return 0
 
 
 def cmd_list(args) -> int:
     book = find_book(args.book)
     state, _ = load_book_state(book)
+    current_style = book.get("style_mode", state.style_mode)
     print(f"Buch: {state.title}")
     print(f"Regelwerk: {'AN' if state.ruleset_apply else 'AUS'}, "
-          f"Stil: {state.style_mode}")
+          f"Stil: {current_style}")
     print("-" * 80)
     print(f"{'ID':>3}  {'Status':<14}  {'Wörter':>10}  {'Titel RU'}")
     print("-" * 80)
@@ -167,3 +161,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
+

@@ -15,7 +15,8 @@ pipeline:
   output:
     chapter_format: md
     manuscript_format: md
-    manuscript_export_docx: true   # Pandoc-Aufruf zum Export nach Word
+    manuscript_export_docx: true   # tools/export_manuscript.py erzeugt DOCX
+    manuscript_export_epub: true   # tools/export_manuscript.py erzeugt EPUB via Pandoc
 
   # Encoding
   encoding_source: cp1251   # Kyrillisch in der .doc-Datei
@@ -53,12 +54,12 @@ pipeline:
   # ============================================================
   # Die konkreten Prompts pro Stilmodus liegen in
   # config/style_modes.yaml. Die Modus-Auswahl pro Buch liegt
-  # in config/books.yaml unter `ai.style_mode` (oder dem
+  # in books/<book-id>/book.yaml unter `style_mode` (oder dem
   # globalen Default unter `style_mode_default` in
   # config/rules-overrides.yaml).
   #
   # Pro-Buch-Overrides für Modell, Granularität und Token-Limits
-  # liegen in config/books.yaml unter `ai.*`.
+  # liegen in books/<book-id>/book.yaml unter `ai.*`.
   #
   # Übliche Granularität:
   #   - "scene"   = Szene für Szene übersetzen (sicherer Context,

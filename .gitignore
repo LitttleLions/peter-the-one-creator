@@ -61,6 +61,8 @@ htmlcov/
 /dryrun.txt
 /extract_run.txt
 /final_status.txt
+/.dashboard-batch-job.json
+/var/
 *.bak
 *.tmp
 *.orig

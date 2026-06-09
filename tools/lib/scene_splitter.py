@@ -10,7 +10,9 @@ gilt als "Frontmatter" (Titel-Block, Header).
 Verwendung:
     from lib.scene_splitter import split_into_scenes
 
-    frontmatter, scenes = split_into_scenes(Path("output/.../001-source.md"))
+    frontmatter, scenes = split_into_scenes(
+        Path("books/<book-id>/work/chapters/001-source.md")
+    )
     # frontmatter: str (Header / Lede)
     # scenes: list[Scene] mit .number, .title, .text
 """
@@ -24,8 +26,9 @@ from typing import Optional
 
 
 # Akzeptiert "## 1", "## 1.", "## 1. Titel", "## 1 — Titel"
+# Sowie nackte Zahlen auf separaten Zeilen: "1", "2.", etc.
 SCENE_HEADING_RE = re.compile(
-    r"^##\s+(\d+)\.?\s*(.*?)\s*$"
+    r"^(?:##\s+)?(\d+)\.?\s*(.*?)\s*$"
 )
 
 

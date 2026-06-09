@@ -1,0 +1,78 @@
+defaults:
+  language: de-DE
+  publisher: ''
+  rights: ''
+  description: ''
+  cover:
+    mode: placeholder
+    image_path: ''
+    background: '#f59e0b'
+    foreground: '#ffffff'
+  front_matter:
+    cover_in_body: true
+    title_page: true
+    summary_page: true
+    author_bio_page: true
+    description_page: false
+    imprint_page: false
+    toc_page: false
+    combined_epub_front_matter: false
+    combined_heading: Titelei
+    cover_heading: Cover
+    title_heading: Titelseite
+    summary_heading: Zusammenfassung
+    author_bio_heading: Leben des Autors
+    description_heading: Zu dieser Ausgabe
+    imprint_heading: Impressum
+    toc_heading: Inhalt
+  output:
+    chapter_headings: true
+    scene_numbers: false
+    strip_control_metadata: true
+    scene_separator: '* * *'
+book:
+  title: Anna Karenina
+  subtitle: Roman
+  author: Lew Tolstoi
+  translator: Motivatier
+  language: de-DE
+  publisher: ''
+  rights: ''
+  description: >-
+    Anna Karenina lebt in einer Welt, die Glanz, Ordnung und Sicherheit
+    verspricht. Doch als sie dem Offizier Graf Wronski begegnet, geraet die
+    scheinbar feste Form ihres Lebens ins Wanken. Was als Leidenschaft beginnt,
+    wird zu einer Entscheidung gegen Konvention, Familie und gesellschaftliche
+    Schonung. Tolstoi erzaehlt diese Liebe nicht als blosses Drama, sondern als
+    feines Geflecht aus Begehren, Scham, Pflicht, Selbsttaeuschung und
+    Einsamkeit. Neben Annas Weg stehen Lewins Suche nach Wahrheit, Arbeit,
+    Glauben und einem tragfaehigen Leben. So wird der Roman zu einem weiten
+    Bild der russischen Gesellschaft und zugleich zu einer der genauesten
+    Erkundungen menschlicher Herzen.
+  summary: >-
+    Anna Karenina scheint alles zu besitzen, was ein Leben hell und sicher
+    machen koennte: Namen, Ansehen, Familie, einen Platz in der Welt. Dann
+    tritt Wronski in ihr Dasein, und unter der glatten Oberflaeche beginnt
+    etwas zu brennen, das sich weder durch Vernunft noch durch Ruecksicht
+    loeschen laesst. Tolstoi folgt dieser Liebe bis in ihre bittersten
+    Konsequenzen und stellt ihr die stillere, suchende Bewegung Lewins
+    gegenueber: den Wunsch, in Arbeit, Ehe, Natur und Glauben eine Wahrheit zu
+    finden, die nicht nur gesellschaftliche Form ist. Aus diesen beiden
+    Bewegungen entsteht ein Roman von grosser Weite: Gesellschaftsportraet,
+    Liebestragoedie und tastende Frage danach, wie ein Mensch wahrhaft leben
+    kann.
+  author_bio: >-
+    Lew Nikolajewitsch Tolstoi wurde am 9. September 1828 auf dem Gut Jasnaja
+    Poljana geboren. Nach Jahren des Studiums, des Militaerdienstes und der
+    Verwaltung seines Familienguts wandte er sich immer entschiedener dem
+    Schreiben zu. Zugleich beschaeftigten ihn Fragen nach Erziehung, sozialer
+    Verantwortung, Gewaltlosigkeit, Religion und einem einfachen, wahrhaftigen
+    Leben. Seine grossen Romane verbinden die Genauigkeit gesellschaftlicher
+    Beobachtung mit einer seltenen Naehe zum inneren Erleben seiner Figuren.
+    Mit Krieg und Frieden und Anna Karenina wurde Tolstoi zu einer der
+    praegenden Stimmen der Weltliteratur. In seinen letzten Jahren entfernte er
+    sich zunehmend von Besitz, Ruhm und familiaerer Ordnung; 1910 verliess er
+    Jasnaja Poljana und starb am 20. November desselben Jahres in Astapowo.
+  cover:
+    mode: image
+    image_path: assets/covers/annakarenina.png

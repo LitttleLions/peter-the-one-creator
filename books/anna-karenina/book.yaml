@@ -1,0 +1,69 @@
+id: anna-karenina
+title: Anna Karenina
+author: Lew Tolstoi
+source_path: source/Lew Tolstoi - Anna Karenina.rtf
+source_lang: ru
+target_lang: de
+ruleset_path: ''
+ruleset_apply: false
+style_mode: stil-01-original
+work_dir: work
+exports_dir: exports
+status_file: status/status.json
+log_dir: status/logs
+styles_dir: styles
+assets_dir: assets
+names_file: names.yaml
+structure:
+  mode: chapter_as_scene
+  label: Kapitel als Szenen
+  groups:
+  - id: part-1
+    label: Teil 1
+    from: '001'
+    to: '034'
+  - id: part-2
+    label: Teil 2
+    from: '035'
+    to: '069'
+  - id: part-3
+    label: Teil 3
+    from: '070'
+    to: '100'
+  - id: part-4
+    label: Teil 4
+    from: '101'
+    to: '123'
+  - id: part-5
+    label: Teil 5
+    from: '124'
+    to: '155'
+  - id: part-6
+    label: Teil 6
+    from: '156'
+    to: '187'
+  - id: part-7
+    label: Teil 7
+    from: '188'
+    to: '218'
+  - id: part-8
+    label: Teil 8
+    from: '219'
+    to: '239'
+display:
+  chapters:
+    format: words_de
+    suffix: " Kapitel"
+    align: center
+    include_source_title: false
+  scenes:
+    show: false
+naming_convention:
+  style: ''
+  example: []
+notes: Neu angelegtes Buch.
+ai:
+  provider: openrouter
+  model: deepseek/deepseek-v4-flash
+  granularity: scene
+  max_tokens_per_scene: 10000

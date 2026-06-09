@@ -1,0 +1,64 @@
+# ============================================================
+# Export-Konfiguration fuer DOCX/EPUB
+# ============================================================
+# Pro Buch koennen Metadaten, Cover und Frontmatter gesetzt
+# werden. Neue Cover bevorzugt unter assets/books/<book-id>/.
+# ============================================================
+
+defaults:
+  language: de-DE
+  publisher: ''
+  rights: ''
+  description: ''
+  cover:
+    mode: placeholder
+    image_path: ''
+    background: '#f59e0b'
+    foreground: '#ffffff'
+  front_matter:
+    cover_in_body: false
+    description_page: true
+    imprint_page: true
+    toc_page: false
+    combined_epub_front_matter: true
+    combined_heading: Titelei
+    description_heading: Zu dieser Ausgabe
+    imprint_heading: Impressum
+    toc_heading: Inhalt
+  output:
+    chapter_headings: true
+    scene_numbers: false
+    strip_control_metadata: true
+    scene_separator: '* * *'
+books:
+  peter-i-buch-01:
+    title: Peter der Erste
+    subtitle: Buch 1
+    author: Alexei Tolstoi
+    language: de-DE
+    publisher: ''
+    rights: ''
+    description: Deutsche Arbeitsuebersetzung aus der Peter-I-Werkbank.
+    cover:
+      mode: image
+      image_path: assets/covers/peteri.png
+  anna-karenina:
+    title: Anna Karenina
+    author: Lew Tolstoi
+    language: de-DE
+    publisher: ''
+    rights: ''
+    description: ''
+    cover:
+      mode: placeholder
+      image_path: ''
+  anna-karenina-2:
+    title: Anna Karenina
+    author: Lew Tolstoi
+    language: de-DE
+    publisher: ''
+    rights: ''
+    description: ''
+    cover:
+      mode: placeholder
+      image_path: ''

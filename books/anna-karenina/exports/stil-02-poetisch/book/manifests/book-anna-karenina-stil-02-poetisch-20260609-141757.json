@@ -1,0 +1,682 @@
+{
+  "book_id": "anna-karenina",
+  "book_title": "Anna Karenina",
+  "style": "stil-02-poetisch",
+  "scope": "book",
+  "chapter": null,
+  "format": "epub",
+  "partial": true,
+  "created_at": "2026-06-09T14:18:01",
+  "chapters": [
+    {
+      "id": "001",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "002",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "003",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "004",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "005",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "006",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "007",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "008",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "009",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "010",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "011",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "012",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "013",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "014",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "015",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "016",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "017",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "018",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "019",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "020",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "021",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "022",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "023",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "024",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "025",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "026",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "027",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "028",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "029",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "030",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "031",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "032",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "033",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "034",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "035",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "036",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "037",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "038",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "039",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "040",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "041",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "042",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "043",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "044",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "045",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "046",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "047",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "048",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "049",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "050",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "051",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "052",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "053",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "054",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "055",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "056",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "057",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "058",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "059",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "060",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "061",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "062",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "063",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "064",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "065",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "066",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "067",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "068",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "069",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "070",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "071",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "072",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "073",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "074",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "075",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "076",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "077",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "078",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "079",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "080",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "081",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "082",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "083",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "084",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "085",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "086",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "087",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "088",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "089",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "090",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "091",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "092",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "093",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "094",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "095",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "096",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "097",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "098",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "099",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "100",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "101",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "102",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "103",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "104",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "105",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "106",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "107",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "108",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "109",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "110",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "111",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "112",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "113",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "114",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "115",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "116",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "117",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "118",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "119",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "120",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "121",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "122",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "123",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "124",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "125",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "126",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "127",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "128",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "129",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "130",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "131",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "132",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "133",
+      "scenes": 1,
+      "missing": []
+    }
+  ],
+  "outputs": [
+    "books\\anna-karenina\\exports\\stil-02-poetisch\\book\\epub\\book-anna-karenina-stil-02-poetisch-20260609-141757.epub"
+  ],
+  "work_markdown": "books\\anna-karenina\\exports\\stil-02-poetisch\\book\\work\\book-anna-karenina-stil-02-poetisch-20260609-141757.md",
+  "cover": "books\\anna-karenina\\assets\\covers\\annakarenina.png"
+}

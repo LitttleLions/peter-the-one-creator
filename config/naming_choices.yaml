@@ -2,8 +2,8 @@
 # Namens-Mapping – Peter der Erste
 # ============================================================
 # Vorschläge pro russischem Namen in mehreren deutschen
-# Varianten. Die finale Wahl wird pro Buch in `books.yaml`
-# unter `naming_convention.choice` gesetzt.
+# Varianten. Produktive Namen werden inzwischen pro Buch in
+# `books/<book-id>/names.yaml` gepflegt.
 #
 # Stil-IDs:
 #   A - Russische Transliteration (Duden-Standard)

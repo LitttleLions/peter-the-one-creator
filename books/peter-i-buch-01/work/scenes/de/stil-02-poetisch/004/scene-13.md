@@ -1,0 +1,21 @@
+## 13
+
+Die Strelitzen-Fünfziger, Kusma Tschermny, Nikita Gladki und Obrossim Petrow, gaben sich alle Mühe, aufwiegelten die Strelitzen-Vorstädte. Sie gingen in die Hütten, rissen wütend die Tür auf: „Was, ihr — schlaft hier mit den Weibern, und euch allen wird man bald die Köpfe abreißen…" Schrien furchtbar auf dem Kompaniehof: „Mit Teer werden wir die Bojarenhöfe und die Läden der Kaufleute bezeichnen, wir werden sie ausrauben und die Habe in die Beutekammern tragen… Jetzt wieder — die Freiheit…" Auf den Marktplätzen warfen sie anonyme Schreiben hin und lasen sie hier, mit wütendem Fluchen, dem Volk vor…
+
+Aber die Strelitzen, wie frisches Holz, zischten, entzündeten sich nicht — das Feuer des Aufruhrs wollte nicht zünden. Auch fürchteten sie: „Schau, wie viel Gesindel in Moskau ist, schlage den Sturm, — sie werden alles zerschlagen, das eigene Gut wird man nicht retten…"
+
+Eines Morgens fand man bei den Fleischtoren vier Wachposten der Strelitzen — bewusstlos, die Köpfe zertrümmert, die Gelenke zerhauen. Man schleifte sie ins Reiterregiment ins Kompaniehaus. Man schickte nach Fjodor Leontjewitsch Schaklowiti, und bei ihm erzählten sie:
+
+„Wir stehen am Tor Wache, Gott bewahre, nicht betrunken. Und die Zeit — die Dämmerung… Plötzlich stürmen vom Ödland Reiter heran und, frisch-fröhlich, fangen sie an, uns mit Stieläxten, mit Hämmern, mit Streitkolben zu schlagen… Am wütendsten war einer, dick, im weißen Atlaskaftan, in der Bojarenmütze. Die anderen hielten ihn zurück: 'Genug zu schlagen, Lew Kirillowitsch, du tötest sie…' Aber er schreit: 'Das wird noch mehr, ich werde den verfluchten Strelitzen für meine Brüder bezahlen.'"
+
+Schaklowiti, grinsend, hörte zu. Betrachtete die Wunden. Den abgeschlagenen Finger in die Hand nehmend, zeigte er ihn von der Vorhalle den Außenstehenden und den Strelitzen. „Ja", sagte er, „man wird euch wohl bald auch an den Beinen schleifen…"
+
+Seltsam. Man konnte nicht glauben, dass plötzlich Lew Kirillowitsch so schlimme Streiche anfing. Und schon Gladki, Petrow und Tschermny verbreiteten in den Vorstädten, dass Lew Kirillowitsch mit Genossen nachts umherreite, nachspüre, — wer vor sieben Jahren im Kreml geplündert habe, den schlage man tot… „Natürlich", antworteten die Strelitzen kleinlaut, „für Diebstahl streichelt man nicht den Kopf…"
+
+Es vergingen etwa drei Tage, und wieder stürmten bei den Pokrower Toren dieselben Reiter mit dem dicken Bojaren auf die Wache, schlugen mit Hämmern, Peitschen, Säbeln, verwundeten viele… Vereinzelt wurde in den Regimentern Sturm geläutet, aber die Strelitzen erschraken zu Tode und kamen nicht heraus… In den Nächten begannen sie von den Wachen zu fliehen. Sie forderten, dass man sie nicht weniger als hundert und mit einer Kanone in die Wachablöse schicke… Anscheinend waren die Strelitzen ganz zahm geworden…
+
+Dann ging das Gerücht, dass man diese Reiter-Schelmien schon zum Teil erkannt hatte: Stepka Odojewski, Mischka Tyrtow, der bei ihm als Liebhaber lebte, Pjotr Andrejewitsch Tolstoi, und der im weißen Kaftan, hieß es, sei gar nicht Bojar gewesen, sondern der Schreiber Matweika Schoschin, ein Vertrauter der Zarentochter. Sie breiteten die Arme aus, — was wollten sie mit diesem Unfug erreichen?
+
+Nicht gut war es in Moskau, unruhig. Jede Nacht schickte man in den Kreml eine Wachabteilung von etwa fünfhundert Mann. Sie kehrten von dort betrunken zurück. Man erwartete Brände. Man erzählte, dass kunstvoll konstruierte Handgranaten hergestellt worden seien, und Nikita Gladki sie heimlich nach Pleschtschjeew transportiert habe, auf den Weg geworfen habe, wo der Zar Peter gehen solle, aber sie seien nicht explodiert. Alle warteten auf etwas, hielten sich versteckt.
+
+In Pleschtschjeew, mit Peters Ankunft, schossen unaufhörlich die Kanonen. An den Wegen standen hinter den Sperren rasierte Soldaten mit Frauenhaaren, in Hüten, in grünen Kutten. Mehrmals versammelte sich das herumstreunende Volk, schreiend auf dem Markt, und wollte nach Pleschtschjeew ziehen, um die Speicher zu stürmen, aber kam nicht bis zur Jausa, stieß überall auf Soldaten, und die drohten zu schießen. Allen war es leid — möge sich doch bald jemand gegenseitig verschlingen: Sofja Peter oder Peter Sofja… Nur dass etwas sich befestige…

@@ -1,0 +1,26 @@
+## Szene 12
+
+> „Die Kaufleute Englands und Hollands kämpfen nicht mit dem Schwert, sondern mit dem Vertrag. Ihr Krieg ist der Handel, ihr Schlachtfeld das Meer, und ihre Verbündeten wechseln so oft wie der Wind."
+> — Zeitgenössische Beobachtung eines venezianischen Gesandten, ca. 1698
+
+Weder Peter noch die großen Gesandten verstanden viel von europäischer Politik. Für die Moskowiter bedeutete Krieg: die Steppen vor den Nomaden schützen, die räuberischen Überfälle der Krimtataren eindämmen, die Land- und Wasserwege nach Osten sichern, sich einen Zugang zum Meer erkämpfen.
+
+Die europäische Politik erschien ihnen als ein trübes Gewässer. Sie glaubten fest an schriftliche Verträge und Königseide. Sie wussten, dass der französische König mit dem türkischen Sultan unter einer Decke steckte, und dass Wilhelm von Oranien, als englischer König und holländischer Statthalter, Peter versprochen hatte, ihn im Krieg gegen die Türken zu unterstützen. Und nun — wie Schnee, der einem auf den Kopf fällt — traf eine unbegreifliche Nachricht ein, überbracht von einem polnischen Edelmann aus Warschau, von August: Der österreichische Kaiser Leopold hatte Friedensverhandlungen mit den Türken aufgenommen, und dieser Friede wurde vor allem von Wilhelm von Oranien betrieben — ohne die Moskowiter oder die Polen auch nur zu fragen.
+
+Und all seine jüngsten Beteuerungen, wie eifrig er dem Erfolg der christlichen Waffen gegen die Feinde des Heiligen Grabes zugetan sei? Was sollte das nun bedeuten? Er hatte Peter eine Jacht geschenkt… ihn Bruder genannt… sie hatten zusammen gezecht… Wie sollte man das jetzt verstehen?
+
+Noch halbwegs begreiflich war, dass Kaiser Leopold mit den Türken über Frieden verhandelte: Zwischen ihm und dem französischen König begann gerade der Krieg um das spanische Erbe, das heißt — wie die Gesandten es auffassten —, wer von beiden seinen Sohn als König nach Madrid setzen würde. Eine große Sache, gewiss, aber was hatte England oder Holland damit zu schaffen?
+
+Peter und den großen Gesandten fiel es schwer zu begreifen, dass die englischen und holländischen Handels- und Industrieleute längst mit Leib und Seele in einem Krieg engagiert waren, der auf die Zerschlagung der französischen Handels- und Militärherrschaft über den Atlantik und das Mittelmeer abzielte; dass das spanische Erbe kein Thron für diesen oder jenen Königssohn war, keine kostbare Krone Karls des Großen, sondern freie Seewege für Schiffe, vollbeladen mit Tuch und Eisen, Seide und Gewürzen, reiche Märkte und offene Häfen — und dass es den Holländern und Engländern weit bequemer war, nicht selbst zu kämpfen, sondern andere in den Krieg zu treiben. Noch schwerer zu durchschauen war, dass die Engländer und Holländer, indem sie dem österreichischen Kaiser die Hände für den Krieg gegen Frankreich freimachen wollten, nachdrücklich wünschten, dass die Russen ihren Krieg gegen den Sultan fortsetzten. Das war die zweideutige und große europäische Politik.
+
+Peter kehrte nach Amsterdam zurück. Die Bürgermeister, nach den unangenehmen Gerüchten aus Wien befragt, antworteten ausweichend und lenkten das Gespräch auf Handelsfragen. Ebenso ausweichend verhielten sie sich in einer anderen Angelegenheit, die den Moskowitern wichtig war. In jenem Jahr hatte der Schmiedemeister Demidow im Ural magnetisches Eisenerz entdeckt. Winius schrieb an Peter:
+
+„…Besseres Erz kann es nicht geben, und in der ganzen Welt hat es dergleichen nicht gegeben, so reich ist es, dass aus hundert Pfund Erz vierzig Pfund Roheisen gewonnen werden. Bitte, dränge die Gesandten, dass sie tüchtige Eisenmeister finden, die Stahl zu machen verstehen…"
+
+Die Engländer und Holländer hörten den Berichten über das Magneteisenerzlager im Ural sehr aufmerksam zu, doch wenn es darum ging, tüchtige Meister zu finden, drucksten sie herum, wichen aus, sagten, ihr werdet mit solchen Hütten ohnehin nicht fertig, wir fahren hin, schauen uns das vor Ort an, vielleicht nehmen wir es selbst in die Hand. Eisenmeister ließen sich weder in England noch in Holland anwerben.
+
+Zu all diesen Sorgen kam noch die Nachricht vom Aufruhr der Strelitzen in Moskau. Aus Wien schrieb ein geheimer Bote an die großen Gesandten, man wisse auch hier bereits davon — irgendein Priester schwatze durch die Stadt, in Moskau sei ein Aufstand, Fürst Wassili Golizyn aus der Verbannung zurückgekehrt, die Zarewna Sofja auf den Thron erhoben, und das Volk habe ihr den Treueid geleistet.
+
+„…Mein Herr König… In Eurem Herrscherschreiben wird der Aufstand der Strelitzen gemeldet und dass er durch Eure Regierung und den Dienst der Soldaten niedergeschlagen wurde. Wir freuen uns sehr. Doch bin ich sehr erzürnt auf Euch — warum habt Ihr in dieser Sache keine Untersuchung angestellt und die Übeltäter an die Grenze entlassen. Gott sei Euer Richter… So war es nicht besprochen, damals im Vorhaus des Landhauses…
+
+Und falls Ihr meint, wir seien verloren, weil die Post von hier aufgehalten wurde — so ist, Gott sei Dank, kein einziger Mensch von uns gestorben, alle sind am Leben… Ich weiß nicht, woher Euch solche Weiberfurcht befällt… Bitte, seid nicht böse: wahrlich, aus Herzensschmerz schreibe ich dies… Wir brechen von hier diese Woche nach Wien auf… Dort redet man von nichts anderem als von unserem Untergang… Piter…"

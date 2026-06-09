@@ -1,0 +1,50 @@
+id: peter-i-buch-01
+title: Peter der Erste
+author: Alexei Tolstoi
+source_path: source/Peter I - Buch 01 - royallib.ru.doc
+source_lang: ru
+target_lang: de
+ruleset_path: logic/peter the one - Regeln 001.txt
+ruleset_apply: true
+style_mode: stil-03-branderson
+work_dir: work
+exports_dir: exports
+status_file: status/status.json
+log_dir: status/logs
+styles_dir: styles
+assets_dir: assets
+names_file: names.yaml
+structure:
+  mode: scenes
+  label: Kapitel mit Szenen
+  groups: []
+display:
+  chapters:
+    format: words_de
+    suffix: " Kapitel"
+    align: center
+    include_source_title: false
+  scenes:
+    show: true
+    format: number
+    align: center
+    page_break: false
+    separator: ""
+naming_convention:
+  style: russische Transliteration (Duden-Standard)
+  example:
+  - Пётр -> Peter
+  - Иван -> Iwan
+  - Софья -> Sofja
+  - Алексей -> Alexei
+  - Толстой -> Tolstoi
+notes: 'Roman in 3 Bänden von Alexei Tolstoi. Russisches Original,
+
+  417 Seiten, ~201.000 Wörter. Buch 1 in dieser Datei.
+
+  '
+ai:
+  provider: openrouter
+  model: deepseek/deepseek-v4-pro
+  granularity: scene
+  max_tokens_per_scene: 10000

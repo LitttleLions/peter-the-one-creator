@@ -3,28 +3,29 @@
 # ============================================================
 # Hier kannst du:
 #   - Regeln pro Buch ein-/ausschalten (true/false)
-#   - Stil-Modus überschreiben
+#   - Style-Profil ueberschreiben
 #   - Eigene Notizen pro Kapitel hinterlegen
 #   - Wortzahl-Zielwerte anpassen
 #
-# Subregelwerke werden NICHT erstellt – das Original-Regelwerk
-# in logic/ bleibt unverändert. Hier wird es nur aktiviert oder
-# deaktiviert, oder der Stilmodus umgeschaltet.
+# Style-Profile liegen in styles/*.md. Das Original-Regelwerk
+# in logic/ bleibt unveraendert.
 # ============================================================
 
 global:
   ruleset_apply_default: true
-  style_mode_default: stylized
+  style_mode_default: stil-03-branderson
 
-# Pro Buch lassen sich Werte überschreiben.
+# Pro Buch lassen sich Werte ueberschreiben.
 # Wenn ein Wert fehlt, gilt der global_default.
-    target_word_count_per_chapter: 1500-2500   # nur als Anhaltspunkt
+books:
+  peter-i-buch-01:
+    target_word_count_per_chapter: "1500-2500"   # nur als Anhaltspunkt
     naming_reminder: |
       Verwende russische Transliteration (Duden-Standard).
-      Beispiele: Пётр -> Peter, Иван -> Iwan, Софья -> Sofja,
-      Алексей -> Alexei, Толстой -> Tolstoi.
+      Beispiele: Pyotr -> Peter, Ivan -> Iwan, Sofya -> Sofja,
+      Aleksey -> Alexei, Tolstoy -> Tolstoi.
     custom_instructions: |
-      Historisches Setting: Russland um 1700 (Peter der Große).
-      Sprache entsprechend altertümlich-farbig, aber nicht
-      übertrieben archaisierend. Figuren reden knapp, mit
-      russischer Direktheit; innere Monologe dürfen länger sein.
+      Historisches Setting: Russland um 1700 (Peter der Grosse).
+      Sprache entsprechend altertuemlich-farbig, aber nicht
+      uebertrieben archaisierend. Figuren reden knapp, mit
+      russischer Direktheit; innere Monologe duerfen laenger sein.

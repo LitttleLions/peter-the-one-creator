@@ -1,188 +1,180 @@
-# AGENTS.md — Kontext für KI-Werkzeuge
+# AGENTS.md - Kontext fuer KI-Werkzeuge
 
-> Dies ist die zentrale Kontextdatei. CLAUDE.md verweist auf diese Datei.
-> Lese zuerst diese Datei und die README, dann beginne mit der Arbeit.
+> Dies ist die zentrale Kontextdatei. `CLAUDE.md` verweist auf diese Datei.
+> Lies zuerst diese Datei und die README, dann beginne mit der Arbeit.
 
-## Was dieses Projekt ist
+## Was Dieses Projekt Ist
 
-Regelbasierte kapitelweise Übersetzung literarischer Werke. Aktuelles
-Buch: Alexei Tolstois „Peter der Erste" (RU → DE) gemäß Regelkatalog
-in `logic/peter the one - Regeln 001.txt`. Python-CLI-Pipeline mit
-Status-, Log- und RTF-Parser-Modulen. Übersetzungs-Stil pro Buch
-umschaltbar (`literal` / `middle` / `stylized`); die operativen
-System-Prompts pro Modus liegen in `config/style_modes.yaml`. Anbindung
-an externe LLM-Provider (OpenRouter) ist implementiert
-(`tools/translate_chapter.py`).
+Regelbasierte kapitel- und szenenweise Uebersetzung literarischer Werke
+(`ru -> de`). Das Repo ist jetzt buchzentriert: jedes produktive Buch ist ein
+eigenes Paket unter `books/<book-id>/`. Tools und Dashboard entdecken Buecher
+ueber `books/*/book.yaml`; `config/books.yaml` ist nur noch Legacy unter
+`config/legacy/`.
 
-## Struktur (Kurzüberblick)
+Aktuelle Buchpakete:
 
-- `books/` — Originalbücher (nicht verändern; auch keine „Duplikate" eigenmächtig löschen)
-- `logic/` — Originale Regelkataloge (nicht verändern)
-- `config/` — Bücher-Registry, Pipeline-Einstellungen, Regel-Overrides, Namenslogik
-  - `books.yaml` — Bücher-Registry (Pflicht, pro Buch `id`, Stilmodus, `ai.*`-Block)
-  - `pipeline.yaml` — Pipeline-Defaults (Encoding, Heading-Patterns, `ai_defaults`)
-  - `rules-overrides.yaml` — Pro-Buch-Overrides (`style_mode`, `naming_reminder`, `custom_instructions`)
-  - `style_modes.yaml` — **System-Prompts pro Stilmodus** (operativ, nicht nur Marker)
-  - `models.yaml` — **Katalog verfügbarer OpenRouter-Modelle** (id, name, provider, description; `default_for: [book-id]` markiert das Default-Modell pro Buch)
-  - `naming_proposal_peter_i.md` — drei Stile A/B/C
-  - `naming_choices.yaml` — Kandidaten-Tabelle pro Person (zur Diskussion)
-- `tools/` — Python-CLI
-  - `extract_chapters.py` — Buch einlesen, Kapitel extrahieren
-  - `status.py` — Status-Übersicht und -Manipulation
-  - `translate_chapter.py` — OpenRouter-Übersetzung pro Kapitel (Szene oder Ganzes)
-  - `lib/rtf_parser.py` — striprtf-basiert, Heading-Pattern (Книга/Глава/Часть/Эпилог/Пролог)
-  - `lib/status_manager.py` — JSON-Status (`BookState`, `ChapterState`)
-  - `lib/log_writer.py` — Pro-Kapitel-Log als Markdown
-  - `lib/openrouter_client.py` — OpenRouter-Chat-Completion-Client (httpx, python-dotenv)
-  - `lib/style_prompts.py` — Lädt `config/style_modes.yaml`, baut System-/User-Messages
-  - `lib/scene_splitter.py` — Splittet MD in Szenen anhand von `## N`-Headings
-  - `lib/models_registry.py` — Lädt `config/models.yaml`, validiert Modell-IDs
-  - `lib/degeneration.py` — Erkennt Token-Loops, Sprach-Drift, Mojibake, Endlos-Sätze im LLM-Output
-- `output/<Buch>/chapters/` — Übersetzungen je Kapitel
-  - `NNN-source.md` (Originaltext RU)
-  - `NNN-translation-vN-stil.md` (z. B. `v1-stylized`, `v2-literal`, `v3-stylized` …)
-  - ggf. mehrere Versionen pro Stil (wird vom Tool automatisch nummeriert)
-- `status/` — Status-JSON + Logfiles pro Kapitel
-  - `<Buch>.status.json` (alle Kapitel mit Status)
-  - `logs/<Buch>/NNN.log.md` (was wurde gemacht, Stil, Probleme, Anpassungen)
-- `requirements.txt` — Python-Abhängigkeiten (pyyaml, python-docx, python-dotenv, httpx)
-- `.env` (lokal) / `.env.example` (Vorlage) — OpenRouter-API-Key
-- `README.md` — für Menschen
-- `ONBOARDING.md` — Kurzfassung für neuen Chat
+- `books/peter-i-buch-01/` - Alexei Tolstoi, Peter der Erste
+- `books/anna-karenina/` - Lew Tolstoi, Anna Karenina
 
-## Konventionen
+## Buchpaket-Struktur
 
-- `AGENTS.md` ist die einzige Quelle der Wahrheit; `CLAUDE.md` ist nur ein Verweis.
-- Dokumentation in Markdown.
-- Datei-/Ordnernamen: ASCII, klein, Bindestrich, keine Umlaute/Leerzeichen —
-  die bestehende Konvention `Peter I` wird respektiert.
-- Versions-Suffix für Übersetzungen: `NNN-translation-v1-stylized.md`,
-  `NNN-translation-v2-literal.md` etc. (Reihenfolge der Erstellung).
-- Keine Secrets im Repo; Schlüssel in `.env` (per `.gitignore` ausgeschlossen).
-- Zeilenenden via `.gitattributes` auf LF (Cross-OS).
-- Quellcode-Zeilen möglichst unter 500 Zeichen.
-- `AGENTS.md` kurz und von Hand gepflegt halten — nicht automatisch volllaufen lassen.
-- Antworten und Doku auf Deutsch, sofern nicht anders gewünscht.
-
-## Arbeitsweise für die KI
-
-- Vor Änderungen am Originalbuch (`books/`) oder Originalregeln (`logic/`)
-  **immer** beim Nutzer nachfragen.
-- `books/` ist tabu, auch wenn etwas wie ein Duplikat aussieht. Niemals
-  Dateien in `books/` eigenmächtig löschen, ersetzen, verschieben oder
-  umbenennen — auch keine `.rtf` neben einer `.doc` — auch dann nicht,
-  wenn ein Hygiene-Scan sie als überflüssig deklariert. Im Zweifel:
-  liegen lassen, dem Nutzer melden, ihn entscheiden lassen.
-- Große Dateien in `books/` (10+ MB) sind normal und kein Fehler — sie
-  sind Eingabedaten, nicht zu „reparierender" Quellcode.
-- Auch Output-Dateien (z. B. `output/.../*.md`) können groß werden
-  (tausende Zeilen pro Kapitel). Das ist normal und kein Grund für
-  Korrekturmaßnahmen oder Zeilenlängen-Empörung.
-- Status & Logfiles werden über `python tools/status.py ...` aktualisiert,
-  nicht direkt in JSON-Dateien herumschreiben.
-- Vor jeder Kapitelübersetzung in `config/books.yaml` und
-  `config/rules-overrides.yaml` prüfen, welcher Stilmodus aktiv ist
-  (`literal` / `middle` / `stylized`).
-- Pro Kapitel: in `status/logs/<Buch>/NNN.log.md` eintragen, welche Regeln
-  angewendet wurden, welche Stellen schwierig waren, welche Anpassungen
-  gemacht wurden.
-- Keine automatischen Löschungen oder destruktiven Operationen ohne
-  ausdrückliche Freigabe.
-- Im Zweifel: kurze Rückfrage, keine stillen Annahmen.
-- Mülldateien (z. B. `final_status.txt`, `status_mark*.txt`, `debug_*.txt`)
-  im Repo-Root werden per `.gitignore` ausgeschlossen und **nicht**
-  im Repo committet. Sie liegen bleiben lassen ist in Ordnung; ob sie
-  am Ende gelöscht werden, entscheidet der Nutzer.
-
-## Stil-Modi (Übersetzung)
-
-In `config/books.yaml` pro Buch einstellbar unter `style_mode`. Die
-**operativen System-Prompts** pro Modus liegen in
-`config/style_modes.yaml`. Dort ist pro Modus auch `temperature` und
-`rules_append` (ob die Regeln aus `logic/` an den User-Prompt
-angehängt werden) konfiguriert.
-
-- `literal` — wörtlich, keine Ausschmückung, Regelwerk wird **nicht**
-  angehängt (`rules_append: false`). Vergleichbar mit `v2-literal.md`.
-- `middle` — leichte Stilisierung, ausgewählte Regeln greifen
-  (`rules_append: true`).
-- `stylized` — volle Anwendung des Regelwerks (Sanderson-Struktur +
-  Sorkin-Konfliktdynamik + sensorische Details + innere Monologe
-  + Szene/Sequel + Lede-Block). `rules_append: true`.
-  Vergleichbar mit `v1-stylized.md`.
-
-Aktuell für Peter I auf `stylized` gestellt
-(siehe `config/books.yaml: style_mode`). Der ältere Onboarding-Hinweis
-„auf `literal` gestellt" ist **veraltet**.
-
-## Namensschreibweise
-
-- Stil A (Duden-Transliteration) ist für Peter I bestätigt
-  (Пётр→Peter, Иван→Iwan, Софья→Sofja, Алексей→Alexei, etc.).
-- Diskussion einzelner Namen läuft in `config/naming_choices.yaml`.
-- Bei Anpassungen pro Kapitel: in `status/logs/.../NNN.log.md` unter
-  „Regelanpassungen" vermerken.
-
-## Befehle (Schnellreferenz)
-
-```bash
-pip install -r requirements.txt
-
-# --- Setup (einmalig) ---
-cp .env.example .env                       # dann OPENROUTER_API_KEY eintragen
-python tools/extract_chapters.py          # Buch einlesen, Kapitel extrahieren
-
-# --- Status ---
-python tools/status.py summary             # Fortschritt
-python tools/status.py list                # Kapitel-Liste
-python tools/status.py next                # nächstes pending Kapitel
-python tools/status.py mark 001 in_progress
-python tools/status.py mark 001 done --words 2300 --title-de "..."
-python tools/status.py mark 001 needs_review
-python tools/status.py reset 001
-
-# --- OpenRouter-Übersetzung (NEU) ---
-python tools/translate_chapter.py --chapter 001 --style stylized --dry-run
-python tools/translate_chapter.py --chapter 001 --style stylized
-python tools/translate_chapter.py --chapter 001 --style stylized --auto-status
-python tools/translate_chapter.py --chapter 001 --style literal --granularity chapter
-python tools/translate_chapter.py --chapter 001 --style middle --model openai/gpt-4o
+```text
+books/<book-id>/
+  book.yaml                 # fuehrende Buchconfig, Style, AI-Defaults
+  export.yaml               # DOCX-/EPUB-Metadaten, Cover, Titelei
+  names.yaml                # buchlokale Namen-/Begriffsliste fuer Prompts
+  source/                   # Originalquellen; nicht ohne Rueckfrage aendern
+  assets/covers/            # Cover und buchbezogene Medien
+  styles/                   # editierbare Style-Profile fuer dieses Buch
+  work/
+    chapters/               # NNN-source.md
+    scenes/ru/NNN/          # RU-Szenen
+    scenes/de/<style>/NNN/  # DE-Szenen je Style
+    assembled/<style>/      # zusammengesetzte Kapitelversionen
+    prompts/                # prompt_file/workspace_ai-Ausgaben
+    style-tests/            # Vergleichs- und Referenzdateien
+    legacy/                 # alte Dateien/Konflikte fuer dieses Buch
+  exports/<style>/<scope>/  # DOCX-/EPUB-Ausgaben
+  status/status.json
+  status/logs/NNN.log.md
 ```
 
-`--auto-status` setzt `in_progress` zu Beginn und am Ende
-`needs_review` (mit `--no-review` direkt `done`).
+Globale Ordner:
 
-## Wichtige Pfade (Kurzform)
+- `tools/` - Python-CLIs, Dashboard, Bibliotheken
+- `tests/` - Smoke-/Unit-Tests
+- `docs/` - Dashboard-Design und Projektinfos
+- `config/models.yaml` - OpenRouter-Modellkatalog
+- `config/pipeline.yaml` - globale Pipeline-Defaults
+- `config/style_modes.yaml` - Legacy-Style-Modi
+- `styles/` - globale Style-Vorlagen fuer neue Buchpakete
+- `logic/` - Original-Regelmaterial; nicht ohne Rueckfrage aendern
+- `config/legacy/` - alte zentrale Configs und Migrationsreste
 
-- Originalbuch: `books/Peter I - Buch 01 - royallib.ru.doc`
-- Regelwerk: `logic/peter the one - Regeln 001.txt` (heilig!)
-- Bücher-Registry: `config/books.yaml` (inkl. `ai.*`-Block pro Buch)
-- Pipeline-Defaults: `config/pipeline.yaml` (inkl. `ai_defaults`)
-- Regel-Overrides: `config/rules-overrides.yaml`
-- **Stilmodus-Prompts: `config/style_modes.yaml` (NEU)**
-- **Modell-Katalog: `config/models.yaml` (NEU)**
-- Namensschreibweise-Vorschlag: `config/naming_proposal_peter_i.md`
-- Namens-Kandidaten-Tabelle: `config/naming_choices.yaml`
-- OpenRouter-Client: `tools/lib/openrouter_client.py`
-- OpenRouter-Key: `.env` (per `.gitignore` ausgeschlossen)
-- Status-Datei: `status/Peter I.status.json`
-- Log-Verzeichnis: `status/logs/Peter I/`
-- Pilot-Übersetzungen Kapitel 1: `output/Peter I/chapters/001-translation-v1-stylized.md` und `001-translation-v2-literal.md`
-- Pilot-Log Kapitel 1: `status/logs/Peter I/001.log.md`
-- Onboarding-Kurzfassung: `ONBOARDING.md`
+## Harte Regeln
 
-## Geplante nächste Schritte (Roadmap)
+- Originalquellen unter `books/<book-id>/source/` niemals eigenmaechtig
+  loeschen, ersetzen, umbenennen oder bereinigen.
+- `logic/` bleibt Originalmaterial und wird nicht ohne ausdrueckliche
+  Rueckfrage bearbeitet.
+- Produktive Style-Aenderungen gehoeren in
+  `books/<book-id>/styles/*.md`. Globale `styles/` sind nur Vorlagen.
+- `tools/translate_chapter.py` und `tools/translate_batch.py` laden Profile
+  **strikt** aus `books/<id>/styles/`. Es gibt **keinen** Fallback auf
+  globale `styles/`. Wenn ein Buchpaket ohne lokale Profile existiert
+  (z. B. nach Migration oder partiellem Anlegen), muessen die gewuenschten
+  Stile einmalig aus `styles/` nach `books/<id>/styles/` kopiert werden,
+  sonst wirft `translate_chapter.py` `StylePromptError: Unbekannter Stil`.
+  Das Workbench-/Dashboard-Modul `tools/lib/workbench_state.py` hat
+  hingegen einen Fallback; CLI-Aufrufe folgen dieser Logik **nicht**.
+- Namen und feste Begriffe werden pro Buch in `books/<book-id>/names.yaml`
+  gepflegt und automatisch in Prompts injiziert.
+- Status und Logs laufen ueber die CLIs; nicht manuell JSON zurechtbiegen,
+  wenn es einen Befehl dafuer gibt.
+- Keine Secrets ins Repo; `.env` bleibt lokal.
+- Keine automatischen Loeschungen oder destruktiven Operationen ohne klare
+  Freigabe.
 
-1. ✅ **OpenRouter-Provider anbinden** – `.env` mit `OPENROUTER_API_KEY`,
-   pro Buch ein anderes Modell wählbar (`config/books.yaml: ai.model`).
-2. ✅ **`tools/translate_chapter.py`** – ruft OpenRouter auf, schreibt
-   Übersetzungs-MD und Log automatisch (Dry-Run getestet).
-3. **Erster echter OpenRouter-Run** – mit echtem API-Key validieren.
-4. **`tools/compare_chapters.py`** – erzeugt `001-compare.md` mit
-   nebeneinander-Darstellung (v1 vs v2).
-5. **Kapitel 1 fertigstellen** (Szenen 4–19), dann iterative Phase
-   ab Kapitel 2.
-6. **Namenslogik final festlegen** (Diskussion in `naming_choices.yaml`).
-7. (Bonus) **Scene-Splitter verbessern** – Szenen-Headings in
-   `NNN-source.md` einbauen, damit die Pipeline wirklich szeneweise
-   übersetzen kann.
+## Pipeline
+
+```bash
+# Buchpaket anlegen
+python tools/init_book.py --source "books/Meine Quelle.rtf"
+
+# Kapitelquellen erzeugen
+python tools/extract_chapters.py --book anna-karenina
+
+# RU-Szenen erzeugen
+python tools/extract_scenes.py --book anna-karenina --chapter 001
+python tools/extract_scenes.py --book anna-karenina --all
+
+# Uebersetzen oder Prompt bauen
+python tools/translate_chapter.py --book anna-karenina --chapter 001 --style stil-01-original --provider openrouter
+python tools/translate_chapter.py --book anna-karenina --chapter 001 --scene 01 --style stil-01-original --provider prompt_file
+
+# Mehrere Kapitel planen oder laufen lassen
+python tools/translate_batch.py --book anna-karenina --from 001 --to 005 --style stil-01-original --provider prompt_file --dry-run
+python tools/translate_batch.py --book anna-karenina --missing --style stil-01-original --provider openrouter --assemble-after
+
+# Kapitel ohne LLM zusammensetzen
+python tools/assemble_chapter.py --book anna-karenina --chapter 001 --style stil-01-original
+
+# DOCX/EPUB exportieren
+python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter 001 --style stil-01-original --format all --allow-partial
+
+# Status
+python tools/status.py --book anna-karenina summary
+python tools/status.py --book anna-karenina list
+python tools/status.py --book anna-karenina next
+
+# Dashboard
+streamlit run tools/dashboard.py
+```
+
+`translate_batch.py` ist ein Uebersetzungs-Batch, kein Export-Befehl. Er
+erzeugt fehlende RU-Arbeitseinheiten bei Bedarf und ruft danach
+`translate_chapter.py` fuer mehrere Kapitel auf. Kapitel-Assembly passiert
+nur mit `--assemble-after` oder separat ueber `assemble_chapter.py`;
+DOCX/EPUB entstehen erst ueber `export_manuscript.py`.
+
+## Style-Profile
+
+Jedes Buchpaket hat eigene Profile in `books/<book-id>/styles/*.md`.
+Der Dateiname ohne `.md` ist der Style-Slug und zugleich der Output-Ordner.
+Der aktive Default steht in `books/<book-id>/book.yaml` unter `style_mode`.
+
+Das gewaehlte Profil wird als verbindlicher Block in den System-Prompt
+gehoben. Wenn ein Profil Vorabsatz, Lede, Ueberschriften oder andere
+Struktur-Ergaenzungen erzwingen soll, muss das ausdruecklich in der
+Markdown-Datei stehen. Nach Profil-Aenderungen vorhandene Szenenergebnisse
+bewusst mit `--overwrite`, Dashboard-Ersetzen oder Loeschen neu erzeugen.
+
+## Buchstruktur Und Namen
+
+`books/<book-id>/book.yaml` enthaelt `structure.mode`:
+
+- `scenes`: Kapitel enthalten mehrere echte Szenen, wie bei Peter I.
+- `chapter_as_scene`: jedes Kapitel ist die kleinste Arbeitseinheit, wie bei
+  Anna Karenina.
+
+Optionale `structure.groups` koennen Teile oder Binnen-Buecher abbilden, ohne
+das Dateiformat zu aendern. Status und Logs bleiben pro Kapitel.
+
+`book.yaml.display` steuert die Leseranzeige im Export. Aktueller Standard:
+Kapitel als deutsche ausgeschriebene Ordinaltitel (`Erstes Kapitel` usw.).
+Anna zeigt keine Szenenmarker; Peter zeigt innerhalb eines Kapitels zentrierte
+Szenenzahlen ohne neue Seite.
+
+`books/<book-id>/names.yaml` enthaelt Eintraege mit `source`, `target`,
+`aliases`, `type`, `status` und `note`. Diese Liste wird kompakt in den Prompt
+eingefuegt. Nicht gepflegte russische Namen werden konservativ transliteriert
+oder im Zweifel beibehalten.
+
+## Provider
+
+- `openrouter`: echter API-Call; schreibt DE-Szenen und loggt Token/Modell.
+- `prompt_file`: schreibt vollstaendige Prompt-Dateien in `work/prompts/`.
+- `workspace_ai`: schreibt Arbeitsanweisungen fuer eine KI, die das Repo
+  direkt im Editor nutzt.
+
+## Export
+
+DOCX/EPUB liest fertige DE-Szenen aus
+`books/<book-id>/work/scenes/de/<style>/` und schreibt nach
+`books/<book-id>/exports/<style>/<scope>/`. Cover, Titelseite,
+Zusammenfassung, Autorenleben, Impressum und Inhaltslogik stehen in
+`books/<book-id>/export.yaml`. Coverpfade sind relativ zum Buchpaket, z. B.
+`assets/covers/annakarenina.png`.
+
+Standardfolge fuer Leserexporte: Coverbild, Titelseite, Zusammenfassung,
+Leben des Autors, dann Textbeginn mit Teil-/Buchgruppe und Kapiteln.
+
+## Aktueller Stand
+
+- Buchpakete sind fuehrend; alte zentrale `config/books.yaml` und
+  `config/export.yaml` liegen unter `config/legacy/`.
+- OpenRouter, Prompt-Datei-Modus, Workspace-KI-Modus, Assembly und Export sind
+  produktiv nutzbar.
+- Dashboard liest Buchpakete aus `books/*/book.yaml`.
+- Anna Karenina ist als zweites Buchpaket angelegt und hat ein Cover unter
+  `books/anna-karenina/assets/covers/annakarenina.png`.

@@ -1,0 +1,27 @@
+{
+  "book_id": "anna-karenina",
+  "book_title": "Anna Karenina",
+  "style": "stil-01-original",
+  "scope": "book",
+  "chapter": null,
+  "format": "epub",
+  "partial": true,
+  "created_at": "2026-06-08T14:50:52",
+  "chapters": [
+    {
+      "id": "001",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "004",
+      "scenes": 1,
+      "missing": []
+    }
+  ],
+  "outputs": [
+    "books\\anna-karenina\\exports\\stil-01-original\\book\\epub\\book-anna-karenina-stil-01-original-20260608-145052.epub"
+  ],
+  "work_markdown": "books\\anna-karenina\\exports\\stil-01-original\\book\\work\\book-anna-karenina-stil-01-original-20260608-145052.md",
+  "cover": "books\\anna-karenina\\assets\\covers\\annakarenina.png"
+}

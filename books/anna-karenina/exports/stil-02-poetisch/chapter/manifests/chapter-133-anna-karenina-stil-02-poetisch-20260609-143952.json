@@ -1,0 +1,22 @@
+{
+  "book_id": "anna-karenina",
+  "book_title": "Anna Karenina",
+  "style": "stil-02-poetisch",
+  "scope": "chapter",
+  "chapter": "133",
+  "format": "epub",
+  "partial": false,
+  "created_at": "2026-06-09T14:39:52",
+  "chapters": [
+    {
+      "id": "133",
+      "scenes": 1,
+      "missing": []
+    }
+  ],
+  "outputs": [
+    "books\\anna-karenina\\exports\\stil-02-poetisch\\chapter\\epub\\chapter-133-anna-karenina-stil-02-poetisch-20260609-143952.epub"
+  ],
+  "work_markdown": "books\\anna-karenina\\exports\\stil-02-poetisch\\chapter\\work\\chapter-133-anna-karenina-stil-02-poetisch-20260609-143952.md",
+  "cover": "books\\anna-karenina\\assets\\covers\\annakarenina.png"
+}

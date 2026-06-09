@@ -24,8 +24,8 @@ Hinweise:
 - HTTP-Fehler werden in OpenRouterError verpackt, mit Statuscode
   und Body-Auszug, damit man im Logfile sehen kann, was
   schiefging.
-- Bei 5xx und Timeouts wird automatisch retryt (max_retries,
-  backoff in Sekunden).
+- Bei 5xx, Timeouts und JSON-Parse-Fehlern wird automatisch
+  retryt (max_retries, backoff in Sekunden).
 """
 
 from __future__ import annotations
@@ -33,7 +33,7 @@ from __future__ import annotations
 import json
 import os
 import time
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Optional
 
@@ -60,6 +60,12 @@ class OpenRouterClient:
     timeout_sec: float = 180.0
     max_retries: int = 2
     backoff_sec: float = 3.0
+    last_usage: dict = field(default_factory=dict)
+    usage_totals: dict = field(default_factory=dict)
+    last_response_model: str = ""
+    last_response_id: str = ""
+    last_response_provider: str = ""
+    last_response_created: int | None = None
 
     @classmethod
     def from_env(
@@ -132,18 +138,24 @@ class OpenRouterClient:
         }
 
         last_err: Optional[Exception] = None
+        last_body: str = "(keine Antwort)"
         for attempt in range(self.max_retries + 1):
             try:
                 with httpx.Client(timeout=self.timeout_sec) as client:
                     r = client.post(url, headers=self._headers(),
                                     json=payload)
                 if r.status_code >= 500:
-                    raise OpenRouterError(
+                    last_body = r.text[:300]
+                    last_err = OpenRouterError(
                         f"OpenRouter 5xx: {r.status_code} — "
                         f"{r.text[:300]}"
                     )
+                    if attempt < self.max_retries:
+                        time.sleep(self.backoff_sec)
+                        continue
+                    raise last_err
                 if r.status_code == 429:
-                    # Rate limit — etwas länger warten
+                    last_body = r.text[:300]
                     if attempt < self.max_retries:
                         time.sleep(self.backoff_sec * 2)
                         continue
@@ -155,8 +167,24 @@ class OpenRouterClient:
                     raise OpenRouterError(
                         f"OpenRouter {r.status_code}: {r.text[:500]}"
                     )
-                data = r.json()
+
+                # JSON parsen – mit Retry bei Parse-Fehlern
+                try:
+                    data = r.json()
+                except json.JSONDecodeError as e:
+                    last_body = r.text[:500]
+                    last_err = e
+                    if attempt < self.max_retries:
+                        time.sleep(self.backoff_sec)
+                        continue
+                    raise OpenRouterError(
+                        f"OpenRouter-Antwort ist kein gueltiges JSON "
+                        f"(Status {r.status_code}): {r.text[:500]}"
+                    ) from e
+
+                self._record_response_meta(data)
                 return self._extract_content(data)
+
             except httpx.TimeoutException as e:
                 last_err = e
                 if attempt < self.max_retries:
@@ -174,8 +202,9 @@ class OpenRouterClient:
                 raise OpenRouterError(f"Unerwarteter Fehler: {e}") from e
 
         raise OpenRouterError(
-            f"OpenRouter-Call endgültig fehlgeschlagen "
-            f"({self.max_retries + 1} Versuche): {last_err}"
+            f"OpenRouter-Call endgueltig fehlgeschlagen "
+            f"({self.max_retries + 1} Versuche). "
+            f"Letzter Fehler: {last_err}. Body: {last_body[:200]}"
         )
 
     @staticmethod
@@ -195,11 +224,75 @@ class OpenRouterClient:
         msg = choices[0].get("message") or {}
         content = msg.get("content")
         if not isinstance(content, str) or not content.strip():
+            reason = choices[0].get("finish_reason", "unbekannt")
+            thinking = msg.get("reasoning") or msg.get("thinking") or "(kein reasoning)"
             raise OpenRouterError(
                 f"OpenRouter-Antwort ohne Text-Content. "
-                f"Body: {json.dumps(data)[:500]}"
+                f"finish_reason={reason}. "
+                f"Reasoning/Thinking (erste 300 Zeichen): "
+                f"{str(thinking)[:300]}"
             )
         return content
+
+    def _record_response_meta(self, data: dict) -> None:
+        model = data.get("model")
+        self.last_response_model = model if isinstance(model, str) else ""
+        response_id = data.get("id")
+        self.last_response_id = response_id if isinstance(response_id, str) else ""
+        response_provider = data.get("provider")
+        self.last_response_provider = (
+            response_provider if isinstance(response_provider, str) else ""
+        )
+        response_created = data.get("created")
+        self.last_response_created = (
+            response_created if isinstance(response_created, int) else None
+        )
+        usage = data.get("usage") or {}
+        if not isinstance(usage, dict):
+            usage = {}
+        self.last_usage = usage
+        for key, value in usage.items():
+            if isinstance(value, int):
+                self.usage_totals[key] = self.usage_totals.get(key, 0) + value
+
+    def usage_summary(self) -> str:
+        if not self.usage_totals:
+            meta = self.response_meta_summary()
+            if meta:
+                return f"Tokens: keine Usage-Daten vom Provider erhalten; {meta}"
+            return "Tokens: keine Usage-Daten vom Provider erhalten"
+        preferred = [
+            "prompt_tokens",
+            "completion_tokens",
+            "total_tokens",
+            "reasoning_tokens",
+        ]
+        parts = []
+        for key in preferred:
+            if key in self.usage_totals:
+                parts.append(f"{key}={self.usage_totals[key]}")
+        for key in sorted(self.usage_totals):
+            if key not in preferred:
+                parts.append(f"{key}={self.usage_totals[key]}")
+        if self.last_response_model:
+            parts.append(f"Antwort-Modell={self.last_response_model}")
+        if self.last_response_provider:
+            parts.append(f"Antwort-Provider={self.last_response_provider}")
+        if self.last_response_id:
+            parts.append(f"Response-ID={self.last_response_id}")
+        return "Tokens: " + ", ".join(parts)
+
+    def response_meta_summary(self) -> str:
+        parts = []
+        if self.last_response_model:
+            parts.append(f"Antwort-Modell={self.last_response_model}")
+        if self.last_response_provider:
+            parts.append(f"Antwort-Provider={self.last_response_provider}")
+        if self.last_response_id:
+            parts.append(f"Response-ID={self.last_response_id}")
+        if self.last_response_created is not None:
+            parts.append(f"Response-Created={self.last_response_created}")
+        return ", ".join(parts)
 
 
 # ---------------------------------------------------------------------------

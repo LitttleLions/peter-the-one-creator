@@ -1,0 +1,79 @@
+entries:
+- source: Пётр
+  target: Peter
+  aliases:
+  - Peter Alexejewitsch
+  type: person
+  status: approved
+  note: Eingebuergerte deutsche Form fuer den Zaren.
+- source: Иван
+  target: Iwan
+  aliases:
+  - Wanja
+  type: person
+  status: approved
+  note: Koseformen nur verwenden, wenn der Kontext sie verlangt.
+- source: Ивашка
+  target: Iwaschka
+  aliases:
+  - Iwan
+  type: person
+  status: draft
+  note: Diminutiv mit sozialer Faerbung; nicht automatisch zu Wanja glätten.
+- source: Софья
+  target: Sofja
+  aliases:
+  - Sofja Alexejewna
+  type: person
+  status: approved
+  note: Standardform fuer die Zarewna.
+- source: Алексей
+  target: Alexei
+  aliases:
+  - Aljoscha
+  - Aljoschka
+  type: person
+  status: approved
+  note: Koseformen nur in vertrauter Rede.
+- source: Василий
+  target: Wassili
+  aliases:
+  - Wasja
+  type: person
+  status: approved
+  note: Russische Namensform beibehalten.
+- source: Иван Артемич
+  target: Iwan Artemjitsch
+  aliases:
+  - Iwan Artemjitsch Browkin
+  type: person
+  status: approved
+  note: Patronymisch uebersetzen/transliterieren.
+- source: Данила Меньшиков
+  target: Danila Menschikow
+  aliases:
+  - Danila
+  type: person
+  status: approved
+  note: Historische Form; keine Modernisierung zu Menshikov.
+- source: Артамон Матвеев
+  target: Artamon Matwejew
+  aliases:
+  - Artamon Matwejewitsch
+  type: person
+  status: approved
+  note: Russische historische Namensform.
+- source: Цыган
+  target: Zigeuner
+  aliases:
+  - Tzigane
+  type: nickname
+  status: review
+  note: Historisch heikler Spitzname; bewusste Einzelfallentscheidung.
+- source: Хованский
+  target: Chowanski
+  aliases:
+  - Chowanskij
+  type: person
+  status: draft
+  note: Schreibweise noch finalisieren.

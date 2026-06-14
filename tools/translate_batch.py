@@ -82,7 +82,7 @@ def build_commands(
             "--style", style,
             "--provider", provider,
         ]
-        if provider == "openrouter" and model:
+        if provider in ("openrouter", "ollama") and model:
             cmd.extend(["--model", model])
         if overwrite:
             cmd.append("--overwrite")
@@ -115,7 +115,7 @@ def parse_args() -> argparse.Namespace:
     ap = argparse.ArgumentParser(description="Mehrere Kapitel uebersetzen.")
     ap.add_argument("--book", default=None)
     ap.add_argument("--style", default=None)
-    ap.add_argument("--provider", choices=["openrouter", "prompt_file", "workspace_ai"], default="openrouter")
+    ap.add_argument("--provider", choices=["openrouter", "ollama", "prompt_file", "workspace_ai"], default="openrouter")
     ap.add_argument("--model", default=None)
     ap.add_argument("--chapter", default=None, help="Ein einzelnes Kapitel")
     ap.add_argument("--from", dest="from_chapter", default=None, help="Startkapitel")

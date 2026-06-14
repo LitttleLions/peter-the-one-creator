@@ -287,6 +287,15 @@ def provider_action(provider: str) -> dict[str, str]:
             ),
             "target": "books/<id>/work/scenes/de/<style>/<Kapitel>/scene-XX.md",
         },
+        "ollama": {
+            "title": "Lokale Uebersetzung (Ollama)",
+            "button": "Lokale Uebersetzung starten",
+            "copy": (
+                "Sendet die ausgewaehlten RU-Szenen an die lokale Ollama-Instanz "
+                "und schreibt fertige deutsche Szenendateien. Kein API-Key noetig."
+            ),
+            "target": "books/<id>/work/scenes/de/<style>/<Kapitel>/scene-XX.md",
+        },
         "prompt_file": {
             "title": "Prompt-Datei bauen",
             "button": "Prompt-Datei bauen",
@@ -986,7 +995,7 @@ model = st.sidebar.selectbox(
 
 provider = st.sidebar.radio(
     "Provider",
-    ["openrouter", "prompt_file", "workspace_ai"],
+    ["openrouter", "ollama", "prompt_file", "workspace_ai"],
     horizontal=True,
 )
 st.sidebar.markdown(
@@ -1396,7 +1405,7 @@ with tab_translate:
                 "--style", style,
                 "--provider", provider,
             ]
-            if provider == "openrouter":
+            if provider in ("openrouter", "ollama"):
                 cmd.extend(["--model", model])
             if not chapter_as_scene and scene_choice != "alle fehlenden":
                 cmd.extend(["--scene", scene_choice])
@@ -1452,6 +1461,7 @@ with tab_translate:
           </span>
           <div class="mini-list">
             <div>Provider openrouter: schreibt DE-Szenen und verbraucht Tokens.</div>
+            <div>Provider ollama: schreibt DE-Szenen via lokales Modell, kein API-Key noetig.</div>
             <div>Provider prompt_file: schreibt nur Prompt-Dateien, keine DE-Szenen.</div>
             <div>Provider workspace_ai: schreibt Arbeitsanweisungen fuer eine Repo-KI.</div>
           </div>
@@ -1493,9 +1503,9 @@ with tab_translate:
         batch_assemble_after = st.checkbox(
             "Danach zusammensetzen",
             value=False,
-            disabled=provider != "openrouter",
+            disabled=provider not in ("openrouter", "ollama"),
             help=(
-                "Startet nach erfolgreichen OpenRouter-Uebersetzungen "
+                "Startet nach erfolgreichen Uebersetzungen "
                 "assemble_chapter.py fuer die ausgewaehlten Kapitel. "
                 "Bei prompt_file/workspace_ai entstehen keine DE-Szenen."
             ),
@@ -1543,7 +1553,7 @@ with tab_translate:
             "--style", style,
             "--provider", provider,
         ]
-        if provider == "openrouter":
+        if provider in ("openrouter", "ollama"):
             cmd.extend(["--model", model])
         if batch_scope == "Aktuelles Kapitel":
             cmd.extend(["--chapter", chapter])
@@ -1553,7 +1563,7 @@ with tab_translate:
             cmd.append("--missing")
         if overwrite:
             cmd.append("--overwrite")
-        if batch_assemble_after and provider == "openrouter":
+        if batch_assemble_after and provider in ("openrouter", "ollama"):
             cmd.append("--assemble-after")
         if batch_auto_status:
             cmd.append("--auto-status")
@@ -1668,7 +1678,7 @@ with tab_styletest:
                     key=f"run-{style_id}-{chapter}-{scene_num}",
                 ):
                     if (
-                        provider == "openrouter"
+                        provider in ("openrouter", "ollama")
                         and scene_path.exists()
                         and not replace_existing
                     ):
@@ -1678,7 +1688,7 @@ with tab_styletest:
                                 "Diese Szene existiert bereits. Aktiviere "
                                 "'Vorhandenes Ergebnis beim Erzeugen ersetzen' "
                                 "oder loesche das Ergebnis, damit wirklich ein "
-                                f"neuer OpenRouter-Lauf mit {model} startet."
+                                f"neuer Lauf mit {model} startet."
                             ),
                         )
                         st.rerun()
@@ -1690,7 +1700,7 @@ with tab_styletest:
                         "--style", style_id,
                         "--provider", provider,
                     ]
-                    if provider == "openrouter":
+                    if provider in ("openrouter", "ollama"):
                         cmd.extend(["--model", model])
                     if replace_existing:
                         try:

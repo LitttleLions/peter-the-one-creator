@@ -45,6 +45,7 @@ import yaml
 
 from lib.book_project import find_book as find_book_project
 from lib.openrouter_client import OpenRouterClient, OpenRouterError
+from lib.ollama_client import OllamaClient, OllamaError
 from lib.style_prompts import StylePrompts, StylePromptError
 from lib.scene_splitter import (
     split_into_scenes, Scene, count_words,
@@ -279,9 +280,9 @@ def parse_args():
     ap.add_argument("--model", default=None,
                     help="OpenRouter-Modellname (ueberschreibt .env / book.yaml)")
     ap.add_argument("--provider",
-                    choices=["openrouter", "prompt_file", "workspace_ai", "manual_codex"],
+                    choices=["openrouter", "ollama", "prompt_file", "workspace_ai", "manual_codex"],
                     default="openrouter",
-                    help="openrouter ruft die API auf; prompt_file/workspace_ai schreiben Anweisungen")
+                    help="openrouter/ollama rufen die API auf; prompt_file/workspace_ai schreiben Anweisungen")
     ap.add_argument("--granularity", choices=["scene", "chapter"], default=None,
                     help="Szene-fuer-Szene oder ganzes Kapitel")
     ap.add_argument("--max-tokens", type=int, default=None,
@@ -345,6 +346,16 @@ def main():
         if args.verbose:
             print(f"Modell gewaehlt: {model_info['name']} ({model_info['provider']})")
             print(f"  {model_info['description']}")
+
+    elif args.provider == "ollama":
+        chosen_model = args.model or "ollama/gemma4:e4b"
+        model_info = {
+            "name": f"Ollama {chosen_model}",
+            "provider": "Ollama (lokal)",
+            "description": f"Lokales Modell via Ollama ({chosen_model})",
+        }
+        if args.verbose:
+            print(f"Lokales Ollama-Modell: {chosen_model}")
 
     # Pipeline-AI-Defaults
     pipe = load_yaml(REPO_ROOT / "config" / "pipeline.yaml")
@@ -465,7 +476,7 @@ def main():
     if not title_ru:
         title_ru = f"Kapitel {args.chapter}"
 
-    # OpenRouter-Client (nur wenn nicht dry-run und nicht prompt_only)
+    # Client initialisieren (nur wenn nicht dry-run und nicht prompt_only)
     client = None
     if not args.dry_run and args.provider == "openrouter":
         try:
@@ -480,6 +491,19 @@ def main():
             client.model = args.model
         print(f"OpenRouter-Client initialisiert "
               f"(Modell={client.model}).")
+        print()
+
+    elif not args.dry_run and args.provider == "ollama":
+        try:
+            # Ollama-Modellname ohne "ollama/"-Prefix verwenden
+            ollama_model = chosen_model.replace("ollama/", "", 1)
+            client = OllamaClient(model=ollama_model)
+        except Exception as e:
+            print(f"FEHLER: Ollama-Client Initialisierung: {e}", file=sys.stderr)
+            return 3
+        client.timeout_sec = float(args.timeout)
+        print(f"Ollama-Client initialisiert (Modell={client.model}, "
+              f"API={client.api_base}/api/chat).")
         print()
 
     # ---------------------------------------------------------------
@@ -533,7 +557,10 @@ def main():
             print(f"Legacy-Regeln angehaengt: {bool(rules_text)}")
             return 0
         assert client is not None
-        client.model = chosen_model
+        if args.provider == "ollama":
+            client.model = ollama_model
+        else:
+            client.model = chosen_model
         print("-> Uebersetze ganzes Kapitel in einem Call...")
         try:
             translated_full, _warn = safe_translate_with_check(
@@ -542,7 +569,7 @@ def main():
                 label="chapter",
             )
             print(f"   {format_last_usage(client)}")
-        except OpenRouterError as e:
+        except (OpenRouterError, OllamaError) as e:
             print(f"FEHLER: {e}", file=sys.stderr)
             failed_scenes = 1
         if not failed_scenes:
@@ -610,7 +637,10 @@ def main():
                 continue
 
             assert client is not None
-            client.model = chosen_model
+            if args.provider == "ollama":
+                client.model = ollama_model
+            else:
+                client.model = chosen_model
             try:
                 txt, _warn = safe_translate_with_check(
                     client, messages, temperature, max_tokens,
@@ -645,7 +675,7 @@ def main():
                 print(f"   -> {s_path.relative_to(output_root)} "
                       f"({count_words(txt)} Woerter DE)")
 
-            except OpenRouterError as e:
+            except (OpenRouterError, OllamaError) as e:
                 print(f"   FEHLER bei Szene {i}: {e}", file=sys.stderr)
                 sf["error"] = str(e)[:200]
                 failed_scenes += 1
@@ -728,8 +758,9 @@ def main():
         f"Temperatur: {temperature}, max_tokens: {max_tokens}",
         f"Granularitaet: {granularity}",
     ])
-    if client is not None and args.provider == "openrouter":
-        rules_applied.append(client.usage_summary())
+    if client is not None:
+        if args.provider in ("openrouter", "ollama"):
+            rules_applied.append(client.usage_summary())
     difficult = []
     if rules_text is not None:
         difficult.append(
@@ -789,7 +820,7 @@ def main():
     # Status: needs_review / done (optional)
     if status_path is not None and state is not None:
         can_finish = (
-            args.provider == "openrouter"
+            args.provider in ("openrouter", "ollama")
             and (
                 granularity == "chapter"
                 or chapter_translations_complete(output_root, args.chapter, mode)

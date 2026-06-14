@@ -151,6 +151,12 @@ models:
     provider: MoonshotAI
     description: "Aktuelles Kimi-Modell – sehr langes Kontextfenster, gut fuer Long-form."
 
+  # ── Ollama – lokale Modelle ──
+  - id: ollama/gemma4:e4b
+    name: "Gemma 4 E4B (lokal)"
+    provider: Ollama
+    description: "Lokales Google-Modell ueber Ollama (8B, Q4_K_M) – auf diesem Rechner installiert."
+
   # ── OpenRouter eigene Modelle ──
   - id: openrouter/owl-alpha
     name: "Owl Alpha (Free)"

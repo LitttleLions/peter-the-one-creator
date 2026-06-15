@@ -14,7 +14,7 @@ defaults:
     summary_page: true
     author_bio_page: true
     description_page: false
-    imprint_page: false
+    imprint_page: true
     toc_page: false
     combined_epub_front_matter: false
     combined_heading: Titelei
@@ -30,14 +30,57 @@ defaults:
     scene_numbers: false
     strip_control_metadata: true
     scene_separator: '* * *'
+  illustrations:
+    enabled: true
+    chapter_images: true
+    scene_images: true
+    chapter_page_break_after_image: true
+    scene_page_break_after_image: false
 book:
   title: Peter der Erste
-  subtitle: Buch 1
-  author: Alexei Tolstoi
-  translator: Motivatier 2025
+  subtitle: Der große Roman über Zar Peter I. in neuer deutscher Ausgabe
+  author: Alexei Nikolajewitsch Tolstoi
+  translator: Motivatier Classics
+  translator_label: Übersetzung und editorische Einrichtung
   language: de-DE
-  publisher: ''
-  rights: ''
+  publisher: Motivatier Hermann Stiftung
+  rights: © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.
+  original_title: Пётр Первый
+  original_author: Alexei Nikolajewitsch Tolstoi (1883–1945)
+  title_page_extra:
+  - 'Originaltitel: Пётр Первый'
+  - 'Originalautor: Alexei Nikolajewitsch Tolstoi (1883–1945)'
+  - >-
+    Diese Ausgabe ist eine neue deutsche Übersetzung aus dem russischen
+    Original. Die Übersetzung und editorische Einrichtung wurden KI-gestützt
+    erstellt und redaktionell geprüft.
+  - >-
+    Die kurzen Vorspänne vor den Kapiteln stammen nicht aus dem russischen
+    Original. Sie wurden für diese Ausgabe ergänzt, um historische,
+    atmosphärische und erzählerische Orientierung zu geben.
+  - Herausgegeben von der Motivatier Hermann Stiftung
+  imprint_text: |
+    Peter der Erste
+
+    Alexei Nikolajewitsch Tolstoi
+
+    Der große Roman über Zar Peter I. in neuer deutscher Ausgabe
+
+    Originaltitel: Пётр Первый
+    Originalautor: Alexei Nikolajewitsch Tolstoi (1883–1945)
+
+    Diese Ausgabe ist eine neue deutsche Übersetzung aus dem russischen Original. Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft.
+
+    Die kurzen Vorspänne vor den Kapiteln stammen nicht aus dem russischen Original. Sie wurden für diese Ausgabe ergänzt, um historische, atmosphärische und erzählerische Orientierung zu geben.
+
+    Herausgegeben von der Motivatier Hermann Stiftung
+    Übersetzung und editorische Einrichtung: Motivatier Classics
+
+    © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.
+
+    Das russische Originalwerk ist gemeinfrei. Rechte an dieser Ausgabe bestehen, soweit sie die neue deutsche Übersetzung, die redaktionellen Ergänzungen, die Gestaltung, das Cover und die konkrete Einrichtung des Textes betreffen.
+
+    Alle Rechte an dieser Ausgabe vorbehalten.
   description: >-
     Peter der Erste erzählt vom Aufstieg eines Herrschers, der Russland mit
     Gewalt, Willenskraft und visionärer Unruhe aus der alten Welt in die

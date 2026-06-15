@@ -103,6 +103,8 @@ def ensure_dirs(book_root: Path, dry_run: bool) -> None:
     dirs = [
         "source",
         "assets/covers",
+        "assets/chapter",
+        "assets/scene",
         "styles",
         "work/chapters",
         "work/scenes/ru",
@@ -122,6 +124,17 @@ def ensure_dirs(book_root: Path, dry_run: bool) -> None:
 
 def export_config_for(book: dict[str, Any], legacy_export: dict[str, Any]) -> dict[str, Any]:
     defaults = legacy_export.get("defaults", {}) or {}
+    defaults = {
+        **defaults,
+        "illustrations": {
+            "enabled": True,
+            "chapter_images": True,
+            "scene_images": True,
+            "chapter_page_break_after_image": True,
+            "scene_page_break_after_image": False,
+            **((defaults.get("illustrations") or {}) if isinstance(defaults, dict) else {}),
+        },
+    }
     old_book = (legacy_export.get("books", {}) or {}).get(book["id"], {}) or {}
     old_cover = old_book.get("cover", {}) or {}
     image_path = ""

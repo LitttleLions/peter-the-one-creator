@@ -2,7 +2,7 @@
 
 Python-Werkbank fuer kapitel- und szenenweise literarische Uebersetzung
 (`ru -> de`) mit Style-Profilen, OpenRouter, Prompt-Datei-Modus,
-Workspace-KI-Modus, Streamlit-Dashboard und DOCX-/EPUB-Export.
+Workspace-KI-Modus, Streamlit-Dashboard und DOCX-/EPUB-/PDF-Export.
 
 Die wichtigste Architekturentscheidung: **Szenen werden einzeln uebersetzt,
 Kapitel und Exporte werden danach per CLI aus Dateien zusammengesetzt.**
@@ -17,6 +17,26 @@ Dadurch werden fertige Kapitel nicht unnoetig erneut durch ein LLM geschickt.
 4. Pruefe den Stand mit `python tools/status.py --book <book-id> summary`.
 5. Produktive Style-Profile liegen in `books/<book-id>/styles/*.md`.
 
+## Voraussetzungen
+
+### Python-Abhaengigkeiten
+
+```bash
+pip install -r requirements.txt
+```
+
+### Externe Tools
+
+| Tool | Zweck | Installation |
+|------|-------|--------------|
+| **Streamlit** (>= 1.36) | Dashboard | Enthalten in `requirements.txt` |
+| **Pandoc** (>= 3.0) | EPUB-Export | `winget install --id JohnMacFarlane.Pandoc` oder manuell von https://pandoc.org/installing.html |
+| **Playwright Chromium** | PDF-Export | `python -m playwright install chromium` nach `pip install -r requirements.txt` |
+
+> **Hinweis:** Nach der Pandoc-Installation muss ein neues Terminal gestartet werden,
+> damit der Pfad erkannt wird. Unter Windows liegt Pandoc typischerweise unter
+> `C:\Users\<user>\AppData\Local\Pandoc\pandoc.exe`.
+
 ## Buchpakete
 
 Jedes Buch ist ein transportierbares Paket:
@@ -28,6 +48,8 @@ books/<book-id>/
   names.yaml
   source/
   assets/covers/
+  assets/chapter/
+  assets/scene/
   styles/
   work/
     chapters/
@@ -74,13 +96,26 @@ python tools/translate_batch.py --book anna-karenina --from 001 --to 005 --style
 python tools/translate_batch.py --book anna-karenina --missing --style stil-01-original --provider openrouter --assemble-after
 python tools/assemble_chapter.py --book anna-karenina --chapter 001 --style stil-01-original
 python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter 001 --style stil-01-original --format all --allow-partial
+python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter 001 --style stil-01-original --format pdf --allow-partial
+
+# Review-Fixes aus vorhandenen Review-JSONs
+python tools/apply_review_suggestions.py --book anna-karenina --style stil-01-original --plan
+python tools/apply_review_suggestions.py --book anna-karenina --style stil-01-original --stage
+python tools/apply_review_suggestions.py --book anna-karenina --style stil-01-original --promote
 ```
 
 `translate_batch.py` ist ein Uebersetzungs-Batch, kein Export-Befehl. Er
 erzeugt fehlende RU-Arbeitseinheiten bei Bedarf und startet danach
 `translate_chapter.py` fuer die ausgewaehlten Kapitel. Mit `--assemble-after`
 werden anschliessend die Kapiteldateien per `assemble_chapter.py`
-zusammengesetzt. DOCX/EPUB entstehen erst ueber `export_manuscript.py`.
+zusammengesetzt. DOCX/EPUB/PDF entstehen erst ueber `export_manuscript.py`.
+
+Grosse RU-Szenen werden beim Uebersetzen intern in Chunks geteilt. Die
+sichtbare Buchstruktur bleibt gleich: Chunks unter `work/chunks/` werden nach
+erfolgreicher Uebersetzung wieder zur urspruenglichen
+`work/scenes/de/<style>/<chapter>/scene-XX.md` zusammengesetzt. Die Grenze
+steht in `config/pipeline.yaml` unter `pipeline.ai_defaults.chunk_char_limit`
+und kann pro Lauf mit `--chunk-char-limit` ueberschrieben werden.
 
 Fuer neue Buecher liegt eine kopierbare KI-Vorlage unter
 `docs/book-metadata-prompt.md`. Sie sammelt Titel, Autor, Zusammenfassung,
@@ -206,7 +241,7 @@ werden konservativ transliteriert oder im Zweifel beibehalten.
 
 ## Export
 
-`tools/export_manuscript.py` erzeugt DOCX und EPUB aus fertigen DE-Szenen.
+`tools/export_manuscript.py` erzeugt DOCX, EPUB und PDF aus fertigen DE-Szenen.
 Metadaten, Cover, Zusammenfassung, Autorenleben, Impressum und Titelei stehen
 in `books/<book-id>/export.yaml`.
 
@@ -231,6 +266,11 @@ Reader-abhaengige Titel-Fragmente. Langtext-Frontmatter wie Zusammenfassung und
 Autorenleben nutzt nur relative CSS-Groessen, damit Reader-Schriftgroessen
 weiterhin vom Nutzer gesteuert werden koennen.
 
+PDF-Hinweis: PDF wird explizit mit `--format pdf` erzeugt. `--format all`
+bleibt rueckwaertskompatibel bei DOCX+EPUB. Der PDF-Export rendert eine
+eigene HTML-/CSS-Datei mit Playwright/Chromium; Seitenformat und Raender
+kommen aus dem Print-CSS (`A5` als Standard).
+
 Coverpfade sind relativ zum Buchpaket:
 
 ```yaml
@@ -240,13 +280,39 @@ book:
     image_path: assets/covers/annakarenina.png
 ```
 
+Optionale Kapitel- und Szenenbilder werden beim Export automatisch eingebunden,
+wenn `illustrations.enabled` aktiv ist und passende Dateien im Buchpaket
+liegen:
+
+```yaml
+defaults:
+  illustrations:
+    enabled: true
+    chapter_images: true
+    scene_images: true
+    chapter_page_break_after_image: true
+    scene_page_break_after_image: false
+```
+
+Namenskonvention:
+
+```text
+books/<book-id>/assets/chapter/chapter-001.jpg
+books/<book-id>/assets/scene/001/scene-002.png
+```
+
+Erlaubte Formate sind `.jpg`, `.jpeg`, `.png` und `.webp`. Fehlt ein Bild,
+wird es still uebersprungen.
+
 Ausgaben landen unter:
 
 ```text
 books/<book-id>/exports/<style>/chapter/docx/
 books/<book-id>/exports/<style>/chapter/epub/
+books/<book-id>/exports/<style>/chapter/pdf/
 books/<book-id>/exports/<style>/book/docx/
 books/<book-id>/exports/<style>/book/epub/
+books/<book-id>/exports/<style>/book/pdf/
 ```
 
 ## Dashboard

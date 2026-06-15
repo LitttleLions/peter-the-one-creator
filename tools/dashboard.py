@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import subprocess
 import sys
 from datetime import datetime
@@ -31,6 +32,11 @@ from lib.output_paths import (
     parse_scene_number,
     prompt_path,
     ru_scene_path,
+)
+from lib.translation_chunks import (
+    chunk_char_limit as resolve_chunk_char_limit,
+    scene_chunks,
+    should_chunk,
 )
 from lib.workbench_state import (
     assembly_paths,
@@ -153,70 +159,233 @@ def _clear_batch_job() -> None:
         BATCH_JOB_FILE.unlink()
 
 
-def _start_batch_job(args: list[str], book_id: str, style: str, provider: str) -> dict:
+def _write_batch_job(job: dict) -> None:
+    _save_batch_job(job)
+
+
+def _refresh_batch_job(job: dict | None) -> tuple[dict | None, bool]:
+    if not job:
+        return None, False
+    status = str(job.get("status") or "")
+    if status in {"completed", "failed", "stopped"}:
+        return job, False
+    pid = int(job.get("pid") or 0)
+    if _job_stale(job):
+        job["status"] = "stale"
+        job["completed_at"] = datetime.now().isoformat(timespec="seconds")
+        _write_batch_job(job)
+        return job, False
+    if pid and _process_running(pid):
+        job["status"] = "running"
+        return job, True
+    raw_log_path = str(job.get("log_path") or "")
+    log_path = REPO_ROOT / raw_log_path if raw_log_path else None
+    if log_path is not None and log_path.is_file():
+        text = log_path.read_text(encoding="utf-8", errors="replace")
+        if "Summary:" in text and job.get("returncode") is None:
+            job["returncode"] = 0
+        elif "Traceback" in text and job.get("returncode") is None:
+            job["returncode"] = 1
+    job["status"] = "completed"
+    job["completed_at"] = datetime.now().isoformat(timespec="seconds")
+    job["status_note"] = "Status nachtraeglich erkannt; Prozess laeuft nicht mehr."
+    _write_batch_job(job)
+    return job, False
+
+
+def _job_status_label(job: dict, running: bool) -> str:
+    if running:
+        return "laeuft"
+    status = str(job.get("status") or "")
+    returncode = job.get("returncode")
+    if status == "completed":
+        if returncode is None:
+            return "beendet"
+        return f"beendet (Code {returncode})"
+    if status == "failed":
+        return f"fehlgeschlagen (Code {returncode})"
+    if status == "stale":
+        return "unbekannt/stale"
+    if status == "stopped":
+        return "gestoppt"
+    return "beendet"
+
+
+def _job_is_running(job: dict | None) -> bool:
+    _job, running = _refresh_batch_job(job)
+    return running
+
+
+def _progress_from_log(text: str) -> tuple[int | None, int | None]:
+    progress = None
+    for match in re.finditer(r"^\[(\d+)/(\d+)\]\s+Kapitel", text, re.MULTILINE):
+        progress = (int(match.group(1)), int(match.group(2)))
+    return progress or (None, None)
+
+
+def _latest_job_log(kind: str, book_id: str, style: str) -> Path | None:
+    if not BATCH_LOG_DIR.exists():
+        return None
+    pattern = f"*-{kind}-{book_id}-{style}.log"
+    logs = sorted(
+        BATCH_LOG_DIR.glob(pattern),
+        key=lambda path: path.stat().st_mtime,
+        reverse=True,
+    )
+    return logs[0] if logs else None
+
+
+def _log_completion_label(text: str) -> str:
+    if "Summary:" in text:
+        return "beendet"
+    if "Traceback" in text or "FEHLER:" in text:
+        return "fehlgeschlagen/abgebrochen"
+    return "unvollstaendig"
+
+
+def _show_latest_job_log(kind: str, book_id: str, style: str) -> None:
+    log_path = _latest_job_log(kind, book_id, style)
+    if not log_path:
+        return
+    text = log_path.read_text(encoding="utf-8", errors="replace")
+    done, total = _progress_from_log(text)
+    status = _log_completion_label(text)
+    st.markdown("### Letzter Hintergrundlauf")
+    st.info(
+        f"Status aus Log: {status} | "
+        f"{f'Fortschritt: {done}/{total} | ' if done is not None and total else ''}"
+        f"Log: {log_path.relative_to(REPO_ROOT)}"
+    )
+    with st.expander("Letzten Log anzeigen", expanded=status != "beendet"):
+        st.code("\n".join(text.splitlines()[-80:]) or "(leer)", language="text")
+
+
+def _start_batch_job(
+    args: list[str],
+    book_id: str,
+    style: str,
+    provider: str,
+    kind: str = "batch",
+) -> dict:
     BATCH_LOG_DIR.mkdir(parents=True, exist_ok=True)
+    _clear_batch_job()
     stamp = datetime.now().strftime("%Y%m%d-%H%M%S")
-    log_path = BATCH_LOG_DIR / f"{stamp}-{book_id}-{style}.log"
-    log_handle = log_path.open("w", encoding="utf-8")
+    log_path = BATCH_LOG_DIR / f"{stamp}-{kind}-{book_id}-{style}.log"
     creationflags = subprocess.CREATE_NEW_PROCESS_GROUP if os.name == "nt" else 0
+    runner_args = [
+        sys.executable,
+        "tools/dashboard_job_runner.py",
+        "--repo-root", str(REPO_ROOT),
+        "--job-file", str(BATCH_JOB_FILE),
+        "--log-path", str(log_path),
+        "--book-id", book_id,
+        "--style", style,
+        "--provider", provider,
+        "--kind", kind,
+        "--",
+        sys.executable,
+        *args,
+    ]
     proc = subprocess.Popen(
-        [sys.executable, *args],
+        runner_args,
         cwd=REPO_ROOT,
-        stdout=log_handle,
-        stderr=subprocess.STDOUT,
-        text=True,
+        stdout=subprocess.DEVNULL,
+        stderr=subprocess.DEVNULL,
         creationflags=creationflags,
     )
-    log_handle.close()
     job = {
         "pid": proc.pid,
+        "child_pid": None,
         "book_id": book_id,
         "style": style,
         "provider": provider,
+        "kind": kind,
+        "status": "running",
+        "returncode": None,
         "command": [sys.executable, *args],
         "log_path": str(log_path.relative_to(REPO_ROOT)),
         "started_at": datetime.now().isoformat(timespec="seconds"),
     }
+    # The runner owns the job file, including completion status. Wait briefly
+    # for its initial write so fast jobs cannot be overwritten as "running".
+    import time
+    for _ in range(20):
+        persisted = _load_batch_job()
+        if persisted and int(persisted.get("pid") or 0) == proc.pid:
+            return persisted
+        time.sleep(0.05)
+    if proc.poll() is None:
+        proc.terminate()
+    job["status"] = "failed"
+    job["returncode"] = proc.poll()
+    job["completed_at"] = datetime.now().isoformat(timespec="seconds")
+    job["status_note"] = "Dashboard-Runner konnte die Jobdatei nicht initialisieren."
     _save_batch_job(job)
     return job
 
 
-def _show_batch_job_panel() -> None:
-    job = _load_batch_job()
+def _show_batch_job_panel(key_prefix: str = "batch-job") -> tuple[dict | None, bool]:
+    job, running = _refresh_batch_job(_load_batch_job())
     if not job:
-        return
+        return None, False
     pid = int(job.get("pid") or 0)
-    running = _process_running(pid)
-    status = "laeuft" if running else "beendet"
-    log_path = REPO_ROOT / str(job.get("log_path") or "")
-    st.markdown("### Aktiver Hintergrund-Batch")
+    status = _job_status_label(job, running)
+    raw_log_path = str(job.get("log_path") or "")
+    log_path = REPO_ROOT / raw_log_path if raw_log_path else None
+    kind = str(job.get("kind") or "batch")
+    title = {
+        "review": "Aktiver Review-Lauf",
+        "translate": "Aktiver Uebersetzungslauf",
+    }.get(kind, "Aktiver Hintergrund-Batch")
+    st.markdown(f"### {title}")
+    if running:
+        st.markdown('<meta http-equiv="refresh" content="5">', unsafe_allow_html=True)
     st.info(
         f"Status: {status} | PID: {pid} | Buch: {job.get('book_id')} | "
         f"Stil: {job.get('style')} | Provider: {job.get('provider')}"
     )
-    if log_path.exists():
+    if job.get("completed_at"):
+        st.caption(f"Beendet: {job.get('completed_at')}")
+    if job.get("status_note"):
+        st.caption(str(job.get("status_note")))
+    if log_path is not None and log_path.is_file():
         text = log_path.read_text(encoding="utf-8", errors="replace")
+        done, total = _progress_from_log(text)
+        if done is not None and total:
+            st.progress(
+                min(done / total, 1.0),
+                text=f"Fortschritt: {done}/{total} Kapitel",
+            )
         tail = "\n".join(text.splitlines()[-80:])
         with st.expander("Batch-Log", expanded=not running):
             st.code(tail or "(noch keine Ausgabe)", language="text")
     col_stop, col_clear = st.columns([1, 1])
     with col_stop:
-        if st.button("Hintergrund-Batch stoppen", disabled=not running):
+        if st.button(
+            "Hintergrund-Batch stoppen",
+            disabled=not running,
+            key=f"{key_prefix}-stop",
+        ):
             result = _stop_process_tree(pid)
             if result.returncode == 0:
-                _clear_batch_job()
+                job["status"] = "stopped"
+                job["returncode"] = None
+                job["completed_at"] = datetime.now().isoformat(timespec="seconds")
+                _write_batch_job(job)
                 st.success("Batch-Prozessbaum gestoppt.")
             else:
                 st.error("Stoppen fehlgeschlagen.")
-                show_result(result)
+            show_result(result)
             st.rerun()
     with col_clear:
-        if st.button("Beendeten Batch ausblenden", disabled=running):
+        if st.button(
+            "Beendeten Lauf ausblenden",
+            disabled=running,
+            key=f"{key_prefix}-clear",
+        ):
             _clear_batch_job()
             st.rerun()
-        # Auto-clear if process is no longer running (stale job file)
-        if not running and job:
-            _clear_batch_job()
+    return job, running
 
 
 def remember_result(kind: str, message: str) -> None:
@@ -359,7 +528,7 @@ def load_export_meta(book: dict) -> dict:
     defaults = data.get("defaults", {}) or {}
     book_cfg = data.get("book", {}) or {}
     meta = {**defaults, **book_cfg}
-    for key in ("cover", "front_matter", "output"):
+    for key in ("cover", "front_matter", "output", "illustrations"):
         merged = {
             **(defaults.get(key, {}) or {}),
             **(book_cfg.get(key, {}) or {}),
@@ -367,6 +536,86 @@ def load_export_meta(book: dict) -> dict:
         if merged:
             meta[key] = merged
     return meta
+
+
+def load_pipeline_config() -> dict:
+    path = REPO_ROOT / "config" / "pipeline.yaml"
+    if not path.exists():
+        return {}
+    return yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+
+
+def oversized_ru_scenes(
+    book: dict,
+    chapter_id: str,
+    limit: int,
+    repo_root: Path,
+) -> list[dict]:
+    if not chapter_id or limit <= 0:
+        return []
+    output_root = book_output_root(repo_root, book)
+    items = []
+    for path in list_ru_scene_paths(output_root, chapter_id):
+        scene_num = parse_scene_number(path, chapter_id)
+        if scene_num is None:
+            continue
+        text = path.read_text(encoding="utf-8", errors="replace")
+        if should_chunk(text, limit):
+            chunks = scene_chunks(scene_num, text, limit)
+            items.append({
+                "scene": scene_num,
+                "chars": len(text),
+                "chunks": len(chunks),
+                "path": path,
+            })
+    return items
+
+
+IMAGE_EXTENSIONS = (".jpg", ".jpeg", ".png", ".webp")
+
+
+def find_named_image(directory: Path, stem: str) -> Path | None:
+    for ext in IMAGE_EXTENSIONS:
+        candidate = directory / f"{stem}{ext}"
+        if candidate.is_file():
+            return candidate
+    return None
+
+
+def count_export_illustrations(
+    book: dict,
+    export_meta: dict,
+    selected_chapters: list[str],
+    repo_root: Path,
+) -> dict[str, int]:
+    cfg = export_meta.get("illustrations", {}) or {}
+    if not cfg.get("enabled", False):
+        return {"chapter": 0, "scene": 0, "total": 0}
+    book_root = repo_root / str(book.get("book_root", ""))
+    chapter_count = 0
+    scene_count = 0
+    if cfg.get("chapter_images", True):
+        chapter_dir = book_root / "assets" / "chapter"
+        chapter_count = sum(
+            1
+            for chapter_id in selected_chapters
+            if find_named_image(chapter_dir, f"chapter-{chapter_id}")
+        )
+    if cfg.get("scene_images", True):
+        for chapter_id in selected_chapters:
+            scene_dir = book_root / "assets" / "scene" / chapter_id
+            stems: set[str] = set()
+            if scene_dir.exists():
+                for path in scene_dir.iterdir():
+                    if path.is_file() and path.suffix.lower() in IMAGE_EXTENSIONS:
+                        if re.match(r"^scene-\d{3}$", path.stem):
+                            stems.add(path.stem)
+            scene_count += len(stems)
+    return {
+        "chapter": chapter_count,
+        "scene": scene_count,
+        "total": chapter_count + scene_count,
+    }
 
 
 def unregistered_sources(repo_root: Path, books: list[dict]) -> list[Path]:
@@ -922,6 +1171,8 @@ st.sidebar.markdown(
 )
 book_id = st.sidebar.selectbox("Buch", book_ids)
 book = book_by_id(book_id, REPO_ROOT)
+pipeline_cfg = load_pipeline_config()
+default_chunk_limit = resolve_chunk_char_limit(book, pipeline_cfg)
 structure = book.get("structure") or {}
 structure_mode = str(structure.get("mode") or "scenes")
 chapter_as_scene = structure_mode == "chapter_as_scene"
@@ -1005,6 +1256,7 @@ st.sidebar.markdown(
     tab_translate,
     tab_styletest,
     tab_versions,
+    tab_review,
     tab_export,
     tab_logs,
 ) = st.tabs([
@@ -1014,6 +1266,7 @@ st.sidebar.markdown(
     "Uebersetzen",
     "Stiltest",
     "Versionen",
+    "Review",
     "Export",
     "Logs",
 ])
@@ -1133,10 +1386,15 @@ with tab_setup:
                 <div>Quelle: {book.get("source_path", "")}</div>
                 <div>Work: {book.get("work_dir", "")}</div>
                 <div>Exporte: {book.get("exports_dir", "")}</div>
+                <div>Chunk-Grenze: {default_chunk_limit:,} Zeichen</div>
               </div>
             </div>
             """,
             unsafe_allow_html=True,
+        )
+        st.caption(
+            "Grosse RU-Szenen werden beim Uebersetzen intern in Chunks "
+            "verarbeitet. Die sichtbare Szenenstruktur bleibt unveraendert."
         )
         if st.button("Quell-Kapitel erzeugen"):
             show_result(run_command([
@@ -1237,10 +1495,13 @@ with tab_translate:
         <span class="status-badge">Style: {style_label}</span>
         <span class="status-badge">Provider: {provider}</span>
         <span class="status-badge">Modell: {model}</span>
+        <span class="status-badge">Chunk-Grenze: {default_chunk_limit:,} Zeichen</span>
         """,
         unsafe_allow_html=True,
     )
-    _show_batch_job_panel()
+    translate_job, translate_job_running = _show_batch_job_panel("translate-job")
+    if translate_job is None:
+        _show_latest_job_log("translate", book_id, style)
 
     if chapter_as_scene:
         scene_choices = ["aktuelles Kapitel"]
@@ -1280,6 +1541,33 @@ with tab_translate:
                 "Baut den ersten Prompt zur Kontrolle, fuehrt aber keinen "
                 "API-Call aus und schreibt keine Ergebnisdatei."
             ),
+        )
+        chunk_limit_input = st.number_input(
+            "Chunk-Grenze",
+            min_value=0,
+            max_value=200000,
+            value=int(default_chunk_limit),
+            step=1000,
+            help=(
+                "RU-Szenen ueber dieser Zeichenzahl werden intern in Teile "
+                "uebersetzt. 0 deaktiviert Chunking. Die finale DE-Datei "
+                "bleibt dieselbe scene-XX.md."
+            ),
+        )
+
+    oversized_current = oversized_ru_scenes(
+        book, chapter, int(chunk_limit_input), REPO_ROOT
+    )
+    if oversized_current:
+        st.warning(
+            "Interne Chunk-Uebersetzung wird fuer dieses Kapitel greifen: "
+            + ", ".join(
+                f"Szene {item['scene']:02d}: {item['chars']:,} Zeichen "
+                f"-> {item['chunks']} Chunks"
+                for item in oversized_current
+            )
+            + ". Es entstehen keine neuen Buchszenen; die Chunks werden wieder "
+            "zur gleichen scene-XX.md zusammengesetzt."
         )
 
     if chapter_as_scene:
@@ -1388,7 +1676,10 @@ with tab_translate:
                 "Schreibt nur Prompt-/Arbeitsdateien. Es wird kein externer "
                 "KI-Call ausgefuehrt."
             )
-        if st.button(action["button"], disabled=not bool(chapter)):
+        if st.button(
+            action["button"],
+            disabled=not bool(chapter) or translate_job_running,
+        ):
             cmd = [
                 "tools/translate_chapter.py",
                 "--book", book_id,
@@ -1398,13 +1689,28 @@ with tab_translate:
             ]
             if provider == "openrouter":
                 cmd.extend(["--model", model])
+            cmd.extend(["--chunk-char-limit", str(int(chunk_limit_input))])
             if not chapter_as_scene and scene_choice != "alle fehlenden":
                 cmd.extend(["--scene", scene_choice])
             if overwrite:
                 cmd.append("--overwrite")
             if dry_run:
                 cmd.extend(["--dry-run", "--dry-run-first-scene"])
-            show_result(run_command(cmd))
+            if provider == "openrouter" and not dry_run:
+                job = _start_batch_job(
+                    cmd,
+                    book_id=book_id,
+                    style=style,
+                    provider=provider,
+                    kind="translate",
+                )
+                st.success(
+                    "Uebersetzung im Hintergrund gestartet. "
+                    f"PID {job['pid']}, Log: {job['log_path']}"
+                )
+                st.rerun()
+            else:
+                show_result(run_command(cmd))
 
     with col_c:
         st.markdown(
@@ -1515,23 +1821,11 @@ with tab_translate:
         if batch_assemble_after and provider == "openrouter"
         else "Schritt 3: nicht automatisch"
     )
+    batch_summary.append(f"Chunk-Grenze: {int(chunk_limit_input):,} Zeichen")
     batch_summary.append("Export: nicht in diesem Batch")
     st.info(" | ".join(batch_summary))
 
-    active_job = _load_batch_job()
-    # Auto-clear stale job files (older than 4h or process already dead)
-    if active_job:
-        pid = int(active_job.get("pid") or 0)
-        if _job_stale(active_job):
-            _clear_batch_job()
-            active_job = None
-        elif not _process_running(pid):
-            _clear_batch_job()
-            active_job = None
-    active_job_running = (
-        _process_running(int(active_job.get("pid") or 0))
-        if active_job else False
-    )
+    active_job, active_job_running = _refresh_batch_job(_load_batch_job())
     if active_job_running:
         st.warning("Es laeuft bereits ein Hintergrund-Batch. Bitte erst stoppen oder abwarten.")
 
@@ -1545,6 +1839,7 @@ with tab_translate:
         ]
         if provider == "openrouter":
             cmd.extend(["--model", model])
+        cmd.extend(["--chunk-char-limit", str(int(chunk_limit_input))])
         if batch_scope == "Aktuelles Kapitel":
             cmd.extend(["--chapter", chapter])
         elif batch_scope == "Bereich":
@@ -1692,6 +1987,7 @@ with tab_styletest:
                     ]
                     if provider == "openrouter":
                         cmd.extend(["--model", model])
+                    cmd.extend(["--chunk-char-limit", str(int(chunk_limit_input))])
                     if replace_existing:
                         try:
                             delete_existing_style_outputs(
@@ -1737,17 +2033,250 @@ with tab_versions:
             height=500,
         )
 
+with tab_review:
+    output_root = book_output_root(REPO_ROOT, book)
+    review_root = output_root / "reviews" / style
+    summary_json = review_root / "review-summary.json"
+    summary_md = review_root / "review-summary.md"
+
+    st.markdown(
+        f"""
+        <div class="hero-strip">
+          <div class="kicker">Release-Review</div>
+          <h2>Editor-Agent fuer fertige Uebersetzungen</h2>
+          <div class="copy">
+            Der Review-Lauf prueft den explizit ausgewaehlten Stil report-only.
+            Er veraendert keine Szenendateien und fuehrt keine Auto-Fixes aus.
+          </div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+    st.info(
+        f"Gepruefter Stil: {style_label}. Reports: "
+        f"{review_root.relative_to(REPO_ROOT)}"
+    )
+
+    review_a, review_b, review_c, review_d = st.columns([1.2, 1, 1, 1])
+    with review_a:
+        review_scope = st.selectbox(
+            "Review-Umfang",
+            ["Aktuelles Kapitel", "Bereich", "Ganzes Buch"],
+        )
+    with review_b:
+        review_start = st.selectbox(
+            "Review von",
+            chapters or [chapter],
+            index=chapters.index(chapter) if chapter in chapters else 0,
+            disabled=review_scope != "Bereich",
+        )
+    with review_c:
+        review_end = st.selectbox(
+            "Review bis",
+            chapters or [chapter],
+            index=chapters.index(chapter) if chapter in chapters else 0,
+            disabled=review_scope != "Bereich",
+        )
+    with review_d:
+        review_llm = st.selectbox(
+            "KI-Review",
+            ["none", "openrouter", "ollama"],
+            format_func={
+                "none": "Regelcheck (keine KI)",
+                "openrouter": "OpenRouter",
+                "ollama": "Ollama lokal",
+            }.get,
+            help=(
+                "Legt fest, ob zusaetzlich zu den regelbasierten Checks ein "
+                "LLM als Editor mitliest. 'Regelcheck (keine KI)' laeuft den "
+                "gewaehlten Umfang vollstaendig durch, liest RU- und DE-Dateien "
+                "lokal und prueft feste Kriterien: fehlende Szenen, kyrillische "
+                "Reste, kaputte Zeichen, auffaellige Laengen, doppelte Header "
+                "und Degeneration. OpenRouter nutzt das links gewaehlte Modell; "
+                "Ollama nutzt ein lokales Modell."
+            ),
+        )
+        review_llm_scope = st.selectbox(
+            "KI-Umfang",
+            ["flagged", "all"],
+            format_func={
+                "flagged": "Nur auffaellige Szenen",
+                "all": "Alle Szenen",
+            }.get,
+            help=(
+                "Gilt nur, wenn ein KI-Review aktiv ist. 'Nur auffaellige "
+                "Szenen' sendet nur Szenen an das Modell, bei denen die "
+                "regelbasierten Checks bereits etwas gefunden haben. 'Alle "
+                "Szenen' laesst das Modell jede RU/DE-Szene im gewaehlten "
+                "Umfang gegenlesen; das ist gruendlicher, aber langsamer und "
+                "bei OpenRouter teurer."
+            ),
+        )
+    st.caption(
+        "Der Review ist report-only: Die Gesamtuebersicht wird immer unter "
+        "work/reviews/ geschrieben. Einzelne Kapitelreports entstehen nur fuer "
+        "Kapitel mit Befunden; saubere Kapitel stehen nur in der Summary."
+    )
+
+    ollama_model = "gemma4:latest"
+    if review_llm == "ollama":
+        ollama_model = st.text_input(
+            "Ollama-Modell",
+            value=ollama_model,
+            help=(
+                "Lokaler Modellname aus `ollama list`. Standard ist "
+                "`gemma4:latest`, weil dieses Modell auf dieser Maschine "
+                "geladen und getestet wurde."
+            ),
+        )
+    review_fail_on_errors = st.checkbox(
+        "Exit-Code bei Fehlern",
+        value=True,
+        help="Nuetzlich fuer Release-Gates und Skripte.",
+    )
+
+    review_cmd = [
+        "tools/review_manuscript.py",
+        "--book", book_id,
+        "--style", style,
+        "--llm", review_llm,
+        "--llm-scope", review_llm_scope,
+    ]
+    if review_scope == "Aktuelles Kapitel":
+        review_cmd.extend(["--chapter", chapter])
+    elif review_scope == "Bereich":
+        review_cmd.extend(["--from", review_start, "--to", review_end])
+    else:
+        review_cmd.append("--all")
+    if review_llm == "openrouter":
+        review_cmd.extend(["--model", model])
+    if review_llm == "ollama":
+        review_cmd.extend(["--ollama-model", ollama_model])
+    if review_fail_on_errors:
+        review_cmd.append("--fail-on-errors")
+
+    active_job, active_job_running = _show_batch_job_panel("review-job")
+    if active_job is None:
+        _show_latest_job_log("review", book_id, style)
+    col_plan, col_run = st.columns([1, 1])
+    with col_plan:
+        if st.button("Review planen", disabled=not bool(chapters)):
+            with st.spinner("Review wird geplant..."):
+                show_result(run_command([*review_cmd, "--dry-run"]))
+    with col_run:
+        if st.button(
+            "Review im Hintergrund starten",
+            disabled=not bool(chapters) or active_job_running,
+        ):
+            job = _start_batch_job(
+                review_cmd,
+                book_id=book_id,
+                style=style,
+                provider=f"review:{review_llm}",
+                kind="review",
+            )
+            st.success(
+                "Review im Hintergrund gestartet. "
+                f"PID {job['pid']}, Log: {job['log_path']}"
+            )
+            st.rerun()
+
+    if summary_json.exists():
+        try:
+            summary = json.loads(summary_json.read_text(encoding="utf-8"))
+        except Exception:
+            summary = {}
+        st.markdown("### Letzter Review")
+        counts_summary = summary.get("counts") or {}
+        m1, m2, m3, m4 = st.columns(4)
+        m1.metric("Kapitel", len(summary.get("chapters") or []))
+        m2.metric("Fehler", counts_summary.get("ERROR", 0))
+        m3.metric("Warnungen", counts_summary.get("WARNING", 0))
+        m4.metric("Hinweise", counts_summary.get("INFO", 0))
+        st.caption(str(summary_json.relative_to(REPO_ROOT)))
+        if summary_md.exists():
+            with st.expander("Summary anzeigen", expanded=False):
+                st.markdown(summary_md.read_text(encoding="utf-8"))
+    else:
+        st.info("Noch kein Review-Report fuer diesen Stil vorhanden.")
+
+    st.markdown("### Review-Fixes")
+    fix_root = output_root / "review-fixes" / style
+    fix_manifest = fix_root / "fix-manifest.json"
+    fix_plan = fix_root / "fix-plan.txt"
+    manual_review = fix_root / "manual-review.md"
+    promotion_report = fix_root / "promotion-report.json"
+    fix_cmd = [
+        "tools/apply_review_suggestions.py",
+        "--book", book_id,
+        "--style", style,
+    ]
+    fix_a, fix_b, fix_c = st.columns([1, 1, 1])
+    with fix_a:
+        if st.button("Fixes planen", disabled=not summary_json.exists()):
+            show_result(run_command([*fix_cmd, "--plan"]))
+    with fix_b:
+        if st.button("Fix-Kandidaten erzeugen", disabled=not summary_json.exists()):
+            show_result(run_command([*fix_cmd, "--stage"]))
+    with fix_c:
+        if st.button("Gepruefte Kandidaten uebernehmen", disabled=not fix_manifest.exists()):
+            show_result(run_command([*fix_cmd, "--promote"]))
+
+    if fix_manifest.exists():
+        try:
+            manifest = json.loads(fix_manifest.read_text(encoding="utf-8"))
+        except Exception:
+            manifest = {}
+        staged_items = manifest.get("staged") or []
+        staged_fixes = sum(len(item.get("applied") or []) for item in staged_items)
+        manual_count = 0
+        if manual_review.exists():
+            manual_count = sum(
+                1
+                for line in manual_review.read_text(
+                    encoding="utf-8", errors="replace"
+                ).splitlines()
+                if line.startswith("## Kapitel ")
+            )
+        fm1, fm2, fm3, fm4 = st.columns(4)
+        fm1.metric("Staged", len(staged_items))
+        fm2.metric("Fixbar", staged_fixes)
+        fm3.metric("Nicht eindeutig", manual_count)
+        fm4.metric("Manifest", "vorhanden")
+        st.caption(str(fix_manifest.relative_to(REPO_ROOT)))
+        if manual_review.exists():
+            with st.expander("Manuelle Fixliste anzeigen", expanded=False):
+                st.markdown(manual_review.read_text(encoding="utf-8"))
+    else:
+        st.caption("Noch keine Fix-Kandidaten fuer diesen Review gestaged.")
+
+    if fix_plan.exists():
+        with st.expander("Fix-Plan anzeigen", expanded=False):
+            st.code(fix_plan.read_text(encoding="utf-8", errors="replace"), language="text")
+
+    if promotion_report.exists():
+        try:
+            report = json.loads(promotion_report.read_text(encoding="utf-8"))
+        except Exception:
+            report = {}
+        pr1, pr2, pr3 = st.columns(3)
+        pr1.metric("Uebernommen", report.get("promoted", 0))
+        pr2.metric("Uebersprungen", report.get("skipped", 0))
+        pr3.metric("Assembled", len(report.get("assembled_chapters") or []))
+
 with tab_export:
     output_root = book_output_root(REPO_ROOT, book)
     export_meta = load_export_meta(book)
     cover_cfg = export_meta.get("cover", {}) or {}
     front_cfg = export_meta.get("front_matter", {}) or {}
     output_cfg = export_meta.get("output", {}) or {}
+    illustrations_cfg = export_meta.get("illustrations", {}) or {}
     cover_mode = cover_cfg.get("mode", "placeholder")
     cover_image = str(cover_cfg.get("image_path") or "").strip()
     cover_status = (
         cover_image if cover_mode == "image" and cover_image else "Automatisches Platzhalter-Cover"
     )
+    illustrations_status = "aktiv" if illustrations_cfg.get("enabled", False) else "aus"
     front_enabled = [
         name for name, enabled in [
             ("Cover im Text", front_cfg.get("cover_in_body", True)),
@@ -1761,7 +2290,7 @@ with tab_export:
         f"""
         <div class="hero-strip">
           <div class="kicker">Leser-Export</div>
-          <h2>EPUB und DOCX erstellen</h2>
+          <h2>EPUB, DOCX und PDF erstellen</h2>
           <div class="copy">
             Baut aus fertigen DE-Szenen ein Lesedokument. Cover,
             Beschreibung, Impressum und Inhaltsseite werden ueber
@@ -1779,8 +2308,8 @@ with tab_export:
             <h3>Was entsteht?</h3>
             <p>
               DOCX nutzt python-docx fuer ein bearbeitbares Word-Manuskript.
-              EPUB nutzt Pandoc und bekommt Cover, Metadaten, Navigation und
-              eine Inhaltsstruktur fuer Reader.
+              EPUB nutzt Pandoc. PDF rendert eine eigene HTML-/CSS-Version
+              mit Playwright und Chromium.
             </p>
             <div class="mini-list">
               <div>Keine Prompt-, Provider- oder Tokeninformationen</div>
@@ -1792,9 +2321,12 @@ with tab_export:
             <h3>Konfiguration</h3>
             <div class="config-row"><b>Cover</b><span>{cover_status}</span></div>
             <div class="config-row"><b>Frontmatter</b><span>{", ".join(front_enabled) or "aus"}</span></div>
+            <div class="config-row"><b>Illustrationen</b><span>{illustrations_status}</span></div>
             <div class="config-row"><b>Trenner</b><span>{output_cfg.get("scene_separator", "* * *")}</span></div>
             <div class="config-row"><b>Datei</b><span>books/{book_id}/export.yaml</span></div>
             <div class="config-row"><b>Cover-Ordner</b><span>books/{book_id}/assets/covers/</span></div>
+            <div class="config-row"><b>Kapitelbilder</b><span>books/{book_id}/assets/chapter/chapter-NNN.*</span></div>
+            <div class="config-row"><b>Szenenbilder</b><span>books/{book_id}/assets/scene/NNN/scene-NNN.*</span></div>
           </div>
         </div>
         """,
@@ -1814,12 +2346,13 @@ with tab_export:
     with control_b:
         export_format_label = st.selectbox(
             "Format",
-            ["DOCX + EPUB", "DOCX", "EPUB"],
+            ["DOCX + EPUB", "DOCX", "EPUB", "PDF"],
         )
         export_format = {
             "DOCX + EPUB": "all",
             "DOCX": "docx",
             "EPUB": "epub",
+            "PDF": "pdf",
         }[export_format_label]
     with control_c:
         allow_partial_export = st.checkbox(
@@ -1835,6 +2368,12 @@ with tab_export:
         f"Exportiert wird immer der links ausgewaehlte Stil: {style_label}. "
         "Wenn gerade uebersetzte Dateien fehlen, pruefe zuerst diese Stiltabelle."
     )
+    if export_format == "pdf":
+        st.info(
+            "PDF benoetigt Playwright und Chromium: "
+            "`pip install -r requirements.txt` und "
+            "`python -m playwright install chromium`."
+        )
     st.dataframe(
         exportable_style_rows(book, styles, chapter, REPO_ROOT),
         width="stretch",
@@ -1874,9 +2413,26 @@ with tab_export:
                 + (" ..." if len(export_missing_chapters) > 12 else "")
             )
 
+    selected_export_chapters = [chapter] if export_scope == "chapter" and chapter else chapters
+    illustration_counts = count_export_illustrations(
+        book,
+        export_meta,
+        selected_export_chapters,
+        REPO_ROOT,
+    )
+    ic1, ic2, ic3 = st.columns(3)
+    ic1.metric("Illustrationen", illustration_counts["total"])
+    ic2.metric("Kapitelbilder", illustration_counts["chapter"])
+    ic3.metric("Szenenbilder", illustration_counts["scene"])
+
     st.caption(
         f"Eigenes Cover: Bild nach books/{book_id}/assets/covers/ legen, "
         "dann in export.yaml `cover.mode: image` und `cover.image_path` setzen."
+    )
+    st.caption(
+        f"Optionale Bilder: Kapitelbilder nach books/{book_id}/assets/chapter/"
+        " als `chapter-NNN.*`, Szenenbilder nach "
+        f"books/{book_id}/assets/scene/NNN/ als `scene-NNN.*` legen."
     )
     export_disabled = export_scope == "chapter" and not bool(chapter)
     if export_disabled:

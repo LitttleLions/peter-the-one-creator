@@ -1,0 +1,76 @@
+defaults:
+  language: de-DE
+  publisher: ''
+  rights: ''
+  description: ''
+  cover:
+    mode: placeholder
+    image_path: ''
+    background: '#7c2d12'
+    foreground: '#fff7ed'
+  front_matter:
+    cover_in_body: true
+    title_page: true
+    summary_page: true
+    author_bio_page: true
+    description_page: false
+    imprint_page: true
+    toc_page: false
+    combined_epub_front_matter: false
+    combined_heading: Titelei
+    cover_heading: Cover
+    title_heading: Titelseite
+    summary_heading: Zusammenfassung
+    author_bio_heading: Leben des Autors
+    description_heading: Zu dieser Ausgabe
+    imprint_heading: Impressum
+    toc_heading: Inhalt
+  output:
+    chapter_headings: true
+    scene_numbers: false
+    strip_control_metadata: true
+    scene_separator: '* * *'
+  illustrations:
+    enabled: true
+    chapter_images: true
+    scene_images: true
+    chapter_page_break_after_image: true
+    scene_page_break_after_image: false
+book:
+  title: Der Pharao
+  subtitle: Historischer Roman aus dem alten Aegypten
+  author: Boleslaw Prus
+  translator: Motivatier Classics
+  translator_label: Deutsche Ausgabe
+  language: de-DE
+  publisher: ''
+  rights: ''
+  original_title: Faraon
+  source_title: 'The Pharaoh and the Priest: An Historical Novel of Ancient Egypt'
+  source_author: Boleslaw Prus
+  source_translator: Jeremiah Curtin
+  description: >-
+    Boleslaw Prus' historischer Roman fuehrt in das alte Aegypten und erzaehlt
+    vom Konflikt zwischen weltlicher Herrschaft, Priestermacht, Staatskunst und
+    persoenlichem Ehrgeiz. Die deutsche Ausgabe entsteht aus der englischen
+    Gutenberg-Vorlage von Jeremiah Curtin.
+  summary: >-
+    Der Pharao folgt dem jungen Ramses in einer Welt aus Tempeln, Hoefen,
+    Armeen, Intrigen und religiöser Macht. Zwischen politischem Willen,
+    persoenlicher Leidenschaft und der ueberlegenen Ordnung der Priesterschaft
+    entfaltet sich ein historischer Roman ueber Herrschaft, Wissen und den
+    Preis von Macht.
+  author_bio: >-
+    Boleslaw Prus war ein polnischer Schriftsteller des 19. Jahrhunderts und
+    gehoert zu den wichtigen Stimmen des polnischen Realismus. Mit Faraon
+    schrieb er einen breit angelegten historischen Roman, der das alte
+    Aegypten als Buehne fuer zeitlose Fragen nach Staat, Religion, Macht und
+    gesellschaftlicher Ordnung nutzt.
+  title_page_extra:
+  - 'Originaltitel: Faraon'
+  - 'Englische Vorlage: The Pharaoh and the Priest, uebersetzt von Jeremiah Curtin'
+  - 'Master-Quelle: Project Gutenberg Plaintext #23646'
+  - 'Referenzquelle: Project Gutenberg EPUB #35499'
+  cover:
+    mode: placeholder
+    image_path: ''

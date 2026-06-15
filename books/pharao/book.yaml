@@ -1,0 +1,46 @@
+id: pharao
+title: Der Pharao
+author: Boleslaw Prus
+source_path: source/pharao plan.txt
+source_lang: en
+target_lang: de
+ruleset_path: ''
+ruleset_apply: false
+style_mode: stil-01-original
+work_dir: work
+exports_dir: exports
+status_file: status/status.json
+log_dir: status/logs
+styles_dir: styles
+assets_dir: assets
+names_file: names.yaml
+structure:
+  mode: chapter_as_scene
+  label: Kapitel als Szenen
+  groups: []
+display:
+  chapters:
+    format: words_de
+    suffix: " Kapitel"
+    align: center
+    include_source_title: false
+  scenes:
+    show: false
+naming_convention:
+  style: Deutsche Namensformen nach etablierter historischer Schreibweise.
+  example:
+  - Rameses -> Ramses
+  - Herhor -> Herhor
+  - Sargon -> Sargon
+notes: >-
+  Neues Buchpaket fuer Boleslaw Prus, Der Pharao. Als Master-Quelle wird die
+  Plaintext-Datei `source/pharao plan.txt` verwendet, weil sie die 67 Kapitel
+  als saubere `CHAPTER I`-Marker enthaelt und fuer die Kapitel-Extraktion
+  weniger Layout-Rauschen hat. Das EPUB `source/prus pharao engl.epub` bleibt
+  als Referenz fuer Inhaltsverzeichnis, Bilder und Ausgabe-Metadaten im
+  Source-Ordner.
+ai:
+  provider: openrouter
+  model: deepseek/deepseek-v4-pro
+  granularity: scene
+  max_tokens_per_scene: 10000

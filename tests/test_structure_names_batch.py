@@ -12,7 +12,7 @@ sys.path.insert(0, str(REPO_ROOT / "tools"))
 import extract_scenes  # noqa: E402
 import translate_batch  # noqa: E402
 from lib.name_registry import write_names  # noqa: E402
-from lib.output_paths import ru_scene_dir  # noqa: E402
+from lib.output_paths import ru_scene_dir, source_scene_dir  # noqa: E402
 from lib.style_prompts import StylePrompts  # noqa: E402
 import lib.style_prompts as style_prompts_mod  # noqa: E402
 
@@ -37,6 +37,29 @@ class StructureNamesBatchTests(unittest.TestCase):
         self.assertEqual(len(result), 1)
         self.assertEqual(result[0]["number"], 1)
         self.assertIn("Absatz eins.", result[0]["text"])
+
+    def test_chapter_as_scene_uses_source_language_folder(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            chapters = root / "chapters"
+            chapters.mkdir()
+            (chapters / "001-source.md").write_text(
+                "# Chapter 1\n\nEnglish source.",
+                encoding="utf-8",
+            )
+            result = extract_scenes.extract_scenes_for_chapter(
+                root,
+                "001",
+                structure_mode="chapter_as_scene",
+                source_lang="en",
+                dry_run=False,
+            )
+            en_scene_exists = (root / "scenes" / "en" / "001" / "scene-01.md").exists()
+            ru_scene_exists = (root / "scenes" / "ru" / "001" / "scene-01.md").exists()
+
+        self.assertEqual(len(result), 1)
+        self.assertTrue(en_scene_exists)
+        self.assertFalse(ru_scene_exists)
 
     def test_scenes_mode_keeps_multiple_markers(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
@@ -120,6 +143,37 @@ class StructureNamesBatchTests(unittest.TestCase):
 
         self.assertEqual(commands[0][:4], ["tools/extract_scenes.py", "--book", "sample", "--chapter"])
         self.assertEqual(commands[1][:4], ["tools/translate_chapter.py", "--book", "sample", "--chapter"])
+
+    def test_batch_uses_source_language_scenes_for_completion(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            old_root = translate_batch.REPO_ROOT
+            translate_batch.REPO_ROOT = root
+            try:
+                book = {
+                    "id": "sample",
+                    "title": "Sample",
+                    "source_lang": "en",
+                    "work_dir": "books/sample/work",
+                }
+                scene_dir = source_scene_dir(root / book["work_dir"], "001", "en")
+                scene_dir.mkdir(parents=True)
+                (scene_dir / "scene-01.md").write_text("English source.", encoding="utf-8")
+                commands = translate_batch.build_commands(
+                    book=book,
+                    chapters=["001"],
+                    style="stil-test",
+                    provider="prompt_file",
+                    model=None,
+                    overwrite=False,
+                    auto_status=False,
+                    no_review=False,
+                )
+            finally:
+                translate_batch.REPO_ROOT = old_root
+
+        self.assertEqual(len(commands), 1)
+        self.assertEqual(commands[0][:4], ["tools/translate_chapter.py", "--book", "sample", "--chapter"])
 
 
 if __name__ == "__main__":

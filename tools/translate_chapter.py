@@ -35,7 +35,8 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 # UTF-8 fuer Windows cmd
 try:
-    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stdout.reconfigure(encoding="utf-8", line_buffering=True)
+    sys.stderr.reconfigure(encoding="utf-8", line_buffering=True)
 except Exception:
     if hasattr(sys.stdout, "buffer"):
         sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8",
@@ -63,11 +64,20 @@ from lib.degeneration import detect_degeneration
 from lib.output_paths import (
     book_output_root,
     de_scene_path,
-    list_ru_scene_paths,
+    list_source_scene_paths,
     next_translation_path as next_assembled_translation_path,
     parse_scene_number,
     prompt_path,
     source_chapter_path,
+)
+from lib.translation_chunks import (
+    chunk_char_limit,
+    chunk_prompt_path,
+    de_chunk_path,
+    render_chunked_translation,
+    scene_chunks,
+    should_chunk,
+    write_ru_chunks,
 )
 
 
@@ -115,6 +125,15 @@ def build_messages_for_scene(style_prompts, mode, book_cfg,
         source_text=source_text,
         rules_text=rules_text,
     )
+
+
+def build_chunk_frontmatter(frontmatter: str, chunk) -> str:
+    note = (
+        f"Interne Arbeitsportion {chunk.part}/{chunk.total} derselben Szene. "
+        "Uebersetze nur diesen Abschnitt fortlaufend ins Deutsche. "
+        "Keine neue Szenenueberschrift erzeugen."
+    )
+    return f"{frontmatter.rstrip()}\n\n{note}".strip() if frontmatter else note
 
 
 def translate_scene(client, messages, temperature, max_tokens):
@@ -247,12 +266,12 @@ def scene_translations_complete(output_root, chapter_id, mode, scenes):
     )
 
 
-def chapter_translations_complete(output_root, chapter_id, mode):
-    ru_paths = list_ru_scene_paths(output_root, chapter_id)
-    if not ru_paths:
+def chapter_translations_complete(output_root, chapter_id, mode, source_lang="ru"):
+    source_paths = list_source_scene_paths(output_root, chapter_id, source_lang)
+    if not source_paths:
         return False
-    for ru_path in ru_paths:
-        scene_number = parse_scene_number(ru_path, chapter_id)
+    for source_path in source_paths:
+        scene_number = parse_scene_number(source_path, chapter_id)
         if scene_number is None:
             return False
         if not de_scene_path(output_root, chapter_id, scene_number, mode).exists():
@@ -286,6 +305,8 @@ def parse_args():
                     help="Szene-fuer-Szene oder ganzes Kapitel")
     ap.add_argument("--max-tokens", type=int, default=None,
                     help="max_tokens pro OpenRouter-Call")
+    ap.add_argument("--chunk-char-limit", type=int, default=None,
+                    help="Szenen ueber dieser Zeichenzahl intern in Chunks teilen (0=aus)")
     ap.add_argument("--temperature", type=float, default=None,
                     help="Ueberschreibt die stilmodus-spezifische Temperatur")
     ap.add_argument("--auto-status", action="store_true",
@@ -346,10 +367,14 @@ def main():
             print(f"Modell gewaehlt: {model_info['name']} ({model_info['provider']})")
             print(f"  {model_info['description']}")
 
-    # Pipeline-AI-Defaults
     pipe = load_yaml(REPO_ROOT / "config" / "pipeline.yaml")
     ai_defaults = (pipe.get("pipeline", {})
                        .get("ai_defaults", {}) or {})
+    chunk_limit = (
+        args.chunk_char_limit
+        if args.chunk_char_limit is not None
+        else chunk_char_limit(book, pipe)
+    )
 
     # Style-Prompts laden
     try:
@@ -382,8 +407,10 @@ def main():
               file=sys.stderr)
         return 1
 
-    # Szenen aus Source-Dateien lesen (Phase 1b: scenes/ru/NNN/scene-NN.md)
-    scene_files_src = list_ru_scene_paths(output_root, args.chapter)
+    source_lang = str(book.get("source_lang") or "ru")
+    source_lang_label = source_lang.upper()
+    # Szenen aus Source-Dateien lesen (Phase 1b: scenes/<source_lang>/NNN/scene-NN.md)
+    scene_files_src = list_source_scene_paths(output_root, args.chapter, source_lang)
     if scene_files_src:
         # Szenen aus aufgeteilten Dateien lesen
         scenes = []
@@ -431,6 +458,16 @@ def main():
     print(f"Szenen erkannt: {len(scenes)}")
     print(f"Modell: {chosen_model} ({model_info['name']}, {model_info['provider']})")
     print(f"Temperatur: {temperature}, max_tokens: {max_tokens}")
+    print(f"Chunk-Grenze: {chunk_limit if chunk_limit > 0 else 'aus'} Zeichen")
+    oversized = [s for s in scenes if should_chunk(s.text, chunk_limit)]
+    if oversized:
+        print(
+            "Chunking aktiv fuer: "
+            + ", ".join(
+                f"Szene {s.number:02d} ({len(s.text):,} Zeichen)"
+                for s in oversized
+            )
+        )
     if args.dry_run:
         print("** DRY-RUN - keine API-Calls **")
     print()
@@ -568,31 +605,83 @@ def main():
             print(f"-> Szene {i}/{len(scenes)} "
                   f"(## {sc.number}"
                   f"{'.' + sc.title if sc.title else ''}, "
-                  f"{sf['ru_words']} Woerter RU)...")
+                  f"{sf['ru_words']} Woerter {source_lang_label})...")
+            chunks = scene_chunks(sc.number, sc.text, chunk_limit)
+            chunked = len(chunks) > 1
+            if chunked:
+                print(
+                    f"   -> interne Chunks: {len(chunks)} Teile "
+                    f"(Grenze {chunk_limit:,} Zeichen); finale Szene bleibt "
+                    f"scene-{sc.number:02d}.md"
+                )
+                if not args.dry_run:
+                    write_ru_chunks(REPO_ROOT, book, args.chapter, chunks)
             messages = build_messages_for_scene(
                 sp, mode, book, frontmatter, sc, rules_text,
             )
             if prompt_only:
-                target = de_scene_path(output_root, args.chapter, sc.number, mode)
-                p_path = prompt_path(output_root, args.chapter, mode, sc.number)
-                prompt_text = render_manual_prompt(
-                    messages, target.relative_to(output_root), args.chapter, mode
-                )
-                if args.dry_run:
-                    if i == 1:
-                        print("---- DRY-RUN: Ziel ----")
-                        print(target.relative_to(output_root))
-                        print()
-                        print("---- DRY-RUN: Prompt (gekuerzt) ----")
-                        print(prompt_text[:1800] + "...")
+                if chunked:
+                    for chunk in chunks:
+                        chunk_scene = Scene(
+                            number=sc.number,
+                            title=sc.title,
+                            text=chunk.text,
+                        )
+                        chunk_messages = build_messages_for_scene(
+                            sp,
+                            mode,
+                            book,
+                            build_chunk_frontmatter(frontmatter, chunk),
+                            chunk_scene,
+                            rules_text,
+                        )
+                        target = de_chunk_path(
+                            REPO_ROOT, book, mode, args.chapter, sc.number, chunk.part
+                        )
+                        p_path = chunk_prompt_path(
+                            REPO_ROOT, book, mode, args.chapter, sc.number, chunk.part
+                        )
+                        prompt_text = render_manual_prompt(
+                            chunk_messages,
+                            target.relative_to(output_root),
+                            args.chapter,
+                            mode,
+                        )
+                        if args.dry_run and chunk.part == 1:
+                            print("---- DRY-RUN: Chunk-Ziel ----")
+                            print(target.relative_to(output_root))
+                            print()
+                            print("---- DRY-RUN: Chunk-Prompt (gekuerzt) ----")
+                            print(prompt_text[:1800] + "...")
+                        if not args.dry_run:
+                            p_path.parent.mkdir(parents=True, exist_ok=True)
+                            p_path.write_text(prompt_text, encoding="utf-8")
+                            prompt_files.append(p_path)
+                            print(f"   -> Chunk-Prompt: {p_path.relative_to(output_root)}")
                     if args.dry_run_first_scene:
                         return 0
                     continue
-                p_path.parent.mkdir(parents=True, exist_ok=True)
-                p_path.write_text(prompt_text, encoding="utf-8")
-                prompt_files.append(p_path)
-                print(f"   -> Prompt: {p_path.relative_to(output_root)}")
-                continue
+                else:
+                    target = de_scene_path(output_root, args.chapter, sc.number, mode)
+                    p_path = prompt_path(output_root, args.chapter, mode, sc.number)
+                    prompt_text = render_manual_prompt(
+                        messages, target.relative_to(output_root), args.chapter, mode
+                    )
+                    if args.dry_run:
+                        if i == 1:
+                            print("---- DRY-RUN: Ziel ----")
+                            print(target.relative_to(output_root))
+                            print()
+                            print("---- DRY-RUN: Prompt (gekuerzt) ----")
+                            print(prompt_text[:1800] + "...")
+                        if args.dry_run_first_scene:
+                            return 0
+                        continue
+                    p_path.parent.mkdir(parents=True, exist_ok=True)
+                    p_path.write_text(prompt_text, encoding="utf-8")
+                    prompt_files.append(p_path)
+                    print(f"   -> Prompt: {p_path.relative_to(output_root)}")
+                    continue
             if args.dry_run:
                 if i == 1:
                     print("---- DRY-RUN: System-Prompt (gekuerzt) ----")
@@ -612,12 +701,65 @@ def main():
             assert client is not None
             client.model = chosen_model
             try:
-                txt, _warn = safe_translate_with_check(
-                    client, messages, temperature, max_tokens,
-                    expected_language=book.get("target_lang", "deutsch"),
-                    label=f"szene {i}",
-                )
-                print(f"   {format_last_usage(client)}")
+                if chunked:
+                    translated_parts: list[str] = []
+                    chunk_errors: list[str] = []
+                    for chunk in chunks:
+                        part_path = de_chunk_path(
+                            REPO_ROOT, book, mode, args.chapter, sc.number, chunk.part
+                        )
+                        if part_path.exists() and not args.overwrite:
+                            part_text = part_path.read_text(encoding="utf-8")
+                            translated_parts.append(part_text)
+                            print(
+                                f"   -> Chunk {chunk.part}/{chunk.total} vorhanden: "
+                                f"{part_path.relative_to(output_root)}"
+                            )
+                            continue
+                        chunk_scene = Scene(
+                            number=sc.number,
+                            title=sc.title,
+                            text=chunk.text,
+                        )
+                        chunk_messages = build_messages_for_scene(
+                            sp,
+                            mode,
+                            book,
+                            build_chunk_frontmatter(frontmatter, chunk),
+                            chunk_scene,
+                            rules_text,
+                        )
+                        print(
+                            f"   -> Chunk {chunk.part}/{chunk.total} "
+                            f"({len(chunk.text):,} Zeichen RU)..."
+                        )
+                        try:
+                            part_text, _warn = safe_translate_with_check(
+                                client,
+                                chunk_messages,
+                                temperature,
+                                max_tokens,
+                                expected_language=book.get("target_lang", "deutsch"),
+                                label=f"szene {i} chunk {chunk.part}/{chunk.total}",
+                            )
+                            print(f"      {format_last_usage(client)}")
+                            part_path.parent.mkdir(parents=True, exist_ok=True)
+                            part_path.write_text(part_text.rstrip() + "\n", encoding="utf-8")
+                            translated_parts.append(part_text)
+                            print(f"      -> {part_path.relative_to(output_root)}")
+                        except OpenRouterError as e:
+                            chunk_errors.append(f"Chunk {chunk.part}: {e}")
+                            print(f"      FEHLER bei Chunk {chunk.part}: {e}", file=sys.stderr)
+                    if chunk_errors:
+                        raise OpenRouterError("; ".join(chunk_errors))
+                    txt = render_chunked_translation(translated_parts)
+                else:
+                    txt, _warn = safe_translate_with_check(
+                        client, messages, temperature, max_tokens,
+                        expected_language=book.get("target_lang", "deutsch"),
+                        label=f"szene {i}",
+                    )
+                    print(f"   {format_last_usage(client)}")
                 sf["translated"] = txt
 
                 # Sofort in eigene Szenen-Translationsdatei schreiben
@@ -696,7 +838,9 @@ def main():
         output_note = f"Output: {out_path.relative_to(output_root)}."
         print(f"Geschrieben: {out_path} ({words_target} Woerter DE){status_mark}")
     else:
-        complete = chapter_translations_complete(output_root, args.chapter, mode)
+        complete = chapter_translations_complete(
+            output_root, args.chapter, mode, source_lang
+        )
         output_note = (
             f"Einzeldateien: scenes/de/{mode}/{args.chapter}/scene-NN.md. "
             "Keine Kapitelversion erzeugt; dafuer separat "
@@ -727,6 +871,7 @@ def main():
         f"Modell-ID: {chosen_model}",
         f"Temperatur: {temperature}, max_tokens: {max_tokens}",
         f"Granularitaet: {granularity}",
+        f"Chunk-Grenze: {chunk_limit if chunk_limit > 0 else 'aus'} Zeichen",
     ])
     if client is not None and args.provider == "openrouter":
         rules_applied.append(client.usage_summary())
@@ -745,6 +890,14 @@ def main():
         difficult.append(
             "chapter-Granularitaet: ein Call fuer das ganze Kapitel. "
             "Context-Limit beachten."
+        )
+    if oversized:
+        difficult.append(
+            "Interne Chunk-Uebersetzung fuer: "
+            + ", ".join(
+                f"Szene {s.number:02d} ({len(s.text):,} Zeichen)"
+                for s in oversized
+            )
         )
     if failed_scenes:
         for sf in scene_files:
@@ -792,7 +945,9 @@ def main():
             args.provider == "openrouter"
             and (
                 granularity == "chapter"
-                or chapter_translations_complete(output_root, args.chapter, mode)
+                or chapter_translations_complete(
+                    output_root, args.chapter, mode, source_lang
+                )
             )
         )
         if can_finish:

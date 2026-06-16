@@ -208,9 +208,13 @@ def main() -> int:
         print(f"FEHLER: Quelldatei nicht gefunden: {src}")
         return 1
 
-    print(f"Lese RTF… ({src.stat().st_size:,} bytes)")
+    print(f"Lese Quelle... ({src.stat().st_size:,} bytes)")
     blocks, meta = parse_rtf(src)
-    print(f"Blöcke: {meta['blocks_total']:,}  |  Headings: {meta['headings_total']:,}")
+    print(
+        f"Format: {meta.get('source_format', 'unbekannt')}  |  "
+        f"Blöcke: {meta['blocks_total']:,}  |  "
+        f"Headings: {meta['headings_total']:,}"
+    )
     print()
 
     segments = build_chapter_segments(blocks)

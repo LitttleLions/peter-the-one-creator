@@ -1,0 +1,65 @@
+{
+  "book": "peter-i-buch-01",
+  "chapter": "001",
+  "scene": 2,
+  "kind": "scene",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "8b79a5c6-5539-4257-9b42-537d82259bc4",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\001\\scene-02.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\peter-i-buch-01\\work\\prompts\\higgsfield\\001-scene-02-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\peter-i-buch-01\\assets\\scene\\001\\scene-002.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "Image for Peter der Erste, chapter 001, scene 02: Szene 2 Aus einer Bittschrift der Bauern an den Zaren: «Unsere Rücken sind von den Schlägen der Eintreiber zerschunden, und unsere Höfe sind leer; aber die Steuern werden nicht weniger.» Ein kaum gebahnter Weg führte durch den Wald. Jahrhundertealte Kiefern verbargen den Himmel. Windbruch, Dickicht – schweres, mühsames Land. Dieses Land war Wassili, dem Sohn Wolkows, im vorletzten Jahr vom Vater, einem Moskauer Dienstadeligen, als Abfindung zugewiesen worden. Die Gutsbehörde hatte Wassili vierhundertfünfzig Desjatinen zugemessen, und dazu waren siebenunddreißig Bauernseelen mit Familien eingeschrieben. Wassili errichtete ein Gutshaus, doch gab er zu viel aus; die Hälfte des Landes musste er beim Kloster verpfänden. Die Mönche liehen Geld zu hohem Wucher – zwanzig Kopeken vom Rubel. Und dabei hätte er, der Zuteilung gemäß, im Dienst des Zaren auf gutem Pferd erscheinen müssen, im Panzer.... Period-accurate clothing, architecture, tools, horse tack, carts, sledges, boats, weapons, and environment. No modern objects, no cars, no trucks, no engines, no electric lights. No readable text, lettering, captions, inscriptions, logos, watermarks, artist signatures, or marks in the image corners.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "2k",
+    "--custom_reference_id",
+    "8b79a5c6-5539-4257-9b42-537d82259bc4",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260616_143738_37cac5c8-fc7c-4389-b00a-375d4fa74e98.png",
+  "job_result": [
+    {
+      "id": "37cac5c8-fc7c-4389-b00a-375d4fa74e98",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260616_143738_37cac5c8-fc7c-4389-b00a-375d4fa74e98.png",
+      "created_at": 1781620658.236668,
+      "params": {
+        "prompt": "Image for Peter der Erste, chapter 001, scene 02: Szene 2 Aus einer Bittschrift der Bauern an den Zaren: «Unsere Rücken sind von den Schlägen der Eintreiber zerschunden, und unsere Höfe sind leer; aber die Steuern werden nicht weniger.» Ein kaum gebahnter Weg führte durch den Wald. Jahrhundertealte Kiefern verbargen den Himmel. Windbruch, Dickicht – schweres, mühsames Land. Dieses Land war Wassili, dem Sohn Wolkows, im vorletzten Jahr vom Vater, einem Moskauer Dienstadeligen, als Abfindung zugewiesen worden. Die Gutsbehörde hatte Wassili vierhundertfünfzig Desjatinen zugemessen, und dazu waren siebenunddreißig Bauernseelen mit Familien eingeschrieben. Wassili errichtete ein Gutshaus, doch gab er zu viel aus; die Hälfte des Landes musste er beim Kloster verpfänden. Die Mönche liehen Geld zu hohem Wucher – zwanzig Kopeken vom Rubel. Und dabei hätte er, der Zuteilung gemäß, im Dienst des Zaren auf gutem Pferd erscheinen müssen, im Panzer.... Period-accurate clothing, architecture, tools, horse tack, carts, sledges, boats, weapons, and environment. No modern objects, no cars, no trucks, no engines, no electric lights. No readable text, lettering, captions, inscriptions, logos, watermarks, artist signatures, or marks in the image corners.",
+        "width": 1536,
+        "height": 2048,
+        "batch_size": 1,
+        "seed": 681723,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "1080p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "8b79a5c6-5539-4257-9b42-537d82259bc4"
+      }
+    }
+  ]
+}

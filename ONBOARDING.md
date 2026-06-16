@@ -7,7 +7,36 @@ sofern nichts anderes gewuenscht ist.
 
 1. Lies `AGENTS.md`.
 2. Lies `README.md`.
-3. Pruefe den Stand, z. B.:
+3. Installiere Abhaengigkeiten:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Installiere Pandoc (fuer EPUB-Export) und Chromium (fuer PDF-Export):
+
+```bash
+winget install --id JohnMacFarlane.Pandoc
+python -m playwright install chromium
+```
+
+> Nach der Installation ein neues Terminal starten, damit der Pfad erkannt wird.
+
+5. Erstelle eine `.env`-Datei im Repo-Root (Kopie von `.env.example`)
+   und trage deinen OpenRouter-API-Key ein:
+
+```bash
+cp .env.example .env
+# dann OPENROUTER_API_KEY eintragen
+```
+
+6. Starte das Dashboard:
+
+```bash
+streamlit run tools/dashboard.py
+```
+
+7. Pruefe den Stand, z. B.:
 
 ```bash
 python tools/status.py --book peter-i-buch-01 summary
@@ -18,7 +47,7 @@ python tools/status.py --book anna-karenina summary
 
 Python-Pipeline fuer szenenweise literarische Uebersetzung mit
 buchzentrierter Struktur, Style-Profilen, OpenRouter, Prompt-Datei-Modus,
-Workspace-KI-Modus, Dashboard und DOCX-/EPUB-Export.
+Workspace-KI-Modus, Dashboard und DOCX-/EPUB-/PDF-Export.
 
 ## Harte Regeln
 
@@ -38,10 +67,12 @@ books/<book-id>/
   names.yaml
   source/
   assets/covers/
+  assets/chapter/
+  assets/scene/
   styles/
   work/
     chapters/
-    scenes/ru/
+    scenes/<source_lang>/
     scenes/de/<style>/
     assembled/<style>/
     prompts/
@@ -75,11 +106,12 @@ python tools/translate_batch.py --book anna-karenina --from 001 --to 005 --style
 python tools/translate_batch.py --book anna-karenina --missing --style stil-01-original --provider openrouter --assemble-after
 python tools/assemble_chapter.py --book anna-karenina --chapter 001 --style stil-01-original
 python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter 001 --style stil-01-original --format all --allow-partial
+python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter 001 --style stil-01-original --format pdf --allow-partial
 ```
 
-`translate_batch.py` bereitet fehlende RU-Arbeitseinheiten vor und startet
+`translate_batch.py` bereitet fehlende Quell-Arbeitseinheiten vor und startet
 dann mehrere Uebersetzungs-/Prompt-Laeufe. Es baut nur mit
-`--assemble-after` Kapiteldateien zusammen und exportiert keine DOCX/EPUB.
+`--assemble-after` Kapiteldateien zusammen und exportiert keine DOCX/EPUB/PDF.
 
 ## Provider
 
@@ -120,6 +152,18 @@ Coverpfade sind relativ zum Buchpaket, z. B.
 `assets/covers/annakarenina.png`.
 Die Frontmatter-Folge wird dort ebenfalls gesteuert: Coverbild, Titelseite,
 Zusammenfassung, Leben des Autors, danach Textbeginn.
+PDF wird explizit mit `--format pdf` erzeugt; `--format all` bleibt DOCX+EPUB.
+
+Optionale Bilder fuer den Export werden automatisch eingebunden, wenn
+`illustrations.enabled` in `export.yaml` aktiv ist:
+
+```text
+books/<book-id>/assets/chapter/chapter-001.jpg
+books/<book-id>/assets/scene/001/scene-002.png
+```
+
+Unterstuetzt werden `.jpg`, `.jpeg`, `.png` und `.webp`; fehlende Bilder
+werden uebersprungen.
 
 Anna Karenina hat aktuell:
 

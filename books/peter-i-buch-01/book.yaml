@@ -38,6 +38,18 @@ naming_convention:
   - Софья -> Sofja
   - Алексей -> Alexei
   - Толстой -> Tolstoi
+higgsfield:
+  model: text2image_soul_v2
+  aspect_ratio: "3:4"
+  quality: 2k
+  moodboard:
+    name: Buch Peter der Erste
+    custom_reference_id: 8b79a5c6-5539-4257-9b42-537d82259bc4
+    source: "higgsfield generate list --image --size 100 --json"
+    note: >-
+      CLI akzeptiert diese UUID als --custom_reference_id. Bei den ersten
+      Test-Jobs meldete Higgsfield in der Antwort trotzdem style_name:
+      General; vor produktiven Serienlaeufen erneut pruefen.
 notes: 'Roman in 3 Bänden von Alexei Tolstoi. Russisches Original,
 
   417 Seiten, ~201.000 Wörter. Buch 1 in dieser Datei.

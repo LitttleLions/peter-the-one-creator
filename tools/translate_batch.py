@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import argparse
 import io
+import os
 import subprocess
 import sys
 from pathlib import Path
@@ -20,7 +21,7 @@ from lib.book_project import find_book as find_book_project
 from lib.output_paths import (
     book_output_root,
     find_scene_translations,
-    list_ru_scene_paths,
+    list_source_scene_paths,
     parse_scene_number,
 )
 from lib.workbench_state import chapter_ids
@@ -43,15 +44,19 @@ def chapter_range(all_ids: list[str], start: str | None, end: str | None) -> lis
 
 def chapter_complete(book: dict, chapter_id: str, style: str) -> bool:
     output_root = book_output_root(REPO_ROOT, book)
-    ru_paths = list_ru_scene_paths(output_root, chapter_id)
-    if not ru_paths:
+    source_paths = list_source_scene_paths(
+        output_root,
+        chapter_id,
+        str(book.get("source_lang") or "ru"),
+    )
+    if not source_paths:
         return False
     de_map = find_scene_translations(output_root, chapter_id, style)
-    ru_nums = [
-        num for path in ru_paths
+    source_nums = [
+        num for path in source_paths
         if (num := parse_scene_number(path, chapter_id)) is not None
     ]
-    return bool(ru_nums) and all(num in de_map for num in ru_nums)
+    return bool(source_nums) and all(num in de_map for num in source_nums)
 
 
 def build_commands(
@@ -63,11 +68,13 @@ def build_commands(
     overwrite: bool,
     auto_status: bool,
     no_review: bool,
+    chunk_char_limit: int | None = None,
 ) -> list[list[str]]:
     commands: list[list[str]] = []
     output_root = book_output_root(REPO_ROOT, book)
+    source_lang = str(book.get("source_lang") or "ru")
     for cid in chapters:
-        if not list_ru_scene_paths(output_root, cid):
+        if not list_source_scene_paths(output_root, cid, source_lang):
             commands.append([
                 "tools/extract_scenes.py",
                 "--book", book["id"],
@@ -84,6 +91,8 @@ def build_commands(
         ]
         if provider == "openrouter" and model:
             cmd.extend(["--model", model])
+        if chunk_char_limit is not None:
+            cmd.extend(["--chunk-char-limit", str(chunk_char_limit)])
         if overwrite:
             cmd.append("--overwrite")
         if auto_status:
@@ -107,7 +116,9 @@ def build_assemble_commands(book: dict, chapters: list[str], style: str) -> list
 
 
 def run_command(cmd: list[str]) -> int:
-    result = subprocess.run([sys.executable, *cmd], cwd=REPO_ROOT)
+    env = os.environ.copy()
+    env["PYTHONUNBUFFERED"] = "1"
+    result = subprocess.run([sys.executable, "-u", *cmd], cwd=REPO_ROOT, env=env)
     return int(result.returncode)
 
 
@@ -130,13 +141,15 @@ def parse_args() -> argparse.Namespace:
     )
     ap.add_argument("--auto-status", action="store_true")
     ap.add_argument("--no-review", action="store_true")
+    ap.add_argument("--chunk-char-limit", type=int, default=None)
     ap.add_argument("--dry-run", action="store_true")
     return ap.parse_args()
 
 
 def main() -> int:
     try:
-        sys.stdout.reconfigure(encoding="utf-8")
+        sys.stdout.reconfigure(encoding="utf-8", line_buffering=True)
+        sys.stderr.reconfigure(encoding="utf-8", line_buffering=True)
     except Exception:
         if hasattr(sys.stdout, "buffer"):
             sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
@@ -176,6 +189,7 @@ def main() -> int:
         overwrite=args.overwrite,
         auto_status=args.auto_status,
         no_review=args.no_review,
+        chunk_char_limit=args.chunk_char_limit,
     )
     assemble_commands = build_assemble_commands(book, selected, style) if args.assemble_after else []
     commands = translate_commands + assemble_commands
@@ -184,7 +198,14 @@ def main() -> int:
     print(f"Kapitel: {len(selected)} ausgewaehlt")
     print(f"Style: {style}")
     print(f"Provider: {args.provider}")
-    print("Ablauf: fehlende RU-Arbeitseinheiten vorbereiten, dann Uebersetzen/Prompt je Kapitel")
+    if args.chunk_char_limit is not None:
+        print(f"Chunk-Grenze: {args.chunk_char_limit} Zeichen")
+    source_lang = str(book.get("source_lang") or "ru").upper()
+    print(
+        "Ablauf: fehlende "
+        f"{source_lang}-Arbeitseinheiten vorbereiten, "
+        "dann Uebersetzen/Prompt je Kapitel"
+    )
     print(f"Kapitel zusammensetzen: {'ja' if args.assemble_after else 'nein'}")
     print(f"Kommandos: {len(commands)}")
     if args.dry_run:
@@ -197,7 +218,7 @@ def main() -> int:
 
     for idx, cmd in enumerate(commands, 1):
         text = " ".join(cmd)
-        print(f"[{idx}/{len(commands)}] python {text}")
+        print(f"[{idx}/{len(commands)}] python {text}", flush=True)
         if args.dry_run:
             continue
         code = run_command(cmd)

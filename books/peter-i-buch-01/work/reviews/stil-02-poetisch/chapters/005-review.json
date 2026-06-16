@@ -1,0 +1,238 @@
+{
+  "chapter": "005",
+  "style": "stil-02-poetisch",
+  "ru_scenes": 22,
+  "de_scenes": 22,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "005",
+      "scene": 1,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-01.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-01.md",
+      "ru_words": 438,
+      "de_words": 583,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 2,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-02.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-02.md",
+      "ru_words": 1218,
+      "de_words": 1627,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 3,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-03.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-03.md",
+      "ru_words": 718,
+      "de_words": 963,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 4,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-04.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-04.md",
+      "ru_words": 443,
+      "de_words": 705,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 5,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-05.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-05.md",
+      "ru_words": 251,
+      "de_words": 374,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 6,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-06.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-06.md",
+      "ru_words": 1298,
+      "de_words": 1795,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 7,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-07.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-07.md",
+      "ru_words": 996,
+      "de_words": 1460,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 8,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-08.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-08.md",
+      "ru_words": 963,
+      "de_words": 1389,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 9,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-09.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-09.md",
+      "ru_words": 864,
+      "de_words": 1298,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 10,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-10.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-10.md",
+      "ru_words": 1705,
+      "de_words": 2326,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 11,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-11.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-11.md",
+      "ru_words": 919,
+      "de_words": 1211,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 12,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-12.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-12.md",
+      "ru_words": 320,
+      "de_words": 468,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 13,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-13.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-13.md",
+      "ru_words": 893,
+      "de_words": 1186,
+      "findings": [
+        {
+          "severity": "ERROR",
+          "category": "cyrillic_in_translation",
+          "message": "DE-Szene enthaelt kyrillische Zeichen.",
+          "chapter": "005",
+          "scene": 13,
+          "evidence": "an erkannte die Scheremetjews, die Trubezkojs, die Dolgurukis, Sinowjew, Boborykин… Eine solche Schande hatte Moskau seit seiner Gründung nicht gesehen. Im Volk zeigte man auf sie, staunte, stöhnte, erschauerte… Und manc",
+          "recommendation": "Pruefen, ob Originaltext stehen geblieben ist.",
+          "source": "deterministic",
+          "current_text": "и",
+          "suggested_text": "",
+          "confidence": 0.8,
+          "fixable": null,
+          "position": 5865
+        },
+        {
+          "severity": "ERROR",
+          "category": "llm_review_failed",
+          "message": "KI-Review fehlgeschlagen: Expecting value: line 1 column 1 (char 0)",
+          "chapter": "005",
+          "scene": 13,
+          "evidence": "",
+          "recommendation": "Backend/Modell pruefen oder Lauf ohne LLM wiederholen.",
+          "source": "llm",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    },
+    {
+      "chapter": "005",
+      "scene": 14,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-14.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-14.md",
+      "ru_words": 578,
+      "de_words": 772,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 15,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-15.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-15.md",
+      "ru_words": 1453,
+      "de_words": 1949,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 16,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-16.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-16.md",
+      "ru_words": 1558,
+      "de_words": 2015,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 17,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-17.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-17.md",
+      "ru_words": 3118,
+      "de_words": 4116,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 18,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-18.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-18.md",
+      "ru_words": 1089,
+      "de_words": 1408,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 19,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-19.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-19.md",
+      "ru_words": 389,
+      "de_words": 551,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 20,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-20.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-20.md",
+      "ru_words": 1007,
+      "de_words": 1320,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 21,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-21.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-21.md",
+      "ru_words": 810,
+      "de_words": 1079,
+      "findings": []
+    },
+    {
+      "chapter": "005",
+      "scene": 22,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-22.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-22.md",
+      "ru_words": 1598,
+      "de_words": 2156,
+      "findings": []
+    }
+  ]
+}

@@ -71,13 +71,16 @@ def unique_book_id(base: str) -> str:
     return f"{base}-{idx}"
 
 
-def ensure_dirs(book_root: Path) -> list[Path]:
+def ensure_dirs(book_root: Path, source_lang: str = "ru") -> list[Path]:
+    source_lang = (source_lang or "ru").strip().lower() or "ru"
     paths = [
         book_root / "source",
         book_root / "assets" / "covers",
+        book_root / "assets" / "chapter",
+        book_root / "assets" / "scene",
         book_root / "styles",
         book_root / "work" / "chapters",
-        book_root / "work" / "scenes" / "ru",
+        book_root / "work" / "scenes" / source_lang,
         book_root / "work" / "scenes" / "de",
         book_root / "work" / "assembled",
         book_root / "work" / "prompts",
@@ -190,6 +193,13 @@ def build_export_yaml(args: argparse.Namespace) -> dict[str, Any]:
                 "strip_control_metadata": True,
                 "scene_separator": "* * *",
             },
+            "illustrations": {
+                "enabled": True,
+                "chapter_images": True,
+                "scene_images": True,
+                "chapter_page_break_after_image": True,
+                "scene_page_break_after_image": False,
+            },
         },
         "book": {
             "title": args.title,
@@ -223,7 +233,7 @@ def main() -> int:
     ap.add_argument("--style", default="stil-01-original")
     ap.add_argument("--ruleset-path", default="")
     ap.add_argument("--ruleset-apply", action=argparse.BooleanOptionalAction, default=False)
-    ap.add_argument("--model", default="deepseek/deepseek-v4-flash")
+    ap.add_argument("--model", default="deepseek/deepseek-v4-pro")
     ap.add_argument("--max-tokens-per-scene", type=int, default=10000)
     ap.add_argument("--notes", default="")
     ap.add_argument("--dry-run", action="store_true")
@@ -252,7 +262,7 @@ def main() -> int:
         print("(dry-run: keine Dateien geschrieben oder verschoben)")
         return 0
 
-    ensure_dirs(book_root)
+    ensure_dirs(book_root, args.source_lang)
     if source.resolve() != target_source.resolve():
         if target_source.exists():
             print(f"FEHLER: Zielquelle existiert bereits: {target_source}", file=sys.stderr)

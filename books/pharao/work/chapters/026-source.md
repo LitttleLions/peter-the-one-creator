@@ -1,567 +1,180 @@
-# Kapitel 26: CHAPTER XXVI
+# Kapitel 026: Tom II - Rozdział I
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part32.xhtml*
 
 <!-- status: pending -->
 
-Not far from the city of Pi-Bast stood the temple of the goddess Hator.
+Niedaleko miasta Pi-Bast znajdowała się wielka świątynia bogini Hator
 
-In the month Paoni (March-April), on the day of the vernal equinox,
+W miesiącu Paoni (marzec-kwiecień), w dniu porównania wiosennego, około dziewiątej wieczór, gdy gwiazda Syriusz miała się ku zachodowi, pod bramą świątyni stanęli dwaj podróżni kapłani i jeden pokutnik. Szedł on boso, miał popiół na głowie i był przykryty grubą płachtą, którą twarz zasłaniał.
 
-about nine in the evening, when the star Sirius inclined toward its
+Pomimo widnej nocy fizjognomii podróżnych nie można było poznać, stali bowiem w cieniu dwu olbrzymich posągów bóstwa z krowią głową, które pilnowały wejścia do świątnicy i łaskawymi oczyma strzegły nomesu Habu od pomoru, złego wylewu i południowych wiatrów.
 
-setting, two wayfaring priests and one penitent stopped in the gateway.
+Odpocząwszy nieco, pokutnik upadł piersiami na ziemię i długo modlił się. Potem podniósł się, ujął miedzianą kołatkę i uderzył. Potężny dźwięk metalowy obiegł wszystkie dziedzińce, odbił się od grubych murów świątyni i poleciał ponad łany pszenicy, nad gliniane chaty chłopów, nad srebrzyste wody Nilu, gdzie słabym okrzykiem odpowiedziało mu zbudzone ptactwo.
 
-The penitent, who was barefoot, had ashes on his head, and was covered
+Po długiej chwili za bramą rozległ się szmer i pytanie:
 
-with a coarse cloth which concealed his visage.
+— Kto nas budzi?
 
-Though the air was clear, it was impossible to distinguish the faces of
+— Niewolnik boży, Ramzes — rzekł pokutnik.
 
-those wayfarers. They stood in the shadow of two immense statues of the
+— Po co przyszedłeś?
 
-cow-headed divinity which guarded the entrance to the temple and with
+— Po światło mądrości.
 
-kindly eyes protected the province of Habu from pestilence, southern
+— Jakie masz prawa?
 
-winds, and bad overflows.
+— Otrzymałem niższe święcenie i na wielkich procesjach wewnątrz świątyni noszę pochodnię.
 
-When he had rested somewhat, the penitent fell with his face to the
+Brama szeroko otworzyła się. Na środku stał kapłan w białej szacie, który wyciągnąwszy rękę, rzekł powoli i wyraźnie:
 
-earth and prayed long in that position. Then he rose, took a copper
+— Wejdź. Niech razem z przestąpieniem tego progu spokój boży zamieszka w twojej duszy i niech spełnią się życzenia, o które w pokornej modlitwie błagasz bogów.
 
-knocker, and struck a blow. A deep metallic sound went through all the
+A gdy pokutnik upadł mu do nóg, kapłan, czyniąc jakieś znaki nad jego głową, szeptał:
 
-courts, reverberated from the thick walls of the temple, and flew over
+— W imię Tego, który jest, był i będzie... Który wszystko stworzył... Którego tchnienie napełnia świat widzialny i niewidzialny i jest życiem wiecznym...
 
-the wheat-fields, above the mud cottages of earth-tillers, over the
+A gdy brama zamknęła się, kapłan wziął Ramzesa za rękę i wśród zmroku, pomiędzy ogromnymi kolumnami przysionka, zaprowadził go do przeznaczonego mieszkania. Była to mała celka oświetlona kagankiem. Na kamiennej posadzce leżała wiązka suchej trawy, w kącie stał dzban wody, a obok — jęczmienny placek.
 
-silvery waters of the Nile, where the faint cry of wakened birds
+— Widzę, że tutaj naprawdę odpocznę po przyjęciach u nomarchów!... — wesoło zawołał Ramzes.
 
-answered it.
+— Myśl o wieczności — odparł kapłan i oddalił się.
 
-After a long time a murmur was heard inside, and the question,
+Księcia niemile dotknęła ta odpowiedź. Pomimo że był głodny, nie chciał jeść placka ani pić wody. Usiadł na trawie i, patrząc na swoje pokaleczone w podróży nogi, pytał się: po co on tu przyszedł?... po co dobrowolnie wyzuł się ze swej dostojności?...
 
-"Who rouses us?"
+Widząc ściany celi i jej ubóstwo, przypomniał sobie chłopięce lata spędzone w kapłańskiej szkole. Ile on tam dostał kijów!... ile nocy przepędził na kamiennej posadzce za karę!... Ramzes i teraz uczuł tą nienawiść i trwogę, jakiej wówczas doświadczał wobec surowych kapłanów, którzy na wszystkie jego pytania i prośby odpowiadali zawsze jednym: „Myśl o wieczności!...”
 
-"Ramses, a slave of the divinity," said the penitent.
+Po kilkumiesięcznym zgiełku wpaść w taką ciszę, zamienić dwór książęcy na ciemność i samotność, a zamiast uczt, kobiet, muzyki czuć dokoła siebie i nad sobą ciężar murów...
 
-"For what hast Thou come?"
+„Oszalałem!... oszalałem!... — mówił do siebie Ramzes.
 
-"For the light of wisdom."
+Była chwila, że chciał opuścić świątynię natychmiast, a potem przyszła mu myśl, że mogą nie otworzyć bramy. Widok brudnych nóg, popiołu, który sypał mu się z włosów, szorstkość pokutniczej płachty — wszystko to napełniało go obrzydzeniem. Gdyby choć miał swój miecz!... Ale czy w tym odzieniu i tym miejscu ośmieliłby się go użyć?...
 
-"What right hast Thou to ask for it?"
+Uczuł niepokonany strach i to go otrzeźwiło. Przypomniał sobie, że bogowie w świątyniach zsyłają na ludzi trwogę i że ona ma być wstępem do mądrości.
 
-"I received the inferior consecration, and in great processions within
+„Jestem przecie namiestnikiem i następcą faraona — pomyślał — cóż mi tu kto zrobi?...”
 
-the temple I carry a torch."
+Podniósł się i wyszedł ze swej celi. Znajdował się w wielkim dziedzińcu otoczonym kolumnami. Gwiazdy jasno świeciły, więc zobaczył — na jednym końcu podwórza olbrzymie pylony, na drugim otwarte wejście do świątyni.
 
-The gates opened widely. In the centre stood a priest in a white robe;
+Poszedł tam. Ode drzwi panował mrok, a gdzieś bardzo daleko płonęło kilka lamp, jakby unoszących się w powietrzu. Wpatrzywszy się, dojrzał między wejściem i światłami cały las gęsto ustawionych, grubych kolumn, których wierzchołki rozpływały się w ciemności. W głębi, może o paręset kroków od niego, niewyraźnie widać było olbrzymie nogi siedzącej bogini i jej ręce oparte na kolanach, od których słabo odbijał się blask lamp.
 
-he stretched forth his hand, and said slowly and distinctly,
+Nagle usłyszał szmer. Z daleka, z bocznej nawy, wysunął się szereg białych figurek idących parami. Była to nocna procesja kapłanów, którzy oddawali hołd posągowi bogini śpiewając na dwa chóry:
 
-"Enter. When Thou crossest this threshold, may divine peace dwell in
+Chór I. „Ja jestem Tym, który niebo i ziemię stworzył i wszystkie na nich stworzenia zrobił.
 
-thy soul, and may that be accomplished for which Thou implorest
+Chór II. Ja jestem Tym, który wody zrobił i wielką powódź stworzył, Tym, co wołu jego matce zrobił, który rodzicem jest.
 
-humbly."
+Chór I. Ja jestem Tym, który niebo stworzył i tajemnice widnokręgów jego i dusze bogów w nie włożyłem.
 
-When the penitent had fallen at his feet, the priest, making some signs
+Chór II. Ja jestem Tym, który gdy oczy otwiera, jasno się robi, a gdy je zamyka, ciemność się staje.
 
-above his head, whispered,
+Chór I. Wody Nilu płyną, gdy rozkazuję...
 
-"In the name of Him who is, who has been, and who will be, who created
+Chór II. Ale bogowie nie znają jego imienia.”
 
-everything, whose breath fills the visible and the invisible world, and
+Głosy, z początku niewyraźne, potężniały tak, że słychać było każde słowo; a gdy zniknął orszak, zaczęły rozpraszać się między kolumnami, słabnąć... Wreszcie umilkły.
 
-who is life eternal."
+„A jednak ci ludzie — pomyślał Ramzes — nie tylko jedzą, piją i zbierają bogactwa... Oni naprawdę spełniają służbę, nawet w nocy... Chociaż — co z tego przyjdzie posągowi!...”
 
-When the gate had closed, the priest took Ramses by the hand, and in
+Książę nieraz widywał posągi bóstw granicznych obrzucone błotem przez mieszkańców innego nomesu albo postrzelane z łuków i proc przez żołnierzy cudzoziemskich pułków. Jeżeli bogowie nie obrażają się o zniewagi, niewiele także muszą dbać o modlitwy i procesje.
 
-the gloom amid the immense columns of the forecourt he led him to the
+„Kto zresztą widział bogów!...” — rzekł do siebie książę.
 
-dwelling assigned to him. It was a small cell lighted by a lamp. On the
+Ogrom świątyni, jej niezliczone kolumny, światła palące się przed posągiem, wszystko to pociągało Ramzesa. Chciał rozejrzeć się w tym tajemniczym bezmiarze i poszedł naprzód.
 
-stone pavement lay a bundle of dry grass; in a corner stood a pitcher
+Wtem zdało mu się, że z tyłu głowy delikatnie dotknęła go jakaś ręka... Obejrzał się, nie było nikogo, więc szedł dalej.
 
-of water, and near it was a barley cake.
+Tym razem jakieś dwie ręce schwyciły go za głowę, a trzecia, duża, oparła się na plecach...
 
-"I see that here I shall have rest indeed after my occupations with the
+— Kto tu jest?... — zawołał książę i rzucił się między kolumny.
 
-nomarchs," said Ramses, joyously.
+Lecz potknął się i omal nie upadł: coś schwyciło go za nogi.
 
-"Think of eternity," replied the priest; and he withdrew.
+Ramzesa znowu opanował strach, większy niż w celi. Zaczął uciekać bez pamięci, potrącając się o kolumny, które zastępowały mu drogę, a ciemność ogarniała ze wszech stron.
 
-This answer struck Ramses disagreeably. Though he was hungry, he did
+— O święta bogini, ratuj!... — szepnął.
 
-not wish to eat a cake or drink water. He sat on the grass, and looking
+W tej chwili zatrzymał się: o kilka kroków przed nim były wielkie drzwi świątyni, przez które zaglądało gwiaździste niebo. Odwrócił głowę — między lasem olbrzymich kolumn płonęły lampy, a blask ich słabo odbijał się od spiżowych kolan świętej Hator.
 
-at his feet wounded from the journey, asked himself why he had come,
+Książę wrócił do swej celi wzburzony i skruszony; serce rzucało się w nim jak ptak schwytany w sidła. Pierwszy raz od wielu lat upadł twarzą na ziemię i gorąco modlił się o łaskę i przebaczenie.
 
-why he had put himself voluntarily out of his office.
+— Będziesz wysłuchany!... — odezwał się nad nim słodki głos.
 
-Seeing the walls of the cell and its poverty, he recalled the years of
+Ramzes nagle podniósł głowę, lecz w celi nie było nikogo: drzwi zamknięte, mury grube. Modlił się więc jeszcze goręcej i tak usnął, z twarzą na kamieniach i rozkrzyżowanymi rękoma.
 
-his boyhood passed at a priests' school. How many blows of sticks he
+Kiedy na drugi dzień obudził się, był już innym człowiekiem: poznał moc bogów i otrzymał obietnicę łaski.
 
-had received there, how many nights he had passed on a stone floor as
+Od tej pory, przez długi szereg dni, z ochotą i wiarą oddawał się ćwiczeniom pobożnym. W swojej celi długie godziny spędzał na modlitwach, dał sobie ogolić włosy, przywdział strój kapłański i cztery razy na dobę uczęszczał do chóru najmłodszych kapłanów.
 
-punishment! Even then Ramses felt the hatred and fear which he had felt
+Jego życie przeszłe, wypełnione zabawami, budziło w nim odrazę, a niewiara, której nabył wśród rozpustnej młodzieży i cudzoziemców, napełniała go strachem. I gdyby mu dziś dano do wyboru: tron czy kapłański urząd? zawahałby się.
 
-before toward that harsh priest who to all his prayers and questions
+Pewnego dnia wielki prorok świątyni wezwał go do siebie, przypominając, że nie wszedł tu wyłącznie dla modłów, ale dla poznania mądrości. Pochwalił jego pobożne życie, powiedział, że jest już oczyszczony z brudów świata, i kazał mu zapoznać się ze szkołami istniejącymi przy świątyni.
 
-answered only with, "Think of eternity."
+Raczej przez posłuszeństwo aniżeli ciekawość książę prosto od niego udał się na zewnętrzny dziedziniec, gdzie mieścił się oddział czytania i pisania.
 
-After some months of uproar to drop into such silence, to exchange the
+Była to wielka sala oświetlona przez otwór w dachu. Na matach siedziało kilkudziesięciu nagich uczniów z woskowanymi tabliczkami w rękach. Jedna ściana była z gładkiego alabastru, przed nią stał nauczyciel i różnokolorowymi kredkami pisał znaki.
 
-court of a prince for obscurity and loneliness, and instead of feasts,
+Gdy książę wszedł, uczniowie (prawie wszyscy jednego wieku z nim) upadli na twarz. Nauczyciel zaś, skłoniwszy się, przerwał dotychczasowe zajęcie, aby wypowiedzieć chłopcom wykład o wielkim znaczeniu nauki.
 
-women, and music, to feel around and above him the weight of walls! "I
+— Moi kochani! — mówił. — „Człowiek, który nie ma serca do mądrości, musi zajmować się pracą ręczną i męczyć oczy. Ale ten, kto rozumie wartość nauk i kształci się w nich, może osiągnąć wszystkie władze, wszystkie dworskie urzędy. Pamiętajcie o tym.”
 
-have gone mad! I have gone mad!" muttered Ramses.
+Przypatrzcie się nędznemu życiu ludzi, którzy nie znają pisma. „Kowal jest czarny, posmolony, ma palce pełne nagniotków, a pracuje dzień i noc. Kamieniarz zrywa sobie ramię, ażeby napełnić żołądek. Mularz budujący kapitele w formie lotosu bywa strącany przez wicher ze szczytu dachu. Tkacz ma zgięte kolana, fabrykant broni ciągle podróżuje: ledwo przyjedzie do domu wieczorem, już musi go opuszczać. Malarzowi pokojowemu cuchną palce, a czas upływa mu na krajaniu gałganów. Zaś szybkobiegacz, ten, żegnając się z rodziną, powinien zostawić testament, bo naraża się na niebezpieczeństwo spotkania dzikich zwierząt lub Azjatów.”
 
-There was a moment when he wished to leave the temple at once; but
+Pokazałem wam dolę różnych rzemiosł, bo chcę, ażebyście kochali sztukę pisania, która jest waszą matką, a teraz przedstawię wam jej piękności. Ona nie jest pustym słowem na ziemi, ona jest ważniejszą od wszelkich innych zajęć. Ten, który korzysta ze sztuki pisania, jest szanowanym od dzieciństwa; on spełnia wielkie posłannictwa. Lecz ten, który nie bierze w niej udziału, żyje w nędzy.
 
-afterward he thought that they might not open the gate to him. The
+Nauki szkolne są ciężkie jak góry; ale jeden ich dzień wystarczy wam na całą wieczność. Więc prędko, jak najprędzej poznajcie się z nimi i pokochajcie... Stan pisarza jest książęcym stanem, jego kałamarz i księga dają mu przyjemności i bogactwa!...
 
-sight of his dirty legs, of the ashes falling out of his hair, the
+Po szumnej przemowie o dostojeństwie nauk, czego od trzech tysięcy lat bez zmiany słuchali egipscy uczniowie, mistrz wziął kredkę i na alabastrowej ścianie zaczął pisać — alfabet. Każda litera wyrażała się za pomocą kilku symbolów hieroglificznych lub kilku znaków demotycznych. Rysunek oka, ptaka lub pióra oznaczał — A. Owca albo doniczka — B, człowiek stojący lub czółno — K, wąż — R, człowiek siedzący albo gwiazda — S. Obfitość znaków wyrażających każdą literę sprawiała, że nauka czytania i pisania była bardzo mozolnym zajęciem.
 
-roughness of his penitential rags, all this disgusted him. If he had
+Toteż Ramzes zmęczył się samym słuchaniem, wśród którego jedyną rozrywkę stanowiło to, gdy nauczyciel kazał któremu z uczniów wyrysować lub nazwać literę i walił go kijem, gdy się omylił.
 
-had his sword even! But would he, dressed as he was in that place, dare
+Pożegnawszy nauczyciela i wychowańców, książę ze szkoły pisarzy przeszedł do szkoły mierników. Tu uczono młodzież zdejmować plany pól, mających po największej części formę prostokątów, tudzież niwelować grunta za pomocą dwu łat i węgielnicy. W tym również oddziale wykładano sztukę pisania liczb, nie mniej zawikłaną jak hieroglify albo znaki demotyczne. Lecz najprostsze działania arytmetyczne stanowiły wyższy kurs i wykonywały się przy pomocy kulek.
 
-to use it?
+Ramzes miał tego dosyć i dopiero po kilku dniach zgodził się odwiedzić szkołę lekarską.
 
-He felt an overpowering dread, and that sobered him. He remembered that
+Był to zarazem szpital, a raczej wielki ogród zasadzony mnóstwem drzew i zasiany wonnymi ziołami. Chorzy całe dnie przepędzali w powietrzu i słońcu, na łóżkach, w których zamiast materacy było wyciągnięte płótno.
 
-the gods in temples send down fear on men, and that this fear must be
+Gdy książę wszedł tutaj, panowała największa czynność. Kilku pacjentów kąpało się w sadzawce wody bieżącej, jednego smarowano wonnymi maściami, jednego okadzano. Było kilku, których uśpiono za pomocą wzroku i pociągnięć rękami; jeden jęczał po nastawieniu zwichniętej nogi.
 
-the beginning of wisdom.
+Pewnej ciężko chorej kobiecie kapłan podawał w kubku jakąś miksturę, mówiąc:
 
-"Moreover, I am the viceroy and the heir of the pharaoh," thought he;
+„Chodź, leku, chodź, wypędź to z mego serca, z tych moich członków, silny w czary przy tym leku.”
 
-"who will harm me in this temple?"
+Następnie książę w towarzystwie wielkiego lekarza poszedł do apteki, gdzie jeden z kapłanów przygotowywał lekarstwa z ziół, miodu, oliwy, skórek wężowych i jaszczurczych, kości i tłuszczów zwierzęcych. Na zapytanie Ramzesa laborant nie oderwał oczu od swej pracy. Tylko wciąż ważył i rozcierał materiały, odmawiając przy tym modlitwę:
 
-He rose and went out of the cell. He found himself in a broad court
+„Uzdrowiło Izydę, uzdrowiło Izydę, uzdrowiło Horusa... O Izydo, wielka czarodziejko, uzdrów mnie, wyzwól ze wszystkich złych, szkodliwych, czerwonych rzeczy, od gorączki boga i gorączki bogini...
 
-surrounded by columns. The stars were shining brightly; hence he saw at
+O Schauagat’, eenagate’ synie! Erukate’! Kauaruschagate’!... Paparuka paparaka paparuka...”
 
-one end of the court an immense pylon, at the other an open entrance to
+— Co on mówi? — spytał książę.
 
-the temple.
+— Tajemnica... — odparł wielki lekarz, kładąc palec na ustach.
 
-He went thither. At the door there was gloom, and somewhere far off
+Gdy wyszli na pusty dziedziniec, Ramzes rzekł do wielkiego lekarza:
 
-flamed a number of lamps, as if in the air and unsupported. Looking
+— Powiedz mi, święty ojcze: co to jest sztuka lekarska i na czym polegają jej sposoby? Bo ja słyszałem, że choroba jest to zły duch, który osiedla się w człowieku i dręczy go z głodu, dopóki nie dostanie właściwej sobie żywności. I że jeden zły duch, czyli choroba, karmi się miodem, inny oliwą, a inny — zwierzęcymi odchodami. Lekarz więc powinien — naprzód wiedzieć; jaki duch zamieszkał w chorym, a następnie — jakich ten duch potrzebuje pokarmów, ażeby nie trapił człowieka?...
 
-more attentively, he saw standing closely together between the entrance
+Kapłan zamyślił się i odparł:
 
-and the lamps a forest of columns, the tops of which were lost in
+— Co to jest choroba, jakim sposobem spada na ludzkie ciało, o tym nie mogę powiedzieć ci, Ramzesie. Ale objaśnię ci, bo zostałeś oczyszczony, czym kierujemy się przy wydawaniu lekarstw.
 
-darkness. At a distance, perhaps two hundred yards from him, he saw
+Wyobraź sobie, że człowiek jest chory na wątrobę. Otóż my, kapłani, wiemy, że wątroba znajduje się pod wpływem gwiazdy Peneter-Dewa i że leczenie musi zależyć od tej gwiazdy.
 
-indistinctly the gigantic legs of a sitting goddess with her hands
+Lecz tu mędrcy dzielą się na dwie szkoły. Jedni twierdzą, że potrzeba choremu na wątrobę podawać wszystko to, nad czym Peneter-Dewa ma władzę, a zatem: miedź, lapis-lazuli, wywary z kwiatów, przede wszystkim z werweny i waleriany, nareszcie różne części ciała turkawki i kozła. Inni zaś lekarze sądzą, że gdy wątroba jest chora, to właśnie trzeba ją leczyć środkami przeciwnymi. A ponieważ przeciwnikiem Peneter-Dewy jest Sebeg, więc lekarstwami będą: żywe srebro, szmaragd i agat, leszczyna i podbiał tudzież części ciała żaby i sowy utarte na proszek.
 
-resting on her knees, from which the lamplight was reflected dimly.
+Lecz nie jest to jeszcze wszystko. Trzeba bowiem pamiętać o dniu, miesiącu i porze dnia, każdy bowiem z tych przeciągów czasu zostaje pod wpływem gwiazdy, która może wspierać lub osłabiać działanie lekarstwa. Trzeba nareszcie pamiętać: jaka gwiazda i jaki znak Zodiaku panuje nad chorym. Dopiero gdy lekarz wszystkie te rzeczy weźmie pod uwagę, może przepisać środek niezawodny.
 
-All at once he heard a sound from afar. From a side passage a row of
+— I czy wszystkim chorym pomagacie w świątyni?
 
-white figures pushed forth, moving in couples. This was a night
+Kapłan potrząsnął głową.
 
-procession of priests, who, singing in two choruses, gave homage to the
+— Nie — rzekł. — Umysł ludzki, który musi ogarnąć tyle szczegółów, o jakich mówiłem, bardzo łatwo myli się. A co gorsza: duchy zawistne, geniusze innych świątyń, zazdrosne o swoją sławę, niejednokrotnie przeszkadzają lekarzowi i psują skutek lekarstw. Ostateczny więc wypadek może być rozmaitym: jeden chory całkiem przychodzi do zdrowia, inny tylko poprawia się, a trzeci pozostaje bez zmiany. Choć zdarzają się i tacy, którzy rozchorowują się jeszcze gorzej albo nawet umierają... Wola bogów!...
 
-statue of the goddess: Chorus I. "I am He who created heaven and earth
+Książę słuchał z uwagą, w duchu jednak przyznał, że niewiele rozumie. Zarazem przypomniał sobie cel swojego przybycia do świątyni i nagle zapytał wielkiego lekarza:
 
-and made all things contained in them." Chorus II. "I am He who created
+— Mieliście, święci ojcowie, pokazać mi tajemnicę skarbu faraona. Czy mają być nią te rzeczy, które widziałem?
 
-the waters and the great overflow, He who made for the bull his mother
+— Bynajmniej — odpowiedział lekarz. — Ale my nie znamy się na rzeczach państwowych. Dopiero ma tu zjechać święty kapłan Pentuer, wielki mędrzec, i on zdejmie z oczu twoich zasłonę.
 
-whose parent he himself is." Chorus I  "I am He who made heaven and the
-
-secrets of its horizon; as to the gods I it was who placed their souls
-
-in them." Chorus II. "I am He who when he opens his eyes there is light
-
-in the world and when he closes them darkness is present." Chorus I.
-
-"The waters of the Nile flow when he commands." Chorus II. "But the
-
-gods do not know what his name is." [Authentic.].
-
-The voices, indistinct at first, grew stronger, so that each word was
-
-audible, and when the procession disappeared the words scattered among
-
-the columns, growing ever fainter. At last every sound ceased.
-
-"And still those people," thought Ramses, "not only eat, drink, and
-
-gather wealth they really perform religious services even in the night-
-
-time; though, how is that to affect the statue?"
-
-The prince had seen more than once the statues of boundary divinities
-
-bespattered with mud by the inhabitants of another province, or shot at
-
-from bows or slings by mercenary soldiers. "If gods are not offended by
-
-insult, they must also care little for prayers and processions.
-
-Besides, who has seen gods?" said the prince to himself.
-
-The immensity of the temple, its countless columns, the lamps burning
-
-in front of the statue, all this attracted Ramses. He wished to look
-
-around in that mysterious immensity, and he went forward. Then it
-
-seemed to him that some hand from behind touched his head tenderly. He
-
-looked around. No one was there; so he went farther.
-
-This time the two hands of some person seized him by the head, and a
-
-third, a great hand, rested on his shoulder.
-
-"Who is here?" cried he prince; and he rushed in among the columns. But
-
-he stumbled and almost fell: some one caught him by the feet. Again
-
-terror mastered Ramses more than in the cell. He fled distracted,
-
-knocking against columns which seemed to bar the way to him, and
-
-darkness closed around the man on all sides.
-
-"Oh, save, holy goddess, save me!" whispered he.
-
-At this moment he stopped: some yards in front of him was the great
-
-door of a temple through which the starry sky was visible. He turned
-
-his head. Amid the forest of gigantic columns lamps were burning, and
-
-the gleam of them was reflected faintly from the bronze knees of the
-
-holy Hator.
-
-The prince returned to his cell, crushed and excited; his heart
-
-throbbed like that of a bird caught in a net. For the first time in
-
-many years he fell with his face to the earth and prayed ardently for
-
-favor and forgiveness.
-
-"Thou wilt be heard," answered a sweet voice above him.
-
-Ramses raised his head quickly, but there was no one in the cell: the
-
-door was closed, the walls were thick. He prayed on therefore more
-
-ardently, and fell asleep in that position, with his face on the stones
-
-and his arms extended.
-
-When he woke next morning, he was another man: he had experienced the
-
-might of the gods, and favor had been promised.
-
-From that time through a long series of days he gave himself to
-
-devotional exercises with faith and alacrity. In his cell he spent long
-
-hours over prayers, he had his head shaven, and put on priestly
-
-garments, and four times in twenty-four hours he took part in a chorus
-
-of the youngest priests.
-
-His past life, taken up with amusements, roused in him aversion, and
-
-the disbelief which he had acquired amid foreigners and dissolute youth
-
-filled him with dread in that interval. And if that day the choice had
-
-been given him to take either the throne or the priestly office, he
-
-would have hesitated.
-
-A certain day the great prophet of the temple summoned the prince, and
-
-reminded him that he had not entered for prayers exclusively, but to
-
-learn wisdom. The prophet praised his devotion, declared that he was
-
-purified then from worldly foulness, and commanded him to become
-
-acquainted with the schools connected with that temple.
-
-Rather through obedience than curiosity, the prince went directly from
-
-him to the interior court, where the department of reading and writing
-
-was situated.
-
-That was a great hall, lighted through an opening in the roof. On mats
-
-some tens of naked pupils were seated holding wax tablets in their
-
-hands. One wall was of smooth alabaster; before it stood a teacher who
-
-wrote characters with chalks of various colors.
-
-When the prince entered, the pupils, almost all of the same age that he
-
-was, fell on their faces. The teacher bowed, and stopped his actual
-
-labor to explain to the youths the great meaning of knowledge.
-
-"My beloved," said he, "a man who has no heart for wisdom must occupy
-
-himself with handwork and torment his eyesight. But he who understands
-
-the worth of knowledge and forms himself accordingly may gain all kinds
-
-of power and every court office. Remember this. [Authentic]
-
-"Look at the wretched fate of men unacquainted with writing. A smith is
-
-black and grimy, his hands are full of lumps, and he toils night and
-
-day all his lifetime. The quarryman pulls his arms out to satisfy his
-
-stomach. The mason while forming a capital in lotus shape is hurled off
-
-by wind from the scaffold. A weaver has bent knees, a maker of weapons
-
-is ever traveling: barely does he come to his house in the evening when
-
-he must leave it. The fingers of a wall painter smell disagreeably, and
-
-his time passes in trimming up trifles. The courier when taking
-
-farewell of his family must leave a will, for he may have to meet wild
-
-beasts or Asiatics.
-
-"I have shown you the lot of men of various labors, for I wish you to
-
-love writing, which is your mother, and now I will present to you its
-
-beauties. It is not an empty word on earth, it is the most important of
-
-all occupations. He who makes use of writing is respected from
-
-childhood; he accomplishes every great mission. But he who takes no
-
-part in it lives on in wretchedness. School sciences are as difficult
-
-as mountains, but one day of them lasts through eternity. So learn
-
-quickly and you will love them. The scribe has a princely position; his
-
-pen and his book win him wealth and acceptance."
-
-After a sounding discourse on the dignity of knowledge, a discourse
-
-which Egyptian pupils had heard without change for three millenniums,
-
-the master took chalk and on the alabaster wall began to write the
-
-alphabet. Each letter was expressed through a number of hieroglyphs, or
-
-a number of demotic characters. The picture of an eye, a bird, or a
-
-panther signified A, a sheep or a pot B, a man standing or a boat T, a
-
-serpent R, a man sitting or a star S. The abundance of signs expressing
-
-each sound made the art of reading or writing extremely laborious.
-
-Ramses was wearied by mere listening, during which the only relief was
-
-when the teacher commanded some pupil to draw, or to name some letter,
-
-and beat him with a cane when he failed in his effort.
-
-Taking farewell of the teacher and the pupils, the prince from the
-
-school of scribes passed to the school of surveyors. There they taught
-
-youth to draw plans of fields which were for the most part rectangular,
-
-also to take the elevation of land by means of two laths and a square.
-
-In this department also they explained the art of writing numbers no
-
-less involved in hieroglyphic or demotic characters. But pure
-
-arithmetical problems formed a higher course, and were solved by means
-
-of bullets.
-
-Ramses had enough of this, and only after some days would he visit the
-
-school of medicine.
-
-This was also a hospital, or rather great garden containing a multitude
-
-of fragrant plants and trees. Patients passed whole days in the open
-
-air and in sunlight, on beds where strips of stretched canvas took the
-
-place of mattresses.
-
-The greatest activity reigned when the prince entered. Some patients
-
-were bathing in a pond of running water; attendants were rubbing one
-
-man with fragrant ointments, and burning perfumes before another. There
-
-were some whom they had put to sleep by looking at them and by
-
-stretching out their bodies; one patient was groaning while they were
-
-setting his sprained ankle.
-
-To a certain woman who was grievously sick the priest was giving some
-
-mixture from a goblet, while uttering an enchantment which had power in
-
-connection with this remedy,
-
-"Go, cure, go, drive that out of my heart, out of my members."
-
-[Authentic]
-
-Then the prince in company with a great leech went to the pharmacy,
-
-where one of the priests was preparing cures from plants, honey, olive
-
-oil, from the skins of serpents and lizards, from the bones and fat of
-
-beasts. When Ramses questioned him, the man did not take his eyes from
-
-the work. He looked continually, and ground the materials, uttering a
-
-prayer as he did so,
-
-"Thou hast cured Isis, Thou hast cured Isis, Thou hast cured Horus O
-
-Isis, great enchantress, make me well, free me from all evil, from
-
-harmful red things, from fever of the god, from fever of the goddess!"
-
-"O Shauagat, eenagate, synie! Erukate! Kauaruchagate! Paparauka
-
-paparaka paparura."
-
-"What is he saying?" asked the prince.
-
-"A secret," answered the leech, putting his finger on his lips.
-
-When they came out to an empty court, Ramses said to the great leech,
-
-"Tell me, holy father, what is the art of curing, and what are its
-
-methods. For I have heard that sickness is an evil spirit which settles
-
-in a man and torments him, because it is hungry, until it receives the
-
-food that it wishes. And that one evil spirit or sickness feeds on
-
-honey, another on olive oil, and a third on the excreta of animals. A
-
-leech, therefore, should know first what spirit has settled in the sick
-
-man, and then what kind of nourishment is required by that spirit, so
-
-that it should not torture the patient."
-
-The priest thought awhile and then answered,
-
-"What sickness is and in what way it falls on the human body, I cannot
-
-tell, O Ramses. But to thee I will explain, for Thou hast been
-
-purified, how we govern ourselves in giving medicine.
-
-"Suppose a given man to be sick in the liver. We priests know that the
-
-liver is under the star Peneter-Deva, [Planet Venus] that the cure must
-
-depend on that star.
-
-"But here the sages are divided into two schools. Some assert that it
-
-is necessary to give the man who is sick in his liver things over which
-
-Peneter-Deva has influence, therefore copper, lapis lazuli, extract of
-
-flowers, above all verbena and valerian, finally, various parts of the
-
-body of the turtle-dove and the goat. Other leeches consider that when
-
-the liver is diseased it is necessary to cure it with just the opposite
-
-remedies, and the opponent of Peneter-Deva being Sebek, [Planet
-
-Mercury] to give quicksilver, emerald, and agate, hazel-wood and
-
-coltsfoot, also parts of the body of a toad and an owl rubbed into
-
-powder.
-
-"But this is not all, for it is necessary to think of the day, the
-
-month, and the hour of the day, for each of these spaces of time are
-
-under the influence of a star which must support or weaken the action
-
-of the medicine. Besides, it is needful to remember what star and what
-
-sign of the Zodiac rules the sick person. Only when the leech considers
-
-all these can he prescribe an infallible remedy."
-
-"And do ye help all sick people in the temple?"
-
-The priest shook his head.
-
-"No. The mind of man, which should take in all these details of which I
-
-have spoken, makes mistakes very easily. And what is worse, envious
-
-spirits, the geniuses of other temples, jealous of their fame,
-
-frequently hinder the leech and destroy the effect of his medicines.
-
-The result, therefore, may be that one patient will return to perfect
-
-health, another simply grows better, while a third remains without
-
-change, though there happen some who become still sicker, or even die
-
-This is as the gods will!"
-
-The prince listened with attention, but confessed in soul that he did
-
-not understand greatly. All at once he recalled the object of his visit
-
-to the temple, and inquired of the great leech unexpectedly,
-
-"Ye were to show me, holy father, the secret of the treasure of the
-
-pharaoh. Was it those things which we have seen?"
-
-"By no means. We know nothing of state affairs. But when the great seer
-
-comes, the holy priest Pentuer, he will remove from thy eyes the
-
-curtain."
-
-Ramses took leave of the leech with increased curiosity as to what they
-
-were to show him.
+Ramzes pożegnał lekarza jeszcze więcej zaciekawiony tym, co miano mu pokazać.

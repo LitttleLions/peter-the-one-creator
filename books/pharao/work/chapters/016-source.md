@@ -1,501 +1,184 @@
-# Kapitel 16: CHAPTER XVI
+# Kapitel 016: Tom I - Rozdział XVI
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part20.xhtml*
 
 <!-- status: pending -->
 
-THUS seemed those moments of approach between Sarah and her princely
+Tak wyglądały, zresztą dość rzadkie, chwile największego zbliżenia między Sarą i jej książęcym kochankiem. Wydawszy bowiem rozkazy Patroklesowi i naczelnemu rządcy dóbr, następca tronu większą część dnia przepędzał za folwarkiem, zazwyczaj na czółnie. I albo płynąc po Nilu chwytał siatką ryby, które tysiącami uwijały się w błogosławionej rzece; albo dostawał się na moczary i ukryty między wysokimi łodygami lotosów strzelał z łuku do dzikiego ptactwa, którego krzykliwe stada krążyły gęsto jak muchy. Lecz i wówczas nie opuszczały go myśli ambitne; więc z polowania zrobił sobie rodzaj kabały czy wróżby. Nieraz, widząc stado żółtych gęsi na wodzie, naciągał łuk i mówił:
 
-lover, which were rare enough withal. For after he had given those
+— Jeżeli trafię, będę kiedyś jako Ramzes Wielki...
 
-commands to-Patrokles and the steward, Ramses spent the greater part of
+Pocisk cicho świsnął i przeszyty ptak trzepocząc skrzydłami wydawał tak bolesne krzyki, że na całym moczarze robił się ruch. Chmury gęsi, kaczek i bocianów porywały się w górę i zatoczywszy wielkie koło nad umierającym towarzyszem, spadały w inne miejsca.
 
-the day away from the villa, generally in a boat or sailing on the
+Gdy ucichło, książę ostrożnie przesuwał łódkę dalej, kierując się chwianiem trzcin i urywanymi głosami ptaków. A gdy między zielonością spostrzegł płat czystej wody i nowe stado, znowu naciągał łuk i mówił:
 
-Nile. He caught with a net fish which swam in thousands in the blessed
+— Jeżeli trafię, będę faraonem. — Jeżeli nie trafię...
 
-river, or he went into swamps, and hidden among lofty lotus stems
+Strzała tym razem uderzyła w wodę i odbiwszy się kilka razy od jej powierzchni znikła między lotosami. A roznamiętniony książę wypuszczał coraz nowe pociski, zabijając ptaki lub tylko płosząc stada. Z folwarku poznawano, gdzie jest, po wrzeszczących chmurach ptactwa, które co chwila zrywało się i krążyło nad jego łodzią.
 
-brought down with arrows wild birds, which circling in noisy flocks
+Gdy nad wieczorem zmęczony wracał do willi, Sara już czekała w progu z miednicą wody, dzbanem lekkiego wina i wieńcami róż. Książę uśmiechał się do niej, głaskał po twarzy, lecz patrząc w jej pełne tkliwości oczy myślał:
 
-were as numerous as flies are. But even at those times ambitious
+„Ciekawym, czy ona potrafiłaby bić egipskich chłopów jak jej zawsze wylęknieni krewni?... O, moja matka ma słuszność, nie ufając Żydom, choć — Sara może być inna...”
 
-thoughts did not desert him; so he turned the hunting into a kind of
+Raz, wróciwszy niespodzianie, zobaczył na dziedzińcu przed domem bardzo liczną gromadę nagich dzieci, wesoło bawiących się. Wszystkie były żółte i na jego widok rozbiegły się z krzykiem jak dzikie gęsi na moczarze. Nim wszedł na taras domu, znikły, że nawet śladu nie zostało.
 
-predicting or soothsaying. More than once, when he saw a flock of
+— Cóż to za drobiazg — spytał Sary — który tak przede mną ucieka?
 
-yellow geese upon the water, he drew his bow and said, "If I hit I
+— To dzieci twoich sług — odparła.
 
-shall be like Ramses the Great."
+— Żydów?
 
-The arrow made a low whistle, and the stricken bird, fluttering its
+— Moich braci...
 
-wings, gave out cries so painful that there was a movement in the whole
+— Bogowie! jakże mnożnym jest ten naród — roześmiał się książę. — A któż jest ten znowu?... — dodał wskazując na człowieka, który lękliwie wyglądał zza muru.
 
-swampy region. Clouds of geese, ducks, and storks rose in the air, and
+— To Aod, syn Baraka, mój krewny... On chce służyć tobie, panie. Czy mogę go przyjąć?...
 
-making a great circle above their dying comrade, dropped down to other
+Książę wzruszył ramionami.
 
-places.
+— Twój jest folwark — odparł — możesz przyjmować wszystkich, kogo zechcesz. Tylko, jeżeli ci ludzie będą się tak mnożyli, niedługo opanują Memfis...
 
-When there was silence again, the prince pushed his boat farther, with
+— Nie cierpisz braci moich?... — szepnęła Sara, z trwogą patrząc na Ramzesa i obsuwając mu się do nóg.
 
-caution guiding himself by the movement of reeds or the broken calls of
+Książę zdziwiony spojrzał na nią.
 
-birds, and when in the green growth he saw a spot of clear water and a
+— Ja o nich nawet nie myślę — odparł dumnie.
 
-new flock, he drew his bow again, and said,
+Drobne te zajścia, które ognistymi kroplami padały na duszę Sary, nie zmieniły dla niej Ramzesa. Zawsze był jednakowo życzliwy i pieścił ją jak zwykle, choć coraz częściej jego oczy biegły na drugą stronę Nilu i opierały się na potężnych pylonach zamku.
 
-"If I hit I shall be pharaoh; if I miss."
+Wnet spostrzegł, że nie tylko on tęskni na swoim dobrowolnym wygnaniu. Pewnego dnia bowiem od tamtego brzegu odbiła strojna barka królewska, przepłynęła Nil w stronę Memfisu, a potem zaczęła krążyć tak blisko folwarku, że Ramzes mógł poznać osoby siedzące w niej.
 
-This time the arrow struck the water, and bounding a number of times
+Jakoż poznał pod purpurowym baldachimem swoją matkę między dworskimi damami, a naprzeciw niej, na niskiej ławce, namiestnika Herhora. Wprawdzie nie patrzyli na folwark, ale książę zgadł, że go widzą.
 
-along its surface, disappeared among lotuses. The excited prince sent
+„Aha! — pomyślał, śmiejąc się. — Moja czcigodna matka i jego dostojność minister radzi by wywabić mnie stąd przed powrotem jego świątobliwości...”
 
-more and more arrows, killing birds or only frightening flocks of them.
+Nadszedł miesiąc Tobi, koniec października i początek listopada. Nil opadł na wysokość półtora człowieka, co dzień odsłaniając nowe płaty czarnej, grząskiej ziemi. Gdziekolwiek ustąpiły wody, zaraz w tym miejscu ukazywała się wąska socha ciągniona przez dwa woły. Za sochą szedł nagi oracz, obok wołów poganiacz z krótkim batem, a za nim siewca, który brnąc po kostki w mule niósł w fartuchu pszenicę i rzucał ją pełnymi garściami.
 
-From the villa they knew where he was by the noisy cloud of birds which
+Zaczynała się dla Egiptu najpiękniejsza pora roku — zima. Ciepło nie przechodziło piętnastu stopni, ziemia szybko pokrywała się szmaragdową zielonością, spomiędzy której wytryskały narcyzy i fiołki. Woń ich coraz częściej odzywała się wśród surowego zapachu ziemi i wody.
 
-rose from time to time and circled above the boat in which he was
+Już kilka razy statek, niosący czcigodną panią Nikotris i namiestnika Herhora, ukazywał się w pobliżu mieszkania Sary. Za każdym razem książę widział matkę swoją wesoło rozmawiającą z ministrem i przekonywał się, że w ostentacyjny sposób nie patrzą w jego stronę, jakby mu chcieli okazać lekceważenie.
 
-sailing.
+— Poczekajcie! — szepnął rozgniewany następca — przekonam was, że i ja się nie nudzę...
 
-When toward evening he returned to the villa wearied, Sarah waited on
+Gdy więc jednego dnia, niedługo przed zachodem słońca, ukazała się na tamtym brzegu złocona łódź królewska, której purpurowy namiot zdobiły w rogach strusie pióra, Ramzes kazał przygotować czółno na dwie osoby i powiedział Sarze, że z nią popłynie.
 
-the threshold with a bronze basin, a pitcher of light wine, and a
+— Jehowo! — zawołała, składając ręce. — Ależ tam jest wasza matka i namiestnik.
 
-garland of roses. The prince smiled at her, stroked her face, but
+— A tu będzie następca tronu. Weź twoją arfę, Saro.
 
-looking into her eyes, which were full of tenderness, he thought,
+— Jeszcze i arfę?... — zapytała drżąc. — A jeżeli wasza czcigodna matka zechce mówić z tobą?... Chyba rzucę się w wodę!...
 
-"Would she beat Egyptian people, like her relatives who look frightened
+— Nie bądź dzieckiem, Saro — odparł śmiejąc się książę. — Jego dostojność namiestnik i moja matka bardzo lubią śpiew. Możesz więc nawet zjednać ich, jeżeli zaśpiewasz jaką ładną pieśń żydowską. Niech tam będzie co o miłości...
 
-all the time? Oh, my mother is right not to trust Jews, though Sarah
+— Nie umiem takiej — odpowiedziała Sara, w której słowa księcia zbudziły otuchę. Może naprawdę jej śpiew podoba się potężnym władcom, a wówczas?...
 
-may be different from others."
+Na dworskim statku spostrzeżono, że następca tronu siada z Sarą do prostej łodzi i nawet sam wiosłuje.
 
-Once, returning unexpectedly, he saw in the space before the villa a
+— Czy widzisz, wasza dostojność — szepnęła królowa do ministra — że on wypływa naprzeciw nam ze swoją Żydówką?...
 
-crowd of naked children playing joyously. All were yellow, and at sight
+— Następca znalazł się tak poprawnie w stosunku do swoich żołnierzy i chłopów i okazał tyle skruchy, usuwając się z granic pałacu, że wasza cześć możesz mu przebaczyć to drobne uchybienie — odparł minister.
 
-of him they vanished with cries like wild geese from a swampy meadow.
+— O, gdyby nie on siedział w tej łupince, kazałabym ją rozbić!... — rzekła z gniewem dostojna pani.
 
-Before he reached the terrace they were gone, not a trace was left.
+— Po co? — spytał minister. — Książę nie byłby potomkiem arcykapłanów i faraonów, gdyby nie szarpał tych wędzideł, jakie, niestety! narzuca mu prawo lub nasze, być może błędne, zwyczaje. W każdym razie dał dowód, że w ważnych wypadkach umie panować nad sobą. Nawet potrafi uznać własne uchybienia, co jest przymiotem rzadkim, a nieocenionym u następcy tronu.
 
-"Who are those little things," asked he, "who rushed away from me?"
+To samo zaś, że książę chce nas drażnić swoją ulubienicą, dowodzi, że boli go niełaska, w jakiej znalazł się, zresztą z najszlachetniejszych pobudek.
 
-"Those are children of my servants," replied Sarah.
+— Ale ta Żydówka!... — szeptała pani, mnąc wachlarz z piór.
 
-"Of Jews?"
+— Już dziś jestem o nią spokojny — mówił minister. — Jest to ładne, ale głupiutkie stworzenie, które ani myśli, ani potrafiłoby wyzyskać wpływu nad księciem. Nie przyjmuje prezentów i nawet nie widuje nikogo, zamknięta w swojej niezbyt kosztownej klatce. Z czasem może nauczyłaby się korzystać ze stanowiska książęcej kochanki i choćby tylko zubożyć skarb następcy o kilkanaście talentów. Nim to jednak nastąpi, Ramzes znudzi się nią...
 
-"Of my brothers."
+— Bodajby przez twoje usta przemawiał Amon wszystkowiedzący.
 
-"Gods, what a numerous people!" laughed Ramses. "And who is that
+— Jestem tego pewny. Książę ani przez chwilę nie szalał za nią, jak się to trafia naszym paniczom, którym jedna zręczna intrygantka może odebrać majątek, zdrowie, a nawet zaprowadzić ich do sali sądowej. Książę bawi się nią jak dojrzały człowiek niewolnicą. Że zaś Sara jest brzemienna...
 
-again?" added he, pointing to a man who looked timidly from beyond the
+— Czy tak?... — zawołała pani. — Skąd wiesz?...
 
-wall.
+— O czym nie wie ani jego dostojność następca, ani nawet Sara?... — uśmiechnął się Herhor. — My wszystko musimy wiedzieć. Ten zresztą sekret nie był trudny do zdobycia. Przy Sarze bowiem znajduje się jej krewna, Tafet, kobieta niezrównanej gadatliwości.
 
-"That is Aod, son of Barak, my relative. He wants to serve thee, lord.
+— Czy już wzywali lekarza?...
 
-May I take him?"
+— Powtarzam, że Sara nic nie wie o tym, zaś poczciwa Tafet z obawy, aby książę nie zniechęcił się do jej wychowanicy, chętnie ukręciłaby głowę temu sekretowi. Ale my nie pozwolimy. Będzie to przecież dziecko książęce.
 
-The prince shrugged his shoulders.
+— A jeżeli syn?... Wiesz, wasza cześć, że mógłby narobić kłopotu — wtrąciła pani.
 
-"This is thy place," answered he; "take those who please thee. But if
+— Wszystko przewidziane — mówił kapłan. — Jeżeli będzie córka, damy jej posag i wychowanie, jakie przystoi panience wysokiego rodu. A jeżeli syn, wówczas zostanie Żydem...
 
-these people increase so, they will soon master Memphis."
+— Ach, mój wnuk Żydem!...
 
-"Thou canst not endure my brethren," whispered Sarah, as she dropped to
+— Nie trać pani do niego zbyt wcześnie serca. Posłowie nasi donoszą, że lud izraelski zaczyna pragnąć króla. Zanim więc dziecko urośnie, żądania ich dojrzeją, a wtedy... my im damy władcę i zaprawdę pięknej krwi!...
 
-his feet frightened.
+— Jesteś jak orzeł, który jednym spojrzeniem obejmuje wschód i zachód!... — odparła królowa, z podziwem patrząc na ministra. — Czuję, że mój wstręt do tej dziewczyny zaczyna słabnąć.
 
-The prince looked at her with astonishment.
+— Najmniejsza kropla krwi faraonów powinna wznosić się nad narodami jak gwiazda nad ziemią — rzekł Herhor.
 
-"I do not even think of them," answered he, proudly.
+W tej chwili czółenko następcy tronu płynęło zaledwie o kilkadziesiąt kroków od dworskiego statku, a małżonka faraona, zasłoniwszy się wachlarzem, przez jego pióra spojrzała na Sarę.
 
-These little happenings, which fell on Sarah's soul like drops of fire,
+— Zaprawdę, ona jest ładna!... — szepnęła.
 
-did not change Ramses with regard to her. He was kind and as fond as he
+— Już drugi raz mówisz to, czcigodna pani.
 
-had been, though his eyes turned more frequently to the other bank of
+— Więc i o tym wiesz?... — uśmiechnęła się jej dostojność.
 
-the river, and rested on the mighty pylons of his father's palace.
+Herhor spuścił oczy.
 
-Soon he discovered that others were yearning because he was in a
+Na czółenku odezwała się arfa i Sara drżącym głosem zaczęła pieśń:
 
-banishment of his own choosing. A certain day from the opposite shore a
+— Jak wielkim jest Pan, jakże wielkim jest Pan, twój Bóg, Izraelu!...
 
-stately royal barge pushed out into the river; it crossed the Nile from
+— Prześliczny głos!... — szepnęła królowa.
 
-Memphis, and then circled near the prince's villa, so near that Ramses
+Arcykapłan słuchał z uwagą.
 
-could recognize the persons in it. In fact he recognized beneath the
+— Dni Jego nie mają początku — śpiewała Sara — a dom Jego nie ma granic. Odwieczne niebiosa pod Jego okiem zmieniają się jak szaty, które człowiek wdziewa na siebie i odrzuca. Gwiazdy zapalają się i gasną, jak iskry z twardego drzewa, a ziemia jest jak cegła, której przechodzień raz dotknął nogą, idąc wciąż dalej.
 
-purple baldachin his mother among court ladies, and opposite, on a low
+Jakże wielkim jest twój Pan, Izraelu. Nie masz takiego, który by Mu powiedział: „Zrób to!”, ani łona, które by Go wydało. On uczynił niezmierzone otchłanie, ponad którymi unasza się, kędy chce. On z ciemności wydobywa światło, a z prochu ziemi — twory głos wydające.
 
-stool, the vice-pharaoh, Herhor. They did not look toward the villa, it
+On srogie lwy ma za szarańczę, ogromnego słonia waży za nic, a wieloryb jest przy Nim jak niemowlę.
 
-is true, but the prince divined that they saw him.
+Jego trójbarwny łuk dzieli niebiosa na dwie części i opiera się na krańcach ziemi. Gdzież jest brama, która by Mu dorównała wielkością? Na grzmot Jego wozu narody truchleją i nie masz pod słońcem, co ostałoby się przed Jego migotliwymi strzałami.
 
-"Ha! ha!" thought he. "My worthy mother and his worthiness the minister
+Jego oddechem jest wiatr północny, który otrzeźwia zemdlałe drzewa, a Jego dmuchnięciem jest chamzim, który pali ziemię.
 
-would be glad to entice me hence before his holiness returns to
+Kiedy wyciągnie rękę swoją nad wody, woda staje się kamieniem. On przelewa morza na nowe miejsce jak niewiasta kwas do dzieży. On rozdziera ziemię niby zbutwiałe płótno, a łyse szczyty gór nakrywa srebrnym śniegiem.
 
-Memphis."
+On w pszenicznym ziarnie chowa sto innych ziarn i sprawia, że lęgną się ptaki. On z sennej poczwarki wydobywa złotego motyla, a ludzkim ciałom w grobach każe oczekiwać na zmartwychwstanie...
 
-The mouth Tobi (the end of October and beginning of November) came. The
+Zasłuchani w śpiew wioślarze podnieśli wiosła i purpurowy statek królewski z wolna płynął sam z biegiem rzeki. Nagle Herhor podniósł się i zawołał:
 
-Nile had fallen a distance equaling the stature of a man, and one-half
+— Skręcić do Memfis!...
 
-in addition, uncovering daily new strips of black clammy earth.
+Wiosła uderzyły, statek zawrócił w jednym miejscu i z szumem zaczął wdzierać się w górę wody. Za nim goniła stopniowo milknąca pieśń Sary:
 
-Wherever the water withdrew a narrow plough appeared drawn by two oxen.
+— On widzi ruch serca mszycy i ukryte ścieżki, po których chadza najsamotniejsza myśl ludzka. Lecz nie masz takiego, który by Jemu spojrzał w serce i odgadł Jego zamiary.
 
-Behind the plough went a naked ploughman, at the side of he oxen a
+Przed blaskiem Jego szat wielkie duchy zasłaniają swoje oblicza. Przed Jego spojrzeniem bogowie potężnych miast i narodów skręcają się i schną jako liść zwiędły.
 
-driver with a short club, and behind him a sower, who, wading to his
+On jest mocą, On jest życiem, On jest mądrością, On twój Pan, twój Bóg, Izraelu!...
 
-ankles in earth, carried wheat in an apron, and scattered it almost in
+— Dlaczego wasza dostojność kazałeś odsunąć nasz statek? — zapytała czcigodna Nikotris.
 
-handfuls.
+— Czy wiesz, pani, co to jest za pieśń?... — odparł Herhor w języku zrozumiałym tylko dla kapłanów. — Przecież ta głupia dziewczyna na środku Nilu śpiewa modlitwę, którą wolno odmawiać tylko w najtajemniejszym przybytku naszych świątyń...
 
-The most beautiful season of the year was beginning in Egypt, the
+— Więc to jest bluźnierstwo?...
 
-winter. Heat did not go beyond 70 Fahrenheit; the earth was covered
+— Szczęście, że na tym statku znajduje się tylko jeden kapłan — mówił minister. — Ja tego nie słyszałem, a choćbym słyszał, zapomnę. Lękam się jednak, czy bogowie nie położą ręki na tej dziewczynie.
 
-quickly with emerald green, from out which sprang narcissus and
+— Ale skądże ona zna tą straszną modlitwę?... Przecież Ramzes jej nie mógł nauczyć?...
 
-violets. The odor of them came forth oftener and oftener amid the odor
+— Książę nic nie winien. Ale nie zapominaj, pani, że Żydzi niejeden taki skarb wynieśli z naszego Egiptu. Dlatego między wszystkimi narodami ziemi traktujemy ich jak świętokradców.
 
-of earth and water.
+Królowa wzięła za rękę arcykapłana.
 
-A number of times the barge bearing the worthy lady Nikotris and the
+— Ale memu synowi — szeptała, patrząc mu w oczy — nie stanie się nic złego?...
 
-vice-pharaoh Herhor appeared near Sarah's dwelling. Each time the
+— Ręczę pani, że nikomu nie stanie się nic złego, skoro ja nie słyszałem i nie wiem... Ale księcia trzeba rozdzielić z tą dziewczyną...
 
-prince saw his mother conversing with the minister joyously, and
+— Łagodnie rozdzielić!... prawda, namiestniku? — pytała matka.
 
-convinced himself that they refrained ostentatiously from looking
+— Jak najłagodniej, jak najnieznaczniej, ale trzeba... Zdawało mi się — mówił arcykapłan jakby do siebie — że wszystko przewidziałem... Wszystko, z wyjątkiem procesu o bluźnierstwo, który przy tej dziwnej kobiecie wisi nad następcą tronu!...
 
-toward him, as if to show indifference.
+Herhor zamyślił się i dodał:
 
-"Wait!" whispered he, in anger, "I will show you that life does not
-
-annoy me, either."
-
-So when one day, shortly before sunset, the queen's gilded barge
-
-appeared with a purple tent having ostrich plumes on each of its four
-
-comers, Ramses gave command to prepare a boat for two persons, and told
-
-Sarah that he would sail with her.
-
-"O Jehovah!" cried she, clasping her hands. "But thy mother is there,
-
-and the viceroy!"
-
-"But in this boat will be the heir to the throne. Take thy harp,
-
-Sarah."
-
-"And the harp, too?" cried Sarah. "But if her worthiness were to speak
-
-to thee! I should throw myself into the river."
-
-"Be not a child," replied Ramses, laughing. "My mother and his
-
-worthiness love songs immensely. Thou mayest even win their favor if
-
-Thou sing some splendid song of the Hebrews. Let there be love in it."
-
-"I know no song of that kind," answered Sarah, in whom the prince's
-
-words had roused hope of some sort. Her song might please those
-
-powerful rulers, and then what?
-
-On the royal barge they saw that the heir to the throne was sitting in
-
-a simple boat and rowing.
-
-"Dost Thou see, worthiness," whispered the queen to the minister, "that
-
-he is rowing toward us with his Jewess?"
-
-"The heir has borne himself with such correctness toward his warriors
-
-and his people, and has shown so much compunction in withdrawing from
-
-the limits of the palace, that his mother may forgive small errors,"
-
-answered Herhor.
-
-"Oh, if he were not sitting in that boat, I would give command to break
-
-it!" said the worthy lady.
-
-"For what reason?" asked the minister. "The prince would be no
-
-descendant of high priests and pharaohs if he did not break through
-
-restraints which the law, alas, puts on him, or perhaps our mistaken
-
-customs. He has given proof in every case that in serious junctures he
-
-is able to command himself. He is even able to recognize his errors, a
-
-rare power and priceless in an heir to the throne of Egypt. The very
-
-fact that the prince wishes to rouse our curiosity with his favorite
-
-shows that the position in which he finds himself pains him; besides,
-
-his reasons are among the noblest."
-
-"But the Jewess!" whispered the lady, crushing her feather fan between
-
-her fingers.
-
-"At present I am quite at rest regarding her," continued Herhor. "She
-
-is shapely, but dull; she never thinks of using influence on the
-
-prince, nor could she do so. Shut up in a cage which is not over-
-
-costly, she takes no gifts, and will not even see any one. In time,
-
-perhaps, she might learn to make use of her position even to the extent
-
-of decreasing the heir's treasury by some talents. Before that day
-
-comes, however, Ramses will be tired of her."
-
-"May the all-knowing Amon speak through thy mouth," said the lady.
-
-"The prince, I am sure of this, has not grown wild over a favorite, as
-
-happens often to young lords in Egypt. One keen, intriguing woman may
-
-strip a man of property and health, nay, bring him to the hall of
-
-judgment. The prince is amused with her as a grown-up man might be
-
-amused with a slave girl. And Sarah is pregnant."
-
-"Is that true?" cried the queen. "How dost Thou know?"
-
-"It is not known to his worthiness the heir, or even to Sarah," said
-
-Herhor, smiling. "We must know everything. This secret, however, was
-
-not difficult to get at. With Sarah is her relative Tafet, an
-
-incomparable gossip."
-
-"Have they summoned a physician already?"
-
-"Sarah knows nothing of this, I repeat, but the worthy Tafet, from fear
-
-lest the prince might grow indifferent to her foster child, would be
-
-glad to twist the neck of this secret. But we do not let her. That will
-
-be the prince's child also."
-
-"But if it is a son? Thou knowest that he may make trouble," put in the
-
-lady.
-
-"All is foreseen," replied Herhor. "If the child is a daughter, we will
-
-give her a dowry and the education proper for young ladies of high
-
-station. If a son, he will become a Jew."
-
-"Oh, my grandson, a Jew!"
-
-"Do not take thy heart too soon from him. Our envoys declare that the
-
-people of Israel are beginning to desire a king. Before the child
-
-matures their desires will ripen, and then we may give them a ruler,
-
-and of good blood indeed."
-
-"Thou art like an eagle which takes in East and West at a glance," said
-
-the queen, eying the minister with amazement. "I feel that my repulsion
-
-for this maiden begins to grow weaker."
-
-"The least drop of the pharaoh's blood should raise itself above
-
-nations, like a star above the earth," added Herhor.
-
-At that moment the heir's boat moved at a few tens of paces from the
-
-royal barge, and the queen, shielded by her fan, looked at Sarah
-
-through its feathers.
-
-"In truth the girl is shapely," whispered Queen Nikotris.
-
-"Thou art saying those words for the second time, worthy lady."
-
-"So Thou hast noted that?" laughed her worthiness.
-
-Herhor dropped his eyes.
-
-In the boat was heard a harp, and Sarah began a hymn, with trembling
-
-voice,
-
-"How great is Jehovah, O Israel! how great is Jehovah, thy God."
-
-"A most beautiful voice," whispered the queen.
-
-The high priest listened with attention.
-
-"His days have no beginning," sang Sarah, "and His dwelling has no
-
-limit. The eternal heavens change beneath His eye, like a garment which
-
-a man puts on his body and then casts away from him. The stars flash
-
-up, and are quenched, like sparks from fuel, and the earth is like a
-
-brick which a traveler touches once with his foot while going ever
-
-farther.
-
-"How great is thy Lord, O Israel! There is no being who can say to Him,
-
-'Do this!' there is no womb which could have given birth to Him. He
-
-created the bottomless deeps above which He moves when He wishes. He
-
-brings light out of darkness, and from the dust of the earth He creates
-
-living things which have voices.
-
-"For Him savage lions are as locusts, the immense elephant He looks on
-
-as nothing, before Him the whale is as weak as an infant.
-
-"His tricolored bow divides the heavens into two parts and rests on the
-
-ends of the earth plain. Where are the gates which could equal Him in
-
-loftiness? Nations are in terror at the thunder of His chariot, and
-
-there is naught beneath the sun which could stand His flashing arrows.
-
-"His breath is the north wind at midnight, which freshens trees when
-
-withering, His anger is like the chamsin which burns what it touches.
-
-"When He stretches His hands above the waters, they are petrified. He
-
-pours the sea into new places, as a woman pours out leaven. He rends
-
-the earth as if it were old linen, and clothes in silvery snow the
-
-naked tops of mountains.
-
-"In a grain of wheat He hides one hundred other grains, and causes
-
-birds to incubate. From the drowsy chrysalis He leads to life a golden
-
-butterfly, and makes men's bodies wait in tombs until the day of
-
-resurrection."
-
-The rowers, absorbed in the song, raised their oars, and the purple
-
-barge dropped slowly down with the sweep of the river. All at once
-
-Herhor rose, and commanded,
-
-"Turn now toward Memphis!"
-
-The oars fell; the barge turned where it stood, and raised the water
-
-with noise. After it followed Sarah's hymn decreasing gradually,
-
-"He sees the movement of hearts, the silent hidden ways on which pass
-
-the innermost thoughts in men's breasts. But no man can gaze into His
-
-heart and spy out His purposes.
-
-"Before the gleam of His garments mighty spirits hide their faces.
-
-Before His glance the gods of great cities and nations turn aside and
-
-shrink like withering leaves.
-
-"He is power, He is life, He is wisdom. He is thy Lord, thy God, O
-
-Israel!"
-
-"Why command, worthiness, to turn away our barge?" asked the worthy
-
-Nikotris.
-
-"Lady, dost Thou know that hymn?" asked Herhor, in a language
-
-understood by priests alone. "That stupid girl is singing in the middle
-
-of the Nile a prayer permitted only in the most secret recesses of our
-
-temples."
-
-"Is that blasphemy then?"
-
-"There is no priest in the barge except me," replied the minister. "I
-
-have not heard the hymn, and if I had I should forget it. Still I am
-
-afraid that the gods will lay hands on that girl yet."
-
-"But whence does she know that awful prayer, for Ramses could not have
-
-taught it to her?"
-
-"The prince is not to blame. But forget not, lady, that the Jews have
-
-taken from our Egypt many such treasures. That is why, among all
-
-nations on earth, we consider them alone as sacrilegious."
-
-The queen seized the hand of the high priest.
-
-"But my son will no evil strike him?" whispered she, looking into his
-
-eyes.
-
-"I say, worthiness, that no evil will happen to any one. I heard not
-
-the hymn, and I know nothing. The prince must be separated from that
-
-Jewess."
-
-"But separated mildly; is that not the way?" asked the mother.
-
-"In the mildest way possible and the simplest, but separation is
-
-imperative. It seemed to me," continued the high priest, as if to
-
-himself, "that I foresaw everything. Everything save an action for
-
-blasphemy, which threatens the heir while he is with that strange
-
-woman."
-
-Herhor thought awhile, and added,
-
-"Yes, worthy lady! It is possible to laugh at many of our prejudices;
-
-still the son of a pharaoh should not be connected with a Jewess."
+— Tak, czcigodna pani! Można śmiać się z wielu naszych przesądów; niemniej prawdą jest, że syn faraona nie powinien łączyć się z Żydówką.

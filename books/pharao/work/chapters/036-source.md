@@ -1,559 +1,206 @@
-# Kapitel 36: CHAPTER XXXVI
+# Kapitel 036: Tom II - Rozdział XI
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part42.xhtml*
 
 <!-- status: pending -->
 
-AFTER his reception by the viceroy, Sargon delayed at Pi-Bast, waiting
+Po przyjęciu u namiestnika Sargon zatrzymał się jeszcze w Pi-Bast, czekając na listy faraona z Memfisu, a jednocześnie między oficerami i szlachtą zaczęły na nowo krążyć dziwaczne pogłoski.
 
-for letters from the pharaoh at Memphis. Meanwhile strange reports
+Fenicjanie opowiadali, pod największym rozumie się sekretem, że kapłani, nie wiadomo z jakiego powodu, nie tylko darowali Asyrii zaległe daniny, nie tylko uwolnili ją raz na zawsze od ich płacenia, ale nadto, ażeby ułatwić Asyryjczykom jakąś wojnę północną, zawarli z nimi traktat pokojowy na długie lata.
 
-began to circulate among officers and nobles.
+— Faraon — mówili Fenicjanie — aż mocniej zachorował dowiedziawszy się o ustępstwach robionych barbarzyńcom. Książę Ramzes martwi się i chodzi smutny, lecz obaj muszą ulegać kapłanom, nie będąc pewni uczuć szlachty i wojska.
 
-The Phoenicians told, of course as the greatest secret, that the
+To najwięcej oburzało egipską arystokrację.
 
-priests, it was unknown for what reason, not only forgave the Assyrians
+— Jak to — szeptali między sobą zadłużeni magnaci — więc dynastia już nam nie ufa?... Więc kapłani uwzięli się, ażeby zhańbić i zrujnować Egipt?... Bo przecie jasne jest, że jeżeli Asyria ma wojnę gdzieś na dalekiej północy, to właśnie teraz trzeba ją napaść i zdobytymi łupami podźwignąć zubożały skarb królewski i arystokrację...
 
-the unpaid tribute, not only freed them once and for all time from
+Ten i ów z młodych panów ośmielał się zapytywać następcy: co myśli o asyryjskich barbarzyńcach? Książę milczał, ale błysk jego oczu i zacięte usta dostatecznie wyrażały uczucia.
 
-paying it, but, besides, to facilitate some northern war for the
+— Oczywiście — szeptali panowie w dalszym ciągu — że dynastia jest opętana przez kapłanów, nie ufa szlachcie, Egiptowi zaś grożą wielkie nieszczęścia...
 
-Assyrians, had concluded a treaty of peace for many years with them.
+Ciche gniewy prędko zamieniły się w ciche narady mające nawet pozór spisku. Ale choć bardzo wiele osób brało w tym udział, pewny siebie czy zaślepiony stan kapłański nic o nich nie wiedział, a Sargon, choć przeczuwał nienawiść, nie przywiązywał do niej wagi.
 
-"The pharaoh," said the Phoenicians, "on learning of these concessions
+Poznał on, że książę Ramzes jest mu niechętny, ale przypisywał to wypadkowi w cyrku, a więcej — zazdrości o Kamę. Ufny jednak w swoją poselską nietykalność, pił, ucztował i prawie co wieczór wymykał się do fenickiej kapłanki, która coraz łaskawiej przyjmowała jego zaloty i dary.
 
-to Assyria fell very ill. Prince Ramses is troubled, and goes around
+Taki był nastrój kół najwyższych, gdy pewnej nocy wpadł do mieszkania Ramzesa święty Mentezufis i oświadczył, że natychmiast musi zobaczyć się z księciem.
 
-grief-stricken. But both must give way to the priests, for they are not
+Dworzanie odpowiedzieli, że u księcia znajduje się jedna z jego kobiet, że więc nie śmią niepokoić swego pana. Lecz gdy Mentezufis coraz natarczywiej nalegał, wywołali następcę.
 
-sure of the nobles and the army."
+Książę po chwili ukazał się, nawet nierozgniewany.
 
-This enraged the Egyptian aristocracy.
+— Cóż to — zapytał kapłana — czy mamy wojnę, że wasza cześć trudzisz się do mnie o tak późnej porze?
 
-"Is it possible?" whispered magnates who were in debt. "Does the
+Mentezufis pilnie przypatrzył się Ramzesowi i głęboko odetchnął.
 
-dynasty not trust us? Have the priests undertaken to disgrace and ruin
+— Książę nie wychodziłeś cały wieczór? — zapytał.
 
-Egypt? For it is clear that if Assyria has a war in the distant north
+— Ani na krok.
 
-somewhere, now is just the time to attack her and fill the reduced
+— Więc mogę dać na to kapłańskie przyrzeczenie?
 
-treasury of the pharaoh and the aristocracy with plunder."
+Następca zdziwił się.
 
-One and another of the young lords made bold to ask the prince what he
+— Zdaje mi się — odparł dumnie — że twoje słowo już nie jest potrzebne, gdy ja dałem moje. Cóż to znaczy?...
 
-thought of Assyrians. Ramses was silent, but the gleam in his eyes and
+Wyszli do osobnego pokoju.
 
-his fixed lips expressed his feelings sufficiently.
+— Czy wiesz, panie — mówił wzburzony kapłan — co zdarzyło się może przed godziną. Jego dostojność Sargona jacyś młodzieńcy napadli i obili kijami...
 
-"It is clear," whispered the lords, later on, "that this dynasty is
+— Jacy?... gdzie?...
 
-bound by the priesthood. It yields not its confidence to nobles; great
+— Pod willą fenickiej kapłanki, nazwiskiem Kamy — ciągnął Mentezufis, pilnie śledząc fizjognomię następcy.
 
-misfortunes are threatening Egypt."
+— Odważne chłopaki! — odparł książę, wzruszając ramionami. — Napadać takiego siłacza!... Przypuszczam, że musiała tam pęknąć niejedna kość.
 
-Silent anger was soon turned into secret councils, which had even the
+— Ale napadać posła... Uważ, dostojny panie, posła, którego osłania majestat Asyrii i Egiptu... — mówił kapłan.
 
-semblance of conspiracy. Though many persons took part in this action,
+— Ho! ho!... — roześmiał się książę. — Więc król Assar wysyła swoich posłów nawet do fenickich tancerek?...
 
-the priests were self-confident, or knew nothing of this in their
+Mentezufis stropił się. Nagle uderzył się w czoło i zawołał również ze śmiechem:
 
-blindness; and Sargon, though he felt the existing hatred, did not
+— Patrz, książę, jaki ze mnie prostak, nieoswojony z politycznymi ceremoniami. Wszakże ja zapomniałem, że Sargon włóczący się po nocach około domu podejrzanej kobiety nie jest posłem, ale zwyczajnym człowiekiem!...
 
-attach to it importance. He learned that Prince Ramses disliked him,
+Lecz po chwili dodał:
 
-but that he attributed to the event in the arena, and to his jealousy
+— W każdym razie niedobrze się stało... Sargon może nabrać do nas niechęci...
 
-in the affair of the priestess. Confident, however, in his position as
+— Kapłanie!... kapłanie!... — zawołał książę, kiwając głową. — Ty zapominasz daleko ważniejszej rzeczy, iż Egipt nie potrzebuje ani lękać się, ani nawet dbać o dobre lub złe usposobienie dla niego nie tylko Sargona, ale nawet króla Assara...
 
-ambassador, he drank, feasted, and slipped away almost every evening to
+Mentezufis był tak zmieszany trafnością uwag królewskiego młodzieńca, że zamiast odpowiedzieć kłaniał się mrucząc:
 
-Kama, who received with increasing favor his courting and his presents.
+— Bogowie obdarzyli cię, książę, mądrością arcykapłanów... niechaj imię ich będzie błogosławione!... Już chciałem wydać rozkazy, aby poszukano i osądzono tych młodych awanturników; lecz teraz wolę zasięgnąć twojej rady, bo jesteś mędrcem nad mędrce.
 
-Such was the condition of mind in the higher circles, when on a certain
+Powiedz zatem, panie, co mamy począć z Sargonem i tymi zuchwalcami?...
 
-night the holy Mentezufis rushed to the prince's dwelling, and declared
+— Przede wszystkim zaczekać do jutra — odparł następca. — Jako kapłan, wiesz najlepiej, że boski sen często przynosi dobre rady.
 
-that he must see the viceroy immediately.
+— A jeżeli i do jutra nic nie obmyślę? — pytał Mentezufis.
 
-The courtiers answered that one of his women was visiting their lord,
+— W każdym razie ja odwiedzę Sargona i postaram się zatrzeć w jego pamięci ten drobny wypadek.
 
-and that they would not disturb him. But when Mentezufis insisted with
+Kapłan pożegnał Ramzesa z oznakami czci. Zaś wracając do siebie, myślał:
 
-increasing emphasis, they called out Ramses.
+„Serce dam sobie wydrzeć z piersi, że do tego nie należał książę: ani sam bił, ani namawiał, a nawet nie wiedział o wypadku. Kto tak chłodno i trafnie sądzi sprawę, nie może być współwinnym. A w takim razie mogę zacząć śledztwo i jeżeli nie ułagodzimy kudłatego barbarzyńcy, oddam zawadiaków pod sąd. Piękny traktat przyjaźni między dwoma państwami, który zaczyna się sponiewieraniem posła!...”
 
-The prince appeared after a time, and was not even angry.
+Nazajutrz wspaniały Sargon do południa leżał na wojłokowym posłaniu, co wreszcie zdarzało mu się dosyć często, bo po każdej pijatyce. Obok niego, na niskiej sofie siedział pobożny Istubar, z oczyma utkwionymi w sufit, szepcząc modlitwy.
 
-"What is this?" asked he of the priest. "Are we at war, that Thou
+— Istubarze — westchnął dostojnik — czy jesteś pewny, że nikt z naszego dworu nie wie o moim nieszczęściu?
 
-takest the trouble to visit me at an hour like the present?"
+— Któż może wiedzieć, jeżeli cię nikt nie widział?
 
-Mentezufis looked diligently at the prince, and sighed deeply.
+— Ale Egipcjanie!... — jęknął Sargon.
 
-"Has the prince not gone out all the evening?" inquired he.
+— Z Egipcjan wie o tym Mentezufis i książę, no i ci szaleńcy, którzy zapewne długo będą pamiętali twoje pięści.
 
-"Not a step."
+— Może trochę... może!... Ale zdaje mi się, że był między nimi następca i ma nos rozbity, jeżeli nie złamany...
 
-"Can I give a priest's word for this?"
+— Następca ma cały nos i on tam nie był, zapewniam cię.
 
-The heir was astonished.
+— W takim razie — wzdychał Sargon — powinien książę kilku z nich wbić na pal. Przecieżem ja poseł!... ciało moje jest święte...
 
-"It seems to me," answered he, haughtily, "that thy word is not needed,
+— A ja mówię ci — radził Istubar — wyrzuć złość z serca twego i nawet nie skarż się. Bo gdy hultaje pójdą pod sąd, cały świat dowie się, że poseł najdostojniejszego króla Assara wdaje się z Fenicjanami, a co gorsza, odwiedza ich samotny wśród nocy. Co zaś odpowiesz, gdy twój śmiertelny wróg, kanclerz Lik-Bagus zapyta cię: „Sargonie, z jakimiż to widywałeś się Fenicjanami i o czym mówiłeś z nimi pod ich świątynią wśród nocy?...”
 
-since I have given mine. What does this mean?"
+Sargon wzdychał, jeżeli można wzdychaniem nazwać odgłosy podobne do mruczenia lwa.
 
-They withdrew to a special chamber.
+Wtem wpadł jeden z oficerów asyryjskich. Uklęknął, uderzył czołem o podłogę i rzekł do Sargona:
 
-"Dost Thou know, lord," asked the excited priest, "what has happened,
+— Światło źrenic pana naszego!... Przed gankiem pełno magnatów i dostojników egipskich, a na ich czele sam następca tronu... Chce tu wejść, widocznie z zamiarem złożenia ci hołdu...
 
-perhaps an hour since? Some young men attacked the worthy Sargon and
+Lecz, nim Sargon zdążył wydać polecenie, we drzwiach komnaty ukazał się książę. Odepchnął olbrzymiego Asyryjczyka, który trzymał wartę, i szybko zbliżył się do wojłoków, kędy zmieszany poseł, szeroko otworzywszy oczy, nie wiedział, co robić ze sobą: uciec nago do innej izby czy schować się pod pościel?
 
-clubbed him."
+Na progu stało kilku oficerów asyryjskich, zdumionych wtargnięciem następcy wbrew wszelkiej etykiecie. Ale Istubar dał im znak i znikli za kotarą.
 
-"Who were they? Where did this happen?"
+Książę był sam; zostawił świtę na dziedzińcu.
 
-"At the villa of a Phoenician priestess named Kama," answered
+— Bądź pozdrowiony — rzekł — pośle wielkiego króla i gościu faraona. Przyszedłem odwiedzić cię i spytać: czy nie masz jakich potrzeb? Jeżeli zaś pozwoli ci czas i ochota, chcę, ażebyś w moim towarzystwie, na koniu ze stajni mego ojca, przejechał się po mieście, otoczony naszą świtą. Jak przystało na posła potężnego Assara, który oby żył wiecznie!
 
-Mentezufis, watching the face of the heir sharply.
+Sargon słuchał, leżąc i nie rozumiejąc ani słowa. Gdy zaś Istubar przetłumaczył mu mowę księcia, poseł wpadł w taki zachwyt, że zaczął bić głową o wojłoki powtarzając wyrazy: „Assar i Ramzes”.
 
-"Daring fellows," said the prince, shrugging his shoulders, "to attack
+Kiedy uspokoił się i przeprosił księcia za nędzny stan, w jakim go znalazł gość tak znakomity i dostojny, dodał:
 
-such a stalwart man! I suppose that more than one bone was broken in
+— Nie miej za złe, o panie, że ziemny robak i podnóżek tronu, jakim ja jestem, w tak niezwykły sposób okazuje radość z twego przybycia. Ale ucieszyłem się podwójnie. Raz, że spadł na mnie nadziemski zaszczyt, po wtóre — żem myślał w moim głupim i nikczemnym sercu, iż to ty, panie, byłeś sprawcą mojej wczorajszej niedoli. Zdawało mi się, że między kijami, które spadały na moje plecy, czuję twój kij, zaprawdę tęgo bijący!...
 
-that struggle."
+Spokojny Istubar, wyraz po wyrazie, przetłumaczył to księciu. Na co następca z iście królewską godnością odparł:
 
-"But to attack an ambassador! Consider, worthy lord, an ambassador
+— Omyliłeś się, Sargonie. Gdyby nie to, żeś sam poznał swój błąd, kazałbym ci natychmiast wyliczyć pięćdziesiąt kijów, ażebyś zapamiętał, że tacy jak ja nie napadają jednego człowieka gromadą ani po nocy.
 
-protected by the majesty of Assyria and Egypt," said the priest.
+Zanim światły Istubar dokończył tłumaczenia tej odpowiedzi, już Sargon przypełznął do księcia i objął jego nogi, wołając:
 
-"Ho! ho!" laughed the prince. "Then King Assar sends ambassadors even
+— Wielki pan!... wielki król!... Chwała Egiptowi, że posiada takiego władcę.
 
-to Phoenician dancers?"
+A na to znowu książę:
 
-Mentezufis was confused. All at once he tapped his forehead, and cried
+— Więcej powiem ci, Sargonie. Jeżeli zostałeś napadnięty wczoraj, zapewniam cię, że nie uczynił tego żaden z moich dworzan. Sądzę bowiem, że taki, jakim jesteś, mocarz musiał niejednemu rozbić czaszkę. Zaś moi bliscy są zdrowi.
 
-out also, with laughter,
+— Prawdę rzekł i mądrze powiedział! — szepnął Sargon do Istubara.
 
-"See, prince, what a simple man I am, unfamiliar with ceremonies. I
+— Lecz jakkolwiek — ciągnął książę — szpetny czyn stał się nie z mojej i mego dworu winy, jednak czuję się w obowiązku osłabić twój żal do miasta, w którym cię tak niegodnie przyjęto. Dlatego osobiście nawiedziłem twoją sypialnię, dlatego otwieram ci mój dom o każdej porze, ile razy zechcesz mnie odwiedzić. Dlatego... proszę cię, abyś przyjął ode mnie ten mały dar...
 
-forgot that Sargon, strolling about in the night near the house of a
+To mówiąc, książę sięgnął za tunikę i wydobył łańcuch wysadzany rubinami i szafirami.
 
-suspected woman, is not an ambassador, but an ordinary person."
+Olbrzymi Sargon aż zapłakał, co wzruszyło księcia, lecz nie rozczuliło obojętności Istubara. Kapłan wiedział, że Sargon ma łzy, radość i gniew na każde zawołanie, jako poseł mądrego króla.
 
-After a while he added,
+Namiestnik posiedział jeszcze chwilę i pożegnał posła. Zaś wychodząc pomyślał, że jednak Asyryjczycy, pomimo barbarzyństwa, nie są złymi ludźmi, skoro umieją odczuć wspaniałomyślność.
 
-"In every case something evil has happened. Sargon may conceive a
+Sargon zaś był tak podniecony, że kazał natychmiast przynieść wina i pił, pił od południa aż do wieczora.
 
-dislike for us."
+Dobrze po zachodzie słońca kapłan Istubar wyszedł na chwilę z komnaty Sargona i — niebawem wrócił, ale ukrytymi drzwiami. Za nim ukazali się dwaj ludzie w ciemnych płaszczach. Gdy zaś odsunęli z twarzy kaptury, Sargon poznał w jednym arcykapłana Mefresa, w drugim proroka Mentezufisa.
 
-"Priest! O priest!" cried Ramses, shaking his head. "Thou hast
+— Przynosimy ci, dostojny pełnomocniku, dobrą nowinę — rzekł Mefres.
 
-forgotten this, a thing of much more importance, that Egypt has no need
+— Obym mógł wam udzielić podobnej! — zawołał Sargon. — Siadajcie, święci i dostojni mężowie. A choć mam zaczerwienione oczy, mówcie do mnie, jak gdybym był zupełnie trzeźwy... Bo ja i po pijanemu mam rozum, może nawet lepszy... Prawda, Istubarze?...
 
-to fear or even care for the good or bad feeling toward her, not merely
+— Mówcie — poparł go Chaldejczyk.
 
-of Sargon, but King Assar."
+— Dziś — zabrał głos Mentezufis — otrzymałem list od najdostojniejszego ministra Herhora. Pisze nam, że jego świątobliwość faraon (oby żył wiecznie!) oczekuje na wasze poselstwo w swym cudownym pałacu pod Memfisem i że jego świątobliwość (oby żył wiecznie!) jest dobrze usposobiony do zawarcia z wami traktatu.
 
-Mentezufis was so confused by the appositeness of the remark, that,
+Sargon chwiał się na wojłokowych materacach, ale oczy miał prawie przytomne.
 
-instead of an answer, he bowed, muttering,
+— Pojadę — odparł — do jego świątobliwości faraona (oby żył wiecznie!), położę w imieniu pana mego pieczęć na traktacie, byle był spisany na cegłach, klinowym pismem... bo ja waszego nie rozumiem... Będę leżał choćby cały dzień na brzuchu przed jego świątobliwością (oby żył wiecznie!) i traktat podpiszę... Ale jak wy go tam wykonacie... cha!... cha!... cha!... tego już nie wiem... — zakończył grubym śmiechem.
 
-"Prince, the gods have given thee the wisdom of high priests, may their
+— Jak śmiesz, sługo wielkiego Assara, wątpić o dobrej woli i wierze naszego władcy?... — zawołał Mentezufis.
 
-names be blessed! I wanted to issue an order to search for these
+Sargon nieco wytrzeźwiał.
 
-insolents, but now I prefer to follow thy advice, for Thou art a sage
+— Ja nie mówię o jego świątobliwości — odparł — ale o następcy tronu...
 
-above sages. Tell me, therefore, lord, what I am to do with Sargon and
+— Jest to pełen mądrości młodzian, który bez wahania wykona wolę ojca i najwyższej rady kapłańskiej — rzekł Mefres.
 
-those turbulent young people."
+— Cha!... cha!... cha!... — zaśmiał się znowu pijany barbarzyńca. — Wasz książę... o bogowie, powykręcajcie mi stawy członków, jeżeli mówię nieprawdę, że chciałbym, ażeby Asyria miała takiego następcę...
 
-"First of all, wait till morning. As a priest, Thou knowest best that
+Nasz asyryjski następca to mędrzec, to kapłan... On, zanim wybierze się na wojnę, zagląda naprzód w gwiazdy na niebie, później kurom pod ogony... Zaś wasz zobaczyłby: ile ma wojska? dowiedziałby się: gdzie obozuje nieprzyjaciel? I spadłby mu na kark jak orzeł na barana. Oto wódz!... oto król!... On nie z tych, którzy słuchają rady kapłanów... On radzić się będzie własnego miecza, a wy musicie spełniać jego rozkazy...
 
-divine sleep often brings good counsel."
+I dlatego, choć podpiszę z wami traktat, opowiem memu panu, że poza chorym królem i mądrymi kapłanami kryje się tu młody następca tronu, lew i byk w jednej osobie... który ma miody w ustach, a pioruny w sercu...
 
-"But if before morning I think out nothing?"
+— I powiesz nieprawdę — wtrącił Mentezufis. — Bo nasz książę, aczkolwiek popędliwy i trochę hulaka, jak zwyczajnie młody, umie jednak uszanować i radę mędrców, i najwyższe urzędy w kraju.
 
-"I will visit Sargon in every case, and try to efface that little
+Sargon pokiwał głową.
 
-accident from his memory."
+— Oj, wy mędrcy!... uczeni w piśmie!... znawcy gwiazdowych obrotów!... — mówił szydząc. — Ja prostak, zwyczajny sobie jenerał, który bez pieczęci nie zawsze umiałbym wyżłobić moje nazwisko... Wy mędrcy, ja prostak, ale na brodę mego króla, nie zamieniłbym się na waszą mądrość...
 
-The priest took farewell of Ramses with marks of respect. On the way
+Bo wy jesteście ludźmi, dla których otworzył się świat cegieł i papirusów, ale zamknął się ten prawdziwy, na którym wszyscy żyjemy... Ja prostak! Ale ja mam psi węch. A jak pies z dala wyczuje niedźwiedzia, tak ja moim zaczerwienionym nosem poznam bohatera.
 
-home, he pondered.
+Wy będziecie radzić księciu!... Ależ on was już dzisiaj zaczarował jak wąż gołębie. Ja przynajmniej nie oszukuję samego siebie, i choć książę jest dla mnie dobry jak ojciec rodzony, czuję przez skórę, że mnie i moich Asyryjczyków nienawidzi jak tygrys słonia... Cha!... cha!... Dajcie mu tylko armię, a za trzy miesiące stanie pod Niniwą, byle w drodze rodzili mu się żołnierze, zamiast ginąć...
 
-"I will let the heart be torn out of my breast," thought he, "if the
+— Choćbyś mówił prawdę — przerwał Mentezufis — choćby książę chciał iść pod Niniwę, nie pójdzie.
 
-prince had to do with that business. He neither beat Sargon, nor
+— A któż go powstrzyma, gdy zostanie faraonem?
 
-persuaded another to beat him; he did not even know of the incident.
+— My.
 
-Whoso judges an affair with such coolness and so pointedly cannot be a
+— Wy?... wy!... Cha! cha! cha!... — śmiał się Sargon. — Wy wciąż myślicie, że ten młodzik nawet nie przeczuwa naszego traktatu... A ja... a ja... cha!... cha!... cha!... ja pozwolę się obedrzeć ze skóry i wbić na pal, że on już wszystko wie.
 
-confederate. In that case I can begin an investigation, and if we do
+Czyliż Fenicjanie byliby tak spokojni, gdyby nie mieli pewności, że młody lew egipski zasłoni ich przed asyryjskim bykiem?
 
-not mollify the shaggy barbarian I will deliver the disturbers to
+Mentezufis i Mefres spojrzeli na siebie ukradkiem. Ich prawie przeraził geniusz barbarzyńcy, który śmiało wypowiadał to, czego oni wcale nie brali pod rachunek.
 
-justice. Beautiful treaty of friendship between two states, which
+I rzeczywiście: co by też było, gdyby następca tronu odgadł ich zamiary, a nawet chciał je powikłać?...
 
-begins by insulting the ambassador!"
+Lecz z chwilowego kłopotu wybawił ich milczący dotychczas Istubar.
 
-Next morning the lordly Sargon lay on his felt couch till midday. He
+— Sargonie — rzekł — mieszasz się w nie swoje sprawy. Twoim obowiązkiem jest zawrzeć z Egiptem traktat, jakiego chce pan nasz. A co wie, czego nie wie, co zrobi, a czego nie zrobi ich następca tronu, to już nie twoja sprawa. Skoro najwyższa, wiecznie żyjąca rada kapłanów zapewnia nas, traktat będzie wykonany. Jakim zaś zrobi się to sposobem? nie naszej głowy rzecz.
 
-lay thus rather frequently, however, that is, after each drinking-
+Oschły ton, z jakim wypowiedział to Istubar, uspokoił rozhukaną wesołość asyryjskiego pełnomocnika, Sargon pokiwał głową i mruknął:
 
-feast. Near him, on a low divan, sat the devout Istubar, with eyes
-
-fixed on the ceiling, while muttering a prayer.
-
-"Istubar," sighed the dignitary, "art Thou sure that no man of our
-
-court knows of my misfortune?"
-
-"Who could know, if Thou hast seen no one?"
-
-"But the Egyptians!" groaned Sargon.
-
-"Of the Egyptians Mentezufis and the prince know, yes, and those madmen
-
-who surely will remember thy fists for a long time."
-
-"They may they may; but it seems to me that the heir was among them,
-
-and that his nose is crushed, if not broken."
-
-"The heir has a sound nose, and he was not there, I assure thee."
-
-"In that case," sighed Sargon, "the prince should impale a good number
-
-of those rioters on stakes. I am an ambassador; my person is sacred."
-
-"But I tell thee," counseled Istubar, "to cast anger from thy heart,
-
-and not to complain even; for if those rioters are arraigned before a
-
-court, the whole world will learn that the ambassador of the most
-
-worthy King Assar goes about among Phoenicians, and, what is worse,
-
-visits them alone during night hours. What wilt Thou answer if thy
-
-mortal enemy, the chancellor Lik-Bagus, asks thee, 'Sargon, what
-
-Phoenicians didst Thou see, and of what was thy discourse with them at
-
-night, outside their temple '?"
-
-Sargon sighed, if sounds like the growling of a lion are to be called
-
-sighs.
-
-That moment one of the Assyrian officers rushed in. He knelt down,
-
-struck the pavement with his forehead, and said to Sargon,
-
-"Light of our lord's eyes! There is a crowd of magnates and dignitaries
-
-of Egypt before the entrance, and at the head of them the heir himself,
-
-with the evident intention of giving thee homage."
-
-But before Sargon could utter a command, the prince was in the door of
-
-the chamber. He pushed the gigantic watch aside, and approached the
-
-felts quickly, while the confused ambassador, with widely opened eyes,
-
-knew not what to do, to flee naked to another chamber, or hide beneath
-
-the covers.
-
-On the threshold stood a number of Assyrian officers, astonished at the
-
-invasion of the heir in opposition to every etiquette. But Istubar made
-
-a sign to them, and they vanished.
-
-The prince was alone; he had left his suite in the courtyard.
-
-"Be greeted, O ambassador of a great king, and guest of the pharaoh. I
-
-have come to visit thee and inquire if Thou hast need of anything, also
-
-to learn if time and desire will permit thee to ride in my company on a
-
-horse from my father's stables, surrounded by our suites in a manner
-
-becoming an ambassador of the mighty Assar, may he live through
-
-eternity!"
-
-Sargon listened as he lay there, without understanding a syllable. But
-
-when Istubar interpreted the words of the Egyptian viceroy, the
-
-ambassador felt such delight that he beat his head against the couch,
-
-repeating the names Ramses and Assar.
-
-When he had calmed himself, and made excuses for the wretched state in
-
-which so worthy and famous a guest had found him, he added,
-
-"Do not take it ill, O lord, that an earthworm and a support of the
-
-throne, as I am, show delight in a manner so unusual. But I am doubly
-
-pleased at thy coming; first, because such a super-terrestrial honor
-
-has come to me; second, because in my dull and worthless heart I
-
-thought that thou, O lord, wert the author of my misfortune. It seemed
-
-to me that among the sticks which fell on my shoulders I felt thine,
-
-which struck, indeed, vigorously."
-
-The calm Istubar interpreted phrase after phrase to the prince. To this
-
-the heir, with genuine kingly dignity, answered,
-
-"Thou wert mistaken, O Sargon. If Thou thyself hadst not confessed the
-
-error, I should command to count out fifty blows of a stick to thee, so
-
-that Thou shouldst remember that persons like me do not attack one man
-
-with a crowd, or in the night-time."
-
-Before the serene Istubar could finish the interpretation of this
-
-speech, Sargon had crawled up to the prince and embraced his legs
-
-earnestly.
-
-"A great lord! a great king!" cried he. "Glory to Egypt, that has such
-
-a ruler."
-
-To this the prince answered,
-
-"I will say more, Sargon. If an attack was made on thee yesterday, I
-
-assure thee that no one of my courtiers made it. For I judge that a man
-
-of such strength as Thou art must have broken more than one skull. But
-
-my attendants are unharmed, every man of them."
-
-"He has told truth, and spoken wisely," whispered Sargon to Istubar.
-
-"But though," continued the prince, "this evil deed has happened, not
-
-through my fault, or through that of my attendants, I feel bound to
-
-decrease thy dissatisfaction with a city in which Thou wert met so
-
-unworthily; hence I have visited thy bedchamber; hence I open to thee
-
-thy house at all times, as often as them mayst wish to visit it, and I
-
-beg thee to accept this small gift from me."
-
-The prince drew forth from his tunic a chain set with rubies and
-
-sapphires.
-
-The gigantic Sargon shed tears; this moved the prince but did not
-
-affect the indifference of Istubar. The priest saw that Sargon had
-
-tears, joy, or anger, at call, as befitted the ambassador of a king
-
-full of wisdom.
-
-The viceroy sat a moment longer, and then took farewell of Sargon.
-
-While going out, he thought that the Assyrians, though barbarians, were
-
-not evil minded, since they knew how to respond to magnanimity.
-
-Sargon was so touched that he gave order immediately to bring wine, and
-
-he drank from midday till evening.
-
-Some time after sunset the priest, Istubar, left Sargon's chamber for a
-
-while; he returned soon, but through a concealed doorway. Behind him
-
-appeared two men in dark mantles. When they had pushed their cowls
-
-aside, Sargon recognized in one the high priest Mefres, in the other
-
-Mentezufis the prophet.
-
-"We bring thee, worthy ambassador, good news," said Mefres.
-
-"May I be able to give you the like," cried the ambassador. "Be seated,
-
-holy and worthy fathers. And though I have reddened eyes, speak to me
-
-as if I were in perfect soberness; for when I am drunk my mind is
-
-improved even. Is this not true, Istubar?"
-
-"Speak on," said the Chaldean.
-
-"Today," began Mentezufis, "I have received a letter from the most
-
-worthy minister Herhor. He writes that his holiness may he live through
-
-eternity! awaits thy embassy at Memphis in his wonderful palace, and
-
-that his holiness may he live through eternity! is well disposed to
-
-make a treaty with Assyria."
-
-Sargon tottered on his feet, but his eyes showed clear mental action.
-
-"I will go," said he, "to his holiness the pharaoh, may he live through
-
-eternity! In the name of my lord I will put my seal on the treaty, if
-
-it be written on bricks in cuneiform letters, for I do not understand
-
-your writing. I will lie even all day on my belly before his holiness,
-
-and will sign the treaty. But how will ye carry it out, ha! ha! ha!
-
-that I know not," concluded he, with rude laughter.
-
-"How darest thou, O servant of the great Assar, doubt the good-will and
-
-faith of our ruler?" inquired Mentezufis.
-
-Sargon grew a little sobered.
-
-"I do not speak of his holiness," replied he, "but of the heir to the
-
-throne of Egypt."
-
-"He is a young man full of wisdom, who will carry out the will of his
-
-father and the supreme council without hesitation," answered Mefres.
-
-"Ha! ha! ha!" laughed the drunken barbarian again. "Your prince O gods,
-
-put my joints out if I speak an untruth, when I say that I should wish
-
-Assyria to have such an heir as he is. Our Assyrian heir is a sage, a
-
-priest. He, before going to war, looks first at the stars in the sky;
-
-afterward he looks under hens' tails. But yours would examine to see
-
-how many troops he had; he would learn where the enemy was camping, and
-
-fall on him as an eagle on a lamb. He is a leader, he is a king! He is
-
-not of those who obey priestly counsels. He will take counsel with his
-
-own sword, and ye will have to carry out what he orders. Therefore,
-
-though I sign a treaty, I shall tell my lord that behind the sick
-
-pharaoh and the wise priests there is in Egypt a young heir to the
-
-throne who is a lion and a bull in one person, a man on whose lips
-
-there is honey, but in whose heart lies a thunderbolt."
-
-"And Thou wilt tell an untruth," interrupted Mentezufis. "For our
-
-prince, though impulsive and riotous somewhat, as is usual with young
-
-people, knows how to respect both the counsel of sages and the highest
-
-institutions of the country."
-
-"O ye sages learned in letters, ye who know the circuits of the stars!"
-
-said Sargon, jeering. "I am a simple commander of troops, who without
-
-my seal would not always be able to scratch off my signature. Ye are
-
-sages, I am unlearned; but by the beard of my king, I would not change
-
-what I know for your wisdom. Ye are men to whom the world of papyrus
-
-and brick is laid bare; but the real world in which men live is closed
-
-to you. I am unlearned, but I have the sniff of a dog; and, as a dog
-
-sniffs a bear from a distance; so I with reddened nose sniff a hero.
-
-"Ye will give counsel to the prince! But ye are charmed by him already,
-
-as a dove is by a serpent. I, at least, do not deceive myself; and,
-
-though the prince is as kind to me as my own father, I feel through my
-
-skin that he hates me and my Assyrians as a tiger hates an elephant.
-
-Ha! ha! Only give him an army, and in three months he would be at
-
-Nineveh, if soldiers would rise up to him in the desert instead of
-
-falling down and dying."
-
-"Even though Thou wert speaking truth," interrupted Mentezufis, "even
-
-if the prince wished to go to Nineveh, he will not go."
-
-"But who will detain him when he is the pharaoh?"
-
-"We."
-
-"Ye? ye? Ha! ha! ha!" laughed Sargon. "Ye think always that that young
-
-man does not feel this treaty. But I but I ha! ha! ha! I will let the
-
-skin be torn from me, and my body be impaled if he does not know
-
-everything."
-
-"Would the Phoenicians be so quiet if they possessed not the certainty
-
-that your young lion of Egypt would shield them before the bull of
-
-Assyria?"
-
-Mentezufis and Mefres looked at each other stealthily. The genius of
-
-the barbarian almost terrified them; he had given bold utterance to
-
-that which they had not thought of. What would the result be, indeed,
-
-if the heir had divined their plans and wished to cross them?
-
-But Istubar, silent thus far, rescued them from momentary trouble.
-
-"Sargon," said he, "Thou art interfering in affairs not thy own. Thy
-
-duty is to conclude with Egypt a treaty of the kind that our lord
-
-wishes. But what the heir knows or does not know, what he will do or
-
-will not do, is not thy affair, since the supreme, eternally existent
-
-priestly council assures us that the treaty will be executed. In what
-
-way it will be executed is not a question for our heads."
-
-The dry tone with which Istubar declared this calmed the riotous joy of
-
-the ambassador. He nodded and muttered,
-
-"A pity for the man in that case! He is a grand warrior, and
-
-magnanimous."
+— W takim razie szkoda chłopca!... Wielki to wojownik, wspaniałomyślny pan...

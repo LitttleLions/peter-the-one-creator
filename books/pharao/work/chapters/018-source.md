@@ -1,789 +1,228 @@
-# Kapitel 18: CHAPTER XVIII
+# Kapitel 018: Tom I - Rozdział XVIII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part22.xhtml*
 
 <!-- status: pending -->
 
-FROM the day that he became viceroy of Lower Egypt a life unparalleled
+Od dnia kiedy został namiestnikiem Dolnego Egiptu, zaczęło się dla Ramzesa życie niesłychanie uciążliwe, jakiego nie domyślał się nawet, pomimo że urodził się i wyrósł wśród królewskiego dworu.
 
-in troubles set in for Ramses, such a life as he had not even imagined,
+Wprost tyranizowano go, a katami byli interesanci różnych gatunków i rozmaitych klas społecznych.
 
-though born and reared in the pharaoh's palace.
+Już w pierwszym dniu, na widok tłumu ludzi, którzy, cisnąc się i popychając, mimowolnie wydeptywali mu trawniki, łamali drzewa, nawet psuli mur otaczający, następca do swej willi zażądał warty. Ale trzeciego dnia musiał uciec ze swego domu w obręb właściwego pałacu, gdzie z powodu gęstej straży, a nade wszystko wysokich murów, dostęp dla zwykłych ludzi był utrudniony.
 
-People simply tortured him; his torturers were persons who had
+W ciągu dekady, poprzedzającej wyjazd, przed oczyma Ramzesa przesunęli się przedstawiciele całego Egiptu, jeżeli nie całego ówczesnego świata.
 
-interests of various kinds and who were of various social classes.
+Najpierwej puszczano wielkich. Więc przychodzili pozdrawiać go: arcykapłani świątyń, ministrowie, posłowie feniccy, greccy, żydowscy, asyryjscy, nubijscy, których nawet ubiorów nie mógł spamiętać. Dalej szli naczelnicy sąsiednich nomesów, sędziowie, pisarze, wyżsi oficerowie korpusu Menfi i posiadacze ziemscy.
 
-On the very first day, at sight of the throngs of people, who crowded
+Ludzie ci nie żądali niczego, wypowiadali tylko swoją radość. Ale książę, słuchając ich od rana do południa i od południa do wieczora, czuł zamęt w głowie i drżenie we wszystkich członkach.
 
-and pushed one another with eagerness, trampled his lawns, broke his
+Potem przyszli reprezentanci niższych klas z darami: kupcy ze złotem, bursztynem, zagranicznymi tkaninami, pachnidłami i owocami. Potem bankierzy i wypożyczający na procenta. Dalej — architekci z planami nowych budowli, rzeźbiarze z projektami posągów i płaskorzeźb, kamieniarze, fabrykanci naczyń glinianych, stolarze zwyczajni i ozdobni, kowale, giserzy, garbarze, winiarze, tkacze, nawet paraszytowie, którzy otwierali ciała zmarłych.
 
-trees, and injured even the wall which enclosed his villa, the heir
+Jeszcze nie skończyła się procesja hołdowników, a już nadciągnęła armia proszących. Inwalidzi, wdowy i sieroty po oficerach domagali się pensji; szlachetni panowie — dworskich urzędów dla synów. Inżynierowie przynosili projekta nowych sposobów irygacji, lekarze środki przeciw wszelkim chorobom, wróżbici horoskopy. Krewni więźniów podawali prośby o zmniejszenie kary, skazani na śmierć o darowanie życia, chorzy błagali, aby następca dotknął ich lub udzielił im swej śliny.
 
-demanded a guard for protection. But on the third day he was forced to
+Zgłaszały się wreszcie piękne kobiety tudzież matki dorodnych córek, pokornie i natrętnie prosząc, aby namiestnik przyjął je do swego domu. Niektóre oznaczały wysokość żądanej pensji, zachwalały swoje dziewictwo i talenta.
 
-flee from his own dwelling to the precincts of the palace proper,
+Po dziesięciu dniach przypatrywania się co chwilę nowym osobom i twarzom i wysłuchiwania próśb, które zaspokoić mógłby chyba majątek całego świata i boska potęga, książę Ramzes wyczerpał się. Nie mógł sypiać, był tak rozdrażniony, że irytował go brzęk muchy, i chwilami nie rozumiał: o czym mówią do niego?
 
-where, because of numerous sentries and above all because of high
+W tym położeniu znowu Herhor przyszedł mu z pomocą. Możnym kazał zapowiedzieć, że książę już nie przyjmuje interesantów, a na lud, który, mimo kilkukrotnych wezwań do rozejścia się, wciąż czekał, wysłał kompanię numidyjskich żołnierzy z kijami. Tym udało się bez porównania łatwiej aniżeli Ramzesowi zadowolnić ludzką pożądliwość. Zanim bowiem minęła godzina, interesanci znikli z placu niby mgła, a ten i ów przez parę dni następnych okładał wodą głowę lub inną rozbitą część ciała.
 
-walls, access to him was made difficult.
+Po tej próbie piastowania najwyższej władzy książę uczuł głęboką wzgardę dla ludzi i wpadł w apatię.
 
-During the ten days which preceded his departure, representatives of
+Dwa dni leżał na kanapie, z rękoma pod głową, bezmyślnie patrząc w sufit. Już nie dziwił się, że jego świątobliwy ojciec przepędza czas pod ołtarzami bogów, lecz nie mógł pojąć, jakim sposobem Herhor daje sobie radę z nawałem podobnych interesów, które, jak burza, nie tylko przewyższają siły człowieka, lecz nawet mogą zmiażdżyć.
 
-all Egypt, if not of the whole world of that period, passed before the
+„W jaki sposób przeprowadzić tu swoje plany, jeżeli tłum interesantów pęta naszą wolę, pożera myśli, wypija krew?... Po dziesięciu dniach jestem chory, po roku chyba bym ogłupiał!... Na tym urzędzie niepodobna robić żadnych projektów, lecz po prostu bronić się od szaleństwa...”
 
-eyes of the new viceroy.
+Był tak zatrwożony bezsilnością na stanowisku władcy, że — wezwał Herhora i jękliwym głosem opowiedział mu swoje strapienie.
 
-First of all were admitted great personages. Hence to congratulate him
+Mąż stanu z uśmiechem słuchał biadań młodego sternika nawy państwowej, wreszcie rzekł:
 
-came the high priests of temples, ministers, ambassadors, Phoenician,
+— Czy wiesz, panie, że ten ogromny pałac, w którym mieszkamy, wzniósł tylko jeden budowniczy, imieniem Senebi, i w dodatku — umarł przed ukończeniem go?... A z pewnością zrozumiesz: dlaczego wiecznie żyjący ten architekt mógł wykonać swój plan, nigdy nie zmęczywszy się i zawsze mając wesoły umysł.
 
-Greek, Hebrew, Assyrian, Nubian, men whose dresses even he could not
+— Ciekawym?...
 
-remember. Next came the chiefs of neighboring provinces, judges,
+— Oto on sam nie robił wszystkiego; nie ciosał belek i kamieni, nie wygniatał cegły, nie nosił jej na rusztowania, nie układał i nie spajał. On tylko wymalował plan, a jeszcze i do tego miał pomocników.
 
-secretaries, the higher officers of the army corps in Memphis, and
+Ty zaś, książę, wszystko chciałeś wykonać sam; sam wysłuchać i załatwić wszelkie interesa. To przechodzi człowiecze siły.
 
-landowners.
+— Jakże miałem robić inaczej, jeżeli między proszącymi znajdowali się niewinnie pokrzywdzeni albo zasługa nie wynagrodzona? Przecież fundamentem państwa jest sprawiedliwość — odparł następca.
 
-These people desired nothing, they simply expressed their delight at
+— Ilu książę możesz wysłuchać dziennie bez zmęczenia? — spytał Herhor.
 
-honor shown him. But the prince, while listening to these persons from
+— No... dwudziestu...
 
-morning till midday and from midday till evening, felt confusion in his
+— Toś szczęśliwy. Ja słucham najwyżej sześciu lub dziesięciu, lecz nie są nimi interesanci, tylko — wielcy pisarze, nadzorcy i ministrowie. Każdy z nich nie donosi mi drobiazgów, lecz rzeczy najważniejsze, jakie dzieją się: w armii, w dobrach faraona, w sprawach religijnych, w sądach, w nomesach, w ruchach Nilu. Dlatego zaś nie donoszą mi błahostek, że każdy z nich, zanim przyszedł do mnie, musiał wysłuchać dziesięciu pisarzy mniejszych. Każdy mniejszy pisarz i dozorca zebrał wiadomości od dziesięciu podpisarzy i poddozorców, a tamci znowu wysłuchali raporty od dziesięciu niższych urzędników.
 
-head, and a quivering in all his members.
+Tym sposobem ja i jego świątobliwość, rozmawiając tylko z dziesięcioma ludźmi dziennie, wiemy, co ważnego stało się w stu tysiącach punktów kraju i świata.
 
-After these came representatives of the lower classes with gifts:
+Wartownik, który czuwa na kawałku ulicy w Memfis, widzi tylko parę domów. Dziesiętnik zna całą ulicę, setnik oddział miasta, naczelnik całe miasto. Faraon zaś stoi ponad nimi wszystkimi, niby na najwyższym pylonie świątyni Ptah, i widzi nie tylko Memfis, ale jeszcze miasta: Sochem, On
 
-merchants bringing gold, foreign stuffs, amber, fruits, and perfumes.
+Z tej wysokości jego świątobliwość nie spostrzega wprawdzie ludzi skrzywdzonych albo nie nagrodzonych, ale dojrzy tłum gromadzących się bez zajęcia robotników. Nie zobaczy żołnierza w szynkowni, ale pozna, czy pułk odbywa musztrę. Nie widzi, co gotuje na obiad jakiś chłop albo mieszczanin, ale dostrzeże pożar zaczynający się w dzielnicy.
 
-Then bankers and men who loaned money for interest. Further, architects
+Ten porządek państwowy — mówił ożywiając się Herhor — jest naszą chwałą i potęgą. A kiedy Snofru, jeden z faraonów najpierwszej dynastii, spytał pewnego kapłana, jaki by sobie pomnik wystawić? — ten odpowiedział:
 
-with plans for new buildings, sculptors with projects for statues and
+Wyrysuj, panie, na ziemi kwadrat i połóż na nim sześć milionów głazów — one przedstawią lud. Na tej warstwie połóż sześćdziesiąt tysięcy kamieni ociosanych — to będą twoi niżsi urzędnicy. Na tym ułóż sześć tysięcy kamieni wygładzonych — to będą wyżsi urzędnicy. Na tym postaw sześćdziesiąt sztuk pokrytych rzeźbą — to będą twoi najbliżsi doradcy i wodzowie, a na szczycie połóż jedną bryłę ze złotym wizerunkiem słońca — a będziesz ty sam.
 
-carvings in relief, masons, potters, makers of ordinary and ornamental
+Tak też zrobił faraon Snofru. W ten sposób powstała najstarsza piramida schodowa — rzetelny obraz naszego państwa — z której urodziły się wszystkie inne. Są to budowle niewzruszone, z których szczytu widać krańce świata, a które będą podziwem najodleglejszych pokoleń.
 
-furniture, blacksmiths, founders, tanners, wine-merchants, weavers,
+W takim urządzeniu — ciągnął minister — spoczywa i nasza przewaga nad sąsiadami. Etiopowie byli równie liczni jak my. Lecz ich król sam troszczył się o swoje bydło, sam bił kijem poddanych i ani wiedział, ilu ich ma, ani potrafił zgromadzić ich, gdy wkroczyły nasze wojska. Tam nie było jednej Etiopii, ale wielka gromada ludzi nieuporządkowanych. Więc dzisiaj są naszymi wasalami.
 
-even dissectors who opened the bodies of the departed.
+Książę libijski sam sądzi każdą sprawę, szczególniej między ludźmi bogatymi, i tyle oddaje im czasu, że prawie nie może obejrzeć się za siebie. Toteż, pod jego bokiem, rodzą się całe bandy rozbójników, których my wytępiamy.
 
-The procession of those men rendering homage had not finished when an
+Wiedz jeszcze i o tym, panie, że gdyby w Fenicji był jeden wspólny władca, który by wiedział, co się dzieje, i rozkazywał we wszystkich miastach, kraj ten nie płaciłby nam ani utena danin. A co to za szczęście dla nas, że królowie Niniwy i Babelu mają tylko po jednym ministrze i tak są zmęczeni nawałem spraw, jak ty dzisiaj! Oni wszystko sami chcą widzieć, sądzić i rozkazywać, przez co na sto lat zawikłali sprawy państwa. Lecz gdyby znalazł się jaki nikczemny pisarz egipski, który poszedłby tam, wytłumaczył królom ich błędy w rządzeniu i zaprowadził naszą urzędniczą hierarchię, naszą piramidę, za kilkanaście lat Judea i Fenicja wpadłyby w ręce Asyryjczyków, a za kilkadziesiąt lat — od wschodu i północy, lądem i morzem zwaliłyby się na nas potężne armie, którym moglibyśmy nie dać rady.
 
-army of petitioners approached the viceroy. Invalids, widows, and
+— Więc dzisiaj my napadnijmy ich, korzystając z nieładu! — zawołał książę.
 
-orphans of officers requested pensions; noble lords required court
+— Jeszcze nie wyleczyliśmy się z poprzednich naszych zwycięstw — odparł zimno Herhor i zaczął żegnać Ramzesa.
 
-offices for their sons. Engineers presented new methods of irrigating
+— Alboż zwycięstwa osłabiły nas?... — wybuchnął następca. — Alboż nie zwieźliśmy skarbów?...
 
-Egypt; physicians offered means against diseases of all sorts;
+— A czy nie psuje się topór, którym ścinamy drzewo?... — zapytał Herhor i wyszedł.
 
-soothsayers offered horoscopes. Relatives of prisoners petitioned to
+Książę zrozumiał, że wielki minister chce spokoju za wszelką cenę, pomimo że sam jest naczelnikiem armii.
 
-lessen punishments; those condemned to death begged for life; the sick
+— Zobaczymy!... — szepnął do siebie.
 
-implored the heir to touch them, or to bestow on them his spittle.
+Na parę dni przed wyjazdem Ramzes wezwany został do jego świątobliwości. Faraon siedział na fotelu w marmurowej sali, w której nie było nikogo, a czterech wejść strzegły nubijskie warty.
 
-Finally, beautiful women announced themselves, the mothers of stately
+Obok fotelu królewskiego stał taboret dla księcia i mały stolik założony dokumentami pisanymi na papirusie. Na ścianach były kolorowane płaskorzeźby przedstawiające zajęcia rolne, a w rogach sali sztywne posągi Ozyrysa, z melancholijnym uśmiechem na ustach.
 
-daughters begging the heir humbly but insistently to receive them into
+Kiedy książę na rozkaz ojca usiadł, jego świątobliwość odezwał się:
 
-his mansion. Some indicated the amount of the pension demanded,
+— Masz tu, książę, twoje dokumenta, jako wódz i namiestnik. Cóż, podobno pierwsze dni władzy zmęczyły cię?...
 
-praising their virginity and their talents.
+— W służbie waszej świątobliwości znajdę siły.
 
-After ten days of looking every moment at new persons and faces, and
+— Pochlebca!... — uśmiechnął się pan. — Pamiętaj, że nie chcę, ażebyś się zapracowywał... Baw się, młodość potrzebuje rozrywki... Nie znaczy to jednak, ażebyś nie miał ważnych spraw do załatwienia.
 
-hearing petitions which only the possession of a world and divine power
+— Jestem gotów.
 
-to dispense it could satisfy, Prince Ramses was exhausted. He could not
+— Po pierwsze... Po pierwsze odkryję ci moje troski. Skarb nasz źle wygląda: dopływ podatków jest co rok mniejszy, osobliwie z Dolnego Egiptu, a rozchody mnożą się...
 
-sleep; he was so excited that the buzz of a fly pained his nerves, and
+Pan zamyślił się.
 
-at moments he did not understand what people said when they talked to
+— Te kobiety... te kobiety, Ramzesie, pochłaniają bogactwa nie tylko śmiertelnych ludzi, ale i moje. Mam ich kilkaset, a każda chce posiadać jak najwięcej pokojówek, modystek, fryzjerów, niewolników do lektyki, niewolników do pokoju, konie, wioślarzy, nawet swoich ulubieńców i dzieci... Małe dzieci!... Kiedy wróciłem z Tebów, jedna z tych pań, której nawet nie pamiętam, zabiegła mi drogę i prezentując tęgiego trzyletniego chłopaka żądała, abym mu wyznaczył majątek, gdyż ma to być mój syn... Trzyletni syn, czy uważasz, wasza dostojność?... Rzecz prosta, nie mogłem spierać się z kobietą, jeszcze w tak delikatnej sprawie. Ale — człowiekowi szlachetnie urodzonemu łatwiej być uprzejmym aniżeli znaleźć pieniądze na każdą podobną fantazję...
 
-him.
+Pokiwał głową, odpoczął i mówił dalej:
 
-In this position Herhor came again to assist the viceroy. He commanded
+— Tymczasem moje dochody od początku panowania zmniejszyły się do połowy, szczególniej w Dolnym Egipcie. Pytam się: co to znaczy?... Odpowiadają: lud zubożał, ubyło wielu mieszkańców, morze zasypało pewną przestrzeń gruntów od północy, a pustynia od wschodu, było kilka lat nieurodzajnych, słowem — awantura za awanturą, a w skarbie coraz płycej...
 
-to inform the wealthy that the prince would not receive any more
+Proszę cię więc, ażebyś mi wyświetlił tą sprawę. Rozpatrz się, poznaj ludzi dobrze informowanych i prawdomównych i utwórz z nich komisję śledczą. Gdy zaś zaczną składać raporty, nie ufaj zbytecznie papirusowi, ale to i owo sprawdź osobiście. Słyszę, że masz oko wodza, a jeżeli tak jest, jedno spojrzenie nauczy cię, o ile są dokładnymi opowieści członków komisji. Ale nie śpiesz się ze zdaniem, a nade wszystko — nie wygłaszaj go. Każdy ważny wniosek, jaki ci dziś przyjdzie do głowy — zapisz, a po kilku dniach znowu przypatrz się tej samej sprawie i znowu zapisz. To nauczy cię ostrożności w sądach i trafności w ogarnianiu przedmiotów.
 
-persons on questions of interest; and against common people, who, in
+— Stanie się, jak rozkazujesz, wasza świątobliwość — wtrącił książę.
 
-spite of repeated invitations to disperse, were still waiting, he sent
+— Druga misja, którą musisz załatwić, jest trudniejsza. Coś się tam dzieje w Asyrii, co mój rząd zaczyna niepokoić.
 
-a company of Numidians with clubs. These succeeded with incomparably
+Kapłani nasi opowiadają, że za Morzem Północnym jest piramidalna góra, zwykle okryta zielonością u spodu, śniegiem u szczytu, która ma dziwne obyczaje. Po wielu latach spokoju nagle zaczyna dymić, trząść się, huczeć, a potem wyrzuca z siebie tyle płynnego ognia, ile jest wody w Nilu. Ogień ten kilkoma korytami rozlewa się po jej bokach i na ogromnej przestrzeni rujnuje pracę rolników.
 
-more ease than Ramses in meeting popular wishes, for before an hour had
+Otóż Asyria, mój książę, jest taką górą. Przez całe wieki panuje w niej spokój i cisza, lecz nagle zrywa się wewnętrzna burza, nie wiadomo skąd wylewają się wielkie armie i niszczą spokojnych sąsiadów.
 
-passed the petitioners had vanished from the square, like mist, while
+Dziś około Niniwy i Babelu słychać wrzenie: góra dymi. Musisz więc dowiedzieć się: o ile ten dym zwiastuje nawałnicę i — obmyśleć środki zaradcze.
 
-one and another of them for a couple of succeeding days poured water on
+— Czy potrafię?... — cicho spytał książę.
 
-their heads, or other bruised parts of their bodies.
+— Trzeba nauczyć się patrzeć — mówił władca. — Jeżeli chcesz co dobrze poznać, nie poprzestawaj na świadectwie własnych oczu, ale zapewnij sobie pomoc kilku par cudzych.
 
-After this trial of supreme power the prince felt profound contempt for
+Nie ograniczaj się na sądach samych Egipcjan: bo każdy naród i człowiek ma wyłączny sposób widzenia rzeczy i nie chwyta całej prawdy. Wysłuchaj zatem, co myślą o Asyryjczykach: Fenicjanie, Żydzi, Hetyci i Egipcjanie, i pilnie rozważ w sercu swym — co w ich sądach o Asyrii jest wspólnego.
 
-men and became apathetic. He lay two days on a couch with his hands
+Jeżeli wszyscy powiedzą ci, że od Asyrii idzie niebezpieczeństwo, poznasz, że ono idzie. Lecz jeżeli różni mówić będą rozmaicie, także czuwaj, bo mądrość każe przewidywać raczej złe aniżeli dobre.
 
-beneath his head gazing vacantly at the ceiling. He did not wonder that
+— Mówisz, wasza świątobliwość, jak bogowie! — szepnął Ramzes.
 
-his sacred father passed his time at the altars of the gods, but he
+— Stary jestem, a z wysokości tronu widzi się takie rzeczy, jakich nawet nie przeczuwają śmiertelni. Gdybyś słońce zapytał, co sądzi o sprawach świata, opowiedziałoby jeszcze ciekawsze nowiny.
 
-could not understand how Herhor was able to manage the avalanche of
+— Między ludźmi, u których mam zasięgać zdania o Asyrii nie wspomniałeś, ojcze, Greków — wtrącił następca.
 
-business, which, like a storm, not only surpassed the strength of a
+Pan pokiwał głową z dobrotliwym uśmiechem.
 
-man, but might even crush him.
+— Grecy!... Grecy!... — rzekł — wielka przyszłość należy do tego narodu. Przy nas są oni jeszcze dziećmi, ale jaka dusza w nich mieszka...
 
-"How carry out plans in this case when a throng of petitions fetter our
+Pamiętasz ty mój posąg zrobiony przez greckiego rzeźbiarza?... To drugi ja, żywy człowiek!... Miesiąc trzymałem go w pałacu, lecz w końcu — darowałem świątyni w Tebach. Czy uwierzysz: strach mnie zdjął, ażeby ten kamienny ja nie powstał ze swego siedzenia i nie upomniał się o połowę rządów... Jakiż by zamęt powstał w Egipcie!...
 
-will, devour our thoughts, drink our blood? At the end of ten days I am
+Grecy!... Czy ty widziałeś wazy, jakie oni lepią, pałacyki, które budują... Z tej gliny i kamienia wypływa coś, co cieszy moją starość i każe zapominać o chorobie...
 
-sick, at the end of a year I should be an idiot. In this office it is
+A mowa ich?... O bogowie, wżdy to muzyka i rzeźba, i malowidło... Zaprawdę mówię, że gdyby Egipt mógł kiedy umrzeć jak człowiek, dziedzictwo po nim objęliby Grecy. I jeszcze wmówiliby w świat, że to wszystko jest ich dziełem, a nas — wcale nie było... A jednak są to tylko uczniowie naszych szkół wstępnych: cudzoziemcom bowiem, jak ci wiadomo, nie mamy prawa udzielać wyższych nauk.
 
-impossible to carry out any plan; a man can just defend himself from
+— Mimo to, ojcze, zdajesz się nie ufać Grekom?
 
-madness."
+— Bo to szczególny naród: ani Fenicjanom, ani im nie można wierzyć. Fenicjanin, gdy chce, widzi i powie prawdę murowaną, egipską... Ale nigdy nie wiesz: kiedy on chce powiedzieć prawdę? Zaś Grek, prosty jak dziecko, zawsze mówiłby prawdę, ale — tego już nie potrafi.
 
-He was so alarmed by his weakness in the position of ruler that he
+Oni cały świat widzą inaczej niż my. W ich dziwnych oczach każda rzecz tak błyszczy, koloryzuje się i mieni jak niebo Egiptu i jego woda. Czy więc można polegać na ich zdaniu?
 
-summoned Herhor, and with a complaining voice told of his suffering.
+Za czasów dynastii tebeńskiej, daleko na północy, było miasteczko Troja, jakich u nas liczy się dwadzieścia tysięcy. Na ten kurnik napadali rozmaite greckie włóczęgi i tak dokuczyli niemnogim mieszkańcom, że ci, po dziesięcioletnich niepokojach, spalili forteczkę i wynieśli się na inne miejsca.
 
-The statesman listened with a smile to the complaints of the young
+Zwykła historia bandycka!... Tymczasem, patrz, jakie pieśni śpiewają Grecy o trojańskich walkach. Śmiejemy się z tych cudów i bohaterstw, boć nasz rząd miał dokładne sprawozdania o wypadkach. Widzimy bijące w oczy kłamstwa, a jednak... słuchamy tych pieśni jak dziecko bajek swej niańki, i — nie możemy się od nich oderwać!...
 
-steersman of the ship of state, and at last said in answer,
+To są Grecy: urodzeni kłamcy, ale przyjemni, no i mężni. Każdy z nich prędzej poświęci życie, aniżeli powie prawdę. Nie dla interesu, jak Fenicjanie, ale z duchowej potrzeby.
 
-"Knowest thou, lord, that this immense palace in which we dwell was
+— A co mam sądzić o Fenicjanach? — spytał następca.
 
-reared by one architect, named Senebi, who moreover died before it was
+— To są ludzie mądrzy, wielkiej pracy i odwagi, ale handlarze: dla nich całe życie mieści się w zarobku, byle dużym, największym!... Fenicjanin jest jak woda: wiele przynosi i wiele zabiera, a wciska się wszędzie. Trzeba dawać im jak najmniej, a nade wszystko czuwać, ażeby nie wchodzili do Egiptu szparami, po kryjomu.
 
-finished? And to a certainty Thou wilt understand how this famous
+Gdy im dobrze zapłacisz i dasz nadzieję jeszcze większego zarobku, będą wybornymi agentami. To, co dziś wiemy o tajemnych ruchach Asyrii, wiemy przez nich.
 
-architect could carry out his plan without weariness and be always in a
+— A Żydzi?... — szepnął książę, spuszczając oczy.
 
-cheerful temper."
+— Naród bystry, ale posępni fanatycy i urodzeni wrogowie Egiptu. Dopiero gdy poczują na karkach podkuty gwoździami sandał Asyrii, zwrócą się do nas. Bodajby nie za późno. Ale posługiwać się nimi można... Rozumie się, nie tu, tylko w Niniwie i Babelu.
 
-"I am curious."
+Faraon był już zmęczony. Więc książę padł przed nim na twarz, a otrzymawszy uściśnienie ojcowskie, udał się do matki.
 
-"Well, he did not do everything himself; he did not hew the beams or
+Pani siedząc w swym gabinecie tkała cienkie płótno na suknie dla bogów, a jej damy służebne szyły i haftowały odzież albo robiły bukiety. Młody kapłan przed posągiem Izydy palił kadzidło.
 
-cut the stones, he did not make the bricks, he did not carry them to
+— Przychodzę — rzekł książę — podziękować ci, matko, i pożegnać.
 
-the scaffolding. He did not lay them into the wall and fasten them
+Królowa powstała i objąwszy syna za szyję, mówiła ze łzami:
 
-together. He only drew the plan, and moreover he had assistants. But
+— Jakeś ty się zmienił?... Jesteś już — mężczyzną!... Tak rzadko cię spotykam, że mogłabym zapomnieć twoich rysów, gdybym ich ciągle nie widziała w mym sercu. Niedobry!... Ja tyle razy z najwyższym dostojnikiem państwa jeździłam do folwarku myśląc, że nareszcie przestaniesz mieć urazę, a ty wyprowadziłeś naprzeciw mnie nałożnicę...
 
-thou, prince, hadst the wish to do all things thyself, to listen in
+— Przepraszam... przepraszam!... — mówił Ramzes, całując matkę.
 
-person and transact every business. That goes beyond human strength."
+Pani wyprowadziła go do ogródka, w którym rosły osobliwe kwiaty, a gdy zostali bez świadków — rzekła:
 
-"How should I do otherwise if among petitioners there are some who have
+— Jestem kobietą, więc obchodzi mnie kobieta i matka. Czy chcesz wziąć ze sobą tę dziewczynę w podróż?... Pamiętaj, że hałas i ruch, jaki cię będzie otaczał, jej i dziecku może zaszkodzić. Dla kobiet brzemiennych najlepszą jest cisza i spokój.
 
-suffered without cause, or if there is unrewarded service? Of course
+— Czy mówisz o Sarze? — spytał zdziwiony Ramzes. — Ona brzemienna?... Nic mi o tym nie wspomniała...
 
-the foundation of the state is justice."
+— Może wstydzi się, może sama nie wie — odparła. — W każdym razie podróż...
 
-"How many canst Thou hear in a day without weariness?" asked Herhor.
+— Ależ ja jej nie mam zamiaru brać!... — zawołał książę. — Tylko... dlaczego ona kryje się przede mną... jakby dziecko nie było moim?...
 
-"Well, twenty."
+— Nie bądźże podejrzliwym!... — zgromiła go pani. — Jest to zwykła wstydliwość młodych dziewcząt... Wreszcie może ukrywała swój stan z obawy, abyś jej nie porzucił?...
 
-"Thou art happy. I hear at the most six or ten, but they are not
+— Przecież nie wezmę jej do mego dworu! — przerwał książę z taką niecierpliwością, że oczy królowej uśmiechnęły się, ale przysłoniła je rzęsami.
 
-interested in the petitions, they are chief secretaries, overseers, and
+— No, nie wypada zbyt szorstko odpychać kobiety, która cię kochała. Wiem, że byt jej zapewniłeś. My jej też damy coś od siebie. I dziecko królewskiej krwi musi być dobrze wychowane i posiadać majątek...
 
-ministers. These men report to me no details, only the most important
+— Naturalnie — odparł Ramzes. — Mój pierwszy syn, choć nie będzie posiadał praw książęcych, musi być tak postawiony, abym ja go się nie wstydził ani on nie miał żalu do mnie.
 
-things that are done in the army, on the estates of the pharaoh, in
+Po pożegnaniu się z matką Ramzes chciał jechać do Sary i w tym celu wrócił do swoich pokojów.
 
-questions of religion, in the courts, in the provinces, and touching
+Wstrząsały nim dwa uczucia: gniew na Sarę, że ukrywała przed nim powody swej słabości, i — duma, że on ma być ojcem.
 
-movements of the Nile. Therefore they report no trivial matter, because
+On ojcem!... Tytuł ten nadawał mu powagę, która jakby wspierała jego urzędy: wodza i namiestnika. Ojciec — to już nie młodzieniaszek, który z szacunkiem musi patrzeć na ludzi starszych od siebie.
 
-each man before he comes to me must hear ten inferior secretaries. Each
+Książę był zachwycony i rozrzewniony. Chciał zobaczyć Sarę, zgromić ją, a potem uściskać i obdarować. Gdy jednak wrócił do swojej części pałacu, zastał dwu nomarchów z Dolnego Egiptu, którzy przyszli zdać mu raport o nomesach. A gdy wysłuchał ich, był już zmęczony. Nadto miał u siebie wieczorne przyjęcie, na które nie chciał się spóźnić.
 
-inferior secretary and overseer collected information from ten sub-
+„I znowu u niej nie będę — myślał. — Biedna dziewczyna, nie widziała mnie blisko dwie dekady...”
 
-secretaries and sub-inspectors, and they in their turn have heard
+Wezwał Murzyna.
 
-reports from ten officials who are under them. In this manner I and his
+— Masz ty tą klatkę, którą dała ci Sara wówczas, kiedyśmy witali jego świątobliwość?
 
-holiness speaking with only ten people daily know all that is most
+— Jest — odparł Murzyn.
 
-important in a hundred thousand points of Egypt and the world beyond
+— Weźże z niej gołębia i zaraz wypuść.
 
-it.
+— Gołębie już zjedzone.
 
-"The watchman in charge of one part of a street in Memphis sees only a
+— Kto je zjadł?...
 
-few houses. A decurion of ten policemen knows the whole street, a
+— Wasza dostojność. Powiedziałem kucharzowi, że ptaki te pochodzą od pani Sary; więc on tylko dla waszej dostojności robił z nich pieczenie i pasztety.
 
-centurion a division of the city, the chief knows all the city. The
+— A niechże was krokodyl pożre! — zawołał skłopotany książę.
 
-pharaoh stands above them all, as if he were standing on the highest
+Kazał przyjść do siebie Tutmozisowi i jego natychmiast wysłał do Sary. Opowiedział mu historią z gołębiami i ciągnął:
 
-pylon of the temple of Ptah, and sees not only Memphis, but the cities,
+— Zawieź jej szmaragdowe zausznice, bransolety na nogi i ręce i dwa talenty. Powiedz, że gniewam się, iż ukrywała przede mną ciążę, ale jej przebaczę, gdy dziecko będzie zdrowe i ładne. Jeżeli zaś urodzi chłopca, dam jej drugi folwark!... — zakończył, śmiejąc się.
 
-Sochem, On, Cheran, Turra, Tetani, with their suburbs, and a portion of
-
-the western desert.
-
-"From that height his holiness is unable, it is true, to see the people
-
-who are wronged, or those who are unrewarded, but he is able to see the
-
-crowd of laborers who have collected without work. He cannot see
-
-warriors in the dramshops, but he can know what regiment is exercising.
-
-He cannot see what a given earth-tiller or citizen is preparing for
-
-dinner, but he can see a fire beginning in a given quarter of the city.
-
-"This order in the state," continued Herhor, with growing animation,
-
-"is our strength and glory. Snofru, a pharaoh of the first dynasty,
-
-asked a certain priest what monument he should rear to himself.
-
-"'Draw on the earth, O lord,' replied the priest, 'a square, and put on
-
-it six million unhewn stones; they will represent the people. On that
-
-foundation place sixty thousand hewn stones; they will be the lower
-
-officials. On them place six thousand polished stones; they will be thy
-
-higher officials. On these put sixty covered with carvings; those will
-
-be thy most intimate counselors and chief leaders, and on the summit
-
-place one monolith with its pedestal and the golden image of the sun;
-
-that will be thyself.'
-
-"The Pharaoh Snofru followed that advice. Thus rose the oldest pyramid,
-
-the step pyramid, a tangible image of our state; from that pyramid all
-
-others had their origin. Those are immovable buildings, from the
-
-summits of which the rim of the world is visible, and they will be a
-
-marvel to the remotest generations.
-
-"In this system resides our superiority over all neighbors. The
-
-Ethiopians were as numerous as we, but their king himself took care of
-
-his own cattle, and beat his own subjects with a club; he knew not how
-
-many subjects he had, nor was he able to collect them when our troops
-
-invaded his country. There was not a united Ethiopia, but a great crowd
-
-of unorganized people. For that reason they are our vassals at present.
-
-"The Prince of Libya judges all disputes himself, especially among the
-
-wealthy, and gives so much time to them that he cannot attend to his
-
-own business. So at his side whole bands of robbers rise up; these we
-
-exterminate.
-
-"Were there in Phoenicia a single ruler who knew what was happening and
-
-who commanded in all parts, that country would not pay us one uten of
-
-tribute. But what a happiness for us that the kings of Nineveh and
-
-Babylon have each only one minister, and are tormented with the onrush
-
-of business as Thou art this day. They wish to see, judge, and command
-
-everything; hence the affairs of their states are entangled for a
-
-century to come. But were some insignificant scribe to go from Egypt to
-
-those kings, explain their errors of management, and give them our
-
-official system, our pyramid, in a year's time Judaea and Phoenicia
-
-would fall into the hands of the Assyrians, and in a few tens of years
-
-powerful armies, coming from the East and the North by laud and by sea,
-
-would hurl themselves on us, armies which we might not be able to
-
-vanquish."
-
-"Therefore let us fall on them today and take advantage of their want
-
-of order," cried Ramses.
-
-"We are not cured yet of previous victories," answered Herhor, coldly;
-
-and he began to take leave of the viceroy.
-
-"Have victories weakened us?" burst out the heir. "Or have we not
-
-brought home treasures?"
-
-"But does not the axe with which we cut wood become blunted?" inquired
-
-Herhor; and he went out.
-
-The prince understood that the great minister wished peace at all
-
-costs, in spite of the fact that he was chief of the armies.
-
-"We shall see," whispered Ramses to himself.
-
-A couple of days before his departure Ramses was summoned to his
-
-holiness. The pharaoh was sitting in an armchair in a marble hall; no
-
-other person was present, and the four entrances were guarded by Nubian
-
-sentries.
-
-At the side of the royal armchair was a stool for the prince, and a
-
-small table covered with documents written on papyrus. On the walls
-
-were colored bas-reliefs showing the occupations of field-workers, and
-
-in the comers of the hall were ungraceful statues of Osiris smiling
-
-pensively.
-
-When the prince at command of his father sat down, his holiness spoke
-
-to him,
-
-"Here, my son, are thy documents as leader and viceroy. Well, have the
-
-first days of power wearied thee?"
-
-"In thy service, holiness, I shall find strength."
-
-"Flatterer!" said the pharaoh, smiling. "Remember that I do not require
-
-overwork on thy part. Amuse thyself; youth needs recreation. This does
-
-not mean, however, that Thou art not to have important affairs to
-
-manage."
-
-"I am ready."
-
-"First I will disclose my cares to thee. Our treasury has a bad aspect;
-
-the inflow of revenue decreases yearly, especially in Lower Egypt, and
-
-expenditures are rising."
-
-The pharaoh fell to thinking.
-
-"Those women those women, Ramses, they swallow up the wealth, not of
-
-mortal men only, but my wealth. I have some hundreds of them, and each
-
-woman wishes to have as many maids as possible, as many dressmakers,
-
-barbers, slaves, slaves for her litter, slaves for her chamber, horses,
-
-oarsmen, even her own favorites and their children Little children!
-
-When I was returning from Thebes one of those ladies, whom I do not
-
-even remember, ran into my road and, showing a sturdy boy of three
-
-years, desired that I should designate for him a property, since he
-
-was, as she said, a son of mine. My son, and three years of age. Canst
-
-Thou understand this? The affair was simple. I could not argue with a
-
-woman, besides, in such a delicate question. But for a man of noble
-
-birth it is easier to be polite than find money for every fancy of that
-
-sort."
-
-He shook his head and continued,
-
-"Meanwhile incomes since the beginning of my reign have decreased one-
-
-half, especially in Lower Egypt. I ask what this means. They answer:
-
-people have grown poor, many citizens have disappeared, the sea has
-
-covered a certain extent of land on the north, and the desert on the
-
-east, we have had a number of bad harvests; in a word, tale follows
-
-tale while the treasury becomes poorer and poorer. Therefore I beg thee
-
-to explain this matter. Look about, learn to know well-informed men who
-
-are truthful, and form of them an examining commission. When they begin
-
-to report, trust not over-much to papyrus, but verify here and there in
-
-person. I hear that Thou hast the eye of a leader; if that be true, one
-
-glance will tell thee how accurate the statements of the commission
-
-are. But hasten not in giving thy opinion, and above all, do not herald
-
-it. Note down every weighty conclusion which conies to thy head on a
-
-given day, and when a few days have passed reexamine that question and
-
-note it down a second time. This will teach thee caution in judgment
-
-and accuracy in grasping subjects."
-
-"It will be as Thou commandest," replied the prince.
-
-"Another mission which Thou must accomplish is truly difficult.
-
-Something is happening in Assyria which begins to alarm my government.
-
-Our priests declare that beyond the Northern sea stands a pyramidal
-
-mountain covered with green at its base and with snow on the summit.
-
-This mountain has marvelous qualities. After many years of quiet it
-
-begins all at once to smoke, roar, and tremble, and then it hurls out
-
-as much liquid fire as there is water in the Nile. This fire, which
-
-flows down its sides in various directions and over an immense stretch
-
-of country, ruins the labor of earth-tillers.
-
-"Well, Assyria is a mountain of that sort. For whole ages calm and
-
-quiet reign in that region, till all on a sudden a tempest bursts out
-
-there, great armies pour forth from it and annihilate peaceful
-
-neighbors. At present around Nineveh and Babylon seething is audible:
-
-the mountain is smoking. Thou must learn therefore how far that smoke
-
-indicates an outburst, and think out means of precaution."
-
-"Shall I be able to do so?" asked the prince, in a low voice.
-
-"Thou must learn to observe. If Thou hast the wish to learn anything
-
-well, be not satisfied with the witness of thy own eyes, but strengthen
-
-thyself with the aid of a number of others. Confine not thyself to the
-
-judgment of Egyptians alone, for each people, each man has a special
-
-way of looking at subjects, and neither one grasps the whole truth in
-
-any question. Listen therefore to what the Phoenicians, the Hebrews,
-
-the Hittites, and the Egyptians think of the Assyrians, and weigh in
-
-thy own heart with care all that agrees in their judgments concerning
-
-Assyria. If all tell thee that danger is coming from that point, Thou
-
-wilt know that it is coming; but if different men speak variously, be
-
-on thy guard also, for wisdom commands us to look for less good and
-
-more evil."
-
-"Thy speech is like that of the gods," whispered the heir of Egypt,
-
-"I am old, and from the height of the throne things are seen of which
-
-mortal men have not even a suspicion. Wert Thou to inquire of the sun
-
-what he thinks of this world's affairs, he would tell thee things still
-
-more curious."
-
-"Among the people from whom I am to gain knowledge of Assyria, Thou
-
-hast not mentioned the Greeks, O father," put in Ramses.
-
-The pharaoh nodded, and said with a kindly smile,
-
-"The Greeks! oh, the Greeks! A great future is in store for that
-
-people. In comparison with us they are in childhood, but what a spirit
-
-is in them!
-
-"Dost remember my statue made by a Greek sculptor? That is my second
-
-self, a living person! I kept it a month in the palace, but at last I
-
-gave it to the temple in Thebes. Wilt Thou believe, fear seized me lest
-
-that stone should rise from its seat and claim one-half of the
-
-government. What a disorder would rise then in Egypt!
-
-"The Greeks! Hast Thou seen the vases which they make, the palaces
-
-which they build? From that clay out there and from stone something
-
-comes that delights my old age and forbids me to think of my
-
-feebleness.
-
-"And their language! O gods, it is music and sculpture and painting. In
-
-truth, I say that if Egypt could ever die as a man dies, the Greeks
-
-would take all its property. Nay more, they would persuade the world
-
-that everything done by us was their work, and that we never existed.
-
-And still they are only the pupils of our primary schools, for, as Thou
-
-knowest, we have no right to communicate the highest knowledge to
-
-foreigners."
-
-"Still, father, it seems that Thou hast no trust in the Greeks."
-
-"No, for they are peculiar; one can trust neither Greek nor Phoenician.
-
-The Phoenician, when he wishes, sees and will tell thee genuine truth
-
-of Egypt, but Thou wilt never know when he is telling it. The Greek, as
-
-simple as a child, would tell the truth always, but he is never able.
-
-"The Greeks look at the world in a manner different altogether from our
-
-way. In their wonderful eyes everything glitters, assumes colors and
-
-changes, as the sky and the water of Egypt. How then could we rely on
-
-their judgment?
-
-"In the days of the Theban dynasty, far away toward the north, was the
-
-little town of Troy. We have in Egypt twenty thousand as large as it.
-
-Various Greek vagrants laid siege to that hamlet, and so annoyed its
-
-few inhabitants that after ten years of trouble they burned their
-
-little fortress and moved to other places. An every-day robber
-
-narrative! Meanwhile just see what songs the Greeks sing of the Trojan
-
-combats. We laugh at those wonders and heroisms, for our government had
-
-accurate information of events there. We see the lies which strike any
-
-one, but still we listen to those songs, as a child does to tales which
-
-its nurse tells, and we cannot tear ourselves free from them.
-
-"Such are the Greeks: born liars, but fascinating; yes, and valiant.
-
-Every man of them would rather die than tell truth. They do not lie for
-
-profit, as do the Phoenicians, but because their mind constrains them."
-
-"Well, what am I to think of the Phoenicians?"
-
-"They are wise people of mighty industry and daring, but hucksters: for
-
-them life means profit, be it great or the greatest. The Phoenicians
-
-are like water: they bring much with them, but bear away much, and push
-
-in at all points. One must give them the least possible, and above all
-
-watch that they enter not through hidden crannies into Egypt. If Thou
-
-pay them well and offer hope of still greater profit, they will be
-
-excellent assistants. What we know today of secret movements in Assyria
-
-we know through Phoenicians."
-
-"And the Jews?" asked the prince, dropping his eyes.
-
-"A quick people, but gloomy fanatics and born enemies of Egypt. Only
-
-when they feel on their necks the iron-shod sandal of the Assyrian,
-
-will they turn to us. May that time not come too late to them! It is
-
-possible to use their services, not here, of course, but in Nineveh and
-
-Babylon."
-
-The pharaoh was wearied now. Hence the prince fell on his face before
-
-him, and when he had received the paternal embrace he went to his
-
-mother.
-
-The lady, sitting in her study, was weaving delicate linen to make
-
-garments for the gods, and her ladies in waiting were sewing and
-
-embroidering robes or making bouquets. A young priest was burning
-
-incense before the statue of Isis.
-
-"I come," said the prince, "to thank thee, my mother, and take
-
-farewell."
-
-The queen rose and putting her arms around her son's neck, said to him
-
-tearfully,
-
-"Hast Thou changed so much? Thou art a man now! I meet thee so rarely
-
-that I might forget thy features did I not see them in my heart every
-
-moment. Thou art unkind. How many times have I gone with the first
-
-dignitary of the state toward thy villa, thinking that at last Thou
-
-wouldst cease to be offended, but Thou didst bring out thy favorite in
-
-my presence."
-
-"I beg thy pardon I beg thy pardon!" said Ramses, kissing his mother.
-
-She conducted him to a garden in which peculiar flowers grew, and when
-
-they were without witnesses, she said,
-
-"I am a woman, so a woman and a mother has interest for me. Dost Thou
-
-wish to take that girl with thee on thy journey? Remember that the
-
-tumult and the movement which will surround thee may harm her, for in
-
-her condition calm and quiet are needed."
-
-"Art Thou speaking of Sarah?" inquired Ramses, astonished. "She has
-
-said nothing to me of that condition."
-
-"She may be ashamed; perhaps she does not herself know," replied the
-
-queen. "In every case the journey."
-
-"I have no intention of taking her!" exclaimed Ramses. "But why does
-
-she hide this from me as if the child were not mine?"
-
-"Be not suspicious," chided the lady. "This is the usual timidity of
-
-young women. Moreover, she may be hiding her condition from fear lest
-
-Thou cast her away from thee."
-
-"For that matter, I shall not take her to my court!" broke out the
-
-prince, so impatiently that the queen's eyes were smiling, but she
-
-covered them with their long lashes.
-
-"It is not well to be over-harsh with a woman who loved thee. I know
-
-that Thou hast given an assured support to her. We will give her
-
-something also. And a child of the royal blood must be reared well, and
-
-have property."
-
-"Naturally," answered Ramses. "My first son, though without princely
-
-rights, must be so placed that I may not be ashamed of him, and he must
-
-not regret separation from me."
-
-After parting with the queen, Ramses wished to go to Sarah, and with
-
-that object returned to his chambers.
-
-Two feelings were roused in him, anger at Sarah for hiding the cause of
-
-her weakness, and pride that he was going to be a father.
-
-He a father! This title gave him an importance which, as it were,
-
-supported his titles of commander and viceroy. Father! that did not
-
-mean a stripling who must look perforce with reverence on older people.
-
-He was roused and enraptured. He wished to see Sarah, to scold, then
-
-embrace her and give her presents.
-
-But when he returned to his part of the palace he found there two
-
-nomarchs from Lower Egypt who had come to report on their provinces,
-
-and when he had heard them out, he was wearied. Besides, he was to hold
-
-an evening reception and did not wish to be late in beginning.
-
-"And again I shall not be with her," thought he. "Poor girl! for twenty
-
-days she has not seen me."
-
-He summoned the negro.
-
-"Hast Thou that cage which Sarah gave thee when we went to greet his
-
-holiness?"
-
-"I have."
-
-"Take a pigeon from it, and let the bird loose."
-
-"The pigeons are eaten."
-
-"Who ate them?"
-
-"Thou. I told the cook that those birds came from the Lady Sarah; so he
-
-made a roast and pies out of them for thee, worthiness."
-
-"May the crocodiles eat you both!" cried the prince, in anger.
-
-He sent for Tutmosis and dispatched him immediately to Sarah. He
-
-explained to him the history of the pigeons, and said,
-
-"Give her emerald earrings, bracelets, anklets, and two talents. Say
-
-that I am angry because she concealed her condition, but that I will
-
-forgive her if the child is healthy and handsome. Should she have a
-
-boy, I will give her another place," finished he, with a smile. "But
-
-but persuade her to put away even a few Jews, and to take even a few
-
-Egyptian men and women. I do not wish my son to be born into such
-
-company; besides, he might play with Jew children. They would teach him
-
-to give his father the worst dates of the harvest."
+— Ale, ale... namów ją też, aby odsunęła od siebie choć trochę Żydów, a przyjęła choć paru Egipcjan i Egipcjanek. Nie chcę, aby mój syn przyszedł na świat w tym towarzystwie i może jeszcze bawił się z żydowskimi dziećmi. Nauczyliby go podawać ojcu najgorsze daktyle!...

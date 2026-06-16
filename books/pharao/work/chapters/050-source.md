@@ -1,509 +1,186 @@
-# Kapitel 50: CHAPTER L
+# Kapitel 050: Tom III - Rozdział I
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part58.xhtml*
 
 <!-- status: pending -->
 
-We know not whether the prophets in the underground temple of the
+Czy prorocy podziemnej świątyni sfinksa widzieli nowego władcę Egiptu, jak obozował pod piramidami, czy dali o nim znać do królewskiego pałacu, i — w jaki uczynili to sposób? — nie wiadomo. Dość, że gdy Ramzes zbliżał się do przewozu, najdostojniejszy arcykapłan Herhor kazał obudzić służbę pałacową, a gdy pan przepływał Nil, wszyscy kapłani, jenerałowie i dostojnicy cywilni już zgromadzili się w wielkiej sali.
 
-Sphinx saw the new ruler of Egypt when he halted at the foot of the
+Równo ze wschodem słońca Ramzes XIII na czele drobnego orszaku wjechał w pałacowy dziedziniec, gdzie służba upadła przed nim na twarz, a gwardia sprezentowała broń przy odgłosie trąb i bębnów.
 
-pyramids, and gave information touching him at the palace, and if so
+Powitawszy wojsko, jego świątobliwość udał się do łazienki i wziął kąpiel przesyconą wonnościami. Następnie pozwolił uporządkować boskie włosy; lecz gdy fryzjer najpokorniej zapytał go: czy każe ogolić głowę i — zarost? — pan odrzekł:
 
-how they did it. The fact is that when Ramses was approaching the
+— Nie potrzeba. Nie jestem kapłanem, tylko żołnierzem.
 
-ferry, the most worthy Herhor gave orders to rouse the palace servants,
+Słowa te w chwilę później przeszły do sali audiencjonalnej, w godzinę obiegły pałac, około południa rozniosły się po mieście Memfis, a nad wieczorem znane były we wszystkich świątyniach państwa, od Tami-n-hor i Sabne-Chetam
 
-and when their lord was crossing the Nile all priests, generals, and
+Na tę wieść nomarchowie, szlachta, wojsko, lud i cudzoziemcy szaleli z radości, ale święty stan kapłański tym gorliwiej obchodził żałobę po zmarłym faraonie.
 
-civil dignitaries were assembled in the great hall of audience.
+Wyszedłszy z kąpieli, jego świątobliwość przywdział krótką koszulę żołnierską w czarne i żółte pasy, na nią złoty napierśnik, na nogi sandały przywiązane rzemieniami, a na głowę płytki hełm z kolcem. Potem przypasał stalowy miecz asyryjski, który mu towarzyszył w bitwie przy Sodowych Jeziorach, i — otoczony wielką świtą jenerałów, z chrzęstem i brzękiem wszedł na salę audiencjonalną.
 
-Exactly at sunrise Ramses XIII, at the head of a small escort, rode
+Tam zastąpił mu drogę arcykapłan Herhor, mając przy sobie świętych arcykapłanów: Sema, Mefresa i innych, a za sobą: wielkich sędziów z Memfisu i Teb, kilkunastu najbliższych nomarchów, wielkiego podskarbiego tudzież naczelników: domu zbóż, domu bydła, domu szat, domu niewolników, domu srebra i złota, i mnóstwo innych dygnitarzy.
 
-into the palace yard, where the servants fell on their faces before
+Herhor skłonił się przed Ramzesem i rzekł wzruszony:
 
-him, and the guard presented arms to the sound of drums and trumpets.
+— Panie! Wiecznie żyjącemu ojcu waszemu podobało się odejść do bogów, gdzie kosztuje wiekuistego szczęścia. Na ciebie zaś spada obowiązek troszczyć się losem osieroconego państwa.
 
-His holiness saluted the army and went to the bathing chambers, where
+Bądź więc pozdrowiony, panie i władco świata, i — niech żyje wiecznie jego świątobliwość faraon Cham-sam-merer-amen-Ramesses-neter-hog-an!...
 
-he took a bath filled with perfumes. Then he gave permission to arrange
+Obecni z zapałem powtórzyli ten okrzyk. Spodziewano się, że nowy władca okaże jakieś wzruszenie lub zakłopotanie. Na podziw jednak wszystkich pan tylko zmarszczył brwi i odparł:
 
-his divine hair; but when the barber asked most submissively if the
+— Zgodnie z wolą świątobliwego ojca i prawami Egiptu, obejmuję rządy i spełniać je będę na chwałę państwa i szczęście ludu...
 
-pharaoh commanded to shave his head and beard, the lord replied,
+Nagle pan zwrócił się do Herhora i bystro patrząc mu w oczy zapytał:
 
-"There is no need. I am not a priest, but a warrior."
+— Na infule waszej dostojności widzę złotego węża. Dlaczego przywdziałeś symbol władzy królewskiej?
 
-These words reached the audience-hall a moment later; in an hour they
+Śmiertelna cisza zaległa zgromadzenie. Najzuchwalszy człowiek w Egipcie nigdy by nie przypuścił, że młody pan rozpocznie rządy swoje od podobnego pytania do osoby najpotężniejszej w państwie. Bodaj że potężniejszej aniżeli zmarły faraon.
 
-had gone around the palace; about midday they had passed through every
+Ale za młodym panem stało kilkunastu jenerałów, w dziedzińcu błyszczały spiżowe pułki gwardii, a przez Nil już przeprawiała się armia znad Sodowych Jezior, upojona triumfem, zakochana w swym wodzu.
 
-part of the city of Memphis, and toward evening they were known in all
+Potężny Herhor zbladł jak wosk i z zaciśniętej krtani nie mógł wydobyć głosu.
 
-the temples of the state, from Tami-n-hor and Sabue-Chetam on the north
+— Pytam się waszej dostojności — spokojnie powtórzył faraon — jakim prawem na twojej infule znajduje się wąż królewski?
 
-to Suunu and Pilak on the south.
+— To jest infuła dziada waszego, świętego Amenhotepa — cicho odparł Herhor. — Najwyższa rada nakazała mi przywdziewać ją w ważnych okolicznościach.
 
-At this intelligence the nomarchs, the nobility, the army, the people,
+— Święty dziad mój — mówił faraon — był ojcem królowej i w drodze łaski otrzymał prawo ozdabiania swej infuły ureuszem. Lecz o ile mi wiadomo, jego uroczysty strój znajduje się między relikwiami świątyni Amona.
 
-and the foreigners were wild with delight, but the sacred order of
+Herhor już ochłonął.
 
-priests mourned the more zealously the dead pharaoh.
+— Racz pamiętać, wasza świątobliwość — objaśnił — że przez całą dobę Egipt był pozbawiony prawego władcy. Tymczasem musiał ktoś budzić i układać do snu boga Ozyrysa, udzielać błogosławieństwa ludowi i składać hołdy przodkom królewskim.
 
-When his holiness emerged from the bath he put on a warrior's short
+Na tak ciężki czas najwyższa rada kazała mi odziać się w świętą relikwię, aby rząd państwa i służba bogom nie ulegały opóźnieniu. Z chwilą jednak gdy mamy prawego i potężnego władcę, składam cudowną relikwię...
 
-shirt with black and yellow stripes, and a yellow breast-piece; on his
+To powiedziawszy Herhor zdjął z głowy infułę ozdobioną ureuszem i podał ją arcykapłanowi Mefresowi.
 
-feet sandals fastened with thongs, and on his head a low helmet with a
+Groźna twarz faraona wypogodziła się i pan — skierował kroki swoje do tronu.
 
-circlet. Then he girded on that Assyrian sword which he had worn at the
+Nagle zastąpił mu drogę święty Mefres i schyliwszy się do ziemi rzekł:
 
-battle of the Soda Lakes, and, surrounded by a great suite of generals,
+— Racz, świątobliwy panie, wysłuchać najpokorniejszej prośby...
 
-he entered with a clatter and clinking the audience-hall.
+Ale ani w głosie, ani w oczach jego nie było pokory, kiedy wyprostowawszy się mówił dalej:
 
-There the high priest Herhor stood before him, having at his side Sem,
+— Te są słowa najwyższej rady wszystkich arcykapłanów...
 
-the holy high priest, Mefres, and others, and behind him the chief
+— Powiedz — odparł faraon.
 
-judges of Thebes and Memphis, some of the nearer nomarchs, the chief
+— Wiadomo waszej świątobliwości — ciągnął Mefres — że faraon, który nie otrzyma arcykapłańskich święceń, nie może spełniać najwyższych ofiar tudzież ubierać ani rozbierać cudownego Ozyrysa.
 
-treasurer, also the overseers of the house of wheat, the house of
+— Rozumiem — przerwał pan. — Ja jestem faraonem, który nie posiada arcykapłańskiego dostojeństwa.
 
-cattle, the house of garments, the house of slaves, the house of silver
+— Z tej przyczyny — mówił dalej Mefres — najwyższa rada pokornie błaga waszą świątobliwość o wyznaczenie arcykapłana, który mógłby was zastępować w pełnieniu religijnych obrządków.
 
-and gold, and a multitude of other dignitaries.
+Słuchając tej mowy stanowczej, arcykapłani i cywilni dostojnicy drżeli i kręcili się jak na rozpalonych kamieniach, a jenerałowie niby niechcący poprawiali miecze. Ale święty Mefres z nieukrywaną pogardą spojrzał na nich i — znowu utopił zimny wzrok w obliczu faraona.
 
-Herhor bowed before Ramses, and said with emotion,
+Lecz pan świata i tym razem nie okazał zakłopotania.
 
-"Lord! it has pleased thy eternally living father to withdraw to the
+— Dobrze — odparł — żeś mi, wasza dostojność, przypomniał o tym ważnym obowiązku. Wojenne rzemiosło i sprawy państwa nie pozwolą mi zajmować się obrzędami naszej świętej religii, więc muszę wyznaczyć do nich zastępcę...
 
-gods where he is enjoying endless delight. To thee, then, has fallen
+To mówiąc pan począł rozglądać się między zebranymi.
 
-the duty of caring for the fate of the orphan kingdom.
+Z lewej strony Herhora stał święty Sem. Faraon wpatrzył się w jego twarz łagodną i uczciwą i nagle spytał:
 
-"Be greeted, therefore, O lord and ruler of the world, and, holiness,
+— Kto i czym jesteś, wasza dostojność?
 
-may Thou live through eternity Cham-Sam-mereramen-Ramses-Neter-haq-an."
+— Nazywam się Sem, a jestem arcykapłanem świątyni Ptah w Pi-Bastis.
 
-Those present repeated this salutation with enthusiasm. They expected
+— Ty będziesz moim zastępcą w religijnych obrządkach — rzekł pan, wskazując na niego palcem.
 
-the new ruler to show some emotion or feeling. To the astonishment of
+Między zebranymi przeleciał szmer podziwu. Trudno było po najdłuższych rozmyślaniach i naradach wybrać na tak wysoki urząd godniejszego kapłana.
 
-all he merely moved his brow and answered,
+Ale Herhor pobladł jeszcze bardziej, a Mefres zacisnął sine usta i przysłonił powiekami oczy.
 
-"In accordance with the will of his holiness, my father, and with the
+W chwilę później nowy faraon zasiadł na tronie, który zamiast nóg miał rzeźbione postacie książąt i królów dziewięciu narodów.
 
-laws of Egypt, I take possession of government and will conduct it to
+Niebawem Herhor na złotej tacy podał panu białą i czerwoną koronę otoczoną złotym wężem. Władca milcząc włożył je na głowę, a obecni upadli na ziemię.
 
-the glory of the state and the happiness of the people."
+Nie była to jeszcze uroczysta koronacja, tylko objęcie władzy.
 
-He turned suddenly to Herhor and, looking him sharply in the eyes,
+Gdy kapłani okadzili faraona i odśpiewali hymn do Ozyrysa, aby zlał na niego wszelkie błogosławieństwa, cywilni i wojskowi dygnitarze zostali dopuszczeni do ucałowania najniższego stopnia tronu. Potem pan wziął złotą łyżkę i powtarzając modlitwy, które głośno odmawiał święty Sem, ofiarował kadzidła posągom bogów uszykowanym po obu stronach jego królewskiej stolicy.
 
-inquired,
+— Co teraz mam robić? — zapytał władca.
 
-"On thy miter, worthiness, I see the golden serpent. Why hast Thou put
+— Ukazać się ludowi — odparł Herhor.
 
-that symbol of regal power on thy head?"
+Przez złocone, szeroko otwarte drzwi po marmurowych schodach jego świątobliwość wszedł na taras i podniósłszy ręce zwrócił się kolejno ku czterem okolicom świata. Odezwały się głosy trąb i ze szczytu pylonów wywieszono chorągwie. Kto był w polu, na dziedzińcu czy na ulicy — padał na twarz; kij podniesiony nad grzbietem bydlęcia czy niewolnika opuszczał się bez szkody, a wszyscy przestępcy państwowi, jakich skazano tego dnia, otrzymali ułaskawienie. Schodząc z tarasu, władca zapytał:
 
-A deathlike silence settled on the assembly. The haughtiest man in
+— Czy mam jeszcze co do spełnienia?
 
-Egypt had never dreamed that the young lord would begin rule by putting
+— Oczekuje na waszą świątobliwość posiłek i sprawy państwa — odezwał się Herhor.
 
-a question like that to the most powerful person in the state, more
+— Więc mogę odpocząć — rzekł faraon. — Gdzie są zwłoki mego świątobliwego ojca?
 
-powerful, perhaps, than the late pharaoh.
+— Oddane balsamistom... — szepnął Herhor.
 
-But behind the young lord stood a number of generals; in the courtyard
+Faraonowi oczy wezbrały łzami i drgnęły usta. Ale pohamował się i milcząc patrzył w ziemię. Było rzeczą nieprzystojną, ażeby słudzy widzieli wzruszenie tak potężnego władcy.
 
-glittered the bronze-covered regiments of the guard; and crossing the
+Chcąc zwrócić uwagę pana na inny przedmiot, Herhor wtrącił:
 
-Nile at that moment was an army wild from the triumph at the Soda
+— Czy wasza świątobliwość raczy przyjąć należny hołd od królowej matki?
 
-Lakes, and enamored of its leader.
+— Ja?... ja mam przyjmować hołdy od mojej matki?... — rzekł zdławionym głosem faraon.
 
-The powerful Herhor grew pale as wax, and the voice could not issue
+A chcąc koniecznie uspokoić się, dodał z przymuszonym uśmiechem:
 
-from his straitened throat.
+— Wasza dostojność zapomniałeś, co mówi mędrzec Eney?... Może święty Sem powtórzy nam te piękne słowa o matce...
 
-"I ask your worthiness," repeated the pharaoh, calmly, "by what right
+— „Pamiętaj — cytował Sem — że urodziła cię i na wszystkie sposoby karmiła...”
 
-is the regal serpent on thy miter?"
+— Mów dalej... mów!... — nalegał pan, wciąż usiłując zapanować nad sobą.
 
-"This is the miter of thy grandfather, the holy Amenhotep," answered
+— „Gdybyś o tym zapomniał, ona podniesie ręce swoje do boga, a on skargę jej usłyszy. Długo nosiła cię pod sercem, jak wielki ciężar, i porodziła po upłynięciu twoich miesięcy. Nosiła cię potem na plecach i przez trzy lata pierś swą wkładała w twoje usta. Tak cię wychowała, nie brzydząc się twego niechlujstwa. A gdy poszedłeś do szkół i w pismach byłeś ćwiczony, przed twoim przełożonym stawała co dzień z chlebem i piwem domu swego.”
 
-Herhor, in a low voice. "The supreme council commanded me to wear it on
+Faraon głęboko odetchnął i rzekł spokojniej:
 
-occasions."
+— Widzicie więc, że nie godzi się, aby mnie witała matka moja. Ja to raczej pójdę do niej...
 
-"My holy grandfather," replied the pharaoh, "was father of the queen,
+I poszedł przez szereg sal wykładanych marmurem, alabastrem i drzewem, malowanych jaskrawymi farbami, rzeźbionych i złoconych, a za nim — jego ogromna świta. Lecz zbliżywszy się do przedpokoju matki, dał znak, aby go zostawiono samego.
 
-and in the way of favor he received the right to adorn his miter with
+Minął przedpokój, chwilę zatrzymał się pode drzwiami, potem zapukał i wszedł cicho.
 
-the ureus. But, so far as is known to me, his sacred vestment is
+W izbie o nagich ścianach, w której zamiast sprzętów był niski tapczan i nadtłuczony dzban z wodą, wszystko na znak żałoby, siedziała na kamieniu matka faraona, królowa Nikotris. Była w grubej koszuli, boso; miała czoło umazane błotem z Nilu i popiół w poplątanych włosach.
 
-counted among the relics of the temple of Amon."
+Zobaczywszy Ramzesa, czcigodna pani schyliła się, aby mu upaść do nóg. Ale syn pochwycił ją w objęcia i rzekł z płaczem:
 
-Herhor had recovered.
+— Jeżeli ty, matko, zniżysz się przede mną do ziemi, ja przed tobą będę musiał zejść chyba pod ziemię...
 
-"Deign to remember, holiness," explained he, "that for twenty-four
+Królowa przytuliła jego głowę do piersi, otarła mu łzy rękawem swojej grubej koszuli, a potem wzniósłszy ręce szepnęła:
 
-hours Egypt has been deprived of its legal ruler. Meanwhile some one
+— Niechaj wszyscy bogowie... niechaj duch ojca i dziada twego otoczą cię opieką i błogosławieństwem... O Izydo, nigdy nie skąpiłam ci ofiar, ale dziś robię największą... Oddaję ci mego miłego syna... Niech ten mój syn królewski stanie się niepodzielnie twoim synem, a jego sława i potęga niech pomnożą twoje boskie dziedzictwo...
 
-had to wake and put to sleep the god Osiris, to impart blessings to the
+Pan po wiele razy uściskał i ucałował królowę, wreszcie usadowił ją na tapczanie, a sam usiadł na kamieniu.
 
-people and render homage to the ancestors of the pharaoh."
+— Czy zostawił mi ojciec jakie rozkazy? — zapytał.
 
-"In such a grievous time the supreme council commanded me to wear this
+— Prosił cię tylko o pamięć, a do najwyższej rady powiedział te słowa: „Zostawiam wam następcę, który jest lwem i orłem w jednej osobie: słuchajcie go, a podźwignie Egipt do niebywałej potęgi.”
 
-holy relic, so that the order of the state and the service of the gods
+— Myślisz, że kapłani będą mi posłuszni?
 
-might not be neglected. But the moment that we have a lawful and mighty
+— Pamiętaj — rzekła matka — że godłem faraona jest wąż. A wąż to roztropność, która milczy i nie wiadomo kiedy kąsa śmiertelnie... Jeżeli czas weźmiesz za sprzymierzeńca, pokonasz wszystko.
 
-ruler I set aside the wondrous relic."
+— Herhor jest strasznie zuchwały... Dziś ośmielił się włożyć infułę świętego Amenhotepa... Rozumie się, kazałem mu ją zdjąć i usunę go od rządu... Jego i kilku członków najwyższej rady...
 
-Then Herhor took from his head the miter adorned with the ureus, and
+Królowa potrząsnęła głową.
 
-gave it to the high priest Mefres.
+— Egipt jest twój — mówiła — a bogowie obdarzyli cię wielką mądrością. Gdyby nie to, strasznie lękałabym się zatargu z Herhorem...
 
-The threatening face of the pharaoh grew calm, and he turned his steps
+— Nie spieram się z nim. Ja go wypędzam.
 
-toward the throne.
+— Egipt jest twój — powtórzyła matka — ale boję się walki z kapłanami. Prawda, że nad miarę łagodny ojciec uzuchwalił tych ludzi, lecz nie można doprowadzać ich do rozpaczy srogością. Zresztą — pomyśl: kto ci zastąpi ich radę?... Oni znają wszystko, co było, jest i będzie na ziemi i w niebie; oni widzą najskrytsze myśli ludzkie i kierują sercami, jak wiatr liśćmi. Bez nich nie tylko nie będziesz wiedział, co się dzieje w Tyrze i Niniwie, ale nawet w Memfisie i Tebach.
 
-Suddenly the holy Mefres barred the way, and said while bending to the
+— Nie odpycham mądrości, ale chcę służby — odparł faraon. — Wiem, że ich rozum jest wielki, ale musi być kontrolowany, aby nie oszukiwał, i kierowany, ażeby nie rujnował państwa... Sama powiedz, matko, co oni w ciągu trzydziestu lat zrobili z Egiptem?... Lud cierpi nędzę albo buntuje się, wojska mało, skarb pusty, a tymczasem o parę miesięcy od nas jak ciasto na drożdżach rośnie Asyria i już dziś — narzuca nam traktaty!...
 
-pavement,
+— Czyń, jak chcesz. Ale pamiętaj, że symbolem faraona jest wąż, a wąż — to milczenie i roztropność.
 
-"Deign, holy lord, to hear my most submissive prayer."
+— Prawdę mówisz, matko, ale wierzaj mi, że w pewnych razach wyższą jest odwaga. Już dziś wiem, że kapłani wojnę libijską rozkładali na całe lata. Jam ją skończył w ciągu kilkunastu dni i tylko dlatego, że co dzień popełniałem jakiś krok szalony, ale stanowczy. Gdybym nie wybiegł naprzeciw nim w pustynię, co przecież było wielką nieroztropnością, dziś mielibyśmy Libijczyków pod Memfisem...
 
-But neither in his voice nor his eyes was there submission when,
+— Wiem, goniłeś Tehennę i zaskoczył was Tyfon — rzekła królowa. — O nierozważne dziecko... nie pomyślałeś o mnie!...
 
-straightening himself, he continued,
+Pan uśmiechnął się.
 
-"I have words from the supreme council of high priests."
+— Bądź spokojnego serca — odparł. — Kiedy faraon walczy, po lewej i po prawej ręce jego staje Amon. A któż mu dorówna?...
 
-"Utter them," said the pharaoh.
-
-"It is known to thee, holiness, that a pharaoh who has not received
-
-ordination as high priest cannot perform the highest sacrifices; that
-
-is, dress and undress the miraculous Osiris."
-
-"I understand," interrupted Ramses, "I am a pharaoh who has not
-
-received the ordination of high priest."
-
-"For that reason," continued Mefres, "the supreme council begs thee
-
-submissively, holiness, to appoint a high priest to take thy place in
-
-religious functions."
-
-When they heard these decided words, the high priests and civil
-
-dignitaries trembled and squirmed as if standing on hot stones, and the
-
-generals touched their swords as if involuntarily. The holy Mefres
-
-looked at them with unconcealed contempt, and fixed his cold glance
-
-again on the face of the pharaoh.
-
-But the lord of the world showed no trouble even this time.
-
-"It is well," said he, "that Thou hast reminded me, worthiness, of this
-
-important duty. The military profession and affairs of state do not
-
-permit me to occupy myself with the ceremonies of our holy religion, so
-
-I must appoint a substitute."
-
-While speaking he looked around at the men assembled.
-
-On the left of Herhor stood the holy Sem. Ramses glanced into his mild
-
-and honest face and inquired suddenly,
-
-"Who and what art thou, worthiness?"
-
-"My name is Sem; I am high priest of the temple of Ptah in Pi-Bast."
-
-"Thou wilt be my substitute in religious ceremonies," said the pharaoh,
-
-pointing toward him with his finger.
-
-A murmur of astonishment ran through the assembly.
-
-After long meditation and counsels it would have been difficult to
-
-select a more worthy priest for that high office.
-
-Herhor grew much paler than before; Mefres pressed his blue lips
-
-together tightly and dropped his eyelids.
-
-A moment later the new pharaoh sat on his throne, which instead of feet
-
-had the carved figures of princes and the kings of nine nations.
-
-Soon Herhor gave to the lord, on a golden plate, a white and also a red
-
-crown.
-
-The sovereign placed the crowns on his own head in silence, while those
-
-present fell prostrate.
-
-That was not the solemn coronation; it was merely taking possession of
-
-power.
-
-When the priests had incensed the pharaoh and had sung a hymn to
-
-Osiris, imploring that god to pour all blessings on the sovereign,
-
-dignitaries of the civil power and of the army were permitted to kiss
-
-the lowest step of the throne. Then Ramses took a gold spoon, and,
-
-repeating a prayer which the holy Sem pronounced aloud, he incensed the
-
-statues of the gods arranged in line on both sides of the pharaoh's
-
-chapel.
-
-"What am I to do now?" inquired he.
-
-"Show thyself to the people," replied Herhor.
-
-Through a gilded, widely opened door his holiness ascended marble steps
-
-to a terrace, and, raising his hands, faced in turn toward the four
-
-sides of the universe. The sound of trumpets was heard, and from the
-
-summits of pylons banners were hung out. Whoso was in a field, in a
-
-yard, on the street, fell prostrate; the stick, raised above the back
-
-of a beast or a slave, was lowered without giving the blow, and all
-
-criminals against the state who had been sentenced that day received
-
-grace.
-
-Descending from the terrace the pharaoh inquired,
-
-"Have I something more to do?"
-
-"Refreshments and affairs of state are awaiting thee, holiness,"
-
-replied Herhor.
-
-"After that I may rest," said the pharaoh. "Where are the remains of
-
-his holiness, my father?"
-
-"Given to the embalmers," whispered Herhor.
-
-Tears filled the pharaoh's eyes, and his mouth quivered, but he
-
-restrained himself and looked down in silence. It was not proper that
-
-servants should see emotion in such a mighty ruler.
-
-Wishing to turn the pharaoh's attention to another subject, Herhor
-
-asked,
-
-"Wilt Thou be pleased, holiness, to receive the homage due from the
-
-queen, thy mother?"
-
-"I? Am I to receive homage from my mother?" asked Ramses, with
-
-repressed voice.
-
-"Hast Thou forgotten what the sage Eney said? Perhaps holy Sem will
-
-repeat those beautiful words to us."
-
-"Remember," quoted Sem, "that she gave birth to thee and nourished thee
-
-in every manner."
-
-"Speak further; speak!" insisted the pharaoh, striving always to
-
-command himself.
-
-"Shouldst Thou forget that she would raise her hands to the god, and he
-
-would hear her complaint. She bore thee long beneath her heart, like a
-
-great burden, and gave thee birth when thy mouths had expired. She
-
-carried thee in her arms afterward, and during three years she put her
-
-breast into thy mouth. She reared thee, was not disgusted with thy
-
-uncleanness. And when Thou wert going to school and wert exercised in
-
-writing, she placed before thy teacher daily bread and beer from her
-
-own dwelling." [Authentic]
-
-Ramses sighed deeply and said with calmness,
-
-"So ye see that it is not proper that my mother should salute me.
-
-Rather I will go to her."
-
-And he passed through a series of halls lined with marble, alabaster,
-
-and wood, painted in bright colors, carved and gilded; behind him went
-
-his immense suite. But when he came to the antechamber of his mother's
-
-apartments, he made a sign to leave him. When he had passed the
-
-antechamber, he stopped a while before the door, then knocked and
-
-entered quietly.
-
-In a chamber with bare walls, where in place of furniture there stood
-
-only a low wooden couch and a broken pitcher holding water, all in sign
-
-of mourning, Queen Niort's, the mother of the pharaoh, was sitting on a
-
-stone. She was in a coarse shirt, barefoot; her face was smeared with
-
-mud from the Nile, and in her tangled hair there were ashes.
-
-When she saw Ramses, the worthy lady inclined so as to fall at his
-
-feet. But the son seized her in his arms, and said with weeping,
-
-"If thou, O mother, incline to the ground before me, I shall be forced
-
-to go under the ground before thee."
-
-The queen drew his head to her bosom, wiped away his tears with the
-
-sleeve of her coarse shirt, and then, raising her hands, whispered,
-
-"May all the gods, may the spirit of thy father and grandfather,
-
-surround thee with blessing and solicitude. O Isis, I have never spared
-
-offerings to thee, but today I make the greatest; I give my beloved son
-
-to thee. Let this kingly son become thy son entirely, and may his
-
-greatness and his glory increase thy divine inheritance."
-
-The pharaoh embraced and kissed his mother repeatedly, then he seated
-
-her on the wooden couch and sat on the stone himself.
-
-"Has my father left commands to me?" inquired he.
-
-"He begged thee only to remember him, but he said to the supreme
-
-council, 'I leave you my heir, who is a lion and an eagle in one
-
-person; obey him, and he will elevate Egypt to incomparable power.'."
-
-"Dost Thou think that the priests will obey me?"
-
-"Remember," answered the queen, "that the device of the pharaoh is a
-
-serpent, and a serpent means prudence, which is silent, and no one
-
-knows when it will bite mortally. If Thou take time as thy confederate,
-
-Thou wilt accomplish everything."
-
-"Herhor is tremendously haughty. Today he dared to put on the miter of
-
-the holy Amenhotep. Of course I commanded him to set it aside. I will
-
-remove him from the government, him and certain members of the supreme
-
-council."
-
-The queen shook her head.
-
-"Egypt is thine," said she, "and the gods have endowed thee with great
-
-wisdom. Were it not for that, I should fear terribly a struggle with
-
-Herhor."
-
-"I do not dispute with him; I remove him."
-
-"Egypt is thine," repeated the queen, "but I fear a struggle with the
-
-priests. It is true that thy father, who was mild beyond measure, has
-
-made those men insolent, but it is not wise to bring them to despair
-
-through severity. Besides, think of this: Who will replace them in
-
-counsel? They know everything that has been, that is, and that will be
-
-on earth and in heaven; they know the most secret thoughts of mankind,
-
-and they direct hearts as the wind directs tree leaves. Without them
-
-Thou wilt be ignorant not only of what is happening in Tyre and
-
-Nineveh, but even in Thebes and Memphis."
-
-"I do not reject their wisdom, but I want service," answered the
-
-pharaoh. "I know that their understanding is great, but it must be
-
-controlled so that it may not deceive, and it must be directed lest it
-
-ruin the State. Tell me thyself, mother, what they have done with Egypt
-
-in the course of thirty years? The people suffer want, or are in
-
-rebellion; the army is small, the treasury is empty, and meanwhile two
-
-months' distance from us Assyria is increasing like dough containing
-
-leaven, and today is forcing on us treaties."
-
-"Do as may please thee, but remember that the device of a pharaoh is a
-
-serpent, and a serpent is silence and discretion."
-
-"Thou speakest truth, mother, but believe me, at certain times daring
-
-is better than prudence. The priests planned, as I know today, that the
-
-Libyan war should last entire years. I finished it in the course of a
-
-few days, and only because every day I took some mad but decisive step
-
-If I had not rushed to the desert against them, which by the way was a
-
-great indiscretion, we should have the Libyans outside Memphis at this
-
-moment."
-
-"I know that Thou didst hunt down Tehenna, and that Typhon caught
-
-thee," said the queen. "O hasty child, Thou didst not think of me."
-
-He smiled.
-
-"Be of good heart," replied Ramses. "When the pharaoh is in battle, at
-
-his left and his right hand stands Amon. Who then can touch him?"
-
-He embraced the queen once more and departed.
+Jeszcze raz uściskał królowę i wyszedł.

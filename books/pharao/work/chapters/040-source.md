@@ -1,883 +1,336 @@
-# Kapitel 40: CHAPTER XL
+# Kapitel 040: Tom II - Rozdział XV
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part46.xhtml*
 
 <!-- status: pending -->
 
-Among the inhabitants of Pi-Bast alarming news had begun to circulate
+Już i między ludem miasta Pi-Bast zaczęły rozchodzić się groźne wieści o Libijczykach. Opowiadano, że rozpuszczeni przez kapłanów żołnierze barbarzyńscy, wracając do swej ojczyzny, z początku żebrali, potem kradli, a w końcu zaczęli rabować i palić wsie egipskie, mordując przy tym mieszkańców.
 
-concerning the Libyans. It was said that those barbarian warriors,
+W ten sposób w ciągu kilku dni zostały napadnięte i zniszczone miasta: Chinensu, Pimat
 
-disbanded by the priests, began by begging on the road homeward, then
+Toteż jeżeli którego wieczoru zachodni pas nieba czerwienił się zbyt długo, na mieszkańców Pi-Bast padała trwoga. Ludzie gromadzili się po ulicach, niektórzy wchodzili na płaskie dachy lub wdrapywali się na drzewa i stamtąd ogłaszali, że — widzą pożar w Menuf albo w Sechem
 
-they stole, and finally they fell to robbing and burning Egyptian
+Pomimo wzburzenia ludności rządcy nomesu zachowywali się obojętnie; władza bowiem centralna nie przysłała im żadnych rozkazów.
 
-villages, murdering the inhabitants meanwhile.
+Książę Ramzes wiedział o niepokoju tłumów i widział obojętność pi-basteńskich dygnitarzy. Wściekły gniew ogarniał go, że nie otrzymuje żadnych poleceń z Memfisu i że ani Mefres, ani Mentezufis nie rozmawiają z nim o tych alarmach zagrażających państwu.
 
-In the course of a few days they attacked and destroyed the towns of
+Lecz ponieważ obaj kapłani nie zgłaszali się do niego, nawet jakby unikali rozmowy z nim, więc i namiestnik nie szukał ich ani robił żadnych przygotowań wojskowych.
 
-Chinen-su, Pinat, and Kasa, south of Lake Moeris, and they cut down
+W końcu przestał odwiedzać stojące pod Pi-Bast pułki, a natomiast, zgromadziwszy do pałacu całą szlachecką młodzież, bawił się i ucztował, tłumiąc w sercu oburzenie na kapłanów i obawę o losy państwa.
 
-also a caravan of merchants and Egyptian pilgrims returning from the
+— Zobaczysz!... — powiedział raz do Tutmozisa. — Święci prorocy wykierują nas tak, że Musawasa zabierze Dolny Egipt, a my będziemy musieli uciekać do Tebów, jeżeli nie do Sunnu, o ile znowu stamtąd nie wypędzą nas Etiopowie
 
-oasis Uit-Mehe. The entire western boundary of the state was in peril,
+— Prawdę rzekłeś — odparł Tutmozis — że nasi władcy poczynają sobie, jakby byli zdrajcami.
 
-and even from Teremethis inhabitants began to flee. And in the
+Pierwszego dnia miesiąca Hator (sierpień — wrzesień) odbywała się w pałacu następcy największa uczta. Zaczęto bawić się od drugiej po południu, a nim słońce zaszło, już wszyscy byli pijani. Doszło do tego, że mężczyźni i kobiety tarzali się po podłodze zlanej winem, zasypanej kwiatami i skorupami potłuczonych dzbanów.
 
-neighborhood beyond that, toward the sea, appeared bands of Libyans,
+Książę był między nimi najprzytomniejszy. Jeszcze nie leżał, ale siedział na fotelu, trzymając na kolanach dwie piękne tancerki, z których jedna poiła go winem, druga oblewała mu głowę silnymi wonnościami.
 
-sent, as it were, by the terrible chief, Musawasa, who, it seemed, was
+W tej chwili wszedł na sale adiutant i przelazłszy przez kilku pijanych biesiadników, zbliżył się do następcy.
 
-to declare a sacred war against Egypt.
+— Dostojny panie — szepnął — święci Mefres i Mentezufis pragną natychmiast rozmówić się z wami...
 
-Moreover, if any evening a western strip of sky was red for too long a
+Następca odepchnął dziewczęta i zarumieniony, w poplamionym kaftanie, chwiejnym krokiem potoczył się do swego pokoju, na górę.
 
-time alarm fell on Pi-Bast. The people gathered along the streets; some
+Na jego widok Mefres i Mentezufis spojrzeli po sobie.
 
-of them went out on the flat roofs, or climbed trees, and declared that
+— Czego chcecie, dostojnicy? — spytał książę, upadając na krzesło.
 
-they saw a fire in Menuf or in Sechem. Some, even, in spite of
+— Nie wiem, czy wasza dostojność będziesz mógł wysłuchać nas... — odparł zakłopotany Mentezufis.
 
-darkness, saw fleeing people, or Libyan bands marching toward Pi-Bast
+— A!... myślicie, żem się upił? — zawołał książę. — Nie lękajcie się... Dziś cały Egipt jest tak oszalały czy głupi, że jeszcze w pijakach najwięcej zostało rozsądku...
 
-in long black columns.
+Kapłani zachmurzyli się, lecz Mentezufis zaczął:
 
-Notwithstanding the indignation of people, the rulers of provinces
+— Wasza dostojność wie, że pan nasz i najwyższa rada postanowili uwolnić dwadzieścia tysięcy wojsk najemnych...
 
-remained indifferent, for the central power issued no order.
+— No niby nie wiem... — przerwał następca. — Nie raczyliście przecież nie tylko zasięgnąć mojej rady w kwestii tak mądrego postanowienia, ale nawet nie raczyliście zawiadomić mnie, że już cztery pułki rozpędzono i że ludzie ci z głodu napadają nasze miasta...
 
-Prince Ramses saw this alarm of the people and the indifference of
+— Zdaje mi się, że wasza dostojność sądzisz rozkazy jego świątobliwości faraona... — wtrącił Mentezufis.
 
-dignitaries. Mad anger seized him, because he received no command from
+— Nie jego świątobliwości!... — zawołał książę, tupiąc nogą — ale tych zdrajców, którzy korzystając z choroby mego ojca i władcy chcą zaprzedać państwo Asyryjczykom i Libijczykom...
 
-Memphis, and because neither Mefres nor Mentezufis spoke with him of
+Kapłani osłupieli. Podobnych wyrazów nie wypowiedział żaden jeszcze Egipcjanin.
 
-dangers threatening Egypt.
+— Pozwól, książę, ażebyśmy wrócili za parę godzin... gdy się uspokoisz... — rzekł Mefres.
 
-But since neither priest visited him, and both, as it were, avoided
+— Nie ma potrzeby. Wiem, co się dzieje na naszej zachodniej granicy... A raczej nie ja wiem, tylko moi kucharze, chłopcy stajenni i pomywaczki. Może więc zechcecie teraz, czcigodni ojcowie, i mnie wtajemniczyć w wasze plany?...
 
-conversation, the viceroy did not seek them, nor did he make any
+Mentezufis przybrał obojętną fizjognomię i mówił:
 
-military preparations.
+— Libijczycy zbuntowali się i zaczynają zbierać bandy z zamiarem napadu na Egipt.
 
-At last he ceased to visit the regiments stationed at Pi-Bast, but
+— Rozumiem.
 
-assembling at the palace all the young nobles, he amused himself and
+— Z woli zatem jego świątobliwości — ciągnął Mentezufis — i najwyższej rady, masz, wasza dostojność, zebrać wojska z Dolnego Egiptu i zniszczyć buntowników.
 
-feasted, repressing in his heart indignation at the priests and anxiety
+— Gdzie rozkaz?
 
-for the fate of the country.
+Mentezufis wydobył z zanadrza pargamin opatrzony pieczęciami i wręczył go księciu.
 
-"Thou wilt see!" said he once to Tutmosis. "The holy prophets will
+— Więc od tej chwili jestem naczelnym wodzem i najwyższą władzą w tej prowincji? — spytał następca.
 
-manage us so that Musawasa will take Lower Egypt, and we shall have to
+— Tak jest, jak rzekłeś.
 
-flee to Thebes, if not to Sunnu, unless the Ethiopians drive us also
+— I mam prawo odbyć z wami naradę wojenną?...
 
-from that place."
+— Koniecznie... — odparł Mefres. — Choć w tej chwili...
 
-"Thou speakest truth," replied Tutmosis; "our rulers' acts resemble
+— Siadajcie — przerwał książę.
 
-those of traitors."
+Obaj kapłani spełnili rozkaz.
 
-The first day in the month of Hator (August-September) a great feast
+— Pytam się was, bo to potrzebne jest do moich planów: dlaczego rozpuszczono libijskie pułki?...
 
-was given at the palace of the viceroy. They began to amuse themselves
+— I rozpuści się inne — pochwycił Mentezufis. — Otóż rada najwyższa dlatego chce pozbyć się dwudziestu tysięcy najkosztowniejszych żołnierzy, aby skarbowi jego świątobliwości dostarczyć rocznie czterech tysięcy talentów, bez czego dwór królewski może znaleźć się w niedostatku...
 
-at two in the afternoon, and before sunset all present were drunk. It
+— Co jednak nie grozi najnędzniejszemu z egipskich kapłanów!... — wtrącił książę.
 
-went so far that men and women rolled on the floor, which was wet with
+— Zapominasz, wasza dostojność, że kapłana nie godzi się nazywać „nędznym” — odparł Mentezufis. — A że nie grozi żadnemu z nich niedostatek, to jest zasługą ich powściągliwego trybu życia.
 
-wine and covered with flowers and pieces of broken pitchers.
+— W takim razie chyba posągi wypijają wino, co dzień odnoszone do świątyń, i kamienni bogowie stroją swoje kobiety w złoto i drogie klejnoty — szydził książę. — Ale mniejsza o waszą powściągliwość!... Rada kapłańska nie dlatego rozpędza dwadzieścia tysięcy wojska i otwiera bramy Egiptu bandytom, ażeby napełnić skarb faraona...
 
-The prince was the soberest among them. He was not on the floor, he was
+— Tylko?...
 
-sitting in an armchair, holding on his knees two beautiful dancers, one
+— Tylko dlatego, ażeby przypodobać się królowi Assarowi. A ponieważ jego świątobliwość nie zgodził się na oddanie Asyryjczykom Fenicji, więc wy chcecie osłabić państwo w inny sposób: przez rozpuszczenie najemników i wywołanie wojny na naszej zachodniej granicy...
 
-of whom was giving him wine, while the other was pouring strong
+— Biorę bogów na świadectwo, że zdumiewasz nas, wasza dostojność!... — zawołał Mentezufis.
 
-perfumes on his head.
+— Cienie faraonów bardziej zdumiałyby się, usłyszawszy, że w tym samym Egipcie, w którym spętano królewską władzę, jakiś chaldejski oszust wpływa na losy państwa...
 
-At this moment an adjutant entered the hall, and, stepping over a
+— Uszom nie wierzę!... — odparł Mentezufis. — Co wasza dostojność mówisz o jakimś Chaldejczyku?...
 
-number of guests lying prostrate, hurried up to Ramses.
+Namiestnik śmiał się szyderczo.
 
-"Worthy lord," said he, "the holy Mefres and the holy Mentezufis wish
+— Mówię o Beroesie... Jeżeli ty, święty mężu, nie słyszałeś o nim, zapytaj czcigodnego Mefresa, a gdyby i on zapomniał, niech odwoła się do Herhora i Pentuera...
 
-to speak at once with thee."
+Oto wielka tajemnica waszych świątyń!... Obcy przybłęda, który jak złodziej dostał się do Egiptu, narzuca członkom najwyższej rady traktat tak haniebny, że moglibyśmy podpisać go dopiero po przegraniu bitew, po utracie wszystkich pułków i obu stolic.
 
-The viceroy pushed the girls away, and with red face, stained garments,
+I pomyśleć, że zrobił to jeden człowiek, najpewniej szpieg króla Assara!... A nasi mędrcy tak dali się oczarować jego wymowie, że gdy faraon nie pozwolił im wyrzec się Fenicji, to oni przynajmniej rozpuszczają pułki i wywołują wojnę na granicy zachodniej...
 
-and tottering steps went to his chamber in the upper story. At sight of
+Słyszana rzecz?... — ciągnął już nie panując nad sobą Ramzes. — Gdy jest najlepsza pora zwiększyć armię do trzystu tysięcy ludzi i popchnąć ją do Niniwy, ci pobożni szaleńcy rozpędzają dwadzieścia tysięcy wojsk i podpalają własny dom...
 
-him Mefres and Mentezufis looked at each other.
+Mefres, sztywny i blady, słuchał tych okrutnych szyderstw. Wreszcie zabrał głos:
 
-"What do ye wish, worthy fathers?" asked the prince, dropping into an
+— Nie wiem, dostojny panie, z jakiego źródła czerpałeś swoje wiadomości... Oby ono było równie czystym jak serca członków najwyższej rady! Przypuśćmy jednak, że masz słuszność i że jakiś chaldejski kapłan potrafił skłonić radę do podpisania ciężkiej umowy z Asyrią. Otóż gdyby tak się zdarzyło, to skąd wiesz, że ów kapłan nie był wysłannikiem bogów, którzy przez jego usta ostrzegli nas o wiszących nad Egiptem niebezpieczeństwach?...
 
-armchair.
+— Odkądże to Chaldejczycy cieszą się takim zaufaniem u was? — zapytał książę.
 
-"I do not know whether Thou wilt be able to hear us," answered the
+— Kapłani chaldejscy są starszymi braćmi egipskich — wtrącił Mentezufis.
 
-anxious Mentezufis.
+— To może i król asyryjski jest władcą faraona? — wtrącił książę.
 
-"Ah! do ye think that I am tipsy?" cried the prince. "Have no fear.
+— Nie bluźnij, wasza dostojność — surowo przerwał Mefres. — Lekkomyślnie szperasz w najświętszych tajemnicach, a to bywało niebezpiecznym nawet dla większych od ciebie!
 
-Today all Egypt is either so mad or so stupid that most sense is found
+— Dobrze, nie będę szperał. Po czym jednak można poznać, że jeden Chaldejczyk jest wysłannikiem bogów, a drugi szpiegiem króla Assara?
 
-among drinkers."
+— Po cudach — odparł Mefres. — Gdyby na twój rozkaz, książę, ten pokój napełnił się duchami, gdyby niewidzialne moce uniosły cię w powietrze, powiedzielibyśmy, żeś jest narzędziem nieśmiertelnych, i słuchalibyśmy twej rady...
 
-The priests frowned, but Mentezufis began,
+Ramzes wzruszył ramionami.
 
-"Thou knowest, worthiness, that our lord and the supreme council
+— I ja widziałem duchy: robiła je młoda dziewczyna... I ja widziałem w cyrku leżącego w powietrzu kuglarza...
 
-determined to disband twenty thousand mercenary warriors?"
+— Tylkoś nie dojrzał cienkich sznurków, które trzymali w zębach czterej jego pomocnicy... — wtrącił Mentezufis.
 
-"Well, if I do not know?" said the heir. "Ye have not deigned to ask my
+Książę znowu roześmiał się i przypomniawszy sobie, co mu Tutmozis opowiadał o nabożeństwach Mefresa, rzekł szyderczym tonem:
 
-advice in a question so difficult to determine, ye have not even
+— Za króla Cheopsa pewien arcykapłan chciał koniecznie latać po powietrzu. W tym celu modlił się do bogów, a swoim podwładnym kazał uważać: czy go nie podnoszą niewidzialne siły?... I co powiecie, święci mężowie: od tej pory nie było dnia, ażeby prorocy nie zapewniali arcykapłana, że unosi się w powietrzu, wprawdzie niewysoko, bo tylko na palec od podłogi... Ale... co to waszej dostojności? — spytał nagle Mefresa.
 
-thought it worth while to inform me that four regiments are disbanded,
+Istotnie arcykapłan, słuchając swojej własnej historii, zachwiał się na krześle i byłby upadł, gdyby nie podtrzymał go Mentezufis.
 
-and that those men, because of hunger, are attacking our cities."
+Ramzes zmieszał się. Podał starcowi wody do picia, natarł mu czoło i skronie octem, zaczął go chłodzić wachlarzem...
 
-"It seems to me, worthiness, that Thou art criticizing the commands of
+Wkrótce święty Mefres przyszedł do siebie. Powstał z krzesła i rzekł do Mentezufisa:
 
-his holiness the pharaoh," interrupted Mentezufis.
+— Już chyba możemy odejść?
 
-"Not of his holiness!" cried the prince, stamping, "but of those
+— I ja tak myślę.
 
-traitors who, taking advantage of the sickness of my father, wish to
+— A ja co mam robić? — spytał książę, czując, że stało się coś złego.
 
-sell Egypt to Assyrians and Libyans."
+— Spełnić obowiązki naczelnego wodza — odparł zimno Mentezufis.
 
-The priests were astounded. No Egyptian had ever used words of that
+Obaj kapłani ceremonialnie ukłonili się księciu i wyszli. Namiestnik był już całkiem trzeźwy, ale na serce spadł mu wielki ciężar. W tej chwili zrozumiał, że popełnił dwa ciężkie błędy: przyznał się kapłanom do tego, że zna ich wielką tajemnicę, i — niemiłosiernie zadrwił z Mefresa.
 
-kind.
+Oddałby rok życia, gdyby można zatrzeć w ich pamięci całą tę pijacką rozmowę. Ale już było za późno.
 
-"Permit, prince, that we return in a couple of hours, when Thou shalt
+„Nie ma co — myślał — zdradziłem się i kupiłem sobie śmiertelnych wrogów. Ale trudno. Walka zaczyna się w chwili najniekorzystniejszej dla mnie... Lecz idźmy dalej. Niejeden przecie faraon walczył z kapłaństwem i zwyciężył je, nawet nie mając zbyt silnych sprzymierzeńców.”
 
-have calmed thyself," said Mefres.
+Tak jednak uczuł niebezpieczeństwo swego położenia, że w tej chwili przysiągł, na świętą głowę ojca, nigdy już nie pić większej ilości wina.
 
-"There is no need of that. I know what is happening on our western
+Kazał zawołać Tutmozisa. Powiernik zjawił się natychmiast, zupełnie trzeźwy.
 
-boundary. Or rather it is not I who know, but my cooks, stable-boys,
+— Mamy wojnę i jestem naczelnym wodzem — rzekł następca.
 
-and laundrymen. Perhaps then ye will have the goodness, worthy fathers,
+Tutmozis ukłonił się do ziemi.
 
-to communicate your plans to me."
+— I nigdy już nie będę upijał się — dodał książę. — A wiesz dlaczego?
 
-Mentezufis assumed a look of indifference, and said,
+— Wódz powinien wystrzegać się wina i odurzających woni — odparł Tutmozis.
 
-"The Libyans have rebelled and are collecting bands with the intention
+— Nie pamiętałem o tym i... wygadałem się przed kapłanami...
 
-of attacking Egypt."
+— Z czym? — zawołał przestraszony Tutmozis.
 
-"I understand."
+— Że ich nienawidzę i żartuję z ich cudów...
 
-"At the desire, therefore, of his holiness," continued Mentezufis, "and
+— Nic nie szkodzi. Oni chyba nigdy nie rachują na ludzką miłość.
 
-of the supreme council, Thou art to take troops from Lower Egypt and
+— I że znam ich polityczne tajemnice — dodał książę.
 
-annihilate the rebels."
+— Aj!... — syknął Tutmozis. — To jedno było niepotrzebne...
 
-"Where is the order?"
+— Mniejsza o to — mówił Ramzes. — Wyślij natychmiast szybkobiegaczy do pułków, ażeby jutro z rana dowódcy zjechali się na radę wojenną. Każ zapalić sygnały alarmowe, ażeby wszystkie wojska Dolnego Egiptu od jutra maszerowały ku zachodniej granicy. Pójdź do nomarchy i zapowiedz mu, aby uwiadomił innych nomarchów o potrzebie gromadzenia żywności, odzieży i broni.
 
-Mentezufis drew forth from his bosom a parchment provided with seals,
+— Będziemy mieli kłopot z Nilem — wtrącił Tutmozis.
 
-and gave it to the viceroy.
+— Toteż niech wszystkie czółna i statki zatrzymają na odnogach Nilowych dla przewozu wojsk. Trzeba też wezwać nomarchów, ażeby zajęli się przygotowaniem pułków rezerwowych...
 
-"From this moment then I command, and am the supreme power in this
+Tymczasem Mefres i Mentezufis wracali do swych mieszkań, przy świątyni Ptah. Gdy znaleźli się sami w celi, arcykapłan podniósł ręce do góry i zawołał:
 
-province," said the viceroy.
+— Trójco nieśmiertelnych bogów: Ozyrysie, Izydo i Horusie — ratujcie Egipt od zagłady!... Jak świat światem, żaden faraon nie wypowiedział tylu bluźnierstw, ile dziś usłyszeliśmy od tego dzieciaka... Co mówię — faraon?... Żaden wróg Egiptu, żaden Cheta, Fenicjanin, Libijczyk nie ośmieliłby się tak znieważać kapłańskiej nietykalności...
 
-"It is as Thou hast said."
+— Wino robi człowieka przezroczystym — odparł Mentezufis.
 
-"And I have the right to hold a military council with you?"
+— Ależ w tym młodym sercu kłębi się gniazdo żmij... Poniewiera stan kapłański, szydzi z cudów, nie wierzy w bogów...
 
-"Of course," replied Mefres. "Even this moment
+— Najwięcej jednak zastanawia mnie to — rzekł zamyślony Mentezufis — skąd on wie o waszych układach z Beroesem? Bo że wie, na to przysięgnę.
 
-"Sit down," interrupted the prince.
+— Dokonano okropnej zdrady — odparł Mefres, chwytając się za głowę.
 
-Both priests obeyed his command.
+— Rzecz bardzo dziwna! Było was czterech...
 
-"I ask because in view of my plans I must know why the Libyan regiments
+— Wcale nie czterech. Boć o Beroesie wiedziała starsza kapłanka Izydy, dwaj kapłani, którzy mu wskazali drogę do świątyni Seta, i kapłan, który go przyjął u wrót... Czekaj no!... — mówił Mefres. — Ten kapłan wciąż siedział w podziemiach... A jeżeli podsłuchiwał?...
 
-were disbanded."
+— W każdym razie nie sprzedał tajemnicy dzieciakowi, ale komuś poważniejszemu. A to jest niebezpieczne!...
 
-"Others too will be disbanded," caught up Mentezufis. "The supreme
+Do celi zapukał arcykapłan świątyni Ptah, święty Sem.
 
-council desires to disband twenty thousand of the most expensive
+— Pokój wam — rzekł, wchodząc.
 
-warriors, so that the treasury of his holiness may save four thousand
+— Błogosławieństwo sercu twemu. — Przyszedłem, bo tak podnosicie głos, jakby stało się jakie nieszczęście. Chyba nie przeraża was wojna z nędznym Libijczykiem?... — mówił Sem.
 
-talents yearly, without which want may soon threaten the court of the
+— Co byś też myślał, wasza cześć, o księciu następcy tronu? — przerwał mu Mentezufis.
 
-pharaoh."
+— Ja myślę — odparł Sem — że on musi być bardzo kontent z wojny i naczelnego dowództwa. Oto urodzony bohater! Gdy patrzę na niego, przychodzi mi na myśl lew Ramzesa.... Ten chłopak gotów sam rzucić się na wszystkie bandy libijskie i zaprawdę — może je rozproszyć.
 
-"A thing which does not threaten the most wretched of Egyptian
+— Ten chłopak — odezwał się Mefres — może wywrócić wszystkie nasze świątynie i zmazać Egipt z oblicza ziemi.
 
-priests," added Ramses.
+Święty Sem szybko wyjął złoty amulet, który nosił na piersiach, i szepnął:
 
-"Thou forgettest, worthiness, that it is not proper to call a priest
+— Ucieknijcie, złe słowa, na pustynię... Oddalcie się i nie róbcie szkody sprawiedliwym. Co też wygaduje wasza dostojność!... — rzekł głośniej, tonem wyrzutu.
 
-wretched," replied Mentezufis. "And if want threatens none of them, the
+— Dostojny Mefres mówi prawdę — odezwał się Mentezufis. — Głowa by cię zabolała i żołądek, gdyby ludzkie wargi mogły powtórzyć bluźnierstwa, jakie dziś usłyszeliśmy od tego młodzieniaszka.
 
-merit is found in their moderate style of living."
+— Nie żartuj, proroku — oburzył się arcykapłan Sem. — Prędzej uwierzyłbym, że woda płonie, a powietrze gasi, aniżeli w to, że Ramzes dopuszcza się bluźnierstw...
 
-"In that case the statues drink the wine which is carried every day to
+— Robił to niby po pijanemu — wtrącił złośliwie Mefres.
 
-the temples, while stone gods dress their wives in gold and jewels,"
+— Choćby nawet. Nie przeczę, że jest to książę lekkomyślny i hulaka, ale bluźnierca!...
 
-jeered Ramses. "But no more about your abstemiousness. Not to fill the
+— Tak i myśmy sądzili — mówił Mentezufis. — A tak byliśmy pewni, że znamy jego charakter, iż gdy wrócił ze świątyni Hator, przestaliśmy nawet rozciągać nad nim kontroli...
 
-treasury of the pharaoh has the council of priests disbanded twenty
+— Żal ci było złota na opłacanie dozorców — wtrącił Mefres. — Widzisz, jakie skutki pociąga na pozór drobne zaniedbanie!...
 
-thousand troops and opened the gates of Egypt to bandits."
+— Ale cóż się stało? — pytał niecierpliwie Sem.
 
-"But why?"
+— Krótko odpowiem: książę następca drwi z bogów...
 
-"This is why: to please King Assar. And since his holiness would not
+— Och!...
 
-agree to give Phoenicia to Assyria, ye wish to weaken the state in
+— Sądzi rozkazy faraona...
 
-another way, by disbanding hired troops and rousing war on our western
+— Czy podobna?...
 
-boundary."
+— Najwyższą radę nazywa zdrajcami...
 
-"I take the gods to witness that Thou dost astonish us, worthiness,"
+— Ależ...
 
-cried Mentezufis.
+— I od kogoś dowiedział się o przybyciu Beroesa, a nawet o jego widzeniu się z Mefresem, Herhorem i Pentuerem w świątyni Seta...
 
-"The shades of the pharaohs would be more astonished if they heard that
+Arcykapłan Sem porwał się oburącz za głowę i począł biegać po celi.
 
-in this same Egypt in which the power of the pharaoh is hampered, some
+— Niepodobna... — mówił. — Niepodobna!... Chyba rzucił kto urok na tego młodzieńca... Może owa kapłanka fenicka, którą wykradł ze świątyni?...
 
-Chaldean trickster is influencing the fate of the nation."
+Mentezufisowi uwaga ta wydała się tak trafną, że spojrzał na Mefresa. Ale rozdrażniony arcykapłan nie dał się zbić z toru.
 
-"I do not believe my own ears," replied Mentezufis. "What dost Thou say
+— Zobaczymy — odparł. — Pierwej jednak trzeba przeprowadzić śledztwo, ażebyśmy dzień po dniu wiedzieli: co robił książę od powrotu ze świątyni Hator? Za dużo miał swobody, za dużo stosunków z niewiernymi i nieprzyjaciółmi Egiptu. A ty, dostojny Semie, pomożesz nam...
 
-of some Chaldean?"
+Skutkiem tej uchwały, arcykapłan Sem zaraz nazajutrz kazał wzywać lud na uroczyste nabożeństwo do świątyni Ptah.
 
-The viceroy laughed sneeringly.
+Stawali tedy na rogach ulic, na placach, nawet na polach heroldowie kapłańscy i zwoływali wszelki lud za pomocą trąb i fletów. A gdy zebrała się dostateczna liczba słuchaczy, donosili im, że w świątyni Ptah przez trzy dni odbywać się będą modły i procesje na intencję, aby dobry bóg błogosławił orężowi egipskiemu i pognębił Libijczyków. Zaś na wodza ich, Musawasę, aby zesłał trąd, ślepotę i szaleństwo.
 
-"I speak of Beroes. If thou, holy man, hast not heard of him, ask the
+Stało się, jak chcieli kapłani. Od rana do późnej nocy lud prosty wszelkiego zajęcia gromadził się dokoła murów świątyni, arystokracja i bogaci mieszczanie zbierali się w przysionku zewnętrznym, a kapłani miejscowi i sąsiednich nomesów składali ofiarę bogu Ptah i zanosili modły w kaplicy najświętszej.
 
-revered Mefres, and if he has forgotten turn then to Herhor and
+Trzy razy dziennie wychodziła uroczysta procesja, podczas której obnoszono w złotej łodzi zasłoniętej firankami czcigodny posąg bóstwa. Przy czym lud padał na twarz i głośno wyznawał nieprawości swoje, a gęsto rozrzuceni w tłumie prorocy, za pomocą stosownych pytań, ułatwiali mu skruchę. Toż samo działo się w przysionku świątyni. Ponieważ jednak ludzie dostojni i bogaci nie lubili oskarżać się głośno, więc święci ojcowie brali żałujących na stronę i po cichu udzielali im rad i upomnień.
 
-Pentuer."
+W południe nabożeństwo było najuroczystsze. O tej bowiem godzinie przychodziły wojska maszerujące na zachód, aby otrzymać błogosławieństwo arcykapłana i odświeżyć potęgę swoich amuletów, mających własność osłabiania nieprzyjacielskich ciosów.
 
-"That is a great secret of our temples
+Niekiedy w świątyni rozlegały się grzmoty, a w porze nocnej nad pylonami błyskało się. Był to znak, że bożek wysłuchał czyichś modłów albo że rozmawiał z kapłanami.
 
-"A foreign adventurer came like a thief to Egypt, and put on the
+Kiedy po zakończeniu uroczystości trzej dostojnicy: Sem, Mefres i Mentezufis, zeszli się na poufną naradę, sytuacja była już wyjaśniona.
 
-members of the supreme council a treaty so shameful that we should be
+Nabożeństwo przyniosło świątyni około czterdziestu talentów dochodu; lecz około sześćdziesięciu talentów wydano na prezenta lub spłatę długów rozmaitych osób z arystokracji tudzież wyższych wojskowych.
 
-justified in signing it only after we had lost battles, lost all our
+Wiadomości zaś zebrano następujące:
 
-regiments and both capitals. And to think that this was done by one
+Między wojskiem krążyła pogłoska, że byle książę Ramzes wstąpił na tron, rozpocznie z Asyrią wojnę, która przyjmującym w niej udział zapewni wielkie zyski. Najniższy żołnierz, mówiono, nie wróci z tej wyprawy bez tysiąca drachm, jeżeli nie lepiej. Między ludem szeptano, że gdy faraon po zwycięstwie wróci z Niniwy, wszystkich chłopów obdarzy niewolnikami i na pewną liczbę lat daruje Egiptowi podatki.
 
-man, most assuredly a spy of King Assar! And our sages let themselves
+Arystokracja zaś sądziła, że nowy faraon przede wszystkim — odbierze kapłanom, a zwróci szlachcie wszystkie dobra, które stały się własnością świątyń, jako pokrycie zaciągniętych długów. Mówiono też, że przyszły faraon będzie rządził samowładnie, bez udziału najwyższej rady kapłańskiej.
 
-be so charmed by his eloquence, that, when the pharaoh would not let
+W końcu we wszystkich warstwach społecznych panowało przekonanie, że książę Ramzes, aby zapewnić sobie pomoc Fenicjan, nawrócił się do bogini Istar i do niej szczególne okazywał nabożeństwo. W każdym razie było rzeczą pewną, że następca odwiedzał raz świątynię Istar w nocy i widział tam jakieś cuda. Zresztą między bogatymi Azjatami krążyły pogłoski, że Ramzes złożył świątyni wielkie dary, a w zamian dostał stamtąd kapłankę, która miała go utwierdzać w wierze.
 
-them give up Phoenicia, they disbanded regiments in every case, and
+Wszystkie te wiadomości zebrał najdostojniejszy Sem i jego kapłani. Zaś ojcowie święci: Mefres i Mentezufis, zakomunikowali mu inną nowinę, która przyszła do nich z Memfisu.
 
-caused war on our western boundary. Have we ever heard of a deed like
+Oto — kapłana chaldejskiego i cudotwórcę, Beroesa, przyjmował w podziemiach świątyni Seta kapłan Osochor, który we dwa miesiące później wydając za mąż swoją córkę obdarował ją bogatymi klejnotami i kupił nowożeńcom duży folwark. A ponieważ Osochor nie miał tak znacznych dochodów, rodziło się więc podejrzenie, że ów kapłan, podsłuchawszy rozmowę Beroesa z egipskimi dostojnikami, sprzedał następnie tajemnicę traktatu Fenicjanom i otrzymał od nich wielki majątek.
 
-this?" continued Ramses, no longer master of himself. "When it was just
+Wysłuchawszy tego, arcykapłan Sem rzekł:
 
-the time to raise the army to three hundred thousand and hurry on to
+— Jeżeli święty Beroes jest naprawdę cudotwórcą, to przede wszystkim jego zapytajcie: czy Osochor zdradził tajemnicę?...
 
-Nineveh, those pious maniacs discharged twenty thousand men and fired
+— Pytano się o to cudownego Beroesa — odparł Mefres — ale święty mąż powiedział, że w tej sprawie chce milczeć. Dodał też, że choćby nawet ktoś podsłuchał ich układy i doniósł o tym Fenicjanom, Egipt ani Chaldea nie poniosą żadnej szkody. Gdyby więc znalazł się winowajca, należy okazać mu miłosierdzie.
 
-their own dwelling-house."
+— Święty!... zaiste święty to mąż!... — szeptał Sem.
 
-Mefres, still and pale, listened to these jeers. At last he said,
+— A co wasza dostojność — rzekł Mefres do Sema — sądzisz o księciu następcy i niepokojach, jakie wywołało jego postępowanie?
 
-"I know not, worthy lord, from what source Thou hast taken thy
+— Powiem to samo, co Beroes: następca nie zrobi szkody Egiptowi, więc trzeba mieć pobłażliwość...
 
-information. May it be as pure as the hearts of the highest counselors!
+— Młodzik ten drwi z bogów i cudów, wchodzi do obcych świątyń, buntuje lud... To nie są małe rzeczy!... — mówił z goryczą Mefres, który nie mógł zapomnieć Ramzesowi, że w grubiański sposób zażartował z jego pobożnych praktyk.
 
-But let us suppose that Thou art right, that some Chaldean priest had
+Arcykapłan Sem lubił Ramzesa, więc odparł z dobrotliwym uśmiechem:
 
-power to bring the council to sign a burdensome treaty with Assyria. If
+— Który chłop w Egipcie nie rad by mieć niewolnika, ażeby wyrzec się swojej ciężkiej pracy dla słodkiego próżnowania?
 
-it happened thus, whence knowest Thou that that priest was not an envoy
+A czy jest na świecie człowiek, który by nie marzył o niepłaceniu podatków? Za to bowiem, co płaci skarbowi, jego żona, on sam i dzieci mogliby sprawić sobie ozdobną odzież i użyć rozmaitych przyjemności.
 
-of the gods, who through his lips forewarned us of dangers hanging over
+— Próżniactwo i nadmierne wydatki psują człowieka — odezwał się Mentezufis.
 
-Egypt?"
+— Który żołnierz — ciągnął Sem — nie chciałby wojny i nie pożądał tysiąca drachm zysku, a nawet i więcej?
 
-"How do the Chaldeans enjoy your confidence to such a degree?" asked
+Dalej — pytam was, ojcowie: który faraon, który nomarcha, który szlachcic chętnie płaci zaciągnięte długi i nie spogląda krzywym okiem na bogactwa świątyń?...
 
-the viceroy.
+— Bezbożna to pożądliwość! — szepnął Mefres.
 
-"The Chaldean priests are elder brothers of the Egyptians," interrupted
+— A nareszcie — mówił Sem — który następca tronu nie marzył o ograniczeniu powagi kapłanów, który faraon, w początkach panowania, nie chciał otrząsnąć się spod wpływu najwyższej rady?
 
-Mentezufis.
+— Słowa twoje są pełne mądrości — rzekł Mefres — ale do czego one mają nas doprowadzić?
 
-"Then perhaps the Assyrian king is the master of the pharaoh?"
+— Do tego, abyście nie oskarżali następcy przed najwyższą radą. Bo przecie nie ma sądu, który potępiłby księcia za to, że chłopi radzi by nie płacić podatków albo że żołnierze chcą wojny. Owszem, was mogłaby spotkać wymówka. Bo gdybyście dzień po dniu śledzili księcia i hamowali jego drobne wybryki, nie byłoby dziś piramidy oskarżeń, w dodatku — na niczym nie opartych.
 
-"Blaspheme not, worthiness," said Mefres, severely. "Thou art pushing
+W podobnych sprawach nie to jest złem, że ludzie mają skłonność do grzechu, bo oni mieli ją zawsze. Ale to jest niebezpieczne, że myśmy ich nie pilnowali. Nasza święta rzeka, matka Egiptu, bardzo prędko zamuliłaby kanały, gdyby inżynierowie zaprzestali czuwać nad nią.
 
-into the most sacred things frivolously, and to do that has proved
+— A co powiesz, wasza dostojność, o wymysłach, jakich książę dopuścił się w rozmowie z nami?... Czy przebaczysz ohydne drwiny z cudów?... — spytał Mefres. — Przecie ten młodzik ciężko znieważył moją pobożność...
 
-perilous to men who were greater than Thou art."
+— Sam się obraża, kto rozmawia z pijakiem — odparł Sem. — Zresztą, wasze dostojności nie mieliście prawa rozmawiać o najważniejszych sprawach państwa z nietrzeźwym księciem... A nawet popełniliście błąd, mianując pijanego człowieka wodzem armii. Wódz bowiem musi być trzeźwy.
 
-"Well, I will not do so. But how is a man to know that one Chaldean is
+— Korzę się przed waszą mądrością — rzekł Mefres — ale głosuję za podaniem skargi na następcę do rady najwyższej.
 
-an envoy of the gods, and another a spy of King Assar?"
+— A ja głosuję przeciw skardze — odparł energicznie Sem. — Rada musi dowiedzieć się o wszystkich postępkach namiestnika, ale nie w formie skargi, tylko zwykłego raportu.
 
-"By miracles," answered Mefres. "If, at thy command, prince, this room
+— I ja jestem przeciw skardze — odezwał się Mentezufis.
 
-should fill with spirits, if unseen powers were to bear thee in the
+Arcykapłan Mefres, widząc, że ma przeciw sobie dwa głosy, ustąpił z żądaniem skargi na księcia. Ale wyrządzoną zniewagę zapamiętał i niechęć ukrył w sercu.
 
-air, we should know that Thou wert an agent of the immortals, and
-
-should respect thy counsel."
-
-Ramses shrugged his shoulders. "I, too, have seen spirits: a young girl
-
-made them. And I saw a juggler lying in the air in the amphitheatre."
-
-"But Thou didst not see the fine strings which his four assistants had
-
-in their teeth," put in Mentezufis.
-
-The prince laughed again, and, remembering what Tutmosis had told him
-
-about the devotions of Mefres, he said in a jeering tone,
-
-"In the days of Cheops a certain high priest wished absolutely to fly
-
-through the air. With this object he prayed to the gods, and commanded
-
-his inferiors to see whether unseen powers were not raising him. And
-
-what will ye say, holy fathers? From that time forth there was no day
-
-when prophets did not assure the high priest that he was borne in the
-
-air, not very high, it is true, about a finger from the pavement."
-
-"But what is that to thy power, worthiness?" inquired he of Mefres,
-
-suddenly.
-
-"The high priest, when he heard his own story, shook in the chair, and
-
-would have fallen had not Mentezufis supported him."
-
-Ramses bustled about, gave the old man water to drink, rubbed vinegar
-
-on his temples and forehead, and fanned him.
-
-Soon the holy Mefres recovered, rose from the chair, and said to
-
-Mentezufis,
-
-"May we not go now?"
-
-"I think so."
-
-"But what am I to do?" asked the prince, feeling that something evil
-
-had happened.
-
-"Accomplish the duties of leader," said Mentezufis, coldly.
-
-Both priests bowed to the prince ceremoniously, and departed. Ramses
-
-was not entirely sober, but a great weight fell on his heart. At that
-
-moment he understood that he had committed two grievous errors: He had
-
-confessed to the priests that he knew their great secret, and he had
-
-jeered, without mercy, at Mefres. He would have given a year of his
-
-life could he have blotted from their memories all that drunken
-
-conversation. But it was too late then to do so.
-
-"It cannot be hidden," thought he. "I have betrayed myself and procured
-
-mortal enemies. The position is difficult. The struggle begins at a
-
-moment which is for me most unfavorable. But let us go on. More than
-
-one pharaoh has struggled with the priests and conquered, even without
-
-having very strong allies."
-
-Still he felt the danger of his position so clearly that at that moment
-
-he swore by the sacred head of his father that he would never drink
-
-wine again freely. He summoned Tutmosis. The confidant appeared at
-
-once, perfectly sober.
-
-"We have a war, and I am commander," said the viceroy.
-
-Tutmosis bent to the earth.
-
-"I will never get drunk again," added the prince. "And knowest Thou
-
-why?"
-
-"A leader should abstain from wine and stupefying perfumes," said
-
-Tutmosis.
-
-"I have not thought of that, that is nothing; but I have babbled out a
-
-secret before the priests."
-
-"What secret?" cried the terrified Tutmosis.
-
-"This, that I hate them, and jeer at their miracles."
-
-"Oh, that is no harm. They never calculate on the love of people."
-
-"And that I know their political secrets," added the prince.
-
-"Ei!" hissed Tutmosis. "That is the one thing that was not needed."
-
-"No help for it now," said Ramses. "Send out our couriers immediately
-
-to the regiments; let the chiefs meet to-morrow morning in a military
-
-council. Give command to light alarm signals, so that all the troops of
-
-Lower Egypt may march toward the western border to-morrow. Go to the
-
-nomarchs here, and command them to inform all the others to collect
-
-clothing, provisions, and weapons."
-
-"We shall have trouble with the Nile," said Tutmosis.
-
-"Then let every boat and barge be held at the arms of the Nile to ferry
-
-over troops. We must summon every nomarch to occupy himself in fitting
-
-out reserves."
-
-Meanwhile Mefres and Mentezufis returned to their dwellings in the
-
-temple of Ptah. When they were alone in a cell, the high priest raised
-
-his hands, and exclaimed,
-
-"O Trinity of immortal gods, Osiris, Isis, and Horus, save Egypt from
-
-destruction! Since the world became the world, no pharaoh has ever
-
-uttered so many blasphemies as we have heard today from that stripling.
-
-What do I say, pharaoh? No enemy of Egypt, no Hittite, Phoenician, or
-
-Libyan has ever dared so to insult priestly immunity."
-
-"Wine makes a man transparent," answered Mentezufis.
-
-"But in that youthful heart is a nest of serpents. He insults the
-
-priestly rank, he jeers at miracles, he has no belief in gods."
-
-"But this concerns me most," said Mentezufis, thoughtfully, "how did he
-
-learn of our negotiations with. Beroes? for he knows them, I will swear
-
-to that."
-
-"A dreadful treason has been committed," added Mefres, seizing his
-
-head.
-
-"A very wonderful thing! There were four of us."
-
-"Not at all four of us. The elder priestess of Isis knew of Beroes, two
-
-priests who showed him the road to the temple of Set, and a priest who
-
-received him at the door. But wait! that priest spends all his time in
-
-underground places. But if he overheard?"
-
-"In every case he did not sell the secret to a stripling, but to some
-
-one more important; and that is dangerous."
-
-The high priest of the temple of Ptah, the holy Sem, knocked at the
-
-door of the cell.
-
-"Peace to you," said he, entering.
-
-"Blessing to thy heart."
-
-"I came, for ye were raising your voices as if some misfortune had
-
-happened. Does this war with the wretched Libyans not surprise you?"
-
-"What dost Thou think of the prince, the heir to the throne?" asked
-
-Mentezufis, interrupting him.
-
-"I think," answered Sem, "that he must be quite satisfied with the war
-
-and supreme command. He is a born hero. When I look at him I remember
-
-that lion, Ramses the Great. This youth is ready to rush at all the
-
-bands of Libya, and, indeed, he may scatter them."
-
-"This youth," added Mefres, "is capable of overturning all our temples,
-
-and wiping Egypt from the face of the earth."
-
-Holy Sem drew forth quickly a gold amulet which he wore on his breast,
-
-and whispered,
-
-"Flee, evil words, to the desert. Go far, and harm not the just. What
-
-art Thou saying, worthiness?" continued he, more loudly, and in a tone
-
-of reproach.
-
-"The worthy Mefres speaks truth," said Mentezufis. "Thy head would
-
-ache, and thy stomach also, should human lips repeat the blasphemous
-
-words which we have heard this day from that giddy stripling."
-
-"Jest not, O prophet," said the high priest Sem, with indignation.
-
-"Sooner would I believe that water burns and air quenches than that
-
-Ramses would commit blasphemy."
-
-"He did so in seeming drunkenness," said Mefres, maliciously.
-
-"Even if he were drunk I do not deny that the prince is frivolous, and
-
-a rioter; but a blasphemer."
-
-"So, too, did we think," said Mentezufis. "And we were so sure of
-
-knowing his character that when he returned from the temple of Hator we
-
-ceased even to exercise control over him."
-
-"Thou wert sparing of gold to pay men for watching," said Mefres. "Thou
-
-seest now what results are involved in a neglect which seemed slight to
-
-thee."
-
-"But what has happened?" inquired Sem, impatiently.
-
-"I will answer briefly: the prince reviles the gods."
-
-"Oho!"
-
-"He criticizes the commands of the pharaoh."
-
-"Is it possible?"
-
-"He calls the supreme council traitors."
-
-"But."
-
-"But from whom did he learn of the coming of Beroes, even of his
-
-interview with Mefres, Herhor, and Pentuer, in the temple of Set?"
-
-The high priest Sem, seizing his head with both hands, walked up and
-
-down through the cell.
-
-"Impossible!" said he. "Impossible! Has any one cast a spell over that
-
-young man? Perhaps the Phoenician priestess, whom he stole from the
-
-temple."
-
-This consideration seemed to Mentezufis so apposite that he looked at
-
-Mefres. But the angry high priest would not be turned aside for an
-
-instant.
-
-"Let us see," said he. "But first we must investigate and learn what
-
-the prince was doing day by day, after his return from the temple of
-
-Hator. He had too much freedom, too many relations with unbelievers and
-
-with enemies of Egypt. But Thou wilt help us, worthy Sem."
-
-Because of this decision, the high priest Sem ordered to summon for the
-
-following day a solemn service at the temple of Ptah.
-
-So they stationed on squares and at street comers, even in the fields,
-
-heralds of the priests, and called all the people with flutes and
-
-trumpets.
-
-And when a sufficient number of hearers had assembled, they informed
-
-them that in the temple of Ptah there would be prayers and processions
-
-during three days, to the intent that the good god would bless Egyptian
-
-arms and crush Libyans; that he would send down on their leader,
-
-Musawasa, leprosy, insanity, and blindness.
-
-As the priests wished, so was it done. From morning till late at night
-
-common people of every occupation crowded around the temple; the
-
-aristocracy and the wealthy citizens assembled in the forecourt; while
-
-the priests of the city and of the neighboring provinces made
-
-sacrifices to Ptah and repeated prayers in the most holy chapel.
-
-Thrice daily did a solemn procession issue forth, carrying in a golden
-
-boat, concealed by curtains, the revered statue of the divinity;
-
-whereat the people prostrated themselves and confessed their faults
-
-loudly, while prophets disposed in the crowd numerously helped them to
-
-penitence by appropriate questions. A similar thing was done in the
-
-forecourt of the temple. But since officials and rich people did not
-
-like to accuse themselves openly, the holy fathers took them aside, and
-
-gave advice and exhortation in whispers.
-
-In the afternoon the service was most solemn, for at that time the
-
-troops marching westward came to receive the blessing of the high
-
-priest, and strengthen the power of amulets which had the quality of
-
-weakening blows from the enemy.
-
-Sometimes thunder was heard in the temple, and at night, above the
-
-pylons, there was lightning. This was a sign that the god had heard
-
-some one's prayers, or was conversing with the priesthood.
-
-When, after the ending of the solemnity, the three dignitaries Sem,
-
-Mefres, and Mentezufis met for consultation, the position had become
-
-clearer.
-
-The solemnity had brought the temple about forty talents but sixty
-
-talents had been given out in presents or in paying the debts of
-
-various persons of the aristocracy as well as of the highest military
-
-circles.
-
-They had collected the following information:
-
-A report was current in the army, that when Prince Ramses mounted the
-
-throne, he would begin a war with Assyria, which would assure great
-
-profit to those taking part in it. The lowest soldier, they said, would
-
-not return without a thousand drachmas, or perhaps a still larger sum.
-
-It was whispered among people that when the pharaoh returned with
-
-victory from Nineveh, he would give slaves to the earth-tillers, and
-
-remit for a number of years all taxes.
-
-The aristocracy, on its part, judged that the new pharaoh would, first
-
-of all, take from priests and return to nobles all lands which had
-
-become temple property, and would pay also the debts of nobles. It was
-
-said, too, that the coming pharaoh would govern independently, without
-
-a supreme priestly council.
-
-Finally, in all social circles there reigned a conviction that Ramses,
-
-to secure the aid of Phoenicia, had had recourse to the goddess Istar,
-
-[Another form of Astarte.] to whom he showed marked devotion. In every
-
-case it was certain that the heir had once visited the temple of Istar,
-
-and had seen, in the night, certain miracles. Finally, rumors were
-
-current among Asiatics that Ramses had made immense presents to the
-
-temple, and in return had taken thence a priestess to confirm him in
-
-the faith of the goddess.
-
-All these tidings were collected by the most worthy Sem and his
-
-assistants. The holy fathers, Mefres and Mentezufis, communicated to
-
-him other information which had come to them from Memphis:
-
-The Chaldean priest and miracle-worker, Beroes, was received in the
-
-subterranean parts of the temple of Set by the priest Osochar, who,
-
-when giving his daughter in marriage two months later, had presented
-
-her with rich jewels and bought a good estate for her and her husband.
-
-And since Osochar had no considerable income, a suspicion rose that
-
-that priest had overheard the conversation of Beroes with the Egyptian
-
-priests, and had sold to Phoenicians, criminally, the secret of the
-
-treaty, and received a great estate from them.
-
-When he heard this, the high priest Sem added,
-
-"If the holy Beroes does, indeed, perform miracles, then ask him, first
-
-of all, if Osochar has betrayed the secret."
-
-"They inquired of Beroes," said Mefres, "but the holy man answered that
-
-in that affair he preferred to be silent. He added, also, that even if
-
-some one had heard their conversation, and reported to Phoenicians,
-
-neither Egypt nor Chaldea would suffer any injury; and if they should
-
-find the guilty person, it would be proper to show him mercy."
-
-"A holy man! Indeed, a holy man!" whispered Sem.
-
-"And what wilt Thou say, worthiness," asked Mefres, "of the prince and
-
-the disturbances which his conduct has caused in the country?"
-
-"I will say the same as Beroes: 'The heir does not cause harm to Egypt,
-
-so we should show him indulgence. '."
-
-"This young man reviles the gods and miracles; he enters foreign
-
-temples, he excites the men to rebellion. These are no small matters,"
-
-said Mefres, bitterly. This priest could not pardon Ramses for having
-
-jeered at his devotion so rudely.
-
-The high priest Sem loved Ramses; so he answered with a kindly smile,
-
-"What laborer is there in Egypt who would not like to have a slave, and
-
-abandon hard labor for sweet idleness? Or what man is there on earth
-
-who is without the dream of not paying taxes, since with that which he
-
-pays the treasury, his wife, he himself, and his children might buy
-
-showy clothes and use various dainties?"
-
-"Idleness and excessive outlay spoil a man," said Mentezufis.
-
-"What warrior," continued Sem, "would not desire war and covet a
-
-thousand drachmas, or even a greater sum? Further, I ask you, O
-
-fathers, what pharaoh, what nomarch, what noble pays old debts with
-
-alacrity, and does not look askance at the wealth of temples?"
-
-"That is vile greed," whispered Mefres.
-
-"And, finally," said Sem, "what heir to the throne has not dreamed of
-
-decreasing the importance of the priesthood? What pharaoh at the
-
-beginning of his reign has not tried to shake off the supreme council's
-
-influence?"
-
-"Thy words are full of wisdom," said Mefres, "but to what may they lead
-
-us?"
-
-"To this, not to accuse the heir before the supreme council, for there
-
-is no court that would condemn the prince for this, that earth-workers
-
-would be glad not to pay taxes, or that soldiers want war if they can
-
-have it. Nay, ye may receive a reprimand. For if ye had followed the
-
-prince day by day and restrained his minor excesses, we should not have
-
-at present that pyramid of complaints founded, moreover, on nothing. In
-
-such affairs the evil is not in this, that people are inclined to sin,
-
-for they have been so at all times. But the danger is here, that we
-
-have not guarded them. Our sacred river, the mother of Egypt, would
-
-very soon fill all canals with mud, if engineers ceased to watch it."
-
-"And what wilt Thou say, worthiness, of the fictions which the prince
-
-permitted himself in speaking with us? Wilt Thou forgive his foul
-
-reviling of miracles?" inquired Mefres. "Moreover this stripling has
-
-insulted me grievously in my religious practices."
-
-"Whoso speaks with a drunken man is himself an offender," said Sem. "To
-
-tell the truth, ye had no right, worthy fathers, to speak with a man
-
-who was not sober about important state questions. Ye committed a fault
-
-in making a drunken man commander of an army. A leader must be sober."
-
-"I bow down before thy wisdom," said Mefres; "still I vote to lay a
-
-complaint against the heir before the supreme council."
-
-"But I vote against a complaint," answered Sem, energetically. "The
-
-council must learn of all acts of the viceroy, not through a complaint,
-
-but through an ordinary report to it."
-
-"I too am opposed to a complaint," said Mentezufis.
-
-The high priest, Mefres, seeing that he had two votes against him,
-
-yielded in the matter of a complaint. But he remembered the insult from
-
-the prince and hid ill-will in his bosom.
+Był to starzec mądry i pobożny, lecz mściwy. I chętniej przebaczyłby, gdyby mu rękę ucięto, aniżeli gdy obrażono jego dostojeństwo kapłańskie.

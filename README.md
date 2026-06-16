@@ -32,6 +32,7 @@ pip install -r requirements.txt
 | **Streamlit** (>= 1.36) | Dashboard | Enthalten in `requirements.txt` |
 | **Pandoc** (>= 3.0) | EPUB-Export | `winget install --id JohnMacFarlane.Pandoc` oder manuell von https://pandoc.org/installing.html |
 | **Playwright Chromium** | PDF-Export | `python -m playwright install chromium` nach `pip install -r requirements.txt` |
+| **Higgsfield CLI** | Kapitel-/Szenenbilder | `npm install -g @higgsfield/cli`, Details in `docs/higgsfield-integration.md` |
 
 > **Hinweis:** Nach der Pandoc-Installation muss ein neues Terminal gestartet werden,
 > damit der Pfad erkannt wird. Unter Windows liegt Pandoc typischerweise unter
@@ -53,7 +54,7 @@ books/<book-id>/
   styles/
   work/
     chapters/
-    scenes/ru/
+    scenes/<source_lang>/
     scenes/de/<style>/
     assembled/<style>/
     prompts/
@@ -105,12 +106,12 @@ python tools/apply_review_suggestions.py --book anna-karenina --style stil-01-or
 ```
 
 `translate_batch.py` ist ein Uebersetzungs-Batch, kein Export-Befehl. Er
-erzeugt fehlende RU-Arbeitseinheiten bei Bedarf und startet danach
+erzeugt fehlende Quell-Arbeitseinheiten bei Bedarf und startet danach
 `translate_chapter.py` fuer die ausgewaehlten Kapitel. Mit `--assemble-after`
 werden anschliessend die Kapiteldateien per `assemble_chapter.py`
 zusammengesetzt. DOCX/EPUB/PDF entstehen erst ueber `export_manuscript.py`.
 
-Grosse RU-Szenen werden beim Uebersetzen intern in Chunks geteilt. Die
+Grosse Quell-Szenen werden beim Uebersetzen intern in Chunks geteilt. Die
 sichtbare Buchstruktur bleibt gleich: Chunks unter `work/chunks/` werden nach
 erfolgreicher Uebersetzung wieder zur urspruenglichen
 `work/scenes/de/<style>/<chapter>/scene-XX.md` zusammengesetzt. Die Grenze
@@ -125,7 +126,7 @@ Autorenleben, Strukturvorschlag und erste Namensliste fuer `book.yaml`,
 
 ## Provider
 
-- `openrouter`: sendet RU-Szenen an OpenRouter und schreibt DE-Szenen.
+- `openrouter`: sendet Quell-Szenen an OpenRouter und schreibt DE-Szenen.
 - `prompt_file`: schreibt vollstaendige Prompt-Dateien nach
   `books/<book-id>/work/prompts/`.
 - `workspace_ai`: schreibt Arbeitsanweisungen fuer eine KI, die das Repo

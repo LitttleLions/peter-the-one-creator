@@ -1,423 +1,122 @@
-# Kapitel 22: CHAPTER XXII
+# Kapitel 022: Tom I - Rozdział XXII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part26.xhtml*
 
 <!-- status: pending -->
 
-HIS stay in Aa had so wearied Ramses that to seek rest and rally his
+Pobyt w nomesie Aa tak zmęczył następcę tronu, że dla odpoczynku i zebrania myśli kazał zaprzestać wszelkich uroczystości na swoją cześć i zapowiedział, aby w czasie podróży ludność nigdzie nie występowała z powitaniami dla niego.
 
-thoughts he commanded to stop all solemnities in his honor, and
+Orszak książęcy dziwił się, nawet trochę gorszył. Ale rozkaz został wykonany i Ramzes znowu odzyskał nieco spokojności w życiu. Miał teraz czas do musztrowania żołnierzy, co było jego najmilszym zajęciem, i mógł nieco skupić zwichrzone myśli.
 
-directed that during his journey people should never come forth to
+Zamknięty w najodleglejszym kącie pałacu, książę począł zastanawiać się: o ile spełnił rozkazy ojca?
 
-greet him.
+Własnymi oczyma obejrzał nomes Aa: jego pola, miasteczka, ludność i urzędników. Sprawdził też, że wschodni brzeg prowincji uległ najazdowi pustyni. Spostrzegł, że ludność robocza jest obojętna i głupia, robi tylko to, co jej każą, a i to niechętnie. Nareszcie przekonał się, że naprawdę wiernych i kochających poddanych znaleźć można tylko wśród arystokracji. Są oni bowiem albo spokrewnieni z rodem faraonów, albo należą do stanu rycerskiego i są wnukami żołnierzy, którzy walczyli pod Ramzesem Wielkim.
 
-The prince's retinue were astonished, even somewhat offended; but they
+W każdym razie ci ludzie szczerze garnęli się do dynastii i gotowi byli służyć jej z prawdziwym zapałem. Nie jak chłopi, którzy odkrzyczawszy powitanie, czym prędzej biegli do swoich świń i wołów.
 
-carried out the command, and Ramses again found some quiet. He had time
+Główny jednak cel posłannictwa został nie rozstrzygnięty. Ramzes nie tylko jasno nie widział przyczyn zmniejszenia się królewskich dochodów, ale nawet nie umiał sformułować pytania: dlaczego jest źle i — jak poprawić złe? Czuł tylko, że legendowa wojna boga Seta z bogiem Ozyrysem niczego nie wyjaśnia i wcale nie podaje środków zaradczych.
 
-to review his troops, which was his most agreeable occupation, and he
+Książę zaś, jako przyszły faraon, chciał mieć wielkie dochody, takie jak dawni władcy Egiptu. I kipiał gniewem na samą myśl, że wstąpiwszy na tron, może być równie ubogim jak ojciec, jeżeli nie uboższym.
 
-could collect his scattered thoughts in some measure.
+— Nigdy!... — wołał książę, zaciskając pięści.
 
-Shut up in the remotest corner of the palace, the prince began to
+Dla powiększenia królewskich majątków był gotów rzucić się z mieczem na samego boga Seta i tak porąbać go w kawały, jak on zrobił ze swoim bratem Ozyrysem. Ale zamiast okrutnego bóstwa i jego legionów widział dokoła siebie: pustkę, ciszę i niewiadomość.
 
-consider how far he had carried out the commands of the pharaoh his
+Pod wpływem tych szamotań się z własnymi myślami zaczepił raz arcykapłana Mefresa.
 
-father.
+— Powiedz mi, święty ojcze, któremu znana jest wszelka mądrość: dlaczego dochody państwa zmniejszają się i w jaki sposób można by je powiększyć?
 
-He had surveyed Aa with his own eyes, its fields, towns, population,
+Arcykapłan wzniósł ręce do góry.
 
-officials. He had verified the fact that the eastern edge of the
+— Niech będzie błogosławiony — zawołał — duch, który podszepnął ci, dostojny panie, takie myśli!... O, bodajbyś poszedł śladem wielkich faraonów, którzy pokryli Egipt świątyniami, a za pomocą tam i kanałów zwiększyli obszar urodzajnych gruntów...
 
-province was yielding to the advance of the desert. He had observed
+Starzec był tak wzruszony, że zapłakał.
 
-that laborers were indifferent and stupid; that they did only what was
+— Przede wszystkim — odparł książę — odpowiedz mi na to, o co pytam. Bo czyliż można myśleć o budowaniu kanałów lub świątyń, gdy skarb pusty? Na Egipt spadło największe nieszczęście: jego władcom grozi ubóstwo. To przede wszystkim należy zbadać i poprawić, a reszta znajdzie się.
 
-commanded, and that with unwillingness. Finally, he had convinced
+— O tym, książę, dowiesz się tylko w świątyniach, u stóp ołtarzy — mówił arcykapłan. — Tylko tam szlachetna ciekawość twoja może być zaspokojona.
 
-himself that really faithful and loving subjects were to be found only
+Ramzes rzucił się niecierpliwie.
 
-among the aristocracy, for they were related to the family of the
+— Przed oczyma waszej dostojności świątynie zasłaniają cały kraj, nawet skarb faraona!... Jestem przecie kapłańskim uczniem, wychowałem się w cieniu świątyń, znam tajemnicze widowiska, na których przedstawiacie złość Seta, a śmierć i odradzanie się Ozyrysa, i cóż mi z tego?... Gdy ojciec spyta mnie: w jaki sposób napełnić skarbiec? — nic nie odpowiem. A raczej powinien bym go namawiać, ażeby jeszcze dłużej i częściej modlił się, niż to robi dotychczas!
 
-pharaohs, or were of the noble order, and were grandsons of the men who
+— Bluźnisz, książę, bo nie znasz wysokich obrzędów religii. Gdybyś je poznał, odpowiedziałbyś na wiele pytań, które cię dręczą. A gdybyś widział to, co ja widziałem!... Uwierzyłbyś, że najważniejszą sprawą dla Egiptu jest podźwignąć jego świątynie i kapłanów...
 
-had fought under the great Ramses.
+„Starcy po raz drugi w życiu stają się dziećmi” — pomyślał książę i przerwał rozmowę. Arcykapłan Mefres był zawsze bardzo pobożny; lecz w ostatnich czasach posuwał się nawet do dziwactw w tym kierunku.
 
-In every case those people rallied to the dynasty heartily, and were
+„Dobrze bym wyszedł — mówił do siebie Ramzes — oddawszy się w ręce kapłanów, dla asystowania ich dziecinnym obrządkom. A może Mefres kazałby i mnie całe godziny wystawać przed ołtarzem z podniesionymi rękami, jak to sam podobno robi, spodziewając się cudów!...”
 
-ready to serve it with genuine readiness; not like the low people, who
+W miesiącu Farmuti (koniec stycznia — początek lutego) książę pożegnał Otoesa, aby przenieść się do nomesu Hak. Dziękował nomarsze i panom za wspaniałe przyjęcie, ale w duszy miał smutek czując, że nie wywiąże się z zadania, które włożył na niego ojciec.
 
-when they had shouted a greeting ran back with all speed to their pigs
+Odprowadzony przez rodzinę i dwór Otoesa, namiestnik z orszakiem swym przeprawił się na prawy brzeg Nilu, gdzie powitał go dostojny nomarcha Ranuzer z panami i kapłanami. Gdy książę stanął na ziemi Hak, kapłani podnieśli w górę posągi bożka Atum, patrona prowincji, urzędnicy padli na twarz, a nomarcha podał mu złoty sierp, prosząc, aby jako zastępca faraona rozpoczął żniwo. W tej porze bowiem należało zbierać jęczmień.
 
-and their oxen.
+Ramzes przyjął sierp, ściął parę garści kłosów i spalił je wraz z kadzidłem przed bogiem pilnującym granic. Po nim zrobił to samo nomarcha i wielcy panowie, a nareszcie zaczęli żniwo chłopi. Zbierali tylko kłosy, które pakowano w worki; słoma zaś zostawała w polu.
 
-But the chief object of his mission was not explained yet. Ramses not
+Wysłuchawszy nabożeństwa, które znudziło go, książę stanął na dwukolnym wozie. Wysunął się oddział wojska, za nim kapłani, dwaj panowie prowadzili za uzdy konie następcy, za następcą na drugim wozie jechał nomarcha Ranuzer, a za nim ogromny orszak panów i sług dworskich. Lud, zgodnie z wolą Ramzesa, nie wystąpił; lecz chłopi pracujący w polu, na widok procesji, upadali twarzami na ziemię.
 
-only did not see clearly causes for the decrease of the royal income,
+W ten sposób, przeszedłszy kilka pontonowych mostów rzuconych na odnogi Nilu i kanały, książę nad wieczorem dojechał do miasta Anu, stolicy prowincji.
 
-but he did not know how to formulate this question: Why is there evil,
+Przez kilka dni ciągnęły się uczty powitalne, składano namiestnikowi hołdy, przedstawiano mu urzędników. W końcu Ramzes zażądał przerwania uroczystości i prosił nomarchę o zaznajomienie go z bogactwami nomesu.
 
-and how can we correct it? He only felt that the legendary war of the
+Przegląd zaczął się nazajutrz i trwał parę tygodni. Co dzień na podwórze pałacu, w którym mieszkał następca, przychodziły rozmaite cechy rzemieślnicze pod komendą cechowych oficerów, ażeby okazać księciu swoje wyroby.
 
-god Set with Osiris furnished no true explanation, and gave no means of
+Więc kolejno przeciągali fabrykanci broni z mieczami, włóczniami i toporami; fabrykanci instrumentów muzycznych z piszczałkami, trąbkami, bębnami i arfami. Po tych przyszedł wielki cech stolarski, który okazywał krzesła, stoły, kanapy, lektyki i wozy, ozdobione bogatymi rysunkami, wykładane różnokolorowym drzewem, perłową masą i kością słoniową. Potem niesiono metalowe naczynia kuchenne: ruszty do ognisk, rożny, dwuuszne garnki i płytkie rynki z pokrywami. Jubilerowie popisywali się cudnej piękności pierścieniami ze złota, bransoletami na ręce i nogi, z elektronu, czyli mieszaniny złota i srebra, łańcuchami, wszystko to kunsztownie rzeźbione, wysadzane drogimi kamieniami lub różnokolorową emalią.
 
-cure whatever.
+Zamknęli pochód garncarze niosący przeszło sto gatunków naczyń glinianych. Były tam wazy, garnki, misy, dzbany i kruże, najrozmaitszej formy i wielkości, pokryte malowidłami, ozdobione głowami zwierząt i ptaków.
 
-But the prince, as the coming pharaoh, wished to have a great income,
+Każdy cech składał księciu ofiary ze swoich najpiękniejszych wyrobów. Zapełniły one dużą salę, choć nie było między nimi dwu do siebie podobnych.
 
-like that of former rulers in Egypt. He was boiling with anger at the
+Po skończeniu ciekawej, lecz i nużącej wystawy jego dostojność Ranuzer spytał księcia: czy jest zadowolony?
 
-very thought that when he had mounted the throne he would be as poor as
+Następca zamyślił się.
 
-his father and perhaps even poorer.
+— Piękniejsze rzeczy — odparł — widziałem chyba w świątyniach albo w pałacach mego ojca. Ponieważ jednak mogą kupować je tylko ludzie bogaci, więc nie wiem, czy skarb państwa ma z nich dość wielkie dochody.
 
-"Never!" cried the prince, balling his fists.
+Nomarchę zdziwiła ta obojętność dla dzieł sztuki w młodym panu, a zaniepokoiła troska o dochody. Chcąc jednak zadowolnić Ramzesa, zaczął od tej pory oprowadzać go po fabrykach królewskich.
 
-To increase the royal property he was ready to rush sword in hand
+Więc jednego dnia zwiedzili młyny, gdzie niewolnicy w kilkuset żarnach i stępach przygotowywali mąkę. Byli w piekarniach, gdzie wypiekano chleb i suchary dla wojska, tudzież w fabryce, gdzie robiono konserwy z ryb i mięsa.
 
-against Set and hew that god into pieces, as Set had hewn his own
+Oglądali wielkie garbarnie i warsztaty sandałów, huty, gdzie topiono brąz na naczynia i oręże, potem cegielnie, cechy tkaczów i krawców.
 
-brother Osiris. But instead of the cruel divinity and his legions he
+Zakłady te mieściły się we wschodniej części miasta. Ramzes z początku oglądał je ciekawie; ale bardzo prędko obrzydł mu widok robotników, którzy byli wystraszeni, chudzi, mieli chorowitą cerę i blizny od kijów na plecach.
 
-saw around him ignorance, the desert, and silence.
+Od tej pory bawił krótko w fabrykach; wolał przypatrywać się okolicom miasta Anu. Daleko, na wschodzie, widać było pustynię, wśród której w roku zeszłym odbywały się manewry pomiędzy korpusem jego i Nitagera. Jak na dłoni widział gościniec, którym maszerowały jego pułki, miejsce, gdzie z powodu znalezienia skarabeuszów machiny wojenne musiały skręcić na pustynię, a może nawet i to drzewo, na którym powiesił się chłop kopiący kanał...
 
-Under the influence of these struggles with his own thoughts, he seized
+Z tamtego szczytu, w towarzystwie Tutmozisa, spoglądał na kwitnącą ziemię Gosen i złorzeczył kapłanom. A tam, między wzgórzami, spotkał Sarę, do której zapaliło się jego serce.
 
-once the high priest Mefres.
+Dziś jakie zmiany!... Już przestał nienawidzieć kapłanów, od czasu gdy za sprawą Herhora dostał korpus i namiestnikostwo. Sara zaś zobojętniała mu jako kochanka, lecz natomiast coraz żywiej obchodziło go dziecię, którego miała zostać matką.
 
-"Tell me, holy father, to whom all wisdom is familiar, why does the
+„Co ona tam robi? — myślał książę. — Już dawno nie miałem od niej wiadomości...”
 
-income of the state decrease, and in what manner can we add to it?"
+A gdy tak patrzył na wschodnie wzgórza i rozpamiętywał niedawną przeszłość, stojący na czele jego świty nomarcha Ranuzer był przekonany, że książę spostrzegł jakieś nadużycia w fabrykach i medytuje nad sposobem ukarania go.
 
-Mefres raised his hands.
+„Ciekawym, co on zobaczył? — mówił w sobie dostojny nomarcha. — Czy to, że połowę cegły sprzedano kupcom fenickim, czy że dziesięć tysięcy sandałów brakuje w składzie, czy może jaki podły nędznik szepnął mu co o metalowych butach?...”
 
-"May the spirit be blessed, worthy lord," cried the priest, "which
+I serce Ranuzera napełnił wielki niepokój.
 
-whispered such thoughts to thee. Oh, mayest Thou follow in the steps of
+Nagle książę odwrócił się do świty i wezwał Tutmozisa, który zawsze miał obowiązek znajdować się w pobliżu jego osoby.
 
-mighty pharaohs who built temples in all parts of Egypt, and through
+Tutmozis przybiegł, następca odszedł z nim jeszcze dalej na stronę.
 
-canals and sluices increased the area of fertile land in this country."
+— Słuchaj — rzekł wskazując na pustynią. — Widzisz ty te góry?...
 
-The old man was so moved that he fell to weeping.
+— Byliśmy tam zeszłego roku... — westchnął dworak.
 
-"First of all," said the prince, "answer what I ask; for how think of
+— Przypomniałem sobie Sarę...
 
-temples and canals when the treasury is empty? The greatest misfortune
+— Zaraz spalę kadzidło bogom! — zawołał Tutmozis — bom już myślał, że od czasu gdy jesteś namiestnikiem, wasza dostojność, zapomniałeś o swoich wiernych sługach...
 
-has befallen Egypt: its rulers are threatened with indigence. We must
+Książę popatrzył na niego i wzruszył ramionami.
 
-examine this, first of all, and cure it; after that the rest will come
+— Wybierz — mówił — spośród darów, które mi złożono, wybierz kilka najpiękniejszych naczyń, sprzętów, tkanin, a nade wszystko bransolet i łańcuchów, i zawieź to Sarze...
 
-easily."
+— Żyj wiecznie, Ramzesie — szepnął elegant — bo jesteś szlachetnym panem...
 
-"This, prince, Thou wilt learn only in temples, at the foot of the
+— Powiedz jej — ciągnął książę — że mam serce zawsze pełne łaski dla niej. Powiedz, że chcę, aby pilnowała swego zdrowia i dbała o dziecko, które ma przyjść na świat. Gdy zaś zbliży się czas rozwiązania, a ja spełnię rozkazy ojca mego, powiedz Sarze, że przyjedzie do mnie i osiądzie w mym domu. Nie mogę ścierpieć, ażeby matka mojego dziecka tęskniła w samotności... Jedź, uczyń, com rzekł, i wracaj z dobrymi wiadomościami.
 
-altar," said the high priest. "There alone can thy noble curiosity be
+Tutmozis upadł na twarz przed szlachetnym władcą i natychmiast puścił się w drogę. Orszak księcia, nie mogąc odgadnąć treści rozmowy, zazdrościł Tutmozisowi łask pańskich, a dostojny Ranuzer czuł rosnący niepokój w swej duszy.
 
-pacified."
+„Obym — mówił stroskany — obym nie potrzebował podnieść ręki na samego siebie i w kwiecie wieku osierocić dom... Po cóżem, nieszczęsny, przywłaszczając sobie dobra jego świątobliwości faraona, nie pomyślał o godzinie sądu?...”
 
-Ramses started up with impatience.
-
-"Before thy eyes, worthy father, the temple hides the whole country,
-
-even the treasury of the pharaoh. I am, for that matter, a priestly
-
-pupil. I was reared in the shadow of a temple, I know the secret of the
-
-spectacles in which the malice of Set is represented, with the death
-
-and re-birth of Osiris, and what does that profit me? When my father
-
-asks how to replenish the treasury, I can give him no answer. Should I
-
-persuade him to pray longer and oftener than he does at the present?"
-
-"Prince, Thou art blaspheming, Thou knowest not the high ceremonies of
-
-religion. If Thou knew them Thou couldst answer many questions which
-
-torment thee; and hadst Thou seen that which I have, Thou wouldst know
-
-that the highest interest of Egypt is to support priests and temples."
-
-"Men in old age become children," thought Ramses; and he stopped the
-
-conversation.
-
-Mefres had been very pious at all times, but he had then grown
-
-eccentric.
-
-"I should end well," thought Ramses, "if I yielded to priests and
-
-assisted at puerile ceremonies. Perhaps Mefres would even command me to
-
-stand for whole hours at an altar, as he himself does, beyond doubt,
-
-while expecting a miracle."
-
-In the month Pharmuthi (end of January and beginning of February) the
-
-prince took leave of Otoes, before starting for Hak, the next province.
-
-He thanked the nomarchs and lords for their splendid reception, but at
-
-heart he was sad, for he knew that he had not mastered the problem put
-
-forth by his father.
-
-Escorted by the family and court of Otoes, the prince with his retinue
-
-crossed to the right bank of the river, where he was greeted by
-
-Ranuzer, the worthy nomarch, together with the lords and the priests of
-
-his province.
-
-When the prince reached the land of Hak, the priests raised a statue of
-
-Atmu, patron god of the province, and the officials fell prostrate;
-
-then the nomarch brought a golden sickle to Ramses, and begged him to
-
-open the harvest as viceroy of the pharaoh, that being the time to
-
-gather in barley.
-
-Ramses took the sickle, cut a couple of handfuls of ears, and burnt
-
-them with incense before the god the guardian of the boundaries. After
-
-him the nomarch and the great lords cut barley also, and at last
-
-harvesters fell to reaping. They cut only ears, which they packed into
-
-bags; the straw remained on the field behind them.
-
-When he had heard a tedious service before the god, the prince mounted
-
-a two-wheeled car, a division of the army moved on, and the priests
-
-followed. Two lords led the horses of the heir by the bridles. After
-
-the heir, on a second car, rode the nomarch, and next an immense train
-
-of lords and court servitors. The people, agreeable to the will of
-
-Ramses, did not present themselves, but laborers in the fields, at
-
-sight of the procession, fell on their faces.
-
-In this manner when he had passed a number of pontoon bridges thrown
-
-over arms of the Nile and canals, the prince reached toward evening the
-
-city of Anu, the capital.
-
-For some days feasts of greeting continued; they rendered homage to the
-
-heir, and presented officials. At last Ramses begged to interrupt the
-
-festivities, and requested the nomarch to acquaint him with the wealth
-
-of the province.
-
-Next morning the review began, and lasted a fortnight. Every day in the
-
-court of that palace where the heir had his residence appeared various
-
-guilds of craftsmen. These came under command of guild officers, to
-
-exhibit their productions. In turn came armorers and swordsmiths,
-
-makers of spears and axes, manufacturers of musical instruments, fifes,
-
-trumpets, drums, harps. After these came the great guild of
-
-cabinetmakers, who exhibited armchairs, tables, couches, litters, and
-
-carriages, ornamented with rich drawings, made of various wood, mother-
-
-of-pearl, and ivory; then they brought kitchen utensils, things for the
-
-fire, spits, two-eared pots, and flat pans with covers; jewelers
-
-rivaled one another with gold rings of wonderful beauty, amber
-
-bracelets and anklets, or chains made of gold mixed with silver. All
-
-these were carved with artistic skill, and inlaid with precious stones
-
-or enamel of various colors.
-
-The procession was closed by potters who carried more than a hundred
-
-kinds of earthen vessels. They brought vases, pots, plates, pitchers,
-
-and jugs of the most varied forms and sizes, covered with paintings
-
-ornamented with beast and bird heads.
-
-Each guild made an offering to the prince of its most beautiful
-
-productions. These filled a large hall, though among them no two things
-
-were similar.
-
-At the end of the curious but interesting exhibition, his worthiness
-
-Ranuzer asked the prince if he was satisfied.
-
-The heir thought awhile.
-
-"More beautiful things I have not seen except in the temples or in the
-
-palaces of my father. But since only rich people can buy them, I do not
-
-see how the state treasury can have much profit from those objects."
-
-The nomarch was astonished at the young lord's indifference, and was
-
-alarmed by his anxiety about income; but wishing to satisfy Ramses, he
-
-began then to conduct him through the royal factories.
-
-One day they went to buildings where slaves were grinding flour in many
-
-hundred hand-mills and in mortars. They went to bakeries where men were
-
-baking bread and rusks to feed the army, and to places where preserved
-
-fish and meat were in course of preparation. They examined great
-
-tanneries, and shops where sandals were made, foundries where copper
-
-was cast into arms and utensils. After that, brickyards, guilds of
-
-weavers and tailors.
-
-These establishments were situated in the eastern part of the city.
-
-Ramses at first looked at them with interest, but very soon he was
-
-disgusted with the sight of laborers who were timid, lean, sickly in
-
-complexion, and who had scars left by sticks on their shoulders.
-
-Thenceforth he stopped only briefly at factories. He preferred to look
-
-at the environs of the city of Anu. Far to the east he could see the
-
-desert where a year earlier the maneuvers had taken place between his
-
-corps and Nitager's. He saw, like a thing on the palm of his hand, the
-
-road by which his regiments had marched, the place where because of the
-
-beetles the military engines had to turn to the desert, and perhaps
-
-even the tree on which the canal digger had hanged himself.
-
-From that elevation over there in company with Tutmosis he had looked
-
-at the blooming land of Goshen and cursed the priesthood. And there
-
-among the hills he had met Sarah, toward whom his heart had flamed up
-
-on a sudden.
-
-Today what changes! He had ceased to hate the priests from the hour
-
-that by the influence of Herhor he had received the army corps and the
-
-office of viceroy. He had become indifferent to Sarah, but that child
-
-whose mother she would be grew to him more and more important.
-
-"What is she doing there?" thought the prince. "I have not had news
-
-from her this long time."
-
-While he was looking on those eastern hills in this way, and thinking
-
-of the recent past, Ranuzer at the head of his escort felt certain that
-
-the prince had observed abuses in the factories and was meditating over
-
-means of punishment.
-
-"I am curious to know what he discovered," thought the worthy nomarch.
-
-"Is it that half the bricks are sold to the Phoenicians, or that ten
-
-thousand sandals are lacking in the factory, or perhaps some low wretch
-
-has whispered to him about the foundries?"
-
-And the nomarch's heart was anxious.
-
-Suddenly the prince turned toward the escort and called Tutmosis, who
-
-was bound to be at all times near his person.
-
-Tutmosis ran up. The heir went to one side with him.
-
-"Hear me," said he, pointing toward the desert. "Dost Thou see those
-
-hills?"
-
-"We were there last year," sighed the courtier.
-
-"I remember Sarah."
-
-"I will burn incense to the gods at once," cried Tutmosis, "for I
-
-thought that your worthiness had forgotten faithful servants since
-
-becoming viceroy."
-
-The prince looked at him and shrugged his shoulders.
-
-"Select," said he, "from the gifts brought me, some of the most
-
-beautiful vessels, utensils, stuffs, and, above all, chains and
-
-bracelets, and take them to Sarah."
-
-"Live through eternity, O Ramses!" exclaimed the exquisite, "for Thou
-
-art high-minded."
-
-"Tell her," continued the prince, "that for her my heart is always full
-
-of favor. Say that I wish her to care for her health. Tell Sarah that
-
-when the time of freedom comes and I have carried out the commands of
-
-my father, she will come to me and live in my house. I cannot endure
-
-that the mother of my child should be grieving in loneliness. Go, do as
-
-I have said, and return with pleasant tidings."
-
-Tutmosis prostrated himself before the noble ruler, and took the road
-
-straightway. The retinue of Ramses, unable to divine the conversation,
-
-envied Tutmosis the favor of the viceroy, while the worthy Ranuzer felt
-
-alarm rising in his soul.
-
-"Oh," said he, anxiously, "may I not need to raise hands on myself and
-
-leave my house in the bloom of my years! Why did I, the unfortunate,
-
-when taking the pharaoh's goods, not think of the hour of trial?"
-
-His face became yellow, and his legs tottered under him. But the
-
-prince, mastered by a wave of reminiscences, took no note of this
-
-change in the nomarch.
+Twarz jego zrobiła się żółta i nogi chwiały się pod nim. Ale książę, opanowany falą wspomnień, nie spostrzegł jego trwogi.

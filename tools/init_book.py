@@ -71,7 +71,8 @@ def unique_book_id(base: str) -> str:
     return f"{base}-{idx}"
 
 
-def ensure_dirs(book_root: Path) -> list[Path]:
+def ensure_dirs(book_root: Path, source_lang: str = "ru") -> list[Path]:
+    source_lang = (source_lang or "ru").strip().lower() or "ru"
     paths = [
         book_root / "source",
         book_root / "assets" / "covers",
@@ -79,7 +80,7 @@ def ensure_dirs(book_root: Path) -> list[Path]:
         book_root / "assets" / "scene",
         book_root / "styles",
         book_root / "work" / "chapters",
-        book_root / "work" / "scenes" / "ru",
+        book_root / "work" / "scenes" / source_lang,
         book_root / "work" / "scenes" / "de",
         book_root / "work" / "assembled",
         book_root / "work" / "prompts",
@@ -261,7 +262,7 @@ def main() -> int:
         print("(dry-run: keine Dateien geschrieben oder verschoben)")
         return 0
 
-    ensure_dirs(book_root)
+    ensure_dirs(book_root, args.source_lang)
     if source.resolve() != target_source.resolve():
         if target_source.exists():
             print(f"FEHLER: Zielquelle existiert bereits: {target_source}", file=sys.stderr)

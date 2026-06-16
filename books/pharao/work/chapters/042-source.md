@@ -1,481 +1,108 @@
-# Kapitel 42: CHAPTER XLII
+# Kapitel 042: Tom II - Rozdział XVII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part48.xhtml*
 
 <!-- status: pending -->
 
-THE western boundary of Egypt for a distance of more than a hundred
+Zachodnią granicę Egiptu na długości przeszło sto mil geograficznych stanowi ściana pagórków wapiennych, nagich, poprzerywanych wąwozami, wysokich na paręset metrów. Biegnie ona wzdłuż Nilu, od którego oddala się na milę, niekiedy na kilometr.
 
-geographic miles is composed of a wall of naked limestone hills about
+Gdyby kto wdrapał się na który z pagórków i zwrócił twarz ku północy, zobaczyłby jedno z najosobliwszych widowisk. W dole, na prawo, miałby wąską, ale zieloną łąkę, przerzniętą Nilem; zaś na lewo ujrzałby nieskończoną równinę barwy żółtej, urozmaiconą plamami białymi albo ceglastymi.
 
-two hundred meters high, intersected by ravines. They run parallel to
+Jednostajność widoku, drażniąca żółtość piasku, upał, a nade wszystko — bezmiar nieskończony, oto najogólniejsze cechy Pustyni Libijskiej rozciągającej się na zachód od Egiptu.
 
-the Nile, from which they are sometimes five miles distant, sometimes
+Przy bliższym jednak rozejrzeniu się pustynia wydałaby się mniej jednostajną. Jej piasek nie układa się płasko, ale tworzy szeregi zwałów przypominających ogromne fale na wodzie. Jest to jakby rozkołysane morze, które zakrzepło.
 
-one kilometer. Whoso should clamber up one of these hills and turn his
+Kto by jednak miał odwagę iść po tym morzu godzinę, dwie, niekiedy cały dzień, wciąż na zachód, zobaczyłby nowy widok. Na horyzoncie ukazują się wzgórza, niekiedy skały i urwiska najdziwniejszych form. Pod nogami piasek staje się coraz płytszym i poczyna wynurzać się spod niego skała wapienna niby ląd.
 
-face northward would see one of the strangest sights possible. He would
+Istotnie jest to ląd, a nawet kraj, wśród piaszczystego morza. Obok wapiennych pagórków widać doliny, na nich koryta rzek i strumieni, dalej równinę, a wśród niej jezioro z powyginaną linią brzegów i dnem zaklęśniętym.
 
-have on his right hand the narrow but green plain cut lengthwise by the
+Ale na tych równinach i wzgórzach nie rośnie ani źdźbło trawy, w jeziorze nie ma kropli wody, korytem rzeki nie płynie nic. Jest to krajobraz nawet bardzo urozmaicony pod względem form ziemi, ale krajobraz, z którego wszystka woda uciekła, najmniejsza wilgoć wyschła, krajobraz martwy, gdzie nie tylko wyginęła wszelka roślinność, ale nawet urodzajna warstwa gruntu roztarła się w pył lub wsiąknęła w opokę.
 
-Nile; on his left he would see an endless yellow open region, varied by
+W tych miejscach trafił się wypadek najokropniejszy, o jakim można pomyśleć: natura skonała, został z niej tylko szkielet i prochy, które do reszty rozkłada upał i z miejsca na miejsce przerzuca wiatr gorący.
 
-spots, white or brick colored.
+Za tym zmarłym, a nie pochowanym lądem ciągnie się znowu morze piasku, na którym tu i owdzie widać spiczaste stożki, wznoszące się niekiedy na piętro wysokości. Każdy szczyt takiego pagórka kończy się pęczkiem listków szarych, zapylonych, o których trudno powiedzieć, że żyją; one tylko nie mogą zwiędnąć.
 
-Monotony, the irritating yellow color of the sand plain, the heat, and,
+Dziwaczny stożek oznacza, że w tym miejscu woda jeszcze nie wyschła, ale przed spiekotą skryła się pod ziemię i jako tako podtrzymuje wilgoć gruntu. Na to miejsce upadło nasienie tamaryndusu i z wielkim trudem poczęła wzrastać roślina.
 
-above all, boundless immensity are the most peculiar traits of the
+Lecz władca pustyni, Tyfon, dostrzegł ją i z wolna począł zasypywać piaskiem. A im więcej roślinka pnie się w górę, tym wyżej podnosi się stożek duszącego ją piasku. Zabłąkany w pustyni tamaryndus wygląda jak topielec na próżno wyciągający dłonie do nieba.
 
-Libyan desert, which extends westward from Egypt.
+I znowu rozwala się nieskończone żółte morze, ze swymi falami piasku i nie mogącymi skonać rozbitkami świata roślinnego. Nagle ukazuje się skalista ściana, w niej szczeliny niby bramy...
 
-But viewed more nearly the desert is in fact less monotonous. Its sand
+Rzecz nie do uwierzenia! Poza jedną z tych bram widać rozległą dolinę barwy zielonej, mnóstwo palm, błękitne wody jeziora. Widać nawet pasące się owce, bydło i konie, między nimi uwijają się ludzie; z daleka na stokach skał piętrzy się całe miasteczko, a na szczytach bieleją mury świątyń.
 
-is not level, but forms a series of swellings which recall immense
+Jest to oaza, niby wyspa wśród piaszczystego oceanu.
 
-waves of water. It is like a roused sea solidified on a sudden. But
+Takich oaz za czasów faraonów było bardzo wiele, może kilkadziesiąt. Tworzyły one łańcuch wysp pustynnych wzdłuż zachodniej granicy Egiptu. Leżały w odległości dziesięciu, piętnastu lub dwudziestu mil jeograficznych od Nilu, a obejmowały po kilkanaście i kilkadziesiąt kilometrów kwadratowych powierzchni.
 
-whoso should have the courage to go across that sea for an hour, two
+Opiewane przez arabskich poetów oazy naprawdę nigdy nie były przedsionkami raju. Ich jeziora są najczęściej bagnami; z podziemnych źródlisk wypływa woda ciepła, niekiedy cuchnąca i obrzydliwie słona; roślinność ani mogła porównywać się z egipską. Niemniej ustronia te wydawały się cudem dla pustynnych wędrowców, którzy znajdowali w nich trochę zieloności dla oka tudzież odrobinę chłodu, wilgoci i daktylów.
 
-hours, a day, directly westward would see a new sight. On the horizon
+Ludność tych wysp wśród piaszczystego oceanu była bardzo rozmaitą: od kilkuset osób do kilkunastu tysięcy, zależnie od przestrzeni. Byli to wszystko awanturnicy lub ich potomkowie egipscy, libijscy, etiopscy. W pustynię bowiem uciekali ludzie nie mający już nic do stracenia: więźniowie z kopalń, przestępcy ścigani przez policję, chłopi przeciążeni pańszczyzną lub robotnicy, którzy woleli niebezpieczeństwo aniżeli pracę.
 
-would appear eminences, sometimes cliffs and rocks of the strangest
+Większa część tych zbiegów marnie ginęła w pustyni. Niektórym po nieopisanych męczarniach udawało się dotrzeć do oazy, gdzie pędzili żywot nędzny, lecz swobodny, i zawsze byli gotowi wpaść do Egiptu na nieuczciwy zarobek.
 
-outlines. Under foot the sand would grow thinner, and from beneath it
+Między pustynią i Morzem Śródziemnym ciągnął się bardzo długi, choć niezbyt szeroki pas ziemi żyznej, zamieszkały przez rozmaite plemiona, które Egipcjanie nazywali Libijczykami. Jedne z tych plemion zajmowały się rolnictwem, inne rybactwem i morską żeglugą; w każdym z nich jednak była gromada dzikusów, którzy woleli kradzież, wojnę i rozbój aniżeli systematyczną pracę. Bandycka ta ludność nieustannie ginęła wśród nędzy albo wojennych przygód, lecz i ciągle powiększała się regularnym dopływem Szardana (Sardyńczyków) i Szakalusza (Sycylijczyków), którzy w owej epoce byli jeszcze większymi barbarzyńcami i zbójami aniżeli rodowici Libijczycy.
 
-limestone rocks would emerge just like land out of water.
+Ponieważ Libia stykała się z zachodnią granicą Dolnego Egiptu, barbarzyńcy więc często grabili ziemię jego świątobliwości i — bywali strasznie karceni. Przekonawszy się jednak, że wojna z Libijczykami nie prowadzi do niczego, faraonowie, a raczej kapłani, chwycili się innej polityki. Prawowitym rodzinom libijskim pozwalali osiedlać się na nadmorskich bagnach Dolnego Egiptu, zaś bandytów i awanturników werbowali do wojska i mieli z nich wybornych żołnierzy.
 
-In fact that was a land, or even a country in the midst of a sand
+W ten sposób państwo zabezpieczyło sobie spokój na zachodniej granicy. Dla utrzymania zaś w porządku pojedynczych rabusiów libijskich wystarczała policja, straż polowa i parę pułków regularnych ustawionych wzdłuż kanopijskiej odnogi Nilu.
 
-ocean. Around the limestone hills were valleys, in them the beds of
+Taki stan rzeczy trwał blisko sto osiemdziesiąt lat; ostatnią bowiem wojnę z Libijczykami prowadził jeszcze Ramzes III, który uciął ogromne stosy rąk poległym nieprzyjaciołom i przywiódł do Egiptu trzynaście tysięcy niewolników. Od tej pory nikt nie lękał się napadu ze strony Libii i dopiero przy schyłku panowania Ramzesa XII dziwna polityka kapłanów na nowo zapaliła w tamtych stronach pożar walki.
 
-streams and rivers, farther on a plain, and in the middle of it a lake
+Wybuchła zaś ona z następujących powodów:
 
-with a bending line of shores and a sunken bottom.
+Jego dostojność Herhor, minister wojny i arcykapłan, skutkiem oporu jego świątobliwości faraona nie mógł zawrzeć z Asyrią traktatu o podział Azji. Pragnąc jednak, stosownie do przestróg Beroesa, utrzymać z Asyryjczykami dłuższy spokój, Herhor zapewnił Sargona, że Egipt nie przeszkodzi im w prowadzeniu wojny z Azjatami wschodnimi i północnymi.
 
-But on these plains, hills, and heights no blade of grass grows; in the
+A ponieważ pełnomocnik króla Assara zdawał się nie ufać przysięgom, więc Herhor postanowił złożyć mu materialny dowód życzliwości i w tym celu wydał rozkaz natychmiastowego uwolnienia dwudziestu tysięcy wojsk najemnych, przeważnie Libijczyków.
 
-lake there is no drop of water; along the bed of the river no current
+Dla uwolnionych, a nic niewinnych i zawsze wiernych żołnierzy postanowienie to było nieszczęściem nieomal równającym się karze śmierci. Przed Egiptem otwierało się niebezpieczeństwo wojny z Libią, która w żaden sposób nie mogła dać przytułku takiej masie ludzi, przywykłych tylko do musztry i wygód, nie zaś do pracy i nędzy. Ale Herhor i kapłani nie krępowali się drobiazgami, gdy chodziło o wielkie interesa państwowe.
 
-moves. That is a landscape, even greatly varied with respect to forms,
+Naprawdę bowiem wypędzenie najemników libijskich przynosiło duże korzyści.
 
-but a landscape from which all water has departed, the very last atom
+Przede wszystkim Sargon i jego towarzysze podpisali i zaprzysięgli tymczasowy traktat z Egiptem na lat dziesięć, przez który to czas, według proroctw chaldejskich kapłanów, miały ciążyć nad ziemią świętą złe losy.
 
-of moisture has dried from it; a dead landscape, where not only all
+Po wtóre — wypędzenie dwudziestu tysięcy ludzi z wojska przynosiło skarbowi królewskiemu cztery tysiące talentów oszczędności, co było bardzo ważne.
 
-vegetation has vanished, but even the fertile stratum of earth has been
+Po trzecie — wojna z Libią na zachodniej granicy była upustem dla bohaterskich instynktów następcy tronu i na długi czas mogła odwrócić jego uwagę od spraw azjatyckich i od granicy wschodniej. Jego dostojność Herhor i rada najwyższa bardzo mądrze przypuszczali, że upłynie kilka lat, zanim Libijczycy, zużywszy się w partyzanckich walkach, zechcą prosić o pokój.
 
-ground into dust or dried up into rock slabs.
+Plan był rozsądny, lecz autorowie jego popełnili jeden błąd: nie przeczuli, że w księciu Ramzesie tkwi materiał na genialnego wojownika.
 
-In those places the most ghastly event has taken place of which it is
+Rozpuszczone pułki libijskie, rabując po drodze, bardzo prędko dotarły do swej ojczyzny; tym łatwiej, że Herhor nie kazał stawiać im przeszkód. Najpierwsi zaś spomiędzy wypędzonych stanąwszy na libijskiej ziemi niestworzone rzeczy opowiadali swoim rodakom.
 
-possible to meditate: Nature has died there, and nothing remains but
+Według ich relacji, dyktowanych przez gniew i interes osobisty, Egipt był dziś tak osłabiony jak w epoce najścia Hyksosów, przed dziewięciuset laty. Skarb faraona był tak pusty, że równy bogom władca musiał rozpuścić ich, Libijczyków, którzy przecie stanowili najlepszą, jeżeli nie jedyną część armii. Armii zresztą prawie nie było, chyba garstka na wschodniej granicy, a i to lada jakich żołnierzy.
 
-her dust and her skeleton, which heat dissolves to the last degree, and
+Oprócz tego między jego świątobliwością i kapłanami panowała niezgoda; robotnikom nie wypłacano zasług, a chłopów wprost duszono podatkami, przez co masy ludu były gotowe do buntu, byle znalazła się pomoc. I jeszcze nie dosyć: albowiem nomarchowie, którzy kiedyś byli niezależnymi władcami i od czasu do czasu przypominali sobie swoje prawa, dziś, widząc słabość rządu, przygotowują się do obalenia i faraona, i najwyższej rady kapłańskiej.
 
-burning wind tosses from spot to spot.
+Wieści te jak stado ptaków rozleciały się po libijskim wybrzeżu i — natychmiast znalazły wiarę. Bandyci i barbarzyńcy zawsze byli gotowi do napadu, a tym więcej dziś, gdy eks-żołnierze i eks-oficerowie jego świątobliwości zapewniali ich, że zrabowanie Egiptu jest rzeczą bardzo łatwą. Zamożni i rozsądni Libijczycy również uwierzyli wypędzonym legionistom; od wielu już bowiem lat nie było dla nich tajemnicą, że szlachta egipska ubożeje, że faraon nie ma władzy, że chłopi i robotnicy dopuszczają się z nędzy buntów.
 
-Beyond this dead, unburied region stretches again a sea of sand, on
+I otóż w całej Libii wybuchnął zapał. Wypędzonych żołnierzy i oficerów witano jak głosicieli dobrej nowiny. A ponieważ kraj był ubogi i nie miał zapasów do podejmowania gości, uchwalono więc natychmiast wojnę z Egiptem, ażeby jak najrychlej pozbyć się przybyszów.
 
-which are seen, here and there, towering up in one and another place,
+Nawet chytry i mądry książę libijski, Musawasa, dał się porwać ogólnemu prądowi. Jego jednak nie przekonali imigranci, ale jacyś ludzie poważni i dostojni, a według wszelkiego prawdopodobieństwa — agenci najwyższej rady egipskiej.
 
-pointed stacks as high as a house of one story. Each summit of such a
+Ci dygnitarze, niby to niezadowoleni ze stanu rzeczy w Egipcie, niby to obrażeni na faraona i kapłanów, przyjechali do Libii od strony morza, kryli się przed gawiedzią, unikali stosunków z wypędzonymi żołnierzami, a Musawasie tłumaczyli pod największym sekretem i z dowodami w rękach, że — teraz właśnie powinien napaść na Egipt.
 
-little hill is crowned by a small bunch of gray, fine, dusty leaves, of
+— Znajdziesz tam — mówili — bezdenny skarbiec i spiżarnię dla siebie, dla swoich ludzi i dla wnuków waszych wnuków.
 
-which it is difficult to say that they are living; but it may be said
+Musawasa — choć przebiegły wódz i dyplomata — dał się złapać. Jako człowiek energiczny, natychmiast ogłosił przeciw Egiptowi świętą wojnę i — mając pod ręką tysiące dzielnych wojowników, pchnął pierwszy korpus ku wschodowi, pod dowództwem swego syna, dwudziestoletniego Tehenny.
 
-that they cannot wither.
+Stary barbarzyniec znał wojnę i rozumiał, że kto chce zwyciężyć, musi działać szybko, zadawać pierwsze ciosy.
 
-One of these strange stacks signifies that water in that place has not
+Przygotowania libijskie trwały bardzo krótko. Eks-żołnierze jego świątobliwości wprawdzie przyszli bez broni, lecz znali swoje rzemiosło, a w owych czasach o broń nie było trudno. Parę rzemyków czy parę kawałków sznurka na procę, włócznia albo zaostrzony kij, topór albo ciężka pałka, jedna torba kamyków a druga — daktylów, oto wszystko.
 
-dried up altogether, but has hidden from drought beneath the earth, and
+Oddał więc Musawasa dwa tysiące eks-żołnierzy i ze cztery tysiące libijskiej hołoty swemu synowi, Tehennie, zalecając mu, ażeby czym prędzej wpadł do Egiptu, zrabował, co się da, i przygotował zapasy dla właściwej armii. Sam zaś, gromadząc poważniejsze siły, rozesłał gońców po oazach i wzywał wszystkich, którzy nie mają nic do stracenia, pod swoje sztandary.
 
-preserves dampness in some way. On that spot a tamarind seed fell, and
+Dawno w pustyni nie panował taki ruch jak dzisiaj. Z każdej oazy wychodziła gromada za gromadą tak strasznych proletariuszów, że choć już byli prawie nadzy, jeszcze zasługiwali na nazwę oberwańców.
 
-the plant has begun to grow with endless effort.
+Opierając się na zdaniu swoich doradców, którzy jeszcze miesiąc temu byli oficerami jego świątobliwości, Musawasa całkiem rozsądnie przypuszczał, że jego syn pierwej zrabuje kilkaset wsi i miasteczek od Terenuthis do Senti-Nofer, zanim spotka jakieś poważniejsze siły egipskie. Wreszcie doniesiono mu, że na pierwszą wieść o ruchu Libijczyków nie tylko uciekli wszyscy robotnicy z wielkiej huty szklannej
 
-But Typhon, the lord of the desert, has noted this, and begun to stifle
+Była to bardzo dobra wróżba dla barbarzyńców: huta bowiem szklanna stanowiła poważne źródło dochodów dla faraonowego skarbca.
 
-it with sand. And the more the little plant pushes upward, the higher
+Otóż Musawasa popełnił błąd taki sam jak najwyższa rada kapłańska: nie przeczuł wojennego geniuszu w Ramzesie. I stała się rzecz nadzwyczajna: zanim pierwszy korpus libijski dotarł do okolicy Sodowych Jezior, już w tym miejscu znalazła się dwa razy liczniejsza armia następcy tronu.
 
-rises the stack of sand which is choking it. That tamarind which has
+Nie można nawet zarzucać Libijczykom nieprzezorności.
 
-wandered into the desert looks like a drowning man raising his arms, in
+Tehenna i jego sztab utworzyli bardzo porządną służbę wywiadowczą. Ich szpiegowie niejednokrotnie byli w Melcatis
 
-vain, heavenward.
+Przynosili więc swemu dowódcy jak najlepsze wiadomości. A tymczasem armia księcia Ramzesa, pomimo wylewu, w osiem dni po uruchomieniu dotarła brzegu pustyni i zaopatrzona w wodę i żywność przepadła między górami Sodowych Jezior.
 
-And again the yellow boundless ocean stretches on with its sand waves
-
-and those fragments of the plant world which have not the power to
-
-perish. All at once a rocky wall is in front, and in it clefts, which
-
-serve as gateways.
-
-The incredible is before us. Beyond one of these gateways a broad green
-
-plain appears, a multitude of palms, the blue waters of a lake. Even
-
-sheep are seen pasturing, with cattle and horses. From afar, on the
-
-sides of a cliff, towers up a town; on the summit of the cliff are the
-
-white walls of a temple.
-
-That is an oasis, or island in the sand ocean.
-
-In the time of the pharaohs there were many such oases, perhaps some
-
-tens of them. They formed a chain of islands in the desert, along the
-
-western boundary of Egypt. They lay at a distance of ten, fifteen, or
-
-twenty geographic miles from the Nile, and varied in size from a few to
-
-a few tens of square kilometers in area.
-
-Celebrated by Arab poets, these oases were never really the forecourts
-
-of paradise. Their lakes are swamps for the greater part; from their
-
-underground sources flow waters which are warm, sometimes of evil odor,
-
-and disgustingly brackish; their vegetation could not compare with the
-
-Egyptian. Still, these lonely places seemed a miracle to wanderers in
-
-the desert, who found in them a little green for the eye, a trifle of
-
-coolness, dampness, and some dates also.
-
-The population of these islands in the sand ocean varied from a few
-
-hundred persons to numbers between ten and twenty thousand, according
-
-to area. These people were all adventurers or their descendants,
-
-Europeans, Libyans, Ethiopians. To the desert fled people who had
-
-nothing to lose, convicts from the quarries, criminals pursued by
-
-police, earth-tillers escaping from tribute, or laborers who left hard
-
-work for danger. The greater part of these fugitives died on the sand
-
-ocean. Some of them, after sufferings beyond description, were able to
-
-reach the oases, where they passed a wretched life, but a free one, and
-
-they were ready at all times to fall upon Egypt for the sake of an
-
-outlaw's recompense.
-
-Between the desert and the Mediterranean extended a very long, though
-
-not very wide strip of fruitful soil, inhabited by tribes which the
-
-Egyptians called Libyans. Some of these worked at land tilling, others
-
-at navigation and fishing; in each tribe, however, was a crowd of wild
-
-people, who preferred plunder, theft, and warfare to regular labor.
-
-That bandit population was perishing always between poverty and warlike
-
-adventure; but it was also recruited by an influx of Sicilians and
-
-Sardinians, who at that time were greater robbers and barbarians than
-
-were the native Libyans.
-
-Since Libya touched the western boundary of Lower Egypt, barbarians
-
-made frequent inroads on the territory of his holiness, and were
-
-terribly punished. Convinced at last that war with Libyans was result-
-
-less, the pharaohs, or, more accurately, the priesthood, decided on
-
-another system: real Libyan families were permitted to settle in the
-
-swamps of Lower Egypt, near the seacoast, while adventurers and bandits
-
-were enlisted in the army, and became splendid warriors.
-
-In this way the state secured peace on the western boundary. To keep
-
-single Libyan robbers in order police were sufficient, with a field
-
-guard and a few regiments of regulars disposed along the Canopus arm of
-
-the great river.
-
-Such a condition of affairs lasted almost two centuries; the last war
-
-with the Libyans was carried on by Ramses III, who cut enormous piles
-
-of hands from his slain enemies, and brought thirteen thousand slaves
-
-home to Egypt. From that time forth no one feared attack on the Libyan
-
-boundary, and only toward the end of the reign of Ramses XII did the
-
-strange policy of the priests kindle the flame of war again in those
-
-regions.
-
-It burst out through the following causes:
-
-His worthiness, Herhor, the minister of war, and high priest of Amon,
-
-because of resistance from his holiness the pharaoh, was unable to
-
-conclude with Assyria a treaty for the division of Asia. But wishing,
-
-as Beroes had forewarned him, to keep a more continued peace with
-
-Assyria, Herhor assured Sargon that Egypt would not hinder them from
-
-carrying on a war with eastern and northern Asiatics.
-
-And since Sargon, the ambassador of King Assar, seemed not to trust
-
-their oaths, Herhor decided to give him a material proof of friendly
-
-feeling, and, with this object, ordered to disband at once twenty
-
-thousand mercenaries, mainly Libyans.
-
-For those disbanded warriors, who were in no way guilty and had been
-
-always loyal, this decision almost equaled a death sentence. Before
-
-Egypt appeared the danger of a war with Libya, which could in no case
-
-give refuge to men in such numbers, men accustomed only to comforts and
-
-military exercise, not to poverty and labor. But in view of great
-
-questions of state, Herhor and the priests did not hesitate at trifles.
-
-Indeed, the disbanding of the Libyans brought them much advantage.
-
-First of all, Sargon and his associates signed and swore to a treaty of
-
-ten years with the pharaoh, during which time, according to predictions
-
-of priests in Chaldea, evil fates were impending over Egypt.
-
-Second, the disbanding of twenty thousand men spared four thousand
-
-talents to the treasury; this was greatly important.
-
-Third, a war with Libya on the western boundary was an outlet for the
-
-heroic instincts of the viceroy, and might turn his attention from
-
-Asiatic questions and the eastern boundary for a long time. His
-
-worthiness Herhor and the supreme council had calculated very keenly
-
-that some years would pass before the Libyans, trained in petty
-
-warfare, would ask for peace with Egypt.
-
-The plan was well constructed, but the authors of it failed in one
-
-point; they had not found Ramses a military genius.
-
-The disbanded Libyan regiments robbed along the way, and reached their
-
-birthplace very quickly, all the more quickly since Herhor had given no
-
-command to place obstacles before them. The very first of the disbanded
-
-men, when they stood on Libyan soil, told wonders to their relatives.
-
-According to their stories, dictated by anger and personal interest,
-
-Egypt was then as weak as when the Hyksos invaded it nine hundred years
-
-earlier. The pharaoh's treasury was so poor that he, the equal of the
-
-gods, had to disband them, the Libyans, who were the chief, if not the
-
-only honor of the army. Moreover, there was hardly any army unless a
-
-mere band on the eastern boundary, and that was formed of warriors of a
-
-common order.
-
-Besides, there was dissension between the priesthood and his holiness.
-
-The laborers had not received their wages, and the earth tillers were
-
-simply killed through taxes, therefore masses of men were ready to
-
-rebel if they could only find assistance. And that was not the whole
-
-case, for the nomarchs, who ruled once independently, and who from time
-
-to time demanded their rights again, seeing now the weakness of the
-
-government, were preparing to overturn both the pharaoh and the supreme
-
-priestly council.
-
-These tidings flew, like a flock of birds, along the Libyan boundary,
-
-and found credit quickly. Those barbarians and bandits ever ready to
-
-attack, were all the more ready then, when ex-warriors and officers of
-
-his holiness assured them that to plunder Egypt was easy.
-
-Rich and thoughtful Libyans believed the disbanded men also; for during
-
-many years it had been to them no secret that Egyptian nobles were
-
-losing wealth yearly, that the pharaoh had no power, and that earth-
-
-tillers and laborers rebelled because they suffered.
-
-And so excitement burst out through all Libya. People greeted the
-
-disbanded warriors and officers as heralds of good tidings. And since
-
-the country was poor, and had no supplies to nourish visitors, a war
-
-with Egypt was decided on straightway, so as to send off the new
-
-arrivals at the earliest.
-
-Even the wise and crafty Libyan prince, Musawasa, let himself be swept
-
-away by the general current. It was not, however, the disbanded
-
-warriors who had convinced him, but certain grave and weighty persons
-
-who, in every likelihood, were agents of the chief Egyptian council.
-
-These dignitaries, as if dissatisfied with things in Egypt, or offended
-
-at the pharaoh and the priesthood, had come to Libya from the seashore;
-
-they took no part in conversations, they avoided meetings with
-
-disbanded warriors, and explained to Musawasa, as the greatest secret,
-
-and with proofs in hand, that that was just his time to fall on Egypt.
-
-"Thou wilt find there endless wealth," said they, "and granaries for
-
-thyself, thy people, and the grandsons of thy grandsons."
-
-Musawasa, though a skilful diplomat and leader, let himself be caught
-
-in that way. Like a man of energy, he declared a sacred war at once,
-
-and, as he had valiant warriors in thousands, he hurried off the first
-
-corps eastward. His son, Tehenna, who was twenty years of age at that
-
-time, led it.
-
-The old barbarian knew what war was, and understood that he who plans
-
-to conquer must act with speed and give the first blows in the
-
-struggle.
-
-Libyan preparations were very brief. The former warriors of his
-
-holiness had no weapons, it is true, but they knew their trade, and it
-
-was not difficult in those days to find weapons for an army. A few
-
-straps, or pieces of rope for a sling, a dart or a sharpened stick, an
-
-axe, or a heavy club, a bag of stones, and another of dates, that was
-
-the whole problem.
-
-So Musawasa gave two thousand men, ex-warriors of the pharaoh, and four
-
-thousand of the Libyan rabble to Tehenna, commanding him to fall on
-
-Egypt at the earliest, seize whatever he could find, and collect
-
-provisions for the real army. Assembling for himself the most important
-
-forces, he sent swift runners through the oases and summoned to his
-
-standard all who had no property.
-
-There had not been such a movement in the desert for a long time. From
-
-each oasis came crowd after crowd, such a proletariat, that, though
-
-almost naked, they deserved to be called a tattered rabble. Relying on
-
-the opinion of his counselors, who a month earlier had been officers of
-
-his holiness, Musawasa supposed, with perfect judgment, that his son
-
-would plunder hundreds of villages and small places from Teremethis to
-
-Senti-Nofer, before he would meet important Egyptian forces. Finally
-
-they reported to him, that at the first news of a movement among the
-
-Libyans, not only had all laborers fled from the glass works, but that
-
-even the troops had withdrawn from fortresses in Sochet-Heman on the
-
-Soda Lakes.
-
-This was of very good import to the barbarians, since those glass works
-
-were an important source of income to the pharaoh's treasury.
-
-Musawasa had made the same mistake as the supreme priestly council. He
-
-had not foreseen military genius in Ramses. And an uncommon thing
-
-happened: before the first Libyan corps had reached the neighborhood of
-
-the Soda Lakes the viceroy's army was there, and was twice as numerous
-
-as its enemies.
-
-No man could reproach the Libyans with lack of foresight. Tehenna and
-
-his staff had a very well-organized service. Their spies had made
-
-frequent visits to Melcatis, Naucratis, Sai, Menuf, and Teremethis, and
-
-had sailed across the Canopus and Bolbita arms of the Nile. Nowhere did
-
-they meet troops; the movements of troops would have been paralyzed in
-
-those places by the overflow, but they did see almost everywhere the
-
-alarm of settled populations which were simply fleeing from border
-
-villages. So they brought their leader exact intelligence.
-
-Meanwhile the viceroy's army, in spite of the overflow, had reached the
-
-edge of the desert in nine days after it was mobilized, and now,
-
-furnished with water and provisions, it vanished among the hills of the
-
-Soda Lakes.
-
-If Tehenna could have risen like an eagle above the camp of his
-
-warriors, he would have been frightened at seeing that Egyptian
-
-regiments were hidden in all the ravines of that district, and that his
-
-corps might be surrounded at any instant.
+Gdyby Tehenna mógł jak orzeł wzbić się ponad stanowiska swojej bandy, struchlałby, zobaczywszy, że we wszystkich wąwozach tej okolicy kryją się egipskie pułki i — że lada chwilę korpus jego zostanie otoczony.

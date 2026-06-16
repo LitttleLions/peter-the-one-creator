@@ -1,501 +1,180 @@
-# Kapitel 59: CHAPTER LIX
+# Kapitel 059: Tom III - Rozdział X
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part67.xhtml*
 
 <!-- status: pending -->
 
-After the funeral of the pharaoh, Egypt returned to its usual life, and
+Po pogrzebie faraona Egipt wrócił do zwykłego trybu życia, a Ramzes XIII do spraw państwowych. Nowy władca w miesiącu Epifi (kwiecień — maj) zwiedził miasta położone za Tebami wzdłuż Nilu. Był więc w Sni, mieście bardzo przemysłowym i handlowym, gdzie znajdowała się świątynia Knepha
 
-Ramses XIII to affairs of state. The new ruler in the month Epifi
+Gdziekolwiek ukazał się nowy pan Egiptu, poddani witali go z szalonym zapałem. Nawet pracujący w kopalniach przestępcy, których ciało było pokryte nie zagojonymi ranami, nawet ci zaznali szczęścia: faraon bowiem na trzy dni kazał uwolnić ich od roboty.
 
-visited the cities of the Nile above Thebes. Hence he went to Sni, a
+Ramzes XIII mógł być zadowolony i dumny: żaden bowiem faraon nawet w czasie triumfalnego wjazdu nie był przyjmowany tak jak on w swojej pokojowej przejażdżce. Toteż nomarchowie, pisarze i arcykapłani, widząc bezgraniczne przywiązanie ludu do nowego faraona, ugięli się przed jego władzą i między sobą szeptali:
 
-city greatly devoted to trade and commerce. In Sni was the temple of
+— Pospólstwo jest jak stado byków, a my jak roztropne i gospodarne mrówki. Czcijmy więc nowego pana, abyśmy cieszyli się zdrowiem i ochronili nasze domy od zniszczenia...
 
-Keph, or the "Soul of the World." He visited Edfu, whose temple had
+Tym sposobem opozycja dostojników, jeszcze przed kilkoma miesiącami bardzo silna, dziś umilkła i ustąpiła miejsca nieograniczonej pokorze. Cała arystokracja, całe kapłaństwo upadło na twarz przed Ramzesem XIII; tylko Mefres i Herhor pozostali nieugięci.
 
-pylons a hundred and fifty feet high, and which possessed an immense
+Toteż kiedy faraon wrócił z Sunnu do Tebów, zaraz pierwszego dnia wielki skarbnik przyniósł mu dwie niepomyślne wiadomości.
 
-library of papyruses, and on the walls of which were written and
+— Wszystkie świątynie — rzekł — odmówiły skarbowi kredytu i najpokorniej błagają waszą świątobliwość, aby w ciągu dwu lat rozkazał wypłacić pożyczone od nich sumy...
 
-depicted, as it were, an encyclopedia of the geography, astronomy, and
+— Rozumiem — odparł władca — to robota świętego Mefresa!... Ileż jesteśmy im winni?
 
-theology of that period. He visited the quarries in Chennu, in Nubia,
+— Z pięćdziesiąt tysięcy talentów.
 
-or Kom-Ombo; he made offerings to Horus, the god of light, and to
+— Pięćdziesiąt tysięcy talentów mamy spłacić w ciągu dwu lat!... — powtórzył faraon. — No, a co jeszcze?...
 
-Sebek, the spirit of darkness. He was on the island Ab, which among
+— Podatki wpływają bardzo opieszale — mówił skarbnik. — Od trzech miesięcy dostajemy zaledwie czwartą część tego, co nam się należy...
 
-dark cliffs seemed an emerald, produced the best dates, and was called
+— Cóż się to stało?...
 
-the Capital of Elephants, Elephantina, for on that island the ivory
+Skarbnik był zakłopotany.
 
-trade was concentrated. He visited finally the city of Sunnu, situated
+— Słyszałem — rzekł — iż jacyś ludzie tłumaczą chłopom, że za panowania waszej świątobliwości mogą nie płacić podatków...
 
-at the first cataract of the Nile, and visited the immense quarries,
+— Oho! ho!... — zawołał, śmiejąc się, Ramzes — owi jacyś ludzie wydają mi się bardzo podobnymi do dostojnego Herhora... Cóż to, chce on mnie zamorzyć głodem?... Czymże pokrywacie wydatki bieżące? — spytał.
 
-granite and sienite, where rocks were split off with wooden wedges on
+— Z rozkazu Hirama pożyczają nam Fenicjanie — odpowiedział skarbnik. — Wzięliśmy już osiem tysięcy talentów...
 
-which the quarrymen poured water which swelled them, and thus obelisks
+— Ale kwity dajecie im?
 
-one hundred and thirty feet high were detached from the face of the
+— I kwity, i zastawy... — westchnął skarbnik. — Oni mówią, że to prosta formalność; niemniej osiedlają się na folwarkach waszej świątobliwości i zabierają chłopom, co się da...
 
-quarry.
+Upojony przyjęciem ze strony ludu i pokorą magnatów, faraon już nawet nie gniewał się na Herhora i Mefresa. Czas gniewów minął, nadeszła chwila działania, i Ramzes tego samego dnia ułożył plan.
 
-Wherever the new lord of Egypt appeared his subjects greeted him
+Nazajutrz wezwał ludzi najbardziej zaufanych: arcykapłana Sema, proroka Pentuera, ulubieńca Tutmozisa i Fenicjanina Hirama. A gdy zebrali się, rzekł:
 
-wildly. Even criminals, toiling in the quarries men whose bodies were
+— Zapewne wiecie, że świątynie zażądały, abym zwrócił im fundusze, które pożyczył od nich mój wiecznie żyjący ojciec. Każdy dług jest świętym, ten zaś, który należy się bogom, rad bym spłacić najpierwej. Ale skarb mój jest pusty, bo nawet podatki nieregularnie wpływają...
 
-covered with never-healing wounds experienced happiness since the
+Z tego powodu uważam, że państwo jest w niebezpieczeństwie, i — jestem zmuszony zwrócić się po fundusze do skarbów przechowywanych w Labiryncie...
 
-pharaoh commanded to release them for the space of three days from
+Dwaj kapłani niespokojnie poruszyli się.
 
-their labor.
+— Wiem — ciągnął faraon — że według naszych świętych praw, mój dekret nie wystarczy do otworzenia nam piwnic Labiryntu. Lecz kapłani tamtejsi objaśnili mnie: co powinienem zrobić. Oto — muszę zwołać przedstawicieli wszystkich stanów Egiptu, po trzynastu ludzi z każdego stanu, i uzyskać od nich potwierdzenie mojej woli...
 
-Ramses XIII might feel proud and well satisfied, for no pharaoh in time
+Faraon w tym miejscu uśmiechnął się i zakończył:
 
-of triumph was received as he on his peaceful journey. So, nomarchs,
+— Dziś wezwałem was, abyście mi pomogli zwołać to zgromadzenie stanów, i oto, co wam rozkazuję:
 
-scribes, and high priests, seeing this boundless attachment of the
+Ty, dostojny Semie, wybierzesz mi trzynastu kapłanów i trzynastu nomarchów... Ty, pobożny Pentuerze, sprowadzisz z różnych nomesów trzynastu rolników i trzynastu rzemieślników... Tutmozis dostarczy trzynastu oficerów i trzynastu szlachty, a książę Hiram zajmie się tym, ażebym miał trzynastu kupców.
 
-people, bent before the pharaoh and whispered,
+Życzę sobie, ażeby zgromadzenie to jak najprędzej zebrało się w moim pałacu w Memfis i nie tracąc czasu na próżnym gadaniu uznało, że Labirynt powinien dostarczyć funduszów memu skarbowi...
 
-"The people are like a herd of bulls, and we like prudent ants. Hence
+— Ośmielę się przypomnieć waszej świątobliwości — wtrącił arcykapłan Sem — że na tym zgromadzeniu muszą być: dostojny Herhor i dostojny Mefres, i że służy im prawo, a nawet mają obowiązek sprzeciwiać się naruszeniu skarbca w Labiryncie.
 
-we will honor our new lord so that he may enjoy health and protect us
+— Owszem, zgadzam się na to najzupełniej! — żywo odparł faraon. — Oni powiedzą swoje powody, ja moje. Zaś zgromadzenie osądzi: czy może istnieć państwo bez pieniędzy i czy jest rozsądnie dusić skarby w piwnicach, podczas gdy rządowi grozi bankructwo?
 
-from ruin."
+— Kilkoma szafirami z tych, jakie leżą w Labiryncie, można by spłacić wszystkie długi fenickie!... — rzekł Hiram. — Ja zaraz idę między kupców i wnet dostarczę nie trzynastu, ale trzynaście tysięcy takich, którzy będą głosowali na rozkazy waszej świątobliwości...
 
-In this way the opposition of dignitaries, very strong some mouths
+To powiedziawszy, Fenicjanin upadł na ziemię i pożegnał władcę.
 
-earlier, had grown silent and yielded to boundless obedience. The whole
+Gdy Hiram wyszedł, arcykapłan Sem odezwał się:
 
-aristocracy, all the priests, fell on their faces before Ramses XIII;
+— Nie wiem, czy dobrze stało się, że na tej naradzie był cudzoziemiec?...
 
-Mefres and Herhor alone were unshaken.
+— Musiał być!... — zawołał faraon. — Bo on nie tylko ma wielki wpływ na naszych kupców, ale, co ważniejsza, on dziś dostarcza nam pieniędzy... Chciałem go przekonać, że myślę o jego należnościach i mam środki do pokrycia ich...
 
-Hence when the pharaoh returned from Sunnu to Thebes the chief
+Nastało milczenie, z którego skorzystał Pentuer, mówiąc:
 
-treasurer brought unfavorable news the first day to him.
+— Jeżeli wasza świątobliwość pozwoli, ja zaraz wyjadę, ażeby zająć się zgromadzeniem rolników i rzemieślników. Wszyscy oni będą głosowali za naszym panem, ale spośród mnóstwa trzeba wybrać najmędrszych.
 
-"All the temples," said he, "refuse credit, and beg most obediently
+Pożegnał faraona i wyszedł.
 
-that thou, holiness, command to pay in the course of two years all sums
+— A ty, Tutmozisie?... — spytał Ramzes.
 
-which they have lent the treasury."
+— Panie mój — rzekł ulubieniec — jestem tak pewny twojej szlachty i wojska, że zamiast mówić o nich, ośmielę się zanieść do ciebie moją własną prośbę...
 
-"I understand," said the pharaoh; "this is the work of holy Mefres. How
+— Chcesz pieniędzy?
 
-much do we owe them?"
+— Wcale nie. Chcę żenić się...
 
-"About fifty thousand talents."
+— Ty?... — zawołał faraon. — Któraż kobieta zasłużyła u bogów na podobne szczęście?
 
-"We have to pay fifty thousand talents in two years," repeated the
+— Jest to piękna Hebron, córka najdostojniejszego nomarchy tebańskiego — Antefa... — odparł, śmiejąc się, Tutmozis. — Jeżeli wasza świątobliwość raczysz oświadczyć mnie tej czcigodnej rodzinie... Chciałem powiedzieć, że moja miłość dla was zwiększy się... ale dam spokój, bo skłamałbym...
 
-pharaoh. "Well, what more?"
+Faraon poklepał go po ramieniu.
 
-"The taxes come in very slowly. During three months we have received
+— No... no!... tylko mnie nie zapewniaj o tym, czego jestem pewny — rzekł. — Pojadę jutro do Antefa i przez bogi, zdaje mi się, że w ciągu kilku dni urządzę ci wesele. A teraz możesz iść do swojej Hebron...
 
-barely one-fourth of what is due us."
+Zostawszy z jednym tylko Semem, jego świątobliwość zapytał:
 
-"What has happened?"
+— Oblicze twoje jest ponure... Czy wątpisz, aby znalazło się trzynastu kapłanów gotowych spełnić moje rozkazy?...
 
-The treasurer was anxious.
+— Jestem pewny — odpowiedział Sem — że prawie wszyscy kapłani i nomarchowie zrobią to, co będzie potrzebne do szczęścia Egiptu i zadowolenia waszej świątobliwości... Racz jednak nie zapominać, panie, że gdy chodzi o skarbiec Labiryntu, ostateczną decyzję wyda Amon...
 
-"I have heard," said he, "that some people have explained to earth-
+— Posąg Amona w Tebach?...
 
-tillers that during thy reign they are not to pay taxes."
+— Tak.
 
-"Oh! ho!" cried Ramses, laughing. "Those 'some people' seem to me very
+Faraon pogardliwie machnął ręką.
 
-like the worthy Herhor. Well, what is this; does he want to kill me
+— Amon — rzekł — to Herhor i Mefres... że oni nie zgodzą się, o tym wiem; ale też nie myślę dla uporu dwu ludzi poświęcać państwa.
 
-with hunger? How can we meet current expenses?"
+— Myli się wasza świątobliwość — odparł z powagą Sem. — Prawda, że bardzo często posągi bogów robią to, czego chcą ich arcykapłani, ale... nie zawsze!... W naszych świątyniach, panie, dzieją się niekiedy rzeczy nadzwyczajne i tajemnicze... Posągi bogów niekiedy same robią i mówią, co chcą...
 
-"At Hiram's command the Phoenicians lend us," answered the treasurer.
+— W takim razie jestem spokojny — przerwał mu faraon. — Bogowie znają stan państwa i czytają w moim sercu... Chcę, ażeby Egipt był szczęśliwym, a ponieważ tylko do tego celu dążę, więc żaden mądry i dobry bóg nie może mi przeszkadzać.
 
-"We have received from them eight thousand talents already."
+— Oby sprawdziły się słowa waszej świątobliwości!... — szepnął arcykapłan.
 
-"But do ye give them notes?"
+— Ty jeszcze chcesz mi coś powiedzieć — rzekł Ramzes widząc, że jego religijny zastępca ociąga się z pożegnaniem.
 
-"Notes and mortgages," sighed the treasurer. "They say that this is a
+— Tak jest, panie. Mam obowiązek przypomnieć ci, że każdy faraon, zaraz po objęciu władzy i pogrzebaniu swego poprzednika, musi pomyśleć o wzniesieniu dwu budowli: grobu dla siebie i świątyni dla bogów.
 
-simple formality. Still they settle on thy lands, and take what they
+— Otóż właśnie! — zawołał pan. — Nieraz już myślałem o tym, ale nie mając pieniędzy, nie śpieszę się z wydawaniem rozkazów. Bo rozumiesz — dodał z ożywieniem — że jeżeli zbuduję coś, to coś wielkiego, coś, co by kazało Egiptowi nieprędko zapomnieć o mnie...
 
-can from the people."
+— Chcesz mieć wasza świątobliwość piramidę?...
 
-Delighted with the reception given him by the people and the obedience
+— Nie. Nie zbuduję przecie większej piramidy niż Cheopsa ani większej świątyni aniżeli Amona w Tebach. Moje państwo jest za słabe do wykonywania dzieł ogromnych... Muszę więc zrobić coś zupełnie nowego, gdyż powiem ci, że nasze budowle już mnie nudzą. Wszystkie są podobne jak ludzie między sobą, a różnią się jedna od drugiej chyba tylko wymiarami, jak człowiek dorosły i dziecko.
 
-of magnates, the pharaoh was not even angry at Herhor and Mefres. The
+— Więc?... — zapytał zdziwiony arcykapłan.
 
-time of auger had passed, the moment of action had come, and Ramses
+— Mówiłem z Grekiem Dionem, który jest u nas najznakomitszym architektem, i on pochwalił mój plan — ciągnął faraon. — Otóż na grób dla siebie chcę zbudować wieżę okrągłą, ze schodami zewnętrznymi, taką, jak była w Babelu... Wzniosę też świątynię nie dla Ozyrysa lub Izydy, ale dla Jedynego Boga, w którego wierzą wszyscy: Egipcjanie, Chaldejczycy, Fenicjanie i Żydzi... Chcę zaś, aby świątynia ta była podobną do pałacu króla Assara, którego model Sargon przywiózł mojemu ojcu...
 
-formed his plan that very day. He summoned for the morrow those in whom
+Arcykapłan potrząsnął głową.
 
-he had most reliance: the high priest Sem, the prophet Pentuer, his
+— Wielkie to są zamiary, panie mój — odparł — ale wykonać ich nie można... Wieże babilońskie, z powodu swojej formy, są nietrwałe i łatwo przewracają się; tymczasem nasze gmachy muszą przetrwać wieki... Świątyni Jedynemu Bogu stawiać nie można, gdyż On nie potrzebuje ani odzieży, ani jadła, ani napoju, a cały świat jest Jego mieszkaniem. Gdzież więc świątynia, która by Go pomieściła, gdzie kapłan, który ośmieliłby się składać Mu ofiary?...
 
-favorite Tutmosis, and the Phoenician Hiram. When they had assembled he
+— Ha, więc zbudujemy przybytek dla Amona-Ra — wtrącił faraon.
 
-said,
+— Owszem, byle nie taki jak pałac króla Assara. Gdyż jest to gmach asyryjski, a nam, Egipcjanom, nie przystoi naśladować barbarzyńców...
 
-"Ye know, of course, the temples request me to return to them the funds
+— Nie rozumiem cię... — przerwał nieco rozdrażniony władca.
 
-borrowed by my father. Every debt is sacred, that which belongs to the
+— Wysłuchaj mnie, panie nasz — mówił Sem. — Przypatrz się ślimakom, z których każdy ma inną skorupę: jeden zwiniętą, ale płaską, drugi zwiniętą, a podłużną, jeszcze inny — podobną do pudełka... Tak samo każdy naród buduje inne gmachy, zgodne z jego krwią i usposobieniem.
 
-gods I should like to pay first of all. But my treasury is empty, since
+Racz także pamiętać, że gmachy egipskie są tak różne od asyryjskich, jak Egipcjanie od Asyryjczyków.
 
-even the taxes come in only fitfully.
+U nas zasadniczym kształtem każdego gmachu jest piramida ścięta, najtrwalsza ze wszystkich form, jak Egipt jest najtrwalszym ze wszystkich państw. Zaś u Asyryjczyków zasadniczą formą jest sześcian, który łatwo psuje się i ulega zniszczeniu.
 
-"For this reason I look on the state as in danger, and I am forced to
+Pyszny i lekkomyślny Asyryjczyk stawia swoje sześciany jeden na drugim i buduje gmach wielopiętrowy, pod którego ciężarem usuwa się ziemia. Pokorny zaś i roztropny Egipcjanin ustawia swoje ścięte piramidy jedna za drugą. Tym sposobem u nas nic nie wisi w powietrzu, ale każda część gmachu opiera się na ziemi.
 
-turn for funds to treasures preserved in the labyrinth."
+Stąd wynika, że nasze budowle są długie i wiecznotrwałe, a asyryjskie — wysokie i kruche jak ich państwo, które dziś szybko wznosi się, a za parę wieków zostaną po nim tylko gruzy.
 
-The two priests moved uneasily.
+Asyryjczyk jest wrzaskliwym samochwalcą, więc w swoich budowlach wszystko wystawia na zewnątrz: kolumny, obrazy i rzeźby. Skromny zaś Egipcjanin najpiękniejsze rzeźby i kolumny kryje wewnątrz świątyń, jak mędrzec, który wzniosłe myśli, uczucia i pragnienia chowa w głębi serca, lecz nie ozdabia nimi swoich piersi i pleców. U nas wszystko, co piękne, jest ukryte, u nich wszystko robi się na pokaz. Asyryjczyk, gdyby mógł, rozciąłby sobie żołądek, ażeby pokazać światu, jakie osobliwe jada potrawy...
 
-"I know," continued the pharaoh, "that according to our sacred laws my
+— Mów... mów dalej!... — wtrącił Ramzes.
 
-decree is not sufficient to open to us the vaults of the labyrinth. But
+— Niewiele zostaje mi do powiedzenia — ciągnął Sem. — Chcę tylko jeszcze zwrócić, panie, twoją uwagę na ogólną formę naszych i asyryjskich gmachów.
 
-the priests there have explained what is needful. I must summon
+Kiedy, będąc przed laty w Niniwie, przyglądałem się hardo wyskakującym nad ziemię asyryjskim wieżom, zdawało mi się, że to rozhukane konie, które zerwawszy wędzidła, stają dęba, ale — wnet upadną, jeżeli jeszcze nóg sobie nie połamią.
 
-representatives of all orders in Egypt, thirteen men from each order,
+Tymczasem spróbuj, wasza świątobliwość, spojrzeć z jakiego wzniesionego punktu na egipską świątynię. Co ona przypomina?... Oto — człowieka, który modli się, leżąc na ziemi.
 
-and obtain a confirmation of my will from them."
+Dwa pylony to dwie dłonie wzniesione ku niebu. Dwa mury opasujące dziedziniec — to ramiona. Sala „kolumn, czyli niebiańska” — to głowa; komnaty: „boskiego objawienia” i „stołów ofiarnych” — to piersi, a „tajemny przybytek boga” — to serce pobożnego Egipcjanina.
 
-The pharaoh smiled at this point, and finished,
+Nasza świątynia uczy nas, jakimi być powinniśmy.
 
-"Today I have called you to help me to summon that assembly of the
+„Miej dłonie potężne jak pylony — mówi do nas — a ramiona silne jak mury. Miej w głowie rozum tak obszerny i bogaty jak przysionek świątyni, duszę czystą jak komnaty »objawienia« i »ofiar«, a w sercu miej boga — o Egipcjaninie!...”
 
-orders, and this is my command to you:
+Zaś asyryjskie gmachy przemawiają do swego ludu:
 
-"Thou, worthy Sem, wilt select for me thirteen priests and thirteen
+„Wspinaj się nad ludzi, Asyryjczyku, zadzieraj głowę wyżej niż inni!... Nie zdziałasz nic wielkiego na świecie, ale przynajmniej zostawisz wiele gruzów...”
 
-nomarchs. Thou, pious Pentuer, will bring to me from various provinces
+Miałżebyś, panie, odwagę — zakończył arcykapłan — wznosić u nas budowle asyryjskie, naśladować naród, którym Egipt brzydzi się i pogardza?...
 
-thirteen land-tillers and thirteen artisans. Tutmosis will bring
+Ramzes zamyślił się. Pomimo wykładu Sema i teraz sądził, że jednak pałace asyryjskie są piękniejsze od egipskich. Ale tak nienawidził Asyryjczyków, że jego serce poczęło się chwiać.
 
-thirteen officers and thirteen nobles; and Prince Hiram will occupy
+— W takim razie — odparł — zaczekam z budową świątyni i mego grobu. Wy zaś, mędrcy, którzy jesteście mi życzliwi, obmyślcie plany takich gmachów, które by imię moje przekazały najdalszym pokoleniom.
 
-himself in bringing thirteen merchants. I wish that this assembly
-
-should meet at the very earliest in my palace in Memphis and, without
-
-losing time in vain talk, recognize that the labyrinth is to furnish
-
-means to my treasury."
-
-"I make bold to remind thee, holiness," said Sem, "that at that
-
-assembly the worthy Herhor and the worthy Mefres must be present, and
-
-that, according to law, and even duty, they are to oppose touching the
-
-treasure in the labyrinth."
-
-"Of course I agree to that," replied the pharaoh promptly. "They will
-
-give their reasons, I mine; the assembly will judge whether a state can
-
-exist without money, and whether it is wise to waste treasure in
-
-darkness while the state is threatened with indigence."
-
-"A few sapphires of those which are in the labyrinth would suffice to
-
-pay all debts to Phoenicians," said Hiram. "I will go at once among the
-
-merchants and find not thirteen but thirteen thousand who will vote at
-
-thy command, O holiness."
-
-Then the prince fell on his face and took farewell of the sovereign.
-
-When Hiram went out, the high priest said,
-
-"I know not whether it was well to have a foreigner at this
-
-consultation."
-
-"I needed him here; for not only has he great influence over our
-
-merchants, but, what is more important, he is obtaining money for us at
-
-present. I wish to convince the man that I remember what is due to him,
-
-and have means to pay it."
-
-Silence followed, which Pentuer made use of, and said,
-
-"If Thou permit, O holiness, I will go at once to occupy myself with
-
-assembling land-tillers and artisans. They will all vote with our lord,
-
-but from the multitude we must select the wisest."
-
-He took leave of the pharaoh and went out.
-
-"But thou, Tutmosis," inquired Ramses.
-
-"My lord," said the favorite, "I am so certain of thy nobility and army
-
-that I make bold to turn to thee with a request for myself."
-
-"Thou wishest money?"
-
-"Not at all. I wish to marry."
-
-"Thou!" exclaimed the pharaoh. "What woman has earned from the gods
-
-such a happiness?"
-
-"She is the beautiful Hebron, the daughter of Antefa, the most worthy
-
-nomarch of Thebes," replied Tutmosis, laughing. "If Thou wilt be
-
-pleased to speak on my behalf to that revered family I had thought to
-
-say that my love for thee would be increased, but I will not say so,
-
-for I should tell untruth."
-
-"Well, well," said the pharaoh, slapping him on the shoulder, "do not
-
-persuade me of that which I know. I will go to Antefa to-morrow and it
-
-seems to me that in the course of a few days I shall arrange a wedding.
-
-But now Thou mayst go to thy Hebron."
-
-Left with Sem alone, his holiness said,
-
-"Thy face is gloomy. Dost Thou doubt that we may find thirteen priests
-
-to carry out my orders?"
-
-"I am certain," replied Sem, "that almost all the priests and nomarchs
-
-will do what may be needed for the happiness of Egypt and thy
-
-satisfaction, holiness. But be pleased not to forgot that when it is a
-
-question of the treasure of the labyrinth the final decision will be
-
-given to Amon."
-
-"Is that the statue of Amon in Thebes?"
-
-"It is."
-
-The pharaoh waved his hand contemptuously,
-
-"Amon is Herhor and Mefres. That they will not agree I know; but I have
-
-no intention of sacrificing Egypt to the stubbornness of two persons."
-
-"Thou art mistaken, holiness," answered Sem with dignity. "It is true
-
-that very often statues of gods do what high priests wish, but not
-
-always. In our temples mysterious and uncommon things happen sometimes.
-
-At moments the statues of the gods say and do what they themselves
-
-wish."
-
-"In that case I am at rest," interrupted the pharaoh. "The gods know
-
-the condition of the state, and they read my heart. I wish Egypt to be
-
-happy. And as I am striving to that end alone no wise and good god can
-
-hinder me."
-
-"May thy words, holiness, be verified," whispered the high priest.
-
-"Dost Thou wish to tell me anything more?" asked Ramses, noticing that
-
-his substitute in religion was delaying his departure.
-
-"Yes, lord. It is my duty to remind thee that every pharaoh after
-
-reaching power and burying his predecessor must think of two buildings:
-
-a tomb for himself and a temple for the gods."
-
-"Just so! I have thought more than once of this, but not having money I
-
-do not issue orders. For Thou must understand," added he with
-
-animation, "that if I build it will be something great, something which
-
-will command Egypt not to forget me quickly."
-
-"Then dost Thou wish to have a pyramid?"
-
-"No. I could not, of course, build a greater pyramid than that of
-
-Cheops, nor a greater temple than that of Amon in Thebes. My kingdom is
-
-too weak to accomplish great works. I must make something entirely new,
-
-therefore, for I tell thee that our buildings weary me. They are all
-
-alike, just as men are, and differ from one another only in
-
-proportions, as a man is bigger than a child."
-
-"Then what?" asked the high priest, opening his eyes widely.
-
-"I have spoken with the Greek Dion, who is the most famous architect
-
-among us, and he praised my plan. For my own tomb I wish to build a
-
-round tower with internal stairs, like that in Babylon. I shall build a
-
-temple, not to Osiris or Isis, but to the One God in whom all believe:
-
-the Egyptians, the Chaldeans, the Phoenicians, and the Jews. I wish
-
-that temple to be like the palace of King Assar, the model of which
-
-Sargon brought to my father."
-
-"Those are great plans," said the high priest, shaking his head, "but
-
-it is impossible to execute them. The Babylonian towers are not lasting
-
-because of their form, they overturn easily, while our edifices must
-
-endure for ages. A temple to the One God we may not raise, for he needs
-
-no food, drink, or raiment. The whole world is his dwelling-place.
-
-Where, then, is the temple which could hold him? Where is the priest
-
-who would dare to make offerings before him?"
-
-"Well, let us build a residence for Amon-Ra," said the pharaoh.
-
-"Yes, if it is not like the palace of King Assar, for that is an
-
-Assyrian building, and it is not proper for us Egyptians to imitate
-
-barbarians."
-
-"I do not understand thee," interrupted Ramses, with irritation.
-
-"Listen to me, lord," answered Sem. "Look at snails, each one of them
-
-has a different shell: one is winding, but blunt; another is winding,
-
-but pointed; a third is like a box. In the same way precisely each'
-
-people build edifices according to their blood and disposition. Be
-
-pleased also to remember that Egyptian edifices differ as much from
-
-those of Assyria as the Egyptian people differ from Assyrians. Among us
-
-the fundamental form of every building is a pointless pyramid, the most
-
-enduring form, as Egypt is the most enduring among kingdoms. With
-
-Assyrians the fundamental form is a cube, which is injured easily and
-
-is subject to destruction.
-
-"The proud and frivolous Assyrian puts his cubes one upon another, and
-
-rears a many-storied structure under which foundations yield. The
-
-obedient and prudent Egyptian puts his truncated pyramids one behind
-
-the other. In that way nothing hangs in the air, but every part of the
-
-structure is resting on the ground. From this it comes that our
-
-buildings are broad and endure forever, while those of the Assyrians
-
-are tall and weak, like their state, which at first rises quickly, but
-
-in a couple of generations there is nothing left of it but ruins.
-
-"The Assyrian is a noisy self-praiser, so in his buildings everything
-
-is put on the outside: columns, sculpture, pictures. While the modest
-
-Egyptian hides the most beautiful columns and carving inside the
-
-temples like a sage who conceals in his heart lofty thoughts, desires,
-
-and feelings he does not ornament his shoulders and breast with them.
-
-Among us everything beautiful is hidden; among them, everything is made
-
-to show. The Assyrian, if he could, would cut open his stomach to
-
-exhibit to the world what peculiar foods he is digesting."
-
-"Speak speak on!" said Ramses.
-
-"Not much remains for me to say," continued Sem. "I only wish, lord, to
-
-turn thy attention to the general form of our edifices, and those of
-
-the Assyrians. When I was in Nineveh a few years ago, I observed the
-
-Assyrian buildings towering above the earth haughtily; it seemed to me
-
-that they were raging horses which had broken from the bit and reared
-
-on their haunches, but would soon fall and perhaps break their legs in
-
-addition.
-
-"Now try, holiness, to look from a lofty point on some Egyptian temple.
-
-What does it recall to thee? This a man prostrate on the earth and
-
-praying. The two pylons are his arms. The hall 'of columns,' or 'the
-
-heavenly chamber,' is his head, the chamber of 'divine apparition' and
-
-'the tables of offering' are his breasts, and the secret retreat of the
-
-god is the heart of the pious Egyptian. Our temple teaches us what we
-
-should be. 'Have a hand as strong as a pylon,' it says to us, 'and arms
-
-as powerful as walls. Have in thy head reason as broad and rich as the
-
-forecourt of the temple, a soul as pure as the chamber of "apparition"
-
-and of "offering," and in thy heart have God, O Egyptian!' But the
-
-Assyrian buildings say to that people: 'Tower above nations, O
-
-Assyrian; rear thy head beyond every other! Thou wilt do nothing great
-
-here on earth, but at least Thou wilt leave many ruins.'
-
-"Wouldst thou, then, O sovereign, venture to rear in our land Assyrian
-
-edifices and imitate a people which Egypt contemns and despises?"
-
-In spite of Sem's explanation, even now Ramses judged that the Assyrian
-
-palaces surpassed those of Egypt in beauty. But he so hated the
-
-Assyrians that his heart began to hesitate.
-
-"In that case," said he, "I will defer the building of my tomb and the
-
-temple. But do ye sages who are kindly disposed toward me, think over
-
-plans of edifices which would give my name to the remotest
-
-generations."
-
-"A superhuman pride fills the soul of this young man!" thought the high
-
-priest, and he took farewell of the pharaoh in sadness.
+„Nieludzka duma wypełnia duszę tego młodzieńca!...” — rzekł do siebie arcykapłan i smutny pożegnał faraona.

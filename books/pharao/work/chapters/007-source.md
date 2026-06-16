@@ -1,385 +1,164 @@
-# Kapitel 7: CHAPTER VII
+# Kapitel 007: Tom I - Rozdział VII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part11.xhtml*
 
 <!-- status: pending -->
 
-Some days later Prince Ramses was summoned before the face of his most
+W kilka dni później książę Ramzes został wezwany przed oblicze najczcigodniejszej matki swojej, Nikotris, która była drugą żoną faraona, ale dziś największą panią w Egipcie.
 
-worthy mother, Nikotris, who was the second wife of the pharaoh, but
+Bogowie nie omylili się, powołując ją na rodzicielkę króla. Była to osoba wysoka, dość pełna i pomimo czterdziestu lat, jeszcze piękna. Nade wszystko w oczach, twarzy i całej postaci jej był taki majestat, że nawet gdy szła samotna, w skromnej szacie kapłanki, ludzie schylali przed nią głowy.
 
-now the greatest lady in Egypt. The gods were not mistaken when they
+Dostojna pani przyjęła syna w gabinecie wyłożonym fajansowymi płytami. Siedziała na inkrustowanym krześle, pod palmą. U jej nóg, na stołeczku, leżał mały piesek; z drugiej strony klęczała czarna niewolnica z wachlarzem. Królewska małżonka miała na sobie muślinowy płaszcz, haftowany złotem, a na peruce obrączkę ozdobioną klejnotami w formie lotosu.
 
-called her to be the mother of a pharaoh. She was a tall person, of
+Kiedy książę nisko ukłonił się, piesek obwąchał go i znowu położył się, a pani skinąwszy głową zapytała:
 
-rather full habit, and in spite of forty years was still beautiful.
+— Z jakiegoż to powodu, Ramzesie, żądałeś ode mnie posłuchania?
 
-There was in her eyes, face, and whole form such majesty that even when
+— Jeszcze przed dwoma dniami, matko.
 
-she went unattended, in the modest garb of a priestess, people bowed
+— Wiedziałam, że jesteś zajęty. Ale dziś oboje mamy czas, i mogę cię wysłuchać.
 
-their heads to her.
+— Tak mówisz do mnie, matko, jakby owionął mnie nocny wiatr pustyni, i już nie mam odwagi przedstawić ci mojej prośby.
 
-The worthy lady received Ramses in her cabinet, which was paved with
+— Więc zapewne chodzi o pieniądze?
 
-porcelain tiles. She sat on an inlaid armchair under a palm-tree. At
+Ramzes zmieszany spuścił głowę.
 
-her feet, on a small stool, lay a little dog; on the other side knelt a
+— Dużo ci też potrzeba?
 
-black slave woman with a fan. The pharaoh's wife wore a muslin robe
+— Piętnaście talentów...
 
-embroidered with gold, and on her wig a circlet in the form of a lotus,
+— O bogowie! — zawołała pani — wszak parę dni temu wypłacono ci dziesięć talentów ze skarbu. Przejdź się, moja dziewczynko, po ogrodzie, musisz być zmęczona — rzekła monarchini do czarnej niewolnicy. Gdy zaś zostali oboje z synem, zapytała księcia:
 
-ornamented with jewels.
+— Więc twoja Żydówka jest aż tak wymagająca?
 
-When the prince had bowed low, the little dog sniffed him, then lay
+Ramzes zarumienił się, ale podniósł głowę.
 
-down again; while the lady, nodding her head, made inquiry, "For what
+— Wiesz, matko, że tak nie jest — odparł. — Ale obiecałem nagrodę wojsku i... nie mogę jej wypłacić!...
 
-reason, O Ramses, hast Thou desired an interview?"
+Królowa przypatrywała mu się ze spokojną dumą.
 
-"Two days ago, mother."
+— Jak to niedobrze — odezwała się po chwili — kiedy syn robi postanowienia, nie naradziwszy się z matką. Właśnie, pamiętając o twoim wieku, chciałam ci dać niewolnicę fenicką, którą przysłał mi Tyr, z dziesięcioma talentami posagu. Ale ty wolałeś Żydówkę.
 
-"I knew that Thou wert occupied. But today we both have time, and I can
+— Podobała mi się. Tak pięknej nie ma między twymi służebnicami, matko, ani nawet między kobietami jego świątobliwości...
 
-listen."
+— Ależ to Żydówka!...
 
-"Thy speech, mother, acts on me as a strong wind of the desert, and I
+— Nie uprzedzaj się, matko, błagam cię... To jest fałsz, że Żydzi jedzą wieprzowinę i zabijają koty...
 
-have no longer courage to present my petition."
+Dostojna pani uśmiechnęła się.
 
-"Then surely it is a question of money."
+— Mówisz jak chłopiec z najniższej szkoły kapłańskiej — odparła, wzruszając ramionami — a zapominasz o tym, co powiedział Ramzes Wielki: „Lud żółty jest liczniejszym i bogatszym od nas; działajmyż przeciw niemu, lecz ostrożnie, aby nie stał się jeszcze silniejszym...” Nie sądzę więc, ażeby dziewczyna z tego ludu była właściwa na pierwszą kochankę następcy faraona.
 
-Ramses dropped his head; he was confused.
+— Czyliż słowa Ramzesa mogą odnosić się do córki nędznego dzierżawcy!... — zawołał książę. — Gdzie wreszcie są ci Żydzi u nas?... Trzy wieki temu jak opuścili Egipt, a dzisiaj tworzą śmieszne państwo, rządzone przez kapłanów...
 
-"But dost Thou need much money?"
+— Widzę — odpowiedziała dostojna pani, z lekka marszcząc brwi — że twoja kochanka nie traci czasu... Bądź ostrożny, Ramzesie!... Pamiętaj, że wódz ich, Messu, jest to kapłan zdrajca, którego w naszych świątyniach po dziś dzień przeklinają... Pamiętaj, że Żydzi wynieśli więcej skarbów z Egiptu, aniżeli była warta praca ich kilku pokoleń: zabrali nam nie tylko złoto, ale i wiarę w Jedynego i nasze święte prawa, które dziś ogłaszają za własne. Nareszcie wiedz o tym — dodała z mocą — że córki tego ludu wolą śmierć aniżeli łoże obcego człowieka. A jeżeli oddają się, nawet nieprzyjacielskim wodzom, to chyba w tym celu, ażeby albo zjednać ich dla swojej polityki, albo zabić...
 
-"Fifteen talents."
+— Wierz mi, matko, że wszystkie te wieści rozgłaszają kapłani. Nie chcą oni dopuścić do podnóżka tronu ludzi innej wiary, którzy mogliby służyć faraonowi przeciw nim...
 
-"O gods!" cried the lady, "but a couple of days ago ten talents were
+Monarchini podniosła się z krzesła i założywszy ręce na piersiach, ze zdumieniem przypatrywała się synowi.
 
-paid thee from the treasury. Go, girl, into the garden; Thou must be
+— Więc to prawda, co mi mówiono, że jesteś wrogiem kapłanów — rzekła. — Ty, ich ukochany uczeń?...
 
-tired," said she to the black slave; and when alone with her son she
+— Jeszcze muszę mieć ślady ich kijów na plecach!... — odparł książę.
 
-asked,
+— Ależ twój dziad, a mój ojciec, mieszkający z bogami, Amenhotep, był arcykapłanem i posiadał rozległą władzę w kraju.
 
-"But is thy Jewess so demanding?"
+— Właśnie dlatego, że mój dziad był władcą i ojciec jest nim, ja nie mogę znieść władzy Herhora...
 
-Ramses blushed, but raised his head.
+— Na to stanowisko wprowadził go twój dziad, święty Amenhotep...
 
-"Thou knowest, mother, that she is not. But I promised a reward to the
+— A ja go strącę.
 
-army, and I am unable to pay it."
+Matka wzruszyła ramionami.
 
-The queen looked at him with calm loftiness.
+— I to ty — odezwała się ze smutkiem — chcesz dowodzić korpusem?... Ależ ty jesteś rozpieszczona dziewczyna, nie mąż i wódz...
 
-"How evil it is," said she, after a while, "when a son makes decisions
+— Jak to?... — przerwał książę, z trudnością powstrzymując się od wybuchu.
 
-without consulting his mother. Just now I, remembering thy age, wished
+— Nie poznaję syna mego... Nie widzę w tobie przyszłego pana Egiptu!... Dynastia w twojej osobie będzie jak nilowe czółno bez steru... Wypędzisz z dworu kapłanów, a któż ci zostanie?... Kto będzie twoim okiem w Dolnym i Górnym kraju, kto za granicą?... A przecież faraon musi widzieć wszystko, na cokolwiek pada boski promień Ozyrysa...
 
-to give thee a Phoenician slave maiden sent me by Tyre with ten talents
+— Kapłani będą moimi sługami, nie ministrami...
 
-for dowry. But Thou hast preferred a Jewess."
+— Oni też są najwierniejszymi sługami. Dzięki ich modłom ojciec twój panuje trzydzieści trzy lat i unika wojen, które mogłyby być zgubnymi...
 
-"She pleased me. There is not such a beauty among thy serving maidens,
+— Dla kapłanów.
 
-mother, nor even among the wives of his holiness."
+— Dla faraona, dla państwa!... — przerwała. — Czy ty wiesz, co się dzieje z naszym skarbem, z którego w jednym dniu bierzesz dziesięć talentów, a żądasz jeszcze piętnastu?... Czy wiesz, że gdyby nie ofiarność kapłanów, którzy dla skarbu nawet bogom zabierają prawdziwe klejnoty, a podsuwają sztuczne, czy wiesz, że dobra królewskie byłyby już w rękach Fenicjan?...
 
-"But she is a Jewess!"
+— Jedna szczęśliwa wojna zaleje nasze kasy jak przybór Nilu nasze pola.
 
-"Be not prejudiced, mother, I beg of thee. It is untrue that Jews eat
+Wielka pani roześmiała się.
 
-pork and kill cats."
+— Nie — rzekła — ty, Ramzesie, jesteś jeszcze takim dzieckiem, że nawet nie można poczytywać za grzech twoich słów bezbożnych. Proszę cię, zajmij się greckimi pułkami i jak najprędzej pozbądź się żydowskiej dziewczyny, a politykę zostaw... nam...
 
-The worthy lady laughed.
+— Dlaczego mam pozbyć się Sary?
 
-"Thou art speaking like some boy from a primary school," answered she,
+— Bo gdybyś miał z nią syna, mogłyby powstać zawikłania w państwie, które i tak ma dość kłopotów. Na kapłanów — dodała pani — możesz gniewać się, byleś ich publicznie nie obrażał. Oni wiedzą, że trzeba wiele wybaczyć następcy tronu, osobliwie jeżeli ma tak burzliwy charakter. Ale czas uspokoi wszystko, na chwałę dynastii i pożytek państwu.
 
-shrugging her shoulders, "and hast forgotten the words of Ramses the
+Książę rozmyślał. Nagle odezwał się.
 
-Great: 'The yellow people are more numerous than we and they are
+— Więc nie mogę rachować na pieniądze ze skarbu?
 
-richer; let us act against them, lest they grow too powerful, but let
+— W żadnym razie. Wielki pisarz już dziś musiałby wstrzymać wypłaty, gdybym mu nie dała czterdziestu talentów, które mi Tyr przysłał.
 
-us act carefully.' I do not think, therefore, that a girl of that
+— I co ja zrobię z wojskiem!... — mówił książę, niecierpliwie trąc czoło.
 
-people is the one to be first mistress of the heir to the throne."
+— Oddal Żydówkę i poproś kapłanów... Może ci pożyczą.
 
-"Can the words of Ramses the Great apply to the daughter of a poor
+— Nigdy!... Wolę wziąć od Fenicjan.
 
-tenant?" asked the prince. "Besides, where are the Jews? Three
+Pani wstrząsnęła głową.
 
-centuries ago they left Egypt, and today they form a little state,
+— Jesteś erpatrem, rób, jak chcesz... Ale ostrzegam cię, że musisz dać duży zastaw, a Fenicjanin, gdy raz stanie się twoim wierzycielem, już cię nie puści. Oni są podstępniejsi od Żydów.
 
-ridiculous and priest-governed."
+— Na pokrycie takich długów wystarczy cząstka mego dochodu.
 
-"I see," answered the worthy lady, frowning slightly, "that thy
+— Zobaczymy. Szczerze chciałabym ci pomóc, ale nie mam... — mówiła pani, ze smutkiem rozkładając ręce. — Czyń więc, jak ci wypada, ale pamiętaj, że Fenicjanie w naszych majątkach są jak szczury w spichlerzach: gdy jeden wciśnie się przez szczelinę, inni przyjdą za nim.
 
-mistress is not losing time. Be careful, Ramses; remember, that their
+Ramzes ociągał się z wyjściem.
 
-leader was Messu (Moses), that traitor priest whom we curse to this day
+— Czy jeszcze powiesz mi co? — zapytała.
 
-in our temples. Remember that the Jews bore away out of Egypt more
+— Chciałbym tylko zapytać... Moje serce domyśla się, że ty, matko, masz jakieś plany względem mnie. Jakie?...
 
-treasures than the labor of their few generations was worth to us; they
+Monarchini pogłaskała go po twarzy.
 
-took with them not only gold, but the faith in one god, and our sacred
+— Jeszcze nie teraz, jeszcze nie teraz!... Dziś jesteś swobodnym jak każdy młody szlachcic w tym kraju, więc korzystaj... Ale, Ramzesie, przyjdzie czas, że będziesz musiał pojąć małżonkę, której dzieci będą książętami krwi królewskiej, a syn twoim następcą. O tych czasach ja myślę...
 
-laws, which they give out today as their own faith and laws. Last of
+— I co?...
 
-all, know this," added she, with great emphasis, "that the daughters of
+— Jeszcze nic określonego. W każdym razie mądrość polityczna mówi mi, że twoją małżonką powinna być córka kapłana...
 
-that people prefer death to the bed of a foreigner. And if they give
+— Może Herhora?... — zawołał książę ze śmiechem.
 
-themselves even to hostile leaders, it is to use them for their policy
+— Cóż by w tym było nagannego? Herhor bardzo prędko zostanie arcykapłanem w Tebach, a jego córka ma dopiero lat czternaście.
 
-or to kill them."
+— I zgodziłaby się zająć przy mnie miejsce Żydówki?... — z ironią zapytał Ramzes.
 
-"Believe me, mother, that it is our priests who spread all these
+— Musiałbyś się postarać, ażeby ci zapomniano dzisiejszy błąd.
 
-reports.  They will not admit to the footstool of the throne people of
+— Całuję stopy twoje, matko, i odchodzę — rzekł Ramzes, chwytając się za głowę. — Tyle tu słyszałem dziwnych rzeczy, że zaczynam się bać, ażeby Nil nie popłynął w stronę katarakt albo piramidy nie przeszły na pustynię wschodnią.
 
-another faith lest those people might serve the pharaoh in opposition
+— Nie bluźnij, dziecko moje — szepnęła pani, z trwogą patrząc na syna. — W tym kraju widywano dziwniejsze cuda...
 
-to their order."
+— Czy nie te — spytał z gorzkim uśmiechem syn — że ściany królewskiego pałacu podsłuchiwały swoich panów?
 
-The queen rose from the armchair, and crossing her arms on her breast,
+— Widywano śmierć faraonów po kilkumiesięcznym panowaniu i upadki dynastii, które rządziły dziewięcioma narodami.
 
-gazed at her son with amazement.
+— Bo ci faraonowie dla kadzielnicy zapomnieli o mieczu — odparł książę.
 
-"What they tell me is true then, Thou art an enemy of our priests.
+Ukłonił się i wyszedł.
 
-Thou, their favorite pupil!"
+W miarę jak kroki następcy cichły w ogromnym przysionku, twarz dostojnej pani mieniła się: miejsce majestatu zająła boleść i trwoga, a w wielkich oczach błysnęły łzy.
 
-"I must have the traces of their canes to this day on my shoulders,"
+Pobiegła przed posąg bogini, uklękła i nasypawszy indyjskiego kadzidła na węgle zaczęła mówić:
 
-said Ramses.
+— O Izis — Izis — Izis — po trzykroć wymawiam imię twoje. O Izis, która rodzisz węże, krokodyle i strusie, po trzykroć niech będzie pochwalone imię twoje... O Izis, która chronisz ziarna zbożowe od zabójczych wichrów, a ciała ojców naszych od niszczącej pracy czasu, o Izis, ulituj się i chroń mojego syna... Po trzykroć niech będzie wymawiane imię twoje i tu... i tam... i tam... I dziś, i zawsze, i na wieki wieków, dopóki świątynie naszych bogów będą przeglądały się w wodzie Nilu.
 
-"But thy grandfather and my father, Amenhotep, was a high priest, and
+Modląc się tak i łkając, monarchini pochyliła się i dotknęła czołem ziemi. A w tej chwili rozległ się nad nią cichy szept:
 
-possessed extensive power in this country."
+— Głos sprawiedliwego zawsze jest wysłuchany.
 
-"Just because my grandfather was a pharaoh, and my father is a pharaoh
-
-also, I cannot endure the rule of Herhor."
-
-"He was brought to his position by thy grandfather, the holy
-
-Amenhotep."
-
-"And I will cast him down from it."
-
-The mother shrugged her shoulders.
-
-"And it is thou," answered she, with sadness, "who wishest to lead a
-
-corps? But Thou art a spoiled girl, not a man and a leader."
-
-"How is that?" interrupted the prince, restraining himself with
-
-difficulty from an outburst.
-
-"I cannot recognize my own son. I do not see in thee the future lord of
-
-Egypt. The dynasty in thy person will be like a Nile boat without a
-
-rudder. Thou wilt drive the priests from the court, but who will remain
-
-with thee? Who will be thy eye in the Lower and the Upper Country, who
-
-in foreign lands? But the pharaoh must see everything, whatever it be,
-
-on which fall the divine rays of Osiris."
-
-"The priests will be my servants, not my ministers."
-
-"They are the most faithful servants. Thanks to their prayers thy
-
-father reigns thirty-three years, and avoids war which might be fatal."
-
-"To the priests?"
-
-"To the pharaoh and the state!" interrupted the lady. "Knowest Thou
-
-what takes place in our treasury, from which in one day Thou takest ten
-
-talents and desirest fifteen more? Knowest Thou that were it not for
-
-the liberality of the priests, who on behalf of the treasury even take
-
-real jewels from the gods and put false ones in their places, the
-
-property of the pharaoh would be now in the hands of Phoenicians?"
-
-"One fortunate war would overflow our treasury as the increase of the
-
-Nile does our fields."
-
-"No. Thou, Ramses, art such a child yet that we may not even reckon thy
-
-godless words as sinful. Occupy thyself, I beg, with thy Greek
-
-regiments, get rid of the Jew girl as quickly as may be, and leave
-
-politics to us."
-
-"Why must I put away Sarah?"
-
-"Shouldst Thou have a son from her, complications might rise in the
-
-State, which is troubled enough as matters now are. Thou mayst be angry
-
-with the priests," added she, "if Thou wilt not offend them in public.
-
-They know that it is necessary to overlook much in an heir to the
-
-throne, especially when he has such a stormy character. But time
-
-pacifies everything to the glory of the dynasty and the profit of
-
-Egypt."
-
-The prince meditated; then he said suddenly,
-
-"I cannot count, therefore, on money from the treasury."
-
-"Thou canst not in any case. The grand secretary would have been forced
-
-to stop payment today had I not given him fourteen talents sent from
-
-Tyre to me."
-
-"And what shall I do with the army?" asked the prince, rubbing his
-
-forehead impatiently.
-
-"Put away the Jewess, and beg the priests. Perhaps they will make a
-
-loan to thee."
-
-"Never! I prefer a loan from Phoenicians."
-
-The lady shook her head.
-
-"Thou art erpatr, act as may please thee. But I say that Thou must give
-
-great security, and the Phoenicians, when once thy creditors, will not
-
-let thee go. They surpass the Jews in treachery."
-
-"A part of my income will suffice to cover such debts."
-
-"We shall see. I wish sincerely to help thee, but I have not the
-
-means," said the lady, sadly. "Do, then, as Thou art able, but remember
-
-that the Phoenicians in our state are like rats in a granary; when one
-
-pushes in through a crevice, others follow."
-
-Ramses loitered in leave-taking.
-
-"Hast Thou something more to tell me?" inquired the queen.
-
-"I should like to ask My heart divines that thou, mother, hast some
-
-plans regarding me. What are they?"
-
-She stroked his face.
-
-"Not now not yet. Thou art free today, like every young noble in the
-
-country; then make use of thy freedom. But, Ramses, the time is coming
-
-when Thou wilt have to take a wife whose children will be princes of
-
-the blood royal and whose son will be thy heir. I am thinking of that
-
-time."
-
-"And what?"
-
-"Nothing defined yet. In every case political wisdom suggests to me
-
-that thy wife should be a priest's daughter."
-
-"Perhaps Herhor's?" said the prince, with a laugh.
-
-"What would there be blamable in that? Herhor will be high priest in
-
-Thebes very soon, and his daughter is only fourteen years of age."
-
-"And would she consent to occupy the place of the Jewess?" asked
-
-Ramses, ironically.
-
-"Thou shouldst try to have people forget thy present error."
-
-"I kiss thy feet, mother, and I go," said the prince, seizing his own
-
-head. "I hear so many marvelous things here that I begin to fear lest
-
-the Nile may flow up toward the cataract, or the pyramids pass over to
-
-the eastern desert."
-
-"Blaspheme not, my child," whispered the lady, gazing with fear at
-
-Ramses. "In this land most wonderful miracles are seen."
-
-"Are not they this, that the walls of the palace listen to their
-
-owners?" asked her son, with a bitter smile.
-
-"Men have witnessed the death of pharaohs who had reigned a few months
-
-only, and the fall of dynasties which had governed nine nations."
-
-"Yes, for those pharaohs forgot the sword for the distaff," retorted
-
-Ramses.
-
-He bowed and went out.
-
-In proportion as the sound of Ramses' steps grew less in the immense
-
-antechamber, the face of the worthy lady changed; the place of majesty
-
-was taken by pain and fear, while tears were glistening in her great
-
-eyes.
-
-She ran to the statue of the goddess, knelt, and sprinkling incense
-
-from India on the coals, began to pray,
-
-"O Isis, Isis, Isis! three times do I pronounce thy name. O Isis, who
-
-givest birth to serpents, crocodiles, and ostriches, may thy name be
-
-thrice praised. O Isis, who preservest grains of wheat from robber
-
-whirlwinds, and the bodies of our fathers from the destructive toil of
-
-time, Isis, take pity on my son and preserve him! Thrice be thy name
-
-repeated and here and there and beyond, today and forever, and for the
-
-ages of ages, as long as the temples of our gods shall gaze on
-
-themselves in the waters of the Nile."
-
-Thus praying and sobbing, the queen bowed down and touched the pavement
-
-with her forehead. Above her at that moment a low whisper was audible,
-
-"The voice of the just is heard always."
-
-The worthy lady sprang up, and full of astonishment looked around. But
-
-there was no one in the chamber. Only the painted flowers gazed at her
-
-from the walls, and from above the altar the statue of the goddess full
-
-of super-terrestrial calm.
+Dostojna pani zerwała się i pełna zdumienia zaczęła oglądać się dokoła. Ale w pokoju nie było nikogo. Tylko ze ścian patrzyły na nią malowane kwiaty, a znad ołtarza posąg bogini, pełen nadziemskiego spokoju.

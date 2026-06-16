@@ -1,691 +1,190 @@
-# Kapitel 19: CHAPTER XIX
+# Kapitel 019: Tom I - Rozdział XIX
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part23.xhtml*
 
 <!-- status: pending -->
 
-THE foreign quarter in Memphis lay on the northeastern extremity of the
+Cudzoziemska dzielnica w Memfisie leżała w północno-wschodnim rogu miasta, blisko Nilu. Liczono tam kilkaset domów i kilkanaście tysięcy mieszkańców: Asyryjczyków, Żydów, Greków, najwięcej Fenicjan.
 
-city near the river. There were several hundred houses in that place
+Był to cyrkuł zamożny. Główną arterię tworzyła ulica szeroka na trzydzieści kroków, dość prosta, wybrukowana płaskimi kamieniami. Po obu stronach wznosiły się domy ceglane, piaskowcowe lub wapienne, wysokie na trzy do pięciu pięter. W piwnicach były składy materiałów surowych, na parterach sklepy, na pierwszych piętrach mieszkania ludzi zamożnych, wyżej warsztaty tkackie, szewckie, jubilerskie, najwyżej — ciasne lokale wyrobników.
 
-and many thousand people, Assyrians, Greeks, Jews, most of all,
+Budynki tej dzielnicy, jak zresztą w całym mieście, były przeważnie białe. Można jednak było widzieć kamienice zielone jak łąka, żółte jak łan pszenicy, niebieskie jak niebo lub czerwone jak krew.
 
-Phoenicians.
+W wielu zaś domach ściany frontowe były ozdobione obrazami przedstawiającymi zajęcia mieszkańców.
 
-That was a wealthy quarter. A street thirty paces in width formed its
+Na domu jubilera długie szeregi rysunków opiewały, że: jego właściciel wyrobione przez siebie łańcuchy i bransolety sprzedawał królom obcych narodów i obudzał ich podziw. Ogromny pałac kupca pokryty był malowidłami opowiadającymi trudy i niebezpieczeństwa życia handlowego. Na morzu chwytają człowieka straszne potwory z rybimi ogonami — w pustyni skrzydlate i ogniem ziejące smoki, a na dalekich wyspach trapią go olbrzymy, których sandał większy bywa od fenickiego okrętu.
 
-leading artery. This street was rather straight, and paved with flat
+Lekarz na ścianie swojej pracowni przedstawiał osoby, które dzięki jego pomocy odzyskiwały utracone ręce i nogi, nawet zęby i młodość. Na budynku zaś, zajętym przez władze administracyjne dzielnicy, widać było — beczkę, do której ludzie rzucali złote pierścienie, pisarza, któremu ktoś szeptał do ucha, i rozciągniętego na ziemi penitenta, któremu dwaj inni ludzie bili skórę.
 
-stones. On both sides were houses of sandstone, brick, or limestone,
+Ulica była pełna. Wzdłuż ścian mieścili się lektykarze, wachlarzownicy, posłańcy i robotnicy, gotowi ofiarować swoją pracę. Środkiem ciągnął się nieprzerwany łańcuch towarów dźwiganych przez tragarzy, osłów lub woły zaprzęgnięte do wozów. Na chodnikach snuli się wrzaskliwi przekupnie świeżej wody, winogron, daktylów, wędzonych ryb, a między nimi kramarze, kwiaciarki, muzykanci i różnego rodzaju sztukmistrze.
 
-varying in height from three to five stories. In the cellars were
+W tym ludzkim potoku, który płynął, roztrącał się, sprzedawał i kupował, krzycząc rozmaitymi głosami, wyróżniali się policjanci. Każdy miał brunatną koszulę do kolan, gołe nogi, fartuszek w niebieskie i czerwone pasy, krótki miecz przy boku i potężny kij w garści. Urzędnik ten spacerował po chodniku, niekiedy porozumiewał się ze swoim kolegą, najczęściej jednak stawał na przydrożnym kamieniu, ażeby lepiej ogarnąć tłum przelewający się u stóp jego.
 
-stores of raw materials; on the ground floors were arched rooms; on the
+Wobec takiej czujności złodzieje uliczni musieli działać bardzo roztropnie. Zwykle dwaj rozpoczynali między sobą bitwę, a gdy zebrał się tłum i policjanci okładali kijami zarówno swarzących się, jak i widzów, inni towarzysze kunsztu — kradli.
 
-first stories dwellings of wealthy people; higher were the workshops of
+Prawie we środku ulicy stał zajazd Fenicjanina z Tyru, Asarhadona, w którym dla łatwiejszej kontroli byli obowiązani mieszkać wszyscy przyjeżdżający spoza granic Egiptu. Był to wielki dom kwadratowy, z każdego boku miał po kilkanaście okien i nie stykał się z innymi, więc można było obchodzić go i podglądać ze wszystkich stron. Nad główną bramą wisiał model okrętu, na frontowej ścianie były obrazy przedstawiające jego świątobliwość Ramzesa XII, jak składa bogom ofiary lub roztacza opiekę nad cudzoziemcami, między którymi Fenicjanie odznaczali się dużym wzrostem i mocno czerwoną barwą.
 
-weavers, tailors, jewelers; highest of all, the crowded dwellings of
+Okna były wąskie, zawsze otwarte i tylko w miarę potrzeby zasłaniane roletami z płótna lub kolorowych pręcików. Mieszkania gospodarza i podróżnych zajmowały trzy piętra, na dole mieściła się winiarnia i restauracja. Marynarze, tragarze, rzemieślnicy i w ogóle ubożsi podróżni jedli i pili w podwórku, które miało mozaikową posadzkę i płócienne dachy rozwieszone na słupkach, ażeby wszystkich gości można było mieć na oku. Zamożniejsi zaś i lepiej urodzeni ucztowali w galerii otaczającej podwórko.
 
-laborers.
+W podwórzu zasiadano na ziemi, przy kamieniach zastępujących miejsce stołów. W galeriach, gdzie było chłodniej, znajdowały się stoliki, ławki i krzesła, nawet niskie z poduszek sofy, na których można było drzemać.
 
-The buildings of this quarter, like those in the whole city, were
+W każdej galerii był wielki stół założony chlebem, mięsiwem, rybami i owocami tudzież kilkugarncowe gliniane stągwie z piwem, winem i wodą. Murzyni i Murzynki roznosili gościom potrawy, usuwali stągwie próżne, dźwigali z piwnic pełne, a czuwający nad stołami pisarze skrupulatnie zapisywali każdy kawałek chleba, każdą główkę czosnku, i kubek wody. Na środku podwórza, na wzniesieniu, stali dwaj dozorcy z kijami, którzy z jednej strony mieli oko na służbę i pisarzy, z drugiej — przy pomocy kija — łagodzili spory między uboższymi gośćmi różnych narodów. Dzięki temu urządzeniu kradzieże i bitwy trafiały się rzadko; częściej nawet w galeriach aniżeli na podwórku.
 
-mainly white; but one might see stone houses as green as a meadow, as
+Sam gospodarz zajazdu, sławetny Asarhadon, człowiek przeszło pięćdziesięcioletni, szpakowaty, ubrany w długą koszulę i muślinową narzutkę, chodził między gośćmi, aby dojrzeć, czy każdy ma, czego potrzebuje.
 
-yellow as a wheat-field, as blue as the sky. or as red as blood.
+— Jedzcie i pijcie, synowie moi — mówił do greckich marynarzy — bo takiej wieprzowiny i piwa nie ma na całym świecie. Słyszę, pobiła was burza około Rafii?... Powinniście bogom hojną złożyć ofiarę, że was ocalili!... W Memfis przez całe życie można nie widzieć burzy, ale na morzu łatwiej o piorun aniżeli o miedzianego utena... Mam miód, mąkę, kadzidła na święte ofiary, a tam, w kątach, stoją bogowie wszystkich narodów. W moim zajeździe człowiek może być sytym i pobożnym za bardzo małe pieniądze.
 
-The front walls of many houses were ornamented with pictures
+Zawrócił się i wszedł do galerii między kupców.
 
-representing the occupations of people who dwelt in them. On the house
+— Jedzcie i pijcie, czcigodni panowie — zachęcał, kłaniając się. — Czasy są dobre! Najdostojniejszy następca, oby żył wiecznie, jedzie do Pi-Bastu z ogromną świtą, a z Górnego Królestwa przyszedł transport złota, na czym niejeden z was pięknie zarobi. Mamy kuropatwy, młode gąski, ryby prosto z rzeki i doskonałą pieczeń sarnią. A jakie wino przysłali mi z Cypru!... Niech zostanę Żydem, jeżeli kubek tej rozkoszy nie jest wart dwie drachmy!... Ale — wam, ojcom i dobrodziejom moim, oddam dziś po drachmie. Tylko dziś, ażeby zrobić początek.
 
-of a jeweler long rows of pictures announced that its owner sold to
+— Daj po pół drachmy kubek, to skosztujemy — odparł jeden z kupców.
 
-foreign kings chains and bracelets of his own making which roused their
+— Pół drachmy?... — powtórzył restaurator. — Pierwej Nil popłynie ku Tebom, aniżeli ja taką słodycz oddam za pół drachmy. Chyba... dla ciebie, panie Belezis, który jesteś perłą Sydonu... Hej, niewolnicy!... a podajcie dobrodziejom naszym większy dzban cypryjskiego...
 
-amazement. The immense palace of a merchant was covered with pictures
+Gdy odszedł, kupiec nazwany Belezisem rzekł do swoich towarzyszów:
 
-representing the labors and perils of a trafficker: on the sea dreadful
+— Ręka mi uschnie, jeżeli to wino warte pół drachmy. Ale niech go tam!... Będziemy mieli mniej kłopotu z policją.
 
-monsters with fish tails were seizing the man; in the desert winged
+Rozmowa z gośćmi wszelkich narodów i stanów nie przeszkadzała gospodarzowi zważać na pisarzy zapisujących jadło i napitki, na dozorców, którzy pilnowali służbę i pisarzy, a nade wszystko na podróżnego, który, we frontowej galerii usiadłszy z podwiniętymi nogami na poduszkach, drzemał nad garstką daktylów i kubkiem czystej wody. Podróżny ten miał około czterdziestu lat, bujne włosy i brodę kruczej barwy, zadumane oczy i dziwnie szlachetne rysy, których, zdawało się, nigdy gniew nie zmarszczył ani wykrzywiła trwoga.
 
-dragons breathing fire were grasping after him, and on distant islands
+„To niebezpieczny szczur!... — myślał gospodarz, patrząc na niego spod oka. — Ma minę kapłana, a chodzi w ciemnej opończy... Złożył u mnie klejnotów i złota za talent, a nie jada mięsa ani nie pije wina... Musi to być wielki prorok albo wielki złodziej!...”
 
-he was tormented by a giant whose sandals were larger than any ship of
+Na podwórko weszli z ulicy dwaj nadzy psyllowie, czyli poskramiacze wężów, z torbą pełną jadowitego gadu, i zaczęli przedstawienie. Młodszy grał na fujarce, a starszy począł owijać się małymi i dużymi wężami, z których każdy wystarczyłby do rozpędzenia gości z oberży „Pod Okrętem”. Fujarka odzywała się coraz piskliwiej, poskramiacz wyginał się, pienił, drgał konwulsyjnie i ciągle drażnił gady. Wreszcie jeden z wężów ukąsił go w rękę, drugi w twarz, a trzeciego — najmniejszego — zjadł żywcem sam poskramiacz.
 
-the Phoenicians.
+Goście i służba z niepokojem przypatrywali się zabawie poskramiacza. Drżeli, gdy drażnił gady, zamykali oczy, gdy wąż kąsał człowieka. Lecz gdy psyllo zjadł węża — zawyli z radości i podziwu...
 
-A physician on the wall of his office represented persons who, thanks
+Tylko podróżny z frontowej galerii nie opuścił swoich poduszek, nawet nie raczył spojrzeć na zabawę. A gdy poskramiacz zbliżył się po zapłatę, podróżnik rzucił na posadzkę dwa miedziane uteny, dając mu ręką znak, ażeby się nie zbliżał.
 
-to his aid, had recovered lost hands and feet, even teeth and
+Przedstawienie ciągnęło się z pół godziny. Gdy psyllowie opuścili dziedziniec, do gospodarza przybiegł Murzyn obsługujący pokoje gościnne i coś szeptał zafrasowany. Potem, nie wiadomo skąd, ukazał się dziesiętnik policyjny i zaprowadziwszy Asarhadona do odległej framugi długo z nim rozmawiał, a czcigodny właściciel zajazdu bił się w piersi, załamywał ręce albo chwytał się za głowę. Nareszcie kopnął Murzyna w brzuch, kazał podać dziesiętnikowi gęś pieczoną i dzban cypryjskiego, a sam zbliżył się do gościa z frontowej galerii, który wciąż zdawał się drzemać, choć oczy miał otwarte.
 
-youthfulness. On a building occupied by a government administrator of
+— Smutne mam nowiny dla ciebie, zacny panie — rzekł gospodarz, siadając obok podróżnego.
 
-the quarter were to be seen a keg into which people were throwing gold
+— Bogowie zsyłają na ludzi deszcz i smutek, kiedy im się podoba — odparł obojętnie gość.
 
-rings; a scribe into whose ears some one was whispering; an offender,
+— Gdyśmy się tu przypatrywali psyllom — ciągnął gospodarz targając szpakowatą brodę — złodzieje dostali się na drugie piętro i wykradli twoje rzeczy... Trzy worki i skrzynię, zapewne bardzo kosztowną!...
 
-stretched on the ground, whom two other men were beating.
+— Musisz zawiadomić sąd o mojej krzywdzie.
 
-The street was full. Along the walls stood litter-bearers, men with
+— Po co sąd?... — szepnął gospodarz. — U nas złodzieje mają swój cech... Poślemy po starszego, otaksujemy rzeczy, zapłacisz mu dwudziesty procent wartości i wszystko się znajdzie. Ja mogę ci dopomóc.
 
-fans, messengers and laborers, ready to offer their services. In the
+— W moim kraju — rzekł podróżny — nikt nie układa się ze złodziejami, i ja nie będę. Mieszkam u ciebie, tobie powierzyłem mój majątek i ty za niego odpowiadasz.
 
-middle of the street moved an unbroken line of merchants' wares carried
+Czcigodny Asarhadon zaczął drapać się między łopatki.
 
-by men, asses, or oxen attached to vehicles. On the sidewalks pushed
+— Człowieku z dalekiej krainy — mówił zniżonym głosem — wy, Hetyci, i my, Fenicjanie, jesteśmy braćmi, więc szczerze radzę ci nie wdawać się z egipskim sądem, bo on ma tylko jedne drzwi: przez które się wchodzi, ale nie ma tych, przez które się wychodzi.
 
-forward noisy sellers of fresh water, grapes, dates, dried fish, and
+— Bogowie przez mur wyprowadzą niewinnego — odparł gość.
 
-among them hucksters, flower-girls, musicians, and tricksters of
+— Niewinny!... Kto z nas jest niewinny w ziemi niewoli? — szeptał gospodarz. — Oto spojrzyj — tam dojada gęś dziesiętnik z policji; wyborną gąskę, którą sam chętnie zjadłbym. A wiesz, dlaczego oddałem, sobie od ust odjąwszy, ten frykas?... Bo dziesiętnik przyszedł wypytywać się o ciebie...
 
-various descriptions.
+To powiedziawszy, Fenicjanin zezem spojrzał na podróżnego, który jednak ani na chwilę nie utracił spokoju.
 
-In this torrent of people which flowed forward and separated, in which
+— Pyta mnie — ciągnął gospodarz — pyta mnie dziesiętnik: „Co za jeden jest ten czarny, który dwie godziny siedzi nad garstką daktylów?...” Mówię: Bardzo zacny człowiek, pan Phut. — „Skąd on?...” — Z kraju Chetii, z miasta Harranu
 
-men bought and sold, crying out in various tones, policemen were
+A wiesz, zacny panie — prawił restaurator — co mi na to odpowiedział dziesiętnik?... Te słowa: „Asarhadonie, wiem, że jesteś wiernym sługą jego świątobliwości faraona, masz dobre jadło i niefałszowane wina, dlatego mówię ci — strzeż się!... Strzeż się cudzoziemców, którzy nie robią znajomości, unikają wina i wszelkich uciech i milczą. Ten Phut, harrańczyk, może być asyryjskim szpiegiem.”
 
-prominent. Each had a brownish tunic reaching to his knees, bare legs,
+Serce we mnie zamarło, kiedym to usłyszał — ciągnął gospodarz. — Ale ciebie nic nie obchodzi!... — oburzył się widząc, że nawet straszne posądzenie o szpiegostwo nie zamąciło spokoju Chetyjczyka.
 
-an apron with blue and red stripes, a short sword at his side, and a
+— Asarhadonie — rzekł po chwili gość — powierzyłem ci siebie i mój majątek. Pomyśl więc, aby mi oddano wory i skrzynię, gdyż w przeciwnym razie zaskarżę cię do tego samego dziesiętnika, który zjada gęś przeznaczoną dla ciebie.
 
-strong stick in his hand. This official walked along on the sidewalk;
+— No... więc pozwól, abym wypłacił złodziejom tylko piętnaście procent wartości twoich rzeczy — zawołał gospodarz.
 
-sometimes he conversed with a colleague; most frequently, however, he
+— Nie masz prawa płacić.
 
-stood on a stone at the edge of the street, so as to take in more
+— Daj im choć trzydzieści drachm...
 
-accurately the crowd which flowed past in front of him.
+— Ani utena.
 
-In view of such watchfulness street thieves had to do their work
+— Daj biedakom choćby dziesięć drachm...
 
-cleverly. Usually two began to fight, and when a crowd had gathered
+— Idź w pokoju, Asarhadonie, i proś bogów, ażeby ci rozum przywrócili — odparł podróżny, zawsze z tym samym spokojem.
 
-around them and the police clubbed both spectators and quarrelers,
+Gospodarz zerwał się z poduszek, sapiąc z gniewu.
 
-other confederates in the art did the stealing.
+„To gadzina!... — myślał. — On nie tylko po dług przyjechał... On tu jeszcze zrobi jakiś interes... Serce mówi mi, że to musi być bogaty kupiec, a może nawet restaurator, który, do spółki z kapłanami i sędziami, otworzy mi gdzie pod bokiem drugi zajazd... Bodaj cię pierwej spalił ogień niebieski!... bodaj cię trąd stoczył!... Skąpiec, oszust, złodziej, na którym uczciwy człowiek nic nie zarobi...”
 
-About half-way between the two ends of the street stood the inn of
+Jeszcze zacny Asarhadon nie zdążył uspokoić się z gniewu, gdy na ulicy rozległy się odgłosy fletu i bębenka, a po chwili na podwórze wbiegły cztery prawie nagie tancerki. Tragarze i marynarze powitali je okrzykami radości, a nawet poważni kupcy spod galerii zaczęli przyglądać się ciekawie i robić uwagi nad ich pięknością. Tancerki ruchem rąk i uśmiechami powitały obecnych. Jedna zaczęła grać na podwójnym flecie, druga wtórowała jej na bębenku, a dwie najmłodsze tańczyły dokoła podwórka w taki sposób, że prawie nie było gościa, którego by nie zaczepiły ich muślinowe szale.
 
-Asarhadon, a Phoenician from Tyre. In this inn, for easier control, all
+Pijący zaczęli śpiewać, krzyczeć i zapraszać do siebie tancerki, a między pospólstwem wyniknęła zwada, którą jednak dozorcy łatwo uspokoili, podniósłszy do góry swoje trzciny. Tylko jakiś Libijczyk, rozdrażniony widokiem kija, wydobył nóż; ale dwaj Murzyni schwycili go za ręce, zabrali mu kilka miedzianych pierścionków, jako należność za jadło, i wyrzucili go na ulicę. Tymczasem jedna tancerka została z marynarzami, dwie poszły między kupców, którzy ofiarowali im wino i ciastka, a najstarsza zaczęła obchodzić stoły i kwestować.
 
-were forced to dwell who came from beyond the boundaries of Egypt. It
+— Na świątynię boskiej Izydy!... — wołała. — Składajcie, pobożni cudzoziemcy, na świątynię Izydy, bogini, która opiekuje się wszelkim stworzeniem... Im więcej dacie, tym więcej otrzymacie szczęścia i błogosławieństw... Na świątynię matki Izydy!...
 
-was a large quadrangular building which on each side had a number of
+Rzucano jej na bębenek kłębki miedzianego drutu, niekiedy ziarnko złota. Jeden kupiec zapytał: czy można ją odwiedzić? na co z uśmiechem skinęła głową.
 
-tens of windows, and was not connected with other houses; hence men
+Gdy weszła do frontowej galerii, harrańczyk Phut sięgnął do skórzanego worka i wydobył złoty pierścień mówiąc:
 
-could go around the place and watch it from all points. Over the
+— Istar jest bogini wielka i dobra, przyjmij to na jej świątynię.
 
-principal gate hung the model of a ship; on the front wall were
+Kapłanka bystro spojrzała na niego i szepnęła:
 
-pictures representing his holiness Ramses XII placing offerings before
+— Anael, Sachiel...
 
-the gods, or extending his protection to foreigners, among whom the
+— Amabiel, Abalidot — odpowiedział tym samym tonem podróżny.
 
-Phoenicians were distinguished by a sturdy stature and very ruddy
+— Widzę, że kochasz matkę Izydę — rzekła kapłanka głośno. — Musisz być bogaty i jesteś hojny, więc warto ci powróżyć.
 
-faces.
+Usiadła przy nim, zjadła parę daktylów i patrząc na jego dłoń, zaczęła mówić:
 
-The windows were narrow, always open, and only in case of need shaded
+— Przyjeżdżasz z dalekiego kraju od Bretora i Hagita... Podróż miałeś szczęśliwą...
 
-by curtains of linen or by colored slats. The chambers of the innkeeper
+Od kilku dni śledzą cię Fenicjanie — dodała ciszej.
 
-and of travelers occupied three stories; the ground floor was devoted
+Przyjeżdżasz po pieniądze, choć nie jesteś kupcem... Przyjdź do mnie dziś po zachodzie słońca...
 
-to a wine shop and an eating-place. Sailors, carriers, handicraftsmen,
+Żądania twoje — mówiła głośno — powinny się spełnić...
 
-and in general the poorer class of travelers ate and drank in a
+Mieszkam na ulicy Grobów w domu pod „Zieloną Gwiazdą” — szepnęła.
 
-courtyard which had a mosaic pavement and a linen roof resting on
+— Tylko strzeż się złodziei, którzy czyhają na twój majątek — zakończyła, widząc, że zacny Asarhadon podsłuchuje.
 
-columns, so that all guests might be under inspection. The wealthier
+— W moim domu nie ma złodziei!... — wybuchnął gospodarz. — Kradną chyba ci, którzy tu z ulicy przychodzą!...
 
-and better born ate in a gallery which surrounded the courtyard. In the
+— Nie złość się, staruszku — odparła szyderczo kapłanka — bo zaraz występuje ci czerwona pręga na szyi, co oznacza śmierć nieszczęśliwą.
 
-courtyard the men sat on the pavement near stones which were used
+Usłyszawszy to, Asarhadon splunął po trzykroć i cicho odmówił zaklęcie przeciw złym wróżbom. Gdy zaś odsunął się w głąb galerii, kapłanka zaczęła kokietować harrańczyka. Dała mu różę ze swego wieńca, na pożegnanie uścisnęła go i poszła do innych stołów.
 
-instead of tables; in the galleries, which were cooler, there were
+Podróżny skinął na gospodarza.
 
-tables, stools, and armchairs, even low couches, with cushions, on
+— Chcę — rzekł — ażeby ta kobieta była u mnie. Każ ją zaprowadzić do mego pokoju.
 
-which guests might slumber.
+Asarhadon popatrzył mu w oczy, klasnął w ręce i wybuchnął śmiechem.
 
-In each gallery there was a great table on which were bread, meat,
+— Tyfon opętał cię, harrańczyku! — zawołał. — Gdyby coś podobnego stało się w moim domu z egipską kapłanką, wypędziliby mnie z miasta. Tu wolno przyjmować tylko cudzoziemki.
 
-fish, and fruits, also jugs holding several quarts of beer, wine, and
+— W takim razie ja pójdę do niej — odparł Phut. — Albowiem jest to mądra i pobożna niewiasta i poradzi mi w wielu zdarzeniach. Po zachodzie słońca dasz mi przewodnika, ażebym idąc nie zbłąkał się.
 
-water. Negroes, men and women, bore around food to the guests, removed
+— Wszystkie złe duchy wstąpiły do twego serca — odpowiedział gospodarz. — Czy wiesz, że ta znajomość będzie cię kosztowała ze dwieście drachm, może trzysta, nie licząc tego, co musisz dać służebnicom i świątyni. Za taką zaś sumę, zresztą — za pięćset drachm, możesz poznać kobietę młodą i cnotliwą, moją córkę, która ma już czternaście lat i jako dziewczę rozsądne zbiera sobie posag. Nie włócz się więc nocą po nieznanym mieście, bo wpadniesz w ręce policji albo złodziei, lecz korzystaj z tego, co bogowie ofiarują ci w domu. Chcesz?...
 
-empty vessels, and brought from the cellars full pitchers, while
+— A czy twoja córka pojedzie ze mną do Harranu? — spytał Phut.
 
-scribes watching scrupulously over the tables noted down carefully each
+Gospodarz patrzył na niego zdumiony. Nagle uderzył się w czoło, jakby odgadł tajemnicę, i schwyciwszy podróżnego za rękę, pociągnął go do zacisznej framugi.
 
-piece of bread, bulb of garlic, and flagon of water. In the courtyard
+— Już wszystko wiem! — szeptał wzburzony. — Ty handlujesz kobietami... Ale pamiętaj, że za wywiezienie jednej Egipcjanki stracisz majątek i pójdziesz do kopalń. Chyba... że mnie weźmiesz do współki, bo ja tu wszędzie znam drogi...
 
-two inspectors stood on an elevation with sticks in their grasp; these
+— W takim razie opowiesz mi drogę do domu tej kapłanki — odparł Phut. — Pamiętaj, ażebym po zachodzie słońca miał przewodnika, a jutro moje worki i skrzynię, bo inaczej poskarżę się do sądu.
 
-men kept their eyes on the servants and the scribes on the one hand,
+To powiedziawszy, Phut opuścił restaurację i poszedł do swego pokoju na górę.
 
-and on the other by the aid of the sticks they settled quarrels between
+Wściekły z gniewu Asarhadon zbliżył się do stolika, przy którym pili kupcy feniccy, i odwołał na stronę jednego z nich, Kusza.
 
-the poorer guests of various nations. Thanks to this arrangement thefts
+— Pięknych gości dajesz mi pod opiekę!... — rzekł gospodarz, nie mogąc pohamować drżenia głosu. — Ten Phut prawie nic nie jada, każe mi wykupować od złodziei rzeczy, które mu skradziono, a teraz, jakby na urąganie z mego domu, wybiera się do egipskiej tancerki, zamiast obdarować moje kobiety.
 
-and battles happened rarely; they were more frequent in the galleries
+— Cóż dziwnego? — odparł śmiejąc się Kusz. — Fenicjanki mógł poznać w Sydonie, tutaj zaś woli Egipcjanki. Głupi jest ten, kto na Cyprze nie kosztuje wina cypryjskiego, tylko piwo tyryjskie.
 
-than the courtyard.
+— A ja ci mówię — przerwał gospodarz — że to jest człowiek niebezpieczny... Udaje mieszczanina, choć ma postawę kapłana.
 
-The Phoenician innkeeper himself, the noted Asarhadon, a man beyond
+— Ty, Asarhadonie, wyglądasz jak arcykapłan, a jesteś tylko szynkarzem! Ława nie przestaje być ławą, choć ma na sobie lwią skórę.
 
-fifty, dressed in a long tunic and a muslin cape, walked among the
+— Ale po co on chodzi do kapłanek?... Przysiągłbym, że to wybieg i że gbur chetyjski, zamiast na ucztę do kobiet, uda się na jakieś zgromadzenie spiskowców.
 
-guests to see if each received what he had ordered.
+— Złość i chciwość zamroczyły twój umysł — odrzekł z powagą Kusz. — Jesteś jak człowiek, który szukając dyni na figowym drzewie, nie widzi figi. Dla każdego kupca jest jasne, że jeżeli Phut ma odebrać pięć talentów od kapłana, to musi skarbić sobie łaski u wszystkich, którzy kręcą się przy świątyniach. Ale ty już nic nie rozumiesz...
 
-"Eat and drink, my sons!" said he to the Greek sailors, "for such pork
+— Bo mnie mówi serce, że to musi być asyryjski wysłaniec czyhający na zgubę jego świątobliwości...
 
-and beer there is not in all the world as I have. I hear that a storm
+Kusz z pogardą patrzył na Asarhadona.
 
-struck your ship about Rafia? Ye should give a bounteous offering to
+— Więc śledź go, czuwaj nad każdym jego krokiem. A jeżeli co wykryjesz, może dostanie ci się jaka cząstka jego majątku.
 
-the gods for preserving you. In Memphis a man might not see a storm all
-
-his life, but at sea it is easier to meet lightning than a copper uten.
-
-I have mead, flour, incense for holy sacrifices, and here, in the
-
-corner, stand the gods of all nations. In my inn a man may still his
-
-hunger and be pious for very slight charges."
-
-He turned and went to the gallery among the merchants. "Eat and drink,
-
-worthy lords," incited he, making obeisance. "The times are good. The
-
-most worthy heir may he live for ever! is going to Pi-Bast with an
-
-enormous retinue, but from the upper kingdom a transport of gold has
-
-come, of which more than one of you will win a good portion. I have
-
-partridges, young goslings, fish direct from the river, perfect roast
-
-venison. And what wine they have sent me from Cyprus! May I be turned
-
-into a Jew if a goblet of that luxury is not worth two drachmas, but to
-
-you, my benefactors and fathers, I will give it today for one drachma,
-
-only today, to make a beginning."
-
-"Give it for half a drachma a goblet, and we will taste it," said one
-
-of the merchants.
-
-"Half a drachma!" repeated the host. "Sooner will the Nile flow upward
-
-toward Thebes than I give such sweetness for half a drachma, unless I
-
-do it for thee, Lord Belezis, who art the pearl of Sidon. Hei, slaves!
-
-bring to our benefactors the largest pitcher of wine from Cyprus."
-
-When the innkeeper had walked on, the merchant named Belezis said to
-
-his companions,
-
-"May my hand wither if that wine is worth half a drachma! But never
-
-mind! We shall have less trouble with the police hereafter."
-
-Conversation with guests of all nations and conditions did not prevent
-
-the host from looking at the scribes who noted down food and drink, at
-
-the watchman who stared at the scribes and the servants, and above all
-
-at a traveler who had seated himself on cushions in the front gallery,
-
-with his feet under him, and who was dozing over a handful of dates and
-
-a goblet of pure water. That traveler was about forty years old, he had
-
-abundant hair and beard of raven color, thoughtful eyes, and
-
-wonderfully noble features which seemed never to have been wrinkled by
-
-anger or distorted by fear.
-
-"That is a dangerous rat!" thought the innkeeper, frowning. "He has the
-
-look of a priest, but he wears a dark coat. He has left gold and jewels
-
-with me to the value of a talent, and he neither eats meat nor drinks
-
-wine. He must be a great prophet or a very great criminal."
-
-Two naked serpent tamers came into the courtyard bearing a basket full
-
-of poisonous reptiles, and began their exhibition. The younger one
-
-played on a flute, while the elder wound around his body snakes big and
-
-little, any one of which would have sufficed to drive away guests from
-
-the inn "Under the Ship."
-
-The flute-player gave out shriller and shriller notes; the serpent-
-
-tamer squirmed, foamed at the mouth, quivered convulsively, and
-
-irritated the reptiles till one of them bit him on the hand, another on
-
-the face, while he swallowed alive a third one, the smallest.
-
-The guests and the servants looked at the exhibition of the serpent-
-
-tamer with alarm. They trembled when he irritated the reptiles, they
-
-closed their eyes when they bit him; but when the performer swallowed
-
-one of the snakes, they howled with delight and wonder.
-
-The traveler in the front gallery, however, did not leave his cushions,
-
-he did not deign even to look at the exhibition. But when the tamer
-
-approached for pay, he threw to the pavement two copper utens, giving a
-
-sign with his hand not to come nearer.
-
-The exhibition lasted half an hour perhaps. When the performers left
-
-the courtyard, a negro attending to the chambers of the inn rushed up
-
-to the host and whispered something anxiously. After that, it was
-
-unknown whence, a decurion of the police appeared, and when he had
-
-conducted Asarhadon to a remote window, he conversed long with him. The
-
-worthy owner of the inn beat his breast, clasped his hands, or seized
-
-his head. At last he kicked the black man in the belly, and commanded
-
-him to give the police official a roast goose and a pitcher of Cyprus
-
-wine; then he approached the guest in the front gallery, who seemed to
-
-doze there un brokenly, though his eyes were open.
-
-"I have evil news for thee, worthy lord," said the host, sitting at the
-
-side of the traveler.
-
-"The gods send rain and sadness on people whenever it pleases them,"
-
-replied the guest, with indifference.
-
-"While we were looking at the snake-tamers," continued the host,
-
-pulling at his parti-colored beard, "thieves reached the second story
-
-and stole thy effects, three bags and a casket, of course very
-
-precious."
-
-"Thou must inform the court of my loss."
-
-"Wherefore the court?" whispered the host. "With us thieves have a
-
-guild of their own. We will send for their elder, and value the
-
-effects; Thou wilt pay him twenty per cent of the value and all will be
-
-found again. I can assist thee."
-
-"In my country," replied the guest, "no man compounds with thieves, and
-
-I will not. I lodge with thee, I trusted thee with my property, and
-
-Thou wilt answer."
-
-The worthy Asarhadon began to scratch his shoulder-blades.
-
-"Man of a distant region," continued he, in a lower voice, "ye Hittites
-
-and we Phoenicians are brothers, hence I advise thee sincerely not to
-
-turn to an Egyptian court, for it has only one door, that by which a
-
-man enters, but none by which he goes out."
-
-"The gods can conduct an innocent man through a wall," said the
-
-Hittite.
-
-"Innocent! Who of us in the land of bondage is innocent?" whispered the
-
-host. "Look in that direction; over there that commander of ten
-
-policemen is finishing a goose, an excellent young goose, which I
-
-myself would have eaten gladly. But dost Thou know why, taking it from
-
-my own mouth, I gave that goose to him?"
-
-"It was because the man came to inquire about thee."
-
-When he said this, the Phoenician looked askance at the traveler, who
-
-did not lose calmness for an instant.
-
-"He asked me," continued the host, "that master of ten policemen asked,
-
-'What sort of man is that black one who sits two hours over a handful
-
-of dates?' I replied: 'A very honorable man, the lord Phut.' 'Whence
-
-comes he?' 'From the country of the Hittites, from the city of Harran;
-
-he has a good house there of three stories, and much land.' 'Why has he
-
-come hither?' 'He has come,' I replied, 'to receive five talents from a
-
-certain priest, talents lent by his father.'
-
-"And dost Thou know, worthy lord," continued the innkeeper, "what that
-
-decurion answered? 'Asarhadon,' said he, 'I know that Thou art a
-
-faithful servant of his holiness, Thou hast good food and pure wines;
-
-for this reason I warn thee, look to thyself. Have a care of foreigners
-
-who make no acquaintances, who avoid wine and every amusement, and are
-
-silent. That Phut of Harran may be an Assyrian spy.' The heart died in
-
-the when I heard this. But these words do not affect thee," said he,
-
-indignantly, when he saw that the terrible suspicion of espionage did
-
-not disturb the calm face of the Hittite.
-
-"Asarhadon," said the guest, after a while, "I confided to thee myself
-
-and my property. See to it, therefore, that my bags and my casket are
-
-returned to me, for in the opposite case I shall complain of thee to
-
-that same chief of tea who is eating the goose which was intended for
-
-thee."
-
-"Well, but permit me to pay the thieves only fifteen per cent of the
-
-value of the things," cried the host.
-
-"Thou hast no right to pay."
-
-"Give them even thirty drachmas."
-
-"Not an uten."
-
-"Give the poor fellows even ten drachmas."
-
-"Go in peace, Asarhadon, and beg the gods to return thee thy reason,"
-
-answered the traveler, with the same unchanging calmness.
-
-The host sprang up, panting from anger.
-
-"The reptile!" thought he. "He has not come for a debt simply. He is
-
-doing some business here. My heart tells me that he is a rich merchant,
-
-or maybe an innkeeper who, in company with priests and judges, will
-
-open another inn somewhere near this one. May the first fire of heaven
-
-burn thee! May the leprosy devour thee! Miser, deceiver, criminal from
-
-whom an honest man can make nothing."
-
-The worthy Asarhadon had not succeeded yet in calming himself when the
-
-sounds of a flute and a drum were heard on the street, and after a
-
-while four dancers, almost naked, rushed into the courtyard. The
-
-carriers and sailors greeted them with shouts of delight, and even
-
-important merchants in the galleries looked at them with curiosity and
-
-made remarks on their beauty. The dancers with motions of the hands and
-
-with smiles greeted all the company. One began to play on a double
-
-flute, another accompanied with a drum, and the two others danced
-
-around the court in such fashion that there was hardly a guest whom
-
-their muslin shawls did not strike as they whirled.
-
-Those who were drinking began to sing, shout, and call to the dancers,
-
-while among the common herd a quarrel sprang up which the inspectors
-
-settled with canes. A certain Libyan, angered at sight of the canes,
-
-drew a knife, but two black men seized his arms, took from him some
-
-bronze rings as pay for food, and hurled him out to the street.
-
-Meanwhile one of the dancers remained with the sailors, two went among
-
-the merchants who offered them wine and cakes, and the oldest passed
-
-among the tables to make a collection.
-
-"By the sanctuary of the divine Isis!" cried she, "pious strangers,
-
-give offerings to the goddess who guards all creation. The more you
-
-give the more happiness and blessing will come to you. For the
-
-sanctuary of Mother Isis!"
-
-They threw onto her drum coils of copper wire, sometimes a grain of
-
-gold. One merchant asked if it were permitted to visit her, to which
-
-she nodded with a smile.
-
-When she entered the front gallery, Phut of Harran reached for his
-
-leather bag and took out a gold ring, saying,
-
-"Is tar is a great and good goddess; take this for her sanctuary."
-
-The priestess looked quickly at him and whispered,
-
-"Anael, Sachiel."
-
-"Amabiel, Abalidot," answered the traveler, in the same low tone.
-
-"I see that Thou lovest Mother Isis," said the priestess, aloud. "Thou
-
-must be wealthy and art bountiful, so it is worth while to soothsay for
-
-thee."
-
-She sat down near him, ate a couple of dates, and looking at his hand
-
-began,
-
-"Thou art from a distant region, from Bretor and Hagit. [The spirits of
-
-the northern and eastern parts of the world.]Thou hast had a pleasant
-
-journey. For some days the Phoenicians are watching thee," added she,
-
-in a lower voice.
-
-"Thou hast come for money, though Thou art not a merchant. Visit me
-
-this day after sunset. Thy wishes will be accomplished," said she,
-
-aloud. "They should be accomplished. I live on the Street of Tombs in
-
-the house of the Green Star," whispered she. "But beware of thieves who
-
-are watching for thy property," finished she, seeing that the worthy
-
-Asarhadon was listening.
-
-"There are no thieves in my house!" burst out the Phoenician. "None
-
-steal except those who come from the street."
-
-"Be not angry, old man," replied the priestess, jeeringly, "or a red
-
-line will come out oil thy neck right away; that means an unlucky
-
-death."
-
-When he heard this, Asarhadon spat three times, and in a low voice
-
-repeated a charm against evil predictions. When he had moved away to
-
-the depth of the gallery, the priestess began to coquet with the Harran
-
-man. She gave him a rose from her crown, embraced him at parting, and
-
-went to the other tables.
-
-The traveler beckoned to the host.
-
-"I wish," said he, "that woman to come to me. Give command to conduct
-
-her to my chamber."
-
-Asarhadon looked into his eyes, clapped his hands, and burst out
-
-laughing.
-
-"Typhon has possessed thee, O man of Harran!" cried he. "If anything of
-
-that sort happened in my house with an Egyptian priestess, they would
-
-drive me out of the city. Here it is permissible to receive only
-
-foreign women."
-
-"In that case I will go to her," answered Phut, "for she is a wise and
-
-devout person, and has told me of many happenings. After sunset Thou
-
-wilt give me a guide, so that I may not go astray."
-
-"All the evil spirits have entered thy heart," said Asarhadon. "Dost
-
-Thou know that this acquaintance will cost thee two hundred drachmas,
-
-perhaps three hundred, not counting that which Thou must give the
-
-servants and the sanctuary. For such a sum, or say five hundred
-
-drachmas, Thou mayst make the acquaintance of a young and virtuous
-
-woman, my daughter, who is now fourteen years of age, and like a
-
-prudent girl is collecting for herself a dowry. Do not wander in the
-
-night through a strange city, for Thou wilt fall into the hands of the
-
-police or of thieves, but make use of that which the gods give thee at
-
-home. Dost Thou wish?"
-
-"But will thy daughter go with me to Harran?" inquired Phut.
-
-The innkeeper looked at him with astonishment. All at once he struck
-
-his forehead, as if he had divined a secret, and seizing the traveler
-
-by the hand, he drew him to a quieter place at the window.
-
-"I know all," whispered he, excitedly. "Thou art dealing in women. But
-
-remember that for taking away one Egyptian woman Thou mayst lose thy
-
-property and go to the quarries. But perhaps Thou wilt take me into thy
-
-company, for here I know every road."
-
-"In that case show me the road to the priestess," said Phut. "Remember
-
-that after sunset Thou art to have a guide for me, and to-morrow my
-
-bags and casket, otherwise I shall complain to the court."
-
-Then Phut left the gallery and went to his chamber on a higher story.
-
-Asarhadon with anger approached a table at which Phoenician merchants
-
-were drinking, and called aside one of them named Kush.
-
-"Thou bringest beautiful guests to me!" said he, unable to restrain the
-
-quivering of his voice. "That Phut eats almost nothing, and now, as if
-
-to insult my house, he is going out to an Egyptian dancer instead of
-
-giving presents to my women."
-
-"What wonder in that?" answered Kush, smiling. "He could find a
-
-Phoenician woman in Sidon, but here he prefers an Egyptian. A fool is
-
-he who in Cyprus does not taste Cyprus wine, but Tyrian beer."
-
-"But I say," broke in the host, "that that man is dangerous. He seems
-
-to be a citizen, though he looks like a priest."
-
-"Thou, Asarhadon, hast the look of a high priest, though Thou art only
-
-an innkeeper. A bench does not cease to be a bench, though it has a
-
-lion's skin on it."
-
-"But why does he go to priestesses? I would swear that that is a
-
-pretence, and that this churlish Hittite, instead of going to a feast
-
-with women, is going to some meeting of conspirators."
-
-"Anger and greed have darkened thy reason," answered Kush, with
-
-impatience. "Thou art like a man who looking for melons on a fig-tree
-
-sees not the figs on it. It is clear to any merchant that if Phut is to
-
-collect five talents from a priest he must win favors from all who go
-
-around in the sanctuaries. But Thou hast no understanding."
-
-"My heart tells me that this must be an Assyrian ambassador watching to
-
-destroy his holiness."
-
-Kush looked with contempt on Asarhadon.
-
-"Watch him, then; follow every step of his. If Thou discover anything,
-
-perhaps Thou wilt get some part of his property."
-
-"Oh, now them hast given wise counsel," said the host. "Let that rat go
-
-to the priestesses, and from them to places unknown to me. But I will
-
-send after him my vision, from which nothing will be secret."
+— O, teraz powiedziałeś mądre zdanie! — rzekł gospodarz. — Niech ten szczur idzie sobie do kapłanek, a od nich w miejsce nie znane mi. Ale ja za nim poślę moje źrenice, przed którymi nic się nie ukryje!

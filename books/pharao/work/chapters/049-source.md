@@ -1,731 +1,232 @@
-# Kapitel 49: CHAPTER XLIX
+# Kapitel 049: Tom II - Rozdział XXIV
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part55.xhtml*
 
 <!-- status: pending -->
 
-AT sunrise of the twenty-first of Hator there came from Memphis to the
+O wschodzie słońca dwudziestego pierwszego Hator do obozu nad Sodowymi Jeziorami przyszedł z Memfisu rozkaz, według którego trzy pułki miały pomaszerować do Libii i stanąć załogami w miastach, reszta zaś armii egipskiej wraz z księciem miała wrócić do domu.
 
-camp at the Soda Lakes an order by which three regiments were to march
+Wojska okrzykami radości powitały to rozporządzenie; kilkudniowy bowiem pobyt w pustyni już zaczynał im dokuczać. Pomimo dowozów i z Egiptu, i z upokorzonej Libii nie było nadmiaru żywności; woda w studniach naprędce wykopanych wyczerpała się; żar słoneczny wypalał ciała, a rudy piasek raził płuca i oczy. Żołnierze poczęli chorować na dysenterię i złośliwe zapalenie powiek.
 
-to Libya to stand garrison in the towns, the rest of the Egyptian army
+Ramzes kazał zwinąć obóz. Trzy pułki rodowitych Egipcjan wyprawił do Libii, zalecając żołnierzom, aby łagodnie traktowali mieszkańców i — nigdy nie włóczyli się pojedynczo. Właściwą zaś armię skierował do Memfisu, zostawiając małą załogę w forteczce i hutach szklanych.
 
-was to return home with Ramses.
+O dziewiątej rano, mimo spiekoty, oba wojska były już w drodze; jedni na północ, drudzy na południe.
 
-The army greeted this arrangement with shouts of delight, for a stay of
+Wówczas zbliżył się do następcy święty Mentezufis i oświadczył:
 
-some days in the wilderness had begun to annoy them. In spite of
+— Byłoby dobrze, gdybyś, wasza dostojność, mógł wcześniej dojechać do Memfisu. W połowie drogi będą świeże konie...
 
-supplies from Egypt and from conquered Libya, there was not an excess
+— Więc mój ojciec jest ciężko chory?... — zawołał Ramzes.
 
-of provisions; water in the wells dug out quickly, was exhausted; the
+Kapłan schylił głowę.
 
-heat of the sun burned their bodies, and the ruddy sand wounded their
+Książę zdał Mentezufisowi naczelne dowództwo, prosząc go, aby w niczym nie zmieniał już wydanych rozporządzeń bez naradzenia się ze świeckimi jenerałami. Sam zaś, wziąwszy Pentuera, Tutmozisa i dwudziestu najlepszych jeźdźców azjatyckich, wyciągniętym kłusem pojechał do Memfisu.
 
-lungs and their eyeballs. The warriors were falling ill of dysentery
+W pięć godzin przebyli połowę drogi i jak zapowiedział Mentezufis, znaleźli świeże konie i nowy orszak. Azjaci zostali tutaj, a książę ze swymi dwoma towarzyszami i nową eskortą, po krótkim odpoczynku, pojechał dalej.
 
-and a malignant inflammation of the eyelids.
+— Biada mi! — jęczał elegancki Tutmozis. — Nie dość, że od pięciu dni nie kąpię się i nie znam różanego olejku, ale jeszcze muszę odbyć dwa forsowne marsze w jeden dzień!... Jestem pewny, że gdy staniemy na miejscu, żadna tancerka nie zechce na mnie spojrzeć...
 
-Ramses commanded to raise the camp. He sent three native Egyptian
+— Cóżeś lepszego od nas? — spytał książę.
 
-regiments to Libya, commanding the soldiers to treat people mildly and
+— Jestem wątlejszy! — westchnął Tutmozis. — Ty, książę, przywykłeś do konnej jazdy jak Hyksos, a Pentuer mógłby podróżować nawet na rozpalonym mieczu. Ale ja taki delikatny...
 
-never wander from the camp singly. The army proper he turned toward
+O zachodzie słońca podróżni wjechali na wysoki pagórek, skąd roztoczył się niezwykły obraz. Z daleka przed nimi widać było zielonawą dolinę Egiptu, a na jej tle, niby szereg czerwonych płomieni, jaśniały trójkątne piramidy. Trochę na prawo od piramid, również zdawały się płonąć wierzchołki pylonów Memfisu owiniętego w niebieskawą mgłę.
 
-Memphis, leaving a small garrison at the glass huts and in the
+— Jedźmy, jedźmy!... — nalegał książę.
 
-fortress.
+W chwilę później znowu otoczyła ich ruda pustynia i znowu zajaśniał sznur piramid, dopóki wszystko nie rozpłynęło się w bladej pomroce.
 
-About nine in the morning, in spite of the heat, both armies were on
+Gdy zapadła noc, podróżni dotarli do olbrzymiej krainy zmarłych, która po lewej stronie rzeki, na wzgórzach, ciągnęła się na przestrzeni kilkudziesięciu wiorst.
 
-the road; one going northward, the other toward the south.
+Tu za Starego Państwa chowano na wieczne czasy Egipcjan: królów w ogromnych piramidach, książąt i dostojników w mniejszych piramidach, prostaków w lepiankach. Spoczywało tu miliony mumii nie tylko ludzi, ale psów, kotów, ptaków, słowem — wszystkich stworzeń, które za życia miłymi były człowiekowi.
 
-The holy Mentezufis approached the heir then, and said,
+Za czasów Ramzesa królewski i magnacki cmentarz przeniesiono do Tebów, a w sąsiedztwie piramid grzebano tylko chłopów i wyrobników z najbliższych okolic.
 
-"It would be well, worthiness, couldst Thou reach Memphis earlier.
+Między rozpierzchniętymi grobami książę i jego orszak spotkał gromadkę ludzi przesuwających się jak cienie.
 
-There will be fresh horses half-way."
+— Kto wy jesteście? — zapytał dowódca eskorty.
 
-"Then my father is very ill?" cried out Ramses.
+— Jesteśmy biedni słudzy faraona, a wracamy od naszych zmarłych... Zanieśliśmy im trochę róż, piwa i placków...
 
-The priest bent his head.
+— A może zaglądaliście do cudzych grobów?
 
-The prince gave command to Mentezufis, begging him to change in no way
+— O bogowie! — zawołał jeden z gromady — czyliż jesteśmy zdolni do podobnego świętokradztwa?... To tylko przewrotni tebańczycy (oby im ręce poschły!) niepokoją zmarłych, aby w szynkach przepić ich własność.
 
-commands already made, unless he counseled with lay generals. Taking
+— Co znaczą te ogniska tam, na północ? — wtrącił książę.
 
-Pentuer, Tutmosis, and twenty of the best Asiatic horsemen, he went
+— Musisz, panie, z daleka jechać, kiedy nie wiesz — odpowiedziano. — Wszakże to jutro nasz następca wraca ze zwycięskim wojskiem... Wielki wódz!... W jednej bitwie zawojował nędznych Libijczyków... Toteż lud z Memfisu wyszedł, aby go uroczyście powitać... Trzydzieści tysięcy głów... Dopieroż będą krzyczeli!
 
-himself on a sharp trot toward Memphis.
+— Rozumiem — szepnął książę do Pentuera. — Święty Mentezufis wysłał mnie naprzód, abym nie odbył triumfalnego pochodu... Ale niech i tak będzie, na dzisiaj...
 
-In five hours they passed half the journey; at the halt, as Mentezufis
+Konie były pomęczone i należało wytchnąć. Posłał więc książę paru jezdnych, aby zamówili statki na rzece, a resztę orszaku zatrzymał pod kępą palm, które wówczas rosły między grupą piramid i sfinksem.
 
-had declared, were fresh horses and a new escort. The Asiatics remained
+Grupa ta stanowi północny kraniec niezmiernego cmentarzyska. Na placu mającym około kilometra kwadratowego powierzchni, porosłym w owych czasach pustynną roślinnością, tłoczy się mnóstwo grobów i małych piramid, nad którymi górują trzy piramidy największe: Cheopsa, Khefrena i Mykerina, tudzież sfinks. Kolosalne te budowle są oddalone jedna od drugiej ledwo na kilkaset kroków. Trzy piramidy stoją w jednym rzędzie od północo-wschodu ku południo-zachodowi, na wschód zaś od tej linii, najbliżej Nilu, leży sfinks, u stóp którego ciągnęła się podziemna świątynia Horusa.
 
-at that point, and after a short rest the prince with his two
+Piramidy, a szczególniej Cheopsa, jako utwór ludzkiej pracy przeraża swoją wielkością. Jest to kamienny pagórek szpiczasty, wysoki na trzydzieści pięć piątr (sto trzydzieści siedem metrów), stojący na podstawie kwadratowej, której każdy bok ma około trzystu pięćdziesięciu kroków (dwustu dwudziestu siedmiu metrów) długości. Piramida zajmuje dziesięć morgów
 
-companions and a new escort went farther.
+Kiedy orszak książęcy rozłożył się pod mizernymi drzewami, kilku żołnierzy zajęło się wyszukaniem wody, inni wydobyli suchary, a Tutmozis upadł na ziemię i zasnął. Książę zaś i Pentuer zaczęli przechadzać się rozmawiając.
 
-"Woe to me!" said Tutmosis. "It is not enough that for five days I have
+Noc była o tyle jasna, że można było widzieć z jednej strony niezmierne sylwetki piramid, z drugiej figurę sfinksa, który w porównaniu z nimi wydawał się małym.
 
-not bathed and know not rose perfumed oil, but besides I must make in
+— Jestem tu już czwarty raz — rzekł następca — a zawsze moje serce napełnia się zdumieniem i żalem. Kiedym był jeszcze uczniem wyższej szkoły, myślałem, że wstąpiwszy na tron wzniosę coś dostojniejszego aniżeli piramida Cheopsa. Ale dzisiaj śmiać mi się chce z mego zuchwalstwa, kiedy pomyślę, że wielki faraon przy budowie swego grobowca zapłacił tysiąc sześćset talentów za same jarzyny dla robotników... Skądbym ja wziął tysiąc sześćset talentów, a choćby tylko ludzi!...
 
-one day two forced marches. I am sure that when we reach Memphis no
+— Nie zazdrość, panie, Cheopsowi — odparł kapłan. — Inni faraonowie lepsze zostawili po sobie dzieła: jeziora, kanały, gościńce, świątynie i szkoły...
 
-dancer will look at me."
+— Alboż te rzeczy można porównać z piramidami?
 
-"What! Art Thou better than we?" asked the prince.
+— Z pewnością, że nie — spiesznie odpowiedział kapłan. — W oczach moich i całego ludu każda piramida jest wielkim występkiem, a największym — Cheopsowa...
 
-"I am more fragile," said the exquisite. "Thou, prince, art as
+— Unosisz się — zreflektował go książę.
 
-accustomed to riding as a Hyksos, and Pentuer might travel on a red-hot
+— Wcale nie. Swój wielki grób budował faraon przez lat trzydzieści, w ciągu których sto tysięcy ludzi pracowało co roku po trzy miesiące. I jaki z tej pracy pożytek?... Kogo ona wykarmiła, uleczyła, odziała?... Ale za to co rok przy tej robocie marniało dziesięć do dwudziestu tysięcy ludzi... Czyli — na grób Cheopsa złożyło się z pół miliona trupów, a ile krwi, łez, bólów, kto rachuje?
 
-sword. But I am so delicate."
+Dlatego nie dziw się, panie, że chłop egipski po dziś dzień z trwogą patrzy na zachód, gdzie nad horyzontem krwawią się lub czernieją trójkątne postacie piramid. Toż to świadkowie jego mąk i jałowej pracy...
 
-At sunset the travelers came out on a lofty hill, whence they saw an
+I pomyśleć, że tak będzie zawsze, dopóki te dowody ludzkiej pychy w proch się nie rozsypią. Ale kiedy to nastąpi? Od trzech tysięcy lat straszą nas swoim widokiem, i jeszcze ściany ich są gładkie, a ogromne napisy czytelne.
 
-uncommon picture unfolded before them. For a long distance the green
+— Tamtej nocy, w pustyni, mówiłeś inaczej — wtrącił książę.
 
-valley of Egypt was visible, on the background of it, like a row of
+— Bom nie patrzył na nie. Ale kiedy je mam, jak teraz, przed oczyma, otaczają mnie łkające duchy zamęczonych chłopów i szepcą: „Patrz, co zrobiono z nami!... A przecie i nasze kości czuły ból, i nasze serca tęskniły do odpoczynku...”
 
-ruddy fires, the triangular pyramids stood gleaming. A little to the
+Ramzes był w przykry sposób dotknięty tym wybuchem.
 
-right of the pyramids the tops of the Memphis pylons, wrapped in a
+— Mój świątobliwy ojciec — rzekł po chwili — inaczej przedstawił mi te sprawy. Kiedy byliśmy tutaj przed pięcioma laty, boski pan opowiedział mi taką historię:
 
-bluish haze, seemed to be flaming upward.
+Za faraona Tutmozisa I przyjechali posłowie etiopscy umawiać się o wysokość płaconych przez siebie danin. Hardy to był naród! Mówili, że jedna przegrana wojna nic nie stanowi, w drugiej bowiem los na nich może być łaskaw — i przez parę miesięcy targowali się o haracz.
 
-"Let us go; let us go!" said Ramses.
+Na próżno mądry król, chcąc łagodnie oświecić ich, pokazywał im nasze gościńce i kanały. Odpowiadali, że w ich kraju wodę mają darmo, gdzie chcą. Na próżno odsłaniano im skarbce świątyń: mówili, że ich ziemia kryje daleko więcej złota i klejnotów aniżeli cały Egipt. Nadaremnie pan musztrował wobec nich swoje wojska, gdyż twierdzili, że Etiopów jest bez porównania więcej, aniżeli jego świątobliwość ma żołnierzy.
 
-A moment later the reddish desert surrounded them again, and again the
+Wówczas faraon przywiózł ich w te oto miejsca, gdzie stoimy, i pokazał piramidy.
 
-line of pyramids gleamed until all was dissolved in the twilight.
+Posłowie etiopscy obeszli je wkoło, przeczytali napisy i — na drugi dzień zawarli traktat, jakiego od nich żądano.
 
-When night fell the travelers had reached that immense district of the
+Ponieważ nie zrozumiałem tej historii — ciągnął Ramzes — więc mój święty ojciec objaśnił mi ją.
 
-dead, which extends for a number of tens of miles on the heights along
+Synu — mówił — te piramidy są wiekuistym dowodem nadludzkiej potęgi Egiptu. Gdyby jaki człowiek chciał sobie wznieść piramidę, ułożyłby drobny stos kamieni i rzuciłby po kilku godzinach swoją pracę zapytawszy: na co mi ona? Dziesięciu, stu i tysiąc ludzi nagromadziliby trochę więcej kamieni, zsypaliby je nieporządnie i — znowu porzuciliby ją po upływie kilku dni. Bo na co im ta robota?
 
-the left side of the river.
+Ale kiedy faraon egipski, kiedy państwo egipskie umyśli sobie zgromadzić stos kamieni, to spędza krocie tysięcy ludzi i buduje choćby przez kilkadziesiąt lat, dopóki roboty nie skończy.
 
-Here during the Ancient Kingdom were buried, for endless ages,
+Nie o to bowiem chodzi: czy były potrzebne piramidy? Ale o to, ażeby wola faraona, gdy ją raz wypowiedziano, była spełniona.
 
-Egyptians, the pharaohs in immense pyramids, princes and dignitaries in
+Tak, Pentuerze, piramida to nie grób Cheopsa, lecz — wola Cheopsa. Wola, która posiada tylu wykonawców, jak żaden król na świecie, a taki porządek i wytrwałość w działaniu, jak bogowie.
 
-smaller pyramids, common men in mud structures. Here were resting
+Jeszcze w szkołach uczono mnie, że wola ludzka to wielka siła, największa siła pod słońcem. A przecie wola ludzka może podnieść ledwie jeden kamień. Jakże wielką zatem jest wola faraona, który wzniósł górę kamieni tylko dlatego, że mu się tak podobało, że on tak chciał choćby nawet bez celu.
 
-millions of mummies, not only of people, but of dogs, cats, birds, in a
+— Czy i ty, panie, chciałbyś w podobny sposób dowodzić swojej potęgi?... — nagle zapytał go Pentuer.
 
-word, all creatures which, while they lived, were dear to Egyptians.
+— Nie — odparł książę bez wahania. — Gdy faraonowie raz okazali siłę, mogą już być miłosiernymi. Chyba że kto próbowałby opierać się ich rozkazom.
 
-During the time of Ramses, the burial-ground of kings and great persons
+„A przecież ten młodzieniec ma dopiero dwadzieścia trzy lat!” — rzekł do siebie zatrwożony kapłan.
 
-was transferred to Thebes; in the neighborhood of Memphis were buried
+Zwrócili w stronę rzeki i jakiś czas szli milcząc.
 
-only common persons and artisans from regions about there.
+— Połóż się, panie — rzekł kapłan — zaśnij. Odbyliśmy nie lada podróż.
 
-Among scattered graves, the prince and his escort met a number of
+— Alboż mogę zasnąć?... — odparł książę. — Raz otaczają mnie te krocie chłopów, którzy, według twego zdania, zginęli przy budowie piramid (jak gdyby bez owych piramid mieli żyć wiecznie!...). To znowu myślę o moim świątobliwym ojcu, który może w tej chwili dogorywa... Chłopi cierpią!... chłopi rozlewają krew!... Kto mi dowiedzie, że mój boski ojciec nie więcej męczy się na swym kosztownym łożu aniżeli twoi chłopi dźwigając rozpalone kamienie?...
 
-people, pushing about like shadows.
+Chłopi! zawsze chłopi!... Dla ciebie, kapłanie, tylko ten zasługuje na litość, kogo wszy jedzą. Cały szereg faraonów wstąpił do grobu, niektórzy konali w boleściach, niektórych zamordowano. Ale ty o nich nie pamiętasz, tylko o chłopach, których zasługą jest, że rodzili innych chłopów, czerpali błoto nilowe albo wpychali w usta swoim krowom — jęczmienne gałki.
 
-"Who are ye?" asked the leader of the escort.
+A mój ojciec... a ja?... Czyliż nie zabito mi syna i kobiety z mego domu? Czy był dla mnie miłosiernym Tyfon w pustyni albo kości nie bolą mnie po długiej podróży?... A pociski procarzy libijskich nie świstały mi nad głową?... Mamże ja traktat z chorobą czy z boleścią, czy ze śmiercią, ażeby były dla mnie łaskawsze niż dla twojego chłopa?...
 
-"We are poor servants of the pharaoh returning from our dead. We took
+Spojrzyj tam... Azjaci śpią i cisza zalega ich piersi: ale ja, ich pan, mam serce pełne trosk wczorajszych i niepokojów o jutro. Zapytaj stuletniego chłopa, czy przez cały swój czas doznał tylu goryczy, ile ja w ciągu kilkumiesięcznej władzy namiestnika i wodza?...
 
-to them roses, cakes, and beer."
+Przed nimi z wolna, z głębi nocy, wynurzał się dziwny cień. Była to budowla długa na pięćdziesiąt kroków, wysoka na trzy piętra, mająca z boku niby pięciopiętrową wieżę niezwykłej formy.
 
-"But maybe ye looked into strange graves?"
+— Otóż i sfinks — mówił rozdrażniony książę — czysto kapłańska robota!... Ile razy widziałem go, w dzień czy w nocy, zawsze męczyło mnie pytanie: co to jest i na co to jest?...
 
-"O gods!" cried one of the party, "could we commit such a sacrilege? It
+Piramidy — rozumiem. Potężny faraon chciał okazać swoją siłę, a może, co rozsądniej, chciał zabezpieczyć sobie wieczne życie w spokoju, którego nie naruszyłby żaden wróg czy złodziej. Ale ten sfinks!... Oczywiście jest to nasz święty stan kapłański, który ma bardzo wielką i mądrą głowę, a pod nią lwie pazury...
 
-is only the wicked Thebans may their hands wither! who disturb the
+Wstrętny posąg, pełen dwuznaczności, który zdaje się pysznić tym, że wyglądamy przy nim jak szarańcza. Ani to człowiek, ani zwierzę, ani skała... Więc czymże on jest, jakie ma znaczenie?... Albo ten jego uśmiech... Podziwiasz wiecznotrwałość piramid — on się uśmiecha; idziesz porozmawiać z grobami — on także się uśmiecha. Czy zazielenią się pola Egiptu, czy Tyfon rozpuści swoje ogniste rumaki, czy niewolnik szuka wolności w pustyni, czy Ramzes Wielki spędza zwyciężone narody — on dla wszystkich ma jeden i ten sam martwy uśmiech.
 
-dead, so as to drink away their property in dramshops?"
+Dziewiętnaście królewskich dynastii minęło jak cienie, ale on uśmiechał się i uśmiechałby się nawet wówczas, gdyby Nil wysechł, a Egipt zginął pod piaskami.
 
-"What mean those fires at the north there?" interrupted the prince.
+Nie jestże to potwór, tym okropniejszy, że ma łagodną twarz ludzką. Sam wiekuisty, nigdy nie zaznał żalu nad znikomością świata — przepełnionego nędzami.
 
-"It must be, worthiness, that Thou comest from afar if Thou know not,"
+— Nie pamiętasz, panie, oblicza bogów — wtrącił Pentuer — albo nie widziałeś mumii? Wszyscy nieśmiertelni z takim samym spokojem patrzą na rzeczy mijające. Nawet i człowiek, o ile już sam minął.
 
-answered they. "Tomorrow our heir is returning with a victorious army.
+— Bogowie niekiedy słuchają naszych próśb — mówił jakby do siebie książę — ale on niczym się nie wzrusza. Nie jest litością, ale olbrzymim szyderstwem i strachem. Gdybym wiedział, że w jego ustach kryje się wróżba dla mnie albo sposób podźwignięcia państwa, jeszcze nie śmiałbym go zapytać. Zdaje mi się, że usłyszałbym jakąś straszną rzecz wypowiedzianą z nieubłaganym spokojem. On taki jest, ten utwór i obraz kapłanów. Gorszy od człowieka, bo ma lwi korpus; gorszy od zwierzęcia, bo ma ludzką głowę; gorszy od skały, bo kryje się w nim niepojęte życie.
 
-He is a great chief! He conquered the Libyans in one battle. Those are
+W tej chwili doleciały ich jękliwe i stłumione głosy, których źródła nie można było oznaczyć.
 
-the people of Memphis who have gone out to greet him with solemnity.
+— On śpiewa?... — spytał zdziwiony książę.
 
-Thirty thousand persons. When they shout."
+— To w podziemnej świątyni — odparł kapłan. — Ale dlaczego oni modlą się o tej porze?
 
-"I understand," whispered the prince to Pentuer. "Holy Mentezufis has
+— Powiedz lepiej: dlaczego oni w ogóle modlą się, kiedy ich nikt nie słyszy?
 
-sent me ahead so that I may not have a triumphal entry. But never mind
+Pentuer, szybko zorientowawszy się, poszedł w stronę, skąd dolatywały śpiewy. Książę znalazł jakiś kamień z oparciem i usiadł znużony. Rozciągnął ręce za siebie, odchylił się w tył i patrzył w olbrzymią twarz sfinksa.
 
-this time."
+Pomimo braku światła wyraźnie było widać nadludzkie rysy, którym właśnie cień dodawał charakteru i życia. Książę zaś, im dłużej wpatrywał się w to oblicze, tym silniej odczuwał, że był uprzedzony i że jego niechęć jest niesłuszna.
 
-The horses were tired, and they had to rest. So the prince sent
+Na twarzy sfinksa nie było okrucieństwa, prędzej rezygnacja. W jego uśmiechu nie było szyderstwa, prędzej melancholia. On nie wytrząsał się nad nędzą i znikomością ludzką, raczej nie widział ich.
 
-horsemen to engage barges on the river, and the rest of the escort
+Jego pełne wyrazu, gdzieś pod niebem osadzone oczy patrzyły za Nil, do krain, które dla ludzkich spojrzeń giną pod nieboskłonem. Czy śledził niepokojący wzrost monarchii asyryjskiej? czy natrętną bieganinę Fenicjan? czy narodziny Grecji, a może przyszłe zdarzenia gotujące się nad Jordanem?... — któż zgadnie.
 
-halted under some palms, which at that time grew between the Sphinx and
+Książę jednego był pewny, że — on patrzy, myśli i oczekuje na coś ze spokojnym uśmiechem, godnym nadprzyrodzonej istoty. I jeszcze zdawało mu się, że gdy to coś ukaże się na horyzoncie, sfinks powstanie i pójdzie naprzeciw.
 
-the group of pyramids.
+Co to ma być i kiedy nastąpi?... Tajemnica, której doniosłość wyraźnie malowała się na twarzy wiekuistego. Musi się to jednak stać nagle, skoro sfinks od wieków ani na chwilę nie zmrużył oka i patrzy, wciąż patrzy...
 
-Those pyramids formed the northern limit of the immense cemetery. On
+Tymczasem Pentuer znalazł okno, przez które z podziemiów rozlewała się jękliwa pieśń kapłańska:
 
-the flat, about a square kilometer in area, overgrown at that time with
+Chór I. „Wstawaj, promieniejący jak Izis, jak wstaje Sotis na firmamencie rano, z początkiem stałego roku.
 
-plants of the desert, were tombs and small pyramids, above which
+Chór II. Bóg Amon-Ra był po prawicy i po lewicy mojej. Sam oddał mi w ręce panowanie nad całym światem, przyczyniając się do upadku nieprzyjaciół moich.
 
-towered the three great pyramids: those of Cheops, Chafre, and Menkere,
+Chór I. Byłeś jeszcze młody, nosiłeś splecione włosy, lecz w Egipcie nic nie działo się bez twego rozkazu i nie położono kamienia węgielnego pod żaden gmach bez twojej obecności.
 
-and the Sphinx. These immense structures stand only a few hundred yards
+Chór II. Przyszedłem do Ciebie, władco bogów, wielki bogu, panie słońca. Tum obiecuje mi, że ukaże się słońce i że będę podobny do niego, a Nil, że osięgnę tron Ozyrysa i będę go posiadał na wieki.
 
-from one another. The three pyramids are in a line from northeast to
+Chór I. Wróciłeś w spokoju szanowany przez bogów, władco dwu światów, Ra-Mer-amen-Ramzesie. Zapewniam ci panowanie wieczne, królowie zbliżą się do ciebie i złożą ci hołdy.
 
-southwest. East of this line and nearer the Nile is the Sphinx, near
+Chór II. O ty, ty! Ozyrys-Ramzesie, wiecznie żyjący synu nieba, zrodzony z bogini Nut. Niech matka twoja otoczy cię tajemnicą nieba i niech zezwoli, abyś został bogiem, o ty, ty, Ozyrys-Ramzesie.”
 
-whose feet was the underground temple of Horus.
+„A więc pan świątobliwy już umarł!...” — rzekł do siebie Pentuer.
 
-The pyramids, but especially that of Cheops, as a work of human labor,
+Odszedł od okna i zbliżył się do miejsca, gdzie siedział następca pogrążony w marzeniach.
 
-astound by their greatness. This pyramid is a pointed stone mountain;
+Kapłan ukląkł przed nim, upadł na twarz i zawołał:
 
-its original height was thirty five stories, or four hundred and
+— Bądź pozdrowiony, faraonie, władco świata!...
 
-eighty-one feet, standing on a square foundation each side of which was
+— Co mówisz?!... — zawołał książę, zrywając się.
 
-seven hundred and fifty-five feet. It occupied a little more than
+— Niech Bóg jedyny i wszechmocny zleje na ciebie mądrość i siłę, a szczęście na lud twój...
 
-thirteen acres of area, and its four triangular walls would cover
+— Wstań, Pentuerze... Więc ja... więc ja...
 
-twenty acres of land. In building it, such vast numbers of stones were
+Nagle wziął za ramię kapłana i obrócił go ku sfinksowi.
 
-used that it would be possible to build a wall of the height of a man,
+— Spojrzyj na niego — rzekł.
 
-a wall half a meter thick, and two thousand five hundred kilometers
+Ale ani w obliczu, ani w postawie kolosa nie zaszła żadna zmiana. Jeden faraon przestąpił granicę wieczności, drugi wschodził jak słońce, lecz kamienna twarz boga czy potwora pozostała taką samą. Na ustach łagodny uśmiech dla ziemskich potęg i chwały, we wzroku oczekiwanie na coś, co ma przyjść, lecz nie wiadomo, kiedy przyjdzie.
 
-long.
+Wkrótce od przewozu wrócili dwaj posłańcy z zawiadomieniem, że czółna będą gotowe.
 
-When the attendants of the prince had disposed themselves under the
+Pentuer wszedł między palmy i zawołał:
 
-wretched trees, some occupied themselves in finding water; others took
+— Ocknij się!... ocknij się!...
 
-out cakes, while Tutmosis dropped to the ground and fell asleep
+Czujni Azjaci natychmiast zerwali się i zaczęli kiełznać konie. Podniósł się i Tutmozis, szkaradnie ziewający.
 
-directly. But the prince and Pentuer walked up and down conversing.
+— Brr!... — mruknął — jakie zimno... Sen dobra rzecz!... Ledwie się zdrzemnąłem i już mogę jechać, bodaj na koniec świata, byle znowu nie do Sodowych Jezior... Brr!... Już zapomniałem smaku wina i zdaje mi się, że ręce zaczęły mi porastać włosem jak szakalowi... A do pałacu mamy jeszcze ze dwie godziny.
 
-The night was clear enough to let them see on one side the immense
+Szczęśliwi chłopi!... Śpi gałgan jeden z drugim do tej pory, nie czuje potrzeby kąpania się i nie pójdzie do roboty, dopóki żona nie napasie go jęczmiennym kleikiem. A ja, wielki pan, muszę jak złodziej tułać się nocą po pustyni nie mając w ustach kropli wody...
 
-outline of the pyramids, on the other, the Sphinx, which seemed small
+Konie były gotowe i Ramzes wsiadł na swego. Wówczas Pentuer zbliżył się, ujął za cugle rumaka władcy i prowadził go, sam idąc pieszo.
 
-in comparison.
+— Co to?... — spytał zdziwiony Tutmozis. Wnet jednak opamiętał się, podbiegł i wziął Ramzesowego konia za cugle z drugiej strony. I tak szli wszyscy milcząc, zdziwieni zachowaniem się kapłana, choć czuli, że stało się coś ważnego. Po kilkuset krokach nagle skończyła się pustynia, a przed podróżnymi wyciągnął się gościniec wśród pól.
 
-"I am here for the fourth time," said the heir, "and my heart is always
+— Siadajcie na konie — rzekł Ramzes — musimy pośpieszać.
 
-filled with regret and astonishment. When a pupil in the higher school,
+— Jego świątobliwość rozkazuje siąść na koń! — zawołał Pentuer.
 
-I thought that, on ascending the throne, I would build something of
+Obecni osłupieli. Ale Tutmozis prędko odzyskał przytomność i położywszy rękę na mieczu wykrzyknął:
 
-more worth than the pyramid of Cheops. But today I am ready to laugh at
+— Niech żyje wiecznie, wszechmocny i łaskawy wódz nasz, faraon Ramzes!
 
-my insolence when I think that the great pharaoh in building his tomb
+— Niech żyje wiecznie!... — zawyli Azjaci, potrząsając bronią.
 
-paid sixteen hundred talents (about ten million francs) for the
+— Dziękuję wam, wierni żołnierze moi — odrzekł pan.
 
-vegetables alone which were used by the laborers. Where should I find
-
-sixteen hundred talents even for wages?"
-
-"Envy not Cheops, lord," replied the priest. "Other pharaohs have left
-
-better works behind: lakes, canals, roads, schools, and temples."
-
-"But may we compare those things with the pyramids?"
-
-"Of course not," answered Pentuer, hurriedly. "In my eyes and in the
-
-eyes of all the people, each pyramid is a great crime, and that of
-
-Cheops, the greatest of all crimes."
-
-"Thou art too much excited," said the prince.
-
-"I am not. The pharaoh was building his immense tomb for thirty years;
-
-in the course of those years one hundred thousand people worked three
-
-months annually. And what good was there in that work? Whom did it
-
-feed, whom did it cure, to whom did it give clothing? At that work from
-
-ten to twenty thousand people perished yearly; that is, for the tomb of
-
-Cheops a half a million corpses were put into the earth. But the blood,
-
-the pain, the tears, who will reckon them?
-
-"Therefore, wonder not, lord, that the Egyptian toiler to this day
-
-looks with fear toward the west, when above the horizon the triangular
-
-forms of the pyramids seem bloody or crimson. They are witnesses of his
-
-sufferings and fruitless labor.
-
-"And to think that this will continue till those proofs of human pride
-
-are scattered into dust! But when will that be? For three thousand
-
-years those pyramids frighten men with their presence; their walls are
-
-smooth yet,  and the immense inscriptions on them are legible."
-
-"That night in the desert thy speech was different," interrupted the
-
-prince.
-
-"For I was not looking at these. But when they are before my eyes, as
-
-at present, I am surrounded by the sobbing spirits of tortured toilers,
-
-and they whisper, 'See what they did with us! But our bones felt pain,
-
-and our hearts longed for rest from labor.'."
-
-Ramses was touched disagreeably by this outburst. "His holiness, my
-
-father," said he, after a while, "presented these things to me
-
-differently; when we were here five years ago, the sacred lord told me
-
-the following narrative:
-
-"During the reign of the pharaoh Tutmosis I, Ethiopian ambassadors came
-
-to negotiate touching the tribute to be paid by them. They were all
-
-arrogant people. They said that the loss of one war was nothing, that
-
-fate might favor them in a second; and for a couple of months they
-
-disputed about tribute.
-
-"In vain did the wise pharaoh, in his wish to enlighten the men mildly,
-
-show our roads and canals to them. They replied that in their country
-
-they had water for nothing wherever they wanted it. In vain he showed
-
-them the treasures of the temples; they said that their country
-
-concealed more gold and jewels by far than were possessed by all Egypt.
-
-In vain did the lord review his armies before them, for they asserted
-
-that Ethiopia had incomparably more warriors' than his holiness.
-
-"The pharaoh brought those people at last to these places where we are
-
-standing and showed them those structures.
-
-"The Ethiopian ambassadors went around the pyramids, read the
-
-inscriptions, and next day they concluded the treaty required of them.
-
-"Since I did not understand the heart of the matter," continued Ramses,
-
-"my holy father explained it.
-
-"'My son,' said he, 'these pyramids are an eternal proof of superhuman
-
-power in Egypt. If any man wished to raise to himself a pyramid he
-
-would pile up a small heap of stones and abandon his labor after some
-
-hours had passed, asking: 'What good is this to me?' Ten, one hundred,
-
-one thousand men would pile up a few more stones. They would throw them
-
-down without order, and leave the work after a few days, for what good
-
-would it be to them?
-
-"'But when a pharaoh of Egypt decides, when the Egyptian state has
-
-decided to rear a pile of stones, thousands of legions of men are sent
-
-out, and for a number of tens of years they build, till the work is
-
-completed. For the question is not this: Are the pyramids needed, but
-
-this is the will of the pharaoh to be accomplished, once it is
-
-uttered.' So, Pentuer, this pyramid is not the tomb of Cheops, but the
-
-will of Cheops, a will which had more men to carry it out than had any
-
-king on earth, and which was as orderly and enduring in action as the
-
-gods are.
-
-"While I was yet at school they taught me that the will of the people
-
-was a great power, the greatest power under the sun. And still the will
-
-of the people can raise one stone barely. How great, then, must be the
-
-will of the pharaoh who has raised a mountain of stones only because it
-
-pleased him, only because he wished thus, even were it without an
-
-object."
-
-"Wouldst thou, lord, wish to show thy power in such fashion?" inquired
-
-Pentuer, suddenly.
-
-"No," answered the prince, without hesitation. "When the pharaohs have
-
-once shown their power, they may be merciful; unless some one should
-
-resist their orders."
-
-"And still this young man is only twenty three years of age!" thought
-
-the frightened priest.
-
-They turned toward the river and walked some time in silence.
-
-"Lie down, lord," said the priest, after a while; "sleep. We have made
-
-no small journey."
-
-"But can I sleep?" answered the prince. "First I am surrounded by those
-
-legions of laborers who, according to thy view, perished in building
-
-the pyramids Just as if they could have lived forever had they not
-
-raised those structures! Then, again, I think of his holiness, my
-
-father, who is dying, perhaps, at this very moment. Common men suffer,
-
-common men spill their blood! Who will prove to me that my divine
-
-father is not tortured more on his costly bed than thy toilers who are
-
-carrying heated stones to a building?
-
-"Laborers, always laborers! For thee, O priest, only he deserves
-
-compassion who bites lice. A whole series of pharaohs have gone into
-
-their graves; some died in torments, some were killed. But Thou
-
-thinkest not of them; Thou thinkest only of those whose service is that
-
-they begot other toilers who dipped up muddy water from the Nile, or
-
-thrust barley balls into the mouths of their milch cows.
-
-"But my father and I? Was not my son slain, and also a woman of my
-
-household? Was Typhon compassionate to me in the desert? Do not my
-
-bones ache after a long journey? Do not missiles from Libyan slings
-
-whistle over my head? Have I a treaty with sickness, with pain, or with
-
-death, that they should be kinder to me than to thy toilers?
-
-"Look there: the Asiatics are sleeping, and quiet has taken possession
-
-of their breasts; but I, their lord, have a heart full of yesterday's
-
-cares, and of fears for the morrow. Ask a toiling man of a hundred
-
-years whether in all his life he had as much sorrow as I have had
-
-during my power of a few months as commander and viceroy."
-
-Before them rose slowly from the depth of the night a wonderful shade.
-
-It was an object fifty yards long and as high as a house of three
-
-stories, having at its side, as it were, a five-storied tower of
-
-uncommon structure.
-
-"Here is the Sphinx," said the irritated prince, "purely priests' work!
-
-Whenever I see this, in the day or the night time, the question always
-
-tortures me: What is this, and what is the use of it? The pyramids I
-
-understand: Almighty pharaoh wished to show his power, and, perhaps,
-
-which was wiser, wished to secure eternal life which no thief or enemy
-
-might take from him. Drat this Sphinx! Evidently that is our sacred
-
-priestly order, which has a very large, wise head and lion's claws
-
-beneath it.
-
-"This repulsive statue, full of double meaning, which seems to exult
-
-because we appear like locusts when we stand near it, it is neither a
-
-man nor a beast nor a rock What is it, then? What is its meaning? Or
-
-that smile which it has If Thou admire the everlasting endurance of the
-
-pyramids, it smiles; if Thou go past to converse with the tombs, it
-
-smiles. Whether the fields of Egypt are green, or Typhon lets loose his
-
-fiery steeds, or the slave seeks his freedom in the desert, or Ramses
-
-the Great drives conquered nations before him, it has for all one and
-
-the same changeless smile. Nineteen dynasties have passed like shadows;
-
-but it smiles on and would smile even were the Nile to grow dry, and
-
-were Egypt to disappear under sand fields.
-
-"Is not that monster the more dreadful that it has a mild human visage?
-
-Lasting itself throughout ages, it has never known grief over life,
-
-which is fleeting and filled with anguish."
-
-"Dost Thou not remember, lord, the 'faces of the gods," interrupted
-
-Pentuer, "or hast Thou not seen mummies? All immortals look on
-
-transient things with the selfsame indifference. Even man does when
-
-nearing the end of his earth-life."
-
-"The gods hear our prayers sometimes, but the Sphinx never moves. No
-
-compassion on that face, a mere gigantic jeering terror. If I knew that
-
-in its mouth were hidden some prophecy for me, or some means to elevate
-
-Egypt, I should not dare to put a question. It seems to me that I
-
-should hear some awful answer uttered with unpitying calmness. This is
-
-the work and the image of the priesthood. It is worse than man, for it
-
-has a lion's body; it is worse than a beast, for it has a human head;
-
-it is worse than stone, for inexplicable life is contained in it."
-
-At that moment groaning and muffled voices reached them, the source of
-
-which they could not determine.
-
-"Is the Sphinx singing?" inquired the astonished prince.
-
-"That singing is in the underground temple," replied Pentuer. "But why
-
-are they praying at this night hour?"
-
-"Ask rather why they pray at all, since no one hears them."
-
-Pentuer took the direction at once and went toward the place of the
-
-singing. The prince found some stone for a support and sat down
-
-wearied. He put his hands behind him, leaned back, and looked into the
-
-immense face before him.
-
-In spite of the lack of light, the superhuman features were clearly
-
-visible; just the shade added life and character. The more the prince
-
-gazed into that face, the more powerfully he felt that he had been
-
-prejudiced, that his dislike was unreasonable.
-
-On the face of the Sphinx, there was no cruelty, but rather
-
-resignation. In its smile there was no jeering, but rather sadness. It
-
-did not feel the wretchedness and fleeting nature of mankind, for it
-
-did not see them. Its eyes, filled with expression, were fixed
-
-somewhere beyond the Nile, beyond the horizon, toward regions concealed
-
-from human sight beneath the vault of heaven. Was it watching the
-
-disturbing growth of the Assyrian monarchy? Or the impudent activity of
-
-Phoenicia? Or the birth of Greece, or events, perhaps, which were
-
-preparing on the Jordan? Who could answer?
-
-The prince was sure of one thing, that it was gazing, thinking, waiting
-
-for something with a calm smile worthy of supernatural existence. And,
-
-moreover, it seemed to him that if that something appeared on the
-
-horizon, the Sphinx would rise up and go to meet it.
-
-What was that to be, and when would it come? This was a mystery the
-
-significance of which was depicted expressly on the face of that
-
-creature which had existed for ages. But it would of necessity take
-
-place on a sudden, since the Sphinx had not closed its eyes for one
-
-instant during millenniums, and was gazing, gazing, always.
-
-Meanwhile Pentuer found a window through which came from the
-
-underground temple pensive hymns of the priestly chorus:
-
-Chorus I. "Rise, as radiant as Isis, rise as Sotis rises on the
-
-firmament in the morning at the beginning of the established year."
-
-Chorus II. "The god Amon-Ra was on my right and on my left. He himself
-
-gave into my hands dominion over all the world, thus causing the
-
-downfall of my enemies."
-
-Chorus I. "Thou wert still young, Thou wert wearing braided hair, but
-
-in Egypt naught was done save at thy command no corner-stone was laid
-
-for an edifice unless Thou wert present."
-
-Chorus II. "I came to Thee, ruler of the gods, great god, lord of the
-
-sun. Turn promises that the sun will appear, and that I shall be like
-
-him, and the Nile; that I shall reach the throne of Osiris, and shall
-
-possess it forever."
-
-Chorus I. "Thou hast returned in peace, respected by the gods, O ruler
-
-of both worlds, Ra-Mer-Amen-Ramses. I assure to thee unbroken rule;
-
-kings will come to thee to pay tribute."
-
-Chorus II. "O thou, Thou Osiris-Ramses! ever-living son of heaven, born
-
-of the goddess Nut, may thy mother surround thee with the mystery of
-
-heaven, and permit that Thou become a god, O thou, O Osiris-Ramses."
-
-[Tomb inscriptions]
-
-"So then the holy father is dead," said Pentuer to himself.
-
-He left the window and approached the place where the heir was sitting,
-
-sunk in imaginings.
-
-The priest knelt before him, fell on his face, and exclaimed:
-
-"Be greeted, O pharaoh, ruler of the world!"
-
-"What dost Thou say?" cried the prince, springing up.
-
-"May the One, the All-Powerful, pour down on thee wisdom and strength,
-
-and happiness on thy people."
-
-"Rise, Pentuer! Then I then I."
-
-Suddenly he took the arm of the priest and turned toward the Sphinx.
-
-"Look at it," said he.
-
-But neither in the face nor in the posture of the colossus was there
-
-any change. One pharaoh had stepped over the threshold of eternity;
-
-another rose up like the sun, but the stone face of the god or the
-
-monster was the same precisely. On its lips was a gentle smile for
-
-earthly power and glory; in its glance there was a waiting for
-
-something which was to come, but when no one knew.
-
-Soon the messengers returned from the ferry with information that boats
-
-would be waiting there.
-
-Pentuer went among the palms, and cried,
-
-"Wake! wake!"
-
-The watchful Asiatics sprang up at once, and began to bridle their
-
-horses. Tutmosis also rose, and yawned with a grimace.
-
-"Brr!" grumbled he, "what cold! Sleep is a good thing! I barely dozed a
-
-little, and now I am able to go even to the end of the world, even
-
-again to the Soda Lakes. Brr! I have forgotten the taste of wine, and
-
-it seems to me that my hands are becoming covered with hair, like the
-
-paws of a jackal. And it is two hours to 'the palace yet.
-
-"Happy are common men! One ragged rogue sleeps after another and feels
-
-no need of washing: he will not go to work till his wife brings a
-
-barley cake; while I, a great lord, must wander about, like a thief in
-
-the night, through the desert, without a drop of water to put to my
-
-lips."
-
-The horses were ready, and Ramses mounted his own.  Pentuer approached,
-
-took the bridle of the ruler's steed, and led, going himself on foot.
-
-"What is this?" inquired the astonished Tutmosis.
-
-He bethought himself quickly, ran up, and took Ramses' horse by the
-
-bridle on the other side. And so all advanced in silence, astonished at
-
-the bearing of the priest, though they felt that something important
-
-had happened.
-
-After a few hundred steps the desert ceased, and a highroad through the
-
-field lay before the travelers.
-
-"Mount your horses," said Ramses; "we must hurry."
-
-"His holiness commands you to sit on your horses," cried Pentuer.
-
-All were amazed. But Tutmosis recovered quickly, and placed his hand on
-
-his sword-hilt.
-
-"May he live through eternity, our all-powerful and gracious leader
-
-Ramses!" shouted the adjutant.
-
-"May he live through eternity!" howled the Asiatics, shaking their
-
-weapons.
-
-"I thank you, my faithful warriors," answered their lord.
-
-A moment later the mounted party was hastening toward the river.
+W chwilę później konny orszak pędził w stronę rzeki.

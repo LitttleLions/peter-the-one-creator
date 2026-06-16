@@ -1,655 +1,186 @@
-# Kapitel 21: CHAPTER XXI
+# Kapitel 021: Tom I - Rozdział XXI
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part25.xhtml*
 
 <!-- status: pending -->
 
-Prince Ramses began his journey in the most beautiful season of the
+Podróż księcia następcy zaczęła się w najpiękniejszej porze roku, w miesięcu Famenut (koniec grudnia, początek stycznia).
 
-year, during the month Phamenoth (end of December and beginning of
+Woda spadła do połowy wysokości, odsłaniając coraz nowe płaty ziemi. Od Tebów płynęły do morza mnogie tratwy z pszenicą; w Dolnym Egipcie zbierano koniczynę i senes. Drzewa pomarańczowe i granaty okryły się kwiatami, a na polach siano: łubin, len, jęczmień, bób, fasolę, ogórki i inne rośliny ogrodowe.
 
-January). The river had fallen to half its height, laying bare new
+Odprowadzony do przystani memfiskiej przez kapłanów, najwyższych urzędników państwa, gwardię jego świątobliwości faraona i tłumy ludu, książę namiestnik, Ramzes, wszedł do złocistej barki około dziesiątej rano. Pod pomostem, na którym stały kosztowne namioty, dwudziestu żołnierzy robiło wiosłami; zaś pod masztem i na obu końcach łodzi zajęli miejsca najlepsi inżynierowie wodni. Jedni pilnowali żagla, drudzy komenderowali wioślarzami, inni nadawali kierunek statkowi.
 
-strips of land day by day. From Thebes many barges with wheat were
+Ramzes zaprosił do swej barki najczcigodniejszego arcykapłana Mefresa i świętego ojca Mentezufisa, którzy mieli mu towarzyszyć w podróży i pełnieniu władzy. Wezwał też dostojnego nomarchę Memfisu, który księcia odprowadzał do granic swojej prowincji.
 
-sailing down toward the sea; in Lower Egypt clover and beans had been
+Na kilkaset kroków przed namiestnikiem płynął piękny statek dostojnego Otoesa, który był nomarchą Aa, prowincji sąsiadującej z Memfisem. Zaś za księciem uszykowały się niezliczone statki, zajęte przez dwór, kapłanów, oficerów i urzędników.
 
-harvested. Orange and pomegranate trees were covered with blossoms; in
+Żywność i służba odjechały wcześniej.
 
-the fields earth tillers had sown lupines, flax, barley, and had
+Nil do Memfisu płynie między dwoma pasmami gór. Dalej góry skręcają na wschód i zachód, a rzeka dzieli się na kilka ramion, których wody toczą się ku morzu przez wielką równinę.
 
-planted various beans, cucumbers, and other garden products.
+Gdy statek odbił od przystani, książę chciał porozmawiać z arcykapłanem Mefresem. W tej chwili jednak zerwał się taki okrzyk tłumu, że następca musiał wyjść spod namiotu i ukazać się ludowi.
 
-Escorted to the landing of Memphis by priests, the highest dignitaries
+Lecz wrzawa zamiast zmniejszyć się rosła. Na obu brzegach stały i wciąż zwiększały się tłumy półnagich wyrobników lub odzianych w świąteczne szaty mieszczan. Bardzo wielu miało wieńce na głowach, prawie wszyscy zielone gałązki w rękach. Niektóre grupy śpiewały, wśród innych rozlegał się łoskot bębnów i dźwięki fletów.
 
-of the state, the guards of his holiness the pharaoh, the heir entered
+Gęsto ustawione wzdłuż rzeki żurawie z kubłami próżnowały. Natomiast krążył po Nilu rój drobnych czółenek, których osady rzucały kwiaty pod barkę następcy. Niektórzy sami skakali w wodę i płynęli za książęcym statkiem.
 
-a gilded barge about ten in the morning. Under the bridge, on which
+„Ależ oni tak mnie pozdrawiają jak jego świątobliwość!...” — pomyślał książę.
 
-were costly tents, twenty soldiers worked the oars, at the mast and at
+I wielka duma opanowała jego serce na widok tylu strojnych statków, które mógł zatrzymać jednym skinieniem, i tych tysięcy ludzi, którzy porzucili swoje zajęcia i narażali się na kalectwo, nawet na śmierć, byle spojrzeć w jego boskie oblicze.
 
-both ends of the boat the best naval engineers had taken their places.
+Szczególniej upajał Ramzesa niezmierny krzyk tłumu nie ustający ani na chwilę. Krzyk ten napełniał mu piersi, uderzał do głowy, podnosił go. Zdawało się księciu, że gdyby skoczył z pomostu, nawet nie dosięgnąłby wody, bo zapał ludu porwałby go i uniósł ku niebu jak ptaka.
 
-Some looked after the sails, others commanded the rowers, while still
+Statek nieco zbliżył się ku lewemu brzegowi, postacie tłumu zarysowały się wyraźniej i książę spostrzegł coś, czego się nie spodziewał. Podczas gdy pierwsze szeregi ludu klaskały i śpiewały, w dalszych widać było kije, gęsto i szybko spadające na niewidzialne grzbiety.
 
-others steered the vessel.
+Zdziwiony namiestnik zwrócił się do nomarchy Memfisu.
 
-Ramses had invited to his boat the most worthy high priest Mefres and
+— Spojrzyj no, wasza dostojność... Tam kije są w robocie?...
 
-the holy father Mentezufis, who were to be with him on the journey and
+Nomarcha przysłonił ręką oczy, szyja poczerwieniała mu...
 
-in governing. The prince had invited also the worthy nomarch of
+— Wybacz, najdostojniejszy panie, ale ja źle widzę...
 
-Memphis, who conducted him to the boundary of his province.
+— Biją... z pewnością biją — powtarzał książę.
 
-Some hundreds of yards in front of the viceroy sailed the beautiful
+— To jest możliwe — odparł nomarcha. — Zapewne policja schwytała bandę złodziei...
 
-boat of the worthy Otoes, nomarch of Aa, a province adjoining the
+Niezbyt zadowolony następca poszedł na tył statku, między inżynierów, którzy nagle skręcili ku środkowi rzeki, i z tego punktu spojrzał ku Memfisowi.
 
-capital. Behind the prince came countless barges occupied by the court,
+Brzegi w górze Nilu były prawie puste, czółenka znikły, żurawie czerpiące wodę pracowały, jak gdyby nic nie zaszło.
 
-by priests, by officials and officers.
+— Już skończyła się uroczystość?... — zapytał książę jednego z inżynierów, wskazując w górę rzeki.
 
-Provisions and servants had been dispatched earlier.
+— Tak... Ludzie wrócili do roboty — odparł inżynier.
 
-The Nile flows to Memphis between two lines of mountains. Farther the
+— Bardzo prędko!...
 
-mountains turn eastward and westward, and the river divides into a
+— Muszą odzyskać czas stracony — rzekł nieostrożnie inżynier.
 
-number of arms in which the water flows through a broad plain to the
+Następca drgnął i bystro spojrzał na mówiącego. Lecz wnet uspokoił się i wrócił pod namiot. Okrzyki nic go już nie obchodziły. Był pochmurny i milczący. Po wybuchu dumy uczuł pogardę dla tłumu, który tak prędko przechodzi od zapału do żurawi czerpiących błoto.
 
-Mediterranean.
+W tej okolicy Nil zaczyna dzielić się na odnogi. Statek naczelnika nomesu Aa skręcił ku zachodowi i po godzinnej jeździe przybił do brzegu. Tłumy były jeszcze liczniejsze aniżeli pod Memfisem. Ustawiono mnóstwo słupów z chorągwiami i bram triumfalnych owiniętych zielenią. Między ludem coraz częściej można było napotkać obce twarze i ubiory.
 
-When the barge had pushed away from the landing, the prince wished to
+Gdy książę wysiadł na ląd, zbliżyli się kapłani z baldachimem, a dostojny nomarcha Otoes rzekł do niego:
 
-converse with Mefres, the high priest. But at that moment such a shout
+— Bądź pozdrowiony, namiestniku boskiego faraona, w granicach nomesu Aa. Na znak łaski swej, która jest dla nas niebieską rosą, chciej złożyć ofiarę bogu Ptah, naszemu patronowi, i przyjmij pod swoją opiekę i władzę ten nomes z jego świątyniami, urzędnikami, ludem, bydłem, zbożem i wszystkim, co się tu znajduje.
 
-broke forth that he was forced to leave his tent and show himself to
+Następnie zaprezentował mu grupę młodych elegantów, pachnących, uróżowanych, ubranych w szaty haftowane złotem. Byli to bliżsi i dalsi krewni nomarchy, miejscowa arystokracja.
 
-the people.
+Ramzes przypatrzył im się z uwagą.
 
-The uproar grew greater, however, instead of subsiding. On both shores
+— Aha! — zawołał. — Zdawało mi się, że czegoś brakuje tym panom, i już widzę. Oni nie mają peruk...
 
-stood and increased every moment throngs of half naked laborers, or
+— Ponieważ ty, najdostojniejszy książę, nie używasz peruki, więc i nasza młodzież ślubowała sobie nie nosić tego stroju — odparł nomarcha.
 
-people of the city dressed in holiday garments. Very many had garlands
+Po tym objaśnieniu jeden z młodych ludzi stanął za księciem z wachlarzem, drugi z tarczą, trzeci z włócznią i rozpoczął się pochód. Następca szedł pod baldachimem, przed nim kapłan z puszką, w której paliły się kadzidła — wreszcie kilka młodych dziewcząt rzucających róże na ścieżkę, którą książę miał przechodzić.
 
-on their heads, almost all held green branches in their hands. Some
+Lud w świątecznych strojach, z gałązkami w rękach, tworzył szpaler i krzyczał, śpiewał lub padał na twarz przed zastępcą faraona. Ale książę spostrzegł, że mimo głośnych oznak radości twarze są martwe i zakłopotane. Zauważył też, że tłum jest podzielony na grupy, którymi dyrygują jacyś ludzie, i że uciecha odbywa się na komendę. I znowu uczuł w sercu chłód pogardy dla tego motłochu, który nawet cieszyć się nie umie.
 
-groups sang; among others were heard the beating of drums and the sound
+Z wolna orszak zbliżył się do murowanej kolumny, która odgraniczała nomes Aa od nomesu memfijskiego. Na kolumnie, z trzech stron, znajdowały się napisy dotyczące: rozległości, ludności i liczby miast prowincji, z czwartej strony stał posąg bożka Ptah, okręconego od stóp do piersi w powijaki, w zwykłym czepcu na głowie, z laską w ręku.
 
-of flutes.
+Jeden z kapłanów podał księciu złotą łyżkę z płonącym kadzidłem. Następca, odmawiając przepisane modlitwy, wyciągnął kadzielnicę na wysokość oblicza bóstwa i kilkakrotnie nisko się skłonił.
 
-Well-sweeps planted thickly along the river with buckets stood idle,
+Okrzyki ludu i kapłanów wzmogły się jeszcze bardziej, choć między arystokratyczną młodzieżą widać było uśmieszki i drwinki. Książę, który od czasu pogodzenia się z Herhorem okazywał wielki szacunek bogom i kapłanom, lekko zmarszczył brwi, i w jednej chwili młodzież zmieniła postawę. Wszyscy spoważnieli, a niektórzy upadli na twarz przed kolumną.
 
-but on the Nile circled a swarm of small boats, the occupants of which
+„Zaprawdę! — pomyślał książę — ludzie szlachetnego urodzenia lepsi są aniżeli ten motłoch... Cokolwiek czynią, sercem czynią, nie jak ci, którzy wrzeszcząc na moją cześć, radzi by jak najprędzej wrócić do swoich obór i warsztatów...”
 
-cast flowers at the barge of the viceroy. Some of them sprang into the
+Teraz, lepiej niż kiedykolwiek, zmierzył odległość, jaka istniała pomiędzy nim i prostakami. I zrozumiał, że tylko arystokracja jest klasą, z którą łączy go wspólność uczuć. Gdyby nagle znikli ci strojni młodzieńcy i piękne kobiety, których płonące spojrzenia śledzą każdy jego ruch, ażeby natychmiast służyć mu i spełniać rozkazy, gdyby ci znikli, książę wśród niezliczonych tłumów ludu czułby się samotniejszym aniżeli w pustyni.
 
-water and swam after the vessel.
+Ośmiu Murzynów przyniosło lektykę ozdobioną nad baldachimem strusimi piórami i książę, wsiadłszy w nią, udał się do stolicy nomesu, Sochem, gdzie zamieszkał w rządowym pałacu.
 
-"They greet me as they would his holiness," thought the viceroy.
+Pobyt Ramzesa w tej prowincji, o kilka mil zaledwie oddalonej od Memfisu, ciągnął się miesiąc. Cały zaś ten czas upłynął mu na przyjmowaniu próśb, odbieraniu hołdów, prezentacjach urzędników i ucztach.
 
-And great pride possessed his heart at sight of so many stately barges
+Uczty odbywały się podwójne: jedne w pałacu, w których przyjmowała udział tylko arystokracja, drugie — w dziedzińcu zewnętrznym, gdzie pieczono całe woły, zjadano setki sztuk chleba i wypijano setki dzbanów piwa. Tu raczyła się służba książęca i niżsi urzędnicy nomesu.
 
-which he could detain at one sweep of the hand, and those thousands who
+Ramzes podziwiał hojność nomarchy i przywiązanie wielkich panów, którzy dniem i nocą otaczali namiestnika, czujni na każde jego skinienie i gotowi spełniać rozkazy.
 
-had left their occupations and ran the risk even of death just to see
+Nareszcie, zmęczony zabawami, książę oświadczył dostojnemu Otoesowi, że chce bliżej poznać gospodarstwo prowincji. Taki bowiem otrzymał rozkaz od jego świątobliwości faraona.
 
-his divine countenance.
+Życzeniu stało się zadość. Nomarcha poprosił księcia, aby usiadł do lektyki, niesionej tylko przez dwu ludzi, i z wielkim orszakiem zaprowadził go do świątyni bóstwa Hator. Tam orszak został w przysionku, a nomarcha kazał tragarzom wnieść księcia na szczyt jednego z pylonów i sam mu towarzyszył.
 
-Ramses was delighted, especially by that immense shout which rose from
+Ze szczytu sześciopiętrowej wieży, skąd kapłani obserwowali niebo i za pomocą kolorowych chorągwi porozumiewali się z sąsiednimi świątyniami w Memfis, Athribis i Anu
 
-the people without ceasing for an instant. That shout filled his
+Ramzes był zachwycony pięknym widokiem i gorąco dziękował Otoesowi za doznaną przyjemność. Lecz gdy wrócił do pałacu i wedle rady ojca zaczął notować wrażenia, przekonał się, że jego wiadomości o ekonomicznym stanie nomesu Aa nie rozszerzyły się.
 
-breast, rose to his head, exalted him. It seemed to the prince that if
+Po paru dniach znowu zażądał od Otoesa wyjaśnień dotyczących administracji prowincją. Wówczas dostojny pan kazał zgromadzić się wszystkim urzędnikom i przedefilować przed księciem, który w głównym dziedzińcu siedział na wzniesieniu.
 
-he should spring from the barge he would not touch water, for the
+Więc przesuwali się około namiestnika wielcy i mali podskarbiowie, pisarze od zbóż, wina, bydła i tkanin. Naczelnicy mularzy i kopaczy, inżynierowie lądowi i wodni, lekarze różnych chorób, oficerowie pułków robotniczych, pisarze policji, sędziowie, dozorcy więzień, nawet paraszytowie i oprawcy. Po nich dostojny nomarcha przedstawił Ramzesowi jego własnych urzędników tej prowincji. Książę zaś z niemałym zdziwieniem dowiedział się, że w nomesie Aa i mieście Sochem posiada: osobnego woźnicę, łucznika, nosiciela tarczy, włóczni i topora, kilkunastu lektykarzy, paru kucharzy, podczaszych, fryzjerów i wielu innych służebników, odznaczających się przywiązaniem i wiernością, choć Ramzes wcale ich nie znał i nawet nie słyszał ich nazwisk.
 
-enthusiasm of the multitude would seize him and bear him aloft above
+Zmęczony i znudzony jałowym przeglądem urzędników, książę upadł na duchu. Przerażała go myśl, że on nic nie pojmuje, że więc jest niezdolny do kierowania państwem. Lecz nawet przed samym sobą lękał się przyznać do tego.
 
-the earth, as a bird is borne in flying.
+Bo jeżeli nie potrafi rządzić Egiptem, a inni poznają się na tym, co mu pozostanie?... Tylko śmierć. Ramzes czuł, że poza tronem nie ma dla niego szczęścia, że bez władzy — nie mógłby istnieć.
 
-The barge approached the left bank somewhat; the forms of people were
+Lecz gdy parę dni odpoczął, o ile można było odpocząć w chaosie dworskiego życia, znowu wezwał do siebie Otoesa i rzekł mu:
 
-outlined more clearly, and the prince saw something which he had not
+— Prosiłem waszą dostojność, ażebyś mnie wtajemniczył w rządy swego nomesu. Zrobiłeś tak: pokazałeś mi kraj i urzędników, ale ja jeszcze nic nie wiem. Owszem, jestem jak człowiek w podziemiach naszych świątyń, który widzi dokoła siebie tyle dróg, że w końcu nie może wyjść na świat.
 
-expected. While persons in the first ranks were clapping their hands
+Nomarcha zafrasował się.
 
-and singing, in farther ones clubs were visible falling thickly and
+— Co mam robić?... — zawołał. — Czego chcesz ode mnie, władco?... Rzeknij tylko słowo, a oddam ci mój urząd, majątek, nawet głowę.
 
-swiftly on backs that were hidden.
+A widząc, że książę łaskawie przyjmuje te zapewnienia, prawił dalej:
 
-The astonished heir turned to the nomarch of Memphis.
+— W czasie podróży widziałeś lud tego nomesu. Powiesz, że nie byli wszyscy. Zgoda. Każę, aby wyszła cała ludność, a jest jej: mężów, kobiet, starców i dzieci około dwustu tysięcy sztuk. Z wierzchołka pylonu raczyłeś oglądać nasze terytorium. Lecz jeżeli pragniesz, możemy z bliska obejrzeć każde pole, każdą wieś i ulicę miasta Sochem.
 
-"But look, worthiness, sticks are at work there."
+Nareszcie pokazałem ci urzędników, między którymi, prawda, że brakowało najniższych. Ale wydaj rozkaz, a wszyscy staną jutro przed twoim obliczem i będą leżeli na brzuchach swych.
 
-The nomarch shaded his eyes with his hand, his neck became red.
+Cóż mam więcej uczynić?... odpowiedz, najdostojniejszy panie!...
 
-"Pardon, most worthy prince, but I see badly."
+— Wierzę ci, że jesteś najwierniejszy — odparł książę. — Objaśnij mi więc dwie rzeczy: jedną — dlaczego zmniejszyły się dochody jego świątobliwości faraona, drugą — co ty sam robisz w nomesie?...
 
-"They are beating surely they are beating!"
+Otoes zmieszał się, a książę prędko dodał:
 
-"That is possible," answered the nomarch. "Undoubtedly the priests have
+— Chcę wiedzieć: co tu robisz i jakimi sposobami rządzisz, gdyż jestem młody i dopiero zaczynam rządy...
 
-caught a band of thieves there."
+— Ale masz mądrość starca! — szepnął nomarcha.
 
-Not over-pleased with this conversation, the heir went toward the stern
+— Godzi się więc — mówił książę — ażebym ja wypytywał doświadczonych, a ty żebyś mi udzielał nauk.
 
-to the engineers, who turned the barge suddenly toward the middle of
+— Wszystko pokażę waszej dostojności i opowiem — rzekł Otoes. — Ale trzeba nam wydostać się w miejsce, gdzie nie ma tej wrzawy...
 
-the river, and from that point he looked back at Memphis.
+Istotnie w pałacu, który zajmował książę, na dziedzińcach wewnętrznych i zewnętrznych, tłoczyło się takie mnóstwo ludzi, jak na jarmarku. Jedli oni, pili, śpiewali, mocowali się lub gonili, a wszystko na chwałę namiestnika, którego byli sługami.
 
-Both banks higher up the Nile were almost deserted, the boats had
+Jakoż około trzeciej po południu nomarcha kazał wyprowadzić dwa konie, na których wraz z księciem wyjechali z miasta na zachód. Dwór zaś został w pałacu i bawił się jeszcze weselej.
 
-disappeared, the well-sweeps were moving as if nothing had happened.
+Dzień był piękny, chłodny, ziemia okryta zielonością i kwieciem. Nad głowami jeźdźców rozlegały się śpiewy ptaków, powietrze było pełne woni.
 
-"Is the solemnity over?" inquired the prince of an engineer, pointing
+— Jak tu przyjemnie! — zawołał Ramzes. — Pierwszy raz od miesiąca mogę zebrać myśli. A już zacząłem wierzyć, że w mojej głowie osiedlił się cały pułk wozów wojennych i od rana do nocy odbywa musztrę.
 
-to a higher place on the river.
+— Taki jest los mocarzy świata — odparł nomarcha.
 
-"It is. The people have returned to their work," said the engineer.
+Stanęli na wzgórzu. U stóp ich leżała ogromna łąka przecięta błękitną strugą. Na północy i na południu bieliły się mury miasteczek, za łąką, aż do krańca horyzontu, ciągnęły się czerwone piaski pustyni zachodniej, od której niekiedy wiało tchnienie upalnego wiatru jak z pieca.
 
-"Very quickly."
+Na łące pasły się niezliczone stada zwierząt domowych: rogate i bezrogie woły, owce, kozy, osły, antylopy, nawet nosorożce. Tu i ówdzie było widać kępy moczarów obrosłych roślinami wodnymi i krzakami, w których roiły się dzikie gęsi, kaczki, gołębie, bociany, ibisy i pelikany.
 
-"They must recover lost time," said the engineer, incautiously.
+— Spojrzyj, panie — rzekł nomarcha — oto obraz naszego kraju Queneh, Egiptu. Ozyrys umiłował ten pasek ziemi wśród pustyń, zasypał go roślinnością i zwierzętami, aby mieć z nich pożytek. Potem dobry bóg przyjął na siebie ludzką postać i był pierwszym faraonem. A gdy poczuł, że mu ciało więdnie, opuścił je i wstąpił w swego syna, a następnie w jego syna.
 
-The heir quivered, and looked at the man sharply. But he calmed himself
+Tym sposobem Ozyrys żyje między nami od wieków jako faraon i ciągnie korzyści z Egiptu i jego bogactw, które sam stworzył. Rozrósł się pan jak potężne drzewo. Konarami jego są wszyscy królowie egipscy, gałęźmi — nomarchowie i kapłani, a gałązkami — stan rycerski. Widzialny bóg zasiada na tronie ziemskim i pobiera należny mu dochód z kraju; niewidzialny przyjmuje ofiary w świątyniach i przez usta kapłanów opowiada swoją wolę.
 
-soon and returned to the tent. For him shouts were of no further
+— Mówisz prawdę — wtrącił książę. — tak jest napisano.
 
-interest. He was gloomy and silent. After an outburst of pride, he felt
+— Ponieważ Ozyrys-faraon — ciągnął nomarcha — nie może sam zajmować się ziemskim gospodarstwem, więc polecił czuwać nad swoim majątkiem nam, nomarchom, którzy z jego krwi pochodzimy.
 
-contempt for that throng which passed so promptly from enthusiasm to
+— To jest prawda — rzekł Ramzes. — Nawet niekiedy słoneczny bóg wciela się w nomarchę i daje początek nowej dynastii. Tak powstały dynastia memfiska, elefantyjska, tebeńska, ksoicka...
 
-well-sweeps and baling up muddy water.
+— Rzekłeś, panie — mówił dalej Otoes. — A teraz odpowiem na to, o co mnie pytałeś.
 
-At that point the Nile begins to separate into branches. The barge of
+Pytałeś: co ja tu robię w nomesie?... Pilnuję majątku Ozyrysa-faraona i mojej w nim cząstki. Spojrzyj na te stada: widzisz różne zwierzęta. Jedne dają mleko, inne mięso, inne wełnę i skóry. Podobnie ludność Egiptu: jedni dostarczają zbóż, inni wina, tkanin, sprzętów, budynków. Moją zaś rzeczą jest pobrać od każdego, co winien, i złożyć u stóp faraona.
 
-the chief of Aa turned toward the west, sailed an hour, and stopped at
+W dozorowaniu tak licznych stad sam nie podołałbym; więc wybrałem sobie czujne psy i mądrych pasterzy. Jedni doją zwierzęta, strzygą, zdejmują z nich skóry, drudzy pilnują, aby złodziej nie pokradł ich lub nie poszarpał drapieżnik. Podobnież z nomesem: nie zdążyłbym zebrać wszystkich podatków i ustrzec ludzi od złego; więc mam urzędników, którzy robią, co jest słuszne, a mnie składają rachunki ze swych czynności.
 
-the river bank. The crowds were still greater than at Memphis. A
+— Wszystko jest prawdą — przerwał książę — znam to i rozumiem. Lecz nie mogę dojść: dlaczego zmniejszyły się dochody jego świątobliwości, pomimo że są tak pilnowane?
 
-multitude of pillars had been set up with banners and triumphal arches
+— Chciej przypomnieć sobie, wasza dostojność — odparł nomarcha — że bóg Set, choć jest rodzonym bratem słonecznego Ozyrysa, nienawidzi go, walczy z nim i psuje wszelkie jego dzieła. On zsyła śmiertelne choroby na ludzi i bydło, on sprawia, że przybór Nilu jest za mały lub zanadto gwałtowny, on na Egipt w porze gorącej rzuca tumany piasków.
 
-entwined with green garlands. Among the people foreign faces and
+Gdy rok jest dobry, Nil dosięga pustyni, gdy zły — pustynia przychodzi do Nilu, a wówczas i dochody królewskie muszą być mniejsze.
 
-garments were more and more frequent.
+Spojrzyj, wasza cześć — mówił, wskazując na łąkę. — Liczne są te stada, ale za mojej młodości były liczniejsze. A kto temu winien? Nikt inny, tylko Set, któremu nie oprą się ludzkie siły. Ta łąka, dziś ogromna, była niegdyś jeszcze większą, i z tego miejsca nie widywano pustyni, która nas dziś przeraża.
 
-When the prince landed, the priests approached with a baldachin, and
+Gdzie bogowie walczą, człowiek nie poradzi; gdzie Set zwycięża Ozyrysa, któż mu zabiegnie drogę?
 
-the worthy nomarch Otoes began,
+Dostojny Otoes skończył; książę zwiesił głowę. Niemało nasłuchał się on w szkołach o łasce Ozyrysa i niegodziwościach Seta i jeszcze dzieckiem będąc, gniewał się, że z Setem nie zrobiono ostatecznych rachunków.
 
-"Be greeted, viceroy of the divine pharaoh, within the borders of Aa.
+„Jak ja urosnę — myślał wówczas — a udźwignę włócznię, poszukam Seta i spróbujemy się!...”
 
-As a sign of thy favor, which for us is as heavenly dew, be pleased to
-
-make an offering to the god Ptah, who is our patron, and take under thy
-
-protection and control this province, with its temples, officials,
-
-people, cattle, grain, and all that is here existent."
-
-Then he presented a group of young exquisites, fragrant, rouged,
-
-arrayed in gold-embroidered garments. Those were the remoter and nearer
-
-relatives of the nomarch, the local aristocracy.
-
-Ramses looked at them with attention.
-
-"Aha!" said he. "It seemed to me that these gentlemen lacked something,
-
-and now I see what it is, they have no wigs."
-
-"Because thou, most worthy prince, dost not wear wigs, our young men
-
-have vowed not to wear them," replied the nomarch.
-
-After this explanation one of the young men stood behind the prince
-
-with a fan, another with a shield, a third with a dart, and the
-
-procession began. The heir walked under the baldachin, before him a
-
-priest with a tube in which incense was burning; there were maidens
-
-also who scattered roses on the path over which the prince was to
-
-travel.
-
-The people in holiday garments, with branches in their hands, formed a
-
-line and shouted; they sang songs, or prostrated themselves before the
-
-lieutenant of the pharaoh. But the prince saw that in spite of the loud
-
-sounds of joy their faces were unenlivened and anxious. He saw also
-
-that the crowd was divided into groups which people of some sort were
-
-directing, and that the rejoicing took place by command. And again he
-
-felt in his heart a chill of contempt for that throng which knew not
-
-how to rejoice even.
-
-Gradually the retinue approached the walled column which indicated the
-
-boundary between Aa and Memphis. On three sides of the column were
-
-inscriptions describing the extent of the province, its population, and
-
-the number of its cities; on the fourth side was a statue of Ptah,
-
-surrounded from foot to breast with an envelope; he had the usual cap
-
-on his head and a staff in his hand.
-
-One of the priests gave the prince a golden spoon with burning incense.
-
-The heir uttered prescribed prayers, whirled the censer to the height
-
-of the divinity's head, and bowed low a number of times in succession.
-
-The shouts of the people and of the priests rose ever higher, though
-
-among youthful exquisites smiles and jests were observable. Since his
-
-reconciliation with Herhor the prince had shown great respect for gods
-
-and priests; so he frowned somewhat. In one moment the young men
-
-changed their bearing. All became serious, while some fell on their
-
-faces before the column.
-
-"Indeed," thought the prince, "people of noble birth are better than
-
-that rabble. Whatever nobles do they do it with spirit, not like those
-
-who make an uproar in my honor but are glad to hurry back to their
-
-workshops and stables."
-
-Now he measured better than ever the distance between him and the
-
-lowest people, and he understood that the aristocracy was the only
-
-class to which he was bound by a community of feeling. If suddenly they
-
-should vanish, those stately young men and beautiful women whose
-
-flashing glances followed every one of his movements, so as to serve
-
-him straightway and carry out his orders, if they should vanish, the
-
-prince would feel more alone among the countless throngs of people than
-
-in a desert.
-
-Eight negroes brought a litter adorned above the baldachin with ostrich
-
-feathers; the prince took his place in it, and advanced to the capital
-
-of Sochem, where he dwelt in a government palace.
-
-The prince's stay in that province, which was only a few miles from
-
-Memphis, lasted a month. All this time he passed in receiving
-
-petitions, in accepting homage, in official receptions, and at feasts.
-
-The feasts were of two kinds, one in the palace, at which the
-
-aristocracy were present; the other in the outer court, where whole
-
-oxen were roasted, loaves of bread were eaten by the hundred, and
-
-hundreds of pitchers of beer drunk. At these appeared servants of the
-
-prince and the lower officials of the province.
-
-Ramses admired the munificence of the nomarch, and the affection of the
-
-great lords around him, alert to every beck of his and ready to carry
-
-out his orders.
-
-Wearied at last by amusements, Ramses declared to the worthy Otoes that
-
-he wished to become more nearly acquainted with the management of the
-
-province, for he had received a command from his holiness the pharaoh
-
-to study it.
-
-His desire was satisfied. The nomarch requested the prince to sit in a
-
-litter borne by only two men, and with a great retinue escorted him to
-
-the temple of Hator. There the retinue remained in the antechamber, but
-
-the nomarch commanded the bearers to carry the prince to the summit of
-
-a pylon, which he himself ascended.
-
-From the summit of a tower, ninety feet high, whence priests observed
-
-the sky and communicated through colored flags with the neighboring
-
-temples in Memphis, Atribis, and Ann, the eye surveyed in the radius of
-
-some miles almost a whole province.
-
-From that place, too, the worthy Otoes showed Ramses the fields and
-
-vineyards of the pharaoh; he showed what canal they were clearing, what
-
-sluice they were repairing; he showed furnaces for smelting copper; he
-
-showed where the royal granaries' stood, where the lotus and papyrus
-
-swamps were, what fields were covered with sand, and so on till he had
-
-finished.
-
-Ramses was charmed with the beautiful view, and thanked Otoes warmly
-
-for the pleasure which he experienced. But when he returned to the
-
-palace, and, according to the advice of the pharaoh, noted impressions,
-
-he convinced himself that his knowledge of the economic conditions of
-
-Aa had not widened.
-
-After some days he asked explanations again of Otoes touching the
-
-administration of the province. The worthy lord commanded all the
-
-officials to assemble and pass before the prince, who sat in the main
-
-court on an elevation.
-
-Before the viceroy moved great and petty treasurers; scribes of grain,
-
-wine, cattle, woolen stuffs; chief masons, ditch-diggers, naval and
-
-land engineers, healers of various diseases, officers over regiments of
-
-laborers, police scribes, judges, inspectors of prisons, even
-
-executioners and dissectors. After them the worthy nomarch presented
-
-the prince's own officials in that province to him. Ramses learned
-
-therefore, with no small astonishment, that in Aa and in the city of
-
-Sochem he had his own personal charioteer, torch-bearer, shield-bearer,
-
-dart-bearer, mace-bearer, some tens of litter-bearers, a number of
-
-cooks, cup-bearers, barbers, and many other servitors distinguished for
-
-attachment and faithfulness, though he had not even heard their names
-
-and did not know them.
-
-Tortured and tired by a barren review of officials, the prince's
-
-courage fell. He was terrified by the thought that he understood
-
-nothing, hence was unfitted to rule; but he feared to confess this even
-
-to himself.
-
-If Ramses could not rule Egypt, and others were able to rule it, what
-
-remained to him? Nothing but death. Without the throne he could have no
-
-happiness. He felt that for him life would be impossible unless he had
-
-power.
-
-But when he had rested a few days, in so far as rest was attainable in
-
-that chaos of court life, he summoned Otoes, and said to him,
-
-"Worthiness, I have begged thee to acquaint me with the secret of
-
-governing Aa. Thou hast done so, Thou hast shown me the country and the
-
-officials, but still I know nothing. On the contrary, I am like a man
-
-in the underground divisions of a temple who sees so many passages
-
-about him that he is unable at last to find his way out into daylight."
-
-The nomarch was confused.
-
-"What am I to do?" asked he. "What dost Thou wish of me, O ruler? Only
-
-say the word and I will yield to thee office, property, even life."
-
-And, seeing that the prince received this assurance with graciousness,
-
-he continued,
-
-"During thy journey Thou hast seen the people of this province. Thou
-
-wilt say that all were not present. Agreed. I will command all to
-
-assemble, and they are, men, women, old men, and children, about two
-
-hundred thousand. From the summit of the pylon Thou wert pleased to
-
-survey our whole province. But if it be thy wish, we can examine from
-
-near by every field, every village, and every street of the city of
-
-Sochem. Finally I have shown thee the officials; it is true, the very
-
-lowest were absent. But command and all will stand before thee to-
-
-morrow and fall on their faces. What am I to do more? Tell me, most
-
-worthy lord."
-
-"I believe that Thou art most faithful," answered Ramses. "Therefore
-
-explain to me two things: first, why has the income of his holiness
-
-diminished? second, what art Thou doing thyself in the province?"
-
-Otoes was confused, and the prince added quickly,
-
-"I wish to know what Thou art doing here, and by what methods, since I
-
-am young and only commencing to govern."
-
-"Thou hast the wisdom of a century," whispered the nomarch.
-
-"Therefore it is proper," continued the prince, "that I should ask men
-
-of experience and that Thou shouldst give me knowledge."
-
-"I will show thee all, and give every explanation," said Otoes. "But we
-
-should go to a place where there is no uproar."
-
-In fact, in the palace which the prince occupied as many people
-
-thronged in the inner and outer court as at a fair. They ate, drank,
-
-sang, raced or rested, and all this to enhance the glory of the viceroy
-
-whom they were serving.
-
-About three in the afternoon, the nomarch gave command to bring two
-
-horses, and with the prince he rode forth from the city westward. The
-
-court remained in the palace and amused itself with still greater
-
-gladness.
-
-The day was beautiful, cool; the earth was covered with plants and
-
-flowers. Over the beads of the horsemen were heard the songs of birds,
-
-the air was full of fragrance.
-
-"How pleasant it is here!" exclaimed Ramses. "Now I am able to collect
-
-ray thoughts for the first time in a month. I had begun to think that a
-
-whole regiment of chariots had assembled in my head, and that from
-
-morning till evening reviews were held there."
-
-"Such is the fate of a ruler in this world," said the nomarch.
-
-They halted on an eminence. At their feet lay an immense meadow, cut
-
-through by a blue stream. On the north and on the south were white
-
-walls of towns; beyond the meadow on the rim of the horizon extended
-
-the reddish sands of the western desert, from which came an occasional
-
-breath of heated air, as if from a furnace.
-
-On the meadow were countless herds of animals, horned and hornless
-
-oxen, sheep, goats, asses, antelopes, even rhinoceroses.
-
-Here and there were visible swampy places covered with water plants and
-
-reeds in which were teeming wild geese, ducks, doves, storks, pelicans,
-
-and ibises.
-
-"Behold, lord," said Otoes, "a picture of our country, Quench, Egypt.
-
-Osiris fell in love with this strip of laud in the midst of deserts; he
-
-covered it with plants and living creatures, so as to have from them
-
-profit. Then the kindly god took a human form and became the first
-
-pharaoh. When he felt that his body was withering, he left it and
-
-entered into his son, and later on into his son's son.
-
-"Thus Osiris lives among us, since the beginning of ages, as pharaoh,
-
-and he gains profit from Egypt and its wealth which he himself created.
-
-The lord has extended like a mighty tree. All the pharaohs are his
-
-roots, the nomarchs and priests his larger branches, the nobles the
-
-smaller branches. The visible god sits on the throne of the earth and
-
-receives the income which belongs to him from Egypt; the invisible god
-
-receives offerings in the temples, and declares his will through the
-
-lips of the priesthood."
-
-"Thou utterest truth," said the viceroy. "Thus is it written."
-
-"Since Osiris the pharaoh," continued the nomarch, "cannot himself be
-
-occupied in the management of the country, he has appointed us
-
-nomarchs, who come of his blood, to watch over his property."
-
-"That is true," said Ramses. "Sometimes even the sun god becomes
-
-incarnate in a nomarch and begins a new dynasty. Thus rose the
-
-dynasties of Memphis, Elephantina, Thebes, and Ksoi."
-
-"Thou hast said it," continued Otoes. "But now I will answer that which
-
-Thou hast asked of me.
-
-"Thou hast asked what I do in this province? I guard the property of
-
-Osiris, the pharaoh, and my own part in it. Look at those flocks; Thou
-
-seest various animals. Some give milk, others flesh, others wool and
-
-skins. The people of Egypt give wheat, wine, woolen stuffs, vessels,
-
-houses. My affair is to take from each what he should give, and lay it
-
-down at the feet of the pharaoh."
-
-"In watching over the numerous herds I could not succeed alone; so I
-
-have chosen watchful dogs and wise shepherds. Some of my servants milk
-
-animals, shear them, remove their skins; others watch them so that
-
-thieves may not steal or the plunderer injure. So with the province. I
-
-could not collect all the taxes and guard men from evil; hence I have
-
-officials who do what is proper, and render account of their action."
-
-"All this is true," interrupted the prince. "I know and understand what
-
-Thou sayest. But I cannot comprehend why the income of his holiness
-
-decreases, though guarded well, as Thou hast told me."
-
-"Be pleased to remember," continued the nomarch, "that Set, though a
-
-full brother of the radiant Osiris, hates that god, wars with him, and
-
-deforms all his labors. He sends deadly diseases on beasts and on men;
-
-he causes the overflow of the Nile to be scant or over-violent, and he
-
-hurls clouds of sand in time of heat upon Egypt.
-
-"When a year is good, the Nile reaches the desert; when it is bad, the
-
-desert comes down to the Nile, and then the royal income decreases.
-
-"Look!" continued he, pointing at the meadow. "The flocks there are
-
-numerous, but in my youth they were greater in number. But who is the
-
-cause of this? No other than Set, whom human power cannot vanquish.
-
-This meadow, great today, was once greater, and from this spot they
-
-could not see the desert, which now is a terror.
-
-"When the gods are battling, men can do nothing; where Set conquers
-
-Osiris, who can bar the way to him?"
-
-The worthy Otoes finished; the prince hung his head. In school he had
-
-heard not a little about the love of Osiris and the malice of Set, and
-
-while still a child he was angry that no one had forced Set to a final
-
-reckoning.
-
-"When I grow up," thought he at that time, "and carry a javelin, I will
-
-seek out Set and we will make a trial."
-
-And he was looking now at that measureless sand space, that kingdom of
-
-the ominous godhead which was decreasing the income of Egypt; but he
-
-had no thought to do battle with Set. For how can man fight with the
-
-desert? Man can only avoid it or perish.
+I oto patrzył dziś na niezmierny obszar piasków, państwo złowrogiego boga, który umniejszał dochody Egiptu; ale o walce z nim nie myślał. Jak tu walczyć z pustynią?... Można ją tylko omijać albo w niej zginąć.

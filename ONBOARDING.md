@@ -72,7 +72,7 @@ books/<book-id>/
   styles/
   work/
     chapters/
-    scenes/ru/
+    scenes/<source_lang>/
     scenes/de/<style>/
     assembled/<style>/
     prompts/
@@ -109,7 +109,7 @@ python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter
 python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter 001 --style stil-01-original --format pdf --allow-partial
 ```
 
-`translate_batch.py` bereitet fehlende RU-Arbeitseinheiten vor und startet
+`translate_batch.py` bereitet fehlende Quell-Arbeitseinheiten vor und startet
 dann mehrere Uebersetzungs-/Prompt-Laeufe. Es baut nur mit
 `--assemble-after` Kapiteldateien zusammen und exportiert keine DOCX/EPUB/PDF.
 

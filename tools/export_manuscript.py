@@ -43,8 +43,8 @@ from lib.output_paths import (
     book_exports_root,
     book_output_root,
     find_scene_translations,
-    list_chapter_ids_with_ru_scenes,
-    list_ru_scene_paths,
+    list_chapter_ids_with_source_scenes,
+    list_source_scene_paths,
     parse_scene_number,
     source_chapter_path,
 )
@@ -220,26 +220,27 @@ def collect_chapter(
     chapter_id: str,
     style: str,
     allow_partial: bool,
+    source_lang: str = "ru",
 ) -> ChapterExport:
-    ru_paths = list_ru_scene_paths(output_root, chapter_id)
-    ru_nums = [
-        num for path in ru_paths
+    source_paths = list_source_scene_paths(output_root, chapter_id, source_lang)
+    source_nums = [
+        num for path in source_paths
         if (num := parse_scene_number(path, chapter_id)) is not None
     ]
     scene_map = find_scene_translations(output_root, chapter_id, style)
-    missing = [num for num in sorted(ru_nums) if num not in scene_map]
+    missing = [num for num in sorted(source_nums) if num not in scene_map]
     if missing and not allow_partial:
         return ChapterExport(
             chapter_id=chapter_id,
             title=get_title(output_root, chapter_id),
             scenes=[],
             missing=missing,
-            ru_count=len(ru_nums),
+            ru_count=len(source_nums),
             de_count=len(scene_map),
         )
     scenes = []
     for num in sorted(scene_map):
-        if ru_nums and num not in set(ru_nums):
+        if source_nums and num not in set(source_nums):
             continue
         text = clean_scene_markdown(scene_map[num].read_text(encoding="utf-8"))
         if text:
@@ -249,7 +250,7 @@ def collect_chapter(
         title=get_title(output_root, chapter_id),
         scenes=scenes,
         missing=missing,
-        ru_count=len(ru_nums),
+        ru_count=len(source_nums),
         de_count=len(scene_map),
     )
 
@@ -260,15 +261,16 @@ def collect_export(
     scope: str,
     chapter_id: str | None,
     allow_partial: bool,
+    source_lang: str = "ru",
 ) -> ExportResult:
     if scope == "chapter":
         if not chapter_id:
             raise SystemExit("--chapter ist bei --scope chapter erforderlich")
         chapter_ids = [chapter_id]
     else:
-        chapter_ids = list_chapter_ids_with_ru_scenes(output_root)
+        chapter_ids = list_chapter_ids_with_source_scenes(output_root, source_lang)
     chapters = [
-        collect_chapter(output_root, cid, style, allow_partial)
+        collect_chapter(output_root, cid, style, allow_partial, source_lang)
         for cid in chapter_ids
     ]
     missing = {
@@ -588,6 +590,11 @@ def display_chapter_title(chapter: ChapterExport, meta: dict[str, Any] | None = 
     if not meta:
         return clean_chapter_title(chapter)
     chapter_cfg = (display_config(meta).get("chapters") or {})
+    explicit_titles = chapter_cfg.get("titles") or {}
+    if isinstance(explicit_titles, dict):
+        explicit = explicit_titles.get(str(chapter.chapter_id))
+        if explicit:
+            return str(explicit)
     fmt = str(chapter_cfg.get("format") or "").strip()
     if not fmt:
         return clean_chapter_title(chapter)
@@ -2071,11 +2078,13 @@ def main() -> int:
         scope=args.scope,
         chapter_id=args.chapter,
         allow_partial=args.allow_partial,
+        source_lang=str(book.get("source_lang") or "ru"),
     )
     print(f"=== Export: {meta.get('title', book.get('title'))} ===")
     print(f"Scope: {args.scope}")
     print(f"Style: {args.style}")
     print(f"Format: {args.format}")
+    source_lang_label = str(book.get("source_lang") or "ru").upper()
     if result.missing_by_chapter:
         print("Fehlende Szenen:")
         for cid, nums in result.missing_by_chapter.items():
@@ -2091,7 +2100,7 @@ def main() -> int:
         print(
             f"Kapitel {chapter.chapter_id}: "
             f"{len(chapter.scenes)} Szenen exportierbar "
-            f"(RU={chapter.ru_count}, DE={chapter.de_count})"
+            f"({source_lang_label}={chapter.ru_count}, DE={chapter.de_count})"
         )
     illustrations = collect_illustrations(result.chapters, meta)
     if illustrations_enabled(meta):

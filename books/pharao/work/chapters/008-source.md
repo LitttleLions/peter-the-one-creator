@@ -1,381 +1,124 @@
-# Kapitel 8: CHAPTER VIII
+# Kapitel 008: Tom I - Rozdział VIII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part12.xhtml*
 
 <!-- status: pending -->
 
-The prince returned to his villa full of care, and summoned Tutmosis.
+Książę wrócił do swojej willi stroskany i wezwał Tutmozisa.
 
-"Thou must," said Ramses, "teach me how to find money."
+— Musisz mnie — rzekł Ramzes — nauczyć, jak dostaje się pieniądze...
 
-"Ha!" laughed the exquisite; "that is a kind of wisdom not taught in
+— Aha!... — roześmiał się elegant. — Oto jest mądrość, której nie uczą w najwyższych szkołach kapłańskich, ale w której ja mógłbym zostać prorokiem...
 
-the highest school of the priests, but wisdom in which I might be a
+— Tam wykładają, ażeby nie pożyczać pieniędzy — wtrącił książę.
 
-prophet."
+— Gdybym nie lękał się, ażeby warg moich nie splamiła bezbożność, powiedziałbym, że niektórzy kapłani marnują czas... Biedni ludzie, chociaż święci!... Nie jedzą mięsa, poprzestają na jednej żonie albo całkiem unikają kobiet i — nie wiedzą: co to jest pożyczać... Jestem kontent, Ramzesie — prawił Tutmozis — że ten rodzaj mądrości poznasz przy moich radach. Już dziś rozumiesz, jakich cierpień staje się źródłem brak pieniędzy. Człowiek potrzebujący pieniędzy nie ma apetytu, zrywa się przez sen, na kobiety patrzy ze zdziwieniem, jakby pytał: na co one są? W najchłodniejszej świątyni biją mu ognie do twarzy, a w największy upał, wśród pustyni, czuje dreszcz chłodu. Patrzy przed siebie jak obłąkany, nie słyszy, co do niego mówią, najczęściej chodzi w przekręconej peruce, której zapomniał napoić wonnościami, a uspokaja się tylko przy dzbanie mocnego wina, i to na krótko. Bo ledwie nieborak odzyska zmysły, znowu zaczyna czuć, jakby mu się ziemia rozstępowała pod nogami.
 
-"In those schools they explain that a man should not borrow money,"
+Widzę to — ciągnął elegant — po twoim niespokojnym chodzie i bezładnym wyrzucaniu rękoma, że w tej chwili doznajesz rozpaczy z powodu braku pieniędzy. Wkrótce jednak doznasz innych uczuć, jak gdyby ci zdjęto z piersi wielkiego sfinksa. Później ulegniesz słodkiemu stanowi zapomnienia o swoich poprzednich kłopotach i teraźniejszych wierzycielach, a potem...
 
-said Ramses.
+Ach, szczęśliwy Ramzesie, czekają cię nadzwyczajne niespodzianki!... Bo gdy upłynie termin, a wierzyciele zaczną odwiedzać cię pod pozorem składania hołdu, będziesz jak jeleń ścigany przez psy albo jak dziewczyna egipska, która czerpiąc wodę z rzeki zobaczy sękaty grzbiet krokodyla.
 
-"If I did not fear that blasphemy might stain my lips, I should say
+— Wszystko to wygląda bardzo wesoło — przerwał, śmiejąc się, Ramzes — ale nie przynosi ani jednej drachmy...
 
-that some priests waste their time. They are wretched, though holy!
+— Nie kończ! — przerwał Tutmozis. — W tej chwili idę po fenickiego bankiera Dagona, a wieczorem, choćby ci jeszcze nie dał pieniędzy, odzyskasz spokój.
 
-They eat no meat, they are satisfied with one wife, or avoid women
+Wybiegł, wsiadł do małej lektyki i, otoczony służbą tudzież takimi jak sam letkiewiczami, zniknął w alejach parku.
 
-altogether, and they know not what it is to borrow. I am satisfied,
+Przed zachodem słońca do domu następcy tronu przyjechał Fenicjanin Dagon, najznakomitszy bankier w Memfis. Był to człowiek w sile wieku, żółty, suchy, ale dobrze zbudowany. Miał niebieską tunikę, na niej biały płaszcz z cienkiej tkaniny, ogromne włosy własne, ściśnięte złotą obrączką, i dużą czarną brodę, również własną. Bujny ten zarost imponująco wyglądał obok peruk i przyprawnych bródek egipskich elegantów.
 
-Ramses," continued the exquisite, "that Thou wilt know this kind of
+Mieszkanie następcy roiło się arystokratyczną młodzieżą. Jedni na dole kąpali się i namaszczali, inni grali w szachy i arcaby
 
-wisdom through my counsels. Today Thou wilt learn what a source of
+Po chwili we drzwiach ukazał się Dagon, przyklęknął na progu i zawołał:
 
-sensations lack of money is. A man in need of money has no appetite, he
+— Pozdrawiam cię, nowe słońce Egiptu!... Obyś żył wiecznie, a twoja sława oby dosięgła tych dalekich brzegów, kędy dobijają fenickie statki...
 
-springs up in sleep, he looks at women with astonishment, as if to ask,
+Na rozkaz księcia podniósł się i mówił z gwałtowną gestykulacją.
 
-'Why were they created?' Fire flashes in his face in the coolest
+— Kiedy dostojny Tutmozis wysiadł przed moją lepianką (lepianką jest mój dom wobec twoich pałaców, erpatre!), taki bił blask z jego twarzy, że zaraz krzyknąłem do żony: — Tamaro, dostojny Tutmozis nie od siebie przychodzi, ale od kogoś wyższego niż on sam, jak Liban jest wyższym od nadmorskich piasków. A żona pyta się: — Skąd wiesz, panie mój, że dostojny Tutmozis nie przychodzi od siebie?... — Stąd, że nie mógł przyjść z pieniędzmi, bo ich nie ma, i nie przyszedł po pieniądze, bo ja ich nie mam... — W tej chwili ukłoniliśmy się oboje dostojnemu Tutmozisowi. A gdy nam opowiedział, że to ty, najdostojniejszy panie, chcesz piętnastu talentów od swego niewolnika, ja zapytałem żony: — Tamaro, czy źle nauczyło mnie moje serce? — Dagonie, jesteś tak mądry, że powinieneś być doradcą następcy tronu... — odpowiedziała moja żona.
 
-temple. In the middle of a desert shivers of cold pass through him
+Ramzes kipiał z niecierpliwości, ale słuchał bankiera. On, który burzył się wobec własnej matki i faraona!
 
-during the greatest heat. He looks like a madman; he does not hear what
+— Kiedyśmy — prawił Fenicjanin — zastanowili się i zrozumieli, że ty, panie, chcesz moich usług, taka w nasz dom wstąpiła radość, że kazałem dać służbie dziesięć dzbanów piwa, a moja żona, Tamar, kazała, ażebym ja jej kupił nowe zausznice. Wesele moje tak się wzmogło, że kiedym tu jechał, nie pozwoliłem oślarzowi bić osłów. A kiedy niegodne moje stopy dotknęły waszej posadzki, książę, wydobyłem złoty pierścień (większy niż ten, który dostojny Herhor dał Eunanie!) i podarowałem ten złoty pierścień waszemu niewolnikowi, który mi nalał wody na ręce. Za pozwoleniem waszej dostojności, skąd pochodzi ten dzban srebrny, z którego poleli mi ręce?...
 
-people say to him. Very often he walks along with his wig awry and
+— Sprzedał mi go Azariasz, syn Gabera, za dwa talenty.
 
-forgets to sprinkle it with perfume. His only comfort is a pitcher of
+— Żyd?... Wasza dostojność z Żydami handluje?... A co na to powiedzą bogowie?...
 
-strong wine, and that for a brief moment. Barely has the poor man's
+— Azariasz jest kupcem jak wy — odparł następca.
 
-thoughts come back when again he feels as though the earth were opening
+Usłyszawszy to, Dagon oburącz schwycił się za głowę, zaczął pluć i jęczeć:
 
-under him.
+— O Baal Tammuz!... o Baaleth!... o Astoreth!... Azariasz, syn Gabera, Żyd, ma być takim kupcem jak ja!... O nogi moje, po coście mnie tu przyniosły?... O serce, za co cierpisz taki ból i naigrawanie?... Najdostojniejszy książę — krzyczał Fenicjanin — zbij mnie, utnij mi rękę, jeżeli będę fałszował złoto, ale nie mów, że Żyd może być kupcem. Prędzej upadnie Tyr, prędzej miejsce Sydonu
 
-"I see," continued the exquisite, "that at present Thou art passing
+W księciu, nie wiadomo dlaczego, gniew zawrzał, lecz i wnet uspokoił się, co wydało się dziwnym samemu Ramzesowi, który dotychczas wobec nikogo nie uważał za potrzebne hamować się.
 
-through despair from lack of money. But soon Thou wilt know other
+— A więc — odezwał się nagle następca — czy pożyczysz mi, zacny Dagonie, piętnaście talentów?
 
-feelings which will be as if a great sphinx were removed from thy
+— O Astoreth!... piętnaście talentów?... To jest tak wielki ciężar, że ja musiałbym usiąść, ażeby o nim dobrze pomyśleć.
 
-bosom. Then Thou wilt yield to the sweet condition of forgetting thy
+— Więc siadaj.
 
-previous trouble and present creditors, and then Ah, happy Ramses,
+— Za talent — mówił Fenicjanin, wygodnie siadając na krześle — można mieć dwadzieścia złotych łańcuchów albo sześćdziesiąt pięknych krów dojnych, albo dziesięciu niewolników do roboty, albo jednego niewolnika, który potrafi czy to grać na flecie, czy malować, a może nawet leczyć. Talent to straszny majątek!...
 
-unusual surprises will await thee! For the term will pass, and thy
+Księciu błysnęły oczy.
 
-creditors will begin to visit thee under pretence of paying homage.
+— Więc jeżeli nie masz piętnastu talentów... — przerwał książę.
 
-Thou wilt be like a deer hunted by dogs, or an Egyptian girl who, while
+Przestraszony Fenicjanin nagle zsunął się z krzesła na podłogę.
 
-raising water from the river, sees the knotty back of a crocodile."
+— Kto w tym mieście — zawołał — nie ma pieniędzy na twój rozkaz, synu słońca?... Prawda, że ja jestem nędzarz, którego złoto, klejnoty i wszystkie dzierżawy niewarte twojego spojrzenia, książę. Ale gdy obejdę naszych kupców i powiem, kto mnie wysłał, do jutra wydobędziemy piętnaście talentów choćby spod ziemi. Gdybyś ty, erpatre, stanął przed uschniętą figą i powiedział: „Dawaj pieniędzy!...” — figa zapłaciłaby okup... Tylko nie patrz tak na mnie, synu Horusa, bo czuję ból w dołku sercowym i miesza mi się umysł — mówił błagającym tonem Fenicjanin.
 
-"All this seems very gladsome," interrupted Ramses, smiling; "but it
+— No, usiądź, usiądź... — rzekł książę z uśmiechem.
 
-brings not one drachma."
+Dagon podniósł się z podłogi i jeszcze wygodniej rozparł się na krześle.
 
-"Never mind," continued Tutmosis. "I will go this moment to Dagon, the
+— Na jak długo książę chce piętnastu talentów? — zapytał.
 
-Phoenician banker, and in the evening Thou wilt find peace, though he
+— Zapewne na rok.
 
-may not have given thee money."
+— Powiedzmy od razu: na trzy lata. Tylko jego świątobliwość mógłby oddać w ciągu roku piętnaście talentów, ale nie młody książę, który co dzień musi przyjmować wesołych szlachciców i piękne kobiety... Ach, te kobiety!... Czy prawda, za pozwoleniem waszego dostojeństwa, że książę wziąłeś do siebie Sarę, córkę Gedeona?
 
-He hastened out, took his seat in a small litter, and surrounded by
+— A ile chcesz procentu? — przerwał książę.
 
-servants vanished in the alleys of the park.
+— Drobiazg, o którym nie mają potrzeby mówić wasze święte usta. Za piętnaście talentów da książę pięć talentów na rok, a w ciągu trzech lat ja wszystko odbiorę sam, tak że wasza dostojność nawet nie będzie wiedzieć...
 
-Before sunset Dagon, a Phoenician, the most noted banker in Memphis,
+— Dasz mi dzisiaj piętnaście talentów, a za trzy lata odbierzesz trzydzieści?...
 
-came to the house of Ramses. He was a man in the full bloom of life,
+— Prawo egipskie dozwala, ażeby suma procentów wyrównała pożyczce — odparł zmieszany Fenicjanin.
 
-yellow, lean, but well built. He wore a blue tunic and over it a white
+— Ale czy to nie za dużo?
 
-robe of thin texture. He had immense hair of his own, confined by a
+— Za dużo?... — krzyknął Dagon. — Każdy wielki pan ma wielki dwór, wielki majątek i płaci tylko wielkie procenta. Ja wstydziłbym się wziąć mniej od następcy tronu; a i sam książę mógłby kazać mnie zbić kijami i wypędzić, gdybym ośmielił się wziąć mniej...
 
-gold circlet, and a great black beard, his own also. This rich growth
+— Kiedyż przyniesiesz pieniądze?
 
-looked imposing in comparison with the wigs and false beards of
+— Przynieść?... O bogowie! tego jeden człowiek nie potrafi. Ja zrobię lepiej: ja załatwię wszystkie wypłaty księcia, ażebyś wasza dostojność nie potrzebował myśleć o takich nędznych sprawach.
 
-Egyptian exquisites.
+— Alboż ty znasz moje wypłaty?
 
-The dwelling of the heir to the throne was swarming with youth of the
+— Trochę znam — odparł niedbale Fenicjanin. — Książę chce posłać sześć talentów dla armii wschodniej, co zrobią nasi bankierzy w Chetem i Migdolu
 
-aristocracy. Some on the ground floor were bathing and anointing
+Ramzes niecierpliwie zaczął chodzić po pokoju.
 
-themselves, others were playing chess and checkers on the first story,
+— Więc mam ci dać rewers na trzydzieści talentów? — zapytał.
 
-others in company with dancing girls were drinking under tents on the
+— Jaki rewers?... Po co rewers?... Co ja bym miał z rewersu?... Mnie książę odda w dzierżawę na trzy lata swoje folwarki w nomesach: Takens, Ses
 
-terrace. Ramses neither drank, played, nor talked with women; he walked
+— Dzierżawa?... — rzekł książę. — Nie podoba mi się to...
 
-along one side of the terrace awaiting the Phoenician impatiently. When
+— Więc z czego ja odbiorę moje pieniądze... moje trzydzieści talentów?...
 
-he saw him emerge from an alley in a litter on two asses, he went to
+— Zaczekaj. Muszę najpierwej zapytać dozorcy stodół, ile przynoszą mi rocznie te majątki.
 
-the first story, where there was an unoccupied chamber.
+— Po co wasza dostojność ma zadawać sobie tyle pracy?... Co wie dozorca?... On nic nie wie, jakem uczciwy Fenicjanin. Każdego roku jest inny urodzaj i inny dochód... Ja mogę stracić na tym interesie, a wtedy dozorca nie zwróci mi...
 
-After awhile Dagon appeared in the door. He knelt on the threshold and
+— Ale widzisz, Dagonie, mnie się zdaje, że te majątki przynoszą daleko więcej aniżeli dziesięć talentów rocznie...
 
-exclaimed,
+— Nie chce książę zaufać mi, dobrze. Ja, na wasz rozkaz, mogę opuścić folwarki w Ses... Nie jest książę jeszcze pewny mego serca?... No, więc ja jeszcze ustąpię Sebt-Het... Ale po co tu dozorca? On księcia będzie uczył mądrości?... O Astoreth! ja bym stracił sen i apetyt, gdyby jaki dozorca, poddany i niewolnik, śmiał poprawiać mojego miłościwego pana. Tu potrzebny tylko pisarz, który napisze, że wy, najdostojniejszy panie, oddajecie mi w dzierżawę na trzy lata folwarki w tym, tym i tym nomesie. I potrzeba szesnastu świadków, że mnie spotkał taki honor od księcia. Ale po co służba ma wiedzieć, że ich pan pożycza ode mnie pieniądze?...
 
-"I greet thee, new sun of Egypt! Mayst Thou live through eternity, and
+Znudzony następca wzruszył ramionami.
 
-may thy glory reach those distant shores which are visited by the ships
+— Jutro — rzekł — przynieś pieniądze i sprowadź sobie pisarza i świadków. Ja o tym myśleć nie chcę.
 
-of Phoenicia."
-
-At command of the prince, he rose and said with violent gesticulations,
-
-"When the worthy Tutmosis descended before my mud hut my house is a mud
-
-hut in comparison with thy palaces, erpatr such was the gleam from his
-
-face that I cried at once to my wife, 'Tamara, the worthy Tutmosis has
-
-come not from himself, but from one as much higher than he as the
-
-Lebanon is higher than the sand of the seashore.' 'Whence dost Thou
-
-know, my lord, that the worthy Tutmosis has not come for himself?'
-
-'Because he could not come with money, since he has none, and he could
-
-not come for money, because I have none.' At that moment we bowed down
-
-both of us to the worthy Tutmosis. But when he told us that it was
-
-thou, most worthy lord, who desirest fifteen talents from thy slave, I
-
-asked my wife, 'Tamara, did my heart teach me badly?' 'Dagon, Thou art
-
-so wise that Thou shouldst be an adviser to the heir,' replied my
-
-Tamara."
-
-Ramses was boiling with impatience, but he listened to the banker, he,
-
-Ramses, who stormed in the presence of his own mother and the pharaoh.
-
-"When we, lord, stopped and understood that Thou wert desirous of my
-
-services, such delight entered my house that I ordered to give the
-
-servants ten pitchers of beer, and my wife Tamara commanded me to buy
-
-her new earrings. My joy was increased so that when coming hither I did
-
-not let my driver beat the asses. And when my unworthy feet touched thy
-
-floor, O prince, I took out a gold ring, greater than that which the
-
-worthy Herhor gave Eunana, and presented it to thy slave who poured
-
-water on my fingers. With permission, worthiness, whence came that
-
-silver pitcher from which they poured the water?"
-
-"Azarias, the son of Gaber, sold it to me for two talents."
-
-"A Jew? Erpatr, dost Thou deal with Jews? But what will the gods say?"
-
-"Azarias is a merchant, as Thou art," answered Ramses.
-
-When Dagon heard this, he caught his head with both hands, he spat and
-
-groaned,
-
-"O Baal Tammuz! O Baaleth! O Astoreth! Azarias, the son of Gaber, a
-
-Jew, to be such a merchant as I am. Oh, my legs, why did ye bring me
-
-hither? Oh, my heart, why dost Thou suffer such pain and palpitation?
-
-Most worthy prince," cried the Phoenician, "slay me, cut off my hand if
-
-I counterfeit gold, but say not that a Jew can be a merchant. Sooner
-
-will Tyre fall to the earth, sooner will sand occupy the site of Sidon
-
-than a Jew be a merchant. They will milk their lean goats, or mix clay
-
-with straw under blows of Egyptian sticks, but they will never sell
-
-merchandise. Tfu! tfu! Vile nation of slaves! Thieves, robbers!"
-
-Anger boiled up in the prince, it is unknown why, but he calmed himself
-
-quickly. This seemed strange to Ramses himself, who up to that hour had
-
-not thought self-restraint needed in his case in presence of any one.
-
-"And then," said the heir on a sudden, "wilt thou, worthy Dagon, loan
-
-me fifteen talents?"
-
-"O Astoreth! Fifteen talents? That is such a great weight that I should
-
-have to sit down to think of it properly."
-
-"Sit down then."
-
-"For a talent," said Dagon, sitting in an armchair comfortably, "a man
-
-can have twelve gold chains, or sixty beautiful milch cows, or ten
-
-slaves for labor, or one slave to play on the flute or paint, and maybe
-
-even to cure. A talent is tremendous property."
-
-The prince's eyes flashed,
-
-"Then Thou hast not fifteen talents?"
-
-The terrified Phoenician slipped suddenly from the chair to the floor.
-
-"Who in the city," cried he, "has not money at thy command, O child of
-
-the sun? It is true that I am a wretch whose gold, precious stones, and
-
-whole property is not worth one glance of thine, O prince, but if I go
-
-around among our merchants and say who sent me, I shall get fifteen
-
-talents even from beneath the earth. Erpatr, if Thou shouldst stand
-
-before a withered fig-tree and say 'Give money!' the fig-tree would pay
-
-thee a ransom. But do not look at me in that way, O son of Horus, for I
-
-feel a pain in the pit of my heart and my mind is growing blunted,"
-
-finished the Phoenician, in tones of entreaty.
-
-"Well, sit in the chair, sit in the chair," said the prince, laughing.
-
-Dagon rose from the floor and disposed himself still more agreeably in
-
-the armchair.
-
-"For how long a time does the prince wish fifteen talents?"
-
-"Certainly for a year."
-
-"Let us say at once three years. Only his holiness might give back
-
-fifteen talents in the course of a year, but not the youthful heir, who
-
-must receive young pleasant nobles and beautiful women. Ah, those
-
-women! Is it true, with thy permission, that Thou hast taken to thyself
-
-Sarah the daughter of Gideon?"
-
-"But what per cent dost Thou wish?" interrupted Ramses.
-
-"A trifle, which thy sacred lips need not mention. For fifteen talents
-
-the prince will give five talents yearly, and in the course of three
-
-years I will take back all myself, so that thou, worthiness, wilt not
-
-even know."
-
-"Thou wilt give me today fifteen talents, and during three years take
-
-back thirty?"
-
-"Egyptian law permits percentage to equal the loan," answered Dagon,
-
-confusedly.
-
-"But is that not too much?"
-
-"Too much?" cried out Dagon. "Every great lord has a great court, a
-
-great property, and pays no per cent save a great one. I should be
-
-ashamed to take less from the heir to the throne; if I did the prince
-
-himself might command to beat me with sticks and to drive me out of his
-
-presence."
-
-"When wilt Thou bring the money?"
-
-"Bring it? O gods, one man would not have strength to bring so much. I
-
-will do better: I will make all payments for the prince, so that,
-
-worthiness, Thou wilt not need to think of such a wretched matter."
-
-"Then dost Thou know my debts?"
-
-"I know them a little," answered Dagon, carelessly.
-
-"The prince wishes to send six talents to the Eastern army; that will
-
-be done by our bankers. Three talents to the worthy Nitager and three
-
-to the worthy Patrokles; that will be done here immediately. Sarah and
-
-her father I can pay through that mangy Azarias even better to pay them
-
-thus, for they would cheat the prince in reckoning."
-
-Ramses began to walk through the room impatiently.
-
-"Then am I to give a note for thirty talents?"
-
-"What note? why a note? what good would a note be to me? The prince
-
-will rent me for three years lands in the provinces of Takens, Ses,
-
-Neha-Meut, Neha-Pechu, in Sebt-Het, in Habu."
-
-"Rent them?" said the prince. "That does not please me."
-
-"Whence then am I to get back my money, my thirty talents?"
-
-"Wait! I must ask the inspector of my granaries how much these
-
-properties bring me in yearly."
-
-"Why so much trouble, worthiness? What does the inspector know? He
-
-knows nothing; as I am an honest Phoenician, he knows nothing. Each
-
-year the harvest is different, and the income different also. I may
-
-lose in this business, and the inspector would make no return to me."
-
-"But seest thou, Dagon, it seems to me that those lands bring far more
-
-than ten talents yearly."
-
-"The prince is unwilling to trust me? Well, at command of the heir I
-
-will drop out the land of Ses. The prince is not sure of my heart yet?
-
-Well, I will yield Sebt-Het also. But what use for an inspector here?
-
-Will he teach the prince wisdom? O Astoreth! I should lose sleep and
-
-appetite if such an overseer, subject and slave, dared to correct my
-
-gracious lord. Here is needed only a scribe who will write down that my
-
-most worthy lord gives me as tenant for three years lands in such and
-
-such a province. And sixteen witnesses will be needed to testify that
-
-such an honor from the prince has come to me. But why should servants
-
-know that their lord borrows money from Dagon?"
-
-The wearied heir shrugged his shoulders.
-
-"Tomorrow," said he, "Thou wilt bring the money, and bring a scribe and
-
-witnesses. I do not wish to think of it."
-
-"Oh, what wise words!" cried the Phoenician. "Mayst Thou live,
-
-worthiest lord, through eternity!"
+— Ach, jakie mądre słowa! — zawołał Fenicjanin. — Obyś, najdostojniejszy panie, żył wiecznie...

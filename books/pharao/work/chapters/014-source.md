@@ -1,783 +1,196 @@
-# Kapitel 14: CHAPTER XIV
+# Kapitel 014: Tom I - Rozdział XIV
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part18.xhtml*
 
 <!-- status: pending -->
 
-In the month of Choeak (from the middle of September to the middle of
+W miesiącu Choiak, od połowy września do połowy października, wody Nilu stanęły najwyżej i zaczął się nieznaczny opad. W ogrodach zbierano owoce tamaryndowe, daktyle i oliwki, a drzewa zakwitły po raz drugi.
 
-October), the waters of the Nile were highest, and began to fall
+W tym czasie jego świątobliwość Ramzes XII opuścił swój słoneczny pałac pod Memfisem i z wielką świtą, na kilkudziesięciu strojnych statkach popłynął do Teb dziękować tamtejszym bogom za dobry wylew, a zarazem złożyć ofiary w grobach wiecznie żyjących przodków.
 
-slightly. In the gardens people gathered tamarinds, dates, olives; and
+Najdostojniejszy władca bardzo łaskawie pożegnał syna swego i następcę; ale kierunek spraw państwowych, na czas nieobecności, powierzył Herhorowi.
 
-trees blossomed a second time.
+Książę Ramzes tak mocno odczuł ten dowód monarszej nieufności, że przez trzy dni nie wychodził ze swojej willi i nie przyjmował pokarmów, tylko płakał. Później przestał się golić i przeniósł się na folwark Sary, ażeby uniknąć stykania się z Herhorem i dokuczyć matce, którą uważał za przyczynę swoich nieszczęść.
 
-At this juncture his holiness Ramses XII left his sun-bright palace in
+Zaraz na drugi dzień w tym ustroniu odwiedził go Tutmozis, ciągnąc za sobą dwie łodzie muzyków i tancerek, a trzecią napełnioną koszami jadła i kwiatów tudzież dzbanami wina. Ale książę kazał odjechać precz muzyce i tancerkom, a wziąwszy do ogrodu Tutmozisa, rzekł:
 
-Memphis, and with a grand suite on some tens of stately barges sailed
+— Zapewne wysłała cię tu matka moja (oby żyła wiecznie!) w celu oderwania mnie od Żydówki?... Otóż powiedz jej dostojności, że choćby Herhor został nie tylko namiestnikiem, ale nawet synem mego ojca, ja robić będę to, co mi się podoba... Znam się na tym... Dziś chcą mnie pozbawić Sary, a jutro władzy... Przekonam ich, że ja nie wyrzekam się niczego.
 
-to Thebes, to thank the gods there for the bounteous inundation, and
+Książę był rozdrażniony, Tutmozis wzruszał ramionami, wreszcie odparł:
 
-also to place offerings oil the tombs of his eternally living
+— Jak wicher odnosi ptaka na pustynię, tak gniew wyrzuca człowieka na brzegi niesprawiedliwości. Czy możesz dziwić się kapłanom, że nie cieszą się, iż następca tronu związał swoje życie z kobietą innej ziemi i wiary? Prawda, że nie podoba im się Sara, tym więcej, że masz ją jedną; gdybyś posiadał kilka kobiet rozmaitych, jak wszyscy młodzi szlachcice, nie zwracano by uwagi na Żydówkę. Lecz cóż oni zrobili jej złego?... Nic. Owszem, nawet jakiś kapłan bronił jej przed rozjuszonym tłumem napastników, których tobie podobało się wydobyć z więzienia...
 
-ancestors.
+— A moja matka?... — wtrącił następca.
 
-The most worthy ruler took farewell of his heir very graciously; but
+Tutmozis roześmiał się.
 
-the direction of state affairs during his absence he left with Herhor.
+— Twoja czcigodna matka — prawił — kocha cię jak własne oczy i serce. Jużci i jej nie podoba się Sara, ale wiesz, co mi raz powiedziała jej dostojność?... Oto, ażebym odbił ci Sarę!... Widzisz, jaki zrobiła sobie żart?... Na co ja odpowiedziałem równie żartem: Ramzes darował mi sforę gończych psów i dwa konie syryjskie, gdy mu się sprzykrzyły; może więc kiedyś odda mi i swoją kochankę, którą będę musiał przyjąć zapewne z dodatkiem...
 
-Ramses felt this proof of want of confidence so greatly that for three
+— Ani myśl o tym. Nikomu dziś nie oddałbym Sary właśnie dlatego, że z jej powodu mój ojciec nie mianował mnie namiestnikiem.
 
-days he took no food and did not leave his villa; he only wept. Later
+Tutmozis kręcił głową.
 
-he ceased to shave, and transferred himself to Sarah's house, so as not
+— Bardzo się mylisz — odparł. — Tak się mylisz, że aż mnie to przestrasza. Czyliżbyś naprawdę nie rozumiał powodów niełaski, które zna każdy oświecony człowiek w Egipcie?...
 
-to meet Herhor or annoy his own mother, whom he considered the cause of
+— Nic nie wiem...
 
-his failures.
+— Tym gorzej — mówił zakłopotany Tutmozis. — Nie wiesz więc, że od czasu manewrów żołnierze, osobliwie greccy, w każdym szynku piją za twoje zdrowie...
 
-On the following day Tutmosis visited him in this retreat, bringing two
+— Na to przecież dostali pieniądze.
 
-boats filled with musicians and dancers, and a third containing baskets
+— Tak, ale nie na to, ażeby wołać na cały głos, że gdy nastąpisz po jego świątobliwości (oby żył wiecznie!), rozpoczniesz wielką wojnę, po której zajdą zmiany w Egipcie... Jakie zmiany?... I kto, za życia faraona, ośmieli się mówić o planach jego następcy?...
 
-of food and flowers, with pitchers of wine. But the prince commanded
+Teraz książę sposępniał.
 
-the musicians and dancers to depart, and taking Tutmosis to the garden,
+— To jedno, ale powiem ci i drugie — prawił Tutmozis — bo złe jak hiena nigdy nie chodzi w pojedynkę. Czy wiesz, że między chłopstwem śpiewają o tobie pieśni, jak uwolniłeś napastników z więzienia, a co gorsza, znowu mówią, że gdy nastąpisz po jego świątobliwości, będą zniesione podatki?... Trzeba zaś dodać, że ile razy między chłopstwem zaczynano gadać o niesprawiedliwości i podatkach, zawsze następowały rozruchy. I albo zewnętrzny nieprzyjaciel wpadał do osłabionego państwa, albo Egipt dzielił się na tyle części, ilu było nomarchów... Sam wreszcie osądź: czy jest rzeczą stosowną, ażeby w Egipcie jakieśkolwiek imię częściej było wymawiane aniżeli faraona?... I ażeby ktokolwiek stawał między ludem a naszym panem?... Gdybyś zaś pozwolił, opowiedziałbym ci, jak na tą sprawę zapatrują się kapłani...
 
-he said,
+— Ależ, rozumie się, mów...
 
-"Of course my mother may she live through eternity! sent thee to
+— Otóż jeden wielce mądry kapłan, który ze szczytu świątyni Amona zajmuje się dostrzeganiem niebieskich obrotów, wymyślił taką przypowieść.
 
-separate me from the Jewess? Tell her worthiness that were Herhor to
+Faraon jest słońcem, a następca tronu księżycem. Gdy za świetlanym bogiem z daleka posuwa się księżyc, mamy jasność we dnie i jasność w nocy. Gdy księżyc chce być zanadto blisko słońca, wówczas znika sam i noce są ciemne. Ale jeżeli zdarzy się tak, że księżyc stanie przed słońcem, wtedy robi się zaćmienie, wielki popłoch dla świata.
 
-become not merely viceroy, but the son of my father, I should do that
+— I — wszystkie te paplaniny — przerwał Ramzes — dochodzą do uszu jego świątobliwości?... Biada głowie mojej!... Bodajbym nigdy nie był synem królewskim!...
 
-which pleases me. I know how to do it. Today they wish to deprive me of
+— Faraon, jako bóg ziemski, wie o wszystkim; ale jest zanadto potężny, aby miał zważać na pijackie okrzyki żołnierstwa albo na szepty chłopów. On rozumie, że każdy Egipcjanin odda za niego życie, a ty najpierwej.
 
-Sarah, and to-morrow they would take my power from me; I will show them
+— Prawdę rzekłeś!... — odparł stroskany książę. — W tym wszystkim jednak widzę nową nikczemność i obłudę kapłanów — dodał, ożywiając się. — Więc to ja zasłaniam majestat pana naszego, bo uwalniam niewinnych z więzienia albo nie pozwalam memu dzierżawcy dręczyć chłopów niesprawiedliwym podatkiem?... Ale kiedy jego dostojność Herhor rządzi armią, mianuje dowódców, układa się z obcymi książęty, a memu ojcu każe spędzać dni na modlitwach...
 
-that I shall not renounce anything."
+Tutmozis zasłonił uszy i tupiąc nogami zawołał:
 
-The prince was irritated. Tutmosis shrugged his shoulders, and remarked
+— Milcz już, milcz!... każde twoje słowo jest bluźnierstwem... Państwem rządzi tylko jego świątobliwość, i cokolwiek dzieje się na ziemi, pochodzi z jego woli. Herhor zaś jest sługą faraona i robi to, co mu pan każe... Kiedyś sam przekonasz się... Oby słowa moje nie były źle zrozumiane!...
 
-finally,
+Książę tak sposępniał, że Tutmozis przerwał rozmowę i czym prędzej pożegnał przyjaciela. Gdy wsiadł do swej łódki, opatrzonej baldachimem i firankami, głęboko odetchnął i wypiwszy spory kielich wina, począł rozmyślać:
 
-"As a whirlwind sweeps a bird into a desert, so does anger cast a man
+„Brr!... dziękuję bogom, że nie dali mi takiego charakteru, jaki ma Ramzes. Jest to najnieszczęśliwszy człowiek w najszczęśliwszych warunkach... Mógłby mieć najpiękniejsze kobiety z Memfisu, a pilnuje się jednej, aby dokuczyć matce! Tymczasem on nie matce dokucza, ale tym wszystkim cnotliwym dziewicom i wiernym żonom, które usychają z tęsknoty, że następca tronu, a w dodatku prześliczny chłopak, nie odbiera im cnoty albo nie zmusza do niewierności. Mógłby nie tylko pić, ale nawet kąpać się w najlepszym winie, a tymczasem woli nędzne piwo żołnierskie i suchy placek natarty czosnkiem. Skąd te chłopskie upodobania? nie rozumiem. Chyba czcigodna pani Nikotris w najniebezpieczniejszym czasie zapatrzyła się na jedzących robotników?...
 
-on the shores of injustice. How canst Thou wonder if the priests are
+Mógłby też od świtu do nocy nic nie robić. Gdyby chciał, nawet karmiliby go najznakomitsi panowie, ich żony, siostry i córki. Lecz on nie tylko sam wyciąga rękę po jadło, ale jeszcze na utrapienie szlachetnej młodzieży sam się myje, sam się ubiera, a jego fryzjer po całych dniach łapie ptaki w sidła i marnuje zdolności.
 
-displeased because the heir to the throne has connected his life with a
+O Ramzesie! Ramzesie!... — westchnął elegant. — Czy podobna, ażeby przy takim księciu rozwinęła się moda?... My przecie od roku nosimy takie same fartuszki, a peruki utrzymują się tylko dzięki dworskim dygnitarzom, bo Ramzes wcale peruk nie chce nosić, co jest wielkim poniżeniem dla szlacheckiego stanu.
 
-woman of another country and a strange religion? Sarah does not please
+A wszystko to... brr!... robi przeklęta polityka... O, jak szczęśliwy jestem, że nie potrzebuję zgadywać: co myślą w Tyrze albo Niniwie, troszczyć się o żołd dla wojska, rachować: ilu ludzi przybyło czy ubyło Egiptowi i jakie można wybrać podatki? Straszna rzecz powiedzieć sobie, że mój chłop nie tyle mi płaci, ile ja potrzebuję i wydaję, lecz — na ile pozwala przybór Nilu. Ojciec Nil przecie nie pyta moich wierzycieli: co ja im jestem winien?...”
 
-them, especially since Thou hast her alone. Hadst Thou a number of
+Tak rozmyślał wykwintny Tutmozis i złotym winem krzepił stroskanego ducha. A zanim czółno przypłynęło do Memfis, zmógł go tak ciężki sen, że niewolnicy musieli swego pana do lektyki przenieść na rękach.
 
-various women, like all noble youths, they would not mind the Jewess.
+Po odejściu Tutmozisa, które wyglądało na ucieczkę, następca tronu głęboko zamyślił się, nawet poczuł trwogę.
 
-But have they done her harm? No. On the contrary, even some priest
+Książę był sceptykiem, jako wychowaniec najwyższych szkół kapłańskich i członek najwyższej arystokracji. Wiedział, że gdy jedni kapłani przez wielomiesięczne posty i umartwienia sposobią się do wywoływania duchów, inni — nazywają duchy przywidzeniem albo oszustwem. Widywał też, że święty wół, Apis, przed którym padał na twarz cały Egipt, dostawał nieraz tęgie kije od najniższych kapłanów, którzy mu podawali paszę i podstawiali krowy.
 
-defended her against a raging crowd which it pleased thee to liberate
+Rozumiał wreszcie, że jego ojciec, Ramzes XII, który dla pospólstwa był wiecznie żyjącym bogiem i wszechwładnym panem świata, jest naprawdę takim jak inni człowiekiem, tylko trochę więcej schorowanym niż inni starcy i bardzo ograniczonym przez kapłanów.
 
-from imprisonment."
+Wszystko to wiedział książę i z wielu rzeczy drwił w duchu, a nawet publicznie. Lecz cały jego libertynizm upadał wobec faktycznej prawdy, że — z tytułów faraona żartować nie wolno nikomu!...
 
-"But my mother?"
+Ramzes znał historię swego kraju i pamiętał, że w Egipcie wiele rzeczy przebaczono wielkim. Wielki pan mógł zepsuć kanał, zabić ukradkiem człowieka, drwić po cichu z bogów, brać prezenta od posłów obcych mocarstw... Ale dwa grzechy były nieodpuszczalne: zdrada kapłańskich tajemnic i zdrada faraona. Człowiek, który popełnił jedno lub drugie, znikał, czasami po upływie roku, spośród sług i przyjaciół. Ale gdzie się podziewał i co się z nim działo?... o tym nawet mówić nie śmiano.
 
-Tutmosis laughed.
+Otóż Ramzes czuł, że znajduje się na podobnej pochyłości, od czasu gdy wojsko i chłopi zaczęli wymawiać jego imię i rozprawiać o jakowychś jego planach, zmianach w państwie i przyszłych wojnach. Myśląc o tym, książę doznawał wrażenia, że jego, następcę tronu, bezimienny tłum nędzarzy i buntowników gwałtem pcha na szczyt najwyższego obelisku, skąd można tylko zlecieć i rozbić się na miazgę.
 
-"Thy worthy mother loves thee as her own eyes and heart. Of course
+Później, gdy po najdłuższym życiu ojca zostanie faraonem, będzie miał prawo i środki dokonać wielu takich czynów, o których nikt w Egipcie nie pomyślałby bez zgrozy. Ale dziś musi naprawdę strzec się, aby go nie uznano za zdrajcę i buntownika przeciw zasadniczym ustawom państwa.
 
-Sarah does not please her, either, but dost Thou know what her
+W Egipcie był jeden jawny władca: faraon. On rządził, on chciał, on myślał za wszystkich, i biada temu, kto ośmieliłby się wątpić głośno o wszechpotędze faraona albo mówić o jakichś swoich zamiarach czy choćby o zmianach w ogóle.
 
-worthiness said once to me? This, that I should entice Sarah from thee.
+Plany robiły się tylko w jednym miejscu: w sali, gdzie faraon słuchał zdań członków rady przybocznej i wypowiadał jej swoje opinie. Wszystkie też zmiany mogły wyjść tylko stamtąd. Tam płonęła jedyna widoczna lampa mądrości państwowej, której blask oświetlał cały Egipt. Ale i o tym bezpieczniej było milczeć.
 
-What a jest on her part! To this I answered with a second jest: 'Ramses
+Wszystkie te uwagi z szybkością wichru przelatywały przez głowę następcy, gdy siedział na kamiennej ławce ogrodu Sary, pod kasztanem, i patrzył na otaczający go krajobraz.
 
-has given me a brace of hunting dogs and two Syrian horses because he
+Woda Nilu już odrobinę opadła i poczęła robić się przezroczystą jak kryształ. Ale jeszcze cały kraj wyglądał niby zatoka morska gęsto usiana wyspami, na których wznosiły się budynki, ogrody warzywne i owocowe, a gdzieniegdzie kępy drzew wielkich, służących do ozdoby.
 
-has grown tired of them; perhaps some day he will give me his mistress
+Dokoła wszystkich tych wysp widać było żurawie z kubłami, za pomocą których nadzy ludzie miedzianej barwy, w brudnych przepaskach i czepkach, czerpali wodę z Nilu i kolejno wlewali ją do coraz wyżej położonych studzien.
 
-too, of course I shall have to take her with other things.'."
+Szczególniej jedna taka miejscowość odbiła się w pamięci Ramzesa. Był to stromy pagórek, na którego zboczu pracowały trzy żurawie: jeden wlewał wodę z rzeki do studni najniższej; drugi czerpał z najniższej i podnosił o parę łokci wyżej, do studni średniej; trzeci ze średniej przelewał wodę w studnię najwyższą, położoną już na szczycie pagórka. Tam zaś kilku równie nagich ludzi czerpało wodę konwiami i polewało zagony jarzyn albo za pomocą ręcznych sikawek skrapiało drzewa.
 
-"Do not think of it. I would not give Sarah to any man, were it only
+Ruchy żurawi, zniżających się i podnoszących, nachylenia kubłów, wytryski sikawek były tak rytmiczne, że ludzi, którzy je wywoływali, można było uważać za automaty. Żaden z nich nie przemówił do swego sąsiada, nie zmienił miejsca, nie obejrzał się, tylko pochylał się i wyprostowywał zawsze w ten sam sposób od rana do wieczora, od miesiąca do miesiąca, a zapewne od dzieciństwa do śmierci.
 
-for this, because of her my father has not appointed me viceroy."
+„I to takie twory — myślał książę, patrząc na pracę rolników — takie twory chcą zrobić mnie wykonawcą swoich przywidzeń!... Jakich zmian mogą oni żądać w państwie? Chyba, ażeby ten, kto czerpie wodę do niższej studni, przeszedł do wyższej albo zamiast polewać grzędy kubłem, skrapiał drzewa sikawką?...”
 
-Tutmosis shook his head.
+Gniew bił mu do głowy, a upokorzenie przygniatało go na myśl, że on, następca tronu, dzięki bajkom takich oto istot, całe życie kiwających się nad studniami mętnej wody, nie został namiestnikiem!
 
-"Thou art greatly mistaken," answered he, "so much mistaken that I am
+W tej chwili usłyszał między drzewami cichy szelest i — delikatne ręce oparły się na jego ramionach.
 
-terrified. Dost Thou not really understand the causes of the disfavor?
+— Cóż, Saro? — spytał książę, nie odwracając głowy.
 
-Every enlightened Egyptian knows them."
+— Smutny jesteś, panie mój?... — odparła. — Nie tyle ucieszył się Mojżesz widokiem ziemi obiecanej, ile ja, gdyś powiedział, że sprowadzasz się tu, aby ze mną mieszkać. Lecz już dobę jesteśmy razem, a jeszcze nie widziałam twego uśmiechu. Nawet nie mówisz do mnie, ale chodzisz ponury, a w nocy nie pieścisz mnie, tylko wzdychasz.
 
-"I know nothing."
+— Mam zmartwienie.
 
-"So much the worse," said the anxious Tutmosis. "Thou dost not know,
+— Powiedz mi je. Zgryzota jest jak skarb dany do przechowania. Póki strzeżemy jej sami, nawet sen ucieka od nas i dopiero wtedy robi się lżej, gdy znajdziemy drugiego stróża.
 
-then, that warriors, since the maneuvers, especially Greek warriors,
+Ramzes objął ją i posadził przy sobie na ławce.
 
-drink thy health in every dramshop."
+— Kiedy chłop — rzekł z uśmiechem — nie zdąży przed wylewem zebrać z pola, żona mu pomaga. Ona pomaga mu też doić krowy, nosi mu jadło za dom, myje go, gdy wróci od pracy. Stąd urosła wiara, że kobieta może ulżyć kłopotów mężczyźnie.
 
-"They got money to do so."
+— Ty w to nie wierzysz, panie?...
 
-"True; but not to cry out, with all the voice that is in them, that
+— Książęcym troskom — odparł Ramzes — nie poradzi kobieta, nawet tak mądra i władna jak moja matka...
 
-when Thou shalt succeed to his holiness may he live through eternity!
+— Przebóg! jakież one są, powiedz mi? — nalegała Sara, tuląc się do ramienia następcy. — Według naszych podań, Adam opuścił raj dla Ewy; a przecie on był chyba największym królem najpiękniejszego królestwa...
 
-Thou wilt begin a great war, after which there will be changes in
+Książę zamyślił się, po chwili zaczął:
 
-Egypt."
+— I nasi mędrcy uczą, że niejeden mężczyzna wyrzekł się dostojeństw dla kobiety. Ale nie słychać, ażeby który zyskał co wielkiego przez kobietę; chyba jaki wódz, któremu faraon oddał córkę wraz z dużym posagiem i urzędem. Ale pomóc do wydźwignięcia się czy to na wyższe stanowisko, czy choćby tylko z kłopotów, kobieta nie potrafi.
 
-"What changes? And who is the man who during the life of the pharaoh
+— Bo może nie kocha jak ja ciebie, panie... — szepnęła Sara.
 
-may dare to speak of the plans of his successor?"
+— Wiem, że mnie kochasz na podziw... Nigdy nie żądałaś ode mnie darów ani opiekowałaś się takimi, którzy nie wahają się szukać kariery nawet pod łóżkami kochanek książęcych. Jesteś łagodniejsza od jagnięcia i cicha jak noc nad Nilem; pocałunki twoje są jak wonności z kraju Punt, a uścisk twój słodki jak sen strudzonego. Nie mam miary na twoją piękność ani słów na zalety. Jesteś dziwowiskiem między kobietami, których wargi są pełne niepokoju, a miłość kosztuje drogo. Lecz przy całej doskonałości swojej, w czym ty możesz ulżyć mym troskom? Czy sprawisz, aby jego świątobliwość zrobił wielką wyprawę na Wschód, a mnie mianował wodzem? Czy dasz mi choć aby korpus Menfi, o który prosiłem, albo uczynisz mnie w imieniu faraona rządcą nad Dolnym Egiptem? A czy sprawisz, aby wszyscy poddani jego świątobliwości myśleli i czuli jak ja, jego najwierniejszy?...
 
-Now the prince grew gloomy.
+Sara spuściła ręce na kolana i smutnie szeptała:
 
-"That is one thing, but I will tell thee another," said, Tutmosis, "for
+— To prawda, że nie mogę... Nic nie mogę!...
 
-misfortunes, like hyenas, never come singly. Dost Thou know that the
+— Owszem, wiele możesz... możesz mnie rozweselić — odparł uśmiechając się Ramzes. — Wiem, że uczyłaś się tańczyć i grać. Zdejm więc te powłóczyste szaty, które przystoją kapłankom pilnującym ognia, i ubierz się w przejrzysty muślin, jak... tancerki fenickie... I tak tańcz, i tak mnie pieść jak one...
 
-lowest people sing songs about thee, sing how Thou didst free the
+Sara schwyciła go za ręce i z płomieniami w oczach krzyknęła:
 
-attackers from prison, and what is worse, they repeat again, that, when
+— Ty wdajesz się z takimi wszetecznicami?... Powiedz... niech się dowiem o mojej nędzy... A potem odeślij mnie do ojca, w naszą dolinę pustynną, w której obym cię nie była ujrzała!...
 
-Thou shalt succeed his holiness, rents will be abolished. It must be
+— No, no... uspokój się — mówił książę, bawiąc się jej włosami. — Muszę przecież widywać tancerki, jeżeli nie przy ucztach, to na uroczystościach królewskich albo podczas nabożeństw w świątyni. Ale one wszystkie razem nie obchodzą mnie tyle co ty jedna, wreszcie... któraż z nich mogłaby dorównać tobie? Ty masz ciało jak posąg Izydy rzeźbiony z kości słoniowej, a z tamtych każda ma jakąś skazę. Jedne są zbyt tłuste, inne mają chude nogi albo brzydkie ręce, a jeszcze inne noszą przyprawne włosy. Któraż z nich jest jak ty?... Gdybyś była Egipcjanką, wszystkie świątynie ubiegałyby się, aby posiadać cię za przodownicę swych chórów. Co mówię, gdybyś teraz ukazała się w Memfisie w przejrzystej sukni, kapłani pogodziliby się z tobą, byleś chciała przyjmować udział w procesjach.
 
-added that when common people speak of injustice and rents,
+— Nam, córkom Judy, nie wolno nosić nieskromnych sukien...
 
-disturbances follow; and either a foreign enemy attacks our weakened
+— Ani tańczyć, ani śpiewać?... Po cóżeś się tego uczyła?
 
-state, or Egypt is divided into as many parts as there are nomarchs.
+— Tańczą nasze kobiety i dziewczęta same ze sobą, na chwałę Panu, nie zaś po to, aby w męskich sercach zasiewać ogniste ziarna pożądliwości. A śpiewamy... Zaczekaj, panie mój, ja ci zaśpiewam.
 
-Finally, judge for thyself, is it proper that any man's name should be
+Podniosła się z ławki i odeszła w stronę domu. Wkrótce ukazała się z powrotem. Za nią młoda dziewczyna, o wylęknionych czarnych oczach, niosła arfę.
 
-mentioned oftener than the pharaoh's, and that any man should stand
+— Co to za dziewczyna? — spytał książę. — Czekaj no, ja gdzieś widziałem to spojrzenie?... Aha, kiedym tu był ostatnim razem, ta wystraszona dziewczyna przypatrywała mi się z krzaków...
 
-between the people and our lord? If Thou permit, I will tell how
+— To moja krewna i służebnica, Ester — odparła Sara. — Mieszka u mnie już miesiąc, ale boi się was, panie, więc zawsze ucieka. Może być, że kiedy przypatrywała się wam spomiędzy krzaków.
 
-priests look on this matter."
+— Możesz odejść, moje dziecko — rzekł książę do skamieniałej dziewczyny. A gdy skryła się za drzewami, dodał: — Ona także Żydówka?... A tenże stróż twego domu, który również patrzy na mnie jak baran na krokodyla?
 
-"Of course, speak."
+— To jest Samuel, syn Ezdreasza, także mój krewny. Wzięłam go na miejsce Murzyna, któremuś, panie, dał wolność. Wszak, pozwoliłeś mi wybierać sługi?...
 
-"Well, a very wise priest who from the summit of the temple of Amon
+— Ależ tak. To już chyba i dozorca parobków jest Żydem, bo ma żółtą cerę i również patrzy tak pokornie, jak by żaden Egipcjanin nie potrafił.
 
-examines celestial movements, has thought out this statement: 'The
+— Tamten — odpowiedziała Sara — jest Ezechiel, syn Rubena, krewny mego ojca. Czy nie podoba ci się, mój panie?... To są bardzo wierni słudzy twoi.
 
-pharaoh is the sun, the heir to the throne the moon. When the moon
+— Czy podoba mi się! — rzekł markotny książę, bębniąc palcami w ławkę. — On nie po to tu jest, ażeby mi się podobał, lecz aby pilnował twego dobra... Nic mnie zresztą nie obchodzą ci ludzie... Śpiewaj, Saro.
 
-follows the god of light from afar, we have brightness in the daytime
+Sara klękła na murawie u stóp księcia i wziąwszy na arfie parę akordów, zaczęła:
 
-and clearness at night. When the moon wishes to be too near the sun, it
+— Gdzież jest ten, który by nie miał troski? Gdzie ten, który zabierając się do snu, miałby prawo rzec: oto dzień, który spędziłem bez smutku? Gdzie człowiek, który by kładąc się do grobu powiedział: życie moje upłynęło bez boleści i trwogi jak pogodny wieczór nad Jordanem.
 
-disappears itself and the nights are dark. But if the moon stands
+Lecz jakże wielu takich, którzy co dzień chleb swój oblewają łzami, a ich dom pełen westchnień.
 
-before the sun there is an eclipse, and in the world great terror '."
+Płacz jest pierwszym głosem człowieka na tej ziemi, a jęk ostatnim pożegnaniem. Pełen strapienia wchodzi w życie, pełen żalu zstępuje na miejsce odpoczynku, a nikt go nie pyta, gdzie by chciał zostać?
 
-"And all this babble," interrupted Ramses, "goes to the ears of his
+Gdzież jest ten, który nie zaznał goryczy bytu? Azali jest nim dziecię, którego matkę śmierć porywa, albo niemowlę, któremu przynależną pierś głód wyssał pierwej, nim zdążyło przyłożyć usta swoje?
 
-holiness. Misfortune on my head! Would that I had never been the son of
+Gdzie jest człowiek pewny losu, który niezmrużonym okiem wyglądałby swego jutra? Czy ten, co pracując na roli, wie, że nie w jego mocy jest deszcz i nie on wskazuje drogę szarańczy? Czy kupiec, który bogactwo swe oddaje wiatrom, nie wiadomo skąd przychodzącym, a życie powierza fali nad głębią, która wszystko pochłania i nic nie zwraca?
 
-a pharaoh!"
+Gdzie jest człowiek bez niepokoju w duszy? Jestli nim myśliwiec, który goni prędką sarnę, a spotyka na swej drodze lwa śmiejącego się ze strzały? Jestli nim żołnierz, który w utrudzeniu idzie do sławy, a znajduje las ostrych włóczni i miecze ze spiżu, krwi łaknące? Jestli nim wielki król, który pod purpurą nosi ciężką zbroję, bezsennym okiem śledzi zastępy przemożnych sąsiadów, a uchem chwyta szmer kotary, aby we własnym namiocie nie powaliła go zdrada?
 
-"The pharaoh, as a god upon earth, knows everything; but he is too
+Przetoż serce ludzkie na każdym miejscu i o każdej porze jest przepełnione tęsknością. W pustyni grozi mu lew i skorpion, w jaskiniach smok, między kwiatami żmija jadowita. Przy słońcu chciwy sąsiad rozmyśla, jakby umniejszyć mu ziemi, w nocy przebiegły złodziej maca drzwi do jego komory. W dzieciństwie jest niedołężny, w starości pozbawiony mocy, w pełni sił okrążony niebezpieczeństwem jak wieloryb przepaścią wodną.
 
-mighty to care for the drunken shouts of soldiers or the whispers of
+Przetoż, o Panie, Stworzycielu mój, ku Tobie zwraca się umęczona dusza ludzka. Tyś ją wywiódł na ten świat pełen zasadzek, Tyś w niej zaszczepił trwogę śmierci, Tyś zamknął wszelkie drogi spokoju, wyjąwszy tej, która do Ciebie prowadzi. A jak dziecię stąpać nie umiejące chwyta się szat matki, aby nie upaść, tak mizerny człowiek wyciąga ręce do Twego miłosierdzia i wydobywa się z niepewności.
 
-earth tillers. He understands that every Egyptian would die for him,
+Sara umilkła, książę zamyślił się i rzekł po chwili:
 
-and Thou first of all."
+— Wy, Żydzi, jesteście naród posępny. Gdyby w Egipcie tak wierzono, jak uczy wasza pieśń, nikt nie śmiałby się nad brzegami Nilu. Możni ukryliby się ze strachu w podziemiach świątyń, a lud, zamiast pracować, uciekłby do jaskiń i stamtąd wyglądał zmiłowania, które by zresztą nie nadeszło.
 
-"Thou hast spoken truth!" answered the anxious prince. "But in all this
+Nasz świat jest inny: wszystko w nim można mieć, ale wszystko trzeba zrobić samemu. I nasi bogowie nie pomagają mazgajom. Schodzą na ziemię dopiero wówczas, gdy bohater, który odważył się na czyn nadludzki, wyczerpie wszystkie siły. Tak było z Ramzesem Wielkim, gdy rzucił się między dwa tysiące pięćset nieprzyjacielskich wozów, z których każdy dźwigał trzech wojowników. Dopiero wtedy nieśmiertelny ojciec Amon podał mu rękę i dokończył pogromu. Lecz gdyby, zamiast walczyć, zaczął czekać na opiekę waszego boga, już dawno nad brzegami Nilu Egipcjanin chodziłby tylko z kubłem i cegłą, a nędzni Hetyci z papirusami i kijmi!
 
-I see new vileness and deceit of the priests," added he, rousing
+Dlatego, Saro, prędzej twoje wdzięki aniżeli twoja pieśń rozproszy moją troskę. Gdybym tak poczynał sobie, jak uczą żydowscy mędrcy, i czekał na pomoc z nieba, wino uciekałoby od moich ust, a kobiety od moich domów.
 
-himself. "It is I, then, who hide the majesty of our lord, because I
-
-free the innocent from prison, or do not let my tenant torture earth-
-
-workers with unjust tribute. But when his worthiness Herhor manages the
-
-army, appoints leaders, negotiates with foreign princes, and directs my
-
-father to spend his time in prayers."
-
-Tutmosis covered his ears, and, stamping, cried, "Be silent! be silent!
-
-every word of thine is blasphemy. His holiness alone directs the state,
-
-and whatever is done on earth proceeds from his will. Herhor is a
-
-servant of the pharaoh and does what his lord enjoins on him. If Thou
-
-wilt convince thyself oh, that my words be not ill understood."
-
-The prince grew so gloomy that Tutmosis broke off the conversation and
-
-took farewell of his friend at the earliest. When he sat down in his
-
-boat, which was furnished with a baldachin and curtains, he drew a deep
-
-breath and draining a large goblet of wine, thought,
-
-"Brr! I thank the gods for not giving me such a character as that which
-
-Ramses has. He is a most unhappy man in the happiest conditions. He
-
-might have the most beautiful women in Memphis, but he sticks to one to
-
-annoy his mother. Meanwhile it is not his mother that he annoys, but
-
-all the virtuous virgins and faithful wives who are withering from
-
-sadness that the heir to the throne, and moreover a youth of great
-
-comeliness, does not snatch from them virtue or force them to
-
-unfaithfulness. He might not only drink but even swim in the best wine;
-
-meanwhile he prefers the wretched camp beer, and bread rubbed with
-
-garlic. Whence came these low inclinations? I cannot imagine. Or was it
-
-that the worthy Nikotris in her critical period looked at workmen while
-
-they were eating?
-
-"He might do nothing from daylight till darkness. If he wished, the
-
-most famous lords, with their wives, sisters, and daughters, would
-
-serve food to him. He not only stretches forth his own hands to take
-
-food, but, to the torment of our noble youths, he washes himself,
-
-dresses himself, and his barber spends whole days in snaring birds and
-
-thus wastes his abilities.
-
-"O Ramses, Ramses!" sighed the exquisite. "Is it possible that fashion
-
-should be developed in the time of such a prince? We wear the same
-
-aprons from one year to another, and we retain wigs, only thanks to
-
-court dignitaries, for Ramses will not wear any wig. This is a great
-
-offence to the whole order of nobles. And all brought about by cursed
-
-politics, brr! Oh, how happy I am that I need not divine what they are
-
-thinking of in Tyre or Nineveh; break my head over wages for the army;
-
-calculate how many people have been added to Egypt or taken from it,
-
-and what rents must be collected. It is a terrible thing to say to
-
-one's self, 'My tenant does not pay what I need and expend, but what
-
-the increase of the Nile permits.'."
-
-Thus meditated the exquisite Tutmosis, while he strengthened his
-
-anxious soul with golden wine. Before the boat had sailed up to
-
-Memphis, heavy sleep had mastered him in such wise that his slaves had
-
-to carry their lord to the litter.
-
-After the departure of Tutmosis, which resembled a flight, the heir
-
-fell to thinking deeply; he even felt fear.
-
-Ramses was a skeptic. As a pupil of the priests, and a member of the
-
-highest aristocracy, he knew that when certain priests had fasted many
-
-months and mortified their senses they summoned spirits, while others
-
-spoke of spirits as a fancy, a deception. He had seen, too, that Apis,
-
-the sacred bull before which all Egypt fell prostrate, received at
-
-times heavy blows of a cane from inferior priests, who gave the beast
-
-food and brought cows to him.
-
-He understood, finally, that his father, Ramses XII, who for the common
-
-crowd was a god who lived through eternity, and the all-commanding lord
-
-of this world, was really just such a person as others, only a little
-
-more weakly than ordinary old men, and very much limited in power by
-
-the priestly order.
-
-The prince saw all this, and jeered in his soul and even la public at
-
-many things. But all his infidelity fell before the actual truth, that
-
-no one was permitted to trifle with the titles of the pharaoh.
-
-Ramses knew the history of his country, and he remembered that in Egypt
-
-many things were forgiven the mighty. A great lord might ruin a canal,
-
-kill a man in secret, revile the gods privately, take presents from
-
-ambassadors of foreign states, but two sins were not forgiven, the
-
-betrayal of priestly secrets, and treason to the pharaoh. A man who
-
-committed one or the other disappeared, sometimes after a year, from
-
-among his friends and servants. But where he had been put or what had
-
-been done with him, no one even dared to mention.
-
-Ramses felt that he was on an incline of this sort from the time that
-
-the army and the people began to mention his name and speak of certain
-
-plans of his, changes in the state, future wars. Thinking of this, the
-
-prince felt as if a nameless crowd of rebels and unfortunates were
-
-pushing him violently to the point of the highest obelisk, from which
-
-he must tumble down and be crushed into jelly.
-
-Later on, when, after the longest life of his father possible, he
-
-became pharaoh, he would have the right and the means to accomplish
-
-many deeds of which no one in Egypt could even think without terror.
-
-But today he must in truth have a care, lest they declare him a traitor
-
-and a rebel against the fundamental laws of Egypt. In that state there
-
-was one visible ruler, the pharaoh. He governed, he desired, he thought
-
-for all, and woe to the man who dared to doubt audibly the all-might of
-
-the sovereign, or mention plans of his own, or even changes in general.
-
-Plans were made in one place alone, in that hall where the pharaoh
-
-listened to advice from his aiding council, and expressed to it his own
-
-opinions. No changes could come save from that place. There burned the
-
-only visible lamp of political wisdom, the light of which illuminated
-
-Egypt. But touching that light, it was safer to be silent.
-
-All these considerations flew through the prince's head with the
-
-swiftness of a whirlwind while he was sitting on the stone bench under
-
-the chestnut-tree in Sarah's garden, and looking at the landscape there
-
-around him.
-
-The water of the Nile had fallen a little, and had begun to grow as
-
-transparent as a crystal. But the whole country looked yet like an arm
-
-of the sea thickly dotted with islands on which rose buildings,
-
-gardens, and orchards, while here and there groups of great trees
-
-served as ornament.
-
-Around all these islands were well-sweeps, with buckets by which
-
-bronze-hued naked men with dirty breech clouts raised water from the
-
-Nile and poured it into higher reservoirs. One such place was in the
-
-prince's mind especially. That was a steep eminence on the side of
-
-which three men were working at three well-sweeps. One poured water
-
-from the river into the lowest well; another drew from the lowest and
-
-raised water two yards higher to a middle place; the third raised water
-
-from the middle to the highest place. There some people, also naked,
-
-drew water in buckets, and irrigated beds of vegetables, or watered
-
-trees from sprinkling-pots.
-
-The movement of the sweeps going down and rising, the turn of the
-
-buckets, the gushing of the pots was so rhythmic that the men who
-
-caused it might be thought automatons. No one of them spoke to his
-
-neighbor, no man changed place or looked about him; he merely bent and
-
-rose in one single method from daylight until evening, from one month
-
-to another, and doubtless he had worked thus from childhood and would
-
-so work till death took him.
-
-"And creatures such as these," thought the prince, as he looked at
-
-their toil, "desire me to realize their imaginings. What change in the
-
-state can they wish? Is it that he who draws from the lowest well
-
-should go to the highest, or instead of pouring from a bucket should
-
-sprinkle trees with a watering pot?"
-
-Anger rose to his head, and humiliation crushed him because he, the
-
-heir to the throne, thanks to the fables of creatures like those who
-
-nodded all their lives over wells of dirty water, was not now the vice-
-
-pharaoh.
-
-At that moment he heard a low rustle among the trees, and delicate
-
-hands rested on his shoulder.
-
-"Well, Sarah?" asked the prince, without turning his head.
-
-"Thou art sad, my lord. Moses was not so delighted at sight of the
-
-promised land as I was at those words of thine:
-
-"I am coming to live with thee. But Thou art a day and a night here,
-
-and I have not seen thy smile yet. Thou dost not even speak to me, but
-
-goest about in gloom, and at night Thou dost not fondle me, but only
-
-sighest."
-
-"I have trouble."
-
-"Tell me what it is. Grief is like a treasure given to be guarded. As
-
-long as we guard it ourselves even sleep flees away, and we find relief
-
-only when we put some one else to watch for us."
-
-Ramses embraced Sarah, and seated her on the bench at his side.
-
-"When an earth-tiller," said he, smiling, "is unable to bring in all
-
-his crops from the field before the overflow, his wife helps him. She
-
-helps him to milk cows too, she takes out food to the field for him,
-
-she washes the man on his return from labor. Hence the belief has come
-
-that woman can lighten man's troubles."
-
-"Dost Thou not believe this, lord?"
-
-"The cares of a prince," answered Ramses, "cannot be lightened by a
-
-woman, even by one as wise and powerful as my mother."
-
-"In God's name, what are thy troubles? Tell me," insisted Sarah,
-
-drawing up to the shoulder of Prince Ramses. "According to our
-
-traditions, Adam left Paradise for Eve; and he was surely the greatest
-
-king in the most beautiful kingdom."
-
-The prince became thoughtful.
-
-"Our sages also teach," said he, "that man has often abandoned
-
-dignities for woman, but it has not been heard that any man ever
-
-achieved something great through a woman; unless he was a leader to
-
-whom a pharaoh gave his daughter, with a great dowry and high office.
-
-But a woman cannot help a man to reach a higher place or even help him
-
-out of troubles."
-
-"This may be because she does not love as I do," whispered Sarah.
-
-"Thy love for me is wonderful, I know that. Never hast Thou asked for
-
-gifts, or favored those who do not hesitate to seek success even under
-
-the beds of princes' favorites. Thou art milder than a lamb, and as
-
-calm as a night on the Nile. Thy kisses are like perfume from the land
-
-of Punt, and thy embrace as sweet as the sleep of a wearied laborer. I
-
-have no measure for thy beauty, or words for thy attractions. Thou art
-
-a marvel among women; women's lips are rich in trouble and their love
-
-is very costly. But with all thy perfection how canst Thou ease my
-
-troubles? Canst Thou cause his holiness to order a great expedition to
-
-the East and name me to command it? Canst Thou give me the army corps
-
-in Memphis, for which I asked, or wilt thou, in the pharaoh's name,
-
-make me governor of Lower Egypt? Or canst Thou bring all subjects of
-
-his holiness to think and feel as I, his most devoted subject?" Sarah
-
-dropped her hands on her knees, and whispered sadly, "True, I cannot do
-
-those things I can do nothing."
-
-"Thou canst do much. Thou canst cheer me," replied Ramses, smiling. "I
-
-know that Thou hast learned to dance and sing. Take off those long
-
-robes, therefore, which become priestesses guarding fire, and array
-
-thyself in transparent muslin, as Phoenician dancers do. And so dance
-
-and fondle me as they."
-
-Sarah seized his hands and cried with flaming eyes,
-
-"Hast Thou to do with outcasts such as these? Tell me let me know my
-
-wretchedness; send me then to my father, send me to our valley in the
-
-desert. Oh, that I had never seen thee in it!"
-
-"Well, well, calm thyself," said the prince, toying with her hair. "I
-
-must of course see dancers, if not at feasts, at royal festivals, or
-
-during services in temples. But all of them together do not concern me
-
-as much as Thou alone; moreover, who among them could equal thee? Thy
-
-body is like a statue of Isis, cut out of ivory, and each of those
-
-dancers has some defect. Some are too thick; others have thin legs or
-
-ugly hands; still others have false hair. Who of them is like thee? If
-
-Thou wert an Egyptian, all our temples would strive to possess thee as
-
-the leader of their chorus. What do I say? Wert Thou to appear now in
-
-Memphis in transparent robes, the priests would be glad if Thou wouldst
-
-take part in processions."
-
-"It is not permitted us daughters of Judah to wear immodest garments."
-
-"Nor to dance or sing? Why didst Thou learn, then?"
-
-"Our women dance, and our virgins sing by themselves for the glory of
-
-the Lord, but not for the purpose of sowing fiery seeds of desire in
-
-men's hearts. But we sing. Wait, my lord, I will sing to thee."
-
-She rose from the bench and went toward the house. Soon she returned
-
-followed by a young girl with black, frightened eyes, who was bearing a
-
-harp.
-
-"Who is this maiden?" asked the prince. "But wait I have seen that look
-
-somewhere. Ah! when I was here the last time a frightened girl looked
-
-from the bushes at me.'"
-
-"This is Esther, my relative and servant," answered Sarah. "She has
-
-lived with me a mouth now, but she fears thee, lord, so she runs away
-
-always. Perhaps she looked at thee sometime from out the bushes."
-
-"Thou mayst go, my child," said the prince to the maiden, who seemed
-
-petrified, and when she had hidden behind the bushes, he asked,
-
-"Is she a Jewess too? And this guard of thy house, who looks at me as a
-
-sheep at a crocodile?"
-
-"That is Samuel the son of Esdras; he also is a relative. I took him in
-
-place of the black man to whom Thou hast given freedom. But hast Thou
-
-not permitted me to choose my servants?"
-
-"That is true. And so also the overseer of the workmen is a Jew, for he
-
-has a yellow complexion and looks with a lowliness which no Egyptian
-
-could imitate."
-
-"That," answered Sarah, "is Ezechiel, the son of Reuben, a relative of
-
-my father. Does he not please thee, my lord? These are all thy very
-
-faithful servants."
-
-"Does he please me," said the prince, dissatisfied, drumming with his
-
-fingers on the bench. "He is not here to please me, but to guard thy
-
-property. For that matter, these people do not concern me. Sing,
-
-Sarah."
-
-Sarah knelt on the grass at the prince's feet, and playing a few notes
-
-as accompaniment, began,
-
-"Where is he who has no care? Who is he who in lying down to slumber
-
-has the right to say: This is a day that I have spent without sorrow?
-
-Where is the man who lying down for the grave, can say: My life has
-
-passed without pain, without fear, like a calm evening on the Jordan.
-
-"But how many are there who moisten their bread with tears daily, and
-
-whose houses are filled with sighing.
-
-"A wail is man's earliest speech on this earth, and a groan his
-
-farewell to it. Full of suffering does he come into life, full of
-
-sorrow does he go to his resting-place, and no one asks him where he
-
-would like to be.
-
-"Where is that offspring of man who has not tasted the bitterness of
-
-being? Is it the child which death has snatched from its mother, or is
-
-it the babe whose mother's breast was drained by hunger ere the little
-
-one could place lips to it?
-
-"Where is the man who is sure of his fate, the man who can look with
-
-unfailing eye at the morrow? Does he who toils on the field know that
-
-rain is not under his power, and that not he shows its way to the
-
-locust swarm? Does the merchant who gives his wealth to the winds,
-
-which come he knows not whence, and his life to the waves on that abyss
-
-which swallows all, and returns nothing?
-
-"Where is the man without dread in his spirit? Is it the hunter who
-
-chases the nimble deer and on the road meets a lion which mocks at his
-
-arrows? Is it the warrior who goes forth to gain glory with toiling,
-
-and meets a forest of sharp lances and bronze swords which are
-
-thirsting for his life blood? Is it the great king who under his purple
-
-puts on heavy armor, who spies out with sleepless eye the treachery of
-
-overpowering neighbors, and seizes with his ear the rustle of the
-
-curtain lest treason overturn him in his own tent?
-
-"For this reason men's hearts in all places and at all times are
-
-overflowing with sadness. In the desert the lion and the scorpion are
-
-his danger, in the cave lurks the dragon, among flowers the poisonous
-
-serpent. In the sunshine a greedy neighbor is thinking how to decrease
-
-his land, in the night the active thief is breaking through the door to
-
-his granary. In childhood he is incompetent, in old age stripped of
-
-strength. When full of power, he is surrounded by perils, as a whale is
-
-surrounded by abysses of water.
-
-"Therefore, O Lord, my Creator, to Thee the tortured human soul turns
-
-itself. Thou hast brought it into a world full of ambushes, Thou hast
-
-grafted into it the terror of extinction. Thou hast barred before it
-
-all roads of peace, save the one road which leads to Thee. And as a
-
-child which cannot walk grasps its mother's skirt lest it fall, so
-
-wretched man stretches forth his hands toward Thy tenderness, and
-
-struggles out of uncertainty."
-
-Sarah was silent; the prince fell into meditation, and then said,
-
-"Ye Jews are a gloomy nation. If men in Egypt believed as thy song
-
-teaches, no one would laugh on the banks of the Nile. The wealthy would
-
-hide in underground temples through terror, and the people, instead of
-
-working, would flee to caves, look out and wait for mercy which would
-
-never come to them.
-
-"Our world is different: in it a man may have everything, but he
-
-himself must do everything. Our gods help no idleness. They come to the
-
-earth only when a hero dares a deed which is superhuman and when he
-
-exhausts every power present. Such was the case with Ramses the Great
-
-when he rushed among two thousand five hundred hostile chariots, each
-
-of which carried three warriors. Only then did Amon the eternal father
-
-reach his hand down and end the battle with victory. But if instead of
-
-fighting he had waited for the aid of your God, long ago would the
-
-Egyptians have been moving along the Nile, each of them bearing a brick
-
-and a bucket, while the vile Hittites would be masters going around
-
-with clubs and papyruses.
-
-"Therefore, Sarah, thy charms will scatter my sorrows sooner than thy
-
-song. If I had acted as your Jewish song teaches, and waited for divine
-
-assistance, wine would have flowed away from my lips, and women would
-
-have fled from my household.
-
-"Above all, I could not be the pharaoh's heir any more than my
-
-brothers, one of whom does not leave his room without leaning on two
-
-slaves, while the other climbs along tree trunks."
+Nade wszystko zaś nie mógłbym być następcą faraona jak moi przyrodni bracia, z których jeden nie przejdzie pokoju bez oparcia się na dwu niewolnikach, a drugi skacze po drzewach.

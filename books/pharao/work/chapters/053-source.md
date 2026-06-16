@@ -1,879 +1,302 @@
-# Kapitel 53: CHAPTER LIII
+# Kapitel 053: Tom III - Rozdział IV
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part61.xhtml*
 
 <!-- status: pending -->
 
-So in the month Hator, after thirty-four years of rule, died the
+Tak tedy w miesiącu Hator, po trzydziestu czterech latach panowania, umarł faraon Mer-amen-Ramzes XII, władca dwu światów, pan wieczności, rozdawca życia i wszelakiej uciechy.
 
-Pharaoh Mer-Amen-Ramses XII, the ruler of two worlds, the lord of
+Umarł, ponieważ czuł, że ciało jego staje się mdłe i nieużyteczne. Umarł, ponieważ tęsknił do wiekuistej ojczyzny, a rządy ziemskiego państwa pragnął powierzyć młodszym rękom. Umarł wreszcie, bo tak chciał, bo taką była jego wola. Boski duch odleciał niby jastrząb, który długo krążąc nad ziemią, w końcu rozpływa się w błękitnych przestworach.
 
-eternity, the giver of life and every happiness.
+Jak jego życie było pobytem nieśmiertelnej istoty w krainie znikomości, tak i śmierć była tylko jednym z momentów nadludzkiego istnienia.
 
-He died because he felt that his body was growing weak and useless. He
+Pan zbudził się o wschodzie słońca i wsparty na dwu prorokach, otoczony chórem kapłanów, udał się do kaplicy Ozyrysa. Tam, jak zwykle, wskrzesił bóstwo, umył je i ubrał, złożył ofiarę i podniósł ręce do modlitwy.
 
-died because he was yearning for his eternal home and he wished to
+Przez ten czas kapłani śpiewali:
 
-confide the cares of earthly rule to hands that were more youthful.
+Chór I. „Cześć tobie, który wznosisz się na horyzoncie i przebiegasz niebo...
 
-Finally he died because he wished to die, for such was his will. His
+Chór II. Gościńcem twej świętości jest pomyślność tych, na których oblicza padają twe promienie...
 
-divine spirit flew away, like a falcon which, circling for a time above
+Chór I. Mógłżebym iść, jako ty idziesz, bez zatrzymywania się, o słońce!...
 
-the earth, vanishes at last in blue expanses.
+Chór II. Wielki wędrowcze przestrzeni, który nie masz pana i dla którego setki milionów lat są tylko oka mgnieniem...
 
-As his life had been the sojourn of an immortal in the region of
+Chór I. Ty zachodzisz, ale trwasz. Mnożysz godziny, dnie i noce i trwasz sam, według praw twoich własnych...
 
-evanescence, his death was merely one among moments in the existence of
+Chór II. Oświetlasz ziemię, ofiarowując własnymi rękoma samego siebie, kiedy pod postacią Ra wschodzisz na widnokręgu.
 
-the superhuman.
+Chór I. O gwiazdo, wynurzająca się, wielka przez swoją światłość, ty sama kształtujesz swoje członki...
 
-Ramses XII woke about sunrise; leaning on two prophets, surrounded by a
+Chór II. I nie urodzony przez nikogo rodzisz sam siebie na horyzoncie.”
 
-chorus of priests, he went to the chapel of Osiris. There, as usual, he
+A w tym miejscu odezwał się faraon:
 
-resurrected the divinity, washed and dressed it, made offerings, and
+— „O promieniejący na niebie! Pozwól, ażebym wstąpił do wieczności, połączył się z czcigodnymi i doskonałymi cieniami wyższej krainy. Niechaj wraz z nimi oglądam twoje blaski z rana i wieczorem, kiedy łączysz się z twoją matką Nut. A gdy zwrócisz ku zachodowi twe oblicze, niech moje ręce składają się do modlitwy na cześć usypiającego za górami życia
 
-raised his hands in prayer. Meanwhile the priests sang:
+Tak z podniesionymi rękoma mówił pan otoczony chmurą kadzideł. Nagle umilkł i rzucił się w tył, w ramiona asystujących kapłanów.
 
-Chorus I. "Honor to thee who raisest thyself on the horizon and
+Już nie żył.
 
-coursest across the sky."
+Wieść o śmierci faraona jak błyskawica obiegła pałac. Słudzy opuścili swoje zajęcia, dozorcy przestali czuwać nad niewolnikami, zaalarmowano gwardię i obsadzono wszystkie wejścia.
 
-Chorus II. "The pathway of thy sacredness is the prosperity of those on
+Na głównym dziedzińcu począł zbierać się tłum: kucharzy, piwniczych, masztalerzy, kobiet jego świątobliwości i ich dzieci. Jedni zapytywali: czy to prawda? inni dziwili się, że jeszcze słońce świeci na niebie, a wszyscy razem krzyczeli wniebogłosy:
 
-whose faces thy rays fall."
+— „O panie!... o nasz ojcze!... o ukochany!... Czy to może być, ażebyś już odchodził od nas?... O tak, już idzie do Abydos!... Na Zachód, na Zachód, do ziemi sprawiedliwych!... Miejsce, które ukochałeś, jęczy i płacze po tobie!...
 
-Chorus I. "Would that I might go as Thou goest, O sun! without
+Straszny wrzask rozlegał się po wszystkich dziedzińcach, po całym parku. Odbijał się od gór wschodnich, na skrzydłach wiatru przeleciał Nil i zatrwożył miasto Memfis.
 
-halting."
+Tymczasem kapłani, wśród modłów, usadowili ciało zmarłego w bogatej, zamkniętej lektyce. Ośmiu stanęło przy drągach, czterej wzięli do rąk wachlarze ze strusich piór, inni kadzidła i gotowali się do wyjścia.
 
-Chorus II. "Mighty wanderer in space, Thou who hast no lord, for thee
+Na tę chwilę przybiegła królowa Nikotris, a zobaczywszy zwłoki już w lektyce, rzuciła się do nóg zmarłego.
 
-hundreds of millions of years are merely the twinkle of an eye."
+— „O mężu mój! o bracie mój! o ukochany mój! — wołała, zanosząc się od płaczu. — O ukochany, zostań z nami, zostań w twoim domu, nie oddalaj się od tego miejsca na ziemi, w którym przebywasz...”
 
-Chorus I. "Thou goest down, but endurest. Thou multipliest hours, days,
+— „W pokoju, w pokoju, na Zachód — śpiewali kapłani — o wielki władco, idź w pokoju na Zachód...”
 
-and nights, and remainest in solitude according to thy own laws."
+— „Niestety! — mówiła królowa — śpieszysz do przewozu, aby przeprawić się na drugi brzeg! O kapłani, o prorocy, nie śpieszcie się, zostawcie go; bo przecież wy wrócicie do domów, ale on pójdzie do kraju wieczności...”
 
-Chorus II. "Thou dost illumine the earth, offering thy own self with
+— „W pokoju, w pokoju, na Zachód!... — śpiewał chór kapłański. — Jeżeli podoba się Bogu, kiedy dzień wieczności nadejdzie, ujrzymy cię znowu, o władco, bo oto idziesz do kraju, który łączy między sobą wszystkich ludzi.”
 
-thy own hands, when under the form of Ra Thou comest up on the
+Na znak dany przez dostojnego Herhora służebnice oderwały panią od nóg faraona i gwałtem odprowadziły do jej komnat.
 
-horizon."
+Lektyka niesiona przez kapłanów ruszyła, a w niej władca ubrany i otoczony jak za życia. Na prawo i na lewo, przed nim i za nim szli: jenerałowie, skarbnicy, sędziowie, wielcy pisarze, nosiciel topora i łuku, a nade wszystko — tłum kapłanów różnego stopnia.
 
-Chorus I: "O star, emerging great, through thy light, Thou thyself
+Na podwórzu służba upadła na twarz jęcząc i płacząc, ale wojsko sprezentowało broń i odezwały się trąby, jakby na powitanie żyjącego króla.
 
-formest thy own limbs."
+I istotnie, pan jak żywy niesiony był do przewozu. A gdy dosięgnięto Nilu, kapłani ustawili lektykę na złocistym statku, pod purpurowym baldachimem, jak za życia.
 
-Chorus II. "And, not begotten of any, Thou givest birth to thyself on
+Tu lektykę zasypano kwiatami, naprzeciw niej ustawiono posąg Anubisa i — statek królewski ruszył ku drugiemu brzegowi Nilu, żegnany płaczem służby i dworskich kobiet.
 
-the horizon." [Authentic hymn]
+O dwie godziny od pałacu, za Nilem, za kanałem, za urodzajnymi polami i gajami palm między Memfisem a „Płaskowzgórzem Mumii” leżała oryginalna dzielnica. Wszystkie jej budowle były poświęcone zmarłym, a zamieszkane tylko przez kolchitów i paraszytów, którzy balsamowali zwłoki.
 
-At this point the pharaoh spoke:
+Dzielnica ta była niby przedsionkiem właściwego cmentarza, mostem, który łączył żyjące społeczeństwo z miejscem wiecznego spoczynku. Tu przywożono nieboszczyków i robiono z nich mumie; tu rodziny układały się z kapłanami o cenę pogrzebu. Tu przygotowywano święte księgi i opaski, trumny, sprzęty, naczynia i posągi dla zmarłych.
 
-"O Thou radiant in the heavens! Permit that I enter eternity. Let me
+Dzielnicę tą, oddaloną od Memfisu na parę tysięcy kroków, otaczał długi mur, tu i ówdzie opatrzony bramami. Orszak niosący zwłoki faraona zatrzymał się przed bramą najwspanialszą, a jeden z kapłanów zapukał.
 
-join the revered and perfect shadows of the upper land. Let me,
+— Kto tam? — spytano ze środka.
 
-together with them, behold thy rays in the morning, and in the evening,
+— Ozyrys-Mer-amen-Ramzes, pan dwu światów, przychodzi do was i żąda, abyście przygotowali go do wiekuistej podróży — odparł kapłan.
 
-when Thou joinest thy mother Nut. And when Thou turnest thy face to the
+— Czy podobna, ażeby zagasło słońce Egiptu?... Ażeby umarł ten, który sam był oddechem i życiem?...
 
-West let my hands join while praying in honor of life, which is going
+— Taką była jego wola — odpowiedział kapłan. — Przyjmijcież tedy pana z należytą czcią i wszystkie usługi oddajcie mu, jak się godzi, ażeby nie spotkały was kary w doczesnym i przyszłym życiu.
 
-to sleep beyond the mountains." [Authentic]
+— Uczynimy, jak mówicie — rzekł głos ze środka.
 
-Thus spoke the pharaoh with upraised hands, surrounded by a cloud of
+Teraz kapłani zostawili lektykę pod bramą i śpiesznie odeszli, ażeby nie padło na nich nieczyste tchnienie zwłok nagromadzonych w tym miejscu. Zostali tylko urzędnicy cywilni pod przewodnictwem najwyższego sędziego i skarbnika.
 
-incense. All at once he ceased, and dropped into the arms of the
+Po niemałej chwili czekania brama otworzyła się i wyszło z niej kilkunastu ludzi. Mieli kapłańskie szaty i zasłonięte oblicza.
 
-priests behind him.
+Na ich widok sędzia odezwał się:
 
-He was no longer living.
+— Oddajemy wam ciało pana naszego i waszego. Czyńcie z nim to, co nakazują przepisy religijne, i niczego nie zaniedbajcie, ażeby ten wielki zmarły nie doznał z winy waszej niepokoju na tamtym świecie.
 
-Intelligence of the pharaoh's death flew through the palace like
+Skarbnik zaś dodał:
 
-lightning. Servants left their occupations, overseers ceased to watch
+— Użyjcie złota, srebra, malachitu, jaspisu, szmaragdów, turkusów i najosobliwszych wonności dla tego oto pana, aby mu nic nie brakło i aby wszystko miał w jak najlepszym gatunku. To mówię wam ja, skarbnik. A gdyby znalazł się niegodziwiec, który zamiast szlachetnych metalów chciałby podstawić nędzne falsyfikaty, a zamiast drogich kamieni — szkło fenickie, niech pamięta, że będzie miał odrąbane ręce i wyjęte oczy.
 
-over their slaves, the guard was roused; all entrances were occupied.
+— Stanie się, jak żądacie — odpowiedział jeden z zasłoniętych kapłanów.
 
-In the main court a throng began to gather; cooks, cellarers,
+Po czym inni podnieśli lektykę i weszli z nią w głąb dzielnicy zmarłych śpiewając:
 
-equerries, women of his holiness, and their children. Some inquired:
+— „Idziesz w pokoju do Abydos!... Obyś doszedł w pokoju do Zachodu tebańskiego!... Na Zachód, na Zachód, do ziemi sprawiedliwych!”
 
-"Is this true?" Others wondered that the sun shone in heaven, but all
+Brama zamknęła się, a najwyższy sędzia, skarbnik i towarzyszący im urzędnicy zawrócili się do przewozu i pałacu.
 
-cried at once in heaven-piercing voices,
+Przez ten czas zakapturzeni kapłani odnieśli lektykę do ogromnego budynku, gdzie balsamowano tylko królewskie zwłoki oraz tych najwyższych dostojników, którzy pozyskali wyjątkową łaskę faraona. Zatrzymali się w przysionku, gdzie stała złota łódź na kółkach, i zaczęli wydobywać nieboszczyka z lektyki.
 
-"O our lord! O our father! O beloved! Can it be that Thou hast gone
+— Patrzcie! — zawołał jeden z zakapturzonych — nie sąż to złodzieje?... Faraon przecie umarł pod kaplicą Ozyrysa, więc musiał być w paradnym stroju... A tu — o!... Zamiast złotych bransolet — mosiężne, łańcuch także mosiężny, a w pierścieniach fałszywe klejnoty...
 
-from us? Oh it is true, he is going to Abydos! To the West, to the
+— Prawda — odparł inny. — Ciekawym, kto go tak oporządził: kapłani czy pisarze?
 
-West, to the land of the just ones! The place which Thou hast loved
+— Z pewnością kapłani... O bodaj wam poschły ręce, gałgany!... I taki łotr jeden z drugim śmie nas upominać, ażebyśmy dawali nieboszczykowi wszystko w najlepszym gatunku...
 
-groans and weeps for thee!" [Authentic]
+— To nie oni żądali, tylko skarbnik...
 
-Terrible uproar was heard throughout all the courts, throughout the
+— Wszyscy są złodzieje...
 
-whole park. It was echoed from the eastern hills, on the wings of the
+Tak rozmawiając, balsamiści zdjęli z nieboszczyka odzież królewską, włożyli na niego tkany złotem szlafrok i przenieśli zwłoki do łodzi.
 
-wind it flew across the Nile, and disturbed the city of Memphis.
+— Bogom niech będą dzięki — mówił któryś z zasłoniętych — że już mamy nowego pana. Ten z kapłaństwem zrobi porządek... Co wzięli rękoma, zwrócą gębą...
 
-Meanwhile, the priests, amid prayers, placed the body of the deceased
+— Uuu!... mówią, że to będzie ostry władca — wtrącił inny. — Przyjaźni się z Fenicjanami, chętnie przestaje z Pentuerem, który przecie nie jest rodowity kapłan, tylko z takich biedaków jak my... A wojsko, powiadają, że dałoby się spalić i wytopić za nowego faraona...
 
-in a rich closed litter. Eight stood at the poles of the litter; four
+— I jeszcze w tych dniach sławnie pobił Libijczyków...
 
-took ostrich feather fans in their hands, others censers, and they
+— Gdzież on jest, ten nowy faraon?... — odezwał się inny. — W pustyni!... Otóż lękam się, ażeby zanim wróci do Memfis, nie spotkało go nieszczęście...
 
-prepared to go forth.
+— Co mu kto zrobi, kiedy ma wojsko za sobą! Niech nie doczekam uczciwego pogrzebu, jeżeli młody pan nie zrobi z kapłaństwem tak jak bawół z pszenicą...
 
-At this moment Queen Niort's ran in, and, seeing the remains in the
+— Oj ty głupi! — wtrącił milczący dotychczas balsamista. — Faraon podoła kapłanom!...
 
-litter, threw herself at the feet of the dead pharaoh.
+— Czemuż by nie?...
 
-"O my husband! O my brother! O my beloved!" cried she, carried away
+— A czy widziałeś kiedy, ażeby lew poszarpał piramidę?...
 
-with weeping. "O beloved, remain with us, remain in thy house, withdraw
+— Także gadanie!...
 
-not from this place on earth in which Thou art dwelling!" [Authentic.]
+— Albo bawół roztrącił ją?
 
-"In peace, in peace, to the West," sang the priests. "O mighty
+— Rozumie się, że nie roztrąci.
 
-sovereign, go in peace to the West."
+— A wicher obali piramidę?
 
-"Misfortune," said the queen, "Thou art hastening to the ferry to pass
+— Co on dzisiaj wziął na wypytywanie?...
 
-to the other shore! O priests, O prophets, hasten not, leave him; for
+— No, więc ja ci mówię, że prędziej lew, bawół czy wicher przewróci piramidę, aniżeli faraon pokona stan kapłański... Choćby ten faraon był lwem, bawołem i wichrem w jednej osobie...
 
-ye will return to your houses, but he will go to the land of eternity."
+— Hej tam, wy! — zawołano z góry. — Gotów nieboszczyk?...
 
-"In peace, in peace to the West," sang the priestly chorus. "If it
+— Już... już... tylko mu szczęka opada — odpowiedziano z przysionka.
 
-please the god, when the day of eternity comes, we shall see thee, O
+— Wszystko jedno... Dawać go tu prędzej, bo Izyda za godzinę musi iść do miasta...
 
-sovereign! For now Thou art going to the land which brings all men
+Po chwili złota łódź, wraz z nieboszczykiem, za pomocą sznurów została podniesiona w górę, na balkon wewnętrzny.
 
-together."
+Z przysionka wchodziło się do wielkiej sali pomalowanej na kolor niebieski i ozdobionej żółtymi gwiazdami. Przez całą długość sali do jednej ze ścian był przyczepiony niby ganek w formie łuku, którego końce wznosiły się na piętro, środek na półtora piętra wysoko.
 
-At a sign given by the worthy Herhor, the attendants drew the queen
+Sala wyobrażała sklepienie niebieskie, ganek drogę słońca na niebie, zmarły zaś faraon miał być Ozyrysem, czyli słońcem, które posuwa się od wschodu ku zachodowi.
 
-from the feet of the pharaoh, and led her by force to her chambers.
+Na dole sali stał tłum kapłanów i kapłanek, którzy oczekując na uroczystość, rozmawiali o rzeczach obojętnych.
 
-The litter, borne by priests, moved on, and in it the sovereign,
+— Gotowe!... — zawołano z balkonu.
 
-dressed and surrounded, as if living. On the right, and on the left,
+Rozmowy umilkły. W górze rozległ się trzykrotny dźwięk spiżowej blachy i — na balkonie ukazała się złocista łódź słońca, w której jechał nieboszczyk.
 
-before and behind him, went generals, treasurers, judges, chief
+Na dole zabrzmiał hymn na cześć słońca:
 
-scribes, the bearers of the mace and the bow, and above all a throng of
+„Oto ukazuje się w obłoku, aby oddzielić niebo od ziemi, a później je połączyć...
 
-priests of various dignities.
+Nieustannie ukryty w każdej rzeczy, on jeden żyjący, w którym wiekuiście istnieją wszystkie rzeczy...”
 
-In the courtyard, the servants fell on their faces, groaning and
+Łódź stopniowo posuwała się w górę łuku, wreszcie stanęła na najwyższym szczycie.
 
-weeping, but the troops presented arms and the trumpets sounded, as if
+Wówczas na dolnym krańcu łuku ukazała się kapłanka przebrana za boginią Izydę, z synem Horusem, i również wolno zaczęła wchodzić pod górę. Był to obraz księżyca, który posuwa się za słońcem.
 
-to greet a living pharaoh.
+Teraz łódź ze szczytu łuku zaczęła opuszczać się ku zachodowi, a na dole znowu odezwał się chór:
 
-Between Memphis and the "Tableland of Mummies," lay a peculiar division
+„Bóg wcielony we wszystkie rzeczy, duch Szu we wszystkich bogach. On jest ciałem żyjącego człowieka, twórcą drzewa, które nosi owoce, on jest sprawcą użyźniających wylewów. Bez niego nic nie żyje w ziemskim kręgu
 
-of the city. All its buildings were devoted to the dead, and it was
+Łódź znikła na zachodnim końcu balkonu, Izyda z Horusem stanęli na szczycie łuku. Wówczas do łodzi przybiegła gromada kapłanów, wydobyli zwłoki faraona i położyli je na marmurowym stole, niby Ozyrysa na spoczynek po dziennym trudzie.
 
-inhabited only by dissectors and embalmers.
+Teraz do nieboszczyka zbliżył się paraszyta przebrany za bożka Tyfona. Na głowie miał okropną maskę, rudą kudłatą perukę, na plecach skórę dzika, a w ręku — kamienny nóż etiopski.
 
-This division was the forecourt as it were, of the cemetery proper, the
+Nożem tym zaczął prędko odrzynać podeszwy nieboszczykowi.
 
-bridge which joined living society with the city of endless rest. To
+— Co robisz śpiącemu, bracie Tyfonie? — zapytała go z balkonu Izyda.
 
-this place were brought corpses, and mummies were made of them; here
+— Oskrobuję nogi memu bratu Ozyrysowi, aby ziemskim pyłem nie zanieczyścił nieba — odpowiedział paraszyta przebrany za Tyfona.
 
-families stipulated with priests, touching the cost of funerals. Here
+Oderznąwszy podeszwy paraszyta porwał zgięty drut, zanurzył go w nosie zmarłego i zaczął wydobywać mózg. Następnie rozciął mu brzuch i tym otworem szybko wyciągnął wnętrzności, serce i płuca.
 
-were prepared sacred books and bandages, coffins, implements, vessels,
+Przez ten czas pomocnicy Tyfona przynieśli cztery wielkie urny ozdobione głowami bogów: Hape, Emset, Duamutf i Quebhsneuf, i w każdy z tych dzbanów złożyli jakiś wewnętrzny organ zmarłego.
 
-and statues for the departed.
+— A co tam robisz, bracie Tyfonie? — zapytała po raz drugi Izyda.
 
-This district was a couple of thousand yards from Memphis. It was
+— Oczyszczam brata mego, Ozyrysa, z rzeczy ziemskich, ażeby stał się piękniejszym — odpowiedział paraszyta.
 
-surrounded by a long wall provided with gates here and there.
+Obok marmurowego stołu znajdowała się sadzawka wody nasyconej sodą. Paraszyci, oczyściwszy zwłoki, rzucili je następnie w sadzawkę, gdzie miały moknąć przez siedemdziesiąt dni.
 
-The retinue bearing the remains of the pharaoh halted before the
+Tymczasem Izyda, przeszedłszy cały balkon, zbliżyła się do komnaty, w której paraszyta otworzył i oczyścił królewskie zwłoki. Spojrzała na marmurowy stół, a widząc, że był pusty, zapytała przestraszona:
 
-richest gate, and one of the priests knocked at it.
+— Gdzie mój brat?... gdzie mój boski małżonek?...
 
-"Who is there?" inquired those within.
+Wtem ryknął grzmot, odezwały się trąby i spiżowe blachy, a paraszyta przebrany za Tyfona wybuchnął śmiechem i zawołał:
 
-"Osiris-Mer-Amen-Ramses, the lord of two worlds, has come and desires
+— Piękna Izydo, która pospołu z gwiazdami rozweselasz noce, nie ma już twego małżonka!... Już nigdy promieniejący Ozyrys nie usiądzie na złocistej łodzi, już nigdy słońce nie ukaże się na firmamencie... Ja to uczyniłem, ja, Set, i ukryłem go tak głęboko, że go żaden z bogów ani wszyscy razem nie odnajdą!...
 
-that ye prepare him for his eternal journey," replied the priests.
+Na te słowa bogini rozdarła szaty, zaczęła jęczeć i rwać sobie włosy. Znowu odezwały się trąby, grzmoty i dzwony, wśród kapłanów i kapłanek wszczął się szmer, potem krzyk, klątwy i — nagle wszyscy rzucili się na Tyfona, wołając:
 
-"Is it possible that he, the sun of Egypt, is quenched? That he is dead
+— Przeklęty duchu ciemności!... Który podniecasz wichry pustynne, burzysz morze, zaćmiewasz światło dzienne!... Obyś zapadł w otchłań, z której sam ojciec bogów nie potrafiłby cię uwolnić... Przeklęty!... przeklęty Set!... Niech imię twoje będzie postrachem i obrzydliwością!...
 
-who himself was breath and life?"
+Tak przeklinając, wszyscy rzucili się na Tyfona z pięściami i kijami, a rudowłosy bożek począł uciekać i w końcu wybiegł z sali.
 
-"Such was his will," answered a priest. "Receive, then, the lord with
+Trzy nowe dźwięki spiżowej blachy i — uroczystość skończyła się.
 
-due honor and render all service to him, as is befitting, lest
+— No dosyć! — zawołał najstarszy kapłan do gromady, która już naprawdę zaczęła się bić między sobą. — Ty, Izydo, możesz iść do miasta, a reszta do innych nieboszczyków, którzy czekają na nas... Nie zaniedbujcie zwyczajnych zmarłych, bo nie wiadomo, jak nam za tego zapłacą...
 
-punishments meet you in this and the coming life."
+— Z pewnością niewiele! — wtrącił balsamista. — Mówią, że w skarbie nie ma nic, a Fenicjanie grożą, że przestaną pożyczać, jeżeli nie otrzymają nowych praw.
 
-"We will do as ye say," said a voice from within.
+— Bodaj śmierć wytępiła tych waszych Fenicjan!... Niedługo człowiek będzie musiał żebrać u nich o placek jęczmienny, tak już wszystko zagarnęli...
 
-The priests left the litter, and went away hurriedly, so that the evil
+— Ale jeżeli oni nie dadzą faraonowi pieniędzy, za pogrzeb nic nie dostaniemy...
 
-odor of remains accumulated in that place should not fall on them. Only
+Stopniowo rozmowy ucichły i obecni opuścili niebieską salę. Tylko przy jeziorku, gdzie mokły zwłoki faraona, została warta.
 
-civil officials under the lead of the supreme judge and treasurer
+Cała ta uroczystość odtwarzająca legendę o zabiciu Ozyrysa (słońce) przez Tyfona (bożek nocy i występku) służyła do tego, ażeby rozciąć i oczyścić zwłoki faraona, i tym sposobem przygotować je do właściwego balsamowania.
 
-remained there.
+Przez siedemdziesiąt dni leżał nieboszczyk w wodzie nasyconej sodą, zdaje się, na pamiątkę, że zły Tyfon utopił ciało brata w Sodowych Jeziorach. Przez wszystkie te dni, rano i wieczór, kapłanka przebrana za Izydę przychodziła do niebieskiej sali. Tam jęcząc i rwąc sobie włosy, wypytywała obecnych: czy kto nie widział boskiego jej małżonka i brata?
 
-'After they had waited a considerable time, the gate opened, and from
+Po upływie tego czasu żałoby zjawił się w sali Horus, syn i następca Ozyrysa, ze swoją świtą i — oni dopiero spostrzegli wannę z wodą.
 
-ten to twenty persons showed themselves. They wore priestly garments
+— Może by tu poszukać zwłok mego ojca i brata? — spytał Horus.
 
-and their faces were covered.
+Jakoż poszukali, znaleźli i wśród ogromnej radości kapłanów, przy dźwiękach muzyki wydobyli ciało faraona z umacniającej kąpieli.
 
-"We give you," said the judges, on seeing them, "the body of our lord
+Ciało to włożono do kamiennej rury, przez którą kilka dni przepływało gorące powietrze, i po wysuszeniu oddano balsamistom.
 
-and yours. Do with it what the rules of religion enjoin, and omit
+Teraz zaczęły się ceremonie najważniejsze, które nad nieboszczykiem dokonywali najwyżsi kapłani dzielnicy zmarłych.
 
-nothing, so that the great deceased may not experience unquiet in that
+Ciało nieboszczyka zwrócone głową do południa obmywano poświęconą wodą, a jego wnętrze winem palmowym. Na posadzce osypanej popiołem zasiadały płaczki i szarpiąc sobie włosy, drapiąc twarze opłakiwały zmarłego. Dokoła śmiertelnego łoża zgromadzili się kapłani przebrani za bożków. Więc naga Izis w koronie faraonów, młodzieńczy Horus, Anubis z głową szakala, Tot z głową ptasią a tabliczkami w rękach i wielu innych.
 
-world through your fault."
+Pod dozorem tego czcigodnego grona specjaliści zaczęli napełniać wnętrze zmarłego silnie pachnącymi ziołami, trocinami i nawet wlewać tam wonne żywice, wszystko wśród modłów. Potem, zamiast jego własnych, włożyli mu oczy szklanne, oprawione w brąz.
 
-The treasurer added,
+Następnie całe ciało obsypano proszkiem sody.
 
-"Use gold, silver, malachite, jasper, emerald, turquoise, and the most
+Teraz przystąpił inny kapłan i wyłożył obecnym, że ciało zmarłego jest ciałem Ozyrysa i jego własności są własnościami Ozyrysa. „Czarodziejskie własności jego lewej skroni są własnościami skroni boga Tumu, a jego prawe oko jest okiem boga Tumu, którego promienie przebijają ciemność. Jego lewe oko jest okiem Horusa, które tępi wszystkie stworzenia żyjące, warga górna to Izis
 
-rare kinds of incenses for this lord, so that nothing be lacking that
+Inny kapłan mówi:
 
-he may have whatever is best. I, the treasurer, say this to you. And if
+— „Dano mi usta do mówienia, nogi do chodzenia, ręce, abym obalał nieprzyjaciół moich. Zmartwychwstaję, istnieję, otwieram niebo; robię to, co mi nakazano w Memfis.”
 
-the wretch should be found who, instead of noble metals, gives
+A tymczasem na szyi zmarłego wieszają wizerunek chrząszcza skarabeusza zrobiony z drogiego kamienia, na którym jest napis:
 
-counterfeit, and instead of genuine stones, gives Phoenician glass, let
+— „O serce moje, serce, którem otrzymał od matki, które miałem, kiedym był na ziemi, o serce, nie powstań przeciw mnie i nie daj złego świadectwa w dzień sądu.”
 
-him remember that his hands will be cut off and his eyes dug out."
+Teraz każdą rękę i nogę, każdy palec zmarłego owijają kapłani taśmami, na których wypisane są modlitwy i zaklęcia. Taśmy te podkleja się gumą i balsamami. Na piersiach zaś i na szyi kładą się całe rękopisy Księgi Zmarłych z następnymi medytacjami, które nad nieboszczykiem głośno odmawiają kapłani:
 
-"It will be as ye wish," replied one of the veiled priests.
+— „Jestem ten, któremu żaden bóg nie stawia przeszkód.
 
-Others raised the litter and bore it to the interior of the district of
+Kto to jest?...
 
-the dead.
+On jest Tum na swej tarczy, on jest Ra na swej tarczy, która wznosi się na wschodzie nieba.
 
-"Thou art going in peace to Abydos! Mayst Thou go in peace to the
+Jestem Wczoraj i znam Jutro.
 
-Theban West. To the West, to the West, to the land of the just ones!"
+Kto to jest?
 
-The gate closed, the supreme judge, the treasurer, and the officials
+Wczoraj — jest to Ozyrys, Jutro — jest to Ra, w tym dniu, kiedy zniweczy nieprzyjaciół Pana, który jest nad wszystkim, i kiedy poświęci syna swego Horusa. Innymi słowy: w dniu, kiedy trumnę Ozyrysa spotka jego ojciec Ra. On zwalczy bogów na rozkaz Ozyrysa, pana góry Amenti.
 
-accompanying them returned to the palace.
+Co to jest?
 
-The hooded priests bore the litter to an immense building where only
+Amenti jest to tworzenie dusz bogów na rozkaz Ozyrysa, pana góry Amenti. Innymi słowy: Amenti jest to podniecenie wzbudzone przez Ra; każdy bóg, który tam przybywa, stacza walkę. Znam wielkiego boga, który tam mieszka.
 
-the remains of pharaohs were embalmed, or those of high dignitaries who
+Ja jestem z mego kraju, przychodzę z mojego miasta, niszczę złe, usuwam niedobre, oddalam brud od siebie. Dostaję się do kraju mieszkańców na niebie, wstępuję przez potężną bramę.
 
-had gained the exceptional favor of a pharaoh.
+O wy, towarzysze, podajcie mi rękę, gdyż będę jednym z Was.”
 
-The priests stopped in the antechamber, where stood the golden boat on
+Gdy każdy członek zmarłego został już owinięty modlitewnymi taśmami i zaopatrzony w amulety, gdy posiada już dostateczny zasób medytacji, które pozwolą mu orientować się w krainie bogów, należy pomyśleć o dokumencie, który by otworzył wrota do owej krainy.
 
-wheels, and took the corpse from the litter.
+Albowiem między mogiłą i niebem czeka na zmarłego czterdziestu dwu straszliwych sędziów, którzy, pod prezydencją Ozyrysa, badają jego ziemskie życie. Dopiero gdy serce nieboszczyka, zważone na wadze sprawiedliwości okaże się równym bogini prawdy, gdy bóg Dutes zapisujący na tabliczkach czyny zmarłego uważa je za dobre, dopiero wtedy Horus bierze duszę za rękę i prowadzi ją przed tron Ozyrysa.
 
-"Look ye!" cried one of the cowled priests, "are they not criminals?
+Otóż, ażeby zmarły mógł usprawiedliwić się przed sądem, należy jego mumię owinąć w papirus, na którym jest wypisana — spowiedź powszechna. Podczas spowijania w ten dokument kapłani mówią dobitnie i wyraźnie, aby zmarły niczego nie zapomniał:
 
-The pharaoh died in the chapel of Osiris, so he must have been in
+„Władcy prawdy, przynoszę wam samą prawdę.
 
-ceremonial costume, while here oh! instead of gold ornaments bronze;
+Nie zrobiłem złego w sposób zdradziecki żadnemu człowiekowi. — Nie uczyniłem nieszczęśliwym nikogo z moich bliźnich. — Nie dopuściłem się sprośności ani zelżywego słowa w domu prawdy. — Nie miałem zażyłości ze złem. — Nie czyniłem złego. — Jako zwierzchnik, nie nakazywałem moim podwładnym pracować ponad siły. — Nikt z mojej winy nie stał się lękliwym, ubogim, cierpiącym ani nieszczęśliwym. — Nie czyniłem nic takiego, czym by pogardzali bogowie. — Nie dręczyłem niewolnika. — Nie morzyłem go głodem. — Nie wyciskałem mu łez. — Nie zabiłem. — Nie kazałem zabijać zdradziecko. — Nie kłamałem. — Nie rabowałem majątku świątyń. — Nie zmniejszałem dochodów poświęconych bogom. — Nie zabierałem chleba ani opasek mumiom. — Nie popełniłem grzechu z kapłanem mego okręgu. — Nie zabierałem mu ani zmniejszałem majętności. — Nie używałem fałszywej wagi. — Nie oderwałem niemowlęcia od piersi jego karmicielki. — Nie dopuszczałem się bestialstwa. — Nie chwytałem w sieci ptaków poświęconych bogom. — Nie szkodziłem przyborowi wody. — Nie odwracałem biegu kanałów. — Nie gasiłem ognia w porze niewłaściwej. — Nie okradałem bogów z ofiar, które wybrali. — Jestem czysty... Jestem czysty... Jestem czysty.”
 
-the chain is bronze, too, and on his breast false jewels!"
+Gdy nieboszczyk już umiał, dzięki Księdze Zmarłych, radzić sobie w krainie wiekuistej, a przede wszystkim — gdy wiedział, jak usprawiedliwić się przed sądem czterdziestu dwu bogów, wówczas kapłani zaopatrywali go jeszcze w przedmowę do tej księgi i — ustnie tłumaczyli mu jej niezmierną doniosłość.
 
-"True," said another. "I am curious to know who fitted him out thus:
+W tym celu balsamiści otaczający świeżą mumię faraona odsuwali się, a przychodził arcykapłan tej dzielnicy i szeptał zmarłemu do ucha:
 
-priests, or scribes?"
+„Wiedz o tym, że posiadając tą księgę, będziesz należał do żyjących i pozyskasz wielkie znaczenie między bogami. Wiedz o tym, że dzięki jej nikt nie ośmieli się sprzeciwiać tobie. Sami bogowie zbliżą się do ciebie i uściskają cię, albowiem — będziesz należał do ich grona.
 
-"Surely priests. Oh, would that your hands withered, ye scoundrels! And
+Wiedz o tym, że ta księga da ci poznać: co było na początku. Żaden człowiek jej nie głosił, żadne oko nie widziało, żadne ucho nie słyszało jej. Księga ta jest samą prawdą, ale nikt i nigdy jej nie znał. Niechże ona będzie widzianą tylko przez ciebie i tego, który cię w nią zaopatrzył. Nie rób do niej komentarzy, jakie mogłaby ci nasunąć twoja pamięć albo wyobraźnia. Pisze się ona całkowicie w sali, gdzie balsamują zmarłych. Jest to wielka tajemnica, której nie zna żaden pospolity człowiek, żaden w świecie.
 
-some wretch they are all such dared command us to give the deceased
+Książka ta będzie twym pokarmem w niższej krainie duchów, dostarczy twej duszy środków pobytu na ziemi, da jej życie wieczne i sprawi, że nikt nie będzie miał władzy nad tobą.”
 
-what was best."
+Zwłoki królewskie ubrano w kosztowne szaty, w złotą maskę na twarz, w pierścienie i bransolety na rękach, które złożono na krzyż. Pod głowę dano mu z kości słoniowej podpórkę, na jakiej zwykli byli sypiać Egipcjanie. Wreszcie zamknięto ciało w trzech trumnach: papierowej, okrytej napisami, cedrowej złoconej i — marmurowej. Kształt dwu pierwszych odpowiadał dokładnie formie ciała zmarłego; nawet rzeźbiona twarz była podobna, tylko uśmiechnięta.
 
-"It was not they, but the treasurer."
-
-"They are all rogues."
-
-Thus discoursing, the embalmers took from the deceased his garments of
-
-a pharaoh, put on him a gown of cloth of gold and bore the remains to
-
-the boat.
-
-"Thanks to the gods," said one of the cowled men, "we have a new
-
-pharaoh. He will bring the priests to order. What they have taken with
-
-their hands they will bring back with their mouths."
-
-"Uuu! they say that he will be a shrewd ruler," put in another. "He is
-
-friendly with the Phoenicians; he passes time willingly with Pentuer,
-
-who is not of priestly family, but of such poor people as we. But the
-
-army, they say the army would let itself be burnt and drowned for the
-
-new pharaoh."
-
-"Besides, he conquered the Libyans most gloriously a few days ago."
-
-"Where is he now, that new pharaoh?" asked another. "In the desert? I
-
-am afraid that misfortune may meet him before he comes back to us."
-
-"What will any one do to him when he has an army behind him? May I not
-
-live to an honest burial if the young lord will not treat the priests
-
-as a buffalo treats growing wheat."
-
-"O Thou fool!" interrupted an embalmer who had been silent till that
-
-moment. "The pharaoh conquer the priests!"
-
-"Why not?"
-
-"But hast Thou ever seen that a lion tore down a pyramid?"
-
-"Nonsense!"
-
-"Or that a buffalo tossed it apart?"
-
-"Of course he cannot toss it."
-
-"Or that a tempest overturned it."
-
-"What has this man begun at today?"
-
-"Well, I tell thee that sooner will a lion, a buffalo, or a tempest
-
-overturn the great pyramid than the pharaoh put an end to the
-
-priesthood. Even if that pharaoh were a lion, a buffalo, and a tempest
-
-in one person."
-
-"Hei ye, there!" cried men from above. "Is the corpse ready?"
-
-"Yes, yes; but its jaw has fallen," answered they at the entrance.
-
-"All one give it up here, for Isis must go to the city an hour from
-
-now."
-
-After a while the golden boat with the dead pharaoh was raised by means
-
-of ropes to an internal balcony.
-
-From the entrance it went into a great hall, painted in the color of
-
-the sky, and ornamented with golden stars. Through the whole length of
-
-the hall, from one wall to the other, was fixed a balcony in the form
-
-of an arch the ends of which were one story high and the centre a story
-
-and a half.
-
-The hall represented the dome of heaven, the balcony the road of the
-
-sun in the sky. The late pharaoh was to represent Osiris, or the sun,
-
-which passes from the east to the west.
-
-On the pavement of the hall stood a throng of priests and priestesses
-
-who, while waiting for the solemnity, conversed about indifferent
-
-subjects.
-
-"Ready!" cried they from the balcony.
-
-Conversation ceased. Above was heard the sound of a metal plate beaten
-
-thrice and on the balcony appeared the golden boat of the sun in which
-
-the late pharaoh was advancing.
-
-Below sounded the hymn in honor of the sun:
-
-"Behold he appears in a cloud to separate the sky from the earth, and
-
-later to connect them.
-
-"Hidden unceasingly in all things, he alone lives, in him all things
-
-exist through eternity."
-
-The boat moved gradually upward on the balcony; finally it halted at
-
-the highest point.
-
-Then at the lower end of the arch appeared a priestess, arrayed as the
-
-goddess Tsis, with her son Horus, and with equal slowness she began to
-
-ascend. That was an image of the moon, which follows the sun.
-
-Now the boat from the top of the arch began to go toward the west, and
-
-the chorus below sang again:
-
-"The god incarnate in all things, the spirit of Shu in all gods. He is
-
-the body of a living person, the creator of the tree which bears fruit,
-
-the causer of fertilizing overflows. Without him nothing lives in the
-
-earthly circle." [Authentic hymn.]
-
-The boat vanished at the western termination of the balcony, Isis and
-
-Horus stopped at the summit of the arch. A crowd of priests ran to the
-
-boat, took out the corpse of the pharaoh and placed it on a marble
-
-table, as Osiris to rest after his toils of the day.
-
-Now to the dead man came the dissector, dressed as the god Typhon. On
-
-his head were a horrid mask and a red tangled wig, on his shoulders the
-
-skin of a wild boar, and in his hand an Ethiopian stone knife.
-
-With this knife he began quickly to cut off the soles of the dead
-
-pharaoh's sandals.
-
-"What art Thou doing, O Typhon, to thy sleeping brother?" asked Isis
-
-from the balcony.
-
-"I am scraping the feet of my brother Osiris, so that he may not befoul
-
-heaven with earthly dust," replied the dissector dressed as Typhon.
-
-When he had cut off the soles, the dissector took a bent wire, thrust
-
-it into the nostrils of the deceased and began to extract his brains.
-
-Next he made an opening in his body, and through that opening drew out
-
-quickly the heart, lungs, and viscera.
-
-During this time the assistants of Typhon brought four great urns
-
-adorned with the heads of the gods Hape, Emset, Duamut and Quebhsneuf,
-
-and in each of those urns he placed some internal organ of the deceased
-
-pharaoh.
-
-"But what art Thou doing, O brother Typhon?" inquired Isis a second
-
-time.
-
-"I am purifying my brother Osiris of earthly things, so that he may
-
-become more beautiful," replied the dissector.
-
-At the side of the marble table was a vat of water with soda in
-
-solution. The dissectors, when they had cleaned the body, put it into
-
-the vat where it was to soak seventy days.
-
-Meanwhile Isis, when she had passed over the entire vault, approached
-
-the chamber where the dissectors had cleaned the pharaoh's body. She
-
-looked at the marble table, and, seeing that it was empty, inquired in
-
-terror,
-
-"Where is my brother? Where is my divine consort?"
-
-Thereupon thunder roared, trumpets and bronze plates sounded; the
-
-dissector disguised as Typhon burst into laughter, and cried,
-
-"O beautiful Isis, who in company with the stars delightest the night,
-
-thy consort exists not. Never again will the radiant Osiris sit in the
-
-golden boat, never again will that sun appear on the firmament. I have
-
-done this, I, Set, and I have hidden him so deeply that none of the
-
-gods, nor all the gods together will find him."
-
-At these words the goddess rent her garments, she groaned and tore her
-
-hair. Again sounded trumpets, thunder, and plates; among the priests
-
-and priestesses an uproar began, then shouting and curses. Suddenly all
-
-rushed at Typhon crying,
-
-"Cursed spirit of darkness! Thou rousest the whirlwinds of the desert,
-
-Thou rousest the sea, darkenest the light of day! Mayst Thou fall into
-
-the pit from which the father of the gods himself could not free thee.
-
-Cursed! Cursed Set! May thy name be a disgust and a terror!"
-
-While cursing in this way they all attacked Typhon with fists and
-
-clubs; the red-haired god fled, and rushed at last out of the building.
-
-Again the bronze plates sounded thrice, and the solemnity was ended.
-
-"Well, that is enough!" cried the senior priest to the assembly which
-
-had begun to fight in earnest. "Thou, Isis, mayest return to the city,
-
-but the rest of us must go to other departed ones who are waiting for
-
-our services. We must not neglect the ordinary dead, for it is unknown
-
-how much they will pay us for this one."
-
-"Not much indeed!" interrupted the embalmer. "People say that there is
-
-nothing in the treasury, while the Phoenicians threaten to cease
-
-lending unless new rights are given them."
-
-"May death destroy all those Phoenicians! Soon a man will be forced to
-
-beg a barley cake of them; even now they have snatched away
-
-everything."
-
-"But unless they lend the pharaoh money we shall get nothing for the
-
-funeral."
-
-Conversation ceased gradually, and those present left the heavenly
-
-hall. Only at the vat where the body of the pharaoh lay steeping was a
-
-guard left.
-
-All this solemnity, representing the legend of the slaying of Osiris
-
-(the sun) by Typhon (the god of night and crime), served to open and
-
-clean the body of the pharaoh, and in this way prepare it for the
-
-embalming proper.
-
-During seventy days the departed must lie in a solution of soda, in
-
-memory, it seems, of this, that the wicked Typhon had sunk the body of
-
-his brother in the Soda Lakes. During all these days a priestess,
-
-dressed as Isis, came to the heavenly hall, morning and evening. There,
-
-groaning and tearing her hair, she inquired of all present whether any
-
-one had seen her divine consort and brother.
-
-At the expiration of that time of mourning, Horus, the son and heir of
-
-Osiris, with his suite appeared in the hall, and they were the first to
-
-see the vat with the solution.
-
-"Might we look here for the remains of my father and brother?" asked
-
-Horus.
-
-So they searched and found; amid the immense delight of the priests,
-
-with sounds of music, they removed the body of the pharaoh from the
-
-strengthening bath.
-
-The body was put into a stone cylinder through which passed a hot
-
-breeze for a number of days, and, when the body was dried they gave it
-
-to the embalmers.
-
-Now began the most important ceremonies, which were performed by the
-
-supreme priests of the court of the dead:
-
-The body of the departed, turned head southward, they washed with
-
-consecrated water and the interior with palm wine. On the pavement,
-
-which was sprinkled with ashes, sat wailing women who tore their hair
-
-and scratched their faces; they bewailed the late pharaoh. Around the
-
-couch where the body lay were assembled priests dressed as gods. These
-
-were Isis naked with a crown of the pharaohs, the youthful Horns,
-
-Anubis with a jackal head, bird-headed Tot with tablets in his hands,
-
-and many others.
-
-Under the inspection of this worthy assembly, specialists began to fill
-
-the body with strongly odorous plants and sawdust, they even poured in
-
-odorous resin, all amid prayers. Then in his eye-sockets they inserted
-
-glass eyes set in bronze. After that the whole body was sprinkled with
-
-powdered soda.
-
-Another priest appeared now who explained to those present that the
-
-body of the departed was the body of Osiris, that his qualities were
-
-the qualities of Osiris. "The magic qualities of his left temple are
-
-the qualities of the god Turn and his right eye is the eye of the god
-
-Turn, whose rays pierce through darkness. His left eye is the eye of
-
-Horus, which dazzles every living creature; the upper lip that of Isis,
-
-and the lower that of Nefthys. The neck of the departed is the goddess,
-
-his hands are divine spirits, his fingers the heavenly serpents, sons
-
-of the goddess Setkit. His sides are the two feathers of Amon, his back
-
-the backbone of Sib, his belly is the good Nue." [Maspero]
-
-Another priest spoke,
-
-"A mouth was given me for speaking, feet for walking, hands to overturn
-
-my enemies. I rise from the dead, I exist, I open heaven; I do what has
-
-been commanded me in Memphis." [Authentic]
-
-Meanwhile on the neck of the departed they hung a scarab made of a
-
-precious stone, on which was this inscription: "O my heart, heart which
-
-I received from my mother, which I had when I was on earth, O heart do
-
-not rise against me and do not give evil witness in the day of
-
-judgment." [Authentic]
-
-Next priests wound around each arm and foot, each finger and toe of the
-
-dead, strips on which were written prayers and spells. Those strips
-
-they fastened with gum and balsam. On the breast and on the neck they
-
-placed complete manuscripts of the Book of the Dead with the following
-
-meditations which the priests read aloud over the body,
-
-"I am he before whom no god puts an obstacle.
-
-"Who is that?
-
-"He is Turn on his shield, he is Ra on his shield, which rises in the
-
-east of heaven.
-
-"I am Yesterday and I know Tomorrow.
-
-"Who is he?
-
-"Yesterday is Osiris, Tomorrow is Ra on the day when he annihilates the
-
-enemies of the Lord who is above all and when he consecrates his son
-
-Horus. In other words, in the day when his father Ra meets the coffin
-
-of Osiris. He conquers the gods at command of Osiris, the lord of the
-
-mountain Amenti.
-
-"What is that?
-
-"Amenti is a creation of the soul of the gods, at command of Osiris,
-
-the lord of the mountain.
-
-"In other words, Amenti is that impulse roused by Ra. Every god who
-
-arrives there carries on a battle. I know the great god who dwells
-
-there.
-
-"I am from my country, I come from my city, I destroy evil, I set aside
-
-that which is not good, I remove uncleanness from myself, I betake
-
-myself to the country of dwellers in heaven, I enter through the mighty
-
-gate.
-
-"O ye comrades, give me a hand, for I shall be one of you." ["Book of
-
-the Dead."]
-
-When every member of the departed was covered with prayer bandages, and
-
-furnished with amulets, when he had a sufficient supply of meditations
-
-to find the way in the region of the gods, it was proper to think of a
-
-document which would open the gate of that region. For between the tomb
-
-and heaven forty-two terrible judges were waiting for the dead man;
-
-these, under presidency of Osiris, examined his earthly life. Only when
-
-the heart of the departed, weighed in the scales of justice, appeared
-
-equal to the goddess of truth, when the god Dutes, who writes on his
-
-tablets the deeds of the dead, considered it just, only then did Horus
-
-take the soul by the hand and lead it before the throne of Osiris.
-
-So that the dead might be able to justify himself before the court it
-
-was necessary to wrap the mummy in a papyrus on which was written a
-
-general confession. While they were winding him in this document the
-
-priest spoke clearly and with emphasis, so that the dead might not
-
-forget:
-
-"Lords of truth, I bring thee truth itself. I have not done evil to any
-
-man treacherously. I have not made any one near me unfortunate. I have
-
-not permitted myself any lewdness or abusive word in the house of
-
-veracity. I have had no intimacy with evil. I have committed nothing
-
-bad. As a superior I have not commanded my subordinates to work beyond
-
-their strength. No one through my fault has become afraid, poor,
-
-suffering, or unhappy. I have done nothing of any kind which the gods
-
-would despise. I have not tormented a slave. I have not killed him with
-
-hunger. I have not forced tears from him. I have not slain. I have not
-
-commanded to kill a slave treacherously. I have not lied, I have not
-
-plundered the property of temples. I have not decreased incomes devoted
-
-to the gods. I have not taken away the bread or the bandages of
-
-mummies. I have not committed sin with the priest of my district. I
-
-have not taken from him or decreased his property. I have not used
-
-false weights. I have not snatched away an infant from the breast of
-
-its nurse. I have never committed anything bestial. I have not caught
-
-in nets birds devoted to the gods. I have not hindered the inundation
-
-of water. I have not turned away the course of canals. I have not
-
-quenched fire at a time that was improper, I have not stolen from the
-
-gods offerings which they had chosen. I am pure I am pure I am pure."
-
-["Book of the Dead." This is one of the loftiest documents left us by
-
-antiquity.]
-
-When the departed was able, thanks to the Book of the Dead to help
-
-himself in the region of eternity, and above all when he knew how to
-
-justify himself before the court of the forty-two gods, the priests
-
-furnished him still further with an introduction to this book, and
-
-explained to him orally its immense importance. In view of this the
-
-embalmers who surrounded the fresh mummy of the pharaoh withdrew and a
-
-high priest of that quarter came and whispered into the ear of the
-
-departed:
-
-"Know that through the possession of this book Thou shalt belong to the
-
-living and attain to great significance among gods. Know that, thanks
-
-to it, no one will dare to oppose thee. The gods themselves will
-
-approach thee and embrace thee, for Thou wilt belong to their company.
-
-"Know that this book informs thee of what was at the beginning. No man
-
-has uttered it, no eye has seen it, no ear has heard it. This book is
-
-truth itself, but no one has ever known it. Let it be seen only through
-
-thee and through him who will behold thee in it. Add to it no
-
-commentary which thy memory or imagination might suggest to thee. It is
-
-written entirely in the hall where the departed are embalmed. It is a
-
-great secret which no common man knows, not one in the world.
-
-"This book will be thy nourishment in the lower region of spirits, it
-
-will give thy soul means of sojourn on the earth, it will give it life
-
-eternal, and effect this, that no one will have power over thee."
-
-["Book of the Dead."]
-
-The remains of the pharaoh were arrayed in costly garments, with a gold
-
-mask on the face, with bracelets on the wrists, and with rings on the
-
-hands, which were crossed on the breast. Under the head was put a
-
-support of ivory, such as Egyptians were accustomed to sleep on.
-
-Finally the body was enclosed in three coffins: one of paper covered
-
-with inscriptions, one of cedar which was gilt, and one of marble. The
-
-form of the first two corresponded accurately to the form of the body;
-
-even the sculptured face was like the original, though smiling.
-
-After a stay of three months in the quarter of the dead the mummy of
-
-the pharaoh was ready for a solemn funeral; therefore it was taken back
-
-to the palace.
+Po trzech miesiącach pobytu w dzielnicy zmarłych mumia faraona była gotowa do uroczystego pogrzebu. Więc — odniesiono ją na powrót do królewskiego pałacu.

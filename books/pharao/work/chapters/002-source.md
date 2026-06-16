@@ -1,277 +1,86 @@
-# Kapitel 2: CHAPTER II
+# Kapitel 002: Tom I - Rozdział II
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part6.xhtml*
 
 <!-- status: pending -->
 
-Straightway his worthiness Herhor directed his adjutant who carried the
+Jego dostojność Herhor natychmiast polecił swemu adiutantowi, który nosił topór, objąć dowództwo straży przedniej w miejsce Eunany. Potem wysłał rozkaz, ażeby machiny wojenne do rzucania wielkich kamieni zjechały z szosy ku wąwozowi, a żołnierze greccy aby ułatwiali im przejście w miejscach trudnych. Wszystkie zaś wozy i lektyki oficerów świty miały ruszyć na końcu.
 
-mace to take charge of the vanguard in place of Eunana. Then he
+Kiedy Herhor wydawał rozkazy, adiutant noszący wachlarz zbliżywszy się do pisarza Pentuera szepnął:
 
-commanded that the military engines for hurling great stones leave the
+— Chyba już nigdy nie będzie można jeździć tą szosą...
 
-road, and that the Greek soldiers facilitate passage for those engines
+— Dlaczego? — odparł kapłan. — Ale skoro dwa święte żuki przeszły nam drogę, nie wypada iść nią dalej. Mogłoby się zdarzyć nieszczęście.
 
-in difficult places. All vehicles and litters of staff-officers were to
+— Już i tak jest nieszczęście. Albo nie uważałeś, że książę Ramzes rozgniewał się na ministra, a nasz pan nie należy do tych, którzy zapominają...
 
-move in the rear.
+— Nie książę na naszego pana, ale nasz pan na księcia obraził się i zgromił go — odrzekł Pentuer. — I dobrze zrobił. Bo młodemu księciu już dziś wydaje się, że będzie drugim Menesem...
 
-When Herhor issued commands, the adjutant bearing the fan approached
+— Chyba Ramzesem Wielkim?... — wtrącił adiutant.
 
-Pentuer and asked,
+— Ramzes Wielki słuchał bogów, za co we wszystkich świątyniach ma chlubne napisy. Ale Menes, pierwszy faraon Egiptu, był burzycielem porządku i tylko ojcowskiej łagodności kapłanów zawdzięcza, że jego imię jest wspominane... Chociaż nie dałbym jednego utena miedzi, że mumia Menesa nie istnieje.
 
-"Will it be possible to go by this highway again?"
+— Mój Pentuerze — mówił adiutant — jesteś mędrcem, więc rozumiesz, że nam wszystko jedno, czy mamy dziesięciu panów, czy jedynastu...
 
-"Why not?" answered the young priest. "But since two sacred beetles
+— Ale ludowi nie wszystko jedno, czy ma wydobywać co roku górę złota dla kapłanów, czy dwie góry złota: dla kapłanów i dla faraona — odpowiedział Pentuer i oczy mu błysnęły.
 
-have barred the way now, we must not go farther; some misfortune might
+— Rozmyślasz o niebezpiecznych sprawach — szepnął adiutant.
 
-happen."
+— A ileż razy ty sam gorszyłeś się zbytkami dworu faraona i nomarchów?... — spytał zdziwiony kapłan.
 
-"As it is, a misfortune has happened. Or hast Thou not noticed that
+— Cicho... cicho!... jeszcze będziemy mówili o tych rzeczach, ale nie teraz.
 
-Prince Ramses is angry at the minister? and our lord is not forgetful."
+Pomimo piasku machiny wojenne, do których przyprzężono po dwa woły, szybciej toczyły się po pustyni aniżeli po szosie. Przy pierwszej z nich szedł Eunana, zakłopotany i rozmyślający nad tym: dlaczego minister pozbawił go dowództwa przedniej straży? Czy chce mu powierzyć jakieś wyższe stanowisko?
 
-"It is not the prince who is offended with our lord, but our lord with
+Wyglądając tedy nowej kariery, a może dla zagłuszenia obaw, które miotały jego sercem, pochwycił drąg i gdzie był głębszy piasek, podpierał balistę albo krzykiem zachęcał Greków. Ci jednak mało zwracali na niego uwagi.
 
-the prince, and he has reproached him. He has done well; for it seems
+Już dobre pół godziny orszak posuwał się krętym wąwozem o ścianach nagich i spadzistych, gdy straż przednia znowu zatrzymała się. W tym miejscu znajdował się inny wąwóz, poprzeczny, środkiem którego ciągnął się dość szeroki kanał.
 
-to the young prince, at present, that he is to be a second Menes."
+Goniec, wysłany do ministra z wiadomością o przeszkodzie, przywiózł polecenie, ażeby kanał natychmiast zasypać.
 
-"Or a Ramses the Great," put in the adjutant.
+Około setki żołnierzy greckich z oskardami i łopatami rzuciło się do roboty. Jedni odrąbywali kamienie ze skał, drudzy wrzucali je do rowu i przysypywali piaskiem.
 
-"Ramses the Great obeyed the gods; for this cause there are
+Wtem z głębi wąwozu wyszedł człowiek z motyką mającą formę bocianiej szyi z dziobem. Był to chłop egipski, stary, zupełnie nagi. Przez chwilę z najwyższym zdumieniem patrzył na robotę żołnierzy, nagle skoczył między nich wołając:
 
-inscriptions praising him in all the temples. But Menes, the first
+— Co wy dokazujecie, poganie, przecież to kanał?...
 
-pharaoh of Egypt, was a destroyer of order, and thanks only to the
+— A ty jak śmiesz złorzeczyć wojownikom jego świątobliwości? — zapytał go, już obecny w tym miejscu, Eunana.
 
-fatherly kindness of the priests that his name is still remembered,
+— Widzę, że musisz być wielkim i Egipcjaninem — odparł chłop — więc odpowiem ci, że ten kanał należy do potężnego pana: jest on ekonomem u pisarza przy takim, co nosi wachlarz jego dostojności nomarchy Memfis. Baczcie więc, ażeby was nieszczęście nie spotkało!...
 
-though I would not give one brass uten on this, that the mummy of Menes
+— Róbcie swoje — rzekł protekcjonalnym tonem Eunana do żołnierzy greckich, którzy zaczęli przypatrywać się chłopu. Nie rozumieli jego mowy, ale zastanowił ich ton.
 
-exists."
+— Oni wciąż zasypują!... — mówił chłop z rosnącym przerażeniem. — Biada wam, psubraty! — zawołał, rzucając się na jednego z motyką.
 
-"My Pentuer," added the adjutant, "Thou art a sage, hence knowest that
+Grek wyrwał motykę, uderzył chłopa w zęby, aż krew wystąpiła mu na usta. Potem znowu zabrał się do sypania piasku.
 
-it is all one to us whether we have ten lords or eleven."
+Oszołomiony ciosem chłop stracił odwagę i zaczął błagać:
 
-"But it is not all one to the people whether they have to find every
+— Panie — mówił — ależ ten kanał ja sam kopałem przez dziesięć lat nocami i w święta! Nasz pan obiecał, że jeżeli uda mi się przeprowadzić wodę do tej dolinki, zrobi mnie na niej parobkiem, odstąpi piątą część zbiorów i da wolność... Słyszycie?... Wolność mnie i trojgu dzieciom, o bogowie!...
 
-year a mountain of gold for the priests, or two mountains of gold for
+Wzniósł ręce i znowu zwrócił się do Eunany:
 
-the priests and the pharaoh," answered Pentuer, while his eyes flashed.
+— Oni mnie nie rozumieją, ci zamorscy brodacze, potomstwo psów, bracia Fenicjan i Żydów. Ale ty, panie, wysłuchasz mnie... Od dziesięciu lat, kiedy inni szli na jarmark albo na tańce, albo na świętą procesję, ja wykradałem się w ten niegościnny wąwóz. Nie chodziłem na grób matki mojej, tylkom kopał; zapomniałem o zmarłych, ażeby moim dzieciom i sobie choć na jeden dzień przed śmiercią dać wolność i ziemię... Wy bądźcie moimi świadkami, o bogowie, ile razy zaskoczyła mnie tutaj noc... Ile ja tu razy słyszałem płaczliwe głosy hien i widziałem zielone oczy wilków. Alem nie uciekał, bo gdzież bym nieszczęsny uciekł, gdy na każdej ścieżce czyhał strach, a w tym kanale wolność trzymała mnie za nogi. Raz, o tam, za załamem, wyszedł na mnie lew, faraon wszystkich zwierząt. Motyka wypadła mi z ręki. Więc ukląkłem przed nim i rzekłem te słowa, jak mnie widzicie: „Panie — czyliż raczyłbyś mnie zjeść... jestem przecież tylko niewolnikiem!” Lew drapieżca ulitował się nade mną; omijał mnie wilk; nawet zdradzieckie nietoperze oszczędzały biedną moją głowę, a ty, Egipcjaninie...
 
-"Thou art thinking of dangerous things," said the adjutant, in a
+Chłop umilkł, spostrzegł zbliżający się orszak ministra Herhora. Po wachlarzu poznał, że musi to być ktoś wielki, a po skórze pantery, że kapłan. Pobiegł więc ku niemu, ukląkł i uderzył głową o piasek.
 
-whisper.
+— Czego chcesz, człowieku? — zapytał dostojnik.
 
-"But how often hast Thou thyself grieved over the luxuries of the
+— „Światło słoneczne, wysłuchaj mnie! — zawołał chłop. — Oby nie było jęków w twojej komnacie i nieszczęście nie szło za tobą! Oby twoje czyny nie załamały się i oby cię prąd nie porwał, gdy będziesz płynął Nilem na drugi brzeg...”
 
-pharaoh's court and of the nomarchs?" inquired the priest in
+— Pytam, czego chcesz? — powtórzył minister.
 
-astonishment.
+— „Dobry panie — prawił chłop — przewodniku bez kaprysów, który zwyciężasz fałsz, a stwarzasz prawdę... Który jesteś ojcem biedaka, mężem wdowy, szatą nie mającego matki... Pozwól, abym miał sposobność rozgłaszać imię twoje jako prawo w kraju... Przyjdź do słowa ust moich... Słuchaj i zrób sprawiedliwość, najszlachetniejszy ze szlachetnych...”
 
-"Quiet, quiet! We will talk of this, but not now."
+— On chce, ażeby nie zasypywano tego rowu — odezwał się Eunana.
 
-In spite of the sand the military engines, drawn each by two bullocks,
+Minister wzruszył ramionami i posunął się w stronę kanału, przez który rzucono kładkę. Wówczas zrozpaczony chłop pochwycił go za nogi.
 
-moved in the desert more speedily than along the highway. With the
+— Precz z tym!... — krzyknął jego dostojność, cofnąwszy się jak przed ukąszeniem żmii.
 
-first of them marched Eunana, anxiously. "Why has the minister deprived
+Pisarz Pentuer odwrócił głowę; jego chuda twarz miała barwę szarą. Ale Eunana schwycił i ścisnął chłopa za kark, a nie mogąc oderwać go od nóg ministra, wezwał żołnierzy. Po chwili jego dostojność, oswobodzony, przeszedł na drugą stronę rowu, a żołnierze prawie w powietrzu odnieśli chłopa na koniec maszerującego oddziału. Dali mu kilkadziesiąt kułaków, a zawsze zbrojni w trzciny podoficerowie odliczyli mu kilkadziesiąt kijów i nareszcie — rzucili u wejścia do wąwozu.
 
-me of leadership over the vanguard? Does he wish to give me a higher
+Zbity, pokrwawiony, a nade wszystko przestraszony nędzarz chwilę posiedział na piasku, przetarł oczy i nagle zerwawszy się począł uciekać w stronę gościńca jęcząc:
 
-position?" asked he in his own mind.
-
-Thinking out then a new career, and perhaps to dull the fears which
-
-made his heart quiver, he seized a pole and, where the sands were
-
-deeper, propped the balista, or urged on the Greeks with an outcry.
-
-They, however, paid slight attention to this officer.
-
-The retinue had pushed on a good half hour through a winding ravine
-
-with steep naked walls, when the vanguard halted a second time. At this
-
-point another ravine crossed the first; in the middle of it extended a
-
-rather broad canal.
-
-The courier sent to the minister of war with notice of the obstacle
-
-brought back a command to fill the canal immediately.
-
-About a hundred soldiers with pickaxes and shovels rushed to the work.
-
-Some knocked out stones from the cliff; others threw them into the
-
-ditch and covered them with sand.
-
-Meanwhile from the depth of the ravine came a man with a pickaxe shaped
-
-like a stork's neck with the bill on it. He was an Egyptian slave, old
-
-and entirely naked. He looked for a while with the utmost amazement at
-
-the work of the soldiers; then, springing between them on a sudden, he
-
-shouted,
-
-"What are ye doing, vile people? This is a canal."
-
-"But how darest Thou use evil words against the warriors of his
-
-holiness?" asked Eunana, who stood there.
-
-"Thou must be an Egyptian and a great person, I see that," said the
-
-slave; "so I answer thee that this canal belongs to a mighty lord; he
-
-is the manager and secretary of one who bears the fan for his
-
-worthiness the nomarch of Memphis. Be on thy guard or misfortune will
-
-strike thee!"
-
-"Do your work," said Eunana, with a patronizing tone, to the Greek
-
-soldiers who began to look at the slave.
-
-They did not understand his speech, but the tone of it arrested them.
-
-"They are filling in all the time!" said the slave, with rising fear.
-
-"Woe to thee!" cried he, rushing at one of the Greeks with his pickaxe.
-
-The Greek pulled it from the man, struck him on the mouth, and brought
-
-blood to his lips; then he threw sand into the canal again.
-
-The slave, stunned by the blow, lost courage and fell to imploring.
-
-"Lord," said he, "I dug this canal alone for ten years, in the night
-
-time and during festivals! My master promised that if I should bring
-
-water to this little valley he would make me a servant in it, give me
-
-one fifth of the harvests, and grant me freedom do you hear? Freedom to
-
-me and my three children! O gods!"
-
-He raised his hands and turned again to Eunana,
-
-"They do not understand me, these vagrants from beyond the sea,
-
-descendants of dogs, brothers to Jews and Phoenicians! But listen,
-
-lord, to me! For ten years, while other men went to fairs and dances or
-
-sacred processions, I stole out into this dreary ravine. I did not go
-
-to the grave of my mother, I only dug; I forgot the dead so as to give
-
-freedom with laud to my children, and to myself even one free day
-
-before death. Ye, O gods, be my witnesses how many times has night
-
-found me here! how many times have I heard the wailing cries of hyenas
-
-in this place, and seen the green eyes of wolves! But I did not flee,
-
-for whither was I, the unfortunate, to flee, when at every path terror
-
-was lurking, and in this canal freedom held me back by the feet? Once,
-
-beyond that turn there, a lion came out against me, the pharaoh of
-
-beasts. The pickaxe dropped from my hands, I knelt down before him, and
-
-I, as ye see me, said these words: 'O lord! is it thy pleasure to eat
-
-me? I am only a slave.' But the lion took pity, the wolf also passed
-
-by; even the treacherous bats spared my poor head; but thou, O
-
-Egyptian."
-
-The man stopped; he saw the retinue of Herhor approaching. By the fan
-
-he knew him to be a great personage, and by the panther skin, a priest.
-
-He ran to the litter, therefore, knelt down, and struck the sand with
-
-his forehead.
-
-"What dost Thou wish, man?" asked the dignitary.
-
-"O light of the sun, listen to me!" cried the slave. "May there be no
-
-groans in thy chamber, may no misfortune follow thee! May thy works
-
-continue, and may the current not be interrupted when Thou shalt sail
-
-by the Nile to the other shore."
-
-"I ask what thy wish is," repeated Herhor.
-
-"Kind lord," said the man, "leader without caprice, who conquerest the
-
-false and createst the true, who art the father of the poor, the
-
-husband of the widow, clothing for the motherless, permit me to spread
-
-thy name as the equal of justice, most noble of the nobles." [Authentic
-
-speech of a slave.]
-
-"He wishes that this canal be not filled in," said Eunana.
-
-Herhor shrugged his shoulders and pushed toward the place where they
-
-were filling the canal. Then the despairing man seized his feet.
-
-"Away with this creature!" cried his worthiness, pushing back as before
-
-the bite of a reptile.
-
-The secretary, Pentuer, turned his head; his lean face had a grayish
-
-color. Eunana seized the man by the shoulders and pulled, but, unable
-
-to drag him away from the minister's feet, he summoned warriors. After
-
-a while Herhor, now liberated, passed to the other bank of the canal,
-
-and the warriors tore away the earth-worker, almost carrying him to the
-
-end of the detachment. There they gave the man some tens of blows of
-
-fists, and subalterns who always carried canes gave him some tens of
-
-blows of sticks, and at last threw him down at the entrance to the
-
-ravine.
-
-Beaten, bloody, and above all terrified, the wretched slave sat on the
-
-sand for a while, rubbed his eyes, then sprang up suddenly and ran
-
-groaning toward the highway,
-
-"Swallow me, O earth! Cursed be the day in which I saw the light, and
-
-the night in which it was said, 'A man is born!' In the mantle of
-
-justice there is not the smallest shred for a slave. The gods
-
-themselves regard not a creature whose hands are for labor, whose mouth
-
-was made only for weeping, and whose back is for clubs. O death, rub my
-
-body into ashes, so that there, beyond on the fields of Osiris, I be
-
-not born into slavery a second time."
+— Pochłoń mnie, ziemio!... Przeklęty dzień, w którym ujrzałem światło, i noc, w której powiedziano: „narodził się człowiek...” W płaszczu sprawiedliwości nie ma nawet skrawka dla niewolników... I sami bogowie nie spojrzą na taki twór, który ma ręce do pracy, gębę tylko do płaczu, a grzbiet do kijów... O śmierci, zetrzyj moje ciało na popiół, ażebym jeszcze i tam, na polach Ozyrysa

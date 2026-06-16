@@ -1,847 +1,298 @@
-# Kapitel 60: CHAPTER LX
+# Kapitel 060: Tom III - Rozdział XI
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part68.xhtml*
 
 <!-- status: pending -->
 
-MEANWHILE Pentuer made ready to revisit Lower Egypt and find on the one
+Tymczasem Pentuer wybierał się z powrotem do Dolnego Egiptu, aby z jednej strony znaleźć po trzynastu delegatów stanu rolniczego i rzemieślniczego dla faraona, z drugiej zaś — aby zachęcić ludność pracującą do upominania się o ulgi, jakie przyobiecał nowy władca. W jego bowiem przekonaniu największą sprawą dla Egiptu było: usunąć krzywdy, jakich doznawały, i nadużycia, jakim ulegały klasy pracujące.
 
-hand thirteen delegates from among land-tillers and artisans for the
+Niemniej Pentuer był kapłanem i nie tylko nie pragnął upadku swego stanu, ale nawet nie chciał zrywać węzłów, jakie go z nim łączyły.
 
-pharaoh, and on the other to encourage the working population to demand
+Toteż aby zaznaczyć swoją wierność, Pentuer poszedł z pożegnaniem do Herhora.
 
-the relief which the new sovereign had promised, for according to his
+Potężny niegdyś dostojnik przyjął go z uśmiechem.
 
-conviction the greatest question for Egypt was to abolish the injustice
+— Rzadki gość... rzadki gość... — zawołał Herhor. — Od czasu jak mogłeś zostać doradcą jego świątobliwości, nie pokazujesz mi się... Co prawda, nie ty jeden!... Ale cokolwiek nastąpi, nie zapomnę twoich usług, choćbyś mnie jeszcze bardziej unikał.
 
-and the abuses to which the toiling people were subject.
+— Ani jestem doradcą pana naszego, ani unikam waszej dostojności, którego łasce zawdzięczam to, czym dziś jestem... — odparł Pentuer.
 
-Still, Pentuer was a priest, and not only did he not desire the fall of
+— Wiem, wiem! — przerwał Herhor. — Nie przyjąłeś wysokiego dostojeństwa, aby nie pracować na zgubę świątyń. Wiem, wiem!... choć może i szkoda, że nie zostałeś doradcą rozbrykanego młokosa, który niby to nami rządzi... Z pewnością nie pozwoliłbyś mu otaczać się zdrajcami, którzy go zgubią...
 
-his order, but he did not even wish to break the bonds which connected
+Pentuer, nie chcąc rozmawiać o tak drażliwych kwestiach, opowiedział Herhorowi, po co jedzie do Dolnego Egiptu.
 
-him with it. Hence to emphasize his loyalty he went to take farewell of
+— Owszem — odparł Herhor — niechaj Ramzes XIII zwołuje zebranie wszystkich stanów... Ma do tego prawo.
 
-Herhor.
+Ale — dodał nagle — szkoda mi, że ty się w to mieszasz... Duże zmiany zaszły w tobie!... Pamiętasz, co mówiłeś w czasie owych manewrów pod Pi-Bailos do mego adiutanta?... Przypomnę ci: mówiłeś, że potrzeba ograniczyć nadużycia i rozpustę faraonów. A dziś... sam popierasz dziecinne pretensje największego rozpustnika, jakiego miał kiedy Egipt.
 
-The once mighty dignitary received him with a smile.
+— Ramzes XIII — przerwał mu Pentuer — chce poprawić dolę ludu. Byłbym więc głupim i nikczemnym, gdybym ja, syn chłopów, nie służył mu w tej sprawie.
 
-"A rare guest a rare guest!" exclaimed he. "Since Thou hadst the desire
+— Nie pytasz jednak, czy to nie zaszkodzi nam, kapłaństwu?...
 
-to become the counselor of his holiness Thou dost not show thyself
+Pentuer zdziwił się.
 
-before me. True, Thou art not the only one! But whatever happens, I
+— Wszakże sami dajecie wielkie ulgi chłopom należącym do świątyń! — zawołał. — Mam zresztą wasze pozwolenie...
 
-shall not forget thy services, wert Thou even to avoid me still more
+— Co?... jakie?... — spytał Herhor.
 
-than at present."
+— Przypomnij sobie, wasza dostojność, tę noc, podczas której, w świątyni Seta, witaliśmy najświątobliwszego Beroesa. Mefres mówił wtedy, że Egipt upadł skutkiem poniżenia się stanu kapłańskiego, a ja twierdziłem, że nędza ludu jest przyczyną niedoli państwa. Na co ty, o ile pamiętam, odpowiedziałeś:
 
-"Worthiness, I am not a counselor of our lord, nor do I avoid thee to
+„Niech Mefres zajmuje się podźwignięciem kapłanów, a Pentuer poprawą losu chłopstwa... Ja zaś będę zapobiegał zgubnej wojnie między Egiptem i Asyrią...”
 
-whose favor I am indebted for what I am today."
+— A widzisz — przerwał arcykapłan — więc masz obowiązek działać z nami, nie z Ramzesem.
 
-"I know, I know!" answered Herhor. "Thou hast refused the high dignity
+— Alboż on chce wojny z Asyrią?... — odparł energicznie Pentuer. — Czy może przeszkadza kapłanom w nabywaniu mądrości?... Chce dać ludowi siódmy dzień na odpoczynek, a później obdarzyć każdą rodzinę chłopską małym kawałkiem gruntu... I nie mów mi, wasza dostojność, że faraon chce złego: bo przecie na folwarkach świątyń sprawdzono, że chłop wolny i mający swój zagon bez porównania lepiej pracuje aniżeli niewolnik.
 
-so as not to work to the destruction of the temples. I know, I know!
+— Ależ ja nic nie mam przeciw ulgom dla pospólstwa! — zawołał Herhor. — Tylko jestem przekonany, że Ramzes nie zrobi nic dla ludu.
 
-though perhaps it is to be regretted that Thou hast not become the
+— Z pewnością — nie, jeżeli odmówicie mu pieniędzy...
 
-adviser of that giddy milksop, who, as it were, governs us. To a
+— Choćbyśmy mu dali piramidę złota i srebra, a drugą klejnotów, nic nie zrobi, bo to rozhukany dzieciak, którego asyryjski poseł Sargon nigdy nie nazywał inaczej, tylko — chłystkiem...
 
-certainty Thou wouldst not have suffered him to surround himself with
+— Faraon ma wielkie zdolności...
 
-those traitors who are ruining him."
+— Ale nic nie wie, niczego nie umie! — mówił Herhor. — Ledwie trochę zawadził o wyższą szkołę, z której czym prędzej uciekł. Toteż dziś w sprawach rządu jest jak ślepy, jest jak dziecko, które śmiało przestawia warcaby, ale nie ma pojęcia o grze w warcaby.
 
-Pentuer, not wishing to speak of such ticklish subjects, told Herhor
+— Jednak rządzi...
 
-why he was going to Lower Egypt.
+— Co to za rządy, Pentuerze! — odparł z uśmiechem arcykapłan. — Pootwierał nowe szkoły wojskowe, pomnożył liczbę pułków, zbroi cały naród, obiecuje święta pospólstwu... Ale jak on to wykona?... Trzymasz się z daleka od niego, więc nic nie wiesz; lecz ja zapewniam cię, że on, wydając rozkazy, wcale nie zastanawia się: kto to zrobi? czy są środki? jakie będą następstwa?...
 
-"Very well," answered Herhor, "let Ramses XIII call an assembly of all
+Tobie się zdaje, że on rządzi. To ja rządzę, ja ciągle rządzę, ja, którego on wypędził od siebie... Ja robię to, że dziś mniej wpływa podatków do skarbu, ale ja też zapobiegam buntowi chłopstwa, który już by wybuchnął; ja sprawiam, że nie porzucono robót przy kanałach, groblach i gościńcach. Ja w końcu już dwa razy powstrzymałem Asyrię od wypowiedzenia nam wojny, którą ten szaleniec wywołuje wojskowymi rozporządzeniami...
 
-the orders. He has a right to call it."
+Ramzes rządzi!... On tylko robi zamęt. Miałeś próbę jego gospodarki w Dolnym Egipcie: pił, hulał, sprowadzał coraz nowe dziewczęta i — niby to zajmował się administracją nomesów, ale nic, zupełnie nic nie rozumiał. Co zaś najgorsze: wdał się z Fenicjanami, ze zbankrutowaną szlachtą i rozmaitego gatunku zdrajcami, którzy pchają go do zguby...
 
-"But," he added suddenly, "I am sorry that Thou art involved in such
+— A zwycięstwo nad Sodowymi Jeziorami?... — spytał Pentuer.
 
-labor. Great changes have taken place in thee. Thou rememberest thy
+— Przyznaję mu energię i znajomość sztuki wojskowej — odparł Herhor. — To jedno on umie. Lecz powiedz sam, czy wygrałby bitwę nad Sodowymi Jeziorami, gdyby nie pomoc twoja i innych kapłanów?... Przecież wiem, że zawiadamialiście go o każdym ruchu libijskiej bandy... A teraz pomyśl, czy Ramzes, nawet z waszą pomocą, mógłby wygrać bitwę, na przykład — przeciw Nitagerowi?... Nitager to mistrz, Ramzes to dopiero czeladnik.
 
-words to my adjutant during those maneuvers in Pi-Bailos? I will remind
+— Więc czym skończy się wasza nienawiść? — zapytał Pentuer.
 
-thee: Thou didst tell him that it was necessary to limit the abuses and
+— Nienawiść!... — powtórzył arcykapłan. — Alboż ja mogę nienawidzieć chłystka, który w dodatku jest tak obsaczony jak jeleń w wąwozach przez myśliwców. Muszę jednak przyznać, iż jego rządy są tak szkodliwe dla Egiptu, że gdyby Ramzes miał brata albo gdyby Nitager był młodszy, już usunęlibyśmy dzisiejszego faraona...
 
-license of the pharaohs. But today Thou art supporting the childish
+— A wasza dostojność zostałbyś jego następcą!... — wybuchnął Pentuer.
 
-pretensions of the greatest profligate ever known to Egypt."
+Herhor wcale nie obraził się.
 
-"Ramses XIII," said Pentuer, interrupting, "wishes to improve the lot
+— Dziwnie zgłupiałeś, Pentuerze — odparł, wzruszając ramionami — od czasu gdy robisz politykę na własny rachunek. Rozumie się, że gdyby zabrakło faraona, ja miałbym obowiązek zostać nim, jako arcykapłan Amona tebańskiego i naczelnik najwyższej rady kapłańskiej. Ale na co mi to? Czyliż od kilkunastu lat nie mam większej władzy aniżeli faraonowie?... Albo czy dziś ja, wypędzony minister wojny, nie robię w państwie tego, co uważam za potrzebne?...
 
-of common people. I should be stupid and mean, therefore, were I, the
+Ci sami arcykapłani, skarbnicy, sędziowie, nomarchowie, a nawet jenerałowie, którzy mnie teraz unikają, muszą przecie spełniać każdy tajemny rozkaz najwyższej rady, opatrzony moją pieczęcią. Czy jest w Egipcie człowiek, który by takich zleceń nie spełnił?... Czy ty sam ośmielibyś się im opierać?...
 
-son of earth-tillers, not to serve him in this question."
+Pentuer zwiesił głowę. Jeżeli pomimo śmierci Ramzesa XII utrzymała się najwyższa, tajna rada kapłańska, to Ramzes XIII albo musi jej ulec, albo stoczyć z nią walkę na życie i śmierć.
 
-"But Thou dost not ask whether that would not injure us, the
+Faraon miał za sobą cały naród, całe wojsko, wielu kapłanów i większość cywilnych dostojników. Rada mogła rachować ledwo na parę tysięcy stronników, na swoje skarby i niesłychanie mądrą organizację. Siły najzupełniej nierówne, ale wynik walki — bardzo wątpliwy.
 
-priesthood."
+— Więc wy postanowiliście zgubić faraona!... — szepnął Pentuer.
 
-Pentuer was astonished.
+— Wcale nie. Chcemy tylko uratować państwo.
 
-"But Thou thyself givest great relief to common men belonging to the
+— W takim razie: cóż powinien robić Ramzes XIII?...
 
-temple," said he. "I have, besides, thy permission."
+— Co on zrobi?... nie wiem — odparł Herhor. — Ale wiem, co robił jego ojciec.
 
-"What? Which?" inquired Herhor.
+Ramzes XII również zaczął rządy od nieuctwa i samowoli; lecz gdy zabrakło mu pieniędzy, a najgorliwsi stronnicy poczęli go lekceważyć, zwrócił się do bogów. Otoczył się kapłanami, uczył się od nich, ba! nawet ożenił się z córką arcykapłana Amenhotepa... I po kilkunastu latach doszedł do tego, że sam został arcykapłanem nie tylko pobożnym, ale nawet bardzo uczonym.
 
-"Recall, worthiness, that night when we greeted Beroes. Mefres declared
+— A jeżeli faraon nie usłucha tej rady? — spytał Pentuer.
 
-at that time that Egypt had fallen because the priestly order was
+— To obejdziemy się bez niego — rzekł Herhor.
 
-lowered, while I asserted that the misery of the people was the cause
+Po chwili zaś ciągnął dalej:
 
-of the suffering of the State, to which thou, so far as I remember,
+— Posłuchaj mnie, Pentuerze. Ja wiem nie tylko, co robi, ale nawet: o czym myśli ten twój faraon, który zresztą nie odbył jeszcze uroczystej koronacji, więc dla nas jest niczym. Ja wiem, że on chce zrobić kapłanów swoimi sługami, a siebie — jedynym panem Egiptu.
 
-didst answer: Let Mefres occupy himself with bettering the priesthood,
+Ale taki zamiar jest głupstwem, a nawet zdradą. Nie faraonowie — o czym dobrze wiesz — stworzyli Egipt, lecz bogowie i kapłani. Nie faraonowie oznaczają przybór Nilu i regulują jego wylewy; nie faraonowie nauczyli lud siać, zbierać płody, hodować bydło. Nie faraonowie leczą choroby mieszkańców i czuwają nad bezpieczeństwem państwa od zewnętrznych wrogów...
 
-Pentuer in improving the lot of common people, while I will avoid
+Cóż by zatem było, sam powiedz, gdyby nasz stan wydał Egipt na łaskę faraonów? Najmędrszy z nich ma za sobą doświadczenie z lat kilkudziesięciu; ale stan kapłański badał i uczył się przez dziesiątki tysięcy lat... Najpotężniejszy władca ma jedną parę oczu i rąk — przy sobie; podczas gdy my posiadamy tysiące oczu i rąk we wszystkich nomesach i nawet w obcych państwach...
 
-destructive war between Egypt and Assyria."
+Czy więc działalność faraona może porównywać się z naszą i — w razie różnicy zdań — kto powinien ustąpić: my czy on?...
 
-"Well, dost Thou see," interrupted the high priest, "it is thy duty to
+— A cóż ja teraz mam robić? — wtrącił Pentuer.
 
-act with us, not with Ramses."
+— Rób, co ci każe ten młodzik, byleś nie zdradził świętych tajemnic. A resztę... zostaw czasowi... Szczerze pragnę, ażeby młodzieniec, nazywany Ramzesem XIII, upamiętał się, i przypuszczam, że zrobiłby to, gdyby... Gdyby nie związał się z obmierzłymi zdrajcami, nad którymi już zawisła ręka bogów.
 
-"Does he wish war with Assyria," replied Pentuer, energetically, "or
+Pentuer pożegnał arcykapłana, pełen smutnych przeczuć. Nie upadł jednak na duchu, wiedząc, że cokolwiek dziś zdobędzie dla poprawienia bytu ludowi, to już zostanie, choćby faraon ugiął się przed potęgą kapłanów.
 
-does he hinder priests from acquiring wisdom? He wishes to give the
+„W najgorszym położeniu — myślał — trzeba robić, co możemy i co do nas należy. Kiedyś poprawią się stosunki, a teraźniejszy zasiew wyda owoce.”
 
-people every seventh day for rest, and later to give each family of
+Niemniej jednak postanowił wyrzec się agitacji między ludem. Owszem, gotów był uspakajać niecierpliwych, aby nie powiększali kłopotów faraonowi.
 
-earth-workers a small bit of land for subsistence. Do not tell me,
+W parę tygodni później Pentuer wjeżdżał w granice Dolnego Egiptu, upatrując po drodze najrozsądniejszych chłopów i rzemieślników, spomiędzy których można by wybrać delegatów do zgromadzenia, które zwoływał faraon.
 
-worthiness, that the pharaoh wishes evil, for it has been verified on
+Wszędzie na drodze spotykał oznaki najwyższego wzburzenia: zarówno chłopi, jak rzemieślnicy domagali się, aby im dano siódmy dzień wypoczynku i płacono za wszelkie publiczne roboty, jak było dawniej. A tylko upomnieniom kapłanów różnych świątyń należało zawdzięczać, że nie wybuchnął bunt ogólny, a przynajmniej, że robót nie przerywano.
 
-temple ground that a free man who has his own patch of earth labors
+Zarazem uderzyło go kilka nowych zjawisk, których miesiąc temu nie dostrzegał.
 
-incomparably better than one without freedom."
+Przede wszystkim lud podzielił się na dwie partie. Jedni byli stronnikami faraona i wrogami kapłanów, drudzy — burzyli się przeciw Fenicjanom. Jedni dowodzili, że kapłani powinni wydać faraonowi skarby Labiryntu, drudzy szeptali, że — faraon zanadto proteguje cudzoziemców.
 
-"I am not opposed to relieving common people," said Herhor, "but I am
+Najdziwniejszą jednak była pogłoska, nie wiadomo skąd powstała, że Ramzes XIII — zdradza objawy obłąkania jak jego brat przyrodni i starszy, który właśnie dlatego został usunięty od tronu. O wieści tej mówili kapłani, pisarze, nawet chłopi.
 
-convinced that Ramses will do nothing for them."
+— Kto wam opowiada takie kłamstwa?... — zapytał Pentuer jednego ze znajomych inżynierów.
 
-"Surely not if you refuse him money."
+— To nie kłamstwo — odparł inżynier — ale smutna prawda. W pałacach tebańskich widziano faraona, jak biegał nagi po ogrodach... A pewnego wieczora jego świątobliwość w nocy, pod oknami królowej Nikotris, wlazł na drzewo i rozmawiał z nią samą.
 
-"Even were we to give him a pyramid of gold and silver, and another of
+Pentuer zapewnił go, że nie dawniej jak przed pół miesiącem widział faraona, który cieszy się najlepszym zdrowiem. Wnet jednak poznał, że inżynier nie ufa mu.
 
-precious stones, he would do nothing that is a mad stripling whom the
+„To już sprawa Herhora!... — pomyślał. — Zresztą tylko kapłani mogliby mieć tak szybkie wiadomości z Tebów...”
 
-Assyrian ambassador, Sargon, never mentioned otherwise than as a
+Na chwilę stracił chęć do zajmowania się wyborem delegatów, lecz znowu odzyskał energię, wciąż powtarzając sobie, że — co lud dziś pozyska, tego nie straci jutro... Chyba gdyby zaszły jakieś nadzwyczajne wypadki!
 
-frivolous youngster."
+Za Memfisem, na północ od piramid i sfinksa, wznosiła się już na granicy piasków niewielka świątynia bogini Nut. Mieszkał tam stary kapłan Menes, największy w Egipcie znawca gwiazd, zarazem inżynier.
 
-"The pharaoh has great capabilities."
+Gdy trafiła się w państwie budowa dużego gmachu albo nowego kanału, Menes schodził na grunt i wytykał kierunek. Poza obrębem tego żył ubogi i samotny w swej świątyni, nocami badając gwiazdy, w dzień pracując nad osobliwymi przyrządami.
 
-"But he has no knowledge, and no skill," replied Herhor. "He barely
+Od kilku lat Pentuer nie był w tym miejscu, toteż uderzyło go opuszczenie i ubóstwo. Ceglany mur walił się, w ogrodzie poschły drzewa, na dziedzińcu wałęsała się chuda koza i parę kur.
 
-visited the high school a little and left it at the earliest. Hence,
+Przy świątyni nie było nikogo. Dopiero gdy Pentuer zaczął wołać, z pylonu wyszedł stary człowiek. Miał bose nogi, na głowie brudny czepiec, jak chłopi, dokoła bioder łachman opaski, a na plecach panterczą skórę, z której szerść wypełzła. Mimo to jego postawa była pełna godności, a oblicze rozumu. Bystro przypatrzył się gościowi i rzekł:
 
-today, in affairs of state he is like a blind person; he is like a
+— Albo mi się zdaje, albo jesteś Pentuerem?...
 
-child which puts out pieces boldly on a board, but has no idea how to
+— Jestem nim — odrzekł przybysz i serdecznie uściskał starca.
 
-play at draughts."
+— Ho!... ho!... — zawołał Menes, on to był bowiem — widzę, że zmieniłeś się na dostojnych posadzkach! Masz gładką skórę, bielsze ręce i złoty łańcuch na szyi. Na taką ozdobę długo musi czekać bogini oceanu niebieskiego, matka Nut!...
 
-"Still he governs."
+Pentuer chciał zdjąć łańcuch; ale Menes powstrzymał go z uśmiechem.
 
-"Oh, Pentuer, what is his government?" interrupted the high priest,
+— Daj pokój! — rzekł. — Gdybyś wiedział, jakie klejnoty mamy na niebie, nie kwapiłbyś się z ofiarowaniem złota... Cóż, przychodzisz do nas osiedlić się?...
 
-with laughter. "He has opened new military schools, he has increased
+Pentuer potrząsnął głową.
 
-the number of regiments, he is arming the whole people, he has promised
+— Nie — odparł. — Przyszedłem tylko pokłonić się tobie, boski nauczycielu.
 
-holidays to working men. But how will he carry out his projects? Thou
+— A potem znowu do dworu?... — śmiał się starzec. — Oj, wy, wy!... gdybyście wiedzieli, co tracicie, porzucając mądrość dla pałaców, bylibyście najsmutniejszymi ludźmi...
 
-keepest far from him, hence knowest nothing; but I assure thee that he,
+— Sam jesteś, nauczycielu?
 
-when issuing orders, never stops to ask: Who will carry out this? What
+— Jak palma w pustyni, szczególniej dziś, kiedy mój głuchoniemy poszedł z koszem do Memfisu użebrać co dla matki Re i jej kapłana.
 
-are the means? What will follow? It seems to thee that he governs. It
+— I nie przykro ci?...
 
-is I who govern, I govern all the time, I, whom he dismissed. I am the
+— Mnie?... — zawołał Menes. — Przez czas kiedyśmy się nie widzieli, wydarłem bogom kilka tajemnic, których nie odstąpiłbym za obie korony Egiptu!...
 
-cause that today fewer taxes come to the treasury, but I also prevent
+— Czy to sekret?... — zapytał Pentuer.
 
-the rebellion of laborers; because of me they do not leave work on the
+— Co za sekret!... Przed rokiem dokończyłem pomiarów i rachunków odnoszących się do wielkości ziemi...
 
-canals, dams, and roadways. To sum up, I have twice restrained Assyria
+— Co to znaczy?
 
-from declaring war on us, war which that madman was calling out by his
+Menes obejrzał się i zniżył głos.
 
-military dispositions.
+— Przecież wiadomo ci — mówił — że ziemia nie jest płaską jak stół, ale — jest olbrzymią kulą, na powierzchni której znajdują się morza, kraje i miasta...
 
-"Ramses govern! He merely rouses disorder. Thou hadst trial of his
+— To wiadomo — rzekł Pentuer.
 
-management in Lower Egypt: he drank, frolicked, brought in woman after
+— Nie wszystkim — odparł Menes. — A już wcale nie było wiadomo: jak wielką może być ta kula...
 
-woman, and pretended to occupy himself with administration of the
+— A ty wiesz? — zapytał prawie wylękniony Pentuer.
 
-province, but he understood nothing, absolutely nothing. What is worst
+— Wiem. Nasza piechota maszeruje na dzień około trzynastu mil egipskich. Otóż kula ziemska jest tak ogromna, że nasze wojska obeszłyby ją dokoła w ciągu pięciu lat...
 
-of all, he became intimate with Phoenicians, with bankrupt nobles, and
+— Bogowie!... — rzekł Pentuer. — Czy nie lękasz się, ojcze, myśleć o podobnych rzeczach?...
 
-traitors of various kinds, who are urging him to ruin."
+Menes wzruszył ramionami.
 
-"But the victory of the Soda Lakes?" inquired Pentuer.
+— Mierzyć wielkość, cóż w tym strasznego? — odparł. — Mierzyć wielkość piramidy czy ziemi, wszystko jedno. Robiłem trudniejsze rzeczy, bo wymierzyłem odległość naszej świątyni od pałacu faraona, nie przechodząc przez Nil...
 
-"I recognize energy in him, and a knowledge of military art," added
+— Strach!... — szepnął Pentuer.
 
-Herhor. "That is the one thing that he knows. But say thyself would he
+— Co za strach?... Odkryłem ja rzecz, której naprawdę będziecie się lękać... Ale o tym nie mów nikomu. Wiesz, w miesiącu Paofi (lipiec — sierpień) będziemy mieli zaćmienie słońca... w dzień zrobi się noc... I niech umrę śmiercią głodową, jeżeli chybiłem w rachunku bodaj o dwudziestą część godziny...
 
-have won the battle at the Soda Lakes were it not for aid from thee and
+Pentuer dotknął amuletu, który miał na piersiach, i odmówił modlitwę. Potem rzekł:
 
-others of the priestly order? I know that ye informed him of every
+— Czytałem w świętych księgach, że już nieraz, ku utrapieniu ludzi, robiła się noc w południe. Ale co to jest? nie rozumiem.
 
-movement of the Libyan band. And now think, could Ramses, even with
+— Widzisz piramidy? — spytał nagle Menes, wskazując ku pustyni.
 
-help from you, win a battle against Nitager, for example? Nitager is a
+— Widzę.
 
-master, Ramses is a mere apprentice."
+— A teraz postaw rękę przed oczyma... Widzisz piramidy?... Nie widzisz. Otóż zaćmienie słońca jest tym samym: między słońcem a nami staje księżyc, zasłania ojca światła i robi noc...
 
-"Then what will be the end of this hatred between him and you?"
+— I to stanie się u nas? — spytał Pentuer.
 
-inquired Pentuer.
+— W miesiącu Paofi. Pisałem o tym do faraona myśląc, że w zamian złoży jaką ofiarę dla naszej zaniedbanej świątyni. Ale on, odczytawszy list, wyśmiał mnie i kazał memu posłańcowi zanieść tę nowinę do Herhora...
 
-"Hatred!" repeated Herhor. "Could I hate a frivolous fellow, who,
+— A Herhor?
 
-moreover, is surrounded, like a deer in a ravine by hunters! But I must
+— Dał nam trzydzieści miar jęczmienia. Ten jeden człowiek w Egipcie szanuje mądrość; ale młody faraon jest lekkomyślny.
 
-confess that his rule is so full of danger that if Ramses had a
+— Nie bądź surowym dla niego, ojcze — wtrącił Pentuer. — Ramzes XIII chce poprawić dolę chłopów i rzemieślników: da im co siódmy dzień odpoczynek, zabroni bić ich bez sądu, a może obdaruje ziemią...
 
-brother, or if Nitager were younger, we should set aside the present
+— A ja ci mówię, że on jest lekkoduch — odparł rozdrażniony Menes. — Dwa miesiące temu posłałem mu wielki plan ulżenia pracy chłopom i... także wyśmiał mnie!... To nieuk i pyszałek.
 
-pharaoh."
+— Uprzedzasz się, ojcze... Ale powiedz mi twój plan, a może pomogę wykonać go.
 
-"And thou, worthiness, would become his heir!" burst out Pentuer.
+— Plan!... — powtórzył starzec. — To już nie plan, ale rzecz...
 
-Herhor was by no means offended.
+Powstał z ławy i obaj z Pentuerem poszli do sadzawki w ogrodzie, nad którą stała altana doskonale zasłonięta pnącymi się roślinami.
 
-"Pentuer Thou hast grown marvelously dull since thy entry into politics
+W tym budynku znajdowało się wielkie koło osadzone na poziomej osi, z mnóstwem wiaderek na obwodzie. Menes wszedł wewnątrz koła i zaczął poruszać nogami. Koło obracało się, a wiaderka czerpały wodę z sadzawki i wlewały ją w koryto stojące wyżej.
 
-on thy own account," replied he, shrugging his shoulders. "Of course,
+— Ciekawy przyrząd! — rzekł Pentuer.
 
-if the country were without a pharaoh, it would be my duty to become
+— A czy zgadniesz: co on może zrobić dla ludu egipskiego?
 
-one by virtue of my office of high priest of Amon, and chief of the
+— Nie...
 
-supreme council. But what is the office to me? Have I not had more
+— Więc pomyśl, że to koło jest pięć albo i dziesięć razy większe i że w jego wnętrzu, zamiast człowieka, chodzi kilka par wołów...
 
-power for a number of years than the pharaoh? Or do I not today, though
+— Coś... coś wydaje mi się — wtrącił Pentuer — ale jeszcze niedobrze rozumiem.
 
-I am a minister of war in disgrace, carry out in this state whatever I
+— A to takie proste! — odparł Menes. — Za pomocą tego koła woły lub konie mogłyby czerpać wodę z Nilu i wlewać ją do coraz wyżej leżących kanałów... W takim zaś wypadku pół miliona ludzi, którzy dziś pracują przy wiadrach, mogliby odpoczywać... Teraz widzisz, że mądrość więcej robi dla ludzkiego szczęścia aniżeli faraonowie.
 
-think needful?
+Pentuer potrząsnął głową.
 
-"Those same high priests, treasurers, judges, nomarchs, and even
+— Ileż by na to potrzeba drzewa — rzekł — ile wołów, ile paszy!... Zdaje mi się, ojcze, że twoje koło nie zastąpi siódmego dnia odpoczynku.
 
-generals who avoid me at present, must carry out every secret order of
+— Widzę — odpowiedział Menes wzruszając ramionami — że nie wyszły ci na pożytek dostojeństwa. Ale choć straciłeś bystrość, którą w tobie podziwiałem, pokażę ci jeszcze coś... Może kiedy znowu nawrócisz się do mądrości i gdy ja umrę, zechcesz pracować nad ulepszeniem i upowszechnieniem moich wynalazków.
 
-the council furnished with my seal. Is there a man in Egypt who would
+Wrócili do pylonu, a Menes podłożył nieco paliwa pod miedziany kociołek. Rozdmuchał płomień i wkrótce woda zaczęła się gotować.
 
-dare refuse obedience to those orders? Wouldst thou, for instance, dare
+Z kociołka wychodziła pionowa rura zakryta ciężkim kamieniem. Gdy w kotle zasyczało, Menes rzekł:
 
-oppose them?"
+— Stań w tej framudze i patrz...
 
-Pentuer hung his head.
+Poruszył korbę przytwierdzoną do rury i — w jednej chwili ciężki kamień wyleciał w powietrze, a komnata napełniła się kłębami pary.
 
-If in spite of the death of Ramses XII the supreme privy council of
+— Dziwo!... — krzyknął Pentuer. Lecz wnet uspokoiwszy się zapytał:
 
-priests had maintained itself, Ramses XIII must either yield or fight a
+— No, a ten kamień w czym poprawi byt ludu?
 
-life-and-death battle.
+— Kamień w niczym — odpowiedział już zniecierpliwiony mędrzec. — Ale zaprawdę, powiadam ci, i o tym pamiętaj: przyjdzie czas, że koń i wół zastąpią pracę ludzką, a zaś gotująca się woda zastąpi konia i wołu.
 
-The pharaoh had on his side all the people, all the army, many priests,
+— Ale co chłopom z tego przyjdzie? — nalegał Pentuer.
 
-and the majority of the civil dignitaries. The council could reckon on
+— Biada mi! — zawołał Menes chwytając się za głowę. — Nie wiem, zestarzałeś się czy zgłupiałeś, ale już chłopi zasłonili przed tobą cały świat, zaćmili ci umysł.
 
-hardly two thousand adherents, on its treasures and on its incomparably
+Tymczasem gdyby mędrcy mieli tylko chłopów na względzie, powinni by rzucić księgi i rachunki i zostać pastuchami!...
 
-wise organization. The forces were utterly unequal, but the issue of
+— Każda rzecz musi przynosić pożytek — wtrącił onieśmielony Pentuer.
 
-the battle was very doubtful.
+— Wy, ludzie dworscy — rzekł z goryczą Menes — często posługujecie się dwoma miarami! Kiedy Fenicjanin przyniesie wam rubin lub szafir, nie pytacie, jaki z tego pożytek, lecz kupujecie klejnot i zamykacie go w skrzyni. Ale gdy mędrzec przyjdzie do was z wynalazkiem, który mógłby zmienić postać świata, zaraz pytacie: jaki z tego pożytek?... Widać strach was ogarnia, ażeby badacz nie zażądał garści jęczmienia za przedmiot, którego nie pojmuje wasz umysł.
 
-"Then ye have determined to destroy the pharaoh?" asked Pentuer.
+— Gniewasz się, ojcze?... Czyliż chciałem zrobić tobie przykrość?...
 
-"Not at all. We only wish to save the state." "In that case what should
+— Nie gniewam się, lecz ubolewam. Jeszcze przed dwudziestoma laty było nas w tej świątyni pięciu pracujących nad odkryciem nowych tajemnic. Dziś zostałem ja sam i, przez bogi! nie mogę znaleźć nie tylko następcy, ale nawet człowieka, który by mnie rozumiał.
 
-Ramses XIII do?" "What he will do I know not. But I know what his
+— Z pewnością, ojcze, zostałbym tu do śmierci, aby poznać boskie twoje pomysły — rzekł Pentuer. — Powiedz jednak, czy mogę zamykać się dziś w świątyni, gdy ważą się losy państwa, szczęście ludu prostego — i gdy mój udział...
 
-father did," answered Herhor. "Ramses XII began to govern in the same
+— Wpłynie na losy państwa i kilku milionów ludu?... — przerwał szyderczo Menes. — O wy, dorosłe dzieci w infułach i łańcuchach dostojników!... Dlatego że wolno wam zaczerpnąć wody z Nilu, zaraz wam się zdaje, że możecie powstrzymać przybór albo odpływ rzeki.
 
-impetuous and tyrannical fashion, but when money failed him, and his
+Zaprawdę, inaczej nie myśli owca, która idąc za stadem wyobraża sobie, że ona je popędza!
 
-most zealous adherents began to despise him, he turned to the gods. He
+— Ależ pomyśl tylko, nauczycielu. Młody faraon ma serce pełne szlachetności, chce dać ludowi siódmy dzień wypoczynku, sprawiedliwy sąd, a nawet ziemię...
 
-surrounded himself with priests, he learned from them, nay, he even
+Menes potrząsnął głową.
 
-married a daughter of the high priest Amenhotep. And, after a few
+— Wszystko to — mówił — są rzeczy znikome. Młodzi faraonowie starzeją się, a lud... Lud miał już nieraz siódmy dzień odpoczynku i ziemię, a potem je tracił... Ach, gdybyż tylko to zmieniało się!... Ileż od trzech tysięcy lat przesunęło się nad Egiptem dynastii i kapłanów, ile miast i świątyń upadło w gruzy, ba! nawet narosły nowe warstwy ziemi...
 
-years, he went so far that he became himself not only a pious, but a
+Wszystko zmieniło się z wyjątkiem tego, że: dwa i dwa jest cztery, że trójkąt jest połową prostokąta, że księżyc może zakryć słońce, a gotująca się woda wyrzuca kamień w powietrze...
 
-very learned high priest."
+W znikomym świecie trwa i zostaje sama tylko mądrość. I biada temu, kto dla rzeczy mijających jak obłoki opuszcza wiekuiste! Jego serce nigdy nie zazna spokoju, a umysł będzie kołysał się jak czółno podczas wichru.
 
-"But if the pharaoh will not follow that example?" "Then we shall
+— Bogowie mówią przez twoje usta, nauczycielu — odparł po namyśle Pentuer — ale zaledwo jeden człowiek na miliony może stać się ich naczyniem... I dobrze tak jest. Bo co by było, gdyby chłopi całe noce patrzyli w gwiazdy, żołnierze robili rachunki, a dostojnicy i faraon, zamiast rządzić, wyrzucali kamienie za pomocą gotującej się wody? Zanim księżyc raz obszedłby ziemię, wszyscy musieliby pomrzeć z głodu... Żadne też koło ani kociołek nie obroniłby kraju przed napadem barbarzyńców ani wymierzyłby sprawiedliwości pokrzywdzonym.
 
-dispense with him," said Herhor. "Listen to me Pentuer," continued he,
+Więc — zakończył Pentuer — chociaż mądrość jest jak słońce, krew i oddech, nie możemy jednak wszyscy być mędrcami.
 
-after a while. "I know not only the acts, but even the thoughts of that
+Na te słowa Menes już nic nie odpowiedział.
 
-pharaoh of thine, who, moreover, has not been solemnly crowned yet,
+Kilka dni przepędził Pentuer w świątyni boskiej Nut, lubując się już to widokiem piaszczystego morza, już to żyznej doliny Nilu. Razem z Menesem przypatrywał się gwiazdom, oglądał koło do czerpania wody, czasami chodził w stronę piramid. Podziwiał ubóstwo i geniusz swego nauczyciela, lecz w duchu mówił:
 
-hence for us he is nothing. I know that he wants to make the priests
-
-his servants, and himself sole lord of Egypt.
-
-"But such a plan is stupid, it is even treasonable. Not the pharaohs,
-
-as Thou knowest well, but the gods and the priests created Egypt. It is
-
-not the pharaohs who mark the rise and fall of the Nile and regulate
-
-its overflows; it is not the pharaohs who teach the people to sow, to
-
-gather fruits and rear cattle. It is not the pharaohs who cure diseases
-
-and watch over the safety of the state against foreign enemies.
-
-"What would happen, tell me that, were our order to yield Egypt to the
-
-mercy of the pharaohs? The wisest pharaohs have behind them the
-
-experience of a few years at the longest, but the priestly order has
-
-investigated and taught during tens of thousands of years. The
-
-mightiest ruler has two eyes and two hands, while we possess thousands
-
-of eyes and thousands of hands in all provinces at home, and in all
-
-foreign countries.
-
-"Can the activity of a pharaoh equal ours; and when opinions differ who
-
-should yield, we or the pharaoh?"
-
-"Well, what am I to do now?" inquired Pentuer.
-
-"Do what that stripling commands if Thou betray not holy secrets. And
-
-leave the rest to time. I wish most sincerely that the youth called
-
-Ramses XIII might come to his senses, and I suppose that he would were
-
-it not that he has attached himself to disgusting traitors over whom
-
-the hands of the gods are now suspended."
-
-Pentuer took farewell of the high priest. He was filled with dark
-
-forebodings, but he did not fail in spirit, since he knew that whatever
-
-he might gain in improving the condition of the common man would
-
-remain, even were the pharaoh to bend before the power of the priestly
-
-order.
-
-"In the worst case," thought he, "we must do what we can, and what
-
-pertains to us. When conditions improve, what is sown today will give
-
-fruit hereafter."
-
-But still he determined to renounce agitation among the people. He was
-
-even ready to calm the impatient, so as not to increase trouble for the
-
-pharaoh.
-
-A couple of weeks later Pentuer entered the boundaries of Lower Egypt,
-
-looking about on the way for the wisest of common men and artisans from
-
-whom it would be possible to select delegates to the assembly summoned
-
-by the pharaoh.
-
-Everywhere on the way he found signs of the greatest excitement. Earth-
-
-tillers, as well as artisans, were trying to have the seventh day for
-
-rest and receive pay for all public works, as was the case in former
-
-ages. And it was only through remonstrances from priests of various
-
-temples, that a general uprising was averted, or at least that work was
-
-continued.
-
-At the same time Pentuer was struck by certain new phenomena which he
-
-had not observed a month earlier! first of all the people had divided
-
-into two parties. Some were partisans of the pharaoh and enemies of the
-
-priests; others were active against Phoenicians. Some proved that the
-
-priests ought to give the treasures of the labyrinth to the pharaoh;
-
-others whispered that the pharaoh afforded foreigners too much
-
-protection.
-
-But strangest of all was a report of unknown origin that
-
-Ramses XIII showed signs of insanity, like his elder brother, who for
-
-this cause had been excluded from succession. Priests, scribes, even
-
-common men discussed this report of insanity.
-
-"Who told thee such a lie?" inquired Pentuer of an engineer.
-
-"It is no lie," replied the engineer, "it is sad reality. In the Theban
-
-palaces they saw the pharaoh running naked through the gardens. One
-
-night he climbed a tree under the window of his mother's chamber, and
-
-spoke to her."
-
-Pentuer assured the man that no longer than two weeks before he had
-
-seen Ramses in the best of health. He observed at once, however, that
-
-the engineer did not believe him.
-
-"This is Herhor's work!" thought he. "Priests alone could have news
-
-from Thebes so promptly."
-
-For the moment he lost desire to busy himself in finding delegates, but
-
-he regained energy at the thought that what the people received today
-
-they would not lose to-morrow, unless something uncommon should happen.
-
-Beyond Memphis to the north of the pyramids and the sphinx, on the
-
-boundary of the desert, was a small temple of the goddess Nut. An old
-
-priest Menes lived in that temple. This sage had more knowledge of the
-
-stars than any man in Egypt; he was an engineer in addition.
-
-When a great public edifice was to be built or a new canal made, Menes
-
-went to the place and gave directions. Apart from such tasks he lived
-
-in solitude and poverty in his temple; at night he investigated the
-
-stars, in the daytime he worked over curious instruments.
-
-For some years Pentuer had not been in that place; hence he was struck
-
-by neglect in it, and poverty. The brick wall was falling, in the
-
-garden the trees were withering, in the yard a lean goat moved around
-
-and a few hens were scratching.
-
-There was no one near the temple. Only after Pentuer had called out did
-
-an old man come down from a pylon. His feet were bare, on his head was
-
-a soiled cap like that of a laborer, around his waist was a ragged
-
-girdle, and on his shoulder a panther skin from which the hair had
-
-fallen. Still, his bearing was dignified, and his face full of wisdom.
-
-He looked quickly at the guest and said,
-
-"Either I am mistaken, or Thou art Pentuer?"
-
-"I am he," answered the newly arrived, and he embraced the old man with
-
-heartiness.
-
-"Ho! ho!" exclaimed Menes, for it was he; "I see that Thou hast changed
-
-for official reasons. Thou hast a smoother face, whiter hands, and a
-
-gold chain on thy neck. Mother Nut of the heavenly ocean would have to
-
-wait long for such ornaments."
-
-Pentuer wished to remove the chain, but Menes stopped him with a smile.
-
-"Do not. If Thou knew what jewels we have in the heavens Thou wouldst
-
-not hasten with an offering of gold. Well, hast Thou come to stay with
-
-us?"
-
-Pentuer shook his head.
-
-"No," replied he, "I have come only to bow down before thee, divine
-
-teacher."
-
-"And again to court?" laughed the old man. "Oh ye, ye courtiers! If ye
-
-knew what ye lose by deserting wisdom for palaces ye would be the
-
-saddest of mankind."
-
-"Art Thou alone, O my teacher?"
-
-"As a palm in a desert, especially today when my deaf and dumb servant
-
-has gone with a basket to Memphis to beg something for the mother of Ra
-
-and her chaplain."
-
-"And is it not disagreeable here?"
-
-"For me! "'exclaimed Menes. "Since I saw thee last I have snatched from
-
-the gods some secrets which I would not give for the two crowns of
-
-Egypt."
-
-"Are they secrets between thee and me?" inquired Pentuer.
-
-"How, secrets? A year ago I completed all measures and calculations
-
-touching the size of the earth."
-
-"What does that mean?"
-
-Menes looked around and lowered his voice,
-
-"Of course it is known to thee that the earth is not flat like a table,
-
-but is an immense ball on the surface of which seas, countries, and
-
-cities are situated?"
-
-"That is known," said Pentuer.
-
-"Not to all," answered Menes. "And it was not known to any one how
-
-great that globe might be."
-
-"But dost Thou know?" inquired Pentuer, almost frightened.
-
-"I know. Our infantry marches about thirteen Egyptian miles [Three
-
-geographical miles] daily. The globe of the earth is so great that our
-
-armies would require five whole years to march around it."
-
-"O gods!" exclaimed Pentuer. "Does it not frighten thee, father, to
-
-think of such subjects?"
-
-Menes shrugged his shoulders.
-
-"To measure size, what is there terrible in that? To measure the size
-
-of a pyramid, or the earth is the same kind of problem. I did a more
-
-difficult thing. I measured the distance of our temple from the palace
-
-of the pharaoh without crossing the river."
-
-"Terror!" exclaimed Pentuer.
-
-"What terror? I have discovered a thing which beyond doubt ye will all
-
-fear. But tell this to no one: in the month Paoni (June, July) there
-
-will be an eclipse of the sun; night will come in the daytime. And may
-
-I die a hunger death, if I have failed even three minutes in the
-
-reckoning."
-
-Pentuer touched the amulet which he wore on his breast, and uttered a
-
-prayer.
-
-"I have read," said he, "in sacred books that more than once to the
-
-suffering of people it became night at midday. But what is that? I do
-
-not understand."
-
-"Dost Thou see the pyramid?" asked Menes on a sudden, pointing toward
-
-the desert.
-
-"I see it."
-
-"Now put thy hand before thy eyes. Dost Thou see the pyramid? Thou dost
-
-not. Well, the eclipse of the sun is the same kind of thing; the moon
-
-passes between the sun and us, hides the father of light and makes
-
-night in the daytime."
-
-"And will that happen here?" inquired Pentuer.
-
-"In the mouth Paoni. I have written about this to the pharaoh, thinking
-
-that in return he would make some offering to the temple. But on
-
-reading the letter he laughed at me, and commanded my messenger to take
-
-the news to Herhor."
-
-"Well, what did Herhor do?"
-
-"Herhor gave us thirty measures of barley. He is the only man in Egypt
-
-who reveres science, but the young pharaoh is frivolous."
-
-"Do not be severe on him, father," interrupted Pentuer. "Ramses XIII
-
-wishes to improve the lot of laborers and artisans, and give them every
-
-seventh day to rest; he forbids to beat them without trial, and perhaps
-
-he will find land for them."
-
-"But I tell thee that he is light-minded," said the irritated Menes.
-
-"Two months ago I sent him a great plan for lessening the toil of
-
-laborers, and he laughed at me. He is conceited and ignorant!"
-
-"Thou art prejudiced, father. But tell me thy plan and perhaps I may
-
-assist in applying it."
-
-"Plan?" repeated the old man. "It is not a plan, it is a great fact."
-
-He rose from the bench and went then with Pentuer to a pond in the
-
-garden, at which was an arbor concealed altogether by plant growth. In
-
-this structure was a large wheel in perpendicular position with a
-
-number of buckets on the outer rim of it. Menes went into the centre
-
-and began to move his feet; the wheel turned and the buckets took water
-
-from the pond and poured it into a trough which stood somewhat higher.
-
-"A curious instrument!" said Pentuer.
-
-"But dost Thou divine what it may do for the people of Egypt?"
-
-"No."
-
-"Then imagine this wheel to be five or ten times greater than it is,
-
-and that instead of a man a pair of bullocks are moving it."
-
-"Something something appears to me," said Pentuer, "but still I do not
-
-understand clearly."
-
-"It is very simple," said Menes. "By means of this wheel oxen and
-
-horses might raise water from the Nile and pour it into higher
-
-channels. In that way half a million of men might have rest instead of
-
-working at buckets. Now Thou seest that wisdom does more for the
-
-welfare of mankind than pharaohs."
-
-Pentuer shook his head.
-
-"How much timber would be needed for that change! How many oxen, how
-
-much pasture. It seems to me, father, that thy wheel would not take the
-
-place of the seventh day for rest."
-
-"I see that office has not benefited thee," replied Menes, shrugging
-
-his shoulders. "But though Thou hast lost that alertness which I
-
-admired in thee, I will show still another thing. Perhaps when Thou
-
-hast returned to wisdom, and I am dead, Thou wilt work at improving and
-
-spreading my inventions."
-
-They went back to the pylon, and Menes put some fuel under a brass
-
-kettle. He blew the flame and soon the water was boiling. On the kettle
-
-was a perpendicular spout covered with a heavy stone. When the kettle
-
-began to hiss, Menes said,
-
-"Stand in this niche and look."
-
-He touched a crank fastened to the spout; in one moment the heavy stone
-
-flew through the air and hot steam filled the chamber.
-
-"Wonderful!" cried Pentuer. But soon he calmed himself and asked,
-
-"Well, but how will that stone improve the condition of people in
-
-Egypt?"
-
-"The stone in no way. But," said the sage, now impatient, "I will say
-
-this to thee, and do Thou remember it: the time will come when horses
-
-and oxen will take the place of people in labor, and also when boiling
-
-water will take the place of horses and oxen."
-
-"But what good will that do the people?" insisted Pentuer.
-
-"Woe is me!" exclaimed Menes, seizing his head. "I know not whether it
-
-is because Thou hast grown old, or dull; 'the people' have hidden the
-
-whole world from thee and darkened thy mind. If sages had only the
-
-people in mind they would be forced to throw away their books and
-
-calculations and become shepherds."
-
-"But everything must be of some use," said Pentuer, now grown timid.
-
-"Ye court people," replied Menes with vexation, "use two measures
-
-frequently. When a Phoenician brings a ruby or a sapphire ye do not
-
-inquire what its use is; ye buy the jewel and shut it up in a casket.
-
-But if a sage comes to you with an invention which might change the
-
-face of the world, ye ask straightway: 'What is the use of this?' It is
-
-clear that ye are frightened lest the investigator might ask a handful
-
-of barley for a thing the sense of which your mind does not fathom."
-
-"Art Thou angry, father? Have I wished to offend thee?"
-
-"I am not angry, but I am pained. Twenty years ago there were five men
-
-in this temple working over the discovery of new secrets. Today I am
-
-alone. And, by the gods, I am unable to find not merely a successor,
-
-but even a man who is able to understand me."
-
-"Beyond doubt I would remain here till death so as to learn thy god-
-
-like thoughts," said Pentuer. "But tell me, can I shut myself up today
-
-in a temple when the fate of the kingdom and the future of the people
-
-are wavering in the balance, and when my assistance."
-
-"May influence the fate of the kingdom and of some millions of people!"
-
-interrupted Menes, jeeringly. "O ye grownup children in the miters and
-
-chains of office. Because ye are free to draw water from the Nile it
-
-seems to you that ye may stop the rise or the fall of the river. Not
-
-otherwise, surely, thinks the sheep, which following the herd imagines
-
-that she is directing it."
-
-"But think, the young pharaoh has a heart full of nobleness; he wishes
-
-to give the seventh day for rest, just courts, and even land."
-
-"All those things are vanishing," said Menes, shaking his head. "The
-
-young pharaoh will grow old, while the people, well, the people have
-
-had the seventh day for rest more than one time, and they have had land
-
-but afterward they lost both! Ah, if that were all that changed! During
-
-three thousand years how many dynasties have passed over Egypt, and
-
-priests, how many cities and temples have fallen into ruins; nay more!
-
-how many new strata of earth have overlaid the country. Everything has
-
-changed except this, that two and two are four, that a triangle is half
-
-a quadrangle, that the moon may hide the sun, and boiling water hurl a
-
-stone through the air.
-
-"In this 'transitory world wisdom alone is enduring and permanent. And
-
-woe to him who deserts the eternal for things as fleeting as clouds
-
-are. His heart will never know peace, and his mind will dance like a
-
-boat in a whirlwind."
-
-"The gods speak through thy lips," replied Pentuer, after some thought,
-
-"but barely one man in millions may serve them directly. And well that
-
-it is so, for what would happen if laborers gazed for whole nights at
-
-the firmament, if warriors made reckonings, and officials and the
-
-pharaoh, instead of ruling the people, hurled stones by means of
-
-boiling water? Before the moon could go once round the earth all would
-
-die of hunger. No wheel or cattle would defend the laud from
-
-barbarians, or give justice to those who were injured by wrong-doers.
-
-"Hence," ended Pentuer, "though wisdom is like the sun, blood and
-
-breath, we cannot all be sages."
-
-To these words Menes made no answer.
-
-Pentuer passed some days in the temple of the divine Nut; he admired at
-
-one time the view of the sandy ocean, at another the fertile valley of
-
-the Nile. In company with Menes he looked at the stars, examined the
-
-wheel for raising water, and walked at times toward the pyramids. He
-
-admired the poverty and the genius of his teacher, but said in spirit,
-
-"Menes is a god in human form, surely, and hence he has no care for
-
-common matters. His wheel to raise water will not be accepted in Egypt,
-
-for first we lack timber, and second to move such wheels one hundred
-
-thousand oxen would be needed. Where is there pasture for them even in
-
-Upper Egypt?"
+„Menes jest niezawodnie bogiem wcielonym w człowieczą postać i dlatego nie dba o życie ziemskie. Jego zaś koło do czerpania wody nie przyjmie się w Egipcie, bo naprzód brak nam drzewa, a po wtóre do poruszania takich kół trzeba by mieć ze sto tysięcy wołów. A gdzie dla nich pasza, choćby w Górnym Egipcie?...”

@@ -1,1037 +1,406 @@
-# Kapitel 44: CHAPTER XLIV
+# Kapitel 044: Tom II - Rozdział XIX
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part50.xhtml*
 
 <!-- status: pending -->
 
-THERE was in his voice so much kindliness that the astonished prince
+W jego głosie było tyle życzliwości, że zdziwiony książę zamilkł i pozwolił mu jechać.
 
-was silent and let him go.
+Byli w pustyni, mając o paręset kroków za sobą armię, o kilkaset kroków przed sobą uciekających. Lecz pomimo bicia i zachęcania koni do biegu zarówno ci, którzy uciekali, jak i ci, co ich gonili, posuwali się z wielkim trudem. Z góry zalewał ich straszliwy żar słoneczny, w usta, nos, a nade wszystko w oczy wciskał się im drobniutki, lecz ostry pył, a pod nogami koni, na każdym kroku, zapadał się rozpalony piasek. W powietrzu panował zabijający spokój.
 
-They were in the desert; a couple of hundred yards behind them was an
+— Przecież ciągle tak nie będzie — rzekł następca.
 
-army; in front were fugitives several hundred yards in advance. But
+— Będzie coraz gorzej — odpowiedział Pentuer. — Widzisz, wasza dostojność — wskazał na uciekających — że tamte konie po kolana brną w piasku...
 
-though they beat and urged on their horses, the fleeing, as well as the
+Książę roześmiał się, w tej chwili bowiem wjechali na grunt nieco twardszy i ze sto kroków jechali kłusem. Wnet jednak zabiegło im drogę morze piaszczyste i znowu musieli posuwać się noga za nogą.
 
-pursuers, advanced with great difficulty. The sun poured from above
+Ludzie ociekali potem, na koniach zaczęła ukazywać się piana.
 
-dreadful heat on them, the fine but sharp dust pushed itself into their
+— Gorąco! — szepnął następca.
 
-mouths, into their nostrils, into their eyes above all; under their
+— Słuchaj, panie — odezwał się Pentuer — niedobry to dzień dla gonitw na pustyni. Dziś od rana święte owady zdradzały wielki niepokój, a następnie wpadły w letarg. Równie mój nożyk kapłański bardzo płytko zanurzył się w glinianej pochwie, co oznacza niezwykłe gorąco. Oba zaś te zjawiska: upał i letarg owadów, mogą zapowiadać burzę. Wróćmy więc, bo już nie tylko obóz straciliśmy z oczu, ale nawet nie dolatują nas jego szmery.
 
-horses' feet the burning sand gave way at every step. In the air
+Ramzes spojrzał na kapłana prawie z pogardą.
 
-reigned a deathlike silence.
+— I ty myślisz, proroku — rzekł — że ja, raz zapowiedziawszy schwytanie Musawasy, mogę powrócić z niczym, ze strachu przed gorącem i burzą?
 
-"But it will not continue like this," said Ramses.
+Jechali wciąż. W jednym miejscu grunt znowu stwardniał, dzięki czemu zbliżyli się do uciekających na rzut z procy.
 
-"It will be worse and worse," answered Pentuer. "Dost Thou see,
+— Hej, wy tam!... — zawołał następca — poddajcie się...
 
-worthiness," he indicated the fugitives, "their horses are in sand to
+Libijczycy nawet nie spojrzeli za siebie, z wytężeniem brnąc po piasku. Przez chwilę można było sądzić, że zostaną dosięgnięci. Wnet jednak oddział następcy znowu trafił na głęboki piasek, a tamci przyśpieszyli kroku i znikli za wypukłością gruntu.
 
-their knees?"
+Azjaci klęli, książę zaciął zęby.
 
-The prince laughed, for at that moment they came out on ground which
+Nareszcie konie zaczęły coraz mocniej zapadać się i ustawać; jezdni więc musieli zsiąść i iść piechotą. Nagle jeden z Azjatów zaczerwienił się i padł na piasku. Książę kazał go okryć płachtą i rzekł:
 
-was firmer, and trotted about a hundred yards. But soon their road was
+— Zabierzemy go z powrotem.
 
-confronted by a sea of sand, and again they advanced step by step
+Z wielką pracą dosięgli wierzchołka piaszczystej wyniosłości i zobaczyli Libijczyków. Ale i dla nich droga była zabójczą, ustały bowiem dwa konie.
 
-slowly.
+Obóz wojsk egipskich stanowczo ukrył się za falami gruntu, i gdyby Pentuer i Azjaci nie umieli kierować się słońcem, już teraz nie trafiliby na miejsce.
 
-Sweat poured from the men, there was foam on the horses.
+W orszaku księcia padł drugi jeździec, wyrzucając ustami krwawą pianę. Zostawiono i tego razem z koniem. Na domiar na tle piasków ukazała się grupa skał, wśród których zniknęli Libijczycy.
 
-"It is hot!" whispered the heir.
+— Panie — rzekł Pentuer — tam może być zasadzka...
 
-"Listen, lord," said Pentuer, "this is not a good day for hunting in
+— Niech będzie śmierć i niech mnie zabierze!... — odparł następca zmienionym głosem.
 
-the desert. This morning the sacred insects showed great disquiet, then
+Kapłan spojrzał na niego z podziwem: nie przypuszczał w nim podobnej zaciętości.
 
-dropped into lethargy. Also my knife of a priest went down very little
+Do skał nie było daleko, lecz droga nad wszelki opis uciążliwa. Trzeba było nie tylko iść samym, ale jeszcze wyciągać z piasku konie. Wszyscy brnęli, zanurzeni powyżej kostek; zdarzały się jednak miejsca, gdzie można było zapaść się po kolana.
 
-in the earthen scabbard, which means intense heat. Both these phenomena
+A na niebie wciąż płonęło słońce, straszne słońce pustyni, którego każdy promień nie tylko piekł i oślepiał, ale jeszcze kłuł. Najwytrwalsi Azjaci upadali ze znużenia: jednemu spuchł język i wargi, drugi miał szum w głowie i czarne płatki w oczach, innego ogarniała senność, wszyscy czuli ból w stawach i zatracili wrażenie upału. I gdyby zapytano którego: czy na dworze jest gorąco? — nie potrafiłby odpowiedzieć.
 
-the heat, and the lethargy of insects may announce a tempest. Let us
+Grunt znowu pod nogami stwardniał i orszak Ramzesa wszedł między skały. Książę, najprzytomniejszy ze wszystkich, usłyszał chrapanie konia, skręcił na bok i w cieniu rzuconym przez pagórek zobaczył gromadę ludzi leżących, jak który padł. Byli to Libijczycy.
 
-return, for not only have we lost sight of the camp, but even sounds
+Jeden z nich, człowiek młody, dwudziestoletni, miał na sobie purpurową koszulkę haftowaną, złoty łańcuch na szyi i miecz bogato oprawny. Zdawał się leżeć bez czucia; miał oczy wywrócone białkami do góry i trochę piany w ustach. Ramzes poznał w nim dowódcę. Zbliżył się, zerwał mu łańcuch z szyi i odczepił miecz.
 
-from there do not reach to us."
+Jakiś stary Libijczyk, który zdawał się być mniej zmęczonym od innych, widząc to, odezwał się:
 
-Ramses looked at the priest almost contemptuously.
+— Choć jesteś zwycięzcą, Egipcjaninie, uszanuj książęcego syna, który był wodzem naczelnym.
 
-"And dost Thou think, O prophet," said he, "that I, having once
+— To jest syn Musawasy? — spytał książę.
 
-commanded the capture of Musawasa, can return empty handed because I
+— Prawdę rzekłeś — odparł Libijczyk — to jest Tehenna, syn Musawasy, nasz wódz, który godzien był zostać nawet egipskim księciem.
 
-fear heat and a tempest?"
+— A gdzie Musawasa?
 
-They went on without stopping. At one place there was hard ground
+— Musawasa jest w Glaukus i zbiera wielką armię, która nas pomści.
 
-again, thanks to which they approached the fugitives to within the
+Inni Libijczycy nie odzywali się; nawet nie raczyli spojrzeć na swoich zwycięzców. Na rozkaz księcia Azjaci rozbroili ich bez trudności i — sami usiedli w cieniu skały.
 
-distance of a sling cast.
+W tej chwili nie było tu przyjaciół ani wrogów, lecz śmiertelnie znużeni ludzie. Śmierć czyhała na wszystkich, ale oni chcieli tylko odpocząć.
 
-"Hei, ye there!" cried the heir, "yield."
+Pentuer widząc, że Tehenna wciąż jest nieprzytomny, ukląkł przy nim i pochylił mu się nad głową, tak że nikt nie mógł dostrzec, co robi. Wnet jednak Tehenna zaczął wzdychać, rzucać się i otworzył oczy; potem usiadł, trąc czoło, jak przebudzony z twardego snu, który jeszcze nie odszedł.
 
-The Libyans did not even look behind, and waded on through the sand
+— Tehenno, wodzu Libijczyków — rzekł Ramzes — ty i twoi ludzie jesteście jeńcami jego świątobliwości faraona.
 
-with great effort. After a while one might suppose that they would be
+— Lepiej zabij mnie od razu — mruknął Tehenna — jeżeli mam utracić wolność.
 
-overtaken. Soon again, however, the prince's party struck on deep sand
+— Gdy ojciec twój, Musawasa, upokorzy się i zawrze pokój z Egiptem, jeszcze będziesz wolny i szczęśliwy...
 
-while the Libyans hastening forward vanished beyond an elevation.
+Libijczyk odwrócił głowę i położył się obojętny na wszystko. Ramzes usiadł przy nim i po chwili zapadł w jakiś letarg; prawdopodobnie zasnął.
 
-The Asiatics cursed, the prince gritted his teeth.
+Ocknął się po upływie kwadransa, nieco rzeźwiejszy. Spojrzał na pustynię i krzyknął z zachwytu: na horyzoncie widać było zielony kraj, wodę, gęste palmy, a nieco wyżej miasteczka i świątynie...
 
-At last the horses began to stumble more and to be weary, so the riders
+Dokoła niego wszyscy spali — Azjaci i Libijczycy. Tylko Pentuer stojąc na złamie skały przysłonił ręką oczy i gdzieś patrzył.
 
-had to dismount and go on foot. All at once an Asiatic grew purple, and
+— Pentuerze!... Pentuerze!... — zawołał Ramzes. — Czy widzisz tę oazę?...
 
-fell on the sand. The prince commanded to cover him with a mantle, and
+Zerwał się i przybiegł do kapłana, który miał troskę na twarzy.
 
-said,
+— Widzisz oazę?...
 
-"We will take him on the way back."
+— To nie oaza — odparł Pentuer — to błąkający się w pustyni duch jakiegoś kraju, którego już nie ma na świecie... Ale tamto — tam... jest naprawdę!... — dodał wskazując ręką w stronę południa.
 
-After great toil they reached the top of the sand height, and saw the
+— Góry?... — zapytał książę.
 
-Libyans. For them too the road had been murderous, two of their horses
+— Przypatrz się lepiej.
 
-had stopped.
+Książę wpatrywał się, nagle rzekł:
 
-The camp of the Egyptian army was hidden completely behind the rolling
+— Zdaje mi się, że ta ciemna masa podnosi się... Muszę mieć zmęczony wzrok.
 
-land, and if Pentuer and the Asiatics had not known how to guide
+— To jest Tyfon — szepnął kapłan. — Tylko bogowie mogą nas uratować, jeżeli zechcą...
 
-themselves by the sun they could not have gone back to the camping-
+Istotnie Ramzes uczuł na twarzy powiew, który nawet wśród pustynnego upału wydał mu się ciepły. Powiew ten, zrazu bardzo delikatny, wzmagał się, był coraz cieplejszy, a jednocześnie ciemna smuga podnosiła się na niebie z zadziwiającą szybkością.
 
-place. In the prince's party another man fell, and threw bloody foam
+— Cóż zrobimy? — spytał książę.
 
-from his mouth. He was left, with his horse. To finish their trouble,
+— Te skały — odparł kapłan — zasłonią nas przed zasypaniem, ale nie odpędzą ani kurzu, ani gorąca, które wciąż rośnie. A za dzień lub dwa...
 
-on the outline of the sands stood a group of cliffs; among these the
+— Więc Tyfon tak długo wieje?
 
-Libyans vanished.
+— Czasami trzy i cztery dni... Tylko niekiedy zrywa się na parę godzin i nagle pada jak sęp przeszyty strzałą. Ale trafia się to bardzo rzadko...
 
-"Lord," said Pentuer, "that may be an ambush."
+Książę sposępniał, choć nie stracił odwagi. Kapłan zaś, wydobywszy spod szaty mały flakonik z zielonego szkła, mówił dalej:
 
-"Let it be death, and let it take me!" replied the heir, in a changed
+— Masz tu eliksir... Powinien wystarczyć ci na kilka dni... Ile razy uczujesz senność albo strach, wypij kropelkę tego. Tym sposobem wzmocnisz się i przetrzymasz...
 
-voice.
+— A ty?... a inni?...
 
-The priest gazed at him with wonder; he had not supposed such resolve
+— Los mój jest w rękach Jedynego. Reszta zaś ludzi... Oni nie są następcami tronu!
 
-in Ramses.
+— Nie chcę tego płynu — rzekł książę, odsuwając flakonik.
 
-The cliffs were not distant, but the road was laborious beyond
+— Musisz go wziąć!... — krzyknął Pentuer. — Pamiętaj, że w tobie lud egipski złożył swoje nadzieje... Pamiętaj, że nad tobą czuwa jego błogosławieństwo...
 
-description. They had not only to walk themselves, but to drag their
+Czarna chmura podniosła się już do połowy nieba, a gorący wicher dął tak gwałtownie, że książę i kapłan musieli zejść pod skałę.
 
-horses out of the soft sand. They waded, sinking below their ankles;
+— Lud egipski?... błogosławieństwo?... — powtarzał Ramzes. Nagle zawołał:
 
-they sank to their knees even in some places.
+— To ty rok temu przemawiałeś do mnie w nocy z ogrodu?... Było to zaraz po manewrach...
 
-Meanwhile the sun was flaming above them, that dreadful sun of the
+— Tego dnia, kiedy litowałeś się nad chłopem, który powiesił się z rozpaczy, że mu kanał zepsuto — odparł kapłan.
 
-desert, every ray of which not only baked and blinded, but pricked
+— Ty uratowałeś mój folwark i Żydówkę Sarę przed tłumem, który chciał ją ukamienować?...
 
-also. The men dropped from weariness: in one, tongue and lips were
+— Ja — rzekł Pentuer. — Ale ty wkrótce uwolniłeś z więzienia niewinnych chłopów i nie pozwoliłeś Dagonowi dręczyć ludu twego nowymi podatkami.
 
-swollen; another had a roaring in his head, and saw black patches
+Za ten lud — mówił kapłan — za miłosierdzie, jakie zawsze okazywałeś mu, dziś jeszcze błogosławię ciebie... Może tylko ty jeden ocalejesz tutaj, ale pomnij... pomnij, że ocala cię uciśnięty lud egipski, który od ciebie czeka zbawienia...
 
-before his eyes; drowsiness seized a third, all felt pain in their
+Wtem pociemniało, od południa sypnął deszcz gorącego piasku i zerwał się wicher tak gwałtowny, że przewrócił konia stojącego w nieosłoniętym miejscu. Azjaci i libijscy jeńcy, wszyscy obudzili się; ale każdy tylko wcisnął się lepiej pod skałę i milczał zdjęty trwogą.
 
-joints, and lost the sensation of heat. Had any one asked if it were
+W naturze działo się coś okropnego. Na ziemi zaległa noc, a na niebie w szalonym pędzie goniły się rude lub czarne obłoki piasku. Zdawało się, że piasek z całej pustyni ożył, zerwał się w górę i leciał gdzieś z szybkością kamieni rzucanych procą.
 
-hot, they would not have answered.
+Gorąco było takie jak w łaźni: na rękach i twarzy pękała skóra, język usychał, oddech sprawiał kłucie w piersiach. Drobne ziarna piasku parzyły jak iskry.
 
-The ground grew firm under their feet again, and the party passed in
+Pentuer gwałtem zbliżył flakonik do ust księcia. Ramzes wypił parę kropel i uczuł dziwną zmianę: ból i gorąco przestały go dręczyć, myśl odzyskała swobodę.
 
-between the cliffs.
+— I to może ciągnąć się parę dni?...
 
-The prince, who had more presence of mind than those who were with him,
+— Cztery — odparł kapłan.
 
-heard the snorting of horses; he turned to one side, and in the shade
+— A wy, mędrcy, powiernicy bogów, nie posiadacie sposobu uratowania ludzi z takiej burzy?...
 
-cast by the cliff saw a crowd of people lying as each man had dropped.
+Pentuer zamyślił się i rzekł:
 
-Those were the Libyans.
+— Na świecie jest tylko jeden mędrzec, który mógłby walczyć ze złymi duchami... Ale jego tu nie ma!...
 
-One of them, a youth of twenty years, wore an embroidered purple shirt,
+Tyfon dął już od pół godziny z niepojętą siłą. Zrobiła się prawie noc. Chwilami wiatr słabnął, czarne kłęby rozsuwały się i było widać na niebie krwawe słońce, a na ziemi złowrogie światło rudej barwy.
 
-a gold chain was around his neck, and he carried a sword richly
+Lecz wnet potężniał wicher gorący, duszny; kłęby kurzu gęstniały, trupie światło gasło, a w powietrzu rozlegały się niepokojące szelesty i szmery, jakich nie nawykło chwytać ludzkie ucho.
 
-mounted. He seemed unconscious; the eyes were turned in his head, and
+Niewiele już brakło do zachodu, a gwałtowność burzy i nieznośny upał wciąż rosły. Od czasu do czasu nad horyzontem ukazywała się olbrzymia krwawa plama, jak gdyby zaczynał się pożar świata.
 
-there was foam on his lips. In him Ramses recognized the chief. He
+Nagle książę spostrzegł, że nie ma przy nim Pentuera. Wytężył ucho i usłyszał głos wołający:
 
-approached him, drew the chain from his neck, and unfastened his sword.
+— Beroes!... Beroes!... jeżeli nie ty, któż nam pomoże?... Beroes!... w imię Jedynego, Wszechmocnego, który nie ma początku ani końca, wzywam cię...
 
-Some old Libyan who seemed less wearied than others, seeing this,
+W północnej stronie pustyni odezwał się grzmot. Książę struchlał; dla Egipcjanina bowiem grzmoty były prawie tak rzadkim zjawiskiem jak ukazanie się komety.
 
-called out,
+— Beroes!... Beroes!... — powtarzał wielkim głosem kapłan.
 
-"Though Thou art victor, Egyptian, respect the prince's son, who is
+Następca wytężył wzrok w tym kierunku i ujrzał — ciemną figurę ludzką z podniesionymi rękoma. Z głowy, palców, a nawet z odzienia tej figury, co chwilę wyskakiwały jasnobłękitne iskry.
 
-chief."
+— Beroes!... Beroes!...
 
-"Is he the son of Musawasa?" asked Ramses.
+Przeciągły grzmot odezwał się bliżej, a wśród tumanów piasku mignęła błyskawica, oblewając pustynię czerwonym światłem. Nowy grzmot i nowa błyskawica.
 
-"Thou hast spoken truth," replied the Libyan. "This is Tehenna, the son
+Książę uczuł, że gwałtowność wichru słabnie i gorąco zmniejsza się. Skłębiony w górze piasek zaczął spadać na ziemię, niebo zrobiło się popielate, potem rude, potem mlecznej barwy. Potem wszystko ucichło, a za chwilę znowu runął grzmot i zawiał chłodny wiatr z północy.
 
-of Musawasa; he is our leader; he is worthy to be even prince of
+Znękani upałem Azjaci i Libijczykowie ocknęli się.
 
-Egypt."
+— Wojownicy faraona — nagle odezwał się stary Libijczyk — a słyszycie wy ten szum w pustyni?...
 
-"But where is Musawasa?"
+— Znowu burza?
 
-"In Glaucus. He will collect a great army and avenge us."
+— Nie, to deszcz pada!...
 
-The other Libyans said nothing; they did not even look at their
+Istotnie z nieba upadło kilka chłodnych kropli, potem coraz więcej, aż w końcu zerwała się ulewa, której towarzyszyły pioruny.
 
-conquerors.
+Między żołnierzami Ramzesa i ich jeńcami zapanowała szalona radość. Nie zważając na błyskawice i gromy, ludzie, przed chwilą spaleni żarem, spragnieni, biegali jak dzieci pod strumieniami deszczu. Po ciemku myli siebie i konie, łapali wodę w czapki i skórzane wory, a nade wszystko — pili, pili!...
 
-At command of Ramses the Asiatics disarmed them without the least
+— Nie jestże to cud?... — zawołał książę Ramzes. — Gdyby nie deszcz błogosławiony, zginęlibyśmy w pustyni, w gorących uściskach Tyfona.
 
-trouble, and sat down in the shade themselves.
+— Zdarza się tak — odparł stary Libijczyk — że południowy wicher piaszczysty drażni wiatry przechadzające się nad morzem i sprowadza ulewę.
 
-At that moment they were all neither enemies nor friends, only men who
+Ramzesa niemile dotknęły te słowa; przypisywał bowiem nawałnicę modlitwom Pentuera. Zwróciwszy się więc do Libijczyka, spytał:
 
-were mortally wearied. Death was hovering over all, but beyond rest
+— A czy zdarza się i to, ażeby z ludzkiej postaci tryskały iskry?
 
-they had no desire.
+— Zawsze tak bywa, gdy wieje wiatr pustynny — rzekł Libijczyk. — Przecie i tym razem widzieliśmy iskry wyskakujące nie tylko z ludzi, ale i z koni.
 
-Pentuer, seeing that Tehenna remained unconscious, knelt near him and
+W głosie jego brzmiała taka pewność, że książę, zbliżywszy się do oficera swej jazdy, szepnął:
 
-bent above his head so that no one saw what he was doing. Soon Tehenna
+— A zważajcie na Libijczyków...
 
-sighed, struggled, and opened his eyes; then he sat up, rubbed his
+Ledwie to powiedział, coś zakotłowało się wśród ciemności, a po chwili rozległ się tętent. Gdy zaś błyskawica rozświetliła pustynię, zobaczono człowieka, który uciekał na koniu.
 
-forehead, as if roused from a deep steep, which had not yet left him.
+— Wiązać tych nędzników! — krzyknął książę — i zabić, jeżeli który będzie opierał się... Biada ci, Tehenno, gdyby ten łotr sprowadził na nas twoich braci!... Zginiesz w ciężkich męczarniach ty i twoi...
 
-"Tehenna, leader of the Libyans, Thou and thy people are prisoners of
+Pomimo deszczu, piorunów i ciemności żołnierze Ramzesa szybko powiązali Libijczyków nie stawiających zresztą żadnego oporu.
 
-his holiness," said Ramses.
+Może czekali na rozkaz Tehenny, ale ten był tak zgnębiony, że nie myślał nawet o ucieczce.
 
-"Better slay me here," said Tehenna, "if I must lose my freedom."
+Powoli burza uspakajała się, a miejsce dziennego upału zajął w pustyni chłód przejmujący. Ludzie i konie napili się do syta i worki napełnili wodą; daktylów i sucharów było dosyć, więc panowało dobre usposobienie. Grzmoty osłabły, ciche błyskawice zapalały się coraz rzadziej; na północnym niebie poczęły rozdzierać się obłoki, tu i owdzie zapłonęły gwiazdy.
 
-"If thy father, Musawasa, will submit and make peace with Egypt, Thou
+Pentuer zbliżył się do Ramzesa.
 
-wilt be free and happy."
+— Wracajmy ku obozowi — rzekł. — Możemy tam dojść za parę godzin, zanim ten, który uciekł, naprowadzi nam nieprzyjaciół.
 
-The Libyan turned his face aside, and lay down careless of everything;
+— Jakże trafimy wśród takiej ciemności? — spytał książę.
 
-he seemed to be sleeping.
+— Czy macie pochodnie? — zwrócił się kapłan do Azjatów.
 
-He came to himself, in a quarter of an hour, somewhat fresher. He gazed
+Pochodnie czyli długie sznury nasycone materiałami palnymi, były; ale nie było ognia. Drewniane bowiem krzesiwka służące do zapalania przemokły.
 
-at the desert and cried out with delight: on the horizon a green
+— Musimy czekać do rana — rzekł niecierpliwy książę.
 
-country was visible, water, many palms, and somewhat higher, a town and
+Pentuer nie odpowiedział. Wydobył ze swej torby małe naczynie, wziął od żołnierza pochodnię i odszedł na bok. Po chwili rozległo się ciche syczenie i pochodnia... zapaliła się.
 
-a temple.
+— Wielki jest czarnoksiężnik ten kapłan!... — mruknął stary Libijczyk.
 
-Around him all were sleeping, both Asiatics and Libyans. But Pentuer,
+— W oczach moich sprawiłeś już drugi cud — rzekł książę do Pentuera. — Czy możesz mi objaśnić, jak się to robi?...
 
-standing on a rock, had shaded his eyes with his hand and was looking
+Kapłan potrząsnął głową.
 
-in some direction.
+— O wszystko pytaj mnie, panie — odparł — a odpowiem ci, na ile mi starczy mądrości. Tylko nigdy nie żądaj, abym ci wyjaśniał tajemnice naszych świątyń.
 
-"Pentuer! Pentuer!" cried Ramses. "Dost Thou see that oasis?"
+— Nawet gdybym cię mianował moim doradcą?
 
-He sprang up and ran to the priest, whose face was full of anxiety.
+— Nawet i wówczas. Nigdy nie będę zdrajcą, a choćbym i śmiał nim zostać, odstraszyłyby mnie kary...
 
-"Dost Thou see the oasis?"
+— Kary?... — powtórzył książę. — Aha!... Pamiętam w świątyni Hator człowieka schowanego w podziemiu, na którego kapłani wylewali roztopioną smołę. Czyżby to robili naprawdę?... I ów człowiek naprawdę skonał w mękach?...
 
-"That is no oasis," said Pentuer; "that is the ghost of some region
+Pentuer milczał, jakby nie słysząc pytania, i powoli wydobył ze swej cudownej torby mały posążek bóstwa z rozkrzyżowanymi rękoma. Posążek ten wisiał na sznurku; kapłan puścił go wolno i szepcąc modlitwę uważał. Posążek po pewnej liczbie wahań i kręceń się zawisnął spokojnie.
 
-which is wandering about through the desert a region no longer in
+Ramzes przy świetle pochodni ze zdziwieniem przypatrywał się tym praktykom.
 
-existence. But over there over there is reality!" added he, pointing
+— Co to robisz? — spytał kapłana.
 
-southward.
+— Tyle tylko mogę powiedzieć waszej dostojności — rzekł Pentuer — że bóstwo jedną ręką wskazuje gwiazdę Eshmun. Ona to w czasie nocy prowadzi przez morza fenickie okręty.
 
-"Are they mountains?"
+— Więc i Fenicjanie mają tego boga?
 
-"Look more sharply."
+— Nawet nie wiedzą o nim. Bóg, który zawsze zwraca jedną rękę do gwiazdy Eshmun, jest znany tylko nam i kapłanom chaldejskim. Przy jego zaś pomocy każdy prorok, dniem i nocą, w pogodę i niepogodę, może odkryć swoją drogę na morzu czy w pustyni.
 
-The prince looked, and saw something suddenly.
+Na rozkaz księcia, który z zapaloną pochodnią szedł obok Pentuera, orszak i jeńcy ruszyli za kapłanem w kierunku północno-wschodnim. Bożek zawieszony na sznurku chwiał się, lecz niemniej wyciągniętą ręką wskazywał, gdzie leży święta gwiazda, opiekunka zbłąkanych podróżników.
 
-"It seems to me that a dark mass is rising my sight must be dulled."
+Szli pieszo, prowadząc konie, dobrym krokiem. Zimno było tak ostre, że nawet Azjaci chuchali w ręce, a Libijczycy drżeli.
 
-"That is Typhon," whispered the priest. "The gods alone have power to
+Wtem coś zaczęło chrupać i trzeszczeć pod nogami. Pentuer przystanął i schylił się.
 
-save us, if only they have the wish."
+— W tym miejscu — rzekł — deszcz na opoce utworzył płytką kałużę. A z wody, patrz, dostojny panie, co się zrobiło...
 
-Indeed, Ramses felt on his face a breath, which amid the heat of the
+Mówiąc to, podniósł i pokazał księciu jakby tafelkę szklaną, która topniała mu w rękach.
 
-desert seemed all at once hot to him. That breath, at first very
+— Gdy jest bardzo zimno — dodał — woda staje się przezroczystym kamieniem.
 
-delicate, increased, growing hotter and hotter, and at the same time
+Azjaci potwierdzili słowa kapłana, dodając, że daleko na północy woda bardzo często zamienia się w kamień, a para w białą sól, która jednak nie ma żadnego smaku, tylko szczypie w palce i wywołuje ból w zębach.
 
-the dark streak rose in the sky with astonishing swiftness.
+Książę coraz bardziej podziwiał mądrość Pentuera.
 
-"What shall we do?" asked Ramses.
+Tymczasem w północnej stronie niebo wyjaśniło się, odsłaniając Niedźwiedzicę, a w niej gwiazdę Eshmun. Kapłan, znowu odmówiwszy modlitwę, schował do torby przewodniczącego bożka i kazał zgasić pochodnie, a zostawić tylko tlący się sznur, który utrzymywał ogień i stopniowym upalaniem się znaczył godziny.
 
-"These cliffs," said the priest, "will shelter us from being covered
+Książę zalecił czujność swemu oddziałowi i wziąwszy Pentuera, wysunął się o kilkadziesiąt kroków naprzód.
 
-with sand, but they will not keep away dust or the heat which is
+— Pentuerze — odezwał się — od tej chwili mianuję cię moim doradcą i na teraz, i wówczas gdy podoba się bogom oddać mi koronę Górnego i Dolnego Egiptu...
 
-increasing continually. But in a day or two days."
+— Czymże zasłużyłem na tą łaskę?
 
-"Does Typhon blow that long?"
+— W oczach moich spełniałeś czyny, które świadczą o wielkiej twojej mądrości i potędze nad duchami. Nadto zaś byłeś gotów ocalić mi życie. Więc choć postanowiłeś ukrywać wiele rzeczy przede mną...
 
-"Sometimes three and four days. But sometimes he springs up for a
+— Wybacz, dostojny panie — przerwał kapłan. — Zdrajców, gdy będą ci potrzebni, znajdziesz za złoto i klejnoty nawet między kapłanami. Ale ja nie chcę należeć do nich. Bo pomyśl: czy zdradzając bogów dawałbym ci pewność, że i z tobą tak nie postąpię?
 
-couple of hours, and drops suddenly, like a vulture pierced with an
+Ramzes zamyślił się.
 
-arrow. That happens very rarely."
+— Mądrze powiedziałeś — odparł. — Lecz dziwno mi, skąd ty, kapłan, masz dla mnie życzliwość w sercu? Rok temu — błogosławiłeś mnie, a dziś nie pozwoliłeś samemu jechać w pustynię i oddajesz mi wielkie usługi.
 
-The prince became gloomy, though he did not lose courage. The priest,
+— Bo ostrzegli mnie bogowie, że ty, dostojny panie, gdy zechcesz, możesz wydobyć z nędzy i poniżenia nieszczęsny lud egipski.
 
-drawing from under his mantle a little green flask, said,
+— Cóż lud ciebie obchodzi?
 
-"Here is an elixir. It should last thee a number of days. Whenever Thou
+— Spośród niego wyszedłem... Mój ojciec i bracia po całych dniach czerpali wodę z Nilu i dostawali kije...
 
-art afraid, or feel drowsy, drink a drop. In that way Thou wilt be
+— W czymże ja mogę pomóc ludowi? — spytał następca.
 
-strengthened and endure."
+Pentuer ożywił się.
 
-"But thou, and the others?"
+— Lud twój — mówił wzruszony — za wiele pracuje, za duże płaci podatki, cierpi nędzę i prześladowania. Ciężką jest dola chłopa!...
 
-"My fate is in the hands of the One. As to the rest of the people, they
+„Robak pożarł połowę jego zbioru, nosorożec drugą; na polach mnóstwo myszy, spadła szarańcza, bydło wygniotło, ukradły wróble. Co jeszcze zostało na klepisku, temu złodzieje zrobili koniec. O nędzo rolnika! Teraz dopiero przybywa pisarz na brzeg i upomina się o zbiór, towarzysze jego przynieśli kije, a Murzyni palmowe rózgi. Mówią: daj tu zboże!
 
-are not heirs to the throne of Egypt."
+— Nie ma żadnego. — Biją go wtenczas, rozciągają jak długi i wiążą, rzucają do kanału, gdzie się topi, głową na dół. Żonę jego wiążą przed nim i dzieci takoż. Sąsiedzi uciekają, ratując swoje zboże...”
 
-"I do not wish this liquid!" cried the prince, pushing away the little
+— Sam to widziałem — odparł zamyślony książę — i nawet odpędziłem jednego podobnego pisarza. Lecz czyliż mogę być wszędzie obecnym, ażeby zapobiegać niesprawiedliwości?
 
-bottle.
+— Możesz, panie, rozkazać, ażeby nie dręczono ludzi bez potrzeby. Możesz zniżyć podatki, wyznaczyć chłopom dni wypoczynku. Możesz w końcu obdarować każdą rodzinę choćby zagonem ziemi, z której zbiór należałby tylko do nich i służył do ich wykarmienia. W razie przeciwnym będą i nadal karmili się: lotosem, papirusem i zdechłymi rybami, i w końcu twój lud zmarnieje... Ale jeżeli ty okażesz mu swoją łaskę, podźwignie się.
 
-"Thou must take it!" said Pentuer. "Remember that the Egyptian people
+— I zaprawdę uczynię tak! — zawołał książę. — Dobry gospodarz nie pozwala, ażeby jego inwentarz marł z głodu, pracował nad siły lub odbierał niesłuszne plagi... To musi się zmienić!...
 
-have fixed their hopes on thee. Remember that on thee is their
+Pentuer zatrzymał się.
 
-blessing."
+— Przyrzekasz mi to, dostojny panie?...
 
-The black cloud had covered half the sky, and the hot wind blew with
+— Przysięgam! — odparł Ramzes.
 
-such force that the prince and priest had to go to the foot of the
+— A więc i ja ci przysięgam, że będziesz najsławniejszym faraonem, wobec którego zblednie Ramzes Wielki! — zawołał już nie panujący nad sobą kapłan.
 
-cliff.
+Książę zamyślił się.
 
-"The Egyptian people? their blessing?" repeated Ramses.
+— Co poczniemy we dwu przeciw kapłanom, którzy mnie nienawidzą?...
 
-All at once he called out,
+— Oni boją się ciebie, panie — odpowiedział Pentuer. — Boją się, ażebyś zbyt wcześnie nie zaczął wojny z Asyrią...
 
-"Was it Thou who conversed with me a year ago in the garden? That was
+— Cóż im zależy na tym, jeżeli wojna będzie wygrana?...
 
-immediately after the maneuvers."
+Kapłan schylił głowę i rozłożył ręce, lecz milczał.
 
-"That same day, when Thou hadst compassion on the man who hanged
+— Więc ja tobie powiem!... — krzyknął rozdrażniony książę. — Oni nie chcą wojny, gdyż lękają się, ażebym nie wrócił z niej zwycięzcą, obładowany skarbami, pędząc przed sobą niewolników... Oni tego boją się, ponieważ chcą, ażeby każdy faraon był słabym narzędziem ich ręki, bezużytecznym sprzętem, który można odrzucić, kiedy im się podoba...
 
-himself through despair because his canal was destroyed," answered the
+Ale ze mną tego nie będzie!... I albo zrobię to, co chcę, do czego mam prawo, jako syn i spadkobierca bogów, albo... zginę...
 
-priest.
+Pentuer cofnął się i wyszeptał zaklęcie.
 
-"Thou didst save my house and the Jewess Sarah from the rabble who
+— Nie mów tak, dostojny panie — rzekł zmieszany — aby złe duchy krążące nad pustynią nie pochwyciły twoich słów... Słowo, zapamiętaj to, władco, jest jak kamień rzucony z procy; gdy trafi na ścianę, odbije się i zwróci przeciw tobie samemu...
 
-wished to stone her."
+Książę pogardliwie machnął ręką.
 
-"I did," said Pentuer. "And soon after Thou didst free the innocent
+— Wszystko jedno — odparł. — Nie ma wartości takie życie, w którym każdy krępowałby moją wolę... Jeżeli nie bogowie, to wichry pustynne; jeżeli nie złe duchy, to kapłani... I takaż ma być władza faraona?... Chcę robić to, co ja chcę, i zdawać sprawę tylko przed wiekuistymi przodkami, a nie przed lada ogolonym łbem, który niby tłumaczy zamiary bogów, a naprawdę zagarnia władzę i napełnia swoje skarbce moimi dostatkami!...
 
-laborers from prison, and didst not permit Dagon to torture thy people
+Wtem o kilkadziesiąt kroków od nich rozległ się dziwny krzyk, środkujący między rżeniem a beczeniem, i — przebiegł olbrzymi cień. Pędził jak strzała i o ile można było dojrzeć, miał długą szyję i tułów garbaty.
 
-with new tribute."
+Wśród książęcego orszaku rozległ się szmer zgrozy.
 
-"For this people," continued the priest in a louder voice, "for the
+— To gryf!... Wyraźnie widziałem skrzydła!... — mówili Azjaci.
 
-compassion which Thou hast always shown them I bless thee again today.
+— Pustynia roi się potworami!... — dodał stary Libijczyk.
 
-Perhaps Thou art the only one who will be saved here, but remember that
+Ramzes był stropiony; jemu także zdawało się, że przebiegający cień miał głowę węża i coś na kształt krótkich skrzydeł.
 
-the oppressed people of Egypt will save thee, they who look to thee for
+— Czy w rzeczy samej — zapytał kapłana — w pustyni ukazują się potwory?
 
-redemption."
+— Zapewne — rzekł Pentuer — że w miejscu tak odludnym snują się niedobre duchy w najosobliwszych postaciach. Zdaje mi się jednak, że to, co przeszło obok nas, jest raczej zwierzęciem. Podobne ono jest do osiodłanego konia, tylko większe i prędsze w biegu. Mówią zaś mieszkańcy oazów, że zwierzę to może wcale nie pić wody, a przynajmniej bardzo rzadko. Gdyby tak było, przyszłe pokolenia mogłyby używać do przebiegania pustyń tej dziwnej istoty, która dziś tylko strach budzi.
 
-Hereupon it grew dark; from the south came a shower of hot sand, and
+— Nie śmiałbym siąść na grzbiecie takiej poczwary! — odparł książę, potrząsając głową.
 
-such a mighty wind rose that it threw down a horse that was standing in
+— Toż samo nasi przodkowie mówili o koniu, który Hyksosom pomógł zdobyć Egipt, a dziś stał się niezbędnym dla naszej armii. Czas bardzo zmienia ludzkie sądy!... — rzekł Pentuer.
 
-the open. The Asiatics and the Libyan prisoners all woke, but each man
+Na niebie znikły ostatnie chmury i zaczęła się noc jasna. Pomimo braku księżyca było tak widno, że na tle białego piasku można było poznać ogólne zarysy przedmiotów, nawet drobnych czy bardzo odległych.
 
-merely pressed up to the cliff more closely, and possessed by great
+Przejmujący chłód także zmniejszył się. Przez jakiś czas orszak maszerował w milczeniu, po kostki grzęznąc w piaskach. Nagle między Azjatami znowu wszczął się tumult i rozległy się wołania:
 
-fear remained silent.
+— Sfinks!... patrzcie, sfinks!... Już nie wyjdziemy żywi z pustyni, kiedy ciągle pokazują się nam widziadła...
 
-In nature something dreadful was happening. Night covered the earth,
+Rzeczywiście na białym pagórku wapiennym bardzo wyraźnie rysowała się sylwetka sfinksa. Lwie ciało, ogromna głowa w czepcu egipskim i jakby ludzki profil.
 
-and through the sky black or ruddy clouds of sand rushed with mad
+— Uspokójcie się, barbarzyńcy — rzekł stary Libijczyk. — To przecie nie sfinks, tylko lew, i nic wam nie zrobi, gdyż zajęty jest jedzeniem.
 
-impetus. It seemed as though all the sand of the desert, now alive, had
+— Zaprawdę jest to lew! — potwierdził książę, zatrzymując się. — Ale jak on podobny do sfinksa...
 
-sprung up and was flying to some place with the speed of a stone
+— On też jest ojcem naszych sfinksów — wtrącił półgłosem kapłan. — Jego twarz przypomina rysy człowiecze, a jego grzywa perukę...
 
-whirled from the sling of a warrior.
+— Czy i nasz wielki sfinks, ten, który pod piramidami?...
 
-The heat was like that in a bath: on the hands and feet the skin burst,
+— Na wiele wieków przed Menesem — mówił Pentuer — kiedy jeszcze nie było piramid, rosła w tym miejscu skała podobna do lwa leżącego, jakby bogowie tym sposobem chcieli oznaczyć: gdzie zaczyna się pustynia.
 
-the tongue dried, breath produced a pricking in the breast. The fine
+Ówcześni święci kapłani kazali mistrzom dokładniej obrobić skałę i braki jej dopełnić za pomocą sztucznego muru. Mistrze zaś, częściej widując ludzi aniżeli lwy, wyrzeźbili twarz ludzką i tak urodził się pierwszy sfinks...
 
-grains of sand burnt like fire sparks.
+— Któremu oddajemy cześć boską... — uśmiechnął się książę.
 
-Pentuer forced the bottle to the prince's lips. Ramses drank a couple
+— I słusznie — odparł kapłan. — Pierwsze bowiem zarysy tego dzieła zrobili bogowie, a ludzie wykończyli je także pod natchnieniem bogów. Nasz sfinks ogromem i tajemniczością przypomina pustynię, ma postać duchów błąkających się w pustyni i tak przeraża ludzi jak ona. Jest on zaprawdę synem bogów i ojcem trwogi.
 
-of drops and felt a marvelous change: the pain and heat ceased to
+— A swoją drogą wszystko ma ziemski początek — odparł książę. — Nil nie wypływa z nieba, ale z jakichś gór leżących poza Etiopią. Piramidy, o których mówił mi Herhor, że są obrazem naszego państwa, są budowane na wzór skalistych szczytów. A i nasze świątynie z ich pylonami i obeliskami, z ich ciemnością i chłodem, czyliż nie przypominają pieczar i gór ciągnących się wzdłuż Nilu?... Ile razy na polowaniu zabłąkałem się między wschodnimi skałami, zawszem trafiał na jakieś osobliwe nagromadzenie kamieni, które przywodziło mi na myśl świątynię. Nawet nieraz na ich chropowatych ścianach widziałem hieroglify pisane ręką wichrów i deszczu...
 
-torment him; his thought regained freedom.
+— W tym, wasza dostojność, masz dowód, że nasze świątynie były wznoszone według planu, który nakreślili sami bogowie — rzekł kapłan. — A jak drobna pestka rzucona w ziemię rodzi niebotyczne palmy, tak obraz skały, pieczary, lwa, nawet lotosu, zasiany w duszę pobożnego faraona, rodzi aleje sfinksów, świątynie i ich potężne kolumny. Boskie to są czyny, nie ludzkie, i szczęśliwy ten władca, który patrząc naokoło siebie potrafi w rzeczach ziemskich odkryć myśl bożą i w zrozumiały sposób przedstawić ją następnym pokoleniom.
 
-"And this may last a couple of days?" asked he.
+— Tylko władca taki musi mieć władzę i duży majątek — wtrącił zgryźliwie Ramzes — nie zaś zależeć od kapłańskich przywidzeń...
 
-"It may last four," replied Pentuer.
+Przed nimi ciągnęło się długie wzgórze piaszczyste, na którym w tej chwili ukazało się paru jeźdźców.
 
-"But ye sages, favorites of the gods, have ye no means of saving people
+— Nasi czy Libijczycy?... — rzekł książę.
 
-from such a tempest?"
+Ze wzgórza odezwał się głos rogu, na który odpowiedziano z orszaku księcia. Konni zjechali szybko, o ile na to pozwalał głęboki piasek. Zbliżywszy się, jeden z nich zawołał:
 
-The priest thought awhile, and answered,
+— Czy jest następca tronu?...
 
-"In the world there is only one sage who can struggle with evil
+— Jest, i zdrów! — odpowiedział Ramzes.
 
-spirits. But he is not here."
+Zsiedli z koni i upadli na twarze.
 
-Typhon had been blowing for half an hour with inconceivable fury. It
+— O erpatre! — mówił dowódca przybyłych. — Wojsko twoje rozdziera szaty i prochem posypuje głowy, myśląc, żeś zginął... Cała kawaleria rozbiegła się po pustyni, ażeby znaleźć twoje ślady, i dopiero nam, niegodnym, pozwolili bogowie, że witamy cię pierwsi...
 
-had become almost like night. At moments the wind weakened, the black
-
-clouds pushed apart; in the sky was a bloody sun, on the earth an
-
-ominous light of ruddy color. The hot stifling wind grew more violent,
-
-the clouds of sand thicker. The ghastly light was extinguished, and in
-
-the air were heard sounds and noises to which human ears are not
-
-accustomed.
-
-It was near sunset, but the violence of the tempest increased, and the
-
-unendurable heat rose' continually. From time to time a gigantic bloody
-
-spot appeared above the horizon, as if a world fire were coming.
-
-All at once the prince saw that Pentuer was not before him. He strained
-
-his ear and heard a voice, crying,
-
-"Beroes! Beroes! If Thou cannot help us, who can? Beroes! in the name
-
-of the One, the Almighty, who knows neither end nor beginning, I call
-
-on thee."
-
-On the northern extremity of the desert, thunder was heard. The prince
-
-was frightened, since thunder for an Egyptian was almost as rare a
-
-phenomenon as a comet.
-
-"Beroes! Beroes!" repeated the priest in a deep voice.
-
-Ramses strained his eyes in the direction of the voice, and saw a dark
-
-human figure with arms uplifted. From the head, the fingers, and even
-
-from the clothing of that figure, light bluish sparks were flashing.
-
-"Beroes! Beroes!"
-
-A prolonged roar of thunder was heard nearer; lightning gleamed amid
-
-clouds of sand, and filled the desert with lurid flashes.
-
-A fresh peal of thunder, and again lightning.
-
-The prince felt that the violence of the tempest was decreasing, and
-
-the heat also. The sand which had been whirled through the air began to
-
-fall to the earth now, the sky became ashen gray, next ruddy, next
-
-milk-colored. At last all was silent, and after a while thunder was
-
-heard again, and a cool breeze from the north appeared.
-
-The Asiatics and Libyans, tormented by heat, regained consciousness.
-
-"Warriors of the pharaoh," said the old Libyan on a sudden, "do ye hear
-
-that noise in the desert?"
-
-"Will there be another tempest?"
-
-"No; that is rain."
-
-In fact some cold drops fell from the sky, then more of them, till at
-
-last there was a downpour accompanied by thunder.
-
-Among the soldiers of Ramses and their prisoners mad delight sprang up
-
-suddenly. Without caring for the thunder and lightning the men, who a
-
-moment before had been scorched with heat, and tormented by thirst, ran
-
-under the rain like small children. In the dark they washed themselves
-
-and their horses, they caught water in their caps and leather bags, and
-
-above all they drank and drank eagerly.
-
-"Is not this a miracle?" cried Ramses. "Were it not for this blessed
-
-rain we should all perish here in the burning grasp of Typhon."
-
-"It happens," said the old Libyan, "that the southern sandy wind rouses
-
-a wind from the sea and brings heavy rain to us."
-
-Ramses was touched disagreeably by these words, for he had attributed
-
-the downpour to Pentuer's prayers. He turned to the Libyan, and asked,
-
-"And does it happen that sparks flash from people's bodies?"
-
-"It is always so when the wind blows from the desert," answered the
-
-Libyan. "Just now we saw sparks jumping not only from men, but from
-
-horses."
-
-In his voice there was such conviction that the prince approaching an
-
-officer of his cavalry whispered,
-
-"But look at the Libyans."
-
-When he had said this some one made a noise in the darkness, and after
-
-a while tramping was heard. When a flash lighted up the desert they saw
-
-a man escaping on horseback.
-
-"Bind these wretches!" cried the prince, "and kill any one who resists
-
-you. Woe to thee, Tehenna, if that scoundrel brings thy brethren
-
-against us. Ye will perish in dreadful tortures, Thou and thy men
-
-here."
-
-In spite of rain, darkness, and thunder the prince's soldiers hurried
-
-to bind the Libyans, who made no resistance.
-
-Perhaps they were waiting for Tehenna's command, but he was so crushed
-
-that he had not even thought of fleeing.
-
-The storm subsided gradually, and instead of that heat of the daytime a
-
-piercing cold seized the desert. The men and horses had drunk all they
-
-wanted; the bags were full of water; there were dates and cakes in
-
-abundance, so a good disposition prevailed. The thunder grew weak; at
-
-last even noiseless lightning flashed less and less frequently; on the
-
-northern sky the clouds parted; here and there stars twinkled.
-
-Pentuer approached Ramses,
-
-"Let us return to the camp," said he. "In a couple of hours we shall be
-
-there, before the man who has escaped can lead forth an enemy."
-
-"How shall we find the camp in such darkness?" asked Ramses.
-
-"Have ye torches?" asked the priest of the Asiatics.
-
-Torches, or long cords soaked in an inflammable substance they had; but
-
-there was no fire, for their wooden fire-drills were rain soaked.
-
-"We must wait till morning," said Ramses, impatiently.
-
-Pentuer made no answer. He took a small instrument from his bag, took a
-
-torch from one of the soldiers, and went to one side. After a while
-
-there was a low hissing, and the torch was lighted.
-
-"He is a great magician, that priest," muttered the old Libyan.
-
-"Before my eyes Thou hast performed a second miracle," said the prince.
-
-"Canst Thou explain to me how that was done?"
-
-The priest shook his head.
-
-"Ask of me anything, lord, and I will answer. But ask not to explain
-
-temple secrets."
-
-"Not even if I were to name thee my counselor?"
-
-"Not even then. Never shall I be a traitor, and even if I desired to be
-
-one I should be terrified by punishment."
-
-"Punishment?" repeated Ramses. "Aha! I remember in the temple of Hator,
-
-that man hidden under the pavement, on whom the priests were pouring
-
-burning pitch. Did they do that, indeed, and did that man die really in
-
-tortures?"
-
-Pentuer was silent, as if not hearing the question, and drew out slowly
-
-from his wonderful bag a small statue of a divinity with crossed arms.
-
-The statue depended from a string; the priest let it hang, and
-
-whispered a prayer, while he watched it. The statue, after some
-
-turnings and quiverings, hung without motion.
-
-Ramses, by the light of the torch, looked at these acts with
-
-astonishment.
-
-"What art Thou doing?" asked he.
-
-"I can only say this much to thee, worthiness," replied Pentuer, "that
-
-this divinity points with one hand at the star Eshmun. This hand leads
-
-Phoenician ships through the sea during night hours."
-
-"Then the Phoenicians, too, have this god?"
-
-"They do not even know of him. The god which points one hand always to
-
-the star Eshmun, [Polar Star] is known only to us and the priests of
-
-Chaldea. By the aid of this god every prophet night and day, in bad and
-
-good weather, can find his way on the sea or in the desert."
-
-At command of the prince, who went with a lighted torch at the side of
-
-Pentuer, the retinue and the prisoners followed the priest,
-
-northeastward. The god depending from a string trembled, but indicated
-
-with outstretched hand, the sacred star, Eshmun, the guardian of
-
-travelers.
-
-They went on foot at a good pace, leading the horses. The cold was so
-
-sharp, that even Asiatics blew on their hands, and the Libyans
-
-trembled.
-
-With that, something began to crackle and break underfoot. Pentuer
-
-stopped, and bent down.
-
-"In this place," said he, "rain has made a pool on the rock. And see,
-
-worthy lord, what has become of the water."
-
-Thus speaking, he raised and showed the prince what seemed a plate of
-
-glass, but which melted in his hand.
-
-"When there is great cold," said he, "water becomes a transparent
-
-stone."
-
-The Asiatics confirmed the words of the priest, and added that far away
-
-in the north, water turned into stone very often, and fog turned into a
-
-white salt which is tasteless, but breaks in the hands and causes pain
-
-in the teeth.
-
-The prince admired Pentuer's wisdom still more.
-
-Meanwhile, the northern side of the heavens grew clear, showing the
-
-Great Bear and the star, Eshmun. The priest repeated a prayer again,
-
-put the-guiding god into his bag, and commanded to quench the torches,
-
-and to leave only a burning cord which kept the fire, and indicated
-
-time by its gradual burning.
-
-The prince enjoined watchfulness on his men, and taking Pentuer, pushed
-
-ahead some tens of paces.
-
-"Pentuer," said he, "from this hour I make thee my counselor, both now
-
-and when it shall please the gods to give me the crown of Upper and
-
-Lower Egypt."
-
-"How have I deserved this favor?"
-
-"Before my eyes Thou hast done deeds which show great wisdom, and also
-
-power over spirits. Besides Thou wert ready to save me. So, although it
-
-is thy resolve to keep many things from my knowledge."
-
-"Pardon, lord," interrupted Pentuer. "For gold and jewels, Thou wilt
-
-find traitors shouldst Thou need them, among priests even. But I am not
-
-of those men. For think, were I to betray the gods, what bond could I
-
-give not to betray thee also?"
-
-Ramses grew thoughtful.
-
-"Thou hast answered wisely," said he. "But it is a wonder to me why
-
-thou, a priest, hast for me kindness in thy heart. Thou didst bless me
-
-a year ago, and today Thou wouldst not let me go alone into the desert,
-
-and hast shown me great service."
-
-"Because the gods have forewarned me that Thou art worthy, lord;
-
-shouldst Thou wish, Thou mayst rescue the ill-fated people of Egypt."
-
-"How do the people concern thee?"
-
-"I came from them. My father and brother raised water long days from
-
-the Nile, and received blows of sticks for their labor."
-
-"How can I aid the people?" asked Ramses.
-
-Pentuer grew animated.
-
-"Thy people," said he, with emotion, "toil too much, they pay too much
-
-tribute, they suffer persecution and misery. Hard is the fate of the
-
-toiling man. The worm eats half his harvest, the rhinoceros the other
-
-half; in the fields, a legion of mice live; the locust devours, the
-
-cattle trample, the sparrows steal. What is left after these for the
-
-threshing floor the thief takes. Oh, wretched earth-tillers! Now comes
-
-the scribe to the boundary and mentions the harvest. His attendants
-
-have sticks, and black men carry palm rods. 'Give wheat!' say they. He
-
-answers, 'There is none.' They flog him; immediately they stretch him
-
-out at full length they bind him; they hurl him into the canal, where
-
-they sink him, head downward. They bind his wife in his presence and
-
-also his children. His neighbors flee, carrying their wheat away with
-
-them." [Original description.]
-
-"I have seen that myself," said Ramses, "and have driven off at least
-
-one scribe of that sort. But can I be everywhere to forestall
-
-injustice?"
-
-"Thou mayst command, lord, not to torment working-men needlessly. Thou
-
-mayst decrease taxes, appoint days of rest for the earth-tillers. Thou
-
-mayst give each family a patch of land, even the harvest of which would
-
-be theirs, and serve to nourish them. In the opposite case they will
-
-feed themselves as they now do, with lotus seeds, rotten fish and
-
-papyrus, till thy people will perish finally. But show them favor and
-
-they will rise."
-
-"Indeed, I will do so!" said Ramses. "A wise owner will not let cattle
-
-starve nor work beyond the strength of their bodies, or be clubbed
-
-without reason. This must be changed."
-
-Pentuer halted.
-
-"Dost Thou promise that, worthy lord?"
-
-"I swear!" answered Ramses.
-
-"Then I swear that Thou wilt be the most famous of all pharaohs; before
-
-thee the fame of Ramses the Great, will grow pale!" cried the priest,
-
-mastering himself no longer.
-
-The prince fell to thinking, then asked,
-
-"What can we two do against those priests who hate me?"
-
-"They fear thee, lord," answered Pentuer. "They fear lest Thou begin
-
-war too soon against Assyria?"
-
-"What is that to them if the war be successful?"
-
-The priest bent his head and spread his hands, but was silent.
-
-"Then I will tell thee," cried the prince, in anger. "They want no war!
-
-They fear that I might return from it a conqueror, laden with
-
-treasures, urging on slaves in front of me. They fear this because they
-
-wish every pharaoh to be a weak tool in their grasp, a utensil of no
-
-real value, a utensil to be thrown aside when the wish comes. But this
-
-will not happen in my case. Either I shall do what I plan, and which I,
-
-as the son and heir of the gods have the right to do, or I shall
-
-perish."
-
-Pentuer drew back, and muttered an exorcism.
-
-"Speak not thus, worthy lord," said he, in confusion, "lest evil
-
-spirits circling through the desert may seize thy words. A word,
-
-remember this, ruler, is like a stone sent from a sling; it may strike
-
-a wall, rebound, and hit the man who hurled it."
-
-The prince motioned with his hand contemptuously.
-
-"It is all one," replied he. "A life in which every one stops my will
-
-has no worth for me. When the gods do not bar me, the winds of the
-
-desert do; when evil spirits are not against me, the priests are. Is
-
-the power of a pharaoh to be of such sort. I wish to do what my mind
-
-says, to give account to my deathless ancestors, and to them only, not
-
-to this or that shaven head, who pretends to interpret the will of
-
-divinity, but who is really seizing power, and turning my wealth to his
-
-own use."
-
-At some tens of yards from them a strange cry was heard at that moment,
-
-half neighing, half bleating, and an immense shadow sped past. It went
-
-like an arrow, and as far as could be seen had a humped back and a long
-
-neck.
-
-From the prince's retinue came sounds of fear.
-
-"That is a griffin! I saw its wings clearly," said one and another of
-
-the Asiatics.
-
-"The desert is swarming with monsters," added the old Libyan.
-
-Ramses was afraid; he also thought that the passing shadow had the head
-
-of a serpent, and something resembling short wings.
-
-"Do monsters really show themselves in the desert?" asked he of the
-
-priest.
-
-"It is true," said Pentuer, "that in such a lonely place evil spirits
-
-prowl about in strange guises. But it seems to me that that which has
-
-passed is rather a beast. It is like a saddle horse, only larger and
-
-quicker in movement. Dwellers in the oases say that this beast may live
-
-without drinking water at all, or at least very rarely. If that be the
-
-case, men hereafter may in crossing deserts use this strange creature,
-
-which today rouses fear only."
-
-"I should not dare to sit on the back of a great beast like that," said
-
-Ramses, as he shook his head.
-
-"Our ancestors said the same of the horse, which helped the Hyksos to
-
-conquer Egypt, but today it is indispensable to our army. Time changes
-
-men's judgments greatly," said Pentuer.
-
-The last clouds had vanished from the sky and a clear night set in.
-
-Though the moon was absent the air was so clear that on the background
-
-of the white sand a man could distinguish the general outline of
-
-objects, even when small or distant. The piercing cold also diminished.
-
-All advanced now in silence, and sank, as they walked, in the sand to
-
-their ankles. Suddenly a tumult and cries rose among the Asiatics,
-
-"A sphinx! Look, a sphinx! We shall not escape from this desert if
-
-specters show themselves all the time."
-
-Indeed, outlines of a sphinx on a white limestone hill were seen very
-
-clearly. The body of a lion, an immense head with an Egyptian cap, and
-
-as it were a human profile.
-
-"Calm yourselves, barbarians," said the old Libyan. "That is no sphinx;
-
-it is a lion, and he will do no harm, for he is occupied in eating."
-
-"Indeed, that is a lion!" confirmed the prince halting. "But how he
-
-resembles a sphinx."
-
-"He is the father of our sphinxes," added the priest in a low voice.
-
-"His face recalls a man's features, his mane is the wig."
-
-"And our great sphinx, that at the pyramids?"
-
-"Many ages before Menes," said Pentuer, "when there were no pyramids
-
-yet, there was on that spot a rock which looked like a recumbent lion,
-
-as if the gods wished in that way to indicate the beginning of the
-
-desert. The holy priests of that period commanded artists to hew the
-
-rock around with more accuracy and to fill out its lacks by additions.
-
-The artists, seeing people oftener than lions, cut out the face of a
-
-man, and thus the first sphinx had its origin."
-
-"To which we give divine honor," said the prince, smiling.
-
-"And justly," answered the priest. "For the gods made the first
-
-features of this work and men finished them under divine guidance. Our
-
-sphinx by its size and mysteriousness recalls the desert. It has the
-
-posture of spirits wandering through it, and terrifies men as does the
-
-desert. That sphinx is really the son of the gods and the father of
-
-terror."
-
-"Everything has in its own way an earthly beginning," answered the
-
-prince. "The Nile does not flow from heaven, but from certain mountains
-
-which lie beyond Ethiopia. The pyramids, which Herhor said were an
-
-image of our state, are built on the model of mountain summits. And our
-
-temples, too, with their pylons and obelisks, with their gloom and
-
-coolness, do they not recall caves and mountains, extending along the
-
-Nile valley? How many times in hunting have I not gone astray among
-
-eastern ridges! I have always struck upon some strange collection of
-
-rocks which recalled a temple. Frequently even, on their rough sides, I
-
-have seen hieroglyphs written by wind and by rainstorms."
-
-"In that, worthiness, Thou hast proof," said Pentuer, "that our temples
-
-were reared on a plan which the gods themselves outlined. And as a
-
-small kernel cast into the ground gives birth to a heaven-touching palm
-
-tree, so the picture of a cliff, a cave, a lion, even a lotus, placed
-
-in the soul of a pious pharaoh, gives birth to an alley of sphinxes, to
-
-temples and their mighty columns. Those are the works of divinities,
-
-not men, and happy is the ruler who when he looks can discover divine
-
-thought in earthly objects and present it in a form pleasing to future
-
-generations."
-
-"But such a ruler must have power, much wealth, and not depend on the
-
-fancies of priests," interrupted Ramses.
-
-Before them extended a second sandy elevation, on which at that moment
-
-appeared some horsemen.
-
-"Are they our men, or the Libyans?" asked Ramses.
-
-The sound of a horn was heard from the eminence; to this an answer was
-
-given by the prince's retinue. The horsemen came down as quickly as the
-
-deep sand would let them. When they had approached one cried out,
-
-"Is the heir to the throne here?"
-
-"He is, and is well!" cried Ramses.
-
-They dismounted and fell on their faces.
-
-"Oh, Erpatr!" cried the leader of the newly arrived, "thy troops are
-
-rending their garments and scattering dust on their heads, thinking
-
-that Thou hast perished. All the cavalry has scattered over the desert
-
-to find traces, while the gods have permitted us, the unworthy, to be
-
-first to greet thee."
-
-The prince named the man a centurion and commanded him to present his
-
-subordinates for a reward on the morrow.
+Książę mianował go setnikiem i rozkazał, aby nazajutrz przedstawił do nagrody swoich podwładnych.

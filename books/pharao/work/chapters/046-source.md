@@ -1,553 +1,196 @@
-# Kapitel 46: CHAPTER XLVI
+# Kapitel 046: Tom II - Rozdział XXI
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part52.xhtml*
 
 <!-- status: pending -->
 
-AT night the sentries gave notice that a throng of Libyans imploring
+W nocy warty dały znać, że tłum żebrzących o łaskę Libijczyków już wszedł do wąwozu. Jakoż nad pustynią widać było łunę ich ognisk.
 
-mercy had entered the valley. Indeed the light of their fires was
+O wschodzie słońca odezwały się trąby i cała armia egipska stanęła pod bronią, w najszerszym miejscu doliny. Stosownie do rozkazu księcia, który chciał jeszcze bardziej nastraszyć Libijczyków, między szeregami wojska ustawiono spokojnych tragarzy, a wśród konnicy pomieszczono oślarzy na osłach. I stało się w onym dniu, że Egipcjanie byli mnodzy jak piasek w pustyni, a Libijczycy trwożni jak gołębie, nad którymi krąży jastrząb.
 
-visible on the desert.
+O dziewiątej rano przed namiot księcia zajechał jego złocisty wóz wojenny. Konie ubrane w strusie pióra rwały się tak, że każdego z nich musiało pilnować dwu masztalerzy.
 
-At sunrise the trumpets were sounded, and all the Egyptian forces were
+Ramzes wyszedł z namiotu, siadł na wóz i sam ujął cugle, a miejsce woźnicy zajął przy nim kapłan Pentuer, doradca. Jeden z jenerałów roztoczył nad księciem duży, zielony parasol, a z tyłu i po obu stronach wozu szli greccy oficerowie w pozłocistych zbrojach. W pewnej odległości za orszakiem księcia posuwał się mały oddział gwardii, a wśród niego Tehenna, syn libijskiego wodza Musawasy.
 
-drawn up under arms on the widest part of the valley. According to
+O kilkaset kroków od Egipcjan, przy wyjściu z glaukońskiego wąwozu, stała smutna gromada Libijczyków błagających zwycięzcy o miłosierdzie.
 
-command of the prince, who wished to increase the fright of the Libyans
+Kiedy Ramzes wjechał ze swoją świtą na wzgórze, kędy miał przyjmować nieprzyjacielskie poselstwo, armia ku jego czci podniosła taki okrzyk, że chytry Musawasa zmartwił się jeszcze bardziej i szepnął do libijskiej starszyzny:
 
-the carriers were arranged between the ranks of the army, and men on
+— Zaprawdę mówię wam, jest to krzyk wojska, które miłuje swego wodza!...
 
-asses were disposed among the cavalry. So it happened that the
+Wówczas jeden z niespokojniejszych książąt libijskich, wielki bandyta, rzekł do Musawasy:
 
-Egyptians seemed as numerous as sands in the desert, and the Libyans
+— Czy nie myślisz, że w takiej chwili roztropniej uczynimy, ufając chyżości naszych koni, aniżeli łasce faraonowego syna?... Ma to być wściekły lew, który nawet głaszcząc zdziera skórę; my zaś jesteśmy jako jagnięta oderwane od cycków swej matki.
 
-were as timid as doves, over which a falcon is soaring.
+— Czyń, jak chcesz — odparł Musawasa — całą pustynię masz przed sobą. Ale mnie lud wysłał na odkupienie swoich grzechów, a nade wszystko mam syna Tehennę, nad którym książę rozleje swój gniew, jeżeli nie potrafię go przebłagać.
 
-At nine in the morning his gilded war chariot stood before the tent of
+Do gromady Libijczyków przycwałowali dwaj jezdni Azjaci, donosząc, że pan czeka na ich pokorę.
 
-the viceroy. The horses bearing ostrich plumes reared so that two men
+Musawasa gorzko westchnął i poszedł ku pagórkowi, na którym stał zwycięzca. Nigdy jeszcze nie odbył on równie ciężkiej podróży!... Grube, pokutnicze płótno źle okrywało jego grzbiet; nad głową obsypaną popiołem znęcał się żar słoneczny, bose nogi gryzł mu żwir, a serce gniótł smutek i własny, i zwyciężonego ludu.
 
-had to hold each of them.
+Przeszedł zaledwie kilkaset kroków, ale parę razy musiał zatrzymywać się i odpocząć. Często też oglądał się za siebie, aby sprawdzić, czy nadzy niewolnicy, którzy nieśli dary dla księcia, nie kradną złotych pierścieni, a co gorsze — klejnotów. Musawasa bowiem, jako mąż doświadczony, wiedział, że ludzie najchętniej korzystają z cudzego nieszczęścia.
 
-Ramses came out of his tent, took his place in the chariot, and seized
+„Dziękuję bogom — pocieszał się w swej nędzy chytry barbarzyńca — że na mnie padł los upokorzenia się przed księciem, który lada dzień włoży faraonowską czapkę. Władcy Egiptu są wspaniałomyślni, szczególniej w chwili zwycięstwa. Jeżeli więc potrafię wzruszyć pana mego, umocni on moje znaczenie w Libii i pozwoli mi pobierać duże podatki. Prawdziwy zaś cud, że sam następca tronu złapał Tehennę; nie tylko bowiem nie uczyni mu krzywdy, ale jeszcze obsypie go dostojeństwami...”
 
-the reins himself, while the place of the charioteer was occupied by
+Tak myślał, a wciąż oglądał się. Niewolnik bowiem, choć nagi, może ukradziony klejnot schować w usta, a nawet połknąć.
 
-the priest Pentuer, who held now the position of counselor. One of the
+Na trzydzieści kroków przed wozem następcy tronu Musawasa i towarzyszący mu najprzedniejsi Libijczycy upadli na brzuchy swoje i leżeli w piasku, dopóki adiutant książęcy nie kazał im wstać. Zbliżywszy się o kilka kroków znowu padli i uczynili tak trzy razy, a zawsze Ramzes musiał rozkazywać im, ażeby się podnieśli.
 
-commanders carried a large green parasol over the prince; behind, and
+Przez ten czas Pentuer stojący na książęcym wozie szeptał swojemu panu:
 
-on both sides of the chariot, marched Greek officers in gilded armor.
+— Niech oblicze twoje nie pokaże im ani srogości, ani uciechy. Raczej bądź spokojny jak bóg Amon, który pogardza swymi wrogami i nie cieszy się z lada jakich triumfów...
 
-At a certain distance behind the prince's retinue came a small division
+Nareszcie pokutujący Libijczycy stanęli przed obliczem księcia, który ze złocistego wozu patrzył na nich jak srogi hipopotam na kaczęta nie mające gdzie ukryć się przed jego mocą.
 
-of the guard, in the midst of it Tehenna, son of the Libyan chief
+— Tyżeś to — nagle odezwał się Ramzes — tyżeś to jest Musawasa, mądry wódz libijski?
 
-Musawasa.
+— Jam jest twój sługa — odparł zapytany i znowu rzucił się na ziemię.
 
-A few hundred paces from the Egyptians, at the entrance of the ravine,
+Gdy mu kazano wstać, książę mówił:
 
-stood the gloomy crowd of Libyans imploring the conqueror's favor.
+— Jak mogłeś dopuścić się tak ciężkiego grzechu i podnieść rękę na ziemię bogów? Czyliżby opuściła cię dawna roztropność?
 
-When Ramses came with his suite to the eminence where he was to receive
+— Panie! — odparł chytry Libijczyk — żal pomieszał rozumy wygnanym żołnierzom jego świątobliwości, więc biegli na własną zgubę, ciągnąc za sobą mnie i moich. I wiedzą bogowie, jak długo ciągnęłaby się ta brzydka wojna, gdyby na czele armii wiecznie żyjącego faraona nie stanął sam Amon w twojej postaci. Jak pustynny wicher spadłeś, kiedy cię nie oczekiwano, tam, gdzie cię nie oczekiwano, a jak byk łamie trzcinę, tak ty skruszyłeś zaślepionego nieprzyjaciela. Po czym wszystkie ludy nasze zrozumiały, że nawet straszne pułki libijskie dopóty są coś warte, dopóki rzuca nimi twoja ręka.
 
-the envoys of the enemy, the army raised such a shout in his honor that
+— Mądrze mówisz, Musawaso — rzekł książę — a jeszcze lepiej uczyniłeś, żeś wyszedł naprzeciw armii boskiego faraona, nie czekając, aż ona przyjdzie do was. Rad bym jednak dowiedzieć się: o ile prawdziwą jest wasza pokora?
 
-the cunning Musawasa was still more mortified, and whispered to the
+— „Rozjaśnij oblicze, wielki mocarzu egipski — odpowiedział na to Musawasa. — Przychodzimy do ciebie jako poddani, ażeby imię twoje było wielkim w Libii i ażebyś był naszym słońcem, jak jesteś słońcem dziewięciu ludów.
 
-Libyan elders,
+Rozkaż tylko podwładnym twoim, aby byli sprawiedliwymi dla zawojowanego i do potęgi twej przyłączonego ludu. Niech twoi naczelnicy rządzą nami sumiennie i sprawiedliwie, a nie według złych chęci swoich, donosząc o nas fałszywie i pobudzając niełaskę twoją przeciw nam i dzieciom naszym. Rozkaż im, namiestniku dobrotliwego faraona, aby rządzili nami według woli twojej, oszczędzając swobodę, mienie, język i obyczaje ojców i przodków naszych.
 
-"I say to you, that is the cry of an army which loves its commander."
+Niech prawa twoje będą dla wszystkich poddanych ci ludów równe, niech urzędnicy twoi nie pobłażają jednym, a nie będą zbyt srogimi dla drugich. Niech wyroki ich będą dla wszystkich jednakie. Niech pobierają opłatę przeznaczoną na twe potrzeby i twój użytek, lecz nie podnoszą od nas innej w tajemnicy przed tobą, takiej, która nie wejdzie do skarbca twego, lecz wzbogaci tylko sługi twoje i sługi sług twoich.
 
-Then one of the most restless of the Libyan chiefs, a great robber,
+Każ rządzić nami bez krzywdy dla nas i dla dzieci naszych, wszak jesteś bogiem naszym i władcą na wieki. Naśladuj słońce, które dla wszystkich rozsiewa swój blask dający siłę i życie. Błagamy cię o twe łaski, my, libijscy poddani, i padamy czołem przed tobą, następco wielkiego i potężnego faraona.”
 
-said to Musawasa,
+Tak mówił przebiegły książę libijski Musawasa i skończywszy, znowu upadł brzuchem na ziemię. A następcy faraona, kiedy słuchał tych mądrych słów, błyszczały oczy i rozszerzały się nozdrza jak młodemu ogierowi, który po sytnej paszy wybiega na łąkę między klacze.
 
-"Dost Thou not think that in a moment like this we should be wiser to
+— Powstań, Musawaso — odezwał się książę — i posłuchaj, co ci odpowiem. Los twój i twoich narodów nie zależy ode mnie, lecz od miłościwego pana, który tak wznosi się ponad nami wszystkimi jak niebo nad ziemią. Radzę ci więc, ażebyś ty i starszyzna libijska udali się stąd do Memfisu i tam, upadłszy na twarz przed władcą i bogiem tego świata, powtórzyli pokorną mowę, której tu wysłuchałem.
 
-trust to the swiftness of our horses than to the kindness of the
+Nie wiem, jaki będzie skutek waszych próśb; lecz ponieważ bogowie nigdy nie odwracają się od skruszonych i błagających, więc przeczuwam, że nie będziecie źle przyjęci.
 
-pharaoh's son? He must be a raging lion, which tears the skin even when
+A teraz pokażcie mi dary przeznaczone dla jego świątobliwości, abym osądził, czy poruszą serce wszechmocnego faraona.
 
-stroking it, while we are like lambs snatched away from our mothers."
+W tej chwili Mentezufis dał znak stojącemu na wozie księcia Pentuerowi. A gdy ten zeszedł i zbliżył się ze czcią do świętego męża, Mentezufis szepnął:
 
-"Do as may please thee," replied Musawasa, "Thou hast the whole desert
+— Boję się, ażeby młodemu panu naszemu triumf nie za mocno uderzył do głowy. Czy nie sądzisz, że byłoby roztropnym przerwać w jaki sposób uroczystość?...
 
-before thee. But the people sent me to redeem their faults, and above
+— Przeciwnie — odparł Pentuer — nie przerywajcie uroczystości, a ja wam ręczę, że podczas triumfu nie będzie miał wesołej twarzy.
 
-all I have a son, Tehenna, on whom the prince will pour out his wrath
+— Zrobisz cud?
 
-unless I win favor."
+— Czyliżbym potrafił? Pokażę mu tylko, że na tym świecie wielkiej radości towarzyszą wielkie strapienia.
 
-To the crowd of Libyans galloped up two Asiatic horsemen, who declared
+— Czyń, jak chcesz — rzekł Mentezufis — gdyż bogowie dali ci mądrość godną członka najwyższej rady.
 
-that their lord was waiting for submission.
+Odezwały się trąby i bębny i rozpoczęto pochód triumfalny.
 
-Musawasa sighed bitterly and went toward the height on which the
+Na czele szli nadzy niewolnicy z darami, pilnowani przez możnych Libijczyków. Więc niesiono złote i srebrne bogi, szkatułki napełnione wonnościami, emaliowane naczynia, tkaniny, sprzęty, wreszcie złote misy zasypane rubinami, szafirami i szmaragdami. Niewolnicy niosący je mieli ogolone głowy i opaski na ustach, ażeby który nie ukradł cennego klejnotu.
 
-conqueror had halted. Never before had he made such a painful journey.
+Książę Ramzes wsparł obie ręce o krawędź wozu i z wysokości pagórka patrzył na Libijczyków i swoje wojsko jak żółtogłowy orzeł na pstre kuropatwy. Duma wypełniała go od stóp do głów i wszyscy czuli, że nie można być potężniejszym nad tego zwycięskiego wodza.
 
-Coarse linen used by penitents covered his back imperfectly; on his
+W jednej chwili oczy księcia utraciły swój blask, a na twarzy odmalowało się przykre zdziwienie. To stojący za nim Pentuer szepnął:
 
-head, sprinkled with ashes, the heat of the sun was burning; sharp
+— Nakłoń, panie, ucha twego... Od czasu kiedy opuściłeś miasto Pi-Bast, zaszły tam dziwne wydarzenia... Twoja kobieta, Kama Fenicjanka, uciekła z Grekiem Lykonem...
 
-pebbles cut his naked feet, and his heart was crushed by his own sorrow
+— Z Lykonem?... — powtórzył książę.
 
-and that of his people.
+— Nie poruszaj się, panie, i nie okazuj tysiącom twoich niewolników, że masz smutek w dniu triumfu...
 
-He had advanced barely a few hundred paces, but he was forced to halt a
+W tej chwili przechodził u stóp księcia bardzo długi sznur Libijczyków niosących w koszach owoce i chleby, a w ogromnych dzbanach wino i oliwę dla wojska. Na ten widok wśród karnego żołnierstwa rozległ się szmer radości, ale Ramzes nie spostrzegł tego, zajęty opowiadaniem Pentuera.
 
-couple of times to rest and recover. He looked backward frequently to
+— Bogowie — szeptał prorok — ukarali zdradziecką Fenicjankę...
 
-be sure that the naked slaves carrying gifts to the prince were not
+— Złapana?... — spytał książę.
 
-stealing gold chains, or what was worse, stealing jewels. For Musawasa
+— Złapana, ale musiano ją wysłać do wschodnich kolonii... Spadł bowiem na nią trąd...
 
-knowing life, knew that man is glad to make use of his neighbor's
+— O bogowie!... — szepnął Ramzes. — Czy aby mnie on nie grozi?...
 
-misfortune.
+— Bądź spokojny, panie: gdybyś się zaraził, już byś go miał...
 
-"I thank the gods," said the cunning barbarian, comforting himself in
+Książę poczuł zimno we wszystkich członkach. Jakże łatwo bogom z najwyższych szczytów zepchnąć człowieka w przepaść najgłębszej nędzy!...
 
-mishap, "that the lot has come to me of humbling myself to a prince who
+— A tenże nikczemny Lykon?...
 
-may put on the pharaoh's cap any moment. The rulers of Egypt are
+— Jest to wielki zbrodniarz — mówi Pentuer — zbrodniarz, jakich niewielu wydała ziemia...
 
-magnanimous, especially in time of triumph. If I succeed then in moving
+— Znam go. Jest podobny do mnie jak obraz odbity w lustrze... — odparł Ramzes.
 
-my lord he will strengthen my position in Libya, and permit me to
+Teraz nadciągnęła gromada Libijczyków prowadzących osobliwe zwierzęta. Na czele szedł jednogarbny wielbłąd z białawym włosem, jeden z pierwszych, jakiego złapano w pustyni. Za nim dwa nosorożce, stado koni i oswojony lew w klatce. A dalej mnóstwo klatek z różnobarwnymi ptakami, małpkami i małymi pieskami, przeznaczonymi dla dam dworskich. W końcu pędzono wielkie stada wołów i baranów na mięso dla wojska.
 
-collect a multitude of taxes. It is a real miracle that the heir to the
+Książę ledwo rzucił okiem na wędrujący zwierzyniec i pytał kapłana:
 
-throne himself seized Tehenna; and not only will he not do him wrong,
+— A Lykon schwytany?...
 
-but he will cover him with dignities." Thus he thought and looked
+— Teraz powiem ci najgorszą rzecz, nieszczęśliwy panie — szeptał Pentuer. — Pamiętaj jednak, aby nieprzyjaciele Egiptu nie dostrzegli smutku w tobie...
 
-behind continually, for a slave, though naked, may conceal a stolen
+Następca poruszył się.
 
-jewel in his mouth, and even swallow it.
+— Twoja druga kobieta, Sara Żydówka...
 
-At thirty steps from the chariot of the heir Musawasa and those who
+— Czy także uciekła?...
 
-were with him, the foremost of the Libyans, fell upon their faces and
+— Zmarła w więzieniu...
 
-lay on the sand till command to rise was given them through the
+— O bogowie!... Któż śmiał ją wtrącić?...
 
-prince's adjutant. When they had approached a few steps they fell
+— Sama oskarżyła się o zabójstwo syna twego...
 
-again; later they fell a third time, and rose only at command of
+— Co?...
 
-Ramses.
+Wielki krzyk rozległ się u stóp księcia: maszerowali jeńcy libijscy wzięci podczas bitwy, a na ich czele smutny Tehenna.
 
-During this interval Pentuer, standing at the prince's chariot,
+Ramzes miał w tej chwili serce tak przepełnione bólem, że skinął na Tehennę i rzekł:
 
-whispered to his lord,
+— Stań przy ojcu twoim, Musawasie, ażeby widział i dotknął cię, że żyjesz...
 
-"Let thy countenance show neither harshness nor delight. Be calm, like
+Na te słowa wszyscy Libijczycy i całe wojsko wydało potężny okrzyk; ale książę nie słuchał go.
 
-the god Amon, who despises his enemies and delights in no common
+— Syn mój nie żyje?... — pytał kapłana. — Sara oskarżyła się o dzieciobójstwo?... Czy szaleństwo padło na jej duszę?...
 
-triumphs."
+— Dziecko zabił nikczemny Lykon...
 
-At last the penitent Libyans stood before the face of the prince, who
+— O bogowie, dajcie mi siły!... — jęknął książę.
 
-looked at them as a fierce hippopotamus at ducklings which have no
+— Hamuj się, panie, jak przystało na zwycięskiego wodza...
 
-place to hide before his mightiness.
+— Czyliż podobna zwyciężyć taką boleść!... O niemiłosierni bogowie!...
 
-"Art Thou he?" asked Ramses, suddenly. "Art Thou that Musawasa, the
+— Dziecko zabił Lykon, Sara zaś oskarżyła się, ażeby ciebie ocalić... Widząc bowiem mordercę w nocy, myślała, że to ty sam byłeś...
 
-wise Libyan leader?"
+— A ja ją wygnałem z mego domu!... A ja zrobiłem ją służebnicą Fenicjanki!... — szeptał książę.
 
-"I am thy servant," answered Musawasa, and he threw himself on the
+Teraz ukazali się egipscy żołnierze, niosący pełne kosze rąk uciętych poległym Libijczykom.
 
-ground again.
+Na ten widok książę Ramzes zasłonił twarz swoją i gorzko zapłakał.
 
-When they ordered him to rise, the prince said,
+Natychmiast jenerałowie otoczyli wóz, pocieszając pana. Zaś święty prorok Mentezufis podał wniosek, który przyjęto bez namysłu, ażeby od tej pory wojsko egipskie już nigdy nie ucinało rąk poległym w boju nieprzyjaciołom.
 
-"How couldst Thou commit such a grievous sin, and raise thy hand
+Tym nieprzewidzianym wypadkiem zakończył się pierwszy triumf następcy egipskiego tronu. Ale łzy, jakie wylał nad uciętymi rękoma, mocniej aniżeli zwycięska bitwa przywiązały do niego Libijczyków. Nikt też nie dziwił się, że dokoła ognisk zasiedli w zgodzie żołnierze egipscy i Libijczycy, dzieląc się chlebem i pijąc wino z tych samych kubków. Miejsce wojny i nienawiści, które miały trwać całe lata, zajęło głębokie uczucie spokoju i zaufania.
 
-against the kingdom of the gods? Has thy former wisdom deserted thee?"
+Ramzes polecił, ażeby Musawasa, Tehenna i najprzedniejsi Libijczycy natychmiast jechali z darami do Memfisu, i dał im eskortę, nie tyle do pilnowania ich, ile dla bezpieczeństwa ich osób i wiezionych skarbów. Sam zaś ukrył się w namiocie i nie pokazał się przez kilka godzin. Nie przyjął nawet Tutmozisa, jak człowiek, któremu boleść starczy za najmilsze towarzystwo.
 
-"Lord," answered the wily Libyan, "sorrow disturbed the reason of the
+Ku wieczorowi przyszła do księcia deputacja greckich oficerów pod dowództwem Kaliposa. Kiedy następca zapytał: czego chcą?... Kalipos odparł:
 
-disbanded warriors of his holiness, so they ran to their own
+— Przychodzimy błagać cię, panie, ażeby ciało naszego wodza, a twego sługi, Patroklesa, nie było wydane egipskim kapłanom, lecz spalone według greckiego obyczaju.
 
-destruction, drawing me and mine after them. And the gods alone know
+Książę zdziwił się.
 
-how long this dreadful war might have lasted if at the head of the army
+— Chyba wiadomo wam — rzekł — że ze zwłok Patroklesa kapłani chcą zrobić mumię pierwszej klasy i umieścić ją przy grobach faraonów. Czy może większy zaszczyt spotkać człowieka na tym świecie?
 
-of the ever living pharaoh, Amon himself had not appeared in thy
+Grecy wahali się, wreszcie Kalipos, zebrawszy odwagę, odpowiedział:
 
-semblance. Thou didst fall on us like a storm wind of the desert, when
+— Panie nasz, pozwól otworzyć serce przed tobą. Dobrze wiemy, że zrobienie mumii jest dla człowieka korzystniejszym niż spalenie go. Gdy bowiem dusza spalonego natychmiast przenosi się do krajów wiekuistych, dusza zabalsamowanego może tysiące lat żyć na tej ziemi i cieszyć się jej pięknością.
 
-Thou wert not expected, where Thou wert not expected, and as a bull
+Ale egipscy kapłani, wodzu (niech to nie obraża twoich uszu!), nienawidzili Patroklesa. Któż więc nas zapewni, że kapłani, zrobiwszy jego mumię, nie w tym celu zatrzymają duszę na ziemi, aby ją poddać udręczeniom?... I co my bylibyśmy warci, gdybyśmy, podejrzewając zemstę, nie uchronili od niej duszy naszego ziomka i dowódcy?...
 
-breaks a reed so didst Thou crush thy blinded opponent. All people then
+Zdziwienie Ramzesa jeszcze bardziej wzrosło.
 
-understood that even the terrible regiments of Libya had value only
+— Czyńcie — rzekł — jak uważacie za potrzebne.
 
-while thy hand sent them forward."
+— A jeżeli nie wydadzą nam ciała?...
 
-"Thou speakest wisely, Musawasa," said the viceroy, "and Thou hast done
+— Tylko przygotujcie stos, a resztą sam się zajmę.
 
-still better to meet thus the army of the divine pharaoh, instead of
-
-waiting till it came to thee. But I should be glad to know how sincere
-
-thy obedience is."
-
-"Let thy countenance be radiant, great potentate of Egypt," [An
-
-inscription on the monument of Horem-Hep, 1470 years B. c.] answered
-
-Musawasa. "We come to thee as subjects, may thy name be great in Libya,
-
-be Thou our sun, as Thou art the sun of nine nations. Only command thy
-
-subordinates to be just to us the conquered people who are joined to
-
-thy power. Let thy officials govern us justly and with conscience, and
-
-not according to their own evil wishes, reporting falsely concerning
-
-our people, and rousing thy disfavor against us and our children.
-
-Command them, O viceroy of the victorious pharaoh, to govern according
-
-to thy will, sparing our freedom, our property, our language, and the
-
-customs of our ancestors and fathers.
-
-"Let thy laws be equal for all subjects, let not thy officials favor
-
-some too much and be too harsh toward others; let their sentences be of
-
-the same kind for all. Let them collect the tribute predestined for thy
-
-needs and for thy use, but let them not take secretly other tributes
-
-which never go into thy treasury, and enrich only thy servants and the
-
-servants of those servants.
-
-"Command them to govern without injustice to us and our children, for
-
-Thou art to us a deity and a ruler forever. Imitate the sun, which
-
-sends his light to all and gives life and strength to them. We, thy
-
-Libyan subjects, implore thy favor and fall on our faces before thee, O
-
-heir of the great and mighty pharaoh."
-
-So spoke the crafty Libyan prince, Musawasa, and after he had finished
-
-speaking he prostrated himself again. But when the pharaoh's heir heard
-
-these wise words his eyes glittered, and his nostrils dilated like
-
-those of a young stallion which after good feeding runs to a field
-
-where mares are at pasture.
-
-"Rise, Musawasa, and listen to what I tell thee. Thy fate and that of
-
-thy people depend not on me, but on that gracious lord who towers above
-
-us all, as the sky above the earth. I advise thee, then, to go and to
-
-take Libyan elders hence to Memphis, and, falling on thy face before
-
-the leader and the god in this world, to repeat the humble prayer,
-
-which I have heard here from thee.
-
-"I know not what the effect of thy prayer will be; but since the gods
-
-never turn from him who implores and is repentant, I have a feeling
-
-that Thou wilt not meet a bad reception.
-
-"And now show me the gifts intended for his holiness, so that I may
-
-judge whether they will move the heart of the all-powerful pharaoh."
-
-At this moment Mentezufis gave a sign to Pentuer who was standing on
-
-the prince's chariot.
-
-When Pentuer descended and approached the holy man with honor,
-
-Mentezufis whispered,
-
-"I fear lest the triumph may rise to the head of our young lord over
-
-much. Dost Thou not think it would be wise to interrupt the solemnity
-
-in some way?"
-
-"On the contrary," answered Pentuer, "do not interrupt the solemnity,
-
-and I guarantee that he will not have a joyous face."
-
-"Thou wilt perform a miracle."
-
-"If I succeed I shall merely show him that in this world great delight
-
-is attended by deep suffering."
-
-"Do as Thou wishest," said Mentezufis, "for the gods have given thee
-
-wisdom worthy a member of the highest council."
-
-Trumpets and drums were heard, and the triumphal review began.
-
-At the head of it went naked slaves bearing gifts. Rich Libyans guarded
-
-these bondmen who carried gold and silver divinities, boxes filled with
-
-perfumes, enameled vessels, stuffs, furniture, finally gold dishes
-
-dotted with rubies, sapphires, and emeralds. The slaves who bore these
-
-had shaven heads and were gagged lest some one of them might steal a
-
-costly jewel.
-
-Ramses rested both hands on the edge of the chariot and looked from the
-
-height of the hill at the Libyans, and at his own men, as a golden-
-
-headed eagle looks down on many colored partridges. Pride filled the
-
-prince from foot to head, and all present felt that it was impossible
-
-to have more power than was possessed by that victorious commander.
-
-But in one instant the prince's eyes lost their brightness, and on his
-
-face the bitterest surprise was depicted. Pentuer was standing near
-
-him,
-
-"Bend thy ear, lord," whispered he. "Since Thou hast left Pi-Bast
-
-wondrous changes have taken place there. Thy Phoenician woman, Kama,
-
-has fled with Lykon."
-
-"With Lykon?" repeated the prince.
-
-"Move not, Erpatr, and show not to thousands that Thou feelest sorrow
-
-in the day of thy triumph."
-
-Now there passed below the prince an endless line of Libyans with fruit
-
-and bread in baskets, as well as wine and olive oil in roomy pitchers
-
-for the army. At sight of this a murmur of delight was spread among the
-
-warriors, but Ramses, occupied with Pentuer's story, took no note of
-
-what was passing.
-
-"The gods," said the prophet in a whisper, "have punished the
-
-traitorous Kama."
-
-"Is she caught?" inquired the prince.
-
-"She is caught, but they have sent her to the eastern colony, because
-
-leprosy attacked her."
-
-"O gods!" whispered Ramses. "But may it not threaten me?"
-
-"Be calm, lord; if it had infected thee Thou wouldst be leprous this
-
-moment."
-
-The prince felt a chill in every member. How easy for the gods to
-
-thrust a man down from the highest summits to the depths of the lowest
-
-misery!
-
-"And Lykon?"
-
-"He is a great criminal," said Pentuer; "a criminal of such kind that
-
-the earth has given few such."
-
-"I know him. He is as like me as a reflection of me in a mirror,"
-
-replied Ramses.
-
-Now came a crowd of Libyans leading strange animals. At the head of
-
-these was a one-humped camel with white hair, one of the first which
-
-they had caught in the desert, next two rhinoceroses, a herd of horses,
-
-and a tame lion caged. Then a multitude of cages holding birds of
-
-various colors, monkeys, and small dogs intended for court ladies.
-
-Behind them were driven great herds of cattle, and flocks of sheep as
-
-food for the pharaoh's army.
-
-The prince cast an eye on the moving menagerie, and asked the priest,
-
-"But is Lykon caught?"
-
-"I will tell thee now the worst news, unhappy lord," whispered Pentuer.
-
-"But remember that the enemies of Egypt must not notice grief in thee."
-
-The heir moved.
-
-"Thy second woman, Sarah the Jewess."
-
-"Has she run away too?"
-
-"She died in prison."
-
-"O gods! Who dared imprison her?"
-
-"She confessed that she killed thy son."
-
-"What?"
-
-A great cry was heard at the prince's feet: the Libyan prisoners
-
-captured in battle were marching past, and at the head of them the
-
-sorrowful Tehenna.
-
-Ramses had at that moment a heart so full of pain that he nodded to
-
-Tehenna, and said,
-
-"Stand near thy father Musawasa, so that he may touch thee, and see
-
-thee living."
-
-At these words all the Libyans and the whole army gave forth a mighty
-
-shout; but the prince did not hear it.
-
-"Is my son dead?" asked he of the priest. "Sarah accused herself of
-
-child-murder? Did madness fall on her?"
-
-"The vile Lykon slew thy son."
-
-"O gods give me strength!" groaned Ramses.
-
-"Restrain thyself, lord, as becomes a victorious leader."
-
-"Is it possible to conquer such pain? O gods without pity!"
-
-"Lykon slew thy son; Sarah accused herself to save thee, for seeing the
-
-murderer in the night she mistook him for thee."
-
-"And I thrust her out of my house! And I made her a servant of the
-
-Phoenician!"
-
-Now appeared Egyptian warriors bearing baskets filled with hands which
-
-had been cut from the fallen Libyans.
-
-At sight of this Ramses hid his face and wept bitterly.
-
-The generals surrounded the chariot at once and gave their lord
-
-consolation. The holy Mentezufis made a proposition which was received
-
-immediately, that thenceforth the Egyptian army would not cut off the
-
-hands of enemies who had fallen in battle.
-
-With this unforeseen incident ended the first triumph of the heir to
-
-the throne of Egypt. But the tears which he shed over the severed hands
-
-attached the Libyans to him more than the victorious battle. No one
-
-wondered then that around the fires Libyan and Egyptian warriors sat in
-
-concord sharing bread, and drinking wine from the same goblet. Instead
-
-of wars which were to last for years, there was a deep feeling of peace
-
-and confidence.
-
-Ramses gave command that Musawasa, Tehenna, and the foremost Libyans
-
-should go to Memphis straightway, and he gave them an escort, not so
-
-much to watch them as to safeguard their persons and the treasures
-
-which they were taking. The prince withdrew to a tent then, and did not
-
-appear again until a number of hours had passed. He was like a man to
-
-whom pain is the dearest companion. He did not receive even Tutmosis.
-
-Toward evening a deputation of Greeks appeared under the leadership of
-
-Kalippos. When the heir asked what their wish was Kalippos answered,
-
-"We have come, lord, to implore that the body of our leader, thy
-
-servant Patrokles, should not be given to Egyptian priests, but be
-
-burned in accord with Greek usage."
-
-The prince was astonished.
-
-"Is it known to you," asked he, "that the priests wish to make of the
-
-remains of Patrokles a mummy of the first order, and to put it near the
-
-graves of the pharaohs? Can honor greater than this meet a man
-
-anywhere?"
-
-The Greeks hesitated; at last Kalippos took courage and answered,
-
-"Our lord, permit us to open our hearts to thee. We know well that the
-
-making of a mummy is of more profit to a man than to burn him, for the
-
-soul of a burned man is transferred to eternal regions immediately; the
-
-soul of a mummied man may live during thousands of years on this earth
-
-and enjoy its beauties.
-
-"But the Egyptian priests, O chief, let this not offend thy ears hated
-
-Patrokles. Who will assure us, then, that these priests in making him a
-
-mummy are not detaining him on earth so as to subject him to tortures?
-
-And what would our worth be if we who suspect revenge did not protect
-
-from it the soul of our compatriot and leader?"
-
-Great was the prince's astonishment.
-
-"Do," said he, "as ye think proper."
-
-"But if they will not give us the body?"
-
-"Prepare the funeral pile; I will attend to the rest of the ceremony."
-
-The Greeks left the tent. The prince sent for Mentezufis.
+Grecy wyszli, książę posłał po Mentezufisa.

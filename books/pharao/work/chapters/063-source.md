@@ -1,917 +1,380 @@
-# Kapitel 63: CHAPTER LXIII
+# Kapitel 063: Tom III - Rozdział XIV
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part71.xhtml*
 
 <!-- status: pending -->
 
-On Paofi 12 alarming news went forth from various Egyptian temples.
+Dwunastego Paofi z różnych świątyń egipskich rozeszły się niepokojące wieści.
 
-During a few preceding days an altar was overturned in the temple of
+W ciągu paru dni ostatnich w świątyni Horusa wywrócił się ołtarz, w świątyni Izydy posąg bóstwa płakał. Zaś u Amona tebańskiego i u grobu Ozyrysa w Denderach wypadły bardzo złe wróżby. Z nieomylnych oznak wywnioskowali kapłani, że Egiptowi grozi jakieś wielkie nieszczęście jeszcze przed upływem miesiąca.
 
-Horus; in the temple of Isis a statue of the goddess shed tears. In the
+Skutkiem tego arcykapłani Herhor i Mefres nakazali procesje dokoła świątyń i składanie ofiar w domach.
 
-temple of Amon at Thebes, and from the tomb of Osiris in Dendera, omens
+Zaraz nazajutrz, trzynastego Paofi, odbyła się w Memfis wielka procesja: bóg Ptah wyszedł ze swojej świątyni, a bogini Izyda ze swojej. Oba bóstwa podążały ku środkowi miasta, w bardzo nielicznym gronie wiernych, przeważnie kobiet. Musiały jednak cofnąć się: mieszczanie bowiem egipscy drwili z nich, a innowiercy posunęli się do rzucania kamieni na święte łodzie bogów.
 
-of much evil were given. The priests inferred from infallible signs
+Policja wobec tych nadużyć zachowała się obojętnie, a nawet niektórzy jej członkowie przyjęli udział w nieprzystojnych żartach. Od południa zaś jacyś nieznani ludzie zaczęli opowiadać tłumom, że stan kapłański nie pozwala na żadne ulgi dla pracujących i chce podnieść bunt przeciw faraonowi.
 
-that some dreadful misfortune would threaten Egypt before the month had
+Ku wieczorowi pod świątyniami zbierały się gromadki robotników z gwizdaniem i złorzeczeniami na kapłanów. Jednocześnie ciskano kamienie do bram, a jakiś zbrodniarz publicznie odbił nos Horusowi pilnującemu swojej świątyni.
 
-ended. Hence Herhor and Mefres, the high priests, commanded processions
+W parę godzin po zachodzie słońca zebrali się arcykapłani i ich najwierniejsi stronnicy w świątyni Ptah. Był dostojny Herhor, Mefres, Mentezufis, trzech nomarchów i najwyższy sędzia z Tebów.
 
-around the temples and sacrifice in houses.
+— Straszne czasy! — odezwał się sędzia. — Wiem z pewnością, że faraon chce podburzyć motłoch do napadu na świątynie...
 
-On Paofi 13 there was a great procession in Memphis: the god Ptah
+— Słyszałem — odezwał się nomarcha Sebes — że wysłano rozkaz do Nitagera, ażeby przybiegł czym prędzej z nowymi wojskami, jakby już i tych nie było dosyć!...
 
-issued from his temple, and the goddess Isis from hers. Both divinities
+— Komunikacja między Dolnym i Górnym Egiptem przecięta od wczoraj — dodał nomarcha Aa. — Na gościńcach stoi wojsko, a galery jego świątobliwości rewidują każdy statek płynący Nilem...
 
-moved toward the centre of the city with a very small assembly of
+— Ramzes XIII nie jest „świątobliwością” — wtrącił oschle Mefres — gdyż nie otrzymał koron z rąk bogów.
 
-believers, mainly women. But they were forced to withdraw, for
+— Wszystko to byłyby drobiazgi — odezwał się najwyższy sędzia. — Gorszą jest zdrada... Mam poszlaki, że wielu młodszych kapłanów sprzyja faraonowi i o wszystkim donosi mu...
 
-Egyptians reviled them and foreigners went so far as to hurl stones at
+— Są nawet tacy, którzy podjęli się ułatwić wojsku zajęcie świątyń — dodał Herhor.
 
-the sacred boats of the divinities.
+— Wojsko ma wejść do świątyń?!... — zawołał nomarcha Sebes.
 
-In presence of these abuses the police bore themselves with
+— Taki ma przynajmniej rozkaz na dwudziestego trzeciego — odparł Herhor.
 
-indifference, some of them even took part in unseemly jests. During the
+— I wasza dostojność mówisz o tym spokojnie?... — zapytał nomarcha Ament.
 
-afternoon unknown persons told the crowd that the priests would not
+Herhor wzruszył ramionami, a nomarchowie zaczęli spoglądać po sobie.
 
-permit relief to be given the people and desired a rebellion against
+— Tego już nie rozumiem!... — odezwał się prawie z gniewem nomarcha Aa. — Świątynie mają zaledwie kilkuset żołnierzy, kapłani zdradzają, faraon odcina nas od Tebów i podburza lud, a dostojny Herhor mówi o tym, jakby nas zapraszał na ucztę... Albo brońmy się, jeżeli jeszcze można, albo...
 
-the pharaoh.
+— Poddajmy się jego świątobliwości?... — spytał ironicznie Mefres. — Na to zawsze będziecie mieli czas!...
 
-Toward evening laborers gathered in crowds at the temples, where they
+— Ale my chcielibyśmy dowiedzieć się czegoś o środkach obrony... — rzekł nomarcha Sebes.
 
-hissed the priests and abused them. Meanwhile stones were hurled at the
+— Bogowie ocalą swoich wiernych — odpowiedział Herhor.
 
-gate, and some criminals openly beat off the nose of Horus who was on
+Nomarcha Aa załamał ręce.
 
-guard at his own entrance.
+— Jeżeli mam otworzyć moje serce, to i mnie dziwi wasza obojętność — odezwał się najwyższy sędzia. — Prawie całe pospólstwo jest przeciw nam...
 
-A couple of hours after sunset the high priests and their most faithful
+— Pospólstwo jak jęczmień na polu, idzie za wiatrem — rzekł Herhor.
 
-adherents assembled in the temple of Ptah. The worthy Herhor was there;
+— A wojsko?...
 
-so were Mefres, Mentezufis, three nomarchs, and the highest judge.
+— Któreż wojsko nie upadnie przed Ozyrysem?
 
-"Terrible times!" said the judge, "I know to a certainty that the
+— Wiem — przerwał niecierpliwie nomarcha Aa — ale nie widzę ani Ozyrysa, ani tego wiatru, który do nas zwróci pospólstwo... Tymczasem faraon już dziś przywiązał ich do siebie obietnicami, a jutro wystąpi z darowizną...
 
-pharaoh wishes to rouse a rabble to attack temples."
+— Od obietnic i podarunków mocniejszą jest trwoga — odparł Herhor.
 
-"I have heard," said the nomarch of Sebes, "that an order has been sent
+— Czego oni mają się bać?... Tych trzystu żołnierzy, jakich mamy?
 
-to Nitager to hurry at the earliest with new troops, as if those here
+— Ulękną się Ozyrysa.
 
-were insufficient."
+— Ale gdzież on jest?... — pytał wzburzony nomarcha Aa.
 
-"Communication between Upper and Lower Egypt is interrupted since
+— Zobaczycie go wszyscy. A szczęśliwym byłby ten, kto by na ów dzień oślepnął.
 
-yesterday," added the nomarch of Aa. "On the roads are posted troops,
+Słowa te wypowiedział Herhor z takim niezachwianym spokojem, że w zgromadzeniu zaległa cisza.
 
-and the galleys of his holiness examine every barge sailing on the
+— Ostatecznie cóż jednak robimy?... — zapytał po chwili najwyższy sędzia.
 
-river."
+— Faraon — mówił Herhor — chce, ażeby lud napadł na świątynie dwudziestego trzeciego. My zaś musimy sprawić, aby napadnięto nas dwudziestego Paofi.
 
-"Ramses XIII is not 'holiness,'" said Mefres, dryly, "for he has not
+— Wiecznie żywi bogowie! — znowu zawołał nomarcha Aa wznosząc ręce. — A my po co mamy ściągać nieszczęście na nasze głowy, w dodatku o dwa dni wcześniej?...
 
-received a crown from the gods yet."
+— Słuchajcie Herhora — odezwał się stanowczym głosem Mefres — i na wszelki sposób starajcie się, ażeby napad miał miejsce dwudziestego Paofi, od rana.
 
-"All this would be a trifle," said the judge. "Treason is worse. We
+— A jak nas naprawdę rozbiją?... — spytał zmieszany sędzia.
 
-have indications that many of the younger priests are favorable to the
+— Jeżeli nie poskutkują zaklęcia Herhora, wówczas ja wezwę bogów na pomoc — odparł Mefres, a w oczach błysnął mu złowrogi ogień.
 
-pharaoh and inform him of everything."
+— Ha! wy arcykapłani macie swoje tajemnice, których nam odsłaniać nie wolno — rzekł wielki sędzia. — Zrobimy więc, co każecie, wywołamy napad dwudziestego... Ale pamiętajcie, że nasza i dzieci naszych krew spadnie na wasze głowy...
 
-"There are some even who have undertaken to facilitate the occupation
+— Niech spadnie!...
 
-of the temples by troops," added Herhor.
+— Niech się tak stanie!... — zawołali jednocześnie obaj arcykapłani. Po czym dodał Herhor:
 
-"Are troops to enter the temples?" exclaimed the nomarch of Sebes.
+— Od dziesięciu lat rządzimy państwem i przez ten czas nikomu z was nie stała się krzywda, a każdej obietnicy dotrzymaliśmy. Bądźcież więc cierpliwi i wierni jeszcze przez kilka dni, aby zobaczyć moc bogów i otrzymać nagrodę.
 
-"They have such an order at least for the 23d," replied Herhor.
+Niebawem nomarchowie pożegnali arcykapłanów, nie usiłując nawet ukrywać smutku i niepokoju. Zostali tylko Herhor i Mefres.
 
-"And dost Thou speak of this, worthiness, quietly?" inquired the
+Po dłuższym milczeniu Herhor odezwał się:
 
-nomarch of Ament.
+— Tak, ten Lykon był dobry, dopóki udawał szalonego. Ale ażeby można go podstawić zamiast Ramzesa!...
 
-Herhor shrugged his shoulders, while the nomarchs exchanged glances.
+— Jeżeli matka nie poznała się na nim — odparł Mefres — więc już musi być bardzo podobny... A siedzieć na tronie, przemówić parę słów do otoczenia to chyba potrafi. Zresztą my będziemy przy nim...
 
-"I do not understand this," said the nomarch of Aa, almost in anger.
+— Strasznie głupi komediant!... — westchnął Herhor trąc czoło.
 
-"There are barely a few hundred warriors at the temples, some priests
+— Mędrszy on od milionów innych ludzi, gdyż ma podwójny wzrok i wielkie może oddać usługi państwu...
 
-are traitors, the pharaoh cuts us off from Thebes and is rousing the
+— Ciągle wasza dostojność mówisz mi o tym podwójnym wzroku — odparł Herhor. — Nareszcie niechże ja sam przekonam się o tym...
 
-people, while the worthy Herhor speaks as though we were invited to a
+— Chcesz?... — spytał Mefres. — Więc idźmy... Ale, na bogi, Herhorze, o tym, co zobaczysz, nie wspominaj nawet przed własnym sercem...
 
-banquet. Either let us defend ourselves, if that be still possible,
+Zeszli do podziemiów świątyni Ptah i znaleźli się w obszernej piwnicy oświetlonej kagańcem. Przy słabym blasku Herhor dojrzał człowieka, który siedząc za stołem jadł. Człowiek miał na sobie kaftan gwardii faraona.
 
-or."
+— Lykonie — rzekł Mefres — najwyższy dostojnik państwa chce przekonać się o zdolnościach, jakimi obdarzyli cię bogowie...
 
-"Shall we yield to 'his holiness'?" inquired Mefres with irony.
+Grek odepchnął misę z jedzeniem i począł mruczeć:
 
-"We shall have time for that always!"
+— Przeklęty dzień, w którym moje podeszwy dotknęły waszej ziemi!.. Wolałbym pracować w kopalniach i być bity kijami...
 
-"But we should like to learn about means of defense," said the nomarch
+— Na to zawsze będzie czas — wtrącił surowo Herhor.
 
-of Sebes.
+Grek umilkł i nagle zaczął drżeć zobaczywszy w ręce Mefresa kulkę z ciemnego kryształu. Pobladł, spojrzenie zmętniało mu, na twarz wystąpił pot kroplisty. Jego oczy były utkwione w jeden punkt, jakby przykute do kryształowej kuli.
 
-"The gods will save those who are faithful to them," answered Herhor.
+— Już śpi — rzekł Mefres. — Nie dziwneż to?
 
-The nomarch of Aa wrung his hands.
+— Jeżeli nie udaje.
 
-"If I am to open my heart, I must say that I too am astonished at thy
+— Uszczypnij go... ukłuj... nawet sparz... — mówił Mefres.
 
-indifference," said the judge. "Almost all the people are against us."
+Herhor wydobył spod białej szaty sztylet i zamierzył się, jakby chcąc uderzyć Lykona między oczy. Ale Grek nie poruszył się, nawet nie drgnęły mu powieki.
 
-"The common people are like barley in the field, they incline with the
+— Spojrzyj tu — mówił Mefres zbliżając do Lykona kryształ. — Czy widzisz tego, który porwał Kamę?...
 
-wind."
+Grek zerwał się z krzesła, z zaciśniętymi pięściami i śliną na ustach.
 
-"But the army?"
+— Puśćcie mnie!... — wołał chrapliwym głosem. — Puśćcie mnie, abym napił się jego krwi...
 
-"What army will not fall before Osiris?"
+— Gdzież on jest teraz? — pytał Mefres.
 
-"I know," replied the nomarch of Aa, with impatience, "but I see
+— W pałacyku, w stronie ogrodu najbliższej rzeki... Jest z nim piękna kobieta... — szeptał Lykon.
 
-neither Osiris nor that wind which is to turn the people toward us.
+— Nazywa się Hebron i jest żoną Tutmozisa — podpowiedział Herhor. — Przyznaj, Mefresie — dodał — że ażeby o tym wiedzieć, nie trzeba podwójnego wzroku...
 
-Meanwhile, the pharaoh has attached them by promises, and he will
+Mefres zaciął wąskie usta.
 
-appear with gifts to-morrow."
+— Jeżeli to nie przekonywa waszej dostojności, pokażę coś lepszego — odparł. — Lykonie, znajdź teraz zdrajcę, który szuka drogi do skarbca Labiryntu...
 
-"Fear is stronger than promises and gifts," replied Herhor.
+Śpiący Grek usilniej wpatrzył się w kryształ i po chwili odpowiedział:
 
-"What have they to fear? Those three hundred soldiers of ours?"
+— Widzę go... Jest odziany w płachtę żebraka...
 
-"They will fear Osiris."
+— Gdzie on jest?...
 
-"But where is he?" asked the indignant nomarch of Aa.
+— Leży na dziedzińcu oberży, ostatniej przed Labiryntem... Z rana będzie tam...
 
-"Ye will see him. But happy the man who will be blind on that day."
+— Jak on wygląda?...
 
-Herhor spoke with such calm solemnity that silence settled on the
+— Ma rudą brodę i włosy... — odpowiedział Lykon.
 
-assembly.
+— A co?... — spytał Mefres Herhora.
 
-"But what shall we do?" asked the judge after a while.
+— Wasza dostojność masz dobrą policję — rzekł Herhor.
 
-"The pharaoh," said Herhor, "wishes the people to attack the temple on
+— Ale za to dozorcy Labiryntu źle go pilnują! — mówił gniewnie Mefres. — Jeszcze dziś w nocy pojadę tam z Lykonem, aby ostrzec miejscowych kapłanów... Lecz gdy uda mi się ocalić skarb bogów, wasza dostojność pozwolisz, że ja zostanę jego dozorcą...
 
-the 23d. We must make them attack us on the 20th of Paofi."
+— Jak wasza dostojność chcesz — odparł Herhor obojętnie. A w sercu swym dodał:
 
-"The gods live through eternity!" cried the nomarch of Aa, raising his
+„Nareszcie pobożny Mefres zaczyna pokazywać zęby i pazury... Sam pragnie zostać — tylko — dozorcą Labiryntu, a swego wychowańca Lykona zrobić — tylko — faraonem!...
 
-hands. "But why should we bring misfortune on our heads, and besides
+Zaprawdę, że dla nasycenia chciwości moich pomocników bogowie musieliby stworzyć dziesięć Egiptów...”
 
-two days earlier?"
+Gdy obaj dostojnicy opuścili podziemia, Herhor, wśród nocy, piechotą wrócił do świątyni Izydy, gdzie miał mieszkanie, a Mefres kazał przygotować parę konnych lektyk. Do jednej młodzi kapłani włożyli śpiącego Lykona w worku na głowie, do drugiej arcykapłan wsiadł sam i otoczony garstką jeźdźców, tęgim kłusem pojechał do Fayum.
 
-"Listen to Herhor," said Mefres with a voice of decision; "try by all
+W nocy z czternastego na piętnasty Paofi arcykapłan Samentu, stosownie do obietnicy danej faraonowi, wszedł, sobie tylko znanym korytarzem, do Labiryntu. Miał w rękach pęk pochodni, z których jedna paliła się, a na plecach niewielki koszyk z przyborami.
 
-means that the attack be made on the morning of the 20th."
+Samentu bardzo łatwo przechodził z sali do sali, z korytarza na korytarz, jednym dotknięciem usuwając kamienne tafle w kolumnach i ścianach, gdzie były drzwi ukryte. Niekiedy wahał się, lecz wówczas odczytywał tajemnicze znaki na ścianach i porównywał je ze znakami na paciorkach, które miał na szyi.
 
-"But if they beat us in fact?" inquired the judge in confusion.
+Po półgodzinnej podróży znalazł się w skarbcu, skąd usunąwszy taflę w podłodze dostał się do sali leżącej pod spodem. Sala była niska, lecz obszerna, a jej sufit opierał się na mnóstwie przysadkowatych kolumn.
 
-"If Herhor's spells fail I will call the gods to assist us," replied
+Samentu położył koszyk i zapaliwszy dwie pochodnie przy ich świetle zaczął odczytywać napisy ścienne.
 
-Mefres, and in his eyes was an ominous glitter.
+„Mimo podłej postaci — mówił jeden napis — jestem prawdziwy syn bogów, gdyż gniew mój jest straszny.
 
-"Ah, ye high priests have secrets which ye may not explain to us. We
+Na dworze zamieniam się w słup ognia i czynię błyskawicę. Zamknięty, jestem grzmotem i zniszczeniem, i nie ma budowli, która oparłaby się mojej potędze.
 
-will do what ye command; we will cause the attack on the 20th. But
+Ułagodzić mnie może tylko święta woda, która odbiera mi moc. Ale gniew mój tak dobrze rodzi się z płomienia, jak i z najmniejszej iskry.
 
-remember, on your heads be our blood and the blood of our children."
+Wobec mnie wszystko skręca się i upada. Jestem jak Tyfon, który obala najwyższe drzewo i podnosi kamienie.”
 
-"So be it! So be it!" cried both high priests together.
+„Słowem, każda świątynia ma swoją tajemnicę, której inne nie znają!...” — rzekł do siebie Samentu.
 
-Then Herhor added: "For ten years we have governed the state, and
+Otworzył jedną kolumnę i wydobył z niej duży garnczek. Garnczek miał pokrywę przylepioną woskiem tudzież otwór, przez który przechodził długi i cienki sznurek, nie wiadomo gdzie kończący się wewnątrz kolumny.
 
-during that time no wrong has happened to any of you, and we have kept
+Samentu odciął kawałek sznurka, przytknął go do pochodni i spostrzegł, że sznur spala się bardzo prędko, wydając syczenie.
 
-every promise; so be patient and faithful for a few days. Ye will see
+Teraz ostrożnie zdjął nożem pokrywę i zobaczył wewnątrz garnka niby piasek i kamyki popielatej barwy. Wydobył parę kamyków i odszedłszy na bok przytknął pochodnię. W jednej chwili buchnął duży płomień i kamyki znikły zostawiając po sobie gęsty dym i przykry zapach.
 
-the might of the gods and receive your reward."
+Samentu wyjął znowu trochę popielatego piasku, wysypał na posadzkę, umieścił wśród niego kawałek sznura, który znalazł przy garnku, i — wszystko to nakrył ciężkim kamieniem. Potem zbliżył pochodnię, sznur zatlił się i po chwili — kamień wśród płomieni podskoczył do góry.
 
-The nomarchs took farewell of the high priests, not trying even to hide
+— Mam już tego syna bogów!... — rzekł z uśmiechem Samentu. — Skarbiec nie zapadnie się...
 
-their own grief and alarm. Only Herhor and Mefres remained. After a
+Zaczął chodzić od kolumny do kolumny, otwierać tafle i z wnętrza wydobywać ukryte garnki. Przy każdym był sznur, który Samentu przecinał, a garnki odstawiał na bok...
 
-long silence Herhor said,
+— No — mówił kapłan — jego świątobliwość mógłby darować mi połowę tych skarbów, a przynajmniej... syna mego zrobić nomarchą!... I z pewnością zrobi, gdyż jest to wspaniałomyślny władca... Mnie zaś należy się co najmniej świątynia Amona w Tebach...
 
-"Yes, that Lykon was good as long as he counterfeited the maniac. But
+Zabezpieczywszy w ten sposób salę dolną, Samentu wrócił do skarbca, a stamtąd wszedł do sali górnej. Tam również były napisy na ścianach, liczne kolumny, a w nich garnki zaopatrzone w sznury i napełnione kamykami, które przy zetknięciu się z ogniem wybuchały.
 
-that it should be possible to show him instead of Ramses."
+Samentu poprzecinał sznury, powydobywał garnki z wnętrza kolumn i — szczyptę popielatego piasku zawiązał w gałganek.
 
-"If the-mother did not detect him," answered Mefres, "the man must
+Potem zmęczony usiadł. Wypaliło mu się sześć pochodni; noc musiała się już zbliżać ku końcowi.
 
-resemble Ramses remarkably. As to sitting on the throne and saying a
+„Nigdy bym nie przypuszczał — mówił do siebie — że tutejsi kapłani mają tak dziwny materiał?... Przecie można by rozwalać nim asyryjskie fortece!... No, my także nie wszystko ogłaszamy naszym uczniom...”
 
-few words to those present, he will do that. Moreover, we shall be
+Strudzony począł marzyć. Teraz był pewny, że zajmie najwyższe stanowisko w państwie, potężniejsze od tego, jakie zajmował Herhor.
 
-there."
+Co wtedy zrobi?... Bardzo wiele. Zabezpieczy mądrość i majątek swoim potomkom. Postara się o wydobycie tajemnic ze wszystkich świątyń, co w nieograniczony sposób umocni jego władzę, a Egiptowi zapewni przewagę nad Asyrią.
 
-"A terribly stupid comedian!" sighed Herhor, rubbing his forehead.
+Młody faraon drwi z bogów, to ułatwi mu ustanowienie czci dla jednego boga, na przykład Ozyrysa, i połączenie Fenicjan, Żydów, Greków i Libijczyków w jedno państwo — z Egiptem.
 
-"He is wiser than millions of other men, for he has second sight and he
+Współcześnie przystąpi do robót nad kanałem, który ma połączyć Morze Czerwone ze Śródziemnym. Gdy wzdłuż kanału pobuduje się fortece i nagromadzi dużo wojska, cały handel z nieznanymi ludami Wschodu i Zachodu wpadnie w ręce Egipcjan.
 
-may render the state immense service."
+Trzeba też posiadać własną flotę i majtków egipskich... A nade wszystko trzeba zgnieść Asyrią, która z każdym rokiem staje się niebezpieczniejsza... Trzeba ukrócić zbytki i chciwość kapłanów... Niechaj będą mędrcami, niech mają dostatek, ale niech służą państwu zamiast, jak dziś, wyzyskiwać je na swoją korzyść...
 
-"Thou art speaking continually, worthiness, of that second sight. Let
+„Już w miesiącu Hator — mówił w sobie — będę władcą!... Młody pan zanadto lubi kobiety i wojsko, aby mógł zajmować się rządami... A jeżeli nie będzie miał synów, wówczas mój syn, mój syn...”
 
-me convince myself of it certainly."
+Ocknął się. Jeszcze jedna pochodnia spłonęła i był wielki czas do opuszczenia podziemiów.
 
-"Dost Thou wish to do so?" inquired Mefres. "Well come with me. But by
+Podniósł się, zabrał swój koszyk i opuścił salę nad skarbcem.
 
-the gods, Herhor, mention not, even before thy own heart, what Thou
+„Nie potrzebuję pomocników... — myślał uśmiechając się. — Sam wszystko zabezpieczyłem... ja sam... pogardzany kapłan Seta!...”
 
-shalt witness."
+Minął już kilkadziesiąt komnat i korytarzy, gdy nagle stanął... Zdawało się, że na posadzce sali, do której wszedł, widać cienką smugę światła...
 
-They went beneath the temple of Ptah and entered a large vault where a
+W jednej chwili ogarnęła go tak straszna trwoga, że zgasił pochodnię. Lecz i smuga na posadzce znikła.
 
-lamp was then gleaming. By the feeble light Herhor saw a man sitting at
+Samentu wytężył słuch, ale słyszał tylko bicie tętna we własnej głowie.
 
-a table; he was eating. The man wore a coat of the pharaoh's guardsmen.
+— Przywidziało mi się!... — rzekł.
 
-"Lykon," said Mefres, "the highest dignitary of the state wishes
+Drżącymi rękoma wydobył z kosza małe naczynie, gdzie powoli tliła się hubka, i znowu zapalił pochodnią.
 
-evidence of those powers with which the gods have gifted thee."
+„Jestem bardzo senny!...” — pomyślał.
 
-"Cursed be the day in which the soles of my feet touched your land!"
+Rozejrzał się po sali i poszedł do ściany, w której były ukryte drzwi. Nacisnął gwóźdź, drzwi nie uchyliły się. Drugi... trzeci nacisk — nic...
 
-muttered Lykon, pushing away a plate with food on it. "I should rather
+„Co to znaczy?” — rzekł do siebie zdumiony.
 
-labor in the quarries, and be beaten."
+Już zapomniał o świetlnej smudze. Zdawało mu się, że spotkał go nowy, niesłychany wypadek. Tyle setek drzwi ukrytych otwierał w swym życiu, tyle ich otworzył w Labiryncie, że wprost nie mógł pojąć obecnego oporu.
 
-"There will be time for that always," interrupted Herhor, severely.
+Wtem znowu ogarnął go strach. Zaczął biegać od ściany do ściany i wszędzie próbować ukrytych drzwi. Wreszcie jedne ustąpiły. Samentu głęboko odetchnął i znalazł się w ogromnej sali, jak zwykle przepełnionej kolumnami. Jego pochodnia rozświetlała zaledwie część przestrzeni, której ogromna reszta ginęła w gęstym mroku.
 
-The Greek was silent, and trembled suddenly when he saw a dark crystal
+Ciemność, las kolumn, a nade wszystko nieznajomość sali — dodała kapłanowi otuchy. Na dnie jego trwogi zbudziła się iskra naiwnej nadziei: zdawało mu się, że ponieważ on nie zna tego miejsca, więc i nikt go nie zna, nikt tu nie trafi.
 
-globe in the hand of Mefres. He grew pale, his sight became dim, large
+Uspokoił się nieco i uczuł, że nogi gną się pod nim. Więc usiadł. Lecz znowu zerwał się i począł oglądać się dokoła, jak gdyby chcąc sprawdzić: czy istotnie grozi mu niebezpieczeństwo i — skąd?... Z którego z tych ciemnych kątów wyjdzie ono, aby rzucić się na niego?
 
-drops of sweat came out on his face. His eyes were fixed on one point,
+Samentu, jak nikt w Egipcie, był oswojony z podziemiami, ciemnością, zbłąkaniem... Przechodził też różne niepokoje w życiu. Ale to, czego doznawał obecnie, było czymś zupełnie nowym i tak strasznym, że kapłan bał się nadać temu właściwego nazwiska.
 
-as if fastened to that ball of crystal.
+W końcu z wielkim wysiłkiem zebrał myśli i rzekł:
 
-"He is sleeping," said Mefres. "Is this not wonderful?"
+— Gdybym naprawdę widział światło... gdyby naprawdę ktoś pozamykał drzwi, byłbym zdradzony... A w takim razie co?...
 
-"If he is not feigning."
+„Śmierć!...” — szepnął mu głos ukryty gdzieś na dnie duszy.
 
-"Punch him, stick him, burn him even," said Mefres.
+Śmierć?!...
 
-Herhor drew from under his white robe a dagger and pointed it as if to
+Pot wystąpił mu na twarz; zatamował mu się oddech. I nagle opanowało go szaleństwo strachu. Zaczął biegać po sali i uderzać pięścią w mury szukając wyjścia. Już zapomniał, gdzie jest i jak się tu dostał; stracił kierunek, a nawet możność orientowania się za pomocą paciorków.
 
-strike Lykon between the eyes, but the Greek did not move, even his
+Zarazem poczuł, że jest w nim jakby dwu ludzi: jeden prawie obłąkany, drugi spokojny i mądry. Ten mądry tłumaczył sobie, że wszystko może być przywidzeniem, że nikt go nie odkrył, nikt go nie szuka i że wyjdzie stąd, byle nieco ochłonął. Ale ten pierwszy, obłąkany, nie słuchał głosu rozsądku, owszem, z każdą chwilą brał górę nad swoim antagonistą wewnętrznym.
 
-eyelids did not quiver.
+O, gdyby można było ukryć się w której kolumnie!... Niechby wówczas szukali... Choć zapewne nikt by go nie szukał i nie znalazł, a on przespawszy się odzyskałby panowanie nad sobą.
 
-"Look!" said Mefres, holding the crystal up to Lykon. "Dost Thou see
+— Cóż mnie tu może spotkać? — mówił wzruszając ramionami. — Bylem uspokoił się, mogą mnie gonić po całym Labiryncie... Wszak do przecięcia mi wszystkich dróg trzeba by kilku tysięcy ludzi, a do wskazania: w której sali jestem — chyba cudu!...
 
-the man who carried off Kama?"
+No, ale przypuśćmy, że łapią mnie... Więc i cóż!... Biorę ten oto flakonik, przykładam do ust i w jednej chwili uciekam tak, że mnie już nikt nie złapie... Nawet bogowie...
 
-The Greek sprang from his chair, his fists were clenched, and there was
+Lecz pomimo rozumowań znowu schwyciła go tak straszna trwoga, że po raz drugi zgasił pochodnią i drżąc, szczękając zębami wcisnął się pod jedną z kolumn.
 
-saliva on his lips.
+„Jak można... jak można było wchodzić tutaj!... — mówił do siebie. — Alboż nie miałem czego jeść... na czym wesprzeć głowy?... Prosta rzecz, że jestem odkryty... Przecież Labirynt posiada mnóstwo czujnych jak psy dozorców, i tylko dziecko albo głupiec mógłby myśleć o oszukaniu ich...
 
-"Let me go!" cried he with a hoarse voice. "Let me go and drink his
+Majątek... władza!... Gdzież jest taki skarb, za który warto by oddać jeden dzień życia?... I oto ja, człowiek w sile wieku, naraziłem moje...”
 
-blood."
+Zdawało mu się, że usłyszał ciężkie stuknięcie. Zerwał się i w głębi sali — zobaczył blask.
 
-"Where is he now?" inquired Mefres.
+Tak jest: blask rzeczywisty, nie złudzenie... W odległej ścianie, gdzieś na końcu, stały otwarte drzwi, przez które w tej chwili ostrożnie wchodziło kilku zbrojnych ludzi z pochodniami.
 
-"In the villa at the side of the garden next the river. A beautiful
+Na ten widok kapłan uczuł zimno — w nogach, w sercu, w głowie... Już nie wątpił, że nie tylko został odkryty, ale że jest ścigany i otoczony.
 
-woman is with him."
+Kto mógł go zdradzić?... Rozumie się, że tylko jeden człowiek: młody kapłan Seta, którego wtajemniczył dość szczegółowo w swoje plany. Zdrajca sam z miesiąc musiałby szukać drogi w Labiryncie; ale gdyby porozumiał się z dozorcami, mogli Samentu wytropić w jeden dzień...
 
-"Her name is Hebron, and she is the wife of Tutmosis," added Herhor.
+W tej chwili arcykapłan doznał wrażeń znanych tylko ludziom, którzy stają w obliczu śmierci. Przestał się bać, gdyż jego urojone trwogi pierzchły wobec rzeczywistych pochodni... I nie tylko odzyskał panowanie nad sobą, ale nawet poczuł się nieskończenie wyższym od wszystkiego, co żyje... Za chwilę już nie będzie mu groziło żadne... żadne niebezpieczeństwo!...
 
-"Confess, Mefres, that second sight is not needed to know that."
+Myśli przebiegały mu przez głowę z szybkością i jasnością błyskawic. Ogarnął całe swoje istnienie: prace, niebezpieczeństwa, nadzieje i ambicje, i — wszystko to wydawało mu się drobiazgiem. Bo i co by mu przyszło, gdyby w tej chwili był nawet faraonem albo posiadał klejnoty wszystkich skarbców królewskich?...
 
-Mefres closed his thin lips tightly.
+Wszystko to marność, pył a nawet gorzej, bo złudzenie. Jedna tylko rzecz jest wielka i prawdziwa — śmierć...
 
-"If this does not convince thee, worthiness, I will show something
+Tymczasem ludzie z pochodniami pilnie oglądając kolumny i zakątki doszli już do połowy ogromnej sali. Kapłan widział połyskujące ostrza ich włóczni i poznał, że wahają się, że posuwają się naprzód ze strachem i niechęcią. O kilka kroków za nimi szła inna grupa osób oświetlona jedną pochodnią.
 
-better," said he at length. "Lykon, find now the traitor who is seeking
+Samentu nawet nie czuł do nich niechęci, tylko ciekawość: kto mógł go zdradzić? Ale i ta kwestia nie bardzo go obchodziła; wydawało mu się bowiem nierównie ważniejszym pytanie: dlaczego człowiek musi umierać i — po co rodził się?... Gdyż, wobec faktu śmierci, całe życie skraca się w jedną chwilkę bolesną, choćby było najdłuższym i najbogatszym w doświadczenia.
 
-the way to the treasure of the labyrinth."
+— Po co to?... Na co to?...
 
-The sleeping Greek looked for a while at the crystal intently, and
+Otrzeźwił go głos jednego ze zbrojnych.
 
-answered,
+— Tu nikogo nie ma i być nie może!...
 
-"I see him he is dressed in the rags of a beggar."
+Zbrojni stanęli. Samentu poczuł, że kocha tych ludzi, którzy nie chcą iść dalej, i — serce w nim uderzyło.
 
-"Where is he?"
+Powoli nadciągnęła druga grupa osób, w której spierano się.
 
-"In the court of the last inn before the labyrinth. He will be there in
+— Jak nawet wasza dostojność może przypuszczać, że tu ktoś wszedł?... — mówił głos drgający gniewem. — Przecież wszystkie wejścia są pilnowane, osobliwie teraz. A gdyby nawet kto zakradł się, to chyba po to, ażeby umrzeć z głodu...
 
-the morning."
+— A jednak patrz, wasza dostojność, na zachowanie się Lykona — odparł drugi głos. — Śpiący wciąż wygląda tak, jakby nieprzyjaciela czuł blisko...
 
-"How does he look?"
+„Lykon?... — myślał Samentu. — Ach, to ten Grek podobny do faraona... Co widzę?... Mefres go tu przyprowadził!...”
 
-"He has red hair and beard," answered Lykon.
+W tej chwili śpiący Grek rzucił się naprzód i stanął przed kolumną, za którą ukrywał się Samentu. Zbrojni pobiegli za nim, a blask ich pochodni oświetlił ciemną figurę kapłana.
 
-"Well?" inquired Mefres of Herhor.
+— Kto tu?... — krzyknął chrapliwym głosem dowódca.
 
-"Thou hast good police, worthiness," replied Herhor.
+Samentu wysunął się. Jego widok zrobił tak silne wrażenie, że ludzie z pochodniami cofnęli się. Mógł był przejść między przerażonymi i nikt by go nie zatrzymał; ale kapłan już nie myślał o ucieczce.
 
-"But the overseers of the labyrinth guard it poorly!" said Mefres in
+— A co, czy mylił się mój jasnowidzący?... — zawołał Mefres wyciągając rękę. — Oto zdrajca!...
 
-anger. "I will go there to-night with Lykon to warn the local priests.
+Samentu zbliżył się do niego z uśmiechem i rzekł:
 
-But if I succeed in saving the treasure of the gods, Thou wilt permit
+— Poznałem cię po tym okrzyku, Mefresie. Gdy nie możesz być oszustem, jesteś tylko głupcem...
 
-me to become its overseer, worthiness?"
+Obecni osłupieli; Samentu mówił ze spokojną ironią:
 
-"As Thou wishest," answered Herhor with indifference. But in his heart
+— Choć prawda, że w tej chwili jesteś i oszustem, i głupcem. Oszustem, bo wmawiasz w dozorców Labiryntu, że ten łotr ma dar podwójnego widzenia; a głupcem, bo myślisz, że ci uwierzą. Lepiej od razu powiedz, że i w świątyni Ptah znajdują się dokładne plany Labiryntu...
 
-he added: "The pious Mefres begins at last to show his claws and teeth.
+— To fałsz!... — zawołał Mefres.
 
-He desires to become only overseer of the labyrinth, and his ward,
+— Zapytaj tych ludzi, komu wierzą: tobie czy mnie? Ja jestem tutaj, gdyż znalazłem plany w świątyni Seta; ty przyszedłeś z łaski nieśmiertelnego Ptah... — zakończył Samentu śmiejąc się.
 
-Lykon, he would make only pharaoh! Indeed, to satisfy the greed of my
+— Zwiążcie tego zdrajcę i kłamcę!... — krzyknął Mefres.
 
-assistants the gods would have to make ten Egypts,"
+Samentu cofnął się parę kroków. Szybko wydobył spod odzieży flakonik i podnosząc go do ust rzekł:
 
-When both dignitaries had left the vault, Herhor, in the night,
+— Mefresie, ty do śmierci będziesz głupi... Spryt masz tylko wówczas, gdy chodzi o pieniądze...
 
-returned on foot to the temple of Isis where he had a dwelling, but
+Przytknął do ust flakonik i upadł na posadzkę.
 
-Mefres commanded to make ready a couple of litters on horses. In one of
+Zbrojni rzucili się na niego, podnieśli, ale już leciał im przez ręce.
 
-these the younger priests placed the sleeping Lykon with a bag on his
+— Niechże tu zostanie jak inni... — rzekł dozorca Labiryntu.
 
-head; in the other the high priest himself took his place and,
+Cały orszak opuścił salę i starannie zamknął ukryte drzwi. Niebawem wyszli z podziemiów Labiryntu.
 
-surrounded by a party of horsemen went at a sharp trot in the direction
+Gdy dostojny Mefres znalazł się na dziedzińcu, kazał swoim kapłanom przygotować konne lektyki i natychmiast razem ze śpiącym Lykonem odjechał do Memfisu.
 
-of Fayum.
+Dozorcy Labiryntu, oszołomieni niezwykłymi wypadkami, spoglądali to na siebie, to na eskortę Mefresa, która już znikała w żółtym tumanie pyłu.
 
-On the night between the 14th and 15th Paofi the high priest Samentu,
+— Nie mogę uwierzyć — rzekł arcykapłan dozorca — że był za naszych dni człowiek, który wdarł się do podziemiów...
 
-according to the promise given Ramses, entered the labyrinth by a
+— Wasza dostojność zapomina, że dzisiaj było trzech takich — wtrącił jeden z młodszych kapłanów obrzucając go ukośnym spojrzeniem.
 
-corridor known to himself only. He had in his hand a bundle of torches,
+— A... a... prawda!... — odparł arcykapłan. — Czyliż bogowie pomieszali mi rozsądek?... — dodał, trąc czoło i ściskając zawieszony na piersiach amulet.
 
-one of which was burning, and on his back he carried tools in a small
+— I dwaj uciekli — podpowiedział młodszy kapłan — komediant Lykon i świątobliwy Mefres.
 
-basket.
+— Dlaczegóż nie zwróciłeś mi uwagi tam... w podziemiu!... — wybuchnął zwierzchnik.
 
-Samentu passed very easily from hall to hall, from corridor to
+— Nie wiedziałem, że się tak stanie...
 
-corridor, pushing back with a touch stone slabs in columns and in walls
+— Biada mojej głowie!... — wołał arcykapłan. — Nie naczelnikiem, ale odźwiernym tego gmachu powinienem być... Ostrzegano nas, że ktoś zakrada się do Labiryntu, i nie zapobiegłem temu... A teraz znowu wypuściłem dwu najniebezpieczniejszych, którzy sprowadzą tu, kogo im się podoba... O biada!...
 
-where there were secret doors. Sometimes he hesitated, but then he read
+— Nie potrzebuje wasza dostojność rozpaczać — odezwał się inny kapłan. — Prawo nasze jest wyraźne... Niech więc wasza dostojność wyśle do Memfisu czterech albo sześciu naszych ludzi i zaopatrzy ich w wyroki. Reszta należyć będzie do nich...
 
-mysterious signs on the walls and compared them with signs on the beads
+— Ależ ja straciłem rozum! — narzekał arcykapłan.
 
-which he bore on his neck.
+— Co się stało, to się stało — przerwał nie bez ironii młodszy kapłan. — Jedno jest pewne, że: ludzie, którzy nie tylko trafili do podziemiów, ale nawet chodzili po nich jak po własnym domu, że ludzie ci żyć nie mogą...
 
-After a journey of half an hour he found himself in the treasure room,
+— Więc wyznaczcie sześciu z naszej milicji...
 
-whence by pushing aside a slab in the pavement he reached a hall in the
+— Rozumie się!... Trzeba z tym skończyć... — potwierdzili kapłani-dozorcy.
 
-lower story. The hall was spacious and its ceiling rested on a number
+— Kto wie, czy Mefres nie działał w porozumieniu z najdostojniejszym Herhorem? — szepnął ktoś.
 
-of short thick columns.
+— Dosyć! — zawołał arcykapłan. — Gdy Herhora znajdziemy w Labiryncie, postąpimy według prawa. Ale domyślać się ani posądzać kogokolwiek — nie wolno... Niech pisarze przygotują wyroki dla Mefresa i Lykona, wybrani niech najśpieszniej jadą za nimi, a milicja niech pomnoży warty. Trzeba także zbadać wnętrze gmachu i odkryć, którędy wszedł Samentu... Choć jestem pewny, że nieprędko znajdzie naśladowców...
 
-Samentu put down his basket and, lighting two torches, began by the
-
-light of them to read inscriptions on the walls.
-
-"Despite my wretched figure," declared one inscription, "I am a real
-
-son of the gods, for my auger is terrible.
-
-"In the open air I turn to a column of fire, and I am lightning.
-
-Confined I am thunder and destruction, and no building can resist me.
-
-"Nothing can weaken me but sacred water which takes my force away. But
-
-my anger is roused as well by the smallest spark as by a flame.
-
-"In my presence everything is twisted and broken. I am like Typhon, who
-
-overturns the highest trees and lifts rocks from their places."
-
-"In one word, every temple has its secret which others do not know,"
-
-thought Samentu.
-
-He opened one column and took a large pot from it. The pot had a' cover
-
-sealed with wax, also an opening through which passed a long slender
-
-cord; it was unknown where this cord ended inside the column. Samentu
-
-cut off a piece, touched the torch with it and saw that the cord gave
-
-out a hiss and burned quickly. Then with a knife be removed the cover
-
-very carefully and saw inside the pot as it were sand and pebbles of an
-
-ashen color. He took out a couple of the pebbles and going aside
-
-touched them with the torch. In one moment a flame burst forth and the
-
-pebbles vanished leaving thick smoke behind and a disagreeable odor.
-
-Samentu took some of the ash-colored sand, poured it on the pavement,
-
-put in the middle of it a piece of the cord which he had found at the
-
-pot, covered all with a heavy stone. Then he touched the cord with his
-
-torch, the cord burned and after a while the stone sprang up in a
-
-flame.
-
-"I have that son of the gods now!" said Samentu smiling. "The treasure
-
-will not be lost."
-
-He went from column to column to open slabs and take out hidden pots.
-
-In each pot was a cord which Samentu cut, the pots he left at one side.
-
-"Well," said the priest, "his holiness might give me half these
-
-treasures and make my son a nomarch and surely he will do so, for he is
-
-a magnanimous sovereign."
-
-When he had rendered the lower hall safe in this way Samentu returned
-
-to the treasure chamber, and hence went to the upper hall. There also
-
-were various inscriptions on the walls, numerous columns and in them
-
-pots provided with cords and filled with kernels which burst when fire
-
-touched them. Samentu cut the cords, removed the pots from the interior
-
-of the columns, and tied up in a rag one pinch of the sand. Then being
-
-wearied he sat down to rest. Six of his torches were burnt now. The
-
-night must have been nearing its end.
-
-"I never should have supposed," said he to himself, "that those priests
-
-had such a wonderful agent. Why, with it they could overturn Assyrian
-
-fortresses! Well, we will not tell our own pupils everything either."
-
-The wearied man fell to thinking. Now he was certain that he would hold
-
-the highest position in Egypt, a position higher than that held by
-
-Herhor. What would he do? Very much.
-
-He would secure wealth and wisdom to his posterity. He would try to
-
-gain their secrets from all the temples and this would increase his
-
-power immensely; he would secure to Egypt preeminence above Assyria.
-
-The young pharaoh jeered at the gods, that would facilitate to Samentu
-
-the establishment of the worship of one god, Osiris, for example; and
-
-the union of Phoenicians, Jews, Greeks, and Libyans in one state with
-
-Egypt.
-
-Together they would make the canal to join the Red Sea and the
-
-Mediterranean. Along that canal they would build fortresses and
-
-concentrate a numerous army all the trade with unknown nations of the
-
-Orient and the West would fall into the hands of Egyptians.
-
-They would require an Egyptian fleet and Egyptian sailors. But above
-
-all was the need to crush Assyria, which was growing each year more
-
-dangerous. It was imperative to stop priestly greed and excesses. Let
-
-priests be sages, let them have a sufficiency, but let them serve the
-
-state instead of using it for their own profit as at present.
-
-"In the month Hator," thought Samentu, "I shall be ruler of Egypt! The
-
-young lord loves women and warriors too well to labor at governing. And
-
-if he has no son, then my son, my son."
-
-He came to himself. One more torch had burnt out; it was high time to
-
-leave those underground chambers.
-
-He rose, took his basket and left the hall above the treasure.
-
-"I need no assistance," thought he, laughing. "I have secured
-
-everything I alone I, the despised priest of Set!"
-
-He had passed a number of tens of chambers and corridors when he halted
-
-on a sudden. It seemed to him that on the pavement of the hall to which
-
-he was going he saw a small streak of light.
-
-In one moment such dreadful fear seized the man that he put out his
-
-torch. But the streak of light on the pavement had vanished. Samentu
-
-strained his hearing, but he heard only the throbbing of his own
-
-temples.
-
-"That only seemed to me!" said he.
-
-With a trembling hand he took out of the basket a small vessel in which
-
-punk was burning slowly, and he lighted the torch again.
-
-"I am very drowsy," thought he. Looking around the chamber he went to a
-
-wall in which a door was hidden. He pushed a nail; the door did not
-
-slip back. A second, a third pressure no effect.
-
-"What does this mean?" thought Samentu in amazement.
-
-He forgot now the streak of light. It seemed to him that a new thing,
-
-unheard of, had met him. He had opened in his life so many hundreds of
-
-secret doors, he had opened so many in the labyrinth, that he could not
-
-understand simply the present resistance. Terror seized him a second
-
-time. He ran from wall to wall and tried secret doors everywhere. At
-
-last one opened. He found himself in an immense hall, filled as usual
-
-with columns. His torch lighted barely a part of the space, the
-
-remainder of it was lost in thick darkness.
-
-The darkness, the forest of columns, and above all the strangeness of
-
-the hall gave the priest confidence. At the bottom of his fear a spark
-
-of naive hope was roused then. It seemed to him that since he did not
-
-know the place himself no one else knew it, and that no man would meet
-
-him in that labyrinth.
-
-He was pacified somewhat and felt that his legs were bending under him;
-
-so he sat down. But again he sprang up and looked around, as if to
-
-learn whether danger was really threatening, and whence. From which of
-
-those dark comers would it come out to rush at him?
-
-Samentu was acquainted as no other man in Egypt with subterranean
-
-places, with going astray, and with darkness. He had passed also
-
-through many alarms in his life. But that which he experienced then was
-
-something perfectly new and so terrible that the priest feared to give
-
-its own name to it.
-
-At last, with great effort, he collected his thoughts, and said,
-
-"If indeed I have seen a light if indeed some one has closed the doors,
-
-I am betrayed. In that case what?"
-
-"Death!" whispered a voice hidden in the bottom of his soul somewhere.
-
-"Death?"
-
-Sweat came out on his face, his breath stopped-. All at once the
-
-madness of fear mastered him. He ran through the chamber and struck his
-
-fist against the wall, seeking an exit. He forgot where he was and how
-
-he had got there; he lost his direction, and even the power of taking
-
-bearings with the bead-string.
-
-All at once he felt that in him were two persons, so to speak: one
-
-really bewildered, the other wise and self-possessed. This wiseman
-
-explained to himself that all might be imagination, that no one had
-
-discovered him, that no one was searching, and that he could escape if
-
-he would recover somewhat. But the first, the bewildered man, would not
-
-listen to the voice of wisdom; on the contrary, he gained on his
-
-internal antagonist every moment.
-
-Oh, if he could only hide in some column! Let them seek then Though
-
-surely no one would seek, and no one would find him, while self-command
-
-would come again to him.
-
-"What can happen to me here?" said he, shrugging his shoulders. "If I
-
-calm myself they can chase me through the whole labyrinth. To cut off
-
-all the roads there would have to be many thousand persons, and to
-
-indicate what cell I am in a miracle would be needed! But let us
-
-suppose that they seize me. Then what? I will take this little vial
-
-here, put it to my lips, and in one moment I shall flee away so that no
-
-one could catch me not even a divinity."
-
-But in spite of reasoning, such terrible fear seized the man again that
-
-he put out the torch a second time, and trembling, his teeth
-
-chattering, he pushed up to one of the columns.
-
-"How was it possible how could I decide to come in here?" thought
-
-Samentu. "Had I not food to eat, a place on which to lay my head? It is
-
-a simple thing, I am discovered! The labyrinth has a multitude of
-
-overseers as watchful as dogs, and only a child, or an idiot, would
-
-think of deceiving them. Property power! Where is the treasure for
-
-which it would be worth while for a man to give one day of his life?
-
-And here, I, a man in the bloom of existence, have exposed myself."
-
-It seemed to him that he heard heavy knocking. He sprang up and in the
-
-depth of the chamber he saw a gleam of light.
-
-Yes! a real gleam of light, not an illusion. At a distant wall,
-
-somewhere at the end, stood an open door through which at that moment
-
-armed men were coming in carefully with torches.
-
-At sight of this the priest felt a chill in his feet, in his heart, in
-
-his head. He doubted no longer that he was not merely discovered, but
-
-hunted and surrounded.
-
-Who could have betrayed him? Of course only one man: the young priest
-
-of Set, whom he had acquainted minutely enough with his purposes. The
-
-traitor, if alone, would have had to look almost a month for the way to
-
-the treasure, but if he had agreed with the overseers they might in one
-
-day track out Samentu.
-
-At that moment the high priest felt the impressions known only to men
-
-who are looking at death face to face. He ceased to fear since his
-
-imagined alarms had now vanished before real torches. Not only did he
-
-regain self-command, but he felt immensely above everything living. In
-
-a short time he would be threatened no longer by danger of any sort.
-
-The thoughts flew through his head with lightning clearness and speed.
-
-He took in the whole of his existence: his toils, his perils, his
-
-hopes, his ambitions, and all of those seemed to him a trifle. For what
-
-would it serve him to be at that moment the pharaoh, or to own every
-
-treasure in all kingdoms? They were vanity, dust, and even worse an
-
-illusion. Death alone was all-mighty and genuine.
-
-Meanwhile the torch-bearers were examining columns most carefully, and
-
-also every corner; they had passed through half the immense hall.
-
-Samentu saw even the points of their lances, and noted that the men
-
-hesitated and advanced with alarm and repulsion. A few steps behind
-
-them was another group of persons to whom one torch gave light. Samentu
-
-did not even feel aversion toward them, he was only curious as to who
-
-could have betrayed him. But even that point did not concern him
-
-overmuch, for incomparably more important then seemed the question: Why
-
-must he die, and why had he been brought into existence? For with death
-
-present as a fact a whole life-time is shortened into one painful
-
-minute even though that life were the longest of all and the richest in
-
-experience.
-
-"Why was he alive? For what purpose?"
-
-He was sobered by the voice of one of the armed men,
-
-"There is no one here, and cannot be."
-
-They halted. Samentu felt that he loved those men, and his heart
-
-thumped within him.
-
-The second group of persons came up; among them there was a discussion,
-
-"How can even thou, worthiness, suppose that some one has entered?"
-
-asked a voice quivering with anger. "All the entrances are guarded,
-
-especially now. And even if any one stole in it would be only to die
-
-here of hunger."
-
-"But, worthiness, see how this Lykon bears himself," answered another
-
-voice. "The sleeping man looks all the time as if he felt an enemy near
-
-him.."
-
-"Lykon?" thought Samentu. "Ah, that Greek who is like the pharaoh. What
-
-do I see? Mefres has brought him!"
-
-At this moment the sleeping Greek rushed forward and stopped at the
-
-column behind which Samentu was hidden. The armed men ran after him,
-
-and the gleam of their torches threw light on the dark figure of
-
-Samentu.
-
-"Who is here?" cried, with a hoarse voice, the leader.
-
-Samentu stood forth. The sight of him made such a powerful impression
-
-that the torch-bearers withdrew. He might have passed out between them,
-
-so terrified were they, and no one would have detained him; but the
-
-priest thought no longer of rescue.
-
-"Well, has my man with second sight been mistaken?" said Mefres,
-
-pointing at his victim. "There is the traitor!"
-
-Samentu approached him with a smile, and said,
-
-"I recognize thee by that cry, Mefres. When Thou canst not be a cheat,
-
-Thou art merely an idiot."
-
-Those present were astounded. Samentu spoke with calm irony.
-
-"Though it is true that at this moment Thou art both cheat and fool. A
-
-cheat, for Thou art trying to persuade the overseers of the labyrinth
-
-that this villain has the gift of second sight; and a fool, for Thou
-
-thinkest that they believe thee. Better tell them that in the temple of
-
-Ptah there are detailed plans of the labyrinth."
-
-"That is a lie!" cried Mefres.
-
-"Ask those men whom they believe: thee, or me? I am here because I
-
-found plans in the temple of Set; Thou hast come by the grace of the
-
-immortal Ptah," concluded Samentu, laughing.
-
-"Bind that traitor and liar!" cried Mefres.
-
-Samentu moved back a couple of steps, drew forth quickly from under his
-
-garment a vial, and said, while raising it to his lips, "Mefres, Thou
-
-wilt be an idiot till death. Thou hast wit only when it is a question
-
-of money."
-
-He placed the vial between his lips and fell to the pavement.
-
-The armed men rushed to the priest and raised him, but he had slipped
-
-through their fingers already.
-
-"Let him stay here, like others," said the overseer of the labyrinth.
-
-The whole retinue left the hall and closed the open doors carefully.
-
-Soon they issued forth from the edifice.
-
-When the worthy Mefres found himself in the court he commanded the
-
-priests to make ready the mounted litters, and rode away with the
-
-sleeping Lykon to Memphis.
-
-The overseers of the labyrinth, dazed by the uncommon events, looked
-
-now at one another, and now at the escort of Mefres, which was
-
-disappearing in a yellow dust cloud.
-
-"I cannot believe," said the chief overseer, "that in our days there
-
-was a man who could break into the labyrinth."
-
-"Your worthiness forgets that this day there were three such,"
-
-interrupted one of the younger priests looking askance at him.
-
-"A a true!" answered the high priest. "Have the gods disturbed my
-
-reason?" said he, rubbing his forehead and pressing the amulet on his
-
-breast.
-
-"And two have fled," added the younger priest.
-
-"Why didst Thou not turn my attention to that in the labyrinth?" burst
-
-out the superior.
-
-"I did not know that things would turn out as they have."
-
-"Woe is on my head!" cried the high priest. "Not chief should I be at
-
-this edifice, but gatekeeper. We were warned that some one was stealing
-
-in, but now we have let out two of the most dangerous, who will bring
-
-now whomever it may please them O woe!"
-
-"Thou hast no need, worthiness, to despair," said another priest. "Our
-
-law is explicit. Send four or six of our men to Memphis, and provide
-
-them with sentences. The rest will be their work."
-
-"I have lost my reason," complained the high priest.
-
-"What has happened is over," interrupted the young priest, with irony.
-
-"One thing is certain: that men who not only reach the vaults, but even
-
-walk through them as through their own houses, may not live."
-
-"Then select six from our militia."
-
-"Of course! It is necessary to end this," confirmed the overseers.
-
-"Who knows if Mefres did not act in concert with the most worthy
-
-Herhor?" whispered some one.
-
-"Enough!" exclaimed the high priest. "If we find Herhor in the
-
-labyrinth we will act as the law directs. But to make guesses, or
-
-suspect any one is not permitted. Let the secretaries prepare sentences
-
-for Mefres and Lykon, Let those chosen hurry after them, and let the
-
-militia strengthen the watch. We must also examine the interior of the
-
-edifice and discover how Samentu got into it, though I am sure that he
-
-will have no followers in the near future."
-
-A couple of hours later six men had set out for Memphis.
+W parę godzin później sześciu ludzi wyjechało do Memfisu.

@@ -586,6 +586,35 @@ class ExportManuscriptTests(unittest.TestCase):
             )
             self.assertEqual(export.display_chapter_title(chapter, meta), expected)
 
+    def test_chapter_title_overrides_special_front_and_back_matter(self) -> None:
+        meta = {
+            "display": {
+                "chapters": {
+                    "format": "words_de",
+                    "suffix": " Kapitel",
+                    "titles": {
+                        "000": "Einleitung",
+                        "068": "Epilog",
+                    },
+                }
+            }
+        }
+        cases = {
+            "000": "Einleitung",
+            "001": "Erstes Kapitel",
+            "068": "Epilog",
+        }
+        for chapter_id, expected in cases.items():
+            chapter = export.ChapterExport(
+                chapter_id=chapter_id,
+                title=f"Kapitel {chapter_id}",
+                scenes=[],
+                missing=[],
+                ru_count=0,
+                de_count=0,
+            )
+            self.assertEqual(export.display_chapter_title(chapter, meta), expected)
+
     def test_anna_display_hides_scene_markers(self) -> None:
         chapters = [
             export.ChapterExport(

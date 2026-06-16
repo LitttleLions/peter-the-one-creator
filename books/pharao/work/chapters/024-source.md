@@ -1,893 +1,356 @@
-# Kapitel 24: CHAPTER XXIV
+# Kapitel 024: Tom I - Rozdział XXIV
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part28.xhtml*
 
 <!-- status: pending -->
 
-RAMSES saw now that either he would not carry out the commands of the
+Teraz już Ramzes wiedział, że albo nie spełni rozkazu faraona, albo musi poddać się woli kapłanów, co go przejmowało gniewem i niechęcią do nich.
 
-pharaoh or that he must yield to the will of the priesthood; this
+Nie śpieszył się więc do tajemnic ukrytych w świątyni. Miał jeszcze czas na posty i pobożne zajęcia. Tym zaś gorliwszy zaczął przyjmować udział w ucztach, jakie na jego cześć wyprawiano.
 
-filled him with dislike and anger. Hence he did not hurry toward the
+Właśnie powrócił Tutmozis, mistrz we wszelkiej zabawie, i przywiózł księciu dobre wiadomości od Sary. Była zdrowa i pięknie wyglądała, co dziś mniej już obchodziło Ramzesa. Lecz kapłani postawili jego przyszłemu dziecku tak dobry horoskop, że książę był zachwycony.
 
-secrets hidden in temples. He had time yet for fasting and devotional
+Twierdzili na pewno, że dziecko będzie synem bardzo obdarowanym od bogów i jeżeli ojciec będzie go kochał, osięgnie w życiu wielkie zaszczyty.
 
-exercises; so he took part all the more zealously in feasts which were
+Książę śmiał się z drugiej części tej przepowiedni.
 
-given in his honor.
+— Dziwna ich mądrość — mówił do Tutmozisa. — Wiedzą, że będzie syn, o czym ja nie wiem, choć jestem ojcem; a wątpią, czy go będę kochał, choć łatwo zgadnąć, że kochałbym to dziecię, gdyby nawet było córką.
 
-Tutmosis, a master in every amusement, had just returned, and brought
+A o zaszczyty dla niego niech będą spokojni. Ja się tym zajmę!...
 
-the prince pleasant news from Sarah. She was in good health and looked
+W miesiącu Pachono (styczeń — luty) następca przejechał do nomesu Ka, gdzie był podejmowany przez nomarchę Sofra. Miasto Anu leżało o siedem godzin pieszej drogi od Atribis, ale książę przez trzy dni odbywał tę podróż. Na myśl o modlitwach i postach, jakie czekały go przy wtajemniczaniu się w sekreta świątyń, Ramzes czuł coraz większą ochotę do zabaw; jego orszak odgadł to, więc następowała uciecha po uciesze.
 
-well, which concerned Ramses less at that time. But the priests gave
+Znowu na gościńcach, którymi przejeżdżał do Atribis, ukazały się tłumy ludu z okrzykami, kwiatami i muzyką. Szczególniej pod miastem zapał dosięgnął szczytu. Zdarzyło się nawet, że jakiś olbrzymi robotnik rzucił się pod wóz namiestnika. A gdy Ramzes zatrzymał konie, z gromady wystąpiło kilkanaście młodych kobiet i cały wóz oplotły mu kwiatami.
 
-such a horoscope to the coming child that the prince was delighted.
+„Oni jednak kochają mnie!...” — pomyślał książę.
 
-They assured him that the child would be a son, greatly gifted by the
+W prowincji Ka już nie zapytywał nomarchy o dochody faraona, nie zwiedzał fabryk, nie kazał sobie czytać raportów. Wiedział, że niczego nie zrozumie, więc odłożył te zajęcia do czasu, gdy zostanie wtajemniczonym. Tylko raz, gdy zobaczył, że świątynia boga Sebaka stoi na wysokim wzgórzu, oświadczył chęć wejścia na jej pylon i obejrzenia okolicy.
 
-gods, and if his father loved him he would during life obtain high
+Dostojny Sofra natychmiast spełnił wolę następcy, który znalazłszy się na wieży spędził parę godzin z wielką uciechą.
 
-honor.
+Prowincja Ka była to żyzna równina. Kilkanaście kanałów i odnóg nilowych przecinało ją we wszystkich kierunkach niby sieć skręcona ze srebrnych i lazurowych sznurów. Melony i pszenica, siana w listopadzie, już dojrzewała. Na polach gęsto roili się nadzy ludzie, którzy zbierali ogórki lub sieli bawełnę. Ziemia była pokryta budynkami, które na kilkunastu punktach skupiały się mocniej i tworzyły miasteczka.
 
-The prince laughed at the second part of this prediction. "Their wisdom
+Większość domów, osobliwie tych, które leżały wśród pól, były to gliniane lepianki przykryte słomą i palmowymi liśćmi. Za to w miastach domy były murowane, o płaskich dachach, i wyglądały jak białe sześciany podziurawione w miejscach, gdzie były drzwi i okna. Bardzo często na jednym takim sześcianie stał drugi nieco mniejszy, a na tym trzeci jeszcze mniejszy i każde piętro wymalowane było innym kolorem. Pod ognistym słońcem Egiptu domy te wyglądały jak wielkie perły, rubiny i szafiry rozrzucone wśród zieleni pól, otoczone palmami i akacjami.
 
-is wonderful," said he to Tutmosis. "They know that it will be a son,
+Z tego miejsca Ramzes spostrzegł zjawisko, które go zastanowiło. Oto w pobliżu świątyń domy były najpiękniejsze, a w polach kręciło się najwięcej ludności.
 
-while I, its father, do not know; and they doubt whether I shall love
+„Folwarki kapłanów są najbogatsze!...” — przypomniał sobie i jeszcze raz przebiegł oczyma świątynie i kaplice, których z wieży było widać kilkanaście.
 
-it, though it is easy to divine that I shall love the child even should
+Ponieważ jednak pogodził się z Herhorem i potrzebował usług od kapłanów, więc nie chciał dłużej zajmować się tą sprawą.
 
-it be a daughter. And as to honor for it, let them be at rest; I will
+W ciągu następnych dni dostojny Sofra urządził dla księcia szereg polowań posuwając się od miasta Atribis ku wschodowi. Nad kanałami strzelano do ptaków z łuku, chwytano je w ogromne potrzaski z sieci, które od razu zagarniały po kilkadziesiąt sztuk, albo na latających swobodnie wypuszczano sokoły. Gdy zaś orszak księcia wkroczył do wschodniej pustyni, zaczęły się wielkie łowy z psami i panterą na czworonożne zwierzęta, których w ciągu kilku dni zabito lub schwytano paręset sztuk.
 
-occupy myself with that question."
+Gdy dostojny Sofra spostrzegł, że książę ma już dość zabaw pod otwartym niebem i noclegów w namiotach, przerwał polowanie i najkrótszymi drogami zawrócił swoich gości do Atribis.
 
-In the month Pachons (January, February) the heir passed through the
+Stanęli tu o czwartej po południu, a nomarcha zaprosił wszystkich do swego pałacu na ucztę.
 
-province of Ka, where he was received by the nomarch Sofra. The city of
+Sam zaprowadził księcia do łazienki, asystował przy kąpieli i z własnej skrzyni wydobył wonności dla namaszczenia Ramzesa. Potem dozorował fryzjera, który uporządkował włosy namiestnikowi, wreszcie uklęknąwszy na podłodze błagał księcia o łaskawe przyjęcie od niego nowych szat.
 
-Anu lay about seven hours of a foot journey from Atribis, but the
+Była tam świeżo utkana koszula pokryta haftem, fartuch wyszyty perłami i płaszcz przetykany złotem, bardzo mocny, ale tak delikatny, że można go było zamknąć w dwu rękach.
 
-prince was three days on this journey. At thought of the fasts and
+Następca łaskawie przyjął to, oświadczając, że jeszcze nigdy nie otrzymał tak pięknego podarunku.
 
-prayers which were awaiting him during initiation into temple secrets,
+Słońce już zaszło i nomarcha zaprowadził księcia do sali balowej.
 
-Ramses felt a growing wish for amusements. His retinue divined this;
+Był to duży dziedziniec otoczony kolumnadą, wyłożony mozaiką. Wszystkie ściany były pokryte malowidłami przedstawiającymi sceny z życia przodków Sofry, a więc — wojny, morskie podróże i polowania. Nad budynkiem tym, zamiast dachu, unosił się olbrzymi motyl z różnobarwnymi skrzydłami, które poruszali ukryci niewolnicy dla odświeżenia powietrza.
 
-hence pleasure followed pleasure.
+W brązowych kagańcach, przybitych do kolumn, płonęły jasne pochodnie, wydzielając ze siebie pachnące dymy.
 
-Again, on the road over which he traveled to Atribis, appeared throngs
+Sala dzieliła się na dwie części: jedna była pusta, druga zapełniona stolikami i krzesłami dla biesiadników. W głębi wznosił się pomost, na którym, pod kosztownym namiotem z rozsuniętymi ścianami, stał stolik i łóżko dla Ramzesa.
 
-of people with shouts, flowers, and music. The enthusiasm reached its
+Przy każdym stoliku znajdowały się wielkie wazony z palmami, akacjami i figami. Stół następcy otoczono roślinami iglastymi, które w sali rozlewały woń balsamiczną.
 
-height at the city. It even happened that a certain gigantic laborer
+Zgromadzeni goście powitali księcia radosnym okrzykiem, a gdy Ramzes zajął miejsce pod baldachimem, skąd był otwarty widok na całą salę, orszak jego zasiadł do stołów.
 
-threw himself under the chariot of the viceroy. But when Ramses held in
+Odezwały się arfy i zaczęły wchodzić damy w bogatych muślinowych szatach, z odsłoniętymi piersiami, błyszczące od klejnotów. Cztery najpiękniejsze otoczyły Ramzesa, inne zasiadły obok dostojników jego orszaku.
 
-the horses, a number of young women stepped forth from the crowd and
+W powietrzu unosiła się woń róż, konwalij i fiołków, a książę poczuł, że mu tętna biją w skroniach.
 
-wreathed the whole chariot with flowers.
+Niewolnicy i niewolnice w koszulach białych, różowych i błękitnych zaczęli roznosić ciasta, pieczony drób i zwierzynę, ryby, wino i owoce tudzież wieńce z kwiatów, które biesiadnicy kładli na głowy. Ogromny motyl coraz szybciej wachlował skrzydłami, a w pustej połowie sali rozpoczęło się widowisko. Po kolei występowały tancerki, gimnastycy, błazny, kuglarze i fechmistrze; gdy zaś który okazał niezwykły dowód zręczności, widzowie rzucali mu kwiaty ze swych wieńców lub złote pierścienie.
 
-"Still they love me!" thought the prince.
+Kilka godzin ciągnęła się uczta, przeplatana okrzykami na cześć księcia, nomarchy i jego rodziny.
 
-In the province of Ka he did not ask the nomarch about the income of
+Ramzesa, który w postawie półleżącej siedział na łóżku okrytym lwią skórą ze złotymi szponami, obsługiwały cztery damy. Jedna wachlowała go, druga zmieniała mu wieńce na głowie, dwie inne przysuwały potrawy. Pod koniec uczty ta z nich, z którą książę najchętniej rozmawiał, przyniosła mu kielich wina. Ramzes wychylił połowę, resztę podał jej, a gdy wypiła, pocałował ją w usta.
 
-the pharaoh, he did not visit factories, he did not command to read
+Wówczas niewolnicy szybko zaczęli gasić pochodnie, motyl przestał poruszać skrzydłami, a w sali zrobiła się noc i cisza, przerywana nerwowym śmiechem kobiet.
 
-reports to him; he knew that he would understand nothing, so he
+Nagle rozległy się prędkie stąpania kilku ludzi i straszny krzyk:
 
-deferred those occupations till the time of his initiation. But once,
+— Puśćcie mnie!... — wołał ochrypnięty głos męski. — Gdzie jest następca?... Gdzie namiestnik?...
 
-when he saw that the temple of the god Sebak stood on a lofty eminence,
+W sali zagotowało się. Kobiety płakały przerażone, mężczyźni wołali:
 
-he desired to ascend the pylon and examine the surrounding country.
+— Co to jest?... Zamach na następcę!... Hej, warta!...
 
-The worthy Sofra accomplished at once the will of the heir, who, when
+Słychać było dźwięk tłuczonych naczyń i trzask krzeseł.
 
-he found himself on the summit of the pylon, passed a couple of hours
+— Gdzie jest następca? — ryczał obcy człowiek.
 
-with great delight there.
+— Warta!... Brońcie następcy!... — odpowiedziano z sali.
 
-The province of Ka was a fertile plain. A number of canals and branches
+— Zapalcie światło!... — odezwał się młodzieńczy głos następcy. — Kto mnie szuka?... Tu jestem.
 
-of the Nile passed through it in every direction, like a network of
+Wniesiono pochodnie. Na sali piętrzyły się wywrócone i połamane sprzęty, między którymi kryli się biesiadnicy. Na estradzie książę wydzierał się kobietom, które krzycząc oplątywały mu ręce i nogi. Obok księcia Tutmozis w potarganej peruce, z brązowym dzbanem w ręku, gotów był walić w łeb każdego, kto by się zbliżył. We drzwiach sali ukazało się kilku żołnierzy z obnażonymi mieczami.
 
-silver and lapis lazuli. Melons and wheat sown in November were
+— Co to jest?... Kto tu jest?... — wołał przerażony nomarcha.
 
-ripening. On the fields were crowds of naked people who were gathering
+Nareszcie spostrzeżono sprawcę zamętu. Jakiś olbrzym, nagi, okryty błotem, z krwawymi pręgami na plecach, klęczał na schodach estrady i wyciągał ręce do następcy.
 
-cucumbers or planting cotton. The land was covered with small buildings
+— Oto morderca!... — wrzasnął nomarcha. — Bierzcie go!...
 
-which at points were close together and formed villages.
+Tutmozis podniósł swój dzban, ode drzwi przybiegli żołnierze. Poraniony człowiek upadł twarzą na schody wołając:
 
-Most of the dwellings, especially those in the fields, were mud huts
+— Miłosierdzia, słońce Egiptu!...
 
-covered with straw and palm leaves. In the towns the houses were
+Już mieli go schwycić żołnierze, gdy Ramzes, wydarłszy się kobietom, zbliżył się do nędzarza.
 
-walled, had flat roofs, and looked like white cubes with holes in
+— Nie dotykajcie go! — zawołał na żołnierzy. — Czego chcesz, człowieku?
 
-places where there were doors and windows. Very often on such a cube
+— Chcę ci opowiedzieć o naszych krzywdach, panie...
 
-was another somewhat smaller, and on that a third still smaller, and
+W tej chwili Sofra zbliżywszy się do księcia szepnął:
 
-each story was painted a different color. Under the fiery sun of Egypt
+— To Hyksos... spojrzyj, wasza dostojność, na jego kudłatą brodę i włosy... Jego wreszcie zuchwalstwo, z jakim się tu wdarł, dowodzi, że zbrodniarz ten nie jest urodzonym Egipcjaninem...
 
-those houses looked like great pearls, sapphires, and rubies, scattered
+— Kto jesteś? — spytał książę.
 
-about on the green of the fields, and surrounded by palms and acacias.
+— Jestem Bakura, robotnik z pułku kopaczy w Sochem. Nie mamy teraz zajęcia, więc nomarcha Otoes kazał nam...
 
-From that place Ramses saw a phenomenon which arrested his attention.
+— To pijak i wariat!... — szeptał wzburzony Sofra. — Jak on przemawia do ciebie, panie...
 
-Near the temples the houses were more beautiful, and more people were
+Książę tak spojrzał na nomarchę, że dygnitarz zgięty wpół cofnął się.
 
-moving in the fields about them.
+— Co wam kazał dostojny Otoes? — pytał namiestnik Bakury.
 
-"The lands of the priests are the most valuable," thought he; and once
+— Kazał nam, panie, chodzić brzegiem Nilu, pływać po rzece, stawać przy gościńcach i robić zgiełk na twoją cześć. I obiecał, że za to wyda nam, co się należy... Bo, panie, my już dwa miesiące nie dostawaliśmy nic... Ani placków jęczmiennych, ani ryb, ani oliwy do namaszczania ciała.
 
-again he ran over with his eyes the temples great and small, of which
+— Cóż wy na to, dostojny panie? — zapytał książę nomarchy.
 
-he saw between ten and twenty from the pylon.
+— Niebezpieczny pijak... brzydki kłamca... — odparł Sofra.
 
-But since he had agreed with Herhor, and needed the services of the
+— Jakiżeście to zgiełk robili na moją cześć?
 
-priesthood, he did not care to occupy himself longer with that problem.
+— Jak rozkazano — mówił olbrzym. — Moja żona i córka krzyczały wraz z innymi: „oby żył wiecznie!”, a ja skakałem do wody i ciskałem wieńce do statku waszej dostojności, za co miano mi płacić po utenie. Zaś kiedy wasza cześć raczyłeś wjeżdżać łaskawie do miasta Atribis, mnie naznaczono, abym rzucił się pod konie i zatrzymał wóz...
 
-In the course of the following days the worthy Sofra arranged a series
+Książę zaczął się śmiać.
 
-of hunts for Ramses, setting out toward the east from Atribis. Around
+— Jako żywo — mówił — nie myślałem, że tak wesoło zakończymy ucztę!... A ileż ci zapłacono za to, żeś wpadł pod wóz?
 
-the canals they shot birds with arrows; some they snared in an immense
+— Obiecano mi trzy uteny, ale nie zapłacono nic ani mnie, ani żonie i córce. Również całemu pułkowi nie dano nic do jedzenia przez dwa miesiące.
 
-net trap which took in a number of tens of them, or they let out
+— Z czegóż żyjecie?
 
-falcons against those which were flying at freedom. When the prince's
+— Z żebraniny albo z tego, co się zapracuje u chłopa. Więc w tej ciężkiej nędzy trzy razy buntowaliśmy się i chcieliśmy wracać do domu. Ale oficerowie i pisarze albo obiecywali nam, że oddadzą, albo kazali nas bić...
 
-retinue entered the eastern desert, great hunts began with dogs and
+— Za ten zgiełk dla mnie? — wtrącił śmiejąc się książę.
 
-panthers against wild beasts. Of these they killed and seized, in the
+— Prawdę mówi wasza cześć... Otóż wczoraj był bunt największy, za co jego dostojność nomarcha Sofra kazał nas dziesiątkować... Co dziesiąty brał kije, a ja dostałem najwięcej, bom duży i mam do wykarmienia trzy gęby: moją, żony i córki... Zbity, wydarłem się im, ażeby upaść na mój brzuch przed tobą, panie, i opowiedzieć nasze żale. Ty nas bij, jeżeliśmy winni, ale niech pisarze wydadzą nam, co się należy, bo z głodu pomrzemy — my, żony i dzieci nasze...
 
-course of some days, a couple of hundred.
+— To człowiek opętany!... — zawołał Sofra. — Racz spojrzeć, wasza dostojność, ile on mi szkody narobił... Dziesięciu talentów nie wziąłbym za te stoły, misy i dzbany...
 
-When the worthy Sofra noticed that the prince had had enough of
+Między biesiadnikami, którzy już odzyskali przytomność, zaczął się szmer.
 
-amusement in the open air and of company intents, he ceased hunting and
+— To jakiś bandyta!... — mówiono. — Patrzcie, to naprawdę Hyksos... Jeszcze w nim burzy się przeklęta krew jego dziadów, którzy najechali i zniszczyli Egipt... Takie kosztowne sprzęty... takie ozdobne naczynia porozbijane na proch!...
 
-brought his guest by the shortest road to Atribis.
+— Jeden bunt niezapłaconych robotników więcej sprawia szkody państwu, aniżeli warte są te bogactwa — surowo odezwał się Ramzes.
 
-They arrived about four hours after midday, and the nomarch invited all
+— Święte słowa!... Należy zapisać je na pomnikach — w tejże chwili odezwano się między gośćmi. — Bunt odrywa ludzi od pracy i zasmuca serce jego świątobliwości... Nie godzi się, ażeby robotnicy po dwa miesiące nie odbierali żołdu...
 
-to a feast in his palace.
+Z nieukrywaną pogardą spojrzał książę na zmiennych jak obłoki dworaków i zwrócił się do nomarchy.
 
-He conducted the prince to a bath, he assisted at the bathing, and
+— Oddaję ci — rzekł groźnie — tego skatowanego człowieka. Jestem pewny, że nie spadnie mu włos z głowy. Zaś jutro chcę zobaczyć pułk, do którego należy, i przekonać się, czy skarżący mówił prawdę.
 
-brought out from his own chest perfumes wherewith to anoint Ramses.
+Po tych słowach namiestnik wyszedł, zostawiając nomarchę i gości w wielkim strapieniu.
 
-Then he oversaw the barber who arranged the viceroy's hair; next he
+Na drugi dzień książę, ubierając się przy pomocy Tutmozisa, zapytał go:
 
-kneeled down on the pavement and implored the prince to accept new
+— Czy robotnicy przyszli?
 
-robes from him.
+— Tak, panie. Od świtu czekają na twoje rozkazy.
 
-These were a newly woven tunic covered with embroidery, a skirt worked
+— A ten... ten Bakura jest między nimi?
 
-with pearls, and a mantle interwoven with gold very thickly, but so
+Tutmozis skrzywił się i odparł:
 
-delicate that it could be held between a man's ten fingers.
+— Zdarzył się dziwny wypadek. Dostojny Sofra kazał go zamknąć w pustej piwnicy swego pałacu. Otóż ten hultaj, bardzo silny człowiek, wyłamał drzwi do drugiego lochu, gdzie stało wino, przewrócił kilka dzbanów bardzo kosztownych, a sam tak się spił, że...
 
-The heir accepted this graciously, declaring that he had never received
+— Że co?... — spytał książę.
 
-a gift of such beauty.
+— Że umarł.
 
-The sun set, and the nomarch conducted the prince to the hall of
+Następca zerwał się z krzesła.
 
-entertainment.
+— I ty wierzysz — zawołał — że on sam zapił się na śmierć?...
 
-It was a large court surrounded by columns and paved with mosaic. All
+— Muszę wierzyć, bo nie mam dowodów, że go zabito — odpowiedział Tutmozis.
 
-the walls were covered with paintings representing scenes in the lives
+— Ale ja ich poszukam!... — wybuchnął książę.
 
-of the ancestors of Sofra; hence expeditions by sea, hunts, and
+Biegał po komnacie i parskał jak rozgniewane lwiątko.
 
-battles. Over the space, instead of a roof, was a giant butterfly with
+Gdy nieco uspokoił się, rzekł Tutmozis:
 
-many-colored wings which were moved by hidden slaves to freshen the
+— Nie szukaj, panie, winy tam, gdzie jej nie widać, bo nawet świadków nie znajdziesz. Gdyby ktoś w rzeczy samej z rozkazu nomarchy zadławił tego robotnika, nie przyzna się. Sam umarły także nic nie powie, a zresztą, cóż by znaczyła jego skarga na nomarchę!... W tych warunkach żaden sąd nie zechce rozpocząć śledztwa...
 
-atmosphere. In bronze holders fastened to the columns blazed bright
+— A jeżeli ja każę?... — spytał namiestnik.
 
-tapers which gave out smoke with fragrance.
+— W takim razie przeprowadzą śledztwo i dowiodą niewinności Sofry. Po czym ty, panie, będziesz zawstydzony, a wszyscy nomarchowie, ich krewni i służba zostaną twoimi wrogami.
 
-The hall was divided into two parts: one was empty, the other filled
+Książę stał na środku pokoju i myślał.
 
-with chairs and small tables for guests. Aside in the second part rose
+— Wreszcie — mówił Tutmozis — wszystko zdaje się przemawiać za tym, że nieszczęsny Bakura był pijak albo wariat, a nade wszystko — człowiek obcego pochodzenia. Bo czyliż rodowity i przytomny Egipcjanin, choćby przez rok nie pobierał żołdu i dwa razy tyle dostał kijów, czy ośmieliłby się — wpadać do pałacu nomarchy i z takim wrzaskiem wzywać ciebie?...
 
-a platform on which, under a costly tent with raised sides, was a table
+Ramzes pochylił głowę, a widząc, że w drugim pokoju są dworzanie, rzekł zniżonym głosem:
 
-and a couch for Ramses.
+— Czy ty wiesz, Tutmozisie, że od czasu jak wyruszyłem w tę podróż, Egipt zaczyna mi się wydawać jakiś inny. Niekiedy pytam samego siebie: czy ja jestem w obcym kraju? To znowu serce moje niepokoi się, jakbym miał na oczach zasłonę, poza którą dzieją się łotrostwa, których ja — nie mogę dojrzeć...
 
-At each small table were great vases with palms, acacias, and fig-
+— Toteż i nie wypatruj ich, bo w końcu wyda ci się, żeśmy wszyscy powinni iść do kopalń — odparł ze śmiechem Tutmozis. — Pamiętaj, że nomarchowie i urzędnicy są pasterzami twego stada. Gdy który wydoi miarę mleka dla siebie albo zarznie owcę, przecie go nie zabijesz ani wypędzisz. Owiec masz za dużo, a o pastuchów trudno.
 
-trees. The table of the heir was surrounded with plants having needle-
+Namiestnik, już ubrany, przeszedł do sali poczekalnej, gdzie zebrała się jego świta: kapłani, oficerowie i urzędnicy. Następnie wraz z nimi opuścił pałac i udał się na dziedziniec zewnętrzny.
 
-like leaves; these filled the space round about with the odor of
+Był to obszerny plac zasadzony akacjami, pod cieniem których oczekiwali na księcia robotnicy. Na odgłos trąbki cały tłum zerwał się z ziemi i uszykował w pięć szeregów.
 
-balsam.
+Ramzes, otoczony błyszczącym orszakiem dostojników, nagle zatrzymał się, chcąc najpierwej z daleka obejrzeć pułk kopaczy. Byli to ludzie nadzy, w białych czepcach na głowie i takichże przepaskach około bioder. W szeregach doskonale można było odróżnić brunatnych Egipcjan, ciemnych Murzynów, żółtych Azjatów i białych mieszkańców Libii tudzież wysp Morza Śródziemnego.
 
-The assembled guests greeted the prince with a joyful shout, and when
+W pierwszej linii stali kopacze z oskardami, w drugiej z motykami, w trzeciej z łopatami. Czwarty szereg stanowili tragarze, z których każdy miał drąg i dwa kubełki, piąty również tragarze, lecz z wielkimi skrzyniami obsługiwanymi każda przez dwu ludzi. Przenosili oni wykopaną ziemię.
 
-Ramses occupied his place beneath a baldachin whence there was a view
+Przed szeregami co kilkanaście kroków stali majstrowie: każdy miał w rękach mocny kij i duży cyrkiel drewniany lub węgielnicę.
 
-of the court, his retinue sat down at the tables.
+Kiedy książę zbliżył się do nich, zawołali chórem: „obyś żył wiecznie!”, i uklęknąwszy uderzyli czołem o ziemię. Następca kazał im powstać i znowu przypatrzył się z uwagą.
 
-Harps sounded, and ladies entered in rich muslin robes with open
+Byli to ludzie zdrowi i silni, bynajmniej nie wyglądający na takich, którzy od dwu miesięcy utrzymywali się z żebraniny.
 
-bosoms; precious stones were glittering upon their persons. Four of the
+Do namiestnika przystąpił nomarcha Sofra ze swoim orszakiem. Ale Ramzes udając, że go nie spostrzegł, zwrócił się do jednego z majstrów:
 
-most beautiful surrounded Ramses; the others sat near the dignitaries
+— Jesteście kopaczami z Sochem? — zapytał.
 
-of his retinue.
+Majster jak długi upadł twarzą na ziemię i milczał.
 
-In the air was the fragrance of roses, lilies of the valley, and
+Książę wzruszył ramionami i zawołał do robotników:
 
-violets; the prince felt the throbbing of his temples.
+— Jesteście z Sochem?
 
-Slaves, male and female, in white, rose-colored, and blue tunics,
+— Jesteśmy kopacze z Sochem!... — odpowiedzieli chórem.
 
-brought in cakes, roasted birds, and game, fish, wine, fruits, also
+— Dostaliście żołd?
 
-garlands of flowers with which the guests crowned themselves. The
+— Żołd dostaliśmy — jesteśmy syci i szczęśliwi — słudzy jego świątobliwości — odparł chór, wybijając każdy wyraz.
 
-immense butterfly moved its wings more and more quickly, and in the
+— W tył zwrot!... — zakomenderował książę.
 
-unoccupied part of the court was a spectacle. In turn appeared dancers,
+Odwrócili się. Prawie każdy miał na plecach głębokie i gęste blizny od kijów; ale świeżych pręg nie było.
 
-gymnasts, buffoons, performers of tricks, swordsmen; when any one gave
+„Oszukują mnie!...” — pomyślał następca. Kazał robotnikom iść do koszar i nie witając się ani żegnając z nomarchą, wrócił do pałacu.
 
-an unusual proof of dexterity, the spectators threw to him gold rings
+— Czy i ty mi powiesz — rzekł w drodze do Tutmozisa — że ci ludzie są robotnikami z Sochem?...
 
-or flowers from their garlands.
+— Wszakże oni sami to powiedzieli — odparł dworak. Książę zawołał, aby mu podano konia, i odjechał do wojsk obozujących za miastem.
 
-The feast lasted some hours, interspersedwith shouts of guests wishing
+Cały dzień musztrował pułki. Około południa na placu ćwiczeń, pod dowództwem nomarchy, ukazało się kilkudziesięciu tragarzy z namiotami, sprzętami, jadłem i winem. Ale książę odprawił ich do Atribis, a gdy nadszedł czas posiłku dla wojska, kazał sobie podać i jadł owsiane placki z suszonym mięsem.
 
-happiness to the prince, and to the nomarch and his family.
+Były to najemne pułki libijskie. Kiedy książę wieczorem kazał im odłożyć broń i pożegnał się z nimi, zdawało się, że żołnierze i oficerowie ulegli szaleństwu. Krzycząc: „żyj wiecznie!”, całowali jego ręce i nogi, zrobili lektykę z włóczni i płaszczów, ze śpiewami odnieśli księcia do miasta, a w drodze kłócili się o zaszczyt dźwigania go na ramionach.
 
-Ramses, who was in a reclining position on a couch covered with a
+Nomarcha i urzędnicy prowincji, widząc zapał barbarzyńskich Libijczyków i łaskę dla nich następcy, zatrwożyli się.
 
-lion's skin which had golden claws, was served by four ladies. One
+— Oto jest władca!... — szepnął do Sofry wielki pisarz. — Gdyby zechciał, ci ludzie pobiliby mieczem nas i dzieci nasze...
 
-fanned him; another changed the garland on his head; the other two
+Strapiony nomarcha westchnął do bogów i polecił się ich łaskawej opiece.
 
-offered food to him. Toward the end of the feast the one with whom the
+Późno w nocy Ramzes znalazł się w swym pałacu i tu powiedziała mu służba, że zmieniono mu pokój sypialny.
 
-prince talked with most willingness brought a goblet of wine. Ramses
+— Dlaczegóż to?
 
-drank half, and gave the remainder to the woman; when she had drunk
+— Bo w tamtej sypialni widziano jadowitego węża, który skrył się tak, że nie można go znaleźć.
 
-that half, he kissed her lips.
+W skrzydle sąsiadującym z domem nomarchy znajdowała się nowa sypialnia. Był to czworoboczny pokój otoczony kolumnami. Miał alabastrowe ściany pokryte malowaną płaskorzeźbą przedstawiającą u dołu — rośliny w wazonach, wyżej — girlandy z liści oliwkowych i laurowych.
 
-Slaves quenched the torches then quickly, the butterfly ceased to move
+Prawie na środku stało wielkie łoże wykładane hebanem, kością słoniową i złotem. Pokój oświetlały dwie wonne pochodnie, pod kolumnadą znajdowały się stoliki z winem, jadłem i wieńcami z róż.
 
-its wings, there was night in the court, and silence interrupted by the
+W suficie był wielki otwór czworoboczny zasłonięty płótnem.
 
-nervous laughter of women.
+Książę wykąpał się i legł na miękkim posłaniu, jego służba odeszła do dalszych komnat. Pochodnie zaczęły przygasać, po sypialni wionął chłodny wiatr nasycony wonią kwiatów. Jednocześnie w górze odezwała się cicha muzyka arf.
 
-All on a sudden the quick tramping of people was heard and a terrible
+Ramzes podniósł głowę. Płócienny dach pokoju usunął się i przez otwór w suficie widać było konstelację Lwa, a w niej jasną gwiazdę Regulusa. Muzyka arf wzmogła się.
 
-shouting.
+„Czy bogowie wybierają się do mnie w odwiedziny?...” — pomyślał z uśmiechem Ramzes.
 
-"Let me in!" cried a hoarse voice. "Where is the heir? Where is the
+W otworze sufitu błysnęła szeroka smuga światła; było ono mocne, lecz łagodne. W chwilę później ukazała się w górze lektyka w formie złotej łodzi, niosącej altankę z kwiatów: słupy były okręcone girlandami z róż, dach z fiołków i lotosów.
 
-viceroy?"
+Na sznurach, spowitych zielonością, złota łódź bez szmeru opuściła się do sypialnej komnaty. Stanęła na podłodze, a spod kwiatów wyszła niepospolitej piękności naga kobieta. Ciało jej miało ton białego marmuru; od bursztynowej fali włosów płynęła woń upajająca.
 
-There was a dreadful disturbance in the hall. Women were terrified; men
+Kobieta, wysiadłszy ze swej napowietrznej lektyki, uklękła przed księciem.
 
-called out,
+— Jesteś córką Sofry?... — spytał jej następca.
 
-"What is it? An attack on the heir! Hei, guards!"
+— Prawdę mówisz, panie...
 
-The sound of broken dishes was heard, and the rattle of chairs.
+— I mimo to przyszłaś do mnie?
 
-"Where is the heir?" bellowed the stranger.
+— Błagać cię, ażebyś przebaczył memu ojcu... Nieszczęśliwy on!... od południa leje łzy i tarza się w popiele...
 
-"Guards! Defend the life of the heir!" shouted men in the courtyard.
+— A gdybym mu nie przebaczył, odeszłabyś?
 
-"Light the torches!" called the youthful voice of the heir. "Who is
+— Nie... — cicho szepnęła.
 
-looking for me? Here I am!"
+Ramzes przyciągnął ją do siebie i namiętnie pocałował. Oczy płonęły mu.
 
-Torches were brought. In the hall were piles of overturned and broken
+— Dlatego przebaczę mu — rzekł.
 
-furniture behind which guests were in hiding. On the platform the
+— O, jakiś ty dobry!... — zawołała, tuląc się do księcia. A potem dodała z przymileniem:
 
-prince tore away from the women, who screamed while they held to his
+— Każesz wynagrodzić szkody, które wyrządził mu ten szalony robotnik?
 
-legs and arms firmly. Near the prince was Tutmosis, his wig torn, a
+— Każę...
 
-bronze pitcher in his hand with which he was ready to open the head of
+— I mnie weźmiesz do swego domu...
 
-any one who dared to go nearer the viceroy. At the door of the hall
+Ramzes popatrzył na nią.
 
-appeared warriors with swords drawn for action.
+— Wezmę cię, bo jesteś piękna.
 
-"What is this? Who is here?" cried the terrified nomarch.
+— Doprawdy?... — odparła, obejmując go za szyję. — Przypatrz mi się lepiej... Między pięknymi Egiptu zajmuję dopiero czwarte miejsce.
 
-At last they beheld the author of the disturbance, a gigantic man,
+— Cóż to znaczy?
 
-naked, and mud-covered. He had bloody stripes on his shoulders; he was
+— W Memfis, czy koło Memfis, mieszka twoja najpierwsza.... Na szczęście tylko Żydówka!... W Sochem jest druga...
 
-kneeling on the steps of the platform and stretching his hands toward
+— Nic o tym nie wiem — wtrącił książę.
 
-Ramses.
+— O, ty gołąbku!... Więc zapewne nie wiesz i o trzeciej w Anu...
 
-"This is the murderer," shouted the nomarch. "Seize him!"
+— Czy i ona należy do mego domu?...
 
-Tutmosis raised his pitcher; soldiers rushed up from the door. The
+— Niewdzięczniku!... — zawołała, uderzając go kwiatem lotosu. — Gotów jesteś za miesiąc o mnie powiedzieć to samo... Ale ja nie dam zrobić sobie krzywdy...
 
-wounded man fell with his face to the steps, crying,
+— Jak i twój ojciec.
 
-"Have mercy, sun of Egypt!"
+— Jeszcześ mu nie zapomniał?... Pamiętaj, że odejdę...
 
-The soldiers were ready to seize him when Ramses pulled himself free of
+— Zostań już... zostań!...
 
-the women and approached the unfortunate giant.
+Na drugi dzień namiestnik raczył przyjąć hołdy i ucztę od nomarchy Sofra. Publicznie pochwalił jego zarząd prowincją i aby wynagrodzić szkody wyrządzone przez pijanego robotnika, darował mu połowę naczyń i sprzętów, które otrzymał w mieście Anu.
 
-"Touch him not!" cried Ramses to the warriors. "What dost Thou wish,
+Drugą połowę tych darów zabrała córka nomarchy, piękna Abeb, jako dama dworu księcia. Nadto kazała sobie wypłacić z kasy Ramzesa pięć talentów na stroje, konie i niewolnice.
 
-man?"
+Wieczorem książę ziewając rzekł do Tutmozisa:
 
-"I wish, lord, to tell thee of the wrongs which we suffer."
+— Jego świątobliwość, ojciec mój, powiedział mi wielką naukę, że — kobiety dużo kosztują!
 
-At that moment the nomarch stepped up to the viceroy and whispered,
+— Gorzej, gdy ich nie ma — odparł elegant.
 
-"This is a Hyksos. Look, worthiness, at his shaggy hair and his beard.
+— Ale ja mam ich cztery i nawet dobrze nie wiem, jakim sposobem. Mógłbym ze dwie odstąpić wam.
 
-But the insolence with which he burst in proves that the criminal is
+— Czy i Sarę?
 
-not a genuine Egyptian."
+— Tej nie, szczególniej jeżeli będzie miała syna.
 
-"Who art thou?" asked Ramses.
+— Jeżeli wasza dostojność przeznaczysz tym synogarlicom ładny posag, znajdą się dla nich mężowie.
 
-"I am Bakura, a laborer in the regiment of diggers in Sochem. We have
+Książę znowu ziewnął.
 
-no work now, so the nomarch Otoes commanded us."
+— Nie lubię słuchać o posagach — rzekł. — Aaa!... jakie to szczęście, że już wyrwę się od was i osiądę między kapłanami...
 
-"He is a drunkard and a madman!" whispered the excited Sofra. "How
+— Naprawdę, uczynisz tak?...
 
-dares he speak to thee, lord."
-
-The prince gave such a look to the nomarch that he bent double and
-
-moved backward.
-
-"What did the worthy Otoes command you the workers?" asked the viceroy
-
-of Bakura.
-
-"He commanded us, lord, to go along the bank of the Nile, swim in the
-
-river, stand at the roads, make an uproar in thy honor, and he promised
-
-to give us what was proper for doing so. For two months before that,
-
-we, O lord, received nothing, neither barley cakes, nor fish, nor olive
-
-oil for our bodies."
-
-"What is thy answer to this, worthy lord?" asked the prince of the
-
-nomarch.
-
-"He is a dangerous drunkard, a foul liar," answered Sofra.
-
-"What noise didst Thou make in my honor?"
-
-"That which was commanded," said the giant. "My wife and daughter cried
-
-with the others, 'May he live through eternity!' I sprang into the
-
-water and threw a garland at thy barge, worthiness; for this they
-
-promised an uten. When Thou wert pleased graciously to enter the city
-
-of Atribis, I approached to throw myself under the horses and stop thy
-
-chariot."
-
-The prince laughed.
-
-"As I live," said he, "I did not think that we should end the feast
-
-with such joyousness. But how much did they pay thee for falling under
-
-the chariot?"
-
-"They promised three utens, but have paid nothing to me or my wife or
-
-my daughter. Nothing has been given to the whole regiment of diggers to
-
-eat for two months past."
-
-"On what do ye live then?"
-
-"On begging, or on that which we earn from some earthworker. In this
-
-sore distress we revolted three times, and desired to go home. But the
-
-officers and scribes either promised to give something or commanded to
-
-beat us."
-
-"For the noise made in my honor?" put in the prince, laughing.
-
-"Thy worthiness speaks truth. Yesterday the revolt was greatest, for
-
-which the worthy nomarch Sofra gave command to take the tenth man.
-
-Every tenth man was clubbed, and I got the most, for I am big and have
-
-three mouths to feed, my own, my wife's, and my daughter's. When I was
-
-clubbed I broke away from them to fall down, O lord, in thy presence,
-
-and tell thee our sorrows. Beat us if we are guilty, but let the
-
-scribes give us that which is due, for we are dying of hunger, we, our
-
-wives, and our children."
-
-"This man is possessed!" exclaimed Sofra. "Be pleased, lord, to see the
-
-damage he has wrought here. I would not take ten talents for those
-
-dishes, pitchers, and tables."
-
-Among the guests, who now were recovering their senses, a muttering
-
-began.
-
-"This is a bandit!" said they. "Look at him, really a Hyksos. Boiling
-
-up in him is the cursed blood of his ancestors, the men who invaded and
-
-ruined Egypt. Such costly furniture, such splendid vessels, broken into
-
-fragments!"
-
-"The loss caused the state by one rebellion of unpaid laborers is
-
-greater than the value of these vessels," said Ramses.
-
-"Sacred words! They should be written on monuments," said some among
-
-the guests. "Rebellion takes people from their labor and grieves the
-
-heart of his holiness. It is not proper that laborers should be unpaid
-
-for two months in succession."
-
-The prince looked with contempt on those courtiers, changeable as
-
-clouds; he turned then to the nomarch.
-
-"I give thee," said he, threateningly, "this punished man. I am certain
-
-that a hair of his head will not fall from him. Tomorrow morning I wish
-
-to see the regiment to which he belongs and learn whether he speaks
-
-truth or falsehood."
-
-After these words Ramses went out, leaving the nomarch and the guests
-
-in vexation.
-
-Next morning the prince, while dressing with the aid of Tutmosis, asked
-
-him,
-
-"Have the laborers come?"
-
-"They have, lord; they have been waiting for thy commands since
-
-daybreak."
-
-"And is that man Bakura among them?"
-
-Tutmosis made a wry face and answered,
-
-"A marvelous thing has happened. The worthy Sofra gave command to shut
-
-the fellow up in an empty cellar of the palace. Well, the disorderly
-
-rascal, a very strong man, broke the door to another place where there
-
-is wine; he overturned a number of pots of very costly wine, and got so
-
-drunk that."
-
-"That what?" asked the prince.
-
-"That he perished."
-
-The prince sprang up from his chair.
-
-"And dost them believe that he drank himself to death?"
-
-"I must believe, for I have no proof that they killed him."
-
-"But if I look for proof?" burst out the prince.
-
-He ran through the room, and snorted like an angry lion. When he was
-
-somewhat quieted, Tutmosis added,
-
-"Seek not for proof where it is not to be discovered, for Thou wilt not
-
-find even witnesses. If any man strangled that laborer at command of
-
-the nomarch, he will not confess; the laborer himself is dead, and will
-
-not say anything; besides, what would his complaint against the nomarch
-
-amount to? In these conditions no court would begin to investigate."
-
-"But if I command?" asked the viceroy.
-
-"In that case they will investigate and prove the innocence of Sofra.
-
-Then Thou wilt be put to shame, and all the nomarchs with their
-
-relatives and servants will become thy enemies."
-
-The prince stood in the middle of the chamber and pondered.
-
-"Finally," said Tutmosis, "everything seems to show this, that the
-
-unfortunate Bakura was a drunkard or a maniac, and, above all, a man of
-
-foreign blood. If a genuine Egyptian in his senses were to go without
-
-pay for a year, and be clubbed twice as much as this man, would he dare
-
-to break into the palace of the nomarch and appeal to thee with such an
-
-outcry?"
-
-Ramses bent his head, and seeing that there were nobles in the next
-
-chamber, he said in a voice somewhat lowered,
-
-"Knowest thou, Tutmosis, since I set out on this journey Egypt begins
-
-to appear somehow strange to me? At times I ask my own self if I am not
-
-in some foreign region. Then again my heart is disturbed, as if I had a
-
-curtain before me, behind which all kinds of villainy are practiced,
-
-but which I myself cannot see with my own eyes."
-
-"Then do not look at them; for if Thou do, it will seem at last to thee
-
-that we should all be sent to the quarries," said Tutmosis, smiling.
-
-"Remember that the nomarchs and officials are the shepherds of thy
-
-flock. If one of them takes a measure of milk for himself, or kills a
-
-little sheep, of course Thou wilt not kill him or drive the man away.
-
-Thou hast many sheep, and it is not easy to find shepherds."
-
-The viceroy, now dressed, passed into the hall of waiting, where his
-
-suite stood assembled, priests, officers, and officials. Then he left
-
-the palace with them, and went to the outer courtyard.
-
-That was a broad space, planted with acacias, under the shade of which
-
-the laborers were waiting for the viceroy. At the sound of a trumpet
-
-the whole crowd sprang up, and stood in five ranks before him.
-
-Ramses, attended by a glittering retinue of dignitaries, halted
-
-suddenly, wishing, first of all, to look at the regiment from a
-
-distance. The men were naked, each with a white cap on his head, and
-
-girt about the hips with stuff like that of which the cap was made. In
-
-the ranks Ramses could distinguish easily the brown Egyptian, the
-
-negro, the yellow Asiatic, the white inhabitants of Libya, and also the
-
-Mediterranean islands.
-
-In the first rank stood workers with pickaxes, in the second those with
-
-mattocks, in the third those with shovels. The fourth rank was composed
-
-of carriers, of whom each had a pole and two buckets; the fifth was
-
-also of carriers, but with large boxes borne by two men. These last
-
-carried earth freshly dug.
-
-In front of the ranks, some yards distant, stood the overseers; each
-
-held a long stick in his hand, and either a large wooden circle or a
-
-square measure.
-
-When the prince approached them, they cried in a chorus,
-
-"Live Thou through eternity!" and kneeling, they struck the earth with
-
-their foreheads. The heir commanded them to rise, and surveyed them
-
-again with attention.
-
-They were healthy, strong persons, not looking in the least like men
-
-who had lived two months on begging.
-
-Sofra with his retinue approached the prince. But Ramses, feigning not
-
-to see him, turned to one of the overseers,
-
-"Are ye earth-tillers from Sochem?" inquired he.
-
-The overseer fell at full length with his face to the earth.
-
-The prince shrugged his shoulders, and called out to the laborers,
-
-"Are ye from Sochem?"
-
-"We are earth workers from Sochem," answered they, in chorus.
-
-"Have ye received pay?"
-
-"We have received pay; we are sated and happy servants of his
-
-holiness," answered the chorus, giving out each word with emphasis.
-
-"Turn around!" commanded the prince.
-
-They turned. It is true that each had frequent and deep scars from the
-
-club, but no fresh stripes on their bodies.
-
-"They are deceiving me," thought the heir.
-
-He commanded the laborers to go to their barracks, and, without
-
-greeting the nomarch or taking leave of him, he returned to the palace.
-
-"Wilt thou, too, tell me," said he to Tutmosis on the road, "that those
-
-men are laborers from Sochem?"
-
-"But they say that they are, they themselves give answer," replied the
-
-courtier.
-
-Ramses gave command to bring his horse, and he rode to the army
-
-encamped beyond the city. He reviewed the regiments all day. About
-
-noon, on the field of exercise, appeared, at command of the nomarch,
-
-some tens of carriers with food and wine, tents and furniture. But the
-
-prince sent them back to Atribis; and when the hour came for army food,
-
-he commanded to serve that to him; so he ate dried meat with oat cakes.
-
-These were the mercenary regiments of Libya. When the prince ordered
-
-them to lay aside arms in the evening, and took farewell of the men, it
-
-seemed as though the soldiers and officers had yielded to madness.
-
-Shouting "May he live through eternity!" they kissed his hands and
-
-feet, made a litter of their spears and mantles, and bore him to the
-
-city, disputing on the way with one another for the honor of carrying
-
-the heir on their shoulders.
-
-The nomarch and the officials of the province were frightened, when
-
-they saw the enthusiasm of the Libyans, and the favor which the heir
-
-showed barbarians.
-
-"Here is a ruler!" whispered the chief secretary to Sofra. "If he
-
-wished, those people would kill us and our children."
-
-The troubled nomarch sighed to the gods, and commended himself to their
-
-gracious protection.
-
-Late at night Ramses found himself in his own palace, and there the
-
-servants told him that another bedchamber had been given him.
-
-"Why is this?"
-
-"Because in the first chamber people saw a poisonous serpent, which
-
-hid, and no one could find it."
-
-In a wing near the house of the nomarch was a new sleeping chamber, a
-
-four-cornered room, surrounded by columns on all sides. Its walls were
-
-of alabaster, covered with painted bas-reliefs; below were plants in
-
-vases; higher up garlands of olive and laurel.
-
-Almost in the centre of the room stood a great bed inlaid with ebony,
-
-gold, and ivory. The chamber was lighted by two fragrant tapers; under
-
-the colonnade were small tables with wine, food, and garlands of roses.
-
-In the ceiling was a large quadrangular opening covered with linen.
-
-The prince bathed and lay on the soft bed; his servants went to remote
-
-chambers. The tapers were burning out; cool air filled with the odor of
-
-flowers moved in the chamber. At the same time low music from harps was
-
-heard above him.
-
-Ramses raised his head. The linen canopy of the chamber slipped to one
-
-side, and through the opening he saw the constellation Leo, and in it
-
-the brilliant star Regulus. The music of harps became louder.
-
-"Are the gods preparing to make me a visit?" thought the viceroy, with
-
-a smile.
-
-In the opening of the ceiling shone a broad streak of light; it was
-
-powerful but tempered. A moment later a litter appeared in the form of
-
-a golden boat, bearing a small arbor with flowers in it; the pillars of
-
-the arbor were entwined with garlands of roses, the top of it covered
-
-with lotuses and violets.
-
-On ropes, entwined with green, the golden boat descended to the chamber
-
-in silence. It stopped on the pavement, and from beneath the flowers
-
-came forth a naked maiden of unparalleled beauty. Her body had the
-
-smoothness of marble; from her amber-like waves of hair came an
-
-intoxicating odor.
-
-The maiden stepped from the litter and knelt before Ramses.
-
-"Art Thou the daughter of Sofra?" asked he.
-
-"Thou speakest truth, Lord Ramses."
-
-"And still Thou hast come to me!"
-
-"To implore thee to pardon my father. He is unhappy; since midday he
-
-has been shedding tears and covering his head with ashes."
-
-"And if I would not forgive him, wouldst Thou leave me?"
-
-"No," whispered she.
-
-Ramses drew her toward him and kissed her with passion. His eyes
-
-flashed.
-
-"For this I forgive him."
-
-"Oh, how good Thou art!" cried she, nestling up to Ramses; then she
-
-added with sweetness,
-
-"Wilt Thou command a reward for the damages done by that mad laborer?"
-
-"I will command."
-
-"And wilt Thou take me to thy household?"
-
-Ramses looked at her.
-
-"I will take thee, for Thou art a beauty."
-
-"Really?" asked she, putting her arm around his neck. "Look at me
-
-better. Among the beauties of Egypt I hold only the fourth place."
-
-"What does that mean?"
-
-"In Memphis, or near there, dwells thy first; happily she is only a
-
-Jewess! In Sochem is the second."
-
-"I know nothing of that one," interrupted Ramses.
-
-"Oh, Thou dove! Then surely Thou knowest nothing of the third one in
-
-Ami."
-
-"Does she too belong to my household?"
-
-"Ungrateful!" cried the girl, striking him with a lotus flower. "Thou
-
-wouldst be ready to say the same of me a month hence. But I will not
-
-let myself be injured."
-
-"Like thy father."
-
-"Hast Thou not forgotten him yet? Remember that I will go-"
-
-"Stay, stay!"
-
-Next day the viceroy was pleased to receive homage and a feast from
-
-Sofra. He praised in public the nomarch's government of the province,
-
-and to reward him for the damages caused by the drunken laborer, Ramses
-
-presented him with one-half of the furniture and vessels presented in
-
-Anu.
-
-The second half of those gifts was taken by the beautiful Abeb,
-
-daughter of the nomarch, as lady of the court. Besides, she commanded
-
-that five talents be given her from the treasury of the viceroy, for
-
-clothes, slaves, and horses.
-
-In the evening the prince, while yawning, spoke thus to Tutmosis,
-
-"His holiness my father gave me a great lesson when he said that women
-
-are very costly."
-
-"The position is worse when there are no women," replied the exquisite.
-
-"But I have four, and I do not even know clearly how. I might give thee
-
-two of them."
-
-"And Sarah?"
-
-"Not her, especially if she has a son."
-
-"If Thou wilt assign a good dowry, husbands will be found for those
-
-charmers most easily."
-
-The prince yawned a second time.
-
-"I do not like to hear of dowries," said he. "Aaa! What luck, that I
-
-shall tear away from thee and settle among the priests!"
-
-"Wilt Thou indeed?"
-
-"I must. At last I shall learn of them why the pharaohs are growing
-
-poorer. Well, I shall sleep."
+— Muszę. Nareszcie może dowiem się od nich, dlaczego faraoni biednieją... Aaa!... no — i odpocznę.

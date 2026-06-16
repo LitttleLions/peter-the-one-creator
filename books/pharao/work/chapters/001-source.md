@@ -1,733 +1,224 @@
-# Kapitel 1: CHAPTER I
+# Kapitel 001: Tom I - Rozdział I
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part5.xhtml*
 
 <!-- status: pending -->
 
-In the thirty-third year of the happy reign of Ramses XII, Egypt
+W trzydziestym trzecim roku szczęśliwego panowania Ramzesa XII Egipt święcił dwie uroczystości, które prawowiernych jego mieszkańców napełniły dumą i słodyczą.
 
-celebrated two festivals which filled all its faithful inhabitants with
+W miesiącu Mechir, w grudniu, wrócił do Teb, obsypany kosztownymi darami, bożek Chonsu
 
-pride and delight.
+Zaś w miesiącu Farmuti, w lutym, pan Górnego i Dolnego Egiptu, władca Fenicji i dziewięciu narodów, Mer-amen-Ramzes XII, po naradzeniu się z bogami, którym jest równy, mianował swoim erpatrem, czyli następcą tronu, dwudziestodwuletniego syna Chamsem-merer-amen-Ramzesa.
 
-In the month of Mechir that is, during January the god Khonsu returned
+Wybór ten wielce uradował pobożnych kapłanów, dostojnych nomarchów, waleczną armię, wierny lud i wszelkie żyjące na ziemi egipskiej stworzenie. Starsi bowiem synowie faraona, urodzeni z królewny chetyjskiej
 
-to Thebes covered with costly gifts. For three years and nine months he
+Dopiero czwarty syn, Ramzes, urodzony z królowej Nikotris, córki arcykapłana Amenhotepa, był silny jak wół Apis
 
-had traveled in the country of Buchten, where he restored health to the
+— Gdyby bogowie, zamiast młodszym synem królewskim, uczynili mnie faraonem, podbiłbym, jak Ramzes Wielki, dziewięć narodów, o których nigdy w Egipcie nie słyszano, zbudowałbym świątynię większą aniżeli całe Teby, a dla siebie wzniósłbym piramidę, przy której grób Cheopsa
 
-king's daughter, Bentres, and expelled an evil spirit not only from the
+Otrzymawszy tak pożądany tytuł erpatra, młody książę poprosił ojca o łaskawe mianowanie go dowódcą korpusu Menfi. Na co jego świątobliwość Ramzes XII, po naradzie z bogami, którym jest równy, odpowiedział, iż uczyni to, jeżeli następca tronu złoży dowód, że potrafi kierować masą wojsk na stopie bojowej.
 
-royal family, but even from the fortress.
+W tym celu zwołaną została rada pod prezydencją ministra wojny San-amen-Herhora, który był arcykapłanem największej świątyni — Amona w Tebach.
 
-So in the month Farmuti (February) Mer-Amen-Ramses XII, the lord of
+Rada postanowiła:
 
-Upper and Lower Egypt, the ruler of Phoenicia and nine nations, after
+Następca tronu w połowie miesiąca Misori (początek czerwca) zbierze dziesięć pułków rozlokowanych wzdłuż linii, która łączy miasto Memfis z miastem Pi-Uto leżącym w Zatoce Sebenickiej
 
-consultation with the gods to whom he was equal, named as erpatr, or
+Z dziesięciotysięcznym korpusem, przygotowanym do boju, zaopatrzonym w obóz i machiny wojenne następca uda się na wschód, ku gościńcowi, który biegnie od Memfis do Chetem, na granicy ziemi Gosen
 
-heir to the throne, his son, aged twenty years, Cham-Sem Merer-Amen-
+W tym czasie jenerał Nitager, naczelny wódz armii, która strzeże bram Egiptu od najazdu azjatyckich ludów, ma wyruszyć od Gorzkich Jezior
 
-Ramses.
+Obie armie: azjatycka i zachodnia, zetkną się w okolicach miasta Pi-Bailos, ale — na pustyni, ażeby pracowity rolnik ziemi Gosen nie doznał przeszkód w swoich zajęciach.
 
-This choice delighted the pious priests, the worthy nomarchs, the
+Następca tronu zwycięży, jeżeli nie da się zaskoczyć Nitagerowi, a więc — jeżeli zgromadzi wszystkie pułki i zdąży ustawić je w szyku bojowym na spotkanie nieprzyjaciela.
 
-valiant army, the faithful people, and every creature living in Egypt,
+W obozie księcia Ramzesa znajdować się będzie sam jego dostojność Herhor, minister wojny, i o biegu wypadków złoży raport faraonowi.
 
-because the older sons of the pharaoh, who were born of a Hittite
+Granicę ziemi Gosen i pustyni stanowiły dwie drogi komunikacyjne. Jedną był kanał transportowy od Memfis do jeziora Timsah, drugą — szosa. Kanał znajdował się jeszcze w ziemi Gosen, szosa już w pustyni, którą obie drogi otaczały półkolem. Z szosy prawie na całej przestrzeni widać było kanał.
 
-princess, had been visited by an evil spirit through enchantments which
+Niezależnie od sztucznych granic sąsiadujące krainy różniły się pod każdym względem. Ziemia Gosen pomimo falistości gruntu wydawała się równiną, pustynię zaś składały wapienne wzgórza i doliny piaszczyste. Ziemia Gosen wyglądała jak olbrzymia szachownica, której zielone i żółte poletka odgraniczały się barwą zbóż i palmami rosnącymi na miedzach; zaś na rudym piasku pustyni i jej białych wzgórzach płat zieloności albo kępa drzew i krzaków wyglądały jak zabłąkany podróżny.
 
-no one had the power to investigate. One son of twenty-seven years was
+Na płodnej ziemi Gosen z każdego pagórka tryskał ciemny gaj akacji, sykomorów i tamaryndusów
 
-unable to walk after reaching maturity; the second opened his veins and
+W pustyni, spoza pierwszego szeregu trochę zielonych pagórków, wyzierały nagie wzgórza, zasłane stertami głazów. Zdawało się, że przesycony nadmiarem życia kraj zachodni z królewską hojnością rzuca na drugą stronę kanału zieleń i kwiaty; lecz wiecznie głodna pustynia pożera je w następnym roku i przerabia na popiół.
 
-died; the third, through poisoned wine, which he would not cease
+Odrobina roślinności, wygnanej na skały i piaski, trzymała się miejsc niższych, dokąd za pomocą rowów, przebitych w nasypie szosy, można było doprowadzać wodę z kanału. Jakoż między łysymi wzgórzami, w pobliżu szosy, piły rosę niebieską ukryte oazy, gdzie rósł jęczmień i pszenica, winny krzew, palmy i tamaryndusy.
 
-drinking, fell into madness, and believing himself a monkey, passed
+W takich miejscach żyli i ludzie — pojedynczymi rodzinami, którzy, spotkawszy się na targu w Pi-Bailos, mogli nawet nie wiedzieć, że sąsiadują ze sobą na pustyni.
 
-whole days among tree branches.
+Szesnastego Misori koncentracja wojsk była prawie skończona. Dziesięć pułków następcy tronu, które miały zluzować azjatyckie wojska Nitagera, już zebrały się na gościńcu, powyżej miasta Pi-Bailos, z obozem i częścią wojennych machin.
 
-But the fourth son, Ramses, born of Queen Nikotris, daughter of the
+Ruchami ich kierował sam następca. On zorganizował dwie linie zwiadów, z których dalsza miała śledzić nieprzyjaciół, bliższa — pilnować własnej armii od napadu, który był możliwym w okolicy pełnej wzgórz i wąwozów. On, Ramzes, w ciągu tygodnia sam objechał i obejrzał maszerujące różnymi traktami pułki pilnie bacząc: czy żołnierze mają porządną broń i ciepłe płaszcze na noc, czy w obozach znajduje się dostateczna ilość sucharów, mięsa i suszonych ryb. On wreszcie rozkazał, aby żony, dzieci i niewolników wojsk, idących na granicę wschodnią, przewieziono kanałem, co wpłynęło na zmniejszenie obozów i ułatwiło ruchy właściwej armii.
 
-priest Amenhotep, was as strong as the bull Apis, as brave as a lion,
+Najstarsi jenerałowie podziwiali wiedzę, zapał i ostrożność następcy tronu, a nade wszystko jego pracę i prostotę. Swój liczny dwór, książęcy namiot, wozy i lektyki zostawił on w Memfis; a sam w odzieży prostego oficera jeździł od pułku do pułku, konno, na sposób asyryjski, w towarzystwie dwu adiutantów.
 
-and as wise as the priests. From childhood he surrounded himself with
+Dzięki temu koncentracja właściwego korpusu poszła bardzo szybko i wojska w oznaczonym czasie stanęły pod Pi-Bailos.
 
-warriors, and while still a common prince, used to say,
+Inaczej było z książęcym sztabem, z greckim pułkiem, który mu towarzyszył, i kilkoma wojennymi machinami.
 
-"If the gods, instead of making me the youngest son of his holiness,
+Sztab, zebrany w Memfis, miał drogę najkrótszą, więc wyruszył najpóźniej, ciągnąc za sobą ogromny obóz. Prawie każdy oficer, a byli to panicze wielkich rodów, miał lektykę z czterema Murzynami, dwukolny wóz wojenny, bogaty namiot i mnóstwo skrzynek z odzieżą i jedzeniem tudzież dzbanów pełnych piwa i wina.
 
-had made me a pharaoh, like Ramses the Great, I would conquer nine
+Prócz tego za oficerami wybrała się w podróż liczna trupa śpiewaczek i tancerek z muzyką; każda zaś, jako wielka dama, musiała mieć wóz, zaprzężony w jedną lub dwie pary wołów, i lektykę.
 
-nations, of which people in Egypt have never heard mention; I would
+Gdy ciżba ta wylała się z Memfis, zajęła na gościńcu więcej miejsca aniżeli armia następcy tronu. Maszerowano zaś tak powoli, że machiny wojenne, które zostawiono na końcu, ruszyły o dobę później, aniżeli był rozkaz. Na domiar złego, śpiewaczki i tancerki zobaczywszy pustynię, wcale jeszcze niestraszną w tym miejscu, zaczęły bać się i płakać. Więc, dla uspokojenia ich, trzeba było przyśpieszyć nocleg, rozbić namioty i urządzić widowisko, a potem ucztę.
 
-build a temple larger than all Thebes, and rear for myself a pyramid
+Nocna zabawa, w chłodzie, pod gwiaździstym niebem, na tle dzikiej natury, tak podobała się tancerkom i śpiewaczkom, że oświadczyły, iż odtąd będą występować tylko w pustyni. Tymczasem następca tronu, dowiedziawszy się w drodze o sprawach swego sztabu, przysłał rozkaz, ażeby jak najprędzej zawrócono kobiety do miasta i przyśpieszono pochód.
 
-near which the tomb of Cheops would be like a rosebush at the side of a
+Przy sztabie znajdował się jego dostojność Herhor, minister wojny, lecz tylko w charakterze widza. Nie prowadził za sobą śpiewaczek, ale też i nie robił żadnych uwag sztabowcom. Kazał wynieść swoją lektykę na czoło kolumny i stosując się do jej ruchów, posuwał się naprzód albo odpoczywał pod cieniem wielkiego wachlarza, którym osłaniał go adiutant.
 
-full-grown palm-tree."
+Jego dostojność Herhor był to człowiek czterdziestokilkuletni, silnie zbudowany, zamknięty w sobie. Rzadko odzywał się i równie rzadko spoglądał na ludzi spod zapuszczonych powiek.
 
-On receiving the much desired title of heir, the young prince begged
+Jak każdy Egipcjanin miał obnażone ręce i nogi, odkrytą pierś, sandały na stopach, krótką spódniczkę dokoła bioder, a z przodu fartuszek w pasy niebieskie i białe. Jako kapłan, golił zarost i włosy i nosił skórę pantery zawieszoną przez lewe ramię. Nareszcie, jako żołnierz, nakrywał głowę małym gwardyjskim hełmem, spod którego na kark spadała chusteczka, również w białe i niebieskie pasy.
 
-his father to be gracious and appoint him to command the army corps of
+Na szyi miał potrójny łańcuch złoty, a pod lewym ramieniem, na piersiach, krótki miecz w kosztownej pochwie.
 
-Memphis. To this his holiness, Ramses XII, after consultation with the
+Lektyce jego, dźwiganej przez sześciu czarnych niewolników, stale towarzyszyło trzech ludzi: jeden niósł wachlarz, drugi topór ministra, a trzeci skrzynkę z papirusami. Był to Pentuer, kapłan i pisarz ministra, chudy asceta, który w największy upał nie nakrywał ogolonej głowy. Pochodził z ludu, lecz pomimo niskiego urodzenia zajmował ważne stanowisko w państwie dzięki wyjątkowym zdolnościom.
 
-gods, to whom he was equal, answered that he would do so in case the
+Chociaż minister ze swymi urzędnikami znajdował się na czele sztabowej kolumny i nie mieszał się do jej ruchów, nie można jednak twierdzić, ażeby nie wiedział, co się dzieje poza nim. Co godzinę, niekiedy co pół godziny, do lektyki dostojnika zbliżał się — to niższy kapłan, zwyczajny „sługa boży”, to żołnierz maruder, to przekupień albo niewolnik, który niby obojętnie przechodząc obok cichego orszaku ministra, rzucał jakieś słówko. Słówko to zaś Pentuer niekiedy zapisywał, ale najczęściej pamiętał, bo pamięć miał nadzwyczajną.
 
-heir could give proof that he had skill to direct a mass of troops
+Na te drobnostki nikt nie zważał w zgiełkliwym tłumie sztabowców. Oficerowie ci, wielcy panicze, zanadto byli zajęci bieganiem, hałaśliwą rozmową lub śpiewem, ażeby mieli patrzeć, kto zbliża się do ministra; tym więcej, że wciąż mnóstwo ludzi snuło się wzdłuż szosy.
 
-arrayed for battle.
+Piętnastego Misori sztab następcy tronu, wraz z jego dostojnością ministrem, przepędził noc pod gołym niebem w odległości jednej mili od pułków ustawiających się już do boju w poprzek szosy, za miastem Pi-Bailos.
 
-A council was called under the presidency of the minister of war, Sem-
+Przed pierwszą z rana, która odpowiada naszej godzinie szóstej, wzgórza pustynne przybrały kolor fioletowy. Spoza nich wychyliło się słońce. Ziemię Gosen zalała różowość, a miasteczka, świątynie, pałace magnatów i lepianki chłopów wyglądały jak iskry i płomienie, w jednej chwili zapalone wśród zieloności.
 
-Amen-Herhor, high priest of the great sanctuary of Amon in Thebes.
+Niebawem zachodni horyzont oblała barwa złota. I zdawało się, że zieloność ziemi Gosen rozpływa się w złocie, a niezliczone kanały, zamiast wody, toczą roztopione srebro. Ale wzgórza pustyni zrobiły się jeszcze mocniej fioletowymi, rzucając długie cienie na piaski i czarność na rośliny.
 
-The council decided in this way: "The heir to the throne, in the middle
+Straże stojące wzdłuż szosy doskonale mogły widzieć wysadzone palmami pola za kanałem. Na jednych zielenił się len, pszenica, koniczyna, na innych — złocił się dojrzewający jęczmień drugiego posiewu. Jednocześnie z chat, ukrytych między drzewami, zaczęli wychodzić do roboty rolnicy, ludzie nadzy, barwy miedzianej, którzy za cały ubiór mieli krótką spódniczkę na biodrach i czepek na głowie.
 
-of the month Mesore, will take ten regiments, disposed along the line
+Jedni zwrócili się do kanałów, aby oczyszczać je z mułu albo czerpać wodę i wylewać na pola za pomocą machin podobnych do żurawi przy studniach. Inni rozproszywszy się między drzewami zbierali dojrzałe figi i winogrona. Snuło się tam sporo nagich dzieci i kobiet w białych, żółtych lub czerwonych koszulach bez rękawów.
 
-which connects Memphis with the city of Pi-uto, situated on the Bay of
+I był wielki ruch w tej okolicy. Na niebie drapieżne ptactwo pustyni uganiało się za gołębiami i kawkami ziemi Gosen. Wzdłuż kanału huśtały się zgrzytające żurawie z kubełkami płodnej wody, a ludzie, którzy zbierali owoce, ukazywali się i znikali między zielonością drzew jak barwne motyle. Zaś w pustyni, na szosie, już zamrowiło się wojsko i jego służba. Przeleciał oddział konnych uzbrojony w lance. Za nim pomaszerowali łucznicy w czepkach i spódniczkach; mieli oni łuki w garści, sajdaki
 
-Sebenico.
+O sto kroków za nimi szły dwa małe oddziałki piechoty: jeden uzbrojony we włócznie, drugi w topory. Ci i tamci nieśli w rękach prostokątne tarcze, na piersiach mieli grube kaftany, niby pancerze, a na głowie czepki z chusteczkami zasłaniającymi kark od upału. Czepki i kaftany były w pasy: niebieskie z białym lub żółte z czarnym, co robiło żołnierzy podobnymi do wielkich szerszeni.
 
-"With this corps of ten thousand men prepared for battle, provided with
+Za przednią strażą, otoczona oddziałem toporników, posuwała się lektyka ministra, a za nią, w miedzianych hełmach i pancerzach, greckie roty, których miarowy krok przypominał uderzenia ciężkich młotów. W tyle było słychać skrzypienie wozów, ryk bydła i krzyki woźniców, a z boku szosy przemykał się brodaty handlarz fenicki w lektyce zawieszonej między dwoma osłami. Nad tym wszystkim unosił się tuman złotego pyłu i gorąco.
 
-a camp and with military engines, the heir will betake himself eastward
+Nagle od straży przedniej przycwałował konny żołnierz i zawiadomił ministra, że zbliża się następca tronu. Jego dostojność wysiadł z lektyki, a w tejże chwili na szosie ukazała się garstka jeźdźców, którzy zeskoczyli z koni. Po czym jeden z jeźdźców i minister zaczęli iść ku sobie, co kilka kroków zatrzymując się i kłaniając.
 
-along the highroad from Memphis toward Hittite regions, which road lies
+— Bądź pozdrowiony, synu faraona, który oby żył wiecznie — odezwał się minister.
 
-on the boundary between the land of Goshen and the wilderness. At this
+— Bądź pozdrowiony i żyj długo, ojcze święty — odparł następca. A potem dodał:
 
-time General Nitager, commander of the army which guards the gates of
+— Ciągniecie tak wolno, jakby wam nogi upiłowano, a Nitager najpóźniej za dwie godziny stanie przed naszym korpusem.
 
-Egypt from attacks of Asiatic people, will move from the Bitter Lakes
+— Powiedziałeś prawdę. Twój sztab maszeruje bardzo powoli.
 
-against the heir, Prince Ramses.
+— Mówi mi też Eunana — tu Ramzes wskazał na stojącego za sobą oficera obwieszonego amuletami — że nie wysyłaliście patroli do wąwozów. A przecież na wypadek rzeczywistej wojny nieprzyjaciel z tej strony mógł was napaść.
 
-"Both armies, the Asiatic and the Western, are to meet near Pi-Bailos,
+— Nie jestem dowódcą, tylko sędzią — spokojnie odpowiedział minister.
 
-but in the wilderness, so that industrious husbandmen in the land of
+— A cóż robił Patrokles?
 
-Goshen be not hindered in their labors.
+— Patrokles z greckim pułkiem eskortuje machiny wojenne.
 
-"The heir will be victorious if he does not let himself be surprised by
+— A mój krewny i adiutant, Tutmozis?
 
-Nitager, that is, if he concentrates all his forces and succeeds in
+— Podobno jeszcze śpi.
 
-putting them in order of battle to meet the enemy.
+Ramzes niecierpliwie uderzył nogą w ziemię i umilkł. Był to piękny młodzieniec, z twarzą prawie kobiecą, której gniew i opalenizna dodawały wdzięku. Miał na sobie obcisły kaftan w pasy niebieskie i białe, tegoż koloru chustkę pod hełmem, złoty łańcuch na szyi i kosztowny miecz pod lewym ramieniem.
 
-"His worthiness Herhor, the minister of war, will be present in the
+— Widzę — odezwał się książę — że tylko ty jeden, Eunano, dbasz o moją cześć.
 
-camp of Prince Ramses, and will report to the pharaoh."
+Obwieszony amuletami oficer schylił się do ziemi.
 
-Two ways of communication formed the boundary between the land of
+— Tutmozis jest to próżniak — mówił następca. — Wracaj, Eunano, na swoje stanowisko. Niech przynajmniej przednia straż ma dowódcę.
 
-Goshen and the desert. One was the transport canal from Memphis to Lake
+Potem spojrzawszy na świtę, która już go otoczyła, jakby wyrosła spod ziemi, dodał:
 
-Timrah; the other was the highroad. The canal was in the laud of
+— Niech mi przyniosą lektykę. Jestem zmęczony jak kamieniarz.
 
-Goshen, the highroad in the desert which both ways bounded with a half
+— Czyliż bogowie mogą męczyć się!... — szepnął jeszcze stojący za nim Eunana.
 
-circle.
+— Idź na swoje miejsce — rzekł Ramzes.
 
-The canal was visible from almost every point upon the highroad.
+— A może rozkażesz mi, wizerunku księżyca, teraz zbadać wąwozy? — cicho spytał oficer. — Proszę cię, rozkazuj mi, bo gdziekolwiek jestem, serce moje goni za tobą, aby odgadnąć twoją wolę i spełnić ją.
 
-Whatever artificial boundaries might be, these neighboring regions
+— Wiem, że jesteś czujny — odparł Ramzes. — Już idź i uważaj na wszystko.
 
-differed in all regards. The land of Goshen, though a rolling country,
+— Ojcze święty — zwrócił się Eunana do ministra — polecam waszej dostojności moje najpokorniejsze służby.
 
-seemed a plain; the desert was composed of limestone hills and sandy
+Ledwie Eunana odjechał, gdy na końcu maszerującej kolumny zrobił się jeszcze większy tumult. Szukano lektyki następcy tronu, ale — nie było jej. Natomiast ukazał się, rozbijając greckich żołnierzy, młody człowiek dziwnej powierzchowności. Miał na sobie muślinową koszulkę, bogato haftowany fartuszek i złotą szarfę przez ramię. Nade wszystko jednak odznaczała się jego ogromna peruka, składająca się z mnóstwa warkoczyków, i sztuczna bródka, podobna do kociego ogona.
 
-valleys. The land of Goshen seemed a gigantic chessboard the green and
+Był to Tutmozis, pierwszy elegant w Memfis, który nawet podczas marszu stroił się i oblewał perfumami.
 
-yellow squares of which were indicated by the color of grain and by
+— Witaj, Ramzesie! — wołał elegant, gwałtownie rozpychając oficerów. — Wyobraź sobie, że gdzieś podziała się twoja lektyka; musisz więc usiąść do mojej, która wprawdzie nie jest godną ciebie, ale nie najgorszą.
 
-palms growing on their boundaries; but on the ruddy sand of the desert
+— Rozgniewałeś mnie — odparł książę. — Śpisz zamiast pilnować wojska.
 
-and its white hills a patch of green or a clump of trees and bushes
+Zdumiony elegant zatrzymał się.
 
-seemed like a lost traveler.
+— Ja śpię?... — zawołał. — Bodaj język usechł temu, kto mówi podobne kłamstwa. Ja, wiedząc, że przyjedziesz, od godziny ubieram się, przygotowuję ci kąpiel i perfumy...
 
-On the fertile land of Goshen from each hill shot up a dark grove of
+— A tymczasem oddział posuwa się bez komendy.
 
-acacias, sycamores, and tamarinds which from a distance looked like our
+— Więc ja mam być komendantem oddziału, w którym znajduje się jego dostojność minister wojny i taki wódz jak Patrokles?
 
-lime-trees; among these were concealed villas with rows of short
+Następca tronu umilkł, a tymczasem Tutmozis zbliżywszy się do niego szeptał:
 
-columns, or the yellow mud huts of earth-tillers. Sometimes near the
+— Jak ty wyglądasz, synu faraona?... Nie masz peruki, włosy i odzienie pełne kurzu, skóra czarna i popękana jak ziemia w lecie?... Najczcigodniejsza królowa-matka wygnałaby mnie ze dworu zobaczywszy twoją nędzę...
 
-grove was a white village with flat-roofed houses, or above the trees
+— Jestem tylko zmęczony.
 
-rose the pyramidal gates of a temple, like double cliffs, many-colored
+— Więc siadaj do lektyki. Są tam świeże wieńce róż, pieczone ptaszki i dzban wina z Cypru. Ukryłem też — dodał jeszcze ciszej — Senurę w obozie...
 
-with strange characters. From the desert beyond the first row of hills,
+— Jest?... — spytał książę. Błyszczące przed chwilą oczy zamgliły mu się.
 
-which were a little green, stared naked elevations covered with blocks
+— Niech wojsko idzie naprzód — mówił Tutmozis — a my tu zaczekajmy na nią...
 
-of stone. It seemed as if the western region, sated with excess of
+Ramzes jakby ocknął się.
 
-life, hurled with regal generosity to the other side flowers and
+— Dajże mi spokój, pokuso!... Przecież za dwie godziny bitwa...
 
-vegetables, but the desert in eternal hunger devoured them in the
+— Co to za bitwa!...
 
-following year and turned them into ashes.
+— A przynajmniej rozstrzygnięcie losów mego dowództwa.
 
-The stunted vegetation, exiled to cliffs and sands, clung to the lower
+— Żartuj z tego — uśmiechnął się elegant. — Przysiągłbym, że już wczoraj minister wojny posłał raport do jego świątobliwości z prośbą, ażebyś dostał korpus Menfi.
 
-places until, by means of ditches made in the sides of the raised
+— Wszystko jedno. Dziś nie potrafiłbym myśleć o czym innym aniżeli o armii.
 
-highroad, men conducted water from the canals to it. In fact, hidden
+— Okropny jest w tobie ten pociąg do wojny, na której człowiek nie myje się przez całe miesiące, ażeby pewnego dnia zginąć... Brr!... Gdybyś jednak zobaczył Senurę... Tylko spojrzyj na nią...
 
-oases between naked hills along that highway drank in the divine water.
+— Właśnie dlatego nie spojrzę — odparł Ramzes stanowczo.
 
-In these oases grew wheat, barley, grapes, palms, and tamarinds. The
+W chwili gdy spoza greckich szeregów ośmiu ludzi wyniosło ogromną lektykę Tutmozisa dla następcy tronu, od straży przedniej przyleciał jeździec. Zsunął się z konia i biegł tak prędko, aż dzwoniły mu na piersiach wizerunki bogów lub tabliczki z ich imionami. Był to rozgorączkowany Eunana.
 
-whole of such an oasis was sometimes occupied by one family, which when
+Wszyscy zwrócili się do niego, co zdawało się robić mu przyjemność.
 
-it met another like itself at the market in Pi-Bailos might not even
+— Erpatre, najwyższe usta! — zawołał Eunana, schylając się przed Ramzesem. — Kiedy, zgodnie z twoim boskim rozkazem, jechałem na czele oddziału, pilnie bacząc na wszystko, spostrzegłem na szosie dwa piękne skarabeusze. Każdy ze świętych żuków toczył przed sobą glinianą kulkę
 
-know that they were neighbors in the desert.
+— Więc cóż? — przerwał następca.
 
-On the fifteenth of Mesore the concentration of troops was almost
+— Rozumie się — ciągnął Eunana, spoglądając w stronę ministra — że jak nakazuje pobożność, ja i moi ludzie, złożywszy hołd złotym wizerunkom słońca, zatrzymaliśmy pochód. Jest to tak ważna wróżba, że bez rozkazu nikt z nas nie ośmieliłby się iść naprzód.
 
-finished. The regiments of Prince Ramses, which were to meet the
+— Widzę, że jesteś prawdziwie pobożnym Egipcjaninem, choć rysy masz hetyckie — odpowiedział dostojny Herhor. A zwróciwszy się do kilku bliżej stojących dygnitarzy dodał:
 
-Asiatic forces of Nitager, had assembled on the road above the city of
+— Nie pójdziemy dalej gościńcem, bo moglibyśmy podeptać święte żuki. Pentuerze, czy tym wąwozem, na prawo, można okolić szosę?
 
-Pi-Bailos with their camp and with some military engines.
+— Tak jest — odparł pisarz ministra. — Wąwóz ten ma milę długości i wychodzi znowu na szosę, prawie naprzeciw Pi-Bailos.
 
-The heir himself directed all the movements. He had organized two
+— Ogromna strata czasu — wtrącił gniewnie następca.
 
-parties of scouts. Of these the first had to watch the enemy, the other
+— Przysiągłbym, że to nie skarabeusze, ale duchy moich fenickich lichwiarzy — odezwał się elegant Tutmozis. — Nie mogąc z powodu śmierci odebrać pieniędzy, zmuszają mnie, abym za karę szedł przez pustynię!...
 
-to guard its own army from attack, which was possible in a hilly region
+Świta książęca z niepokojem oczekiwała decyzji, więc Ramzes odezwał się do Herhora:
 
-with many ravines. Ramses, in the course of a week, rode around and
+— Cóż o tym myślisz, ojcze święty?
 
-examined all the regiments, inarching by various roads, looking
+— Spojrzyj na oficerów — odparł kapłan — a zrozumiesz, że musimy iść wąwozem.
 
-carefully to see if the soldiers had good weapons and warm mantles for
+Teraz wysunął się dowódca Greków, generał Patrokles, i rzekł do następcy:
 
-the night hours, if in the camps there was dried bread in sufficiency
+— Jeżeli książę pozwolisz, mój pułk pójdzie dalej szosą. Nasi żołnierze nie boją się skarabeuszów.
 
-as well as meat and dried fish. He commanded, besides, that the wives,
+— Wasi żołnierze nie boją się nawet grobów królewskich — odpowiedział minister. — Nie musi tam być jednak bezpiecznie, skoro żaden nie wrócił.
 
-children, and slaves of warriors marching to the eastern boundary
+Zmieszany Grek usunął się do świty.
 
-should be conveyed by canal; this diminished the number of chariots and
+— Przyznaj, ojcze święty — szepnął z najwyższym gniewem następca — że taka przeszkoda nawet osła nie zatrzymałaby w podróży.
 
-eased the movements of the army.
+— Bo też osioł nigdy nie będzie faraonem — spokojnie odparł minister.
 
-The oldest generals admired the zeal, knowledge, and caution of the
-
-heir, and, above all, his simplicity and love of labor. His court,
-
-which was numerous, his splendid tent, chariots, and litters were left
-
-in the capital, and, dressed as a simple officer, he hurried from
-
-regiment to regiment on horseback, in Assyrian fashion, attended by two
-
-adjutants.
-
-Thanks to this concentration, the corps itself went forward very
-
-swiftly, and the army was near Pi-Bailos at the time appointed.
-
-It was different with the prince's staff, and the Greek regiment
-
-accompanying it, and with some who moved military engines.
-
-The staff, collected in Memphis, had the shortest road to travel; hence
-
-it moved latest, bringing an immense camp with it. Nearly every
-
-officer, and they were young lords of great families, had a litter with
-
-four negroes, a two-wheeled military chariot, a rich tent, and a
-
-multitude of boxes with food and clothing, also jars full of beer and
-
-wine. Besides, a numerous troop of singers and dancers, with music, had
-
-betaken themselves to journey behind the officers; each woman must, in
-
-the manner of a great lady, have a car drawn by one or two pair of
-
-oxen, and must have also a litter.
-
-When this throng poured out of Memphis, it occupied more space on the
-
-highway than the army of Prince Ramses. The march was so slow that the
-
-military engines which were left at the rear moved twenty-four hours
-
-later than was ordered. To complete every evil the female dancers and
-
-singers, on seeing the desert, not at all dreadful in that place, were
-
-terrified and fell to weeping. To calm these women it was necessary to
-
-hasten with the night camp, pitch tents, arrange a spectacle, and a
-
-feast afterward.
-
-The night amusement in the cool, under the starry sky, with wild nature
-
-for a background, pleased dancers and singers exceedingly; they
-
-declared that they would travel thenceforth only through the desert.
-
-Meanwhile Prince Ramses sent an order to turn all women back to Memphis
-
-at the earliest and urge the march forward.
-
-His dignity Herhor, minister of war, was with the staff, but only as a
-
-spectator. He had not brought singers himself, but he made no remarks
-
-to officers. He gave command to carry his litter at the head of the
-
-column, and accommodating himself to its movements, advanced or rested
-
-under the immense fan with which his adjutant shaded him.
-
-Herhor was a man of forty and some years of age, strongly built,
-
-concentrated in character. He spoke rarely, and looked at people as
-
-rarely from under his drooping eyelids. He went with arms and legs
-
-bare, like every Egyptian, his breast exposed; he had sandals on his
-
-feet, a short skirt about his hips, an apron with blue and white
-
-stripes. As a priest, he shaved his beard and hair and wore a panther-
-
-skin hanging from his left shoulder. As a soldier, he covered his head
-
-with a small helmet of the guard; from under this helmet hung a
-
-kerchief, also in blue and white stripes; this reached his shoulders.
-
-Around his neck was a triple gold chain, and under his left arm a short
-
-sword in a costly scabbard. His litter, borne by six black slaves, was
-
-attended always by three persons: one carried his fan, another the mace
-
-of the minister, and the third a box for papyrus. This third man was
-
-Pentuer, a priest, and the secretary of Herhor. He was a lean ascetic
-
-who in the greatest heat never covered his shaven head. He came of the
-
-people, but in spite of low birth he occupied a high position in the
-
-state; this was due to exceptional abilities.
-
-Though the minister with his officials preceded the staff and held
-
-himself apart from its movements, it could not be said that he was
-
-unconscious of what was happening behind him. Every hour, at times
-
-every half hour, some one approached Herhor's litter, now a priest of
-
-lower rank, an ordinary "servant of the gods," a marauding soldier, a
-
-freedman, or a slave, who, passing as it were indifferently the silent
-
-retinue of the minister, threw out a word. That word Pentuer recorded
-
-sometimes, but more frequently he remembered it, for his memory was
-
-amazing.
-
-No one in the noisy throng of the staff paid attention to these
-
-details. The officers, sons of great lords, were too much occupied by
-
-running, by noisy conversation, or by singing, to notice who approached
-
-the minister; all the more since a multitude of people were pushing
-
-along the highway.
-
-On the sixteenth of Mesore the staff of Prince Ramses, together with
-
-his dignity the minister, passed the night under the open sky at the
-
-distance of five miles from the regiments which were arranged in battle
-
-order across the highway beyond the city of Pi-Bailos.
-
-In that early morning which precedes our six o'clock, the hills grew
-
-violet, and from behind them came forth the sun. A rosy light flowed
-
-over the land of Goshen. Villages, temples, palaces of magnates, and
-
-huts of earth-tillers looked like sparks and flames which flashed up in
-
-one moment from the midst of green spaces. Soon the western horizon was
-
-flooded with a golden hue, and the green land of Goshen seemed melting
-
-into gold, and the numberless canals seemed filled with molten silver.
-
-But the desert hills grew still more marked with violet, and cast long
-
-shadows on the sands, and darkness on the plant world.
-
-The guards who stood along that highway could see with the utmost
-
-clearness fields, edged with palms, beyond the canal. Some fields were
-
-green with flax, wheat, clover; others were gilded with ripening barley
-
-of the second growth. Now earth-tillers began to come out to field
-
-labor, from huts concealed among trees; they were naked and bronze-
-
-hued; their whole dress was a short skirt and a cap. Some turned to
-
-canals to clear them of mud, or to draw water. Others dispersing among
-
-the trees gathered grapes and ripe figs. Many naked children stirred
-
-about, and women were busy in white, yellow, or red shirts which were
-
-sleeveless.
-
-There was great movement in that region. In the sky birds of prey from
-
-the desert pursued pigeons and daws in the land of Goshen. Along the
-
-canal squeaking sweeps moved up and down, with buckets of fertilizing
-
-water; fruit-gatherers appeared and disappeared among the trees, like
-
-colored butterflies. But in the desert, on the highway, swarmed the
-
-army and its servants. A division of mounted lancers shot past. Behind
-
-them marched bowmen in caps and petticoats; they had bows in their
-
-hands, quivers on their shoulders, and broadswords at their right
-
-sides. The archers were accompanied by slingers who carried bags with
-
-missiles and were armed with short swords.
-
-A hundred yards behind them advanced two small divisions of footmen,
-
-one division armed with darts, the other with spears. Both carried
-
-rectangular shields; on their breasts they had thick coats, as it were
-
-armor, and on their heads caps with kerchiefs behind to ward off the
-
-sun-rays. The caps and coats had blue and white stripes or yellow and
-
-black stripes, which made those soldiers seem immense hornets.
-
-Behind the advance guard, surrounded by a retinue of macebearers,
-
-pushed on the litter of the minister, and behind it, with bronze
-
-helmets and breastplates, the Greek companies, whose measured tread
-
-called to mind blows of heavy hammers. In the rear was heard the
-
-creaking of vehicles, and from the side of the highway slipped along
-
-the bearded Phoenician merchant in his litter borne between two asses.
-
-Above all this rose a cloud of golden dust, and heat also.
-
-Suddenly from the vanguard galloped up a mounted soldier and informed
-
-Herhor that Prince Ramses, the heir to the throne, was approaching. His
-
-worthiness descended from the litter, and at that moment appeared a
-
-mounted party of men who halted and sprang from their horses. One man
-
-of this party and the minister began to approach each other, halting
-
-every few steps and bowing.
-
-"Be greeted, O son of the pharaoh; may he live through eternity!" said
-
-the minister.
-
-"Be greeted and live long, O holy father!" answered Ramses; then he
-
-added,
-
-"Ye advance as slowly as if your legs were sawn off, while Nitager will
-
-stand before our division in two hours at the latest."
-
-"Thou hast told truth. Thy staff marches very slowly."
-
-"Eunana tells me also," here Ramses indicated an officer standing
-
-behind him who was covered with amulets, "that ye have not sent scouts
-
-to search ravines. But in case of real war an enemy might attack from
-
-that side."
-
-"I am not the leader, I am only a judge," replied the minister,
-
-quietly.
-
-"But what can Patrokles be doing?"
-
-"Patrokles is bringing up the military engines with his Greek
-
-regiment."
-
-"But my relative and adjutant, Tutmosis?"
-
-"He is sleeping yet, I suppose."
-
-Ramses stamped impatiently, and was silent. He was a beautiful youth,
-
-with a face almost feminine, to which anger and sunburn added charm. He
-
-wore a close-fitting coat with blue and white stripes, a kerchief of
-
-the same color behind his helmet, a gold chain around his neck, and a
-
-costly sword beneath his left arm.
-
-"I see," said the prince, "that Thou alone, Eunana, art mindful of my
-
-honor."
-
-The officer covered with amulets bent to the earth.
-
-"Tutmosis is indolent," said the heir. "Return to thy place, Eunana.
-
-Let the vanguard at least have a leader."
-
-Then, looking at the suite which now surrounded him as if it had sprung
-
-from under the earth on a sudden, he added,
-
-"Bring my litter. I am as tired as a quarryman."
-
-"Can the gods grow tired?" whispered Eunana, still standing behind him.
-
-"Go to thy place!" said Ramses.
-
-"But perhaps Thou wilt command me, O image of the moon, to search the
-
-ravines?" asked the officer, in a low voice. "Command, I beg thee, for
-
-wherever I am my heart is chasing after thee to divine thy will and
-
-accomplish it."
-
-"I know that Thou art watchful," answered Ramses. "Go now and look
-
-after everything."
-
-"Holy father," said Eunana, turning to the minister, "I commend my most
-
-obedient service to thy worthiness."
-
-Barely had Eunana gone when at the end of the marching column rose a
-
-still greater tumult. They looked for the heir's litter, but it was
-
-gone. Then appeared, making his way through the Greek warriors, a youth
-
-of strange exterior. He wore a muslin tunic, a richly embroidered
-
-apron, and a golden scarf across his shoulder. But he was distinguished
-
-above all by an immense wig with a multitude of tresses, and an
-
-artificial beard like cats' tails.
-
-That was Tutmosis, the first exquisite in Memphis, who dressed and
-
-perfumed himself even during marches.
-
-"Be greeted, Ramses!" exclaimed the exquisite, pushing aside officers
-
-quickly. "Imagine thy litter is lost somewhere; Thou must sit in mine,
-
-which really is not fit for thee, but it is not the worst."
-
-"Thou hast angered me," answered the prince. "Thou sleepest instead of
-
-watching the army."
-
-The astonished exquisite stopped.
-
-"I sleep?" cried he. "May the man's tongue wither up who invented that
-
-calumny! I, knowing that Thou wouldst come, have been ready this hour
-
-past, and am preparing a bath for thee and perfumes."
-
-"While thus engaged, the regiment is without a commander."
-
-"Am I to command a detachment where his worthiness the minister of war
-
-is, and such a leader is present as Patrokles?"
-
-Ramses was silent; meanwhile Tutmosis, approaching him, whispered,
-
-"In what a plight Thou art, O son of the pharaoh! Without a wig, thy
-
-hair and dress full of dust, thy skin black and cracked, like the earth
-
-in summer. The queen, most deserving of honor, would drive me from the
-
-court were she to look at thy wretchedness."
-
-"I am only tired."
-
-"Then take a seat in my litter. In it are fresh garlands of roses,
-
-roast birds, and a jug of wine from Cyprus. I have kept also hidden in
-
-the camp," added he in a lower voice, "Senura."
-
-"Is she here?" asked the prince; and his eyes, glittering a moment
-
-before, were now mist-covered.
-
-"Let the army move on," said Tutmosis; "we will wait here for her."
-
-Ramses recovered himself.
-
-"Leave me, tempter! The battle will come in two hours."
-
-"What! a battle?"
-
-"At least the decision as to my leadership."
-
-"Oh, laugh at it!" smiled the exquisite. "I would swear that the
-
-minister of war sent a report of it yesterday, and with it the petition
-
-to give thee the corps of Memphis."
-
-"No matter if he did. Today I have no thought for anything but the
-
-army."
-
-"In thee this wish for war is dreadful, war during which a man does not
-
-wash for a whole month, so as to die in--Brr! But if Thou couldst see
-
-Senura, only glance at her. ."
-
-"For that very reason I shall not glance at her," answered Ramses,
-
-decisively.
-
-At the moment when eight men were bringing from beyond the Greek ranks
-
-the immense litter of Tutmosis for the use of Ramses, a horseman raced
-
-in from the vanguard. He dropped from his horse and ran so quickly that
-
-on his breast the images of the gods or the tablets with their names
-
-rattled loudly. This was Eunana in great excitement.
-
-All turned to him, and this gave him pleasure apparently.
-
-"Erpatr, the loftiest lips," cried Eunana, bending before Ramses.
-
-"When, in accordance with thy divine command, I rode at the head of a
-
-detachment, looking carefully at all things, I noticed on the highroad
-
-two beautiful scarabs. Each of these sacred beetles was rolling an
-
-earth ball toward the sands near the roadside."
-
-"What of that?" interrupted Ramses.
-
-"Of course," continued Eunana, glancing toward Herhor, "I and my
-
-people, as piety enjoins, rendered homage to the golden symbols of the
-
-sun, and halted. That augury is of such import that no man of us would
-
-make a step forward unless commanded."
-
-"I see that Thou art a pious Egyptian, though Thou hast the features of
-
-a Hittite," answered the worthy Herhor; and turning to certain
-
-dignitaries standing near, he added,
-
-"We will not advance farther by the highway, for we might crush the
-
-sacred beetles. Pentuer, can we go around the road by that ravine on
-
-the right?"
-
-"We can," answered the secretary. "That ravine is five miles long, and
-
-comes out again almost in front of Pi-Bailos."
-
-"An immense loss of time!" interrupted Ramses, in anger.
-
-"I would swear that those are not scarabs, but the spirits of my
-
-Phoenician usurers," said Tutmosis the exquisite. "Not being able,
-
-because of their death, to receive money from me, they will force me
-
-now to march through the desert in punishment!"
-
-The suite of the prince awaited the decision with fear; so Ramses
-
-turned to Herhor,
-
-"What dost Thou think of this, holy father?"
-
-"Look at the officers," answered the priest, "and Thou wilt understand
-
-that we must go by the ravine."
-
-Now Patrokles, leader of the Greeks, pushed forward and said to the
-
-heir,
-
-"If the prince permit, my regiment will advance by the highway. My
-
-soldiers have no fear of beetles!"
-
-"Your soldiers have no fear of royal tombs even," added the minister.
-
-"Still it cannot be safe in them since no one has ever returned."
-
-The Greek pushed back to the suite confounded.
-
-"Confess, holy father," hissed the heir, with the greatest anger, "that
-
-such a hindrance would not stop even an ass on his journey."
-
-"True, but no ass will ever be pharaoh," retorted the minister, calmly.
-
-"In that case thou, O minister, wilt lead the division through the
-
-ravine!" exclaimed Ramses. "I am unacquainted with priestly tactics;
-
-besides, I must rest. Come with me, cousin," said he to Tutmosis; and
-
-he turned toward some naked hills.
+— W takim razie ty, ministrze, przeprowadzisz oddział przez wąwóz! — zawołał Ramzes. — Ja nie znam się na kapłańskiej taktyce, zresztą muszę odpocząć. Chodź ze mną, kuzynie — rzekł do Tutmozisa i skierował się w stronę łysych pagórków.

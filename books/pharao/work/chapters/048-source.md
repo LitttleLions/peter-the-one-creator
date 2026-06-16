@@ -1,931 +1,260 @@
-# Kapitel 48: CHAPTER XLVIII
+# Kapitel 048: Tom II - Rozdział XXIII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part54.xhtml*
 
 <!-- status: pending -->
 
-In the course of those few months, during which Prince Ramses had
+W ciągu kilku miesięcy, podczas których książę Ramzes pełnił obowiązki namiestnika Dolnego Egiptu, jego świątobliwy ojciec coraz bardziej zapadał na zdrowiu. I zbliżała się chwila, w której pan wieczności, budzący radość w sercach, władca Egiptu i wszystkich krajów, jakie tylko oświetla słońce, miał zająć miejsce obok czcigodnych poprzedników swoich, w tebańskich katakumbach, które leżą po drugiej stronie miasta Teb.
 
-fulfilled the duties of viceroy of Lower Egypt, his holiness the
+Nie był jeszcze zbyt podeszły wiek równego bogom mocarza, który rozdawał życie poddanym i miał władzę zabierania mężom ich żon według pragnień serca swego. Ale trzydziestokilkuletnie rządy tak go zmęczyły, że już sam chciał wypocząć, odnaleźć młodość i piękność swoją w zachodniej krainie, gdzie każdy faraon bez trosk panuje wiecznie nad ludami, tak szczęśliwymi, że nikt i nigdy nie chciał stamtąd powracać.
 
-pharaoh had failed in health continually. The moment was approaching in
+Jeszcze pół roku temu świątobliwy pan spełniał wszystkie czynności przywiązane do jego stanowiska, na którym opierało się bezpieczeństwo i pomyślność całego widzialnego świata.
 
-which the lord of eternity, who roused delight in human hearts, the
+Rankiem, ledwo kur zapiał, kapłani budzili władcę hymnem na cześć wschodzącego słońca. Faraon podnosił się z łoża i w złocistej wannie brał kąpiel z wody różanej. Po czym boskie ciało jego było natarte bezcennymi wonnościami, wśród szmeru modłów mających własność odpędzania złych duchów.
 
-sovereign of Egypt, and of all lands on which the sun shone, had to
+Tak oczyszczony i okadzony przez proroków szedł pan do kapliczki. Odrywał glinianą pieczęć ode drzwi i wchodził sam jeden do sanktuarium, gdzie na łożu ze słoniowej kości spoczywał cudowny posąg bożka Ozyrysa. Bożek miał ten nadzwyczajny dar, że na każdą noc odpadały mu ręce, nogi i głowa odcięte niegdyś przez złego boga Seta; lecz po modlitwie faraona wszystkie członki zrastały się na powrót, bez żadnej przyczyny.
 
-occupy a place at the side of his revered ancestors in the Libyan
+Gdy jego świątobliwość przekonał się, że Ozyrys znowu jest cały, wydobywał posąg z łoża, kąpał go, ubierał w drogocenne szaty i — posadziwszy na malachitowym tronie, okadzał go wonnościami. Ceremonia to nader ważna: gdyby bowiem którego poranku boskie członki Ozyrysa nie zrosły się, byłby to znak, że Egiptowi, jeżeli nie całemu światu, grozi wielkie nieszczęście.
 
-catacombs which lie on the other side of the city Teb.
+Po wskrzeszeniu i ubraniu bóstwa jego świątobliwość zostawiał otwarte drzwi kaplicy, aby przez nie na kraj spływały błogosławieństwa. Zarazem wyznaczał kapłanów, którzy przez cały dzień mieli pilnować sanktuarium nie tyle przed złą wolą, ile przed lekkomyślnością ludzką. Nieraz bowiem zdarzało się, że niebaczny śmiertelnik, zbliżywszy się zanadto do najświętszego miejsca, narażał się na niewidzialne uderzenie, które pozbawiało go przytomności, a nawet życia.
 
-Not over advanced in age was this potentate, the equal of the gods, he
+Po odprawieniu nabożeństwa szedł pan, otoczony śpiewającymi kapłanami, do wielkiej sali jadalnej, gdzie stał fotel i stoliczek dla niego i dziewiętnaście innych stoliczków przed dziewiętnastu posągami wyobrażającymi dziewiętnaście poprzednich dynastii. Gdy zaś władca usiadł, wbiegały młode chłopcy i dziewczęta ze srebrnymi talerzami, na których było mięso i ciasta, tudzież z dzbanami wina. Kapłan dozorujący potraw kosztował z pierwszego talerza i pierwszego dzbanka, które następnie na klęczkach podawano faraonowi, a inne talerze i dzbany stawiano przed posągami przodków. Gdy zaś władca, zaspokoiwszy głód, opuścił salę, potrawy przeznaczone dla przodków mieli prawo zjadać książęta albo kapłani.
 
-who gave life to his subjects, and had power to take from husbands
+Z jadalni udawał się pan do nie mniej wielkiej sali audiencjonalnej. Tu padali przed nim na twarz najbliżsi dostojnicy państwa i najbliższa rodzina, po czym minister Herhor, najwyższy skarbnik, najwyższy sędzia i najwyższy naczelnik policji składali mu raporty o sprawach państwa. Czytanie było przerywane religijną muzyką i tańcem, w czasie wykonywania których tron zasypywano wieńcami i bukietami.
 
-their wives whenever his heart so desired. But thirty and some years of
+Po audiencji jego świątobliwość udawał się do obocznego gabinetu i położywszy się na kanapie chwilę drzemał. Następnie składał bogom ofiary z wina i kadzideł i opowiadał kapłanom swoje sny, wedle których mędrcy układali najwyższe rozporządzenia w sprawach, które jego świątobliwość miał rozstrzygać.
 
-rule had so wearied him that he wished, of his own accord, to rest and
+Niekiedy jednak, gdy snów nie było albo gdy ich tłumaczenie wydało się faraonowi niewłaściwym, jego świątobliwość uśmiechał się dobrotliwie i — rozkazywał w danej sprawie postąpić tak a tak. Rozkaz ten był prawem, którego nikt nie mógł zmieniać, chyba tylko w wykonaniu szczegółów.
 
-regain youth and beauty in that kingdom of the west, where each pharaoh
+W godzinach popołudniowych jego świątobliwość niesiony w lektyce ukazywał się na dziedzińcu swojej wiernej gwardii, a potem wstępował na taras i spoglądał ku czterem okolicom świata, aby udzielić im swego błogosławieństwa. Wówczas ze szczytu pylonów wywieszano chorągwie i odzywały się potężne głosy trąb. Ktokolwiek usłyszał je, w mieście czy w polu, Egipcjanin czy barbarzyńca, padał na twarz, ażeby i na jego głowę spłynęła cząstka łaski najwyższej.
 
-reigns without care through eternity over people who are so happy that
+W takiej chwili nie było wolno uderzyć człowieka ani bydlęcia: kij podniesiony nad grzbietem sam opadał. Jeżeli zaś przestępca skazany na śmierć dowiódł, że czytano mu wyrok w czasie ukazania się pana nieba i ziemi, zmniejszano mu karę. Albowiem przed faraonem chodzi moc, a za nim miłosierdzie.
 
-no man of them has ever wished to return to this earth from that
+Uszczęśliwiwszy lud swój, władca wszystkich rzeczy, jakie tylko są pod słońcem, zstępował do swoich ogrodów, między palmy i sykomory, i tu siedział najdłużej, odbierając hołdy od swych kobiet i przypatrując się zabawom dzieci swojego domu. Gdy które z nich pięknością czy zręcznością zwróciło jego uwagę, przywoływał je do siebie i pytał:
 
-region.
+— Kto ty jesteś, mój maleńki?
 
-Half a year earlier the holy lord had exercised every activity
+— Jestem książę Binotris, syn jego świątobliwości — odpowiadał chłopczyk.
 
-connected with his office, on which rested the safety and prosperity of
+— A jakże nazywa się twoja matka?
 
-all visible existence.
+— Moja matka jest pani Ameces, kobieta jego świątobliwości.
 
-Barely had the cocks crowed in the morning when the priests roused the
+— Cóż ty umiesz?
 
-sovereign with a hymn in honor of the rising sun. The pharaoh rose from
+— Umiem już liczyć do dziesięciu i napisać: „Niech żyje wiecznie ojciec i bóg nasz, świątobliwy faraon Ramzes!...”
 
-his bed and bathed in a gilded basin containing water fragrant with
+Pan wieczności dobrotliwie uśmiechał się i swoją delikatną, prawie przezroczystą ręką dotykał kędzierzawej głowy czupurnego chłopca. Wówczas dziecko naprawdę zostawało księciem, pomimo że jego świątobliwość wciąż uśmiechał się w sposób zagadkowy.
 
-roses. Then his divine body was rubbed with priceless perfumes amid the
+Ale kogo raz dotknęła boska ręka, ten nie mógł zaznać niedoli w życiu i musiał być wywyższonym nad innych.
 
-murmur of prayers, which had the power of expelling evil spirits.
+Na obiad szedł władca do drugiej sali jadalnej i dzielił się posiłkiem z bogami wszystkich nomesów Egiptu, których posągi stały wzdłuż ścian. Czego zaś nie zjedli bogowie, to dostawało się kapłanom i najwyższym osobom dworu.
 
-Thus purified and incensed by prophets, the lord went to a chapel,
+Ku wieczorowi jego świątobliwość przyjmował wizytę pani Nikotris, matki następcy tronu, patrzył na religijne tańce i przysłuchiwał się koncertowi. Po czym udawał się znowu do kąpieli i oczyszczony wstępował do kaplicy Ozyrysa, ażeby rozebrać i ułożyć do snu bóstwo cudowne. Dokonawszy tego, zamykał i pieczętował drzwi kaplicy i otoczony procesją kapłanów szedł do sypialni.
 
-removed a clay seal from the door and entered the sanctuary unattended,
+Kapłani do wschodu słońca w sąsiedniej izbie odprawiali ciche modły do duszy faraona, która podczas snu znajduje się między bogami. Wówczas przedstawiali jej prośby o pomyślne załatwienie bieżących spraw państwa, o opiekę nad granicami Egiptu i nad grobami królów, ażeby żaden złodziej nie śmiał do nich wchodzić i naruszać wiekuistego spoczynku mocarzy pełnych chwały. Modły kapłańskie jednak, zapewne skutkiem nocnego zmęczenia, nie zawsze były skuteczne: kłopoty bowiem państwa rosły, a i groby święte okradano, nie tylko wynosząc z nich rzeczy kosztowne, lecz nawet mumie faraonów.
 
-where on a couch of ivory lay the miraculous image of Osiris. This
+Był to skutek osiedlenia się w kraju różnych cudzoziemców i pogan, od których lud nauczył się lekceważenia egipskich bogów i miejsc najświętszych.
 
-image bad the wondrous quality that every night the hands, feet and
+Spoczynek pana nad pany przerywał się raz, o północy. W tej bowiem godzinie astrologowie budzili jego świątobliwość i zawiadamiali go: w której kwadrze znajduje się księżyc, które planety świecą nad horyzontem, jaka konstelacja przechodzi przez południk i czy w ogóle na niebie nie zdarzyło się nic szczególnego? Niekiedy bowiem ukazywały się chmury, spadały gwiazdy częściej niż zwykle albo przelatywały nad ziemią kule ogniste.
 
-head fall from it. These on a time had been cutoff by the evil god Set;
+Pan wysłuchał raportu astrologów, w razie jakiegoś niezwykłego zjawiska uspokajał ich o bezpieczeństwo świata i — wszystkie spostrzeżenia kazał zapisać do odnośnych tablic, które co miesiąc odsyłano kapłanom świątyni Sfinksa, największym mędrcom, jakich posiadał Egipt. Mężowie ci z powyższych tablic wyprowadzali wnioski, lecz najważniejszych nie objawiali nikomu, chyba kolegom swoim, chaldejskim kapłanom w Babilonie.
 
-but after the prayer of the pharaoh all the members grew on without
+Po północy jego świątobliwość mógł już spać do zapiania rannych kogutów, jeżeli uważał za stosowne.
 
-evident reason.
+Taki pobożny i pracowity żywot jeszcze pół roku temu prowadził dobry bóg, rozdawca opieki, życia i zdrowia, dniem i nocą czuwając nad ziemią i niebem, nad widzialnym i niewidzialnym światem. Ale od pół roku wiecznie żyjąca dusza jego coraz częściej zaczęła przykrzyć sobie ziemskie sprawy i cielesną powłokę. Bywały dnie, że nic nie jadł, i noce, w czasie których wcale nie sypiał. Niekiedy podczas audiencji na łagodnym jego obliczu ukazywał się wyraz głębokiej boleści, a bardzo często, coraz częściej zdarzało się, że wpadał w omdlenia.
 
-When his holiness convinced himself that Osiris was sound again he took
+Przerażona królowa Nikotris, najdostojniejszy Herhor i kapłani niejednokrotnie zapytywali władcę: czy mu co nie dolega? Ale pan wzruszał ramionami i milczał, wciąż pełniąc swoje uciążliwe obowiązki.
 
-the statue from the couch, bathed it, dressed it in precious garments,
+Wówczas lekarze dworscy nieznacznie zaczęli podsuwać mu najmocniejsze środki dla przywrócenia sił. Mieszano mu w winie i potrawach naprzód popioły konia i byka, później — lwa, nosorożca i słonia, ale potężne leki zdawały się nie wywierać żadnego skutku. Jego świątobliwość tak często omdlewał, że już zaprzestano odczytywać mu raportów.
 
-and putting it on a malachite throne burnt incense before it. This
+Jednego dnia dostojny Herhor wraz z królową i kapłanami, padłszy na twarze, ubłagali pana, że pozwolił zbadać mędrcom swoje boskie ciało. Pan zgodził się, lekarze zbadali go i opukali, lecz oprócz wielkiego wychudnięcia nie znaleźli żadnej groźnej wskazówki.
 
-ceremony was vastly important, for if any morning the divine members
+— Jakich uczuć doznaje wasza świątobliwość? — zapytał w końcu najmędrszy lekarz.
 
-would not grow together it would signify that Egypt, if not the whole
+Faraon uśmiechnął się.
 
-world, was threatened by measureless misfortune.
+— Czuję — odparł — że pora mi wrócić do słonecznego ojca.
 
-After the resurrection and restoration of the god, his holiness opened
+— Tego wasza świątobliwość zrobić nie może bez największej szkody dla swoich ludów. — pośpiesznie wtrącił Herhor.
 
-the door of the chapel, so that through it blessings might flow forth
+— Zostawię wam syna, Ramzesa, który jest lwem i orłem w jednej osobie — rzekł pan. — I zaprawdę, jeżeli go słuchać będziecie, zgotuje on Egiptowi taki los, o jakim od początku świata nie słyszano.
 
-to the country. Then he designated the priests, who all that day were
+Świętego Herhora i innych kapłanów aż zimno przeszło od tej obietnicy. Oni wiedzieli, że następca tronu jest lwem i orłem w jednej osobie i że słuchać go muszą. Woleliby jednak jeszcze przez długie lata mieć tego oto łaskawego pana, którego serce pełne litości było jak wiatr północny przynoszący deszcz polom i ochłodę ludziom.
 
-to guard the sanctuary, not so much against the ill-will, as the
+Dlatego wszyscy, niby jeden mąż, padli na ziemię jęcząc i dopóty leżeli na brzuchach swoich, aż faraon zgodził się poddać kuracji.
 
-frivolity of people. For more than once it happened that a careless
+Wtedy lekarze na cały dzień wynieśli go do ogrodu między pachnące drzewa iglaste, karmili go siekanym mięsem, poili mocnymi rosołami, mlekiem i starym winem. Dzielne te środki na jakiś tydzień wzmocniły jego świątobliwość; wnet jednak przyszło nowe osłabienie, dla zwalczania którego zmuszono pana, ażeby pił świeżą krew cieląt pochodzących od Apisa.
 
-mortal who had gone too near that most holy place received an invisible
+Lecz i krew nie na długo pomogła, i trzeba było odwołać się do porady arcykapłana świątyni — złego boga Seta.
 
-blow which deprived him of consciousness or of life, even.
+Wśród powszechnej trwogi ponury kapłan wszedł do sypialni jego świątobliwości, spojrzał na chorego i zalecił straszne lekarstwo.
 
-After he had finished divine service, the lord went, surrounded by
+— Trzeba — rzekł — dawać faraonowi do picia krew z niewinnych dzieci, co dzień po kubku...
 
-chanting priests to a great hall of refection, where stood a small
+Kapłani i magnaci zapełniający pokój oniemieli na taką radę. Potem zaczęli szeptać, że do tego celu najlepsze będą dzieci chłopskie; dzieci bowiem kapłańskie i wielkich panów już w niemowlęctwie tracą niewinność.
 
-table and an armchair for him and nineteen other tables before nineteen
+— Wszystko mi jedno, czyje to będą dzieci — odparł okrutny kapłan — byle jego świątobliwość miał co dzień świeżą krew.
 
-statues which represented the nineteen preceding dynasties. When the
+Pan, leżąc na łóżku z zamkniętymi oczyma, słuchał tej krwawej rady i lękliwych szeptów dworu. A gdy jeden z lekarzy nieśmiało spytał Herhora: czy można zająć się wyszukaniem odpowiednich dzieci?... faraon ocknął się. Wlepił mądre oczy w obecnych i rzekł:
 
-sovereign had seated himself youths and maidens came in with silver
+— Krokodyl nie pożera swoich małych, szakal i hiena oddaje życie za swe szczenięta, a ja miałbym pić krew egipskich dzieci, które są moimi dziećmi?... Zaprawdę, nigdy bym nie przypuszczał, że ośmieli mi się kto zalecić niegodne lekarstwo...
 
-plates, on which were meat and cakes, also pitchers of wine. The
+Kapłan złego boga upadł na ziemię, tłumacząc się, że krwi dziecięcej nikt nigdy nie pił w Egipcie, lecz że moce piekielne tym sposobem mają przywracać zdrowie. Taki przynajmniej środek używa się w Asyrii i Fenicji.
 
-priest, the inspector of the dishes, tasted what was on the first dish,
+— Wstydź się — odparł faraon — w pałacu mocarzy egipskich wspominać tak obmierzłe rzeczy. Czy nie wiesz, że Fenicjanie i Asyryjczycy są głupimi barbarzyńcami? Ale u nas najciemniejszy chłop nie uwierzy, aby krew niewinnie rozlana mogła komu wyjść na pożytek...
 
-and what was in the first pitcher, then, on his knees, he gave these to
+Tak mówił równy nieśmiertelnym. Dworacy zasłonili twarze pokalane wstydem, a arcykapłan Seta po cichu wyniósł się z komnaty.
 
-the pharaoh, but the other plates and pitchers were placed before the
+Wówczas Herhor, aby uratować gasnące życie władcy, uciekł się do ostatecznego środka i powiedział faraonowi, że kryje się w jednej z tebańskich świątyń Chaldejczyk, Beroes, najmędrszy kapłan z Babilonu i niezrównany cudotwórca.
 
-statues of the pharaoh's ancestors. When the sovereign had satisfied
+— Dla waszej świątobliwości — mówił Herhor — obcy to człowiek i nie ma prawa udzielać tak ważnych rad naszemu panu. Ale pozwól, królu, ażeby spojrzał na ciebie, bo jestem pewny, że znajdzie dla twej choroby lekarstwo, a w żadnym wypadku nie obrazi twojej świętości bezbożnymi słowami.
 
-his hunger and left the hall princes or priests had the right to eat
+Faraon i tym razem uległ namowom wiernego sługi. A we dwa dni Beroes, wezwany jakimś tajemnym sposobem, przypłynął do Memfisu.
 
-food intended for the ancestors.
+Mądry Chaldejczyk, nawet nie oglądając szczegółowo faraona, taką dał radę:
 
-From the hall of refection the lord betook himself to the grand hall of
+— Trzeba znaleźć w Egipcie człowieka, którego modły dosięgają tronu Najwyższego. A gdy on szczerze pomodli się na intencję faraona, władca odzyska zdrowie i będzie żył długie lata.
 
-audience. There the highest dignitaries of state, and the nearest
+Usłyszawszy te słowa, pan spojrzał na gromadę otaczających go kapłanów i rzekł:
 
-members of the family prostrated themselves before him, after that the
+— Widzę tu tylu mężów świętych, że gdy który zechce pomyśleć o mnie, będę zdrów...
 
-minister, Herhor; the chief treasurer, the supreme judge, and the
+I uśmiechnął się nieznacznie.
 
-supreme chief of police made reports to him. The reading was varied by
+— Wszyscy jesteśmy tylko ludźmi — wtrącił cudotwórczy Beroes — więc dusze nasze nie zawsze mogą wznieść się do podnóżka Przedwiecznego. Dam jednak waszej świątobliwości nieomylny sposób odkrycia człowieka, który modli się najszczerzej i najskuteczniej.
 
-religious music and dancing, during which wreaths and flowers were cast
+— Owszem, odkryj mi go, ażeby został moim przyjacielem w ostatniej godzinie życia.
 
-on the throne of the pharaoh.
+Po przychylnej odpowiedzi pana Chaldejczyk zażądał komnaty mającej tylko jedne drzwi i przez nikogo nie zamieszkiwanej. I tego samego dnia, na godzinę przed zachodem słońca, kazał przenieść tam jego świątobliwość.
 
-After the audience his holiness betook himself to a side chamber and
+W oznaczonej porze czterech najwyższych kapłanów ubrali faraona w nową, lnianą szatę, odmówili nad nim wielką modlitwę, która stanowczo odpędzała złe moce, i usadowiwszy go w prostą lektykę z cedrowego drzewa, zanieśli pana do owej pustej komnaty, gdzie znajdował się tylko mały stolik.
 
-reposing on a couch slumbered lightly for a time; then he offered wine
+Był tam już Beroes i zwrócony do wschodu modlił się.
 
-and incense to the gods, and narrated to the priests his dreams, from
+Kiedy kapłani wyszli, Chaldejczyk zamknął ciężkie drzwi izby, włożył na ramiona purpurową szarfę, a na stoliku przed faraonem postawił szklaną kulę czarnej barwy. W lewą rękę wziął ostry sztylet z babilońskiej stali, w prawą — laskę pokrytą tajemniczymi znakami i tąż laską dookoła siebie i faraona zakreślił w powietrzu krąg. Potem zwracając się kolejno ku czterem okolicom świata szeptał:
 
-which those sages made the final disposition in affairs which his
+— Amorul, Taneha, Latisten, Rabur, Adonay... Miej litość nade mną i oczyść mnie, Ojcze niebieski, łaskawy i miłosierny... Zlej na niegodnego sługę swoje święte błogosławieństwo i wyciągnij wszechmocne ramię na duchy uparte i buntownicze, ażebym mógł rozważać w spokoju twoje święte dzieła...
 
-holiness was to settle.
+Przerwał i zwrócił się do faraona:
 
-But sometimes, when there were no dreams, or when the interpretation of
+— Mer-amen-Ramzesie, arcykapłanie Amona, czy w tej czarnej kuli dostrzegasz iskrę?...
 
-them seemed inappropriate to the pharaoh, his holiness smiled and
+— Widzę białą iskierkę, która zdaje się poruszać jak pszczoła nad kwiatem...
 
-commanded kindly to act in this way or that in given cases. This
+— Mer-amen-Ramzesie, patrz w tę iskrę i nie odrywaj od niej oczu... Nie spoglądaj ani na prawo, ani na lewo, ani na nic, cokolwiek wychylałoby się z boków...
 
-command was law which no one might change except in the execution
+I znowu szeptał:
 
-perhaps of details.
+— Baralanensis, Baldachiensis, przez potężnych książąt Genio, Lachiadae, ministrów piekielnego państwa, wywołuję was i wzywam mocą najwyższego Majestatu, którą jestem obdarzony, zaklinam was i rozkazuję...
 
-In hours after dinner his holiness, borne in a litter, showed himself
+W tym miejscu faraon wstrząsnął się ze wstrętem.
 
-in the court to his faithful guard, and then he ascended to the roof
+— Mer-amen-Ramzesie, co widzisz? — zapytał Chaldejczyk.
 
-and looked toward the four quarters of the earth, to impart to them his
+— Spoza kuli wychyla się jakaś okropna głowa... Rude włosy jeżą się... twarz zielonkowatej barwy... źrenice wywrócone na dół, że tylko białka oczu widać... Usta szeroko otwarte, jakby chciały krzyczeć...
 
-blessing. At that moment on the summits of pylons banners appeared, and
+— To trwoga — rzekł Beroes i zwrócił ponad kulę ostrze sztyletu.
 
-mighty sounds came from trumpets. Whoso heard these sounds in the city
+Nagle faraon aż zgiął się ku ziemi.
 
-or the country, an Egyptian or a stranger, fell on his face so that a
+— Dosyć!... — zawołał — dlaczego mnie tak męczysz?... Strudzone ciało chce spocząć, dusza ulecić w krainę wiecznego światła... A wy nie tylko nie pozwalacie mi umrzeć, ale jeszcze wymyślacie nowe udręczenia... Ach!... nie chcę...
 
-portion of supreme grace might descend on him.
+— Co widzisz?...
 
-At that moment it was not permitted to strike man, or beast: a stick
+— Od sufitu co chwilę spuszczają się niby dwie nogi pajęcze, straszliwe... Grube jak palmy, kosmate, zakończone hakami... Czuję, że nad moją głową unosi się potwornej wielkości pająk i osnuwa mnie siecią z lin okrętowych...
 
-raised over a man's back dropped of itself. If a criminal sentenced to
+Beroes zwrócił sztylet w górę.
 
-death, declared that the sentence was read to him at the time when the
+— Mer-amen-Ramzesie — rzekł znowu — ciągle patrz w iskrę i nie oglądaj się na boki...
 
-lord of earth and heaven had appeared, his punishment was lessened. For
+— Oto znak, który podnoszę w waszej obecności... — szeptał. — Otom jest potężnie uzbrojony w pomoc boską, przewidujący i nieustraszony, który wywołuję was przez zaklęcia... Aye, Saraye, Aye, Saraye, Aye, Saraye... przez imię wszechmocnego i wiecznie żyjącego Boga...
 
-before the pharaoh went might, and behind him followed mercy.
+W tej chwili na twarzy faraona ukazał się spokojny uśmiech.
 
-When he had made his people happy, the ruler of all things beneath the
+— Zdaje mi się — rzekł pan — że widzę Egipt... cały Egipt... Tak, to jest Nil... pustynia... Tu Memfis, tam Teby...
 
-sun entered his gardens among palms and sycamores, there he sat a
+Istotnie widział Egipt, cały Egipt, ale nie większy od alei, która ciągnęła się przez ogród jego pałacu. Dziwny obraz miał jednak tę własność, że gdy faraon skierował na jaki punkt baczniejszą uwagę, punkt ten rozrastał się w okolicę prawie naturalnej wielkości.
 
-longer time than elsewhere, receiving homage from his women and looking
+Słońce już zachodziło, oblewając ziemię złotawo-purpurowym światłem. Dzienne ptaki zasiadały do snu, nocne — budziły się w kryjówkach. W pustyni ziewały hieny i szakale, a drzemiący lew przeciągał potężne cielsko, gotując się do pościgów za łupem.
 
-at the amusements of the children of his household. When one of them
+Nilowy rybak śpiesznie wywłóczył sieci, wielkie statki transportowe przybijały do brzegów. Znużony rolnik odejmował od żurawia kubeł, którym przez cały dzień czerpał wodę, inny powoli wracał z pługiem do swej lepianki. W miastach zapalano światła, w świątyniach kapłani zbierali się na nabożeństwo wieczorne. Na gościńcach opadał kurz i milknęły skrzypiące koła wozów. Ze szczytu pylonów odezwały się jękliwe głosy wzywające naród do modlitwy.
 
-arrested his attention by beauty or adroitness he called it up, and
+W chwilę później faraon spostrzegł ze zdziwieniem niby stado srebrzystych ptaków unoszących się nad ziemią. Wylatywały one ze świątyń, pałaców, ulic, fabryk, statków nilowych, chat wieśniaczych, nawet z kopalń. Z początku każdy z nich pędził w górę jak strzała, lecz wnet spotykał pod niebem innego srebrnopiórego ptaka, który zabiegał mu drogę, uderzał go z całej siły i — obaj martwi upadali na ziemię.
 
-made inquiry,
+Były to niezgodne modlitwy ludzkie, które nawzajem przeszkadzały sobie wzbić się do tronu Przedwiecznego...
 
-"Who art thou, my little child?"
+Faraon wytężył słuch... Z początku dolatywał go tylko szelest skrzydeł; niebawem jednak mógł odróżniać wyrazy.
 
-"I am Prince Binotris, the son of his holiness," answered the little
+I oto słyszał chorego, który modlił się o powrót do zdrowia, a jednocześnie lekarza, który błagał, ażeby jego pacjent chorował jak najdłużej. Gospodarz prosił Amona o czuwanie nad jego spichrzem i oborą; złodziej wyciągał ręce do nieba, ażeby bez przeszkody mógł wyprowadzić cudzą krowę i napełnić wory cudzym ziarnem.
 
-boy.
+Modlitwy ich roztrącały się jak kamienie wyrzucone z procy.
 
-"And what is thy mother's name?"
+Wędrowiec w pustyni upadał na piasek, żebrząc o wiatr północny, który by mu przyniósł kroplę wody; morski żeglarz bił czołem o pokład, ażeby jeszcze przez tydzień wiały wiatry ze wschodu. Rolnik chciał, aby prędzej wysychały bagna po wylewie; ubogi rybak żądał, by bagna nie wysychały nigdy.
 
-"My mother is the lady Ameses, a woman of his holiness."
+I ich modły rozbijały się wzajemnie i nie dosięgły boskich uszu Amona.
 
-"What dost Thou know?"
+Największy zgiełk panował nad kamieniołomami, gdzie przestępcy, skuci w łańcuchy, za pomocą klinów moczonych wodą rozsadzali ogromne skały. Tam partia robotników dziennych błagała o noc, aby spać się położyć, podczas, gdy budzeni przez dozorców robotnicy partii nocnej bili się w piersi, aby nigdy nie zachodziło słońce. Tam kupcy, którzy nabywali odłupane i obrobione kamienie, modlili się, ażeby jak najwięcej było w kopalni przestępców, podczas gdy dostawcy żywności leżeli na brzuchach wzdychając, ażeby pomór tępił robotników i umożliwił dostawcom większe zyski.
 
-"I know how to count to ten and to write: 'May he live through eternity
+Więc i modły ludzi z kopalń nie dolatywały do nieba.
 
-our god and father, his holiness the pharaoh Ramses!"
+Na zachodniej granicy ujrzał faraon dwie armie gotujące się do boju. Obie leżały na piaskach wzywając Amona o wytępienie nieprzyjaciół. Libijczycy życzyli hańby i śmierci Egipcjanom; Egipcjanie miotali przekleństwa na Libijczyków.
 
-The lord of eternity smiled benignly and touched with his delicate,
+Modły tych i tamtych, jak dwa stada jastrzębi, starły się nad ziemią i spadły na pustynię. Amon nawet ich nie dojrzał.
 
-almost transparent, hand the curly head of the sprightly little boy.
+I gdziekolwiek zwrócił faraon umęczoną źrenicę, wszędzie było to samo. Chłopi modlili się o wypoczynek i zniżenie podatków; pisarze — aby rosły podatki i nigdy nie kończyła się praca. Kapłani błagali Amona o długie życie dla Ramzesa XII i wytępienie Fenicjan, którzy psuli im operacje pieniężne; nomarchowie wzywali bóstwa, aby zachowało Fenicjan i prędzej pozwoliło wejść na tron Ramzesowi XIII, gdyż ten ukróci samowolę kapłanów. Lwy, szakale i hieny dyszały głodem i pożądaniem świeżej krwi; jelenie, sarny i zające z trwogą opuszczały kryjówki, myśląc o zachowaniu nędznego życia jeszcze przez jedną dobę. Choć mówiło doświadczenie, że i tej nocy kilkunaścioro ich musi zginąć, ażeby nie pomarły drapieżniki.
 
-Then the child became a prince really, though the smile of his holiness
+I tak na całym świecie panowała rozterka. Każdy chciał tego, co lękiem napełniało innych; każdy prosił o własne dobro, nie pytając, czy nie zrobi szkody bliźniemu.
 
-was ever enigmatical. But whoso had been touched by the divine hand was
+Przeto modlitwy ich, chociaż były jak srebrzyste ptaki wzbijające się ku niebu, nie dosięgły przeznaczenia. I boski Amon, którego nie dochodził żaden głos z ziemi, oparłszy ręce na kolanach, coraz więcej zagłębiał się w rozpatrywaniu swojej własnej boskości, a na świecie coraz częściej rządziła ślepa moc i przypadek.
 
-not to know misfortune in life and had to be raised above others.
+Wtem faraon usłyszał głos kobiecy:
 
-The sovereign dined in another hall of refection and shared his meal
+— Psujak!... Psujaczek!... wracaj, zbytniku, do chaty, bo już pora na modlitwę...
 
-with the gods of all the divisions of Egypt, gods whose statues were
+— Zaraz... zaraz!... — odpowiedział głos dziecięcy.
 
-ranged along the walls there. Whatever the gods did not eat went to the
+Władca spojrzał w tamtym kierunku i zobaczył ubogą lepiankę pisarza od bydła. Właściciel jej przy blaskach zachodzącego słońca kończył pisać swój rejestr, jego żona rozbijała kamieniem pszenicę na placki, a przed domem, jak młody koziołek, biegał i skakał sześcioletni chłopczyna, śmiejąc się nie wiadomo z czego.
 
-priests and higher court dignitaries.
+Widać upajało go pełne woni powietrze wieczorne.
 
-Toward evening his holiness received a visit from Lady Niort's, the
+— Psujak!... Psujaczek... chodź mi tu na modlitwę... — powtarzała kobieta.
 
-mother to the heir to the throne of Egypt; looked at religious dances
+— Zaraz!... zaraz!....
 
-and heard a concert. After that he went again to the bath and, thus
+I znowu biegał, i cieszył się jak szalony.
 
-purified, entered the chapel of Osiris to undress and lay to sleep the
+Nareszcie matka, widząc, że słońce zaczyna pogrążać się w piaskach pustyni, odłożyła swój kamień i wyszedłszy na dziedziniec, schwyciła biegającego chłopca jak źrebaka. Opierał się, lecz w końcu uległ przemocy. Matka zaś, wciągnąwszy go do lepianki, czym prędzej posadziła go na podłodze i przytrzymała ręką, ażeby jej znowu nie uciekł.
 
-marvelous divinity. When he had finished this he closed and sealed the
+— Nie kręć się — mówiła — podwiń nogi i siedź prosto, a ręce złóż i podnieś do góry... A niedobre dziecko!...
 
-chapel door and then, surrounded by a procession of priests, the
+Chłopak wiedział, że już nie wykręci się od modlitwy, więc aby jak najprędzej wyrwać się znowu na podwórze, wzniósł pobożnie oczy i ręce do nieba i cieniutkim, a krzykliwym głosem prawił zadyszany:
 
-pharaoh went to his bed-chamber.
+— Dziękuję ci, dobry boży Amonie, żeś tatkę chronił dzisiaj od przygód, a mamie dał pszenicy na placki... I jeszcze co?... Żeś stworzył niebo i ziemię i zesłał jej Nil, który nam chleb przynosi... I jeszcze co?... Aha, już wiem!... I jeszcze dziękuję ci, że tak pięknie na dworze, że rosną kwiaty, śpiewają ptaki i że palma rodzi słodkie daktyle. A za te dobre rzeczy, które nam darowałeś, niechaj wszyscy kochają cię jak ja i chwalą lepiej ode mnie, bom jeszcze mały i nie uczyli mnie mądrości. No, już dosyć...
 
-In an adjoining apartment the priests offered up, till the following
+— Złe dziecko! — mruknął pisarz od bydła schylony nad swoim rejestrem. — Złe dziecko niedbale oddaje cześć Amonowi...
 
-sunrise, silent prayers to the soul of the pharaoh, which found itself
+Ale faraon w czarodziejskiej kuli dostrzegł zupełnie co innego. Oto modlitwa rozzbytkowanego chłopczyny jak skowronek wzbiła się ku niebu i trzepocąc skrzydłami wznosiła się coraz wyżej i wyżej, aż do tronu, gdzie wiekuisty Amon, z rękoma na kolanach, zagłębiał się w rozpatrywaniu swojej własnej wszechmocy.
 
-among gods during the sleep of the sovereign. They laid before it their
+Potem wzniosła się jeszcze wyżej aż na wysokość głowy bóstwa i śpiewała mu cienkim dziecięcym głosikiem:
 
-prayers for a favorable transaction of current state business, for
+— A za te dobre rzeczy, które nam darowałeś, niechaj wszyscy kochają cię jak ja...
 
-guardianship over the boundaries of Egypt, and over the tombs of the
+Na te słowa pogrążone w sobie bóstwo otworzyło oczy i padł z nich na świat promień szczęścia. Od nieba do ziemi zaległa niezmierna cisza. Ustał wszelki ból, wszelki strach, wszelka krzywda. Świszczący pocisk zawisnął w powietrzu, lew zatrzymał się w skoku na łanię, podniesiony kij nie spadł na plecy niewolnika. Chory zapomniał o cierpieniu, zbłąkany w pustyni o głodzie, więzień o łańcuchach. Ucichła burza i stanęła fala morska gotowa zatopić okręt. I na całej ziemi zapanował taki spokój, że słońce, już ukryte pod widnokręgiem, znowu podniosło promieniejącą głowę...
 
-pharaohs, so that no thief might dare to enter in and disturb the
+Faraon ocknął się. Zobaczył przed sobą mały stolik, na nim czarną kulę, a obok Chaldejczyka Beroesa.
 
-endless rest of those potentates. But the prayers of the priests,
+— Mer-amen-Ramzesie — spytał kapłan — znalazłżeś człowieka, którego modły trafią do podnóżka Przedwiecznego?
 
-because of night weariness, surely, were not always effectual, for
+— Tak — odparł faraon.
 
-state difficulties increased, and sacred tombs were robbed, not only of
+— Jestże on księciem, rycerzem, prorokiem czy może tylko zwyczajnym pustelnikiem?
 
-costly objects, but even of the mummies of sovereigns.
+— Jest to mały, sześcioletni chłopczyk, który o nic Amona nie prosił, lecz za wszystko dziękował.
 
-This was because various foreigners had settled in the country and
+— A wiesz, gdzie on mieszka? — pytał Chaldejczyk.
 
-unbelievers from whom the people learned to disregard the gods of Egypt
+— Wiem, ale nie chcę wykradać dla siebie potęgi jego modlitw. Świat, Beroesie, jest to olbrzymi wir, w którym ludzie miotają się jak piasek, a rzuca nimi nieszczęście. Zaś dziecko swoją modlitwą daje ludziom to, czego ja nie potrafię: krótką chwilę zapomnienia i spokoju. Zapomnienie i spokój... rozumiesz, Chaldejczyku?
 
-and the most sacred places.
-
-The repose of the lord of lords was interrupted exactly at midnight. At
-
-that hour the astrologers roused his holiness and informed him in what
-
-mansion the moon was, what planets were shining above the horizon, what
-
-constellations were passing the meridian and whether in general
-
-something peculiar had taken place in heavenly regions. For sometimes
-
-clouds appeared or stars fell in greater number than usual, or a fiery
-
-ball flew over Egypt.
-
-The lord listened to the report of the astrologers. In case of any
-
-unusual phenomenon he pacified them concerning the safety of the world,
-
-and commanded to write down all observations on appropriate tablets,
-
-which were sent every month to priests of the temple of the Sphinx, the
-
-greatest sages in Egypt. Those men drew conclusions from those tablets,
-
-but the most important they declared to no one, unless to their
-
-colleagues the Chaldean priests in Babylon.
-
-After midnight his holiness might sleep till the morning cockcrow if he
-
-thought proper.
-
-Such a pious and laborious life had been led, not more than half a year
-
-ago, by this kind, divine person, the distributor of protection, life,
-
-and health, who watched day and night over the earth and the sky, over
-
-the world both visible and invisible. But for the last half year his
-
-eternally living soul had begun to be more and more wearied with
-
-earthly questions, and with its bodily envelope. There were long days
-
-when he ate nothing, and nights during which he had no sleep whatever.
-
-Sometimes during an audience, there appeared on his mild face an
-
-expression of deep pain, while oftener and oftener, he fainted.
-
-The terrified Queen Niort's, the most worthy Herhor and the priests,
-
-asked the sovereign repeatedly whether anything pained him. But the
-
-lord shrugged his shoulders, and was silent, fulfilling always his
-
-burdensome duties.
-
-Then the court physicians began imperceptibly to give the most powerful
-
-remedies to restore strength to him. They mixed in his wine and food at
-
-first the ashes of a burnt horse and a bull; later of a lion, a
-
-rhinoceros, and an elephant; but these strong remedies seemed to have
-
-no effect whatever. His holiness fainted so frequently that they ceased
-
-to read reports to him.
-
-On a certain day the worthy Herhor with the queen and the priests, fell
-
-on their faces; they implored the lord to permit them to examine his
-
-divine body. He consented. The physicians examined and struck him, but
-
-found no worse sign than great emaciation.
-
-"What feelings dost Thou experience, holiness?" inquired at last the
-
-wisest physician.
-
-The pharaoh smiled.
-
-"I feel," replied he, "that it is time for me to return to my radiant
-
-father."
-
-"Thou canst not do that, holiness, without the greatest harm to thy
-
-people," said Herhor, hurriedly.
-
-"I leave you my son, Ramses, who is a lion and an eagle in one person.
-
-And in truth, if ye will obey him, he will prepare for Egypt such a
-
-fate as the world has not heard of since the beginning of ages."
-
-A chill passed through holy Herhor and the other priests at that
-
-promise. They knew that the heir to the throne was a lion and an eagle
-
-in one person, and that they must obey him. But they would have
-
-preferred to have for long years that kindly lord, whose heart, filled
-
-with compassion, was like the north wind which brings rain to the
-
-fields and coolness to mankind. Therefore they fell down all of them as
-
-one man to the pavement, groaning, and they lay prostrate till the
-
-pharaoh consented to let himself be treated.
-
-Then the physicians took him out for a whole day to the gardens, among
-
-frequent pine-trees, they nourished him with chopped meat; they gave
-
-him strong herbs with milk and old wine. These effective means
-
-strengthened his holiness for something like a week yet; then a new
-
-faintness announced itself, and to overcome that they forced their lord
-
-to drink the fresh blood of calves descended from Apes.
-
-But neither did this blood help for a long time, and they found it
-
-needful to turn for advice to the high priest of the temple of the
-
-wicked god Set.
-
-Amid general fear, the gloomy priest entered the bedchamber of his
-
-holiness. He looked at the sick pharaoh and prescribed a dreadful
-
-remedy.
-
-"It is needful," said he, "to give the pharaoh blood of innocent
-
-children to drink; each day a full goblet."
-
-The priests and magnates in the chamber were dumb when they heard this
-
-prescription. Then they whispered that the children of earth-tillers
-
-were best for the purpose, since the children of priests and great
-
-lords lost their innocence even in infancy.
-
-"It is all one to me whose children they are," said the cruel priest,
-
-"if only his holiness has fresh blood given him daily."
-
-The pharaoh, lying on the bed with closed eyes, heard that gory
-
-counsel, and the whispers of the frightened courtiers. And when one of
-
-the physicians asked Herhor timidly if it were possible to take
-
-measures to seek proper children, Ramses XII recovered. He fixed his
-
-wise eyes on those present,
-
-"The crocodile will not devour its own little ones," said he, "a jackal
-
-or a hyena will give its life for its whelps, and am I to drink the
-
-blood of Egyptian infants, who are my children? Indeed, I never could
-
-have believed that anyone would dare to prescribe means so unworthy."
-
-The priest of the evil god fell to the pavement, and explained that in
-
-Egypt no one had ever drunk the blood of infants but that the infernal
-
-powers returned health by it. Such means at least were used in
-
-Phoenicia and Assyria.
-
-"Shame on thee!" replied the pharaoh, "for mentioning in the palace of
-
-Egyptian sovereigns disgusting subjects. Knowest Thou not that
-
-Phoenicians and Assyrians are barbarous? But among us the most
-
-unenlightened earth-tiller would not believe that blood, shed without
-
-cause, could be of service to any one."
-
-Thus spoke he who was equal to immortals. The courtiers covered their
-
-faces, spotted now with shame, and the high priest of Set went silently
-
-out of the chamber.
-
-Then Herhor, to save the quenching life of the sovereign, had recourse
-
-to the last means, and told the pharaoh that in one of the Theban
-
-temples, Beroes, the Chaldean, lived in secret. He was the wisest
-
-priest of Babylon a miracle worker without equal.
-
-"For thee, holiness," said Herhor, "that sage is a stranger, and he has
-
-not the right to impart such important advice to the lord of Egypt.
-
-But, O Pharaoh, permit him to look at thee. I am sure that he will find
-
-a medicine to cure thy illness, and in no case will he offend thee by
-
-impious expressions."
-
-The pharaoh yielded this time also to persuasions from his faithful
-
-servitors. And in two days Beroes, summoned in some mysterious way, was
-
-sailing down toward Memphis.
-
-The wise Chaldean, even without examining the pharaoh minutely, gave
-
-this counsel,
-
-"We must find a person in Egypt whose prayers reach the throne of the
-
-Highest. And if this person prays sincerely for the pharaoh, the
-
-sovereign will receive his health and live for long years in strength
-
-again."
-
-On hearing these words the pharaoh looked at the priests surrounding
-
-him, and said,
-
-"I see here holy men in such numbers that, if one of them thinks of me,
-
-I shall be in health again." And he smiled imperceptibly.
-
-"We are all only men," interrupted Beroes; "hence our souls cannot
-
-always rise to the footstool of Him who existed before the ages. But,
-
-holiness, I will use an infallible method by which to find a man whose
-
-prayers have the utmost sincerity, and the highest effect."
-
-"Discover him, so that he may be a friend to me in my last hour of
-
-life," said the pharaoh.
-
-After this favorable answer the Chaldean desired a room with a single
-
-door, and unoccupied. And that same day, one hour before sunset, he
-
-asked that his holiness be borne into that chamber.
-
-At the appointed hour four of the highest priests dressed the pharaoh
-
-in a robe of new linen, pronounced a great prayer above him, this
-
-prayer expelled every evil power absolutely, and seating him in a
-
-litter they bore him to that simple chamber where there was but one
-
-small table.
-
-Beroes was there already, and, looking toward the east, was praying.
-
-When the priests had left the chamber the Chaldean closed the heavy
-
-door, put a purple scarf on his arm and placed a glass globe of black
-
-color on the table before the pharaoh. In his left hand he held a sharp
-
-dagger of Babylonian steel, in his right a staff covered with
-
-mysterious signs, and with that staff he described in the air a circle
-
-about himself and the pharaoh. Then facing in turn the four quarters of
-
-the world, he whispered,
-
-"Amorul, Taneha, Latisten, Rabur, Adonay have pity on me and purify me,
-
-O heavenly Father, the compassionate and gracious. Pour down on thy
-
-unworthy servant thy sacred blessing, and extend thy almighty arm
-
-against stubborn and rebellious spirits, so that I may consider thy
-
-sacred work calmly."
-
-He stopped and turned to the pharaoh,
-
-"Mer-Amen-Ramses, high priest of Amon, dost Thou distinguish a spark in
-
-that black globe?"
-
-"I see a white spark which seems to move like a bee above a flower."
-
-"Mer-Amen-Ramses, look at that spark and take not thy eyes from it.
-
-Look neither to the right nor the left, look not on anything whatever
-
-which may come from the sides."
-
-And again he whispered,
-
-"Baralanensis, Baldachiensis, by the mighty princes Genio, Lachidae,
-
-the ministers of the infernal kingdom, I summon you, I call you through
-
-the strength of Supreme Majesty, by which I am gifted, I adjure, I
-
-command!"
-
-At that place the pharaoh started up with aversion.
-
-"Mer-Amen-Ramses, what seest thou?" asked the Chaldean.
-
-"From beyond the globe rises some horrid head reddish hair is standing
-
-on end; a face of greenish hue; the eye looking down so that only the
-
-white of it is visible; the mouth open widely, as if to shriek."
-
-"That is Terror!" cried Beroes, and he held his sharp dagger point
-
-above the globe.
-
-Suddenly the pharaoh bent to the earth.
-
-"Enough!" cried he, "why torment me thus? The wearied body seeks rest,
-
-the soul longs to be in the region of endless light. But not only will
-
-ye not let me die; ye are inventing new torments. Oh, I wish not."
-
-"What dost Thou see?"
-
-"From the ceiling every instant two spider legs lower themselves they
-
-are terrible. As thick as palm trunks; shaggy with hooks at the ends of
-
-them. I feel that above my head is a spider of immense size, and he is
-
-binding me with a web of ship ropes."
-
-Beroes turned his dagger point upward.
-
-"Mer-Amen-Ramses," said he again, "look ever at the spark, and never at
-
-the sides. Here is a sign which I raise in thy presence," whispered he.
-
-"Here am I mightily armed with Divine aid, I, foreseeing and
-
-unterrified, who summon you with exorcisms Aye, Saraye, Aye, Saraye,
-
-Aye, Saraye in the name of the all-powerful, the all-mighty and
-
-everlasting divinity."
-
-At that moment a calm smile appeared on the lips of the pharaoh.
-
-"It seems to me," said he, "that I behold Egypt all Egypt. Yes! that is
-
-the Nile the desert. Here is Memphis, there Thebes."
-
-Indeed he saw Egypt, all Egypt, but no larger than the path which
-
-extended through the garden of his palace. The wonderful picture had
-
-this trait, that when the Pharaoh turned more deliberate attention to
-
-any point of it, that point with its environments grew to be of real
-
-size almost.
-
-The sun was going down, covering the earth with golden and purple
-
-light. Birds of the daytime were settling to sleep, the night birds
-
-were waking up in their concealments. In the desert hyenas and jackals
-
-were yawning, and the slumbering lion had begun to stretch his strong
-
-body and prepare to hunt victims.
-
-The Nile fisherman drew forth his nets hastily, men were tying up at
-
-the shores the great transport barges. The wearied earth-worker removed
-
-from the sweep his bucket with which he had drawn water since sunrise;
-
-another returned slowly with the plough to his mud hovel. In cities
-
-they were lighting lamps, in the temples priests were assembling for
-
-evening devotions. On the highways the dust was settling down and the
-
-squeak of carts was growing silent. From the pylon summits shrill
-
-voices were heard calling people to prayer.
-
-A moment later, the pharaoh saw with astonishment flocks of silvery
-
-birds over the earth everywhere. They were flying up out of palaces,
-
-temples streets, workshops, Nile barges, country huts, even from the
-
-quarries. At first each of them shot upward like an arrow, but soon it
-
-met in the sky another silvery feathered bird, which stopped its way,
-
-striking it with all force and both fell to the earth lifeless.
-
-Those were the unworthy prayers of men, which prevented each other from
-
-reaching the throne of Him who existed before the ages.
-
-The pharaoh strained his hearing. At first only the rustle of wings
-
-reached him, but soon he distinguished words also.
-
-And now he heard a sick man praying for the return of his health, and
-
-also the physician, who begged that that same patient might be sick as
-
-long as possible. The landowner prayed Amon to watch over his granary
-
-and cow-house, the thief stretched his hands heavenward so that he
-
-might lead forth another man's cow without hindrance, and fill his own
-
-bags from another man's harvest.
-
-Their prayers knocked each other down like stones which had been hurled
-
-from slings and had met in the air.
-
-The wanderer in the desert fell on the sand and begged for a north
-
-wind, to bring a drop of rain to him, the sailor on the sea beat the
-
-deck with his forehead and prayed that wind might blow from the east a
-
-week longer. The earth-worker wished that swamps might dry up quickly
-
-after inundation; the needy fisherman begged that the swamps might not
-
-dry up at any time.
-
-Their prayers killed each other and never reached the divine ears of
-
-Amon.
-
-The greatest uproar reigned above the quarries where criminals, lashed
-
-together in chain gangs, split enormous rocks with wedges, wetted with
-
-water. There a party of day convicts prayed for the night, so that they
-
-might lie down to slumber; while parties of night toilers, roused by
-
-their overseers, beat their breasts, asking that the sun might not set
-
-at any hour. Merchants who purchased quarried and dressed stones prayed
-
-that there might be as many criminals in the quarries as possible,
-
-while provision contractors lay on their stomachs, sighing for the
-
-plague to kill laborers, and make their own profits as large as they
-
-might be.
-
-So the prayers of men from the quarries did not reach the sky in any
-
-case.
-
-On the western boundary the pharaoh saw two armies preparing for
-
-battle. Both were prostrate on the sand, calling on Amon to rub out the
-
-other side. The Libyans wished shame and death to Egyptians; the
-
-Egyptians hurled curses on the Libyans.
-
-The prayers of these and of those, like two flocks of falcons, fought
-
-above the earth and fell dead in the desert. Amon did not even see
-
-them.
-
-And whithersoever the pharaoh turned his wearied glance he saw the same
-
-picture everywhere. The laborers were praying for rest and decrease of
-
-taxes, scribes were praying that taxes might increase and work never be
-
-finished. The priests implored Amon for long life to Ramses XII and
-
-death to Phoenicians, who interfered with their interests; the nomarchs
-
-implored the gods to preserve the Phoenicians and let Ramses XIII
-
-ascend the throne at the earliest, for he would curb priestly tyranny.
-
-Lions, jackals, and hyenas were panting with hunger and desire for
-
-fresh blood; deer and rabbits slipped out of hiding-places, thinking to
-
-preserve wretched life a day longer, though experience declared that
-
-numbers of them must perish, even on that night, so that beasts of prey
-
-might not famish. So throughout the whole world reigned cross-purposes
-
-everywhere. Each wished that which filled others with terror; each
-
-begged for his own good, without asking if he did harm to the next man.
-
-For this cause their prayers, though like silvery birds flying
-
-heavenward, did not reach their destination. And the divine Amon, to
-
-whom no voice of the earth came at any time, dropped his hands on his
-
-knees, and sank ever deeper in meditation over his own divinity, while
-
-on the earth blind force and chance ruled without interruption.
-
-All at once the pharaoh heard the voice of a woman, "Rogue! Little
-
-rogue! come in, Thou unruly, it is time for prayers."
-
-"This minute! this minute!" answered the voice of the little child.
-
-The sovereign looked toward the point whence the voice came and saw the
-
-poor hut of a cattle scribe. The hut owner had finished his register in
-
-the light of the setting sun, his wife was grinding flour for a cake,
-
-and before the house, like a young kid, was running and jumping the
-
-six-year-old little boy, laughing, it was unknown for what reason.
-
-The evening air full of sweetness had given him delight, that was
-
-evident.
-
-"Rogue! Little rogue! come here to me for a prayer," repeated the
-
-woman.
-
-"This minute! this minute!"
-
-And again he ran with delight as if wild.
-
-At last the mother, seeing that the sun was beginning to sink in the
-
-sands of the desert, put away her mill stones, and, going out, seized
-
-the boy, who raced around like a little colt. He resisted but gave way
-
-to superior force finally. The mother, drawing him to the hut as
-
-quickly as possible, held him with her hand so that he might not escape
-
-from her.
-
-"Do not twist," said she, "put thy feet under thee, sit upright, put
-
-thy hands together and raise them upward. Ah, Thou bad boy!"
-
-The boy knew that he could not escape now; so to be free again as soon
-
-as possible he raised his eyes and hands heavenward piously, and with a
-
-thin squeaky voice, he said,
-
-"O kind, divine Amon, I thank thee, Thou hast kept my papa today from
-
-misfortune, Thou hast given wheat for cakes to my mamma. What more?
-
-Thou hast made heaven. I thank thee. And the earth, and sent down the
-
-Nile which brings bread to us. And what more? Aha, I know now! And I
-
-thank thee because out-of-doors it is so beautiful, and flowers are
-
-growing there, and birds singing and the palms give us sweet dates. For
-
-these good things which Thou hast given us, may all love thee as I do,
-
-and praise thee better than I can, for I am a little boy yet and I have
-
-not learned wisdom. Well, is that enough, mamma?"
-
-"Bad boy!" muttered the cattle scribe, bending over his register. "Bad
-
-boy! Thou art giving honor to Amon carelessly."
-
-But the pharaoh in that magic globe saw now something altogether
-
-different. Behold the prayer of the delighted little boy rose, like a
-
-lark, toward the sky, and with fluttering wings it went higher and
-
-higher till it reached the throne where the eternal Amon with his hands
-
-on his knees was sunk in meditation on his own all-mightiness.
-
-Then it went still higher, as high as the head of the divinity, and
-
-sang with the thin, childish little voice to him:
-
-"And for those good things which Thou hast given us may all love thee
-
-as I do."
-
-At these words the divinity, sunk in himself, opened his eyes there
-
-came to the earth immense calm. Every pain ceased, every fear, every
-
-wrong stopped. The whistling missile hung in the air, the lion stopped
-
-in his spring on the deer, the stick uplifted did not fall on the back
-
-of the captive. The sick man forgot his pains, the wanderer in the
-
-desert his hunger, the prisoner his chains. The storm ceased, and the
-
-wave of the sea, though ready to drown the ship, halted. And on the
-
-whole earth such rest settled down that the sun, just hiding on the
-
-horizon, thrust up his shining head again.
-
-The pharaoh recovered. He saw before him a little table, on the table a
-
-black globe, at the side of it Beroes the Chaldean.
-
-"Mer-Amen-Ramses," asked the priest, "hast Thou found a person whose
-
-prayers reach the footstool of Him who existed before the ages?"
-
-"I have."
-
-"Is he a prince, a noble, a prophet, or perhaps an ordinary hermit?"
-
-"He is a little boy, six years old, who asked Amon for nothing, he only
-
-thanked him for everything."
-
-"But dost Thou know where he dwells?" inquired the Chaldean.
-
-"I know, but I will not steal for my own use the virtue of his prayer.
-
-The world, Beroes, is a gigantic vortex, in which people are whirled
-
-around like sand, and they are whirled by misfortune. That child with
-
-his prayer gives people what I cannot give: a brief space of peace and
-
-oblivion. Dost understand, O Chaldean?"
-
-Beroes was silent.
+Beroes milczał.

@@ -1,905 +1,350 @@
-# Kapitel 31: CHAPTER XXXI
+# Kapitel 031: Tom II - Rozdział VI
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part37.xhtml*
 
 <!-- status: pending -->
 
-THE old man kept his promise. Every day to the prince's palace in Pi-
+Hiram dotrzymał obietnicy. Co dzień do książęcego pałacu w Pi-Bast przychodziły tłumy niewolników i długie szeregi osłów dźwigających: pszenicę, jęczmień, suszone mięso, tkaniny i wino. Złoto zaś i drogie kamienie przynosili kupcy feniccy pod dozorem urzędników domu Hirama.
 
-Bast came crowds of slaves and long rows of asses bearing wheat,
+Tym sposobem namiestnik w ciągu pięciu dni otrzymał przyrzeczone mu sto talentów. Hiram policzył sobie niewielki procent: jeden talent od czterech na rok i nie żądał zastawu, lecz poprzestał na kwicie księcia poświadczonym przez sąd.
 
-barley, dried meat, woven stuffs, and wine. Phoenician merchants
+Potrzeby dworu były hojnie zaopatrzone. Trzy kochanki namiestnika otrzymały nowe szaty, mnóstwo osobliwych pachnideł i po kilka niewolnic rozmaitej barwy. Służba miała obfitość jedzenia i wina, robotnicy królewscy odebrali zaległy żołd, wojsku wydawano nadzwyczajne porcje.
 
-brought gold and precious stones under inspection of Hiram's
+Dwór był zachwycony tym więcej, że Tutmozis i inni szlachetni młodzieńcy, na rozkaz Hirama, otrzymali od Fenicjan dość wysokie pożyczki, a nomarcha prowincji Habu i jego wyżsi urzędnicy dostali kosztowne prezenta.
 
-assistants.
+Toteż uczta następowała po uczcie, zabawa po zabawie, mimo ciągle wzrastającego upału. Namiestnik, widząc powszechną radość, sam był zadowolony. Trapiła go tylko jedna rzecz: zachowanie się Mefresa i innych kapłanów. Książę myślał, iż dostojnicy ci będą mu robili wymówki za to, że zaciągnął tak wielki dług u Hirama wbrew naukom, jakie odebrał w świątyni. Tymczasem święci ojcowie milczeli i nawet nie pokazywali się u dworu.
 
-In this manner the heir received in the course of five days the hundred
+— Co to znaczy — rzekł pewnego dnia Ramzes do Tutmozisa — że kapłani nie udzielają nam upomnień?... Przecież takich zbytków jak obecnie nie dopuszczaliśmy się nigdy. Muzyka gra od rana do nocy, a my pijemy od wschodu słońca i zasypiamy z kobietami w objęciach albo ze dzbanami pod głową...
 
-talents promised. Hiram accounted a lower per cent to himself, one
+— Za co mieliby nas upominać? — odparł oburzony Tutmozis. — Czyliż nie przebywamy w mieście Astarty, dla której najmilszym nabożeństwem jest zabawa, a najpożądańszą ofiarą — miłość? Zresztą kapłani rozumieją, że po tak długich umartwieniach i postach należy ci się odpoczynek.
 
-talent for four, in a year. He asked no pledge, but was satisfied with
+— Mówili ci to? — spytał z niepokojem książę.
 
-the receipt of the prince, certified before a tribunal.
+— I nie raz. Wczoraj, nie dawniej, święty Mefres rzekł do mnie, śmiejąc się, że tak młodego człowieka, jak ty, więcej pociąga zabawa aniżeli nabożeństwo albo kłopoty rządzenia państwem.
 
-The needs of the court were satisfied bountifully. Three favorites of
+Ramzes zamyślił się. Więc kapłani uważają go za lekkomyślnego młodzieniaszka, pomimo że on, dzięki Sarze, dziś — jutro zostanie ojcem?... Ale tym lepiej: będą mieli niespodziankę, gdy przemówi do nich swoim własnym językiem...
 
-the viceroy received new robes, a number of special perfumes, and
+Co prawda książę samemu sobie robił lekkie wyrzuty: od chwili gdy opuścił świątynię Hatory, ani przez jeden dzień nie zajmował się sprawami nomesu Habu. Kapłani mogą przypuszczać, że albo jest zupełnie zadowolony objaśnieniami Pentuera, albo że — znudził się już mieszaniem do rządów.
 
-female slaves of various colors. The servants had abundance of food and
+— Tym lepiej!... — szeptał. — Tym lepiej!...
 
-wine, the pharaoh's laborers received arrears of pay, unusual rations
+W jego młodej duszy, pod wpływem ciągłych intryg otoczenia albo podejrzeń o intrygi, zaczynał budzić się instynkt obłudy. Ramzes czuł, że kapłani nie domyślają się, o czym on rozmawiał z Hiramem i jakie plany rozsnuwał w swej głowie. Tym zaślepionym wystarczało, że on bawi się, z czego wnosili, że rządy państwem pozostaną w ich rękach.
 
-were issued to the army.
+„Bogowie tak zamącili ich rozum — mówił do siebie Ramzes — że nawet nie pytają się: dlaczego Hiram udzielił mi tak wielkiej pożyczki?... A może ten chytry tyryjczyk potrafił uśpić ich podejrzliwe serca?... Tym lepiej!... tym lepiej!...”
 
-The court was delighted, the more since Tutmosis and other noble
+Robiło mu to dziwną przyjemność, gdy myślał, że kapłani oszukali się na jego rachunek. Postanowił i nadal utrzymywać ich w błędzie, więc bawił się jak szalony.
 
-youths, at the command of Hiram, received rather large loans, while the
+Istotnie kapłani, a przede wszystkim Mefres i Mentezufis, oszukali się i na Ramzesie, i na Hiramie. Przebiegły tyryjczyk udawał wobec nich człowieka bardzo dumnego ze swoich stosunków z następcą tronu, a książę z nie mniejszym powodzeniem grał rolę rozhulanego młodzika.
 
-nomarch of Habu and his higher officials received costly presents.
+Mefres był nawet pewny, że książę poważnie myśli o wypędzeniu Fenicjan z Egiptu, a tymczasem i on sam, i jego dworzanie zaciągają długi, aby ich nigdy nie spłacić.
 
-So feast followed feast and amusement amusement, though the heat
+Przez ten czas świątynia Astarty, jej liczne ogrody i dziedzińce roiły się od tłumu pobożnych. Co dzień, jeżeli nie co godzina, z głębi Azji, mimo strasznego upału, nadciągała do wielkiej bogini jakaś kompania pielgrzymów.
 
-increased always. Seeing this general delight, the viceroy was
+Dziwni to byli pielgrzymowie. Zmęczeni, zlani potem, okryci kurzem szli z muzyką, tańcząc i śpiewając niekiedy bardzo wszeteczne piosenki. Dzień upływał im na pijatyce, noc na wyuzdanej rozpuście ku czci bogini Astoreth. Każdą taką kompanię można było nie tylko poznać, ale wyczuć z daleka: nieśli bowiem ogromne bukiety ciągle świeżych kwiatów w rękach, a — zdechłe w ciągu roku koty w węzełkach.
 
-satisfied. He was troubled, however, by the bearing of Mefres and other
+Koty te oddawali pobożni do balsamowania lub wypychania paraszytom mieszkającym pod Pi-Bast, a następnie odnosili je z powrotem do domów, jako szanowne relikwie.
 
-priests. Ramses thought that those dignitaries would reproach him for
+W początkach miesiąca Misori (maj — czerwiec) książę Hiram zawiadomił Ramzesa, że tego dnia wieczorem może przyjść do fenickiej świątyni Astoreth. Gdy po zachodzie słońca ściemniło się na ulicach, namiestnik, przypiąwszy krótki miecz do boku, włożył płaszcz z kapturem i nie dostrzeżony przez nikogo ze służby wymknął się do domu Hirama.
 
-having become so indebted to Hiram in spite of those lessons which he
+Stary magnat czekał na niego.
 
-had received in the temple. Meanwhile the holy fathers were silent and
+— Cóż — rzekł z uśmiechem — nie boisz się, wasza dostojność, wchodzić do fenickiej świątyni, gdzie na ołtarzu zasiada okrucieństwo, a służy mu przewrotność?
 
-did not even show themselves.
+— Bać się?... — spytał Ramzes, patrząc na niego prawie z pogardą. — Astoreth nie jest Baalem ani ja dzieckiem, które można rzucić w rozpalony brzuch waszego boga.
 
-"What does this mean?" asked the prince one day of Tutmosis; "the
+— I książę wierzysz temu?
 
-priests do not reproach us? We have never indulged in such excesses
+Ramzes wzruszył ramionami.
 
-before. Music is sounding from morning till evening; we drink,
+— Naoczny i wiarogodny świadek — odparł — opowiadał mi o waszych ofiarach z dzieci. Pewnego czasu burza rozbiła wam kilkanaście statków. Natychmiast kapłani tyryjscy ogłosili nabożeństwo, na które zebrał się tłum ludu...
 
-beginning with sunrise, and we fall asleep with women in our arms or
+Książę mówił z widocznym wzburzeniem.
 
-pitchers at our heads."
+— Przed świątynią Baala, na wzniesieniu, siedział ogromny spiżowy posąg z głową wołu. Jego brzuch był rozpalony do czerwoności. Wtedy, na rozkaz waszych kapłanów, głupie matki fenickie zaczęły składać najpiękniejsze dzieci u stóp okrutnego boga...
 
-"Why should they reproach us?" answered the indignant Tutmosis. "Are we
+— Samych chłopców — wtrącił Hiram.
 
-not sojourning in the city of Astarte, [Astaroth] for whom amusement is
+— Tak, samych chłopców — powtórzył książę. — Kapłani skrapiali każde dziecko wonnościami, ubierali w kwiaty, a wówczas posąg chwytał je spiżowymi rękoma, otwierał paszczę i pożerał krzyczącego wniebogłosy... Za każdym razem z ust boga wybuchały płomienie...
 
-the most pleasing service, and love the most coveted sacrifice?
+Hiram śmiał się cicho.
 
-Moreover the priests understand that after such privations and fasts
+— I wasza dostojność wierzysz temu?
 
-rest is due thee."
+— Opowiadał mi to, powtarzam, człowiek, który nigdy nie kłamie.
 
-"Have they said anything?" asked the prince, with disquiet.
+— Mówił to, co istotnie widział — odparł Hiram. — Czy jednak nie zastanowiło go, że żadna z matek, którym palono dzieci, nie płakała?
 
-"Yes, more than once. Only yesterday the holy Mefres smiled, and said
+— Istotnie zadziwiła go ta obojętność kobiet, zawsze gotowych do wylewania łez, nawet nad zdechłą kurą. Dowodzi to jednak wielkiego okrucieństwa w waszym narodzie.
 
-that amusement attracted a young man like thee more than religion or
+Stary Fenicjanin kiwał głową.
 
-the labor of ruling a state."
+— Dawnoż to było? — spytał.
 
-Ramses fell to thinking,
+— Przed kilkoma laty.
 
-"So the priests looked on him as a frivolous stripling, though he,
+— No — powoli mówił Hiram — jeżeli wasza dostojność zechcesz kiedy odwiedzić Tyr, będę miał zaszczyt pokazać wam taką uroczystość...
 
-thanks to Sarah, would become a father today or to-morrow. But they
+— Nie chcę jej widzieć!...
 
-would have a surprise when he spoke to them in his own manner."
+— Następnie zaś pójdziemy na inne podwórze świątyni, gdzie książę zobaczy bardzo piękną szkołę, a w niej — zdrowych i wesołych tych samych chłopców, których przed kilkoma laty spalono...
 
-In truth the prince reproached himself somewhat. From the time that he
+— Jak to?... — zawołał Ramzes — więc oni nie zginęli?...
 
-left the temple of Hator he had not occupied himself one day with the
+— Żyją i rosną na tęgich marynarzy. Gdy wasza dostojność zostaniesz świątobliwością — obyś żył wiecznie! — może niejeden z nich będzie prowadził twoje okręty.
 
-affairs of Habu. The priests might suppose that he was either entirely
+— Więc oszukujecie wasz lud?... — roześmiał się książę.
 
-satisfied with Pentuer's explanations, or that he was tired of
+— My nikogo nie oszukujemy — odparł z powagą tyryjczyk. — Oszukuje każdy sam siebie, gdy nie pyta o objaśnienie uroczystości, której nie rozumie.
 
-interfering in government.
+— Ciekawym... — rzekł Ramzes.
 
-"So much the better!" whispered he. "So much the better!"
+— Istotnie — mówił Hiram — jest u nas zwyczaj, że ubogie matki, chcące zapewnić dobry los swoim synom, ofiarowują je na usługi państwu. Rzeczywiście dzieci te są porywane przez posąg Baala, w którym mieści się piec rozpalony. Obrządek ten nie znaczy, że dzieci są naprawdę palone, lecz — że stały się własnością świątyni i tak zginęły dla swoich matek, jak gdyby wpadły w ogień.
 
-Under the influence of the endless intrigues of those around him, or
+Naprawdę jednak nie idą one do pieca, ale do mamek i nianiek, które je przez kilka lat wychowują. Gdy zaś podrosną, zabiera je szkoła kapłanów Baala i kształci. Najzdolniejsi z tych wychowańców zostają kapłanami lub urzędnikami, mniej obdarzeni idą do marynarki i nieraz zdobywają wielkie bogactwa.
 
-suspicious of those intrigues, the instinct to deceive began in his
+Teraz chyba książę nie będziesz dziwił się, że matki tyryjskie nie opłakują swoich dzieci. Więcej powiem: teraz, panie, zrozumiesz, dlaczego w naszych prawach nie ma kar na rodziców zabijających swoje potomstwo, jak się to zdarza w Egipcie...
 
-young spirit to rouse itself. Ramses felt that the priests did not
+— Nikczemnicy znajdują się wszędzie — wtrącił namiestnik.
 
-divine the subject of his conversation with Hiram, nor the plans which
+— Ale u nas nie ma dzieciobójców — mówił dalej Hiram — bo u nas dziećmi, których nie mogą wykarmić ich matki, zajmuje się państwo i świątynia.
 
-were forming in his head. It sufficed those blinded persons, that he
+Książę zamyślił się. Nagle uścisnął Hirama i zawołał wzruszony:
 
-was amusing himself; from this they inferred that the management of the
+— Jesteście o wiele lepsi aniżeli ci, którzy opowiadają o was tak straszne historie... Bardzo cieszę się z tego...
 
-state would remain in their hands forever.
+— U nas jest niemało złego — odparł Hiram — ale wszyscy będziemy wiernymi sługami twoimi, panie, gdy nas zawołasz...
 
-"Have the gods so darkened their minds," thought Ramses, "that they do
+— Czy tak?... — spytał książę, bystro patrząc mu w oczy.
 
-not even ask themselves why Hiram gave me a loan so considerable? And
+Starzec położył rękę na sercu.
 
-perhaps that crafty Tyrian has been able to lull their suspicious
+— Przysięgam ci, następco egipskiego tronu i przyszły faraonie, że kiedykolwiek rozpoczniesz walkę z naszymi wspólnymi nieprzyjaciółmi, cała Fenicja, jak jeden mąż, pośpieszy ci z pomocą...
 
-hearts? So much the better! So much the better!"
+A oto — weź na pamiątkę naszej dzisiejszej rozmowy.
 
-He had a marvelously agreeable feeling when he thought that the priests
+Wyjął spod szat złoty medal pokryty tajemnymi znakami i, szepcąc modlitwy, zawiesił go na szyi Ramzesa.
 
-had blundered. He determined to keep them in that blunder for the
+— Z tym amuletem — mówił Hiram — możesz objechać cały świat... A gdziekolwiek spotkasz Fenicjanina, będzie ci służył radą, złotem, nawet mieczem... A teraz idźmy.
 
-future; hence he amused himself madly.
+Upłynęło już kilka godzin po zachodzie słońca, ale noc była widna, gdyż wszedł księżyc. Straszliwy upał dzienny ustąpił miejsca chłodowi; w czystym powietrzu nie było szarego pyłu, który zatruwał oddech i gryzł w oczy. Na błękitnym niebie tu i ówdzie świeciły gwiazdy rozpływające się w powodzi księżycowych blasków.
 
-Indeed the priests were mistaken, both in Ramses and Hiram. The artful
+Na ulicach ustał ruch, ale dachy wszystkich domów były napełnione bawiącymi się ludźmi. Zdawało się, że Pi-Bast jest jedną salą od brzegu do brzegu wypełnioną muzyką, śpiewem, śmiechem i dźwiękami pucharów.
 
-Tyrian gave himself out before them as very proud of his relations with
+Książę i Fenicjanin szli prędko za miasto, wybierając mniej oświetlone strony ulic. Mimo to ludzie ucztujący na tarasach niekiedy spostrzegali ich, a spostrzegłszy, zapraszali do siebie lub sypali im kwiaty na głowy.
 
-Ramses, and the prince with no less success played the role of a
+— Hej, wy tam, nocne włóczęgi! — wołano z dachów. — Jeżeli nie jesteście złodziejami, których noc wywabiła na zarobek, przyjdźcie tu do nas... Mamy dobre wino i wesołe kobiety...
 
-riotous stripling.
+Dwaj wędrowcy nie odpowiadali na te uprzejme wezwania, śpiesząc swoją drogą. Nareszcie wyszli w stronę miasta, gdzie było mniej domów, a więcej ogrodów, których drzewa, dzięki wilgotnym podmuchom morskim, rozrastały się wyżej i bujniej aniżeli w południowych prowincjach Egiptu.
 
-Mefres was even convinced that the prince was thinking seriously of
+— Już niedaleko — rzekł Hiram.
 
-expelling the Phoenicians, that meanwhile he and his courtiers were
+Książę podniósł oczy i ponad zbitą zielonością drzew zobaczył kwadratową wieżę barwy niebieskawej, na niej — szczuplejszą, białą. Była to świątynia Astoreth.
 
-contracting debts and would never pay them.
+Niebawem weszli w głąb ogrodu, skąd można było ogarnąć wzrokiem całą budowlę.
 
-But the temple of Astaroth with its numerous courts and gardens was
+Składała się ona z kilku kondygnacji. Pierwszą — tworzył taras kwadratowy o bokach mających po czterysta kroków długości; spoczywał on na murze wysokości kilku metrów, pomalowanym na czarno. Przy boku wschodnim znajdował się występ, na który z dwu stron prowadziły szerokie schody. Wzdłuż innych boków stały wieżyczki, po dziesięć przy każdym; między każdą parą wieżyczek znajdowało się po pięć okien.
 
-filled with devotees all the time. Every day, if not every hour, though
+Mniej więcej na środku tarasu wznosił się również kwadratowy budynek z bokami po dwieście kroków. Ten miał pojedyncze schody, wieże na rogach i był barwy purpurowej.
 
-the heat was excessive, some company of pilgrims to the great goddess
+Na płaskim dachu tej budowli stał znowu kwadratowy taras, wysoki na parę metrów, barwy złotej, a na nim jedna na drugiej dwie wieże: niebieska i biała.
 
-arrived from the depth of Asia.
+Całość wyglądała tak, jakby na ziemi postawił kto ogromną kostkę czarną, na niej mniejszą purpurową, na niej złotą, wyżej niebieską, a najwyżej srebrną. Na każde zaś z tych wzniesień prowadziły schody albo podwójne boczne, albo pojedyncze frontowe, zawsze od strony wschodniej.
 
-Those were strange pilgrims. Wearied, streaming with perspiration,
+Przy schodach i przy drzwiach stały na przemian wielkie sfinksy egipskie albo skrzydlate asyryjskie byki z ludzkimi głowami.
 
-covered with dust, they advanced with music, and dancing, and songs
+Namiestnik z przyjemnością patrzył na ten gmach, który przy blasku księżyca, na tle bujnej roślinności wyglądał prześlicznie. Był on wzniesiony w stylu chaldejskim i stanowczo różnił się od świątyń egipskich, naprzód — systemem kondygnacji, po wtóre — pionowymi ścianami. U Egipcjan każda poważna budowla miała ściany — pochyłe, jakby zbiegające się ku górze.
 
-sometimes of a very lewd character. The day passed for them in
+Ogród nie był pusty. W różnych punktach widać było domki i pałacyki, płonęły światła, rozlegał się śpiew i muzyka. Między drzewami od czasu do czasu mignął cień zakochanej pary.
 
-unbridled license in honor of the goddess. It was possible not only to
+Nagle zbliżył się do nich stary kapłan: zamienił kilka słów z Hiramem i, złożywszy niski ukłon księciu, rzekł:
 
-recognize every such company from afar, but to catch its odor, since
+— Racz, panie, udać się ze mną.
 
-those people always brought immense bouquets of fresh flowers in their
+— I niech bogowie czuwają nad waszą dostojnością — dorzucił Hiram, zostawiając ich.
 
-hands, and in bundles all the male cats that had died in the course of
+Ramzes poszedł za kapłanem. Nieco z boku świątyni, między największym gąszczem, stała kamienna ławka, a może o sto kroków od niej niewielki pałacyk, pod którym rozlegały się śpiewy.
 
-the current year. The devotees gave these cats to dissectors in Pi-Bast
+— Tam modlą się? — zapytał książę.
 
-to be stuffed or embalmed, and bore them home later on as valued
+— Nie!... — odparł kapłan, nie ukrywając niechęci. — To zbierają się wielbiciele Kamy, naszej kapłanki, pilnującej ognia przed ołtarzem Astoreth.
 
-relics.
+— Któregoż ona dziś przyjmie?
 
-On the first day of the month Mesori (May-June), Prince Hiram informed
+— Żadnego, nigdy!... — odparł zgorszony przewodnik. — Gdyby kapłanka od ognia nie dotrzymała ślubu czystości, musiałaby umrzeć.
 
-Ramses that he might appear at the temple of Astaroth that evening.
+— Okrutne prawo! — rzekł książę.
 
-When it had grown dark on the streets after sunset, the viceroy girded
+— Racz, panie, zaczekać na tej ławce — odezwał się zimno kapłan fenicki. — A gdy usłyszysz trzy uderzenia w spiżowe blachy, idź do świątyni, wejdź na taras, a stamtąd do purpurowego gmachu.
 
-a short sword to his side, put on a mantle with a hood, and unobserved
+— Sam?...
 
-by any servant, slipped away to the house of Hiram.
+— Tak.
 
-The old magnate was waiting for the viceroy.
+Książę usiadł na ławce, w cieniu oliwki, i słuchał śmiechów kobiecych rozlegających się w pałacyku.
 
-"Well," said he, with a smile, "art Thou not afraid, prince, to enter a
+„Kama? — myślał. — Ładne imię!... Musi być młoda, a może jest piękna, i ci głupi Fenicjanie grożą jej śmiercią, gdyby... Czy w ten sposób pragną zapewnić sobie posiadanie choćby kilkunastu dziewic na cały kraj?...”
 
-Phoenician temple where cruelty sits on the altar and perversity
+Śmiał się, ale było mu smutno. Nie wiadomo dlaczego żałował tej nieznanej kobiety, dla której miłość była wejściem do grobu.
 
-ministers?"
+„Wyobrażam sobie Tutmozisa, gdyby go mianowano kapłanką Astoreth!... Musiałby biedak umrzeć, zanim przed boginią wypaliłaby się jedna lampa...”
 
-"Fear?" repeated Ramses, looking at him almost contemptuously.
+W tej chwili pod pałacykiem rozległ się dźwięk fletu i odegrał jakąś tęskną melodię, której towarzyszyły głosy kobiet śpiewających:
 
-"Astaroth is not Baal, nor am I a child which they might throw into
+— Aha-a!... aha-a! — jakby przy kołysaniu dzieci.
 
-your god's red-hot belly."
+Ucichł flet, umilkły kobiety, a odezwał się piękny głos męski greckim językiem:
 
-"But does the prince believe this story?"
+— Kiedy na ganku błyśnie twoja szata, bledną gwiazdy i milkną słowiki, a w moim sercu budzi się taka cisza jak na ziemi, gdy ją powita biały świt...
 
-Ramses shrugged his shoulders.
+— Aha-a!... aha-a!... aha-a! — nuciły kobiety i flet znowu odegrał zwrotkę.
 
-"An eyewitness and a trustworthy person," answered he, "told me how ye
+— A gdy rozmodlona udajesz się do świątyni, fiołki otaczają cię wonnym obłokiem, motyle krążą około twoich ust, palmy przed twoją pięknością schylają głowy...
 
-sacrifice children. Once a storm wrecked a number of tens of your
+— Aha-a!... aha-a!... aha-a!...
 
-vessels. Immediately the Tyrian priests announced a religious ceremony
+— Gdy cię nie widzę, patrzę na niebo, ażeby przypomnieć sobie słodki spokój twojego oblicza. Daremna praca! Niebo nie posiada twojej pogody, a jego żar jest zimnem wobec płomieni, które spopieliły moje serce.
 
-at which throngs of people collected." The prince spoke with evident
+— Aha-a!... aha-a!...
 
-indignation. "Before the temple of Baal situated on a lofty place was
+— Jednego dnia stanąłem między różami, które blask twoich spojrzeń obleka w białość, szkarłaty i złoto. Każdy ich listek przypomniał mi jedną godzinę, każdy kwiat — jeden miesiąc przepędzony u twoich stóp. A krople rosy to moje łzy, którymi poi się okrutny wiatr pustyni.
 
-an immense bronze statue with the head of a bull. Its belly was red
+Daj znak, a porwę cię i uniosę do mojej miłej ojczyzny. Morze oddzieli nas od prześladowców, mirtowe gaje ukryją nasze pieszczoty i czuwać będą nad naszym szczęściem litościwsi dla zakochanych bogowie.
 
-hot. At command of your priests the foolish Phoenician mothers put
+— Aha-a!... aha-a!...
 
-their most beautiful children at the feet of this cruel divinity."
+Ramzes przymknął oczy i marzył. Przez zapuszczone rzęsy już nie widział ogrodu, tylko powódź księżycowego światła, wśród której rozpływały się czarne cienie i śpiew nieznanego człowieka do nieznanej kobiety. Chwilami ten śpiew tak go ogarniał, tak głęboko wdzierał mu się w duszę, że Ramzes miał chęć zapytać się: czy to nie on śpiewa, a nawet czy — on sam nie jest tą pieśnią miłosną?...
 
-"Only boys," interrupted Hiram.
+W tym momencie jego tytuł, władza i ciężkie zagadnienia państwowe, wszystko wydawało mu się nędznym drobiazgiem wobec tej nocy księżycowej i tych okrzyków zakochanego serca. Gdyby mu dano do wyboru: całą potęgę faraona czy ten duchowy nastrój, w jakim znajdował się obecnie, wolałby swoje rozmarzenie, w którym zniknął cały świat, on sam, nawet czas, a została tęsknota lecąca w wieczność na skrzydłach pieśni.
 
-"Only boys," continued Ramses. "The priests sprinkled each boy with
+Wtem książę ocknął się, śpiew umilkł, w pałacyku pogasły światła, a na tle jego białych ścian ostro odbijały czarne, puste okna. Można było myśleć, że tu nikt nigdy nie mieszkał. Nawet ogród opustoszał i ucichł, nawet lekki wiatr przestał poruszać listkami.
 
-perfumes, decked him with flowers, and then the statue seized him with
+Raz!... dwa!... trzy!... Ze świątyni odezwały się trzy potężne odgłosy spiżu.
 
-bronze hands, opened its jaws, and devoured the child, whose screams
+„Aha! muszę tam iść...” — pomyślał książę, dobrze nie wiedząc, gdzie ma iść i po co.
 
-meanwhile were heaven piercing. Flames burst each time from the mouth
+Skierował się jednak w stronę świątyni, której srebrzysta wieża górowała nad drzewami, jakby wzywając go do siebie.
 
-of the deity."
+Szedł odurzony, pełen dziwacznych zachceń. Między drzewami było mu ciasno: pragnął wejść na szczyt tej wieży i odetchnąć, ogarnąć wzrokiem jakiś szerszy horyzont. To znowu przypomniawszy sobie, że jest miesiąc Misori, że już rok upłynął od manewrów w pustyni, uczuł tęsknotę za pustynią. Jakżeby chętnie siadł na swój lekki wóz zaprzęgnięty w parę koni i leciał gdzieś naprzód, gdzie nie byłoby tak duszno, a drzewa nie zasłaniały widnokręgu.
 
-Hiram laughed in silence.
+Był już u stóp świątyni, więc wszedł na taras. Cicho i pusto, jakby wszyscy wymarli; tylko z daleka szemrała woda fontanny. Na drugich schodach rzucił swój burnus i miecz, jeszcze raz spojrzał na ogród, jakby mu żal było księżyca, i wszedł do świątyni. Ponad nim wznosiły się jeszcze trzy kondygnacje.
 
-"And dost Thou believe this, worthiness?"
+Spiżowe drzwi były otwarte, z obu stron wejścia stały skrzydlate figury byków z ludzkimi głowami, na których twarzach panował dumny spokój.
 
-"I repeat what a man told me who has never lied."
+„To królowie asyryjscy” — pomyślał książę, przypatrując się ich brodom, splecionym w drobne warkoczyki.
 
-"He told what he saw. But did it not surprise him that no mother whose
+Wnętrze świątyni było czarne jak najczarniejsza noc; ciemność tę potęgowały jeszcze białe smugi księżycowego światła wpadające przez wąskie a wysokie okna.
 
-children they burned was weeping?"
+W głębi paliło się dwie lampy przed posągiem bogini Astoreth. Jakieś dziwne oświetlenie z góry sprawiało, że posąg był doskonale widzialny. Ramzes patrzył. Była to olbrzymia kobieta ze strusimi skrzydłami. Miała na sobie długą, fałdzistą szatę, na głowie spiczastą czapkę, w prawej ręce parę gołębi. Jej piękna twarz i spuszczone oczy miały wyraz takiej słodyczy, takiej niewinności, że księcia ogarnęło zdumienie: była to bowiem patronka zemsty i najbardziej wyuzdanej rozpusty.
 
-"He was astonished, indeed, at such indifference in women, since they
+Fenicja ukazała mu jeszcze jedną ze swych tajemnic.
 
-are always ready to shed tears even over a dead hen. But it shows great
+„Osobliwy naród! — pomyślał. — Ich ludożerczy bogowie nie zjadają, a ich wszeteczeństwem opiekują się dziewicze kapłanki i bogini z dziecięcą twarzą...”
 
-cruelty in your people."
+Wtem uczuł, że po nogach prędko przesunęło mu się coś jakby wielki wąż. Ramzes cofnął się i stanął w smudze księżycowego światła.
 
-The old Phoenician nodded.
+„Przywidzenie!...” — rzekł do siebie.
 
-"Was that long ago?" asked he.
+Prawie w tej chwili usłyszał szept:
 
-"A few years."
+— Ramzesie!... Ramzesie!...
 
-"Well," said Hiram, deliberately, "shouldst Thou wish to visit Tyre
+Niepodobna było poznać: czyj to głos — męski czy kobiecy i skąd pochodzi.
 
-some day, I shall have the honor to show thee a solemnity like that
+— Ramzesie!... Ramzesie!... — rozległ się szept, jakby od podłogi.
 
-one."
+Książę wszedł w miejsce nieoświetlone i nasłuchując pochylił się. Nagle poczuł na swej głowie dwie delikatne ręce.
 
-"I have no wish to see it."
+Zerwał się, aby je złapać, ale schwycił tylko powietrze.
 
-"After the ceremony we shall go to another court of the temple, where
+— Ramzesie!... — szepnięto z góry.
 
-the prince will see a very fine school, and in it, healthy and
+Podniósł głowę i uczuł na ustach kwiat lotosu, a gdy wyciągnął ku niemu ręce, ktoś lekko oparł się na jego ramionach.
 
-gladsome, those very same boys who were burnt a few years ago."
+— Ramzesie!... — zawołano od ołtarza.
 
-"How is that?" exclaimed Ramses; "then did they not perish?"
+Książę odwrócił się i osłupiał. W smudze światła, o parę kroków stał prześliczny człowiek, zupełnie podobny do niego. Ta sama twarz, oczy, młodzieńczy zarost, ta sama postawa, ruchy i odzienie.
 
-"They are living, and growing up to be sturdy mariners. When Thou shalt
+Książę przez chwilę myślał, że stoi przed wielkim lustrem, jakiego nawet faraon nie posiadał. Wnet jednak przekonał się, że jego sobowtór nie jest wizerunkiem, ale żywym człowiekiem.
 
-be pharaoh, mayst Thou live through eternity! perhaps more than one of
+W tej chwili uczuł pocałunek na szyi. Znowu odwrócił się, lecz nie było nikogo, a tymczasem i jego sobowtór zniknął.
 
-them will be sailing thy ships."
+— Kto tu jest?... Chcę wiedzieć!... — zawołał rozgniewany książę.
 
-"Then ye deceive your people?" laughed the prince.
+— To ja... Kama... — odpowiedział słodki głos.
 
-"We deceive no one," answered the Tyrian, with dignity. "Each man
+I w świetlnej smudze ukazała się prześliczna kobieta, naga, w złotej przepasce około bioder.
 
-deceives himself when he does not seek the explanation of a solemnity
+Ramzes pobiegł i schwycił ją za rękę. Nie uciekła.
 
-which he does not understand."
+— Ty jesteś Kama?... Nie, ty jesteś... Tak, ciebie kiedyś przysłał do mnie Dagon, ale wówczas nazywałaś się Pieszczotą...
 
-"I am curious," said Ramses.
+— Bo ja jestem i Pieszczota — odpowiedziała naiwnie.
 
-"In fact," continued Hiram, "we have a custom that indigent mothers
+— Ty mnie dotykałaś rękoma?...
 
-wishing to assure their sons a good career give them to the service of
+— Ja.
 
-the state. In reality, those children are taken across the statue of
+— Jakim sposobem?...
 
-Baal, in which there is a heated stove. This ceremony does not mean
+— A o, takim... — odpowiedziała, zarzucając mu ręce na szyję i całując go.
 
-that the children are really burnt, but that they have been given to
+Ramzes pochwycił ją w objęcia, ale wydarła mu się z siłą, której nie można było podejrzewać w tak drobnej postaci.
 
-the temple, and so are as much lost to their mothers as if they had
+— Więc to ty jesteś kapłanka Kama?... Więc to do ciebie śpiewał dzisiaj ten Grek... — mówił książę, namiętnie ściskając jej ręce. — Co za jeden ten śpiewak?...
 
-fallen into fire.
+Kama pogardliwie wzruszyła ramionami.
 
-"In truth, however, they do not go to the stove, but to nurses and
+— On jest przy naszej świątyni — rzekła.
 
-women who rear them for some years. When they have grown up
+Ramzesowi płonęły oczy, rozszerzały się nozdrza, szumiało mu w głowie. Ta sama kobieta przed kilkoma miesiącami zrobiła na nim małe wrażenie, ale dziś gotów był dla niej popełnić szaleństwo. Zazdrościł Grekowi, a jednocześnie czuł nieopisany żal na myśl, że gdyby ona została jego kochanką, musiałaby umrzeć.
 
-sufficiently, the school of priests of Baal receives and educates them.
+— Jakaś ty piękna — mówił. — Gdzie mieszkasz?... Ach, wiem, w tamtym pałacyku... Czy można cię odwiedzić?... Naturalnie, jeżeli przyjmujesz wizyty śpiewaków, musisz i mnie przyjąć... Czy naprawdę jesteś kapłanką pilnującą ognia?...
 
-The most competent become priests or officials; the less gifted go to
+— Tak.
 
-the navy and obtain great wealth frequently. Now I think the prince
+— I wasze prawa są tak okrutne, że nie pozwalają ci kochać?... Ech, to są pogróżki!... Dla mnie zrobisz wyjątek...
 
-will not wonder that Tyrian mothers do not mourn for their children. I
+— Przeklęłaby mnie cała Fenicja, zemściliby się bogowie... — odparła ze śmiechem.
 
-will say more: Thou wilt understand, lord, why there is no punishment
+Ramzes znowu przyciągnął ją do siebie, ona znowu wydarła się.
 
-for parents who kill their children, as there is in Egypt."
+— Strzeż się, książę — mówiła z wyzywającym spojrzeniem. — Fenicja jest potężna, a jej bogowie...
 
-"Wretches are found in all lands," replied the prince.
+— Co mnie obchodzą twoi bogowie albo Fenicja... Gdyby ci włos spadł, zdeptałbym Fenicję jak złą gadzinę...
 
-"But there is no child murder in our country," continued Hiram, "for
+— Kama!... Kama!... — odezwał się od posągu głos.
 
-with us children, when their mothers are unable to support them, are
+Przeraziła się.
 
-taken to the temple by the state."
+— O widzisz, wołają mnie... Może nawet słyszeli twoje bluźnierstwa...
 
-The prince fell to thinking; suddenly he embraced Hiram, and said with
+— Bodajby nie usłyszeli mego gniewu!... — wybuchnął książę.
 
-emotion,
+— Gniew bogów jest straszniejszy...
 
-"Ye are much better than those who tell tales of you. I am greatly
+Szarpnęła się i znikła w cieniach świątyni. Ramzes rzucił się za nią, lecz nagle cofnął się. Całą świątynię, między ołtarzem i nim, zalał ogromny, krwawy płomień, wśród którego zaczęły ukazywać się potworne figury: wielkie niedoperze, gady z ludzkimi twarzami, cienie...
 
-rejoiced at this."
+Płomień szedł prosto na niego całą szerokością gmachu, a oszołomiony nie znanym sobie widokiem książę cofał się wstecz. Nagle owionęło go świeże powietrze. Odwrócił głowę — był już na zewnątrz świątyni, a jednocześnie spiżowe drzwi z łoskotem zatrzasnęły się przed nim.
 
-"Among us, too, there is no little evil," answered Hiram; "but we are
+Przetarł oczy, rozejrzał się. Księżyc z najwyższego punktu na niebie zniżał się już ku zachodowi. Obok kolumny Ramzes znalazł swój miecz i burnus. Podniósł je i zeszedł ze schodów jak pijany.
 
-all ready to be thy faithful servants shouldst Thou call us."
+Kiedy późno wrócił do pałacu, Tutmozis, widząc jego pobladłą twarz i mętne spojrzenie, zawołał z trwogą:
 
-"Is this true?" asked the prince, looking him in the eyes.
+— Przez bogi! gdzieżeś to był, erpatre?... Cały twój dwór nie śpi zaniepokojony...
 
-The old man put his hand on his heart.
+— Oglądałem miasto. Ładna noc...
 
-"I swear to thee, O heir to the throne of Egypt and future pharaoh,
+— Wiesz — dodał spiesznie Tutmozis, jakby lękając się, aby go kto inny nie uprzedził. — Wiesz, Sara powiła ci syna...
 
-that if Thou begin at any time a struggle with our common enemy,
+— Doprawdy?... Chcę, ażeby nikt z orszaku nie niepokoił się o mnie, ile razy wyjdę na przechadzkę.
 
-Phoenicia will hasten as one man to assist thee. But receive this as a
+— Sam?...
 
-reminder of our conversation."
+— Gdybym nie mógł wychodzić sam, gdzie mi się podoba, byłbym najnieszczęśliwszym niewolnikiem w tym państwie — odparł cierpko namiestnik.
 
-He drew from beneath his robe a gold medal covered with mysterious
+Oddał miecz i burnus Tutmozisowi i poszedł do swojej sypialni, nie wzywając nikogo. Jeszcze wczoraj wiadomość o urodzeniu się syna napełniłaby go radością. Lecz w tej chwili przyjął ją obojętnie. Całą duszę wypełniły mu wspomnienia dzisiejszego wieczoru, najdziwniejszego, jaki dotychczas poznał w życiu.
 
-characters, and, muttering a prayer, hung it on the neck of Prince
+Jeszcze widział światło księżyca, w uszach rozlegała się pieśń Greka. A ta świątynia Astarty!...
 
-Ramses.
-
-"With this amulet," continued Hiram, "Thou mayst travel the whole world
-
-through, and if Thou meet a Phoenician he will serve thee with advice,
-
-with gold, with his sword even. But now let us go."
-
-Some hours had passed since sunset, but the night was clear, for the
-
-moon had risen. The terrible heat of the day had yielded to coolness.
-
-In the pure air was floating no longer that gray dust which bit the
-
-eyes and poisoned respiration. In the blue sky here and there twinkled
-
-stars which were lost in the deluge of moonbeams.
-
-Movement had stopped on the streets, but the roofs of all the houses
-
-were filled with people occupied in amusement. Pi-Bast seemed from edge
-
-to edge to be one hall filled with music, singing, laughter, and the
-
-sound of goblets.
-
-The prince and the Phoenician went speedily to the suburbs, choosing
-
-the less lighted sides of the streets. Still, people feasting on
-
-terraces saw them at intervals, and invited them up, or cast flowers
-
-down on their heads.
-
-"Hei, ye strollers!" cried they, from the roofs. "If ye are not thieves
-
-called out by the night to snatch booty, come hither, come up to us. We
-
-have good wine and gladsome women."
-
-The two wanderers made no answer to those hospitable invitations; they
-
-hurried on in their own way. At last they came to a quarter where the
-
-houses were fewer, the gardens more frequent, the trees, thanks to damp
-
-sea-breezes, more luxuriant and higher than in the southern provinces
-
-of Egypt.
-
-"It is not far now," said Hiram.
-
-The prince raised his eyes, and over the dense green of trees he saw a
-
-square tower of blue color; on it a more slender tower, which was
-
-white. This was the temple of Astaroth. Soon they entered the garden,
-
-whence they could take in at a glance the whole building.
-
-It was composed of a number of stories. The top of the lowest was a
-
-square platform with sides four hundred yards long; its walls were a
-
-few meters high, and all of black color. At the eastern side was a
-
-projection to which came two wide stairways. Along the other three
-
-sides of this first story were small towers, ten on each side; between
-
-each pair of towers were five windows.
-
-More or less in the centre of this lowest platform rose a quadrangular
-
-building with sides two hundred yards long. This had a single stairway,
-
-towers at the comers, and was purple. On the top of this building was
-
-another of golden color, and above it, one upon the other, two towers
-
-one blue, the other white.
-
-The whole building looked as if some power had placed on the earth one
-
-enormous black dice, on it a smaller one of purple, on that a golden
-
-one, on that a blue, and, highest of all, a silver dice. To each of
-
-these elevations stairs led, either double flights along the sides or
-
-single front stairs, always on the eastern walls.
-
-At the sides of the stairs and doors stood, alternately, great Egyptian
-
-sphinxes, or winged Assyrian human-headed bulls.
-
-The viceroy looked with delight at this edifice, which in the moonlight
-
-and against the background of rich vegetation had an aspect of
-
-marvelous beauty. It was built in Chaldean style, and differed
-
-essentially from the temples of Egypt, first, by the system of stories,
-
-second, by the perpendicular walls.
-
-Among the Egyptians every great building had sloping sides receding
-
-inward as they rose.
-
-The garden was not empty. At various points small villas and houses
-
-were visible, lights were flashing, songs and music were heard. From
-
-time to time among trees appeared shadows of loving couples.
-
-All at once an old priest approached them, exchanged a few words with
-
-Hiram, and said to the prince with a low obeisance,
-
-"Be pleased, lord, to come with me."
-
-"And may the gods watch over thee, worthiness," added Hiram, as he left
-
-him.
-
-Ramses followed the priest. Somewhat aside from the temple, in the
-
-thickest of the grove, was a stone bench, and perhaps a hundred rods
-
-from it a villa of no great size at which was heard singing.
-
-"Are people praying there?" asked the prince.
-
-"No," answered the priest, without concealing his dislike; "at that
-
-house assemble the worshippers of Kama, our priestess who guards the
-
-fire before the altar of Astaroth."
-
-"Whom does she receive today?"
-
-"No one at any time," answered the guide, offended. "Were the priestess
-
-of the fire not to observe her vow of chastity she would have to die."
-
-"A cruel law," observed Ramses.
-
-"Be pleased, lord, to wait at this bench," said the Phoenician priest,
-
-coldly; "but on hearing three blows against the bronze plate, go to the
-
-temple, ascend to the first platform, and thence to the purple story."
-
-"Alone?"
-
-"Yes."
-
-The prince sat down on the bench, in the shadow of an olive tree, and
-
-heard the laughter of women in the villa.
-
-"Kama," thought he, "is a pretty name. She must be young, and perhaps
-
-beautiful, and those dull Phoenicians threaten her with death. Do they
-
-wish in this way to assure themselves even a few virgins in the whole
-
-country?"
-
-He laughed, but was sad. It was uncertain why he pitied that unknown
-
-woman for whom love would be a passage to the grave.
-
-"I can imagine to myself Tutmosis if he were appointed priestess of
-
-Astaroth," thought Ramses. "He would have to die, poor fellow, before
-
-he could light one lamp before the face of the goddess."
-
-At that moment a flute was heard in the villa, and some one played a
-
-plaintive air, which was accompanied by female singers, "Aha-a! aha-a!"
-
-as in the lullaby of infants.
-
-The flute stopped, the women were silent, and a splendid male voice was
-
-heard, in the Greek language:
-
-"When thy robe gleams on the terrace, the stars pale and the
-
-nightingales cease to sing, but in my heart there is stillness like
-
-that which is on earth when the clear dawn salutes it."
-
-"Aha-a! aha-a!" continued the women. The flute played again.
-
-"When Thou goest to the temple, violets surround thee in a cloud of
-
-fragrance, butterflies circle near thy lips, palms bend their heads to
-
-thy beauty."
-
-"aha-a! aha-a!"
-
-"When Thou art not before me, I look to the skies to recall the sweet
-
-calm of thy features. Vain labor! The heavens have no calm like thine,
-
-and their heat is cold when compared with the flame which is turning my
-
-heart into ashes."
-
-"Aha-a! aha-a!"
-
-"One day I stood among roses, which the gleam of thy glances clothe in
-
-white, gold, and scarlet. Each leaf of them reminded me of one hour,
-
-each blossom of one month passed at thy feet. The drops of dew are my
-
-tears, which are drunk by the merciless wind of the desert.
-
-"Give a sign; I will seize thee, I will bear thee away to my
-
-birthplace, beloved. The sea will divide us from pursuers, myrtle
-
-groves will conceal our fondling, and gods, more compassionate toward
-
-lovers, will watch over our happiness."
-
-"Aha-a! aha-a!"
-
-The prince dropped his eyelids and imagined. Through his drooping
-
-lashes he could not see the garden, he saw only the flood of moonlight
-
-in which were mingled shadows and the song of the unknown man to the
-
-unknown woman. At instants that song seized him to such a degree, and
-
-forced itself into his spirit so deeply, that Ramses wished to ask: "Am
-
-I not the singer myself? nay, am I not that love song?"
-
-At this moment his title, his power, the burdensome problems of state,
-
-all seemed to him mean, insignificant in comparison with that moonlight
-
-and those calls of a heart which is enamored. If the choice had been
-
-given him to take the whole power of the pharaoh, or that spiritual
-
-condition in which he then found himself, he would have preferred that
-
-dreaming, in which the whole world, he himself, even time, disappeared,
-
-leaving nothing behind but desire, which was now rushing forth to
-
-infinity borne on the wings of song and of music.
-
-Meanwhile the prince recovered, the song had ended, the lights in the
-
-villa had vanished, the white walls, the dark vacant windows were
-
-sharply outlined. One might have thought that no person had ever been
-
-in that house there. The garden was deserted and silent, even the
-
-slight breath of air stirred the leaves no longer.
-
-One! two! three! From the temple were heard three mighty sounds from
-
-bronze.
-
-"Ah! I must go," thought the prince, not knowing well whither he was to
-
-go or for what purpose.
-
-He turned, however, in the direction of the temple, the silver tower of
-
-which rose above the trees as if summoning him.
-
-He went as in a trance, filled with strange wishes. Among the trees it
-
-was narrow for him; he wished to ascend to the top of that tower, to
-
-draw breath, to take in with his glance some wider horizon. Again he
-
-remembered that it was the month Mesori, that a year had passed since
-
-the maneuvers; he felt a yearning for the desert. How gladly would he
-
-mount his light chariot drawn by two horses, and fly away to some place
-
-where it was not so stifling, and trees did not hide the horizon!
-
-He was at the steps of the temple, so he mounted to the platform. It
-
-was quiet and empty there, as if all had died; but from afar the water
-
-of a fountain was murmuring. At the second stairway he threw aside his
-
-burnous and sword; once more he looked at the garden, as if he were
-
-sorry to leave the moonlight behind, and entered the temple. There were
-
-three stories above him.
-
-The bronze doors were open; at both sides of the entrance stood winged
-
-figures of bulls with human heads; on the faces of these was dignified
-
-calmness.
-
-"Those are kings of Assyria," thought the prince, looking at their
-
-beards plaited in tiny tresses.
-
-The interior of the temple was as black as night when 't is blackest.
-
-The darkness was intensified more by white streaks of moonlight falling
-
-in through narrow high windows.
-
-In the depth of the temple two lamps were burning before the statue of
-
-Astaroth. Some strange illumination from above caused the statue to be
-
-perfectly visible. Ramses gazed at it. That was a gigantic woman with
-
-the wings of an ostrich. She wore a long robe in folds; on her head was
-
-a pointed cap, in her right hand she held a pair of doves. On her
-
-beautiful face and in her downcast eyes was an expression of such
-
-sweetness and innocence that astonishment seized the prince, for she
-
-was the patroness of revenge and of license the most unbridled.
-
-"Phoenicia has shown me one more of her secrets. A strange people,"
-
-thought Ramses. "Their man-eating gods do not eat, and their lewdness
-
-is guarded by virgin priestesses and by a goddess with an innocent
-
-face."
-
-Thereupon he felt that something had slipped across his feet quickly,
-
-as it were a great serpent. Ramses drew back and stood in the streak of
-
-moonlight.
-
-"A vision!" said he to himself.
-
-Almost at that moment he heard a whisper,
-
-"Ramses! Ramses!"
-
-It was impossible to discover whether that was a man's or a woman's
-
-voice, or whence it issued.
-
-"Ramses! Ramses!" was heard a whisper, as if from the ceiling.
-
-The prince went to an un-illuminated place and, while looking, bent
-
-down.
-
-All at once he felt two delicate hands on his head.
-
-He sprang up to grasp them, but caught only air.
-
-"Ramses!" was whispered from above.
-
-He raised his head, and felt on his lips a lotus flower; and when he
-
-stretched his hands to it some one leaned on his arm lightly.
-
-"Ramses!" called a voice from the altar.
-
-The prince turned and was astounded. In the streak of light, a couple
-
-of steps distant, stood a most beautiful man, absolutely like the heir
-
-to the throne of Egypt. The same face, eyes, youthful stature, the same
-
-posture, movements, and dress.
-
-The prince thought for a while that he was before some great mirror,
-
-such a mirror as even the pharaoh could not have. But soon he convinced
-
-himself that his second was a living man, not a picture.
-
-At that moment he felt a kiss on his neck. Again he turned, but there
-
-was no one; meanwhile his second self vanished.
-
-"Who is here? I wish to know!" cried the angry prince.
-
-"It is I 'Kama," answered a sweet voice.
-
-And in the strip of light appeared a most beautiful woman, naked, with
-
-a golden girdle around her waist.
-
-Ramses ran up and seized her by the hands. She did not flee.
-
-"Art Thou Kama? No, Thou art Yes, Dagon sent thee on a time, but then
-
-Thou didst call thyself Fondling."
-
-"But I am Fondling, too," replied she, naively.
-
-"Is it Thou who hast touched me with thy hands?"
-
-UJ
-
-"How?"
-
-"Ao! in this way," answered she, throwing her arms around his neck, and
-
-kissing him.
-
-Ramses seized her in his arms, but she tore herself free with a force
-
-which no one could have suspected in such a slight figure.
-
-"Art Thou then the priestess Kama? Was it to thee that that Greek sang
-
-to-night?" asked the prince, pressing her hands passionately. "What
-
-sort of man is that singer?"
-
-Kama shrugged her shoulders contemptuously.
-
-"He is attached to our temple," was the answer.
-
-Ramses' eyes flamed, his nostrils dilated, there was a roaring in his
-
-head. That same woman a few months before had made on him only a slight
-
-impression; but today he was ready to commit some mad deed because of
-
-her. He envied the Greek, and felt also indescribable sorrow at the
-
-thought that if she became his she must perish.
-
-"How beautiful Thou art," said he. "Where dost Thou dwell? Ah, I know;
-
-in that villa. Is it possible to visit thee? Of course it is. If Thou
-
-receive singers, Thou must receive me. Art Thou really the priestess
-
-guarding the fire of this temple?"
-
-"I am."
-
-"And are the laws so severe that they do not permit thee to love? Ei,
-
-those are threats! For me Thou wilt make exception."
-
-"All Phoenicia would curse me; the gods would take vengeance," replied
-
-she, with a smile.
-
-Ramses drew her again toward him; again she tore herself free.
-
-"Have a care, prince," said she, with a challenging look. "Phoenicia is
-
-mighty, and her gods."
-
-"What care I for thy gods or Phoenicia? Were a hair to fall from thy
-
-head, I would trample Phoenicia as I might a foul reptile."
-
-"Kama! Kama!" called a voice from the statue.
-
-She was frightened.
-
-"Thou seest they call me. They may have heard thy blaspheming."
-
-"They may have heard my anger."
-
-"The anger of the gods is more terrible."
-
-She tore away and vanished in the darkness of the temple. Ramses rushed
-
-after her, but was pushed back on a sudden. The whole temple between
-
-him and the altar was filled with an immense bloody flame, in which
-
-monstrous figures appeared, huge bats, reptiles with human heads,
-
-shades.
-
-The flame advanced toward him directly across the whole width of the
-
-building; and, amazed by this sight, which was new to him, the prince
-
-retreated. All at once fresh air was around him. He turned his head he
-
-was outside the temple, and that instant the bronze doors closed with a
-
-crash behind.
-
-He rubbed his eyes, he looked around. The moon from the highest point
-
-in the heavens had lowered toward the west. At the side of the column
-
-Ramses found his sword and burnous. He raised them, and moved down the
-
-steps like a drunken man.
-
-When he returned to his palace at a late hour, Tutmosis, on seeing his
-
-pale face and troubled look, cried with alarm,
-
-"By the gods! where hast Thou been, Erpatr? Thy whole court is alarmed
-
-and sleepless."
-
-"I was looking at the city. The night is beautiful."
-
-"Dost Thou know," added Tutmosis, hurriedly, as if fearing that some
-
-one else might anticipate him, "that Sarah has given thee a son?"
-
-"Indeed? I wish no one in the retinue to be alarmed when I go out to
-
-walk."
-
-"Alone?"
-
-"If I could not go out alone when it pleases me, I should be the most
-
-wretched slave in Egypt," said Ramses, bitterly.
-
-He gave his sword and burnous to Tutmosis, and went to his bedroom
-
-without calling any one. Yesterday the birth of a son would have filled
-
-him with gladness; but at that moment he received the news with
-
-indifference. His whole soul was occupied with the thought of that
-
-evening, the most wonderful in all his life experience. He still saw
-
-the light of the moon; in his ears the song of the Greek was still
-
-sounding. But that temple of Astaroth!
-
-He could not sleep till morning.
+Nie mógł zasnąć do rana.

@@ -1,433 +1,158 @@
-# Kapitel 23: CHAPTER XXIII
+# Kapitel 023: Tom I - Rozdział XXIII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part27.xhtml*
 
 <!-- status: pending -->
 
-IN the city of Anu a series of feasts and amusements now followed. The
+Teraz w mieście Anu nastąpił szereg uczt i zabaw. Dostojny Ranuzer wydobył z piwnic najlepsze wina, z trzech sąsiednich nomesów zjechały najpiękniejsze tancerki, najsławniejsi muzycy, najosobliwsi sztukmistrze. Książę Ramzes miał czas doskonale zapełniony. Z rana musztra wojsk i przyjęcia dygnitarzy, później uczta, widowiska, polowania i znowu uczta.
 
-worthy nomarch brought the choicest wines from his cellars; from the
+Lecz w chwili gdy nomarcha Haku był pewny, że namiestnik już znudził się kwestiami administracyjnymi i ekonomicznymi, książę wezwał go do siebie i spytał:
 
-three neighboring provinces came the most beautiful dancers, the most
+— Nomes waszej dostojności należy do najbogatszych w Egipcie?...
 
-famous musicians, the adroitest of jugglers. The prince's time was
+— Tak... chociaż mieliśmy kilka lat ciężkich... — odparł Ranuzer i znowu serce w nim zamarło, a nogi zaczęły drżeć.
 
-occupied thoroughly, every morning reviews of troops and receptions;
+— To mnie właśnie dziwi — mówił książę — że z roku na rok zmniejszają się dochody jego świątobliwości. Czy nie mógłbyś mi tego objaśnić?
 
-later feasts, spectacles, hunting, and feasts again.
+— Panie — rzekł nomarcha, schylając głowę do ziemi. — Widzę, że moi wrogowie w duszy twej zasieli nieufność; cokolwiek bym więc powiedział, nie trafi do przekonania twego. Pozwól mi zatem nie zabierać już głosu. Niech tu raczej przyjdą pisarze z dokumentami, które będziesz mógł sam dotknąć ręką i sprawdzić...
 
-But just when Ranuzer felt certain that the viceroy was tired of
+Książę nieco zdziwił się nieoczekiwanym wybuchem, lecz przyjął propozycję. Owszem, uradował się nią. Sądził bowiem, że raporty pisarzów wyjaśnią mu tajemnice zarządu.
 
-questions of administration and economy, the latter summoned him, and
+Przyszli tedy na drugi dzień — wielki pisarz nomesu Hak tudzież jego pomocnicy, i przynieśli ze sobą kilkanaście zwojów papirusu, zapisanych na obie strony. Gdy rozwinięto je, utworzyły wstęgę, szeroką na trzy piędzi dużej ręki, długą na sześćdziesiąt kroków. Książę pierwszy raz widział tak olbrzymi dokument, w którym znajdował się opis jednej tylko prowincji i z jednego roku.
 
-asked,
+Wielki pisarz usiadł na podłodze z podwiniętymi nogami i zaczął:
 
-"Thy province, worthiness, is among the richest in Egypt, is it not?"
+— „W trzydziestym trzecim roku panowania jego świątobliwości Mer-amen-Ramzesa Nil opóźnił się z wylewem. Chłopi, przypisując to nieszczęście czarnoksięstwu cudzoziemców zamieszkałych w prowincji Hak, zaczęli burzyć domy niewiernych Żydów, Hetytów i Fenicjan, przy czym kilka osób zabito. Z rozkazu jego dostojności nomarchy winnych stawiono przed sąd, dwudziestu pięciu chłopów, dwóch mularzy i pięciu szewców skazano do kopalń, a jednego rybaka uduszono...”
 
-"Yes, though we have had a number of hard years," replied Ranuzer; and
+— Co to za dokument? — przerwał książę.
 
-again his heart sank and his legs began to tremble.
+— To sprawozdanie sądowe, przeznaczone dla stóp jego świątobliwości.
 
-"But this astonishes me," said the prince, "that year after year the
+— Odłóż to i czytaj o dochodach skarbowych.
 
-income of his holiness decreases. Canst Thou not explain to me the
+Pomocnicy wielkiego pisarza zwinęli odrzucony dokument, a podali mu inny. Dostojnik znowu zaczął czytać:
 
-cause of this?"
+— „Dnia piątego miesiąca Tot przywieziono do spichrzów królewskich sześćset miar pszenicy, na co główny dozorca wydał pokwitowanie.
 
-"Lord," said the nomarch, bending his head to the earth, "I see that my
+Dnia siódmego Tot wielki skarbnik dowiedział się i sprawdził, że z zeszłorocznych zbiorów ubyło sto czterdzieści ośm miar pszenicy. W czasie sprawdzania dwaj robotnicy ukradli miarę ziarna i ukryli je między cegłą. Co gdy stwierdzono, oddani zostali pod sąd i zesłani do kopalń za podniesienie ręki na majątek jego świątobliwości...”
 
-enemies have sown distrust in thy soul; whatever I might say,
+— A tamte sto czterdzieści ośm miar?... — spytał następca.
 
-therefore, would not convince thee. Permit me not to speak. Better let
+— Myszy zjadły — odpowiedział pisarz i czytał dalej:
 
-scribes come with documents, which Thou canst touch with thy hand and
+— „Ósmego Tot przesłano dwadzieścia krów, ośmdziesiąt cztery owiec na rzeź, które nadzorca wołów kazał oddać pułkowi Krogulec, za stosownym pokwitowaniem...”
 
-verify."
+Tym sposobem namiestnik dowiadywał się, dzień po dniu, ile jęczmienia, pszenicy, fasoli i ziarn lotosu zwieziono do spichrzów, ile oddano do młynów, ile skradziono i ilu robotników z tego powodu skazano do kopalń. Raport był tak nudny i chaotyczny, że w połowie miesiąca Paofi książę kazał przerwać czytanie.
 
-The prince was somewhat astonished at the unexpected outburst, but he
+— Powiedz mi, wielki pisarzu — spytał Ramzes — co ty z tego rozumiesz?... Co ty wiesz z tego?...
 
-accepted the offer; nay, he was glad of it. He thought, of course, that
+— Wszystko, co wasza dostojność rozkaże...
 
-the report of these scribes would explain to him the secret of
+I zaczął znowu od początku, ale już z pamięci:
 
-government.
+— Dnia piątego miesiąca Tot przewieziono do królewskich spichrzów...
 
-The next day, therefore, came the chief scribe of Hak, and with him his
+— Dość! — zawołał rozgniewany książę i kazał im iść precz.
 
-assistants. They brought from ten to twenty rolls of papyrus written on
+Pisarze upadli na twarz, potem szybko zabrali zwoje papirusów, znowu upadli na twarz i pędem wynieśli się za drzwi.
 
-both sides. When unwound, they formed a strip three spans of a great
+Książę wezwał do siebie nomarchę Ranuzera. Przyszedł z rękoma złożonymi na piersiach, ale spokojnym obliczem. Dowiedział się bowiem od pisarzów, że namiestnik nie może niczego dojść z raportów i że ich nawet nie wysłuchał.
 
-hand in width and in length sixty paces. For the first time the prince
+— Powiedz mi, wasza dostojność — zaczął następca — czy i tobie czytają raporty?
 
-saw so gigantic a document, containing an inventory of one province
+— Co dzień...
 
-only and that for one year.
+— I ty je rozumiesz?
 
-The chief scribe sat on the floor with his legs doubled under him, and
+— Wybacz, najdostojniejszy panie, ale... czyliż mógłbym rządzić nomesem, gdybym tego nie rozumiał?
 
-began,
+Książę stropił się i zamyślił. Może być, że naprawdę on tylko jest tak nieudolny?... A wówczas — w co się zamieni jego władza?...
 
-"In the thirty-third year of the reign of his holiness Meramen-Ramses
+— Siądź — rzekł po chwili, wskazując Ranuzerowi krzesło. — Siądź i opowiedz mi: w jaki sposób rządzisz nomesem?...
 
-the Nile was late in its overflow. Earth-tillers, ascribing this
+Dostojnik pobladł i oczy wywróciły mu się białkami do góry. Ramzes spostrzegł to i zaczął się tłumaczyć:
 
-misfortune to the black art of foreigners resident in the province of
+— Nie myśl, że nie ufam twej mądrości... Owszem, nie znam człowieka, który mógłby lepiej od ciebie sprawować władzę. Ale jestem młody i ciekawy: co to jest sztuka rządzenia? Więc proszę cię, abyś mi udzielił okruchów z twoich doświadczeń. Rządzisz nomesem — wiem o tym!... A teraz wytłumacz mi: jak się robi rząd?
 
-Hak, fell to wrecking the houses of Hittites, Jews, and Phoenicians,
+Nomarcha odetchnął i zaczął:
 
-during which time a number of persons were slain by them. At command of
+— Opowiem waszej dostojności cały bieg życia mego, abyś wiedział, jak ciężką mam pracę.
 
-his worthiness the nomarch, those guilty were brought to the court;
+Z rana, po kąpieli, składam ofiary bogu Atum, a potem wołam skarbnika i wypytuję go: czy należycie zbierają się podatki dla jego świątobliwości? Gdy mówi, że — tak, chwalę go; gdy zaś powie, że ci a ci nie zapłacili, wydaję rozkaz, aby nieposłusznych uwięziono.
 
-twenty-five earth-tillers, two masons, and five sandal-makers were
+Następnie wołam dozorcę królewskich stodół, aby wiedzieć ile przybyło ziarna. Jeżeli dużo, chwalę go; jeżeli mało, każę dać plagi winnym.
 
-condemned to the quarries, one boatman was strangled."
+Później przychodzi wielki pisarz i mówi, czego z dóbr jego świątobliwości potrzebuje wojsko, urzędnicy i robotnicy — a ja każę wydać to za pokwitowaniem. Gdy wyda mniej, chwalę go, jeżeli więcej, rozpoczynam śledztwo.
 
-"What is that document?" interrupted the prince.
+Po południu przychodzą do mnie kupcy feniccy, którym sprzedaję zboże, a do skarbu faraona wnoszę pieniądze. Potem modlę się i zatwierdzam wyroki sądowe; zaś nad wieczorem policja donosi mi o wypadkach. Nie dalej jak onegdaj ludzie z mego nomesu wpadli na terytorium prowincji Ka i znieważyli posąg boga Sebaka
 
-"It is the report of the court intended for the feet of his holiness."
+Toteż w nomesie moim panuje cisza i dobre obyczaje, a podatki wpływają co dzień...
 
-"Put it aside, and read about the income of the treasury."
+— Chociaż dochody faraona zmniejszyły się i u was — wtrącił książę.
 
-The assistants of the chief scribe folded the rejected document, and
+— Prawdę rzekłeś, panie — westchnął dostojny Ranuzer. — Kapłani mówią, że bogowie rozgniewali się na Egipt za napływ cudzoziemców; ja jednak widzę, że bogowie nie gardzą fenickim złotem i drogimi kamieniami...
 
-gave him others. Again the official began,
+W tej chwili, poprzedzony przez służbowego oficera, wszedł na salę kapłan Mentezufis, aby zaprosić namiestnika i nomarchę na jakieś publiczne nabożeństwo. Obaj dostojnicy zgodzili się na zaprosiny, a nomarcha Ranuzer okazał przy tym tyle pobożności, że aż zadziwił księcia.
 
-"On the fifth day of the month Thoth six hundred measures of wheat were
+Kiedy Ranuzer wśród ukłonów opuścił towarzystwo, namiestnik odezwał się do kapłana:
 
-brought to the granaries of the pharaoh; for these a receipt was issued
+— Ponieważ, święty proroku, jesteś przy mnie zastępcą najczcigodniejszego Herhora, proszę cię więc, ażebyś mi wytłumaczył jedną rzecz, która serce moje napełnia troską.
 
-by the chief overseer.
+— Czy potrafię? — odparł kapłan.
 
-"On the seventh day of Thoth the chief scribe discovered and verified a
+— Odpowiesz, bo napełnia cię mądrość, której jesteś sługą. Rozważ tylko, co ci rzeknę.
 
-statement that from the supply of the previous year one hundred and
+Wiesz, po co wysłał mnie tutaj jego świątobliwość faraon...
 
-forty-eight measures of wheat had vanished.
+— Ażebyś, książę, zapoznał się z bogactwem i rządami kraju — wtrącił Mentezufis.
 
-"During the verification two laborers stole a measure of grain and hid
+— Czynię to. Wypytuję nomarchów, oglądam kraj i ludzi, słucham raportów pisarzy, ale nic nie rozumiem, a to zatruwa mi życie i dziwi mnie.
 
-it among bricks. When this was proven they were brought to judgment and
+Bo kiedy mam do czynienia z wojskowością, wiem wszystko: ilu jest żołnierzy, koni, wozów, którzy oficerowie piją lub zaniedbują służbę, a którzy pełnią swoje obowiązki. Wiem też, co robić z wojskiem. Gdyby na równinie stał korpus nieprzyjacielski, ażeby go pobić, muszę wziąć dwa korpusy. Gdyby nieprzyjaciel stał w obronnej pozycji, nie wyruszyłbym bez trzech korpusów. Gdy wróg jest niewyćwiczony i walczy w bezładnych tłumach, przeciw jego tysiącowi mogę wystawić pięciuset naszych żołnierzy i pobiję go. Gdy strona przeciwna ma tysiąc toporników i ja tysiąc, rzucę się na nich i pokonam, jeżeli będę miał do pomocy stu procarzy.
 
-sent to the quarries for raising their hands to the property of his
+W wojsku, święty ojcze — ciągnął Ramzes — wszystko się widzi, jak palce u własnych rąk, i na każde pytanie ma się gotową odpowiedź, którą mój rozum ogarnia. Tymczasem w zarządzie nomesów ja nie tylko nic nie widzę, ale mam taki zamęt w głowie, że nieraz zapominam — po co tu przyjechałem?
 
-holiness."
+Odpowiedz mi zatem szczerze, jak kapłan i oficer: co to znaczy? Czy nomarchowie mnie oszukują, czy ja jestem nieudolny?...
 
-"But the hundred and forty-eight measures?" asked the heir.
+Święty prorok zamyślił się.
 
-"The mice ate them," replied the scribe, and read on.
+— Czy oni śmieliby oszukiwać waszą dostojność — odparł — nie wiem, bo nie przypatrywałem się ich czynom. Zdaje mi się jednak, że oni księciu dlatego nic nie mogą wytłumaczyć, ponieważ sami nic nie rozumieją.
 
-"On the eighth day of Thoth twenty cows and eighty-four sheep were sent
+Nomarchowie i ich pisarze — ciągnął kapłan — są jak dziesiętnicy w wojsku: każdy zna swoją dziesiątkę i zawiadamia o niej wyższych oficerów. Każdy też rozkazuje swojemu oddziałkowi. Ale ogólnego planu, jaki układają wodzowie armii, dziesiętnik nie zna.
 
-to the slaughter; these, at command of the overseer of oxen, were
+Naczelnicy nomesów i pisarze zapisują wszystko, cokolwiek zdarzy się w ich prowincji, i te raporta przysyłają do stóp faraona. Lecz dopiero rada najwyższa wydobywa z nich miód mądrości...
 
-issued to the Sparrow-Hawk regiment."
+— Ależ ja właśnie chcę tego miodu!... — zawołał książę. — Dlaczegóż mi nie dają...
 
-In this manner the viceroy learned day after day how much wheat,
+Mentezufis potrząsnął głową.
 
-barley, beans, and lotus seed were weighed into the granaries, how much
+— Mądrość państwowa — rzekł — należy do tajemnic kapłańskich, więc może ją zdobyć tylko człowiek poświęcony bogom. Tymczasem wasza dostojność, pomimo wychowania przez kapłanów, jak najbardziej stanowczo usuwasz się od świątyń...
 
-given out to the mills, how much stolen, and how many laborers were
+— Jak to, więc jeżeli nie zostanę kapłanem, nie objaśnicie mnie?...
 
-condemned to the quarries for stealing. The report was so wearisome and
+— Są rzeczy, które wasza dostojność możesz poznać i teraz, jako erpatre, są, które poznasz jako faraon. Ale są i takie, o których może wiedzieć tylko arcykapłan.
 
-chaotic that in the middle of the month Paophi the prince gave command
+— Każdy faraon jest arcykapłanem — przerwał książę.
 
-to stop reading.
+— Nie każdy. A jeszcze i między arcykapłanami są różnice.
 
-"Tell me, chief scribe," said Ramses, "what dost Thou understand from
+— Więc — zawołał rozgniewany następca — wy rząd państwa ukrywacie przede mną... I ja nie będę mógł spełnić rozkazów mego ojca...
 
-this? What dost Thou learn from it?"
+— To — mówił spokojnie Mentezufis — czego księciu potrzeba, możesz poznać, bo przecie masz najniższe święcenia kapłańskie. Rzeczy te jednak są ukryte w świątyniach, za zasłoną, której nikt nie odważy się uchylić bez odpowiednich przygotowań.
 
-"Everything which thy worthiness commands."
+— Ja uchylę!...
 
-And he began again at the beginning, but from memory,
+— Niech bogowie bronią Egipt od takiego nieszczęścia!... — odparł kapłan, wznosząc ręce do góry. — Czyliż wasza dostojność nie wiesz o tym, że piorun zabije każdego, kto bez odpowiednich nabożeństw dotknąłby zasłony? Każ, książę, zaprowadzić do świątyni jakiego niewolnika lub skazańca, i niech tylko wyciągnie rękę, a natychmiast umrze.
 
-"On the fifth of the month Thoth they brought to the granaries of the
+— Bo wy go zabijecie.
 
-pharaoh."
+— Każdy z nas umarłby tak samo jak najpospolitszy zbrodniarz, gdyby w świętokradzki sposób zbliżył się do ołtarzy. Wobec bogów, mój książę, faraon i kapłan tyle znaczy, co niewolnik.
 
-"Enough!" cried the enraged prince; and he commanded the man to depart.
+— Więc cóż mam robić?... — spytał Ramzes.
 
-The scribes fell on their faces, gathered up their papyruses quickly,
+— Szukać odpowiedzi na swoją troskę w świątyni, oczyściwszy się przez modły i posty — odparł kapłan. — Jak Egipt Egiptem żaden władca w inny sposób nie zdobył mądrości państwowej.
 
-and bore them away in a twinkle.
+— Pomyślę o tym — rzekł książę. — Choć widzę z tego, że i najczcigodniejszy Mefres, i ty, święty proroku, chcecie mnie wciągnąć w nabożeństwa, jak mego ojca.
 
-The prince summoned the nomarch. He came with crossed hands, but with a
-
-calm face, for he had learned from the scribes that the viceroy could
-
-understand nothing from reports, and that he did not give ear to them.
-
-"Tell me, worthiness," began the heir, "do they read reports to thee?"
-
-"Every day."
-
-"And dost Thou understand them?"
-
-"Pardon, most worthy lord, but could I manage a province if I did not
-
-understand?"
-
-The prince was confused and fell to thinking. Could it be really that
-
-he, Ramses, was the only incompetent? But in this case what would
-
-become of his power?
-
-"Sit down," said he, after a while, indicating a chair to the nomarch.
-
-"Sit down and tell me how Thou governest the province."
-
-The dignitary grew pale, and the whites of his eyes turned upward.
-
-Ramses noticed this, and began explaining,
-
-"Do not think that I have not trust in thy wisdom. On the contrary, I
-
-know no man who could manage better. But I am young and curious to know
-
-the art of government, so I beg thee to deal out to me crumbs of thy
-
-knowledge. Thou art ruling the province I know that. Now explain to me
-
-the process."
-
-The nomarch drew breath and began,
-
-"I will relate, worthiness, the whole course of my life, so Thou shalt
-
-know how weighty my work is.
-
-"In the morning I bathe, then I give offerings to the god Amut; next I
-
-summon the treasurer, and ask him whether the taxes for his holiness
-
-are collected properly. When he answers yes, I praise him; when he says
-
-that these and those people have not paid, I issue an order to imprison
-
-the disobedient. Then I summon the overseers of the royal granaries, to
-
-learn how much grain has been delivered. If much, I praise them; if
-
-little, I issue an order to inflict stripes on the guilty.
-
-"Later comes the chief scribe, and tells me which of the estates of his
-
-holiness needs troops, officials, and laborers, and I command to send
-
-them in return for a receipt. When he gives out less, I praise him;
-
-when more, I commence an investigation.
-
-"In the afternoon come Phoenician merchants, to whom I sell wheat and
-
-bring money to the treasury of the pharaoh. Afterward I pray and
-
-confirm the sentences of the court; toward evening the police inform me
-
-of what has happened. No longer ago than the day before yesterday
-
-people from my province fell upon the territory Ka and desecrated a
-
-statue of the god Sebak. I was delighted in heart, for that god is not
-
-our patron; still I condemned some of the guilty to strangulation, some
-
-of them to the quarries, and all to receive stripes.
-
-"Hence peace and good habits prevail in my province, and the taxes flow
-
-in daily."
-
-"Though the income of the pharaoh has decreased here also," added
-
-Ramses.
-
-"Thou speakest truth, lord," sighed the worthy nomarch. "The priests
-
-say that the gods are angry with Egypt because of the influx of
-
-foreigners; but I see that even the gods do not contemn gold and
-
-precious stones brought by Phoenicians."
-
-At that moment the priest Mentezufis, preceded by an officer in
-
-waiting, entered the hall to beg the prince and the nomarch to a public
-
-devotion. Both dignitaries consented, and the nomarch exhibited so much
-
-piety that the prince was astonished. When Ranuzer left the company
-
-with obeisances, Ramses said to the priest,
-
-"Since with me, holy prophet, Thou takest the place of the most
-
-venerable Herhor, I beg thee to explain one thing which fills my heart
-
-with anxiety ."
-
-"Shall I be able to explain?" asked the prophet.
-
-"Thou wilt answer me, for Thou art filled with wisdom, of which Thou
-
-art the servant. But consider what I say Thou knowest why his holiness
-
-sent me hither."
-
-"He sent thee, prince, to become familiar with the wealth of the
-
-country and its institutions," said Mentezufis.
-
-"I am obeying. I examine the nomarchs, I look at the country and the
-
-people. I listen to reports of scribes, but I understand nothing; this
-
-poisons my life and astounds me.
-
-"When I have to do with the army, I know everything, how many soldiers
-
-there are, how many horses, chariots, which officers drink or neglect
-
-their service, and which do their duty, I know, too, what to do with an
-
-army. When on a plain there is a hostile corps, I must take two corps
-
-to beat it. If the enemy is in a defensive position, I should not move
-
-without three corps. When the enemy is undisciplined and fights in
-
-unordered crowds against a thousand, I send five hundred of our
-
-soldiers and beat him. When the opposing side has a thousand men with
-
-axes, and I a thousand, I rush at them and finish those troops, if I
-
-have a hundred men with slings in addition.
-
-"In the army, holy father," continued Ramses, "everything is as visible
-
-as the fingers on my hand, and to every question an answer is ready
-
-which my mind comprehends. Meanwhile in the management of a province I
-
-not only see nothing, but there is such confusion in my head that more
-
-than once I forget the object of my journey.
-
-"Answer me, therefore, sincerely, as a priest and an officer: What does
-
-this mean? Are the nomarchs deceiving me, or am I incompetent?"
-
-The holy prophet fell to thinking.
-
-"Whether they attempt to deceive thee, worthiness," answered he, "I
-
-know not, for I have not examined their acts. It seems to me, however,
-
-that they explain nothing, because they themselves comprehend nothing.
-
-The nomarchs and their scribes," continued the priest, "are like
-
-decurions in an army; each one knows his ten men and reports on them.
-
-Each commands those under him. But the decurion knows not the general
-
-plan made by leaders of the army. The nomarchs and the scribes write
-
-down everything that happens in their province, and lay those reports
-
-at the feet of the pharaoh. But only the supreme council extracts from
-
-them the honey of wisdom."
-
-"But that honey is just what I need," said the prince. "Why do I not
-
-get it?"
-
-Mentezufis shook his head.
-
-"Wisdom of the state," said he, "belongs to the priesthood; therefore
-
-only the man who is devoted to the gods can obtain it. Meanwhile,
-
-worthiness, though reared by priests, Thou pushest thyself away from
-
-the temples decisively."
-
-"How is that? Then, if I do not become a priest, will ye not explain to
-
-me?"
-
-"There are things, worthiness, which Thou mayest know even now, as
-
-erpatr, there are others which Thou wilt know when Thou art the
-
-pharaoh. There are still others which only a high priest may know."
-
-"Every pharaoh is a high priest," interrupted the prince.
-
-"Not every pharaoh. Besides, even among high priests there are grades
-
-of difference."
-
-"Then," cried the enraged heir, "ye hide the order of the state from
-
-me, and I shall not be able to carry out the commands of my father?"
-
-"What the prince needs may be known," answered Mentezufis, quietly,
-
-"for Thou hast the inferior priestly consecration. Those things,
-
-however, are hidden behind the veil in temples, which no one will dare
-
-to draw aside without due preparation."
-
-"I will draw it."
-
-"May the gods defend Egypt from such a misfortune!" replied the priest,
-
-as he raised both his hands. "Dost Thou not know, worthiness, that a
-
-thunderbolt would kill any man who without the needed ceremonies should
-
-touch the veil? Were the prince to take to the temple any slave or
-
-condemned criminal and let him stretch out his hand, the man would die
-
-that same instant."
-
-"For ye would kill him."
-
-"Each one of us would die just like an ordinary criminal were he to
-
-approach the altar sacrilegiously. In presence of the gods, my prince,
-
-a pharaoh or a priest means as little as a slave."
-
-"What am I to do, then?" asked Ramses.
-
-"Seek an answer to thy trouble in the temple, after Thou hast purified
-
-thyself by prayers and fasting," answered the priest. "While Egypt is
-
-Egypt, no ruler has gained wisdom of state in another way."
-
-"I will meditate over this," said the prince. "Though I see from thy
-
-words that the most venerable Mefres, and thou, holy prophet, wish to
-
-involve me in ceremonies as ye have involved my father."
-
-"Not at all. Worthiness, if Thou as pharaoh would limit thyself to
-
-commanding the army, Thou mightst take part in ceremonies a few times a
-
-year merely, for on other occasions the high priest would be thy
-
-substitute. But if Thou wish to learn the secrets of temples, Thou must
-
-honor the gods, for they are the fountain of wisdom."
+— Wcale nie. Jeżeli wasza dostojność, jako faraon, ograniczyłbyś się na komenderowaniu wojskiem, musiałbyś zaledwie kilka razy na rok przyjmować udział w nabożeństwach, bo w innych razach zastępowaliby cię arcykapłani. Lecz jeżeli chcesz poznać tajemnice świątyń, musisz składać cześć bogom, gdyż oni są źródłem mądrości.

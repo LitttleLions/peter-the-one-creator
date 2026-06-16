@@ -1,835 +1,358 @@
-# Kapitel 34: CHAPTER XXXIV
+# Kapitel 034: Tom II - Rozdział IX
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part40.xhtml*
 
 <!-- status: pending -->
 
-IT was the month Thoth. In the city of Pi-Bast and its environs the
+Był już miesiąc Tot (koniec czerwca, początek lipca). W mieście Pi-Bast i jego okolicach zaczął zmniejszać się napływ ludności z powodu gorąca. Ale na dworze Ramzesa wciąż jeszcze bawiono się i rozpowiadano o wypadkach w cyrku.
 
-concourse of people had begun, because of heat, to diminish. But the
+Dworzanie wychwalali odwagę księcia, niezręczni podziwiali siłę Sargona, kapłani z poważnymi minami szeptali, że jednak następca tronu nie powinien był mieszać się do walki z bykami. Od tego bowiem są inni ludzie, płatni i bynajmniej nie cieszący się publicznym szacunkiem.
 
-court of Ramses amused itself always, and people talked of what had
+Ramzes albo nie słyszał tych rozmaitych zdań, albo nie zwracał na nie uwagi. W jego pamięci z widowiska utrwaliły się dwa epizody: Asyryjczyk wydarł mu zwycięstwo nad bykiem i — umizgał się do Kamy, która bardzo życzliwie przyjmowała jego zaloty!
 
-happened in the amphitheatre.
+Ponieważ nie wypadało mu sprowadzać do siebie fenickiej kapłanki, więc pewnego dnia wysłał do niej list, w którym donosił, że chce ją zobaczyć, i pytał: kiedy go przyjmie? Przez tego samego posłańca Kama odpowiedziała, że będzie czekać na niego dziś wieczorem.
 
-Courtiers praised the courage of the prince, maladroit men wondered at
+Ledwie ukazały się gwiazdy, książę w największej tajemnicy, według swego przekonania, wysunął się z pałacu i poszedł.
 
-the strength of Sargon, the priests whispered with important mien that
+Ogród świątyni Astoreth był prawie pusty, szczególniej w okolicach otaczających dom kapłanki. Dom był cichy i paliło się w nim zaledwie parę światełek.
 
-in every case the heir to the throne should not involve himself in
+Kiedy książę nieśmiało zapukał, kapłanka otworzyła mu sama. W ciemnym przysionku ucałowała mu ręce szepcząc, że umarłaby, gdyby wtedy, w cyrku, rozjuszone zwierzę zrobiło mu jaką krzywdę.
 
-bull-fights: for that there were men who were hired, or who, at least,
+— Ale teraz musisz być spokojna — odparł z gniewem następca — skoro ocalił mnie twój kochanek...
 
-did not possess public veneration.
+Kiedy weszli do komnaty oświetlonej, książę spostrzegł, że Kama płacze.
 
-Either Ramses did not hear these various opinions, or did not consider
+— Cóż to znaczy? — zapytał.
 
-them. As to the spectacle, two episodes were fixed in his memory:
+— Odwróciło się ode mnie serce pana mego — rzekła. — A może i słusznie.
 
-victory over the bull had been snatched from him by the Assyrian, who
+Następca gorzko roześmiał się.
 
-had also paid court to Kama, and she had received his attentions most
+— Więc już jesteś jego kochanką, czy dopiero masz nią zostać ty, święta dziewico?...
 
-willingly.
+— Kochanką?... nigdy!... Ale mogę zostać żoną tego strasznego człowieka.
 
-Since he might not bring the Phoenician priestess to his palace, he
+Ramzes zerwał się z siedzenia.
 
-sent one day a letter to her in which he declared that he wished to see
+— Śpię?... — zawołał — czy Set rzucił na mnie przekleństwo?... Ty, kapłanka, która pilnujesz ognia przy ołtarzu Astoreth i pod grozą śmierci musisz być dziewicą, ty wychodzisz za mąż?... Zaprawdę, fenickie kłamstwo gorsze jest, aniżeli opowiadają o nim ludzie!...
 
-her, and inquired when she would receive him. Through the same
+— Posłuchaj mnie, panie — rzekła, ocierając łzy — i potęp, jeżeli zasłużyłam. Sargon chce mnie pojąć za żonę, za swoją pierwszą żonę. Według naszych ustaw, kapłanka, w bardzo wyjątkowych wypadkach, może zostać żoną, ale tylko mężczyzny pochodzącego ze krwi królewskiej. Sargon zaś jest powinowatym króla Assara...
 
-messenger Kama replied that she would wait for him that evening.
+— I ty wyjdziesz za niego?
 
-Barely had the stars shown themselves, when the prince (with the
+— Jeżeli najwyższa rada kapłanów tyryjskich rozkaże mi, co pocznę?... — odparła, znowu zalewając się łzami.
 
-greatest secrecy, as he thought) slipped out of the palace, and went to
+— A cóż tą radę może obchodzić Sargon? — spytał książę.
 
-the villa. The garden of the temple of Astaroth was almost empty,
+— Podobno obchodzi ją bardzo wiele — mówiła z westchnieniem. — Fenicję mają podobno zabrać Asyryjczycy a Sargon ma zostać jej satrapą...
 
-especially near the house of the priestess. The building was silent,
+— Tyś oszalała!... — zawołał książę.
 
-and inside only two tapers were burning.
+— Mówię, co wiem. Już w naszej świątyni po raz drugi zaczynają się modły o odwrócenie nieszczęścia od Fenicji...
 
-When the prince knocked timidly, the priestess herself drew the door
+Pierwszy raz odprawiliśmy je, nimeś ty przyjechał do nas, panie...
 
-open. In the dark antechamber she kissed his hand, whispering that she
+— Dlaczego znowu teraz?...
 
-would have died had the raging bull injured him in the arena.
+— Bo podobno w tych dniach przybył do Egiptu chaldejski kapłan Istubar z listami, w których król Assar mianuje Sargona swoim posłem i pełnomocnikiem do zawarcia traktatu z wami o zabór Fenicji.
 
-"But now Thou must be at rest, since thy lover saved me," said the
+— Ależ ja... — przerwał książę.
 
-prince.
+Chciał powiedzieć: „nic nie wiem”, lecz wstrzymał się. Zaczął się śmiać i odparł:
 
-When they entered the lighted chamber, Ramses saw that Kama was
+— Kamo, przysięgam ci na cześć mego ojca, że dopóki ja żyję, Asyria nie zabierze Fenicji. Czy to dość?
 
-weeping.
+— O panie!... panie!... — zawołała, upadając mu do nóg.
 
-"What does this mean?" inquired he.
+— Więc chyba teraz nie zostaniesz żoną tego gbura?
 
-"The heart of my lord has turned from me," said she; "but perhaps
+— Och!... — otrząsnęła się. — Czy możesz o to pytać?
 
-justly."
+— I będziesz moją... — szepnął książę.
 
-The heir laughed bitterly in answer.
+— Zatem chcesz mojej śmierci?... — odparła przerażona. — Ha!... jeżeli tego chcesz, jestem gotowa...
 
-"Then, sacred virgin, Thou art already his mistress, or about to be?"
+— Chcę, ażebyś żyła... — szeptał roznamiętniony. — Żyła, należąc do mnie...
 
-"Mistress? Never! But I may become the wife of that dreadful Assyrian."
+— To być nie może...
 
-Ramses sprang from his seat.
+— A najwyższa rada kapłanów tyryjskich?...
 
-"Am I dreaming," cried he, "or has Set cast his curse on me? Thou, a
+— Może mnie tylko wydać za mąż...
 
-priestess, guarding the fire before the altar of Astaroth, thou, who
+— Wszak wejdziesz do mego domu...
 
-under the threat of death must be a virgin, art Thou going to marry? In
+— Gdybym weszła tam nie jako żona twoja — umrę... Ale jestem gotowa... nawet na to, aby nie ujrzeć jutrzejszego słońca...
 
-truth, Phoenician deceit is worse than people's account of it."
+— Bądź spokojna — odpowiedział z powagą książę. — Kto posiadł moją łaskę, nie dozna krzywdy.
 
-"Hear me, lord," said Kama, wiping her tears away, "and condemn if I
+Kama znowu uklękła przed nim.
 
-deserve it. Sargon wishes to take me as his first wife. According to
+— Jak się to może stać?... — spytała, składając ręce.
 
-our laws a priestess may, in very exceptional cases, become a wife, but
+Ramzes był tak podniecony, tak już zapomniał o swoim stanowisku i obowiązkach, iż gotów był przyrzec kapłance małżeństwo. Powstrzymał go od tego kroku nie rozsądek, ale jakiś głuchy instynkt.
 
-only if the man is of kingly origin. Sargon is a relative of King
+— Jak to może być?... Jak to może być?... — szeptała Kama, pożerając go wzrokiem i całując jego nogi.
 
-Assar."
+Książę podniósł ją, posadził z daleka od siebie i odparł z uśmiechem:
 
-"And wilt Thou marry him?"
+— Pytasz, jak to być może?... Zaraz cię objaśnię. Ostatnim moim nauczycielem, zanim doszedłem do pełnoletności, był pewien stary kapłan, który umiał na pamięć mnóstwo dziwnych historii z życia bogów, królów, kapłanów, nawet niskich urzędników i chłopów.
 
-"If the supreme council of Tyrian priests command me, what can I do?"
+Starzec ten, słynny z pobożności i cudów, nie wiem dlaczego, nie lubił kobiet, nawet obawiał się ich. Toteż najczęściej opisywał przewrotność kobiecą, a raz, aby dowieść mi, jak potężną macie władzę nad męskim rodzajem, opowiedział taką historię:
 
-replied she, bursting into tears again.
+Młody i ubogi pisarz, nie mający w torbie miedzianego utena, tylko jęczmienny placek, wędrował z Tebów do Dolnego Egiptu szukać zarobku. Mówiono mu, że w tej części państwa mieszkają najbogatsi panowie i kupcy i byle dobrze trafił, może znaleźć posadę, na której zrobi duży majątek.
 
-"And what is Sargon to that council?" asked the prince.
+Szedł tedy brzegiem Nilu (za miejsce na statku nie miałby czym zapłacić) i myślał:
 
-"Very much, perhaps," said Kama, with a sigh. "The Assyrians will take
+„Jakże nieopatrznymi są ludzie, którzy odziedziczywszy po ojcach talent, dwa talenty, nawet dziesięć, zamiast rozmnożyć skarb, bądź za pomocą handlu towarami, bądź wypożyczania na wysokie procenta, marnują, nie wiadomo na co, swój majątek! Ja gdybym miał drachmę... No, drachma za mało... Ale gdybym miał talent albo lepiej kilka zagonów ziemi, zwiększałbym to z roku na rok, a pod koniec życia byłbym tak bogaty jak najbogatszy nomarcha.
 
-Phoenicia in all likelihood, and Sargon will be its satrap."
+Lecz co począć!... — mówił z westchnieniem. — Bogowie snadź opiekują się tylko głupimi; mnie zaś napełnia mądrość od peruki do bosych pięt. A jeżeli i w moim sercu kryje się jakieś ziarno głupstwa, to chyba pod tym jednym względem, że zaprawdę! nie umiałbym strwonić fortuny, a nawet nie wiedziałbym: jak zabrać się do spełnienia podobnie bezbożnego czynu?”
 
-"Art Thou demented?" exclaimed the prince.
+Tak medytując, ubogi pisarz mijał lepiankę, przed którą siedział jakiś człowiek niemłody i niestary z bardzo bystrym spojrzeniem, które sięgało aż do głębi serca. Pisarz, mądry jak bocian, zaraz zmiarkował, że to musi być któryś z bogów, i skłoniwszy się, rzekł:
 
-"I say what I know. In our temple we have begun prayers the second time
+— Pozdrawiam cię, czcigodny właścicielu tego pięknego domu, i martwię się, że nie posiadam wina ani mięsa, aby podzielić je z tobą na znak, że cię szanuję i że wszystko, co mam, należy do ciebie.
 
-to avert misfortune from Phoenicia. We had our first prayers before
+Amonowi (on to był w ludzkiej postaci) podobała się uprzejmość młodego pisarza. Popatrzył więc na niego i spytał:
 
-Thou didst come to us."
+— O czym myślałeś, idąc tutaj? Widzę bowiem mądrość na twoim czole, a należę do tych, którzy, jak kuropatwa pszenicę, zbierają słowa prawdy.
 
-"Why do ye pray now?"
+Pisarz westchnął.
 
-"Because the Chaldean priest Istubar has just come to Egypt with
+— Myślałem — mówił — o mojej nędzy i o tych lekkomyślnych bogaczach, którzy nie wiadomo na co i jakim sposobem trwonią majątki.
 
-letters, in which King Assar appoints Sargon his ambassador to conclude
+— A ty byś nie strwonił? — zapytał bóg, wciąż mający na sobie ludzką figurę.
 
-a treaty with you about the taking of Phoenicia."
+— Spojrzyj na mnie, panie — rzekł pisarz. — Mam dziurawą płachtę i zgubiłem w drodze sandały, ale papirus i kałamarz ciągle noszę ze sobą jak własne serce. Albowiem wstając i kładąc się spać powtarzam, że lepszą jest uboga mądrość niż głupie bogactwo.
 
-"But I" interrupted the prince.
+Jeżeli więc jestem taki, jeżeli umiem wysłowić się dwoma pismami i wykonać najzawilszy rachunek, jeżeli znam wszystkie rośliny i wszystkie zwierzęta, jakie tylko są pod niebem, to — czy możesz sądzić, abym ja, który posiadam taką mądrość, był zdolny do zmarnowania majątku?
 
-He wished to say, "know nothing," but he restrained himself, laughed,
+Bożek zamyślił się i rzekł:
 
-and answered,
+— Wymowa twoja płynie wartko jak Nil pod Memfisem, lecz jeżeli naprawdę jesteś tak mądry, to napisz mi dwoma sposobami: Amon.
 
-"Kama, I swear to thee, on the honor of my father, that while I live
+Pisarz wydobył kałamarz, pędzel i w niedługim czasie na drzwiach lepianki napisał dwoma sposobami: Amon, tak wyraźnie, że nawet nieme stworzenia zatrzymywały się, aby złożyć hołd Panu.
 
-Assyria will not take Phoenicia. Is that enough?"
+Bożek był kontent i dodał:
 
-"Oh, lord, lord!" cried she, falling at his feet.
+— Jeżeli jesteś równie biegły w rachunkach jak w piśmiennictwie, to wyrachuj mi następującą sprawę handlową. Gdy za jedną kuropatwę dają mi cztery kurze jaja, to za siedem kuropatw ile powinni dać kurzych jaj?
 
-"Then Thou wilt not become the wife of that rude fellow?"
+Pisarz zebrał kamyki, układał je w rozmaite szeregi i nim słońce zaszło, odpowiedział, że za siedem kuropatw należy się — dwadzieścia osiem jaj kurzych.
 
-"Oh," shuddered she, "canst Thou ask such a question?"
+Wszechmocny Amon aż uśmiechnął się, że widzi przed sobą mędrca tak niepospolitej miary, więc rzekł:
 
-"And Thou wilt be mine," whispered the prince.
+— Poznaję, żeś mówił prawdę o swojej mądrości. Jeżeli zaś okażesz się równie wytrwałym w cnocie, uczynię tak, że będziesz do końca życia szczęśliwym, a po śmierci synowie twoi umieszczą twój cień w pięknym grobowcu. A teraz powiedz: jakiego chcesz bogactwa, którego byś nie tylko nie strwonił, ale jeszcze pomnożył?
 
-"Dost Thou wish my death?" asked she, terrified. "Well, if Thou wish
+Pisarz upadł do nóg miłosiernemu bóstwu i odparł:
 
-it, I am ready."
+— Gdybym choć posiadał tę lepiankę i ze cztery miary gruntu, byłbym bogaty.
 
-"I wish thee to live," whispered he, impassioned, "to live, belonging
+— Dobrze — mówi bóg — ale pierwej rozejrzyj się, czy ci to wystarczy.
 
-to me."
+Zaprowadził go do chaty i prawił:
 
-"That cannot be,"
+— Masz tu cztery czepce i fartuszki, dwie płachty na niepogodę i dwie pary sandałów. Tu masz ognisko, tu ławę, na której można sypiać, stępę do tłuczenia pszenicy i dzieżę do ciasta...
 
-"But the supreme council of Tyrian priests?"
+— A to co jest? — zapytał pisarz, wskazując na jakąś figurę okrytą płótnem.
 
-"They can permit nothing but marriage."
+— Otóż to jedno jest — odparł bóg — czego nie powinieneś dotykać, bo stracisz cały majątek.
 
-"But Thou wilt enter my house."
+— Aj!... — krzyknął pisarz. — Może to sobie stać przez tysiąc lat i nie zaczepię go... Za pozwoleniem waszej czci: co to za folwark widać tam?...
 
-"If I enter it not as thy wife, I shall die. But I am ready even not to
+I wychylił się przez okno lepianki.
 
-see to-morrow's sun."
+— Mądrze powiedziałeś — rzekł Amon. — Jest to bowiem folwark, i nawet piękny. Ma obszerny dom, pięćdziesiąt miar gruntu, kilkanaście sztuk bydła i dziesięciu niewolników. Gdybyś wolał posiadać tamten folwark...
 
-"Be at rest," replied the prince, seriously. "Whoso has my favor will
+Pisarz upadł do nóg bogu.
 
-not experience injustice."
+— Jestże — spytał — taki człowiek pod słońcem, który zamiast jęczmiennego placka nie wolałby bułki pszennej?...
 
-Kama knelt before him a second time.
+Usłyszawszy to, Amon wymówił zaklęcie, i w tejże chwili obaj znaleźli się w okazałym domu folwarcznym.
 
-"How can that be?" asked she, clasping her hands.
+— Masz tu — mówił bóg — rzeźbione łoże, pięć stolików i dziesięć krzeseł. Masz tu haftowane szaty, stągwie i szklanki na wino, masz tu oliwną lampę i lektykę...
 
-Ramses was so roused that he had forgotten his position and his duties;
+— A to co jest? — zapytał pisarz, wskazując na figurę, która stała w kącie okryta muślinem.
 
-he was ready to promise the priestess even marriage. He was restrained
+— Tego jednego — odparł bóg — nie zaczepiaj, bo stracisz cały majątek.
 
-from that step, not by judgment, but by some dumb instinct.
+— Choćbym dziesięć tysięcy lat żył — zawołał pisarz — nie tknę tej rzeczy!... Uważam bowiem, że po mądrości najlepszym jest bogactwo.
 
-"How can this be? How can this be?" whispered Kama, devouring him with
+— Ale co to tam widać? — spytał po chwili, wskazując na ogromny pałac w ogrodzie.
 
-her glances and kissing his feet.
+— To są dobra książęce — odparł bóg. — Jest pałac, pięćset miar ziemi, stu niewolników i paręset sztuk bydła. Wielki to majątek, lecz jeżeli sądzisz, że podoła mu twoja mądrość...
 
-The prince raised her, seated her at a distance from him, and said with
+Pisarz znowu upadł do nóg Amonowi, zalewając się łzami radości.
 
-a smile,
+— O panie!... — wołał. — A gdzie jest taki szaleniec, który zamiast kubka piwa nie wolałby kadzi wina?
 
-"Thou askest how this can be I will explain immediately. My last
+— Słowa twoje godne są mędrca, który rozwiązuje najtrudniejsze rachunki — rzekł Amon.
 
-teacher, before I reached maturity, was a certain old priest, who knew
+Wymówił wielkie słowa zaklęcia i obaj z pisarzem znaleźli się w pałacu.
 
-a multitude of marvelous histories from the lives of gods, kings,
+— Masz tu — mówił dobry bóg — salę jadalną, w niej złocone kanapy i krzesła tudzież stoliki wykładane różnokolorowym drzewem. Pod spodem jest kuchnia dla pięciu kucharzy, spiżarnia, gdzie znajdziesz wszelkie mięsiwo, ryby i ciasta, wreszcie piwnica z najdoskonalszym winem. Masz tu sypialnię z ruchomym dachem, którym twoi niewolnicy będą chłodzili cię podczas snu. Zwracam twoją uwagę na łoże, które jest z cedrowego drzewa i opiera się na czterech lwich łapach, kunsztownie odlanych z brązu. Masz tu szatnię pełną lnianych i wełnianych szat; zaś w skrzyniach znajdziesz pierścienie, łańcuchy i bransolety...
 
-priests, even lower officials and laborers.
+— A to co jest?... — zapytał nagle pisarz wskazując na figurę, okrytą welonem haftowanym złotymi i purpurowymi nićmi.
 
-"This old man, famed for devotion and miracles, did not like women, I
+— Toć jest właśnie, czego najbardziej strzec się powinieneś — odparł bóg. — Jeżeli tego dotkniesz, twój ogromny majątek przepadnie. A zaprawdę mówię ci, że niewiele jest podobnych dóbr w Egipcie. Muszę ci bowiem dodać, że w skarbcu leży dziesięć talentów złotem i drogimi kamieniami.
 
-know not why; he even dreaded them. Very frequently he described the
+— Władco mój!... — krzyknął pisarz. — Pozwól, ażeby w tym pałacu na pierwszym miejscu stanął twój święty posąg, przed którym trzy razy dziennie paliłbym wonności...
 
-perversity of women, and once, to show how great the power is which ye
+— Ale tamtego unikaj! — odparł Amon, wskazując na figurę okrytą welonem.
 
-wield over men, he told me the following history:
+— Chyba straciłbym rozum i byłbym gorszy od dzikiej świni, dla której wino znaczy tyle co pomyje — rzekł pisarz. — Niech ta figura w welonie pokutuje tu sto tysięcy lat, a nie dotknę jej, jeżeli taka twoja wola...
 
-"A certain scribe, young and indigent, who had not an uten in his
+— Pamiętaj, że straciłbyś wszystko!... — zawołał bóg i zniknął.
 
-purse, who had nothing save a barley cake, traveled down from Thebes to
+Uszczęśliwiony pisarz zaczął chodzić po swoim pałacu i wyglądać oknami. Obejrzał skarbiec i zważył w rękach złoto: było ciężkie; przypatrzył się drogim kamieniom — były prawdziwe. Kazał sobie podać jedzenie: natychmiast wbiegli niewolnicy, wykąpali go, ogolili i ubrali w cienkie szaty.
 
-Lower Egypt while seeking for employment. Men said that in the north
+Najadł się i napił jak nigdy: jego głód bowiem łączył się z doskonałością potraw w jeden smak przedziwny. Zapalił wonności przed posągiem Amona i ubrał go w świeże kwiaty. Później siadł w oknie.
 
-dwelt the richest lords and merchants, and that in case of luck he
+Na dziedzińcu rżało parę koni zaprzęgniętych do rzeźbionego wozu. W innym miejscu gromada ludzi z włóczniami i sieciami uspakajała niesforne psy myśliwskie rwące się do polowania. Przed spichrzem jeden pisarz odbierał ziarno od rolników, przed oborą drugi pisarz przyjmował rachunek od dozorcy pastuchów.
 
-would find a place in which he might acquire extensive property.
+W dali widać było gaj oliwny, wysokie wzgórze zarośnięte winogradem, łany pszenicy, a po wszystkich polach gęsto rozsadzone palmy daktylonośne.
 
-"He walked along the Nile, for he had no coin with which to hire a
+„Zaiste! — rzekł — do siebie — jestem dziś bogaty tak właśnie, jak mi się należało. I jedno dziwi mnie, że tyle lat mogłem wytrzymać w upodleniu i nędzy! Muszę też wyznać — ciągnął w duchu — że nie wiem, czy potrafię zwiększyć ten ogromny majątek, bo i nie potrzebuję więcej, i nie będę miał czasu uganiać się za spekulacjami.”
 
-boat, and he pondered,
+Zaczęło mu jednak nudzić się w pokojach, więc obejrzał ogród, objechał pola, porozmawiał ze sługami, którzy padali przed nim na brzuchy, choć byli tak ubrani, że on wczoraj jeszcze uważałby sobie za zaszczyt całować ich ręce. Lecz że i tam było mu nudno, więc wrócił do pałacu i przypatrywał się zapasom swojej spiżarni i piwnicy tudzież sprzętom w komnatach.
 
-"'How improvident are men inheriting a talent or two, or even ten
+„Ładne to — mówił do siebie — ale piękniejsze byłyby sprzęty z samego złota, a dzbany z drogich kamieni.”
 
-talents! Instead of adding to their wealth by traffic, or by lending at
+Oczy jego machinalnie zwróciły się w ten kąt, gdzie stała figura okryta haftowanym welonem i — wzdychała.
 
-high interest,' thought he, 'these men waste what they have, to no
+„Wzdychaj sobie, wzdychaj!” — myślał, biorąc kadzielnicę, aby spalić wonności przed posągiem Amona.
 
-purpose. Had I a drachma, well, one drachma is too little, but had I
+„Dobry to bóg — myślał — który ocenia przymioty mędrców, nawet bosych, i wymierza im sprawiedliwość. Jaki on mi dał piękny majątek!... No, prawda, że i ja go uczciłem, wypisując podwójnym pismem imię Amon — na drzwiach tej chałupy. Albo jak ja mu to pięknie wyrachowałem: ile dostanie kurzych jaj za siedem kuropatw? Mieli słuszność moi mistrze twierdząc, że mądrość nawet bogom otwiera usta.”
 
-one talent, or, better, a plot of land, I would increase it yearly, and
+Spojrzał znowu w kąt. Postać okryta welonem znowu westchnęła.
 
-toward the end of life I should be as wealthy as the wealthiest
+„Ciekawy jestem — mówił do siebie pisarz — dlaczego mój przyjaciel Amon zabronił mi dotykać tej oto sztuczki, co tam stoi w kącie? No, za taki majątek miał prawo nakładać mi warunki; chociaż ja nic podobnego nie zrobiłbym mu. Bo jeżeli cały ten pałac jest moją własnością, jeżeli wszystkiego, co tu jest, mogę używać, dlaczego tamtej rzeczy nie miałbym nawet dotknąć?...
 
-nomarch.
+Tak się mówi: nie wolno dotykać! Wolno wreszcie zobaczyć...”
 
-"'But how begin!' said he, sighing. 'Only fools are favored by the
+Zbliżył się do figury, zdjął ostrożnie welon, patrzy... jest coś bardzo ładnego. Niby piękny młody chłopiec, ale nie chłopiec... Ma włosy długie do kolan, drobne rysy i pełne słodyczy spojrzenie.
 
-gods; and I am filled with wisdom from my wig to my two naked heels. If
+— Co ty jesteś? — mówi do figury.
 
-in my heart a grain of dullness lurks, it is perhaps my inability to
+— Ja jestem kobieta — odpowiada mu postać głosem tak cienkim, że wniknął mu w serce jak sztylet fenicki.
 
-squander, and I should not even know how to set about a work so godless
+„Kobieta?... — myśli pisarz. — Tego mnie nie uczono w kapłańskiej szkole.” — Kobieta?... — powtórzył. — A co masz o tutaj?...
 
-in its object.'
+— To moje oczy.
 
-"As the needy scribe was thus musing, he passed a mud hut at which sat
+— Oczy?... Cóż ty zobaczysz takimi oczami, które od lada światła mogą się rozpłynąć.
 
-some man, neither old nor young, with a very keen glance, which reached
+— Bo moje oczy nie są do tego, żebym ja nimi patrzyła, tylko żebyś ty w nie patrzył — odpowiedziała figura.
 
-to the depth of whatever heart came before him. The scribe, as wise as
+„Dziwne oczy!” — rzekł do siebie pisarz, chodząc po pokoju.
 
-a stork, thought at once that this must be some divinity; so he bowed
+Znowu przystanął przed postacią i zapytał:
 
-down and said to him,
+— A to co masz?
 
-"'I greet thee, worthy master of this splendid mansion. I grieve that I
+— To moje usta.
 
-have neither meat nor wine, so as to divide them between us, in sign
+— Przez bogi! umrzesz z głodu — zawołał — bo tak małymi ustami najeść się nie można...
 
-that I respect thee, and that whatever I own is thy property.'
+— One też nie są do jedzenia — odparła figura — tylko żebyś ty je całował.
 
-"This kindness of the scribe was pleasing to Amon, for he it was, in
+— Całował? — powtórzył pisarz. — I tego nie uczono mnie w kapłańskiej szkole... A to o... co to masz?
 
-human aspect. He looked at the scribe, and inquired of him,
+— To moje rączki.
 
-"'Of what wert Thou thinking while passing along here? for I see wisdom
+— Rączki?... Dobrześ nie powiedziała, że to ręce, bo takimi rękoma nic byś zrobić nie potrafiła, nawet udoić owcy.
 
-on thy forehead, and I am of those who seize words of truth as
+— Moje rączki nie są do roboty.
 
-partridges pick up wheat kernels.'
+— Tylko do czego? — zdziwił się pisarz, rozstawiając jej palce...
 
-"The scribe sighed.
+(Jak ja twoje, Kamo — rzekł następca, pieszcząc drobną rączkę kapłanki.)
 
-"'I was thinking,' said he, 'of my misery, and of those frivolous rich
+— Tylko do czego są takie ręce? — pytał pisarz figury.
 
-men who spend their wealth without knowing why or in what manner.'
+— Ażebym nimi ciebie obejmowała za szyję.
 
-"'And wouldst Thou not waste wealth?' inquired the god, retaining human
+— Chcesz mówić: za kark?... — wrzasnął przerażony pisarz, którego kapłani zawsze chwytali za kark, gdy miał otrzymać plagi.
 
-semblance.
+— Nie za kark — rzekła postać — tylko o tak...
 
-"'Look at me, lord,' said the scribe. 'I have a tattered rag around my
+I objęła go — ciągnął książę — rękoma za szyję, o tak... (Tu otoczył się rękoma kapłanki.) — I przytuliła go do swej piersi o tak, o... (Tu przytulił się do Kamy.)
 
-hips, and on the road I have lost my sandals; but my papyrus and reed I
+— Panie, co robisz?... — szepnęła Kama. — Wszakże to śmierć moja...
 
-bear with me at all times, as I do the heart in my body. Both while
+— Bądź spokojna — odparł książę — ja ci tylko pokazuję, co tamta postać robiła z pisarzem...
 
-rising in the morning and lying down at night, I repeat that wise
+...Wtem zadrżała ziemia, pałac zniknął, znikły psy, konie i niewolnicy. Wzgórze pokryte winogradem zmieniło się w opokę, drzewa oliwne w cierń, a pszenica w piasek...
 
-poverty is far better than foolish riches. If I know how to express
+Pisarz, gdy ocknął się w objęciach kochanki, zrozumiał, że jest takim nędzarzem, jakim był wczoraj na gościńcu. Ale nie żałował swoich bogactw, ponieważ miał kobietę, która kochała go i pieściła!
 
-myself in two kinds of writing and to solve the most complicated
+— Więc wszystko znikło, a ona nie znikła!... — zawołała naiwnie Kama.
 
-problems, if I know all plants and every beast beneath the sky, Thou
+— Litościwy Amon zostawił mu ją na pociechę — rzekł książę.
 
-mayst judge whether I, the master of such lore, am capable of wasting
+— O, to Amon był tylko dla pisarza litościwym — odparła Kama. — Ale co ma znaczyć ta historia?
 
-property.'
+— Zgadnij. Wreszcie słyszałaś, czego biedny pisarz wyrzekł się za pocałunek kobiety...
 
-"The god pondered awhile, and continued,
+— Ale tronu nie wyrzekłby się! — przerwała kapłanka.
 
-"'Thy speech flows as vigorously as the Nile at Memphis; but if Thou
+— Kto wie?... gdyby go bardzo o to poproszono — szeptał namiętnie Ramzes.
 
-art so wise, indeed, write for me the name of Amon in two manners.'
+— O nie!... — zawołała Kama, wydzierając mu się z objęć. — Tronu niech się nie wyrzeka, bo w takim razie cóż by zostało z jego obietnic dla Fenicji...
 
-"The scribe took his reed and brush, and in no long time he wrote the
+Oboje spojrzeli sobie w oczy długo... długo... W tej chwili książę uczuł niby ranę w sercu i niby że z tej rany uciekło mu jakieś uczucie. Nie namiętność, bo namiętność została, ale — szacunek i wiara w Kamę.
 
-name Amon in two manners on the door of the hut, and so clearly that
+„Dziwne te Fenicjanki — pomyślał następca — można za nimi szaleć, lecz niepodobna im ufać...”
 
-even dumb creatures would have stopped to give Lord Amon homage.
+Uczuł się znużonym i pożegnał Kamę. Spojrzał po komnacie, jakby trudno mu było rozstać się z nią, i odchodząc, rzekł do siebie:
 
-"The god was satisfied, and answered,
+„A jednak ty zostaniesz moją i bogowie feniccy nie zabiją cię, jeżeli dbają o swoje świątynie i kapłanów.”
 
-"'If Thou art as skilled in reckoning as in writing, reckon for me the
+Ledwie Ramzes opuścił willę Kamy, do pokoju kapłanki wpadł młody Grek, uderzająco piękny i uderzająco podobny do egipskiego księcia. Na jego twarzy malowała się wściekłość.
 
-following problem: If they give me four hen eggs for one partridge, how
+— Lykon!... — zawołała przerażona Kama. — Co tu robisz?...
 
-many hen eggs should they give me for seven partridges?'
+— Podła gadzino!... — odparł Grek dźwięcznym głosem. — Jeszcze miesiąc nie upłynął od wieczora, kiedy przysięgłaś, że mnie kochasz, że uciekniesz ze mną do Grecji, a już drugiemu kochankowi rzucasz się na szyję... Czy pomarli bogowie, czy uciekła od nich sprawiedliwość?...
 
-"The scribe gathered pebbles, placed them in various rows, and before
+— Szalony zazdrośniku — przerwała kapłanka — ty mnie zabijesz...
 
-the sun had set, he answered that they should give twenty-eight eggs
+— Z pewnością, że ja cię zabiję, nie twoja skamieniała bogini... Tymi rękoma — wołał, wyciągając ręce jak szpony — uduszę cię, gdybyś została kochanką...
 
-for seven partridges.
+— Czyją?...
 
-"The almighty Amon smiled when be saw before him a sage of such
+— Alboż ja wiem!... Zapewne obu: tego starego Asyryjczyka i tego książątka, któremu kamieniem łeb rozwalę, jeżeli będzie się tu włóczył... Książę!... ma wszystkie niewiasty z całego Egiptu i... jeszcze mu się zachciewa cudzych kapłanek... Kapłanki są dla kapłanów, nie dla obcych...
 
-uncommon proportions, and answered,
+Kama odzyskała już zimną krew.
 
-"'I recognize that Thou hast spoken truth concerning thy wisdom. If
+— A ty nie jesteś dla nas obcy? — rzekła wyniośle.
 
-Thou shalt appear equally enduring in virtue I will so arrange that
+— Żmijo!... — wybuchnął Grek powtórnie. — Ja nie mogę być obcym dla was, gdy dar mego głosu, którym ozdobili mnie bogowie, obracam na służbę waszym bogom... A ileż to razy za pomocą mej postaci oszukiwaliście głupich Azjatów, że następca egipskiego tronu potajemnie wyznaje waszą wiarę?...
 
-Thou shalt be happy to the end of life, and after death thy sons shall
+— Cicho!... cicho!... — zasyczała kapłanka, zamykając mu ręką usta.
 
-place thy shade in a beautiful tomb. But now tell me: what wealth dost
+Coś w jej dotknięciu musiało być czarującego, gdyż Grek uspokoił się i począł mówić ciszej:
 
-Thou wish, wealth which Thou wouldst not merely refrain from wasting,
+— Słuchaj, Kama. W tych czasach przypłynie do Zatoki Sebenickiej grecki statek prowadzony przez mego brata. Postarajże się, aby cię arcykapłan wysłał do Pi-Uto, skąd uciekniemy nareszcie do północnej Grecji, w takie miejsce, które jeszcze nie widziało Fenicjan...
 
-but wouldst increase?'
+— Zobaczy ich, jeśli ja się tam skryję — przerwała kapłanka.
 
-"The scribe fell to the feet of the generous deity, and answered,
+— Gdyby tobie włos spadł — szeptał rozwścieczony Grek — przysięgam, że Dagon... że wszyscy tutejsi Fenicjanie oddadzą głowy lub zdechną w kopalniach! Poznają oni, co może Grek...
 
-"'If I had even this hut and three measures of land, I should be
+— A ja ci mówię — odparła tym samym głosem kapłanka — że dopóki nie zbiorę dwudziestu talentów, nie ruszę się stąd... A mam dopiero osiem...
 
-wealthy.'
+— Skądże weźmiesz resztę?
 
-"'Well,' said the god, 'but first look around and see if it would
+— Dadzą mi Sargon i namiestnik.
 
-suffice thee.'
+— Na Sargona zgoda, ale księcia nie chcę!...
 
-"He led him into the hut, and said,
+— Głupi Lykonie, czyli nie widzisz, dlaczego trochę podoba mi się ten młodzik?... Ciebie przypomina!...
 
-"'Thou hast four caps and skirts, two mantles for bad weather, and two
+Grek zupełnie uspokoił się.
 
-pairs of sandals. Here is a fire, here a bench on which Thou mayst
+— No, no!... — mruczał. — Rozumiem, że gdy kobieta ma do wyboru między następcą tronu i takim jak ja śpiewakiem, nie mam potrzeby lękać się... Ale jestem zazdrosny i gwałtowny, więc proszę cię, ażebyś go jak najmniej spoufalała do siebie.
 
-sleep, a mortar for crushing wheat, and a pan for dough.'
+Ucałował ją, wymknął się z willi i zniknął w ciemnym ogrodzie.
 
-"'But what is this?' asked the scribe, pointing to a certain figure
+Kama wyciągnęła za nim zaciśniętą pięść.
 
-covered with linen.
-
-"'That is one thing which Thou must not touch; if Thou do, Thou wilt
-
-lose all thy property.'
-
-"'Ai!' cried the scribe. 'That may remain a thousand years there; I
-
-will not trouble it. With permission of thy honor, what estate is that
-
-over there?' and he bent through the hut window.
-
-"'Thou hast spoken wisely,' said Amon, 'for that is an estate, and even
-
-a fine one. It is composed of fifty measures of land. There is a
-
-spacious house on it, some tens of cattle, and ten slaves belong to the
-
-establishment. If Thou prefer that estate.'
-
-"The scribe fell at the feet of the deity.
-
-"'Is there,' inquired he, 'a man under the sun who instead of a barley
-
-cake would not prefer a loaf of wheaten bread?'
-
-"When he heard this, Amon repeated a formula, and that moment both were
-
-in the mansion.
-
-"'Here Thou hast,' said the god, 'a carved bed, five tables, and ten
-
-armchairs; Thou hast embroidered clothing, Thou hast pitchers, and
-
-glass bottles for wine, a lamp for olive oil, and a litter.'
-
-"'And what is this?' asked the scribe, pointing to a figure robed in
-
-muslin and standing in a corner.
-
-"'Thou must not touch that or Thou wilt lose all thy property.'
-
-"'Were I to live ten thousand years I would not touch it. For, after
-
-wisdom, I consider wealth the highest blessing.'
-
-"'But what do I see?' inquired he after a while, pointing to an immense
-
-palace in a garden.
-
-"'Over there is a princely estate,' replied the god. 'That is a palace,
-
-five hundred measures of land, one hundred slaves, and two hundred head
-
-of cattle. That is a grand property: but if Thou think thy wisdom
-
-sufficient to manage it.'
-
-"The scribe fell again at the feet of Amon, and covered himself with
-
-tears of delight.
-
-"'O lord,' said he, 'is there on earth a mad man who instead of a
-
-goblet of beer would not take a cask of wine?'
-
-"'Thy words are worthy of the sage who can make the most difficult
-
-reckonings,' said Amon.
-
-"He pronounced the mighty words of the formula; the god and the scribe
-
-found themselves in the palace.
-
-"'Here Thou hast,' said the kind god, 'a dining-hall; in it gold and
-
-gilded curtains, and armchairs, also tables inlaid with woods of
-
-various colors. In the lower story is a kitchen for five cooks; a
-
-storehouse where Thou wilt find all kinds of meat, fish, bread;
-
-finally, a cellar with perfect wines in it. Thou hast a bedchamber with
-
-a movable roof, with which thy slaves will cool thee while Thou art
-
-sleeping. I turn attention to the bed, which is made of cedar wood, and
-
-rests on four lion legs cast from bronze skillfully. Thou hast a
-
-wardrobe filled with linen and woolen garments; in caskets Thou wilt
-
-find rings, chains, and bracelets.'
-
-"But what is this?" asked the scribe, pointing to a figure covered with
-
-a veil embroidered in gold and purple.
-
-"'Thou must guard thyself from this most carefully,' warned the god.
-
-'If Thou touch this, thy immense estate will vanish. And there are few
-
-such estates in Egypt, I assure thee. Moreover, I must say that in the
-
-treasury here there are ten talents in gold and precious stones in
-
-addition.'"
-
-"My sovereign," cried the scribe, "permit that the first place in this
-
-palace be held by thy sacred statue, before which I will burn incense
-
-three times daily."
-
-"'But avoid that,' replied Amon, pointing to the veiled figure.
-
-"'Should I lose my wisdom, and be worse than a wild boar, for which
-
-wine is no better than swill,' said the scribe; 'let that veiled figure
-
-do penance here for a hundred millenniums, I will not touch it.'
-
-"'Remember that if Thou do Thou wilt lose all Thou hast,' cried the
-
-god; and he vanished.
-
-"The scribe, now made happy, walked up and down through his palace and
-
-looked out through the windows. He examined the treasury and tried the
-
-gold in his hands; it was heavy. He looked at the precious stones; they
-
-were genuine. He commanded to serve him with food; in rushed slaves
-
-immediately, bathed him, shaved him, arrayed him in fine garments. He
-
-ate and drank as be never had drunk and eaten; his hunger joined with
-
-the perfection of the food gave a marvelous taste to it. He burnt
-
-incense before the statue of Amon, and wreathed it with fresh flowers.
-
-Later he sat down at a window.
-
-"In the courtyard a pair of horses were neighing; they were harnessed
-
-to a carved chariot. In another place a crowd of men with darts and
-
-nets were keeping down eager dogs which were tearing away to chase
-
-animals. Before a granary one scribe was receiving grain from earth-
-
-tillers; before the stable another scribe was receiving reckoning from
-
-the overseer of the shepherds.
-
-"In the distance were visible an olive grove, high hills covered with
-
-grape-vines, wheat-fields, and on every field were date palms set out
-
-thickly.
-
-"'In truth,' said he to himself, 'I am rich today, just as was proper;
-
-and I only wonder how I endured life so long in abasement and misery. I
-
-must confess, too, that I do not know whether I can increase this
-
-immense property, for I need no more now, and I shall not have time to
-
-run after investments.'
-
-"But after a while it was tedious in the house for him; so he looked at
-
-the garden, went around the fields, talked with the servants, who fell
-
-on their faces in his presence, though they were dressed in such style
-
-that yesterday he would have thought it an honor to kiss the hands of
-
-any one of them; but he was bored in the field even, so he went back to
-
-the house, and examined the supplies in his storehouses and cellars,
-
-also the furniture in the chambers.
-
-"'They are beautiful,' said he to himself; 'but it would be better if
-
-the furniture were made of gold, and the pitchers of jewels.'
-
-"His eyes turned mechanically toward the corner where the figure was
-
-concealed under an embroidered veil and it sighed.
-
-"'Sigh!' said he, taking a censer to burn incense before the statue of
-
-Amon.
-
-"'He is a kind god,' thought he, 'who values the qualities of sages,
-
-even when barefoot, and deals out to them justice. What a beautiful
-
-estate he has given me! It is true that I showed him honor by writing
-
-Amon on the door of that hut in two manners. And how beautifully I
-
-reckoned how many hen eggs he would get for seven partridges. My
-
-teachers were right when they said that wisdom opens the lips of gods
-
-even,'
-
-"He turned again toward the corner. The veiled figure sighed again.
-
-"'I am curious to know,' thought the scribe, 'why my friend Amon
-
-forbade me to touch that thing over there in the corner. Well, for such
-
-a property he had a right to impose conditions; though I should not
-
-have imposed them on him. For if all this palace is my property, if I
-
-may use all that is here, why should I not even touch this thing I may
-
-not touch it, but I may look at it.'
-
-"He approached the figure, drew the veil aside carefully, looked; it
-
-was indeed beautiful. It resembled a boy, but was not a boy. It had
-
-hair reaching to its knees, delicate features, and a look full of
-
-sweetness.
-
-"'Who art thou?' asked the scribe of the figure.
-
-"'I am a woman,' answered the figure, with a voice that penetrated his
-
-heart like a Phoenician dagger.
-
-"'Woman?' thought the scribe. 'They did not tell me about woman in the
-
-priests' school. Woman?' repeated he. 'But what hast Thou here?'
-
-"'Those are my eyes.'
-
-"'Eyes? What canst Thou see with eyes which would melt before any
-
-light?'
-
-"'Those are not eyes made for me to look from, but Thou must look into
-
-them.'
-
-"'Wonderful eyes! '" thought the scribe to himself; and he walked
-
-through the chamber.
-
-"Again he stood before the figure, and asked,
-
-"'But what hast Thou here?'
-
-"'Those are my lips.'
-
-"'By the gods, Thou wilt die of hunger,' cried he, 'for with such
-
-little lips Thou couldst take in no food whatever.'
-
-"'They are not for eating,' answered the figure, 'but Thou art to kiss
-
-them.'
-
-"'To kiss,' repeated the scribe. 'They did not tell me in the priests'
-
-school of kissing. But these what are they?'
-
-"'Those are my hands.'
-
-"'Hands? It is well that Thou hast told me, for with those hands Thou
-
-couldst not do anything; Thou couldst not milk sheep even.'
-
-"'My hands are not for work.'
-
-"'But for what?' wondered the scribe, spreading apart her fingers (as I
-
-do thine, Kama," said the prince, fondling the small hands of the
-
-priestess). "' But what are those arms for?' inquired the scribe of the
-
-figure.
-
-"'To put around thy neck.'
-
-"'Thou wishest to say shoulder,' cried the frightened scribe, whom the
-
-priest always seized by the shoulder when he was to get stripes.
-
-"'Not by the shoulder,' said the figure, 'but this way;' and she put
-
-her arms around his neck thus," said the prince (here he put his arms
-
-around the priestess), "and she nestled up to his breast thus" (here he
-
-nestled up to Kama).
-
-"Lord, what art Thou doing?" whispered Kama. "But this is nay death."
-
-"Have no fear," replied the prince; "I was only showing thee what the
-
-statue did to that scribe in his palace. The moment she embraced him
-
-the earth trembled, the palace disappeared, dogs, horses, slaves
-
-vanished. The hill covered with grape-vines turned into a cliff, the
-
-olive-trees into thorns, the wheat into sand. The scribe, when he
-
-recovered in the embrace of his love, understood that he was as poor as
-
-he had been on the highroad a day earlier. But he did not regret his
-
-wealth, since he had a woman who loved and who clung to him."
-
-"So everything vanished but the woman!" exclaimed Kama, naively.
-
-"The compassionate Amon left her to the scribe to console him," said
-
-the viceroy.
-
-"Then Amon is compassionate only to scribes," answered Kama. "But what
-
-does that story signify?"
-
-"Guess. But Thou hast just heard what the poor scribe yielded up for
-
-the kiss of a woman."
-
-"But he would not yield up a throne," interrupted the priestess.
-
-"Who knows? if he were implored greatly to do so," whispered Ramses,
-
-with passion.
-
-"Oh, no!" cried Kama, tearing away from him; "let not the throne go so
-
-easily, for what would become then of thy promise to Phoenicia?"
-
-They looked into each other's eyes for a long time. The prince felt a
-
-wound in his heart, and felt as if through that wound some feeling had
-
-gone from him. It was not passion, for passion remained; but it was
-
-esteem for Kama, and faith in her.
-
-"Wonderful are these Phoenicians," thought the heir; "one may go wild
-
-for them, but 'tis not possible to trust them."
-
-He felt wearied, and took farewell of the priestess. He looked around
-
-the chamber as though it were difficult to leave the place; and while
-
-going, he said to himself,
-
-"And still Thou wilt be mine, and Phoenician gods will not kill thee,
-
-if they regard their own priests and temples."
-
-Barely had Ramses left Kama's villa, when into the chamber of the
-
-priestess rushed a young Greek who was strikingly beautiful, and
-
-strikingly similar to Ramses. Rage was depicted on his face.
-
-"Lykon!" cried the terrified Kama. "What art Thou doing here?"
-
-"Vile reptile!" replied the Greek, in his resonant voice. "A month has
-
-not passed since thy oath, declaring thy love, and that Thou wouldst
-
-flee to Greece with me, and now Thou art falling on the neck of
-
-another. Are the gods dead? Has justice deserted them?"
-
-"Thou art mad with thy jealousy," interrupted the priestess; "Thou wilt
-
-kill me."
-
-"It is sure that I, and not thy stone goddess, will kill thee. With
-
-these two hands," cried he, stretching out his fingers, like talons, "I
-
-will choke thee if Thou hast become the mistress."
-
-"Of whom?"
-
-"Do I know? Of course, of both, of that old Assyrian and this
-
-princeling, whose head I will split with a stone should he prowl about
-
-this place any longer. The prince! he has all the women of Egypt, and
-
-still he wants foreign priestesses. The priestesses are for priests,
-
-not for foreigners."
-
-Kama recovered her coolness.
-
-"But for us art Thou not a foreigner?" asked she, haughtily.
-
-"Reptile!" burst out the Greek, a second time. "I cannot be a foreigner
-
-for you Asiatics, since that gift of voice with which the gods have
-
-endowed me is turned to the use of your divinities. But how often, by
-
-means of my figure, have ye deceived dull Asiatics by telling them that
-
-the heir to the throne of Egypt belongs to your faith in secret?"
-
-"Silence! silence!" hissed the priestess, closing his mouth with her
-
-hand.
-
-There must have been something enchanting in her touch, for the Greek
-
-grew calm, and spoke lower.
-
-"Hear me, Kama. Soon to the bay of Sebenico will come a Greek ship,
-
-commanded by my brother. Make the high priest send thee to Pi-Uto; we
-
-shall flee thence to northern Greece, to a place which has never yet
-
-seen a Phoenician."
-
-"It will see them if I hide there," interrupted the priestess.
-
-"Should a hair fall from thy head," whispered the raging Greek, "I
-
-swear that Dagon, that all the Phoenicians here will lose their heads,
-
-or die in the stone quarries. They will learn what a Greek can do."
-
-"But I say to thee," answered Kama, in the same tone, "that until I
-
-collect twenty talents I will not leave here. I have now only eight."
-
-"Where wilt Thou get the other twelve?"
-
-"Sargon and the viceroy will give them."
-
-"I will let Sargon give, but not the prince."
-
-"Foolish Lykon, dost thou not know why that stripling pleases me a
-
-little? He reminds me of thee."
-
-The Greek was perfectly quieted.
-
-"Well, well," muttered he, "I understand that when a woman has the
-
-choice between the heir to the throne and a man with my voice I have no
-
-need to tremble. But I am jealous and violent, so I beg thee to let him
-
-approach thee as little as possible."
-
-He kissed her, slipped out of the villa, and vanished in the dark
-
-garden.
-
-Kama stretched her clinched fist after him.
-
-"Worthless buffoon!" whispered she; "Thou who art hardly fit to be a
-
-singing slave in my mansion."
+— Nikczemny pajacu!... — szepnęła — który zaledwie mógłbyś być u mnie śpiewającym niewolnikiem...

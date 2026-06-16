@@ -1,655 +1,226 @@
-# Kapitel 32: CHAPTER XXXII
+# Kapitel 032: Tom II - Rozdział VII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part38.xhtml*
 
 <!-- status: pending -->
 
-Next day the prince rose late, bathed himself and dressed, then
+Na drugi dzień książę wstał późno, sam wykąpał się i ubrał, i kazał przyjść do siebie Tutmozisowi.
 
-summoned Tutmosis.
+Wystrojony, namaszczony wonnościami elegant ukazał się natychmiast, pilnie przypatrując się księciu, aby poznać, w jakim jest humorze, i odpowiednio do tego ułożyć swoją fizjognomię.
 
-The exquisite appeared at once, dressed carefully and perfumed. He
+Ale na twarzy Ramzesa malowało się tylko znużenie.
 
-looked sharply at the prince to learn in what humor he was, and to fix
+— Cóż — spytał Tutmozisa, ziewając — czy jesteś pewny, że urodził mi się syn?
 
-his own features correspondingly. But on the face of Ramses was only
+— Mam tę wiadomość od świętego Mefresa.
 
-weariness.
+— Oho!... Od jakże to dawna prorocy zajmują się moim domem?
 
-"Well," asked the prince, yawning, "art Thou sure that a Bon is born to
+— Od czasu kiedy wasza dostojność okazujesz im swoją łaskę.
 
-me?"
+— Tak?... — spytał książę i zamyślił się. Przypomniał sobie wczorajszą scenę w świątyni Astoreth i porównywał ją z podobnymi zjawiskami w świątyni Hator.
 
-"I have that news from the holy Mefres."
+„Wołano na mnie — mówił do siebie — i tu, i tam. Ale tam moja cela była bardzo ciasna i grube mury, tu zaś wołający, a właściwie Kama mogła schować się za kolumnę i szeptać... Wreszcie tu było strasznie ciemno, a w mojej celi widno...”
 
-"Oho! How long is it since the prophets are occupied with my
+Nagle rzekł do Tutmozisa:
 
-household?"
+— Kiedyż się to stało?
 
-"Since the time that Thou hast shown them thy favor, worthiness."
+— Kiedy urodził się dostojny syn twój?... Podobno już z dziesięć dni temu... Matka i dziecko zdrowe, doskonale wyglądają... Przy urodzeniu był sam Menes, lekarz twojej czcigodnej matki i dostojnego Herhora...
 
-"Is that true?" asked the prince, and he fell to thinking.
+— No, no... — odparł książę i znowu myślał:
 
-He recalled the scene of the previous night in the temple of Astaroth,
+„Dotykano mnie tu i tam jednakowo zręcznie... Czy była jaka różnica?... Zdaje się, że była, może dlatego, że tu byłem, a tam nie byłem przygotowany na zobaczenie cudu... Ale tu pokazano mi drugiego mnie, czego tam nie potrafili zrobić... Bardzo mądrzy są kapłani!... Ciekawym, kto mnie tak dobrze udawał, bożek czy człowiek?... O, bardzo mądrzy są kapłani i nawet nie wiem, którym z nich lepiej wierzyć: naszym czy fenickim?...”
 
-and compared it with a similar spectacle in the temple of Hator.
+— Słuchaj, Tutmozis — rzekł głośno — słuchaj, Tutmozis... Trzeba, ażeby tu przyjechali... Muszę przecie zobaczyć mego syna... Nareszcie już nikt nie będzie miał prawa uważać się za lepszego ode mnie...
 
-"They called my name," said he to himself, "both here and there. But
+— Czy zaraz mają przyjechać dostojna Sara z synem?...
 
-there my cell was very narrow, and the walls were thick; here the
+— A niech przyjadą jak najprędzej, jeżeli tylko zdrowie im pozwoli. W granicach pałacu jest dużo wygodnych budowli. Trzeba wybrać miejsce wśród drzew, zaciszne i chłodne, gdyż nadchodzi czas upałów... Niechże i ja pokażę światu mego syna!...
 
-person calling, namely, Kama, could hide herself behind a column and
+I znowu wpadł w zadumę, która nawet zaczęła niepokoić Tutmozisa.
 
-whisper. But here it was terribly dark, while in my cell it was clear."
+„Tak, mądrzy są! — myślał Ramzes. — Że lud oszukują, nawet grubymi sposobami, o tym wiedziałem. Biedny święty Apis! ile on ukłuć dostaje w czasie procesji, kiedy chłopi leżą przed nim na brzuchach... Ale ażeby oszukiwali mnie, temu bym nie uwierzył... Głosy bogów, niewidzialne ręce, człowiek oblewany smołą, to były przegrywki!... Po czym nastąpiła pieśń Pentuera: o ubytku ziemi i ludności, o urzędnikach, Fenicjanach, a wszystko — ażeby obmierzić mi wojnę...”
 
-At last he said to Tutmosis,
+— Tutmozisie — rzekł nagle.
 
-"When did that happen?"
+— Padam przed tobą na twarz...
 
-"When was thy worthy son born? About ten days ago. The mother and child
+— Trzeba powoli ściągnąć pułki z nadmorskich miast — tutaj... Chcę zrobić przegląd i wynagrodzić ich wierność.
 
-are well; they seem perfectly healthy. At the birth were present Menes
+— A my, szlachta, nie jesteśmyż ci wierni? — spytał zmieszany Tutmozis.
 
-himself, thy worthy mother's physician, and his worthiness Herhor."
+— Szlachta i wojsko to jedno.
 
-"Well well," said the prince, and again he fell to thinking: "They
+— A nomarchowie, urzędnicy?...
 
-touched me here and there, with a band in both cases. Was there such a
+— Wiesz, Tutmozis, że nawet i urzędnicy są wierni — mówił książę. — Co mówię, nawet Fenicjanie!... Chociaż na wielu innych stanowiskach są zdrajcy...
 
-difference? It seems to me that there was, maybe for the reason that
+— Przez bogi, ciszej!... — szepnął Tutmozis i lękliwie wyjrzał do drugiej komnaty.
 
-here I was, and there I was not, prepared to see a miracle. But here
+— Oho!... — śmiał się książę — skądże ta trwoga? Więc i dla ciebie nie jest tajemnicą, że mamy zdrajców...
 
-they showed me another myself, which they did not succeed in doing
+— Wiem, o kim wasza dostojność mówisz — odparł Tutmozis — bo zawsze byłeś źle uprzedzony...
 
-there. Very clever are the priests! I am curious to know who
+— Do kogo?...
 
-represented me so well, a god or a man? Oh, the priests are very
+— Do kogo!... Domyślam się. Ale sądziłem, że po ugodzie z Herhorem, po długim pobycie w świątyni...
 
-clever, and I do not know even whom to trust more, our priests or the
+— Cóż świątynia?... I tam, i w całym zresztą kraju przekonywałem się zawsze o jednym, że najlepsze ziemie, najdzielniejsza ludność i niezmierne bogactwa nie są własnością faraona...
 
-Phoenicians?
+— Ciszej!... ciszej!... — szeptał Tutmozis.
 
-"Hear me, Tutmosis," said he, aloud. "They must come hither; I must see
+— Ależ ciągle milczę, ciągle mam twarz pogodną, więc pozwól mi się wygadać choć ty... Zresztą nawet w najwyższej radzie miałbym prawo powiedzieć, że w tym Egipcie, który niepodzielnie należy do mego ojca, ja, jego następca i namiestnik, musiałem pożyczyć sto talentów od jakiegoś tyryjskiego książątka... Nie jestże to hańba!...
 
-my son. At last no one will have the right to consider himself better
+— Ale skądże ci to dziś przyszło?... — szeptał Tutmozis, pragnąc jak najrychlej zakończyć niebezpieczną rozmowę.
 
-than I."
+— Skąd?... — powtórzył książę i umilkł, aby znowu pogrążyć się w zadumie.
 
-"Is the worthy Sarah to come immediately with her son?"
+„Niewiele jeszcze znaczyłoby — myślał — gdyby tylko mnie oszukiwali: jestem dopiero następcą faraona i nie do wszystkich tajemnic mogę być dopuszczany. Ale kto mi powie, że oni w taki sam sposób nie postępowali z moim czcigodnym ojcem?... Trzydzieści kilka lat ufał im nieograniczenie, korzył się przed cudami, składał hojne ofiary bogom, po to... ażeby jego majątek i władza przeszła w ręce ambitnych filutów... I nikt mu oczu nie otworzył... Boć faraon nie może, jak ja, wchodzić w nocy do świątyń fenickich, bo w końcu do jego świątobliwości nikt nie ma przystępu...
 
-"Let them come at the earliest, if their health permit. Within the
+A kto mnie dziś zapewni, że kapłaństwo nie dąży do obalenia tronu, jak to powiedział Hiram?... Wszakże ojciec ostrzegł mnie, że Fenicjanie są najprawdomówniejsi, gdy mają w tym interes. I z pewnością, że mają interes, ażeby nie być wypędzonymi z Egiptu i nie dostać się pod władzę Asyrii... Asyria, stado wściekłych lwów!... Kędy oni przejdą, nic nie zostanie oprócz zwalisk i trupów, jak po pożarze!...”
 
-palace bounds are many convenient buildings. It is necessary to choose
+Nagle Ramzes podniósł głowę: z daleka doleciał go odgłos fletów i rogów.
 
-a place among the trees, quiet, and, when the time of heat comes, cool.
+— Co to znaczy? — zapytał Tutmozisa.
 
-Let me, too, show the world my son."
+— Wielka nowina!... — odparł dworak z uśmiechem. — Azjaci witają znakomitego pielgrzyma, aż z Babilonu...
 
-Again he was thoughtful; this disquieted Tutmosis.
+— Z Babilonu?... Kto on?...
 
-"Yes, they are clever!" thought Ramses. "That they deceive the common
+— Nazywa się Sargon...
 
-people, even by rude methods, I knew. Poor sacred Apis! how many prods
+— Sargon?... — przerwał książę. — Sargon!... acha! cha!... — zaczął się śmiać. — Czymże on jest?...
 
-he got during processions when people lay prostrate before him! But to
+— Ma być wielkim dostojnikiem na dworze króla Assara. Prowadzi ze sobą dziesięć słoni, stada najpiękniejszych rumaków pustynnych, tłumy niewolników i sług.
 
-deceive me, I should not have believed that, voices of gods, invisible
+— A po co on tu przyjeżdża?
 
-hands, a man covered with pitch; these were accessories! Then came
+— Pokłonić się cudownej bogini Astoreth, którą czci cała Azja — odparł Tutmozis.
 
-Pentuer's song about the decrease of land and population, the
+— Cha!... cha!... cha!... — śmiał się książę, przypomniawszy sobie zapowiedź Hirama o przyjeździe asyryjskiego posła. — Sargon... cha!... cha!... Sargon, powinowaty króla Assara, zrobił się nagle tak pobożnym, że na całe miesiące puszcza się w niewygodną podróż, byle uczcić boginią Astoreth w Pi-Bast... Ależ w Niniwie znalazłby większych bogów i uczeńszych kapłanów... Cha!... cha!... cha!...
 
-officials, the Phoenicians, and all that to disgust me with war."
+Tutmozis ze zdumieniem patrzył na księcia.
 
-Tutmosis said suddenly,
+— Co tobie, Ramzesie?...
 
-"I fall on my face before thee."
+— Oto cud! — mówił książę — jakiego chyba nie zapisały kroniki żadnej świątyni... Tylko pomyśl, Tutmozisie... W chwili gdy najbardziej zastanawiasz się nad pytaniem: w jaki sposób złapać złodzieja, który cię wciąż okrada? — w takiej chwili — ów złodziej znowu pakuje ręce do twojej skrzyni, w twoich oczach, przy tysiącu świadków... Cha! cha! cha!... Sargon — pobożny pielgrzym!...
 
-"I must bring hither, gradually, regiments from cities near the sea. I
+— Nic nie rozumiem... — szeptał zakłopotany Tutmozis.
 
-wish to have a review and reward them for loyalty."
+— I nie potrzebujesz rozumieć — odparł namiestnik. — Zapamiętaj tylko, że Sargon przyjechał tu na pobożne praktyki, do świętej Astoreth...
 
-"But we, the nobles, are we not loyal to thee?" inquired Tutmosis,
+— Zdaje mi się, że wszystko, o czym mówisz — rzekł zniżając głos Tutmozis — że wszystko to są rzeczy bardzo niebezpieczne...
 
-confused.
+— Toteż nie wspominaj o nich nikomu.
 
-"The nobles and the army are one."
+— Że ja nie wspomnę, tego chyba jesteś pewny, ale czy ty, książę, sam się nie zdradzisz... Jesteś prędki jak błyskawica...
 
-"But the nomarchs and the officials?"
+Następca położył mu rękę na ramieniu.
 
-"Even the officials are loyal," answered the prince. "What do I say?
+— Bądź spokojny — rzekł, patrząc mu w oczy. — Obyście mi tylko dochowali wierności, wy, szlachta i wojsko, a zobaczycie dziwne wypadki i... skończą się dla was ciężkie czasy!...
 
-The Phoenicians even are so, though in many other points they are
+— Wiesz, że zginiemy na twój rozkaz — odparł Tutmozis, kładąc rękę na piersiach.
 
-deceivers."
+Na jego obliczu była tak niezwykła powaga, iż książę zrozumiał, wreszcie nie po raz pierwszy, że w tym rozhukanym elegancie kryje się dzielny mąż, na którego mieczu i rozumie można polegać.
 
-"By the gods! speak in a lower voice," whispered Tutmosis; and he
+Od tej pory książę nigdy już nie prowadził z Tutmozisem tak dziwnej rozmowy. Ale wierny przyjaciel i sługa odgadł, że poza przyjazdem Sargona kryją się jakieś wielkie interesa państwowe, samowolnie rozstrzygane przez kapłanów.
 
-looked toward the other room timidly.
+Zresztą od pewnego czasu cała egipska arystokracja, nomarchowie, wyżsi urzędnicy i dowódcy, bardzo cicho, ale to bardzo cicho, szeptali między sobą, że nadchodzą ważne wypadki. Fenicjanie bowiem pod przysięgą dochowania tajemnicy opowiadali im o jakowychś traktatach z Asyrią, przy których Fenicja zginie, a Egipt okryje się hańbą i bodaj że kiedyś stanie się lennikiem Asyrii.
 
-"Oho!" laughed the prince, "why this alarm? So for thee, too, it is no
+Wzburzenie między arystokracją było ogromne, lecz nikt się nie zdradził. Owszem, zarówno na dworze następcy, jak i u nomarchów Dolnego Egiptu, bawiono się doskonale. Można było sądzić, że wraz z gorącem spadło na nich szaleństwo nie tylko zabaw, ale rozpusty. Nie było dnia bez igrzysk, uczt i triumfalnych pochodów, nie było nocy bez iluminacji i wrzasków. Nie tylko w Pi-Bast, ale w każdym mieście wytworzyła się moda przebiegania ulic z pochodniami, muzyką, a nade wszystko z pełnymi dzbanami. Wpadano do domów i wyciągano śpiących mieszkańców na pijatykę; a że Egipcjanie mieli duży pociąg do hulanek, więc bawił się, kto żył.
 
-secret that we have traitors?"
+Przez czas pobytu Ramzesa w świątyni Hator Fenicjanie zdjęci jakimś panicznym strachem spędzali dnie na modlitwach i wszystkim odmawiali kredytu. Lecz po rozmowie Hirama z namiestnikiem pobożność i ostrożność nagle opuściła Fenicjan, i zaczęli panom egipskim hojniej udzielać pożyczek aniżeli kiedykolwiek.
 
-"I know of whom Thou art speaking, worthiness, for Thou wert always
+Takiej obfitości złota i towarów, jaka zapanowała w Dolnym Egipcie, a nade wszystko tak małych procentów, nie pamiętali najstarsi ludzie.
 
-prejudiced against."
+Surowy i mądry stan kapłański zwrócił uwagę na szaleństwa najwyższych klas społecznych. Lecz omylili się w ocenianiu jego źródeł, a święty Mentezufis, który co kilka dni wysyłał raport do Herhora, wciąż donosił mu, że następca, znudzony praktykami religijnymi w świątyni Hator, bawi się teraz bez pamięci, a wraz z nim cała arystokracja.
 
-"Against whom?"
+Dostojny minister nawet nie odpowiadał na te wzmianki, co dowodziło, że hulatykę księcia uważa za rzecz naturalną, a może nawet pożyteczną.
 
-"Against whom I divine. But I thought that after the agreement with
+Przy takim nastroju najbliższego otoczenia Ramzes zyskał dużo swobody. Prawie każdego wieczora, gdy przepici winem dworzanie zaczynali tracić świadomość, książę — wymykał się z pałacu.
 
-Herhor, after a long stay in the temple."
+Okryty ciemnym burnusem oficera, przebiegał puste ulice i wydostawał się za miasto, do ogrodów świątyni Astoreth.
 
-"What of the temple? In the temple, and in the whole country, for that
+Tam odnajdywał swoją ławkę naprzeciw pałacyku Kamy i ukryty między drzewami patrzył na płonące pochodnie, słuchał śpiewu wielbicieli kapłanki i — marzył o niej.
 
-matter, I have convinced myself of one thing, that the very best lands,
+Księżyc wschodził coraz później, zbliżając się do nowiu, noce były szare, efekta świetlne przepadły, ale Ramzes mimo to wciąż widział jasność owej pierwszej nocy i słyszał namiętne strofy Greka.
 
-the most active population, and immense wealth are not the property of
+Nieraz powstawał z ławki, ażeby wprost pójść do mieszkania Kamy; ale ogarniał go wstyd. Czuł on, że nie wypada następcy tronu ukazywać się w domu kapłanki, którą odwiedzał każdy pielgrzym, byle złożył hojniejszą dla świątyni ofiarę. Co dziwniejsza — bał się, ażeby widok Kamy, otoczonej dzbanami i nieszczęśliwymi wielbicielami, nie zatarł mu cudownego obrazu księżycowej nocy.
 
-the pharaoh."
+Wówczas gdy ją przysłał Dagon, ażeby odwrócić gniew księcia, Kama wydała się Ramzesowi młodą dziewczyną, dosyć powabną, dla której jednak można nie stracić głowy. Lecz gdy pierwszy raz w życiu on, wódz i namiestnik, musiał siedzieć pod domem kobiety, gdy go rozmarzyła noc, gdy usłyszał gorące oświadczyny innego mężczyzny, wtedy, także pierwszy raz w życiu zrodziło się w nim szczególne uczucie: mieszanina pożądania, tęsknoty i zazdrości.
 
-"Quieter! quieter!" whispered Tutmosis.
+Gdyby mógł mieć Kamę na każde zawołanie, sprzykrzyłaby się mu bardzo prędko, a może nawet nie ubiegałby się za nią. Ale śmierć stojąca na progu jej sypialni, zakochany śpiewak, a nareszcie to upakarzające stanowisko najwyższego dostojnika wobec kapłanki, wszystko to wytwarzało sytuację Ramzesowi dotychczas nie znaną, a więc ponętną.
 
-"But I am quiet always; I have a calm face at all times, so let me
+I oto dlaczego, prawie co wieczór, od dziesięciu dni przychodził do ogrodów bogini Astoreth, zasłaniając twarz wobec przechodniów.
 
-speak even here; besides, I should have the right to say, even in the
+Pewnego wieczoru, kiedy na uczcie w swoim pałacu wypił dużo wina, Ramzes wymknął się ze stanowczym zamiarem. Powiedział sobie, że dzisiaj wejdzie do mieszkania Kamy, a jej wielbiciele — niech sobie śpiewają pod oknami.
 
-supreme council, that in this Egypt, which belongs entirely to my
+Szedł prędko przez miasto, lecz w ogrodach należących do świątyni zwolnił kroku: znowu bowiem uczuł wstyd.
 
-father, I, his heir and viceroy, had to borrow a hundred talents from a
+„Czy słyszano kiedykolwiek — myślał — ażeby następca faraona biegał za kobietami jak biedny pisarz, który znikąd nie może pożyczyć dziesięciu drachm? Wszystkie przychodziły do mnie, więc i ta powinna przyjść...”
 
-petty prince of Tyre. Is this not a shame?"
+I już chciał wrócić.
 
-"But how did this come to thy mind today?" asked Tutmosis, wishing to
+„A jednak ta nie może przyjść — mówił w duchu — gdyż zabiliby ją...”
 
-put an end to the perilous conversation as quickly as possible.
+Stanął i wahał się.
 
-"How?" answered the prince; and he grew silent, to sink again into
+„Kto by ją zabił?... Hiram, który w nic nie wierzy, czy Dagon, który już sam nie wie, czym jest?... Tak, ale jest tu mnóstwo innych Fenicjan i przewijają się setki tysięcy pielgrzymów fanatycznych i dzikich. W oczach tych głupców Kama, odwiedzając mnie, popełniłaby świętokradztwo...”
 
-meditation.
+Więc znowu poszedł w stronę pałacyku kapłanki. Ani pomyślał, że jemu grozić tu może niebezpieczeństwo. Jemu, który nie wydobywając miecza, samym spojrzeniem cały świat może powalić do swych stóp. On, Ramzes, i niebezpieczeństwo!...
 
-"It would not mean so much," thought he, "if they deceived me alone; I
+Gdy książę wyszedł spośród drzew, spostrzegł, że dom kapłanki jest bardziej oświetlony i hałaśliwszy niż zwykle. Istotnie w pokojach i na tarasach było pełno gości, a i dokoła pałacyku kręcił się tłum.
 
-am only heir to the pharaoh, and not admitted to all secrets. But who
+„Co to za banda?” — pomyślał książę.
 
-will assure me that they have not acted in the same way with my worthy
+Zebranie było niecodzienne. Niedaleko stał ogromny słoń dźwigający na grzbiecie złoconą lektykę z purpurowymi firankami. Obok słonia rżało, kwiczało i w ogóle niecierpliwiło się kilkanaście koni o grubych szyjach i nogach, z przewiązanymi u dołu ogonami, z metalowymi niby hełmami na głowach.
 
-father? He has trusted them entirely during thirty and some years; he
+Między niespokojnymi, prawie dzikimi zwierzętami kręciło się kilkudziesięciu ludzi, jakich Ramzes jeszcze nie widział. Mieli oni kudłate włosy, wielkie brody, spiczaste czapki z klapami na uszach. Jedni byli odziani w długie szaty z grubego sukna, spadające do kostek, inni w krótkie surduty i spodnie, a niektórzy — w buty z cholewami. Wszystko to było uzbrojone w miecze, łuki i włócznie.
 
-has bowed down before miracles, given abundant offerings to the gods,
+Na widok tych cudzoziemców, silnych, niezgrabnych, śmiejących się ordynaryjnie, cuchnących łojem i gadających nieznanym a twardym językiem, w księciu zagotowało się. Jak lew, kiedy zobaczy obce zwierzę, choć niegłodny, zabiera się jednak do skoku, tak Ramzes, chociaż ludzie ci nic mu nie zawinili, uczuł do nich straszną nienawiść. Drażnił go ich język, ich ubiory, ich zapach, nawet ich konie. Krew uderzyła mu do głowy i sięgnął po miecz, aby wpaść na tych ludzi i wymordować ich i ich zwierzęta. Ale ocknął się.
 
-for this result, that his property and power should pass into the hands
+„Set rzucił na mnie urok?...” — pomyślał.
 
-of ambitious tricksters! And no one has opened his eyes. For the
+W tej chwili przeszedł koło niego nagi Egipcjanin w czepcu na głowie i opasce dokoła bioder. Książę czuł, że ten człowiek jest mu miły, nawet drogi w tej chwili, bo to Egipcjanin. Wydobył z worka złoty pierścionek wartości kilkunastu drachm i dał go niewolnikowi.
 
-pharaoh cannot, like me, enter Phoenician temples at night, and
+— Słuchaj — spytał — co to za ludzie?...
 
-absolutely no one has admission to his holiness.
+— Asyryjczycy — szepnął Egipcjanin i nienawiść błysnęła mu w oczach.
 
-"But who will assure me today that the priests are not striving to
+— Asyryjczycy!... — powtórzył książę. — Więc to są Asyryjczycy?... A co oni tu robią?...
 
-overthrow the throne, as Hiram said? Even my father informed me that
+— Ich pan, Sargon, zaleca się do kapłanki, do świętej Kamy, a oni go pilnują... Oby ich trąd stoczył, świńskich synów...
 
-the Phoenicians are most truthful wherever they have an interest to be
+— Możesz odejść.
 
-so. Assuredly it is their interest not to be expelled from Egypt, and
+Nagi człowiek nisko ukłonił się Ramzesowi i pobiegł zapewne do kuchni.
 
-not to fall under the power of Assyria. The Assyrians are a herd of
+„Więc to są Asyryjczycy?... — myślał książę, przypatrując się dziwacznym postaciom i wsłuchując w nienawistny, choć niezrozumiały język. — Więc Asyryjczycy już są nad Nilem, ażeby zbratać się z nami czy oszukać nas, a ich dostojnik Sargon zaleca się do Kamy?...”
 
-raging lions! Wherever they pass through a country nothing is left
+Zawrócił do domu. Jego rozmarzenie zgasło przy blasku nowej, choć dopiero budzącej się namiętności. On, człowiek szlachetny i łagodny, poczuł śmiertelną nienawiść do odwiecznych wrogów Egiptu, z którymi zetknął się po raz pierwszy.
 
-except ruins and dead bodies, as after a fire."
+Kiedy po opuszczeniu świątyni Hator i rozmowie z Hiramem począł rozmyślać o rozpoczęciu wojny z Azją, to były tylko rozmyślania. Egipt potrzebował ludzi, a faraon skarbów, a że wojna była najłatwiejszym sposobem zdobycia ich, że wreszcie dogadzała jego potrzebie sławy, więc projektował sobie wojnę.
 
-All at once Ramses raised his head; from a distance came the sound of
+Ale w tej chwili nie obchodziły go skarby, niewolnicy ani sława, bo odezwał się w nim potężniejszy nad wszystko głos nienawiści. Faraonowie tak długo walczyli z Asyryjczykami, obie strony tyle przelały krwi, walka tak głębokie zapuściła korzenie w serca, że książę na sam widok żołnierzy asyryjskich chwytał za miecz. Zdawało się, że wszystkie duchy poległych wojowników, wszystkie ich trudy i cierpienia zmartwychwstały w duszy królewskiego dziecięcia i wołały o zemstę.
 
-flutes and horns.
+Gdy książę wrócił do pałacu, wezwał Tutmozisa. Jeden z nich był przepity, drugi wściekły.
 
-"What does this mean?" inquired he of Tutmosis.
+— Czy wiesz, com teraz widział? — rzekł książę do ulubieńca.
 
-"Great news!" replied the courtier, with a smile. "The Asiatics are
+— Może który z kapłanów... — szepnął Tutmozis.
 
-welcoming a famous pilgrim from Babylon."
+— Widziałem Asyryjczyków... O bogowie!... com ja uczuł... Cóż to za podły lud... Ciała ich, od stóp do głów okręcone wełną jak dzikich zwierząt, śmierdzą starym łojem, a co to za mowa, jakie brody, włosy!...
 
-"From Baby Ion? Who is he?"
+Szybko chodził po komnacie, zadyszany, rozgorączkowany.
 
-"His name is Sargon."
+— Myślałem — mówił Ramzes — że pogardzam złodziejstwami pisarzy, obłudą nomarchów, że nienawidzę chytrych i ambitnych kapłanów... Miałem wstręt do Żydów i lękałem się Fenicjan... Ale dziś przekonywam się, że tamto były zabawki. Teraz dopiero wiem, co jest nienawiść, kiedym zobaczył i usłyszał Asyryjczyków, teraz rozumiem, dlaczego pies rozdziera kota, który mu przeszedł drogę...
 
-"Sargon?" repeated the prince. "Sargon? Ha! ha!" laughed the prince.
+— Do Żydów i Fenicjan przywykłeś, wasza dostojność, Asyryjczyków spotkałeś po raz pierwszy — wtrącił Tutmozis.
 
-"What is he?"
+— Głupstwo Fenicjanie!... — ciągnął jakby do siebie książę. — Fenicjanin, Filistyn, Saszu, Libijczyk, nawet Etiopa, to jakby członkowie naszej rodziny. Kiedy nie płacą danin, gniewamy się na nich, gdy zapłacą, zapominamy...
 
-"He must be a great dignitary at the court of King Assar. He brings
+Ale Asyryjczyk jest to coś tak obcego, tak wrogiego, że... Nie będę szczęśliwym, dopóki nie ujrzę pola zasłanego ich trupami, dopóki nie naliczę ze sto tysięcy odciętych rąk...
 
-with him ten elephants, a herd of most beautiful steeds of the desert,
-
-crowds of slaves and servants."
-
-"But why has he come?"
-
-"To bow down before the wonderful goddess Astaroth, who is honored by
-
-all Asia," answered Tutmosis.
-
-"Ha! ha! ha!" laughed the prince, recalling what Hiram had said of the
-
-coming of the Assyrian ambassador, Sargon. "Ha! ha! ha! Sargon, a
-
-relative of King Assar, has become all at once such a devotee that for
-
-whole months he goes on a difficult journey only to do honor in Pi-Bast
-
-to the goddess Astaroth. But in Nineveh he could have found greater
-
-gods and more learned priests. Ha! ha! ha!"
-
-Tutmosis looked at the prince with astonishment.
-
-"What has happened to thee, Erpatr?" asked he.
-
-"Here is a miracle not described, I think, in the chronicles of any
-
-temple. But think, Tutmosis: When Thou art most occupied with the
-
-problem of catching the thief who is always plundering thee, that same
-
-thief puts his hand again into thy casket before thy eyes, in presence
-
-of a thousand witnesses. Ha! ha! ha! Sargon, a pious pilgrim!"
-
-"I understand nothing," whispered Tutmosis, in anxiety.
-
-"And Thou hast no need to understand," replied the viceroy. "Remember
-
-only that Sargon has come hither for devotional purposes."
-
-"It seems to me that everything of which Thou art speaking," said
-
-Tutmosis, lowering his voice, "is very dangerous."
-
-"Then do not mention it to any one."
-
-"I will not; but art Thou sure that Thou thyself, prince, wilt not
-
-betray the secret? Thou art as quick as lightning."
-
-The prince placed his hand on the courtier's shoulder.
-
-"Be at rest," said he, looking him in the eyes. "If ye will only be
-
-loyal to me, ye, the nobles, and the army, ye will see wonderful
-
-things, and, as regards you, evil times will be ended."
-
-"Thou knowest that we are ready to die at thy command," said Tutmosis,
-
-placing his hand on his breast.
-
-There was such uncommon seriousness on the adjutant's face that the
-
-prince understood, moreover not for the first time, that there was
-
-concealed in that riotous exquisite a valiant man, on whose sword and
-
-understanding he could put reliance.
-
-From that time the prince had no more such strange conversations with
-
-Tutmosis. But that faithful friend and servant divined that connected
-
-with the arrival of Sargon were some great hidden interests of state
-
-which the priests alone had decided.
-
-For a certain time all the Egyptian aristocracy, nomarchs, higher
-
-officials, and leaders had been whispering among themselves very
-
-quietly, yes, very quietly, that important events were approaching. For
-
-the Phoenicians under an oath to keep the secret had told them of
-
-certain treaties with Assyria, according to which Phoenicia would be
-
-lost, and Egypt be covered with disgrace and become even tributary.
-
-Indignation among the aristocracy was immense, but no one betrayed
-
-himself; on the contrary, as well at the court of Ramses as at the
-
-courts of the nomarchs of Lower Egypt, people amused themselves
-
-perfectly. It might have been thought that with the weather had fallen
-
-on men a rage not only for amusements but for riot. There was no day
-
-without spectacles, feasts, and triumphal festivals; there was no night
-
-without illuminations and uproar. Not only in Pi-Bast but in every city
-
-it had become the fashion to run through the streets with torches,
-
-music, and, above all, with full pitchers. They broke into houses and
-
-dragged out sleeping dwellers to drinking-bouts; and since the
-
-Egyptians were inclined toward festivities every man living amused
-
-himself.
-
-During Ramses' stay in the temple of Hator the Phoenicians, seized by a
-
-panic, passed their days in prayer and refused credit to every man. But
-
-after Hiram's interview with the viceroy caution deserted the
-
-Phoenicians, and they began to make loans to Egyptian lords more
-
-liberally than at any time earlier.
-
-Such abundance of gold and goods as there was in Lower Egypt, and,
-
-above all, such small per cent the oldest men could not remember.
-
-The severe and wise priests turned attention to the madness of the
-
-upper classes; but they were mistaken in estimating the cause of it,
-
-and the holy Mentezufis, who sent a report every few days to Herhor.
-
-stated that the heir, wearied by religious practices in the temple, was
-
-amusing himself to madness, and with him the entire aristocracy.
-
-The worthy minister did not even answer these statements, which showed
-
-that he considered the rioting of the prince as quite natural and
-
-perhaps even useful.
-
-With such mental conditions around him Ramses enjoyed much freedom.
-
-Almost every evening when his attendants had drunk too much wine and
-
-had begun to lose consciousness, the prince slipped out of the palace.
-
-Hidden by the dark burnous of an officer, he hurried through the empty
-
-streets and out beyond the city to the gardens of the temple of
-
-Astaroth. There he found the bench before that small villa, and, hidden
-
-among the trees, listened to the song of Kama's worshipper, and dreamed
-
-of the priestess.
-
-The moon rose later and later, drawing near its renewal. The nights
-
-were dark, the effects of light were gone; but in spite of this Ramses
-
-continued to see that brightness of the first night, and he heard the
-
-passionate strophes of the Greek singer.
-
-More than once he rose from his bench to go directly to Kama's
-
-dwelling, but shame seized him. He felt that it did not become the heir
-
-of Egypt to show himself in the house of a priestess who was visited by
-
-any pilgrim who gave a bountiful offering to the temple. What was more
-
-striking, he feared lest the sight of Kama surrounded by pitchers and
-
-unsuccessful admirers might extinguish the wonderful picture in the
-
-moonlight.
-
-When Dagon had sent her to turn away the prince's wrath, Kama seemed
-
-attractive, but not a maiden for whom a man might lose his head
-
-straightway. But when he, a leader of armies and a viceroy, was forced
-
-for the first time in life to sit outside the house of a woman, when
-
-the night roused him to imaginings, and when he heard the adroit
-
-declarations of another, a strange feeling rose in him, a mixture of
-
-sadness, desire, and jealousy.
-
-If he could have had Kama at every call, she would have become
-
-repulsive quickly, and perhaps he would have fled from her. But Death,
-
-standing on the threshold of her bedchamber, an enamored singer, and,
-
-finally, that humiliating position of the highest dignitary before a
-
-priestess, all this created a condition which for Ramses was unknown
-
-till that time, hence enticing.
-
-And this was why he had appeared almost every evening of ten successive
-
-days in the gardens of the goddess Astaroth, shielding his face from
-
-all who passed him.
-
-Once, when he had drunk much wine at a feast in his palace, Ramses
-
-slipped out with a settled purpose.
-
-"To-night," said he to himself, "I will enter Kama's dwelling; as to
-
-her adorers let them sing at her windows."
-
-He passed through the city quickly; but in the gardens of the temple he
-
-lessened his steps, for again he was shamefaced.
-
-"Has it ever been heard," thought he, "that the heir of a pharaoh ran
-
-after women like a poor scribe who cannot borrow ten drachmas anywhere?
-
-All women come to me, so should this one."
-
-And he was ready then to turn back to his palace.
-
-"But she cannot come," said he to himself, "for they would kill her."
-
-He stopped and hesitated.
-
-"Who would kill her, Hiram, who believes in nothing, or Dagon, who
-
-knows not himself what he is? True, but there is a multitude of other
-
-Phoenicians in Egypt, and hundreds of thousands of wild and fanatical
-
-pilgrims are prowling around here. In the eyes of those idiots Kama
-
-would commit sacrilege were she to visit me."
-
-So he went toward the villa. He did not even think that danger might
-
-threaten him there, him, who without drawing his sword might by a mere
-
-look bring the whole world to his feet; he, Ramses, and danger!
-
-When the prince came out from among trees, he saw that Kama's house was
-
-more brightly lighted and more noisy than usual. In fact, the terrace
-
-and the rooms were filled with guests, and around the villa were
-
-throngs of people.
-
-"What band is this?" thought Ramses.
-
-It was an uncommon assemblage. Not far from the house was an immense
-
-elephant, bearing on his back a gilded litter with purple curtains. At
-
-the side of the elephant, neighing and squealing, and, in general,
-
-acting impatiently, were horses with large necks and legs, with tails
-
-plaited, and with something on their heads like metal helmets.
-
-Among these restless, almost wild animals, some tens of men were
-
-busied, men such as Ramses had never seen elsewhere. They had shaggy
-
-hair, great beards, pointed caps with ear-laps; some wore long robes of
-
-coarse cloth reaching to their heels; others wore short coats and
-
-skirts, and some had boots on their feet. All carried swords, bows, and
-
-darts.
-
-At sight of these foreigners, stalwart, awkward, laughing vulgarly,
-
-smelling of tallow, and speaking an unknown and harsh language, the
-
-prince was indignant. As a lion, though not hungry, prepares to spring
-
-when he sees a common animal, so Ramses, though they had offended him
-
-in no way, felt a terrible hatred toward those strangers. He was
-
-irritated by their language, their dress, the odor from their bodies,
-
-even their horses. The blood rushed to his head, and he reached for his
-
-sword to attack those men slay them and their beasts also. But soon he
-
-recovered his senses.
-
-"Set has cast a spell on me," thought Ramses.
-
-At that moment a naked Egyptian, with a cap on his head and a girdle
-
-around his waist, passed along the path slowly. The prince felt that
-
-the man was near to him, even precious at that moment, for he was an
-
-Egyptian. He took from his purse a gold ring worth from ten to twenty
-
-drachmas, and gave it to the bondman.
-
-"Listen," said he; "who are those people?"
-
-"Assyrians," whispered the Egyptian; and hatred glittered in his eyes
-
-as he answered.
-
-"Assyrians," repeated the prince. "Are those Assyrians, then? And what
-
-are they doing here?"
-
-"Their lord, Sargon, is paying court to the priestess, the sacred Kama,
-
-and they are guarding him. May leprosy devour them, the wretches, the
-
-swine sons!"
-
-"Thou mayst go."
-
-The naked man made a low obeisance and ran, surely to some kitchen.
-
-"Are those Assyrians?" thought the prince, as he looked at their
-
-strange figures and heard their hated, though un-understood language.
-
-"So already Assyrians are on the Nile, to become brothers to us, or to
-
-deceive us, and their dignitary, Sargon, is courting Kama?"
-
-He returned home. His imaginings died before the light of a passion
-
-felt then for the first time. He, a man mild and noble, felt a deadly
-
-hatred toward the ancient enemies of Egypt, whom he had never met till
-
-that evening.
-
-When leaving the temple of Hator, and after his interview with Hiram,
-
-he began to think of war with Asia; that was merely thinking that Egypt
-
-needed population, and the pharaoh needed treasure; and since war gave
-
-the easiest means to win them, and since, besides, it agreed with his
-
-need of glory, Ramses conceived the plan of warfare. But now he was
-
-concerned neither with slaves, nor treasures, nor glory, for in him was
-
-sounding at that moment a voice mightier than every other, the voice of
-
-hatred. The pharaohs had struggled so long with the Assyrians, both
-
-sides had shed so much blood, the struggle had fixed its roots in their
-
-hearts so profoundly, that the prince grasped for his sword at the very
-
-sight of Assyrian warriors. It seemed that the spirits of all the slain
-
-Egyptians, their toils and sufferings, had risen in the soul of this
-
-descendant of pharaohs and cried for retribution.
-
-When Ramses reached the palace, he summoned Tutmosis. One of them had
-
-drunk too much, the other was raging.
-
-"Dost Thou know what I have seen just now?" asked the prince of his
-
-favorite.
-
-"One of the priests, perhaps."
-
-"I have seen Assyrians. O ye gods! what I felt! What a low people!
-
-Their bodies from head to foot are covered with wool, as wild beasts
-
-are; the stench of old tallow comes from them; and what speech, what
-
-beard, what hair!"
-
-The prince walked up and down the room quickly, panting, excited.
-
-"I thought," said he, "that I despised the robberies of scribes, the
-
-deceit of nomarchs, that I hated the cunning and ambition of priests; I
-
-felt repulsion for Jews, and I feared the Phoenicians; but I convinced
-
-myself to-night that those were all amusements. I know now, for the
-
-first time, what hate is, after I have seen and heard Assyrians. I
-
-understand now-why a dog tears the cat which has crossed his path."
-
-"Thou art accustomed to Jews and Phoenicians, worthiness, Thou hast met
-
-Assyrians now for the first time," put in Tutmosis.
-
-"Stupidity! the Phoenicians!" continued the prince, as if to himself.
-
-"The Phoenicians, the Philistines, the Arabs, the Libyans, even the
-
-Ethiopians seem, as it were, members of our own family. When they fail
-
-to pay tribute, we are angry; when they pay, we forget our feeling.
-
-"But the Assyrians are something strange, something inimical, so that I
-
-shall not be happy till I can count one hundred thousand of their hands
-
-cut off by us."
-
-Never had Tutmosis seen the prince in such a state of feeling.
+Tutmozis nigdy nie widział Ramzesa w podobnym nastroju.

@@ -1,779 +1,318 @@
-# Kapitel 39: CHAPTER XXXIX
+# Kapitel 039: Tom II - Rozdział XIV
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part45.xhtml*
 
 <!-- status: pending -->
 
-THE priestess brought little happiness to the viceroy. When he came the
+Kapłanka fenicka niewiele szczęścia przyniosła Ramzesowi.
 
-first time to visit her in the villa occupied recently by Sarah, he
+Gdy pierwszy raz przyszedł odwiedzić ją w pałacyku, dotychczas zajmowanym przez Sarę, myślał, że będzie powitany z zachwytem i wdzięcznością. Tymczasem Kama przyjęła go prawie z gniewem.
 
-thought: "I shall be met with delight now and gratitude."
+— Cóż to? — zawołała — już po upływie pół dnia przywróciłeś do łask nędzną Żydówkę?...
 
-Meanwhile Kama received him almost with anger.
+— Czyliż nie mieszka w izbie czeladniej? — odparł książę.
 
-"What is this?" cried she. "A half day has passed, and that wretched
+— Ale mój rządca powiedział, że już nie będzie mi nóg myła....
 
-Jewess is restored to thy favor."
+Pan, słuchając tego, doznał uczucia niesmaku.
 
-"Does she not dwell in the servants' house?" asked the prince.
+— Nie jesteś, widzę, zadowolona — rzekł.
 
-"But my steward says that she will wash my feet no longer."
+— I nie będę nią!... — wybuchła — dopóki nie upokorzę tej Żydówki... Dopóki służąc mi i klęcząc u moich nóg nie zapomni, że kiedyś była twoją pierwszą kobietą i panią tego domu... Dopóki moja służba nie przestanie patrzeć na mnie ze strachem i nieufnością, a na nią z litością...
 
-When the prince heard this, a feeling of disgust seized him.
+Ramzesowi coraz mniej zaczęła podobać się Fenicjanka.
 
-"Thou art not satisfied, I see," said he.
+— Kamo — rzekł — rozważ, co ci powiem. Gdyby w moim domu sługa kopnął w zęby sukę, która karmi szczenięta, wygnałbym go... Ty zaś uderzyłaś nogą między oczy kobietę i matkę... A w Egipcie, Kamo, matka to wielkie słowo, bo dobry Egipcjanin trzy rzeczy najbardziej szanuje na ziemi: bogów, faraona i matkę...
 
-"I shall not be satisfied till I humiliate that Jewess," cried Kama,
+— O biada mi!... — zawołała Kama, rzucając się na łóżko. — Oto mam nagrodę, nędzna, żem zaparła się mojej bogini... Jeszcze tydzień temu składano mi kwiaty u nóg i okadzano wonnościami, a dziś...
 
-"till she, by serving me and kneeling at my feet, forgets that she was
+Książę cicho wysunął się z komnaty i odwiedził Fenicjankę dopiero po kilku dniach.
 
-once thy first woman and the mistress of this villa. I shall not be
+Lecz znowu zastał ją w złym humorze.
 
-satisfied till my servants cease to look at me with fear and without
+— Błagam cię, panie — wykrzyknęła — dbaj o mnie trochę więcej!... Bo już i służba zaczyna mnie lekceważyć, żołnierze patrzą spode łba i lękam się, ażeby w kuchni nie zatruł mi kto potraw...
 
-confidence, and on her with compassion."
+— Byłem zajęty wojskiem — odparł książę — więc nie mogłem odwiedzać cię...
 
-The Phoenician woman was less and less pleasing to Ramses.
+— To prawda!... — odparła gniewnie Kama. — Byłeś wczoraj pod moim gankiem, a następnie poszedłeś ku czeladniej izbie, gdzie mieszka ta Żydówka... Chciałeś mi pokazać...
 
-"Kama," said he, "consider what I tell thee: If a servant here were to
+— Dość! — przerwał następca. — Nie byłem ani pod gankiem, ani pod izbą. Jeżeli więc zdawało ci się, iż widziałaś mnie, to znaczy, że twój kochanek, ten nikczemny Grek, nie tylko nie opuścił Egiptu, ale nawet śmie krążyć po moim ogrodzie...
 
-kick in the teeth a female dog that was suckling its young, I should
+Fenicjanka słuchała go przerażona.
 
-hunt that servant out of this villa. Thou hast struck with thy foot
+— O Astoreth!... — krzyknęła nagle — ratuj mnie... O ziemio, ukryj mnie!... Bo jeżeli nędzny Lykon powrócił, grozi mi wielkie nieszczęście...
 
-between the eyes a woman and a mother. In Egypt mother is a great word.
+Książę roześmiał się, ale już nie miał cierpliwości słuchać biadań eks-kapłanki.
 
-A good Egyptian reverences three things beyond all others, the gods,
+— Zostań w spokoju — rzekł, wychodząc — i nie zdziw się, jeżeli w tych dniach przyprowadzę ci twego Lykona związanego jak szakal. Zuchwalec ten już wyczerpał moją cierpliwość.
 
-the pharaoh, and his own mother."
+Wróciwszy do siebie, książę wezwał natychmiast Hirama i naczelnika policji w Pi-Bast. Opowiedział im obydwom, że Lykon, Grek z twarzy podobny do niego, kręci się około pałaców, i rozkazał schwytać go. Hiram przysiągł, że gdy Fenicjanie połączą się z policją, Grek musi wpaść w ich ręce. Ale naczelnik policji począł trząść głową.
 
-"Oh, woe to me!" cried Kama, throwing herself on the couch. "Here is my
+— Wątpisz? — spytał go książę.
 
-reward, wretched woman, for denying my goddess. One week ago men placed
+— Tak, panie. W Pi-Bast mieszka wielu bardzo pobożnych Azjatów, według zdania których, kapłanka rzucająca ołtarz zasługuje na śmierć. Jeżeli więc ten Grek zobowiązał się zabić Kamę, oni będą mu pomagali, ukryją go i ułatwią mu ucieczkę.
 
-flowers at my feet and burnt incense before me, but today."
+— Cóż wy na to, książę? — spytał następca Hirama.
 
-The prince walked out of the chamber quietly, and saw the priestess
+— Dostojny naczelnik policji mądrze mówi — odparł starzec.
 
-again only after some days had passed.
+— Wszakże uwolniliście Kamę od klątwy! — zawołał Ramzes.
 
-But she was still in evil humor.
+— Za Fenicjan — odparł Hiram — ręczę, że nie tkną Kamy i będą ścigali Greka. Ale co zrobić z innymi wyznawcami Astoreth?...
 
-"I implore thee, lord," cried she, "think a little more of me. My
+— Ośmielę się mniemać — rzekł naczelnik policji — że tymczasem kobiecie tej nic nie grozi. Gdyby zaś była odważną, moglibyśmy użyć jej do zwabienia Greka i złapania go tu, w pałacach waszej dostojności.
 
-servants even begin to contemn me, the warriors look at me with a
+— Idźże więc do niej — rzekł książę — i przedstaw plan, jaki obmyśliłeś. A jeżeli schwycisz łotra, dam ci dziesięć talentów...
 
-frown, and I am afraid that some one in the kitchen may poison the food
+Gdy następca pożegnał ich, Hiram odezwał się do naczelnika:
 
-prepared for me."
+— Dostojniku, wiem, że znasz oba pisma i nieobcą ci jest kapłańska mądrość. Gdy chcesz, słyszysz przez mury i widzisz w ciemnościach. Z tego powodu znasz myśli zarówno chłopa pracującego kubłem, rzemieślnika, który na targ przynosi sandały, i wielkiego pana, który w otoczeniu swoich sług czuje się bezpiecznym jak dziecko w łonie matki...
 
-"I was occupied with the army, so I could not visit thee," replied the
+— Prawdę mówisz, wasza cześć — odparł urzędnik — że bogowie udzielili mi cudnego daru jasnowidzenia.
 
-viceroy.
+— Otóż to — ciągnął Hiram — dzięki nadprzyrodzonym zaletom swoim odgadłeś już zapewne, że świątynia Astoreth wyznaczy ci dwadzieścia talentów, jeżeli złapiesz tego nędznika, który ośmiela się przybierać postawę księcia, pana naszego. Nadto zaś w każdym razie, świątynia ofiaruje ci dziesięć talentów, jeżeli wieść o podobieństwie nędznego Lykona do następcy nie rozgłosi się po Egipcie. Rzecz to bowiem gorsząca i nieprzystojna, ażeby zwykły śmiertelnik przypominał obliczem swoim osoby, które od bogów pochodzą.
 
-"That is untrue," answered Kama, in anger. "Yesterday Thou wert outside
+Niech więc to, co słyszysz o nędznym Lykonie, i cała nasza gonitwa za bezbożnikiem nie wyjdzie poza serca nasze.
 
-the entrance to this house, and then Thou didst go to the servants'
+— Rozumiem — odparł urzędnik. — Może się bowiem trafić, że taki zbrodniarz straci życie, zanim oddamy go sądowi...
 
-house, where dwells the Jewess. Thou didst this to show."
+— Powiedziałeś — rzekł Hiram, ściskając go za rękę. — Wszelka zaś pomoc, jakiej zażądasz od Fenicjan, będzie ci udzielona.
 
-"Enough!" interrupted the prince. "I was neither here nor at the
+Rozstali się jak dwaj przyjaciele polujący na grubego zwierza, którzy wiedzą, że nie o to chodzi: czyj oszczep trafi, lecz ażeby zdobycz była dobrze trafiona i nie wpadła w cudze ręce.
 
-servants' house. If it seemed to thee that Thou wert looking at me,
+Po kilku dniach Ramzes znowu odwiedził Kamę, lecz znalazł ją w stanie, który graniczył z obłędem. Kryła się w najciaśniejszej izbie swego pałacu, głodna, nieczesana, nawet niemyta, i wydawała najsprzeczniejsze rozkazy swojej służbie. Raz kazała się zgromadzać wszystkim, drugi raz wypędzała wszystkich od siebie. W nocy wołała do siebie wartę żołnierską, a po chwili uciekła od żołnierzy na strych krzycząc, że ją chcą zabić.
 
-that means that thy lover, that worthless Greek, not only has not left
+Wobec takich postępków z duszy księcia zniknęła miłość, a zostało tylko uczucie wielkiego kłopotu. Schwycił się za głowę, gdy rządca pałacu i oficer opowiedzieli mu o tych dziwach, i szepnął:
 
-Egypt, but even dares to wander through my garden."
+— Zaprawdę, źle uczyniłem, odbierając tę kobietę jej bogini. Gdyż tylko bogini mogła cierpliwie znosić jej kaprysy!...
 
-The Phoenician woman heard him with fright.
+Mimo to poszedł do Kamy i znalazł ją mizerną, potarganą i drżącą.
 
-"Astaroth!" cried she, suddenly. "Save me! Hide me, O earth! for if
+— Biada mi!... — zawołała. — Żyję między samymi wrogami. Moja szatna chce mnie otruć, a fryzjerka nabawić jakiej ciężkiej choroby... Żołnierze tylko czekają okazji, ażeby w mej piersi utopić włócznie i miecze, a w kuchni, jestem pewna, że zamiast potraw gotują się czarodziejskie zioła... Wszyscy dybią na moje życie...
 
-that wretch Lykon returns mighty misfortune is threatening me."
+— Kamo... — przerwał książę.
 
-The prince laughed, but he had not patience to listen to the complaints
+— Nie nazywaj mnie tak!... — szepnęła przerażona — bo mi to nieszczęście przyniesie...
 
-of the ex-priestess.
+— Ale skąd ci te myśli przychodzą do głowy?...
 
-"Be at rest," said he, when going, "and wonder not if after some days
+— Skąd!... Czy sądzisz, że w dzień nie widuję obcych ludzi, którzy ukazują się pod pałacem i znikają, nim zdołam zawołać na służbę?... A w nocy czy nie słyszę szeptów za ścianą?...
 
-men bring in thy Lykon bound like a jackal. That insolent ruffian has
+— Zdaje ci się.
 
-worn out my patience."
+— Przeklęci!... przeklęci!... — zawołała z płaczem. — Wszyscy mówicie, że mi się zdaje... A przecież onegdaj jakaś zbrodnicza ręka podrzuciła mi do sypialni welon, który nosiłam pół dnia, zanim poznałam, że to nie mój... żem nigdy nie miała takiego...
 
-On returning to his palace the prince summoned Hiram and the chief of
+— Gdzież ten welon? — spytał już zaniepokojony książę.
 
-police in Pi-Bast. He told them that Lykon, the Greek with a face
+— Spaliłam go, alem go pierwej pokazała moim służebnicom.
 
-resembling his, was prowling around among the palaces, and he gave
+— Więc choćby był nie twój, cóż ci się stało?
 
-command to seize him. Hiram swore that if Phoenicians helped the police
+— Jeszcze nic. Ale gdybym tą szmatę przez parę dni potrzymała w domu, z pewnością otrułabym się albo zapadłabym w nieleczącą się chorobę... Znam Azjatów i ich sposoby!...
 
-the Greek would be taken. But the chief shook his head.
+Znudzony i zirytowany książę opuścił ją czym prędzej pomimo błagań, aby został. Gdy jednak spytał służbę o ów welon, szatna przyznała, że to nie był welon Kamy, ale został podrzucony przez kogoś.
 
-"Dost doubt?" asked the prince.
+Następca kazał podwoić warty w pałacu i dokoła pałacu i zdesperowany wracał do swego mieszkania.
 
-"Yes, lord. In Pi-Bast dwell many pious Asiatics who think the
+„Nigdy bym nie uwierzył — myślał — że jedna słaba kobieta może narobić tyle zamętu!... Cztery świeżo złapane hieny nie dorównają w niespokojności tej Fenicjance!...”
 
-priestess worthy of death because she deserted the altar. If this Greek
+U siebie znalazł książę Tutmozisa, który właśnie przyjechał z Memfis i ledwie miał czas wykąpać się i przebrać po podróży.
 
-has bound himself to kill Kama, they will help him, they will conceal
+— Co mi powiesz? — spytał książę ulubieńca, odgadując, że nie przywiózł dobrych nowin. — Widziałeś jego świątobliwość?
 
-the man, and facilitate flight for him."
+— Widziałem słonecznego boga Egiptu — odparł Tutmozis — a oto, co mi rzekł...
 
-"What is thy answer to this?" asked the heir of Hiram.
+— Mów — wtrącił następca.
 
-"The worthy master of the palace speaks wisely," replied the old
+— Tak mówił pan nasz — ciągnął Tutmozis, złożywszy ręce na piersiach i schyliwszy głowę. — Tak mówi pan. Przez trzydzieści cztery lata prowadziłem ciężki wóz Egiptu i tak jestem zmęczony, że już tęsknię do moich wielkich przodków, którzy zamieszkują kraj zachodni. Niebawem opuszczę tą ziemię, a wówczas syn mój, Ramzes, zasiądzie na tronie i czynić będzie z państwem to, co mu podyktuje mądrość...
 
-Phoenician.
+— Tak powiedział mój świątobliwy ojciec?
 
-"But ye have freed Kama from the curse."
+— To są jego słowa wiernie powtórzone — odparł Tutmozis. — Po kilka razy wyraźnie mówił mi pan, że nie zostawia ci żadnych rozkazów na przyszłość, abyś mógł rządzić Egiptem, jak sam zechcesz...
 
-"I guarantee that Phoenicians will not touch Kama, and will pursue the
+— O święty!... Czyliż jego niemoc jest naprawdę tak ciężką?... Dlaczego nie pozwala mi przyjechać do siebie?... — pytał rozżalony książę.
 
-Greek. But what is to be done with the other adherents of Astaroth?"
+— Musisz być tu, bo tu możesz się przydać.
 
-"I make bold to think," said the chief, "that nothing threatens this
+— A traktat z Asyrią?... — zapytał następca.
 
-woman at present. If she had courage, we might employ her to decoy the
+— Jest zawarty w tym sensie, że Asyria może bez przeszkód z naszej strony prowadzić wojnę na wschodzie i północy. Ale sprawa Fenicji została w zawieszeniu, dopóki ty nie wstąpisz na tron...
 
-Greek, and seize him here in thy palaces, O Erpatr."
+— O błogosławiony!... o święty władco!... — wołał książę. — Od jak strasznej uchroniłeś mnie spuścizny...
 
-"Then go to her," said the prince, "and lay before her whatever plan
+— Fenicja więc zostaje w zawieszeniu — prawił Tutmozis. — Lecz obok tego stała się niedobra rzecz, bo jego świątobliwość, aby dać dowód Asyrii, że nie będzie jej przeszkadzać w wojnie z ludami północnymi, rozkazał zmniejszyć naszą armię o dwadzieścia tysięcy wojsk najemnych...
 
-Thou mayst think out. And if Thou seize the man, I will give thee ten
+— Co powiedziałeś?... — wykrzyknął zdumiony następca.
 
-talents."
+Tutmozis chwiał głową na znak smutku.
 
-When the heir left them, Hiram said to the chief,
+— Prawdę mówię — rzekł — i już nawet rozpuszczono cztery libijskie pułki...
 
-"Dignitary, I am aware that Thou knowest both kinds of writing, and
+— Ależ to szaleństwo!... — prawie zawył następca, łamiąc ręce. — Po co my się tak osłabiamy i gdzie pójdą ci ludzie?...
 
-that the wisdom of priests is not strange to thee. When Thou hast the
+— Otóż to, że już poszli na pustynię Libijską i albo napadną Libijczyków, co nam narobi kłopotu, albo połączą się z nimi i razem uderzą na nasze zachodnie granice...
 
-wish, Thou art able to hear through walls and see things in darkness.
+— Nic o tym nie słyszałem!... Co oni porobili?... i kiedy to zrobili?... Żadna wieść do nas nie doszła... — wołał książę.
 
-For this reason Thou knowest the thoughts of the man who works with a
+— Bo rozpuszczeni najemnicy poszli w pustynią od Memfisu, a Herhor zabronił mówić o tym komukolwiek...
 
-bucket, the laborer, the artisan who takes sandals to market, the great
+— Więc nawet Mefres i Mentezufis nie wiedzą o tym?... — spytał namiestnik.
 
-lord who in the escort of his servants feels as safe as a child on the
+— Oni wiedzą — odparł Tutmozis.
 
-bosom of its mother."
+— Oni wiedzą, a ja nic!...
 
-"Thou speakest truth," replied the official. "The gods have given me a
+Książę nagle uspokoił się, ale pobladł, a na jego młodym obliczu odmalowała się straszna nienawiść. Schwycił za obie ręce swego powiernika i mocno ściskając je, szeptał:
 
-wonderful gift of clear insight."
+— Słuchaj... Na święte głowy mego ojca i matki... na pamięć Ramzesa Wielkiego... na wszystkich bogów, jeżeli jacy są, przysięgam, że gdy — za moich rządów — kapłani nie ugną się przed moją wolą, zgniotę ich...
 
-"That is it; thanks to thy gifts, Thou hast guessed beyond doubt that
+Tutmozis słuchał przerażony.
 
-the temple of Astaroth will appoint to thee twenty talents if Thou
+— Ja albo oni!... — zakończył książę. — Egipt nie może mieć dwu panów...
 
-seize that wretch who dares assume the appearance of the prince, our
+— I zwykle miewał tylko jednego: faraona — wtrącił powiernik.
 
-viceroy. Besides, in every case, the temple offers thee ten talents if
+— Zatem będziesz mi wierny?...
 
-news of the likeness of the wretched Lykon to the heir is not reported
+— Ja, cała szlachta i wojsko, przysięgam ci!...
 
-throughout Egypt; for it is offensive and improper that an ordinary
+— Dosyć — zakończył następca. — Niechże sobie teraz uwalniają najemne pułki... niech podpisują traktaty... niech kryją się przede mną jak niedoperze i niech oszukują nas wszystkich... Ale przyjdzie czas...
 
-mortal should recall by his features a personage descended from
+A teraz, Tutmozisie, odpocznij po podróży i bądź u mnie na uczcie dziś wieczór... Ci ludzie tak mnie spętali, że mogę tylko bawić się... Więc będę się bawił... Ale kiedyś pokażę im, kto jest władcą Egiptu: oni czy ja...
 
-divinity."
+Od tego dnia znowu zaczęły się uczty. Książę, jakby wstydząc się wojska, nie odbywał z nim ćwiczeń. Natomiast pałac jego roił się szlachtą, oficerami, sztukmistrzami i śpiewaczkami, a po nocach odbywały się wielkie orgie, wśród których dźwięki arf mieszały się z wrzaskami pijanych biesiadników i spazmatycznym śmiechem kobiet.
 
-"Therefore let not that which Thou hearest of the wretched Lykon go
+Na jedną z tych uczt Ramzes zaprosił Kamę, ale odmówiła. Książę obraził się na nią, co spostrzegłszy, Tutmozis rzekł:
 
-beyond our own hearts, nor any word touching our chase after that
+— Mówiono mi, panie, że Sara straciła twoje łaski?
 
-godless outcast."
+— Nie wspominaj mi o tej Żydówce — odparł następca. — Wszak chyba wiesz, co zrobiła z moim synem?
 
-"I understand," replied the official. "It may even happen that such a
+— Wiem — mówił ulubieniec — ale zdaje mi się, że stało się to nie z jej winy. Słyszałem w Memfis, że czcigodna matka twoja, pani Nikotris, i dostojny minister Herhor uczynili syna twego Żydem w tym celu, aby kiedyś panował nad Izraelitami...
 
-criminal may lose his life before we can give him to the court."
+— Ależ Izraelici nie mają króla, tylko kapłanów i sędziów!... — przerwał książę.
 
-"Thou hast said it," replied Hiram, pressing his hand; "and every help
+— Nie mają, lecz chcą mieć. Im także obmierzły rządy kapłańskie.
 
-asked by thee of Phoenicians will be furnished."
+Następca pogardliwie machnął ręką.
 
-They parted like two friends who were hunting a wild beast, and knew
+— Woźnica jego świątobliwości — odparł — znaczy więcej niźli wszyscy królowie, a tym bardziej jakiś tam król izraelski, którego jeszcze nie ma...
 
-that the problem was not that their spear should strike, but that the
+— W każdym razie wina Sary nie jest tak wielką — wtrącił Tutmozis.
 
-beast should drop in its tracks and not go into other hands.
+— Toteż wiedz, że kiedyś zapłacę i kapłanom.
 
-After some days Ramses visited Kama again, but found her in a state
+— W tym wypadku i oni nie są zbyt winni. Na przykład dostojny Herhor uczynił tak, pragnąc zwiększyć sławę i potęgę twojej dynastii. Zresztą działał z wiedzą pani Nikotris...
 
-touching on insanity. She hid herself in the darkest room of the villa;
+— A Mefres po co miesza się do moich spraw?... — spytał książę. — Przecie on chyba powinien pilnować tylko świątyni, a nie wpływać na losy faraonowego potomstwa...
 
-she was hungry, her hair was not dressed, she was even unwashed. She
+— Mefres jest starcem, który już zaczyna dziwaczeć. Cały dwór jego świątobliwości drwi dziś z Mefresa z powodu jego praktyk, o których ja sam nic nie wiedziałem, choć prawie co dzień widywałem i widuję świętego męża...
 
-gave the most contradictory commands to her servants; at one time she
+— A to ciekawe... Cóż on robi?...
 
-ordered all to come to her, at another she sent all away. In the night
+— Po kilka razy na dobę — odparł Tutmozis — odprawia solenne nabożeństwa w najtajemniejszej części świątyni i nakazuje swoim kapłanom, aby uważali: czy bogowie nie podnoszą go w powietrze podczas modlitwy?...
 
-she summoned the guard of warriors, and fled to the highest chamber
+— Cha!... cha!... cha!... — zaśmiał się następca — I to wszystko dzieje się tu, w Pi-Bast, pod naszym okiem, a ja nic nie wiem...
 
-soon after, crying out that they wished to kill her.
+— Tajemnica kapłańska...
 
-In view of these actions all desire vanished from the prince's soul,
+— Tajemnica, o której mówią wszyscy w Memfisie!... Cha... cha... cha!... W cyrku widziałem chaldejskiego kuglarza, który unosił się w powietrzu...
 
-and there remained simply a feeling of great trouble. He seized his
+— I ja widziałem — wtrącił Tutmozis — ale to była sztuka. Tymczasem Mefres chce naprawdę wznieść się nad ziemię na skrzydłach swej pobożności...
 
-head when the steward of the palace and the officer told him of these
+— Niesłychane błazeństwo!... — mówił książę. — Cóż na to inni kapłani?
 
-wonders, and he whispered:
+— Podobno w świętych papirusach są wzmianki, że dawnymi czasy bywali u nas prorocy posiadający dar wznoszenia się w powietrze, więc kapłanów nie dziwią chęci Mefresa. A że, jak ci wiadomo, u nas podwładni widzą to, co podoba się zwierzchnikom, więc niektórzy święci mężowie twierdzą, że Mefres naprawdę podnosi się w czasie modlitwy na grubość paru palców nad ziemię...
 
-"Indeed, I did badly in taking that woman from her goddess; for the
+— Cha!... cha!... cha!... I tą wielką tajemnicą bawi się cały dwór, a my tu jak chłopi albo kopacze nawet nie domyślamy się cudów sprawianych pod naszym bokiem... Nędzna dola następcy egipskiego tronu! — śmiał się książę.
 
-goddess alone could endure her caprices with patience."
+Gdy się zaś uspokoił, na powtórną prośbę Tutmozisa rozkazał przenieść Sarę z dzieckiem z izby czeladniej do pałacyku, który w pierwszych dniach zajmowała Kama.
 
-He went, however, to Kama, and found her emaciated, broken, and
+Służba następcy była zachwycona tym rozporządzeniem pana, a wszystkie służebne, niewolnicy i nawet pisarze odprowadzili Sarę do nowej siedziby z muzyką i okrzykami radości.
 
-trembling.
+Fenicjanka, usłyszawszy hałas, spytała o przyczynę. A gdy jej odpowiedziano, że Sara wróciła już do łask następcy i że z domu niewolnic znowu przeniosła się do pałacu, rozwścieczona eks-kapłanka wezwała do siebie Ramzesa.
 
-"Woe to me!" cried she. "There are none around me but enemies. My
+Książę przyszedł.
 
-tirewoman wishes to poison me; my hairdresser to give me some dreadful
+— Więc tak poczynasz sobie ze mną?... — wrzasnęła nie panująca nad sobą Kama. — Więc to tak?... Obiecałeś mi, że będę pierwszą twoją kobietą, lecz zanim księżyc obiegł połowę nieba, złamałeś przyrzeczenie?... Może myślisz, że zemsta Astoreth pada tylko na kapłanki, a nie dosięga książąt?...
 
-disease. The warriors are waiting an opportunity to bury swords and
+— Powiedz twojej Astoreth — odparł spokojnie następca — aby nigdy nie groziła książętom, bo i ona pójdzie do izby czeladniej.
 
-spears in my bosom; I am sure that instead of food, they prepare for me
+— Rozumiem — wołała Kama. — Ja pójdę do czeladzi, może nawet do więzienia, a ty przez ten czas będziesz spędzał noce u swojej Żydówki!... Za to, żem dla ciebie wyparła się bogów... ściągnęła na moją głowę przekleństwo... Za to, że nie mam godziny spokojnej, że zmarnowałam dla ciebie młodość, życie, nawet duszę, ty tak mi płacisz...
 
-magic herbs in the kitchen. All are rising up to destroy me."
+Książę przyznał w sercu, że istotnie Kama wiele poświęciła dla niego, i uczuł skruchę.
 
-"Kama!" interrupted the prince.
+— Nie byłem i nie będę u Sary — odparł. — Ale co tobie szkodzi, że nieszczęśliwa kobieta odzyska wygody i będzie mogła wykarmić swoje dziecko?
 
-"Call me not by that name!" whispered she; "it will bring me
+Fenicjanka zatrzęsła się. Podniosła w górę zaciśnięte pięści, włosy jej najeżyły się, a w oczach zapłonął brudny ogień nienawiści.
 
-misfortune."
+— Także mi odpowiadasz?... Żydówka jest nieszczęśliwą, boś ją wygnał z pałacu; a ja muszę być zadowolona, chociaż bogowie wygnali mnie ze wszystkich swoich świątyń... A dusza moja... dusza kapłanki tonącej we łzach i obawie czyliż nie znaczy więcej u ciebie aniżeli ten żydowski pomiot, to dziecko, które... oby już nie żyło... oby go...
 
-"But how do these ideas come to thee?"
+— Milcz!... — krzyknął książę, zamykając jej usta.
 
-"How? Dost Thou think that in the daytime I do not see strange people
+Cofnęła się wylękniona.
 
-who appear at the palace and vanish before I can call in my servants?
+— Więc nie wolno nawet skarżyć się na moją nędzę?... — spytała. — Lecz jeżeli aż tak dbasz o to dziecko, po cóż wykradłeś mnie ze świątyni, dlaczego obiecywałeś, że będę u ciebie pierwszą kobietą?...
 
-And in the night do I not hear people outside the wall whispering?"
+Strzeż się — znowu podniosła głos — ażeby Egipt, poznawszy moją dolę, nie nazwał cię wiarołomcą!...
 
-"It seems so to thee."
+Książę kręcił głową i uśmiechał się. Wreszcie usiadł i rzekł:
 
-"Cursed! Cursed!" cried Kama, weeping. "Ye all say that it seems to me.
+— Zaiste, mój nauczyciel miał słuszność, ostrzegając mnie przed kobietami. Jesteście jak dojrzała brzoskwinia w oczach człowieka, któremu język wysuszyło pragnienie... Lecz tylko na pozór... Bo biada głupcowi, który ośmieli się rozgryźć ten piękny owoc: zamiast chłodzącej słodyczy, znajdzie gniazdo os, które poranią mu nie tylko wargi, ale i serce.
 
-But the day before yesterday some criminal hand threw into my
+— Już narzekasz?... Nawet tego nie oszczędzasz mi wstydu?... Za to, żem ci poświęciła godność kapłanki i cnotę!...
 
-bedchamber a veil, which I wore half a day before I saw that it was not
+Następca ciągle trząsł głową i uśmiechał się.
 
-mine and that I had never worn a veil like it."
+— Nigdy bym nie myślał — rzekł po chwili — ażeby sprawdziła się bajka opowiadana przez chłopów zabierających się do snu. Ale dziś widzę, że tak jest. Posłuchaj więc, Kamo, a może zastanowisz się i nie zmusisz mnie do cofnięcia życzliwości, jaką mam dla ciebie...
 
-"Where is that veil?" inquired the prince, now alarmed.
+— Jemu się chce teraz bajki opowiadać!... — odparła z goryczą kapłanka. — Jużeś mi jedną mówił i dobrzem wyszła, usłuchawszy jej...
 
-"I burned it, but I showed it first to my servants."
+— Ta z pewnością wyjdzie ci na pożytek, byleś ją chciała zrozumieć.
 
-"If not thine even, what harm could come of it?"
+— Będzie w niej co o żydowskich bachorach?...
 
-"Nothing yet. But had I kept that rag in the house two days longer, I
+— I o kapłankach, tylko uważnie posłuchaj:
 
-should have been poisoned, or caught some incurable disorder. I know
+Działo się to już dawno, w tym samym mieście Pi-Bast. Pewnego dnia książę Satni na placu przed świątynią Ptah zobaczył bardzo piękną kobietę. Była ona piękniejszą od wszystkich, jakie dotychczas spotykał, a co więcej miała na sobie dużo złota.
 
-Asiatics and their methods."
+Księciu ogromnie podobała się ta osoba. Dowiedział się, co ona za jedna, a gdy mu powiedziano, że jest to córka arcykapłana w Pi-Bast, posłał do niej swego koniuszego z taką ofiarą:
 
-Wearied and irritated, the prince left her at the earliest, in spite of
+„Dam ci dziesięć złotych pierścieni, jeżeli przepędzisz ze mną godzinkę.”
 
-entreaties to stay. When he asked the servants about that veil, the
+Koniuszy poszedł do pięknej Tbubui i powtórzył jej słowa księcia Satni. Dama, wysłuchawszy go życzliwie, odpowiedziała, jak przystoi dobrze wychowanej panience:
 
-tirewoman declared that it was not one of Kama's; some person had
+„Jestem córką arcykapłana, jestem niewinna, a nie żadna podła dziewczyna. Jeżeli więc książę chce mieć przyjemność zapoznania się ze mną, niech przyjdzie do mego domu, gdzie wszystko będzie przygotowane, i nasza znajomość nie narazi mnie na plotki kumoszek z całej ulicy.”
 
-thrown it into the chamber.
+Poszedł tedy książę Satni za panną Tbubui na górne piętro do jej pokojów, których ściany były wyłożone lapisem lazuli tudzież bladozielonawą emalią. Było tam wiele łóżek pokrytych królewskim płótnem i niemało jednonożnych stolików zastawionych złotymi pucharami. Jeden z pucharów napełniono winem i podano go księciu, a Tbubui rzekła: „Bądź łaskaw, napij się.” Na co książę odparł: „Wiesz przecie, że nie przyszedłem na wino.” Niemniej jednak zasiedli do uczty, podczas której Tbubui miała na sobie długą, nieprzezroczystą szatę, zapiętą pod szyję. Gdy zaś odurzony książę chciał ją pocałować, odsunęła go i odparła:
 
-The prince commanded to double the watch at the villa and around it,
+„Dom ten będzie twoim domem. Pamiętaj jednak, że nie jestem ulicznicą, lecz kobietą niewinną. Jeżeli więc chcesz, ażebym była ci posłuszną, zaprzysięgnij mi wierność i zapisz twój majątek.”
 
-and returned in desperation to his dwelling.
+„Więc niech przyjdzie tu pisarz” — zawołał książę. A gdy go przyprowadzono, Satni kazał spisać akt ślubny tudzież akt darowizny, którym wszystkie swoje pieniądze, ruchomości i dobra ziemskie przepisał na imię Tbubui.
 
-"Never should I have believed," said he, "that a single weak woman
+W godzinę później służba zawiadomiła księcia, że na dole czekają jego dzieci. Tbubui wówczas opuściła go, lecz wnet wróciła ubrana w suknią z przezroczystej gazy. Satni znowu chciał ją uścisnąć, ale odsunęła go, mówiąc:
 
-could bring so much trouble. Four freshly caught hyenas are not so
+„Dom ten będzie twoim. Lecz ponieważ nie jestem ladacznicą, tylko dziewczyną niewinną, jeżeli więc chcesz mnie posiadać, to niech twoje dzieci zrobią akt zrzeczenia się majątku, aby później nie procesowały się z moimi dziećmi.”
 
-restless as that Kama!"
+Satni zawołał dzieci na górę i kazał im podpisać akt zrzeczenia się majątku, co uczyniły. Lecz gdy odurzony długim oporem chciał zbliżyć się do Tbubui, ta go znowu zatrzymała...
 
-At his palace the prince found Tutmosis, who had just returned from
+„Dom ten będzie twoim — rzekła. — Ale ja nie jestem pierwszą lepszą; jestem czystą dziewicą. Jeżeli więc kochasz mnie, każ pozabijać twoje dzieci, ażeby kiedyś nie wydarły majątku moim...”
 
-Memphis and had barely taken time to bathe and dress after the journey.
+— Jakaż to długa historia!... — przerwała niecierpliwie Kama.
 
-"What hast Thou to say?" inquired the prince of his favorite, divining
+— Zaraz się skończy — odparł następca. — I wiesz, Kamo, co odpowiedział Satni:
 
-that he had not brought pleasant tidings. "Hast Thou seen his
+„Jeżeli pragniesz tego, więc... niech się spełni zbrodnia!...”
 
-holiness?"
+Tbubui nie trzeba było dwa razy powtarzać. W oczach ojca kazała pomordować dzieci, a okrwawione ich członki wyrzuciła przez okno psom i kotom. No i dopiero wtedy Satni wszedł do jej pokoju i spoczął na jej hebanowym łożu, wykładanym kością słoniową.
 
-"I saw the sun-god of Egypt, and this is what he said to me."
+— Tbubui dobrze robiła, nie wierząc zapewnieniom mężczyzn — rzekła zirytowana Fenicjanka.
 
-"Speak," hurried Ramses.
+— Ale Satni — odparł następca — zrobił jeszcze lepiej: obudził się... gdyż jego straszna zbrodnia była tylko snem...
 
-"Thus spoke our lord," answered Tutmosis, crossing his arms on his
+I ty, Kamo, zapamiętaj sobie, że najpewniejszym sposobem obudzenia mężczyzny z miłosnych upojeń jest — miotać klątwy na jego syna...
 
-breast: "For four and thirty years have I directed the weighty car of
+— Bądź spokojny, panie, już ci nigdy nie wspomnę ani o mojej niedoli, ani o twoim synu — posępnie odpowiedziała Fenicjanka.
 
-Egypt, and I am so wearied that I yearn to join my mighty forefathers
-
-who dwell now in the western kingdom. Soon I shall leave this earth,
-
-and then my son, Ramses, will sit on the throne, and do with the state
-
-what wisdom points out to him."
-
-"Did my holy father speak thus?"
-
-"Those are his words repeated faithfully. A number of times the lord
-
-spoke explicitly, saying that he would leave no command to thee, so
-
-that Thou mightst govern Egypt as thy wishes indicate."
-
-"Ob, holy one! Is his illness really serious? Why did he not summon
-
-me?" asked the prince, in sorrow.
-
-"Thou must be here, for Thou mayst be of service in this part of
-
-Egypt."
-
-"But the treaty with Assyria?"
-
-"It is concluded in this sense, that Assyria may wage war on the east
-
-and north without hindrance from Egypt. But the question of Phoenicia
-
-remains in abeyance till Thou art the pharaoh."
-
-"O blessed! O holy ruler! From what a dreadful heritage Thou hast saved
-
-me."
-
-"So Phoenicia remains in abeyance," continued Tutmosis. "But still
-
-there is one bad thing. His holiness, to show Assyria that he will not
-
-hinder her in the war against northern peoples, has commanded to
-
-decrease our army by twenty thousand mercenaries."
-
-"What dost Thou tell me!" cried the heir, astounded.
-
-Tutmosis shook his head in sign of sorrow.
-
-"I speak the truth, and four Libyan regiments are now disbanded."
-
-"But this is madness!" almost howled the heir, wringing his hands. "Why
-
-have we so weakened ourselves, and whither will those disbanded men
-
-go?"
-
-"They have gone to the Libyan desert already, and will either attack
-
-the Libyans, which will cause us trouble, or will join them and both
-
-will attack then our western border."
-
-"I have heard nothing of this! What did they do, and when did they do
-
-it? No news reached us!" cried Ramses.
-
-"The disbanded troops went to the desert from Memphis, and Herhor
-
-forbade to mention this news to any person."
-
-"Do neither Mefres nor Mentezufis know of this matter?"
-
-"They know."
-
-"They know, and I do not."
-
-The prince grew calm on a sudden, but he was pale, and on his young
-
-face was depicted terrible hatred. He seized both hands of his
-
-favorite, pressed them firmly, and whispered,
-
-"Hear me! By the sacred heads of my father and mother, by the memory of
-
-Ramses the Great by all the gods, if there are any, I swear that during
-
-my rule if the priests will not bow down before me I will crush them."
-
-Tutmosis listened in alarm.
-
-"I or they!" finished the prince. "Egypt cannot have two lords."
-
-"Formerly it had only one, the pharaoh," added Tutmosis.
-
-"Then Thou wilt be loyal to me?"
-
-"I, all the nobles, and the army, I swear to thee."
-
-"Enough!" concluded Ramses. "Let them discharge the mercenary
-
-regiments, let them sign treaties, let them hide before me like bats,
-
-and let them deceive us all. But the time will come And now, Tutmosis,
-
-rest after the journey; be with me at the feast this evening. Those
-
-people have so bound me that I can only amuse myself. Then let me amuse
-
-myself. But in time I will show them who the ruler of Egypt is, they or
-
-I."
-
-From that day feasts began again. The prince, as if ashamed to meet the
-
-army, was not present at drills. Still, his palace was swarming with
-
-nobles, officers, jugglers, and singers, while at night great orgies
-
-took place, at which the sound of harps mingled with the drunken shouts
-
-of guests and the spasmodic laughter of women.
-
-Ramses invited Kama to one of these feasts, but she refused.
-
-The prince was offended. Seeing this, Tutmosis said,
-
-"They have told me, lord, that Sarah has lost thy favor."
-
-"Do not mention that Jewess to me," replied Ramses. "But dost Thou know
-
-what she did with my son?"
-
-"I know; but that, it seems to me, was not her fault. I heard in
-
-Memphis that thy worthy mother and the worthy minister Herhor made thy
-
-son a Jew, so that he might rule over Israelites sometime."
-
-"But the Israelites have no king, only priests and judges," interrupted
-
-the prince.
-
-"They have not, but they wish to have. They, too, are disgusted with
-
-priestly rule."
-
-The heir waved his hand contemptuously.
-
-"A charioteer of his holiness means more than any king, especially any
-
-king of the Israelites, who as yet have no kingdom."
-
-"In every case, Sarah's fault is not so great," put in Tutmosis.
-
-"Then know that I will pay the priests sometime."
-
-"They are not to blame so greatly. For instance, the worthy Herhor did
-
-this to increase the glory and power of thy dynasty. And he did it with
-
-the knowledge of thy mother."
-
-"But why does Mefres interfere? His single duty is to care for the
-
-temple, not influence the fate of the pharaoh's descendants."
-
-"Mefres is an old man growing whimsical. The whole court of his
-
-holiness jeers at him because of practices, of which I know nothing,
-
-though I see the holy man almost daily."
-
-"This is curious. What does he do?"
-
-"A number of times during twenty-four hours he performs solemn services
-
-in the most secret parts of the temple, and he commands the priests to
-
-see if the gods do not hold him suspended while praying."
-
-"Ha! ha!" laughed Ramses. "And all this is going on in Pi-Bast here
-
-under our eyes, and I do not know of it?"
-
-"A priestly secret."
-
-"A secret of which all in Memphis are talking! Ha! ha! ha! In the
-
-amphitheatre I saw a Chaldean suspended in the air."
-
-"I saw him too; but that was a trick, while Mefres wishes to be borne
-
-above the earth really on the wings of his devotion."
-
-"Unheard-of buffoonery! What do the other priests say to this?"
-
-"Perhaps in our sacred papyruses there is mention that in old times
-
-there were prophets among us who had the gift of suspending themselves
-
-in the air; so the desires of Mefres do not astonish priests nowadays.
-
-And since, as is known to thee, subordinates among us see whatever
-
-pleases superiors, some holy men claim that during prayer Mefres really
-
-rises a couple of fingers high above the pavement."
-
-"Ha! ha! ha! And with this great secret the whole court is occupied,
-
-and we, like laborers or earth-diggers, do not even suspect that
-
-miracles are wrought at one side of us. A wretched fate to be heir to
-
-the throne of Egypt!" laughed the viceroy.
-
-When he grew calm, at the repeated request of Tutmosis, he commanded to
-
-transfer Sarah from the servants' house to Kama's first villa. The
-
-servants were delighted at this change; all the serving and slave
-
-women, and even the scribes conducted Sarah to her new dwelling with
-
-music and shouts of pleasure.
-
-The Phoenician woman, when she heard the uproar, asked the reason; and
-
-when they told her that Sarah had been restored to the favor of the
-
-prince, and that from the servants' house she had been transferred to
-
-the villa, the enraged ex-priestess sent for Ramses.
-
-The prince came.
-
-"Dost Thou treat me in this way?" screamed she, losing control of her
-
-temper. "Thou didst promise that I should be thy first woman, but
-
-before the moon traversed half the heavens thy promise was broken.
-
-Perhaps Thou thinkest that the vengeance of Astaroth will fall on the
-
-priestess alone, and not reach to princes."
-
-"Tell thy Astaroth," replied Ramses, calmly, "not to threaten princes,
-
-or she may go herself to the servants' house."
-
-"I understand!" exclaimed Kama. "I shall go to the servants' house,
-
-perhaps even to prison, while Thou wilt spend nights with thy Jewess.
-
-Because I have left the gods for thee I have drawn down a curse on my
-
-own head. Because I left them I know no rest for a moment; I have lost
-
-my youth for thee, my life, my soul even, and this is the pay which
-
-Thou givest me."
-
-The prince confessed in his heart that Kama had sacrificed much for
-
-him, and he felt compunction.
-
-"I have not been and shall not be with Sarah," said he. "But does it
-
-harm thee that the ill-fated woman has some comfort and can nourish her
-
-child unmolested?"
-
-Kama trembled. She raised her clinched fist, her hair stirred, and in
-
-her eyes an ugly fire of hate was flashing.
-
-"Is this the answer which Thou givest me? The Jewess is unhappy because
-
-Thou didst drive her from the villa, and I must be satisfied, though
-
-the gods have driven me out of their temples. But my soul the soul of a
-
-priestess who is drowning in tears and in terror does not mean more for
-
-thee than that brat of the Jew woman this child, which, would he were
-
-dead may he."
-
-"Silence!" cried the prince, shutting her mouth.
-
-She drew back frightened.
-
-"Then may I not even complain of my wretchedness?" inquired she. "But
-
-if Thou art so careful of that child, why steal me from the temple, why
-
-promise that I should be first in thy household? Have a care,"
-
-continued she, raising her voice again, "that Egypt, after learning my
-
-fate, may not call thee a faith-breaker."
-
-The prince turned his head and laughed. But he sat down, and said,
-
-"My teacher was right, indeed, when he warned me against women: Ye are
-
-like ripe peaches in the eyes of a man whose tongue thirst has parched,
-
-but peaches ripe only in appearance. Woe to the fool who dares bite
-
-that fruit of fair seeming; instead of cooling sweetness he will find a
-
-nest of wasps that will sting not his lips alone, but his heart also."
-
-"Wilt Thou complain? Wilt Thou not spare me even this shame after I
-
-have sacrificed to thee both my dignity of priestess and my virtue?"
-
-The heir shook his head and smiled.
-
-"Never could I have thought," said he, after a while, "that the story
-
-told by laborers before bedtime could have come true. But today I see
-
-the truth of it. Listen to me, Kama; perhaps Thou wilt stop, and not
-
-force me to withdraw the goodwill which I have for thee."
-
-"He wishes now to tell a fable!" said the priestess, bitterly. "Thou
-
-hast told me one already, and I was profited by hearing it."
-
-"This will profit thee if Thou understand it."
-
-"Will there be anything about Jewish brats in it?"
-
-"Of priestesses there will be; only listen carefully.
-
-"The following thing happened here long ago, in Pi-Bast: [A true
-
-story.]
-
-"Once Prince Satni, on the square before the temple of Ptah, saw a very
-
-beautiful woman. She surpassed all whom he had met before, and, what
-
-was more noteworthy, she had much gold on her person.
-
-"She pleased the prince greatly, and when he learned that she was the
-
-daughter of the high priest, he sent his equerry to her with the
-
-following offer,
-
-"'I will give thee gold rings if Thou wilt pass one short hour in my
-
-company.'
-
-"The equerry went to the beautiful Tbubui and repeated the words of
-
-Prince Satni. When she had listened to him politely, she answered as
-
-became a well-bred young lady,
-
-"'I am the daughter of a high priest; I am innocent, no low girl. So,
-
-if the prince wishes to have the pleasure of knowing me, let him come
-
-to my house, where everything will be ready, and where acquaintance
-
-with him will not expose me to the scandal of all the street gossips.'
-
-"Prince Satni went to Tbubui's chambers, the walls of which were
-
-covered with lapis lazuli and pale green enamel. There were also many
-
-couches decked with regal linen, and not a few one-legged tables on
-
-which gold goblets were standing. One of these goblets was filled with
-
-wine and given to the prince, while Tbubui said to him, 'Be gracious,
-
-and drink.' To this the prince answered, 'Thou knowest that I have not
-
-come to drink wine here.' Still the two sat down at the feast, during
-
-which Tbubui wore a long, heavy robe fastened at her neck closely. When
-
-the prince, excited by wine, wished to kiss her, she repelled him, and
-
-answered,
-
-"'This house will be thine. But remember that I am no street woman, but
-
-an innocent maiden. If Thou wish from me obedience, swear faith, and
-
-convey to me thy property.'
-
-"'Let the scribe come!' cried the prince. When they brought in the
-
-scribe, Satni commanded him to write an act of betrothal, also a deed
-
-by which he transferred to Tbubui all his money, and all his property,
-
-personal and real.
-
-"An hour later the servants announced to the prince that his children
-
-were waiting in the lower story. Tbubui left him then, but returned
-
-soon, attired in a transparent gauze robe. Satni wished again to
-
-embrace her, but she repelled him a second time, saying: 'This house
-
-will be thine. But, since I am no common woman, but an innocent maiden,
-
-if Thou wish to possess me, let thy children renounce every claim, lest
-
-they raise lawsuits hereafter with my children.'
-
-"Satni called up his children, and commanded them to sign an act
-
-renouncing all claim to his possessions. They did so. But when, roused
-
-by long resistance, he approached Tbubui, she repelled him, saying,
-
-"'This house will be thine. But I am no chance passing woman, I am a
-
-pure maiden. If Thou love me, give consent to kill those children lest
-
-they take property from my children.'"
-
-"This is rather a long story," said Kama, impatiently.
-
-"It will end right away. And dost Thou know, Kama, what Satni replied
-
-to this: 'If Thou wish, let the crime be accomplished.' Tbubui gave no
-
-chance to have these words said a second time. Before their father's
-
-eyes she commanded to kill the children, and throw their bloody limbs
-
-to dogs and cats outside the windows. Only after that did Satni enter
-
-her chamber and repose on her bed, inlaid with ivory."
-
-"Tbubui did well not to trust to men's promises," said the irritated
-
-Kama.
-
-"But Satni," said the heir, "did better. He woke, for his dreadful
-
-crime was a dream only. And remember this, Kama, the surest way to
-
-rouse a man from love's intoxication is to curse his son."
-
-"Be at rest, lord," said Kama, gloomily, "I will never mention
-
-hereafter thy son or my sorrow."
-
-"And I will not withdraw my favor from thee, and Thou wilt be happy,"
-
-said Ramses, in conclusion.
+— A ja nie cofnę ci moich łask i będziesz szczęśliwą — zakończył Ramzes.

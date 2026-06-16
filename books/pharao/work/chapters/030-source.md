@@ -1,591 +1,256 @@
-# Kapitel 30: CHAPTER XXX
+# Kapitel 030: Tom II - Rozdział V
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part36.xhtml*
 
 <!-- status: pending -->
 
-NEXT day Tutmosis, with a great suite of officers and attendants, paid
+Na drugi dzień rano Tutmozis z wielką świtą oficerów i dworzan złożył wizytę tyryjskiemu księciu i zaprosił go do namiestnika.
 
-a visit to the Phoenician prince, and invited him to the viceroy.
+W południe przed pałacem zjawił się Hiram w prostej lektyce niesionej przez ośmiu ubogich Egipcjan, którym udzielał jałmużny. Otaczali go znakomitsi kupcy feniccy i ten sam tłum ludu, który co dzień wystawał przed jego domem.
 
-In the afternoon Hiram appeared before the palace in a simple litter
+Ramzes z niejakim zdziwieniem przywitał starca, któremu z oczu patrzyła mądrość, a z całej postaci powaga. Hiram miał na sobie biały płaszcz, na głowie złotą obrączkę. Ukłonił się namiestnikowi z godnością i wzniósłszy ręce nad jego głową odmówił krótkie błogosławieństwo. Obecni byli głęboko wzruszeni.
 
-borne by eight poor Egyptians to whom he gave alms. He was surrounded
+Gdy namiestnik wskazał mu fotel i kazał odejść dworzanom, Hiram odezwał się:
 
-by the most notable Phoenician merchants, and that same throng of
+— Wczoraj sługa waszej dostojności, Dagon, powiedział mi, że książę potrzebujesz stu talentów. Zaraz wysłałem moich kurierów do Sabne-Chetam, Sethroe
 
-people who stood before his house daily.
+— Drobna! — przerwał książę ze śmiechem. — Szczęśliwy jesteś, wasza dostojność, jeżeli sto talentów nazywasz drobną sumką.
 
-Ramses greeted with a certain astonishment the old man out of whose
+Hiram pokiwał głową.
 
-eyes wisdom was gazing and in whose whole bearing there was dignity. He
+— Dziad waszej dostojności — rzekł po namyśle — wiecznie żyjący Ramesses-sa-Ptah zaszczycał mnie swoją przyjaźnią; znam też jego świątobliwość waszego ojca (oby żył wiecznie!) i nawet spróbuję złożyć mu hołd, jeżeli będę dopuszczony...
 
-bowed gravely before the viceroy, and raising his hands above his head,
+— Skądże ta wątpliwość?... — przerwał książę.
 
-pronounced a short blessing. Those present were deeply affected.
+— Są tacy — odparł gość — którzy jednych dopuszczają, innych nie dopuszczają do oblicza faraonowego, ale mniejsza o nich... Wasza dostojność nie jesteś temu winien, więc ośmielę się zadać wam jedno pytanie... Jak stary przyjaciel waszego dziada i ojca.
 
-When the viceroy indicated an armchair and commanded his courtiers to
+— Słucham.
 
-withdraw, Hiram said,
+— Co to znaczy — mówił powoli Hiram — co to znaczy, że następca i namiestnik faraona musi pożyczać sto talentów, gdy jego państwu należy się przeszło sto tysięcy talentów?...
 
-"Yesterday thy servant Dagon informed me that the prince needs a
+— Skąd?... — zawołał Ramzes.
 
-hundred talents. I sent out my couriers at once to Sabne-Chetam,
+— Jak to skąd?... Z danin od ludów azjatyckich. Fenicja winna wam pięć tysięcy, no i ja ręczę, że odda, jeżeli nie trafią się jakieś wypadki... Ale oprócz niej Izrael winien trzy tysiące, Filistyni i Moabici po dwa tysiące, Chetowie trzydzieści tysięcy... Wreszcie nie pamiętam pozycji szczegółowych, ale wiem, że ogół wynosi sto trzy czy sto pięć tysięcy talentów.
 
-Sethroe, Pi-Uto, and other cities where there are Phoenician ships,
+Ramzes gryzł wargi; na jego ruchliwej twarzy widać było bezsilny gniew. Spuścił oczy i milczał.
 
-asking them to land all their goods. I think that in a day or two Thou
+— Więc to prawda!... — nagle westchnął Hiram, wpatrując się w namiestnika. — Więc to prawda?... Biedna Fenicja, ale i Egipt...
 
-wilt receive this small sum."
+— Co mówisz, wasza dostojność? — zapytał książę, marszcząc brwi. — Nie rozumiem twoich biadań...
 
-"Small!" interrupted Ramses, with a smile. "Thou art happy if Thou call
+— Książę wiesz, o czym mówię, skoro nie odpowiadasz na moje pytanie — odparł Hiram i powstał, jakby z zamiarem odejścia. — Mimo to... nie cofnę obietnicy... Będziesz, książę, miał sto talentów.
 
-a hundred talents a small sum."
+Nisko ukłonił się, lecz namiestnik zmusił go do zajęcia miejsca.
 
-Hiram nodded.
+— Wasza dostojność ukrywasz coś przede mną — rzekł głosem, w którym czuć było obrazę. — Chcę, ażebyś mi wytłumaczył: jaka to bieda grozi Fenicji czy Egiptowi...
 
-"Thy grandfather, worthiness," said he, after a while, "the eternally
+— Nie wiedziałżebyś o tym, wasza dostojność? — pytał Hiram z wahaniem.
 
-living Ramses-sa-Ptah, honored me with his friendship; I know also his
+— Nic nie wiem. Spędziłem przeszło miesiąc w świątyni.
 
-holiness, thy father may he live through eternity! and I will even try
+— Właśnie tam można było dowiedzieć się o wszystkim...
 
-to lay before him my homage, if I be permitted."
+— Wasza dostojność mi powiesz! — zawołał namiestnik, uderzając pięścią w stół. — Nie lubię, ażeby bawiono się moim kosztem...
 
-"Whence could a doubt arise?" interrupted the prince.
+— Powiem, jeżeli wasza dostojność dasz mi wielkie przyrzeczenie, że nie zdradzisz się przed nikim. Chociaż... nie mogę uwierzyć, aby księcia następcy nie zawiadomiono o tym!...
 
-"There are persons," replied the guest, "who admit some to the face of
+— Nie ufasz mi? — zapytał zdumiony książę.
 
-the pharaoh and refuse others but never mind them. Thou art not to
+— W tej sprawie żądałbym przyrzeczenia od samego faraona — odparł Hiram stanowczo.
 
-blame for this; hence I venture to lay before thee one question, as an
+— A więc... przysięgam na mój miecz i sztandary naszych wojsk, że nikomu nie powiem o tym, co mi wasza dostojność odkryjesz.
 
-old friend of thy father and his father."
+— Dosyć — rzekł Hiram.
 
-"I am listening."
+— Słucham.
 
-"What means it," asked Hiram, slowly, "that the heir to the throne and
+— Książę wie, co w tej chwili dzieje się w Fenicji?
 
-a viceroy must borrow a hundred talents when more than a hundred
+— Nawet i o tym nie wiem! — przerwał zirytowany namiestnik.
 
-thousand are due Egypt?"
+— Nasze okręty — szepnął Hiram — ze wszystkich krańców świata ściągają do ojczyzny, ażeby na pierwsze hasło przewieźć ludność i skarby gdzieś... za morze... na zachód...
 
-"Whence?" cried Ramses.
+— Dlaczego? — zdziwił się namiestnik.
 
-"From the tribute of Asiatic peoples. Phoenicia owes five thousand;
+— Bo Asyria ma nas wziąć pod swoje panowanie.
 
-well, Phoenicia will pay, I guarantee that, unless some events happen.
+Książę wybuchnął śmiechem.
 
-But, besides, Israel owes three thousand, the Philistines and the
+— Oszalałeś, czcigodny mężu?... — zawołał. — Asyria ma zabrać Fenicję!... A cóż my na to, my Egipt?
 
-Moabites each two thousand, the Hittites thirty thousand. Finally, I do
+— Egipt już się zgodził.
 
-not remember details, but I know that the total reaches a hundred and
+Namiestnikowi krew uderzyła do głowy.
 
-three or a hundred and five thousand talents."
+— Upał plącze ci myśli, stary człowieku — rzekł do Hirama spokojnym głosem. — Zapominasz nawet, że podobna sprawa nie mogłaby mieć miejsca bez pozwolenia faraona i... mego!
 
-Ramses gnawed his lips, but on his vivacious countenance helpless anger
+— I to nastąpi. Tymczasem zawarli układ kapłani.
 
-was evident. He dropped his eyes and was silent.
+— Z kim?... Jacy kapłani?...
 
-"It is true," said Hiram, on a sudden, and looking sharply at the
+— Z arcykapłanem chaldejskim, Beroesem, umocowanym przez króla Assara — odparł Hiram. — A kto z waszej strony?... Nie twierdzę na pewno, ale zdaje się, że jego dostojność Herhor, jego dostojność Mefres i święty prorok Pentuer.
 
-viceroy. "Poor Phoenicia but also Egypt."
+Książę zbladł.
 
-"What dost Thou say?" asked the prince, frowning. "I understand not thy
+— Uważaj, tyryjczyku — rzekł — że oskarżasz o zdradę najwyższych dostojników państwa.
 
-questions."
+— Mylisz się, książę, to wcale nie jest zdrada: najstarszy arcykapłan Egiptu i minister jego świątobliwości mają prawo prowadzić układy z sąsiednimi mocarzami. Wreszcie, skąd wie wasza dostojność, że wszystko to nie dzieje się z woli faraona?
 
-"Prince, Thou knowest what it is of which I speak, since Thou dost not
+Ramzes musiał przyznać w duszy, że układ podobny nie byłby zdradą państwa, tylko — lekceważeniem jego, następcy tronu. Więc to w taki sposób traktują go kapłani, jego, który za rok może być faraonem?... Więc dlatego Pentuer ganił wojny, a Mefres popierał go!...
 
-answer my question," replied Hiram; and he rose as if to withdraw.
+— Kiedyż to się miało stać, gdzie?... — spytał książę.
 
-"Still, I withdraw not my promise. Thou wilt receive a hundred
+— Podobno zawarli układ w nocy, w świątyni Seta za Memfisem — odpowiedział Hiram. — A kiedy?... Dobrze nie wiem, lecz zdaje się, że tego dnia, kiedy wasza dostojność wyjeżdżałeś z Memfisu.
 
-talents."
+„A, nędznicy!... — myślał namiestnik. — To oni tak szanują moje stanowisko... Więc oni mnie oszukiwali i opisem stanu państwa?... Jakiś dobry bóg budził moje wątpliwości w świątyni Hator...”
 
-He made a low bow, but the viceroy forced him to sit down again.
+Po chwili wewnętrznej walki rzekł głośno:
 
-"Thou art hiding something," said Ramses, in a voice in which offence
+— Niepodobna!... I dopóty nie uwierzę temu, co mówisz, wasza dostojność, dopóki nie dasz mi dowodu.
 
-was evident. "I would hear thee explain what danger threatens Egypt or
+— Dowód będzie — odparł Hiram. — Lada dzień przyjeżdża do Pi-Bast wielki pan asyryjski, Sargon, przyjaciel króla Assara. Przyjeżdża tu pod pozorem pielgrzymki do świątyni Astoreth, złoży dary wam, książę, i jego świątobliwości, potem — zawrzecie układ... Naprawdę zaś przypieczętujecie to, co postanowili kapłani na zgubę Fenicjan, a może i własne nieszczęście.
 
-Phoenicia."
+— Nigdy! — rzekł książę. — Jakież to wynagrodzenie musiałaby Asyria dać Egiptowi...
 
-"Hast Thou not heard?" asked Hiram, with hesitation.
+— Oto jest mowa godna króla: jakie wynagrodzenie dostałby Egipt? Bo dla państwa każdy układ jest dobry, byle coś na nim zyskało... I to właśnie dziwi mnie — ciągnął Hiram — że Egipt zrobi zły interes: Asyria bowiem zagarnia, oprócz Fenicji, prawie całą Azję; a wam jakby z łaski zostawią: Izraelitów, Filistynów i półwysep Synaj... Rozumie się, że w takim razie przepadną należne Egiptowi daniny i faraon nigdy nie odbierze tych stu pięciu tysięcy talentów.
 
-"I know nothing. I have passed more than a month in the temple."
+Namiestnik potrząsnął głową.
 
-"That is just the place in which to learn everything."
+— Nie znasz — odparł — wasza dostojność, kapłanów egipskich: żaden z nich nie przyjąłby takiego układu.
 
-"Tell me, worthiness," said the viceroy, striking the table with his
+— Dlaczego? Fenickie przysłowie mówi: lepszy jęczmień w stodole niż złoto w pustyni. Mogłoby się więc zdarzyć, że Egipt, gdyby czuł się bardzo słabym, wolałby darmo Synaj i Palestynę aniżeli wojnę z Asyrią. Ale otóż to mnie zastanawia... Bo nie Egipt, lecz Asyria dziś jest łatwa do pokonania: ma zatarg na północnym wschodzie, posiada mało wojsk, a i te są liche. Gdyby napadł ją Egipt, zniszczyłby państwo, zabrałby niezmierne skarby z Niniwy i Babelu i raz na zawsze utrwaliłby swoją władzę w Azji.
 
-fist. "I am not pleased when men are amused at my expense."
+— Więc widzisz, że taki układ nie może istnieć — wtrącał Ramzes.
 
-"Give a great promise not to betray me to any one and I will tell,
+— W jednym tylko wypadku rozumiałbym podobne umowy, gdyby kapłani chcieli znieść władzę królewską w Egipcie... Do czego wreszcie dążą od czasów waszego dziada, książę...
 
-though I cannot believe that they have not informed the heir of this."
+— Znowu mówisz od rzeczy — wtrącił namiestnik. Ale w sercu uczuł niepokój.
 
-"Dost Thou not trust me?" asked the astonished prince.
+— Może mylę się — odparł Hiram, bystro patrząc mu w oczy. — Ale posłuchaj, wasza dostojność...
 
-"In this affair I should require a promise from the pharaoh himself,"
+Przysunął swój fotel do księcia i mówił zniżonym głosem:
 
-answered Hiram, with decision.
+— Gdyby faraon wydał wojnę Asyrii i wygrał ją, miałby:
 
-"If I swear on my sword, and the standards of my troops, that I will
+Wielką armię przywiązaną do jego osoby.
 
-tell no man."
+Sto tysięcy talentów zaległych danin. Ze dwieście tysięcy talentów z Niniwy i Babelu.
 
-"Enough," said Hiram.
+Nareszcie — ze sto tysięcy talentów rocznie z krajów zdobytych.
 
-"I am listening."
+Tak ogromny majątek pozwoliłby mu wykupić dobra zastawione u kapłanów i raz na zawsze położyć koniec ich mieszaniu się do władzy.
 
-"Does the prince know what is happening at this moment in Phoenicia?"
+Ramzesowi błyszczały oczy. Hiram mówił dalej:
 
-"I know nothing of that, even," interrupted the irritated viceroy.
+— Dzisiaj zaś armia zależy od Herhora, a więc od kapłanów, i z wyjątkiem pułków cudzoziemskich faraon, w razie walki, liczyć na nią nie może.
 
-"Our ships," whispered Hiram, "are coming home from all parts of the
+Nadto zaś, skarb faraona jest pusty, a większa część jego dóbr należy do świątyń. Król choćby na utrzymanie dworu musi co roku zaciągać nowe długi; a że Fenicjan już u was nie będzie, więc musicie brać od kapłanów... Tym sposobem za dziesięć lat jego świątobliwość (oby żył wiecznie!...) straci resztę swoich dóbr, a co później?...
 
-earth to convey at the first signal our people and treasures to some
+Na czoło Ramzesa wystąpił pot kroplisty.
 
-place beyond the sea to the west."
+— Widzisz więc, dostojny panie — mówił Hiram — że w jednym wypadku kapłani mogliby, a nawet musieliby przyjąć najsromotniejszy układ z Asyrią: jeżeli chodziłoby im o poniżenie i zniesienie władzy faraona... No — może istnieć i drugi wypadek: gdyby Egipt był tak słaby, że za wszelką cenę potrzebowałby spokoju...
 
-"Why?" asked the astounded viceroy.
+Książę zerwał się.
 
-"Because Assyria is to take us under her dominion."
+— Milcz! — zawołał. — Wolałbym zdradę najwierniejszych sług aniżeli podobną niemoc kraju!... Egipt musiałby Asyrii oddać Azję... Ależ w rok później sam wpadłby pod jej jarzmo, bo podpisując hańbę, przyznałby się do bezsilności...
 
-"Thou hast gone mad, worthy man!" exclaimed Ramses. "Assyria to take
+Chodził wzburzony, a Hiram patrzył na niego z litością czy współczuciem.
 
-Phoenicia! But we? Egypt what would we say to that?"
+Nagle Ramzes zatrzymał się przed Fenicjaninem i rzekł:
 
-"Egypt has consented already."
+— To fałsz!... Jakiś zręczny hultaj oszukał cię, Hiramie, pozorami prawdy i ty mu uwierzyłeś. Gdyby istniał taki traktat, układano by go w największej tajemnicy. A w takim razie, jeden z czterech kapłanów, których wymieniłeś, byłby zdrajcą nie tylko króla, lecz nawet swoich współspiskowców...
 
-Blood rushed to the prince's head.
+— Mógł przecie być ktoś piąty, który ich podsłuchiwał — wtrącił Hiram.
 
-"The heat has disturbed thy mind, aged man," said he, in a calm voice.
+— I tobie sprzedał tajemnicę?...
 
-"Thou hast forgotten, even, that such an affair could not take place
+Hiram uśmiechnął się.
 
-without the pharaoh's permission and mine."
+— Dziwno mi — rzekł — że książę jeszcze nie poznałeś potęgi złota.
 
-"That will follow. Meanwhile the priests have concluded a treaty."
+— Ależ zastanów się, wasza dostojność, że nasi kapłani mają więcej złota aniżeli ty, choć jesteś bogacz nad bogacze!...
 
-"With whom? What priests?"
+— Ja jednak nie gniewam się, gdy mi przybędzie choćby drachma. Dlaczego inni mieliby odrzucać talenty?...
 
-"With Beroes, the high priest of Chaldea, at commission of King Assar,"
+— Bo oni są sługami bogów — mówił rozgorączkowany książę — bo oni lękaliby się ich kary...
 
-said Hiram. "And who from your side? I will not state to a certainty.
+Fenicjanin uśmiechnął się.
 
-But it seems to me that his worthiness Herhor, his worthiness Mefres,
+— Widziałem — odparł — wiele świątyń różnych narodów, a w świątyniach duże i małe posągi: drewniane, kamienne, nawet złote. Ale bogów nie spotykałem nigdy...
 
-and the holy prophet Pentuer."
+— Bluźnierco!... — zawołał Ramzes. — Jam widział bóstwo, czułem na sobie jego rękę i słyszałem głos...
 
-The prince became pale.
+— Gdzie to było?
 
-"Consider, Phoenician," said he, "that Thou art accusing of treason the
+— W świątyni Hator: w jej przysionku i w mojej celi.
 
-highest dignitaries of Egypt."
+— W dzień?... — pytał Hiram.
 
-"Thou art mistaken, prince, this is no treason: the high priest of
+— W nocy... — odparł książę i zastanowił się.
 
-Egypt and the minister of his holiness have the right to make treaties
+— W nocy — książę słyszał mowę bogów i — czuł — ich rękę — powtarzał Fenicjanin wybijając pojedyncze wyrazy. — W nocy wiele rzeczy można widzieć. Jak to było?...
 
-with neighboring states. Besides, how dost Thou know, worthiness, that
+— Byłem chwytany za głowę, ramiona i nogi, a przysięgam...
 
-all this is not done with consent of the pharaoh?"
+— Psyt!... — przerwał Hiram z uśmiechem. — Nie należy przysięgać nadaremnie.
 
-Ramses was obliged to confess in his soul that such a treaty would not
+Uporczywie wpatrywał się w Ramzesa swymi bystrymi i mądrymi oczyma, a widząc, że w młodzieńcu budzą się wątpliwości, rzekł:
 
-be treason, but disregard toward him, the erpatr.
+— Ja ci coś powiem, panie. Jesteś niedoświadczony, otoczony siecią intryg, ja zaś byłem przyjacielem twego dziada i ojca. Otóż oddam ci jedną usługę. Przyjdź kiedy w nocy do świątyni Astoreth, ale... zobowiązawszy się do zachowania tajemnicy... Przyjdź sam, a przekonasz się, jacy to bogowie odzywają się i dotykają mas w świątyniach.
 
-So then the priests treated him in this way, him who might be the
+— Przyjdę — rzekł Ramzes po namyśle.
 
-pharaoh a year hence? That is why Pentuer criticized war, and Mefres
+— Uprzedź mnie, książę, którego dnia z rana, a ja powiem ci hasło wieczorne świątyni i będziesz tam dopuszczony. Tylko nie zdradź mnie ani siebie — mówił z dobrodusznym uśmiechem Fenicjanin. — Bogowie niekiedy przebaczają zdradę swoich tajemnic, ludzie nigdy...
 
-supported him.
+Ukłonił się, a potem wzniósłszy oczy i ręce do góry zaczął szeptać błogosławieństwo.
 
-"When could that have happened, and where?" asked the prince.
+— Obłudniku!... — zawołał książę. — Modlisz się do bogów, w których nie wierzysz?...
 
-"Very likely they concluded the treaty at night in the temple of Set at
+Hiram dokończył błogosławieństwa i rzekł:
 
-Memphis," answered Hiram. "And when? I know not exactly, but it seems
+— Tak jest: nie wierzę w bogów egipskich, asyryjskich, nawet fenickich, lecz wierzę w Jedynego, który nie mieszka w świątyniach i nie jest znane jego imię.
 
-to me that it took place when Thou wert setting out from Memphis."
+— Nasi kapłani wierzą także w Jedynego — wtrącił Ramzes.
 
-"The wretches!" thought the viceroy. "That is how they respect my
+— I chaldejscy także, a jednak i ci, i tamci sprzysięgli się przeciw nam... Nie ma prawdy na świecie, mój książę!...
 
-position! Some kind god made me doubt in the temple of Hator."
+Po odejściu Hirama książę zamknął się w najodleglejszym pokoju pod pozorem odczytywania świętych papirusów.
 
-After a time of internal conflict he added,
+Prawie w oka mgnieniu w jego ognistej wyobraźni uporządkowały się nowo otrzymane wiadomości i utworzył się plan.
 
-"Impossible! I shall not believe till proof be given."
+Przede wszystkim zrozumiał, że między Fenicjanami i kapłanami toczy się cicha walka na życie i śmierć. O co?... Naturalnie o wpływy i skarby. Prawdę rzekł Hiram, że gdyby Fenicjan zabrakło w Egipcie, wszystkie majątki faraona, nawet nomarchów i całej arystokracji, przeszłyby pod panowanie świątyń.
 
-"Proof there will be," replied Hiram. "One of these days a great lord
+Ramzes nigdy nie lubił kapłanów i od dawna wiedział i widział, że większa część Egiptu już należy do kapłanów, że ich miasta są najbogatsze, pola najlepiej uprawiane, ludność zadowolona. Rozumiał też, że połowa skarbów należących do świątyń wydobyłaby faraona z nieustannych kłopotów i podźwignęłaby jego władzę.
 
-will come to Pi-Bast from Assyria, Sargon, the friend of King Assar. He
+Książę wiedział o tym i niejednokrotnie wypowiadał to z goryczą. Lecz gdy za sprawą Herhora został namiestnikiem i otrzymał dowództwo korpusu Menfi, pogodził się z kapłanami i we własnym sercu tłumił stare niechęci do nich.
 
-will come under pretext of a pilgrimage to the temple of Astaroth, he
+Dziś wszystko to odżyło.
 
-will bring gifts to thee and to his holiness; then he will make a
+Więc kapłani nie tylko nie powiedzieli mu o swoich układach z Asyrią, ale nawet nie uprzedzili go o poselstwie jakiegoś Sargona?
 
-treaty. Ye will in fact put seals to that which the priests have
+Może wreszcie być, że ta kwestia stanowiła najwyższą tajemnicę świątyń i państwa. Lecz dlaczego ukrywali przed nim cyfrę danin zalegających u rozmaitych azjatyckich narodów?... Sto tysięcy talentów, ależ to suma, która mogła od razu poprawić majątkowy stan faraona... Dlaczegóż oni to ukrywali, o czym nawet wiedział tyryjski książę, jeden z członków rady tego miasta?...
 
-determined to the ruin of Phoenicia, and perhaps to your own great
+Co za wstyd dla niego, następcy tronu i namiestnika, że dopiero obcy ludzie otwierają mu oczy!
 
-misfortune."
+Lecz była rzecz jeszcze gorsza: Pentuer i Mefres na wszelki sposób dowodzili mu, że Egipt musi unikać wojny.
 
-"Never! What return could Assyria give Egypt?"
+Już w świątyni Hator nacisk ten wydawał mu się podejrzanym: wojna bowiem mogła dostarczyć państwu krocie tysięcy niewolników i podźwignąć ogólny dobrobyt kraju. Dzisiaj zaś wydaje się tym konieczniejszą, że przecież Egipt ma do odebrania sumy zaległe i do zdobycia nowe.
 
-"That speech is worthy of a pharaoh. What return would Egypt get? Every
+Książę podparł się rękoma na stole i rachował:
 
-treaty is good for a state if only something be gained through it. I am
+„Mamy — myślał — do odebrania sto tysięcy talentów danin... Hiram liczy, że złupienie Babilonu i Niniwy przyniosłoby ze dwieście tysięcy — razem trzysta tysięcy jednorazowo...
 
-astonished specially by this," continued Hiram, "that Egypt should
+Taką sumą można pokryć koszta największej wojny, a zostanie jako zysk — kilkakroć sto tysięcy niewolników i sto tysięcy rocznej daniny z krajów na nowo podbitych.
 
-conclude a bad transaction: besides Phoenicia, Assyria will take almost
+Potem zaś — dokończył książę — obrachowalibyśmy się z kapłanami...”
 
-all Asia, and to you will be left, in the form of a favor, the
+Ramzes był rozgorączkowany. Mimo to przyszła mu refleksja:
 
-Israelites, the Philistines, and the peninsula of Sinai. In that case
+„A gdyby Egipt nie mógł przeprowadzić zwycięskiej wojny z Asyrią?...”
 
-the tributes belonging to Egypt will be lost, and the pharaoh will
+Lecz przy tym pytaniu zagotowała się w nim krew. Jak to Egipt, jak Egipt może nie zdeptać Asyrii, gdy na czele wojsk stanie on, Ramzes, on, potomek Ramzesa Wielkiego, który sam jeden rzucił się na chetyjskie wozy wojenne i rozbił je!...
 
-never receive those hundred and five thousand talents."
+Książę wszystko mógł pojąć wyjąwszy tego, ażeby on mógł być pokonanym, mógł nie wydrzeć zwycięstwa największym mocarzom. Czuł w sobie bezmiar odwagi i zdziwiłby się, gdyby jakikolwiek nieprzyjaciel nie uciekł na widok jego rozpuszczonych koni. Przecież na wojennym wozie faraona stają sami bogowie, ażeby go zasłaniać tarczą, a nieprzyjaciół razić niebieskimi pociskami.
 
-The viceroy shook his head.
-
-"Thou dost not know Egyptian priests," said he; "not one of them would
-
-accept such a treaty."
-
-"Why not? The Phoenician proverb says: 'Better barley in the granary
-
-than gold in the desert.' Should Egypt feel very weak she might prefer
-
-Sinai and Palestine to a war with Assyria. But this is what sets me to
-
-thinking: Not Egypt, but Assyria, is easy to conquer. Assyria has a
-
-quarrel on the northwest; Assyria has few troops, and those of poor
-
-quality. Were Egypt to attack she would destroy Assyria, seize immense
-
-treasures in Babylon and Nineveh, and establish her authority in Asia
-
-at once and securely."
-
-"Such a treaty cannot exist, as Thou seest," interrupted Ramses.
-
-"In one case alone could I understand such a treaty," continued Hiram.
-
-"If 'tis the plan of the priests to set aside kingly power in Egypt;
-
-and toward this, O prince, they have been striving since the days of
-
-thy grandfather."
-
-"Thou art speaking aside from the question," said Ramses, but he felt
-
-alarm in his heart.
-
-"Perhaps I am mistaken," answered Hiram, looking into his eyes quickly.
-
-"But hear me out, worthiness."
-
-He moved up his armchair to the prince, and said in a lowered voice,
-
-"If the pharaoh should make war on Assyria, he would have a great army
-
-attached to his person; a hundred thousand talents of tribute in
-
-arrears, about two hundred thousand talents from Nineveh and Babylon,
-
-finally about a hundred thousand talents yearly from conquered
-
-countries. Such immense wealth would enable him to redeem the property
-
-mortgaged to the priests, and put an end at once and forever to their
-
-meddling."
-
-The prince's eyes glittered, and Hiram continued,
-
-"Today the army depends on Herhor, and therefore on the priests; remove
-
-the foreign regiments, and the pharaoh, in case of war, could not
-
-depend on his warriors.
-
-"Besides, the royal treasury is empty, and the greater part of the
-
-pharaoh's property belongs to the temples. He must contract new debts
-
-yearly even to maintain his household; and since there will be no
-
-Phoenicians among you, ye must borrow of the temples. In this way, when
-
-ten years have passed, his holiness may he live through eternity! will
-
-lose what is left of his property, and then what?"
-
-On the forehead of Ramses perspiration came out in drops.
-
-"Thou seest then, worthy lord," continued Hiram, "the priests might and
-
-even would be forced in one case to accept the most disgraceful treaty
-
-with Assyria: if they are working to lower and destroy the power of the
-
-pharaoh well, there may be another case: if Egypt were so weak as to
-
-need peace at any price."
-
-The prince sprang up.
-
-"Silence!" cried he. "I should prefer treason on the part of my most
-
-faithful servants, to such weakness in the country. Egypt yield to
-
-Assyria why, a year later Egypt herself would fall under the yoke of
-
-Assyria, for by subscribing to such infamy she would confess her own
-
-helplessness."
-
-He walked up and down the room, with indignation, while Hiram looked at
-
-him with compassion or with sympathy.
-
-All at once Ramses halted before the Phoenician,
-
-"This is false! Some adroit villain has deceived thee, O Hiram, with
-
-the semblance of truth, and Thou hast believed him. If such a treaty
-
-existed, they would have kept it in the closest secrecy. In the present
-
-case one of the four priests whom Thou hast mentioned is a traitor, not
-
-only to his own sovereign, but to his co-conspirators."
-
-"There might have been some fifth man who overheard them," interrupted
-
-Hiram.
-
-"And who sold the secret to thee?"
-
-"It is a wonder to me," said Hiram, "that the prince has not discovered
-
-the power of gold."
-
-"But stop, worthiness, our priests have more gold than thou, though
-
-Thou art wealthy beyond the wealthy!"
-
-"Still I am not angry when a drachma comes to me. Why should others
-
-refuse a talent?"
-
-"They would because they are servants of the gods," said the prince,
-
-passionately; "they would fear divine punishment."
-
-The Phoenician laughed.
-
-"I have seen," said he, "many temples of various nations, and in those
-
-temples great and small statues, of wood, stone, and gold even. But
-
-gods I have never met."
-
-"Blasphemer!" exclaimed Ramses. "I have seen a divinity, I have felt
-
-its hand on my person, I have heard its voice."
-
-"In what place?"
-
-"In the temple of Hator, in its hall of entrance, and in my cell."
-
-"In the daytime?"
-
-"In the night," replied the prince; and he stopped.
-
-"At night the prince heard speeches of the gods, and felt their hands,"
-
-replied the Phoenician, emphasizing word after word. "At night it is
-
-possible to see many things. What happened?"
-
-"In the temple I was seized by the head, by the shoulders, by the legs;
-
-and I swear
-
-"Phst!" interrupted Hiram, with a smile. "It is not proper to swear in
-
-vain."
-
-He looked fixedly at Ramses with his quick and wise eyes, and seeing
-
-that doubt was rising in the young man, he continued,
-
-"I will tell thee something, lord. Thou art inexperienced, though
-
-surrounded by a net of intrigues, but I have been the friend of thy
-
-grandfather and thy father. Now I will render thee a service: Come in
-
-the night to the temple of Astaroth, but bind thyself to keep the
-
-secret. Come alone, and Thou wilt be convinced as to who the gods are
-
-who speak in the temples and touch us."
-
-"I will come," said Ramses, after some meditation.
-
-"Forewarn me, prince, on the morning of the day, and I will give thee
-
-the evening password; Thou wilt be admitted. Only betray neither me nor
-
-thyself," said the Phoenician, with a kindly smile. "Men never pardon
-
-betrayal of their secrets, though gods pardon sometimes." He bowed,
-
-raised his eyes and hands, while he whispered a blessing.
-
-"Deceivers!" cried the prince. "Thou prayest to gods, and dost not
-
-believe in them."
-
-Hiram finished the blessing, and said,
-
-"It is true that I have no belief in Egyptian or Assyrian, or even in
-
-Phoenician gods, but I believe in One who dwells not in temples and
-
-whose name is unknown to us."
-
-"Our priests believe also in One," said Ramses.
-
-"So do the Chaldeans, but they and your priests have conspired against
-
-us. There is no truth in this world, prince."
-
-After Hiram's departure the heir shut himself up in the most remote
-
-chamber under pretext of reading sacred papyruses.
-
-Almost in the twinkle of an eye the information received recently
-
-arranged itself in the fiery imagination of Ramses, and he formed a
-
-plan. First of all, he understood that a secret battle for life and
-
-death was raging between the priests and the Phoenicians. About what?
-
-Naturally about wealth and influence. Hiram said truly, that should the
-
-Phoenicians be expelled from Egypt, all the estates of the pharaoh, and
-
-even of the nomarchs and the entire aristocracy, would pass into
-
-possession of the temples.
-
-Ramses had never liked the priests, and he had known and seen for a
-
-long time that the greater part of Egypt belonged to them, that their
-
-cities were the richest, their fields the best tilled, their people
-
-satisfied. He understood too that one-half the treasures which belonged
-
-to the temples would suffice to rescue the pharaoh from ceaseless
-
-troubles and give back power to him.
-
-The prince knew this, and more than once he had said so with
-
-bitterness. But when through the influence of Herhor he became viceroy
-
-and received the corps in Memphis, he grew reconciled with the priests
-
-and stifled his previous dislike of them.
-
-All that dislike had revived again.
-
-Not only had the priests not told him of their negotiations with
-
-Assyria, they had not even forewarned him of the embassy of Sargon.
-
-This question might indeed be the great secret of the state and the
-
-temples. But why did they conceal the amount of tributes from various
-
-Asiatic nations, unpaid thus far? One hundred thousand talents why,
-
-that was a sum which might restore immediately the financial status of
-
-the pharaoh! Why had they concealed from him that which even a prince
-
-of Tyre knew, a man who was of the council in that city .'
-
-What a shame for him, the heir to the throne, and the viceroy, that his
-
-eyes were first opened by foreigners! But there was something worse
-
-still: Pentuer and Mef res had proved to him in every way that Egypt
-
-must avoid war. In the temple of Hator that emphasis had seemed to him
-
-suspicious, since a war might obtain for the state thousands of legions
-
-of slaves, and raise the general prosperity of the country. Today this
-
-seemed the more necessary since Egypt ought to receive unpaid sums and
-
-gain still more tribute.
-
-The prince rested his arms on the table and calculated,
-
-"We," thought he, "should receive a hundred thousand talents. Hiram
-
-calculates that the plunder of Nineveh and Babylon would give about two
-
-hundred thousand; together, three hundred thousand. With such a sum we
-
-might cover the cost of the mightiest war, and there would remain
-
-besides several hundred thousand as profit, and captives and a hundred
-
-thousand yearly tribute from newly conquered regions. After that,"
-
-concluded the prince, "we could reckon with the priesthood!"
-
-Ramses was excited. Still reflection came to him,
-
-"But if Egypt was unable to wage a victorious war against Assyria?" His
-
-blood boiled at this question. "How Egypt? Why should Egypt not trample
-
-Assyria, when he appeared at the head of its armies, he a descendant of
-
-Ramses the Great, who had hurled himself single-handed on the Hittite
-
-war chariots and scattered them."
-
-The prince could understand everything save this, that man might
-
-conquer him and that he could not snatch victory from the greatest
-
-enemy. He felt in himself endless daring, and he would have been
-
-astounded if any enemy whatever had not fled at sight of his steeds in
-
-full onrush. Did not the gods themselves stand on the war-chariot of
-
-the pharaoh to defend his shield and smite with heavenly bolts his
-
-enemies?
-
-"But what did this Hiram say to me about gods?" thought the prince.
-
-"And what will he show me in the temple of Astaroth? We shall see."
+„Tylko... co ten Hiram mówił mi o bogach?... — pomyślał książę. — I co on ma mi pokazać w świątyni Astoreth?... Zobaczymy.”

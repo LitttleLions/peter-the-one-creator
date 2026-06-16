@@ -1,0 +1,62 @@
+{
+  "book": "peter-i-buch-01",
+  "chapter": "001",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\001\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\peter-i-buch-01\\work\\prompts\\higgsfield\\001-scene-01-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\peter-i-buch-01\\assets\\scene\\001\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "Late 17th-century Russian peasant yard and black-heated izba in deep winter: Sanka and her little brothers huddle at an icy threshold while their stern red-bearded father harnesses a short dark horse to a rough wooden sleigh. Blue snowlight, smoking warm hut interior behind them, daws on a high fence, patched homespun clothing, raw frost, folklore dread. Literary historical illustration, cinematic realism, painterly texture, muted ocher firelight against blue-white snow, 35mm documentary composition, no modern objects.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "2k",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260616_141220_6525c691-8bf1-46da-b232-44a45ad2839a.png",
+  "job_result": [
+    {
+      "id": "6525c691-8bf1-46da-b232-44a45ad2839a",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260616_141220_6525c691-8bf1-46da-b232-44a45ad2839a.png",
+      "created_at": 1781619140.577548,
+      "params": {
+        "prompt": "Late 17th-century Russian peasant yard and black-heated izba in deep winter: Sanka and her little brothers huddle at an icy threshold while their stern red-bearded father harnesses a short dark horse to a rough wooden sleigh. Blue snowlight, smoking warm hut interior behind them, daws on a high fence, patched homespun clothing, raw frost, folklore dread. Literary historical illustration, cinematic realism, painterly texture, muted ocher firelight against blue-white snow, 35mm documentary composition, no modern objects.",
+        "width": 1536,
+        "height": 2048,
+        "batch_size": 1,
+        "seed": 725074,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "1080p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": null
+        },
+        "style_strength": null
+      }
+    }
+  ]
+}

@@ -1,537 +1,164 @@
-# Kapitel 64: CHAPTER LXIV
+# Kapitel 064: Tom III - Rozdział XV
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part72.xhtml*
 
 <!-- status: pending -->
 
-ON the eighteenth day of Paofi chaos had begun. Communication was
+Już dnia osiemnastego Paofi w Egipcie zapanował chaos. Komunikacja między dolnym i górnym państwem została przerwana, handel ustał, po Nilu krążyły tylko statki strażnicze, drogi lądowe były zajęte przez wojska, które dążyły ku miastom posiadającym sławniejsze świątynie.
 
-interrupted between Lower and Upper Egypt; commerce had ceased; on the
+Na polach pracowali tylko kapłańscy chłopi. Zaś w majątkach szlachty, nomarchów, a osobliwie faraona, len nie był wyrwany, koniczyna nie tknięta, winogron nie miał kto zrywać. Chłopi nie robili nic, tylko włócząc się bandami śpiewali, jedli, pili i odgrażali się bądź kapłanom, bądź Fenicjanom.
 
-Nile moved only boats on guard, the roads were occupied by troops
+W miastach sklepy były pozamykane, a pozbawieni zajęcia rzemieślnicy po całych dniach radzili nad przeobrażeniem państwa. Gorszące to zjawisko już nie było nowym dla Egiptu, ale wystąpiło w tak groźnych rozmiarach, że poborcy, a nawet sędziowie zaczęli się kryć; tym bardziej iż policja bardzo łagodnie traktowała nadużycia prostego ludu.
 
-marching toward those cities which contained the most famous temples.
+Jedna jeszcze rzecz zasługiwała na uwagę, oto — obfitość pokarmów i wina. W szynkowniach i garkuchniach, szczególnie fenickich, zarówno w Memfis, jak na prowincji, mógł jeść i pić, kto chciał i ile chciał, za bardzo niską opłatą lub bez opłaty.
 
-Only the laborers of the priests were at work in the fields. On the
+Mówiono, że jego świątobliwość wyprawia swemu ludowi ucztę, która ciągnąć się ma przez cały miesiąc.
 
-estates of nobles and nomarchs, but especially of the pharaoh, flax was
+Z powodu utrudnionych, a nawet poprzerywanych komunikacji, miasta niedobrze wiedziały, co się dzieje u ich sąsiadów. I tylko faraon, a jeszcze lepiej kapłani zdawali sobie sprawę z ogólnego położenia kraju.
 
-unpulled, clover uncut; there was no one to gather in grapes. The
+Położenie to cechował przede wszystkim rozłam między Górnym, czyli Tebańskim, i Dolnym, czyli Memfijskim Egiptem. W Tebach miało przewagę stronnictwo kapłanów, w Memfis — faraonowe. W Tebach mówiono, że Ramzes XIII oszalał i chce sprzedać Egipt Fenicjanom; w Memfisie dowodzono, że kapłani chcą otruć faraona i naprowadzić do kraju Asyryjczyków.
 
-common people did nothing but prowl about in bands; they sang, ate,
+Lud prosty, zarówno na północy, jak i na południu, czuł instynktowny pociąg do Ramzesa. Ale lud była to siła bierna i chwiejna. Gdy przemawiał agitator rządowy, chłopi gotowi byli uderzyć na świątynie i bić kapłanów; lecz gdy wystąpiła procesja, padali na twarze i truchleli słuchając zapowiedzi jakichś klęsk, które już w tym miesiącu groziły Egiptowi.
 
-drank, and threatened either priests or Phoenicians. In the cities all
+Przerażona szlachta i nomarchowie prawie wszyscy zjechali do Memfisu błagać faraona o ratunek przeciw buntującym się chłopom. Lecz ponieważ Ramzes XIII zalecał im cierpliwość i nie gromił pospólstwa, więc magnaci zaczęli naradzać się ze stronnictwem kapłańskim.
 
-shops were closed, and the artisans who had lost their occupation
+Prawda, że Herhor milczał albo także zalecał cierpliwość; ale inni arcykapłani dowodzili panom, że Ramzes jest szalony, i napomykali o potrzebie usunięcia go od władzy.
 
-counseled whole days over the reconstruction of Egypt. This offensive
+W samym Memfisie krążyły obok siebie dwie partie. Bezbożnicy, którzy pili, hałasowali i obrzucali błotem mury świątyń, a nawet posągi — i — pobożni, przeważnie starcy i kobiety, którzy modlili się na ulicach, głośno zapowiadając nieszczęścia i błagając bogów o ratunek. Bezbożnicy co dzień popełniali jakieś nadużycie; między pobożnymi co dzień jakiś chory lub kaleka odzyskiwał zdrowie.
 
-spectacle was no novelty, but it appeared in such threatening
+Lecz dziwna rzecz: obie partie, pomimo rozkołysanych namiętności, nie robiły sobie krzywdy, a tym mniej — nie porywały się do czynów gwałtownych. Co pochodziło stąd, że każda z nich robiła zamieszanie pod kierunkiem i według planu obmyślanego w wyższych sferach.
 
-proportions that the tax-gatherers, and even the judges began to hide,
+Faraon, nie zgromadziwszy jeszcze wszystkich wojsk i dowodów przeciw kapłanom, nie dawał hasła do stanowczego napadu na świątynie; kapłani zdawali się czekać na coś. Było jednak widoczne, że już dziś nie czują się oni tak słabymi jak w pierwszych dniach po głosowaniu delegatów. A i sam Ramzes XIII zamyślał się, gdy mu ze wszystkich stron donoszono, że chłopi kapłańscy prawie wcale nie mieszają się do zaburzeń, lecz pracują.
 
-especially as the police treated all offences of common men very
+„Co to znaczy? — sam siebie zapytywał faraon. — Czy gołe łby sądzą, że nie ośmielę się zaczepić świątyń, czyli też mają jakieś nie znane mi środki obrony?”
 
-mildly.
+Dziewiętnastego Paofi policja zawiadomiła władcę, że upłynionej nocy lud zaczął psuć mury otaczające świątynią Horusa.
 
-One thing more deserved attention: the abundance of food and wine. In
+— Kazaliście im to robić?... — spytał faraon naczelnika.
 
-dramshops and cook houses, especially of the Phoenicians, as well in
+— Nie. Rzucili się z własnego popędu.
 
-Memphis as in the provinces, whoso wished might eat and drink what he
+— Powstrzymujcie ich łagodnie... powstrzymujcie... — rzekł pan. — Za kilka dni będą mogli robić, co im się podoba. Ale teraz jeszcze niech nie występują zbyt gwałtownie...
 
-pleased at a very low price, or for nothing. It was said that his
+Ramzes XIII, jako wódz i zwycięzca znad Sodowych Jezior, wiedział, że gdy raz tłumy wyruszą do ataku, już nic ich nie powstrzyma: muszą rozbić albo zostać rozbite. Gdyby świątynie nie broniły się, pospólstwo da im radę, ale — jeżeli zechcą bronić się?...
 
-holiness was giving his people a feast which would continue a whole
+W takim wypadku lud ucieknie i trzeba na jego miejsce posłać wojska, których było wprawdzie dużo, lecz nie tyle, ile potrzeba według rachunków faraona.
 
-month in every case.
+Nadto — Hiram jeszcze nie wrócił z Pi-Bast z listami dowodzącymi zdrady Herhora i Mefresa. A co ważniejsze — przychylni faraonowi kapłani mieli dać pomoc wojsku dopiero dwudziestego trzeciego Paofi. Jakimże więc sposobem uprzedzić ich w tylu świątyniach odległych jedna od drugiej? I czy sama ostrożność nie nakazywała unikać z nimi stosunków, które mogły ich zdradzić?
 
-Because of difficult and even interrupted communication the cities were
+Z tych powodów Ramzes XIII nie życzył sobie wcześniejszego napadania świątyń przez lud.
 
-not aware of what was happening in neighboring places. Only the
+Tymczasem wbrew woli faraona wzburzenie rosło. Około świątyni Izydy zabito kilku pobożnych, którzy zapowiadali nieszczęścia dla Egiptu lub cudownym sposobem odzyskali zdrowie. Około świątyni Ptah pospólstwo rzuciło się na procesją, zbiło kapłanów i potłukło święte czółno, w którym podróżował posąg boga. Prawie współcześnie nadleciały sztafety z miast Sochem i Anu, że lud wdzierał się do świątyń, a w Cherau nawet wdarł się i znieważył miejsce najświętsze.
 
-pharaoh, or still better the priests, knew the general condition of the
+Nad wieczorem przyszła prawie ukradkiem do pałacu jego świątobliwości deputacja kapłanów. Czcigodni prorocy z płaczem upadli panu do nóg wołając, aby zasłonił bogów i świątynie.
 
-country.
+Ten wcale nieoczekiwany wypadek napełnił serce Ramzesa wielką radością, a jeszcze większą dumą. Kazał powstać delegatom i łaskawie odpowiedział, że jego pułki zawsze gotowe są bronić świątyń, byle — zostały tam wprowadzone.
 
-The position was distinguished, first of all, by a break between Upper,
+— Nie wątpię — mówił — że sami burzyciele cofną się zobaczywszy przybytki bogów zajęte przez wojsko.
 
-or Theban, and Lower, or Memphian Egypt. In Thebes partisans of the
+Delegaci wahali się.
 
-priesthood were stronger, in Memphis adherents of the pharaoh. In
+— Waszej świątobliwości wiadomo — odparł najstarszy z nich — że wojsko nie może wchodzić nawet za mur świątyń... Musimy więc zapytać o zdanie arcykapłanów...
 
-Thebes people said that Ramses XIII had gone mad, and wished to sell
+— Owszem, naradźcie się — rzekł pan. — Nie umiem robić cudów i z odległości mego pałacu nie obronię świątyń.
 
-Egypt to Phoenicians; in Memphis they explained that the priests wished
+Delegaci zasmuceni opuścili faraona, który po ich wyjściu zwołał radę poufną. Był przekonany, że kapłani poddadzą się jego woli, i ani mu przez myśl nie przeszło, że delegacja jest sztuką urządzoną przez Herhora, aby go w błąd wprowadzić.
 
-to poison the pharaoh and bring in Assyrians. The common people, as
+Gdy w komnacie królewskiej zebrali się cywilni i wojskowi dostojnicy, Ramzes pełen dumy zabrał głos.
 
-well in the north as the south, felt an instinctive attraction toward
+— Chciałem — rzekł — dopiero dwudziestego trzeciego Paofi zająć memfijskie świątynie... Uważam jednak, że lepiej będzie zrobić to jutro...
 
-the pharaoh. But the force of the people was passive and tottering.
+— Nasze wojska jeszcze nie zebrały się... — wtrącił Tutmozis.
 
-When an agitator of the government spoke, the people were ready to
+— I nie mamy listów Herhora do Asyrii — dodał wielki pisarz.
 
-attack a temple and beat priests, but when a procession appeared they
+— Mniejsza o to! — odparł faraon. — Niech lud jutro dowie się, że Herhor i Mefres są zdrajcami, a nomarchom i kapłanom okażemy dowody za parę dni, gdy wróci Hiram z Pi-Bast.
 
-fell on their faces and were timid while listening to accounts of
+— Nowy rozkaz waszej świątobliwości bardzo zmienia plan pierwotny — rzekł Tutmozis. — Jutro nie zajmiemy Labiryntu... A gdyby i w Memfis świątynie ośmieliły się stawić opór, nie mamy nawet taranów do wybicia bram...
 
-disasters which threatened Egypt in that very month of Paofi.
+— Tutmozisie — odpowiedział pan — mógłbym nie tłumaczyć się z moich rozkazów... Ale chcę przekonać was, że serce moje głębiej ocenia bieg wypadków...
 
-The terrified nobles and nomarchs had assembled at Memphis to implore
+Jeżeli lud — ciągnął — już dziś napada świątynie, to jutro zechce wedrzeć się do nich. Jeżeli go nie poprzemy, zostanie odparty, a w każdym razie za trzy dni zniechęci się do śmiałych czynów.
 
-the pharaoh for rescue from the rebelling multitude. But since Ramses
+A jeżeli kapłani już dziś wysyłają delegacją, muszą być słabi. Tymczasem za kilka dni może powiększyć się liczba ich stronników między ludem...
 
-enjoined on them patience, and did not attack the rabble, the magnates
+Zapał i strach jest jak wino w dzbanku: o ile wylewa się, o tyle go ubywa i ten tylko może się napić, kto w porę podsunie swój kubek. Gdy więc lud dziś jest przygotowany do napadu, a nieprzyjaciele wystraszeni, zużytkujmy to, gdyż, jak powiadam, szczęście za kilka dni może opuścić nas, jeżeli nie zwrócić się przeciw nam...
 
-began to take counsel with the adherents of the priesthood.
+— I żywność kończy się — wtrącił skarbnik. — Za trzy dni pospólstwo musi wracać do roboty, bo nie będziemy mieli czym karmić ich darmo...
 
-It is true that Herhor was silent, or enjoined patience also; but other
+— O, widzisz!... — mówił faraon do Tutmozisa. — Ja sam rozkazałem naczelnikowi policji, ażeby hamował pospólstwo. Lecz gdy powściągnąć go nie można, trzeba skorzystać z ruchu. Doświadczony żeglarz nie walczy z prądem ani z wiatrem, ale pozwala im unosić się w obranym przez siebie kierunku...
 
-high priests proved to the nobles that Ramses was a maniac, and hinted
+W tej chwili wszedł kurier z doniesieniem, że lud rzucił się na cudzoziemców. Napadli Greków, Syryjczyków, nade wszystko Fenicjan... Wiele sklepów zrabowano i kilku ludzi zabito.
 
-at the need of deposing him.
+— Oto dowód — zawołał oburzony władca — że tłumów nie należy sprowadzać z drogi raz wytkniętej!... Jutro niech wojska będą w pobliżu świątyń... I niech natychmiast wkraczają do nich, jeżeli lud zacznie wdzierać się tam, albo... Albo gdyby zaczął cofać się pod naciskiem...
 
-In Memphis itself two parties were facing each other. The godless who
+Prawda, że winogrona powinny być zrywane w miesiącu Paofi. Lecz czyliż jest ogrodnik, który gdyby owoce dojrzały o miesiąc wcześniej, zostawiłby je na łozach?...
 
-drank, made an uproar, threw mud at temples and even at statues, and
+Powtarzam: chciałem opóźnić ruch pospólstwa aż do ukończenia naszych przygotowań. Ale gdy odkładać tych rzeczy nie można, więc korzystajmy z gotowego wiatru i — rozepnijmy żagle!...
 
-the pious, mainly old men and women who prayed on the streets,
+Jutro Herhor i Mefres powinni być uwięzieni i przyprowadzeni do pałacu. A z Labiryntem skończymy za kilka dni.
 
-prophesied misfortune aloud and implored all the divinities for rescue.
+Członkowie rady uznali, że postanowienie faraona jest dobre, i rozeszli się podziwiając jego stanowczość i mądrość. Nawet jenerałowie oświadczyli, że lepiej korzystać z gotowej okazji aniżeli gromadzić siły na ten czas, kiedy okazja minie.
 
-The godless committed outrages daily; each day among the pious health
+Była już noc. Nadbiegł drugi kurier od Memfisu z doniesieniem, że udało się policji ochronić cudzoziemców. Ale lud jest rozjuszony i nie wiadomo, do czego posunie się jutro.
 
-returned to some sick man or cripple. But for a wonder neither party,
+Od tej chwili kurier przychodził za kurierem. Jedni przynosili wiadomości, że wielkie masy chłopstwa uzbrojonego w topory i pałki ze wszystkich stron podążają do Memfisu. Skądinąd donoszono, że lud w okolicach Peme, Sochem i On ucieka w pole krzycząc, że jutro będzie koniec świata. Inny kurier przywiózł list od Hirama, że wnet przybywa. Inny zawiadamiał o przekradaniu się pułków świątyniowych do Memfisu i co ważniejsza, że z Górnego Egiptu posuwają się mocne oddziały ludu i wojska, wrogo usposobione dla Fenicjan, a nawet dla jego świątobliwości.
 
-in spite of roused passions, worked harm on the other, and still
+„Nim tamci nadejdą — myślał faraon — ja już będę miał w rękach arcykapłanów i nawet pułki Nitagera... Spóźnili się o kilka dni!...”
 
-greater wonder neither party resorted to violence, which came from
+Donoszono wreszcie, że tu i owdzie na gościńcach wojsko schwytało przebranych kapłanów, którzy usiłowali dostać się do pałacu jego świątobliwości, zapewne z niedobrymi zamiarami.
 
-this, that each was disturbed by direction, and according to plans
+— Niech ich przyprowadzą do mnie — odparł ze śmiechem faraon. — Chcę widzieć tych, którzy ośmielili się mieć względem mnie złe zamiary!...
 
-framed in higher circles.
+Około północy czcigodna królowa Nikotris zażądała posłuchania u jego świątobliwości.
 
-The pharaoh, not having collected all his troops and all his proofs
+Dostojna pani była blada i drżąca. Kazała wyjść oficerom z królewskiej komnaty, a zostawszy sam na sam z faraonem rzekła płacząc:
 
-against the priests, did not give the order yet for a final attack on
+— Synu mój, przynoszę ci bardzo złe wróżby...
 
-the temples; the priests seemed waiting for something. It was evident,
+— Wolałbym, królowo, usłyszeć dokładne wiadomości o sile i zamiarach moich nieprzyjaciół...
 
-however, that they did not feel so weak as in the first moments after
+— Dziś wieczorem posąg boskiej Izydy w mojej modlitewni odwrócił się twarzą do ściany, a woda w świętej cysternie poczerwieniała jak krew...
 
-the voting by delegates. Ramses himself became thoughtful when men
+— To dowodzi — odparł faraon — że wewnątrz pałacu mamy zdrajców. Nie są oni jednak zbyt niebezpieczni, jeżeli umieją tylko brudzić wodę i odwracać posągi.
 
-reported from every side that people on the lands of the priests did
+— Cała nasza służba — ciągnęła pani — cały lud jest przekonany, że gdy wojska twoje wkroczą do świątyń, na Egipt spadnie wielkie nieszczęście...
 
-not mix in disturbances at all, but were working.
+— Większym nieszczęściem — rzekł pan — jest zuchwalstwo kapłanów. Wpuszczeni przez mego wiecznie żyjącego ojca do pałacu, myślą dziś, że zostali jego właścicielami... Ależ, na bogi, czymże ja w końcu zostanę wobec ich wszechmocy!... I czy nie wolno mi upomnieć się o moje królewskie prawa?...
 
-"What does this mean?" asked the pharaoh of himself. "Do the shaven
+— Przynajmniej... przynajmniej — odezwała się pani po namyśle — bądź miłosierny... Tak, prawa musisz odzyskać, ale nie pozwalaj twoim żołnierzom, aby gwałcili święte przybytki lub krzywdzili kapłanów... Pamiętaj, że łaskawi bogowie zsyłają radość na Egipt, a kapłani mimo swych błędów (któż ich nie ma!) niezrównane usługi oddają temu krajowi... Pomyśl tylko, że gdybyś ich zubożył i rozpędził, zniszczyłbyś mądrość, która nad inne ludy wywyższyła nasze państwo...
 
-heads think that I dare not touch temples, or have they means of
+Faraon wziął matkę za obie ręce, ucałował ją i śmiejąc się odparł:
 
-defense quite unknown to me?"
+— Kobiety zawsze muszą przesadzać!... Ty, matko, przemawiasz do mnie, jak gdybym był wodzem dzikich Hyksosów, a nie faraonem. Czyliż ja chcę krzywdy kapłanów?... Czy nienawidzę ich mądrości, choćby nawet tak jałowej jak śledzenie obrotu gwiazd, które i bez nas chodzą po niebie nie zbogacając nas o jednego utena?...
 
-On the 19th of Paofi a police official informed Ramses that the night
+Nie drażni mnie ich rozum ani pobożność, ale nędza Egiptu, który wewnątrz chudnie z głodu, a na zewnątrz boi się lada asyryjskich pogróżek. Tymczasem kapłani, pomimo swoją mądrość, nie tylko nie chcą mi pomagać w moich królewskich zamiarach, ale w najbezczelniejszy sposób stawiają opór.
 
-before people had begun to break the walls inclosing the temple of
+Pozwól więc, matko, abym przekonał ich, że nie oni, lecz ja jestem panem mego dziedzictwa. Nie umiałbym mścić się nad pokornymi, ale — podepczę karki zuchwalców.
 
-Horus.
+Oni wiedzą o tym, ale jeszcze nie dowierzają i — w braku sił rzeczywistych — chcą zastraszyć mnie zapowiedzią jakowychś klęsk. Jest to ich ostatnia broń i ucieczka... Gdy więc zrozumieją, że nie lękam się strachów, upokorzą się, a w takim razie nie upadnie ani jeden kamień z ich świątyń, nie ubędzie ani jeden pierścień z ich skarbców.
 
-"Did ye command them to do that?" inquired the pharaoh.
+Znam ja ich!... Dziś robią wielkie miny, bo jestem od nich daleko. Lecz gdy wyciągnę spiżową rękę, padną na twarz i — cały ten zamęt skończy się spokojem i ogólną pomyślnością.
 
-"No. They began of their own accord."
+Królowa objęła nogi władcy i wyszła ukojona zakląwszy jednak Ramzesa, aby szanował bogów i miał miłosierdzie nad ich sługami.
 
-"Restrain them mildly restrain them," said Ramses. "In a few days they
+Po odejściu matki faraon wezwał Tutmozisa.
 
-may do what they like. But now let them not act with great violence."
+— Jutro tedy — rzekł pan — wojska moje zajmą świątynie. Zapowiedz jednak pułkownikom, niech wiedzą, że wolą moją jest, aby święte przybytki były nie tknięte i aby nikt nie podnosił ręki na kapłanów...
 
-Ramses, as a leader and victor at the Soda Lakes, knew that once men
+— Nawet na Mefresa i Herhora?... — spytał Tutmozis.
 
-attack in a multitude nothing has power to restrain them; they must
+— Nawet na nich — odparł faraon. — Dość będą mieli kary, gdy usunięci z dzisiejszych stanowisk osiądą przy uczonych świątyniach, ażeby modlić się tam i badać mądrość bez przeszkód...
 
-break or be broken. Unless the temples defend themselves the multitude
+— Stanie się, jak rozkazuje wasza świątobliwość... Chociaż...
 
-will take them; but if they defend themselves? In that case the people
+Ramzes podniósł w górę palec na znak, że nie chce słuchać żadnych przedstawień. A następnie, aby zmienić temat rozmowy, rzekł z uśmiechem:
 
-will flee and there will be need to send warriors, of whom there were
+— Pamiętasz, Tutmozisie, manewry pod Pi-Bailos?... Już minęło dwa lata!... Kiedy wówczas gniewałem się na zuchwalstwo i chciwość kapłanów, czy mogłeś pomyśleć, że tak prędko zrobię z nimi rachunek?...
 
-many it is true, but not so many as would be needed, according to the'
+A biedna Sara... A mały synek mój... Jaki on był piękny...
 
-pharaoh's own reckoning. Moreover, Hiram had not returned from Pi-Bast
+Dwie łzy stoczyły się po twarzy faraona.
 
-yet with letters proving the treason of Mefres and Herhor. And what was
-
-more important, the priests who sided with the pharaoh were to assist
-
-the troops only on Paofi 23d. By what means then could he forewarn them
-
-in temples which were so numerous and so distant from one another? And
-
-did not caution itself command him to avoid relations which might
-
-betray them?
-
-For these reasons Ramses did not wish an earlier attack on the temples.
-
-Meanwhile the disturbance increased in spite of the pharaoh. Near the
-
-temple of Isis a number of pious persons were slain who predicted
-
-misfortune to Egypt, or who had recovered their health by a miracle.
-
-Near the temple of Ptah the multitude rushed on a procession, struck
-
-down the priests, and broke the holy boat in which the god was
-
-advancing. Almost at the same time messengers flew in from the cities
-
-of Sochem and Anu with news that people were breaking into the temples,
-
-and that in Cheran they had even broken in and desecrated the most holy
-
-places.
-
-Toward evening a deputation of priests came, almost by stealth, to the
-
-palace of his holiness; the revered prophets fell at his feet, weeping,
-
-crying out to him to defend the gods and their sanctuaries.
-
-This altogether unexpected event filled the heart of Ramses with great
-
-delight and still greater pride. He commanded the delegates to rise,
-
-and answered graciously that his regiments would be always ready to
-
-defend the temples when conducted into them.
-
-"I have no doubt," said he, "that the rioters themselves will withdraw
-
-when they see the dwellings of the gods occupied by the army."
-
-The delegates hesitated.
-
-"It is known to thee, holiness," answered the chief, "that the army may
-
-not enter the enclosure of a temple. We must ask, therefore, what the
-
-high priests have to say."
-
-"Very well, take counsel," answered the sovereign. "I cannot perform
-
-miracles, and I cannot defend temples from a distance."
-
-The saddened delegates left the pharaoh, who after their departure
-
-summoned a confidential council. He was convinced that the priests
-
-would yield to his will, and it did not even occur to him that the
-
-delegation itself was a trick arranged by Herhor to lead him into
-
-error.
-
-When the civil and military officials had assembled in the pharaoh's
-
-chamber Ramses began,
-
-"I thought," said he, proudly, "to occupy the temples of Memphis only
-
-on the 23d, but I consider it better to do so to-morrow."
-
-"Our troops have not assembled yet," objected Tutmosis.
-
-"And we have not Herhor's letters to Assyria," added the chief scribe.
-
-"Never mind!" answered the pharaoh. "Proclaim tomorrow that Herhor and
-
-Mefres are traitors, and we will show the nomarchs and priests the
-
-proofs three days later when Hiram returns from Pi-Bast to us."
-
-"Thy new command, holiness, will change the first one greatly," said
-
-Tutmosis. "We shall not occupy the labyrinth to-morrow. If the temples
-
-in Memphis make bold to resist, we have not even rams to break down the
-
-gates."
-
-"Tutmosis," answered the pharaoh, "I might not explain my commands, but
-
-I wish to convince thee that my heart estimates the course of events
-
-more profoundly. If people attack the temples today they will wish to
-
-break into them to-morrow. Unless we support them they will be
-
-repulsed, and will be discouraged in every case from deeds of daring.
-
-The priests send a delegation today, hence they are weak. Meanwhile the
-
-number of their adherents among the common people may be greater some
-
-days hence. Enthusiasm and fear are like wine in a pitcher; it
-
-decreases in proportion as it is poured out, and only he can drink who
-
-puts his goblet under in season. If the people are ready to attack
-
-today and the enemy is frightened, let us make use of the situation,
-
-for, as I say, luck may leave us in a few days, or may turn against
-
-us."
-
-"And provisions will be exhausted," added the treasurer. "In three days
-
-the people must return to work, for we shall not have the wherewithal
-
-to feed them."
-
-"Oh, seest thou," continued the pharaoh to Tutmosis. "I myself have
-
-commanded the chief of police to restrain the people. But it is
-
-impossible to restrain them, we must make a movement. An experienced
-
-sailor struggles neither with wind nor current, but he lets them bear
-
-him in the direction which they have taken."
-
-At this moment a courier came in with news that the people had fallen
-
-upon foreigners. They had assaulted Greeks, Assyrians, but especially
-
-Phoenicians. They had plundered many shops and slain a number of
-
-persons.
-
-"Here is proof," cried the excited pharaoh, "that we should not turn a
-
-crowd from the road it has taken. Let the troops be near the temples
-
-to-morrow, and let them march in if the people begin to burst into
-
-them, or or if they begin to withdraw under pressure.
-
-"It is true that grapes should be gathered in the month Paofi; but is
-
-there a gardener, who if his fruit were ripe a month earlier, would
-
-leave it on the vines to wither?
-
-"I repeat this: I wished to delay the movement of the people till we
-
-had finished preparations. But if it is impossible to delay, let us
-
-raise our sails and use the wind which is blowing. Ye must arrest
-
-Herhor and Mefres tomorrow and bring them to the palace. In a few days
-
-we will finish with the labyrinth."
-
-The members of the council recognized that the decision of the pharaoh
-
-was proper, and they departed admiring his promptness and wisdom. Even
-
-generals declared that it was better to use the occasion at hand than
-
-to have forces ready when the time had passed in which to use them.
-
-It was night. Another courier rushed in from Memphis with information
-
-that the police had been able to protect foreigners, but that the
-
-people were excited and it was unknown what they might attempt on the
-
-morrow.
-
-Thenceforth courier arrived after courier. Some brought news that a
-
-great mass of men armed with clubs and axes were moving toward Memphis
-
-from every direction. From somewhere else information came that people
-
-in the region of Peme, Sochem, and On, were fleeing to the fields and
-
-crying that the end of the world would come the day following.
-
-Another courier brought a letter from Hiram that he would arrive very
-
-soon. Another announced the stealthy advance of temple regiments to
-
-Memphis, and, what was more important, that from Upper Egypt were
-
-moving strong divisions of people and troops hostile to the
-
-Phoenicians, and even to his holiness.
-
-"Before they arrive," thought the pharaoh, "I shall have the high
-
-priests in my hands and even the regiments of Nitager now some days
-
-late in arriving."
-
-Finally information was brought that troops had seized here and there
-
-on the highways, disguised priests who were trying to reach the palace
-
-of his holiness, no doubt with evil purpose.
-
-"Bring them here," answered Ramses, laughing. "I wish to see men who
-
-dare to form evil plans against the pharaoh."
-
-About midnight the revered queen, Niort's, desired an audience of his
-
-holiness.
-
-The worthy lady was pale and trembling. She commanded the officers to
-
-leave the pharaoh's chamber, and when alone with her son she said,
-
-weeping,
-
-"My son, I bring thee very bad omens."
-
-"I should prefer, queen, to hear accurate information of the strength
-
-and intention of my enemies."
-
-"This evening the statue of the divine Isis in my chapel turned its
-
-face to the wall, and water became blood-red in the sacred cistern."
-
-"That proves," replied the pharaoh, "that there are traitors in the
-
-palace. But they are not very dangerous if they are able only to defile
-
-water and turn statues back forward."
-
-"All our servants," continued the queen, "all the people are convinced
-
-that if thy army enters the temples, great misfortune will fall upon
-
-Egypt."
-
-"A greater misfortune," said the pharaoh, "is the insolence of the
-
-priesthood. Admitted by my ever-living father to the palace, they think
-
-today that they have become its owners. But by the gods, what shall I
-
-become at last in presence of their all-mightiness? And shall I not be
-
-free to claim my rights as a sovereign?"
-
-"At least at least," said the lady after a while, "be gracious. Yes,
-
-Thou must claim thy rights, but do not permit thy soldiers to violate
-
-holy places and do injustice to the priesthood. Remember that the
-
-gracious gods send down delight on Egypt, and the priests in spite of
-
-their errors (who is without them) have rendered incomparable services
-
-to this country. Only think, if Thou shouldest impoverish and dismiss
-
-them, Thou wouldst destroy wisdom which has raised our kingdom above
-
-all others."
-
-The pharaoh took his mother by both hands, kissed her, and replied,
-
-smiling,
-
-"Women must always exaggerate. Thou art speaking to me, mother, as if I
-
-were the chief of wild Hyksos, and not a pharaoh. Do I wish injustice
-
-to the priests? Do I hate their wisdom, even such barren wisdom as that
-
-of investigating the course of the stars which move in the heavens
-
-without our aid, and do not enrich us one uten? Neither their wisdom
-
-nor their piety troubles me, but the wretchedness of Egypt, which
-
-within is growing weak from hunger, and without is afraid of any threat
-
-from Assyria. Meanwhile the priests, in spite of their wisdom, not
-
-merely do not wish to help me in my measures, but they present
-
-resistance in the most dangerous manner.
-
-"Let me, mother, convince them that not they, but I am the master of my
-
-own heritage. I should not be able to take revenge on the submissive,
-
-but I will trample on the necks of the insolent.
-
-"They know this, but still do not trust, and with a lack of real power
-
-they wish to frighten me by declaring some misfortune. That is their
-
-last resource and weapon. When they understand that I do not fear their
-
-terrors they will submit. And then not a stone will fall from their
-
-temples, or one ring be lost from their treasures.
-
-"I know those men! Today they put on a great front, for I am far from
-
-them. But when I stretch out a bronze fist they will fall on their
-
-faces, and all this confusion will end in general prosperity and
-
-contentment."
-
-The queen embraced his feet and went out comforted, imploring him,
-
-however, to respect the gods and spare their servants.
-
-After the departure of his mother he summoned Tutmosis.
-
-"Tomorrow," said the pharaoh, "my troops will occupy the temples. But
-
-tell the commanders of regiments, let them know that it is my will,
-
-that the holy places must be inviolate, and that no one is to raise a
-
-hand on any priest in Egypt."
-
-"Even on Mefres and Herhor?" inquired Tutmosis.
-
-"Even on them. They will be punished enough when they are put out of
-
-their present positions; they will live in learned temples to pray and
-
-investigate wisdom without hindrance."
-
-"It will be as Thou commandest, holiness though."
-
-Ramses raised his finger in sign that he did not wish to hear
-
-arguments. And then, to change the conversation, he said, with a smile,
-
-"Dost Thou remember, Tutmosis, the maneuvers at Pi-Bailos? Two years
-
-have passed. When I was angry then at the insolence and greed of the
-
-priests, couldst Thou think that I should reckon with them so early?
-
-But poor Sarah and my little son. How beautiful he was!"
-
-Two tears rolled down the pharaoh's cheeks.
-
-"Indeed, if I were not a son of the gods, who are magnanimous and
-
-merciful, my enemies would pass through grievous hours to-morrow. How
-
-many humiliations have they put on me! How often have my eyes grown
-
-dark from weeping!"
+— Zaprawdę — mówił — gdybym nie był synem bogów, którzy są litościwi i wspaniałomyślni, wrogowie moi przeżyliby jutro ciężkie godziny... Ile oni zadali mi upokorzeń... Ile razy płacz zaćmiewał mi oczy z ich winy!...

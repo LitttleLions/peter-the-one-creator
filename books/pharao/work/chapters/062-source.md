@@ -1,763 +1,262 @@
-# Kapitel 62: CHAPTER LXII
+# Kapitel 062: Tom III - Rozdział XIII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part70.xhtml*
 
 <!-- status: pending -->
 
-IN the beginning of the month Paofi (July, August) the pharaoh, Queen
+W początkach miesiąca Paofi (lipiec — sierpień) jego świątobliwość, królowa Nikotris i dwór powrócili z Tebów do pałacu pod Memfisem.
 
-Niort's, and the court returned from Thebes to the palace at Memphis.
+Przy końcu podróży, która i tym razem odbywała się Nilem, Ramzes XIII często wpadał w zamyślenie, a raz rzekł do Tutmozisa:
 
-Toward the end of the journey, which took place on the Nile this time
+— Spostrzegam dziwny objaw... Lud gromadzi się na obu brzegach tak gęsto, a może nawet gęściej niż wówczas, gdyśmy płynęli w tamtą stronę. Ale okrzyki są znacznie słabsze, czółen jedzie za nami mniej i kwiatów rzucają skąpo...
 
-also, Ramses fell into meditation often, and said once to Tutmosis,
+— Boska prawda płynie z ust twoich, panie — odparł Tutmozis. — Istotnie lud wygląda, jakby był zmęczony, co jednak pochodzi ze strasznych upałów...
 
-"I notice a strange thing. The people assemble on both banks as
+— Mądrze powiedziałeś!... — pochwalił go faraon i rozjaśnił oblicze.
 
-numerously, and perhaps even more so than they did when we sailed up
+Ale Tutmozis nie wierzył własnym słowom. On czuł, a co gorsze, czuł cały orszak królewski, że masy ludu nieco ochłodły w miłości swej do pana.
 
-the river, but their shouts are far weaker, boats follow us in smaller
+Czy był to skutek wieści o nieszczęsnej chorobie Ramzesa, czy jakich innych praktyk? Tutmozis nie wiedział. Był jednak pewny, że na to ochłodnięcie wpłynęli kapłani.
 
-numbers, and flowers are thrown from them stingily."
+„Oto głupi motłoch! — myślał nie hamując w swym sercu pogardy. — Niedawno tonęli, byle tylko ujrzeć oblicze jego świątobliwości, a dziś żałują krzyku... Czyby już zapomnieli i o siódmym dniu odpoczynku, i o ziemi na własność?...”
 
-"Divine truth flows from thy lips, lord," replied Tutmosis. "Indeed the
+Natychmiast po przyjeździe do pałacu faraon wydał rozkaz zgromadzenia delegatów, którzy mieli postanowić o naruszeniu skarbów Labiryntu. Jednocześnie polecił oddanym sobie urzędnikom i policji, aby rozpoczęto agitacją przeciw kapłanom i za siódmym dniem odpoczynku.
 
-people look wearied, but great heat is the cause of that.'?
+Niebawem znowu zaczęło w Dolnym Egipcie wrzeć jak w ulu. Chłopi upominali się nie tylko o święta, ale i o płacenie im gotówką za roboty publiczne. Rzemieślnicy w szynkach i na ulicach złorzeczyli kapłanom, którzy chcą ograniczyć świętą władzę faraona. Liczba przestępstw wzrosła, ale przestępcy nie chcieli odpowiadać przed sądem. Pisarze spokornieli i żaden nie śmiał uderzyć człowieka prostego wiedząc, że spotka się z odwetem. Do świątyń rzadziej składano ofiary, bogi pilnujące granic nomesów coraz częściej były obrzucane kamieniami i błotem, a nawet obalane.
 
-"Thou speakest wisely," said the pharaoh in praise, and his face
+Strach padł na kapłanów, nomarchów i ich popleczników. Na próżno sędziowie ogłaszali na rynkach i gościńcach, że według starych praw rolnik i rzemieślnik, a nawet kupiec, nie powinien zajmować się plotkami, które odciągają go od pracy chlebodajnej; pospólstwo bowiem wśród śmiechu i krzyku obrzucało woźnych zgniłymi jarzynami i pestkami daktylów.
 
-brightened.
+Wówczas arystokracja zaczęła gromadzić się w pałacu i leżąc u nóg faraona błagać go o ratunek.
 
-But Tutmosis did not believe his own words. He felt, and what was worse
+— Jesteśmy — wołali — jakby ziemia rozpadała się pod naszymi stopami... jakby świat kończył się!... Żywioły są zmieszane, umysły w rozterce i jeżeli nie uratujesz nas ty, panie, godziny życia naszego są policzone!...
 
-the whole retinue felt, that the masses of men had grown somewhat cool
+— Mój skarb jest pusty, armia nieliczna, policja od dawna nie widzi żołdu — odparł faraon. — Jeżeli więc chcecie mieć trwały spokój i bezpieczeństwo, musicie dostarczyć mi funduszów.
 
-in their love for the pharaoh. Whether this came from tales of the
+Ponieważ jednak moje królewskie serce trapi wasz niepokój, wiec zrobię, co będę mógł, i mam nadzieję, że uda mi się przywrócić porządek.
 
-unfortunate illness of the sovereign, or from new intrigues, Tutmosis
+Jakoż jego świątobliwość nakazał ściągnąć wojska i ustawić je w najważniejszych punktach kraju. Jednocześnie posłał rozkaz do Nitagera, aby ten zostawił granicę wschodnią swemu pomocnikowi, a sam z pięcioma najlepszymi pułkami maszerował do Memfisu.
 
-knew not; he felt certain, however, that the priests had had influence
+Tak czynił pan, nie tyle dla osłonienia arystokracji przed pospólstwem, ile dlatego, ażeby mieć pod ręką duże siły na wypadek, gdyby arcykapłani podburzyli Górny Egipt i pułki należące do świątyń.
 
-in producing that coolness.
+Dziesiątego Paofi w zamku królewskim i jego okolicach zapanował wielki ruch. Zebrali się delegaci mający przyznać faraonowi prawo czerpania ze skarbu w Labiryncie tudzież — mnóstwo ludzi, którzy chcieli przynajmniej patrzeć na miejsce, gdzie odbywała się niezwykła w Egipcie uroczystość.
 
-"That is a stupid rabble," thought he, not restraining the contempt in
+Procesja delegatów zaczęła się z rana. Przodem szli nadzy chłopi w białych czepcach i opaskach; każdy miał w ręku grubą płachtę dla okrycia grzbietu w obecności faraona. Za nimi posuwali się rzemieślnicy, ubrani jak chłopi, od których różnili się nieco cieńszymi płachtami i wąziutkimi fartuszkami pokrytymi różnobarwnym haftem.
 
-his heart. "A short time ago they were drowning just to look at the
+Następowali kupcy, niektórzy w perukach, wszyscy w długich koszulach i pelerynach. Tu już można było widzieć na rękach i nogach bogate bransolety, a na palcach pierścienie. Potem szli oficerowie w czepcach i kaftanach w pasy: czarne i żółte, niebieskie i białe, niebieskie i czerwone. Dwaj, zamiast kaftanów, mieli na piersiach mosiężne półpancerze.
 
-face of his holiness, and today they are sparing their voices. Have
+Po dłuższej przerwie ukazało się trzynastu szlachty w wielkich perukach i białych szatach do ziemi. Za nimi sunęli nomarchowie w szatach oblamowanych purpurową taśmą i w koronach na głowie. Pochód zamykali kapłani z ogolonymi głowami i twarzami, w panterczych skórach przez plecy.
 
-they forgotten the seventh day for rest, or the land as property?"
+Delegaci weszli do wielkiej sali pałacu faraonów, gdzie stało siedem ław jedna za drugą: najniższa dla chłopów, najwyższa dla stanu kapłańskiego.
 
-Immediately after his arrival at the palace the pharaoh issued an order
+Niebawem ukazał się, niesiony w lektyce, jego świątobliwość Ramzes XIII, wobec którego delegaci upadli na ziemię. Gdy pan obu światów zasiadł na wysokim tronie, pozwolił wstać i zająć miejsce na ławach swoim wiernym poddanym. Po czym weszli i siedli na niższych tronach arcykapłani Herhor, Mefres i — dozorca Labiryntu ze szkatułką w rękach. Świetny orszak jenerałów otoczył faraona, poza którym dwaj wyżsi urzędnicy stanęli z wachlarzami z piór pawich.
 
-to assemble delegates. At the same time he commanded officials devoted
+— Prawowierni Egipcjanie! — odezwał się władca obu światów. — Wiadomo wam, że mój dwór, moje wojsko i moi urzędnicy znajdują się w potrzebie, której zubożały skarb wydołać nie może. O wydatkach na moją świętą osobę nie mówię, gdyż jadam i ubieram się jak żołnierz, a każdy jenerał lub wielki pisarz ma więcej służby i kobiet aniżeli ja.
 
-to him, and also the police, to begin an agitation against the priests
+Między zebranymi odezwał się szmer potakujący.
 
-and in favor of rest on the seventh day from labor.
+— Dotychczas było we zwyczaju — ciągnął Ramzes — że gdy skarb potrzebował funduszów, nakładało się większe podatki na pracujące pospólstwo. Ja jednak, który znam mój lud i jego nędzę, nie tylko nie chciałbym go na nowo obciążać, ale jeszcze rad bym udzielić mu pewnych ulg...
 
-Soon there was a buzzing in Lower Egypt as in a beehive. The common
+— Żyj wiecznie, panie nasz! — zawołano z kilku niższych ławek.
 
-people claimed not only a day for repose, but payment for public labor.
+— Na szczęście dla Egiptu — mówił faraon — państwo nasze ma skarby, za pomocą których można podźwignąć armią, wynagrodzić urzędników, obdarzyć lud, a nawet spłacić wszystkie długi, jakie winniśmy bądź świątyniom, bądź Fenicjanom. Skarb ten, zebrany przez pełnych chwały przodków moich, leży w piwnicy Labiryntu. Lecz może być naruszony tylko wówczas, jeżeli wy wszyscy, prawowierni, jak jeden mąż, uznacie, że Egipt jest w potrzebie, a ja, pan, mam prawo rozporządzać skarbami moich poprzedników...
 
-Artisans in inns and on the streets abused the priests for wishing to
+— Uznajemy!... Błagamy, ażebyś wziął, panie, ile potrzeba!... — wołano ze wszystkich ław.
 
-limit the sacred power of the pharaoh. The number of offenders
+— Dostojny Herhorze — zwrócił się do niego władca — czy święty stan kapłański ma coś do powiedzenia w tej sprawie?...
 
-increased, but criminals would not appear before any court. Scribes
+— Bardzo niewiele — odparł arcykapłan powstając. — Według odwiecznych praw skarb Labiryntu może być tylko wówczas naruszony, gdyby państwo nie posiadało żadnych innych środków... Ale dziś tak nie jest. Gdyby bowiem rząd zmazał wierzytelności fenickie powstałe z niegodziwej lichwy, nie tylko napełniłby się skarb waszej świątobliwości, ale i pospólstwo, dziś pracujące dla Fenicjan, odetchnęłoby w swym ciężkim trudzie...
 
-grew timid, and no one dared strike a common man, knowing that he would
+Na ławach delegatów znowu odezwał się szmer przychylny.
 
-avenge himself. No one brought offerings to a temple. Stones and mud
+— Pełna mądrości jest rada twoja, święty mężu — rzekł spokojnie faraon — ale niebezpieczna. Gdyby mój skarbnik, dostojni nomarchowie i szlachta raz nauczyli się przekreślać cudze należności, dziś nie zapłaciliby długów Fenicjanom, a jutro mogliby zapomnieć o długach należnych faraonowi i świątyniom. Kto mi zaś powie, czy i pospólstwo, zachęcone przykładem wielkich, nie pomyśli, że i ono ma prawo zapomnieć o swoich obowiązkach względem nas?...
 
-were hurled more and more frequently at the gods guarding boundaries,
+Cios był tak silny, że najdostojniejszy Herhor aż pochylił się na swoim krześle i — umilkł.
 
-and at times these gods were thrown down even. Fear fell on priests and
+— A ty, najwyższy dozorco Labiryntu, chcesz co nadmienić? — spytał faraon.
 
-nomarchs as well as their adherents. In vain did judges announce on the
+— Mam tu szkatułkę — odparł — z białymi i czarnymi kamykami. Każdy delegat otrzyma obie gałki i jedną z nich rzuci do dzbana. Kto chce, abyś wasza świątobliwość naruszył skarbiec Labiryntu, włoży czarny kamyk; kto woli, ażeby nie tykano własności bogów, położy biały.
 
-highroads and squares that, according to ancient laws, laborers,
+— Nie zgadzaj się, panie, na to — szepnął skarbnik do władcy. — Niech raczej każdy delegat jasno powie: co ma w swej duszy?...
 
-artisans, and even merchants were not to busy themselves with politics
+— Uszanujmy dawne zwyczaje — wtrącił Mefres.
 
-which withdrew them from bread-giving labor. The crowd, amid shouts and
+— Owszem, niech rzucają kamyki do dzbana — rozstrzygnął pan. — Serce moje jest czyste, a zamiary niezłomne.
 
-laughter, hurled rotten vegetables and date skins at heralds.
+Święci Mefres i Herhor zamienili spojrzenia.
 
-Meanwhile the most powerful gathered at the palace, and, prostrate
+Nadzorca labiryntu, w asystencji dwu jenerałów, zaczął obchodzić ławy i wręczać delegatom po dwa kamyki: czarny i biały. Biedacy z pospólstwa byli bardzo zmieszani widząc przed sobą tak wielkich dostojników. Niektórzy chłopi upadali na ziemię, nie śmieli brać gałek i z wielką trudnością pojmowali, że mogą rzucić do dzbana tylko jeden kamyk: czarny lub biały.
 
-before the pharaoh, begged for deliverance.
+— Ja przecie chciałbym dogodzić i bogom, i jego świątobliwości... — szeptał stary pastuch.
 
-"We are," cried they, "as if the ground were opening under us, and as
+W końcu udało się dostojnikom wytłumaczyć, a chłopom zrozumieć: czego od nich żądano. I zaczęło się oddawanie głosów. Każdy delegat przychodził do dzbana i wpuszczał swój kamyk w taki sposób, że inni nie widzieli, jakiej barwy gałkę rzuca.
 
-if the world were nearing its end! The elements are in confusion, men's
+Przez ten czas wielki skarbnik klęcząc za tronem szeptał do władcy:
 
-minds are vexed, and if thou, lord, wilt not rescue us, our days are
+— Wszystko zgubione!... Gdyby głosowali jawnie, mielibyśmy jednomyślność, ale teraz, bodaj mi ręka uschła, jeżeli w dzbanie nie znajdzie się ze dwadzieścia białych kamyków!...
 
-numbered."
+— Uspokój się, wierny sługo — z uśmiechem odparł Ramzes. — Mam pod ręką więcej pułków, aniżeli będzie głosów przeciw nam.
 
-"My treasury is empty, the army not numerous, the police have seen no
+— Ale po co to?... po co?... — wzdychał skarbnik. — Przecież bez jednomyślności nie otworzą nam Labiryntu...
 
-salary this long time," replied the pharaoh. "If ye wish enduring peace
+Ramzes wciąż uśmiechał się.
 
-and safety ye must find funds for me. But since my heart is troubled by
+Skończyła się procesja delegatów. Nadzorca Labiryntu podniósł dzban i jego zawartość wysypał na złotą tacę.
 
-your fear I will do what I can, and I hope to restore order."
+Na dziewięćdziesięciu jeden głosujących było osiemdziesiąt trzy kamyków czarnych, a tylko osiem białych.
 
-In fact his holiness gave command to concentrate troops and dispose
+Jenerałowie i urzędnicy struchleli, arcykapłani patrzyli na zgromadzenie z triumfem, ale wnet ogarnął ich niepokój; Ramzes bowiem miał wesołą fizjognomię.
 
-them at the most important points in the kingdom. At the same time he
+Nikt nie śmiał oznajmić głośno, że projekt jego świątobliwości upadł. Lecz faraon odezwał się z całą swobodą:
 
-ordered Nitager to leave the eastern boundary to his assistant, and
+— Prawowierni Egipcjanie, dobrzy słudzy moi! Spełniliście mój rozkaz i łaska moja jest z wami. Przez dwa dni będziecie gośćmi mojego domu. Gdy zaś otrzymacie podarunki, wrócicie do swoich rodzin i zajęć. Pokój z wami i błogosławieństwo.
 
-come himself with five chosen regiments to Memphis. This he did not so
+To powiedziawszy pan opuścił salę wraz ze świtą, zaś arcykapłani Herhor i Mefres z trwogą spojrzeli po sobie.
 
-much to protect aristocrats from common people as to have at hand
+— On wcale nie zmartwił się — szepnął Herhor.
 
-strong forces in case the high priests incited to rebellion Upper Egypt
+— A mówiłem, że jest to wściekłe zwierzę!... — odparł Mefres. On nie cofnie się przed gwałtem i jeżeli go nie uprzedzimy...
 
-and the troops attached to temples.
+— Bogowie obronią nas i swoje przybytki...
 
-On Paofi 10 there was a great movement in the palace and about it. The
+Wieczorem w komnacie Ramzesa XIII zgromadzili się najwierniejsi jego słudzy: wielki skarbnik, wielki pisarz, Tutmozis i Kalipos, naczelny wódz Greków.
 
-delegates who were to recognize the pharaoh's right to the treasures in
+— O panie — jęknął skarbnik — dlaczego nie uczyniłeś jak twoi wiecznie żyjący przodkowie?... Gdyby delegaci głosowali jawnie, już mielibyśmy prawo do skarbu w Labiryncie!...
 
-the labyrinth had assembled, also a multitude of men who wished at
+— Prawdę mówi jego dostojność — wtrącił wielki pisarz.
 
-least to look at the place of a solemnity rare in Egypt.
+Faraon potrząsnął głową.
 
-The procession of delegates began in the morning. In front went naked
+— Mylicie się. Choćby cały Egipt krzyknął: oddajcie skarbowi fundusze Labiryntu! arcykapłani nie oddadzą...
 
-earth-tillers wearing white caps and girdles; each held in his hand a
+— Więc po co zaniepokoiliśmy ich zwołaniem delegatów?... Ten królewski czyn bardzo wzburzył i rozzuchwalił pospólstwo, które jest dzisiaj jak wzbierająca woda...
 
-piece of coarse cloth to cover his back in presence of the pharaoh.
+— Nie lękam się przyboru — rzekł pan. — Moje pułki będą dla niego groblami... Mam zaś oczywistą korzyść z delegacji, które mi pokazały niemoc przeciwników: osiemdziesiąt trzy kamyki za nami, osiem za nimi!... Znaczy to, że gdy oni mogą liczyć na jeden korpus, ja na dziesięć...
 
-Next advanced artisans dressed like the earth-tillers, from whom they
+Nie oddawajcie się złudzeniom — ciągnął faraon. — Między mną i arcykapłanami już zaczęła się wojna. Oni są fortecą, którą wezwaliśmy do poddania się. Odmówili, więc musimy przypuścić szturm.
 
-differed in wearing finer cloth and narrow aprons covered with parti-
+— Żyj wiecznie!... — zawołali Tutmozis i Kalipos.
 
-colored embroidery. Third came merchants, some in wigs, all in long
+— Rozkazuj, panie — rzekł wielki pisarz.
 
-tunics and pelerines. Among them were some who had rich bracelets on
+— A oto moja wola — mówił Ramzes. — Ty, skarbniku, rozdasz sto talentów między policję, oficerów robotniczych i sołtysów w nomesach: Seft, Neha-chent, Neha-pechu, Sebt-Het, Aa, Ament, Ka... W tych samych miejscach wydasz szynkarzom i oberżystom, jęczmień, pszenicę, i wino, jakie jest pod ręką, aby pospólstwo miało darmo żywność i jadło. Uczynisz to natychmiast, aby do dwudziestego Paofi zapasy były, gdzie trzeba.
 
-their arms and legs, and rings on their fingers.
+Skarbnik schylił się do ziemi.
 
-Next appeared officers in caps and wearing coats with girdles which
+— Ty, pisarzu, napisz i każ jutro ogłosić na ulicach stolic nomesów, że barbarzyńcy z pustyni zachodniej wielkimi siłami chcą napaść boską prowincję Fayum...
 
-were black and yellow, blue and white, blue and red. Two instead of
+Ty, Kaliposie, wyślesz cztery greckie pułki na południe. Dwa staną pod Labiryntem, dwa posuną się aż do Hanes. Gdyby milicja kapłańska szła od Tebów, odepchniecie ją i nie dopuścicie do Fayumu. A gdy lud, oburzony na kapłanów, zagrozi Labiryntowi, twoi Grecy niech go zajmą...
 
-coats had bronze breastplates. After a long interval appeared thirteen
+— A gdyby dozorcy zamku oparli się? — wtrącił Kalipos.
 
-nobles, wearing immense wigs and white robes which reached the
+— Byłby to bunt — odrzekł faraon i mówił dalej: — A ty, Tutmozisie, wyślesz trzy pułki do Memfisu i ustawisz je w pobliżu świątyń: Ptah, Izydy i Horusa. Gdy wzburzony lud zechce je szturmować, pułkownicy otworzą sobie bramy, nie dopuszczą pospólstwa do miejsc świętych i zabezpieczą osoby arcykapłanów od zniewagi.
 
-pavement. After them advanced nomarchs in robes bordered with a purple
+I w Labiryncie, i w memfijskich świątyniach znajdą się kapłani, którzy wyjdą naprzeciw wojska z zielonymi gałązkami. Pułkownicy zapytają mężów tych o hasło i będą radzić się ich...
 
-stripe, and on their heads were coronets. The procession was closed by
+— A jeżeli kto ośmieli się stawić opór? — spytał Tutmozis.
 
-priests with shaven heads, and wearing panther skins over their
+— Tylko buntownicy nie spełnią rozkazów faraona — odparł Ramzes.
 
-shoulders.
+— Świątynie i Labirynt muszą być zajęte przez wojska dwudziestego trzeciego Paofi — ciągnął faraon, zwracając się do wielkiego pisarza. — Lud zatem zarówno w Memfis, jak i w Fayum może zbierać się już osiemnastego, z początku małymi garściami, potem coraz liczniej. Gdyby więc około dwudziestego zaczęły się drobne rozruchy, już nie należy im przeszkadzać. Szturmować jednak do świątyń mogą dopiero w dniach dwudziestym drugim i dwudziestym trzecim. A gdy wojsko zajmie te punkta, wszystko musi uspokoić się.
 
-The delegates entered the great hall of the pharaoh's palace where
+— Czy nie lepiej byłoby natychmiast uwięzić Herhora i Mefresa? — zapytał Tutmozis.
 
-there were seven benches, one behind another, the highest for priests,
+— Po co?... Mnie nie chodzi o nich, tylko o świątynie i Labirynt, do zajęcia których wojsko nie jest jeszcze gotowe. Zresztą Hiram, który przejął listy Herhora do Asyryjczyków, wróci dopiero około dwudziestego... Więc dopiero w dniu dwudziestym pierwszym Paofi będziemy mieli w rękach dowody, że arcykapłani są zdrajcami, i ogłosimy to ludowi.
 
-the lowest for earth-tillers.
+— Zatem mam jechać do Fayum?... — spytał Kalipos.
 
-Soon appeared in a litter his holiness, Ramses XIII, before whom the
+— O nie. Ty i Tutmozis zostaniecie przy mnie z wyborowymi pułkami... Trzeba mieć przecie rezerwy na wypadek, gdyby arcykapłani odciągnęli od nas część ludu.
 
-delegates fell on their faces. When the lord of both worlds had taken
+— Nie lękasz się, panie, zdrady? — spytał Tutmozis.
 
-his seat on a lofty throne, he permitted his faithful subjects to rise
+Faraon niedbale machnął ręką.
 
-and occupy their places.  Now Herhor, Mefres, and the overseer of the
+— Zdrada ciągle sączy się jak woda z pękniętej beczki. Jużci arcykapłani trochę odgadują moje zamiary, a i ja znam ich chęci... Ponieważ jednak uprzedziłem ich w gromadzeniu sił, więc już będą słabsi. W ciągu kilkunastu dni nie formuje się pułków...
 
-labyrinth, the latter carrying a box, entered and took their seats on
+— A czary?... — spytał Tutmozis.
 
-lower thrones. A brilliant suite of generals surrounded the pharaoh,
+— Nie ma czarów, których by nie rozproszył topór!... — zawołał śmiejąc się Ramzes.
 
-behind whom stood two high officials with fans of peacock feathers.
+Tutmozis chciał w tej chwili opowiedzieć faraonowi o praktykach arcykapłanów z Lykonem. Ale i tym razem powstrzymała go uwaga, że gdy pan bardzo rozgniewa się, utraci spokój, który dziś robi go potężnym.
 
-"Truth-believing Egyptians," said the ruler of both worlds, "it is
+Wódz przed bitwą nie może myśleć o niczym, tylko o bitwie. A na sprawę Lykona będzie czas, gdy kapłani znajdą się w więzieniu.
 
-known to you that my court, my army, and my officials are in such need
+Na znak jego świątobliwości Tutmozis został w komnacie, trzej zaś inni dygnitarze złożywszy panu niskie ukłony wyszli.
 
-that the impoverished treasury cannot overcome it. Of expenses
+— Nareszcie — westchnął wielki pisarz, gdy ze skarbnikiem znaleźli się w przedsionku — nareszcie skończy się władza ogolonych łbów...
 
-concerning my sacred person I speak not, since my food and dress are
+— Zaprawdę jest czas — dodał skarbnik. — Przez dziesięć lat ostatnich lada prorok więcej znaczył aniżeli nomarcha Tebów albo Memfisu.
 
-like those of a warrior; any general or chief scribe has more servants
+— Ja myślę, że Herhor po cichu gotuje sobie czółenko, ażeby uciec przed dwudziestym trzecim Paofi — wtrącił Kalipos.
 
-and women than I have."
+— Co mu będzie! — rzekł pisarz. — Jego świątobliwość, dziś groźny, przebaczy im, gdy się upokorzą...
 
-Among those assembled a murmur of assent was heard.
+— A nawet za wstawieniem się królowej Nikotris zostawi im majątki — dopełnił skarbnik. — W każdym razie nastanie w państwie jakiś ład, którego już zaczynało braknąć.
 
-"Hitherto the custom has been," continued the pharaoh, "that when the
+— Zdaje mi się tylko, że jego świątobliwość zbyt wielkie robi przygotowania — mówił pisarz. — Ja bym wszystko zakończył greckimi pułkami, nie tykając pospólstwa...
 
-treasury needs funds, greater taxes are imposed on working people. I,
+— Młody... lubi ruch, hałas... — dorzucił skarbnik.
 
-who know my people and their needs, not only do not wish to add
+— Jak to widać, że nie jesteście żołnierzami! — odezwał się Kalipos. — Kiedy chodzi o walkę, trzeba zgromadzić wszystkie siły, bo zawsze znajdą się niespodzianki.
 
-burdens, but would gladly lessen those which they now bear."
+— Zapewne, gdybyśmy nie mieli za sobą pospólstwa — odparł pisarz. — A tak, co może zdarzyć się nieoczekiwanego?... Bogowie nie zejdą bronić Labiryntu.
 
-"Our lord, may Thou live through eternity!" said some from the lowest
+— Tak mówisz, wasza dostojność, bo jesteś spokojny — rzekł Kalipos — bo wiesz, że naczelny wódz czuwa i wszystko stara się przewidzieć. Inaczej może cierpłaby ci skóra.
 
-benches.
+— Nie widzę niespodzianek — upierał się pisarz. — Chyba arcykapłani znowu rozpuszczą wieść, że faraon oszalał...
 
-"Happily for Egypt," said the pharaoh, "our kingdom has treasures
+— Będą oni probowali różnych sztuk — wtrącił ziewając wielki skarbnik — ale zaprawdę sił im nie starczy... W każdym razie dziękuję bogom, że postawili mnie w królewskim obozie... No, idźmy spać...
 
-through which we may improve the army, pay officials, help the people,
+Po wyjściu dostojników z komnaty faraona Tutmozis w jednej ze ścian otworzył drzwi ukryte i wprowadził Samentu. Pan przyjął Setowego arcykapłana z wielką radością, podał do ucałowania rękę i uścisnął mu głowę.
 
-and even pay all debts which we owe either to the temples or
+— Pokój tobie, dobry sługo — rzekł władca. — Co przynosisz?...
 
-Phoenicians. These treasures, collected by my glorious ancestors, are
+— Byłem dwa razy w Labiryncie — odparł kapłan.
 
-lying in the vaults of the labyrinth. But they can be taken only if all
+— I już znasz drogę?...
 
-you right believers recognize as one man that Egypt is in need, and I,
+— Znałem ją dawniej, ale teraz odkryłem jedną rzecz. Skarbiec może się zapaść, pozabijać ludzi i zniszczyć klejnoty, które są największym bogactwem...
 
-your lord, have the right to dispose of the treasures of my ancestors."
+Faraon zmarszczył brwi.
 
-"We recognize! We entreat thee to take what is needed!" was the answer
+— Dlatego — ciągnął Samentu — wasza świątobliwość raczy przygotować kilkunastu ludzi pewnych. Z nimi wejdę do Labiryntu w nocy poprzedzającej szturm i obsadzę komnaty, które sąsiadują ze skarbcem... Osobliwie górną...
 
-from all benches.
+— Wprowadzisz ich?...
 
-"Worthy Herhor," said the ruler, turning to him, "has the sacred
+— Tak. Chociaż pójdę do Labiryntu jeszcze raz sam i ostatecznie sprawdzę: czy nie uda mi się zapobiec ruinie bez cudzej pomocy? Ludzie, choćby najwierniejsi, są niepewni, a wprowadzanie ich może zwrócić uwagę tych psów dozorujących...
 
-priestly order aught to say in this question?"
+— Jeżeli cię już nie śledzą... — wtrącił faraon.
 
-"Very little," answered the high priest rising. "According to ancient
+— Wierz mi, panie — odparł kapłan kładąc rękę na piersiach — że aby mnie wyśledzić, trzeba by cudu. Ich zaślepienie jest prawie dziecinne. Czują już bowiem, że ktoś chce wedrzeć się do Labiryntu, lecz głupcy podwajają straże przy widocznych furtkach. Tymczasem ja sam, w ciągu miesiąca, poznałem trzy wejścia ukryte, o których oni zapomnieli czy może zgoła nie wiedzą. Chyba jaki duch mógłby ich ostrzec, że chodzę po Labiryncie, albo wskazać komnatę, w której będę. Między trzema tysiącami komnat i korytarzy jest to niemożliwe.
 
-laws the treasure of the labyrinth may be touched only when the state
+— Mówi prawdę dostojny Samentu — odezwał się Tutmozis. — I bodaj że już za daleko posuwamy przezorność wobec arcykapłańskich gadzin.
 
-has no other means; such is not the position at present, however, for
+— Tego nie mów, wodzu — rzekł kapłan. — Siły ich przy jego świątobliwości są garścią piasku wobec pustyni, ale Herhor i Mefres są bardzo mądrzy!... I bodaj że użyją przeciw nam takich orężów i obrotów, wobec których oniemiejemy ze zdziwienia... Nasze świątynie są pełne tajemnic, które zastanawiają nawet mędrców, a ścierają na proch duszę pospólstwa.
 
-should the government wipe away the Phoenician debts, which have risen
+— Powiedzże nam co o tym? — zapytał faraon.
 
-from dishonest usury, not only would they fill thy treasury, holiness,
+— Z góry mówię, że żołnierze waszej świątobliwości spotkają dziwy w świątyniach. To pogasną im światła, to znowu otoczą ich płomienie i szkaradne poczwary... To mur zastąpi im drogę albo pod nogami otworzy się przepaść. W niektórych korytarzach zaleje ich woda, w innych niewidzialne ręce będą rzucały kamieniami... A jakie grzmoty, jakie głosy rozlegać się będą dokoła nich!...
 
-but men working today for Phoenicians would have respite from grievous
+— W każdej świątyni mam życzliwych mi kapłanów młodszych, a w Labiryncie ty będziesz — rzekł faraon.
 
-labor."
+— I nasze topory — wtrącił Tutmozis. — Lichy to żołnierz, który cofa się przed płomieniami czy straszydłami albo marnuje czas na przysłuchiwanie się tajemniczym głosom.
 
-On the benches of the delegates approbation was heard now a second
+— Dobrze mówisz, wodzu! — zawołał Samentu. — Gdy tylko będziecie szli dzielnie naprzód, strachy pierzchną, głosy umilkną, a płomienie przestaną parzyć.
 
-time.
+Teraz ostatnie słowo, panie nasz — zwrócił się kapłan do Ramzesa. — Gdybym zginął...
 
-"Thy advice is keen, O holy man," replied the pharaoh, "but full of
+— Nie mów tak!... — żywo przerwał mu faraon.
 
-danger. Were my treasurer, the worthy nomarchs, and the nobles, to
+— Gdybym zginął — mówił ze smutnym uśmiechem Samentu — przyjdzie do waszej świątobliwości młody kapłan Seta z moim pierścieniem. Niech więc wojsko zajmie Labirynt i wypędzi dozorców i niech już nie opuszcza gmachu, bo ów młodzieniec, może w ciągu miesiąca, a może i wcześniej, znajdzie drogę do skarbów, przy wskazówkach, jakie mu zostawię...
 
-erase what the state owes to creditors, they might omit one day to pay
+Ale, panie — mówił klękając — błagam cię o jedno: gdy zwyciężysz, pomścij mnie, a nade wszystko nie przebaczaj Herhorowi i Mefresowi. Ty nie wiesz: jacy to są nieprzyjaciele!... Gdyby oni wzięli górę, zginiesz nie tylko ty sam, ale i twoja dynastia...
 
-Phoenicians, the next day they might forget to pay sums due the temples
+— Alboż zwycięzcy nie godzi się być wspaniałomyślnym?... — spytał pochmurnie władca.
 
-and the pharaoh. Who will assure me, that common men, encouraged by
+— Żadnej wspaniałomyślności!... żadnej łaski!... — wołał Samentu. — Dopóki oni będą żyli, tobie i mnie, panie, grozi śmierć, hańba, nawet zniewaga naszych trupów.
 
-examples from the great, would not think that they, too, have the right
+Można ugłaskać lwa, kupić Fenicjanina, przywiązać Libijczyka i Etiopa, można ubłagać chaldejskiego kapłana, bo on jak orzeł unosi się na wysokościach i bezpieczny jest od pocisków...
 
-to forget their duties toward the sovereign?"
+Ale egipskiego proroka, który zakosztował zbytku i władzy, nie zjednasz niczym. I tylko śmierć ich albo twoja może zakończyć walkę.
 
-The blow was so weighty that the most worthy Herhor bent and was
-
-silent.
-
-"And thou, chief overseer of the labyrinth, what hast Thou to say?"
-
-asked Ramses.
-
-"I have a box here," replied the overseer, "with white and black
-
-pebbles. Every delegate will receive two and will put one of them into
-
-a pitcher; whoso wishes thee, holiness, to break the treasure in the
-
-labyrinth will put in a black pebble; whoso wishes that the property of
-
-the gods be untouched will put in a white one."
-
-"Agree not, O lord, to that," whispered the treasurer to the sovereign.
-
-"Let each delegate tell openly what he has on his soul."
-
-"Let us respect ancient customs," interrupted Mefres.
-
-"Yes, let them put pebbles into the pitcher," decided the pharaoh. "My
-
-heart is pure and my plans are unbending."
-
-Holy Mefres and Herhor exchanged glances. The overseer of the labyrinth
-
-and two generals went around the benches and gave a white pebble and a
-
-black one to each delegate. The poor men from the common crowd were
-
-confused much at seeing before them such great dignitaries. Some fell
-
-on the floor, did not dare to take the pebbles, and understood with
-
-great difficulty that they were to put only one pebble into the
-
-pitcher, a black or a white one.
-
-"I wish to agree with the gods and his holiness," whispered an old
-
-shepherd.
-
-At last the officials succeeded in explaining, and the common men in
-
-understanding what was needed. The voting began. Each delegate went to
-
-the pitcher and dropped in his pebble in such fashion that others did
-
-not see its color.
-
-Meanwhile the chief treasurer knelt behind the throne, and whispered,
-
-"All is lost! If they had voted openly we should have unanimity; but
-
-now may my hand wither if there will not be twenty white pebbles in the
-
-pitcher."
-
-"Be at rest, faithful servant," replied Ramses with a smile. "I have
-
-more regiments at hand than there will be voices against us."
-
-"But to what purpose? to what purpose?" sighed the treasurer; "without
-
-unanimity they will not open the labyrinth."
-
-Ramses smiled all the time.
-
-The procession of delegates had finished. The overseer of the labyrinth
-
-raised the pitcher and poured out its contents on a golden tray.
-
-Of ninety-one pebbles eighty-three were black and only eight white.
-
-The generals and officials lost courage, the high priests looked at the
-
-assembly in triumph, but soon alarm seized them, for the face of Ramses
-
-had a gladsome expression.
-
-No one dared to declare openly that the plan of his holiness had been
-
-defeated.
-
-"Right-believing Egyptians, my good servants," said the pharaoh with
-
-perfect freedom. "Ye have carried out my command, and my favor is with
-
-you; for two days ye will be guests in my house. Ye will receive
-
-presents and return to your houses and labors. Peace and blessings be
-
-with you."
-
-When he had said this he left the hall with his suite. The high priests
-
-Herhor and Mefres gazed with a look of alarm at each other.
-
-"He is not troubled in any way," whispered Herhor.
-
-"Ah, I said that he is a raging wild beast," replied Mefres. "He will
-
-not hesitate at violence, and if we do not anticipate."
-
-"The gods will defend us and our dwellings."
-
-In the evening the most faithful servants of Ramses XIII assembled in
-
-his chamber: the chief treasurer, the chief scribe, Tutmosis, and
-
-Kalippos, the commander-in-chief of the Greek forces.
-
-"O lord," groaned the treasurer, "why not act like thy eternally living
-
-ancestors. If the delegates had spoken openly we should now have a
-
-right to the treasure in the labyrinth."
-
-"His worthiness speaks the truth," put in the chief scribe.
-
-The pharaoh shook his head.
-
-"Ye are mistaken. If all Egypt cried, 'give the funds in the
-
-labyrinth,' the priests would not give them."
-
-"Then why disturb the priests by summoning delegates? This royal act
-
-has stirred them greatly, and given insolence to common men, who today
-
-are like a rising deluge."
-
-"I have no fear of this deluge," said the pharaoh. "My regiments will
-
-be dams against it. The advantage of this delegation is evident, since
-
-it shows the weakness of my opponents: eighty-three for us, eight
-
-against us. It proves that if they can count on one corps I can rely on
-
-ten. Yield not to illusions; between me and the high priests war has
-
-begun already. They are the fortress which we have summoned to
-
-surrender. They have refused; we must storm the fortress."
-
-"Live forever!" cried Tutmosis and Kalippos.
-
-"Command us," said the chief scribe.
-
-"This is my will," said Ramses. "Thou, O treasurer, wilt distribute one
-
-hundred talents among the police, the overseers of the laborers, and
-
-the mayors in the provinces of Seft, Neha-chent, Nehapechu, Sebt-Het,
-
-Aa, Ament, and Ka. In those same places you will give the innkeepers
-
-and the keepers of dramshops barley, wheat, and wine, whatever is at
-
-hand, so that common men may have meat and drink free of charge. Ye
-
-will do this immediately, so that there be supplies wherever needed
-
-till the 23d of Paofi."
-
-The treasurer inclined to the pavement.
-
-"Thou, scribe, wilt write and command to-morrow to herald forth in the
-
-streets of provincial capitals that barbarians of the western desert
-
-are advancing in great force to attack the province of Fayum. Thou,
-
-Kalippos, wilt dispatch four Greek regiments southward. Two of these
-
-will halt at the labyrinth, two will push on to Hanes. If troops of the
-
-priests go from Thebes ye will drive them back and not let them
-
-approach Fayum. If people are indignant at the priests and threaten the
-
-labyrinth, thy Greeks will occupy the edifice."
-
-"But if the overseers of the labyrinth refuse?" inquired Kalippos.
-
-"That would be rebellion," answered the pharaoh, and continued,
-
-"Thou, Tutmosis, wilt send three regiments to Memphis and post them
-
-near the temples of Ptah, Isis, and Horus. If the enraged people wish
-
-to storm the temples the commanders of the regiments will open the
-
-gates to themselves, will not admit common men to the holy places, and
-
-will guarantee the persons of the high priests from insult. There will
-
-be priests in the labyrinth and in the temples of Memphis, who will
-
-come forth to the army with green branches. The commanders of regiments
-
-will ask those men for the password and will counsel with them."
-
-"But if they resist?" inquired Tutmosis.
-
-"Only rebels would refuse to obey commanders of the pharaoh," answered
-
-Ramses. "The temples and the labyrinth must be occupied by troops on
-
-the 23d of Paofi," continued the pharaoh, turning to the chief scribe.
-
-"The people both in Memphis and Fayum may begin to assemble on the
-
-18th, at first in small groups, then in increasing numbers. But if
-
-slight disturbances begin about the 20th, they are not to be prevented.
-
-The people are to storm the temples not earlier than the 22d and 23d.
-
-And when troops occupy those points all must be quieted."
-
-"Would it not be better to imprison Herhor and Mefres at once?"
-
-inquired Tutmosis.
-
-"What for? I am not concerned about them, but the labyrinth and the
-
-temples, for the occupation of which troops are not ready yet. Besides,
-
-Hiram, who intercepted Herhor's letters to the Assyrians will return no
-
-sooner than the 20th. So only on the 21st of Paofi shall we have proofs
-
-in our hands that the high priests are traitors, and we shall announce
-
-their treason in public."
-
-"Then am I to go to Fayum?" inquired Kalippos.
-
-"Oh, no! Thou and Tutmosis will remain near me with chosen regiments.
-
-We must have reserves in case the priests draw away a part of the
-
-people."
-
-"Art Thou not afraid of treason, lord?" asked Tutmosis.
-
-The pharaoh waved his hand with indifference. "Treason is always
-
-leaking out like water from a swollen barrel. It will be difficult for
-
-the high priests to divine my plans, while I know what they wish. But
-
-as I have anticipated them in collecting forces they will be weaker.
-
-Regiments are not formed in a few days."
-
-"But enchantments?" inquired Tutmosis.
-
-"There are no enchantments which an axe will not shatter," said Ramses,
-
-laughing.
-
-Tutmosis wished at that moment to mention the tricks of the high
-
-priests with Lykon, but he was restrained by the thought that his lord
-
-would be very angry and lose calmness, through which he was powerful on
-
-that day. A chief before battle can think of nothing but action, and
-
-there would be time enough for Lykon's case when the priests were in
-
-prison.
-
-At a sign from his holiness Tutmosis remained in the chamber, but the
-
-three other dignitaries made low obeisances and vanished.
-
-"At last!" sighed the chief scribe, when he found himself with the
-
-treasurer in the antechamber, "at last the power of the shaven heads is
-
-ending."
-
-"Indeed it is time," said the treasurer. "During the last ten years any
-
-prophet had more power than the nomarch of Thebes or of Memphis."
-
-"I think that Herhor is preparing in secret a boat in which to flee
-
-before the 23d of Paofi," put in Kalippos.
-
-"What will be done to Herhor?" said the scribe. "His holiness, who is
-
-terrible today, will forgive him when he is obedient."
-
-"And even leave him his property at the intercession of Queen Niort's,"
-
-said the treasurer. "At all events there will be order in the state,
-
-which for some time has been lacking."
-
-"But it seems to me that his holiness is making too great
-
-preparations," said the scribe. "I should finish all with the Greek
-
-regiments, and not employ the people."
-
-"He is young; he likes noise and uproar," added the treasurer.
-
-"How clear it is that ye are not warriors," said Kalippos. "When it
-
-comes to battle we must concentrate all the forces, for surprises are
-
-sure to happen."
-
-"They would happen if we had not the people behind us," said the
-
-scribe. "But what unexpected thing can happen? The gods will not come
-
-down to defend the labyrinth."
-
-"Such is thy speech, worthiness, for Thou art at rest," answered
-
-Kalippos; "Thou knowest that the supreme chief is watching and is
-
-trying to foresee everything; if that were not the case thy skin might
-
-creep."
-
-"I see no surprises," contended the scribe, "unless the high priests
-
-are spreading reports again that the pharaoh is demented."
-
-"They will try various tricks," added the treasurer, yawning; "but in
-
-fact they have not strength enough. In every case I thank the gods who
-
-put me in the pharaoh's camp. Well, let us go to sleep."
-
-After the dignitaries had left the chamber of the pharaoh, Tutmosis
-
-opened a secret door in one of the walls, and led in Samentu. Ramses
-
-received the high priest of Set with great pleasure; he gave him his
-
-hand to kiss, and pressed his head.
-
-"Peace be with thee, good servant," said the sovereign. "What dost Thou
-
-bring me?"
-
-"I have been twice in the labyrinth," replied the priest.
-
-"And dost Thou know the way now?"
-
-"I knew it before, but this time I have made a new discovery: the
-
-treasure chamber may sink, people may be lost, and jewels be destroyed
-
-which are of the greatest value."
-
-The pharaoh frowned.
-
-"Therefore," continued Samentu, "be pleased, holiness, to have ready
-
-some tens of reliable men. With them I will enter the labyrinth on the
-
-night before the storm, and seize the chambers adjoining the treasury,
-
-especially the upper ones."
-
-"Canst Thou lead in men?"
-
-"Yes. Though I will go alone again to the labyrinth, and see absolutely
-
-whether we may not avert destruction unaided. Even the most faithful
-
-men are uncertain, and to introduce them at night might rouse the
-
-attention of those watchdogs."
-
-"Are they not following thee now?" asked the pharaoh.
-
-"Believe me, lord," answered the priest, placing his hand on his
-
-breast, "a miracle would be needed to follow me. Their blindness is
-
-almost childlike. They feel that some one wants to invade the
-
-labyrinth, but the fools have doubled the guard at the ordinary
-
-gateways. Meanwhile, in the course of a month I have discovered three
-
-hidden entrances, these they have forgotten, or perhaps they know
-
-nothing about them. Only some spirit could warn those guardians that I
-
-traverse the labyrinth, or indicate the room in which I may find
-
-myself. Among three thousand chambers and corridors this is
-
-impossible."
-
-"The worthy Samentu speaks truth," said Tutmosis. "And perhaps we
-
-employ too much keenness against these priestly reptiles."
-
-"Do not say that," replied the priest. "Their strength, as compared
-
-with that of his holiness, is as a handful of sand in comparison with a
-
-temple, but Herhor and Mefres are very wise, and they may use weapons
-
-against us and means before which we shall be dumb with amazement. Our
-
-temples are full of secrets which will arrest even sages, and bring
-
-down to the dust the courage of the multitude."
-
-"Wilt Thou tell us something of that?" inquired the pharaoh.
-
-"I will say first that the warriors of your holiness will meet with
-
-wonders in the temples. In one chamber torches will quench in their
-
-hands, in another, flames and disgusting monsters will surround them.
-
-In one place a wall will stop the way, or a gulf will open before their
-
-feet. In some corridors water will cover them, in others invisible
-
-hands will throw stones at them. And such thunders, such voices will be
-
-heard round about."
-
-"In every temple I have partisans among the younger priests, and Thou
-
-wilt be in the labyrinth" said the pharaoh.
-
-"But our axes?" said Tutmosis. "He is a poor soldier who draws back
-
-before flames or frightful pictures, or who loses time listening to
-
-mysterious voices."
-
-"Thou speakest well, chief," cried Samentu. "If ye go ahead valiantly,
-
-terrors will vanish, voices cease, and flames burn no longer. Now my
-
-last word, lord," said the priest, turning to Ramses. "If I perish."
-
-"Do not speak thus," interrupted the pharaoh quickly.
-
-"A young priest of Set will come to thee, holiness, with my ring. Let
-
-the army occupy the labyrinth and expel the overseers, and let them not
-
-leave the building, for that young priest in the course of a month,
-
-perhaps, or even earlier, will find the way to the treasures with the
-
-indications which I will leave him. But, lord," continued Samentu
-
-kneeling down, "I implore thee for one thing: when Thou shalt conquer,
-
-avenge me, and above all, pardon not Mefres and Herhor. Thou knowest
-
-not what enemies they are. If they win, Thou wilt perish, not only
-
-thou, but the dynasty."
-
-"But does not magnanimity become a victor?" inquired the pharaoh
-
-gloomily.
-
-"No magnanimity! No favor!" cried Samentu. "As long as they live we are
-
-threatened, Thou and I, with death, with shame, even with insult to our
-
-corpses. It is possible to fondle a lion, to buy a Phoenician, to win
-
-the attachment of a Libyan and an Ethiopian. It is possible to win
-
-favor from a Chaldean priest, for he, like an eagle, soars above
-
-heights and is safe from missiles. But an Egyptian prophet who has
-
-tried power and luxury Thou wilt win with nothing, only his death or
-
-thine can end the conflict."
-
-"Samentu speaks truth," said Tutmosis. "Happily not his holiness, but
-
-we, the warriors, will decide the ancient struggle between the priests
-
-and the pharaoh."
+— Prawdę mówisz, Samentu — odpowiedział Tutmozis. — Na szczęście, nie jego świątobliwość, ale — my, żołnierze, będziemy rozstrzygali odwieczny spór między kapłanami i faraonem.

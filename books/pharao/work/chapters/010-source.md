@@ -1,409 +1,174 @@
-# Kapitel 10: CHAPTER X
+# Kapitel 010: Tom I - Rozdział X
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part14.xhtml*
 
 <!-- status: pending -->
 
-THE song ceased, drowned by an uproar and by a noise as of many people
+Wtem śpiew umilkł, zagłuszony wrzawą i szelestem jakby wielu biegnących.
 
-running.
+— Poganie!... wrogowie Egiptu!... — wołał ktoś. — Śpiewacie, kiedy wszyscy nurzamy się w strapieniu, i chwalicie Żydówkę, która czarami swoimi zatrzymała bieg Nilu...
 
-"Unbelievers! Enemies of Egypt!" cried some one. "Ye are singing when
+— Biada wam! — wołał inny. — Depczecie ziemię następcy tronu... Śmierć spadnie na was i dzieci wasze!...
 
-we are sunk in suffering, and ye are praising the Jewess who stops the
+— Ustąpimy, ale niech wyjdzie do nas Żydówka, abyśmy jej przedstawili nasze krzywdy...
 
-flow of the Nile with her witchcraft."
+— Uciekajmy!... — krzyknęła Tafet.
 
-"Woe to you!" cried another. "Ye are trampling the land of Prince
+— Gdzie? — spytał Gedeon.
 
-Ramses. Death will fall on you and your children."
+— Nigdy! — odparła Sara, na której twarz łagodną wystąpił rumieniec gniewu. — Czyliż nie należę do następcy tronu, przed którym ci ludzie padają na twarz?...
 
-"We will go, but let the Jewess come out so that we may tell our wrongs
+I zanim ojciec i służąca opamiętali się, wybiegła na taras cała w bieli, wołając do tłumu za murem:
 
-to her."
+— Oto jestem!... Czego chcecie ode mnie?...
 
-"Let us flee!" screamed Tafet.
+Gwar na chwilę ucichł, lecz znowu odezwały się groźne głosy:
 
-"Whither?" inquired Gideon.
+— Bądź przeklęta, cudzoziemko, której grzech zatrzymuje wody Nilu!...
 
-"Never!" said Sarah, on whose mild face appeared a flush of anger. "Do
+W powietrzu świsnęło kilka kamieni rzuconych na oślep; jeden uderzył w czoło Sarę.
 
-I not belong to the heir, before whose face those people all prostrate
+— Ojcze!... — zawołała, chwytając się za głowę.
 
-themselves?"
+Gedeon porwał ją na ręce i zniósł z tarasu. Wśród nocy widać było nagich ludzi w białych czepkach i fartuszkach, którzy przełazili mur.
 
-And before her father and the old woman had regained their senses, she,
+Na dole Tafet krzyczała wniebogłosy, a niewolnik Murzyn schwyciwszy topór stanął w jedynych drzwiach domu, zapowiadając, że rozwali łeb każdemu, kto ośmieli się wejść.
 
-all in white, had run out on the roof and called to the throng beyond
+— Dajcie no kamieni na tego psa nubijskiego! — wołali do gromady ludzie z muru.
 
-the wall,
+Lecz gromada nagle ucichła, gdyż z głębi ogrodu wyszedł człowiek z ogoloną głową, odziany w skórę pantery.
 
-"Here I am! What do ye want of me?"
+— Prorok!... ojciec święty!... — zaszemrano w tłumie.
 
-The uproar was stilled for a moment, but again threatening voices were
+Siedzący na murze poczęli zeskakiwać.
 
-raised,
+— Ludu egipski — rzekł kapłan spokojnym głosem — jakim prawem podnosisz rękę na własność następcy tronu?
 
-"Be accursed, Thou strange woman whose sin stops the Nile in its
+— Tam mieszka nieczysta Żydówka, która powstrzymuje przybór Nilu... Biada nam!... nędza i głód wisi nad Dolnym Egiptem.
 
-overflow!"
+— Ludzie złej wiary czy słabego rozumu — mówił kapłan — gdzieżeście słyszeli, ażeby jedna kobieta mogła powstrzymać wolę bogów? Co rok, w miesiącu Tot, Nil zaczyna przybierać i do miesiąca Choiak rośnie. Czy działo się kiedy inaczej, choć nasz kraj zawsze był pełen cudzoziemców, niekiedy obcych kapłanów i książąt, którzy, jęcząc w niewoli i ciężkiej pracy, z żalu i gniewu mogli rzucać najstraszliwsze przekleństwa. Ci z pewnością pragnęli na nasze głowy zwalić wszelakie nieszczęścia, a niejeden oddałby życie, ażeby albo słońce nie weszło nad Egiptem o porannej godzinie, albo Nil nie przybrał w początkach roku. I co z ich modlitw?... Albo nie zostały wysłuchane w niebiosach, albo obcy bogowie nie mieli siły wobec naszych. Jakim więc sposobem kobieta, której między nami jest dobrze, mogłaby ściągnąć klęskę, której najpotężniejsi wrogowie nasi sprowadzić nie potrafili?...
 
-A number of stones hurled at random whistled through the air; one of
+— Ojciec święty mówi prawdę!... Mądre są słowa proroka!... — odezwano się w tłumie.
 
-them struck Sarah's forehead.
+— A jednak Messu, wódz żydowski, zrobił ciemność i pomór w Egipcie!... — zaoponował jeden głos.
 
-"Father!" cried she, seizing her head.
+— Który to powiedział, niech wystąpi naprzód!... — zawołał kapłan. — Wzywam go, niech wystąpi, jeżeli nie jest wrogiem egipskiego ludu...
 
-Gideon caught her in his arms and bore her from the terrace. In the
+Tłum zaszemrał jak wicher z daleka płynący między drzewami; ale naprzód nie wystąpił nikt.
 
-night were visible people, in white caps and skirts, who climbed over
+— Zaprawdę mówię — ciągnął kapłan — że między wami krążą źli ludzie niby hieny w owczarni. Nie litują się oni nad waszą nędzą, ale chcą was popchnąć do zniszczenia domu następcy tronu i buntu przeciw faraonowi. Gdyby zaś udał się ich nikczemny zamiar, a z waszych piersi gdyby zaczęła płynąć krew, ludzie ci ukryliby się przed włóczniami jak w tej chwili przed moim wezwaniem...
 
-the wall below.
+— Słuchajcie proroka!... Chwała ci, mężu boży!... — wołał tłum, pochylając głowy. Pobożniejsi upadali na ziemię.
 
-Tafet screamed in a heaven-piercing voice, the black slave seized an
+— Słuchaj mnie, ludu egipski... Za twoją wiarę w słowa kapłana, za posłuszeństwo faraonowi i następcy, za cześć, jaką oddajecie słudze bożemu, spełni się nad wami łaska. Idźcie do domów waszych w pokoju, a może, nim zejdziecie z tego pagórka, Nil zacznie przybierać...
 
-axe, took his place in the doorway, and declared that he would split
+— Oby się tak stało!...
 
-the head of any man daring to enter.
+— Idźcie!... Im większą będzie wiara i pobożność wasza, tym prędzej ujrzycie znak łaski...
 
-"Stone that Nubian dog!" cried men from the wall to the crowd of
+— Idźmy!... idźmy!... Bądź błogosławiony, proroku, synu proroków...
 
-people.
+Zaczęli rozchodzić się, całując szaty kapłana. Wtem ktoś krzyknął:
 
-But the people became silent all at once, for from the depth of the
+— Cud!... spełnia się cud!...
 
-garden came a man with shaven head; from this man's shoulders depended
+— Na wieży w Memfis zapalono światło... Nil przybiera!... Patrzcie, coraz więcej świateł!... Zaprawdę, przemawiał do nas wielki święty... Żyj wiecznie!...
 
-a panther skin.
+Zwrócono się do kapłana, ale ten zniknął wśród cieniów.
 
-"A prophet! A holy father!" murmured some in the crowd. Those sitting
+Tłum niedawno rozjątrzony, a przed chwilą zdumiony i przejęty wdzięcznością, zapomniał i o swoim gniewie, i o kapłanie cudotwórcy. Opanowała ich szalona radość i zaczęli biec pędem ku brzegowi rzeki, nad którym już zapłonęły liczne ogniska i rozlegał się wielki śpiew zebranego ludu:
 
-on the wall began now to spring down from it.
+— „Bądź pozdrowiony, o Nilu, o święta rzeko, która objawiłaś się na tej ziemi. Przychodzisz w pokoju, aby dać życie Egiptowi. O boże ukryty, który rozpraszasz ciemności, który skrapiasz łąki, aby przynieść pokarm niemym zwierzętom. O drogo, schodząca z niebios, ażeby napoić ziemię, o przyjacielu chleba, który rozweselasz chaty... Ty jesteś władcą ryb, a gdy zstąpisz na nasze pola, żaden ptak nie ośmieli się dotknąć zbiorów. Ty jesteś twórcą zboża i rodzicielem jęczmienia; ty dajesz odpoczynek rękom milionów nieszczęśliwych i na wieki utrwalasz świątynie.”
 
-"People of Egypt," said the priest, calmly, "with what right do ye
+W tym czasie oświetlona łódź następcy tronu przypłynęła od tamtego brzegu, wśród okrzyków i śpiewów. Ci sami, którzy pół godziny temu chcieli wedrzeć się do willi księcia, teraz padali przed nim na twarz albo rzucali się w wodę, aby całować wiosła i boki statku, który przywiózł syna władcy Egiptu.
 
-raise hands on the property of the erpatr?"
+Wesoły, otoczony pochodniami Ramzes w towarzystwie Tutmozisa wszedł do domu Sary. Na jego widok Gedeon rzekł do Tafet:
 
-"The unclean Jewess dwells here, who stops the rise of the Nile. Woe to
+— Boję się bardzo o moją córkę, ale jeszcze bardziej nie chcę spotykać się z jej panem...
 
-us! misery and famine are hanging over Lower Egypt."
+Przeskoczył mur i wśród ciemności, przez ogród i pola, poszedł w stronę Memfisu.
 
-"People of weak mind or of evil faith," said the priest, "where have ye
+Na dziedzińcu wołał Tutmozis:
 
-heard that one woman could stop the will of the gods? Every year in the
+— Witaj, piękna Saro!... Spodziewam się, że nas dobrze podejmiesz za muzykę, którą ci przysłałem...
 
-month Thoth the Nile begins to increase and rises till the mouth peak.
+W progu ukazała się Sara z obwiązaną głową, wsparta na Murzynie i służebnicy.
 
-Has it ever happened otherwise, though our land has been full at all
+— Co to znaczy? — zapytał zdumiony książę.
 
-times of strangers, sometimes foreign priests and princes, who groaning
+— Straszne rzeczy!... — zawołała Tafet. — Poganie napadli twój dom, a jeden uderzył kamieniem Sarę...
 
-in captivity and grievous labor might utter the most dreadful curses
+— Jacy poganie?...
 
-through sorrow and anger? They would have brought on our heads all
+— A ci... Egipcjanie! — objaśniła Tafet.
 
-kinds of misfortune, and more than one of them would have given their
+Książę rzucił jej spojrzenie pełne wzgardy. Lecz wnet opanowała go wściekłość.
 
-lives if only the sun would not rise over Egypt in the morning, or if
+— Kto uderzył Sarę?... Kto rzucił kamień?... — krzyknął, chwytając za ramię Murzyna.
 
-the Nile would not rise when the year began. And what came of their
+— Tamci znad rzeki... — odparł niewolnik.
 
-prayers? Either they were not heard in the heavens, or foreign gods had
+— Hej, dozorcy!... — wołał zapieniony książę — uzbroić mi wszystkich ludzi na folwarku i dalej na tą zgraję!...
 
-no power in presence of the gods of Egypt. How then is a woman who
+Murzyn znowu pochwycił swój topór, dozorcy zaczęli wywoływać parobków z zabudowań, a kilku żołnierzy ze świty księcia machinalnie poprawiło miecze.
 
-lives pleasantly among us to cause a misfortune which is beyond the
+— Na miłość boską, co chcesz uczynić?... — szepnęła Sara, wieszając się na szyi księcia.
 
-power of our mightiest enemies?"
+— Chcę pomścić cię... — odparł. — Kto uderza w moją własność, we mnie uderza...
 
-"The holy father speaks truth. Wise are the words of the prophet!" said
+Tutmozis pobladł i kręcił głową.
 
-people among the multitude.
+— Słuchaj, panie — odezwał się — a jakże po nocy i w tłumie poznasz ludzi, którzy dopuścili się zbrodni?
 
-"But Messu (Moses), the Jewish leader, brought darkness and death into
+— Wszystko mi jedno... Motłoch to zrobił i motłoch będzie odpowiadał...
 
-Egypt!" said one voice.
+— Tak nie powie żaden sędzia — reflektował Tutmozis. — A przecie ty masz być najwyższym sędzią...
 
-"Let the man who said that step forth," cried the priest. "I challenge
+Książę zamyślił się; jego towarzysz mówił dalej:
 
-him, let him come forward, unless he is an enemy of the Egyptian
+— Zastanów się, co by jutro powiedział nasz pan, faraon?... A jaka radość zapanowałaby między wrogami Egiptu, ze wschodu i zachodu, gdyby usłyszeli, że następca tronu, prawie pod królewskim pałacem, napada w nocy swój lud?...
 
-people."
+— O, gdyby mi ojciec dał choć połowę armii, umilkliby na wieki wrogowie nasi we wszystkich stronach świata!... — szeptał książę, uderzając nogą w ziemię.
 
-The crowd murmured like a wind from afar blowing between trees, but no
+— Wreszcie... przypomnij sobie tego chłopa, który się powiesił... Żałowałeś go, gdyż umarł człowiek niewinny, a dzisiaj... Czy podobna, ażebyś sam chciał zabijać niewinnych?...
 
-man came forward,
+— Dość już!... — przerwał głucho następca. — Gniew mój jest jak dzban pełen wody... Biada temu, na kogo się wyleje... Wejdźmy do domu...
 
-"I speak truth," continued the priest; "evil men are moving among you
+Wylękniony Tutmozis cofnął się. Książę wziął Sarę za rękę i wszedł z nią na pierwsze piętro. Posadził ją obok stołu, na którym stała nie dokończona kolacja, i zbliżywszy świecznik zerwał jej opaskę z głowy.
 
-like hyenas in a sheepfold. They have no pity on your misery, they
+— Ach — zawołał — to nawet nie jest rana, tylko siniak?...
 
-urged you to destroy the house of the heir and to rebel against the
+Przypatrywał się Sarze z uwagą.
 
-pharaoh. If their vile plan had succeeded and blood had begun to flow
+— Nigdy nie myślałem — rzekł — że możesz mieć siniaka... To bardzo zmienia twarz...
 
-from your bosoms, they would have hidden before spears as they hide now
+— Więc już ci się nie podobam?... — cicho zapytała Sara, podnosząc na niego wielkie oczy pełne trwogi.
 
-before my challenge."
+— Och, nie!... wreszcie to przejdzie...
 
-"Listen to the prophet! Praise to thee, man of God!" cried the people,
+Potem zawołał Tutmozisa i Murzyna i kazał opowiedzieć wypadki wieczorne.
 
-inclining their foreheads.
+— On nas obronił — rzekła Sara. — Stanął z toporem we drzwiach...
 
-The most pious fell to the earth.
+— Zrobiłeś tak?... — spytał książę niewolnika, bystro patrząc mu w oczy.
 
-"Hear me, Egyptian people. In return for your faith in the words of a
+— Czyliż miałem pozwolić, ażeby do twego domu, panie, wdzierali się obcy ludzie?
 
-priest, for your obedience to the pharaoh and the heir, for the honor
+Książę poklepał go po kędzierzawej głowie.
 
-which ye give to a servant of the god, a favor will be shown you. Go to
+— Postąpiłeś — rzekł — jak człowiek mężny. Daję ci wolność. Jutro dostaniesz wynagrodzenie i możesz wracać do swoich.
 
-your houses in peace, and even before ye have left this hill the Nile
+Murzyn zachwiał się i przetarł oczy, których białka połyskiwały. Nagle upadł na kolana i uderzając czołem w posadzkę, zawołał:
 
-will be rising."
+— Nie odpędzaj mnie od siebie, panie!...
 
-"Oh, may it rise!"
+— Dobrze — odparł następca. — Zostań przy mnie, ale jako wolny żołnierz. Takich mi właśnie potrzeba — dodał, patrząc na Tutmozisa. — Ten nie umie mówić jak dozorca domu ksiąg, ale gotów walczyć...
 
-"Go! The greater your faith and piety the more quickly will ye see the
+I znowu zaczął wypytywać o szczegóły najścia, a gdy Murzyn opowiedział mu o zjawieniu się kapłana i jego cudzie, książę schwycił się za głowę, wołając:
 
-sign of favor."
+— Jestem najnieszczęśliwszym człowiekiem w Egipcie!... Niedługo nawet w moim łóżku będę znajdował kapłanów... Skąd on?... Co on za jeden?...
 
-"Let us go! Let us go! Be blessed, O prophet, Thou son of prophets!"
+Tego Murzyn nie umiał objaśnić. Powiedział jednak, że zachowanie się kapłana było bardzo życzliwe dla księcia i dla Sary; że napadem kierowali nie Egipcjanie, ale ludzie, których kapłan nazwał wrogami Egiptu i bezskutecznie wzywał ich, aby wystąpili naprzód.
 
-They began to separate, kissing the robe of the priest. With that some
-
-one shouted,
-
-"The miracle, the miracle is accomplished."
-
-On the tower in Memphis a light flamed up.
-
-"The Nile is rising! See, more and more lights! Indeed a mighty saint
-
-spoke to us. May he live through eternity!"
-
-They turned toward the priest, but he had vanished among shadows.
-
-The throng raging a little while earlier, amazed and filled now with
-
-gratitude, forgot both its anger and the wonder-working priest. It was
-
-mastered by a wild delight; men rushed to the bank of the river, on
-
-which many lights were burning and where a great hymn was rising from
-
-the assembled people,
-
-"Be greeted, Nile, sacred river, which appearest on this country! Thou
-
-comest in peace, to give life to Egypt. O hidden deity who scatterest
-
-darkness, who moistenest the fields, to bring food to dumb animals, O
-
-Thou the precious one, descending from heaven to give drink to the
-
-earth, O friend of bread, Thou who gladdenest our cottages! Thou art
-
-the master of fishes; when Thou art in our fields no bird dares touch
-
-the harvest. Thou art the creator of grain and the parent of barley;
-
-Thou givest rest to the hands of millions of the unfortunate and for
-
-ages Thou securest the sanctuary." [Authentic]
-
-At this time the illuminated boat of Ramses sailed from the shore
-
-opposite amid songs and outcries. Those very persons who half an hour
-
-earlier wished to burst into his villa were falling now on their faces
-
-before him, or hurling themselves into the water to kiss the oars and
-
-the sides of the boat which was bearing the son of their ruler.
-
-Gladsome, surrounded by torches, Ramses, in company with Tutmosis,
-
-approached Sarah's dwelling. At sight of him Gideon said to Tafet,
-
-"Great is my alarm for my daughter, but still greater my wish to avoid
-
-Prince Ramses."
-
-He sprang over the wall, and amid darkness through gardens and fields
-
-he held on in the direction of Memphis.
-
-"Be greeted, O beauteous Sarah!" cried Tutmosis in the courtyard. "I
-
-hope that Thou wilt receive us well for the music which I sent to
-
-thee."
-
-Sarah appeared, with bandaged head on the threshold, leaning on the
-
-black slave and her female attendant.
-
-"What is the meaning of this?" cried the astonished Ramses.
-
-"Terrible things!" called out Tafet. "Unbelievers attacked thy house;
-
-one hurled a stone and struck Sarah."
-
-"What unbelievers?"
-
-"But those the Egyptians!" explained Tafet.
-
-The prince cast a contemptuous glance at her, but rage mastered him
-
-straightway.
-
-"Who struck Sarah? Who threw the stone?" shouted he, seizing the arm of
-
-the black man.
-
-"Those from beyond the river," answered the slave.
-
-"Hei, watchman!" cried the prince, foaming at the mouth, "arm all the
-
-men in this place for me and follow that rabble!"
-
-The black slave seized his axe again, the overseers fell to summoning
-
-workmen from the buildings, some soldiers of the prince's suite grasped
-
-their sword-hilts mechanically.
-
-"By the mercy of Jehovah, what art Thou doing?" whispered Sarah, as she
-
-hung on the neck of Ramses.
-
-"I wish to avenge thee," answered he; "whoso strikes at that which is
-
-mine strikes at me."
-
-Tutmosis grew pale, and shook his head.
-
-"Hear me, lord," said he; "wilt Thou discover in the night and in a
-
-multitude the men who committed the crime?"
-
-"All one to me. The rabble did it, and the rabble must give answer."
-
-"No judge will say that," reflected Tutmosis. "But Thou art to be the
-
-highest judge."
-
-The prince became thoughtful. Tutmosis continued,
-
-"Stop! what would the pharaoh our lord say to-morrow? And what delight
-
-would reign among our foes in the east and the west, if they heard that
-
-the heir to the throne, almost at the royal palace, was attacked in the
-
-night by his own people?"
-
-"Oh, if my father would give me even half the army, our enemies on all
-
-sides of the world would be silent forever!" said the prince, stamping
-
-on the pavement.
-
-"Finally, remember that man who hanged himself; Thou wert sorry when an
-
-innocent man lost his life. But today is it possible that Thou art
-
-willing thyself to slay innocent people?"
-
-"Enough!" interrupted Ramses, in a deep voice. "My anger is like a
-
-water-jar. Woe to him on whom it falls! Let us enter."
-
-The frightened Tutmosis drew back. The prince took Sarah by the hand
-
-and went to the terrace. He seated her near the table on which was the
-
-unfinished supper, and approaching the light drew the bandage from her
-
-forehead.
-
-"Ah!" cried he, "this is not even a wound, it is only a blue spot."
-
-He looked at Sarah attentively.
-
-"I never-thought," said he, "that Thou wouldst have a blue spot. This
-
-changed thy face considerably."
-
-"Then I please thee no longer?" whispered Sarah, raising on him great
-
-eyes full of fear.
-
-"Oh, no! this will pass quickly."
-
-Then he called Tutmosis and the black, and commanded to tell him what
-
-had happened that evening.
-
-"He defended us," said Sarah. "He stood, with an axe, in the doorway."
-
-"Didst Thou do that?" asked the prince, looking quickly into the eyes
-
-of the Nubian.
-
-"Was I to let strange people break into thy house, lord?"
-
-Ramses patted him on the curly head.
-
-"Thou hast acted," said he, "like a brave man. I give thee freedom.
-
-Tomorrow Thou wilt receive a reward and mayst return to thy own
-
-people."
-
-The black tottered and rubbed his eyes, the whites of which were
-
-shining. Suddenly he dropped on his knees, and cried as he struck the
-
-floor with his forehead,
-
-"Do not put me away, lord."
-
-"Well," replied Ramses, "remain with me, but as a free warrior. I need
-
-just such men," said he, turning to Tutmosis. "He cannot talk like the
-
-overseer of the house of books, but he is ready for battle."
-
-And again he inquired for details of the attack, when the Nubian told
-
-how a priest had approached, and when he related his miracles the
-
-prince seized his own head, exclaiming,
-
-"I am the most hapless man in all Egypt! Very soon I shall find a
-
-priest in my bed even. Whence did he come? Who was he?"
-
-The black servitor could not explain this, but he said that the
-
-priest's action toward the prince and toward Sarah was very friendly;
-
-that the attack was directed not by Egyptians, but by people who, the
-
-priest said, were enemies of Egypt, and whom he challenged to step
-
-forward, but they would not.
-
-"Wonders! wonders!" said Ramses, meditating, and throwing himself on a
-
-couch. "My black slave is a valiant warrior and a man full of judgment.
-
-A priest defends a Jewess, because she is mine. What a strange priest
-
-he is! The Egyptian people who kneel down before the pharaoh's dogs
-
-attack the house of the erpatr under direction of unknown enemies of
-
-Egypt. I myself must look into this."
+— Dziwy!... dziwy!... — mówił w zamyśleniu książę, rzuciwszy się na łóżko. — Mój czarny niewolnik jest dzielnym żołnierzem i pełnym rozsądku człowiekiem... Kapłan broni Żydówki dlatego, że jest moją... Co to za osobliwy kapłan?... Lud egipski, który klęka przed psami faraona, napada na dom następcy tronu, pod dowództwem jakichś wrogów Egiptu?... Muszę ja to sam zbadać...

@@ -6,13 +6,23 @@ Das Ziel ist keine freie Nacherzählung, keine Zusammenfassung und kein stilisti
 
 
 
-Füge vor jeder Szene einen kurzen poetischen Auftaktabsatz hinzu.
 
-Dieser Absatz darf nicht erklären oder zusammenfassen, sondern soll Atmosphäre,
 
-Motiv und emotionale Temperatur der Szene verdichten. Er steht vor der eigentlichen
 
-Übersetzung und ist Teil der Ausgabe.
+
+
+
+A.)
+Beginne jede inhaltliche Einheit mit einem kurzen, prägnanten Auftaktabsatz (z.B. ein Zitat einer Koryphäe der Zeit des Romans, eine überraschende Statistik, ein Auszug aus einem relevanten Dokument), das das Thema des Abschnitts beleuchtet oder eine Kernfrage aufwirft.
+Er steht vor der eigentlichen Übersetzung und ist Teil der Ausgabe. Er sollte nicht zu lang sein. Er kann auch wie
+Formatiere diesen Auftaktabsatz immer als Markdown-Blockquote: "> "
+Danach folgt eine Leerzeile und dann direkt die eigentliche Übersetzung.
+
+
+
+
+
+
 
 1. Grundprinzip der Übersetzung
 
@@ -146,5 +156,5 @@ Blicke,
 Gesten,
 Verhalten unter Druck,
 
-Gib ausschließlich die   Übersetzung aus. Keine Analyse, keine Vorbemerkung, keine Kommentare.
+Gib ausschließlich die  Übersetzung mit dem Auftaktabsatz aus. Keine Analyse, keine Vorbemerkung, keine Kommentare.
 

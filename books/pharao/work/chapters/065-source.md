@@ -1,1299 +1,542 @@
-# Kapitel 65: CHAPTER LXV
+# Kapitel 065: Tom III - Rozdział XVI
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part73.xhtml*
 
 <!-- status: pending -->
 
-ON the 20th of Paofi Memphis looked as it might during a great solemn
+Dnia dwudziestego Paofi — Memfis wyglądało jakby podczas uroczystego, święta. Ustały wszelkie zajęcia, nawet tragarze nie nosili ciężarów. Cały lud wysypał się na place i ulice albo skupiał się dokoła świątyń. Głównie około bożnicy Ptah, która była najwarowniejszą i gdzie zebrali się dostojnicy duchowni tudzież świeccy, pod przewództwem Herhora i Mefresa.
 
-festival. All occupations had ceased; even carriers were not bearing
+W pobliżu świątyń stały wojska w luźnym szyku, aby żołnierze mogli porozumiewać się z ludem.
 
-burdens. The whole population had come out on the streets, or had
+Między pospólstwem i między wojskiem krążyli mnodzy przekupnie z koszami chleba, z dzbanami i skórzanymi workami, w których było wino. Częstowali oni lud darmo. Gdy zaś spytał ich kto, dlaczego nie biorą zapłaty? jedni odpowiadali, że — to jego świątobliwość częstuje swoich poddanych, a drudzy mówili:
 
-collected around the temples, mainly around the temple of Ptah, which
+— Jedzcie i pijcie, prawowierni Egipcjanie, gdyż nie wiadomo, czy doczekamy jutra!...
 
-was the best defended, and where the spiritual dignitaries had come
+Byli to przekupnie kapłańscy.
 
-together, also those lay officials who were under the direction of
+Agentów kręciło się mnóstwo. Jedni głośno dowodzili słuchaczom, że kapłani buntują się przeciw panu, a nawet chcą go otruć za to, że obiecał ludowi siódmy dzień odpoczynku. Inni szeptali, że faraon oszalał i sprzysiągł się z cudzoziemcami na zgubę świątyń i Egiptu. Tamci zachęcali lud, ażeby napadł na świątynię, gdzie kapłani z nomarchami radzą nad uciemiężeniem rzemieślników i chłopów. Ci wyrażali obawę, że gdyby świątynie napadnięto, mogłoby zdarzyć się wielkie nieszczęście...
 
-Herhor and Mefres.
+Mimo to, nie wiadomo skąd, pod murem świątyni Ptah znalazło się kilka potężnych belek i stosy kamieni.
 
-Near the temples troops were posted in loose rank, so that the warriors
+Poważni kupcy memfijscy przechadzający się między tłumami nie mieli żadnej wątpliwości, że ludowy zamęt był wywołany sztucznie. Drobni pisarze, policjanci, oficerowie robotników i przebrani dziesiętnicy wojskowi już nawet nie kryli się ani ze swoimi urzędowymi stanowiskami, ani z tym, że chcą popchnąć lud do zdobycia świątyń. Z drugiej strony: paraszytowie, żebracy, słudzy świątyń i niżsi kapłani choć pragnęli ukryć się, nie mogli, a każdy obdarzony zmysłami widział, że i oni zachęcają pospólstwo do gwałtu!...
 
-might come to an understanding with the populace.
+Toteż rozsądni mieszczanie memfijscy byli zdumieni takim postępowaniem kapłańskiego stronnictwa, a lud — poczynał ostygać z wczorajszego zapału. Rodowici Egipcjanie nie mogli zrozumieć: o co tu chodzi i kto naprawdę wywołuje zaburzenia? Chaos powiększał się dzięki półobłąkanym bigotom, którzy nago przebiegając ulice ranili sobie ciało do krwi i wołali:
 
-Among the common people and the army circulated many hucksters, 'with
+— Biada Egiptowi!... Bezbożność przebrała miarę i zbliża się godzina sądu!... Bogowie okażą swoją moc nad zuchwalstwem nieprawości!...
 
-baskets of bread and with pitchers and skin bags in which there was
+Wojsko zachowywało się spokojnie, czekając, aż lud zacznie wdzierać się do świątyń. Z jednej bowiem strony taki rozkaz wyszedł z królewskiego pałacu; z drugiej zaś — oficerowie przewidywali zasadzki w świątyniach i woleli, ażeby ginęło pospólstwo aniżeli żołnierze. Żołnierze i tak będą mieli dosyć zajęcia.
 
-wine. They entertained free of charge. When any one asked them why they
+Ale tłum, pomimo krzyku agitatorów i wina rozdawanego darmo, wahał się. Chłopi oglądali się na rzemieślników, rzemieślnicy na chłopów, a wszyscy oczekiwali czegoś.
 
-took no pay, some answered that his holiness was entertaining his
+Nagle, około pierwszej w południe, z bocznych ulic wylała się ku świątyni Ptah pijana banda, zbrojna w topory i drągi. Byli to rybacy, greccy majtkowie, pastusi, libijskie włóczęgi, nawet więźniowie z kopalni w Turra. Na czele bandy szedł robotnik olbrzymiego wzrostu, z pochodnią. Stanął on przed bramą świątyni i ogromnym głosem począł wołać do ludu:
 
-subjects, while others said,
+— A wiecież wy, prawowierni, nad czym tu radzą arcykapłani i nomarchowie?... Oto chcą zmusić jego świątobliwość Ramzesa, ażeby robotnikom odjął po placku jęczmiennym na dzień, a chłopów obłożył nowym podatkiem, po drachmie od każdej głowy...
 
-"Eat and drink, right-believing Egyptians, for it is unknown whether we
+Dlatego mówię wam, że popełniacie głupstwo i nikczemność stojąc tu z założonymi rękoma!... Trzeba nareszcie wyłapać świątyniowych szczurów i oddać ich w ręce faraonowi, panu naszemu, na którego krzywdę zmawiają się bezbożnicy!... Bo gdyby władca nasz musiał ulec radzie kapłańskiej, któż wtedy ujmie się za uczciwym ludem?...
 
-shall see to-morrow!"
+— Prawdę mówi!... — odezwano się w tłumie.
 
-These were hucksters in the service of the priesthood.
+— Pan kazał dać nam siódmy dzień wypoczynku...
 
-A multitude of agents were circling about. Some proved to listeners
+— I obdarzy nas ziemią...
 
-that the priests were rebelling against their lord, and even wanted to
+— Zawsze miał litościwe serce dla prostaków!... Pamiętacie, jak dwa lata temu uwolnił chłopów oddanych pod sąd za napaść na folwark Żydówki?...
 
-poison him, because he had promised the seventh day for rest. Others
+— Ja sam widziałem, jak przed dwoma laty zbił pisarza, który ściągał z chłopów niesprawiedliwy podatek...
 
-whispered that the pharaoh had gone mad, and had conspired with
+— Niech żyje wiecznie pan nasz, Ramzes XIII, opiekun uciśnionych!...
 
-foreigners to destroy the temples and Egypt. The first encouraged the
+— Patrzajcie ino — odezwał się głos z daleka — samo bydło wraca z pastwisk, jakby zbliżał się wieczór...
 
-people to attack the temples where the priests and nomarchs were
+— Co tam bydło!... Dalejże na kapłanów!...
 
-arranging to oppress laborers and artisans; the others expressed fear
+— Hej, wy! — krzyczał olbrzym pod bramą świątyni. — Otwórzcie nam dobrowolnie, ażebyśmy przekonali się: nad czym radzą arcykapłani z nomarchami?...
 
-that if the people attacked the temples some great misfortune might
+— Otwórzcie!... bo wywalimy bramę!...
 
-fall on them.
+— Dziwna rzecz — mówiono z daleka — ptaki kładą się spać... A przecież to dopiero południe...
 
-Under the walls of Ptah were a number of strong beams, and piles of
+— Dzieje się coś niedobrego w powietrzu!...
 
-stones brought, it was unknown from what quarter.
+— Bogowie! już noc nadchodzi, a ja jeszcze nie narwałam sałaty na obiad... — dziwiła się jakaś dziewczyna.
 
-The serious merchants of Memphis, passing among the crowds, had no
+Lecz uwagi te zagłuszył wrzask pijanej bandy i łoskot belek uderzających w miedzianą bramę świątyni.
 
-doubt that the popular disturbance was called forth artificially.
+Gdyby tłum mniej był zajęty gwałtami napastników, już spostrzegłby, że w naturze zachodzi jakieś niezwykłe zjawisko. Słońce świeciło, na niebie nie było ani jednej chmurki, a mimo to jasność dzienna poczęła się zmniejszać i powiał chłód.
 
-Inferior scribes, policemen, overseers of laborers, and disguised
+— Dajcie tu jeszcze jedną belkę!... — wołali napastnicy na świątynią. — Brama ustępuje!...
 
-decurions denied neither their official positions, nor this, that they
+— Mocno!... Jeszcze raz!...
 
-were urging the people to occupy the temples. On the other side
+Przyglądający się tłum huczał jak burza... Tu i owdzie poczęły odrywać się od niego małe grupy i łączyć z napastnikami. Wreszcie cała masa ludu z wolna podsunęła się ku murom świątyni.
 
-dissectors, beggars, temple servants and inferior priests, though they
+Na dworze, mimo południa, wzrastał mrok; w ogrodach świątyni Ptah zaczęły piać koguty. Ale wściekłość tłumu była już tak wielka, że mało kto dostrzegał te zmiany.
 
-wished to conceal their identity, were unable to do so, and each one
+— Patrzcie! — wołał jakiś żebrak — oto zbliża się dzień sądu... Bogowie...
 
-who was endowed with perception saw that they were urging the people to
+Chciał mówić dalej, lecz uderzony kijem w głowę padł na miejscu.
 
-violence. The thinking citizens of Memphis were astonished at this
+Na mury świątyni poczęły wdzierać się nagie, lecz uzbrojone postacie. Oficerowie wezwali żołnierzy pod broń, pewni, że niebawem trzeba będzie wesprzeć atak pospólstwa.
 
-action of partisans of the priesthood, and the people began to fall
+— Co to znaczy?... — szeptali żołnierze przypatrując się niebu. — Nie ma chmur, a jednakże świat wygląda jak podczas burzy.
 
-away from their zeal of yesterday. Genuine Egyptians could not
+— Bij!... łam!... — krzyczano pod świątynią. Łoskot belek odzywał się coraz częściej.
 
-understand what the question was, or who was really calling forth
+W tej chwili na tarasie stojącym nad bramą ukazał się Herhor, otoczony orszakiem kapłanów i dygnitarzy świeckich. Najdostojniejszy arcykapłan miał na sobie złoty ornat i czapkę Amenhotepa otoczoną królewskim wężem.
 
-disturbance. The chaos was increased by half-frenzied zealots, who,
+Herhor spojrzał po ogromnych masach ludu, który otaczał świątynię, i schyliwszy się do szturmującej bandy rzekł:
 
-running about the streets naked, wounded themselves till the blood
+— Kimkolwiek jesteście, prawowiernymi czy poganami, w imię bogów wzywam was, ażebyście świątynię zostawili w spokoju...
 
-flowed, and cried,
+Gwar ludu nagle ucichnął i tylko słychać było tłuczenie belek o miedzianą bramę. Lecz wnet i belki ustały.
 
-"Woe to Egypt! Impiety has passed its measure and the hour of judgment
+— Otwórzcie bramę! — zawołał z dołu olbrzym. — Chcemy przekonać się, czy nie knujecie zdrady przeciw naszemu panu...
 
-is coming! O gods show your power over the insolence of injustice."
+— Synu mój — odparł Herhor — upadnij na twarz i błagaj bogów, aby przebaczyli ci świętokradztwo...
 
-The troops bore themselves calmly, waiting till the people should break
+— To ty proś bogów, ażeby cię zasłonili!... — krzyknął dowódca bandy i wziąwszy kamień rzucił go w górę, ku arcykapłanowi.
 
-into the temples. For an order to that effect had come from the palace;
+Jednocześnie z okna pylonu wyleciał cieniutki strumyk, niby wody, na twarz olbrzyma. Bandyta zachwiał się, zatrzepotał rękoma i upadł.
 
-and on the other the officers foresaw ambushes in the temples, and
+Jego najbliżsi wydali okrzyk trwogi, na co dalsze szeregi, nie wiedząc, co się stało, odpowiedziały śmiechem i przekleństwami.
 
-preferred that men of the crowd should perish rather than warriors, who
+— Wyłamujcież bramę!... — wołano od końca i grad kamieni posypał się w stronę Herhora i orszaku.
 
-would be sufficiently occupied in every case.
+Herhor wzniósł do góry obie ręce. A gdy tłum znowu ucichnął, arcykapłan zawołał silnym głosem:
 
-But in spite of the shouts of agitators, and wine given for nothing,
+— Bogowie! pod waszą opiekę oddaję święte przybytki, przeciw którym występują zdrajcy i bluźniercy...
 
-the crowd hesitated. Laborers looked at the artisans; the artisans and
+A w chwilę później, gdzieś nad świątynią, rozległ się nadludzki głos:
 
-all were waiting for something.
+— Odwracam oblicze moje od przeklętego ludu i niech na ziemię spadnie ciemność...
 
-Suddenly, about one in the afternoon, from side streets a drunken band
+I stała się rzecz okropna: w miarę jak głos mówił, słońce traciło blask. A wraz z ostatnim słowem zrobiło się ciemno jak w nocy. Na niebie zaiskrzyły się gwiazdy, a zamiast słońca stał czarny krąg otoczony obrączką płomieni.
 
-poured forth toward the temple of Ptah; it was armed with poles and
+Niezmierny krzyk wydarł się ze stu tysięcy piersi. Szturmujący do bramy rzucili belki, chłopi upadli na ziemię...
 
-axes and was made up of fishermen, Greek sailors, shepherds, and Libyan
+— Oto nadszedł dzień sądu i śmierci!... — zawołał jękliwy głos w końcu ulicy.
 
-vagrants, even convicts from the quarries in Turra. At the head of this
+— Bogowie!... litości... święty mężu, odwróć klęskę!... — zawołał tłum.
 
-band went a laborer of gigantic stature, with a torch in his hand. He
+— Biada wojskom, które spełniają rozkazy bezbożnych naczelników!... — zawołał wielki głos ze świątyni.
 
-stood before the gate of the temple and cried with an immense voice to
+W odpowiedzi — już cały lud upadł na twarz, a w dwu pułkach stojących przed świątynią powstało zamieszanie. Szeregi połamały się, żołnierze poczęli rzucać broń i bez pamięci uciekać w stronę rzeki. Jedni pędząc jak ślepi wśród ciemności rozbijali się o ściany domów; inni padali na bruk deptani na śmierć przez swoich towarzyszów. W ciągu paru minut, zamiast zwartych kolumn wojska, leżały na placu porozrzucane włócznie i topory, a przy wejściu do ulic — piętrzyły się stosy rannych i trupów.
 
-the people,
+Żadna przegrana bitwa nie skończyła się podobną klęską.
 
-"Do ye know, right believers, what the high priests and the nomarchs
+— Bogowie!... bogowie!... — jęczał i płakał lud — zmiłujcie się nad niewinnymi...
 
-are preparing here? They wish to force his holiness, Ramses XIII, to
+— Ozyrysie!... — zawołał z tarasu Herhor — ulituj się i okaż oblicze swoje nieszczęśliwemu ludowi...
 
-deprive laborers of a barley cake a day, and to impose new taxes on the
+— Po raz ostatni wysłucham modlitwy moich kapłanów, bom jest miłosierny... — odpowiedział nadludzki głos ze świątyni.
 
-people, a drachma each man. I say, then, that ye are committing a low
+I w tejże samej chwili ciemność pierzchnęła, a słońce odzyskało swój blask.
 
-and stupid deed by standing here with your arms crossed. We must catch
+Nowy krzyk, nowy płacz, nowe modlitwy rozległy się między tłumem. Pijani radością ludzie witali zmartwychwstające słońce. Nieznajomi padali sobie w objęcia, kilka osób zmarło, a wszyscy na klęczkach pełzali do świątyni, aby całować jej błogosławione mury.
 
-these temple rats at last and give them into the hands of our lord, the
+Na szczycie bramy stał najdostojniejszy Herhor, zapatrzony w niebo, a dwaj kapłani podtrzymywali jego święte ręce, którymi rozpędził ciemność i uratował lud swój od zagłady.
 
-pharaoh, against whom these godless wretches are conspiring. If our
+Takie same sceny, z pewnymi odmianami, miały miejsce w całym Dolnym Egipcie. W każdym mieście, dwudziestego Paofi, lud od rana zbierał się pod świątyniami i w każdym mieście około południa jakaś banda szturmowała do bramy świętej. Wszędzie nad bramą, około pierwszej, ukazywał się arcykapłan świątyni z orszakiem, przeklinał bezbożników i robił ciemność. A gdy tłum uciekał w popłochu albo padał na ziemię, arcykapłani modlili się do Ozyrysa, aby ukazał swoje oblicze, i — dzienna światłość znowu powracała na ziemię.
 
-lord yields to priests, who will take the part of honest people?"
+Tym sposobem, dzięki zaćmieniu słońca, pełne mądrości stronnictwo kapłańskie już i w Dolnym Egipcie zachwiało powagę Ramzesa XIII. W ciągu kilku minut rząd faraona stanął, nawet nie wiedząc o tym, nad brzegiem przepaści. Ocalić go mógł tylko wielki rozum i dokładna znajomość sytuacji. Tego jednak zabrakło w królewskim pałacu, gdzie właśnie w ciężkiej chwili zaczęło się wszechmocne panowanie przypadku.
 
-"He speaks truth!" called out voices from the multitude.
+Dwudziestego Paofi jego świątobliwość wstał równo ze wschodem słońca i ażeby być bliżej teatru działań, przeniósł się z głównego gmachu do willi, która zaledwie o godzinę drogi pieszej leżała od Memfisu. Willa ta miała z jednej strony koszary wojsk azjatyckich, z drugiej — pałacyk Tutmozisa i jego małżonki, pięknej Hebron. Wraz z panem przyszli tutaj wierni Ramzesowi dygnitarze i — pierwszy pułk gwardii, w którym faraon pokładał nieograniczone zaufanie.
 
-"Our lord will command to give us the seventh day for rest."
+Ramzes XIII był w doskonałym humorze. Wykąpał się, zjadł z apetytem śniadanie i — zaczął przesłuchiwać gońców, którzy co kwadrans nadlatywali z Memfisu.
 
-"And will give us land."
+Raporta ich były jednostajne aż do znudzenia. Arcykapłani i kilku nomarchów, pod przewództwem Herhora i Mefresa, zamknęli się w świątyni Ptah. Wojsko jest pełne otuchy, a lud wzburzony. Wszyscy błogosławią faraona i czekają na rozkaz do ataku.
 
-"He had compassion always for the common people. Remember how he freed
+Kiedy o godzinie dziewiątej czwarty kurier powtórzył te same słowa, faraon zmarszczył brwi.
 
-those who, two years ago, were under judgment for attacking the house
+— Na co oni czekają?... — zapytał pan. — Niech atakują natychmiast.
 
-of the Jewess."
+Goniec odpowiedział, że jeszcze nie zebrała się główna banda, która ma napaść świątynię i wyłamać miedzianą bramę.
 
-"I myself saw him beat a scribe, when the man was dragging an unjust
+Objaśnienie to nie podobało się panu. Potrząsnął głową i wysłał do Memfisu oficera, ażeby przyśpieszyć atak.
 
-tax from laborers."
+— Co znaczy ta zwłoka?... — mówił. — Myślałem, że moje wojsko obudzi mnie wiadomością o zdobyciu świątyni... W podobnych wypadkach szybkość działań jest warunkiem powodzenia.
 
-"May he live through eternity, our lord, Ramses XIII, the guardian of
+Oficer odjechał, ale pod świątynią Ptah nie zmieniło się nic. Lud czekał na coś, a głównej bandy nie było jeszcze na placu.
 
-oppressed laborers!"
+Można było sądzić, że jakaś inna wola opóźnia wykonywanie rozkazów.
 
-"But look!" called out some voice from afar, "the cattle are coming
+O dziewiątej rano do willi zajmowanej przez faraona przybyła lektyka królowej Nikotris. Czcigodna pani prawie gwałtem wdarła się do synowskiej komnaty i z płaczem upadła do nóg panu.
 
-from pasture, as if evening were near."
+— Czego żądasz, matko? — rzekł Ramzes, z trudem ukrywając niecierpliwość. — Czy zapomniałaś, że dla kobiet nie ma miejsca w obozie?...
 
-"What cattle! Go on against the priests!"
+— Dzisiaj nie ruszę się stąd, nie opuszczę cię ani na chwilę!... — zawołała. — Prawda, że jesteś synem Izydy i ona otacza cię swoją opieką... Ale mimo to umarłabym z niepokoju.
 
-"Hei, ye!" cried the giant at the temple gate. "Open to us of your own
+— Cóż mi grozi? — spytał faraon wzruszając ramionami.
 
-will, so that we may know what the high priests and the nomarchs are
+— Kapłan, który śledzi gwiazdy — mówiła z płaczem królowa — odezwał się do jednej ze służebnic, że jeżeli dzisiaj... jeżeli dzisiejszy dzień upłynie ci szczęśliwie, będziesz żył i panował sto lat...
 
-counseling!"
+— Aha!... Gdzież jest ten znawca moich losów?
 
-"Open, or we will break the gate!"
+— Uciekł do Memfisu... — odparła pani.
 
-"A wonderful thing," said people from afar; "the birds are going to
+Faraon zamyślił się, potem rzekł śmiejąc się:
 
-sleep. But it is only midday."
+— Jak Libijczycy nad Sodowymi Jeziorami wyrzucali na nas pociski, tak dziś kapłaństwo miota na nas groźby... Bądź spokojna, matko! Gadulstwo, nawet kapłanów, jest mniej niebezpieczne aniżeli strzały i kamienie.
 
-"Something evil has happened in the air!"
+Od Memfisu nadleciał nowy kurier z doniesieniem, że wszystko jest dobrze, lecz — główna banda jeszcze nie gotowa.
 
-"O gods, night is coming, and I have not pulled salad for dinner," said
+Na pięknej twarzy faraona ukazały się znaki gniewu. Pragnąc uspokoić władcę, odezwał się Tutmozis:
 
-some girl.
+— Pospólstwo nie jest wojskiem. Nie umie zebrać się na oznaczoną godzinę; idąc ciągnie się jak błoto i — nie słucha komendy. Gdyby pułkom powierzono zajęcie świątyń, już by tam były...
 
-But these remarks were drowned by the uproar of the drunken band, and
+— Ależ co mówisz, Tutmozisie?... — zawołała królowa. — Gdzie kto słyszał, ażeby wojsko egipskie...
 
-the noise of beams striking the bronze gate of the temple. If the crowd
+— Zapomniałeś — wtrącił Ramzes — że, według moich rozkazów, wojsko nie miało napadać, ale bronić świątyń przed napaścią pospólstwa...
 
-had been less occupied with the violent deeds of the attackers, they
+— Przez to też opóźniają się działania — odparł niecierpliwie Tutmozis.
 
-would have seen that something unusual was happening in nature. The sun
+— Oto są królewscy doradcy!... — wybuchnęła królowa. — Pan robi mądrze, występując jako obrońca bogów, a wy, zamiast łagodzić, zachęcacie go do gwałtu...
 
-was shining, there was not one cloud in the sky, and still the
+Tutmozisowi krew uderzyła do głowy. Na szczęście wywołał go z komnaty adiutant donosząc, że w bramie zatrzymano starego człowieka, który chce mówić z jego świątobliwością.
 
-brightness of the day had begun to decrease and there was a breath of
+— U nas dzisiaj — mruczał adiutant — każdy dobija się tylko do pana; jakby faraon był właścicielem karczmy...
 
-coolness.
+Tutmozis pomyślał, że jednak za Ramzesa XII nikt nie ośmieliłby się w ten sposób wyrażać o władcy... Ale udał, że nie uważa.
 
-"Give us another beam!" cried the attackers of the temple. "The gate is
+Starym człowiekiem, którego zatrzymała warta, był fenicki książę Hiram. Miał na sobie okryty kurzem płaszcz żołnierski, a sam był zmęczony i zirytowany.
 
-giving way!"
+Tutmozis kazał przepuścić tyryjczyka, a gdy obaj znaleźli się w ogrodzie, rzekł mu:
 
-"Powerfully! Once more!"
+— Sądzę, że wasza dostojność wykąpiesz się i przebierzesz, zanim wyjednam ci posłuchanie u jego świątobliwości?
 
-The crowd looking on roared like a tempest. Here and there men began to
+Hiramowi najeżyły się siwe brwi i jeszcze mocniej krwią nabiegły oczy.
 
-separate from the throng and join the attackers. At last a whole mass
+— Po tym, co już widziałem — odparł twardo — mogę nawet nie żądać posłuchania...
 
-of people pushed slowly toward the temple.
+— Masz przecie listy arcykapłanów do Asyrii...
 
-Though but just past midday, gloom increased. In the gardens of the
+— Na co wam te listy, skoro pogodziliście się z kapłanami?...
 
-temple the cocks began to crow. But the rage of the throng was so great
+— Co wasza dostojność wygadujesz? — rzucił się Tutmozis.
 
-now that few noticed the change.
+— Ja wiem, co mówię!... — rzekł Hiram. — Dziesiątki tysięcy talentów wydobyliście od Fenicjan, niby na uwolnienie Egiptu z mocy kapłańskiej, a dziś za to rabujecie nas i mordujecie... Zobacz, co się dzieje od morza do pierwszej katarakty: wszędzie wasze pospólstwo ściga Fenicjan jak psów, bo taki jest rozkaz kapłanów...
 
-"Look ye!" cried some beggar. "Behold the day of judgment is coming O
+— Oszalałeś, tyryjczyku!... W tej chwili nasz lud zdobywa świątynię Ptah w Memfis...
 
-gods."
+Hiram machnął ręką.
 
-He wished to speak on, but struck on the head by a club he fell
+— Nie zdobędzie jej! — odparł. — Oszukujecie nas albo sami jesteście oszukani... Mieliście przede wszystkim zdobyć Labirynt i jego skarbiec, i to dopiero w dniu dwudziestym trzecim Paofi... Tymczasem dziś marnujecie siły pod bożnicą Ptah, a Labirynt przepadł...
 
-prostrate.
+Co się to dzieje?... Gdzież tu rozum?... — ciągnął wzburzony Fenicjanin. — Na co te szturmy do pustych gmachów?... Napadacie je chyba w tym celu, ażeby wzmocniono dozór nad Labiryntem.
 
-On the walls of the temple naked but armed figures began to climb up.
+— I Labirynt weźmiemy — przerwał Tutmozis.
 
-Officers called the warriors to arms, certain that soon they would have
+— Nic nie weźmiecie, nic!... Labirynt mógł wziąć tylko jeden człowiek, któremu przeszkodzą dzisiejsze awantury w Memfisie...
 
-to support the attack of the multitude.
+Tutmozis stanął na drodze.
 
-"What does this mean?" whispered warriors, looking at the sky. "There
+— O co tobie chodzi?... — krótko spytał Hirama.
 
-is not a cloud, still the world looks as it does in the time of a
+— O nieład, jaki panuje u was... O to, że już nie jesteście rządem, ale kupą oficerów i dostojników, którą kapłani pędzą, gdzie chcą i kiedy chcą... Od trzech dni w całym Dolnym Egipcie panuje tak straszny zamęt, że pospólstwo rozbija nas, Fenicjan, waszych jedynych przyjaciół... A dlaczego tak jest?... Bo rządy wymknęły się z waszych rąk i już pochwycili je kapłani.
 
-tempest."
+— Mówisz tak, bo nie znasz położenia — odparł Tutmozis. — Prawda, że kapłani brużdżą nam i urządzają napaści na Fenicjan. Ale władza jest w ręku faraona, ogólny bieg wypadków idzie według jego rozkazów...
 
-"Strike! break!" shouted men near the temple.
+— I dzisiejszy napad na świątynię Ptah? — spytał Hiram.
 
-The sound of beams was more and more frequent.
+— Tak. Sam byłem na poufnej radzie, podczas której faraon rozkazał opanować świątynie dzisiaj zamiast dwudziestego trzeciego...
 
-At that moment on the terrace above the gate appeared Herhor. He was
+— No — przerwał Hiram — więc oświadczam ci, naczelniku gwardii, że jesteście zgubieni... Bo ja z pewnością wiem, że dzisiejszy napad został uchwalony na posiedzeniu arcykapłanów i nomarchów, które odbyło się w Świątyni Ptah trzynastego Paofi.
 
-surrounded by a retinue of priests and civil dignitaries. The most
+— Po cóż by oni uchwalali napad na samych siebie? — spytał drwiącym tonem Tutmozis.
 
-worthy high priest was in a golden robe, and wore the cap of Amenhotep
+— Muszą mieć w tym jakiś interes. A że oni lepiej prowadzą swoje interesa aniżeli wy, o tym już przekonałem się.
 
-with its regal serpent.
+Dalszą rozmowę przerwał adiutant wzywający Tutmozisa do jego świątobliwości.
 
-Herhor looked at the enormous masses of people who surrounded the
+— Ale!... ale!... — dodał Hiram. — Wasi żołnierze zatrzymali na drodze kapłana Pentuera, który ma coś ważnego powiedzieć faraonowi...
 
-temple, and bending toward the band of stormers, he said to them,
+Tutmozis schwycił się za głowę i natychmiast posłał oficerów, ażeby znaleźli Pentuera. Następnie pobiegł do faraona, a po chwili wrócił i kazał Fenicjaninowi iść za sobą.
 
-"Whoever ye are, right believers or unbelievers, leave this temple in
+Kiedy Hiram wszedł do królewskiej komnaty, zastał w niej: królowę Nikotris, wielkiego skarbnika, wielkiego pisarza i kilku jenerałów. Ramzes XIII, zirytowany, szybko chodził po sali.
 
-peace, in the name of the gods I summon you."
+— Oto jest nieszczęście faraona i Egiptu! — zawołała królowa wskazując na Fenicjanina.
 
-The uproar of the people ceased suddenly, and only the pounding of the
+— Czcigodna pani — odparł niezmieszany tyryjczyk, kłaniając się — czas pokaże, kto był wiernym, a kto złym sługą jego świątobliwości.
 
-beams against the bronze gate was audible. But soon even that ceased.
+Ramzes XIII nagle stanął przed Hiramem.
 
-"Open the gate!" cried the giant from below. "We wish to see if ye are
+— Masz listy Herhora do Asyrii?... — zapytał.
 
-forging treason against the pharaoh."
+Fenicjanin wydobył spod odzienia paczkę i milcząc oddał ją faraonowi.
 
-"My son," replied Herhor, "fall on thy face and implore the gods to
+— Tego było mi potrzeba! — zawołał z triumfem władca. — Trzeba natychmiast ogłosić ludowi, że arcykapłani zdradzili państwo...
 
-forgive thee thy sacrilege."
+— Synu mój — wtrąciła błagalnym głosem królowa — na cień ojca... na nasze bogi zaklinam cię, wstrzymaj się parę dni z tym ogłoszeniem... Z darami Fenicjan trzeba być bardzo ostrożnym...
 
-"Ask Thou the gods to shield thee!" cried the leader of the band, and
+— Wasza świątobliwość — wtrącił Hiram — może nawet spalić te listy. Mnie nic na nich nie zależy.
 
-taking a stone he threw it toward the high priest.
+Faraon pomyślał i schował paczkę za kaftan.
 
-At the same time, from a window of the pylon shot out a small stream
+— Cóż słyszałeś w Dolnym Egipcie? — zapytał pan.
 
-which seemed to be water, and which struck the giant's face. The bandit
+— Wszędzie biją Fenicjan — odparł Hiram. — Domy nasze są burzone, sprzęty rozkradane i już kilkudziesięciu ludzi zabito.
 
-tottered, threw up his hands, and fell.
+— Słyszałem!... To robota kapłanów — rzekł pan.
 
-Those nearest him gave out a cry of fear, whereupon the farther ranks,
+— Lepiej powiedz, mój synu, że są to skutki bezbożności i zdzierstwa Fenicjan — wtrąciła królowa.
 
-not seeing what had happened, answered with laughter and curses.
+Hiram odwrócił się do pani bokiem i mówił:
 
-"Break down the gate!" was heard from the end of the crowd, and a
+— Od trzech dni siedzi w Memfisie naczelnik policji z Pi-Bast z dwoma pomocnikami i — już są na tropie mordercy i oszusta Lykona...
 
-volley of stones flew in the direction of Herhor and his retinue.
+— Który wychował się w fenickich świątyniach! — zawołała królowa Nikotris.
 
-Herhor raised both hands, and when the crowd had grown silent again the
+— ...Lykona — ciągnął Hiram — którego arcykapłan Mefres wykradł policji i sądom... Lykona, który w Tebach, udając waszą świątobliwość, biegał nago po ogrodzie jako wariat...
 
-high priest shouted,
+— Co mówisz?... — krzyknął faraon.
 
-"O gods! into your protection I give these sacred retreats, against
+— Niech wasza świątobliwość zapyta się najczcigodniejszej królowej, gdyż ona go widziała... — odparł Hiram.
 
-which blasphemers and traitors are advancing!"
+Ramzes zmieszany spojrzał na matkę.
 
-A moment later, somewhere above the temple, an unearthly voice was
+— Tak — rzekła królowa — widziałam tego nędznika, lecz nie wspominałam nic, ażeby oszczędzić ci boleści... Muszę jednak objaśnić, że nikt nie ma dowodu na to, ażeby Lykon był nasadzony przez arcykapłanów, gdyż równie dobrze mogli to zrobić Fenicjanie...
 
-heard,
+Hiram uśmiechnął się szyderczo.
 
-"I turn my face from the accursed people and may darkness fall on the
+— Matko... matko!... — odezwał się z żalem Ramzes — czyliż w twoim sercu kapłani nawet ode mnie są lepsi?...
 
-earth."
+— Ty jesteś mój syn i pan najdroższy — mówiła z uniesieniem królowa — ale nie mogę ścierpieć, ażeby człowiek obcy... poganin... miotał oszczerstwa na święty stan kapłański, z którego oboje pochodzimy...
 
-Then a dreadful thing happened: as the voice rose the sun decreased,
+O Ramzesie!... — zawołała padając na kolana — wypędź złych doradców, którzy cię popychają do znieważania świątyń, do podnoszenia ręki na następcę dziada twego Amenhotepa!... Jeszcze czas... jeszcze czas do zgody... do ocalenia Egiptu...
 
-'and with the last word there was darkness as at night. Stars began to
+Nagle wszedł do komnaty Pentuer w poszarpanej odzieży.
 
-shine in the heavens; instead of the sun was a black disk surrounded
+— No, a ty co powiesz? — zapytał z dziwnym spokojem faraon.
 
-with a thin hoop of flame.
+— Dziś, może zaraz — odparł wzruszony kapłan — będzie zaćmienie słońca...
 
-An immense cry was rent from a hundred thousand breasts. Those who were
+Faraon aż się cofnął ze zdziwienia.
 
-storming the gate threw down their beams; common people fell to the
+— Cóż mnie obchodzi zaćmienie słońca, jeszcze w tej chwili?...
 
-earth.
+— Panie — mówił Pentuer — ja tak samo myślałem, dopókim nie przeczytał w dawnych kronikach opisów zaćmień... Jest to tak przerażające zjawisko, że należałoby o nim ostrzec cały naród...
 
-"Oh, the day of punishment and death has come!" cried a shrill voice at
+— Otóż jest!... — wtrącił Hiram.
 
-the end of the street.
+— Dlaczegożeś wcześniej nie dał znać?... — zapytał kapłana Tutmozis.
 
-"O gods of mercy! O holy men, ward off this terror!" cried the crowd.
+— Dwa dni więzili mnie żołnierze... Narodu już nie ostrzeżemy, lecz zawiadomcie przynajmniej wojska przy pałacu, ażeby choć one nie uległy popłochowi.
 
-"WOE TO ARMIES WHICH CARRY OUT THE ORDERS OF GODLESS COMMANDERS!" cried
+Faraon klasnął w ręce.
 
-a great voice from the temple.
+— Ach, źle się stało!... — szepnął i dodał głośno: — Cóż to ma być i kiedy?...
 
-In answer all the people fell on their faces, and confusion rose in the
+— W dzień zrobi się noc... — mówił kapłan. — Ma trwać podobno tyle czasu, ile potrzeba na przejście pięciuset kroków... A zacznie się w południe... Tak mi mówił Menes...
 
-two regiments standing before the temple. The ranks broke, warriors
+— Menes? — powtórzył faraon. — Znam to nazwisko, ale...
 
-threw down their weapons and ran toward the river insensate. Some,
+— On pisał list o tym do waszej świątobliwości... Ależ dajcie znać wojsku...
 
-rushing like blind men, knocked against the walls of houses in the
+Wnet odezwały się trąbki. Gwardia i Azjaci stanęli pod bronią i faraon otoczony sztabem zawiadomił wojsko o zaćmieniu dodając, aby się nie lękali, gdyż ciemność zaraz przejdzie, a on sam będzie przy nich.
 
-darkness; others fell to the ground and were trampled to death by their
+— Żyj wiecznie! — odpowiedziały zbrojne szeregi.
 
-comrades. In the course of a few minutes, instead of close columns of
+Jednocześnie wysłano kilku najroztropniejszych jeźdźców do Memfisu.
 
-warriors, on the square, spears and axes lay scattered about, and at
+Jenerałowie stanęli na czele kolumn, faraon przechadzał się po dziedzińcu zamyślony, cywilni dostojnicy po cichu szeptali z Hiramem, a królowa Nikotris zostawszy sama w komnacie upadła na twarz przed posągiem Ozyrysa.
 
-the entrance of the streets were piles of dead and wounded.
+Było już po pierwszej i istotnie słoneczne światło poczęło zmniejszać się.
 
-"O gods! O gods!" groaned and cried the people, "take pity on the
+— Naprawdę będzie noc? — spytał faraon Pentuera.
 
-innocent."
+— Będzie, lecz bardzo krótko...
 
-"Osiris!" cried Herhor from the terrace, "have compassion and show thy
+— Gdzież podzieje się słońce?
 
-face to the unfortunate people."
+— Ukryje się za księżyc...
 
-"AT LAST I HEAR THE PRAYERS OF MY PRIESTS, FOR I AM
+— Muszę przywrócić do łaski mędrców, którzy badają gwiazdy... — wtrącił do siebie pan.
 
-COMPASSIONATE," answered the supernatural voice from the temple.
+Mrok szybko powiększał się. Konie Azjatów zaczęły się niepokoić, roje ptastwa spadły na ogród i z głośnym świergotem obsiadły wszystkie drzewa.
 
-At that moment the darkness began to disappear, and the sun to regain
+— Odezwijcież się!... — zawołał Kalipos do Greków.
 
-its brightness.
+Zadudniły bębny, zagwizdały flety i przy tym akompaniamencie pułk grecki zaśpiewał skoczną piosenkę o córce kapłana, która tak bała się strachów, że mogła sypiać tylko w koszarach.
 
-A new shout, new weeping, and new prayers were heard in the throng. The
+Wtem na żółte wzgórza libijskie padł złowrogi cień i z błyskawiczną szybkością zakrył Memfis, Nil i pałacowe ogrody. Noc ogarnęła ziemię, a na niebie ukazała się czarna jak węgiel kula, otoczona wieńcem płomieni.
 
-people, drunk with delight, greeted the sun which had risen from the
+Niezmierny wrzask zagłuszył pieśń greckiego pułku. To Azjaci wydali okrzyk wojenny wypuszczając ku niebu chmurę strzał dla odstraszenia złego ducha, który chciał pożreć słońce.
 
-dead. Men unknown to one another embraced, some persons died, and all
+— Mówisz, że ten czarny krąg to księżyc? — pytał faraon Pentuera.
 
-crawled on their knees to kiss the sacred walls of the temple.
+— Tak utrzymuje Menes...
 
-Above the gate stood the most worthy Herhor, his eyes fixed on the sky,
+— Wielki to mędrzec!... I ciemność zaraz się skończy?...
 
-and two priests supporting his holy hands with which he had dissipated
+— Z pewnością...
 
-darkness, and saved his people from destruction.
+— A gdyby ten księżyc oderwał się od nieba i spadł na ziemię?...
 
-Scenes of the same kind with certain changes took place throughout all
+— To być nie może... Otóż i słońce!... — zawołał z radością Pentuer.
 
-Lower Egypt. In each city on the 20th of Paofi people had collected
+Wszystkie zgromadzone pułki wydały okrzyk na cześć Ramzesa XIII.
 
-from early morning. In each city about midday some band was storming a
+Faraon uścisnął Pentuera.
 
-sacred gate. About one the high priest of the temple, with a retinue,
+— Zaprawdę — rzekł pan — widzieliśmy dziwne zdarzenie... Ale nie chciałbym widzieć go po raz drugi... Czuję, że gdybym nie był żołnierzem, trwoga opanowałaby moje serce.
 
-cursed the faithless attackers and produced darkness. But when the
+Hiram zbliżył się do Tutmozisa i szepnął:
 
-throng fled in panic, or fell on the ground, the high priest prayed to
+— Wyślijże, wasza dostojność, natychmiast gońców do Memfisu, gdyż obawiam się, że arcykapłani zrobili wam coś niedobrego...
 
-Osiris to show his face, and then the light of day returned to the
+— Myślisz?...
 
-earth again.
+Hiram pokiwał głową.
 
-In this way, thanks to the eclipse of the sun, the party of the
+— Nie rządziliby tak długo państwem — rzekł — nie pogrzebaliby dziewiętnastu waszych dynastii, gdyby nie umieli korzystać z podobnych dzisiejszemu wypadków...
 
-priests, full of wisdom, had shaken the importance of Ramses XIII in
+Podziękowawszy wojskom za dobrą postawę wobec niezwykłego zjawiska faraon wrócił do willi. Był wciąż zamyślony, przemawiał spokojnie, nawet łagodnie, ale na pięknej twarzy jego malowała się niepewność.
 
-Lower Egypt.
+Istotnie w duszy Ramzesa toczyła się ciężka walka. Zaczynał rozumieć, że kapłani mają w rękach siły, których on nie tylko nie brał w rachubę, ale nawet nie zastanawiał się nad nimi, nie chciał o nich słuchać.
 
-In the course of a few minutes the government of the pharaoh had come,
+Kapłani śledzący ruchy gwiazd w ciągu kilku minut niezmiernie urośli w jego oczach. I faraon mówił w sobie, że jednak należy poznać tę dziwną mądrość, która w tak straszny sposób miesza ludzkie zamiary.
 
-even without knowing it, to the brink of a precipice. Only great wisdom
+Goniec za gońcem wylatywał z pałacu do Memfisu, aby dowiedzieć się: co tam zaszło podczas zaćmienia? Ale gońcy nie wracali i nad królewskim orszakiem niepewność roztoczyła czarne skrzydła. Że pod świątynią Ptah zdarzyło się coś złego, o tym nie tylko nikt nie wątpił, ale nawet nie śmiał snuć własnych domysłów. Zdawało się, że i faraon, i jego zaufani radzi są z każdej minuty, jaka upłynęła im bez wiadomości stamtąd.
 
-could save it, and an accurate knowledge of the situation. But that was
+Tymczasem królowa Nikotris usiadłszy obok pana szeptała mu:
 
-lacking in the pharaoh's palace, where the all-powerful reign of chance
+— Pozwól mi działać, Ramzesie... Kobiety naszemu państwu niejedną oddały usługę... Tylko przypomnij sobie królowę Nikotris za szóstej dynastii albo Makarę
 
-had set in at that critical moment.
+Faraon słuchał jej, ale wciąż myślał, że jednak mądrość kapłanów jest ogromną siłą, a walka z nimi trudna!...
 
-On the 20th of Paofi his holiness rose exactly at sunrise, and, to be
+Dopiero o trzeciej zjawił się pierwszy goniec z Memfisu, adiutant pułku, który stał pod świątynią. Powiedział on faraonowi, że świątyni nie zdobyto z powodu gniewu bogów; że lud uciekł, kapłani triumfują, a nawet w wojsku powstał nieporządek podczas tej strasznej, choć krótkiej nocy.
 
-nearer the scene of action, he transferred himself from the main palace
+Potem zaś wziąwszy na bok Tutmozisa adiutant oświadczył mu bez ogródki, że wojsko jest zdemoralizowane i że skutkiem ucieczki w popłochu ma tylu rannych i zabitych, jak po bitwie.
 
-to a villa which was hardly an hour's distance from Memphis. On one
+— Cóż się teraz dzieje z wojskiem?... — zapytał struchlały Tutmozis.
 
-side of this villa were the barracks of the Asiatic troops, on the
+— Naturalnie — odparł adiutant — że udało się nam zgromadzić i uszykować żołnierzy. Ale o użyciu ich przeciw świątyniom nawet mowy być nie może... Szczególniej teraz, gdy kapłani zajęli się opatrywaniem rannych. Teraz żołnierz na widok ogolonego łba i panterczej skóry gotów padać na ziemią i dużo czasu upłynie, zanim który odważyłby się przekroczyć świętą bramę...
 
-other the villa of Tutmosis and his wife, the beautiful Hebron. With
+— A cóż kapłani?...
 
-their lord came the dignitaries faithful to Ramses, and the first
+— Błogosławią żołnierzy, karmią ich, poją i udają, że wojsko nie winno napadowi na świątynię, że to była robota Fenicjan...
 
-regiment of the guard in which the pharaoh felt unbounded reliance.
+— I wy pozwalacie na to demoralizowanie pułków?... — zawołał Tutmozis.
 
-Ramses was in perfect humor. He bathed, ate with appetite, and began to
+— Przecież jego świątobliwość rozkazał nam bronić kapłanów przeciw pospólstwu... — odparł adiutant. — Gdyby nam pozwolono zająć świątynie, bylibyśmy w nich od dziesiątej z rana, a arcykapłani siedzieliby w piwnicach.
 
-hear the reports of couriers who flew in from Memphis every fifteen
+W tej chwili oficer dyżurny zawiadomił Tutmozisa, że znowu jakiś kapłan przybyły od Memfisu chce mówić z jego świątobliwością.
 
-minutes.
+Tutmozis obejrzał gościa. Był to człowiek jeszcze dość młody z twarzą jakby wyrzeźbioną w drzewie. Powiedział, że przychodzi do faraona od Samentu.
 
-Their reports were monotonous to weariness: The high priests and some
+Ramzes natychmiast przyjął kapłana, który upadłszy na ziemię podał władcy pierścień, na widok którego faraon pobladł.
 
-of the nomarchs, under the leadership of Herhor and Mefres, had shut
+— Co to znaczy?... — zapytał pan.
 
-themselves up in the temple of Ptah. The army was full of hope, and the
+— Samentu nie żyje... — odpowiedział posłannik.
 
-people excited. All were blessing the pharaoh, and waiting the order to
+Ramzes przez chwilę nie mógł wydobyć głosu. Wreszcie rzekł:
 
-move on the temple.
+— Jak się to stało?...
 
-When the fourth courier came about nine, and repeated the same words,
+— Zdaje się — mówił kapłan — że Samentu został odkryty w jednej z sal Labiryntu i sam się otruł, aby uniknąć mąk... I zdaje się, że odkrył go Mefres, przy pomocy jakiegoś Greka, który ma być bardzo podobny do waszej świątobliwości...
 
-the pharaoh was frowning.
+— Znowu Mefres i Lykon!... — zawołał z gniewem Tutmozis. — Panie — zwrócił się do faraona — czyliż nigdy nie uwolnisz się od tych zdrajców?...
 
-"What are they waiting for?" asked he. "Let them attack immediately."
+Jego świątobliwość znowu zwołał poufną radę do swej komnaty. Wezwał na nią Hirama tudzież kapłana, który przyszedł z pierścieniem Samentu. Pentuer nie chciał w naradzie przyjmować udziału, a czcigodna królowa Nikotris sama na nią przyszła.
 
-The courier answered that the chief band which was to attack and batter
+— Widzę — szepnął Hiram do Tutmozisa — że po wypędzeniu kapłanów baby zaczną rządzić Egiptem...
 
-down the bronze gate had not arrived yet.
+Gdy zebrali się dostojnicy, faraon dał głos posłannikowi Samentu. Młody kapłan nie chciał nic mówić o Labiryncie. Natomiast szeroko rozwodził się nad tym, że świątynia Ptah wcale nie jest bronioną i że dość byłoby kilkudziesięciu żołnierzy, aby zabrać wszystkich, którzy w niej się ukrywają.
 
-This explanation displeased the pharaoh. He shook his head, and sent an
+— Ten człowiek jest zdrajcą!... — krzyknęła królowa. — Sam kapłan namawia was do gwałtu nad kapłanami...
 
-officer to Memphis to hasten the attack.
+Ale w twarzy posłannika nie drgnął żaden muskuł.
 
-"What does this delay mean?" asked he. "I thought that my army would
+— Czcigodna pani — odparł — jeżeli Mefres zgubił mego opiekuna i mistrza Samentu, byłbym psem, gdybym nie szukał zemsty. Śmierć za śmierć...
 
-waken me with news of the capture of the temple. In such cases prompt
+— Podoba mi się ten młody! — szepnął Hiram.
 
-action is the condition of success."
+Rzeczywiście w zebraniu powiało jakby świeższe powietrze. Jenerałowie wyprostowali się, cywilni dostojnicy patrzyli na kapłana z ciekawością, nawet twarz faraona ożywiła się.
 
-The officer rode away, but nothing had changed at the temple of Ptah.
+— Nie słuchaj go, synu mój!... — błagała królowa.
 
-The people were waiting for something, but the chief band was not in
+— Jak myślisz — odezwał się nagle faraon do młodego kapłana — co uczyniłby teraz święty Samentu, gdyby żył?...
 
-its place yet. Some other will seemed to delay the execution of the
+— Jestem pewny — odparł energicznie kapłan — że Samentu wszedłby do świątyni Ptah, bogom spaliłby kadzidło, ale ukarałby zdrajców i morderców...
 
-order.
+— A ja powtarzam, że ty jesteś najgorszy zdrajca!... — zawołała królowa.
 
-About ten the litter of Queen Niort's came to the villa occupied by the
+— Spełniam tylko mój obowiązek — odparł niewzruszony kapłan.
 
-pharaoh. The revered lady broke into her son's chamber almost with
+— Zaprawdę, ten człowiek jest uczniem Samentu!... — wtrącił Hiram. — On jeden jasno widzi, co nam pozostaje do zrobienia...
 
-violence, and fell at his feet, weeping.
+Wojskowi i cywilni dostojnicy przyznali Hiramowi słuszność, a wielki pisarz dodał:
 
-"What dost Thou wish of me, mother?" asked Ramses, hardly hiding his
+— Skoro zaczęliśmy walkę z kapłanami, należy jej dokończyć, tym bardziej dziś, gdy mamy listy dowodzące, że Herhor układa się z Asyryjczykami, co jest wielką zdradą państwa...
 
-impatience. "Hast Thou forgotten that the camp is no place for women?"
+— On prowadzi politykę Ramzesa XII — wtrąciła królowa.
 
-"I will not leave thee today, I will not leave thee for an instant!"
+— Ależ ja jestem Ramzes XIII!... — już niecierpliwie odpowiedział faraon.
 
-exclaimed the queen. "Thou art the son of Isis, it is true, and she
+Tutmozis podniósł się z krzesła.
 
-surrounds thee with care. But I should die from fright."
+— Panie mój — rzekł — pozwól mi działać. Jest rzeczą bardzo niebezpieczną przeciągać ten stan niepewności, jaki panuje w rządzie, a byłoby zbrodnią i głupotą nie skorzystać z okazji. Skoro mówi ten kapłan, że świątynia nie jest broniona, pozwól mi, abym poszedł do niej z garstką ludzi, których sam wybiorę...
 
-"What threatens me?" inquired the pharaoh, shrugging his shoulders.
+— Ja z tobą — wtrącił Kalipos. — Według mego doświadczenia nieprzyjaciel triumfujący jest najsłabszy. Jeżeli więc zaraz wpadniemy do świątyni Ptah...
 
-"The priest who investigates the stars," said she, tearfully, "declared
+— Nie potrzebujecie wpadać, ale wejść tam jako wykonawcy rozkazów faraona, który poleca wam uwięzić zdrajców — odezwał się wielki pisarz. — Na to nie potrzeba nawet siły... Ileż to razy jeden policjant rzuca się na gromadę złodziejów i chwyta, ilu chce...
 
-to a serving woman that Thou wilt live and reign a hundred years if
+— Syn mój — odezwała się królowa — ustępuje pod naciskiem waszych rad... Ale on nie chce gwałtu, zabrania wam...
 
-this day favors thee."
+— Ha, jeżeli tak — odezwał się młody kapłan Seta — więc powiem jego świątobliwości jeszcze jedną rzecz...
 
-"Ah! Where is that man who is skilled in my fate?"
+Parę razy odetchnął głęboko, lecz mimo to dokończył stłumionym głosem:
 
-"He fled to Memphis," replied the lady.
+— Na ulicach Memfisu stronnictwo kapłańskie ogłasza, że...
 
-Ramses thought a while, then he said, smiling,
+— Że co?... mów śmiało — wtrącił faraon.
 
-"As the Libyans at the Soda Lakes hurled missiles at us, the priests
+— Że wasza świątobliwość jesteś obłąkany, że nie masz święceń arcykapłańskich ani nawet królewskich i że... można złożyć was z tronu...
 
-hurl threats today. Be calm, mother! Talk is less dangerous than stones
+— Tego właśnie obawiam się — szepnęła królowa.
 
-and arrows."
+Faraon zerwał się z fotelu.
 
-From Memphis a new courier rushed in with a report that all was well,
+— Tutmozisie! — zawołał głosem, w którym było czuć odzyskaną energię. — Bierz wojska, ile chcesz, idż do świątyni Ptah i — przyprowadź mi Herhora i Mefresa oskarżonych o wielkie zdrady. Jeżeli usprawiedliwią się, powrócę im moją łaskę; w razie przeciwnym...
 
-but still the main band was not ready.
+— Czy zastanowiłeś się?... — przerwała królowa.
 
-On the comely face of the pharaoh appeared signs of anger. Wishing to
+Tym razem oburzony faraon nie odpowiedział jej, a dostojnicy poczęli wołać:
 
-calm the sovereign, Tutmosis said to him,
+— Śmierć zdrajcom!... Od kiedyż to w Egipcie faraon ma poświęcać wierne sługi dla wyżebrania sobie łaski nikczemników!...
 
-"The people are not an army. They know not how to assemble at a given
+Ramzes XIII wręczył Tutmozisowi paczkę listów Herhora do Asyrii i rzekł uroczystym głosem:
 
-hour; while marching they stretch out like a swamp, and obey no
+— Aż do uśmierzenia buntu kapłanów przelewam moją władzę na osobę naczelnika gwardii, Tutmozisa. Teraz jego słuchajcie, a ty, czcigodna matko, do niego zwracaj się ze swymi uwagami.
 
-commands. If the occupation of the temples were committed to regiments
+— Mądrze i sprawiedliwie czyni pan!... — zawołał wielki pisarz. — Faraonowi nie wypada borykać się z buntem, a brak energicznej władzy może nas zgubić...
 
-they would be in possession at present."
+Wszyscy dostojnicy schylili się przed Tutmozisem. Królowa Nikotris z jękiem upadła synowi do nóg.
 
-"What art Thou saying, Tutmosis?" cried the queen. "Where has any one
+Tutmozis w towarzystwie jenerałów wyszedł na dziedziniec. Kazał uformować się pierwszemu pułkowi gwardii i rzekł:
 
-heard of Egyptian troops."
+— Potrzebuję kilkudziesięciu ludzi, którzy gotowi są zginąć za sławę pana naszego...
 
-"Thou hast forgotten," interrupted Ramses, "that according to my
+Wysunęło się więcej niż trzeba żołnierzy i oficerów, a na ich czele Eunana.
 
-commands the troops were not to attack, but defend the temples from
+— Czy jesteście przygotowani na śmierć? — spytał Tutmozis.
 
-attacks of the people."
+— Umrzemy, panie, z tobą dla jego świątobliwości!... — zawołał Eunana.
 
-"Action is delayed through this also," answered Tutmosis, impatiently.
+— Nie umrzecie, ale zwyciężycie podłych zbrodniarzy — odparł Tutmozis. — Żołnierze należący do tej wyprawy zostaną oficerami, a oficerowie awansują o dwa stopnie wyżej. Tak mówię wam ja, Tutmozis, z woli faraona wódz naczelny.
 
-"O counselors of the pharaoh!" burst out the queen. "Your lord acts
+— Żyj wiecznie!...
 
-wisely, appearing as a defender of the gods, and ye, instead of making
+Tutmozis kazał zaprząc dwadzieścia piąć dwukolnych wozów ciężkiej kawalerii i wsadzić na nie ochotników. Sam w towarzystwie Kaliposa wsiedli na konie i niebawem — cały orszak skierowany ku Memfisowi zniknął w kurzawie.
 
-him milder, urge him to violence."
+Widząc to z okna królewskiej willi, Hiram schylił się przed faraonem i szepnął:
 
-The blood rushed to Tutmosis' head. Fortunately an adjutant called him
+— Teraz dopiero wierzę, iż wasza świątobliwość nie byłeś w spisku z arcykapłanami...
 
-from the chamber with information that at the gate was an old man who
+— Oszalałeś?... — wybuchnął pan.
 
-wished to speak with his holiness.
+— Wybacz, władco, ale dzisiejszy napad na świątynię był ułożony przez kapłanów. Jakim zaś sposobem wciągnąli do niego waszą świątobliwość? nie rozumiem.
 
-"Today each man is struggling to get at the pharaoh, as he might at the
-
-keeper of a dramshop," muttered the adjutant.
-
-Tutmosis thought that in the time of Ramses XII no one would have dared
-
-to speak of the ruler in that way. But he feigned not to hear.
-
-The old man whom the watch had detained was Prince Hiram. He wore a
-
-soldier's mantle covered with dust; he was irritated and wearied.
-
-Tutmosis commanded to admit him, and when both were in the garden, he
-
-said to him,
-
-"I judge that Thou wilt bathe, worthiness, and change thy dress before
-
-I obtain an audience with his holiness?"
-
-Hiram raised his iron-gray brows, and his bloodshot eyes became
-
-bloodier.
-
-"From what I have seen," said he firmly, "I may even not ask for an
-
-audience."
-
-"Hast Thou the letters of the high priest to Assyria?"
-
-"What good are those letters, since ye have agreed with the priests?"
-
-"What dost Thou say, worthiness?" inquired Tutmosis, starting.
-
-"I know what I say!" replied Hiram. "Ye have obtained tens of thousands
-
-of talents from the Phoenicians, as it were for the liberation of Egypt
-
-from the power of the priesthood, and today in return for that ye are
-
-robbing and slaying us. See what is happening from the sea to the First
-
-Cataract: your common people are hunting the Phoenicians like dogs, for
-
-such is the command of the priesthood."
-
-"Thou art mad, Phoenician! Our people are taking the temple of Ptah in
-
-Memphis."
-
-Hiram waved his hand.
-
-"They will not take it! Ye are deceiving us, or ye are deceiving
-
-yourselves. Ye were to seize, first of all, the labyrinth and its
-
-treasure, and that only on the 23d. Meanwhile ye are wasting power on
-
-the temple of Ptah, and the labyrinth is lost. What is happening here?
-
-Where is mind to be found in this place?" continued the indignant
-
-Phoenician. "Why storm an empty building? Ye are attacking it so that
-
-the priests may take more care of the labyrinth!"
-
-"We will seize the labyrinth, too," said Tutmosis.
-
-"Ye will seize nothing, nothing! Only one man could take the labyrinth,
-
-and he will be stopped by today's action in Memphis."
-
-Tutmosis halted on the path.
-
-"About what art Thou troubled?" asked he, abruptly.
-
-"About the disorder which reigns here. About this, that ye are no
-
-longer a government, but a group of officers and officials whom the
-
-priests send whithersoever they wish and whensoever it pleases them.
-
-For three days there is such terrible confusion in Lower Egypt that the
-
-people are killing us, your only friends, the Phoenicians. And why is
-
-this? Because government has dropped from jour hands, and the priests
-
-have seized it."
-
-"Thou speakest thus for Thou knowest not the position," replied
-
-Tutmosis. "It is true that the priests thwart us and organize attacks
-
-on Phoenicians. But power is in the hands of the pharaoh; events move
-
-in general according to his orders."
-
-"And the attack on the temple of Ptah?" inquired Hiram.
-
-"Was ordered by the pharaoh. I was present at the confidential council,
-
-during which the pharaoh gave command to take possession of the temples
-
-today instead of the 23d."
-
-"Well, I declare to thee, commander of the guard, that ye are lost, for
-
-I know to a certainty that the attack of today was decided on at a
-
-council of high priests and nomarchs in the temple of Ptah, which was
-
-held on Paofi 13."
-
-"Why should they arrange an attack on themselves?" asked Tutmosis in a
-
-jeering voice.
-
-"They must have had some reason for it. And I have convinced myself
-
-that they manage their affairs better than ye manage yours."
-
-Further conversation was interrupted by an adjutant summoning Tutmosis
-
-to his holiness.
-
-"But but," added Hiram, "your soldiers have stopped on the path the
-
-priest Pentuer, who has something important to convey to the pharaoh."
-
-Tutmosis seized his own head, and sent officers immediately to find
-
-Pentuer. Then he ran to the pharaoh, and after a while returned and
-
-commanded the Phoenician to follow him.
-
-When Hiram entered the chamber of Ramses he saw Queen Niort's, the
-
-chief treasurer, the chief scribe, and a number of generals. Ramses
-
-XIII was irritated, and walked up and down quickly through the chamber.
-
-"Here we have the misfortune of the pharaoh, and of Egypt!" exclaimed
-
-the queen, pointing to the Phoenician.
-
-"Worthy lady," answered Hiram, without confusion, bowing to her, "time
-
-will show who was the faithful and who the evil servant of his
-
-holiness."
-
-Ramses stopped suddenly before Hiram.
-
-"Hast Thou the letters of Herhor to Assyria?" inquired he.
-
-The Phoenician drew from under his robe a package, and in silence
-
-handed it to the pharaoh.
-
-"This is what I needed!" exclaimed the pharaoh in triumph. "We must
-
-declare at once to the people that the high priests are guilty of
-
-treason."
-
-"My son," interrupted the queen in an imploring voice, "by the shade of
-
-thy father I adjure thee; delay this announcement a couple of days.
-
-There is need of great caution with gifts from Phoenicia."
-
-"Holiness," put in Hiram, "Thou mayst even burn these letters. I am in
-
-no way concerned with them."
-
-The pharaoh thought a while, then hid the package in his bosom.
-
-"What hast Thou heard in Lower Egypt?" inquired the sovereign.
-
-"They are beating Phoenicians at all points," replied Hiram. "Our
-
-houses are wrecked, our effects stolen, and a number of tens of
-
-Phoenicians are slain."
-
-"I have heard. This is the work of the priests," said the pharaoh.
-
-"Say, rather, my son, that it comes of the godlessness and extortion of
-
-Phoenicians," interrupted Queen Niort's.
-
-"For three days the chief of police from Pi-Bast is in Memphis with two
-
-assistants, and they are on the trail of the murderer and deceiver
-
-Lykon."
-
-"Who was hidden in Phoenician temples!" cried Niort's.
-
-"Lykon," continued Hiram, "whom the high priest Mefres stole from the
-
-police and the courts Lykon, who in Thebes ran naked through the garden
-
-as a maniac, counterfeiting thee, holiness."
-
-"What dost Thou tell me?" cried the pharaoh.
-
-"Holiness, ask the most revered queen if she saw him," answered Hiram.
-
-Ramses looked in confusion at his mother.
-
-"Yes," said she. "I saw that wretch, but I said nothing so as to spare
-
-thee pain. I must explain, however, that no one has proof that Lykon
-
-was put there by the priests, for the Phoenicians might have done that
-
-as well."
-
-Hiram laughed sneeringly.
-
-"O mother, mother!" cried Ramses, with sorrow. "Is it possible that the
-
-priests are dearer to thy heart than I am?"
-
-"Thou art my son and most precious sovereign," said the queen with
-
-enthusiasm, "but I cannot suffer a stranger, an infidel, to cast
-
-calumny on the holy order of the priests from which we are both
-
-descended. O Ramses," exclaimed she, falling on her knees, "expel these
-
-wicked counselors who urge thee to insult temples, and raise thy hand
-
-against the successor of thy grandsire, Amenhotep. There is still time
-
-for agreement, still time to save Egypt."
-
-All at once, Pentuer, in torn garments, entered the chamber.
-
-"Well, and what hast Thou to say?" inquired the pharaoh, with wonderful
-
-calmness.
-
-"Today, perhaps immediately, there will be an eclipse of the sun."
-
-The pharaoh started back in astonishment.
-
-"How does an eclipse of the sun concern me, especially at this moment?"
-
-"Lord," said Pentuer, "I thought the same till I read in old chronicles
-
-of eclipses. An eclipse is such a terrifying spectacle that it was
-
-necessary to forewarn the whole people of it."
-
-"That is the truth!" interrupted Hiram.
-
-"Why didst Thou not inform earlier?" inquired Tutmosis.
-
-"The warriors kept me in prison two days. We cannot forewarn the people
-
-now, but at least inform the troops at the palace, so that they, too,
-
-should not give way to panic."
-
-Ramses clapped his hands.
-
-"Ah, it is too bad!" whispered he, and added aloud. "When will it be,
-
-and what will take place?"
-
-"Day will become night," said Pentuer. "This will last as much time,
-
-perhaps, as is needed in walking five hundred yards. It will begin at
-
-midday, so Menes told me."
-
-"Menes," repeated the pharaoh, "I know that name."
-
-"He wrote thee a letter concerning it, holiness. But let the army
-
-know."
-
-Straightway they sounded the trumpets; the guard and the Asiatics were
-
-drawn out under arms, and the pharaoh, surrounded by his staff,
-
-informed the troops of the eclipse, telling them not to be alarmed,
-
-that it would pass soon, and that he would be with them.
-
-"Live through eternity!" answered the armed ranks.
-
-At the same time a number of the best riders were sent to Memphis.
-
-The generals took their places at the head of the columns, the pharaoh
-
-walked through the court thoughtfully, the civilians whispered with
-
-Hiram; Queen Niort's, left alone in the chamber, fell on her face
-
-before the statue of Osiris.
-
-It was after one. The light of the sun began to lessen.
-
-"Will night come in fact?" asked the pharaoh of Pentuer.
-
-"It will come, but during a very short interval."
-
-"Where will the sun be?"
-
-"It will hide behind the moon."
-
-"I must restore to my favor the sages who investigate stars," said the
-
-pharaoh to himself.
-
-The darkness increased quickly. The horses of the Asiatics grew
-
-restive, flocks of birds flew into the garden, and occupied all the
-
-trees, with noisy twitter.
-
-"Rouse up!" cried Kalippos to the Greeks.
-
-The drums beat, the flutes sounded, and to this accompaniment the Greek
-
-soldiers sang a dancing song of the priest's daughter who was so timid
-
-that she could sleep only in the barracks.
-
-Meanwhile an ominous shade fell on the tawny Libyan hills, and covered
-
-Memphis, the Nile, and the palace gardens with lightning swiftness.
-
-Night embraced the earth, and in the heavens appeared a ball as black
-
-as coal surrounded by a rim of brightness.
-
-An immense uproar drowned the song of the Greek regiment. This was
-
-caused by the Asiatics, who raised a military shout as they sent a
-
-cloud of arrows toward the sky to frighten the evil spirit which was
-
-gulping the sun down.
-
-"Dost say that that black ball is the moon?" inquired the pharaoh of
-
-Pentuer.
-
-"That is what Menes asserts."
-
-"He is a great sage! And will the darkness end soon?"
-
-"To a certainty."
-
-"And if this moon should tear itself away and fall to the earth?"
-
-"That cannot be. Here is the sun!" cried Pentuer, with delight.
-
-The assembled regiments raised a shout in honor of Ramses XIII.
-
-The pharaoh embraced Pentuer. "Indeed," said he, "we have seen a most
-
-wonderful event. But I should not like to see it a second time. I feel
-
-that if I had not been a warrior fear would have mastered me."
-
-Hiram approached Tutmosis, and whispered,
-
-"Send couriers, worthiness, to Memphis immediately, for I fear that the
-
-high priests have done something evil."
-
-"Dost Thou think so?"
-
-Hiram nodded.
-
-"They would not have managed the kingdom so long," said he, "they would
-
-not have buried eighteen dynasties if they had not known how to use
-
-events like the present."
-
-When Ramses had thanked the troops for good bearing in presence of the
-
-strange phenomenon, he returned to his villa. He continued thoughtful,
-
-he spoke calmly, even mildly, but on his shapely face doubt was
-
-evident.
-
-In the pharaoh's soul there was indeed a grievous struggle. He had
-
-begun to understand that the priests possessed powers which he not only
-
-had not weighed, but had not noted; he had not even wished to hear of
-
-them. In a few moments the priests who followed the movements of stars
-
-rose in his eyes immensely, and he said to himself that in every case
-
-he should learn this wonderful wisdom which confuses people's plans so
-
-terribly.
-
-Courier after courier flew from the palace to Memphis to learn what had
-
-happened during the eclipse. But the couriers did not return, and
-
-uncertainty spread its black wings above the retinue of the pharaoh. No
-
-one doubted that something evil had happened at the temple of Ptah.
-
-More than that, no man dared to draw his own conclusions. It seemed as
-
-though the pharaoh and his intimate counselors were glad when a minute
-
-passed without tidings. Meanwhile Queen Niort's sat down at the
-
-pharaoh's side, and whispered,
-
-"Let me act, Ramses. Women have served this state more than once. Only
-
-remember Queen Niort's in the sixth dynasty, or Makara who created a
-
-fleet on the Red Sea. In our sex there is no lack of mind or of energy,
-
-so let me act. If the temple of Ptah is not taken, and the priests are
-
-not wronged I will reconcile thee with Herhor. Thou wilt take his
-
-daughter as wife, and thy reign will be full of glory. Remember that
-
-thy grandfather, the holy Amenhotep, was also a high priest and a
-
-viceroy of the pharaoh, and Thou thyself, who knows if Thou wouldst be
-
-reigning today, had the holy order of the priests not desired to have
-
-its own blood on the throne. Art thou, too, not obliged to them for
-
-dominion?"
-
-The pharaoh as he listened to her, thought all the time that the wisdom
-
-of the priests was an immense power, and the struggle with them
-
-difficult.
-
-Only about three in the afternoon did the first courier arrive from
-
-Memphis, an adjutant of the regiment which had been stationed at the
-
-temple. He informed the sovereign that the temple had not been taken
-
-because of the anger of the gods; that the people had fled, that the
-
-priests were triumphant, and that even in the army disorder had arisen
-
-during that brief but terrible darkness.
-
-Then, taking Tutmosis aside, the adjutant declared to him directly that
-
-the troops were demoralized; that, because they had fled in a panic, as
-
-many were wounded and killed as in a battle.
-
-"What is happening now with the troops?" inquired Tutmosis in
-
-consternation.
-
-"Of course," replied the adjutant, "we were able to rally the men and
-
-bring them to order. But we cannot even speak of using them against the
-
-temples, especially now when they are occupied with caring for the
-
-wounded. At present a warrior is ready to fall to the earth before a
-
-shaven head and a panther skin; a long time will pass before any one
-
-will dare to cross a sacred gateway."
-
-"But what are the priests doing?"
-
-"Blessing the warriors, giving food and drink to them, and pretending
-
-that the troops are not guilty of attacking the temple; that that was
-
-the work of Phoenicians."
-
-"But do ye permit this demoralization of troops?" exclaimed Tutmosis.
-
-"Well, his holiness commanded us to defend the priests against the
-
-multitude. Had we been permitted to occupy the temple we should have
-
-done so at ten in the morning, and the high priests now would be
-
-sitting in a dungeon."
-
-At this moment the officer in attendance informed Tutmosis that again
-
-some priest had arrived from Memphis, and desired to speak with his
-
-holiness.
-
-Tutmosis looked at the guest. He was a man rather young, with a face as
-
-if carved out of wood. He said that he had come to the pharaoh from
-
-Samentu.
-
-Ramses received the priest, who prostrated himself and gave the pharaoh
-
-a ring, at sight of which his holiness grew pallid.
-
-"What does this mean?" asked he.
-
-"Samentu is no longer alive," replied the priest.
-
-Ramses could not recover his voice for a time. At last he asked,
-
-"How has this happened?"
-
-"It appears," replied the priest, "that Samentu was discovered in one
-
-of the halls of the labyrinth, and that he poisoned himself to escape
-
-torture. It seems that Mefres discovered him through the aid of a
-
-certain Greek, who, as they tell us, resembles thee, holiness."
-
-"Again Mefres and Lykon!" exclaimed Tutmosis in anger. "O lord," said
-
-he, turning to Ramses, "wilt Thou never free thyself from those
-
-traitors?"
-
-The pharaoh summoned a confidential council again. He called in Hiram,
-
-also the priest who had brought the ring from Samentu. Pentuer did not
-
-wish to take part in the council, but the worthy queen went herself to
-
-it.
-
-"I see," whispered Hiram to Tutmosis, "that after the expulsion of
-
-priests women are to govern Egypt."
-
-When the dignitaries had assembled, the pharaoh let Samentu's messenger
-
-speak.
-
-The young priest would not talk of the labyrinth, but he explained
-
-sufficiently that the temple of Ptah was undefended, and that a few
-
-tens of men would suffice to arrest all who were hiding there.
-
-"This man is a traitor!" screamed the queen. "A priest himself, he
-
-persuades thee to violence against the priesthood."
-
-In the face of the messenger no muscle quivered. "Worthy lady," replied
-
-he, "if Mefres destroyed my guardian and master, Samentu, I should be a
-
-dog if I sought not revenge. Death for death!"
-
-"This young man pleases me," whispered Hiram.
-
-Indeed a fresher air seemed to move in the assembly. Generals
-
-straightened themselves; civilians looked at the priest with curiosity;
-
-even the pharaoh's face became livelier.
-
-"Listen not to him, my son," implored Queen Niort's.
-
-"What dost Thou think," asked the pharaoh on a sudden; "what would the
-
-holy Samentu do now were he living?"
-
-"I am sure," answered the priest, energetically, "that Samentu would go
-
-to the temple of Ptah and burn incense to the gods; but he would punish
-
-murderers and traitors."
-
-"And I repeat that Thou art the worst of traitors!" cried the queen.
-
-"I only fulfill my duty," said the priest, unmoved by her language.
-
-"This man is a pupil of Samentu indeed," said Hiram. "He alone sees
-
-what is left us to do, and sees clearly."
-
-The military and civil dignitaries recognized the correctness of
-
-Hiram's opinion.
-
-"Since we have begun a struggle with the priests," said the chief
-
-scribe, "we should finish it, and finish it today when we have letters
-
-proving that Herhor was negotiating with the Assyrians, an act which is
-
-high treason against Egypt."
-
-"He is carrying out the policy of Ramses XII," said the queen.
-
-"But I am Ramses XIII," said the pharaoh impatiently.
-
-Tutmosis rose from his chair.
-
-"My lord," said he, "let me act. It is very dangerous to continue
-
-uncertainty in the government, and it would be folly and crime not to
-
-use this occasion. Since this priest says that the temple is not
-
-defended, let me go to it with a handful of men whom I will select."
-
-"I am with thee!" said Kalippos. "According to my experience, an enemy
-
-while triumphant is the weakest. If we attack the temple of Ptah
-
-immediately."
-
-"Ye do not need to attack, but go in there as executives of the pharaoh
-
-who commands you to imprison traitors," said the chief scribe. "Even
-
-force is not needed. How often does one policeman rush at a crowd of
-
-offenders and seize as many as he wishes."
-
-"My son," said the queen, "yields to the pressure of your counsels. But
-
-he does not wish force; he forbids you to use it."
-
-"Ha! if that be the case," said the young priest of Set, "I will tell
-
-his holiness one other thing." He breathed a couple of times deeply,
-
-but still he finished in a stifled voice and with effort. "On the
-
-streets of Memphis the party of the priests is announcing, that."
-
-"That what? Speak boldly," said the pharaoh.
-
-"That thou, holiness, art insane, that Thou hast not the ordination of
-
-high priest, that Thou art not even made pharaoh, and that 'it is
-
-possible to exclude thee from the throne."
-
-"That is just what I feared," whispered Niort's.
-
-The pharaoh sprang up from his seat.
-
-"Tutmosis!" cried he, in a voice in which his recovered energy was
-
-heard. "Take as many troops as Thou wishest; go to the temple of Ptah
-
-and bring me Herhor and Mefres, accused of high treason. If they are
-
-justified I will return my favor; in the opposite case."
-
-"Hast Thou finished?" interrupted the queen.
-
-This time the indignant pharaoh did not answer her, and the officials
-
-cried,
-
-"Death to traitors! When has it begun that in Egypt a pharaoh must
-
-sacrifice faithful servants to beg for himself the favor of
-
-scoundrels?"
-
-Ramses XIII confided to Tutmosis the package of letters of Herhor to
-
-Assyria, and said in a solemn voice,
-
-"Till the rebellion of the priests is suppressed, I place my power in
-
-the person of Tutmosis, commander of the guards. And do ye listen to
-
-him, and do thou, worthy mother, go with thy judgments to him?"
-
-"Wisely and justly has the sovereign acted!" exclaimed the chief
-
-scribe. "It does not become a pharaoh to struggle with sedition, and a
-
-lack of firm rule might destroy us."
-
-All the dignitaries inclined before Tutmosis. Queen Niort's fell at her
-
-son's feet.
-
-Tutmosis, in company with the generals, went out to the court. He
-
-commanded the first regiment of the guard to form, and said,
-
-"I need 'a few tens of men who are ready to die for the glory of our
-
-lord."
-
-More presented themselves, both men and officers, than were needed, and
-
-at the head of them Eunana.
-
-"Are ye prepared for death?" inquired Tutmosis.
-
-"We will die with thee, lord, for his holiness!" exclaimed Eunana.
-
-"Ye will not die, but ye will overcome vile criminals," replied
-
-Tutmosis. "Soldiers belonging to this expedition will become officers,
-
-and officers will be advanced two degrees. I say this to you, I,
-
-Tutmosis, supreme chief by the will of the pharaoh."
-
-"Live Thou forever!"
-
-Tutmosis commanded to prepare twenty-five two-wheeled chariots of the
-
-heavy cavalry, and ordered the volunteers to enter. Then he with
-
-Kalippos mounted their horses, and soon the whole retinue turned toward
-
-Memphis and vanished in a dust cloud.
-
-When Hiram saw this from the window of a villa, he bowed before the
-
-pharaoh and whispered,
-
-"Now for the first time I believe that Thou art not in conspiracy with
-
-the high priests."
-
-"Wert Thou mad?" burst out the pharaoh.
-
-"Pardon, sovereign, but the attack on the temple today was planned by
-
-the priests. How they drew thee into it, holiness, I do not understand
-
-to this moment."
-
-It was five in the afternoon.
+Była już godzina piąta po południu.

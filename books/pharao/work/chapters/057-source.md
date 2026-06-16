@@ -1,1239 +1,418 @@
-# Kapitel 57: CHAPTER LVII
+# Kapitel 057: Tom III - Rozdział VIII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part65.xhtml*
 
 <!-- status: pending -->
 
-WHEN he left Fayum the pharaoh and his retinue advanced southward a
+Opuściwszy Piom faraon i jego orszak kilkanaście dni posuwali się na południe, w górę Nilu, otoczeni chmurą łódek, pozdrawiani okrzykami, zasypywani kwiatami.
 
-number of days up the Nile, surrounded by a throng of boats, greeted by
+Po obu brzegach rzeki, na tle zielonych pól, ciągnęły się nieprzerwanym szeregiem gliniane chłopskie chaty, ligowe gaje, bukiety palm. Co godzinę ukazywała się grupa białych domów jakiegoś miasteczka albo większe miasto z kolorowymi budowlami, z ogromnymi pylonami świątyń.
 
-shouts, and covered with flowers.
+Od zachodu ściana gór libijskich rysowała się niezbyt wyraźnie; za to od wschodu pasmo arabskie coraz bardziej zbliżało się do rzeki. I można było widzieć strome, poszarpane skały barwy ciemnej, żółtej lub różowej przypominające kształtami zwaliska fortec czy świątyń zbudowanych przez olbrzymów.
 
-On both banks of the river, on a background of green fields, extended
+Na środku Nilu spotykano wysepki, które jakby wczoraj wynurzyły się spod wody, a już dziś zostały pokryte bujną roślinnością i zamieszkałe przez niezliczone stada ptaków. Kiedy nadpływał burzliwy orszak faraona, wystraszone ptaki zrywały się i krążąc nad statkami, łączyły swoje krzyki z potężnym głosem ludu. Nad tym wszystkim unosiło się przeczyste niebo i światło tak pełne życia, że w jego powodzi czarna ziemia nabierała blasku, a kamienie barw tęczowych.
 
-an unbroken series of huts of the people, groves of fig trees, groups
+Schodził więc faraonowi czas wesoło. Z początku trochę drażniły go nieustanne krzyki, lecz później tak przywykł do nich, że już nie zwracał uwagi. Mógł odczytywać dokumenta, naradzać się, nawet spać.
 
-of palms. Every hour appeared the white houses of some village, or a
+O trzydzieści do czterdziestu mil od Piom, na lewym brzegu Nilu leżało duże miasto Siut, w którym Ramzes XIII parę dni odpoczął. Wypadało nawet zatrzymać się, gdyż mumia zmarłego króla jeszcze przebywała w Abydos, gdzie przy grobie Ozyrysa odprawiano uroczyste modły.
 
-larger place with colored buildings, and the immense pylons of temples.
+Siut było jednym z bogatszych miast Górnego Egiptu. Tu wyrabiano słynne naczynia z białej i czarnej gliny i tkano płótna; tu było główne targowisko, na które przywożono towary z oaz rozrzuconych w pustyni. Tu wreszcie była sławna świątynia Anubisa, bożka z wilczą głową.
 
-On the west the wall of the Libyan hills was outlined not very
+Drugiego dnia pobytu w tym miejscu zgłosił się do jego świątobliwości kapłan Pentuer, naczelnik komisji badającej położenie ludu.
 
-distinctly; but on the east the Arabian line approached ever nearer to
+— Masz jakie nowiny? — zapytał pan.
 
-the river. It was possible to see clearly the steep, jagged cliffs,
+— Mam te, że cały Egipt błogosławi waszą świątobliwość. Wszyscy, z kimkolwiek rozmawiałem, są pełni otuchy i mówią, że wasze panowanie odrodzi państwo...
 
-dark, yellow or rose colored, recalling by their forms the ruins of
+— Chcę — odparł faraon — ażeby moi poddani byli szczęśliwi, a lud odetchnął. Chcę, ażeby Egipt miał, jak niegdyś, osiem milionów ludności i odzyskał grunta, które wydarła mu pustynia. Chcę, ażeby człowiek pracowity odpoczywał co siódmy dzień i ażeby każdy rolnik posiadał kawałek ziemi na własność...
 
-fortresses or of temples built by giants.
+Pentuer upadł na twarz przed dobrotliwym panem.
 
-In the middle of the Nile they met islands which had risen from the
+— Podnieś się — mówił Ramzes. — Powiem ci jednak, że miałem godziny ciężkiego smutku. Widzę bowiem niedolę mego ludu, pragnę go podźwignąć, a jednocześnie donoszą mi, że skarb jest pusty. Sam zaś wiesz najlepiej, że nie posiadając kilkudziesięciu tysięcy talentów gotowizną, nie mógłbym ważyć się na podobne ulepszenia.
 
-water as it were yesterday, but were covered with rich vegetation today
+Ale dziś jestem spokojny: mam środek na wydobycie potrzebnych funduszów z Labiryntu...
 
-and were occupied by birds in countless numbers. When the noisy retinue
+Pentuer spojrzał na władcę zdziwiony.
 
-of the pharaoh sailed near, the frightened birds flew up and, circling
+— Dozorca skarbu objaśnił mnie: co mam robić — ciągnął faraon. — Muszę zwołać ogólne zgromadzenie wszystkich stanów, po trzynastu ludzi z każdego stanu. A gdy oni oświadczą, że Egipt jest w potrzebie, Labirynt dostarczy mi skarbów...
 
-above the boats, joined their cries with the mighty sound of people.
+Bogowie! — dodał — za parę... za jeden z tych klejnotów, jakie tam leżą, można dać ludowi pięćdziesiąt odpoczynków na rok... Nigdy chyba nie zostaną one lepiej użytymi...
 
-Above this all hung a transparent sky and light so full of life that in
+Pentuer potrząsnął głową.
 
-the flood of it the black earth assumed a brightness, and the stones
+— Panie — rzekł — sześć milionów Egipcjan, a ja i moi przyjaciele przed innymi zgodzimy się, ażebyś czerpał z tamtego skarbca. Ale... nie łudź się, wasza świątobliwość!... Bo stu najwyższych dostojników państwa oprą się temu, a wówczas Labirynt nic nie wyda...
 
-rainbow colors.
+— Więc oni chcą, ażebym chyba został żebrakiem przy której ze świątyń?... — wybuchnął faraon.
 
-Time passed, therefore, pleasantly for the pharaoh. At first the
+— Nie — odparł kapłan. — Oni lękać się będą, ażeby nie opróżnił się skarbiec raz napoczęty. Oni będą posądzali najwierniejsze sługi waszej świątobliwości o udział w zyskach płynących z tego źródła... A wówczas zazdrość podszepnie im: dlaczego i wy nie mielibyście coś zyskać?... Nie niechęć do ciebie, panie, ale wzajemna nieufność, ale chciwość popchną ich do oporu...
 
-incessant cries irritated him somewhat, but later he grew so,
+Pan, wysłuchawszy tego, uspokoił się, a nawet uśmiechnął.
 
-accustomed that he turned no attention to them. He was able to read
+— Jeżeli tak jest, kochany Pentuerze, jak mówisz, więc bądź spokojny — rzekł. — W tej chwili dokładnie zrozumiałem: w jakim celu Amon ustanowił władzę faraona i dał mu nadludzką potęgę... Dlatego, widzisz, ażeby stu choćby najdostojniejszych łotrów nie mogli zgubić państwa.
 
-documents, take counsel, and even sleep.
+Ramzes podniósł się z krzesła i dodał:
 
-From a hundred and fifty to two hundred miles above Fayum on the left
+— Powiedz memu ludowi, niech pracuje i będzie cierpliwy... Powiedz wiernym mi kapłanom, ażeby służyli bogom i uprawiali mądrość, która jest słońcem świata. A owych opornych i podejrzliwych dostojników mnie zostaw... Biada im, jeżeli rozgniewają moje serce.
 
-bank of the Nile is Siut, where Ramses XIII took a rest of two days. He
+— Panie — rzekł kapłan — jestem twoim wiernym sługą...
 
-was even obliged to halt there, for the mummy of the late pharaoh was
+Ale gdy pożegnawszy się wychodził, na jego obliczu widać było troskę.
 
-still in Abydos, where they were making solemn prayers at the grave of
+O piętnaście mil od Siutu, w górę rzeki, dzikie skały arabskie prawie dotykają Nilu; natomiast góry libijskie odsunęły się od niego tak daleko, że tamtejsza dolina jest bodaj najszerszą w Egipcie.
 
-Osiris.
+W tym właśnie miejscu, tuż obok siebie, stały dwa czcigodne miasta: Tinis i Abydos. Tam urodził się Menes, pierwszy faraon Egiptu; tam przed stoma tysiącami lat złożono do grobu święte zwłoki bożka Ozyrysa, którego w zdradziecki sposób zamordował brat Tyfon.
 
-Siut was one of the richest parts of Upper Egypt. At that place were
+Tam wreszcie na pamiątkę owych wielkich wydarzeń wiekopomny faraon Seti wybudował świątynię, do której zbiegali się pielgrzymi z całego Egiptu. Każdy prawowierny musiał choć raz w życiu dotknąć czołem tej błogosławionej ziemi. Prawdziwie zaś szczęśliwym był ten, czyja mumia mogła odbyć podróż do Abydos i choć z daleka zatrzymać się pod murami świątyni.
 
-made the famous vessels of white and black clay, and there they wove
+Mumia Ramzesa XII przemieszkała tam parę dni; był to bowiem władca odznaczający się pobożnością. Nic też dziwnego, że i Ramzes XIII rozpoczynał rządy od złożenia hołdu grobowi Ozyrysa.
 
-linen. It was also the chief market-place to which people brought goods
+Świątynia Setiego nie należała do najstarszych ani najwspanialszych w Egipcie, lecz odznaczała się czystością egipskiego stylu. Jego świątobliwość Ramzes XIII zwiedzał ją i złożył w niej ofiary w towarzystwie arcykapłana Sema.
 
-from the oases scattered throughout the desert. There besides was the
+Grunta należące do świątyni zajmowały przestrzeń stu pięćdziesięciu morgów, na których były rybne sadzawki, ogrody kwiatowe, owocowe i warzywne, wreszcie domy, a raczej pałacyki kapłanów. Wszędzie rosły: palmy, figi, pomarańcze, topole, akacje, które tworzyły albo aleje idące w kierunku głównych okolic świata, albo łany drzew sadzonych regularnie i mających prawie jednakową wysokość.
 
-famous temple of the jackal-headed god, Anubis.
+Nawet świat roślinny, pod bacznym okiem kapłanów, nie rozwijał się według własnego popędu tworząc nieprawidłowe, ale malownicze skupienia; nawet on szykował się według linii prostych, linii równoległych albo skupiał się w geometryczne figury.
 
-On the second day of his stay in that place the priest Pentuer appeared
+Palmy, tamaryndusy, cyprysy i mirty byli to żołnierze uszykowani szeregami lub kolumnami. Trawa był to dywan strzyżony i ozdobiony malowidłami z kwiatów, nie byle jakiej barwy, ale tej, która była potrzebna. Lud, z góry przypatrując się gazonom świątyń, widział na nich kwitnące obrazy bogów lub świętych zwierząt; mędrzec znajdował aforyzmy wypisane hieroglifami.
 
-before Ramses. He was the chief of that commission sent to investigate
+Środkową część ogrodów zajmował prostokąt na dziewięćset kroków długi a trzysta szeroki. Prostokąt ten był zamknięty niezbyt wysokim murem, który posiadał jedną bramę widoczną i kilkanaście ukrytych furtek. Przez tę bramę lud pobożny wchodził na dziedziniec otaczający przybytek Ozyrysa.
 
-the condition of the people.
+Dopiero na środku dziedzińca, który był wyłożony kamienną posadzką, stała świątynia: gmach prostokątny o czterystu pięćdziesięciu krokach długości i stu pięćdziesięciu szerokości.
 
-"Hast Thou news?" inquired the sovereign.
+Od bramy ludowej do świątyni prowadziła aleja sfinksów ze lwimi ciałami i ludzkimi głowami. Stały one w dwu szeregach, po dziesięciu w każdym, i patrzyły sobie w oczy. Między nimi przechodzić mogli tylko najwyżsi dostojnicy.
 
-"I have this, O holiness, that all the country blesses thee. All with
+W końcu alei sfinksów, ciągle naprzeciw bramy ludowej, wznosiły się dwa obeliski, czyli cienkie a wysokie kolumny czworoboczne z granitu, na których wypisano historię faraona Seti.
 
-whom I speak are full of hope, and say, 'His reign will be a new life
+Dopiero za obeliskami wznosiła się potężna brama świątyni mająca z obu boków olbrzymie gmachy w kształcie piramid ściętych, zwanych pylonami. Były to jakby dwie wieże barczyste, na których ścianach znajdowały się malowidła przedstawiające zwycięstwa Setiego albo ofiary, jakie składał bogom.
 
-for Egypt.'."
+Tej bramy już nie wolno było przekraczać chłopom, tylko bogatemu mieszczaństwu i klasom uprzywilejowanym. Przez nią wchodziło się do perystylu, czyli dziedzińca otoczonego korytarzem wspartym na mnóstwie kolumn. Perystyl mógł pomieścić z dziesięć tysięcy pobożnych.
 
-"I wish," replied Ramses, "my subjects to be happy; I wish the toiling
+Z dziedzińca osoby stanu szlacheckiego mogły jeszcze wchodzić do pierwszej sali, hipostylu; miała ona sufit oparty na dwu szeregach wysokich kolumn i mogła pomieścić ze dwa tysiące uczestników nabożeństwa. Sala ta była ostatnim kresem dla ludzi świeckich. Najwięksi dostojnicy, lecz którzy nie otrzymali święceń, mieli prawo modlić się tylko tutaj i z tego miejsca patrzeć na zasłonięty posąg boga, który wznosił się w sali „boskiego objawienia”.
 
-man to rest; I wish that Egypt might have eight millions of people as
+Za salą „objawienia” leżała komnata „stołów ofiarnych”, gdzie kapłani składali bogom dary przyniesione przez wiernych. Następną była komnata „odpoczynku”, gdzie wypoczywał bożek wracający lub idący na procesję, ostatnią — kaplica, czyli sanktuarium, gdzie bożek mieszkał.
 
-aforetime and win back that land seized from it by the desert; I wish
+Kaplica była zwykle bardzo małą i ciemną, niekiedy wyciosaną z jednej sztuki kamienia. Ze wszystkich stron otaczały ją kapliczki równie małe, zapełnione szatami, sprzętami, naczyniami i klejnotami bożka, który w swym niedostępnym ukryciu spał, kąpał się, namaszczał perfumami, jadał i pijał, a zdaje się, że nawet przyjmował odwiedziny młodych i ładnych kobiet.
 
-the laborer to rest one day in seven and each man who digs the earth to
+Do sanktuarium wchodził tylko arcykapłan i panujący faraon, o ile otrzymał święcenia. Zwykły śmiertelnik, dostawszy się tam, mógł stracić życie.
 
-have some little part of it."
+Ściany i kolumny każdej sali były pokryte napisami i malowidłami objaśniającymi. W korytarzu otaczającym dziedziniec (perystyl) były nazwiska i portrety wszystkich faraonów od Menesa, pierwszego władcy Egiptu, do Ramzesa XII. W hipostylu, czyli sali szlacheckiej, przedstawiono w sposób poglądowy jeografię i statystykę Egiptu tudzież podbitych ludów. W sali „objawienia” znajdował się kalendarz i rezultaty obserwacji astronomicznych; w komnacie „stołów ofiarnych” i „odpoczynku” figurowały obrazy dotyczące religijnych obrządków, a w sanktuarium — przepisy wywoływania istot zaziemskich i opanowania zjawisk natury.
 
-Pentuer fell on his face before the kindly sovereign.
+Ten ostatni rodzaj wiedzy nadludzkiej zawierał się w tak powikłanych zdaniach, że nawet kapłani z czasów Ramzesa XII nie rozumieli ich. Dopiero Chaldejczyk Beroes miał wskrzesić obumierającą mądrość.
 
-"Rise," said Ramses. "But I have had hours of grievous sadness: I see
+Odpocząwszy dwa dni w rządowym pałacu w Abydos, Ramzes XIII wybrał się do świątyni. Miał na sobie białą koszulę, złoty pancerz, fartuszek w pomarańczowe i niebieskie pasy, stalowy miecz przy boku i złoty hełm na głowie. Wsiadł na wóz, którego konie, przybrane w pióra strusie, prowadzili nomarchowie, i z wolna pojechał do domu Ozyrysa otoczony świtą.
 
-the suffering of my people; I wish to raise them, but the treasury is
+Gdziekolwiek spojrzał: na pola, na rzekę, na dachy domów, nawet na konary fig i tamaryndusów, wszędzie tłoczyła się ciżba ludu i rozlegał się nie milknący okrzyk podobny do ryku burzy.
 
-empty. Thou thyself knowest best that without some tens of thousands of
+Dojechawszy do świątyni, faraon zatrzymał konie i wysiadł przed bramą ludową, co bardzo podobało się pospólstwu, a ucieszyło kapłanów. Piechotą przeszedł aleje sfinksów i powitany przez świętych mężów spalił kadzidło przed posągami Seti siedzącymi z obu stron bramy wielkiej.
 
-talents I cannot venture on such changes. But now I am at rest; I can
+W perystylu arcykapłan zwrócił uwagę jego świątobliwości na misterne portrety faraonów i wskazał miejsce przeznaczone na jego wizerunek. W hipostylu objaśnił mu znaczenie map jeograficznych i statystycznych tablic. W komnacie „boskiego objawienia” Ramzes ofiarował kadzidło olbrzymiemu posągowi Ozyrysa, a arcykapłan wskazał mu słupy poświęcone oddzielnym planetom: Merkuremu, Wenerze, Księżycowi, Marsowi, Jowiszowi i Saturnowi. Stały one dokoła posągu słonecznego bóstwa w liczbie siedmiu.
 
-get the needed treasure from the labyrinth."
+— Mówisz mi — spytał Ramzes — że jest sześć planet, a tymczasem widzę siedem słupów...
 
-Pentuer looked at his sovereign with amazement.
+— Ten siódmy przedstawia Ziemię, która także jest planetą — szepnął arcykapłan.
 
-"The overseer of the treasure explained to me what I am to do," said
+Zdziwiony faraon zażądał objaśnień; ale mędrzec milczał wskazując na migi, że dla dalszych objaśnień ma zapieczętowane usta.
 
-the pharaoh. "I must call a general council of all orders, thirteen of
+W komnacie „stołów ofiarnych” odezwała się cicha, lecz piękna muzyka, podczas której chór kapłanek wykonał uroczysty taniec. Faraon zdjął swój złoty hełm i pancerz wielkiej wartości i oboje oddał Ozyrysowi żądając, aby dary te zostały w boskim skarbcu i nie były odnoszone do Labiryntu.
 
-each order. And if they declare that Egypt is in need the labyrinth
+W zamian za hojność arcykapłan ofiarował władcy najpiękniejszą piętnastoletnią tancerkę, która wydawała się bardzo zadowoloną ze swego losu.
 
-will furnish me with treasure."
+Gdy faraon znalazł się w sali „odpoczynku”, usiadł na tronie, a jego zastępca religijny, Sem, przy dźwiękach muzyki i wśród dymu kadzideł, wszedł do sanktuarium, ażeby wynieść stamtąd bożka.
 
-"O gods!" added he, "for a couple for one of the jewels which lie there
+W pół godziny, przy ogłuszającym dźwięku dzwonków, ukazała się w mroku komnaty złota łódź, okryta zasłonami, które niekiedy poruszały się, jakby za nimi siedziała żywa istota.
 
-it would be possible to give the people fifty rest days in a year!
+Kapłani upadli na twarz, a Ramzes pilniej wpatrzył się w przezroczyste zasłony. Jedna uchyliła się i faraon ujrzał nadzwyczajnej piękności dziecko, które spojrzało na niego tak mądrymi oczyma, że władca Egiptu uczuł nieomal trwogę.
 
-Never will they be used to better purpose."
+— Oto jest Horus — szeptali kapłani — Horus, wschodzące słońce... Jest on synem i ojcem Ozyrysa, i mężem swej matki, która jest jego siostrą.
 
-Pentuer shook his head.
+Rozpoczęła się procesja, ale tylko po wewnętrznej świątyni. Naprzód szli harfiarze i tancerki, potem biały wół ze złotą tarczą między rogami. Dalej dwa chóry kapłanów i arcykapłani niosący bożka, potem znowu chóry i nareszcie faraon w lektyce dźwiganej przez ośmiu kapłanów.
 
-"Lord," said he, "the six million Egyptians, with me and my friends
+Gdy procesja obeszła wszystkie sale i korytarze świątyni, bożek i Ramzes obaj wrócili do komnaty „odpoczynku”. Wówczas zasłony okrywające łódź świętą odchyliły się po raz drugi i piękne dziecko — uśmiechnęło się do faraona.
 
-before others, will agree that Thou take from that treasure. But, O
+Po czym łódź i bożka Sem odniósł do kaplicy.
 
-holiness, be not deceived; one hundred of the highest dignitaries of
+„Może by zostać arcykapłanem?” — pomyślał władca, któremu dziecko tak się podobało, że rad był widywać je jak najczęściej.
 
-the state will oppose, and then the labyrinth will give nothing."
+Lecz gdy wyszedł ze świątyni, zobaczył słońce i niezmierny tłum radującego się ludu, przyznał w duchu, że — nic nie rozumie. Ani skąd wzięło się owe dziecko niepodobne do żadnego z egipskich? ani skąd ta nadludzka mądrość w jego oczach? ani — co to wszystko oznacza?...
 
-"They wish me, then, to beg before some temple!" burst out the pharaoh.
+Nagle przyszedł mu na myśl jego zamordowany synek, który mógł być równie pięknym, i władca Egiptu wobec stu tysięcy poddanych — rozpłakał się.
 
-"No," replied the priest. "They fear lest that treasure house be
+— Nawrócony!... nawrócony faraon!... — mówili kapłani. — Ledwie wstąpił do przybytku Ozyrysa, i oto poruszyło się jego serce!...
 
-emptied once Thou touch it. They will suspect thy most faithful
+Tego samego dnia jeden ślepy i dwóch paralityków modlących się za murem świątyni odzyskało zdrowie. Więc rada kapłańska uchwaliła, ażeby dzień ten zaliczyć do rzędu cudownych i na zewnętrznej ścianie gmachu wymalować obraz przedstawiający zapłakanego faraona i uzdrowionych kaleków.
 
-servants, holiness, of sharing in the profits flowing from the
+Dobrze po południu Ramzes wrócił do swego pałacu, aby wysłuchać raportów. Gdy zaś wszyscy dostojnicy opuścili gabinet pana, przyszedł Tutmozis mówiąc:
 
-labyrinth. And then envy will whisper to each of them: 'Why shouldst
+— Kapłan Samentu pragnie złożyć hołd waszej świątobliwości.
 
-Thou not profit also?' Not hatred of thee, holiness, but mutual
+— Dobrze, wprowadź go.
 
-distrust, greed, will urge them to resistance."
+— On błaga cię, panie, ażebyś przyjął go w namiocie, wśród wojskowego obozu, i twierdzi, że mury pałaców lubią podsłuchiwać...
 
-When he heard this the pharaoh was calm, he smiled even.
+— Ciekawym, czego chce?... — rzekł faraon i zapowiedział dworzanom, że noc przepędzi w obozie.
 
-"If it be as Thou sayst, be at rest, beloved Pentuer. At this moment I
+Przed zachodem słońca pan odjechał z Tutmozisem do swoich wiernych wojsk i znalazł tam królewski namiot, przy którym z polecenia Tutmozisa wartę trzymali Azjaci.
 
-understand exactly why Amon established the authority of the pharaoh
+Wieczorem przyszedł Samentu odziany w płaszcz pielgrzyma i ze czcią powitawszy jego świątobliwość, szepnął:
 
-and gave him superhuman power. For the purpose, seest thou, that a
+— Zdaje mi się, że przez całą drogę szedł za mną jakiś człowiek, który zatrzymał się nie opodal boskiego namiotu. Może to wysłannik arcykapłanów?...
 
-hundred, even of the most distinguished rascals, should not wreck the
+Na rozkaz faraona wybiegł Tutmozis i rzeczywiście znalazł obcego oficera.
 
-state."
+— Kto jesteś? — zapytał.
 
-Ramses rose from his armchair and added,
+— Jestem Eunana, setnik pułku Izydy... Nieszczęśliwy Eunana, wasza dostojność nie pamięta mnie?... Więcej niż rok temu na manewrach pod Pi-Bailos odkryłem święte skarabeusze...
 
-"Say to 'my people: Work and be patient. Say to the priests who are
+— Ach, to ty!... — przerwał Tutmozis. — Twój pułk przecież nie stoi w Abydos?
 
-loyal: Serve the gods and cultivate wisdom, which is the sun of the
+— Woda prawdy płynie z ust waszych. Stoimy w nędznej okolicy pod Mena, gdzie kapłani rozkazali nam poprawiać kanał, jak chłopom albo Żydom...
 
-universe. But those stubborn and suspicious dignitaries leave to my
+— Skądżeś się tu wziął?
 
-management. Woe to them if they anger me."
+— Ubłagałem starszych o kilkudniowy odpoczynek — odparł Eunana — i jak spragniony jeleń do źródła przybiegłem tutaj dzięki chyżości moich nóg.
 
-"Lord," said the priest, "I am thy faithful servant."
+— Więc czego chcesz?
 
-But when he had taken farewell and gone out care was evident on his
+— Chcę żebrać miłosierdzia u jego świątobliwości przeciw ogolonym łbom, którzy nie dają mi awansu dlatego, że jestem tkliwy na cierpienia żołnierzy.
 
-face.
+Tutmozis markotny wrócił do namiotu i powtórzył faraonowi rozmowę z Eunaną.
 
-About seventy-five miles from Siut, higher up the Nile, the wild
+— Eunana?... — powtórzył pan. — Prawda, pamiętam go... Narobił nam kłopotu skarabeuszami, ale też i dostał pięćdziesiąt kijów z łaski Herhora. I mówisz, że skarży się na kapłanów?... Daj go tu!...
 
-Arabian rocks almost touch the river, but the Libyan hills have pushed
+Faraon kazał odejść Samentowi do drugiego przedziału w namiocie, a swego ulubieńca wysłał po Eunanę.
 
-away so far from it that the valley at that point is perhaps the widest
+Niebawem ukazał się nieszczęśliwy oficer. Upadł twarzą na ziemię, a potem klęcząc i wzdychając, mówił:
 
-part of Egypt. Just there, side by side, stood Tibis and Abydos, two
+— „Co dzień modlę się do Re Harmachis przy jego wschodzie i zachodzie i do Amona, i Re, i Ptaha, i do innych bogów i bogiń: Obyś ty zdrów był, władco Egiptu! Obyś został przy życiu! Oby ci się dobrze wiodło, a ja ażebym mógł choć blaski twoich pięt oglądać...”
 
-holy cities. There was born the first Egyptian pharaoh, Menes, there, a
+— Czego on chce? — spytał faraon Tutmozisa, pierwszy raz przestrzegając etykiety.
 
-hundred thousand years before, were laid in the grave the holy relics
+— Jego świątobliwość raczy zapytywać: czego chcesz? — powtórzył Tutmozis.
 
-of the god Osiris slain by Set (his brother Typhon) treacherously.
+Obłudny Eunana, wciąż klęcząc, zwrócił się do ulubieńca i prawił:
 
-There, finally, in memory of those great events, the famous pharaoh
+— Jesteś, wasza dostojność, uchem i okiem pana, który daje nam radość i życie, a więc odpowiem ci jak na sądzie Ozyrysa:
 
-Seti built a temple to which pilgrims came from every part of Egypt.
+Służę w kapłańskim pułku boskiej Izydy dziesięć lat, walczyłem sześć lat na wschodnich kresach. Rówieśnicy moi zostali już pułkownikami, ale ja wciąż jestem tylko setnikiem i wciąż biorę kije z polecenia bogobojnych kapłanów.
 
-Each believer was bound even once during life to bring his forehead to
+I za co dzieje mi się taka krzywda?
 
-the blessed earth of Abydos. Truly happy was he whose mummy could make
+„W dzień obracam serce moje do książek, a w nocy czytam; bo głupiec, który opuszcza książki tak prędko jak uciekająca gazela, jest podłego umysłu, równy osłowi, który bierze cięgi, równy głuchemu, który nie słyszy i do którego trzeba mówić ręką. Mimo tę moją chęć do nauk, nie jestem zarozumiałym z własnej wiedzy, lecz radzę się wszystkich, bo od każdego coś nauczyć się można, a czcigodnych mędrców otaczam szacunkiem...”
 
-a journey to that place and halt even at a distance from the temple.
+Faraon poruszył się niecierpliwie, lecz słuchał dalej, wiedząc, że prawy Egipcjanin uważa gadulstwo za swój obowiązek i najwyższą cześć dla przełożonych.
 
-The mummy of Ramses XII spent two days there; for he had been a ruler
+— Oto jaki jestem — prawił Eunana. — „W obcym domu nie oglądam się za kobietami, czeladzi jeść daję, co należy, ale gdy o mnie chodzi, nie sprzeczam się przy podziale. Mam zawsze zadowoloną twarz, a wobec zwierzchników zachowuję się z szacunkiem i nie siądę, gdy starszy człowiek stoi. Nie jestem natrętnym, a nieproszony, nie wchodzę do obcych domów. Co moje oko ujrzy, o tym milczę, bo wiem, że głuchymi jesteśmy dla tych, którzy wielu słów używają.
 
-noted for devotion. There is nothing wonderful in this, therefore, that
+Mądrość uczy, że ciało człowieka podobne jest do spichrza, pełne rozmaitych odpowiedzi. Dlatego zawsze wybieram dobrą i mówię dobrą, a złą chowam zamkniętą w ciele moim. Cudzych też oszczerstw nie powtarzam, a już co się tyczy poselstwa, zawsze spełniam je jak najlepiej...”
 
-Ramses XIII began his reign by rendering homage to the grave of Osiris.
+I co mam za to?... — kończył Eunana podniesionym głosem. — Cierpię głód, chodzę w łachmanach, a na grzbiecie leżeć nie mogę, tak jest zbity. Czytam w księgach, że stan kapłański wynagradzał męstwo i roztropność. Zaprawdę! musiało tak być kiedyś i już bardzo dawno. Bo dzisiejsi kapłani tyłem odwracają się od roztropnych, a męstwo i siłę wypędzają z oficerskich kości...
 
-Seti's temple was not among the oldest or most splendid in Egypt, but
+— Ja zasnę przy tym człowieku! — rzekł faraon.
 
-it was distinguished for pure Egyptian style. His holiness Ramses XIII,
+— Eunano — dodał Tutmozis — przekonałeś jego świątobliwość, że jesteś biegły w księgach, a teraz — powiedz jak najkrócej: czego pragniesz?
 
-accompanied by Sem the high priest, visited the temple and made
+— Strzała tak prędko nie dobiega celu, jak moja prośba doleci do boskich pięt jego świątobliwości — odparł Eunana. — Tak obmierzła mi służba u ogolonych łbów, taką goryczą kapłani napełnili moje serce, że — jeżeli nie będę przeniesiony do wojsk faraona, przebiję się własnym mieczem, przed którym nie raz i nie sto razy drżeli wrogowie Egiptu.
 
-offerings in it.
+Wolę być dziesiętnikiem, wolę być prostym żołnierzem jego świątobliwości aniżeli setnikiem w kapłańskich pułkach. Świnia albo pies może im służyć, nie prawowierny Egipcjanin!...
 
-The ground belonging to the edifice occupied a space of seventy-five
+Ostatnie frazesy Eunana wypowiedział z takim wściekłym gniewem, że faraon rzekł po grecku do Tutmozisa:
 
-hectares, on which were fish ponds, flower beds, orchards and vegetable
+— Weź go do gwardii. Oficer, który nie lubi kapłanów, może nam się przydać.
 
-gardens, besides the houses or rather villas of the temple priesthood.
+— Jego świątobliwość, pan obu światów, kazał przyjąć cię do swej gwardii — powtórzył Tutmozis.
 
-Everywhere grew poplars and acacias, as well as palm, fig, and orange
+— Zdrowie i życie moje należy do pana naszego Ramzesa... Oby żył wiecznie! — zawołał Eunana i ucałował dywan leżący pod królewskimi stopami.
 
-trees which formed alleys directed toward the cardinal points of the
+Gdy uszczęśliwiony Eunana cofał się tyłem z namiotu, co parę kroków padając na twarz i błogosławiąc władcę, faraon rzekł:
 
-world, or groups of trees of almost the same height and set out in
+— W gardle łaskotało mnie jego gadulstwo... Muszę ja nauczyć żołnierzy i oficerów egipskich, aby wyrażali się krótko, nie zaś jak uczeni pisarze.
 
-order.
+— Bodajby on miał tylko tę jedną wadę!... — szepnął Tutmozis, na którym Eunana niemiłe zrobił wrażenie.
 
-Under the watchful eyes of priests even the plant world did not develop
+Pan wezwał do siebie Samentu.
 
-according to its own impulses into irregular but picturesque groups; it
+— Bądź spokojny — powiedział do kapłana. — Ten oficer, który szedł za tobą, nie śledził cię. Jest on za głupi do spełniania tego rodzaju zleceń... Ale może mieć ciężką rękę na wypadek potrzeby!...
 
-was arranged in straight lines according to direction, or straight
+No — dodał faraon — a teraz powiedz: co cię skłania do podobnej ostrożności?
 
-lines according to height, or in geometrical figures.
+— Prawie już znam drogę do skarbca w Labiryncie — odparł Samentu.
 
-Palms, tamarinds, cypresses, and myrtles were arranged like warriors in
+Pan potrząsnął głową.
 
-ranks or columns. The grass was a divan shorn and ornamented with
+— Ciężka to rzecz — szepnął. — Godzinę biegałem po rozmaitych korytarzach i salach, jak mysz, którą kot goni. I przyznam ci się, że nie tylko nie rozumiem tej drogi, ale nawet nie wybrałbym się na nią sam. Śmierć na słońcu może być wesołą; ale śmierć w tych norach, gdzie kret zabłąkałby się... brr!...
 
-pictures made of flowers, not of any chance color, but of that color
+— A jednak musimy znaleźć i opanować tę drogę — rzekł Samentu.
 
-which was demanded. People looking from above saw pictures of gods or
+— A jeżeli dozorcy sami oddadzą nam potrzebną część skarbów?... — spytał faraon.
 
-sacred beasts blooming on the turf near the temple; a sage found there
+— Nie zrobią tego, dopóki żyje Mefres, Herhor i ich poplecznicy. Wierzaj mi, panie, że tym dostojnikom chodzi o to, ażeby owinęli cię w powijaki jak niemowlę...
 
-aphorisms written out in hieroglyphs.
+Faraon pobladł z gniewu.
 
-The central part of the gardens occupied a rectangular space nine
+— Obym ja nie zawinął ich w łańcuchy!... Jakim sposobem chcesz odkryć drogę?
 
-hundred yards long and three hundred wide. This space was enclosed by a
+— Tu, w Abydos, w grobie Ozyrysa znalazłem cały plan drogi do skarbca — rzekł kapłan.
 
-wall of no great height which had one visible gate and a number of
+— A skąd wiedziałeś, że on tu jest?
 
-secret entrances. Through the gate pious people entered the space which
+— Objaśniły mnie o tym napisy w mojej świątyni Seta.
 
-surrounded the dwelling of Osiris; this space was covered with a stone
+— Kiedyżeś znalazł plan?
 
-pavement. In the middle of the space stood the temple, a rectangular
+— Gdy mumia wiecznie żyjącego ojca waszej świątobliwości była w świątyni Ozyrysa — odparł Samentu. — Towarzyszyłem czcigodnym zwłokom i będąc na nocnej służbie w sali „odpoczynku”, wszedłem do sanktuarium.
 
-pile four hundred and fifty yards long and in width one hundred and
+— Tobie być jenerałem, nie arcykapłanem!... — zawołał śmiejąc się Ramzes. — I już rozumiesz drogę Labiryntu?...
 
-fifty.
+— Rozumiałem ją od dawna, a teraz zebrałem wskazówki do kierowania się.
 
-From the public gate to the temple was an avenue of sphinxes with human
+— Czy możesz mi to objaśnić?
 
-heads and lion bodies. They were in two lines, ten in each, and were
+— Owszem, nawet przy okazji pokażę waszej świątobliwości plan.
 
-gazing into each others' eyes. Only the highest dignitaries might pass
+Droga ta — ciągnął Samentu — przechodzi w zygzak cztery razy przez cały Labirynt; zaczyna się na najwyższym piętrze, kończy w najniższym podziemiu i posiada jeszcze mnóstwo zakrętów. Dlatego jest tak długa.
 
-between these sphinxes.
+— A jakże trafisz z jednej sali do drugiej, gdzie jest mnóstwo drzwi?...
 
-At the head of this avenue, and opposite the public gate, rose two
+— Na każdych drzwiach prowadzących do celu znajduje się cząstka zdania:
 
-obelisks or slender and lofty granite columns of four sides, on which
+„Biada zdrajcy, który usiłuje przeniknąć najwyższą tajemnicę państwa i wyciągnąć świętokradzką rękę na majątek bogów. Zwłoki jego będą jak padlina, a duch nie zazna spokoju, lecz będzie się tułał po miejscach ciemnych, szarpany przez własne grzechy...”
 
-was inscribed the history of the pharaoh Seti.
+— I ciebie nie odstrasza ten napis?
 
-Beyond the obelisks rose the gate of the temple having at both sides of
+— A waszą świątobliwość odstrasza widok libijskiej włóczni?... Groźby dobre są dla pospólstwa, nie dla mnie, który sam potrafiłbym napisać jeszcze groźniejsze przekleństwa...
 
-it gigantic piles in the form of truncated pyramids called pylons.
+Faraon zamyślił się.
 
-These were like two strong towers, on the walls of which were paintings
+— Masz słuszność — rzekł. — Włócznia nie zaszkodzi temu, kto potrafi ją odbić, a mylna droga nie obłąka mędrca, który zna słowo prawdy...
 
-representing the visits of Seti, or the offerings which he made to
+Jakże jednak sprawisz, ażeby ustępowały przed tobą kamienie w ścianach i ażeby kolumny zamieniały się na drzwi wchodowe?...
 
-divinities.
+Samentu pogardliwie wzruszył ramionami.
 
-Earth-tillers were not permitted to pass this gate which was free only
+— W mojej świątyni — odparł — są także niedostrzegalne wejścia, nawet trudniej otwierające się aniżeli w Labiryncie. Kto zna słowo tajemnicy, wszędzie trafi, jak słusznie powiedziałeś, wasza świątobliwość.
 
-to wealthy citizens and the privileged classes. Through it was the
+Faraon oparł głowę na ręku i wciąż dumał.
 
-entrance to the peristyle or court, surrounded by a corridor which had
+— Żal by mi cię było — rzekł — gdybyś na tej drodze spotkał nieszczęście...
 
-a multitude of columns. From this court, where there was room for ten
+— W najgorszym wypadku spotkam śmierć, a czyliż ona nie grozi nawet faraonom?... Czy wreszcie wasza świątobliwość nie szedłeś śmiało nad Jeziora Sodowe, choć nie byłeś pewny, że stamtąd powrócisz?...
 
-thousand people, persons of the noble order might go still farther to
+Nie myśl też, panie — ciągnął kapłan — że ja będę musiał przejść całą drogę, po której chodzą zwiedzający Labirynt. Znajdę bliższe punkta i w ciągu jednej modlitwy do Ozyrysa dostanę się tam, gdzie ty idąc mogłeś odmówić ze trzydzieści modlitw...
 
-the first hall, the hypostyle; this had a ceiling which rested on two
+— Alboż tam są inne wejścia?
 
-rows of lofty columns, and there was space in it for two thousand
+— Niezawodnie są, a ja muszę je znaleźć — odparł Samentu. — Nie wejdę przecież, jak wasza świątobliwość, w dzień ani główną bramą...
 
-worshippers. This hall was the last to which lay people were admitted.
+— Więc jak?...
 
-The highest dignitaries who had not received ordination had the right
+— Są w murze zewnętrznym niewidoczne furtki, które znam, a których mądrzy dozorcy Labiryntu nigdy nie pilnują... Na dziedzińcu warty w nocy są nieliczne i tak ufają opiece bogów czy trwodze pospólstwa, że najczęściej śpią... Prócz tego trzy razy między zachodem i wschodem słońca kapłani idą na modlitwę do świątyni, a ich żołnierze odbywają praktyki nabożne pod niebem... Zanim skończą jedno nabożeństwo, ja będę w gmachu...
 
-to pray there, and look thence at the veiled image of the god which
+— A jeżeli zabłądzisz?...
 
-rose in the hall of "divine apparition."
+— Mam plan.
 
-Beyond the hall of "divine apparition" was the chamber of "tables of
+— A jeżeli plan jest fałszywy? — mówił faraon, nie mogąc ukryć troski.
 
-offering," where priests placed before the gods gifts brought by the
+— A jeżeli wasza świątobliwość nie pozyska skarbów Labiryntu?... Jeżeli Fenicjanie, rozmyśliwszy się, nie dadzą przyobiecanej pożyczki?... Jeżeli wojsko będzie głodne, a nadzieje pospólstwa zostaną zawiedzione?...
 
-faithful. Next was the chamber of "repose," where the god rested when
+Racz mi wierzyć, panie mój — ciągnął kapłan — że ja wśród korytarzy Labiryntu będę bezpieczniejszy aniżeli ty w twoim państwie...
 
-returning from or going to a procession, and last was the chapel or
+— Ale ciemność... ciemność... I mury, których nie można przebić, i głębia, i te setki dróg, gdzie człowiek musi się zabłąkać... Wierz mi, Samentu, że walka z ludźmi to zabawka; ale szamotanie się z cieniem i nieświadomością to straszna rzecz!...
 
-sanctuary where the god had his residence.
+Samentu uśmiechnął się.
 
-Usually the chapel was very small, dark, sometimes cut out of one block
+— Wasza świątobliwość — odparł — nie zna mego życia... Kiedym miał lat dwadzieścia pięć, byłem kapłanem Ozyrysa...
 
-of stone. It was surrounded on all sides by chapels equally small,
+— Ty?... — zdziwił się Ramzes.
 
-filled with garments, furniture, vessels and jewels of the god which in
+— Ja, i zaraz powiem, dlaczego przeszedłem do służby Seta. Wyprawiono mnie na półwysep Synaj, aby tam wybudować małą kaplicę dla górników. Budowa ciągnęła się sześć lat, ja zaś, mając dużo wolnego czasu, włóczyłem się między górami i zwiedzałem tamtejsze pieczary.
 
-its inaccessible seclusion slept, bathed, was anointed with perfumes,
+Czego ja tam nie widziałem!... Korytarze długie na kilka godzin; ciasne wejścia, przez które trzeba było pełzać na brzuchu; izby tak ogromne, że w każdej zmieściłaby się świątynia. Oglądałem podziemne rzeki i jeziora, gmachy z kryształów, jaskinie zupełnie ciemne, w których nie było widać własnej ręki, albo znowu tak widne, jakby w nich świeciło drugie słońce...
 
-ate, drank, and as it seems even received visits from young and
+Ile razy zbłąkałem się w niezliczonych przejściach, ile razy zgasła mi pochodnia, ile razy stoczyłem się w niewidzialną przepaść!... Bywało, żem po kilka dni spędzał w podziemiach, karmiąc się prażonym jęczmieniem, liżąc wilgoć z mokrych skał, niepewny, czy wrócę na świat.
 
-beautiful women.
+Za to nabrałem doświadczenia, wzrok zaostrzył mi się i nawet polubiłem te piekielne krainy. A dziś, gdy pomyślę o dziecinnych skrytkach Labiryntu, śmiać mi się chce... Gmachy ludzkie są kretowiskami wobec niezmiernych budowli wzniesionych przez ciche i niewidzialne duchy ziemi.
 
-This sanctuary was entered only by the high priest, and the ruling
+Raz jednak spotkałem rzecz straszną, która wpłynęła na zmianę mego stanowiska.
 
-pharaoh if he had received ordination. If an ordinary mortal entered he
+Na zachód od kopalni Synaj leży węzeł wąwozów i gór, wśród których często odzywają się podziemne grzmoty, ziemia drży, a niekiedy widać płomienie. Zaciekawiony, wybrałem się tam na czas dłuższy, szukałem i dzięki niepozornej szczelinie odkryłem cały łańcuch olbrzymich pieczar, pod których sklepieniami mogłaby pomieścić się największa piramida.
 
-might lose his life there.
+Kiedy się tam błąkałem, doleciał mnie bardzo silny zapach zgnilizny, tak przykry, że chciałem uciec. Przemógłszy się jednak, wszedłem do pieczary, skąd pochodził, i zobaczyłem...
 
-The walls and columns of each hall were covered with inscriptions and
+Racz wyobrazić sobie, panie, człowieka, który ma nogi i ręce o połowę krótsze niż my, ale grube, niezgrabne i zakończone pazurami. Dodaj temu kształtowi szeroki, z boków spłaszczony ogon, na wierzchu powycinany jak grzebień koguci; dodaj bardzo długą szyję, a na niej — psią głowę. Nareszcie ubierz tego potwora w zbroję pokrytą na grzbiecie zagiętymi kolcami...
 
-explanatory paintings. In the corridor surrounding the peristyle were
+Teraz pomyśl, że figura ta stoi na nogach, rękoma i piersiami oparta o skałę...
 
-the names and portraits of all the pharaohs from Menes the first ruler
+— Coś bardzo brzydkiego — wtrącił faraon. — Zaraz bym to zabił...
 
-of Egypt to Ramses XII In the hypostyle, or hall for nobles, the
+— To nie było brzydkie — mówił kapłan wstrząsając się. — Bo pomyśl, panie, że ten potwór był wysoki jak obelisk...
 
-geography and statistics of Egypt were presented pictorially, also the
+Ramzes XIII zrobił gest niezadowolenia.
 
-subject nations. In the hall of "apparition" were the calendar and the
+— Samentu — rzekł — zdaje mi się, żeś twoje pieczary zwiedzał we śnie...
 
-results of astronomical observation; in the chamber of "tables of
+— Przysięgam ci, panie, na życie moich dzieci — zawołał kapłan — że mówię prawdę!... Tak jest, ten potwór w skórze gada, okryty kolczastą zbroją, gdyby leżał na ziemi, miałby wraz z ogonem z pięćdziesiąt kroków długości... Pomimo trwogi i odrazy kilkakrotnie wracałem do jego jaskini i obejrzałem go jak najuważniej...
 
-offering," and in that of "repose" figured pictures relating to
+— Więc on żył?
 
-religious ceremonial, and in the sanctuary rules for summoning beings
+— Nie. To już był trup, bardzo dawny, ale tak zachowany jak nasze mumie. Utrzymała go wielka suchość powietrza, a może nie znane mi sole ziemi.
 
-beyond the earth and controlling the phenomena of nature.
+Było to moje ostatnie odkrycie — ciągnął Samentu. Nie wchodziłem już do jaskiń, alem dużo rozmyślał. Ozyrys — mówiłem — tworzy wielkie istoty: lwy, słonie, konie... zaś Set rodzi węża, nietoperza, krokodyla... Potwór, którego spotkałem, jest na pewno tworem Seta, a ponieważ przerasta wszystko, co znamy pod słońcem, więc Set jest mocniejszym bogiem aniżeli Ozyrys.
 
-This last kind of knowledge was contained in statements so involved
+Wówczas nawróciłem się do Seta, a przyjechawszy do Egiptu, osiadłem w jego świątyni. Gdym zaś opowiedział kapłanom o moim odkryciu, objaśnili mnie, że znają nierównie więcej takich potworów.
 
-that even priests in the time of Ramses XII did not understand them.
+Samentu odpoczął i mówił dalej:
 
-The Chaldean Beroes was to revive this expiring wisdom.
+— Jeżeli kiedy wasza świątobliwość zechce odwiedzić naszą świątynię, pokażę wam w grobach dziwne i straszne istoty: gęsi z jaszczurczymi głowami a skrzydłami nietoperza, jaszczurki podobne do łabędzi, lecz większe od strusiów, krokodyla trzy razy dłuższego aniżeli te, które mieszkają w Nilu, żabę wielkości psa...
 
-Ramses XIII, after he had rested two days in the official palace at
+Są to albo mumie, albo szkielety znalezione w jaskiniach i przechowujące się w naszych grobach. Lud myśli, że my im cześć składamy, a tymczasem my tylko badamy ich budowę i chronimy od zepsucia.
 
-Abydos, betook himself to the temple. He wore a white tunic, a gold
+— Uwierzę ci, gdy sam zobaczę — odparł faraon. — Ale powiedz mi, skąd mogłyby się wziąć podobne istoty w jaskiniach?...
 
-breastplate, an apron with orange and blue stripes, a steel sword at
+— Panie mój — mówił kapłan — świat, na którym żyjemy, ulega wielkim zmianom. Już w samym Egipcie znajdujemy gruzy miast i świątyń głęboko ukryte w ziemi. Był czas, że miejsce Dolnego Egiptu zajmowała odnoga morska, a Nil płynął całą szerokością naszej doliny. Jeszcze dawniej tu, gdzie jest nasze państwo, było morze... Nasi zaś przodkowie zamieszkiwali krainę, którą dziś zajęła pustynia zachodnia...
 
-his side and on his head a golden helmet. The pharaoh sat in a chariot
+Jeszcze dawniej, przed dziesiątkami tysięcy lat, nie było ludzi takich jak my, ale stworzenia podobne do małp, które jednak umiały budować szałasy, podtrzymywać ogień, walczyć maczugami i kamieniami. Wówczas nie było koni ani wołów; ale słonie, nosorożce i lwy — trzy lub cztery razy przechodziły wzrostem dzisiejsze zwierzęta mające tę samą postać.
 
-drawn by horses adorned with ostrich plumes, and was conducted by
+Lecz i olbrzymie słonie nie są najstarszymi potworami. Dawniej bowiem od nich żyły niezmierne gady: latające, pływające i chodzące. Przed gadami na tym świecie były tylko ślimaki i ryby, a przed nimi — same rośliny, ale takie, jakich dziś już nie ma...
 
-nomarchs as he moved slowly toward the house of Osiris, surrounded by
+— A jeszcze dawniej?... — spytał Ramzes.
 
-his officers.
+— Jeszcze dawniej ziemia była pusta i próżna, a Duch Boży unosił się nad wodami...
 
-Whithersoever he looked: toward the field, the river, the roofs of
+— Coś słyszałem o tym — rzekł faraon — ale nie prędzej uwierzę, aż mi pokażesz mumie potworów, jakie mają spoczywać w waszej świątyni.
 
-houses, or even the limbs of tamarind and fig-trees there was a throng
+— Za pozwoleniem waszej świątobliwości, dokończę, com zaczął — mówił Samentu. — Otóż kiedy w pieczarze Synaj zobaczyłem owego ogromnego trupa, zdjął mnie strach i przez parę lat nie byłbym poszedł do żadnej jaskini. Ale gdy kapłani Seta wytłumaczyli mi, skąd się wzięły tak dziwne istoty, trwoga moja znikła, a ciekawość wzmogła się. I dziś nie ma dla mnie milszej zabawy jak błąkać się po podziemiach i szukać dróg wśród ciemności. Z tego powodu Labirynt nie sprawi mi więcej trudów jak przechadzka po królewskim ogrodzie.
 
-of people, and an unceasing shout which was like the roar of a tempest.
+— Samentu — rzekł pan — bardzo cenię twoją nadludzką odwagę i mądrość. Opowiedziałeś mi tyle ciekawych rzeczy, że zaprawdę sam nabrałem ochoty do oglądania jaskiń i kiedyś może popłynę razem z tobą do Synaj.
 
-When he arrived at the temple the pharaoh stopped his horses and
+Niemniej jednak obawiam się, czy poradzisz sobie z Labiryntem, i na wszelki wypadek zwołam zgromadzenie Egipcjan, aby upoważniło mnie do korzystania ze skarbca.
 
-descended before the public gate. This act pleased the common people
+— To nigdy nie zawadzi — odparł kapłan. — Ale moja praca niemniej będzie potrzebną, bo Mefres i Herhor nie zgodzą się na wydanie skarbu.
 
-and delighted the priesthood. He passed on foot along the avenue of
+— I masz pewność, że ci się uda?... — uporczywie zapytywał faraon.
 
-sphinxes and, greeted by the holy men, burned incense before the
+— Jak Egipt Egiptem — przekonywał go Samentu — nie było człowieka, który by posiadał tyle środków, co ja, do zwyciężenia w tej walce, która dla mnie nie jest nawet walką, ale zabawą.
 
-statues of Seti which occupied both sides of the main entrance.
+Jednych straszy ciemność, którą ja lubię, a nawet widzę wśród niej. Inni nie potrafią kierować się pomiędzy licznymi komnatami i kurytarzami, ja robię to z łatwością. Jeszcze inni nie znają tajemnic otwierania drzwi utajonych, z czym ja jestem obeznany.
 
-In the peristyle the high priest turned the attention of his holiness
+Gdybym nic więcej nie posiadał nad to, co wyliczyłem, już w ciągu miesiąca lub dwu odkryłbym drogi w Labiryncie. Ale ja mam jeszcze plan szczegółowy tych przejść i znam wyrazy, które przeprowadzą mnie z sali do sali. Co mi więc może przeszkodzić?...
 
-to the splendid portraits of the pharaohs, and pointed out the place
+— A jednak na dnie serca twego leży wątpliwość: zląkłeś się bowiem oficera, który zdawał się iść za tobą...
 
-selected for that of Ramses. In the hypostyle he indicated to him the
+Kapłan wzruszył ramionami.
 
-meaning of the geographical maps and statistical tables.
+— Ja niczego i nikogo nie lękam się — odparł spokojnie — tylko jestem ostrożny. Przewiduję wszystko i jestem nawet na to przygotowany, że mnie złapią...
 
-In the chamber of "divine apparition" Ramses offered incense to the
+— Straszne czekałyby cię męki!... — szepnął Ramzes.
 
-gigantic statue of Osiris, and the high priest showed him the columns
+— Żadne. Prosto z podziemiów Labiryntu otworzę sobie drzwi do krainy, gdzie panuje wieczne światło.
 
-dedicated to the separate planets: Mercury, Venus, the moon, Mars,
+— I nie będziesz miał do mnie żalu?...
 
-Jupiter, and Saturn. The planets stood around statues of the sun god to
+— Za co?... — spytał kapłan. — Dojdę do wielkiego celu: chcę w państwie zająć miejsce Herhora...
 
-the number of seven.
+— Przysięgam, że je zajmiesz!...
 
-"Thou hast told me," said Ramses, "that there are six planets;
+— O ile nie zginę — odparł Samentu. — A że na szczyty gór wchodzi się nad przepaściami, że w tej wędrówce może się poślizgnąć noga i spadnę, cóż to znaczy? Ty, panie, zajmiesz się losem moich dzieci.
 
-meanwhile I see seven columns."
-
-"The seventh represents the earth, which is also a planet."
-
-The astonished pharaoh asked for explanation, but the sage was silent,
-
-indicating by signs that his lips were sealed on that subject.
-
-In the chamber of the "tables of offering" was heard low but beautiful
-
-music, during which a solemn dance was given by a chorus of
-
-priestesses.
-
-The pharaoh removed his golden helmet; next, his breastplate of great
-
-value, and gave both to Osiris, desiring that these gifts should remain
-
-in the treasury of the god, and not be transferred to the labyrinth.
-
-In return for his bounty the high priest bestowed on the sovereign a
-
-most beautiful dancer fifteen years of age, who seemed greatly
-
-delighted with her fortune.
-
-When the pharaoh found himself in the hall of "repose" he sat on the
-
-throne, and his substitute in religion, Sem, to the sound of music and
-
-amid the smoke of censers, entered the sanctuary to bring forth the
-
-divinity.
-
-Half an hour later, to the deafening sound of bells, appeared in the
-
-gloom of the chamber a golden boat hidden by curtains which moved at
-
-times as if some living being were sitting behind them.
-
-The priests prostrated themselves, and Ramses looked intently at the
-
-transparent curtains. One of these was turned aside and the pharaoh saw
-
-a child of rare beauty which looked at him with such wise eyes that the
-
-ruler of Egypt was almost afraid of it.
-
-"This is Horus," whispered the priest. "Horus the rising sun. He is the
-
-son of Osiris and also his father, and the husband of his own mother,
-
-who is his sister."
-
-The procession began, but only through the interior of the temple. In
-
-advance went harpers and female dancers, next a white bull with a
-
-golden shield between his horns, then two choruses of priests and high
-
-priests bearing the god, then choruses, and finally the pharaoh in a
-
-litter borne by eight priests of the temple.
-
-When the procession had passed through all the corridors and halls of
-
-the temple, and the god and Ramses had returned to the chamber of
-
-repose, the curtain concealing the sacred boat slipped apart and the
-
-beautiful child smiled at the pharaoh.
-
-After that Sem bore away the boat and the god to the chapel.
-
-"One might become a high priest," said the pharaoh, who was so pleased
-
-with the child that he would have been glad to see it as often as
-
-possible.
-
-But when he had gone forth from the temple and seen the sun and the
-
-throng of delighted people, he confessed in his soul that he understood
-
-nothing. He knew not whence they had brought that child, unlike any
-
-other child in Egypt, whence that superhuman wisdom in its eyes, nor
-
-what the meaning was of all that he himself had seen.
-
-Suddenly he remembered his murdered son, who might have been as
-
-beautiful, and the ruler of Egypt wept in presence of a hundred
-
-thousand subjects.
-
-"Converted! The pharaoh is converted!" said the priests. "Barely has he
-
-entered the dwelling of Osiris, and his heart is touched."
-
-That same day one blind man and two paralytics, who were praying
-
-outside the walls of the temple, recovered health. The council of
-
-priests decided, therefore, to reckon that day in the list of those
-
-which were miraculous, and to paint a picture on the external wall of
-
-the edifice representing the weeping pharaoh and the cured people.
-
-Ramses returned rather late in the afternoon to his palace to hear
-
-reports. When all the dignitaries had left the cabinet Tutmosis came in
-
-and said,
-
-"Holiness, the priest Samentu wishes to pay thee homage."
-
-"Well, let him come."
-
-"He implores thee, lord, to receive him in a tent in the military camp;
-
-he asserts that the walls of the palace are fond of listening."
-
-Before sunset, the pharaoh went with Tutmosis to his faithful troops
-
-and found among them the royal tent, at which Asiatics were on guard by
-
-command of Tutmosis.
-
-In the evening came Samentu dressed in the garb of a pilgrim, and when
-
-he had greeted his holiness with honor, he whispered,
-
-"It seems to me that I was followed the whole way by some man who has
-
-stopped not far from this tent, O holiness. Perhaps he was sent by the
-
-high priests."
-
-At the pharaoh's command Tutmosis ran out, and found, in fact, a
-
-strange officer.
-
-"Who art thou?" asked he.
-
-"I am Eunana, a centurion in the regiment of Isis. The unfortunate
-
-Eunana. Dost Thou not remember me, worthiness? More than a year ago at
-
-the maneuvers near Pi-Bailos I discovered the sacred scarabs."
-
-"Ah, that is thou!" interrupted Tutmosis. "But thy regiment is not in
-
-Abydos?"
-
-"The water of truth flows from thy lips. We are quartered at a wretched
-
-place near Mena where the priests have commanded us to clear a canal,
-
-as if we were Hebrews or earthdiggers."
-
-"How hast Thou appeared here?"
-
-"I implored my superiors for a rest of some days, and like a deer
-
-thirsting for a spring I, thanks to the swiftness of my feet, have
-
-hurried hither."
-
-"What dost Thou wish, then?"
-
-"I wish to beg favor of his holiness against the shaven heads who give
-
-me no promotion because I am sensitive to the sufferings of warriors."
-
-Tutmosis returned to the tent, ill-humored, and repeated the
-
-conversation to the pharaoh.
-
-"Eunana?" repeated the sovereign. "Yes, I remember him. He caused us
-
-trouble with his beetles, but got fifty blows of a stick through
-
-Herhor. And Thou sayst that he complains of the priests? Bring him
-
-hither."
-
-The pharaoh told Samentu to go into the second division of the tent.
-
-The unfortunate officer soon showed himself. He fell with his face to
-
-the earth, and then kneeling, and sighing, continued,
-
-"I pray every day at his rising and setting to Re Harmachis, and to
-
-Amon, and Re, and Ptah, and to other gods and goddesses, for thy
-
-health, O sovereign of Egypt! That Thou live! That Thou have success,
-
-and that I might see even the splendor of thy heel." [Authentic]
-
-"What does he wish?" asked the pharaoh of Tutmosis, observing etiquette
-
-for the first time.
-
-"His holiness is pleased to inquire what thy wish is?" repeated
-
-Tutmosis.
-
-The deceitful Eunana, remaining on his knees, turned toward the
-
-favorite, and said,
-
-"Thou art the ear and eye of the land; Thou givest delight and life,
-
-hence I will answer thee as at the judgment of Osiris: I have served in
-
-the priests' regiment of the divine Isis ten years; I have fought six
-
-years on the eastern boundary. Men of my age are commanders of
-
-thousands, but I am only a centurion. I receive blows of sticks at
-
-command of the god-fearing priests. And why is such injustice done me?
-
-In the day-time I think of books, and at night I read them, since the
-
-fool who leaves books as quickly as a gazelle takes to flight is of low
-
-mind; he is like the ass which receives lashes, like the deaf man who
-
-does not hear, and with whom one must speak with his fingers. In spite
-
-of my love for science I am not puffed up with my own knowledge, but I
-
-take counsel with all, for from each man it is possible to learn
-
-something, and I surround with my esteem worthy sages."
-
-The pharaoh moved impatiently, but listened on, knowing that an
-
-Egyptian considered garrulousness as his duty and the highest honor to
-
-superiors.
-
-"This is what I am," said Eunana. "In a strange house I look not at
-
-women. I give my attendants to eat what is proper, but when my turn
-
-comes I dispute not about the division. I have a face which is
-
-satisfied at all times, and in presence of superiors I act
-
-respectfully. I never sit in the presence of an older man standing; I
-
-am not forward, and without invitation I go not into other men's
-
-houses. I am silent touching that which my eyes see, for I know that we
-
-are deaf to men who use many words.
-
-"Wisdom teaches that the body of a man is like a granary full of
-
-various objects. Therefore, I choose at all times the good that is in
-
-me and express it. I keep the bad shut up in my person. The deceits of
-
-other men I repeat not, and as to that which is committed to me I
-
-always accomplish it in the best manner possible.
-
-"And what is my reward?" finished Eunana, raising his voice; "I suffer
-
-cold, I go in rags, I am not able to lie on my back, it is so beaten. I
-
-read in books that the priestly order rewards valor and prudence.
-
-Indeed! that must have been at some other time, and very long ago. For
-
-the priests of today turn from men of ability and drive strength and
-
-valor out of the bones of officers."
-
-"I shall fall asleep in presence of this man," said the pharaoh.
-
-"Eunana," said Tutmosis, "his holiness is convinced that Thou art
-
-expert in books, but tell now in as few words as possible what thy wish
-
-is."
-
-"An arrow does not go so quickly to its mark as my request will fly to
-
-the divine feet of his holiness," replied Eunana. "The service of the
-
-shaven heads has so disgusted me, the priests have filled my heart with
-
-such bitterness, that if I am not transferred to the army of the
-
-pharaoh, I shall pierce myself with my own sword, before which the
-
-enemies of Egypt have trembled more than one time and more than a
-
-hundred times. I would rather be a decurion, nay a simple warrior of
-
-his holiness than a centurion in priestly regiments; a pig or a dog may
-
-serve them, but not a believing Egyptian!"
-
-Eunana uttered the last words with such mad anger that the pharaoh said
-
-in Greek to Tutmosis,
-
-"Take him to the guard. An officer who does not like the priests may be
-
-of use to us."
-
-"His holiness, the lord of both worlds has given command to receive
-
-thee into his guard," repeated Tutmosis.
-
-"My health and life belong to our lord. May he live through eternity!"
-
-exclaimed Eunana, and he kissed the footstool beneath the feet of the
-
-pharaoh.
-
-Eunana, now made happy, moved backward, falling on his face after every
-
-couple of steps, and left the tent, blessing his sovereign.
-
-"His garrulousness irritated me," said Ramses. "I must teach Egyptian
-
-soldiers and officers to speak briefly, not like learned scribes."
-
-"May the gods grant that to be his only failing," whispered Tutmosis,
-
-on whom Eunana had made a bad impression.
-
-Ramses summoned Samentu.
-
-"Be at rest," said he to the priest. "That officer who came after thee
-
-was not following. He is too stupid for commissions of that sort. But a
-
-heavy hand may be used in case of necessity. Well, now, tell me what
-
-inclined thee to such cautiousness?"
-
-"I know, almost, the road to the treasure chambers in the labyrinth,"
-
-said Samentu.
-
-The pharaoh shook his head.
-
-"That is a difficult task," said he in a low voice. "I ran an hour
-
-through various halls and corridors, like a mouse chased by a cat. And
-
-I confess that, not merely did I not understand that road, but I could
-
-not have even escaped from the place unattended. Death in the sunlight
-
-may be pleasant, but death in those dens, where a mole would lose its
-
-way! Brr!"
-
-"Still we must find that road and master it," said Samentu.
-
-"But if the overseers themselves give the necessary part of the
-
-treasure," inquired the pharaoh.
-
-"They will not do that while Mefres, Herhor, and their confederates are
-
-living. Believe me, sovereign, the question for those dignitaries is to
-
-roll thee in swaddling clothes, like an infant."
-
-Ramses grew pale from anger.
-
-"Unless I wind them in chains! How wilt Thou discover the way?"
-
-"Here in Abydos, in the grave of Osiris, I found the whole plan of the
-
-road to the treasure," said Samentu.
-
-"But how didst Thou learn that it was here?"
-
-"Inscriptions in my temple of Set explained that to me."
-
-"When didst Thou find the plan?"
-
-"When the mummy of thy eternally living father, O holiness, was in the
-
-temple of Osiris. I accompanied the revered relics and while on night
-
-service in the hall of 'repose' I entered the sanctuary."
-
-"Thou shouldst be a general, not a high priest!" cried Ramses,
-
-laughing. "And now Thou understandest the way of the labyrinth?"
-
-"I have understood it this long time, now I have taken indications for
-
-guidance."
-
-"Canst Thou explain it to me?"
-
-"Of course, at the right time, I will even show thee a plan, holiness.
-
-That way," continued Samentu, "passes in zigzags four times through the
-
-whole labyrinth; it begins on the upper story and ends in the lowest
-
-place underground, and has a number of other twists. That is why it is
-
-so long."
-
-"And how couldst Thou go from one hall to another when there is such a
-
-multitude of doors in them?"
-
-"On every door leading to the object there is a portion of this
-
-sentence: 'Woe to the traitor who tries to penetrate the supreme secret
-
-of the state and to stretch forth a sacrilegious hand toward the
-
-treasure of the gods. His remains will be like offal, and his soul,
-
-torn by its sins, will wander without rest, through dark places.'"
-
-"And that inscription does not terrify thee?"
-
-"But, holiness, does the sight of a Libyan spear terrify thee? Threats
-
-are good against common people, but not against me, who am able myself
-
-to write curses still more dreadful."
-
-The pharaoh fell to thinking.
-
-"Thou art right," said he. "A spear will not harm him who knows how to
-
-ward it off, and a deceitful road will not lead astray the sage who
-
-knows the word of truth. But how wilt Thou manage to make stones in the
-
-wall move apart before thee, and columns change into doors of
-
-entrance?"
-
-Samentu shrugged his shoulders contemptuously.
-
-"In my temple," replied he, "there are imperceptible entrances even
-
-more difficult to open than those in the labyrinth. Whoso knows the key
-
-to a mystery can go everywhere, as Thou hast said justly, O holiness."
-
-Ramses rested his head on his hand and continued thinking.
-
-"I should be sorry," said he, "if misfortune were to meet thee on the
-
-way."
-
-"In the worst event I shall meet death, and does not death threaten
-
-even a pharaoh. Besides, didst Thou not march to the Soda Lakes boldly,
-
-though Thou wert not sure of returning? And, lord, think not,"
-
-continued the priest, "that I must pass over the same distance as other
-
-men who visit the labyrinth. I shall find nearer points, and in the
-
-course of one prayer to Osiris I can reach a place which Thou wouldst
-
-only reach after thirty prayers."
-
-"But are there other entrances?"
-
-"There are, most assuredly, and I must find them. I shall not enter as
-
-Thou didst, by the main gate or in the daytime."
-
-"How then?"
-
-"There are external doors which I know and which the wise overseers of
-
-the labyrinth leave unguarded. In the court the watches are not
-
-numerous and they trust so much to the care of the gods, or to the fear
-
-of the people that they sleep in the night time most frequently.
-
-Besides, the priests go to pray in the temple three times between
-
-sunset and sunrise, but the guards perform their devotions in the open
-
-air. Before one prayer is finished I shall be in the edifice."
-
-"And if Thou go astray?"
-
-"I have a plan."
-
-"But if the plan is imperfect?" asked the pharaoh, unable to hide his
-
-anxiety.
-
-"But, holiness, if Thou obtain not the treasures of the labyrinth? If
-
-the Phoenicians change their minds and refuse the promised loan? If the
-
-army be hungry, and the hopes of the common people be deceived? Be
-
-pleased to believe me, lord," continued the priest, "that I amid the
-
-corridors of the labyrinth shall be safer than Thou in thy kingdom of
-
-Egypt."
-
-"But the darkness the darkness! And the walls which one cannot break
-
-through, and the depth, and those hundreds of ways in which he who
-
-enters must lose himself. Believe me, Samentu, a battle with men is
-
-amusement, but a conflict with darkness and doubt that is dreadful."
-
-"Holiness," answered Samentu, smiling, "Thou dost not know my life. At
-
-the age of twenty-five I was a priest of Osiris."
-
-"Thou?" asked Ramses, with astonishment.
-
-"I, and I will tell at once why I passed to the service of Set. They
-
-sent me to the peninsula of Sinai to build a small chapel for miners.
-
-The labor of building continued six years. I, had much free time and
-
-wandered among mountains, examining the caves in them.
-
-"What have I not seen in those places! Corridors so long that it took
-
-hours to pass through them, narrow entrances through which if a man
-
-passes he must crawl on his stomach; chambers so immense that in each a
-
-whole temple might find room sufficient. I saw underground rivers,
-
-lakes, crystal chambers, dens totally dark in which no man could see
-
-his own hand, again others in which there was as much light as if a
-
-second sun had been shining there.
-
-"How often have I been lost in countless passages, how often has my
-
-torch gone out, how often was I approaching an unseen precipice? I have
-
-passed many days in subterranean places, living on parched barley,
-
-licking the moisture from wet rocks, not knowing whether I should ever
-
-see this upper world again.
-
-"But I gained experience. My vision grew sharp and I even came to love
-
-those underground regions. And today when I think of the childish
-
-recesses of the labyrinth I am ready for laughter. Edifices built by
-
-men are like mole-hills when compared with the immense structures
-
-reared by those silent and invisible earth spirits.
-
-"But once I met a dreadful thing which brought me to change my
-
-position. West from the quarries of Sinai is a group of ravines and
-
-mountains among which subterranean thunders are heard frequently, the
-
-earth trembles, and flames are seen sometimes. I was made curious, so I
-
-went there for a longer visit. I sought, and, thanks to an
-
-inconsiderable opening, I discovered a whole chain of immense caves
-
-under the arches of which it would be possible to place the largest
-
-pyramid.
-
-"When I wandered into those places I was met by a smell of
-
-putrefaction, a smell so strong that I wished to flee from it. But,
-
-conquering myself, I entered the cave whence it came, and beheld
-
-Imagine, lord, a man with legs and arms shorter by one half than ours,
-
-but thick, awkward, and with claws at their extremities. Add to this
-
-figure a broad tail, flattened at the side, indented like the comb of a
-
-cock, a very long neck, and on it a dog's head. Finally, dress this
-
-monster in armor covered on the back with carved spikes. Now imagine
-
-that figure standing on its feet with arms and breast resting against a
-
-cliff."
-
-"That was something very ugly," put in Ramses; "I should have killed it
-
-immediately."
-
-"It was not ugly," answered Samentu, shaking himself. "For think, lord,
-
-that monster was as tall as an obelisk."
-
-Ramses made a movement of displeasure.
-
-"Samentu," said he, "it seems to me that Thou didst visit thy caves in
-
-a dream."
-
-"I swear to thee, holiness, by the life of my children!" exclaimed the
-
-priest, "that I speak truth. Yes; that monster in the skin of a reptile
-
-covered with a scaly armor, if lying on the ground, would with its tail
-
-be fifty paces long. In spite of fear and repulsion I returned a number
-
-of times to that cave and examined the creature most carefully."
-
-"Then it was alive?"
-
-"No, it was dead. Dead a very long time, but preserved like our
-
-mummies. The great dryness of the air preserved it, and perhaps some.
-
-salt of the earth unknown to me.
-
-"That was my last discovery," continued Samentu. "I went no more into
-
-caves, for I meditated greatly. 'Osiris,' said I, 'creates lions,
-
-elephants, horses, and Set gives birth to serpents, bats, crocodiles;
-
-the monster which I met is surely a creation of Set, and since it
-
-exceeds everything known by us under the sun, Set is a mightier god
-
-than Osiris.'
-
-"So I turned to Set, and on returning to Egypt fixed myself in his
-
-temple. When I told the priests of my discovery they explained to me
-
-that they knew a great many monsters of that sort."
-
-Samentu drew breath, then continued,
-
-"Shouldst Thou desire to visit our temple at any time, holiness, I will
-
-show thee wondrous and terrible beings in coffins: geese with lizards'
-
-heads and bats' wings. Lizards like swans, but larger than ostriches,
-
-crocodiles three times as long as those which live now in the Nile,
-
-frogs as bulky as mastiffs. Those are mummies, or skeletons found in
-
-caves and preserved in our coffins. People think that we adore them,
-
-but we merely save them from decay and examine their structure."
-
-"I shall believe thee when I see them myself," replied the pharaoh.
-
-"But tell me, whence could such creatures come?"
-
-"The world in which we live, holiness, has suffered great changes. In
-
-Egypt itself we find ruins of cities and temples hidden in the earth
-
-deeply. There was a time when that which is now Lower Egypt was an arm
-
-of the sea, and the Nile flowed through the whole width of our valley.
-
-Still earlier the sea was here, where this kingdom is now. Our
-
-ancestors inhabited the region which the western desert has taken.
-
-Still earlier tens of thousands of years ago the people were not as we
-
-are, they rather resembled monkeys, but they knew how to build huts,
-
-they had fire, and they used stones and clubs in fighting.
-
-"There were no horses in those days, nor bulls; while elephants,
-
-rhinoceroses and lions were three or even four times as large as those
-
-beasts are in our time.
-
-"But enormous elephants were not the first creatures. Before them lived
-
-immense reptiles: flying, swimming, and walking. Earlier than the
-
-reptiles in this world there were only snails and fish, and before them
-
-only plants, but plants such as exist not at present."
-
-"And still earlier?" inquired Ramses.
-
-"Still earlier the earth was empty and void, and the spirit of God
-
-moved over the waters."
-
-"I have heard something of this," said Ramses, "but I shall not believe
-
-it till Thou show me mummies of monsters which, as Thou sayst, are in
-
-thy temple."
-
-"With permission, holiness, I will finish what I have begun," said
-
-Samentu. "When I saw that immense body in the cave at Sinai fear seized
-
-me, and for two years or more I entered no cave of any kind. But when
-
-priests of Set explained to me the origin of such wonderful creatures
-
-my alarm vanished and curiosity rose up in place of it. I have no
-
-pleasanter amusement today than to wander in subterranean places and
-
-search for ways amid darkness. For this reason the labyrinth will not
-
-cause me more trouble than a walk through the pharaoh's garden."
-
-"Samentu," said the sovereign, "I esteem thy marvelous daring and thy
-
-wisdom; Thou hast told me so many curious things that indeed I myself
-
-have conceived a wish to examine caves, and some time I will even go
-
-with thee to Sinai. Still I have fears as to thy conquest of the
-
-labyrinth, and in every event I will summon an assembly of Egyptians to
-
-empower me to use its treasures."
-
-"That will do no harm," replied the priest. "But none the less will my
-
-labor be needed, since Mefres and Herhor will never consent to yield
-
-the treasure."
-
-"And art Thou sure of success?" inquired Ramses persistently.
-
-"Since Egypt is Egypt," said Samentu, "there has not been a man who had
-
-such means to win victory as I have. This encounter is for me not even
-
-a struggle, but an amusement. Darkness terrifies some men; I love
-
-darkness and can even see in the midst of it. Others are unable to
-
-guide themselves among the numerous chambers and corridors; I shall do
-
-that very easily. Besides, the secrets of opening hidden doors are
-
-unknown to other men, while I know them thoroughly.
-
-"Had I nothing beyond what I have recounted I should discover the ways
-
-of the labyrinth in one month or in two, but I have besides a detailed
-
-plan of those passages and I know the expressions which will lead me
-
-from hall to hall. What then can hinder me?"
-
-"Still doubt is concealed at the bottom of thy heart; Thou didst fear
-
-that officer who seemed to pursue thee."
-
-The priest shrugged his shoulders.
-
-"I fear nothing and no man," replied he with calmness, "but I am
-
-cautious. I provide against everything, and I am prepared even for
-
-this, that they may seize me."
-
-"Dreadful tortures would await thee in that case!" whispered Ramses.
-
-"No tortures. I shall open a door directly from the subterranean
-
-chamber of the labyrinth to the land of endless light."
-
-"And wilt Thou not be sorry for me?"
-
-"Why should I? I aim at a great object; I wish to occupy Herhor's
-
-place."
-
-"I swear that Thou shalt have it."
-
-"Unless I perish," added Samentu. "But if I go along precipices to
-
-mountain summits, and in that wandering my foot slips and I fall, what
-
-does it signify? Thou, lord, wilt care for the future of my children?"
-
-"Go forward," said Ramses. "Thou art worthy to be my foremost
-
-assistant."
+— A więc idź — rzekł faraon. — Jesteś godzien być najprzedniejszym moim pomocnikiem.

@@ -38,39 +38,94 @@ defaults:
     scene_page_break_after_image: false
 book:
   title: Der Pharao
-  subtitle: Historischer Roman aus dem alten Aegypten
-  author: Boleslaw Prus
+  subtitle: Der große historische Roman aus dem alten Ägypten in neuer deutscher Ausgabe
+  author: Bolesław Prus
   translator: Motivatier Classics
-  translator_label: Deutsche Ausgabe
+  translator_label: Übersetzung und editorische Einrichtung
   language: de-DE
-  publisher: ''
-  rights: ''
+  publisher: Motivatier Hermann Stiftung
+  rights: © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.
   original_title: Faraon
-  source_title: 'The Pharaoh and the Priest: An Historical Novel of Ancient Egypt'
-  source_author: Boleslaw Prus
-  source_translator: Jeremiah Curtin
+  original_author: Bolesław Prus (Aleksander Głowacki, 1847–1912)
+  source_title: Faraon
+  source_author: Bolesław Prus
+  source_translator: ''
   description: >-
-    Boleslaw Prus' historischer Roman fuehrt in das alte Aegypten und erzaehlt
-    vom Konflikt zwischen weltlicher Herrschaft, Priestermacht, Staatskunst und
-    persoenlichem Ehrgeiz. Die deutsche Ausgabe entsteht aus der englischen
-    Gutenberg-Vorlage von Jeremiah Curtin.
-  summary: >-
-    Der Pharao folgt dem jungen Ramses in einer Welt aus Tempeln, Hoefen,
-    Armeen, Intrigen und religiöser Macht. Zwischen politischem Willen,
-    persoenlicher Leidenschaft und der ueberlegenen Ordnung der Priesterschaft
-    entfaltet sich ein historischer Roman ueber Herrschaft, Wissen und den
-    Preis von Macht.
-  author_bio: >-
-    Boleslaw Prus war ein polnischer Schriftsteller des 19. Jahrhunderts und
-    gehoert zu den wichtigen Stimmen des polnischen Realismus. Mit Faraon
-    schrieb er einen breit angelegten historischen Roman, der das alte
-    Aegypten als Buehne fuer zeitlose Fragen nach Staat, Religion, Macht und
-    gesellschaftlicher Ordnung nutzt.
+    Bolesław Prus' historischer Roman Der Pharao erzählt vom Machtkampf
+    zwischen jungem Königtum, Priesterschaft, Staatsräson und persönlichem
+    Ehrgeiz im alten Ägypten. Diese neue deutsche Ausgabe folgt dem
+    polnischen Original Faraon und macht den großen polnischen Klassiker in
+    zeitgemäßer deutscher Sprache zugänglich.
+  summary: |
+    Der Pharao führt in ein Ägypten, das zugleich fern und erstaunlich
+    gegenwärtig wirkt: ein Reich aus Tempeln, Palästen, Heeren, Abgaben,
+    Ritualen und unsichtbaren Machtordnungen. Im Mittelpunkt steht ein junger
+    Herrscher, der die Last der Krone nicht nur als Würde, sondern als Kampf
+    erfährt. Was als persönliche Bewährungsprobe beginnt, weitet sich zu einer
+    Erzählung über Staat, Religion, Wissen, Geld und politische Illusion.
+
+    Bolesław Prus entwirft keine bloße Kulisse des Altertums. Sein Ägypten ist
+    ein geistiger und gesellschaftlicher Raum, in dem die Mechanismen von
+    Herrschaft sichtbar werden: die Macht der Archive und der Priester, die
+    Verwundbarkeit des Militärs, die Abhängigkeit der Politik von Getreide,
+    Wasser, Steuern und Deutungshoheit. Die Figuren bewegen sich zwischen
+    Leidenschaft und Kalkül, zwischen Ehrgeiz und Unwissen, zwischen der
+    Sehnsucht nach Erneuerung und der zähen Trägheit alter Institutionen.
+
+    Der Roman gehört zu den ungewöhnlichsten historischen Werken des
+    europäischen Realismus. Er blickt auf eine versunkene Welt, um Grundfragen
+    moderner Politik zu stellen: Wer regiert wirklich? Was vermag ein
+    einzelner Wille gegen eine eingespielte Ordnung? Und wie gefährlich wird
+    Macht, wenn sie sich selbst nicht versteht?
+  author_bio: |
+    Bolesław Prus war das literarische Pseudonym von Aleksander Głowacki,
+    geboren 1847 in Hrubieszów, gestorben 1912 in Warschau. Er zählt zu den
+    bedeutendsten polnischen Erzählern des 19. Jahrhunderts und gilt als eine
+    zentrale Gestalt des polnischen Realismus. Neben seiner Arbeit als
+    Romancier war er Journalist, Chronist und genauer Beobachter der sozialen,
+    politischen und geistigen Spannungen seiner Zeit.
+
+    Zu seinen wichtigsten Werken gehören Die Puppe, Die Emanzipierten, Der
+    Außenposten und Faraon. Prus verband psychologische Genauigkeit mit
+    gesellschaftlicher Analyse und einer erzählerischen Nüchternheit, die nie
+    bloß trocken bleibt. Seine Romane interessieren sich für Menschen in
+    Systemen: für Besitz, Bildung, Macht, Abhängigkeit, Fortschritt und
+    Selbsttäuschung.
+
+    Faraon erschien in den 1890er Jahren und nimmt innerhalb seines Werkes
+    eine besondere Stellung ein. Anders als seine großen Gegenwartsromane
+    verlegt Prus die Handlung in das alte Ägypten, ohne sich in historischer
+    Dekoration zu verlieren. Der Roman nutzt die Antike als Spiegel politischer
+    und sozialer Strukturen und wurde dadurch zu einem der markantesten
+    historischen Romane der polnischen Literatur.
   title_page_extra:
   - 'Originaltitel: Faraon'
-  - 'Englische Vorlage: The Pharaoh and the Priest, uebersetzt von Jeremiah Curtin'
-  - 'Master-Quelle: Project Gutenberg Plaintext #23646'
-  - 'Referenzquelle: Project Gutenberg EPUB #35499'
+  - 'Originalautor: Bolesław Prus (Aleksander Głowacki, 1847–1912)'
+  - Diese Ausgabe ist eine neue deutsche Übersetzung aus dem polnischen Original.
+  - Kurze Vorspänne, Motti oder Orientierungstexte vor den Kapiteln stammen nicht aus dem Original, sofern sie in dieser Ausgabe verwendet werden.
+  - Herausgegeben von der Motivatier Hermann Stiftung
+  imprint_text: |
+    Der Pharao
+
+    Bolesław Prus
+
+    Der große historische Roman aus dem alten Ägypten in neuer deutscher Ausgabe
+
+    Originaltitel: Faraon
+    Originalautor: Bolesław Prus (Aleksander Głowacki, 1847–1912)
+
+    Diese Ausgabe ist eine neue deutsche Übersetzung aus dem polnischen Original. Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft.
+
+    Die kurzen Vorspänne, Motti oder Orientierungstexte vor den Kapiteln stammen nicht aus dem Original. Sie wurden für diese Ausgabe ergänzt, um historische, atmosphärische und erzählerische Orientierung zu geben.
+
+    Herausgegeben von der Motivatier Hermann Stiftung
+    Übersetzung und editorische Einrichtung: Motivatier Classics
+
+    © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.
+
+    Das polnische Originalwerk ist gemeinfrei. Rechte an dieser Ausgabe bestehen, soweit sie die neue deutsche Übersetzung, die redaktionellen Ergänzungen, die Gestaltung, das Cover und die konkrete Einrichtung des Textes betreffen.
+
+    Alle Rechte an dieser Ausgabe vorbehalten.
   cover:
-    mode: placeholder
-    image_path: ''
+    mode: image
+    image_path: assets/covers/cover.png

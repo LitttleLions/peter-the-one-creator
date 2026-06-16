@@ -1,581 +1,278 @@
-# Kapitel 66: CHAPTER LXVI
+# Kapitel 066: Tom III - Rozdział XVII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part74.xhtml*
 
 <!-- status: pending -->
 
-AT that same hour to a minute, the priest, watching on the pylon of the
+W tym samym czasie, co do minuty, kapłan czuwający na pylonie świątyni Ptah w Memfisie zawiadomił obradujących w sali arcykapłanów i nomarchów, że — pałac faraona daje jakieś znaki.
 
-temple of Ptah in Memphis, informed the high priests and nomarchs
+— Zdaje się, że jego świątobliwość będzie nas prosił o zgodę — rzekł śmiejąc się jeden z nomarchów.
 
-counseling in the hall, that the palace of the pharaoh was giving some
+— Wątpię!... — odparł Mefres.
 
-signals.
+Herhor wyszedł na pylon: do niego bowiem sygnalizowano z pałacu. Wkrótce wrócił i rzekł do zebranych:
 
-"It seems that his holiness will beg us for peace," said one of the
+— Nasz młody kapłan sprawił się bardzo dobrze... W tej chwili jedzie Tutmozis z kilkudziesięcioma ochotnikami, ażeby nas uwięzić albo zabić...
 
-nomarchs, smiling.
+— I ty jeszcze będziesz śmiał bronić Ramzesa?... — krzyknął Mefres.
 
-"I doubt that!" answered Mefres.
+— Bronić go muszę i będę, gdyż uroczyście zaprzysiągłem to królowej... Gdyby zaś nie czcigodna córka świętego Amenhotepa, nasze położenie nie byłoby takim, jak jest.
 
-Herhor ascended the pylon, for they were signaling to him from the
+— No, ale ja nie przysięgałem!... — odparł Mefres i opuścił salę zebrań.
 
-palace. Soon he returned and said to those assembled:
+— Co on chce robić? — spytał jeden z nomarchów.
 
-"Our young priest has managed very well. At this moment Tutmosis is
+— Zdziecinniały starzec!... — odparł Herhor wzruszając ramionami.
 
-advancing with some tens of volunteers to imprison or slay us."
+Przed szóstą wieczorem oddział gwardii nie zatrzymywany przez nikogo zbliżył się do świątyni Ptah, a dowódca zapukał w bramę, którą natychmiast otworzono. Był to Tutmozis ze swoimi ochotnikami.
 
-"And wilt Thou dare still to defend Ramses?" cried Mefres.
+Kiedy naczelny wódz wszedł na dziedziniec świątyni, zdziwił się widząc, że naprzeciw niego wystąpił Herhor w infule Amenhotepa, otoczony tylko kapłanami.
 
-"I must and will defend him, for I swore solemnly to the queen that I
+— Czego żądasz, synu mój? — zapytał arcykapłan wodza, nieco zmieszanego tym wypadkiem.
 
-would. Were it not for the worthy daughter of the holy Amenhotep, our
+Ale Tutmozis prędko zapanował nad sobą i rzekł:
 
-position today would not be what it is."
+— Herhorze, arcykapłanie Amona tebańskiego! Na mocy listów, które pisałeś do Sargona, satrapy asyryjskiego, a które to listy mam przy sobie, jesteś oskarżony o zdradę państwa i musisz usprawiedliwić się przed faraonem...
 
-"Well, but I have not sworn," replied Mefres, and he left the hall.
+— Jeżeli młody pan — spokojnie odparł Herhor — chce dowiedzieć się o celach polityki wiecznie żyjącego Ramzes XII, niech zgłosi się do naszej najwyższej rady, a otrzyma objaśnienia.
 
-"What does he wish?" asked one of the nomarchs.
+— Wzywam cię, ażebyś natychmiast szedł za mną, jeżeli nie chcesz, abym cię zmusił — zawołał Tutmozis.
 
-"He is an old man grown childish," replied Herhor, shrugging his
+— Synu mój, błagam bogów, aby ochronili cię od gwałtu i kary, na jaką zasługujesz...
 
-shoulders.
+— Idziesz? — spytał Tutmozis.
 
-Before six o'clock in the evening a division of the guard approached
+— Czekam tu na Ramzesa — odparł Herhor.
 
-the temple of Ptah unhindered, and the leader of it knocked at the
+— A więc zostań tu, oszuście!... — krzyknął Tutmozis.
 
-gate, which was opened immediately. This was Tutmosis with his
+Wydobył miecz i rzucił się na Herhora. W tej chwili stojący za wodzem Eunana podniósł topór i z całej siły uderzył Tutmozisa między szyję i prawy obojczyk, aż krew trysnęła na wszystkie strony. Ulubieniec faraona padł na ziemię, prawie na pół rozcięty.
 
-volunteers.
+Kilku żołnierzy z pochylonymi włóczniami podskoczyli do Eunany, lecz po krótkiej walce z towarzyszami polegli. Spomiędzy ochotników trzy czwarte było na żołdzie kapłańskim.
 
-When the chief entered the temple court he was astonished to see Herhor
+— Niech żyje świątobliwy Herhor, pan nasz! — zawołał Eunana wywijając zakrwawionym toporem.
 
-in the miter of Amenhotep, and surrounded only by priests come out to
+— Niech żyje wiecznie! — powtórzyli żołnierze i kapłani i — wszyscy padli twarzą na ziemię. Najdostojniejszy Herhor wzniósł ręce i błogosławił ich.
 
-meet him.
+Opuściwszy dziedziniec świątyni Mefres zstąpił do podziemiów, gdzie zamieszkiwał Lykon. Arcykapłan zaraz na progu wydobył z zanadrza kryształową kulę, na widok której Grek wpadł w gniew.
 
-"What dost Thou wish, my son?" asked the high priest of the chief, who
+— Bodaj was ziemia pochłonęła!... Bodaj trupy wasze nie zaznały spokoju!... — złorzeczył Lykon coraz cichszym głosem.
 
-was somewhat confused by the meeting.
+W końcu umilkł i zasnął.
 
-Tutmosis mastered himself quickly, and said,
+— Weź ten sztylet — mówił Mefres podając Grekowi wąziutką stal. — Weź ten sztylet i idź do pałacowego ogrodu... Tam stań w figowym klombie i czekaj na tego, który zabrał ci i uwiódł Kamę...
 
-"Herhor, high priest of Amon in Thebes, because of letters which Thou
+Lykon począł zgrzytać zębami w bezsilnej złości.
 
-hast written to Sargon, the Assyrian satrap, which letters I have with
+— A gdy go ujrzysz, obudź się... — zakończył Mefres.
 
-me, Thou art accused of high treason to the state, and must justify
+Potem narzucił na Greka oficerski płaszcz z kapturem, do ucha szepnął mu hasło i z podziemiów, przez ukrytą furtkę świątyni, wyprowadził go na pustą ulicę Memfisu.
 
-thyself before the pharaoh."
+Następnie Mefres z żywością młodzieńca pobiegł na szczyt pylonu i wziąwszy do rąk kilka różnobarwnych chorągiewek począł dawać znaki w kierunku pałacu faraona. Dostrzeżono go widać i zrozumiano, gdyż na pargaminowej twarzy arcykapłana błysnął przykry uśmiech.
 
-"If the young lord," answered Herhor calmly, "wishes to learn the
+Mefres złożył chorągiewki, opuścił taras pylonu i z wolna począł schodzić na dół. Wtem, gdy już był na pierwszym piętrze, otoczyło go kilku ludzi w brunatnych opończach, którymi zasłaniali kaftany w czarne i białe pasy.
 
-object of the policy of the eternally living Ramses XII, let him apply
+— Oto jest najdostojniejszy Mefres — rzekł jeden z nich.
 
-to our Supreme Council and he will receive explanations."
+I wszyscy trzej uklękli przed arcykapłanem, który machinalnie podniósł rękę jakby do błogosławieństwa. Lecz nagle opuścił ją pytając:
 
-"I summon thee to follow me at once, unless Thou wish that I should
+— Kto wy jesteście?...
 
-force thee," continued Tutmosis.
+— Dozorcy Labiryntu.
 
-"My son, I implore the gods to preserve thee from violence, and from
+— Czegóż zastąpiliście mi drogą? — rzekł, a jednocześnie zaczęły mu drżeć ręce i wąskie usta.
 
-the punishment which Thou deservest."
+— Nie potrzebujemy ci przypominać, święty mężu — mówił jeden z dozorców wciąż klęcząc — że kilka dni temu byłeś w Labiryncie, do którego wiesz drogę tak dobrze jak my, choć nie jesteś wtajemniczonym... Jesteś zaś zbyt wielkim mędrcem, ażebyś nie miał znać i naszych praw w podobnych wypadkach...
 
-"Wilt Thou go?" asked Tutmosis.
+— Co to znaczy?... — zawołał podniesionym głosem Mefres. — Jesteście zbójcy, nasłani przez Her...
 
-"I wait here for Ramses," answered Herhor.
+Nie dokończył. Jeden z napastników schwytał go za ręce, drugi zarzucił mu chustkę na głowę, a trzeci skropił mu twarz przezroczystym płynem. Mefres rzucił się kilka razy i upadł. Jeszcze raz pokropiono go, a gdy skonał, dozorcy położyli go we framudze, w martwą rękę wsunęli jakiś papirus i — znikli w korytarzach pylonu.
 
-"Well, then, remain here, trickster!" cried Tutmosis.
+Trzej tak samo ubrani ludzie uganiali się za Lykonem prawie od chwili, gdy wypuszczony ze świątyni przez Mefresa, znalazł się na pustej ulicy.
 
-He drew his sword and rushed at Herhor.
+Ludzie ci kryli się niedaleko furtki, przez którą przeszedł Grek, i z początku przepuścili go wolno. Lecz wnet jeden z nich dostrzegł w jego ruchach coś podejrzanego, więc wszyscy poczęli iść za nim.
 
-At that instant Eunana, who was standing behind the chief, raised an
+Dziwna rzecz! uśpiony Lykon, jakby przeczuwając gonitwę, nagle skręcił w ulicę ruchliwą, potem na plac, gdzie krążyło mnóstwo ludzi, a potem ulicą Rybacką pobiegł do Nilu. Tu, w jakimś zaułku, znalazł małe czółenko, skoczył w nie i z niesłychaną szybkością zaczął przeprawiać się na drugą stronę rzeki.
 
-axe and struck Tutmosis with all his might between the neck and the
+Był już o paręset kroków oddalony od brzegu, gdy wysunęła się za nim łódź z jednym przewoźnikiem i trzema podróżnymi. Ledwie zaś ci odbili, ukazała się druga łódź, mająca dwu przewoźników i znowu trzech podróżnych.
 
-right shoulder blade, so that the blood spurted in every direction. The
+Obie łodzie zawzięcie ścigały Lykona.
 
-favorite of the pharaoh fell to the earth almost cut in two.
+W tej, która miała tylko jednego wioślarza, siedzieli dozorcy Labiryntu i pilnie przypatrywali się swoim współzawodnikom, o ile pozwalał na to zmierzch prędko zapadający po zachodzie słońca.
 
-Some of the warriors with leveled spears rushed at Eunana, but they
+— Co to za jedni tamci trzej?... — szeptali między sobą dozorcy z Labiryntu. — Od onegdaj krążyli dokoła świątyni, a dziś gonią za nim... Czyby go chcieli zasłonić przed nami?...
 
-fell after a brief struggle with their own comrades. Of the volunteers,
+Drobna łódka Lykona przybiła do drugiego brzegu. Uśpiony Grek wyskoczył z niej i szybkim krokiem począł iść ku pałacowym ogrodom. Niekiedy zataczał się, stawał i chwytał się za głowę; lecz po chwili znowu szedł jakby ciągniony przez niepojętą siłę.
 
-three-fourths were in the pay of the priesthood.
+Dozorcy Labiryntu również wylądowali na drugim brzegu, ale już zostali uprzedzeni przez swoich współzawodników.
 
-"May he live, his holiness Herhor, our lord!" cried Eunana, waving his
+I zaczął się jedyny w swoim rodzaju wyścig. Lykon pędził ku pałacowi królewskiemu jak szybkobiegacz, za nim trzej ludzie nieznani, a na końcu trzej dozorcy Labiryntu.
 
-bloody axe.
+O kilkaset kroków od ogrodu obie goniące grupy zetknęły się ze sobą. Była już noc, ale jasna.
 
-"May he live through eternity!" repeated the warriors and priests, and
+— Kto wy jesteście, ludzie? — zapytał nieznajomych dozorca Labiryntu.
 
-all fell on their faces.
+— Jestem naczelnikiem policji z Pi-Bast i z dwoma moimi setnikami ścigam wielkiego zbrodniarza...
 
-The most worthy Herhor raised his hands and blessed them.
+— A my jesteśmy dozorcy Labiryntu i również ścigamy tego człowieka...
 
-On leaving the court of the temple, Mefres went to the underground
+Obie grupy przypatrywały się sobie z rękoma na mieczach lub nożach.
 
-chamber to Lykon. The high priest at the very threshold drew from his
+— Co chcecie z nim zrobić? — spytał wreszcie naczelnik policji.
 
-bosom a crystal ball, at the sight of which the Greek fell into auger.
+— Mamy przeciw niemu wyrok...
 
-"Would that the earth swallowed you! Would that your corpses might know
+— A trupa zostawicie?
 
-no rest!" said Lykon, abusing him in a voice which grew lower and
+— Ze wszystkim, co ma na sobie — odparł starszy dozorca.
 
-lower.
+Policjanci szeptali między sobą.
 
-At last he was silent and fell into a trance.
+— Jeżeli mówicie prawdę — rzekł wreszcie naczelnik policji — nie będziemy wam przeszkadzali. Owszem, pożyczymy go wam na chwilę, gdy wpadnie w nasze ręce...
 
-"Take this dagger," said Mefres, giving the Greek a slender steel
+— Przysięgacie?
 
-blade. "Take this dagger and go to the palace garden. Halt there at the
+— Przysięgamy...
 
-clump of fig trees and wait for him who deprived thee of Kama, and took
+— No to możemy iść razem...
 
-her away."
+Połączyli się, ale Grek zniknął im z oczu.
 
-Lykon gritted his teeth in helpless rage.
+— Przekleństwo!... — zawołał naczelnik policji. — Znowu umknął...
 
-"And when Thou seest him, wake," concluded Mefres.
+— Znajdzie się — odparł dozorca z Labiryntu — a może nawet tędy będzie wracał.
 
-He threw over the Greek an officer's mantle with a cowl, whispered the
+— Po cóż by szedł do królewskiego ogrodu? — spytał naczelnik.
 
-password into his ear and led him forth to the empty streets of Memphis
+— Arcykapłani używają go do jakichś swoich interesów, ale on wróci do świątyni, wróci!... — mówił dozorca.
 
-through a secret door of the temple.
+Postanowili tedy czekać i działać wspólnie.
 
-Then Mefres ran with the celerity of youth to the summit of the pylon,
+— Trzecią noc marnujemy! — rzekł jeden z policjantów ziewając.
 
-and taking in his hand some banners, made signals toward the palace.
+Owinęli się w burnusy i legli na trawie.
 
-They saw and understood him, that was evident, for a bitter smile came
+Natychmiast po wyjeździe Tutmozisa czcigodna pani Nikotris milcząc, z zaciśniętymi z gniewu ustami opuściła komnaty syna. A gdy Ramzes chciał ją uspokoić, ostro przerwała mu:
 
-to the parchment like face of the high priest.
+— Żegnam faraona i proszę bogów, ażeby pozwoliły mi jutro powitać cię jeszcze jako faraona...
 
-Mefres put down the banners, left the summit of the pylon and descended
+— Wątpisz o tym, matko?
 
-slowly. When he reached the pavement he was surrounded by some men in
+— O wszystkim można zwątpić wobec człowieka, który słucha rad szaleńców i zdrajców!...
 
-light brown tunics, which were covered by coats in white and black
+Rozeszli się, oboje zagniewani.
 
-stripes.
+Wkrótce jego świątobliwość odzyskał dobry humor i wesoło rozmawiał z dostojnikami. Ale już o szóstej począł go trapić niepokój.
 
-"Here is the most worthy Mefres," said one of them. And all three knelt
+— Tutmozis powinien by przysłać do nas gońca... — mówił pan. — Bo jestem pewny, że sprawa, tak czy owak, już się rozstrzygnęła...
 
-before the high priest, who raised his hand mechanically, as if to
+— Tego nie wiem — odparł wielki skarbnik. — Mogli nie znaleźć statków u przewozu... Mogą w świątyni stawiać opór...
 
-bless them. But he dropped it suddenly, inquiring, "Who are ye?"
+— A gdzie jest ten młody kapłan?... — spytał nagle Hiram.
 
-"Overseers of the labyrinth."
+— Kapłan?... wysłannik zmarłego Samentu?... — powtarzali zmieszani dostojnicy. — To prawda, gdzie on być może?...
 
-"Why have ye barred the way to me?" asked he, and his hand and thin
+Rozesłano żołnierzy, aby przeszukali ogród. Żołnierze obiegli wszystkie ścieżki, ale kapłana nie było.
 
-lips began to tremble.
+Wypadek ten źle usposobił dostojników. Każdy siedział milcząc, pogrążony w niespokojnych myślach.
 
-"We need not remind thee, holy man," said one of the overseers still
+O zachodzie słońca wszedł do komnaty pokojowiec faraona i szepnął, że pani Hebron ciężko zachorowała i błaga, ażeby jego świątobliwość raczył ją odwiedzić.
 
-kneeling, "that some days ago Thou wert in the labyrinth, to which Thou
+Dostojnicy znając stosunek, jaki łączył pana z piękną Hebron, spojrzeli po sobie. Ale gdy faraon oświadczył zamiar wyjścia na ogród, nie protestowali. Ogród, dzięki gęstym strażom, był równie bezpieczny jak pałac. Nikt też nie uważał za stosowne choćby z daleka czuwać nad faraonem wiedząc, że Ramzes nie lubi, ażeby zajmowano się nim w pewnych chwilach.
 
-knowest the way as well as we, though Thou art uninitiated. Thou art
+Gdy pan zniknął w korytarzu, wielki pisarz rzekł do skarbnika:
 
-too great a sage not to know what our law is in such a case."
+— Czas wlecze się jak wozy w pustyni. Może Hebron ma wiadomość od Tutmozisa?...
 
-"What does this mean?" exclaimed Mefres in a raised voice. "Ye are
+— W tej chwili — odparł skarbnik — jego wyprawa w kilkudziesięciu ludzi na świątynię Ptah wydaje mi się niepojętym szaleństwem...
 
-murderers sent by Her."
+— A czy rozsądniej zrobił faraon nad Sodowymi Jeziorami, kiedy całą noc uganiał się za Tehenną?... — wtrącił Hiram. — Odwaga więcej znaczy aniżeli liczba.
 
-He did not finish. One of the men seized him by the arms, another
+— A ten młody kapłan?... — zapytał skarbnik.
 
-passed a kerchief over his head, and a third threw a transparent liquid
+— Przyszedł bez naszej wiedzy i odszedł nie pytając — rzekł Hiram. — Każdy z nas postępuje jak spiskowiec.
 
-over his face. Mefres struggled a number of times, and fell. They
+Skarbnik pokręcił głową.
 
-sprinkled him again. When he was dead they placed him in a niche,
+Ramzes szybko przebiegł odległość dzielącą jego willę od pałacyku Tutmozisa. Gdy wszedł do pokoju, Hebron z płaczem rzuciła mu się na szyję.
 
-pushed into his dead hand a papyrus, and vanished.
+— Umieram z trwogi!... — zawołała.
 
-Three men dressed similarly chased after Lykon almost the instant that
+— Lękasz się o Tutmozisa?
 
-he was pushed out of the temple by Mefres and found himself on the
+— A cóż on mnie obchodzi? — odparła Hebron robiąc pogardliwy grymas ustami. — Ty jeden obchodzisz mnie... o tobie jednym myślę... o ciebie się lękam...
 
-empty street. The men had hidden not far from the door through which
+— Błogosławioną niech będzie twoja trwoga, która choć na chwilę uwolniła mnie od nudów... — rzekł śmiejąc się faraon. — Bogowie! jakiż to ciężki dzień... Gdybyś słyszała nasze narady, gdybyś widziała miny moich doradców!... I jeszcze, na domiar wszystkiego, podobało się czcigodnej królowej uczcić nasze zebranie swoją obecnością... Nigdy nie przypuszczałem, że dostojeństwo faraona może mi tak dokuczyć...
 
-the Greek issued, and at first let him pass freely. But soon one of
+— Nie wymawiaj tego zbyt głośno — ostrzegła Hebron. — Co poczniesz, jeżeli Tutmozisowi nie uda się opanować świątyni?
 
-them noted something suspicious in his hand, so they followed.
+— Odbiorę mu naczelne dowództwo i schowam do skrzyni moją koronę, a włożę hełm oficerski — odpowiedział Ramzes. — Jestem pewny, że gdy sam wystąpię na czele wojska, bunt upadnie...
 
-A wonderful thing! Lykon though in a trance felt, as it were, the
+— Który?... — spytała Hebron.
 
-pursuit; he turned quickly into a street full of movement, then to a
+— Ach, prawda, że mamy aż dwa bunty! — zaśmiał się Ramzes. — Pospólstwo przeciw kapłanom, kapłani przeciw mnie...
 
-square where a multitude of people were circling about, and then ran to
+Pochwycił Hebron w objęcia i zaprowadził na kanapę szepcząc:
 
-the Nile by Fisher Street. There, at the end of some alley, he found a
+— Jakaś ty dziś piękna!... Ile razy widzę cię, zawsze wydajesz mi się zupełnie inną i coraz piękniejszą...
 
-small boat, sprang into it and began to cross the river with a speed
+— Puść mnie!... — szepnęła Hebron. — Czasami lękam się, ażebyś mnie nie ugryzł...
 
-which was remarkable.
+— Ugryźć... nie... ale mógłbym cię zacałować na śmierć... Ty nawet nie wiesz, jaka jesteś piękna...
 
-He was a couple of hundred yards from the shore when a boat pushed out
+— Po ministrach i jenerałach... No, puść...
 
-after him with one rower and three passengers. Barely had these left
+— Chciałbym przy tobie zamienić się w krzak granatu... Chciałbym mieć tyle ramion, ile drzewo ma konarów, ażeby cię ściskać... Tyle dłoni, ile jest liści, i tyle ust, ile kwiatów, ażebym w jednej chwili mógł całować twoje oczy, usta, piersi...
 
-land when a second boat appeared with two rowers and three passengers
+— Jak na władcę, którego tron jest zagrożony, masz myśli dziwnie swobodne...
 
-also.
+— Na łożu nie dbam o tron — przerwał. — Dopóki mam miecz, będę miał władzę.
 
-Both boats pursued Lykon with stubbornness. In that which had only one
+— Wojsko twoje jest rozbite — mówiła broniąc się Hebron.
 
-rower sat the overseers of the labyrinth, looking diligently at their
+— Jutro przybędą świeże pułki, a pojutrze zgromadzę rozbitych... Powtarzam ci, nie zaprzątaj się marnościami... Chwila pieszczot więcej warta niż rok władzy...
 
-rivals, as far as was permitted by the darkness, which came soon after
+W godzinę po zachodzie słońca faraon opuścił mieszkanie Hebron i powoli wracał do swego pałacyku. Był rozmarzony, senny i myślał, że arcykapłani są wielkimi głupcami stawiając mu opór. Jak Egipt Egiptem, nie byłoby lepszego pana niż on.
 
-sundown.
+Nagle spomiędzy kępy figowej wysunął się człowiek w ciemnym płaszczu i zastąpił drogę faraonowi. Pan, aby mu się lepiej przypatrzyć, zbliżył twarz do jego twarzy i nagle zawołał:
 
-"Who are those three?" whispered they among themselves. "Since the day
+— Ach, to ty, nędzniku?... Chodźże na odwach...
 
-before yesterday they have been lurking around the temple, and today
+Był to Lykon. Ramzes schwycił go za kark; Grek syknął i ukląkł na ziemi. Jednocześnie faraon uczuł piekący ból z lewej strony brzucha.
 
-they are pursuing Lykon. Do they wish to protect him from us?"
+— Jeszcze kąsasz? — zawołał Ramzes. Oburącz potężnie ścisnął za szyję Greka, a gdy usłyszał chrobot łamanych kręgów, odrzucił go ze wstrętem.
 
-Lykon's small boat reached the other shore. The Greek sprang from it
+Lykon upadł miotając się w przedśmiertnych konwulsjach.
 
-and went swiftly toward the palace garden. Sometimes he staggered,
+Faraon odszedł parę kroków. Dotknął się i namacał rączkę sztyletu.
 
-stopped, and seized his head, but after an instant he went forward
+— Ranił mnie?...
 
-again, as if drawn by some incomprehensible attraction.
+Wyciągnął ze swego boku wąziutką stal i przycisnął ranę.
 
-The overseers of the labyrinth landed also, but they were preceded by
+„Ciekawym — myślał — czy który z moich doradców ma plaster?...”
 
-their rivals.
+Uczuł mdłości i przyśpieszył kroku.
 
-And a race began which was unique in its kind: Lykon was hurling toward
+Tuż pod pałacykiem zabiegł mu drogę jeden z oficerów wołając:
 
-the palace, like a swift runner; after him were the three unknown men,
+— Tutmozis nie żyje... Zabił go zdrajca Eunana!...
 
-and the three overseers of the labyrinth.
+— Eunana?... — powtórzył faraon. — A cóż inni?...
 
-A few hundred steps from the garden the pursuing groups came together.
+— Prawie wszyscy ochotnicy, którzy pojechali z Tutmozisem, byli zaprzedani kapłanom.
 
-It was night then, but clear.
+— No, muszę już z tym skończyć! — rzekł pan. — Zatrąbcie na azjatyckie pułki...
 
-"Who are ye?" asked one of the labyrinth men of the others.
+Odezwała się trąbka i Azjaci zaczęli wysypywać się z koszar, ciągnąc za sobą konie.
 
-"I am the chief of police in Pi-Bast, and, with my centurions, am
+— Podajcie i mnie konia — rzekł faraon. Ale uczuł silny zawrót głowy i dodał:
 
-pursuing a great criminal," answered one of them.
+— Nie — podajcie mi lektykę... Nie chcę się męczyć...
 
-"We are overseers of the labyrinth and are following the same person."
+Nagle zatoczył się na ręce oficerów.
 
-The groups looked at each other with hands on their swords or knives.
+— O mało nie zapomniałem... — mówił gasnącym głosem... — Przynieście hełm i miecz... ten stalowy miecz... znad Jezior... Idziemy do Memfisu...
 
-"What will ye do with him?" asked the chief of police.
-
-"We have a sentence against the man."
-
-"But will ye leave the body?"
-
-"With all that is on it," replied the elder overseer.
-
-The police whispered among themselves.
-
-"If ye tell the truth," said the chief at last, "we shall not hinder
-
-you. On the contrary, we will lend him to you for a while, as he will
-
-fall into our hands later."
-
-"Do ye swear?"
-
-"We swear."
-
-"Then we may go together."
-
-So they joined forces, but the Greek had vanished.
-
-"Curses on him!" cried the chief of police. "He has escaped again!"
-
-"He will be found," answered the overseer of the labyrinth, "or perhaps
-
-even he will return."
-
-"Why should he go to the pharaoh's garden?" asked the chief of police.
-
-"The high priests are using him for some purpose of their own, but he
-
-will return to the temple."
-
-They decided to wait and act in common.
-
-"We are spending the third night for nothing," said one of the
-
-policemen, yawning.
-
-They wrapped themselves in their cloaks and lay on the grass.
-
-Immediately after the departure of Tutmosis, the worthy lady Niort's,
-
-in silence, with lips tightly closed from anger, left the chamber of
-
-her son, and when Ramses wished to calm her, she interrupted him
-
-sharply,
-
-"I take leave of the pharaoh, and pray the gods to permit me to see him
-
-to-morrow as pharaoh."
-
-"Dost Thou doubt that, mother?"
-
-"It is possible to doubt everything in presence of one who listens to
-
-madmen and traitors."
-
-They parted in anger.
-
-Soon his holiness recovered good-humor and conversed joyously with the
-
-officials. But about six o'clock alarm began to torment him.
-
-"Tutmosis ought to send us a courier," said he. "For I am certain that
-
-the affair is already settled in one or another way."
-
-"I do not know that," said the chief treasurer. "They may not have
-
-found boats at the crossing. There may have been resistance at the
-
-temple."
-
-"But where is that young priest?" asked Hiram on a sudden.
-
-"The priest? The messenger of the late Samentu?" repeated the officials
-
-in concern. "That is true where can he be?"
-
-Men were sent to search the garden. They searched every path, but there
-
-was no priest.
-
-This circumstance made a bad impression on the dignitaries. Each one
-
-sat in silence, sunk in alarming thoughts.
-
-About sundown the pharaoh's chamber servant entered and whispered that
-
-the lady Hebron was very ill, and implored his holiness to visit her.
-
-The officials, knowing the relations between their lord and the
-
-beautiful Hebron, looked at one another. But when the pharaoh announced
-
-his purpose of going into the garden they made no protest. The garden,
-
-thanks to numerous guards, was as safe as the palace. No one considered
-
-it proper to watch over the pharaoh even from a distance, knowing that
-
-Ramses did not wish any one to be occupied with him at certain moments.
-
-When he disappeared, the chief scribe said to the treasurer,
-
-"Time drags on like a chariot in the desert. Perhaps Hebron has some
-
-news from Tutmosis."
-
-"At this moment," answered the treasurer, "his expedition with a few
-
-tens of men to the temple of Ptah seems to me inconceivable madness!"
-
-"But did the pharaoh act more wisely at the Soda Lakes when he chased
-
-all night after Tehenna?" put in Hiram. "Daring means more than
-
-numbers."
-
-"But that young priest?" asked the treasurer.
-
-"He came without our knowledge and went without leave," added Hiram.
-
-"Each one of us acts like a conspirator."
-
-The treasurer shook his head.
-
-Ramses passed the space between his villa and that of Tutmosis quickly.
-
-When he entered her chamber Hebron threw herself on his neck with
-
-weeping.
-
-"I am dying of fear!" cried she.
-
-"Art Thou alarmed for Tutmosis?"
-
-"What is Tutmosis to me?" answered Hebron, with a contemptuous grimace.
-
-"I care for thee only! Of thee only am I thinking, I am alarmed for
-
-thee!"
-
-"Blessed be thy alarm which freed me even for a moment from tedium,"
-
-said the pharaoh, laughing. "O gods! what a day! If Thou hadst heard
-
-our discussions, if Thou hadst seen the faces of our counselors! And in
-
-addition to all, it pleased the worthy queen to honor our assembly with
-
-her presence. Never bad I supposed that the dignity of pharaoh could be
-
-so annoying."
-
-"Do not say this audibly," cautioned Hebron. "What wilt Thou do if
-
-Tutmosis does not succeed in seizing the temple?"
-
-"I will take the leadership from him, hide my crown in a box, and put
-
-on an officer's helmet," answered Ramses. "I am certain that when I
-
-appear at the head of the troops myself the sedition will vanish."
-
-"Which one?" inquired Hebron.
-
-"Ah, true, we have two," laughed Ramses. "That of the people against
-
-the priests, that of the priests against me."
-
-He seized Hebron in his arms and went toward the couch whispering,
-
-"How beautiful Thou art today! Each time I see thee Thou art different,
-
-each time more beautiful than ever."
-
-"Let me go," whispered Hebron. "At times I am afraid that Thou wilt
-
-bite me."
-
-"Bite? No! But I might kiss thee to death. Thou dost not even suspect
-
-thy own beauty."
-
-"I am beautiful in comparison with ministers and generals. But free
-
-me."
-
-"In thy presence I should wish to be like a pomegranate. I should wish
-
-to have as many arms as the tree has branches, so as to embrace thee
-
-with all of them, as many hands as it has leaves, and as many lips as
-
-it has flowers, so as to kiss thy lips, eyes, and bosom at once with
-
-them."
-
-"Thou hast a mind marvelously free of care for a sovereign whose throne
-
-is in peril."
-
-"On the couch, I do not care for a throne. While I have a sword I shall
-
-have power."
-
-"Thy troops are scattered," said Hebron, defending herself.
-
-"Tomorrow fresh troops will come, and after to-morrow I shall gather
-
-the scattered ones. I repeat to thee be not occupied with trifles. One
-
-moment of fondling is worth more than a year of dominion."
-
-One hour after sunset the pharaoh left Hebron's villa and returned
-
-slowly to his palace. He was full of imaginings, he was dreamy, and he
-
-thought the high priests were great fools to resist him. Since Egypt
-
-became Egypt there had not been a kindlier pharaoh.
-
-All at once, from out a clump of fig trees sprang a man in a dark
-
-mantle, and barred the road to Ramses. The pharaoh, to see the man
-
-better, approached his face to the face of the stranger and cried
-
-suddenly,
-
-"O wretch, is it thou? Go to the guard house!"
-
-It was Lykon. Ramses seized him by the neck; the Greek hissed and knelt
-
-on the ground. At the same moment the pharaoh felt a sharp pain in the
-
-left side of his stomach.
-
-"Dost Thou bite too?" cried Ramses. He seized the Greek with both
-
-hands, and when he heard the cracking of his broken spine he hurled him
-
-off in disgust.
-
-Lykon fell quivering in the convulsions of death.
-
-The pharaoh moved back a couple of steps. He examined his body and
-
-discovered the handle of a dagger.
-
-"He has wounded me!"
-
-He drew the slender steel from his side and pressed the wound.
-
-"I wonder," thought he, "if any of my counselors has a plaster?" He
-
-felt weak and hurried forward. Right at the palace one of the officers
-
-stood before him and said, "Tutmosis is dead; the traitor Eunana slew
-
-him."
-
-"Eunana?" repeated the pharaoh. "But what of the others?"
-
-"All, all the volunteers who went with Tutmosis were sold to the
-
-priests."
-
-"Well, I must finish this!" said Ramses. "Sound the trumpets for the
-
-Asiatic regiments."
-
-The trumpets sounded, and the Asiatics hurried from the barracks,
-
-leading their horses.
-
-"Give me my steed!" said the pharaoh. But he felt a sudden dizziness
-
-and added, "No, give me a litter, I should tire myself."
-
-All at once he tottered into the arms of the officers.
-
-"Oh, I almost forgot," said Ramses in a dying voice. "Bring my helmet
-
-and sword that steel sword from the Soda. Let us go to Memphis."
-
-Officials and servants ran out of the villa with torches. The pharaoh
-
-was supported by officers, his face was pale and his eyes were mist-
-
-covered. He stretched forth his hand as if seeking his breastplate, his
-
-lips moved, and amid general silence the lord of two worlds, the
-
-temporal and the western, breathed his life out.
-
-The dove-eyed goddess Astaroth had avenged the wrong done her
-
-priestess.
+Z pałacyku wybiegli dostojnicy i służba z pochodniami. Faraon, podtrzymywany przez oficerów, miał szarą twarz i oczy zachodziły mu mgłą. Wyciągnął rękę jakby szukając broni, poruszył ustami i wśród ogólnej ciszy przestał oddychać, on, pan dwu światów: doczesnego i zachodniego.

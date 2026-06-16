@@ -1,713 +1,244 @@
-# Kapitel 33: CHAPTER XXXIII
+# Kapitel 033: Tom II - Rozdział VIII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part39.xhtml*
 
 <!-- status: pending -->
 
-A COUPLE of days later Ramses sent his favorite with a summons to Kama.
+W parę dni książę wysłał swego ulubieńca z wezwaniem do Kamy. Przybyła natychmiast w szczelnie zasłoniętej lektyce.
 
-She appeared soon in a tightly closed litter.
+Ramzes przyjął ją w osobnym pokoju.
 
-Ramses received her in a separate chamber.
+— Byłem — rzekł — jednego wieczora pod twoim domem.
 
-"I was," said he, "outside thy house one evening."
+— O Astoreth!... — zawołała kapłanka. — Czemuż zawdzięczam najwyższą łaskę?... I co przeszkodziło ci, dostojny panie, że nie raczyłeś zawołać twojej niewolnicy?...
 
-"Oh, Astaroth!" cried the priestess. "To what must I attribute this
+— Stały tam jakieś bydlęta. Podobno Asyryjczykowie.
 
-high favor? And what hindered thee, worthy lord, from deigning to
+— Więc wasza dostojność trudziłeś się wieczorem?... Nigdy nie śmiałabym przypuścić, że nasz władca znajduje się o kilka kroków ode mnie pod gołym niebem.
 
-summon thy slave?"
+Książę zarumienił się. Jakżeby była zdziwiona dowiedziawszy się, że książę z dziesięć wieczorów przepędził pod jej oknami!
 
-"Some beasts were there, Assyrians, I suppose."
+A może ona i wiedziała o tym, gdyby sądzić z jej półuśmiechniętych ust i obłudnie spuszczonych oczu.
 
-"Then Thou didst take the trouble, worthiness, in the evening? Never
+— Więc teraz, Kamo — mówił książę — przyjmujesz i u siebie Asyryjczyków?
 
-could I have dared to suppose that our ruler was under the open sky, a
+— To wielki magnat!... — zawołała Kama. — To powinowaty króla, Sargon, który pięć talentów ofiarował naszej bogini...
 
-few steps from me."
+— A ty mu wywzajemnisz się, Kamo — szydził następca. — I ponieważ jest tak hojnym magnatem, bogowie feniccy nie ukażą cię śmiercią...
 
-The prince blushed. How she would be astounded could she know that he
+— Co mówisz, panie?... — odparła, składając ręce. — Czyli i nie wiesz, że Azjata, choćby mnie znalazł w pustyni, nie podniesie na mnie ręki, gdybym nawet oddała mu się sama. Oni lękają się bogów...
 
-had passed ten evenings near her windows!
+— Po cóż więc przychodzi do ciebie ten śmierdzący... nie — ten pobożny Azjata?
 
-But perhaps she knew it, judging by her half-smiling lips and her eyes
+— Chce mnie namówić, ażebym wyjechała do świątyni Astoreth babilońskiej.
 
-cast down deceitfully.
+— I pojedziesz?...
 
-"So, then, Kama," said the prince, "Thou receivest Assyrians at thy
+— Pojadę... jeżeli ty, panie, każesz... — odpowiedziała Kama, zasłaniając twarz welonem.
 
-villa?"
+Książę milcząc ujął ją za rękę. Usta mu drżały.
 
-"That man is a great magnate, Sargon, a relative of King Assar,"
+— Nie dotykaj mnie, panie — szeptała wzruszona. — Jesteś władcą i oporą moją i wszystkich Fenicjan w tym kraju, ale... bądź miłosierny...
 
-answered Kama; "he has brought five talents to our goddess."
+Namiestnik puścił ją i zaczął chodzić po pokoju.
 
-"And them wilt repay him, Kama?" jeered the heir. "And since he is such
+— Gorący dzień, prawda?... — rzekł. — Podobno są kraje, gdzie w miesiącu Mechir spada z nieba na ziemię biały puch, który na ogniu zmienia się w wodę i robi zimno. O, Kamo, poproś twoich bogów, ażeby zesłali mi trochę tego pierza!... Choć, co ja mówię?... Gdyby pokryli nim cały Egipt, wszystek ten puch zamieniłby się na wodę, ale nie ostudziłby mego serca.
 
-a bountiful magnate, the Phoenician gods will not send thee death in
+— Bo jesteś jak boski Amon, jesteś słońce ukryte w ludzkiej postaci — odparła Kama. — Ciemność pierzcha stamtąd, gdzie zwrócisz twoje oblicze, a pod blaskiem twoich spojrzeń rosną kwiaty...
 
-punishment."
+Książę znowu zbliżył się do niej.
 
-"What dost Thou say, lord?" exclaimed Kama, clasping her hands. "Dost
+— Ale bądź miłosierny — szepnęła. — Przecieżeś ty dobry bóg, więc nie możesz zrobić krzywdy twojej kapłance...
 
-Thou not know that if an Asiatic found me in the desert he would not
+Książę znowu odsunął się i otrząsnął, jakby pragnąc zrzucić z siebie ciężar. Kama patrzyła na niego spod opuszczonej powieki i uśmiechnęła się nieznacznie.
 
-lay hands on me, even were I myself to yield to him? They fear the
+Gdy milczenie trwało zbyt długo, spytała:
 
-gods."
+— Kazałeś mnie wezwać, władco. Oto jestem i czekam, abyś mi objawił wolę twoją.
 
-"Why, then, does he come to thee, this malodorous no this pious
+— Aha!... — ocknął się książę. — Powiedz no mi, kapłanko... Aha!... Kto to był ten, tak podobny do mnie, którego widziałem w waszej świątyni, wówczas?...
 
-Asiatic?"
+Kama położyła palec na ustach.
 
-"Because he wants to persuade me to go to the temple of Astaroth in
+— Święta tajemnica... — szepnęła.
 
-Babylon."
+— Jedno jest tajemnicą, drugiego nie wolno — odparł Ramzes. — Niechże przynajmniej dowiem się, kto on taki: człowiek czy duch?...
 
-"And wilt Thou go?"
+— Duch.
 
-"I will go if Thou command me, lord," said Kama, concealing her face
+— A jednak ten duch wyśpiewywał pod twoimi oknami...
 
-with her veil.
+Kama uśmiechnęła się.
 
-The prince took her hands in silence. His lips quivered.
+— Nie chcę gwałcić tajemnic waszej świątyni... — ciągnął książę.
 
-"Do not touch me, lord," whispered she, with emotion. "Thou art my
+— Przyrzekłeś to, panie, Hiramowi — wtrąciła kapłanka.
 
-sovereign, my support, the support of all Phoenicians in this country
+— Dobrze... dobrze!... — przerwał rozdrażniony namiestnik. — Dlatego ani z Hiramem, ani z kim innym, nie będę rozmawiał o tym cudzie, tylko z tobą... Otóż, Kamo, powiedz duchowi czy człowiekowi, który jest tak do mnie podobny, ażeby jak najprędzej wyjeżdżał z Egiptu i nikomu nie pokazywał się. Bo widzisz... w żadnym państwie nie może być dwu następców tronu...
 
-but have compassion."
+Nagle uderzył się w czoło. Dotychczas mówił tak, ażeby zakłopotać Kamę, lecz teraz przyszła mu myśl całkiem poważna.
 
-The viceroy let her go, and walked up and down through the chamber.
+— Ciekawym — rzekł, ostro patrząc na Kamę — dlaczego twoi rodacy pokazali mi mój żywy wizerunek?... Czy chcą ostrzec, że mają dla mnie zastępcę?... Istotnie, zadziwia mnie ich czyn.
 
-"The day is hot, is it not?" asked he. "There are countries where in
+Kama upadła mu do nóg.
 
-the month of Mechir white down falls from the sky, it is said; this
+— O panie! — szepnęła. — Ty, który nosisz na piersiach nasz najwyższy talizman, czy możesz przypuścić, ażeby Fenicjanie robili co na twoją szkodę?... Ale pomyśl tylko... W wypadku, gdyby groziło ci niebezpieczeństwo albo gdybyś chciał omylić swoich nieprzyjaciół, czy taki człowiek nie przyda się?... Fenicjanie to tylko chcieli pokazać ci w świątyni...
 
-down in the fire turns to water, and makes the air cold. Oh, Kama, beg
+Książę pomyślał i wzruszył ramionami.
 
-thy gods to send me a little of that down, though what do I say? If
+„Tak — rzekł do siebie. — Gdybym potrzebował czyjejkolwiek opieki!... Ale czy Fenicjanie sądzą, że ja sam nie dam sobie rady?... W takim razie złego wybrali protektora dla siebie.”
 
-they should cover Egypt with it, all that down might be turned into
+— Panie — szepnęła Kama — alboż nie jest ci wiadome, że Ramzes Wielki miał oprócz swojej własnej postaci dwie inne dla wrogów?... I tamte dwa cienie królewskie zginęły, a on żył...
 
-water and not cool the heart in me."
+— No, dosyć... — przerwał książę. — Aby zaś ludy Azji wiedziały, że jestem łaskawy, przeznaczam, Kamo, pięć talentów na igrzyska na cześć Astoreth, a kosztowny puchar do jej świątyni. Dziś jeszcze odbierzesz to.
 
-"For Thou art like the divine Amon; Thou art the sun concealed in human
+Skinieniem głowy pożegnał kapłankę.
 
-form," replied Kama. "Darkness flees from that place whither Thou
+Po jej wyjściu opanowała go nowa fala myśli:
 
-turnest thy countenance, and under the gleam of thy glances flowers
+„Zaprawdę, przebiegli są Fenicjanie. Jeżeli ten mój żyjący wizerunek jest człowiekiem, mogą mi zrobić z niego wielki podarunek, a ja czyniłbym kiedyś cuda, o jakich bodaj że nie słyszano w Egipcie. Faraon mieszka w Memfis, a jednocześnie ukazuje się w Tebach albo w Tanis
 
-blossom."
+I znowu obudziła się w nim głucha nienawiść do potężnych Azjatów, i znowu widział swój triumfalny wóz, przejeżdżający pobojowisko pełne asyryjskich trupów i całe kosze odciętych rąk.
 
-The prince turned again to her.
+Teraz wojna stała się dla jego duszy taką koniecznością jak chleb dla ciała. Bo nie tylko mógł przez nią zbogacić Egipt, napełnić skarb i zdobyć wiecznotrwałą sławę, ale jeszcze — mógł zaspokoić, dotychczas nieświadomy, dziś potężnie rozbudzony instynkt zniszczenia Asyrii.
 
-"But be compassionate," whispered she. "Moreover, Thou art a kind god,
+Dopóki nie zobaczył tych wojowników z kudłatymi brodami, nie myślał o nich. Ale dziś zawadzali mu. Było mu tak ciasno z nimi na świecie, że ktoś musiał ustąpić: oni albo on.
 
-hence Thou canst not be unjust to thy priestess."
+Jaką rolę w obecnym jego nastroju odegrał Hiram i Kama? — z tego nie zdawał sobie sprawy. Czuł tylko, że musi mieć wojnę z Asyrią, jak ptak przelotny czuje, że w miesiącu Pachono musi odejść na północ.
 
-The prince turned away again, and shook as if wishing to cast down a
+Namiętność wojny szybko ogarniała księcia. Mniej mówił, rzadziej uśmiechał się, przy ucztach siedział zamyślony, a zarazem coraz częściej przestawał z wojskiem i arystokracją. Widząc łaski, jakie namiestnik zlewał na tych, którzy noszą broń, szlachecka młodzież, a nawet ludzie starsi poczęli zaciągać się do pułków. Zwróciło to uwagę świętego Mentezufisa, który wysłał do Herhora list tej treści:
 
-burden. Kama looked from beneath her drooping lids at him, and smiled
+„Od przybycia Asyryjczyków do Pi-Bast następca tronu jest rozgorączkowany, a jego dwór usposobiony bardzo wojowniczo. Piją i grają w kości jak poprzednio, ale wszyscy odrzucili cienkie szaty i peruki i bez względu na straszny upał chodzą w żołnierskich czepcach i kaftanach.
 
-slightly.
+Obawiam się, ażeby ta zbrojna gotowość nie obraziła dostojnego Sargona.”
 
-When silence had endured too long, she said,
+Na co Herhor natychmiast odpowiedział:
 
-"Thou hast commanded to summon me, Sovereign. Here I am, to hear what
+„Nic nie szkodzi, że nasza zniewieściała szlachta polubiła wojskowość na czas przyjazdu Asyryjczyków, gdyż ci będą mieli o nas lepsze wyobrażenie. Najdostojniejszy namiestnik, widać oświecony przez bogów, odgadł, że właśnie teraz trzeba dzwonić mieczami, kiedy mamy u siebie posłów tak wojennego narodu.
 
-thy will is."
+Jestem pewny, że to dzielne usposobienie naszej młodzieży da Sargonowi do myślenia i zrobi go miększym w układach.”
 
-"Aha!" said the prince, recovering. "But tell me, O, priestess, aha!
+Pierwszy raz, jak Egipt Egiptem, zdarzyło się, że młody książę oszukał czujność kapłanów. Co prawda stali za nim Fenicjanie i — wykradziona przez nich tajemnica traktatu z Asyrią, czego kapłani nawet nie podejrzewali.
 
-who was that who resembled me so closely, the man whom I saw that night
+Najlepszą wreszcie maską następcy wobec kapłańskich dostojników była ruchliwość jego charakteru. Wszyscy pamiętali, jak łatwo w roku zeszłym przerzucił się od manewrów pod Pi-Bailos do cichego folwarku Sary i jak w ostatnich czasach kolejno zapalał się do uczt, zajęć administracyjnych, pobożności, aby znowu powrócić do uczt. Toteż, z wyjątkiem Tutmozisa, nikt by nie uwierzył, że ten zmienny młodzieniec posiada jakiś plan, jakieś hasło, do którego będzie dążył z niepokonanym uporem.
 
-in the temple?"
+Tym razem nawet nie trzeba było długo czekać na nowy dowód zmienności upodobań Ramzesa.
 
-Kama placed a finger on her lips.
+Do Pi-Bast, pomimo upału, przyjechała Sara z całym dworem i synem. Była trochę mizerna, dziecko trochę niezdrowe czy zmęczone, ale oboje wyglądali bardzo ładnie.
 
-"A sacred mystery," whispered she.
+Książę był zachwycony. W najpiękniejszej części pałacowego ogrodu wyznaczył Sarze dom i prawie całe dni przesiadywał przy kolebce swego syna.
 
-"One thing is a mystery, another is not permitted," replied Ramses.
+Poszły w kąt uczty, manewry i posępne zamyślenia Ramzesa. Panowie z jego świty musieli pić i bawić się sami, bardzo prędko odpasali miecze i przebrali się w najwykwintniejsze szaty. Zmiana kostiumu była dla nich tym niezbędniejszą, że książę po kilku z nich prowadził do mieszkania Sary, aby pokazać im syna, swego syna.
 
-"Let me know at least whether it was a man or a spirit?"
+— Patrz, Tutmozisie — mówił raz do ulubieńca — jakie to piękne dziecko: istny płatek róży. No, i z tego ma kiedyś wyrosnąć człowiek, z tego drobiazgu!... I to różowe pisklę będzie kiedyś chodziło, rozmawiało, nawet uczyło się mądrości w kapłańskich szkołach...
 
-"A spirit."
+Czy ty widzisz jego ręczyny, Tutmozisie?... — wołał zachwycony Ramzes. — Zapamiętaj sobie te drobne ręce, ażebyś opowiedział o nich kiedyś, gdy mu daruję pułk i każę nosić za sobą mój topór... I to jest mój syn, mój syn rodzony!...
 
-"But still that spirit sang under thy window."
+Nic dziwnego, że gdy tak mówił pan, jego dworzanie martwili się, że nie mogą zostać niańkami, a nawet mamkami dziecka, które lubo nie miało żadnych praw dynastycznych, było jednak pierwszym synem przyszłego faraona.
 
-Kama laughed.
+Lecz ta sielanka skończyła się bardzo prędko, gdyż — nie dogadzała interesom Fenicjan.
 
-"I do not wish to violate the secrets of the temple."
+Pewnego dnia dostojny Hiram przybył do pałacu z wielką świtą kupców, niewolników tudzież ubogich Egipcjan, którym dawał jałmużnę, i stanąwszy przed następcą rzekł:
 
-"Thou hast promised that to Prince Hiram," put in the priestess.
+— Miłościwy panie nasz! Ażeby dać dowód, że serce twoje i dla nas Azjatów jest pełne łaski, darowałeś nam pięć talentów celem urządzenia igrzysk na cześć boskiej Astoreth. Wola twoja jest spełniona, igrzyska przygotowaliśmy, a teraz przychodzimy błagać cię, ażebyś raczył zaszczycić je swoją obecnością.
 
-"Well, well," interrupted the irritated viceroy; "for this cause I
+To mówiąc, siwowłosy książę tyryjski uklęknął przed Ramzesem i na złotej tacy podał mu złoty klucz do loży cyrku.
 
-shall not speak with Hiram or any other man about this miracle, only
+Ramzes chętnie zgodził się na zaprosiny, a święci kapłani Mefres i Mentezufis nic nie mieli przeciw temu, aby książę przyjął udział w uroczystości na cześć bogini Astoreth.
 
-with thee. Now, Kama, tell this spirit or man who is so like me to
+— Przede wszystkim Astoreth — mówił dostojny Mefres do Mentezufisa — jest tym samym, co nasza Izyda tudzież Istar chaldejska. Po wtóre, jeżeli pozwoliliśmy Azjatom wybudować świątynię na naszej ziemi, wypada od czasu do czasu być uprzejmymi dla ich bogów.
 
-leave Egypt at the earliest, and not to show himself to any one. For,
+— Mamy nawet obowiązek zrobić małą grzeczność Fenicjanom po zawarciu takiego traktatu z Asyrią!... — wtrącił śmiejąc się dostojny Mentezufis.
 
-seest thou, in no state can there be two heirs to the throne."
+Cyrk, do którego namiestnik wraz z nomarchą i najprzedniejszymi oficerami udał się o godzinie czwartej po południu, był zbudowany w ogrodzie świątyni Astoreth. Składał się on z okrągłego placu, który otaczał parkan wysoki na dwu ludzi, zaś dokoła parkanu było mnóstwo lóż i ławek wznoszących się amfiteatralnie. Dachu budynek nie posiadał; natomiast nad lożami rozciągały się różnokolorowe płachty w formie motylich skrzydeł, które skrapiano pachnącą wodą i poruszano dla chłodzenia powietrza.
 
-All at once he tapped his forehead. Up to that instant he had spoken so
+Gdy namiestnik ukazał się w swej loży, zgromadzeni w cyrku Azjaci i Egipcjanie wydali wielki krzyk. Po czym zaczęło się przedstawienie procesją muzyków, śpiewaków i tancerek.
 
-as to trouble Kama, but now an idea altogether serious came to him.
+Książę rozejrzał się. Miał po prawej ręce lożę Hirama i najznakomitszych Fenicjan, na lewo lożę fenickich kapłanów i kapłanek, między którymi Kama, zajmująca jedno z pierwszych miejsc, zwracała na siebie uwagę bogatym strojem i pięknością. Miała przezroczystą szatę ozdobioną różnokolorowymi haftami, złote bransolety na rękach i nogach, a na głowie przepaskę z kwiatem lotosu wyrobionym bardzo kunsztownie z drogich kamieni.
 
-"I am curious," said he, looking sharply at Kama, "to know why thy
+Kama, oddawszy wraz z kolegami swymi głęboki ukłon księciu, zwróciła się do loży na lewo i zaczęła ożywioną rozmowę z cudzoziemcem o wspaniałej postawie i nieco szpakowatych włosach. Człowiek ten i jego towarzysze mieli brody i włosy zaplecione w mnóstwo warkoczyków.
 
-compatriots showed me my own living picture. Do they wish to forewarn
+Ramzes, który przyszedł do cyrku prawie wprost z pokoju swego syna, był w wesołym usposobieniu. Lecz gdy zobaczył, że Kama rozmawia z jakimś obcym człowiekiem, spochmurniał.
 
-me that they have a man to supplant me? Indeed, their act is
+— Czy nie wiesz — zapytał Tutmozisa — co to za drab, do którego wdzięczy się kapłanka?...
 
-astounding."
+— To jest właśnie ów znakomity pielgrzym babiloński, dostojny Sargon.
 
-Kama fell at his feet.
+— Ależ to stary dziad! — rzekł książę.
 
-"O lord!" whispered she, "Thou who bearest on thy breast our highest
+— Jest zapewne starszy od nas obu, ale to piękny człowiek.
 
-talisman, canst Thou suppose that the Phoenicians would do aught to
+— Czyliż taki barbarzyńca może być pięknym!... — oburzył się namiestnik. — Jestem pewny, że śmierdzi łojem...
 
-injure thee? But only think if danger threatened thee, or if Thou hadst
+Obaj umilkli: książę z gniewu, Tutmozis ze strachu, że ośmielił się pochwalić człowieka, który nie podoba się jego panu.
 
-the wish to mystify enemies, would not such a man be of service? The
+Tymczasem na arenie widowisko szło za widowiskiem. Kolejno występowali gimnastycy, poskramiacze wężów, tancerze, kuglarze i błazny, wywołując okrzyki widzów.
 
-Phoenician only wished to show thee this in the temple."
+Ale namiestnik był chmurny. W jego duszy odżyły chwilowo uśpione namiętności: nienawiść do Asyryjczyków i zazdrość o Kamę.
 
-The prince meditated a moment, and shrugged his shoulders.
+„Jak może — myślał — ta kobieta mizdrzyć się do człowieka starego, który w dodatku ma twarz koloru wyprawnej skóry, niespokojne czarne oczy i brodę capa...”
 
-"So," thought he, "if I needed any one's assistance! But do the
+Raz tylko książę zwrócił pilniejszą uwagę na arenę.
 
-Phoenicians think that I need assistance? If I do they have chosen a
+Weszło kilku nagich Chaldejczyków. Najstarszy osadził w ziemi trzy krótkie włócznie ostrzami do góry i za pomocą ruchów rąk uśpił najmłodszego. Po czym inni wzięli go na ręce i położyli na włóczniach w ten sposób, że jedna podpierała mu głowę, druga krzyż, trzecia nogi.
 
-poor protector."
+Śpiący był sztywny jak drewno. Wówczas starzec zrobił nad nim jeszcze kilka ruchów rękoma i — wysunął włócznię podpierającą nogi. Po chwili wyjął włócznię, na której leżały plecy, a nareszcie odtrącił tę, na której spoczywała głowa.
 
-"Lord!" whispered Kama, "is it not known to thee that Ramses the Great
+I stało się, w jasny dzień, przy kilku tysiącach świadków, że śpiący Chaldejczyk unosił się poziomo w powietrzu, bez żadnej podpory, o parą łokci nad ziemią. Wreszcie starzec popchnął go ku ziemi i rozbudził.
 
-had, in addition to his own person, two others to show enemies? Those
+W cyrku panowało zdumienie; nikt nie śmiał krzyknąć ani klasnąć. Tylko z paru lóż rzucono kwiaty.
 
-two shadows of the pharaoh perished, but he survived."
+Ramzes był także zdziwiony. Pochylił się do loży Hirama i szepnął staremu księciu:
 
-"Well, enough of this," interrupted the prince. "But that the people of
+— A ten cud potrafilibyście zrobić w świątyni Astoreth?
 
-Asia may know that I am gracious, I designate Kama five talents for
+— Nie znam wszystkich tajemnic naszych kapłanów — odparł zmieszany — ale wiem, że Chaldejczycy są bardzo przebiegli...
 
-games, in honor of Astaroth, and a costly goblet for her temple. This
+— Jednak wszyscy widzieliśmy, że ten młodzian wisiał w powietrzu.
 
-gift will be received today by thee."
+— Jeżeli nie rzucono na nas uroku — rzekł niechętnie Hiram i — stracił humor.
 
-He dismissed the priestess with a motion of his head.
+Po krótkiej przerwie, w czasie której po lożach dostojników roznoszono świeże kwiaty, zimne wino i ciastka, rozpoczęła się najważniejsza część widowiska — walka byków.
 
-After her departure a new wave of thought mastered him.
+Przy odgłosie trąb, bębnów i fletów wprowadzono na arenę tęgiego byka z płachtą na głowie, ażeby nic nie widział. Po czym wbiegło kilku ludzi nagich, zbrojnych we włócznie i jeden z krótkim mieczem.
 
-"Indeed, the Phoenicians are clever. If this, my living picture, is a
+Na znak dany przez księcia uciekli przewodnicy, a jeden ze zbrojnych zdarł bykowi płachtę. Zwierzę przez kilka chwil stało oszołomione, następnie poczęło uganiać się za włóczniarzami, którzy drażnili je kłuciem.
 
-man, they can make of him a great present to me, and I shall perform at
+Ta walka jałowa ciągnęła się kilkanaście minut. Ludzie dręczyli byka, a on zapieniony, oblany krwią stawał dęba i gonił po całej arenie swoich nieprzyjaciół, nie mogąc żadnego dosięgnąć.
 
-times miracles such, perhaps, as have never been heard of in Egypt. The
+Wreszcie padł wśród śmiechu publiczności.
 
-pharaoh dwells in Memphis, and at the same time he shows himself in
+Znudzony książę, zamiast na arenę, patrzył na lożę kapłanów fenickich. I widział, że Kama przesiadłszy się bliżej Sargona prowadziła z nim żywą rozmowę. Asyryjczyk pożerał ją wzrokiem, a ona uśmiechnięta i zawstydzona niekiedy szeptała z nim, pochylając się tak, że jej włosy mieszały się z kudłami barbarzyńcy, niekiedy odwracała się od niego z udanym gniewem.
 
-Thebes or in Tanis. The pharaoh is marching on Babylon with an army,
+Ramzes uczuł ból w sercu. Pierwszy raz zdarzyło mu się, że jakaś kobieta innemu mężczyźnie przed nim dawała pierwszeństwo. W dodatku człowiekowi prawie staremu, Asyryjczykowi!...
 
-the Assyrians assemble their main forces there, and simultaneously the
+Tymczasem między publicznością rozległ się szmer. Na arenie człowiek uzbrojony mieczem kazał sobie przywiązać do piersi lewą rękę, inni obejrzeli swoje włócznie i — wprowadzono drugiego byka.
 
-pharaoh, with another army, captures Nineveh, I judge that the
+Kiedy jeden zbrojny zerwał mu płachtę z oczu, byk obrócił się i obejrzał wkoło, jakby chcąc porachować przeciwników. A gdy zaczęli go kłuć, cofnął się pod parkan dla zabezpieczenia sobie tyłu. Potem zniżył głowę i spod oka śledził ruchy napastujących go ludzi.
 
-Assyrians would be greatly astounded by an event of that sort."
+Początkowo zbrojni ostrożnie skradali się z boków, ażeby go ukłuć. Lecz gdy zwierzę wciąż stało nieporuszone, ośmielili się i zaczęli przebiegać mu przed oczyma coraz bliżej.
 
-And again deep hatred was roused in him against the strong Asiatics;
+Byk jeszcze bardziej pochylił głowę, lecz stał jak wkopany w ziemię. Publiczność zaczęła się śmiać, lecz nagle wesołość jej zamieniła się w okrzyk trwogi. Byk wypatrzył chwilę, ciężko podskoczył naprzód, trafił we włóczniarza i jednym uderzeniem rogów wyrzucił go do góry.
 
-again he saw his conquering chariot sweeping over a battlefield covered
+Człowiek spadł na ziemię z pogruchotanymi kośćmi, a byk pocwałował na drugą stronę areny i znowu stanął w pozycji obronnej.
 
-with Assyrian corpses, and whole baskets of severed hands stood before
+Włóczniarze znowu go otoczyli i zaczęli drażnić, a przez ten czas wbiegli ma arenę słudzy cyrkowi, aby podnieść rannego, który jęczał. Byk, pomimo zdwojonych pchnięć włóczniami, stał bez ruchu; lecz gdy trzej słudzy wzięli na ramiona omdlałego bojownika, z szybkością wichru rzucił się na tę grupę, poprzewracał ich i zaczął straszliwie kopać nogami.
 
-him.
+Między publicznością powstał zamęt: kobiety płakały, mężczyźni klęli i rzucali na byka, czym kto miał pod ręką. Na arenę zaczęły padać kije, noże, nawet deski z ław.
 
-For his soul war had become now as great a need as bread is for the
+Wówczas przybiegł do rozjuszonego zwierzęcia człowiek z mieczem. Ale włóczniarze potracili głowy i nie wspierali go należycie, więc byk powalił go i zaczął ścigać innych.
 
-body. For not only could he enrich Egypt by it, fill the treasury, and
+Stała się rzecz niesłychana dotychczas w cyrkach: na arenie leżało pięciu ludzi, inni, źle broniąc się, uciekali przed zwierzęciem, a publiczność ryczała z gniewu lub ze strachu.
 
-win glory to last through ages, but, besides, he might satisfy the
+Wtem wszystko ucichło, widzowie powstali i wychylili się ze swych miejsc, przerażony Hiram zbladł i rozkrzyżował ręce... Na arenę, z lóż dostojników, wyskoczyli dwaj: książę Ramzes z dobytym mieczem i Sargon z krótką siekierką.
 
-instinct hitherto unknown, but roused mightily at that moment, to
+Byk ze spuszczonym łbem i zadartym ogonem biegł wkoło areny wzniecając tuman kurzu. Pędził prosto na księcia, lecz jakby odepchnięty przez majestat królewskiego dziecięcia, wyminął Ramzesa, rzucił się na Sargona i — padł na miejscu. Zręczny a olbrzymio silny Asyryjczyk powalił go jednym uderzeniem toporka między oczy.
 
-destroy Assyria.
+Publiczność zawyła z radości i poczęła sypać kwiaty na Sargona i jego ofiarę. Ramzes tymczasem stał z wydobytym mieczem zdziwiony i rozgniewany, patrząc, jak Kama wydzierała swoim sąsiadom kwiaty i rzucała je na Asyryjczyka.
 
-Until he had seen those warriors with shaggy beards he had not thought
+Sargon obojętnie przyjmował objawy publicznego zachwytu. Trącił nogą byka, aby przekonać się, czy jeszcze żyje, a potem zbliżył się na parę kroków do księcia i coś przemówiwszy w swoim języku, ukłonił się z godnością wielkiego pana.
 
-of them. That day they had met him and made the world seem so small
+Ramzesowi przed oczyma przesunęła się krwawa mgła: chętnie wbiłby miecz w piersi temu zwycięzcy. Ale opanował się, chwilę pomyślał i, zdjąwszy ze swej szyi złoty łańcuch, podał go Sargonowi.
 
-that one side must give way, r they or he.
-
-What role had Hiram and Kama played in creating his present frame of
-
-mind? Of this he had made no estimate. He felt only that he must have
-
-war with Assyria, just as a bird of passage feels that in the mouth
-
-Pachons it must go northward.
-
-A passion for war seized the prince quickly. He spoke less, laughed
-
-more rarely, sat in thoughtfulness at feasts, and also spent his time
-
-oftener and oftener with the army and the aristocracy. Seeing the favor
-
-which the heir showered on those who bore arms, the noble youth, and
-
-even older men, began to join regiments. This attracted the attention
-
-of the holy Mentezufis, who sent a letter to Herhor with the following
-
-contents:
-
-"From the time that the Assyrians have arrived at Pi-Bast the heir is
-
-feverish, and his court is inclined toward war very greatly. They drink
-
-and play dice as before; but all have thrown aside robes and wigs, and,
-
-disregarding the awful heat, go about in military caps and mantles.
-
-"I fear lest this armed readiness may offend the worthy Sargon."
-
-To this Herhor replied immediately,
-
-"It is no harm that our effeminate nobles have taken a love for
-
-military appearance during the visit of Sargon, for the Assyrians will
-
-have a better opinion touching Egypt. Our most worthy viceroy,
-
-enlightened by the gods, as is evident, has divined that just now it is
-
-necessary to rattle our swords when we have with us the ambassadors of
-
-such a military people. I am certain that this valiant bearing of our
-
-youth will give Sargon something to think of, and will make him more
-
-yielding in arguments."
-
-For the first time since Egypt had become Egypt it happened that a
-
-youthful prince had deceived the watchful priesthood. It is true that
-
-the Phoenicians were behind him, and had stolen the secret of the
-
-treaty with Assyria; of this the priests had not even a suspicion.
-
-In fact, the very best mask which the heir had against suspicion was
-
-his impetuosity of character. All remembered how easily in the past
-
-year he had rushed from maneuvers at Pi-Bailos to Sarah's quiet country
-
-villa, and how from feasts he had grown impassioned, recently, for
-
-administrative labor, and then devotion, to return to feasts afterward.
-
-So no one believed, with the exception of Tutmosis, that that changeful
-
-youth had before him an object for which he would fight with invincible
-
-decision.
-
-Even this time there was no need to wait long for new proofs of the
-
-prince's mobility of temper.
-
-To Pi-Bast, in spite of the heat, came Sarah with all her court and her
-
-infant. She was somewhat thin, her child a trifle ill, or wearied, but
-
-both looked very charming.
-
-The prince was enchanted. He assigned a house to Sarah in the choicest
-
-part of the palace garden, and sat whole days, almost, at his son's
-
-cradle.
-
-Feasts, maneuvers, and gloomy meditations were forgotten; the lords of
-
-his suite had to drink and amuse themselves without him. Very soon they
-
-ungirded their swords and arrayed themselves in their most exquisite
-
-garments. The change was the more indispensable as Ramses brought some
-
-of them to Sarah's dwelling and showed his son to them.
-
-"See, Tutmosis," said he once to his favorite, "what a pretty child: a
-
-real rose leaf! Well, and out of this little thing a man will grow
-
-gradually. And this rosy chick will walk about some day, talk, even
-
-learn wisdom in the schools of the priesthood."
-
-"Look at his little hands, Tutmosis," said Ramses, delighted. "Remember
-
-these little hands, so as to tell of them some day when I give him a
-
-regiment, and command him to have my mace borne behind him. And this is
-
-my son, my own son."
-
-It is not to be wondered at that when their lord spoke thus his
-
-attendants were sorry that they could not become dry or wet nurses to
-
-the child which, though it had no dynastic rights, was still the first
-
-son of the future pharaoh.
-
-But this idyll ended very soon, since it did not harmonize with the
-
-interests of the Phoenicians.
-
-A certain day the worthy Hiram arrived at the palace with a great suite
-
-of merchants, slaves, and also poor Egyptians to whom he gave alms, and
-
-when he stood before the heir, he said,
-
-"Our gracious lord! to prove that thy heart is full of kindness toward
-
-us Asiatics also, Thou hast given five talents to arrange games in
-
-honor of the goddess Astaroth. Thy will is accomplished; we have
-
-arranged the games, now we have come to implore thee to deign to honor
-
-the games with thy presence."
-
-While saying this, the gray-haired Tyrian prince knelt before Ramses
-
-and gave him a golden key to his box in the amphitheatre.
-
-Ramses accepted the invitation willingly; the holy priests Mefres and
-
-Mentezufis had no objection to the presence of the prince in honoring
-
-the goddess Astaroth.
-
-"First of all, Astaroth," said the worthy Mefres to Mentezufis, "is the
-
-same as our Is is and the Chaldean Istar; second, if we permit Asiatics
-
-to build temples in our land it is proper to be kindly to their gods at
-
-seasons."
-
-"We are obliged even to show some politeness to Phoenicians after the
-
-conclusion of such a treaty with Assyria," put in the worthy
-
-Mentezufis, smiling.
-
-The amphitheatre, to which the viceroy, the nomarch, and the foremost
-
-officers betook themselves about four in the afternoon was built in the
-
-garden of the temple. It was a circular space surrounded by a palisade
-
-twice the height of a man. Inside the palisade, and round about, was a
-
-multitude of boxes and seats rising one above the other. The structure
-
-had no roof, but above the boxes extended cloth of various colors, cut
-
-like wings of butterflies, which, sprinkled with fragrant water, were
-
-moved to cool the atmosphere.
-
-When the viceroy appeared in his box, the Asiatics and Egyptians
-
-present in the amphitheatre gave forth a mighty shout. The spectacle
-
-began with a procession of singers, dancers, and musicians.
-
-The prince looked around. At his right was the box of Hiram and the
-
-most noted of the Phoenicians; on his left the box of the Phoenician
-
-priests and priestesses. In this Kama occupied one among the first
-
-places, and attracted notice by her splendid dress and by her beauty.
-
-She wore a transparent robe adorned with embroidery of various colors,
-
-gold bracelets and anklets, and on her head a circlet with a lotus
-
-flower composed most skillfully of jewels.
-
-Kama came with her colleagues, saluted the prince with low obeisances,
-
-and returned to the box on the left, where began an animated
-
-conversation with a foreigner whose hair was somewhat gray and whose
-
-presence was imposing. The hair and beard of this man and his
-
-companions were plaited into small braids.
-
-The prince had come almost directly from the chamber of his son, and
-
-was gladsome. But he frowned when he saw the priestess speaking with a
-
-stranger.
-
-"Dost Thou not know, Tutmosis, who that big fellow is for whom the
-
-priestess is so charming?" asked he.
-
-"He is that famous pilgrim who has come from Babylon, the worthy
-
-Sargon."
-
-"But he is an old grandfather!"
-
-"His years are surely more than thine and mine together; but he is a
-
-stately person."
-
-"Could such a barbarian be stately!" said the indignant viceroy. "I am
-
-certain that he bears about the smell of tallow."
-
-Both were silent: the prince from anger, Tutmosis from fear because he
-
-had dared to praise a man whom Ramses hated.
-
-Meanwhile spectacle followed spectacle on the arena. In turn appeared
-
-acrobats, serpent-charmers, dancers, buffoons, and jesters, who called
-
-forth shouts from the audience.
-
-But Ramses was gloomy. In his soul sprang up, moment after moment,
-
-passions which had been dormant, hatred for Assyrians and jealousy of
-
-Kama.
-
-"How can that woman," thought he, "fondle up to an old man who has a
-
-complexion like tanned leather, wild black eyes, and the beard of a he-
-
-goat?"
-
-But once the prince turned a more attentive look on the arena.
-
-A number of naked Chaldeans entered. The oldest fixed in the earth
-
-three short spears, points upward; then, with motions of his hands, he
-
-put the youngest man to sleep. After that others took the sleeping man
-
-and placed him on the spears in such fashion that one of the spears
-
-supported his head, another his loins, and the third his feet.
-
-The man was as stiff as wood. Then the old man made motions above him
-
-with his hands, and drew out the spear supporting his feet. After a
-
-while he removed the spear on which his loins were resting, and finally
-
-that on which his head was fixed.
-
-This took place in the clear day, before some thousands of spectators.
-
-The sleeping Chaldean rested in the air horizontally, without support,
-
-a couple of ells above the earth. At last the old man pushed him down
-
-and roused him.
-
-The audience was astounded; no one dared to applaud or to shout, but
-
-flowers were thrown from some boxes.
-
-Ramses too was astonished. He bent towards Hiram's box, and asked the
-
-old prince in a low voice,
-
-"Could they perform that secret in the temple of Astaroth?"
-
-"I am not conversant with all the secrets of our priests," answered
-
-Hiram, confused. "I know, though, that Chaldeans are very clever."
-
-"But we all saw that that young man rested in the air."
-
-"If they did not put a spell on us," said Hiram, reluctantly; and he
-
-grew serious.
-
-After a short interval, during which servitors took to the boxes of
-
-dignitaries fresh flowers, cool wine and cakes, the most important part
-
-of the spectacle began, the bull fight.
-
-To the sound of trumpets, drums, and flutes they led a strong bull into
-
-the arena, with a cloth over his head so that he should not see. Then a
-
-number of naked men ran around with darts, and one with a short sword.
-
-At a signal, given by the prince, the leaders ran away, and one of the
-
-armed men struck the cloth from the head of the bull. The beast stood
-
-some moments in a maze; then he chased after the dart man, who vexed
-
-him by pricking.
-
-This barren struggle continued some tens of minutes. Men tormented the
-
-bull, and he, foaming, stained with blood, reared and chased over the
-
-whole arena after his enemies without reaching any.
-
-At last he fell, amid the laughter of the spectators.
-
-The wearied prince, instead of looking at the arena, looked at the box
-
-of the Phoenician priests. He saw that Kama had moved nearer to Sargon
-
-and was conversing vivaciously. The Assyrian devoured her with his
-
-glances; she smiled and blushed, whispered with him, sometimes bending
-
-so that her hair touched the locks of the barbarian; sometimes she
-
-turned from him and feigned anger.
-
-Ramses felt pain in his heart. For the first time it had happened that
-
-a woman had preferred another man to him; besides, a man who was almost
-
-old, and, moreover, an Assyrian.
-
-Meanwhile a murmur rose in the audience. On the arena a man armed with
-
-a sword gave command to tie his left hand to his breast; others looked
-
-at their darts a second bull was let in. When an armed man tore the
-
-cloth from his eyes, the bull turned and looked around as if to count
-
-his opponents. But when they began to prick him, he withdrew to the
-
-paling to secure the rear; then he lowered his head and followed the
-
-movements of those attacking.
-
-At first the armed men stole up guardedly from both sides to prick him.
-
-But when the beast remained motionless, they gained courage, and began
-
-to run across in front, nearer and nearer.
-
-The bull inclined his head still more, but stood as if fixed to the
-
-earth. The audience laughed; but their joyousness was turned to a cry
-
-of fear suddenly. The bull chose the moment, rushed forward, struck
-
-some man who held a dart, and with one motion of his horns hurled him
-
-upward.
-
-The man struck the earth with broken bones; the bull galloped to the
-
-other side of the arena and stood in a defensive position.
-
-The men with darts surrounded the bull again, and began to irritate the
-
-animal; but now servants of the amphitheatre rushed to the arena to
-
-carry off the wounded man, who was groaning. The bull, in spite of the
-
-redoubled pricks of darts, stood motionless; but when three servants
-
-had taken the wounded man in their arms, he rushed at that group with
-
-the swiftness of a whirlwind, overturned it, and began to dig the
-
-ground with his forefeet tremendously.
-
-There was confusion in the audience: women screamed, men imprecated,
-
-and hurled at the bull whatever each one found nearest. Sticks, knives,
-
-even bench tops fell on the arena. Then a man with a sword rushed at
-
-the raging bull. But the dart men lost their heads and left him
-
-unsupported; hence the bull tossed him and pursued the others. A thing
-
-unparalleled in amphitheatres took place then: five men were lying on
-
-the arena; others, defending themselves badly, were fleeing before the
-
-beast, while the audience was roaring from fear or from anger.
-
-Next there was perfect silence; the spectators rose and bent forward
-
-out of their places, the terrified Hiram grew pale and crossed his
-
-hands. Down to the arena, from the boxes of dignitaries, sprang two
-
-men, Prince Ramses, with a drawn sword, and Sargon, with a short-
-
-handled axe.
-
-The bull, with head down and tail in the air, was racing around the
-
-arena, leaving clouds of dust behind him. The beast rushed straight
-
-toward the prince, but, as if repulsed by the majesty of the youth,
-
-avoided him, made directly at Sargon, and dropped to the earth. The
-
-Assyrian, adroit and immensely strong, stretched him with one blow of
-
-his axe, given between the eyes.
-
-The audience howled with delight, and threw flowers at Sargon and his
-
-victim. Ramses stood still with drawn sword, astonished and angry,
-
-seeing how Kama snatched flowers from her neighbors and threw them to
-
-the Assyrian.
-
-Sargon received expressions of public delight with indifference. He
-
-pushed the bull with his foot to be sure that the beast was lifeless;
-
-and then, going a couple of steps toward the prince, said something in
-
-his own speech, and bowed with the dignity of a magnate.
-
-A bloody mist passed before the prince's eyes; he would have buried his
-
-sword in the victor's breast gladly. But he conquered himself, thought
-
-a moment, and taking a gold chain from his neck gave it to Sargon.
-
-The Assyrian bowed again, kissed the chain, and put it around his neck.
-
-But the prince, with a bluish flush on his cheeks, returned to the door
-
-by which actors entered the arena, and amid plaudits of the audience
-
-left the amphitheatre with a feeling of deep humiliation.
+Asyryjczyk znowu skłonił się, pocałował łańcuch i włożył go sobie na szyję. A książę, z sinawymi rumieńcami na policzkach, skierował się do furtki, którą wchodzili na arenę aktorowie, i wśród okrzyków publiczności, głęboko upokorzony, opuścił cyrk.

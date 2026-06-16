@@ -1,773 +1,302 @@
-# Kapitel 37: CHAPTER XXXVII
+# Kapitel 037: Tom II - Rozdział XII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part43.xhtml*
 
 <!-- status: pending -->
 
-AFTER their visit to Sargon the two holy men, Mentezufis and Mefres,
+Po wizycie u Sargona dwaj święci mężowie, Mefres i Mentezufis, okrywszy się starannie burnusami, wracali zamyśleni do domu.
 
-when they had concealed themselves carefully with their burnouses,
+— Kto wie — rzekł Mentezufis — czy ten pijak Sargon nie ma słuszności co do naszego następcy?...
 
-returned home, meditating deeply.
+— W takim razie Istubar będzie miał lepszą słuszność — twardo odpowiedział Mefres.
 
-"Who knows," said Mentezufis, "that the view of that drunken Sargon
+— Jednak nie uprzedzajmy się. Trzeba pierwej wybadać księcia — odparł Mentezufis.
 
-concerning our prince is not the right one?"
+— Uczyń to, wasza cześć.
 
-"In that case Istubar's view is still more correct," answered Mefres,
+Istotnie nazajutrz obaj kapłani, z bardzo poważnymi minami, przyszli do następcy, prosząc go o poufną rozmowę.
 
-decidedly.
+— Cóż się stało? — zapytał książę — czy znowu jego dostojność Sargon odbył jakie nocne poselstwo?
 
-"Still, let us not be too hasty. We should examine the prince first,"
+— Niestety, nie chodzi nam o Sargona — odparł arcykapłan. — Ale... między ludem krążą pogłoski, że ty, najdostojniejszy panie, utrzymujesz ścisłe stosunki z niewiernymi Fenicjanami...
 
-remarked Mentezufis.
+Po tych słowach książę zaczął już domyślać się celu wizyty proroków i krew w nim zakipiała. Lecz jednocześnie ocenił, że jest to początek gry między nim a stanem kapłańskim, i jak przystało na królewskiego syna, opanował się w jednej chwili. Jego twarz przybrała wyraz zaciekawionej naiwności.
 
-"Let us do so."
+— A Fenicjanie to niebezpieczni ludzie, urodzeni wrogowie państwa!... — dodał Mefres.
 
-"In fact, both priests went to the heir next morning with very serious
+Następca uśmiechnął się.
 
-faces, and asked for a confidential talk with him.
+— Gdybyście wy, święci mężowie — odparł — pożyczali mi pieniędzy i mieli przy świątyniach ładne dziewczęta, z wami musiałbym się widywać częściej. A tak z biedy muszę przyjaźnić się z Fenicjanami!
 
-"What has happened?" inquired the prince. "Has his worthiness Sargon
+— Mówią, że wasza dostojność odwiedzasz w nocy tę Fenicjankę...
 
-gone on some new night embassy?"
+— I muszę tak robić, dopóki dziewczyna, nabrawszy rozumu, nie przeprowadzi się do mego domu. Ale nie bójcie się, chodzę z mieczem i gdyby mi kto zastąpił drogę...
 
-"Alas! the question for us is not of Sargon," answered Mefres. "But
+— Przez tę jednak Fenicjankę nabrałeś, wasza dostojność, wstrętu do pełnomocnika asyryjskiego króla.
 
-reports are current among people that thou, most worthy lord, art
+— Wcale nie przez nią, tylko że Sargon śmierdzi łojem... Wreszcie do czego to prowadzi?... Wy, święci ojcowie, nie jesteście dozorcami moich kobiet; sądzę, że dostojny Sargon nie powierzył wam swoich, więc — czego chcecie?...
 
-maintaining relations continually with unbelieving Phoenicians."
+Mefres tak zmieszał się, że aż na wygolonym czole zapłonął mu rumieniec.
 
-From these words the prince divined why the two prophets had made the
+— Rzekłeś, wasza dostojność, prawdę — odparł — że nie do nas należą wasze miłostki i sposoby, jakich do tego używacie. Ale... jest rzecz gorsza: lud dziwi się, że chytry Hiram tak łatwo pożyczył wam sto talentów, nawet bez zastawu...
 
-visit, and the blood boiled in him. But he saw at once that this was
+Księciu drgnęły usta, lecz znowu rzekł spokojnie:
 
-the beginning of a play between the priests and him, and, as became the
+— Nie moja wina, że Hiram więcej ufa memu słowu aniżeli egipscy bogacze! On wie, że raczej wyrzekłbym się mojej zbroi po dziadzie, niż nie zapłacił mu tego, com winien. A zdaje się, że i o procent musi być spokojny, gdyż wcale mi o nim nie wspominał.
 
-son of a pharaoh, he mastered himself in one instant. His face assumed
+Nie myślę taić przed wami, święci mężowie, że Fenicjanie mają więcej zręczności od Egipcjan. Nasz bogacz, zanimby mi pożyczył sto talentów, robiłby surowe miny, nastękałby się, wytrzymał mnie z miesiąc, a w końcu wziąłby ogromny zastaw i jeszcze większy procent. Zaś Fenicjanie, którzy lepiej znają serca książąt, dają nam pieniądze nawet bez sędziego i świadków.
 
-an expression of innocent curiosity.
+Arcykapłan był tak zirytowany spokojnym szyderstwem Ramzesa, że umilkł i zaciął usta. Wyręczył go Mentezufis, zapytawszy nagle:
 
-"The Phoenicians are dangerous, born enemies of Egypt," said Mefres.
+— Co byś, wasza dostojność, rzekł, gdybyśmy zawarli z Asyrią traktat oddający jej północną Azję razem z Fenicją?...
 
-The heir smiled.
+Mówiąc tak, utkwił oczy w twarz następcy. Ale książę odparł całkiem spokojnie:
 
-"Holy fathers, if ye would lend me money, and if ye had beautiful
+— Powiedziałbym, że tylko zdrajcy mogliby namawiać faraona do podobnego traktatu.
 
-maidens in your temples, I should see you oftener. But as things are, I
+Obaj kapłani poruszyli się: Mefres podniósł ręce do góry, Mentezufis zacisnął pięści.
 
-must be friendly with Phoenicians."
+— A gdyby wymagało tego bezpieczeństwo państwa?... — nalegał Mentezufis.
 
-"Men say, Erpatr, that Thou dost visit that Phoenician woman during
+— Czego wy ode mnie chcecie?... — wybuchnął książę. — Wtrącacie się do moich długów i kobiet, otaczacie mnie szpiegami, ośmielacie się robić mi wymówki, a teraz jeszcze zadajecie mi jakieś podstępne pytanie. Otóż mówię wam: ja, choćbyście mnie mieli otruć, nie podpisałbym takiego traktatu... Na szczęście, nie zależy to ode mnie, tylko od jego świątobliwości, którego wolę wszyscy musimy spełniać.
 
-night hours."
+— Więc cóż byś zrobił, wasza dostojność, będąc faraonem?...
 
-"I must till the girl gains wit and moves to my house. But have no
+— To, czego wymagałaby cześć i interes państwa.
 
-fear, I go with a sword; and if any man should bar the way to me."
+— O tym nie wątpię — rzekł Mentezufis. — Ale co wasza dostojność — uważasz za interes państwa?... Gdzie mamy szukać wskazówek?...
 
-"But through that Phoenician woman Thou hast conceived repulsion for
+— A od czegóż jest najwyższa rada?... — zawołał książę, tym razem z udanym gniewem. — Powiadacie, że składa się z samych mędrców... Więc niechby oni wzięli na swoją odpowiedzialność traktat, który ja uważam za hańbę i zgubę Egiptu...
 
-King Assar's envoy."
+— Skądże wiesz, wasza dostojność — odparł Mentezufis — że właśnie tak nie postąpił wasz boski rodzic?...
 
-"Not through her by any means, but because Sargon smells of tallow. But
+— Więc po co wy mnie o to pytacie?... Co to za śledztwo?... Kto wam daje prawo zaglądać w głąb mego serca...
 
-whither does this lead? Ye, holy fathers, are not overseers of my
+Ramzes udawał tak mocno oburzonego, że aż uspokoili się obaj kapłani.
 
-women; I think that the worthy Sargon has not committed his to you.
+— Mówisz, książę — odezwał się Mefres — jak przystało na dobrego Egipcjanina. Przecie i nas bolałby podobny traktat, ale bezpieczeństwo państwa niekiedy wymaga chwilowego poddania się okolicznościom...
 
-What is your desire?"
+— Ale co was zmusza do tego?... — wołał książę. — Czy przegraliśmy wielką bitwę, czy już nie mamy wojsk?...
 
-Mefres was so confused that blushes appeared on his shaven forehead.
+— Wioślarzami okrętu, na którym Egipt płynie przez rzekę wieczności, są bogowie — odparł uroczystym tonem arcykapłan — a sternikiem Najwyższy Pan wszelkiego stworzenia. Nieraz zatrzymują oni albo i skręcają statek, ażeby ominąć niebezpieczne wiry, których my nawet nie dostrzegamy. W takich wypadkach z naszej strony potrzebną jest tylko cierpliwość i posłuszeństwo, za które wcześniej lub później spotyka nas hojna nagroda przewyższająca wszystko, co może wymyślić śmiertelny człowiek.
 
-"It is true, worthiness," answered he, "thy love affairs and the
+Po tej uwadze kapłani pożegnali księcia, pełni otuchy, że choć gniewa się na traktat, lecz go nie złamie i zapewni Egiptowi czas potrzebnego mu spokoju. Po ich odejściu Ramzes wezwał do siebie Tutmozisa. A gdy znalazł się sam na sam z ulubieńcem, długo hamowany gniew i żal wybuchnął. Książę rzucił się na kanapę, wił się jak wąż, uderzał pięściami w głowę i płakał.
 
-methods therein do not pertain to us. But there is a worse thing,
+Wylękniony Tutmozis czekał, aż księcia ominie atak wściekłości. Następnie podał mu wody z winem, okadził go kojącymi wonnościami, wreszcie usiadł przy nim i zapytał o przyczynę niemęskiej rozpaczy.
 
-people are astonished that the cunning Hiram lent thee a hundred
+— Siądź tu — rzekł następca, nie podnosząc się. — Czy wiesz, dzisiaj jestem już pewny tego, że nasi kapłani zawarli z Asyrią jakiś haniebny traktat... Bez wojny, nawet bez żadnych żądań z tamtej strony!... Czy domyślasz się, ile tracimy?...
 
-talents with such readiness, even without a pledge."
+— Mówił mi Dagon, że Asyria chce zagarnąć Fenicję. Lecz Fenicjanie już mniej są zatrwożeni, gdyż król Assar ma wojnę na północno-wschodnich granicach. Siedzą tam ludy bardzo waleczne i mnogie, więc nie wiadomo, jak skończy się wyprawa. W każdym razie Fenicjanie będą mieli parę lat spokoju, co im wystarczy do przygotowania obrony i znalezienia sprzymierzeńców...
 
-The prince's lips quivered, but again he answered quietly,
+Książę niecierpliwie machnął ręką.
 
-"It is no fault of mine that Hiram has more trust in my words than have
+— Oto widzisz — przerwał Tutmozisowi — nawet Fenicja uzbroi się, a może i wszystkich sąsiadów, którzy ją otaczają. Na wszelki zaś sposób my stracimy choćby tylko zaległe daniny z Azji, które wynoszą — czy słyszałeś co podobnego?... — wynoszą przeszło sto tysięcy talentów!...
 
-rich Egyptians! He knows that I would rather yield the arms which I
+Sto tysięcy talentów... — powtórzył książę. — O bogowie! ależ taka suma od razu wypełniłaby skarb faraona... A gdybyśmy jeszcze napadli Asyrię w porze właściwej, w samej Niniwie, w samym pałacu Assara, znaleźlibyśmy niewyczerpane skarby...
 
-inherit from my grandfather than fail to pay the money due him. It
+Pomyśl teraz: ilu moglibyśmy zabrać niewolników?... Pół miliona... milion ludzi olbrzymio silnych, a tak dzikich, że niewola w Egipcie, że najcięższa praca przy kanałach lub w kopalniach wydałaby się im zabawką...
 
-seems to me that he must be at rest concerning interest, since he has
+Płodność ziemi podniosłaby się w ciągu kilku lat, wynędzniały nasz lud odpocząłby i zanim umarłby ostatni niewolnik, już państwo odzyskałoby dawną potęgę i bogactwa...
 
-not mentioned it. I do not think of hiding from you, holy fathers, that
+I to wszystko zniweczą kapłani za pomocą kilku zapisanych blach srebrnych i kilku cegieł pociętych znakami w formie strzał, których nikt z nas nie rozumie!...
 
-the Phoenicians are more dexterous than Egyptians. Our wealthy men
+Wysłuchawszy żalów księcia, Tutmozis podniósł się z krzesła, z uwagą przejrzał sąsiednie komnaty, czy kto w nich nie podsłuchuje, potem znowu usiadł przy Ramzesie i zaczął szeptać:
 
-would make some faces before lending me one hundred talents; they would
+— Bądź dobrej myśli, panie! O ile wiem, cała arystokracja, wszyscy nomarchowie, wszyscy wyżsi oficerowie słyszeli coś o tym traktacie i są oburzeni. Daj więc tylko znak, a rozbijemy traktatowe cegły na łbach Sargona, nawet Assara...
 
-groan, make me wait a month, and at last demand immense pledges and a
+— Ależ to byłby bunt przeciw jego świątobliwości... — równie cicho odparł książę.
 
-high rate of interest. But Phoenicians know the hearts of princes
+Tutmozis zrobił smutną miną.
 
-better; they give us money even without a judge or witnesses."
+— Nie chciałbym — rzekł — zakrwawiać ci serca, ale... twój, równy najwyższym bogom, ojciec jest ciężko chory.
 
-The high priest was so irritated by this quiet banter that he pressed
+— To nieprawda!... — zerwał się książę.
 
-his lips together and was silent. Mentezufis rescued him by asking
+— Prawda, tylko nie zdradź się, że wiesz o tym. Jego świątobliwość jest bardzo zmęczony pobytem na tej ziemi i już pragnie odejść. Lecz kapłani zatrzymują go, a ciebie nie wzywają do Memfisu, ażeby bez przeszkód podpisać umowę z Asyrią...
 
-quickly,
+— Ależ to są zdrajcy!... zdrajcy!... — szeptał rozwścieczony książę.
 
-"What wouldst Thou say, worthiness, were we to make a treaty with
+— Dlatego nie będziesz miał trudności z zerwaniem umowy, gdy obejmiesz władzę po ojcu (oby żył wiecznie!).
 
-Assyria, yielding northern Asia and Phoenicia?"
+Książę zadumał się.
 
-While asking this question, he had his eyes fixed on the face of the
+— Łatwiej — rzekł — podpisać traktat aniżeli go zerwać...
 
-heir. But Ramses answered him with perfect calmness,
+— I zerwać łatwo! — uśmiechnął się Tutmozis. — Czyliż w Azji nie ma plemion niesfornych, które wpadną w nasze granice?... Czyliż boski Nitager nie czuwa ze swoją armią, aby odparł ich i przeniósł wojnę do ich krajów?... A czy myślisz, że Egipt nie znajdzie ludzi do oręża i skarbów na wojnę?... Pójdziemy wszyscy, bo każdy może coś zyskać i jako tako ubezpieczyć sobie życie... Skarby zaś leżą w świątyniach... A w Labiryncie!...
 
-"I should say that only traitors could persuade the pharaoh to make
+— Kto je wydobędzie stamtąd! — wtrącił z powątpiewaniem książę.
 
-such a treaty."
+— Kto?... Każdy nomarcha, każdy oficer, każdy szlachcic zrobi to, byle miał rozkaz faraona, a... młodsi kapłani pokażą nam drogę do kryjówek...
 
-Both priests started up. Mefres raised his hands; Mentezufis clinched
+— Nie ośmielą się... Kara bogów...
 
-his fist.
+Tutmozis pogardliwie machnął ręką.
 
-"But if danger to the state demanded it?" insisted Mentezufis.
+— Albożeśmy to chłopi czy pastuchy, ażeby lękać się bogów, z których drwią Żydzi, Fenicjanie i Grecy, a lada najemny żołnierz znieważa ich bezkarnie.
 
-"What do ye wish of me?" burst out the prince. "Ye interfere with my
+Kapłani to wymyślili brednie o bogach, w których sami nie wierzą. Przecie wiesz, że w świątyniach uznają tylko Jedynego... Oni też robią cuda, z których się śmieją... Chłop po dawnemu bije czołem przed posągami. Ale już robotnicy wątpią o wszechmocności Ozyrysa, Horusa i Seta, pisarze oszukują bogów w rachunkach, a kapłani posługują się nimi jak łańcuchem i zamkiem do zabezpieczenia swoich skarbców.
 
-debts and women, ye surround me with spies, ye dare reproach me, and
+Oho! minęły te czasy — ciągnął Tutmozis — kiedy cały Egipt wierzył we wszystko, co mu donoszono ze świątyń. Dziś my obrażamy bogów fenickich, Fenicjanie naszych, i jakoś na nikogo nie spadają pioruny...
 
-now ye give me some sort of traitorous queries. Now I will tell you: I,
+Namiestnik uważnie przypatrywał się Tutmozisowi.
 
-if ye were to poison me, would not sign a treaty like the one ye
+— Skąd tobie takie myśli przychodzą do głowy? — spytał. — Wszakże nie tak dawno bladłeś na wzmiankę o kapłanach...
 
-mention. Luckily that does not depend on me, but on his holiness, whose
+— Bo byłem jeden. Ale dziś, gdym poznał, że cała szlachta ma to samo rozumienie, co ja, jest mi raźniej...
 
-will we must all obey."
+— A kto szlachcie i tobie mówił o traktatach z Asyrią?
 
-"What wouldst Thou do, then, wert Thou the pharaoh?"
+— Dagon i inni Fenicjanie — odparł Tutmozis. — Oni nawet ofiarowali się, gdy przyjdzie czas, podbuntować azjatyckie plemiona, aby nasze wojska miały pozór do przekroczenia granic. A gdy raz wyjdziemy na drogę do Niniwy, Fenicjanie i ich sprzymierzeńcy połączą się z nami... I będziesz miał armię, jakiej nie posiadał Ramzes Wielki!...
 
-"What the honor and the profit of the state demanded."
+Księciu nie podobała się ta gorliwość Fenicjan; zamilczał jednak o niej. Natomiast spytał:
 
-"Of that I doubt not," said Mentezufis. "But what dost Thou consider
+— A co będzie, jeżeli kapłani dowiedzą się o waszych gadaninach?... Zaprawdę żaden z was nie uniknie śmierci!
 
-the profit of the state? Where are we to look for indications?"
+— O niczym nie dowiedzą się — wesoło odparł Tutmozis. — Zanadto ufają swej potędze, źle płacą szpiegom i zniechęcili cały Egipt swoją chciwością i pychą. Toteż arystokracja, wojsko, pisarze, robotnicy, nawet niżsi kapłani tylko czekają hasła, ażeby wpaść do świątyń, zabrać skarby i złożyć je u stóp tronu. Gdy im zaś skarbów zabraknie, święci mężowie utracą wszelką władzę. Nawet przestaną robić cuda, bo i do tego potrzebne są złote pierścienie...
 
-"Why is the supreme council in existence?" asked Ramses, with feigned
+Książę skierował rozmowę na inne przedmioty, wreszcie dał znak Tutmozisowi, że może odejść.
 
-auger this time. "Ye say this council is made up of all the great
+Gdy został sam, począł rozmyślać.
 
-sages. In that case let them take on themselves responsibility for a
+Byłby zachwycony wrogim usposobieniem szlachty do kapłanów i wojowniczymi instynktami najwyższych klas, gdyby zapał nie wybuchnął tak nagle i gdyby poza nim nie ukrywali się Fenicjanie.
 
-treaty which I should look on as a shame and as destruction."
+To kazało następcy być ostrożnym; rozumiał bowiem, że w sprawach Egiptu lepiej ufać patriotyzmowi kapłanów aniżeli przyjaźni Fenicjan.
 
-"Whence dost Thou know, worthiness, that thy godlike father would not
+Lecz przypomniał sobie słowa ojca, że Fenicjanie są prawdomówni i wierni, gdy chodzi o ich interes. Otóż bez kwestii Fenicjanie mieli wielki interes w tym, ażeby nie dostać się pod władzę Asyryjczyków. I można było polegać na nich jako na sprzymierzeńcach w razie wojny, gdyż przegrana Egipcjan odbiłaby się przede wszystkim na Fenicji.
 
-act in just such a manner?"
+Z drugiej strony Ramzes nie przypuszczał, że kapłani, nawet zawierając tak szpetny traktat z Asyrią, dopuszczali się zdrady. Nie, to nie byli zdrajcy, ale — rozleniwieni dygnitarze. Dogadza im pokój, gdyż wśród spokoju mnożą swoje skarby i rozszerzają władzę. Nie chcą wojny, gdyż wojna spotęgowałaby władzę faraona, a ich samych naraziłaby na ciężkie wydatki.
 
-"Why ask me, then, of this matter? What investigation is this? Who
+I stało się, że młody książę, pomimo braku doświadczenia, rozumiał, że musi być ostrożnym, nie śpieszyć się, nikogo nie potępiać, ale też i nikomu nie ufać zbytecznie. On już postanowił wojnę z Asyrią, nie dlatego że pragnęła jej szlachta i Fenicjanie, lecz że Egipt potrzebował skarbów i niewolników.
 
-gives you the right to pry into my heart?"
+Ale postanowiwszy wojnę, chciał działać rozważnie. Chciał powoli przekonać do niej stan kapłański, a dopiero w razie oporu — zgnieść go za pomocą wojska i szlachty.
 
-Ramses feigned to be so mightily indignant that the priests were
+I właśnie wówczas, gdy święty Mefres i Mentezufis żartowali z przepowiedni Sargona, że następca nie podda się kapłanom, ale ich zmusi do posłuszeństwa, już wówczas książę miał gotowy plan ujarzmienia ich i widział, jakie posiada do tego środki. Zaś chwilę rozpoczęcia walki i sposób przeprowadzenia jej pozostawiał przyszłości.
 
-satisfied.
+„Czas przynosi najlepsze rady!” — rzekł do siebie. Był spokojny i zadowolony jak człowiek, który po długim wahaniu wie, co ma robić, i posiada wiarę we własne siły. Toteż ażeby pozbyć się nawet śladów niedawnego wzburzenia, poszedł do Sary.
 
-"Thou speakest, prince," said Mefres, "as becomes a good Egyptian. Such
+Zabawa z synkiem zawsze koiła jego troski i pogodą napełniała mu serce.
 
-a treaty would pain us, too; but danger to the state forces men to
+Minął ogród, wszedł do willi swej pierwszej kochanki i zastał ją — znowu we łzach.
 
-yield temporarily to circumstances."
+— O Saro! — zawołał — gdybyś miała Nil w twojej piersi, potrafiłabyś go wypłakać.
 
-"What forces you to yield?" cried the prince. "Have we lost a great
+— Już nie będę... — odparła, lecz jeszcze obfitszy strumień polał się z jej oczu.
 
-battle, or have we no army?"
+— Cóż to? — spytał książę — czy znowu sprowadziłaś sobie jakąś wróżkę, która straszy cię Fenicjankami?
 
-"The oarsmen on the boat in which Egypt is sailing through the river of
+— Nie Fenicjanek lękam się, ale Fenicji... — rzekła. — O, ty nie wiesz, panie, jacy to nikczemni ludzie...
 
-eternity are gods," replied Mefres, with solemnity; "but the steersman
+— Palą dzieci? — roześmiał się namiestnik.
 
-is the Highest Lord of existence. The oarsmen stop frequently, or turn
+— Myślisz, że nie?... — odpowiedziała, patrząc na niego wielkimi oczyma.
 
-the boat so as to avoid dangerous eddies which we do not even notice.
+— Bajki! Wiem przecie od księcia Hirama, że to bajki!...
 
-In such cases we need only patience and obedience, for which, later or
+— Hiram?... — krzyknęła Sara. — Hiram, ależ to największy zbrodniarz... Spytaj mego ojca, o, on powie ci, panie, w jaki sposób Hiram zwabia na swoje statki młode dziewczęta dalekich krajów i — rozpiąwszy żagle, uwozi, aby je sprzedać... Była przecie u nas jasnowłosa niewolnica, którą porwał Hiram. Szalała z tęsknoty za swym krajem, ale nie umiała powiedzieć nawet, gdzie leży jej ojczyzna. I umarła!... Takim jest Hiram, takim nędzny Dagon i wszyscy ci nikczemnicy...
 
-earlier, a liberal reward will meet us, surpassing all that mortal man
+— Może być, ale co nas to obchodzi? — spytał książę.
 
-can imagine."
+— Bardzo wiele — mówiła Sara. — Ty, panie, słuchasz dzisiaj rad fenickich, a tymczasem nasi Żydzi wykryli, że Fenicja chce wywołać wojnę między Egiptem i Asyrią... Podobno nawet co najprzedniejsi kupcy i bankierzy feniccy zobowiązali się do tego strasznymi przysięgami...
 
-After this statement the priests took farewell. They were full of hope
+— Na cóż im wojna?... — wtrącił książę z udaną obojętnością.
 
-that the prince, though angry because of the treaty, would not break
+— Na co!... — zawołała Sara. — Będą wam i Asyryjczykom dostarczać broni, towarów i wiadomości, a za wszystko każą sobie dziesięć razy drożej płacić... Będą obdzierali poległych i ranionych obu stron... Będą od waszych i asyryjskich żołnierzy wykupywać zrabowane przedmioty i niewolników... Czyliż tego mało?... Egipt i Asyria zrujnują się, ale Fenicja pobuduje nowe składy na bogactwa.
 
-it, and would assure to Egypt the time of rest which she needed. After
+— Któż ci wyłożył taką mądrość?... — uśmiechnął się książę.
 
-their departure the prince called his adjutant. When alone with
+— Alboż nie słyszę, jak mój ojciec, nasi krewni i znajomi szepcą o tym, trwożnie oglądając się, aby ich kto nie podsłuchał? Czyliż wreszcie ja nie znam Fenicjan? Przed tobą, panie, oni leżą na brzuchach i ty nie widzisz ich obłudnych spojrzeń, ale ja nieraz przypatrywałam się ich oczom, zielonym z chciwości albo żółtym z gniewu.
 
-Tutmosis, his long restrained auger and sorrow burst forth. He threw
+O, strzeż się, panie, Fenicjan jak jadowitej żmii!...
 
-himself on a couch; he writhed like a serpent, he struck his head with
+Ramzes patrzył na Sarę i mimo woli porównywał jej szczerą miłość — z wyrachowaniem Fenicjanki, jej tkliwe wybuchy — z podstępnym chłodem Kamy.
 
-his fists, and shed tears even.
+„Zaprawdę! — myślał. — Fenicjanie są jadowitymi gadami. Ale jeżeli Ramzes Wielki posługiwał się na wojnie lwem, dlaczego ja przeciw wrogom Egiptu nie miałbym użyć żmii?”
 
-The frightened Tutmosis waited till the access of rage had subsided;
+I im plastyczniej wyobrażał sobie przewrotność Kamy, tym bardziej pożądał jej. Dusze bohaterskie niekiedy szukają niebezpieczeństw.
 
-then he gave Ramses wine and water, and fumed him with calming
+Pożegnał Sarę i nagle, nie wiadomo skąd, przypomniał sobie, że Sargon jego podejrzewał o udział w napadzie.
 
-perfumes; finally he sat near his lord and inquired the cause of this
+Książę uderzył się w czoło.
 
-unmanly outburst.
+— Czyby to ten mój sobowtór — rzekł — urządził bijatykę posłowi?... A w takim razie kto go namówił?... Chyba Fenicjanie?... A jeżeli oni chcieli do tak brudnej rzeczy wmieszać moją osobę, więc słusznie mówi Sara, że to są nikczemnicy, których powinienem się wystrzegać...
 
-"Sit here," said the prince, without rising. "Knowest thou, I am today
+Znowu odezwał się w nim gniew i książę postanowił kwestię rozstrzygnąć natychmiast. A ponieważ właśnie zapadał wieczór, więc Ramzes, nie wstępując do siebie, poszedł do Kamy.
 
-convinced that our priests have concluded an infamous treaty with
+Mało obchodziło go, że może być poznany; na wypadek zaś niebezpieczeństwa miał przecie miecz...
 
-Assyria; without war, without demands even from the other side! Canst
+W pałacyku kapłanki świeciło się, ale ze służby nikt nie kręcił się w przysionku.
 
-Thou imagine what we are losing?"
+„Dotychczas — pomyślał — Kama wyprawiała swoją służbę, kiedy ja miałem przyjść do niej. Dziś — czy przeczuwa mnie, czy może przyjmuje szczęśliwszego ode mnie kochanka?...”
 
-"Dagon told me that the Assyrians wished to take Phoenicia. But the
+Wszedł na piętro, stanął przed komnatą Fenicjanki i nagle odsunął kotarę. W pokoju była Kama i Hiram i o czymś szeptali.
 
-Phoenicians are now less alarmed, for King Assar has a war on the
+— O!... w zły czas przychodzę... — roześmiał się następca. — Cóż to, i wy, książę, zalecacie się do kobiety, której pod karą śmierci nie wolno być łaskawą dla mężczyzn?
 
-northeastern boundaries. A very valiant and numerous people inhabit
+Hiram i kapłanka oboje zerwali się z taburetów.
 
-that region; hence it is unknown what the end of this affair may be.
+— Widocznie — rzekł Fenicjanin, kłaniając się — jakiś dobry duch ostrzegł cię, panie, że o tobie mówimy...
 
-The Phoenicians will have peace for a couple of years in every case,
+— Przygotowujecie mi jaką niespodziankę? — spytał namiestnik.
 
-time in which to prepare defense and find allies."
+— Może!... Kto to wie?... — odparła Kama, patrząc na niego w sposób wyzywający.
 
-The prince waved his hand impatiently.
+Ale książę odparł chłodno:
 
-"See," said he, interrupting Tutmosis, "even Phoenicia is arming her
+— Oby ci, którzy zechcą nadal robić mi niespodzianki, nie zawadzili własną szyją o topór albo powróz... To by więcej ich zdziwiło aniżeli mnie ich postępki.
 
-own people, and perhaps all the neighbors who surround her; in every
+Kamie uśmiech zastygł na półotwartych ustach; Hiram pobladł i pokornie odezwał się:
 
-case, we lose the unpaid tribute of Asia, which reaches hast Thou heard
+— Czym zasłużyliśmy na gniew pana i opiekuna naszego?
 
-the like? more than a hundred thousand talents."
+— Chcę wiedzieć prawdę — rzekł książę, siadając i groźnie patrząc na Hirama. — Chcę wiedzieć: kto urządził napad na asyryjskiego posła i wmieszał w tę nikczemność człowieka tak podobnego do mnie, jak moja ręka prawa jest podobna do lewej.
 
-"A hundred thousand talents," repeated the prince. "O gods! but such a
+— Widzisz, Kamo — odezwał się struchlały Hiram — mówiłem, że poufałość tego łotra do ciebie może sprowadzić wielkie nieszczęście... A oto masz!... Nawet nie czekaliśmy długo.
 
-sum would fill the treasury of the pharaoh. And were we to attack
+Fenicjanka rzuciła się do nóg księciu.
 
-Assyria at the right season, in Nineveh alone, in the single palace of
+— Wszystko powiem — zawołała, jęcząc — tylko wyrzuć, panie, ze swego serca urazę do Fenicji... Mnie zabij, mnie uwięź, ale nie gniewaj się na nich.
 
-Assar, we should find inexhaustible treasures. Think how many slaves we
+— Kto napadł Sargona?
 
-could take, half a million a million, people of gigantic strength, and
+— Lykon, Grek, który śpiewa w naszej świątyni — odparła wciąż klęcząc Fenicjanka.
 
-so wild that captivity in Egypt with the hardest labor on canals or in
+— Aha!... więc to on wtedy śpiewał pod twoim domem i on jest tak podobny do mnie?...
 
-quarries would seem play to them. The fertility of the land would be
+Hiram schylił głowę i położył rękę na sercu.
 
-increased; in the course of a few years our people, now wretched, would
+— Hojnie płaciliśmy temu człowiekowi — rzekł — za to, że jest podobnym do ciebie, panie... Sądziliśmy, że nędzna jego figura może przydać ci się na wypadek nieszczęścia...
 
-rest, and before the last Assyrian slave had died, the state would
+— I przydał się!... — przerwał następca. — Gdzie on jest? Chcę widzieć tego doskonałego śpiewaka... ten mój żywy obraz...
 
-regain its ancient might and well-being. And the priests are destroying
+Hiram rozłożył ręce.
 
-all this by the aid of a few silver tablets, and a few bricks marked
+— Uciekł, łotr, ale my go znajdziemy — odparł. — Chyba, że zamieni się w muchę albo glistę ziemną...
 
-with arrow-headed signs understood by no Egyptian."
+— A mnie przebaczysz, panie?... — szepnęła Fenicjanka, opierając się na kolanach księcia.
 
-When he had heard the complaints of the prince, Tutmosis rose from the
+— Wiele przebacza się kobietom — rzekł następca.
 
-armchair and looked carefully through the adjoining chambers to see if
+— I wy nie będziecie mścili się na mnie?... — trwożnie zapytała Hirama.
 
-some one in them were listening; then he sat down again near Ramses,
+— Fenicja — odparł starzec powoli i dobitnie — największy występek zapomni temu, kto posiądzie łaskę pana naszego, Ramzesa — oby żył wiecznie!...
 
-and whispered,
+Co się zaś tyczy Lykona — dodał, zwracając się do następcy — będziesz go miał, panie, żywym lub zmarłym...
 
-"Be of good heart, lord. As far as I know, the entire aristocracy, all
+To powiedziawszy, Hiram nisko ukłonił się i opuścił pokój, zostawiając kapłankę z księciem.
 
-the nomarchs, all the higher officers have heard something of this
+Ramzesowi krew uderzyła do głowy. Objął klęczącą Kamę i szepnął:
 
-treaty and are indignant. Only give the sign and we will break these
+— Słyszałaś, co powiedział dostojny Hiram?... Fenicja zapomni ci największy występek!... Zaprawdę, ten człowiek jest mi wierny... A jeżeli on tak powiedział, jaką znajdziesz wymówkę?...
 
-brick treaties on the head of Sargon, even on the head of King Assar."
+Kama całowała jego ręce, szepcząc:
 
-"But that would be rebellion against his holiness," replied the prince,
+— Zdobyłeś mnie... jestem twoją niewolnicą... Ale dziś zostaw mnie w spokoju... uszanuj dom, który należy do boskiej Astoreth...
 
-also in a whisper. Tutmosis put on a sad face.
+— Więc przeprowadzisz się do mego pałacu? — spytał książę.
 
-"I should not like," said he, "to make thy heart bleed, but thy father,
+— O bogowie, co wyrzekłeś?... Od czasu jak słońce wschodzi i zachodzi, nie było jeszcze wypadku, ażeby kapłanka Astoreth... Ale trudno!... Fenicja, panie, daje ci taki dowód czci i przywiązania, jakiego nigdy nie otrzymał żaden z jej synów...
 
-who is equal to the highest god, has a grievous illness."
+— Więc... — przerwał książę, tuląc ją.
 
-"That is not true!" said the prince, springing up. "It is true; but let
-
-not people see that Thou knowest this. His holiness is greatly wearied
-
-by his stay on earth, and desires to leave it. But the priests hold him
-
-back, and do not summon thee to Memphis, so that the treaty with
-
-Assyria may be signed without opposition."
-
-"But they are traitors, traitors!" whispered the enraged prince.
-
-"Therefore Thou wilt have no difficulty in breaking the treaty when
-
-Thou shalt inherit power after thy father, may lie live through
-
-eternity!"
-
-Ramses thought awhile.
-
-"It is easier," said he, "to sign a treaty than to break it." "It is
-
-easy also to break a treaty," laughed Tutmosis. "Are there not in Asia
-
-unorganized races which attack our boundaries? Does not the godlike
-
-Nitager stand on guard with his army to repulse them and carry war into
-
-their countries? Dost Thou suppose that Egypt will not find armed men
-
-and treasures for the war? We will go, all of us, for each man can gain
-
-something, and in some way make his life independent. Treasures are
-
-lying in the temples but the labyrinth."
-
-"Who will take them from the labyrinth?" asked the prince, doubtingly.
-
-"Who? Any nomarch, any officer, any noble will take them if he has a
-
-command from the pharaoh, and the minor priests will show the way to
-
-secret places."
-
-"They would not dare to do so. The punishment of the gods."
-
-Tutmosis waved his hand contemptuously.
-
-"But are we slaves or shepherds, to fear gods whom Greeks and
-
-Phoenicians revile, and whom any mercenary warrior will insult and go
-
-unpunished?"
-
-"The priests have invented silly tales about gods, tales to which they
-
-themselves attach no credit. Thou knowest that they recognize only the
-
-One in temples. They perform miracles, too, at which they laugh.
-
-"Only the lowest people strike the earth with their foreheads before
-
-statues in the old way. Even working women have doubts now about the
-
-all-might of Osiris, Set, and Horus; the scribes cheat the gods in
-
-accounts, and the priests use them as a lock and chain to secure their
-
-treasures."
-
-"Oho!" continued Tutmosis; "the clays have passed when all Egypt
-
-believed in everything announced from temples. At present we insult the
-
-Phoenician gods, the Phoenicians insult our gods, and no thunderbolt
-
-strikes any man of us."
-
-The viceroy looked carefully at Tutmosis.
-
-"How did such thoughts come to thy head?" inquired he. "But it is not
-
-so long ago that Thou wouldst pale at the very mention of the
-
-priesthood."
-
-"Yes, because I felt alone. But today, after I have seen that all the
-
-nobles understand as I, I feel encouraged."
-
-"But who told thee and the nobles of that treaty with Assyria?"
-
-"Dagon and other Phoenicians," answered Tutmosis. "They even said that
-
-when the time came they would rouse Asiatic races to rebellion, so that
-
-our troops might have a pretext to cross the boundaries, and when once
-
-on the road to Nineveh, the Phoenicians and their allies would join us.
-
-And thy army would be larger than that which Ramses the Great had
-
-behind him,"
-
-This zeal of the Phoenicians did not please the heir, but he was silent
-
-on that subject.
-
-"But what will happen if the priests learn of your conversations?"
-
-inquired he. "None of you will escape death, be sure of that."
-
-"They will learn nothing," replied Tutmosis, joyfully. "They trust too
-
-much in their power, they pay their spies badly, and have disgusted all
-
-Egypt with their pride and rapacity. Moreover, the aristocracy, the
-
-army, the scribes, the laborers, even the minor priests are only
-
-waiting for the signal to attack the temples, take out the treasures,
-
-and lay them at the feet of the pharaoh. When their treasures fail, all
-
-their power will be lost to the holy fathers. They will cease even to
-
-work miracles, for to work them gold rings are needed."
-
-The prince turned conversation to other subjects and gave Tutmosis the
-
-sign of withdrawal. When alone, he began to meditate.
-
-He would have been enchanted at the hostile disposition of the nobles
-
-toward the priests, and the warlike instincts of the higher classes, if
-
-the enthusiasm had not broken out so suddenly, and if Phoenicians were
-
-not concealed behind it. This enjoined caution, for he understood that
-
-in the affairs of Egypt it was better to trust the patriotism of
-
-priests than the friendship of Phoenicians. He recalled, however, his
-
-father's words, that Phoenicians were truth-speaking and faithful
-
-whenever truth was in their interest. Beyond doubt the Phoenicians had
-
-a great interest in not falling under control of Assyria. And it was
-
-possible to depend on them as allies in case of war, for the defeat of
-
-Egypt would injure, first of all, Phoenicia.
-
-On the other hand, Ramses did not admit that Egyptian priests, even
-
-when concluding such a harmful treaty with Assyria, thought of treason.
-
-No, they were not traitors, they were slothful dignitaries. Peace
-
-agreed with them, for during peace their treasures grew, and they
-
-increased their influence. They did not wish for war, since war would
-
-raise the pharaoh's power, and impose on them a grievous outlay.
-
-So the young prince, despite his inexperience, understood that be must
-
-be cautious, that he must not hasten, that he must not condemn, but
-
-also that he must not trust too much. He had decided on war with
-
-Assyria, not because the nobles and the pharaoh desired it, but because
-
-Egypt needed slaves and also treasures.
-
-But in making war he wished to make it with judgment. He wished to
-
-bring the priestly order to it gradually, and only in case of
-
-opposition to crush that order through the nobles and the army.
-
-And just when the holy Mefres and Mentezufis were jeering at the
-
-predictions of Sargon, who said that the heir would not yield to the
-
-priests but force them to obedience, the prince had a plan to subject
-
-them. And he saw what power he possessed for that purpose. The moment
-
-to begin the war and the means of waging it he left to the future.
-
-"Time will bring the best counsels," said he to himself.
-
-He was calm and satisfied, like a man who after long hesitation knows
-
-what he must do, and has faith in his own abilities. So then, to free
-
-himself of even the traces of his recent indignation, he went to Sarah.
-
-Amusement with his little son always calmed him, and filled his heart
-
-with serenity.
-
-He passed the garden, entered Sarah's villa, and found her in tears
-
-again.
-
-"Oh, Sarah!" cried he, "if the Nile were in thy bosom Thou wouldst weep
-
-it all away."
-
-"I will not weep any longer," said she; but a more abundant stream
-
-flowed from her eyes.
-
-"What is this?" asked the prince; "or hast Thou brought in some witch
-
-again who frightens thee with Phoenician women?"
-
-"I am not afraid of Phoenician women, but of Phoenicia," said Sarah;
-
-"Thou knowest not, lord, what bad people the Phoenicians are."
-
-"Do they burn children?" laughed Ramses.
-
-"Thou thinkest that they do not?" asked she, looking at him with great
-
-eyes.
-
-"A fable! I know, besides, from Prince Hiram, that that is a fable."
-
-"Hiram!" cried Sarah, "Hiram! but he is the most wicked of all! Ask my
-
-father, and he will tell thee bow Hiram entices young girls of distant
-
-countries to his ships, and raising the sails takes away the
-
-unfortunates to sell them. Even we had a bright-haired slave girl
-
-stolen by Hiram. She became insane from sorrow for her country. But she
-
-could not even say where her country was; and she died. Such is Hiram,
-
-such is that vile Dagon, and all those wretches."
-
-"Perhaps; but how does this concern us?" inquired Ramses.
-
-"Very much. Thou, O lord, art listening to Phoenician counsels; but our
-
-Jews have learned that Phoenicia wants to raise a war between Egypt and
-
-Assyria. Even their first bankers and merchants have bound themselves
-
-by dreadful oaths to raise it."
-
-"Why should they want war?" inquired the prince, with apparent
-
-indifference.
-
-"Because they will furnish arms to you and to Assyrians; they will
-
-furnish, also, supplies and information, and for everything they
-
-furnish they will make you pay ten prices. They will plunder the dead
-
-and wounded of both armies. They will buy slaves from your warriors and
-
-from the Assyrians. Is that little? Egypt and Assyria will ruin
-
-themselves, but the Phoenicians will build up new storehouses with
-
-wealth from both sides!"
-
-"Who explained such wisdom to thee?" asked the prince, smiling.
-
-"Do I not hear my father and our relatives and friends whispering of
-
-this, while they look around in dread lest some one may hear what they
-
-are saying? Besides, do I not know the Phoenicians? They lie prostrate
-
-before thee, but Thou dost not note their deceitful looks; often have I
-
-seen their eyes green with greed and yellow from anger. O lord, guard
-
-thyself from Phoenicians as from venomous serpents."
-
-Ramses looked at Sarah, and involuntarily he compared her sincere love
-
-with the calculations of the Phoenician priestess, her outbursts of
-
-tenderness with the treacherous coldness of Kama.
-
-"Indeed," thought he, "the Phoenicians are poisonous reptiles. But if
-
-Ramses the Great used a lion in war, why should I not use a serpent
-
-against the enemies of Egypt?"
-
-And the more plastically he pictured to himself the perversity of Kama,
-
-the more did he desire her. At times heroic souls seek out danger.
-
-He took farewell of Sarah, and suddenly, it is unknown for what reason,
-
-he remembered that Sargon had suspected him of taking part in the
-
-attack on his person.
-
-The prince struck his forehead.
-
-"Did that second self of mine," thought he, "arrange the attack on the
-
-ambassador? But if he did, who persuaded him? Was it Phoenicians? But
-
-if they wished to connect my person with such a vile business? Sarah
-
-says, justly, that they are scoundrels against whom I should guard
-
-myself always."
-
-Straightway anger rose in him, and he determined to settle the
-
-question. Since evening was just coming, Ramses, without going home,
-
-went to Kama.
-
-It concerned him little that he might be recognized; besides, in case
-
-of need, he had a sword on his person.
-
-There was light in the villa of the priestess, but there was no servant
-
-at the entrance.
-
-"Thus far," thought he, "Kama has sent away her servants when I was to
-
-come. Had she a feeling that I would come today, or will she receive a
-
-more fortunate lover?"
-
-He ascended one story, stood before the chamber of the priestess, and
-
-pushed aside the curtain quickly. In the chamber were Kama and Hiram;
-
-they were whispering.
-
-"Oh, I come at the wrong time!" said Ramses, laughing. "Well, prince,
-
-art thou, too, paying court to a woman who cannot be gracious to men
-
-unless death be the penalty?"
-
-Hiram and the priestess sprang from their seats.
-
-"Thou wert forewarned by some good spirit that we were speaking of
-
-thee, that is clear," said the Phoenician, bowing.
-
-"Are ye preparing some surprise for me?" inquired the heir.
-
-"Perhaps. Who can tell?" answered Kama, with a challenging expression.
-
-"May those who in future wish to surprise me not expose their own necks
-
-to the axe or the halter; if they do, they will surprise themselves
-
-more than me."
-
-The smile grew cold on Kama's half-open lips; Hiram, now pale, answered
-
-humbly,
-
-"How have we earned the anger of our lord and guardian?"
-
-"I would know the truth," said Ramses, sitting down and looking
-
-threateningly at Hiram. "I would know who arranged an attack on the
-
-Assyrian ambassador, and associated in that villainy a man resembling
-
-me as much as my two hands resemble each other?"
-
-"Seest, Kama," said the frightened Hiram, "I told thee that intimacy
-
-with that ruffian would bring great misfortune And here it is! We have
-
-not waited long to see it."
-
-The priestess fell at the prince's feet.
-
-"I will tell all," cried she, groaning; "only cast from thy heart,
-
-lord, anger against Phoenicians. Slay me, imprison me, but be not angry
-
-at Phoenicians."
-
-"Who attacked Sargon?"
-
-"Lykon, the Greek, who sings in our temples," said the priestess, still
-
-kneeling.
-
-"Aha! it was he, then, who was singing outside thy house, and he
-
-resembles me greatly?"
-
-Hiram bent his head and placed his hand on his heart.
-
-"We, lord, have paid that man bountifully because he is so like thee.
-
-We thought that his figure might serve thee should the need come."
-
-"And it has," interrupted the prince. "Where is he? I wish to see this
-
-perfect singer, this living picture of myself."
-
-Hiram held his hands apart.
-
-"The scoundrel has fled, but we will find him," replied he, "unless he
-
-turns into a fly or an earthworm."
-
-"But Thou wilt forgive me, lord?" whispered the priestess, leaning on
-
-the knees of the prince.
-
-"Much is forgiven women," said Ramses.
-
-"And ye will not take vengeance on me?" asked she of Hiram, with fear.
-
-"Phoenicia," replied the old man, deliberately and with emphasis,
-
-"forgives the greatest offence to that person who possesses the favor
-
-of our lord Ramses, may he live through eternity! As to Lykon," added
-
-he, turning to the heir, "Thou wilt have him, dead or living."
-
-Hiram made a profound obeisance and went from the chamber, leaving the
-
-prince with the priestess.
-
-The blood rushed to Ramses' head; he embraced the kneeling Kama, and
-
-asked,
-
-"Hast Thou heard the words of the worthy Hiram? Phoenicia forgives thee
-
-the greatest offence! That man is faithful to me indeed. And if he has
-
-said that, what answer wilt Thou find?"
-
-Kama kissed his hands, whispering,
-
-"Thou hast won me I am thy slave. But leave me in peace today, respect
-
-the house which belongs to Astaroth."
-
-"Then Thou wilt remove to my palace?" asked the prince.
-
-"O gods, what hast Thou said? Since the sun first rose and set, no
-
-priestess of As But this is difficult! Phoenicia, lord, gives thee a
-
-proof of attachment and honor such as no son of hers has received at
-
-any time."
-
-"Then?" interrupted the prince.
-
-"But not today, and not here," implored Kama.
+— Tylko nie dziś i nie tutaj... — błagała.

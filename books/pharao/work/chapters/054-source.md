@@ -1,555 +1,186 @@
-# Kapitel 54: CHAPTER LIV
+# Kapitel 054: Tom III - Rozdział V
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part62.xhtml*
 
 <!-- status: pending -->
 
-During seventy days, in the course of which the revered remains were
+Przez siedemdziesiąt dni, w ciągu których czcigodne zwłoki mokły w wodzie nasyconej sodą, Egipt obchodził żałobę.
 
-steeping in the solution of soda, Egypt was in mourning.
+Świątynie były zamknięte, nie odprawiano procesji. Wszelka muzyka umilkła, nie urządzano uczt, tancerki zamieniły się na płaczki i zamiast tańcować, rwały sobie włosy, co również przynosiło im dochód.
 
-The temples were closed; there were no processions. All music ceased;
+Nie pijano wina, nie jadano mięsa. Najwięksi dostojnicy chodzili w grubych szatach, boso. Nikt nie golił się (z wyjątkiem kapłanów), najgorliwsi zaś nawet nie myli się, lecz namazywali błotem twarze, a włosy obsypywali popiołem.
 
-no feasts were given. Dancing women became wailers; instead of dancing
+Od Morza Śródziemnego do pierwszej katarakty na Nilu, od Libijskiej Pustyni do półwyspu Synaj, panowała cisza i smutek. Zgasło słońce Egiptu, odszedł na Zachód i opuścił sługi swoje pan, który dawał radość i życie.
 
-they tore their hair; this also brought them income.
+W wyższych towarzystwach najmodniejszymi były rozmowy o powszechnym żalu, który udzielał się nawet naturze.
 
-No one drank wine, no one ate meat. The highest dignitaries went in
+— Czy nie zauważyłeś — mówił dostojnik do dostojnika — że dni są krótsze i ciemniejsze?
 
-coarse garments and barefoot. No one shaved (with the exception of
+— Nie śmiałem zwierzyć się z tego przed tobą — odparł drugi — ale tak jest w rzeczy samej. Spostrzegłem nawet, że mniej gwiazd świeci podczas nocy i że pełnia trwała krócej, a nów dłużej niż zwykle.
 
-priests); the most devoted did not wash, they smeared their faces with
+— Pasterze mówią, że bydło na pastwisku nie chce jeść, tylko ryczy...
 
-mud, and scattered ashes on their hair.
+— A ja słyszałem od myśliwych, że zapłakane lwy nie rzucają się już na sarny, bo nie jedzą mięsa.
 
-From the Mediterranean to the first cataract of the Nile, from the
+— Okropny czas!... Przyjdź do mnie dziś wieczorem, a wypijemy po szklance żałobnego płynu, który wymyślił mój piwniczy.
 
-Libyan desert to the peninsula of Sinai reigned sadness and silence.
+— Wiem, pewnie masz czarne piwo sydońskie?...
 
-The sun of Egypt had quenched, had gone to the West, the giver of life
+— Niech bogowie bronią, ażebyśmy w tym czasie używali trunków rozweselających! Płyn, który wynalazł mój piwniczy, nie jest piwem... Porównałbym go raczej do wina nasyconego piżmem i wonnymi ziołami.
 
-and gladness had deserted his servants.
+— Bardzo stosowny napój, gdy pan nasz przebywa w dzielnicy zmarłych, nad którą ciągle unosi się woń piżma i ziół balsamicznych.
 
-In the highest circles the most fashionable conversation touched the
+Tak przez siedemdziesiąt dni martwili się dygnitarze.
 
-universal sorrow, which was communicated even to nature.
+Pierwsze drgnienie radości przebiegło Egipt wówczas, gdy z dzielnicy zmarłych dano znać, że ciało władcy wydobyto z kąpieli sodowej i że balsamiści i kapłani już spełniają nad nim obrządki.
 
-"Hast Thou not observed," said one dignitary to another, "that the days
+W tym dniu po raz pierwszy ostrzyżono włosy, usunięto błoto z twarzy, a kto miał ochotę, umył się. I w rzeczy samej, już nie było powodu do martwienia się: Horus bowiem znalazł zwłoki Ozyrysa, władca Egiptu, dzięki sztuce balsamistów, odzyskiwał życie, a dzięki modłom kapłanów i Księdze Zmarłych stawał się równy bogom.
 
-are shorter and darker?"
+Od tej chwili nieboszczyk faraon Mer-amen-Ramzes urzędownie nazywał się Ozyrysem; nieurzędownie bowiem nazywano go tak natychmiast po śmierci.
 
-"I did not wish to unburden myself of this before thee," replied the
+Wrodzona wesołość ludu egipskiego zaczęła brać górę nad żałobą, szczególniej wśród wojska, rzemieślników i chłopów. Radość ta przybierała niekiedy nieprzystojne formy pomiędzy ludem prostym.
 
-other, "but it is so in reality. I have even noticed that fewer stars
+Nie wiadomo bowiem, skąd zaczęły krążyć pogłoski, że nowy faraon, którego cały lud już kochał instynktownie, że młody pan chce zająć się poprawieniem doli chłopów, robotników, a nawet niewolników.
 
-shine at night, and that the full moon lasts a shorter time, and the
+Z tego powodu zdarzało się (rzecz niesłychana!), że mularze, stolarze i garncarze, zamiast pić spokojnie i rozmawiać o swoim fachu lub interesach rodzinnych, ośmielali się w szynkowniach nie tylko narzekać na podatki, ale nawet sarkać na władzę kapłanów. Chłopi zaś, zamiast czas wolny od roboty poświęcać modlitwom i pamięci przodków, mówili między sobą: jak by to było dobrze, gdyby każdy z nich posiadał kilka zagonów gruntu na własność i mógł odpoczywać co siódmy dzień!
 
-new moon longer than usual."
+O wojsku, a szczególniej o cudzoziemskich pułkach, nie ma co wspominać. Ludzie ci wyobrażali sobie, że są najznakomitszą klasą w Egipcie, a jeżeli nie są, to wnet będą, po jakiejś tam szczęśliwej wojnie, która ma wybuchnąć.
 
-"The shepherds say that cattle at pasture will not eat, they only
+Za to nomarchowie, szlachta siedząca w wiejskich majątkach, a nade wszystko arcykapłani różnych świątyń, uroczyście obchodzili żałobę po zmarłym panu, bez względu, że można było już cieszyć się, gdy faraon został Ozyrysem.
 
-bellow."
+Ściśle rzeczy biorąc, nowy władca dotychczas nikomu nie zrobił krzywdy, więc przyczyną smutku dostojników były tylko pogłoski, te same, które radowały lud prosty. Nomarchowie i szlachta cierpli na myśl, że ich chłop może próżnować przez pięćdziesiąt dni w roku, a co gorsza — posiadać na własność ziemię, choćby tylko w rozmiarach wystarczających na zbudowanie grobu. Kapłani bledli i zaciskali zęby, patrząc na gospodarstwo Ramzesa XIII i sposób, w jaki ich traktował.
 
-"And I have heard from hunters that lions are reduced by weeping; they
+Rzeczywiście w pałacu królewskim zaszły ogromne zmiany.
 
-do not attack deer, for lions eat no meat at present."
+Faraon mieszkanie swoje przeniósł do jednego z gmachów skrzydłowych, w którym prawie wszystkie pokoje zajęli jenerałowie. W suterynach pomieścił żołnierzy greckich, na piętrze gwardię, w pokojach znajdujących się wzdłuż muru — Etiopów. Wartę dokoła pałacyku trzymali Azjaci, a przy komnatach jego świątobliwości kwaterował ten szwadron, którego żołnierze towarzyszyli panu w czasie pościgu za Tehenną przez pustynię.
 
-"A terrible time! Come to me this evening and we will drink a glass of
+Co gorsze — jego świątobliwość, pomimo tak niedawnego buntu Libijczyków, przywrócił im swoją łaskę, żadnego nie skazał na karę, owszem — obdarzał ich zaufaniem.
 
-mourning liquor which my cellarer has invented."
+Prawda, że korpus kapłański, który był w głównym pałacu, został w nim i odprawiał obrządki religijne pod przewodnictwem dostojnego Sema. Ale ponieważ kapłani nie towarzyszyli faraonowi przy śniadaniu, obiedzie i kolacji, więc ich żywność stała się bardzo niewykwintną.
 
-"Thou hast, I suppose, dark beer of Sidon?"
+Na próżno święci mężowie przypominali, że muszą karmić przedstawicieli dziewiętnastu dynastii i mnóstwo bogów. Skarbnik zmiarkowawszy intencje faraona odpowiadał kapłanom, że dla bogów i przodków wystarczą kwiaty i wonności, a że sami prorocy, jak nakazuje moralność, powinni jadać jęczmienne placki i popijać wodą lub piwem. Dla poparcia swoich grubiańskich teorii skarbnik powoływał się na przykład arcykapłana Sema, który żył jak pokutnik, a co gorsze, mówił im, że jego świątobliwość, wraz z jenerałami, prowadzi żołnierską kuchnię.
 
-"May the gods forbid that at this time we should use drinks which
+Wobec tego kapłani pałacowi w milczeniu poczęli zastanawiać się: czy nie lepiej zrobią, gdy opuszczą skąpy dom królewski, a przeniosą się do własnych schronień obok świątyń, gdzie będą mieli lżejsze obowiązki i głód nie będzie im skręcał wnętrzności?
 
-rejoice people. The liquor which my cellarer has invented is not beer;
+I może uczyniliby tak natychmiast, gdyby najdostojniejsi Herhor i Mefres nie rozkazali im wytrwać na miejscu.
 
-it is more like wine mixed with musk and fragrant plants."
+Ale i położenie Herhora przy nowym panu nie mogło nazywać się pomyślnym. Do niedawna wszechwładny minister, który prawie nie opuszczał pokojów królewskich, siedział dziś samotny w swoim pałacyku i nieraz nie widywał nowego faraona przez całe dekady. Był on jeszcze ministrem wojny, ale już prawie nie wydawał rozkazów. Wszystkie bowiem interesa wojskowe faraon załatwiał sam. Sam czytał raporty jenerałów, sam rozstrzygał wątpliwe kwestie, a jego adiutanci brali z ministerium wojny potrzebne dokumenta
 
-"A very proper drink when our lord is sojourning in the quarter of the
+Jego dostojność Herhor, jeżeli kiedy był wezwany przez władcę, to chyba po to, ażeby usłyszeć wymówkę.
 
-dead, where the odor of musk and embalming herbs is always prevalent."
+Niemniej wszyscy dostojnicy przyznawali, że nowy faraon bardzo pracuje.
 
-Thus during seventy days did dignitaries mortify themselves.
+Ramzes XIII wstawał przed wschodem słońca, kąpał się i spalał kadzidło przed posągiem Ozyrysa. Natychmiast potem słuchał raportów: najwyższego sędziego, najwyższego pisarza stodół i obór w całym kraju, najwyższego skarbnika, wreszcie — naczelnika swoich pałaców. Ten ostatni cierpiał najwięcej: nie było bowiem dnia, ażeby pan nie mówił mu, że utrzymanie dworu za dużo kosztuje i że jest w nim za wiele osób.
 
-The first quiver of delight ran through Egypt when it was announced
+Istotnie, mieszkało w pałacu królewskim kilkaset kobiet zmarłego faraona z odpowiednią ilością dzieci i służby. Ciągle upominany naczelnik dworu z dnia na dzień wypędzał po kilkanaście osób, a innym ograniczał wydatki. Skutkiem czego po upływie miesiąca wszystkie damy dworu z krzykiem i płaczem pobiegły do mieszkania królowej Nikotris, błagając o ratunek.
 
-from the quarter of the dead that the body of the sovereign had been
+Jakoż czcigodna pani natychmiast udała się do władcy i upadłszy na twarz prosiła go, aby ulitował się nad kobietami swego ojca i nie pozwolił umierać z niedostatku.
 
-taken from the soda bath, and that embalmers and priests were
+Faraon wysłuchał jej ze zmarszczonym czołem i rozkazał naczelnikowi dworu już nie posuwać dalej oszczędności. Zarazem jednak powiedział najczcigodniejszej pani, że po pogrzebie ojca kobiety będą usunięte z pałacu i rozesłane po folwarkach.
 
-performing ceremonies over it.
+— Nasz dwór — mówił — kosztuje około trzydziestu tysięcy talentów rocznie, czyli o połowę więcej aniżeli całe wojsko. Takiej sumy nie mogę wydawać bez zrujnowania siebie i państwa.
 
-That day for the first time people cut their hair and whoso had the
+— Czyń, jak chcesz — odparła królowa. — Egipt jest twój. Lękam się jednak, że rozpędzeni ludzie dworscy staną się twymi wrogami.
 
-wish washed himself. But in fact there was no need of mortification,
+Na to pan milcząc wziął matkę za rękę, poprowadził ją do okna i wskazał las włóczni musztrującej się na dziedzińcu piechoty.
 
-since Horus had found the remains of Osiris. The ruler of Egypt, thanks
+Ten czyn faraona wywołał nieoczekiwany skutek. Oczy królowej, przed chwilą zalane łzami, błysnęły dumą. Nagle pochyliła się i pocałowała syna w rękę, mówiąc wzruszonym głosem:
 
-to the art of embalmers, had received life, and, thanks to the prayers
+— Zaprawdę, jesteś synem Izydy i Ozyrysa i dobrze uczyniłam, odstępując cię bogini... Nareszcie Egipt ma władcę!...
 
-of the priests and the Book of the Dead, he had become equal to the
+Od tej pory czcigodna pani nigdy w żadnej sprawie nie wstawiała się do syna. A gdy ją proszono o protekcję, odpowiadała:
 
-gods.
+— Jestem sługą jego świątobliwości i radzę wam spełniać rozkazy pana bez oporu. Wszystko bowiem, co on robi, pochodzi z natchnienia bogów; a któż oprze się bogom?...
 
-From that moment on, the late pharaoh, Mer-Amen-Ramses, was called
+Po śniadaniu faraon zajmował się sprawami ministerium wojny i skarbowością, a około trzeciej po południu, otoczony wielką świtą, wyjeżdżał do wojsk obozujących pod Memfisem i przypatrywał się musztrze.
 
-"Osiris" officially; unofficially, he had been called that since his
+Rzeczywiście największe zmiany zaszły w sprawach wojskowych państwa.
 
-death.
+W ciągu niespełna dwu miesięcy jego świątobliwość uformował pięć nowych pułków, a raczej — wskrzesił te, które zwinięto za poprzedniego panowania. Usunął oficerów oddających się pijaństwu i kosterstwu tudzież takich, którzy udręczali żołnierzy.
 
-The innate joyfulness of the Egyptian people began to gain the victory
+Do biur ministerium wojny, gdzie pracowali sami kapłani, wprowadził swoich najzdolniejszych adiutantów, którzy bardzo prędko opanowali ważne dokumenta dotyczące armii. Kazał zrobić spis wszystkich mężczyzn w państwie, którzy należeli do stanu wojskowego, lecz od kilkunastu lat nie spełniali żadnych obowiązków, tylko gospodarowali. Otworzył dwie nowe szkoły oficerskie dla dzieci od dwunastu lat i odnowił już zaniedbany zwyczaj, by młodzież wojskowa dopiero po odbyciu trzygodzinnego marszu w liniach i kolumnach, otrzymywała śniadanie.
 
-over mourning, especially among warriors, artisans, and laborers.
+Wreszcie żadnemu oddziałowi wojska nie wolno było mieszkać po wsiach, ale w koszarach lub w obozie. Każdy pułk miał wyznaczony plac na ćwiczenia, na którym po całych dniach rzucano kamienie z procy lub strzelano z łuku do tarcz, odległych o sto do dwustu kroków.
 
-Delight took on, among common people, forms which at times were
+Wyszło też polecenie do rodzin stanu wojskowego, aby mężczyźni ich wprawiali się w rzucaniu pocisków, pod kierunkiem oficerów i dziesiętników armii regularnej. Rozkaz wykonano natychmiast, skutkiem czego Egipt, już we dwa miesiące po śmierci Ramzesa XII, wyglądał jak obóz.
 
-inappropriate. Reports began to circulate, it was unknown where they
+Albowiem nawet wiejskie i miejskie dzieci, które dotychczas bawiły się w pisarzy i kapłanów, teraz, naśladując starszych, zaczęły bawić się w wojsko. Więc na każdym placu i w każdym ogrodzie od rana do wieczora świstały kamienie i pociski z łuków, a sądy zawalone były skargami o uszkodzenia cielesne.
 
-had originated, that the new pharaoh, whom the whole people loved
+I stało się, że Egipt był jakby odmieniony i że, pomimo żałoby, panował w nim wielki ruch, a wszystko za sprawą nowego władcy.
 
-instinctively, intended to occupy himself with improving the condition
+Sam zaś faraon rósł w dumę widząc, jak całe państwo stosuje się do jego królewskiej woli.
 
-of earth-tillers, laborers, and even captives. For this cause it
+Przyszła jednak chwila, że i on się zasępił.
 
-happened, an unheard-of thing, that masons, cabinet makers, potters,
+W tym samym dniu, kiedy balsamiści wydobyli ciało Ramzesa XII z sodowej kąpieli, wielki skarbnik składając zwykły raport rzekł do faraona:
 
-instead of drinking quietly and speaking of their own occupation, or
+— Nie wiem, co począć... Mamy bowiem w skarbie dwa tysiące talentów, a na pogrzeb zmarłego pana trzeba co najmniej tysiąc...
 
-family interests, dared to complain in dramshops, not only of taxes,
+— Jak to dwa tysiące?... — zdziwił się władca. — Kiedym obejmował rządy, mówiłeś, że mamy dwadzieścia tysięcy...
 
-but even to complain of the power of the priesthood. And earth-tillers,
+— Wydaliśmy osiemnaście...
 
-instead of devoting time free of labor to prayers and the memory of
+— We dwa miesiące?...
 
-their ancestors, told one another how well it would be if each man had
+— Mieliśmy ogromne rozchody...
 
-some bit of land as his own, and could rest one day in seven.
+— Prawda — odparł faraon — ależ co dzień wpływają podatki...
 
-Of the army, and especially foreign regiments, nothing was to be said.
+— Podatki — rzekł skarbnik — nie wiem dlaczego, znowu zmniejszyły się i nie napływają w takiej ilości, jak rachowałem. Ale i one rozeszły się... Racz, wasza świątobliwość, pamiętać, że mamy pięć nowych pułków. Więc około ośmiu tysięcy ludzi porzuciło swoje zajęcia i żyją na koszt państwa...
 
-Those men imagined that they were the most noted class in Egypt, and if
+Faraon zamyślił się.
 
-they were not, they would soon be, after some fortunate war in the near
+— Musimy — odpowiedział — zaciągnąć nową pożyczkę. Porozumiej się z Herhorem i Mefresem, aby nam dały świątynie.
 
-future.
+— Mówiłem o tym... Świątynie nic nam nie dadzą.
 
-But the nomarchs, the nobility living on estates, and above all, the
+— Obrazili się prorocy!... — uśmiechnął się faraon. — W takim razie musimy wezwać pogan... Przyślij do mnie Dagona.
 
-high priests of various temples mourned their deceased lord with
+Nad wieczorem przyszedł bankier fenicki. Upadł na ziemię przed panem i ofiarował mu złoty puchar wysadzany klejnotami.
 
-solemnity, though they might have rejoiced, since the pharaoh had
+— Teraz już mogę umrzeć!... — zawołał Dagon — kiedy mój najłaskawszy władca zasiadł na tronie...
 
-become Osiris.
+— Zanim jednak umrzesz — rzekł do klęczącego faraon — Wystaraj mi się o kilka tysięcy talentów.
 
-Taking things as they were, the new ruler had interfered with no one
+Fenicjanin struchlał, czy może tylko udawał wielkie zakłopotanie.
 
-thus far, hence the cause of grief for dignitaries lay in those same
+— Niech wasza świątobliwość każe mi lepiej szukać pereł w Nilu — odparł — gdyż zginę od razu i pan mój nie posądzi mnie o złe chęci... Ale taką sumę znaleźć dzisiaj!...
 
-reports which delighted common people. The nomarchs and the nobility
+Ramzes XIII zdziwił się.
 
-grieved at the thought that their earth-tillers might be idle fifty
+— Jak to?... — spytał — więc Fenicjanie nie mają dla mnie pieniędzy?...
 
-days in a year, and, what was worse, possess land, though even of an
+— Krew i życie nasze i dzieci naszych oddamy waszej świątobliwości — rzekł Dagon. — Ale pieniądze... Skąd my weźmiemy pieniędzy?...
 
-extent on which a tomb might be erected. Priests grew pale and gritted
+Dawniej świątynie udzielały nam pożyczek na piętnaście lub dwadzieścia procentów rocznie. Lecz od czasu gdy wasza świątobliwość, jeszcze jako następca tronu, był w świątyni Hator
 
-their teeth when they saw the management of Ramses XIII and the way in
+Oni, gdyby mogli, dziś wygnaliby nas z Egiptu, a jeszcze chętniej wytępiliby... Ach, co my cierpimy z ich łaski!... Chłopi robią, jak chcą i kiedy chcą... na podatek oddają, co im z nosa spadnie... Gdy którego uderzyć, buntują się, a gdy nieszczęśliwy Fenicjanin pójdzie o pomoc do sądu, albo przegrywa sprawę, albo musi się strasznie opłacać...
 
-which he treated them.
+Godziny nasze na tej ziemi są policzone!... — mówił z płaczem Dagon.
 
-In fact, immense changes had taken place in the pharaoh's palace.
+Faraon sposępniał.
 
-The pharaoh had transferred his residence to one of the wing buildings,
+— Zajmę ja się tymi sprawami — odparł — i sądy będą wymierzały wam sprawiedliwość. Tymczasem jednak potrzebuję około pięciu tysięcy talentów...
 
-in which almost all the chambers were occupied by generals. In the
+— Skąd weźmiemy panie?... — jęczał Dagon. — Wskaż nam, wasza świątobliwość, kupców, a sprzedamy im wszystkie nasze ruchomości i nieruchomości, byle spełnić twoje rozkazy...
 
-cellars Greek warriors were quartered, on the first story the guard, in
+Lecz gdzie są ci kupcy?... Chyba kapłani, którzy otaksują nasze majątki za bezcen i — jeszcze nie zapłacą gotowizną.
 
-the chambers along the wall, Ethiopians. Guard around the building was
+— Poślijcie do Tyru, Sydonu... — wtrącił pan. — Przecież każde z tych miast mogłoby pożyczyć nie pięć, ale sto tysięcy talentów...
 
-kept by Asiatics, and near the chambers of his holiness was quartered
+— Tyr i Sydon!... — powtórzył Dagon. — Dziś cała Fenicja gromadzi złoto i klejnoty, ażeby opłacić się Asyryjczykom... Kręcą się już po naszym kraju wysłańcy króla Assara i mówią, że byleśmy składali co roku hojny okup, to król i satrapowie nie tylko nie będą nas ciemiężyli, ale jeszcze nastręczą nam większe zarobki niż te, jakie mamy dziś z łaski waszej świątobliwości i Egiptu...
 
-that squadron from which were selected the warriors who had accompanied
+Władca pobladł i zacisnął zęby. Fenicjanin spostrzegł się i dodał prędko:
 
-their lord when he hunted Tehenna through the desert.
+— Wreszcie, co ja mam zabierać waszej świątobliwości czas moim głupim gadaniem?... Jest tu, w Memfisie, książę Hiram... On może lepiej objaśni wszystko memu panu, bo to mędrzec i członek najwyższej rady naszych miast...
 
-What was worse, his holiness, in spite of the recent rebellion of the
+Ramzes ożywił się.
 
-Libyans restored to them his favor; he condemned none to punishment,
+— A dawajże mi tu prędzej Hirama — odparł. — Bo ty, Dagonie, rozmawiasz ze mną nie jak bankier, ale jak pogrzebowa płaczka.
 
-and gave them his confidence.
+Fenicjanin jeszcze raz uderzył czołem w posadzkę i spytał:
 
-That corps of priests who had been in the main palace remained with him
+— Czy dostojny Hiram nie mógłby zaraz tu przyjść?... Prawda, że już późno... Ale on tak boi się kapłanów, że wolałby o nocnej porze złożyć hołd waszej świątobliwości...
 
-it is true, and performed religious ceremonies under the direction of
-
-his worthiness Sera. But as the priests did not accompany the pharaoh
-
-to meals, to dinners and suppers, their food was far from exquisite.
-
-In vain did the holy men declare that they must feed the
-
-representatives of nineteen dynasties, and a multitude of gods. The
-
-treasurer, noting the intention of the pharaoh, answered that flowers
-
-and perfumes were sufficient for gods and ancestors, and that prophets
-
-like themselves, as morality commanded, should eat barley cakes and
-
-drink beer or water. To support these rude theories the treasurer
-
-referred to the example of Sem, the holy high priest, who lived like a
-
-penitent, and what was worse, he told them that his holiness, with the
-
-generals, had a military kitchen.
-
-In view of this, the priests of the palace began to consider whether
-
-they had not better leave the stinted house of the pharaoh and go to
-
-their own dwellings at temples where their duties would be easier, and
-
-where hunger would not twist their entrails.
-
-They would have done this before, had not the worthy Herhor and Mefres
-
-commanded them to remain in their places.
-
-But the position of Herhor near the new pharaoh was not favorable. The
-
-all-powerful minister, who had till of late almost never left the
-
-chambers of the pharaoh, sat now alone in his villa, and frequently he
-
-did not see the new ruler for ten days in succession. He was still
-
-minister of war, but he gave out almost no orders. The pharaoh himself
-
-settled all military questions. He alone read reports of generals; he
-
-alone decided doubtful questions, while his adjutants took from the
-
-minister of war the necessary documents.
-
-If his worthiness Herhor was ever called before the sovereign it was
-
-only to be reprimanded.
-
-Nevertheless, all dignitaries acknowledged that the new pharaoh worked
-
-with great diligence.
-
-Ramses XIII rose before sunrise, he bathed and burnt incense before the
-
-statue of Osiris. Immediately afterward he heard the reports of the
-
-supreme judge, the chief scribe of the granaries and stables in the
-
-whole country, the high treasurer, finally, the chief of his palaces.
-
-This last dignitary suffered most, for there was no day when his lord
-
-did not tell him that the court cost too much, and kept too many
-
-persons.
-
-In the palace dwelt several hundred women of the late pharaoh with a
-
-corresponding number of servants and children. The chief of the palace,
-
-being reproached continually, dismissed from day to day a number of
-
-persons, and limited the allowances of others. At the end of a month,
-
-therefore, all the ladies of the court ran weeping and wailing to Queen
-
-Niort's, and begged her to rescue them.
-
-The worthy lady betook herself to the pharaoh, and, falling on her
-
-face, begged him to take compassion on the women of his father, and not
-
-let them die in destitution.
-
-The pharaoh listened to her with frowning brows and commanded the chief
-
-of the court not to extend his saving farther. But at the same time he
-
-told the most worthy lady that after the funeral of his father the
-
-women would be removed from the palace and sent to the country.
-
-"Our court," said he, "costs about thirty thousand talents yearly, or
-
-once and a half as much as the whole army. I cannot expend such a sum
-
-without ruining myself and the kingdom."
-
-"Do as may please thee," answered the queen. "Egypt is thine. But I
-
-fear that the persons rejected from the court will become thy enemies."
-
-At this he took his mother by the hand, led her to the window, and
-
-pointed to a forest of spears held by infantry drilling in the
-
-courtyard.
-
-This act of the pharaoh produced an unexpected effect. The queen's
-
-eyes, which a moment before gleamed with pride, were filled with tears.
-
-All at once she bent and kissed her son's hand, saying with emotion,
-
-"Thou art, indeed, the son of Isis and Osiris, and I did well when I
-
-yielded thee to the goddess. Egypt at last has a ruler."
-
-From that time the worthy lady never appealed to her son in any
-
-question. And when she was asked for protection, she answered,
-
-"I am the servant of his holiness and I advise you to carry out his
-
-commands without resistance. All he does comes from inspiration of the
-
-gods. And who can oppose the gods?"
-
-After breakfast the pharaoh was occupied in affairs of the ministry of
-
-war, and the treasury; about three in the afternoon, surrounded by a
-
-great suite, he went to the troops encamped outside Memphis, and
-
-reviewed them.
-
-Indeed, the greatest changes had taken place in the military condition.
-
-In less than two months his holiness had organized five new regiments,
-
-or rather he had reestablished those disbanded during the reign of his
-
-father. He dismissed officers addicted to drunkenness and gambling,
-
-also those who tortured warriors.
-
-Into the military bureaus, where priests alone had held office, he
-
-introduced his most capable adjutants, who very soon mastered important
-
-documents relative to the army. He commanded to make a list of all men
-
-in the state who belonged to the military order, but who for years had
-
-not fulfilled any duty. He opened two new schools, one for the
-
-education of officers, and one for children of twelve years, and
-
-renewed a custom then in abeyance, that youths in the army should
-
-receive breakfast only after three hours' marching in line and in
-
-column.
-
-Finally, no division of the army was permitted to dwell in villages,
-
-all must live in camps or in barracks. Each regiment had its fixed
-
-field of exercise, where for whole days the warriors hurled stones from
-
-slings or shot arrows from bows at marks from one to two hundred yards
-
-distant.
-
-A command was issued to all families of military rank that the men
-
-should exercise themselves in hurling missiles under direction of
-
-officers and decurions of the army. The command was carried out
-
-straightway, therefore Egypt looked like a camp in no longer than two
-
-months after the death of the twelfth Ramses. For even village or city
-
-children, who before had played as scribes and priests, now, imitating
-
-their elders, began to play as warriors. So on every square and in
-
-every garden, from morning till evening, stones and arrows were
-
-whistling, and the courts were filled with complaints about bodily
-
-injuries.
-
-Egypt was transformed, as it were, and in spite of complaints a great
-
-movement reigned in it, and all because of the new ruler.
-
-The pharaoh himself was pleased and his pride increased, seeing that
-
-the whole state arranged itself to his wishes.
-
-But a moment arrived when he became gloomy.
-
-On the very day that the embalmers took the body of Ramses XII from the
-
-soda bath, the chief treasurer, when making his usual report, said to
-
-the pharaoh,
-
-"I know not what to do. We have two thousand talents in the treasury,
-
-and for the funeral of the dead pharaoh we need at least one thousand."
-
-"How, two thousand?" asked Ramses, with astonishment. "When I assumed
-
-power Thou didst tell me that we had twenty thousand."
-
-"We have expended eighteen."
-
-"In two months?"
-
-"Our outlays are enormous."
-
-"True, but new taxes come in every day."
-
-"The taxes, I know not why, have decreased again, and do not come in so
-
-plentifully as I expected. But they too are expended. Be pleased to
-
-remember, holiness, that we have five new regiments; hence, about eight
-
-thousand men have left their occupations and live at the cost of the
-
-treasury."
-
-The pharaoh grew thoughtful.
-
-"We must," said he, "make a new loan. Come to an understanding with
-
-Herhor and Mefres, so that the temples may lend to us."
-
-"I have spoken with them. The temples will lend us nothing."
-
-"The prophets are offended," said the pharaoh, smiling. "In that case
-
-we must call in unbelievers. Send to me Dagon."
-
-Toward evening the pharaoh's banker came. He fell on the pavement
-
-before Ramses and offered him a golden goblet set with jewels.
-
-"Now I can die!" said Dagon, "since my most gracious sovereign has
-
-mounted the throne."
-
-"But before thy death, find me a few thousand talents," said his
-
-holiness to the kneeling banker.
-
-The Phoenician was alarmed. Could he feign great embarrassment?
-
-"Rather command me, holiness, to seek pearls in the Nile, for I shall
-
-perish at once, and my lord will not suspect me of ill-will toward him.
-
-But to find such a sum today!"
-
-Ramses XIII was astounded.
-
-"How is this?" inquired he. "Then have the Phoenicians no money for
-
-me?"
-
-"Our blood, our lives, our children we will give thee, holiness. But
-
-money where can we find it?
-
-"Formerly the temples gave us loans at fifteen or twenty per cent
-
-yearly, but since, as heir to the throne, Thou wert in the temple of
-
-Hator at Pi-Bast the priests have refused us every credit.
-
-"If they could they would expel us from Egypt, or, more gladly, they
-
-would destroy us. Ah, what we suffer because of them. The earth-tillers
-
-do what they like and whenever they like. As rent they give us what
-
-drops from their noses. If we strike one of them they rebel to the last
-
-man, and if an unfortunate Phoenician goes for redress to a court he
-
-either loses his case or pays terribly.
-
-"Our hours in this land are numbered," wailed Dagon.
-
-The pharaoh frowned.
-
-"I will take up these matters," answered he, "and the courts will give
-
-thee justice. Meanwhile, I need about five thousand talents."
-
-"Where shall we get them, O lord?" groaned out Dagon. "Find us
-
-purchasers, holiness, and we will sell all our property movable and
-
-immovable, only to carry out thy commands. But where are the
-
-purchasers? There are none except the priests, who would value our
-
-property at a trifle, and then not pay ready money."
-
-"Send to Tyre, to Sidon," interrupted Ramses. "Each of those cities
-
-might lend, not five, but a hundred thousand talents."
-
-"Tyre and Sidon!" repeated Dagon. "Today all Phoenicia is collecting
-
-gold and jewels to pay the Assyrians. Envoys of King Assar are circling
-
-about through our country and they say that if we pay a liberal sum
-
-yearly the King and the satraps not only will not oppress us, but will
-
-offer us more profits than those which we have now in Egypt, O
-
-holiness, through thy favor."
-
-The pharaoh grew pale and set his teeth. The banker noted this and
-
-added, quickly,
-
-"But why should I waste thy time, holiness, with my stupid talk? Here
-
-in Memphis is Prince Hiram; he perhaps will explain all this to my lord
-
-far better than I can, for he is a sage and a member of the supreme
-
-council in our cities."
-
-"Send him hither quickly," replied Ramses, "for thy conversation with
-
-me, Dagon, is not that of a banker, but of a wailing woman at a
-
-funeral."
-
-The Phoenician touched the floor once again with his forehead, and
-
-inquired,
-
-"What if the worthy Hiram cannot come immediately? It is late now, it
-
-is true. But he is in such fear of the priests that he would rather
-
-come at night to do homage, O holiness."
-
-The pharaoh bit his lips, but agreed to that project; so he sent
-
-Tutmosis with the banker to conduct Hiram to the palace by secret
-
-passages.
+Faraon przygryzł usta, ale zgodził się na ten projekt. Wysłał nawet z bankierem Tutmozisa, aby ten przyprowadził Hirama do pałacu tajemnymi wejściami.

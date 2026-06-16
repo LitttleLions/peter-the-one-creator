@@ -1,591 +1,234 @@
-# Kapitel 4: CHAPTER IV
+# Kapitel 004: Tom I - Rozdział IV
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part8.xhtml*
 
 <!-- status: pending -->
 
-RAMSES and his comrade ran about a quarter of an hour along the rocky
+Następca tronu i jego towarzysz biegli z ćwierć godziny po skalistym grzbiecie wzgórza, coraz bliżej słysząc trąbki, które wciąż gwałtowniej i gwałtowniej wygrywały alarm. Nareszcie znaleźli się w miejscu, skąd można było ogarnąć wzrokiem całą okolicę.
 
-ridge of the hill, drawing ever nearer to the trumpets, which sounded
+Na lewo ciągnęła się szosa, za którą dokładnie było widać miasto Pi-Bailos, stojące za nim pułki następcy tronu i ogromny tuman pyłu, który unosił się nad nacierającym ze wschodu przeciwnikiem.
 
-more and more urgently. At last they reached a point where they took in
+Na prawo ział szeroki wąwóz, środkiem którego pułk grecki ciągnął wojenne machiny. Niedaleko od szosy wąwóz ten zlewał się z drugim, szerszym, który wychodził z głębi pustyni.
 
-at a glance the whole region. Toward the left stretched the highway;
+Otóż w tym punkcie działo się coś niezwykłego. Grecy z machinami stali bezczynnie niedaleko połączenia obu wąwozów; lecz na samym połączeniu, między szosą a sztabem następcy, wyciągnęły się cztery gęste szeregi jakiegoś innego wojska, niby cztery płoty najeżone iskrzącymi włóczniami.
 
-beyond that were seen clearly the city of Pi-Bailos, the regiments of
+Mimo bardzo spadzistej drogi książę cwałem zbiegł do swego oddziału, do miejsca, gdzie stał minister wojny otoczony oficerami.
 
-the heir drawn up behind it, and an immense cloud of dust which rose
+— Co się tu dzieje?... — groźnie zawołał. — Dlaczego trąbicie alarm zamiast maszerować?...
 
-above his opponent hastening forward from the east.
+— Jesteśmy odcięci — rzekł Herhor.
 
-On the right yawned a broad ravine, along the middle of which the Greek
+— Kto?... przez kogo?...
 
-regiment was dragging military engines. Not far from the road the
+— Nasz oddział przez trzy pułki Nitagera, które wyszły z pustyni.
 
-ravine was lost in another and a broader one which began in the depth
+— Więc tam, blisko szosy, stoi nieprzyjaciel?...
 
-of the desert.
+— Stoi sam niezwyciężony Nitager...
 
-At this point something uncommon was happening. The Greeks stood
+Zdawało się, że w tej chwili następca tronu oszalał. Skrzywiły mu się usta, oczy wyszły z orbit. Wydobył miecz i pobiegłszy do Greków krzyknął chrapliwym głosem:
 
-unoccupied not far from the junction of the two ravines; but at the
+— Za mną na tych, którzy nam zastąpili drogę!...
 
-juncture itself, and between the highway and the staff of Ramses,
+— Żyj wiecznie, erpatre!... — zawołał Patrokles, równie dobywając miecza. — Naprzód, potomkowie Achillesa!... — zwrócił się do swoich żołnierzy. — Pokażmy egipskim krowiarzom, że nas zatrzymywać nie wolno!
 
-marched out four dense lines of some other army, like four fences,
+Trąbki zagrały do ataku. Cztery krótkie, ale wyprostowane szeregi poszły naprzód, wzbił się tuman pyłu i krzyk na cześć Ramzesa.
 
-bristling with glittering darts.
+W parę minut Grecy znaleźli się wobec pułków egipskich i — zawahali się.
 
-In spite of the steep road the prince rushed down at full speed to his
+— Naprzód!... — wołał następca, biegnąc z mieczem w ręku. Grecy zniżyli włócznie. W szeregach przeciwnych zrobił się jakiś ruch, i przeleciał szmer i — również zniżyły się włócznie.
 
-division, to the place where the minister of war stood surrounded by
+— Kto wy jesteście, szaleńcy?... — odezwał się potężny głos ze strony przeciwnej.
 
-officers.
+— Następca tronu!... — odpowiedział Patrokles.
 
-"What is happening?" called he, threateningly. "Why sound an alarm
+Chwila ciszy.
 
-instead of marching?"
+— Rozstąpić się!... — powtórzył ten sam wielki głos co pierwej.
 
-"We are cut off," said Herhor.
+Pułki armii wschodniej z wolna otworzyły się jak ciężkie podwójne wrota i — grecki oddział przeszedł.
 
-"By whom?"
+Wówczas do następcy zbliżył się siwy wojownik w złocistym hełmie i zbroi i nisko skłoniwszy się rzekł:
 
-"Our division by three regiments of Nitager, who has marched out of the
+— Zwyciężyłeś, erpatre. Tylko wielki wódz w ten sposób wydobywa się z kłopotu.
 
-desert."
+— Ty jesteś Nitager, najwaleczniejszy z walecznych!... — zawołał książę.
 
-"Then the enemy is there, near the highway?"
+W tej chwili zbliżył się do nich minister wojny, który słyszał rozmowę, i rzekł cierpko:
 
-"Yes, the invincible Nitager himself."
+— A gdyby po waszej stronie znalazł się równie niesforny wódz, jak erpatre, czym zakończylibyśmy manewry?
 
-It seemed in that moment that the heir to the throne had gone mad. His
+— Dajże spokój młodemu wojownikowi! — odparł Nitager. — Czyliż nie wystarcza ci, że pokazał lwie pazury, jak przystało na dziecię faraonów?...
 
-lips were contorted, his eyes were starting out of their sockets. He
+Tutmozis słysząc, jaki obrót przybiera rozmowa, zwrócił się do Nitagera:
 
-drew his sword, rushed to the Greeks, and cried,
+— Skąd wziąłeś się tutaj, dostojny wodzu, jeżeli główne twoje siły znajdują się przed naszą armią?
 
-"Follow me against those who bar the road to us."
+— Wiedziałem, jak niedołężnie maszeruje oddział z Memfis, gdy następca gromadzi pułki pod Pi-Bailos. No i dla śmiechu chciałem przyłapać was, paniczyków... Na moje nieszczęście znalazł się tu następca i popsuł mi plany. Tak zawsze postępuj, Ramzesie, naturalnie, wobec prawdziwych nieprzyjaciół.
 
-"O heir, live forever!" cried Patrokles, who drew his sword also.
+— A jeżeli, jak dziś, trafi na trzy razy większą siłę?... — zapytał Herhor.
 
-"Forward, descendants of Achilles!" said he, turning to his men. "We
+— Więcej znaczy odważny rozum aniżeli siła — odpowiedział stary wódz. — Słoń jest pięćdziesiąt razy mocniejszym od człowieka, a jednak ulega mu lub ginie z jego ręki...
 
-will teach those Egyptian cowkeepers not to stop us!"
+Herhor słuchał w milczeniu.
 
-Trumpets sounded the attack. Four short but erect Greek columns rushed
+Manewry uznano za skończone. Następca tronu w towarzystwie ministra i wodzów pojechał do wojsk pod Pi-Bailos, przywitał weteranów Nitagera i pożegnał swoje pułki, rozkazując im iść na wschód i życząc powodzenia. Następnie otoczony wielką świtą wracał szosą do Memfis, wśród tłumów z ziemi Gosen, które z zielonymi gałązkami i w świątecznych szatach pozdrawiały zwycięzcę.
 
-forward, a cloud of dust rose, and a shout in honor of Ramses.
+Gdy gościniec skręcił ku pustyni, tłum przerzedził się; a gdy zbliżyli się do miejsca, gdzie sztab następcy z powodu skarabeuszów wszedł do wąwozu, na szosie już nie było nikogo.
 
-After a couple of minutes the Greeks found themselves in the presence
+Wtedy Ramzes skinął na Tutmozisa i wskazując mu łysy pagórek, szepnął:
 
-of the Egyptian regiments, and hesitated.
+— Pójdziesz tam, do Sary...
 
-"Forward!" cried the heir, rushing on, sword in hand.
+— Rozumiem.
 
-The Greeks lowered their spears. On the opposing side there was a
+— I powiesz jej ojcu, że oddaję mu folwark pod Memfisem.
 
-movement, a murmur flew along the ranks, and spears also were lowered.
+— Rozumiem. Pojutrze będziesz ją miał.
 
-"Who are ye, madmen?" asked a mighty voice.
+Po tej wymianie zdań Tutmozis cofnął się ku maszerującym za świtą wojskom i zniknął.
 
-"The heir to the throne!" shouted Patrokles.
+Prawie naprzeciw wąwozu, do którego z rana wjechały machiny wojenne, o kilkanaście kroków za szosą rosło nieduże, choć stare drzewo tamaryndowe. W tym miejscu zatrzymała się straż poprzedzająca książęcą świtę.
 
-A moment of silence.
+— Czy znowu spotykamy się ze skarabeuszami?... — zapytał ze śmiechem następca tronu ministra.
 
-"Open ranks!" commanded the same voice, mighty as before.
+— Zobaczymy — odparł Herhor.
 
-The regiments of the eastern army opened slowly, like heavy folding-
+Jakoż zobaczyli: na wątłym drzewie wisiał nagi człowiek.
 
-doors, and the Greek division passed between them.
+— Cóż to znaczy? — zawołał wzruszony następca.
 
-Then a gray-haired warrior in golden helmet and armor approached Prince
+Pobiegli do drzewa adiutanci i przekonali się, że wisielcem jest ów stary chłop, któremu wojsko zasypało kanał.
 
-Ramses and said with a low obeisance,
+— Słusznie powiesił się — krzyczał między oficerami Eunana. — Czybyście uwierzyli, że ten nędzny niewolnik ośmielił się schwytać za nogi jego dostojność ministra!...
 
-"Erpatr, [Heir] Thou hast conquered. Only a great warrior could free
+Ramzes usłyszawszy to zatrzymał konia. Następnie zsiadł i zbliżył się do złowrogiego drzewa.
 
-himself from difficulty in that way."
+Chłop wisiał z głową wyciągniętą naprzód; miał usta szeroko otwarte, dłonie zwrócone do widzów, a w oczach zgrozę. Wyglądał jak człowiek, który chce coś powiedzieć, ale mu głosu zabrakło.
 
-"Thou art Nitager, the bravest of the brave!" cried the prince.
+— Nieszczęśliwy — westchnął ze współczuciem książę.
 
-At that moment Herhor approached. He had heard the conversation, and
+Gdy wrócił do orszaku, kazał sobie opowiedzieć historią chłopa, a później przez długi czas jechał milczący.
 
-said abruptly,
+Przed oczyma wciąż stał mu obraz samobójcy, a w sercu nurtowało uczucie, że temu pogardzonemu niewolnikowi stała się wielka krzywda. Tak niezmierna krzywda, że nad nią mógł zastanawiać się nawet on, syn i następca faraona.
 
-"Had there been on your side such an awkward leader as the erpatr, how
+Gorąco było nieznośne, kurz wysuszał wargi i kłuł oczy ludziom i zwierzętom. Zatrzymano oddział na krótki postój, a tymczasem Nitager kończył rozmowę z ministrem.
 
-could we have finished the maneuvers?"
+— Moi oficerowie — mówił stary wódz — nie patrzą pod nogi, tylko przed siebie. I może dlatego nigdy nie zaskoczył mnie nieprzyjaciel.
 
-"Let the young warrior alone!" answered Nitager. "Is it not enough for
+— Tym przypomniałeś mi, wasza dostojność, że powinienem zapłacić pewne długi — odparł Herhor i kazał zgromadzić się oficerom i żołnierzom, jacy byli pod ręką.
 
-thee that he has shown the iron claws, as was proper for a son of the
+— A teraz — rzekł minister — zawołajcie Eunanę.
 
-pharaoh?"
+Obwieszony amuletami oficer znalazł się tak prędko, jakby od dawna czekał na to wezwanie. Na jego twarzy malowała się radość, z trudem hamowana przez pokorę.
 
-Tutmosis, noting the turn which the conversation had taken, asked
+Herhor, ujrzawszy przed sobą Eunanę, zaczął:
 
-Nitager,
+— Z woli jego świątobliwości, wraz ze skończeniem manewrów, najwyższa władza wojskowa znowu przechodzi w moje ręce.
 
-"Whence hast Thou come, that thy main forces are in front of our army?"
+Obecni pochylili głowy.
 
-"I knew how incompetently the division was marching from Memphis, when
+— Władzy tej wypada mi użyć przede wszystkim na wymiar sprawiedliwości...
 
-the heir was concentrating his regiments near Pi-Bailos, and for sport
+Oficerowie zaczęli spoglądać po sobie.
 
-I wished to capture you young lords. To my misfortune the heir was here
+— Eunano — ciągnął minister — wiem, że zawsze byłeś jednym z najpilniejszych oficerów...
 
-and spoiled my plans. Act that way always, Ramses, of course in
+— Prawda mówi przez wasze usta, dostojny panie — odparł Eunana. — Jak palma czeka na rosę, tak ja na rozkazy zwierzchników. A gdy ich nie otrzymuję, jestem jak sierota w pustyni, szukająca drogi swojej.
 
-presence of real enemies."
+Okryci bliznami oficerowie Nitagera z podziwem przysłuchiwali się wartkiej wymowie Eunany i myśleli w sobie: „Ten będzie wywyższony nad innych!”
 
-"But if, as today, he meets a force three times superior?" inquired
+— Eunano — mówił minister — jesteś nie tylko pilny, ale i pobożny; nie tylko pobożny, ale i czujny jak ibis nad wodą. Bogowie też zleli na ciebie wielkie dobrodziejstwa: dali ci wężową przezorność i wzrok jastrzębia...
 
-Herhor.
+— Czysta prawda płynie z ust waszej dostojności — wtrącił Eunana. — Gdyby nie mój dziwny wzrok, nie wypatrzyłbym dwu świętych skarabeuszów...
 
-"Daring keenness means more than strength," replied the old leader. "An
+— Tak — przerwał minister — i nie uratowałbyś naszego obozu od świętokradztwa. Za ten czyn, godny najpobożniejszego Egipcjanina, daję ci...
 
-elephant is fifty times stronger than a man; still he yields to him, or
+Tu minister zdjął z palca złoty pierścień.
 
-dies at his hands."
+— Daję ci ten oto pierścień z imieniem bogini Mut, której łaska i roztropność będą ci towarzyszyły do końca ziemskiej wędrówki, jeżeli na nią zasłużysz.
 
-Herhor listened in silence.
+Jego dostojność wręczył pierścień Eunanie, a obecni wydali wielki okrzyk na cześć faraona i zaszczękali orężem.
 
-The maneuvers were declared finished. Prince Ramses with the minister
+Ponieważ minister nie ruszył się, więc i Eunana stał i bystro patrzył mu w oczy, jak wierny pies, który otrzymawszy z ręki pańskiej jeden kąsek, jeszcze kręci ogonem i czeka.
 
-and commanders went to the army near Pi-Bailos. There he greeted
+— A teraz — zaczął znowu minister — przyznaj się, Eunano, dlaczego nie powiedziałeś, gdzie poszedł następca tronu, gdy wojsko z trudem maszerowało przez wąwóz?... Popełniłeś zły czyn, musieliśmy bowiem trąbić alarm w sąsiedztwie nieprzyjaciela.
 
-Nitager's veterans, took farewell of his own regiments, commanded them
+— Bogowie są moimi świadkami, żem nic nie wiedział o najdostojniejszym księciu — odparł zdziwiony Eunana.
 
-to march eastward, and wished success to them.
+Herhor potrząsnął głową.
 
-Then, surrounded by a great suite, he returned by the highway to
+— Nie może być, ażeby człowiek obdarzony takim jak ty wzrokiem, który o kilkadziesiąt kroków widzi wśród piasku święte skarabeusze, nie dostrzegł tak wielkiej osoby, jaką jest następca tronu.
 
-Memphis amid crowds from the land of Goshen, who with green garlands
+— Zaprawdę nie widziałem!... — tłumaczył się Eunana, bijąc się w piersi. — Zresztą nikt mi nie kazał czuwać nad księciem.
 
-and in holiday robes congratulated the conqueror.
+— Czyliż nie uwolniłem cię od dowództwa przedniej straży?... Czyliż wyznaczyłem ci jakie zajęcie? — pytał minister. — Byłeś zupełnie wolny, właśnie jak człowiek powołany do śledzenia rzeczy ważnych. A czy wywiązałeś się z tego zadania?... Zaiste, za podobny błąd w czasie wojny musiałbyś umrzeć śmiercią...
 
-When the highway turned toward the desert, the crowd became thinner,
+Nieszczęsny oficer pobladł.
 
-and when they approached the place where the staff of the heir had
+— Ale ja mam dla ciebie serce ojcowskie, Eunano — mówił dostojny pan — i pamiętając na wielką usługę, jaką oddałeś armii przez wypatrzenie symbolów świętego słońca, skarabeuszów, wyznaczam ci, nie jak surowy minister, ale jako łagodny kapłan, bardzo małą karę. Otrzymasz pięćdziesiąt kijów.
 
-entered the ravine because of the scarabs, there was no one.
+— Wasza dostojność...
 
-Ramses nodded to Tutmosis, and pointing to the naked hill, whispered,
+— Eunano, umiałeś być szczęśliwym, bądź teraz mężnym i przyjmij to drobne upomnienie, jak przystało na oficera armii jego świątobliwości.
 
-"Thou wilt go to Sarah."
+Ledwie skończył dostojny Herhor, już starsi rangą oficerowie położyli Eunanę w wygodnym miejscu, obok szosy. Potem jeden usiadł na karku, drugi na nogach, a dwaj inni wyliczyli mu w obnażone ciało pięćdziesiąt giętkich trzcin.
 
-"I understand."
+Nieustraszony bojownik nie wydał jęku, owszem — nucił pieśń żołnierską, a po ukończeniu ceremonii sam chciał się podnieść. Ale schorzałe nogi odmówiły mu posłuszeństwa. Więc padł twarzą w piasek i musiano go odwieźć do Memfisu na dwukolnym wozie, na którym leżąc i uśmiechając się do żołnierzy rozmyślał, że nie tak prędko zmienia się wiatr w Dolnym Egipcie jak fortuna w życiu biednego oficera.
 
-"Tell her father that I will give him land outside Memphis."
+Gdy po krótkim postoju orszak następcy tronu wyruszył w dalszą drogę, jego dostojność Herhor siadł na konia i jadąc obok jego dostojności Nitagera, rozmawiał półgłosem o ludach azjatyckich, a przede wszystkim o rozbudzeniu się Asyrii.
 
-"I understand. Thou wilt have her to-morrow."
+Wówczas dwaj słudzy ministra: adiutant niosący wachlarz i pisarz Pentuer, zaczęli też rozmowę.
 
-After this conversation Tutmosis withdrew to the troops marching behind
+— Co myślisz o przygodzie Eunany? — spytał adiutant.
 
-the suite, and vanished.
+— A ty co myślisz o chłopie, który się powiesił? — rzekł pisarz.
 
-Almost opposite the ravine along which the army had passed in the
+— Zdaje mi się, że dla chłopa dzień dzisiejszy jest najlepszym, a powróz koło szyi najmiększym, jaki spotkał w życiu — odparł adiutant. — Myślę też, że Eunana od tej pory będzie bardzo troskliwie pilnował następcy tronu.
 
-morning, some tens of steps from the road, stood a tamarind-tree which,
+— Mylisz się — rzekł Pentuer. — Eunana od tej pory nigdy nie dojrzy skarabeusza, choćby był wielkim jak wół. Co się zaś tyczy owego chłopa, czy nie sądzisz, że jemu jednak musiało być źle, bardzo źle... bardzo źle na świętej ziemi egipskiej!
 
-though old, was not large. At this point a halt was mad by the guard
+— Nie znasz chłopów, więc tak mówisz...
 
-which had preceded the suite.
+— A któż ich lepiej zna?... — odparł posępnie pisarz. — Czyliż nie wyrosłem między nimi?... Czy nie widziałem, jak mój ojciec nawodniał grunta, oczyszczał kanały, siał, zbierał, a nade wszystko — jak płacił podatki. O, ty nie wiesz, co to jest dola chłopa w Egipcie!
 
-"Shall we meet scarabs again?" asked Ramses, with a laugh.
+— Za to wiem, co jest dola cudzoziemca — odpowiedział adiutant. — Mój pradziad czy prapradziad był jednym z wielkich między Hyksosami, ale został tu, bo przywiązał się do ziemi. I co powiesz: nie tylko jemu odebrano majątek, ale jeszcze i na mnie ciąży plama pochodzenia!... Sam widzisz, co nieraz znoszę od rodowitych Egipcjan, choć mam znaczne stanowisko. Jakże więc mogę litować się nad egipskim chłopem, który widząc moją żółtawą cerę, nieraz mruczy pod nosem: „poganin!... cudzoziemiec!...” Chłop zaś nie jest ani poganinem, ani cudzoziemcem.
 
-"We shall see," answered Herhor.
+— Tylko niewolnikiem — wtrącił pisarz. — Niewolnikiem, którego żenią, rozwodzą, biją, sprzedają, niekiedy mordują, a zawsze każą mu pracować, obiecując w dodatku, że i na tamtym świecie również będzie niewolnikiem.
 
-They looked; on the slender tree a naked man was hanging.
+Adiutant wzruszył ramionami.
 
-"What does this mean?" asked the heir, with emotion.
+— Dziwny ty jesteś, choć tak mądry! — rzekł. — Przecie widzisz, że każdy z nas zajmuje jakieś stanowisko — niskie, mniej niskie lub bardziej niskie, na którym musi pracować. A czy martwi cię to, że nie jesteś faraonem i że twoim grobem nie będzie piramida?... Wcale nie myślisz o tym, bo rozumiesz, że taki jest porządek świata. Każdy pełni swoje obowiązki: wół orze, osioł dźwiga podróżnych, ja chłodzę jego dostojność, ty za niego pamiętasz i myślisz, a chłop uprawia ziemię i płaci podatki. Cóż więc nam z tego, że jakiś wół urodzi się Apisem, któremu cześć oddają, a jakiś człowiek faraonem lub nomarchą?...
 
-Adjutants ran to the tree, and saw that the hanging man was that old
+— Temu chłopu zniszczono jego dziesięcioletnią pracę... — szepnął Pentuer.
 
-slave whose canal they had closed in the morning.
+— A twojej pracy nie niszczy minister?... — spytał adiutant. — Któż wie, że to ty rządzisz państwem, nie zaś dostojny Herhor?...
 
-"He did right to hang himself!" cried Eunana among the officers. "Could
+— Mylisz się — rzekł pisarz — on rządzi naprawdę. On ma władzę, on ma wolę, a ja... tylko wiadomości... Mnie wreszcie nie biją ani ciebie, jak owego chłopa...
 
-ye believe it, that wretch dared to seize the feet of his holiness the
+— Ale za to zbili Eunanę, a i nam może się dostać. Trzeba więc być mężnym i cieszyć się ze stanowiska, jakie wyznaczono człowiekowi. Tym bardziej że, jak ci wiadomo, nasz duch, nieśmiertelny Ka, w miarę oczyszczania się wstępuje na wyższe szczeble, aby za tysiące czy miliony lat, razem z duszami faraonów i niewolników, nawet razem z bogami — rozpłynąć się w bezimiennym a wszechmocnym ojcu życia.
 
-minister!"
+— Mówisz jak kapłan — odparł z goryczą Pentuer. — Ja to raczej powinienem mieć ten spokój!... Lecz zamiast niego mam ból w duszy, bo odczuwam nędzę milionów...
 
-On hearing this, Ramses reined in his horse, dismounted, and walked up
+— Któż ci każe?
 
-to the ominous tree.
+— Oczy moje i serce. Jest ono jak dolina między górami, która nie może milczeć, kiedy słyszy krzyk, lecz odpowiada echem.
 
-The slave was hanging with his head stretched forward; his mouth was
+— A ja tobie mówię, Pentuerze, że za dużo myślisz o rzeczach niebezpiecznych. Nie można bezkarnie chodzić po urwiskach gór wschodnich, bo lada chwilę spadniesz; ani błądzić po zachodniej pustyni, gdzie krążą lwy zgłodniałe i zrywa się wściekły chamsin.
 
-opened widely, his hands turned toward the spectators, and terror was
+Tymczasem waleczny Eunana jadąc na wozie, który mu tylko odnawiał boleść, aby pokazać, jak jest mężnym, zażądał jedzenia i picia. A gdy spożył suchy placek, natarty czosnkiem, i wypił kwaśne piwo z wysmukłego garnuszka, poprosił woźnicy, aby mu gałązką spędzał muchy z poranionego ciała.
 
-in his eyes. He looked like a man who had wished to say something, but
+Tak leżąc na workach i pakach, na skrzypiącym wozie, twarzą zwrócony do ziemi, biedny Eunana jękliwym głosem zaczął opiewać ciężką dolę niższego oficera:
 
-whose voice had failed him.
+— „Z jakiejże to racji mówisz, że lepiej być oficerem aniżeli pisarzem? Przyjdź i patrz na moje sine pręgi i popękane ciało, a ja ci przez ten czas opowiem dzieje udręczonego oficera.
 
-"The unfortunate!" sighed Ramses, with compassion.
+Jeszcze byłem chłopcem, kiedy przyniesiono mnie do koszar. Na śniadanie dostawałem pięścią w brzuch, aż mnie mdliło, na obiad kułak w oczy, aż mi się gęba rozdziawiała, a ku wieczorowi miałem już głowę okrytą ranami i prawie rozszczepioną.
 
-On returning to the retinue he gave command to relate to him the
+Chodź, niech ci opowiem, jak odbyłem podróż do Syrii. Jedzenie i picie musiałem dźwigać w rękach, objuczony jak osioł. Szyję miałem zesztywniałą jak szyja osła, a kręgi pacierzowe spękane. Piłem zgniłą wodę, a wobec wroga byłem jako złapany ptak.
 
-history of the man, and then he rode a long time in silence.
+Wróciłem do Egiptu, ale tu jestem jak drzewo, które robak toczy. Za byle co kładą mnie na ziemi i biją jak w książkę tak, że od kijów jestem prawie połamany. Jestem chory i muszę się kłaść, muszą mnie wozić na wozie, a tymczasem służący kradnie mi płaszcz i ucieka...
 
-Before his eyes was the picture of the suicide, and in his heart was
+Dlatego, o pisarzu! zmień swoje zdanie o szczęściu oficera.”
 
-the feeling that a great wrong had been done, such a wrong that even
-
-he, the son and the heir of the pharaoh, might halt in face of it.
-
-The heat was unendurable, the dust dried up the water and pierced the
-
-eyes of man and beast. The division was detained for a short rest, and
-
-meanwhile Nitager finished his conversation with the minister.
-
-"My officers," said the old commander, "never look under their feet,
-
-but always straight forward."
-
-"That is the reason, perhaps, why no enemy has ever surprised me."
-
-"Your worthiness reminds me, by these words, that I am to pay certain
-
-debts," remarked Herhor; and he commanded the officers and soldiers who
-
-were near by to assemble.
-
-"And now," said the minister, "summon for me Eunana."
-
-The officer covered with amulets was found as quickly as if he had been
-
-waiting for this summons a long time. On his countenance was depicted
-
-delight, which he restrained through humility, but with effort.
-
-Herhor, seeing Eunana before him, began,
-
-"By the will of his holiness, supreme command of the army comes into my
-
-hands again with the ending of the maneuvers."
-
-Those present bowed their heads.
-
-"It is my duty to use this power first of all in meting out justice."
-
-The officers looked at one another.
-
-"Eunana," said the minister, "I know that Thou hast always been one of
-
-the most diligent officers."
-
-"Truth speaks through thy lips, worthy lord," replied Eunana. "As a
-
-palm waits for dew, so do I for the commands of superiors. And when I
-
-do not receive them, I am like an orphan in the desert when looking for
-
-a pathway."
-
-Nitager's scar-covered officers listened with astonishment to the ready
-
-speech of Eunana, and thought, "He will be raised above others!"
-
-"Eunana," said the minister, "Thou art not only diligent, but pious;
-
-not only pious, but watchful as an ibis over water. The gods have
-
-poured out on thee every virtue: they have given thee serpent cunning,
-
-with the eye of a falcon."
-
-"Pure truth flows from thy lips, worthiness," added Eunana. "Were it
-
-not for my wonderful sight, I should not have seen the two scarabs."
-
-"Yes, and Thou wouldst not have saved our camp from sacrilege. For this
-
-deed, worthy of the most pious Egyptian, I give thee."
-
-Here the minister took a gold ring from his finger.
-
-"I give thee this ring with the name of the goddess Mut, whose favor
-
-and prudence will accompany thee to the end of thy worldly wandering,
-
-if Thou deserve it."
-
-His worthiness delivered the ring to Eunana, and those present uttered
-
-a great shout in honor of the pharaoh, and rattled their weapons.
-
-As Herhor did not move, Eunana stood and looked him in the eyes, like a
-
-faithful dog which having received one morsel from his master is
-
-wagging his tail and waiting.
-
-"And now," continued the minister, "confess, Eunana, why Thou didst not
-
-tell whither the heir to the throne went when the army was marching
-
-along the ravine with such difficulty. Thou didst an evil deed, for we
-
-had to sound the alarm in the neighborhood of the enemy."
-
-"The gods are my witnesses that I know nothing of the most worthy
-
-prince," replied the astonished Eunana.
-
-Herhor shook his head.
-
-"It cannot be that a man gifted with such sight, a man who at some tens
-
-of yards away sees sacred scarabs in the sand, should not see so great
-
-a personage as the heir to the throne is."
-
-"Indeed I did not see him!" explained Eunana, beating his breast.
-
-"Moreover no one commanded me to watch Ramses."
-
-"Did I not free thee from leading the vanguard? Did I assign to thee an
-
-office?" asked the minister. "Thou wert entirely free, just like a man
-
-who is called to important deeds. And didst Thou accomplish thy task?
-
-For such an error in time of war Thou shouldst suffer death surely."
-
-The ill-fated officer was pallid.
-
-"But I have a paternal heart for thee, Eunana," said Herhor, "and,
-
-remembering the great service which Thou hast rendered by discovering
-
-the scarabs, I, not as a stern minister, but as a mild priest, appoint
-
-to thee a very small punishment. Thou wilt receive fifty blows of a
-
-stick on thy body."
-
-"Worthiness!"
-
-"Eunana, Thou hast known how to be fortunate, now be manful and receive
-
-this slight remembrance as becomes an officer in the army of his
-
-holiness."
-
-Barely had the worthy Herhor finished when the officers oldest in rank
-
-placed Eunana in a commodious position at the side of the highroad.
-
-After that one of them sat on his neck, another on his feet, while a
-
-third and a fourth counted out fifty blows of pliant reeds on his naked
-
-body.
-
-The unterrified warrior uttered no groan; on the contrary, he hummed a
-
-soldier song, and at the end of the ceremony wished to rise. But his
-
-stiffened legs refused obedience, so he fell face downward on the sand;
-
-they had to take him to Memphis on a two-wheeled vehicle. While lying
-
-on this cart and smiling at the soldiers, Eunana considered that the
-
-wind does not change so quickly in Lower Egypt as fortune in the life
-
-of an inferior officer.
-
-When, after the brief halt, the retinue of the heir to the throne moved
-
-on its farther journey, Herhor mounted his horse and riding at the side
-
-of Nitager, spoke in an undertone about Asiatic nations and, above all,
-
-about the awakening of Assyria.
-
-Then two servants of the minister, the adjutant carrying his fan and
-
-the secretary Pentuer, began a conversation also.
-
-"What dost Thou think of Eunana's adventure?" asked the adjutant.
-
-"And what thinkest Thou of the slave who hanged himself?"
-
-"It seems to me that this was his best day, and the rope around his
-
-neck the softest thing that has touched him in life. I think, too, that
-
-Eunana from this time on will watch the heir to the throne very
-
-closely."
-
-"Thou art mistaken," answered Pentuer. "Eunana from this time on will
-
-never see a scarab, even though it were as large as a bullock. As to
-
-that slave, dost Thou not think that in every case it must have been
-
-very evil for him very evil in this sacred land of Egypt?"
-
-"Thou knowest not slaves, hence speakest thus."
-
-"But who knows them better?" asked Pentuer, gloomily. "Have I not grown
-
-up among them? Have I not seen my father watering land, clearing
-
-canals, sowing, harvesting, and, above all, paying tribute? Oh, Thou
-
-knowest not the lot of slaves in Egypt."
-
-"But if I do not, I know the lot of the foreigner. My great-grandfather
-
-or great-great-grandfather was famous among the Hyksos, but he remained
-
-here, for he grew attached to this country. And what wilt Thou say? Not
-
-only was his property taken from him, but the stain of my origin rests
-
-on me at present. Thou thyself knowest what I bear frequently from
-
-Egyptians by race, though I have a considerable position. How, then,
-
-can I take pity on the Egyptian earth-worker, who, seeing my yellow
-
-complexion, mutters frequently, 'Pagan! foreigner!' The earth-worker is
-
-neither a pagan nor a foreigner."
-
-"Only a slave," added Pentuer, "a slave whom they marry, divorce, beat,
-
-sell, slay sometimes, and command always to work, with a promise
-
-besides that in the world to come he will be a slave also."
-
-"Thou art a strange man, though so wise!" said the adjutant, shrugging
-
-his shoulders. "Dost Thou not see that each man of us occupies some
-
-position, low, less low, or very low, in which he must labor? But dost
-
-Thou suffer because Thou art not pharaoh, and thy tomb will not be a
-
-pyramid? Thou dost not ponder at all over this, for Thou knowest it to
-
-be the world's condition. Each creature does its own duty: the ox
-
-ploughs, the ass bears the traveler, I cool his worthiness, Thou
-
-rememberest and thinkest for him, while the earth-worker tills land and
-
-pays tribute. What is it to us that some bull is born Apis, to whom all
-
-render homage, and some man a pharaoh or a nomarch?"
-
-"The ten years' toil of that man was destroyed," whispered Pentuer.
-
-"And does not the minister destroy thy toil?" asked the adjutant. "Who
-
-knows that Thou art the manager of the state, not the worthy Herhor?"
-
-"Thou art mistaken. He manages really. He has power and will; I have
-
-only knowledge. Moreover, they do not beat thee, nor me, like that
-
-slave."
-
-"But they have beaten Eunana, and they may beat us also. Hence there is
-
-need to be brave and make use of the position assigned us; all the more
-
-since, as is known to thee, our spirit, the immortal Ka, in proportion
-
-as it is purified rises to a higher plane, so that after thousands or
-
-millions of years, in company with spirits of pharaohs and slaves, in
-
-company with gods even, it will be merged into the nameless and all-
-
-mighty father of existence."
-
-"Thou speakest like a priest," answered Pentuer, with bitterness. "I
-
-ought rather to have this calm! But instead of it I have pain in my
-
-soul, for I feel the wretchedness of millions."
-
-"Who tells it to thee?"
-
-"My eyes and my heart. My heart is like a valley between mountains
-
-which never can be silent, when it hears a cry, but must answer with an
-
-echo."
-
-"I say to thee, Pentuer, that Thou thinkest too much over dangerous
-
-subjects. It is impossible to walk safely along precipices of the
-
-eastern mountains, for Thou mayst fall at any moment; or to wander
-
-through the western desert, where hungry lions are prowling, and where
-
-the raging simoom springs up unexpectedly."
-
-Meanwhile the valiant Eunana moved on in the vehicle, which only added
-
-to his pain. But to show that he was valiant he requested food and
-
-drink; and when he had eaten a dry cake rubbed with garlic and had
-
-drunk some beer from a thick-bellied pot, he begged the driver to take
-
-a branch and drive the flies from his wounded body.
-
-Thus lying on the bags and packs in that squeaking car, with his face
-
-toward the earth, the unfortunate Eunana sang with a groaning voice the
-
-grievous lot of the inferior officer,
-
-"Why dost Thou say that the scribe's lot is worse than the officer's?
-
-Come and see my blue stripes and swollen body; meanwhile I will tell
-
-thee the tale of a downtrodden officer.
-
-"I was a boy when they brought me to the barracks. For breakfast I had
-
-blows of fists in the belly, till I fainted; for dinner fists in the
-
-eyes, till my mouth gaped; and for supper I had a head covered with
-
-wounds and almost split open.
-
-"Goon! let me tell how I made the campaign to Syria. Food and drink I
-
-had to carry on my back, I was bent down with weight as an ass is bent.
-
-My neck became stiff, like an ass's neck, and the joints of my back
-
-swelled. I drank rotten water, I was like a captive bird in the face of
-
-the enemy.
-
-"I returned to Egypt, but here I am like a tree into which a worm is
-
-boring always. For any trifle they put me on the ground and beat me
-
-till I am breaking. I am sick and must lie at full length; they carry
-
-me in a car, meanwhile serving men steal my mantle and escape with it.
-
-"So change thy mind, O scribe, about the happiness of officers."
-
-[Authentic]
-
-Thus sang the brave Eunana; and his tearful song has outlived the
-
-Egyptian kingdom.
+Tak śpiewał mężny Eunana, a jego pieśń, pełna łez, przetrwała państwo egipskie.

@@ -1,561 +1,172 @@
-# Kapitel 47: CHAPTER XLVII
+# Kapitel 047: Tom II - Rozdział XXII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part53.xhtml*
 
 <!-- status: pending -->
 
-THE priest observed the heir stealthily, and found him much changed.
+Kapłan spod oka przypatrzył się następcy i znalazł go bardzo zmienionym. Ramzes był blady, prawie schudł w kilka godzin, a jego oczy straciły blask i zapadły się pod czoło.
 
-Ramses was pale; he had almost grown thin in a few hours; his eyes had
+Usłyszawszy, o co chodzi Grekom, Mentezufis ani chwili nie wahał się z wydaniem zwłok Patroklesa.
 
-lost their glitter and had sunk beneath his forehead.
+— Grecy mają słuszność — rzekł święty mąż — że moglibyśmy udręczać po śmierci cień Patroklesa. Ale są głupcami przypuszczając, że którykolwiek kapłan egipski czy chaldejski dopuściłby się podobnej zbrodni.
 
-When Mentezufis heard what the Greeks had in mind he did not hesitate a
+Niech zabiorą ciało swego ziomka, jeżeli sądzą, że pod opieką ich obyczajów będzie szczęśliwszy po śmierci!...
 
-moment to surrender the body of Patrokles.
+Książę natychmiast wysłał oficera ze stosownym rozkazem, ale Mentezufisa zatrzymał. Widocznie chciał mu coś powiedzieć, choć wahał się.
 
-"The Greeks are right," said the holy man, "in thinking that we have
+Po dłuższym milczeniu Ramzes nagle zapytał:
 
-power to torment the shade of Patrokles, but they are fools to suppose
+— Zapewne wiesz, święty proroku, że jedna z moich kobiet, Sara, umarła, a jej syn został zamordowany?...
 
-that any priest of Chaldea or Egypt would permit such a crime. Let them
+— Stało się to — odparł Mentezufis — tej samej nocy, kiedy opuściliśmy Pi-Bast...
 
-take the body of their compatriot, if they think that after death he
+Książę zerwał się.
 
-will be happier under protection of their own rites."
+— Przez wiekuistego Amona!... — krzyknął. — Stało się tak dawno, a wy nic nie wspomnieliście mi?... Nawet o tym, że ja byłem posądzony o zabicie mego dziecka?...
 
-The prince sent an officer straightway with the needful order, but he
+— Panie — rzekł kapłan — naczelny wódz w przededniu bitwy nie ma ani ojca, ani dziecka, ani nikogo zgoła, tylko — swoją armię i nieprzyjaciół. Mogliżeśmy cię w tych ważnych czasach niepokoić podobnymi wiadomościami?
 
-detained Mentezufis. Evidently he wished to say something to him,
+— To prawda — odparł książę po namyśle. — Gdyby nas dzisiaj zaskoczono, nie wiem, czy potrafiłbym dobrze pokierować wojskiem... I w ogóle nie wiem, czy już kiedykolwiek zdołam odzyskać spokój...
 
-though he hesitated.
+Takie małe... takie piękne dziecko!... Albo i ta kobieta, która poświęciła się za mnie, gdy ja ciężko ją skrzywdziłem. Nigdy nie myślałem, że mogą zdarzać się podobne nieszczęścia i że przenosi je ludzkie serce.
 
-After some silence Ramses asked suddenly,
+— Czas wszystko leczy... Czas i modlitwa — szepnął kapłan.
 
-"Thou knowest, of course, holy prophet, that one of my women, Sarah, is
+Książę pokiwał głową i znowu w namiocie zaległa taka cisza, że słychać było piasek wysypujący się z klepsydry. Następca znowu ocknął się.
 
-dead, and that her son was murdered?"
+— Powiedz mi — rzekł — ojcze święty, jeżeli nie należy to do wielkich tajemnic, jaka jest naprawdę różnica między spaleniem zmarłego i zrobieniem z niego mumii? Bo chociaż słyszałem coś w szkole, nie rozumiem jednak tej kwestii, do której Grecy tak wielką przywiązują wagę.
 
-"That happened," said Mentezufis, "the night that we marched from Pi-
+— My przywiązujemy daleko większą, największą... — odparł kapłan. — Świadczą o tym nasze miasta zmarłych, które zajęły cały skraj pustyni zachodniej. Świadczą piramidy, które są grobami faraonów starego państwa, i mnemonie, olbrzymie groby, kute w skałach, dla królów naszej epoki.
 
-Bast."
+Pogrzeb i grób to wielka sprawa, to największa sprawa ludzka. Bo gdy w formie cielesnej żyjemy pięćdziesiąt albo sto lat, nasze cienie trwają dziesiątki tysięcy lat, aż do zupełnego oczyszczenia.
 
-The prince sprang up.
+Asyryjscy barbarzyńcy śmieją się z nas, że więcej poświęcamy zmarłym niż żyjącym; ale zapłakaliby nad swoim niedbalstwem o zmarłych, gdyby znana im była, jak nam, tajemnica śmierci i grobu...
 
-"By the eternal Amon!" cried he. "Did that take place so long ago, and
+Książę otrząsnął się.
 
-ye did not mention it? Ye did not even tell me that I was suspected of
+— Przestraszasz mnie — rzekł. — Czyliż zapomniałeś, że między zmarłymi ja mam dwie miłe istoty, które nie są pochowane według egipskiego rytuału.
 
-murdering my own son?"
+— Owszem. Teraz właśnie robią ich mumie. A zarówno Sara, jak i twój syn będą mieli wszystko, cokolwiek przydać im się może w długiej wędrówce.
 
-"Lord," said the priest, "the leader of an army in the day before
+— Doprawdy?... — spytał, jakby ucieszony, Ramzes.
 
-battle has neither son nor father; he has no one whatever save the army
+— Zaręczam, że tak jest — odparł kapłan — i że zrobione będzie wszystko, co potrzeba, abyś znalazł ich, panie, szczęśliwymi, gdy i tobie kiedyś uprzykrzy się ziemski żywot.
 
-and the enemy. Could we in extreme moments disturb thee with such
+Następca, słuchając tego, był bardzo wzruszony.
 
-tidings?"
+— Więc myślisz, święty mężu — spytał — że odnajdę kiedyś mego syna i będę mógł powiedzieć tej kobiecie: Saro, ja wiem, że byłem dla ciebie zbyt surowy?...
 
-"That is true," replied the prince, after some thought. "If we were
+— Jestem tak pewny, jak tego, że widzę cię, dostojny panie.
 
-attacked today I am not sure that I could command the army. In general
+— Mów... mów o tym!... — zawołał książę. — Człowiek dopóty nie dba o groby, dopóki nie złoży w nich cząstki samego siebie... A mnie spotkała ta niedola, i właśnie wówczas, gdym myślał, że z wyjątkiem faraona, nie ma potężniejszego nade mnie!
 
-I am not sure of my power to regain peace of mind.
+— Zapytywałeś, panie — zaczął Mentezufis — jaka jest różnica między spaleniem zmarłego i zrobieniem z niego mumii? Taka sama jak między zniszczeniem szaty a schowaniem jej do komory. Gdy szata jest przechowana, może się niejednokrotnie przydać; a gdy masz tylko jedną, byłoby szaleństwem palić ją...
 
-"Such a little such a beautiful child! And that woman who sacrificed
+— Tego nie rozumiem — wtrącił książę. — Tego nie wykładacie nawet w wyższej szkole...
 
-herself for me after I had wronged her grievously. Never have I thought
+— Ale możemy powiedzieć następcy faraona.
 
-that misfortunes of such sort could happen, and that people's hearts
+Wasza dostojność wiesz — ciągnął kapłan — że ludzka istota składa się z trzech części: ciała, iskry bożej i cienia, czyli Ka, który łączy ciało z iskrą bożą.
 
-could endure them."
+Gdy człowiek umiera, jego cień tudzież iskra odłączają się od ciała. Gdyby człowiek żył bez grzechu, jego iskra boża wraz z cieniem natychmiast poszłaby między bogów, na wiekuiste życie. Ale każdy człowiek grzeszy, plami się na tym świecie, skutkiem czego jego cień, Ka, musi się oczyszczać, niekiedy przez tysiące lat. Zaś oczyszcza się w ten sposób, że niewidzialny błąka się po naszej ziemi, pomiędzy ludźmi, i spełnia dobre uczynki. Chociaż cienie zbrodniarzy nawet w zagrobowym życiu dopuszczają się występków i ostatecznie gubią i siebie, i zawartą w nich iskrę bożą.
 
-"Time heals time and prayer," whispered the priest.
+Otóż, co dla waszej dostojności nie jest chyba tajemnicą, ów cień, Ka, jest zupełnie podobny do człowieka, tylko wygląda, jakby był utkany z bardzo delikatnej mgły. Cień ma głowę, ręce i tułów, może chodzić, mówić, rzucać lub podnosić przedmioty, ubiera się jak człowiek, a nawet, osobliwie przez kilkaset pierwszych lat po śmierci, musi od czasu do czasu nieco posilać się. Później bowiem wystarczają mu wizerunki pokarmów...
 
-The prince nodded, and again there was such silence in the tent that
+Główną jednak siłę swoją cień czerpie z ciała, które po nim zostaje na ziemi. Gdy więc ciało rzucimy do grobu, ono prędko psuje się i cień musi nasycać się prochem i zgnilizną. Gdy ciało spalimy, cień ma tylko popioły do krzepienia się. Ale gdy z ciała zrobimy mumię, czyli gdy ciało zabalsamujemy na tysiące lat, cień Ka zawsze jest zdrów i silny i epokę swego oczyszczenia przepędza spokojnie, nawet przyjemnie.
 
-the dropping of sand in the hour glass was audible.
+— Dziwne rzeczy!... — szepnął następca.
 
-Again the heir rallied,
+— O życiu zagrobowym kapłani, w ciągu tysiącletnich badań, dowiedzieli się bardzo ważnych szczegółów. Przekonano się, że gdy w ciele zmarłego zostają wnętrzności, jego cień Ka ma ogromny apetyt, potrzebuje tyleż pokarmów, co człowiek; a gdy pokarmu zabraknie, wówczas rzuca się na żyjących i wysysa z nich krew. Lecz gdy usuwa się ze zwłok wnętrzności, jak my to robimy, wówczas cień prawie obywa się bez pokarmu: jego własne ciało, zabalsamowane i napełnione silnie pachnącymi ziołami, wystarcza mu na miliony lat.
 
-"Tell me, holy father," said he, "unless it belongs to the great
+Również sprawdzono, że gdy grób zmarłego jest pusty, cień tęskni za światem i włóczy się po ziemi bez potrzeby. Lecz gdy w kaplicy pośmiertnej złożymy odzienie, sprzęty, broń, naczynia i narzędzia, które zmarły lubił, gdy ściany pokryjemy malowidłami przedstawiającymi: uczty, polowania, nabożeństwa, wojny i w ogóle wypadki, w których nieboszczyk przyjmował udział, gdy jeszcze dodamy mu posążki osób z jego rodziny, służby, koni, psów i bydła, wówczas cień nie wychodzi bez potrzeby na świat, gdyż znajduje go w swym domu zmarłych.
 
-secrets, what is the real difference between burning the dead and the
+Nareszcie przekonano się, że wiele cieniów, nawet po odbyciu pokuty, nie może wejść do krainy wiecznego szczęścia, ponieważ nie znają stosownych modlitw, zaklęć i rozmów z bogami. Zapobiegamy temu owijając mumię w papirusy, na których są wypisane sentencje, i — kładąc im do trumien Księgę Zmarłych.
 
-making of mummies? for though I have heard something at school I do not
+Jednym słowem nasz rytuał pogrzebowy zapewnia cieniowi siły, chroni go od niewygód i tęsknoty za ziemią, ułatwia mu wejście między bogów i — zabezpiecza żywych ludzi od szkód, jakie mogłyby im wyrządzić cienie. Nasza wielka troskliwość o zmarłych to właśnie ma na celu; dlatego stawiamy im prawie pałace, a w nich — najozdobniejsze mieszkania.
 
-understand clearly this question, to which the Greeks attach such
+Książę rozmyślał, wreszcie rzekł:
 
-importance."
+— Rozumiem, że wyświadczacie wielką łaskę bezsilnym i bezbronnym cieniom, zaopatrując ich w ten sposób. Lecz... kto mi powie, że cienie istnieją...
 
-"We attach far more, the greatest importance to this question," replied
+O tym, że jest bezwodna pustynia — ciągnął książę — wiem, bo ją widzę, bom tonął w jej piaskach i doświadczyłem jej żarów. O tym, że są krainy, w których woda kamienieje, a para zamienia się na białe puchy, także wiem, bo mówili wiarogodni świadkowie...
 
-Mentezufis. "To this our cities of the dead testify; they occupy a
+Ale skąd wy wiecie o cieniach, których nikt nie widział, i o ich życiu pośmiertnym, skoro stamtąd nie wrócił żaden człowiek?
 
-whole region in the western desert. The pyramids testify to it also;
+— Mylisz się, wasza dostojność — odparł kapłan. — Cienie ukazywały się ludziom nieraz, a nawet opowiadały im swoje tajemnice.
 
-they are the tombs of the pharaohs of the ancient kingdom, and the
+Można mieszkać w Tebach dziesięć lat i nie widzieć deszczu; można żyć na ziemi sto lat i nie spotkać cienia. Ale kto by mieszkał przez setki lat w Tebach albo żył tysiące lat na ziemi, zobaczyłby niejeden deszcz i niejednego cienia!...
 
-immense tombs which are cut in cliffs for the rulers of our period.
+— A któż to żył tysiące lat?... — zapytał książę.
 
-"Burial and the tomb are of great importance the very greatest human
+— Żył, żyje i żyć będzie święty stan kapłański — odpowiedział Mentezufis. — On to przed trzydziestoma tysiącami lat osiedlił się nad Nilem, on przez ten czas badał niebo i ziemię, on stworzył naszą mądrość i nakreślił plany wszystkich pól, tam, kanałów, piramid i świątyń...
 
-importance. For while we live in bodily form fifty or a hundred years,
+— To prawda — przerwał książę. — Stan kapłański jest mądry i potężny, ale — gdzie są cienie?... Kto je widział i z nimi rozmawiał?...
 
-our shades endure tens of thousands till they are perfectly purified.
+— Wiedz o tym, panie — prawił Mentezufis — że cień jest w każdym żyjącym człowieku. A jak są ludzie odznaczający się ogromną siłą lub arcybystrym wzrokiem, tak są i tacy ludzie, którzy posiadają niezwykły dar, że — mogą za życia wydzielać swój własny cień...
 
-"The Assyrian barbarians laugh at us, saying that we give more to the
+Nasze tajemne księgi pełne są najwiarogodniejszych opowiadań w tej sprawie. Niejeden prorok umiał zapadać w sen podobny do śmierci. Wówczas jego cień oddzieliwszy się od ciała w jednej chwili przenosił się do Tyru, Niniwy, Babilonu, oglądał rzeczy potrzebne, przysłuchiwał się naradom obchodzącym nas i — po przebudzeniu się proroka — zdawał jak najdokładniejsze sprawozdanie. Niejeden zły czarownik również zasnąwszy wysyłał swój cień do domu nienawidzonego człowieka, a tam wywracał lub niszczył sprzęty i straszył całą rodzinę.
 
-dead than the living; but they would weep over their own lack of care
+Zdarzało się, że człowiek napastowany przez cienia czarnoksiężnika uderzał go włócznią lub mieczem. Wówczas w domu nawiedzanym ukazywały się krwawe ślady, a czarnoksiężnik miał na swym ciele tę właśnie ranę, którą zadano cieniowi.
 
-for the dead did they know the mystery of death and the tomb as do the
+Niejednokrotnie też cień żyjącego człowieka ukazywał się razem z nim, o kilka kroków od niego...
 
-priests of Egypt."
+— Znam ja takie cienie!... — szepnął ironicznie książę.
 
-The prince started up.
+— Muszę dodać — ciągnął Mentezufis — że nie tylko ludzie, ale — zwierzęta, rośliny, kamienie, budowle i sprzęty mają takie same cienie. Tylko (dziwna rzecz!) cień przedmiotu martwego nie jest martwy, ale posiada życie: rusza się, przesuwa się z miejsca na miejsce, nawet myśli i objawia to za pomocą rozmaitych znaków, najczęściej — pukania.
 
-"Thou dost terrify me," said he. "Dost forget that among the dead there
+Gdy człowiek umrze, cień jego żyje i ukazuje się ludziom. W naszych księgach zapisano tysiące podobnych wypadków. Jedne cienie upominały się o jadło, inne chodziły po mieszkaniu, pracowały w ogrodzie albo polowały w górach z cieniami swoich psów i kotów. Inne cienie straszyły ludzi, niszczyły ich majątek, wypijały ich krew, nawet pociągały żyjących do rozpusty... Bywały jednak cienie dobre: matki opiekujące się dziećmi, poległych żołnierzy ostrzegających o zasadzce nieprzyjacielskiej, kapłanów, którzy odkrywali nam ważne tajemnice.
 
-are two beings dear to me, and these are not buried according to
+Jeszcze za osiemnastej dynastii cień faraona Cheopsa (który pokutuje za ucisk ludu przy wznoszeniu piramidy dla siebie) ukazywał się w nubijskich kopalniach złota i litując się nad cierpieniami pracujących więźniów, wskazał im nowe źródło wody.
 
-Egyptian ritual."
+— Opowiadasz ciekawe rzeczy, święty mężu — odparł Ramzes — pozwól więc, że i ja ci coś powiem. Jednej nocy, w Pi-Bast, pokazano mi „mój cień”... Był zupełnie podobny do mnie i nawet tak ubrany jak ja. Wnet jednak przekonałem się, że to nie jest żaden cień, ale żywy człowiek, niejaki Lykon, nikczemny morderca mego syna...
 
-"On the contrary. Just now men are embalming them. Both Sarah and thy
+Występki swoje zaczął od tego, że straszył Fenicjankę Kamę. Wyznaczyłem nagrodę za schwytanie go... Ale nasza policja nie tylko nie pojmała go, lecz nawet pozwoliła mu wykraść tą samą Kamę i zabić niewinne dziecko.
 
-son will have everything which may profit them in the long journey."
+Dziś słyszę, że schwytano Kamę; ale o tym nędzniku nic nie wiem. Zapewne żyje na swobodzie zdrów, wesół i zasobny w skradzione skarby; może nawet sposobi się do nowej zbrodni!...
 
-"Will they?" asked Ramses, as if comforted.
+— Zbyt wiele osób ściga tego nikczemnika, ażeby w końcu nie został pojmany — rzekł Mentezufis. — A gdy raz wpadnie w nasze ręce, Egipt zapłaci mu za zgryzoty, jakie uczynił jego następcy tronu. Wierzaj mi, panie, możesz mu z góry przebaczyć wszystkie występki, kara bowiem odpowie ich wielkości.
 
-"I guarantee," answered Mentezufis, "that everything will be done which
+— Wolałbym go sam mieć w rękach — odparł książę. — Zawsze to niebezpieczna rzecz taki „cień” za życia!...
 
-is needed, and should this earthly life ever be unpleasant to thee Thou
+Nie bardzo zbudowany podobnym zakończeniem swego wykładu, święty Mentezufis pożegnał księcia. Po nim wszedł do namiotu Tutmozis, zawiadamiając, że Grecy już układają stos dla swojego wodza i że kilkanaście libijskich kobiet zgodziło się płakać w czasie pogrzebowego obchodu.
 
-wilt find them happy in the other."
+— Będziemy przy tym — odparł następca. — Czy wiesz, że zabito mego syna?... Takie małe dziecko!... Gdy nosiłem go, śmiał się i wyciągał do mnie rączki!... Niepojęta rzecz, ile nikczemności może pomieścić ludzkie serce! Gdyby ten podły Lykon targnął się na moje życie, jeszcze rozumiałbym, nawet przebaczył... Ale mordować dziecko...
 
-On hearing this Ramses was greatly affected.
+— A o poświęceniu Sary mówiono ci, panie? — spytał Tutmozis.
 
-"Then dost Thou think, holy man," inquired he, "that I shall find my
+— Tak. Zdaje mi się, że była to najwierniejsza z moich kobiet i że niesłusznie postąpiłem z nią... Ale jak to może być — zawołał książę, bijąc pięścią w stół — ażeby dotychczas nie schwytano nędznika Lykona?... Przysięgli mi na to Fenicjanie... obiecałem nagrodę naczelnikowi policji...
 
-son some time, and that I shall be able to say to that woman: 'Sarah, I
+W tym musi coś być!...
 
-know that I have been too harsh to thee?'"
+Tutmozis zbliżył się do księcia i szepnął:
 
-"I am as certain of it as that I see thee now, worthy lord," replied
+— Był u mnie posłaniec od Hirama, który obawiając się gniewu kapłanów kryje się, zanim opuści Egipt... Otóż Hiram podobno dowiedział się od naczelnika policji w Pi-Bast, że... Lykon został schwytany... Ale cicho!... — dodał wylękniony Tutmozis.
 
-the prophet.
+Książę na chwilę wpadł w gniew, lecz wnet się opanował.
 
-"Speak, speak of this!" exclaimed the prince. "A man does not think of
+— Schwytany?... — powtórzył. — Dlaczegóż ta tajemnica?...
 
-the grave till he has put a part of himself there. This misfortune has
+— Bo naczelnik policji musiał oddać go świętemu Mefresowi na jego rozkaz w imieniu najwyższej rady...
 
-struck me, and struck just when I thought myself more powerful than any
+— Aha... aha!... — powtarzał następca. — Zatem czcigodnemu Mefresowi i najwyższej radzie potrzebny jest człowiek tak bardzo podobny do mnie?... Aha!... Memu dziecku i Sarze mają sprawić piękny pogrzeb... balsamują ich zwłoki... Ale mordercę ukrywają w bezpiecznym miejscu... Aha!...
 
-save the pharaoh."
+I święty Mentezufis jest wielkim mędrcem. Opowiedział mi dziś wszystkie tajemnice zagrobowego życia, wytłumaczył mi cały pogrzebowy rytuał, jakbym ja sam był kapłanem co najmniej trzeciego stopnia... Ale o schwytaniu Lykona i o ukryciu tego zabójcy przez Mefresa ani wspomniał!... Widocznie święci ojcowie troskliwsi są o drobne sekreta następcy tronu aniżeli o wielkie tajemnice przyszłego życia... Aha!...
 
-"Thou hast inquired, lord," began Mentezufis, "as to the difference
+— Zdaje się, panie, że dziwić cię to nie powinno — wtrącił Tutmozis. — Wiesz, że kapłani już podejrzewają cię o niechęć i mają się na ostrożności... Tym więcej...
 
-between burning the dead and embalming them. We find the same
+— Co tym więcej?...
 
-difference that there is between destroying a garment and preserving it
+— Że jego świątobliwość jest bardzo chory. Bardzo...
 
-in a closet. When the garment is preserved it may be of use frequently;
+— Aha!... ojciec mój chory, a ja tymczasem na czele wojska muszę pilnować pustyni, ażeby z niej piaski nie uciekły... Dobrze, żeś mi to przypomniał!... Tak, jego świątobliwość musi być ciężko chory, gdyż kapłani są bardzo czuli dla mnie... Wszystko mi pokazują i o wszystkim mówią, wyjąwszy tego, że Mefres ukrył Lykona.
 
-and if a man has only one garment it would be madness to burn it."
+Tutmozis — rzekł nagle książę — czy i dziś sądzisz, że mogę rachować na wojsko?
 
-"I do not understand this," interrupted Ramses. "Ye do not explain it
+— Na śmierć pójdziemy, tylko rozkaż...
 
-even in the higher schools."
+— I za szlachtę ręczysz?...
 
-"But we can tell it to the heir of the pharaoh. Thou knowest,
+— Jak za wojsko.
 
-worthiness," continued the priest, "that a human being is composed of
-
-three parts: the body, the divine spark, and the shade, or Ka, which
-
-connects the body and the divine spark.
-
-"When a man dies his shade separates from his body as does the divine
-
-spark. If the man lives without sin the divine spark and the shade
-
-appear among the gods to live through eternity. But each man sins,
-
-stains himself in this world; therefore his shade, the Ka, must purify
-
-itself, for thousands of years sometimes. It purifies itself in this
-
-way, that being invisible it wanders over our earth among people and
-
-does good in its wandering, though the shades of criminals, even in
-
-life beyond the grave, commit offences, and at last destroy themselves
-
-and the divine spark contained in them.
-
-"Now and this is no secret for thee, worthiness this shade, the Ka, is
-
-like a man, but looks as though made of most delicate mist. The shade
-
-has a head, hands, body, it can walk, speak, throw things or carry
-
-them, it dresses like a man, and even, especially during a few hundred
-
-of the earlier years after death, must take some food at intervals. But
-
-the shade obtains its main strength from the body which remains on the
-
-earth here. Therefore if we throw a body into a grave it spoils quickly
-
-and the shade must satisfy itself with dust and decay. If we burn the
-
-body the shade has nothing but ashes with which to gain strength. But
-
-if we embalm the body, or preserve it for thousands of years the shade
-
-Ka is always healthy and strong; it passes the time of purification in
-
-calmness, and even agreeably."
-
-"Wonderful things!" whispered the heir.
-
-"Priests in the course of investigations during thousands of years have
-
-learned important details of life beyond the grave. They have convinced
-
-themselves that if the viscera are left in the body of a dead man, his
-
-shade, the Ka, has a great appetite, and needs as much food as a man
-
-during earthly existence, and if food is withheld it will rush at
-
-living people and suck the blood out of them. But if the viscera are
-
-removed from the body, as we remove them, the shade lives on without
-
-food almost: its own body, embalmed and filled with plants which are
-
-strongly fragrant, suffices it for millions of years.
-
-"It has been verified, also, that if the tomb of a dead man is empty
-
-the shade yearns for the world and wanders about in it needlessly. But
-
-if we place in a mortuary chapel the clothing, furniture, arms,
-
-vessels, utensils, things pleasant during life to the dead man, if the
-
-walls are covered with paintings depicting feasts, hunts, divine
-
-services, wars, and, in general, events in which the departed took
-
-share, if besides we add statues of members of his family, servants,
-
-horses, dogs and cattle, the shade will not go out to the world without
-
-need, for it will find what it wants in the house of the dead with its
-
-mummy.
-
-"Finally they have convinced themselves that many shades, even after
-
-penance is finished, could not enter regions of endless bliss since
-
-they know not the needful prayers, incantations, and conversations with
-
-gods. We provide for that by winding the mummies in papyruses, on which
-
-are written sentences, and by putting the 'Book of the Dead' in their
-
-coffins.
-
-"In one word, our funeral ritual assures strength to the shade,
-
-preserves it from misfortunes and yearnings after earth, facilitates
-
-its entrance to the company of gods, and secures living people from
-
-every harm which shades might inflict on them. Our great care of the
-
-dead has this in view specially; hence we erect for them almost palaces
-
-and in them dwellings with the greatest ornaments."
-
-The prince thought awhile, but said finally,
-
-"I understand that ye show great kindness to weak and defenseless
-
-shades by caring for them in this manner. But who will assure me that
-
-there are shades?"
-
-"That there is a waterless desert," said the priest, "I know, for I see
-
-it, I have sunk in its sands and felt heat in it. That there are
-
-countries in which water turns to stone, and steam into white down, I
-
-know also, for credible witnesses have informed me."
-
-"But how do ye know of shades which no man has seen, and how do ye know
-
-of their life after death since no one of them has ever returned to
-
-us?"
-
-"Thou art mistaken, worthiness," replied the priest. "Shades have shown
-
-themselves more than once, and even revealed their own secrets.
-
-"It is possible to live ten years in Thebes and not see rain: it is
-
-possible to live a hundred years on earth and not meet a shade. But
-
-whoso should live hundreds of years in Thebes, or live thousands of
-
-years on earth would see more than one rain, and more than one shade."
-
-"Who has lived thousands of years?" inquired Ramses.
-
-"The sacred order of priests has lived, is living, and will live,"
-
-replied Mentezufis. "The sacred order of priests settled on the Nile
-
-thirty thousand years ago. Since then it has scrutinized the heavens
-
-and the earth; it has created our wisdom, and made the plan of every
-
-field, sluice, canal, pyramid, and temple in Egypt."
-
-"That is true. The order of priests is mighty and wise, but where are
-
-the shades? What man has seen them, and who is the person who has
-
-spoken to them?"
-
-"Know this, lord," said Mentezufis. "There is a shade in each living
-
-man; as there are people distinguished for immense strength, or a
-
-marvelous swiftness of vision, so there are men who possess the
-
-uncommon gift that during life they can separate their own shades from
-
-their bodies.
-
-"Our secret books are filled with the most credible narratives touching
-
-this subject. More than one prophet has been able to fall into a sleep
-
-that is deathlike. At that time his shade separated from the body and
-
-transferred itself in a moment to Tyre, Babylon, or Nineveh, examined
-
-what it wished, listened to counsels relating to us, and after the
-
-awakening of the prophet gave the most minute account of all that it
-
-had witnessed. More than one evil magician, after falling asleep in
-
-like fashion, has sent out his shade against a man whom he hated, and
-
-overturned or destroyed furniture and terrified a whole household.
-
-"It has happened, too, that the man attacked by the shade of the
-
-magician struck the shade with a spear or a sword, and on his house
-
-bloody traces were left, while the magician received on his body that
-
-wound exactly which was inflicted on his shade.
-
-"More than once also has a shade of a living man appeared in company
-
-with him, but some steps distant."
-
-"I know such shades," said the prince ironically.
-
-"I must add," continued Mentezufis, "that not only people, but animals,
-
-plants, stones, buildings, and utensils have shades also. But a
-
-wonderful thing the shade of an inanimate object is not dead, it
-
-possesses life, moves, goes from place to place, it even thinks and
-
-expresses thought through various signs, most frequently through
-
-knocking.
-
-"When a man dies his shade lives and shows itself to people. In our
-
-books thousands of such cases are noted; some shades asked for food,
-
-others walked about in houses, worked in a garden, or hunted in the
-
-mountains with the shades of their dogs and cats with them. Other
-
-shades have frightened people, destroyed their property, drunk their
-
-blood, even enticed living persons to excesses. But there are good
-
-shades: those of mothers nursing their children, of soldiers, fallen in
-
-battle, who give warning of an ambush of an enemy, of priests who
-
-reveal important secrets.
-
-"In the eighteenth dynasty the shade of the pharaoh, Cheops, who was
-
-doing penance for oppressing people while building the great pyramid,
-
-appeared in Nubian gold mines, and in compassion for the sufferings of
-
-toiling convicts showed them a new spring of water."
-
-"Thou tellest curious things, holy man," replied Ramses; "let me now
-
-tell thee something. One night in Pi-Bast my own shade appeared to me.
-
-That shade was just like me, and even dressed like me. Soon, however, I
-
-convinced myself that it was no shade. It was a living man, a certain
-
-Lykon, the vile murderer of my son. He began his offences by
-
-frightening the Phoenician woman Kama. I appointed a reward for seizing
-
-him but our police not only did not seize the man, they even permitted
-
-him to seize that same Kama and to slay a harmless infant.
-
-"Today I hear that they have captured Kama, but I know nothing of
-
-Lykon. Of course he is living in freedom, in good health, cheerful and
-
-rich through stolen treasures; may be making ready for new crimes
-
-even."
-
-"So many persons are pursuing that criminal that he must be taken at
-
-last," said Mentezufis. "And if he falls into our hands Egypt will pay
-
-him for the sufferings which he has caused the heir to her throne.
-
-Believe me, lord, Thou mayst forgive all his crimes in advance, for the
-
-punishment will be in accord with their greatness."
-
-"I should prefer to have him in my own hands," said the prince. "It is
-
-always dangerous to have such a 'shade' while one is living."   [It is
-
-curious that the theory of shades, on which very likely the uncommon
-
-care of the Egyptians for the dead was built, has revived in our times
-
-in Europe. Adolf d'Assier explains it minutely in a pamphlet "Essai sur
-
-l'humanite posthume et le spiritisme, par un positiviste." ]
-
-Not greatly pleased by this end of his explanation, the holy Mentezufis
-
-took leave of the viceroy. After the priest had gone, Tutmosis entered.
-
-"The Greeks are raising the pile for their chief," said he, "and a
-
-number of Libyan women have agreed to wail at the funeral ceremony."
-
-"We shall be present," answered Ramses. "Dost Thou know that my son is
-
-killed? such a little child. When I carried him he laughed and held out
-
-his little hands to me. What wickedness may be in the human heart is
-
-beyond comprehension. If that vile Lykon had attempted my life I could
-
-understand, even forgive him. But to slay a little child."
-
-"But have they told thee of Sarah's devotion?" inquired Tutmosis.
-
-"She was, as I think, the most faithful of women, and I did not treat
-
-her justly. But how is it," cried the prince, striking his fist on the
-
-table, "that they have not seized that wretch Lykon to this moment? The
-
-Phoenicians swore to me, and I promised a reward to the chief of
-
-police. There must be some secret in this matter."
-
-Tutmosis approached the prince, and whispered,
-
-"A messenger from Hiram has been with me. Hiram, fearing the anger of
-
-the priests, is hiding before he leaves Egypt. Hiram has heard, from
-
-the chief of police in PiBast perhaps, that Lykon was captured But
-
-quiet!" added the frightened Tutmosis.
-
-The prince fell into anger for a moment, but soon mastered himself.
-
-"Captured?" repeated he. "Why should that be a secret?"
-
-"It is, for the chief of police had to yield him up to the holy Mefres
-
-at his command in the name of the supreme council."
-
-"Aha! aha!" repeated the heir. "So the revered Mefres and the supreme
-
-council need a man who resembles me so much? Aha! They are to give my
-
-son and Sarah a beautiful funeral, and embalm their remains. But the
-
-murderer they will secrete safely. Aha!
-
-"And the holy Mentezufis is a great sage. He told me today all the
-
-secrets of life beyond the grave; he explained to me the whole funeral
-
-ritual, as if I were a priest at least of the third degree. But
-
-touching the seizure of Lykon, the hiding of that murderer by Mefres,
-
-not a word! Evidently the holy fathers are more occupied by minute
-
-secrets of the heir to the throne than with the great secrets of future
-
-existence. Aha!"
-
-"It seems to me, lord, that Thou shouldst not wonder at that,"
-
-interrupted Tutmosis. "Thou knowest that the priests suspect thee of
-
-ill-will, and are on their guard. All the more."
-
-"What, all the more?"
-
-"Since his holiness is very ill. Very."
-
-"Aha! my father is ill, and I meanwhile at the head of the army must
-
-watch the desert lest the sand should run out of it. It is well that
-
-Thou hast reminded me of this! Yes, his holiness must be very ill,
-
-since the priests are so tender toward me. They show me everything and
-
-speak of everything, except this, that Mefres has secreted Lykon."
-
-"Tutmosis," said the prince on a sudden, "dost Thou think today that I
-
-can reckon on the army?"
-
-"We will go to death, only give the order."
-
-"And dost Thou reckon on the nobles?"
-
-"As on the army."
-
-"That is well. Now we may render the rites to Patrokles."
+— Dobrze — odparł następca. — Możemy teraz oddać ostatnią usługę Patroklesowi.

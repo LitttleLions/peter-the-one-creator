@@ -1,797 +1,394 @@
-# Kapitel 25: CHAPTER XXV
+# Kapitel 025: Tom I - Rozdział XXV
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part29.xhtml*
 
 <!-- status: pending -->
 
-THAT same day, in Memphis, Dagon the Phoenician, the viceroy's worthy
+Tego samego dnia, w Memfisie, Fenicjanin Dagon, dostojny bankier następcy tronu, leżał na kanapie pod werendą swego pałacu. Otaczały go wonne krzaki iglaste, hodowane w wazonach. Dwaj czarni niewolnicy chłodzili bogacza wachlarzami, a on, bawiąc się młodą małpką, słuchał rachunków, które czytał mu jego pisarz.
 
-banker, lay on a couch under the veranda of his mansion. Around him
+W tej chwili niewolnik, uzbrojony w miecz, hełm, włócznię i tarczę (bankier lubił wojskowe ubiory), zameldował dostojnego Rabsuna, który był kupcem fenickim osiadłym w Memfis.
 
-were fragrant potted bushes with needle-like leaves. Two black slaves
+Gość wszedł, nisko kłaniając się, i w ten sposób opuścił powieki, że dostojny Dagon rozkazał pisarzowi i niewolnikom, ażeby wynieśli się spod werendy. Następnie, jako człowiek przezorny, obejrzał wszystkie kąty i rzekł do gościa:
 
-cooled the rich man with fans, and he, while playing with a young ape,
+— Możemy gadać.
 
-was listening to accounts read by his scribe to him.
+Rabsun zaczął bez wstępu:
 
-At that moment a slave with a sword, helmet, dart, and shield (the
+— Czy dostojność wasza wie, że przyjechał z Tyru książę Hiram?...
 
-banker loved military dress), announced the worthy Rabsun, a Phoenician
+Dagon podskoczył na kanapie.
 
-merchant then settled in Memphis.
+— Niech na niego i jego księstwo trąd padnie!... — wrzasnął.
 
-The guest entered, bowed profoundly, and dropped his eyelids in such
+— On mi właśnie wspomniał — ciągnął spokojnie gość — że między wami jest nieporozumienie...
 
-fashion that Dagon commanded the scribe and the slaves to withdraw from
+— Co to jest nieporozumienie?... — krzyczał Dagon. — Ten rozbójnik okradł mnie, zniszczył, zrujnował... Kiedy ja posłałem moje statki, za innymi tyryjskimi, na zachód po srebro, sternicy łotra Hirama rzucali na nie ogień, chcieli je zepchnąć na mieliznę... No, i moje okręty wróciły z niczym, opalone i potrzaskane... Żeby jego spalił ogień niebieski!... — zakończył rozwścieczony bankier.
 
-the veranda. Then, as a man of foresight, he surveyed every corner, and
+— A jeżeli Hiram ma dla waszej dostojności dobry interes? — spytał gość flegmatycznie.
 
-said to the visitor,
+Burza szalejąca w piersiach Dagona od razu ucichła.
 
-"We may talk."
+— Jaki on może mieć dla mnie interes? — rzekł zupełnie spokojnym głosem.
 
-Rabsun began without prelude,
+— On to sam powie waszej dostojności, ale przecież pierwej musi zobaczyć się z wami.
 
-"Dost thou know, worthiness, that Prince Hiram has come from Tyre?"
+— No, to niech on tu przyjdzie.
 
-Dagon sprang up from the couch.
+— On myśli, że wasza dostojność powinna przyjść do niego. Przecie on jest członkiem najwyższej rady w Tyrze.
 
-"May the leprosy seize him and his princeship!" shouted the banker.
+— Żeby on tak zdechł, jak ja do niego pójdę!... — krzyknął znowu rozgniewany bankier.
 
-"He has just reminded me," continued the guest, calmly, "that there is
+Gość przysunął krzesło do kanapy i poklepał bogacza w udo.
 
-a misunderstanding between him and thee."
+— Dagonie — rzekł — miej ty rozum.
 
-"What misunderstanding?" cried Dagon. "That thief has robbed,
+— Dlaczego ja nie mam rozumu i dlaczego ty, Rabsun, nie mówisz do mnie — dostojność?...
 
-destroyed, ruined me. When I sent my ships after other Tyrian vessels
+— Dagon, nie bądź ty głupi!... — reflektował gość. — Jeżeli ty nie pójdziesz do niego ani on do ciebie, to jakże wy zrobicie interes?
 
-to the west for silver, the helmsmen of that thief Hiram cast fire on
+— Ty jesteś głupi, Rabsun! — znowu wybuchnął bankier. — Bo gdybym ja poszedł do Hirama, to, niech mi ręka uschnie, że straciłbym na tej grzeczności połowę zarobku.
 
-them, tried to push them into a shallow. Well, my ships came back
+Gość pomyślał i odparł:
 
-empty, burnt, and shattered. May the fire of heaven burn him!"
+— Teraz rzekłeś mądre słowo. Więc ja tobie coś powiem. Przyjdź do mnie i Hiram przyjdzie do mnie, i wy obaj u mnie obgadacie ten interes.
 
-concluded the raging banker.
+Dagon przechylił głowę i przymrużywszy oko filuternie zapytał:
 
-"But if Hiram has for thee a profitable business?" inquired the guest,
+— Ej, Rabsun!... Powiedz od razu: ile on tobie dał?
 
-stolidly.
+— Za co?...
 
-The storm raging in Dagon's breast ceased on a sudden.
+— Za to, że ja przyjdę do ciebie i z tym parchem będę robił interes?...
 
-"What business can he offer me?" asked the banker, with a voice now
+— To jest interes dla całej Fenicji, więc ja na nim zarobku nie potrzebuję — odparł oburzony Rabsun.
 
-calmed completely.
+— Żeby się tobie tak dłużnicy wypłacali, jak to prawda!
 
-"He will tell this himself, but first he must see thee."
+— Żeby mi się nie wypłacili, jeżeli ja co na tym zarobię! Niech tylko Fenicja nie straci! — zakrzyczał z gniewem Rabsun.
 
-"Well, let him come to me."
+Pożegnali się.
 
-"He thinks that Thou shouldst go to him. He, as is known to thee, is a
+Nad wieczorem dostojny Dagon wsiadł w lektykę niesioną przez sześciu niewolników. Poprzedzali go dwaj laufrowie z kijami i dwaj z pochodniami; zaś za lektyką szło czterech służących uzbrojonych od stóp do głów. Nie dla bezpieczeństwa, lecz że Dagon od pewnego czasu lubił otaczać się zbrojnymi jak rycerz.
 
-member of the chief council of Tyre."
+Wysiadł z lektyki z wielką powagą i podtrzymywany przez dwu ludzi (trzeci niósł nad nim parasol) wszedł do domu Rabsuna.
 
-"He will perish before I go to him," cried the banker, enraged a second
+— Gdzież jest ten... Hiram? — zapytał dumnie gospodarza.
 
-time.
+— Nie ma go.
 
-The guest drew an armchair to the couch, and slapped Dagon's thigh.
+— Jak to?... więc ja będę czekał na niego?
 
-"Dagon," said he, "have sense."
+— Nie ma go w tym pokoju, ale jest w trzecim, u mojej żony — odparł gospodarz. — On teraz składa wizytę mojej żonie.
 
-"Why have I not sense, and why dost thou, Rabsun, not say to me
+— Ja tam nie pójdę!... — rzekł bankier, siadając na kanapie.
 
-worthiness?"
+— Pójdziesz do drugiego pokoju, a on w tej samej chwili także tam wejdzie.
 
-"Dagon, be not foolish!" answered the guest. "If Thou wilt not go to
+Po krótkim oporze Dagon ustąpił, a w chwilę później, na znak gospodarza domu, wszedł do drugiej komnaty. Jednocześnie z dalszych pokojów wysunął się niewysoki człowiek z siwą brodą, ubrany w złocistą togę i złotą obręcz na głowie.
 
-him and he will not come to thee, how will ye do business?"
+— Oto jest — rzekł gospodarz stojąc na środku — oto jest jego miłość książę Hiram, członek najwyższej rady tyryjskiej... Oto jest dostojny Dagon, bankier księcia następcy tronu i namiestnika w Dolnym Egipcie.
 
-"Thou art foolish, Rabsun!" burst out Dagon again. "Before I go to
+Dwaj dostojnicy ukłonili się sobie z założonymi na piersiach rękoma i usiedli przy oddzielnych stolikach, na środku sali. Hiram nieco odsunął togę, aby ukazać wielki złoty medal na swej szyi, w odpowiedzi na co Dagon zaczął bawić się grubym złotym łańcuchem, który otrzymał od księcia Ramzesa.
 
-Hiram let my hand wither; with that politeness I should lose half the
+— Ja, Hiram — odezwał się starzec — pozdrawiam pana, panie Dagon, życzę panu dużego majątku i powodzenia w interesach.
 
-profit."
+— Ja, Dagon, pozdrawiam pana, panie Hiram, i życzę panu tego samego, co pan mnie życzy...
 
-The guest thought awhile.
+— Już się pan chcesz kłócić?... — przerwał zirytowany Hiram.
 
-"Now Thou hast uttered a wise word," said he; "so I will tell thee
+— Gdzie ja się kłócę?... Rabsun, ty powiedz, czy ja się kłócę?...
 
-something. Come to me and Hiram will come also; ye can talk of that
+— Lepiej niech wasze dostojności mówią o interesach — odparł gospodarz.
 
-business in my house."
+Po chwili namysłu Hiram zaczął:
 
-Dagon bent his head, and half closing his eyes, inquired roguishly,
+— Przyjaciele pańscy z Tyru bardzo pozdrawiają pana przeze mnie.
 
-"Ei, Rabsun! Tell outright how much did he give thee?"
+— Oni tylko to przysłali mi? — spytał drwiącym tonem Dagon.
 
-"For what?"
+— Co pan chcesz, żeby oni panu przysyłali?... — odparł Hiram, podnosząc głos.
 
-"For this, that I should come to thy house and transact business with
+— Cicho!... Zgoda!... — wtrącił gospodarz.
 
-him, the mangy scoundrel."
+Hiram kilka razy głębiej odetchnął i rzekł:
 
-"This business interests all Phoenicia, so I need no profit on it,"
+— To prawda, że nam potrzebna zgoda... Ciężkie czasy nadchodzą dla Fenicji...
 
-replied the indignant Rabsun.
+— Czy morze zatopiło wam Tyr albo Sydon?... — spytał z uśmiechem Dagon.
 
-"That is as true as that all thy debtors will pay thee."
+Hiram splunął i zapytał:
 
-"May they fail to pay me if I make anything in this! Only let not
+— Coś pan taki zły dzisiaj?...
 
-Phoenicia lose!" cried Rabsun, in anger.
+— Ja zawsze jestem zły, jak mnie nie nazywają — dostojnością...
 
-They took farewell of each other.
+— A dlaczego pan nie nazywasz mnie — miłością?... Ja przecie jestem książę!...
 
-Toward evening the worthy Dagon seated himself in a litter carried by
+— Może w Fenicji — odparł Dagon. — Ale już w Asyrii u lada satrapy czekasz pan w sieniach trzy dni na posłuchanie, a kiedy cię przyjmą, leżysz na brzuchu jak każdy handlarz fenicki.
 
-six slaves. He was preceded by two outrunners with staffs, and two with
+— A pan co byś robił wobec dzikiego człowieka, który może pana na pal wbić?... — zakrzyczał Hiram.
 
-torches; behind the litter went four men armed from head to foot. Not
+— Co ja bym robił, nie wiem — rzekł Dagon. — Ale w Egipcie ja sobie siedzę na jednej kanapie z następcą tronu, który dziś jest namiestnikiem.
 
-for security, but because for a certain time Dagon loved to surround
+— Zgoda, wasza dostojność!... Zgoda, wasza miłość!... — reflektował ich gospodarz.
 
-himself with armed men, like a noble.
+— Zgoda!... zgoda, że ten pan jest zwyczajny fenicki handlarz, a mnie nie chce oddać szacunku... — zawołał Dagon.
 
-He came out of the litter with great importance, supported by two men;
+— Ja mam sto okrętów!... — wrzasnął Hiram.
 
-a third carried a parasol over him. He entered Rabsun's house.
+— A jego świątobliwość faraon ma dwadzieścia tysięcy miast, miasteczek i osad...
 
-"Where is that Hiram?" inquired he, haughtily.
+— Wasze dostojności utopicie ten interes i całą Fenicję!... — odezwał się już podniesionym głosem Rabsun.
 
-"He is not here?"
+Hiram zacisnął pięści, lecz umilkł i odpoczął.
 
-"How is this? Must I wait for him, then?"
+— Musisz jednak przyznać, wasza dostojność — rzekł po chwili do Dagona — że z tych dwudziestu tysięcy miast jego świątobliwość niewiele ma naprawdę.
 
-"He is not in this room, but he is in the third one talking with my
+— Chcesz powiedzieć, wasza miłość — odparł Dagon — że siedm tysięcy miast należy do świątyń i siedm tysięcy do wielkich panów?... Zawsze jednak jego świątobliwości zostaje siedm tysięcy na czysto...
 
-wife," answered the host. "He is making a visit to my wife."
+— Nie bardzo! Bo jak z tego wasza dostojność odejmiesz ze trzy tysiące, które są w zastawie u kapłanów, i ze dwa tysiące w dzierżawie u naszych Fenicjan...
 
-"I will not go there!" said the banker, sitting down on a couch.
+— Mówi prawdę wasza miłość — rzekł Dagon. — Zawsze jednak jego świątobliwości zostaje ze dwa tysiące miast bardzo bogatych...
 
-"Thou wilt go to the next chamber, and he will enter it at the same
+— Czy was Tyfon opętał?... — wrzasnął z kolei Rabsun. — Będziecie teraz wyliczali miasta faraona, bodajby go...
 
-time with thee."
+— Psyt!... — szepnął Dagon, zrywając się z krzesła.
 
-After a short resistance Dagon yielded, and a moment later, at a sign
+— Kiedy nad Fenicją wisi nieszczęście!... — dokończył Rabsun.
 
-from the master of the house, he entered the second chamber. At the
+— Niechże ja się raz dowiem, jakie nieszczęście?... — przerwał Dagon.
 
-same time from distant apartments appeared a man, not of tall stature,
+— Więc daj mówić Hiramowi, to się dowiesz — odparł gospodarz.
 
-with gray beard, dressed in a gold-embroidered toga, and with a gold
+— Niech gada...
 
-band on his head.
+— Czy wasza dostojność wiesz, co się stało w zajeździe „Pod Okrętem”, u brata naszego, Asarhadona?... — zaczął Hiram.
 
-"This is," said the host, standing in the middle of the room, "his
+— Nie mam braci pomiędzy szynkarzami!... — wtrącił szyderczo Dagon.
 
-grace Prince Hiram, a member of the supreme council of Tyre. This is
+— Milcz!... — wrzasnął rozgniewany Rabsun i schwycił za rękojeść sztyletu. — Jesteś głupi jak pies, który szczeka przez sen...
 
-the worthy Dagon, banker of the heir to the throne, and viceroy of
+— Czego on się gniewa, ten... ten handlujący kośćmi?... — odparł Dagon i również sięgnął do noża.
 
-Lower Egypt."
+— Cicho!... Zgoda!... — uspakajał ich sędziwy książę i także opuścił suchą rękę do pasa.
 
-The two dignitaries bowed, each with his hand on his breast, and both
+Przez chwilę wszystkim trzem drżały nozdrza i błyszczały oczy. Wreszcie Hiram, który uspokoił się najpierwej, zaczął znowu, jakby nigdy nic nie zaszło.
 
-sat down on stools in the middle of the chamber. Hiram pushed aside his
+— Parę miesięcy temu stanął w zajeździe Asarhadona niejaki Phut, z miasta Harranu...
 
-toga somewhat in order to show the great gold medal on his breast; in
+— Miał odebrać pięć talentów od jakiegoś kapłana — wtrącił Dagon.
 
-answer to this Dagon began to toy with a large gold chain which he had
+— Cóż dalej? — spytał Hiram.
 
-received from Prince Ramses.
+— Nic. Znalazł łaskę u jednej kapłanki i za jej radą pojechał szukać swego wierzyciela do Tebów.
 
-"I, Hiram," said the old man, "congratulate thee, Lord Dagon. I wish
+— Masz rozum dziecka, a gadatliwość kobiety — rzekł Hiram. — Ten harrańczyk nie jest harrańczykiem, ale Chaldejczykiem, i nie nazywa się Phut, ale Beroes...
 
-thee much property, and success in thy business."
+— Beroes?... Beroes?... — powtórzył przypominając sobie Dagon. — Gdzieś słyszałem to nazwisko...
 
-"I, Dagon, congratulate thee, Lord Hiram, and I wish thee the same as
+— Słyszałeś!... — mówił z pogardą Hiram. — Beroes to najmędrszy kapłan w Babilonie, doradca książąt asyryjskich i samego króla...
 
-Thou wishest me."
+— Niech on będzie doradcą, byle nie faraona, co mnie to obchodzi?... — rzekł bankier.
 
-"Dost Thou desire to dispute?" interrupted Hiram, irritated.
+Rabsun podniósł się z krzesła i grożąc Dagonowi pięścią pod nosem, zawołał:
 
-"How dispute? Rabsun, say if I am disputing."
+— Ty wieprzu, wypasiony na faraońskich pomyjach... Ciebie Fenicja tyle obchodzi co mnie Egipt... Gdybyś mógł, za drachmę sprzedałbyś ojczyznę... Psie trędowaty!
 
-"Better talk of business, your worthinesses," replied the host.
+Dagon zbladł i odparł spokojnym głosem:
 
-After a moment of thought Hiram proceeded,
+— Co gada ten kramarz?... W Tyrze są moi synowie i uczą się żeglarstwa; w Sydonie siedzi moja córka z mężem... Połowę mego mienia pożyczyłem radzie najwyższej, choć nie mam za to nawet dziesięciu procent. A ten kramarz mówi, że mnie nie obchodzi Fenicja!...
 
-"Thy friends in Tyre congratulate thee greatly through me."
+Rabsun, posłuchaj mnie — dodał po chwili. — Ja życzę twojej żonie i dzieciom, i cieniom twoich ojców, ażebyś ty o nich tyle dbał, ile ja o każdy okręt fenicki, o każdy kamień Tyru, Sydonu, a nawet Zarpath i Achsibu
 
-"Is that all they have sent me?" asked Dagon, in reviling accents.
+— Dagon mówi prawdę — wtrącił Hiram.
 
-"What didst Thou wish?" inquired Hiram, raising his voice.
+— Ja nie dbam o Fenicję!... — ciągnął bankier, zapalając się. — A ilu ja sprowadziłem tu Fenicjan, ażeby robili majątki, i — co mam z tego?... Ja nie dbam!... Hiram zepsuł mi dwa okręty i pozbawił mnie wielkich zarobków, a przecie, kiedy chodzi o Fenicję, ja usiadłem z nim w jednym pokoju...
 
-"Quiet! Concord!" put in the host.
+— Bo myślałeś, że będziecie gadali o tym, ażeby kogo oszukać — rzekł Rabsun.
 
-Hiram sighed a number of times deeply, and said,
+— Żebyś ty tak myślał o skonaniu, głupi!... — odparł Dagon. — Niby ja jestem dziecko i niby nie rozumiem, że jak Hiram przyjeżdża do Memfisu, to przecie on nie dla handlu przyjeżdża. Oj, ty Rabsun!... Tyś powinien ze dwa lata być u mnie chłopcem do zamiatania stajni...
 
-"It is true that we need concord. Evil times are approaching
+— Dosyć!... — zawołał Hiram, uderzając pięścią w stolik.
 
-Phoenicia."
+— My nigdy nie skończymy z tym kapłanem chaldejskim — mruknął Rabsun z takim spokojem, jakby przed chwilą nie jego zwymyślano.
 
-"Has the sea flooded Tyre and Sidon?" asked Dagon, smiling.
+Hiram odchrząknął i zaczął.
 
-Hiram spat, and inquired,
+— Ten człowiek ma naprawdę dom i grunta w Harranie i tam nazywa się Phut. Dostał listy od kupców chetyjskich do kupców sydońskich, więc w podróż zabrała go nasza karawana. Sam dobrze mówi po fenicku, płaci rzetelnie, nic osobliwego nie żąda, więc nasi ludzie nawet bardzo go polubili.
 
-"Why art Thou so ill-tempered today?"
+Ale — mówił Hiram podrapawszy się w brodę — gdy lew nakryje się skórą wołu, zawsze mu choćby kawałek ogona wylezie. Ten Phut był strasznie mądry i pewny siebie; więc naczelnik karawany po cichu zrewidował jego rzeczy. I nic nie znalazł, tylko medal bogini Astoreth. Dowódcę karawany medal ten kolnął w serce. Skąd Chetyjczyk ma fenicki medal?...
 
-"I am always ill-tempered when men do not call me worthiness."
+Więc gdy przyjechali do Sydonu, zaraz zameldował starszym, i od tej pory nasza tajna policja miała tego Phuta na oku.
 
-"But why dost Thou not say grace to me? I am a prince."
+Tymczasem jest to taki mędrzec, że gdy kilka dni posiedział w Sydonie, wszyscy go pokochali. Modlił się on i składał ofiary bogini Astoreth, płacił złotem, nie pożyczał pieniędzy, wdawał się tylko z Fenicjanami. I tak wszystkich otumanił, że dozór nad nim osłabł, a on spokojnie dojechał do Memfisu.
 
-"Perhaps in Phoenicia. But in Assyria Thou wouldst wait three days in
+Tu znowu nasza starszyzna zaczęła czuwać nad nim, ale nic nie odkryła; domyślała się tylko, że musi to być wielki pan, nie zaś prosty mieszczanin harrański. Dopiero Asarhadon przypadkiem wyśledził, a nawet nie wyśledził, tylko wpadł na poszlaki, że ten niby Phut całą jedną noc przepędził w starej świątyni Seta, która tu wiele znaczy...
 
-the forecourt of any satrap for an audience, and when he deigned to
+— Wchodzą do niej tylko arcykapłani na ważne narady — wtrącił Dagon.
 
-receive thee Thou wouldst be lying on thy belly, like any Phoenician
+— Jeszcze i to nic by nie znaczyło — prawił Hiram. — Ale jeden z naszych kupców wrócił miesiąc temu z Babilonu z dziwnymi wiadomościami. Za wielki prezent pewien dworzanin babilońskiego satrapy powiedział mu, że nad Fenicją — wisi bieda!...
 
-merchant."
+„Was zabiorą Asyryjczycy — mówił ten dworzanin do naszego kupca — a Izraelitów wezmą Egipcjanie. W tym interesie nawet pojechał do tebańskich kapłanów wielki chaldejski kapłan Beroes i zawrze z nimi traktat.”
 
-"But what couldst Thou do in presence of a wild man who would perhaps
+Musicie wiedzieć — ciągnął Hiram — że kapłani chaldejscy uważają egipskich za swoich braci. A że Beroes ma wielkie znaczenie na dworze króla Assara, więc wieść o tym traktacie może być bardzo prawdziwa.
 
-impale thee on a stake?" inquired Hiram.
+— Na co Asyryjczykom Fenicja?... — zapytał Dagon, gryząc paznogcie.
 
-"What I would do, I know not. But in Egypt I sit on one sofa with the
+— A na co złodziejowi cudzy spichlerz?... — odparł Hiram.
 
-heir to the throne, who today is viceroy."
+— Co może znaczyć traktat Beroesa z egipskimi kapłanami?... — wtrącił zamyślony Rabsun.
 
-"Concord, worthiness! Concord, grace!" said the host.
+— Głupi ty!... — odparł Dagon. — Faraon robi tylko to, co kapłani uradzą.
 
-"Concord! concord, because this man is a common Phoenician merchant,
+— Będzie i traktat z faraonem, nie bójcie się! — przerwał Hiram. — W Tyrze wiemy na pewno, że jedzie do Egiptu z wielką świtą i darami poseł asyryjski — Sargon... On niby to chce zobaczyć Egipt i ułożyć się z ministrami, ażeby w egipskich aktach nie pisano jako — Asyria płaci daninę faraonom. Ale naprawdę to on jedzie zawrzeć traktat o podział krajów leżących między naszym morzem a rzeką Eufratem.
 
-and is unwilling to render me respect," cried out Dagon.
+— Oby ich ziemia pochłonęła! — zaklął Rabsun.
 
-"I have a hundred ships!" shouted Hiram.
+— Cóż ty o tym myślisz, Dagonie?... — spytał Hiram.
 
-"And his holiness has twenty thousand cities, towns, and villages."
+— A co byście wy zrobili, gdyby was naprawdę napadł Assar?...
 
-"Your worthinesses are destroying this business and all Phoenicia,"
+Hiram zatrząsł się z gniewu.
 
-said Rabsun, with a voice which was loud now.
+— Co?... Wsiądziemy na okręty z rodzinami i skarbami, a tym psom zostawimy gruzy miast i gnijące trupy niewolników... Alboż nie znamy krain większych i piękniejszych od Fenicji, gdzie można założyć nową ojczyznę, bogatszą aniżeli ta?...
 
-Hiram balled his fists, but was silent.
+— Niech was bogowie bronią od takiej ostateczności — rzekł Dagon.
 
-"Thou must confess, worthiness," said he, after a while, "that of those
+— Właśnie o to idzie, ażeby ratować dzisiejszą Fenicję od zagłady — mówił Hiram. — A ty, Dagonie, wiele możesz w tym interesie...
 
-twenty thousand towns his holiness owns few in reality."
+— Co ja mogę?...
 
-"Thou wishest to say, grace," answered Dagon, "that seven thousand
+— Możesz dowiedzieć się od kapłanów: czy był u nich Beroes i czy zawarł z nimi taką umowę?..
 
-belong to the temples, and seven thousand to great lords. Still six
+— Strasznie trudna rzecz! — szepnął Dagon. — Ale może ja znajdę takiego kapłana, który mnie objaśni.
 
-thousand belong clearly to his holiness."
+— Możesz — ciągnął Hiram — na dworze faraona nie dopuścić traktatu z Sargonem?...
 
-"Not altogether! For when Thou takest, worthiness, about three thousand
+— Bardzo trudno... Ja sam temu nie wydołam...
 
-which are mortgaged to the priests, and two thousand which are rented
+— Ja będę z tobą, a złota dostarczy Fenicja. Już dziś zbiera się podatek.
 
-to our Phoenicians."
+— Sam dałem dwa talenty! — szepnął Rabsun.
 
-"Thou speakest the truth, grace," said Dagon. "But there remain always
+— Dam dziesięć — rzekł Dagon. — Ale co dostanę za moją pracę?...
 
-to his holiness about two thousand very rich cities."
+— Co?... No, dziesięć okrętów — odparł Hiram.
 
-"Has Typhon possessed thee?" roared Rabsun, in his turn. "Wilt Thou go
+— A ty ile zarobisz? — spytał Dagon.
 
-now to counting the cities of the pharaoh, may he."
+— Mało ci?... Więc dostaniesz piętnaście...
 
-"Pst!" whispered Dagon, springing up.
+— Ja się pytam: co ty zarobisz? — nalegał Dagon.
 
-"When misfortune is hanging over Phoenicia" finished Rabsun.
+— Damy ci... dwadzieścia. Dosyć?...
 
-"Let me but know what the misfortune is," interrupted Dagon.
+— Niech będzie. Ale pokażecie mi drogę do kraju srebra?
 
-"Then let Hiram speak and Thou wilt know."
+— Pokażemy.
 
-"Let him speak."
+— I tam, skąd bierzecie cynę?
 
-"Dost Thou know, worthiness, what happened in the inn 'Under the Ship'
+— No...
 
-to our brother Asarhadon?" began Hiram.
+— I tam, gdzie rodzi się bursztyn — zakończył Dagon.
 
-"I have no brothers among innkeepers," interrupted Dagon, sneeringly.
+— Żebyś ty raz zdechł!... — odparł miłościwy książę Hiram, wyciągając do niego rękę. — Ale już nie będziesz chował złego serca dla mnie za tamte dwie krypy?...
 
-"Be silent!" screamed Rabsun, in anger; and he grasped the hilt of his
+Dagon westchnął.
 
-dagger. "Thou art as dull as a dog barking in sleep."
+— Będę pracował, ażeby zapomnieć. Ale... jaki ja miałbym majątek, gdybyście mnie nie odpędzili wtedy!...
 
-"Why is he angry, that that dealer in bones?" inquired Dagon; and he
+— Dosyć! — wtrącił Rabsun. — Gadajcie o Fenicji.
 
-reached for his knife also.
+— Przez kogo ty się dowiesz o Beroesie i traktacie? — spytał Dagona Hiram.
 
-"Quiet! Concord!" said the gray-headed prince; and he dropped his lean
+— Daj spokój. Niebezpiecznie mówić, bo do tego będą należeli kapłani.
 
-hand to his girdle.
+— A przez kogo mógłbyś zepsuć traktat?
 
-For a while the nostrils of all three men were quivering and their eyes
+— Ja myślę... Ja myślę, że chyba przez następcę tronu. Mam dużo jego kwitów.
 
-flashing. At last Hiram, who calmed himself first, began again, as if
+Hiram podniósł do góry rękę i odparł:
 
-nothing had happened.
+— Następca — bardzo dobrze, bo on zostanie faraonem, może nawet niedługo...
 
-"A couple of months ago, in Asarhadon's inn, lodged a certain Phut from
+— Psyt!... — przerwał Dagon, uderzając pięścią w stół. — Żeby tobie mowę odjęło za takie gadanie!...
 
-the city of Harran."
+— Oto wieprz! — zawołał Rabsun, wygrażając bankierowi pod nosem.
 
-"He had to receive five talents from some priest," interrupted Dagon.
+— A to głupi kramarz! — odpowiedział Dagon z szyderczym uśmiechem. — Ty, Rabsun, powinieneś sprzedawać suszone ryby i wodę na ulicach, ale nie mieszać się do interesów między państwami. Wołowe kopyto umazane w egipskim błocie ma więcej rozumu aniżeli ty, który pięć lat mieszkasz w stolicy Egiptu!... Oby cię świnie zjadły...
 
-"What further?" asked Hiram.
+— Cicho!... cicho!... — wtrącił Hiram. — Nie dacie mi dokończyć...
 
-"Nothing. He found favor with a certain priestess, and at her advice
+— Mów, boś ty mądry i ciebie rozumie moje serce — rzekł Rabsun.
 
-went to seek his debtor in Thebes."
+— Jeżeli ty, Dagon, masz wpływ na następcę, to bardzo dobrze — ciągnął Hiram. — Bo jeżeli następca zechce mieć traktat z Asyrią, to będzie traktat, i w dodatku napisany naszą krwią, na naszych skórach. Ale jeżeli następca zechce wojny z Asyrią, to on zrobi wojnę, choćby kapłani przeciw niemu wezwali do pomocy wszystkich bogów.
 
-"Thou hast the mind of a child and the talkativeness of a woman," said
+— Psyt! — wtrącił Dagon — jeżeli kapłani bardzo zechcą, to będzie traktat... Ale może oni nie zechcą...
 
-Hiram. "This Harran man is not from Harran at all. He is a Chaldean,
+— Dlatego, Dagonie — mówił Hiram — my musimy mieć za sobą wszystkich wodzów...
 
-and his name is not Phut, but Beroes."
+— To można.
 
-"Beroes? Beroes?" repeated Dagon, trying to remember. "I have heard
+— I nomarchów...
 
-that name in some place."
+— Także można.
 
-"Thou hast heard it!" repeated Hiram, with contempt. "Beroes is the
+— I następcę — prawił Hiram. — Ale, jeżeli tylko ty sam będziesz pchał go do wojny z Asyrią, to na nic. Człowiek, jak arfa, ma dużo strun i grać na nich trzeba dziesięcioma palcami, a ty, Dagonie, jesteś tylko jednym palcem.
 
-wisest priest in Babylon, the counselor of Assyrian princes and of the
+— Przecież nie rozedrę się na dziesięć części...
 
-king himself."
+— Ale ty możesz być jak jedna ręka, przy której jest pięć palców. Ty powinieneś zrobić to, ażeby nikt nie wiedział, że ty chcesz wojny, ale — ażeby każdy kucharz następcy chciał wojny, każdy fryzjer następcy chciał wojny, ażeby wszyscy łaziebnicy, lektykarze, pisarze, oficerowie, woźnice, ażeby oni wszyscy chcieli wojny z Asyrią i ażeby następca słyszał o tym od rana do nocy, a nawet, kiedy śpi...
 
-"Let him be counselor; if he is not the pharaoh, what do I care?" said
+— To się zrobi.
 
-the banker.
+— A znasz ty jego kochanki? — spytał Hiram.
 
-Rabsun rose from his chair, and threatening Dagon with his fist under
+Dagon machnął ręką.
 
-the nose, cried,
+— Głupie dziewczęta — odparł. — One tylko myślą, ażeby ustroić się, wymalować i pachnidłami namaścić... Ale skąd się biorą te pachnidła i kto je przywozi do Egiptu, o tym już nie wiedzą.
 
-"Thou wild boar, fatted on the pharaoh's swill, Phoenicia concerns thee
+— Trzeba mu podsunąć taką kochankę, ażeby o tym wiedziała — rzekł Hiram.
 
-as much as Egypt concerns me. Thou wouldst sell thy country for a
+— Skąd ją wziąć?... — spytał Dagon. — A... mam!... — zawołał, uderzając się w czoło. — Znasz ty Kamę, kapłankę Astoreth?...
 
-drachma hadst Thou the chance, leprous cur that Thou art!"
+— Co?... — przerwał Rabsun. — Kapłanka świętej bogini Astoreth będzie kochanką Egipcjanina?...
 
-Dagon grew pale and answered with a calm voice,
+— Ty byś wolał, ażeby ona była twoją?... — szydził Dagon. — Ona nawet zostanie arcykapłanką, gdy będzie trzeba zbliżyć ją do dworu...
 
-"What is that huckster saying? In Tyre my sons are learning navigation;
+— Prawdę mówisz — rzekł Hiram.
 
-in Sidon lives my daughter with her husband. I have lent half my
+— Ależ to świętokradztwo!... — oburzał się Rabsun.
 
-property to the supreme council, though I do not receive even ten per
+— Toteż kapłanka, która je popełni, może umrzeć — wtrącił sędziwy Hiram.
 
-cent for it. And this huckster says that Phoenicia does not concern
+— Żeby nam tylko nie przeszkodziła ta Sara, Żydówka — odezwał się po chwili milczenia Dagon. — Ona spodziewa się dziecka, do którego książę już dziś jest przywiązany. Gdyby zaś urodził jej się syn, poszłyby w kąt wszystkie.
 
-me!"
+— Będziemy mieli pieniądze i dla Sary — rzekł Hiram.
 
-"Rabsun, listen to me," added he, after a while. "I wish thy wife and
+— Ona nic nie weźmie!... — wybuchnął Dagon. — Ta nędzna odrzuciła złoty, kosztowny puchar, który jej sam zaniosłem...
 
-children and the shades of thy fathers to be as much thought of by thee
+— Bo myślała, że ją chcesz okpić — wtrącił Rabsun.
 
-as each Phoenician ship is by me, or each stone of Tyre and Sidon, or
+Hiram pokiwał głową.
 
-even of Zarpath and Achsibu."
+— Nie ma się czym kłopotać — rzekł. — Gdzie nie trafi złoto, tam trafi ojciec, matka albo kochanka. A gdzie nie trafi kochanka, jeszcze dostanie się...
 
-"Dagon, tell truth," put in Hiram.
+— Nóż... — syknął Rabsun.
 
-"I not care for Phoenicia!" continued the banker, growing excited. "How
+— Trucizna... — szepnął Dagon.
 
-many Phoenicians have I brought here to make property, and what do I
+— Nóż to rzecz bardzo grubiańska... — zakonkludował Hiram.
 
-gain from having done so! I not care? Hiram ruined two ships of mine
+Pogładził brodę, zamyślił się, w końcu powstał i wydobył z zanadrza purpurową wstęgę, na którą były nanizane trzy złote amulety z wizerunkiem bogini Astoreth. Wyjął zza pasa nóż, przeciął wstęgę na trzy części i dwa kawałki z amuletami wręczył Dagonowi i Rabsunowi.
 
-and deprived me of great profit; still, when Phoenicia is in question,
+Potem wszyscy trzej ze środka pokoju poszli w kąt, gdzie stał skrzydlaty posąg bogini; złożyli ręce na piersiach, a Hiram zaczął mówić zniżonym głosem, lecz wyraźnie:
 
-I sit in one room with him."
+— Tobie, matko życia, przysięgamy wiernie dochować umów naszych i dopóty nie spocząć, dopóki święte miasta nie będą zabezpieczone od wrogów, których oby wytępił głód, zaraza i ogień...
 
-"For Thou didst think to talk with him of cheating some one," said
+Gdyby zaś który z nas nie dotrzymał zobowiązania albo zdradził tajemnicę, niech spadną na niego wszystkie klęski i sromoty... Niech głód skręca jego wnętrzności, a sen ucieka od krwią nabiegłych oczu... Niech ręka uschnie temu, kto by mu pośpieszył z ratunkiem, litując się jego nędzy... Niech na stole jego chleb zamieni się w zgniliznę, a wino w cuchnącą posokę... Niech dzieci jego wymrą, a dom niech mu zapełnią bękarty, które oplwają go i wypędzą... Niech skona, jęcząc przez wiele dni samotny, i niech spodlonego trupa nie przyjmie ziemia ani woda, niech go ogień nie spali ani pożrą dzikie bestie...
 
-Rabsun.
+Tak niech się stanie!...
 
-"As much as Thou didst think of dying, fool!" retorted Dagon. "Am I a
-
-child? do I not understand that when Hiram comes to Memphis he need not
-
-come for traffic? O Thou Rabsun! Thou shouldst clean my stables a
-
-couple of years."
-
-"Enough of this!" cried Hiram, striking the table with his fist.
-
-"We never shall finish with this Chaldean priest," muttered Rabsun,
-
-with as much calmness as if he had not been insulted a moment before.
-
-Hiram coughed, and said,
-
-"That man has a house and land really in Harran, and he is called Phut
-
-there. He got letters from Hittite merchants to merchants in Sidon, so
-
-our caravans took him for the journey. He speaks Phoenician well, he
-
-pays liberally. He made no demands in particular; so our people came to
-
-like him, even much.
-
-"But," continued Hiram, stroking his beard, "when a lion covers himself
-
-with an ox skin, even a little of his tail will stick out. This Phut
-
-was wonderfully wise and self-confident; so the chief of the caravan
-
-examined his effects in secret, and found nothing save a medal of the
-
-goddess Astaroth. This medal pricked the heart of the leader of the
-
-caravan: 'How could a Hittite have a Phoenician medal?'
-
-"So when they came to Sidon he reported straightway to the elders, and
-
-thenceforth our secret police kept this Phut in view.
-
-"Meanwhile he is such a sage that when he had remained some days all
-
-came to like him. He prayed and offered sacrifices to the goddess
-
-Astaroth, paid in gold, borrowed no money, associated only with
-
-Phoenicians. And he so befogged all that watchfulness touching him was
-
-weakened, and he went in peace to Memphis.
-
-"In this place again our elders began to watch him, but discovered
-
-nothing; they divined simply that he must be a great lord, not a simple
-
-man of Harran. But Asarhadon discovered by chance, and did not even
-
-discover, he only came on traces, that this pretended Phut passed a
-
-whole night in the ancient temple of Set, which here is greatly
-
-venerated.
-
-"Only high priests enter it for important counsels," interrupted Dagon.
-
-"And that alone would mean nothing," said Hiram. "But one of our
-
-merchants returned a month ago from Babylon with wonderful tidings. In
-
-return for a great present a certain attendant of the Satrap of Babylon
-
-informed him that misfortune was threatening Phoenicia.
-
-"Assyria will take you," said the attendant, "and Egypt will take
-
-Israel. On that business the Chaldean high priest Beroes has gone to
-
-the priests of Thebes, and with them he will make a treaty."
-
-"Ye must know," continued Hiram, "that Chaldean priests consider the
-
-priests in Egypt as their brothers, and that Beroes enjoys great esteem
-
-in the Court of King Assar, so reports concerning that treaty may be
-
-very truthful."
-
-"Why does Assyria want Phoenicia?" inquired Dagon, as he bit his
-
-finger-nails.
-
-"Why does a thief want another man's granary?" replied Hiram.
-
-"What good is a treaty made by Beroes with Egyptian priests?" put in
-
-Rabsun, thinking deeply.
-
-"Thou art dull!" answered Dagon. "Pharaoh does nothing except what the
-
-priests ordain."
-
-"There will be a treaty with the pharaoh, never fear!" interrupted
-
-Hiram. "We know to a certainty in Tyre that the Assyrian ambassador
-
-Sargon is coming to Egypt with gifts and with a great retinue. He
-
-pretends that it is to see Egypt and agree with 'ministers, not to
-
-inscribe in Egyptian acts that Assyria pays tribute to the pharaohs.
-
-But in fact he is coming to conclude a treaty about dividing the
-
-countries which lie between our sea and the Euphrates River."
-
-"May the earth swallow them!" imprecated Rabsun.
-
-"What dost Thou think of this Dagon?" inquired Hiram.
-
-"But what would ye do if Assar attacked you really?"
-
-Hiram shook his head with anger.
-
-"What? We should go on board of ships with our families and treasures
-
-and leave to those dogs the ruins of cities and the rotting corpses of
-
-slaves. Do we not know greater and more beautiful countries than
-
-Phoenicia, where we can begin a new and richer fatherland?"
-
-"May the gods guard us from such a thing," said Dagon.
-
-"This is just the question, to save the present Phoenicia from
-
-destruction," said Hiram. "And thou, Dagon, art able to do much in this
-
-matter."
-
-"What can I do?"
-
-"Thou mayst learn from the priests whether Beroes met them, and whether
-
-he and they made an agreement."
-
-"A terribly difficult thing," whispered Dagon. "But I may find a priest
-
-who will tell me."
-
-"Thou canst prevent at the court of the pharaoh a treaty with Sargon,"
-
-continued Hiram.
-
-"It is very difficult. I could not do that unassisted."
-
-"I will be with thee, and Phoenicia will find the gold. A tax is in
-
-course of collection at present."
-
-"I have given two talents!" whispered Rabsun.
-
-"I will give ten," added Dagon. "But what shall I get for my labor?"
-
-"What? Well, ten ships," answered Hiram.
-
-"And how much wilt Thou gain?" inquired Dagon.
-
-"Is ten not enough? Thou wilt get fifteen."
-
-"I ask, what wilt Thou get?" insisted Dagon.
-
-"We will give twenty ships. Does that suffice thee?"
-
-"Let it be so. But will ye show my ships the road to the country of
-
-silver?"
-
-"We will show it."
-
-"And the place where ye get tin? Well."
-
-"And the place where amber is found?" continued Dagon.
-
-"May Thou perish at once!" answered the gracious Prince Hiram,
-
-extending his hand. "But Thou wilt not keep up a malignant heart toward
-
-me because of those two little flat boats?"
-
-Dagon sighed.
-
-"I will work to forget. But what a property I should have now if Thou
-
-hadst not driven them off at that time!"
-
-"Enough!" interrupted Rabsun; "talk of Phoenicia."
-
-"Through whom wilt Thou learn of Beroes and the treaty?" asked Hiram of
-
-Dagon.
-
-"Let that drop. It is dangerous to speak of it, for priests will be
-
-involved in the matter."
-
-"And through whom couldst Thou ruin the treaty?"
-
-"I think I think that perhaps through the heir to the throne. I have
-
-many notes of his."
-
-Hiram raised his hand, and replied,
-
-"The heir very well, for he will be pharaoh, perhaps even soon."
-
-"Pst!" interrupted Dagon, striking the table with his fist. "May Thou
-
-lose speech for such language!"
-
-"Here is a wild boar for thee!" cried Rabsun, threatening the banker's
-
-nose.
-
-"And Thou art a dull huckster," answered Dagon, with a reviling laugh.
-
-"Thou, Rabsun, shouldst sell dried fish and water on the streets, but
-
-not mix up in questions between states. An ox hoof rubbed in Egyptian
-
-mud has more sense than thou, though Thou 'art living five years in the
-
-capital of light! Oh that pigs might devour thee!"
-
-"Quiet! quiet!" called Hiram. "Ye do not let me finish."
-
-"Speak, for Thou art wise and my heart understands thee," said Rabsun.
-
-"If thou, Dagon, hast influence over the heir, that is well," continued
-
-Hiram. "For if the heir wishes to have a treaty with Assyria there will
-
-be a treaty, and besides one written with our blood on our own skins.
-
-But if the heir wishes war with Assyria, he will make war, though the
-
-priests were to summon all the gods against him."
-
-H
-
-"Pst!" interrupted Dagon. "If the priests wish greatly, there will be a
-
-treaty. But perhaps they will not wish."
-
-"Therefore, Dagon, we must have all the military leaders with us," said
-
-Hiram.
-
-"We can."
-
-"And the nomarchs."
-
-"We can have them too."
-
-"And the heir," continued Hiram.
-
-"But if Thou alone urge him to war with Assyria, that is nothing. A
-
-man, like a harp, has many strings, and to play on them fingers are
-
-needed, while thou, Dagon, art only one finger."
-
-"But I cannot tear myself into ten parts."
-
-"Thou mayst be like one hand which has five fingers. Thou must so act
-
-that no one may suspect that Thou art for war, but every cook in the
-
-heir's kitchen must want war, every barber of his must want war, all
-
-the bath men, and litter-bearers, scribes, officers, charioteers must
-
-want war with Assyria; the heir should hear war from morning till
-
-night, and even when he is sleeping."
-
-"That will be done."
-
-"But dost Thou know his mistresses?" asked Hiram.
-
-Dagon waved his hand.
-
-"Stupid girls!" said he. "They think only about dressing, painting, and
-
-perfuming themselves; but whence these perfumes come, and who brings
-
-them to Egypt, they know not."
-
-"We must give him a favorite who will know."
-
-"Where shall we find her?" asked Dagon. "Ah, I have it!" cried he,
-
-stroking his forehead. "Dost Thou know Kama, the priestess of
-
-Astaroth?"
-
-"What?" interrupted Rabsun, astounded. "The priestess of the holy
-
-goddess Astaroth to be a favorite of an Egyptian?"
-
-"Thou wouldst prefer that she were thine," sneered Dagon. "She can even
-
-cease to be high priestess when it is necessary to bring her near the
-
-court."
-
-"Thou speakest truth," said Hiram.
-
-"But that is sacrilege!" said Rabsun, indignantly.
-
-"And the priestess who commits it is to die," said the gray-haired
-
-Hiram.
-
-"If only that Jewess, Sarah, does not hinder," added Dagon, after a
-
-moment of silence. "She is waiting for a child to which the prince is
-
-attached already. If a son is born, all our plans may be thwarted."
-
-"We shall have money for Sarah too," added Hiram.
-
-"She will take nothing!" burst out Dagon. "That pitiful creature has
-
-refused gold and a precious goblet, which I carried to her."
-
-"She did, for she thought that Thou hadst the wish to deceive her,"
-
-remarked Rabsun.
-
-Hiram nodded.
-
-"There is no cause for trouble," said he. "Where gold has not power,
-
-then the father, the mother, or the mistress may have it. And if the
-
-mistress is powerless, there is still."
-
-"The knife," hissed Rabsun.
-
-"Poison," whispered Dagon.
-
-"A knife is a very rude weapon," concluded Hiram.
-
-He stroked his beard, thought awhile; at last he rose, took from his
-
-bosom a purple ribbon on which were fastened three golden amulets with
-
-a portrait of the goddess Astaroth. He drew from his girdle a knife,
-
-cut the ribbon into three parts, and gave two of these with the amulets
-
-to Dagon and Rabsun.
-
-Then all three went to the middle of the room to the corner where stood
-
-a winged statue of the goddess; they put their hands on the statue, and
-
-Hiram repeated in a low voice, but clearly,
-
-"To thee, Mother of Life, we swear faithfully to observe our
-
-agreements, and not to rest till the sacred places be secure from
-
-enemies, may they be destroyed by hunger, fire, and pestilence.
-
-"And should one of us fail in his obligations, or betray a secret, may
-
-all calamities and disgrace fall on him! May hunger twist his entrails,
-
-and sleep flee from his bloodshot eyes! May the hand of the man wither
-
-who hastens to him with rescue and pities him in his misery! May the
-
-bread on his table turn into rottenness, and the wine into stinking
-
-juice! May his children die out, and his house be filled with bastards
-
-who will spit on him and expel him! May he die groaning through many
-
-days in loneliness, and may neither earth nor water receive his vile
-
-carcass, may no fire burn it, no wild beasts devour it!"
-
-"Thus let it be!"
-
-After this terrible oath, which Hiram began, and the second half of
-
-which all shouted forth in voices trembling from rage, the three
-
-panting Phoenicians rested. After that Rabsun conducted them to a feast
-
-where with wine, music, and dancers they forgot for a time the work
-
-awaiting them.
+Po strasznej przysiędze, którą zaczął Hiram, a od połowy wykrzykiwali wszyscy głosami drżącymi wściekłością, trzej Fenicjanie odpoczęli zadyszani. Po czym Rabsun zaprosił ich na ucztę, gdzie przy winie, muzyce i tancerkach na chwilę zapomnieli o czekającej ich pracy.

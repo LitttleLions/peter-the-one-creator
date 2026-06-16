@@ -1,1331 +1,496 @@
-# Kapitel 61: CHAPTER LXI
+# Kapitel 061: Tom III - Rozdział XII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part69.xhtml*
 
 <!-- status: pending -->
 
-WHILE Pentuer was going around the country and choosing out delegates,
+Przez ten czas, kiedy Pentuer objeżdżał państwo, wybierając delegatów, Ramzes XIII mieszkał w Tebach i żenił swego ulubieńca Tutmozisa.
 
-Ramses XIII tarried in Thebes, arranging the marriage of his favorite,
+Przede wszystkim władca dwu światów, otoczony wspaniałym orszakiem, pojechał na złocistym wozie do pałacu najdostojniejszego Antefa, nomarchy Teb. Magnat wybiegł naprzeciw pana aż przed bramę i zdjąwszy z nóg kosztowne sandały, na klęczkach pomógł Ramzesowi wysiąść.
 
-Tutmosis.
+W zamian za ten hołd faraon podał mu do ucałowania rękę i oświadczył, że od tej pory Antef staje się jego przyjacielem i ma prawo wchodzić w obuwiu nawet do sali tronowej.
 
-First of all, the ruler of two worlds, surrounded by a grand retinue,
+Gdy zaś znaleźli się w ogromnej komnacie pałacu Antefa, pan wobec całego orszaku odezwał się:
 
-drove in a golden chariot to the palace of the most worthy Antefa.
+— Wiem, dostojny Antefie, że jak czcigodni przodkowie twoi mieszkają w najpiękniejszych grobach, tak ty, potomek ich, jesteś najprzedniejszym między nomarchami Egiptu. Tobie zaś zapewne wiadomo, że na moim dworze i w wojsku, jak również w moim królewskim sercu, pierwsze miejsce zajmuje ulubieniec mój i dowódca gwardii — Tutmozis.
 
-This magnate hurried forth to meet his sovereign before the gate, and,
+Według zdania mędrców: źle czyni bogacz, który najdroższego klejnotu nie osadza w najpiękniejszy pierścień. A że twój ród, Antefie, jest mi najdroższy, a Tutmozis najmilszy, więc umyśliłem — połączyć was ze sobą. Co łatwo może się stać, jeżeli córka twoja, piękna i mądra Hebron, przyjmie za małżonka Tutmozisa.
 
-taking the costly sandals from his feet he knelt and assisted Ramses to
+Na co dostojny Antef odparł:
 
-alight from the chariot.
+— Wasza świątobliwość, władco żywego i zachodniego świata! Jak cały Egipt i wszystko, co w nim jest, należy do ciebie, tak ten dom i wszyscy jego mieszkańcy są twoją własnością. Skoro zaś pragniesz w swym sercu, aby moja córka, Hebron, została żoną ulubieńca twego, Tutmozisa, więc niech tak będzie...
 
-In return for this homage the pharaoh gave him his hand to kiss, and
+Teraz faraon opowiedział Antefowi, że Tutmozis ma dwadzieścia talentów rocznej płacy ze skarbu i znaczne dobra własne w różnych nomesach. Zaś dostojny Antef oświadczył, że jego jedyna córka Hebron będzie miała pięćdziesiąt talentów rocznie tudzież prawo korzystania z dóbr ojca w tych nomesach, w których na dłuższy czas zatrzyma się dwór królewski.
 
-declared that thenceforth Antefa was his friend, and might enter even
+A ponieważ Antef nie miał syna, więc cały jego ogromny i nie zadłużony majątek musiał kiedyś przejść na Tutmozisa wraz z urzędem nomarchy Teb, o ile zgadzałoby się to z wolą jego świątobliwości.
 
-the throne hall in sandals.
+Po ukończeniu układów wszedł z dziedzińca Tutmozis i podziękował Antefowi naprzód za to, że takiemu jak on nędzarzowi oddaje swoją córkę, a po wtóre — że ją tak pięknie wychował. Zarazem umówiono się, że ceremonia zaślubin odbędzie się w ciągu kilku dni. Tutmozis bowiem, jako dowódca gwardii, nie ma czasu na zbyt długie uroczystości wstępne.
 
-When they were in an immense chamber of Antefa's palace the sovereign
+— Życzę ci szczęścia, mój synu — zakończył z uśmiechem Antef — tudzież wielkiej cierpliwości. Albowiem ukochana córka moja, Hebron, ma już dwadzieścia lat, jest pierwszą elegantką w Tebach i przywykła posiadać swoją wolę.
 
-said before the whole retinue,
+Na bogi!... mówię ci, że moja władza nad Tebami zawsze kończyła się przy furcie ogrodów mojej córki. I lękam się, że twoje jeneralstwo nie większe zrobi na niej wrażenie.
 
-"I know, worthy Antefa, that as thy revered ancestors occupy the most
+Z kolei szlachetny Antef zaprosił swoich gości na wspaniałą ucztę, w czasie której ukazała się piękna Hebron z wielkim orszakiem towarzyszek.
 
-beautiful of tombs, thou, their descendant, art foremost among nomarchs
+W sali jadalnej stało mnóstwo stolików na dwie i cztery osoby tudzież jeden większy stół na wzniesieniu dla faraona. Aby uczcić Antefa i swego ulubieńca, jego świątobliwość zbliżył się do Hebron i zaprosił ją do swego stołu.
 
-in Egypt. To thee it is known surely that in my court and army, as in
+Panna Hebron była rzeczywiście piękna, a robiła wrażenie osoby doświadczonej, co w Egipcie nie stanowiło osobliwości. Ramzes prędko spostrzegł, że narzeczona wcale nie zwraca uwagi na przyszłego małżonka, ale za to posyła wymowne spojrzenia w stronę jego, faraona.
 
-my heart, the first place is held by Tutmosis, chief of the guard, and
+I to także nie było dziwem w Egipcie.
 
-my favorite.
+Gdy goście zasiedli przy stolikach, gdy odezwała się muzyka, a tancerki zaczęły roznosić między biesiadnikami wino i kwiaty, Ramzes odezwał się:
 
-"According to the opinion of sages the rich man does ill who does not
+— Im dłużej patrzę na ciebie, Hebron, tym więcej zdumiewam się. Gdyby tu wszedł kto obcy, uważałby cię za boginię albo arcykapłankę, ale nigdy za szczęśliwą narzeczoną.
 
-put his most precious jewel into the most beautiful setting. And, since
+— Mylisz się, panie — odparła. — W tej chwili jestem szczęśliwą, ale nie z mego narzeczeństwa...
 
-thy family is most precious to me, and Tutmosis is most dear, I have
+— Jak to może być?... — przerwał faraon.
 
-conceived the idea of connecting thee with myself, as Thou wilt be, if
+— Małżeństwo nie nęci mnie i z pewnością wolałabym zostać arcykapłanką Izydy aniżeli żoną...
 
-thy daughter, the wise and beautiful Hebron, accepts Tutmosis as
+— Więc dlaczego wychodzisz za mąż?
 
-husband."
+— Robię to dla ojca, który koniecznie chce mieć spadkobiercę swej sławy... Głównie zaś dlatego, że ty tak chcesz, panie...
 
-To this the worthy Antefa replied,
+— Mógłżeby ci się nie podobać Tutmozis?
 
-"Holiness, sovereign of the western world, and of living men! As Egypt,
+— Tego nie mówię. Tutmozis jest piękny, jest pierwszym elegantem w Egipcie, ładnie śpiewa i bierze nagrody na igrzyskach. Jego zaś stanowisko dowódcy gwardii waszej świątobliwości należy do najpierwszych w kraju.
 
-and all that is in it belongs to thee, so this house and all its
+Mimo to, gdyby nie prośby ojca i twój rozkaz, panie, nie zostałabym jego żoną... Choć i tak nie będę nią!... Tutmozisowi wystarczy mój majątek i tytuły po moim ojcu, a resztę znajdzie u tancerek.
 
-inhabitants are thy possession. Since it is thy desire that my daughter
+— I on wie o swoim nieszczęściu?
 
-should be the wife of thy favorite, let it be so."
+Hebron uśmiechnęła się.
 
-Now the pharaoh declared to Antefa that Tutmosis had twenty talents of
+— On od dawna wie, że choćbym nie była córką Antefa, ale ostatniego paraszyty, jeszcze nie oddałabym się człowiekowi, którego nie kocham. A pokochać mogłabym tylko wyższego od siebie.
 
-yearly salary, and considerable estates in various provinces. Thereupon
+— Mówisz to naprawdę?... — dziwił się Ramzes.
 
-the worthy Antefa declared that his daughter Hebron would have fifty
+— Mam przecie dwadzieścia lat, więc już od sześciu lat otaczają mnie wielbiciele. Prędko jednak poznałam ich wartość... A dziś wolę słuchać rozmowy uczonych kapłanów aniżeli śpiewów i oświadczyn eleganckiej młodzieży.
 
-talents a year, also the right to make use of the estates of her father
+— W takim razie nie powinienem siedzieć przy tobie, Hebron, bo nawet nie jestem elegantem, a już wcale nie posiadam mądrości kapłańskiej...
 
-in those provinces in which the pharaoh's court sojourned for a season.
+— O, ty, panie, jesteś czymś większym... — odparła, mocno rumieniąc się. — Ty jesteś wódz, który odniósł zwycięstwo... Ty jesteś porywczy jak lew, bystry jak sęp... Przed tobą miliony upadają na twarz, a państwa drżą... Alboż nie wiemy, jaką trwogę budzi w Tyrze i Niniwie twoje imię? Bogowie mogliby zazdrościć twojej potęgi...
 
-And since he had no son, his immense property, which was free of debt,
+Ramzes zmieszał się.
 
-would pass to Tutmosis some time, together with the office of nomarch
+— O Hebron, Hebron... Gdybyś wiedziała, jaki niepokój zasiewasz w moim sercu!...
 
-of Thebes, in so far as that transfer might coincide with the will of
+— Dlatego — mówiła — godzę się na małżeństwo z Tutmozisem... Będę bliższą waszej świątobliwości i choć co kilka dni będę widywała ciebie, panie...
 
-the pharaoh.
+To powiedziawszy — wstała od stolika i odeszła.
 
-After concluding the conditions Tutmosis entered the court, thanked
+Postępek jej spostrzegł Antef i wylękniony przybiegł do Ramzesa.
 
-Antefa first for giving his daughter to one so unworthy, and second,
+— O panie! — zawołał — czy moja córka nie powiedziała czego niestosownego?... To niepohamowana lwica...
 
-because he had reared her so beautifully.
+— Uspokój się — odparł faraon. — Twoja córka jest pełna mądrości i powagi. Wyszła zaś, bo spostrzegła, że wino waszej dostojności zbyt silnie rozwesela biesiadników.
 
-It was arranged then that the ceremony of marriage would take place in
+Rzeczywiście w sali jadalnej panował wielki hałas, tym bardziej że Tutmozis, porzuciwszy rolę wicegospodarza, zrobił się najbardziej ożywionym biesiadnikiem.
 
-a few days, since Tutmosis, as leader of the guard, had no time for
+— Poufnie rzeknę waszej świątobliwości — szepnął Antef — że biedny Tutmozis bardzo będzie musiał pilnować się wobec Hebron...
 
-protracted preliminaries.
+Ta pierwsza uczta przeciągnęła się do rana. Wprawdzie faraon zaraz wyjechał, lecz inni zostali — z początku na krzesłach, później na posadzkach... Aż wreszcie musiał Antef wozami rozesłać ich do domów, niby rzeczy martwe.
 
-"I wish thee happiness, my son," said Antefa, smiling, "and also great
+W kilka dni odbyła się uroczystość zaślubin.
 
-patience, because my beloved daughter, now twenty years old, is the
+Do pałacu Antefa zeszli się arcykapłani Herhor i Mefres, nomarchowie sąsiednich nomesów i najwyżsi dostojnicy miasta Tebów. Później przyjechał na dwukolnym wozie Tutmozis otoczony oficerami gwardii, a na końcu — jego świątobliwość Ramzes XIII.
 
-first exquisite in Thebes, and has had her will always. By the gods, I
+Towarzyszyli panu: wielki pisarz, naczelnik łuczników, naczelnik konnicy, wielki sędzia, wielki skarbnik, arcykapłan Sem i generałowie-adiutanci.
 
-tell thee that my command over Thebes always ends at the gate of her
+Gdy wspaniałe to zgromadzenie znalazło się w sali przodków najdostojniejszego Antefa, ukazała się Hebron w białych szatach, z licznym orszakiem przyjaciółek i służebnic. Wówczas ojciec jej, spaliwszy kadzidło przed Amonem, posągiem swego ojca i — siedzącym na wzniesieniu Ramzesem XIII, oświadczył, że córkę swoją Hebron uwalnia spod opieki i ofiaruje jej posag. Przy czym podał jej w złotej puszce odnośny akt spisany na papirusie wobec sądu.
 
-garden. And I fear that thy military command will go no farther."
+Po krótkiej przekąsce panna młoda wsiadła do kosztownej lektyki niesionej przez ośmiu urzędników nomesu. Przed nią szła muzyka i śpiewacy, dokoła lektyki dostojnicy, a za nimi wielki tłum ludu. Cały ten orszak posuwał się ku świątyni Amona, przez najpiękniejsze ulice Tebów, wśród tłumu tak licznego jak na pogrzebie faraona.
 
-Next the noble Antefa invited his guests to a splendid banquet, in the
+W świątyni lud został za murem, a państwo młodzi, faraon i dygnitarze weszli do sali kolumnowej. Tu Herhor spalił kadzidła przed zasłoniętym posągiem Amona, kapłanki wykonały święty taniec, a Tutmozis przeczytał z papirusa akt następujący:
 
-course of which the beautiful Hebron showed herself with a great
+„Ja, Tutmozis, dowódca gwardii jego świątobliwości Ramzesa XIII, biorę ciebie, Hebron, córkę monarchy tebańskiego, Antefa, za żonę. Daję ci zaraz sumę dziesięciu talentów za to, żeś żoną moją być zechciała. Na ubranie twoje przeznaczam ci trzy talenty rocznie, a na wydatki domowe po talencie co miesiąc. Z dzieci, które mieć będziemy, syn najstarszy będzie spadkobiercą majątku, jaki dziś posiadam i w przyszłości nabyć mogę. Jeżelibym nie żył z tobą, rozwiódł się i inną pojął żonę, będę obowiązanym do wypłacania ci czterdziestu talentów, jakową sumę opieram na majątku moim. Syn nasz, gdy obejmie majątek, będzie obowiązany płacić ci piętnaście talentów rocznie. Dzieci zaś spłodzone z inną żoną nie będą miały prawa do majątku pierworodnego syna naszego.”
 
-retinue of damsels.
+Teraz wystąpił wielki sędzia i w imieniu Hebron przeczytał akt, w którym młoda pani obiecuje: dobrze karmić i odziewać małżonka swego, dbać o jego dom, rodzinę, służbę, inwentarz i niewolników, i powierza temuż małżonkowi zarząd majątkiem, jaki otrzymała i otrzyma od ojca.
 
-In the dining-hall were numbers of small tables for two or four
+Po odczytaniu aktów Herhor podał Tutmozisowi puchar wina.
 
-persons, also a larger table, on a loftier place, for the pharaoh. To
+Pan młody wypił połowę, panna Hebron umoczyła usta, po czym oboje spalili kadzidła przed purpurową zasłoną.
 
-show honor to Antefa and his favorite, Tutmosis, Ramses approached
+Opuściwszy świątynię Amona tebańskiego państwo młodzi i ich wspaniały orszak udali się przez aleję sfinksową do królewskiego pałacu. Gromady ludu i żołnierzy witały ich okrzykami, rzucając na drogę kwiaty.
 
-Hebron and invited her to his table.
+Tutmozis dotychczas mieszkał w komnatach faraona. Lecz w dniu wesela pan darował mu piękny pałacyk, w głębi ogrodów, otoczony lasem fig, mirtów i baobabów, gdzie młodzi małżonkowie mogli przepędzać dni szczęścia, ukryci przed ludzkim okiem, jakby odcięci od świata. W spokojnym tym zakątku tak rzadko pokazywali się ludzie, że nawet ptaki nie uciekały przed nimi.
 
-The young lady was really beautiful, and as it seemed had experience, a
+Gdy nowożeńcy i goście znaleźli się w nowym mieszkaniu, nastąpiła ceremonia ślubu ostateczna.
 
-thing not exceptional in Egypt. Ramses soon noticed that the betrothed
+Tutmozis ujął za rękę Hebron i podprowadził ją do ognia płonącego przed posągiem Izydy. Wtedy Mefres wylał na głowę panny łyżkę świętej wody, Hebron dotknęła ręką ognia, a Tutmozis podzielił się z nią kawałkiem chleba i na palec włożył jej swój pierścień na znak, że od tej pory zostaje panią majątku, sług, trzód i niewolników pana młodego.
 
-turned no attention whatever toward Tutmosis, but to make up for this
+Przez ten czas kapłani śpiewali hymny weselne i obnieśli posąg boskiej Izydy po całym domu. Kapłanki zaś wykonały święte tańce.
 
-she turned eloquent glances toward him, the pharaoh.
+Dzień ten zakończył się widowiskami i wielką ucztą, podczas której wszyscy spostrzegli, że Hebron ciągle towarzyszyła faraonowi, a Tutmozis trzymał się od niej z daleka i tylko częstował gości.
 
-That also was no wonder in Egypt.
+Gdy zeszły gwiazdy, święty Herhor opuścił ucztę, a wkrótce po nim wymknęło się kilku najwyższych dostojników. Zaś około północy w podziemiach świątyni Amona zebrały się następujące czcigodne osoby: arcykapłani Herhor, Mefres i Mentezufis, najwyższy sędzia Tebów tudzież naczelnicy nomesów Abs, Horti i Emsuch.
 
-When the guests had taken their places, when music sounded and female
+Mentezufis obejrzał grube kolumny, zamknął drzwi, pogasił światła, i została w niskiej komnacie tylko jedna lampa płonąca przed posążkiem Horusa. Dostojnicy zasiedli na trzech kamiennych ławach, a nomarcha Absu rzekł:
 
-dancers began to bring fruit and wine to the tables, Ramses said to
+— Gdyby mi kazano określić charakter jego świątobliwości Ramzesa XIII, zaiste! nie potrafiłbym tego uczynić...
 
-Hebron,
+— Wariat! — wtrącił Mefres.
 
-"The longer I look at thee, the more I am astonished. Were some
+— Czy wariat, nie wiem — odparł Herhor. — W każdym razie człowiek bardzo niebezpieczny. Asyria już dwa razy przypominała nam o ostatecznym traktacie, a dziś, jak słyszę, zaczyna niepokoić się zbrojeniem Egiptu...
 
-stranger to enter he might consider thee a high priestess or a goddess,
+— O to mniejsza — rzekł Mefres. — Gorsze bowiem jest, że ten bezbożnik naprawdę myśli naruszyć skarby Labiryntu...
 
-but never a woman at the time of happy betrothal."
+— A ja bym sądził — odezwał się nomarcha Emsuchu — że gorsze są obietnice porobione chłopom. Dochody państwa i nasze stanowczo zachwieją się, jeżeli pospólstwo zacznie świętować co siódmy dzień... A gdyby jeszcze faraon nadał im grunta!...
 
-"I am happy," said she, "at this moment, though not because of
+— On gotów to zrobić — szepnął najwyższy sędzia.
 
-betrothal."
+— Czy aby gotów?... — spytał nomarcha Horti. — Mnie się zdaje, że on tylko chce pieniędzy. Gdyby mu więc ustąpić coś ze skarbów Labiryntu...
 
-"How is that?" interrupted the pharaoh.
+— Nie można — przerwał Herhor. — Państwu nie grozi żadne niebezpieczeństwo, tylko faraonowi, a to — nie wszystko jedno. Po wtóre — jak grobla póty jest mocna, dopóki nie przeniknie jej choćby strumyk wody, tak Labirynt dopóty jest pełen, dopóki nie ruszymy z niego pierwszej sztaby złota. Po niej wszystko pójdzie...
 
-"Marriage does not entice me, and surely I should rather be the high
+Wreszcie — kogóż zasilimy skarbami bogów i państwa?... Oto młodzieńca, który pogardza wiarą, upokarza kapłanów i buntuje lud. Nie jestże on gorszym od Assara?... Bo ten jest wprawdzie barbarzyńcą, ale szkody nam nie robi.
 
-priestess of Isis than be married."
+— Nieprzystojną jest rzeczą, aby faraon tak jawnie zalecał się do żony swego ulubieńca, już w dniu ślubu... — odezwał się zamyślony sędzia.
 
-"Then why marry?"
+— Hebron sama go ciągnie! — rzekł nomarcha Horti.
 
-"I marry because it is the absolute wish of my father to have an heir
+— Każda kobieta wabi wszystkich mężczyzn — odpowiedział nomarcha Emsuchu. — Lecz na to dany jest rozum człowiekowi, aby nie popełniał grzechu...
 
-to his glory, but mainly because it is thy wish, my sovereign."
+— Alboż faraon nie jest mężem wszystkich kobiet w Egipcie? — szepnął nomarcha Abs. — Grzechy wreszcie należą do sądu bogów, a nas obchodzi tylko państwo...
 
-"Can it be that Tutmosis does not please thee?"
+— Niebezpieczny!... niebezpieczny!... — mówił nomarcha Emsuchu, trzęsąc rękoma i głową. — Nie ma żadnej wątpliwości, że pospólstwo jest już rozzuchwalone i lada chwilę podniesie bunt. A wówczas żaden arcykapłan ani nomarcha nie będzie pewny nie tylko władzy i majątku, ale nawet życia...
 
-"I will not say that he does not please me. Tutmosis is fine-looking;
+— Na bunt mam sposób — wtrącił Herhor.
 
-he is the first exquisite in Egypt, be plays well, and takes prizes at
+— Jaki?
 
-games. His position, as commander of thy guard, is one of the highest.
+— Przede wszystkim — odezwał się Mefres — buntowi można zapobiec, jeżeli mędrszych spomiędzy pospólstwa oświecimy, że ten, który obiecuje im wielkie ulgi, jest wariatem...
 
-Still, were it not for the prayers of my father, and thy command I
+— Najzdrowszy człowiek pod słońcem! — szepnął nomarcha Horti. — Trzeba tylko wyrozumieć: o co mu chodzi?
 
-should not marry Tutmosis. Even as it is, I shall not be his wife. My
+— Wariat! wariat! — powtarzał Mefres. — Jego przyrodni brat starszy już udaje małpę i pije z paraszytami, a on zacznie to robić lada dzień...
 
-property will suffice Tutmosis and the titles after my father; the rest
+— Jest to zły i niedorzeczny sposób ogłaszać za wariata człowieka przytomnego — zabrał głos nomarcha Horti. — Bo gdy lud zmiarkuje kłamstwo, przestanie nam wierzyć we wszystkim, a wówczas nic nie powstrzyma buntu.
 
-he can find among dancing girls."
+— Jeżeli ja mówię, że Ramzes jest wariatem, muszę mieć na to dowody — rzekł Mefres. — A teraz posłuchajcie.
 
-"But does he know of his misfortune?"
+Dostojnicy poruszyli się na ławach.
 
-Hebron smiled.
+— Powiedzcie mi — ciągnął Mefres — czy człowiek zdrowego rozumu ośmieli się, będąc następcą tronu, walczyć publicznie z bykiem wobec kilku tysięcy Azjatów? Czy rozsądny książę, Egipcjanin, będzie po nocy włóczył się do świątyni fenickiej?... Czy bez powodu zepchnie do rzędu niewolnic pierwszą swoją kobietę, co nawet było przyczyną śmierci jej i dziecka?...
 
-"He knows this long time that even were I not the daughter of Antefa,
+Obecni zaszemrali ze zgrozy.
 
-but of the lowest dissector, I would not give myself to a man unless I
+— Wszystko to — mówił arcykapłan — widzieliśmy w Pi-Bast, jak również ja i Mentezufis byliśmy świadkami pijackich uczt, na których już półobłąkany następca bluźnił bogom i znieważał kapłanów...
 
-loved him. I could love only a man who is above me."
+— Tak było — wtrącił Mentezufis.
 
-"Art Thou speaking seriously?" asked Ramses in wonder.
+— A jak mniemacie — prawił zapalając się Mefres — czy człowiek zdrowy na umyśle, będąc naczelnym wodzem, opuści armię, ażeby uganiać się po pustyni za kilkoma libijskimi bandytami?
 
-"I am twenty years old. Since I was six years of age adorers have
+Pomijam mnóstwo rzeczy drobniejszych, choćby pomysł nadania chłopom świąt i ziemi, lecz pytam was: czy mogę nazywać przytomnym człowieka, który popełnił tyle występnych niedorzeczności, bez powodu, oto tak sobie!...
 
-surrounded me; but I measured them quickly. And today I would rather
+Obecni milczeli, nomarcha Horti był zafrasowany.
 
-hear learned priests than songs and declarations from youthful
+— Nad tym trzeba zastanowić się — wtrącił najwyższy sędzia — ażeby nie stała się krzywda człowiekowi...
 
-exquisites."
+Tu odezwał się Herhor.
 
-"In that case I ought not to sit near thee, Hebron, for I am not even
+— Święty Mefres wyrządza mu łaskę — rzekł stanowczym tonem — poczytując go za wariata. W przeciwnym bowiem razie musielibyśmy uważać Ramzesa za zdrajcę...
 
-an exquisite, and I have no priestly wisdom whatever."
+Obecni poruszyli się z niepokojem.
 
-"Thou art something higher," replied she, blushing deeply. "Thou art a
+— Tak, człowiek nazywany Ramzesem XIII jest zdrajcą, bo nie tylko wybiera sobie szpiegów i złodziei, ażeby odkryli drogę do skarbów Labiryntu, nie tylko odmawia traktatu z Asyrią, którego Egipt koniecznie potrzebuje...
 
-chief who has won victory. Thou art as impetuous as a lion, as swift as
+— Ciężkie oskarżenia! — rzekł sędzia.
 
-a vulture. Millions fall on their faces before thee, and kingdoms
+— Ale jeszcze, słuchajcie mnie, układa się z podłymi Fenicjanami o przekopanie kanału między Morzem Czerwonym i Śródziemnym. Otóż kanał ten jest największą groźbą dla Egiptu, albowiem kraj nasz w jednej chwili może być zalany przez wodę!...
 
-tremble. Do I not know what fear is roused by thy name in Tyre and
+Tu już nie chodzi o skarby Labiryntu, ale o nasze świątynie, domy, pola, o sześć milionów, wprawdzie głupich, ale niewinnych ludzi, a w końcu o życie nasze i naszych dzieci...
 
-Nineveh? Gods might be jealous of thy influence."
+— Jeżeli tak jest... — westchnął nomarcha Horti.
 
-Ramses was confused.
+— Ja i dostojny Mefres zaręczamy, że tak jest i że ten jeden człowiek takie w swych rękach nagromadził niebezpieczeństwa, jakie jeszcze nigdy nie groziły Egiptowi... Dlatego zebraliśmy was, czcigodni mężowie, ażeby obmyśleć środki ratunku... Ale musimy działać śpiesznie, bo zamiary tego człowieka pędzą naprzód jak wicher pustyni i — bodajby nie zasypały nas!...
 
-"O Hebron, Hebron," said he. "If Thou knew what alarm Thou art sowing
+Na chwilę w mrocznej komnacie zaległa cisza.
 
-in my heart."
+— Cóż tu radzić? — odezwał się nomarcha Emsuch. — My siedzimy w nomesach, daleko od dworu, i wreszcie nie tylko nie znamy zamiarów tego szaleńca, ale nawet nie domyślaliśmy się ich, prawie nie wierzymy...
 
-"For this very reason," continued Hebron, "I marry Tutmosis. I shall be
+Dlatego sądzę, że najlepiej pozostawić tę sprawę tobie, dostojny Herhorze, i Mefresowi. Odkryliście chorobę, obmyślcie teraz lekarstwo i zastosujcie... A jeżeli niepokoi was ogrom odpowiedzialności, dobierzcie sobie do pomocy najwyższego sędziego...
 
-nearer thee, and shall see thee, though for a few days only."
+— Tak! tak!... prawdę mówi!... — potwierdzili wzburzeni dostojnicy.
 
-She rose and left the hall.
+Mentezufis zapalił pochodnię i położył na stole przed posągiem boga papirus, na którym spisano akt tej treści, że: wobec niebezpieczeństw grożących państwu władza rady tajnej przechodzi w ręce Herhora, któremu do pomocy dodani są: Mefres i najwyższy sędzia.
 
-Antefa noted her action and hastened in alarm to Ramses.
+Akt ten, stwierdzony podpisami obecnych dostojników, zamknięto w puszkę i schowano w skrytce pod ołtarzem.
 
-"O lord!" cried he, "has my daughter said anything improper? She is an
+Nadto — każdy z siedmiu uczestników zobowiązał się pod przysięgą spełniać wszystkie rozkazy Herhora i wciągnąć do spisku po dziesięciu dygnitarzy. Herhor zaś obiecał im złożyć dowody, że Asyria nalega o traktat, że faraon nie chce go podpisać, że układa się z Fenicjanami o budowę kanału i że w zdradziecki sposób chce dostać się do Labiryntu.
 
-untamable lioness!"
+— Życie moje i cześć jest w waszych rękach — zakończył Herhor. — Jeżeli to, co powiedziałem, jest nieprawdą, skażcie mnie na śmierć, a ciało moje na spalenie...
 
-"Be at rest," said Ramses. "Thy daughter is full of wisdom and dignity.
+Teraz już nikt nie wątpił, że arcykapłan mówi szczerą prawdę. Żaden bowiem Egipcjanin nie naraziłby ciała swego na spalenie, czyli — duszy na zgubę.
 
-She went out because she saw that thy wine was gladdening the guests
+Kilka dni po weselu Tutmozis przepędził w towarzystwie Hebron w pałacyku darowanym mu przez jego świątobliwość. Ale każdego wieczora przychodził do koszar gwardii, gdzie w towarzystwie oficerów i tancerek bardzo wesoło przepędzał noce.
 
-rather powerfully."
+Z tego zachowania koledzy domyślili się, że Tutmozis poślubił Hebron tylko dla posagu, co wreszcie nikogo nie dziwiło.
 
-In fact a great uproar had risen in the hall, all the more since
+Po pięciu dniach Tutmozis przyszedł do faraona i oświadczył, że może na powrót objąć służbę. Skutkiem czego odwiedzał swoją małżonkę tylko przy świetle słonecznym, a w nocy czuwał przy komnacie pana.
 
-Tutmosis, abandoning the role of assistant host, had become a most
+Jednego wieczora rzekł mu faraon:
 
-animated talker.
+— Pałac ten ma tyle kątów do podglądania i podsłuchiwania, że każda moja czynność jest śledzona. Nawet do czcigodnej matki mojej znowu odzywają się tajemnicze głosy, które już umilkły były w Memfis, gdym rozpędził kapłanów...
 
-"I will say to thee in confidence, holiness, that poor Tutmosis must
+Tym sposobem — ciągnął pan — nie mogę nikogo przyjmować u siebie, ale muszę opuszczać pałac i w miejscu bezpiecznym naradzać się ze sługami moimi...
 
-guard himself greatly in presence of my daughter," remarked Antefa.
+— Mam iść za waszą świątobliwością? — spytał Tutmozis widząc, że faraon ogląda się za płaszczem.
 
-That first feast continued till morning. The pharaoh, it is true,
+— Nie. Musisz zostać tutaj i pilnować, aby nikt nie wchodził do mojej komnaty. Nikogo też nie wpuszczaj, choćby to była matka moja, a nawet cień wiecznie żyjącego ojca... Powiesz, że śpię i że nie chcę widzieć się z nikim.
 
-departed immediately, but others remained, first in their chairs and
+— Stanie się, jak rzekłeś — odparł Tutmozis, wkładając na pana płaszcz z kapturem.
 
-then on the floor. Finally Antefa had to send them home as if they had
+Potem zgasił światło w sypialni, a faraon wyszedł bocznymi korytarzami.
 
-been lifeless objects.
+Znalazłszy się w ogrodzie, Ramzes przystanął i z uwagą rozejrzał się w okolicy. Następnie widać zorientowawszy się, począł szybko iść w stronę pałacyku ofiarowanego Tutmozisowi.
 
-The marriage ceremony took place some days later.
+Po kilku minutach drogi w cienistej alei ktoś przed nim stanął i zapytał:
 
-To Antefa's palace went the high priests Herhor and Mefres, the
+— Kto idzie?...
 
-nomarchs of the neighboring provinces, and the chief officials of
+— Nubia — odpowiedział faraon.
 
-Thebes. Later appeared Tutmosis on a two-wheeled chariot, attended by
+— Libia — rzekł pytający i nagle cofnął się, jakby przestraszony.
 
-officers of the guard, and finally his holiness, the pharaoh.
+Był to oficer gwardii. Władca przypatrzył mu się i zawołał:
 
-Ramses was attended by the chief scribe, the commander of the archers,
+— Ach, to Eunana!... Co tu robisz?
 
-the commander of the cavalry, the chief judge, the chief treasurer, Sem
+— Obchodzę ogrody. Robię to każdej nocy po parę razy, gdyż zakradają się niekiedy złodzieje.
 
-the high priest, and the adjutant generals.
+Faraon pomyślał i rzekł:
 
-When that splendid assembly was in the hall of the ancestors of the
+— Roztropnie czynisz. Lecz zapamiętaj sobie, że pierwszym obowiązkiem gwardzisty jest milczeć... Złodzieja wypędź, ale gdybyś spotkał jaką dostojną osobę, nie zaczepiaj jej i milcz, zawsze milcz... Choćby to... był sam arcykapłan Herhor...
 
-most worthy Antefa, Hebron appeared in white robes with a numerous
+— O panie! — zawołał Eunana — tylko nie rozkazuj mi składać w nocy hołdu Herhorowi albo Mefresowi... Nie wiem, czy na ich widok miecz sam nie wydarłby mi się z pochwy...
 
-retinue of damsels and maids in attendance. Her father, after he had
+Ramzes uśmiechnął się.
 
-burned incense before Amon and the statue of his own father, and Ramses
+— Twój miecz jest moim — odparł — i tylko wtedy może wyjść z pochwy, kiedy ja rozkażę...
 
-XIII, who was sitting on a raised platform, declared that he freed his
+Skinął głową Eunanie i poszedł dalej.
 
-daughter Hebron from guardianship and provided her with a dowry. Then
+Po kwadransie błądzenia mylnymi ścieżkami faraon znalazł się w pobliżu altany ukrytej w gąszczach. Zdawało mu się, że usłyszał szelest i cicho zapytał:
 
-he gave her, in a gold tube, a document securing her dowry, and written
+— Hebron?...
 
-before the court on papyrus.
+Naprzeciw niemu wybiegła figura odziana również w ciemny płaszcz. Przypadła do Ramzesa i zawisła mu na szyi szepcząc:
 
-After a short lunch the bride took her seat in a costly litter borne by
+— To ty, panie?... to ty?... Jakże długo czekałam...
 
-eight officials of the province. Before her went music and singers;
+Faraon poczuł, że wysuwa mu się z objęć; wziął ją na ręce i zaniósł do altany. W tej chwili spadł z niego płaszcz. Ramzes przez chwilę ciągnął go, lecz w końcu zostawił.
 
-around the litter were dignitaries, and behind them an immense crowd of
+Na drugi dzień czcigodna pani Nikotris wezwała do siebie Tutmozisa. Ulubieniec faraona aż zląkł się, spojrzawszy na nią. Królowa była strasznie blada; oczy miała zapadnięte, prawie błędne.
 
-people. All this procession moved toward the temple of Amon, through
+— Siądź — rzekła wskazując mu stołeczek obok swego fotelu.
 
-the most beautiful streets of the city, amid a throng of people almost
+Tutmozis zawahał się.
 
-as numerous as that which had attended the funeral of the pharaoh.
+— Siądź!... i... przysięgnij, że nikomu nie powtórzysz tego, co ci powiem...
 
-At the temple the people remained outside the walls while the bride and
+— Na cienie mego ojca... — rzekł.
 
-groom, the pharaoh and dignitaries, entered the hall of columns. There
+— Słuchaj — mówiła królowa cicho — byłam dla ciebie prawie matką... Gdybyś więc zdradził tajemnicę, bogowie skaraliby... Nie... Oni tylko zwaliliby na twoją głowę część tych klęsk, jakie wiszą nad moim rodem...
 
-Hebron burned incense before the veiled statue of Amon, priestesses
+Tutmozis słuchał zdumiony.
 
-performed a sacred dance, and Tutmosis read the following act from a
+„Obłąkana?...” — pomyślał z trwogą.
 
-papyrus:
+— Spojrzyj na to okno — ciągnęła — na to drzewo... Czy wiesz, kogo dziś w nocy widziałam na tym drzewie, za oknem?...
 
-"I, Tutmosis, commander of the guard of his holiness Ramses XIII, take
+— Miałżeby przyjechać do Tebów przyrodni brat jego świątobliwości?...
 
-thee, Hebron, daughter of Antefa the nomarch of Thebes, as wife. I give
+— To nie był tamten — szeptała łkając. — To był on sam... mój syn... mój Ramzes!...
 
-thee now the sum of ten talents because Thou hast consented to marry
+— Na drzewie?... dziś w nocy?...
 
-me. For thy robes I designate to thee three talents yearly, and for
+— Tak!... światło pochodni doskonale padało na jego twarz i postać... Miał kaftan w białe i niebieskie pasy... obłąkane spojrzenie... Śmiał się dziko jak tamten nieszczęsny jego brat i mówił: „Patrz, matko, ja już umiem latać, czego nie potrafił ani Seti, ani Ramzes Wielki, ani Cheops... Patrz, jakie wyrastają mi skrzydła!...”
 
-household expenses one talent a month. Of the children which we may
+Wyciągnął do mnie rękę, i ja, nieprzytomna z żalu, dotykałam przez okno jego rąk, jego twarzy oblanej zimnym potem... Wreszcie zsunął się z drzewa i uciekł...
 
-have the eldest son will be heir to the property which I possess now
+Tutmozis słuchał przerażony. Nagle uderzył się w czoło.
 
-and which I may acquire hereafter. If I should not live with thee, but
+— To nie był Ramzes! — odparł stanowczo. — To był człowiek bardzo podobny do niego, podły Grek, Lykon, który zabił mu syna, a dziś znajduje się w mocy arcykapłanów... To nie Ramzes!... To występek tych nikczemników, Herhora i Mefresa...
 
-divorce myself and take another wife, I shall be obliged to pay thee
+Na twarzy królowej błysnęła nadzieja, lecz tylko na chwilę.
 
-forty talents, which sum I secure with my property. Our son, on
+— Czyliżbym nie poznała mego syna?...
 
-receiving his estate, is to pay thee fifteen talents yearly. Children
+— Lykon ma być nadzwyczajnie podobny — rzekł Tutmozis. — To sprawa kapłanów... Nikczemni!... Śmierci za mało dla nich...
 
-of another wife are to have no right to the property of our first-born
+— Więc faraon spał dzisiejszą noc w domu? — nagle zapytała pani.
 
-son." [Authentic]
+Tutmozis zmieszał się i spuścił oczy.
 
-The chief judge appeared now and read an act in which the bride
+— Więc nie spał?...
 
-promised to give good food and raiment to her husband, to care for his
+— Spał... — odrzekł niepewnym głosem ulubieniec.
 
-house, family, servants, slaves, and cattle, and to entrust to that
+— Kłamiesz!... Ale powiedz mi przynajmniej, czy nie miał kaftana w białe i niebieskie pasy?...
 
-husband the management of the property which she had received or would
+— Nie pamiętam... — szepnął Tutmozis.
 
-receive from her father.
+— Znowu kłamiesz... A ten płaszcz... powiedz, że to nie jest płaszcz mego syna... Mój niewolnik znalazł go na tym samym drzewie...
 
-After the acts were read Herhor gave Tutmosis a goblet of wine. The
+Pani zerwała się i wydobyła ze skrzyni brunatny płaszcz z kapturem. Jednocześnie Tutmozis przypomniał sobie, że faraon wrócił po północy bez płaszcza, a nawet tłumaczył się przed nim, że płaszcz zginął mu gdzieś w ogrodzie...
 
-bridegroom drank half, the bride moistened her lips with it, and then
+Wahał się, myślał, w końcu odparł stanowczo:
 
-both burned incense before the purple curtain.
+— Nie, królowo. To nie był faraon... To był Lykon i zbrodnia kapłanów, o której natychmiast trzeba powiedzieć jego świątobliwości...
 
-Leaving the temple of Amon the young couple and their splendid retinue
+— A jeżeli to Ramzes?... — znowu spytała pani, choć w jej oczach już było widać iskrę nadziei.
 
-passed through the avenue of sphinxes to the pharaoh's palace. Crowds
+Tutmozis stropił się. Domysł jego co do Lykona był mądry i mógł być słuszny; lecz nie brakło poszlak, że królowa widziała Ramzesa. Wszak wrócił do swego mieszkania po północy, miał kaftan w białe i niebieskie pasy, zgubił płaszcz... Wszakże jego brat już był obłąkany, a wreszcie — czy w tym wypadku mogłoby omylić się serce matki?...
 
-of people and warriors greeted them with shouts, scattering flowers on
+I oto naraz w duszy Tutmozisa zbudziły się wątpliwości skłębione i zmotane jak gniazdo jadowitych wężów.
 
-their pathway.
+Szczęściem, w miarę jak on wahał się, w serce królowej wstępowała otucha.
 
-Tutmosis had dwelt up to that time in the chambers of the pharaoh, but
+— Dobrze, że przypomniałeś mi tego Lykona... Pamiętam!... Przez niego Mefres posądził Ramzesa o dzieciobójstwo, a dziś — może posługuje się nędznikiem do zniesławienia pana...
 
-on the day of his marriage Ramses presented him with a beautiful little
+W każdym razie ani słowa nikomu o tym, co ci powierzyłam... Gdyby Ramzes... gdyby naprawdę uległ takiemu nieszczęściu, może to być chwilowe... Niepodobna upakarzać go rozgłaszaniem podobnych wieści, a nawet niepodobna zawiadamiać go o tym!... Jeżeli zaś jest to zbrodnia kapłanów, musimy być również ostrożni. Chociaż... ludzie, którzy uciekają się do takich oszustw, nie mogą być silni...
 
-villa in the depth of the gardens, surrounded by a forest of fig trees,
+— Wyśledzę ja to — przerwał Tutmozis — ale gdy się przekonam...
 
-myrtles and baobabs, where the bridegroom and bride might pass days of
+— Tylko nie mów Ramzesowi, zaklinam cię na cienie ojców!... — zawołała pani, składając ręce. — Faraon nie przebaczyłby im, oddałby ich pod sąd, a wówczas musiałoby nastąpić jedno z dwu nieszczęść. Albo skazano by na śmierć najwyższych kapłanów państwa, albo sąd uwolniłby ich... A co potem?...
 
-happiness hidden from human eye, and cut off, as it were, from the
+Natomiast Lykona ścigaj i zabij bez miłosierdzia jak drapieżne zwierzę... jak żmiję...
 
-world about them.
+Tutmozis pożegnał królowę znacznie uspokojoną, choć jego obawy wzrosły.
 
-In that quiet corner people showed themselves so rarely that even birds
+„Jeżeli ten podły Grek Lykon żyje jeszcze pomimo kapłańskiego więzienia — myślał — to przede wszystkim, zamiast łazić po drzewach i pokazywać się królowej — wolałby uciec... Ja sam ułatwiłbym mu ucieczkę i obsypałbym bogactwami, gdyby wyznał mi prawdę i szukał opieki przeciw tym łotrom... Ale skąd kaftan, płaszcz?... Dlaczego myliłaby się matka?...”
 
-did not flee before them. When the young couple and the guests found
+Od tej pory Tutmozis unikał faraona i nie śmiał patrzeć mu w oczy. A że i Ramzes był jakiś nieswój, więc zdawało się na pozór, że serdeczne ich stosunki ochłodły.
 
-themselves in this new dwelling the final ceremony of marriage
+Lecz pewnego wieczora pan znowu wezwał ulubieńca.
 
-followed:
+— Muszę — rzekł — pogadać z Hiramem o ważnych sprawach, więc wychodzę. Czuwaj tu, przy mojej sypialni, a gdyby kto chciał mnie widzieć, nie dopuść...
 
-Tutmosis took Hebron by the hand and led her to a fire burning before a
+Gdy Ramzes zniknął w tajemnych korytarzach pałacu, Tutmozisa ogarnął niepokój.
 
-statue of Isis; then Mefres poured a spoonful of holy water on the
+„Może — myślał — kapłani otruli go jakim szalejem, a on czując, że zbliża się wybuch choroby, ucieka ze swego domu?... Ha, zobaczymy.”
 
-lady's head; Hebron touched the fire with her hand, while Tutmosis
+Jakoż zobaczył. Faraon wrócił dobrze po północy do swych komnat i wprawdzie miał na sobie płaszcz, ale... nie swój, tylko żołnierski.
 
-divided a morsel of bread with her and placed his own ring on her
+Tutmozis zatrwożył się i nie spał do rana oczekując, rychło znowu wezwie go królowa. Królowa jednak nie wezwała go. Natomiast, w czasie rannego przeglądu gwardii, oficer Eunana poprosił swego naczelnika o chwilę rozmowy.
 
-finger in sign that from that time forth she was mistress of his land,
+Gdy znaleźli się we dwu w osobnej komnacie, Eunana upadł Tutmozisowi do nóg błagając, aby nikomu nie powtórzył tego, co on mu powie.
 
-his servants, his slaves and cattle.
+— Cóż się stało?... — zapytał Tutmozis czując chłód w sercu.
 
-Meanwhile the priests sang wedding hymns and bore the statue of the
+— Wodzu — mówił Eunana — wczoraj, około północy, dwaj moi żołnierze schwycili w ogrodzie człowieka, który biegał nagi i krzyczał nieludzkim głosem...
 
-divine Isis through the whole house; and priestesses performed sacred
+Przyprowadzili go do mnie i wodzu... zabij mnie!...
 
-dances.
+Eunana upadł znowu do nóg Tutmozisowi.
 
-The day ended with spectacles and a great feast, during which all
+— ...Ten człowiek nagi... ten... Nie mogę powiedzieć...
 
-noticed that Hebron accompanied the pharaoh continually, and that
+— Kto był?... — zapytał przerażony Tutmozis.
 
-Tutmosis kept at a distance from her, and simply entertained guests at
+— Już nic nie powiem... — jęknął Eunana. — Zdjąłem mój płaszcz i okryłem świętą nagość... Chciałem odprowadzić do pałacu, ale... ale pan kazał mi zostać i milczeć... milczeć...
 
-the wedding.
+— I gdzie poszedł?...
 
-When the stars had risen the holy Herhor left the feast, and soon after
+— Nie wiem... nie patrzyłem i nie pozwoliłem patrzeć żołnierzom... Zniknął gdzieś w gąszczach ogrodu... Zapowiedziałem moim ludziom, że... nic nie widzieli... nic nie słyszeli... A gdyby który widział lub słyszał cokolwiek, będzie natychmiast uduszony.
 
-some of the highest dignitaries slipped out also. About midnight the
+Tutmozis tymczasem zdołał zapanować nad sobą.
 
-following worthy persons met in a subterranean chamber of the temple of
+— Nie wiem — rzekł chłodno — nie wiem i nie rozumiem nic z tego, coś mi opowiedział. Ale pamiętaj o jednym, że — ja sam biegałem nago, gdym raz wypił za dużo wina, i... hojnie nagrodziłem tych, którzy mnie nie spostrzegli.
 
-Amon: the high priests Herhor, Mefres, and Mentezufis, the chief judge
+Chłopi, Eunano, chłopi i robotnicy zawsze chodzą nago. Wielcy zaś tylko wówczas, gdy im się tak podoba. I gdyby mnie czy któremu z dostojników przyszła ochota stanąć na głowie, mądry i pobożny oficer nie powinien się temu dziwić.
 
-of Thebes, also the chiefs of the provinces of Abs, Horti, and Emsuchs.
+— Rozumiem — odparł Eunana bystro patrząc w oczy wodzowi. — I nie tylko powtórzę to moim żołnierzom, ale nawet zaraz dzisiejszej nocy będę chodził nago po ogrodach, aby wiedzieli, że starsi mają prawo robić to, co chcą...
 
-Mentezufis looked around among the great columns, closed the door,
+Bez względu jednak na małą liczbę osób, które widziały faraona czy jego sobowtóra w stanie obłędu, wieść o tych dziwnych wypadkach rozeszła się bardzo prędko. W kilka dni wszyscy mieszkańcy Teb, od paraszytów i nosiwodów do kupców i pisarzy, szeptali, że Ramzes XIII dotknięty jest nieszczęściem, które jego starszych braci usunęło od tronu.
 
-quenched the torches, and in that lower chamber there remained only one
+Obawa i cześć dla faraona były tak wielkie, że lękano się mówić głośno, osobliwie między ludźmi obcymi. Niemniej jednak wszyscy o tym wiedzieli — z wyjątkiem samego Ramzesa.
 
-light, that which burned before a statue of Horus. The dignitaries sat
+Najszczególniejsze jednak było to, że pogłoska bardzo prędko obiegła całe państwo, co było dowodem, że rozchodziła się za pośrednictwem świątyń. Tylko bowiem kapłani posiadali tajemnicę porozumiewania się w ciągu kilkunastu godzin z jednego krańca Egiptu na drugi.
 
-down on three stone benches.
+Tutmozisowi nikt bezpośrednio nie wspominał o szkaradnych wieściach. Lecz dowódca faraonowej gwardii na każdym kroku czuł ich istnienie. Z zachowania się ludzi, z którymi łączyły go stosunki, odgadywał, że służba, niewolnicy, żołnierze, dostawcy dworu mówią o szaleństwie pana, milknąc tylko na tę chwilę, kiedy mógłby usłyszyć ktoś starszy.
 
-"If I were commanded to describe the character of Ramses XIII," said
+Nareszcie zniecierpliwiony i zatrwożony Tutmozis zdecydował się na rozmowę z nomarchą tebańskim.
 
-the nomarch of Abs, "I should be unable to do so."
+Przyszedłszy do jego pałacu, zastał Antefa leżącego na kanapie w pokoju, którego połowa była jakby ogródkiem zapełnionym osobliwymi roślinami. Na środku tryskała fontanna różanej wody; w kątach stały posągi bogów, na ścianach była wymalowana historia czynów znakomitego nomarchy. Stojący w głowach czarny niewolnik chłodził pana wachlarzem ze strusich piór; na posadzce siedział pisarz nomesu i czytał raport.
 
-"He is a maniac!" said Mefres.
+Tutmozis miał minę tak zafrasowaną, że nomarcha natychmiast wyprawił pisarza i niewolnika, a podniósłszy się z kanapy przejrzał wszystkie kąty pokoju, aby sprawdzić, czy kto nie podsłuchuje.
 
-"I do not know that he is a maniac," answered Herhor, "but he is very
+— Dostojny ojcze pani Hebron, mojej czcigodnej małżonki — odezwał się Tutmozis — z twego zachowania się widzę, że odgadujesz: o czym chcę mówić...
 
-dangerous in every case. Already Assyria has reminded us twice of the
+— Nomarcha Teb zawsze musi być przezornym — odparł Antef. — Domyślam się również, że naczelnik gwardii jego świątobliwości nie mógł zaszczycić mnie odwiedzinami w błahym interesie.
 
-last treaty, and is beginning, I hear, to be alarmed at the arming of
+Przez chwilę obaj patrzyli sobie w oczy. Wreszcie Tutmozis usiadł obok swego teścia i szepnął:
 
-Egypt."
+— Czy słyszałeś nikczemne wieści, które wrogowie państwa rozgłaszają o naszym władcy?...
 
-"That is of less importance," said Mefres; "there is something worse,
+— Jeżeli chodzi o moją córkę Hebron — śpiesznie odezwał się nomarcha — oświadczam ci, że dziś ty jesteś jej panem i nie możesz mieć do mnie żalu...
 
-for this godless man is thinking to violate the treasure of the
+Tutmozis niedbale machnął ręką.
 
-labyrinth."
+— Jacyś niegodni ludzie — mówił zięć — rozgłaszają, że faraon jest obłąkany... Słyszałeś o tym, mój ojcze?...
 
-"But I should consider," said the nomarch of Emsuch, "that his promises
+Antef kiwał i kręcił głową, co mogło równie dobrze oznaczać potwierdzenie, jak i zaprzeczenie. Wreszcie rzekł:
 
-to the people are the worst. Our income and that of the state will be
+— Głupstwo jest wielkie jak morze, wszystko w sobie pomieści.
 
-shattered if the common people are idle one day in seven. But if the
+— To nie głupstwo, ale występek kapłanów, którzy posiadają człowieka podobnego do jego świątobliwości i posługują się nim do podłych czynów.
 
-pharaoh gives them land in addition?"
+I opowiedział nomarsze historią Greka Lykona tudzież jego zbrodnię w Pi-Bast.
 
-"He is ready to do that," said the chief judge in a whisper.
+— O tym Lykonie, który zabił dziecko księcia następcy słyszałem — odparł Antef. — Ale gdzie masz dowody, że Mefres uwięził Lykona w Pi-Bast, że przywiózł go do Teb i że wypuszcza go do ogrodów królewskich, aby tam udawał obłąkanego faraona?...
 
-"Is he ready?" asked the nomarch of Horti. "It seems to me that he
+— Właśnie dlatego pytam waszą dostojność: co robić?... Jestem przecie naczelnikiem gwardii i muszę czuwać nad czcią i bezpieczeństwem naszego pana.
 
-merely wants money. If we should give him something from the
+— Co robić?... co robić?... — powtarzał Antef. — Ha! przede wszystkim pilnować, ażeby te wieści bezbożne nie dosięgnęły uszu faraona...
 
-labyrinth."
+— Dlaczego?...
 
-"Impossible," interrupted Herhor. "The state is not threatened by
+— Bo stanie się wielkie nieszczęście. Gdy nasz pan usłyszy, że Lykon w jego imieniu udaje wariata, wpadnie w gniew... straszny gniew!... Naturalnie zwróci się przeciw Herhorowi i Mefresowi. Może ich tylko zelży, może uwięzi, może nawet zabije... Cokolwiek zaś zrobi, zrobi bez żadnego dowodu, a wtedy co?... Dzisiejszy Egipt już nie lubi składać ofiar bogom, ale jeszcze ujmie się za niewinnie pokrzywdzonymi kapłanami... A wtedy co?... Bo ja myślę — dodał zbliżywszy usta do ucha Tutmozisowi — bo ja myślę, że byłby to koniec dynastii...
 
-danger, but the pharaoh is, and that is not the same question. I repeat
+— Więc cóż robić?...
 
-that as a dam is strong only while it is not penetrated by the tiniest
+— Ciągle jedno! — zawołał Antef. — Znajdź owego Lykona, dowiedź, że Mefres i Herhor ukrywali go i kazali mu udawać obłąkanego faraona... To możesz zrobić, jeżeli chcesz utrzymać łaskę pana. Dowodów, jak najwięcej dowodów!... U nas nie Asyria, arcykapłanów bez najwyższego sądu krzywdzić nie można, a żaden sąd nie skaże ich bez namacalnych dowodów...
 
-stream of water, so the labyrinth is full till we touch the first block
+Gdzie masz zresztą pewność, że faraonowi nie podsunięto jakiejś odurzającej trucizny?... Przecie to byłoby prostsze aniżeli wysyłanie po nocy człowieka, który nie zna ani haseł, ani pałacu, ani ogrodu... Mówię ci: O Lykonie słyszałem z pewnych ust, bo od Hirama. Ale nie rozumiem, w jaki sposób Lykon mógłby w Tebach wyprawiać takie dziwy.
 
-of gold in it. After that, all will go. Finally, whom do we strengthen
+— Ale, ale!... — przerwał Tutmozis. — A gdzie jest Hiram?
 
-by the treasures of the gods and of Egypt? This young man who despises
+— Zaraz po waszym weselu pojechał ku Memfisowi, a w tych dniach był już w Hiten.
 
-religion, belittles priests, and disturbs the people. Is he not worse
+Tutmozis znowu zakłopotał się.
 
-than Assar? Assar is a barbarian, but he does not harm us."
+„Tej nocy — myślał — kiedy do Eunany przyprowadzono nagiego człowieka, faraon mówił, że idzie zobaczyć się z Hiramem. A ponieważ Hirama nie było w Tebach, więc co?... Więc jego świątobliwość już o tej godzinie sam nie wiedział, co mówi!”
 
-"It is improper for the pharaoh to pay court to his favorite's wife so
+Tutmozis wrócił do siebie oszołomiony. Już nie tylko nie pojmował: co robić w tym niesłychanym położeniu, ale nawet — co o nim myśleć? O ile bowiem w rozmowie z królową Nikotris był pewny, że w ogrodach ukazywał się Lykon, wysłany przez arcykapłanów, o tyle dziś jego wątpliwości rosły.
 
-openly on the very day of the marriage," said the judge, thoughtfully.
+A jeżeli tak było z Tutmozisem, ulubieńcem, który ciągle widywał Ramzesa, cóż musiało dziać się w sercach ludzi obcych?... Najgorliwsi stronnicy faraona i jego zamiarów mogli zachwiać się słysząc ze wszystkich stron, że władca jest obłąkanym!
 
-"Hebron herself entices him," said the nomarch of Horti.
+Był to pierwszy cios zadany Ramzesowi XIII przez kapłanów. Drobny sam w sobie, pociągał nieobrachowane skutki.
 
-"All women entice men," answered the nomarch of Emsuch. "Sense,
+Tutmozis nie tylko wahał się, ale i cierpiał. Pod lekkomyślnymi pozorami miał on charakter szlachetny i energiczny. Więc dziś, kiedy godzono na cześć i władzę jego pana, Tutmozisa gryzła bezczynność. Zdawało mu się, że jest komendantem twierdzy, którą podkopuje nieprzyjaciel, a on patrzy na to bezczynny!...
 
-however, is given a man to avoid sin."
+Myśl ta tak dręczyła Tutmozisa, że pod wpływem jej wpadł na śmiały pomysł. Mianowicie spotkawszy raz arcykapłana Sema, rzekł mu:
 
-"But is not the pharaoh husband to all the women of Egypt?" whispered
+— Wasza dostojność słyszałeś — pogłoski, jakie krążą o naszym panu?...
 
-the nomarch of Abs. "Moreover, sin is under the judgment of the gods,
+— Faraon jest młody, więc mogą o nim krążyć bardzo rozmaite plotki — odparł Sem, dziwnie patrząc na Tutmozisa. — Ale sprawy takie nie do mnie należą: zastępuję jego świątobliwość w służbie bogów, spełniam to, jak umiem najlepiej, o resztę nie dbam.
 
-while we are occupied only with Egypt."
+— Wiem, że wasza dostojność jesteś wiernym sługą faraona — mówił Tutmozis — i nie mam zamiaru mieszać się do kapłańskich tajemnic. Muszę jednak zwrócić waszą uwagę na jeden drobiazg...
 
-"He is dangerous! he is dangerous!" said the nomarch of Emsuch, while
+Oto dowiedziałem się z pewnością, że święty Mefres przechowuje niejakiego Lykona, Greka, na którym ciążą dwa występki: jest on mordercą faraonowego syna i — jest zanadto podobny do jego świątobliwości...
 
-his hands and head trembled. "There is no doubt that the common people
+Niech więc dostojny Mefres nie ściąga hańby na czcigodny stan kapłański i czym prędzej wyda mordercę sądom. Jeżeli bowiem my znajdziemy Lykona, przysięgam, że Mefres utraci nie tylko swój urząd, ale i głowę. W naszym państwie nie można bezkarnie opiekować się zbójami i ukrywać ludzi podobnych do najwyższego władcy!...
 
-have become insolent and may rise any moment. In that case no high
+Sem, w którego obecności Mefres odebrał policji Lykona, zmieszał się, może z obawy, aby go nie posądzono o wspólnictwo. Niemniej jednak odparł:
 
-priest or nomarch would be sure of his life, not to mention his office
+— Postaram się ostrzec świętego Mefresa o tych uwłaczających mu podejrzeniach. Czy jednak wasza dostojność wie: jak odpowiadają ludzie oskarżający kogoś o zbrodnię?
 
-and property."
+— Wiem i przyjmuję odpowiedzialność. Tak przecie jestem pewny swego, że o następstwa moich podejrzeń wcale się nie troszczę. Niepokój zostawiam czcigodnemu Mefresowi i życzę mu, abym nie potrzebował od przestróg — przejść do czynów.
 
-"Against an uprising we have means," replied Herhor.
+Rozmowa wywołała skutek: od tej pory ani razu nikt nie widział faraonowego sobowtóra.
 
-"What means?"
-
-"First of all," answered Mefres, "we can avoid an uprising if we
-
-explain to the wisest among common people that he who makes them
-
-promises is a maniac."
-
-"He is one of the soundest men under the sun," whispered the nomarch of
-
-Horti. "All that we need is to learn what he wishes."
-
-"He is a maniac! a maniac!" repeated Mefres. "His own brother imagines
-
-himself a monkey, and drinks with dissectors. Ramses may act in the
-
-same fashion any day."
-
-"It is awkward and evil to declare a man of sound mind a maniac," said
-
-the nomarch of Horti. "For if people see the falsehood they will cease
-
-to believe in us, and nothing will restrain an uprising."
-
-"If I say that Ramses is a maniac it must be that I have proof,"
-
-replied Mefres. "And now listen."
-
-The dignitaries moved on their benches.
-
-"Tell me," continued Mefres, "would a man of sound mind, heir to the
-
-throne of Egypt, dare to fight in public against a bull in presence of
-
-so many thousands of Asiatics? Would a prince of sound judgment, an
-
-Egyptian, wander into a Phoenician temple during night hours? Would he,
-
-without cause, reduce to the rank of slaves his first woman, an act
-
-which caused her death and the death of her infant?"
-
-Those present murmured in fear.
-
-"All this we have seen in Pi-Bast. Mentezufis and I were witnesses of
-
-drinking feasts, at which the half-demented heir blasphemed against the
-
-gods and insulted the priesthood."
-
-"That is true," said Mentezufis.
-
-"And what do ye think," continued Mefres, with greater heat, "would a
-
-man of sound mind, the leader of an army, leave his troops to chase
-
-after a few Libyan bandits? I pass over a number of smaller things,
-
-even the idea of giving the people land and a holiday; could I say that
-
-a man was of sound mind who committed so many criminal absurdities
-
-without cause, just at random?"
-
-Those present were silent; the nomarch of Horti was troubled.
-
-"It is necessary to think over this," added the chief judge, "lest
-
-injustice be done him."
-
-Here Herhor spoke.
-
-"Holy Mefres has done him a kindness," said he, in low decisive tones,
-
-"by considering him a maniac. Unless he is a maniac we must call him a
-
-traitor."
-
-Those present moved with fear.
-
-"Yes, the man called Ramses XIII is a traitor, for not only does he
-
-select spies and robbers to discover the way to the treasures of the
-
-labyrinth, not only does he reject the treaty with Assyria, which Egypt
-
-needs absolutely."
-
-"Grievous accusations," said the judge.
-
-"But listen to me further: he is negotiating with villainous
-
-Phoenicians to cut a canal between the Red Sea and the Mediterranean.
-
-This canal is the greatest danger for Egypt, since our country might be
-
-inundated by water in one moment. It is not a question here of the
-
-treasures of the labyrinth, but of our temples, houses, fields, six
-
-millions of people, foolish, it is true, but innocent, and finally of
-
-our own lives and the lives of our children."
-
-"If that is the case" sighed the nomarch of Horti.
-
-"I and the worthy Mefres pledge ourselves that it is the case, and that
-
-this one man has gathered into his hands more dangers than have ever
-
-yet threatened Egypt. Hence we have brought you here to provide means
-
-of rescue. But we must act quickly, for the plans of this man advance
-
-like a storm in a desert and may overwhelm every one of us."
-
-For a moment there was silence in the dark chamber.
-
-"What is to be done at present?" asked the nomarch of Emsuch. "We live
-
-in our provinces far from the court, and not only do we not know the
-
-plans of this madman, but we cannot even divine them, we can hardly
-
-believe that they exist. I think it is best therefore to leave this
-
-affair with thee, worthy Herhor, and with Mefres. Ye have discovered
-
-the disease, provide the remedy and act. But if the greatness of
-
-responsibility alarms you, associate with yourselves the supreme judge
-
-as assistant."
-
-"Yes! yes! he speaks truth," confirmed the indignant officials.
-
-Mentezufis lighted a torch and placed on a table before the statue of
-
-the god a papyrus on which was written an act of the following
-
-contents: In view of dangers threatening the state, the power of the
-
-secret council passes into the hands of Herhor with whom are associated
-
-as assistants the supreme judge and Mefres.
-
-This act, confirmed by the signatures of the dignitaries present, was
-
-enclosed in a tube and concealed in a secret place beneath the altar.
-
-In addition, each one of the seven associates bound himself under oath
-
-to attract to the conspiracy ten dignitaries. Herhor promised to bring
-
-proof that Assyria was insisting on the treaty, and that the pharaoh
-
-did not wish to sign it, that he was negotiating with Phoenicians to
-
-dig the canal, and that he intended to enter the labyrinth
-
-treacherously.
-
-"My life and honor are in your hands," concluded Herhor. "If what I
-
-have said is untrue condemn me to death, and have my body burned
-
-afterward."
-
-No one doubted now that the high priest spoke the pure truth; for no
-
-Egyptian would expose his body to burning and his soul to destruction.
-
-Tutmosis spent a few days after the wedding in company with Hebron, in
-
-the palace given him by his holiness. But every evening he went to the
-
-barracks of the guard, where with officers and dancers he passed the
-
-nights very pleasantly.
-
-From this conduct his comrades divined that he had married Hebron only
-
-for her dowry; this, however, did not astonish any one.
-
-After five days Tutmosis announced to the pharaoh that he was ready to
-
-resume his duties. Thenceforth he visited his wife only in the daytime,
-
-the nights he passed near his lord's chamber.
-
-One evening the pharaoh said to him,
-
-"This palace has so many comers for watching and listening that every
-
-act of mine is noted. My revered mother is addressed again by those
-
-mysterious voices which ceased in Memphis after I dismissed the
-
-priesthood. I cannot receive therefore any one in my own chamber, but
-
-must leave the palace and take counsel with my servants in a safe
-
-place."
-
-"Am I to follow thee, holiness?" inquired Tutmosis, seeing that the
-
-pharaoh was looking around for his mantle.
-
-"No; Thou must stay here and see that no one enters my chamber. Admit
-
-no person, not even my mother, not even the shade of my ever-living
-
-father. Thou wilt say that I am asleep and will see no one."
-
-"It will be as Thou hast said," replied Tutmosis, putting on his lord a
-
-hooded mantle. Then he quenched the light in the bed-chamber and Ramses
-
-went out through side passages.
-
-When he was in the garden Ramses stopped and looked on all sides with
-
-attention. Then, taking bearings, he started quickly toward the villa
-
-which he had given Tutmosis. After he had walked some minutes in a
-
-shady alley a man stood before him and inquired,
-
-"Who goes?"
-
-"Nubia," answered the pharaoh.
-
-"Libya," said the inquirer, and pushed back suddenly, as if frightened.
-
-The man was an officer of the guard. The pharaoh looked at him, and
-
-said,
-
-"Ah, this is Eunana! What art Thou doing in this place?"
-
-"I am going around the gardens; I do so a couple of times nightly, for
-
-thieves steal in sometimes."
-
-"Thou dost wisely. But remember the first duty of an officer of the
-
-guard is silence. Drive the thief out, but if Thou meet a man in office
-
-seize him not, be silent, be silent always. Even if the high priest
-
-Herhor were in question."
-
-"Oh lord!" exclaimed Eunana, "but command me not to do homage in the
-
-night to Herhor, or to Mefres. I am not sure that my sword at sight of
-
-them would not spring of itself from the scabbard."
-
-Ramses smiled.
-
-"Thy sword is mine," replied he, "and it may leave the scabbard only
-
-when I give the order." He nodded to Eunana and passed on.
-
-After wandering a quarter of an hour by paths intended to mislead, the
-
-pharaoh found himself near a secret gate in a thicket. It seemed to him
-
-that he heard a rustle, and he said in a low voice,
-
-"Hebron!"
-
-A figure, also in a dark mantle, ran out, rushed at Ramses and clung to
-
-his neck, whispering,
-
-"Is it thou? is it thou? Oh, how long I have waited!"
-
-The pharaoh felt that she was slipping from his embrace, so he took her
-
-in his arms and carried her to an arbor. At that moment the mantle fell
-
-from his shoulders; he dragged it for a while, but at last dropped it.
-
-Next day the revered lady Niort's summoned Tutmosis. The favorite of
-
-the pharaoh was frightened when he looked at her. The queen was
-
-terribly pale, her eyes were sunken and she was almost demented.
-
-"Sit down!" said she, indicating a stool near her armchair.
-
-Tutmosis hesitated.
-
-"Sit down! And and swear that Thou wilt repeat to no one what I tell
-
-thee."
-
-"By the shade of my father, I will not."
-
-"Hear me," said the queen in a low voice; "I have been almost a mother
-
-to thee. Wert Thou to betray this secret the gods would punish thee. No
-
-they would only cast on thy head a part of those misfortunes which are
-
-hanging over my family."
-
-Tutmosis listened with astonishment.
-
-"Is she mad?" thought he with fear.
-
-"Look at that window," continued the queen; "look at that tree. Dost
-
-Thou know whom I saw last night on that tree outside the window?"
-
-"Could the brother of his holiness have come to Thebes?"
-
-"It was not he," whispered she, sobbing. "It was my Ramses himself."
-
-"On the tree? Last night?"
-
-"Yes. The light of the lamp fell on his face and figure perfectly. He
-
-had a coat in white and blue stripes, his eyes were wandering he
-
-laughed wildly, like his unfortunate brother, and said, 'Look at me,
-
-mother, I am able to fly now, a thing that neither Seti, nor Ramses the
-
-Great, nor Cheops could do. See what wings are growing out on me!' He
-
-stretched his hands toward me, and I, unconscious from sorrow, touched
-
-his hands through the window and his face, covered with cold
-
-perspiration. At last he slipped down the tree and vanished."
-
-Tutmosis listened in terror. All at once he struck his forehead.
-
-"That was not Ramses," said he with decision. "That was a man very like
-
-him, that villain, the Greek Lykon, who killed Sarah's son, and who is
-
-now under control of the high priests. That was not Ramses. This is a
-
-crime of Herhor and Mefres, those wretches."
-
-Hope gleamed on the queen's face, but only for a moment.
-
-"How could I fail to recognize my son?"
-
-"Lykon is very like him," answered Tutmosis. "This is a trick of the
-
-priests. They are infamous! For them death is too slight a punishment."
-
-"Did the pharaoh sleep at home last night?" inquired the lady.
-
-Tutmosis was confused and dropped his eyes.
-
-"So he did not sleep at home?"
-
-"He did," answered the favorite with an uncertain voice.
-
-"That is not true. But tell me, at least, did he not wear a coat with
-
-white and blue stripes?"
-
-"I do not remember," whispered Tutmosis.
-
-"Thou art telling untruth again. And this mantle, tell me if this is
-
-not my son's mantle? My slave found it on that same tree, in the
-
-branches."
-
-The queen sprang up and brought from a case a brown, hooded mantle.
-
-Tutmosis remembered that the pharaoh had returned after midnight
-
-without his mantle and even explained to him that he had lost it
-
-somewhere in the garden. He hesitated, meditated, but at last answered
-
-with decision,
-
-"No, queen, that was not the pharaoh. That was Lykon, and this is a
-
-crime of the priests which I must report to his holiness straightway."
-
-"But if that were Ramses?" inquired the lady again, though in her eyes
-
-a spark of hope was now evident.
-
-Tutmosis was troubled. His conclusion that it was Lykon was wise and
-
-might be true, but indications were not lacking that the queen had seen
-
-Ramses. It was certain that he had returned to his chamber after
-
-midnight; he wore a tunic with white and blue stripes, he had lost his
-
-mantle. It was true that his brother was demented, and, moreover, could
-
-a mother's heart deceive her?
-
-And doubts rose in the soul of Tutmosis, intricate and involved as a
-
-nest of poisonous reptiles. Luckily in proportion as his doubts
-
-increased hope entered the heart of Niort's.
-
-"It is well that Thou hast reminded me of that Lykon," said she. "I
-
-remember. Through him Mefres accused Ramses of child murder, and today
-
-he may use the wretch to defame his sovereign. In this case not a word
-
-to any one of what I have told thee. If Ramses if in truth he is
-
-subject to such a misfortune, it may be temporary. We must not
-
-humiliate him by mentioning such reports, we must not inform him. If
-
-this is a plot of the priests we must also be cautious. Though people
-
-who use such deceit cannot be powerful."
-
-"I will investigate this," interrupted Tutmosis, "but if I convince
-
-myself."
-
-"Do not inform Ramses I implore thee by the shade of thy father!"
-
-exclaimed the queen, clasping her hands. "The pharaoh would not forgive
-
-them, he would deliver them to judgment, and then one of two
-
-misfortunes would happen. Either the supreme priests of the state would
-
-be condemned to death, or the court would free them. And then what? But
-
-pursue Lykon and slay him without mercy, like a wild beast like a
-
-reptile."
-
-Tutmosis took farewell of the queen. She was pacified, though his fears
-
-had grown greater.
-
-"If that villainous Greek, Lykon, is living yet, despite imprisonment
-
-by the priests," thought he, "he would prefer flight to climbing trees
-
-and showing himself to the queen. I myself would facilitate his escape,
-
-and cover him with wealth if he would tell the truth and seek
-
-protection against those wretches. But whence came the mantle? How
-
-deceive the mother?"
-
-From that time Tutmosis avoided the pharaoh, and dared not look him in
-
-the eyes, while Ramses himself acted strangely, so their heartfelt
-
-relations seemed to grow cold somewhat.
-
-But one evening the pharaoh summoned his favorite a second time.
-
-"I must speak with Hiram," said he, "on questions of importance. I am
-
-going out. Watch here at my chamber, and if any man wishes to see me do
-
-not admit him."
-
-When the pharaoh vanished in the secret corridors Tutmosis was seized
-
-by alarm.
-
-"Maybe," thought he, "the priests have poisoned him to produce
-
-insanity; and he, feeling that an attack is coming, flees from his own
-
-palace? Ha! we shall see!"
-
-In fact he did see. The pharaoh returned well after midnight to his
-
-chambers, and had a mantle; it was not his own, however, but a
-
-soldier's.
-
-Tutmosis was alarmed and did not sleep till morning, thinking that the
-
-queen would summon him again on a sudden. The queen did not summon him,
-
-however. But during the morning review of the guard, the officer Eunana
-
-begged to speak with his chief for a moment.
-
-When they were alone in a chamber Eunana fell at the feet of Tutmosis
-
-and implored the chief not to repeat what he was going to tell him.
-
-"What has happened?" inquired the adjutant, feeling cold in his heart.
-
-"Chief," said Eunana, "yesterday I saw a man running in the garden
-
-naked, and crying in an unearthly voice. He was brought in to me, and,
-
-chief slay me!"
-
-Eunana fell again at the feet of Tutmosis.
-
-"That naked man that I cannot tell."
-
-"Who was he?" inquired the terrified Tutmosis.
-
-"I will not tell!" groaned Eunana. "I took off my mantle and covered
-
-sacred nakedness. I wanted to take him to the palace but I the lord
-
-commanded me to stay where I was, and be silent be silent!"
-
-"Whither did he go?"
-
-"I know not. I did not look, and I did not let the warriors look. He
-
-vanished somewhere among the bushes of the garden. I told my men not to
-
-see anything, not to hear anything; that if any man saw or heard
-
-anything he would be strangled that instant."
-
-Tutmosis had succeeded in mastering himself.
-
-"I know nothing," said he, coldly, "and understand nothing of what Thou
-
-hast said to me. But remember, one thing: I myself ran naked once when
-
-I had drunk too much wine, and I gave a good reward to those who failed
-
-to see me. Common people, Eunana, and laborers always go naked; great
-
-persons only when it may please them. And if the wish should come to me
-
-or any of the officials to stand head downward, a wise and pious
-
-officer should not wonder at my action."
-
-"I understand," replied Eunana, looking into the eyes of his chief
-
-quickly. "And not only will I repeat that to my warriors, but I will
-
-even go naked this night through the garden to let them know that
-
-superiors have the right to do whatever pleases them."
-
-Still, notwithstanding the small number of men who had seen the pharaoh
-
-or his counterfeit in a state of insanity, the reports of these strange
-
-happenings circulated everywhere very quickly. In a few days all the
-
-inhabitants of Thebes, from dissectors and water-carriers to scribes
-
-and merchants, whispered that Ramses XIII was affected with the disease
-
-which had deprived his older brothers of succession.
-
-Dread of the pharaoh and honor for him were so great that people feared
-
-to speak openly, especially before strangers. Still, all heard of it
-
-all save Ramses.
-
-But most peculiar was this, that the report went around the whole
-
-kingdom very speedily; a proof that it circulated by means of the
-
-temples. For priests alone possessed the power of communicating in a
-
-few hours from one end of Egypt to the other.
-
-No one mentioned these disagreeable tidings to Tutmosis directly, but
-
-the chief of the pharaoh's guard felt their existence everywhere. From
-
-the bearing of people with whom circumstances brought him in contact he
-
-divined that the servants, the slaves, the warriors, the purveyors of
-
-the court were discussing the insanity of the pharaoh, and were silent
-
-only when some superior might overhear them.
-
-At last Tutmosis, impatient and alarmed, decided on a conversation with
-
-the Theban nomarch.
-
-On arriving at the palace of his father-in-law he found Antefa lying on
-
-a sofa in a room, one half of which was filled with rare plants like a
-
-garden. In the centre played a fountain of water perfumed with roses;
-
-in the comers of the room were statues of gods; on the walls were
-
-depicted the deeds of the renowned nomarch. Standing near his head was
-
-a black slave who cooled his master with an ostrich feather fan; on the
-
-pavement sat the scribe of the province reading a report to him.
-
-Tutmosis had such an anxious face that the nomarch dismissed the scribe
-
-and the slave straightway; then rising from the couch he looked toward
-
-every corner of the chamber to be sure that no one overheard them.
-
-"Worthy father of Lady Hebron, my revered wife," said Tutmosis, "from
-
-thy bearing I see that Thou divinest the subject of which I wish to
-
-speak."
-
-"The nomarch of Thebes must always look ahead," replied Antefa. "I
-
-divine also that the commander of the guard of his holiness would not
-
-honor me by a visit for a frivolous reason."
-
-For a moment they looked each other in the eyes. Then Tutmosis took a
-
-seat at the side of his father-in-law, and whispered,
-
-"Hast Thou heard vile reports about our sovereign, which the enemies of
-
-the state are spreading?"
-
-"If it be a question of my daughter Hebron," replied the nomarch
-
-quickly, "I declare that Thou art her lord today, and canst have no
-
-question with me."
-
-Tutmosis waved his hand with indifference.
-
-"Some vile persons are reporting that the pharaoh is insane. Hast heard
-
-of this, my father?"
-
-Antefa nodded and turned his head motions which meant equally that he
-
-had, or that he had not. At last he said,
-
-"Stupidity is as great as the ocean; everything finds a place in it."
-
-"This is not stupidity," replied Tutmosis, "but a crime of the priests,
-
-who have in their possession a man who resembles his holiness, and they
-
-make use of him for evil purposes." And he told the nomarch the story
-
-of the Greek Lykon, and his crime in Pi-Bast.
-
-"I have heard of this Lykon who killed the son of the heir," said
-
-Antefa. "But hast Thou proof that Mefres imprisoned Lykon in Pi-Bast,
-
-that he brought him to Thebes, and that he lets him enter the gardens
-
-of the pharaoh to counterfeit the sovereign as insane?"
-
-"Just because I have not proof of this do I ask thee, worthiness, what
-
-to do. I am the commander of the guard and I must watch over the honor
-
-and safety of our sovereign."
-
-"What Thou must do?" repeated Antefa. "Well, first of all take care
-
-that these vile reports do not reach the ears of the pharaoh."
-
-"Why?"
-
-"Because a great misfortune would happen. If our lord hears that Lykon
-
-feigns insanity and pretends to be the pharaoh, he will fall into
-
-terrible anger. Naturally he will direct that anger against Herhor and
-
-Mefres. Maybe he will only abuse them in words, maybe he will imprison
-
-them, maybe he will kill them. Whatever he does, he will do it without
-
-proof, and what then? Egypt at present does not care to give offerings
-
-to the gods, but it will take the part of priests injured without
-
-reason. And what then? Well," added he, approaching his lips to
-
-Tutmosis' ear, "I think it would be the end of the dynasty."
-
-"What am I to do?"
-
-"One thing!" exclaimed Antefa. "Find Lykon, prove that Mefres and
-
-Herhor secreted him, and ordered him to counterfeit the pharaoh as
-
-insane. Thou must do this, if Thou wish to keep the favor of thy
-
-sovereign. Proofs as many proofs as possible! Egypt is not Assyria;
-
-Thou canst not act against high priests without the court, and no court
-
-will condemn them without tangible evidence. Where hast Thou the
-
-certainty that some one did not give the pharaoh an intoxicating
-
-potion? That would be simpler than to send out a man at night who knows
-
-neither the watchword, nor the palace, nor the garden. I have heard of
-
-Lykon from an authentic source, for I heard from Hiram. Still, I do not
-
-understand how Lykon could perform such miracles in Thebes."
-
-"But but" interrupted Tutmosis, "where is Hiram?"
-
-"Immediately after the wedding he went to Memphis, and in these last
-
-days he was in Hiten."
-
-Tutmosis again was in trouble: "That night," thought he, "when they
-
-took a naked man to Eunana, the pharaoh said that he was going to see
-
-Hiram. But as Hiram was not in Thebes, then what? Well, his holiness
-
-knew not at the moment that of which he himself was talking."
-
-Tutmosis returned home dazed. Not only did he fail to understand what
-
-he was to do in that unheard-of position, but even he knew not what to
-
-think of the position itself. His conviction while conversing with
-
-Niort's, that Lykon, the emissary of high priests, had appeared in the
-
-garden, was equaled now by his doubts as to whether the Greek had been
-
-there at all.
-
-And if this was the case with Tutmosis the favorite, who saw Ramses at
-
-all times, what must it be in the hearts of strangers. The most devoted
-
-adherents of the pharaoh and his measures might hesitate on hearing
-
-from all sides that their sovereign was demented.
-
-This was the first blow which the priests gave Ramses XIII Slight in
-
-itself, it involved results which were beyond reckoning.
-
-Not only did Tutmosis hesitate, he suffered. Under a frivolous exterior
-
-he had a character at once energetic and noble. So that day, when men
-
-struck at the honor and power of his sovereign, inactivity was
-
-devouring Tutmosis. He seemed to himself the commander of a fortress
-
-which the enemy was undermining, while he himself was looking on in
-
-helplessness. This thought so tortured him that under its influence he
-
-fell upon a daring plan. Meeting the high priest Sem, he said to him,
-
-"Worthiness, hast Thou heard the reports about our sovereign?"
-
-"The pharaoh is young, hence various scandals may circulate concerning
-
-him," replied Sem, looking strangely at Tutmosis. "But such affairs
-
-pertain not to me; I take the place of his holiness in the service of
-
-the gods; I fulfill that office as I know best, and have no care for
-
-other questions."
-
-"I know, worthiness, that Thou art a faithful servant of the pharaoh,"
-
-said Tutmosis, "and I have no thought of interfering with priestly
-
-secrets; I must turn thy attention, however, to one trifle. I have
-
-learned that holy Mefres holds a certain Lykon, a Greek, on whom two
-
-crimes are weighing: he murdered the pharaoh's son, and besides he
-
-looks like his holiness. Let the worthy Mefres not bring disgrace on
-
-the revered priestly order; let him yield the murderer to justice at
-
-the earliest; for if we find Lykon, I swear that Mefres will lose not
-
-his office alone, but his head also. In our kingdom it is not permitted
-
-to patronize murderers and secrete men who resemble the sovereign."
-
-Sem, in whose presence Mefres had taken Lykon from the police, was
-
-confused out of fear perhaps that he might be suspected of co-
-
-operation, still he answered,
-
-"I will try to forewarn holy Mefres of these suspicions. But Thou
-
-knowest, worthiness, how people answer who attribute crimes to others."
-
-"I know and assume responsibility. I am so certain of my case that I
-
-have no concern as to the result of my suspicions. Alarm I leave to
-
-holy Mefres; I trust that he will not force me to pass from warning to
-
-energetic action."
-
-The conversation had its result: from that day forth no man ever saw
-
-the counterfeit of the pharaoh. But reports did not cease; Ramses XIII,
-
-however, knew nothing of them; Tutmosis feared violent action of the
-
-pharaoh against the priests, hence gave him no information.
+Ale pogłoski nie ucichły, a Ramzes XIII nie wiedział o nich. Nawet bowiem Tutmozis, lękając się ze strony pana gwałtownych wystąpień przeciw kapłanom, nie zawiadomił go o niczym.

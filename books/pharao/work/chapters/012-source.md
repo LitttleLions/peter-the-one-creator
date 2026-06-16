@@ -1,761 +1,200 @@
-# Kapitel 12: CHAPTER XII
+# Kapitel 012: Tom I - Rozdział XII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part16.xhtml*
 
 <!-- status: pending -->
 
-RAMSES passed most of the night in feverish imaginings. Once the vision
+Większą część nocy Ramzes przepędził w gorączkowych marzeniach. Raz ukazywało mu się widmo państwa jako niezmierny labirynt o potężnych ścianach, których nie można przebić. To znowu widział cień kapłana, którego jedno mądre zdanie wskazało mu sposób wydobycia się z labiryntu. I otóż najniespodziewaniej wystąpiły przed nim dwie potęgi: interes państwowy, którego dotychczas nie odczuwał, choć był następcą tronu, i — kapłaństwo, które chciał zetrzeć i uczynić swoim sługą.
 
-of the state appeared to him as an immense labyrinth with strong walls
+Była to ciężka noc. Książę przewracał się na łożu i zadawał sobie pytanie: czy on nie był ślepym i czy dopiero dzisiaj nie odzyskał wzroku, ażeby przekonać się o swoim nierozsądku i nicestwie? Jakże inaczej przedstawiały mu się w tych godzinach przestrogi matki, powściągliwość ojca w wypowiadaniu najwyższej woli, a nawet surowe postępowanie ministra Herhora?
 
-through which no one could force a way, then again he saw the shadow of
+„Państwo i kapłaństwo!...” — w półśnie powtarzał książę oblany zimnym potem.
 
-a priest who with one wise opinion had indicated to him the method of
+Tylko bogowie niebiescy wiedzą, co by nastąpiło, gdyby miały czas rozwinąć się i dojrzeć myśli, jakie tej nocy zakiełkowały w duszy księcia. Może, zostawszy faraonem, należałby do najszczęśliwszych i najdłużej panujących władców? Może imię jego, ryte w podziemnych i nadziemnych świątyniach, przeszłoby do potomności, otoczone najwyższą chwałą? Może on i jego dynastia nie straciliby tronu, a Egipt uniknął wielkiego wstrząśnienia w najgorszych dla siebie czasach?
 
-escape from that labyrinth. And now appeared unexpectedly before him
+Ale jasność dzienna rozproszyła mary krążące nad rozpaloną głową księcia, a dni następne bardzo zmieniły jego pojęcia o nieugiętości państwowych interesów.
 
-two powers, the interest of the state, which he had not felt thus far,
+Pobyt księcia w więzieniu nie pozostał bez następstw dla oskarżonych. Urzędnik śledczy natychmiast zdał raport najwyższemu sędziemu, sędzia powtórnie przejrzał sprawę, sam zbadał kilku obwinionych i w ciągu paru dni uwolnił większą ich część, a resztę jak najprędzej oddał pod sąd.
 
-though he was heir to the throne; and the priesthood, which he wished
+Gdy zaś, w imieniu poszkodowanego na własności księcia, nie zjawił się oskarżyciel, pomimo wywoływań go w sali sądowej i na rynku, sprawa o napad upadła i resztę oskarżonych wypuszczono.
 
-to debase and then make his servant.
+Wprawdzie jeden z sędziów zrobił uwagę, że wedle prawa dozorca książęcego folwarku powinien mieć proces o fałszywą skargę i w razie dowiedzenia mu ponieść taką karę, jaka groziła oskarżonym. Kwestię tę jednak pominięto milczeniem.
 
-That was a burdensome night. The prince turned on his bed repeatedly,
+Dozorca folwarku usunął się z oczu sądowi, wysłany przez następcę do nomesu Takens, a niebawem znikła gdzieś cała skrzynia aktów sprawy o napad.
 
-and asked himself whether he had not been blind, and if he had not
+Dowiedziawszy się o tym, książę Ramzes poszedł do wielkiego pisarza i z uśmiechem zapytał:
 
-received sight that day for the first time in order to convince himself
+— Cóż, dostojny panie, niewinni zostali uwolnieni, akta ich w świętokradzki sposób zniszczone i mimo to powaga władzy nie naraziła się na szwank?
 
-of his folly and nothingness. How differently during those night hours
+— Mój książę — odparł ze zwykłym chłodem wielki pisarz — nie rozumiałem, że jedną ręką podajesz skargi, a drugą chcesz je usunąć. Wasza dostojność byłeś obrażonym przez motłoch, więc naszą rzeczą było ukarać go. Jeżeli jednak ty przebaczyłeś, państwo nie ma nic do dodania.
 
-did the warnings of his mother appear to him, and the restraint of his
+— Państwo!... państwo!... — powtarzał książę. — Państwo to my — dodał, przymrużając oczy.
 
-father in enouncing the supreme will, and even the stern conduct of the
+— Tak, państwo to faraon i... jego najwierniejsi słudzy — odpowiedział pisarz.
 
-minister, Herhor.
+Dosyć było tej rozmowy z tak wysokim dostojnikiem, ażeby w duszy następcy zatrzeć budzące się a potężne, choć jeszcze niejasne pojęcie o znaczeniu „państwa”. Więc państwo nie jest odwiecznym i niewzruszonym gmachem, do którego po jednym kamieniu chwały dodawać powinni faraonowie, ale jest raczej kupą piasku, którą każdy władca przesypuje, jak mu się podoba. W państwie nie ma tych ciasnych drzwi, zwanych prawami, w których przejściu każdy musi uchylić głowę, kimkolwiek jest: chłopem czy następcą tronu. W tym gmachu są rozmaite wejścia i wyjścia: wąskie dla małych i słabych, bardzo obszerne, a nawet wygodne dla silnych.
 
-"The state and the priesthood!" repeated the prince, half asleep, and
+„Jeżeli tak jest — zakiełkowała nowa myśl w księciu — to ja zrobię porządek, jaki mnie się podoba!...”
 
-covered with cold perspiration.
+W tej samej chwili przypomniał sobie dwu ludzi: oswobodzonego Murzyna, który nie czekając na rozkaz, był gotów oddać życie za własność księcia, i — nieznajomego kapłana.
 
-The heavenly deities alone know what would have happened had there been
+„Gdybym miał więcej podobnych im, wola moja znaczyłaby w Egipcie i za Egiptem!...” — rzekł do siebie i poczuł niepokonaną chęć odnalezienia owego kapłana.
 
-time to develop and ripen those thoughts which were circling that night
+Był on prawdopodobnie i tym samym, który powstrzymał tłum od napadu na dom księcia. Z jednej strony doskonale znał prawo, z drugiej — umiał kierować tłumami.
 
-in the soul of Ramses. Perhaps if he had become pharaoh he would have
+— Nieoceniony człowiek!... Muszę go mieć...
 
-been one of the most fortunate and longest-lived rulers. Perhaps his
+Od tej pory książę, w czółenku prowadzonym przez jednego wioślarza, zaczął zwiedzać chaty w bliskości swego folwarku. Ubrany w tunikę i wielką perukę, z kijem w ręku, na którym była wycięta miara, książę wyglądał jak inżynier śledzący przybór Nilu.
 
-name, carved in temples above ground and underground, would have come
+Chłopi chętnie udzielali mu wszelkich objaśnień, dotyczących zmian kształtu gruntów skutkiem wylewu, a zarazem prosili, aby rząd wymyślił jakieś łatwiejsze sposoby czerpania wody aniżeli żuraw z wiadrem. Opowiadali też o napadzie na folwark następcy tronu i o tym, że nie znają ludzi, którzy rzucali kamienie. Wreszcie przypominali sobie kapłana, co tak szczęśliwie usunął zbiegowisko; ale kto by on był? nie wiedzieli.
 
-down to posterity surrounded with the highest glory. Perhaps he and his
+— Jest tu — mówił pewien chłop — w naszej okolicy kapłan, który kuruje na oczy, jest taki, co goi rany i składa złamane ręce i nogi. Jest paru kapłanów, którzy uczą pisać i czytać; jest, co gra na podwójnym flecie, i nawet ładnie gra. Ale tamten, który objawił się w ogrodzie następcy tronu, nie jest żadnym z nich, i oni sami nic o nim nie wiedzą. Z pewnością musiał to być bożek Num albo jakiś duch czuwający nad księciem, który oby żył wiecznie i zawsze miał apetyt.
 
-dynasty would not have lost the throne, and Egypt would have avoided
+„A może to naprawdę jaki duch!...” — pomyślał Ramzes. W Egipcie zawsze łatwiej o złe czy dobre duchy aniżeli o deszcz.
 
-great disturbance and the bitterest days of her history.
+Woda Nilu z czerwonej zrobiła się brunatną, a w sierpniu, w miesiącu Hator, dosięgnęła połowy swej wysokości. W nadbrzeżnych tamach otworzono śluzy i woda gwałtownie zaczęła wypełniać kanały tudzież olbrzymie jezioro sztuczne, Moeris, w prowincji Fajum słynącej z pięknych róż. Egipt Dolny przedstawiał jakby odnogę morską, gęsto zasianą pagórkami, na nich ogrodami i domami. Komunikacja lądowa całkiem ustała, a łódek na wodzie krążyło takie mnóstwo: białych, żółtych, czerwonych i ciemnych, że wyglądały jak liście w jesieni. Na najwyższych punktach kraju kończono zbierać pewien rodzaj bawełny i po raz drugi kosić koniczynę, a zaczynano zrywać owoce tamaryndowe i oliwki.
 
-But the serenity of morning scattered the visions which circled above
+Pewnego dnia, płynąc wzdłuż zalanych folwarków, książę spostrzegł ruch niezwykły. Na jednej z czasowych wysepek rozlegał się między drzewami głośny krzyk kobiet.
 
-the heated head of the heir, and the succeeding days changed greatly
+„Zapewne ktoś umarł...” — pomyślał książę.
 
-his ideas of the inflexible interests of Egypt.
+Od drugiej wyspy na paru czółenkach odpływały zapasy zboża i kilka sztuk bydła, a ludzie stojący pod gospodarskimi budynkami grozili i złorzeczyli ludziom w łódkach.
 
-The visit of the prince to the prison was not fruitless. The
+„Jakiś spór sąsiedzki...” — rzekł do siebie następca.
 
-investigating official made a report to the supreme judge immediately,
+W kilku dalszych folwarkach było spokojnie, a mieszkańcy, zamiast pracować albo śpiewać, siedzieli na ziemi, milcząc.
 
-the judge looked over the case again, examined some of the accused
+„Musieli skończyć robotę i odpoczywają.”
 
-himself, and in the course of some days liberated the greater number;
+Za to od innej wysepki odbiło czółno z kilkorgiem płaczących dzieci, a jakaś kobieta wszedłszy po pas w wodę wygrażała pięściami.
 
-the remainder he brought to trial as quickly as possible.
+„Wiozą dzieci do szkoły” — myślał Ramzes. Wypadki te jednak poczęły go interesować.
 
-When he who had complained of the damage done the prince's property did
+Na sąsiedniej wyspie znowu rozlegał się krzyk. Książę przysłonił ręką oczy i zobaczył leżącego na ziemi człowieka, którego bił kijem Murzyn.
 
-not appear, though summoned in the hall of the court and on the market-
+— Cóż się tu dzieje?... — zapytał Ramzes wioślarza.
 
-place, the case was dropped, and the rest of the accused were set at
+— Czyliż nie widzicie, panie, że biją nędznego chłopa?... — odparł przewoźnik, śmiejąc się. — Musiał coś zbroić, więc chodzi mu ból po kościach.
 
-liberty.
+— A cóż ty jesteś?
 
-One of the judges remarked, it is true, that according to law the
+— Ja?... — odparł z pychą wioślarz. — Ja jestem wolny rybak. I bylem oddał, co należy, z połowu do jego świątobliwości, mogę pływać po całym Nilu, od pierwszej katarakty do morza. Rybak jest jak ryba albo dzika gęś, a chłop jak drzewo: karmi panów swoimi owocami i nigdzie nie może uciec, tylko skrzypi, gdy na nim dozorcy psują korę.
 
-prince's overseer should be prosecuted for false complaint, and, in
+O ho! ho!... spojrzyjcie no tam... — zawołał znowu zadowolony rybak. — Hej!... ojciec!... a nie wypijaj wszystkiej wody, bo będzie nieurodzaj...
 
-case of conviction, suffer the punishment which threatened the
+Wesoły ten wykrzyknik odnosił się do grupy osób spełniających bardzo oryginalną czynność. Kilku ludzi gołych trzymało za nogi innego człowieka i nurzało mu w wodzie głowę po szyję, po piersi, wreszcie po pas. Obok stał jegomość z laską, ubrany w poplamioną tunikę i perukę z baraniej skóry. Nieco dalej krzyczała wniebogłosy kobieta, którą za ręce trzymali ludzie.
 
-defendants. This question too they passed over in silence.
+Bicie kijem było tak upowszechnione w szczęśliwym państwie faraonów jak jedzenie i spanie. Bito dzieci i dorosłych, chłopów, rzemieślników, żołnierzy, oficerów i urzędników. Kto żył, dostawał kije, z wyjątkiem kapłanów i najwyższych dostojników, bo tych już nie miał kto bić. Książę więc dość spokojnie patrzył na chłopa bitego kijem; ale zastanowił go chłop nurzany w wodzie.
 
-The overseer disappeared from the eyes of justice, he was sent by the
+— Ho! ho!... — śmiał się tymczasem wioślarz — a to go poją!... Zgrubieje tak, że żona będzie musiała nadsztukować mu opaskę.
 
-heir to the province of Takeus, and soon the whole box of documents in
+Książę kazał przybić do brzegu. Tymczasem chłopa wydobyto z rzeki, pozwolono mu wykaszlać wodę i znowu schwycono go za nogi, pomimo nieczłowieczych wrzasków żony, która zaczęła kąsać ludzi trzymających ją.
 
-the case vanished it was unknown whither.
+— Stój! — krzyknął książę do oprawców, którzy ciągnęli chłopa.
 
-On hearing this, Prince Ramses went to the grand secretary and asked
+— Czyńcie waszą powinność! — zawołał przez nos jegomość w baraniej peruce. — Kto jesteś, zuchwalcze, który ośmie...
 
-with a smile,
+W tej chwili książę zwalił go przez łeb swoją miarą, która na szczęście była lekka. Mimo to właściciel poplamionej tuniki aż usiadł na ziemi, a obmacawszy perukę i głowę, spojrzał na napastnika zamglonymi oczyma.
 
-"Well, worthy lord, the innocent are liberated, the documents
+— Odgaduję — rzekł naturalnym głosem — że mam honor rozmawiać ze znakomitą osobą... Oby ci, mój panie, zawsze towarzyszył dobry humor, a żółć nigdy nie rozlewała się po kościach...
 
-concerning them have been destroyed sacrilegiously, and still the
+— Co wy robicie z tym człowiekiem?... — przerwał książę.
 
-dignity of the government has not been exposed to danger."
+— Pytasz, mój panie — odparł jegomość, znowu przez nos — jak cudzoziemiec, nie znający ani miejscowych zwyczajów, ani ludzi, do których odzywa się zbyt poufale. Wiedz przeto, że jestem poborcą jego dostojności Dagona, pierwszego bankiera w Memfisie. A jeżeli jeszcze nie zbladłeś, dowiedz się, że dostojny Dagon jest dzierżawcą, pełnomocnikiem i przyjacielem następcy tronu (oby żył wiecznie!) i że ty dopuściłeś się gwałtu, o czym zaświadczą moi ludzie, na gruntach księcia Ramzesa...
 
-"My prince," answered the grand secretary, with his usual coolness, "I
+— Więc to... — przerwał książę, lecz nagle zatrzymał się. — Więc jakim prawem katujecie w podobny sposób książęcego chłopa?
 
-did not understand that Thou offerest complaints with one hand and
+— Bo nie chce łotr płacić podatków, a skarb następcy jest w potrzebie...
 
-wishest to withdraw them with the other. Worthiness, Thou wert offended
+Pomocnicy urzędnika, wobec katastrofy, jaka spotkała ich pana, wypuścili swoje ofiary i stali bezradni niby członki ciała, któremu ucięto głowę. Uwolniony chłop znowu zaczął pluć i wytrząsać wodę z uszu, ale za to żona jego przypadła do wybawcy.
 
-by the rabble; hence it was thy affair to punish it. If Thou hast
+— Kimkolwiek jesteś — jęczała, składając ręce przed księciem — czy bogiem, czy nawet posłańcem faraona, posłuchaj o naszej nędzy. Jesteśmy chłopami następcy tronu (oby żył wiecznie!) i zapłaciliśmy wszystkie podatki: w prosie, pszenicy, kwiatach i skórach bydlęcych. Tymczasem ostatniej dekady przyszedł do nas ten oto człowiek i każe sobie znowu dać siedm mierzyc pszenicy... „Jakim prawem? — pyta mój mąż — przecie podatki już zapłacone?” A on mego męża wali na ziemię, kopie nogami i mówi: „Takim prawem, że dostojny Dagon kazał.” — „Skądże wezmę? — odpowiada mój chłop — kiedy nie mamy żadnego zboża i już z miesiąc karmimy się ziarnami albo korzonkami lotosu, o które także coraz trudniej, bo wielcy panowie lubią bawić się kwiatami lotosu.”
 
-forgiven it, the state has nothing to answer."
+Zatchnęła się i zaczęła płakać. Książę czekał cierpliwie, aż się uspokoi, ale unurzany chłop mruczał:
 
-"The state! the state!" repeated the prince. "We are the state," added
+— Ta baba swoim gadaniem nieszczęście na nas sprowadzi... A mówiłem, że nie lubię, jak mi się baby mieszają do interesów.
 
-he, blinking.
+Tymczasem urzędnik podsunąwszy się do wioślarza spytał go po cichu, wskazując na Ramzesa:
 
-"Yes, the state is the pharaoh and his most faithful servants," added
+— Kto jest ten chłystek?...
 
-the secretary.
+— Bodaj ci język usechł — odparł wioślarz. — Czy nie widzisz, że to musi być wielki pan: dobrze płaci i tęgo wali.
 
-This conversation with such a high official sufficed to obliterate in
+— Ja zaraz poznałem — szeptał urzędnik — że to musi być ktoś wielki. Młodość zeszła mi na ucztach ze znakomitymi panami.
 
-the prince's soul those ideas of state dignity which were growing and
+— Aha! jeszcze ci nawet po tych ucztach zostały sosy na odzieniu — odburknął wioślarz.
 
-powerful, though indistinct yet. "The state, then, is not that
+Kobieta, wypłakawszy się, prawiła dalej:
 
-immovable, ancient edifice to which each pharaoh is bound to add one
+— Dzisiaj zaś przyszedł ten pisarz ze swoimi ludźmi i mówi do mego chłopa: „Kiedy nie masz pszenicy, oddaj nam dwu synków, a dostojny Dagon nie tylko daruje ci ten podatek, ale jeszcze za każdego chłopca co roku zapłaci po drachmie...”
 
-stone of glory, but rather a sand-heap, which each ruler reshapes as he
+— Biada mi z tobą! — wrzasnął topiony chłop. — Zgubisz nas wszystkich gadulstwem... Nie słuchaj jej, dobry panie — zwrócił się do Ramzesa. — Jak krowa myśli, że ogonem odstraszy muchy, tak babie zdaje się, że językiem odpędzi poborców... A nie wiedzą, że obie są głupie...
 
-pleases. In the state there are no narrow doors, known as laws, in
+— Tyś głupi! — przerwała baba. — Słoneczny panie, który masz postać królewską...
 
-passing through which each must bow his head, whoever he be, erpatr or
+— Biorę was na świadków, że ta kobieta bluźni... — rzekł półgłosem urzędnik do swoich ludzi.
 
-earth-worker. In this edifice are various entrances and exits, narrow
+— Kwiecie pachnący, którego głos jest jak dźwięk fletu, wysłuchaj mnie!... — błagała kobieta Ramzesa. — Więc mój mąż powiedział temu urzędnikowi: „Wolałbym stracić dwa byczki, gdybym je miał, aniżeli oddać moich chłopców, choćbyście mi za każdego płacili po cztery drachmy na rok. Bo jak dziecko wyjdzie z domu na służbę, nikt go już nie zobaczy...”
 
-for the weak and small, very wide, nay, commodious for the powerful."
+— Bodajbym się udusił!... bodaj ryby jadły ciało moje na dnie Nilu!... — jęczał chłop. — Przecie ty cały folwark zmarnujesz swoimi skargami... kobieto...
 
-"If this be so," thought the prince, as the idea flashed on him, "I
+Urzędnik widząc, że ma poparcie strony głównie zainteresowanej, wystąpił naprzód i zaczął znowu przez nos:
 
-will make the order which shall please me."
+— Od czasu jak słońce wschodzi za pałacem królewskim, a zachodzi nad piramidami, działy się w tym kraju różne dziwowiska... Za faraona Semempsesaukazywały się około piramidy Kochom
 
-At that moment Ramses remembered two people, the liberated black who
+— Milcz! — krzyknął Ramzes — i wynoś się stąd. Nikt wam nie zabierze dzieci — dodał do kobiety.
 
-without waiting for command had been ready to die for him, and that
+— Łatwo mi wynieść się — odparł poborca — bo mam lotne czółno i pięciu wioślarzy. Ale dajże mi, wasza dostojność, jakiś znak do pana mego, Dagona...
 
-unknown priest.
+— Zdejmij perukę i pokaż mu znak na swoim łbie — rzekł książę. — A Dagonowi powiedz, że mu takie same znaki porobię na całym ciele...
 
-"If I had more like them, my will would have meaning in Egypt and
+— Słyszycie bluźnierstwo?... — szepnął poborca do swoich ludzi, cofając się ku brzegowi wśród niskich ukłonów.
 
-beyond it," said he to himself, and he felt an inextinguishable desire
+Wsiadł w czółno, a gdy jego pomocnicy odbili i odsunęli się na kilkadziesiąt kroków, wyciągnąwszy rękę, począł wołać:
 
-to find that priest.
+— Oby was kurcz złapał za wnętrzności, buntownicy, bluźniercy!... Stąd prosto jadę do następcy tronu i opowiem mu, co się dzieje w jego dobrach...
 
-"He is, in all likelihood, the man who restrained the crowd from
+Potem wziął kij i zaczął okładać swoich ludzi za to, że nie ujęli się za nim.
 
-attacking my house. On the one hand he knows law to perfection, on the
+— Tak będzie z tobą!... — wołał, grożąc Ramzesowi.
 
-other he knows how to manage multitudes."
+Książę dopadł swego czółna i wściekły kazał wioślarzowi gonić za zuchwałym urzędnikiem lichwiarza. Ale jegomość w baraniej peruce rzucił kij i sam wziął się do wioseł; jego zaś ludzie pomagali mu tak gorliwie, że pościg stał się niepodobnym.
 
-"A man beyond price! I must have him."
+— Prędzej sowa dogoni jaskółkę aniżeli my ich, mój piękny panie — rzekł, śmiejąc się, wioślarz Ramzesa. — Ale co wy, to nie musicie być miernikiem, tylko oficerem, może nawet z gwardii jego świątobliwości. Zaraz walicie w łeb! Znam się na tym, sam przez pięć lat byłem w wojsku. Zawsze waliłem w łeb albo w brzuch i nie najgorzej działo mi się na świecie. A jak mnie kto zwalił, zaraz rozumiałem, że musi być wielki... W naszym Egipcie (oby go nigdy nie opuszczali bogowie!) strasznie ciasno: miasto przy mieście, dom przy domu, człowiek przy człowieku. Kto chce jako tako obracać się w tej ciżbie, musi walić w łeb.
 
-From that time Ramses, in a small boat managed by one oarsman, began to
+— Jesteś żonaty? — spytał książę.
 
-visit the cottages in the neighborhood of his villa. Dressed in a tunic
+— Phy! jak mam kobietę i miejsce na półtorej osoby, tom żonaty, ale zresztą kawaler. Byłem przecie w wojsku i wiem, że kobieta jest dobra raz na dzień, i to nie zawsze. Zawadza.
 
-and a great wig, in his hand a staff on which a measure was cut out,
+— A może byś ty poszedł do mnie w służbę? Kto wie, czybyś żałował tego...
 
-the prince looked like an engineer studying the Nile and its overflows.
+— Za pozwoleniem waszej dostojności, ja zaraz zmiarkowałem, że wy moglibyście dowodzić pułkiem, pomimo młodej twarzy. Ale w służbę do nikogo nie pójdę. Jestem wolny rybak; dziad mój był (za przeproszeniem) pastuchem w Dolnym Egipcie, zaś nasz ród pochodzi od Hyksosów. Prawda, że wytrząsa się z nas głupie chłopstwo egipskie, ale mnie na to śmiech bierze. Chłop i Hyksos, mówię waszej dostojności, to niby wół i byk. Chłop może chodzić za pługiem czy przed pługiem, ale Hyksos nikomu nie będzie służył. Chyba w wojsku jego świątobliwości, bo to wojsko.
 
-Earth-tillers gave him willingly all explanations concerning changes in
+Rozochocony wioślarz ciągle mówił, ale książę już go nie słuchał. W jego duszy coraz głośniej odzywały się pytania bardzo bolesne, gdyż zupełnie nowe. Więc te wysepki, około których przepływał, należały do jego majętności?... Dziwna rzecz, on wcale nie wiedział, gdzie są i jak wyglądają jego folwarki. Więc w jego imieniu Dagon obłożył chłopów nowymi opłatami, a ten szczególny ruch, na jaki patrzył, jadąc wzdłuż brzegów, to było zbieranie podatków?... Chłop, którego bito na brzegu, widać nie miał czym płacić. Dzieci, które rzewnie płakały w łodzi, były sprzedane, po drachmie za głowę, na cały rok. A ta kobieta, która po pas weszła w wodę i klęła, to ich matka...
 
-the form of land because of inundations, and at the same time they
+„Kobiety są bardzo niespokojne — mówił do siebie książę. — Sara jest najspokojniejsza z kobiet, inne jednak lubią dużo gadać, płakać i wrzeszczeć...”
 
-begged that the government might think out some easier way of raising
+Przyszedł mu na myśl chłop, który łagodził uniesienia swojej żony. Jego topili — i nie gniewał się; jej nic nie robili i pomimo to wrzeszczała.
 
-water than by sweeps and buckets. They told too of the attack on the
+„Kobiety są bardzo niespokojne!... — powtarzał. — Tak, nawet moja czcigodna matka... Cóż to za różnica pomiędzy ojcem i matką! Jego świątobliwość wcale nie chce wiedzieć, że opuściłem armię dla dziewczyny, ale królowa lubi zajmować się nawet tym, że wziąłem do domu Żydówkę... Sara jest najspokojniejszą kobietą, jaką znam. Za to Tafet gada, płacze i wrzeszczy za cztery...”
 
-house of Prince Ramses, and said that they knew not who threw the
+Potem przypomniał sobie książę słowa żony chłopa, że już miesiąc nie jedzą zboża, tylko ziarna i korzonki lotosu. Ziarno jego jest jak mak; korzenie — takie sobie. On nie jadłby tego nawet przez trzy dni z rzędu. Wreszcie kapłani, zajmujący się leczeniem, radzą zmieniać pokarm. Jeszcze w szkole mówiono mu, że trzeba jadać mięso obok ryb, daktyle obok pszenicy, figi obok jęczmienia. Ale przez cały miesiąc żywić się ziarnami lotosu!... No, a koń, krowa?... Koń i krowa lubią siano, a jęczmienne kluski trzeba im gwałtem pchać w gardło. Zapewne więc i chłopi wolą karmić się ziarnami lotosu, a pszenne lub jęczmienne placki, ryby i mięso jedzą bez smaku. Zresztą najpobożniejsi kapłani, cudotwórcy, nigdy nie dotykają mięsa ani ryb. Widocznie magnaci i synowie królewscy potrzebują mięsa jak lwy i orły, a chłopi — trawy jak wół.
 
-stones. Finally they mentioned the priest who had sent the crowd away
+Tylko... to nurzanie w wodzie za podatki?... Eh, alboż to on raz, kąpiąc się z towarzyszami, pakował ich pod wodę, a nawet sam się nurzał?... Co przy tym było śmiechu!... — Nurzanie — zabawa. A co się tyczy bicia kijem, ileż razy jego w szkole bito kijem?... Jest to bolesne, ale widać nie dla wszelkiego stworzenia. Bity pies wyje i gryzie; bity wół nawet nie obejrzy się. Tak samo wielkiego pana bicie może boleć, ale chłop krzyczy tylko dlatego, ażeby wykrzyczeć się przy okazji. Nawet nie wszyscy krzyczą, a żołnierze i oficerowie śpiewają pod kijami.
 
-so successfully; but who he was they knew not.
+Mądre te uwagi nie potrafiły jednak zagłuszyć drobnego, ale dokuczliwego niepokoju w sercu następcy. Oto jego dzierżawca Dagon nałożył niesprawiedliwy podatek, którego chłopi już płacić nie mogli!
 
-"There is," said one man, "a priest in our neighborhood who cures sore
+W tej chwili księciu nie chodziło o chłopów, ale — o matkę. Jego matka musi wiedzieć o gospodarce Fenicjanina. Co ona powie na to synowi, jak spojrzy na niego, jak szyderczo uśmiechnie się? A nie byłaby kobietą, gdyby mu nie przypomniała:
 
-eyes; there is one who heals wounds and sets broken arms and legs.
+— Wszak mówiłam, Ramzesie, że ten Fenicjanin zrujnuje twoje majątki?...
 
-There are some priests who teach reading and writing; there is one who
+„Gdyby zdrajcy kapłani — myślał książę — ofiarowali mi dziś dwadzieścia talentów, jutro wypędziłbym Dagona, moi chłopi nie dostawaliby kijów i nie byliby nurzani w wodzie, a matka nie żartowałaby ze mnie... Dziesiąta... setna część tych bogactw, jakie leżą w świątyniach i pasą chciwe oczy gołych łbów, na całe lata zrobiłaby mnie człowiekiem niezależnym od Fenicjan...”
 
-plays on a double flute, and plays even beautifully. But that one who
+W tej chwili błysnęło w duszy Ramzesa dosyć dziwne pojęcie, że — między chłopstwem i kapłanami istnieje jakiś głęboki antagonizm.
 
-was in the garden of the heir is not among them, and they know nothing
+„Przez Herhora — myślał — powiesił się tamten chłop na granicy pustyni... Na utrzymanie kapłanów i świątyń ciężko pracuje ze dwa miliony ludu egipskiego... Gdyby majątki kapłańskie należały do skarbu faraona, ja nie musiałbym pożyczać piętnastu talentów i moi chłopi nie byliby tak strasznie uciskani... Oto gdzie jest źródło nieszczęść Egiptu i słabości jego królów!...”
 
-of him. Surely he must be the god Num, or some spirit watching over the
+Książę czuł, że chłopom dzieje się krzywda, więc doznał niemałej ulgi odkrywszy, że sprawcami złego są — kapłani. Nie przyszło mu do głowy, że jego sąd może być mylny i niesprawiedliwy.
 
-prince, may he live through eternity and always have appetite!"
-
-"Maybe it is really some spirit," thought Ramses.
-
-In Egypt good or evil spirits always came more easily than rain.
-
-The water of the Nile from being ruddy became brownish, and in August,
-
-the month of Hator, it reached one half its height. The sluices were
-
-opened on the banks of the river, and the water began to fill the
-
-canals quickly, and also the gigantic artificial lake, Moeris, in the
-
-province Fayum, celebrated for the beauty of its roses. Lower Egypt
-
-looked like an arm of the sea thickly dotted with hills on which were
-
-houses and gardens. Communication by land ceased altogether, and such a
-
-multitude of boats circled around on the water boats white, yellow,
-
-red, dark that they seemed like leaves in autumn. On the highest points
-
-of land people had finished harvesting the peculiar cotton of the
-
-country, and for the second time had cut clover and begun to gather in
-
-olives and tamarinds.
-
-On a certain day, while sailing along over inundated lands, the prince
-
-saw an unusual movement. On one of the temporary mounds was heard among
-
-the trees the loud cry of a woman.
-
-"Surely some one is dead," thought Ramses.
-
-From a second mound were sailing away in small boats supplies of wheat
-
-and some cattle, while people standing at buildings on the land
-
-threatened and abused people in the boats.
-
-"Some quarrel among neighbors," said the prince to himself.
-
-In remoter places there was quiet, and people instead of working or
-
-singing were sitting on the ground in silence.
-
-"They must have finished work and are resting."
-
-But from a third mound a boat moved away with a number of crying
-
-children, while a woman wading in the water to her waist shook her fist
-
-and threatened.
-
-"They are taking children to school," thought Ramses.
-
-These happenings began to interest him.
-
-On a fourth mound he heard a fresh cry. He shaded his eyes and saw a
-
-man lying on the ground; a negro was beating him.
-
-"What is happening there?" asked Ramses of the boatman.
-
-"Does not my lord see that they are beating a wretched earth-tiller?"
-
-answered the boatman, smiling. "He must have done something, so pain is
-
-traveling through his bones."
-
-"But who art thou?"
-
-"I?" replied the boatman, proudly. "I am a free fisherman. If I give a
-
-certain share of my catch to his holiness, I may sail the Nile from the
-
-sea to the cataract. A fisherman is like a fish or a wild goose; but an
-
-earth-tiller is like a tree which nourishes lords with its fruit and
-
-can never escape but only squeaks when overseers spoil the bark on it."
-
-"Oho! ho! but look there!" cried the fisherman, pleased again. "Hei!
-
-father, don't drink up all the water, or there will be a bad harvest."
-
-This humorous exclamation referred to a group of persons who were
-
-displaying a very original activity. A number of naked laborers were
-
-holding a man by the legs and plunging him head first in the water to
-
-his neck, to his breast, and at last to his waist. Near them stood an
-
-overseer with a cane; he wore a stained tunic and a wig made of
-
-sheepskin.
-
-A little farther on some men held a woman by the arms, while she
-
-screamed in a voice which was heaven-piercing.
-
-Beating with a stick was as general in the happy kingdom of the pharaoh
-
-as eating and sleeping. They beat children and grown people, earth-
-
-tillers, artisans, warriors, officers, and officials. All living
-
-persons were caned save only priests and the highest officials there
-
-was no one to cane them. Hence the prince looked calmly enough on an
-
-earth-worker beaten with a cane; but to plunge a man into water roused
-
-his attention.
-
-"Ho! ho!" laughed the boatman, meanwhile, "but are they giving him
-
-drink! He will grow so thick that his wife must lengthen his belt for
-
-him."
-
-The prince commanded to row to the mound. Meanwhile they had taken the
-
-man from the river, let him cough out water, and seized him a second
-
-time by the legs, in spite of the unearthly screams of his wife, who
-
-fell to biting the men who had seized her.
-
-"Stop!" cried Ramses to those who were dragging the earth-tiller.
-
-"Do your duty!" cried he of the sheepskin wig, in nasal tones. "Who art
-
-thou, insolent, who darest."
-
-At that moment the prince gave him a blow on the forehead with his
-
-cane, which luckily was light. Still the owner of the stained tunic
-
-dropped to the earth, and feeling his wig and head, looked with misty
-
-eyes at the attacker.
-
-"I divine," said he in a natural voice, "that I have the honor to
-
-converse with a notable person. May good humor always accompany thee,
-
-lord, and bile never spread through thy bones."
-
-"What art Thou doing to this man?" interrupted Ramses.
-
-"Thou inquirest," returned the man, speaking again in nasal tones,
-
-"like a foreigner unacquainted with the customs of the country and the
-
-people, to whom he speaks too freely. Know, then, that I am the
-
-collector of his worthiness Dagon, the first banker in Memphis. And if
-
-Thou hast not grown pale yet, know that the worthy Dagon is the agent
-
-and the friend of the erpatr, may he live through eternity! and that
-
-Thou hast committed violence on the lands of Prince Ramses; to this my
-
-people will testify."
-
-"Then know this," interrupted the prince; but he stopped suddenly. "By
-
-what right art Thou torturing in this way one of the prince's earth-
-
-tillers?"
-
-"Because he will not pay his rent, and the treasury of the heir is in
-
-need of it."
-
-The servants of the official, in view of the catastrophe which had come
-
-on their master, dropped their victim and stood as helpless as the
-
-members of a body from which its head has been severed. The liberated
-
-man began to spit again and shake the water out of his ears, but his
-
-wife rushed up to the rescuer.
-
-"Whoever Thou art," groaned she, clasping her hands before Ramses, "a
-
-god, or even a messenger of the pharaoh, listen to the tale of our
-
-sufferings. We are earth-tillers of the heir to the throne, may he live
-
-through eternity! and we have paid all our dues: in millet, in wheat,
-
-in flowers, and in skins of cattle. But in the last ten days this man
-
-here has come and commands us again to give seven measures of wheat to
-
-him. 'By what right?' asks my husband; 'the rents are paid, all of
-
-them.' But he throws my husband on the ground, stamps, and says, 'By
-
-this right, that the worthy Dagon has commanded.' 'Whence shall I get
-
-wheat,' asks my husband, 'when we have none and for a month past we
-
-have eaten only seeds, or roots of lotus, which are harder and harder
-
-to get, for great lords like to amuse themselves with flowers of the
-
-lotus?'"
-
-She lost breath and fell to weeping. The prince waited patiently till
-
-she calmed herself, but the man who had been plunged into the water
-
-grumbled.
-
-"This woman will bring misfortune with her talk. I have said that I do
-
-not like to see women meddle."
-
-Meanwhile the official, pushing up to the boatman, asked in an
-
-undertone, indicating Ramses,
-
-"Who is this?"
-
-"Ah, may thy tongue wither!" answered the boatman. "Dost Thou not see
-
-that he must be a great lord: he pays well and strikes heavily."
-
-"I saw at once," answered the official, "that he must be some great
-
-person. My youth passed at feasts with noted persons."
-
-"Aha! the sauces have stuck to thy dress after those feasts," blurted
-
-out the boatman.
-
-The woman, after crying, continued,
-
-"Today this scribe came with his people, and said to my husband, 'If
-
-Thou hast not money, give thy two sons. The worthy Dagon will not only
-
-forgive thee the rent, but will pay thee a drachma a year for each
-
-boy.'"
-
-"Woe to me because of thee!" roared the half-drowned husband; "Thou
-
-wilt destroy us all with thy babbling. Do not listen to her," continued
-
-he, turning to Ramses. "As a cow thinks that she frightens off flies
-
-with her tail, so it seems to a woman that she can drive away
-
-collectors with her tongue; and neither cow nor woman knows that she is
-
-stupid."
-
-"Thou art stupid!" said the woman. "Sun-like lord with the form of a
-
-pharaoh."
-
-"I call to witness that this woman blasphemes," said the official to
-
-his people in a low voice.
-
-"Odorous flower, whose voice is like a flute, listen to me!" implored
-
-the woman of Ramses. "Then my husband answered this official, 'I would
-
-rather lose two bulls, if I had them, than give my boys away, though
-
-Thou wert to give me four drachmas; for when a boy leaves home for
-
-service no one ever sees him after that.'."
-
-"Would that I were choked! would that fish were eating my body in the
-
-bottom of the Nile!" groaned the earth-tiller. "Thou wilt destroy all
-
-our house with thy complaints, woman."
-
-The official, seeing that he had the support of the side mainly
-
-interested, stepped forth and began, in nasal tones, a second time,
-
-"Since the sun rises beyond the palace of the pharaoh and sets over the
-
-pyramids, various wonders have happened in this country. In the days of
-
-the Pharaoh Sememphes marvelous things appeared near the pyramid of
-
-Kochom, and a plague fell on Egypt. In the time of Boetus the ground
-
-opened near Bubastis and swallowed many people. In the reign of
-
-Neferches the waters of the Nile for eleven days were as sweet as
-
-honey. Men saw these and many other things of which I know, for I am
-
-full of wisdom. But never has it been seen that some unknown man came
-
-up out of the water and stopped the collection of rent in the lands of
-
-the heir to the throne of Egypt."
-
-"Be silent," shouted Ramses, "and be off out of this place! No one will
-
-take thy children," said he to the woman.
-
-"It is easy for me to go away," said the collector, "for I have a swift
-
-boat and five rowers. But, worthiness, give me some sign for my lord
-
-Dagon."
-
-"Take off thy wig and show him the sign on thy forehead," said Ramses.
-
-"And tell Dagon that I will put marks of the same kind all over his
-
-body."
-
-"Listen to that blasphemy!" whispered the collector to his men, drawing
-
-back toward the bank with low bows.
-
-He sat down in the boat, and when his assistants had moved off and
-
-pushed away some tens of yards, he stretched out his hand and shouted,
-
-"May gripe seize thy intestines, blasphemer, rebel! From here I will go
-
-straight to Prince Ramses and tell him what is happening on his lands."
-
-Then he took his cane and belabored his men because they had not taken
-
-part with him.
-
-"So it will be with thee!" cried he to Ramses.
-
-The prince sprang into his boat and in a rage commanded the boatman to
-
-pursue the insolent servant of the usurer. But he of the sheepskin wig
-
-threw down the cane, took an oar himself, and his men helped him so
-
-well that pursuit became impossible.
-
-"Sooner could an owl overtake a lark than we overtake them, my
-
-beautiful lord," cried the prince's boatman, laughing. "But who art
-
-thou? Thou art not a surveyor, but an officer, maybe even an officer of
-
-the guard of his holiness. Thou dost strike right always on the
-
-forehead! I know about this; I was five years in the army. I always
-
-struck on the forehead or the belly, and I had not the worst time in
-
-the world. But if any one struck me, I understood right away that he
-
-must be a great person. In our Egypt may the gods never leave the land!
-
-it is terribly crowded; town is near town, house is near house, man is
-
-near man. Whoso wishes to turn in this throng must strike in the
-
-forehead."
-
-"Art Thou married?" asked the prince.
-
-"Pfu! when I have a woman and place for a person and a half, I am
-
-married; but for the rest of the time I am single. I have been in the
-
-army, and I know that a woman is good, though not at all times. She is
-
-in the way often."
-
-"Perhaps Thou wouldst come to me for service? Who knows, wouldst Thou
-
-be sorry to work for me?"
-
-"With permission, worthiness, I noticed that Thou couldst lead a
-
-regiment in spite of thy young face. But I enter the service of no man.
-
-I am a free fisherman; my grandfather was, with permission, a shepherd
-
-in Lower Egypt, our family comes of the Hyksos people. It is true that
-
-dull Egyptian earth-tillers revile us, but I laugh at them. The earth-
-
-tillers and the Hyksos, I say, worthiness, are like an ox and a bull.
-
-The earth-tiller may go behind the plough or before it, but the Hyksos
-
-will not serve any man, unless in the army of his holiness, that is
-
-warrior life."
-
-The boatman was in the vein and talked continually, but the prince
-
-heard no longer. In his soul very painful questions grew louder and
-
-louder, for they were new altogether. Were those mounds, then, around
-
-which he had been sailing, on his property? A marvelous thing, he knew
-
-not at all where his lands were nor what they looked like. So in his
-
-name Dagon had imposed new rents on the people, and the active movement
-
-on which he had been looking while moving along the shores was the
-
-extortion of rents. It was clear that the man whom they had been
-
-beating on the shore had nothing to pay with. The children who were
-
-crying bitterly in the boat were sold at a drachma per head for a
-
-twelvemonth, and that woman who was wading in the water to her waist
-
-and weeping was their mother.
-
-"Women are very unquiet," said the prince to himself. "Sarah is the
-
-quietest woman; but others love to talk much, to cry and raise an
-
-uproar."
-
-He remembered the man who was pacifying his wife's excitement. They had
-
-been plunging him into the water and he was not angry; they did nothing
-
-to her, and still she made an uproar.
-
-"Women are very unquiet!" repeated be. "Yes, even my mother, who is
-
-worthy of honor. What a difference between her and my father! His
-
-holiness does not wish to know at all that I left the army for a girl,
-
-but the queen likes to occupy herself even with this, that I took into
-
-my house a Jewess. Sarah is the quietest of women whom I know; but
-
-Tafet cries and makes an uproar for four persons."
-
-Then the prince recalled the words of the man's wife, that for a month
-
-they had not eaten wheat, only seeds and roots of lotus. Lotus and
-
-poppy seeds are similar; the roots are poor. He could not eat them for
-
-three days in succession. Moreover, the priests who were occupied in
-
-medicine advised change of diet. While in school they told him that a
-
-man ought to eat flesh with fish, dates with wheat bread, figs with
-
-barley. But for a whole month to live on lotus seeds! Well, cows and
-
-horses? Cows and horses like hay, but barley straw must be shoved into
-
-their throats by force. Surely then earth-workers prefer lotus seeds as
-
-food, while wheat or barley cakes, fish and flesh they do not relish.
-
-For that matter, the most pious priests, wonderworkers, never touch
-
-flesh or fish. Evidently magnates and king's sons need flesh, just as
-
-lions and eagles do; but earth-tillers grass, like an ox.
-
-"Only that plunging into the water to pay rent. Ei! but didn't he once
-
-in bathing with his comrades put them under water, and even dive
-
-himself? What laughing they had in those days! Diving was fun. And as
-
-to beating with a cane, how many times had they beaten him in school?
-
-It is painful, but evidently not for every creature. A beaten dog howls
-
-and bites; a beaten ox does not even look around. So beating may pain a
-
-great lord, but a common man cries only so as to cry when the chance
-
-comes. Not all cry; soldiers and officers sing while belabored."
-
-But these wise reflections could not drown the small but annoying
-
-disquiet in the heart of Ramses. So his tenant Dagon had imposed an
-
-unjust rent which the tenants could not pay!
-
-At this moment the prince was not concerned about the tenants, but his
-
-mother. His mother must know of this Phoenician management. What would
-
-she say about it to her son? How she would look at him! How sneeringly
-
-she would laugh! And she would not be a woman if she did not speak to
-
-him as follows: "I told thee, Ramses, that Phoenicians would desolate
-
-thy property."
-
-"If those traitorous priests," thought the prince, "would give me
-
-twenty talents today, I would drive out that Dagon in the morning, my
-
-tenants would not be plunged under water, would not suffer blows, and
-
-my mother would not jeer at me. A tenth, a hundredth part of that
-
-wealth which is lying in the temples and feeding the greedy eyes of
-
-those bare heads would make me independent for years of Phoenicians."
-
-Just then an idea which was strange enough flashed up in the soul of
-
-Ramses, that between priests and earth-tillers there existed a certain
-
-opposition.
-
-"Through Herhor," thought he, "that man hanged himself on the edge of
-
-the desert. To maintain priests and temples about two million Egyptian
-
-men toil grievously. If the property of the priests belonged to the
-
-pharaoh's treasury, I should not have to borrow fifteen talents and my
-
-people would not be oppressed so terribly. There is the source of
-
-misfortunes for Egypt and of weakness for its pharaohs!"
-
-The prince felt that a wrong was done the people; therefore he
-
-experienced no small solace in discovering that priests were the
-
-authors of this evil. It did not occur to him that his judgment might
-
-be unjust and faulty. Besides, he did not judge, he was only indignant.
-
-The anger of a man never turns against himself, just as a hungry
-
-panther never eats its own body; it twirls its tail and moves its ears
-
-while looking for a victim.
+Zresztą on nie sądził, tylko oburzał się. Gniew zaś człowieka nigdy nie zwraca się przeciw niemu samemu; jak głodna pantera nie żre własnego ciała, lecz kręcąc ogonem i tuląc uszy, dokoła siebie wypatruje ofiary.

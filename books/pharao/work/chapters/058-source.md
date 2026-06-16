@@ -1,1031 +1,282 @@
-# Kapitel 58: CHAPTER LVIII
+# Kapitel 058: Tom III - Rozdział IX
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part66.xhtml*
 
 <!-- status: pending -->
 
-AFTER leaving Abydos, Ramses XIII sailed up the Nile to the city of
+Opuściwszy Abydos, Ramzes XIII popłynął, wciąż w górę rzeki, do miasta Tan-ta-ren (Dendera) i Kaneh
 
-Tan-ta-ren (Dendera) and Keneh, which stood nearly opposite each other:
+W Tan-ta-ren były dwa miejsca znakomite: sadzawka, w której hodowano krokodyle, i świątynia Hator posiadająca wyższą szkołę. Tu uczono medycyny, pieśni pobożnych, sposobów odprawiania nabożeństw, wreszcie astronomii.
 
-one on the western, the other on the eastern bank of the river. At Tan-
+Faraon był tu i tam. Zirytował się, gdy mu kazano palić kadzidła przed świętymi krokodylami, które uważał za gady śmierdzące i głupie. A gdy jeden z nich w czasie ofiary, zanadto wysunąwszy się, chwycił pana zębami za szatę, Ramzes tak trzasnął go w łeb brązową łyżką, że gad na chwilę zamknął oczy i rozstawił łapy; potem cofnął się i wlazł w wodę, jakby zrozumiawszy, że młody władca nawet ze strony bogów nie lubi poufałości.
 
-ta-ren were two famous places: the pond in which crocodiles were
+— A może popełniłem świętokradztwo? — zapytał arcykapłana.
 
-reared, and the temple of Hator, where there was a school at which were
+Dostojnik spojrzał spod oka, czy kto nie podsłuchuje, i odparł:
 
-taught medicine, sacred hymns, the methods of celebrating divine
+— Gdybym wiedział, że wasza świątobliwość taką zrobisz mu ofiarę, podałbym wam maczugę, a nie kadzielnicę. Ten krokodyl to najnieznośniejsze bydlę w całej świątyni... Raz porwał dziecko...
 
-ceremonies, finally astronomy.
+— I zjadł?
 
-The pharaoh visited both places. He was irritated when they directed
+— Rodzice byli kontenci!... — rzekł kapłan.
 
-him to burn incense before the sacred crocodiles, which he considered
+— Powiedz mi — spytał po namyśle faraon — jakim sposobem wy, ludzie mądrzy, możecie składać hołdy zwierzętom, które w dodatku, gdy nie ma widzów, okładacie kijami!...
 
-as foul and stupid reptiles. And when one of these in time of offering
+Arcykapłan jeszcze raz obejrzał się, a widząc, że w bliskości nie ma nikogo, odpowiedział:
 
-pushed out too far and seized the sovereign's garment with its teeth,
+— Przecie chyba ty, władco, nie posądzisz wyznawców Jedynego Boga o wiarę w świętość zwierząt... To, co się robi, robi się dla motłochu... Byk Apis, którego niby czczą kapłani, jest najpiękniejszym bykiem w całym Egipcie i utrzymuje naszą rasę bydła. Ibisy i bociany oczyszczają z padliny nasze pola; dzięki kotom — myszy nie niszczą nam zapasów zboża, a dzięki krokodylom mamy dobrą wodę w Nilu, którą bez ich pomocy trulibyśmy się...
 
-Ramses struck it on the head with a bronze ladle so violently that the
+Tymczasem lekkomyślne i ciemne pospólstwo nie rozumie pożytku z tych zwierząt i wytępiłoby je w ciągu roku, gdybyśmy nie zabezpieczyli ich bytu ceremoniami religijnymi.
 
-reptile closed its eyes for a time, and spread its legs, then withdrew
+Oto sekret naszych świątyń przeznaczonych dla zwierząt i naszego nabożeństwa do nich. Okadzamy to, co lud powinien szanować, bo ma z tego pożytek.
 
-and crept into the water, as if understanding that the youthful
+W świątyni Hator faraon prędko przebiegł dziedzińce szkoły medycznej i bez wielkiego zapału wysłuchał wróżb, jakie stawiali mu astrologowie. Gdy zaś arcykapłan-astronom pokazał mu złotą tablicę, na której była wyrytowana mapa nieba, pan zapytał:
 
-sovereign did not wish to be familiar even with divinities.
+— Jak też często sprawdzają się wasze przepowiednie, które odczytujecie w gwiazdach?
 
-"But have I committed sacrilege?" inquired Ramses of the high priest.
+— Czasem sprawdzają się.
 
-The dignitary looked around stealthily to see if any one were
+— A gdybyście wróżyli ludziom z drzew, kamieni albo biegu wody, to także sprawdzałoby się?
 
-listening, and answered,
+Arcykapłan zakłopotał się.
 
-"If I had known, holiness, that Thou wouldst make it an offering in
+— Wasza świątobliwość nie chciej uważać nas za oszustów. Przepowiadamy ludziom przyszłość, bo ona ich obchodzi i, co prawda, tyle rozumieją z astronomii.
 
-that way, I should have given thee a club, not a censer. That crocodile
+— A co wy rozumiecie?
 
-is the most unendurable brute in the whole temple. Once it seized a
+— Znamy — mówił kapłan — budowę sklepienia niebieskiego i ruchy gwiazd...
 
-child."
+— Cóż z tego przyjdzie komu?...
 
-"And ate it?"
+— Niemałe usługi oddaliśmy Egiptowi. My wskazujemy główne kierunki, według których wznoszą się budowle i kopią kanały. Bez pomocy naszej nauki okręty pływające po morzu nie mogłyby oddalać się od brzegów. My wreszcie układamy kalendarz i obrachowujemy przyszłe zjawiska na niebie. Ot, i teraz niedługo będziemy mieli zaćmienie...
 
-"The parents were satisfied!" said the priest.
+Ale Ramzes już go nie słuchał; odwrócił się i wyszedł.
 
-"Tell me," said the pharaoh, after thinking, "how can ye sages render
+„Jak można — myślał faraon — budować świątynie dla tak dziecinnej zabawki i jeszcze rezultaty jej ryć na złotych tablicach?... Święci mężowie już nie wiedzą, czego się chwytać z próżniactwa!...”
 
-homage to beasts which, moreover, when there are no witnesses, ye beat
+Krótko zabawiwszy w Tan-ta-ren, władca przeprawił się na drugą stronę Nilu, do miasta Kaneh.
 
-with sticks?"
+Tam nie było sławnych świątyń, okadzanych krokodylów i złotych tablic z gwiazdami. Natomiast kwitnęło garncarstwo i handel. Stamtąd szły dwa trakty do portów Morza Czerwonego: Koseir i Berenice
 
-The high priest looked around again, and seeing no one near by, he
+Kaneh roiło się też Fenicjanami, którzy z ogromnym zapałem przyjęli władcę i ofiarowali mu rozmaitych kosztowności za dziesięć talentów.
 
-answered,
+Mimo to faraon ledwie jeden dzień zabawił w Kaneh; dano mu bowiem z Tebów znać, że czcigodna mumia Ramzesa XII już znajduje się w pałacu Luksor i czeka na pogrzeb.
 
-"Of course Thou canst not suspect, sovereign, that worshippers of one
+W owej epoce Teby były miastem ogromnym i zajmowały około dwunastu kilometrów kwadratowych powierzchni. Posiadały one największą w Egipcie świątynię Amona tudzież mnóstwo gmachów publicznych i prywatnych. Główne ulice były szerokie, proste i wyłożone kamiennymi płytami, brzegi Nilu obulwarowane, domy cztero- i pięciopiętrowe.
 
-god believe in the divinity of beasts. What is done is done for the
+Ponieważ każda świątynia i pałac miała ogromną bramę z pylonami, nazywano więc Teby miastem „stubramowym”. Właściwie były one miastem — z jednej strony bardzo przemysłowym i handlowym, z drugiej — jakby progiem do wieczności. Albowiem na zachodnim brzegu Nilu, w górach i między górami, znajdowała się niezliczona ilość grobów kapłańskich, magnackich i królewskich.
 
-people."
+Wspaniałość swoją Teby zawdzięczały dwom faraonom: Amenofisowi III, czyli Memnonowi, który zastał „miasto gliniane, a zostawił kamienne”, i Ramzesowi II, który wykończył i uzupełnił gmachy rozpoczęte przez Amenofisa.
 
-In the temple of Hator the pharaoh passed quickly through the school of
+Na wschodnim brzegu Nilu, w stronie południowej miasta, była cała dzielnica ogromnych budowli królewskich: pałaców, willi, świątyń, na których gruzach dziś wznosi się miasteczko Luksor. W tej dzielnicy zwłoki faraona oczekiwały na ostateczne ceremonie.
 
-medicine, and listened without great interest to predictions given by
+Gdy przyjechał Ramzes XIII, całe Teby wyległy na powitanie go; w domach zostali tylko starcy i kalecy, a w zaułkach złodzieje... Tu po raz pierwszy lud wyprzągł konie z królewskiego wozu i sam go ciągnął. Tu również po raz pierwszy faraon usłyszał krzyki i złorzeczenia przeciw kapłanom, co go ucieszyło, tudzież wołania, aby każdy siódmy dzień był świętem, co zastanowiło władcę. Pragnął on dać taki podarunek pracującemu Egiptowi, ale nie myślał, że jego zamiary stały się już głośnymi i naród oczekuje ich spełnienia.
 
-astrologers concerning him. When the astrologer high priest showed him
+Milowa podróż ciągnęła się parę godzin wśród zbitych tłumów. Wóz królewski bardzo często zatrzymywał się między ciżbą i nie prędzej ruszał, aż gwardii jego świątobliwości udało się podnieść tych, którzy leżeli plackiem na ziemi.
 
-a tablet on which was engraved a map of heaven, he asked,
+Dobiwszy się wreszcie do pałacowych ogrodów, gdzie zajął jedną z mniejszych willi, faraon był tak zmęczony, że tego dnia nie zajmował się interesami państwa. Zaś na drugi dzień spalił kadzidła przed mumią ojca, która stała w królewskim gmachu głównym, i powiedział Herhorowi, że można zwłoki przeprowadzić do grobów.
 
-"How often do these predictions come true which ye read in the stars?"
+Nie odbyło się to jednak natychmiast.
 
-"They come true sometimes."
+Z pałacu przewieziono zmarłego do świątyni Ramzesa, gdzie dobę odpoczywał. Następnie z ogromnym przepychem wyprowadzono mumię do świątyni Amona-Ra.
 
-"But if ye predict from trees, stones, or running water, do those
+Szczegóły obrzędu pogrzebowego były takie same jak w Memfis, choć w nierównie większych proporcjach.
 
-predictions come true also?"
+Pałace królewskie, które na prawym brzegu Nilu leżały w stronie południowej miasta, ze świątynią Amona-Ra, która znajdowała się w północnej jego części, łączyła jedyna w swoim rodzaju droga. Była to aleja długa na dwa kilometry, bardzo szeroka, wysadzona nie tylko ogromnymi drzewami, ale jeszcze podwójnym rzędem sfinksów. Jedne z nich miały przy lwich ciałach głowy ludzkie, inne — głowy baranie. Posągów tych wzdłuż drogi stało kilkaset.
 
-The high priest was troubled.
+Po obu stronach alei cisnęły się nieprzebrane tłumy ludu z Teb i okolic; środkiem zaś gościńca posuwał się orszak pogrzebowy. Więc szły muzyki rozmaitych pułków, oddziały płaczek, chóry śpiewaków, wszystkie cechy rzemieślnicze i kupieckie, deputacje kilkudziesięciu nomesów ze swoimi bogami i chorągwiami, deputacje kilkunastu narodów utrzymujących stosunki z Egiptem... I znowu muzyka, płaczki i chóry kapłańskie.
 
-"Holiness, do not consider us untruthful. We predict the future for
+I tym razem mumia królewska jechała w złotej łodzi, ale nierównie kosztowniejszej niż w Memfisie. Wóz, który ją dźwigał, zaprzężony w osiem par białych wołów, miał ze dwa piętra wysokości i prawie znikał pod stosami wieńców, bukietów, strusich piór i drogocennych tkanin. Otaczały go gęste kłęby dymu z kadzideł, co robiło wrażenie, iż Ramzes XII ukazuje się swojemu narodowi już jako bóg w obłokach.
 
-people because it concerns them, and we tell them, indeed, what they
+Z pylonów wszystkich świątyń tebańskich odzywały się odgłosy podobne do grzmotu tudzież potężne a rzewne dźwięki blach spiżowych.
 
-can understand of astronomy."
+Pomimo że aleja sfinksów była wolna i szeroka, mimo że pochód odbywał się pod kierunkiem egipskich jenerałów, a więc w największym porządku, niemniej na przejście owych dwu kilometrów oddzielających pałace od gmachów Amona orszak zużył trzy godziny.
 
-"And what do ye understand?"
+Dopiero gdy mumię Ramzesa XII wniesiono do świątyni, z pałacu, na złotym wozie ciągnionym przez parę dzielnych koni, wyjechał Ramzes XIII. Lud stojący wzdłuż alei, który w czasie procesji zachowywał się spokojnie, na widok ukochanego władcy wybuchnął tak ogromnym okrzykiem, że w nim rozpłynęły się grzmoty i dźwięki ze szczytu świątyń.
 
-"We understand," said the priest, "the structure of the heavenly dome
+Była chwila, że uniesione zapałem pospólstwo chciało wybiec na środek alei i otoczyć pana. Ale Ramzes jednym znakiem reki powstrzymał żyjącą powódź i zapobiegł świętokradztwu.
 
-and the movement of the stars."
+W ciągu kilkunastu minut faraon przejechał gościniec i stanął przed olbrzymimi pylonami najwspanialszej świątyni w Egipcie.
 
-"What good is that to any one?"
+Jak Luksor był całą dzielnicą pałaców królewskich w południowej, tak Karnak był dzielnicą bogów w północnej stronie miasta. Głównym zaś ogniskiem Karnaku była świątynia Amona-Ra.
 
-"We have rendered no small service to Egypt. We indicate the main
+Sam ten gmach zajmował cztery morgi powierzchni, a otaczające go ogrody i stawy około czterdziestu morgów. Przed świątynią stały dwa pylony, wysokie na dziesięć piątr. Podwórze, otoczone wspartym na kolumnach kurytarzem
 
-directions according to which edifices are built and canals are dug.
+Owa sala, czyli hipostyl, miała przeszło sto pięćdziesiąt kroków długości i siedemdziesiąt pięć szerokości, jej zaś sufit opierał się na stu trzydziestu czterech kolumnach. Spomiędzy nich dwanaście środkowych słupów miało po piętnaście kroków obwodu i pięć do sześciu piętr wysokości!...
 
-Without the aid of our science vessels sailing on the sea could not go
+Posągi rozmieszczone w świątyni, obok pylonów i nad świętym stawem, miały odpowiednie proporcje.
 
-far from laud. Finally we compose calendars and calculate future
+W olbrzymiej bramie czekał na faraona dostojny Herhor, arcykapłan tej świątyni. Otoczony całym sztabem kapłanów, Herhor powitał władcę prawie dumnie, a paląc przed nim kadzidło, nie patrzył na niego. Potem przez dziedziniec zaprowadził faraona do hipostylu i wydał rozkaz wpuszczenia deputacji w obręb świątyniowego muru.
 
-heavenly phenomena. For instance, the sun will be eclipsed within a
+Na środku hipostylu stała łódź z mumią zmarłego władcy, a po obu jej stronach, naprzeciw siebie — dwa jednakowo wysokie trony. Na jednym zasiadł Ramzes XIII otoczony przez jenerałów i nomarchów, na drugim — Herhor otoczony przez kapłanów. Po czym arcykapłan Mefres podał Herhorowi infułę Amenhotepa, a młody faraon po raz drugi na głowie Herhora zobaczył złotego węża, symbol władzy królewskiej.
 
-short period."
+Ramzes pobladł z gniewu i pomyślał:
 
-Ramses was not listening; he had turned and gone out.
+„Obym nie potrzebował zdjąć ci ureusza razem z twoją głową!...”
 
-"How is it possible," thought the pharaoh, "to build a temple for such
+Ale milczał, wiedząc, że w tej największej świątyni egipskiej Herhor jest panem równym bogom i mocarzem bodaj czy nie wyższym od samego faraona.
 
-childish amusements, and besides to engrave the results on golden
+Przez ten czas, gdy lud napełniał dziedziniec, a za purpurową zasłoną oddzielającą od śmiertelnych resztę świątyni odezwały się arfy i ciche śpiewy, Ramzes przypatrywał się sali. Cały las potężnych kolumn, od góry do dołu okrytych malowidłami, tajemnicze oświetlenie, sufit zawieszony gdzieś pod niebem, przytłaczające wywarło na nim wrażenie.
 
-tablets? These holy men do not know what to snatch at from idleness."
+„Co to znaczy — myślał — wygrać bitwę nad Sodowymi Jeziorami?... Zbudować taki gmach to jest dzieło!... A przecież oni go wznieśli...”
 
-After he had remained a short time in Tan-ta-ren, the sovereign crossed
+W tej chwili odczuł potęgę kapłańskiego stanu. Czyliż on, jego wojsko, a nawet cały lud potrafiłby obalić tę świątynię?... A jeżeli trudno poradzić sobie z gmachem, czy będzie łatwiej uporać się z jego budowniczymi?...
 
-over to Keneh.
+Z przykrych medytacji wyrwał go głos arcykapłana Mefresa.
 
-In that place were no celebrated temples, incensed crocodiles, or
+— Wasza świątobliwość — mówił starzec — ty, najdostojniejszy powierniku bogów (tu ukłonił się Herhorowi), wy nomarchowie, pisarze, rycerze i ludu pospolity! Najdostojniejszy arcykapłan tej świątyni, Herhor, wezwał nas, abyśmy starym obyczajem osądzili ziemskie postępki zmarłego faraona i odmówili mu lub przyznali — prawo pogrzebu...
 
-golden tablets with stars. But commerce and pottery flourished. From
+Gniew uderzył do głowy faraonowi. Nie dość, że jego lekceważą w tym miejscu, ale jeszcze śmią rozprawiać o czynach ojca, decydować o pogrzebie!...
 
-that city went two roads to ports on the Red Sea: Koseir and Berenice,
+Ale uspokoił się. Była to tylko formalność, tak wreszcie stara jak egipskie dynastie. Nie chodziło w niej naprawdę o sąd, ale o pochwałę dla zmarłego.
 
-also a road to the porphyry mountains, whence they brought statues and
+Na znak dany przez Herhora arcykapłani zasiedli na taboretach. Ale nomarchowie ani jenerałowie otaczający tron Ramzesa nie usiedli: dla nich bowiem nie było krzeseł.
 
-great sticks of timber.
+Faraon zapamiętał i tę zniewagę; ale już tak panował nad sobą, że nie można było poznać, czy dostrzegł lekceważenie swoich bliskich.
 
-Keneh was swarming with Phoenicians who received the sovereign with
+Tymczasem święty Mefres zastanawiał się nad życiem zmarłego pana.
 
-great enthusiasm, and presented him with valuables to the amount of ten
+— Ramzes XII — mówił — nie popełnił żadnego z czterdziestu dwóch grzechów, więc sąd bogów wyda dla niego wyrok łaskawy. A że nadto mumia królewska, dzięki wyjątkowej troskliwości kapłanów, jest zaopatrzona we wszystkie amulety, modlitwy, przepisy i zaklęcia, zatem nie ulega kwestii, że zmarły faraon jest już w mieszkaniu bogów, zasiada obok Ozyrysa i jest sam Ozyrysem.
 
-talents.
+Boska natura Ramzesa XII objawiała się już w ziemskim życiu. Panował przeszło trzydzieści lat, dał narodowi głęboki spokój i wybudował lub dokończył wielu świątyń. Prócz tego sam był arcykapłanem i najpobożniejszych kapłanów prześcigał pobożnością. W jego panowaniu pierwsze miejsce zajmowała cześć bogów i podźwignięcie świętego stanu kapłańskiego. Za co też kochały go moce niebieskie, a jeden z tebańskich bożków, Chonsu, na prośbę faraona raczył udać się do kraju Buchten i tam wypędził złego ducha z córki królewskiej.
 
-In spite of this, the pharaoh remained barely one day there, since they
+Mefres odpoczął i znowu mówił dalej:
 
-informed him from Thebes that the revered body of Ramses XII was
+— Gdy dowiodłem wam, dostojnicy, że Ramzes XII był bogiem, zapytacie: w jakim celu ta wyższa istota zstąpiła na ziemię egipską i kilkadziesiąt lat spędziła na niej?
 
-already in the palace of Luxor awaiting its burial.
+Oto w tym celu, ażeby poprawić świat, który jest bardzo zepsuty skutkiem upadku wiary.
 
-At that epoch Thebes was an immense city occupying about twelve square
+Kto bowiem dziś zajmuje się pobożnością, kto myśli o spełnianiu woli bogów?
 
-kilometers of area. It possessed the greatest temple in Egypt: that of
+Na dalekiej północy widzimy duży naród asyryjski, który wierzy tylko w siłę miecza, a zamiast mądrością i nabożeństwem, zajmuje się podbijaniem ludów. Bliżej nas siedzą Fenicjanie, dla których bogiem jest złoto, a nabożeństwem oszukiwanie i lichwa. Inne wreszcie ludy, jak Chetowie na wschodzie, Libijczycy na zachodzie, Etiopowie na południu i Grecy na Morzu Śródziemnym, są to barbarzyńcy i rabusie. Zamiast pracować kradną, a zamiast ćwiczyć się w mądrości piją, grają w kości albo wysypiają się jak strudzone bydlęta.
 
-Amon, also a multitude of edifices, private and public. The main
+Na świecie jest jeden tylko naród prawdziwie pobożny i mądry — egipski; lecz zobaczcie, co się i tutaj dzieje?
 
-streets were broad, straight, and paved with stone slabs, the banks of
+Skutkiem napływu cudzoziemców, pozbawionych wiary, religia u nas upadła. Szlachta i dostojnicy przy kubkach wina drwią z bogów i wiecznego życia, a lud obrzuca błotem święte posągi i nie składa ofiar świątyniom.
 
-the Nile had their boulevards, the houses were four or five stories
+Miejsce pobożności zajął zbytek, mądrości — rozpusta. Każdy chce nosić ogromne peruki, namaszczać się osobliwymi woniami, posiadać tkane złotem koszule i fartuszki, stroić się w łańcuchy i bransolety wysadzane drogimi kamieniami. Placek pszenny już mu nie wystarcza: on chce ciastka z mlekiem i miodem; piwem myje nogi, zaś pragnienie gasi zagranicznymi winami.
 
-high.
+Skutkiem tego cała szlachta jest zadłużona, lud bity i przeciążony pracą, tu i ówdzie wybuchają bunty. Co mówię: tu i ówdzie?... Od pewnego czasu, jak długi i szeroki Egipt, dzięki tajemniczym burzycielom, słyszymy okrzyk:
 
-Since every temple and palace had a great gateway with pylons Thebes
+„Dajcie nam co sześć dni odpoczynek!... Nie bijcie nas bez sądu!... Darujcie nam po zagonie ziemi na własność!...”
 
-was called "the city of a hundred gates." It was a city on the one hand
+Jest to zapowiedź ruiny naszego państwa, przeciw której trzeba znaleźć ratunek. Ratunek zaś jest tylko w religii, która uczy nas, że lud powinien pracować, mężowie święci, jako znający wolę bogów, powinni mu wskazywać pracę, a faraon i jego dostojnicy winni czuwać, ażeby praca była rzetelnie spełniana.
 
-greatly given to commerce and trade, and on the other, the threshold,
+Tego nas uczy religia; według tych zasad rządził państwem równy bogom Ozyrys-Ramzes XII. My zaś, arcykapłani, uznając jego pobożność, ten napis wyryjemy mu na grobie i w świątyniach:
 
-as it were, of eternity. On the western bank of the Nile, in the hills
+„Horus wół, Apis silny, który połączył korony królestwa, krogulec złoty rządzący szablą, zwycięzca dziewięciu narodów, król Wyższego i Niższego Egiptu, władca dwu światów, syn słońca Amen-mer-Ramessu, ukochany przez Amon-Ra, pan i władca Tebaidy, syn Amon-Ra, przybrany za syna przez Horusa, a spłodzony przez Hormacha, król Egiptu, władca Fenicji, panujący nad dziewięcioma narodami.”
 
-and among them, was an incalculable number of tombs of pharaohs,
+Gdy wniosek ten zebrani zatwierdzili okrzykiem, wybiegły spoza zasłony tancerki i wykonały przed sarkofagiem święty taniec, a kapłani zapalili kadzidła. Po czym zdjęto mumię z łodzi i wniesiono do sanktuarium Amona, dokąd Ramzes XIII już nie miał prawa wchodzić.
 
-priests, and magnates.
+Niebawem nabożeństwo skończyło się i zebrani opuścili świątynię.
 
-Thebes was indebted for its splendor to two pharaohs: Amenophis III or
+Wracając do pałacu Luksor, młody faraon był tak pogrążony w myślach, że prawie nie dostrzegał niezmiernego tłumu i nie słyszał jego okrzyków.
 
-Memnon, who found it a "city of mud and left it a city of stone," and
+„Nie mogę oszukiwać własnego serca — mówił do siebie Ramzes. — Arcykapłani lekceważą mnie, co nie spotkało dotychczas żadnego faraona; ba! nawet wskazują mi, w jaki sposób mogę odzyskać ich łaskę. Oni chcą rządzić państwem, a ja mam pilnować, ażeby wykonywano ich rozkazy...
 
-Ramses II, who finished and perfected the edifices begun by Amenophis.
+Otóż będzie inaczej: ja rozkazuję, a wy musicie spełniać... I albo zginę, albo na waszych karkach oprę moją królewską nogę...”
 
-On the eastern bank of the Nile, in the southern part of the city, was
+Przez dwa dni czcigodna mumia Ramzesa XII przebywała w świątyni Amona-Ra, w miejscu tak boskim, że z wyjątkiem Herhora i Mefresa, nawet arcykapłani wchodzić tam nie mogli. Przed zmarłym świeciła się jedna tylko lampa, której płomień podniecany cudownym sposobem nigdy nie gasnął. Nad zmarłym unosił się symbol duszy, krogulec z ludzką głową. Czy to była machina, czy naprawdę żywa istota, nikt nie wiedział. To pewne, że kapłani, którzy mieli odwagę spojrzeć ukradkiem za zasłonę, widzieli, że istota owa wisiała w powietrzu bez podparcia poruszając przy tym ustami i oczyma.
 
-an entire quarter of immense regal edifices: palaces, villas, temples,
+Nastąpił dalszy ciąg pogrzebu i łódź złota powiozła zmarłego już na drugą stronę Nilu. Pierwej jednak, otoczona ogromnym orszakiem: kapłanów, płaczek, wojska i ludu, wśród kadzideł, muzyki, płaczu i śpiewu przejechała główną ulicą Tebów.
 
-on the ruins of which the small town of Luxor stands at present. In
+Była to chyba najpiękniejsza ulica w egipskim państwie: szeroka, gładka, wysadzona drzewami. Cztero-, a nawet pięciopiętrowe domy jej od góry do dołu były wyłożone mozaiką lub pokryte kolorowanymi płaskorzeźbami. Co wyglądało tak, jakby na owych budowlach zawieszono olbrzymie, barwne dywany lub zasłonięto je kolosalnymi obrazami, które przedstawiały pracę kupców, rzemieślników, żeglarzy tudzież dalekie kraje i ludy.
 
-that quarter the remains of Ramses XII were placed for the last
+Słowem, była to nie ulica, ale raczej niezmierna galeria obrazów, barbarzyńskich pod względem rysunku, jaskrawych pod względem kolorów.
 
-ceremonies.
+Orszak pogrzebowy posuwał się około dwu kilometrów z północy na południe. Mniej więcej we środku miasta zatrzymał się, a potem skręcił na zachód ku Nilowi.
 
-When Ramses XIII arrived all Thebes went forth to greet him, only old
+W tym miejscu wśród rzeki znajdowała się duża wyspa, do której prowadził most zbudowany na czółnach. Ażeby uniknąć wypadku, jenerałowie komenderujący procesją jeszcze raz uszykowali orszak, ustawili po czterech ludzi w szeregu i nakazali im posuwać się bardzo wolno, unikając rytmicznych stąpań. W tym celu muzyki idące na czele gromady intonowały pieśni, każdą w innym takcie.
 
-men and cripples remained in the houses, and thieves in the alleys.
+Po paru godzinach procesja przeszła pierwszy most, potem wyspę, potem drugi most i — znalazła się na lewym, zachodnim brzegu Nilu.
 
-Here, for the first time, the people took the horses from the pharaoh's
+Jeżeli wschodnią połowę Tebów można nazwać miastem bogów i królów, to zachodnia była dzielnicą pamiątkowych świątyń i grobów.
 
-chariot and drew it themselves. Here for the first time the pharaoh
+Orszak posuwał się od Nilu w stronę gór, drogą środkową. Na południe od tej drogi stała na wzgórzu świątynia upamiętniająca zwycięstwa Ramzesa III, której ściany były pokryte wizerunkami ludów podbitych: Chetów, Amorejczyków, Filistynów, Etiopów, Arabów, Libijczyków. Trochę poniżej wznosiły się dwa kolosalne posągi Amenhotepa II, których wysokość, mimo siedzącej postawy, odpowiada pięciu piętrom. Jedna z tych statui odznaczała się cudowną własnością: gdy padły promienie wschodzącego słońca, posąg wydawał dźwięki niby arfa
 
-heard shouts against the abuses of priests. This comforted him; also
+Jeszcze bliżej drogi, wciąż na lewo od niej, stało Rameseum, niezbyt wielka, ale piękna świątynia Ramzesa II. Jej przysionku pilnowały cztery posągi stojące, z królewskimi insygniami w rękach. Na dziedzińcu zaś wznosił się również posąg Ramzesa II, wysoki na cztery piętra.
 
-cries that every seventh day should be for rest. He desired to make
+Droga szła wciąż łagodnie pod górę i coraz wyraźniej widać było bardzo spadziste wzgórza podziurawione jak gąbka: były to groby egipskich dostojników. Przy wejściu do nich, między stromymi skałami, leżała bardzo oryginalna świątynia królowej Hatasu. Budynek ten miał czterysta pięćdziesiąt kroków długości. Z dziedzińca otoczonego murem wchodziło się po schodach na dziedziniec otoczony kolumnami, pod którym była świątynia podziemna. Z dziedzińca zaś kolumnowego wchodziło się znowu po schodach do świątyni już wykutej w skale, pod którą były znowu podziemia.
 
-that gift to toiling Egypt, but he knew not that his plans had become
+Tym sposobem świątynia miała dwie kondygnacje: niższą i wyższą, z których jeszcze każda dzieliła się na górną i dolną. Schody były ogromne, opatrzone zamiast poręczy dwoma rzędami sfinksów; wejścia na każde schody pilnowały po dwa siedzące posągi.
 
-known, and that the people were waiting to see them accomplished.
+Od świątyni Hatasu zaczynał się ponury wąwóz, który od grobów dygnitarzy prowadził do grobów królewskich. Zaś między dwoma tymi dzielnicami znajdował się wykuty w skale grób arcykapłana Retemenofa: komnaty i korytarze tworzące go zajmowały około dwu morgów podziemnej powierzchni.
 
-His journey of five miles lasted a couple of hours amid dense crowds of
+Droga w wąwozie staje się tak stromą, że wołom ciągnącym muszą pomagać ludzie i popychać łódź żałobną. Orszak posuwa się jakby po gzymsie wykutym z boku skały, wreszcie zatrzymuje się na obszernym placu o kilkanaście piętr nad dnem wąwozu.
 
-people. The pharaoh's chariot was stopped very often in the midst of a
+Tu znajdują się drzwi prowadzące do podziemnego grobu, który budował sobie faraon przez trzydzieści lat panowania. Grób ten to cały pałac z komnatami dla pana, rodziny i służby, z jadalnią, sypialnią i łazienką, z kaplicami poświęconymi różnym bogom, a nareszcie — ze studnią, na dnie której znajduje się mały pokoik, gdzie na wieki spocznie mumia faraona.
 
-throng, and did not move till the guard of his holiness had raised
+Przy blasku jaskrawych pochodni widać ściany wszystkich komnat pokryte modlitwami i obrazami, które odtwarzają wszystkie zajęcia i rozrywki zmarłego: polowania, budowę świątyń i kanałów, triumfalne przejazdy, uroczystości odprawiane na cześć bogów, walki wojsk z nieprzyjaciółmi, pracę ludu...
 
-those who lay prostrate before it.
+Nie dość na tym: pokoje bowiem nie tylko są zastawione sprzętami, naczyniami, wozami i bronią, kwiatami, mięsem, ciastem i winem, ale jeszcze znajduje się w nich mnóstwo posągów. Są to liczne wizerunki Ramzesa XII, jego kapłanów, ministrów, kobiet, żołnierzy i niewolników. Pan bowiem i na tamtym świecie nie może obejść się bez kosztownych sprzętów, wykwintnego jadła i wiernej służby.
 
-When at last he reached the palace gardens where he was to occupy one
+Gdy wóz żałobny zatrzymał się u wejścia do grobu, kapłani wyjęli mumię królewską z sarkofagu i postawili ją na ziemi opartą plecami o skałę. Wówczas Ramzes XIII spalił przed zwłokami ojca kadzidło, a królowa Nikotris, objąwszy mumię za szyję, poczęła mówić z płaczem:
 
-of the smaller villas, the pharaoh was so wearied that he did not
+— „Jam jest siostra twoja, żona twoja Nikotris, nie opuszczaj mnie, o wielki! Czy istotnie pragniesz, mój dobry ojcze, abym się oddaliła? A jeżeli ja odejdę, zostaniesz sam, i czy ktokolwiek będzie z tobą?...”
 
-occupy himself with affairs of state on his arrival. Next day, however,
+W tej chwili arcykapłan Herhor spalił kadzidło przed mumią, a Mefres rozlał wino i rzekł:
 
-he burnt incense before the mummy of his father, which was in the main
+— „Twemu sobowtórowi ofiarujemy to, Ozyrysie-Mer-amen-Ramzesie, władco Górnego i Dolnego Egiptu, którego głos jest sprawiedliwy przed wielkim bogiem...”
 
-royal chamber, and informed Herhor that they might conduct the remains
+Po czym odezwały się płaczki i chóry kapłanów:
 
-to the tomb prepared for them.
+Chór I. „Skarżcie się, skarżcie, płaczcie, płaczcie, bez ustanku płaczcie, tak głośno, jak tylko możecie...
 
-But this ceremony was not performed immediately.
+Płaczki. O dostojny podróżniku, który kierujesz swe kroki do ziemi wieczności, jakże prędko wydzierają nam ciebie!...
 
-They conveyed the late pharaoh to the temple of Ramses, where it
+Chór II. Jakże pięknym jest, co mu się dzieje! Ponieważ on bardzo kochał Chonsu z Teb, więc bóg pozwolił mu osiągnąć Zachód, w świecie pokoleń sług jego.
 
-remained a clay and a night. Then they bore the mummy with boundless
+Płaczki. O ty, którego otaczało tylu sług, będziesz teraz w ziemi, która nakazuje samotność... Ty, który miałeś cienkie szaty i lubiłeś czystą bieliznę, leżysz teraz we wczorajszej odzieży!...
 
-magnificence to the temple of Amon-Ra.
+Chór I. W pokoju, w pokoju na Zachód, o panie nasz, idź w pokoju... Ujrzymy cię znowu, gdy dzień wieczności nadejdzie, albowiem idziesz do kraju, który łączy z sobą wszystkich ludzi.”
 
-The details of the funeral ceremony were the same as in Memphis, though
+Zaczęły się ostateczne ceremonie.
 
-incomparably grander.
+Przyprowadzono wołu i antylopę, które powinien był zabić Ramzes XIII, ale zabił jego zastępca wobec bogów, arcykapłan Sem. Niżsi kapłani szybko oprawili zwierzęta, po czym Herhor i Mefres, wziąwszy udźce ich, kolejno przykładali je do ust mumii. Ale mumia jeść nie chciała, była bowiem jeszcze nie ożywiona, a usta jej zamknięte.
 
-The royal palaces on the right bank of the Nile were on the southern
+Aby usunąć tę przeszkodę, Mefres obmył ją świętą wodą i okadził wonnościami i ałunem, mówiąc:
 
-end of the city, while the temple of Amon-Ra was in the northern part
+— „Oto stoi mój ojciec, oto stoi Ozyrys-Mer-amen-Ramzes. Ja jestem twoim synem, jestem Horusem, przychodzę do ciebie, aby cię oczyścić i zrobić żywym... Składam na powrót twoje kości, spajam, co było przecięte, gdyż jestem Horus, mściciel ojca mojego... Zasiadasz na tronie Re i dajesz rozkazy bogom. Gdyż ty jesteś Re, który z Nut pochodzi, które rodzi Re każdego poranku, który rodzi Mer-amen-Ramzesa codziennie tak jak Re.”
 
-of it. These were connected by a road unique in character. This was an
+Mówiąc tak, arcykapłan dotykał amuletami ust, piersi, rąk i nóg mumii.
 
-avenue two kilometers long, very broad, lined not only with immense
+Teraz znowu odezwały się chóry.
 
-trees, but with two rows of sphinxes. Some of these with lions' bodies
+Chór I. „Ozyrys-Mer-amen-Ramzes będzie odtąd jadał i pijał wszystko, co jedzą i piją bogowie. Zasiada na ich miejscu, jest zdrów i silny jak oni...
 
-had human heads, others had rams' heads. There were several hundreds of
+Chór II. Ma władzę we wszystkich członkach swoich; nienawistnym mu jest, gdy będąc głodnym, jeść nie może, i gdy jest spragnionym, a pić nie może.
 
-these statues on the avenue, at both sides of which countless throngs
+Chór I. O bogowie, użyczcie Ozyrysowi-Mer-amen-Ramzesowi tysiące tysięcy kruż wina, tysiące szat, chlebów i wołów...
 
-of people had assembled from Thebes and the surrounding region. Along
+Chór II. O wy, żyjący na ziemi, którzy tędy przechodzić będziecie, jeżeli wam życie miłe, a śmierć obrzydła, jeżeli pragniecie, ażeby dostojeństwa wasze przeszły na wasze potomstwo, odmawiajcie tę modlitwę, za pochowanym tu nieboszczykiem...
 
-the middle of the avenue moved the funeral procession. Advancing to the
+Mefres. O wy wielcy, wy prorocy, wy książęta, pisarze i faraonowie, wy inni ludzie, którzy za milion lat po mnie przyjdziecie, gdyby kto z was na miejscu mego nazwiska położył swoje, Bóg go skarze zniszczeniem jego osoby na tej ziemi...”
 
-music of various regiments were detachments of female wailers, choruses
+Po tym zaklęciu kapłani zapalili pochodnie, wzięli mumię królewską i znowu włożyli ją do skrzyni, a ze skrzynią do kamiennego sarkofagu, który w ogólnych zarysach miał ludzką formę. Następnie pomimo krzyku, rozpaczy i oporu płaczek zanieśli ogromny ten ciężar do grobu.
 
-of singers, all the guilds of artisans and merchants, deputations from
+Minąwszy przy świetle pochodni kilka korytarzy i komnat, zatrzymali się w jednej, gdzie była studnia. W otwór ten spuścili sarkofag i sami weszli za nim do podziemiów dolnych. Tam ustawili sarkofag w ciasnym pokoiku i szybko zamurowali otwór tak, że najwprawniejsze oko nie odkryłoby wejścia do grobu. Następnie wrócili na górę i z równą starannością zamurowali wejście do studni.
 
-some tens of provinces with their gods and banners, deputations from
+Wszystko to wykonali sami kapłani, bez świadków, a wykonali tak dokładnie, że mumia Ramzesa XII po dziś dzień spoczywa w swym tajemniczym mieszkaniu, zarówno bezpieczna od złodziejów, jak i od nowożytnej ciekawości. W ciągu dwudziestu dziewięciu wieków wiele mogił królewskich zgwałcono, ale ta została nie tkniętą.
 
-more than ten nations which kept up relations with Egypt. And again
+Przez ten czas, gdy jedna grupa kapłanów ukrywała zwłoki pobożnego faraona, inna grupa, oświetliwszy podziemne komnaty, zaprosiła żyjących na ucztę.
 
-walkers' music and priestly choruses.
+Weszli do sali jadalnej: Ramzes XIII, królowa Nikotris, arcykapłani Herhor, Mefres i Sem tudzież kilkunastu cywilnych i wojskowych dostojników. Na środku komnaty stały stoły zapełnione potrawami, winem i kwiatami, a pod ścianą siedział wykuty z porfiru posąg zmarłego pana. Zdawał się on patrzeć na obecnych i z melancholijnym uśmiechem zapraszać ich, aby jedli.
 
-This time the mummy of the pharaoh advanced in a golden boat also, but
+Uczta zaczęła się świętym tańcem, któremu towarzyszył śpiew jednej z najwyższych kapłanek:
 
-incomparably richer than that in Memphis. The car which bore it was
+„Używajcie dni szczęścia, bo życie trwa tylko jedną chwilę... Używajcie szczęścia, bo gdy wejdziecie do grobu, spoczniecie tam na wieki, na całą długość każdego dnia!...”
 
-drawn by eight pair of white bulls; this car, two stories high, was
+Po kapłance wystąpił prorok i przy akompaniamencie arf mówił śpiewającym głosem:
 
-almost concealed under garlands, bouquets, ostrich plumes, and precious
+„Świat jest ciągłą zmianą i ciągłym odnawianiem. Mądry to układ losu, godne podziwu postanowienie Ozyrysa, że w miarę jak ciało z ubiegłych czasów ulega zniszczeniu i ginie, zostają po nim inne ciała...
 
-woven stuffs. It was surrounded by a dense cloud of smoke from censers,
+Faraonowie, ci bogowie, którzy byli przed nami, spoczywają w swych piramidach; mumie i sobowtóry ich zostały. Choć pałace, które zbudowali, nie znajdują się już na dawnych miejscach, nie ma ich wcale...
 
-which produced the impression that Ramses XII was appearing to his
+Nie rozpaczaj więc, ale oddaj się swoim żądzom i szczęściu, i nie zużywaj twego serca, aż przyjdzie dla ciebie dzień, kiedy błagać będziesz, a Ozyrys, bóg, którego serce już nie bije, nie zechce wysłuchać próśb i błagań...
 
-people in clouds like a divinity.
+Żale całego świata nie wrócą szczęścia człowiekowi, który leży w mogile; używaj więc dni szczęścia i nie bądź leniwym w radości. Zaprawdę, nie ma człowieka, który by mógł zabrać z sobą dobro swoje na tamten świat — zaprawdę nie ma człowieka, który by tam poszedł i wrócił!...”
 
-From the pylons of all Theban temples came thunder-like outbursts and
+Uczta skończyła się i dostojne zebranie, jeszcze raz okadziwszy posąg zmarłego, zabrało się z powrotem do Tebów. W świątyni grobowej zostali tylko kapłani, aby regularnie składać panu ofiary, tudzież straż pilnująca grobu przeciw świętokradzkim pokuszeniom złodziejów.
 
-with them loud and rapid sounds from the clashing of bronze disks.
-
-Though the avenue of sphinxes was free and wide, though the procession
-
-took place under the direction of Egyptian generals, and therefore with
-
-the greatest order, the procession spent three hours in passing those
-
-two kilometers between the palace and the edifices of Amon.
-
-Only when the mummy of Ramses XII was borne into the temple did Ramses
-
-XIII drive forth from the palace in a golden chariot drawn by a pair of
-
-splendid horses. The people standing along the avenue, who during the
-
-time of the procession had held themselves quietly, burst out at sight
-
-of the beloved sovereign into a shout so immense that the thunders and
-
-sounds from the summits of all the temples were lost in it.
-
-There was a moment when that mighty throng, borne away by excitement,
-
-would have rushed to the middle of the avenue and surrounded their
-
-sovereign. But Ramses, with one motion of his hand, restrained the
-
-living deluge and prevented the sacrilege.
-
-In the course of some minutes the pharaoh passed over the road and
-
-halted before the immense pylons of the noblest temple in Egypt.
-
-As Luxor was the quarter of palaces in the south, so Karnak was the
-
-quarter of divinities on the northern side of the city. The temple of
-
-Amon-Ra formed the main centre of Karnak.
-
-This building alone occupied two hectares of space, and the gardens and
-
-ponds around it about twenty. Before the temple stood two pylons forty
-
-meters high. The forecourt, surrounded by a corridor resting on
-
-columns, occupied nearly one hectare, the hall of columns in which were
-
-assembled the privileged classes was half a hectare in extent. This was
-
-not the edifice yet, but the approach to it.
-
-That hall, or hypostyle, was more than a hundred and fifty yards long
-
-and seventy-five yards in width, its ceiling rested on one hundred and
-
-thirty-four columns. Among these the twelve central ones were fifteen
-
-yards in circumference and from twenty to twenty-four meters high.
-
-The statues disposed in the temple near the pylons, and at the sacred
-
-lakes accorded in size with all other parts of Karnak.
-
-In the immense gate the worthy Herhor, the high priest of that temple,
-
-was waiting for Ramses. Surrounded by a whole staff of priests Herhor
-
-greeted the pharaoh almost haughtily, and while burning a censer before
-
-the sovereign he did not look at him. Then he conducted Ramses to the
-
-hypostyle and gave the order to admit deputations within the wall of
-
-the temple.
-
-In the midst of the hypostyle stood the boat with the mummy of the
-
-departed sovereign, and on both sides of it, two thrones of equal
-
-height stood opposed to each other. On one of these Ramses took his
-
-place surrounded by nomarchs and generals, on the other sat Herhor
-
-surrounded by the priesthood. Then the high priest Mefres gave Herhor
-
-the miter of Amenhotep and the young pharaoh for the second time beheld
-
-on the head of the high priest the golden serpent, the symbol of regal
-
-authority.
-
-Ramses grew pale from rage, and thought: "Shall I need to remove the
-
-ureus and thy head at the same time?"
-
-But he was silent, knowing that in that greatest of Egyptian temples
-
-Herhor was lord, the equal of the gods, and a potentate perhaps greater
-
-than the pharaoh.
-
-During this time when the people filled the court, behind the purple
-
-curtain dividing the rest of the temple from mortals were heard harps
-
-and low singing. Ramses looked at the hall. A whole forest of mighty
-
-columns covered from above to the bases with paintings, the mysterious
-
-lighting, the ceiling far up near the sky somewhere, produced on him an
-
-effect that was crushing.
-
-"What does it signify," thought he, "to win a battle at the Soda Lakes?
-
-To build an edifice like this is an exploit! But those priests built
-
-it."
-
-At that moment he felt the power of the priestly order. Could he, his
-
-army, or even the whole people overturn that temple? And if it would be
-
-difficult to deal with the edifice would it be easier to struggle with
-
-its builders? The voice of the high priest Mefres roused him from
-
-disagreeable meditations.
-
-"Holiness," said the old man; "Thou most worthy confidant of the gods"
-
-(here he bowed to Herhor); "ye nomarchs, scribes, warriors, and common
-
-people, the most worthy high priest of this temple, Herhor, invites you
-
-to judge, according to ancient custom, the earthly acts of the late
-
-pharaoh, and to acknowledge or deny to him burial."
-
-Anger rushed to the head of Ramses. "It was not enough that they
-
-insulted him in that place, but in addition they dare to discuss the
-
-deeds of his father, to decide as to his burial."
-
-But he calmed himself; that was only a formality, as ancient, in fact,
-
-as the Egyptian dynasties. It related not to judgment, but to praise of
-
-the departed.
-
-At a sign given by Herhor the high priests took their seats on stools.
-
-But neither the nomarchs nor the generals surrounding the throne of
-
-Ramses were seated; there were not even stools for them.
-
-The pharaoh fixed in his memory that insult also; 'but he had so
-
-mastered himself now that it was impossible to learn whether he noticed
-
-the disregard shown those near him.
-
-Meanwhile the holy Mefres dwelt on the life of the deceased pharaoh.
-
-"Ramses XII," said he, "did not commit any of the forty-two sins, hence
-
-the court of the gods pronounces a gracious verdict regarding him. And
-
-since, moreover, the royal mummy, thanks to the exceptional care of the
-
-priests, is provided with every amulet, prayer, direction, and spell,
-
-there is no doubt that the late pharaoh is now in the dwelling of the
-
-gods, sitting at the side of Osiris, and is himself Osiris.
-
-"During his earthly life the divine nature of Ramses XII was made
-
-manifest. He reigned more than thirty years. He gave the people
-
-profound peace and erected or finished many temples. Besides, he was
-
-himself a high priest and surpassed in piety the most pious. During his
-
-reign honor to the gods and elevation of the sacred priestly order held
-
-the chief position. Therefore he was beloved of the heavenly powers,
-
-and one of the Theban gods, Khonsu, at the prayer of the pharaoh, was
-
-pleased to go to the country of Buchten, and expel an evil spirit from
-
-the king's daughter."
-
-Mefres drew breath and continued,
-
-"When I have shown your worthinesses that Ramses XII was a god, will ye
-
-inquire with what object that higher being came down to the Egyptian
-
-land and spent some tens of years here?
-
-"He did so to reform the world, which, through decay of faith, is much
-
-corrupted. For who is occupied in devotion today, who thinks of obeying
-
-the will of the gods in our time?
-
-"In the distant north we see the great Assyrian people who believe only
-
-in the power of the sword, and who, instead of giving themselves to
-
-devotion and wisdom, are subjecting other nations. Nearer to us are
-
-Phoenicians, whose god is gold, and whose worship is mere fraud and
-
-usury. There are others also: the Hittites on the East, the Libyans on
-
-the west, the Ethiopians on the south, and the Greeks of the
-
-Mediterranean, those are barbarians and robbers. Instead of toiling
-
-they rob, instead of working wisdom they drink, play dice, or sleep
-
-like tired animals.
-
-"In the world there is only one really wise and pious people, the
-
-Egyptians; but see what is happening among us. Because of the influx of
-
-infidel foreigners, religion has fallen here also. Nobles and officials
-
-at their wine cups revile eternal life and the gods, while the people
-
-throw mud at sacred statues and make no offerings to temples.
-
-"Excess has taken the place of devotion, riot the place of wisdom. Each
-
-man wants to wear immense wigs, and anoint himself with rare perfumes;
-
-he would have tunics and aprons woven with gold, wear chains and
-
-bracelets set with jewels. A barley cake suffices him no longer: he
-
-wants wheaten bread with milk and honey; he washes his feet in beer and
-
-quenches his thirst with wine from foreign countries.
-
-"Because of this all nobles are in debt, the people are beaten and
-
-overloaded with labor; here and there rebellions break out. What do I
-
-say! here and there? During a certain time through the length and the
-
-breadth of Egypt, thanks to secret disturbances, we hear the shout:
-
-'Give us rest after every six days of labor! Do not beat us without
-
-judgment! Give each man of us a plot of land as his property!'
-
-"This is a declaration of ruin for Egypt, against which we must find
-
-rescue. The rescue is only in religion, which teaches that the people
-
-should labor. Holy men, as persons knowing the will of the gods, should
-
-indicate the labor, and it is the duty of the pharaoh and his officials
-
-to see that this labor is carried out actually.
-
-"Religion teaches all this; according to these principles Ramses XII,
-
-who was equal to the gods, governed Egypt. We high priests, knowing his
-
-devotion, will cut out the following inscription on his tomb and on the
-
-temples:
-
-"The bull Horus, the mighty Apes who united the crowns of the kingdom,
-
-the golden falcon wielding the saber, the conqueror of nine nations,
-
-the King of Upper and Lower Egypt, the ruler of two worlds, the son of
-
-the sun, Amen-Mer-Ramses, beloved of Amon-Ra, the lord and ruler of the
-
-Theban region, the son of Amon-Ra received as son by Horus, and
-
-begotten by Hormach, King of Egypt, ruler of Phoenicia, lord of nine
-
-nations." [Authentic tomb inscription. ]
-
-When this proposal was confirmed by a shout of those assembled, dancers
-
-ran out from behind the curtain and performed a sacred dance before the
-
-sarcophagus, and the priests burned incense. Then they took the mummy
-
-from the boat and bore it to the sanctuary of Amon into which Ramses
-
-XIII had not the right to enter.
-
-The service ended soon after and the assembly left the temple.
-
-While returning to the palace of Luxor the young pharaoh was so sunk in
-
-thought that he hardly saw the immense throng of people and did not
-
-hear the shouts which rose from it.
-
-"I cannot deceive my own heart," thought Ramses. "The high priests
-
-insult me; this has not happened to any pharaoh till my time; more,
-
-they point out to me the way in which I can gain their favor. They wish
-
-to manage the state, and I am to see that their commands are
-
-accomplished.
-
-"But it will be otherwise: I shall command and ye must accomplish.
-
-Either my royal foot will be planted on your necks or I shall perish."
-
-For two days the revered mummy of Ramses XII remained in the temple of
-
-Amon, in a place so sacred that even high priests might not enter, save
-
-only Herhor and Mefres. Before the deceased only one lamp was burning,
-
-the flame of which, nourished in a miraculous manner, was never
-
-extinguished. Over the deceased hung the symbol of the spirit, a man-
-
-headed falcon. Whether it was a machine, or really a living being, was
-
-known to no one. This is certain, that priests who had the courage to
-
-look behind the curtain stealthily saw that this being kept one place
-
-in the air unsupported while its lips and eyes continued moving.
-
-The continuation of the funeral began, and the golden boat carried the
-
-deceased to the other side of the river. But first it passed through
-
-the main street of Thebes surrounded by an immense retinue of priests,
-
-wailers, warriors, and people, amid incense, music, wailing and
-
-chanting. This was perhaps the most beautiful street in all Egypt. It
-
-was broad, smooth, lined with trees. Its houses, four and even five
-
-stories high, were covered from roof to foundation with mosaic or with
-
-bas-reliefs in colors. It looked as if those buildings had been hung
-
-with immense colored tapestry or hidden by colossal pictures
-
-representing the work and occupations of merchants, artisans, mariners,
-
-also distant lands and their people. In one word that was not a street,
-
-but a colossal gallery of pictures, barbarous as to the drawing, but
-
-brilliant in colors.
-
-The funeral procession advanced about two kilometers from the north to
-
-the south, keeping more or less the centre of the city, then it turned
-
-westward toward the river.
-
-In the middle of the river opposite this point was a large island
-
-connected by a bridge of boats with the city. To avoid accidents the
-
-generals in command reformed the procession; they put four people in a
-
-rank, ordered them to move very slowly and forbade them to keep step.
-
-With this object the different bands of music at the head of the
-
-multitude each played different music.
-
-After a couple of hours the procession passed the first bridge, next
-
-the island, then the second bridge, and was on the western bank of the
-
-river.
-
-If we might call the eastern part of Thebes the city of gods and kings,
-
-the western quarter was that of tombs and mortuary temples.
-
-The procession advanced from the Nile toward the Libyan hills by the
-
-middle road. South of this road, on an eminence, stood a temple,
-
-commemorating the victories of Ramses III, the walls of which are
-
-covered with pictures of conquered nations: Hittites, Amorites,
-
-Philistines, Ethiopians, Arabs, Libyans. A little lower down rose two
-
-colossal statues of Amenhotep II, the height of which, notwithstanding
-
-their sitting posture, was twenty meters. One of these statues was
-
-distinguished by the miraculous property that when struck by the rays
-
-of the rising sun it gave out sounds like those of a harp whenever
-
-chords snap in it.
-
-Still nearer the road, but always on the left, stood the Ramesseum, a
-
-beautiful though not very large temple which was built by Ramses II.
-
-The entrance to this edifice was guarded by statues with the royal
-
-insignia in their hands. In the forecourt towered the statue of Ramses
-
-II to the height of sixteen meters.
-
-The road rose gradually, and a very steep eminence became more and more
-
-visible; this was as full of holes as a sponge: those holes were the
-
-tombs of Egyptian officials. At the entrance to them, among steep
-
-cliffs stood the very strange temple of Queen Hatasu. This temple was
-
-four hundred and fifty yards long. From the forecourt, surrounded by a
-
-wall, there was an entrance by steps to the second court surrounded by
-
-columns; under this was a subterranean temple. From the court of
-
-columns the passage rose by steps again to a temple cut out in the
-
-cliff under which was another subterranean temple. In this way the
-
-temple was of two stories, each of which was divided into an upper and
-
-a lower part. The stairs were immense, without railing, but furnished
-
-with two rows of sphinxes; the entrance to each stairway was guarded by
-
-two sitting statues.
-
-At the temple of Hatasu began the gloomy ravine which led from the
-
-tombs of high dignitaries to those of the pharaohs. Between these two
-
-quarters was the tomb of the high priest Retemenof, the corridors and
-
-chambers of which occupied about one hectare of subterranean area.
-
-The road to the ravine was so steep that men had to help the draught
-
-bulls, and push the funeral boat forward. The procession moved, as it
-
-were, along a cornice cut into the cliff side; at last they halted on a
-
-broad platform some hundreds of feet above the ravine counting from the
-
-lower bed of it.
-
-Here was the door leading to the underground tomb which during his
-
-thirty years' reign the pharaoh had made for himself. This tomb was a
-
-whole palace with chambers for the pharaoh, for his family and
-
-servants, with a dining-room, bed-chamber and bath, with chapels
-
-consecrated to various gods, and finally with a well at the bottom of
-
-which was a small chamber where the mummy of the sovereign would rest
-
-for the ages.
-
-By the light of brilliant torches the walls of all the rooms appeared
-
-covered with prayers, and also with pictures which represented every
-
-occupation and amusement of the departed: hunting, the building of
-
-temples, the cutting of canals, triumphal entries, solemnities in honor
-
-of the gods, battles of troops with their enemies, the labors of
-
-people.
-
-And those were not sufficient: the chambers were not only fitted with
-
-furniture, vessels, chariots, weapons, flowers, meat, bread, and wine,
-
-but they were furnished also with a multitude of statues. There were
-
-various portraits of Ramses XII, his priests, ministers, women,
-
-warriors, and slaves; for the sovereign could not dispense in the other
-
-world any more than in this with costly vessels, exquisite food and
-
-faithful servants.
-
-When the funeral car halted at the entrance the priests drew forth from
-
-its sarcophagus the mummy of the pharaoh, and placed it on the earth
-
-resting against the cliff with its shoulder. Then Ramses XIII burned
-
-incense before the remains of his father, while Queen Niort's embraced
-
-the mummy by the neck, and said with weeping,
-
-"I am thy sister, Niort's, thy wife; do not desert me, Thou great one!
-
-Dost Thou desire really, my good father, that I should go? But if I go
-
-Thou wilt be alone, and will any one be with thee?"
-
-Now the high priest Herhor burned incense before the mummy, and Mefres
-
-poured out wine, saying,
-
-"To thy second self we offer this, O Osiris-Mer-Amen-Ramses, sovereign
-
-of Upper and Lower Egypt, whose voice in the presence of the great god
-
-is truthful."
-
-Then the wailers and the chorus of priests were heard:
-
-Chorus I. "Complain, complain, weep, weep, weep, without ceasing, as
-
-loudly as ever ye are able."
-
-Wailers. "O worthy traveler, who turnest thy steps to the land of
-
-eternity, how quickly they are tearing thee from us."
-
-Chorus II. "How beautiful is that which is happening to him! Since
-
-Khonsu of Thebes was loved by him greatly, the god has permitted the
-
-sovereign to reach that west, the world of the generations of his
-
-servants."
-
-Wailers. "O Thou who hast been attended by so many servitors, Thou art
-
-now in the laud ruled by loneliness. Thou who hadst splendid robes and
-
-didst love spotless linen art lying now in the garments of yesterday!"
-
-Chorus I. "In peace, in peace, to the West, O our lord, go Thou in
-
-peace. We shall see thee again when the day of eternity conies, for
-
-Thou art going to the land which brings all men together." [Authentic]
-
-The final ceremony began.
-
-They brought a bull and an antelope which it was the duty of Ramses
-
-XIII to slay, but they were slain by his substitute before the gods,
-
-Sem, the high priest. The inferior priests dressed the beasts quickly,
-
-after which Herhor and Mefres, taking the hind legs, placed them in
-
-turn at the mouth of the mummy. But the mummy had no wish to eat, for
-
-it was not brought to life yet, and its lips were closed.
-
-To remove that obstacle Mefres washed it with holy water and incensed
-
-it with perfumes and alum, saying,
-
-"Here stands thy father; here stands Osiris-Mer-Amen-Ramses. I am thy
-
-son; I am Horns; I come to purify thee and make thee alive. I put thy
-
-bones again in order; I join that which was severed, for I am Horus,
-
-the avenger of my father. Thou wilt sit on the throne of Ra who
-
-proceeds from Nut, who gives birth to Re every morning, who gives birth
-
-to Mer-Amen-Ramses daily, just as Re."
-
-Thus speaking, the high priest touched with amulets the mouth, the
-
-breasts, the hands, and the feet of the mummy.
-
-Now the choruses were heard again,
-
-Chorus I. "Henceforth Osiris-Mer-Amen-Ramses will eat and drink all
-
-things which the gods eat and drink. He will sit in their place, like
-
-them; he is healthy and powerful."
-
-Chorus II. "He has power in every limb; it is hateful to him to be
-
-hungry and unable to eat, thirsty and unable to drink."
-
-Chorus I. "O gods, give to Osiris-Mer-Amen-Ramses thousands of
-
-thousands of pitchers of wine, thousands of garments, thousands of
-
-loaves and of bullocks!"
-
-Chorus II. "O ye who are living on the earth, when ye pass this way, if
-
-life be dear to you and death be repulsive, if ye desire that your
-
-dignities pass to your descendants, repeat this prayer for the heaven-
-
-dweller who is placed here."
-
-Mefres. "O ye great ones, ye prophets, ye princes, scribes, and
-
-pharaohs, O ye other people who are to come a million years after me,
-
-if any of you put his name on the place of my name the god will punish
-
-him by destroying his person on earth!" [Authentic]
-
-After this curse the priests lighted the torches, took the royal mummy,
-
-placed it again in its casket, and the casket in the stone sarcophagus
-
-which had the human form in its general outlines. Then, in spite of the
-
-shrieks, the despair, and the resistance of wailers, they bore that
-
-immense weight toward the tomb chamber.
-
-After they had passed by the light of torches through a number of
-
-corridors and chambers they halted in that one where the well was. They
-
-lowered the sarcophagus in that opening, went down themselves, and put
-
-away the sarcophagus in a lower subterranean space, then walled up the
-
-passage to this space quickly and in such a manner that the most
-
-trained eye could not have discovered it; then they went up and closed
-
-the entrance to the well with equal effectiveness.
-
-The priests did all this without witnesses; and they did the work so
-
-accurately that the mummy of Ramses XII remains to this day in its
-
-secret abode, as safe from thieves as from modern curiosity. During
-
-twenty-nine centuries many tombs of pharaohs have been ravaged, but
-
-that one is inviolate.
-
-While some priests were hiding the remains of the pious pharaoh, others
-
-illuminated the underground chambers and invited the living to a feast
-
-in that dwelling.
-
-Ramses XIII, Queen Niort's, and Sem, with some civil and military
-
-dignitaries entered the dining-hall. In the middle of the chamber stood
-
-a table covered with food, wine, and flowers, and at the wall sat a
-
-statue of the late sovereign carved out of porphyry. He seemed to gaze
-
-at those present, smile pensively, and beg them to eat in his presence.
-
-The feast began with a sacred dance, which was accompanied by a hymn
-
-sung by one of the highest priestesses.
-
-"Enjoy days of happiness, for life lasts but one instant. Enjoy
-
-happiness, for when ye enter the tomb ye will rest there the whole
-
-length of each day during ages."
-
-After the priestess came a prophet, and to the accompaniment of harps
-
-he chanted,
-
-"The world is endless change and endless renewal. That arrangement of
-
-fate is wise; the decision of Osiris deserves admiration; for as a body
-
-which belongs to past time decays and perishes, other bodies rise
-
-behind it.
-
-"The pharaohs, those gods who were before us, rest in their pyramids;
-
-their mummies and their second selves remain, though the palaces which
-
-they built are no longer on their sites, and no longer in existence.
-
-"Despair not, but give thyself to thy desires and thy happiness, and
-
-wear not thy heart out till for thee the day comes when Thou wilt
-
-implore, while Osiris, the god whose heart beats no longer, will not
-
-hear thy petitions.
-
-"The mourning of a world will not restore happiness to a man who is
-
-lying in the tomb; use, then, thy days of happiness and in delight be
-
-no laggard. There is no man, indeed, who can take his goods to the
-
-other world with him; there is none who can go to that world and come
-
-back to this one." [Authentic]
-
-The feast ended; the worthy assembly incensed the statue of the
-
-deceased once again and made ready to return to Thebes. In the mortuary
-
-temple only priests remained to make regular offerings to the deceased
-
-and a guard watching the tomb against sacrilegious attempts of robbers.
-
-Thenceforth Ramses XII was alone in that mysterious chamber. Through a
-
-small secret opening in the rock a gloomy light barely broke in to him;
-
-instead of the rustle of ostrich plumes was the rustle of enormous bat
-
-wings; instead of music was heard, during night hours, complaining
-
-howls of hyenas, and at times the mighty voice of a lion, which greeted
-
-from the desert the pharaoh in his resting-place.
+Odtąd Ramzes XII został sam w swej tajemnej komnacie. Przez małe a ukryte w skale okienko ledwie wdzierał się mrok. Zamiast piór strusich nad panem szeleściły skrzydła ogromnych nietoperzy; zamiast muzyki rozlegały się w nocnej porze jękliwe wycia hien i kiedy niekiedy potężny głos lwa, który ze swej pustyni pozdrawiał faraona w grobie.

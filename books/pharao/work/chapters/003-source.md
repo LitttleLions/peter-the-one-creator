@@ -1,425 +1,180 @@
-# Kapitel 3: CHAPTER III
+# Kapitel 003: Tom I - Rozdział III
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part7.xhtml*
 
 <!-- status: pending -->
 
-Panting with anger, Prince Ramses rushed up the hill, while behind him
+Dyszący gniewem książę Ramzes wdzierał się na pagórek, a za nim Tutmozis. Elegantowi przekręciła się peruka, sztuczna bródka odpadła, więc niósł ją w rękach. Pomimo zmęczenia byłby blady na twarzy, gdyby nie warstwa różu.
 
-followed Tutmosis. The wig of the exquisite had turned on his head, his
+Wreszcie książę zatrzymał się na szczycie. Od wąwozu dolatywał ich zgiełk żołnierstwa i łoskot toczących się balist; przed nimi rozciągał się ogromny płat ziemi Gosen, wciąż kąpiącej się w blaskach słońca. Zdawało się, że to nie ziemia, ale złoty obłok, na którym marzenie wymalowało krajobraz farbami ze szmaragdów, srebra, rubinów, pereł i topazów.
 
-false beard had slipped down, and he carried it in his hand. In spite
+Następca wyciągnął rękę.
 
-of exertion he would have been pale had it not been for the layers of
+— Patrz — zawołał do Tutmozisa — tam ma być moja ziemia, a tu moje wojsko... I otóż tam — najwyższymi budowlami są pałace kapłanów, a tu — najwyższym dowódcą wojsk jest kapłan!... Czy można cierpieć coś podobnego?...
 
-rouge on his face.
+— Tak zawsze było — odparł Tutmozis, lękliwie oglądając się dokoła.
 
-At last Ramses halted at the summit. From the ravine came the outcry of
+— To fałsz! Znam przecież dzieje tego kraju zasłonięte przed wami. Dowódcami wojsk i panami urzędników byli tylko faraonowie, a przynajmniej energiczniejsi spośród nich. Tym władcom nie schodziły dnie na ofiarach i modlitwach, lecz na rządzeniu państwem...
 
-warriors and the rattle of the onrolling balistas; before the two men
+— Jeżeli jest taka wola jego świątobliwości... — wtrącił Tutmozis.
 
-stretched the immense plain of Goshen, bathed continually in sun-rays.
+— Nie jest wolą mojego ojca, ażeby nomarchowie rządzili samowolnie w swoich stolicach, a etiopski namiestnik prawie uważał się za równego królowi królów. I nie może być wolą mego ojca, ażeby jego armia obchodziła dwa złote żuki, dlatego że ministrem wojny jest kapłan.
 
-That did not seem land, but a golden cloud, on which the mind painted a
+— Wielki to wojownik!... — szepnął coraz bardziej wylękniony Tutmozis.
 
-landscape in colors of silver, ruby, pearl, and topaz.
+— Jaki on tam wojownik!... Że pobił garstkę zbójców libijskich, którzy powinni uciekać na sam widok kaftanów egipskich żołnierzy? Ale zobacz, co robią nasi sąsiedzi. Izrael zwłóczy ze składaniem haraczu i płaci coraz mniej. Chytry Fenicjanin co roku wycofuje po kilka okrętów z naszej floty. Przeciw Hetytom musimy na wschodzie trzymać wielką armię, a koło Babilonu
 
-"Look," cried the heir to Tutmosis, stretching out his hand, "those are
+I jakiż jest ostateczny skutek rządów kapłańskich? Ten, że kiedy jeszcze mój pradziad miał sto tysięcy talentów rocznego dochodu i sto sześćdziesiąt tysięcy wojska, mój ojciec ma ledwie pięćdziesiąt tysięcy talentów i sto dwadzieścia tysięcy wojska... A co to za wojsko!... Gdyby nie korpus grecki, który trzyma ich w porządku jak brytan owce, już dziś egipscy żołnierze słuchaliby tylko kapłanów, a faraon spadłby do poziomu nędznego nomarchy.
 
-to be my lands, and here is my army. Over there the loftiest edifices
+— Skąd ty to wiesz?... Skąd takie myśli?... — dziwił się Tutmozis.
 
-are palaces of priests, and here the supreme chief of the troops is a
+— Alboż nie pochodzę z rodu kapłanów?! Przecież uczyli mnie, gdym jeszcze nie był następcą tronu. O, gdy zostanę faraonem po moim ojcu, który oby żył wiecznie, położę im na karkach nogę obutą w spiżowy sandał... A najpierwej sięgnę do ich skarbnic, które zawsze były przesycone, ale od czasów Ramzesa Wielkiego zaczęły puchnąć i dzisiaj są tak wydęte złotem, że spoza nich nie widać skarbu faraona.
 
-priest! Can anything like this be suffered?"
+— Biada mnie i tobie! — westchnął Tutmozis. — Masz zamysły, pod którymi ugiąłby się ten pagórek, gdyby słyszał i rozumiał. A gdzie twoje siły... pomocnicy... żołnierze?... Przeciw tobie stanie cały naród, prowadzony przez potężną klasę... A kto za tobą?
 
-"It has always been so," replied Tutmosis, glancing around with
+Książę słuchał i zamyślił się. Wreszcie odparł:
 
-timidity.
+— Wojsko...
 
-"That is not true! I know the history of this country, which is hidden
+— Znaczna część jego pójdzie za kapłanami.
 
-to thee. The leaders of armies and the masters of officials were the
+— Korpus grecki...
 
-pharaohs alone, or at least the most energetic among them. Those rulers
+— Beczka wody w Nilu.
 
-did not pass their days in making offerings and prayers, but in
+— Urzędnicy...
 
-managing the state."
+— W połowie należą do nich.
 
-"If it is the desire of his holiness to pass his days that way?" said
+Ramzes smutnie potrząsnął głową i umilkł.
 
-Tutmosis.
+Ze szczytu nagim i kamienistym spadkiem zeszli na drugą stronę wzgórza. Wtem Tutmozis, który wysunął się trochę naprzód, zawołał:
 
-"It is not my father's wish that nomarchs should govern as they please
+— Czy urok padł na moje oczy?... Spojrzyj, Ramzesie!... Ależ między tymi skałami kryje się drugi Egipt...
 
-in the capitals of provinces. Why, the governor of Ethiopia considered
+— Musi to być jakiś folwark kapłański, który nie opłaca podatków — z goryczą odpowiedział książę.
 
-himself as almost equal to the king of kings. And it cannot be my
+U ich stóp, w głębi, leżała żyzna dolina mająca formę wideł, których rogi kryły się między skałami. W jednym rogu widać było kilka chat dla służby i ładny domek właściciela czy rządcy. Rosły tu palmy, wino, oliwki, drzewa figowe z powietrznymi korzeniami, cyprysy, nawet młode baobaby. Środkiem płynęła struga wody, zaś na stokach wzgórz, co kilkaset kroków, widać było nieduże sadzawki.
 
-father's wish that his army should inarch around two golden beetles
+Zeszedłszy między winnice, pełne dojrzałych gron, usłyszeli kobiecy głos, który wołał, a raczej śpiewał na tęskną nutę:
 
-because the minister of war is a high priest."
+— Gdzie jesteś, kureczko moja, odezwij się, gdzie jesteś, ulubiona?... Uciekłaś ode mnie, choć sama poję cię i karmię czystym ziarnem, aż wzdychają niewolnicy... Gdzież jesteś, odezwij się!... Pamiętaj, że cię noc zaskoczy i nie trafisz do domu, w którym wszyscy ci usługują; albo przyleci z pustyni rudy jastrząb i poszarpie ci serce. Wtedy na próżno będziesz wołała twojej pani, jak teraz ja ciebie... Odezwijże się, bo rozgniewam się i odejdę, a ty będziesz musiała wracać za mną piechotą...
 
-"He is a great warrior," whispered Tutmosis, with increasing timidity.
+Śpiew zbliżał się w stronę podróżnych. Już śpiewaczka była od nich o kilka kroków, gdy Tutmozis wsunąwszy głowę między krzaki zawołał:
 
-"He a great warrior? Because he dispersed a handful of Libyan robbers
+— Spojrzyj no, Ramzesie, ależ to prześliczna dziewczyna!...
 
-ready to flee at the mere sight of Egyptians. But see what our
+Książę, zamiast patrzeć, wpadł na ścieżkę i zabiegł drogę śpiewającej. Było to istotnie piękne dziewczę z greckimi rysami twarzy i cerą słoniowej kości. Spod welonu na głowie wyglądały ogromne, czarne włosy, skręcone w węzeł. Miała na sobie białą szatę powłóczystą, którą z jednej strony unosiła ręką; pod przejrzystą zasłoną widać było dziewicze piersi, z kształtu podobne do jabłek.
 
-neighbors are doing. Israel delays in paying tribute and pays less and
+— Kto ty jesteś, dziewczyno? — zawołał Ramzes. Z czoła zniknęły mu groźne bruzdy, oczy zaiskrzyły się.
 
-less of it. The cunning Phoenician steals a number of ships from our
+— O Jehowo!... ojcze!... — krzyknęła przerażona, bez ruchu zatrzymując się na ścieżce. Powoli jednak uspokoiła się, a jej aksamitne oczy przybrały zwykły wyraz łagodnego smutku.
 
-fleet every year. On the east we are forced to keep up a great army
+— Skądeś się tu wziął?... — zapytała Ramzesa trochę drżącym głosem. — Widzę, że jesteś żołnierz, a tu żołnierzom wchodzić nie wolno.
 
-against the Hittites, while around Babylon and Nineveh there is such a
+— Dlaczego nie wolno?
 
-movement that it is felt throughout all Mesopotamia.
+— Bo to jest ziemia wielkiego pana, Sezofrisa...
 
-"And what is the outcome of priestly management? This, that while my
+— Ho! ho!... — uśmiechnął się Ramzes.
 
-great-grandfather had a hundred thousand talents of yearly income and
+— Nie śmiej się, bo wnet zbledniesz. Pan Sezofris jest pisarzem pana Chairesa, który nosi wachlarz nad najdostojniejszym nomarchą Memfisu... A mój ojciec widział go i padał przed nim na twarz.
 
-one hundred and sixty thousand troops, my father has barely fifty
+— Ho! ho! ho!... — powtarzał, wciąż śmiejąc się, Ramzes.
 
-thousand talents and one hundred and twenty thousand troops.
+— Słowa twoje są bardzo zuchwałe — rzekła, marszcząc się, dziewczyna. — Gdyby z twarzy nie patrzyła ci dobroć, myślałabym, że jesteś greckim najemnikiem albo bandytą.
 
-"And what an army! Were it not for the Greek corps, which keeps them in
+— Jeszcze nim nie jest, ale kiedyś może zostać największym bandytą, jakiego ta ziemia nosiła — wtrącił elegancki Tutmozis, poprawiając swoją perukę.
 
-order as a dog watches sheep, the Egyptian soldiers today would obey
+— A ty musisz być tancerzem — odparła już ośmielona dziewczyna. — O!... jestem nawet pewna, że widziałam cię na jarmarku w Pi-Bailos, jak zaklinałeś węże...
 
-only priests and the pharaoh would sink to the level of a miserable
+Obaj młodzi ludzie wpadli w doskonały humor.
 
-nomarch."
+— A któż ty jesteś? — zapytał dziewczyny Ramzes, biorąc ją za rękę, którą cofnęła.
 
-"Whence hast Thou learned this?" asked Tutmosis, with astonishment.
+— Nie bądź taki śmiały. Jestem Sara, córka Gedeona, rządcy tego folwarku.
 
-"Am I not of a priestly family? And besides, they taught me when I was
+— Żydówka?... — rzekł Ramzes i cień przesunął mu się po twarzy.
 
-not heir to the throne. Oh, when I become pharaoh after my father, may
+— Cóż to szkodzi... co to szkodzi!... — zawołał Tutmozis. — Czy myślisz, że Żydówki są mniej słodkie od Egipcjanek?... Są tylko skromniejsze i trudniejsze, co ich miłości nadaje wdzięk nadzwyczajny.
 
-he live through eternity! I will put my bronze-sandaled foot on their
+— Więc jesteście poganami — rzekła Sara z godnością. — Odpocznijcie, jeżeliście zmęczeni, narwijcie sobie winogron i odejdźcie z Bogiem. Nasza służba nierada takim gościom.
 
-necks. But first of all I will seize their treasures, which have always
+Chciała odejść, lecz Ramzes ją zatrzymał.
 
-been bloated, but which from the time of Ramses the Great have begun to
+— Stój... Podobałaś mi się i nie możesz tak nas opuszczać.
 
-swell out, and today are so swollen that the treasure of the pharaoh is
+— Zły duch cię opętał. Nikt w tej dolinie nie śmiałby przemawiać w taki sposób do mnie... — oburzyła się Sara.
 
-invisible because of them."
+— Bo widzisz — wtrącił Tutmozis — ten młodzik jest oficerem kapłańskiego pułku Ptah i pisarzem u pisarza takiego pana, który nosi wachlarz nad noszącym wachlarz za nomarchą Habu
 
-"Woe to me and to thee!" sighed Tutmosis. "Thou hast plans under which
+— Pewnie, że musi być oficerem — odparła Sara, w zamyśleniu patrząc na Ramzesa. — Może nawet sam jest wielkim panem?... — dodała, kładąc palec na ustach.
 
-this hill would bend could it hear and understand them. And where are
+— Czymkolwiek jestem, twoja piękność przewyższa moje dostojeństwo — odparł Ramzes namiętnie. — Powiedz — rzekł nagle — czy prawda, że wy... jadacie wieprzowinę?...
 
-thy forces, thy assistance, thy warriors? Against thee the whole people
+Sara spojrzała na niego obrażona, a Tutmozis wtrącił:
 
-will rise, led by a class of men with mighty influence. But who is on
+— Jak to widać, że nie znasz Żydówek!... Dowiedz się zatem, że Żyd wolałby umrzeć aniżeli jeść świńskie mięso, którego ja wreszcie nie uważam za najgorsze...
 
-thy rider?"
+— Ale koty zabijacie? — nalegał Ramzes, ściskając ręce Sarze i patrząc jej w oczy.
 
-Ramses listened and fell to thinking. At last he said,
+— I to bajka... podła bajka!... — zawołał Tutmozis. — Mogłeś mnie zapytać o te rzeczy, zamiast gadać brednie... Miałem przecie trzy Żydówki kochankami...
 
-"The army."
+— Dotychczas mówiłeś prawdę, ale teraz kłamiesz — odezwała się Sara. — Żydówka nie będzie niczyją kochanką! — dodała dumnie.
 
-"A considerable part of it will follow the priests."
+— Nawet kochanką pisarza u takiego pana, który nosi wachlarz nad nomarchą memfijskim?... — zapytał drwiącym tonem Tutmozis.
 
-"The Greek corps."
+— Nawet...
 
-"A barrel of water in the Nile."
+— Nawet kochanką tego pana, który nosi wachlarz?...
 
-"The officials."
+Sara zawahała się, lecz odparła:
 
-"Half of them belong to the priests."
+— Nawet.
 
-The prince shook his head sadly, and was silent.
+— Więc może nie zostałaby kochanką nomarchy?...
 
-From the summit they went down by a naked and stony slope to the
+Dziewczynie opadły ręce. Ze zdziwieniem spoglądała kolejno na obu młodych ludzi; usta jej drżały, a oczy zachodziły łzami.
 
-opposite base of the hill. Then Tutmosis, who had pushed ahead
+— Kto wy jesteście?... — pytała zatrwożona. — Zeszliście tu z gór, jak podróżni, którzy chcą wody i chleba... Ale mówicie do mnie jak najwięksi panowie... Coście wy za jedni?... Twój miecz — zwróciła się do Ramzesa — jest wysadzany szmaragdami, a na szyi masz łańcuch takiej roboty, jakiego w swoim skarbcu nie posiada nasz pan, miłościwy Sezofris...
 
-somewhat, cried,
+— Odpowiedz mi lepiej, czy ci się podobam?... — spytał z naleganiem Ramzes, ściskając jej rękę i tkliwie patrząc w oczy.
 
-"Has a charm fallen on my eyes? Look, Ramses! Why, a second Egypt is
+— Jesteś piękny jak anioł Gabriel, ale ja boję się ciebie, bo nie wiem, kto ty jesteś...
 
-concealed between these cliffs!"
+Wtem, spoza gór, odezwał się dźwięk trąbki.
 
-"That must be an estate of some priest who pays no taxes," replied the
+— Wzywają cię — zawołał Tutmozis.
 
-prince, bitterly.
+— A gdybym ja był taki wielki pan jak wasz Sezofris?... — pytał książę.
 
-In the depth before their feet lay a rich valley in the form of a fork
+— Ty możesz być... — szepnęła Sara.
 
-the tines of which were hidden between cliffs. At the juncture of the
+— A gdybym ja nosił wachlarz nad nomarchą Memfisu?...
 
-tines a number of servants' huts were visible, and the beautiful little
+— Ty możesz być nawet i tak wielkim...
 
-villa of the owner or manager. Palmtrees grew there, grapes, olives,
+Gdzieś na wzgórzu odezwała się druga trąbka.
 
-figs with aerial roots, cypresses, even young baobabs. In the centre
+— Idźmy, Ramzesie!... — nalegał zatrwożony Tutmozis.
 
-flowed a rivulet, and at the source of it, some hundreds of yards
+— A gdybym ja był... następcą tronu, czy poszłabyś do mnie, dziewczyno?... — pytał książę.
 
-higher up, small gardens were visible.
+— O Jehowo!... — krzyknęła Sara, upadając na kolana.
 
-When they had gone down among grapevines covered with ripe clusters,
+Teraz w rozmaitych punktach grały trąbki gwałtowną pobudkę.
 
-they heard a woman's voice which called, or rather sang in pensive
+— Biegnijmy!... — wołał zdesperowany Tutmozis — Czy nie słyszysz, że w obozie alarm?...
 
-notes:
+Następca tronu prędko zdjął łańcuch ze swej szyi i zarzucił go na Sarę.
 
-"Where art Thou gone from me, where art thou, hen of mine? Thou hast
+— Oddaj to ojcu — mówił — kupuję cię od niego. Bądź zdrowa...
 
-fled, Thou art gone from me. I give thee drink and clean grain; what I
+Namiętnie pocałował ją w usta, a ona objęła go za nogi. Wyrwał się, odbiegł parę kroków, znowu wrócił i znowu piękną jej twarz i krucze włosy pieścił pocałunkami, jakby nie słysząc niecierpliwych odgłosów armii.
 
-give is so good that slaves envy thee. Where art Thou gone, my hen wilt
+— W imieniu jego świątobliwości faraona wzywam cię — idź ze mną!... — krzyknął Tutmozis i schwycił księcia za rękę.
 
-Thou not answer me? Night will come down on thee, think of that; Thou
+Zaczęli biec pędem w stronę głosu trąbek. Ramzes chwilami zataczał się jak pijany i odwracał głowę. Wreszcie zaczęli wdrapywać się na przeciwległy pagórek.
 
-wilt not reach thy home, where all are at work for thee. Come; if Thou
-
-come not, a falcon will fly from the desert and tear the heart out of
-
-thee. If he come Thou wilt call in vain, as I now call in vain to thee.
-
-Give answer, or I shall be angry and leave this place. If I leave Thou
-
-'It go home on thy own feet."
-
-The song came toward the two men. The songstress was a few yards from
-
-them when Tutmosis thrust, his head from between the bushes, and said,
-
-"Just look, Ramses, but that is a beautiful maiden!"
-
-Instead of looking, the prince sprang into the path and stopped the
-
-road before the songstress. She was really a beautiful maiden, with
-
-Grecian features and a complexion like ivory.
-
-From under the veil on her head peeped forth an immense mass of dark
-
-hair, wound in a knot. She wore a white trailing robe which she held on
-
-one side with her hand; under the transparent covering were maiden
-
-breasts shaped like apples.
-
-"Who art thou?" cried Ramses.
-
-The threatening furrows vanished from his forehead and his eyes
-
-flashed.
-
-"O Jehovah! O Father!" cried she, frightened, halting motionless on the
-
-path.
-
-But she grew calm by degrees, and her velvety eyes resumed their
-
-expression of mild sadness.
-
-"Whence hast Thou come?" inquired she of Ramses, with a voice trembling
-
-a little. "I see that Thou art a soldier, but it is not permitted
-
-soldiers to come here."
-
-"Why is it not permitted?"
-
-"Because this is the land of a great lord named Sesofris."
-
-"Ho! ho!" laughed Ramses.
-
-"Laugh not, for Thou wilt grow pale soon. The lord Sesofris is
-
-secretary to the lord Chaires, who carries his fan for the most worthy
-
-nomarch of Memphis. My father has seen him and fallen on his face
-
-before him."
-
-"Ho! ho! ho!" repeated Ramses, laughing continually.
-
-"Thy words are very insolent," said the maiden, frowning. "Were
-
-kindness not looking from thy face, I should think thee a mercenary
-
-from Greece or a bandit."
-
-"He is not a bandit yet, but some day he may become the greatest bandit
-
-this laud has ever suffered," said Tutmosis the exquisite, arranging
-
-his wig,
-
-"And Thou must be a dancer," answered the girl, grown courageous. "Oh!
-
-I am even certain that I saw thee at the fair in Pi-Bailos, enchanting
-
-serpents."
-
-The two young men fell into perfect humor.
-
-"But who art thou?" asked Ramses of the girl, taking her hand, which
-
-she drew back.
-
-"Be not so bold. I am Sarah, the daughter of Gideon, the manager of
-
-this estate."
-
-"A Jewess," said Ramses; and a shadow passed over his face.
-
-"What harm in that? what harm in that?" cried Tutmosis.
-
-"Dost think that Jewesses are less sweet than Egyptian girls? They are
-
-only more modest and more difficult, which gives their love an uncommon
-
-charm."
-
-"So ye are pagans," said Sarah, with dignity. "Rest, if ye are tired,
-
-pluck some grapes for yourselves, and go with God. Our servants are not
-
-glad to see guests like you."
-
-She wished to go, but Ramses detained her.
-
-"Stop! Thou hast pleased me, and may not leave us in this way."
-
-"The evil spirit has seized thee; no one in this valley would dare to
-
-speak thus to me," said Sarah, now indignant.
-
-"Yes; for, seest thou," interrupted Tutmosis, "this young man is an
-
-officer of the priestly regiment of Ptah, and a secretary of the
-
-secretary of a lord who carries his fan over the fan-carrier of the
-
-nomarch of Habu."
-
-"Surely he must be an officer," answered Sarah, looking with
-
-thoughtfulness at Ramses. "Maybe he is a great lord himself?" added
-
-she, putting her finger on her lips.
-
-"Whoever I am, thy beauty surpasses my dignity," answered he, suddenly.
-
-"But tell me, is it true that the Jews eat pork?"
-
-Sarah looked at him offended; and Tutmosis added,
-
-"How evident it is that Thou knowest not Jewesses! I tell thee that a
-
-Jew would rather die than eat pork, which, for my part, I do not
-
-consider as the worst."
-
-"But do they eat cats?" insisted Ramses, pressing Sarah's hand and
-
-looking into her eyes.
-
-"And that is a fable, a vile fable!" exclaimed Tutmosis. "Thou mightst
-
-have asked me about those things instead of talking nonsense. I have
-
-had three Jewish mistresses."
-
-"So far Thou hast told the truth, but now Thou art lying," called out
-
-Sarah. "A Jewess would not be any man's mistress," added she, proudly.
-
-"Even the mistress of the secretary of a lord who carries the fan for
-
-the nomarch of Memphis?" asked Tutmosis, jeeringly.
-
-"Even."
-
-"Even the mistress of the lord who carries the fan?"
-
-Sarah hesitated, but answered,
-
-"Even."
-
-"Then perhaps she would not become the mistress of the nomarch?"
-
-The girl's hands dropped. With astonishment she looked in turn at the
-
-young men; her lips quivered, and her eyes filled with tears.
-
-"Who are ye?" inquired she, alarmed. "Ye have come down from the hills,
-
-like travelers who wish bread and water, but ye speak to me as might
-
-the greatest lords. Who are ye? Thy sword," said she, turning to
-
-Ramses, "is set with emeralds, and on thy neck is a chain of such work
-
-as even our lord, the great Sesofris, has not in his treasury."
-
-"Better tell me if I please thee," insisted Ramses, pressing her hand
-
-and looking into her eyes tenderly.
-
-"Thou art beautiful, as beautiful as the angel Gabriel; but I fear
-
-thee, for I know not who Thou art."
-
-Then from beyond the hilltop was heard the sound of a trumpet.
-
-"They are calling thee!" cried Tutmosis.
-
-"And if I were as great a lord as thy Sesofris?" asked Ramses.
-
-"Then maybe" answered Sarah.
-
-"And if I carried the fan of the nomarch of Memphis?"
-
-"Thou mayest be even as great as that."
-
-Somewhere beyond the hill was heard the second trumpet.
-
-"Come, Ramses!" insisted the frightened Tutmosis.
-
-"But if I were heir to the throne, wouldst Thou come to me?" cried the
-
-prince.
-
-"O Jehovah!" exclaimed Sarah, dropping on her knees.
-
-From various points trumpets summoned, now urgently.
-
-"Let us run!" cried Tutmosis, in desperation. "Dost Thou not hear the
-
-alarm in the camp?"
-
-Ramses took the chain from his neck quickly and threw it on Sarah.
-
-"Give this to thy father. I will buy thee from him. Be in health."
-
-He kissed her lips passionately, and she embraced-his knees. He tore
-
-away, ran a couple of paces, turned again, and again fondled her
-
-beautiful face and dark hair with kisses, as if he heard not those
-
-impatient calls to the army.
-
-"In the name of his holiness the pharaoh, I summon thee, follow me!"
-
-cried Tutmosis; and he seized the prince's hand.
-
-They ran toward the trumpet-calls. Ramses tottered at moments like a
-
-drunken man, and turned his head. At last they were climbing the
-
-opposite hill.
-
-"And this man," thought Tutmosis, "wants to battle with the
-
-priesthood!"
+„I ten człowiek — myślał Tutmozis — chce walczyć z kapłanami!...”

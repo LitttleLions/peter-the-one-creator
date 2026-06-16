@@ -30,7 +30,7 @@ books/<book-id>/
   styles/                   # editierbare Style-Profile fuer dieses Buch
   work/
     chapters/               # NNN-source.md
-    scenes/ru/NNN/          # RU-Szenen
+    scenes/<source_lang>/NNN/ # Quell-Szenen, z. B. ru oder en
     scenes/de/<style>/NNN/  # DE-Szenen je Style
     assembled/<style>/      # zusammengesetzte Kapitelversionen
     prompts/                # prompt_file/workspace_ai-Ausgaben
@@ -64,6 +64,10 @@ Globale Ordner:
 - **Playwright Chromium:** Wird fuer den PDF-Export benoetigt.
   Installation nach `pip install -r requirements.txt`:
   `python -m playwright install chromium`
+- **Higgsfield CLI:** Wird fuer Kapitel-/Szenenbilder benoetigt.
+  Installation: `npm install -g @higgsfield/cli`; Auth mit
+  `higgsfield auth login`. Details und Moodboard-Discovery stehen in
+  `docs/higgsfield-integration.md`.
 - **`.env`-Datei:** Kopiere `.env.example` nach `.env` und trage
   den `OPENROUTER_API_KEY` ein (OpenRouter-Account noetig).
 
@@ -100,7 +104,7 @@ python tools/init_book.py --source "books/Meine Quelle.rtf"
 # Kapitelquellen erzeugen
 python tools/extract_chapters.py --book anna-karenina
 
-# RU-Szenen erzeugen
+# Quell-Szenen erzeugen
 python tools/extract_scenes.py --book anna-karenina --chapter 001
 python tools/extract_scenes.py --book anna-karenina --all
 
@@ -129,7 +133,7 @@ streamlit run tools/dashboard.py
 ```
 
 `translate_batch.py` ist ein Uebersetzungs-Batch, kein Export-Befehl. Er
-erzeugt fehlende RU-Arbeitseinheiten bei Bedarf und ruft danach
+erzeugt fehlende Quell-Arbeitseinheiten bei Bedarf und ruft danach
 `translate_chapter.py` fuer mehrere Kapitel auf. Kapitel-Assembly passiert
 nur mit `--assemble-after` oder separat ueber `assemble_chapter.py`;
 DOCX/EPUB/PDF entstehen erst ueber `export_manuscript.py`.
@@ -188,6 +192,12 @@ werden als `assets/chapter/chapter-NNN.*` abgelegt, Szenenbilder als
 `assets/scene/NNN/scene-NNN.*`. Unterstuetzt werden `.jpg`, `.jpeg`, `.png`
 und `.webp`; fehlende Bilder werden uebersprungen. Gesteuert wird dies ueber
 `illustrations` in `export.yaml`.
+
+Higgsfield-Generierungsdefaults liegen pro Buch in `book.yaml` unter
+`higgsfield`. `tools/generate_illustration.py` liest dort Modell,
+Moodboard-/Custom-Reference-UUID, Qualitaet und Seitenverhaeltnis. Erkannte
+Moodboards und der Discovery-Workflow sind in `docs/higgsfield-integration.md`
+dokumentiert.
 
 Standardfolge fuer Leserexporte: Coverbild, Titelseite, Zusammenfassung,
 Leben des Autors, dann Textbeginn mit Teil-/Buchgruppe und Kapiteln.

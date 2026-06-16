@@ -17,9 +17,10 @@
 # werden in einer spaeteren Version ergaenzt (siehe
 # Roadmap-Punkt C: "Maximal").
 #
-# Default fuer Peter I: `deepseek/deepseek-v4-flash`
-# (gesetzt in `books/<book-id>/book.yaml: ai.model` und als
-# `default_for: [peter-i-buch-01]` im Katalog-Eintrag).
+# Globaler Default fuer neue und nicht explizit konfigurierte Buecher:
+# `deepseek/deepseek-v4-pro`.
+# Buchspezifische Overrides stehen in `books/<book-id>/book.yaml: ai.model`
+# oder optional in `models[i].default_for`.
 # ============================================================
 
 models:
@@ -77,8 +78,6 @@ models:
     name: "DeepSeek V4 Flash"
     provider: DeepSeek
     description: "Neue V4-Generation, MoE mit 1M Kontext – extrem guenstig und schnell."
-    default_for:
-      - peter-i-buch-01
 
   - id: deepseek/deepseek-v3.2
     name: "DeepSeek V3.2"
@@ -231,4 +230,4 @@ defaults:
   # Wird in `tools/translate_chapter.py` benutzt, wenn weder
   # --model noch `book.yaml: ai.model` noch OPENROUTER_MODEL
   # gesetzt sind.
-  fallback_model: deepseek/deepseek-v4-flash
+  fallback_model: deepseek/deepseek-v4-pro

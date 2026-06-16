@@ -99,7 +99,8 @@ def merge_dir_contents(source: Path, target: Path, dry_run: bool, moves: list[st
                     shutil.move(str(item), str(dest))
 
 
-def ensure_dirs(book_root: Path, dry_run: bool) -> None:
+def ensure_dirs(book_root: Path, dry_run: bool, source_lang: str = "ru") -> None:
+    source_lang = (source_lang or "ru").strip().lower() or "ru"
     dirs = [
         "source",
         "assets/covers",
@@ -107,7 +108,7 @@ def ensure_dirs(book_root: Path, dry_run: bool) -> None:
         "assets/scene",
         "styles",
         "work/chapters",
-        "work/scenes/ru",
+        f"work/scenes/{source_lang}",
         "work/scenes/de",
         "work/assembled",
         "work/prompts",
@@ -224,7 +225,7 @@ def copy_styles(book_root: Path, dry_run: bool, moves: list[str]) -> None:
 def migrate_book(book: dict[str, Any], legacy_export: dict[str, Any], dry_run: bool, moves: list[str]) -> None:
     book_id = book["id"]
     book_root = REPO_ROOT / "books" / book_id
-    ensure_dirs(book_root, dry_run)
+    ensure_dirs(book_root, dry_run, str(book.get("source_lang") or "ru"))
 
     source = REPO_ROOT / str(book.get("source_path", ""))
     source_name = source.name

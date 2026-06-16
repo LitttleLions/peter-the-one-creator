@@ -1,665 +1,242 @@
-# Kapitel 52: CHAPTER LII
+# Kapitel 052: Tom III - Rozdział III
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part60.xhtml*
 
 <!-- status: pending -->
 
-THE guard in the antechamber announced Pentuer. The priest prostrated
+Straż czuwająca w przedpokoju zameldowała Pentuera. Kapłan upadł na twarz przed faraonem i zapytał o rozkazy.
 
-himself before the pharaoh, and said that he was waiting for commands.
+— Nie rozkazywać, ale prosić cię chcę — rzekł pan. — Wiesz, w Egipcie bunty!... Bunty chłopów, rzemieślników, nawet więźniów... Bunty od morza do kopalń!... Brakuje tylko, aby zbuntowali się moi żołnierze i ogłosili faraonem... na przykład Herhora!...
 
-"I do not wish to command," said Ramses, "but to beg thee. Thou knowest
+— Żyj wiecznie, wasza świątobliwość — odparł kapłan. — Nie ma w Egipcie człowieka, który nie poświęciłby się za ciebie i nie błogosławił twego imienia.
 
-that in Egypt there are riots of laborers, artisans, even convicts.
+— Ach, gdyby wiedzieli — mówił z gniewem władca — jak faraon jest bezsilny i ubogi, każdy nomarcha zechciałby być panem swego nomesu!... Myślałem, że odziedziczywszy podwójną koronę, będę coś znaczył... Lecz już w pierwszym dniu przekonywam się, że jestem tylko cieniem dawnych władców Egiptu! Bo i czym może być faraon bez majątku, bez wojska, a nade wszystko bez wiernych sług... Jestem jak posągi bogów, którym kadzą i składają ofiary... Ale posągi są bezsilne, a ofiarami tuczą się kapłani... Ale prawda, ty trzymasz z nimi!...
 
-There are riots from the sea to the quarries. The only thing lacking is
+— Boleśnie mi — odrzekł Pentuer — że wasza świątobliwość mówi tak w pierwszym dniu swego panowania. Gdyby wieść o tym rozeszła się po Egipcie...
 
-that my warriors should rebel and proclaim as pharaoh Herhor, for
+— Komuż powiem, co mi dolega?... — przerwał pan. — Jesteś moim doradcą i ocaliłeś mi, a przynajmniej chciałeś ocalić życie, chyba nie po to, ażeby rozgłaszać: co się dzieje w królewskim sercu, które przed tobą otwieram... Ale masz słuszność.
 
-example."
+Pan przeszedł się po komnacie i po chwili rzekł znacznie spokojniejszym tonem:
 
-"Live through eternity, holiness!" replied the priest. "There is not a
+— Mianowałem cię naczelnikiem rady, która ma wyśledzić przyczyny nieustannych buntów w moim państwie. Chcę, ażeby karano tylko winnych, a czyniono sprawiedliwość nieszczęśliwym...
 
-man in Egypt who would not sacrifice himself for thee, and not bless
+— Niech Bóg wspiera cię łaską swoją!... — szepnął kapłan. — Zrobię, panie, co każesz. Ale powody buntów znam i bez śledztwa...
 
-thy name."
+— Powiedz.
 
-"Aha, if they knew," said the ruler, with anger, "how helpless the
+— Nieraz o tym mówiłem waszej świątobliwości: lud pracujący jest głodny, ma za dużo roboty i płaci za wielkie podatki. Kto dawniej robił od wschodu do zachodu słońca, dziś musi zaczynać na godzinę przed wschodem, a kończyć w godzinę po zachodzie. Nie tak dawno co dziesiąty dzień prosty człowiek mógł odwiedzać groby matki i ojca, rozmawiać z ich cieniami i składać ofiary. Ale dziś nikt tam nie chodzi, bo nie ma czasu.
 
-pharaoh is, and how poor he is, each nomarch would like to be the lord
+Dawniej chłop zjadał w ciągu dnia trzy placki pszenne, dziś nie stać go na jęczmienny. Dawniej roboty przy kanałach, groblach i gościńcach liczyły się między podatkami; dziś podatki trzeba płacić swoją drogą, a roboty publiczne wykonywać darmo.
 
-of his province. I thought that on inheriting the double crown I should
+Oto przyczyny buntów.
 
-signify something. But I have convinced myself during the first day
+— Jestem najbiedniejszy szlachcic w państwie! — zawołał faraon, targając sobie włosy. — Lada właściciel folwarku daje swoim bydlętom przystojne jadło i odpoczynek; ale mój inwentarz jest wiecznie głodny i znużony!...
 
-that I am merely a shadow of the former rulers of Egypt; for what can a
+Więc co mam robić, powiedz, ty, który prosiłeś mnie, abym poprawił los chłopów?...
 
-pharaoh be without wealth, without an army, and, above all, without
+— Rozkazujesz, panie, abym powiedział?...
 
-faithful subjects? I am like the statues of the gods which they
+— Proszę... każę... jak wreszcie chcesz... tylko mów mądrze.
 
-incense, and before which they place offerings. The statues are
+— Błogosławione niech będą twoje rządy, prawdziwy synu Ozyrysa! — odparł kapłan. — A oto co czynić należy...
 
-powerless and the offerings serve to fatten the priests. But, true,
+Przede wszystkim rozkaż, panie, aby płacono za roboty publiczne, jak było dawniej...
 
-Thou art on their side."
+— Rozumie się.
 
-"It is painful to me," answered Pentuer, "that Thou speakest thus,
+— Dalej — zapowiedz, ażeby praca rolna trwała tylko od wschodu do zachodu słońca... Potem spraw, jak było za dynastii boskich, ażeby lud wypoczywał co siódmy dzień; nie co dziesiąty, ale co siódmy. Potem nakaż, aby panowie nie mieli prawa zastawiać chłopów, a pisarze bić i dręczyć ich według swego upodobania.
 
-holiness, on the first day of thy reign. If news of this were to go
+A nareszcie daj — dziesiątą lub choćby dwudziestą część ziemi chłopom na własność, aby nikt jej odebrać ani zastawiać nie mógł. Niechaj rodzina chłopa ma choćby tyle ziemi, co podłoga tej komnaty, a już nie będzie głodna. Daj, panie, chłopom pustynne piaski na własność, a w kilka lat wyrosną tam ogrody...
 
-over Egypt!"
+— Pięknie mówisz — wtrącił faraon — ale mówisz to, co widzisz w swym sercu, nie na świecie. Ludzkie pomysły, choćby najlepsze, nie zawsze zgadzają się z naturalnym biegiem rzeczy...
 
-"To whom can I tell what pains me?" interrupted Ramses. "Thou art my
+— Wasza świątobliwość, ja już widywałem podobne zmiany i ich skutki — odrzekł Pentuer.
 
-counselor; I was saved by thee, or at least Thou hadst the wish to save
+Przy niektórych świątyniach dokonywają się różne próby; nad leczeniem chorych, uczeniem dzieci, hodowlą bydła i roślin, wreszcie nad poprawą ludzi. A oto, co się zdarzało:
 
-my life, not of course to publish to the world that which is happening
+Gdy chłopu leniwemu i chudemu dawano dobre jadło i odpoczynek co siódmy dzień, człowiek ten robił się tłustym, chętnym do pracy i więcej skopywał pola niż dawniej. Robotnik płatny jest weselszy i więcej wykonywa roboty aniżeli niewolnik, choćby go bić żelaznymi prętami. Ludziom sytym rodzi się więcej dzieci niż głodnym i spracowanym; potomstwo ludzi wolnych jest zdrowe i silne, a niewolników — wątłe, ponure i skłonne do kradzieży i kłamstwa.
 
-in the ruler's heart, which heart I open before thee. But Thou art
+Przekonano się wreszcie, że ziemia, którą uprawia jej właściciel, daje półtora raza więcej ziarn i jarzyn niż ziemia obsługiwana przez niewolników.
 
-right."
+Ciekawszą rzecz powiem waszej świątobliwości: gdy oraczom przygrywa muzyka, ludzie i woły robią lepiej, prędzej i mniej męczą się aniżeli bez muzyki.
 
-He walked up and down in the chamber, and said after a while in a tone
+Wszystko to sprawdzono w naszych świątyniach.
 
-considerably calmer,
+Faraon uśmiechał się.
 
-"I have appointed thee chief of a council which is to investigate the
+— Muszę ja na moich folwarkach i w kopalniach zaprowadzić muzykę — rzekł. — Jeżeli jednak kapłani przekonali się o takich dziwach, jakie mi opowiadasz, to dlaczego w swoich majątkach nie postępują w ten sposób z chłopstwem?...
 
-causes of those ever-recurring riots in Egypt. I wish that only the
+Pentuer opuścił głowę.
 
-guilty be punished, and that justice be done those who are injured."
+— Bo — odparł wzdychając — nie wszyscy kapłani są mędrcami i mają serca szlachetne...
 
-"May the god support thee with his favor," whispered the priest. "I
+— Otóż to!... — zawołał pan.
 
-will do what Thou commandest. But the causes of the riots I know
+A teraz powiedz mi, ty, który jesteś synem chłopów i wiesz, że między kapłanami znajdują się hultaje i głupcy, powiedz: dlaczego nie chcesz mi służyć w walce przeciw nim?... Bo przecie rozumiesz, że ja nie poprawię losu chłopskiego, jeżeli pierwej nie nauczę kapłanów posłuszeństwa dla mojej woli...
 
-already."
+Pentuer załamał ręce.
 
-"What are they?"
+— Panie — odparł — bezbożna to i niebezpieczna sprawa walka z kapłaństwem!... Niejeden faraon rozpoczynał ją i... nie mógł dokończyć...
 
-"More than once have I spoken of them to thee, holiness. The toiling
+— Bo go nie popierali tacy, jak ty, mędrcy!... — wybuchnął pan. — I zaprawdę, nigdy nie zrozumiem: dlaczego mądrzy i zacni kapłani wiążą się z bandą łotrów, jakimi jest większość tej klasy?...
 
-people are hungry; they have too much work, and they pay too many
+Pentuer trząsł głową i zaczął mówić powoli:
 
-taxes. He who worked formerly from sunrise till sunset must begin now
+— Od trzydziestu tysięcy lat święty stan kapłański pielęgnuje Egipt i on zrobił kraj tym, czym jest dziś: dziwem dla całego świata. A dlaczego kapłanom, pomimo ich wad, udało się tak zrobić?... Gdyż oni są kagańcem, w którym płonie światło mądrości.
 
-an hour before sunrise and finish an hour after sunset. It is not long
+Kaganiec może być brudny, nawet śmierdzący, niemniej jednak przechowuje boski ogień, bez którego między ludźmi panowałaby ciemność i dzikość.
 
-since a common man might go every tenth day to visit the graves of his
+Mówisz, panie, o walce z kapłaństwem — ciągnął — Pentuer. — Co może z niej wyniknąć dla mnie?... Jeżeli ty przegrasz, będę nieszczęśliwy, bo nie poprawisz losu chłopom. A gdybyś wygrał?... O, bodajbym nie doczekał tego dnia!... Bo gdybyś rozbił kaganiec, kto wie, czy nie zgasiłbyś tego ognia mądrości, który od tysięcy lat płonie nad Egiptem i światem...
 
-mother and father, speak with their shades, and make them offerings.
+Oto, panie mój, powody, dla których nie chcę mieszać się do twej walki ze świętym stanem kapłańskim... Czuję, że ona się zbliża, i cierpię, że taki robak, jakim jestem, nie mogę jej zapobiec. Ale wdawać się w nią nie będę, bo musiałbym zdradzić albo ciebie, albo Boga, który jest twórcą mądrości...
 
-But today no one goes, for no one has time to go."
+Słuchając tego, faraon chodził po komnacie zamyślony.
 
-"Formerly a working man ate three wheat cakes in the course of the day;
+— Ha — rzekł bez gniewu — czyń, jak chcesz. Nie jesteś żołnierzem, więc nie mogę wyrzucać ci braku odwagi... Nie możesz być jednak moim doradcą... Choć proszę cię, abyś utworzył sąd do rozpatrzenia chłopskich buntów i gdy cię wezwę, mówił, co nakazuje mądrość.
 
-at present he has not even barley bread. Formerly labor on the canals,
+Pentuer ukląkł, żegnając pana.
 
-dams, and roads was deducted from the taxes; now the taxes are paid
+— W każdym razie — dodał faraon — wiedz o tym, że ja nie chcę gasić boskiego światła... Niech kapłani pielęgnują mądrość w swoich świątyniach, ale — niech mi nie marnują wojska, nie zawierają haniebnych traktatów i... niech nie okradają — mówił już z uniesieniem — królewskich skarbców...
 
-independently while public works are carried on without wages. These
+Czy może myślą, że ja jak żebrak będę wystawał pod ich bramami, aby raczyli mi dostarczyć funduszów do podźwignięcia państwa zrujnowanego przez ich głupie i nikczemne rządy?... Cha!... cha!... Pentuerze... ja bym bogów nie prosił o to, co stanowi moją moc i prawo.
 
-are the causes of riots."
+Możesz odejść.
 
-"I am the poorest noble in the kingdom!" cried the pharaoh, while he
+Kapłan, cofając się tyłem, wyszedł wśród ukłonów i jeszcze we drzwiach upadł twarzą na ziemię.
 
-tugged at his own hair. "Any landowner gives his cattle proper food and
+Pan został sam.
 
-rest; but all men who work for me are tired and hungry."
+„Ludzie śmiertelni — myślał — są jak dzieci. Herhor jest przecie mądry, wie, że Egipt na wypadek wojny potrzebuje pół miliona żołnierzy, wie, że te wojska trzeba ćwiczyć, a mimo to — zmniejszył liczbę i komplet pułków...
 
-"What am I to do, then, tell Thou who hast begged me to improve the lot
+Wielki skarbnik jest także mądry, lecz wydaje mu się rzeczą całkiem naturalną, że wszystkie skarby faraonów przeszły do Labiryntu!...
 
-of the workers?"
+Wreszcie Pentuer... Co to za dziwny człowiek!... Chce obdarowywać chłopów jadłem, ziemią i nieustającymi świętami... Dobrze, ależ to wszystko zmniejszy moje dochody, które i tak już są za małe. Lecz gdybym mu powiedział: pomóż mi odebrać kapłanom królewskie skarby, nazwałby to bezbożnością i gaszeniem światła w Egipcie!...
 
-"Wilt Thou command me to tell, lord?"
+Osobliwy człowiek... Rad by całe państwo przewrócić do góry nogami, o ile chodzi o dobro chłopów, a nie śmiałby wziąć za kark arcykapłana i odprowadzić go do więzienia. Z największym spokojem każe mi wyrzec się może połowy dochodów, ale jestem pewny, że nie odważyłby się wynieść miedzianego utena z Labiryntu...”
 
-"I will beg, I will command, as Thou wishest. Only speak wisely."
+Faraon uśmiechał się i znowu medytował:
 
-"Blessed be thy rule, O true son of Osiris," answered the priest. "This
+„Każdy pragnie być szczęśliwym; ale gdy zechcesz zrobić, ażeby wszyscy byli szczęśliwi, każdy będzie cię chwytał za ręce, jak człowiek, któremu chory ząb wyjmują...
 
-is what it is proper to do: Command, lord, first of all, that pay be
+I dlatego władca musi być stanowczym... I dlatego boski mój ojciec niedobrze czynił, zaniedbując chłopstwo, a bez granic ufając kapłanom... Ciężkie zostawił mi dziedzictwo, ale... dam sobie radę...
 
-given for labor on public works, as was the case formerly."
+U Sodowych Jezior także była trudna sprawa... Trudniejsza niż tu... Tutaj są tylko gadacze i strachopłochy, tam byli ludzie zbrojni i zdecydowani na śmierć...
 
-"Of course."
+Jedna bitwa szerzej otwiera nam oczy aniżeli dziesiątki lat spokojnych rządów... Kto sobie powie: złamię przeszkodę! złamie ją. Ale kto się zawaha, musi ustąpić...”
 
-"Next command that field labor last only from sunrise till sunset. Then
+Mrok zapadł. W pałacu zmieniono warty i w dalszych salach zapalano pochodnie. Tylko do pokoju faraona nikt nie śmiał wejść bez rozkazu.
 
-direct, as during the divine dynasties, that people rest every seventh
+Pan, zmęczony bezsennością, wczorajszą podróżą i dzisiejszymi zajęciami, upadł na fotel. Zdawało mu się, że już setki lat jest faraonem, i nie mógł wierzyć, że od tej godziny, kiedy był pod piramidami, nie upłynęła jeszcze doba.
 
-day; not every tenth, but every seventh day. Then command that
+„Doba?... Niepodobna!...”
 
-landowners shall not have the right to mortgage earth-tillers, or
+Potem przyszło mu na myśl, że może być, iż w sercu następcy osiedlają się dusze poprzednich faraonów. Chyba tak jest, bo inaczej — skądże by wzięło się w nim jakieś uczucie starości czy dawności?... I dlaczego rządzenie państwem dziś wydaje mu się rzeczą prostą, choć jeszcze parę miesięcy temu truchlał myśląc, że nie potrafi rządzić.
 
-scribes the right to beat and torture them according to fancy.
+„Jeden dzień?... — powtarzał w duchu. — Ależ ja tysiące lat jestem w tym miejscu!...”
 
-"And finally, give the tenth part, or even the twentieth part of the
+Nagle usłyszał przytłumiony głos:
 
-land as property to the workers, so that no one may take it away or
+— Synu mój!... synu...
 
-mortgage it. Let each family have as much land in extent as the
+Faraon zerwał się z fotelu.
 
-pavement of this room, and it will not be hungry. Give the people
+— Kto tu jest?... — zawołał.
 
-desert sands as property, and in a few years gardens will be growing on
+— Ja jestem, ja... Czyliżbyś już o mnie zapomniał?...
 
-them."
+Władca nie mógł zorientować się: skąd głos pochodzi? Z góry, z dołu czy może z dużego posągu Ozyrysa, który stał w kącie.
 
-"Thou speakest beautifully," interrupted the pharaoh; "but what Thou
+— Synu mój — mówił znowu głos — szanuj wolę bogów, jeżeli chcesz otrzymać ich błogosławioną pomoc... O, szanuj bogów, gdyż bez ich pomocy największa potęga ziemska jest jako proch i cień... O, szanuj bogów, jeżeli chcesz, ażeby gorycz twoich błędów nie zatruła mi pobytu w szczęśliwej krainie Zachodu...
 
-sayest is what Thou seest in thy heart, not in the world. Men's plans,
+Głos umilkł, pan kazał przynieść światło. Jedne drzwi komnaty były zamknięte, przy drugich stała warta. Nikt obcy nie mógł tu wejść.
 
-though the best, are not always in accord with the natural course of
+Gniew i niepokój szarpały serce faraona. Co to było?... Czy naprawdę przemawiał do niego cień ojca, czy też ów głos był tylko nowym oszustwem kapłanów?
 
-things."
+Lecz jeżeli kapłani mogą przemawiać do niego z odległości bez względu na grube mury, w takim razie mogą i podsłuchiwać. A wówczas on, pan świata, jest jak dzikie zwierzę obsaczony ze wszystkich stron.
 
-"I have seen such changes and their result, holiness," answered
+Prawda, w pałacu królewskim podsłuchiwanie było rzeczą zwyczajną. Faraon jednak sądził, że przynajmniej ten gabinet jest wolny i że zuchwalstwo kapłanów zatrzymuje się u progu najwyższego władcy.
 
-Pentuer.
+A jeżeli to był duch?...
 
-"At certain temples various trials have been made at curing the sick,
+Pan nie chciał jeść kolacji, lecz udał się na spoczynek. Zdawało mu się, że nie zaśnie; lecz zmęczenie wzięło górę nad rozdrażnieniem.
 
-teaching children, rearing cattle, cultivating plants, and reforming
+W kilka godzin obudziły go dzwonki i światło. Była już północ i kapłan-astrolog przyszedł złożyć panu raport o stanowisku ciał niebieskich. Faraon wysłuchał sprawozdania, a w końcu rzekł:
 
-men, and the following has happened: When they gave a lean and lazy man
+— Czy nie mógłbyś, czcigodny proroku, od tej pory składać swoich raportów dostojnemu Semowi?... On jest przecie moim zastępcą w rzeczach dotyczących religii...
 
-good food, and rest every seventh day, the man became sturdy, willing
+Kapłan-astrolog bardzo zdziwił się obojętności pana dla rzeczy niebieskich.
 
-to work, and he dug more land than before. A laborer who receives wages
+— Wasza świątobliwość — spytał — raczy zrzekać się wskazówek, jakie władcom dają gwiazdy?...
 
-is more cheerful and does more work than a slave, even though beaten
+— Dają? — powtórzył faraon. — Zatem powiedz, jakie są ich obietnice dla mnie?
 
-with whips of iron. Well-nourished people have more children than
+Astrolog widocznie spodziewał się tej kwestii, odparł bowiem bez namysłu:
 
-hungry and overworked ones; the children of free men are healthy and
+— Horyzont chwilowo jest zaćmiony... Pan świata nie trafił jeszcze na drogę prawdy, która prowadzi do poznania woli bogów. Ale prędzej czy później znajdzie ją, a na niej długie życie i szczęśliwe, pełne chwały panowanie...
 
-strong; those of slaves are fragile, gloomy, inclined to stealing and
+— Aha!... Dziękuję ci, mężu święty. Skoro już wiem: czego powinienem szukać, zastosuję się do wskazówek, a ciebie znowu proszę, abyś odtąd komunikował się z dostojnym Semem. On jest moim zastępcą i jeżeli coś ciekawego wyczytasz kiedy w gwiazdach, opowie mi o tym z rana.
 
-to lying. Men have convinced themselves that land tilled by its owner
+Kapłan opuścił sypialnię, potrząsając głową.
 
-gives one half more grain and vegetables than land tilled by captives.
+— Wybili mnie ze snu!... — rzekł pan z wyrazem niezadowolenia.
 
-"I will tell a most curious thing to thee, holiness: When they play on
+— Najczcigodniejsza królowa Nikotris — odezwał się nagle adiutant — godzinę temu rozkazała mi prosić waszą świątobliwość o posłuchanie...
 
-musical instruments to ploughmen, the men and the oxen work better,
+— Teraz?... o północy?... — spytał pan.
 
-more quickly, and tire themselves less than when there is no music. All
+— Właśnie mówiła, że o północy wasza świątobliwość obudzi się...
 
-this has been verified at our temples."
+Faraon pomyślał i odpowiedział adiutantowi, że będzie czekać na królowę w sali złotej. Sądził, że tam nikt nie podsłucha ich rozmowy.
 
-The pharaoh smiled.
+Pan narzucił na siebie płaszcz, włożył niewiązane sandały i rozkazał dobrze oświetlić złotą salę. Potem wyszedł, zalecając służbie, aby mu nie towarzyszyła.
 
-"I must," said he, "have music on my lands and in the quarries. But if
+Matkę już zastał w sali, w szatach z grubego płótna na znak żałoby. Zobaczywszy faraona, czcigodna pani chciała znowu upaść na kolana, ale syn podniósł ją i uściskał.
 
-the priests convince themselves of such wonders as Thou art relating,
+— Czy zdarzyło się coś ważnego, matko, że trudzisz się o tej godzinie? — spytał.
 
-why act as they do on their own estates?"
+— Nie spałam... modliłam się... — odparła. — O synu mój, mądrze odgadłeś, że sprawa jest ważną!... Słyszałam boski głos twego ojca...
 
-Pentuer dropped his head.
+— Doprawdy? — rzekł faraon czując, że gniew go napełnia.
 
-"Because," replied he, sighing, "not all priests are sages, not all
+— Nieśmiertelny twój ojciec — ciągnęła królowa — mówił mi pełen smutku, że wchodzisz na błędną drogę... Wyrzekasz się z pogardą arcykapłańskich święceń i źle traktujesz sługi boże.
 
-have noble hearts."
+„Któż zostanie przy Ramzesie — mówił twój boski ojciec — jeżeli zniechęci bogów i opuści go stan kapłański?... Powiedz mu... powiedz mu — powtarzał czcigodny cień — że tym sposobem zgubi Egipt, siebie i dynastię...”
 
-"That is it!" exclaimed the pharaoh.
+— Oho! — zawołał faraon — więc już tak mi grożą, zaraz w pierwszym dniu panowania?... Moja matko, pies najgłośniej szczeka, kiedy się boi, więc i pogróżki są złą wróżbą, ale tylko dla kapłanów!
 
-"And now tell me, Thou who art a son of earth tillers, and knowest that
+— Ależ to twój ojciec mówił... — powtórzyła stroskana pani.
 
-among priests there are fools and rioters, tell me, why Thou art
+— Nieśmiertelny ojciec mój — odparł faraon — i święty dziad Amenhotep, jako czyste duchy, znają moje serce i widzą opłakany stan Egiptu. A ponieważ serce moje chce podźwignąć państwo przez ukrócenie nadużyć, oni więc nie mogliby przeszkadzać mi do spełnienia zamiarów...
 
-unwilling to serve me in a struggle against the priesthood? Thou
+— Więc ty nie wierzysz, że duch ojca daje ci rady? — spytała coraz bardziej przerażona.
 
-knowest that I cannot improve the lot of the working man unless first I
+— Nie wiem. Ale mam prawo przypuszczać, że te głosy duchów, rozlegające się w różnych kątach naszego pałacu, są jakimś figlem kapłańskim. Tylko kapłani mogą lękać się mnie, nigdy bogowie i duchy... Więc nie duchy straszą nas, matko...
 
-teach the priests obedience to my orders."
+Królowa zadumała się i było widać, że słowa syna robią na niej wrażenie. Widziała ona wiele cudów w swym życiu i niektóre jej samej wydawały się podejrzanymi.
 
-Pentuer wrung his hands.
+— W takim razie — rzekła z westchnieniem — nie jesteś ostrożny, mój synu!... Po południu był u mnie Herhor, bardzo niezadowolony z posłuchania u ciebie... Mówił, że chcesz usunąć kapłanów ze dworu...
 
-"O lord," replied he, "a struggle with the priesthood is godless and
+— A oni mi na co?... Czy ażeby moja kuchnia i piwnica miały duże rozchody?... Czy może na to, ażeby słuchali, co mówię, i patrzyli, co robię?...
 
-dangerous. More than one pharaoh began it, and was unable to finish."
+— Cały kraj wzburzy się, gdy kapłani ogłoszą, że jesteś bezbożnikiem... — wtrąciła pani.
 
-"Because he was not supported by sages like thee!" burst out Ramses.
+— Kraj już się burzy, ale z winy kapłanów — odparł faraon. — A i o pobożności egipskiego ludu zaczynam mieć inne wyobrażenie... Gdybyś, matko, wiedziała, ile w Dolnym Egipcie jest procesów o znieważanie bogów, a w Górnym — o okradanie zmarłych, przekonałabyś się, że dla naszego ludu sprawy kapłańskie już przestały być świętymi.
 
-"And, indeed, I shall never understand why wise and honest priests bind
+— To wpływ cudzoziemców, którzy zalewają Egipt — zawołała pani. — Zwłaszcza Fenicjanie...
 
-themselves to a band of rogues, such as the majority of this class
+— Wszystko jedno, czyj wpływ; dość, że Egipt już nie uważa ani posągów, ani kapłanów za istoty nadludzkie... A gdybyś jeszcze, matko, posłuchała szlachty, oficerów, żołnierzy, zrozumiałabyś, że nadszedł czas postawienia władzy królewskiej na miejscu kapłańskiej, jeżeli wszelka władza nie ma upaść w tym kraju.
 
-are."
+— Egipt jest twój — westchnęła królowa. — Mądrość twoja jest nadzwyczajna, więc czyń, jak chcesz... Ale postępuj ostrożnie... O, ostrożnie!... Skorpion, nawet zabity, jeszcze może ranić nieostrożnego zwycięzcę...
 
-Pentuer shook his head and began slowly, "During thirty thousand years
+Uściskali się i pan wrócił do swej sypialni. Ale tym razem naprawdę nie mógł zasnąć.
 
-the sacred order of priests has nursed Egypt and made the country the
+Już jasno widział, że między nim i kapłanami rozpoczęła się walka, a raczej coś wstrętnego, co nawet nie zasługiwało na nazwę walki i z czym on, wódz, w pierwszej chwili nie umiał sobie poradzić.
 
-wonder of the world, which it is at present. And how have the priests,
+Bo gdzie tu jest nieprzyjaciel?... Przeciw komu ma wystąpić jego wierne wojsko?... Czy przeciw kapłanom, którzy upadają przed nim na ziemię? Czy przeciw gwiazdom, które mówią, że faraon nie wszedł jeszcze na drogę prawdy? Co i kogo tu zwalczać?...
 
-in spite of their faults, been able to do this? Because they are the
+Może owe głosy duchów rozlegające się wśród pomroki? Czy własną matkę, która, przerażona, błaga go, ażeby nie rozpędzał kapłanów?...
 
-lamp in which burns the light of wisdom.
+Faraon wił się na swym łożu w poczuciu bezsilności. Nagle przyszła mu myśl: „Co mnie obchodzi nieprzyjaciel, który rozłazi się jak błoto w garści?... Niech sobie gadają w pustych salach, niech gniewają się na moją bezbożność...
 
-"This lamp may be foul, even malodorous; still it preserves the divine
-
-fire, without which darkness and savagery would prevail among people.
-
-"Thou speakest, lord, of a struggle with the priesthood," continued
-
-Pentuer. "How can that profit me? If Thou lose I shall be unhappy, for
-
-Thou wilt not improve the lot of the worker. And if Thou win? May I not
-
-live to that! for shouldst Thou break the lamp, who knows whether Thou
-
-wouldst not put out the fire of wisdom which for thousands of years has
-
-illuminated Egypt and mankind.
-
-"These, lord, are the reasons why I will not take part in thy struggle
-
-with the sacred order of priests. I feel that the struggle is
-
-approaching, and I suffer because such a worm as I am unable to prevent
-
-it. But I will not participate, for I should have to betray either
-
-thee, or the God, the creator of wisdom."
-
-While hearing these words the pharaoh walked up and down the chamber in
-
-thought.
-
-"Aa!" said he, without anger, "do as may please thee. Thou art not a
-
-warrior, hence I cannot reproach thee with lack of valor. But Thou
-
-canst not be my adviser, though I beg thee to form a council to
-
-investigate the riots of working men, and, when I summon thee, declare
-
-what thy wisdom enjoins."
-
-Pentuer knelt down in taking farewell of his lord.
-
-"In every case," added the pharaoh, "know this, that I have no desire
-
-to quench the divine light. Let the priests guard wisdom in their
-
-temples, but let them not make my army useless, let them not conclude
-
-shameful treaties, and let them not steal," he said this excitedly,
-
-"the treasures of the pharaohs.
-
-"Can they think that I will stand at their gates, like a beggar, asking
-
-that they deign to give me funds to restore the state which is ruined
-
-by their stupid and villainous management? Ha, ha! Pentuer, I should
-
-not ask the gods for that which is my power and my right Thou mayst
-
-go."
-
-The priest, withdrawing with his face toward the pharaoh, went out
-
-backward with obeisance, and when in the doorway he fell with his face
-
-on the pavement.
-
-The pharaoh remained alone.
-
-"Mortal men," thought he, "are like children. Herhor is wise: he knows
-
-that Egypt in case of war would need half a million of warriors; he
-
-knows that those troops need training, and still he has decreased the
-
-number of the regiments.
-
-"The chief treasurer also is wise, but it seems to him quite in order
-
-that all the treasure of the pharaohs should go to the labyrinth.
-
-"Finally here is Pentuer. What a strange person he is! He wants me to
-
-give earth-tillers food, land, and ever-recurring holidays. All this
-
-would decrease my income, which even now is insufficient. But if I say
-
-to him: help me to take the pharaoh's treasures from the priesthood, he
-
-calls that godlessness and the quenching of light in Egypt. Strange
-
-man, he would be glad to turn the state bottom upwards, so far as
-
-relates to the good of earth tillers, but he would not venture to seize
-
-a high priest and lead him forth to prison. With the utmost composure
-
-he commands me to renounce half my income, but I am sure that he would
-
-not dare to take a copper uten out of the labyrinth."
-
-The pharaoh smiled, and again he meditated.
-
-"Each man wants to be happy himself; but if Thou wish to give happiness
-
-to all men, each one will seize thy hand as he would if Thou wert
-
-drawing an aching tooth from him.
-
-"Therefore a pharaoh must have decision. Therefore my divine father did
-
-ill when he neglected the workers and trusted beyond bounds in the
-
-priesthood. He left me a grievous inheritance, but I will improve it.
-
-"At the Soda Lakes there was also a difficult question, more difficult
-
-than this one. Here are only gabblers and timid cowards; there stood
-
-armed men ready to go to death.
-
-"One battle will open our eyes more widely than tens of years in
-
-peaceful management. Whoso says to himself, 'I will burst through this
-
-hindrance,' will burst through it. But he who hesitates must yield."
-
-Darkness came. In the palace the watches were changed, and in the
-
-remoter halls torches were lighted. But no one dared enter the
-
-sovereign's chamber unless commanded.
-
-Ramses, wearied by sleeplessness, by the journey of the day previous,
-
-by the occupations of that day, dropped into an armchair. It seemed to
-
-him that he had been pharaoh for centuries, and he could not believe
-
-that one day had not passed since he had been at the pyramids.
-
-"One day? Impossible!"
-
-Then he thought that perhaps the spirits of the former pharaohs had
-
-settled in the heart of their heir. It must be so, for otherwise whence
-
-could such a feeling of age or remoteness settle down in him? And why
-
-did governing the state seem today a simple thing, while two months
-
-before he was alarmed when he thought that he could not govern.
-
-"One day?" repeated he, in spirit. "But I am a thousand years in this
-
-palace!"
-
-Suddenly he heard a repressed voice,
-
-"My son! O son!"
-
-The pharaoh sprang up from his chair.
-
-"Who art thou?" exclaimed he.
-
-"I am, I Hast Thou forgotten me already?"
-
-"O my son," said the voice again, "respect the will of the gods if Thou
-
-wish to receive their blessed assistance O respect the gods, for
-
-without their assistance the greatest power on earth is as dust and
-
-shadows O respect the gods if Thou wish that the bitterness of thy
-
-faults should not poison my existence in the happy region of the West."
-
-The voice ceased, Ramses ordered to bring a light. One door of the room
-
-was closed, at the other a guard stood. No stranger could enter there.
-
-Anger and alarm tore the pharaoh's heart. "What was that? Had the shade
-
-of his father spoken indeed to him, or was that voice only a new
-
-priestly trick?"
-
-But if the priests, notwithstanding thick walls, could speak to him
-
-from a distance, they could overhear him. And then he, the lord of the
-
-world, was like a wild beast caged in on all sides.
-
-It is true that in the palace of the pharaoh secret listening was
-
-common. Ramses had thought, however, that his cabinet was safe, and
-
-that the insolence of priests had stopped at the threshold of the
-
-supreme ruler.
-
-"But if that was a spirit?"
-
-He did not wish to sup, but betook himself to rest. It seemed to him
-
-that he could not sleep; but weariness won the victory over irritation.
-
-In a few hours bells and a light woke him. It was midnight and the
-
-astrologer priest came to make a report on the position of the heavenly
-
-bodies. The pharaoh heard the report, and said at the end of it,
-
-"Couldst thou, revered prophet, make thy report to the worthy Sem
-
-hereafter? He is my substitute in matters touching religion."
-
-The astrologer wondered greatly at the indifference of his lord to
-
-affair? of the heavens.
-
-"Art them pleased, holiness," inquired he, "to refuse those indications
-
-which the stars give to rulers?"
-
-"Do they give them?" asked the pharaoh. "Tell what they promise me."
-
-Clearly the astrologer had looked for the question, so he answered
-
-directly,
-
-"The horizon is darkened for the moment. The lord of light has not come
-
-yet to the road of truth which leads to knowledge of the divine will.
-
-But sooner or later he will find both long life and a happy reign
-
-filled with glory."
-
-"Aha! I thank thee, holy man. And as soon as I know what to seek I will
-
-accommodate myself to the indication. But again I beg thee to
-
-communicate henceforth with the holy Sem. He is my substitute, but
-
-shouldst Thou read anything in the stars Thou wilt tell me of it in the
-
-morning."
-
-The priest left the bedchamber shaking his head.
-
-"They have roused me from sleep!" said Ramses, dissatisfied.
-
-"An hour ago Queen Niort's, most greatly to be revered, commanded me,
-
-holiness, to ask of thee an interview," said an adjutant, suddenly.
-
-"Now? At midnight?" asked the pharaoh.
-
-"Her exact words were that at midnight Thou wouldst wake, holiness."
-
-The pharaoh meditated, then answered the adjutant that ha would wait
-
-for the queen in the golden hall. He thought that there no one could
-
-overhear them.
-
-Ramses threw a mantle over his shoulders, put on sandals unfastened and
-
-commanded to light the golden hall brightly. Then he went out,
-
-directing the servants not to go with him.
-
-He found Niort's in the hall; she was wearing coarse linen garments in
-
-sign that she was mourning. When she saw the pharaoh she wished to drop
-
-on her knees, but her son raised the queen and embraced her.
-
-"Has something important happened, mother, that Thou art working at
-
-this hour?" inquired Ramses.
-
-"I was not asleep I was praying," replied the queen. "O my son, Thou
-
-hast divined wisely that the affair is important. I have heard the
-
-sacred voice of thy father."
-
-"Indeed!" said the pharaoh, feeling that anger was filling him.
-
-"Thy ever-living father," continued the queen, "told me, full of
-
-sadness, that Thou wert entering on a way of error. Thou refusest with
-
-contempt the ordination of high priest, and treatest badly the servants
-
-of divinity."
-
-"'Who will remain with Ramses,' said thy father, 'if he angers the gods
-
-and the priests desert him? Tell him tell him,' repeated the revered
-
-shade, 'that in this way he will ruin Egypt, himself, and the
-
-dynasty.'"
-
-"Oho!" said the pharaoh, "then they threaten me thus from the first day
-
-of my reign. My mother, a dog barks loudest when he is afraid; so
-
-threats are of evil omen, but only for the priesthood."
-
-"But thy father said this," repeated the anxious lady.
-
-"My immortal father and my holy grandfather," said the pharaoh, "being
-
-pure spirits know my heart, and see the woeful condition of Egypt. But
-
-since my heart wishes to raise the state by stopping abuses they would
-
-not prevent me from carrying out my measures."
-
-"Then dost Thou not believe that the spirit of thy father gives thee
-
-counsel?" asked the queen, with rising terror.
-
-"I know not. But I have the right to suppose that those voices of
-
-spirits, which are heard in various comers of our palace, are some
-
-trick of the priesthood. Only priests can fear me, never the gods, and
-
-spirits. Therefore it is not spirits which are frightening us, mother."
-
-The queen fell to thinking; it was clear that her son's words impressed
-
-her. She had seen many miracles in her life and some of them had seemed
-
-to her suspicious.
-
-"In that case," said she, with a sigh, "Thou art not cautious, my son.
-
-This afternoon Herhor visited me; he was very much dissatisfied with
-
-the audience. He said that it was thy wish to remove the priests from
-
-thy court."
-
-"But of what use are priests to me? Are they to cause great outgo in my
-
-kitchen and cellar? Or, perhaps, to hear what I say, and see what I
-
-do?"
-
-"The whole country will revolt," interrupted the queen, "if the priests
-
-declare that Thou art an unbeliever."
-
-"The country is in revolt now. But the priests are the cause of it,"
-
-replied the pharaoh. "And touching the devotion of the Egyptian people
-
-I begin to have another idea. If Thou knew, mother, how many lawsuits
-
-there are in Lower Egypt for insults to the gods, and in Upper Egypt
-
-for robbing the dead, Thou wouldst be convinced that for our people the
-
-cause of the priests has ceased to be holy."
-
-"This is through the influence of foreigners, especially Phoenicians,
-
-who are flooding Egypt," cried the lady.
-
-"All one through whose influence; enough that Egypt no longer considers
-
-either statues or priests as superhuman. And wert thou, mother, to hear
-
-the nobility, the officers, the warriors talk, Thou wouldst understand
-
-that the time has come to put the power of the pharaoh in the place of
-
-priestly power, unless all power is to fall in this country."
-
-"Egypt is thine," sighed the queen. "Thy wisdom is uncommon, so do as
-
-may please thee. But act Thou with caution oh, with caution! A scorpion
-
-even when killed may still wound an unwary conqueror."
-
-They embraced and the pharaoh returned to his bedchamber. But, in
-
-truth, he could not sleep that time.
-
-He understood clearly that between him and the priesthood a struggle
-
-had begun, or rather something repulsive which did not even deserve the
-
-name struggle, and which at the first moment he, the leader, could not
-
-manage. For where was the enemy? Against whom was his faithful army to
-
-show itself? Was it against the priests who fell on their faces before
-
-him? Or against the stars which said that the pharaoh had not entered
-
-yet on the true way? What and whom was he to vanquish? Was it, perhaps,
-
-those voices of spirits which were raised amid darkness? Or was it his
-
-own mother, who begged him in terror not to dismiss priests from state
-
-offices?
-
-The pharaoh writhed on his bed while feeling his helplessness. Suddenly
-
-the thought came to him: "What care I for an enemy which yields like
-
-mud in a hand grasp? Let them talk in empty halls, let them be angry at
-
-my godlessness. I will issue orders, and whoso will not carry them out
-
-is my enemy; against him I will turn courts, police, and warriors."
+Ja będę wydawał rozkazy, a kto ośmieli się nie spełnić ich, ten jest moim wrogiem i przeciw temu zwrócę policję, sąd i wojsko...”

@@ -17,7 +17,7 @@ import yaml
 
 DEFAULT_AI = {
     "provider": "openrouter",
-    "model": "deepseek/deepseek-v4-flash",
+    "model": "deepseek/deepseek-v4-pro",
     "granularity": "scene",
     "max_tokens_per_scene": 10000,
 }

@@ -1,847 +1,274 @@
-# Kapitel 20: CHAPTER XX
+# Kapitel 020: Tom I - Rozdział XX
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part24.xhtml*
 
 <!-- status: pending -->
 
-About nine in the evening Phut left the inn "Under the Ship" in company
+Około dziewiątej godziny wieczorem Phut opuścił zajazd „Pod Okrętem” w towarzystwie Murzyna niosącego pochodnię. Pół godziny przedtem Asarhadon wysłał na ulicę Grobów zaufanego człowieka, rozkazując, aby pilnie zważał: czy harrańczyk nie wymknie się z domu pod „Zieloną Gwiazdą”, a jeżeliby tak uczynił — dokąd pójdzie?
 
-with a negro who carried a torch. Half an hour earlier Asarhadon sent
+Drugi zaufany człowiek gospodarza szedł w pewnej odległości za Phutem; na węższych ulicach krył się pod domami, na szerszych — udawał pijanego.
 
-out a confidential servant, commanding him to observe carefully if the
+Ulice były już puste, tragarze i przekupnie spali. Świeciło się tylko w mieszkaniach pracujących rzemieślników albo u ludzi bogatych, którzy ucztowali na płaskich dachach. W różnych stronach miasta odzywały się dźwięki arf i fletów, śpiewy, śmiechy, kucie młotów, zgrzytanie pił stolarskich. Czasem okrzyk pijacki, niekiedy wołanie o ratunek.
 
-guest from Harran left the house of the "Green Star," and if so to
+Ulice, którymi przechodził Phut i niewolnik, były po większej części ciasne, krzywe, pełne wybojów. W miarę zbliżania się do celu podróży, kamienice były coraz niższe, domy jednopiętrowe liczniejsze i więcej ogrodów, a raczej palm, fig i nędznych akacji, które wychylały się spomiędzy murów, jakby miały zamiar uciec stąd.
 
-follow him.
+Na ulicy Grobów widok nagle zmienił się. Miejsce kamienic zajęły rozległe ogrody, a wśród nich — eleganckie pałacyki. Przed jedną z bram Murzyn zatrzymał się i zgasił pochodnię.
 
-A second confidential servant went at a certain distance behind Phut;
+— Tu jest „Zielona Gwiazda” — rzekł i złożywszy Phutowi niski ukłon, zawrócił do domu.
 
-in the narrower streets he hid among the houses, on the broader ones he
+Harrańczyk zapukał do wrót. Po chwili ukazał się odźwierny. Uważnie obejrzał przybysza i mruknął:
 
-feigned drunkenness.
+— Anael, Sachiel...
 
-The streets were empty; carriers and hucksters were sleeping. There was
+— Amabiel, Abalidot — odpowiedział Phut.
 
-light only in the houses of artisans who were at work, or in those of
+— Bądź pozdrowiony — rzekł odźwierny i szybko otworzył bramę.
 
-rich people who were feasting on the terraces. In various houses were
+Przeszedłszy kilkanaście kroków między drzewami, Phut znalazł się w sieni pałacyku, gdzie powitała go znajoma kapłanka. W głębi stał jakiś człowiek z czarną brodą i włosami, tak podobny do harrańczyka, że przybysz nie mógł ukryć zdziwienia.
 
-heard the sounds of harps and flutes, songs, laughter, the blows of
+— On zastąpi cię w oczach tych, którzy cię śledzą — rzekła z uśmiechem kapłanka.
 
-hammers, the sound of saws in the hands of cabinet makers; at times the
+Człowiek, przebrany za harrańczyka, włożył sobie na głowę wieniec z róż i w towarzystwie kapłanki poszedł na pierwsze piętro, gdzie niebawem rozległy się dźwięki fletu i szczęk pucharów. Phuta zaś dwaj niżsi kapłani zaprowadzili do łaźni w ogrodzie. Tam, wykąpawszy go i utrefiwszy włosy, włożyli na niego białe szaty.
 
-cry of a drunken man, or a call for assistance.
+Z łazienki wszyscy trzej znowu wyszli między drzewa; minęli kilka ogrodów, wreszcie znaleźli się na pustym placu.
 
-The streets along which Phut and the slave passed were narrow for the
+— Tam — rzekł do Phuta jeden z kapłanów — są dawne groby, tam miasto, a tu świątynia. Idź, gdzie chcesz, i niechaj mądrość wskazuje ci drogę, a święte słowa bronią od niebezpieczeństw.
 
-greater part, crooked and full of holes. As they approached the end of
+Dwaj kapłani cofnęli się do ogrodu, a Phut został sam. Noc bezksiężycowa była dość widna. Z daleka, otulony we mgłę, migotał Nil, wyżej iskrzyło się siedem gwiazd Wielkiej Niedźwiedzicy. Nad głową podróżnego wznosił się Orion, a nad ciemnymi pylonami płonęła gwiazda Syriusz.
 
-the journey, the stone houses were lower and lower, those of one story
+„U nas gwiazdy mocniej świecą” — pomyślał Phut. Zaczął szeptać modlitwy w nieznanym języku i skierował się ku świątyni.
 
-more frequent, and there were more gardens, or rather palms, fig-trees,
+Gdy odszedł kilkadziesiąt kroków, z jednego ogrodu wychylił się człowiek i śledził podróżnego. Lecz prawie w tej samej chwili spadła tak gęsta mgła, że na placu, oprócz dachów świątyni, nie można było nic dojrzeć.
 
-and stunted acacias, which, inclining out from between the walls,
+Po pewnym czasie harrańczyk natknął się na wysoki mur. Spojrzał na niebo i począł iść ku zachodowi. Co chwilę przelatywały nad nim nocne ptaki i wielkie nietoperze. Mgła zrobiła się tak gęstą, że musiał dotykać ściany, aby jej nie zgubić. Wędrówka trwała dość długo, gdy nagle Phut znalazł się przed niską furtką, nabitą mnóstwem brązowych gwoździ. Zaczął je liczyć od lewej ręki z góry, przy czym jedne mocno naciskał, inne zakręcał.
 
-seemed to have the intention to escape from their places. On the Street
+Gdy tym sposobem poruszył ostatni gwóźdź u dołu, drzwi cicho otworzyły się. Harrańczyk posunął się kilka kroków i znalazł się w ciasnej niszy, w której panowała zupełna ciemność.
 
-of Tombs the view changed on a sudden. In place of stone buildings
+Począł ostrożnie próbować nogą gruntu, aż trafił jakby na krawędź studni, z której wiał chłód. Tu usiadł i śmiało zsunął się w głąb przepaści, chociaż w tym miejscu i w tym kraju znajdował się dopiero pierwszy raz.
 
-there were broad gardens, and in the middle of them splendid villas.
+Przepaść jednak nie była głęboka. Phut równymi nogami stanął na pochyłej podłodze i wąskim korytarzem zaczął schodzić na dół z taką pewnością, jakby drogę znał od dawna.
 
-The negro stopped before one of the gates and quenched his torch.
+W końcu kurytarza były drzwi. Przybysz znalazł po omacku kołatkę i trzy razy zapukał. W odpowiedzi odezwał się głos, nie wiadomo skąd pochodzący:
 
-"Here is the 'Green Star,'" said he, and, making a low bow to Phut, he
+— Ty, który w nocnej godzinie zakłócasz spokój świętego miejsca, czy masz prawo tu wchodzić?
 
-turned homeward.
+— Nie skrzywdziłem męża, kobiety ani dziecka... Rąk moich nie splamiła krew... Nie jadłem potraw nieczystych... Nie zabrałem cudzego mienia... Nie kłamałem i nie zdradziłem wielkiej tajemnicy — spokojnie odpowiedział harrańczyk.
 
-The man of Harran knocked at the gate. After a while the gatekeeper
+— Jestżeś tym, którego oczekują, czy tym, za którego się podajesz? — zapytał głos po chwili.
 
-appeared. He looked attentively at the stranger, and muttered,
+— Jestem ten, który miał przyjść od braci ze Wschodu, ale to drugie imię jest także moje imię, a w mieście północnym posiadam dom i ziemię, jakom rzekł obcym — odpowiedział Phut.
 
-"Anael, Sachiel."
+Otworzyły się drzwi i harrańczyk wszedł do obszernej piwnicy, którą oświetlała lampka płonąca na stoliku przed purpurową zasłoną. Na zasłonie była wyhaftowana złotem skrzydlata kula z dwoma wężami.
 
-"Amabiel, Abalidot," answered Phut.
+Na boku stał kapłan egipski w białej szacie.
 
-"Be greeted," said the gatekeeper; and he opened quickly to the
+— Który tu wszedłeś — rzekł kapłan, wskazując ręką Phuta — czy wiesz, co opowiada ten znak na zasłonie?
 
-visitor.
+— Kula — odparł przybysz — jest obrazem świata, na którym mieszkamy, a skrzydła wskazują, że świat ten unosi się w przestrzeni jak orzeł.
 
-When he had passed some tens of steps between trees, Phut found himself
+— A węże?... — spytał kapłan.
 
-in the antechamber of the villa, where the priestess whom he knew
+— Dwa węże przypominają mędrcowi, że kto by zdradził tę wielką tajemnicę, umrze podwójnie — ciałem i duszą.
 
-greeted him. Farther in stood some man with black beard and hair; so
+Po chwili milczenia kapłan znowu zapytał:
 
-much like the man of Harran was he, that Phut could not hide his
+— Jeżeliś jest w samej rzeczy Beroes (tu schylił głowę), wielki prorok Chaldei (znowu schylił głowę), dla którego nie ma tajemnic na ziemi ani w niebie, racz powiedzieć słudze twemu: która gwiazda jest najdziwniejsza?
 
-astonishment.
+— Dziwnym jest Hor-set, który obchodzi niebo w ciągu dwunastu lat, gdyż dokoła niego krążą cztery mniejsze gwiazdy. Ale dziwniejszym jest Horka
 
-"He will take thy place in the eyes of those who are spying thee," said
+Wysłuchawszy tego egipski kapłan upadł na twarz przed Chaldejczykiem. Następnie wręczył mu purpurową szarfę i welon z muślinu, pokazał, gdzie stoją kadzidła, i wśród niskich ukłonów opuścił pieczarę.
 
-the priestess, smiling.
+Chaldejczyk został sam. Włożył szarfę na prawe ramię, zakrył twarz welonem i wziąwszy złotą łyżkę nasypał w nią kadzidła, które zapalił u lampki przed zasłoną. Szepcząc obrócił się trzy razy w koło, a dym kadzidła opasał go jakby potrójnym pierścieniem.
 
-The man who was disguised as Phut put a garland of roses on his head,
+Przez ten czas w pustej pieczarze zapanował dziwny niepokój. Zdawało się, że sufit idzie w górę i rozsuwają się ściany. Purpurowa zasłona na ołtarzu chwiała się niby poruszana przez ukryte ręce. Powietrze zaczęło falować, jakby wśród niego przelatywały stada niewidzialnych ptaków.
 
-and in company with the priestess went to the first story, where the
+Chaldejczyk rozsunął szatę na piersiach i wydobył złoty medal pokryty tajemniczymi znakami. Pieczara drgnęła, święta zasłona poruszyła się gwałtowniej, a w różnych punktach izby ukazały się płomyki.
 
-sound of flutes and the clatter of goblets were heard soon after.
+Wtedy mag wzniósł ręce do góry i zaczął mówić:
 
-Meanwhile two inferior priests conducted Phut to a bath in the garden.
+— „Ojcze niebieski, łaskawy i miłosierny, oczyść duszę moją... Ześlij na niegodnego sługę swoje błogosławieństwa i wyciągnij wszechmocne ramię na duchy buntownicze, abym mógł okazać moc Twoją...
 
-After the bath they curled his hair and put white robes on him.
+Oto znak, którego dotykam w waszej obecności... Otom jest — ja — oparty na pomocy bożej, przewidujący i nieustraszony... Otom jest potężny i wywołuję was, i zaklinam... Przyjdźcie tu, posłuszne w imię Aye, Saraye, Aye, Saraye...”
 
-From the bath all three went out again among the trees, passed a number
+W tej chwili z różnych stron odezwały się jakieś głosy. Około lampki przeleciał jakiś ptak, potem szata rudej barwy, następnie człowiek z ogonem, nareszcie kogut w koronie, który stanął na stoliku przed zasłoną.
 
-of gardens, and found themselves in an empty space finally.
+Chaldejczyk znowu mówił:
 
-"There," said one of the priests, "are the ancient tombs; on that side
+— „W imię wszechmocnego i wiekuistego Boga... Amorul, Tanecha, Rabur, Latisten...”
 
-is the city, and here the temple. Go whithersoever Thou wishest. May
+Dalekie głosy odezwały się po raz drugi.
 
-wisdom point out the road to thee, and sacred words guard thee from
+— „W imię prawdziwego i wiecznie żyjącego Eloy, Archima, Rabur, zaklinam was i wzywam... Przez imię gwiazdy, która jest słońcem, przez ten jej znak, przez chwalebne i straszne imię Boga żywego...”
 
-perils."
+Nagle wszystko ucichło. Przed ołtarzem ukazało się ukoronowane widmo z berłem w ręku, siedzące na lwie.
 
-The two priests went back to the garden, and Phut was in solitude. The
+— Beroes!... Beroes!... — zawołało widmo stłumionym głosem — po co mnie wywołujesz?
 
-moonless night was rather clear. From afar, covered with mist,
+— Chcę, ażeby bracia moi z tej świątyni przyjęli mnie szczerym sercem i nakłonili ucha do słów, które przynoszę im od braci z Babilonu — odpowiedział Chaldejczyk.
 
-glittered the Nile; higher up gleamed the seven stars of the Great
+— Niech się tak stanie — rzekło widmo i znikło.
 
-Bear. Over the head of the stranger was Orion, and above the dark
+Chaldejczyk został bez ruchu, jak posąg, z odrzuconą w tył głową, z rękoma wzniesionymi do góry. Stał tak przeszło pół godziny w pozycji niemożliwej dla zwykłego człowieka.
 
-pylons flamed the star Sirius.
+W tym czasie cofnął się kawał muru tworzącego ścianę pieczary i weszli trzej kapłani egipscy. Na widok Chaldejczyka, który zdawał się leżeć w powietrzu, oparty plecami o niewidzialną podporę, kapłani zaczęli spoglądać na siebie ze zdumieniem. Najstarszy rzekł:
 
-"The stars shine in our land more brightly," thought Phut.
+— Dawniej bywali u nas tacy, ale dziś nikt tego nie potrafi.
 
-He began to whisper prayers in an unknown tongue, and turned toward the
+Obchodzili go ze wszystkich stron, dotykali zdrętwiałych członków i z niepokojem patrzyli na jego oblicze, żółte i bezkrwiste jak u trupa.
 
-temple.
+— Czy umarł?... — zapytał najmłodszy.
 
-When he had gone a number of steps, from one of the gardens a man
+Po tych słowach pochylone w tył ciało Chaldejczyka wróciło do pionowej postawy. Na twarzy ukazał się lekki rumieniec, a wzniesione ręce opadły. Westchnął, przetarł oczy jak człowiek zbudzony ze snu, spojrzał na przybyłych i po chwili rzekł:
 
-pushed out and followed him. But almost at that very moment such a
+— Ty — zwrócił się do najstarszego — jesteś Mefres, arcykapłan świątyni Ptah w Memfis... Ty — jesteś Herhor, arcykapłan Amona w Tebach, najpierwszy mocarz po królu w tym państwie... Ty — wskazał na najmłodszego — jesteś Pentuer, drugi prorok w świątyni Amona i doradca Herhora.
 
-thick fog fell on the place that it was quite impossible to see aught
+— A ty niewątpliwie jesteś Beroes, wielki kapłan i mędrzec babiloński, którego przyjście oznajmiono nam przed rokiem — odparł Mefres.
 
-save the roofs of the temple.
+— Powiedziałeś prawdę — rzekł Chaldejczyk. Uścisnął ich po kolei, a oni schylali głowy przed nim.
 
-After a certain time the man of Harran came to a high wall. He looked
+— Przynoszę wam wielkie słowa z naszej wspólnej ojczyzny, którą jest mądrość — mówił Beroes. — Raczcie ich wysłuchać i działajcie, jak potrzeba.
 
-up at the sky and began to go westward. From moment to moment night
+Na znak Herhora Pentuer cofnął się w głąb pieczary i wyniósł trzy fotele z lekkiego drzewa dla starszych, a niski taboret dla siebie. Usiadł w bliskości lampki i wydobył z zanadrza mały sztylet i tabliczkę pokrytą woskiem.
 
-birds and great bats flew above him.
+Gdy wszyscy trzej zajęli fotele, Chaldejczyk zaczął:
 
-The mist had become so dense that he was forced to touch the wall so as
+— Do ciebie, Mefresie, mówi najwyższe kolegium kapłanów w Babilonie. Święty stan kapłański w Egipcie upada. Wielu z nich gromadzą pieniądze i kobiety i pędzą życie wśród uciech. Mądrość jest zaniedbana. Nie macie władzy ani nad światem niewidzialnym, ani nawet nad własnymi duszami. Niektórzy z was utracili wiarę wyższą, a dla źrenic waszych zakryta jest przyszłość. Nawet dzieje się gorzej, bo wielu kapłanów czując, że siły ich ducha są wyczerpane, weszli
 
-not to lose it. The journey had lasted rather long when all at once
+To mówi najwyższe kolegium: jeżeli chcecie powrócić na dobrą drogę, Beroes zostanie z wami przez kilka lat, ażeby za pomocą iskry przyniesionej z wielkiego ołtarza Babilonu rozniecić prawdziwe światło nad Nilem.
 
-Phut found himself before a low door with a multitude of bronze nail
+— Wszystko tak jest, jak mówisz — odparł zasmucony Mefres. — Zostań przeto między nami kilka lat, ażeby dorastająca młodzież przypomniała sobie waszą mądrość.
 
-heads. He fell to counting these from the left side on the top; at the
+— A teraz do ciebie, Herhorze, słowa od najwyższego kolegium...
 
-same time he pressed some of them powerfully, others he turned.
+Herhor pochylił głowę.
 
-When he had pressed the last nail at the bottom, the door opened. The
+— Skutkiem zaniedbania wielkich tajemnic kapłani wasi nie spostrzegli, że dla Egiptu nadchodzą złe lata. Grożą wam klęski wewnętrzne, które tylko cnota i mądrość oddalić może. Lecz gorsze jest, że gdybyście w ciągu następnych dziesięciu lat rozpoczęli wojnę z Asyrią, wojska jej rozgromią wasze, przyjdą nad Nil i zniszczą wszystko, co tu istnieje od wieków.
 
-man of Harran advanced a few steps, and found himself in a narrow niche
+Taki złowrogi układ gwiazd, jaki dziś cięży nad Egiptem, zdarzył się pierwszy raz za dynastii czternastej, kiedy wasz kraj zdobyli i złupili Hyksosi. Trzeci raz powtórzy się on za pięćset lub sześćset lat od strony Asyrii i ludu Paras
 
-where there was utter darkness.
+Kapłani słuchali przerażeni. Herhor był blady, Pentuerowi wypadła z rąk tabliczka. Mefres ujął wiszący na piersiach amulet i modlił się zeschłymi wargami.
 
-He tried the ground carefully with his foot till he struck upon
+— Strzeżcie się więc Asyrii — ciągnął Chaldejczyk — bo dziś jej godzina. Okrutny to lud!... gardzi pracą, żyje wojną. Zwyciężonych wbija na pale lub obdziera ze skóry, niszczy zdobyte miasta, a ludność uprowadza w niewolę. Odpoczynkiem ich jest polować na srogie zwierzęta, a zabawą — strzelać z łuku do jeńców lub wyłupywać im oczy. Cudze świątynie zamieniają w gruzy, naczyniami bogów posługują się przy swych ucztach, a kapłanów i mędrców robią swoimi błaznami. Ozdobą ich ścian są skóry żywych ludzi, a ich stołu — zakrwawione głowy nieprzyjaciół.
 
-something like the brink of a well from which issued coolness. He sat
+Gdy Chaldejczyk umilknął, odezwał się czcigodny Mefres:
 
-down then and slipped fearlessly into the abyss, though he found
+— Wielki proroku, rzuciłeś strach na dusze nasze, a nie wskazujesz ratunku. Może być, i z pewnością tak jest, skoro mówisz, że losy przez pewien czas będą dla nas niełaskawe; lecz — jakże tego uniknąć? Są w Nilu miejsca niebezpieczne, z których żadna łódź nie ocali się; toteż mądrość sterników omija groźne wiry. Toż samo z nieszczęściami narodów. Naród jest czółnem, a czas rzeką, którą w pewnych epokach mącą wiry. Jeżeli zaś drobna skorupa rybacza umie wywinąć się od klęski, dlaczego miliony ludu nie mogłyby w podobnych warunkach ujść zagłady?
 
-himself in that place and in Egypt for the first time.
+— Mądre są słowa twoje — odparł Beroes — ale tylko w pewnej części potrafię na nie odpowiedzieć.
 
-The opening was not deep. Phut stood erect on a sloping pavement, and
+— Miałżebyś nie znać wszystkiego, co się stanie? — zapytał Herhor.
 
-began to descend along a narrow corridor with as much confidence as if
+— Nie pytaj mnie o to, co wiem, a czego nie mogę powiedzieć. Najważniejszą rzeczą dla was jest utrzymać dziesięcioletni pokój z Asyrią, a to leży w granicy waszych sił.
 
-he had known the passage for a lifetime.
+Asyria jeszcze boi się was, nic nie wie o zbiegu złych losów nad waszym krajem i chce rozpocząć wojnę z ludami Północy i Wschodu, które siedzą dokoła morza. Przymierze więc z nią moglibyście zawrzeć dzisiaj...
 
-At the end of the corridor was a door. By groping the stranger found a
+— Na jakich warunkach? — wtrącił Herhor.
 
-knocker, and struck three times with it. In answer came a voice, it was
+— Na bardzo dobrych. Asyria odstąpi wam ziemię izraelską aż do miasta Akka i kraj Edom
 
-unknown from what direction.
+— A Fenicja?... — spytał Herhor.
 
-"Hast thou, who art disturbing in a night hour the peace of a holy
+— Strzeżcie się pokusy!... — zawołał Beroes. — Gdyby dziś faraon wyciągnął rękę po Fenicję, za miesiąc armie asyryjskie, przeznaczone na północ i wschód, zwróciłyby się na południe, a przed upływem roku konie ich pławiłyby się w Nilu...
 
-place, the right to enter?"
+— Ależ Egipt nie może wyrzec się wpływu na Fenicją! — przerwał z wybuchem Herhor.
 
-"I have done no wrong to man, child, or woman. Blood has not stained my
+— Gdyby się nie wyrzekł, sam przygotowałby własną zgubę — mówił Chaldejczyk. — Zresztą, powtarzam słowa najwyższego kolegium: „Powiedz Egiptowi — nakazywali bracia z Babilonu — ażeby na dziesięć lat przytulił się do swej ziemi jak kuropatwa, bo czyha na niego jastrząb złych losów. Powiedz, że my, Chaldejczycy, nienawidzimy Asyryjczyków bardziej niż Egipcjanie, gdyż znosimy ciężar ich władzy; lecz mimo to zalecamy Egiptowi pokój z tym ludem krwiożerczym. Dziesięć lat — mały to przeciąg czasu, po którym możecie nie tylko odzyskać dawne pozycje, ale i nas ocalić.”
 
-hands. I have eaten no unclean food. I have not taken another's
+— To prawda! — rzekł Mefres.
 
-property. I have not lied. I have not betrayed the great secret,"
+— Rozważcie tylko — ciągnął Chaldejczyk. — Jeżeli Asyria z wami będzie prowadziła wojnę, pociągnie Babilon, który brzydzi się wojną, wyczerpie nasze bogactwa i zatrzyma pracę mądrości. Choćbyście nie ulegli, kraj wasz na długie lata będzie zniszczony i straci nie tylko dużo ludności, ale i te ziemie urodzajne, które bez waszych starań piasek zasypałby w ciągu roku.
 
-answered the man of Harran, calmly.
+— To rozumiemy — wtrącił Herhor — i dlatego nie myślimy zaczepiać Asyrii. Ale Fenicja...
 
-"Art Thou he for whom we are waiting, or he who in public Thou
+— Cóż wam szkodzi — mówił Beroes — że asyryjski rozbójnik ściśnie fenickiego złodzieja? Na tym zyskają nasi i wasi kupcy. A jeżeli zechcecie posiadać Fenicjan, pozwólcie, ażeby osiedlali się na waszych brzegach. Jestem pewny, że najbogatsi z nich i najzręczniejsi uciekną spod władzy Asyryjczyków.
 
-declarest thyself to be?" inquired the voice, after a while.
+— Cóż by się stało z naszą flotą, gdyby Asyria osiedliła się w Fenicji? — pytał Herhor.
 
-"I am he who was to come from brethren in the East; but that other name
+— Nie jest to naprawdę wasza flota, tylko fenicka — odparł Chaldejczyk. — Gdy więc zabraknie wam tyryjskich i sydońskich statków, zaczniecie budować własne i ćwiczyć Egipcjan w sztuce żeglarskiej. Jeżeli będziecie mieli rozum i dzielny charakter, wydrzecie Fenicjanom handel na całym zachodzie...
 
-is mine also, and in the northern city I possess a house and land, as I
+Herhor machnął ręką.
 
-have told other persons."
+— Powiedziałem, co mi kazano — rzekł Beroes — a wy czyńcie, co wam się podoba. Lecz pamiętajcie, że ciąży nad wami dziesięć lat złowrogich.
 
-The door opened, and Phut walked into a spacious cellar which was
+— Zdaje mi się, święty mężu — wtrącił Pentuer — że mówiłeś i o klęskach wewnętrznych, jakie grożą Egiptowi w przyszłości. Co to będzie?... jeżeli raczysz odpowiedzieć słudze twemu.
 
-lighted by a lamp burning on a small table before a purple curtain. On
+— O to nie pytajcie mnie. Te rzeczy lepiej powinniście znać aniżeli ja, człowiek obcy. Przezorność odkryje wam chorobę, a doświadczenie poda lekarstwa.
 
-the curtain was embroidered in gold a winged globe with two serpents.
+— Lud jest strasznie uciskany przez wielkich! — szepnął Pentuer.
 
-At one side stood an Egyptian priest in a white robe.
+— Pobożność upadła!... — rzekł Mefres.
 
-"Dost them who hast entered," asked the priest, pointing at Phut, "know
+— Jest wielu ludzi, którzy wzdychają do wojny za granicą — dodał Herhor. — Ja zaś od dawna widzę, że jej prowadzić nie możemy. Chyba za dziesięć lat...
 
-what this sign on the curtain signifies?"
+— Więc zawrzecie traktat z Asyrią? — spytał Chaldejczyk.
 
-"The globe," answered the stranger, "is an image of the world on which
+— Amon, który zna moje serce — mówił Herhor — wie, jak mi podobny traktat jest obmierzły... Tak jeszcze niedawno nędzni Asyryjczycy płacili nam daniny!... Lecz jeżeli ty, ojcze święty, i najwyższe kolegium mówicie, że losy są przeciwko nam, musimy zawrzeć traktat...
 
-we live; the wings indicate that it is borne through space like an
+— Prawda, że musimy!... — dodał Mefres.
 
-eagle."
+— W takim razie zawiadomcie kolegium w Babilonie o postanowieniu, a oni sprawią, że król Assar przyśle do was poselstwo. Ufajcie mi, że układ ten jest bardzo korzystny: bez wojny zwiększacie swoje posiadłości!... Wreszcie — rozmyślało nad nim nasze kolegium kapłańskie.
 
-"And the serpents?" asked the priest.
+— Oby spadły na was wszelkie błogosławieństwa: dostatki, władza i mądrość — rzekł Mefres. — Tak, trzeba dźwignąć nasz stan kapłański, a ty, święty mężu Beroesie, pomożesz nam.
 
-"The two serpents remind him who is wise that whoso betrays the great
+— Trzeba nade wszystko ulżyć nędzy ludu — wtrącił Pentuer.
 
-secret will die a double death, he will die soul and body."
+— Kapłani... lud!... — mówił jakby do siebie Herhor. — Tu przede wszystkim trzeba powściągnąć tych, którzy pragną wojny... Prawda, że jego świątobliwość faraon jest za mną, i zdaje mi się, żem pozyskał niejaki wpływ na serce dostojnego następcy (oby żyli wiecznie!). Ale Nitager, któremu wojna jest potrzebna jak rybie woda... Ale naczelnicy wojsk najemnych, którzy dopiero podczas wojny coś znaczą u nas... Ale nasza arystokracja, która myśli, że wojna spłaci fenickie długi, a im przyniesie majątek...
 
-After a moment of silence the priest continued,
+— Tymczasem rolnicy upadają pod nawałem prac, a robotnicy publiczni burzą się z powodu zdzierstwa przełożonych — wtrącił Pentuer.
 
-"If Thou art in real fact Beroes" (here he inclined his head), "the
+— Ten zawsze swoje! — mówił zadumany Herhor. — Myśl ty sobie, Pentuerze, o chłopach i robotnikach, ty, Mefresie, o kapłanach. Nie wiem, co wam się uda zrobić, ale ja — przysięgam, że gdyby mój własny syn pchał Egipt do wojny, zetrę własnego syna.
 
-great prophet of Chaldea" (he inclined his head a second time), "for
+— Tak uczyń — rzekł Chaldejczyk. — Zresztą, kto chce, niech toczy wojnę, byle nie w tych stronach, gdzie może zetknąć się z Asyrią.
 
-whom there is no secret in heaven or on earth, be pleased to inform thy
+Na tym posiedzenie zakończyło się. Chaldejczyk włożył szarfę na ramię i zasłonę na twarz, Mefres i Herhor stanęli po obu stronach jego, a za nimi Pentuer, wszyscy zwróceni do ołtarza.
 
-servant which star is the most wonderful."
+Gdy Beroes skrzyżowawszy ręce na piersiach szeptał, w podziemiu zaczął się znowu niepokój i było słychać niby daleki zgiełk, który zdziwił asystentów. Wówczas mag odezwał się głośno:
 
-"Wonderful is Hor-set, [Jupiter] which encircles heaven in the course
+— Baralanensis, Baldachiensis, Paumachiae, wzywam was, abyście byli świadkami naszych układów i wspierali nasze zamiary...
 
-of twelve years; for four smaller stars go around it. But the most
+Rozległ się dźwięk trąb tak wyraźny, że Mefres schylił się do ziemi, Herhor obejrzał się zdziwiony, a Pentuer ukląkł, zaczął drżeć i zasłonił uszy.
 
-wonderful is Horka, [Saturn] which encircles heaven in thirty years;
+Purpurowa kotara na ołtarzu zachwiała się, a jej fałdy przybrały taką formę, jak gdyby spoza niej chciał wyjść człowiek.
 
-for it has subject to it not only stars, but a great ring which
+— Bądźcie świadkami — wołał zmienionym głosem Chaldejczyk — niebieskie i piekielne moce. A kto by nie dotrzymał umowy albo zdradził jej tajemnicę, niech będzie przeklęty...
 
-vanishes sometimes."
+— „Przeklęty!...” — powtórzył jakiś głos.
 
-On hearing this, the Egyptian priest prostrated himself before the
+— I zniszczony...
 
-Chaldean. Then he gave him a purple scarf and a muslin veil, indicated
+— „I zniszczony...”
 
-where the incense was, and left the cave with low obeisances.
+— W tym widzialnym i tamtym niewidzialnym życiu. Przez niewysłowione imię Jehowa, na dźwięk którego ziemia drży, morze cofa się, ogień gaśnie, rozkładają się elementy natury...
 
-The Chaldean remained alone. He put the scarf on his right shoulder,
+W jaskini zapanowała formalna burza. Dźwięki trąb mieszały się z odgłosem jakby dalekich piorunów. Zasłona ołtarza prawie poziomo uniosła się i poza nią, wśród migotliwych błyskawic, ukazały się dziwne twory, na poły ludzkie, na poły roślinne i zwierzęce, skłębione i pomieszane.
 
-covered his face with the veil, and, taking a golden spoon sprinkled
+Nagle wszystko ucichło i Beroes z wolna wzniósł się w powietrze, ponad głowy trzech asystujących kapłanów.
 
-into it incense, which he lighted at the lamp before the curtain.
+O godzinie ósmej z rana harrańczyk Phut wrócił do fenickiego zajazdu „Pod Okrętem”, gdzie już znalazły się jego worki i skrzynia zabrana przez złodziei. Zaś w kilka minut po nim przyszedł zaufany sługa Asarhadona, którego gospodarz zaprowadził do piwnicy i krótko spytał:
 
-Whispering, he turned three times in a circle, and the smoke of the
+— Cóż?...
 
-incense surrounded him with a triple ring, as it were.
+— Byłem przez całą noc — odparł sługa — na placu, gdzie jest świątynia Seta. Około dziesiątej wieczorem, z ogrodu, który leży o pięć posesji dalej aniżeli dom „Zielonej Gwiazdy”, wyszło trzech kapłanów. Jeden z nich, z czarną brodą i włosami, skierował stopy swoje przez plac, do świątyni Seta. Pobiegłem za nim, ale zaczęła padać mgła i zginął mi z oczu. Czy wrócił pod „Zieloną Gwiazdę” i kiedy — nie wiem.
 
-During this time a wonderful disturbance prevailed in the cave. It
+Gospodarz zajazdu, wysłuchawszy sprawozdania, stuknął się w czoło i zaczął mruczeć do siebie:
 
-seemed as if the top were rising and the sides spreading out. The t
+— Więc mój harrańczyk, jeżeli ubiera się w strój kapłana i chodzi do świątyni, musi być kapłanem. A jeżeli nosi brodę i włosy, musi być kapłanem chaldejskim. A jeżeli po kryjomu widuje się z tutejszymi kapłanami, więc jest w tym jakieś szelmostwo. Nie powiem o tym policji, bo mógłbym złapać się. Ale zawiadomię którego z wielkich Sydończyków, bo może być w tym interes do zrobienia, jeżeli nie dla mnie, to dla naszych.
 
-purple curtain at the altar quivered, as if moved by hidden fingers.
+Niedługo wrócił inny posłaniec, Asarhadon i z tym zeszedł do piwnicy i usłyszał następną relację:
 
-The air began to move in waves, as if flocks of unseen birds were
+— Przez całą noc stałem naprzeciw domu pod „Zieloną Gwiazdą”. Harrańczyk tam był, upił się i wyrabiał takie krzyki, że aż policjant upominał odźwiernego...
 
-flying through it.
+— Hę?... — spytał gospodarz. — Harrańczyk był pod „Zieloną Gwiazdą” przez całą noc i ty go widziałeś?
 
-The Chaldean opened the robe on his bosom, and drew forth a gold medal
+— I nie tylko ja, ale policjant...
 
-covered with mysterious characters. The cave trembled, the sacred
+Asarhadon sprowadził pierwszego sługę i każdemu z nich kazał powtórzyć jego opowiadanie. Powtórzyli wiernie, każdy swoje. Z czego wynikło, że Phut harrańczyk przez całą noc bawił się pod „Zieloną Gwiazdą” ani na chwilę nie opuszczając jej, a jednocześnie — że późnym wieczorem szedł do świątyni Seta, z której nie wracał.
 
-curtain moved with violence, and little flames appeared in space at
+— O!... — mruczał Fenicjanin — w tym wszystkim kryje się bardzo wielkie szelmostwo... Muszę czym prędzej zawiadomić starszych gminy fenickiej, że ten Hetyta umie bywać jednocześnie w dwu miejscach. Zarazem poproszę go, ażeby wyniósł się z mego zajazdu... Nie lubię takich, którzy mają dwie postacie: jedną swoją, drugą na zapas. Bo taki człowiek jest albo wielki złodziej, albo czarownik, albo spiskowiec.
 
-various points.
+Ponieważ Asarhadon lękał się tych rzeczy, więc przeciw czarom zabezpieczył się modlitwami do wszystkich bogów, jacy ozdabiali jego szynkownię. Potem pobiegł do miasta, gdzie zawiadomił o fakcie starszego gminy fenickiej i starszego cechu złodziei. Nareszcie wróciwszy do domu wezwał dziesiętnika policji i oświadczył mu, że Phut może być człowiekiem niebezpiecznym. W końcu zażądał od harrańczyka, ażeby opuścił jego zajazd, któremu nie przynosi zysków, tylko podejrzenia i straty.
 
-Then the seer raised his hands and began,
+Phut chętnie zgodził się na propozycją i oświadczył gospodarzowi, że jeszcze dzisiejszego wieczora odpłynie do Tebów.
 
-"Heavenly Father, gracious and merciful, purify my spirit. Send down on
-
-Thy unworthy servant a blessing, and extend Thy almighty arm against
-
-rebellious spirits, so that I may manifest Thy power.
-
-"Here is the sign which I touch in thy presence. Here I am I, leaning
-
-on the assistance of that God, the foreseeing and the fearless. I am
-
-mighty, and summon and conjure thee. Come hither with obedience in the
-
-name of Aye, Saraye, Aye Saraye!"
-
-At that moment from various sides were heard voices as of distant
-
-trumpets. Near the lamp some bird flew past, then a robe of ruddy
-
-color, afterward a man with a tail, finally a crowned cock which stood
-
-on the table before the curtain.
-
-The Chaldean spoke again, f
-
-"In the name of the Almighty and Eternal Amorul, Tanecha, Rabur,
-
-Latisten."
-
-Distant sounds of trumpets were heard for a second time.
-
-"In the name of the just and ever-living Eloy, Archima, Rabu, I conjure
-
-and summon thee. In the name of the star, which is the sun, by this its
-
-sign, by the glorious and awful name of the living God."
-
-The trumpets sounded again, and stopped on a sudden. Before the altar
-
-appeared a crowned vision with a scepter in its hand, and sitting on a
-
-lion.
-
-"Beroes! Beroes!" cried the vision, with a restrained voice. "Why dost
-
-Thou summon me?"
-
-"I wish my brethren of this temple to receive me with sincere hearts,
-
-and incline their ears to the words which I bring them from brethren in
-
-Babylon," said the Chaldean.
-
-"Be it so," said the vision, and vanished.
-
-The Chaldean stood as motionless as a statue, with his head thrown
-
-back, with hands lifted upward. He stood thus half an hour in a
-
-position impossible for an ordinary person.
-
-During this time a part of the wall which formed one side of the cave
-
-pushed back, and three Egyptian priests entered. At sight of the
-
-Chaldean, who seemed to lie in the air, resting his shoulders on an
-
-invisible support, the priests looked at one another with amazement.
-
-The eldest said,
-
-"Long ago there were men like this among us, but no one has such power
-
-in our day."
-
-They walked around him on all sides, touched his stiffened members, and
-
-looked with fear at his face, which was bloodless and sallow, like that
-
-of a corpse.
-
-"Is he dead?" asked the youngest.
-
-After these words the body of the Chaldean, which had been bent
-
-backward, returned to a perpendicular position. On his face appeared a
-
-slight flush, and his upraised hands dropped. He sighed, rubbed his
-
-eyes like a man roused from sleep, looked at the priests, and said
-
-after a while, turning to the eldest,
-
-"Thou art Mefres, high priest of the temple of Ptah in Memphis. Thou
-
-art Herhor, high priest of Amon in Thebes, the first dignity in this
-
-state after the pharaoh. Thou," he indicated the youngest, "art
-
-Pentuer, the second prophet in the temple of Amon, and the adviser of
-
-Herhor."
-
-"Thou art undoubtedly Beroes, the high priest and sage of Babylon,
-
-whose coming was announced to us a year ago," answered Mefres.
-
-"Thou hast told truth," said the Chaldean.
-
-He embraced them in turn, and they inclined before him.
-
-"I bring you great words from our common fatherland, which is Wisdom,"
-
-said Beroes. "Be pleased to listen and act as is needful."
-
-At a sign from Herhor, Pentuer withdrew to the rear of the cave and
-
-brought out three armchairs of light wood for his superiors, and a low
-
-stool for his own use. He seated himself near the lamp, and took from
-
-his bosom a small dagger and wax-covered tablets.
-
-When all three had occupied their chairs, the Chaldean began,
-
-"Mefres, the highest college of priests in Babylon addresses thee: 'The
-
-sacred order of priests in Egypt is falling. Many priests collect money
-
-and women, and pass their lives amid pleasure. Wisdom is neglected. Ye
-
-have no power over the world, which is invisible. Ye have no power over
-
-your own souls. Some of you have lost the highest faith, and the future
-
-is concealed from you. Things worse than this even happen; for many
-
-priests, feeling that their spiritual power is exhausted, have entered
-
-the way of falsehood and deceive simple people by cunning devices.'
-
-"The highest college says this: 'If ye wish to return to the good road,
-
-Beroes will remain some years with you, so as to rouse true light on
-
-the Nile by the aid of a spark brought from the high altar of
-
-Babylon.'."
-
-"All is as Thou sayest," answered Mefres, confused. "Remain with us
-
-therefore a number of years, so that the youth growing up at present
-
-may remember thy wisdom."
-
-"And now, Herhor, to thee come words from the highest college."
-
-Herhor inclined his head.
-
-"Because ye neglect the great secrets, your priests have not noted that
-
-evil years are approaching Egypt. Ye are threatened by internal
-
-disasters from which only virtue and wisdom can save you. But the worst
-
-is that if in the course of the coming decade ye begin war with
-
-Assyria, she will defeat your forces. Her armies will come to the Nile
-
-and destroy all that has existed here for ages.
-
-"Such an ominous juncture of stars as is now weighing on Egypt happened
-
-first during the XIV. dynasty, when the Hyksos kings captured and
-
-plundered this country. It will come for the third time in five or six
-
-hundred years from Assyria and the people of Paras, who dwell to the
-
-east of Chaldea."
-
-The priests listened in terror. Herhor was pale; the tablets fell from
-
-Pentuer's fingers; Mefres held the amulet hanging on his breast, and
-
-prayed while his lips were parching.
-
-"Be on your guard then against Assyria," continued the Chaldean, "for
-
-her hour is the present. The Assyrians are a dreadful people! They
-
-despise labor, they live by war. They conquer, they impale on stakes or
-
-flay living people, they destroy captured cities and lead away their
-
-inhabitants to bondage. For them to kill savage beasts is repose; to
-
-pierce prisoners with arrows or scoop out their eyes is amusement.
-
-Temples they turn into ruins, the vessels of the gods they use at their
-
-banquets, and make buffoons of priests and sages. They adorn their
-
-walls with skins torn from living people, and their tables with the
-
-blood-stained skulls of their enemies."
-
-When the Chaldean ceased speaking, the worthy Mefres answered,
-
-"Great prophet, Thou hast cast fear on our souls, and dost not indicate
-
-a remedy. It may be true, and to a certainty is so, since Thou hast
-
-said it, that the fates for a certain time will be against us, but how
-
-avoid this predicament? In the Nile there are dangerous places through
-
-which no boat can pass safely; so the wisdom of the helmsmen avoids
-
-deadly whirlpools. It is the same with misfortunes of nations. A nation
-
-is a boat, and an epoch is the river, which at certain periods has
-
-whirlpools. If the frail boat of a fisherman can avoid peril, why
-
-should not millions of people escape under similar conditions?"
-
-"Thy words are wise," replied Beroes, "but I can answer in part only."
-
-"Dost Thou not know all that will happen?" asked Herhor.
-
-"Ask me not touching that which I know, but which I may not disclose at
-
-this moment. Most important in your case is to keep peace for ten years
-
-with Assyria. Ye have power to do that. Assyria still dreads you; she
-
-knows not the juncture of evil fates above Egypt, and desires to wage
-
-war with northern and eastern nations who live near the seacoast. Ye
-
-might, therefore, conclude a treaty today with Assyria."
-
-"On what conditions?" asked Herhor.
-
-"On very good ones. Assyria will yield to you the land of Israel as far
-
-as the city of Akko, and the land of Edom to the city of Elath. So your
-
-boundaries will be advanced ten days march toward the north without
-
-war, and ten days toward the east also."
-
-"But Phoenicia?" inquired Herhor.
-
-"Approach not temptation!" exclaimed Beroes. "If the pharaoh were to
-
-stretch his hand today toward Phoenicia, in a month Assyrian armies
-
-intended for the north and east would turn southward, and a year hence
-
-or earlier their horses would be swimming in your sacred river."
-
-"Egypt cannot renounce influence over Phoenicia," interrupted Herhor,
-
-with an outburst.
-
-"Should she not renounce she would prepare her own ruin," said the
-
-Chaldean. "Moreover, I repeat the words of the highest college: 'Tell
-
-Egypt,' declared the brothers in Babylon, 'to cower to the earth for
-
-ten years, like a partridge, for the falcon of evil fate is watching
-
-her. Tell her that we Chaldeans hate Assyria more than do the
-
-Egyptians, for we endure the burden of its rule; but still we recommend
-
-to the Egyptians peace with that bloodthirsty nation. Ten years is a
-
-short period; after that not only can ye regain your ancient place, but
-
-ye can save us.'."
-
-"That is true!" added Mefres.
-
-"Only consider," continued the Chaldean, "should Assyria begin war with
-
-you, she would involve also Babylon, which hates warfare. War will
-
-exhaust our wealth and stop the labor of wisdom. Even were ye not
-
-defeated your country would be ruined for a long period. Ye would lose
-
-not only people, but the fertile soil, which would be buried by sand in
-
-the absence of earth-tillers."
-
-"We understand that," replied Herhor; "hence we have no thought of
-
-attacking Assyria. But Phoenicia."
-
-"What harm will it be to you," asked Beroes, "if the Assyrian robber
-
-squeezes the Phoenician thief? Your merchants and ours will gain by
-
-such action. But if ye want Phoenicians, let them settle on your
-
-shores. I am sure that the richest and most adroit of them would flee
-
-from Assyrian conquest."
-
-"What would happen to our fleet, if the Assyrians settled in
-
-Phoenicia?" inquired Herhor.
-
-"That is not your fleet, but the Phoenician," replied Beroes. "When
-
-Tyrian and Sidonian ships are lost to you, ye will build your own, and
-
-exercise Egyptians in navigation. If ye have mind and a practical
-
-character, ye will drive out Phoenician commerce from western regions."
-
-Herhor waved his hand.
-
-"I have told that which was commanded me," said Beroes, "and do ye that
-
-which pleaseth you. But remember that ten evil years are impending."
-
-"It seems to me, holy father," said Pentuer, "that Thou didst speak of
-
-internal troubles which threaten Egypt in the future. What will they
-
-be, if it please thee to answer thy servant?"
-
-"Do not ask. Those are things which ye ought to know better than I, who
-
-am a stranger. Clear sight will discover the disease, and experience
-
-will give the remedy."
-
-"Our working people are terribly oppressed by the great," whispered
-
-Pentuer.
-
-"Devotion has decreased," added Mefres.
-
-"There are many who sigh for a foreign war," began Herhor. "I have seen
-
-this long time that we cannot carry on one, unless ten years hence."
-
-"Then will ye conclude a treaty with Assyria?" inquired the Chaldean.
-
-"Amon, who knows my heart," answered Herhor, "knows how repugnant that
-
-treaty is to me. It is not so long since those vile Assyrians paid us
-
-tribute. But if thou, holy father, and the highest college say that the
-
-fates are against us, we must make the treaty."
-
-"We must indeed," added Mefres.
-
-"In that case inform the priests in Babylon of your decision, and they
-
-will arrange that King Assar shall send an embassy to Egypt. This
-
-treaty, believe me, is of great advantage; without war ye will increase
-
-your possessions. Indeed our priesthood have given deep thought to this
-
-question."
-
-"May all blessings fall on you, wealth, power, and wisdom," said
-
-Mefres. "Yes, we must raise our priestly order, and do thou, holy
-
-Beroes, assist us."
-
-"There is need, above all, to assuage the suffering of the people." put
-
-in Pentuer.
-
-"The priests! the people!" said Herhor, as if to himself. "Above all,
-
-it is needful in this case to restrain those who wish war. It is true
-
-that his holiness the pharaoh is with me, and I think I have gained
-
-influence over the heir, may he live through eternity! But Nitager, to
-
-whom war is as water to a fish; but the leaders of our mercenary
-
-forces, who only in war have significance; but our aristocracy, who
-
-think that war will pay Phoenician debts and give them property."
-
-"Meanwhile earth-tillers are fainting beneath an avalanche of labor,
-
-and public workmen are revolting against demands of overseers," added
-
-Pentuer.
-
-"He is always expressing his thought!" said Herhor, in meditation.
-
-"Think thou, Pentuer, of earth-tillers and laborers; thou, Mefres, of
-
-the priests. I know not what ye will effect, but I swear that if my own
-
-son favored war I would bind and destroy him."
-
-"Act in this way," said Beroes, "let him carry on war who wishes, but
-
-not in those regions where he can meet Assyria."
-
-With this the session ended. The Chaldean put his scarf on his shoulder
-
-and the veil on his face; Mefres and Herhor, one on each side of him,
-
-and behind him Pentuer, all turned toward the altar.
-
-When Beroes had crossed his hands on his breast, he whispered, and
-
-again subterranean disturbance set in, and they heard as it were a
-
-distant uproar, which astonished the assistants.
-
-"Baralanensis, Baldachiensis, Paumachiae," said the seer, aloud, "I
-
-summon thee to witness our stipulations and support our wishes."
-
-The sound of trumpets was heard so distinctly that Mefres bowed to the
-
-earth, Herhor looked around in astonishment, while Pentuer knelt, fell
-
-to trembling, and covered his ears.
-
-The purple curtain at the altar shook, and its folds took such a form
-
-as if a man were behind who wished to pass through it.
-
-"Be witnesses," cried the Chaldean, in a changed voice, "ye powers
-
-above and ye powers beneath! And cursed be he who observes not this
-
-treaty or betrays its secret."
-
-"Cursed!" repeated some voice.
-
-"And destroyed!"
-
-"And destroyed."
-
-"In this visible and in that invisible life. By the ineffable name of
-
-Jehovah, at the sound of which the earth trembles, the sea draws back,
-
-fire quenches, and the elements of nature become evident."
-
-A real tempest rose in the cave. The sound of trumpets was mingled with
-
-voices, as it were, of distant thunders.
-
-The curtain of the altar rose almost horizontally, and behind it, amid
-
-glittering lightning, appeared wonderful creatures, half human, half
-
-plant and animal, crowded and mingled together.
-
-Suddenly all was silent, and Beroes rose slowly in the air, higher than
-
-the heads of the priests there attending.
-
-At eight o'clock next morning Phut of Harran returned to the Phoenician
-
-inn "Under the Ship" to which his bags and casket stolen by thieves had
-
-been returned safely. A few minutes later came Asarhadon's confidential
-
-servant, whom the innkeeper took to the cellar and examined briefly,
-
-"Well?"
-
-"I was all night on the square where the temple of Set is," answered
-
-the servant. "At ten in the evening out of the garden which lies about
-
-four places farther than the house of the 'Green Star,' came three
-
-priests. One of them, with black beard and hair, turned his steps
-
-through the square toward the temple of Set. I ran after him, but mist
-
-fell, and he vanished from my eyes. Whether he returned to the 'Green
-
-Star' or when, I know not."
-
-The innkeeper, when he had heard this account, struck his forehead and
-
-muttered to himself,
-
-"So my man from Harran, if he dresses as a priest and goes to a temple,
-
-must be a priest; and if he wears beard and hair, he must be a Chaldean
-
-priest. But if he meets priests here in secret, there must be some
-
-rogue's tricks. I will not tell the police, for I might be caught. But
-
-I will inform some great man from Sidon, for there may be profit in
-
-this, if not for me, for our people."
-
-Soon the other messenger returned. Asarhadon went down to the cellar
-
-with this one also, and heard the following narrative,
-
-"I stood all night in front of the 'Green Star.' The man of Harran was
-
-there; he got drunk and raised such shouts that the policeman warned
-
-the doorkeeper."
-
-"Did he?" inquired the innkeeper. "The man of Harran was at the 'Green
-
-Star' all night, and Thou didst see him?"
-
-"Not only I, but the policeman."
-
-Asarhadon brought down the first servant, and commanded each to repeat
-
-his story. They repeated the stories faithfully, with the utmost
-
-conviction. It appeared then that Phut of Harran had remained all night
-
-at the "Green Star" without leaving the place for a moment; at the same
-
-time he went to the temple of Set, and did not return from it.
-
-"Oh," muttered Asarhadon, "in all this there is some very great
-
-villainy. I must inform the elders of the Phoenician society, as
-
-quickly as possible, that this Hittite knows how to be in two places at
-
-once. I shall also beg him to move out of my inn. I do not take people
-
-who have two forms, one their own, the other in supply. For a man of
-
-that kind is a great criminal, a wizard, or a conspirator."
-
-Asarhadon was afraid of such things; so he secured himself against
-
-enchantment by prayers to all the gods which adorned his inn. Then he
-
-hurried to the city, where he notified the elder of the Phoenician
-
-society and the elder of the guild of thieves of what had happened.
-
-Then, returning home, he summoned the decurion of police, and informed
-
-him that Phut might be a dangerous person. Finally he asked the man of
-
-Harran to leave the inn, to which he brought no profit, nothing but
-
-loss and suspicion.
-
-Phut agreed to the proposition willingly, and informed the innkeeper
-
-that he intended to sail for Thebes that same evening.
-
-"May Thou never return!" thought the hospitable host. "May Thou rot in
-
-the quarries, or fall into the river to be eaten by crocodiles."
+„Bodajżeś stamtąd nie wrócił!... — pomyślał gościnny gospodarz. — Bodajeś zgnił w kopalniach albo wpadł do rzeki na pastwę krokodylom.”

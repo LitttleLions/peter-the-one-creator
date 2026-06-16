@@ -1,0 +1,246 @@
+{
+  "chapter": "007",
+  "style": "stil-02-poetisch",
+  "ru_scenes": 21,
+  "de_scenes": 21,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "007",
+      "scene": 1,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-01.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-01.md",
+      "ru_words": 1195,
+      "de_words": 1546,
+      "findings": []
+    },
+    {
+      "chapter": "007",
+      "scene": 2,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-02.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-02.md",
+      "ru_words": 785,
+      "de_words": 1053,
+      "findings": []
+    },
+    {
+      "chapter": "007",
+      "scene": 3,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-03.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-03.md",
+      "ru_words": 455,
+      "de_words": 615,
+      "findings": [
+        {
+          "severity": "ERROR",
+          "category": "cyrillic_in_translation",
+          "message": "DE-Szene enthaelt kyrillische Zeichen.",
+          "chapter": "007",
+          "scene": 3,
+          "evidence": "itze Lew Kirillowitsch, Streschnjow, Apraxin, Troekurow, Boris Golizyn und der Dьjak Winius. Moskau — mit all seinen Diebstählen und Räubereien — Romodanowski. Mitte März brach die Große Gesandtschaft mit Peter Michailow",
+          "recommendation": "Pruefen, ob Originaltext stehen geblieben ist.",
+          "source": "deterministic",
+          "current_text": "ь",
+          "suggested_text": "",
+          "confidence": 0.8,
+          "fixable": null,
+          "position": 299
+        }
+      ]
+    },
+    {
+      "chapter": "007",
+      "scene": 4,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-04.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-04.md",
+      "ru_words": 402,
+      "de_words": 551,
+      "findings": []
+    },
+    {
+      "chapter": "007",
+      "scene": 5,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-05.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-05.md",
+      "ru_words": 1073,
+      "de_words": 1377,
+      "findings": []
+    },
+    {
+      "chapter": "007",
+      "scene": 6,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-06.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-06.md",
+      "ru_words": 616,
+      "de_words": 794,
+      "findings": [
+        {
+          "severity": "ERROR",
+          "category": "cyrillic_in_translation",
+          "message": "DE-Szene enthaelt kyrillische Zeichen.",
+          "chapter": "007",
+          "scene": 6,
+          "evidence": "ngsum verglasten Kutsche fuhren die drei Gesandten — Lefort, Golowín und Wosnizyн — in weißen Atlaspelzen auf Zobel, mit diamantenen Doppeladlern auf den Bibermützen, die hoch wie Türme aufragten. Sie saßen zurückgelehnt",
+          "recommendation": "Pruefen, ob Originaltext stehen geblieben ist.",
+          "source": "deterministic",
+          "current_text": "н",
+          "suggested_text": "",
+          "confidence": 0.8,
+          "fixable": null,
+          "position": 1315
+        }
+      ]
+    },
+    {
+      "chapter": "007",
+      "scene": 7,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-07.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-07.md",
+      "ru_words": 635,
+      "de_words": 897,
+      "findings": []
+    },
+    {
+      "chapter": "007",
+      "scene": 8,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-08.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-08.md",
+      "ru_words": 1432,
+      "de_words": 1885,
+      "findings": []
+    },
+    {
+      "chapter": "007",
+      "scene": 9,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-09.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-09.md",
+      "ru_words": 1328,
+      "de_words": 1743,
+      "findings": []
+    },
+    {
+      "chapter": "007",
+      "scene": 10,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-10.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-10.md",
+      "ru_words": 1731,
+      "de_words": 2153,
+      "findings": [
+        {
+          "severity": "ERROR",
+          "category": "cyrillic_in_translation",
+          "message": "DE-Szene enthaelt kyrillische Zeichen.",
+          "chapter": "007",
+          "scene": 10,
+          "evidence": " den Fuhrleuten und dem Gesinde der Bojaren — Petruschka Selesjen, Mitka Pitschuга, Papugai, Kuska Saika und der Adelssohn Mischka Tyrtow… Ihr Unterschlupf und ihr Diebesgut lagen hinter dem Twerer Tor… Was Brjus betriff",
+          "recommendation": "Pruefen, ob Originaltext stehen geblieben ist.",
+          "source": "deterministic",
+          "current_text": "г",
+          "suggested_text": "",
+          "confidence": 0.8,
+          "fixable": null,
+          "position": 2390
+        }
+      ]
+    },
+    {
+      "chapter": "007",
+      "scene": 11,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-11.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-11.md",
+      "ru_words": 1051,
+      "de_words": 1330,
+      "findings": []
+    },
+    {
+      "chapter": "007",
+      "scene": 12,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-12.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-12.md",
+      "ru_words": 603,
+      "de_words": 807,
+      "findings": []
+    },
+    {
+      "chapter": "007",
+      "scene": 13,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-13.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-13.md",
+      "ru_words": 359,
+      "de_words": 494,
+      "findings": []
+    },
+    {
+      "chapter": "007",
+      "scene": 14,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-14.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-14.md",
+      "ru_words": 1260,
+      "de_words": 1692,
+      "findings": []
+    },
+    {
+      "chapter": "007",
+      "scene": 15,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-15.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-15.md",
+      "ru_words": 390,
+      "de_words": 516,
+      "findings": []
+    },
+    {
+      "chapter": "007",
+      "scene": 16,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-16.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-16.md",
+      "ru_words": 297,
+      "de_words": 435,
+      "findings": []
+    },
+    {
+      "chapter": "007",
+      "scene": 17,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-17.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-17.md",
+      "ru_words": 252,
+      "de_words": 388,
+      "findings": []
+    },
+    {
+      "chapter": "007",
+      "scene": 18,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-18.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-18.md",
+      "ru_words": 366,
+      "de_words": 532,
+      "findings": []
+    },
+    {
+      "chapter": "007",
+      "scene": 19,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-19.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-19.md",
+      "ru_words": 180,
+      "de_words": 317,
+      "findings": []
+    },
+    {
+      "chapter": "007",
+      "scene": 20,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-20.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-20.md",
+      "ru_words": 416,
+      "de_words": 595,
+      "findings": []
+    },
+    {
+      "chapter": "007",
+      "scene": 21,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\007\\scene-21.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-21.md",
+      "ru_words": 1230,
+      "de_words": 1598,
+      "findings": []
+    }
+  ]
+}

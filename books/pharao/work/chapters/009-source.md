@@ -1,403 +1,142 @@
-# Kapitel 9: CHAPTER IX
+# Kapitel 009: Tom I - Rozdział IX
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part13.xhtml*
 
 <!-- status: pending -->
 
-ON the right bank of the Nile, on the edge of the northern suburb of
+Po lewej stronie Nilu, na brzegu północnym przedmieścia Memfis, znajdował się folwark, który następca tronu oddał na mieszkanie Sarze, córce Żyda Gedeona.
 
-Memphis, was that laud which the heir to 'the throne had given as place
+Była to posiadłość na trzydzieści pięć morgów rozległa, tworząca niewielki kwadrat, który ze szczytu domu ogarniało się wzrokiem jak na dłoni. Grunta folwarku leżały na wzgórzu i dzieliły się na cztery kondygnacje. Dwie najniższe i najobszerniejsze, które Nil zawsze zalewał, były przeznaczone pod uprawę zbóż i jarzyn. Na trzeciej kondygnacji, która czasami nie ulegała wylewom, rosły palmy, figi i inne drzewa owocowe. Na czwartej, najwyższej, był ogród zasadzony drzewami oliwnymi, winem, orzechami i kasztanami słodkimi, wśród których znajdował się dom.
 
-of residence to Sarah the daughter of Gideon.
+Dom był drewniany, jednopiętrowy, jak zwykle z tarasem, nad którym wznosił się płócienny namiot. Na dole mieszkał czarny niewolnik Ramzesa, na górze Sara ze swoją krewną i służącą Tafet. Dom był otoczony murem z niepalonej cegły, za którym w pewnej odległości znajdowały się budynki dla bydła, parobków i dozorców.
 
-That was a possession thirty-five acres in area, forming a quadrangle
+Pokoje Sary nie były duże, ale wykwintne. Na podłogach leżały dywany, we drzwiach i oknach zwieszały się zasłony w różnokolorowe pasy. Były tu rzeźbione łóżka i krzesła, inkrustowane skrzynie na odzież, trójnożne i jednonożne stoliki, na których stały wazony z kwiatami, wysmukłe dzbany do wina, szkatułki z flaszeczkami perfum, złote i srebrne czarki i kielichy, fajansowe wazy i misy, brązowe kagańce. Każdy choćby najdrobniejszy sprzęt czy naczynie było ozdobione rzeźbą lub kolorowym rysunkiem; każda sztuka odzieży — haftem i frędzlami.
 
-which was seen from the house-top as something on the palm of the hand.
+Już dziesięć dni mieszkała w tym ustroniu Sara, z obawy i wstydu kryjąc się przed ludźmi, tak że ze służby folwarcznej prawie nikt jej nie widział. W zasłoniętym buduarze szyła, tkała płótno na małym warsztacie lub zwijała wieńce z żywych kwiatów dla Ramzesa. Niekiedy wymykała się na taras i ostrożnie rozchyliwszy ściany namiotu wyglądała na Nil pełen łodzi, których wioślarze śpiewali wesołe pieśni; albo podniósłszy oczy, patrzyła z trwogą na szare pylony królewskiego zamku, który milczący i posępny górował nad drugim brzegiem rzeki. Wówczas znowu uciekała do swoich robót i wołała Tafet.
 
-The land was on a hill and was divided into four elevations. The two
+— Siedź tu, matko — mówiła — co ty tam robisz na dole?...
 
-lowest and widest, which the Nile always flooded, were intended for
+— Ogrodnik przyniósł owoce, a z miasta przysłali chleby, wino i ptaszki; musiałam to odebrać.
 
-grain and for vegetables. The third, which at times was untouched by
+— Siedź tu i rozmawiaj, bo mnie strach ogarnia...
 
-the overflow, produced palms, figs, and other fruit-trees. On the
+— Głupiutka z ciebie dziecina! — odparła, śmiejąc się, Tafet. — Do mnie także pierwszego dnia strach wyglądał z każdego kąta; ale jak wyszłam za mur, wszystko się skończyło. Kogo ja się tu mam bać, gdzie wszyscy padają przede mną na kolana? Przed tobą chybaby stawali na głowach!... Wyjdź do ogrodu, jest piękny jak raj... Wyjrzyj w pole, gdzie zbierają pszenicę... Siądź w łódkę rzeźbioną, której przewoźnicy usychają z tęsknoty, ażeby cię zobaczyć i przewieźć po Nilu...
 
-fourth, the highest, was a garden planted with olives, grapes, nuts,
+— Boję się...
 
-and sweet chestnuts; in the middle garden stood the dwelling.
+— Czego?...
 
-This dwelling was of wood, one story, as usual, with a flat roof on
+— Albo ja wiem?... Dopóki szyję, myślę, że jestem w naszej dolince i że zaraz przyjdzie ojciec. Ale kiedy wiatr uchyli zasłonę okna i spojrzę z góry na ten wielki... wielki kraj, zdaje mi się... Wiesz co?... Że mnie porwał sęp i zaniósł do swego gniazda na skale, skąd zejść nie można...
 
-which was a tent made of canvas. On the ground dwelt the prince's black
+— Ach, ty... ty!... Gdybyś widziała, jaką dziś wannę przysłał książę, miedzianą wannę!... A jaki trójnóg na ognisko, jakie garnki i rożny!... A gdybyś wiedziała, że ja dziś dwie kury posadziłam i niedługo będziemy mieli pisklęta...
 
-slave; above Sarah with her relative and serving-woman Tafet. The place
+Po zachodzie słońca, gdy nikt nie mógł jej widzieć, Sara bywała śmielszą. Wówczas wychodziła na taras i patrzyła na rzekę. A gdy z daleka ukazała się łódź oświetlona pochodniami, które na czarnej wodzie rzeźbiły krwawe i ogniste smugi, Sara obu rękoma przyciskała swoje biedne serce, które drżało jak złapany ptak. Tam płynął do niej Ramzes, a ona nie umiałaby powiedzieć, co się z nią dzieje. Czy radość, że zbliża się ten piękny, którego poznała w dolince, czy trwoga, że znowu zobaczy wielkiego władcę i pana, który ją onieśmielał.
 
-was surrounded by a wall of partially burnt brick, beyond which at a
+Jednego dnia, w wigilię szabasu, przyszedł na folwark ojciec, pierwszy raz od jej osiedlenia się w tym miejscu. Sara z płaczem rzuciła się do niego; sama umyła mu nogi, a na głowę wylała wonności, okrywając go pocałunkami. Gedeon był to człowiek już szpakowaty, o surowych rysach. Miał na sobie długą do kostek koszulę, u dołu obszytą kolorowym haftem, a na niej żółty kaftan bez rękawów, rodzaj kapy spadającej na piersi i plecy. Głowę nakrywał niewielką czapką, zwężającą się u góry.
 
-certain distance were houses for cattle, workmen, and overseers.
+— Jesteś?... jesteś! — wołała Sara i znowu zaczęła całować jego ręce i głowę.
 
-Sarah's chambers were not large, but they were elegant. On the floor
+— Ja sam dziwię się, że tu jestem! — odparł smutnie Gedeon. — Skradałem się do ogrodu jak złodziej. Przez całą drogę z Memfis zdawało mi się, że wszyscy Egipcjanie pokazują mnie palcami, a każdy Żyd pluje...
 
-were divans, at the doors and windows were curtains with stripes of
+— Przecież, ojcze, sam mnie oddałeś księciu?... — szepnęła Sara.
 
-various colors. There were armchairs and a carved bed, inlaid boxes for
+— Oddałem, bo cóż miałem robić? Zresztą mnie się tylko tak zdaje, że mnie pokazują i opluwają. Z Egipcjan, kto mnie zna, kłania mi się tym niżej, im sam jest wyższy. Przez czas, kiedy tu jesteś, nasz pan, Sezofris, mówił, że trzeba mi dom powiększyć; pan Chaires darował mi stągiew najlepszego wina, a sam najdostojniejszy nasz nomarcha przysyłał do mnie zaufanego sługę pytać: czy ty jesteś zdrowa i czy ja nie zostałbym u niego rządcą?
 
-clothing, three-legged and one-legged tables on which were pots with
+— A Żydzi?... — spytała Sara.
 
-flowers, a slender pitcher for wine, boxes and bottles of perfume,
+— Co Żydzi!... Oni wiedzą, że ja nie ustąpiłem z dobrej woli. No, a każdy chciałby, żeby jemu tylko taki gwałt robili. Niechaj nas wszystkich Pan Bóg sądzi. Lepiej powiedz: jak ty się masz?
 
-golden and silver cups and goblets, porcelain vases and dishes, bronze
+— Na łonie Abrahama nie będzie jej lepiej — odezwała się Tafet. — Cały dzień znoszą nam owoce, wina, chleby i mięso, czego dusza zapragnie. A jaką wannę mamy!... cała miedziana. A jakie naczynia kuchenne!...
 
-candlesticks. Even the smallest furniture or vessel was ornamented with
+— Trzy dni temu — przerwała Sara — był u mnie Fenicjanin Dagon. Nie chciałam go widzieć, ale tak się napierał...
 
-carving or with a colored drawing; every piece of clothing with lace or
+— Dał mi złoty pierścionek — wtrąciła Tafet.
 
-bordering.
+— Powiedział mi — mówiła Sara — że jest dzierżawcą u mego pana, darował mi dwie bransolety na nogi, zausznice z pereł i szkatułkę wonności z kraju Punt.
 
-Sarah had dwelt ten days in this retreat, hiding herself before people
+— Za co on ci to darował? — zapytał ojciec.
 
-from fear and shame, so that almost no one of the servants had seen
+— Za nic. Tylko prosił, ażebym o nim dobrze myślała i niekiedy powiedziała mojemu panu, że Dagon jest najwierniejszym jego sługą.
 
-her. In the curtained chamber she sewed, wove linen on a small loom, or
+— Ty bardzo prędko zbierzesz całą skrzynię zausznic i bransolet — odparł z uśmiechem Gedeon. — Ach — dodał po chwili — zbierz prędko wielki majątek i uciekajmy do naszej ziemi, bo tu nam zawsze bieda. Bieda, kiedy jest źle, a jeszcze większa bieda, kiedy jest dobrze.
 
-twined garlands of living flowers for Ramses. Sometimes she went out on
+— A co by powiedział pan mój? — zapytała Sara ze smutkiem.
 
-the terrace, pushed apart the sides of the tent with care, and looked
+Ojciec potrząsnął głową.
 
-at the Nile covered with boats in which oarsmen were singing songs
+— Nim rok minie, pan twój porzuci cię, a inni mu dopomogą. Gdybyś była Egipcjanką, wziąłby cię do swego domu, ale Żydówkę...
 
-joyfully. On raising her eyes she looked with fear at the gray pylons
+— Porzuci?... — powtórzyła Sara z westchnieniem.
 
-of the pharaoh's palace, which towered silent and gloomy above the
+— Co martwić się przyszłymi dniami, które są w ręku Boga? Przyszedłem spędzić u ciebie szabas...
 
-other bank of the river. Then she ran again to her work and called
+— A ja mam doskonałe ryby, mięso, placki i wino koszerne — szybko wtrąciła Tafet. — Kupiłam też w Memfis siedmioramienny świecznik i świece woskowe... Będzie kolacja lepsza niż u samego pana Chairesa.
 
-Tafet.
+Gedeon wyszedł z córką na taras. Gdy zostali we dwoje, rzekł:
 
-"Sit here, mother," said she; "what art Thou doing down there?"
+— Mówiła mi Tafet, że ciągle siedzisz w domu. Dlaczego? Trzeba wyjrzeć przynajmniej do ogrodu.
 
-"The gardener has brought fruit, and they have sent bread, wine, and
+Sara wstrząsnęła się.
 
-game from the city; I must take them."
+— Boję się — szepnęła.
 
-"Sit here and talk, for fear seizes me."
+— Dlaczego ty się masz bać twego ogrodu?... Przecież ty tu jesteś pani, wielka pani.
 
-"Thou art a foolish child," said Tafet, smiling. "Fear looked at me too
+— Raz wyszłam do ogrodu w dzień... Zobaczyli mnie jacyś ludzie i zaczęli mówić między sobą: „Patrzcie, to ta Żydówka następcy tronu, przez którą opóźnia się przybór!...”
 
-the first day from every corner; but when I went out beyond the wall,
+— Głupi oni są — wtrącił Gedeon. — Alboż to raz Nil o cały tydzień spóźnił się z wylewem? Więc tymczasem wychodź sobie wieczorami.
 
-there was no more of it. Whom have I to fear here? All fall on their
+Sara otrząsnęła się jeszcze gwałtowniej.
 
-knees before me. Before thee they would stand on their heads even! Go
+— Nie chcę... nie chcę!... — zawołała. — Innego dnia wyszłam wieczór, tam, między oliwne drzewa. Nagle z bocznej ścieżki wysunęły się, jak cienie, dwie kobiety... Przestraszona, chciałam uciekać... Wtedy jedna z nich, młodsza i niższa, schwyciła mnie za rękę mówiąc: „Nie uciekaj, musimy ci się przypatrzyć...” A druga, starsza i wyższa, stanęła o kilka kroków przede mną i spojrzała mi w oczy... Ach, ojcze, myślałam, że się w kamień obrócę... Co to była za kobieta... co za spojrzenie!...
 
-to the garden; it is as beautiful as paradise. Look out at the field,
+— Kto to mógł być? — spytał Gedeon.
 
-see the wheat harvest; sit down in the carved boat the owner of which
+— Ta starsza wyglądała na kapłankę.
 
-is withering from anxiety to see thee and take thee out of the river."
+— I nic do ciebie nie mówiła?
 
-"I am afraid."
+— Nic. Tylko kiedy, odchodząc, skryły się za drzewami, słyszałam, zapewne głos starszej, która powiedziała tylko te wyrazy: „Zaprawdę, jest ładna...”
 
-"Of what?"
+Gedeon zamyślił się.
 
-"Do I know? While I am sewing, I think that T am in our valley and that
+— Może to były — rzekł — jakieś wielkie panie ze dworu?...
 
-my father will come right away; but when the wind pushes the curtain
+Słońce zachodziło, a na obu brzegach Nilu zbierały się gęste tłumy ludzi, niecierpliwie czekających na sygnał o przyborze, który istotnie opóźnił się. Już od dwu dni wiał wiatr z morza i rzeka pozieleniała; już słońce minęło gwiazdę Sotis, ale w studni kapłańskiej w Memfisie woda nie podniosła się nawet na grubość palca. Ludzie byli zaniepokojeni, tym bardziej że w Górnym Egipcie, według sygnałów, wylew szedł prawidłowo, a nawet zapowiadał się doskonale.
 
-aside from the window and I look on this great country it seems to me,
+— Cóż więc zatrzymuje go pod Memfisem? — pytali stroskani rolnicy, z utęsknieniem czekając na sygnał.
 
-knowest what? that some mighty vulture has caught and borne me to his
+Gdy na niebie ukazały się gwiazdy, Tafet w jadalnym pokoju nakryła stół białym obrusem, postawiła świecznik z siedmioma zapalonymi świecami, przysunęła trzy krzesła i oświadczyła, że zaraz poda szabasową kolację.
 
-nest on a mountain, whence I have no power to save myself."
+Wtedy Gedeon nakrył głowę i wzniósłszy nad stołem obie ręce mówił zapatrzony w niebo:
 
-"Ah, Thou thou! If Thou hadst seen what a bathtub the prince sent this
+— Boże Abrahama, Izaaka, Jakuba, który wyprowadziłeś lud nasz z ziemi egipskiej, który niewolnikom i wygnańcom dałeś ojczyznę, który z synami Judy zawarłeś wieczne przymierze... Boże Jehowa, Boże Adonai, pozwól nam spożywać bez grzechu płody wrogiej ziemi, wydobądź nas ze smutku i strachu, w jakim jesteśmy pogrążeni, i powróć nad brzegi Jordanu, który opuściliśmy dla twojej chwały...
 
-morning, a bronze one; and what a tripod for the fire, what pots and
+W tej chwili zza muru odezwał się głos:
 
-spits! And if Thou knew that today I have put two hens to set, and
+— Jego dostojność Tutmozis, najwierniejszy sługa jego świątobliwości i następcy tronu...
 
-before long we shall have little chicks here."
+— Oby żyli wiecznie!... — odezwało się kilka głosów z ogrodu.
 
-Sarah was more daring after sunset, when no one could see her. She went
+— Jego dostojność — mówił znowu głos pojedynczy — zasyła pozdrowienia najpiękniejszej róży spod Libanu!
 
-out on the roof and looked at the river. And when from afar a boat
+Gdy umilkł, rozległ się dźwięk arfy i fletu.
 
-appeared, flaming with torches, which formed fiery and bloody lines
+— To muzyka!... — zawołała Tafet, klaszcząc w ręce. — Będziemy obchodzili szabas przy muzyce...
 
-along the dark water, she pressed with both hands her poor heart, which
+Sara i jej ojciec, z początku przerażeni, zaczęli się śmiać i zasiedli do stołu.
 
-quivered like a bird caught that instant. Ramses was coming, and she
+— Niech sobie grają — rzekł Gedeon — nie zepsuje nam apetytu ich muzyka.
 
-could not tell what had seized her, delight because that beautiful
+Flet i arfa odegrały zwrotkę, po której odezwał się głos tenorowy śpiewając:
 
-youth was approaching whom she had seen in the valley, or dread because
+— „Jesteś piękniejsza od wszystkich dziewcząt, jakie przeglądają się w wodach Nilu. Włosy twoje czarniejsze od piór kruka, oczy spoglądają łagodniej od oczu łani, która tęskni za swoim koziołkiem. Wzrost twój jest jako wzrost palmy, a lotos zazdrości tobie wdzięku. Piersi twoje są jak winne grona, których sokiem upajają się królowie.”
 
-she would see again a great lord and ruler who made her timid.
+Znowu odezwał się flet i arfa, a po nich pieśń:
 
-One Sabbath evening her father came for the first time since she had
+— „Przyjdź i spocznij w ogrodzie. Służba, która do ciebie należy, przyniesie liczne naczynia i piwa wszelkich gatunków. Przyjdź, uświęcimy noc dzisiejszą i świt, który po niej nastąpi. W moim cieniu, w cieniu figi rodzącej słodkie owoce, twój kochanek spocznie po twojej prawicy; a ty go upoisz i powolną będziesz wszelkim jego żądaniom...”
 
-settled in that villa. Sarah rushed to him with weeping; she washed his
+...Flet i arfa — po nich znowu śpiew:
 
-feet herself, poured perfumes on his head, and covered him with kisses.
-
-Gideon was an old man of stern features. He wore a long robe reaching
-
-his feet and edged at the bottom with colored embroidery; over this he
-
-wore a yellow sleeveless kaftan. A kind of cape covered his breast and
-
-shoulders. On his head was a smallish cap, growing narrow toward the
-
-top.
-
-"Thou art here! Thou art here!" exclaimed Sarah; and she kissed his
-
-head again.
-
-"I am astonished myself at being here," said Gideon, sadly. "I stole to
-
-the garden like a criminal; I thought, along the whole way from
-
-Memphis, that all the Egyptians were pointing me out with their fingers
-
-and that each Jew was spitting."
-
-"But Thou didst give me thyself to the prince, father."
-
-"I did, for what could I do? Of course it only seems to me that they
-
-point and spit. Of Egyptians, whoever knows me bows the lower the
-
-higher he is himself. Since Thou art here our lord Sesoforis has said
-
-that he must enlarge my house; Chaires gave me a jar of the best wine,
-
-and our most worthy nomarch himself has sent a trusty servant to ask if
-
-Thou art well, and if I will not become his manager."
-
-"But the Jews?" inquired Sarah.
-
-"What of the Jews! They know that I did not yield of my own will. Every
-
-one of them would wish to be constrained in like manner. Let the Lord
-
-God judge us all. Better tell how Thou art feeling."
-
-"In Abraham's bosom she will not have more comfort," said Tafet. "Every
-
-day they bring us fruit, wine, bread, meat, and whatever the soul
-
-wishes. And such baths as we have, all bronze, and such kitchen
-
-utensils!"
-
-"Three days ago," interrupted Sarah, "the Phoenician Dagon was here. I
-
-did not wish to see him, but he insisted."
-
-"He gave me a gold ring," added Tafet.
-
-"He told me," continued Sarah, "that he was a tenant of my lord; he
-
-gave me two anklets, pearl earrings, and a box of perfumes from the
-
-land of Punt."
-
-"Why did he give them to thee?" asked her father.
-
-"For nothing. He simply begged that I would think well of him, and tell
-
-my lord sometimes that Dagon was his most faithful servant."
-
-"Very soon Thou wilt have a whole box of earrings and bracelets," said
-
-Gideon, smiling. But after a moment he added: "Gather up a great
-
-property quickly and let us flee back to our own land, for here there
-
-is misery at all times, misery when we are in trouble, and still more
-
-of it when we are prosperous."
-
-"And what would my lord say?" asked Sarah, with sadness.
-
-Her father shook his head.
-
-"Before a year passes thy lord will cast thee aside, and others will
-
-help him. Wert Thou an Egyptian, he would take thee to his palace; but
-
-a Jewess."
-
-"He will cast aside?" said Sarah, sighing.
-
-"Why torment one's self with days to come, which are in the hand of
-
-God? I am here to pass the Sabbath with thee."
-
-"I have splendid fish, meat, cakes, and wine of the Jews," put in
-
-Tafet, quickly. "I have bought also, in Memphis, a seven-branched
-
-candlestick and wax tapers. We shall have a better supper than has Lord
-
-Chaires."
-
-Gideon went out on the flat roof with his daughter.
-
-"Tafet tells me," said he, when they were alone, "that Thou art always
-
-in the house. Why is this? Thou shouldst look at least on the garden."
-
-"I am afraid," whispered Sarah.
-
-"Why be afraid of thy own garden? Here Thou art mistress, a great
-
-lady."
-
-"Once I went out in the daytime. People of some sort stared at me, and
-
-said to one another, 'Look! that is the heir's Jewess; she delays the
-
-overflow.'."
-
-"They are fools!" interrupted Gideon. "Is this the first time that the
-
-Nile is late in its overflow? But go out in the evening."
-
-Sarah shook her head with greater vigor.
-
-"I do not wish, I do not wish. Another time I went out in the evening.
-
-All at once two women pushed out from a side path. I was frightened and
-
-wished to flee, when one of them, the younger and smaller, seized my
-
-hands, saying, 'Do not flee, we must look at thee;' the second, the
-
-elder and taller, stood some steps in front and looked me in the eyes
-
-directly. Ah, father, I thought that I should turn into stone. What a
-
-look, what a woman!"
-
-"Who could she be?" asked Gideon.
-
-"The elder woman looked like a priestess."
-
-"And did she say anything?"
-
-"Nothing. But when going and they were hidden behind trees, I heard
-
-surely the voice of the elder say these words: 'Indeed she is
-
-beautiful!"
-
-Gideon fell to thinking.
-
-"Maybe they were great ladies from the court."
-
-The sun went down, and on both banks of the Nile dense crowds of people
-
-collected waiting impatiently for the signal of the overflow, which in
-
-fact was belated. For two days the wind had been blowing from the sea
-
-and the river was green; the sun had passed the star Sothis already,
-
-but in the well of the priest in Memphis the water had not risen even
-
-the breadth of a finger. The people were alarmed, all the more since in
-
-Upper Egypt, according to signals, the overflow proceeded with regular
-
-increase and even promised to be perfect.
-
-"What detains it at Memphis then?" asked the anxious earth-tillers
-
-waiting for the signal in disquiet.
-
-When the stars had appeared in the sky, Tafet spread a white cloth on
-
-the table, placed on it the candlestick with seven lighted torches,
-
-pushed up three armchairs, and announced that the Sabbath supper would
-
-be served immediately.
-
-Gideon covered his head then, and raising both hands above the table,
-
-said with his eyes looking heavenward,
-
-"God of Abraham, Isaac, and Jacob, Thou who didst lead our people out
-
-of Egypt, who didst give a country to the slave and exile, who didst
-
-make with the sons of Judah an eternal covenant, O Jehovah, O Adonai,
-
-permit us to enjoy without sin the fruits of the enemies' country.
-
-Bring us out of sorrow and fear in which we are buried, and restore us
-
-to the banks of the Jordan, which we left for Thy glory."
-
-At the moment a voice was heard from beyond the wall,
-
-"His worthiness Tutmosis, the most faithful servant of his holiness and
-
-of his son Prince Ramses!"
-
-"May he live through eternity!" called a number of voices from the
-
-garden.
-
-"His worthiness," said a single voice again, "sends greeting to the
-
-most beautiful rose of Lebanon."
-
-When the voice ceased, the sound of harps and flutes was heard.
-
-"That is music!" exclaimed Tafet, clapping her hands. "We shall pass
-
-the Sabbath with music."
-
-Sarah and her father, frightened at first, began to laugh, and sat down
-
-again at the table.
-
-"Let them play," said Gideon; "their music is not bad for the
-
-appetite."
-
-The flute and harp played, then a tenor voice sang,
-
-"Thou art more beautiful than all the maidens who look at themselves in
-
-the Nile. Thy hair is blacker than the feathers of a raven, thy eyes
-
-have a milder glance than the eyes of a deer which is yearning for its
-
-fawn. Thy stature is the stature of a palm, and the lotus envies thee
-
-thy charm. Thy bosoms are like grape clusters with the juice of which
-
-kings delight themselves."
-
-Again the flute and harp were heard, and next a song,
-
-"Come and repose in the garden. The servants which belong to thee will
-
-bring various vessels and beer of all kinds. Come, let us celebrate
-
-this night and the dawn which will follow it. In my shadow, in the
-
-shadow of the fig, giving sweet fruit, thy lover will rest at thy right
-
-hand; and Thou wilt give him to drink and consent to all his wishes."
-
-Next came the flutes and harps, and after them a new song,
-
-"I am of a silent disposition, I never tell what I see, I spoil not the
-
-sweetness of my fruits with vain tattling." [Authentic.]
+— „Ja jestem milczącego umysłu, nigdy nie mówię, co widzę, i słodyczy moich owoców nie psuję czczym paplaniem...”

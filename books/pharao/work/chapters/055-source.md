@@ -1,1513 +1,654 @@
-# Kapitel 55: CHAPTER LV
+# Kapitel 055: Tom III - Rozdział VI
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part63.xhtml*
 
 <!-- status: pending -->
 
-ABOUT ten in the evening Hiram stood before his lord. He was dressed in
+Około dziesiątej wieczór stanął przed panem Hiram odziany w ciemną szatę memfijskiego przekupnia.
 
-the dark robe of a Memphis huckster.
+— Czegóż się tak skradasz, wasza dostojność?... — zapytał go niemile dotknięty faraon. — Czyliż mój pałac jest więzieniem albo domem trędowatych?...
 
-"Why dost Thou steal in thus, worthiness?" inquired Ramses. "Is my
+— Ach, władco nasz! — westchnął stary Fenicjanin. — Od chwili gdy zostałeś panem Egiptu, zbrodniarzami są ci, którzy ośmielają się widywać ciebie i nie zdawać sprawy z tego, o czym raczysz mówić...
 
-palace a prison, or a house of lepers?"
+— Przed kimże to musicie powtarzać moje słowa?... — spytał pan.
 
-"Ah, our sovereign!" sighed the old Phoenician. "Since Thou hast become
+Hiram podniósł oczy i ręce do góry.
 
-lord of Egypt the criminals are those who dare to see thee and not give
+— Wasza świątobliwość znasz swoich wrogów!... — odparł.
 
-account of what Thou art pleased to tell them."
+— Mniejsza o nich — rzekł faraon. — Wasza dostojność wiesz, po co cię wezwałem? Chcę pożyczyć kilka tysięcy talentów...
 
-"To whom must ye repeat my words?" inquired the pharaoh.
+Hiram syknął i tak zachwiał się na nogach, że pan pozwolił mu usiąść w swojej obecności, co było najwyższym zaszczytem.
 
-Hiram raised his eyes and hands to heaven.
+Rozsiadłszy się wygodnie i odpocząwszy, Hiram rzekł:
 
-"Holiness, thou knowest thy enemies," said he.
+— Po co wasza świątobliwość ma pożyczać, kiedy może mieć duże skarby...
 
-"Thou knowest, worthiness, why I have summoned thee. I wish to borrow a
+— Wiem, gdy zdobędę Niniwę — przerwał faraon. — To dalekie czasy, a pieniądze potrzebne mi są dziś...
 
-few thousand talents."
+— Ja nie mówię o wojnie — odparł Hiram. — Ja mówię o takiej sprawie, która natychmiast przyniesie skarbowi duże sumy i — stały roczny dochód...
 
-Hiram made a hissing noise through his teeth, so that the pharaoh
+— Jakim sposobem?
 
-permitted him to sit in his presence, which was the highest honor. When
+— Niech wasza świątobliwość pozwoli nam i pomoże wykopać kanał, który by połączył Morze Śródziemne z Morzem Czerwonym...
 
-he had disposed himself comfortably and rested, Hiram said,
+Faraon zerwał się z fotelu.
 
-"Why shouldst Thou borrow, holiness, when Thou mayst have a rich
+— Żartujesz, stary człowieku?... — zawołał. — Któż taką pracę wykona i kto chciałby narazić Egipt?... Przecie morze zalałoby nas...
 
-treasury?"
+— Jakie morze?... Bo chyba ani Czerwone, ani Śródziemne — spokojnie odparł Hiram. — Ja wiem, że egipscy kapłani-inżynierowie badali ten interes i wyrachowali, że to jest bardzo dobry interes, najlepszy w świecie... Tylko oni sami wolą go zrobić, a raczej nie chcą, ażeby zrobił to faraon.
 
-"I know, when I shall get Nineveh," interrupted Ramses. "That time is
+— Gdzie masz dowody? — spytał Ramzes.
 
-distant and I need money this day."
+— Ja nie mam dowodów, ale ja przyślę waszej świątobliwości takiego kapłana, który całą sprawę objaśni planami i rachunkiem...
 
-"I speak not of war," answered Hiram; "I speak of an affair which would
+— Kto jest ten kapłan?...
 
-bring large sums to the treasury immediately, and a permanent yearly
+Hiram zamyślił się i rzekł po chwili:
 
-income."
+— Czy mam obietnicę waszej świątobliwości, że o nim nikt nie będzie wiedział oprócz nas?... On wam, panie mój, większe odda usługi aniżeli ja sam... On zna dużo tajemnic i... dużo niegodziwości kapłańskich...
 
-"How?"
+— Przyrzekam — odparł faraon.
 
-"Permit us, holiness, and assist us to dig a canal which would join the
+— Ten kapłan to jest Samentu... On służy w świątyni Seta pod Memfisem... On jest wielkim mędrcem, tylko potrzebuje pieniędzy i jest bardzo ambitny. A ponieważ arcykapłani poniżają go, więc on mi powiedział, że gdy wasza świątobliwość zechce, to on... to on obali stan kapłański... Bo on wie dużo sekretów... O, dużo!...
 
-Red Sea with the Mediterranean."
+Ramzes głęboko zamyślił się. Zrozumiał, że ten kapłan jest wielkim zdrajcą, ale i oceniał, jak ważne może mu oddać usługi.
 
-"Art Thou jesting, old man?" cried the pharaoh, springing up from his
+— Owszem — rzekł faraon — pomyślę o tym Samentu. A teraz na chwilę przypuśćmy, że można zbudować taki kanał: cóż ja będę miał z niego?
 
-seat. "Who could do such a work, and who could wish to endanger Egypt?
+Hiram podniósł lewą rękę i na jej palcach zaczął rachować.
 
-The sea would inundate the country."
+— Przede wszystkim — mówił — Fenicja odda waszej świątobliwości pięć tysięcy talentów zaległych danin...
 
-"What sea? Neither the Mediterranean nor the Red Sea would," answered
+Po drugie — Fenicja zapłaci waszej świątobliwości pięć tysięcy talentów za prawo wykonywania robót...
 
-Hiram calmly. "I know that Egyptian priests who are engineers have
+Po trzecie — gdy zaczną się roboty, będziemy płacili tysiąc talentów rocznego podatku i jeszcze tyle talentów, ile Egipt dostarczy nam dziesiątek robotników.
 
-examined this work and have calculated that it would give immense
+Po czwarte — za każdego inżyniera egipskiego damy waszej świątobliwości talent na rok.
 
-profit, it is the best work on earth. But they wish to do it
+Po piąte — gdy skończą się roboty, wasza świątobliwość odda nam kanał w dzierżawę na sto lat, a my będziemy płacili za to po tysiąc talentów rocznie.
 
-themselves, or rather they do not wish that the pharaoh should do it."
+Czy to są małe zyski?... — spytał Hiram.
 
-"Where are thy proofs?" asked Ramses.
+— A teraz, a dziś — rzekł faraon — dalibyście mi owe pięć tysięcy haraczu?...
 
-"I have not the proofs, but I will send a priest, holiness, who will
+— Jeżeli dziś będzie zawarta umowa, damy dziesięć tysięcy i jeszcze dołożymy ze trzy tysiące jako podatek za trzy lata z góry...
 
-explain the whole affair to thee, with plans and estimates."
+Ramzes XIII zamyślił się. Nieraz już Fenicjanie proponowali władcom Egiptu budowę tego kanału, lecz zawsze trafiali na nieugięty opór kapłanów. Egipscy mędrcy tłumaczyli faraonom, że kanał ten narazi państwo na zalew wód od strony Morza Śródziemnego i Czerwonego.
 
-"Who is this priest?"
+Ale znowu Hiram twierdził, że wypadek podobny nie nastąpi, o czym wiedzą kapłani!...
 
-Hiram thought a moment and then asked,
+— Obiecujecie — odezwał się faraon po długiej chwili — obiecujecie płacić po tysiąc talentów rocznie przez sto lat. Mówicie, że ów kanał, wygrzebany w piaskach, jest najlepszym w świecie interesem. Ja tego nie rozumiem i przyznam się, Hiramie, podejrzewam...
 
-"Have I thy promise, holiness, that no one will know of him except us?
+Fenicjaninowi zapłonęły oczy.
 
-He, lord, will render more service than I. He knows many secrets and
+— Panie — odparł — powiem ci wszystko, ale zaklinam cię na twoją koronę... na cień twego ojca... ażebyś przed nikim nie odsłonił tej tajemnicy... Jest to największa tajemnica kapłanów chaldejskich i egipskich, a nawet Fenicji... Od niej zależy przyszłość świata!...
 
-many iniquities of the priesthood."
+— No, no... Hiramie!... — odparł faraon z uśmiechem.
 
-"I promise," answered the pharaoh.
+— Tobie, królu — ciągnął Fenicjanin — dali bogowie mądrość, energię i szlachetność, więc tyś nasz... Ty jeden z władców ziemskich możesz być wtajemniczony, bo ty jeden potrafisz wykonywać wielkie rzeczy... Toteż zdobędziesz taką potęgę, jakiej jeszcze nie dosięgnął żaden człowiek...
 
-"This priest is Samentu. He is a great sage, but needs money, and he is
+Faraon odczuł w sercu słodycz dumy, ale opanował się.
 
-very ambitious. And since the high priests degrade him he will overturn
+— Ty mnie nie chwal — rzekł — za to, czego jeszcze nie zrobiłem, ale mi powiedz: jakie korzyści spłyną na Fenicję i na moje państwo z wykopania kanału?
 
-the order of priests; for he knows many secrets oh, many!"
+Hiram poprawił się na fotelu i zaczął mówić zniżonym głosem:
 
-Ramses meditated. He understood that that priest was a great traitor,
+— Wiedz o tym, panie nasz, że na wschód, południe i północ od Asyrii i Babilonu nie ma ani pustyni, ani bagien zamieszkałych przez dziwne potwory, ale są olbrzymie... olbrzymie kraje i państwa... Kraje to tak wielkie, że piechota waszej świątobliwości, słynna z marszów, musiałaby prawie dwa lata iść wciąż ku wschodowi, zanim dosięgłaby ich granic...
 
-but he estimated the magnitude of the service which the man might
+Ramzes podniósł brwi w górę jak człowiek, który pozwala komuś kłamać, ale wie o kłamstwie.
 
-render.
+Hiram lekko wzruszył ramionami i prawił:
 
-"Well," said the pharaoh, "I will think of this Samentu. But now let us
+— Na wschód i na południe od Babilonu, nad wielkim morzem, mieszka ze sto milionów ludzi, którzy mają potężnych królów, kapłanów mędrszych niż egipscy, stare księgi, biegłych rzemieślników... Ludy te umieją wyrabiać nie tylko tkaniny, sprzęty i naczynia, równie piękne jak Egipcjanie, ale od niepamiętnych czasów mają podziemne i nadziemne świątynie — większe, wspanialsze i bogatsze aniżeli Egipt...
 
-suppose for the moment that it is possible to make such a canal; what
+— Mów dalej... mów!... — wtrącił pan. Ale z twarzy jego nie można było poznać: czy jest zaciekawiony opisem, czy oburzony kłamstwem.
 
-profit shall I have from it?"
+— W krajach tych są perły, drogie kamienie, złoto, miedź... Są najosobliwsze zboża, kwiaty i owoce... Są wreszcie lasy, po których całe miesiące można błądzić między drzewami grubszymi od waszych kolumn w świątyniach, wyższymi od palm... Ludność zaś tych okolic jest prosta i łagodna... I gdybyś, wasza świątobliwość, posłał tam na okrętach dwa swoje pułki, mógłbyś zdobyć obszar ziemi większy od całego Egiptu, bogatszy niż skarbiec w Labiryncie...
 
-Hiram raised his left hand, and counted on his fingers.
+Jutro, jeżeli wasza świątobliwość pozwoli, przyślę wam próbki tamtejszych tkanin, drzewa i brązów... Przyślę też dwa ziarnka tamtejszych cudownych balsamów, które gdy połknie człowiek, otwierają się przed nim bramy wieczności i może doznać szczęścia, które jest udziałem samych tylko bogów...
 
-"First, holiness, Phoenicia will give thee five thousand talents of
+— Bardzo proszę o próbkę tkanin i wyrobów — wtrącił faraon. — Co zaś do balsamów... mniejsza o nie!... Dosyć nacieszymy się wiecznością i bogami po śmierci...
 
-unpaid tribute; second, Phoenicia will pay for the right of doing this
+— Zaś daleko, bardzo daleko, na wschód od Asyrii — mówił Hiram — leżą jeszcze większe kraje, mające ze dwieście milionów ludności...
 
-work; third, when the work begins we will pay one thousand talents of
+— Jak wam łatwo o miliony!... — uśmiechnął się pan. Hiram położył rękę na sercu.
 
-yearly rent, and besides as many talents as Egypt furnishes us tens of
+— Przysięgam — rzekł — na duchy przodków moich i na moją cześć, że mówię prawdę!...
 
-laborers; fourth, for every Egyptian engineer we will give to thee,
+Faraon poruszył się: zastanowiła go tak wielka przysięga.
 
-holiness, a talent a year; fifth, when the work is finished Thou wilt
+— Mów... mów dalej... — rzekł.
 
-give us the canal for one hundred years, and we will pay for that one
+— Otóż kraje te — ciągnął Fenicjanin — są bardzo dziwne. Zamieszkują je ludy o skośnych oczach i żółtej cerze. Ludy te mają pana, który nazywa się Synem Nieba i rządzi nimi za pośrednictwem mędrców, którzy jednak nie są kapłanami i nie mają takiej władzy jak w Egipcie...
 
-thousand talents yearly. Are those small gains?" inquired Hiram.
+A przy tym ludy te są podobne do Egipcjan... Czczą zmarłych przodków i bardzo dbają o ich zwłoki. Używają pisma, które przypomina wasze, kapłańskie... Lecz — noszą długie szaty z tkanin wcale u was nie znanych, mają sandały podobne do małych ławeczek, a głowy zakrywają spiczastymi pudełkami... Także dachy ich domów są spiczaste i zadarte na brzegach...
 
-"But now, today," asked Ramses, "would ye give me those five thousand
+Te nadzwyczajne ludy mają zboże plenniejsze niż egipska pszenica i robią z niego napitek mocniejszy niż wino. Mają też roślinę, której liście dają tęgość członkom, wesołość umysłowi, a nawet pozwalają obchodzić się bez snu. Mają papier, który umieją ozdabiać różnokolorowymi obrazami, i mają glinę, która po wypaleniu prześwieca jak szkło, a dźwięczy jak metal...
 
-talents tribute?"
+Jutro, gdy wasza świątobliwość pozwoli, przyślę próbki wyrobów tego ludu...
 
-"If the treaty is made today we will give ten thousand, and we will add
+— Dziwy opowiadasz, Hiramie... — rzekł faraon. — Nie widzę jednak związku między tymi osobliwościami a kanałem, który chcecie kopać...
 
-three thousand as an advance of rent for a three years' period."
+— Odpowiem krótko — odparł Fenicjanin. — Gdy będzie kanał, cała fenicka i egipska flota przepłynie na Morze Czerwone, z niego dalej i — w ciągu paru miesięcy dosięgnie tych bogatych krajów, do których lądem prawie niepodobna się dostać.
 
-Ramses meditated. More than once Phoenicians had proposed the cutting
+A czy wasza świątobliwość — mówił z błyszczącymi oczyma — nie widzi skarbów, jakie tam znajdziemy?... Złota, kamieni, zbóż, drzewa?... Przysięgam ci, panie — ciągnął z uniesieniem — że wówczas o złoto będzie ci łatwiej aniżeli dzisiaj o miedź, drzewo będzie tańsze od słomy, a niewolnik od krowy...
 
-of this canal to the rulers of Egypt, but they had always met the
+Pozwól tylko, panie, wykopać kanał i wynajmij nam z pięćdziesiąt tysięcy twoich żołnierzy...
 
-unbending resistance of the priesthood. The Egyptian sages explained to
+Ramzes także się zapalił.
 
-the pharaoh that that canal would expose the country to inundations
+— Pięćdziesiąt tysięcy żołnierzy — powtórzył. — A ileż dacie mi za to?...
 
-from the Red Sea and the Mediterranean. But Hiram asserted that such a
+— Mówiłem już waszej świątobliwości... Tysiąc talentów rocznie za prawo robót i pięć tysięcy za robotników, których sami będziemy karmili i wynagradzali...
 
-thing would not happen; the priests knew that it would not.
+— I zamęczycie mi ich robotą?...
 
-"Ye Phoenicians," said the pharaoh, after a long time, "promise to pay
+— Niech bogowie bronią!... — zawołał Hiram. — To przecie żaden interes, gdy giną robotnicy... Żołnierze waszej świątobliwości nie będą więcej pracować przy kanale aniżeli dziś przy fortyfikacjach albo gościńcach... A jaka sława dla was, panie!... jakie dochody dla skarbu!... jaki pożytek dla Egiptu!... Najuboższy chłop może mieć drewnianą chałupę, kilkoro bydła, sprzęty i bodajże niewolnika... Żaden faraon nie podniósł państwa tak wysoko i nie dokonał tak niezmiernego dzieła...
 
-one thousand talents yearly for one hundred years. Ye say that that
+Bo czymże martwe i nieużyteczne piramidy będą wobec kanału, który ułatwi przewóz skarbów całego świata?...
 
-canal dug in the sand is the best affair in the world. I do not
+— No — dodał faraon — i pięćdziesiąt tysięcy wojska na wschodniej granicy...
 
-understand this, and I confess, Hiram, that I am suspicious."
+— Naturalnie!... — zawołał Hiram. — Wobec tej siły, której utrzymanie nie będzie nic kosztowało waszą świątobliwość, Asyria nie ośmieli się wyciągać ręki ku Fenicji...
 
-Hiram's eyes flashed.
+Plan był tak olśniewający i tyle obiecywał zysków, że Ramzes XIII uczuł się odurzonym. Lecz panował nad sobą.
 
-"Lord," replied he, "I mil tell thee everything, but I abjure thee by
+— Hiramie — rzekł — piękne robisz obietnice... Tak piękne, że lękam się, czy za nimi nie ukrywasz jakichś mniej pomyślnych następstw. Dlatego muszę i sam głęboko zastanowić się, i — naradzić z kapłanami.
 
-thy crown, by the shade of thy father, not to discover the secret to
+— Oni nigdy dobrowolnie nie zgodzą się!... — zawołał Fenicjanin. — Choć... (niech bogowie wybaczą mi bluźnierstwo) jestem pewny, że gdyby dziś najwyższa władza w państwie przeszła w ręce kapłanów, za parę miesięcy oni wezwaliby nas do tej budowy...
 
-any one. This is the greatest secret of the Chaldean and Egyptian
+Ramzes spojrzał na niego z chłodną pogardą.
 
-priests, and even of Phoenicia. On it depends the future of the world."
+— Starcze — rzekł — mnie zostaw troskę o posłuszeństwo kapłanów, a sam złóż dowody, że to, co mówiłeś, jest prawdą. Byłbym bardzo lichym królem, gdybym nie potrafił usunąć przeszkód wyrastających pomiędzy moją wolą a interesami państwa.
 
-"Well, well, Hiram," answered the pharaoh with a smile.
+— Zaprawdę, jesteś wielkim władcą, panie nasz — szepnął Hiram, schylając się do ziemi.
 
-"To thee, O pharaoh," continued the Phoenician, "the gods have given
+Było już późno w nocy. Fenicjanin pożegnał faraona i wraz z Tutmozisem opuścił pałac. Na drugi zaś dzień przysłał przez Dagona skrzynkę z próbkami bogactw nieznanych krajów.
 
-wisdom, nobility, and energy, therefore, Thou art on our side. Thou,
+Pan znalazł w niej posążki bogów, tkaniny i pierścienie indyjskie, małe kawałki opium, a w drugiej przegrodzie — garstkę ryżu, listki herbaty, parę porcelanowych czarek ozdobionych malowidłami i — kilkanaście rysunków wykonanych farbami i tuszem na papierze.
 
-alone, of earthly rulers mayst be initiated, for Thou art the only one
+Obejrzał to z największą uwagą i przyznał, że podobne okazy były mu nieznane. Ani ryż, ani papier, ani wizerunki ludzi, którzy mieli spiczaste kapelusze i skośne oczy.
 
-who will be able to accomplish great objects. For this reason Thou wilt
+Już nie wątpił o istnieniu jakiegoś nowego kraju, w którym wszystko było inne niż w Egipcie: góry, drzewa, domy, mosty, okręty...
 
-have power such as no man has ever reached before thee."
+„I taki kraj istnieje zapewne od wieków — myślał — nasi kapłani wiedzą o nim, znają jego bogactwa, lecz nic nie wspominają o nich... Oczywiście, są to zdrajcy, którzy chcą ograniczyć władzę i zubożyć faraonów, aby następnie zepchnąć ich z wysokości tronu...
 
-Ramses felt the sweetness of pride in his heart, but he mastered his
+Ale... o przodkowie i następcy moi — mówił w duchu — was wzywam na świadectwo, że tym nikczemnościom kres położę. Podźwignę mądrość, ale wytępię obłudę i dam Egiptowi czasy wytchnienia...”
 
-feelings.
+Myśląc tak, pan podniósł oczy i spostrzegł Dagona oczekującego na rozkazy.
 
-"Praise me not for what I have not done; but explain to me what profit
+— Skrzynia twoja jest bardzo ciekawa — rzekł do bankiera — ale... Ja nie tego chciałem od was.
 
-will come from this canal to Phoenicia and to Egypt?"
+Fenicjanin zbliżył się na palcach i uklęknąwszy przed faraonem szepnął:
 
-Hiram straightened himself in the chair, and began in a lowered voice,
+— Gdy wasza świątobliwość raczy podpisać umowę z dostojnym Hiramem, Tyr i Sydon u stóp waszych złożą wszystkie swoje skarby...
 
-"Know, lord, that east, north, and south of Assyria and Babylon are not
+Ramzes zmarszczył brwi. Nie podobało mu się zuchwalstwo Fenicjan, którzy ośmielali się stawiać mu warunki. Odparł więc chłodno:
 
-morasses inhabited by strange monsters, but immense states and
+— Zastanowię się i dam Hiramowi odpowiedź. Możesz odejść, Dagonie.
 
-countries. Those countries are so great that thy foot warriors, O
+Po wyjściu Fenicjanina Ramzes znowu zamyślił się. W jego duszy zaczęła budzić się reakcja.
 
-holiness, renowned for marching, would have to move eastward two years
+„Ci handlarze — mówił w sercu — uważają mnie za jednego ze swoich... ba!... śmią ukazywać mi z daleka wór złota, ażeby wymusić traktat!... Nie wiem, czy który z faraonów dopuścił ich kiedy do podobnej poufałości?...
 
-without halt before they could reach the end of them."
+Muszę to zmienić. Ludzie, którzy upadają na twarze przed wysłannikami Assara, nie mogą mówić do mnie: podpisz, a dostaniesz... Głupie szczury fenickie, które zakradłszy się do królewskiego pałacu, uważają go za swój chlewik!...”
 
-Ramses raised his brows like one who permits some man to lie, but knows
+Im dłużej myślał, im dokładniej przypominał sobie zachowanie Hirama i Dagona, tym silniejszy gniew go ogarniał.
 
-that he is lying.
+„Jak oni śmią... Jak oni śmią stawiać mi warunki?...”
 
-"Southeast of Babylon, ac the great sea, dwell one hundred millions of
+— Hej!... Tutmozis... — zawołał.
 
-people who have mighty kings, who have priests wiser than those of
+Wnet stanął przed nim ulubieniec.
 
-Egypt, who have ancient books, and skilled artisans. Those people know
+— Co rozkażesz, panie mój?
 
-how to make woven stuffs, implements and vessels as beautiful as those
+— Poślij którego z młodszych oficerów do Dagona, ażeby zawiadomił go, że przestaje być moim bankierem. Za głupi on jest na tak wysokie stanowisko...
 
-of the Egyptians, and from time immemorial they have temples above
+— A komu wasza świątobliwość przeznaczysz ten zaszczyt?
 
-ground and underground, which are grander, richer, and larger than the
+— W tej chwili nie wiem... Trzeba będzie znaleźć kogo między egipskimi albo greckimi kupcami... W ostateczności — odwołamy się do kapłanów.
 
-temples of Egypt."
+Wiadomość ta obiegła wszystkie pałace królewskie i przed upływem godziny doleciała do Memfisu. Po całym mieście opowiadano, że Fenicjanie wpadli w niełaskę u faraona, a ku wieczorowi lud już zaczął rozbijać sklepy znienawidzonym cudzoziemcom.
 
-"Speak on, speak on!" said the pharaoh. But it was impossible to learn
+Kapłani odetchnęli. Herhor złożył nawet wizytę świętemu Mefresowi i rzekł mu:
 
-from his face whether his curiosity was roused by the description, or
+— Serce moje czuło, że pan nasz odwróci się od tych pogan pijących krew ludu. Myślę, że należy okazać mu wdzięczność z naszej strony...
 
-he was indignant at the untruth of the Phoenician.
+— I może otworzyć drzwi do naszych skarbców?... — spytał szorstko święty Mefres. — Nie śpiesz się, wasza dostojność... Odgadłem już tego młodzika i — biada nam — jeżeli raz pozwolimy mu wziąć górę nad sobą...
 
-"In those countries," continued Hiram, "are pearls, precious stones,
+— A gdyby zerwał z Fenicjanami?...
 
-gold, copper; in those countries grow the most curious grains, flowers,
+— To sam na tym zyska, bo im nie spłaci długów — rzekł Mefres.
 
-and fruits; finally they have forests where a man might wander whole
+— Moim zdaniem — odezwał się po namyśle Herhor — jest to chwila, w której możemy odzyskać łaskę młodego faraona. W gniewie zapalczywy, umie on jednak być wdzięcznym... Doświadczyłem tego...
 
-months among trees thicker than the columns in the temples of Egypt and
+— Co wyraz, to błąd!... — przerwał zacięty Mefres. — Bo naprzód książę ten nie jest jeszcze faraonem, gdyż nie koronował się w świątyni... Po wtóre — nigdy nie będzie prawdziwym faraonem, gdyż pogardza arcykapłańskimi święceniami...
 
-taller than palms. The inhabitants of those countries are mild and
+A nareszcie — nie my potrzebujemy jego łaski, ale on łaski bogów, których na każdym kroku znieważa!...
 
-simple. And, holiness, if Thou wouldst send thither two regiments on
+Zadyszany z gniewu Mefres odpoczął i mówił dalej:
 
-ships, Thou wouldst be able to win an area of land larger than Egypt,
+— Był miesiąc w świątyni Hator, słuchał najwyższej mądrości i wnet potem wdał się z Fenicjanami. Ba!... odwiedzał bożnicę Astarty
 
-richer than the treasures of the labyrinth. If Thou permit, I will send
+Potem drwił publicznie z mojej pobożności... spiskował z takimi jak sam lekkoduchami i za pomocą Fenicjan wykradał państwowe tajemnice... A gdy wszedł na tron, źle mówię: ledwo wszedł na pierwsze stopnie tronu, już zohydza kapłanów, wichrzy chłopstwo i żołdactwo i odnawia śluby ze swoimi przyjaciółmi Fenicjanami...
 
-thee to-morrow specimens of the woven stuffs of those regions, with
+Czy, dostojny Herhorze, zapomniałbyś o tym wszystkim?... A jeżeli pamiętasz, czy nie rozumiesz niebezpieczeństw, jakie grożą nam od tego młokosa?... Wszak on ma pod ręką wiosło nawy państwowej, która posuwa się między wirami i skałą. Kto mi zaręczy, że ten szaleniec, który wczoraj — wezwał do siebie Fenicjan, a dziś — pokłócił się z nimi, nie spełni jutro czegoś, co narazi państwo na zgubę?...
 
-bronzes and woods from them. I will send also two grains of a wondrous
+— A więc... co... — spytał Herhor, bystro patrząc mu w oczy.
 
-balsam from those countries; if a man swallows this balsam, it opens
+— To, że nie mamy powodu okazywać mu wdzięczności, a naprawdę — słabości. A ponieważ chce gwałtem pieniędzy, nie damy pieniędzy!...
 
-the gates of eternity before him, and he experiences the happiness
+— A... a potem co?... — pytał Herhor.
 
-which falls to divinities only."
+— Potem będzie sobie rządził państwem i powiększał armię bez pieniędzy — odparł rozdrażniony Mefres.
 
-"I beg thee to send specimens of the stuffs, and the utensils. As to
+— A... a jeżeli jego wygłodzona armia zechce zrabować świątynie?... — wciąż pytał Herhor.
 
-the balsam, never mind! We shall enjoy eternity and the gods without it
+— Cha!... cha!... cha!... — wybuchnął śmiechem Mefres.
 
-sufficiently after death."
+Nagle spoważniał i kłaniając się, rzekł ironicznym tonem:
 
-"But far, very far east of Assyria," added Hiram, "lie still greater
+— To już należy do waszej dostojności... Człowiek, który przez tyle lat, jak wy, rządził państwem, winien był przygotować się na podobne niebezpieczeństwo.
 
-countries, countries which have two hundred millions of inhabitants."
+— Przypuśćmy — mówił powoli Herhor — przypuśćmy, że ja znalazłbym środki przeciw niebezpieczeństwom, które by groziły państwu. Ale czy wasza dostojność, który jesteś najstarszym arcykapłanem, potrafiłbyś zapobiec zniewadze stanu kapłańskiego i świątyń?...
 
-"How easy millions come to you Phoenicians," laughed Ramses.
+Przez chwilę obaj patrzyli sobie w oczy.
 
-Hiram placed his baud on his heart.
+— Pytasz: czybym potrafił? — rzekł Mefres. — Czy potrafię?... Ja nawet nie będę trafiał. Bogowie złożyli w moich rękach piorun, który zniszczy każdego świętokradcę.
 
-"I swear," said he, "by the souls of my ancestors, and by my honor that
+— Psyt!... — szepnął Herhor. — Niechże się tak stanie...
 
-I am telling truth."
+— Za zgodą czy bez zgody najwyższej rady kapłanów — dodał Mefres. — Kiedy czółno wywraca się, nie czas na rozprawianie z wioślarzami.
 
-The pharaoh was moved; such a great oath arrested his attention.
+Rozeszli się obaj w posępnym nastroju. Zaś tego samego dnia wieczorem wezwał ich faraon.
 
-"Speak on speak!" said he.
+Przyszli o naznaczonej porze, każdy oddzielnie. Złożyli głęboki ukłon panu i — każdy stanął w innym kącie, nie patrząc na drugiego.
 
-"These last lands," continued the Phoenician, "are very wonderful. They
+„Czyby się poróżnili ze sobą?... — pomyślał Ramzes. — Nic to nie szkodzi...”
 
-are inhabited by people with yellow skin and sloping eyes. Those people
+W chwilę później wszedł święty Sem i prorok Pentuer. Wtedy Ramzes usiadł na wzniesieniu, wskazał czterem kapłanom niskie taborety naprzeciw siebie i rzekł:
 
-have a sovereign who is called the Son of Heaven, and he governs
+— Święci ojcowie! Nie wzywałem was do tej pory na radę, ponieważ wszystkie moje rozkazy odnosiły się wyłącznie do spraw wojskowych...
 
-through sages, who are not priests, however, and have not such power as
+— Miałeś prawo, wasza świątobliwość — wtrącił Herhor.
 
-priests have in Egypt. Still those people are like the Egyptians. They
+— Zrobiłem też, com mógł, w czasie tak niedługim, ażeby wzmocnić obronne siły państwa. Utworzyłem dwie nowe szkoły oficerskie i wskrzesiłem pięć zwiniętych pułków...
 
-honor dead ancestors and take great care of their remains. They use
+— Miałeś prawo, panie — odezwał się Mefres.
 
-writing which calls to mind the writing of Egyptian priests. But they
+— O innych wojskowych ulepszeniach nie mówię, gdyż was, ludzi świętych, rzeczy te nie obchodzą...
 
-wear long robes of such stuffs as are unknown in this country; they
+— Masz słuszność, panie — rzekli razem Mefres i Herhor.
 
-have sandals which are like little benches, and they cover their heads
+— Ale jest inna sprawa — mówił faraon, zadowolony potakiwaniem dwu dostojników, od których spodziewał się opozycji. — Zbliża się dzień pogrzebu boskiego ojca mego, lecz skarb nie posiada dostatecznych funduszów...
 
-with pointed boxes. The roofs of their houses are pointed too at the
+Mefres podniósł się z taboretu.
 
-top, and are turned up at the edges.
+— Ozyrys-Mer-amen-Ramzes — rzekł — był sprawiedliwym panem, który ludowi swemu zapewnił wieloletni spokój, a bogom chwałę. Pozwól więc, wasza świątobliwość, aby pogrzeb tego pobożnego faraona odbył się na koszt świątyń.
 
-"Those uncommon people have a grain which is more plentiful than
+Ramzes XIII zdziwił się i wzruszył hołdem oddanym jego ojcu. Przez chwilę milczał, jakby nie mogąc znaleźć odpowiedzi, wreszcie odparł:
 
-Egyptian wheat, and they make of it a drink which is stronger than
+— Bardzo jestem wam wdzięczny za cześć okazaną równemu bogom ojcu memu. Zezwalam na taki pogrzeb i jeszcze raz — bardzo wam dziękuję...
 
-wine. They have a plant the leaves of which give strength to the
+Przerwał, wsparł głowę na ręku i rozmyślał, jakby ze sobą samym staczając walkę. Nagle podniósł głowę: twarz jego była ożywiona, oczy błyszczały.
 
-members, gladness to the mind, and which enables them even to dispense
+— Jestem wzruszony — rzekł — dowodem waszej życzliwości, święci ojcowie. Jeżeli tak drogą jest wam pamięć mego ojca, więc chyba nie możecie być niechętni dla mnie...
 
-with sleep. They have paper which they adorn with many colored images,
+— Czy wasza świątobliwość wątpi o tym?... — wtrącił arcykapłan Sem.
 
-and they have clay which after it is burned shines like glass, and is
+— Mówisz prawdę — ciągnął faraon — niesłusznie was posądzałem o uprzedzenie do mnie... Ale chcę to naprawić, więc będę z wami szczerym...
 
-as resonant as metal.
+— Niech bogowie błogosławią waszą świątobliwość!... — rzekł Herhor.
 
-"Tomorrow, if Thou permit, holiness, I will send specimens of the works
+— Będę szczerym. Boski ojciec mój, skutkiem wieku, choroby, a może i zajęć kapłańskich, nie mógł tyle sił i czasu poświęcać sprawom państwa, ile ja mogę. Ja jestem młody, zdrów, wolny, więc chcę i będę rządził sam. Jak wódz musi prowadzić swoją armię na własną odpowiedzialność i według własnego planu, tak ja będę kierował państwem. Oto jest moja wyraźna wola i od tego nie odstąpię.
 
-of these people."
+Ale rozumiem, że choćbym był najdoświadczeńszy, nie obejdę się bez wiernych sług i mądrych doradców. I dlatego będę niekiedy zapytywał was o opinię w rozmaitych sprawach...
 
-"Thou art narrating wonders, Hiram. But I do not see the connection
+— Po toż jesteśmy najwyższą radą przy tronie waszej świątobliwości — wtrącił Herhor.
 
-between those things and the canal which Thou wishest to dig."
+— Owszem — mówił wciąż ożywiony faraon — będę korzystał z waszych usług, nawet od tej chwili, zaraz...
 
-"I will tell in brief," replied the Phoenician. "When there is a canal
+— Rozkazuj, panie — rzekł Herhor.
 
-all the Phoenician and Egyptian fleets will sail on the Red Sea and
+— Chcę poprawić byt ludu egipskiego. Ale ponieważ w podobnych sprawach zbyt szybkie działanie może tylko przynieść szkody, więc na początek ofiaruję im rzecz drobną: po sześciu dniach pracy — siódmy dzień odpoczynku...
 
-beyond it; in the course of a couple of months they will reach those
+— Tak było przez ciąg panowania osiemnastu dynastii... Prawo to jest stare jak sam Egipt — odezwał się Pentuer.
 
-rich countries which by land are almost inaccessible.
+— Odpoczynek co siódmy dzień da pięćdziesiąt dni rocznie na każdego robotnika, czyli jego panu ujmie pięćdziesiąt drachm. A na milionie robotników państwo straci z dziesięć tysięcy talentów rocznie... — rzekł Mefres. — Myśmy to już rachowali w świątyniach!... — dodał.
 
-"But dost Thou not see, holiness," continued he, with gleaming eyes,
+— Tak jest — żywo odparł Pentuer — straty będą, ale tylko w pierwszym roku. Bo gdy lud wzmocni swoje siły wypoczynkami, w następnych latach odrobi wszystko z przewyżką...
 
-"the treasures which we shall find there? Gold, precious stones, grain,
+— Prawdę mówisz — odpowiedział Mefres — w każdym jednak razie trzeba mieć dziesięć tysięcy talentów na ów pierwszy rok. Ja zaś myślę, że i dwadzieścia tysięcy talentów nie zawadziłoby...
 
-woods? I swear to thee, lord," added he with enthusiasm, "that gold
+— Masz słuszność, dostojny Mefresie — zabrał głos faraon. — Przy zmianach, jakie chcę zaprowadzić w moim państwie, dwadzieścia, a nawet trzydzieści tysięcy talentów nie będzie sumą zbyt wielką.
 
-will be cheaper than copper is now, wood will be cheaper than straw,
+Dlatego — dodał szybko — od was, święci mężowie, będę potrzebował pomocy...
 
-and a slave cheaper than a cow. Only let us, lord, dig the canal, and
+— Każdy zamiar waszej świątobliwości gotowi jesteśmy popierać modłami i procesjami — rzekł Mefres.
 
-hire fifty thousand of thy warriors."
+— Owszem, módlcie się i zachęcajcie do tego naród. Ale prócz tego dajcie państwu trzydzieści tysięcy talentów — odpowiedział faraon.
 
-Ramses, too, was excited.
+Arcykapłani milczeli. Pan chwilę czekał, w końcu zwrócił się do Herhora:
 
-"Fifty thousand warriors," repeated he. "But what will ye give me for
+— Milczysz, wasza dostojność?
 
-this?"
+— Sam powiedziałeś, władco nasz, że skarb nie ma funduszu nawet na pogrzeb Ozyrysa-Mer-amen-Ramzesa. Nie mogę więc nawet odgadnąć: skąd wzięlibyśmy trzydzieści tysięcy talentów?...
 
-"I have said already, holiness. One thousand talents yearly for the
+— A skarbiec Labiryntu?...
 
-right to work, and five thousand for the workmen, to whom we will give
+— To są skarby bogów, które można by naruszyć tylko w chwili największej potrzeby państwa — odparł Mefres.
 
-food and wages."
+Ramzes XIII zakipiał gniewem.
 
-"But ye will kill them with work?"
+— Jeżeli nie chłopi — zawołał, uderzając pięścią w poręcz — więc ja potrzebuję tej sumy!...
 
-"May the gods forbid! There is no profit when workmen perish. Thy
+— Wasza świątobliwość — odparł Mefres — może w ciągu roku zyskać więcej niż trzydzieści tysięcy talentów, a Egipt dwa razy tyle...
 
-warriors, holiness, will not work more at the canal than today on roads
+— Jakim sposobem?...
 
-and at fortresses but what glory for thee, lord! what income for the
+— Bardzo prostym — mówił Mefres. — Każ, władco, wypędzić z państwa Fenicjan...
 
-treasury, what profit for Egypt! The poorest earth-tiller will have a
+Zdawało się, że pan rzuci się na zuchwałego arcykapłana: zbladł, drżały mu usta i oczy wyszły z orbit. Lecz w jednej chwili pohamował się i rzekł na podziw spokojnym tonem:
 
-wooden cottage, some cattle, tools, and furniture, and as I live, a
+— No, dosyć... Jeżeli tylko takich rad potraficie mi udzielać, obejdę się bez nich... Przecież Fenicjanie mają nasze podpisy, że im wiernie spłacimy zaciągnięte długi!... Czy nie przyszło ci to na myśl, Mefresie?...
 
-slave. No pharaoh has ever raised the state to such a height or carried
+— Daruj, wasza świątobliwość, ale w tej chwili zajmowały mnie inne myśli. Twoi przodkowie, panie, nie na papirusach, ale na brązie i kamieniach rzeźbili, że dary, złożone przez nich bogom i świątyniom, należą i wiecznie będą należały do bogów i do świątyń.
 
-out such a work.
+— I do was — rzekł szyderczo faraon.
 
-"What will dead and useless pyramids be in comparison with a canal to
+— O tyle do nas — odparł zuchwały arcykapłan — o ile państwo należy do ciebie, władco. Pilnujemy tych skarbów i pomnażamy je, ale trwonić ich — nie mamy prawa...
 
-facilitate the passage of treasures to the whole world?"
+Dyszący gniewem pan opuścił zebranie i poszedł do swego gabinetu. Jego położenie przedstawiło mu się okrutnie jasno.
 
-"Yes," added the pharaoh, "and fifty thousand warriors on the eastern
+O nienawiści kapłanów do siebie już nie wątpił. To byli ci sami oszołomieni pychą dostojnicy, którzy w roku zeszłym nie dali mu korpusu Menfi i dopiero zrobili go namiestnikiem, gdy zdawało im się, że spełnił akt pokory, usuwając się z pałacu. Ci sami, którzy kontrolowali każdy jego ruch, składali o nim raporty, ale jemu, następcy tronu, nie powiedzieli nawet o traktacie z Asyrią. Ci sami, co oszukiwali go w świątyni Hator, a nad Sodowymi Jeziorami wymordowali jeńców, którym on przyobiecał łaskę.
 
-boundary."
+Faraon przypomniał sobie ukłony Herhora, spojrzenia Mefresa i ton głosu obydwu. Spod pozorów uprzejmości co chwilę wynurzała się ich duma i lekceważenie jego. On potrzebuje pieniędzy, a oni obiecują mu modlitwy, ba!... ośmielają się mówić, że nie jest wyłącznym władcą Egiptu.
 
-"Of course!" exclaimed Hiram. "In view of that force, which will cost
+Młody pan mimo woli uśmiechnął się: przyszły mu bowiem na myśl wynajęte pastuchy, którzy właścicielowi trzody mówią, że on nie ma prawa robić z nią tego, co chce!...
 
-thee nothing, holiness, Assyria will not dare to stretch a hand toward
+Lecz obok strony śmiesznej była tu strona groźna. W skarbie znajdowało się może tysiąc talentów, które według dotychczasowej normy wydatków mogły starczyć na siedem do dziesięciu dni. A co potem?... Jak zachowają się urzędnicy, służba, a przede wszystkim — wojsko nie tylko nie pobierające żołdu, ale wprost głodne?...
 
-Phoenicia."
+Arcykapłani znali to położenie faraona, a jeżeli nie śpieszą mu z pomocą, więc chcą go zgubić... I to zgubić w ciągu kilku dni, nawet przed pogrzebem ojca.
 
-The project was so brilliant and promised such profit that Ramses XIII
+Ramzes przypomniał sobie pewien wypadek z dzieciństwa.
 
-felt dazed by it. But he mastered himself.
+Był w szkole kapłańskiej, kiedy na święto bogini Mut, między innymi zabawami, sprowadzono najsławniejszego w Egipcie błazna.
 
-"Hiram," said he, "Thou art making splendid promises. So splendid that
+Artysta ten udawał nieszczęśliwego bohatera. Gdy rozkazywał — nie słuchano go, na jego gniewy odpowiadano śmiechem; a gdy dla ukarania szyderców schwycił za topór, topór złamał mu się w rękach.
 
-I fear lest Thou art concealing behind them some less favorable
+W końcu wypuszczono na niego lwa, a — gdy bezbronny bohater zaczął uciekać, okazało się, że nie goni go lew, ale świnia w lwiej skórze.
 
-outcome. Therefore I must think over this matter deeply and take
+Uczniowie i nauczyciele śmieli się do łez z tych przygód; ale mały książę siedział posępny: jemu żal było człowieka, który rwał się do rzeczy wielkich, lecz padał okryty szyderstwem.
 
-counsel with the priests."
+Scena ta i uczucia, jakich doznał podówczas, dziś odżyły w pamięci faraona.
 
-"They will never consent of themselves!" exclaimed the Phoenician.
+„Takim chcą mnie zrobić!...” — rzekł do siebie.
 
-"Though may the gods forgive me the blasphemy I am certain that if
+Ogarnęła go rozpacz, bo uczuł, że jednocześnie z wydaniem ostatniego talentu skończy się jego władza, a razem z nią i życie.
 
-today the highest power were in the hands of the priests they would
+Tu jednak nastąpił nagły zwrot. Pan stanął na środku komnaty i rozmyślał.
 
-summon us in a couple of months to make the canal for them."
+„Co mnie może spotkać?... Tylko śmierć... Odejdę do moich sławnych przodków, do Ramzesa Wielkiego... A im przecież nie mogę powiedzieć, żem zginął, nie broniąc się... Po nieszczęściach życia ziemskiego spotkałaby mnie hańba wiekuista...”
 
-Ramses looked with cold contempt at Hiram.
+Jak to, on, zwycięzca znad Sodowych Jezior, miałby ustąpić przed garścią obłudników, z którymi jeden azjatycki pułk nie miałby wielkiego zajęcia?... Więc dlatego, że Mefres i Herhor chcą rządzić Egiptem i faraonem, jego wojska mają cierpieć głód, a milion chłopów nie otrzymać łaski odpoczynku?...
 
-"Old man," said he, "leave me to care for the obedience of the priests,
+Alboż nie jego przodkowie powznosili te świątynie?... Alboż nie oni wypełnili je łupami?... A kto wygrywał bitwy: kapłani czy żołnierze?... Więc kto ma prawo do skarbów: kapłani czy faraon i jego armia?
 
-and do Thou present proofs that what Thou hast said is true. I should
+Młody pan wzruszył ramionami i wezwał do siebie Tutmozisa. Mimo późnej nocy królewski ulubieniec zjawił się natychmiast.
 
-be a very poor sovereign were I unable to remove obstacles springing up
+— Czy wiesz? — rzekł faraon — kapłani odmówili mi pożyczki, pomimo że skarb jest pusty.
 
-between my will and the interests of Egypt."
+Tutmozis wyprostował się.
 
-"Thou art indeed a great sovereign, our lord," whispered Hiram, bending
+— Każesz, wasza świątobliwość, zaprowadzić ich do więzienia?... — odparł.
 
-to the floor.
+— Zrobiłbyś to?...
 
-It was then late at night. The Phoenician took farewell of the pharaoh
+— Nie ma w Egipcie oficera, który zawahałby się spełnić rozkaz naszego pana i wodza.
 
-and left the palace with Tutmosis. The following day he sent through
+— W takim razie... — mówił powoli faraon — w takim razie... nie trzeba więzić nikogo. Za wiele mam potęgi dla siebie, a pogardy dla nich. Padliny, którą człowiek spotkał na gościńcu, nie zamyka w okutej skrzyni, tylko ją obchodzi...
 
-Dagon a box with specimens of wealth from the unknown countries.
+— Ale hienę sadza się do klatki — szepnął Tutmozis.
 
-The pharaoh found in it statues of gods, woven stuffs, rings from
+— Jeszcze za wcześnie — odparł Ramzes. — Muszę być łaskawym dla tych ludzi przynajmniej do pogrzebu ojca mego. Gdyż inaczej gotowi jego czcigodnej mumii zrobić jakie łotrostwo i zakłócić spokój duszy... A teraz, pójdź jutro do Hirama i powiedz, ażeby przysłał mi tego kapłana, o którym mówiliśmy.
 
-India, small morsels of opium, and in a second division handfuls of
+— Tak się stanie. Muszę jednak wspomnieć waszej świątobliwości, że dzisiaj lud napadał domy memfijskich Fenicjan...
 
-rice, leaves of tea, two porcelain cups ornamented with pictures, and a
+— Oho?... To było niepotrzebne.
 
-number of drawings made on paper with China ink and colors. He examined
+— Zdaje mi się też — ciągnął Tutmozis — że od czasu kiedy wasza świątobliwość kazałeś Pentuerowi zbadać położenie chłopów i robotników, kapłani podburzają nomarchów i szlachtę... Mówią, panie, że chcesz zrujnować szlachtę dla chłopów...
 
-them with the greatest attention and confessed that those articles were
+— I szlachta wierzy temu?...
 
-new to him: the rice, the paper, the pictures of people with pointed
+— Są tacy, którzy wierzą. Ale są i tacy, którzy wręcz odpowiadają, że to jest intryga kapłańska przeciw waszej świątobliwości.
 
-hats and sloping eyes.
+— A gdybym naprawdę chciał poprawić dolę chłopów?... — spytał faraon.
 
-He had no doubt now that a new region existed which differed in every
+— Uczynisz, panie, to, co ci się podoba — odparł Tutmozis.
 
-way from Egypt: in mountains, trees, houses, bridges, ships.
+— O, taką odpowiedź rozumiem! — zawołał wesoło Ramzes XIII. — Bądź spokojny i powiedz szlachcie, że nie tylko nic nie stracą, spełniając moje rozkazy, ale jeszcze byt ich i znaczenie poprawi się. Bogactwa Egiptu muszą nareszcie być wydarte z rąk niegodnych, a oddane wiernym sługom.
 
-"And that country has existed for ages undoubtedly," thought he; "our
+Faraon pożegnał ulubieńca i zadowolony udał się na spoczynek. Jego chwilowa desperacja wydawała mu się teraz rzeczą godną śmiechu.
 
-priests know of it, they know of its wealth, but say nothing. Evidently
+Nazajutrz, około południa, zameldowano jego świątobliwości, że przyszła deputacja fenickich kupców.
 
-they are traitors who wish to limit the power of the pharaoh and
+— Czy może chcą skarżyć się za napad na ich domy?... — spytał faraon.
 
-impoverish him so as to push him down from the height of the throne
+— Nie — odparł adiutant — chcą złożyć hołd.
 
-afterward.
+Istotnie kilkunastu Fenicjan, pod przewodnictwem Rabsuna, przyszli z darami. Gdy pan ukazał im się, upadli na ziemię, po czym Rabsun oświadczył, że starym obyczajem ośmielają się złożyć nikczemną ofiarę u stóp władcy, który im daje życie, a ich majątkom bezpieczeństwo.
 
-"But O ye my ancestors and my heirs," said he in spirit, "I call you to
+Po czym składali na stołach złote misy, łańcuchy i puchary napełnione klejnotami. Zaś Rabsun położył na stopniach tronu tacę z papirusem, gdzie Fenicjanie zobowiązali się dać dla wojska wszelkich rzeczy potrzebnych za dwa tysiące talentów.
 
-witness that I will put a limit to these iniquities; I will elevate
+Był to dar zacny: wszystko bowiem, co ofiarowali Fenicjanie, przedstawiało sumę trzech tysięcy talentów.
 
-wisdom, but I will stamp out deceit, and I will give Egypt hours of
+Pan odpowiedział wiernym kupcom bardzo łaskawie, obiecując im swoją opiekę. Pożegnali go uszczęśliwieni.
 
-rest from labor."
+Ramzes XIII odetchnął: bankructwo skarbu, a więc i konieczność użycia gwałtownych środków przeciw kapłanom odsunęła się na dalsze dziesięć dni.
 
-Thinking thus, he raised his eyes and beheld Dagon waiting for an
+Wieczorem, znowu pod opieką Tutmozisa, stanął w gabinecie jego świątobliwości dostojny Hiram. Tym razem nie skarżył się na zmęczenie, ale upadł na twarz i jękliwym głosem przeklinał głupiego Dagona.
 
-answer.
+— Dowiedziałem się — mówił — że ten parch śmiał przypominać waszej świątobliwości naszą umowę o kanał do Morza Czerwonego... Niech on zmarnieje!... niech jego trąd stoczy!... niech jego dzieci zostaną świnopasami, a wnuki Żydami...
 
-"Thy box is very curious," said he to the banker, "but this is not what
+Ty zaś, władco, tylko rozkazuj, a ile ma bogactw Fenicja, wszystkie złoży u stóp twoich bez żadnego kwitu i traktatu... Czy to my Asyryjczycy albo... kapłani — dodał szeptem — ażeby nie wystarczało nam jedno słowo tak potężnego mocarza?...
 
-I asked of thee."
+— A gdybym ja, Hiramie, naprawdę zażądał wielkiej sumy? — spytał faraon.
 
-The Phoenician approached him on tiptoe and, kneeling before him,
+— Jakiej?...
 
-whispered,
+— Na przykład... trzydziestu tysięcy talentów...
 
-"Deign holiness, to sign a treaty with the worthy Hiram, then Tyre and
+— Czy natychmiast?
 
-Sidon will place all their treasures at thy feet."
+— Nie, w ciągu roku.
 
-Ramses frowned. He was displeased by the insolence of the Phoenicians
+— Będzie ją miał wasza świątobliwość — odpowiedział bez namysłu Hiram.
 
-who dared to lay down conditions to him; so he answered coldly,
+Pan zdumiał się tej hojności.
 
-"I will reflect and give Hiram my answer. Thou mayst withdraw, Dagon."
+— No, ale muszę wam dać zastaw...
 
-After the Phoenician had gone, Ramses meditated again; a reaction began
+— To tylko dla formy — odparł Fenicjanin — da nam wasza świątobliwość na zastaw kopalnie, ażeby nie obudzić podejrzeń kapłanów... Gdyby nie to, Fenicja cała odda się wam bez zastawów i kwitów...
 
-in him,
+— A kanał?... Czy mam zaraz traktat podpisać? — spytał faraon.
 
-"Those hucksters," said he in his heart, "consider me as one of
+— Wcale nie. Wasza świątobliwość zawrze z nami traktat, kiedy sam zechce...
 
-themselves, nay more, they dare to hold up to me a bag of gold from
+Ramzesowi zdawało się, że jest podniesiony w górę. W tej chwili dopiero poznał słodycz królewskiej władzy, i to — dzięki Fenicjanom!
 
-afar so as to extort a treaty! I know not that any of the pharaohs
+— Hiramie! — rzekł, już nie panując nad sobą. — Dziś daję wam, Fenicjanom, pozwolenie na budowę kanału, który połączy Morze Śródziemne z Czerwonym...
 
-admitted them to such confidence! I must change. The men who fall on
+Starzec upadł do nóg faraona.
 
-their faces before the envoys of Assar may not say to me, 'Sign and
+— Jesteś największym królem, jakiego widziano na ziemi! — zawołał.
 
-Thou wilt get!' Stupid Phoenician rats, who steal into the pharaoh's
+— Do czasu nie wolno ci mówić o tym nikomu, bo wrogowie mojej sławy czuwają. Abyś jednak miał pewność, daję ci ten oto mój pierścień królewski...
 
-palace and look on it as their own den a moment later!"
+Zdjął z palca pierścień ozdobiony czarodziejskim kamieniem, na którym było wyryte imię Horusa, i włożył go na palec Fenicjaninowi.
 
-The longer he thought over it the more precisely he recalled the
+— Majątek całej Fenicji jest na twoje rozkazy! — powtarzał głęboko wzruszony Hiram. — Dokonasz, panie, dzieła, które będzie ogłaszało imię twoje, dopóki nie zagaśnie słońce...
 
-bearing of Hiram and Dagon, the greater the auger that seized him,
+Faraon uścisnął jego siwą głowę i kazał mu usiąść.
 
-"How dare they how dare they lay conditions down to me? Hei, Tutmosis!"
+— A więc jesteśmy sprzymierzeńcami — rzekł po chwili pan — i mam nadzieję, że wyniknie stąd pomyślność dla Egiptu i dla Fenicji...
 
-cried he.
+— Dla całego świata! — wtrącił Hiram.
 
-His favorite stood before him immediately.
+— Powiedz mi jednak, książę, skąd masz taką ufność we mnie?...
 
-"What dost Thou command, my lord?"
+— Znam szlachetny charakter waszej świątobliwości. Gdybyś, władco, nie był faraonem, po kilku latach zostałbyś najznakomitszym kupcem fenickim i naczelnikiem naszej rady...
 
-"Send some one of the younger officers to Dagon to inform him that he
+— Przypuśćmy — odparł Ramzes. — Ależ ja, aby dotrzymać wam obietnic, muszę pierwej zgnieść kapłanów. Jest to walka, a skutek walki niepewny...
 
-has ceased to be my banker. He is too stupid for such a lofty
+Hiram uśmiechnął się.
 
-position."
+— Panie — rzekł — gdybyśmy byli tak nikczemni, żebyśmy cię opuścili dzisiaj, kiedy twój skarb jest pusty, a nieprzyjaciele hardzi, przegrałbyś walkę. Bo człowiek pozbawiony środków łatwo traci odwagę, a od ubogiego króla odwraca się i jego armia, i poddani, i dygnitarze...
 
-"But to whom dost Thou predestine the honor, holiness?"
+Ale jeżeli ty, panie, masz nasze złoto i naszych agentów, a swoje wojsko i jenerałów, to z kapłanami tyle będziesz miał kłopotu, ile słoń ze skorpionem. Ledwie postawisz nogę na nich, i już będą rozmiażdżeni...
 
-"I know not at the moment. It will be necessary to find some one among
+Wreszcie — to nie moja rzecz. W ogrodzie czeka arcykapłan Samentu, któremu wasza świątobliwość kazałeś przyjść. Ja się usuwam; teraz jego pora... Ale od dostarczania pieniędzy to ja się nie usuwam i do wysokości trzydziestu tysięcy talentów niech wasza świątobliwość rozkazuje...
 
-Egyptian or Greek merchants. In the last resort we will turn to the
+Hiram znowu upadł na twarz i wyszedł obiecując, że natychmiast przyśle Samentu.
 
-priests."
+W pół godziny zjawił się arcykapłan. Nie golił on rudej brody i kudłatych włosów, jak przystało na czciciela Seta; twarz miał surową, ale oczy pełne mądrości. Ukłonił się bez zbytniej pokory i spokojnie wytrzymał sięgające do głębi duszy spojrzenie faraona.
 
-Information of this resolve went through all the palaces, and before an
+— Siądź — rzekł pan.
 
-hour it had reached Memphis. Throughout the whole city people said that
+Arcykapłan usiadł na posadzce.
 
-the Phoenicians were in disfavor with the pharaoh. Towards evening the
+— Podobasz mi się — mówił Ramzes. — Masz postawę i fizjognomię Hyksosa, a oni są najwaleczniejszymi żołnierzami mojej armii.
 
-Egyptians had begun to break into the shops of the hated foreigners.
+Potem nagle zapytał:
 
-The priests drew a breath of relief. Herhor even made a visit to holy
+— Ty powiedziałeś Hiramowi o traktacie naszych kapłanów z Asyryjczykami?...
 
-Mefres and said to him,
+— Ja — odparł Samentu, nie spuszczając oka.
 
-"My heart felt that our lord would turn from those unbelievers who are
+— Byłeś uczestnikiem tej niegodziwości?
 
-drinking the blood of the people. I think that it is proper for us to
+— Nie. Podsłuchałem tą umowę... W świątyniach, jak w pałacach waszej świątobliwości, mury są podziurawione kanałami, za pośrednictwem których nawet ze szczytu pylonów można słyszeć: co mówi się w podziemiach...
 
-show him gratitude."
+— A z podziemiów można przemawiać do osób mieszkających w górnych komnatach?... — wtrącił faraon.
 
-"And perhaps open the doors to our treasures?" asked Mefres, rudely.
+— I udawać rady bogów — dodał poważnie kapłan.
 
-"Hasten not, worthiness, I have divined this young man woe to us if
+Faraon uśmiechnął się. Więc przypuszczenie, że to nie duch ojca przemawiał do niego i do matki, tylko kapłani — było prawdziwe!
 
-ever we let him get the upper hand."
+— Dlaczego powierzyłeś Fenicjanom wielką tajemnicę państwa? — zapytał Ramzes.
 
-"But if he has broken with the Phoenicians?"
+— Bo chciałem zapobiec haniebnemu traktatowi, który szkodził zarówno nam, jak i Fenicji.
 
-"He will gain by that; for he will not pay his debts to them."
+— Mogłeś ostrzec kogo z dostojnych Egipcjan...
 
-"In my opinion," said Herhor, after some thought, "now is the moment in
+— Kogo?... — zapytał kapłan. — Czy takich, którzy wobec Herhora byli bezsilni, czy takich, którzy by mnie oskarżyli przed nim i narazili na śmierć w męczarniach?... Powiedziałem Hiramowi, bo on stykał się z naszymi dostojnikami, których ja nie widuję nigdy.
 
-which we can regain the favor of this youthful pharaoh. He is hasty in
+— A dlaczego Herhor i Mefres zawarli podobną umowę? — badał faraon.
 
-anger, but he knows how to be grateful. I have experienced that.
+— Są to, moim zdaniem, ludzie słabej głowy, których nastraszył Beroes, wielki kapłan chaldejski. Powiedział im, że nad Egiptem przez dziesięć lat będą srożyły się złe losy i że gdybyśmy w ciągu tego czasu rozpoczęli wojnę z Asyrią, zostalibyśmy pobici.
 
-"Every word is an error," interrupted the stubborn Mefres. "First of
+— I oni uwierzyli temu?
 
-all, this prince is not the pharaoh yet, for he has not been crowned in
+— Podobno Beroes pokazywał im cuda... Nawet wzniósł się nad ziemię... Niewątpliwie jest to rzecz dziwna; ale ja nigdy nie zrozumiem: dlaczego mielibyśmy za to stracić Fenicję, że Beroes umie latać nad ziemią?
 
-a temple. Second, he will never be a real pharaoh, since through
+— Więc i ty nie wierzysz w cuda?...
 
-contempt he will never be ordained a high priest. And finally, we do
+— Jak w jakie — odparł Samentu. — Zdaje się, że Beroes naprawdę wykonywa rzeczy niezwykłe, ale — nasi kapłani tylko oszukują, zarówno lud, jak i władców.
 
-not need his favor, while he needs the favor of the gods, whom he
+— Nienawidzisz kapłańskiego stanu?
 
-insults at every step he makes."
+Samentu rozłożył ręce.
 
-Mefres, who had been panting from anger, stopped and began anew,
+— Oni mnie także nie cierpią, a co gorsze, poniewierają mną niby z tej racji, że służę Setowi. Tymczasem co mi to za bogowie, którym za pomocą sznurków trzeba poruszać głowę i ręce?... Albo co mi to za kapłani, którzy udając pobożnych i powściągliwych mają po dziesięć kobiet, wydatkują po kilkanaście talentów rocznie, kradną ofiary składane na ołtarzach i są mało co mędrsi od uczniów wyższej szkoły?
 
-"He spent a month in the temple of Hator, he listened to the highest
+— Ale ty bierzesz datki od Fenicjan?
 
-wisdom, and immediately afterward betook himself to the Phoenicians.
+— Od kogóż mam brać? Jedni Fenicjanie naprawdę czczą Seta i boją się, aby nie zatapiał im okrętów. U nas zaś szanują go tylko biedacy. Gdybym poprzestawał na ich ofiarach, umarłbym z głodu — ja i moje dzieci.
 
-What do I say? He visited the idol house of Astarte and took thence a
+Faraon pomyślał, że jednak ten kapłan nie jest złym człowiekiem, choć zdradza tajemnice świątyń. A przy tym wydaje się być mądry i mówi prawdę.
 
-priestess an offence against all religions. After that he reviled my
+— Słyszałeś co — spytał znowu pan — o kanale, który ma połączyć Morze Śródziemne z Czerwonym?
 
-piety, in public; conspired with such frivolous minds as his own, and
+— Znam tą sprawę. Już od kilkuset lat nasi inżynierowie obrobili ten projekt.
 
-with the aid of Phoenicians stole state secrets. And when he ascended
+— A dlaczego nie wykonano go dotychczas?
 
-the throne I speak incorrectly, when he had barely stood on the first
+— Gdyż kapłani boją się, aby nie napłynęły do Egiptu ludy obce, które mogłyby podkopać naszą religię, a wraz z nią ich dochody.
 
-step of the throne, he tried to make the priests odious; he disturbed
+— A czy prawda jest, co mówił Hiram o ludach mieszkających na dalekim wschodzie?
 
-the earth-tillers and the warriors, and renewed vows with his friends
+— Najzupełniejsza. Od dawna wiemy o nich i nie ma dziesiątka lat, ażebyśmy z tamtych krajów nie otrzymali jakiegoś klejnotu, rysunku czy wyrobu.
 
-the Phoenicians.
+Faraon znowu zamyślił się i nagle spytał:
 
-"Dost thou, worthy Herhor, forget all this? And if Thou remember, dost
+— Będziesz mi wiernie służył, gdy zrobię cię moim doradcą?...
 
-Thou not understand the dangers which threaten us from this milksop?
+— Służyć będę waszej świątobliwości na życie i śmierć. Ale... gdybym został doradcą tronu, oburzyliby się kapłani, którzy mnie nienawidzą.
 
-Still he has under his hand the rudder of the ship of state, which he
+— Nie sądzisz, że można ich obalić?...
 
-pushes in among rocks and eddies. Who will assure me that this madman,
+— I bardzo łatwo! — odparł Samentu.
 
-who yesterday summoned to his presence the Phoenicians, but quarreled
+— Jakiż byłby twój plan, gdybym musiał pozbyć się ich?
 
-with them today, will not do something to-morrow which will expose
+— Należałoby opanować skarbiec Labiryntu — wykładał kapłan.
 
-Egypt to destruction?"
+— Trafiłbyś do niego?
 
-"And therefore, what?" inquired Herhor, looking into his eyes quickly.
+— Mam już wiele wskazówek, resztę — znajdę, bo wiem, gdzie szukać.
 
-"This we have no reason to show him gratitude, which would really be
+— Cóż dalej? — pytał faraon.
 
-weakness. But since he wants money at once, we will not give him
+— Należałoby wytoczyć Herhorowi i Mefresowi proces o zdradę państwa za tajemne stosunki z Asyrią...
 
-money."
+— A dowody?...
 
-"But but then what?" inquired Herhor.
+— Znajdziemy je przy pomocy Fenicjan — odparł kapłan.
 
-"Afterward he will govern the state and increase the army without
+— Czy nie wynikłyby stąd jakie niebezpieczeństwa dla Egiptu?
 
-money," answered the irritated Mefres.
+— Żadnych. Czterysta lat temu faraon Amenhotep IV obalił władzę kapłanów ustanowiwszy wiarę w jednego tylko bożka Re Harmachis
 
-"But if his famished army wants to rob temples?"
+— Kto to pomagał Amenhotepowi? — zapytał faraon.
 
-"Ha! ha! ha!" burst out Mefres, but suddenly he grew serious and bowing
+— Prosty kapłan Ey.
 
-said in an ironical tone,
+— Ale który po śmierci Amenhotepa IV został dziedzicem jego tronu — rzekł Ramzes, bystro patrząc w oczy kapłanowi.
 
-"That pertains to thee, worthiness. A man who for so many years has
+Lecz Samentu odpowiedział spokojnie:
 
-directed the state should prepare for such dangers."
+— Wypadek ten dowodzi, że Amenhotep był niedołężnym władcą, który więcej dbał o cześć Re aniżeli o państwo.
 
-"Let us suppose," said Herhor, slowly, "that I can find means against
+— Zaprawdę, jesteś prawdziwym mędrcem!... — rzekł Ramzes.
 
-dangers to the state. But canst thou, worthiness, who art the senior
+— Do usług waszej świątobliwości.
 
-high priest, provide against insults to the priestly order and the
+— Mianuję cię moim doradcą — mówił faraon. — No, ale w takim razie nie możesz odwiedzać mnie po kryjomu, tylko zamieszkasz u mnie...
 
-temples?"
+— Wybacz, panie, ale dopóki członkowie najwyższej rady nie osiądą w więzieniu za umawianie się z nieprzyjaciółmi państwa, moja obecność w pałacu przyniesie więcej szkody aniżeli dobrego...
 
-They looked each other in the eyes for a moment.
+Będę więc służył i radził waszej świątobliwości, ale — potajemnie...
 
-"Dost Thou inquire whether I can? Whether I can? I need make no effort.
+— I znajdziesz drogę do skarbca w Labiryncie?
 
-The gods have placed in my hands a thunderbolt which will destroy every
+— Mam nadzieję, że nim wrócisz, panie, z Tebów, uda mi się ta sprawa.
 
-author of sacrilege."
+A gdy przeniesiemy skarb do waszego pałacu, gdy sąd potępi Herhora i Mefresa, których wasza świątobliwość może potem ułaskawić, wówczas za waszym pozwoleniem wystąpię jawnie... I przestanę być kapłanem Seta, który tylko ludzi odstrasza ode mnie...
 
-"Pst!" whispered Herhor. "Let that take place."
+— I myślisz, że wszystko dobrze pójdzie?...
 
-"With the consent or without the consent of the supreme council of
+— Życie stawiam!... — zawołał kapłan. — Lud kocha waszą świątobliwość, więc łatwo go podburzyć przeciw zdradzieckim dostojnikom... Wojsko jest wam posłuszne jak żadnemu z faraonów od czasu Ramzesa Wielkiego... Więc któż się oprze?... A w dodatku wasza świątobliwość ma za sobą Fenicjan i pieniądze, największą siłę na świecie!...
 
-priests," added Mefres. "When a boat is overturned there is no time to
+Gdy Samentu żegnał faraona, pan zezwolił mu ucałować swoje nogi i darował ciężki złoty łańcuch tudzież bransoletę, ozdobioną szafirami.
 
-discuss with the oarsmen."
+Nie każdy dostojnik zdobywał podobne łaski w ciągu całych lat służby.
 
-They parted in a gloomy state of mind. That same day in the evening the
+Odwiedziny i obietnice Samentu nową otuchą napełniły serce faraona.
 
-Pharaoh summoned them.
+Gdybyż udało się pozyskać skarb Labiryntu!... Za drobną jego część można by uwolnić szlachtę od fenickich długów, poprawić dolę chłopów i wykupić zastawione majątki dworskie.
 
-They came at the appointed time, each high priest separately. Each made
+A jakimi budowlami wzbogaciłoby się państwo...
 
-a profound obeisance to his lord, and each stood in a separate corner
-
-without looking at the other.
-
-"Have they quarreled?" thought Ramses? "No harm in that!"
-
-A moment later the holy Sem and the prophet Pentuer came in. Then
-
-Ramses sat on an elevation, indicated to the priests stools in front of
-
-him, and said,
-
-"Holy fathers! I have not summoned you thus far to counsel because all
-
-my orders related to military questions exclusively."
-
-"Thou hadst the right, holiness, not to call us," put in Herhor.
-
-"I have done what I was able in such a short time to strengthen the
-
-defensive power of the state. I have formed two new schools for
-
-officers and I have restored five regiments."
-
-"Thou hadst the right, lord," answered Mefres.
-
-"Of other military reforms I do not speak, since those questions do not
-
-concern you, holy people."
-
-"Thou art right," said Mefres and Herhor together.
-
-"But there is another question," continued the pharaoh, satisfied with
-
-the assent of the two dignitaries from whom he had expected opposition.
-
-"The funeral day of my divine father is approaching, but the treasury
-
-does not possess sufficient funds."
-
-Mefres rose from his stool.
-
-"Osiris-Mer-Amen-Ramses," said he, "was a just lord who for many years
-
-assured peace to his people, and praise to the gods. Permit, holiness,
-
-that the funeral of this pious pharaoh be performed at the expense of
-
-the temples."
-
-Ramses XIII was astonished and was moved by the homage rendered his
-
-father. He was silent for a while as if unable to find an answer; at
-
-last he replied,
-
-"I am very thankful to you for the honor shown my father, who is equal
-
-to the gods. I permit the funeral, and once more I thank you greatly."
-
-He stopped, rested his head on his hand and meditated, as if struggling
-
-with himself. Suddenly he raised his head; his face was animated, his
-
-eyes were gleaming.
-
-"I am moved," said he, "by this proof of your good-will. If the memory
-
-of my father is so dear to you ye cannot have ill-will toward me."
-
-"Thou hast no doubt, I think, holiness, touching our goodwill?" said
-
-the high priest Sem.
-
-"Thou art speaking truth," continued the pharaoh. "I suspected you
-
-unjustly of prejudice toward me. I wish to correct my suspicion; I will
-
-be sincere with you."
-
-"May the gods bless thee, holiness," said Herhor.
-
-"I will be sincere. My divine father, because of age, illness, and
-
-perhaps priestly occupations, could not devote so much time to affairs
-
-of state as I can. I am young, in health, free, hence I wish to rule,
-
-myself, and will rule. As a leader must direct his army on his own
-
-responsibility and according to his own plan, so shall I direct the
-
-state. This is my express will and I shall not draw back from it.
-
-"But I understand that even were I the most experienced I could not
-
-succeed without faithful servants and wise counselors. Therefore I
-
-shall ask your advice sometimes on various questions."
-
-"To this end we constitute the supreme council near thy throne,"
-
-remarked Herhor.
-
-"I shall use," continued Ramses with animation, "your services
-
-immediately, even from this moment."
-
-"Command, lord," said Herhor.
-
-"I wish to improve the condition of the Egyptian people. But since in
-
-such affairs over-hasty action may only bring injury, I give them at
-
-first a small thing: After six days' labor the seventh for rest."
-
-"Such was it during the reigns of the eighteenth dynasty. That law is
-
-as old as Egypt itself," said Pentuer.
-
-"Rest every seventh day will give fifty days to each laborer during a
-
-year, or it will take from his lord fifty drachma. On a million of
-
-laborers the state will lose ten thousand talents yearly," said Mefres.
-
-"We have calculated that in the temples."
-
-"That is true," answered Pentuer, quickly, "but the losses will be
-
-during the first year only, for when the people increase in strength by
-
-rest they will recover all and more in the following years."
-
-"That is true," answered Mefres, "but in every case it is necessary to
-
-have ten thousand talents for that first year. I think even that twenty
-
-thousand talents would not be amiss."
-
-"Thou art right, worthy Mefres," said the pharaoh. "In view of the
-
-changes which I wish to introduce in my state twenty thousand, and even
-
-thirty thousand talents would not be too great a sum; therefore," added
-
-he quickly, "I shall ask assistance of you holy men."
-
-"We are ready to support every measure of thy holiness with prayers and
-
-processions," said Mefres.
-
-"Very good; pray and encourage the people to pray. But besides that
-
-give the state thirty thousand talents," answered the pharaoh.
-
-The high priests were silent; Ramses waited a while, then turned to
-
-Herhor,
-
-"Thou art silent, worthiness."
-
-"Thou hast said thyself, O sovereign, that the treasury has no means,
-
-even to bury Osiris-Mer-Amen-Ramses. I cannot even divine, therefore,
-
-where we could get thirty thousand talents."
-
-"But the treasury of the labyrinth."
-
-"That is a treasury of the gods, to be touched only at a moment when
-
-the state is in supreme need," replied Mefres.
-
-Ramses XIII boiled up with anger.
-
-"If earth-tillers do not need this sum, I do," said he, striking his
-
-fist on the arm of the chair.
-
-"Holiness," replied Mefres, "Thou canst in the course of a year receive
-
-more than thirty thousand talents, and Egypt twice as much."
-
-"How?"
-
-"Very simply. Give command, sovereign, to expel the Phoenicians from
-
-Egypt."
-
-It seemed that the pharaoh would rush at the insolent high priest; he
-
-grew pale, his lips quivered, his eyes stared. But he restrained
-
-himself in one moment, and said, in a tone of wonderful calmness,
-
-"Well, sufficient. If ye are able to give only such counsels I shall
-
-get on without them. The Phoenicians have our signatures that we will
-
-pay them our debts faithfully. Has this occurred to thee, Mefres?"
-
-"Pardon, holiness, but at that moment other thoughts occupied me. Thy
-
-ancestors, not on papyrus, but on bronze and stone carved out the
-
-statement that the gifts made by them to the gods and the temples
-
-belonged and would belong forever to the gods and the temples."
-
-"And to you priests," added the pharaoh, sneeringly.
-
-"As much to us," replied the haughty high priest, "as the state belongs
-
-to thee, sovereign. We guard and increase those treasures; but we have
-
-not the right to spend them."
-
-The pharaoh left the hall panting with anger, and went to his own
-
-cabinet. His position was presented to him with terrible distinctness.
-
-Of the hatred of the priests toward him he had no doubt any longer.
-
-Those were the same dignitaries who, giddy with pride, had the past
-
-year refused him the corps of Memphis, and who had made him viceroy
-
-only when it seemed to them that he had performed an act of penitence
-
-by withdrawing from the palace the very same who watched every movement
-
-of his, made reports regarding him, but did not tell him, the heir to
-
-the throne, even of the treaty with Assar, the very same dignitaries
-
-who had employed deceit against him in the temple of Hator, and who at
-
-the Soda Lakes slaughtered prisoners to whom he had promised freedom.
-
-The pharaoh recalled the obeisances of Herhor, the looks of Mefres, and
-
-the tones of voice which both used. Beneath the show of good-will,
-
-their pride and their contempt for him appeared each moment. He asks
-
-for money, they promise prayers. Nay! they dare to tell him that he is
-
-not sole ruler in the land of Egypt.
-
-The young sovereign laughed in spite of himself, for he called to mind
-
-the hired herdsmen who told the owner of the flock that he had no right
-
-to do what he liked with it. Besides the ridiculous aspect there was in
-
-the case a point which was terrible. The treasury contained perhaps a
-
-thousand talents which, according to the recent rate of outlay would
-
-last from seven to ten days. And then what? How would the officials,
-
-the servants, and above all how would the army, exist, not only without
-
-pay, but without sustenance?
-
-The high priests knew this position of the pharaoh if they did not
-
-hasten to assist him they wished to ruin him, and to ruin him in the
-
-course of a few days, even before the funeral of his father.
-
-Ramses recalled a certain event of his childhood.
-
-He was at a school of the priests when, on the festival of the goddess
-
-Mut, after various amusements they introduced the most famous buffoon
-
-in Egypt. This artist represented an unfortunate hero: when he
-
-commanded he was not obeyed, his anger was answered with laughter, and
-
-when, to punish those who made sport of him, he seized an axe, the axe
-
-broke in his hands. At last they let out a lion at him and when the
-
-defenseless hero began to flee it turned out that not a lion was
-
-chasing him, but a pig in a lion's skin.
-
-The pupils and the teachers laughed at those adventures till the tears
-
-came; but the little prince sat gloomily; he was sorry for the man who
-
-was eager for great things but fell covered with ridicule.
-
-That scene and the feelings which he experienced then were revived in
-
-the memory of the pharaoh. "They want to make me like that buffoon,"
-
-thought he. Despair seized him, for he felt that his power would end
-
-when the last talent was issued, and with his power his life also.
-
-But here came a certain revulsion. He halted in the middle of the room
-
-and thought,
-
-"What can happen to me? Nothing save death. I will go to my glorious
-
-ancestors, to Ramses the Great But then, I could not tell them that I
-
-died without defending myself. After the misfortunes of this earthly
-
-life eternal shame would meet me. How was it to end? He, the conqueror
-
-at the Soda Lakes, to yield before a handful of deceivers against whom
-
-one Asiatic regiment would not have much trouble? For the reason, then,
-
-that Mefres and Herhor wish to rule Egypt and the pharaoh, his troops
-
-must suffer hunger, and a million men are not to receive rest from
-
-labor? But did not his ancestors rear these temples. Did they not fill
-
-them with spoils? And who won the battles? The priests, or the
-
-warriors? Who, then, had a right to the treasures, the priests, or the
-
-pharaoh and his army?"
-
-Ramses shrugged his shoulders and summoned Tutmosis. Though it was late
-
-at night the favorite came to him straightway.
-
-"Dost Thou know," asked the pharaoh, "that the priests have refused me
-
-a loan, though the treasury is empty?"
-
-Tutmosis straightened himself, and asked,
-
-"Wilt Thou command to take them to prison?"
-
-"Wouldst thou?"
-
-"There is not an officer in Egypt who would hesitate to carry out an
-
-order from our lord and leader."
-
-"In that case," said the pharaoh, deliberately, "there is no need to
-
-imprison any one. I have too much power on my side and too much
-
-contempt for the priesthood. A man does not put into a box bound with
-
-iron the carrion which he meets on the highway; he merely passes around
-
-it."
-
-"But a hyena is confined in a cage," whispered Tutmosis.
-
-"It is too early yet. I must be gracious to those men, at least till my
-
-father is buried or they might commit some indignity on his revered
-
-mummy, and destroy his spirit. But go tomorrow to Hiram and tell him to
-
-send me that priest of whom we have spoken."
-
-"That will be done. But I must remind thee, holiness, that today people
-
-attacked Phoenician houses in Memphis."
-
-"Oho! That was not needed."
-
-"It seems to me, too," continued Tutmosis, "that since Thou hast
-
-commanded Pentuer to investigate the condition of earth-tillers and
-
-laborers the priests are exciting the nomarchs and nobles. They say
-
-that it is thy wish to ruin the nobility for the sake of the people."
-
-"But do the nobles believe that?"
-
-"There are some who believe, but there are others who say directly that
-
-it is an intrigue of the priests against the pharaoh."
-
-"But if I wish indeed to improve the condition of earth-tillers?"
-
-"Thou wilt do, lord, that which pleases thee," answered Tutmosis.
-
-"Oh, I understand my position!" exclaimed Ramses. "Be at rest, and tell
-
-the nobility that not only will they lose nothing in carrying out my
-
-orders, but their own condition will be improved notably. The wealth of
-
-Egypt must be taken at last from the hands of the unworthy and given to
-
-faithful servants."
-
-The pharaoh dismissed his adjutant and went to rest satisfied. His
-
-temporary despair seemed to him laughable.
-
-About noon of the following day it was announced that a deputation of
-
-Phoenician merchants had come to his holiness.
-
-"Do they wish to complain of the attack on their houses?" inquired the
-
-pharaoh.
-
-"No," replied the adjutant, "they wish to offer thee homage."
-
-In fact a number of Phoenicians, under the leadership of Rabsun,
-
-declared that, according to ancient custom they had made bold to lay an
-
-insignificant gift at the feet of the sovereign who gave life to them
-
-and security to their property.
-
-Then they placed on the tables gold plates, chains, and goblets filled
-
-with jewels.
-
-After that, Rabsun placed on the steps of the throne a tray with the
-
-papyrus by which the Phoenicians bound themselves to give all things
-
-necessary for the army to the amount of two thousand talents.
-
-That was a considerable gift, since all that the Phoenicians had
-
-brought represented a sum of three thousand talents.
-
-The pharaoh answered the faithful merchants very graciously, and
-
-promised protection. He dismissed them in happiness.
-
-Ramses XIII drew a breath of relief: bankruptcy of the treasury, and
-
-therefore the need of using violent measures against the priests was
-
-deferred ten days longer.
-
-In the evening, again, under the guardianship of Tutmosis, the worthy
-
-Hiram stood in the cabinet of his holiness. This time he did not
-
-complain of weariness, but he fell on his face and cursed the stupid
-
-Dagon.
-
-"I have learned," said he, "that that mangy fellow dared to remind
-
-thee, holiness, of our talk concerning the canal to the Red Sea. May he
-
-perish! May the leprosy devour him! May his children become swineherds
-
-and his grandchildren Hebrews. But do thou, sovereign, only command,
-
-and whatever wealth Phoenicia has she will lay at thy feet without bond
-
-or treaty. Are we Assyrians or priests," added he in a whisper, "that
-
-one word of such a mighty potentate should not suffice us?"
-
-"But if I should require a really large sum?"
-
-"Such as?"
-
-"For example, thirty thousand talents."
-
-"Immediately?"
-
-"No, in the course of a year."
-
-"Thou wilt have it, holiness," answered Hiram, without hesitation.
-
-The pharaoh was astonished at this liberality.
-
-"But must I give you a pledge?"
-
-"Only for form's sake," replied the Phoenician. "Give us, holiness, the
-
-quarries in pledge, so as not to rouse the suspicions of priests. Were
-
-it not for them, Thou wouldst have all Phoenicia without pledge or
-
-paper."
-
-"But the canal? Am I to sign a treaty at once?" asked Ramses.
-
-"Not at all. Thou wilt make, O holiness, a treaty when it pleases
-
-thee."
-
-It seemed to the pharaoh that he was uplifted in the air. At that
-
-moment it seemed to him that he had tasted for the first time the
-
-sweetness of regal power, and tasted it, thanks to the Phoenicians.
-
-"Hiram," said he, controlling himself no longer, "I give thee
-
-permission this day to dig a canal which shall join the Red Sea with
-
-the Mediterranean."
-
-The old man fell at the feet of the pharaoh.
-
-"Thou art the greatest sovereign ever seen on earth," said he.
-
-"For the time Thou art not permitted to speak of this to any one,
-
-because the enemies of my glory are watching. But that Thou shouldst
-
-feel certain, I give thee this from my own finger."
-
-He took from his finger a ring adorned with a magic stone on which was
-
-engraved the name Horns, and put it on the finger of the Phoenician.
-
-"The property of all Phoenicia is at thy command," said Hiram, moved
-
-profoundly. "Thou wilt accomplish a work which will herald thy name
-
-till the sun quenches."
-
-The pharaoh pressed Hiram's iron-gray head and commanded him to sit
-
-down before him.
-
-"And so we are allies," said he, after a while, "and I hope that from
-
-this will rise prosperity for Egypt and Phoenicia."
-
-"For the whole world," added Hiram.
-
-"But tell me, prince, whence hast Thou such confidence in me?"
-
-"I know thy noble character, holiness. If thou, sovereign, wert not a
-
-pharaoh, in a few years Thou wouldst become the most renowned of
-
-Phoenician merchants and the chief of our council."
-
-"Let us suppose that," replied Ramses. "But I, to keep my promises,
-
-must first bend the priests. That is a struggle the issue of which is
-
-uncertain."
-
-Hiram smiled.
-
-"Lord," said he, "if we were so insignificant as to abandon thee today
-
-when thy treasury is empty, and thy enemies are insolent, Thou wouldst
-
-lose the battle. For a man deprived of means loses daring easily; from
-
-an impoverished king his armies turn away as well as his dignitaries
-
-and his subjects. But if thou, sovereign, have our gold and our agents,
-
-with thy army and thy generals Thou wilt have as much trouble with the
-
-priests as an elephant with a scorpion. Thou wilt barely set thy foot
-
-on them and they will be crushed beneath it. But this is not my affair.
-
-The high priest Samentu is waiting in the garden, he whom Thou hast
-
-summoned. I withdraw; it is his hour. But I refuse not the money.
-
-Command me to the extent of thirty thousand talents."
-
-He fell on his face again and then withdrew, promising that Samentu
-
-would present himself straightway.
-
-In half an hour the high priest appeared. As became one who honored Set
-
-he did not shave his red beard and shaggy hair; he had a severe face,
-
-but eyes full of intellect. He bowed without excessive humility and met
-
-the soul-piercing gaze of the pharaoh with calmness.
-
-"Be seated," said the pharaoh.
-
-The high priest sat on the floor.
-
-"Thou pleasest me," said Ramses. "Thou hast the bearing and the face of
-
-a Hyksos, and they are the most valiant troops in my army." Then he
-
-inquired, on a sudden,
-
-"Art Thou the man who informed Hiram of the treaty of our priests with
-
-Assyria?"
-
-"I am," replied Samentu, without dropping his eyes.
-
-"Didst Thou share in that iniquity?"
-
-"I did not. I overheard the conditions. In the temples, as in thy
-
-palaces, holiness, the walls are honeycombed with passages through
-
-which it is possible to hear on the summit of pylons what is said in
-
-the cellars."
-
-"And from subterranean places it is possible to converse with persons
-
-in upper chambers?" asked the pharaoh.
-
-"And imitate voices from the gods," added the priest seriously.
-
-The pharaoh smiled. Then the supposition was correct that it was not
-
-the spirit of his father, but priests who spoke to him and to his
-
-mother.
-
-"Why didst Thou confide to Phoenicians a great secret of the state?"
-
-inquired Ramses.
-
-"Because I wished to prevent a shameful treaty which was as harmful to
-
-us as to Phoenicia."
-
-"Thou mightst have forewarned some Egyptian dignitary."
-
-"Whom?" inquired the priest. "Men who were powerless before Herhor; or
-
-who would complain of me to him and expose me to death and tortures? I
-
-confided it to Hiram, for he meets dignitaries of ours whom I never
-
-see."
-
-"But why did Herhor and Mefres conclude such a treaty?" inquired
-
-Ramses.
-
-"In my opinion, they are men of weak heads whom Beroes, the great
-
-Chaldean priest, frightened. He told them that for ten years evil fates
-
-would threaten Egypt; that if we began war with Assyria during that
-
-time we should be defeated."
-
-"And did they believe him?"
-
-"Beroes, it seems, showed them wonders. He was even borne above the
-
-earth. Beyond doubt that is wonderful; but I cannot understand why we
-
-should lose Phoenicia because Beroes can fly above the earth."
-
-"Then Thou dost not believe in miracles?"
-
-"It depends upon what they are," replied Samentu. "It seems that Beroes
-
-does perform unusual things; but our priests merely deceive people as
-
-well as rulers."
-
-"Thou hast a hatred for the priestly order?"
-
-"Well, they cannot endure me, and what is worse they insult me under
-
-pretext that I am a minister of Set. Meanwhile, what do I care for gods
-
-whose hands and feet must be moved by strings. Or priests who pretend
-
-to be abstemious and devout, but have ten wives, spend some tens of
-
-talents yearly, steal the offerings placed on altars, and are little
-
-wiser than pupils of a higher school."
-
-"But dost Thou take presents from Phoenicians?"'
-
-"From whom should I take them? The Phoenicians are the only men who
-
-really honor Set; they fear lest he might wreck their ships. With us
-
-the poor alone revere him. Were I restricted to their offerings I
-
-should die of hunger, and my children also."
-
-The pharaoh thought that this priest was not a bad man, though he had
-
-betrayed a temple secret. And moreover, he seemed wise and he spoke
-
-truth.
-
-"Hast Thou heard anything," inquired Ramses again, "of a canal which is
-
-to join the Red Sea with the Mediterranean?"
-
-"I know of that affair. Our engineers have been developing the project
-
-for some centuries."
-
-"But why has it not been carried out ere this time?"
-
-"Because the priests are afraid that strangers would come who might
-
-undermine our religion, and with it the priestly income."
-
-"Is there truth in what Hiram says of people living in the distant
-
-East?"
-
-"Perfect truth. We know of them for a long time, and no ten years pass
-
-that we do not receive from those countries products, precious stones,
-
-or pictures."
-
-The pharaoh meditated again, and asked suddenly,
-
-"Wilt Thou serve me faithfully if I make thee my counselor?"
-
-"I will serve thee, holiness, with life and death. But were I to become
-
-thy counselor, the priests, who hate me, would be indignant."
-
-"Dost Thou not think it possible to overthrow them?"
-
-"It is possible and very easy."
-
-"What would thy plan be, if I had to free myself of them?"
-
-"To obtain possession of the treasures in the labyrinth."
-
-"Couldst Thou go to it?"
-
-"I have many indications; the rest I can discover, for I know where to
-
-search for them."
-
-"What further?" inquired the pharaoh.
-
-"It would be necessary to bring an action against Herhor and Mefres for
-
-treason, and for secret relations with Assyria."
-
-"But the proofs?"
-
-"We should find them with the help of the Phoenicians."
-
-"Would no danger come of that to Egypt?"
-
-"None. Four hundred years ago the pharaoh, Amenhotep IV. overturned the
-
-power of priests by establishing the faith in one god, Re Harmachis. It
-
-is understandable that in those conditions he took treasures from the
-
-temples of the other gods. And at that time neither the people, nor the
-
-army, nor the nobility took part with the priesthood. What would the
-
-case be today when the old faith is greatly weakened?"
-
-"Who assisted Amenhotep?" inquired Ramses.
-
-"A simple priest, Ey."
-
-"But who, on the death of Amenhotep, became his heir?" asked Ramses,
-
-looking quickly into the eyes of the priest.
-
-Samentu answered, calmly,
-
-"Events show that Amenhotep was incompetent, more occupied in honoring
-
-Re than in governing Egypt."
-
-"Indeed, Thou art a real sage!" said Ramses.
-
-"At thy service, holiness."
-
-"I appoint thee my counselor," said the pharaoh. "In that case Thou
-
-mayst visit me in secret, and Thou wilt dwell with me."
-
-"Pardon, lord, but until the members of the supreme council are in
-
-prison for negotiating with enemies of Egypt, my presence in the palace
-
-would bring more harm than profit. So I will serve thee, holiness, and
-
-advise, but in secret."
-
-"And wilt Thou find the way to the treasure in the labyrinth?"
-
-"I hope, lord, that before Thou returnest from Thebes, I shall succeed
-
-in this matter. But when we transfer the treasure to thy palace, when
-
-the court condemns Herhor and Mefres whom Thou mayst pardon afterward,
-
-with permission, I will appear openly and cease to be the priest of
-
-Set, who only frightens people and turns them from me."
-
-"And dost Thou think that everything will go well?"
-
-"I pledge my life on it!" cried the priest. "The people thee, holiness,
-
-so it is easy to influence them against traitorous dignitaries. The
-
-army obeys thee as no army has obeyed a pharaoh since Ramses the Great.
-
-Who will oppose, then? In addition, holiness, Thou hast the Phoenicians
-
-behind thee, and money, the greatest power on earth."
-
-When Samentu took farewell, the pharaoh permitted him to kiss his feet,
-
-and gave him a heavy gold chain and a bracelet ornamented with
-
-sapphires. Not every dignitary received such favor after long years of
-
-service. The visit and Samentu's promises filled the pharaoh's heart
-
-with new hope.
-
-What if he should succeed in getting the treasure of the labyrinth! For
-
-a small part of it he might free the nobles from Phoenician debts,
-
-improve the lot of the laborers and redeem the mortgaged property of
-
-the court.
-
-And with what edifices might the state be enriched!
-
-Hence the treasure of this labyrinth might remove all the pharaoh's
-
-troubles. For what was the result of a great loan from the Phoenicians?
-
-It would be necessary to pay a loan some time, and, sooner or later,
-
-mortgage the rest of the pharaoh's property. That was merely to defer
-
-ruin, not avoid it.
+Tak, fundusze Labiryntu mogły usunąć wszystkie kłopoty faraona. Bo i cóż z tego, że Fenicjanie ofiarowują mu wielką pożyczkę? Pożyczkę trzeba kiedyś spłacić wraz z procentami i prędzej czy później oddać w zastaw resztę królewskich majątków. Było to więc tylko odsunięciem ruiny, ale nie zapobieżeniem jej.

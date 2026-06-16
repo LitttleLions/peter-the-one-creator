@@ -1,0 +1,65 @@
+{
+  "book": "peter-i-buch-01",
+  "chapter": "001",
+  "scene": 3,
+  "kind": "scene",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "8b79a5c6-5539-4257-9b42-537d82259bc4",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\001\\scene-03.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\peter-i-buch-01\\work\\prompts\\higgsfield\\001-scene-03-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\peter-i-buch-01\\assets\\scene\\001\\scene-003.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "Image for Peter der Erste, chapter 001, scene 03: Szene 3 Aus dem Ukas des Zaren Alexei Michailowitsch, die Flucht von Bauern betreffend: »...und jene entlaufenen Bauern, mit Weib und Kind und allem bäuerlichen Besitz, sind zurückzuführen, wo einer nach den Schreibbüchern hingehört... Und wer fortan einen entlaufenen Bauern aufnimmt und birgt, von dem ist eine Strafe zu nehmen, und der Bauer mit Weib und Kind und Besitz ist an seinen alten Herrn auszuliefern, damit es künftig unverbrüchlich sei.« Iwaschka und der Zigeuner ließen die Pferde vor dem hohen Tor stehen. Darüber, unter dem Giebeldach – ein Bildnis des ehrwürdigen Kreuzes des Herrn. Weiter dehnte sich, rund um das ganze Gehöft, ein unübersteigbarer Palisadenzaun. Selbst gegen Tataren tauglich... Die Bauern nahmen die Mützen ab. Iwaschka ergriff den Ring an der Pforte, sprach, wie es sich gehörte: »Herr Jesus Christus, Sohn Gottes, erbarme dich unser...« Mit knarrenden.... Period-accurate clothing, architecture, tools, vehicles, and environment. No modern objects. No readable text, lettering, captions, inscriptions, signatures, logos, or watermarks.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "2k",
+    "--custom_reference_id",
+    "8b79a5c6-5539-4257-9b42-537d82259bc4",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260616_143520_7c5f5609-d6ba-41ed-a0ca-563524bf10e1.png",
+  "job_result": [
+    {
+      "id": "7c5f5609-d6ba-41ed-a0ca-563524bf10e1",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260616_143520_7c5f5609-d6ba-41ed-a0ca-563524bf10e1.png",
+      "created_at": 1781620520.380347,
+      "params": {
+        "prompt": "Image for Peter der Erste, chapter 001, scene 03: Szene 3 Aus dem Ukas des Zaren Alexei Michailowitsch, die Flucht von Bauern betreffend: »...und jene entlaufenen Bauern, mit Weib und Kind und allem bäuerlichen Besitz, sind zurückzuführen, wo einer nach den Schreibbüchern hingehört... Und wer fortan einen entlaufenen Bauern aufnimmt und birgt, von dem ist eine Strafe zu nehmen, und der Bauer mit Weib und Kind und Besitz ist an seinen alten Herrn auszuliefern, damit es künftig unverbrüchlich sei.« Iwaschka und der Zigeuner ließen die Pferde vor dem hohen Tor stehen. Darüber, unter dem Giebeldach – ein Bildnis des ehrwürdigen Kreuzes des Herrn. Weiter dehnte sich, rund um das ganze Gehöft, ein unübersteigbarer Palisadenzaun. Selbst gegen Tataren tauglich... Die Bauern nahmen die Mützen ab. Iwaschka ergriff den Ring an der Pforte, sprach, wie es sich gehörte: »Herr Jesus Christus, Sohn Gottes, erbarme dich unser...« Mit knarrenden.... Period-accurate clothing, architecture, tools, vehicles, and environment. No modern objects. No readable text, lettering, captions, inscriptions, signatures, logos, or watermarks.",
+        "width": 1536,
+        "height": 2048,
+        "batch_size": 1,
+        "seed": 151770,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "1080p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "8b79a5c6-5539-4257-9b42-537d82259bc4"
+      }
+    }
+  ]
+}

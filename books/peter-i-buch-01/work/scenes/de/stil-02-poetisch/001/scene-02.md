@@ -1,40 +1,39 @@
 ## Szene 2
 
-> Aus der Steuerrolle des Kreises Wologda, 1676:  
-> "Item von jedem rauchbaren Hof jährlich zu entrichten: 12 Altyn und 4 Dengi an die Krone, 6 Altyn als Wegegeld, 2 Dengi für das Mundvorratssalz, dazu das Fünftelgeld und das Zehntgeld von jeglichem Handelsumsatz, ferner die Abgabe für die Burgbauten an der Wilden Grenze und den großen Don-Heerweg. Wer säumig, den bringt man bei."
+> Aus einer Bittschrift der Bauern an den Zaren: «Unsere Rücken sind von den Schlägen der Eintreiber zerschunden, und unsere Höfe sind leer; aber die Steuern werden nicht weniger.»
 
-Ein kaum ausgetretener Weg führte durch den Wald. Uralte Kiefern verschlossen den Himmel. Windbrüche, Dickicht – schweres Land. Mit diesem Boden war Wassili, Sohn des Wolkow, vor zwei Jahren belehnt worden, als Abfindung vom Vater, einem Moskauer Dienstadeligen. Das Grundherrenamt hatte Wassili mit vierhundertfünfzig Desjatinen bedacht, und dazu waren siebenunddreißig Bauernseelen mit ihren Familien eingeschrieben.
+Ein kaum gebahnter Weg führte durch den Wald. Jahrhundertealte Kiefern verbargen den Himmel. Windbruch, Dickicht – schweres, mühsames Land. Dieses Land war Wassili, dem Sohn Wolkows, im vorletzten Jahr vom Vater, einem Moskauer Dienstadeligen, als Abfindung zugewiesen worden. Die Gutsbehörde hatte Wassili vierhundertfünfzig Desjatinen zugemessen, und dazu waren siebenunddreißig Bauernseelen mit Familien eingeschrieben.
 
-Wassili hatte ein Gutshaus gesetzt, aber sich verausgabt; die Hälfte des Landes hatte er im Kloster verpfänden müssen. Die Mönche gaben Geld zu hohem Wucher – zwanzig Kopeken vom Rubel. Und doch musste er laut Musterrolle zum Dienst des Herrschers antreten auf einem guten Pferd, im Panzer, mit Säbel, mit Arkebuse, und er hatte Krieger mitzuführen, drei seiner Bauern, ebenfalls beritten, in Steppwämsern, mit Säbeln, mit Köcher und Bogen... Kaum, dass er mit dem Klostergeld diese Rüstung aufbringen konnte. Und wovon selbst leben? Und das Gesinde ernähren? Und den Mönchen den Wucher zahlen?
+Wassili errichtete ein Gutshaus, doch gab er zu viel aus; die Hälfte des Landes musste er beim Kloster verpfänden. Die Mönche liehen Geld zu hohem Wucher – zwanzig Kopeken vom Rubel. Und dabei hätte er, der Zuteilung gemäß, im Dienst des Zaren auf gutem Pferd erscheinen müssen, im Panzer, mit Säbel, mit der Büchse, und hätte Bewaffnete mitführen müssen, drei Bauern, gleichfalls zu Ross, in gesteppten Panzern, mit Säbeln und Köchern … Kaum, kaum dass er mit dem Klostergeld solch eine Rüstung aufbringen konnte. Und wie sollte er selbst leben? Das Gesinde ernähren? Und den Wucher den Mönchen zahlen?
 
-Die Zarenkasse kennt keine Gnade. Jedes Jahr ein neuer Ukas, neues Geld – Futtergeld, Wegegeld, Tribut und Zins. Wieviel bleibt da für einen selbst? Und alle fordern vom Gutsherrn – warum er so träge sei, den Zins einzutreiben. Einem Bauern aber kann man nicht mehr als eine Haut abziehen. Erschöpft war das Reich unter dem seligen Zaren Alexei Michailowitsch von Kriegen, von Wirren und Aufständen. Wie der verfluchte Erzgauner Stenka Rasin durchs Land gezogen war – da hatten die Bauern Gott vergessen. Drückt man sie nur ein wenig fester, fletschen sie die Zähne wie Wölfe. Vor den Lasten fliehen sie an den Don – von wo man sie weder durch Ukas noch mit dem Säbel zurückholen kann.
+Die Zarenkasse kennt keine Schonung. Jahr für Jahr ein neuer Erlass, neues Geld – Futtergeld, Weggeld, Tribute und Zinsen. Wie viel bleibt einem selbst? Und alle fordern vom Gutsherrn, warum er zu faul sei, die Abgaben einzutreiben. Dem Bauern aber kannst du nicht mehr als eine Haut abziehen. Ausgelaugt war das Reich unter dem verstorbenen Zaren Alexei Michailowitsch von Kriegen, Wirren und Aufständen. Wie der verfluchte Räuber Stenka Rasin übers Land gezogen war – die Bauern vergaßen Gott. Kaum drückst du sie ein wenig fester, fletschen sie die Zähne wie Wölfe. Vor den Lasten fliehen sie an den Don – von wo man sie weder mit Ukas noch mit Säbel zurückholen kann.
 
-Das Pferd trabte müde den Weg entlang, ganz mit Reif überzogen. Zweige streiften den Krummholzbügel, stäubten Schneestaub auf. An die Stämme geschmiegt, äugten buschschwänzige Eichhörnchen auf den Vorbeifahrenden – ein Verderben gab's von diesen Eichhörnchen in den Wäldern. Iwan Artemjitsch lag im Schlitten und dachte – dem Bauern blieb ja auch nur eines: denken...
+Das Pferd trottete in müdem Trab dahin, über und über mit Reif bedeckt. Zweige streiften den Krummholz, stäubten feinen Schnee. An die Baumstämme geschmiegt, blickten buschig-schwänzige Eichhörnchen auf den Reisenden herab – zum Verderben waren diese Eichhörnchen in den Wäldern. Iwan Artemjitsch lag im Schlitten und dachte – dem Bauern blieb auch nur das eine: denken …
 
-"Na schön... Diesem gib, jenem gib... Dem zahle, diesem zahle... Aber – ein Schlund ohne Boden – so ein Reich! – kann man es denn je satt kriegen? Vor der Arbeit laufen wir nicht weg, wir dulden. In Moskau aber fahren die Bojaren in goldenen Kutschen. Bring ihnen das Geld für die Kutsche, dem satten Teufel. Na schön... Du zwinge uns, nimm, was du brauchst, aber treibe keinen Frevel... Das aber, Leute, zwei Häute abziehen – das ist Frevel. Von den Herrscherdienern wimmelt es jetzt – spuck aus, und schon sitzt da ein Schreiber oder ein Unterschreiber oder ein Eidpflichter und schreibt... Und der Bauer ist allein... Ach, Leute, besser ich laufe davon, ein Tier reißt mich im Wald, der Tod ist schneller als dieser Frevel... So werdet ihr euch an uns nicht lange mästen..."
+»Na schön … Dem gib dies, dem gib das … Dem bezahl jenes, dem bezahl dies … Aber – ein bodenloser Schlund, so ein Reich! Lässt der sich je stopfen? Vor der Arbeit laufen wir nicht weg, wir ertragen’s. Und in Moskau fahren die Bojaren schon in vergoldeten Kutschen. Gib auch für die Kutsche her, dem feisten Teufel. Na schön … Du zwing uns, nimm, was du brauchst, aber treib keinen Frevel … Das aber, Leute, zwei Häute abziehen – das ist Frevel. Von den Leuten des Zaren wimmelt es jetzt – du spuckst aus, schon hockt da ein Kanzleischer oder ein Untersekretär oder ein Eideshelfer und schreibt … Und der Bauer ist allein … Ach, Leute, besser, ich laufe davon, der Waldbär soll mich brechen, der Tod ist barmherziger als dieser Frevel … So werdet ihr euch auf unsere Kosten nicht lange mästen …«
 
-Iwaschka Browkin dachte vielleicht so, vielleicht auch anders. Aus dem Wald auf den Weg fuhr, auf Knien im Schlitten stehend, Zigeuner (so sein Spitzname), ebenfalls ein Bauer der Wolkows, ein schwarzer, graumelierter Muschik. Fünfzehn Jahre war er auf der Flucht gewesen, hatte sich zwischen den Höfen herumgetrieben. Aber ein Ukas war ergangen: alle Flüchtigen ohne Verjährungsfrist den Gutsherren zurückzugeben. Zigeuner hatte man bei Woronesch aufgegriffen, wo er als Bauer lebte, und dem alten Wolkow zurückgebracht. Er hatte schon wieder die Bastschuhe gespitzt – da fingen sie ihn, und es ward befohlen, Zigeuner ohne Gnade mit der Knute zu schlagen und im Kerker zu halten – und zwar auf dem Gutshof des Wolkow –, und sobald die Haut verheilt sei, ihn herauszuholen und ein weiteres Mal ohne Gnade mit der Knute zu schlagen und wieder in den Kerker zu werfen, auf dass es ihm, dem Spitzbuben, dem Dieb, künftig nicht mehr gelüste, davonzulaufen. Zigeuner rettete sich einzig dadurch, dass man ihn auf Wassilis Land umschrieb.
+Iwaschka Browkin dachte vielleicht so, vielleicht auch nicht so. Aus dem Wald auf die Straße fuhr, in seinem Schlitten auf den Knien stehend, Zigeuner – mit Spitznamen –, ein Bauer desselben Wolkow, ein schwarzer, graumelierter Kerl. Fünfzehn Jahre war er auf der Flucht gewesen, hatte sich zwischen fremden Höfen herumgetrieben. Doch dann erging der Ukas: alle Entlaufenen ohne Frist den Gutsherren zurückzugeben. Man griff Zigeuner bei Woronesch, wo er gebauert hatte, und gab ihn dem älteren Wolkow zurück. Schon hatte er wieder die Bastschuhe zum Laufen gespitzt – da fing man ihn, und es ward befohlen, Zigeuner ohne Gnade mit der Knute zu peitschen und im Kerker zu halten – auf dem Wolkowschen Gut selbst –, und sobald die Haut verheilt, ihn herauszuholen und ein zweites Mal ohne Gnade mit der Knute zu peitschen und abermals in den Kerker zu werfen, auf dass es ihm, dem Schurken, dem Dieb, künftig nicht mehr einfalle zu fliehen. Nur dadurch rettete sich Zigeuner, dass man ihn Wassilis Anteil zuschrieb.
 
-"Grüß dich", sagte Zigeuner zu Iwan und setzte sich in dessen Schlitten.
+»Tüchtig«, sagte Zigeuner zu Iwan und stieg in dessen Schlitten um.
 
-"Grüß dich."
+»Tüchtig.«
 
-"Nichts zu hören?"
+»Hast nichts gehört?«
 
-"Nichts Gutes, will's mir scheinen..."
+»Etwas Gutes, scheint’s, hat man nicht gehört …«
 
-Zigeuner zog den Fausthandschuh aus, zerzauste Schnauzbart und Bart und verbarg seine Hinterlist:
+Zigeuner streifte den Fäustling ab, strich sich Schnauz und Bart, verbarg die Durchtriebenheit:
 
-"Traf einen Menschen im Wald: der Zar, sagt er, liege im Sterben."
+»Traf einen Menschen im Wald: der Zar, sagt er, liegt im Sterben.«
 
-Iwan Artemjitsch richtete sich im Schlitten auf. Ein Schrecken packte ihn... "Brr"... Er riss die Mütze vom Kopf, bekreuzigte sich:
+Iwan Artemjitsch richtete sich im Schlitten auf. Ihn packte das Grauen … »Brrr« … Riss die Mütze vom Kopf, bekreuzigte sich:
 
-"Wen, sagen sie, wird man denn nun zum Zaren ausrufen?"
+»Wen, sagen sie, wird man jetzt zum Zaren ausrufen?«
 
-"Da ist, sagt er, kein anderer als das Bürschchen, Peter Alexejewitsch. Und der hat kaum die Brust der Amme losgelassen..."
+»Es sei, sagt er, kein anderer da als das Bürschlein, Peter Alexejewitsch. Und der hat noch kaum die Mutterbrust aufgegeben …«
 
-"Ei, Bursche!" Iwan drückte die Mütze in die Stirn, seine Augen wurden weiß. "Ei, Bursche... Warte nur auf die Bojarenherrschaft. Wir werden alle zugrunde gehen..."
+»Oh, Bursche!« – Iwan stülpte die Mütze über, seine Augen wurden weiß. – »Oh, Bursche … Nun erwarte die Bojarenherrschaft. Wir gehen alle zugrunde …«
 
-"Gehen wir zugrunde, oder vielleicht auch nicht – wär's drum." Zigeuner rutschte ganz dicht heran. Blinzelte. "Der Mensch hat gesagt – es gibt Wirren... Vielleicht leben wir ja noch ein Weilchen, kauen unser Brot, Tee – wir sind's gewohnt." Zigeuner bleckte die Koboldzähne und lachte, dass es durch den ganzen Wald hustete.
+»Zugrunde gehen wir, oder vielleicht auch nicht – so ist es.« Zigeuner rutschte ganz nah heran. Blinzelte. »Dieser Mensch sagte – es werde Wirren geben … Vielleicht leben wir doch noch, kauen unser Brot, Tee – sind erfahrene Leute.« Zigeuner bleckte die koboldhaften Zähne und lachte, hustete durch den ganzen Wald.
 
-Das Eichhörnchen stob vom Stamm, segelte über den Weg, Schnee rieselte herab und spielte als Säule aus Nadelspitzen im schrägen Licht. Eine große, himbeerfarbene Sonne hing am Ende des Weges über dem Hügel, über den hohen Palisaden, den steilen Dächern und Rauchsäulen von Wolkows Gutshof...
+Das Eichhörnchen schnellte vom Stamm, segelte über den Weg, Schnee stob herab und tanzte als Säule aus winzigen Nadeln im schrägen Licht. Die große himbeerrote Sonne hing am Ende der Straße über der Anhöhe, über den hohen Palisaden, den steilen Dächern und Rauchsäulen des Wolkowschen Gutshofs …

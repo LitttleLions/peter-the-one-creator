@@ -14,7 +14,7 @@ from lib.output_paths import (
     de_scene_dir,
     de_scene_path,
     existing_translation_versions,
-    list_ru_scene_paths,
+    list_source_scene_paths,
     parse_scene_number,
     source_chapter_path,
 )
@@ -74,9 +74,10 @@ def chapter_ids(book: dict[str, Any], repo_root: Path = REPO_ROOT) -> list[str]:
     chapters_dir = output_root / "chapters"
     if chapters_dir.exists():
         ids.update(p.name[:3] for p in chapters_dir.glob("*-source.md"))
-    ru_root = output_root / "scenes" / "ru"
-    if ru_root.exists():
-        ids.update(p.name for p in ru_root.iterdir() if p.is_dir())
+    source_lang = str(book.get("source_lang") or "ru")
+    source_root = output_root / "scenes" / source_lang
+    if source_root.exists():
+        ids.update(p.name for p in source_root.iterdir() if p.is_dir())
     state = load_book_state(book, repo_root)
     if state is not None:
         ids.update(ch.id for ch in state.chapters)
@@ -90,9 +91,10 @@ def scene_counts(
     repo_root: Path = REPO_ROOT,
 ) -> dict[str, Any]:
     output_root = book_output_root(repo_root, book)
-    ru_paths = list_ru_scene_paths(output_root, chapter_id)
-    ru_nums = [
-        num for p in ru_paths
+    source_lang = str(book.get("source_lang") or "ru")
+    source_paths = list_source_scene_paths(output_root, chapter_id, source_lang)
+    source_nums = [
+        num for p in source_paths
         if (num := parse_scene_number(p, chapter_id)) is not None
     ]
     de_dir = de_scene_dir(output_root, style, chapter_id)
@@ -101,13 +103,13 @@ def scene_counts(
         num for p in de_paths
         if (num := parse_scene_number(p, chapter_id)) is not None
     ]
-    missing = [num for num in sorted(ru_nums) if num not in set(de_nums)]
+    missing = [num for num in sorted(source_nums) if num not in set(de_nums)]
     return {
-        "ru": len(ru_nums),
+        "ru": len(source_nums),
         "de": len(de_nums),
         "missing": missing,
         "next_missing": missing[0] if missing else None,
-        "complete": bool(ru_nums) and not missing,
+        "complete": bool(source_nums) and not missing,
     }
 
 

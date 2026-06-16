@@ -1,611 +1,238 @@
-# Kapitel 45: CHAPTER XLV
+# Kapitel 045: Tom II - Rozdział XX
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part51.xhtml*
 
 <!-- status: pending -->
 
-HALF an hour later dense throngs of the Egyptian army appeared and soon
+W pół godziny później ukazały się gęste ognie armii egipskiej, a niebawem orszak księcia znalazł się w obozie. Ze wszystkich stron odezwały się trąbki na alarm, żołnierze chwycili broń i krzycząc stawali w szeregach. Oficerowie padali księciu do nóg i jak wczoraj po zwycięstwie, podniósłszy go na rękach, zaczęli obchodzić z nim oddziały. Ściany wąwozu drżały od okrzyków: „Żyj wiecznie, zwycięzco!... Bogowie opiekują się tobą!...”
 
-the escort of the prince was in the camp. From all sides were heard
+Otoczony pochodniami zbliżył się święty Mentezufis. Następca, zobaczywszy go, wydarł się z rąk oficerów i pobiegł naprzeciw kapłana.
 
-trumpets sounding the recall. Warriors seized their weapons, stood in
+— Wiesz, ojcze święty — zawołał Ramzes — schwytaliśmy libijskiego wodza Tehennę!...
 
-ranks and shouted. Officers fell at the feet of the prince, then raised
+— Marna zdobycz — odparł surowo kapłan — dla której naczelny wódz nie powinien był rzucać armii. Szczególniej wówczas, gdy lada chwilę nowy nieprzyjaciel może nadciągnąć.
 
-him in their arms, bore him around before the divisions, as they had
+Książę odczuł całą sprawiedliwość zarzutu, lecz właśnie dlatego zerwał się w nim gniew. Zacisnął pięści, zabłyszczały mu oczy...
 
-after the triumph of the day previous. The walls of the ravine trembled
+— Na imię matki twej, milcz, panie!... — szepnął stojący za nim Pentuer.
 
-from the shouts: "Live through eternity, victor! The gods are thy
+Następcę tak zdziwiło nieoczekiwane odezwanie się jego doradcy, że w jednej chwili ochłonął, a ochłonąwszy zrozumiał, że najwłaściwiej będzie przyznać się do błędu.
 
-guardians!"
+— Prawdę mówisz, wasza dostojność — odparł. — Ani armia wodza, ani wódz armii nigdy nie powinien opuszczać. Sądziłem jednak, że zastąpisz mnie ty, święty mężu, który tu jesteś przedstawicielem ministra wojny...
 
-The holy Mentezufis, surrounded by torches, approached now. The heir,
+Spokojna odpowiedź ułagodziła Mentezufisa, więc kapłan już nie przypomniał księciu zeszłorocznych manewrów, na których namiestnik tak samo opuścił wojska i — wpadł w niełaskę u faraona.
 
-seeing the priest, tore Himself free from the arms of the officers and
+Wtem z wielkim krzykiem zbliżył się do nich Patrokles. Grecki wódz znowu był pijany i z daleka wołał do księcia:
 
-hurried to him.
+— Patrz, następco, co zrobił święty Mentezufis... Ty ogłosiłeś przebaczenie dla wszystkich żołnierzy libijskich, którzy opuszczą najezdników i wrócą do armii jego świątobliwości... Do mnie ci ludzie zbiegli się i ja dzięki temu rozbiłem lewe skrzydło nieprzyjacielskie... Tymczasem dostojny Mentezufis kazał wszystkich wymordować... Zginęło blisko tysiąc jeńców, samych naszych eks-żołnierzy, którzy mieli otrzymać łaskę!...
 
-"Know, holy father, we have caught the Libyan chief Tehenna."
+Księciu znowu krew uderzyła do głowy, ale wciąż stojący za nim Pentuer szepnął:
 
-"Vain is the capture," replied the priest severely, "for which the
+— Milcz, przez bogi, milcz!...
 
-supreme chief must leave his army; especially when a new enemy may
+Lecz Patrokles nie miał doradcy, więc krzyczał dalej:
 
-attack at any moment."
+— Od tej chwili raz na zawsze straciliśmy zaufanie u obcych, no — i u swoich... Bo w końcu i nasza armia musi rozprzęgnąć się, gdy pozna, że na jej czoło wdzierają się zdrajcy...
 
-The prince felt all the justice of this reproach, but for that very
+— Nędzny najmito — odparł zimno Mentezufis — także to śmiesz odzywać się o wojsku i zaufanych jego świątobliwości?... Jak świat światem, nie słyszano jeszcze podobnego bluźnierstwa!... I lękam się, czy bogowie nie pomszczą wyrządzonej sobie zniewagi...
 
-cause did anger spring up in him. He clinched his fist, his eyes
+Patrokles grubo roześmiał się.
 
-gleamed.
+— Dopóki śpię między Grekami, nie lękam się zemsty nocnych bogów... A gdy czuwam, nic mi nie zrobią dzienni...
 
-"In the name of thy mother, be silent," whispered Pentuer, standing
+— Idź spać, idź... między twoich Greków, pijanico — rzekł Mentezufis — aby z twej winy na nasze głowy grom nie spadł...
 
-behind him.
+— Na twój, dusigroszu, ogolony łeb nie spadnie, bo będzie myślał, że to co innego!... — odparł nieprzytomny Grek. Lecz widząc, że książę nie daje mu poparcia, cofnął się do swego obozu.
 
-The heir was so astonished by the unexpected words of his adviser, that
+— Czy naprawdę — spytał Ramzes kapłana — czy naprawdę kazałeś, święty mężu, pobić jeńców wbrew mojej obietnicy, że otrzymają łaskę?...
 
-in one moment he regained self-control, and then he understood that it
+— Wasza dostojność nie byłeś w obozie — odparł Mentezufis — więc na ciebie nie spada odpowiedzialność za ten czyn. Ja zaś pilnuję się naszych praw wojennych, które nakazują tępić zdradzieckich żołnierzy. Żołnierze, którzy poprzednio służyli jego świątobliwości, a następnie połączyli się z nieprzyjaciółmi, mają być natychmiast zabijani — oto ustawa.
 
-would be best to recognize his error.
+— A gdybym ja był tutaj?...
 
-"Thou speakest truth," answered he. "An army should never leave its
+— Jako naczelny wódz i syn faraona, możesz zawieszać wykonywanie pewnych ustaw, których ja muszę słuchać — odparł Mentezufis.
 
-leader, nor the leader his army. I thought, however, that Thou wouldst
+— Nie mógłżeś więc zaczekać do mego powrotu?
 
-take my place, since Thou art a representative of the ministry of war."
+— Ustawa każe zabijać natychmiast, więc spełniłem jej wymagania.
 
-The calm answer mollified Mentezufis, so the priest did not remind the
+Książę był tak oszołomiony, że przerwał dalszą rozmowę i udał się do swego namiotu. Tam dopiero upadłszy na fotel, rzekł do Tutmozisa:
 
-prince of the maneuvers of the previous year when he left the army in
+— Ależ ja już dziś jestem niewolnikiem kapłanów!... Oni mordują jeńców, oni grożą moim oficerom, oni nawet nie szanują moich zobowiązań... Nic żeście nie mówili Mentezufisowi, kiedy kazał zabijać tych nieszczęsnych?...
 
-the same way and incurred the pharaoh's disfavor.
+— Zasłaniał się prawem wojennym i nowymi rozkazami Herhora...
 
-At that moment Patrokles approached them with great uproar. The Grecian
+— Ależ właściwie ja tu jestem wodzem, choć wyjechałem na pół dnia.
 
-general was drunk again and called from afar to the viceroy,
+— Wyraźnie zdałeś dowództwo w ręce moje i Patroklesa — odparł Tutmozis. — Gdy zaś nadjechał święty Mentezufis, musieliśmy mu ustąpić, gdyż jest wyższy od nas...
 
-"See, heir, what the holy Mentezufis has done. Thou didst proclaim
+Książę pomyślał, że jednak schwytanie Tehenny było okupione zbyt wielkimi nieszczęściami. Jednocześnie z całą siłą odczuł doniosłość przepisu, który nie pozwala wodzowi opuszczać wojska. Musiał w sobie przyznać, że nie ma słuszności, ale to jeszcze bardziej drażniło jego dumę i napełniało nienawiścią do kapłanów.
 
-pardon to the Libyans who would leave the invaders and return to the
+„Otóż — mówił — jestem w niewoli pierwej nawet, nim zdążyłem zostać faraonem (oby mój świątobliwy ojciec żył wiecznie!). Więc już dzisiaj muszę zacząć wydobywać się z niej, a przede wszystkim — milczeć... Pentuer ma słuszność: milczeć, zawsze milczeć, a gniewy swoje jak drogocenne klejnoty składać w skarbcu pamięci. Dopiero gdy zbierze się... O, prorocy, wy mi wówczas zapłacicie!...”
 
-army of his holiness. Those men came to me, and owing to thy promise I
+— Nie pytasz, wasza dostojność, o rezultat bitwy? — spytał Tutmozis.
 
-broke the left wing of the enemy. But the worthy Mentezufis gave
+— Aha, właśnie... Cóż jest?
 
-command to slay every man of them. About a thousand prisoners have
+— Przeszło dwa tysiące jeńców, więcej niż trzy tysiące zabitych, a ledwie kilkuset uciekło.
 
-perished all recent warriors of ours, who were to have pardon."
+— Jakaż więc była armia libijska? — rzekł zdziwiony książę.
 
-The blood rushed to the prince's head again, but Pentuer, who stood
+— Sześć do siedmiu tysięcy ludzi.
 
-there always behind him, whispered,
+— To być nie może... Czy podobna, aby w takiej potyczce zginęło prawie całe wojsko?...
 
-"Be silent, for the sake of the gods, be silent."
+— A przecież tak jest, to była straszna bitwa — odparł Tutmozis. — Otoczyłeś ich ze wszech stron, resztę zrobili żołnierze, no... i dostojny Mentezufis... O takiej klęsce nieprzyjaciół Egiptu nie mówią nagrobki najsławniejszych faraonów.
 
-But Patrokles had no adviser, so he continued,
+— Idź już spać, Tutmozisie, jestem zmęczony — przerwał książę, czując, że pycha zaczyna mu bić do głowy.
 
-"From this moment we lose forever, not only the confidence of others,
+„Więc to ja odniosłem takie zwycięstwo?... Niepodobna!...” — pomyślał.
 
-but also that of our own people. For our army must become demoralized
+Rzucił się na skóry, ale pomimo śmiertelnego znużenia zasnąć nie mógł.
 
-utterly when it learns that traitors are forcing their way to the head
+Dopiero czternaście godzin upłynęło od chwili, gdy wydał hasło rozpoczęcia bitwy... Dopiero czternaście godzin?... Niepodobna!...
 
-of it."
+On wygrał taką bitwę?... Ależ on nawet nie widział bitwy, tylko żółty, gęsty tuman, skąd potokami wylewały się nieludzkie wrzaski. Oto i teraz widzi ów tuman, słyszy wrzawę, czuje spiekotę, a przecie żadnej bitwy nie ma...
 
-"Vile hireling," replied Mentezufis, coldly, "how darest Thou talk thus
+Potem zobaczył niezmierną pustynię, wśród której z bolesnym trudem posuwał się po piasku. On i jego ludzie mieli najlepsze konie z całej armii, a pomimo to pełzali jak żółwie... A co za spiekota!... Niepodobna, ażeby człowiek mógł wytrzymać taki żar...
 
-of the army and the confidants of his holiness? Since the world became
+A oto zrywa się Tyfon, zasłania świat, pali, gryzie, dusi... Z figury Pentuera sypią się blade iskry... Nad ich głowami rozlegają się grzmoty, zjawisko, którego nie widział jeszcze nigdy... Potem cicha noc w pustyni... Pędzący gryf, ciemna sylwetka sfinksa na wapiennym wzgórzu...
 
-the world such blasphemy has not been uttered! And I fear lest the gods
+„Tylem widział, tylem przeżył — myśli Ramzes — byłem przy budowaniu naszych świątyń, a nawet przy urodzinach wielkiego sfinksa, który już nie ma wieku, i... to wszystko miałoby zdarzyć się w ciągu czternastu godzin?...”
 
-may avenge the insult wrought on them."
+Jeszcze ostatnia myśl błysnęła księciu: „Człowiek, który tyle przeżył, nie może długo żyć...
 
-Patrokles laughed loudly.
+Przebiegło go zimno od stóp do głów i — zasnął.
 
-"While I sleep among the Greeks, I am not afraid of the vengeance of
+Nazajutrz ocknął się w parę godzin po wschodzie słońca. Kłuły go oczy, bolały wszystkie kości, trochę kaszlał, ale umysł miał jasny i serce pełne odwagi.
 
-night gods. And while I am on the alert they will do nothing in the
+We drzwiach namiotu stał Tutmozis.
 
-daytime."
+— Cóż?... — spytał książę.
 
-"Go to sleep! go among thy Greeks, drunkard," said Mentezufis, "lest a
+— Szpiegowie od granicy libijskiej przynoszą dziwne wieści — odparł ulubieniec. — Ku naszemu wąwozowi zbliża się wielki tłum, ale to nie jest wojsko, lecz bezbronni, kobiety i dzieci, a na ich czele Musawasa i najprzedniejsi Libijczycy...
 
-thunderbolt fall on our heads because of thy offenses."
+— Cóż by to znaczyło?
 
-"On thy shaven head, Thou soul worth a copper, it will not fall, for it
+— Widać chcą prosić o pokój.
 
-would think thy head something else," said the Greek, half unconscious.
+— Po jednej bitwie?... — zdziwił się książę.
 
-But seeing that the prince did not support him, he withdrew to his camp
+— Ale jakiej!... Przy tym strach mnoży w ich oczach nasze wojska... Czują się słabymi i lękają się najazdu i śmierci...
 
-ground.
+— Zobaczymy, czy to nie jest podstęp wojenny!... — odparł książę po namyśle. — A jakże nasi?
 
-"Didst Thou really command to kill the prisoners in spite of my promise
+— Zdrowi, syci, napojeni, wypoczęci i weseli. Tylko...
 
-that they should have pardon?" asked the prince.
+— No?...
 
-"Thou wert not in camp, worthiness," replied Mentezufis, "hence
+— Patrokles umarł w nocy — szepnął Tutmozis.
 
-responsibility falls not on thee for that deed: while I observe our
+— Jakim sposobem?... — zawołał książę zrywając się.
 
-military laws, which command to destroy traitorous warriors. The man
+— Jedni mówią, że zapił się, drudzy... że to kara bogów... Twarz miał siną, a usta pełne piany...
 
-who served his holiness once and joins his enemies afterward is to be
+— Jak tamten niewolnik w Atribis, pamiętasz go?... Nazywał się Bakura i wpadł do sali uczty ze skargami na nomarchę... Rozumie się, że tej samej nocy umarł z pijaństwa!... Co?...
 
-slain immediately that is the law."
+Tutmozis spuścił głowę.
 
-"But if I had been here?"
+— Musimy być bardzo ostrożni, panie mój... — szepnął.
 
-"As supreme leader and a son of the pharaoh Thou couldst suspend the
+— Postaramy się — odparł książę spokojnie. — Nie będę się nawet dziwił śmierci Patroklesa... Bo i co osobliwego może być w tym, że umarł jakiś pijaczyna, który obrażał bogów, ba!... nawet kapłanów...
 
-execution of certain laws which I must obey," replied Mentezufis.
+Ale Tutmozis w tych drwiących słowach odczuł groźbę.
 
-"Couldst Thou not have waited till my return?"
+Książę bardzo kochał wiernego jak pies Patroklesa. Mógł zapomnieć wiele własnych krzywd, ale jego śmierci nie przebaczy nigdy.
 
-"The law commands to kill immediately, so I carried out its
+Przed południem do książęcego obozu nadciągnął z Egiptu świeży pułk tebański, a oprócz tego parę tysięcy ludzi i kilkaset osłów przyniosły wielkie zapasy żywności i namioty. Jednocześnie od strony Libii znowu nadbiegli szpiegowie donosząc, że banda ludzi bezbronnych, idących ku wąwozowi, wciąż powiększa się.
 
-provisions."
+Z rozkazu następcy gęste oddziałki jazdy we wszystkich kierunkach zbadały okolicę: czy nie ukrywa się gdzie nieprzyjacielska armia? Nawet kapłani, wziąwszy ze sobą małą kapliczkę Amona, weszli na szczyt najwyższego wzgórza i odprawili tam nabożeństwo. A wróciwszy do obozu zapewnili następcę, że wprawdzie nadciąga kilkutysięczny tłum bezbronnych Libijczyków, ale armii nie ma nigdzie, co najmniej w trzymilowym promieniu.
 
-The prince was so stunned that he interrupted conversation and withdrew
+Książę zaczął się śmiać z raportu.
 
-to his tent. There falling into a seat he said to Tutmosis,
+— Mam dobre oko — rzekł — ale w takiej odległości nie dojrzałbym wojska.
 
-"I am today a captive of the priests. They murder prisoners, they
+Kapłani, naradziwszy się między sobą, oświadczyli księciu, że jeżeli obowiąże się nie rozmawiać z ludźmi niewtajemniczonymi o tym, co zobaczy, przekona się, że można widzieć bardzo daleko.
 
-threaten officers, they do not even respect my duties. Did ye say
+Ramzes przysiągł. Wówczas kapłani ustawili na jednym wzgórzu ołtarz Amona i rozpoczęli modlitwy. A gdy książę, umywszy się, zdjął sandały i ofiarował bogu złoty łańcuch i kadzidło, wprowadzili go do ciasnej skrzyni, zupełnie ciemnej, i kazali patrzeć na ścianę.
 
-nothing to Mentezufis when he commanded to kill those unfortunate
+Po chwili zaczęły się pobożne śpiewy, w czasie których ukazało się na wewnętrznej ścianie skrzyni jasne kółko. Wnet jasna barwa zmętniała; książę zobaczył piaszczystą równinę, wśród niej skały, a przy nich azjatyckie placówki.
 
-prisoners?"
+Kapłani zaczęli śpiewać żywiej i obraz zmienił się. Było widać inny kawałek pustyni, a w niej tłum ludzi nie większych od mrówek. Mimo to ruchy, ubiory, a nawet twarze osób były tak wyraźne, że książę mógł je opisać.
 
-"He shielded himself with military laws, and new orders from Herhor."
+Zdumienie następcy nie miało granic. Przecierał oczy, dotykał poruszającego się wizerunku... Nagle odwrócił głowę, obraz zniknął i została ciemność.
 
-"But it is I who am leader here, though I went out for half a day."
+Kiedy wyszedł z kaplicy, zapytał go starszy kapłan:
 
-"Thou didst give the leadership explicitly into my hands and into those
+— Cóż, erpatre, wierzysz teraz w potęgę bogów egipskich?
 
-of Patrokles," answered Tutmosis. "But when the holy Mentezufis came we
+— Zaprawdę — odparł — jesteście tak wielkimi mędrcami, że cały świat powinien wam składać ofiary i hołdy. Jeżeli w równym stopniu potraficie widzieć przyszłość, nic wam się nie oprze.
 
-had to yield to him, for he is our superior."
+Na te słowa jeden z kapłanów wszedł do kaplicy, zaczął się modlić i niebawem odezwał się stamtąd głos mówiący:
 
-The prince thought that the seizure of Tehenna was in every case
+— Ramzesie!... zważone są losy państwa, a zanim druga pełnia nadejdzie, zostaniesz jego władcą...
 
-purchased with surpassing misfortunes. At the same time he felt in all
+— Bogowie!... — zawołał przerażony książę — azaliż ojciec mój jest tak chory?...
 
-its force the significance of the maxim that a chief must never leave
+Upadł twarzą na piasek, a jeden z asystujących kapłanów spytał go: czy nie chce jeszcze czego dowiedzieć się.
 
-his army. He had to confess his error, but that irritated his pride the
+— Powiedz, ojcze Amonie — odparł — czy spełnią się moje zamiary?
 
-more and filled him with hatred for the priesthood.
+Po chwili rzekł głos z kaplicy:
 
-"Behold," said he, "I am in captivity even before I have become the
+— Jeżeli nie rozpoczniesz wojny ze Wschodem, będziesz składał ofiary bogom i szanował ich sługi, czeka cię długi żywot i pełne sławy panowanie...
 
-pharaoh, may his holiness live through eternity. So today I must begin
+Po tych cudach, które zdarzyły się w jasny dzień, na otwartym polu, książę wzburzony wrócił do swego namiotu.
 
-to work myself out of this slavery, and first of all to be silent.
+„Nic nie oprze się kapłanom!...” — myślał z trwogą.
 
-Pentuer is right: I must be silent always, and put away my anger, like
+W namiocie zastał Pentuera.
 
-precious jewels into the storehouse of memory. But when it is full, ye
+— Powiedz mi, mój doradco — rzekł — czy wy, kapłani, możecie czytać w ludzkim sercu i odsłaniać jego tajemne zamiary?
 
-will pay me, O prophets."
+Pentuer potrząsnął głową.
 
-"Thou dost not inquire, worthiness, for the results of the battle,"
+— Prędzej — odparł — człowiek dojrzy, co mieści się we wnętrzu skały, aniżeli zbada cudze serce. Ono nawet jest dla bogów zamknięte i dopiero śmierć odkrywa jego myśli.
 
-said Tutmosis.
+Książę głęboko odetchnął, ale nie mógł pozbyć się niepokoju. Gdy zaś ku wieczorowi trzeba było zwołać radę wojenną, zaprosił na nią Mentezufisa i Pentuera.
 
-"Aha, just that. What are they?"
+Nikt nie wspominał o nagle zmarłym Patroklesie; może dlatego, że były pilniejsze sprawy. Przyjechali bowiem libijscy posłowie błagając w imieniu Musawasy o litość nad jego synem Tehenną i ofiarując Egiptowi poddanie się i wieczny spokój.
 
-"More than two thousand prisoners, more than three thousand killed, and
+— Źli ludzie — mówił jeden z posłów — oszukali naród nasz mówiąc, że Egipt jest słaby, a jego faraon cieniem władcy. Wczoraj jednak przekonaliśmy się, jak mocne jest wasze ramię, i poczytujemy za rzecz roztropniejszą poddać się wam i płacić daniny aniżeli narażać ludzi na pewną śmierć, a nasze majątki na zniszczenie.
 
-barely a few hundred escaped."
+Gdy rada wojenna wysłuchała tej mowy, kazano Libijczykom wyjść z namiotu, a książę Ramzes wprost zapytał o zdanie świętego Mentezufisa, co nawet zdziwiło jenerałów.
 
-"What, then, was the Libyan army?" asked the astonished prince.
+— Jeszcze wczoraj — rzekł dostojny prorok — radziłbym odrzucić prośbę Musawasy, przenieść wojnę do Libii i zniszczyć gniazdo rozbójników. Dziś jednak otrzymałem tak ważne wiadomości z Memfisu, że będę głosował za litością dla pokonanych.
 
-"From six to seven thousand men."
+— Czy mój świątobliwy ojciec jest chory? — zapytał wzruszony książę.
 
-"That cannot be. Is it possible that almost a whole army could perish
+— Jest chory. Lecz dopóki nie skończymy z Libijczykami, wasza dostojność nie powinieneś o tym myśleć...
 
-in such an encounter?"
+A gdy następca smutnie spuścił głowę, Mentezufis dodał:
 
-"And still it is so; that was a terrible battle," replied Tutmosis.
+— Muszę spełnić jeszcze jeden obowiązek... Wczoraj, dostojny książę, ośmieliłem się zrobić ci uwagę, że dla tak marnej zdobyczy, jak Tehenna, wódz nie powinien był opuszczać armii. Dziś widzę, że myliłem się: gdybyś bowiem nie schwycił, panie, Tehenny, nie mielibyśmy tak prędko pokoju z Musawasą... Mądrość twoja, naczelny wodzu, okazała się wyższą nad wojskowe ustawy...
 
-"Thou didst surround them on all sides, the soldiers did the rest, well
+Księcia zastanowiła skrucha Mentezufisa.
 
-yes and the worthy Mentezufis. Even inscriptions on the tombs of the
+„Dlaczego on tak mówi?... — pomyślał. — Widać nie tylko Amon wie, że mój świątobliwy ojciec jest chory...”
 
-most famous pharaohs do not mention such a crushing of the enemies of
+I w duszy następcy znowu zbudziły się stare uczucia: pogarda dla kapłanów i — nieufność do ich cudów.
 
-Egypt."
+„Więc nie bogowie wróżyli mi, że rychło zostanę faraonem, ale przyszła wiadomość z Memfisu i kapłani oszukali mnie w kaplicy. A jeżeli kłamali w jednym, kto zaręczy, że i te widoki pustyni ukazywane na ścianie nie były także oszustwem?...”
 
-"Go to sleep, Tutmosis; I am wearied," interrupted the prince, feeling
+Ponieważ książę ciągle milczał, co przypisywano jego smutkowi z powodu choroby faraona, a jenerałowie także nie śmieli odzywać się po stanowczych słowach Mentezufisa, więc radę wojenną ukończono. Zapadło jednomyślne postanowienie, ażeby wziąć jak największą daninę z Libijczyków, posłać im egipską załogę i — przerwać wojnę.
 
-that pride was beginning to rise to his head.
+Teraz już wszyscy spodziewali się, że faraon umrze. Egipt zaś, aby sprawić władcy przystojny pogrzeb, potrzebował głębokiego spokoju.
 
-"Then have I won such a victory? Impossible!" thought he.
+Opuściwszy namiot rady wojennej, książę spytał Mentezufisa:
 
-He threw himself on to the skins, but though mortally weary he could
+— Dzielny Patrokles zgasł tej nocy: czy, święci mężowie, myślicie uczcić jego zwłoki?
 
-not sleep.
+— Był to barbarzyńca i wielki grzesznik — odparł kapłan. — Tak znakomite jednak oddał usługi Egiptowi, że należy zapewnić mu życie za grobem. Jeżeli więc pozwolisz, wasza dostojność, dziś jeszcze odeślemy ciało tego męża do Memfisu, ażeby zrobić jego mumię i odwieźć ją na wieczne mieszkanie do Tebów między królewskie przybytki.
 
-Only fourteen hours had passed since the moment when he had given the
+Książę zgodził się z ochotą, ale podejrzenia jego wzrosły.
 
-signal to begin the battle. Only fourteen hours? Was it possible!
+„Wczoraj — myślał — Mentezufis gromił mnie jak leniwego ucznia, i jeszcze łaska bogów, że nie obił mi grzbietu kijem, a dziś przemawia do mnie jak posłuszny syn do ojca i prawie pada na brzuch swój. Nie jestże to znakiem, że do namiotu mego zbliża się władza tudzież godzina rachunku?...”
 
-Had he won such a battle? But he had not even seen a battle, nothing
-
-but a yellow dense cloud, whence unearthly shouts were poured out in
-
-torrents. Even now he sees that cloud, he hears the uproar, he feels
-
-the heat, but there is no battle.
-
-Next he sees a boundless desert, in which he is struggling through the
-
-sand with painful effort. He and his men have the best horses in the
-
-army, and still they creep forward like turtles. And what heat!
-
-Impossible for man to support the like.
-
-And now Typhon springs up, hides the light, burns, bites, suffocates.
-
-Pale sparks are shooting forth from Pentuer's body. Above their heads
-
-thunder rolls such thunder as he had never heard till that day. Later
-
-on, silent night in the desert. The fleeing griffin, the dark outline
-
-of the sphinx on the limestone hill.
-
-"I have seen so much. I have passed through so much," thought Ramses.
-
-"I have been present at the building of our temples, and even at the
-
-birth of the great sphinx, which is beyond having an age now, and all
-
-this happened in the course of fourteen hours."
-
-Now the last thought flashed before the prince: "A man who has passed
-
-through so much cannot live long."
-
-A chill went through him from head to foot, and he fell asleep.
-
-He woke next morning a couple of hours after sunrise. His eyes smarted,
-
-all his bones ached; he coughed a little, but his mind was clear and
-
-his heart full of courage.
-
-Tutmosis was at the door of the tent.
-
-"What is it?" asked the prince.
-
-"Spies from the Libyan boundary bring strange news," said the favorite.
-
-"A great throng of people are approaching our ravine, not troops,
-
-however, but unarmed men, with children and women; at the head of them
-
-is Musawasa, and the foremost of the Libyans."
-
-"What does this mean?"
-
-"Evidently they wish to beg peace of thee."
-
-"After one battle?" asked the prince, with wonder.
-
-"But what a battle! Besides, fear increases our army in their eyes.
-
-They fear invasion and death."
-
-"Let us see if this is a military stratagem," answered the prince,
-
-after some thought. "How are our men?"
-
-"They are in good health, they have eaten and drunk, they have rested
-
-and are gladsome. But."
-
-"But what?"
-
-"Patrokles died in the night," whispered Tutmosis.
-
-"How?" cried the prince, springing up.
-
-"Some say that he drank too much, some that it was the punishment of
-
-the gods. His face was blue and his mouth full of foam."
-
-"Like that captive in Atribis, Thou rememberest him? His name was
-
-Bakura; he broke into the feasting hall with complaints against the
-
-nomarch. He died that same night from drunkenness, of course. What dost
-
-Thou think?"
-
-Tutmosis dropped his head.
-
-"We must be very careful, my lord," whispered he.
-
-"We shall try," answered the prince, calmly. "We will not even wonder
-
-at the death of Patrokles. For what is there surprising in this, that
-
-some drunken fellow dies who insulted the gods, nay! insulted the
-
-priests even."
-
-Tutmosis felt a threat in these jeering words.
-
-The prince had loved Patrokles greatly. The Greek leader had been as
-
-faithful as a dog to him. Ramses might forget many wrongs done himself,
-
-but the death of that man he would not forgive.
-
-Before midday a fresh regiment, the Theban, arrived from Egypt at the
-
-prince's camp, and besides that some thousands of men and several
-
-hundreds of asses bringing large supplies of provisions and also tents.
-
-At the same time, from the direction of Libya, returned spies with
-
-information that the baud of unarmed people coming toward the ravine
-
-was increasing.
-
-At command of the heir numerous small detachments of cavalry
-
-reconnoitered the neighborhood in every direction to learn if a hostile
-
-army were not hidden somewhere. Even the priests, who had brought with
-
-them a small chapel of Amon, went to the summit of the highest hill and
-
-held a religious service. Then returning to the camp, they assured
-
-Ramses that a crowd of some thousands of unarmed Libyans were
-
-approaching, but that there was no army at any point, at least none
-
-within a fifteen mile radius.
-
-The prince laughed at the report.
-
-"I have good sight," said he, "but I could not see an army at that
-
-distance."
-
-The priests, after they had counseled together, informed the prince
-
-that if he would bind himself not to tell the uninitiated what he saw
-
-he would learn that it was possible to see at great distances.
-
-Ramses took an oath. The priests placed the altar of Amon on a height,
-
-and began prayers. When the prince had washed, removed his sandals,
-
-offered to the god a gold chain and incense, they conducted him to a
-
-small box which was perfectly dark and told him to look at one wall of
-
-it.
-
-After a while sacred hymns were intoned during which a bright circle
-
-appeared on the box. Soon the bright color grew darker; the prince saw
-
-a sandy plain, in the midst of it cliffs, and near them an Asiatic
-
-outpost.
-
-The priests sang with more animation and the picture changed. Another
-
-patch of the desert was visible, and on it a group of people who looked
-
-no larger than ants. Still the movements and dress, and even the faces
-
-of the persons were so definite that the prince could describe them.
-
-The astonishment of the heir knew no bounds. He rubbed his eyes,
-
-touched the moving picture. Suddenly he turned away his face; the
-
-picture vanished and darkness remained.
-
-When he went out of the chapel the elder priest asked him,
-
-"Well, Erpatr, dost Thou believe now in the might of the gods of
-
-Egypt?"
-
-"Indeed," answered he, "ye are such great sages that the whole world
-
-ought to give you offerings and homage. If ye can see the future in an
-
-equal degree nothing can oppose you."
-
-After these words a priest entered the chapel and began to pray; soon a
-
-voice was heard from the chapel, saying,
-
-"Ramses! the fates of the kingdom are weighed, and before another full
-
-moon comes Thou wilt be its ruler."
-
-"O gods!" cried the terrified prince. "Is my father so sick, then?"
-
-He fell on his face in the sand; then an assisting priest inquired if
-
-he did not wish to learn something more.
-
-"Tell me, Father Amon, whether my plans will be accomplished."
-
-After a while a voice spoke in the chapel.
-
-"If Thou begin no war in the east, if Thou give offerings to the gods
-
-and respect their servants, a long life awaits thee, and a reign full
-
-of glory."
-
-After the miracles which had happened on the open field, in the open
-
-day, the excited prince returned to his tent.
-
-"Nothing can resist the priests," thought he in fear.
-
-He found Pentuer in the tent.
-
-"Tell me, my counselor," said he, "whether priests can read the heart
-
-of a man and unveil his secret purpose."
-
-Pentuer shook his head.
-
-"Sooner," answered he, "will man see what there is in the centre of a
-
-cliff than read the heart of another man. It is even closed to the
-
-gods, and death alone can discover its secrets."
-
-Ramses drew a deep sigh of relief, but he could not free himself from
-
-fear. When, toward evening, it was necessary to call a military
-
-council, he summoned Mentezufis and Pentuer.
-
-No one mentioned the sudden death of Patrokles; perhaps because there
-
-was more urgent business; for Libyan envoys had come imploring in the
-
-name of Musawasa mercy for his son Tehenna, and offering to Egypt
-
-surrender and peace forever.
-
-"Evil men," said one of the envoys, "tempted our people saying that
-
-Egypt was weak; that her pharaoh was the shadow of a ruler. But
-
-yesterday we learned how strong your arm is, and we consider it wiser
-
-to yield and pay you tribute than expose our people to certain death
-
-and our property to ruin."
-
-When the military council had heard this speech the Libyans were sent
-
-from the tent, and Prince Ramses asked the holy Mentezufis directly for
-
-his opinions; this astonished even the generals.
-
-"Only yesterday," said the worthy prophet, "I should have been glad to
-
-refuse the prayer of Musawasa, transfer the war to Libya, and destroy
-
-that nest of robbers. But today I have received such important news
-
-from Memphis that I will vote for mercy to the conquered."
-
-"Is his holiness, my father, sick?" inquired the prince, with deep
-
-emotion.
-
-"He is sick. But till we finish with the Libyans Thou must not think of
-
-his holiness."
-
-When the heir dropped his head in sadness, Mentezufis added,
-
-"I must perform one more duty. Yesterday, worthy prince, I made bold to
-
-offer a judgment that for such a wretched captive as Tehenna, a chief
-
-should not leave his army. Today I see that I was mistaken, for if Thou
-
-hadst not seized Tehenna we should not have this early peace with
-
-Musawasa. Thy wisdom, chief, has proved higher than military
-
-regulations."
-
-The prince was arrested by this compunction on the part of Mentezufis.
-
-"Why does he speak thus?" thought he. "It is evident that Amon is not
-
-alone in knowing of my holy father's illness."
-
-And in the soul of the heir the old feelings were roused, contempt for
-
-the priests and distrust of their miracles.
-
-"So it was not the gods who told me that I should soon become pharaoh,
-
-but the news came from Memphis, and the priests tricked me in the
-
-chapel! But if they lie in one thing, who will assure me that those
-
-views of the desert shown on the wall were not deceit also?"
-
-Since the prince was silent all the time, which was attributed to his
-
-sorrow because of his father's illness, and the generals did not dare
-
-to say anything after the decisive words of Mentezufis, the military
-
-council ended. A unanimous decision was made to stop the war, take the
-
-very highest tribute from the Libyans, and send them an Egyptian
-
-garrison.
-
-All expected now that the pharaoh would die. But Egypt, to celebrate a
-
-funeral worthy of its ruler, needed profound peace.
-
-When leaving the tent of the military council the prince said to
-
-Mentezufis,
-
-"The valiant Patrokles died last night; do ye holy fathers think to
-
-show his remains honor?"
-
-"He was a barbarian and a great sinner," said the priest, "but he
-
-rendered such famous services to Egypt that it is proper to assure life
-
-beyond the grave to him. If Thou permit, worthiness, we will send the
-
-body of that man this day to Memphis, so as to make a mummy of it, and
-
-take it to an eternal dwelling in Thebes among the retreats of the
-
-pharaohs."
-
-The prince consented willingly, but his suspicions rose.
-
-"Yesterday," thought he, "Mentezufis threatened me as he might a lazy
-
-pupil, and it was even a favor of the gods that he did not beat my back
-
-with a stick; but today he speaks to me like an obedient son to a
-
-father, and almost falls on his breast before me. Is this a sign that
-
-power is drawing near my tent, and also the hour of reckoning?"
-
-Thus thinking, the prince increased in pride, and his heart was filled
-
-with greater wrath against the priesthood. Wrath which was the worse
-
-for being silent like a scorpion which has hidden in the sand and maims
-
-the incautious foot with its biting sting.
+Tak rozmyślając, książę wzrastał w dumę, a serce jego wypełniał coraz silniejszy gniew przeciw kapłanom. Gniew tym gorszy, że cichy jak skorpion, który ukrywszy się w piasku, jadowitym żądłem kaleczy nieostrożną nogę.

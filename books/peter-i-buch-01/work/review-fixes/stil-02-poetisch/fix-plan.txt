@@ -1,0 +1,9 @@
+Fixbare Szenen: 0
+Fixbare Ersetzungen: 0
+Manuell zu pruefen: 2
+
+
+Manuell:
+
+- Kapitel 006, Szene 01: length_ratio - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 006, Szene 01: llm_review_failed - kein eindeutiger maschineller Ersatz erkennbar

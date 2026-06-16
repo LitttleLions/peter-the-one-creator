@@ -1,393 +1,128 @@
-# Kapitel 13: CHAPTER XIII
+# Kapitel 013: Tom I - Rozdział XIII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part17.xhtml*
 
 <!-- status: pending -->
 
-The expedition of the heir to the throne, undertaken with the object of
+Wycieczki następcy tronu, podjęte w celu odkrycia kapłana, który ocalił Sarę, a księciu udzielił porady prawnej, miały nieoczekiwany rezultat.
 
-discovering the priest who had saved Sarah and had given him legal
+Kapłan nie znalazł się, natomiast między egipskim chłopstwem zaczęły o Ramzesie krążyć legendy.
 
-advice, had a result that was unexpected.
+Jakiś człowiek pływał wieczorami ode wsi do wsi w drobnym czółenku i opowiadał chłopom, że następca tronu uwolnił ludzi, którym za napad na jego dom groziły kopalnie. Oprócz tego zbił urzędnika, który od chłopów chciał wydobyć niesprawiedliwy podatek. Dodawał w końcu nieznany człowiek, że książę Ramzes znajduje się pod szczególną opieką boga Amona z pustyni zachodniej, który jest jego ojcem.
 
-The priest was not discovered, but among Egyptian earth-tillers legends
+Prosty lud chciwie słuchał wieści, raz dlatego, że zgadzały się z faktami, po wtóre, że opowiadający je człowiek sam wyglądał na ducha: przypływał nie wiadomo skąd i znikał.
 
-began to circulate which concerned Ramses.
+Książę Ramzes wcale o swoich chłopach nie mówił z Dagonem, nawet nie wzywał go do siebie. Czuł wstyd wobec Fenicjanina, od którego wziął pieniądze i jeszcze nieraz mógł ich potrzebować.
 
-Some mysterious man sailed about from village to village and told the
+Ale w kilka dni po awanturze z pisarzem Dagona bankier sam odwiedził następcę tronu, trzymając coś zasłoniętego w rękach. A gdy wszedł do pokoju księcia, ukląkł, rozwiązał białą chustkę i wyjął z niej prześliczny złoty kielich.
 
-people that the heir to the throne freed the men who were in danger of
+Kielich był wysadzany różnokolorowymi kamieniami i pokryty płaskorzeźbą, która na podstawie przedstawiała zbieranie i tłoczenie winogron, a na czaszy — ucztę.
 
-condemnation to the quarries for attacking his dwelling. Besides, he
+— Przyjmij ten kielich, dostojny panie, od niewolnika twego — mówił bankier — i używaj go sto... tysiąc lat... do skończenia wieków.
 
-had beaten down an official who was extorting unjust rent from tenants.
+Ale książę zrozumiał, o co chodzi Fenicjaninowi. Nie dotykając przeto złotego daru, rzekł z twarzą surową:
 
-Finally, the unknown person added that Prince Ramses was under the
+— Czy widzisz, Dagonie, te purpurowe blaski wewnątrz kielicha?...
 
-special guardianship of Amon, who was his father.
+— Zaprawdę — odparł bankier — jakżebym nie miał widzieć tej purpury, która dowodzi, że kielich jest z najczystszego złota.
 
-Simple people listened to these tidings eagerly, first, because they
+— A ja ci mówię, że to jest krew dzieci zabieranych rodzicom — odpowiedział gniewnie następca tronu.
 
-agreed with facts, second, because the man who told the story was
+Odwrócił się i wyszedł do dalszych pokojów.
 
-himself like a spirit it was not known whence he came nor whither he
+— O Astoreth! — jęknął Fenicjanin. Usta mu posiniały, a ręce zaczęły drżeć tak, że ledwie zdążył owinąć swój kielich w białą chustę.
 
-had vanished.
+W parę dni później Dagon popłynął ze swoim kielichem do folwarku Sary. Ubrał się w szaty przetykane złotem, w gęstej brodzie miał szklaną kulkę, z której ciekły wonności, a do głowy przypiął dwa pióra.
 
-Prince Ramses made no mention whatever of his tenants to Dagon; he did
+— Piękna Saro — zaczął — oby Jehowa zlał na twoją rodzinę tyle błogosławieństw, ile dziś płynie wody w Nilu. My, Fenicjanie, i wy, Żydzi, jesteśmy przecie sąsiadami i braćmi. Ja zaś takim żarem miłosnym płonę do ciebie, że gdybyś nie należała do najdostojniejszego pana naszego, dałbym za ciebie Gedeonowi (oby zdrów był!) dziesięć talentów i pojąłbym cię za prawą małżonkę. Taki jestem namiętny!...
 
-not even summon him. He felt ashamed in presence of the Phoenician from
+— Niech mnie Bóg zachowa — odparła Sara — ażebym potrzebowała mieć innego pana aniżeli ten mój, który jest. Ale skądże to, zacny Dagonie, przyszła ci ochota nawiedzić dzisiaj służebnicę pańską?
 
-whom he had taken money and might require money yet more than one time.
+— Powiem ci prawdę, jakbyś była Tamarą, żoną moją, która, choć rodowita córka Sydonu, choć wniosła mi duży posag, jest już stara i niewarta zdejmować ci sandałów...
 
-But a few days after the adventure with Dagon's scribe the banker came
+— W miodzie, płynącym z ust waszych, jest dużo piołunu — wtrąciła Sara.
 
-himself to the heir, holding in his hand some covered object.
+— Miód — prawił Dagon siadając — niech będzie dla ciebie, a piołun niech moje zatruwa serce. Pan nasz, książę Ramzes (oby żył wiecznie!), ma lwie usta i sępią przebiegłość. Raczył mi wypuścić w dzierżawę swoje majątki, co żołądek mój napełniło radością; ale nie ufa mi tak, że ja ze zgryzoty po całych nocach nie sypiam, tylko wzdycham i łzami oblewam łoże moje, w którym obyś ty wespół ze mną spoczywała, Saro, zamiast mojej małżonki Tamary, która pożądliwości już we mnie rozbudzić nie może.
 
-On entering the prince's chamber he bent down, untied a white kerchief,
+— Nie to chcieliście mówić — przerwała zarumieniona Sara.
 
-and drew forth from it a very beautiful gold goblet; the goblet was set
+— Ja już nie wiem, co chcę mówić od czasu, gdym ujrzał ciebie i gdy nasz pan, śledząc moje czynności na folwarkach, pobił kijem i odebrał zdrowie mojemu pisarzowi, który zbierał od chłopów podatek. Przecie ten podatek nie dla mnie, Saro, tylko dla naszego pana... Przecie nie ja będę jadł figi i pszenne chleby z tych dóbr, tylko ty, Saro, i nasz pan... Przecie ja dałem pieniądze panu, a tobie klejnoty, więc dlaczego podłe chłopstwo egipskie ma zubożać naszego pana i ciebie, Saro?... Ażebyś zaś zrozumiała, jak mocno wzburzasz moją krew dla siebie, i ażebyś dowiedziała się, że z tych pańskich majątków ja nic mieć nie chcę, tylko wam wszystko oddaję, weźmij, Saro, ten kielich szczerozłoty, wysadzany kamieniami i okryty rzeźbą, której dziwiliby się sami bogowie...
 
-with stones of various colors, and covered with carving in relief which
+To mówiąc, Dagon wydobył z białej chusty kielich nie przyjęty przez księcia.
 
-on the lower part represented the gathering and pressing out of grapes
+— Ja nawet nie chcę, Saro — mówił — ażebyś ty ten złoty kielich miała w domu i dawała z niego pić naszemu panu. Ty oddaj ten szczerozłoty kielich twojemu ojcu Gedeonowi, którego kocham jak brata. I ty, Saro, powiedz ojcu twemu takie słowa: „Dagon, twój bliźnięcy brat, nieszczęśliwy dzierżawca majątków następcy tronu, jest zrujnowany. Więc pij, mój ojcze, z tego kielicha i myśl o twoim bliźniaczym bracie Dagonie, i proś Jehowy, ażeby nasz pan, książę Ramzes, nie rozbijał jemu pisarzów i nie buntował chłopów, którzy już i tak nie chcą płacić podatku.” Ty zaś, Saro, wiedz o tym, że gdybyś kiedy dopuściła mnie do poufałości ze sobą, dałbym tobie dwa talenty, a twemu ojcu talent. I jeszcze wstydziłbym się, że daję ci tak mało, boś ty warta, ażeby pieścił cię sam faraon i następca tronu, i dostojny minister Herhor, i najwaleczniejszy Nitager, i najbogatsi bankierowie feniccy. W tobie jest taki smak, że ja, gdy widzę cię — omdlewam, a gdy cię nie widzę, zamykam oczy i oblizuję się. Ty jesteś słodsza od fig, bardziej pachnąca od róż... Ja bym dał tobie pięć talentów... Weź ten kielich, Saro...
 
-and on the cup part a feast.
+Sara usunęła się ze spuszczonymi oczyma.
 
-"Accept this goblet, worthy lord, from thy slave," said the banker,
+— Nie wezmę kielicha — odparła — bo pan mój zabronił mi od kogokolwiek przyjmować darów.
 
-"and use it for a hundred, a thousand years, to the end of ages."
+Dagon osłupiał i patrzył na nią zdziwionymi oczyma.
 
-The prince understood what the Phoenician wanted; so, without touching
+— Ty chyba nie wiesz, Saro, co jest wart ten kielich?... Wreszcie ja daję go twojemu ojcu, memu bratu...
 
-the golden gift, he said with a stern expression,
+— Nie mogę przyjąć... — szepnęła Sara.
 
-"Dost Thou see, Dagon, that purple reflection inside the goblet?"
+— Gwałtu!... — krzyknął Dagon. — Więc ty, Saro, zapłacisz mi za ten kielich innym sposobem, nie mówiąc twojemu panu... Przecie taka piękna jak ty kobieta musi posiadać złoto i klejnoty i powinna mieć swego bankiera, który by jej dostarczał pieniądze, kiedy jej się podoba, nie zaś tylko wówczas, gdy jej pan zechce?...
 
-"I do, indeed," replied the banker; "why should I not see that which
+— Nie mogę!... — szepnęła Sara, nie ukrywając wstrętu dla Dagona.
 
-shows the goblet to be the purest gold?"
+Fenicjanin w okamgnieniu zmienił ton i rzekł, śmiejąc się:
 
-"But I declare that to be the blood of children seized away from their
+— Bardzo dobrze, Saro!... Ja tylko chciałem przekonać się, czy ty jesteś wierna naszemu panu. I widzę, że jesteś wierna, chociaż głupi ludzie gadają...
 
-parents," said the heir, angrily.
+— Co?... — wybuchnęła Sara, rzucając się ku Dagonowi z zaciśniętymi pięściami.
 
-And he turned and went to an interior chamber.
+— A cha! cha!... — śmiał się Fenicjanin. — Jaka szkoda, że tego nie słyszał i nie widział nasz pan... Ale ja jemu kiedy opowiem, gdy będzie dobrze usposobiony, że ty nie tylko jesteś mu wierna jak pies, ale nawet nie chciałaś przyjąć złotego kielicha, ponieważ on nie kazał ci przyjmować prezentów... A ten kielich, wierz mi, Saro, skusiłby niejedną kobietę... I niemałą kobietę...
 
-"O Astoreth!" groaned the Phoenician.
+Dagon posiedział jeszcze chwilę, podziwiając cnotę i posłuszeństwo Sary, wreszcie pożegnał się z nią bardzo czule, wsiadł w swoją łódź z namiotem i odpłynął do Memfis. Im czółno dalej odsuwało się od folwarku, z twarzy Fenicjanina znikał uśmiech, a występował wyraz gniewu. A gdy dom Sary ukrył się za drzewami, Dagon powstał i podniósłszy ręce do góry począł wołać:
 
-His lips grew blue, and his hands trembled so that he was hardly able
+— O Baal Sydon, o Astoreth!... pomścijcie moją zniewagę nad przeklętą córką Judy... Niech przepadnie jej zdradziecka piękność jak kropla deszczu w pustyni... Niechaj choroby stoczą jej ciało, a szaleństwo opęta duszę... Niech jej pan wygna ją z domu jak parszywą świnię... A jak dzisiaj odtrąciła mój kielich, tak niech przyjdzie czas, ażeby ludzie odtrącali jej wyschłą rękę, gdy będzie żebrać, spragniona, o kubek mętnej wody...
 
-to wrap up the goblet.
+Potem pluł i mruczał niezrozumiałe a straszne wyrazy, aż na chwilę czarny obłok zakrył słońce, a woda w pobliżu łodzi poczęła mącić się i wydymać w duże fale. Gdy skończył, słońce znowu zajaśniało, ale rzeka jeszcze niepokoiła się, jakby poruszył ją nowy przybór.
 
-A couple of days later Dagon sailed down with his goblet to Sarah's
+Wioślarze Dagona zlękli się i przestali śpiewać; lecz oddzieleni od swego pana ścianą namiotu, nie spostrzegli jego praktyk.
 
-house. He was arrayed in robes interwoven with gold; in his thick beard
+Od tej pory Fenicjanin nie pokazywał się następcy tronu. Lecz gdy pewnego dnia książę przyszedł do swojej willi, zastał w pokoju sypialnym piękną szesnastoletnią tancerkę fenicką, która za cały strój miała złotą obręcz na głowie i delikatny jak pajęczyna szal na ramionach.
 
-were glass globulets from which issued perfumes, and he had fastened
+— Któż ty jesteś? — zapytał książę.
 
-two plumes to his head.
+— Jestem kapłanką i twoją służebnicą, a przysłał mnie pan Dagon, ażebym wypłoszyła twój gniew na niego.
 
-"Beautiful Sarah," began he, "may Jehovah pour on thy family as many
+— Jakże potrafisz to zrobić?
 
-blessings as there are waters in the Nile at present! We Phoenicians
+— O tak... Siądź tutaj — mówiła, sadowiąc go na fotelu — ja stanę na palcach, ażeby zrobić się wyższą aniżeli twój gniew, i tym szalem, który jest poświęcony, będę odpędzać od ciebie złe duchy... A kysz!... a kysz!... — szeptała, tańcząc wkoło Ramzesa. — Niech moje ręce zdejmą ponurość z włosów twoich... niech moje pocałunki przywrócą jasne spojrzenie oczom twym... niech bicie mego serca napełni muzyką uszy twoje, panie Egiptu... A kysz!... a kysz!... on nie wasz, ale mój... Miłość potrzebuje takiej ciszy, że wobec niej nawet gniew musi umilknąć...
 
-and ye Jews are brethren and neighbors. I am inflamed with such ardor
+Tańcząc, bawiła się włosami Ramzesa, obejmowała go za szyję, całowała w oczy. Wreszcie zmęczona siadła u nóg księcia i oparłszy głowę na jego kolanach, bystro przypatrywała mu się, dysząc rozchylonymi ustami.
 
-of love for thee that didst Thou not belong to our most worthy lord I
+— Już nie gniewasz się na twego sługę Dagona?... — szeptała, głaszcząc twarz księcia.
 
-would give Gideon ten talents for thee, and would take thee for my
+Ramzes chciał ją pocałować w usta, lecz zerwała się z jego kolan i uciekła, wołając:
 
-lawful wife. So enamored am I."
+— O, nie, nie można!...
 
-"May God preserve me," answered Sarah, "from wanting another lord
+— Dlaczego?
 
-beyond the one who is mine at this moment. But whence, worthy Dagon,
+— Jestem dziewicą i kapłanką wielkiej bogini Astoreth... Musiałbyś bardzo kochać i czcić moją opiekunkę, zanim byłoby ci wolno pocałować mnie.
 
-did the desire come to thee today of visiting our lord's servant?"
+— A tobie wolno?...
 
-"I will tell thee the truth, as if Thou wert Tamara, my wife, who, a
+— Mnie wszystko wolno, bo ja jestem kapłanka i przysięgłam zachować czystość.
 
-real daughter of Sidon, though she brought me a large dowry, is old now
+— Więc po cóżeś tu przyszła?
 
-and not worthy to take off thy sandals."
+— Rozpędzić gniew twój. Zrobiłam to i odchodzę. Bądź zdrów i zawsze dobry!... — dodała z przejmującym wejrzeniem.
 
-"In the honey flowing from thy lips there is much wormwood," put in
+— Gdzie mieszkasz?... jak się nazywasz?... — pytał książę.
 
-Sarah.
+— Nazywam się Pieszczota. A mieszkam... Ech, po co mam mówić. Jeszcze nieprędko przyjdziesz do mnie.
 
-"Let the honey," replied Dagon, sitting down, "be for thee and let the
+Skinęła ręką i znikła, a książę, jak odurzony, nie ruszył się z fotelu. Gdy zaś po chwili wyjrzał oknem, zobaczył bogatą lektykę, którą czterej Nubijczycy szybko nieśli w stronę Nilu.
 
-wormwood poison my heart. Our lord Prince Ramses may he live through
+Ramzes nie żałował odchodzącej: zdziwiła go, ale nie porwała.
 
-eternity! has the mouth of a lion and the keenness of a vulture. He has
+„Sara jest spokojniejsza od niej — myślał — i ładniejsza. Zresztą... zdaje mi się, że ta Fenicjanka musi być zimna, a jej pieszczoty wyuczone.”
 
-seen fit to rent his estate to me. This has filled my stomach with
+Lecz od tej chwili książę przestał gniewać się na Dagona, tym bardziej że gdy raz był u Sary, przyszli do niego chłopi i dziękując za opiekę oświadczyli, że Fenicjanin już nie zmusza ich do płacenia nowego podatku.
 
-delight; but he does not trust me, so I lay awake whole nights from
-
-anxiety, I only sigh and cover my bed with tears, in which bed would
-
-that Thou wert resting with me, O Sarah, instead of my wife Tamara, who
-
-cannot rouse desire in me any longer."
-
-"That is not what Thou wishest to say," interrupted the blushing Sarah.
-
-"I know not what I wish to say, since I have looked on thee, and since
-
-our lord, examining my activity on his estates, struck with a cane and
-
-took health from my scribe who was collecting dues there from tenants.
-
-And these dues were not for me. Sarah, but for our lord. It is not I
-
-who will eat the figs and wheaten bread from those lands, but Thou and
-
-our lord. I have given money to our lord and jewels to thee. Why then
-
-should the low Egyptian rabble impoverish our lord and thee, Sarah? To
-
-show how greatly Thou rousest my desire and that from these estates I
-
-wish nothing but reserve all for thee and our lord, I give this goblet
-
-of pure gold set with jewels and covered with carving at which the gods
-
-themselves would be astonished."
-
-Then Dagon drew forth from the cloth the goblet refused by Prince
-
-Ramses.
-
-"I do not even wish that Thou shouldst have the goblet in the house and
-
-give the prince to drink from it. Give this goblet of pure gold to
-
-Gideon, whom I love as my own brother. And thou, Sarah, tell thy father
-
-these words: 'Thy twin brother Dagon, the unfortunate tenant on the
-
-lands of Prince Ramses, is ruined. Drink then, my father, from this
-
-goblet, think of thy twin brother, and beg Jehovah that our lord,
-
-Prince Ramses, may not beat his scribes, and bring to revolt tenants
-
-who even now have no wish to pay tribute? And know this, Sarah, that if
-
-Thou wouldst admit me to confidence I would give thee two talents, and
-
-thy father one talent, and, besides, I should be ashamed of giving thee
-
-so little, for Thou deservest that the pharaoh himself should fondle
-
-thee, and the heir of the throne, and the worthy minister Herhor, and
-
-the most valiant Nitager, and the richest bankers of the Phoenicians.
-
-There is such a taste in thee that I grow faint when I gaze at thee,
-
-and when I see thee not, I close my eyes and lick my lips. Thou art
-
-sweeter than figs, more fragrant than roses. I would give thee five
-
-talents. Take this goblet, Sarah."
-
-Sarah drew back with drooping eyes.
-
-"I will not take the goblet," answered she; "my lord forbade me to take
-
-gifts from any one."
-
-Dagon was astonished, and looked with widely opened eyes at her.
-
-"Then it must be that Thou knowest not, Sarah, the value of this
-
-goblet. But I give it to thy father, who is my brother."
-
-"I cannot take it," whispered Sarah.
-
-"Oh!" cried Dagon. "Then thou, Sarah, wilt pay me for this goblet in
-
-another way, without speaking to thy lord. But a woman as beautiful as
-
-Thou must have gold and jewels, and should have her own banker to bring
-
-her money when she pleases, not alone when her lord likes."
-
-"I cannot!" whispered Sarah, without concealing her repulsion for the
-
-banker.
-
-The Phoenician changed his tone in the twinkle of an eye, and said
-
-laughing,
-
-"Very good, Sarah! I only wished to convince myself that Thou art
-
-faithful to our lord. I see that Thou art faithful, though foolish, as
-
-people say."
-
-"What?" burst out Sarah, rushing at Dagon with clinched fist.
-
-"Ha! ha!" laughed the Phoenician. "What a pity that our lord could not
-
-hear and see thee this moment! But I will tell him, when he is in good
-
-humor, that Thou art not only as faithful as a dog to him, but even
-
-that Thou wouldst not accept a gold goblet because he has not permitted
-
-thee to take presents. And this goblet, believe me, Sarah, has tempted
-
-more than one woman, and women who were not of small importance."
-
-Dagon sat awhile admiring the virtue and obedience of Sarah; at last he
-
-took farewell of her with much feeling, sat down in his tented boat,
-
-and sailed away toward Memphis. When the boat had pushed off from the
-
-country house, the smile vanished from the banker's face, and an
-
-expression of anger came out thereon. When Sarah's house was hidden
-
-behind the trees, Dagon stood up and raised his hands.
-
-"O Baal of Sidon, O Astoreth!" said he, "avenge my insult on this
-
-cursed daughter of a Jew. Let her treacherous beauty perish as a drop
-
-of rain in the desert! May disease devour her body, and madness bind
-
-her soul! May her lord hunt her out of his house like a mangy swine!
-
-And as today she pushed my goblet aside, may the hour come when people
-
-will push her withered hand aside, when in thirst she begs them for a
-
-cup of dirty water."
-
-Then he spat and muttered words with hidden and dreadful meaning; a
-
-black cloud covered the sun for a while, and the water near the side of
-
-the boat began to grow muddy and rise in a mighty wave. When he
-
-finished, the sun had grown bright again; but the river was disturbed,
-
-as if a new inundation were moving it.
-
-Dagon's rowers were frightened, and ceased their singing; but separated
-
-from their master by the side of the boat, they could not see his
-
-ceremonies.
-
-Thenceforth the Phoenician did not appear before Prince Ramses. But on
-
-a certain day when the prince came to his residence, he found in his
-
-bedchamber a beautiful Phoenician dancer, sixteen years of age, whose
-
-entire dress was a golden circlet on her head, and a shawl, as delicate
-
-as spider webs, thrown across her shoulders.
-
-"Who art thou?" asked the prince.
-
-"I am a priestess, and thy servant; the lord Dagon has sent me to
-
-frighten away thy auger against him."
-
-"How wilt Thou do that?"
-
-"Oh, in this way sit down there," said she, seating him in an armchair.
-
-"I will stand on tiptoe, so as to grow taller than thy anger, and with
-
-this shawl, which is sacred, I will drive evil spirits from thee. A
-
-kish! a kish!" whispered she, dancing in a circle. "Ramses, let my
-
-hands remove gloom from thy hair, let my kisses bring back to thy eyes
-
-their bright glances. Let the beating of my heart fill thy ears with
-
-music, lord of Egypt. A kish! a kish! he is not yours, but mine. Love
-
-demands such silence that in its presence even anger must grow still."
-
-While dancing, she played with the prince's hair, put her arms around
-
-his neck, kissed him on the eyes. At last she sat down wearied at his
-
-feet, and, resting her head on his knees, turned her face toward him
-
-quickly, panting with parted lips.
-
-"Thou art no longer angry with thy servant Dagon?" whispered she,
-
-stroking his face.
-
-Ramses wished to kiss her on the lips, but she sprang away from his
-
-knees, crying,
-
-"Oh, that is not possible!"
-
-"Why so?"
-
-"I am a virgin and priestess of the great goddess Astoreth. Thou
-
-wouldst have to love my guardian goddess greatly, and honor her before
-
-Thou couldst kiss me."
-
-"But is it permitted thee?"
-
-"All things are permitted me, for I am a priestess, and have sworn to
-
-preserve my virginity."
-
-"Why hast Thou come hither, then?"
-
-"To drive out thy anger. I have done so, I depart. Be well and kind
-
-always," added she, with a piercing glance.
-
-"Where dost Thou dwell? What is thy name?" asked Ramses.
-
-"My name is Fondling, and I dwell Ei, why should I tell? Thou wilt not
-
-come soon to me."
-
-She waved her hand and vanished. The prince, as if stunned, did not
-
-move from his chair. When after a while he looked through the window,
-
-he saw a rich litter which four Nubians bore toward the Nile swiftly.
-
-Ramses was not sorry for the departing woman; she astonished, but did
-
-not attract him.
-
-"Sarah is calmer," thought he, "and more beautiful. Moreover, it seems
-
-to me that that Phoenician must be cold, and her fondlings are
-
-studied."
-
-But from that time the prince ceased to be angry at Dagon, all the more
-
-since on a day when he was at Sarah's earth-tillers came to him, and
-
-thanking him for protection declared that the Phoenician forced them to
-
-pay new rents no longer.
-
-That was the case close to Memphis, but on other lands the prince's
-
-tenants made good Dagon's losses.
+Tak było pod Memfisem. Za to w dalszych folwarkach książęcy dzierżawca wetował sobie straty.

@@ -1,481 +1,200 @@
-# Kapitel 29: CHAPTER XXIX
+# Kapitel 029: Tom II - Rozdział IV
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part35.xhtml*
 
 <!-- status: pending -->
 
-THE prince journeyed on horseback in company with a number of officers
+Konno, w towarzystwie paru oficerów, jechał książę do Pi-Bast, sławnej stolicy nomesu Habu.
 
-to Pi-Bast, the famous capital of the province of Habu.
+Minął miesiąc Paoni, zaczynał się Epifi (kwiecień, maj). Słońce stało wysoko, zapowiadając najgorszą dla Egiptu porę upałów. Już w tym czasie kilka razy zrywał się straszny wiatr pustyni; ludzie i zwierzęta padali z gorąca, a na polach i drzewach zaczął osiadać szary pył, pod którym umierają rośliny.
 
-The month Paoni had passed, Epiphi was beginning (April and May). The
+Zebrano róże i przerabiano je na olejek; sprzątnięto zboża i drugi ukos koniczyny. Żurawie z kubłami pracowały ze zdwojoną gorliwością, rozlewając brudną wodę po ziemi, aby ją przygotować do nowego siewu. Zaczynano też zrywać figi i winogrona.
 
-sun stood high, heralding the most violent season of heat for Egypt. A
+Woda Nilu opadła, kanały były płytkie i cuchnące. Nad całym krajem unosił się delikatny pył, wśród potoków palącego słońca.
 
-mighty wind from the desert had blown in repeatedly; men and beasts
+Mimo to książę jechał zadowolony. Znudziło go pokutnicze życie w świątyni; zatęsknił do uczt, kobiet i zgiełku.
 
-fell because of heat, and on fields and trees a gray dust had begun to
+Przy tym okolica, choć płaska i jednostajnie poprzerzynana siecią kanałów, była interesująca. W nomesie Habu mieszkała inna ludność; nie rodowici Egipcjanie, ale potomkowie walecznych Hyksosów, którzy ongi zdobyli Egipt i rządzili nim przez kilka wieków.
 
-settle under which vegetation was dying.
+Prawowici Egipcjanie gardzili tą resztką wypędzonych zdobywców; ale Ramzes patrzył na nich z przyjemnością. Byli to ludzie rośli, silni, z dumną postawą i męską energią w fizjognomii. Wobec księcia i oficerów nie padali na twarz jak Egipcjanie; przypatrywali się dostojnikom bez niechęci, ale i bez trwogi. Nie mieli także pleców okrytych bliznami po kijach; pisarze bowiem szanowali ich, wiedząc, że bity Hyksos oddaje plagi, a niekiedy morduje swego ciemiężcę. Wreszcie posiadali Hyksosowie łaskę faraona, ich bowiem ludność dostarczała najlepszych żołnierzy.
 
-Roses had been harvested and turned into oil; wheat had been gathered
+Im bardziej orszak następcy zbliżał się do Pi-Bast, którego świątynie i pałace jak przez muślin widać było przez mgłę pyłu, tym okolica stawała się ruchliwszą. Szerokim gościńcem i pobliskimi kanałami transportowano: bydło, pszenicę, owoce, wino, kwiaty, chleby i mnóstwo innych przedmiotów codziennego użytku. Potok ludzi i towarów dążących w stronę miasta, hałaśliwy i gęsty jak pod Memfisem w dni świąteczne, w tym miejscu był zjawiskiem zwykłym. Dokoła Pi-Bastu przez cały rok panował zgiełk jarmarczny, który uspakajał się tylko w nocy.
 
-as well as the second crop of clover. The sweeps and buckets moved with
+Przyczyna tego była prosta: miasto cieszyło się posiadaniem starej i sławnej świątyni Astarty, czczonej przez całą Azję zachodnią i ściągającej tłumy pielgrzymów. Bez przesady można powiedzieć, że pod Pi-Bast codziennie obozowało ze trzydzieści tysięcy cudzoziemców: Saschu
 
-double energy, irrigating the earth with dirty water to fit it for new
+Już na godzinę drogi przed miastem widać było lepianki i namioty przybyszów rozbite na nagiej ziemi. W miarę zbliżania się do Pi-Bast liczba ich wzrastała i coraz gęściej roili się ich czasowi mieszkańcy. Jedni pod otwartym niebem przygotowywali pokarm, inni kupowali wciąż napływające towary, inni szli procesją do świątyni. Tu i ówdzie skupiały się wielkie gromady przed miejscami zabaw, gdzie popisywali się pogromcy zwierząt, zaklinacze wężów, atleci, tancerki i kuglarze.
 
-seed. Men had begun to gather grapes and figs. The Nile had fallen,
+Ponad tym zgromadzeniem ludzi unosił się upał i wrzawa.
 
-water in canals was low and of evil odor. Above the whole country a
+Przy miejskiej bramie powitali Ramzesa jego dworzanie tudzież nomarcha Habu z urzędnikami. Powitanie jednak było, mimo życzliwości, tak chłodne, że zdziwiony namiestnik szepnął do Tutmozisa:
 
-fine dust was borne along in a deluge of burning sun-rays.
+— Cóż to znaczy, że patrzycie na mnie, jakbym przyjechał kary wymierzać?
 
-In spite of this Prince Ramses rode on and felt gladsome. The life of a
+— Bo wasza dostojność — odparł faworyt — masz oblicze człowieka, który przestawał z bogami.
 
-penitent in the temple had grown irksome; he yearned for feasts,
+Mówił prawdę. Czy to skutkiem ascetycznego życia, czy towarzystwa uczonych kapłanów, czy może długich rozmyślań, książę zmienił się. Wychudł, cera mu pociemniała, a z postawy i fizjognomii biła wielka powaga. W ciągu kilku tygodni postarzał się o kilka lat.
 
-uproar, and women.
+Na jednej z głównych ulic miasta tłoczyła się tak gęsta ciżba ludu, że policjanci musieli utorować drogę następcy i jego świcie. Ale ten lud nie witał księcia, tylko skupiał się dokoła niewielkiego pałacyku, jakby oczekując na kogoś.
 
-Meanwhile the country, intersected with a net of canals, though flat
+— Co to jest? — spytał Ramzes nomarchy. Niemile bowiem dotknęła go obojętność tłumu.
 
-and monotonous, was pleasing. In the province of Habu lived people of
+— Tu mieszka Hiram — odparł nomarcha — książę tyryjski, człek wielkiego miłosierdzia. Co dzień rozdaje hojną jałmużnę, więc zbiega się ubóstwo.
 
-another origin: not the old Egyptians, but descendants of the valiant
+Książę odwrócił się na koniu, popatrzył i rzekł:
 
-Hyksos, who on a time had conquered Egypt and governed that laud for a
+— Widzę tu robotników królewskich. Więc i oni przychodzą po jałmużnę do fenickiego bogacza?
 
-number of generations.
+Nomarcha milczał. Na szczęście zbliżali się do pałacu rządowego i Ramzes zapomniał o Hiramie.
 
-The old Egyptians despised this remnant of a conquering race expelled
+Przez kilka dni ciągnęły się uczty na cześć namiestnika; ale książę nie był nimi zachwycony. Brakło na nich wesołości i zdarzały się nieprzyjemne zajścia.
 
-from power afterward, but Ramses looked on them with satisfaction. They
+Raz jedna z książęcych kochanek, tańcząc przed nim, rozpłakała się. Ramzes pochwycił ją w objęcia i zapytał: co jej jest?
 
-were large and strong, their bearing was proud, and there was manly
+Z początku wzdragała się z odpowiedzią, lecz ośmielona łaskawością pana odparła, zalewając się jeszcze obficiej łzami:
 
-energy in their faces. They did not fall prostrate before the prince
+— Jesteśmy, władco, twoje kobiety, pochodzimy z wielkich rodów i należy nam się uszanowanie...
 
-and his officers, like Egyptians, but looked at him without dislike,
+— Prawdę mówisz — wtrącił książę.
 
-but also without timidity. Neither were their shoulders covered with
+— Ale tymczasem twój skarbnik ogranicza nasze wydatki. Owszem, chciałby nawet pozbawić nas dziewcząt służebnych, bez których przecie nie możemy umyć się ani uczesać.
 
-scars from beating; the scribes respected them because they knew that
+Ramzes wezwał skarbnika i surowo zapowiedział mu, ażeby jego kobiety miały wszystko, co należy się ich urodzeniu i wielkim stanowiskom.
 
-if a Hyksos were beaten he would return the blows, and might kill the
+Skarbnik upadł na twarz przed księciem i obiecał spełniać rozkazy kobiet. Zaś w parę dni później wybuchnął bunt między dworskimi niewolnikami, którzy skarżyli się, że ich pozbawiają wina.
 
-man who gave them. Moreover the Hyksos enjoyed the pharaoh's favor, for
+Następca kazał im wydawać wino. Lecz nazajutrz, w czasie przeglądu wojsk, przyszły do niego deputacje pułków z najpokorniejszą skargą, że zmniejszono im porcje mięsa i chleba.
 
-their people furnished the choicest warriors.
+Książę i tym razem polecił spełnić żądania proszących.
 
-As the retinue of the heir approached Pi-Bast, whose temples and
+W parę dni później obudził go z rana wielki hałas pod pałacem. Ramzes spytał o przyczynę, a oficer dyżurny, objaśnił, że zebrali się robotnicy królewscy i wołają o zaległy żołd.
 
-palaces were visible through the haze of dust, as through a veil of
+Wezwano skarbnika, na którego książę wpadł z wielkim gniewem.
 
-muslin, the neighborhood grew more active. Along the broad highway and
+— Co się tu dzieje?... — wołał. — Od chwili mego przyjazdu nie ma dnia, aby nie skarżono się na krzywdy. Jeżeli jeszcze raz powtórzy się coś podobnego, ustanowię śledztwo i położę kres waszym złodziejstwom!...
 
-the canals men were taking to market cattle, wheat, fruit, wine,
+Drżący skarbnik znowu upadł na twarz i jęknął:
 
-flowers, bread, and a multitude of other articles of daily consumption.
+— Zabij mnie, panie!... Ale cóż poradzę, gdy twój skarbiec, stodoły i spiżarnie są puste...
 
-The torrent of people and goods moving toward the city was as noisy and
+Pomimo gniewu książę zmiarkował, że skarbnik może być niewinnym. Kazał mu więc odejść, a wezwał Tutmozisa.
 
-dense as that outside Memphis in the holiday season. Around Pi-Bast
+— Słuchaj no — rzekł Ramzes do ulubieńca — dzieją się tu rzeczy, których nie rozumiem i do których nie przywykłem. Moje kobiety, niewolnicy, wojsko i robotnicy królewscy nie otrzymują należności lub są ograniczani w wydatkach. Gdym zaś spytał skarbnika: co to znaczy? — odpowiedział, że nic już nie mamy w skarbcu ani stodołach.
 
-reigned throughout the whole year the uproar of a market-day, which
+— Powiedział prawdę.
 
-ceased only in the night time.
+— Jak to?... — wybuchnął książę. — Na moją podróż jego świątobliwość przeznaczył dwieście talentów w towarach i złocie. Miałożby to być zmarnowane?...
 
-The cause of this was simple. In that city stood the renowned and
+— Tak jest — odparł Tutmozis.
 
-ancient temple of Astarte. This temple was revered throughout Western
+— Jakim sposobem?... na co?... — wołał namiestnik. — Przecież na całej drodze podejmowali nas nomarchowie?...
 
-Asia and attracted throngs of pilgrims. It could be said without
+— Ale myśmy im za to płacili.
 
-exaggeration that outside Pi-Bast thirty thousand strangers camped
+— Więc to są filuci i złodzieje, jeżeli niby przyjmują nas jak gości, a potem obdzierają!...
 
-daily, Arabs, Phoenicians, Jews, Philistines, Hittites, Assyrians, and
+— Nie gniewaj się — rzekł Tutmozis — a wszystko ci wytłumaczę.
 
-others. The Egyptian government bore itself kindly toward these
+— Siadaj.
 
-pilgrims, who brought it a considerable income; the priests endured
+Tutmozis usiadł i mówił:
 
-them, and the people of neighboring provinces carried on an active
+— Czy wiesz, że od miesiąca jadam z twej kuchni, pijam wino z twoich dzbanów i ubieram się z twojej szatni...
 
-trade with them.
+— Masz prawo czynić tak.
 
-For the space of an hour's journey from Pi-Bast the mud huts and tents
+— Alem nigdy tego nie robił: żyłem, ubierałem się i bawiłem na własny koszt, aby nie obciążać twego skarbu. Prawda, że nieraz płaciłeś moje długi. Była to jednak tylko część moich wydatków.
 
-of strangers covered the open country. As one neared the city, those
+— Mniejsza o długi.
 
-huts increased in number and transient inhabitants swarmed more and
+— W podobnym położeniu — ciągnął Tutmozis — znajduje się kilkunastu szlachetnej młodzieży twego dworu. Utrzymywali się sami, aby podtrzymać blask władcy; lecz dziś, podobnie jak ja, żyją na twój koszt, bo już nie mają czego wydawać.
 
-more densely around them. Some were preparing food under the open sky,
+— Kiedyś wynagrodzę ich.
 
-others were purchasing provisions which came in continually, still
+— Otóż — mówił Tutmozis — bierzemy z twego skarbu, bo nas gniecie niedostatek, i — to samo robią nomarchowie. Gdyby mieli, wyprawialiby dla ciebie uczty i przyjęcia na swój koszt; ale że nie mają, więc przyjmują wynagrodzenie. Czy i teraz nazwiesz ich filutami?...
 
-others were going in procession to the temple. Here and there were
+Książę chodził zamyślony.
 
-large crowds before places of amusement, where beast-tamers, serpent-
+— Za prędko potępiłem ich — odparł. — Gniew jak dym zasłonił mi oczy. Wstydzę się tego, com powiedział, niemniej jednak chcę, ażeby ani ludzie dworscy, ani żołnierze i robotnicy nie doznawali krzywdy...
 
-charmers, athletes, female dancers, and jugglers exhibited their
+A ponieważ moje zasoby są wyczerpane, trzeba więc pożyczyć... Chyba sto talentów wystarczy, jak myślisz?
 
-adroitness.
+— Ja myślę, że nam nikt nie pożyczy stu talentów — szepnął Tutmozis.
 
-Above all this multitude of people were heat and uproar.
+Namiestnik wyniośle spojrzał na niego.
 
-Before the gate of the city Ramses was greeted by his court and by the
+— Także się to odpowiada synowi faraona? — spytał.
 
-nomarch of Habu surrounded by his officials. But the greeting, despite
+— Wypędź mnie od siebie — rzekł smutnym głosem Tutmozis — ale mówiłem prawdę. Dziś nikt nam nie pożyczy, bo i już nie ma kto...
 
-cordiality, was so cold that the astonished viceroy, whispered to
+— Od czegóż jest Dagon?... — zdziwił się książę. — Nie ma go przy moim dworze, czy umarł?
 
-Tutmosis,
+— Dagon mieszka w Pi-Bast, ale całe dnie wraz z innymi kupcami fenickimi przepędza w świątyni Astarty na pokucie i modłach...
 
-"What does this mean, that he looks on me as if I had come to measure
+— Skądże taka pobożność? Czy dlatego, że ja byłem w świątyni, to i mój bankier uważa za potrzebne naradzać się z bogami?
 
-out punishment?"
+Tutmozis kręcił się na taburecie.
 
-"Because Thou hast the face of a man who has been associating with
+— Fenicjanie — rzekł — są zatrwożeni, nawet zgnębieni wieściami...
 
-divinity."
+— O czym?
 
-He spoke truth. Whether because of ascetic life, or the society of
+— Ktoś rozpuścił plotkę, że gdy wasza dostojność wstąpisz na tron, Fenicjanie zostaną wygnani, a ich majątki zabrane na rzecz skarbu...
 
-priests, or of long meditation, the prince had changed greatly. He had
+— No, to mają jeszcze dosyć czasu — uśmiechnął się książę.
 
-grown thin, his complexion had darkened, and in his face and bearing
+Tutmozis wciąż wahał się.
 
-much dignity was evident. In the course of weeks he had grown some
+— Słychać — mówił zniżonym głosem — że zdrowie jego świątobliwości (oby żył wiecznie!...) mocno zachwiało się w tych czasach...
 
-years older.
+— To fałsz! — przerwał zaniepokojony książę. — Przecież wiedziałbym o tym...
 
-On one of the main streets of the city there was such a dense throng of
+— A jednak kapłani odprawiają w tajemnicy nabożeństwa za powrócenie zdrowia faraonowi — szeptał Tutmozis. — Wiem o tym z pewnością...
 
-people that the police had to open a way for the heir and his retinue.
+Książę stanął zdumiony.
 
-But these people did not greet the prince; they had merely gathered
+— Jak to — rzekł — więc ojciec mój jest ciężko chory, kapłani modlą się za niego, a mnie nic o tym nie mówią?...
 
-around a small palace as if waiting for some person.
+— Słychać, że choroba jego świątobliwości może przeciągnąć się z rok...
 
-"What is this?" asked Ramses of the nomarch, for this indifference of
+Ramzes machnął ręką.
 
-the throng touched the prince disagreeably.
+— Ech!... słuchasz bajek i mnie niepokoisz. Powiedz mi lepiej o Fenicjanach, bo to ciekawsze.
 
-"Here dwells Hiram," answered the nomarch, "a prince of Tyre, a man of
+— Słyszałem — ciągnął Tutmozis — tylko to, co i wszyscy, że wasza dostojność, przekonawszy się w świątyni o szkodliwości Fenicjan, zobowiązałeś się wypędzić ich.
 
-great charity. Every day he distributes bountiful alms, therefore poor
+— W świątyni?... — powtórzył następca. — A któż może wiedzieć, o czym ja przekonałem się i co postanowiłem w świątyni?...
 
-people rush to him."
+Tutmozis wzruszył ramionami i milczał.
 
-Ramses turned on his horse, looked, and said,
+— Czyliżby zdrada i tam?... — szepnął książę. — W każdym razie zawołasz do mnie Dagona — rzekł głośno. — Muszę poznać źródło tych kłamstw i, przez bogi, położyć im koniec!...
 
-"I see there laborers of the pharaoh. So they too go for alms to the
+— Dobrze uczynisz, panie — odparł Tutmozis — gdyż cały Egipt jest zaniepokojony. Już dziś nie ma u kogo pożyczać pieniędzy, a gdyby te pogłoski trwały dłużej, ustałby handel. Dziś już nasza arystokracja wpadła w biedę, z której nie widać wyjścia, a i twój dwór, panie, odczuwa niedostatek. Za miesiąc może to samo zdarzyć się w pałacu jego świątobliwości...
 
-rich Phoenician?"
+— Milcz — przerwał książę — i natychmiast zawołaj mi Dagona.
 
-The nomarch was silent. Happily they approached the official palace,
+Tutmozis wybiegł, ale bankier zjawił się u namiestnika dopiero wieczorem. Miał na sobie białą płachtę w czarne pasy.
 
-and the prince forgot Hiram.
+— Poszaleliście?... — zawołał następca na ten widok. — Zaraz ja cię tu rozchmurzę... Potrzebuję natychmiast stu talentów. Idź i nie pokazuj mi się, dopóki tego nie załatwisz.
 
-Feasts in honor of the viceroy continued a number of days in
+Ale bankier zasłonił swoje oblicze i zapłakał.
 
-succession, but they did not please him. Gladness was lacking and
+— Co to znaczy? — spytał niecierpliwie książę.
 
-disagreeable incidents happened.
+— Panie — odparł Dagon klękając — weź mój majątek, sprzedaj mnie i moją rodzinę... Wszystko weź, nawet życie nasze... Ale sto talentów... skąd bym ja dostał dziś taki majątek?... Już ani z Egiptu, ani z Fenicji... — mówił wśród łkań.
 
-One day a favorite of the prince was dancing before him; she burst into
+— Set opętał cię, Dagonie! — roześmiał się następca. — Czyliż i ty uwierzyłbyś, że ja myślę o wygnaniu was?...
 
-tears. Ramses seized her in his arms, and asked what her trouble was.
+Bankier po raz drugi upadł mu do nóg.
 
-At first she hesitated, but emboldened by the kindness of her lord, she
+— Ja nic nie wiem... ja jestem zwyczajny kupiec i twój niewolnik... Tyle dni, ile jest między nowiem i pełnią, wystarczyło, ażeby zrobić ze mnie proch i z mego majątku ślinę...
 
-answered, shedding tears in still greater abundance,
+— Ależ wytłumacz mi, co to znaczy? — pytał niecierpliwie następca.
 
-"We are thy women, O ruler, we come from great families, and respect is
+— Ja nie potrafię nic powiedzieć, a choćbym nawet umiał, mam wielką pieczęć na ustach... Dziś modlę się tylko i płaczę...
 
-due to us."
+„Czy i Fenicjanie modlą się?” — pomyślał książę.
 
-"Thou speakest truth," said Ramses.
+— Nie mogąc oddać ci żadnej usługi, panie mój — ciągnął Dagon — dam ci przynajmniej dobrą radę... Jest tu w Pi-Bast sławny książę tyryjski, Hiram. Człowiek stary, mądry i strasznie bogaty... Wezwij go, erpatre, i zażądaj sto talentów, a może on potrafi dogodzić waszej dostojności...
 
-"Meanwhile thy treasurer stints us in allowance, and would deprive us
-
-of serving-maids, without whom we cannot bathe or dress our hair."
-
-Ramses summoned his treasurer, and commanded sternly that his women
-
-should have all that belonged to their birth and position. The
-
-treasurer fell on his face before the prince, and promised to carry out
-
-all commands of the women. A couple of days later, a rebellion broke
-
-out among the court slaves, who complained that their wine had been
-
-taken. The heir ordered to give them wine. But during a review two days
-
-later a deputation from the regiments came to the viceroy with a most
-
-humble complaint, that their rations of meat and bread were diminished.
-
-The prince commanded that those petitioners be satisfied.
-
-Still, two days later a great uproar at the palace roused him in the
-
-morning. Ramses inquired what the cause was; the officer on duty
-
-explained that the pharaoh's laborers had assembled and asked for
-
-arrears due them.
-
-They summoned the treasurer, whom the prince attacked in great anger.
-
-"What is going on here?" cried he. "Since my return there is no day
-
-without complaints of injustice. If anything like this is repeated, I
-
-shall order an inquiry and put an end to thy management."
-
-The trembling treasurer fell on his face again, and groaned,
-
-"Slay me, lord! But what am I to do when thy treasury, thy granaries,
-
-and thy storehouses are empty?"
-
-In spite of his anger the prince thought that the treasurer might be
-
-innocent. He commanded him to withdraw, and then summoned Tutmosis.
-
-"Listen to me," said Ramses to the favorite, "things are done here
-
-which I do not understand, and to which I am not accustomed. My women,
-
-the slaves, the army, the pharaoh's workmen do not receive what is due
-
-them, or their supplies are curtailed. When I asked the treasurer what
-
-this means, he answered that the treasury and the storehouses are
-
-empty."
-
-"He told truth."
-
-"How is that?" burst out the prince. "For my journey his holiness
-
-assigned two hundred talents in gold and goods. Can it be that all this
-
-is expended?"
-
-"Yes," answered Tutmosis.
-
-"How is that?" cried the viceroy. "Did not the nomarchs entertain us
-
-all the way?"
-
-"Yes, but we paid them for doing so."
-
-"Then they are rogues and robbers if they receive us as guests and then
-
-plunder us."
-
-"Be not angry, and I will explain."
-
-"Sit down."
-
-Tutmosis took a seat.
-
-"Dost Thou know," asked he, "that for a month past I have eaten food
-
-from thy kitchen, drunk wine from thy pitchers, and dressed from thy
-
-wardrobe?"
-
-"Thou hast a right to that privilege."
-
-"But I have never acted thus hitherto. I have lived, dressed, and
-
-amused myself at my own expense, so as not to burden thy treasury. It
-
-is true that Thou hast paid my debts more than once, but that was only
-
-a part of my outlay."
-
-"Never mind the debts!"
-
-"In a similar condition," continued Tutmosis, "are some tens of noble
-
-youths of thy court. They maintained themselves so as to uphold the
-
-splendor of the government; but now, like myself, they live at thy
-
-expense, for they have nothing to pay with."
-
-"Sometime I will reward them."
-
-"Now," continued Tutmosis, "we take from thy treasury, for want is
-
-oppressing us; the nomarchs do the same. If they had means they would
-
-give feasts and receptions at their own cost; but as they have not the
-
-means they receive recompense. Wilt Thou call them rogues now?"
-
-"I condemned them too harshly. Anger, like smoke, covered my eyes,"
-
-said Ramses. "I am ashamed of my words; none the less I wish that
-
-neither courtiers, soldiers, nor working men should suffer injustice.
-
-But since my means are exhausted it will be necessary to borrow. Would
-
-a hundred talents suffice? What thinkest thou?"
-
-"I think that no one would lend us a hundred talents," whispered
-
-Tutmosis.
-
-The viceroy looked at him haughtily.
-
-"Is that a fit answer to the son of a pharaoh?" asked he.
-
-"Dismiss me from thy presence," said Tutmosis, sadly, "but I have told
-
-the truth. At present no one will make us a loan, for there is no one
-
-to do so."
-
-"What is Dagon for?" wondered the prince. "He is not near my court; is
-
-he dead?"
-
-"Dagon is in Pi-Bast, but he spends whole days with other Phoenician
-
-merchants in the temple of Astarte in prayer and penance."
-
-"Why such devotion? Is it because that I was in a temple that my banker
-
-thinks he too should take counsel of the gods?"
-
-Tutmosis turned on the stool.
-
-"The Phoenicians," said he, "are alarmed; they are even crushed by the
-
-news."
-
-"About what?"
-
-"Some one has spread the report, worthiness, that when Thou shalt mount
-
-the throne all Phoenicians will be expelled and their property
-
-confiscated."
-
-"Well, they have time enough before that," laughed Ramses.
-
-Tutmosis hesitated further. "They say," continued he, in a lowered
-
-voice, "that in recent days the health of his holiness may he live
-
-through eternity! has failed notably."
-
-"That is untrue!" interrupted the prince, in alarm. "I should know of
-
-it."
-
-"But the priests are performing religious services in secret for the
-
-return of health to the pharaoh. I know this to a certainty.'"'
-
-The prince was astonished.
-
-"How! my father seriously ill, the priests are praying for him, but
-
-tell me nothing?"
-
-"They say that the illness of his holiness may last a year."
-
-"Oh, Thou hearest fables and art disturbing me. Better tell me about
-
-the Phoenicians."
-
-"I have heard," said Tutmosis, "only what every one has heard, that
-
-while in the temple Thou wert convinced of the harm done by
-
-Phoenicians, and didst bind thyself to expel them."
-
-"In the temple?" repeated the heir. "But who knows what that is of
-
-which I convinced myself in the temple, and what I decided to do?"
-
-Tutmosis shrugged his shoulders, and was silent.
-
-"Was there treason, too, in the temple?" thought the prince. "Summon
-
-Dagon in every case," said he, aloud. "I must know the source of these
-
-lies, and by the gods, I will end them."
-
-"Thou wilt do well, for all Egypt is frightened. Even today there is no
-
-one to lend money, and if those reports continue all commerce will
-
-cease. Our aristocracy have fallen into trouble from which none see the
-
-issue, and even thy court is in want. A month hence the same thing may
-
-happen in the palace of his holiness."
-
-"Silence!" interrupted the prince, "and call Dagon this moment."
-
-Tutmosis ran out, but the banker appeared no earlier than evening.
-
-Around a white mantle he wore a black belt.
-
-"Hast Thou gone mad?" cried the heir, at sight of this. "I will drive
-
-off thy sadness immediately. I need a hundred talents at once. Go, and
-
-show thyself not till Thou bring them."
-
-The banker covered his face and wept.
-
-"What does this mean?" asked the prince, quickly.
-
-"Lord," exclaimed Dagon, as he fell on his knees, "seize all my
-
-property, sell me and my family. Take everything, even our lives but a
-
-hundred talents where could I find wealth like that? Neither in Egypt
-
-nor Phoenicia," continued he, sobbing.
-
-"Set has seized thee, O Dagon," laughed the heir. "Couldst Thou believe
-
-that I thought of expelling thy Phoenicians?"
-
-The banker fell at the prince's feet a second time.
-
-"I know nothing I am a common merchant, and thy slave as many days as
-
-there are between the new and the full moon would suffice to make dust
-
-of me and spittle of my property."
-
-"But explain what this means," said the prince, again impatient.
-
-"I cannot explain anything, and even were I able I have a great seal on
-
-my lips.  I do nothing now but pray and lament."
-
-"Do the Phoenicians pray also?" thought the prince.
-
-"Unable to render any service," continued Dagon, "I will give good
-
-counsel at least. There is here in Pi-Bast a renowned Syrian, Prince
-
-Hiram, an old man, wise and tremendously wealthy. Summon him, Erpatr,
-
-ask of him a hundred talents; perhaps he will be able to gratify thee."
-
-Since Ramses could get no explanations from the banker, he dismissed
-
-him, and promised to send an embassy to Hiram.
+Ponieważ Ramzes żadnych objaśnień nie mógł wydobyć z bankiera, uwolnił go więc i obiecał, że wyśle poselstwo do Hirama.

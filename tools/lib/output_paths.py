@@ -24,8 +24,24 @@ def source_chapter_path(output_root: Path, chapter_id: str) -> Path:
     return chapters_dir(output_root) / f"{chapter_id}-source.md"
 
 
+def source_scene_lang(book_cfg: dict | None = None, source_lang: str | None = None) -> str:
+    lang = source_lang
+    if not lang and book_cfg:
+        lang = str(book_cfg.get("source_lang") or "")
+    lang = (lang or "ru").strip().lower()
+    return lang or "ru"
+
+
+def source_scene_dir(
+    output_root: Path,
+    chapter_id: str,
+    source_lang: str = "ru",
+) -> Path:
+    return output_root / "scenes" / source_scene_lang(source_lang=source_lang) / chapter_id
+
+
 def ru_scene_dir(output_root: Path, chapter_id: str) -> Path:
-    return output_root / "scenes" / "ru" / chapter_id
+    return source_scene_dir(output_root, chapter_id, "ru")
 
 
 def de_scene_dir(output_root: Path, style: str, chapter_id: str) -> Path:
@@ -40,8 +56,17 @@ def prompts_dir(output_root: Path) -> Path:
     return output_root / "prompts"
 
 
+def source_scene_path(
+    output_root: Path,
+    chapter_id: str,
+    scene_number: int,
+    source_lang: str = "ru",
+) -> Path:
+    return source_scene_dir(output_root, chapter_id, source_lang) / f"scene-{scene_number:02d}.md"
+
+
 def ru_scene_path(output_root: Path, chapter_id: str, scene_number: int) -> Path:
-    return ru_scene_dir(output_root, chapter_id) / f"scene-{scene_number:02d}.md"
+    return source_scene_path(output_root, chapter_id, scene_number, "ru")
 
 
 def de_scene_path(
@@ -98,11 +123,19 @@ def parse_scene_number(path: Path, chapter_id: str | None = None) -> int | None:
     return None
 
 
-def list_ru_scene_paths(output_root: Path, chapter_id: str) -> list[Path]:
-    new_paths = sorted(ru_scene_dir(output_root, chapter_id).glob("scene-*.md"))
+def list_source_scene_paths(
+    output_root: Path,
+    chapter_id: str,
+    source_lang: str = "ru",
+) -> list[Path]:
+    new_paths = sorted(source_scene_dir(output_root, chapter_id, source_lang).glob("scene-*.md"))
     if new_paths:
         return new_paths
     return sorted(chapters_dir(output_root).glob(f"{chapter_id}-scene-*-ru.md"))
+
+
+def list_ru_scene_paths(output_root: Path, chapter_id: str) -> list[Path]:
+    return list_source_scene_paths(output_root, chapter_id, "ru")
 
 
 def version_from_translation_name(name: str) -> int:
@@ -195,11 +228,14 @@ def find_scene_translations(
     return result
 
 
-def list_chapter_ids_with_ru_scenes(output_root: Path) -> list[str]:
+def list_chapter_ids_with_source_scenes(
+    output_root: Path,
+    source_lang: str = "ru",
+) -> list[str]:
     ids = set()
-    ru_root = output_root / "scenes" / "ru"
-    if ru_root.exists():
-        ids.update(p.name for p in ru_root.iterdir() if p.is_dir())
+    source_root = output_root / "scenes" / source_scene_lang(source_lang=source_lang)
+    if source_root.exists():
+        ids.update(p.name for p in source_root.iterdir() if p.is_dir())
     old_dir = chapters_dir(output_root)
     if old_dir.exists():
         for p in old_dir.glob("*-scene-*-ru.md"):
@@ -207,3 +243,7 @@ def list_chapter_ids_with_ru_scenes(output_root: Path) -> list[str]:
             if m:
                 ids.add(m.group(1))
     return sorted(ids)
+
+
+def list_chapter_ids_with_ru_scenes(output_root: Path) -> list[str]:
+    return list_chapter_ids_with_source_scenes(output_root, "ru")

@@ -1,1009 +1,338 @@
-# Kapitel 43: CHAPTER XLIII
+# Kapitel 043: Tom II - Rozdział XVIII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part49.xhtml*
 
 <!-- status: pending -->
 
-FROM the moment when the troops of Lower Egypt marched out of Pi-Bast,
+Od chwili kiedy wojska Dolnego Egiptu wyszły z Pi-Bast, towarzyszący księciu prorok Mentezufis odbierał i wysyłał po kilka depesz dziennie.
 
-the prophet, Mentezufis, who accompanied the prince, received and sent
+Jedną korespondencję prowadził z ministrem Herhorem. Mentezufis posyłał raporta do Memfisu o posuwaniu się wojsk i o działalności następcy, dla której nie ukrywał podziwu; zaś dostojny Herhor robił uwagi w tym sensie, ażeby następcy tronu zostawiono wszelką swobodę i — że gdyby Ramzes przegrał pierwszą potyczkę, rada najwyższa nie byłaby tym zmartwiona.
 
-away dispatches daily.
+„Niewielka przegrana — pisał Herhor — byłaby nauką ostrożności i pokory dla księcia Ramzesa, który już dziś, choć jeszcze nic nie zrobił, uważa się za równego najdoświadczeńszym wojownikom.”
 
-One correspondence he conducted with the minister Herhor; Mentezufis
+Gdy zaś Mentezufis odpowiedział, że trudno przypuścić, aby następca doznał porażki, Herhor dał mu do zrozumienia, że w takim razie triumf nie powinien być zanadto wielki.
 
-sent reports to Memphis touching the advance of the troops, and the
+„Państwo — mówił — nic na tym nie straci, jeżeli wojowniczy i popędliwy następca tronu będzie miał przez kilka lat zabawkę na zachodniej granicy. On sam nabierze biegłości w sztuce wojennej, a rozpróżniaczeni i zuchwali nasi żołnierze znajdą właściwe dla siebie zajęcie.”
 
-activity of the viceroy; of this activity he did not conceal his
+Drugą korespondencję prowadził Mentezufis ze świętym ojcem Mefresem, i ta wydawała mu się ważniejszą. Mefres, obrażony kiedyś przez księcia, dziś z okazji sprawy o zabicie dziecka Sary bez ogródek oskarżał następcę o dzieciobójstwo dokonane pod wpływem Kamy. A gdy w ciągu tygodnia wyszła na jaw niewinność Ramzesa, arcykapłan, jeszcze bardziej rozdrażniony, nie przestawał twierdzić, że książę jest zdolny do wszystkiego, jako nieprzyjaciel ojczystych bogów i sprzymierzeniec nędznych Fenicjan.
 
-admiration. On his part, the worthy Herhor stated that every freedom
+Sprawa zabójstwa dziecka Sary tak podejrzanie wyglądała w pierwszych dniach, że nawet rada najwyższa z Memfisu zapytała Mentezufisa: co o tym sądzi? Mentezufis jednak odpowiedział, że całymi dniami przypatruje się księciu, lecz ani na chwilę nie przypuszcza, ażeby on był mordercą.
 
-was to be left to the heir, and that if Ramses lost his first battle,
+Takie to korespondencje, niby stado drapieżnych ptaków, krążyły dokoła Ramzesa, podczas gdy on rozsyłał zwiady w kierunku nieprzyjaciela, naradzał się z wodzami lub zachęcał wojska do szybkiego pochodu.
 
-the supreme council would not feel angry.
+Dnia czternastego cała armia następcy tronu skoncentrowała się na południe od miasta Terenuthis. Ku wielkiej radości księcia przyszedł Patrokles z greckimi pułkami, a wraz z nim kapłan Pentuer, wysłany przez Herhora na drugiego dozorcę przy wodzu naczelnym.
 
-"A slight defeat," said Herhor, "would be a lesson in humility and
+Obfitość kapłanów w obozie (byli bowiem jeszcze i inni) wcale nie zachwycała Ramzesa. Postanowił jednak nie zwracać na nich uwagi, a podczas narad wojennych wcale nie pytał ich o opinię.
 
-caution to the viceroy, who even now, though as yet he has done
+I jakoś ułagodziły się stosunki; Mentezufis bowiem, stosownie do rozkazu Herhora, nie narzucał się księciu. Pentuer zaś zajął się organizowaniem pomocy lekarskiej dla rannych.
 
-nothing, considers himself as equal to the most experienced warriors."
+Gra wojenna zaczęła się.
 
-When Mentezufis answered that one could not easily suppose that the
+Przede wszystkim Ramzes, za pośrednictwem swoich agentów, w wielu wsiach pogranicznych rozpuścił pogłoskę, że Libijczycy posuwają się w ogromnych masach, że będą niszczyć i mordować. Skutkiem tego przestraszona ludność zaczęła uciekać na wschód i — wpadła na egipskie pułki. Wówczas książę zabrał mężczyzn do dźwigania ciężarów za wojskiem, a kobiety i dzieci posłał w głąb kraju.
 
-heir would meet defeat, Herhor let him understand that in that case the
+Następnie naczelny wódz wyprawił szpiegów naprzeciw zbliżającym się Libijczykom, aby zbadać ich liczbę i porządek. Szpiegowie niebawem wrócili, przynosząc dokładne wskazówki co do miejsca pobytu, a bardzo przesadzone co do liczby nieprzyjaciół. Mylnie też twierdzili, choć z wielką pewnością siebie, że na czele band libijskich idzie sam Musawasa w towarzystwie swego syna Tehenny.
 
-triumph should not be over brilliant.
+Książę-wódz aż zarumienił się z radości na myśl, że w pierwszej wojnie będzie miał tak doświadczonego przeciwnika jak Musawasa.
 
-"The state," continued he, "will not lose in any way if the warriors
+Przeceniał więc niebezpieczeństwo starcia i podwajał ostrożność. Aby zaś mieć wszelkie szanse za sobą, uciekł się jeszcze do podstępu. Posłał naprzeciw Libijczykom ludzi zaufanych, kazał im udawać zbiegów, wejść do nieprzyjacielskiego obozu i — odciągnąć od Musawasy jego największą siłę: wypędzonych żołnierzy libijskich.
 
-and the impulsive heir find amusement for some years along the western
+— Powiedzcie im — mówił Ramzes do swych agentów — powiedzcie im, że mam topory dla zuchwałych, a miłosierdzie dla pokornych. Jeżeli w nadchodzącej bitwie rzucą broń i opuszczą Musawasę, przyjmę ich na powrót do wojsk jego świątobliwości i każę wypłacić żołd zaległy, jak gdyby nigdy nie wychodzili ze służby.
 
-border. He will gain skill himself in warfare, while the idle warriors
+Patrokles i inni jenerałowie uznali środek ten za bardzo roztropny; kapłani milczeli, a Mentezufis wysłał depeszę do Herhora i w ciągu doby otrzymał odpowiedź.
 
-will find their own proper work to do."
+Okolica Sodowych Jezior była to dolina mająca kilkadziesiąt kilometrów długości, zamknięta między dwoma pasmami wzgórz biegnących od południowego wschodu ku północnemu zachodowi. Największa jej szerokość nie przechodziła dziesięciu kilometrów; były zaś miejsca znakomicie węższe, prawie wąwozy.
 
-The other correspondence Mentezufis carried on with the holy father
+Na całej długości doliny ciągnęły się, jedno za drugim, z dziesięć jezior bagnistych napełnionych wodą gorzkosłoną. Rosły tu nędzne krzaki i zioła, ciągle zasypywane piaskiem, ciągle więdnące, których żadne zwierzę nie chciało wziąć do pyska. Po obu stronach sterczały poszarpane wzgórza wapienne lub ogromne piaszczyste zaspy, w których można było utonąć.
 
-Mefres and that seemed to him of more importance. Mefres, offended
+Cały krajobraz, o barwach żółtych i białych, miał charakter strasznej martwoty, którą potęgowało gorąco i cisza. Żaden ptak nie odzywał się tutaj, a jeżeli kiedy rozległ się jaki szelest, to chyba staczającego się kamienia.
 
-formerly by the prince, had recently, in the case of Sarah's child,
+Mniej więcej w połowie doliny wznosiły się dwie grupy budynków oddalonych od siebie na kilka kilometrów; były nimi — od wschodu forteczka, od zachodu huty szklane, do których opału dostarczali handlarze libijscy. Obie te miejscowości skutkiem wojennych niepokojów zostały opuszczone. Korpus Tehenny miał obowiązek zająć i osadzić oba te punkta, które armii Musawasy ubezpieczały drogę do Egiptu.
 
-accused the prince directly of infanticide, committed under Kama's
+Libijczycy z wolna posuwali się od miasta Glaukus ku południowi i wieczorem dnia czternastego Hator znaleźli się u wejścia do doliny Sodowych Jezior, pewni, że przejdą ją dwoma marszami, bez przeszkód. Tegoż dnia, równo z zachodem słońca, armia egipska ruszyła ku pustyni i uszedłszy po piaskach przeszło czterdzieści kilometrów w ciągu dwunastu godzin, następnego ranka stanęła na wzgórzach między forteczką a hutami i ukryła się w licznych wąwozach.
 
-influence.
+Gdyby owej nocy powiedział kto Libijczykom, że w dolinie Sodowych Jezior wyrosły palmy i pszenica, mniej zdziwiliby się aniżeli temu, że armia egipska zastąpiła im drogę.
 
-When a week had passed, and the viceroy's innocence was manifest, the
+Po krótkim wypoczynku, w czasie którego kapłanom udało się odkryć i wykopać kilka studzienek dosyć znośnej wody do picia, armia egipska poczęła zajmować północne wzgórki ciągnące się wzdłuż doliny.
 
-high priest grew still more irate, and did not cease his efforts. The
+Plan następcy tronu był prosty. Chciał on odciąć Libijczyków od ich ojczyzny i zepchnąć ku południowi, w pustynię, gdzie gorąco i głód wytępiłby rozproszonych.
 
-prince, he said, was capable of anything; he was hostile to the
+W tym celu ustawił armię na północnej stronie doliny i podzielił wojska na trzy korpusy. Prawym skrzydłem, najbardziej posuniętym ku Libii, dowodził Patrokles i on miał odciąć najezdnikom odwrót do ich miasta Glaukus. Lewym skrzydłem, najbardziej zbliżonym do Egiptu, komenderował Mentezufis, ażeby zagrodzić Libijczykom marsz naprzód. Wreszcie kierunek nad korpusem środkowym, około hut szklanych, objął następca tronu, mając przy sobie Pentuera.
 
-country's gods, he was an ally of the vile Phoenicians.
+Dnia piętnastego Hator, około siódmej rano, kilkudziesięciu konnych Libijczyków ostrym kłusem przejechało dolinę. Chwilę odpoczęli około hut, rozejrzeli się, a nie spostrzegłszy nic podejrzanego, zawrócili do swoich.
 
-The murder of Sarah's child seemed so suspicious in the earlier days,
+O dziesiątej przed południem wśród wielkiego skwaru, który zdawał się wypijać pot i krew z ludzi, Pentuer rzekł do następcy:
 
-that even the supreme council asked Mentezufis what he. thought of it.
+— Libu już weszli w dolinę i mijają oddział Patroklesa. Za godzinę będą tutaj.
 
-Mentezufis answered that he had watched the prince for days, and did
+— Skąd wiesz o tym? — spytał zdziwiony książę.
 
-not think the man a murderer.
+— Kapłani wszystko wiedzą!... — odparł z uśmiechem Pentuer.
 
-Such were the letters which, like birds of prey, whirled around Ramses,
+Potem ostrożnie wszedł na jedną ze skał, wydobył z torby bardzo połyskujący przedmiot i zwróciwszy się w stronę oddziału świętego Mentezufisa począł dawać ręką jakieś znaki.
 
-while he was sending scouts against the enemy, consulting leaders, or
+— Już i Mentezufis jest zawiadomiony — dodał.
 
-urging on his warriors.
+Książę nie mógł wyjść z podziwu i odezwał się:
 
-On the fourteenth day the whole army was concentrated on the south of
+— Mam oczy lepsze od twoich, a słuch chyba nie gorszy, i pomimo to nic nie widzę ani słyszę. Jakim więc sposobem ty dostrzegasz nieprzyjaciół i porozumiewasz się z Mentezufisem?
 
-Teremethis. To the great delight of the heir,
+Pentuer kazał księciu spojrzeć na jedno odległe wzgórze, na szczycie którego majaczyły krzaki tarniny. Ramzes wpatrzył się w ten punkt i nagle zasłonił oczy: w krzakach bowiem coś mocno błysnęło.
 
-Patrokles came with the Greek regiment, and with him the priest
+— Cóż to za nieznośny blask?... — wykrzyknął. — Oślepnąć można!...
 
-Pentuer, sent by Herhor as another guardian near the viceroy.
+— To kapłan asystujący dostojnemu Patroklesowi daje nam znaki — odrzekł Pentuer. — Widzisz więc, dostojny panie, że i my możemy przydać się na wojnie...
 
-The multitude of priests in the camp (for there were still others) did
+Umilkł, z głębi doliny przyleciał do nich szmer, z początku cichy, stopniowo coraz wyraźniejszy. Na ten odgłos przytuleni do stoku pagórka żołnierze egipscy poczęli zrywać się, oglądać broń, szeptać... Ale krótki rozkaz oficerów uspokoił ich i znowu nad północnymi skałami zapanowała martwa cisza.
 
-not enchant Ramses. But he resolved not to turn attention to the holy
+Tymczasem szmer w głębi doliny potęgował się i przeszedł w zgiełk, wśród którego, na tle rozmów tysięcy ludzi, można było odróżnić śpiewy, głosy fletów, skrzyp wozów, rżenie koni i krzyki dowódców. Ramzesowi serce zaczęło bić gwałtownie; już nie mógł pohamować ciekawości i wdrapał się na skalisty cypel, skąd było widać znaczną część doliny.
 
-men or ask advice of them.
+Otoczony kłębami żółtawego kurzu, z wolna posuwał się libijski korpus niby kilkuwiorstowy wąż upstrzony niebieskimi, białymi i czerwonymi plamami.
 
-Relations were regulated in some way, for Mentezufis, according to
+Na czele maszerowało kilkunastu jeźdźców, z których jeden odziany w białą płachtę siedział na koniu jak na ławie, zwiesiwszy obie nogi na lewą stronę. Za jeźdźcami szła gromada procarzy w szarych koszulach, potem jakiś dostojnik w lektyce, nad którą niesiono duży parasol. Dalej oddział kopijników, w bluzach niebieskich i czerwonych, potem wielka banda ludzi prawie nagich, zbrojnych w maczugi, znowu procarze i kopijnicy, i znowu procarze, a za nimi czerwony oddział z kosami i toporami. Szli mniej więcej po czterech w szeregu; ale mimo krzyku oficerów porządek ten ciągle łamał się i następujące po sobie czwórki zbijały się w gromady.
 
-instructions from Herhor, did not force himself on the prince, while
+Śpiewając i rozmawiając hałaśliwie, wąż libijski z wolna wypełznął w najszerszą część doliny, naprzeciw hut i jezior. Tu porządek zwichrzył się jeszcze bardziej. Maszerujący naprzód stanęli; mówiono im bowiem, że w tym miejscu będzie wypoczynek; a tymczasem dalsze kolumny przyśpieszyły kroku, ażeby prędzej dojść do celu i odpocząć. Niektórzy wybiegali z szeregu i położywszy broń rzucali się w jezioro lub dłonią czerpali jego cuchnącą wodę; inni, zasiadłszy na ziemi, wydobywali z torby daktyle albo z glinianych butelek pili wodę z octem.
 
-Pentuer occupied himself with organizing medical aid for the wounded.
+Wysoko, nad obozem, krążyło kilka sępów.
 
-The military game began.
+Ramzesa na ten widok ogarnął nieopisany żal i strach. Przed oczyma zaczęły mu latać muszki, stracił przytomność i przez mgnienie oka zdawało mu się, że oddałby tron, byle nie znajdować się w tym miejscu i nie widzieć tego, co nastąpi. Zsunął się z cypla i obłąkanymi oczyma patrzył przed siebie.
 
-First of all Ramses, through his agents, had spread a report in many
+Wtem zbliżył się do niego Pentuer i mocno targnął go za ramię.
 
-boundary villages that the Libyans were pushing forward in great
+— Ocknij się, wodzu — rzekł. — Patrokles czeka na rozkazy...
 
-masses, and would destroy and murder. Because of this the terrified
+— Patrokles?... — powtórzył książę i obejrzał się.
 
-inhabitants fled eastward and met the Egyptian warriors. The prince
+Przed nim stał Pentuer, blady, ale spokojny. O parę kroków dalej równie blady Tutmozis w drżących rękach trzymał oficerską świstawkę. Zza pagórka wychylali się żołnierze, na których twarzach widać było głębokie wzruszenie.
 
-took them in to carry burdens for the army, the women and children he
+— Ramzesie — powtórzył Pentuer — wojsko czeka...
 
-conveyed to the interior of Egypt. Next the commander sent spies to
+Książę z rozpaczliwą determinacją spojrzał na kapłana i zduszonym głosem szepnął:
 
-meet the approaching Libyans and discover their number and disposition.
+— Zaczynać...
 
-These spies returned soon, bringing accurate indications as to where
+Pentuer podniósł do góry swój błyszczący talizman i nakreślił nim kilka znaków w powietrzu. Tutmozis cicho świsnął, świst ten powtórzył się w dalszych wąwozach na prawo i na lewo i — na wzgórza poczęli wdrapywać się egipscy procarze.
 
-the Libyans were and very exaggerated accounts as to their numbers.
+Było około dwunastej w południe.
 
-They asserted, too, mistakenly, though in great confidence, that at the
+Ramzes powoli ochłonął z pierwszych wrażeń i uważniej począł oglądać się dokoła. Widział swój sztab, oddział kopijników i toporników pod dowództwem starych oficerów, wreszcie procarzy leniwie wchodzących na skałę... I był pewny, że ani jeden z tych ludzi nie tylko nie pragnie zginąć, ale nawet nie chciałby walczyć i ruszać się pod straszliwą spiekotą.
 
-head of the Libyan columns marched Musawasa with his son Tehenna.
+Nagle ze szczytu któregoś pagórka rozległ się ogromny głos, potężniejszy od lwiego ryku:
 
-The princely leader was flushed with delight that in his first war he
+— Żołnierze jego świątobliwości faraona, rozbijcie tych psów libijskich!... Bogowie są z wami!...
 
-would have such an experienced enemy as Musawasa.
+Nadnaturalnemu głosowi odpowiedziały dwa nie mniej potężne: przeciągły okrzyk egipskiej armii i niezmierny zgiełk Libijczyków...
 
-He overestimated, therefore, the danger of the struggle and redoubled
+Książę, już nie potrzebując ukrywać się, wszedł na pagórek, skąd dobrze było widać nieprzyjaciół. Przed nim ciągnął się długi łańcuch procarzy egipskich jakby wyrosłych spod ziemi, a o paręset kroków rojący się śród tumanów pyłu obóz libijski. Odezwały się trąbki, świstawki i przekleństwa barbarzyńskich oficerów nawołujących do porządku. Ci, którzy siedzieli, zerwali się, którzy pili wodę, schwyciwszy broń biegli do swoich, chaotyczne tłumy poczęły rozwijać się w szeregi, a wszystko wśród wrzasków i tumultu.
 
-every caution. To have all chances on his side he had recourse to
+Tymczasem procarze egipscy wyrzucali po kilka pocisków na minutę, spokojnie, porządnie, jak na musztrze. Dziesiętnicy wskazywali swoim oddziałkom gromady nieprzyjacielskie, w które należało trafiać, a żołnierze w ciągu paru minut zasypywali je gradem ołowianych kul i kamieni. Książę widział, że po każdej takiej salwie gromadka Libijczyków rozpraszała się, a bardzo często jeden zostawał na miejscu.
 
-stratagem. He sent confidential men to meet the Libyans; he commanded
+Mimo to libijskie szeregi uformowały się i cofnęły za linię pocisków, wysunęli się zaś naprzód ich procarze i z równą szybkością i spokojem zaczęli odpowiadać Egipcjanom. Czasami wśród łańcucha ich wybuchały śmiechy i okrzyki radości, a wówczas padał jakiś procarz egipski.
 
-them to feign that they were fugitives, to enter the enemies' camp and
+Niebawem nad głową księcia i jego orszaku zaczęły warczeć i świstać kamienie. Jeden, zręczniej rzucony, uderzył w ramię adiutanta i złamał mu kość, drugi strącił hełm innemu adiutantowi, trzeci padł u nóg księcia, rozbił się o skałę i twarz wodza zasypał okruchami gorącymi jak ukrop.
 
-draw from Musawasa his best forces, the disbanded Libyan soldiers.
+Libijczycy głośno śmieli się, coś wykrzykując; prawdopodobnie złorzeczyli wodzowi.
 
-"Tell them," said Ramses to his agents, "that I have axes for the
+Strach, a nade wszystko żal i litość, wszystko to w jednej chwili uciekło z duszy Ramzesa. Nie widział już przed sobą ludzi zagrożonych cierpieniem i śmiercią, ale szeregi dzikich zwierząt, które trzeba wytępić lub obezwładnić. Machinalnie sięgnął do miecza, aby poprowadzić czekających na rozkaz kopijników, ale wstrzymała go pogarda. On miałby plamić się krwią tej hołoty!... Od czegóż są żołnierze?
 
-insolent, and compassion for obedience. If in the coming battle they
+Tymczasem walka trwała dalej, a mężni procarze libijscy, wykrzykując, nawet śpiewając, zaczęli posuwać się naprzód. Z obu stron pociski burczały jak chrabąszcze, brzęczały jak rój pszczół, niekiedy uderzały się nawzajem w powietrzu z trzaskiem, a co parę minut, po tej i po tamtej stronie, jakiś wojownik cofał się na tyły, jęcząc, albo martwy padał na miejscu. Innym jednak nie psuło to humoru: walczyli ze złośliwą radością, która stopniowo przeradzała się we wściekły gniew i zapomnienie o sobie.
 
-will throw their weapons down and leave Musawasa, I will receive them
+Wtem z daleka, na prawym skrzydle, rozległy się głosy trąbek i wielokrotnie powtarzane okrzyki. To nieustraszony Patrokles, pijany już od świtu, zaatakował tylną straż nieprzyjacielską.
 
-back to the army of his holiness, and command to pay all arrears, as if
+— Uderzyć!... — zawołał książę.
 
-they had never left the service."
+Natychmiast rozkaz ten powtórzyła trąbka jedna, druga... dziesiąta, i po chwili ze wszystkich wąwozów poczęły wysuwać się egipskie setnie. Rozsypani na wzgórzach procarze zdwoili wysiłki, a tymczasem w dolinie bez pośpiechu, ale i bez nieporządku, ustawiały się naprzeciw Libijczykom czteroszeregowe kolumny kopijników i toporników egipskich, z wolna posuwając się naprzód.
 
-Patrokles and the other generals saw in this a very prudent measure;
+— Wzmocnić środek — rzekł następca.
 
-the priests were silent, Mentezufis sent a dispatch to Herhor and next
+Trąbka powtórzyła rozkaz. Za dwoma kolumnami pierwszej linii stanęły dwie nowe kolumny. Nim Egipcjanie ukończyli ten manewr, wciąż pod gradem pocisków, już Libijczycy, naśladując ich, uszykowali się w osiem szeregów naprzeciw głównego korpusu.
 
-day received an answer.
+— Podsunąć rezerwy — rzekł książę. — Spojrzyj no — zwrócił się do jednego z adiutantów — czy lewe skrzydło już gotowe.
 
-The neighborhood of the Soda Lakes was a valley some tens of kilometers
+Adiutant, ażeby lepiej ogarnąć wzrokiem dolinę, pobiegł między procarzy i — nagle padł, ale dawał znaki ręką. W jego zastępstwie wysunął się inny oficer i niebawem przybiegł, oświadczając, że oba skrzydła książęcego oddziału już stoją uszykowane.
 
-long, enclosed between two lines of hills, extending from the southeast
+Od strony oddziału Patroklesa zgiełk wzmacniał się i naraz podniosły się nad wzgórza gęste, czarne kłęby dymu. Do księcia przybiegł oficer od Pentuera z doniesieniem, że greckie pułki zapaliły obóz Libijczyków.
 
-toward the northwest. The greatest width did not exceed ten kilometers;
+— Rozbić środek — rzekł książę.
 
-there were places narrower, almost ravines.
+Kilkanaście trąbek, jedna po drugiej, zagrały hasło do ataku, a gdy umilkły, w środkowej kolumnie rozległa się komenda, rytmiczny łoskot bębnów i szmer nóg piechoty maszerującej z wolna, do taktu.
 
-Throughout the whole length of that valley extended one after another
+— Raz... dwa!... raz... dwa!... raz... dwa!...
 
-about ten swampy lakes filled with bitter, brackish water. Wretched
+Teraz komendę powtórzono na prawym i na lewym skrzydle; znowu zawarczały bębny i skrzydłowe kolumny ruszyły naprzód: raz... dwa!... raz... dwa!...
 
-plants and bushes grew there ever coated with sand, ever withering,
+Libijscy procarze zaczęli cofać się, zasypując kamieniami maszerujących Egipcjan. Ale choć coraz upadał jakiś żołnierz, kolumny szły, ciągle szły z wolna, porządnie: raz... dwa!... raz... dwa!...
 
-plants which no beast would take to its mouth. Along both sides were
+Żółte tumany, wciąż gęstniejące, znaczyły pochód egipskich batalionów. Procarze nie mogli już miotać kamieni i nastała względna cisza, wśród której rozlegały się jęki i szlochania ranionych wojowników.
 
-sticking up jagged limestone hills, or immense heaps of sand in which a
+— Rzadko kiedy tak dobrze maszerowali na musztrach! — zawołał książę do sztabu.
 
-man might sink deeply.
+— Nie boją się dziś kija — mruknął stary oficer.
 
-The white and yellow landscape had a look of dreadful torpor, which was
+Odległość między obłokiem kurzu ze strony Egipcjan a — Libijczykami zmniejszała się z każdą chwilą; lecz barbarzyńcy stali nieporuszeni, a poza ich linią ukazał się tuman. Oczywiście jakaś rezerwa wzmacniała kolumnę środkową, której groził najmocniejszy atak.
 
-heightened by the heat, and also by the silence. No bird was ever heard
+Następca zbiegł z pagórka i dosiadł konia; z wąwozów wylały się ostatnie rezerwy egipskie i uszykowawszy się, czekały na rozkaz. Za piechotą wysunęło się kilkuset azjatyckich jeźdźców na koniach drobnych, ale wytrwałych.
 
-there, and if any sound was given forth it was from a stone rolling
+Książę pogonił za maszerującymi do ataku i o sto kroków dalej znalazł nowy pagórek, niewysoki, lecz pozwalający ogarnąć całe pole bitwy. Orszak, azjatyccy kawalerzyści i kolumna rezerwowa podążyły za nim.
 
-down along a hillside.
+Książę niecierpliwie spojrzał ku lewemu skrzydłu, skąd miał przyjść Mentezufis, lecz nie przychodził. Libijczycy stali nieporuszeni, sytuacja wyglądała coraz poważniej.
 
-Toward the middle of the valley rose two groups of buildings a few
+Korpus Ramzesa był najmocniejszy, ale też miał przeciw sobie prawie całą siłę libijską. Ilościowo obie strony równoważyły się, książę nie wątpił o zwycięstwie, ale zaniepokoił się o ogrom strat wobec tak mężnego przeciwnika.
 
-kilometers from each other; these were a 'fortress on the east, and
+Zresztą bitwa ma swoje kaprysy. Nad tymi, którzy już poszli do ataku, skończył się wpływ naczelnego wodza. On już nie ma ich; on ma tylko pułk rezerwowy i garstkę jeźdźców. Gdyby więc jedna z kolumn egipskich została rozbita albo gdyby nieprzyjacielowi przybyły znienacka nowe posiłki...
 
-glass factories on the west, to which Libyan merchants brought fuel.
+Książę potarł czoło: w tej chwili odczuł całą odpowiedzialność naczelnego wodza. Był jak gracz, który, wszystko postawiwszy, rzucił już kości i pyta: jak one się ułożą?...
 
-Both these places had been deserted because of the conflict. Tehenna's
+Egipcjanie byli o kilkadziesiąt kroków od libijskich kolumn. Komenda... trąbki... bębny warknęły śpieszniej i wojska ruszyły biegiem: raz — dwa — trzy!... raz — dwa — trzy!... Ale i po stronie nieprzyjaciół odezwała się trąbka, zniżyły się dwa szeregi włóczni, uderzono w bębny... Biegiem!... Wzniosły się nowe kłęby pyłu, potem zlały się w jeden ogromny tuman... Ryk ludzkich głosów, trzask włóczni, szczękanie kos, niekiedy przeraźliwy jęk, który wnet tonął w ogólnej wrzawie...
 
-corps was to occupy both these points, and secure the road to Egypt for
+Na całej linii bojowej już nie było widać ludzi, ich broni, nawet kolumn, tylko żółty pył rozciągający się w formie olbrzymiego węża. Gęstszy tuman oznaczał miejsce, gdzie starły się kolumny, rzadszy — gdzie była przerwa.
 
-Musawasa's army forces.
+Po kilku minutach szatańskiej wrzawy następca spostrzegł, że kurzawa na lewym skrzydle bardzo powoli wygina się w tył.
 
-The Libyans marched slowly from the town of Glaucus southward, and on
+— Wzmocnić lewe skrzydło! — zawołał.
 
-the evening of the fourteenth day of Hator, they were at the entrance
+Połowa rezerwy pobiegła we wskazanym kierunku i znikła w tumanach; lewe skrzydło wyprostowało się, podczas gdy prawe z wolna szło naprzód, a środek, najmocniejszy i najważniejszy, ciągle stał w miejscu.
 
-to the valley of the Soda Lakes, feeling sure that they would pass
+— Wzmocnić środek — rzekł książę.
 
-through in two days unmolested. That evening at sunset the Egyptian
+Druga połowa rezerwy poszła naprzód i zniknęła w kurzawie. Krzyk na chwilę powiększył się, ale ruchu naprzód nie było widać.
 
-army moved toward the desert, passed over more than forty kilometers of
+— Ogromnie biją się ci nędznicy!... — odezwał się do następcy stary oficer z orszaku. — Wielki czas, ażeby przyszedł Mentezufis...
 
-sand in twelve hours, and next morning was on the hills between the
+Książę wezwał dowódcę azjatyckiej kawalerii.
 
-huts and the fortress and hid in the many ravines of that region.
+— Spojrzyj no tu na prawo — rzekł — tam musi być luka. Wjedź tam ostrożnie, ażebyś nie podeptał naszych żołnierzy, i wpadnij z boku na środkową kolumnę tych psów...
 
-If some man that night had told the Libyans that palm-trees and wheat
+— Muszą być na łańcuchu, bo coś za długo stoją — odparł, śmiejąc się, Azjata.
 
-were growing in the valley of the Soda Lakes they would have been
+Zostawił przy księciu ze dwudziestu swoich kawalerzystów, a z resztą pojechał kłusem, wołając:
 
-astonished less than if he had declared that the Egyptians had barred
+— Żyj wiecznie, wodzu nasz!...
 
-the way to it.
+Spiekota była nieopisana. Książę wytężył wzrok i ucho, starając się przeniknąć ścianę pyłu. Czekał... czekał... Nagle wykrzyknął z radości: środkowy tuman zachwiał się i posunął trochę naprzód.
 
-After a short rest, during which the priests had discovered and cleared
+Znowu stanął, znowu posunął się i zaczął iść powoli, bardzo powoli, ale naprzód...
 
-out a few wells of water somewhat endurable for drinking, the Egyptian
+Wrzawa kotłowała się tak straszna, że nie można było zorientować się, co oznacza: gniew, triumf czy klęskę.
 
-army began to occupy the hills extending along the northern side of the
+Wtem prawe skrzydło zaczęło w dziwaczny sposób wyginać się i cofać. Poza nim ukazał się nowy tuman kurzu. Jednocześnie nadbiegł konno Pentuer i zawołał:
 
-valley.
+— Patrokles zajmuje tyły Libijczykom!...
 
-The viceroy's plan was quite simple. He was to cut off the Libyans from
+Zamęt na prawym skrzydle powiększał się i zbliżał się ku środkowi pola walki. Było widoczne, że Libijczycy zaczynają się cofać i że popłoch ogarnia nawet główną kolumnę.
 
-their country, and push them southward into the desert, where heat and
+Cały sztab księcia, wzburzony, rozgorączkowany, śledził ruchy żółtego pyłu. Po kilku minutach niepokój odbił się i na lewym skrzydle. Tam już Libijczycy zaczęli uciekać.
 
-hunger would kill them.
+— Niech nie zobaczę jutro słońca, jeżeli to nie jest zwycięstwo!... — zawołał stary oficer.
 
-With this object he disposed his army on the northern side of the
+Przyleciał goniec od kapłanów, którzy z najwyższego pagórka śledzili przebieg bitwy, i doniósł, że na lewym skrzydle widać szeregi Mentezufisa i że Libijczycy są z trzech stron otoczeni.
 
-valley and divided it into three corps. The right wing, that which
+— Uciekaliby już jak łanie — mówił zadyszany poseł — gdyby nie przeszkadzały im piaski.
 
-extended most toward Libya, was led by Patrokles, who was to cut off
+— Zwycięstwo!... Żyj wiecznie, wodzu!... — krzyknął Pentuer.
 
-the invaders from their own town of Glaucus. The left wing, that
+Było dopiero po drugiej.
 
-nearest to Egypt, commanded by Mentezufis, was to stop the Libyans from
+Azjatyccy jeźdźcy zaczęli wrzaskliwie śpiewać i puszczać w górę strzały na cześć księcia. Sztabowi oficerowie zsiedli z koni, rzucili się do rąk i nóg następcy, wreszcie zdjęli go z siodła i podnieśli w górę, wołając:
 
-advancing. Finally, the direction of the centre, at the glass huts, was
+— Oto wódz potężny!... Zdeptał nieprzyjaciół Egiptu!... Amon jest po jego prawej i po lewej ręce, więc któż mu się oprze?...
 
-taken by Ramses, who had Pentuer near his person.
+Tymczasem Libijczycy, wciąż cofając się, weszli na południowe pagórki piaszczyste, a za nimi Egipcjanie. Teraz co chwilę wynurzali się z obłoków kurzu jezdni i przybiegali do Ramzesa.
 
-On the fifteenth of Hator about seven in the morning, some tens of
+— Mentezufis zabrał im tyły!... — krzyczał jeden.
 
-Libyan horsemen moved at a brisk trot through the valley. They stopped
+— Dwie setki poddały się!... — wołał drugi.
 
-a moment at the huts, looked around, and, seeing nothing suspicious,
+— Patrokles zajął im tyły!...
 
-rode back again.
+— Wzięto Libijczykom trzy sztandary: barana, lwa i krogulca...
 
-At about ten in the forenoon in a heat which seemed to suck sweat and
+Koło sztabu robiło się coraz tłumniej: otaczali go ludzie pokrwawieni i obsypani pyłem.
 
-draw blood from men's bodies, Pentuer said to the viceroy,
+— Żyj wiecznie!... żyj wiecznie, wodzu!...
 
-"The Libyans have entered the valley and passed Patrokles' division.
+Książę był tak rozdrażniony, że na przemian śmiał się, płakał i mówił do swego orszaku:
 
-They will be here in an hour from now."
+— Bogowie zlitowali się... Myślałem, że już przegramy... Nędzny jest los wodza, który nie wydobywając miecza, a nawet nic nie widząc, musi odpowiadać za wszystko...
 
-"Whence knowest Thou this?" asked the astonished prince.
+— Żyj wiecznie, zwycięski wodzu!... — wołano.
 
-"The priests know everything," replied Pentuer, smiling.
+— Dobre mi zwycięstwo!... — zaśmiał się książę. — Nawet nie wiem, w jaki sposób zostało odniesione...
 
-Then he ascended one of the cliffs cautiously, took from a bag a very
+— Wygrywa bitwy, a potem dziwi się!... — krzyknął ktoś z orszaku.
 
-bright object and turning it in the direction of the holy Mentezufis
+— Mówię, że nawet nie wiem, jak wygląda bitwa... — tłumaczył się książę.
 
-began to give certain signs with his hand.
+— Uspokój się, wodzu — odparł Pentuer. — Tak mądrze rozstawiłeś wojska, że nieprzyjaciele musieli być rozbici. A w jaki sposób?... to już nie należy do ciebie, tylko do twoich pułków.
 
-"Mentezufis is informed already," said Pentuer.
+— Nawet miecza nie wydobyłem!... Jednego Libijczyka nie widziałem!... — biadał książę.
 
-The prince could not recover from astonishment and answered,
+Na południowych wzgórzach jeszcze kłębiło się i wrzało, lecz w dolinie pył zaczął opadać, tu i owdzie jak przez mgłę widać było gromadki żołnierzy egipskich z włóczniami już podniesionymi w górę.
 
-"My eyes are better than thine, and my hearing is not worse, I think;
+Następca zwrócił konia w tamtą stronę i wjechał na opuszczone pole bitwy, gdzie dopiero co stoczyła się walka środkowych kolumn. Był to plac szeroki na kilkaset kroków, skopany głębokimi jamami, zarzucony ciałami rannych i poległych. Od strony, z której zbliżał się książę, leżeli w długim szeregu, co kilka kroków, Egipcjanie, potem nieco gęściej Libijczycy, dalej Egipcjanie i Libijczycy pomieszani ze sobą, a jeszcze dalej prawie sami Libijczycy.
 
-still I see nothing, I hear nothing. How, then, dost Thou see the enemy
+W niektórych miejscach zwłoki leżały przy zwłokach: niekiedy w jednym punkcie zgromadziło się trzy i cztery trupy. Piasek był popstrzony brunatnymi plamami krwi; rany były okropne: jeden wojownik miał odcięte obie ręce, drugi rozwaloną głowę do tułowia, z trzeciego wychodziły wnętrzności. Niektórzy wili się w konwulsjach, a z ich ust, pełnych piasku, wybiegały przekleństwa albo błagania, ażeby ich dobito.
 
-and converse with Mentezufis?"
+Następca szybko minął ich, nie oglądając się, choć niektórzy ranni na jego cześć wydawali słabe okrzyki.
 
-Pentuer directed the prince to look at a distant hill, on the summit of
+Niedaleko od tego miejsca spotkał pierwszą gromadę jeńców. Ludzie ci upadli przed nim na twarze, błagając o litość.
 
-which was a thorn bush. Ramses looked at that point and shaded his eyes
+— Zapowiedzcie łaskę dla zwyciężonych i pokornych — rzekł książę do swego orszaku.
 
-on a sudden. In the bush something flashed brightly.
+Kilku jeźdźców rozbiegło się w rozmaitych kierunkach. Niebawem odezwała się trąbka, a po niej donośny głos:
 
-"What unendurable glitter is that?" cried he. "It might blind a man."
+— Z rozkazu jego dostojności księcia naczelnego wodza ranni i niewolnicy nie mają być zabijani!...
 
-"That is the priest who is aiding the worthy Patrokles; he is giving us
+W odpowiedzi na to odezwały się pomieszane krzyki, zapewne jeńców.
 
-signs," replied Pentuer. "Thou seest, then, worthy lord, that we, too,
+— Z rozkazu naczelnego wodza — wołał śpiewającym tonem inny głos, w innej stronie — ranni i niewolnicy nie mają być zabijani!...
 
-can be useful in war time."
+A tymczasem na południowych wzgórzach walka ustała i dwie największe gromady Libijczyków złożyły broń przed greckimi pułkami.
 
-He was silent. From the distance of the valley came a certain sound; at
+Mężny Patrokles, skutkiem gorąca, jak sam mówił, czy też rozpalających trunków, jak mniemali inni, ledwie trzymał się na koniu. Przetarł załzawione oczy i zwrócił się do jeńców:
 
-first low, gradually it grew clearer. At this sound the Egyptian
+— Psy parszywe! — zawołał — którzy podnieśliście grzeszne ręce na wojsko jego świątobliwości (oby was robaki zjadły!), wyginiecie jak wszy pod paznogciem pobożnego Egipcjanina, jeżeli natychmiast nie odpowiecie: gdzie podział się wasz dowódca, bodaj mu trąd stoczył nozdrza i wypił kaprawe oczy!...
 
-soldiers hidden at the sides of the hill began to spring up, look at
+W tej chwili nadjechał następca. Jenerał powitał go z szacunkiem, ale nie przerywał śledztwa:
 
-their weapons, and whisper. But the sharp commands of officers quieted
+— Pasy każę z was drzeć!... powbijam na pale, jeżeli natychmiast nie dowiem się, gdzie jest ta jadowita gadzina, ten pomiot dzikiej świni rzucony w mierzwę...
 
-them, and again the silence was deathlike along the cliffs on the north
+— A, o gdzie nasz wódz!... — zawołał jeden z Libijczyków, wskazując na gromadkę konnych, którzy z wolna posuwali się w głąb pustyni.
 
-side.
+— Co to jest? — zapytał książę.
 
-Meanwhile that distant sound in the valley increased and passed into an
+— Nędzny Musawasa ucieka!... — odparł Patrokles i o mało nie spadł na ziemię.
 
-uproar in which, on the bases of thousands of voices a man could
+Ramzesowi krew uderzyła do głowy.
 
-distinguish songs, sounds of flutes, squeaks of chariots, the neighing
+— Więc Musawasa jest tam i uciekł?... Hej! kto ma lepsze konie, za mną!...
 
-of horses, and the cries of commanders. The prince's heart was now
+— No — rzekł, śmiejąc się, Patrokles — teraz sam beknie ten złodziej baranów!...
 
-beating with violence; he could not resist his curiosity, and he
+Pentuer zastąpił drogę księciu.
 
-clambered up to a rocky height whence a large part of the valley was
+— Wasza dostojność nie możesz ścigać zbiegów!...
 
-visible.
+— Co?... — wykrzyknął następca. — Przez całą bitwę nie podniosłem na nikogo ręki i jeszcze teraz mam wyrzec się wodza libijskiego?... Cóż by powiedzieli żołnierze, których wysłałem pod włócznie i topory?...
 
-Surrounded by rolls of yellow dust the Libyan corps was approaching
+— Armia nie może zostać bez wodza...
 
-deliberately, and seemed like a serpent some miles in length, with
+— A czyliż tu nie ma Patroklesa, Tutmozisa, wreszcie Mentezufisa? Od czegóż jestem wodzem, gdy mi nie wolno zapolować na nieprzyjaciela?... Są od nas o kilkaset kroków i mają zmęczone konie.
 
-blue, white, and red spots on its body.
+— Za godzinę wrócimy z nimi... Tylko rękę wyciągnąć... — szemrali jezdni Azjaci.
 
-At its head marched from ten to twenty horsemen, one of whom, wearing a
+— Patrokles... Tutmozis... zostawiam wam wojsko... — zawołał następca. — Odpocznijcie, a ja tu zaraz wrócę... — Spiął konia i pojechał truchtem, grzęznąc w piasku, a za nim ze dwudziestu jezdnych i Pentuer.
 
-white mantle, was sitting on his horse as on a bench, both his legs on
+— Ty tu po co, proroku? — zapytał go książę. — Prześpij się lepiej... Oddałeś nam dzisiaj ważne usługi...
 
-the left side of the animal. Behind the horsemen marched a crowd of
+— Może jeszcze się przydam — odparł Pentuer.
 
-slingers in gray shirts, then some dignitary in a litter, over whom a
+— Ale zostań... rozkazuję ci...
 
-large parasol was carried. Farther was a division of spearmen in blue
+— Najwyższa rada poleciła mi na krok nie odstępować waszej dostojności.
 
-and red shirts, then a great band of men almost naked, armed with
+Następca gniewnie otrząsnął się.
 
-clubs, again slingers and spearmen, behind them a red division with
+— A jeżeli wpadniemy w zasadzkę? — spytał.
 
-scythes and axes. They came on more or less in ranks of four; but in
-
-spite of shouts of officers, that order was interrupted, and each four
-
-treading on others, broke ranks continually.
-
-Singing and talking loudly, the Libyan serpent crawled out into the
-
-broadest part of the valley, opposite the huts and the Soda Lakes.
-
-Order was disturbed now more considerably. Those marching in advance
-
-stopped, for it had been said that there would be a halt at that point;
-
-the columns behind hurried so as to reach the halt and rest all the
-
-earlier. Some ran out of the ranks, and laying down their weapons,
-
-rushed into the lake, or took up in their palms its malodorous water;
-
-others, sitting on the ground, took dates from bags, or drank vinegar
-
-and water from their bottles.
-
-High above the camp floated a number of vultures.
-
-Unspeakable sadness and terror seized Ramses at this spectacle. Before
-
-his eyes flies began to circle; for the twinkle of an eye he lost
-
-consciousness; it seemed to him that he would have yielded his throne
-
-not to be at that place, and not to see what was going to happen. He
-
-hurried down from the cliff looking with wandering eyes straight out in
-
-front of him.
-
-At that moment Pentuer approached and pulled him by the arm vigorously.
-
-"Recover, leader," said he; "Patrokles is waiting for orders."
-
-"Patrokles?" repeated the prince, and he looked around quickly.
-
-Before him stood Pentuer, deathly pale, but collected. A couple of
-
-steps farther on was Tutmosis, also pale; in his trembling hand was an
-
-officer's whistle. From behind the hill bent forth soldiers, on whose
-
-faces deep emotion was evident.
-
-"Ramses," repeated Pentuer, "the army is waiting."
-
-The prince looked at the priest with desperate decision.
-
-"Begin!" said he in a stifled whisper.
-
-Pentuer raised his glittering talisman, and made some signs in the air
-
-with it. Tutmosis gave a low whistle; that whistle was repeated in
-
-distant ravines on the right and the left. Egyptian slingers began to
-
-climb up the hillsides.
-
-It was about midday.
-
-Ramses recovered gradually from his first impressions and looked around
-
-carefully. He saw his staff, a division of spearmen and axemen under
-
-veteran officers, finally slingers, advancing along the cliff
-
-leisurely. And he was convinced that not one of those men had the wish
-
-to die or even to fight and move around in that heat, which was
-
-terrible.
-
-All at once from the height of some hill was heard a mighty voice,
-
-louder than the roar of a lion,
-
-"Soldiers of the pharaoh, slay those Libyan dogs! The gods are with
-
-you."
-
-To this unearthly voice answered two voices no less powerful: the
-
-prolonged shout of the Egyptian army, and the immense outcry of the
-
-Libyans.
-
-The prince had no need to conceal himself longer, and ascended an
-
-eminence whence he could see the hostile forces distinctly. Before him
-
-stretched a long line of Egyptian slingers who seemed as if they had
-
-grown up from the earth, and a couple of hundred yards distant the
-
-Libyan column moving forward in dust clouds. The trumpets, the
-
-whistles, the curses of barbarian officers were heard calling to order.
-
-Those who were sitting sprang up; those who were drinking snatched
-
-their weapons and ran to their places; chaotic throngs developed into
-
-ranks, and all this took place amid outcries and tumult. Meanwhile the
-
-Egyptian slingers cast a number of missiles each minute. They were as
-
-calm and well ordered as at a maneuver. The decurions indicated to
-
-their men the hostile crowds against which they must strike, and in the
-
-course of some minutes they covered them with a shower of stones and
-
-leaden bullets. The prince saw that after every such shower a Libyan
-
-crowd scattered and very often one man remained on the earth behind the
-
-others.
-
-Still the Libyan ranks formed and withdrew outside the reach of
-
-missiles, then their slingers pushed forward and with equal swiftness
-
-and coolness replied to the Egyptians. At times there were bursts of
-
-laughter in their ranks and shouts of delight at the fall of some
-
-Egyptian slinger.
-
-Soon above the heads of the prince and his retinue stones began to
-
-whizz and whistle. One, cast adroitly, struck the arm of an adjutant,
-
-and broke the bone in it; another knocked the helmet from a second
-
-adjutant; a third, falling at the prince's feet, was broken against the
-
-cliff and struck the leader's face with fragments as hot as boiling
-
-water.
-
-The Libyans laughed loudly and shouted out something: apparently they
-
-were abusing the viceroy.
-
-Fear and, above all, compassion and pity left the soul of Ramses in an
-
-instant. He saw before him no longer people threatened by death and
-
-anguish, but lines of savage beasts which he had to kill or deprive of
-
-weapons. Mechanically he reached for his sword to lead on the spearmen
-
-awaiting command, but he was restrained by contempt of the enemy. Was
-
-he to stain himself with the blood of that rabble? Warriors were there
-
-for that purpose.
-
-Meanwhile the battle continued, and the brave Libyan slingers, while
-
-shouting and even singing, began to press forward. From both sides
-
-missiles whizzed like beetles, buzzed like bees, sometimes they struck
-
-one another in the air with a crack, and every minute or two on this
-
-side or that some warrior went to the rear groaning, or fell dead
-
-immediately. But this did not spoil the humor of others: they fought
-
-with malicious delight, which gradually changed to rage and self
-
-oblivion.
-
-Then from afar on the right wing were heard sounds of trumpets, and
-
-shouts repeated frequently. That was the unterrified Patrokles; drunk
-
-since daylight, he was attacking the rear guard of Libya.
-
-"Charge!" said the prince.
-
-Immediately that order was repeated by one, two, ten trumpets, and
-
-after a moment the Egyptian companies pushed out from all the ravines.
-
-The slingers disposed on the hilltops redoubled their efforts, while in
-
-the valley, without haste, but also without disorder, the Egyptian
-
-spearmen and axemen arranged in four columns moved forward gradually.
-
-"Strengthen the centre," said the prince.
-
-A trumpet repeated the command. Behind two columns of the first line
-
-two new columns were placed. Before the Egyptians had finished that
-
-maneuver, under a storm of missiles, the Libyans, following their
-
-example, had arranged themselves in eight columns against the main
-
-corps of Egypt.
-
-"Forward, reserves!" shouted the prince. "See," said he, turning to one
-
-of the adjutants, "whether the left wing is ready."
-
-To see the valley at a glance, and more accurately, the adjutant rushed
-
-in among the slingers, and fell immediately, but beckoned with his
-
-hand. Another rushed to replace him and returned quickly to state that
-
-both wings of the prince's division were drawn up in order.
-
-From the division commanded by Patrokles came an increasing uproar, and
-
-higher than the hill dense rolls of dark smoke were rising.
-
-An officer from Pentuer ran to the prince reporting that the Libyan
-
-camp had been fired by the Greek regiments.
-
-"Force the centre!" cried Ramses.
-
-Trumpet after trumpet sounded the attack, and when they had ceased the
-
-command was heard in the central column, and then followed the rhythmic
-
-roll of drums and the beat of the infantry step, marching slowly and in
-
-time: one two! one two! one two! The command was repeated on the right
-
-and on the left wing; again drums rolled and the wing columns moved
-
-forward: one two! one two!
-
-The Libyan slingers began to withdraw, showering stones on the marching
-
-Egyptians. But though one warrior fell after another, the columns moved
-
-on without stopping; they marched slowly, regularly, one two! one two!
-
-one two!
-
-The yellow cloud, growing ever denser, indicated the march of the
-
-Egyptian battalions. The slingers could hurl stones no longer, and
-
-there came a comparative quiet in the midst of which were heard sobs
-
-and groans from wounded warriors.
-
-"It is rare that they march on review so well," cried Ramses to the
-
-staff officers.
-
-"They are not afraid of sticks this time," grumbled a veteran officer.
-
-The space between the dust cloud around the Egyptians and that on the
-
-Libyan side decreased every minute, but the barbarians, halting, stood
-
-motionless, and behind their line a second cloud made its appearance.
-
-Evidently some reserve was strengthening the central column, which was
-
-threatened by the wildest of onsets.
-
-The heir ran down from his eminence and mounted; the last Egyptian
-
-reserves poured out of the ravines, fixed themselves in ranks, and
-
-waited for the order. Behind the infantry pushed out some hundreds of
-
-Asiatic horsemen on small but enduring horses.
-
-The prince hurried after the columns advancing to attack, and when he
-
-had gone a hundred yards he found a new eminence, not high, but from
-
-which he could see the whole field of battle. The retinue, the Asiatic
-
-cavalry, and the reserve column hurried after him.
-
-The prince looked impatiently toward the left wing whence
-
-Mentezufis had to come, but he was not coming. The Libyans stood
-
-immovable, the situation seemed more and more serious.
-
-The viceroy's division was the stronger, but against it were arrayed
-
-almost all the Libyan forces. The two sides were equal as to numbers;
-
-the prince had no doubt of victory, but he dreaded the immense loss
-
-since his opponent was so manful.
-
-Besides, battle has caprices.
-
-Over men who have gone to attack, the leader's influence has ceased, he
-
-controls them no longer; Ramses has only a regiment of reserves, and a
-
-handful of cavalry. If one of the Egyptian columns is beaten, or if
-
-reinforcements come to the foe unexpectedly!
-
-The prince rubbed his forehead at this thought. He felt all the
-
-responsibility of a leader. He was like a dice thrower who has staked
-
-all he owns, cast his dice, and asks, "How will they come out?"
-
-The Egyptians are a few tens of yards from the Libyan columns. The
-
-command, the trumpets, the drums sound hurriedly, and the troops move
-
-at a run: one two three! one two three! But on the side of the enemy
-
-also a trumpet is heard, two ranks of spears are lowered, drums beat.
-
-At a run! New rolls of dust rise, then they unite in one immense cloud.
-
-The roar of human voices, the rattle of spears, the biting of scythes,
-
-then a shrill groan which is soon lost in one general uproar.
-
-Along the whole line of battle neither men, nor weapons, nor even
-
-columns are visible, nothing but a line of yellow, dust stretching
-
-along like a giant serpent. The denser cloud signifies places where the
-
-columns are struggling; the thinner, where there are breaks in the
-
-columns.
-
-After some minutes of satanic uproar the heir sees that the dust on his
-
-left wing is bending back very slowly.
-
-"Strengthen the left wing!" shouts Ramses.
-
-One half of the reserve runs to the place pointed out, and disappears
-
-in the sand cloud; the left wing straightens itself, the right goes
-
-forward slowly always in one direction.
-
-"Strengthen the centre!" cries Ramses.
-
-The second half of the reserve advances and vanishes in the sand cloud.
-
-The shout increased for a moment, but no forward movement is visible.
-
-"Those wretches fight desperately," said an old officer of the suite to
-
-Ramses. "It is high time that Mentezufis were here."
-
-The prince summoned the leader of the Asiatic cavalry.
-
-"But look to the right," said he; "there must be a bend there."
-
-"Go cautiously so as not to trample our warriors and attack those dogs
-
-in their central column, on the flank."
-
-"They must be chained, for somehow they stand too long," replied the
-
-Asiatic, smiling.
-
-The prince has now about two hundred of his own cavalry, and these
-
-advance, with the others, at a trot, crying,
-
-"May our chief live forever!"
-
-The heat passes description. The prince strains eyes and ears to see
-
-through the sand cloud. He waits and waits. All at once he shouts with
-
-delight. The centre of the cloud quivers and moves forward slightly.
-
-Again it stops, again it moves forward slowly, very slowly, but still
-
-it moves forward.
-
-The din is so tremendous that no one can decide what it means: rage,
-
-defeat, or victory.
-
-Now the right wing begins to bend outward and withdraw in a strange
-
-manner. In the rear of the wing appears a new dust cloud. At the same
-
-moment Pentuer races up, dismounts, and shouts,
-
-"Patrokles is engaging the rear of the Libyans!"
-
-The confusion on the right wing increases, and is passing to the
-
-centre. It is clear that the Libyans are beginning to withdraw, and
-
-that panic is seizing even their main column.
-
-The whole staff of the prince, roused to the uttermost, follows the
-
-movements of the yellow dust, feverishly. In a few minutes alarm
-
-appears on the left wing. The Libyans have begun to flee in that
-
-quarter.
-
-"May I never see another sun, if this is not a victory!" cried a
-
-veteran officer.
-
-A courier rushes in from the priests, who from the highest hill had
-
-followed the course of the battle, and reports that on the left wing
-
-the troops of Mentezufis are visible, and that the Libyans are
-
-surrounded on three sides.
-
-"They would fly like deer if the sand did not hinder them."
-
-"Victory! May our chief live forever!" cried Pentuer.
-
-It was only two hours after midday.
-
-The Asiatic cavalry sing loudly, and send arrows into the air in honor
-
-of Ramses. The staff officers discount, and rush to kiss the hands and
-
-feet of the viceroy; at last they take him from the saddle, raise him
-
-in the air, shouting,
-
-"Here is a mighty leader! He has trampled the enemies of Egypt! Amon is
-
-on his right, and on his left, who can oppose him?"
-
-Meanwhile the Libyans, pushing back all the time, had ascended the
-
-sandy hills on the south, and after them Egyptians. From out the cloud
-
-came horsemen every minute and rushed to Ramses.
-
-"Mentezufis has taken them in the rear!" cried one.
-
-"Two hundred have surrendered!" cried another.
-
-"Patrokles has taken them in the rear!"
-
-"Three Libyan standards are captured: the ram, the lion, and the
-
-sparrow-hawk!"
-
-More and more men gathered round the staff: it was surrounded by
-
-warriors who were bloody and dust-covered.
-
-"May he live through eternity! May he live through eternity, our
-
-leader!"
-
-The prince was so excited, that he laughed and cried in turn and said
-
-to his retinue,
-
-"The gods have been compassionate. I feared that we had lost. Evil is
-
-the plight of a leader; without drawing a sword and even without
-
-seeing, he must answer for everything!"
-
-"Live thou, O conquering commander, live through eternity!" cried the
-
-warriors.
-
-"A fine victory for me!" laughed Ramses. "I do not know even how they
-
-won it."
-
-"He wins a victory, and wonders how it came!" cried some one in the
-
-retinue.
-
-"I say that I saw not the face of the battle," explained the prince.
-
-"Be at rest, our commander," said Pentuer. "Thou didst dispose the army
-
-so wisely that the enemy had to be beaten. And in what way? Just as if
-
-that did not belong to thee, but the regiments."
-
-"I did not even draw a sword. I do not see one Libyan," complained the
-
-prince.
-
-On the southern heights there was a struggling and a seething, but in
-
-the valley the dust had begun to settle here and there, and a crowd of
-
-Egyptian soldiers were visible as through a mist, their spears pointed
-
-upward.
-
-Ramses turned his horse in that direction and rode out to the deserted
-
-field of battle, where just recently had been the struggle of the
-
-central column. It was a place some hundreds of yards in width, with
-
-deep furrows filled with bodies of the dead and wounded. On the side
-
-along which the prince was approaching, Egyptians and Libyans lay
-
-intermixed, in a long line, still farther on there were almost none
-
-except Libyans.
-
-In places bodies lay close to bodies; sometimes on one spot three or
-
-four were piled one on another. The sand was stained with brownish
-
-blood patches; the wounds were ghastly. Both hands were cut from one
-
-man, another had his head split to the body, from a third man, the
-
-entrails were dropping. Some were howling in convulsions, and from
-
-their mouths, filled with sand, came forth curses, or prayers imploring
-
-some one to slay them.
-
-Ramses passed along hastily, not looking around, though some of the
-
-wounded men shouted feebly in his honor.
-
-Not far from that place he met the first crowd of prisoners. They fell
-
-on their faces before him and begged for compassion.
-
-"Proclaim pardon to the conquered and the obedient," said he to his
-
-staff.
-
-A number of horsemen rushed off in various directions. Soon a trumpet
-
-was heard, and after it a piercing voice,
-
-"By the order of his worthiness the prince in command, prisoners and
-
-wounded are not to be slain!"
-
-In answer came wild shouts, evidently from prisoners.
-
-"At command of the prince," a second voice cried in singing tones in
-
-another direction, "prisoners and wounded are not to be slain!"
-
-Meanwhile on the southern heights the battle ceased and two of the
-
-largest Libyan divisions laid down their arms before the Greek
-
-regiments.
-
-The valiant Patrokles, in consequence of the heat, as he said himself
-
-of ardent drink, as thought others barely held himself in the saddle.
-
-He rubbed his tearful eyes, and turned to the prisoners.
-
-"Mangy dogs!" cried he, "who raise sinful hands on the army of his
-
-holiness (may the worms devour you)! Ye will perish like lice under the
-
-nail of a pious Egyptian, if ye do not tell this minute where your
-
-leader is, may leprosy eat off his nose and drink his blear eyes out!"
-
-At that moment the prince appeared. The general greeted him with
-
-respect, but did not stop his investigation.
-
-"I will have belts cut from your bodies! I will impale you on stakes,
-
-if I do not learn this minute where that poisonous reptile is, that son
-
-of a wild boar."
-
-"Ei! where our leader is?" cried one of the Libyans, pointing to a
-
-little crowd on horseback which was advancing slowly in the depth of
-
-the desert.
-
-"What is that?" inquired the prince.
-
-"The wretch Musawasa is fleeing!" said Patrokles, and he almost fell to
-
-the ground.
-
-The blood rushed to Ramses' head.
-
-Then Musawasa was here and escaped?
-
-"Hei! whoso has the best horse, follow me!"
-
-"Well," said Patrokles, laughing, "that sheep-stealer himself will
-
-bleat now!"
-
-Pentuer stopped the way to the prince.
-
-"It is not for thee to hunt fugitives, worthiness."
-
-"What?" cried the heir. "During this whole battle I did not raise a
-
-hand on any man, and now I am to give up the Libyan leader? What would
-
-be said by the warriors whom I have sent out under spears and axes?"
-
-"The army cannot remain without a leader."
-
-"But are not Patrokles, Tutmosis, and finally Mentezufis, here? For
-
-what purpose am I commander if I cannot hunt the enemy? They are a few
-
-hundred yards from us and have tired horses."
-
-"We will come back in an hour with him. He is only an arm's length from
-
-us!" whispered some Asiatic.
-
-"Patrokles, Tutmosis, I leave the army to you!" cried the heir. "Rest.
-
-I will come back immediately."
-
-He put spurs to his horse and advanced at a trot, sinking in the sand,
-
-and behind him about twenty horsemen, with Pentuer.
-
-"Why art Thou here, O prophet?" asked Ramses. "Better sleep today Thou
-
-hast rendered good service."
-
-"I may be of use yet," added Pentuer.
-
-"But remain I command thee!"
-
-"The supreme council commands me not to go one step from thee,
-
-worthiness."
-
-Ramses shook himself angrily.
-
-"But if we fall into an ambush?"
-
-"I will not leave thee in ambush," answered the priest.
+— I tam nie opuszczę cię, panie — rzekł kapłan.

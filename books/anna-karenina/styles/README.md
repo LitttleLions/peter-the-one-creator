@@ -7,8 +7,8 @@ Output-Ordner verwendet.
 Beispiel:
 
 ```text
-books/anna-karenina/styles/stil-01-original.md
-books/anna-karenina/work/scenes/de/stil-01-original/001/scene-01.md
+books/peter-i-buch-01/styles/stil-03-branderson.md
+books/peter-i-buch-01/work/scenes/de/stil-03-branderson/003/scene-05.md
 ```
 
 Die Dateien duerfen fuer Experimente frei gekuerzt, kopiert und angepasst

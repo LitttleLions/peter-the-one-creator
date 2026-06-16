@@ -1,889 +1,254 @@
-# Kapitel 28: CHAPTER XXVIII
+# Kapitel 028: Tom II - Rozdział III
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part34.xhtml*
 
 <!-- status: pending -->
 
-WHEN the priests and the heir to the throne returned to the courtyard
+Kiedy wieczorem kapłani i następca wrócili na dziedziniec, zapalono kilkaset pochodni tak jasnych, że było widno jak w dzień.
 
-in the evening, several hundred torches were gleaming so brightly that
+Na znak Mefresa znowu wystąpiła procesja muzykantów, tancerek i młodszych kapłanów z posągiem bogini Hator z krowią głową. A gdy odpędzono złe duchy, Pentuer znowu zaczął kazanie.
 
-it was as clear there as in the daytime.
+— Widzieliście, dostojnicy, że od czasów dziewiętnastej dynastii ubyło nam sto tysięcy miar ziemi i dwa miliony ludności. To wyjaśnia, dlaczego dochód państwa zmniejszył się o trzydzieści dwa tysiące talentów, i o tym wiemy wszyscy. Jest to przecie dopiero początek klęsk Egiptu i skarbu. Na pozór bowiem zostało jego świątobliwości jeszcze dziewięćdziesiąt osiem tysięcy talentów dochodu. Czy jednak sądzicie, że faraon otrzymuje cały ten dochód?
 
-At a sign from Mefres there came out again a procession of musicians,
+Za przykład opowiem wam, co jego dostojność Herhor odkrył w powiecie Zajęczym.
 
-dancers, and minor priests carrying a statue of the cow-headed Hator;
+Za dziewiętnastej dynastii mieszkało tam dwadzieścia tysięcy ludzi, którzy płacili podatku trzysta pięćdziesiąt talentów rocznie. Dziś mieszka zaledwie piętnaście tysięcy, i ci, naturalnie, płacą na rzecz skarbu tylko dwieście siedemdziesiąt talentów. Tymczasem faraon, zamiast dwustu siedemdziesięciu, otrzymuje sto siedemdziesiąt talentów!...
 
-and when they had driven away evil sprits, Pentuer began to explain
+— Dlaczego?... — spytał dostojny Herhor — a oto, co pokazało śledztwo.
 
-again.
+Za dziewiętnastej dynastii było w powiecie około stu urzędników i ci brali po tysiąc drachm rocznej pensji. Dziś na tym samym terytorium, pomimo ubytku ludności, znajduje się przeszło dwustu urzędników, którzy biorą po dwa tysiące pięćset drachm na rok.
 
-"Ye see, worthy fathers," said he, "that since the time of the
+Jego dostojności Herhorowi nie wiadomo, czy tak jest w każdym powiecie. To przecież pewne, że skarb faraona, zamiast dziewięćdziesięciu ośmiu, ma tylko siedemdziesiąt cztery tysiące talentów rocznie...
 
-nineteenth dynasty a hundred thousand measures of land and two million
+— Powiedz, ojcze święty: pięćdziesiąt tysięcy... — wtrącił Ramzes.
 
-people have vanished out of Egypt. This explains why the income of the
+— I to objaśnię — odparł kapłan. — W każdym razie zapamiętaj, książę, iż skarb faraona oddaje dziś dwadzieścia cztery tysiące talentów urzędnikom, gdy za dynastii dziewiętnastej wydawał tylko dziesięć tysięcy.
 
-state has decreased thirty-two thousand talents; that it has decreased
+Wielkie milczenie panowało wśród dostojników: niejeden bowiem miał krewnego na urzędzie, w dodatku dobrze płatnym.
 
-is known to all of us.
+Ale Pentuer był nieustraszony.
 
-"But this is only the beginning of misfortunes to the state and the
+— Teraz — mówił — pokażę ci, następco, byt urzędników i dolę ludu za dawnych lat i dzisiaj.
 
-treasury. Ninety-eight thousand talents of income apparently remain to
+— Czy nie szkoda czasu?... To przecie każdy sam może zobaczyć... — zaszemrali kapłani.
 
-his holiness. But do ye think that the pharaoh receives all this
+— Ja chcę to wiedzieć — rzekł stanowczo następca.
 
-income?
+Szmer ucichł. Pentuer po stopniach amfiteatru zeszedł na dziedziniec, a za nim książę, arcykapłan Mefres i reszta kapłanów.
 
-"I will tell you what his worthiness Herhor discovered in the province
+Zatrzymali się przed długą zasłoną z mat, która tworzyła jakby parkan. Na znak Pentuera przybiegło kilkunastu młodych kapłanów z jarzącymi pochodniami. Drugi znak — i część zasłony spadła.
 
-of the Hare.
+Z ust obecnych wyrwał się okrzyk zdziwienia. Mieli przed sobą jasno oświetlony żywy obraz, do którego wchodziło około stu figurantów.
 
-"During the nineteenth dynasty twenty thousand people dwelt in that
+Obraz dzielił się na trzy kondygnacje: dolną, gdzie stali rolnicy, wyższą — urzędnicy, i najwyższą, gdzie znajdował się złoty tron faraona oparty na dwu lwach, których głowy były poręczami.
 
-province; they paid three hundred and fifty talents of yearly taxes. To
+— Tak było — mówił Pentuer — za dynastii dziewiętnastej. Spojrzyjcie na rolników. Przy ich pługach widzicie woły lub osły, ich motyki i łopaty są brązowe, a więc mocne. Patrzcie, jacy to tędzy ludzie! Dziś podobnych można spotkać tylko w gwardii jego świątobliwości. Potężne ręce i nogi, piersi wypukłe, twarze uśmiechnięte. Wszyscy są namaszczeni oliwą, wykąpani. Ich żony zajmują się przygotowywaniem pokarmu i odzieży lub myciem sprzętów dla rodziny; dzieci — bawią się lub chodzą do szkoły.
 
-day there are hardly fifteen thousand, and these, of course, pay the
+Ówczesny chłop, jak widzicie, jadał chleb pszenny, bób, mięso, ryby i owoce, a pijał piwo i wino. Spojrzyjcie, jak piękne były dzbany i misy! Przypatrzcie się czepkom, fartuszkom i pelerynom mężczyzn: wszystko ozdobione różnokolorowym haftem. Jeszcze piękniej haftowano koszule kobiet... A czy uważacie, jak one starannie czesały się, jakie nosiły szpilki, zausznice, pierścienie i bransolety? Ozdoby te są robione z brązu i kolorowej emalii; trafia się jednak między nimi i złoto, choćby w postaci drucika.
 
-treasury only two hundred and seventy talents. Meanwhile the pharaoh,
+Podnieście teraz oczy wyżej, na urzędników. Chodzą oni w pelerynach, ale każdy chłop w dniu świątecznym przywdziewał taką samą. Żywią się zupełnie tak samo jak chłopi, to jest dostatnio, ale skromnie. Sprzęty mają trochę ozdobniejsze od chłopskich i częściej trafiają się w ich skrzyniach złote pierścienie. Podróże odbywają na osłach lub wozach ciągnionych przez woły.
 
-instead of receiving two hundred and seventy talents, receives one
+Pentuer klasnął i w żywym obrazie zapanował ruch. Chłopi zaczęli podawać urzędnikom kosze winogron, wory jęczmienia, grochu i pszenicy, dzbany wina, piwa, mleka i miodu, mnóstwo zwierzyny i liczne sztuki białych lub kolorowych tkanin. Urzędnicy odebrali te produkta, część ich zostawiali sobie, ale przedmioty najpiękniejsze i najkosztowniejsze odsunęli wyżej, dla tronu. Platforma, gdzie znajdował się symbol władzy faraona, była zasypana produktami tworzącymi jakby pagórek.
 
-hundred and seventy.
+— Widzicie, dostojni — rzekł Pentuer — że w owych czasach, kiedy chłopi byli syci i zamożni, skarb jego świątobliwości ledwo mógł pomieścić dary poddanych. A teraz zobaczcie: co jest dzisiaj...
 
-"'Why is that?' inquired Herhor; and this is what an investigation
+Nowe hasło, spadła druga część zasłony i ukazał się drugi obraz, w ogólnych zarysach podobny do poprzedniego.
 
-discovered: During the nineteenth dynasty there were in the district
+— Oto są teraźniejsi chłopi — mówił Pentuer, a w głosie jego czuć było wzburzenie. — Ciało ich składa się ze skóry i kości, wyglądają jak chorzy, są brudni i już zapomnieli namaszczać się oliwą. Za to grzbiety ich są poranione kijami.
 
-about one hundred officials, and these received each one thousand
+Nie widać przy nich wołów ani osłów, bo i na co, jeżeli pług ich ciągnie żona i dzieci?... Ich motyki i łopaty są drewniane, co łatwo psuje się i powiększa pracę. Odzieży nie mają żadnej, tylko kobiety chodzą w grubych koszulach i nawet we śnie nie widują tych haftów, jakimi stroili się ich dziadowie i babki.
 
-drachmas yearly salary. Today in that same district, though the people
+Spojrzyjcie, co jada chłop. Czasem jęczmień i suszone ryby, zawsze ziarna lotosu, rzadko pszenny placek, nigdy mięsa, piwa lub wina. Spytacie: gdzie podziały się jego naczynia i sprzęty? Nie ma żadnych prócz dzbanka na wodę, bo też i nic więcej nie zmieściłoby się w norze, którą zamieszkuje...
 
-have decreased, there are more than two hundred officials who receive
+Przebaczcie mi to, na co teraz zwrócę waszą uwagę. Tam kilkoro dzieci leżą na ziemi: oznacza to, że pomarły... Dziwna rzecz, jak często teraz umierają chłopskie dzieci — z głodu i pracy! I te są jeszcze najszczęśliwsze: inne bowiem, które zostały przy życiu, idą pod kij dozorcy albo sprzedają się Fenicjanom niby jagnięta...
 
-two thousand five hundred drachmas yearly.
+Wzruszenie zatamowało mu głos. Lecz chwilę odpoczął i ciągnął dalej, wśród gniewnego milczenia kapłanów:
 
-"It is unknown to his worthiness Herhor if this is the case in every
+— A teraz spojrzyjcie na urzędników: jacy oni czerstwi, uróżowani, jak pięknie ubrani!... Żony ich noszą złote bransolety i zausznice, i tak cienkie szaty, że książęta mogliby im pozazdrościć. Wśród chłopów nie widać wołu ani osła; za to urzędnicy podróżują na koniach albo w lektykach... Piją zaś tylko wino, i to — dobre wino!...
 
-district. But this much is certain, that the treasury of the pharaoh,
+Klasnął w ręce i znowu zrobił się ruch. Chłopi zaczęli podawać urzędnikom: wory zboża, kosze owoców, wino, zwierzęta... Przedmioty te urzędnicy jak pierwej ustawiali obok tronu, ale — w ilości znacznie mniejszej. Na kondygnacji królewskiej już nie było pagórka produktów. Za to kondygnacja urzędników była zasypana.
 
-instead of ninety-eight thousand talents annually, has only seventy-
+— Oto jest Egipt dzisiejszy — mówił Pentuer. — Nędzni chłopi, bogaci pisarze, skarb nie tak pełny jak dawniej. A teraz...
 
-four thousand."
+Dał znak i stała się rzecz nieoczekiwana. Jakieś ręce poczęły zabierać: zboże, owoce, tkaniny z platformy faraona i urzędników. A gdy ilość towarów bardzo zmniejszyła się, te same ręce zaczęły chwytać i uprowadzać chłopów, ich żony i dzieci...
 
-"Say, worthy father, fifty thousand," interrupted Ramses.
+Widzowie ze zdumieniem patrzyli na szczególne zabiegi tajemniczych osób. Nagle ktoś zawołał:
 
-"I will explain that too," replied Pentuer. "In every case remember,
+— To Fenicjanie!... Oni nas tak obdzierają!...
 
-prince, that the pharaoh's treasury pays today twenty-four thousand
+— Tak jest, święci ojcowie — rzekł Pentuer. — To są ręce ukrytych między nami Fenicjan. Obdzierają oni króla i pisarzy, a chłopów zabierają w niewolę, gdyż im już nic wydrzeć nie można...
 
-talents to officials, while it gave only ten thousand during the
+— Tak!... To szakale!... Przekleństwo im!... Wygnać nędzników!... — wołali kapłani. — Oni to najwięcej szkód wyrządzają państwu...
 
-nineteenth dynasty."
+Nie wszyscy jednak wołali w ten sposób.
 
-Deep silence reigned among the dignitaries, for more than one of them
+Gdy ucichło, Pentuer kazał zanieść pochodnie w inną stronę dziedzińca i tam zaprowadził swoich słuchaczy. Nie było tu żywych obrazów, ale jakby wystawa przemysłowa.
 
-had a relative in office, well paid moreover. But Pentuer was
+— Raczcie spojrzeć, dostojni — mówił. — Za dziewiętnastej dynastii te rzeczy przysyłali nam cudzoziemcy: z kraju Punt mieliśmy wonności, z Syrii złoto, żelazną broń i wozy wojenne. Oto wszystko.
 
-unterrified.
+Lecz wówczas Egipt wyrabiał... Spojrzyjcie na te olbrzymie dzbany: ile tu kształtów, a jakie rozmaite kolory!...
 
-"Now," continued he, "I will show thee, O heir, the manner of life
+Albo sprzęty: to krzesełko wyłożone jest dziesięcioma tysiącami kawałków złota, perłowej masy i kolorowych drzew... Zobaczcie ówczesne szaty: jaki haft, jaka delikatność tkanin, ile kolorów... A miecze brązowe, a szpilki, bransolety, zausznice, a narzędzia rolnicze i rzemieślnicze... Wszystko to robione u nas, za dziewiętnastej dynastii.
 
-among officials, and the lot of common people in those old times and in
+Przeszedł do następnej grupy przedmiotów.
 
-our day."
+— A dziś — patrzcie. Dzbany są małe i prawie bez ozdób, sprzęty proste, tkaniny grube i jednostajne. Ani jeden z tegoczesnych wyrobów nie może równać się pod względem rozmiarów, trwałości czy piękności z dawnymi. Dlaczego?...
 
-"Will it not take too much time? Besides, every man can see for
+Posunął się znowu kilka kroków i otoczony pochodniami mówił:
 
-himself," murmured the priests, very promptly.
+— Oto jest wielka liczba towarów, które nam przywożą Fenicjanie z rozmaitych okolic świata. Kilkadziesiąt pachnideł, kolorowe szkła, sprzęty, naczynia, tkaniny, wozy, ozdoby, wszystko to przychodzi do nas z Azji i jest przez nas kupowane.
 
-"I wish to know this," said the prince, with decision.
+Czy rozumiecie teraz, dostojnicy: za co Fenicjanie wydzierali zboże, owoce i bydło pisarzom i faraonowi?... Za te właśnie obce wyroby, które zniszczyły naszych rzemieślników jak szarańcza trawę.
 
-The murmur ceased. Pentuer went down along the steps of the
+Kapłan odpoczął i ciągnął dalej:
 
-amphitheatre to the court, and after him went the prince, the high
+— Pomiędzy towarami dostarczanymi przez Fenicjan jego świątobliwości, nomarchom i pisarzom pierwsze miejsce zajmuje złoto. Ten rodzaj handlu jest najdokładniejszym obrazem klęsk, jakie ci Azjaci wyrządzają Egiptowi.
 
-priests, Mefres and the others.
+Gdy kto bierze od nich złota za talent, obowiązany jest po trzech latach zwrócić dwa talenty. Najczęściej jednak Fenicjanie, pod pozorem umniejszenia kłopotów dłużnikowi, sami wyręczają go w wypłacie w ten sposób, że dłużnik, za każdy talent pożyczony, oddaje im w dzierżawę, na trzy lata, trzydziestu dwu ludzi i dwie miary ziemi...
 
-They halted before a long curtain of mats, forming as it were a
+Spojrzyjcie tam, dostojni — mówił, wskazując na lepiej oświetloną część dziedzińca. — Ten kwadrat ziemi, mający sto osiemdziesiąt kroków długości i tyleż szerokości, znaczy dwie miary; ta zaś gromada mężczyzn, kobiet i dzieci tworzy osiem rodzin. Wszystko to zaś razem: ludzie i grunt, idą na trzy lata w okropną niewolę. Przez ten czas ich właściciel — faraon czy nomarcha, nie ma z nich żadnego pożytku; po upływie zaś terminu odbiera ziemię wyjałowioną, a ludzi... najwyżej dwudziestu... Reszta bowiem zmarła w męczarniach!...
 
-palisade. At a sign from Pentuer some tens of minor priests hastened up
+Obecni szemrali ze zgrozy.
 
-with blazing torches. Another sign, and a portion of the curtain fell.
+— Powiedziałem, że dwie miary gruntu i trzydziestu dwu ludzi bierze Fenicjanin na trzy lat dzierżawy, za pożyczenie jednego talentu złotem. Przypatrzcie się, jaki to kawał ziemi i jaka gromada ludzi, a teraz — spojrzyjcie na moją rękę...
 
-From the lips of those present came a shout of admiration. They had
+Ten kawałek złota, który trzymam, ta bryłka mniejsza od kurzego jaja to talent!...
 
-before them a brightly illuminated tableau in which about one hundred
+Czy wy oceniacie, dostojni, całą nikczemność Fenicjan w podobnym handlu? Ten mały kawałek złota naprawdę nie posiada żadnych cennych zalet: jest żółty, ciężki, nie śniedzieje i — na tym koniec. Ale człowiek nie odzieje się złotem i nie zaspokoi nim głodu ani pragnienia... Gdybym posiadał bryłę złota wielkości piramidy, będę obok niej takim nędzarzem jak Libijczyk błąkający się po zachodniej pustyni, gdzie nie ma daktyla ani wody.
 
-persons were the characters.
+I patrzcie, za bryłkę tego jałowego materiału Fenicjanin bierze kawał ziemi, który może wykarmić i odziać trzydziestu dwu ludzi, a nadto — bierze i tych ludzi!... Przez lat trzy uzyskuje władzę nad istotami, które umieją uprawiać i obsiewać grunta, zbierać ziarno, robić mąkę i piwo, tkać odzież, budować domy i sprzęty...
 
-The tableau was divided into three stories; on the lower story stood
+Jednocześnie faraon czy nomarcha jest pozbawiony na trzy lata usług tych ludzi. Nie płacą mu oni podatku, nie noszą ciężarów za wojskiem, lecz pracują na dochody łakomego Fenicjanina.
 
-earth-tillers, on a higher were officials, and on the highest was the
+Wiecie, dostojnicy, że obecnie nie ma roku, ażeby w tym czy owym nomesie nie wybuchnął bunt chłopów, wyniszczonych głodem, przeciążonych pracą, bitych kijami. I otóż część tych ludzi ginie, inni dostają się do kopalń, a kraj wyludnia się coraz bardziej, dlatego tylko że Fenicjanin dał komuś bryłkę złota!... Czy można wyobrazić sobie większe nieszczęście?... I czy w podobnych warunkach Egipt nie będzie co roku tracił ziemi i ludzi? Szczęśliwe wojny podkopały nasz kraj, ale dobija go fenicki handel złotem.
 
-golden throne of the pharaoh resting on two lions whose heads were the
+Na twarzach kapłanów malowało się zadowolenie: chętniej słuchali o przewrotności Fenicjan aniżeli o zbytkach pisarzy.
 
-arms of the throne.
+Pentuer chwilę odpoczął, potem zwrócił się do księcia.
 
-"It was in this way," said Pentuer, "during the nineteenth dynasty.
+— Od kilku miesięcy — mówił — z niepokojem zapytujesz, sługo boży, Ramzesie: dlaczego zmniejszyły się dochody jego świątobliwości? Mądrość bogów pokazała ci, że zmniejszył się nie tylko skarb, ale i wojsko, i że oba te źródła królewskiej potęgi zmniejszać się będą ciągle. I albo skończy się to na zupełnej ruinie państwa, albo — niebiosa ześlą Egiptowi władcę, który zatrzyma powódź klęsk od kilkuset lat zalewających ojczyznę.
 
-Look at the earth-tillers. At their ploughs ye see sometimes oxen,
+Skarb faraonów był wówczas pełny, gdy mieliśmy dużo ziemi i ludności. Trzeba zatem wydrzeć pustyni te grunta urodzajne, jakie nam pożarła, a z ludu zdjąć te ciężary, które go osłabiają i zmniejszają liczbę mieszkańców.
 
-sometimes asses; their picks, spades, and shovels are bronze, and hence
+Kapłani znowu zaczęli się niepokoić z obawy, aby Pentuer po raz drugi nie wspomniał o klasie pisarzy.
 
-are lasting. See what stalwart men they are! Today one could find such
+— Widziałeś, książę, na własne oczy i przy świadkach, że w tej epoce, gdy lud był syty, dorodny i zadowolony, skarb królewski był pełen. Gdy zaś lud zaczął wyglądać nędznie, gdy jego żony i dzieci musiały zaprzęgnąć się do pługa, gdy ziarna lotosu zastąpiły pszenicę i mięso, skarb — zubożał. Jeżeli więc chcesz doprowadzić państwo do tej potęgi, jaką posiadało przed wojnami dziewiętnastej dynastii, jeżeli pragniesz, aby faraon, jego pisarze i wojsko opływali w dostatki, zapewnij krajowi długoletnią spokojność, a ludowi dobrobyt. Niech znowu dorośli jedzą mięso i ubierają się w haftowane szaty, i niech dzieci, zamiast jęczeć pod plagami i umierać z pracy, bawią się lub chodzą do szkoły.
 
-only in the guard of his holiness. Their hands and feet are strong,
+Pamiętaj wreszcie, że Egipt na piersiach swoich nosi jadowitego węża...
 
-their breasts full, their faces smiling. All are bathed and anointed
+Obecni słuchali z ciekawością i obawą.
 
-with olive oil. Their wives are occupied in preparing food and clothing
+— Tym wężem, który wysysa krew ludu, majątki nomarchów, potęgę faraona, są Fenicjanie!...
 
-or in washing house utensils; the children are at school or are
+— Precz z nimi!... — zawołali obecni. — Przekreślić wszystkie długi... Nie dopuszczać ich kupców i okrętów...
 
-playing.
+Uciszył ich arcykapłan Mefres, który ze łzami w oczach zwrócił się do Pentuera.
 
-"The laborer of that time, as ye see, ate wheaten bread, beans, flesh,
+— Nie mam wątpliwości — mówił — że przez usta twoje odzywała się do nas święta Hator. Nie tylko dlatego, że człowiek nie potrafiłby być tak mądrym i wszystkowiedzącym jak ty, ale jeszcze, że spostrzegłem nad głową twoją płomyki w formie rogów.
 
-fish, and fruit; he drank beer or wine, and see how beautiful were the
+Dziękuję ci za wielkie słowa, którymi rozproszyłeś naszą niewiadomość... Błogosławię cię i proszę bogów, aby — gdy mnie powołają na swój sąd, ciebie mianowali moim następcą...
 
-plates and pitchers. Look at the caps, aprons, and capes of the men:
+Przeciągły okrzyk reszty słuchaczów poparł błogosławieństwo najwyższego dostojnika. Kapłani tym więcej byli zadowoleni, że nieustannie wisiała nad nimi trwoga, aby Pentuer po raz drugi nie zaczepił o kwestię pisarzy. Ale mędrzec umiał być powściągliwym: wskazał wewnętrzną ranę państwa, lecz nie zaognił jej i dlatego odniósł zupełny triumf.
 
-all adorned with various-colored needlework. Still more beautifully
+Książę Ramzes nie dziękował Pentuerowi, tylko przytulił jego głowę do swej piersi. Nikt jednak nie wątpił, że kazanie wielkiego proroka wstrząsnęło duszę następcy i jest ziarnem, z którego może wyrosnąć chwała i pomyślność Egiptu.
 
-embroidered were the skirts of women. And note how carefully they
+Nazajutrz Pentuer, nie żegnając się, o wschodzie słońca opuścił świątynię i odjechał do Memfis.
 
-combed their hair, what brooches, earrings, and bracelets they had.
+Ramzes przez kilka dni z nikim nie rozmawiał: siedział w celi albo przechadzał się po cienistych korytarzach i rozmyślał. W jego duszy odbywała się praca.
 
-Those ornaments were made of bronze and colored enamel; even gold was
+W gruncie rzeczy Pentuer nie powiedział nic nowego: wszyscy narzekali na ubytek ziemi i ludności w Egipcie, na nędzę chłopów, nadużycia pisarzów i wyzysk Fenicjan. Ale kazanie proroka uporządkowało w nim dotychczasowe bezładne wiadomości, nadało dotykalne formy i lepiej oświetliło pewne fakta
 
-found among them, though only in the form of wire.
+Fenicjanie przerazili go: książę nie oceniał dotychczas ogromu nieszczęść wyrządzonych przez ten naród jego państwu. Zgroza była tym silniejszą, że przecie on sam własnych poddanych wypuścił w dzierżawę Dagonowi i — był świadkiem, w jaki sposób bankier wybierał od nich należności!...
 
-"Raise now your eyes to officials. They wore mantles, but every laborer
+Lecz to splątanie księcia z wyzyskiem Fenicjan wywołało dziwny skutek: Ramzes — nie chciał myśleć o Fenicjanach, a ile razy zapalił się w nim gniew na tych ludzi, tyle razy gasiło go uczucie wstydu. W pewnej części był on ich wspólnikiem.
 
-wore just such a dress on holidays. They lived exactly as did laborers,
+Natomiast książę doskonale zrozumiał ważność ubytku ziemi i ludności i na te punkta położył główny nacisk w swych samotnych medytacjach.
 
-that is, in sufficiency, but modestly. Their furniture was ornamented
+„Gdybyśmy posiadali — mówił w sobie — te dwa miliony ludzi, których Egipt utracił, można by za ich pomocą odzyskać od pustyni urodzajne grunta, nawet powiększyć obszary... A wówczas, pomimo Fenicjan, nasi chłopi mieliby się lepiej, a dochody państwa wzrosłyby...”
 
-somewhat more than that of laborers, and gold rings were found oftener
+Ale skąd wziąć ludzi?
 
-in their caskets. They made journeys on asses, or in cars drawn by
+Wypadek nasunął mu odpowiedź. Pewnego wieczora książę przechadzając się po ogrodach świątyni spotkał gromadę niewolników, których jenerał Nitager pochwycił na granicy wschodniej i przysłał bogini Hator. Ludzie ci byli doskonale zbudowani, pracowali więcej niż Egipcjanie, a ponieważ ich karmiono dobrze, więc byli nawet zadowoleni ze swego losu.
 
-oxen."
+Na ich widok błyskawica oświeciła umysł następcy: prawie utracił przytomność ze wzruszenia. Egipt potrzebuje ludzi, dużo ludzi, setki tysięcy, a nawet milion i dwa miliony ludzi... I otóż ludzie są!... Trzeba tylko wkroczyć do Azji, zabierać wszystko, co się spotka na drodze i — odsyłać do Egiptu... Dopóty zaś nie kończyć wojny, dopóki nie zbierze się tylu, ażeby każdy chłop egipski miał swego niewolnika...
 
-Pentuer clapped his hands and on the stage there was movement. The
+Tak urodził się plan prosty i kolosalny, dzięki któremu państwo miało pozyskać ludność, chłopi pomocników w pracy, a skarb faraona niewyczerpane źródło dochodu.
 
-laborers gave the officials baskets of grapes, bags of barley, peas and
+Książę był zachwycony, choć następnego dnia zbudziła się w nim nowa wątpliwość.
 
-wheat, jugs of wine, beer, milk and honey, game and stuffs, many pieces
+Pentuer z wielkim naciskiem głosił, a jeszcze dawniej Herhor twierdził to samo, że źródłem nieszczęść Egiptu były — zwycięskie wojny.
 
-white or colored. The officials took these products, kept a portion for
+Z czego wypadłoby, że za pomocą nowej wojny nie można podźwignąć Egiptu.
 
-themselves, but the choicest and most costly they put up higher, for
+„Pentuer jest wielki mędrzec i Herhor wielki mędrzec — myślał książę. — Jeżeli oni uważają wojnę za szkodliwą, jeżeli tak samo sądzi arcykapłan Mefres i inni kapłani, to może naprawdę wojna jest rzeczą niebezpieczną?...
 
-the throne. The platform where stood the symbol of the pharaoh's power
+I musi nią być, skoro tak utrzymuje tylu ludzi mądrych i świętych?”
 
-was covered with products which formed as it were a small mountain.
+Książę był głęboko strapiony. Wymyślił prosty sposób podźwignięcia Egiptu, a tymczasem kapłani utrzymywali, że właśnie to mogłoby do reszty zrujnować Egipt.
 
-"Ye see, worthy men," said Pentuer, "that in those times, when earth-
+Kapłani, ludzie najmędrsi i najświętsi!
 
-tillers were satisfied and wealthy, the treasury of his holiness could
+Lecz trafił się wypadek, który nieco ochłodził wiarę księcia w prawdomówność kapłanów, a raczej — rozbudził w nim dawniejszą do nich nieufność.
 
-hardly find place for the gifts of his subjects. But see what is
+Raz szedł z jednym lekarzem do biblioteki. Droga wypadała przez ciasny i ciemny korytarz, z którego następca cofnął się ze wstrętem.
 
-happening in our day."
+— Nie pójdę tędy!... — rzekł.
 
-At a new signal a second part of the curtain fell, and another tableau
+— Dlaczego?... — spytał zdziwiony lekarz.
 
-appeared, similar to the preceding in general outline.
+— Czyliż nie pamiętacie, ojcze święty, że na końcu tego korytarza jest loch, w którym okrutnie zamęczyliście jakiegoś zdrajcę?...
 
-"Here are our laborers of the present," said Pentuer, and in his voice
+— Aha!... — odparł lekarz. — Jest tu loch, do którego przed kazaniem Pentuera wlewaliśmy roztopioną smołę...
 
-indignation was evident. "Their bodies are skin and bones, they look
+— I zabiliście człowieka...
 
-like sick persons, they are filthy and have forgotten to anoint
+Lekarz uśmiechnął się. Był to człowiek dobry i wesoły. Toteż widząc oburzenie księcia, rzekł po pewnym namyśle:
 
-themselves with olive oil, but their backs are wounded from beating.
+— Tak, nie wolno nikomu zdradzać świętych tajemnic... Rozumie się... Przed każdą większą uroczystością przypominamy to młodym kandydatom na kapłanów...
 
-"Neither oxen nor asses are near them, for what need is there of those
+Ton jego był tak szczególny, że Ramzes zażądał objaśnień.
 
-beasts if ploughs are drawn by women and children? Picks and shovels
+— Nie mogę zdradzać tajemnic — odparł lekarz — ale... Ale jeżeli wasza dostojność przyrzekniesz zachować to przy sobie, opowiem ci historię...
 
-are wooden, they spoil easily and that increases men's labor. They have
+Ramzes przyrzekł, lekarz opowiedział:
 
-no clothes whatever; only women wear coarse shirts, and not even in a
+— Pewien kapłan egipski, zwiedzając świątynie pogańskiego kraju Aram, przy jednej z nich spotkał człowieka, który wydał mu się bardzo tłustym i zadowolonym, choć nosił nędzne szaty.
 
-dream do they look at embroidery, though their grandfathers and
+„Wytłumacz mi — spytał kapłan wesołego biedaka — czym się to dzieje, że choć jesteś ubogi, jednak ciało twoje wygląda, jakbyś był przełożonym świątyni?”
 
-grandmothers wore it."
+Zaś ów człowiek obejrzawszy się, czy go kto nie podsłuchuje, odparł:
 
-"Look now at the food of the earth-tillers. At times barley and dried
+„Bo ja mam wielce żałosny głos, więc jestem przy tej świątyni męczennikiem. Gdy lud zejdzie się na nabożeństwo, ja włażę do lochu i jęczę, o ile mi sił starczy; za co dają mi wcale obfite jedzenie przez cały rok, a dzban piwa za każdy dzień męczeństwa.”
 
-fish, lotus seed always, rarely a wheat cake, never flesh, beer, or
+Tak bywa w pogańskim kraju Aram — zakończył lekarz, kładąc palec na usta. — Pamiętaj, książę, coś mi obiecał i myśl o naszej smole roztopionej, co ci się podoba...
 
-wine.
+Opowiadanie to znowu poruszyło księcia. Czuł pewną ulgę, że w świątyni nie zamordowano człowieka, lecz i ocknęły się w nim wszystkie dawne podejrzenia do kapłanów.
 
-"Ask them where their utensils and furniture are. They have none,
+Że oni łudzą prostaków, o tym wiedział. Pamiętał przecie, będąc w kapłańskiej szkole, procesję świętego wołu Apisa. Lud był pewny, że Apis prowadzi kapłanów; tymczasem każdy uczeń wiedział, że boskie zwierzę idzie tam, gdzie chcą kapłani.
 
-unless a pitcher for water; nothing could find room in the dens which
+Któż wie zatem, czy kazanie Pentuera nie było ową procesją Apisa, przeznaczoną dla niego? Tak przecie łatwo nasypać na ziemię fasoli czerwonej i różnokolorowej i również nietrudno ustawić żywe obrazy. O ileż wspanialsze widywał on przedstawienia, choćby walkę Seta z Ozyrysem, do której wchodziło kilkaset osób... A czyliż i w tym wypadku nie oszukiwali kapłani? Miała to być walka bogów, tymczasem prowadzili ją poprzebierani ludzie. Ginął w niej Ozyrys, a tymczasem kapłan udający Ozyrysa był zdrów jak nosorożec. Jakich tam nie pokazywano cudów!... Woda wznosiła się, biły pioruny, ziemia drżała i wyrzucała ogień. I to wszystko było oszukaństwem. Dlaczegóż by więc przedstawienie Pentuera miało być prawdą?
 
-they inhabit.
+Zresztą książę miał silne poszlaki, że chciano go oszukać. Już był oszustwem człowiek jęczący w podziemiach, niby to oblewany smołą przez kapłanów. Ale mniejsza o niego. Ważnym było to, o czym książę przekonał się niejednokrotnie, że Herhor nie chciał wojny. Mefres także nie chciał wojny, a Pentuer był jednego pomocnikiem, drugiego ulubieńcem.
 
-"Pardon me now for that to which I turn your attention: Over there a
+Taka walka toczyła się w księciu: to zdawało mu się, że wszystko rozumie, to znowu ogarniała go ciemność; raz był pełen nadziei, drugi raz wątpił o wszystkim. Z godziny na godzinę, z dnia na dzień dusza jego przybierała i opadała jak wody Nilu przez ciąg całego roku.
 
-number of children are lying on the ground; that means that they are
+Powoli jednak Ramzes odzyskał równowagę, a gdy nadszedł czas opuszczenia świątyni, miał już sformułowane pewne poglądy.
 
-dead. It is wonderful how many children of laborers die from toil and
+Przede wszystkim jasno pojmował, czego potrzeba Egiptowi: więcej gruntów i więcej ludzi.
 
-hunger. And those that die are the happiest, for they who survive go
+Po wtóre wierzył, że najprostszym sposobem zdobycia ludzi jest — wojna z Azją. Pentuer jednak dowodził mu, że wojna może tylko powiększyć klęski państwa. Rodzi się tedy nowa kwestia: czy Pentuer mówił prawdę, czy kłamał?
 
-under the club of the overseer, or are sold to the Phoenician as lambs
+Jeżeli mówił prawdę, pogrążał księcia w rozpaczy: Ramzes bowiem nie widział innego sposobu podźwignięcia państwa, tylko wojnę. Bez wojny Egipt z roku na rok będzie tracił ludność, a skarb faraona będzie powiększał swoje długi. Aż cały ten proces skończy się jakąś okropną katastrofą, może nawet za przyszłego panowania.
 
-to the slaughter."
+A jeżeli Pentuer kłamał? Dlaczego by to robił? Oczywiście namówiony przez Herhora, Mefresa i całe ciało kapłańskie. Z jakiej jednak racji kapłani nie chcieli wojny, co mieli w tym za interes? Przecie każda wojna im i faraonowi największe przynosiła zyski.
 
-Emotion stopped his voice; he rested awhile, and then continued amid
+Czy zresztą kapłani mogli go oszukiwać w sprawie tyle doniosłej? Prawda, że robili tak bardzo często, lecz w wypadkach drobnych, nie zaś kiedy chodziło o przyszłość i byt państwa. Nie można też twierdzić, że oszukiwali zawsze. Są oni przecie sługami bogów i stróżami wielkich tajemnic. W ich świątyniach mieszkają duchy, o czym Ramzes sam się przekonał pierwszej nocy po osiedleniu się w tym miejscu.
 
-the angry silence of the priesthood,
+A jeżeli bóstwa nie pozwalają profanom zbliżać się do swoich ołtarzy, jeżeli tak pilnie czuwają nad świątyniami, dlaczego nie mieliby czuwać nad Egiptem, który jest największą ich świątynią?
 
-"And now look at the officials, how animated they are in rouge, how
+Gdy w kilka dni później Ramzes po uroczystym nabożeństwie, wśród błogosławieństwa kapłanów, opuszczał świątynię Hator, nurtowały w nim dwa pytania:
 
-beautiful their clothes are! Their wives wear gold bracelets and
+Czy wojna z Azją naprawdę mogłaby zaszkodzić Egiptowi?
 
-earrings, and such fine garments that princes might envy them. Among
-
-laborers not an ox or an ass is now visible, but to make up officials
-
-journey on horseback or in litters. They drink only wine, and that of
-
-good quality."
-
-He clapped his hands, and again there was movement. The laborers gave
-
-the officials bags of wheat, baskets of fruit, wine, game. These
-
-objects the officials as before placed near the throne, but in
-
-quantities considerably smaller. On the pharaoh's platform there was no
-
-longer a mountain of products, but the platform of the officials was
-
-covered.
-
-"This is the Egypt of our day," continued Pentuer. "Laborers are in
-
-indigence, scribes are wealthy, the treasury is not so full as it once
-
-was. But now."
-
-He gave a sign, and a thing unexpected took place there before them.
-
-Certain hands seized grain, fruit, stuffs from the platforms of the
-
-pharaoh and the officials; and when the amount of the goods had
-
-decreased greatly, those same hands began to seize and lead away
-
-laborers, their wives and children.
-
-The spectators looked with amazement at the peculiar methods of those
-
-mysterious persons. Suddenly some one cried out,
-
-"Those are Phoenicians! They plunder us in that way."
-
-"That is it, holy fathers," said Pentuer. "Those are the hands of
-
-Phoenicians concealed in the midst of us; they plunder the pharaoh and
-
-the scribes, and lead away laborers captive when there is nothing to
-
-drag from them."
-
-"Yes! They are jackals! A curse on Phoenicians! Expel them, the
-
-wretches!" cried the priests. "It is they who inflict the greatest
-
-damage on Egypt."
-
-Not all, however, shouted in that way.
-
-When there was silence, Pentuer commanded to take the torches to the
-
-other side of the court, and thither he conducted his hearers. There
-
-were no tableaux there, but a kind of industrial exhibition.
-
-"Be pleased to look," said he. "During the nineteenth dynasty
-
-foreigners sent us these things: we received perfumes from Punt; gold,
-
-iron weapons, and chariots of war came from Syria. That is all.
-
-"But Egypt manufactured in those days. Look at these immense pitchers,
-
-how many forms, and what a variety of colors.
-
-"Or the furniture: that armchair was made of ten thousand pieces of
-
-gold, mother-of-pearl, and woods of various hues. Look at the robes of
-
-that period: what embroidery, what delicacy of material, how many
-
-colors! And the bronze swords, the brooches, bracelets, earrings and
-
-implements of tillage and crafts of various descriptions. All these
-
-were made in this country during the nineteenth dynasty."
-
-He passed to the next group of objects.
-
-"But today, look: the pitchers are small and almost without ornament,
-
-the furniture is simple, the stuffs coarse and devoid of variety. Not
-
-one thing made today can we compare as to shape, durability, or beauty
-
-with those of former ages. Why has this happened?"
-
-He advanced a number of steps again, surrounded by torches.
-
-"Here is a great number of things," said he, "which the Phoenicians
-
-bring us from various regions. Some tens of kinds of incense, colored
-
-glass, furniture, vessels, woven stuffs, chariots, ornaments, all these
-
-come from Asia and are bought by us.
-
-"Do ye understand now, worthy fathers, why the Phoenicians tear away
-
-grain, fruit, and cattle from the scribes and the pharaoh? In pay for
-
-those foreign goods which have destroyed our artisans as locusts
-
-destroy vegetation.
-
-"Among things obtained through Phoenicians for his holiness, the
-
-nomarchs, and the scribes, gold has the first place.
-
-"This kind of commerce is the most accurate picture of calamities
-
-inflicted on Egypt by Asia.
-
-"When a man borrows gold to the amount of one talent, he is obliged in
-
-three years to return two talents. But most frequently the Phoenicians,
-
-under pretext of decreasing trouble for the debtor, assure payment in
-
-their own way: that is, debtors for each talent borrowed give them as
-
-tenants for three years two measures of land and thirty-two people.
-
-"See there, worthy fathers," said he, pointing to a part of the court
-
-which was better lighted. "That square of land one hundred and ten
-
-yards in length and as wide signifies two measures; the men, women, and
-
-children of that crowd mean eight families. All that together: people
-
-and land pass for three years into dreadful captivity. During that time
-
-their owner, the pharaoh or a nomarch, has no profit at all from them;
-
-at the end of that term he receives the land back exhausted, and of the
-
-people, twenty in number at the very highest, the rest have died under
-
-torture!"
-
-Those present shuddered with horror.
-
-"I have said that the Phoenician takes two measures of land and thirty-
-
-two people for three years in exchange for one talent. See what a space
-
-of laud and what a crowd of people; look now at my hand.
-
-"This piece of gold which I grasp here, this lump, less than a hen's
-
-egg in size, is a talent.
-
-"Can you estimate the complete insignificance of the Phoenicians in
-
-this commerce? This small lump of gold has no real value: it is yellow,
-
-it is heavy, a man cannot eat it, and that is the end of the matter. A
-
-man does not clothe himself with gold and he cannot stop his hunger or
-
-thirst with it. If he had a lump of gold as big as the pyramid, he
-
-would be as poor at the foot of it as a Libyan wandering through the
-
-western desert where there is neither a date nor a drop of water.
-
-"And see, for a piece of this barren metal a Phoenician takes a piece
-
-of land which suffices to feed and clothe thirty-two people, and
-
-besides that he takes the people. For three years he exercises power
-
-over beings who know how to cultivate land, gather in grain, make flour
-
-and beer, weave garments, build houses, and make furniture.
-
-"At the same time the pharaoh or the nomarch is deprived for three
-
-years of the services of those people. They pay him no tribute, they
-
-carry no burdens for the army, but they toil to give income to the
-
-greedy Phoenician.
-
-"Ye know, worthy fathers, that at present there is not a year during
-
-which in this or that province an insurrection does not break out among
-
-laborers exhausted by hunger, borne down by toil, or beaten with
-
-sticks. And some of those men perish, others are sent to the quarries,
-
-while the country is depopulated more and more for this reason only,
-
-that the Phoenician gave a lump of gold to some land-owner! Is it
-
-possible to imagine greater misery? And is Egypt not to lose land and
-
-people yearly under such conditions? Victorious wars undermined Egypt,
-
-but Phoenician gold-dealers are finishing it."
-
-On the faces of the priests satisfaction was depicted; they were more
-
-willing to hear of the guile of Phoenicians than the excesses of
-
-scribes throughout Egypt.
-
-Pentuer rested awhile, then he turned to the viceroy.
-
-"For some months," said he, "Ramses, O servant of the gods, Thou hast
-
-been inquiring why the income of his holiness is diminished. The wisdom
-
-of the gods has shown thee that not only the treasure has decreased but
-
-also the army, and that both those sources of royal power will decrease
-
-still further. And the end will be utter ruin for this country, unless
-
-heaven sends down a ruler who will stop the inundation of misery which
-
-for some hundreds of years is overwhelming Egypt.
-
-"The treasury of the pharaohs was full when we had more land and
-
-people. We must win back from the desert the fertile lands which it has
-
-swallowed, and remove from the people those burdens which weaken and
-
-kill them."
-
-The priests were alarmed again, lest Pentuer might mention scribes for
-
-the second time.
-
-"Thou hast seen, prince, with thy own eyes and before witnesses, that
-
-in the epoch when people were well nourished, stalwart, and satisfied,
-
-the treasury of the pharaoh was full. But when people began to look
-
-wretched, when they were forced to plough with their wives and
-
-children, when lotus seed took the place of wheat and flesh, the
-
-treasury grew needy. If Thou wish therefore to bring the state to that
-
-power which it had before the wars of the nineteenth dynasty, if Thou
-
-desire that the pharaoh, his scribes, and his army should live in
-
-plenty, assure long peace to the land and prosperity to the people. Let
-
-grown persona eat flesh again and dress in embroidered garments, and
-
-let children, instead of groaning and dying under blows, play, or go to
-
-school.
-
-"Remember, finally, that Egypt bears within its bosom a deadly
-
-serpent."
-
-Those present listened with fear and curiosity.
-
-"That serpent which is sucking at the blood of the people, the property
-
-of the nomarchs, and the power of the pharaoh is the Phoenician!"
-
-"Away with the Phoenicians!" cried the priests. "Blot out all debts to
-
-them. Admit not their ships and merchants."
-
-Silence was enforced by the high priest Mefres, who with tears in his
-
-eyes turned to Pentuer.
-
-"I doubt not," said he, "that the holy Hator is speaking through thy
-
-lips to us. Not only because no man could be so wise and all-knowing as
-
-Thou art, but besides I have seen two flames, as horns, above thy
-
-forehead. I thank thee for the great words with which Thou hast
-
-dispelled our ignorance. I bless thee, and I pray the gods when I am
-
-summoned before them to make thee my advocate."
-
-An unbroken shout from the rest of the assembly supported the blessing
-
-of the highest dignitary. The priests were the better satisfied, since
-
-alarm had hung over them lest Pentuer might refer to the scribes a
-
-second time. But the sage knew how to restrain himself: he indicated
-
-the internal wound of the state, but he did not inflame it, and
-
-therefore his triumph was perfect.
-
-Prince Ramses did not thank Pentuer, he only dropped his head to his
-
-own bosom. No one doubted, however, that the discourse of the prophet
-
-had shaken the soul of the heir, and that it was a seed from which
-
-prosperity and glory might spring up for Egypt.
-
-Next morning Pentuer, without taking farewell of any, left the temple
-
-at sunrise and journeyed away in the direction of Memphis.
-
-For a number of days Prince Ramses held converse with no man, he
-
-meditated; he sat in his cell, or walked up and down the shady
-
-corridors. Work in his soul was progressing.
-
-In reality Pentuer had declared no new truth; all had been complaining
-
-of the decrease of laud and people in Egypt, of the misery of workmen,
-
-the abuses of scribes, and the extortion of Phoenicians. But the
-
-discourse of the prophet had given them tangible forms, and illustrated
-
-facts very clearly.
-
-The Phoenicians terrified the prince; he had not estimated till that
-
-time the enormity of the misfortunes brought on people of Egypt by
-
-those merchants. His horror was all the more vivid, since he had rented
-
-out his own subjects to Dagon, and was himself witness of the way in
-
-which the banker collected his dues from them.
-
-But his entanglement in the business of Phoenicians produced strange
-
-results in Ramses. He did not wish to think of Phoenicians, and
-
-whenever anger flamed up in his mind against those strangers the
-
-feeling of shame was destroyed in him. He was in a certain sense their
-
-confederate. Meanwhile he understood perfectly how serious the decrease
-
-was in land and in people, and on this he placed the main emphasis in
-
-his lonely meditation.
-
-"If we had," said he to himself, "those two millions of people lost by
-
-Egypt, we might through help from them win back those fertile lands
-
-from the desert, we might even extend those lands. And then in spite of
-
-Phoenicians our laborers would be in a better condition, and there
-
-would be also increase in the income of Egypt. But where can we find
-
-men?"
-
-Chance gave the answer.
-
-On a certain evening the prince, while walking through the gardens of
-
-the temple, met a crowd of captives whom Nitager had seized on the
-
-eastern boundary and sent to the goddess Hator. Those people were
-
-perfectly built, they did more work than Egyptians, and they did it
-
-because they were properly nourished, hence even satisfied with their
-
-position.
-
-When he saw them, his mind was cleared as if by a lightning flash. He
-
-almost lost presence of mind from emotion. The country needs men, many
-
-men, hundreds of thousands, even a million, two millions. And here are
-
-men! The only need was to turn to Asia, seize all whom they might meet
-
-on the road, and send them to Egypt. War must continue till so many
-
-were taken that every earth-tiller from the cataract to the sea might
-
-have his own bondman.
-
-Thus rose a plan, colossal and simple, thanks to which Egypt would find
-
-population, the earth-tillers aid in their labor, and the treasury of
-
-the pharaoh an endless source of income.
-
-The prince was enchanted, though next day a new doubt sprang up in him.
-
-Pentuer had announced with great emphasis, while Herhor had asserted
-
-still earlier, that victorious wars were the source of misfortune for
-
-the country. From this it resulted that to raise Egypt by a new war was
-
-impossible.
-
-"Pentuer is a great sage, and so is Herhor," thought Ramses. "If they
-
-consider war harmful, if the high priest Mefres and other priests judge
-
-in the same way, then perhaps war is in fact dangerous. It must be
-
-dangerous, if so many holy and wise men insist thus."
-
-Ramses was deeply disappointed. He had thought out a simple method of
-
-elevating Egypt, but the priests maintained that that was the true way
-
-to ruin it. The priests are most holy, and they are wise men.
-
-But something happened which cooled the faith of the prince somewhat in
-
-the truthful speech of the priests, or rather it roused his previous
-
-distrust of them.
-
-Once he was going with a certain leech to the library. The way lay
-
-through a dark and narrow corridor from which the heir drew back with
-
-repulsion.
-
-"I will not go by this way," said he.
-
-"Why not?" inquired the leech, with astonishment.
-
-"Dost Thou not remember, holy father, that at the end of that corridor
-
-is an opening in which a certain traitor was tortured to death without
-
-pity."
-
-"Aha!" answered the leech. "There is an opening there into which we
-
-poured boiling pitch at command of Pentuer."
-
-"And ye killed a man."
-
-The leech smiled. He was a kindly, gladsome person. So, observing the
-
-indignation of the prince, he said after some meditation,
-
-"It is not permitted to betray temple secrets. Of course, before each
-
-of the greater solemnities, we bring this to the mind of younger
-
-candidates."
-
-His tone was so peculiar that Ramses required explanation.
-
-"I cannot betray secrets," replied the leech; "but promise, worthiness,
-
-to hide a story in thy breast, and I will tell thee one."
-
-Ramses promised. The leech gave this narrative:
-
-"A certain Egyptian priest, while visiting temples in the unbelieving
-
-land of Aram, met at one of them a man who seemed to him in good flesh
-
-and satisfied, though he wore wretched garments. 'Explain to me,' said
-
-the priest to the gladsome poor man, 'how it is that, though Thou art
-
-indigent, thy body looks as though Thou wert chief of this temple.'
-
-"That man looked around then to see if any one were listening, and
-
-answered,
-
-"'I am fat, because my voice is very woeful; hence I am a martyr at
-
-this temple. When people come to service here, I crawl into an opening
-
-and groan with all the strength that is in my body; for this they give
-
-me food abundantly throughout the year, and a large jug of beer every
-
-day when I am tortured.'
-
-"Thus do they manage in the unbelieving land of Aram," said the leech,
-
-as he raised a finger to his lips, and added, "Remember, prince, what
-
-Thou hast promised, and of boiling pitch in this place think whatever
-
-suits thee."
-
-This story roused the prince anew; he felt relief because a man had not
-
-been killed in the temple, but all his earlier distrust of priests
-
-sprang into life again.
-
-That they deluded simple people, he knew. He remembered the priests'
-
-procession with the sacred bull Apis, while he was in their school. The
-
-people were convinced that Apis led the priests, while every student
-
-saw that the divine beast went in whatever direction priests drove him.
-
-Who could tell, therefore, that Pentuer's discourse was not intended
-
-for him, as that procession of Apis for the people? For that matter, it
-
-was easy to put on the ground beans of red or other colors, and also it
-
-was not difficult to arrange tableaux. How much more splendid were
-
-those exhibitions which he had seen, even the struggles of Set with
-
-Osiris, in which a number of hundreds of persons assisted. But in that
-
-case, too, did not the priests deceive people? That was given as a
-
-battle of the gods: meanwhile it was carried on by men in disguise. In
-
-it Osiris perished, but the priest who represented Osiris came out as
-
-sound as a rhinoceros. What wonders did they not exhibit there! Water
-
-rose; there were peals of thunder; the earth trembled and vomited fire.
-
-And that was all deception. Why should the exhibition made by Pentuer
-
-be true? Besides, the prince had discovered strong indications that
-
-they wished to deceive him. The man groaning underground and covered,
-
-as it were, with boiling pitch by the priests was deception. But let
-
-that pass. The prince had convinced himself frequently that Herhor did
-
-not want war; Mefres also did not want it. Pentuer was the assistant of
-
-one of them, and the favorite of the other.
-
-Such a struggle was taking place in the prince that it seemed to him at
-
-one time that he understood everything, at another that he was
-
-surrounded by darkness; now he was full of hope, and now he doubted
-
-everything. From hour to hour, from day to day, his soul rose and fell
-
-like the waters of the Nile in the course of its yearly changes.
-
-Gradually, however, the prince recovered his balance, and when the time
-
-came to leave the temple, he had formulated certain views of the
-
-problem.
-
-First of all, he understood clearly that Egypt needed more land and
-
-more people. Second, he believed that the simplest way to find men was
-
-a war with Asia. But Pentuer had proved to him that war could only
-
-heighten the disaster. A new question rose then, did Pentuer speak the
-
-truth, or was he lying? If he spoke the truth, he plunged the prince in
-
-despair, for Ramses saw no means to raise the state except war. Unless
-
-war were made, Egypt would lose population yearly, and the treasury of
-
-the pharaoh would increase its debts till the whole process would end
-
-in some ghastly overthrow, perhaps even in the reign of the coming
-
-pharaoh.
-
-"But if Pentuer lied? Why should he lie? Evidently because Herhor,
-
-Mefres, and the whole priestly corporation had persuaded him to act
-
-thus.
-
-"But why did priests oppose war? What interests had they in opposing?
-
-Every war brought immense profit to them and the pharaoh.
-
-"But would the priests deceive him in an affair so far reaching? It is
-
-true that they deceived very often, but in small matters, not when it
-
-was a question of the future and the existence of the state. It was not
-
-possible to assert that they deceived always. Besides, they were the
-
-servants of the gods, and the guardians of great secrets." Spirits
-
-resided in their temples; of this Ramses convinced himself on the first
-
-night after he had come to that temple of Hator.
-
-"But if the gods did not permit the uninitiated to approach their
-
-altars, if they watched so carefully over temples, why did they not
-
-watch over Egypt, which is the greatest of all temples?"
-
-When some days later Ramses, after a solemn religious service, left the
-
-temple of Hator amid the blessings of the priests, two questions were
-
-agitating him,
-
-Could war with Asia really harm Egypt? Could the priests in this
-
-question be deceiving him, the heir to the throne?
+Czy kapłani w tej sprawie mogliby oszukiwać jego, następcę faraona?

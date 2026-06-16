@@ -1,0 +1,188 @@
+{
+  "chapter": "002",
+  "style": "stil-02-poetisch",
+  "ru_scenes": 11,
+  "de_scenes": 11,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "002",
+      "scene": 1,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\002\\scene-01.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\002\\scene-01.md",
+      "ru_words": 1507,
+      "de_words": 2042,
+      "findings": []
+    },
+    {
+      "chapter": "002",
+      "scene": 2,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\002\\scene-02.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\002\\scene-02.md",
+      "ru_words": 1477,
+      "de_words": 1913,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "duplicate_heading",
+          "message": "DE-Szene enthaelt doppelte Szenenueberschriften.",
+          "chapter": "002",
+          "scene": 2,
+          "evidence": "",
+          "recommendation": "Vor Export bereinigen oder Export-Cleaner pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    },
+    {
+      "chapter": "002",
+      "scene": 3,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\002\\scene-03.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\002\\scene-03.md",
+      "ru_words": 2454,
+      "de_words": 3229,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "duplicate_heading",
+          "message": "DE-Szene enthaelt doppelte Szenenueberschriften.",
+          "chapter": "002",
+          "scene": 3,
+          "evidence": "",
+          "recommendation": "Vor Export bereinigen oder Export-Cleaner pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    },
+    {
+      "chapter": "002",
+      "scene": 4,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\002\\scene-04.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\002\\scene-04.md",
+      "ru_words": 413,
+      "de_words": 562,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "duplicate_heading",
+          "message": "DE-Szene enthaelt doppelte Szenenueberschriften.",
+          "chapter": "002",
+          "scene": 4,
+          "evidence": "",
+          "recommendation": "Vor Export bereinigen oder Export-Cleaner pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    },
+    {
+      "chapter": "002",
+      "scene": 5,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\002\\scene-05.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\002\\scene-05.md",
+      "ru_words": 882,
+      "de_words": 1091,
+      "findings": []
+    },
+    {
+      "chapter": "002",
+      "scene": 6,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\002\\scene-06.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\002\\scene-06.md",
+      "ru_words": 825,
+      "de_words": 1070,
+      "findings": []
+    },
+    {
+      "chapter": "002",
+      "scene": 7,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\002\\scene-07.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\002\\scene-07.md",
+      "ru_words": 456,
+      "de_words": 589,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "duplicate_heading",
+          "message": "DE-Szene enthaelt doppelte Szenenueberschriften.",
+          "chapter": "002",
+          "scene": 7,
+          "evidence": "",
+          "recommendation": "Vor Export bereinigen oder Export-Cleaner pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    },
+    {
+      "chapter": "002",
+      "scene": 8,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\002\\scene-08.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\002\\scene-08.md",
+      "ru_words": 658,
+      "de_words": 811,
+      "findings": []
+    },
+    {
+      "chapter": "002",
+      "scene": 9,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\002\\scene-09.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\002\\scene-09.md",
+      "ru_words": 486,
+      "de_words": 607,
+      "findings": []
+    },
+    {
+      "chapter": "002",
+      "scene": 10,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\002\\scene-10.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\002\\scene-10.md",
+      "ru_words": 786,
+      "de_words": 1038,
+      "findings": []
+    },
+    {
+      "chapter": "002",
+      "scene": 11,
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\002\\scene-11.md",
+      "de_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\002\\scene-11.md",
+      "ru_words": 1128,
+      "de_words": 777,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "length_ratio",
+          "message": "DE/RU-Wortverhaeltnis ist auffaellig (0.69).",
+          "chapter": "002",
+          "scene": 11,
+          "evidence": "RU=1128, DE=777",
+          "recommendation": "Stichprobenartig gegenlesen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

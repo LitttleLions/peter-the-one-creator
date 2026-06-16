@@ -1,257 +1,94 @@
-# Kapitel 67: CHAPTER LXVII
+# Kapitel 067: Tom III - Rozdział XVIII
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part75.xhtml*
 
 <!-- status: pending -->
 
-From the death of Ramses XIII till the day of his burial the state was
+Od śmierci Ramzesa XIII aż do dnia jego pogrzebu rządził państwem, jako arcykapłan Amona tebańskiego a namiestnik zgasłego króla — najdostojniejszy San-amen-Herhor.
 
-governed by the most worthy San-Amen-Herhor as high priest of the
+Kilkumiesięczna władza namiestnika była wielce pomyślną dla Egiptu. Herhor uspokoił bunty pospólstwa i jak było dawnymi czasy, pozwolił co siódmy dzień wypoczywać ludziom pracującym. Zaprowadził surową karność między kapłanami, otoczył opieką cudzoziemców, a szczególniej Fenicjan, i zawarł traktat z Asyrią nie odstępując jednak Fenicji, która pozostała hołdowniczką Egiptu.
 
-Theban Amon, and viceroy of the late pharaoh.
+W ciągu tych krótkich rządów sprawiedliwość wypełniała się szybko, ale bez okrucieństwa, i lada kto nie śmiał bić egipskiego chłopa, który mógł odwoływać się do sądu, jeżeli miał dosyć czasu i świadków.
 
-The government of the viceroy, lasting some months, was very prosperous
+Herhor zajął się też spłatą długów obciążających majątki faraona i państwa. W tym celu skłonił Fenicjan do zrzeczenia się pewnej części sum należących im od skarbu, a na pokrycie reszty podniósł z Labiryntu ogromną kwotę trzydziestu tysięcy talentów.
 
-for Egypt. Herhor pacified the outbreaks of the people, and, in
+Dzięki tym środkom w ciągu trzech miesięcy nastał w państwie spokój i dobrobyt, a ludzie mówili:
 
-accordance with former times, he gave the seventh day for rest to the
+— Błogosławione niech będą rządy namiestnika San-amen-Herhora! Zaprawdę, bogowie przeznaczyli go na władcę, aby uwolnił Egipt od klęsk zadanych mu przez Ramzesa XIII, lekkoducha i łowcy kobiet...
 
-working man. He introduced stern discipline among the priests; he
+Kilkadziesiąt dni wystarczyło, aby naród zapomniał, że wszystkie dzieła Herhora były tylko spełnieniem zamiarów młodego i szlachetnego faraona.
 
-extended protection to foreigners, especially Phoenicians, and
+W miesiącu Tobi (październik — listopad), gdy mumię Ramzesa XIII już złożono w królewskich pieczarach, do świątyni Amona tebańskiego zeszło się wielkie zgromadzenie najdostojniejszych osób. Byli tam prawie wszyscy arcykapłani, nomarchowie i jenerałowie wojsk, a w ich liczbie okryty chwałą sędziwy wódz armii wschodniej — Nitager.
 
-concluded a treaty with Assyria, not yielding Phoenicia, however, which
+W tej samej olbrzymiej sali kolumnowej, gdzie przed pół rokiem kapłani sądzili Ramzesa XII i okazywali niechęć Ramzesowi XIII, w tym samym miejscu dziś zgromadzili się dostojnicy, aby pod przewodnictwem Herhora rozstrzygnąć najważniejszą sprawę państwową. Jakoż dnia dwudziestego piątego Tobi, w samo południe, Herhor w infule Amenhotepa zasiadł na tronie, inni na krzesłach, i odbyła się narada.
 
-remained tributary to Egypt.
+Trwała dziwnie krótko, jakby rezultat jej z góry był przygotowany.
 
-In the course of this short government, justice was meted out quickly,
+— Arcykapłani, nomarchowie i wodzowie! — zaczął Herhor. — Zebraliśmy się tu w sprawie smutnej i ważnej. Wraz ze śmiercią wiecznie żyjącego Ramzesa XIII, którego krótkie i burzliwe panowanie skończyło się w tak nieszczęśliwy sposób...
 
-but without cruelty, and this or that man did not dare to beat an
+Tu Herhor westchnął.
 
-Egyptian laborer, who had the right to appeal to a court if he had time
+— ...Wraz ze śmiercią Ramzesa XIII nie tylko zgasł faraon, ale i pełna sławy dynastia dwudziesta...
 
-sufficient and witnesses.
+Między zebranymi przeleciał szmer.
 
-Herhor occupied himself too in paying the debts which weighed on the
+— Dynastia nie skończyła się — wtrącił prawie szorstko potężny nomarcha memfijski. — Żyje przecie czcigodna królowa Nikotris, więc tron należy do niej...
 
-lands of the state and the pharaoh. With this object he persuaded the
+Po chwili milczenia odpowiedział Herhor:
 
-Phoenicians to resign a certain part of the sums due them from the
+— Najdostojniejsza małżonka moja, królowa Nikotris...
 
-treasury, and to cover the rest he drew from the labyrinth the enormous
+Teraz w zebraniu rozległ się nie szmer, ale krzyk i trwał kilka minut. Gdy ucichło, Herhor spokojnie i dobitnie mówił dalej:
 
-sum of thirty thousand talents.
+— Moja najdostojniejsza małżonka, królowa Nikotris, nieutulona w żalu po śmierci syna, zrzekła się tronu...
 
-Thanks to these measures, in the course of three months peace and
+— Pozwólcie!... — zawołał nomarcha memfijski. — Najdostojniejszy namiestnik mianuje królowę swoją małżonką... Jest to wiadomość zupełnie nowa, którą przede wszystkim należy sprawdzić...
 
-prosperity were established in Egypt.
+Na znak Herhora najwyższy sędzia tebański wydobył ze złotej puszki i głośno odczytał akt ślubu zawartego przed dwoma dniami między najdostojniejszym arcykapłanem Amona San-amen-Herhorem i królową Nikotris, wdową po Ramzesie XII, matką Ramzesa XIII.
 
-"May the rule of the viceroy, San-Amen-Herhor be blessed!" said the
+Po tym wyjaśnieniu nastała grobowa cisza. Herhor zaś mówił:
 
-people. "Indeed the gods predestined him to power so as to free Egypt
+— Ponieważ małżonka moja i jedyna dziedziczka tronu zrzekła się swoich praw, ponieważ tym sposobem skończyło się panowanie dwudziestej dynastii, musimy więc wybrać nowego władcę...
 
-from misfortunes brought on by Ramses XIII, who was a woman-hunter and
+Władcą tym — ciągnął Herhor — powinien być człowiek dojrzały, energiczny i biegły w sprawowaniu rządów. Z tego powodu radzę wam, dostojnicy, ażebyśmy na najwyższe stanowisko wybrali...
 
-frivolous."
+— Herhora!... — krzyknął ktoś.
 
-A few days sufficed the people to forget that all Herhor's acts were
+— ...Ażebyśmy wybrali najsławniejszego Nitagera, wodza armii wschodniej — dokończył Herhor.
 
-merely the accomplishment of plans made by the young and lofty-minded
+Nitager długą chwilę siedział z przymkniętymi oczyma, uśmiechając się. Wreszcie powstał i rzekł:
 
-pharaoh.
+— Nigdy chyba nie zabraknie ludzi chętnych do tytułu faraona. Może nawet mielibyśmy ich nad potrzebę. Szczęściem, sami bogowie usuwając niebezpiecznych współzawodników ukazali nam człowieka najgodniejszego władzy. I zdaje mi się, że uczynię roztropnie, gdy zamiast przyjmować łaskawie ofiarowaną mi koronę, odpowiem:
 
-In the month Tobi, when the mummy of Ramses XIII was placed in its
+Niech żyje wiecznie jego świątobliwość San-amen-Herhor, pierwszy faraon nowej dynastii!...
 
-tomb, a great assembly of the most important personages met in the
+Obecni, z małymi wyjątkami, powtórzyli okrzyk, a jednocześnie najwyższy sędzia przyniósł na złotej tacy dwie czapki: białą — Górnego i czerwoną — Dolnego Egiptu. Jedną z nich wziął arcykapłan Ozyrysa, drugą arcykapłan Horusa i doręczyli je Herhorowi, który ucałowawszy złotego węża włożył je sobie na głowę.
 
-temple of Amon. There were present almost all the high priests,
+Po czym rozpoczęła się ceremonia składania hołdu przez obecnych, która ciągnęła się parę godzin. Następnie spisano odnośny akt, uczestnicy wyboru przyłożyli na nim swoje pieczęcie i od tej chwili San-amen-Herhor został rzeczywistym faraonem, panem obu światów tudzież życia i śmierci swoich poddanych.
 
-nomarchs, and generals of troops, and among them, covered with glory,
+Nad wieczorem jego świątobliwość wrócił zmęczony jeszcze do swych arcykapłańskich pokojów; gdzie zastał Pentuera. Kapłan zmizerniał, a na jego chudej twarzy malowało się znękanie i smutek.
 
-was the gray-haired chief of the eastern army, Nitager.
+Kiedy Pentuer upadł na twarz, pan podniósł go i rzekł z uśmiechem:
 
-In this same gigantic hall of columns, where half a year earlier the
+— Nie podpisałeś mego wyboru, nie złożyłeś mi hołdu, i lękam się, czy nie będę musiał oblegać cię kiedy w świątyni Ptah...
 
-priests had judged Ramses XII, and shown dislike for Ramses XIII, those
+Cóż, nie namyśliłeś się zostać przy mnie? Wolisz Menesa?...
 
-dignitaries assembled to settle the most important question of state,
+— Wybacz, wasza świątobliwość — odpowiedział kapłan — ale życie dworskie tak mnie znużyło, że jedynym dziś moim pragnieniem jest — uczyć się mądrości.
 
-under the presidency of Herhor. On the 25th of Tobi, exactly at noon,
+— Nie możesz zapomnieć Ramzesa? — spytał Herhor. — A jednak znałeś go bardzo krótko, podczas gdy u mnie pracowałeś kilka lat.
 
-Herhor, in the miter of Amenhotep, sat on the throne; others sat in
+— Nie potępiaj mnie, wasza świątobliwość... Ale Ramzes XIII był pierwszym faraonem, który odczuł niedolę ludu egipskiego...
 
-armchairs, and the council took place.
+Herhor uśmiechnął się.
 
-It was of wonderfully short duration, just as if the result had been
+— Oj, wy uczeni... — rzekł chwiejąc głową. — To przecież ty, ty sam, zwróciłeś uwagę Ramzesowi na położenie pospólstwa. A teraz nosisz po nim żałobę w sercu, chociaż on dla ludu nic nie zrobił... To ty zrobiłeś, nie on...
 
-arranged previously.
+Zabawni z was ludzie mimo potężnego umysłu — ciągnął Herhor. — Tak samo i Menes... Kapłan ten uważa się za najspokojniejszego człowieka w Egipcie, choć on to obalił dynastią, a mnie utorował drogę do władzy...
 
-"High priests, nomarchs, and leaders," began Herhor. "We have assembled
+Gdyby nie jego list o zaćmieniu słońca w dniu dwudziestym Paofi, może obaj z nieboszczykiem Mefresem łamalibyśmy kamienie w kopalni...
 
-here on sad and important business. With the death of the eternally
+No, idź już, idź, i pozdrów ode mnie Menesa. Pamiętaj też, że umiem być wdzięcznym, co stanowi wielką tajemnicę władzy. Powiedz Menesowi, że spełnię każdą jego prośbę, byle mi na przykład nie kazał wyrzec się tronu... Sam też wróć do mnie, gdy wypoczniesz, a zachowam dla ciebie poważne stanowisko.
 
-living Ramses XIII, whose short and stormy reign ended in a manner so
-
-unfortunate "Here Herhor sighed.
-
-"With Ramses XIII perished not only a pharaoh, but the twentieth
-
-dynasty, which was full of glory."
-
-Among those present rose a murmur.
-
-"The dynasty has not ended," interrupted the powerful nomarch of
-
-Memphis, almost harshly. "The worthy Queen Niort's is still living,
-
-therefore the throne belongs to her."
-
-After a time Herhor answered: "My most worthy consort, Queen Niort's."
-
-Now in the assembly was heard, not a murmur, but a cry, and it lasted a
-
-number of minutes. When it ceased Herhor continued calmly and with
-
-emphasis:
-
-"My most worthy consort, Queen Niort's, inconsolable through sorrow for
-
-her son, has abdicated the throne."
-
-"Permit!" exclaimed the nomarch of Memphis. "The most worthy viceroy
-
-has called the queen his consort. This intelligence is entirely new,
-
-and, first of all it must be verified."
-
-At a sign from Herhor the judge of Thebes drew out an act concluded two
-
-days before between the most worthy high priest of Amon, San-Amen-
-
-Herhor, and Queen Niort's, widow of Ramses XII, and mother of Ramses
-
-XIII.
-
-After this explanation came a grave-like silence. Herhor began again,
-
-"Since my consort, who is the only heir to the throne, has abdicated,
-
-the reign of the twentieth dynasty is ended; we must choose a new
-
-sovereign.
-
-"This sovereign," continued Herhor, "should be a man of ripe years,
-
-energetic, and skilled in government. For this reason I advise you to
-
-choose for the highest position."
-
-"Herhor!" cried some one.
-
-"The most famous Nitager, the leader of the eastern army," finished
-
-Herhor.
-
-Nitager sat a long time with closed eyes, smiling. At last he rose, and
-
-said,
-
-"Never will there be a lack of men eager for the title of pharaoh. We
-
-have more of them perhaps than are needed. Luckily, the gods
-
-themselves, in setting aside useless rivals, have indicated a man most
-
-worthy of power, and it seems to me that I shall act wisely if, instead
-
-of receiving the crown offered me graciously, I answer,
-
-"May he live through eternity, his holiness, San-Amen-Herhor, the first
-
-pharaoh of a new dynasty!"
-
-Those present, with few exceptions, repeated the shout, and at the same
-
-time the supreme judge brought on a golden tray two caps: the white one
-
-of Upper, and the red one of Lower Egypt. One of these was taken by the
-
-high priest of Osiris, the other by the high priest of Horus, and they
-
-delivered them to Herhor, who, when he had kissed the golden serpent,
-
-put them both on his head.
-
-Then those present began the ceremony of offering homage, which lasted
-
-a couple of hours. After that a proper act was written; those who took
-
-part in the election placed their seals on it, and from that moment
-
-San-Amen-Herhor was the real pharaoh, the lord of both worlds, also of
-
-the life and death of his subjects.
-
-Toward evening his holiness returned wearied to his chambers of a high
-
-priest, where he found Pentuer, who had grown thin, and on whose
-
-emaciated face weariness and sadness were evident.
-
-When Pentuer prostrated himself the pharaoh raised him and said with a
-
-smile,
-
-"Thou didst not sign my election, Thou didst not give me homage, and I
-
-fear that I shall have to arrest thee some time in the temple of Ptah.
-
-Well, hast Thou been thinking to leave me? Dost prefer Menes?"
-
-"Forgive, holiness," answered the priest, "but court life has so
-
-wearied me that my only desire is to learn wisdom."
-
-"Thou canst not forget Ramses?" inquired Herhor. "And yet Thou knewest
-
-him only a very short time, while Thou hast labored with me during
-
-years."
-
-"Blame me not, holiness, but Ramses XIII was the first pharaoh to
-
-commiserate the Egyptian people."
-
-Herhor smiled.
-
-"O ye learned men," said he, shaking his head. "But it was Thou who
-
-didst turn the attention of Ramses to the people, and now Thou bearest
-
-mourning for him in thy heart, though he did nothing whatever for the
-
-people. It was Thou who commiserated, not he. Ye are strange men, in
-
-spite of your powerful minds," continued Herhor. "It is the same thing
-
-with Menes. That priest considers that he is the most peaceful man in
-
-Egypt, though it was he who overturned the dynasty and smoothed the
-
-road to power for me. Were it not for his letter about the eclipse of
-
-the sun on the 20th of Paofi, perhaps I and the late Mefres would be
-
-splitting stones now in the quarries.
-
-"Well, go; go and greet Menes for me. Remember also that I know how to
-
-be thankful, which is the great secret of ruling. Tell Menes that I
-
-shall carry out every wish of his, unless he asks me, for example, to
-
-abdicate. Return to me when Thou hast rested, I will keep an important
-
-place for thee."
-
-And he touched Pentuer's head, which was inclined submissively.
+I dotknął ręką pokornie schylonej głowy kapłana.

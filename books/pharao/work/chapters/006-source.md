@@ -1,535 +1,190 @@
-# Kapitel 6: CHAPTER VI
+# Kapitel 006: Tom I - Rozdział VI
 
 *Buch: Der Pharao*
+*Quelle: EPUB/part10.xhtml*
 
 <!-- status: pending -->
 
-THE entrance to the pharaoh's palace at Memphis was through a gate
+Do pałacu faraona pod Memfisem wchodziło się przez bramę osadzoną między dwoma pięciopiętrowymi wieżami, czyli — pylonami. Zewnętrzne ściany tych budowli, wzniesionych z szarego piaskowca, od dołu do góry były okryte płaskorzeźbami.
 
-placed between two lofty towers or pylons. The external walls of these
+Na szczycie bramy wznosił się herb czy symbol państwa: skrzydlata kula, spoza której wychylały się dwa węże. Poniżej siedział rząd bogów, którym faraonowie składali ofiary. Na bocznych słupach wyrzeźbiono również wizerunki bogów, w pięciu kondygnacjach, jedna nad drugą, a u dołu — hieroglificzne napisy.
 
-buildings were of gray sandstone covered from foundation to summit with
+Na ścianach każdego pylonu główne miejsce zajmowała płaskorzeźba Ramzesa Wielkiego, który w jednej ręce miał podniesiony topór, a drugą trzymał za włosy gromadę ludzi związanych w pęk niby pietruszka. Powyżej króla stały lub siedziały znowu dwie kondygnacje bogów; jeszcze wyżej szereg ludzi niosących ofiary, a pod samym szczytem pylonów wizerunki skrzydlatych wężów, przeplatane wizerunkami skarabeuszów.
 
-bas reliefs.
+Te pięciopiętrowe pylony o ścianach zwężających się ku górze, trzypiętrowa brama, która je łączyła, płaskorzeźby, w których porządek mieszał się z ponurą fantazją, a pobożność z okrucieństwem, robiły przygnębiające wrażenie. Zdawało się, że trudno tu wejść, niepodobna wyjść, a żyć — ciężko.
 
-At the top of the gate rose the arms of the state, or its symbol: a
+Z bramy, przed którą stało wojsko i tłum drobnych urzędników, wchodziło się na dziedziniec otoczony krużgankami, wspartymi na piętrowych słupach. Był to ozdobny ogródek, w którym hodowano aloesy, małe palmy, drzewa pomarańczowe i cedry w wazonach, wszystko wyciągnięte w szeregi i dobrane według wzrostu. Na środku tryskała fontanna; ścieżki wysypano kolorowym piaskiem.
 
-winged globe, from behind which appeared two serpents. Lower down sat a
+Tu, pod krużgankami, siedzieli lub przechadzali się wyżsi urzędnicy państwa, szepcząc po cichu.
 
-series of gods to which the pharaohs were bringing offerings. On side
+Z dziedzińca, przez wysokie drzwi, szło się do sali wspartej na dwunastu kolumnach trzypiętrowych. Sala była duża, lecz z powodu grubości kolumn wydawała się ciasną. Oświetlały ją drobne okienka w ścianach i duży prostokątny otwór w suficie. Panował tu chłód i cień, prawie zmrok, który jednak nie przeszkadzał widzieć żółtych ścian i słupów pokrytych kondygnacjami malowideł. W górze — liście i kwiaty, niżej bogowie, jeszcze niżej ludzie, którzy nieśli ich posągi lub składali ofiary, a między tymi grupami szeregi hieroglifów.
 
-pillars images of the gods were cut out also in five rows, one above
+Wszystko to było malowane wyraźnymi, prawie ostrymi kolorami: zielonym, czerwonym i niebieskim.
 
-the other, while below were hieroglyphic inscriptions.
+W tej sali, z wzorzystą posadzką mozaikową, stali w ciszy, białych szatach i boso — kapłani, najwyżsi urzędnicy państwa, minister wojny Herhor tudzież wodzowie: Nitager i Patrokles, wezwani do faraona.
 
-On the walls of each pylon the chief place was occupied by a flat
+Jego świątobliwość Ramzes XII, jak zwykle przed naradą, składał ofiary bogom w swojej kaplicy. Ciągnęło się to dość długo. Co chwilę z dalszych komnat wbiegał jakiś kapłan albo urzędnik, komunikując wiadomości o przebiegu nabożeństwa.
 
-sculpture of Ramses the Great, who held in one hand an uplifted axe and
+— Już pan złamał pieczęć do kaplicy... Już myje święte bóstwo... Już go ubiera... Już zamknął drzwi...
 
-grasped in the other, by the hair of the head, a crowd of people tied
+Na twarzach obecnych, pomimo ich dostojeństw, malował się niepokój i zgnębienie. Tylko Herhor był obojętny, Patrokles niecierpliwy, a Nitager od czasu do czasu mącił uroczystą ciszę swoim potężnym głosem. Za każdym tak nieprzyzwoitym odezwaniem się starego wodza dworacy poruszali się niby spłoszone owce, a potem spoglądali na siebie, jakby mówiąc:
 
-in a bundle, like parsley. Above the king stood or sat two rows of
+„To gbur, całe życie ugania się za barbarzyńcami, więc można mu wybaczyć...”
 
-gods; still higher, a line of people with offerings; at the very summit
+W dalszych komnatach odezwał się dźwięk dzwonków i chrzęst broni. Do sali weszło dwoma rzędami kilkunastu gwardzistów w złotych hełmach i napierśnikach, z obnażonymi mieczami, potem dwa szeregi kapłanów, a nareszcie ukazał się faraon, niesiony na tronie, otoczony obłokami dymu z kadzielnic.
 
-of the pylons were winged serpents intertwined with scarabs.
+Władca Egiptu, Ramzes XII, był to człowiek blisko sześćdziesięcioletni, z twarzą zwiędłą. Miał na sobie białą togę, na głowie czerwono-biały kołpak ze złotym wężem, w ręku długą laskę.
 
-Those pylons with walls narrowing toward the top, the gate which
+Kiedy orszak ukazał się, wszyscy upadli na twarz. Tylko Patrokles, jako barbarzyńca, poprzestał na niskim ukłonie, a Nitager przyklęknął na jedno kolano, lecz wnet podniósł się.
 
-connected them, the flat sculptures in which order was mingled with
+Lektyka zatrzymała się przed baldachimem, pod którym na wzniesieniu stał tron hebanowy. Faraon z wolna zeszedł z lektyki, chwilę popatrzył na obecnych, a potem, usiadłszy na tronie, utkwił oczy w gzyms sali, na którym była wymalowana różowa kula z niebieskimi skrzydłami i zielonymi wężami.
 
-gloomy fantasy and piety with cruelty, produced a tremendous
+Na prawo od faraona stanął wielki pisarz, na lewo sędzia z laską, obaj w ogromnych perukach.
 
-impression. It seemed difficult to enter that place, impossible to go
+Na znak dany przez sędziego wszyscy usiedli albo uklękli na podłodze, zaś pisarz odezwał się do faraona:
 
-out, and a burden to live there.
+— Panie nasz i władco potężny! Twój sługa Nitager, wielki strażnik granicy wschodniej, przyjechał, aby złożyć ci hołdy, i przywiózł haracz od pobitych narodów: wazę z zielonego kamienia pełną złota, trzysta wołów, sto koni i wonne drzewo teszep.
 
-From the gate, before which stood troops and a throng of small
+— Nędzny to haracz, mój panie — odezwał się Nitager. — Prawdziwe skarby znaleźlibyśmy dopiero nad Eufratem, gdzie pysznym, choć jeszcze słabym królom bardzo potrzeba przypomnieć czasy Ramzesa Wielkiego.
 
-officials, those who entered came into a court surrounded by porticos
+— Odpowiedz słudze memu Nitagerowi — rzekł do pisarza faraon — że jego słowa będą wzięte pod pilną uwagę. A teraz zapytaj go: co sądzi o wojskowych zdolnościach syna mego i następcy, z którym wczoraj miał zaszczyt zetrzeć się pod Pi-Bailos?
 
-resting on pillars. That was an ornamental garden, in which were
+— Nasz władca, pan dziewięciu narodów, zapytuje cię, Nitagerze... — zaczął pisarz.
 
-cultivated aloes, palms, pomegranates, and cedars in pots, all placed
+Wtem, ku największemu zgorszeniu dworaków, wódz przerwał szorstko:
 
-in rows and selected according to size. In the middle shot up a
+— Sam słyszę, co mówi pan mój... Ustami zaś jego, kiedy zwraca się do mnie, mógłby być tylko następca tronu, nie zaś ty, wielki pisarzu.
 
-fountain; the paths were sprinkled with colored sand.
+Pisarz z przerażeniem spojrzał na śmiałka, ale faraon rzekł:
 
-Under the gallery sat or walked higher officials of the state, speaking
+— Mówi prawdę mój wiemy sługa Nitager.
 
-in low tones.
+Minister wojny ukłonił się.
 
-From the court, through a high door, the visitor passed to a hall of
+Teraz sędzia obwieścił wszystkim obecnym: kapłanom, urzędnikom i gwardii, że mogą wyjść na dziedziniec, i sam wraz z pisarzem, skłoniwszy się tronowi, pierwsi opuścili salę. Został w niej tylko faraon, Herhor i dwaj wodzowie.
 
-twelve lofty columns. The hall was large, but as the columns also were
+— Nakłoń uszy swoje, władco, i wysłuchaj skargi — zaczął Nitager. — Dziś z rana kapłan-urzędnik, który z twego rozkazu przyszedł namaścić włosy moje, powiedział mi, ażebym idąc do ciebie zostawił sandały w przysionku. Tymczasem wiadomo jest nie tylko w Górnym i Dolnym Egipcie, ale u Hetytów, w Libii, Fenicji i w kraju Punt
 
-large, the hall seemed diminutive. It was lighted by small windows in
+— Mówisz prawdę — rzekł faraon. — Do mego dworu zakradły się różne nieporządki.
 
-the walls and through a rectangular opening in the roof. Coolness and
+— Tylko rozkaż, królu, a moi weterani zaraz zrobią ład — pochwycił Nitager.
 
-shade prevailed there; the shade was almost a gloom, which did not,
+Na znak dany przez ministra wojny wbiegło kilku urzędników: jeden przyniósł sandały i obuł Nitagera, inni naprzeciw tronu ustawili kosztowne taborety dla ministra i wodzów.
 
-however, prevent him who entered from seeing the yellow walls and
+Gdy trzej dostojnicy usiedli, faraon zapytał:
 
-pillars, covered with lines of paintings. At the top leaves and flowers
+— Powiedz mi, Nitagerze, czy sądzisz, że mój syn będzie wodzem?... Ale mów szczerą prawdę.
 
-were represented; lower down, the gods; still lower, people who carried
+— Na Amona z Teb, na sławę moich przodków, w których płynęła krew królewska, przysięgam, że Ramzes, twój następca, będzie wielkim wodzem, jeżeli mu pozwolą bogowie — odparł Nitager. — Młody to jest chłopak, jeszcze pacholę, a jednak z wielką umiejętnością zebrał pułki, zaopatrzył i marsz im ułatwił. Najwięcej zaś podoba mi się, że nie stracił głowy, kiedy mu przeciąłem drogę, lecz poprowadził swoich do ataku. On będzie wodzem i zwycięży Asyryjczyków, których dziś trzeba pobić, jeżeli nasze wnuki nie mają zobaczyć ich nad Nilem.
 
-their statues or brought them offerings; and between these groups were
+— Cóż ty na to, Herhorze? — zapytał faraon.
 
-lines of hieroglyphs.
+— Co się tyczy Asyryjczyków, myślę, że dostojny Nitager za wcześnie kłopocze się nimi. Jeszcze jesteśmy chorzy po dawnych wojnach i musimy pierwej dobrze się wzmocnić, zanim rozpoczniemy nową — mówił minister. — Co się zaś tyczy następcy tronu, Nitager sprawiedliwie mówi, że młodzian ten posiada zalety wodza: jest przezorny jak lis i gwałtowny jak lew. Mimo to wczoraj popełnił dużo błędów...
 
-All this was painted in clear, almost glaring colors, green, red, and
+— Kto z nas ich nie popełnia!... — wtrącił milczący dotąd Patrokles.
 
-blue.
+— Następca — ciągnął minister — mądrze prowadził główny korpus, ale zaniedbał swój sztab, przez co maszerowaliśmy tak wolno i nieporządnie, że Nitager mógł zabiec nam drogę...
 
-In this hall, with its varied mosaic pavement, stood in silence, white
+— Może Ramzes liczył na waszą dostojność? — spytał Nitager.
 
-robed and barefoot, the priests, the highest dignitaries of State,
+— W rządzie i wojnie na nikogo nie liczy się: o jeden niedopatrzony kamyk można się przewrócić — rzekł minister.
 
-Herhor, the minister of war, also the leaders Nitager and Patrokles,
+— Gdybyś wasza dostojność — odezwał się Patrokles — nie zepchnął kolumny z gościńca z powodu tych tam skarabeuszów...
 
-who had been summoned to the presence of the pharaoh.
+— Jesteś wasza dostojność cudzoziemcem i poganinem — odparł Herhor — więc tak mówisz. My zaś, Egipcjanie, rozumiemy, że gdy lud i żołnierze przestaną szanować skarabeusza, synowie ich przestaną się bać ureusa. Z lekceważenia bogów urodzi się bunt przeciw faraonowi...
 
-His holiness Ramses XII, as usual before he held council, was placing
+— A od czego topory? — przerwał Nitager. — Kto chce zachować głowę na plecach, niech słucha najwyższego wodza.
 
-offerings before the gods in his chapel. This continued rather long.
+— Jakaż więc jest twoja ostateczna myśl o następcy? — spytał faraon Herhora.
 
-Every moment some priest or official ran in from the more distant
+— Żywy obrazie słońca, synu bogów — odparł minister. — Każ Ramzesa namaścić, daj mu wielki łańcuch i dziesięć talentów, ale wodzem korpusu Menfi jeszcze go nie mianuj. Książę na ten urząd jest za młody, za gorący, niedoświadczony. Czy więc możemy uznać go równym Patroklesowi, który w dwudziestu bitwach zdeptał Etiopów i Libijczyków? A czy możemy stawiać go obok Nitagera, którego samo imię od dwudziestu lat przyprawia o bladość naszych wrogów ze wschodu i północy?
 
-chambers and communicated news touching the course of the service.
+Faraon oparł głowę na ręku, pomyślał i rzekł:
 
-"The lord has broken the seal to the chapel He is washing the sacred
+— Odejdźcie w spokoju i łasce mojej. Uczynię, jak nakazuje mądrość i sprawiedliwość.
 
-divinity Now he is putting it away Now he has closed the door."
+Dostojnicy skłonili się głęboko, a Ramzes XII, nie czekając na świtę, przeszedł do dalszych komnat.
 
-On the faces of courtiers, notwithstanding their offices, concern and
+Kiedy dwaj wodzowie znaleźli się sami w przysionku, Nitager odezwał się do Patroklesa:
 
-humility were evident. But Herhor was indifferent, Patrokles impatient,
+— Tu, widzę, rządzą kapłani jak u siebie. Ale jaki to wódz ten Herhor!... Pobił nas, nim przyszliśmy do słowa, i nie da korpusu następcy...
 
-and Nitager now and then disturbed with his deep voice the solemn
+— Mnie tak pochwalił, że nie śmiałem się odezwać — odparł Patrokles.
 
-silence. After every such impolite sound from the old leader, the
+— Zresztą on daleko widzi, choć nie wszystko mówi. Za następcą wcisnęliby się do korpusu rozmaite paniczyki, co to ze śpiewaczkami jeżdżą na wojnę, i oni zajęliby najwyższe posady. Naturalnie starzy oficerowie zaczęliby próżnować z gniewu, że ich awans ominął; eleganci musieliby próżnować dla zabaw, i — korpus popękałby, nawet nie uderzywszy o nieprzyjaciela. O, Herhor to mędrzec!...
 
-courtiers moved, like frightened sheep, and looked at one another, as
+— Bodajby nas nie kosztowała więcej jego mądrość aniżeli niedoświadczenie Ramzesa — szepnął Grek.
 
-if saying,
+Przez szereg komnat pełnych kolumn i ozdobionych malowidłami, gdzie w każdych drzwiach kapłani i pałacowi urzędnicy składali mu niskie ukłony, faraon przeszedł do swego gabinetu. Była to dwupiętrowa sala o ścianach z alabastru, na których złotem i jaskrawymi farbami odmalowano najznakomitsze wypadki panowania Ramzesa XII, a więc: hołdy składane mu przez mieszkańców Mezopotamii, poselstwo od króla Buchtenu i triumfalną podróż bożka Chonsu po kraju Buchten.
 
-"This rustic has been hunting barbarians all his life, we may pardon
+W sali tej znajdował się malachitowy posążek Horusa
 
-him."
+Gdy faraon ukazał się, jeden z obecnych kapłanów spalił przed nim kadzidło, a jeden z urzędników zameldował następcę tronu, który niebawem wszedł i nisko ukłonił się ojcu. Na wyrazistej twarzy księcia było widać gorączkowy niepokój.
 
-From remoter chambers were heard the sound of bells and the clatter of
+— Cieszę się, erpatre — rzekł faraon — że wracasz zdrowym z ciężkiej podróży.
 
-weapons. Into the hall came in two ranks some tens of the guard in gilt
+— Obyś wasza świątobliwość żył wiecznie i dziełami swoimi napełnił oba światy — odparł książę.
 
-helmets, in breastplates, and with drawn swords, next two ranks of
+— Dopiero co — mówił faraon — moi radcy wojenni opowiadali mi o twojej pracy i roztropności.
 
-priests, and at last appeared the pharaoh, carried in a litter,
+Twarz następcy drżała i mieniła się. Wpił wielkie oczy w faraona i słuchał.
 
-surrounded by clouds of smoke and incense.
+— Czyny twoje nie zostaną bez nagrody. Otrzymasz dziesięć talentów, wielki łańcuch i dwa greckie pułki, z którymi będziesz robił ćwiczenia.
 
-The ruler of Egypt, Ramses XII, was nearly sixty years old. His face
+Książę osłupiał, lecz po chwili zapytał stłumionym głosem:
 
-was withered. He wore a white mantle; on his head was a red and white
+— A korpus Menfi?...
 
-cap with a golden serpent; in his hand he held a long staff.
+— Za rok powtórzymy manewry, a jeżeli nie popełnisz żadnego błędu w prowadzeniu wojska, dostaniesz korpus.
 
-When the retinue showed itself, all present fell on their faces, except
+— Wiem, to zrobił Herhor!... — zawołał następca, ledwie hamując się z gniewu.
 
-Patrokles, who, as a barbarian, stopped at a low bow, while Nitager
+Obejrzał się wkoło i dodał:
 
-knelt on one knee, but soon rose again.
+— Nigdy nie mogę być sam z tobą, mój ojcze... Zawsze między nami znajdują się obcy ludzie...
 
-The litter stopped before a baldachin under which was an ebony throne
+Faraon z lekka poruszył brwiami i jego świta znikła jak gromada cieniów.
 
-on an elevation. The pharaoh descended slowly from the litter, looked
+— Co masz mi do powiedzenia?
 
-awhile at those present, and then, taking his seat on the throne, gazed
+— Tylko jedno, ojcze... Herhor jest moim wrogiem... On oskarżył mnie przed tobą i naraził na taki wstyd!...
 
-fixedly at the cornice on which was painted a rose-colored globe with
+Mimo pokornej postawy książę gryzł wargi i zaciskał pięści.
 
-blue wings and green serpents.
+— Herhor jest moim wiernym sługą, a twoim przyjacielem. Jego to wymowa sprawiła, że jesteś następcą tronu. To ja — nie powierzam korpusu młodemu wodzowi, który pozwolił odciąć się od swojej armii.
 
-On the right of the pharaoh stood the chief scribe, on the left a judge
+— Połączyłem się z nią!... — odparł zgnębiony następca. — To Herhor kazał okrążać dwa żuki...
 
-with a staff; both wore immense wigs.
+— Chcesz więc, ażeby kapłan wobec wojska lekceważył religię?
 
-At a sign from the judge all sat down or knelt on the pavement, while
+— Mój ojcze — szeptał Ramzes drżącym głosem — ażeby nie zepsuć pochodu żukom, zniszczono budujący się kanał i zabito człowieka.
 
-the scribe said to the pharaoh,
+— Ten człowiek sam podniósł rękę na siebie.
 
-"Our lord and mighty ruler! Thy servant Nitager, the great guard on the
+— Ale z winy Herhora.
 
-eastern boundary, has come to render thee homage, and has brought
+— W pułkach, które tak umiejętnie zgromadziłeś pod Pi-Bailos, trzydziestu ludzi umarło ze zmęczenia, a kilkuset jest chorych.
 
-tribute from conquered nations: a vase of green stone filled with gold,
+Książę spuścił głowę.
 
-three hundred oxen, a hundred horses, and the fragrant wood teshep."
+— Ramzesie — ciągnął faraon — przez usta twoje nie przemawia dostojnik państwa, który dba o całość kanałów i życie robotników, ale człowiek rozgniewany. Gniew zaś nie godzi się ze sprawiedliwością jak jastrząb z gołębiem.
 
-"That is a mean tribute, my lord," said Nitager. "Real treasures we can
+— O mój ojcze! — wybuchnął następca — jeżeli gniew mnie unosi, to dlatego że widzę niechęć dla mnie Herhora i kapłanów...
 
-find only on the Euphrates, where splendid kings, though weak so far,
+— Przecież sam jesteś wnukiem arcykapłana, kapłani uczyli cię... Poznałeś więcej ich tajemnic aniżeli którykolwiek inny książę...
 
-need much to be reminded of Ramses the Great."
+— Poznałem ich nienasyconą dumę i chęć władzy. A że ukrócę to... więc już dziś są moimi wrogami... Herhor nie chce mi dać nawet korpusu, gdyż woli rządzić całą armią...
 
-"Answer my servant Nitager," said the pharaoh to the scribe, "that his
+Wyrzuciwszy te niebaczne słowa następca struchlał. Ale władca podniósł na niego jasne spojrzenie i odparł spokojnie:
 
-words will be taken under careful consideration. But now ask him what
+— Armią i państwem rządzę ja. Ze mnie płyną wszelkie rozkazy i wyroki. Na tym świecie jestem wagą Ozyrysa i sam ważę sprawy moich sług: następcy, ministra czy ludu. Nieroztropnym byłby ten, kto by sądził, że nie są mi znane wszystkie gwichty.
 
-he thinks of the military ability of my son and heir, whom he had the
+— Jednak gdybyś, ojcze, patrzył na bieg manewrów własnymi oczami...
 
-honor of meeting near Pi-Bailos yesterday."
+— Może zobaczyłbym wodza — przerwał faraon — który w stanowczej chwili rzuca wojsko i ugania się po krzakach za izraelską dziewczyną. Ale ja o takich błahostkach nie chcę wiedzieć.
 
-"Our lord, the master of nine nations, asks thee, Nitager" began the
+Książę upadł do nóg ojcu, szepcąc:
 
-scribe.
+— Tutmozis powiedział ci o tym, panie?...
 
-But the leader interrupted quickly, to the great dissatisfaction of the
-
-courtiers,
-
-"I hear myself what my lord says. Only the heir to the throne could be
-
-his mouth when he turns to me; not thou, chief scribe."
-
-The scribe looked with consternation at the daring leader, but the
-
-pharaoh answered,
-
-"My faithful Nitager speaks truth."
-
-The minister of war bowed.
-
-Now the judge announced to all present to the priests, the officials,
-
-and the guards that they might go to the palace courtyard; and he
-
-himself, bowing to the throne, was the first to go thither. In the hall
-
-remained only the pharaoh, Herhor, and the two leaders.
-
-"Incline thy ears, O sovereign, and listen to complaints," began
-
-Nitager. "This morning the official priest, who came at thy command to
-
-anoint my hair, told me that in going to thee I was to leave my sandals
-
-in the entrance hall. Meanwhile it is known, not only in Upper and
-
-Lower Egypt, but in the Hittite country, Libya, Phoenicia, and the land
-
-of Punt, that twenty years ago Thou didst give me the right to stand
-
-before thee in sandals."
-
-"Thou speakest truth," said the pharaoh. "Various disorders have crept
-
-into the court ceremonial."
-
-"Only give command, O king, and my veterans will produce order
-
-immediately," added Nitager.
-
-At a sign given by the minister of war, a number of officials ran in:
-
-one brought sandals and put them on Nitager's feet; others put down
-
-costly stools for the minister and leaders.
-
-When the three dignitaries were seated, Ramses XII said,
-
-"Tell me, Nitager, dost Thou think that my son will be a leader? But
-
-tell pure truth."
-
-"By Amon of Thebes, by the glory of my ancestors in whom was blood
-
-royal, I swear that thy heir, Prince Ramses, will be a great leader, if
-
-the gods permit," replied Nitager. "He is a young man, a lad yet; still
-
-he concentrated his regiments, eased their march, and provided for
-
-them. He pleased me most of all by this, that he did not lose his head
-
-when I cut off the road before him, but led his men to the attack. He
-
-will be a leader, and will conquer the Assyrians, whom we must vanquish
-
-today if they are not to be seen on the Nile by our grandchildren."
-
-"What dost Thou say to that?" inquired the pharaoh of Herhor.
-
-"As to the Assyrians, I think that the worthy Nitager is concerned
-
-about them too early. We must strengthen ourselves well before we begin
-
-a new war. As to the heir, Nitager says justly that the young man has
-
-the qualities of a leader: he is as keen as a fox, and has the energy
-
-of a lion. Still he made many blunders yesterday.
-
-"Who among us has not made them?" put in Patrokles, silent thus far.
-
-"The heir," continued the minister, "led the main corps wisely, but he
-
-neglected his staff; through this neglect we marched so slowly and in
-
-such disorder that Nitager was able to cut off the road before us."
-
-"Perhaps Ramses counted on your dignity," said Nitager.
-
-"In government and war we must count on no man: one unreckoned little
-
-stone may overturn everything," said the minister.
-
-"If thou, worthiness," answered Patrokles, "had not pushed the columns
-
-from the road because of those scarabs."
-
-"Thou, worthiness, art a foreigner and an unbeliever," retorted Herhor,
-
-"hence this speech. But we Egyptians understand that when the people
-
-and the soldiers cease to reverence the scarabs, their sons will cease
-
-to fear the ureus (the serpent). From contempt of the gods is born
-
-revolt against the pharaohs."
-
-"But what are axes for?" asked Nitager. "Whoso wishes to keep a head on
-
-his shoulders let him listen to the supreme commander."
-
-"What then is your final opinion of the heir?" asked the pharaoh of
-
-Herhor.
-
-"Living image of the sun, child of the gods," replied the minister.
-
-"Command to anoint Ramses, give him a grand chain and ten talents, but
-
-do not appoint him yet to command the corps in Memphis. The prince is
-
-too young for that office, too passionate and inexperienced. Can we
-
-recognize him as the equal of Patrokles, who has trampled the
-
-Ethiopians and the Libyans in twenty battles? Or can we place him at
-
-the side of Nitager, whose name alone brings pallor to our northern and
-
-eastern enemies?"
-
-The pharaoh rested his head on his hand, meditated, and said,
-
-"Depart with my favor and in peace. I will do what is indicated by
-
-wisdom and justice."
-
-The dignitaries bowed low, and Ramses XII, without waiting for his
-
-suite, passed to remoter chambers.
-
-When the two leaders found themselves alone in the entrance hall,
-
-Nitager said to Patrokles,
-
-"Here priests rule as in their own house. I see that. But what a leader
-
-that Herhor is! He vanquished us before we spoke; he does not grant a
-
-corps to the heir."
-
-"He praised me so that I dared not utter a word," said Patrokles.
-
-"He is far seeing, and does not tell all he thinks. In the wake of the
-
-heir various young lords who go to war taking singers would have shoved
-
-themselves into the corps, and they would occupy the highest places.
-
-Naturally old officers would fall into idleness from anger, because
-
-promotion had missed them; the exquisites would be idle for the sake of
-
-amusement, and the corps would break up without even meeting an enemy.
-
-Oh, Herhor is a sage!"
-
-"May his wisdom not cost thee more than the inexperience of Ramses,"
-
-whispered Patrokles.
-
-Through a series of chambers filled with columns and adorned with
-
-paintings, where at each door priests and palace officials gave low
-
-obeisances before him, the pharaoh passed to his cabinet. That was a
-
-lofty hall with alabaster walls on which in gold and bright colors were
-
-depicted the most famous events in the reign of Ramses XII, therefore
-
-homage given him by the inhabitants of Mesopotamia, the embassy from
-
-the King of Buchten, and the triumphal journey of the god Khonsu
-
-through the land of that potentate.
-
-In this hall was the malachite statue of the bird-headed Horus, adorned
-
-with gold and jewels. In front of the statue was an altar shaped as a
-
-truncated pyramid, the king's armor, costly armchairs and stools, also
-
-tables covered with trifles and small objects.
-
-When the pharaoh appeared, one of the priests burnt incense before him,
-
-and one of the officials announced Prince Ramses, who soon entered and
-
-bowed low before his father. On the expressive face of the prince
-
-feverish disquiet was evident.
-
-"Erpatr, I rejoice," said the pharaoh, "that Thou hast returned in good
-
-health from a difficult journey."
-
-"Mayst Thou live through eternity, holiness, and thy affairs fill the
-
-two worlds!" replied Ramses.
-
-"My military advisers have just informed me of thy labor and prudence."
-
-The heir's face quivered and changed. He fixed great eyes on the
-
-pharaoh and listened.
-
-"Thy deeds will not remain without reward. Thou wilt receive ten
-
-talents, a great chain, and two Greek regiments with which Thou wilt
-
-exercise."
-
-Ramses was amazed, but after a while he asked with a stifled voice,
-
-"But the corps in Memphis?"
-
-"In a year we will repeat the maneuvers, and if Thou make no mistake in
-
-leading the army Thou wilt get the corps."
-
-"I know that Herhor did this!" cried the prince, hardly restraining his
-
-anger.
-
-He looked around, and added, "lean never be alone with thee, my father;
-
-strangers are always between us."
-
-The pharaoh moved his brows slightly, and his suite vanished, like a
-
-crowd of shadows.
-
-"What hast Thou to tell me?"
-
-"Only one thing, father. Herhor is my enemy. He accused me to thee and
-
-exposed me to this shame!"
-
-In spite of his posture of obedience the prince gnawed his lips and
-
-balled his fists.
-
-"Herhor is thy friend and my faithful servant. It was his persuasion
-
-that made thee heir to the throne. But I will not confide a corps to a
-
-youthful leader who lets himself be cut off from his army."
-
-"I joined it," answered the crushed heir; "but Herhor commanded to
-
-march around two beetles."
-
-"Dost Thou wish that a priest should make light of religion in the
-
-presence of the army?"
-
-"My father," whispered Ramses, with quivering voice, "to avoid spoiling
-
-the journey of the beetles a canal was destroyed, and a man was
-
-killed."
-
-"That man raised his own hands on himself."
-
-"But that was the fault of Herhor."
-
-"In the regiments which them didst concentrate near Pi-Bailos thirty
-
-men died from over-exertion, and several hundred are sick."
-
-The prince dropped his head.
-
-"Ramses," continued the pharaoh, "through thy lips is speaking not a
-
-dignitary of the state who is thinking of the soundness of canals and
-
-the lives of laborers, but an angry person. Anger does not accord with
-
-justice any more than a falcon with a dove."
-
-"Oh, my father," burst out the heir, "if anger carries me away, it is
-
-because I feel the ill-will of the priests and of Herhor."
-
-"But Thou art thyself the grandson of a high priest; the priests taught
-
-thee. Thou hast learned more of their secrets than any other prince
-
-ever has."
-
-"I have learned their insatiable pride, and greed of power. And because
-
-I will abridge it they are my enemies. Herhor is not willing to give me
-
-even a corps, for he wishes to manage the whole army."
-
-When he had thrown out these incautious words, the heir was frightened.
-
-But the ruler raised his clear glance, and answered quietly,
-
-"I manage the state and the army. From me flow all commands and
-
-decisions. In this world I am the balance of Osiris, and I myself weigh
-
-the services of my servants, be they the heir, a minister, or the
-
-people. Imprudent would he be who should think that all intrigues are
-
-not known to me."
-
-"But, father, if Thou hadst seen with thy own eyes the course of the
-
-maneuvers
-
-"I might have seen a leader," interrupted the pharaoh, "who in the
-
-decisive moment was chasing through the bushes after an Israelite
-
-maiden. But I do not wish to observe such stupidity."
-
-The prince fell at his father's feet, and whispered,
-
-"Did Tutmosis speak to thee of that, lord?"
-
-"Tutmosis is a child, just as Thou art. He piles up debts as chief of
-
-staff in the corps of Memphis, and thinks in his heart that the eyes of
-
-the pharaoh cannot reach to his deeds in the desert."
+— Tutmozis jest dzieciakiem jak i ty. On już robi długi, jako szef sztabu w korpusie Menfi, i myśli w swym sercu, że oko faraona nie dosięgnie jego spraw w pustyni.

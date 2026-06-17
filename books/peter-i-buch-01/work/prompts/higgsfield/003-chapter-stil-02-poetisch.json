@@ -1,0 +1,65 @@
+{
+  "book": "peter-i-buch-01",
+  "chapter": "003",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "8b79a5c6-5539-4257-9b42-537d82259bc4",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\peter-i-buch-01\\work\\chapters\\003-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\peter-i-buch-01\\work\\prompts\\higgsfield\\003-chapter-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\peter-i-buch-01\\assets\\chapter\\chapter-003.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "Literary historical illustration for Peter der Erste, chapter 003: Kapitel 3: Глава третья *Buch: Peter der Erste* <!-- status: pending --> 1 Всю зиму собиралось дворянское ополчение. Трудно было доставить помещиков из деревенской глуши. Большой воевода Василий Васильевич Голицын рассылал грозные указы, грозил опалой и разорением. Помещики не торопились слезать с теплых печей: «Эка взбрело — воевать Крым. Слава богу, у нас с ханом вечный мир, дань платим не обидную, чего же зря дворян беспокоить. То дело Голицыных, — на чужом горбе хотят чести добыть…» Ссылались на немочи, на скудость, сказывались в нетях. Иные озорничали, — от скуки и безделья в зимнюю пору всякое взбредет в голову. Стольники Борис Долгорукий и Юрий Щербатый, невмочь уклониться от похода, одели ратников в черное платье и сами на вороных конях, все в черном, как из могил восставшие, прибыли к войску, — напугали всех до полусмерти. «Быть беде, — заговорили в полках, — живыми не.... Cinematic realism, painterly texture, period-accurate costumes and environment, no modern objects.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "2k",
+    "--custom_reference_id",
+    "8b79a5c6-5539-4257-9b42-537d82259bc4",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260616_142102_5a327bdd-239e-43fc-ab40-909545f41628.png",
+  "job_result": [
+    {
+      "id": "5a327bdd-239e-43fc-ab40-909545f41628",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260616_142102_5a327bdd-239e-43fc-ab40-909545f41628.png",
+      "created_at": 1781619662.933996,
+      "params": {
+        "prompt": "Literary historical illustration for Peter der Erste, chapter 003: Kapitel 3: Глава третья *Buch: Peter der Erste* <!-- status: pending --> 1 Всю зиму собиралось дворянское ополчение. Трудно было доставить помещиков из деревенской глуши. Большой воевода Василий Васильевич Голицын рассылал грозные указы, грозил опалой и разорением. Помещики не торопились слезать с теплых печей: «Эка взбрело — воевать Крым. Слава богу, у нас с ханом вечный мир, дань платим не обидную, чего же зря дворян беспокоить. То дело Голицыных, — на чужом горбе хотят чести добыть…» Ссылались на немочи, на скудость, сказывались в нетях. Иные озорничали, — от скуки и безделья в зимнюю пору всякое взбредет в голову. Стольники Борис Долгорукий и Юрий Щербатый, невмочь уклониться от похода, одели ратников в черное платье и сами на вороных конях, все в черном, как из могил восставшие, прибыли к войску, — напугали всех до полусмерти. «Быть беде, — заговорили в полках, — живыми не.... Cinematic realism, painterly texture, period-accurate costumes and environment, no modern objects.",
+        "width": 1536,
+        "height": 2048,
+        "batch_size": 1,
+        "seed": 317344,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "1080p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "8b79a5c6-5539-4257-9b42-537d82259bc4"
+      }
+    }
+  ]
+}

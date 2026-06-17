@@ -69,6 +69,10 @@ pipeline:
   ai_defaults:
     granularity: scene
     max_tokens_per_scene: 6000
+    # Szenen ueber dieser Zeichenzahl werden intern in Chunks uebersetzt.
+    # Die sichtbare Buchstruktur bleibt gleich: aus den Chunks entsteht wieder
+    # dieselbe scenes/de/<style>/<chapter>/scene-XX.md.
+    chunk_char_limit: 24000
     request_timeout_sec: 180
     retry_on_5xx: true
     retry_max: 2

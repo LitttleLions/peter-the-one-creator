@@ -24,7 +24,7 @@ from lib.book_project import find_book as find_book_project
 from lib.output_paths import (
     book_output_root,
     find_scene_translations,
-    list_chapter_ids_with_ru_scenes,
+    list_chapter_ids_with_source_scenes,
     next_translation_path,
     source_chapter_path,
 )
@@ -143,7 +143,10 @@ def main() -> int:
         return 1
 
     if args.all:
-        chapter_ids = list_chapter_ids_with_ru_scenes(output_root)
+        chapter_ids = list_chapter_ids_with_source_scenes(
+            output_root,
+            str(book.get("source_lang") or "ru"),
+        )
     else:
         chapter_ids = [args.chapter]
 

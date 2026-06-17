@@ -1,0 +1,26 @@
+## Szene 4
+
+> Man hat uns Platz genommen im Hause unserer Väter; was übrig ist, mag der Sonntag fressen.
+> — Spottvers über die Zarewna, Moskau, letztes Viertel des 17. Jahrhunderts
+
+Die Zarewna Jekaterina und Marja waren schon lange – nach der Einweisung Sofjas ins Neujungfrauen-Kloster – aus dem Kreml fortgeschafft worden: aus den Augen, auf die Pokrowka. Der Hofkontor gewährte ihnen Beköstigung und allerlei Behagen, zahlte ihren Sängern, Stallknechten und dem ganzen Hofgesinde den Lohn, Bargeld jedoch bekamen die Zarewna nicht in die Hand. Erstens war es unnötig, zweitens gefährlich, kannte man doch ihre Narrheit.
+
+Die Katka war an die vierzig, die Maschka ein Jahr jünger. Ganz Moskau wusste, dass sie auf der Pokrowka vor lauter Fett rasend wurden. Sie standen spät auf, saßen den halben Tag ungekämmt an den Fensterchen und gähnten, bis ihnen die Tränen kamen. Sobald es aber dämmerte, kamen die Sänger mit Domras und Flöten in ihre Stube; die Zarewna, rot geschminkt wie Äpfel, die Brauen mit Ruß nachgezogen, aufgedonnert, lauschten Liedern, tranken süße Liköre und sprangen und tanzten bis in die späte Nacht, dass das alte Blockhaus in allen Fugen bebte. Mit den Sängern, so hieß es, lebten die Zarewna, und sie bekämen Kinder von ihnen, und diese Kinder gäben sie in der Stadt Kimry zur Aufzucht fort.
+
+Diese Sänger waren dermaßen verwöhnt – werktags gingen sie in himbeerroten Seidenhemden, hohen Marderhauben und Saffianstiefeln –, dass sie den Zarewna ständig Geld abschwindelten und es im Krug am Pokrowka-Tor vertranken. Um an Geld zu kommen, schickten die Zarewna eine Kimryer Bäuerin, Domna Wachramejewa, die bei ihnen in einer Kammer unter der Treppe hauste, zum Lumpenmarkt; die Bäuerin verkaufte dort allerlei abgelegte Kleidung. Doch das Geld reichte ihnen nicht, und die Zarewna Jekaterina träumte davon, Schätze zu finden. Dazu befahl sie Domna Wachramejewa, Träume über Schätze zu haben. Domna hatte solche Träume, und die Zarewna hoffte, bald zu Geld zu kommen.
+
+Natalja hatte schon lange vorgehabt, mit den Schwestern ein ernstes Wörtchen zu reden, aber es fand sich nie die Muße – bald hielt sie Wolkenbruch und Donner ab, bald etwas anderes. Gestern nun hinterbrachte man ihr neue Abenteuer: Die Zarewna hatten sich angewöhnt, in die Deutsche Vorstadt zu fahren. In offener Kutsche waren sie auf dem Hof des holländischen Gesandten vorgefahren; während dieser, höchst verwundert, noch Perücke, Rock und Degen anlegte, saßen Katka und Maschka in seinem Zimmer auf Stühlen, flüsterten und kicherten. Als er sich dann vor ihnen verneigte, wie es sich vor hohen Personen geziemt – mit dem Hut den Boden fegend –, wussten sie nichts zu antworten, hoben nur die Hintern ein wenig über die Stühle und plumpsten wieder zurück; sogleich fragten sie: »Wo wohnt hier die deutsche Zuckerbäckerin, die Zucker und Konfekt verkauft?« – nur deswegen seien sie bei ihm vorgefahren.
+
+Der holländische Gesandte geleitete die Zarewna verbindlich zur Zuckerbäckerin, bis in ihren Laden. Dort griffen sie mit den Händen nach diesem und jenem und suchten Zucker, Konfekt, Pastetchen und Marzipanäpfelchen und -eierchen im Werte von neun Rubeln zusammen. Marja sagte: »Schnell, tragt das in die Kutsche.« Die Zuckerbäckerin entgegnete: »Ohne Geld trage ich nichts fort.« Die Zarewna flüsterten erbost miteinander und sagten zu ihr: »Packe ein und versiegle es, wir schicken das Geld später.«
+
+Von der Zuckerbäckerin fuhren sie, alle Scham endgültig ablegend, zur vormaligen Favoritin Anna Mons, die noch immer in demselben Haus wohnte, das Pjotr Alexejewitsch für sie erbaut hatte. Man ließ sie nicht gleich ein; sie mussten lange pochen, und die Kettenhunde heulten. Die vormalige Favoritin empfing sie im Bett – wahrscheinlich hatte sie sich mit Absicht hingelegt. Sie sagten zu ihr: »Sei gegrüßt auf viele Jahre, liebwerte Anna Iwanowna! Wir wissen, dass du Geld auf Zins gibst; gib uns wenigstens hundert Rubel, gern hätten wir zweihundert.«
+
+Die Monsicha gab mit äußerster Härte zur Antwort: »Ohne Pfand gebe ich nichts.«
+
+Jekaterina brach sogar in Tränen aus: »Weh uns, wir haben kein Pfand, dachten, einfach so zu erbitten.«
+
+Und die Zarewna gingen vom Hof der Favoritin hinweg.
+
+Zu jener Stunde überkam sie Lust zu essen. Sie ließen die Kutsche vor einem Haus halten, wo sie durch die offenen Fenster sehen konnten, wie Gäste sich vergnügten. Dort hatte die Frau des Sergeanten Danila Judin, der sich zu jener Zeit im Livländischen Krieg befand, Zwillinge geboren, und man hielt bei ihr Taufe. Die Zarewna betraten das Haus und baten zu essen; und man erwies ihnen alle Ehre.
+
+Nach etwa drei Stunden, als sie vom Haus der Sergeantenwitwe fortfuhren, erkannte der des Weges gehende englische Kaufmann William Peel sie in der Kutsche. Sie hielten an und fragten ihn, ob er sie nicht zum Diner bewirten wolle. William Peel warf seinen Hut in die Luft und sagte heiter: »Mit ganz besonderem Vergnügen.« Die Zarewna fuhren zu ihm, speisten und tranken englischen Branntwein und Bier. Und eine Stunde vor Abend, als sie von Peel weggefahren waren, begannen sie in der Vorstadt umherzukutschieren und in die erleuchteten Fenster zu spähen. Jekaterina wünschte noch irgendwo einzudringen und um ein Abendessen zu bitten, doch Marja hielt sie zurück. So trieben sie es bis in die Dunkelheit.

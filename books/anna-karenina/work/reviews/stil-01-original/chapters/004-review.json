@@ -1,0 +1,39 @@
+{
+  "chapter": "004",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "004",
+      "scene": 1,
+      "ru_path": "books\\anna-karenina\\work\\scenes\\ru\\004\\scene-01.md",
+      "de_path": "books\\anna-karenina\\work\\scenes\\de\\stil-01-original\\004\\scene-01.md",
+      "ru_words": 1523,
+      "de_words": 1810,
+      "findings": [
+        {
+          "severity": "ERROR",
+          "category": "cyrillic_in_translation",
+          "message": "DE-Szene enthaelt kyrillische Zeichen.",
+          "chapter": "004",
+          "scene": 1,
+          "evidence": "## Szene 1\n\nДарья Александровна, in einer Jacke und mit aufgesteckten, bereits spärlichen Zöpfen auf dem Hinterkopf – die einst dichten und prächtigen Haare – mit eingefallenem, hagerem Gesicht und großen, vor Magerkeit ",
+          "recommendation": "Pruefen, ob Originaltext stehen geblieben ist.",
+          "source": "deterministic"
+        },
+        {
+          "severity": "ERROR",
+          "category": "llm_review_failed",
+          "message": "KI-Review fehlgeschlagen: Expecting value: line 1 column 1 (char 0)",
+          "chapter": "004",
+          "scene": 1,
+          "evidence": "",
+          "recommendation": "Backend/Modell pruefen oder Lauf ohne LLM wiederholen.",
+          "source": "llm"
+        }
+      ]
+    }
+  ]
+}

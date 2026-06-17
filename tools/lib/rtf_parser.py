@@ -1,14 +1,12 @@
 """
-RTF-Parser für peter-the-one (v4 – pragmatic)
-=============================================
+Source-Parser für peter-the-one (v4 - pragmatic)
+================================================
 
 Strategie (einfach und robust):
-1. Rohe RTF-Bytes einlesen
-2. `\\'xx`-Escape-Sequenzen manuell als CP1251 dekodieren
-   (die Datei deklariert fälschlich ansicpg1252, ist aber kyrillisch)
-3. Mit striprtf den Plain-Text extrahieren
-4. Plain-Text anhand von \n+\n in Paragraphen aufteilen
-5. Paragraphen als "heading" markieren, wenn sie einem
+1. Rohe Bytes einlesen
+2. RTF-Quellen ueber `striprtf` extrahieren; Plaintext-Quellen direkt dekodieren
+3. Plain-Text anhand von \n+\n in Paragraphen aufteilen
+4. Paragraphen als "heading" markieren, wenn sie einem
    Heading-Pattern entsprechen (Книга/Глава/Часть/...)
 """
 
@@ -47,6 +45,10 @@ HEADING_PATTERNS = [
     (re.compile(r"^\s*Пролог\s*$", re.UNICODE), 2),
     (re.compile(r"^\s*Предисловие\s*$", re.UNICODE), 2),
     (re.compile(r"^\s*Вступление\s*$", re.UNICODE), 2),
+    # English Project Gutenberg sources, e.g. Boleslaw Prus, Pharaoh.
+    (re.compile(r"^\s*CHAPTER\s+[IVXLCDM]+\.?,?\s*$", re.IGNORECASE), 3),
+    (re.compile(r"^\s*CHAPTER\s+\d+\.?,?\s*$", re.IGNORECASE), 3),
+    (re.compile(r"^\s*(BOOK|PART|VOLUME)\s+[IVXLCDM]+\.?,?\s*$", re.IGNORECASE), 1),
 ]
 
 
@@ -76,20 +78,33 @@ def _decode_rtf_escapes(raw_bytes: bytes) -> bytes:
     return RTF_ESC_RE.sub(_replace_escape, raw_bytes)
 
 
-def parse_rtf(path: str | Path) -> Tuple[List[Block], dict]:
-    raw_bytes = Path(path).read_bytes()
-    
-    # Schritt 1: \'xx-Escapes als Roh-Bytes ersetzen
-    decoded_bytes = _decode_rtf_escapes(raw_bytes)
-    
-    # Schritt 2: Als CP1251 dekodieren (korrekt für Kyrillisch)
-    raw_text = decoded_bytes.decode("cp1251", errors="replace")
-    
-    # Schritt 3: striprtf extrahiert Plain-Text
-    # (es findet keine \'xx-Escapes mehr, da bereits ersetzt)
-    full_plain = rtf_to_text(raw_text, errors="ignore")
+def _decode_plain_text(raw_bytes: bytes) -> str:
+    for encoding in ("utf-8-sig", "utf-8", "cp1252"):
+        try:
+            return raw_bytes.decode(encoding)
+        except UnicodeDecodeError:
+            continue
+    return raw_bytes.decode("utf-8", errors="replace")
 
-    # An aufeinanderfolgenden Leerzeilen splitten
+
+def _strip_gutenberg_footer(text: str) -> str:
+    markers = [
+        r"^LITTLE,\s+BROWN,\s+&\s+CO\.'S Popular fiction\s*$",
+        r"^By the Same Author\s*$",
+        r"^End of Project Gutenberg's\b.*$",
+        r"^\*\*\*\s+END OF THE PROJECT GUTENBERG EBOOK\b.*$",
+    ]
+    positions = []
+    for pattern in markers:
+        marker = re.search(pattern, text, flags=re.IGNORECASE | re.MULTILINE)
+        if marker:
+            positions.append(marker.start())
+    if positions:
+        return text[:min(positions)].rstrip() + "\n"
+    return text
+
+
+def _blocks_from_plain_text(full_plain: str) -> List[Block]:
     raw_paras = re.split(r"\n+", full_plain)
     blocks: List[Block] = []
     for p in raw_paras:
@@ -98,9 +113,27 @@ def parse_rtf(path: str | Path) -> Tuple[List[Block], dict]:
             continue
         kind, level = _classify_paragraph(text)
         blocks.append(Block(kind=kind, level=level, text=text, raw=p[:200]))
+    return blocks
+
+
+def parse_rtf(path: str | Path) -> Tuple[List[Block], dict]:
+    raw_bytes = Path(path).read_bytes()
+    is_rtf = raw_bytes.lstrip().startswith(b"{\\rtf")
+
+    if is_rtf:
+        decoded_bytes = _decode_rtf_escapes(raw_bytes)
+        raw_text = decoded_bytes.decode("cp1251", errors="replace")
+        full_plain = rtf_to_text(raw_text, errors="ignore")
+        source_format = "rtf"
+    else:
+        full_plain = _strip_gutenberg_footer(_decode_plain_text(raw_bytes))
+        source_format = "plain_text"
+
+    blocks = _blocks_from_plain_text(full_plain)
 
     meta = {
         "file": str(path),
+        "source_format": source_format,
         "size_bytes": len(raw_bytes),
         "blocks_total": len(blocks),
         "headings_total": sum(1 for b in blocks if b.kind == "heading"),

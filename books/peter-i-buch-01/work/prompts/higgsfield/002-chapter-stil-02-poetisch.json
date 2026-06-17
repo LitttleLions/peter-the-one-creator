@@ -1,0 +1,65 @@
+{
+  "book": "peter-i-buch-01",
+  "chapter": "002",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "8b79a5c6-5539-4257-9b42-537d82259bc4",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\peter-i-buch-01\\work\\chapters\\002-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\peter-i-buch-01\\work\\prompts\\higgsfield\\002-chapter-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\peter-i-buch-01\\assets\\chapter\\chapter-002.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "Literary historical illustration for Peter der Erste, chapter 002: Kapitel 2: Глава вторая *Buch: Peter der Erste* <!-- status: pending --> 1 Пошумели стрельцы. Истребили бояр: братьев царицы Ивана и Афанасия Нарышкиных, князей Юрия и Михайлу Долгоруких, Григория и Андрея Ромодановских, Михаилу Черкасского, Матвеева, Петра и Федора Салтыковых, Языкова и других — похуже родом. Получили стрелецкое жалованье — двести сорок тысяч рублев, и еще по десяти сверх того рублев каждому стрельцу наградных. (Со всех городов пришлось собирать золотую и серебряную посуду, переливать ее в деньги, чтобы уплатить стрельцам.) На Красной площади поставили столб, где с четырех сторон написали имена убитых бояр, их вины и злодеяния. Полки потребовали жалованные грамоты, где бояре клялись ни ныне, ни впредь никакими поносными словами, бунтовщиками и изменниками стрельцов не называть, напрасно не казнить и в ссылки не ссылать. Приев и выпив кремлевские запасы, стрельцы.... Cinematic realism, painterly texture, period-accurate costumes and environment, no modern objects.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "2k",
+    "--custom_reference_id",
+    "8b79a5c6-5539-4257-9b42-537d82259bc4",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260616_142028_96f383be-49c9-4e68-9058-66681e82f5d1.png",
+  "job_result": [
+    {
+      "id": "96f383be-49c9-4e68-9058-66681e82f5d1",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260616_142028_96f383be-49c9-4e68-9058-66681e82f5d1.png",
+      "created_at": 1781619628.980557,
+      "params": {
+        "prompt": "Literary historical illustration for Peter der Erste, chapter 002: Kapitel 2: Глава вторая *Buch: Peter der Erste* <!-- status: pending --> 1 Пошумели стрельцы. Истребили бояр: братьев царицы Ивана и Афанасия Нарышкиных, князей Юрия и Михайлу Долгоруких, Григория и Андрея Ромодановских, Михаилу Черкасского, Матвеева, Петра и Федора Салтыковых, Языкова и других — похуже родом. Получили стрелецкое жалованье — двести сорок тысяч рублев, и еще по десяти сверх того рублев каждому стрельцу наградных. (Со всех городов пришлось собирать золотую и серебряную посуду, переливать ее в деньги, чтобы уплатить стрельцам.) На Красной площади поставили столб, где с четырех сторон написали имена убитых бояр, их вины и злодеяния. Полки потребовали жалованные грамоты, где бояре клялись ни ныне, ни впредь никакими поносными словами, бунтовщиками и изменниками стрельцов не называть, напрасно не казнить и в ссылки не ссылать. Приев и выпив кремлевские запасы, стрельцы.... Cinematic realism, painterly texture, period-accurate costumes and environment, no modern objects.",
+        "width": 1536,
+        "height": 2048,
+        "batch_size": 1,
+        "seed": 218061,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "1080p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "8b79a5c6-5539-4257-9b42-537d82259bc4"
+      }
+    }
+  ]
+}

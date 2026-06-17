@@ -1,0 +1,65 @@
+{
+  "book": "peter-i-buch-01",
+  "chapter": "001",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "8b79a5c6-5539-4257-9b42-537d82259bc4",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\peter-i-buch-01\\work\\chapters\\001-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\peter-i-buch-01\\work\\prompts\\higgsfield\\001-chapter-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\peter-i-buch-01\\assets\\chapter\\chapter-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "Literary historical illustration for Peter der Erste, chapter 001: Kapitel 1: Глава первая *Buch: Peter der Erste* <!-- status: pending --> 1 Санька соскочила с печи, задом ударила в забухшую дверь. За Санькой быстро слезли Яшка, Гаврилка и Артамошка: вдруг все захотели пить, — вскочили в темные сени вслед за облаком пара и дыма из прокисшей избы. Чуть голубоватый свет брезжил в окошечко сквозь снег. Студено. Обледенела кадка с водой, обледенел деревянный ковшик. Чада прыгали с ноги на ногу, — все были босы, у Саньки голова повязана платком, Гаврилка и Артамошка в одних рубашках до пупка. — Дверь, оглашенные! — закричала мать из избы. Мать стояла у печи. На шестке ярко загорелись лучины. Материно морщинистое лицо осветилось огнем. Страшнее всего блеснули из-под рваного плата исплаканные глаза, — как на иконе. Санька отчего-то забоялась, захлопнула дверь изо всей силы. Потом зачерпнула пахучую воду, хлебнула, укусила льдинку и дала напиться братикам.... Cinematic realism, painterly texture, period-accurate costumes and environment, no modern objects.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "2k",
+    "--custom_reference_id",
+    "8b79a5c6-5539-4257-9b42-537d82259bc4",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260616_141942_22993b45-dde0-4c05-8273-87a4b00e0958.png",
+  "job_result": [
+    {
+      "id": "22993b45-dde0-4c05-8273-87a4b00e0958",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260616_141942_22993b45-dde0-4c05-8273-87a4b00e0958.png",
+      "created_at": 1781619582.488905,
+      "params": {
+        "prompt": "Literary historical illustration for Peter der Erste, chapter 001: Kapitel 1: Глава первая *Buch: Peter der Erste* <!-- status: pending --> 1 Санька соскочила с печи, задом ударила в забухшую дверь. За Санькой быстро слезли Яшка, Гаврилка и Артамошка: вдруг все захотели пить, — вскочили в темные сени вслед за облаком пара и дыма из прокисшей избы. Чуть голубоватый свет брезжил в окошечко сквозь снег. Студено. Обледенела кадка с водой, обледенел деревянный ковшик. Чада прыгали с ноги на ногу, — все были босы, у Саньки голова повязана платком, Гаврилка и Артамошка в одних рубашках до пупка. — Дверь, оглашенные! — закричала мать из избы. Мать стояла у печи. На шестке ярко загорелись лучины. Материно морщинистое лицо осветилось огнем. Страшнее всего блеснули из-под рваного плата исплаканные глаза, — как на иконе. Санька отчего-то забоялась, захлопнула дверь изо всей силы. Потом зачерпнула пахучую воду, хлебнула, укусила льдинку и дала напиться братикам.... Cinematic realism, painterly texture, period-accurate costumes and environment, no modern objects.",
+        "width": 1536,
+        "height": 2048,
+        "batch_size": 1,
+        "seed": 998478,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "1080p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "8b79a5c6-5539-4257-9b42-537d82259bc4"
+      }
+    }
+  ]
+}

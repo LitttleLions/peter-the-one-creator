@@ -30,6 +30,12 @@ defaults:
     scene_numbers: false
     strip_control_metadata: true
     scene_separator: '* * *'
+  illustrations:
+    enabled: true
+    chapter_images: true
+    scene_images: true
+    chapter_page_break_after_image: true
+    scene_page_break_after_image: false
 book:
   title: Anna Karenina
   subtitle: Roman

@@ -99,13 +99,16 @@ def merge_dir_contents(source: Path, target: Path, dry_run: bool, moves: list[st
                     shutil.move(str(item), str(dest))
 
 
-def ensure_dirs(book_root: Path, dry_run: bool) -> None:
+def ensure_dirs(book_root: Path, dry_run: bool, source_lang: str = "ru") -> None:
+    source_lang = (source_lang or "ru").strip().lower() or "ru"
     dirs = [
         "source",
         "assets/covers",
+        "assets/chapter",
+        "assets/scene",
         "styles",
         "work/chapters",
-        "work/scenes/ru",
+        f"work/scenes/{source_lang}",
         "work/scenes/de",
         "work/assembled",
         "work/prompts",
@@ -122,6 +125,17 @@ def ensure_dirs(book_root: Path, dry_run: bool) -> None:
 
 def export_config_for(book: dict[str, Any], legacy_export: dict[str, Any]) -> dict[str, Any]:
     defaults = legacy_export.get("defaults", {}) or {}
+    defaults = {
+        **defaults,
+        "illustrations": {
+            "enabled": True,
+            "chapter_images": True,
+            "scene_images": True,
+            "chapter_page_break_after_image": True,
+            "scene_page_break_after_image": False,
+            **((defaults.get("illustrations") or {}) if isinstance(defaults, dict) else {}),
+        },
+    }
     old_book = (legacy_export.get("books", {}) or {}).get(book["id"], {}) or {}
     old_cover = old_book.get("cover", {}) or {}
     image_path = ""
@@ -211,7 +225,7 @@ def copy_styles(book_root: Path, dry_run: bool, moves: list[str]) -> None:
 def migrate_book(book: dict[str, Any], legacy_export: dict[str, Any], dry_run: bool, moves: list[str]) -> None:
     book_id = book["id"]
     book_root = REPO_ROOT / "books" / book_id
-    ensure_dirs(book_root, dry_run)
+    ensure_dirs(book_root, dry_run, str(book.get("source_lang") or "ru"))
 
     source = REPO_ROOT / str(book.get("source_path", ""))
     source_name = source.name

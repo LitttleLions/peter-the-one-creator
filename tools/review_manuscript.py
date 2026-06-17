@@ -1,0 +1,208 @@
+"""
+review_manuscript.py
+====================
+
+Report-only Schlussredaktion fuer fertige Szenenuebersetzungen.
+Schreibt Review-Reports unter books/<book-id>/work/reviews/<style>/.
+"""
+
+from __future__ import annotations
+
+import argparse
+import io
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+
+from lib.book_project import find_book as find_book_project
+from lib.models_registry import ModelError, load_models_registry
+from lib.ollama_client import OllamaClient
+from lib.openrouter_client import OpenRouterClient, OpenRouterError
+from lib.review_checks import (
+    add_llm_findings,
+    review_chapter_deterministic,
+    write_reports,
+)
+from lib.workbench_state import chapter_ids
+
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
+DEFAULT_OLLAMA_MODEL = "gemma4:latest"
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Prueft fertige Uebersetzungen report-only."
+    )
+    parser.add_argument("--book", required=True, help="Buch-ID")
+    parser.add_argument("--style", required=True, help="Zu pruefender Stil/Output-Ordner")
+    parser.add_argument("--chapter", default=None, help="Einzelnes Kapitel")
+    parser.add_argument("--from", dest="from_chapter", default=None, help="Startkapitel")
+    parser.add_argument("--to", dest="to_chapter", default=None, help="Endkapitel")
+    parser.add_argument("--all", action="store_true", help="Alle Kapitel")
+    parser.add_argument(
+        "--llm",
+        choices=["none", "openrouter", "ollama"],
+        default="none",
+        help="Optionaler KI-Review-Zusatz.",
+    )
+    parser.add_argument(
+        "--llm-scope",
+        choices=["flagged", "all"],
+        default="flagged",
+        help="KI nur fuer auffaellige Szenen oder fuer alle Szenen.",
+    )
+    parser.add_argument("--model", default=None, help="OpenRouter-Modell")
+    parser.add_argument("--ollama-model", default=DEFAULT_OLLAMA_MODEL)
+    parser.add_argument("--temperature", type=float, default=0.1)
+    parser.add_argument("--max-tokens", type=int, default=2000)
+    parser.add_argument("--timeout", type=int, default=180)
+    parser.add_argument(
+        "--format",
+        choices=["markdown", "json", "all"],
+        default="all",
+        help="Kompatibilitaetsoption; Reports werden in V1 immer als Markdown und JSON geschrieben.",
+    )
+    parser.add_argument("--fail-on-errors", action="store_true")
+    parser.add_argument("--dry-run", action="store_true")
+    return parser.parse_args()
+
+
+def chapter_range(ids: list[str], start: str | None, end: str | None) -> list[str]:
+    if not ids:
+        return []
+    start = start or ids[0]
+    end = end or ids[-1]
+    return [cid for cid in ids if start <= cid <= end]
+
+
+def selected_chapters(args: argparse.Namespace, ids: list[str]) -> list[str]:
+    if args.chapter:
+        return [args.chapter]
+    if args.all:
+        return ids
+    if args.from_chapter or args.to_chapter:
+        return chapter_range(ids, args.from_chapter, args.to_chapter)
+    raise SystemExit("Gib --chapter, --from/--to oder --all an.")
+
+
+def build_llm_chat(args: argparse.Namespace, book: dict):
+    if args.llm == "none":
+        return None
+    if args.llm == "ollama":
+        print(f"Ollama-Modell: {args.ollama_model}", flush=True)
+        client = OllamaClient(
+            model=args.ollama_model,
+            timeout_sec=float(args.timeout),
+        )
+        return lambda system, user: client.chat(
+            system=system,
+            user=user,
+            temperature=args.temperature,
+            max_tokens=args.max_tokens,
+        )
+    try:
+        registry = load_models_registry()
+    except ModelError as exc:
+        raise SystemExit(f"FEHLER: {exc}") from exc
+    ai_cfg = book.get("ai") or {}
+    model = args.model or ai_cfg.get("model") or registry.default_for(book["id"]) or registry.fallback()
+    try:
+        registry.validate(model)
+    except ModelError as exc:
+        raise SystemExit(f"FEHLER: {exc}") from exc
+    try:
+        client = OpenRouterClient.from_env(model_override=model)
+    except OpenRouterError as exc:
+        raise SystemExit(f"FEHLER: {exc}") from exc
+    print(f"OpenRouter-Modell: {model}", flush=True)
+    client.timeout_sec = float(args.timeout)
+    return lambda system, user: client.chat(
+        system=system,
+        user=user,
+        temperature=args.temperature,
+        max_tokens=args.max_tokens,
+    )
+
+
+def main() -> int:
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", line_buffering=True)
+    except Exception:
+        if hasattr(sys.stdout, "buffer"):
+            sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+
+    args = parse_args()
+    book = find_book_project(REPO_ROOT, args.book)
+    ids = chapter_ids(book, REPO_ROOT)
+    chapters = selected_chapters(args, ids)
+    if not chapters:
+        print("FEHLER: Keine Kapitel ausgewaehlt.", file=sys.stderr)
+        return 1
+
+    print(f"=== Review: {book['title']} ({book['id']}) ===", flush=True)
+    print(f"Stil: {args.style}", flush=True)
+    print(
+        f"Kapitel: {', '.join(chapters[:8])}{' ...' if len(chapters) > 8 else ''}",
+        flush=True,
+    )
+    print(f"LLM: {args.llm}", flush=True)
+    print(f"LLM-Scope: {args.llm_scope}", flush=True)
+    print(flush=True)
+
+    if args.dry_run:
+        print("(dry-run: keine Reports geschrieben, keine LLM-Calls)", flush=True)
+        return 0
+
+    chat = build_llm_chat(args, book)
+    reviews = []
+    for idx, chapter_id in enumerate(chapters, 1):
+        print(f"[{idx}/{len(chapters)}] Kapitel {chapter_id}", flush=True)
+        review = review_chapter_deterministic(REPO_ROOT, book, chapter_id, args.style)
+        deterministic_count = len([
+            item
+            for scene in review.scenes
+            for item in scene.findings
+        ]) + len(review.findings)
+        print(
+            f"  Regelcheck-Befunde: {deterministic_count}",
+            flush=True,
+        )
+        if chat is not None:
+            add_llm_findings(
+                REPO_ROOT,
+                book,
+                args.style,
+                review,
+                chat=chat,
+                scope=args.llm_scope,
+                progress=lambda scene: print(
+                    f"  KI prueft Kapitel {scene.chapter}, Szene {scene.scene:02d}...",
+                    flush=True,
+                ),
+            )
+        reviews.append(review)
+
+    summary = write_reports(
+        REPO_ROOT,
+        book,
+        args.style,
+        reviews,
+        llm=args.llm,
+    )
+    print()
+    print(f"Summary: {summary.summary_markdown}")
+    print(
+        "Befunde: "
+        f"ERROR={summary.counts.get('ERROR', 0)}, "
+        f"WARNING={summary.counts.get('WARNING', 0)}, "
+        f"INFO={summary.counts.get('INFO', 0)}"
+    )
+    if args.fail_on_errors and summary.counts.get("ERROR", 0) > 0:
+        return 2
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

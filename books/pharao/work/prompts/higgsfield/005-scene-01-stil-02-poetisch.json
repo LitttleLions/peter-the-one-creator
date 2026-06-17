@@ -1,0 +1,65 @@
+{
+  "book": "pharao",
+  "chapter": "005",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "b1808566-674b-4495-b268-756f2ea287d5",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\work\\prompts\\higgsfield\\005-scene-01-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\assets\\scene\\005\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "Image for Der Pharao, chapter 005, scene 01: Szene 1 »Gold in der Hand des Jungen ist Feuer im trockenen Schilf; es wärmt die Treuen, aber es verzehrt den Thron. Denn was der Erbe verspricht, muss der König zahlen.« – Aus den Lehren des Amenemhet Als das Gefolge des Thronfolgers sich Memphis näherte, neigte sich die Sonne dem Untergang zu, und von den unzähligen Kanälen und dem fernen Meer her erhob sich ein Wind, gesättigt mit kühler Feuchtigkeit. Die Straße lief wieder in fruchtbare Gegenden, und auf den Feldern wie im Buschwerk zogen sich ununterbrochene Reihen arbeitender Menschen hin, obwohl über die Wüste schon rosiger Glanz fiel und die Gipfel der Berge in Flammen standen. Da hielt Ramses an und wandte das Pferd. Augenblicklich umringte ihn sein Gefolge, die höheren Befehlshaber ritten heran, und langsam, im Gleichschritt, näherten sich die Reihen der marschierenden Regimenter. In den purpurnen Strahlen der untergehenden Sonne sah der Fürst wie ein Gott aus; die Soldaten blickten mit Stolz und Liebe zu ihm auf, die Befehlshaber mit Bewunderung. Er hob die Hand. Alles verstummte, und er begann zu sprechen: »Erlauchte Feldherren, tapfere Offiziere, gehorsame Soldaten! Heute haben die Götter mich die Süße des Befehlens über solche wie euch erkennen lassen. Die Freude erfüllt mein fürstliches Herz. Und weil es mein Wille ist, dass ihr, Feldherren, Offiziere und Soldaten, stets mein Glück teilt, so bestimme ich: je eine Drachme für jeden Soldaten derer, die gen Osten zogen, und derer, die mit uns von der Ostgrenze.... Book context: Bolesław Prus' historischer Roman Der Pharao erzählt vom Machtkampf zwischen jungem Königtum, Priesterschaft, Staatsräson und persönlichem Ehrgeiz im alten Ägypten. Diese neue deutsche Ausgabe folgt dem polnischen Original Faraon und macht den großen polnischen Klassiker in zeitgemäßer deutscher Sprache zugänglich. Period-accurate clothing, architecture, tools, horse tack, carts, sledges, boats, weapons, and environment. No modern objects, no cars, no trucks, no engines, no electric lights. No readable text, lettering, captions, inscriptions, logos, watermarks, artist signatures, or marks in the image corners.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--custom_reference_id",
+    "b1808566-674b-4495-b268-756f2ea287d5",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260616_151417_5d81fd42-b290-44bb-b2cc-dd8e17ad68d9.png",
+  "job_result": [
+    {
+      "id": "5d81fd42-b290-44bb-b2cc-dd8e17ad68d9",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260616_151417_5d81fd42-b290-44bb-b2cc-dd8e17ad68d9.png",
+      "created_at": 1781622857.272289,
+      "params": {
+        "prompt": "Image for Der Pharao, chapter 005, scene 01: Szene 1 »Gold in der Hand des Jungen ist Feuer im trockenen Schilf; es wärmt die Treuen, aber es verzehrt den Thron. Denn was der Erbe verspricht, muss der König zahlen.« – Aus den Lehren des Amenemhet Als das Gefolge des Thronfolgers sich Memphis näherte, neigte sich die Sonne dem Untergang zu, und von den unzähligen Kanälen und dem fernen Meer her erhob sich ein Wind, gesättigt mit kühler Feuchtigkeit. Die Straße lief wieder in fruchtbare Gegenden, und auf den Feldern wie im Buschwerk zogen sich ununterbrochene Reihen arbeitender Menschen hin, obwohl über die Wüste schon rosiger Glanz fiel und die Gipfel der Berge in Flammen standen. Da hielt Ramses an und wandte das Pferd. Augenblicklich umringte ihn sein Gefolge, die höheren Befehlshaber ritten heran, und langsam, im Gleichschritt, näherten sich die Reihen der marschierenden Regimenter. In den purpurnen Strahlen der untergehenden Sonne sah der Fürst wie ein Gott aus; die Soldaten blickten mit Stolz und Liebe zu ihm auf, die Befehlshaber mit Bewunderung. Er hob die Hand. Alles verstummte, und er begann zu sprechen: »Erlauchte Feldherren, tapfere Offiziere, gehorsame Soldaten! Heute haben die Götter mich die Süße des Befehlens über solche wie euch erkennen lassen. Die Freude erfüllt mein fürstliches Herz. Und weil es mein Wille ist, dass ihr, Feldherren, Offiziere und Soldaten, stets mein Glück teilt, so bestimme ich: je eine Drachme für jeden Soldaten derer, die gen Osten zogen, und derer, die mit uns von der Ostgrenze.... Book context: Bolesław Prus' historischer Roman Der Pharao erzählt vom Machtkampf zwischen jungem Königtum, Priesterschaft, Staatsräson und persönlichem Ehrgeiz im alten Ägypten. Diese neue deutsche Ausgabe folgt dem polnischen Original Faraon und macht den großen polnischen Klassiker in zeitgemäßer deutscher Sprache zugänglich. Period-accurate clothing, architecture, tools, horse tack, carts, sledges, boats, weapons, and environment. No modern objects, no cars, no trucks, no engines, no electric lights. No readable text, lettering, captions, inscriptions, logos, watermarks, artist signatures, or marks in the image corners.",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 384190,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "b1808566-674b-4495-b268-756f2ea287d5"
+      }
+    }
+  ]
+}

@@ -21,20 +21,22 @@ Aktuelle Buchpakete:
 ```text
 books/<book-id>/
   book.yaml                 # fuehrende Buchconfig, Style, AI-Defaults
-  export.yaml               # DOCX-/EPUB-Metadaten, Cover, Titelei
+  export.yaml               # DOCX-/EPUB-/PDF-Metadaten, Cover, Titelei
   names.yaml                # buchlokale Namen-/Begriffsliste fuer Prompts
   source/                   # Originalquellen; nicht ohne Rueckfrage aendern
-  assets/covers/            # Cover und buchbezogene Medien
+  assets/covers/            # Cover
+  assets/chapter/           # optionale Kapitelbilder chapter-NNN.*
+  assets/scene/NNN/         # optionale Szenenbilder scene-NNN.*
   styles/                   # editierbare Style-Profile fuer dieses Buch
   work/
     chapters/               # NNN-source.md
-    scenes/ru/NNN/          # RU-Szenen
+    scenes/<source_lang>/NNN/ # Quell-Szenen, z. B. ru oder en
     scenes/de/<style>/NNN/  # DE-Szenen je Style
     assembled/<style>/      # zusammengesetzte Kapitelversionen
     prompts/                # prompt_file/workspace_ai-Ausgaben
     style-tests/            # Vergleichs- und Referenzdateien
     legacy/                 # alte Dateien/Konflikte fuer dieses Buch
-  exports/<style>/<scope>/  # DOCX-/EPUB-Ausgaben
+  exports/<style>/<scope>/  # DOCX-/EPUB-/PDF-Ausgaben
   status/status.json
   status/logs/NNN.log.md
 ```
@@ -50,6 +52,24 @@ Globale Ordner:
 - `styles/` - globale Style-Vorlagen fuer neue Buchpakete
 - `logic/` - Original-Regelmaterial; nicht ohne Rueckfrage aendern
 - `config/legacy/` - alte zentrale Configs und Migrationsreste
+
+## Voraussetzungen
+
+- **Python-Abhaengigkeiten:** `pip install -r requirements.txt`
+- **Streamlit** (>= 1.36): Wird fuer das Dashboard benoetigt.
+  Enthalten in `requirements.txt`. Start mit `streamlit run tools/dashboard.py`.
+- **Pandoc** (>= 3.0): Wird fuer den EPUB-Export benoetigt.
+  Installation: `winget install --id JohnMacFarlane.Pandoc`
+  Nach Installation muss ein neues Terminal gestartet werden.
+- **Playwright Chromium:** Wird fuer den PDF-Export benoetigt.
+  Installation nach `pip install -r requirements.txt`:
+  `python -m playwright install chromium`
+- **Higgsfield CLI:** Wird fuer Kapitel-/Szenenbilder benoetigt.
+  Installation: `npm install -g @higgsfield/cli`; Auth mit
+  `higgsfield auth login`. Details und Moodboard-Discovery stehen in
+  `docs/higgsfield-integration.md`.
+- **`.env`-Datei:** Kopiere `.env.example` nach `.env` und trage
+  den `OPENROUTER_API_KEY` ein (OpenRouter-Account noetig).
 
 ## Harte Regeln
 
@@ -84,7 +104,7 @@ python tools/init_book.py --source "books/Meine Quelle.rtf"
 # Kapitelquellen erzeugen
 python tools/extract_chapters.py --book anna-karenina
 
-# RU-Szenen erzeugen
+# Quell-Szenen erzeugen
 python tools/extract_scenes.py --book anna-karenina --chapter 001
 python tools/extract_scenes.py --book anna-karenina --all
 
@@ -99,8 +119,9 @@ python tools/translate_batch.py --book anna-karenina --missing --style stil-01-o
 # Kapitel ohne LLM zusammensetzen
 python tools/assemble_chapter.py --book anna-karenina --chapter 001 --style stil-01-original
 
-# DOCX/EPUB exportieren
+# DOCX/EPUB/PDF exportieren
 python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter 001 --style stil-01-original --format all --allow-partial
+python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter 001 --style stil-01-original --format pdf --allow-partial
 
 # Status
 python tools/status.py --book anna-karenina summary
@@ -112,10 +133,10 @@ streamlit run tools/dashboard.py
 ```
 
 `translate_batch.py` ist ein Uebersetzungs-Batch, kein Export-Befehl. Er
-erzeugt fehlende RU-Arbeitseinheiten bei Bedarf und ruft danach
+erzeugt fehlende Quell-Arbeitseinheiten bei Bedarf und ruft danach
 `translate_chapter.py` fuer mehrere Kapitel auf. Kapitel-Assembly passiert
 nur mit `--assemble-after` oder separat ueber `assemble_chapter.py`;
-DOCX/EPUB entstehen erst ueber `export_manuscript.py`.
+DOCX/EPUB/PDF entstehen erst ueber `export_manuscript.py`.
 
 ## Style-Profile
 
@@ -159,15 +180,30 @@ oder im Zweifel beibehalten.
 
 ## Export
 
-DOCX/EPUB liest fertige DE-Szenen aus
+DOCX/EPUB/PDF liest fertige DE-Szenen aus
 `books/<book-id>/work/scenes/de/<style>/` und schreibt nach
 `books/<book-id>/exports/<style>/<scope>/`. Cover, Titelseite,
 Zusammenfassung, Autorenleben, Impressum und Inhaltslogik stehen in
 `books/<book-id>/export.yaml`. Coverpfade sind relativ zum Buchpaket, z. B.
 `assets/covers/annakarenina.png`.
 
+Optionale Exportbilder liegen ebenfalls relativ zum Buchpaket. Kapitelbilder
+werden als `assets/chapter/chapter-NNN.*` abgelegt, Szenenbilder als
+`assets/scene/NNN/scene-NNN.*`. Unterstuetzt werden `.jpg`, `.jpeg`, `.png`
+und `.webp`; fehlende Bilder werden uebersprungen. Gesteuert wird dies ueber
+`illustrations` in `export.yaml`.
+
+Higgsfield-Generierungsdefaults liegen pro Buch in `book.yaml` unter
+`higgsfield`. `tools/generate_illustration.py` liest dort Modell,
+Moodboard-/Custom-Reference-UUID, Qualitaet und Seitenverhaeltnis. Erkannte
+Moodboards und der Discovery-Workflow sind in `docs/higgsfield-integration.md`
+dokumentiert.
+
 Standardfolge fuer Leserexporte: Coverbild, Titelseite, Zusammenfassung,
 Leben des Autors, dann Textbeginn mit Teil-/Buchgruppe und Kapiteln.
+
+PDF wird explizit mit `--format pdf` erzeugt. `--format all` bleibt
+rueckwaertskompatibel bei DOCX+EPUB.
 
 ## Aktueller Stand
 

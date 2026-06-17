@@ -1,0 +1,76 @@
+id: pharao
+title: Der Pharao
+author: Bolesław Prus
+source_path: source/faraon.epub
+source_lang: pl
+target_lang: de
+ruleset_path: ''
+ruleset_apply: false
+style_mode: stil-02-poetisch
+work_dir: work
+exports_dir: exports
+status_file: status/status.json
+log_dir: status/logs
+styles_dir: styles
+assets_dir: assets
+names_file: names.yaml
+structure:
+  mode: chapter_as_scene
+  label: Kapitel als Szenen
+  groups:
+  - id: tom-1
+    label: Tom I
+    from: '001'
+    to: '025'
+  - id: tom-2
+    label: Tom II
+    from: '026'
+    to: '049'
+  - id: tom-3
+    label: Tom III
+    from: '050'
+    to: '067'
+display:
+  chapters:
+    format: words_de
+    suffix: " Kapitel"
+    align: center
+    include_source_title: false
+    titles:
+      '000': Einleitung
+      '068': Epilog
+  scenes:
+    show: false
+naming_convention:
+  style: Deutsche Namensformen nach etablierter historischer Schreibweise.
+  example:
+  - Rameses -> Ramses
+  - Herhor -> Herhor
+  - Sargon -> Sargon
+higgsfield:
+  model: text2image_soul_v2
+  aspect_ratio: "3:4"
+  quality: 1.5k
+  moodboard:
+    name: Pharao III
+    custom_reference_id: b1808566-674b-4495-b268-756f2ea287d5
+    source: "higgsfield generate list --image --size 100 --json"
+  alternate_moodboards:
+  - name: Pharao
+    custom_reference_id: 810f82ce-f518-4c48-b545-515a63ad72ca
+    source: "higgsfield generate list --image --size 100 --json"
+  - name: Pharao II
+    custom_reference_id: c38052cf-6afc-4ae7-9dbb-1cf083f97242
+    source: "higgsfield generate list --image --size 100 --json"
+notes: >-
+  Buchpaket fuer Bolesław Prus, Der Pharao. Als Master-Quelle wird die
+  polnische Wolne-Lektury-EPUB `source/faraon.epub` verwendet. Sie enthaelt
+  Wstep, drei Tomy mit insgesamt 67 Roman-Kapiteln und einen Epilog. Die alte
+  englische Gutenberg-Quelle bleibt nur als Legacy-/Referenzmaterial im
+  Source-Ordner.
+ai:
+  provider: openrouter
+  model: deepseek/deepseek-v4-pro
+  granularity: scene
+  max_tokens_per_scene: 10000
+  chunk_char_limit: 12000

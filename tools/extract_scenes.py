@@ -2,12 +2,12 @@
 extract_scenes.py
 =================
 
-Zerlegt eine oder alle NNN-source.md-Dateien in einzelne russische
-Szenen-Dateien.
+Zerlegt eine oder alle NNN-source.md-Dateien in einzelne
+Quellsprachen-Szenen-Dateien.
 
 Neue Struktur:
     books/<book-id>/work/chapters/NNN-source.md
-    books/<book-id>/work/scenes/ru/NNN/scene-01.md
+    books/<book-id>/work/scenes/<source_lang>/NNN/scene-01.md
 """
 
 from __future__ import annotations
@@ -23,7 +23,7 @@ from lib.book_project import find_book as find_book_project
 from lib.output_paths import (
     book_output_root,
     chapters_dir,
-    ru_scene_path,
+    source_scene_path,
 )
 from lib.scene_splitter import Scene, count_words, split_into_scenes
 
@@ -36,8 +36,8 @@ def find_book(book_id: str | None) -> dict:
 
 
 def scene_file_path(output_root: Path, chapter_id: str,
-                    scene_number: int) -> Path:
-    return ru_scene_path(output_root, chapter_id, scene_number)
+                    scene_number: int, source_lang: str = "ru") -> Path:
+    return source_scene_path(output_root, chapter_id, scene_number, source_lang)
 
 
 def source_body_as_single_scene(src_path: Path) -> Scene:
@@ -64,6 +64,7 @@ def extract_scenes_for_chapter(
     output_root: Path,
     chapter_id: str,
     structure_mode: str = "scenes",
+    source_lang: str = "ru",
     dry_run: bool = False,
 ) -> list[dict]:
     source_dir = chapters_dir(output_root)
@@ -84,7 +85,7 @@ def extract_scenes_for_chapter(
 
     results = []
     for sc in scenes:
-        sf = scene_file_path(output_root, chapter_id, sc.number)
+        sf = scene_file_path(output_root, chapter_id, sc.number, source_lang)
         wc = count_words(sc.text)
         results.append({
             "number": sc.number,
@@ -109,7 +110,7 @@ def main() -> int:
                                           errors="replace")
 
     ap = argparse.ArgumentParser(
-        description="Kapitel in russische Szenen-Dateien zerlegen."
+        description="Kapitel in Quellsprachen-Szenen-Dateien zerlegen."
     )
     ap.add_argument("--book", default=None,
                     help="Buch-ID (default: erstes Buchpaket)")
@@ -127,6 +128,7 @@ def main() -> int:
     book = find_book(args.book)
     structure = book.get("structure") or {}
     structure_mode = str(structure.get("mode") or "scenes")
+    source_lang = str(book.get("source_lang") or "ru")
     output_root = book_output_root(REPO_ROOT, book)
     source_dir = chapters_dir(output_root)
 
@@ -156,6 +158,7 @@ def main() -> int:
             output_root,
             cid,
             structure_mode=structure_mode,
+            source_lang=source_lang,
             dry_run=args.dry_run,
         )
         if not results:

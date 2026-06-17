@@ -1,52 +1,51 @@
 ## Szene 3
 
-> „Keinem Knecht sei erlaubt, seinen Herrn zu verlassen, noch einem anderen Herrn zu dienen; er ist gebunden an die Scholle, darauf er geboren, bis in den Tod, und seine Kinder nach ihm.“
-> *— Aus einem fiktiven Ukas jener Zeit*
+> Aus dem Ukas des Zaren Alexei Michailowitsch, die Flucht von Bauern betreffend: »...und jene entlaufenen Bauern, mit Weib und Kind und allem bäuerlichen Besitz, sind zurückzuführen, wo einer nach den Schreibbüchern hingehört... Und wer fortan einen entlaufenen Bauern aufnimmt und birgt, von dem ist eine Strafe zu nehmen, und der Bauer mit Weib und Kind und Besitz ist an seinen alten Herrn auszuliefern, damit es künftig unverbrüchlich sei.«
 
-Iwaschka und der Zigeuner ließen die Pferde vor dem hohen Tor stehen. Über ihm, unter dem Giebeldach, das Bild des ehrwürdigen Kreuzes des Herrn. Von dort zog sich, um das ganze Gehöft, ein unübersteiglicher Palisadenzaun. Selbst gegen Tataren... Die Bauern zogen die Mützen. Iwaschka griff nach dem Ring an der Pforte und sprach, wie es sich gehörte:
+Iwaschka und der Zigeuner ließen die Pferde vor dem hohen Tor stehen. Darüber, unter dem Giebeldach – ein Bildnis des ehrwürdigen Kreuzes des Herrn. Weiter dehnte sich, rund um das ganze Gehöft, ein unübersteigbarer Palisadenzaun. Selbst gegen Tataren tauglich... Die Bauern nahmen die Mützen ab. Iwaschka ergriff den Ring an der Pforte, sprach, wie es sich gehörte:
 
 »Herr Jesus Christus, Sohn Gottes, erbarme dich unser...«
 
-Mit knarrenden Bastschuhen trat Awerjan, der Wächter, aus der Pförtnerloge, spähte durch den Spalt – die Eigenen. Er sprach: Amen – und begann, das Tor zu öffnen.
+Mit knarrenden Bastschuhen trat Awerjan, der Wächter, aus dem Torhaus, blickte durch den Spalt – die Eigenen. Sprach: »Amen« – und begann, das Tor zu öffnen.
 
-Die Bauern führten die Pferde auf den Hof. Sie standen ohne Mützen und schielten hinüber zu den glimmerverkleideten Fensterchen des Bojarenhauses. Dorthin, ins Herrenhaus, führte eine Freitreppe mit steiler Stiege. Eine prächtige Treppe aus Schnitzholz, das Dach eine Zwiebelhaube. Über dem Treppenaufgang ein Zeltdach, mit zwei Halbtonnen, mit vergoldetem Firstkamm. Das untere Wohngeschoss des Hauses – das Sockelgeschoss – aus mächtigen Balken. Wassili Wolkow hatte es einst herrichten lassen als Vorratskammern für die Winter- und Sommervorräte – Brot, Pökelfleisch, Eingesalzenes, allerlei Eingeweichtes. Doch – die Bauern wussten es – in seinen Vorratskammern hausten nur die Mäuse. Und die Treppe – Gott schenke sie manchem Fürsten: eine reiche Treppe...
+Die Bauern führten die Pferde in den Hof. Sie standen ohne Mützen, die Augen schielend auf die kleinen Glimmerfenster des Herrenhauses gerichtet. Dorthin, in die Gemächer, führte eine Freitreppe mit steiler Stiege. Eine prächtige Treppe aus Schnitzholz, das Dach in Zwiebelform. Über der Treppe wölbte sich ein Zeltdach mit zwei Halbtonnen, mit einem vergoldeten Firstkamm. Das untere Wohngeschoss des Hauses – der Sockel – aus mächtigen Balken. Wassili Wolkow hatte es herrichten lassen als Lager für Winter- und Sommervorräte – Brot, Pökelfleisch, Einsalzungen, allerlei Eingemachtes. Aber – die Bauern wussten es – in seinen Lagern hausten nur Mäuse. Die Treppe aber – möge Gott sie einem anderen Fürsten geben: eine Treppe war das, reich und prächtig...
 
-»Awerjan, weshalb hat uns der Bojar mit den Pferden herbeordert – ist da eine neue Frondienstpflicht oder was?« fragte Iwaschka. »Hinter uns steht doch, scheint's, nichts dergleichen...«
+»Awerjan, warum hat der Bojar uns mit den Pferden herbestellt – ist das eine Fron, oder was?«, fragte Iwaschka. »Hinter uns ist, scheint's, nichts dergleichen...«
 
-»Kriegsleute werdet ihr nach Moskau fahren...«
+»Ihr werdet Kriegsleute nach Moskau bringen...«
 
-»Schon wieder die Gäule zuschanden machen?«
+»Schon wieder die Pferde zuschanden fahren?«
 
-»Was man so hört«, fragte der Zigeuner und rückte näher, »gegen wen geht der Krieg? Gibt's Unruhen?«
+»Und was hört man«, fragte der Zigeuner, näher tretend, »Krieg mit wem? Aufruhr?«
 
-»Das ist weder deines noch meines Verstandes Sache.« Der grauhaarige Awerjan verneigte sich. »Befohlen ist – du fährst. Ein ganzes Fuder Ruten haben sie heute gebracht, für euresgleichen...«
+»Das ist weder deines noch meines Verstandes Sache.« Der ergraute Awerjan verneigte sich. »Befohlen ist – du fährst. Heut hat man einen Wagen voll Ruten für euresgleichen gebracht...«
 
-Awerjan ging, ohne die Knie zu beugen, zur Wachstube. In der winterlichen Dämmerung leuchtete da und dort ein Fensterchen herüber. Vielerlei Gebäude war auf dem Hof zusammengebaut – Viehhöfe, Keller, Hütten, eine Schmiede. Aber alles kaum zur Hälfte genutzt. Leibeigene Hofknechte hatte Wolkow insgesamt fünfzehn Seelen, und auch die lebten von der Hand in den Mund. Sie arbeiteten freilich – pflügten so behelfsmäßig, säten, fuhren Holz, doch wovon sollte man davon leben? Sklavenarbeit. Man erzählte, Wassili schicke einen seiner Leute nach Moskau, auf den Kirchenstufen den Narren zu spielen – der brachte Geld ein. Und zwei weitere zögen mit ihren Bauchläden in Moskau herum, verkauften Löffel, Bastschuhe, Pfeifchen... Doch das Fundament blieben die Bauern. Die – ernährten sie...
+Awerjan ging, ohne die Knie zu beugen, in das Wächterhäuschen. In der winterlichen Dämmerung leuchtete hier und da ein Fensterchen. Vielerlei Bauten waren auf dem Hof errichtet – Viehställe, Keller, Hütten, eine Schmiede. Aber alles gut zur Hälfte unnütz. Leibeigene Hofknechte hatte Wolkow insgesamt fünfzehn Seelen, und auch die schlugen sich von Brot auf Kwas durch. Arbeiteten freilich – pflügten so obenhin, säten, fuhren Holz, aber kann man davon leben? Sklavenarbeit. Man sagte, Wassili schicke einen nach Moskau, als Narr vor der Kirchentür zu betteln – der brachte Geld. Und zwei gingen mit Bauchläden in Moskau hausieren, verkauften Löffel, Bastschuhe, Pfeifchen... Doch die Grundlage waren die Bauern. Die – ernährten alle.
 
-Iwaschka und der Zigeuner standen in der Hofdämmerung und dachten nach. Zur Eile trieb sie nichts. Gutes zu erwarten gab es nichts. Gewiss, die Alten erzählen, früher sei es leichter gewesen: Gefiel es einem nicht, ging man zum nächsten Gutsherrn. Heutzutage ist das verboten – wo es befohlen ist, da lebe. Befohlen ist, Wassili Wolkow zu ernähren – wie du willst, so ernähre ihn. Alle sind zu Leibeigenen verkommen. Und man muss gewärtigen: Es wird noch beschwerlicher kommen...
+Iwaschka und der Zigeuner standen in der Dämmerung auf dem Hof und dachten nach. Eile tat nicht not. Gutes war nirgendwo zu erwarten. Freilich, die Alten erzählten, früher sei es leichter gewesen: gefiel's einem nicht, ging man zu einem anderen Gutsherrn. Heutzutage war das verboten, – wo es einem befohlen ist, da lebt man. Befohlen ist es, Wassili Wolkow zu ernähren, – wie du willst, so ernähre ihn. Alle waren Leibeigene geworden. Und man musste abwarten: es würde noch schwerer werden...
 
-Irgendwo kreischte eine Tür, durch den Schnee flog ein barhaariges Hofmädchen herbei, eine Schamlose:
+Irgendwo kreischte eine Tür, über den Schnee flog ein barhäuptiges Bauernmädchen heran, eine Schamlose:
 
-»Der Bojar hat befohlen – spannt die Pferde aus. Übernachten hat er befohlen. Den Pferden Futter geben, doch, Gott bewahre, nur nicht das Heu des Bojaren anrühren...«
+»Der Bojar hat befohlen, – spannt aus. Hat befohlen, zu nächtigen. Den Pferden vorzulegen – Gott bewahre, Bojarenheu...«
 
-Der Zigeuner wollte die Dirne schon mit der Peitsche über ihr glattes Hinterteil brennen, da war sie auch schon fort... Ohne Hast spannten sie aus. Sie gingen ins Gesindehaus, die Nacht zu verbringen. Die Hofknechte, ihrer acht, hatten dem Bojaren eine Talgkerze entwendet und klatschten nun mit fettigen Karten auf den Tisch – sie spielten einander die Kopeken ab... Geschrei, Gezänk, einer versuchte das Geld in die Backe zu stopfen, ein anderer riss ihm die Lippen auf. Taugenichtse, und dabei – satt!
+Der Zigeuner wollte das Mädchen schon mit der Peitsche über den glatten Hintern streichen, – sie entlief... Ohne Eile spannten sie aus. Gingen in die Gesindestube übernachten. Die Hofleute, ihrer acht, hatten dem Bojaren eine Talgkerze gestohlen und klatschten nun schmierige Karten auf den Tisch, – spielten sich gegenseitig die Kopeken ab... Geschrei, Streit, einer will das Geld in die Backe stopfen, ein anderer reißt ihm die Lippen auf. Tagediebe, und, bei Gott – satte!
 
-Abseits auf einer Bank saß ein Junge im langen Leinenhemd, in zerrissenen Bastschuhen – Aljoschka, der Sohn Iwan Artemjitschs. Im Herbst hatte man ihn, vor Hunger und wegen Rückständen, dem Bojaren in ewige Schuldknechtschaft geben müssen. Der Junge war großäugig, ganz nach der Mutter. An seinen Haarbüscheln sah man – hier wurde er geprügelt. Iwan schielte zu seinem Sohn hin, Mitleid stieg in ihm auf, er sagte nichts. Aljoschka verneigte sich still und tief vor dem Vater.
+Abseits, auf einer Bank, saß ein Junge in langem Leinenhemd, in zerrissenen Bastschuhen, – Aljoschka, der Sohn Iwan Artemjitschs. Im Herbst hatte man ihn, vor Hunger, wegen Rückstand, dem Bojaren in ewige Schuldknechtschaft geben müssen. Der Junge war großäugig, nach der Mutter. An den Haarbüscheln war zu sehen – man schlug ihn hier. Iwan blickte schief auf den Sohn, Jammer überkam ihn, er sagte nichts. Aljoschka verneigte sich stumm, tief vor dem Vater.
 
-Er winkte den Sohn heran und fragte flüsternd:
+Er winkte den Sohn heran, fragte flüsternd:
 
-»Hast du zu Abend gegessen?«
+»Zu Abend gegessen?«
 
-»Ja.«
+»Zu Abend gegessen.«
 
-»Ach, vom Hof hab ich kein Brot mitnehmen können.« (Er log, – ein Kanten Brot steckte hinter seinem Hemd, in einem Tuch.) »Sieh zu, dass du irgendwie zurechtkommst... Hör, Aljoscha... Morgen früh will ich dem Bojaren zu Füßen fallen, – ich hab viel Arbeit daheim. Vielleicht erbarmt er sich, – fahr du an meiner Statt nach Moskau.«
+»Ach, ich hab vom Hof kein Brot mitgenommen.« (Er log, – ein Kanten Brot steckte ihm im Busen, in einem Läppchen.) »Sorg du nur selber, wie du zurechtkommst... Hör zu, Aljoschka... Morgen früh will ich dem Bojaren zu Füßen fallen, – zu tun hab ich viel. Vielleicht erbarmt er sich, – fahr du für mich nach Moskau.«
 
-Aljoschka nickte ernsthaft: »Gut, Väterchen.« Iwan begann, sich seiner Stiefel zu entledigen, und sagte in flottem Plauderton, als wäre er heiter und satt:
+Aljoschka nickte gesetzt: »Gut, Vater.« Iwan begann, sich die Schuhe auszuziehen, und – mit flottem Zungenschlag, als sei er vergnügt und satt:
 
-»So, so, jeden Tag habt ihr hier, ihr Burschen, solche Lustbarkeit? Ei, leicht lebt ihr’s, süß trinkt ihr’s, nicht wahr...«
+»Was ist denn das, Kerle, habt ihr jeden Tag so ein Vergnügen? Ei, leicht lebt ihr, süß trinkt ihr...«
 
-Einer, ein baumlanger Knecht, ließ die Karten sinken und drehte sich um:
+Einer, ein baumlanger Knecht, warf die Karten hin, wandte sich um:
 
-»Und wer bist du, dass du uns hier Vorschriften machst...«
+»Und wer bist du hier, – dass du uns Vorhaltungen machst...«
 
-Iwan kletterte, ohne die Ohrfeige abzuwarten, hurtig auf die Schlafpritsche.
+Iwan wartete nicht erst, bis man ihm eins hinter die Ohren gab, und kletterte auf die Schlafpritsche.

@@ -1,3 +1,7 @@
+I był wielki ruch w tej okolicy. Na niebie drapieżne ptactwo pustyni uganiało się za gołębiami i kawkami ziemi Gosen. Wzdłuż kanału huśtały się zgrzytające żurawie z kubełkami płodnej wody, a ludzie, którzy zbierali owoce, ukazywali się i znikali między zielonością drzew jak barwne motyle. Zaś w pustyni, na szosie, już zamrowiło się wojsko i jego służba. Przeleciał oddział konnych uzbrojony w lance. Za nim pomaszerowali łucznicy w czepkach i spódniczkach; mieli oni łuki w garści, sajdaki na plecach i szerokie tasaki u prawego boku. Łucznikom towarzyszyli procarze niosący torby z pociskami i uzbrojeni w krótkie miecze.
+
+O sto kroków za nimi szły dwa małe oddziałki piechoty: jeden uzbrojony we włócznie, drugi w topory. Ci i tamci nieśli w rękach prostokątne tarcze, na piersiach mieli grube kaftany, niby pancerze, a na głowie czepki z chusteczkami zasłaniającymi kark od upału. Czepki i kaftany były w pasy: niebieskie z białym lub żółte z czarnym, co robiło żołnierzy podobnymi do wielkich szerszeni.
+
 Za przednią strażą, otoczona oddziałem toporników, posuwała się lektyka ministra, a za nią, w miedzianych hełmach i pancerzach, greckie roty, których miarowy krok przypominał uderzenia ciężkich młotów. W tyle było słychać skrzypienie wozów, ryk bydła i krzyki woźniców, a z boku szosy przemykał się brodaty handlarz fenicki w lektyce zawieszonej między dwoma osłami. Nad tym wszystkim unosił się tuman złotego pyłu i gorąco.
 
 Nagle od straży przedniej przycwałował konny żołnierz i zawiadomił ministra, że zbliża się następca tronu. Jego dostojność wysiadł z lektyki, a w tejże chwili na szosie ukazała się garstka jeźdźców, którzy zeskoczyli z koni. Po czym jeden z jeźdźców i minister zaczęli iść ku sobie, co kilka kroków zatrzymując się i kłaniając.
@@ -92,7 +96,7 @@ W chwili gdy spoza greckich szeregów ośmiu ludzi wyniosło ogromną lektykę T
 
 Wszyscy zwrócili się do niego, co zdawało się robić mu przyjemność.
 
-— Erpatre, najwyższe usta! — zawołał Eunana, schylając się przed Ramzesem. — Kiedy, zgodnie z twoim boskim rozkazem, jechałem na czele oddziału, pilnie bacząc na wszystko, spostrzegłem na szosie dwa piękne skarabeusze. Każdy ze świętych żuków toczył przed sobą glinianą kulkę
+— Erpatre, najwyższe usta! — zawołał Eunana, schylając się przed Ramzesem. — Kiedy, zgodnie z twoim boskim rozkazem, jechałem na czele oddziału, pilnie bacząc na wszystko, spostrzegłem na szosie dwa piękne skarabeusze. Każdy ze świętych żuków toczył przed sobą glinianą kulkę w poprzek drogi, ku piaskom...
 
 — Więc cóż? — przerwał następca.
 

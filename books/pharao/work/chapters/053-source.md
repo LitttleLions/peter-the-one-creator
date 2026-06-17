@@ -33,7 +33,7 @@ Chór II. I nie urodzony przez nikogo rodzisz sam siebie na horyzoncie.”
 
 A w tym miejscu odezwał się faraon:
 
-— „O promieniejący na niebie! Pozwól, ażebym wstąpił do wieczności, połączył się z czcigodnymi i doskonałymi cieniami wyższej krainy. Niechaj wraz z nimi oglądam twoje blaski z rana i wieczorem, kiedy łączysz się z twoją matką Nut. A gdy zwrócisz ku zachodowi twe oblicze, niech moje ręce składają się do modlitwy na cześć usypiającego za górami życia
+— „O promieniejący na niebie! Pozwól, ażebym wstąpił do wieczności, połączył się z czcigodnymi i doskonałymi cieniami wyższej krainy. Niechaj wraz z nimi oglądam twoje blaski z rana i wieczorem, kiedy łączysz się z twoją matką Nut. A gdy zwrócisz ku zachodowi twe oblicze, niech moje ręce składają się do modlitwy na cześć usypiającego za górami życia.”
 
 Tak z podniesionymi rękoma mówił pan otoczony chmurą kadzideł. Nagle umilkł i rzucił się w tył, w ramiona asystujących kapłanów.
 
@@ -43,7 +43,7 @@ Wieść o śmierci faraona jak błyskawica obiegła pałac. Słudzy opuścili sw
 
 Na głównym dziedzińcu począł zbierać się tłum: kucharzy, piwniczych, masztalerzy, kobiet jego świątobliwości i ich dzieci. Jedni zapytywali: czy to prawda? inni dziwili się, że jeszcze słońce świeci na niebie, a wszyscy razem krzyczeli wniebogłosy:
 
-— „O panie!... o nasz ojcze!... o ukochany!... Czy to może być, ażebyś już odchodził od nas?... O tak, już idzie do Abydos!... Na Zachód, na Zachód, do ziemi sprawiedliwych!... Miejsce, które ukochałeś, jęczy i płacze po tobie!...
+— „O panie!... o nasz ojcze!... o ukochany!... Czy to może być, ażebyś już odchodził od nas?... O tak, już idzie do Abydos!... Na Zachód, na Zachód, do ziemi sprawiedliwych!... Miejsce, które ukochałeś, jęczy i płacze po tobie!...”
 
 Straszny wrzask rozlegał się po wszystkich dziedzińcach, po całym parku. Odbijał się od gór wschodnich, na skrzydłach wiatru przeleciał Nil i zatrwożył miasto Memfis.
 
@@ -177,7 +177,7 @@ Wówczas na dolnym krańcu łuku ukazała się kapłanka przebrana za boginią I
 
 Teraz łódź ze szczytu łuku zaczęła opuszczać się ku zachodowi, a na dole znowu odezwał się chór:
 
-„Bóg wcielony we wszystkie rzeczy, duch Szu we wszystkich bogach. On jest ciałem żyjącego człowieka, twórcą drzewa, które nosi owoce, on jest sprawcą użyźniających wylewów. Bez niego nic nie żyje w ziemskim kręgu
+„Bóg wcielony we wszystkie rzeczy, duch Szu we wszystkich bogach. On jest ciałem żyjącego człowieka, twórcą drzewa, które nosi owoce, on jest sprawcą użyźniających wylewów. Bez niego nic nie żyje w ziemskim kręgu.”
 
 Łódź znikła na zachodnim końcu balkonu, Izyda z Horusem stanęli na szczycie łuku. Wówczas do łodzi przybiegła gromada kapłanów, wydobyli zwłoki faraona i położyli je na marmurowym stole, niby Ozyrysa na spoczynek po dziennym trudzie.
 
@@ -245,7 +245,7 @@ Pod dozorem tego czcigodnego grona specjaliści zaczęli napełniać wnętrze zm
 
 Następnie całe ciało obsypano proszkiem sody.
 
-Teraz przystąpił inny kapłan i wyłożył obecnym, że ciało zmarłego jest ciałem Ozyrysa i jego własności są własnościami Ozyrysa. „Czarodziejskie własności jego lewej skroni są własnościami skroni boga Tumu, a jego prawe oko jest okiem boga Tumu, którego promienie przebijają ciemność. Jego lewe oko jest okiem Horusa, które tępi wszystkie stworzenia żyjące, warga górna to Izis
+Teraz przystąpił inny kapłan i wyłożył obecnym, że ciało zmarłego jest ciałem Ozyrysa i jego własności są własnościami Ozyrysa. „Czarodziejskie własności jego lewej skroni są własnościami skroni boga Tumu, a jego prawe oko jest okiem boga Tumu, którego promienie przebijają ciemność. Jego lewe oko jest okiem Horusa, które tępi wszystkie stworzenia żyjące, warga górna to Izis, a warga dolna Nefthys. Szyja zmarłego jest boginią, ręce są boskimi duszami, palce niebieskimi wężami, synami bogini Selkit. Boki jego to dwa pióra Amona, grzbiet jest kością pacierzową Sibu, zaś brzuch jest bogiem Nue.”
 
 Inny kapłan mówi:
 

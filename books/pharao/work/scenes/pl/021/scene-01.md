@@ -92,7 +92,7 @@ Nareszcie, zmęczony zabawami, książę oświadczył dostojnemu Otoesowi, że c
 
 Życzeniu stało się zadość. Nomarcha poprosił księcia, aby usiadł do lektyki, niesionej tylko przez dwu ludzi, i z wielkim orszakiem zaprowadził go do świątyni bóstwa Hator. Tam orszak został w przysionku, a nomarcha kazał tragarzom wnieść księcia na szczyt jednego z pylonów i sam mu towarzyszył.
 
-Ze szczytu sześciopiętrowej wieży, skąd kapłani obserwowali niebo i za pomocą kolorowych chorągwi porozumiewali się z sąsiednimi świątyniami w Memfis, Athribis i Anu
+Ze szczytu sześciopiętrowej wieży, skąd kapłani obserwowali niebo i za pomocą kolorowych chorągwi porozumiewali się z sąsiednimi świątyniami w Memfis, Athribis i Anu, wzrok ogarniał w kilkumilowym promieniu prawie całą prowincję. Z tego też miejsca dostojny Otoes pokazywał księciu: gdzie leżą pola i winnice faraona, który kanał oczyszcza się obecnie, która tama ulega naprawie, gdzie znajdują się piece do topienia brązu, gdzie spichrze królewskie, gdzie bagna zarośnięte lotosem i papirusem, które pola zostały zasypane piaskiem i tak dalej.
 
 Ramzes był zachwycony pięknym widokiem i gorąco dziękował Otoesowi za doznaną przyjemność. Lecz gdy wrócił do pałacu i wedle rady ojca zaczął notować wrażenia, przekonał się, że jego wiadomości o ekonomicznym stanie nomesu Aa nie rozszerzyły się.
 

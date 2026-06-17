@@ -1,8 +1,8 @@
 Już i między ludem miasta Pi-Bast zaczęły rozchodzić się groźne wieści o Libijczykach. Opowiadano, że rozpuszczeni przez kapłanów żołnierze barbarzyńscy, wracając do swej ojczyzny, z początku żebrali, potem kradli, a w końcu zaczęli rabować i palić wsie egipskie, mordując przy tym mieszkańców.
 
-W ten sposób w ciągu kilku dni zostały napadnięte i zniszczone miasta: Chinensu, Pimat
+W ten sposób w ciągu kilku dni zostały napadnięte i zniszczone miasta: Chinensu, Pimat i Kasa na południe do jeziora Moeris. W ten sposób zginęła karawana kupców i pielgrzymów egipskich wracających z oazy Uit-Mehe. Cała zachodnia granica państwa była w niebezpieczeństwie, a nawet z Terenuthis zaczęli uciekać mieszkańcy. I w tamtej bowiem okolicy od strony morza ukazały się bandy libijskie, jakoby wysłane przez groźnego wodza Musawasę, który podobno w całej pustyni miał ogłosić świętą wojnę przeciw Egiptowi.
 
-Toteż jeżeli którego wieczoru zachodni pas nieba czerwienił się zbyt długo, na mieszkańców Pi-Bast padała trwoga. Ludzie gromadzili się po ulicach, niektórzy wchodzili na płaskie dachy lub wdrapywali się na drzewa i stamtąd ogłaszali, że — widzą pożar w Menuf albo w Sechem
+Toteż jeżeli którego wieczoru zachodni pas nieba czerwienił się zbyt długo, na mieszkańców Pi-Bast padała trwoga. Ludzie gromadzili się po ulicach, niektórzy wchodzili na płaskie dachy lub wdrapywali się na drzewa i stamtąd ogłaszali, że — widzą pożar w Menuf albo w Sechem. Byli nawet i tacy, którzy pomimo zmroku dostrzegali uciekających mieszkańców albo libijskie bandy maszerujące w kierunku Pi-Bast długimi, czarnymi szeregami.
 
 Pomimo wzburzenia ludności rządcy nomesu zachowywali się obojętnie; władza bowiem centralna nie przysłała im żadnych rozkazów.
 
@@ -12,7 +12,7 @@ Lecz ponieważ obaj kapłani nie zgłaszali się do niego, nawet jakby unikali r
 
 W końcu przestał odwiedzać stojące pod Pi-Bast pułki, a natomiast, zgromadziwszy do pałacu całą szlachecką młodzież, bawił się i ucztował, tłumiąc w sercu oburzenie na kapłanów i obawę o losy państwa.
 
-— Zobaczysz!... — powiedział raz do Tutmozisa. — Święci prorocy wykierują nas tak, że Musawasa zabierze Dolny Egipt, a my będziemy musieli uciekać do Tebów, jeżeli nie do Sunnu, o ile znowu stamtąd nie wypędzą nas Etiopowie
+— Zobaczysz!... — powiedział raz do Tutmozisa. — Święci prorocy wykierują nas tak, że Musawasa zabierze Dolny Egipt, a my będziemy musieli uciekać do Tebów, jeżeli nie do Sunnu, o ile znowu stamtąd nie wypędzą nas Etiopowie...
 
 — Prawdę rzekłeś — odparł Tutmozis — że nasi władcy poczynają sobie, jakby byli zdrajcami.
 

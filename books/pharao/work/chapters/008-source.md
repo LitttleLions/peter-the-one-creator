@@ -27,7 +27,7 @@ Wybiegł, wsiadł do małej lektyki i, otoczony służbą tudzież takimi jak sa
 
 Przed zachodem słońca do domu następcy tronu przyjechał Fenicjanin Dagon, najznakomitszy bankier w Memfis. Był to człowiek w sile wieku, żółty, suchy, ale dobrze zbudowany. Miał niebieską tunikę, na niej biały płaszcz z cienkiej tkaniny, ogromne włosy własne, ściśnięte złotą obrączką, i dużą czarną brodę, również własną. Bujny ten zarost imponująco wyglądał obok peruk i przyprawnych bródek egipskich elegantów.
 
-Mieszkanie następcy roiło się arystokratyczną młodzieżą. Jedni na dole kąpali się i namaszczali, inni grali w szachy i arcaby
+Mieszkanie następcy roiło się arystokratyczną młodzieżą. Jedni na dole kąpali się i namaszczali, inni grali w szachy i arcaby na piętrze, inni, w towarzystwie kilku tancerek, pili pod namiotami na tarasie. Następca nie pił, nie grał, nie rozmawiał z kobietami, tylko chodził po jednej stronie tarasu, niecierpliwie wypatrując Fenicjanina. Gdy go zobaczył wyjeżdżającego z alei w lektyce na dwu osłach, zeszedł na pierwsze piętro, gdzie był nie zajęty pokój.
 
 Po chwili we drzwiach ukazał się Dagon, przyklęknął na progu i zawołał:
 
@@ -49,7 +49,7 @@ Ramzes kipiał z niecierpliwości, ale słuchał bankiera. On, który burzył si
 
 Usłyszawszy to, Dagon oburącz schwycił się za głowę, zaczął pluć i jęczeć:
 
-— O Baal Tammuz!... o Baaleth!... o Astoreth!... Azariasz, syn Gabera, Żyd, ma być takim kupcem jak ja!... O nogi moje, po coście mnie tu przyniosły?... O serce, za co cierpisz taki ból i naigrawanie?... Najdostojniejszy książę — krzyczał Fenicjanin — zbij mnie, utnij mi rękę, jeżeli będę fałszował złoto, ale nie mów, że Żyd może być kupcem. Prędzej upadnie Tyr, prędzej miejsce Sydonu
+— O Baal Tammuz!... o Baaleth!... o Astoreth!... Azariasz, syn Gabera, Żyd, ma być takim kupcem jak ja!... O nogi moje, po coście mnie tu przyniosły?... O serce, za co cierpisz taki ból i naigrawanie?... Najdostojniejszy książę — krzyczał Fenicjanin — zbij mnie, utnij mi rękę, jeżeli będę fałszował złoto, ale nie mów, że Żyd może być kupcem. Prędzej upadnie Tyr, prędzej miejsce Sydonu zajmie piasek, aniżeli Żyd zostanie kupcem. Oni mogą doić swoje chude kozy albo pod egipskim batem mieszać glinę ze słomą, ale nigdy handlować. Tfu!... tfu!... nieczysty naród niewolników!... Rabuśniki, złodzieje...
 
 W księciu, nie wiadomo dlaczego, gniew zawrzał, lecz i wnet uspokoił się, co wydało się dziwnym samemu Ramzesowi, który dotychczas wobec nikogo nie uważał za potrzebne hamować się.
 
@@ -97,13 +97,13 @@ Dagon podniósł się z podłogi i jeszcze wygodniej rozparł się na krześle.
 
 — Alboż ty znasz moje wypłaty?
 
-— Trochę znam — odparł niedbale Fenicjanin. — Książę chce posłać sześć talentów dla armii wschodniej, co zrobią nasi bankierzy w Chetem i Migdolu
+— Trochę znam — odparł niedbale Fenicjanin. — Książę chce posłać sześć talentów dla armii wschodniej, co zrobią nasi bankierzy w Chetem i Migdolu. Trzy talenty dostojnemu Nitagerowi i trzy dostojnemu Patroklesowi, to załatwi się na miejscu... A Sarze i jej ojcu Gedeonowi ja mogę wypłacać przez tego parcha Azariasza... Tak nawet będzie lepiej, bo oni oszukaliby księcia w rachunkach...
 
 Ramzes niecierpliwie zaczął chodzić po pokoju.
 
 — Więc mam ci dać rewers na trzydzieści talentów? — zapytał.
 
-— Jaki rewers?... Po co rewers?... Co ja bym miał z rewersu?... Mnie książę odda w dzierżawę na trzy lata swoje folwarki w nomesach: Takens, Ses
+— Jaki rewers?... Po co rewers?... Co ja bym miał z rewersu?... Mnie książę odda w dzierżawę na trzy lata swoje folwarki w nomesach: Takens, Ses, Neha-Ment, Neha-Pechu, w Sebt-Het, w Habu...
 
 — Dzierżawa?... — rzekł książę. — Nie podoba mi się to...
 

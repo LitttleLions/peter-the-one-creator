@@ -394,7 +394,7 @@ Goniec za gońcem wylatywał z pałacu do Memfisu, aby dowiedzieć się: co tam 
 
 Tymczasem królowa Nikotris usiadłszy obok pana szeptała mu:
 
-— Pozwól mi działać, Ramzesie... Kobiety naszemu państwu niejedną oddały usługę... Tylko przypomnij sobie królowę Nikotris za szóstej dynastii albo Makarę
+— Pozwól mi działać, Ramzesie... Kobiety naszemu państwu niejedną oddały usługę... Tylko przypomnij sobie królowę Nikotris za szóstej dynastii albo Makarę, która stworzyła flotę na Morzu Czerwonym!... Naszej płci nie brak ani rozumu, ani energii, więc pozwól mi działać... Jeżeli świątynia Ptah nie została zdobyta, a kapłani skrzywdzeni, pogodzę cię z Herhorem. Pojmiesz za żonę jego córkę i panowanie twoje będzie pełne chwały... Pamiętaj, że twój dziad, święty Amenhotep, był również arcykapłanem i namiestnikiem faraona i że ty sam, kto wie, czy panowałbyś dzisiaj, gdyby święty stan kapłański nie pragnął mieć własnej krwi na tronie... Także wywdzięczasz się im za władzę?...
 
 Faraon słuchał jej, ale wciąż myślał, że jednak mądrość kapłanów jest ogromną siłą, a walka z nimi trudna!...
 

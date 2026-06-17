@@ -48,7 +48,7 @@ Ty zaś, książę, wszystko chciałeś wykonać sam; sam wysłuchać i załatwi
 
 Tym sposobem ja i jego świątobliwość, rozmawiając tylko z dziesięcioma ludźmi dziennie, wiemy, co ważnego stało się w stu tysiącach punktów kraju i świata.
 
-Wartownik, który czuwa na kawałku ulicy w Memfis, widzi tylko parę domów. Dziesiętnik zna całą ulicę, setnik oddział miasta, naczelnik całe miasto. Faraon zaś stoi ponad nimi wszystkimi, niby na najwyższym pylonie świątyni Ptah, i widzi nie tylko Memfis, ale jeszcze miasta: Sochem, On
+Wartownik, który czuwa na kawałku ulicy w Memfis, widzi tylko parę domów. Dziesiętnik zna całą ulicę, setnik oddział miasta, naczelnik całe miasto. Faraon zaś stoi ponad nimi wszystkimi, niby na najwyższym pylonie świątyni Ptah, i widzi nie tylko Memfis, ale jeszcze miasta: Sochem, On, Cherau, Turra, Tetaui, ich okolice i kawałek pustyni zachodniej.
 
 Z tej wysokości jego świątobliwość nie spostrzega wprawdzie ludzi skrzywdzonych albo nie nagrodzonych, ale dojrzy tłum gromadzących się bez zajęcia robotników. Nie zobaczy żołnierza w szynkowni, ale pozna, czy pułk odbywa musztrę. Nie widzi, co gotuje na obiad jakiś chłop albo mieszczanin, ale dostrzeże pożar zaczynający się w dzielnicy.
 

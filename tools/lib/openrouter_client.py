@@ -66,6 +66,7 @@ class OpenRouterClient:
     last_response_id: str = ""
     last_response_provider: str = ""
     last_response_created: int | None = None
+    last_finish_reason: str = ""
 
     @classmethod
     def from_env(
@@ -223,14 +224,21 @@ class OpenRouterClient:
             )
         msg = choices[0].get("message") or {}
         content = msg.get("content")
+        reason = choices[0].get("finish_reason", "unbekannt")
         if not isinstance(content, str) or not content.strip():
-            reason = choices[0].get("finish_reason", "unbekannt")
             thinking = msg.get("reasoning") or msg.get("thinking") or "(kein reasoning)"
             raise OpenRouterError(
                 f"OpenRouter-Antwort ohne Text-Content. "
                 f"finish_reason={reason}. "
                 f"Reasoning/Thinking (erste 300 Zeichen): "
                 f"{str(thinking)[:300]}"
+            )
+        if reason == "length":
+            raise OpenRouterError(
+                f"OpenRouter-Antwort abgeschnitten (finish_reason=length). "
+                f"Completion-Tokens haben das Limit erreicht. "
+                f"Erhaltene Textlaenge: {len(content)} Zeichen. "
+                f"Bitte max_tokens erhoehen oder Chunking aktivieren."
             )
         return content
 
@@ -251,6 +259,11 @@ class OpenRouterClient:
         if not isinstance(usage, dict):
             usage = {}
         self.last_usage = usage
+        self.last_finish_reason = (
+            data["choices"][0].get("finish_reason", "")
+            if "choices" in data and data["choices"]
+            else ""
+        )
         for key, value in usage.items():
             if isinstance(value, int):
                 self.usage_totals[key] = self.usage_totals.get(key, 0) + value
@@ -280,6 +293,8 @@ class OpenRouterClient:
             parts.append(f"Antwort-Provider={self.last_response_provider}")
         if self.last_response_id:
             parts.append(f"Response-ID={self.last_response_id}")
+        if self.last_finish_reason:
+            parts.append(f"Finish-Reason={self.last_finish_reason}")
         return "Tokens: " + ", ".join(parts)
 
     def response_meta_summary(self) -> str:
@@ -292,6 +307,8 @@ class OpenRouterClient:
             parts.append(f"Response-ID={self.last_response_id}")
         if self.last_response_created is not None:
             parts.append(f"Response-Created={self.last_response_created}")
+        if self.last_finish_reason:
+            parts.append(f"Finish-Reason={self.last_finish_reason}")
         return ", ".join(parts)
 
 

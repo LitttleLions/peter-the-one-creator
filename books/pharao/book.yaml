@@ -70,7 +70,7 @@ notes: >-
   Source-Ordner.
 ai:
   provider: openrouter
-  model: deepseek/deepseek-v4-pro
+  model: deepseek/deepseek-v4-flash
   granularity: scene
   max_tokens_per_scene: 10000
   chunk_char_limit: 12000

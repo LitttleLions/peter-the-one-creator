@@ -97,7 +97,7 @@ Skinieniem głowy pożegnał kapłankę.
 
 Po jej wyjściu opanowała go nowa fala myśli:
 
-„Zaprawdę, przebiegli są Fenicjanie. Jeżeli ten mój żyjący wizerunek jest człowiekiem, mogą mi zrobić z niego wielki podarunek, a ja czyniłbym kiedyś cuda, o jakich bodaj że nie słyszano w Egipcie. Faraon mieszka w Memfis, a jednocześnie ukazuje się w Tebach albo w Tanis
+„Zaprawdę, przebiegli są Fenicjanie. Jeżeli ten mój żyjący wizerunek jest człowiekiem, mogą mi zrobić z niego wielki podarunek, a ja czyniłbym kiedyś cuda, o jakich bodaj że nie słyszano w Egipcie. Faraon mieszka w Memfis, a jednocześnie ukazuje się w Tebach albo w Tanis!... Faraon posuwa się z armią na Babilon, Asyryjczycy tam gromadzą główne siły, a jednocześnie — faraon z inną armią zdobywa Niniwę... Sądzę, że Asyryjczycy byliby bardzo zdumieni takim wypadkiem...”
 
 I znowu obudziła się w nim głucha nienawiść do potężnych Azjatów, i znowu widział swój triumfalny wóz, przejeżdżający pobojowisko pełne asyryjskich trupów i całe kosze odciętych rąk.
 

@@ -1,4 +1,4 @@
-Niedaleko miasta Pi-Bast znajdowała się wielka świątynia bogini Hator
+Niedaleko miasta Pi-Bast znajdowała się wielka świątynia bogini Hator.
 
 W miesiącu Paoni (marzec-kwiecień), w dniu porównania wiosennego, około dziewiątej wieczór, gdy gwiazda Syriusz miała się ku zachodowi, pod bramą świątyni stanęli dwaj podróżni kapłani i jeden pokutnik. Szedł on boso, miał popiół na głowie i był przykryty grubą płachtą, którą twarz zasłaniał.
 

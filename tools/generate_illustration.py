@@ -38,7 +38,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_MODEL = "text2image_soul_v2"
 DEFAULT_MOODBOARD = "https://higgsfield.ai/s/R0FemgKUPW4"
 DEFAULT_ASPECT_RATIO = "3:4"
-DEFAULT_QUALITY = "1.5k"
+DEFAULT_QUALITY = "720p"
 OUTPUT_EXT = ".jpg"
 UUID_RE = re.compile(
     r"^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-"
@@ -50,7 +50,9 @@ VISUAL_CONSTRAINTS = (
     "boats, weapons, and environment. No modern objects, no cars, no trucks, no "
     "engines, no electric lights. No readable text, lettering, captions, "
     "inscriptions, logos, watermarks, artist signatures, or marks in the image "
-    "corners."
+    "corners. A single, unified composition depicting one coherent moment. "
+    "No split screens, no multiple panels, no comic-style layouts, "
+    "no before-and-after sequences."
 )
 
 
@@ -144,18 +146,61 @@ def read_scene_text(book: dict[str, Any], request: IllustrationRequest) -> tuple
     return path, path.read_text(encoding="utf-8")
 
 
-def clean_markdown_excerpt(text: str, limit: int = 1500) -> str:
-    lines: list[str] = []
+# Zeilen, die wie poetische Motti, Zitate oder Szenen-Metadaten aussehen.
+# Sie verleiten Higgsfield dazu, Text im Bild zu rendern.
+_MOTTO_PATTERNS = [
+    r'^\s*##\s+Szene\s+\d+',        # "## Szene 1"
+    r'^\s*»',                         # Mottos im Guillemet-Stil
+    r'^\s*«',                         # ...
+    r'^\s*[„"][^"]{0,120}[„"]',      # Kurze Zitat-Zeilen (max ~120 Zeichen)
+    r'^\s*[*_]*—\s+',                 # "— Aus den Lehren ..."
+    r'^\s*>',                         # Markdown-Blockzitate
+]
+_MOTTO_RE = re.compile("|".join(_MOTTO_PATTERNS))
+
+
+_MAX_PARAGRAPHS = 3
+
+
+def clean_markdown_excerpt(text: str, limit: int = 1000) -> str:
+    # Erst alle irrelevanten Zeilen herausfiltern
+    filtered_lines: list[str] = []
+    in_motto_block = False
     for raw in text.splitlines():
         line = raw.strip()
         if not line:
+            filtered_lines.append("")
+            in_motto_block = False
             continue
-        line = re.sub(r"^#+\s*", "", line)
-        line = line.lstrip("> ").strip()
+        if line.startswith("#"):
+            in_motto_block = line.startswith("##")
+            continue
+        if line.startswith(">"):
+            in_motto_block = True
+            continue
+        if in_motto_block and (line.startswith(">") or line.startswith("—") or
+                               re.match(r'^\s*[*_]{1,2}', line)):
+            continue
+        if _MOTTO_RE.match(line):
+            in_motto_block = True
+            continue
+        in_motto_block = False
+        filtered_lines.append(line)
+    # Absaetze aus aufeinanderfolgenden Nicht-Leerzeilen bauen
+    paragraphs: list[str] = []
+    current: list[str] = []
+    for line in filtered_lines:
         if line:
-            lines.append(line)
-    compact = " ".join(lines)
-    compact = re.sub(r"\s+", " ", compact).strip()
+            current.append(line)
+        else:
+            if current:
+                paragraphs.append(" ".join(current))
+                current = []
+    if current:
+        paragraphs.append(" ".join(current))
+    paragraphs = [re.sub(r"\s+", " ", p).strip() for p in paragraphs if p.strip()]
+    selected = paragraphs[:_MAX_PARAGRAPHS]
+    compact = " ".join(selected)
     if len(compact) <= limit:
         return compact
     return compact[:limit].rsplit(" ", 1)[0].rstrip(".,;:") + "..."
@@ -185,16 +230,20 @@ def build_prompt(book: dict[str, Any], request: IllustrationRequest, source_text
     excerpt = clean_markdown_excerpt(source_text)
     title = str(book.get("title") or request.book_id)
     description = load_book_description(book)
-    context = f" Book context: {description}" if description else ""
+    context = f" Novel context: {description}" if description else ""
+    scene_label = (
+        f", scene {request.scene_number:02d}"
+        if request.scene_number is not None
+        else ""
+    )
     return (
-        f"Image for {title}, chapter "
-        f"{request.chapter_id}"
-        + (
-            f", scene {request.scene_number:02d}"
-            if request.scene_number is not None
-            else ""
-        )
-        + f": {excerpt}.{context} {VISUAL_CONSTRAINTS}"
+        f"Novel illustration for \"{title}\" by {book.get('author', '')}."
+        f" Setting: ancient {description.split('.')[0] if description else 'historical'}."
+        f" Scene location: chapter {request.chapter_id}{scene_label}."
+        f" Passage (use for atmosphere and mood, not for literal multi-scene depiction):"
+        f" {excerpt}.{context}"
+        f" Create ONE unified image capturing the atmosphere of this passage."
+        f" {VISUAL_CONSTRAINTS}"
     )
 
 

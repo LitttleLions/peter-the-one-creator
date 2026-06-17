@@ -46,6 +46,7 @@ import yaml
 
 from lib.book_project import find_book as find_book_project
 from lib.openrouter_client import OpenRouterClient, OpenRouterError
+from lib.ollama_client import OllamaClient, OllamaError
 from lib.style_prompts import StylePrompts, StylePromptError
 from lib.scene_splitter import (
     split_into_scenes, Scene, count_words,
@@ -298,9 +299,9 @@ def parse_args():
     ap.add_argument("--model", default=None,
                     help="OpenRouter-Modellname (ueberschreibt .env / book.yaml)")
     ap.add_argument("--provider",
-                    choices=["openrouter", "prompt_file", "workspace_ai", "manual_codex"],
+                    choices=["openrouter", "ollama", "prompt_file", "workspace_ai", "manual_codex"],
                     default="openrouter",
-                    help="openrouter ruft die API auf; prompt_file/workspace_ai schreiben Anweisungen")
+                    help="openrouter/ollama rufen APIs auf; prompt_file/workspace_ai schreiben Anweisungen")
     ap.add_argument("--granularity", choices=["scene", "chapter"], default=None,
                     help="Szene-fuer-Szene oder ganzes Kapitel")
     ap.add_argument("--max-tokens", type=int, default=None,
@@ -363,6 +364,21 @@ def main():
         except ModelsModelError as e:
             print(f"FEHLER: {e}", file=sys.stderr)
             return 2
+        if args.verbose:
+            print(f"Modell gewaehlt: {model_info['name']} ({model_info['provider']})")
+            print(f"  {model_info['description']}")
+    elif args.provider == "ollama":
+        # Lokales Ollama-Modell
+        chosen_model = (
+            args.model
+            or ai_cfg.get("model")
+            or "qwen3:8b"
+        )
+        model_info = {
+            "name": chosen_model,
+            "provider": "ollama",
+            "description": "Lokales Ollama-Modell (offline)",
+        }
         if args.verbose:
             print(f"Modell gewaehlt: {model_info['name']} ({model_info['provider']})")
             print(f"  {model_info['description']}")
@@ -502,7 +518,7 @@ def main():
     if not title_ru:
         title_ru = f"Kapitel {args.chapter}"
 
-    # OpenRouter-Client (nur wenn nicht dry-run und nicht prompt_only)
+    # OpenRouter- oder Ollama-Client (nur wenn nicht dry-run und nicht prompt_only)
     client = None
     if not args.dry_run and args.provider == "openrouter":
         try:
@@ -517,6 +533,18 @@ def main():
             client.model = args.model
         print(f"OpenRouter-Client initialisiert "
               f"(Modell={client.model}).")
+        print()
+    elif not args.dry_run and args.provider == "ollama":
+        try:
+            client = OllamaClient(model=chosen_model)
+        except OllamaError as e:
+            print(f"FEHLER: {e}", file=sys.stderr)
+            return 3
+        client.timeout_sec = float(args.timeout)
+        if args.model:
+            client.model = args.model
+        print(f"Ollama-Client initialisiert "
+              f"(Modell={client.model}, API={client.api_base}).")
         print()
 
     # ---------------------------------------------------------------
@@ -579,7 +607,7 @@ def main():
                 label="chapter",
             )
             print(f"   {format_last_usage(client)}")
-        except OpenRouterError as e:
+        except (OpenRouterError, OllamaError) as e:
             print(f"FEHLER: {e}", file=sys.stderr)
             failed_scenes = 1
         if not failed_scenes:
@@ -747,7 +775,7 @@ def main():
                             part_path.write_text(part_text.rstrip() + "\n", encoding="utf-8")
                             translated_parts.append(part_text)
                             print(f"      -> {part_path.relative_to(output_root)}")
-                        except OpenRouterError as e:
+                        except (OpenRouterError, OllamaError) as e:
                             chunk_errors.append(f"Chunk {chunk.part}: {e}")
                             print(f"      FEHLER bei Chunk {chunk.part}: {e}", file=sys.stderr)
                     if chunk_errors:
@@ -787,7 +815,7 @@ def main():
                 print(f"   -> {s_path.relative_to(output_root)} "
                       f"({count_words(txt)} Woerter DE)")
 
-            except OpenRouterError as e:
+            except (OpenRouterError, OllamaError) as e:
                 print(f"   FEHLER bei Szene {i}: {e}", file=sys.stderr)
                 sf["error"] = str(e)[:200]
                 failed_scenes += 1

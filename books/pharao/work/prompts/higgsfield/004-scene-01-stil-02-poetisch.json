@@ -31,21 +31,21 @@
     "--wait",
     "--json"
   ],
-  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260616_151341_09bebc62-a9ae-4660-874d-78c0dc6555d7.png",
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260617_161835_917920ee-0dd9-4f26-b5b4-ce4bb9fd6406.png",
   "job_result": [
     {
-      "id": "09bebc62-a9ae-4660-874d-78c0dc6555d7",
+      "id": "917920ee-0dd9-4f26-b5b4-ce4bb9fd6406",
       "status": "completed",
       "display_name": "Higgsfield Soul V2",
       "job_set_type": "text2image_soul_v2",
-      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260616_151341_09bebc62-a9ae-4660-874d-78c0dc6555d7.png",
-      "created_at": 1781622821.276412,
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260617_161835_917920ee-0dd9-4f26-b5b4-ce4bb9fd6406.png",
+      "created_at": 1781713115.324662,
       "params": {
         "prompt": "Image for Der Pharao, chapter 004, scene 01: Szene 1 „Das Schicksal ist ein Rad; heute oben, morgen unten. Der Pharao befiehlt, der Feldherr schlägt, der Bauer stirbt – und die Götter schweigen.“ _– Altägyptisches Sprichwort_ Der Thronfolger und sein Gefährte liefen eine Viertelstunde lang über den felsigen Grat des Hügels, während die Trompeten, die unablässig und immer heftiger Alarm bliesen, näher und näher klangen. Endlich erreichten sie einen Punkt, von dem aus sie die ganze Gegend mit einem Blick umfassen konnten. Zur Linken zog sich die Heerstraße hin; dahinter waren deutlich die Stadt Pi-Bailos zu sehen, die hinter ihr stehenden Regimenter des Thronfolgers und die riesige Staubwolke, die über dem von Osten herandrängenden Feind aufstieg. Zur Rechten klaffte eine breite Schlucht, in deren Mitte ein griechisches Regiment die Kriegsmaschinen schleppte. Unweit der Heerstraße vereinigte sich diese Schlucht mit einer zweiten, breiteren, die aus der Tiefe der Wüste heraustrat. Eben an diesem Punkt geschah etwas Ungewöhnliches. Die Griechen mit ihren Maschinen standen untätig nahe der Vereinigung der beiden Schluchten; doch genau an der Vereinigung, zwischen der Heerstraße und dem Stab des Thronfolgers, hatten sich vier dichte Reihen einer anderen Truppe entfaltet, wie vier Zäune, gespickt mit funkelnden Speeren. Trotz des sehr abschüssigen Weges galoppierte der Prinz im gestreckten Galopp zu seiner Abteilung hinab, dorthin, wo der Kriegsminister, umringt von Offizieren, stand. „Was geht hier vor? …“ rief er drohend.... Book context: Bolesław Prus' historischer Roman Der Pharao erzählt vom Machtkampf zwischen jungem Königtum, Priesterschaft, Staatsräson und persönlichem Ehrgeiz im alten Ägypten. Diese neue deutsche Ausgabe folgt dem polnischen Original Faraon und macht den großen polnischen Klassiker in zeitgemäßer deutscher Sprache zugänglich. Period-accurate clothing, architecture, tools, horse tack, carts, sledges, boats, weapons, and environment. No modern objects, no cars, no trucks, no engines, no electric lights. No readable text, lettering, captions, inscriptions, logos, watermarks, artist signatures, or marks in the image corners.",
         "width": 1152,
         "height": 1536,
         "batch_size": 1,
-        "seed": 427165,
+        "seed": 251026,
         "enhance_prompt": false,
         "use_sage_attention": false,
         "quality": "720p",

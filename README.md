@@ -1,7 +1,7 @@
 # peter-the-one
 
 Python-Werkbank fuer kapitel- und szenenweise literarische Uebersetzung
-(`ru -> de`) mit Style-Profilen, OpenRouter, Prompt-Datei-Modus,
+(`ru -> de`) mit Style-Profilen, OpenRouter, lokales Ollama, Prompt-Datei-Modus,
 Workspace-KI-Modus, Streamlit-Dashboard und DOCX-/EPUB-/PDF-Export.
 
 Die wichtigste Architekturentscheidung: **Szenen werden einzeln uebersetzt,
@@ -33,10 +33,15 @@ pip install -r requirements.txt
 | **Pandoc** (>= 3.0) | EPUB-Export | `winget install --id JohnMacFarlane.Pandoc` oder manuell von https://pandoc.org/installing.html |
 | **Playwright Chromium** | PDF-Export | `python -m playwright install chromium` nach `pip install -r requirements.txt` |
 | **Higgsfield CLI** | Kapitel-/Szenenbilder | `npm install -g @higgsfield/cli`, Details in `docs/higgsfield-integration.md` |
+| **Ollama** (optional) | Lokale LLM-Inference | https://ollama.ai/ - Modelle: `ollama pull qwen3:8b` (empfohlen), `ollama pull gemma4:latest` (optional) |
 
 > **Hinweis:** Nach der Pandoc-Installation muss ein neues Terminal gestartet werden,
 > damit der Pfad erkannt wird. Unter Windows liegt Pandoc typischerweise unter
 > `C:\Users\<user>\AppData\Local\Pandoc\pandoc.exe`.
+
+> **Ollama-Info:** Mit lokaler Ollama-Installation können Sie offline übersetzen.
+> Verfügbare Modelle: `ollama list`. Ollama API läuft auf `http://localhost:11434`.
+> Für `qwen3:8b` nutzen Sie: `python tools/translate_chapter.py --book <id> --chapter 001 --provider ollama --model qwen3:8b`
 
 ## Buchpakete
 
@@ -93,9 +98,19 @@ python tools/init_book.py --source "books/Meine Quelle.rtf"
 # Pipeline
 python tools/extract_chapters.py --book anna-karenina
 python tools/extract_scenes.py --book anna-karenina --chapter 001
+
+# Mit OpenRouter (Standard, Remote-API mit Token-Limit)
 python tools/translate_chapter.py --book anna-karenina --chapter 001 --style stil-01-original --provider openrouter
+
+# Mit lokales Ollama (offline, kostenlos, schnell)
+python tools/translate_chapter.py --book anna-karenina --chapter 001 --style stil-01-original --provider ollama --model qwen3:8b
+python tools/translate_chapter.py --book anna-karenina --chapter 001 --style stil-01-original --provider ollama --model gemma4:latest
+
+# Batch-Übersetzung mit Ollama
+python tools/translate_batch.py --book anna-karenina --missing --style stil-01-original --provider ollama --model qwen3:8b --assemble-after
+
+# Oder mit Prompt-Dateien für manuelle Bearbeitung
 python tools/translate_batch.py --book anna-karenina --from 001 --to 005 --style stil-01-original --provider prompt_file --dry-run
-python tools/translate_batch.py --book anna-karenina --missing --style stil-01-original --provider openrouter --assemble-after
 python tools/assemble_chapter.py --book anna-karenina --chapter 001 --style stil-01-original
 python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter 001 --style stil-01-original --format all --allow-partial
 python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter 001 --style stil-01-original --format pdf --allow-partial

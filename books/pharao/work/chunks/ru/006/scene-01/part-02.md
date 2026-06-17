@@ -1,3 +1,11 @@
+Faraon z lekka poruszył brwiami i jego świta znikła jak gromada cieniów.
+
+— Co masz mi do powiedzenia?
+
+— Tylko jedno, ojcze... Herhor jest moim wrogiem... On oskarżył mnie przed tobą i naraził na taki wstyd!...
+
+Mimo pokornej postawy książę gryzł wargi i zaciskał pięści.
+
 — Herhor jest moim wiernym sługą, a twoim przyjacielem. Jego to wymowa sprawiła, że jesteś następcą tronu. To ja — nie powierzam korpusu młodemu wodzowi, który pozwolił odciąć się od swojej armii.
 
 — Połączyłem się z nią!... — odparł zgnębiony następca. — To Herhor kazał okrążać dwa żuki...

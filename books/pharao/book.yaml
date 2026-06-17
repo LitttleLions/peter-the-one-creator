@@ -50,7 +50,7 @@ naming_convention:
 higgsfield:
   model: text2image_soul_v2
   aspect_ratio: "3:4"
-  quality: 1.5k
+  quality: 720p
   moodboard:
     name: Pharao III
     custom_reference_id: b1808566-674b-4495-b268-756f2ea287d5

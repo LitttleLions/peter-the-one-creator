@@ -69,6 +69,7 @@ Aktuelle Pakete:
 
 - `books/peter-i-buch-01/`
 - `books/anna-karenina/`
+- `books/pharao/`
 
 Alte zentrale Dateien aus der vorherigen Struktur liegen unter
 `config/legacy/`. Neue Tools lesen `books/*/book.yaml`, nicht mehr
@@ -103,6 +104,12 @@ python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter
 python tools/apply_review_suggestions.py --book anna-karenina --style stil-01-original --plan
 python tools/apply_review_suggestions.py --book anna-karenina --style stil-01-original --stage
 python tools/apply_review_suggestions.py --book anna-karenina --style stil-01-original --promote
+
+# Illustrationen (Kapitel-/Szenenbilder via Higgsfield)
+python tools/generate_illustration.py --book pharao --chapter 001 --scene 01 --kind scene --style stil-02-poetisch
+python tools/generate_illustration.py --book pharao --chapter 001 --kind chapter --style stil-02-poetisch
+python tools/generate_illustration.py --book pharao --chapter 001 --scene 01 --kind scene --style stil-02-poetisch --overwrite
+python tools/generate_illustration.py --book pharao --chapter 001 --scene 01 --kind scene --style stil-02-poetisch --dry-run
 ```
 
 `translate_batch.py` ist ein Uebersetzungs-Batch, kein Export-Befehl. Er
@@ -304,6 +311,25 @@ books/<book-id>/assets/scene/001/scene-002.png
 
 Erlaubte Formate sind `.jpg`, `.jpeg`, `.png` und `.webp`. Fehlt ein Bild,
 wird es still uebersprungen.
+
+### Illustrationen Erzeugen
+
+`tools/generate_illustration.py` erzeugt Kapitel- und Szenenbilder via
+Higgsfield-CLI. Die Defaults (Modell, Moodboard-UUID, Seitenverhaeltnis,
+Qualitaet) stehen pro Buch in `book.yaml` unter `higgsfield`.
+
+Der Prompt an Higgsfield enthaelt automatisch:
+
+- Einen Auszug aus der jeweiligen DE-Szene (max. 1500 Zeichen).
+- Die Kurzbeschreibung des Buches aus `export.yaml` (`book.description`) als
+  Kontexthinweis – z. B. "altes Aegypten", "Russland" – damit das Modell
+  passende Stimmung und Kulisse waehlt.
+- Visuelle Constraints: epochengerechte Kleidung/Architektur, keine modernen
+  Objekte, keine lesbaren Texte oder Signaturen.
+
+Qualitaet ist standardmaessig `1.5k` (Soul 2.0 unterstuetzt `1.5k` und `2k`).
+Bestehende Bilder werden nur mit `--overwrite` ersetzt; `--dry-run` zeigt den
+Prompt ohne API-Call an. Details: `docs/higgsfield-integration.md`.
 
 Ausgaben landen unter:
 

@@ -1,0 +1,105 @@
+defaults:
+  language: de-DE
+  publisher: ''
+  rights: ''
+  description: ''
+  cover:
+    mode: placeholder
+    image_path: ''
+    background: '#8b0000'
+    foreground: '#fff7ed'
+  front_matter:
+    cover_in_body: true
+    title_page: true
+    summary_page: true
+    author_bio_page: true
+    description_page: false
+    imprint_page: true
+    toc_page: false
+    combined_epub_front_matter: false
+    combined_heading: Titelei
+    cover_heading: Cover
+    title_heading: Titelseite
+    summary_heading: Zusammenfassung
+    author_bio_heading: Leben des Autors
+    description_heading: Zu dieser Ausgabe
+    imprint_heading: Impressum
+    toc_heading: Inhalt
+  output:
+    chapter_headings: true
+    scene_numbers: false
+    strip_control_metadata: true
+    scene_separator: '* * *'
+  illustrations:
+    enabled: true
+    chapter_images: true
+    scene_images: true
+    chapter_page_break_after_image: true
+    scene_page_break_after_image: false
+book:
+  title: "Der feurige Engel"
+  subtitle: "Ein historischer Roman von Glaubenswahn, Leidenschaft und Dämonie in neuer deutscher Ausgabe"
+  author: "Walerij Brjussow"
+  translator: "Motivatier Classics"
+  translator_label: "Übersetzung und editorische Einrichtung"
+  language: "de"
+  publisher: "Motivatier Hermann Stiftung"
+  rights: "© 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung."
+  original_title: "Огненный ангел"
+  original_author: "Walerij Brjussow (Waleri Jakowlewitsch Brjussow, 1873–1924)"
+  source_title: "Огненный ангел: повесть XVI века"
+  source_author: "Валерий Брюсов"
+  source_translator: "Keine; Grundlage ist der russische Originaltext."
+  description: >-
+    Walerij Brjussows Roman „Der feurige Engel" führt in das Deutschland des
+    16. Jahrhunderts, in eine Welt von religiöser Erregung, Gelehrsamkeit,
+    Okkultismus und innerer Besessenheit. Diese neue deutsche Ausgabe wurde
+    nach dem russischen gemeinfreien Original erstellt, KI-gestützt übersetzt
+    und redaktionell geprüft.
+  summary: |
+    „Der feurige Engel" ist ein historischer Roman aus der Welt der Renaissance und Reformation, zugleich aber ein Roman über innere Verstrickung, religiöse Ekstase und die gefährliche Macht von Bildern, Stimmen und Visionen. Brjussow lässt seine Handlung im Deutschland des 16. Jahrhunderts spielen, in einer Zeit, in der Humanismus, Dämonenglaube, Theologie, Magie und beginnende moderne Gelehrsamkeit noch unmittelbar nebeneinanderstehen.
+
+    Im Zentrum steht eine Begegnung, die den Erzähler in ein Geflecht aus Leidenschaft, Glauben, Wahn und metaphysischer Unruhe hineinzieht. Was zunächst wie ein historisches Abenteuer beginnt, öffnet sich zunehmend zu einer psychologischen und geistigen Grenzerfahrung: Die äußere Welt der Städte, Klöster, Gelehrten und Inquisitoren spiegelt die innere Unordnung der Figuren.
+
+    Brjussow verbindet die Präzision historischer Nachbildung mit der suggestiven Kraft des Symbolismus. Der Roman ist weder bloß Schauergeschichte noch bloß Gelehrtenroman, sondern ein Werk über die Instabilität menschlicher Gewissheit: über das Begehren, an Zeichen zu glauben, und über den Preis, den dieser Glaube verlangen kann.
+  author_bio: |
+    Walerij Brjussow, geboren 1873 in Moskau und gestorben 1924 ebenda, war einer der prägenden Autoren des russischen Symbolismus. Er wirkte als Dichter, Erzähler, Kritiker, Übersetzer und Literaturorganisator und gehörte zu denjenigen Stimmen, die der russischen Moderne um 1900 ein neues ästhetisches Selbstbewusstsein gaben.
+
+    Brjussows Werk verbindet formale Strenge, historische Bildung und eine deutliche Vorliebe für Grenzzustände des Bewusstseins. Neben seiner Lyrik und seinen literaturkritischen Arbeiten nimmt „Der feurige Engel" eine besondere Stellung ein: Der Roman überträgt symbolistische Motive in eine historisch dicht gearbeitete Erzählwelt und wurde später auch durch Sergej Prokofjews Opernbearbeitung bekannt.
+
+    "Огненный ангел" erschien 1908 und zeigt Brjussow als Autor, der historische Stoffe nicht antiquarisch behandelt, sondern als Spiegel geistiger und psychologischer Konflikte. Der Roman gehört zu den eigenwilligsten Prosawerken der russischen Moderne.
+  title_page_extra:
+    - "Originaltitel: Огненный ангел"
+    - "Originalautor: Walerij Brjussow (Waleri Jakowlewitsch Brjussow, 1873–1924)"
+    - "Russische Vorlage: Огненный ангел: повесть XVI века"
+    - "Diese Ausgabe ist eine neue deutsche Ausgabe nach dem russischen gemeinfreien Original."
+    - "Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft."
+    - "Kurze Vorspänne, Motti oder Orientierungstexte vor den Kapiteln stammen nicht aus dem Original, sofern solche in dieser Ausgabe verwendet werden."
+    - "Herausgegeben von der Motivatier Hermann Stiftung"
+  imprint_text: |
+    Der feurige Engel
+
+    Walerij Brjussow
+
+    Ein historischer Roman von Glaubenswahn, Leidenschaft und Dämonie in neuer deutscher Ausgabe
+
+    Originaltitel: Огненный ангел
+    Originalautor: Walerij Brjussow (Waleri Jakowlewitsch Brjussow, 1873–1924)
+    Russische Vorlage: Огненный ангел: повесть XVI века
+    Quellensprache: Russisch
+
+    Diese Ausgabe ist eine neue deutsche Ausgabe nach dem russischen gemeinfreien Original. Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft.
+
+    Die kurzen Vorspänne, Motti oder Orientierungstexte vor den Kapiteln stammen nicht aus dem Original. Sie wurden für diese Ausgabe ergänzt, um historische, atmosphärische und erzählerische Orientierung zu geben.
+
+    Herausgegeben von der Motivatier Hermann Stiftung
+    Übersetzung und editorische Einrichtung: Motivatier Classics
+
+    © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.
+
+    Das zugrunde liegende Werk und die verwendete gemeinfreie Originalvorlage sind gemeinfrei. Rechte an dieser Ausgabe bestehen, soweit sie die neue deutsche Übersetzung, die redaktionellen Ergänzungen, die Gestaltung, das Cover und die konkrete Einrichtung des Textes betreffen.
+
+    Alle Rechte an dieser Ausgabe vorbehalten.
+  cover:
+    mode: placeholder
+    image_path: ''

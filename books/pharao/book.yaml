@@ -14,6 +14,9 @@ log_dir: status/logs
 styles_dir: styles
 assets_dir: assets
 names_file: names.yaml
+illustration_setting: |
+  Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing,
+  architecture, and environment. Historical   style, richly detailed, atmospheric. detailed textures.
 structure:
   mode: chapter_as_scene
   label: Kapitel als Szenen
@@ -50,7 +53,7 @@ naming_convention:
 higgsfield:
   model: text2image_soul_v2
   aspect_ratio: "3:4"
-  quality: 720p
+  quality: 1.5k
   moodboard:
     name: Pharao III
     custom_reference_id: b1808566-674b-4495-b268-756f2ea287d5
@@ -62,6 +65,11 @@ higgsfield:
   - name: Pharao II
     custom_reference_id: c38052cf-6afc-4ae7-9dbb-1cf083f97242
     source: "higgsfield generate list --image --size 100 --json"
+  image_processing:
+    format: JPEG
+    jpeg_quality: 60
+    max_width: 1600
+    max_height: 2400
 notes: >-
   Buchpaket fuer Bolesław Prus, Der Pharao. Als Master-Quelle wird die
   polnische Wolne-Lektury-EPUB `source/faraon.epub` verwendet. Sie enthaelt

@@ -1,3 +1,7 @@
+— Daj biedakom choćby dziesięć drachm...
+
+— Idź w pokoju, Asarhadonie, i proś bogów, ażeby ci rozum przywrócili — odparł podróżny, zawsze z tym samym spokojem.
+
 Gospodarz zerwał się z poduszek, sapiąc z gniewu.
 
 „To gadzina!... — myślał. — On nie tylko po dług przyjechał... On tu jeszcze zrobi jakiś interes... Serce mówi mi, że to musi być bogaty kupiec, a może nawet restaurator, który, do spółki z kapłanami i sędziami, otworzy mi gdzie pod bokiem drugi zajazd... Bodaj cię pierwej spalił ogień niebieski!... bodaj cię trąd stoczył!... Skąpiec, oszust, złodziej, na którym uczciwy człowiek nic nie zarobi...”

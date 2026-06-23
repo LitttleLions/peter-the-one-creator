@@ -1,0 +1,175 @@
+Już i między ludem miasta Pi-Bast zaczęły rozchodzić się groźne wieści o Libijczykach. Opowiadano, że rozpuszczeni przez kapłanów żołnierze barbarzyńscy, wracając do swej ojczyzny, z początku żebrali, potem kradli, a w końcu zaczęli rabować i palić wsie egipskie, mordując przy tym mieszkańców.
+
+W ten sposób w ciągu kilku dni zostały napadnięte i zniszczone miasta: Chinensu, Pimat i Kasa na południe do jeziora Moeris. W ten sposób zginęła karawana kupców i pielgrzymów egipskich wracających z oazy Uit-Mehe. Cała zachodnia granica państwa była w niebezpieczeństwie, a nawet z Terenuthis zaczęli uciekać mieszkańcy. I w tamtej bowiem okolicy od strony morza ukazały się bandy libijskie, jakoby wysłane przez groźnego wodza Musawasę, który podobno w całej pustyni miał ogłosić świętą wojnę przeciw Egiptowi.
+
+Toteż jeżeli którego wieczoru zachodni pas nieba czerwienił się zbyt długo, na mieszkańców Pi-Bast padała trwoga. Ludzie gromadzili się po ulicach, niektórzy wchodzili na płaskie dachy lub wdrapywali się na drzewa i stamtąd ogłaszali, że — widzą pożar w Menuf albo w Sechem. Byli nawet i tacy, którzy pomimo zmroku dostrzegali uciekających mieszkańców albo libijskie bandy maszerujące w kierunku Pi-Bast długimi, czarnymi szeregami.
+
+Pomimo wzburzenia ludności rządcy nomesu zachowywali się obojętnie; władza bowiem centralna nie przysłała im żadnych rozkazów.
+
+Książę Ramzes wiedział o niepokoju tłumów i widział obojętność pi-basteńskich dygnitarzy. Wściekły gniew ogarniał go, że nie otrzymuje żadnych poleceń z Memfisu i że ani Mefres, ani Mentezufis nie rozmawiają z nim o tych alarmach zagrażających państwu.
+
+Lecz ponieważ obaj kapłani nie zgłaszali się do niego, nawet jakby unikali rozmowy z nim, więc i namiestnik nie szukał ich ani robił żadnych przygotowań wojskowych.
+
+W końcu przestał odwiedzać stojące pod Pi-Bast pułki, a natomiast, zgromadziwszy do pałacu całą szlachecką młodzież, bawił się i ucztował, tłumiąc w sercu oburzenie na kapłanów i obawę o losy państwa.
+
+— Zobaczysz!... — powiedział raz do Tutmozisa. — Święci prorocy wykierują nas tak, że Musawasa zabierze Dolny Egipt, a my będziemy musieli uciekać do Tebów, jeżeli nie do Sunnu, o ile znowu stamtąd nie wypędzą nas Etiopowie...
+
+— Prawdę rzekłeś — odparł Tutmozis — że nasi władcy poczynają sobie, jakby byli zdrajcami.
+
+Pierwszego dnia miesiąca Hator (sierpień — wrzesień) odbywała się w pałacu następcy największa uczta. Zaczęto bawić się od drugiej po południu, a nim słońce zaszło, już wszyscy byli pijani. Doszło do tego, że mężczyźni i kobiety tarzali się po podłodze zlanej winem, zasypanej kwiatami i skorupami potłuczonych dzbanów.
+
+Książę był między nimi najprzytomniejszy. Jeszcze nie leżał, ale siedział na fotelu, trzymając na kolanach dwie piękne tancerki, z których jedna poiła go winem, druga oblewała mu głowę silnymi wonnościami.
+
+W tej chwili wszedł na sale adiutant i przelazłszy przez kilku pijanych biesiadników, zbliżył się do następcy.
+
+— Dostojny panie — szepnął — święci Mefres i Mentezufis pragną natychmiast rozmówić się z wami...
+
+Następca odepchnął dziewczęta i zarumieniony, w poplamionym kaftanie, chwiejnym krokiem potoczył się do swego pokoju, na górę.
+
+Na jego widok Mefres i Mentezufis spojrzeli po sobie.
+
+— Czego chcecie, dostojnicy? — spytał książę, upadając na krzesło.
+
+— Nie wiem, czy wasza dostojność będziesz mógł wysłuchać nas... — odparł zakłopotany Mentezufis.
+
+— A!... myślicie, żem się upił? — zawołał książę. — Nie lękajcie się... Dziś cały Egipt jest tak oszalały czy głupi, że jeszcze w pijakach najwięcej zostało rozsądku...
+
+Kapłani zachmurzyli się, lecz Mentezufis zaczął:
+
+— Wasza dostojność wie, że pan nasz i najwyższa rada postanowili uwolnić dwadzieścia tysięcy wojsk najemnych...
+
+— No niby nie wiem... — przerwał następca. — Nie raczyliście przecież nie tylko zasięgnąć mojej rady w kwestii tak mądrego postanowienia, ale nawet nie raczyliście zawiadomić mnie, że już cztery pułki rozpędzono i że ludzie ci z głodu napadają nasze miasta...
+
+— Zdaje mi się, że wasza dostojność sądzisz rozkazy jego świątobliwości faraona... — wtrącił Mentezufis.
+
+— Nie jego świątobliwości!... — zawołał książę, tupiąc nogą — ale tych zdrajców, którzy korzystając z choroby mego ojca i władcy chcą zaprzedać państwo Asyryjczykom i Libijczykom...
+
+Kapłani osłupieli. Podobnych wyrazów nie wypowiedział żaden jeszcze Egipcjanin.
+
+— Pozwól, książę, ażebyśmy wrócili za parę godzin... gdy się uspokoisz... — rzekł Mefres.
+
+— Nie ma potrzeby. Wiem, co się dzieje na naszej zachodniej granicy... A raczej nie ja wiem, tylko moi kucharze, chłopcy stajenni i pomywaczki. Może więc zechcecie teraz, czcigodni ojcowie, i mnie wtajemniczyć w wasze plany?...
+
+Mentezufis przybrał obojętną fizjognomię i mówił:
+
+— Libijczycy zbuntowali się i zaczynają zbierać bandy z zamiarem napadu na Egipt.
+
+— Rozumiem.
+
+— Z woli zatem jego świątobliwości — ciągnął Mentezufis — i najwyższej rady, masz, wasza dostojność, zebrać wojska z Dolnego Egiptu i zniszczyć buntowników.
+
+— Gdzie rozkaz?
+
+Mentezufis wydobył z zanadrza pargamin opatrzony pieczęciami i wręczył go księciu.
+
+— Więc od tej chwili jestem naczelnym wodzem i najwyższą władzą w tej prowincji? — spytał następca.
+
+— Tak jest, jak rzekłeś.
+
+— I mam prawo odbyć z wami naradę wojenną?...
+
+— Koniecznie... — odparł Mefres. — Choć w tej chwili...
+
+— Siadajcie — przerwał książę.
+
+Obaj kapłani spełnili rozkaz.
+
+— Pytam się was, bo to potrzebne jest do moich planów: dlaczego rozpuszczono libijskie pułki?...
+
+— I rozpuści się inne — pochwycił Mentezufis. — Otóż rada najwyższa dlatego chce pozbyć się dwudziestu tysięcy najkosztowniejszych żołnierzy, aby skarbowi jego świątobliwości dostarczyć rocznie czterech tysięcy talentów, bez czego dwór królewski może znaleźć się w niedostatku...
+
+— Co jednak nie grozi najnędzniejszemu z egipskich kapłanów!... — wtrącił książę.
+
+— Zapominasz, wasza dostojność, że kapłana nie godzi się nazywać „nędznym” — odparł Mentezufis. — A że nie grozi żadnemu z nich niedostatek, to jest zasługą ich powściągliwego trybu życia.
+
+— W takim razie chyba posągi wypijają wino, co dzień odnoszone do świątyń, i kamienni bogowie stroją swoje kobiety w złoto i drogie klejnoty — szydził książę. — Ale mniejsza o waszą powściągliwość!... Rada kapłańska nie dlatego rozpędza dwadzieścia tysięcy wojska i otwiera bramy Egiptu bandytom, ażeby napełnić skarb faraona...
+
+— Tylko?...
+
+— Tylko dlatego, ażeby przypodobać się królowi Assarowi. A ponieważ jego świątobliwość nie zgodził się na oddanie Asyryjczykom Fenicji, więc wy chcecie osłabić państwo w inny sposób: przez rozpuszczenie najemników i wywołanie wojny na naszej zachodniej granicy...
+
+— Biorę bogów na świadectwo, że zdumiewasz nas, wasza dostojność!... — zawołał Mentezufis.
+
+— Cienie faraonów bardziej zdumiałyby się, usłyszawszy, że w tym samym Egipcie, w którym spętano królewską władzę, jakiś chaldejski oszust wpływa na losy państwa...
+
+— Uszom nie wierzę!... — odparł Mentezufis. — Co wasza dostojność mówisz o jakimś Chaldejczyku?...
+
+Namiestnik śmiał się szyderczo.
+
+— Mówię o Beroesie... Jeżeli ty, święty mężu, nie słyszałeś o nim, zapytaj czcigodnego Mefresa, a gdyby i on zapomniał, niech odwoła się do Herhora i Pentuera...
+
+Oto wielka tajemnica waszych świątyń!... Obcy przybłęda, który jak złodziej dostał się do Egiptu, narzuca członkom najwyższej rady traktat tak haniebny, że moglibyśmy podpisać go dopiero po przegraniu bitew, po utracie wszystkich pułków i obu stolic.
+
+I pomyśleć, że zrobił to jeden człowiek, najpewniej szpieg króla Assara!... A nasi mędrcy tak dali się oczarować jego wymowie, że gdy faraon nie pozwolił im wyrzec się Fenicji, to oni przynajmniej rozpuszczają pułki i wywołują wojnę na granicy zachodniej...
+
+Słyszana rzecz?... — ciągnął już nie panując nad sobą Ramzes. — Gdy jest najlepsza pora zwiększyć armię do trzystu tysięcy ludzi i popchnąć ją do Niniwy, ci pobożni szaleńcy rozpędzają dwadzieścia tysięcy wojsk i podpalają własny dom...
+
+Mefres, sztywny i blady, słuchał tych okrutnych szyderstw. Wreszcie zabrał głos:
+
+— Nie wiem, dostojny panie, z jakiego źródła czerpałeś swoje wiadomości... Oby ono było równie czystym jak serca członków najwyższej rady! Przypuśćmy jednak, że masz słuszność i że jakiś chaldejski kapłan potrafił skłonić radę do podpisania ciężkiej umowy z Asyrią. Otóż gdyby tak się zdarzyło, to skąd wiesz, że ów kapłan nie był wysłannikiem bogów, którzy przez jego usta ostrzegli nas o wiszących nad Egiptem niebezpieczeństwach?...
+
+— Odkądże to Chaldejczycy cieszą się takim zaufaniem u was? — zapytał książę.
+
+— Kapłani chaldejscy są starszymi braćmi egipskich — wtrącił Mentezufis.
+
+— To może i król asyryjski jest władcą faraona? — wtrącił książę.
+
+— Nie bluźnij, wasza dostojność — surowo przerwał Mefres. — Lekkomyślnie szperasz w najświętszych tajemnicach, a to bywało niebezpiecznym nawet dla większych od ciebie!
+
+— Dobrze, nie będę szperał. Po czym jednak można poznać, że jeden Chaldejczyk jest wysłannikiem bogów, a drugi szpiegiem króla Assara?
+
+— Po cudach — odparł Mefres. — Gdyby na twój rozkaz, książę, ten pokój napełnił się duchami, gdyby niewidzialne moce uniosły cię w powietrze, powiedzielibyśmy, żeś jest narzędziem nieśmiertelnych, i słuchalibyśmy twej rady...
+
+Ramzes wzruszył ramionami.
+
+— I ja widziałem duchy: robiła je młoda dziewczyna... I ja widziałem w cyrku leżącego w powietrzu kuglarza...
+
+— Tylkoś nie dojrzał cienkich sznurków, które trzymali w zębach czterej jego pomocnicy... — wtrącił Mentezufis.
+
+Książę znowu roześmiał się i przypomniawszy sobie, co mu Tutmozis opowiadał o nabożeństwach Mefresa, rzekł szyderczym tonem:
+
+— Za króla Cheopsa pewien arcykapłan chciał koniecznie latać po powietrzu. W tym celu modlił się do bogów, a swoim podwładnym kazał uważać: czy go nie podnoszą niewidzialne siły?... I co powiecie, święci mężowie: od tej pory nie było dnia, ażeby prorocy nie zapewniali arcykapłana, że unosi się w powietrzu, wprawdzie niewysoko, bo tylko na palec od podłogi... Ale... co to waszej dostojności? — spytał nagle Mefresa.
+
+Istotnie arcykapłan, słuchając swojej własnej historii, zachwiał się na krześle i byłby upadł, gdyby nie podtrzymał go Mentezufis.
+
+Ramzes zmieszał się. Podał starcowi wody do picia, natarł mu czoło i skronie octem, zaczął go chłodzić wachlarzem...
+
+Wkrótce święty Mefres przyszedł do siebie. Powstał z krzesła i rzekł do Mentezufisa:
+
+— Już chyba możemy odejść?
+
+— I ja tak myślę.
+
+— A ja co mam robić? — spytał książę, czując, że stało się coś złego.
+
+— Spełnić obowiązki naczelnego wodza — odparł zimno Mentezufis.
+
+Obaj kapłani ceremonialnie ukłonili się księciu i wyszli. Namiestnik był już całkiem trzeźwy, ale na serce spadł mu wielki ciężar. W tej chwili zrozumiał, że popełnił dwa ciężkie błędy: przyznał się kapłanom do tego, że zna ich wielką tajemnicę, i — niemiłosiernie zadrwił z Mefresa.
+
+Oddałby rok życia, gdyby można zatrzeć w ich pamięci całą tę pijacką rozmowę. Ale już było za późno.
+
+„Nie ma co — myślał — zdradziłem się i kupiłem sobie śmiertelnych wrogów. Ale trudno. Walka zaczyna się w chwili najniekorzystniejszej dla mnie... Lecz idźmy dalej. Niejeden przecie faraon walczył z kapłaństwem i zwyciężył je, nawet nie mając zbyt silnych sprzymierzeńców.”
+
+Tak jednak uczuł niebezpieczeństwo swego położenia, że w tej chwili przysiągł, na świętą głowę ojca, nigdy już nie pić większej ilości wina.
+
+Kazał zawołać Tutmozisa. Powiernik zjawił się natychmiast, zupełnie trzeźwy.
+
+— Mamy wojnę i jestem naczelnym wodzem — rzekł następca.
+
+Tutmozis ukłonił się do ziemi.
+
+— I nigdy już nie będę upijał się — dodał książę. — A wiesz dlaczego?
+
+— Wódz powinien wystrzegać się wina i odurzających woni — odparł Tutmozis.
+
+— Nie pamiętałem o tym i... wygadałem się przed kapłanami...
+
+— Z czym? — zawołał przestraszony Tutmozis.
+
+— Że ich nienawidzę i żartuję z ich cudów...
+
+— Nic nie szkodzi. Oni chyba nigdy nie rachują na ludzką miłość.
+
+— I że znam ich polityczne tajemnice — dodał książę.
+
+— Aj!... — syknął Tutmozis. — To jedno było niepotrzebne...

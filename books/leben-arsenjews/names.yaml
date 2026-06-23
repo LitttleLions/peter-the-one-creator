@@ -1,0 +1,28 @@
+entries:
+- source: Иван Бунин
+  target: Iwan Bunin
+  aliases: [Iwan Alexejewitsch Bunin]
+  type: person
+  status: final
+  note: Autor des Romans, Nobelpreisträger 1933
+
+- source: Арсеньев
+  target: Arsenjew
+  aliases: []
+  type: person
+  status: draft
+  note: Protagonist und Erzähler
+
+- source: Лика
+  target: Lika
+  aliases: []
+  type: person
+  status: draft
+  note: Geliebte des Erzählers
+
+- source: Жизнь Арсеньева
+  target: Das Leben Arsenjews
+  aliases: [Leben Arsenjews]
+  type: work
+  status: final
+  note: Werktitel

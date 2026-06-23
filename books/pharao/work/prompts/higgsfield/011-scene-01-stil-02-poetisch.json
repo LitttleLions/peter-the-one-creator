@@ -1,0 +1,65 @@
+{
+  "book": "pharao",
+  "chapter": "011",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "b1808566-674b-4495-b268-756f2ea287d5",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\work\\scenes\\de\\stil-02-poetisch\\011\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\work\\prompts\\higgsfield\\011-scene-01-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\assets\\scene\\011\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "Der Monat Thot ging zu Ende, und der Monat Paophi begann – die zweite Julihälfte. Das Wasser des Nils wechselte von grünlich zu weiß, dann zu rot und stieg weiter. Der königliche Pegel in Memphis war fast bis zur Höhe zweier Männer gefüllt, und der Nil wuchs jeden Tag um zwei Fäuste. Die tiefsten Felder waren überflutet, von den höheren erntete man in Eile Flachs, Weintrauben und eine Art Baumwolle. Wo es am Morgen noch trocken war, plätscherten am Abend die Wellen. Es war, als bliese ein jäher, wenngleich unsichtbarer Sturm in der Tiefe des Stromes. Er pflügt breite Furchen auf dem Wasser, füllt die Rinnen mit Schaum, glättet dann für einen Augenblick die Oberfläche und dreht sie gleich darauf in gähnende Wirbel. Wieder pflügt er, wieder glättet er, wirbelt, treibt neue Berge aus Wasser, neue Schaumstreifen und hebt unablässig den rauschenden Fluss, erobert unablässig neue Landstücke. Zuweilen erreicht das Wasser eine Grenze, überschreitet sie, ergießt sich im Nu in eine Senke und... Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--custom_reference_id",
+    "b1808566-674b-4495-b268-756f2ea287d5",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260617_182308_6d381993-41a3-4294-ba67-65f4a969cc21.png",
+  "job_result": [
+    {
+      "id": "6d381993-41a3-4294-ba67-65f4a969cc21",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260617_182308_6d381993-41a3-4294-ba67-65f4a969cc21.png",
+      "created_at": 1781720588.56994,
+      "params": {
+        "prompt": "Der Monat Thot ging zu Ende, und der Monat Paophi begann – die zweite Julihälfte. Das Wasser des Nils wechselte von grünlich zu weiß, dann zu rot und stieg weiter. Der königliche Pegel in Memphis war fast bis zur Höhe zweier Männer gefüllt, und der Nil wuchs jeden Tag um zwei Fäuste. Die tiefsten Felder waren überflutet, von den höheren erntete man in Eile Flachs, Weintrauben und eine Art Baumwolle. Wo es am Morgen noch trocken war, plätscherten am Abend die Wellen. Es war, als bliese ein jäher, wenngleich unsichtbarer Sturm in der Tiefe des Stromes. Er pflügt breite Furchen auf dem Wasser, füllt die Rinnen mit Schaum, glättet dann für einen Augenblick die Oberfläche und dreht sie gleich darauf in gähnende Wirbel. Wieder pflügt er, wieder glättet er, wirbelt, treibt neue Berge aus Wasser, neue Schaumstreifen und hebt unablässig den rauschenden Fluss, erobert unablässig neue Landstücke. Zuweilen erreicht das Wasser eine Grenze, überschreitet sie, ergießt sich im Nu in eine Senke und... Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 644239,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "b1808566-674b-4495-b268-756f2ea287d5"
+      }
+    }
+  ]
+}

@@ -542,19 +542,12 @@ def write_reports(
         findings = chapter_findings(review)
         json_path = chapters_dir / f"{review.chapter}-review.json"
         md_path = chapters_dir / f"{review.chapter}-review.md"
-        if findings:
-            json_path.write_text(
-                json.dumps(review_to_dict(review), ensure_ascii=False, indent=2),
-                encoding="utf-8",
-            )
-            md_path.write_text(render_chapter_markdown(book, review), encoding="utf-8")
-            chapter_report_paths.append(str(md_path.relative_to(repo_root)))
-        else:
-            # Avoid accumulating noise: clean chapters are represented only in
-            # the summary, not as individual review documents.
-            for path in (json_path, md_path):
-                if path.exists():
-                    path.unlink()
+        json_path.write_text(
+            json.dumps(review_to_dict(review), ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        md_path.write_text(render_chapter_markdown(book, review), encoding="utf-8")
+        chapter_report_paths.append(str(md_path.relative_to(repo_root)))
     counts = count_findings(reviews)
     summary_md = root / "review-summary.md"
     summary_json = root / "review-summary.json"
@@ -605,6 +598,16 @@ def render_summary_markdown(summary: ReviewSummary, reviews: list[ChapterReview]
             f"(ERROR={counts.get('ERROR', 0)}, "
             f"WARNING={counts.get('WARNING', 0)}, INFO={counts.get('INFO', 0)})"
         )
+    total_errors = summary.counts.get("ERROR", 0)
+    total_warnings = summary.counts.get("WARNING", 0)
+    total_infos = summary.counts.get("INFO", 0)
+    if total_errors == 0 and total_warnings == 0 and total_infos == 0:
+        lines.extend([
+            "",
+            "Alle geprueften Kapitel sind regelbasiert unauffaellig — "
+            "keine kyrillischen Reste, keine Encoding-Fehler, "
+            "keine auffaelligen Laengen, keine Degeneration.",
+        ])
     errors = [
         item
         for review in reviews

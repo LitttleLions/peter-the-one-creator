@@ -26,6 +26,7 @@ defaults:
     imprint_heading: Impressum
     toc_heading: Inhalt
   output:
+    page_break_before_chapter: false
     chapter_headings: true
     scene_numbers: false
     strip_control_metadata: true
@@ -38,7 +39,7 @@ defaults:
     scene_page_break_after_image: false
 book:
   title: Peter der Erste
-  subtitle: Der große Roman über Zar Peter I. in neuer deutscher Ausgabe
+  subtitle: Der große Roman über Zar Peter I. Mit allen drei Büchern in neuer deutscher Ausgabe
   author: Alexei Nikolajewitsch Tolstoi
   translator: Motivatier Classics
   translator_label: Übersetzung und editorische Einrichtung
@@ -54,6 +55,10 @@ book:
     Diese Ausgabe ist eine neue deutsche Übersetzung aus dem russischen
     Original. Die Übersetzung und editorische Einrichtung wurden KI-gestützt
     erstellt und redaktionell geprüft.
+  - >-
+    Alexei Tolstois Roman blieb unvollendet. Das dritte Buch wurde nach dem Tod
+    des Autors (1945) aus seinem Nachlass veröffentlicht und bricht nach dem
+    sechsten Kapitel ab.
   - >-
     Die kurzen Vorspänne vor den Kapiteln stammen nicht aus dem russischen
     Original. Sie wurden für diese Ausgabe ergänzt, um historische,
@@ -77,6 +82,8 @@ book:
     Übersetzung und editorische Einrichtung: Motivatier Classics
 
     © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.
+
+    Alexei Tolstois Roman blieb unvollendet. Das dritte Buch wurde nach dem Tod des Autors (1945) aus seinem Nachlass veröffentlicht und bricht nach dem sechsten Kapitel ab.
 
     Das russische Originalwerk ist gemeinfrei. Rechte an dieser Ausgabe bestehen, soweit sie die neue deutsche Übersetzung, die redaktionellen Ergänzungen, die Gestaltung, das Cover und die konkrete Einrichtung des Textes betreffen.
 

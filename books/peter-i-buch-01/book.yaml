@@ -17,7 +17,19 @@ names_file: names.yaml
 structure:
   mode: scenes
   label: Kapitel mit Szenen
-  groups: []
+  groups:
+  - id: erstes-buch
+    label: Erstes Buch
+    from: '001'
+    to: '007'
+  - id: zweites-buch
+    label: Zweites Buch
+    from: '008'
+    to: '012'
+  - id: drittes-buch
+    label: Drittes Buch
+    from: '013'
+    to: '018'
 display:
   chapters:
     format: words_de

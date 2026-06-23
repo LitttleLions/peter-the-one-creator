@@ -1,0 +1,70 @@
+id: feuriger-engel
+title: Der feurige Engel
+author: Walerij Brjussow
+source_path: source/Brjussow - Der feurige Engel - ru.xhtml
+source_lang: ru
+target_lang: de
+ruleset_path: ''
+ruleset_apply: false
+style_mode: stil-01-original
+work_dir: work
+exports_dir: exports
+status_file: status/status.json
+log_dir: status/logs
+styles_dir: styles
+assets_dir: assets
+names_file: names.yaml
+illustration_setting: |
+  Cinematic dark literary historical illustration, modern premium classics edition.
+  Strong chiaroscuro, deep shadows, warm candlelight, controlled fire glow, subtle
+  occult diagrams, manuscript textures, gothic stone architecture, Renaissance
+  clothing. Psychologically intense figures, serious, inwardly moved. Symbolist
+  historical mood. Boundary between real historical world and inner vision. Color
+  palette: black, anthracite, smoke gray, dark brown, deep wine red, old gold,
+  copper, fire orange, muted cream white. Light sources: candles, fire, window
+  light, embers, occasional visionary glow.
+structure:
+  mode: chapter_as_scene
+  label: Kapitel als Szenen
+  groups: []
+display:
+  chapters:
+    format: words_de
+    suffix: " Kapitel"
+    align: center
+    include_source_title: false
+  scenes:
+    show: false
+naming_convention:
+  style: Deutsche Transliteration russischer Namen nach Duden-Üblichkeit.
+  example:
+  - Валерий Брюсов -> Walerij Brjussow
+  - Рената -> Renata
+  - Рупрехт -> Ruprecht
+  - Мадиэль -> Madiel
+  - Генрих фон Оттергейм -> Heinrich von Otterheim
+higgsfield:
+  model: text2image_soul_v2
+  aspect_ratio: "3:4"
+  quality: 1.5k
+  moodboard:
+    name: Die Feuernde I
+    custom_reference_id: bc717511-c335-42de-b5ef-05173a39b9ab
+  image_processing:
+    format: JPEG
+    jpeg_quality: 60
+    max_width: 1600
+    max_height: 2400
+notes: >-
+  Buchpaket fuer Walerij Brjussow, Der feurige Engel. Als Master-Quelle wird
+  die extrahierte XHTML-Datei `source/Brjussow - Der feurige Engel - ru.xhtml`
+  verwendet (aus EPUB entpackt). Der Roman spielt im Deutschland des
+  16. Jahrhunderts und enthaelt deutsche, lateinische und italienische
+  Einsprengsel. 16 Kapitel, 102.786 Woerter.
+ai:
+  provider: openrouter
+  model: deepseek/deepseek-v4-flash
+  granularity: scene
+  max_tokens_per_scene: 10000
+  max_tokens_per_chunk: 16000
+  chunk_char_limit: 12000

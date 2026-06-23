@@ -1,0 +1,1 @@
+*Buch: Der Pharao* *Quelle: EPUB/part14.xhtml* <!-- status: pending --> Wtem śpiew umilkł, zagłuszony wrzawą i szelestem jakby wielu biegnących. Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.

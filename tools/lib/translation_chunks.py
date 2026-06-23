@@ -173,5 +173,36 @@ def write_ru_chunks(
         path.write_text(chunk.text.rstrip() + "\n", encoding="utf-8")
 
 
+OVERLAP_WINDOW = 80
+OVERLAP_MIN_CHARS = 20
+
+
+def _detect_overlap(tail: str, head: str) -> int:
+    """Return length of exact suffix of *tail* that repeats at start of *head*."""
+    if not tail or not head:
+        return 0
+    max_len = min(OVERLAP_WINDOW, len(tail), len(head))
+    for n in range(max_len, OVERLAP_MIN_CHARS - 1, -1):
+        if tail.endswith(head[:n]):
+            return n
+    return 0
+
+
+def _strip_tail_overlap(prev: str, current: str) -> str:
+    overlap_len = _detect_overlap(prev, current)
+    if overlap_len == 0:
+        return current
+    return current[overlap_len:].lstrip()
+
+
 def render_chunked_translation(parts: list[str]) -> str:
-    return "\n\n".join(part.strip() for part in parts if part.strip()).strip()
+    cleaned: list[str] = []
+    for idx, part in enumerate(parts):
+        text = part.strip()
+        if not text:
+            continue
+        if idx > 0 and cleaned:
+            text = _strip_tail_overlap(cleaned[-1], text)
+        if text:
+            cleaned.append(text)
+    return "\n\n".join(cleaned).strip()

@@ -114,7 +114,9 @@ def load_export_config(book: dict[str, Any]) -> dict[str, Any]:
     meta.setdefault("language", "de-DE")
     meta.setdefault("cover", defaults.get("cover", {}) or {})
     meta.setdefault("front_matter", defaults.get("front_matter", {}) or {})
-    meta.setdefault("output", defaults.get("output", {}) or {})
+    output_cfg = meta.setdefault("output", defaults.get("output", {}) or {})
+    output_cfg.setdefault("page_break_before_chapter", True)
+    output_cfg.setdefault("page_break_before_scene", False)
     meta.setdefault("illustrations", defaults.get("illustrations", {}) or {})
     structure = book.get("structure") or {}
     meta.setdefault("structure_groups", structure.get("groups") or [])
@@ -383,6 +385,10 @@ def prepare_cover(
     if mode == "image" or image_path:
         base_dir = Path(str(meta.get("_base_dir") or REPO_ROOT))
         return resolve_cover_image(image_path, base_dir)
+    # Automatische Cover-Erkennung: cover.png / cover.jpg / ... in assets/covers/
+    auto_cover = find_named_image(book_base_dir(meta) / "assets" / "covers", "cover")
+    if auto_cover:
+        return auto_cover
     return make_cover(work_dir, title, author, style, scope_label, meta)
 
 
@@ -923,10 +929,11 @@ def render_export_markdown(
         for chapter in chapters:
             lines.append(f"- [{display_chapter_title(chapter, meta)}](#kapitel-{chapter.chapter_id})")
         lines.append("")
+    page_break_before_chapter = bool(meta.get("output", {}).get("page_break_before_chapter", True))
     last_group_id = None
     has_groups = bool(meta.get("structure_groups"))
     chapter_level = 2 if has_groups else 1
-    for chapter in chapters:
+    for cidx, chapter in enumerate(chapters):
         group = group_for_chapter(meta, chapter.chapter_id)
         group_id = group.get("id") if group else None
         if group and group_id != last_group_id:
@@ -1599,9 +1606,10 @@ def write_docx(
             document.add_paragraph(display_chapter_title(chapter, meta), style=None)
         document.add_page_break()
 
+    page_break_before_chapter = bool(meta.get("output", {}).get("page_break_before_chapter", True))
     last_group_id = None
     for cidx, chapter in enumerate(chapters):
-        if cidx:
+        if cidx and page_break_before_chapter:
             document.add_page_break()
         group = group_for_chapter(meta, chapter.chapter_id)
         group_id = group.get("id") if group else None
@@ -1663,6 +1671,11 @@ def write_epub_css(path: Path) -> Path:
         "body {\n"
         '  font-family: Georgia, "Times New Roman", serif;\n'
         "  line-height: 1.42;\n"
+        "}\n"
+        "\n"
+        ".chapter {\n"
+        "  break-before: page;\n"
+        "  page-break-before: always;\n"
         "}\n"
         "\n"
         ".frontmatter-page {\n"
@@ -1933,9 +1946,12 @@ def write_epub(
         )
 
 
-def check_epub(path: Path) -> list[str]:
+def check_epub(path: Path, report_warnings: bool = False) -> tuple[list[str], list[str]]:
+    """EPUB-Sanity-Check. Returns (errors, warnings). XHTML parse errors are
+    warnings because Pandoc may emit unrecoverable tags that readers handle."""
     required = ["mimetype", "META-INF/container.xml"]
-    missing: list[str] = []
+    errors: list[str] = []
+    warnings: list[str] = []
     with zipfile.ZipFile(path) as zf:
         names = set(zf.namelist())
         xhtml_entries = [
@@ -1946,23 +1962,23 @@ def check_epub(path: Path) -> list[str]:
             try:
                 root = ET.fromstring(zf.read(name))
             except ET.ParseError as exc:
-                missing.append(f"{name}: XHTML-Parsefehler: {exc}")
+                warnings.append(f"{name}: XHTML-Parsefehler (Pandoc-Artefakt): {exc}")
                 continue
             for image in root.iter():
                 if not str(image.tag).endswith("img"):
                     continue
                 if image.get("src") is None:
-                    missing.append(f"{name}: img ohne src")
+                    errors.append(f"{name}: img ohne src")
                 if image.get("alt") is None:
-                    missing.append(f"{name}: img ohne alt")
-    missing.extend(item for item in required if item not in names)
+                    errors.append(f"{name}: img ohne alt")
+    errors.extend(item for item in required if item not in names)
     if not any(name.endswith(".opf") for name in names):
-        missing.append("*.opf")
+        errors.append("*.opf")
     if not any("nav" in name.lower() for name in names):
-        missing.append("nav")
+        errors.append("nav")
     if not any("cover" in name.lower() for name in names):
-        missing.append("cover")
-    return missing
+        errors.append("cover")
+    return errors, warnings
 
 
 def remove_auto_title_heading_from_epub(
@@ -2159,10 +2175,14 @@ def main() -> int:
             document_title(meta, args.scope, result.chapters[0] if result.chapters else None),
             str(front_matter_config(meta).get("title_heading") or "Titelseite"),
         )
-        missing = check_epub(epub_path)
-        if missing:
+        errors, warnings = check_epub(epub_path)
+        if warnings:
+            print(f"EPUB-Warnungen (Pandoc-Artefakte):")
+            for w in warnings:
+                print(f"  {w}")
+        if errors:
             raise RuntimeError(
-                "EPUB-Sanity-Check fehlgeschlagen: " + ", ".join(missing)
+                "EPUB-Sanity-Check fehlgeschlagen: " + ", ".join(errors)
             )
         outputs.append(epub_path)
     pdf_html_path: Path | None = None

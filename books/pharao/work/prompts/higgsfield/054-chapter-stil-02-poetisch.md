@@ -1,0 +1,1 @@
+*Buch: Der Pharao* *Quelle: EPUB/part62.xhtml* <!-- status: pending --> Przez siedemdziesiąt dni, w ciągu których czcigodne zwłoki mokły w wodzie nasyconej sodą, Egipt obchodził żałobę. Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.

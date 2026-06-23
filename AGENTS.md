@@ -11,10 +11,19 @@ eigenes Paket unter `books/<book-id>/`. Tools und Dashboard entdecken Buecher
 ueber `books/*/book.yaml`; `config/books.yaml` ist nur noch Legacy unter
 `config/legacy/`.
 
+**Memory Bank:** Dieses Projekt pflegt **bewusst keine Cline Memory Bank**
+(`projectbrief.md`, `activeContext.md` usw.), weil es parallel in mehreren
+KIs bearbeitet wird und eine lokale Memory Bank dadurch schnell veraltet
+bzw. widerspruechlich waere. Massgeblicher Kontext sind AGENTS.md, README.md
+sowie die buchlokalen `book.yaml`- und `export.yaml`-Dateien.
+
 Aktuelle Buchpakete:
 
 - `books/peter-i-buch-01/` - Alexei Tolstoi, Peter der Erste
 - `books/anna-karenina/` - Lew Tolstoi, Anna Karenina
+- `books/pharao/` - Bolesław Prus, Der Pharao
+- `books/feuriger-engel/` - Walerij Brjussow, Der feurige Engel
+- `books/leben-arsenjews/` - Iwan Bunin, Das Leben Arsenjews
 
 ## Buchpaket-Struktur
 
@@ -70,6 +79,24 @@ Globale Ordner:
   `docs/higgsfield-integration.md`.
 - **`.env`-Datei:** Kopiere `.env.example` nach `.env` und trage
   den `OPENROUTER_API_KEY` ein (OpenRouter-Account noetig).
+
+## Quellformate und EPUB-Verarbeitung
+
+`extract_chapters.py` akzeptiert RTF, XHTML/HTML und Plaintext. EPUB ist ein
+ZIP-Container und muss vor der Pipeline ausgepackt werden.
+
+**Workflow fuer neue EPUB-Quellen:**
+
+1. EPUB entpacken (z. B. `Expand-Archive` unter Windows, `unzip` auf Linux/macOS)
+2. Das Haupt-XHTML (meist `OEBPS/*.xhtml`) nach `source/` kopieren
+3. `book.yaml` → `source_path` auf die `.xhtml`-Datei setzen
+4. `extract_chapters.py` ausfuehren – der Parser erkennt `<!doctype html>`
+   und parst `<h3>`-Headings als Kapitel (nur Headings mit `Глава N`
+   werden als Kapitelgrenzen gewertet, Unterueberschriften wie `1`, `I`, `II`
+   werden in das Kapitel eingeschlossen)
+
+Pandoc (`pandoc --from epub --to plain`) ist ein Fallback, verliert aber
+die Heading-Struktur (`<h3>` → Fliess-Text).
 
 ## Harte Regeln
 
@@ -184,8 +211,11 @@ DOCX/EPUB/PDF liest fertige DE-Szenen aus
 `books/<book-id>/work/scenes/de/<style>/` und schreibt nach
 `books/<book-id>/exports/<style>/<scope>/`. Cover, Titelseite,
 Zusammenfassung, Autorenleben, Impressum und Inhaltslogik stehen in
-`books/<book-id>/export.yaml`. Coverpfade sind relativ zum Buchpaket, z. B.
-`assets/covers/annakarenina.png`.
+`books/<book-id>/export.yaml`. Coverpfade sind relativ zum Buchpaket. Wird keine explizite `image_path` in
+`export.yaml` angegeben, sucht `prepare_cover()` automatisch nach
+`cover.png`, `cover.jpg`, `cover.jpeg` oder `cover.webp` in
+`books/<id>/assets/covers/`. Die Erkennung erfolgt case-insensitive; ein
+Platzhalter-Cover wird nur generiert, wenn gar kein Bild gefunden wird.
 
 Optionale Exportbilder liegen ebenfalls relativ zum Buchpaket. Kapitelbilder
 werden als `assets/chapter/chapter-NNN.*` abgelegt, Szenenbilder als

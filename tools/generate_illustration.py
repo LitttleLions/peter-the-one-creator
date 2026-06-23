@@ -38,22 +38,23 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_MODEL = "text2image_soul_v2"
 DEFAULT_MOODBOARD = "https://higgsfield.ai/s/R0FemgKUPW4"
 DEFAULT_ASPECT_RATIO = "3:4"
-DEFAULT_QUALITY = "720p"
-OUTPUT_EXT = ".jpg"
+DEFAULT_QUALITY = "1.5k"
+DEFAULT_IMAGE_PROCESSING: dict[str, Any] = {
+    "format": "JPEG",
+    "jpeg_quality": 95,
+    "max_width": None,
+    "max_height": None,
+}
+DEFAULT_OUTPUT_EXT = ".jpg"
 UUID_RE = re.compile(
     r"^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-"
     r"[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$"
 )
 
-VISUAL_CONSTRAINTS = (
-    "Period-accurate clothing, architecture, tools, horse tack, carts, sledges, "
-    "boats, weapons, and environment. No modern objects, no cars, no trucks, no "
-    "engines, no electric lights. No readable text, lettering, captions, "
-    "inscriptions, logos, watermarks, artist signatures, or marks in the image "
-    "corners. A single, unified composition depicting one coherent moment. "
-    "No split screens, no multiple panels, no comic-style layouts, "
-    "no before-and-after sequences."
-)
+# NOTE: text2image_soul_v2 hat KEINEN negative_prompt-Parameter.
+# Alle Negativ-Formulierungen ("no X") werden als positive Anweisung
+# gelesen. Deshalb nur positive Beschreibungen im illustration_setting
+# pro Buch (book.yaml).
 
 
 @dataclass(frozen=True)
@@ -90,18 +91,31 @@ def normalize_scene_number(value: str | None, kind: str) -> int | None:
     return int(value)
 
 
-def output_image_path(book: dict[str, Any], request: IllustrationRequest) -> Path:
+def output_ext_for_format(fmt: str) -> str:
+    fmt_upper = fmt.strip().upper()
+    if fmt_upper == "PNG":
+        return ".png"
+    if fmt_upper == "JPEG":
+        return ".jpg"
+    return DEFAULT_OUTPUT_EXT
+
+
+def output_image_path(book: dict[str, Any], request: IllustrationRequest,
+                      image_processing: dict[str, Any] | None = None) -> Path:
     book_root = REPO_ROOT / str(book["book_root"])
     assets_root = book_root / "assets"
+    ext = output_ext_for_format(
+        (image_processing or {}).get("format", "JPEG")
+    )
     if request.kind == "chapter":
-        return assets_root / "chapter" / f"chapter-{request.chapter_id}{OUTPUT_EXT}"
+        return assets_root / "chapter" / f"chapter-{request.chapter_id}{ext}"
     if request.scene_number is None:
         raise SystemExit("--scene ist fuer Szenenbilder erforderlich")
     return (
         assets_root
         / "scene"
         / request.chapter_id
-        / f"scene-{request.scene_number:03d}{OUTPUT_EXT}"
+        / f"scene-{request.scene_number:03d}{ext}"
     )
 
 
@@ -206,45 +220,33 @@ def clean_markdown_excerpt(text: str, limit: int = 1000) -> str:
     return compact[:limit].rsplit(" ", 1)[0].rstrip(".,;:") + "..."
 
 
-def load_book_description(book: dict[str, Any]) -> str:
-    """Load book description from export.yaml for prompt context."""
-    export_cfg_path = book.get("export_config")
-    if not export_cfg_path:
-        return ""
-    export_path = REPO_ROOT / export_cfg_path
-    if not export_path.exists():
-        return ""
-    try:
-        export_cfg = yaml.safe_load(export_path.read_text(encoding="utf-8")) or {}
-    except Exception:
-        return ""
-    description = (export_cfg.get("book") or {}).get("description") or ""
-    # Trim to a reasonable length for prompt context (max 500 chars)
-    description = description.strip()
-    if len(description) > 500:
-        description = description[:500].rsplit(" ", 1)[0].rstrip(".,;:") + "..."
-    return description
+def load_illustration_setting(book: dict[str, Any]) -> str:
+    """Load the user-editable illustration_setting from book.yaml.
+    
+    Newlines aus YAML-Block-Scalar werden durch Spaces ersetzt,
+    damit der Prompt single-line bleibt (Higgsfield-CLI-Limitierung).
+    """
+    setting = str(book.get("illustration_setting") or "").strip()
+    return re.sub(r"\s+", " ", setting)
 
 
 def build_prompt(book: dict[str, Any], request: IllustrationRequest, source_text: str) -> str:
+    """Build a concise Higgsfield prompt with only positive descriptions.
+
+    The model text2image_soul_v2 has NO negative_prompt parameter.
+    All "no X" formulations are read as positive instructions and produce
+    exactly what we want to avoid. Therefore the prompt consists only of:
+    1. illustration_setting from book.yaml (period, location, style)
+    2. The cleaned scene excerpt (atmosphere, not literal depiction)
+
+    Single-line only – Higgsfield CLI kann mehrzeilige --prompt-Werte
+    nicht korrekt verarbeiten.
+    """
+    setting = load_illustration_setting(book)
     excerpt = clean_markdown_excerpt(source_text)
-    title = str(book.get("title") or request.book_id)
-    description = load_book_description(book)
-    context = f" Novel context: {description}" if description else ""
-    scene_label = (
-        f", scene {request.scene_number:02d}"
-        if request.scene_number is not None
-        else ""
-    )
-    return (
-        f"Novel illustration for \"{title}\" by {book.get('author', '')}."
-        f" Setting: ancient {description.split('.')[0] if description else 'historical'}."
-        f" Scene location: chapter {request.chapter_id}{scene_label}."
-        f" Passage (use for atmosphere and mood, not for literal multi-scene depiction):"
-        f" {excerpt}.{context}"
-        f" Create ONE unified image capturing the atmosphere of this passage."
-        f" {VISUAL_CONSTRAINTS}"
-    )
+    if setting:
+        return re.sub(r"\s+", " ", f"{excerpt} {setting}")
+    return excerpt
 
 
 def run_json_command(cmd: list[str]) -> Any:
@@ -262,6 +264,15 @@ def run_json_command(cmd: list[str]) -> Any:
     text = completed.stdout.strip()
     if not text:
         return None
+    # Higgsfield CLI gibt ein JSON-Array zurueck, evtl. mit Statuszeilen
+    # (UUID) davor. raw_decode ab der ersten '['-Position.
+    decoder = json.JSONDecoder()
+    idx = text.find("[")
+    if idx >= 0:
+        try:
+            return decoder.raw_decode(text, idx)[0]
+        except json.JSONDecodeError:
+            pass
     try:
         return json.loads(text)
     except json.JSONDecodeError as exc:
@@ -455,19 +466,64 @@ def find_first_url(value: Any) -> str | None:
     return None
 
 
-def download_url(url: str, destination: Path) -> None:
+def load_image_processing(book: dict[str, Any]) -> dict[str, Any]:
+    """Merge book.yaml higgsfield.image_processing with defaults."""
+    cfg: dict[str, Any] = dict(DEFAULT_IMAGE_PROCESSING)
+    hf = book.get("higgsfield") or {}
+    if not isinstance(hf, dict):
+        return cfg
+    ip = hf.get("image_processing")
+    if not isinstance(ip, dict):
+        return cfg
+    for key in ("format", "jpeg_quality", "max_width", "max_height"):
+        if key in ip:
+            cfg[key] = ip[key]
+    return cfg
+
+
+def _resize_image(image: Image.Image, image_processing: dict[str, Any]) -> Image.Image:
+    max_w = image_processing.get("max_width")
+    max_h = image_processing.get("max_height")
+    if not max_w and not max_h:
+        return image
+    orig_w, orig_h = image.size
+    target_w = int(max_w) if max_w else orig_w
+    target_h = int(max_h) if max_h else orig_h
+    if orig_w <= target_w and orig_h <= target_h:
+        return image
+    image.thumbnail((target_w, target_h), Image.Resampling.LANCZOS)
+    return image
+
+
+def download_url(url: str, destination: Path,
+                 image_processing: dict[str, Any] | None = None) -> None:
     destination.parent.mkdir(parents=True, exist_ok=True)
-    request = urllib.request.Request(
+    http_request = urllib.request.Request(
         url,
         headers={"User-Agent": "peter-the-one-creator/illustration-tool"},
     )
-    with urllib.request.urlopen(request, timeout=120) as response:
+    with urllib.request.urlopen(http_request, timeout=120) as response:
         data = response.read()
-    if destination.suffix.lower() in {".jpg", ".jpeg"}:
+    ip = image_processing or DEFAULT_IMAGE_PROCESSING
+    fmt = str(ip.get("format", "JPEG")).strip().upper()
+    if fmt == "PNG":
         with Image.open(BytesIO(data)) as image:
-            image.convert("RGB").save(destination, format="JPEG", quality=95)
+            image = _resize_image(image, ip)
+            image.save(destination, format="PNG")
+    elif fmt == "KEEP":
+        with Image.open(BytesIO(data)) as image:
+            image = _resize_image(image, ip)
+            if image.format == "PNG":
+                image.save(destination, format="PNG")
+            else:
+                image = image.convert("RGB")
+                image.save(destination, format="JPEG", quality=int(ip.get("jpeg_quality", 95)))
     else:
-        destination.write_bytes(data)
+        with Image.open(BytesIO(data)) as image:
+            image = _resize_image(image, ip)
+            image = image.convert("RGB")
+            image.save(destination, format="JPEG",
+                       quality=int(ip.get("jpeg_quality", 95)))
 
 
 def write_prompt_files(
@@ -518,7 +574,8 @@ def generate_illustration(
     dry_run: bool = False,
 ) -> tuple[Path, Path, Path]:
     book = find_book_project(REPO_ROOT, request.book_id)
-    image_path = output_image_path(book, request)
+    image_processing = load_image_processing(book)
+    image_path = output_image_path(book, request, image_processing)
     if image_path.exists() and not request.overwrite:
         raise SystemExit(f"Zielbild existiert bereits: {image_path}")
 
@@ -594,7 +651,7 @@ def generate_illustration(
             job_result=job_result,
         )
         raise SystemExit("Higgsfield-Antwort enthaelt keine Medien-URL")
-    download_url(media_url, image_path)
+    download_url(media_url, image_path, image_processing)
     write_prompt_files(
         book,
         request,

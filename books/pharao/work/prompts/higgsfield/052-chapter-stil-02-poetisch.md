@@ -1,0 +1,1 @@
+*Buch: Der Pharao* *Quelle: EPUB/part60.xhtml* <!-- status: pending --> Straż czuwająca w przedpokoju zameldowała Pentuera. Kapłan upadł na twarz przed faraonem i zapytał o rozkazy. Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.

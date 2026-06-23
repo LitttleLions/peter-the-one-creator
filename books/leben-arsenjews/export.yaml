@@ -1,0 +1,101 @@
+defaults:
+  language: de-DE
+  publisher: ''
+  rights: ''
+  description: ''
+  cover:
+    mode: placeholder
+    image_path: ''
+    background: '#2d4a3e'
+    foreground: '#f5f0e8'
+  front_matter:
+    cover_in_body: true
+    title_page: true
+    summary_page: true
+    author_bio_page: true
+    description_page: false
+    imprint_page: true
+    toc_page: false
+    combined_epub_front_matter: false
+    combined_heading: Titelei
+    cover_heading: Cover
+    title_heading: Titelseite
+    summary_heading: Zusammenfassung
+    author_bio_heading: Leben des Autors
+    description_heading: Zu dieser Ausgabe
+    imprint_heading: Impressum
+    toc_heading: Inhalt
+  output:
+    chapter_headings: true
+    scene_numbers: false
+    strip_control_metadata: true
+    scene_separator: '* * *'
+  illustrations:
+    enabled: true
+    chapter_images: true
+    scene_images: true
+    chapter_page_break_after_image: true
+    scene_page_break_after_image: false
+book:
+  title: "Das Leben Arsenjews"
+  subtitle: "Ein russischer Erinnerungsroman in neuer deutscher Ausgabe"
+  author: "Iwan Bunin"
+  translator: "Motivatier Classics"
+  translator_label: "Übersetzung und editorische Einrichtung"
+  language: "de"
+  publisher: "Motivatier Hermann Stiftung"
+  rights: "© 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung."
+  original_title: "Жизнь Арсеньева"
+  original_author: "Iwan Bunin (Iwan Alexejewitsch Bunin, 1870–1953)"
+  source_title: "Жизнь Арсеньева"
+  source_author: "Иван Бунин"
+  source_translator: "Keine; Grundlage ist der russische Originaltext."
+  description: "Iwan Bunins „Das Leben Arsenjews" ist ein Erinnerungsroman über Kindheit, Jugend, Liebe, Herkunft und den Verlust einer vergangenen Welt. Diese neue deutsche Ausgabe wurde nach dem russischen gemeinfreien Original erstellt, KI-gestützt übersetzt und redaktionell geprüft."
+  summary: |
+    „Das Leben Arsenjews" ist ein Roman der Erinnerung. Aus der Rückschau entsteht das Bild einer Kindheit und Jugend in der russischen Provinz, geprägt von Landschaften, Familienbindungen, ersten Erschütterungen, literarischem Erwachen und der allmählichen Erfahrung von Vergänglichkeit.
+
+    Bunin erzählt nicht in der Form einer äußeren Chronik, sondern aus der Bewegung des Bewusstseins. Gerüche, Licht, Jahreszeiten, Räume, Stimmen und einzelne Begegnungen werden zu Trägern einer inneren Geschichte. Das Vergangene erscheint dabei nicht als bloßer Besitz der Erinnerung, sondern als etwas Unwiederbringliches, das gerade im Erzählen seine schmerzliche Gegenwart behält.
+
+    Der Roman gehört zu den zentralen Prosawerken Bunins. In ihm verbindet sich die Genauigkeit realistischer Beobachtung mit einer elegischen, konzentrierten Sprache. „Das Leben Arsenjews" ist ein Buch über Herkunft und Verlust, über Jugend und erstes Begehren, aber auch über die Frage, was von einem Leben bleibt, wenn die Welt, aus der es hervorgegangen ist, unwiderruflich verschwunden ist.
+  author_bio: |
+    Iwan Bunin, geboren 1870 in Woronesch und gestorben 1953 in Paris, war ein russischer Schriftsteller, Dichter und Erzähler. Er stammte aus einer verarmten Adelsfamilie und wurde früh durch die Landschaften, Lebensformen und sozialen Umbrüche des alten Russland geprägt. Nach der Revolution verließ er Russland und lebte im Exil, vor allem in Frankreich.
+
+    Bunin gilt als einer der großen Stilisten der russischen Prosa. Zu seinen wichtigen Werken gehören Erzählungen und Romane wie „Das Dorf", „Der Herr aus San Francisco", „Mitjas Liebe", „Dunkle Alleen" und „Das Leben Arsenjews". 1933 erhielt er als erster russischer Autor den Literaturnobelpreis.
+
+    „Жизнь Арсеньева" nimmt in Bunins Werk eine besondere Stellung ein. Der Roman ist keine einfache Autobiographie, sondern eine literarisch geformte Erinnerung an Jugend, Herkunft, Liebe und den Verlust einer historischen Welt. Gerade dadurch wurde er zu einem der bedeutenden russischen Prosawerke des Exils.
+  title_page_extra:
+    - "Originaltitel: Жизнь Арсеньева"
+    - "Originalautor: Iwan Bunin (Iwan Alexejewitsch Bunin, 1870–1953)"
+    - "Russische Vorlage: Жизнь Арсеньева"
+    - "Diese Ausgabe ist eine neue deutsche Ausgabe nach dem russischen gemeinfreien Original."
+    - "Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft."
+    - "Bei diesem Werk wurde auf die vollständige russische Originalfassung und eine konsistente Kapitel- und Buchstruktur geachtet."
+    - "Kurze Vorspänne, Motti oder Orientierungstexte vor den Kapiteln stammen nicht aus dem Original, sofern solche in dieser Ausgabe verwendet werden."
+    - "Herausgegeben von der Motivatier Hermann Stiftung"
+  imprint_text: |
+    Das Leben Arsenjews
+
+    Iwan Bunin
+
+    Ein russischer Erinnerungsroman in neuer deutscher Ausgabe
+
+    Originaltitel: Жизнь Арсеньева
+    Originalautor: Iwan Bunin (Iwan Alexejewitsch Bunin, 1870–1953)
+    Russische Vorlage: Жизнь Арсеньева
+    Quellensprache: Russisch
+
+    Diese Ausgabe ist eine neue deutsche Ausgabe nach dem russischen gemeinfreien Original. Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft.
+
+    Die kurzen Vorspänne, Motti oder Orientierungstexte vor den Kapiteln stammen nicht aus dem Original. Sie wurden für diese Ausgabe ergänzt, um historische, atmosphärische und erzählerische Orientierung zu geben.
+
+    Herausgegeben von der Motivatier Hermann Stiftung
+    Übersetzung und editorische Einrichtung: Motivatier Classics
+
+    © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.
+
+    Das zugrunde liegende Werk und die verwendete gemeinfreie Originalvorlage sind gemeinfrei. Rechte an dieser Ausgabe bestehen, soweit sie die neue deutsche Übersetzung, die redaktionellen Ergänzungen, die Gestaltung, das Cover und die konkrete Einrichtung des Textes betreffen.
+
+    Alle Rechte an dieser Ausgabe vorbehalten.
+  cover:
+    mode: placeholder
+    image_path: ''

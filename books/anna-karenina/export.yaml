@@ -26,6 +26,7 @@ defaults:
     imprint_heading: Impressum
     toc_heading: Inhalt
   output:
+    page_break_before_chapter: true
     chapter_headings: true
     scene_numbers: false
     strip_control_metadata: true

@@ -1,0 +1,249 @@
+{
+  "book_id": "peter-i-buch-01",
+  "book_title": "Peter der Erste",
+  "style": "stil-02-poetisch",
+  "scope": "book",
+  "chapter": null,
+  "format": "epub",
+  "partial": false,
+  "created_at": "2026-06-17T21:53:40",
+  "chapters": [
+    {
+      "id": "001",
+      "scenes": 19,
+      "missing": []
+    },
+    {
+      "id": "002",
+      "scenes": 11,
+      "missing": []
+    },
+    {
+      "id": "003",
+      "scenes": 8,
+      "missing": []
+    },
+    {
+      "id": "004",
+      "scenes": 23,
+      "missing": []
+    },
+    {
+      "id": "005",
+      "scenes": 22,
+      "missing": []
+    },
+    {
+      "id": "006",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "007",
+      "scenes": 21,
+      "missing": []
+    },
+    {
+      "id": "008",
+      "scenes": 12,
+      "missing": []
+    },
+    {
+      "id": "009",
+      "scenes": 9,
+      "missing": []
+    },
+    {
+      "id": "010",
+      "scenes": 4,
+      "missing": []
+    },
+    {
+      "id": "011",
+      "scenes": 5,
+      "missing": []
+    },
+    {
+      "id": "012",
+      "scenes": 7,
+      "missing": []
+    },
+    {
+      "id": "013",
+      "scenes": 5,
+      "missing": []
+    },
+    {
+      "id": "014",
+      "scenes": 6,
+      "missing": []
+    },
+    {
+      "id": "015",
+      "scenes": 3,
+      "missing": []
+    },
+    {
+      "id": "016",
+      "scenes": 6,
+      "missing": []
+    },
+    {
+      "id": "017",
+      "scenes": 6,
+      "missing": []
+    },
+    {
+      "id": "018",
+      "scenes": 7,
+      "missing": []
+    }
+  ],
+  "outputs": [
+    "books\\peter-i-buch-01\\exports\\stil-02-poetisch\\book\\epub\\book-peter-der-erste-stil-02-poetisch-20260617-215336.epub"
+  ],
+  "work_markdown": "books\\peter-i-buch-01\\exports\\stil-02-poetisch\\book\\work\\book-peter-der-erste-stil-02-poetisch-20260617-215336.md",
+  "work_pdf_html": null,
+  "work_pdf_css": null,
+  "cover": "books\\peter-i-buch-01\\assets\\covers\\peteri.png",
+  "illustrations": [
+    {
+      "kind": "chapter",
+      "chapter": "001",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-001.jpg"
+    },
+    {
+      "kind": "scene",
+      "chapter": "001",
+      "scene": 1,
+      "path": "books\\peter-i-buch-01\\assets\\scene\\001\\scene-001.jpg"
+    },
+    {
+      "kind": "scene",
+      "chapter": "001",
+      "scene": 2,
+      "path": "books\\peter-i-buch-01\\assets\\scene\\001\\scene-002.jpg"
+    },
+    {
+      "kind": "scene",
+      "chapter": "001",
+      "scene": 3,
+      "path": "books\\peter-i-buch-01\\assets\\scene\\001\\scene-003.jpg"
+    },
+    {
+      "kind": "scene",
+      "chapter": "001",
+      "scene": 4,
+      "path": "books\\peter-i-buch-01\\assets\\scene\\001\\scene-004.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "002",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-002.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "003",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-003.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "004",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-004.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "005",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-005.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "006",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-006.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "007",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-007.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "008",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-008.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "009",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-009.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "010",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-010.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "011",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-011.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "012",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-012.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "013",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-013.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "014",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-014.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "015",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-015.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "016",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-016.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "017",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-017.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "018",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-018.jpg"
+    },
+    {
+      "kind": "scene",
+      "chapter": "018",
+      "scene": 7,
+      "path": "books\\peter-i-buch-01\\assets\\scene\\018\\scene-007.jpg"
+    }
+  ]
+}

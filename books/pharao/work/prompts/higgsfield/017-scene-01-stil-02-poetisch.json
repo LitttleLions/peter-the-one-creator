@@ -1,0 +1,65 @@
+{
+  "book": "pharao",
+  "chapter": "017",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "b1808566-674b-4495-b268-756f2ea287d5",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\work\\scenes\\de\\stil-02-poetisch\\017\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\work\\prompts\\higgsfield\\017-scene-01-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\assets\\scene\\017\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "Seit jenem Abend, da Sara im Boot gesungen hatte, zeigte sich das Hofschiff nicht mehr auf dem Nil, und Prinz Ramses begann sich gründlich zu langweilen. Der Monat Mechir, der Dezember, zog herauf. Die Wasser sanken tiefer, das Land breitete sich immer weiter aus, das Gras wurde täglich höher und dichter, und in seiner Mitte entzündeten sich, gleich farbigen Funken, Blüten von unzähligen Farben und unvergleichlichem Duft. Wie Inseln auf einem grünen Meer erschienen innerhalb eines einzigen Tages blühende Kuppen: weiße, blaue, gelbe, rosafarbene oder bunte Teppiche, aus denen ein berauschender Wohlgeruch atmete. Trotz alledem langweilte sich der Prinz, und mehr noch – ihn beschlich eine Furcht. Seit der Abreise des Vaters war er selbst nicht im Palast gewesen, und niemand von dort war bei ihm gewesen, Tutmosis nicht ausgenommen, der nach dem letzten Gespräch verschwunden war wie eine Schlange im Gras. Respektierte man seine Einsamkeit, wollte man ihm einen Tort antun, oder fürchtete... Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--custom_reference_id",
+    "b1808566-674b-4495-b268-756f2ea287d5",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260617_182730_e04db11f-cdac-4a21-baae-78d27f55e9fd.png",
+  "job_result": [
+    {
+      "id": "e04db11f-cdac-4a21-baae-78d27f55e9fd",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260617_182730_e04db11f-cdac-4a21-baae-78d27f55e9fd.png",
+      "created_at": 1781720850.273992,
+      "params": {
+        "prompt": "Seit jenem Abend, da Sara im Boot gesungen hatte, zeigte sich das Hofschiff nicht mehr auf dem Nil, und Prinz Ramses begann sich gründlich zu langweilen. Der Monat Mechir, der Dezember, zog herauf. Die Wasser sanken tiefer, das Land breitete sich immer weiter aus, das Gras wurde täglich höher und dichter, und in seiner Mitte entzündeten sich, gleich farbigen Funken, Blüten von unzähligen Farben und unvergleichlichem Duft. Wie Inseln auf einem grünen Meer erschienen innerhalb eines einzigen Tages blühende Kuppen: weiße, blaue, gelbe, rosafarbene oder bunte Teppiche, aus denen ein berauschender Wohlgeruch atmete. Trotz alledem langweilte sich der Prinz, und mehr noch – ihn beschlich eine Furcht. Seit der Abreise des Vaters war er selbst nicht im Palast gewesen, und niemand von dort war bei ihm gewesen, Tutmosis nicht ausgenommen, der nach dem letzten Gespräch verschwunden war wie eine Schlange im Gras. Respektierte man seine Einsamkeit, wollte man ihm einen Tort antun, oder fürchtete... Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 900071,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "b1808566-674b-4495-b268-756f2ea287d5"
+      }
+    }
+  ]
+}

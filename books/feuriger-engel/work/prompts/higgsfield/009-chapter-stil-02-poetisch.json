@@ -1,0 +1,65 @@
+{
+  "book": "feuriger-engel",
+  "chapter": "009",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "bc717511-c335-42de-b5ef-05173a39b9ab",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\feuriger-engel\\work\\chapters\\009-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\feuriger-engel\\work\\prompts\\higgsfield\\009-chapter-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\feuriger-engel\\assets\\chapter\\chapter-009.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "*Buch: Der feurige Engel* <!-- status: pending --> Как я узнал потом, ко мне, простёртому без памяти на холодной земле, поспешил на помощь не только Матвей, но и мой соперник и его приятель. Граф Генрих проявлял все признаки крайнего отчаянья, горько упрекал себя, что принял вызов, и говорил, что, если я умру, не будет знать покоя всю жизнь. Перевязав мне рану, все трое устроили род носилок и решили нести меня в город пешком, ибо опасались подвергнуть меня качке на лошади по плохой дороге. Я же не сознавал почти ничего из совершавшегося со мной, погружённый в смутное бесчувствие, почти блаженное, прерываемое порою мучительной колющей болью, которая заставляла меня открывать глаза, — но, видя над собой синее небо, я думал почему-то, что плыву в лодке, и, успокаиваясь, опять опускал голову и душу в бред. Cinematic dark literary historical illustration, modern premium classics edition. Strong chiaroscuro, deep shadows, warm candlelight, controlled fire glow, subtle occult diagrams, manuscript textures, gothic stone architecture, Renaissance clothing. Psychologically intense figures, serious, inwardly moved. Symbolist historical mood. Boundary between real historical world and inner vision. Color palette: black, anthracite, smoke gray, dark brown, deep wine red, old gold, copper, fire orange, muted cream white. Light sources: candles, fire, window light, embers, occasional visionary glow.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--custom_reference_id",
+    "bc717511-c335-42de-b5ef-05173a39b9ab",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260618_142406_9800c9f4-cc11-490f-9d22-b85a2c407707.png",
+  "job_result": [
+    {
+      "id": "9800c9f4-cc11-490f-9d22-b85a2c407707",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260618_142406_9800c9f4-cc11-490f-9d22-b85a2c407707.png",
+      "created_at": 1781792646.685777,
+      "params": {
+        "prompt": "*Buch: Der feurige Engel* <!-- status: pending --> Как я узнал потом, ко мне, простёртому без памяти на холодной земле, поспешил на помощь не только Матвей, но и мой соперник и его приятель. Граф Генрих проявлял все признаки крайнего отчаянья, горько упрекал себя, что принял вызов, и говорил, что, если я умру, не будет знать покоя всю жизнь. Перевязав мне рану, все трое устроили род носилок и решили нести меня в город пешком, ибо опасались подвергнуть меня качке на лошади по плохой дороге. Я же не сознавал почти ничего из совершавшегося со мной, погружённый в смутное бесчувствие, почти блаженное, прерываемое порою мучительной колющей болью, которая заставляла меня открывать глаза, — но, видя над собой синее небо, я думал почему-то, что плыву в лодке, и, успокаиваясь, опять опускал голову и душу в бред. Cinematic dark literary historical illustration, modern premium classics edition. Strong chiaroscuro, deep shadows, warm candlelight, controlled fire glow, subtle occult diagrams, manuscript textures, gothic stone architecture, Renaissance clothing. Psychologically intense figures, serious, inwardly moved. Symbolist historical mood. Boundary between real historical world and inner vision. Color palette: black, anthracite, smoke gray, dark brown, deep wine red, old gold, copper, fire orange, muted cream white. Light sources: candles, fire, window light, embers, occasional visionary glow.",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 835556,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "bc717511-c335-42de-b5ef-05173a39b9ab"
+      }
+    }
+  ]
+}

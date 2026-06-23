@@ -1,0 +1,1 @@
+*Buch: Der Pharao* *Quelle: EPUB/part39.xhtml* <!-- status: pending --> W parę dni książę wysłał swego ulubieńca z wezwaniem do Kamy. Przybyła natychmiast w szczelnie zasłoniętej lektyce. Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.

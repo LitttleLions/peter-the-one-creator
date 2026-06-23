@@ -1,3 +1,5 @@
+Kapłani słuchali przerażeni. Herhor był blady, Pentuerowi wypadła z rąk tabliczka. Mefres ujął wiszący na piersiach amulet i modlił się zeschłymi wargami.
+
 — Strzeżcie się więc Asyrii — ciągnął Chaldejczyk — bo dziś jej godzina. Okrutny to lud!... gardzi pracą, żyje wojną. Zwyciężonych wbija na pale lub obdziera ze skóry, niszczy zdobyte miasta, a ludność uprowadza w niewolę. Odpoczynkiem ich jest polować na srogie zwierzęta, a zabawą — strzelać z łuku do jeńców lub wyłupywać im oczy. Cudze świątynie zamieniają w gruzy, naczyniami bogów posługują się przy swych ucztach, a kapłanów i mędrców robią swoimi błaznami. Ozdobą ich ścian są skóry żywych ludzi, a ich stołu — zakrwawione głowy nieprzyjaciół.
 
 Gdy Chaldejczyk umilknął, odezwał się czcigodny Mefres:
@@ -14,7 +16,7 @@ Asyria jeszcze boi się was, nic nie wie o zbiegu złych losów nad waszym kraje
 
 — Na jakich warunkach? — wtrącił Herhor.
 
-— Na bardzo dobrych. Asyria odstąpi wam ziemię izraelską aż do miasta Akka i kraj Edom
+— Na bardzo dobrych. Asyria odstąpi wam ziemię izraelską aż do miasta Akka i kraj Edom aż do miasta Elath. Zatem bez wojny granice wasze posuną się o dziesięć dni marszu na północ i dziesięć dni na wschód.
 
 — A Fenicja?... — spytał Herhor.
 

@@ -1,0 +1,774 @@
+{
+  "book_id": "pharao",
+  "book_title": "Der Pharao",
+  "style": "stil-02-poetisch",
+  "scope": "book",
+  "chapter": null,
+  "format": "pdf",
+  "partial": false,
+  "created_at": "2026-06-23T15:57:44",
+  "chapters": [
+    {
+      "id": "000",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "001",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "002",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "003",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "004",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "005",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "006",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "007",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "008",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "009",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "010",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "011",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "012",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "013",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "014",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "015",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "016",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "017",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "018",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "019",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "020",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "021",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "022",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "023",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "024",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "025",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "026",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "027",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "028",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "029",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "030",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "031",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "032",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "033",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "034",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "035",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "036",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "037",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "038",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "039",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "040",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "041",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "042",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "043",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "044",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "045",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "046",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "047",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "048",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "049",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "050",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "051",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "052",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "053",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "054",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "055",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "056",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "057",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "058",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "059",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "060",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "061",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "062",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "063",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "064",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "065",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "066",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "067",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "068",
+      "scenes": 1,
+      "missing": []
+    }
+  ],
+  "outputs": [
+    "books\\pharao\\exports\\stil-02-poetisch\\book\\pdf\\book-der-pharao-stil-02-poetisch-20260623-155732.pdf"
+  ],
+  "work_markdown": "books\\pharao\\exports\\stil-02-poetisch\\book\\work\\book-der-pharao-stil-02-poetisch-20260623-155732.md",
+  "work_pdf_html": "books\\pharao\\exports\\stil-02-poetisch\\book\\work\\book-der-pharao-stil-02-poetisch-20260623-155732.pdf.html",
+  "work_pdf_css": "books\\pharao\\exports\\stil-02-poetisch\\book\\work\\book-print.css",
+  "cover": "books\\pharao\\assets\\covers\\cover.png",
+  "illustrations": [
+    {
+      "kind": "chapter",
+      "chapter": "000",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-000.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "001",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-001.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "002",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-002.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "003",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-003.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "004",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-004.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "005",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-005.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "006",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-006.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "007",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-007.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "008",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-008.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "009",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-009.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "010",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-010.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "011",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-011.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "012",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-012.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "013",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-013.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "014",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-014.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "015",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-015.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "016",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-016.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "017",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-017.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "018",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-018.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "019",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-019.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "020",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-020.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "021",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-021.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "022",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-022.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "023",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-023.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "024",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-024.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "025",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-025.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "026",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-026.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "027",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-027.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "028",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-028.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "030",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-030.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "031",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-031.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "032",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-032.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "033",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-033.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "034",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-034.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "035",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-035.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "036",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-036.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "037",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-037.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "038",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-038.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "039",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-039.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "040",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-040.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "041",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-041.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "042",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-042.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "043",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-043.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "044",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-044.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "045",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-045.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "046",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-046.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "047",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-047.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "048",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-048.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "049",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-049.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "050",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-050.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "051",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-051.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "052",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-052.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "053",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-053.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "054",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-054.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "055",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-055.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "056",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-056.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "057",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-057.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "058",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-058.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "059",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-059.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "060",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-060.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "061",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-061.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "062",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-062.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "063",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-063.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "064",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-064.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "065",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-065.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "066",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-066.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "067",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-067.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "068",
+      "scene": null,
+      "path": "books\\pharao\\assets\\chapter\\chapter-068.jpg"
+    }
+  ]
+}

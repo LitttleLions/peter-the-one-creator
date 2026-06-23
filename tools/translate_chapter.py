@@ -338,6 +338,8 @@ def main():
     ai_cfg = book.get("ai", {}) or {}
     granularity = args.granularity or ai_cfg.get("granularity", "scene")
     max_tokens = args.max_tokens or ai_cfg.get("max_tokens_per_scene", 6000)
+    # Chunk-Aufrufe brauchen ggf. mehr Ausgabe-Token (Deutsch laenger als RU)
+    chunk_max_tokens = ai_cfg.get("max_tokens_per_chunk") or max(max_tokens, 12000)
     prompt_only = args.provider in ("prompt_file", "workspace_ai", "manual_codex")
 
     chosen_model = f"({args.provider})"
@@ -766,7 +768,7 @@ def main():
                                 client,
                                 chunk_messages,
                                 temperature,
-                                max_tokens,
+                                chunk_max_tokens,
                                 expected_language=book.get("target_lang", "deutsch"),
                                 label=f"szene {i} chunk {chunk.part}/{chunk.total}",
                             )

@@ -17,6 +17,11 @@ Dadurch werden fertige Kapitel nicht unnoetig erneut durch ein LLM geschickt.
 4. Pruefe den Stand mit `python tools/status.py --book <book-id> summary`.
 5. Produktive Style-Profile liegen in `books/<book-id>/styles/*.md`.
 
+> **Keine Memory Bank:** Dieses Projekt pflegt bewusst keine Cline Memory Bank
+> (`memory-bank/`). Massgeblicher Kontext sind AGENTS.md, README.md sowie die
+> buchlokalen `book.yaml`- und `export.yaml`-Dateien. Der Ordner `memory-bank/`
+> steht in `.gitignore`.
+
 ## Voraussetzungen
 
 ### Python-Abhaengigkeiten
@@ -80,6 +85,39 @@ Alte zentrale Dateien aus der vorherigen Struktur liegen unter
 `config/legacy/`. Neue Tools lesen `books/*/book.yaml`, nicht mehr
 `config/books.yaml`.
 
+## Quellformate und EPUB-Verarbeitung
+
+`extract_chapters.py` unterstützt drei Quellformate:
+
+| Format | Erkennung | Kapitelerkennung |
+|--------|-----------|------------------|
+| **RTF** | `{\rtf`-Header | Überschriften via `striprtf` + Heading-Patterns |
+| **XHTML/HTML** | `<!doctype html>`, `<html>`, `<?xml>` | `<h3>`-Headings mit `Глава N`-Match |
+| **Plaintext** | Alles andere | Heading-Patterns (`Глава`, `Книга`, `Часть`) |
+
+**EPUB-Quellen müssen zuerst ausgepackt werden**, da EPUB ein ZIP-Container
+ist. Zwei Wege:
+
+1. **Empfohlen: XHTML entpacken** (genaueste Kapitelerkennung):
+   ```bash
+   # EPUB ist ein ZIP – einfach entpacken
+   Expand-Archive -Path "books/feuriger-engel/source/mein-buch.epub" -DestinationPath "books/feuriger-engel/source/_epub/"
+   # Das Haupt-XHTML liegt meist als OEBPS/*.xhtml – nach source/ kopieren
+   Copy-Item "books/feuriger-engel/source/_epub/OEBPS/*.xhtml" "books/feuriger-engel/source/"
+   # In book.yaml auf die XHTML-Datei verweisen
+   ```
+   Die `rtf_parser.py` erkennt XHTML automatisch und parst `<h3>`-Headings
+   als Kapitelüberschriften. Nur Headings mit `Глава N` werden als
+   Kapitelgrenzen gewertet – Unterüberschriften wie `1`, `I`, `II` werden
+   in das aktuelle Kapitel mit aufgenommen.
+
+2. **Pandoc-Konvertierung** (Plaintext, verliert Heading-Struktur):
+   ```bash
+   pandoc --from epub --to plain "quelle.epub" > "quelle.txt"
+   ```
+   Nachteil: Aus `<h3>` werden Fließtextabsätze – die Heading-Patterns
+   müssen allein anhand des Texts matchen, was weniger zuverlässig ist.
+
 ## Befehle
 
 ```bash
@@ -137,8 +175,14 @@ Grosse Quell-Szenen werden beim Uebersetzen intern in Chunks geteilt. Die
 sichtbare Buchstruktur bleibt gleich: Chunks unter `work/chunks/` werden nach
 erfolgreicher Uebersetzung wieder zur urspruenglichen
 `work/scenes/de/<style>/<chapter>/scene-XX.md` zusammengesetzt. Die Grenze
-steht in `config/pipeline.yaml` unter `pipeline.ai_defaults.chunk_char_limit`
-und kann pro Lauf mit `--chunk-char-limit` ueberschrieben werden.
+steht in `book.yaml` unter `ai.chunk_char_limit` (Fallback:
+`config/pipeline.yaml`) und kann pro Lauf mit `--chunk-char-limit`
+ueberschrieben werden.
+
+Chunk-Aufrufe nutzen ein eigenes Token-Limit: `ai.max_tokens_per_chunk`
+in `book.yaml` (Fallback: `max(max_tokens_per_scene, 12000)`). Das ist
+noetig, weil deutsche Uebersetzungen oft laenger sind als das russische
+Original und das normale `max_tokens` fuer Chunks nicht ausreicht.
 
 Fuer neue Buecher liegt eine kopierbare KI-Vorlage unter
 `docs/book-metadata-prompt.md`. Sie sammelt Titel, Autor, Zusammenfassung,
@@ -302,6 +346,11 @@ book:
     mode: image
     image_path: assets/covers/annakarenina.png
 ```
+
+Wird keine `image_path` in `export.yaml` gesetzt, erkennt der Export
+automatisch eine Datei `cover.png`, `cover.jpg`, `cover.jpeg` oder
+`cover.webp` in `books/<id>/assets/covers/` (case-insensitive). Erst
+wenn gar kein Bild gefunden wird, entsteht ein Platzhalter-Cover.
 
 Optionale Kapitel- und Szenenbilder werden beim Export automatisch eingebunden,
 wenn `illustrations.enabled` aktiv ist und passende Dateien im Buchpaket

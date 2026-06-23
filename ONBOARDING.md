@@ -49,6 +49,11 @@ Python-Pipeline fuer szenenweise literarische Uebersetzung mit
 buchzentrierter Struktur, Style-Profilen, OpenRouter, Prompt-Datei-Modus,
 Workspace-KI-Modus, Dashboard und DOCX-/EPUB-/PDF-Export.
 
+**Keine Memory Bank:** Dieses Projekt wird parallel in mehreren KIs
+bearbeitet. Eine lokale Cline Memory Bank wuerde schnell veralten. Stattdessen
+sind AGENTS.md, README.md sowie die buchlokalen `book.yaml`- und
+`export.yaml`-Dateien massgeblich.
+
 ## Harte Regeln
 
 - Buchpakete liegen unter `books/<book-id>/`.

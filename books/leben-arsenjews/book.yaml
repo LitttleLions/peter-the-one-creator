@@ -1,0 +1,77 @@
+id: leben-arsenjews
+title: Das Leben Arsenjews
+author: Iwan Bunin
+source_path: source/Bunin - Das Leben Arsenjews - ru.rtf
+source_lang: ru
+target_lang: de
+ruleset_path: ''
+ruleset_apply: false
+style_mode: stil-01-original
+work_dir: work
+exports_dir: exports
+status_file: status/status.json
+log_dir: status/logs
+styles_dir: styles
+assets_dir: assets
+names_file: names.yaml
+illustration_setting: |
+  Russia, late 19th to early 20th century. Provincial estates, landscapes,
+  seasonal countryside. Period-accurate clothing, architecture, interiors.
+  Elegiac, atmospheric, richly detailed.
+structure:
+  mode: chapter_as_scene
+  label: Kapitel als Szenen
+  groups:
+  - id: buch-1
+    label: Erstes Buch
+    from: '001'
+    to: '021'
+  - id: buch-2
+    label: Zweites Buch
+    from: '022'
+    to: '040'
+  - id: buch-3
+    label: Drittes Buch
+    from: '041'
+    to: '053'
+  - id: buch-4
+    label: Viertes Buch
+    from: '054'
+    to: '074'
+  - id: buch-5
+    label: Fünftes Buch
+    from: '075'
+    to: '104'
+display:
+  chapters:
+    format: words_de
+    suffix: " Kapitel"
+    align: center
+    include_source_title: false
+  scenes:
+    show: false
+naming_convention:
+  style: Deutsche Transliteration russischer Namen nach Duden-Üblichkeit.
+  example:
+  - Иван Бунин -> Iwan Bunin
+  - Арсеньев -> Arsenjew
+  - Лика -> Lika
+higgsfield:
+  model: text2image_soul_v2
+  aspect_ratio: "3:4"
+  quality: 1.5k
+  image_processing:
+    format: JPEG
+    jpeg_quality: 60
+    max_width: 1600
+    max_height: 2400
+notes: >-
+  Buchpaket fuer Iwan Bunin, Das Leben Arsenjews. RTF-Quelle aus dem
+  russischen Original. Erinnerungsroman über Kindheit, Jugend, Liebe,
+  Herkunft und Verlust einer vergangenen Welt.
+ai:
+  provider: openrouter
+  model: deepseek/deepseek-v4-flash
+  granularity: scene
+  max_tokens_per_scene: 10000
+  chunk_char_limit: 12000

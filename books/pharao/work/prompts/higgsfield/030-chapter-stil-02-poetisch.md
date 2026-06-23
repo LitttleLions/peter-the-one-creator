@@ -1,0 +1,1 @@
+*Buch: Der Pharao* *Quelle: EPUB/part36.xhtml* <!-- status: pending --> Na drugi dzień rano Tutmozis z wielką świtą oficerów i dworzan złożył wizytę tyryjskiemu księciu i zaprosił go do namiestnika. Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.

@@ -1,3 +1,5 @@
+— W czasie podróży widziałeś lud tego nomesu. Powiesz, że nie byli wszyscy. Zgoda. Każę, aby wyszła cała ludność, a jest jej: mężów, kobiet, starców i dzieci około dwustu tysięcy sztuk. Z wierzchołka pylonu raczyłeś oglądać nasze terytorium. Lecz jeżeli pragniesz, możemy z bliska obejrzeć każde pole, każdą wieś i ulicę miasta Sochem.
+
 Nareszcie pokazałem ci urzędników, między którymi, prawda, że brakowało najniższych. Ale wydaj rozkaz, a wszyscy staną jutro przed twoim obliczem i będą leżeli na brzuchach swych.
 
 Cóż mam więcej uczynić?... odpowiedz, najdostojniejszy panie!...

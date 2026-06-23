@@ -34,7 +34,7 @@ Nazajutrz Pentuer, nie żegnając się, o wschodzie słońca opuścił świątyn
 
 Ramzes przez kilka dni z nikim nie rozmawiał: siedział w celi albo przechadzał się po cienistych korytarzach i rozmyślał. W jego duszy odbywała się praca.
 
-W gruncie rzeczy Pentuer nie powiedział nic nowego: wszyscy narzekali na ubytek ziemi i ludności w Egipcie, na nędzę chłopów, nadużycia pisarzów i wyzysk Fenicjan. Ale kazanie proroka uporządkowało w nim dotychczasowe bezładne wiadomości, nadało dotykalne formy i lepiej oświetliło pewne fakta
+W gruncie rzeczy Pentuer nie powiedział nic nowego: wszyscy narzekali na ubytek ziemi i ludności w Egipcie, na nędzę chłopów, nadużycia pisarzów i wyzysk Fenicjan. Ale kazanie proroka uporządkowało w nim dotychczasowe bezładne wiadomości, nadało dotykalne formy i lepiej oświetliło pewne fakta.
 
 Fenicjanie przerazili go: książę nie oceniał dotychczas ogromu nieszczęść wyrządzonych przez ten naród jego państwu. Zgroza była tym silniejszą, że przecie on sam własnych poddanych wypuścił w dzierżawę Dagonowi i — był świadkiem, w jaki sposób bankier wybierał od nich należności!...
 

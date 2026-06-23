@@ -1,0 +1,65 @@
+{
+  "book": "pharao",
+  "chapter": "023",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "b1808566-674b-4495-b268-756f2ea287d5",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\work\\scenes\\de\\stil-02-poetisch\\023\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\work\\prompts\\higgsfield\\023-scene-01-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\assets\\scene\\023\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "Nun begann in der Stadt Anu eine Reihe von Festen und Vergnügungen. Der ehrwürdige Ranuzer ließ aus den Kellern die besten Weine holen, aus drei benachbarten Gauen kamen die schönsten Tänzerinnen, die berühmtesten Musiker, die seltsamsten Gaukler. Prinz Ramses hatte die Zeit vollauf ausgefüllt. Am Morgen Heeresbesichtigung und Empfänge der Würdenträger, danach Festmahl, Schauspiele, Jagden und wiederum Festmahl. Doch in dem Augenblick, als der Gaugraf Haku sicher war, der Statthalter habe sich bereits an den Verwaltungs- und Wirtschaftsfragen gelangweilt, ließ der Prinz ihn zu sich rufen und fragte: „Gehört der Gau Eurer Ehrwürden zu den reichsten in Ägypten? …“ Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--custom_reference_id",
+    "b1808566-674b-4495-b268-756f2ea287d5",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260617_185112_6b578da3-7792-43df-a26f-30570ecf3dbc.png",
+  "job_result": [
+    {
+      "id": "6b578da3-7792-43df-a26f-30570ecf3dbc",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260617_185112_6b578da3-7792-43df-a26f-30570ecf3dbc.png",
+      "created_at": 1781722272.865276,
+      "params": {
+        "prompt": "Nun begann in der Stadt Anu eine Reihe von Festen und Vergnügungen. Der ehrwürdige Ranuzer ließ aus den Kellern die besten Weine holen, aus drei benachbarten Gauen kamen die schönsten Tänzerinnen, die berühmtesten Musiker, die seltsamsten Gaukler. Prinz Ramses hatte die Zeit vollauf ausgefüllt. Am Morgen Heeresbesichtigung und Empfänge der Würdenträger, danach Festmahl, Schauspiele, Jagden und wiederum Festmahl. Doch in dem Augenblick, als der Gaugraf Haku sicher war, der Statthalter habe sich bereits an den Verwaltungs- und Wirtschaftsfragen gelangweilt, ließ der Prinz ihn zu sich rufen und fragte: „Gehört der Gau Eurer Ehrwürden zu den reichsten in Ägypten? …“ Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 204571,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "b1808566-674b-4495-b268-756f2ea287d5"
+      }
+    }
+  ]
+}

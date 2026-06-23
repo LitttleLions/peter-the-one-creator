@@ -497,6 +497,15 @@ def provider_action(provider: str) -> dict[str, str]:
             ),
             "target": "books/<id>/work/scenes/de/<style>/<Kapitel>/scene-XX.md",
         },
+        "ollama": {
+            "title": "Ollama-Uebersetzung",
+            "button": "Uebersetzung starten",
+            "copy": (
+                "Sendet die ausgewaehlten Quell-Szenen an das lokale "
+                "Ollama-Modell und schreibt fertige deutsche Szenendateien."
+            ),
+            "target": "books/<id>/work/scenes/de/<style>/<Kapitel>/scene-XX.md",
+        },
         "prompt_file": {
             "title": "Prompt-Datei bauen",
             "button": "Prompt-Datei bauen",
@@ -1731,16 +1740,28 @@ with st.sidebar.expander("KI & Provider", expanded=False):
 
     provider = st.radio(
         "Provider",
-        ["openrouter", "prompt_file", "workspace_ai"],
+        ["openrouter", "ollama", "prompt_file", "workspace_ai"],
         horizontal=True,
     )
+    ollama_model = st.session_state.get("ollama_model", "qwen3:8b")
+    if provider == "ollama":
+        ollama_model = st.selectbox(
+            "Ollama-Modell",
+            ["qwen3:8b", "gemma4:latest"],
+            index=0 if ollama_model not in ("qwen3:8b", "gemma4:latest") else
+                  ["qwen3:8b", "gemma4:latest"].index(ollama_model),
+            help="Lokales Ollama-Modell. qwen3:8b wird empfohlen.",
+        )
+        st.session_state["ollama_model"] = ollama_model
 style_label = style_labels.get(style, style)
+model_display = model if provider != "ollama" else f"Ollama · {ollama_model}"
+provider_display = {"openrouter": "OpenRouter", "ollama": "Ollama lokal", "prompt_file": "Prompt-Datei", "workspace_ai": "Workspace-KI"}.get(provider, provider)
 st.sidebar.markdown(
     f"""
     <div class="sidebar-meta">
       <div><b>Stil</b> {style_label}</div>
-      <div><b>Provider</b> {provider}</div>
-      <div><b>Modell</b> {model}</div>
+      <div><b>Provider</b> {provider_display}</div>
+      <div><b>Modell</b> {model_display}</div>
     </div>
     """,
     unsafe_allow_html=True,
@@ -1764,6 +1785,8 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
+
+chunk_limit_input = default_chunk_limit
 
 if section == "Uebersicht":
     st.subheader(book["title"])
@@ -2188,6 +2211,11 @@ if section == "Uebersetzen":
                 "Verbraucht OpenRouter-Tokens und schreibt DE-Szenen. "
                 "Token und Antwortmodell landen im Kapitel-Log."
             )
+        elif provider == "ollama":
+            st.caption(
+                "Sendet Szenen an das lokale Ollama-Modell und schreibt "
+                "DE-Szenen. Kein Token-Verbrauch, keine Netzwerk-Kosten."
+            )
         else:
             st.caption(
                 "Schreibt nur Prompt-/Arbeitsdateien. Es wird kein externer "
@@ -2206,6 +2234,8 @@ if section == "Uebersetzen":
             ]
             if provider == "openrouter":
                 cmd.extend(["--model", model])
+            elif provider == "ollama":
+                cmd.extend(["--model", ollama_model])
             cmd.extend(["--chunk-char-limit", str(int(chunk_limit_input))])
             if not chapter_as_scene and scene_choice != "alle fehlenden":
                 cmd.extend(["--scene", scene_choice])
@@ -2213,7 +2243,7 @@ if section == "Uebersetzen":
                 cmd.append("--overwrite")
             if dry_run:
                 cmd.extend(["--dry-run", "--dry-run-first-scene"])
-            if provider == "openrouter" and not dry_run:
+            if provider in ("openrouter", "ollama") and not dry_run:
                 job = _start_batch_job(
                     cmd,
                     book_id=book_id,
@@ -2316,9 +2346,9 @@ if section == "Uebersetzen":
         batch_assemble_after = st.checkbox(
             "Danach zusammensetzen",
             value=False,
-            disabled=provider != "openrouter",
+            disabled=provider not in ("openrouter", "ollama"),
             help=(
-                "Startet nach erfolgreichen OpenRouter-Uebersetzungen "
+                "Startet nach erfolgreichen Uebersetzungen "
                 "assemble_chapter.py fuer die ausgewaehlten Kapitel. "
                 "Bei prompt_file/workspace_ai entstehen keine DE-Szenen."
             ),
@@ -2335,7 +2365,7 @@ if section == "Uebersetzen":
     batch_summary.append(f"Schritt 2: {action['title']}")
     batch_summary.append(
         "Schritt 3: Kapitel zusammensetzen"
-        if batch_assemble_after and provider == "openrouter"
+        if batch_assemble_after and provider in ("openrouter", "ollama")
         else "Schritt 3: nicht automatisch"
     )
     batch_summary.append(f"Chunk-Grenze: {int(chunk_limit_input):,} Zeichen")
@@ -2378,6 +2408,8 @@ if section == "Uebersetzen":
         ]
         if provider == "openrouter":
             cmd.extend(["--model", model])
+        elif provider == "ollama":
+            cmd.extend(["--model", ollama_model])
         cmd.extend(["--chunk-char-limit", str(int(chunk_limit_input))])
         if batch_scope == "Aktuelles Kapitel":
             cmd.extend(["--chapter", chapter])
@@ -2387,7 +2419,7 @@ if section == "Uebersetzen":
             cmd.append("--missing")
         if overwrite:
             cmd.append("--overwrite")
-        if batch_assemble_after and provider == "openrouter":
+        if batch_assemble_after and provider in ("openrouter", "ollama"):
             cmd.append("--assemble-after")
         if batch_auto_status:
             cmd.append("--auto-status")
@@ -2528,6 +2560,8 @@ if section == "Stiltest":
                     ]
                     if provider == "openrouter":
                         cmd.extend(["--model", model])
+                    elif provider == "ollama":
+                        cmd.extend(["--model", ollama_model])
                     cmd.extend(["--chunk-char-limit", str(int(chunk_limit_input))])
                     if replace_existing:
                         try:
@@ -2659,16 +2693,15 @@ if section == "Review":
         "Kapitel mit Befunden; saubere Kapitel stehen nur in der Summary."
     )
 
+    DEFAULT_OLLAMA_MODELS = ["qwen3:8b", "gemma4:latest"]
     ollama_model = "gemma4:latest"
     if review_llm == "ollama":
-        ollama_model = st.text_input(
+        ollama_model = st.selectbox(
             "Ollama-Modell",
-            value=ollama_model,
-            help=(
-                "Lokaler Modellname aus `ollama list`. Standard ist "
-                "`gemma4:latest`, weil dieses Modell auf dieser Maschine "
-                "geladen und getestet wurde."
-            ),
+            DEFAULT_OLLAMA_MODELS,
+            index=0 if ollama_model not in DEFAULT_OLLAMA_MODELS else
+                  DEFAULT_OLLAMA_MODELS.index(ollama_model),
+            help="Lokales Ollama-Modell. qwen3:8b wird empfohlen.",
         )
     review_fail_on_errors = st.checkbox(
         "Exit-Code bei Fehlern",

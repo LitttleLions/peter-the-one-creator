@@ -157,6 +157,28 @@ Der Prompt besteht aus genau zwei Teilen (in dieser Reihenfolge):
    `*Buch: Aëlita* <!-- status: pending -->` werden herausgefiltert, da sie
    Higgsfield verleiten koennen, Text oder Metadaten im Bild zu rendern.
 
+Optional wird zwischen Setting und Szenenauszug ein knapper Figurenblock aus
+`names.yaml` eingefuegt. Dafuer koennen Personen pro Buch ein Feld `visual`
+bekommen:
+
+```yaml
+entries:
+- source: Аэлита
+  target: Aëlita
+  aliases: []
+  type: person
+  status: confirmed
+  visual: Junge marsianische Prinzessin, schlank, ruhig, helle Augen, vogelhaft feine Gesichtszuege.
+  higgsfield:
+    character_id: null
+```
+
+`generate_illustration.py` sucht im verwendeten Szenentext nach `source`,
+`target` und `aliases` und fuegt maximal drei passende `visual`-Beschreibungen
+in den Prompt ein. Das Feld bleibt bewusst kurz und positiv formuliert.
+`higgsfield.character_id` ist fuer echte Character-/Soul-Referenzen reserviert
+und wird nicht als Moodboard-ID interpretiert.
+
 Die Reihenfolge ist **Setting zuerst, Auszug danach**. Der Grund ist
 praktisch: Die buchweite Bildsprache aus `book.yaml` setzt den visuellen
 Rahmen, bevor der konkrete Szeneninhalt folgt. Die Stil-/Setting-Ergaenzung

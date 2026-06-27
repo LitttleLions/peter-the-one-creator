@@ -11,11 +11,13 @@ sys.path.insert(0, str(REPO_ROOT / "tools"))
 
 from lib.workbench_api import (  # noqa: E402
     ExportOptions,
+    IllustrationBatchOptions,
     NewBookOptions,
     ReviewOptions,
     TranslateBatchOptions,
     TranslateRunOptions,
     build_export_command,
+    build_illustration_batch_command,
     build_init_book_command,
     build_review_command,
     build_review_fixes_command,
@@ -120,6 +122,21 @@ class WorkbenchApiTests(unittest.TestCase):
         self.assertIn("--allow-partial", export_cmd)
         self.assertEqual(fix_cmd[-1], "--stage")
 
+    def test_build_illustration_batch_normalizes_aspect_ratio(self) -> None:
+        cmd = build_illustration_batch_command(
+            IllustrationBatchOptions(
+                book_id="aelita",
+                style="stil-03-branderson",
+                kind="chapter",
+                scope="chapter",
+                chapter="015",
+                aspect_ratio="3;4",
+            )
+        )
+
+        self.assertIn("--aspect-ratio", cmd)
+        self.assertEqual(cmd[cmd.index("--aspect-ratio") + 1], "3:4")
+
     def test_build_init_book_command(self) -> None:
         cmd = build_init_book_command(
             NewBookOptions(
@@ -204,6 +221,9 @@ class WorkbenchApiTests(unittest.TestCase):
                     "  aliases: [Anna Arkadjewna, Anja]",
                     "  type: person",
                     "  status: approved",
+                    "  visual: Schlank, dunkle Haare, ernster Blick.",
+                    "  higgsfield:",
+                    "    character_id: 22222222-2222-4222-8222-222222222222",
                     "  note: Hauptfigur",
                 ]),
                 encoding="utf-8",
@@ -212,7 +232,14 @@ class WorkbenchApiTests(unittest.TestCase):
             normalized = normalize_name_rows(rows)
 
         self.assertEqual(rows[0]["aliases"], "Anna Arkadjewna, Anja")
+        self.assertEqual(rows[0]["visual"], "Schlank, dunkle Haare, ernster Blick.")
+        self.assertEqual(rows[0]["character_id"], "22222222-2222-4222-8222-222222222222")
         self.assertEqual(normalized[0]["aliases"], ["Anna Arkadjewna", "Anja"])
+        self.assertEqual(normalized[0]["visual"], "Schlank, dunkle Haare, ernster Blick.")
+        self.assertEqual(
+            normalized[0]["higgsfield"],
+            {"character_id": "22222222-2222-4222-8222-222222222222"},
+        )
 
     def test_count_export_illustrations_counts_matching_assets(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:

@@ -24,6 +24,12 @@ def normalize_chapter(value: str) -> str:
     return text.zfill(3) if text.isdigit() else text
 
 
+def normalize_aspect_ratio_arg(value: str | None) -> str | None:
+    if not value:
+        return None
+    return str(value).strip().replace(";", ":").replace("：", ":")
+
+
 def chapter_range(start: str, end: str | None) -> list[str]:
     first = normalize_chapter(start)
     last = normalize_chapter(end or start)
@@ -78,7 +84,7 @@ def build_command(args: argparse.Namespace, chapter: str, kind: str, scene: str 
         "--style": args.style,
         "--model": args.model,
         "--moodboard": args.moodboard,
-        "--aspect-ratio": args.aspect_ratio,
+        "--aspect-ratio": normalize_aspect_ratio_arg(args.aspect_ratio),
         "--quality": args.quality,
         "--backend": args.backend,
         "--soul-id": args.soul_id,

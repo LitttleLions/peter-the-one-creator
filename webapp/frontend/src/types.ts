@@ -77,6 +77,8 @@ export type NameRow = {
   type: string;
   status: string;
   note: string;
+  visual: string;
+  character_id: string;
 };
 
 export type LogItem = {

@@ -285,6 +285,12 @@ def build_export_command(options: ExportOptions) -> list[str]:
     return cmd
 
 
+def normalize_aspect_ratio_option(value: str | None) -> str | None:
+    if not value:
+        return None
+    return str(value).strip().replace(";", ":").replace("：", ":")
+
+
 def build_illustration_batch_command(options: IllustrationBatchOptions) -> list[str]:
     cmd = [
         "tools/generate_illustration_batch.py",
@@ -308,7 +314,7 @@ def build_illustration_batch_command(options: IllustrationBatchOptions) -> list[
         "--backend": options.backend,
         "--model": options.model,
         "--moodboard": options.moodboard,
-        "--aspect-ratio": options.aspect_ratio,
+        "--aspect-ratio": normalize_aspect_ratio_option(options.aspect_ratio),
         "--quality": options.quality,
     }
     for flag, value in optional_values.items():
@@ -646,6 +652,12 @@ def editable_name_rows(book: dict[str, Any], repo_root: Path) -> list[dict[str, 
             aliases_text = ", ".join(str(item) for item in aliases)
         else:
             aliases_text = str(aliases)
+        higgsfield = entry.get("higgsfield") or {}
+        character_id = ""
+        if isinstance(higgsfield, dict):
+            character_id = str(higgsfield.get("character_id") or "")
+        if not character_id:
+            character_id = str(entry.get("character_id") or "")
         rows.append({
             "source": entry.get("source", ""),
             "target": entry.get("target", ""),
@@ -653,6 +665,8 @@ def editable_name_rows(book: dict[str, Any], repo_root: Path) -> list[dict[str, 
             "type": entry.get("type", "person"),
             "status": entry.get("status", "draft"),
             "note": entry.get("note", ""),
+            "visual": entry.get("visual", ""),
+            "character_id": character_id,
         })
     rows.append({
         "source": "",
@@ -661,6 +675,8 @@ def editable_name_rows(book: dict[str, Any], repo_root: Path) -> list[dict[str, 
         "type": "person",
         "status": "draft",
         "note": "",
+        "visual": "",
+        "character_id": "",
     })
     return rows
 
@@ -676,12 +692,19 @@ def normalize_name_rows(rows: Any) -> list[dict[str, Any]]:
             continue
         aliases_text = str(row.get("aliases") or "").strip()
         aliases = [item.strip() for item in aliases_text.split(",") if item.strip()]
-        result.append({
+        item = {
             "source": source,
             "target": target,
             "aliases": aliases,
             "type": str(row.get("type") or "person").strip(),
             "status": str(row.get("status") or "draft").strip(),
             "note": str(row.get("note") or "").strip(),
-        })
+        }
+        visual = str(row.get("visual") or "").strip()
+        if visual:
+            item["visual"] = visual
+        character_id = str(row.get("character_id") or "").strip()
+        if character_id:
+            item["higgsfield"] = {"character_id": character_id}
+        result.append(item)
     return result

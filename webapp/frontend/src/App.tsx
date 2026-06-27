@@ -2550,6 +2550,8 @@ function NamesEditor({ names, loading, onChange }: { names: NameRow[]; loading: 
             <th>Aliasse</th>
             <th>Typ</th>
             <th>Status</th>
+            <th>Bildbeschreibung</th>
+            <th>Character-ID</th>
             <th>Notiz</th>
             <th></th>
           </tr>
@@ -2575,6 +2577,8 @@ function NamesEditor({ names, loading, onChange }: { names: NameRow[]; loading: 
                   <option value="review">review</option>
                 </select>
               </td>
+              <td><input className="table-input wide" value={row.visual} onChange={(event) => update(index, "visual", event.target.value)} /></td>
+              <td><input className="table-input wide" value={row.character_id} onChange={(event) => update(index, "character_id", event.target.value)} /></td>
               <td><input className="table-input wide" value={row.note} onChange={(event) => update(index, "note", event.target.value)} /></td>
               <td>
                 <button className="icon-button small" type="button" aria-label="Eintrag entfernen" onClick={() => remove(index)}>
@@ -2590,7 +2594,7 @@ function NamesEditor({ names, loading, onChange }: { names: NameRow[]; loading: 
 }
 
 function emptyNameRow(): NameRow {
-  return { source: "", target: "", aliases: "", type: "person", status: "draft", note: "" };
+  return { source: "", target: "", aliases: "", type: "person", status: "draft", note: "", visual: "", character_id: "" };
 }
 
 function validateNameRows(names: NameRow[]): string[] {

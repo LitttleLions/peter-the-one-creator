@@ -108,6 +108,14 @@ class GenerateIllustrationTests(unittest.TestCase):
             self.book_root / "assets" / "chapter" / "chapter-001.jpg",
         )
 
+    def test_aspect_ratio_normalizes_semicolon_typo(self) -> None:
+        self.assertEqual(gi.normalize_aspect_ratio("3;4"), "3:4")
+        self.assertEqual(gi.normalize_aspect_ratio("3 : 4"), "3:4")
+
+    def test_aspect_ratio_rejects_invalid_value(self) -> None:
+        with self.assertRaises(SystemExit):
+            gi.normalize_aspect_ratio("hochformat")
+
     def test_dry_run_writes_prompt_and_metadata_without_image(self) -> None:
         prompt_path, meta_path, image_path = gi.generate_illustration(
             self.request(),
@@ -155,6 +163,38 @@ class GenerateIllustrationTests(unittest.TestCase):
         self.assertNotIn("Buch:", excerpt)
         self.assertNotIn("status:", excerpt)
         self.assertEqual(excerpt, "Das Schiff flog niedrig ueber den Mars.")
+
+    def test_prompt_adds_visual_descriptions_for_present_characters(self) -> None:
+        names_path = self.book_root / "names.yaml"
+        names_path.write_text(
+            "\n".join([
+                "entries:",
+                "- source: Санка",
+                "  target: Sanka",
+                "  aliases: [Sanka]",
+                "  type: person",
+                "  status: approved",
+                "  visual: Schmaler junger Mann, wettergegerbtes Gesicht, dunkler Kaftan.",
+                "- source: Пётр",
+                "  target: Peter",
+                "  aliases: [Peter]",
+                "  type: person",
+                "  status: approved",
+                "  visual: Sehr grosser junger Zar mit wachem Blick.",
+            ]),
+            encoding="utf-8",
+        )
+        book = find_book(self.root, "peter-i-buch-01")
+
+        prompt = gi.build_prompt(
+            book,
+            self.request(),
+            "Sanka steht im Schnee vor der schwarzen Izba.",
+        )
+
+        self.assertIn("Characters present: Sanka:", prompt)
+        self.assertIn("wettergegerbtes Gesicht", prompt)
+        self.assertNotIn("Sehr grosser junger Zar", prompt)
 
     def test_higgsfield_defaults_are_read_from_book_config(self) -> None:
         book = find_book(self.root, "peter-i-buch-01")

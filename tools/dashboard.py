@@ -1604,6 +1604,8 @@ if section == "Namen":
                 "Status",
                 options=["approved", "draft", "review"],
             ),
+            "visual": st.column_config.TextColumn("Bildbeschreibung"),
+            "character_id": st.column_config.TextColumn("Higgsfield Character-ID"),
             "note": st.column_config.TextColumn("Notiz"),
         },
         key=f"names-editor-{book_id}",

@@ -31,6 +31,7 @@ from lib.output_paths import (
     source_chapter_path,
     source_scene_path,
 )
+from lib.name_registry import load_names
 from PIL import Image
 
 
@@ -50,6 +51,7 @@ UUID_RE = re.compile(
     r"^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-"
     r"[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$"
 )
+ASPECT_RATIO_RE = re.compile(r"^\d+(?:\.\d+)?:\d+(?:\.\d+)?$")
 
 # NOTE: text2image_soul_v2 hat KEINEN negative_prompt-Parameter.
 # Alle Negativ-Formulierungen ("no X") werden als positive Anweisung
@@ -95,6 +97,16 @@ def normalize_scene_number(value: str | None, kind: str) -> int | None:
     if not value.isdigit():
         raise SystemExit(f"Szene muss numerisch sein: {value!r}")
     return int(value)
+
+
+def normalize_aspect_ratio(value: str) -> str:
+    text = str(value or "").strip().replace(";", ":").replace("：", ":")
+    text = re.sub(r"\s*:\s*", ":", text)
+    if not ASPECT_RATIO_RE.match(text):
+        raise SystemExit(
+            f"Ungueltiges Seitenverhaeltnis: {value!r}. Erwartet z. B. 3:4 oder 16:9."
+        )
+    return text
 
 
 def output_ext_for_format(fmt: str) -> str:
@@ -244,6 +256,47 @@ def load_illustration_setting(book: dict[str, Any]) -> str:
     return re.sub(r"\s+", " ", setting)
 
 
+def _name_match(text: str, name: str) -> bool:
+    value = str(name or "").strip()
+    if not value:
+        return False
+    if len(value) <= 2:
+        return value in text
+    pattern = rf"(?<![\w-]){re.escape(value)}(?![\w-])"
+    return re.search(pattern, text, flags=re.IGNORECASE | re.UNICODE) is not None
+
+
+def character_visual_lines(book: dict[str, Any], source_text: str, limit: int = 3) -> list[str]:
+    names_file = book.get("names_file")
+    if not names_file:
+        return []
+    names_path = REPO_ROOT / str(names_file)
+    entries = load_names(names_path)
+    lines: list[str] = []
+    seen: set[str] = set()
+    for entry in entries:
+        if str(entry.get("type") or "person").strip() != "person":
+            continue
+        visual = re.sub(r"\s+", " ", str(entry.get("visual") or "").strip())
+        if not visual:
+            continue
+        candidates = [
+            entry.get("source"),
+            entry.get("target"),
+            *(entry.get("aliases") or []),
+        ]
+        if not any(_name_match(source_text, str(candidate)) for candidate in candidates):
+            continue
+        label = str(entry.get("target") or entry.get("source") or "").strip()
+        if not label or label in seen:
+            continue
+        seen.add(label)
+        lines.append(f"{label}: {visual}")
+        if len(lines) >= limit:
+            break
+    return lines
+
+
 def build_prompt(book: dict[str, Any], request: IllustrationRequest, source_text: str) -> str:
     """Build a concise Higgsfield prompt with only positive descriptions.
 
@@ -258,9 +311,12 @@ def build_prompt(book: dict[str, Any], request: IllustrationRequest, source_text
     """
     setting = load_illustration_setting(book)
     excerpt = clean_markdown_excerpt(source_text)
-    if setting:
-        return re.sub(r"\s+", " ", f"{setting} {excerpt}")
-    return excerpt
+    character_lines = character_visual_lines(book, source_text)
+    character_text = ""
+    if character_lines:
+        character_text = "Characters present: " + "; ".join(character_lines) + "."
+    parts = [part for part in (setting, character_text, excerpt) if part]
+    return re.sub(r"\s+", " ", " ".join(parts))
 
 
 def run_json_command(cmd: list[str]) -> Any:
@@ -1182,7 +1238,7 @@ def main(argv: list[str] | None = None) -> int:
         moodboard=args.moodboard or defaults["moodboard"],
         images=tuple(args.image or []),
         no_reference=bool(args.no_reference),
-        aspect_ratio=args.aspect_ratio or defaults["aspect_ratio"],
+        aspect_ratio=normalize_aspect_ratio(args.aspect_ratio or defaults["aspect_ratio"]),
         quality=args.quality or defaults["quality"],
         overwrite=args.overwrite,
         backend=args.backend or defaults["backend"],

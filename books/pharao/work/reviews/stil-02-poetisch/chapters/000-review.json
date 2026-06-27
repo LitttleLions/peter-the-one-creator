@@ -1,0 +1,34 @@
+{
+  "chapter": "000",
+  "style": "stil-02-poetisch",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "000",
+      "scene": 1,
+      "ru_path": "books\\pharao\\work\\scenes\\pl\\000\\scene-01.md",
+      "de_path": "books\\pharao\\work\\scenes\\de\\stil-02-poetisch\\000\\scene-01.md",
+      "ru_words": 1420,
+      "de_words": 1697,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "llm_review_failed",
+          "message": "KI-Review fehlgeschlagen: KI-Antwort enthielt kein JSON-Objekt. Antwortbeginn: '## **Die Zivilisation Ägyptens – Eine Epoche der Größe und des Wissens**  Die Zivilisation Ägyptens war eine der ältesten und bedeutendsten der Menschheitsgeschichte. Sie entstand im Flussland des Nils, einem Land, das d'",
+          "chapter": "000",
+          "scene": 1,
+          "evidence": "## **Die Zivilisation Ägyptens – Eine Epoche der Größe und des Wissens**\n\nDie Zivilisation Ägyptens war eine der ältesten und bedeutendsten der Menschheitsgeschichte. Sie entstand im Flussland des Nils, einem Land, das durch seine natürlichen Bedingungen eine einzigartige Entwicklung ermöglichte. Der Nil, mit seinen jährlichen Überschwemmungen, war nicht nur eine Quelle des Lebens, sondern auch die Grundlage für die Entstehung einer hochentwickelten Gesellschaft. Die Ägypter lernten, die Kräfte ",
+          "recommendation": "Backend/Modell pruefen, Ollama-Modell wechseln oder Lauf ohne KI-Review wiederholen.",
+          "source": "llm",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

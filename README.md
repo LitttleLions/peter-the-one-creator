@@ -37,8 +37,8 @@ pip install -r requirements.txt
 | **Streamlit** (>= 1.36) | Dashboard | Enthalten in `requirements.txt` |
 | **Pandoc** (>= 3.0) | EPUB-Export | `winget install --id JohnMacFarlane.Pandoc` oder manuell von https://pandoc.org/installing.html |
 | **Playwright Chromium** | PDF-Export | `python -m playwright install chromium` nach `pip install -r requirements.txt` |
-| **Higgsfield CLI** | Kapitel-/Szenenbilder | `npm install -g @higgsfield/cli`, Details in `docs/higgsfield-integration.md` |
-| **Ollama** (optional) | Lokale LLM-Inference | https://ollama.ai/ - Modelle: `ollama pull qwen3:8b` (empfohlen), `ollama pull gemma4:latest` (optional) |
+| **Higgsfield CLI** | Kapitel-/Szenenbilder | `npm install -g @higgsfield/cli`, Details in `docs/higgsfield-integration.md`. **Stand 2026-06-24:** Korrekte Moodboard-Laeufe setzen in der History `params.style_id`; die CLI bietet fuer `text2image_soul_v2` aber keinen `--style_id`-Parameter. `--custom_reference_id` ist dafuer nicht korrekt. |
+| **Ollama** (optional) | Lokale LLM-Inference | https://ollama.ai/ - Modelle: `ollama pull gemma4:latest` (empfohlen), `ollama pull qwen3:8b` (optional) |
 
 > **Hinweis:** Nach der Pandoc-Installation muss ein neues Terminal gestartet werden,
 > damit der Pfad erkannt wird. Unter Windows liegt Pandoc typischerweise unter
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 > **Ollama-Info:** Mit lokaler Ollama-Installation können Sie offline übersetzen.
 > Verfügbare Modelle: `ollama list`. Ollama API läuft auf `http://localhost:11434`.
-> Für `qwen3:8b` nutzen Sie: `python tools/translate_chapter.py --book <id> --chapter 001 --provider ollama --model qwen3:8b`
+> Für `gemma4:latest` nutzen Sie: `python tools/translate_chapter.py --book <id> --chapter 001 --provider ollama --model gemma4:latest`
 
 ## Buchpakete
 
@@ -140,12 +140,13 @@ python tools/extract_scenes.py --book anna-karenina --chapter 001
 # Mit OpenRouter (Standard, Remote-API mit Token-Limit)
 python tools/translate_chapter.py --book anna-karenina --chapter 001 --style stil-01-original --provider openrouter
 
-# Mit lokales Ollama (offline, kostenlos, schnell)
-python tools/translate_chapter.py --book anna-karenina --chapter 001 --style stil-01-original --provider ollama --model qwen3:8b
+# Mit lokalem Ollama (offline, kostenlos, schnell)
 python tools/translate_chapter.py --book anna-karenina --chapter 001 --style stil-01-original --provider ollama --model gemma4:latest
+# Alternative Modellwahl
+python tools/translate_chapter.py --book anna-karenina --chapter 001 --style stil-01-original --provider ollama --model qwen3:8b
 
 # Batch-Übersetzung mit Ollama
-python tools/translate_batch.py --book anna-karenina --missing --style stil-01-original --provider ollama --model qwen3:8b --assemble-after
+python tools/translate_batch.py --book anna-karenina --missing --style stil-01-original --provider ollama --model gemma4:latest --assemble-after
 
 # Oder mit Prompt-Dateien für manuelle Bearbeitung
 python tools/translate_batch.py --book anna-karenina --from 001 --to 005 --style stil-01-original --provider prompt_file --dry-run
@@ -411,31 +412,58 @@ books/<book-id>/exports/<style>/book/pdf/
 Start:
 
 ```bash
-streamlit run tools/dashboard.py
+python tools/start_dashboard.py
 ```
 
-URL: `http://localhost:8501`
+URL: `http://127.0.0.1:8000`
 
 Das Dashboard liest Buchpakete aus `books/*/book.yaml`. Es bietet Uebersicht,
-Buchsetup, Uebersetzen, Stiltest, Versionen, Export und Logs. Die verbindliche
-Optik-Referenz liegt in `docs/dashboard-design-system.md`.
+Buchsetup, Uebersetzen, Stiltest, Review, Export, Higgsfield/Bilder, Namen und
+Logs. Die verbindliche Optik-Referenz liegt in
+`docs/dashboard-design-system.md`.
 
-Lange Batch-Laeufe im Uebersetzen-Tab werden als Hintergrundprozess gestartet.
-Das Dashboard zeigt PID und Logdatei an; der Stop-Button beendet unter Windows
-den gesamten Prozessbaum. Trockenlaeufe (`Batch planen`) bleiben synchron und
-schreiben nichts.
+Lange Uebersetzungs- und Review-Laeufe werden ueber den framework-neutralen
+Job-Service `tools/lib/dashboard_jobs.py` als Hintergrundprozesse gestartet.
+Job-Metadaten liegen pro Lauf unter `var/dashboard-jobs/<job-id>.json`, Logs
+daneben als `.log`. Das globale Job-Panel bleibt nach Seitenwechsel sichtbar,
+zeigt Fortschritt/Log-Tail und kann den Prozessbaum stoppen. Trockenlaeufe
+(`Batch planen`, `Review planen`) bleiben synchron und schreiben nichts.
 
-Architektur-Notiz fuer spaeter: Streamlit bleibt vorerst die lokale Werkbank,
-weil es schnell startbar ist und die eigentliche Pipeline in CLI-Tools liegt.
-Das Dashboard soll deshalb moeglichst duenn bleiben: Anzeigen, Formulare,
-Buttons, Status und Logs; keine eigene komplexe Pipeline-Logik. Robustheit
-entsteht ueber klare Service-/CLI-Funktionen, Job-Statusdateien und saubere
-Prozessausgaben.
+Das dauerhafte Dashboard ist **FastAPI + Vite/React**. Der Startbefehl baut
+das React-Frontend bei Bedarf (`webapp/frontend/dist/`) und FastAPI liefert den
+Build direkt unter `/` aus. Die API bleibt unter `/api/...` erreichbar.
+Kommando-Builder, Lesemodelle und Kontextdaten fuer Uebersetzen, Review,
+Export, Namen, Stiltest und Bilder liegen in `tools/lib/workbench_api.py`. Die
+CLI-Tools bleiben weiterhin die produktive Pipeline.
 
-Falls Streamlit trotz dieser Entkopplung zu schwer steuerbar wird, ist
-NiceGUI der bevorzugte Nachfolger. Es bleibt Python-first und lokal im Browser,
-ist aber staerker event- und zustandsorientiert. Electron oder Tauri waeren
-erst sinnvoll, wenn daraus eine echte verteilbare Desktop-App werden soll.
+Die Buch-Settings-Seite arbeitet zweistufig: Aenderungen wirken sofort als
+lokaler Arbeitskontext in der Oberflaeche. Erst der Button
+`In book.yaml speichern` schreibt die buchnahen Produktionsdefaults
+(`style_mode`, `ai.provider`, `ai.model`, `ai.chunk_char_limit`) in das
+Buchpaket. Das Speichern aktualisiert diese YAML-Zeilen gezielt und erzeugt
+`book.yaml` nicht komplett neu. Review- und Export-Auswahl bleiben lokale
+UI-Voreinstellungen.
+Der Stiltest rendert Markdown-Blockquotes und geklammerte Nebenabsatz-Zeilen
+typografisch eingerueckt/kursiv, ohne die gespeicherten Markdown-Dateien zu
+veraendern.
+
+Entwicklungsmodus mit zwei Terminals:
+
+```bash
+python -m uvicorn webapp.backend.main:app --reload --host 127.0.0.1 --port 8000
+cd webapp/frontend
+npm install
+npm run dev
+```
+
+Der Vite-Dev-Server laeuft standardmaessig auf `http://127.0.0.1:5173` und
+proxyt `/api` an das FastAPI-Backend auf `http://127.0.0.1:8000`.
+
+Legacy-Streamlit bleibt als Backup-Werkbank verfuegbar:
+
+```bash
+streamlit run tools/dashboard.py
+```
 
 ## Tests
 

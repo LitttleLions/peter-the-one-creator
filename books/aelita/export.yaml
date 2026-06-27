@@ -1,0 +1,139 @@
+defaults:
+  language: de-DE
+  publisher: ''
+  rights: ''
+  description: ''
+  cover:
+    mode: placeholder
+    image_path: ''
+    background: '#5A1A18'
+    foreground: '#E7D5AF'
+  front_matter:
+    cover_in_body: true
+    title_page: true
+    summary_page: true
+    author_bio_page: true
+    description_page: false
+    imprint_page: true
+    toc_page: false
+    combined_epub_front_matter: false
+    combined_heading: Titelei
+    cover_heading: Cover
+    title_heading: Titelseite
+    summary_heading: Zusammenfassung
+    author_bio_heading: Leben des Autors
+    description_heading: Zu dieser Ausgabe
+    imprint_heading: Impressum
+    toc_heading: Inhalt
+  output:
+    chapter_headings: true
+    scene_numbers: false
+    strip_control_metadata: true
+    scene_separator: '* * *'
+  illustrations:
+    enabled: true
+    chapter_images: true
+    scene_images: true
+    chapter_page_break_after_image: true
+    scene_page_break_after_image: false
+book:
+  title: "Aëlita"
+  subtitle: "Ein Mars-Roman zwischen Liebe, Revolution und Untergang"
+  author: "Alexei Nikolajewitsch Tolstoi"
+  translator: "Motivatier Classics"
+  translator_label: "Übersetzung und editorische Einrichtung"
+  language: "de"
+  publisher: "Motivatier Hermann Stiftung"
+  rights: "© 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung."
+  original_title: "Аэлита (Закат Марса)"
+  original_author: "Alexei Nikolajewitsch Tolstoi (1883–1945)"
+  source_title: "Аэлита"
+  source_author: "Алексей Николаевич Толстой"
+  source_translator: "Keine; Grundlage ist der russische Originaltext."
+  source_note: >-
+    Die verwendete russische Textgrundlage beruht auf einer späteren Redaktion
+    des Werks. Der zuerst 1922–1923 unter dem Untertitel »Закат Марса«
+    veröffentlichte Text wurde von Alexei Tolstoi in den 1930er Jahren
+    substanziell überarbeitet. Maßgeblich ist die Textüberlieferung der
+    Sammelausgabe »Гиперболоид инженера Гарина. — Аэлита«
+    (Sowetski pisatel, Leningrad 1939) sowie von Band 3 der zehnteiligen
+    Tolstoi-Gesamtausgabe (Goslitisdat, Moskau 1958).
+  description: >-
+    Alexei Tolstois Mars-Roman »Aëlita« ist einer der Gründungstexte der
+    sowjetischen Weltraumliteratur und erscheint hier in einer neuen deutschen
+    Ausgabe nach dem russischen gemeinfreien Original. Die Übersetzung und
+    editorische Einrichtung wurden KI-gestützt erstellt und redaktionell
+    geprüft.
+  summary: |
+    Der Ingenieur Mstislaw Los baut im Petrograd der frühen 1920er Jahre ein
+    ungewöhnliches Raumschiff und lädt Freiwillige zu einem Flug zum Mars ein.
+    Begleitet wird er von dem ehemaligen Rotarmisten Alexei Gussew. Die Reise
+    führt die beiden aus einer von Krieg, Entbehrung und Unruhe geprägten Erde
+    in eine Welt, die fremdartig erscheint und doch die Konflikte der Menschen
+    auf andere Weise wiederholt.
+
+    Auf dem Mars, den seine Bewohner Tuma nennen, finden Los und Gussew eine
+    alte Kultur vor, deren Städte, Kanäle und technische Hinterlassenschaften
+    vom Glanz einer vergangenen Epoche zeugen. Hinter dieser Architektur steht
+    jedoch eine Gesellschaft, die von sozialer Spaltung, Herrschaft und dem
+    Bewusstsein des eigenen Niedergangs geprägt ist. Während Gussew sich den
+    Unzufriedenen und ihrem Widerstand nähert, gerät Los in den Bann Aëlitas,
+    der Tochter des Herrschers Tuskub.
+
+    Der Roman verbindet die planetarische Romanze zwischen Los und Aëlita mit
+    einer Revolutionsallegorie und der Frage, ob Technik, Macht oder Liebe eine
+    erschöpfte Welt noch verändern können. Sein Mars ist zugleich Schauplatz
+    des Abenteuers, Spiegel der nachrevolutionären Erde und melancholisches
+    Bild einer Zivilisation, die ihren Untergang bereits vor Augen hat.
+  author_bio: |
+    Alexei Nikolajewitsch Tolstoi (1883–1945) gehörte zu den vielseitigsten und
+    zugleich widersprüchlichsten Autoren der russischen Literatur des
+    20. Jahrhunderts. Sein Werk reicht von einem durch Symbolismus und
+    Modernismus geprägten Frühwerk über Exilprosa bis zu historischen Romanen,
+    Zukunftsphantastik, Kinderliteratur und der sowjetischen Literatur der
+    1930er und 1940er Jahre.
+
+    Zu seinen wichtigsten Werken zählen die Trilogie »Der Leidensweg«, der
+    historische Roman »Peter der Erste«, »Aëlita«, »Der Hyperboloid des
+    Ingenieurs Garin« sowie »Das goldene Schlüsselchen oder Die Abenteuer des
+    Burattino«. Tolstoi gilt als bedeutender Meister des historischen Romans und
+    als einer der frühen Wegbereiter der sowjetischen Science-Fiction. »Aëlita«
+    steht dabei an einer Schnittstelle seines Werks: Der Roman verbindet noch
+    die poetische und symbolistische Atmosphäre seiner frühen Prosa mit
+    technischem Zukunftsdenken, Abenteuerhandlung und politischer Allegorie.
+  title_page_extra:
+    - "Originaltitel: Аэлита (Закат Марса)"
+    - "Originalautor: Alexei Nikolajewitsch Tolstoi (1883–1945)"
+    - "Russische Vorlage: Аэлита"
+    - "Diese Ausgabe ist eine neue deutsche Ausgabe nach dem russischen gemeinfreien Original."
+    - "Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft."
+    - "Kurze Vorspänne, Motti oder Orientierungstexte vor den Kapiteln stammen nicht aus dem Original, sofern solche in dieser Ausgabe verwendet werden."
+    - "Herausgegeben von der Motivatier Hermann Stiftung"
+  imprint_text: |
+    Aëlita
+
+    Alexei Nikolajewitsch Tolstoi
+
+    Ein Mars-Roman zwischen Liebe, Revolution und Untergang
+
+    Originaltitel: Аэлита (Закат Марса)
+    Originalautor: Alexei Nikolajewitsch Tolstoi (1883–1945)
+    Quellensprache: Russisch
+
+    Textgrundlage: Die verwendete russische Vorlage beruht auf einer späteren Redaktion des Werks. Der zuerst 1922–1923 unter dem Untertitel »Закат Марса« veröffentlichte Text wurde von Alexei Tolstoi in den 1930er Jahren substanziell überarbeitet. Maßgeblich ist die Textüberlieferung der Sammelausgabe »Гиперболоид инженера Гарина. — Аэлита« (Sowetski pisatel, Leningrad 1939) sowie von Band 3 der zehnteiligen Tolstoi-Gesamtausgabe (Goslitisdat, Moskau 1958).
+
+    Diese Ausgabe ist eine neue deutsche Ausgabe nach dem russischen gemeinfreien Original. Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft.
+
+    Die kurzen Vorspänne, Motti oder Orientierungstexte vor den Kapiteln stammen nicht aus dem Original. Sie wurden für diese Ausgabe ergänzt, um historische, atmosphärische und erzählerische Orientierung zu geben.
+
+    Herausgegeben von der Motivatier Hermann Stiftung
+    Übersetzung und editorische Einrichtung: Motivatier Classics
+
+    © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.
+
+    Das zugrunde liegende Werk und die verwendete gemeinfreie Originalvorlage sind gemeinfrei. Rechte an dieser Ausgabe bestehen, soweit sie die neue deutsche Übersetzung, die redaktionellen Ergänzungen, die Gestaltung, das Cover und die konkrete Einrichtung des Textes betreffen.
+
+    Alle Rechte an dieser Ausgabe vorbehalten.
+  cover:
+    mode: placeholder
+    image_path: ''

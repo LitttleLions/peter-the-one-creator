@@ -1,0 +1,62 @@
+{
+  "book": "aelita",
+  "chapter": "020",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-03-branderson",
+  "model": "text2image_soul_v2",
+  "moodboard": "",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\chapters\\020-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\prompts\\higgsfield\\020-chapter-stil-03-branderson.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\assets\\chapter\\chapter-020.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "Город был охвачен тревогой. Бормотали, мигали зеркальные телефоны. На улицах, на площадях, в парках шептались кучки марсиан. Ждали событий, поглядывали на небо. Говорили, что где-то горят склады сушеного кактуса. В полдень в городе открыли водопроводные краны, и вода иссякла в них, но ненадолго… Многие слышали на юго-западе отдаленный взрыв. В домах заклеивали стекла бумажками — крест-накрест. Тревога шла из центра по городу, из Дома Высшего совета инженеров. Говорили о пошатнувшейся власти Тускуба, о предстоящих переменах. Тревожное возбуждение прорезывалось, как искрой, слухами: На окраинах города, на фабриках, в рабочих поселках, в общественных магазинах слухи эти воспринимались по-иному. О причине их возникновения здесь, видимо, знали больше. С тревожным злорадством говорили, что будто гигантский цирк, номер одиннадцатый, взорван подземными рабочими, что агенты правительства ищут повсюду склады оружия, что Тускуб стягивает войска в Соацеру. К полудню почти повсюду прекратилась работа. Собирались большие толпы, ожидали событий, поглядывали на неизвестно откуда появившихся многозначительных молодых, неряшливо одетых марсиан с заложенными в карманы руками. Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. A mix of retro-futuristic and",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260627_093937_45892f3e-6901-4be9-b162-9cf071d18980.png",
+  "job_result": [
+    {
+      "id": "45892f3e-6901-4be9-b162-9cf071d18980",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260627_093937_45892f3e-6901-4be9-b162-9cf071d18980.png",
+      "created_at": 1782553177.733469,
+      "params": {
+        "prompt": "Город был охвачен тревогой. Бормотали, мигали зеркальные телефоны. На улицах, на площадях, в парках шептались кучки марсиан. Ждали событий, поглядывали на небо. Говорили, что где-то горят склады сушеного кактуса. В полдень в городе открыли водопроводные краны, и вода иссякла в них, но ненадолго… Многие слышали на юго-западе отдаленный взрыв. В домах заклеивали стекла бумажками — крест-накрест. Тревога шла из центра по городу, из Дома Высшего совета инженеров. Говорили о пошатнувшейся власти Тускуба, о предстоящих переменах. Тревожное возбуждение прорезывалось, как искрой, слухами: На окраинах города, на фабриках, в рабочих поселках, в общественных магазинах слухи эти воспринимались по-иному. О причине их возникновения здесь, видимо, знали больше. С тревожным злорадством говорили, что будто гигантский цирк, номер одиннадцатый, взорван подземными рабочими, что агенты правительства ищут повсюду склады оружия, что Тускуб стягивает войска в Соацеру. К полудню почти повсюду прекратилась работа. Собирались большие толпы, ожидали событий, поглядывали на неизвестно откуда появившихся многозначительных молодых, неряшливо одетых марсиан с заложенными в карманы руками. Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. A mix of retro-futuristic and",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 909278,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": null
+        },
+        "style_strength": null
+      }
+    }
+  ]
+}

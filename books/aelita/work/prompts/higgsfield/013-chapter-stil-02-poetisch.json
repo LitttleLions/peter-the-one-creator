@@ -1,0 +1,65 @@
+{
+  "book": "aelita",
+  "chapter": "013",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\chapters\\013-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\prompts\\higgsfield\\013-chapter-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\assets\\chapter\\chapter-013.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "*Buch: Aëlita* <!-- status: pending --> Голубоватые очертания Соацеры, уступы плоских крыш, решетчатые стены, покрытые зеленью, овальные зеркала прудов, прозрачные башни, поднимаясь из-за холмов, занимали все большее пространство, тонули за мглистым горизонтом. Множество черных точек летело над городом навстречу кораблю. Цветущий канал отошел к северу. На восток от города расстилалось пустынное, покрытое кучами щебня, изрытое поле. У края этой пустыни, бросая резкую, длинную тень, возвышалась гигантская статуя, потрескавшаяся, покрытая лишаями. Каменный, обнаженный человек стоял во весь рост, ноги его были сдвинуты, руки прижаты к узким бедрам, рубчатый пояс подпирал выпуклую грудь, на солнце тускло мерцал его ушастый шлем, увенчанный острым гребнем, точно рыбий хребет. Скуластое лицо с закрытыми глазами улыбалось лунообразным ртом. Вдали за статуей виднелись огромные развалины цирка, очертания рухнувших арок акведука. Всматриваясь, Лось понял, что кучи щебня на равнине — ямы, холмы — были остатками древнейшего города. Новый город, Соацера, начинался за сверкающим озером, на запад от этих развалин. Post-revolutionary Petrograd 1920s and ancient Mars civilisation. Red deserts, canals, vertical cities, winged airships. Atmospheric depth.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--custom_reference_id",
+    "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260623_190739_2d73a92e-10e7-4ae7-b141-f42dee3e0c80.png",
+  "job_result": [
+    {
+      "id": "2d73a92e-10e7-4ae7-b141-f42dee3e0c80",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260623_190739_2d73a92e-10e7-4ae7-b141-f42dee3e0c80.png",
+      "created_at": 1782241659.922246,
+      "params": {
+        "prompt": "*Buch: Aëlita* <!-- status: pending --> Голубоватые очертания Соацеры, уступы плоских крыш, решетчатые стены, покрытые зеленью, овальные зеркала прудов, прозрачные башни, поднимаясь из-за холмов, занимали все большее пространство, тонули за мглистым горизонтом. Множество черных точек летело над городом навстречу кораблю. Цветущий канал отошел к северу. На восток от города расстилалось пустынное, покрытое кучами щебня, изрытое поле. У края этой пустыни, бросая резкую, длинную тень, возвышалась гигантская статуя, потрескавшаяся, покрытая лишаями. Каменный, обнаженный человек стоял во весь рост, ноги его были сдвинуты, руки прижаты к узким бедрам, рубчатый пояс подпирал выпуклую грудь, на солнце тускло мерцал его ушастый шлем, увенчанный острым гребнем, точно рыбий хребет. Скуластое лицо с закрытыми глазами улыбалось лунообразным ртом. Вдали за статуей виднелись огромные развалины цирка, очертания рухнувших арок акведука. Всматриваясь, Лось понял, что кучи щебня на равнине — ямы, холмы — были остатками древнейшего города. Новый город, Соацера, начинался за сверкающим озером, на запад от этих развалин. Post-revolutionary Petrograd 1920s and ancient Mars civilisation. Red deserts, canals, vertical cities, winged airships. Atmospheric depth.",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 797171,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba"
+      }
+    }
+  ]
+}

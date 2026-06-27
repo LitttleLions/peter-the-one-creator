@@ -11,11 +11,9 @@ Start:
 from __future__ import annotations
 
 import json
-import os
 import re
 import subprocess
 import sys
-from datetime import datetime
 from html import escape
 from pathlib import Path
 
@@ -24,6 +22,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import streamlit as st
 import yaml
 
+from lib import dashboard_jobs
 from lib.name_registry import load_names, write_names
 from lib.output_paths import (
     book_exports_root,
@@ -40,7 +39,6 @@ from lib.translation_chunks import (
     should_chunk,
 )
 from lib.workbench_state import (
-    assembly_paths,
     book_by_id,
     chapter_ids,
     chapter_rows,
@@ -50,13 +48,37 @@ from lib.workbench_state import (
     log_path,
     scene_counts,
 )
+from lib.workbench_api import (
+    ExportOptions,
+    NewBookOptions,
+    ReviewOptions,
+    TranslateBatchOptions,
+    TranslateRunOptions,
+    build_assemble_chapter_command,
+    build_export_command,
+    build_extract_scenes_command,
+    build_init_book_command,
+    build_review_command,
+    build_review_fixes_command,
+    build_translate_batch_command,
+    build_translate_chapter_command,
+    editable_name_rows,
+    export_context,
+    guess_title_author,
+    latest_export_files,
+    names_path,
+    normalize_name_rows,
+    oversized_source_scenes,
+    review_context,
+    style_options,
+    translation_context,
+    unregistered_sources,
+)
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DESIGN_REFERENCE = REPO_ROOT / "docs" / "dashboard-design-system.md"
 BOOK_METADATA_PROMPT = REPO_ROOT / "docs" / "book-metadata-prompt.md"
-BATCH_JOB_FILE = REPO_ROOT / ".dashboard-batch-job.json"
-BATCH_LOG_DIR = REPO_ROOT / "var" / "dashboard-jobs"
 
 
 def run_command(args: list[str]) -> subprocess.CompletedProcess[str]:
@@ -83,115 +105,13 @@ def show_result(result: subprocess.CompletedProcess[str]) -> None:
                 st.code(stderr, language="text")
 
 
-def _process_running(pid: int) -> bool:
-    if pid <= 0:
-        return False
-    if os.name == "nt":
-        result = subprocess.run(
-            ["tasklist", "/FI", f"PID eq {pid}", "/FO", "CSV", "/NH"],
-            capture_output=True,
-            text=True,
-        )
-        if f'"{pid}"' in (result.stdout or ""):
-            return True
-        # Retry once after a short pause — Windows taskkill /F may take
-        # a moment to fully unregister the PID from the task list.
-        import time
-        time.sleep(1.0)
-        result = subprocess.run(
-            ["tasklist", "/FI", f"PID eq {pid}", "/FO", "CSV", "/NH"],
-            capture_output=True,
-            text=True,
-        )
-        return f'"{pid}"' in (result.stdout or "")
-    try:
-        os.kill(pid, 0)
-    except OSError:
-        return False
-    return True
-
-
-def _job_stale(job: dict) -> bool:
-    """Return True if the job file looks outdated (older than 4 hours)."""
-    started = job.get("started_at") or ""
-    if not started:
-        return False
-    try:
-        started_dt = datetime.fromisoformat(started)
-        return (datetime.now() - started_dt).total_seconds() > 4 * 3600
-    except Exception:
-        return False
-
-
-def _stop_process_tree(pid: int) -> subprocess.CompletedProcess[str]:
-    if os.name == "nt":
-        return subprocess.run(
-            ["taskkill", "/PID", str(pid), "/T", "/F"],
-            cwd=REPO_ROOT,
-            capture_output=True,
-            text=True,
-        )
-    return subprocess.run(
-        ["kill", "-TERM", str(pid)],
-        cwd=REPO_ROOT,
-        capture_output=True,
-        text=True,
-    )
-
-
 def _load_batch_job() -> dict | None:
-    if not BATCH_JOB_FILE.exists():
-        return None
-    try:
-        return json.loads(BATCH_JOB_FILE.read_text(encoding="utf-8"))
-    except Exception:
-        return None
-
-
-def _save_batch_job(job: dict) -> None:
-    BATCH_JOB_FILE.write_text(
-        json.dumps(job, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
-
-
-def _clear_batch_job() -> None:
-    if BATCH_JOB_FILE.exists():
-        BATCH_JOB_FILE.unlink()
-
-
-def _write_batch_job(job: dict) -> None:
-    _save_batch_job(job)
+    job, _running = dashboard_jobs.active_job(REPO_ROOT)
+    return job
 
 
 def _refresh_batch_job(job: dict | None) -> tuple[dict | None, bool]:
-    if not job:
-        return None, False
-    status = str(job.get("status") or "")
-    if status in {"completed", "failed", "stopped"}:
-        return job, False
-    pid = int(job.get("pid") or 0)
-    if _job_stale(job):
-        job["status"] = "stale"
-        job["completed_at"] = datetime.now().isoformat(timespec="seconds")
-        _write_batch_job(job)
-        return job, False
-    if pid and _process_running(pid):
-        job["status"] = "running"
-        return job, True
-    raw_log_path = str(job.get("log_path") or "")
-    log_path = REPO_ROOT / raw_log_path if raw_log_path else None
-    if log_path is not None and log_path.is_file():
-        text = log_path.read_text(encoding="utf-8", errors="replace")
-        if "Summary:" in text and job.get("returncode") is None:
-            job["returncode"] = 0
-        elif "Traceback" in text and job.get("returncode") is None:
-            job["returncode"] = 1
-    job["status"] = "completed"
-    job["completed_at"] = datetime.now().isoformat(timespec="seconds")
-    job["status_note"] = "Status nachtraeglich erkannt; Prozess laeuft nicht mehr."
-    _write_batch_job(job)
-    return job, False
+    return dashboard_jobs.refresh_job(job, REPO_ROOT)
 
 
 def _job_status_label(job: dict, running: bool) -> str:
@@ -212,28 +132,12 @@ def _job_status_label(job: dict, running: bool) -> str:
     return "beendet"
 
 
-def _job_is_running(job: dict | None) -> bool:
-    _job, running = _refresh_batch_job(job)
-    return running
-
-
 def _progress_from_log(text: str) -> tuple[int | None, int | None]:
-    progress = None
-    for match in re.finditer(r"^\[(\d+)/(\d+)\]\s+(?:Kapitel|python\b)", text, re.MULTILINE):
-        progress = (int(match.group(1)), int(match.group(2)))
-    return progress or (None, None)
+    return dashboard_jobs.progress_from_log(text)
 
 
 def _latest_job_log(kind: str, book_id: str, style: str) -> Path | None:
-    if not BATCH_LOG_DIR.exists():
-        return None
-    pattern = f"*-{kind}-{book_id}-{style}.log"
-    logs = sorted(
-        BATCH_LOG_DIR.glob(pattern),
-        key=lambda path: path.stat().st_mtime,
-        reverse=True,
-    )
-    return logs[0] if logs else None
+    return dashboard_jobs.latest_job_log(kind, book_id, style, REPO_ROOT)
 
 
 def _log_completion_label(text: str) -> str:
@@ -268,165 +172,119 @@ def _start_batch_job(
     provider: str,
     kind: str = "batch",
 ) -> dict:
-    BATCH_LOG_DIR.mkdir(parents=True, exist_ok=True)
-    _clear_batch_job()
-    stamp = datetime.now().strftime("%Y%m%d-%H%M%S")
-    log_path = BATCH_LOG_DIR / f"{stamp}-{kind}-{book_id}-{style}.log"
-    creationflags = subprocess.CREATE_NEW_PROCESS_GROUP if os.name == "nt" else 0
-    runner_args = [
-        sys.executable,
-        "-u",
-        "tools/dashboard_job_runner.py",
-        "--repo-root", str(REPO_ROOT),
-        "--job-file", str(BATCH_JOB_FILE),
-        "--log-path", str(log_path),
-        "--book-id", book_id,
-        "--style", style,
-        "--provider", provider,
-        "--kind", kind,
-        "--",
-        sys.executable,
-        *args,
-    ]
-    proc = subprocess.Popen(
-        runner_args,
-        cwd=REPO_ROOT,
-        stdout=subprocess.DEVNULL,
-        stderr=subprocess.DEVNULL,
-        creationflags=creationflags,
-    )
-    job = {
-        "pid": proc.pid,
-        "child_pid": None,
-        "book_id": book_id,
-        "style": style,
-        "provider": provider,
-        "kind": kind,
-        "status": "running",
-        "returncode": None,
-        "command": [sys.executable, *args],
-        "log_path": str(log_path.relative_to(REPO_ROOT)),
-        "started_at": datetime.now().isoformat(timespec="seconds"),
-    }
-    # The runner owns the job file, including completion status. Wait briefly
-    # for its initial write so fast jobs cannot be overwritten as "running".
-    import time
-    for _ in range(20):
-        persisted = _load_batch_job()
-        if persisted and int(persisted.get("pid") or 0) == proc.pid:
-            return persisted
-        time.sleep(0.05)
-    if proc.poll() is None:
-        proc.terminate()
-    job["status"] = "failed"
-    job["returncode"] = proc.poll()
-    job["completed_at"] = datetime.now().isoformat(timespec="seconds")
-    job["status_note"] = "Dashboard-Runner konnte die Jobdatei nicht initialisieren."
-    _save_batch_job(job)
-    return job
+    return dashboard_jobs.start_job(args, book_id, style, provider, kind, REPO_ROOT)
 
 
-def _show_batch_job_panel(
-    key_prefix: str = "batch-job",
-    current_book_id: str | None = None,
-    current_style: str | None = None,
-    current_provider: str | None = None,
-) -> tuple[dict | None, bool]:
-    job, running = _refresh_batch_job(_load_batch_job())
-    if not job:
-        return None, False
-    pid = int(job.get("pid") or 0)
-    status = _job_status_label(job, running)
-    raw_log_path = str(job.get("log_path") or "")
-    log_path = REPO_ROOT / raw_log_path if raw_log_path else None
+def _job_title(job: dict) -> str:
     kind = str(job.get("kind") or "batch")
-    title = {
-        "review": "Aktiver Review-Lauf",
-        "translate": "Aktiver Uebersetzungslauf",
-    }.get(kind, "Aktiver Hintergrund-Batch")
-    same_context = True
-    if current_book_id is not None:
-        same_context = (
-            str(job.get("book_id") or "") == current_book_id
-            and (current_style is None or str(job.get("style") or "") == current_style)
-            and (
-                current_provider is None
-                or str(job.get("provider") or "") == current_provider
-            )
-        )
-    if running and not same_context:
-        title = "Anderer Hintergrundlauf"
-    st.markdown(
-        f"""
-        <div class="job-panel {'muted' if running and not same_context else ''}">
-          <div>
-            <div class="job-title">{title}</div>
-            <div class="job-meta">
-              <span>Status: {escape(status)}</span>
-              <span>PID: {pid}</span>
-              <span>Buch: {escape(str(job.get('book_id') or '-'))}</span>
-              <span>Stil: {escape(str(job.get('style') or '-'))}</span>
-              <span>Provider: {escape(str(job.get('provider') or '-'))}</span>
-            </div>
-          </div>
-        </div>
-        """,
-        unsafe_allow_html=True,
+    return {
+        "review": "Review",
+        "translate": "Uebersetzung",
+        "batch": "Batch",
+    }.get(kind, kind)
+
+
+def _job_context_matches(
+    job: dict,
+    current_book_id: str,
+    current_style: str,
+) -> bool:
+    return (
+        str(job.get("book_id") or "") == current_book_id
+        and str(job.get("style") or "") == current_style
     )
-    raw_command = job.get("command") or []
-    if raw_command:
-        with st.expander("Kommando anzeigen", expanded=False):
-            st.code(" ".join(str(part) for part in raw_command), language="text")
-    if job.get("child_pid"):
-        st.caption(f"Kindprozess: {job.get('child_pid')}")
-    if job.get("completed_at"):
-        st.caption(f"Beendet: {job.get('completed_at')}")
-    if job.get("status_note"):
-        st.caption(str(job.get("status_note")))
-    show_live_details = same_context or not running
-    if log_path is not None and log_path.is_file() and show_live_details:
-        text = log_path.read_text(encoding="utf-8", errors="replace")
-        done, total = _progress_from_log(text)
-        if done is not None and total:
-            st.progress(
-                min(done / total, 1.0),
-                text=f"Fortschritt: {done}/{total} Kapitel",
-            )
-        tail = "\n".join(text.splitlines()[-80:])
-        with st.expander("Batch-Log", expanded=not running):
-            st.code(tail or "(noch keine Ausgabe)", language="text")
-    elif running and not same_context:
+
+
+def _job_progress(job: dict) -> tuple[int | None, int | None, str]:
+    tail = dashboard_jobs.read_log_tail(job, REPO_ROOT, lines=120)
+    done, total = _progress_from_log(tail)
+    return done, total, tail
+
+
+def _show_job_overview(current_book_id: str, current_style: str) -> tuple[dict | None, bool]:
+    jobs = []
+    active = None
+    active_running = False
+    for raw_job in dashboard_jobs.list_jobs(REPO_ROOT)[:8]:
+        job, running = _refresh_batch_job(raw_job)
+        if not job:
+            continue
+        jobs.append((job, running))
+        if active is None and running:
+            active = job
+            active_running = True
+    if active is None and jobs:
+        active, active_running = jobs[0]
+
+    running_count = sum(1 for _job, running in jobs if running)
+    current_count = sum(
+        1 for job, _running in jobs
+        if _job_context_matches(job, current_book_id, current_style)
+    )
+    with st.expander(
+        f"Hintergrundjobs ({running_count} laufend, {len(jobs)} zuletzt)",
+        expanded=bool(running_count),
+    ):
+        if not jobs:
+            st.caption("Noch keine Hintergrundjobs seit der Umstellung.")
+            return None, False
         st.caption(
-            "Dieser Lauf gehoert zu einem anderen Buch/Stil. Stoppen ist moeglich; "
-            "Details bleiben eingeklappt, damit der aktuelle Arbeitsbereich ruhig bleibt."
+            f"Aktueller Kontext: {current_book_id} | {current_style}. "
+            f"{current_count} der angezeigten Jobs gehoeren zu diesem Kontext."
         )
-    col_stop, col_clear = st.columns([1, 1])
-    with col_stop:
-        if st.button(
-            "Hintergrund-Batch stoppen",
-            disabled=not running,
-            key=f"{key_prefix}-stop",
-        ):
-            result = _stop_process_tree(pid)
-            if result.returncode == 0:
-                job["status"] = "stopped"
-                job["returncode"] = None
-                job["completed_at"] = datetime.now().isoformat(timespec="seconds")
-                _write_batch_job(job)
-                st.success("Batch-Prozessbaum gestoppt.")
-            else:
-                st.error("Stoppen fehlgeschlagen.")
-            show_result(result)
-            st.rerun()
-    with col_clear:
-        if st.button(
-            "Beendeten Lauf ausblenden",
-            disabled=running,
-            key=f"{key_prefix}-clear",
-        ):
-            _clear_batch_job()
-            st.rerun()
-    return job, running
+        for index, (job, running) in enumerate(jobs):
+            job_id = str(job.get("job_id") or f"job-{index}")
+            status = _job_status_label(job, running)
+            same_context = _job_context_matches(job, current_book_id, current_style)
+            done, total, tail = _job_progress(job)
+            st.markdown(
+                f"""
+                <div class="job-panel {'muted' if not same_context else ''}">
+                  <div>
+                    <div class="job-title">{escape(_job_title(job))}: {escape(status)}</div>
+                    <div class="job-meta">
+                      <span>{'aktueller Kontext' if same_context else 'anderer Kontext'}</span>
+                      <span>Buch: {escape(str(job.get('book_id') or '-'))}</span>
+                      <span>Stil: {escape(str(job.get('style') or '-'))}</span>
+                      <span>Provider: {escape(str(job.get('provider') or '-'))}</span>
+                      <span>Start: {escape(str(job.get('started_at') or '-'))}</span>
+                      <span>ID: {escape(job_id)}</span>
+                    </div>
+                  </div>
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
+            if done is not None and total:
+                st.progress(min(done / total, 1.0), text=f"Fortschritt: {done}/{total}")
+            controls = st.columns([1, 1, 4])
+            with controls[0]:
+                if st.button(
+                    "Stoppen",
+                    key=f"job-overview-stop-{job_id}",
+                    disabled=not running,
+                ):
+                    result = dashboard_jobs.request_stop(job, REPO_ROOT)
+                    show_result(result)
+                    st.rerun()
+            with controls[1]:
+                if st.button(
+                    "Ausblenden",
+                    key=f"job-overview-clear-{job_id}",
+                    disabled=running,
+                ):
+                    dashboard_jobs.clear_job(job, REPO_ROOT)
+                    st.rerun()
+            if tail:
+                with st.expander(f"Log anzeigen: {job_id}", expanded=False):
+                    st.code(tail, language="text")
+            if index < len(jobs) - 1:
+                st.divider()
+    return active, active_running
+
+
+if hasattr(st, "fragment"):
+    _show_job_overview = st.fragment(run_every="2s")(_show_job_overview)
 
 
 def remember_result(kind: str, message: str) -> None:
@@ -528,237 +386,11 @@ def provider_action(provider: str) -> dict[str, str]:
     return actions.get(provider, actions["openrouter"])
 
 
-def latest_export_files(book: dict, style: str, repo_root: Path) -> list[Path]:
-    export_root = book_exports_root(repo_root, book) / style
-    if not export_root.exists():
-        return []
-    paths = []
-    for pattern in (
-        "chapter/docx/*.docx",
-        "chapter/epub/*.epub",
-        "book/docx/*.docx",
-        "book/epub/*.epub",
-        # Legacy layout from early exporter versions. Keep reading it,
-        # but write new exports into the scoped folders above.
-        "docx/*.docx",
-        "epub/*.epub",
-    ):
-        paths.extend(export_root.glob(pattern))
-    return sorted(paths, key=lambda path: path.stat().st_mtime, reverse=True)
-
-
-def exportable_style_rows(book: dict, styles: list[dict], chapter: str, repo_root: Path) -> list[dict]:
-    rows: list[dict] = []
-    for item in styles:
-        sid = item.get("id")
-        if not sid:
-            continue
-        current = scene_counts(book, chapter, sid, repo_root) if chapter else {
-            "ru": 0,
-            "de": 0,
-            "missing": [],
-        }
-        all_rows = chapter_rows(book, sid, repo_root)
-        rows.append({
-            "Stil": sid,
-            "Name": item.get("label") or sid,
-            "Aktuelles Kapitel DE": current["de"],
-            "Aktuelles Kapitel fehlt": len(current["missing"]),
-            "Buch DE": sum(int(row.get("DE") or 0) for row in all_rows),
-            "Buch fehlt": sum(int(row.get("Fehlt") or 0) for row in all_rows),
-        })
-    return rows
-
-
-def load_export_meta(book: dict) -> dict:
-    path = REPO_ROOT / str(book.get("export_config", ""))
-    if not path.exists():
-        return {}
-    data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
-    defaults = data.get("defaults", {}) or {}
-    book_cfg = data.get("book", {}) or {}
-    meta = {**defaults, **book_cfg}
-    for key in ("cover", "front_matter", "output", "illustrations"):
-        merged = {
-            **(defaults.get(key, {}) or {}),
-            **(book_cfg.get(key, {}) or {}),
-        }
-        if merged:
-            meta[key] = merged
-    return meta
-
-
 def load_pipeline_config() -> dict:
     path = REPO_ROOT / "config" / "pipeline.yaml"
     if not path.exists():
         return {}
     return yaml.safe_load(path.read_text(encoding="utf-8")) or {}
-
-
-def oversized_source_scenes(
-    book: dict,
-    chapter_id: str,
-    limit: int,
-    repo_root: Path,
-) -> list[dict]:
-    if not chapter_id or limit <= 0:
-        return []
-    output_root = book_output_root(repo_root, book)
-    source_lang = str(book.get("source_lang") or "ru")
-    items = []
-    for path in list_source_scene_paths(output_root, chapter_id, source_lang):
-        scene_num = parse_scene_number(path, chapter_id)
-        if scene_num is None:
-            continue
-        text = path.read_text(encoding="utf-8", errors="replace")
-        if should_chunk(text, limit):
-            chunks = scene_chunks(scene_num, text, limit)
-            items.append({
-                "scene": scene_num,
-                "chars": len(text),
-                "chunks": len(chunks),
-                "path": path,
-            })
-    return items
-
-
-IMAGE_EXTENSIONS = (".jpg", ".jpeg", ".png", ".webp")
-
-
-def find_named_image(directory: Path, stem: str) -> Path | None:
-    for ext in IMAGE_EXTENSIONS:
-        candidate = directory / f"{stem}{ext}"
-        if candidate.is_file():
-            return candidate
-    return None
-
-
-def count_export_illustrations(
-    book: dict,
-    export_meta: dict,
-    selected_chapters: list[str],
-    repo_root: Path,
-) -> dict[str, int]:
-    cfg = export_meta.get("illustrations", {}) or {}
-    if not cfg.get("enabled", False):
-        return {"chapter": 0, "scene": 0, "total": 0}
-    book_root = repo_root / str(book.get("book_root", ""))
-    chapter_count = 0
-    scene_count = 0
-    if cfg.get("chapter_images", True):
-        chapter_dir = book_root / "assets" / "chapter"
-        chapter_count = sum(
-            1
-            for chapter_id in selected_chapters
-            if find_named_image(chapter_dir, f"chapter-{chapter_id}")
-        )
-    if cfg.get("scene_images", True):
-        for chapter_id in selected_chapters:
-            scene_dir = book_root / "assets" / "scene" / chapter_id
-            stems: set[str] = set()
-            if scene_dir.exists():
-                for path in scene_dir.iterdir():
-                    if path.is_file() and path.suffix.lower() in IMAGE_EXTENSIONS:
-                        if re.match(r"^scene-\d{3}$", path.stem):
-                            stems.add(path.stem)
-            scene_count += len(stems)
-    return {
-        "chapter": chapter_count,
-        "scene": scene_count,
-        "total": chapter_count + scene_count,
-    }
-
-
-def unregistered_sources(repo_root: Path, books: list[dict]) -> list[Path]:
-    registered = {
-        (repo_root / str(book.get("source_path", ""))).resolve()
-        for book in books
-        if book.get("source_path")
-    }
-    candidates: list[Path] = []
-    books_dir = repo_root / "books"
-    for pattern in ("*.rtf", "*.doc", "*.txt", "*.md"):
-        candidates.extend(books_dir.glob(pattern))
-    return sorted(
-        [path for path in candidates if path.resolve() not in registered],
-        key=lambda path: path.name.lower(),
-    )
-
-
-def guess_title_author(path: Path) -> tuple[str, str]:
-    stem = path.stem.strip()
-    if " - " in stem:
-        author, title = stem.split(" - ", 1)
-        return title.strip(), author.strip()
-    return stem, ""
-
-
-def style_options(book: dict) -> list[dict]:
-    profiles = load_style_profiles(REPO_ROOT, book)
-    if profiles:
-        return profiles
-    return [
-        {"id": "stylized", "label": "Stylized"},
-        {"id": "middle", "label": "Middle"},
-        {"id": "literal", "label": "Literal"},
-    ]
-
-
-def book_path(book: dict, key: str) -> Path:
-    return REPO_ROOT / str(book.get(key, ""))
-
-
-def names_path(book: dict) -> Path:
-    return book_path(book, "names_file")
-
-
-def editable_name_rows(book: dict) -> list[dict]:
-    rows = []
-    for entry in load_names(names_path(book)):
-        aliases = entry.get("aliases") or []
-        if isinstance(aliases, list):
-            aliases_text = ", ".join(str(item) for item in aliases)
-        else:
-            aliases_text = str(aliases)
-        rows.append({
-            "source": entry.get("source", ""),
-            "target": entry.get("target", ""),
-            "aliases": aliases_text,
-            "type": entry.get("type", "person"),
-            "status": entry.get("status", "draft"),
-            "note": entry.get("note", ""),
-        })
-    rows.append({
-        "source": "",
-        "target": "",
-        "aliases": "",
-        "type": "person",
-        "status": "draft",
-        "note": "",
-    })
-    return rows
-
-
-def normalize_name_rows(rows: list[dict]) -> list[dict]:
-    if hasattr(rows, "to_dict"):
-        rows = rows.to_dict("records")
-    result = []
-    for row in rows:
-        source = str(row.get("source") or "").strip()
-        target = str(row.get("target") or "").strip()
-        if not source and not target:
-            continue
-        aliases_text = str(row.get("aliases") or "").strip()
-        aliases = [item.strip() for item in aliases_text.split(",") if item.strip()]
-        result.append({
-            "source": source,
-            "target": target,
-            "aliases": aliases,
-            "type": str(row.get("type") or "person").strip(),
-            "status": str(row.get("status") or "draft").strip(),
-            "note": str(row.get("note") or "").strip(),
-        })
-    return result
 
 
 def render_soft_table(rows: list[dict], empty_label: str = "Keine Daten vorhanden.") -> None:
@@ -1651,7 +1283,6 @@ nav_options = [
     "Namen",
     "Uebersetzen",
     "Stiltest",
-    "Versionen",
     "Review",
     "Export",
     "Logs",
@@ -1684,7 +1315,7 @@ st.sidebar.markdown(
     unsafe_allow_html=True,
 )
 style_default = book.get("style_mode", "stylized")
-styles = style_options(book)
+styles = style_options(book, REPO_ROOT)
 style_ids = [s["id"] for s in styles]
 style_labels = {s["id"]: s.get("label", s["id"]) for s in styles}
 style = st.sidebar.selectbox(
@@ -1743,14 +1374,14 @@ with st.sidebar.expander("KI & Provider", expanded=False):
         ["openrouter", "ollama", "prompt_file", "workspace_ai"],
         horizontal=True,
     )
-    ollama_model = st.session_state.get("ollama_model", "qwen3:8b")
+    ollama_model = st.session_state.get("ollama_model", "gemma4:latest")
     if provider == "ollama":
         ollama_model = st.selectbox(
             "Ollama-Modell",
-            ["qwen3:8b", "gemma4:latest"],
-            index=0 if ollama_model not in ("qwen3:8b", "gemma4:latest") else
-                  ["qwen3:8b", "gemma4:latest"].index(ollama_model),
-            help="Lokales Ollama-Modell. qwen3:8b wird empfohlen.",
+            ["gemma4:latest", "qwen3:8b"],
+            index=0 if ollama_model not in ("gemma4:latest", "qwen3:8b") else
+                  ["gemma4:latest", "qwen3:8b"].index(ollama_model),
+            help="Lokales Ollama-Modell. Gemma ist aktuell fuer Review und Uebersetzung stabiler.",
         )
         st.session_state["ollama_model"] = ollama_model
 style_label = style_labels.get(style, style)
@@ -1785,6 +1416,8 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
+
+_show_job_overview(book_id, style)
 
 chunk_limit_input = default_chunk_limit
 
@@ -1869,16 +1502,17 @@ if section == "Buch-Setup":
             target_lang = st.text_input("Zielsprache", value="de")
             use_rules = st.checkbox("Regelwerk fuer dieses Buch aktivieren", value=False)
             if st.button("Buch registrieren"):
-                cmd = [
-                    "tools/init_book.py",
-                    "--source", source_choice,
-                    "--title", new_title,
-                    "--author", new_author,
-                    "--style", new_style,
-                    "--source-lang", source_lang,
-                    "--target-lang", target_lang,
-                ]
-                cmd.append("--ruleset-apply" if use_rules else "--no-ruleset-apply")
+                cmd = build_init_book_command(
+                    NewBookOptions(
+                        source=source_choice,
+                        title=new_title,
+                        author=new_author,
+                        style=new_style,
+                        source_lang=source_lang,
+                        target_lang=target_lang,
+                        ruleset_apply=use_rules,
+                    )
+                )
                 show_result(run_command(cmd))
                 st.info("Nach dem Registrieren die Seite neu laden, damit das Buch in der Sidebar erscheint.")
 
@@ -1950,9 +1584,9 @@ if section == "Namen":
         """,
         unsafe_allow_html=True,
     )
-    npath = names_path(book)
+    npath = names_path(book, REPO_ROOT)
     st.caption(str(npath.relative_to(REPO_ROOT)))
-    rows = editable_name_rows(book)
+    rows = editable_name_rows(book, REPO_ROOT)
     edited_rows = st.data_editor(
         rows,
         width="stretch",
@@ -1996,9 +1630,15 @@ if section == "Namen":
 if section == "Uebersetzen":
     action = provider_action(provider)
     style_label = style_labels.get(style, style)
-    output_root = book_output_root(REPO_ROOT, book)
-    output_root_label = str(output_root.relative_to(REPO_ROOT)).replace("\\", "/")
-    missing_count = len(counts["missing"])
+    translate_ctx = translation_context(book, chapter, style, REPO_ROOT)
+    output_root = translate_ctx.output_root
+    output_root_label = translate_ctx.output_root_label
+    counts = translate_ctx.counts
+    missing_count = translate_ctx.missing_count
+    source_lang = translate_ctx.source_lang
+    source_lang_label = translate_ctx.source_lang_label
+    unit_label = translate_ctx.unit_label
+    chapter_as_scene = translate_ctx.chapter_as_scene
 
     st.markdown(
         f"""
@@ -2031,31 +1671,16 @@ if section == "Uebersetzen":
         """,
         unsafe_allow_html=True,
     )
-    translate_job, translate_job_running = _show_batch_job_panel(
-        "translate-job",
-        current_book_id=book_id,
-        current_style=style,
-        current_provider=provider,
-    )
+    translate_job, translate_job_running = _refresh_batch_job(_load_batch_job())
     if translate_job is None:
         _show_latest_job_log("translate", book_id, style)
 
-    if chapter_as_scene:
-        scene_choices = ["aktuelles Kapitel"]
-        default_scene = 0
-    else:
-        scene_choices = ["alle fehlenden"]
-        scene_choices.extend(f"{num:02d}" for num in counts["missing"])
-        if counts["next_missing"] is not None:
-            default_scene = scene_choices.index(f"{counts['next_missing']:02d}")
-        else:
-            default_scene = 0
     col_scope, col_flags = st.columns([2, 1])
     with col_scope:
         scene_choice = st.selectbox(
             "Umfang des Laufs",
-            scene_choices,
-            index=default_scene,
+            translate_ctx.scene_choices,
+            index=translate_ctx.default_scene_index,
             help=(
                 "Bei kapitelbasierten Buechern ist das aktuelle Kapitel die "
                 "kleinste Einheit. Bei Szenenbuechern kann eine einzelne "
@@ -2091,9 +1716,6 @@ if section == "Uebersetzen":
                 "bleibt dieselbe scene-XX.md."
             ),
         )
-
-    source_lang = str(book.get("source_lang") or "ru")
-    source_lang_label = source_lang.upper()
 
     oversized_current = oversized_source_scenes(
         book, chapter, int(chunk_limit_input), REPO_ROOT
@@ -2186,11 +1808,7 @@ if section == "Uebersetzen":
             unsafe_allow_html=True,
         )
         if st.button(f"{source_lang_label}-Szenen extrahieren", disabled=not bool(chapter)):
-            show_result(run_command([
-                "tools/extract_scenes.py",
-                "--book", book_id,
-                "--chapter", chapter,
-            ]))
+            show_result(run_command(build_extract_scenes_command(book_id, chapter)))
 
     with col_b:
         st.markdown(
@@ -2225,24 +1843,24 @@ if section == "Uebersetzen":
             action["button"],
             disabled=not bool(chapter) or translate_job_running,
         ):
-            cmd = [
-                "tools/translate_chapter.py",
-                "--book", book_id,
-                "--chapter", chapter,
-                "--style", style,
-                "--provider", provider,
-            ]
-            if provider == "openrouter":
-                cmd.extend(["--model", model])
-            elif provider == "ollama":
-                cmd.extend(["--model", ollama_model])
-            cmd.extend(["--chunk-char-limit", str(int(chunk_limit_input))])
-            if not chapter_as_scene and scene_choice != "alle fehlenden":
-                cmd.extend(["--scene", scene_choice])
-            if overwrite:
-                cmd.append("--overwrite")
-            if dry_run:
-                cmd.extend(["--dry-run", "--dry-run-first-scene"])
+            cmd = build_translate_chapter_command(
+                TranslateRunOptions(
+                    book_id=book_id,
+                    chapter=chapter,
+                    style=style,
+                    provider=provider,
+                    model=model,
+                    ollama_model=ollama_model,
+                    chunk_char_limit=int(chunk_limit_input),
+                    scene=(
+                        scene_choice
+                        if not chapter_as_scene and scene_choice != "alle fehlenden"
+                        else None
+                    ),
+                    overwrite=overwrite,
+                    dry_run=dry_run,
+                )
+            )
             if provider in ("openrouter", "ollama") and not dry_run:
                 job = _start_batch_job(
                     cmd,
@@ -2277,12 +1895,7 @@ if section == "Uebersetzen":
             unsafe_allow_html=True,
         )
         if st.button("Kapitel zusammensetzen", disabled=counts["de"] == 0 or not bool(chapter)):
-            show_result(run_command([
-                "tools/assemble_chapter.py",
-                "--book", book_id,
-                "--chapter", chapter,
-                "--style", style,
-            ]))
+            show_result(run_command(build_assemble_chapter_command(book_id, chapter, style)))
         if counts["de"] == 0:
             st.caption("Noch keine DE-Szenen fuer diesen Style vorhanden.")
 
@@ -2400,31 +2013,25 @@ if section == "Uebersetzen":
     if active_job_running:
         st.caption("Der Startknopf ist deaktiviert, solange ein Hintergrundlauf aktiv ist.")
     if st.button(batch_button_label, disabled=not bool(chapters) or active_job_running):
-        cmd = [
-            "tools/translate_batch.py",
-            "--book", book_id,
-            "--style", style,
-            "--provider", provider,
-        ]
-        if provider == "openrouter":
-            cmd.extend(["--model", model])
-        elif provider == "ollama":
-            cmd.extend(["--model", ollama_model])
-        cmd.extend(["--chunk-char-limit", str(int(chunk_limit_input))])
-        if batch_scope == "Aktuelles Kapitel":
-            cmd.extend(["--chapter", chapter])
-        elif batch_scope == "Bereich":
-            cmd.extend(["--from", start_chapter, "--to", end_chapter])
-        else:
-            cmd.append("--missing")
-        if overwrite:
-            cmd.append("--overwrite")
-        if batch_assemble_after and provider in ("openrouter", "ollama"):
-            cmd.append("--assemble-after")
-        if batch_auto_status:
-            cmd.append("--auto-status")
+        cmd = build_translate_batch_command(
+            TranslateBatchOptions(
+                book_id=book_id,
+                style=style,
+                provider=provider,
+                scope=batch_scope,
+                chapter=chapter,
+                start_chapter=start_chapter,
+                end_chapter=end_chapter,
+                model=model,
+                ollama_model=ollama_model,
+                chunk_char_limit=int(chunk_limit_input),
+                overwrite=overwrite,
+                auto_status=batch_auto_status,
+                dry_run=batch_dry_run,
+                assemble_after=batch_assemble_after,
+            )
+        )
         if batch_dry_run:
-            cmd.append("--dry-run")
             with st.spinner("Batch wird geplant..."):
                 show_result(run_command(cmd))
         else:
@@ -2550,19 +2157,19 @@ if section == "Stiltest":
                             ),
                         )
                         st.rerun()
-                    cmd = [
-                        "tools/translate_chapter.py",
-                        "--book", book_id,
-                        "--chapter", chapter,
-                        "--scene", scene_num,
-                        "--style", style_id,
-                        "--provider", provider,
-                    ]
-                    if provider == "openrouter":
-                        cmd.extend(["--model", model])
-                    elif provider == "ollama":
-                        cmd.extend(["--model", ollama_model])
-                    cmd.extend(["--chunk-char-limit", str(int(chunk_limit_input))])
+                    cmd = build_translate_chapter_command(
+                        TranslateRunOptions(
+                            book_id=book_id,
+                            chapter=chapter,
+                            scene=scene_num,
+                            style=style_id,
+                            provider=provider,
+                            model=model,
+                            ollama_model=ollama_model,
+                            chunk_char_limit=int(chunk_limit_input),
+                            overwrite=replace_existing,
+                        )
+                    )
                     if replace_existing:
                         try:
                             delete_existing_style_outputs(
@@ -2571,7 +2178,6 @@ if section == "Stiltest":
                         except ValueError as exc:
                             remember_result("error", str(exc))
                             st.rerun()
-                        cmd.append("--overwrite")
                     with st.spinner(f"{label} wird erzeugt..."):
                         result = run_command(cmd)
                     show_result(result)
@@ -2592,27 +2198,12 @@ if section == "Stiltest":
                         )
                         st.rerun()
 
-if section == "Versionen":
-    st.subheader(f"Assemblies Kapitel {chapter}")
-    paths = assembly_paths(book, chapter, style, REPO_ROOT)
-    if not paths:
-        st.info("Keine Kapitelversion vorhanden.")
-    else:
-        labels = [p.name for p in paths]
-        selected = st.selectbox("Version", labels, index=len(labels) - 1)
-        path = paths[labels.index(selected)]
-        st.caption(str(path.relative_to(REPO_ROOT)))
-        st.text_area(
-            "Inhalt",
-            path.read_text(encoding="utf-8"),
-            height=500,
-        )
-
 if section == "Review":
-    output_root = book_output_root(REPO_ROOT, book)
-    review_root = output_root / "reviews" / style
-    summary_json = review_root / "review-summary.json"
-    summary_md = review_root / "review-summary.md"
+    review_ctx = review_context(book, style, REPO_ROOT)
+    output_root = review_ctx.output_root
+    review_root = review_ctx.review_root
+    summary_json = review_ctx.summary_json
+    summary_md = review_ctx.summary_md
 
     st.markdown(
         f"""
@@ -2693,7 +2284,7 @@ if section == "Review":
         "Kapitel mit Befunden; saubere Kapitel stehen nur in der Summary."
     )
 
-    DEFAULT_OLLAMA_MODELS = ["qwen3:8b", "gemma4:latest"]
+    DEFAULT_OLLAMA_MODELS = ["gemma4:latest", "qwen3:8b"]
     ollama_model = "gemma4:latest"
     if review_llm == "ollama":
         ollama_model = st.selectbox(
@@ -2701,7 +2292,7 @@ if section == "Review":
             DEFAULT_OLLAMA_MODELS,
             index=0 if ollama_model not in DEFAULT_OLLAMA_MODELS else
                   DEFAULT_OLLAMA_MODELS.index(ollama_model),
-            help="Lokales Ollama-Modell. qwen3:8b wird empfohlen.",
+            help="Lokales Ollama-Modell. Gemma ist aktuell fuer JSON-Reviews stabiler.",
         )
     review_fail_on_errors = st.checkbox(
         "Exit-Code bei Fehlern",
@@ -2709,39 +2300,45 @@ if section == "Review":
         help="Nuetzlich fuer Release-Gates und Skripte.",
     )
 
-    review_cmd = [
-        "tools/review_manuscript.py",
-        "--book", book_id,
-        "--style", style,
-        "--llm", review_llm,
-        "--llm-scope", review_llm_scope,
-    ]
-    if review_scope == "Aktuelles Kapitel":
-        review_cmd.extend(["--chapter", chapter])
-    elif review_scope == "Bereich":
-        review_cmd.extend(["--from", review_start, "--to", review_end])
-    else:
-        review_cmd.append("--all")
-    if review_llm == "openrouter":
-        review_cmd.extend(["--model", model])
-    if review_llm == "ollama":
-        review_cmd.extend(["--ollama-model", ollama_model])
-    if review_fail_on_errors:
-        review_cmd.append("--fail-on-errors")
-
-    active_job, active_job_running = _show_batch_job_panel(
-        "review-job",
-        current_book_id=book_id,
-        current_style=style,
-        current_provider=f"review:{review_llm}",
+    review_cmd = build_review_command(
+        ReviewOptions(
+            book_id=book_id,
+            style=style,
+            scope=review_scope,
+            chapter=chapter,
+            start_chapter=review_start,
+            end_chapter=review_end,
+            llm=review_llm,
+            llm_scope=review_llm_scope,
+            model=model,
+            ollama_model=ollama_model,
+            fail_on_errors=review_fail_on_errors,
+        )
     )
+
+    active_job, active_job_running = _refresh_batch_job(_load_batch_job())
     if active_job is None:
         _show_latest_job_log("review", book_id, style)
     col_plan, col_run = st.columns([1, 1])
     with col_plan:
         if st.button("Review planen", disabled=not bool(chapters)):
             with st.spinner("Review wird geplant..."):
-                show_result(run_command([*review_cmd, "--dry-run"]))
+                show_result(run_command(build_review_command(
+                    ReviewOptions(
+                        book_id=book_id,
+                        style=style,
+                        scope=review_scope,
+                        chapter=chapter,
+                        start_chapter=review_start,
+                        end_chapter=review_end,
+                        llm=review_llm,
+                        llm_scope=review_llm_scope,
+                        model=model,
+                        ollama_model=ollama_model,
+                        fail_on_errors=review_fail_on_errors,
+                        dry_run=True,
+                    )
+                )))
     with col_run:
         if st.button(
             "Review im Hintergrund starten",
@@ -2780,26 +2377,20 @@ if section == "Review":
         st.info("Noch kein Review-Report fuer diesen Stil vorhanden.")
 
     st.markdown("### Review-Fixes")
-    fix_root = output_root / "review-fixes" / style
-    fix_manifest = fix_root / "fix-manifest.json"
-    fix_plan = fix_root / "fix-plan.txt"
-    manual_review = fix_root / "manual-review.md"
-    promotion_report = fix_root / "promotion-report.json"
-    fix_cmd = [
-        "tools/apply_review_suggestions.py",
-        "--book", book_id,
-        "--style", style,
-    ]
+    fix_manifest = review_ctx.fix_manifest
+    fix_plan = review_ctx.fix_plan
+    manual_review = review_ctx.manual_review
+    promotion_report = review_ctx.promotion_report
     fix_a, fix_b, fix_c = st.columns([1, 1, 1])
     with fix_a:
         if st.button("Fixes planen", disabled=not summary_json.exists()):
-            show_result(run_command([*fix_cmd, "--plan"]))
+            show_result(run_command(build_review_fixes_command(book_id, style, "plan")))
     with fix_b:
         if st.button("Fix-Kandidaten erzeugen", disabled=not summary_json.exists()):
-            show_result(run_command([*fix_cmd, "--stage"]))
+            show_result(run_command(build_review_fixes_command(book_id, style, "stage")))
     with fix_c:
         if st.button("Gepruefte Kandidaten uebernehmen", disabled=not fix_manifest.exists()):
-            show_result(run_command([*fix_cmd, "--promote"]))
+            show_result(run_command(build_review_fixes_command(book_id, style, "promote")))
 
     if fix_manifest.exists():
         try:
@@ -2844,27 +2435,9 @@ if section == "Review":
         pr3.metric("Assembled", len(report.get("assembled_chapters") or []))
 
 if section == "Export":
-    output_root = book_output_root(REPO_ROOT, book)
-    export_meta = load_export_meta(book)
-    cover_cfg = export_meta.get("cover", {}) or {}
-    front_cfg = export_meta.get("front_matter", {}) or {}
+    export_ctx = export_context(book, styles, style, chapter, chapters, "chapter", REPO_ROOT)
+    export_meta = export_ctx.export_meta
     output_cfg = export_meta.get("output", {}) or {}
-    illustrations_cfg = export_meta.get("illustrations", {}) or {}
-    cover_mode = cover_cfg.get("mode", "placeholder")
-    cover_image = str(cover_cfg.get("image_path") or "").strip()
-    cover_status = (
-        cover_image if cover_mode == "image" and cover_image else "Automatisches Platzhalter-Cover"
-    )
-    illustrations_status = "aktiv" if illustrations_cfg.get("enabled", False) else "aus"
-    front_enabled = [
-        name for name, enabled in [
-            ("Cover im Text", front_cfg.get("cover_in_body", True)),
-            ("Beschreibung", front_cfg.get("description_page", True)),
-            ("Impressum", front_cfg.get("imprint_page", True)),
-            ("Inhalt", front_cfg.get("toc_page", True)),
-        ]
-        if enabled
-    ]
     st.markdown(
         f"""
         <div class="hero-strip">
@@ -2912,15 +2485,15 @@ if section == "Export":
             <h3>Konfiguration</h3>
             <div class="config-row">
               <span class="config-icon"><svg viewBox="0 0 24 24"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M4 4.5A2.5 2.5 0 0 1 6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5z"/></svg></span>
-              <b>Cover</b><span>{cover_status}</span>
+              <b>Cover</b><span>{export_ctx.cover_status}</span>
             </div>
             <div class="config-row">
               <span class="config-icon"><svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M8 13h8"/><path d="M8 17h5"/></svg></span>
-              <b>Frontmatter</b><span>{", ".join(front_enabled) or "aus"}</span>
+              <b>Frontmatter</b><span>{", ".join(export_ctx.front_enabled) or "aus"}</span>
             </div>
             <div class="config-row">
               <span class="config-icon"><svg viewBox="0 0 24 24"><path d="M21 19V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14"/><path d="M3 16l5-5 4 4 3-3 6 6"/><circle cx="8.5" cy="8.5" r="1.5"/></svg></span>
-              <b>Illustrationen</b><span>{illustrations_status}</span>
+              <b>Illustrationen</b><span>{export_ctx.illustrations_status}</span>
             </div>
             <div class="config-row">
               <span class="config-icon"><svg viewBox="0 0 24 24"><path d="M5 12h14"/><path d="M5 6h14"/><path d="M5 18h14"/></svg></span>
@@ -2988,6 +2561,16 @@ if section == "Export":
             ),
         )
 
+    export_ctx = export_context(
+        book,
+        styles,
+        style,
+        chapter,
+        chapters,
+        export_scope,
+        REPO_ROOT,
+    )
+
     st.info(
         f"Exportiert wird immer der links ausgewaehlte Stil: {style_label}. "
         "Wenn gerade uebersetzte Dateien fehlen, pruefe zuerst diese Stiltabelle."
@@ -3007,48 +2590,34 @@ if section == "Export":
         """,
         unsafe_allow_html=True,
     )
-    render_soft_table(exportable_style_rows(book, styles, chapter, REPO_ROOT))
+    render_soft_table(export_ctx.style_rows)
 
+    metrics = export_ctx.chapter_metrics
     if export_scope == "chapter":
-        export_counts = counts
-        export_missing_chapters = [chapter] if export_counts["missing"] else []
         c1, c2, c3, c4 = st.columns(4)
-        c1.metric("Kapitel", chapter)
-        c2.metric(f"{source_lang_label}-Szenen", export_counts["ru"])
-        c3.metric("DE-Szenen", export_counts["de"])
-        c4.metric("Fehlend", len(export_counts["missing"]))
-        if export_counts["missing"]:
+        c1.metric("Kapitel", metrics["chapter"])
+        c2.metric(metrics["source_label"], metrics["source_scenes"])
+        c3.metric("DE-Szenen", metrics["de_scenes"])
+        c4.metric("Fehlend", metrics["missing"])
+        if metrics["missing_scenes"]:
             st.warning(
                 "Fehlende Szenen: "
-                + ", ".join(f"{num:02d}" for num in export_counts["missing"])
+                + ", ".join(f"{num:02d}" for num in metrics["missing_scenes"])
             )
     else:
-        rows = chapter_rows(book, style, REPO_ROOT)
-        export_missing_chapters = [
-            row["Kapitel"] for row in rows if int(row.get("Fehlt") or 0) > 0
-        ]
-        total_ru = sum(int(row.get("RU") or 0) for row in rows)
-        total_de = sum(int(row.get("DE") or 0) for row in rows)
-        total_missing = sum(int(row.get("Fehlt") or 0) for row in rows)
         c1, c2, c3, c4 = st.columns(4)
-        c1.metric("Kapitel", len(rows))
-        c2.metric(f"{source_lang_label}-Szenen", total_ru)
-        c3.metric("DE-Szenen", total_de)
-        c4.metric("Fehlend", total_missing)
-        if export_missing_chapters:
+        c1.metric("Kapitel", metrics["chapters"])
+        c2.metric(metrics["source_label"], metrics["source_scenes"])
+        c3.metric("DE-Szenen", metrics["de_scenes"])
+        c4.metric("Fehlend", metrics["missing"])
+        if export_ctx.missing_chapters:
             st.warning(
                 "Unvollstaendige Kapitel: "
-                + ", ".join(export_missing_chapters[:12])
-                + (" ..." if len(export_missing_chapters) > 12 else "")
+                + ", ".join(export_ctx.missing_chapters[:12])
+                + (" ..." if len(export_ctx.missing_chapters) > 12 else "")
             )
 
-    selected_export_chapters = [chapter] if export_scope == "chapter" and chapter else chapters
-    illustration_counts = count_export_illustrations(
-        book,
-        export_meta,
-        selected_export_chapters,
-        REPO_ROOT,
-    )
+    illustration_counts = export_ctx.illustration_counts
     ic1, ic2, ic3 = st.columns(3)
     ic1.metric("Illustrationen", illustration_counts["total"])
     ic2.metric("Kapitelbilder", illustration_counts["chapter"])
@@ -3067,17 +2636,16 @@ if section == "Export":
     if export_disabled:
         st.info("Fuer Kapitel-Export zuerst Quell-Kapitel erzeugen.")
     if st.button("Export erzeugen", disabled=export_disabled, type="primary"):
-        cmd = [
-            "tools/export_manuscript.py",
-            "--book", book_id,
-            "--style", style,
-            "--scope", export_scope,
-            "--format", export_format,
-        ]
-        if export_scope == "chapter":
-            cmd.extend(["--chapter", chapter])
-        if allow_partial_export:
-            cmd.append("--allow-partial")
+        cmd = build_export_command(
+            ExportOptions(
+                book_id=book_id,
+                style=style,
+                scope=export_scope,
+                export_format=export_format,
+                chapter=chapter,
+                allow_partial=allow_partial_export,
+            )
+        )
         with st.spinner("Export wird erzeugt..."):
             show_result(run_command(cmd))
 

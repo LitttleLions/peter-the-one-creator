@@ -1,7 +1,11 @@
-"""Small Ollama chat client for local review runs."""
+"""Small Ollama chat client for local review and translation runs."""
 
 from __future__ import annotations
 
+import shutil
+import subprocess
+import sys
+import time
 from dataclasses import dataclass
 
 import httpx
@@ -11,11 +15,52 @@ class OllamaError(RuntimeError):
     """Raised when the local Ollama API cannot return a chat response."""
 
 
+def _ollama_health(api_base: str, timeout_sec: float = 2.0) -> bool:
+    try:
+        with httpx.Client(timeout=timeout_sec) as client:
+            resp = client.get(f"{api_base.rstrip('/')}/api/tags")
+            return resp.status_code < 500
+    except Exception:
+        return False
+
+
+def _start_ollama() -> bool:
+    """Start Ollama in the background. Returns True if the binary was found and launched."""
+    ollama_exe = shutil.which("ollama")
+    if ollama_exe is None:
+        return False
+    creationflags = subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0  # type: ignore[attr-defined]
+    try:
+        subprocess.Popen(
+            [ollama_exe, "serve"],
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+            creationflags=creationflags,
+        )
+        return True
+    except Exception:
+        return False
+
+
 @dataclass
 class OllamaClient:
     model: str
     api_base: str = "http://localhost:11434"
     timeout_sec: float = 180.0
+    _auto_start_attempted: bool = False
+
+    def _ensure_ollama(self) -> None:
+        if self._auto_start_attempted:
+            return
+        self._auto_start_attempted = True
+        if _ollama_health(self.api_base):
+            return
+        if not _start_ollama():
+            return
+        for _ in range(10):
+            time.sleep(1.5)
+            if _ollama_health(self.api_base):
+                return
 
     def chat(
         self,
@@ -23,7 +68,9 @@ class OllamaClient:
         user: str,
         temperature: float = 0.1,
         max_tokens: int = 2000,
+        json_mode: bool = False,
     ) -> str:
+        self._ensure_ollama()
         url = f"{self.api_base.rstrip('/')}/api/chat"
         payload = {
             "model": self.model,
@@ -38,6 +85,8 @@ class OllamaClient:
                 "num_predict": max_tokens,
             },
         }
+        if json_mode:
+            payload["format"] = "json"
         try:
             with httpx.Client(timeout=self.timeout_sec) as client:
                 response = client.post(url, json=payload)

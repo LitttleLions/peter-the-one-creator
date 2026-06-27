@@ -30,7 +30,8 @@ def write_json(path: Path, data: dict) -> None:
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Run a dashboard background job.")
     parser.add_argument("--repo-root", required=True)
-    parser.add_argument("--job-file", required=True)
+    parser.add_argument("--job-id", required=True)
+    parser.add_argument("--jobs-dir", required=True)
     parser.add_argument("--log-path", required=True)
     parser.add_argument("--book-id", required=True)
     parser.add_argument("--style", required=True)
@@ -48,15 +49,19 @@ def parse_args() -> argparse.Namespace:
 def main() -> int:
     args = parse_args()
     repo_root = Path(args.repo_root).resolve()
-    job_file = Path(args.job_file)
+    jobs_dir = Path(args.jobs_dir)
     log_path = Path(args.log_path)
     if not log_path.is_absolute():
         log_path = repo_root / log_path
-    if not job_file.is_absolute():
-        job_file = repo_root / job_file
+    if not jobs_dir.is_absolute():
+        jobs_dir = repo_root / jobs_dir
+    log_path = log_path.resolve()
+    jobs_dir = jobs_dir.resolve()
+    job_file = jobs_dir / f"{args.job_id}.json"
 
     command = [str(part) for part in args.command]
     job = {
+        "job_id": args.job_id,
         "pid": os.getpid(),
         "child_pid": None,
         "book_id": args.book_id,
@@ -68,6 +73,7 @@ def main() -> int:
         "command": command,
         "log_path": str(log_path.relative_to(repo_root)),
         "started_at": datetime.now().isoformat(timespec="seconds"),
+        "updated_at": datetime.now().isoformat(timespec="seconds"),
     }
     write_json(job_file, job)
 
@@ -85,19 +91,52 @@ def main() -> int:
                 env=child_env,
             )
             job["child_pid"] = child.pid
+            job["updated_at"] = datetime.now().isoformat(timespec="seconds")
             write_json(job_file, job)
-            returncode = child.wait()
+            returncode = None
+            while returncode is None:
+                returncode = child.poll()
+                persisted = {}
+                try:
+                    persisted = json.loads(job_file.read_text(encoding="utf-8"))
+                except Exception:
+                    persisted = {}
+                if persisted.get("stop_requested") and returncode is None:
+                    if os.name == "nt":
+                        subprocess.run(
+                            ["taskkill", "/PID", str(child.pid), "/T", "/F"],
+                            cwd=repo_root,
+                            capture_output=True,
+                            text=True,
+                        )
+                    else:
+                        child.terminate()
+                    job["stop_requested"] = True
+                    job["stop_requested_at"] = persisted.get("stop_requested_at")
+                    returncode = child.wait()
+                    break
+                job["updated_at"] = datetime.now().isoformat(timespec="seconds")
+                write_json(job_file, job)
+                if returncode is None:
+                    import time
+                    time.sleep(1.0)
     except Exception as exc:
         job["status"] = "failed"
         job["returncode"] = 1
         job["completed_at"] = datetime.now().isoformat(timespec="seconds")
+        job["updated_at"] = job["completed_at"]
         job["error"] = str(exc)
         write_json(job_file, job)
         return 1
 
-    job["status"] = "completed" if returncode == 0 else "failed"
-    job["returncode"] = returncode
+    if job.get("stop_requested"):
+        job["status"] = "stopped"
+        job["returncode"] = returncode
+    else:
+        job["status"] = "completed" if returncode == 0 else "failed"
+        job["returncode"] = returncode
     job["completed_at"] = datetime.now().isoformat(timespec="seconds")
+    job["updated_at"] = job["completed_at"]
     write_json(job_file, job)
     return returncode
 

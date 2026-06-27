@@ -17,7 +17,7 @@ from lib.degeneration import detect_degeneration
 from lib.output_paths import (
     book_output_root,
     find_scene_translations,
-    list_ru_scene_paths,
+    list_source_scene_paths,
     parse_scene_number,
 )
 
@@ -261,7 +261,8 @@ def review_chapter_deterministic(
     style: str,
 ) -> ChapterReview:
     output_root = book_output_root(repo_root, book)
-    ru_paths = list_ru_scene_paths(output_root, chapter_id)
+    source_lang = str(book.get("source_lang") or "ru")
+    ru_paths = list_source_scene_paths(output_root, chapter_id, source_lang)
     ru_by_num = {
         num: path
         for path in ru_paths
@@ -394,6 +395,8 @@ def add_llm_findings(
                 progress(scene)
             raw = chat(system, user)
             data = extract_json_object(raw)
+            if "findings" not in data:
+                raise ValueError("KI-JSON enthaelt kein Feld 'findings'.")
             items = data.get("findings") or []
             if not isinstance(items, list):
                 raise ValueError("'findings' ist keine Liste")
@@ -440,11 +443,13 @@ def build_llm_prompt_for_paths(
     style: str,
     scene: SceneReview,
 ) -> tuple[str, str]:
-    ru_text = (repo_root / scene.ru_path).read_text(encoding="utf-8", errors="replace")
+    source_lang = str(book.get("source_lang") or "ru").upper()
+    source_text = (repo_root / scene.ru_path).read_text(encoding="utf-8", errors="replace")
     de_text = (repo_root / scene.de_path).read_text(encoding="utf-8", errors="replace")
     system = (
         "Du bist ein strenger literarischer Schlussredakteur fuer eine "
-        "russisch-deutsche Romanuebersetzung. Antworte ausschliesslich als JSON."
+        "literarische Uebersetzung ins Deutsche. Antworte ausschliesslich als "
+        "gueltiges JSON ohne Markdown, Kommentar oder Einleitung."
     )
     user = (
         "Pruefe RU-Original und DE-Uebersetzung. Melde nur konkrete, belegbare "
@@ -452,6 +457,8 @@ def build_llm_prompt_for_paths(
         "Sinnverlust, fehlende Passage, falsche Namen, stehengebliebenes "
         "Russisch oder kaputte Formatierung. Nutze WARNING fuer stilistische "
         "oder kleinere editorische Hinweise.\n\n"
+        "Wenn du keine konkreten Befunde hast, antworte exakt mit: "
+        "{\"findings\":[]}\n\n"
         "Antwort exakt als JSON:\n"
         "{\"findings\":[{\"severity\":\"ERROR|WARNING|INFO\","
         "\"category\":\"meaning|omission|addition|names|register|grammar|formatting\","
@@ -461,8 +468,8 @@ def build_llm_prompt_for_paths(
         f"Buch: {book.get('title')} / {book.get('author')}\n"
         f"Style: {style}\n"
         f"Kapitel: {scene.chapter}, Szene: {scene.scene:02d}\n\n"
-        "Original RU:\n"
-        f"{ru_text}\n\n"
+        f"Original {source_lang}:\n"
+        f"{source_text}\n\n"
         "Uebersetzung DE:\n"
         f"{de_text}\n"
     )
@@ -542,6 +549,10 @@ def write_reports(
         findings = chapter_findings(review)
         json_path = chapters_dir / f"{review.chapter}-review.json"
         md_path = chapters_dir / f"{review.chapter}-review.md"
+        if not findings:
+            json_path.unlink(missing_ok=True)
+            md_path.unlink(missing_ok=True)
+            continue
         json_path.write_text(
             json.dumps(review_to_dict(review), ensure_ascii=False, indent=2),
             encoding="utf-8",

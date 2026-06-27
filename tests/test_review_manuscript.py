@@ -174,6 +174,42 @@ class ReviewManuscriptTests(unittest.TestCase):
         self.assertEqual(findings[0].category, "llm_review_failed")
         self.assertEqual(findings[0].severity, "WARNING")
 
+    def test_llm_json_without_findings_is_warning(self) -> None:
+        review = ChapterReview(
+            chapter="001",
+            style="stil-test",
+            ru_scenes=1,
+            de_scenes=1,
+            scenes=[
+                SceneReview(
+                    chapter="001",
+                    scene=1,
+                    ru_path="books/sample/work/scenes/ru/001/scene-01.md",
+                    de_path="books/sample/work/scenes/de/stil-test/001/scene-01.md",
+                    ru_words=100,
+                    de_words=100,
+                    findings=[],
+                )
+            ],
+        )
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            write_scene(root, "ru", None, "001", 1, "## 1\n\n" + ("Русский текст. " * 80))
+            write_scene(root, "de", "stil-test", "001", 1, "## Szene 1\n\n" + ("Deutscher Text. " * 80))
+
+            add_llm_findings(
+                root,
+                self.book(),
+                "stil-test",
+                review,
+                chat=lambda _system, _user: '{"anderes_feld":[]}',
+                scope="all",
+            )
+
+        findings = chapter_findings(review)
+        self.assertEqual(findings[0].category, "llm_review_failed")
+        self.assertIn("findings", findings[0].message)
+
 
 if __name__ == "__main__":
     unittest.main()

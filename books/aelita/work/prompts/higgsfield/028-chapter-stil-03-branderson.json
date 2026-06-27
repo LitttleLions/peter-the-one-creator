@@ -1,0 +1,62 @@
+{
+  "book": "aelita",
+  "chapter": "028",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-03-branderson",
+  "model": "text2image_soul_v2",
+  "moodboard": "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\chapters\\028-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\prompts\\higgsfield\\028-chapter-stil-03-branderson.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\assets\\chapter\\chapter-028.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. two soviet people and an marsian princess - the marsians are lookling like people but with a very vogelähnlichen gesicht Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. Обожгло рот. Жидкий огонь пошел по телу, по жилам, по костям. Лось раскрыл глаза. Пыльная звездочка горела над ним совсем низко. Небо было странное, — желтое, стеганое, как сундук. Что-то стучало, стучало мерными ударами, дрожала пыльная звездочка. Лось опять закрыл глаза, силясь проникнуть в пустоту памяти, но в памяти ничего не раскрылось, и он снова погрузился в непроглядный сон. Гусев укрыл его потеплее и вернулся к наблюдательным трубкам. Марс казался теперь меньше чайного блюдечка. Лунными пятнами выделялись па нем днища высохших морей, мертвые пустыни. Диск Тумы, засыпаемой песками, все уменьшался, все дальше улетал от него аппарат куда-то в кромешную тьму. Изредка кололо глаз лучиком звезды. Но сколько Гусев ни всматривался, — нигде не было видно красной звезды. Гусев зевнул, щелкнул зубами, — такая одолевала его скука от пустого пространства вселенной. Осмотрел запасы воды, пищи, кислорода, завернулся в одеяло и лег на дрожащий пол рядом с Лосем. Прошло неопределенно много времени. Гусев проснулся от голода. Лось лежал с открытыми глазами, — лицо у него было в морщинах, старое, щеки ввалились. Он спросил тихо: Лось закрыл глаза и немного погодя спросил дрогнувшим голосом:",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260627_103105_f97d09c8-fe14-4c74-80d7-9d121b812678.png",
+  "job_result": [
+    {
+      "id": "f97d09c8-fe14-4c74-80d7-9d121b812678",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260627_103105_f97d09c8-fe14-4c74-80d7-9d121b812678.png",
+      "created_at": 1782556265.355258,
+      "params": {
+        "prompt": "Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. two soviet people and an marsian princess - the marsians are lookling like people but with a very vogelähnlichen gesicht Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. Обожгло рот. Жидкий огонь пошел по телу, по жилам, по костям. Лось раскрыл глаза. Пыльная звездочка горела над ним совсем низко. Небо было странное, — желтое, стеганое, как сундук. Что-то стучало, стучало мерными ударами, дрожала пыльная звездочка. Лось опять закрыл глаза, силясь проникнуть в пустоту памяти, но в памяти ничего не раскрылось, и он снова погрузился в непроглядный сон. Гусев укрыл его потеплее и вернулся к наблюдательным трубкам. Марс казался теперь меньше чайного блюдечка. Лунными пятнами выделялись па нем днища высохших морей, мертвые пустыни. Диск Тумы, засыпаемой песками, все уменьшался, все дальше улетал от него аппарат куда-то в кромешную тьму. Изредка кололо глаз лучиком звезды. Но сколько Гусев ни всматривался, — нигде не было видно красной звезды. Гусев зевнул, щелкнул зубами, — такая одолевала его скука от пустого пространства вселенной. Осмотрел запасы воды, пищи, кислорода, завернулся в одеяло и лег на дрожащий пол рядом с Лосем. Прошло неопределенно много времени. Гусев проснулся от голода. Лось лежал с открытыми глазами, — лицо у него было в морщинах, старое, щеки ввалились. Он спросил тихо: Лось закрыл глаза и немного погодя спросил дрогнувшим голосом:",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 606359,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": null
+        },
+        "style_strength": null
+      }
+    }
+  ]
+}

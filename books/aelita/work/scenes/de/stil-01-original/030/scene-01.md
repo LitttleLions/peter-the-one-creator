@@ -1,0 +1,87 @@
+## Szene 1
+
+Schneewolken flogen die Schdanowskaja-Uferpromenade entlang, krochen als Schneegestöber über die Bürgersteige, wahnsinnige Flocken wirbelten um die schwankenden Laternen. Eingänge und Fenster wurden zugeschneit, jenseits des Flusses tobte der Schneesturm in einem heulenden Park.
+
+Die Uferpromenade entlang ging Los, den Kragen hochgeschlagen und gegen den Wind gebeugt. Der warme Schal wehte hinter seinem Rücken, die Füße rutschten, der Schnee peitschte ihm ins Gesicht. Zur gewohnten Stunde kehrte er von der Fabrik nach Hause zurück, in seine einsame Wohnung. Die Anwohner der Uferpromenade hatten sich an seinen breitkrempigen Hut gewöhnt, an den Schal, der den unteren Teil seines Gesichts verdeckte, an seine gebeugten Schultern, und selbst wenn er sich verneigte und der Wind sein weißes Haar aufwirbelte, – niemanden wunderte mehr der seltsame Blick seiner Augen, die einst das gesehen hatten, was noch niemand gesehen hatte.
+
+In anderen Zeiten hätte sich irgendein junger Dichter zweifellos von seiner lächerlichen Gestalt mit dem wehenden Schal inspirieren lassen, die durch die Schneewolken irrte. Aber die Zeiten waren jetzt andere: Dichter begeisterten sich nicht für Schneestürme, nicht für Sterne, nicht für überwolkige Länder, – sondern für das Hämmern der Hämmer im ganzen Land, das Zischen der Sägen, das Rascheln der Sicheln, das Pfeifen der Sensen, – die fröhlichen irdischen Lieder.
+
+Ein halbes Jahr war vergangen seit dem Tag von Los' Rückkehr zur Erde. Die Neugier, die die ganze Welt erfasst hatte, als das erste Telegramm über die Ankunft zweier Menschen vom Mars erschien, hatte sich gelegt. Los und Gussew hatten die vorgeschriebene Anzahl von Gängen bei hundertfünfzig Banketten, Abendessen und wissenschaftlichen Versammlungen gegessen. Gussew hatte Mascha aus Petrograd kommen lassen, sie wie eine Puppe herausgeputzt, mehrere hundert Interviews gegeben, sich ein Motorrad zugelegt, begann eine runde Brille zu tragen, reiste ein halbes Jahr durch Amerika und Europa, erzählte von Kämpfen mit Marsianern, von Spinnen und Kometen, davon, wie sie mit Los beinahe zum Großen Bären geflogen wären – und gründete nach seiner Rückkehr nach Sowjetrussland die »Gesellschaft zur Verlegung eines Kampftrupps auf den Planeten Mars zwecks Rettung der Reste seiner werktätigen Bevölkerung«.
+
+Los baute in Petrograd in einer der mechanischen Fabriken einen universellen Motor marsianischen Typs.
+
+Um sechs Uhr abends kehrte er gewöhnlich nach Hause zurück. Er aß allein zu Abend. Vor dem Schlafengehen schlug er ein Buch auf, – wie kindisches Lallen kamen ihm die Verse des Dichters vor, wie kindliches Geschwätz die Erdichtungen des Romanciers. Nachdem er das Licht gelöscht hatte, lag er lange da, starrte ins Dunkel, – einsame Gedanken zogen, zogen dahin.
+
+Zur gewohnten Stunde ging Los heute die Uferpromenade entlang. Schneewolken wirbelten in die Höhe, in den tobenden Schneesturm. Die Gesimse, die Dächer staubten. Die Laternen schwankten. Der Atem stockte.
+
+Los blieb stehen und hob den Kopf. Der Wind riss die Schneesturmwolken auseinander. Im bodenlos schwarzen Himmel schimmerte ein Stern. Los starrte ihn mit wahnsinnigem Blick an, – sein Strahl drang ins Herz … »Tuma, Tuma, Stern der Trauer …« Die fliegenden Wolkenränder verhängten wieder den Abgrund, verbargen den Stern. In diesem kurzen Augenblick zog mit entsetzlicher Klarheit eine Vision durch Los' Erinnerung, die ihm bis dahin immer entgangen war…
+
+Im Schlaf hörte er ein Geräusch – wie das ärgerliche Summen von Bienen. Scharfe Schläge ertönten – Klopfen. Die schlafende Aëlita zuckte zusammen, seufzte, erwachte und bebte; er sah sie nicht in der Dunkelheit der kleinen Höhle, spürte nur, wie ihr Herz schlug. Das Klopfen an der Tür wiederholte sich. Draußen ertönte Tuskubs Stimme: »Nehmt sie.« Los packte Aëlita an den Schultern. Sie sagte kaum hörbar:
+
+– Mein Gemahl, Sohn des Himmels, lebe wohl.
+
+Ihre Finger glitten schnell über sein Gesicht. Da tastete Los nach ihrer Hand und nahm ihr das Fläschchen mit dem Gift weg. Sie flüsterte ihm schnell, schnell – in einem Atemzug – ins Ohr:
+
+– Auf mir liegt ein Verbot, ich bin der Königin Magr geweiht … Nach uralter Sitte, nach dem furchtbaren Gesetz Magrs, – eine Jungfrau, die das Weiheverbot übertritt, wird in das Labyrinth geworfen, in den Brunnen. Du hast ihn gesehen … Aber ich konnte der Liebe des Sohnes des Himmels nicht widerstehen. Ich bin glücklich. Ich danke dir für das Leben. Du hast mich zurückgebracht in die Jahrtausende des Chao. Ich danke dir, mein Gemahl …
+
+Aëlita küsste ihn, und er roch den bitteren Geruch des Giftes auf ihren Lippen. Da trank er den Rest der dunklen Flüssigkeit – es war noch viel in dem Fläschchen. Aëlita hatte ihn kaum berührt. Die Schläge an der Tür zwangen Los aufzustehen, aber das Bewusstsein schwand, Arme und Beine gehorchten nicht. Er kehrte zum Bett zurück, fiel auf Aëlitas Körper, umfasste sie. Er rührte sich nicht, als die Marsianer in die Höhle traten. Sie rissen ihn von seiner Frau los, bedeckten sie und trugen sie fort. Mit letzter Kraft riss er sich nach dem Saum ihres schwarzen Mantels, aber Gewehrblitze, stumpfe Schläge gegen die Brust schleuderten ihn zurück, zur goldenen Tür der Höhle …
+
+Den Wind überwindend, rannte Los die Uferpromenade entlang. Und blieb wieder stehen, wirbelte in den Schneewolken und schrie, genau wie damals – in der Finsternis des Alls:
+
+– Lebendig, lebendig … Aëlita, Aëlita …
+
+Der Wind griff mit wildem Stoß diesen zum ersten Mal auf der Erde ausgesprochenen Namen auf, verwehte ihn zwischen den fliegenden Schneemassen. Los steckte das Kinn in den Schal, steckte die Hand tief in die Tasche, trottete schwankend zum Haus.
+
+Am Eingang stand ein Automobil. Weiße Fliegen wirbelten in den rauchigen Säulen seiner Scheinwerfer. Ein Mann in einem zottigen Pelz tanzte mit frostigen Sohlen auf dem Bürgersteig.
+
+– Ich bin Ihretwegen da, Mstislaw Sergejewitsch, – rief er vergnügt, – steigen Sie ins Auto, wir fahren.
+
+Es war Gussew. Er erklärte hastig: Heute, um sieben Uhr abends, erwarte die Funkstation – wie schon die ganze Woche – das Eintreffen unbekannter Signale außerordentlicher Stärke. Ihre Chiffre sei unverständlich. Eine ganze Woche lang seien die Zeitungen aller Länder der Erde mit Vermutungen über diese Signale beschäftigt, – es gebe die Annahme, dass sie vom Mars kämen. Der Leiter der Funkstation lade Los ein, heute Abend die geheimnisvollen Wellen zu empfangen.
+
+Los sprang schweigend in das Automobil. Wild tanzten die weißen Flocken in den Lichtkegeln. Der Schneesturmwind riss am Gesicht. Über der Schneewüste der Newa glühte die lila Lohe der Stadt, das Leuchten der Laternen entlang der Uferpromenaden, – Lichter, Lichter … In der Ferne heulte die Sirene eines Eisbrechers, der irgendwo das Eis brach.
+
+Am Ende der Straße der Roten Zoren, auf einer Schneewiese, unter pfeifenden Bäumen, vor einem Häuschen mit rundem Dach, hielt das Automobil. Öde heulten die gitterartigen Türme und die Drahtnetze, die in den Schneewolken versunken waren. Los riss die verschneite Tür auf, trat in das warme Häuschen, warf Schal und Hut ab. Ein rotwangiger, dicklicher Mann erklärte ihm etwas, hielt seine vor Kälte gerötete Hand in warmen, weichen Handflächen. Der Zeiger der Uhr näherte sich sieben.
+
+Los setzte sich an den Empfangsapparat, setzte die Kopfhörer auf. Der Zeiger der Uhr kroch. O Zeit, hastige Herzschläge, eisiger Raum des Alls!..
+
+Ein langsames Flüstern erklang in seinen Ohren. Los schloss sofort die Augen. Wiederholte sich das entfernte, beunruhigende, langsame Flüstern. Ein seltsames Wort wiederholte sich. Los spannte sein Gehör an. Wie ein leiser Blitz durchdrang eine ferne Stimme sein Herz, die traurig in einer nichtirdischen Sprache wiederholte:
+
+– Wo bist du, wo bist du, wo bist du, Sohn des Himmels?
+
+Die Stimme verstummte. Los starrte vor sich hin mit weißen, geweiteten Augen … Die Stimme Aëlitas, der Liebe, der Ewigkeit, die Stimme der Sehnsucht, fliegt durch das ganze All, ruft, mahnt, schreit, – wo bist du, wo bist du, Liebe …
+
+## Kommentare
+
+Erstmals mit dem Untertitel »Der Untergang des Mars« gedruckt in der Zeitschrift »Krasnaja now«, 1922, Nr. 6, 1923, Nr. 2. Erste Einzelausgabe: »Aëlita (Der Untergang des Mars)«, Roman, GIZ, M.-Petrograd, 1923. Der Roman erschien mehrfach als Einzelausgabe und wurde in Gesammelte Werke aufgenommen.
+
+»Aëlita« ist ein wissenschaftlich-phantastischer Roman, in dem das Thema des interplanetaren Flugs in Verbindung mit sozial-politischen Problemen dargestellt wird. Indem er das Leben auf dem Mars und die marsianische Gesellschaft zeichnet, den stürmischen Aufstand der unterdrückten Bewohner des Planeten, die Schwankungen des Volksführers Gor zeigt, polemisierte der Schriftsteller verdeckt gegen die sozialen Theorien Herbert Wells', gegen die pessimistische Predigt vom »Untergang des Abendlandes« Oswald Spenglers und einige andere bürgerliche philosophische Theorien. Indem er den marsianischen Diktator Tuskub zeigt, der eine »Zivilisation nur für Auserwählte« verteidigt, deckt A. Tolstoi den anti-volkstümlichen Charakter seiner Ansichten auf, die gemeinsame Züge mit der Ideologie des Faschismus aufweisen.
+
+Bei der Charakterisierung der fernen historischen Epoche, der legendären Ereignisse des Kampfes der Urstämme der Erde und des Mars (siehe Kapitel »Erster Bericht Aëlitas«) verwendete der Schriftsteller Überlieferungen, die aus der Antike auf uns gekommen sind, über eine angeblich in grauer Vorzeit existierende riesige Insel im Ozean – Atlantis, bewohnt von kultivierten und mächtigen Völkern. Atlantis soll infolge eines furchtbaren Erdbebens verschwunden sein, in den Wassern des Ozeans versunken.
+
+Die wissenschaftlich-technische Seite der Fabel im Roman basiert auf der Theorie der interplanetaren Raketenverbindungen, die der berühmte russische Wissenschaftler K. E. Ziolkowski in seiner Arbeit »Erforschung der Welträume mit Reaktionsapparaten« (1903) entwickelt hat.
+
+Der ursprüngliche Text der »Aëlita« (1922–1923) wurde einer wesentlichen Überarbeitung unterzogen. Der Autor nahm in den folgenden Ausgaben nicht nur viele Korrekturen und Kürzungen stilistischer Art vor; im Text wurden Veränderungen und Kürzungen vorgenommen, die auch den Inhalt des Werkes selbst betrafen.
+
+So wurden aus Aëlitas Bericht an Los über die ferne Vergangenheit des Mars jene Stellen entfernt, in denen die Tendenz hervortrat, einzelne historische Ereignisse im Rahmen eines Kampfes gewisser abstrakter Kräfte des Guten und Bösen zu deuten. In den folgenden Ausgaben wurden diese geheimnisvollen Kräfte vom Autor klargestellt: im einen Fall als Kräfte des vernünftigen Wissens, im anderen als die Trägheit der Unwissenheit und der Vorurteile.
+
+Im Kapitel »Erster Bericht Aëlitas« befanden sich ursprünglich in der Charakterisierung der Magazitlen, eines wilden und mächtigen Stammes, der von der Erde auf den Mars übergesiedelt war, folgende Stellen: »Sie kannten die Höchste Weisheit, aber sie gebrauchten sie zum Bösen, weil sie böse waren«, »Sie riefen die Elemente der Natur zu Hilfe. Ein Sturm begann, Berge und Ebenen erzitterten, der Südsee trat über die Ufer. Blitze fielen vom Himmel. Bäume und Steine wirbelten durch die Luft, und lauter als der Donner erklangen die Stimmen der Magazitlen, die Beschwörungen lasen. Die Aolen gingen zugrunde wie Gras im Schneesturm. Die Ankömmlinge erschlugen sie mit Schwertern und stifteten Verwirrung: Die Heere der Aolen kämpften gegeneinander, indem sie einander für Feinde hielten« (»Aëlita (Der Untergang des Mars)«, GIZ, 1923, S. 126); »Viele sahen damals ein Gespenst: Bei Sonnenuntergang erhob sich jenseits des Randes von Tuma der Schatten eines Menschen, – seine Beine waren gespreizt, die Arme ausgebreitet, die Haare auf dem Kopf wie eine Flamme« (S. 127). »Die Aolen hatten keine Furcht, denn ihre Seelen waren sanft geworden, ihre Blicke stark und ihre Herzen mutig. In den Bergen hatten sie eine Seligkeit erkannt, so hoch, dass es nun kein Übel mehr gab, das sie hätte trüben können« (S. 129).
+
+Bei der Überarbeitung des Erstdrucks des Romans beseitigte A. Tolstoi einige Züge in der Charakterisierung von Los. Im Ergebnis wurden in Los die Stimmungen des Pessimismus, der düsteren Einsamkeit, die Erscheinungen neurasthenischer Gebrochenheit erheblich abgeschwächt.
+
+Im Kapitel »Auf der Treppe« stand ursprünglich nach Los' Worten »…das Leben ist für mich furchtbar geworden«: »Ich blieb allein, mit mir selbst. Es war keine Kraft da, die Verzweiflung zu überwinden, keine Lust zu leben. Man braucht viel Mut, um zu leben, so ist auf der Erde alles mit Hass vergiftet« (S. 118).
+
+Im Kapitel »Schlaflose Nacht« stand zwischen den Worten »Los stand lange im Tor« und »Gegen Morgen legte Los…«: »…an den Torpfosten gelehnt mit Schulter und Kopf. In blutigem, bald blauem, bald diamantenem Licht schimmerte der Mars – hoch über dem schlafenden Petersburg, über den durchlöcherten Dächern, über den kalten Schornsteinen, über den verrußten Decken der Zimmer und Zimmerchen, der verlassenen Säle, der leeren Paläste, über den unruhigen Kopfkissen der müden Menschen. ›Nein, dort wird es leichter sein‹, dachte Los, ›den Schatten entfliehen, mich durch Millionen Werst abgrenzen. Ebenso, nachts, auf den Stern blicken und wissen: Das ist die von mir verlassene Erde, die zwischen den Sternen treibt. Verlassen sind der Hügel und die Milane. Verlassen ist ihr Grab, das Kreuz über dem Grab, verlassen sind die dunklen Nächte, der Wind, der vom Tod singt, nur vom Tod. Herbstwind über Katja, die in der Erde liegt, unter dem Kreuz. Nein, man kann nicht leben unter Schatten. Mag dort die grausame Einsamkeit sein, – aus dieser Welt fortgehen, allein sein …‹ Aber die Schatten wichen die ganze Nacht nicht von ihm« (S. 31).
+
+Ähnliche Kürzungen wurden im Kapitel »Abflug« vorgenommen: in Los' Worten an Skyles (die gestrichenen Stellen sind kursiv hervorgehoben).
+
+»Ich denke, daß ich glücklich auf dem Mars landen werde – von dort aus werde ich versuchen zu telegraphieren. Ich bin überzeugt – es werden nur wenige Jahre vergehen, und Hunderte von Luftschiffen werden den Sternenraum durchpflügen. Ewig, ewig treibt uns der Geist des Suchens und der Unruhe voran. Und mich treibt die Unruhe, vielleicht die Verzweiflung. Aber, ich versichere Sie – in diesem Augenblick des Sieges fühle ich erst recht meine Armseligkeit. Nicht ich als erster müßte fliegen, das ist frevelhaft. Nicht ich als erster sollte in das himmlische Geheimnis eindringen. Was werde ich dort finden? – das Entsetzen vor mir selbst. Mein Verstand glimmt als rußendes Flämmchen über dem finstersten aller Abgründe, wo der Leichnam der Liebe ausgestreckt liegt. Die Erde ist vergiftet von Haß, mit Blut überströmt. Es wird nicht lange dauern, bis selbst der Verstand wankt – die einzige Kette an diesem Ungeheuer. Also schreiben Sie das nur in Ihr Büchlein, Archibald Skyles: Ich bin kein genialer Erbauer, kein neuer Konquistador, kein Draufgänger und kein Träumer – ich bin ein Feigling, ein Flüchtling. Mich treibt die hoffnungslose Verzweiflung. (S. 42–43).
+
+Mitunter ging eine solche Überarbeitung mit der Tilgung, der Streichung gewisser Ausdrücke und Begriffe einher, die von der idealistischen Philosophie herrührten (wie etwa »Herz des großen Geistes, ausgebreitet durch die Jahrtausende« – S. 78 u. ä.).
+
+Schließlich verdienen noch die folgenden Abänderungen an der Charakterisierung des Los vermerkt zu werden. Wenn in der ersten Auflage des Romans bei Los als grundlegendes Ziel des Handelns, als wichtigster Lebensantrieb die Hinwendung zum Liebesglück (als einem alles verschlingenden Gefühl) betont wurde, so trat dieser Zug im überarbeiteten Text weniger hervor, war verwischt. Im Erstdruck der »Aëlita« vergaß der Schriftsteller nicht eigens zu vermerken, als er Los im entscheidenden Augenblick des Aufstands schilderte, als dieser sich gezwungen sah, in die Ereignisse einzugreifen, daß seinen Helden der Traum von der Liebe bewege: »In den Ohren klang es: zu dir, zu dir, durch Feuer und Kampf, an den Sternen vorbei, am Tod vorbei, zu dir, Liebe!« (S. 209). Bezeichnenderweise wurde dieser Satz in der späteren Redaktion von A. Tolstoi bereits getilgt.
+
+Im Zuge der Textarbeit erfuhr auch die Gestalt des Rotarmisten Gussew einige Änderungen, in dessen Charakterisierung ursprünglich, neben den bekannten positiven Eigenschaften, auch solche negativen Züge vorhanden waren wie die Neigung zu blankem Geschäftemachern, zu »kommerzieller« Wendigkeit, zum Hamstern und dergleichen. Diese Züge, die offenkundig die Ganzheit der Gestalt, ihre Lebenswahrheit und Vollständigkeit störten, konnte der Schriftsteller bei der Feinarbeit und Durchgestaltung seines Romans, die auf einer anderen, späteren Stufe seiner schöpferischen Entwicklung stattfand, natürlicherweise nicht unberührt lassen.
+
+Das Redigieren des Textes der »Aëlita« durch A. Tolstoi zeigte sich auch in einer beträchtlichen Überarbeitung einer Reihe von Alltagsszenen und -bildern, aus denen der Autor naturalistische Elemente entfernte. So zum Beispiel verwarf A. Tolstoi in der Szene, die den Abflug des Los’schen Apparates aus Petrograd darstellt, eine Reihe von grob erniedrigenden, naturalistischen Zügen in der Schilderung des gaffenden Pöbels, der sich auf dem unbebauten Gelände versammelt hatte.
+
+Nach A. Tolstois Roman »Aëlita« wurde das Drehbuch des gleichnamigen Spielfilms geschrieben, der 1924 von Regisseur J. A. Protasanow inszeniert wurde.

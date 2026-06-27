@@ -1,0 +1,65 @@
+{
+  "book": "aelita",
+  "chapter": "008",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\chapters\\008-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\prompts\\higgsfield\\008-chapter-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\assets\\chapter\\chapter-008.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "*Buch: Aëlita* <!-- status: pending --> Темно-синее, как море в грозу, ослепительное, бездонное небо увидели Гусев и Лось, вылезая из аппарата. Пылающее, косматое солнце стояло высоко над Марсом. Потоки хрустального синего света были прохладны, прозрачны — от резкой черты горизонта до зенита… Аппарат лежал на оранжево-апельсиновой плоской равнине. Горизонт совсем близок, подать рукой. Почва вся в больших трещинах. Повсюду на равнине стояли высокие кактусы, точно семисвечники, — бросали резкие лиловые тени. Подувал сухой ветерок. Лось и Гусев долго озирались, потом пошли по равнине. Идти было необычайно легко, хотя ноги и вязли по щиколотку в рассыпающейся почве. Огибая жирный высокий кактус, Лось протянул к нему руку. Растение, едва его коснулись, затрепетало, как под ветром, и бурые его, мясистые отростки потянулись к руке. Гусев пхнул сапогом ему под корень, — ах, погань! — кактус повалился, вонзая в песок колючки. Post-revolutionary Petrograd 1920s and ancient Mars civilisation. Red deserts, canals, vertical cities, winged airships. Atmospheric depth.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--custom_reference_id",
+    "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260623_182227_7a2afbbe-5791-4820-8a4d-e8a636ad20c4.png",
+  "job_result": [
+    {
+      "id": "7a2afbbe-5791-4820-8a4d-e8a636ad20c4",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260623_182227_7a2afbbe-5791-4820-8a4d-e8a636ad20c4.png",
+      "created_at": 1782238947.657068,
+      "params": {
+        "prompt": "*Buch: Aëlita* <!-- status: pending --> Темно-синее, как море в грозу, ослепительное, бездонное небо увидели Гусев и Лось, вылезая из аппарата. Пылающее, косматое солнце стояло высоко над Марсом. Потоки хрустального синего света были прохладны, прозрачны — от резкой черты горизонта до зенита… Аппарат лежал на оранжево-апельсиновой плоской равнине. Горизонт совсем близок, подать рукой. Почва вся в больших трещинах. Повсюду на равнине стояли высокие кактусы, точно семисвечники, — бросали резкие лиловые тени. Подувал сухой ветерок. Лось и Гусев долго озирались, потом пошли по равнине. Идти было необычайно легко, хотя ноги и вязли по щиколотку в рассыпающейся почве. Огибая жирный высокий кактус, Лось протянул к нему руку. Растение, едва его коснулись, затрепетало, как под ветром, и бурые его, мясистые отростки потянулись к руке. Гусев пхнул сапогом ему под корень, — ах, погань! — кактус повалился, вонзая в песок колючки. Post-revolutionary Petrograd 1920s and ancient Mars civilisation. Red deserts, canals, vertical cities, winged airships. Atmospheric depth.",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 433615,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba"
+      }
+    }
+  ]
+}

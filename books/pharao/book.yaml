@@ -22,15 +22,15 @@ structure:
   label: Kapitel als Szenen
   groups:
   - id: tom-1
-    label: Tom I
+    label: Buch I
     from: '001'
     to: '025'
   - id: tom-2
-    label: Tom II
+    label: Buch II
     from: '026'
     to: '049'
   - id: tom-3
-    label: Tom III
+    label: Buch III
     from: '050'
     to: '067'
 display:

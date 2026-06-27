@@ -21,11 +21,17 @@ higgsfield:
   quality: 2k
   moodboard:
     name: Buch Peter der Erste
-    custom_reference_id: 8b79a5c6-5539-4257-9b42-537d82259bc4
+    style_id: 8b79a5c6-5539-4257-9b42-537d82259bc4
 ```
 
 `tools/generate_illustration.py` liest diese Werte automatisch. CLI-Argumente
 ueberschreiben die Buch-Defaults, z. B. `--moodboard <uuid>`.
+
+Wichtig: Korrekte Moodboard-/Style-Laeufe stehen in der Higgsfield-History als
+`params.style_id`. `params.custom_reference_id` ist ein anderer Kanal
+(Character/Soul-Referenz) und darf fuer Moodboards nicht verwendet werden.
+Die lokale CLI fuer `text2image_soul_v2` bietet aktuell aber keinen
+`--style_id`-Parameter.
 
 Aktuell erkannte Moodboards:
 
@@ -79,10 +85,18 @@ Modellschema fuer Soul 2.0 pruefen:
 higgsfield model get text2image_soul_v2 --json
 ```
 
-Stand 2026-06-16 akzeptiert Soul 2.0 diese relevanten Parameter:
-`prompt`, `aspect_ratio`, `quality`, `custom_reference_id`, `medias`.
-Das Tool nutzt deshalb fuer erkannte Moodboard-/Style-UUIDs
-`--custom_reference_id <uuid>`.
+Projektinterne Diagnose ohne Bildgenerierung:
+
+```powershell
+python tools\generate_illustration.py --book pharao --diagnose-higgsfield
+```
+
+Stand 2026-06-24 akzeptiert Soul 2.0 in der CLI die relevanten Parameter
+`prompt`, `aspect_ratio`, `quality`, `custom_reference_id`, `medias`, aber
+keinen echten Moodboard-/Style-Parameter wie `style_id`. Ein Live-Test mit
+`--style_id` wurde von der CLI als `Unknown params: style_id` abgelehnt.
+Ein Lauf mit `--custom_reference_id <uuid>` liefert zwar ein Bild, setzt aber
+`style.name: General` und behandelt die UUID als Character/Soul-Referenz.
 
 ## Moodboard-UUIDs Finden
 
@@ -124,11 +138,7 @@ Deshalb:
 
 Der Prompt besteht aus genau zwei Teilen (in dieser Reihenfolge):
 
-1. **Szenen-Auszug** (automatisch aus der Quell-Szene): Die ersten 1–3
-   zusammenhaengenden Absaetze, max. 1000 Zeichen. Mottos, Zitate und
-   Ueberschriften werden herausgefiltert, da sie Higgsfield verleiten,
-   Text im Bild zu rendern.
-2. **`illustration_setting`** (aus `book.yaml`): Eine vom Nutzer
+1. **`illustration_setting`** (aus `book.yaml`): Eine vom Nutzer
    editierbare positive Beschreibung von Epoche, Ort, Kleidung,
    Architektur und Atmosphaere. Beispiel:
 
@@ -141,9 +151,17 @@ Der Prompt besteht aus genau zwei Teilen (in dieser Reihenfolge):
    Der YAML-Block-Scalar (`|`) erlaubt mehrzeilige Eingabe; Zeilenumbrueche
    werden automatisch zu Spaces komprimiert (Higgsfield-CLI verarbeitet
    nur Single-Line-Prompts).
+2. **Szenen-/Kapitel-Auszug** (automatisch aus der Arbeitsdatei): Die ersten
+   zusammenhaengenden Absaetze, aktuell max. 6 Absaetze bzw. 2000 Zeichen.
+   Mottos, Zitate, Ueberschriften und Tracking-Header wie
+   `*Buch: Aëlita* <!-- status: pending -->` werden herausgefiltert, da sie
+   Higgsfield verleiten koennen, Text oder Metadaten im Bild zu rendern.
 
-Die Reihenfolge ist **Excerpt zuerst, Setting hinten** – das hat sich in
-Tests als wirksamer erwiesen als die umgekehrte Reihenfolge.
+Die Reihenfolge ist **Setting zuerst, Auszug danach**. Der Grund ist
+praktisch: Die buchweite Bildsprache aus `book.yaml` setzt den visuellen
+Rahmen, bevor der konkrete Szeneninhalt folgt. Die Stil-/Setting-Ergaenzung
+kommt ausschliesslich aus `book.yaml` unter `illustration_setting`; sie wird
+nicht im Code gepflegt.
 
 ### Prompt-Ausgabe
 
@@ -159,11 +177,46 @@ Generierte Prompts werden als `.md`-Dateien gespeichert:
 Daneben liegt eine `.json`-Metadatendatei mit Kommando, Modell, Moodboard
 und Job-Ergebnis.
 
-Hinweis: Beim ersten Peter-Test wurde `--custom_reference_id
-8b79a5c6-5539-4257-9b42-537d82259bc4` an die CLI uebergeben. Die Higgsfield-
-Antwort meldete trotzdem `style_name: General`. Das kann ein Anzeigeproblem
-oder eine CLI-Einschraenkung sein; vor grossen Serienlaeufen einen visuellen
-Vergleich oder einen erneuten Schema-/History-Check machen.
+### Bekannte Einschraenkung: Moodboard via CLI (Stand 2026-06-24)
+
+Die aktuelle Higgsfield-CLI exponiert fuer `text2image_soul_v2` kein
+`style_id`. Der verfuegbare Parameter `--custom_reference_id` ist nicht
+gleichwertig: Er erzeugt Jobs mit `style.name: General` und
+`params.custom_reference_id`, waehrend korrekte Moodboard-Laeufe
+`params.style_id` und den Moodboard-Namen setzen.
+
+**`tools/generate_illustration.py` verhaelt sich seit dem 24.06.2026 wie folgt:**
+
+- Erkennt das Tool im CLI-Modellschema nur `custom_reference_id` (ohne
+  echten Stil-Parameter), wird die automatische CLI-Generierung mit Moodboard
+  abgebrochen.
+- Die Diagnose meldet diesen Zustand als `only_custom_reference_id`.
+- Prompt und Metadaten werden vor dem Abbruch geschrieben.
+
+**Warum war das unklar?** Fruehere CLI-Laeufe lieferten Bilder, weil
+`--custom_reference_id` technisch akzeptiert wurde. Die History zeigt aber den
+Unterschied: falsche Laeufe haben `style_id = General` plus
+`custom_reference_id`; korrekte Web-UI-Laeufe haben `style_id = <Moodboard-UUID>`
+und kein `custom_reference_id`.
+
+Konkreter Aëlita-Befund vom 24.06.2026:
+
+| Job | Ergebnis |
+| --- | --- |
+| `9ccfe23c-711e-4021-b589-08aa6e246391` | falscher CLI-Lauf: `style.name = General`, `custom_reference_id = 6fdd3fde-...` |
+| `5c245b6d-b117-418c-8c26-ccc128be3edf` | korrekter Web-UI-Lauf: `style.name = Aelite`, `style_id = 6fdd3fde-...`, kein `custom_reference_id` |
+
+**Aktuelle Workarounds:**
+
+1. **Higgsfield Web-UI**: Moodboards funktionieren dort (Style wird korrekt
+   gesetzt). Bilder manuell generieren und in `books/<id>/assets/` ablegen.
+2. **REST-Pfad pruefen/implementieren**: Ziel ist ein Request, der
+   `style_id` statt `custom_reference_id` setzt.
+3. **`--no-reference`**: Generierung ohne Referenz (reiner Prompt).
+4. **`--image <referenzbild-uuid>`**: Konkretes Referenzbild statt Moodboard.
+
+**Ausblick:** Automatische Moodboard-Generierung sollte erst wieder aktiviert
+werden, wenn ein REST- oder CLI-Pfad nachweislich `params.style_id` setzt.
 
 ## Bild-Nachbearbeitung (Image Processing)
 

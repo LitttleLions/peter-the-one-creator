@@ -65,8 +65,11 @@ Globale Ordner:
 ## Voraussetzungen
 
 - **Python-Abhaengigkeiten:** `pip install -r requirements.txt`
-- **Streamlit** (>= 1.36): Wird fuer das Dashboard benoetigt.
-  Enthalten in `requirements.txt`. Start mit `streamlit run tools/dashboard.py`.
+- **Dashboard:** Das primaere Dashboard ist FastAPI + React. Start mit
+  `python tools/start_dashboard.py`; der Befehl baut das React-Frontend bei
+  Bedarf und startet FastAPI auf `http://127.0.0.1:8000`.
+- **Streamlit** (>= 1.36): Bleibt als Legacy-Werkbank in `tools/dashboard.py`
+  als Backup erhalten, ist aber nicht mehr der Standardstart.
 - **Pandoc** (>= 3.0): Wird fuer den EPUB-Export benoetigt.
   Installation: `winget install --id JohnMacFarlane.Pandoc`
   Nach Installation muss ein neues Terminal gestartet werden.
@@ -156,7 +159,7 @@ python tools/status.py --book anna-karenina list
 python tools/status.py --book anna-karenina next
 
 # Dashboard
-streamlit run tools/dashboard.py
+python tools/start_dashboard.py
 ```
 
 `translate_batch.py` ist ein Uebersetzungs-Batch, kein Export-Befehl. Er

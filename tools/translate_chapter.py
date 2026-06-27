@@ -177,6 +177,63 @@ def format_last_usage(client) -> str:
 DEGENERATION_MAX_RETRIES = 1
 
 
+class TranslationQualityError(RuntimeError):
+    """Raised when a model response is not a usable translation."""
+
+
+def _first_meaningful_line(text: str) -> str:
+    for line in text.splitlines():
+        stripped = line.strip()
+        if stripped:
+            return stripped
+    return ""
+
+
+def _preview_text(text: str, limit: int = 260) -> str:
+    return text.replace("\n", " ").strip()[:limit]
+
+
+def validate_translation_output(text: str, messages: list[dict], label: str = "") -> None:
+    normalized = text.strip()
+    if not normalized:
+        raise TranslationQualityError("Modellantwort ist leer.")
+
+    lower = normalized.lower()
+    hard_markers = [
+        "## system",
+        "## user",
+        "workspace-prompt",
+        "system-prompt",
+        "user-prompt",
+        "legacy-regeln",
+    ]
+    for marker in hard_markers:
+        if marker in lower:
+            raise TranslationQualityError(
+                f"Modellantwort wirkt wie Prompt-Echo ({marker!r})"
+                + (f" in {label}" if label else "")
+                + f". Antwortbeginn: {_preview_text(normalized)!r}"
+            )
+
+    system_text = messages[0]["content"] if messages else ""
+    first_system_line = _first_meaningful_line(system_text)
+    if first_system_line and len(first_system_line) > 60 and first_system_line in normalized:
+        raise TranslationQualityError(
+            "Modellantwort enthaelt den Anfang des System-Prompts statt einer Uebersetzung"
+            + (f" in {label}" if label else "")
+            + f". Antwortbeginn: {_preview_text(normalized)!r}"
+        )
+
+    user_text = messages[1]["content"] if len(messages) > 1 else ""
+    first_user_line = _first_meaningful_line(user_text)
+    if first_user_line and len(first_user_line) > 40 and first_user_line in normalized:
+        raise TranslationQualityError(
+            "Modellantwort enthaelt den Anfang des User-Prompts statt einer Uebersetzung"
+            + (f" in {label}" if label else "")
+            + f". Antwortbeginn: {_preview_text(normalized)!r}"
+        )
+
+
 def safe_translate_with_check(client, messages, temperature, max_tokens,
                               expected_language=None, label=""):
     """
@@ -185,6 +242,7 @@ def safe_translate_with_check(client, messages, temperature, max_tokens,
     raises OpenRouterError.
     """
     text = translate_scene(client, messages, temperature, max_tokens)
+    validate_translation_output(text, messages, label)
     warnings = []
 
     for attempt in range(DEGENERATION_MAX_RETRIES + 1):
@@ -201,6 +259,7 @@ def safe_translate_with_check(client, messages, temperature, max_tokens,
                       f"{reason[:80]}", file=sys.stderr)
             warnings.append(reason)
             text = translate_scene(client, messages, temperature, max_tokens)
+            validate_translation_output(text, messages, label)
         else:
             # Letzter Versuch immer noch degeneriert
             warnings.append(reason)
@@ -374,7 +433,7 @@ def main():
         chosen_model = (
             args.model
             or ai_cfg.get("model")
-            or "qwen3:8b"
+            or "gemma4:latest"
         )
         model_info = {
             "name": chosen_model,
@@ -609,7 +668,7 @@ def main():
                 label="chapter",
             )
             print(f"   {format_last_usage(client)}")
-        except (OpenRouterError, OllamaError) as e:
+        except (OpenRouterError, OllamaError, TranslationQualityError) as e:
             print(f"FEHLER: {e}", file=sys.stderr)
             failed_scenes = 1
         if not failed_scenes:
@@ -777,11 +836,11 @@ def main():
                             part_path.write_text(part_text.rstrip() + "\n", encoding="utf-8")
                             translated_parts.append(part_text)
                             print(f"      -> {part_path.relative_to(output_root)}")
-                        except (OpenRouterError, OllamaError) as e:
+                        except (OpenRouterError, OllamaError, TranslationQualityError) as e:
                             chunk_errors.append(f"Chunk {chunk.part}: {e}")
                             print(f"      FEHLER bei Chunk {chunk.part}: {e}", file=sys.stderr)
                     if chunk_errors:
-                        raise OpenRouterError("; ".join(chunk_errors))
+                        raise TranslationQualityError("; ".join(chunk_errors))
                     txt = render_chunked_translation(translated_parts)
                 else:
                     txt, _warn = safe_translate_with_check(
@@ -817,7 +876,7 @@ def main():
                 print(f"   -> {s_path.relative_to(output_root)} "
                       f"({count_words(txt)} Woerter DE)")
 
-            except (OpenRouterError, OllamaError) as e:
+            except (OpenRouterError, OllamaError, TranslationQualityError) as e:
                 print(f"   FEHLER bei Szene {i}: {e}", file=sys.stderr)
                 sf["error"] = str(e)[:200]
                 failed_scenes += 1

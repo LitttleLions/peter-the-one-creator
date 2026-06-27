@@ -1,0 +1,22 @@
+{
+  "book_id": "pharao",
+  "title": "Der Pharao",
+  "style": "stil-02-poetisch",
+  "chapters": [
+    "001",
+    "002"
+  ],
+  "created_at": "2026-06-23T17:51:47",
+  "llm": "ollama",
+  "counts": {
+    "ERROR": 0,
+    "WARNING": 0,
+    "INFO": 0
+  },
+  "chapter_reports": [
+    "books\\pharao\\work\\reviews\\stil-02-poetisch\\chapters\\001-review.md",
+    "books\\pharao\\work\\reviews\\stil-02-poetisch\\chapters\\002-review.md"
+  ],
+  "summary_markdown": "books\\pharao\\work\\reviews\\stil-02-poetisch\\review-summary.md",
+  "summary_json": "books\\pharao\\work\\reviews\\stil-02-poetisch\\review-summary.json"
+}

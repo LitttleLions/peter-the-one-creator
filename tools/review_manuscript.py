@@ -101,6 +101,7 @@ def build_llm_chat(args: argparse.Namespace, book: dict):
             user=user,
             temperature=args.temperature,
             max_tokens=args.max_tokens,
+            json_mode=True,
         )
     try:
         registry = load_models_registry()

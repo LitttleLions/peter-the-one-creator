@@ -1,0 +1,65 @@
+{
+  "book": "aelita",
+  "chapter": "014",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\chapters\\014-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\prompts\\higgsfield\\014-chapter-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\assets\\chapter\\chapter-014.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "*Buch: Aëlita* <!-- status: pending --> Соацера утонула далеко за холмами. Корабль летел над равниной. Кое-где виднелись однообразные линии построек, столбы и проволоки подвесных дорог, отверстия шахт, груженые шаланды, двигающиеся по узким каналам. Но вот из лесных кущ все чаще стали подниматься скалистые пики. Корабль снизился, пролетел над ущельем и сел на луг, покато спускавшийся к темным и пышным зарослям. Лось и Гусев взяли мешки и вместе с лысым их спутником пошли по лугу, вниз к роще. Водяная пыль, бьющая из-под дерева, играла радугами над сверкающей влагою кудрявой травой. Стадо низкорослых длинношерстых животных, черных и белых, паслось по склону. Было мирно. Тихо шумела вода. Подувал ветерок. Post-revolutionary Petrograd 1920s and ancient Mars civilisation. Red deserts, canals, vertical cities, winged airships. Atmospheric depth.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--custom_reference_id",
+    "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260623_191610_05b4d060-3958-4ead-9a1a-bfc0a076b06d.png",
+  "job_result": [
+    {
+      "id": "05b4d060-3958-4ead-9a1a-bfc0a076b06d",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260623_191610_05b4d060-3958-4ead-9a1a-bfc0a076b06d.png",
+      "created_at": 1782242170.337027,
+      "params": {
+        "prompt": "*Buch: Aëlita* <!-- status: pending --> Соацера утонула далеко за холмами. Корабль летел над равниной. Кое-где виднелись однообразные линии построек, столбы и проволоки подвесных дорог, отверстия шахт, груженые шаланды, двигающиеся по узким каналам. Но вот из лесных кущ все чаще стали подниматься скалистые пики. Корабль снизился, пролетел над ущельем и сел на луг, покато спускавшийся к темным и пышным зарослям. Лось и Гусев взяли мешки и вместе с лысым их спутником пошли по лугу, вниз к роще. Водяная пыль, бьющая из-под дерева, играла радугами над сверкающей влагою кудрявой травой. Стадо низкорослых длинношерстых животных, черных и белых, паслось по склону. Было мирно. Тихо шумела вода. Подувал ветерок. Post-revolutionary Petrograd 1920s and ancient Mars civilisation. Red deserts, canals, vertical cities, winged airships. Atmospheric depth.",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 847168,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba"
+      }
+    }
+  ]
+}

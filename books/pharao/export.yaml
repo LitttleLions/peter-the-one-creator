@@ -15,7 +15,7 @@ defaults:
     author_bio_page: true
     description_page: false
     imprint_page: true
-    toc_page: false
+    toc_page: true
     combined_epub_front_matter: false
     combined_heading: Titelei
     cover_heading: Cover

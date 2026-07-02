@@ -40,9 +40,13 @@ class GenerateIllustrationTests(unittest.TestCase):
                     "quality": "2k",
                     "moodboard": {
                         "name": "Buch Peter der Erste",
-                        "style_id": "11111111-1111-4111-8111-111111111111",
+                        "web_ui_moodboard_id": "11111111-1111-4111-8111-111111111111",
+                        "availability": "web_ui_only",
                         "strength": 1.0,
                     },
+                    "reference_images": [
+                        "books/peter-i-buch-01/assets/reference/style-01.jpg"
+                    ],
                 },
             },
         )
@@ -208,6 +212,11 @@ class GenerateIllustrationTests(unittest.TestCase):
             "11111111-1111-4111-8111-111111111111",
         )
         self.assertEqual(defaults["backend"], "auto")
+        self.assertEqual(defaults["moodboard_availability"], "web_ui_only")
+        self.assertEqual(
+            defaults["reference_images"],
+            ("books/peter-i-buch-01/assets/reference/style-01.jpg",),
+        )
 
     def test_existing_image_is_not_overwritten_without_flag(self) -> None:
         book = find_book(self.root, "peter-i-buch-01")
@@ -271,25 +280,36 @@ class GenerateIllustrationTests(unittest.TestCase):
 
         self.assertEqual(data["params"][0]["name"], "moodboard_id")
 
-    def test_moodboard_api_backend_without_allow_paid_generation_blocks(self) -> None:
+    def test_web_ui_moodboard_api_backend_blocks_before_paid_generation(self) -> None:
         request = self.request(
             moodboard="11111111-1111-4111-8111-111111111111",
             backend="api",
         )
         with (
-            patch.object(gi, "discover_higgsfield_style", return_value={"id": request.moodboard, "name": "Peter"}),
-            patch.object(
-                gi,
-                "run_higgsfield_api_adapter",
-                return_value={
-                    "ok": True,
-                    "request_payload": {
-                        "style_id": request.moodboard,
-                        "style_strength": 1.0,
-                    },
-                },
-            ) as adapter,
+            patch.object(gi, "discover_higgsfield_style") as discover,
+            patch.object(gi, "run_higgsfield_api_adapter") as adapter,
         ):
+            with self.assertRaises(SystemExit) as ctx:
+                gi.generate_illustration(request, dry_run=False)
+
+        self.assertIn("HIGGSFIELD_WEB_UI_MOODBOARD_NOT_PROGRAMMATIC", str(ctx.exception))
+        discover.assert_not_called()
+        adapter.assert_not_called()
+
+    def test_api_backend_without_web_ui_moodboard_requires_paid_flag(self) -> None:
+        request = self.request(
+            backend="api",
+            no_reference=True,
+            moodboard="",
+        )
+        with patch.object(
+            gi,
+            "run_higgsfield_api_adapter",
+            return_value={
+                "ok": True,
+                "request_payload": {"style_id": None, "soul_id": None},
+            },
+        ) as adapter:
             with self.assertRaises(SystemExit) as ctx:
                 gi.generate_illustration(request, dry_run=False)
 
@@ -297,25 +317,11 @@ class GenerateIllustrationTests(unittest.TestCase):
         payloads = [call.args[0] for call in adapter.call_args_list]
         self.assertTrue(all(payload.get("dry_run") for payload in payloads))
 
-    def test_moodboard_api_backend_style_not_found_blocks_before_generate(self) -> None:
+    def test_api_backend_dry_run_omits_web_ui_moodboard_style_id(self) -> None:
         request = self.request(
-            moodboard="11111111-1111-4111-8111-111111111111",
             backend="api",
-        )
-        with (
-            patch.object(gi, "discover_higgsfield_style", return_value=None),
-            patch.object(gi, "run_higgsfield_api_adapter") as adapter,
-        ):
-            with self.assertRaises(SystemExit) as ctx:
-                gi.generate_illustration(request, dry_run=False)
-
-        self.assertIn("HIGGSFIELD_API_STYLE_NOT_FOUND", str(ctx.exception))
-        adapter.assert_not_called()
-
-    def test_moodboard_api_backend_dry_run_uses_style_id_only(self) -> None:
-        request = self.request(
+            no_reference=True,
             moodboard="11111111-1111-4111-8111-111111111111",
-            backend="api",
         )
         with patch.object(
             gi,
@@ -323,8 +329,8 @@ class GenerateIllustrationTests(unittest.TestCase):
             return_value={
                 "ok": True,
                 "request_payload": {
-                    "style_id": request.moodboard,
-                    "style_strength": 1.0,
+                    "style_id": None,
+                    "style_strength": None,
                 },
             },
         ) as adapter:
@@ -334,17 +340,18 @@ class GenerateIllustrationTests(unittest.TestCase):
             )
 
         payload = adapter.call_args.args[0]
-        self.assertEqual(payload["style_id"], request.moodboard)
+        self.assertIsNone(payload["style_id"])
         self.assertNotIn("custom_reference_id", payload)
         self.assertIsNone(payload["soul_id"])
         meta = json.loads(meta_path.read_text(encoding="utf-8"))
-        self.assertEqual(meta["api_dry_run_request"]["style_id"], request.moodboard)
+        self.assertIsNone(meta["api_dry_run_request"]["style_id"])
         self.assertNotIn("custom_reference_id", meta["api_dry_run_request"])
 
-    def test_moodboard_api_backend_keeps_soul_id_separate(self) -> None:
+    def test_api_backend_keeps_soul_id_separate_from_web_ui_moodboard(self) -> None:
         request = self.request(
             moodboard="11111111-1111-4111-8111-111111111111",
             backend="api",
+            no_reference=True,
             soul_id="22222222-2222-4222-8222-222222222222",
             soul_strength=0.75,
         )
@@ -354,7 +361,7 @@ class GenerateIllustrationTests(unittest.TestCase):
             return_value={
                 "ok": True,
                 "request_payload": {
-                    "style_id": request.moodboard,
+                    "style_id": None,
                     "custom_reference_id": request.soul_id,
                 },
             },
@@ -362,7 +369,7 @@ class GenerateIllustrationTests(unittest.TestCase):
             gi.generate_illustration(request, dry_run=True)
 
         payload = adapter.call_args.args[0]
-        self.assertEqual(payload["style_id"], request.moodboard)
+        self.assertIsNone(payload["style_id"])
         self.assertEqual(payload["soul_id"], request.soul_id)
 
     def test_real_cli_generation_flow_uses_mocked_higgsfield_and_download(self) -> None:
@@ -442,9 +449,31 @@ class GenerateIllustrationTests(unittest.TestCase):
         meta = json.loads(meta_path.read_text(encoding="utf-8"))
         self.assertTrue(meta["no_reference"])
 
-    def test_moodboard_auto_selects_api_not_cli_custom_reference(self) -> None:
+    def test_cli_generation_passes_soul_id_as_custom_reference(self) -> None:
+        soul_id = "22222222-2222-4222-8222-222222222222"
+
+        def fake_download(url: str, destination: Path,
+                          image_processing=None) -> None:
+            destination.parent.mkdir(parents=True, exist_ok=True)
+            destination.write_bytes(b"image")
+
+        with (
+            patch.object(gi, "validate_higgsfield_available"),
+            patch.object(gi, "run_json_command", return_value={"result_url": "https://example.test/image.jpg"}) as run_json,
+            patch.object(gi, "download_url", side_effect=fake_download),
+        ):
+            gi.generate_illustration(
+                self.request(no_reference=True, soul_id=soul_id),
+                dry_run=False,
+            )
+
+        command = run_json.call_args.args[0]
+        self.assertIn("--custom_reference_id", command)
+        self.assertEqual(command[command.index("--custom_reference_id") + 1], soul_id)
+
+    def test_web_ui_moodboard_auto_does_not_select_api_or_custom_reference(self) -> None:
         request = self.request(moodboard="11111111-1111-4111-8111-111111111111")
-        self.assertEqual(gi.selected_backend(request), "api")
+        self.assertEqual(gi.selected_backend(request), "cli")
         with (
             patch.object(gi, "discover_higgsfield_style", return_value={"id": request.moodboard}),
             patch.object(
@@ -457,7 +486,7 @@ class GenerateIllustrationTests(unittest.TestCase):
             with self.assertRaises(SystemExit):
                 gi.generate_illustration(request, dry_run=False)
 
-        adapter.assert_called()
+        adapter.assert_not_called()
         run_json.assert_not_called()
 
     def test_flag_is_soul_reference_detects_custom_reference_id(self) -> None:
@@ -466,7 +495,7 @@ class GenerateIllustrationTests(unittest.TestCase):
         self.assertFalse(gi._flag_is_soul_reference("--style_id"))
         self.assertFalse(gi._flag_is_soul_reference("--moodboard_id"))
 
-    def test_diagnose_reports_only_custom_reference_as_not_supported(self) -> None:
+    def test_diagnose_reports_web_ui_moodboard_as_not_programmatic(self) -> None:
         schema = {"params": [{"name": "custom_reference_id"}]}
         with (
             patch.object(gi, "higgsfield_executable", return_value="higgsfield"),
@@ -477,15 +506,13 @@ class GenerateIllustrationTests(unittest.TestCase):
                 "11111111-1111-4111-8111-111111111111",
             )
 
-        command = run_json.call_args.args[0]
-        self.assertEqual(command, ["higgsfield", "model", "get", "text2image_soul_v2", "--json"])
+        run_json.assert_not_called()
         self.assertFalse(diagnostic["can_use_moodboard"])
-        self.assertTrue(diagnostic["only_custom_reference"])
-        self.assertTrue(diagnostic["uses_custom_reference_fallback"])
-        self.assertEqual(diagnostic["status"], "only_custom_reference_id")
-        self.assertNotIn("generate", command)
+        self.assertEqual(diagnostic["programmatic_support"], "no")
+        self.assertEqual(diagnostic["status"], "web_ui_moodboard_only")
+        self.assertIn("Web-UI-Moodboards", diagnostic["reason"])
 
-    def test_diagnose_reports_style_id_as_supported(self) -> None:
+    def test_diagnose_reports_non_uuid_schema_style_id_as_supported(self) -> None:
         schema = {"params": [{"name": "style_id"}, {"name": "custom_reference_id"}]}
         with (
             patch.object(gi, "higgsfield_executable", return_value="higgsfield"),
@@ -493,7 +520,7 @@ class GenerateIllustrationTests(unittest.TestCase):
         ):
             diagnostic = gi.diagnose_higgsfield_reference(
                 "text2image_soul_v2",
-                "11111111-1111-4111-8111-111111111111",
+                "",
             )
 
         self.assertTrue(diagnostic["can_use_moodboard"])
@@ -507,7 +534,7 @@ class GenerateIllustrationTests(unittest.TestCase):
         ):
             diagnostic = gi.diagnose_higgsfield_reference(
                 "text2image_soul_v2",
-                "11111111-1111-4111-8111-111111111111",
+                "",
             )
 
         run_json.assert_not_called()

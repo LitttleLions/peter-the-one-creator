@@ -15,7 +15,7 @@ import shutil
 import subprocess
 import sys
 import urllib.request
-from dataclasses import dataclass, replace
+from dataclasses import dataclass
 from io import BytesIO
 from pathlib import Path
 from typing import Any
@@ -365,15 +365,27 @@ def higgsfield_defaults(book: dict[str, Any]) -> dict[str, Any]:
     moodboard = cfg.get("moodboard") if isinstance(cfg, dict) else None
     moodboard_name = None
     moodboard_strength = 1.0
+    moodboard_availability = "web_ui_only"
     if isinstance(moodboard, dict):
-        moodboard_value = moodboard.get("style_id")
+        moodboard_value = (
+            moodboard.get("web_ui_moodboard_id")
+            or moodboard.get("style_id")
+        )
         moodboard_name = moodboard.get("name")
         moodboard_strength = float(moodboard.get("strength", 1.0))
+        moodboard_availability = str(
+            moodboard.get("availability") or "web_ui_only"
+        )
     else:
         moodboard_value = None
     soul = cfg.get("soul") if isinstance(cfg, dict) else None
-    soul_id = soul.get("id") if isinstance(soul, dict) else None
-    soul_strength = float(soul.get("strength", 1.0)) if isinstance(soul, dict) else 1.0
+    soul_enabled = bool(soul.get("enabled")) if isinstance(soul, dict) else False
+    soul_id = soul.get("id") if isinstance(soul, dict) and soul_enabled else None
+    soul_strength = (
+        float(soul.get("strength", 1.0))
+        if isinstance(soul, dict) and soul_enabled
+        else 1.0
+    )
     return {
         "model": (
             str(cfg.get("model") or DEFAULT_MODEL)
@@ -383,8 +395,16 @@ def higgsfield_defaults(book: dict[str, Any]) -> dict[str, Any]:
         "moodboard": str(moodboard_value or DEFAULT_MOODBOARD),
         "moodboard_name": str(moodboard_name) if moodboard_name else None,
         "moodboard_strength": moodboard_strength,
+        "moodboard_availability": moodboard_availability,
         "soul_id": str(soul_id) if soul_id else None,
         "soul_strength": soul_strength,
+        "reference_images": tuple(
+            str(item)
+            for item in (
+                cfg.get("reference_images") if isinstance(cfg, dict) else []
+            )
+            or []
+        ),
         "backend": (
             str(cfg.get("backend") or "auto")
             if isinstance(cfg, dict)
@@ -504,10 +524,35 @@ def diagnose_higgsfield_reference(model: str, moodboard: str) -> dict[str, Any]:
     diagnostic: dict[str, Any] = {
         "model": model,
         "moodboard": moodboard,
+        "programmatic_support": "no" if is_uuid(moodboard) else "not_applicable",
+        "reason": (
+            "Higgsfield bestaetigt: Web-UI-Moodboards werden nicht ueber "
+            "API, CLI oder MCP exponiert."
+            if is_uuid(moodboard)
+            else None
+        ),
+        "fallback": (
+            "reference-image workflow only"
+            if is_uuid(moodboard)
+            else "CLI/API ohne Web-UI-Moodboard"
+        ),
         "executable": executable,
         "schema_checked": False,
         "no_generation": True,
     }
+    if is_uuid(moodboard):
+        diagnostic.update(
+            {
+                "can_use_moodboard": False,
+                "status": "web_ui_moodboard_only",
+                "recommendation": (
+                    "Moodboard-ID nur als Web-UI-Metadatum behalten. Fuer "
+                    "Automation --no-reference, echte Soul-ID oder "
+                    "reference_images/--image verwenden."
+                ),
+            }
+        )
+        return diagnostic
     if executable is None:
         diagnostic.update(
             {
@@ -531,8 +576,8 @@ def diagnose_higgsfield_reference(model: str, moodboard: str) -> dict[str, Any]:
             "Nicht automatisch ueber die CLI generieren: Korrekte "
             "Moodboard-Laeufe setzen params.style_id. Die CLI bietet hier "
             "nur --custom_reference_id; das erzeugt General + Character/"
-            "Soul-Referenz und ist fuer Moodboards falsch. Naechster Schritt: "
-            "REST-/Web-UI-Pfad fuer style_id verwenden."
+            "Soul-Referenz und ist fuer Moodboards falsch. Private Web-UI-"
+            "Moodboards sind laut Higgsfield nicht programmatisch nutzbar."
         )
     elif classification["can_use_moodboard"]:
         diagnostic["status"] = "moodboard_supported"
@@ -543,7 +588,8 @@ def diagnose_higgsfield_reference(model: str, moodboard: str) -> dict[str, Any]:
         diagnostic["status"] = "no_moodboard_parameter"
         diagnostic["recommendation"] = (
             "Kein Moodboard-/Style-Parameter im CLI-Schema gefunden. "
-            "Naechster Schritt: REST-Pfad oder Higgsfield Web-UI pruefen."
+            "Fuer private Web-UI-Moodboards ist das laut Higgsfield eine "
+            "Produktgrenze; nutze Web-UI oder reference_images."
         )
     return diagnostic
 
@@ -557,6 +603,12 @@ def print_higgsfield_diagnostic(diagnostic: dict[str, Any]) -> None:
     print(f"CLI: {executable or 'nicht gefunden'}")
     print(f"Schema geprueft: {diagnostic.get('schema_checked')}")
     print(f"Status: {diagnostic.get('status')}")
+    if diagnostic.get("programmatic_support"):
+        print(f"Programmatic support: {diagnostic.get('programmatic_support')}")
+    if diagnostic.get("reason"):
+        print(f"Grund: {diagnostic.get('reason')}")
+    if diagnostic.get("fallback"):
+        print(f"Fallback: {diagnostic.get('fallback')}")
     if diagnostic.get("selected_flag"):
         label = (
             "Ausgewaehltes Moodboard-Flag"
@@ -609,7 +661,7 @@ def validate_moodboard_support(model: str) -> tuple[str, Any]:
             "Soul-Referenz verwendet wird.\n\n"
             "Optionen:\n"
             "  - Im Higgsfield Web-UI mit Moodboard generieren\n"
-            "  - REST-Pfad mit style_id implementieren/testen\n"
+            "  - Bewusst getrennte reference_images/--image verwenden\n"
             "  - Bewusst ohne Moodboard mit --no-reference generieren\n\n"
             "Prompt und Metadaten wurden geschrieben."
         )
@@ -635,10 +687,12 @@ def has_moodboard(request: IllustrationRequest) -> bool:
     return bool(is_uuid(request.moodboard) and not request.no_reference)
 
 
+def has_programmatic_reference(request: IllustrationRequest) -> bool:
+    return bool(request.no_reference or request.images or request.soul_id)
+
+
 def selected_backend(request: IllustrationRequest) -> str:
     backend = normalize_backend(request.backend)
-    if backend == "auto" and has_moodboard(request):
-        return "api"
     if backend == "auto":
         return "cli"
     return backend
@@ -696,8 +750,8 @@ def build_higgsfield_api_payload(
     payload: dict[str, Any] = {
         "action": "generate",
         "prompt": prompt,
-        "style_id": request.moodboard if has_moodboard(request) else None,
-        "style_strength": request.moodboard_strength if has_moodboard(request) else None,
+        "style_id": None,
+        "style_strength": None,
         "soul_id": request.soul_id,
         "soul_strength": request.soul_strength,
         "aspect_ratio": request.aspect_ratio,
@@ -743,8 +797,8 @@ def build_higgsfield_command(
         "--quality",
         request.quality,
     ]
-    if moodboard_flag and is_uuid(request.moodboard):
-        command.extend([moodboard_flag, request.moodboard])
+    if request.soul_id:
+        command.extend(["--custom_reference_id", request.soul_id])
     for image in request.images:
         command.extend(["--image", image])
     command.extend(["--wait", "--json"])
@@ -754,7 +808,7 @@ def build_higgsfield_command(
 def ensure_reference_inputs(request: IllustrationRequest) -> None:
     if request.no_reference:
         return
-    if is_uuid(request.moodboard) or request.images:
+    if request.soul_id or request.images:
         return
     if is_url(request.moodboard):
         raise SystemExit(
@@ -765,7 +819,7 @@ def ensure_reference_inputs(request: IllustrationRequest) -> None:
         )
     raise SystemExit(
         "Keine gueltige Higgsfield-Referenz angegeben. Erwartet wird "
-        "--moodboard <uuid> oder mindestens ein --image <uuid|pfad>."
+        "--no-reference, --soul-id oder mindestens ein --image <uuid|pfad>."
     )
 
 
@@ -937,10 +991,8 @@ def generate_illustration(
         ]
     )
     api_metadata: dict[str, Any] = {}
-    style_discovery_status: str | None = None
-    discovered_style: dict[str, Any] | None = None
 
-    if backend == "cli" and has_moodboard(request):
+    if has_moodboard(request) and not has_programmatic_reference(request):
         write_prompt_files(
             book,
             request,
@@ -950,73 +1002,50 @@ def generate_illustration(
             image_path,
             dry_run=dry_run,
             schema_checked=False,
+            api_metadata={
+                "web_ui_moodboard_id": request.moodboard,
+                "web_ui_moodboard_name": request.moodboard_name,
+                "programmatic_support": "no",
+                "programmatic_support_reason": (
+                    "Higgsfield bestaetigt: Web-UI-Moodboards werden nicht "
+                    "ueber API, CLI oder MCP exponiert."
+                ),
+                "fallback": "reference-image workflow only",
+            },
         )
         raise SystemExit(
-            "HIGGSFIELD_MOODBOARD_UNSUPPORTED_BY_CURRENT_CLI: "
-            "Moodboards duerfen nicht ueber die aktuelle CLI erzeugt werden."
+            "HIGGSFIELD_WEB_UI_MOODBOARD_NOT_PROGRAMMATIC: "
+            "Web-UI-Moodboards sind laut Higgsfield nicht per API, CLI oder "
+            "MCP nutzbar. Nutze --no-reference, --soul-id oder --image/"
+            "reference_images."
         )
 
     if backend == "api":
-        if not has_moodboard(request):
+        if request.images:
             raise SystemExit(
-                "HIGGSFIELD_API_REQUIRES_MOODBOARD: Das API-Backend ist fuer "
-                "Moodboard-Pilotlaeufe reserviert."
+                "HIGGSFIELD_API_REFERENCE_IMAGES_NOT_IMPLEMENTED: "
+                "Referenzbilder sind in diesem Tool derzeit ueber die CLI "
+                "unterstuetzt. Nutze --backend cli."
             )
-        if not dry_run:
-            discovered_style = discover_higgsfield_style(request.moodboard)
-            style_discovery_status = "found" if discovered_style else "missing"
-            if not discovered_style:
-                write_prompt_files(
-                    book,
-                    request,
-                    source_path,
-                    prompt,
-                    planned_command,
-                    image_path,
-                    dry_run=False,
-                    schema_checked=True,
-                    api_metadata={
-                        "generator_backend": "higgsfield_api_v1",
-                        "requested_style_id": request.moodboard,
-                        "requested_style_name": request.moodboard_name,
-                        "requested_style_strength": request.moodboard_strength,
-                        "requested_soul_id": request.soul_id,
-                        "requested_reference_images": list(request.images),
-                        "style_discovery_status": style_discovery_status,
-                        "api_request_id": None,
-                        "api_job_id": None,
-                        "verification_status": "planned",
-                    },
-                )
-                if normalize_backend(request.backend) == "auto":
-                    print(
-                        "HIGGSFIELD_API_STYLE_NOT_FOUND: Moodboard-ID wurde "
-                        "nicht gefunden; fallback auf CLI ohne Referenz.",
-                        flush=True,
-                    )
-                    fallback_request = replace(
-                        request,
-                        backend="cli",
-                        no_reference=True,
-                        moodboard="",
-                    )
-                    return generate_illustration(fallback_request, dry_run=dry_run)
-                raise SystemExit(
-                    "HIGGSFIELD_API_STYLE_NOT_FOUND: Moodboard-ID wurde in "
-                    "getSoulStyles() nicht gefunden."
-                )
         api_metadata = {
             "generator_backend": "higgsfield_api_v1",
-            "requested_style_id": request.moodboard,
-            "requested_style_name": (
-                discovered_style.get("name")
-                if discovered_style
-                else request.moodboard_name
+            "web_ui_moodboard_id": request.moodboard if is_uuid(request.moodboard) else None,
+            "web_ui_moodboard_name": request.moodboard_name,
+            "programmatic_support": (
+                "no" if is_uuid(request.moodboard) else "not_applicable"
             ),
-            "requested_style_strength": request.moodboard_strength,
+            "programmatic_support_reason": (
+                "Higgsfield bestaetigt: Web-UI-Moodboards werden nicht ueber "
+                "API, CLI oder MCP exponiert."
+                if is_uuid(request.moodboard)
+                else None
+            ),
+            "requested_style_id": None,
+            "requested_style_name": None,
+            "requested_style_strength": None,
             "requested_soul_id": request.soul_id,
             "requested_reference_images": list(request.images),
-            "style_discovery_status": style_discovery_status or "not_checked",
+            "style_discovery_status": "not_applicable",
             "api_request_id": None,
             "api_job_id": None,
             "verification_status": "planned",
@@ -1082,7 +1111,7 @@ def generate_illustration(
         api_metadata["api_job_id"] = api_result.get("job_id")
         api_metadata["verification_status"] = verification_status(
             api_result.get("raw_response"),
-            request.moodboard,
+            None,
             request.soul_id,
         )
         if not media_url:
@@ -1117,10 +1146,7 @@ def generate_illustration(
 
     ensure_reference_inputs(request)
     moodboard_flag = None
-    if is_uuid(request.moodboard) and not request.no_reference:
-        moodboard_flag, _schema = validate_moodboard_support(request.model)
-    else:
-        validate_higgsfield_available()
+    validate_higgsfield_available()
     command = build_higgsfield_command(request, prompt, moodboard_flag)
     prompt_md, meta_json = write_prompt_files(
         book,
@@ -1228,6 +1254,8 @@ def main(argv: list[str] | None = None) -> int:
         raise SystemExit("--chapter ist erforderlich, ausser mit --diagnose-higgsfield")
 
     style = args.style or str(book.get("style_mode") or "stil-01-original")
+    reference_images = tuple(defaults.get("reference_images") or ())
+    cli_images = tuple(args.image or ())
     request = IllustrationRequest(
         book_id=args.book,
         chapter_id=normalize_chapter_id(args.chapter),
@@ -1236,7 +1264,7 @@ def main(argv: list[str] | None = None) -> int:
         kind=args.kind,
         model=args.model or defaults["model"],
         moodboard=args.moodboard or defaults["moodboard"],
-        images=tuple(args.image or []),
+        images=cli_images or reference_images,
         no_reference=bool(args.no_reference),
         aspect_ratio=normalize_aspect_ratio(args.aspect_ratio or defaults["aspect_ratio"]),
         quality=args.quality or defaults["quality"],

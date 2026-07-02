@@ -1,29 +1,22 @@
-# Higgsfield API-Moodboard-Backend
+# Higgsfield API und Web-UI-Moodboards
 
-Diese API-Anbindung verwendet den historischen, offiziell bereitgestellten
-Soul-Endpunkt `/v1/text2image/soul`. Sie ist ein kontrollierter
-Kompatibilitaetspfad fuer Moodboards, nicht der allgemein bevorzugte
-Higgsfield-V2-Standard.
+Stand: 2026-07-02.
 
-## Architektur
+Higgsfield-Support hat bestaetigt: Web-UI-Moodboards werden nicht ueber API,
+CLI oder MCP exponiert. Private Moodboard-UUIDs aus der Weboberflaeche sind
+daher Projektmetadaten fuer manuelle Web-UI-Laeufe, aber kein gueltiger
+programmatischer Eingabekanal.
 
-`tools/generate_illustration.py` unterstuetzt drei Backends:
+## Konsequenz
 
-- `cli`: nutzt die bestehende Higgsfield-CLI. Moodboards werden blockiert,
-  weil die CLI fuer `text2image_soul_v2` aktuell keinen echten `style_id`
-  anbietet.
-- `api`: nutzt `tools/higgsfield_api_adapter.mjs` und den V1-Soul-Endpunkt.
-  Dieses Backend ist fuer Moodboard-Pilotlaeufe reserviert.
-- `auto`: Default. Bei Moodboard-UUID wird `api` gewaehlt, sonst bleibt der
-  bestehende CLI-Pfad aktiv.
-
-Die Kanaele bleiben getrennt:
+Diese Kanaele bleiben strikt getrennt:
 
 ```yaml
 higgsfield:
   moodboard:
-    style_id: "<Moodboard-UUID>"
-    strength: 1.0
+    name: Aelite
+    web_ui_moodboard_id: "<Web-UI-Moodboard-UUID>"
+    availability: web_ui_only
 
   soul:
     id: null
@@ -32,117 +25,82 @@ higgsfield:
   reference_images: []
 ```
 
-`style_id` ist Moodboard/Stilwelt. `custom_reference_id` ist eine echte
-Soul-/Character-Referenz. `reference_images` sind konkrete Bildreferenzen.
-Eine Moodboard-UUID darf nicht als Soul-ID, Bildreferenz oder `medias`
-verwendet werden.
+- `web_ui_moodboard_id`: nur fuer manuelle Web-UI-Generierung dokumentieren.
+- `soul.id`: echte trainierte Soul-/Character-Referenz, wird als
+  `custom_reference_id` genutzt.
+- `reference_images`: konkrete Bildreferenzen, werden per CLI `--image`
+  uebergeben.
 
-## Credentials und Setup
+Eine Web-UI-Moodboard-UUID darf nicht als `custom_reference_id`, `--soul-id`,
+`--image`, API-`style_id` oder `medias` verwendet werden.
 
-Lokale Node-Abhaengigkeit installieren:
+## Backend-Verhalten
 
-```powershell
-npm install
+`tools/generate_illustration.py` unterstuetzt weiterhin:
+
+- `cli`: Standard fuer automatische Generierung ohne Web-UI-Moodboard.
+- `api`: experimenteller API-Pfad fuer Generierung ohne privates Web-UI-
+  Moodboard.
+- `auto`: Default auf CLI.
+
+Wenn ein Web-UI-Moodboard vorhanden ist und kein bewusst getrennter
+programmatischer Eingang gesetzt wird, bricht das Tool ab mit:
+
+```text
+HIGGSFIELD_WEB_UI_MOODBOARD_NOT_PROGRAMMATIC
 ```
 
-Credentials werden nur ueber Umgebungsvariablen gelesen:
+Bewusste Alternativen:
 
 ```powershell
-$env:HF_CREDENTIALS="KEY_ID:KEY_SECRET"
+# Ohne Referenz generieren
+python tools\generate_illustration.py --book aelita --chapter 020 --kind chapter --style stil-03-branderson --no-reference
+
+# Mit echter Soul-ID
+python tools\generate_illustration.py --book aelita --chapter 020 --kind chapter --style stil-03-branderson --soul-id <Soul-UUID>
+
+# Mit konkreten Referenzbildern
+python tools\generate_illustration.py --book aelita --chapter 020 --kind chapter --style stil-03-branderson --image <pfad-oder-uuid>
 ```
 
-Alternativ:
+## API-Credentials
 
-```powershell
-$env:HF_API_KEY="KEY_ID"
-$env:HF_API_SECRET="KEY_SECRET"
+API-Credentials bleiben fuer regulare API-Experimente nutzbar, aber nicht fuer
+private Web-UI-Moodboards:
+
+```env
+HF_CREDENTIALS=KEY_ID:KEY_SECRET
 ```
 
-`HF_CREDENTIALS` hat Vorrang. Credentials werden nicht in YAML, Metadaten,
-Promptdateien oder Logs geschrieben.
+Quelle fuer Key und Secret ist `cloud.higgsfield.ai`. Secrets gehoeren nur in
+`.env` oder die lokale Shell-Umgebung, nie in YAML, Prompt-Metadaten oder Logs.
 
-## Probe ohne Credits
+## Probe-Befehl
+
+Der Probe-Befehl bleibt als Nachweis/Regressionstest erhalten:
 
 ```powershell
 node tools\probe_higgsfield_moodboards.mjs
 ```
 
-Der Probe-Befehl liest `books/*/book.yaml`, extrahiert nur
-`higgsfield.moodboard.style_id`, ruft `getSoulStyles()` auf und meldet, ob die
-bekannten Moodboards in der API-Liste auffindbar sind. Er startet keine
-Generierung.
+Er darf fuer Web-UI-Moodboards erwartbar `found: false` melden, weil
+`getSoulStyles()` nur API-verfuegbare Styles beziehungsweise vordefinierte
+Styles listet, nicht private Web-UI-Moodboards.
 
-## Dry Run
+## Praktischer Workflow
 
-Adapter direkt:
+Fuer hochwertige, moodboardtreue Kapitelbilder:
 
-```powershell
-'{
-  "action": "generate",
-  "prompt": "A quiet cinematic science-fiction scene at dusk near old gates by a river embankment.",
-  "style_id": "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba",
-  "style_strength": 1.0,
-  "soul_id": null,
-  "soul_strength": 1.0,
-  "aspect_ratio": "3:4",
-  "quality": "hd",
-  "batch_size": 1,
-  "dry_run": true
-}' | node tools\higgsfield_api_adapter.mjs
-```
+1. Web-UI mit Moodboard verwenden.
+2. Ergebnis lokal ablegen, z. B. `books/<id>/assets/chapter/chapter-020.jpg`.
+3. Job-/Bildreferenz in Prompt-Metadaten oder Buchnotizen dokumentieren.
 
-Ueber Python:
+Fuer Automation:
 
-```powershell
-python tools\generate_illustration.py --book aelita --chapter 001 --kind scene --backend api --dry-run
-```
+1. Prompt- und Variantenlaeufe ohne Web-UI-Moodboard per CLI/API erzeugen.
+2. Falls Stilnaehe gebraucht wird, 6-15 repraesentative Referenzbilder bewusst
+   in `higgsfield.reference_images` pflegen.
+3. Diese Bilder per `--image` beziehungsweise Buchconfig an die CLI geben.
 
-## Paid Pilot
-
-Ein echter API-Bildlauf startet nur, wenn alle Bedingungen erfuellt sind:
-
-- `--backend api` oder `backend:auto` mit Moodboard;
-- `--allow-paid-generation`;
-- Moodboard-ID wurde vorher per `getSoulStyles()` gefunden.
-
-Beispiel:
-
-```powershell
-python tools\generate_illustration.py --book aelita --chapter 001 --kind scene --backend api --allow-paid-generation
-```
-
-Ohne `--allow-paid-generation` fuehrt Python nur Style-Discovery und
-Request-Validierung aus und bricht vor dem bezahlten Generate-Aufruf ab.
-
-## Verifikation
-
-Metadaten enthalten unter anderem:
-
-```json
-{
-  "generator_backend": "higgsfield_api_v1",
-  "requested_style_id": "...",
-  "requested_style_name": "...",
-  "requested_style_strength": 1.0,
-  "requested_soul_id": null,
-  "requested_reference_images": [],
-  "style_discovery_status": "found",
-  "api_request_id": null,
-  "api_job_id": null,
-  "verification_status": "planned"
-}
-```
-
-Nach echter Generierung ist `verification_status` nur dann `verified`, wenn die
-API-/Jobantwort eindeutig `style_id == requested_style_id` und
-`custom_reference_id == requested_soul_id` zeigt. Fehlen diese Felder, bleibt
-der Status `unverified`.
-
-## Grenzen
-
-- Der API-Pfad ist kein Serienmodus.
-- Die CLI bleibt fuer Nicht-Moodboard-Laeufe der Standard.
-- Legacy-Werte wie `higgsfield.moodboard.custom_reference_id` werden nicht als
-  Moodboard interpretiert und nicht migriert.
-- Die API-Qualitaetswerte koennen vom CLI-Vokabular abweichen; Pilotlaeufe
-  muessen deshalb mit Dry Run und Style-Discovery vorbereitet werden.
+Das ist kein echtes Moodboard, aber der einzige aktuell von Higgsfield
+unterstuetzte programmatische Ersatz fuer private Moodboards.

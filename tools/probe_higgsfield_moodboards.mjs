@@ -71,7 +71,9 @@ function readKnownMoodboards() {
       continue;
     }
     const text = fs.readFileSync(bookYaml, "utf8");
-    const styleMatch = text.match(/^\s{4}style_id:\s*"?([^"\r\n]+)"?\s*$/m);
+    const styleMatch =
+      text.match(/^\s{4}web_ui_moodboard_id:\s*"?([^"\r\n]+)"?\s*$/m) ??
+      text.match(/^\s{4}style_id:\s*"?([^"\r\n]+)"?\s*$/m);
     if (!styleMatch) {
       continue;
     }

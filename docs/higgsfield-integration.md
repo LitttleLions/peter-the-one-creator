@@ -21,23 +21,31 @@ higgsfield:
   quality: 2k
   moodboard:
     name: Buch Peter der Erste
-    style_id: 8b79a5c6-5539-4257-9b42-537d82259bc4
+    web_ui_moodboard_id: 8b79a5c6-5539-4257-9b42-537d82259bc4
+    availability: web_ui_only
+  reference_images: []
 ```
 
-`tools/generate_illustration.py` liest diese Werte automatisch. CLI-Argumente
-ueberschreiben die Buch-Defaults, z. B. `--moodboard <uuid>`.
+`tools/generate_illustration.py` liest diese Werte automatisch. Web-UI-
+Moodboards sind aber nur Metadaten fuer manuelle Higgsfield-Laeufe; sie werden
+nicht an CLI, API oder MCP uebergeben.
 
-Wichtig: Korrekte Moodboard-/Style-Laeufe stehen in der Higgsfield-History als
-`params.style_id`. `params.custom_reference_id` ist ein anderer Kanal
-(Character/Soul-Referenz) und darf fuer Moodboards nicht verwendet werden.
-Die lokale CLI fuer `text2image_soul_v2` bietet aktuell aber keinen
-`--style_id`-Parameter.
+Wichtig: Higgsfield-Support hat am 02.07.2026 bestaetigt, dass private
+Web-UI-Moodboards nicht in der API-Schicht exponiert werden. Die CLI bietet
+ebenfalls keinen Moodboard-/`style_id`-Parameter. Automatische Generierung mit
+eigenem Web-UI-Moodboard ist daher aktuell nicht moeglich.
+
+`params.custom_reference_id` ist ein anderer Kanal (Character/Soul-Referenz)
+und darf fuer Moodboards nicht verwendet werden. Der unterstuetzte
+Automationsersatz sind bewusst gepflegte `reference_images` oder echte
+Soul-IDs.
 
 Aktuell erkannte Moodboards:
 
 | Buch | Primaer | UUID |
 | --- | --- | --- |
 | `peter-i-buch-01` | Buch Peter der Erste | `8b79a5c6-5539-4257-9b42-537d82259bc4` |
+| `aelita` | Aelite | `6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba` |
 | `pharao` | Pharao III | `b1808566-674b-4495-b268-756f2ea287d5` |
 
 Fuer `pharao` sind ausserdem in `book.yaml` gespeichert:
@@ -97,6 +105,61 @@ keinen echten Moodboard-/Style-Parameter wie `style_id`. Ein Live-Test mit
 `--style_id` wurde von der CLI als `Unknown params: style_id` abgelehnt.
 Ein Lauf mit `--custom_reference_id <uuid>` liefert zwar ein Bild, setzt aber
 `style.name: General` und behandelt die UUID als Character/Soul-Referenz.
+
+## Character-/Soul-Referenzen
+
+Character-/Soul-IDs sind ein separater Kanal und ersetzen kein Moodboard.
+Der Test vom 01.07.2026 bestaetigt: Als `custom_reference_id` gesetzte
+Soul-IDs beeinflussen Figuren, setzen aber nicht die gewuenschte Stilwelt.
+Fuer konsistente Buchillustrationen bleibt das Moodboard nur im manuellen
+Web-UI-Workflow der fuehrende Stilanker (`params.style_id`).
+
+Produktive Aëlita-Bilder sollen bis auf Weiteres **ohne** Character-/Soul-ID
+erzeugt werden. Einzelne Tests mit `Fairy I` und `Whispers of Aether` sahen
+teilweise brauchbar aus, aber nicht stabil genug: die Referenz wirkt global
+auf alle Personen im Bild. Die IDs bleiben dokumentiert, damit sie fuer
+bewusste Character-Tests oder als Teil eines Referenzbild-Workflows gezielt
+nutzbar sind.
+
+Bekannte Aëlita-Referenzen:
+
+| Name | ID | Typ | Status | Verwendung |
+| --- | --- | --- | --- | --- |
+| Fairy I | `0fb45e81-0939-41e4-bee4-f0d007a8ec43` | `soul_2` | completed | Bekannte Aëlita-Referenz; derzeit nicht produktiv verwenden |
+| Whispers of Aether | `27e7e3ca-aa27-48f0-8a82-e59541dcfd20` | `soul_2` | completed | Testreferenz; derzeit nicht produktiv verwenden |
+
+Aus der Higgsfield-History vom 01.07.2026:
+
+- Gewuenschtes Moodboard: `style_id = 6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba`
+  (`Aelite`, `style_strength = 0.8`).
+- Zusaetzliche Character-/Soul-Referenz:
+  `custom_reference_id = 0fb45e81-0939-41e4-bee4-f0d007a8ec43` (`Fairy I`).
+- Fruehere Versuche, Moodboard-IDs als `custom_reference_id` zu nutzen,
+  waren falsch, weil sie als Soul-/Character-Referenz und nicht als
+  Moodboard/Style interpretiert werden.
+
+### Multi-Soul-Probe
+
+Mehrere Soul-IDs in einem `text2image_soul_v2`-Call sind nicht dokumentiert.
+Das CLI-Schema zeigt `custom_reference_id` nur einmal. Fuer kontrollierte
+Experimente gibt es deshalb ein separates Probe-Skript:
+
+```powershell
+node tools\probe_higgsfield_multi_soul.mjs --dry-run
+node tools\probe_higgsfield_multi_soul.mjs --allow-paid-generation --variant single_fairy
+node tools\probe_higgsfield_multi_soul.mjs --allow-paid-generation --variants array_two,object_named
+```
+
+Die Probe schreibt Payloads und Ergebnisse nach
+`books/aelita/work/prompts/higgsfield/soul-tests/`. Varianten:
+
+- `single_fairy`: eine bekannte Aëlita-Referenz (`Fairy I`)
+- `single_whispers`: Testreferenz `Whispers of Aether`
+- `array_two`: zwei Soul-IDs als Array in `custom_reference_id`
+- `object_named`: benannte Zuordnung `{ Aelita: ..., Los: ... }`
+
+Echte Bildgenerierung startet nur mit `--allow-paid-generation`. Diese Probe
+ist bewusst nicht Teil der produktiven Illustration-Pipeline.
 
 ## Moodboard-UUIDs Finden
 
@@ -199,21 +262,25 @@ Generierte Prompts werden als `.md`-Dateien gespeichert:
 Daneben liegt eine `.json`-Metadatendatei mit Kommando, Modell, Moodboard
 und Job-Ergebnis.
 
-### Bekannte Einschraenkung: Moodboard via CLI (Stand 2026-06-24)
+### Bekannte Produktgrenze: Web-UI-Moodboards (Stand 2026-07-02)
 
-Die aktuelle Higgsfield-CLI exponiert fuer `text2image_soul_v2` kein
-`style_id`. Der verfuegbare Parameter `--custom_reference_id` ist nicht
-gleichwertig: Er erzeugt Jobs mit `style.name: General` und
-`params.custom_reference_id`, waehrend korrekte Moodboard-Laeufe
-`params.style_id` und den Moodboard-Namen setzen.
+Higgsfield-Support hat bestaetigt: Private Web-UI-Moodboards werden nicht ueber
+API, CLI oder MCP exponiert. `getSoulStyles()` listet API-verfuegbare bzw.
+vordefinierte Styles, nicht die privaten Moodboards aus der Weboberflaeche.
 
-**`tools/generate_illustration.py` verhaelt sich seit dem 24.06.2026 wie folgt:**
+Die aktuelle Higgsfield-CLI exponiert fuer `text2image_soul_v2` ebenfalls kein
+`style_id`. Der verfuegbare Parameter `--custom_reference_id` ist ein
+Character-/Soul-Kanal und nicht gleichwertig.
 
-- Erkennt das Tool im CLI-Modellschema nur `custom_reference_id` (ohne
-  echten Stil-Parameter), wird die automatische CLI-Generierung mit Moodboard
-  abgebrochen.
-- Die Diagnose meldet diesen Zustand als `only_custom_reference_id`.
-- Prompt und Metadaten werden vor dem Abbruch geschrieben.
+**`tools/generate_illustration.py` verhaelt sich seit dem 02.07.2026 wie folgt:**
+
+- Web-UI-Moodboard-UUIDs werden nur als Metadaten behandelt.
+- Automatische Generierung mit Web-UI-Moodboard bricht mit
+  `HIGGSFIELD_WEB_UI_MOODBOARD_NOT_PROGRAMMATIC` ab.
+- Moodboard-UUIDs werden nicht an `custom_reference_id`, `--image`, API
+  `style_id` oder `medias` uebergeben.
+- Automatische Generierung ist nur ohne Web-UI-Moodboard, mit echter Soul-ID
+  oder mit bewusst gepflegten `reference_images` vorgesehen.
 
 **Warum war das unklar?** Fruehere CLI-Laeufe lieferten Bilder, weil
 `--custom_reference_id` technisch akzeptiert wurde. Die History zeigt aber den
@@ -232,13 +299,14 @@ Konkreter Aëlita-Befund vom 24.06.2026:
 
 1. **Higgsfield Web-UI**: Moodboards funktionieren dort (Style wird korrekt
    gesetzt). Bilder manuell generieren und in `books/<id>/assets/` ablegen.
-2. **REST-Pfad pruefen/implementieren**: Ziel ist ein Request, der
-   `style_id` statt `custom_reference_id` setzt.
-3. **`--no-reference`**: Generierung ohne Referenz (reiner Prompt).
-4. **`--image <referenzbild-uuid>`**: Konkretes Referenzbild statt Moodboard.
+2. **`--no-reference`**: Generierung ohne Referenz (reiner Prompt).
+3. **Echte Soul-ID**: Character-/Soul-Referenz bewusst mit `--soul-id` setzen.
+4. **`--image <referenzbild-uuid|pfad>`**: Konkrete Referenzbilder statt
+   Moodboard nutzen.
 
-**Ausblick:** Automatische Moodboard-Generierung sollte erst wieder aktiviert
-werden, wenn ein REST- oder CLI-Pfad nachweislich `params.style_id` setzt.
+**Ausblick:** Automatische private Moodboard-Generierung kann erst wieder
+aktiviert werden, wenn Higgsfield Web-UI-Moodboards offiziell ueber API, CLI
+oder MCP exponiert.
 
 ## Bild-Nachbearbeitung (Image Processing)
 

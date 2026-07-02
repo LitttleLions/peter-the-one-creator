@@ -48,8 +48,23 @@ higgsfield:
   quality: 1.5k
   moodboard:
     name: Aelite
+    web_ui_moodboard_id: 6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba
     style_id: 6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba
+    availability: web_ui_only
     source: higgsfield generate list --image --size 100 --json
+    note: >-
+      Higgsfield-Support bestaetigt: Web-UI-Moodboards werden nicht ueber API,
+      CLI oder MCP exponiert. Diese UUID ist nur Metadatum fuer manuelle
+      Web-UI-Laeufe und darf nicht als custom_reference_id, --image oder
+      API-style_id verwendet werden.
+  reference_images: []
+  soul:
+    name: Fairy I
+    id: 0fb45e81-0939-41e4-bee4-f0d007a8ec43
+    type: soul_2
+    status: completed
+    enabled: false
+    usage: Bekannte Character/Soul-Referenz fuer Aelita. Nicht mit dem Web-UI-Moodboard verwechseln; nur fuer bewusste Character-Tests oder Referenzbild-Workflows nutzen.
   image_processing:
     format: JPEG
     jpeg_quality: 60

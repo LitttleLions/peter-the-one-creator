@@ -1,0 +1,82 @@
+id: geheime-geschichte-mongolen
+title: Die Geheime Geschichte der Mongolen
+subtitle: Eine mongolische Chronik des 13. Jahrhunderts
+author: Anonym
+source_lang: ja
+target_lang: de
+ruleset_path: ''
+ruleset_apply: false
+style_mode: stil-01-original
+source_path: source/001.xhtml
+work_dir: work
+exports_dir: exports
+status_file: status/status.json
+log_dir: status/logs
+styles_dir: styles
+assets_dir: assets
+names_file: names.yaml
+structure:
+  mode: chapter_as_scene
+  label: Szenen
+  groups:
+  - id: joron
+    label: Einleitung
+    chapters: [0]
+  - id: volume-1
+    label: Erstes Buch
+    chapters: [1]
+  - id: volume-2
+    label: Zweites Buch
+    chapters: [2]
+  - id: volume-3
+    label: Drittes Buch
+    chapters: [3]
+  - id: volume-4
+    label: Viertes Buch
+    chapters: [4]
+  - id: volume-5
+    label: Fuenftes Buch
+    chapters: [5]
+  - id: volume-6
+    label: Sechstes Buch
+    chapters: [6]
+  - id: volume-7
+    label: Siebtes Buch
+    chapters: [7]
+  - id: volume-8
+    label: Achtes Buch
+    chapters: [8]
+  - id: volume-9
+    label: Neuntes Buch
+    chapters: [9]
+  - id: volume-10
+    label: Zehntes Buch
+    chapters: [10]
+  - id: volume-11
+    label: Elftes Buch
+    chapters: [11, 12]
+  - id: volume-12
+    label: Zwoelftes Buch
+    chapters: [13, 14]
+display:
+  chapters:
+    format: words_de
+    suffix: " Kapitel"
+    align: center
+    include_source_title: false
+  scenes:
+    show: false
+    format: number
+    align: center
+    page_break: false
+    separator: ""
+naming_convention:
+  style: ''
+  example: []
+notes: Neu angelegtes Buch. Quellsprache ist Mittelmongolisch in chinesischer Lautschrift (zh als Platzhalter).
+ai:
+  provider: openrouter
+  model: deepseek/deepseek-v4-flash
+  granularity: scene
+  max_tokens_per_scene: 10000
+  chunk_char_limit: 9500

@@ -1,0 +1,49 @@
+{
+  "chapter": "001",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "001",
+      "scene": 1,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\001\\scene-01.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-01-original\\001\\scene-01.md",
+      "ru_words": 690,
+      "de_words": 2063,
+      "findings": [
+        {
+          "severity": "ERROR",
+          "category": "length_ratio",
+          "message": "DE/RU-Wortverhaeltnis ist stark auffaellig (2.99).",
+          "chapter": "001",
+          "scene": 1,
+          "evidence": "RU=690, DE=2063",
+          "recommendation": "Auf Auslassung, Doppelung oder Ausschweifung pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "WARNING",
+          "category": "llm_review_failed",
+          "message": "KI-Review fehlgeschlagen: KI-Antwort enthielt kein gueltiges JSON-Objekt. Antwortbeginn: '{\"findings\":[{\"severity\":\"ERROR\",\"category\":\"names\",\"summary\":\"Falsche Transkription von Personennamen und Titeln.\",\"evidence\":\"Original: \\'忙豁侖は蒙古の、紐察は祕密\\' (Mangghul = Mongol, Niuccha = Secret). DE-Uebersetzung titelt das '",
+          "chapter": "001",
+          "scene": 1,
+          "evidence": "{\"findings\":[{\"severity\":\"ERROR\",\"category\":\"names\",\"summary\":\"Falsche Transkription von Personennamen und Titeln.\",\"evidence\":\"Original: '忙豁侖は蒙古の、紐察は祕密' (Mangghul = Mongol, Niuccha = Secret). DE-Uebersetzung titelt das Buch fälschlicherweise als 'Der Ursprung des Dschingis Khan', obwohl der Originaltitel explizit 'Die geheime Geschichte der Mongolen' ist. Zudem werden Namen wie 'Batachichan' (statt Batachiqan/Batuchin) und 'Torogoljinbayan' falsch transkribiert.\",\"recommendation\":\"Titel korrigi",
+          "recommendation": "Backend/Modell pruefen, Ollama-Modell wechseln oder Lauf ohne KI-Review wiederholen.",
+          "source": "llm",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

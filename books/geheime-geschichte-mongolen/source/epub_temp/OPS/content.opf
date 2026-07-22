@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		      <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" xml:lang="ja" prefix="cc: http://creativecommons.org/ns#">
+			     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+				    <dc:identifier id="uid">https://ja.wikisource.org/wiki/%E6%88%90%E5%90%89%E6%80%9D%E6%B1%97%E5%AE%9F%E9%8C%B2</dc:identifier>
+				    <meta property="dcterms:modified">2026-07-21T12:01:30Z</meta>
+				    <dc:language>ja</dc:language>
+				    <dc:title id="meta-title">成吉思汗実録</dc:title>
+				    <meta refines="#meta-title" property="title-type">main</meta>
+				    <dc:source>https://ja.wikisource.org/wiki/%E6%88%90%E5%90%89%E6%80%9D%E6%B1%97%E5%AE%9F%E9%8C%B2</dc:source>
+				    <dc:rights xml:lang="en">Creative Commons BY-SA 3.0</dc:rights>
+				    <link rel="cc:license" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+				    <dc:rights xml:lang="en">GNU Free Documentation License</dc:rights>
+				    <link rel="cc:license" href="http://www.gnu.org/copyleft/fdl.html" />
+				    <dc:contributor id="meta-bkp">Wikisource</dc:contributor>
+				    <meta refines="#meta-bkp" property="role" scheme="marc:relators">bkp</meta><meta name="cover" content="title" /></metadata>
+			     <manifest>
+				    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav" />
+				    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/><item id="title" href="title.xhtml" media-type="application/xhtml+xml" />
+				    <item id="mainCss" href="main.css" media-type="text/css" /><item id="Wikisource-logo.svg.png" href="images/Wikisource-logo.svg.png" media-type="image/png" /><item id="fonts-FreeSerif.ttf" href="fonts/FreeSerif.ttf" media-type="font/ttf" />
+<item id="fonts-FreeSerifBold.ttf" href="fonts/FreeSerifBold.ttf" media-type="font/ttf" />
+<item id="fonts-FreeSerifItalic.ttf" href="fonts/FreeSerifItalic.ttf" media-type="font/ttf" />
+<item id="fonts-FreeSerifBoldItalic.ttf" href="fonts/FreeSerifBoldItalic.ttf" media-type="font/ttf" />
+<item id="c0_cheng_ji_si_han_shi_lu" href="c0_cheng_ji_si_han_shi_lu.xhtml" media-type="application/xhtml+xml" />
+<item id="c1_cheng_ji_si_han_shi_lu_xu_lun" href="c1_cheng_ji_si_han_shi_lu_xu_lun.xhtml" media-type="application/xhtml+xml" />
+<item id="c2_cheng_ji_si_han_shi_lu_mu_lu" href="c2_cheng_ji_si_han_shi_lu_mu_lu.xhtml" media-type="application/xhtml+xml" />
+<item id="c3_cheng_ji_si_han_shi_lu_juanno_yi" href="c3_cheng_ji_si_han_shi_lu_juanno_yi.xhtml" media-type="application/xhtml+xml" />
+<item id="c4_cheng_ji_si_han_shi_lu_juanno_er" href="c4_cheng_ji_si_han_shi_lu_juanno_er.xhtml" media-type="application/xhtml+xml" />
+<item id="c5_cheng_ji_si_han_shi_lu_juanno_san" href="c5_cheng_ji_si_han_shi_lu_juanno_san.xhtml" media-type="application/xhtml+xml" />
+<item id="c6_cheng_ji_si_han_shi_lu_juanno_si" href="c6_cheng_ji_si_han_shi_lu_juanno_si.xhtml" media-type="application/xhtml+xml" />
+<item id="c7_cheng_ji_si_han_shi_lu_juanno_wu" href="c7_cheng_ji_si_han_shi_lu_juanno_wu.xhtml" media-type="application/xhtml+xml" />
+<item id="c8_cheng_ji_si_han_shi_lu_juanno_liu" href="c8_cheng_ji_si_han_shi_lu_juanno_liu.xhtml" media-type="application/xhtml+xml" />
+<item id="c9_cheng_ji_si_han_shi_lu_juanno_qi" href="c9_cheng_ji_si_han_shi_lu_juanno_qi.xhtml" media-type="application/xhtml+xml" />
+<item id="c10_cheng_ji_si_han_shi_lu_juanno_ba" href="c10_cheng_ji_si_han_shi_lu_juanno_ba.xhtml" media-type="application/xhtml+xml" />
+<item id="c11_cheng_ji_si_han_shi_lu_juanno_jiu" href="c11_cheng_ji_si_han_shi_lu_juanno_jiu.xhtml" media-type="application/xhtml+xml" />
+<item id="c12_cheng_ji_si_han_shi_lu_juanno_shi" href="c12_cheng_ji_si_han_shi_lu_juanno_shi.xhtml" media-type="application/xhtml+xml" />
+<item id="c13_cheng_ji_si_han_shi_lu_juanno_shi_yi_1" href="c13_cheng_ji_si_han_shi_lu_juanno_shi_yi_1.xhtml" media-type="application/xhtml+xml" />
+<item id="c14_cheng_ji_si_han_shi_lu_juanno_shi_yi_2" href="c14_cheng_ji_si_han_shi_lu_juanno_shi_yi_2.xhtml" media-type="application/xhtml+xml" />
+<item id="c15_cheng_ji_si_han_shi_lu_juanno_shi_er_1" href="c15_cheng_ji_si_han_shi_lu_juanno_shi_er_1.xhtml" media-type="application/xhtml+xml" />
+<item id="c16_cheng_ji_si_han_shi_lu_juanno_shi_er_2" href="c16_cheng_ji_si_han_shi_lu_juanno_shi_er_2.xhtml" media-type="application/xhtml+xml" />
+<item id="c17_g_20px_Wikimedia_logo.svg.png_utm_source_ja.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c17_g_20px_Wikimedia_logo.svg.png_utm_source_ja.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/png" />
+<item id="c18_icon.svg_60px_PD_icon.svg.png_utm_source_ja.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c18_icon.svg_60px_PD_icon.svg.png_utm_source_ja.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/png" />
+<item id="c19__20px_Wikisource_logo.svg.png_utm_source_ja.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c19__20px_Wikisource_logo.svg.png_utm_source_ja.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/png" />
+<item id="about" href="about.xhtml" media-type="application/xhtml+xml" />
+			     </manifest>
+			     <spine toc="ncx"><itemref idref="title" linear="yes" /><itemref idref="c0_cheng_ji_si_han_shi_lu" linear="yes" /><itemref idref="c1_cheng_ji_si_han_shi_lu_xu_lun" linear="yes" /><itemref idref="c2_cheng_ji_si_han_shi_lu_mu_lu" linear="yes" /><itemref idref="c3_cheng_ji_si_han_shi_lu_juanno_yi" linear="yes" /><itemref idref="c4_cheng_ji_si_han_shi_lu_juanno_er" linear="yes" /><itemref idref="c5_cheng_ji_si_han_shi_lu_juanno_san" linear="yes" /><itemref idref="c6_cheng_ji_si_han_shi_lu_juanno_si" linear="yes" /><itemref idref="c7_cheng_ji_si_han_shi_lu_juanno_wu" linear="yes" /><itemref idref="c8_cheng_ji_si_han_shi_lu_juanno_liu" linear="yes" /><itemref idref="c9_cheng_ji_si_han_shi_lu_juanno_qi" linear="yes" /><itemref idref="c10_cheng_ji_si_han_shi_lu_juanno_ba" linear="yes" /><itemref idref="c11_cheng_ji_si_han_shi_lu_juanno_jiu" linear="yes" /><itemref idref="c12_cheng_ji_si_han_shi_lu_juanno_shi" linear="yes" /><itemref idref="c13_cheng_ji_si_han_shi_lu_juanno_shi_yi_1" linear="yes" /><itemref idref="c14_cheng_ji_si_han_shi_lu_juanno_shi_yi_2" linear="yes" /><itemref idref="c15_cheng_ji_si_han_shi_lu_juanno_shi_er_1" linear="yes" /><itemref idref="c16_cheng_ji_si_han_shi_lu_juanno_shi_er_2" linear="yes" /><itemref idref="about" linear="yes" />
+			     </spine>
+		      </package>

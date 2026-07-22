@@ -1,0 +1,10 @@
+Jebe Noyan sandte er beide aus, zu den Ländern Kanglin, Badschigit, Madschara, Sasut, Keschmir, Kerel, bis zur Stadt Kiwa am Fluss Idil und Dschajak. Und Sube'etei Ba'atur sandte er auf den Feldzug.
+
+Im Jahr des Tigers zog Dschingis Khan nach Süden in den Winter. Khan Melik und Dschingis Khan rückten aus. Voraus als Spitze sandte er Schigi Qutuqu. Dschalal ad-Din Sultan und jener, sie wurden geschlagen. Und er siegte an jenem Ort. Tokhuchar drang ein mit Dschalal ad-Din Sultan, sie töteten jene, aber zur Stadt Semiskab ließ er sie nicht kommen. Er jagte sie zum Schin Müren, und sie traten in den Schin Müren ein. Dort an jenem Ort entkamen Dschalal ad-Din Sultan und jener, stiegen aufwärts. Dschingis Khan sandte Bala, um Khan Melik zu jagen. Im Frühling des Pferdes stieg er aufwärts, ließ Batkesen zurück, gelangte zu jenem Mutterflüsschen, stieg ab, und dort ließ er Bala zurück. Bala setzte über, jagte Dschalal ad-Din Sultan und jenen bis nach Hindus, konnte sie nicht erreichen, nahm viele, viele Leute von Hindus, und als er die Leute vollendet hatte, erging der Befehl: „Darughatschin, die beiden, die Yalawatschi genannt werden, jene beiden von Urgengech, sie kamen, sie kamen von Geschlecht, und sie meldeten die Verwandtschaft dem Dschingis Khan." Und die Söhne, die Kurumshi, setzte er als Darughas ein über die Städte Buchara, Urgengech, Kaschgar und Gusen. Und jener Yalawatschi kam, um dies in der Mitte zu melden. Wegen der Verwandtschaft der Stadt Masqut unter den Leuten setzte er Darughas ein.
+
+Also kehrte er im Herbst des Pferdes zurück. In jenem Semisgen überwinterte er zwei Jahre lang mit den Schafen. Dann brach er auf, wartete auf Sube'etei, zog zum Lande der Sarta'ul, und im Jahr des Hirsches, am Flusse Tula, stieg er ab in der Ordu.
+
+Ende des elften Buches der Aufzeichnungen des Dschingis Khan.
+
+Einleitung. Inhaltsverzeichnis. Buch eins. Buch zwei. Buch drei. Buch vier. Buch fünf.
+Buch sechs. Buch sieben. Buch acht. Buch neun. Buch zehn. Buch elf-1. Buch elf-2. Buch zwölf-1. Buch zwölf-2. Fortsetzung-Inhaltsverzeichnis. Fortsetzung-1. Fortsetzung-2. 3]

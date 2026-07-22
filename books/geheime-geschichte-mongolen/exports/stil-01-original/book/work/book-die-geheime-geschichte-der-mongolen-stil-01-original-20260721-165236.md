@@ -1,0 +1,2047 @@
+---
+title: Die Geheime Geschichte der Mongolen
+author: Anonym
+lang: de-DE
+date: 2026-07-21
+rights: © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung,
+---
+
+# Titelei {#frontmatter}
+
+## Titelseite
+
+**Die Geheime Geschichte der Mongolen**
+
+Eine mongolische Chronik des 13. Jahrhunderts
+
+Anonym
+
+Quellsprache: Mittelmongolisch, überliefert in chinesischer Lautschrift
+
+Entstehungszeit: 13. Jahrhundert
+
+Diese Ausgabe ist eine neue deutsche Übersetzung aus dem japanischen Text der chinesischen Lautumschrift. Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft.
+
+Herausgegeben von der Motivatier Hermann Stiftung
+
+Übersetzung und editorische Einrichtung: Motivatier
+
+> Teil-Export: Es fehlen noch Szenen.
+
+## Zusammenfassung
+
+Das unter dem mongolischen Titel Mongγol-un niγuča tobčiyan überlieferte Werk beginnt mit der sagenhaften Abstammung der Mongolen vom blaugrauen Wolf und der falben Hirschkuh. Aus Genealogien, Ursprungserzählungen und Erinnerungen an frühere Stammesführer entwickelt sich die Lebensgeschichte Temüdschins, des späteren Dschingis Khan. Nach dem Tod seines Vaters wächst er unter gefährdeten und entbehrungsreichen Bedingungen auf, während seine Mutter Höelün die auseinanderbrechende Familie zusammenhält.
+
+Temüdschins Aufstieg vollzieht sich durch Bündnisse, Schwüre, Heiraten, persönliche Treue und wiederholten Verrat. Die Entführung Börtes, die wechselvolle Freundschaft mit Dschamucha und das Verhältnis zu Tooril Ong Khan verbinden familiäre Konflikte mit dem politischen Kampf um die Vorherrschaft in der Steppe. Reden, Lieder, Rechtsentscheidungen und ausführlich geschilderte Beratungen zeigen Herrschaft nicht nur als Folge militärischer Siege, sondern als ein Geflecht aus Verwandtschaft, Gefolgschaft, Belohnung und Erinnerung.
+
+Nach der Einigung der mongolischen Verbände schildert die Chronik die Ordnung des neuen Reiches, die Verteilung von Ämtern und Untertanen, die Einrichtung der Leibwache und die Feldzüge Dschingis Khans. Die letzten Abschnitte berichten von seinem Tod, der Wahl Ögedeis und einzelnen Ereignissen aus dessen Regierungszeit. Das Werk ist keine distanzierte Geschichtsschreibung, sondern eine dynastische Erinnerungserzählung, in der Lob, Rechtfertigung, mündliche Überlieferung und auffallend persönliche Einzelheiten nebeneinanderstehen.
+
+## Leben des Autors
+
+Der Verfasser oder die Verfassergruppe der Geheimen Geschichte der Mongolen ist nicht namentlich bekannt; Geburts- und Sterbedaten sind daher nicht überliefert. Der Text muss in enger Nähe zur Familie und zum Hof Dschingis Khans entstanden sein. Als mögliche Beteiligte wurden unter anderem der Richter und Chronist Schigi Qutuqu sowie Ögedei Khan selbst vorgeschlagen, doch keine dieser Zuschreibungen ist gesichert. Eine Verfasserschaft durch einen Mönch oder ein unmittelbarer Auftrag Dschingis Khans ist nicht belegt.
+
+Eine frühe Fassung wird häufig in die Jahre 1228 oder 1229 gesetzt; andere Forschungen nehmen eine spätere Fertigstellung oder umfangreiche Überarbeitungen an. Die erhaltene Gestalt des Werkes enthält verschiedene redaktionelle Schichten und wurde durch eine chinesische Lautumschrift aus der frühen Ming-Zeit bewahrt. Als ältestes umfangreiches Werk in mongolischer Sprache verbindet die Chronik Genealogie, epische Dichtung, politische Erinnerung und historische Erzählung.
+
+## Impressum
+
+Die Geheime Geschichte der Mongolen
+
+Anonym
+
+Eine mongolische Chronik des 13. Jahrhunderts
+
+Quellsprache: Mittelmongolisch, überliefert in chinesischer Lautschrift
+Entstehungszeit: 13. Jahrhundert
+
+Diese Ausgabe ist eine neue deutsche Übersetzung auf Grundlage der japanischen Übertragung von Naka Michiyo (1907) aus der chinesischen Lautumschrift. Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft.
+
+Herausgegeben von der Motivatier Hermann Stiftung
+Übersetzung und editorische Einrichtung: Motivatier
+
+© 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte und Covergestaltung.
+
+Das ursprüngliche chinesische und japanische Ausgangsmaterial ist gemeinfrei. Rechte an dieser Ausgabe bestehen, soweit sie die neue deutsche Übersetzung, die redaktionellen Ergänzungen, die Gestaltung, das Cover und die konkrete Einrichtung des Textes betreffen.
+
+Alle Rechte an dieser Ausgabe vorbehalten.
+
+# Einleitung {#gruppe-joron}
+
+## 0stes Kapitel {#kapitel-000 .chapter-heading .centered}
+
+**Einleitung**
+
+[2]
+
+**Einleitung zur Dschorion-Übersetzung.**
+
+Die erste Handschrift, die ich übersetzte, war eine lagernische Handschrift. Darin bedeutet "oder" "alle". Dieses Buch hieß ursprünglich in der übersetzten mongolischen Schrift *Mongholun Niucha Tobchaan*, auf Deutsch also "Geheime Geschichte". Es ist *Monghol un* – *Monghol* ist "Mongole", *un* ist die Genitivendung – *Niucha* bedeutet "geheim" oder im Mongolischen "verborgen", und *Tobchaan* (richtig *Tobchyan*, auch *Tobchiyan* geschrieben, *Tobchiyan* bedeutet "Kurze Zusammenfassung" oder "Chronik") ist die "Chronik der Mongolen", also die "Geheime Geschichte der Mongolen". Sie wurde am Ende der Regierungszeit des Kaisers Taizong verfasst, als sich der Hof am Fluss Keluren, auf der Insel zwischen den Flüssen, befand. Das Jahr war das zwölfte Jahr der Yuan-Ära, das Jahr der Ratte, das erste Jahr des Kaisers Shijō Tennō, das vierte Jahr des Kaisers Lizong, das Jahr 1240, das Jahr des Feuerpferdes (Bingwu) oder früher. Die Insel im Fluss, Kodege Insel, ist eine Flussinsel. Der Khan-Palast (Ord) war die Residenz des Kaisers Taizu. Die auf dem Großen Reichstag abgehaltene Versammlung war der Reichstag jener Zeit, und die kaiserlichen Erlasse, die dabei erlassen wurden, dürften von hohem Wert sein.
+
+Dieses Buch ist in zwölf Teile geteilt. Die ersten zehn Bände behandeln die Zeit von den Vorfahren bis zur Thronbesteigung und enden vor dem Jin-Reich. Der abschließende Band, betitelt "Fortsetzungsband", behandelt den Beginn des Jin-Reiches. Nach dem Jin-Reich fasst der Kaiser selbst seine vier Erfolge und vier Fehler in einem kaiserlichen Erlass zusammen. Die zehn Bände des Hauptteils reichen bis zur Song-Dynastie. Die zwei Bände der Fortsetzung wurden hinzugefügt, und am Ende des Werkes ist die Regierungszeit des Kaisers Taizong aufgeführt. Dies geschah wahrscheinlich auf direkten Befehl hin.
+
+Obwohl dieses Buch heute in chinesischen Schriftzeichen überliefert ist, gab es ursprünglich keine Nationalschrift. Als Taizu jedoch die uigurische Schrift zum Schreiben der mongolischen Sprache einführte, wie es in der Biographie des Tatatunga in der Yuan-Geschichte heißt, wurde dieser aus dem Land der Uiguren, dem Reich des Tayan Khan, hoch geschätzt. Tatatunga wurde gefangen genommen, als er das Staatssiegel und die Aufzeichnungen über Geld und Getreide bei sich trug, und zu Taizu gebracht. Taizu fragte ihn: "Du hältst Volk und Land für deinen alten Herrn? Willst du sie ihm zurückbringen?" Tatatunga antwortete: "Ich bin ein treuer Diener. Was soll ich damit?" Taizu fragte weiter: "Wozu dienen Geld und Getreide?" Tatatunga erwiderte: "Sie dienen als Beglaubigung für alles – für die Rekrutierung von Talenten und als Beweis für die Treue der Untertanen." Taizu fand dies wahr und befahl, dass von nun an Siegel verwendet werden sollten. Er fragte: "Kennst du die Schrift?" [5] Tatatunga antwortete, so gut er konnte. Daraufhin lobte ihn Taizu, ließ ihn den Kronprinzen unterrichten und machte ihn zum Lehrer. Die uigurische Schrift, von den Uiguren übernommen, die sich dem mongolischen Reich unterworfen hatten, wurde von den bedeutenden Gelehrten, die als zivile Beamte in den Dienst der Mongolen traten, verwendet. Die uigurische Schrift war also die uigurische Schrift. Es ist wahrscheinlich, dass zur Zeit des Kaisers Shizu die neue Nationalschrift noch nicht allgemein verbreitet war, sodass dieses Buch nicht in der neuen Schrift verfasst wurde. Nach den heutigen Worten, die darauf Bezug nehmen, ist es klar, dass die ursprüngliche Schrift dieses Buches unverändert geblieben ist.
+
+In der Yuan-Geschichte werden zwei Männer namens Chaghan erwähnt. Einer, aus dem Volk der Xixia, steht im 120. Kapitel; dieser ist nicht gemeint. Der hier gemeinte Chaghan, aus dem Land der Westlichen Regionen, aus Balkh, steht im 137. Kapitel. Er war ein Mann von großer Gelehrsamkeit und gutem Gedächtnis, der die Angelegenheiten aller Länder kannte. Er übersetzte den "Kaiserlichen Spiegel" (Dìfàn) und verfasste außerdem die "Aufzeichnungen zur Eröffnung des Himmels während der Heiligen Kriege" (Shèngwǔ Kāitiān Jì) und die "Zusammengefasste Chronik der Jahre" (Jìnián Zuǎnyào). Die Übersetzung des "Kaiserlichen Spiegels" aus der Zhen'guan-Ära erfolgte in die uigurische Schrift. Die Übersetzung des *Tobchiyan* in die uigurische Schrift war eine Übersetzung aus dem mongolischen Text in die chinesische Schrift. Diese "Aufzeichnungen zur Eröffnung des Himmels während der Heiligen Kriege" sind dasselbe wie das heutige "Kaiserliche Reisejournal der Heiligen Kriege" (Huáng Yuán Shèngwǔ Qīnzhēng Lù), wie später im Abschnitt über die Herkunft des Reisejournals erläutert wird.
+
+[6]
+
+Als der Kaiser Mingzong die Kompilation in Auftrag gab, hieß es: "Die Geschichten der aufeinanderfolgenden Dynastien sind noch nicht alle gesammelt. Wenn man die Chroniken verfasst, muss man sich auf die tatsächlichen Ereignisse stützen. Die Chroniken dürfen nicht nach außen dringen; sie dürfen auch nicht mit den Nationalschriften über den Kaiser Taizu vermischt werden. Das *Tobchiyan* des Tashihaiya darf nicht in die Hände von Außenstehenden gelangen." So hieß es. Und so geschah es.
+
+*Tobchiyan* ist auch eine Kurzbezeichnung, die dem ursprünglichen Text dieses Buches hinzugefügt wurde. Der Grund für die angebliche Korrektur wird später im Abschnitt über die korrigierte Geheime Geschichte erläutert. Obwohl es hinzugefügt wurde, blieb die Geheime Geschichte als Geheime Geschichte im Inneren Palast und verbreitete sich nicht unter Außenstehenden.
+
+Als der Kronprinz Aratnadara eingesetzt werden sollte, hieß es: "Man rief die Gelehrten Alintemür und Huduludumishi zusammen, um den Kronprinzen, den ältesten Sohn des Kaisers Mingzong (des Bruders des Kaisers Wenzong), zu belehren. Man sagte, der Kronprinz habe mit der Kaiserin Babusha, die mit dem älteren Bruder (dem Kaiser Mingzong) in Verbindung stand, einen Sohn gezeugt, und ließ diese Angelegenheit in die Geheime Geschichte schreiben." Auch wenn Chaghan die Bücher des Kaisers Taizong, wie die "Aufzeichnungen über die Unterwerfung der Jin" und dergleichen, einsah, so scheint es, dass die Geheime Geschichte die Ereignisse der Kaiser Taizu und Taizong behandelt. Die Bücher über die aufeinanderfolgenden Dynastien [7] – es gab Menschen, die in der Welt nur Bruchstücke und fragmentarische Aufzeichnungen sahen. Als in der Ming-Dynastie, im zweiten und dritten Jahr der Hongwu-Ära, Wang Yi auf Befehl die Kompilation vornahm, waren die "Chroniken der dreizehn Dynastien", von denen es hieß, sie seien in die Geheime Bibliothek gelangt, die in der Yuan-Dynastie "nicht der Öffentlichkeit zugänglich" waren. Auch die Geheime Geschichte der aufeinanderfolgenden Dynastien, die in Peking und Nanjing in den Geheimen Bibliotheken fortgeführt wurde, war in den Händen von niemandem, der die uigurische Schrift der damaligen Zeit verstand. Als Referenz für die Geschichtsschreibung verwendete man direkt die "Aufzeichnungen zur Eröffnung des Himmels während der Heiligen Kriege", die Chaghan für die "Grundlegenden Aufzeichnungen des Kaisers Taizu" übersetzt hatte. Die im siebten Jahr der Dade-Ära vorgelegte Chronik des Kaisers Taizu war großenteils eine phonetische Übersetzung des ursprünglichen Lautes, wobei auf der rechten Seite jedes Wort in die Volkssprache übersetzt wurde. Am Ende wurden Stellen, die nicht abgeschlossen waren, abgetrennt und in die Volkssprache des Haupttextes übersetzt, wobei der Eintrag etwa drei Zeichen länger war als der Haupttext. Die Übersetzung ist ein Text, der die chinesische Lautübersetzung, die chinesische Volkssprachübersetzung und die chinesische Volkssatzübersetzung umfasst. Die heutige Handschrift umfasst sechs Bände. [8] Die zehn Bände des Hauptteils sind fünf Bände. Die Übersetzung wurde von jemandem angefertigt, der die Sprache des Kaisers Taizu aus der Ming-Dynastie verstand. Der Name stammt aus jener Zeit. Zheng Xiao sagte im fünfzehnten Jahr der Hongwu-Ära, dem Jahr des Feuerhundes (Bingxu), dass der kaiserliche Dozent der Hanlin-Akademie und andere den Auftrag erhielten, die Übersetzung anzufertigen. Sie verwendeten dafür die Schriftzeichen des Gaochang-Reiches. Sie übersetzten die Himmelskunde, Geographie, Kleidung, Speisen, Gebrauchsgegenstände und alles andere, was nicht vollständig aufgeführt war. Sie ließen die Geheime Geschichte in Abschnitte unterteilen, deren Schriftzeichen nach dem Klang der Laute ausgewählt wurden. Da die Lautübersetzung bereits existierte, konnten die Gelehrten der Nördlichen Wüste alle die Bedeutung erfassen. Gu Yanwu und Zhang Mu sagten im fünfzehnten Jahr der Hongwu-Ära, dem Jahr des Feuerhundes (Bingxu), und auch in anderen Werken. Die allgemeine Gelehrsamkeit des Russen Palladius – wir haben noch keine Gelegenheit gehabt, sie einzusehen. Gaochang ist ein Ortsname. Er sagte, die uigurische Schrift sei allmählich zur mongolischen Schrift geworden. Das ist nicht der Fall. Daher wird in der Yuan-Geschichte die uigurische Schrift genommen, um die Yuan-Dynastie zu schreiben, und ihre Schriftzeichen werden verwendet, um die Laute und die Phonetik anzupassen. Das Buch "Chinesisch-Barbarische Übersetzungswörterbuch" (Huáyì Yìyǔ) übersetzt die Bedeutung des Mongolischen ebenfalls mit chinesischen Schriftzeichen. Daher wurde zuerst die Geheime Geschichte in Laut-, Wort- und Satzübersetzung übertragen. Die Geschichte liegt nicht vor, aber wenn man die Mongolen betrachtet, werden die Orte, die mehrfach genannt werden, in der Übersetzung aufgeführt, die anderen Orte werden weggelassen, da sie nur wenige Personen betreffen.
+
+In der Wort- und Satzübersetzung werden die Mongolen (Monghol) und die Tataren (Dada) unterschieden. Die Hauptstadt Zhongdu (Chungdu) wird als Beiping (Nördlicher Frieden) übersetzt, die Hauptstadt der Jin, das heutige Qara'iyin (Rechte Seite), wird als Nanjing (Südliche Hauptstadt) und Bianliang (Kaifeng) übersetzt. Daraus lässt sich schließen, dass die Bezeichnung Zhongdu als das heutige Beiping (Nördlicher Frieden) mit Sicherheit vor der Zeit des Kaisers Chengzu (Yongle) liegt. Auch in der Lautübersetzung gibt es Fälle, wo zwei Personen als eine Person (Neudai) eines Stammes (Neudai) oder als Tatar (Alchi Tatar) und Jalinbukha (Tatar) des Tatar-Stammes, oder als Onghirat (Dergek-emel) und Dergek, oder als Naiman (Guchunt Naiman) und Buirukh Khan (Naiman) des Naiman-Stammes, oder als König Merik (Kaiser Merik) der Westlichen Regionen, der in der Lautübersetzung als Merik Khan bezeichnet wird, [10] wobei viele Fehler wie bei der Verwechslung von General Toshihito und Fujiwara no Hidesato oder der Verwechslung von kaiserlichen Familienmitgliedern vorkommen, wie sie in der alten Geschichte üblich sind. Gu Guangqi spricht von einem "Rest-Yuan-Druck der Geheimen Geschichte" und einem "alten Manuskript" und sagt, dass der Rest-Yuan-Druck der Geheimen Geschichte und die alte Handschrift aus der Yuan-Dynastie fast bis zur Ununterscheidbarkeit übereinstimmen. Die Leute hielten diese Übersetzung für dasselbe Werk, das nur frühzeitig gut überliefert wurde. Dieses Manuskript stammt aus der frühen Ming-Dynastie. Daher wird es auch als "Beiping (Nördlicher Frieden), Bozhou" bezeichnet.
+
+In der Ming-Dynastie, in der Ära Nianzhou, wurden alle alten und neuen Schriften gesammelt, und die Auswahl wurde getroffen. Der gesamte, fünfzehn Bände umfassende Text, einschließlich der Aufteilung des Fortsetzungsbandes und der Anzahl der Seiten, wurde unterteilt. Das Verzeichnis der "Halle der Tausend Bücher" (Qiānqǐngtáng Shūmù) der Ming-Dynastie führt die "Geheime Geschichte der Yuan-Dynastie" in zwölf Bänden auf. Das Verzeichnis der "Halle der Wohlklingenden Literatur" (Wényuān Gé Shūmù) [11] führt ebenfalls die "Geheime Geschichte" auf. Die Handschrift ist jedoch anders. Die Zusammenfassung des Verzeichnisses der nicht gesammelten Bücher der "Vier Schätze" (Sìkù Wèishōu Shūmù Tíyào) sagt, dass die Geheime Geschichte der Halle der Wohlklingenden Literatur "noch nicht vollständig" sei. In der Qing-Dynastie, im neunten Band, der die Übersetzung der Geheimen Geschichte in der kleinen Einleitung enthält, heißt es: "Die Geheime Geschichte der Yuan-Dynastie umfasst zehn Bände, die Fortsetzung der Geheimen Geschichte zwei Bände. Die ersten Bände enthalten die Ereignisse, die Fortsetzungsbände enthalten die Ereignisse der Vernichtung. Die Leute des Landes haben sie verfasst. Das Buch wurde im Kaiserpalast aufbewahrt und nicht verbreitet. Es wurde von den alten Familien weitergegeben. Ich habe es gesehen und die Aufzeichnungen fortgesetzt, um die Lücken zu füllen." Dies wird von Gelehrten kritisiert, die sagen: "Wenn man alle diese ursprünglichen Schriftzeichen und Reime im Haupttext überprüft, dann zur Zeit der Qing-Dynastie. In der Ming-Dynastie wurde das Buch aufgezeichnet, mit einer sekundären Überlieferung versehen und ist im Umlauf. Die darin aufgezeichneten Kleinigkeiten, die oft absurd sind, haben sich durch die Überlieferung verändert und sind nicht vollständig erhalten. Dennoch haben sie am Ende die Yuan-Dynastie untersucht. Die Welt hat selten so etwas gesehen. Außerhalb dieses Buches gibt es die "Mongolische Quelle" (Monghol un Niucha Tobchaan), die mit der "Geheimen Geschichte der Yuan-Dynastie" (Yuanchao Mishi) übereinstimmt. Die wenigen überlieferten Hörensagen, die verglichen werden können, zeigen, dass die Geheime Geschichte noch nicht vollständig bekannt war."
+
+In der Jiading-Ära der Ming-Dynastie wurde die Abschrift gern für die wahre Reihenfolge gehalten, und die aufgezeichneten Absurditäten wurden als Fehler angesehen. Alle diese Aufzeichnungen reichen aus, um die Abweichungen in der Yuan-Geschichte zu diskutieren. [12] Qian Daxin, ein Gelehrter der Yuan-Geschichte, erhielt nach der Beschaffung der Geheimen Geschichte aus der Großen Enzyklopädie (Yongle Dadian) die Nachricht, dass diese Dadian-Ausgabe das echte Manuskript sei. In der Yuanhe-Ära besaß der Shaojian (Vize-Präsident) des Bildungsministeriums ein Exemplar, das aus dem Haus des Herrn Tongxiang, des Goldministers Deyu, stammte. Es war nicht identisch mit dem anderen. Er bat um eine Abschrift. Die "Kunst- und Literatur-Annalen" (Yìwén Zhì) sagen: "Dieses Werk ist es." In der Abteilung der "Vermischten Geschichtswerke" (Záshǐ Lèi) werden die "Geheime Geschichte der Yuan-Dynastie" in zehn Bänden und die "Fortsetzung der Geheimen Geschichte" in zwei Bänden aufgeführt, ohne dass der Verfasser genannt wird. Sie reicht bis zur Vernichtung durch den Kaiser Taizong. Die "Nationale Schrift mit Nebentext" (Guóyǔ Pángyì) bedeutet, dass der Haupttext eine Lautübersetzung des Mongolischen in chinesischen Schriftzeichen ist, wobei die Übersetzung weggelassen wird, und auch die Angelegenheiten der Übersetzung im Nebentext nicht enthalten sind. Ruan Yuan sagt: "Die Geheime Geschichte der Yuan-Dynastie in fünfzehn Bänden ist eine Aufzeichnung der Ereignisse der Yuan-Dynastie. Die Leute des Landes haben sie aufgezeichnet. Sie wurde nach der Abschrift angefertigt, mit der nationalen Schrift und dem Nebentext versehen, und zeichnet die Ereignisse der Yuan-Dynastie auf. Sie wurde von Song Lian in der Ming-Dynastie für die Kompilation der Yuan-Geschichte verwendet. Die Aufzeichnungen der Ereignisse sind zwar vollständig, aber die Zeit war knapp. In dieser Ausgabe sind die Ereignisse vor der Regierungszeit des Kaisers Taizu in elf Generationen aufgeführt. Die grundlegenden Aufzeichnungen des Kaisers Taizu beginnen erst mit der Zeit seiner Thronbesteigung. Solche Dinge reichen aus, um die Lücken der offiziellen Geschichte zu füllen. Ohne Ausschmückung, aber für den Leser sind sie eine wertvolle Ergänzung." Daher sagt man, dass die alte Handschrift in fünfzehn Bänden auch außerhalb der Großen Enzyklopädie existierte. Wenn man jedoch das Gegenteil behauptet, dass die alte Handschrift auf dem alten Manuskript beruht, dann gab es auch außerhalb der Großen Enzyklopädie alte Handschriften in fünfzehn Bänden. Wenn man jedoch zuviel redet, so sind die Ereignisse vor Bodonchar alle in der späteren Geheimen Geschichte enthalten, und jedes Detail reicht aus, um die Lücken der Yuan-Geschichte zu füllen. Dennoch werden diese großen Ereignisse als ein Beispiel angeführt, während die ersten drei oder vier Bände des Werkes zweifelhaft sind. Ich, mit scharfem Auge, habe den Restdruck von Gu Guangqis Geheimer Geschichte gesehen, den er einst mit sich führte. Ich habe ihn zwar flüchtig gesehen, aber keine Abschrift erhalten. Ich konnte nicht nach Hause zurückkehren. Ich beauftragte den Magistrat von Luzhou, Herrn Zhang, einen Beamten aus Jinjiang, der mir die Abschrift der alten Handschrift des Yuan-Drucks zeigte. In diesem Jahr, in Yangzhou, bat ich ihn um eine Kopie. Er ließ mich eine Kopie anfertigen. Ich kollationierte sie und stellte fest, dass sie mit der Ausgabe des Shaojian (Vize-Präsidenten) übereinstimmte. Die "Geheime Geschichte der Yuan-Dynastie" in zehn Bänden und die "Fortsetzung" in zwei Bänden sind nicht nur das. Unter dem Titel stehen zwei Zeilen, die bei der Ausgabe des Shaojian fehlen. Daher können die Wörter und Sätze korrigiert werden, und sie sind auch etwas besser. Sie kann als überlegen bezeichnet werden. Nachdem ich die Kollation der Abweichungen in der Yuan-Geschichte abgeschlossen hatte, schrieb ich eine Abhandlung darüber. Hier nur die Tatsache, dass Gu Guangqi den Namen des Verfassers fälschte. Dies ist eine Arbeit, die von jemandem, der die mongolische Sprache nicht versteht, nicht geleistet werden kann. Dieser Verdienst gebührt in der Daoguang-Ära Zhang Mu, der die Übersetzung der Geheimen Geschichte aus der Großen Enzyklopädie holte, mit dem Herrn Han kollationierte, in einer Sammelausgabe veröffentlichte, und der Steindruck in Shanghai den "Changchun-Wahren-Mann" von Zhang Mu leicht zugänglich machte. Die vollständige kollationierte Ausgabe jedoch, die gesuchte, gelangte durch verschiedene Hände schließlich zu Sheng Yu. Der Hanlin-Gelehrte Wen Tingshi, aus Shunde, und Wen Tian, und Wen Tingshi – "im ganzen Reich gibt es jetzt drei Exemplare", sagte er. Zuerst wollte ich einen Kommentar verfassen, machte den Haupttext zur Grundlage, und verwendete die Ausgabe von Zhang Dunren als Referenz. Ich ließ eine Abschrift anfertigen und sagte, dass unter dem Text Zwischenbemerkungen vorhanden seien, die auf die Ausgabe von Gu zurückgehen. Herr Li lieh sich zuerst die Ausgabe von Zhang aus und schrieb später die Ausgabe von Sheng Yu ab. Die Kommentare von Herrn Li sind fertiggestellt und liegen auf dem Schreibtisch bereit. Sie sind von großem Nutzen, aber es gibt noch einige Stellen, die nicht abschließend geklärt sind. [15]
+
+Im 32. Jahr der Meiji-Ära (1899), nachdem Wen Tingshi aus dem Hirschen-Geweih-Gebirge zurückgekehrt war, suchte und erbat er die mongolische Geheime Geschichte. Da Tingshi jedoch bald darauf in den Unruhen verschwand und keine Nachricht mehr von ihm kam, sandte er im 34. Jahr (1901) eine stattliche Handschrift in sechs Bänden an einen Bekannten in Osaka, der eine Kopie anfertigen ließ. Auch die Waseda-Universität in Tokio besitzt eine Kopie. Auf der Welt gibt es also sechs Exemplare, die noch in weiter Ferne existieren. Ein Teil davon befindet sich in China, ein großer Teil der Welt wird noch damit versorgt. Der russische Erzpriester Palladius, der sich in der Hauptstadt aufhielt, veröffentlichte in der "Lianjinyi"-Einleitung und der Genealogie des Dschingis Khan die "Geschichte der Mongolen" (Mongoru Monogatari) im Jahr 1866, dem fünften Jahr der Tongzhi-Ära, dem zweiten Jahr der Keiō-Ära, unter dem Titel "Missionsreise". Später, im Jahr 1872, dem elften Jahr der Tongzhi-Ära, dem fünften Jahr der Meiji-Ära, erhielt er zufällig die fünfzehn Bände der Lautübersetzung des Mongolischen in chinesischen Schriftzeichen und erkannte, dass es sich um eine auszugsweise Übersetzung handelte. [16] Da es sich um eine Handschrift des Ming-Drucks in fünfzehn Bänden handelte, sagte Ruan Yuan: "Nach der Abschrift sind viele Fehler im Titel und in den Zeichen vorhanden. Die heutige Ausgabe in zwölf Bänden, die Palladius besitzt, ist für jemanden, der die chinesischen Schriftzeichen und die mongolische Sprache versteht, nicht schwer, den ursprünglichen Text der mongolischen Schrift wiederherzustellen." Er vermutete auch, ob es sich um ein separates *Tobchiyan* handele, und nahm es in die "Kunst- und Literatur-Annalen" der Yuan-Dynastie auf. Palladius jedoch stellte es richtig fest. Das "wertvolle Buch, das die mongolische Geschichte bereichert", ist heute in der Bibliothek des erfahrenen Pozdneev, der es im Originalzustand, also wie die mongolische Schrift in chinesischen Schriftzeichen geschrieben ist, mit einem russischen Kommentar versehen und zur Veröffentlichung bringen will. Mehr als die Hälfte ist bereits gedruckt und verteilt. Ob dies der Fall ist oder nicht, die Armee, die Forschung, die Länder der Ferne – die Armee und das Scheitern der östlichen Expansion, die guten Beziehungen zu Großbritannien und die Befriedung Asiens – all dies sind große Länder.
+
+Es ist ein altes Buch, das viele Beziehungen hat. Die Zusammenfassung der "Vier Schätze" (Sìkù Quánshū Tíyào) [17] spricht über den Verfasser und sagt: "In der Geschichte, im vierten Jahr der Zhongtong-Ära, besuchte Wang E die Historiker und suchte nach den Aufzeichnungen über Kaiser Taizu. Es ist zweifelhaft, ob die damaligen Beamten, die auf die Anweisung drängten, etwas damit zu tun hatten. Nichts davon ist mit der Geschichte der Mongolen, der *Jami' al-tawarikh* (Sammlung der Geschichten) der Westlichen Regionen, die Ghazan und Oljaitu dienten, zu vergleichen. In ihrer Erzählweise jedoch gleichen sie sich wie die zwei Hälften eines Siegels. Man findet keine Erzählung in der Geschichte von Rashid al-Din, die nicht auch in diesem Buch vorkommt. Und die Erzählungen dieser beiden Bücher scheinen größtenteils auf derselben mongolischen Geheimen Geschichte zu beruhen. Wenn dem so ist, dann wurden die beiden Bücher von jemandem verfasst, der Zugang zur Geheimen Geschichte hatte. Das Reisejournal (Qīnzhēng Lù) hingegen ist, wie die Zusammenfassung sagt, nicht als eine dem Kaiser vorgelegte Schrift anzusehen. Der Name "Aufzeichnungen zur Eröffnung des Himmels während der Heiligen Kriege" (Shèngwǔ Kāitiān Jì) wurde später verwendet. Sein Inhalt scheint auf der Geheimen Geschichte zu beruhen. Daher ist es nicht falsch zu sagen, dass das Reisejournal dasselbe ist wie die "Aufzeichnungen zur Eröffnung des Himmels" und dass es in der Zwischenzeit überarbeitet wurde. In der Qing-Dynastie, in Shao Yuanpings "Klassifizierte Geschichte der Yuan-Dynastie" (Yuánshǐ Lèibiān), werden drei Namen für ein Ding genannt: Die "Aufzeichnungen zur Eröffnung des Himmels während der Heiligen Kriege" der Yuan-Dynastie wurden zu Beginn der Qing-Dynastie zum "Kaiserlichen Reisejournal der Heiligen Kriege" (Shèngwǔ Qīnzhēng Jì), wobei der Titel oben hinzugefügt wurde. [18]
+
+Das Reisejournal wurde von der Salztransportverwaltung der Lianghuai-Region erworben und dem Inneren Palast übergeben. Es wurde vielfach abgeschrieben. Xu Song erhielt es in der Daoguang-Ära. Zhang Mu lieh sich die Sammlung aus dem Haus des Daxing-Clans und ließ sie von He Qiutao bearbeiten. Im 20. Jahr der Guangxu-Ära (1894) ließ der Bezirksrichter He, der die bearbeitete Ausgabe besaß, sie von Yao Shida unter dem Titel "Korrigiertes Kaiserliches Reisejournal der Yuan-Dynastie" (Xiàozhèng Yuán Qīnzhēng Lù) veröffentlichen. Li Wentian und Shen Zengzhi kommentierten sie, und Long Fengbiao veröffentlichte die beiden Kommentare zusammen mit der Ausgabe von He. Auch zu diesem Reisejournal war Russland früher dran als China. Palladius erhielt eine Abschrift der von He korrigierten Ausgabe des Reisejournals, übersetzte sie ins Russische und veröffentlichte sie im Jahr 1872, dem fünften Jahr der Meiji-Ära, dem elften Jahr der Tongzhi-Ära, mehr als zwanzig Jahre bevor die Ausgaben von He, Li und Shen veröffentlicht wurden. Der östliche Rashid al-Din (Rashid eddin) wurde im zweiten Jahr der Dingzong-Ära (1247), dem ersten Jahr der Hōji-Ära unter Kaiser Gosaga, geboren, diente Ghazan Khan, wurde im zweiten Jahr der Dade-Ära (1298), dem sechsten Jahr der Einin-Ära unter Kaiser Fushimi, zum hohen Beamten (Shangshu) ernannt, und sammelte zu dieser Zeit auch die Aufzeichnungen. Er legte sie Oljaitu vor, wurde im fünften Jahr der Yanyou-Ära (1318), dem zweiten Jahr der Bunpō-Ära unter Kaiser Hanazono, getötet. Der Sohn von Oljaitu Khan schrieb das Werk auf Persisch, dessen Titel *Jami' al-tawarikh* (Sammlung der Geschichten) [19] bedeutet. *Jami'* ist "Sammlung", *al-tawarikh* ist "Geschichten". Es ist eine Sammlung der Geschichten der verschiedenen Völker und ihrer Heldentaten. Die Regierungszeit des Kaisers Dingzong wird kurz skizziert, die der beiden Kaiser Chengzong und Wuzong werden am kürzesten behandelt, die der späteren Kaiser ausführlicher. Zu jener Zeit waren die mongolischen Geschichten, die in der Geheimen Bibliothek aufbewahrt und zur Einsicht freigegeben wurden, das *Altan Depter* (Goldene Buchrolle), die mongolische Geschichte, die in der Schatzkammer lag und von einem Verwalter der Hauptstadt bewahrt wurde. Diese wurden als Referenz verwendet. Auch Gelehrte aus Indien und anderen Ländern, insbesondere der Kanzler Pulad, halfen dabei. Der Kanzler Pulad war ein Feldherr, der die alten Überlieferungen und Geschichten der östlichen Völker, besonders die der Mongolen, besser kannte als jeder andere. Seine Werke dienten auch als Grundlage für viele mongolische Geschichten.
+
+Der Verfasser der *Jami' al-tawarikh*, Rashid al-Din, war ein Mann aus den Westlichen Regionen, der sich den Nachnamen "aus dem Hause ..." zulegte. Sein Vater, Bahail eddin Mohammed Juveni, stammte aus dem Hause Alai eddin. Als der Vater zum Großen Reichstag ging, half er dem Wesir Fakhal uddin. Fakhal uddin, Bahail eddin und Alai eddin – letzterer starb, als er während des Westfeldzuges die militärischen Dokumente verwaltete, nachdem die Westlichen Regionen befriedet waren. [20] Seine mongolische Geschichte trägt den Titel *Ta'rikh-i jahangushay* (Geschichte des Welteroberers). *Ta'rikh* bedeutet "Geschichte", *jahangushay* bedeutet "Welteroberer". Das Werk ist in zwei Teile geteilt. Der zweite Teil schildert ausführlich die Ereignisse der letzten zehn Jahre, die Regierungszeit der Kaiser Taizong und Dingzong, die Anfänge der Regierung des Kaisers Xianzong, die Ereignisse unter den Kaisern ... und die Feldzüge der Kaiser Taizu und Taizong. Es endet mit dem Westfeldzug von Hulagu.
+
+d'Ohsson verfasste auf der Grundlage von Rashid al-Dins *Jami' al-tawarikh* eine mongolische Geschichte, deren erste Auflage 1824, dem siebten Jahr der Bunsei-Ära unter Kaiser Ninkō, dem vierten Jahr der Daoguang-Ära der Qing-Dynastie, erschien. Es handelte sich jedoch nicht um eine Übersetzung von Rashid al-Dins Werk. Berezin in St. Petersburg beabsichtigte, das gesamte Werk Rashid al-Dins ins Russische zu übersetzen. Der erste Band, der den ursprünglichen Text der Sprache und die Beschreibung der verschiedenen Länder und Stämme der Mongolen enthält, 392 Seiten, erschien 1858, dem fünften Jahr der Ansei-Ära unter Kaiser Kōmei, dem achten Jahr der Xianfeng-Ära der Qing-Dynastie. Der dritte Band, der die Zeit von den Vorfahren der Mongolen bis zum ersten Jahr des Kaisers Taizu behandelt, beginnt mit den Taten des Kaisers Taizu und endet damit. Ob die weiteren drei Bände [21] erscheinen werden, ist unbekannt. Vor Berezin gab es noch andere, doch keiner konnte es mit ihm aufnehmen. Er verwendete nicht nur die östlichen Quellen, sondern seine Kenntnisse der Sprachen Ostasiens waren eine große Hilfe beim Verständnis der Aufzeichnungen der Menschen.
+
+Die *Jami' al-tawarikh* (Sammlung der Geschichten) enthält viele Unternehmungen und Vergleiche, die größtenteils aus dem Gedächtnis von Pulad stammen. Die Westfeldzüge der Kaiser Taizu und Taizong stützen sich fast vollständig auf die Geschichte von Juveni. Wenn dem so ist, worauf beruhen dann die Stellen in der *Jami' al-tawarikh*, die mit dem Reisejournal übereinstimmen? Hong Jun sagt, dass der Verfasser der *Jami' al-tawarikh*, Rashid al-Din, das *Altan Depter* (Goldene Buchrolle), also die kaiserlichen Aufzeichnungen, die er persönlich gesehen habe, als Grundlage verwendet habe. "Wenn man sie nun mit dem Reisejournal vergleicht", so Hong Jun, "dann erkennt man, dass das Reisejournal tatsächlich eine Übersetzung des *Tobchiyan* ist, das damals an die Fürstenhäuser verteilt wurde. Die Texte unterscheiden sich im Osten und Westen, wie können sie dann so übereinstimmen?" [22] Mit "Goldene Buchrolle" ist das *Tobchiyan* gemeint, und die Abschrift des *Tobchiyan* ist die Goldene Buchrolle. Diese Theorie trifft zu. Wenn dem so ist, dann ist die Goldene Buchrolle die Geheime Geschichte, und der Titel *Altan Depter* ist ihr Beiname. Was die Aufzeichnungen von Chaghan betrifft, so sind sie die zwei vereinsamten Söhne. Wenn es schon schwer ist, Freunde nach Jahrzehnten wiederzutreffen, wie viel mehr ist es da eine Freude, die Worte über die Jahrhunderte hinweg aufeinander treffen zu sehen!
+
+Wenn die beiden Bücher auf derselben Geheimen Geschichte beruhen, ist dann diese Geheime Geschichte das Original der heutigen Geheimen Geschichte? Die Antwort darauf ist: Wenn die übereinstimmenden Stellen mit der heutigen Geheimen Geschichte übereinstimmen, dann ist die damalige Geheime Geschichte das Original der heutigen. Wenn nicht, dann ist sie es nicht. Man sehe, ob sie übereinstimmen oder nicht. Nach der heutigen Geheimen Geschichte sind es mehr als zwanzig Jahre, seit Yesugai von den Tataren getötet wurde und Mutter und Sohn allein zurückblieben, bis zu den Kämpfen Temüdschins. In der Geheimen Geschichte wird die Zeit der Not und der Erziehung ausführlich beschrieben. Temüdschin und Qasar töteten Bekter gemeinsam, litten große Not unter den Taichiguten, wurden von dem Räuber Boorchu gerettet, der zu einem treuen Gefolgsmann wurde, und Temüdschin holte Börte heim. Temüdschin ehrte seinen Freund Dschamucha sehr. [23] Die Tataren, Börte, Wang Khan – die beiden besiegten sie und kehrten zurück. Temüdschin lagerte mit seinem Heer, und schon bald trennte er sich von Dschamucha und wurde schließlich zum Dschingis Khan. Die zwei Bände schließen sich nahtlos an die Kindheitsereignisse an, die mit der Schlacht der Dreizehn Heere enden. In der Schlacht der Dreizehn Heere werden in den beiden anderen Büchern die Namen der Heerführer und Stämme aufgelistet, die in der Geheimen Geschichte fehlen. In der Geheimen Geschichte siegte Temüdschin in der Schlacht der Dreizehn Heere. In den beiden anderen Büchern gibt es Berichte von Unterwerfungen, die in der Geheimen Geschichte fehlen. Bei einem Festmahl kam es zu Streit. Die Selbsthilfe gegen die Taichiguten, die Schlacht bei Khizilbashi und Khulaankhut, der Schwur am Fluss Tuula – all dies findet in der Geheimen Geschichte nach der Vereinigung der elf Stämme statt, während in den beiden anderen Büchern die Namen der Stammesführer und die Versammlung nach der Schlacht bei Khoiten und der Unterwerfung der Tataren stattfinden. Die kategorische Rüge, die Kurzheit und Direktheit – in den beiden anderen Büchern wird die Mutter Gurbesu von Tayan Khan als Mutter des Naiman-Stammes dargestellt, und die ausführliche Schilderung der Rede Dschamuchas in den beiden anderen Büchern findet in der Geheimen Geschichte kein einziges Wort. Bei der Krönung verwendet die Geheime Geschichte eineinhalb Bände für die Institutionen, Belohnungen und viele Details, was einen Unterschied zu den anderen Büchern darstellt.
+
+Doch finden sich auch sehr viele Stellen, an denen der Satzbau und der Wortlaut der beiden genannten Werke mit der gegenwärtigen Geheimen Geschichte übereinstimmen. Was die zehnte Stelle betrifft: Die von Ma-u [= Mahmud?] vorgetragenen Worte „die Wolke, die Mutter, das Wasser“, wie Bretschneider diesen Satz aus Raschid ed-Din übersetzt – er sagt: „Dieser Satz klingt wie eine Übersetzung aus der Yuan-chao Pi-shi, und die Belege aus Raschid ed-Din und anderen Quellen lassen sich auch sonst bestätigen.“ Das Ende dieses Abschnitts, das Jahr 12 des Ögedei Khan, liegt 67 Jahre vor dem Jahr 11 des Großteils der Dschami' at-tawarich unter Chengzong. Nimmt man ferner an, dass das Zhengji in zehn Bänden zur Zeit des Taizu entstand, dann gab es wohl auch noch keine Aufzeichnungen, die zwanzig Jahre oder einige Jahre lang die uigurische Schrift kannten. Jenes Buch [25] aber ist die Quelle aller mongolischen Aufzeichnungen. Daher ist nicht die Geheime Geschichte und die Dschami' at-tawarich als gleichrangig zu betrachten, sondern der ursprüngliche Text der Geheimen Geschichte ist die Grundlage der Dschami' at-tawarich, und der Grund für die Kürzungen bei Yesügei im Shengwu qinzheng lu ist ebenfalls derselbe. Die Armut, die Gefangenschaft, die geraubte Frau, die Schande, Wang Khan als Vater zu behandeln, die beiden späteren Wohltäter als Brüder zu betrachten, der Sieg in der großen Schlacht der Dreizehn – der Grund ist klar. Dass Taizu beim Gastmahl kämpfte, mag man geändert haben, weil es sich für einen Erwachsenen nicht ziemte. Dass man die anklagenden Worte, die Schuld Dschamuchas, wegließ, liegt daran, dass der freundschaftliche Verkehr des Fragens und Antwortens bedurfte. Das andere übergehe ich jetzt, doch das Shengwu qinzheng lu, das nach Schönheit strebt, hat gerade die wahre Überlieferung verloren. Armut und Schande lassen den Erfolg fahren. Er [Taizu] hielt es geheim, und aus der Zeit von mehr als zwanzig Jahren, von der Jugend der Xuanyi-Kaiserin an, diente er ihr wie einem Vater, und weil er diese [Hilfe] empfangen hatte, suchte er später die Verleumdung zu entfernen; doch Taizu war ein Held, und die Freundlichkeit seiner Jugend war ihm wohl näher. In der Zeit des Untergangs wurde er in der Geheimen Geschichte gefangen genommen, und der Tod: Dschamucha, der als Kind aufwuchs, und später die häufigen Waffen gegeneinander – sie glichen nicht denen, die zeitlebens wie Verbündete und dann wie Fremde einander Groll öffneten. Dschamuchas Schuld zu kennen, ihn zu ehren und zu beruhigen, das rührt daher, dass die Hinrichtung Dschamuchas, wie sie ihn fliehen ließen, in Strafen und Belohnungen angemessen war und dem Weg des Herrschers entsprach; man kann sie mit Ji Bu und Ding Gong aus der Han-Zeit vergleichen. Die Milde und Gerechtigkeit, mit der Taizu sie behandelte, die Gabe und das Zeremoniell, übertrafen sogar die Behandlung Tian Hengs. Die schönen Reden, die die Geheime Geschichte ganz gestrichen zu haben scheint, fehlen in den beiden genannten Werken gänzlich. Die Erlasse und Verordnungen in der mongolischen Geschichte sind damit vergleichbar. Warum wurden diese gestrichen? Den Grund dafür kann man nicht erkennen. Dann aber ist diese Revision in der Tat vollkommen und bis heute ein glückverheißendes Ereignis. Hong Jun übersetzte die Dschami' at-tawarich des Raschid ed-Din, und als er sah, dass sie mit dem Shengwu qinzheng lu übereinstimmte, erstellte er, um die Herkunft der Dschami' at-tawarich des Raschid ed-Din und anderer Werke leicht verständlich zu machen, eine Genealogie.
+
+(Yuan-chao Pi-shi) Zur Zeit des Taizu der Yuan verfasst, Fortsetzung im Jahr 12 des Ögedei Khan. ┐
+
+┌───────────────┘
+
+├─Yuan Pi-shi, Qianqingtang shumu, 12 Bände. Ming Wenyuange shumu, 5 Hefte, 1 Heft Fortsetzung. ┬─Yuan Pi-shi, 10 Bände, Xu Pi-shi, 2 Bände. Aus der Qianlong-Zeit, in der Sammlung von Jin Deyu, als „Rest-Yuan-Druck“ bezeichnet. Die Übersetzung ist enthalten in Sun Chengzes Yuanchao diangu biannian kao, Band 9.
+││└─Yuanchao Pi-shi, 5 Hefte, 10 Bände, Xuji, 1 Heft, 2 Bände. Gesammelt von Zhang, dem Präfekten von Luzhou, als „Photographie eines alten Yuan-Drucks, alte Abschrift“ bezeichnet. ┐
+││┌───────────────┘
+││└─Abschrift von Wen Tingshi, dem kaiserlichen Prinzen. ─────Abschrift von Li Wentian. ─────Abschrift der Höheren Normalschule. ─┬─Auszug von Qian Daxin. ┐
+││┌──────────────┘
+││└─Lianjunyi-Druck, enthält die Übersetzung, ohne den mongolischen Text. ┬─Russische Übersetzung
+││├─Fugu shuju-Steindruck
+││└─Druck mit Kommentar von Li Wentian
+│└─Yuan Pi-shi, 15 Bände, nach alter Abschrift photokopiert, siehe Ruan Yuans Siku weishou shumu tiyao. ┐
+│┌──────────　┘
+│└─Pozdneyevs Revision. Der Yuan-Shi-Biographie von Chahan zufolge heißt es Tuobichiyan, in der Biographie von Yu Ji Tuobochiyan. ┐
+┌────────────────┘
+├───Taizu Shilu, im Jahr 7 von Chengzongs Dade-Zeit, vom Hanlin Guoshiyuan vorgelegt. ───Yuan-Shi, Taizu benji
+│┌─
+├───Shengwu kaitian ji, zur Zeit von Renzong, von Chahan aus Tuobichiyan übersetzt. └─
+───Shengwu qinzheng ji, zitiert in Shao Yuanpings Yuan-Shi leibian. ┐
+│┌─────────────┘
+│└─Huangyuan Shengwu qinzheng lu, von den Lianghuai-Salzbehörden eingereicht, Siku quanshu tiyao cunmu. ──Ausgabe von Qian Daxin. ┐
+│┌─────────────┘
+│└─Kollationierte Ausgabe von Zhang Mu. ──Ausgabe von Weng Fanggang. └─├─Altan depter, Jami ut Tevarikh, Tarikh Jihankushai, Berezin, d'Ohsson, Mongholun Niucha Tobchiyan. Der in die japanische Sprache übersetzte Titel ist eine entfernte Anlehnung an einen alten, lange gebräuchlichen Namen; aber wenn man „Yuanchao“ sagt, ist es nicht so beruhigend wie ein Werk, das die Geschichte einer Dynastie schreibt, wie das Yuan-Shi. Wenn man den Originaltitel mit „Mongolische Geheime Geschichte“ übersetzt, ist der Name „Mongolei“ hier, wie auch bei „Mongolische Quellen“ (Mongol Genryu), immer noch ein neuer Name; dass man einen neuen Namen gibt, hat Beispiele, also dachte ich, wenn es einen guten Namen für den alten Namen und den Inhalt gäbe, würde ich ihn gerne verwenden.
+
+Anfangs ist das Kojiki ein altes japanisches Buch, das für die Erforschung der alten Überlieferung am besten geeignet ist; aber da man es mit chinesischem Stil umschrieb und ausschmückte, wurden spätere Menschen durch diesen Stil getäuscht. Als dann alte Gelehrte auftraten und die Abweichungen benannten, erkannte man erst den Wert des Kojiki. Diesem ähnlich, ist das vorliegende Buch eine Niederschrift zur Zeit, als die Mongolen gerade die Schrift kennenlernten; es ist ein Werk, das die überlieferten Erzählungen der Katari-be usw. unmittelbar wiedergibt. Es enthält sehr viele Verse, und selbst Dinge, die die Tugend herabsetzen und die man im Herzen hätte verschweigen sollen, werden direkt niedergeschrieben. Wie im Kojiki die Geschichte von Prinz Tagishimimi, die Sache mit dem älteren Bruder, die Unterwerfung durch den Vater-Kaiser, die Geschichte von der Thronbesteigung des Sonnengottes – all dies ist nach alter Überlieferung geschrieben, so auch in diesem Buch: die Ermordung durch Gift, die Schändung der Kaiserin Xuanyi durch die Merkiten, die Verdächtigungen, die Erschießung durch Taizu, der Kampf beim Gastmahl, der Körper einer Jungfrau, wie sie einem Manne gegeben wurde – all dies wird so geschrieben, wie es war, ohne Scham. Deshalb aber wird der Zusammenhang und die Reihenfolge gezwungen, später kämpft man, und der Feind, der zuvor kam, ergibt sich später; deshalb ging auch das große Werk, die ausführliche Überlieferung, verloren. Und Chahan übersetzte dies und machte das Kaitian ji, der Taizu benji des Yuan-Shi stützt sich darauf, das Yuan-Shi leibian und alle anderen Geschichtskompendien stützen sich alle auf das Yuan-Shi. Die europäischen Historiker betrachten dies alle als die wahre Biographie Taizus. Als Hong Juns Yuan-Shi yiwen zhengbu erschien, wurde Qian Daxin dafür getadelt. So also ist die Stellung der revidierten Geheimen Geschichte. Ich wollte die Übersetzung dieses Buches „Mongolisches Kojiki“ nennen.
+
+Doch dieses Buch hat auch Gemeinsamkeiten mit dem Kojiki: Die alte Überlieferung, die es betrifft, ist 1200 Jahre vor unserer Zeit nach Gehör und Gesicht niedergeschrieben. Der Teil, der die Genealogie der Vorfahren behandelt, ähnelt sehr unserem Kojiki, aber das füllt nicht einmal den ersten Band. Das Kojiki ist eine Mythologie, dieses Buch aber ist fast ganz wahre Geschichte. Daher ist dieses Buch keine alte Geschichte, sondern eine neuere Geschichte. Es ist eine Aufzeichnung, die die alten Dinge direkt erzählt. Da es nicht anmaßend wäre, es mit unserem Kojiki zu vergleichen, und es der Form nach einem wahren Geschichtsbuch am nächsten kommt, nenne ich es jetzt nicht „Kojiki“. „Wahre Aufzeichnung“ (Jitsuroku) – seit jeher werden diese normalerweise für jeden Herrscher, für den Nachfolger verfasst; dieses Buch aber ist nicht zur Zeit eines Nachfolgers verfasst, sondern es zeichnet die Worte und Taten eher unmittelbar auf. In der Mongolei gab es keinen Beamten für die täglichen Aufzeichnungen, und alles Geschriebene wurde erst zur Zeit des Tang-Kaisers Taizong niedergeschrieben; so hebt es die Tugenden des Ahnherrn hervor. Die Shenzong Shilu, die unter Shaosheng ersetzt wurde, ist, wie die Ming-Shilu, berüchtigt für ihre Nachlässigkeiten. Auch in diesem Shilu wird der Feldzug über den Pass Juyong unter Jebe im Jahr Guiyou in zwei Teile geteilt (das sechste und das neunte Jahr), die Verlegung der Hauptstadt nach der Eroberung im Jahr Jiaxu wird als Folge des zweiten Feldzugs dargestellt, die Feldzüge des Jahres Renshen und Bingzi werden alle in das Jahr des zweiten Feldzugs gesetzt, und der kommandierende General der Belagerer wird zu Taizu selbst. Am schlimmsten ist, dass die Verfolgung der drei Generäle Jebe, Subeetai und Tokhuchar auf dem Westfeldzug nach der Unterwerfung von ... stattfindet, aber an den Anfang dieses Feldzugs gesetzt wird; die Einnahme von Semiskent findet am Anfang dieses Feldzugs statt, wird aber unter die Feldzüge gereiht. Die Darstellung der erschütternden Ereignisse ist ... kurzgefasst. Die Beamten im Norden der Wüste scheinen die verwickelten Verhältnisse des Aufstiegs und Untergangs der Xia-Dynastie im Süden im großen Zusammenhang nicht verstanden zu haben. Daher stützen sich die, welche die Epochen der beiden Kaiser Taizu und Ögedei behandeln, notwendigerweise auf dieses Buch. Was aber ist der Grund dafür, dass es [im Buch] nicht die Taten der Vorfahren enthält und das Taizu benji nur mit einem Anfang und einem Ende gesehen wird? Weil der Name Taizu im Titel steht.
+
+Warum hat man es „Yuan Dschinggis Khan Shilu“ genannt? Das ist der damals übliche posthume Titel. Es besteht der Nachteil, dass es sich um eine Zeit mehrere Jahrzehnte später handelt. Das von den Ministern vorgelegte Taizu Shilu scheint lückenhaft gewesen zu sein, und daher mied man es, den gleichen Namen wie dieses lückenhafte Werk zu tragen. Dschinggis Khaghan ist der eigentliche Titel, Dschinggis Khan der Herrscher der späteren Zeit. Er ist der Fürst, und zwar der große Fürst, der Dschinggis Khaghan; das hat nichts mit dem großen Dschinggis Khan zu tun. Da die mongolische Sprache zur gleichen Sprachfamilie gehört wie die Nationalsprache und die Wortstellungsregeln fast gleich sind, ist es angemessen, die chinesischen Schriftzeichen zu verwenden und auf die japanische Übersetzung zu verzichten. Die Unterscheidung von Singular und Plural bei den Substantiven ist sehr mühsam. Bei den Pronomen „wir“, „diese“ usw. wird meist „-ra“ angehängt; in den Fällen, in denen es ruhig ist, wenn man es weglässt, wird es auch manchmal weggelassen. Ich habe die ursprünglichen Übersetzungszeichen beibehalten und bei den Pluralstellen Anmerkungen hinzugefügt. Der Plural von Khiyan-Uji ist, also ist die Verneinung mit „ich“ und die Verneinung mit „er“ – ulu und ese – ulu ist das chinesische, ese ist das chinesische; zum Beispiel ist ulu ot bai „er ging nicht“. Wenn man das Verb hinzufügt, dann das Wort zwischen ... das verneinende Gebot, also das Wort, auch ein Adverb. Zum Beispiel gibt es das Verbotsadverb „nicht“, also übersetze ich „geh nicht“ damit.
+
+Ein substantivisches Possessiv wird eingefügt: „Kind, Kind, komm“ und „Vater, Vater, ist da?“. Diesem folge ich. Das Subjektspronomen wird, nicht notwendigerweise, oft unter das Verb gesetzt: „Groß bin ich“ und „Habe ich nicht gesagt,“ „So, du“. Unten: „Wir wollen ihnen helfen mit aller Kraft“ oder „Ihnen, ihnen, wir“. Dies alles sind Subjekte, die nicht notwendigerweise ... Temüdschin, Taichiut, gefangen, gesehen, geeilt, und verfolgt, fortgesetzt, ermutigt – die Stellung von A, B, C ist frei und ein besonderes Merkmal; auch in unserer Landessprache war es bis vor nicht allzu langer Zeit wie im Mongolischen.
+
+Auch die Unabhängigkeit der mongolischen Wüste, der reine, unbeeinflusste Zustand in der Mitte, die Umwandlungen, die Übergänge von ujin zu fujin, taishi zu taishi, sind Beispiele; auch in der Bezeichnung für Ausländer werden meist die Chinesen, ihre Pluralform ... Sholangha, Sholanghas, der Jin-Kaiser als „Chaukuan“ (Abwandlung von Hexi), der Juyong-Pass als „Khunegen daba“, der Gelbe Fluss als „Shira keer“. Auch bei der Übernahme ausländischer Wörter wird der Laut [des Originals] übernommen und die Endung [der eigenen Sprache] angehängt. So sagt man ... zu, zu, ... zu, zu, die Russen zu, die Leute aus Kibchaut, die Asiaten, die Mohammedaner, die Sartaul – die ursprünglichen Namen sind in den Anmerkungen aufgeführt.
+
+Das Interessanteste an der mongolischen Schrift ist, dass die Verse alle den Stabreim (Kopfreim) haben. Von alters her gibt es dasselbe Beispiel, Doppelreime nennt man sie, wie „mianman jugong“. Zwar gibt es viele Wörter, die den gleichen Anfangsbuchstaben (Hauptlaut) verdoppeln, aber in den alten mongolischen Liedern heißt es, wie „Der Klang des Wasserfalls, verstummt, hört man nicht“, dass man an den Kopf, oder an den Kopf, dasselbe setzt, es ist nicht wie beim Doppelreim, dass nur der Hauptlaut gleich ist. Es ist unterhaltsam. Dies scheint für den Scherz geeignet zu sein, aber im Mongolischen gibt es von den alten Sprüchen angefangen, die Worte der Gefühle, die Worte der Zurechtweisung, und wahrscheinlich auch viele Sätze; aber weil es in Mode war, wird der Verfasser einer gewesen sein. Eine solche besondere Sprache wurde von den Mongolen verwendet. Die Japaner vor mehr als 1500 Jahren, die Inder vor mehr als 3000 Jahren, sie kamen nicht durch die Schrift zur Zivilisation, sie tranken Wasser vom Pferd, jagten in Lederzelten, jagten als reine Barbaren, aber sie hatten schon früh eine Schrift; davon will ich ein wenig erzählen. Die schönen Gesichtszüge, das Auge im Gesicht, das Auge ist niur, ni ist, das Feuer ist, das Licht ist, weil es nahe ist, habe ich nidon für niur gesetzt, das Auge, und die Trittweise nachgeahmt – nicht, sondern mit dem Ende der Strophe und dem Ende der Strophe, Bauch oben und Bauch unten gereimt. In diesem gewöhnlichen Satz wird ein bestimmter Reim auf die Wörter des Satzes gehäuft. Die Ohren werden zum Wiesel, werden zum Silbermarder; das Wiesel ist shonos, so, sho, es entspricht, unen ist „sehen“, das ist der Reim. Wenn man es übersetzen und den Reim treffen wollte, müsste man den Namen ändern. „Hören, sehen“ – wie wäre das? Oder „Gestalt“ sagt man: „Außen am Schwanz keine Peitsche“. „Schwanz“ ist seuder, das ist der Reim. „Peitsche“ bildet keinen Reim, also ist es kein Strophenreim, sondern zwei Sätze als einer, nur ein Reim wurde gesetzt [39]. Im Japanischen möchte man sagen: „Kein Gefährte, kein Ding“. Alle Sätze mit Kopfreim sind kurz, zwei Sätze, zwei Abschnitte, zwei Stufen, aber äußerst ... Der Dankesgruß an den Burkhan-dake faltet das bu, der hintere Teil faltet die Endung neunmal. Wenn man die Verse übersetzt, verlieren sie das Interesse und werden schlecht; deshalb habe ich die Reimwörter der Übersetzung einzeln hinzugefügt, um zu zeigen, dass das Schlechte und Unruhige an manchen Stellen vom Vers kommt.
+
+Im Mongolischen gibt es ein Ding: das ist das Gesetz des Sandhi. Nicht nur im Mongolischen, sondern auch in den Turksprachen und den anderen Sprachen derselben Familie ... Eine Art von Substantiv, Hilfsverb usw., selten zusammengesetzte Substantive, das Wort darunter, Substantiv, abhängig vom Stammvokal, ändert sich, demselben Vokal gleich; zum Beispiel akha deu, die älteren Brüder, akha nar, deu ner, nar bedeutet auch Herz, oben sagt man na, oben sagt man ne. Das Partikel „ni“ sagt man auch „tomo“. Teriun, teriune, Burkhan Khardun, Kharduna, acha, eche, von Sendai sagt man Tsugharacha, von Echizen sagt man ... Alle sind Beispiele für e, aber weil es eine Konsonanz mit u gibt, hat eine Art des mongolischen Schriftsatzes überhaupt kein Wort, das mit l oder r beginnt. Unter den dargestellten Wörtern gibt es selten Namen, die mit oder beginnen, aber in den alten mongolischen Wörtern gibt es außer den Suffixen für oder überhaupt kein Wort mit l. Lue ist das chinesische Schriftzeichen, im Japanischen die Bedeutung von „zusammen mit“, es wird notwendigerweise an ein Substantiv angehängt, also kann man nicht sagen, dass dieses Wort den Laut l am Anfang hat. Auch in den alten japanischen Wörtern gibt es außer den Hilfsverben rareru, ramu, rashi keine Wörter, die mit dem japanischen Ra-Reihen-Zeichen beginnen; das ähnelt sehr dem Mongolischen. Im Mongolischen auch, im Laufe der Zeit, viele fremde Wörter einmischten, und die Wörter, die mit l beginnen, zunahmen, das ist nicht anders, als dass im Japanischen die mit dem Ra-Reihen-Laut beginnenden Wörter zunahmen. Alle mongolischen Sprachen, wie auch die Länder, im Alten und Modernen vergleichend zu erforschen ... die heutige Ausgabe, Zhang Taishou, hat mehrere Revisionen durchlaufen, ist aber vollkommen; obwohl es Fehler in den Nebenbestandteilen der Schriftzeichen gibt, Fehler in den Lautzeichen der Schriftzeichen, gibt es keine Fehler, die man nicht durch Vergleich desselben Wortes an anderer Stelle korrigieren kann. Obwohl es keine sicher nachweisbaren Auslassungen gibt, gibt es in der Übersetzung Fälle, wo man z.B. „Yoritomo“ und „Masako“ sagen sollte, aber im Mongolischen sagt man „Masako“. Dafür habe ich Klammern [ ] für Deckel und Zeichen verwendet; an manchen Stellen, wo die Klammern schon nicht mehr zu erklären waren, wurden sie weggelassen. An diesen Stellen habe ich übersetzt, was sich erklären ließ; was sich nicht erklären ließ, habe ich versucht.
+
+Der Haupttext dieses Buches ist in Abschnitte unterteilt, in separate Punkte geschrieben. Es scheint für Einschübe geschnitten worden zu sein; wo es heißt „als er dies und jenes sah, sagte er so und so“, habe ich es gestoppt. Da dies eine Übersetzung ist, die zur Untersuchung des in Form von Beispielen und Schnitten Überlieferten an einer Stelle, die vorläufig fortgesetzt werden sollte, angefertigt wurde, habe ich bei der Lautübersetzung des Mongolischen, wie es heißt: „Mit einer Schnur (o) binden, um (o) harmonieren zu lassen“, die Klarheit und Trübung, die Länge und Kürze der Vokale, all dies scheint den Laut wohl bewahrt zu haben.
+
+Die Übersetzer dieses Buches, der Hanlin-Dozent und Herausgeber Maichikh und Mashayikh, sowie der Feuer-Hong Jie, auch sie – ihr Nachname ist unbekannt – die Lautschrift der Khorulas-Uji usw., ist stets im Norden und Süden, und in der südlichen Aussprache gibt es keine Verwirrung. Da dieses Buch eine Übersetzung aus der Zeit in Nanjing in der Ming-Dynastie ist, wurde bei der Lautübersetzung die südliche Aussprache verwendet. Die Lautverwirrung im Mongolischen, die korrekte Lautübersetzung, geordnet nach horizontal und vertikal, sind die Stammvokale a, e, i, o, u, die abgewandelten Vokale und die Konsonanten.
+
+A a, I i, U u, H-Reihe: He, Ho, Hö, Hü, h
+Kha-, Ki-, Khu-, G-Reihe: Ge, Gho, Gu, Gh, g
+Sa-, Si-, Su-, s-Reihe: Sha, Shi, Shu-
+Cha-, Che, Cho, Chö, ch
+Ja-, Ji-, Ju-
+Ya-, Ye, Yo, Yü, y
+Ta-, Ti-, Tu-, t
+Da-, Di-, Du-, d
+Na-, Ni-, Nu-
+Ba-, Be-, Bo-, Bü
+Ma-, Me-, Mo-, Mü
+La-, Le-, Lo, L, l
+Ra-, Re-, Ro, R, r
+Wa-, Wi
+
+Diese Form basiert auf. Die zwei Schriftzeichen pro Laut sind für die Form am Kopf und die Form am Ende geschrieben, da die abgewandelten Vokale selten sind, habe ich die Form am Ende, die Laute ohne Vokal, in der Mitte unterschieden. Die G-Reihe: kha, kho, khu wie ha, ho, hu lesen zu lassen, weil es keine anderen Wörter gibt, habe ich diese H-Reihen-Laute weggelassen. Da es aber in der Geheimen Geschichte die Laute der H-Reihe gibt, denkt man, dass man sie mit den Schriftzeichen dargestellt haben wird. Nach dieser Tabelle gibt es im Mongolischen keinen stimmhaften Laut, also z, als Bestandteil der Aussprache. Ji ist nicht der stimmhafte Laut der S-Reihe von chi. Auch f, den leichten Lippenlaut ... der schwere Lippenlaut der H-Reihe ist, der Kehllaut der G-Reihe: kha, gha – links, klein, der ursprüngliche Laut der G-Reihe zeigt die Entlehnung von khan, khong, khai, die sechs Schriftzeichen der L-Reihe (eigentlich fünf), die kleinen L-Reihen-Laute, also der Laut mit l als Konsonant; da es im Chinesischen keinen Laut mit r als Konsonant gibt, habe ich das Zeichen für den Zungenrolllaut hinzugefügt. Die Zungenlaute: ram, rem, ring, ron, kh, gh, s, d, m – die nur den Konsonanten haben, an die M-Reihe mu angelehnt, die Schriftzeichen mu, mö, mü; aber mö und mü vermischen sich nicht mit den feinen Zeichen daneben. Auch r ist nur Konsonant, aber da der Laut dieses Schriftzeichens von Natur aus wie ohne Vokal klingt, wird er auch rechts oft dargestellt ... Die a-Stufe und die A-Reihe, die G-Reihe, die o-Stufe und die G-Reihe, sogar die Ni-Reihe sind am Wortanfang gleich. Die Schrift Syrias, die Vokale wurden nachgeahmt, es gibt ein System der Vokalzeichen, und e wechselt mit o, deshalb wird die e-u-o Doppelstufe bequem gewesen sein. Auch der stimmhafte Laut der T-Reihe ist völlig gleich dem stimmlosen, ohne jedes Zeichen. Im Kojiki und Manyoshu unterscheiden die Leute die Punkte für Trübung, die Dichter setzen sie nicht, das ist nicht zu verwundern. In der mongolischen Schrift gibt es so viele [solche Fälle], aber für diejenigen, die Mongolisch sprechen, ist es keine Kunst, es zu lesen. Abgesehen davon, dass die zwei Stufen a und e, die drei Reihen ha, ka, ga, und die stimmhaften und stimmlosen Laute der ka-Reihe mit demselben Schriftzeichen übersetzt werden, mangelt es an passenden chinesischen Schriftzeichen für die abgewandelten Vokale, daher wurden Schriftzeichen der u-Stufe verwendet. Auch in der Ming-Zeit, schon 100 oder mehr Jahre vorher und nachher, wurde Sukegai später Sechie, später Takai übersetzt. In meiner Übersetzung habe ich, außer bei offensichtlichen Fehlern, die Unterschiede [47] beibehalten. Die Orts- und Personennamen in meiner Übersetzung sind die Übersetzungszeichen dieses Buches, so wie sie sind; daher habe ich die Kana danebengesetzt. Da es kein chinesisches Schriftzeichen gibt, um hun der H-Reihe darzustellen, habe ich es, da es unbequem wäre, links das Zeichen dafür hinzuzufügen, weggelassen. Si und shi werden auch in der mongolischen Schrift nicht unterschieden. Für di gibt es kein passendes Kana, deshalb habe ich dasselbe Kana wie für ji gesetzt, für ye dasselbe Kana wie für e, so auch für yen usw. Für die L-Reihe mit l habe ich ebenfalls links das Mund-Radikal hinzugefügt. Tu und du wurden als tsu und dzu angenommen, aber da die ursprünglichen Laute die Kana der o-Stufe sind, habe ich die Kana der o-Stufe gesetzt; für tung, kh, gh, s, d, m, r – acht Schriftzeichen, elf Laute –, da sie nur Konsonanten sind und schwer darzustellen, habe ich, um das Verständnis zu erleichtern, andere Schriftzeichen verwendet. „Muren“ (Holz-Zunge) schreibe ich als „Yama“ (Berg) Burkhan, „Zobel“ schreibe ich als Burkhan und schreibe es, „Mori“ (Pferd-Zunge) oder „Ri“ (Zunge) oder „Kado“ (Tor) schreibe ich als Euden, „Numu“ (Leim-Zunge) schreibe ich als „Nozomu“ (hoffen) ist kara, „Yabu“ (Busch) schreibe ich als „Kurau“ (essen) ist Ide – diese Eigennamen haben ihre Regeln im Qianlong Wörterbuch der Liao-Jin-Yuan Geschichte. Obwohl die Jurchen- und andere Sprachdeutungen willkürlich sind, habe ich, um sie mit den bisherigen Geschichtsbüchern vergleichen zu können, die Lautübersetzungszeichen angeordnet wie folgt.
+
+Vorlage: Manchu fehlt
+
+Stufe A-Reihe,
+Stufe E-Reihe,
+Stufe O-Reihe,
+Stufe U-Reihe,
+Ka, Ki, Ku, k,
+Ga, Gi, Gu, ng,
+Ha, Hi, Hu,
+Sa-Reihe: Se, So, Su,
+Sha-Reihe: She, Sho, Shu, sh
+Tsa, Tso,
+Dza-Reihe: Dze, Dzo, Dzu, dz
+Cha, Chi, Chu,
+Dscha-Reihe: Dsche, Dscho, Dschu, dsch
+Zya, Zyi, Zyu, zy
+Ta, Ti, Tu, t
+Da, Di, Du,
+Na-Reihe: Ne, No, Nu,
+Ba-Reihe: Be, Bo, Bu,
+Pa-Reihe: Pe, Po, Pu, p
+Ma, Mi, Mu, m
+Ya, Yo, Yu, y
+La, Li, Lu, l
+Ra, Ri, Ru, r
+Wa,
+Fa-Reihe: Fe, Fo, Fu, f
+
+Diese Mandschu-Schrift basiert auf Möllendorffs Qingwenjian. Die Mandschu-Schrift hat ihren Ursprung in der mongolischen Schrift [50]. Bei gleichförmigen, aber unterschiedlich klingenden Zeichen wird die korrekte Unterscheidung durch die Tsa-Reihe, die Zya-Reihe und die Fa-Reihe ergänzt, die in der mongolischen Schrift nicht vorhanden waren. Vorlage: Manchu fehlt. Die Ka-Reihe: ..., ko, g'a, g'a, die Ha-Reihe: ..., h'a, ..., syi, ts: ..., ch'yi, jy: ..., Die aus Syrien überlieferten uigurischen Schriftzeichen durchliefen [verschiedene Stufen], wurden schrittweise verbessert, wurden zur Mandschu-Schrift, und die Züge wurden immer einfacher, die Zeichnung klar, und das phonetische Zeichen kam der Wirklichkeit am nächsten. Da jedoch die chinesischen Schriftzeichen verdrängt wurden und nicht weit verbreitet sind, sieht man, dass die Macht der Schrift nicht allein von Gut und Böse abhängt. Links: To ist in der Geheimen Geschichte, u und e; Bo ist in der Geheimen Geschichte, manchmal ersetzt, immer; Awa ist in der Geheimen Geschichte, o, wa-Reihe, wa. Die mit dem Mund-Radikal sind in der Geheimen Geschichte bequem. Die Ka-Reihe, Stufe ke, wird auch für den Konsonanten k verwendet; die Ta-Reihe, Stufe te, auch für den Konsonanten t; die Ma-Reihe, Stufe mu, auch für die Stufe mu und den Konsonanten m; die Ra-Reihe, Stufe re, auch für den Konsonanten r; da im Fall des Konsonanten keine Regel befolgt wird, werden Konsonant und Vokal oft durch die Schreibweise unterschieden. Da das Schriftzeichen lu, l, verwendet wird, ist die Schreibweise in der Einleitung nicht erschöpfend, aber für den Leser der Übersetzung, der die in der Ming-Übersetzung der Geheimen Geschichte verwendeten Übersetzungszeichen für Eigennamen als abweichend von den gängigen Büchern der Neuzeit empfindet, und für den, der die Ming-Übersetzung der Geheimen Geschichte lesen will, ohne zu wissen, dass sie sich von der modernen Lautübersetzungsmethode unterscheidet, und der die mongolischen Wörter in chinesischer Lautschrift nicht wird lesen können, habe ich dies besonders niedergeschrieben.
+
+Im Schweine-Jahr, nach dem Pferde-Jahr, im Herbst, zu Anfang des Monats, am Naranu Khujaur genannten Ort, Akagi, der hohe Edo, ghorokhan, zwei jaura, das kleine Zelt, geboren in Mori-oka balaghasun. Ende.
+
+Ende der Einleitung des Wahrhaftigen Berichts von Dschingis Khan.
+
+Einleitung. Inhaltsverzeichnis. Band 1. Band 2. Band 3. Band 4. Band 5. Band 6. Band 7. Band 8. Band 9. Band 10. Band 11-1. Band 11-2. Band 12-1. Band 12-2. Fortsetzung-Inhaltsverzeichnis. Fortsetzung-1. Fortsetzung-2.
+
+# Erstes Buch {#gruppe-volume-1}
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/geheime-geschichte-mongolen/assets/chapter/chapter-001.png" alt="Kapitel 001" />
+</div>
+
+## Erstes Kapitel {#kapitel-001 .chapter-heading .centered}
+
+Der Ursprung des Dschingis Khan. Er ward geboren vom Himmel oben.
+Es ward ein fahlgelber Wolf, geboren vom Himmel oben.
+Sein Weib war eine weißliche Hirschkuh.
+Sie kamen über das Tenggis-Meer.
+Am Onon-Flusse, am Burqan Qaldun, schlugen sie ihr Lager auf.
+Da ward geboren Batachichan.
+
+Batachichan's Sohn war Tamatscha.
+Tamatscha's Sohn war Qoritscharmergen.
+Qoritscharmergen's Sohn war A'ujamboroqul.
+A'ujamboroqul's Sohn war Saliqatschu.
+Saliqatschu's Sohn war Jäke-Nidün.
+Jäke-Nidün's Sohn war Semsotschi.
+Semsotschi's Sohn war Qartschu.
+Qartschu's Sohn war Borjigidaimergen.
+Sein Weib war Mongoljin Qo'a.
+Borjigidaimergen's Sohn war Torogoljinbayan.
+Sein Weib war Borogtschin Qo'a.
+
+Torogoljinbayan hatte einen Diener, Boroldaisujalbhi,
+und zwei Schimmel.
+
+Torogoljinbayan hatte zwei Söhne:
+Du'a Soqor und Dobun Mergen.
+Du'a Soqor hatte ein einziges Auge mitten auf der Stirn.
+
+Eines Tages stieg Du'a Soqor mit Dobun Mergen hinauf auf den Burqan Qaldun.
+Da erblickten sie vom Burqan Qaldun aus
+einen Zug von Menschen, der am Tonggiliq-Flusse hinabzog.
+Da sprach Du'a Soqor:
+"Von jenem hinabziehenden Volke da,
+an dem Tonggiliq-Flusse,
+in dem Vorderwagen eines guten Mädchens,
+wenn sie noch nicht vergeben ist,
+die will ich dir, mein jüngerer Bruder, zur Frau erbitten."
+Und er sandte seinen jüngeren Bruder hin.
+
+Dort aber war in Wahrheit
+ein gar schönes Mädchen, Alan Qo'a,
+das noch niemandem vermählt worden war.
+
+Jen umherziehende Volk aber
+waren die Leute des Qorilartaimergen,
+des Herrn des Qorilardistriktes,
+von Qor Tümet und Barga.
+Alan Qo'a aber war die Tochter
+des Qorilartaimergen von Qori-Tümet,
+geboren von seiner Frau Baraqtschin Qo'a,
+der Tochter des Barqudaumergen,
+des Herrn von Qol Barqutsin Tögüm.
+
+In jener Zeit war im Qori-Tümet-Lande
+das Jagen der Zobel und Eichhörnchen
+durch gegenseitige Verabredung verboten.
+Da kam ein Mann, der hieß Bosqaqsan Uriangqai,
+und trieb Jagd;
+und als man ihn deswegen schalt,
+stritt er sich, und es ward Händel.
+Da zog Qorilartaimergen fort
+und sonderte sich ab.
+Er zog hin zum Burqan Qaldun,
+ein Qorilar-Stamm zu werden.
+
+Eines Tages aber, als Dobun Mergen stieg
+den Burqan Qaldun hinan zur Jagd,
+begegnete er im Walde einem Uryangqaten-Manne,
+der ein dreijähriges Reh erlegt hatte,
+und der den Braten bereitete.
+
+Da sprach Dobun Mergen:
+"Freund, gib mir von dem Braten!"
+"Das will ich tun!" sprach jener,
+und nachdem er ihm den Braten gegeben,
+behielt er den Kopf und das Fell und die Eingeweide.
+
+Darauf schritt Dobun Mergen seines Weges.
+Da begegnete ihm ein Mann,
+der führte seinen Sohn an der Hand.
+"Wer bist du?" fragte Dobun Mergen.
+"Ich bin Ma'alich Bogi," antwortete jener.
+"Arm und elend bin ich,
+ein Baya'uter von Geburt."
+
+Da lud Dobun Mergen den Mann ein,
+von dem Fleische zu essen;
+und sie aßen zusammen.
+
+Da sprach jener Mann zu Dobun Mergen:
+"Ich will dir diesen meinen Sohn
+zum Diener geben!"
+
+Und Dobun Mergen nahm den Knaben
+und führte ihn heim.
+
+Nachdem Dobun Mergen gestorben war,
+da gebar Alan Qo'a, die Witwe,
+drei Söhne:
+Bögün Qadaq,
+Bügetü Salschi,
+und Bodontschar Munqaq.
+
+Die beiden älteren Söhne aber,
+die von Dobun Mergen geboren waren,
+Bälgünütäi und Bögünütäi,
+sprachen heimlich zueinander, die Mutter betreffend:
+"Unsere Mutter hat keine Blutsverwandten,
+keine Vettern und keinen Schwager,
+und doch hat sie diese drei Söhne geboren.
+Von wem sind sie?"
+Und so sprachen sie über sie,
+insgeheim und unter vier Augen.
+
+Alan Qo'a aber merkte es wohl.
+
+Eines Tages saß sie und kochte ein fünfjähriges Schaf
+zum Mahl für ihre fünf Söhne.
+Und sie gab ihnen jeder einen Pfeil
+und sprach: "Zerbrecht ihn!"
+Sie zerbrachen ihn jeder einzeln,
+mühelos.
+
+Da sprach sie: "So vereinigt sie!"
+Und sie gab ihnen fünf Pfeile
+zusammengebunden.
+Sie versuchten sie alle,
+aber nicht konnten sie sie zerbrechen.
+
+Da sprach Alan Qo'a zu ihren fünf Söhnen:
+"Ihr habt getuschelt und gefragt:
+"Von wem sind diese drei Söhne?"
+Eure Rede hörte ich wohl.
+
+Nun aber will ich euch die Wahrheit sagen.
+
+Jede Nacht, zur Zeit der Lampen,
+pflegte ein gelblicher Mann
+durch die Rauchluke hereinzukommen,
+und meine Lende zu bestreichen.
+Sein Schein drang ein in meinen Leib.
+So wie Mond und Sonne sich zeigen
+und man wohl sieht
+durch Fenster und Türen,
+so ward ich schwanger.
+Wenn ihr nun mit leichtsinniger Rede
+sagt, "Woher?" –
+so habet Acht:
+es ist das Zeichen des Himmels.
+Wie könnt ihr Menschen
+darüber solche Reden führen!
+Wenn jene drei Söhne
+einstmals die Söhne des Himmels geworden sind,
+und sie die großen Herrscher des Alls,
+dann werden die niederen Menschen
+unter ihnen sein!"
+
+Und weiter sprach Alan Qo'a
+zu ihren fünf Söhnen:
+"Euch alle fünf habe ich
+aus meinem Leibe geboren.
+Ihr seid alle gleichsam
+nur ein einziger Pfeil,
+den jeder für sich allein
+leicht zerbrechen kann.
+Wenn ihr aber so eins werdet
+wie die fünf Pfeile vereint,
+so kann euch niemand schädigen."
+
+Alsbald starb Alan Qo'a, die Mutter.
+
+Nach dem Tode der Mutter
+aber teilten die vier Brüder
+das Erbe unter sich.
+Dem Bodontschar Munqaq aber,
+der dumm und einfältig war,
+gaben sie nichts.
+
+Bodontschar aber verließ sie und sprach:
+"Hier kann ich nicht bleiben!
+Wohin soll ich gehen?
+Wenn ich sterbe, genügt's;
+wenn ich lebe, auch gut!"
+Also sprach er und ging
+den Onon hinab
+nach Osten.
+Da machte er eine Hütte
+aus Gras und Reisig.
+
+Auf der anderen Seite
+aber war ein Habicht,
+der jagte und tötete
+Vögel und Wild.
+Diesen Habicht fing er
+mit einem Netz
+und machte ihn zahm.
+
+Auf einem Berghange
+schoss er Vögel und Wild
+mit Pfeilen,
+und wenn er sie nicht alle aß,
+so nährte er sich von den Resten,
+die der Wolf übrig ließ.
+So brachte er
+den Winter und den Frühling hin.
+
+Als der Sommer kam,
+zog er den Onon hinab
+und ließ seinen Habicht fliegen.
+
+In jener Zeit kamen viele Leute
+den Tünggälik-Fluss hinauf
+und lagerten daselbst.
+
+Da sprach Bodontschar zu seinem Habicht:
+"Du sollst mir bringen
+Enten, Gänse und wilde Schwäne,
+so viel ich will!"
+
+Und der Habicht brachte sie ihm,
+und sie lebten so
+den ganzen Sommer.
+
+Als der Herbst kam,
+zog Bodontschar mit seinem Habicht
+hin zu jenen Leuten,
+und er blieb bei ihnen.
+
+Da sprachen die Leute zueinander:
+"Dieser Mensch hat nur
+einen mageren Gaul,
+aber er hält so viel von sich."
+Und sie fragten ihn,
+ob er den Winter bei ihnen bleiben wolle.
+
+Er aber sprach:
+"Ja, ich will euch
+den Winter hindurch
+treu zur Seite stehen."
+
+Und sie sprachen:
+"Du hast ja keinen Pfeil,
+keinen Bogen
+und keinen Bratspieß!"
+
+Er antwortete:
+"Mein Habicht
+nährt mich doch.
+Wenn ihr auf die Jagd geht,
+will ich euch die wilden Tiere
+scheu machen und zutreiben."
+
+Und sie vertrugen sich
+und blieben beisammen.
+
+Als aber der Sommer ins Land kam,
+da zogen die Leute weiter.
+Bodontschar aber blieb zurück.
+
+Das Volk aber
+hatte einen guten, hübschen, kleinen Häuptling,
+und alle waren gleich.
+Da kam von Osten her
+Bükü Qataqi
+und fand ihn am Onon.
+
+Er erkannte ihn als seinen Bruder
+und sprach:
+"Komm mit mir heim!"
+Aber Bodontschar wollte nicht.
+
+Da sprach Bükü Qataqi:
+"Warum willst du nicht
+mit mir heimkommen?"
+
+Bodontschar aber schwieg.
+
+Da sprach Bükü Qataqi:
+"Wohin willst du denn gehen?"
+
+"Hier an dem kleinen Fluss,"
+sprach Bodontschar,
+"da ist ein hübsches, kleines Volk.
+Alle sind gleich,
+alle haben gleich viel.
+Wenn du es nimmst,
+so ist es dir untertan."
+Also sprach er.
+
+Da wurde Bükü Qataqi zornig
+und zog mit dem Volke von dannen.
+
+Er aber, Bodontschar, blieb
+und sprach:
+"Wohlan denn!"
+
+Und er zog hin
+zu einem andern Volke
+und ließ sich bei ihnen nieder.
+
+Da aber fragte man ihn:
+"Woher bist du?"
+
+Und er antwortete:
+"Von Osten her."
+
+Da fragte man weiter:
+"Wohin willst du?"
+
+Da sprach Bodontschar:
+"Ich gehe zu dir,
+um bei dir zu bleiben."
+
+Da sprach der Alte:
+"Ich bin alt und schwach.
+Was soll ich mit dir machen?
+Ich kann dich nicht brauchen."
+
+Da ging Bodontschar wieder von dannen
+und setzte sich an den Rand der Steppe
+und weidete seine Pferde.
+
+Da kam eines Tages
+sein älterer Bruder,
+der ihn suchte.
+Er erkannte ihn
+und sprach:
+"Komm nach Hause,
+Bruder!"
+
+Bodontschar sprach:
+"Nein!"
+Und er sprach zu ihm:
+"Ich will hier nicht bleiben.
+Aber ich werde dir einen Rat geben.
+Wenn du das kleine Volk,
+das dort drüben am Flusse wohnt,
+nimmst,
+dann gehorchen sie dir.
+Sie sind alle gleich,
+und es gibt keinen Herrn unter ihnen."
+
+Da sprach der ältere Bruder:
+"Gut!
+So bleibe du hier,
+ich will mich an sie machen."
+
+Und er ging hin
+und nahm das Volk gefangen.
+Da gab Bodontschar nach
+und ging mit ihm
+und nahm auch teil
+an der Beute.
+
+So ward Bodontschar
+der Herr über jenes Volk.
+
+Und Bodontschar nahm
+eine gefangene Frau,
+die hieß Qorilqo'a.
+Und sie gebar ihm
+einen Sohn,
+den nannte er Bari'utai.
+
+Dessen Sohn war Badarai.
+
+Badarai's Sohn war Qubil Qara.
+
+Qubil Qara's Sohn war Qachin Körchi.
+
+Qachin Körchi's Sohn war Qachula Körchi.
+
+Qachula Körchi's Sohn war Qaidu.
+
+Qaidu's Sohn war Bai Schingqor.
+
+Bai Schingqor's Sohn war Tumbinai Setschen.
+
+Tumbinai Setschen's Sohn war Qabul Khan.
+
+Qabul Khan's Sohn war Bartan Ba'atur.
+
+Bartan Ba'atur's Sohn war Jäsügäi Ba'atur.
+
+Jäsügäi Ba'atur's Sohn war Temüdschin.
+
+Temüdschin ward geboren
+im Jahre des Pferdes,
+im ersten Monat,
+am sechzehnten Tage,
+als die Sonne aufging,
+am Onon-Flusse,
+an der Uferböschung
+von Däl'iün Boldaq,
+im Lande des Burqan Qaldun.
+
+Da sprach der Vater:
+"Ein Sohn ist mir geboren!"
+
+Und er gab ihm den Namen Temüdschin,
+nach dem Tapferen,
+den er gefangen hatte.
+
+Und Temüdschin hatte vier Brüder:
+Qasar,
+Qatschiun,
+Tämügä,
+und eine Schwester,
+Tämülün.
+
+Jäsügäi Ba'atur
+nahm für Temüdschin eine Frau,
+die zehnjährige Börte,
+aus dem Volke der Unggirat,
+und ließ ihn dort
+bei seinem Schwiegervater
+und seiner Schwiegermutter.
+
+Da sprach der Schwiegervater:
+"Dein Sohn ist ein guter Sohn.
+Er soll hier bleiben
+bei mir."
+
+Jäsügäi Ba'atur
+aber kehrte heim.
+Unterwegs aber
+ging er ein bei den Tataren,
+denen er zuvor
+die Rüben zertreten hatte.
+Sie töteten ihn.
+
+Da sprach er,
+ehe er starb:
+"Mich hat das Volk der Tataren
+vergiftet.
+Ich sterbe.
+Holt mir Temüdschin wieder her!
+Und du, meine Frau,
+wirst du in Zukunft
+mit meinem Sohne
+vor den Feinden bestehen
+und ihn aufziehen
+zu einem Manne,
+der meinen Tod rächt!"
+
+Also sprach der Vater
+und starb.
+
+Die Mutter aber,
+Hö'elün,
+erzog ihre Söhne
+in großer Armut.
+Sie sammelte Wurzeln
+und Kräuter
+und nährte sie damit.
+An den Bergabhängen
+schoss sie mit dem Pfrieme
+die Fische
+und bereitete sie zu.
+
+So wuchsen die Söhne auf.
+
+Eines Tages aber
+ritten die Brüder
+auf die Jagd.
+Da schoss Qasar
+einen Hasen.
+Temüdschin aber
+nahm ihn ihm weg.
+
+Da ward Qasar böse
+und sprach:
+"Du nimmst mir
+meinen Hasen!"
+
+Und er zog den Bogen
+gegen Temüdschin.
+
+Da schrie die Mutter:
+"Ihr sollt euch
+nicht gegenseitig töten!
+Ihr seid ja Brüder
+vom selben Vater
+und derselben Mutter!"
+
+Und sie nahm ihnen
+die Bogen weg.
+
+Als aber die Mutter
+eines Tages
+auf die Jagd ging,
+da kam Qasar
+und schlug Temüdschin,
+dass er zu Boden fiel.
+
+Da aber kamen
+die drei übrigen Brüder
+und rissen sie auseinander.
+
+Da sprach Qasar:
+"Ich will nicht mehr
+bei euch wohnen!"
+Und er ging hinweg
+zu den Merkiten.
+
+Die Merkiten aber
+nahmen ihn auf.
+
+Temüdschin aber
+zürnte dem Bruder
+und sprach:
+"Er ist ein böser Mensch!
+Er wird uns
+noch einmal
+ins Verderben stürzen!"
+
+Da ward die Mutter
+sehr betrübt
+und sprach:
+"Wie soll das enden?
+Ihr seid doch Brüder!"
+
+Und sie weinte.
+
+Damals aber
+war Temüdschin
+etwa dreizehn Jahre alt.
+
+Die Brüder aber
+zogen nun gemeinsam
+auf Raub
+und auf die Jagd.
+Und sie lebten
+in Frieden und Eintracht
+miteinander.
+
+Auf dem Weg, in der Shila Ke'er (der gelben Wildnis), bei den dort ansässigen Leuten, stieg er durstig vom Pferd, um an einem Festmahl teilzunehmen. Die Tataren, als sie hörten, dass Yesügei Baatar [gekommen sei], dachten an die Gefangennahme und planten, ihm Gift zu geben. Er wurde krank, blieb drei Nächte, und zu Hause wurde es schlimm.
+
+Er sprach: „Zur Seite der Brust sprechend: Tscharaqa Ebügen (Tscharaqa der Alte. In den Aufzeichnungen des Feldzugs und der Yuan-Geschichte: Kind, vor dem Angesicht gesprochen, kommen lassen), mein Mönglik. Klein ist er, mein Temüdschin, zurückgelassen auf dem Weg, von den Leuten wurde ich hintergangen, mir geht es schlecht. Die zurückgelassenen jüngeren Brüder und die Schwägerin – du, geh und hole meinen Temüdschin!“ Das Kind sprach und nahm [es].
+
+Ende des ersten Bandes der Aufzeichnungen des Dschingis Khan.
+
+Einleitung. Inhaltsverzeichnis. Band 1. Band 2. Band 3. Band 4. Band 5. Band 6. Band 7. Band 8. Band 9. Band 10. Band 11-1. Band 11-2. Band 12-1. Band 12-2. Fortsetzung – Inhaltsverzeichnis. Fortsetzung-1. Fortsetzung-2. 3]
+
+# Zweites Buch {#gruppe-volume-2}
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/geheime-geschichte-mongolen/assets/chapter/chapter-002.png" alt="Kapitel 002" />
+</div>
+
+## Zweites Kapitel {#kapitel-002 .chapter-heading .centered}
+
+**Zweites Buch**
+
+[83]
+
+Yesügei Baatar wich nicht ab, ging hin und sprach: „Der ältere Bruder hat sein Herz heftig auf Temüdschin gerichtet“ – Wenn der Dei Sechen, der Schwager, dies denkt, so komme er und sehe mich“, und der Mönglik Echige – Mönglik, der Vater, ein Ehrenname, Temüdschin gegeben – kam mit Temüdschin.
+
+[84]
+
+Da jene beiden Frauen des Ambakai Qaghan, die Orbei und die Chutai, auf der Erde ihrer Vorfahren an der Speisenverteilung teilnahmen, blieb Hö'elün Ujin zurück und wurde übergangen. Da sprachen Orbei und Chutai zu Yesügei Baatar und ließen die Kinder [der Hö'elün] vom übrigen Opferfleisch vor der [fürstlichen] Anteilnahme ausschließen. Als sie dies sahen, ermahnten sie nicht und sprachen: „Ihr“. Daraufhin sagte eine Schokat'ai, eine Gattin: „Dir wurde nicht gerufen“; da war Grund. „Dir wurde nicht [der Anteil] gegeben“; da war Grund. Und sie sprachen von Ambakai Qaghan, als sie angelangt waren, und überlegten so: „Wenn dieses Lager verlassen wird, führt ihr [unsere Leute] fort“, und von jenem Tage an ließen die Tardschi'ut, die Togtai Qiriltug und Todön Chördschin, die Hö'elün Ujin zurück, gingen zu den Qonggodan und sprachen: „Trocken sind die Zweige geworden, der Glanz [ist erloschen]“, und standen auf. Die [Hö'elün] suchte sie zurückzuhalten, aber sie stachen mit Speeren.
+
+[85]
+
+So ward [Temüdschin] verwundet, kam heim und lag darnieder. Temüdschin ging hin. Da [sprach der] alte Tscharacha: „Deines Vaters Stammesleute, als dieser Stamm sich erhob, tatest du [dies]“, weinte und ging fort.
+
+Als man sie verlassen hatte, ritt [Töde'ei] selbst auf dem [mit einem Roßschweif geschmückten Banner] und brachte die Leute zurück; doch es wurde nicht beständig. Hernach wurden Hö'elün Ujin, die Kinder, die Mutter mit den Kindern, im Innern aufgestört. Sie sandte die [Söhne] aus, die jungen Knaben [auszusenden], um [Nahrung] zu sammeln. Gürtel [trugen sie], stiegen auf und nieder, sammelten wilde Birnen und Kirschen, gruben mit der Hacke aus Kiefernholz starke Wurzeln aus und nährten [die Kinder]. Die Kaiserlichen [Söhne], die die Mutter, die Herrin, die starke, erzogen hatte, strebten nach Ordnung und wurden weise Männer.
+
+[86]
+
+Mit Zwiebeln und Lauch wurden sie trefflich; die Männer wurden stark und tapfer, aber nur Männer wurden daraus. (Wörtlich übersetzt, aber der Sinn ist nicht ganz klar.) Sie sprachen davon, an den Ufern des Mutter-Onon Flusses Angeln mit Haken zu fertigen, die Haken zu beißen, die Angelhaken zu brechen, die Netze zu knüpfen, und damit Fische zu fangen; so vergalten sie es [der Mutter]. Eines Tages saßen Qasar, Bektör und Belgütei, der vier [Söhne], beim Fischeziehen. Einen [Fisch] Sogosun zog Temüdschin und Belgütei gemeinsam; die beiden anderen, Bektör und Belgütei, raubten ihn. Da kamen Temüdschin und Qasar heim und sprachen zur Mutter: „Einen glänzenden Angelhaken raubten uns die Brüder Bektör und Belgütei.“ Die Herrin Mutter sprach: „Was tut ihr? Wie könnt ihr euch so streiten? Außer dem Schatten und dem Schweif haben wir nichts. Wie sollten wir die Rache der Brüder [fürchten]? Wie die Fünf von einst [können wir nicht leben]. Hört auf!“ Temüdschin und Qasar sprachen: „Einst haben wir [ihnen] einen erjagten [Pfeil] weggenommen; so nahmen sie [ihn]. Wiederum [rauben sie uns] so; wie sollen wir [mit ihnen] zusammenleben?“ Sie gingen zur Tür hinaus. Bektör saß auf einem Wallach und schaute in die Ferne. Temüdschin versteckte sich von vorn, und Qasar von hinten; ihre Pfeile trafen [Bektör]. Bektör sprach: „Das Ertragen der Brüder [ist mir zu schwer]. Wer kann mich [ertragen], wenn ich [so] lebe? Außer dem Schatten und dem Schweif – wie [könnt ihr das tun]? Zerstört nicht den Feuerherd! Wenn ich sterbe, sterbe ich. Verschont nicht [mein Leben]!“ So kauerte er erwartend nieder. Qasar traf ihn von vorn mitten in den Rücken; [Temüdschin] traf ihn von hinten. [So töteten sie ihn.] Darauf gingen sie hinein. Da sprach die Mutter, als sie ihre Gesichter sah, erbittert: „Ihr seid wie die [Hunde] Barag-sat [die Verderber]. Wie glühende Kohlen seid ihr, wie Blutklumpen. Wie ein Qablan [Tier] im Zorn, wie ein Löwe, der nicht loslässt, wie ein Reiher, der [seine Beute] verschlingt, wie ein Fisch Tscharakuda, der beißt, wie ein Kamelfüllen, das die Ferse des Muttertieres beißt, wie ein Wolf im Sturm, wie ein junger Hund, der seine Jungen nicht nährt, wie ein Enterich, der [seine Jungen] wegstößt, wie ein Schakal, wie ein Tiger; wie ein Barus hast du getötet. Ohne Gefährten, ohne Peitsche hast du die Rache der Brüder, die du nicht ertragen konntest, geübt.“ Da sprach [die Mutter]: „Was habt ihr getan?“
+
+[87]
+
+Weil [die Söhne] die alten Worte der Mutter nicht beachteten, [fürchteten sie] die Tardschi'ut, die sehr [zahlreich] das Land bewohnten. „Wie wachsende Federn, wie wachsende Lämmer gleichen sie nicht den Müttern mit ihren Kindern! Sie sind erwachsen geworden!“ So sprachen [die Tardschi'ut] und fürchteten sich. Mitten im dichten [Walde] machten sie einen [Einbau], zogen Bäume heran, lehnten sich an [die Bäume] und schossen Pfeile. [Da] kamen die Tardschi'ut und sprachen: „Temüdschin, von euch soll er gerufen werden!“ Sie riefen. [Temüdschin] aber floh zu Pferde. Mitten im [Gestrüpp] verbarg er sich.
+
+[88]
+
+[Die Tardschi'ut] sahen, wie er sich im dichten Walde verbarg, und umzingelten ihn. Temüdschin blieb drei Nächte darin. Als er mit seinem Pferde hinaus wollte, fiel der Sattel ab. Als er aber den Sattel untersuchte, war der Bauchgurt noch [fest] geschnallt. „Der Brustgurt [ist gelöst]?“, [sprach er]. „Vielleicht ist er [doch] gelöst.“ So hielt er inne und blieb noch drei Nächte. Als er wieder hinauswollte, war der Eingang des Waldes, von der Größe eines Zeltes, umgestürzt. „Halt!“ sprach er, kehrte um und blieb noch drei Nächte. Da sprach er bei sich: „Ohne Nahrung, wie soll mein Name [weiterleben]? Soll ich hinausgehen?“ Jenen [Ausgang], der von der Größe eines Zeltes war, hatte er verstopft. Ringsumher war dichter Wald, so dass er nicht hinauskonnte. Er schnitt [Pfeilschäfte?] und glättete sie. Die Tardschi'ut aber waren [noch] da.
+
+Sie führten [den Befehl aus] und durchsuchten den Wald. Als sie ihn einmal umzingelt hatten, [fanden sie ihn nicht]. Da am sechzehnten Tage, an welchem die hellen Tardschi'ut waren, zerstreuten sie sich am Ufer bei einem Gelage. Bei dem Gelage [sah ihn] ein kleiner Mensch. Dieser ließ sie sich von dem Gelage zerstreuen. [Darauf] nahm er die Handfesseln ab [die Temüdschin trug?] und lief mit ihm. Er legte sich in den Wald, [aber Temüdschin] sprach: „[Ich] liege im Nassen.“ Sie gingen zum Wasser, schwammen [hindurch], und der Mensch holte ihn heraus. [Temüdschin?] war gefangen, entkam aber. Die sich zerstreut hatten, versammelten sich wieder. Bei der Nacht des [darauffolgenden] Tages, bei Mondschein, lag [Temüdschin] in einer Wasserlache im Walde. Da kam Sorkan Schira vorüber und sprach: „Nur um dieser [Ursache] willen wird man [dir] feind sein. Es heißt: „Dort ist er“, und die Brüder werden neidisch. So liege nur still! Ich [werde schweigen]“ So ging er vorüber.
+
+[89]
+
+Als [Sorkan Schira] zurückkam, sprach [jemand]: „Auf dem Wege [wohin] du die Gegend durchstreift hast, sagte [man] ... [Sorkan Schira] sprach: „Die Brüder [Stammesgenossen] haben die Zähne gezeigt. Sie sind gekommen. Hüte dich!“ So ging er vorüber.
+
+[90]
+
+Als er zurückkam, [war da] wieder einer von den Tardschi'ut: „Ihr! Einen ganzen, weißen Mann in dieser Nacht zu erjagen! Morgen werden wir uns versammeln und ihn suchen. Er trägt Handfesseln“, sprach er. Und er ging vorüber. Sorkan Schira suchte [am nächsten] Morgen und sprach: „Heute habe ich sie sich zerstreuen lassen, die Mutter mit den Kindern sind fort.“ „Ich sah [ihn]“, sprach [ein anderer]. „Sage nicht, dass du [ihn] gesehen hast!“ [Sorkan Schira] sprach: „... damit sie jene nicht töten.“ [Und er dachte:] „Als er unlängst die Runde machte, nahm er mich in sein Haus auf, die beiden [Söhne] Tschimbai und Tschila'un. Das Herz tat mir weh. Er nahm mich auf und ließ mich herbergen. Sorkan Schira, der mich sah, ging vorüber. Jene werden mich retten!“ So suchte er Sorkan Schira auf, folgte [seiner Spur] bis zu dessen Haus und wartete, bis die Morgenmilch und der vergorene Milchwein bereitet waren. Er [machte] ein Zeichen [durch Zuruf] und gelangte [dorthin]. Da sprach [Sorkan Schira]: „Habe ich nicht gesagt: ‚Mutter und Brüder sollen fort!‘ Ich komme!“, sprach [Temüdschin]. „Warum kommst du?“ [fragte Sorkan Schira]. Sein Sohn Tschilaun, der einen Sperber jagte, hörte es. „Sieh da“, sprach [Temüdschin]. Der Vater freute sich nicht. [Temüdschin] band [die Fesseln] los und verbrannte sie. [Man legte ihn] auf Wolle und [versteckte ihn]. „Lebendig!“ sprach [Sorkan Schira] und [befahl]: „Suchet!“ Der dritte der Tardschi'ut suchte und suchte, durchsuchte den Wagen [Sorkan Schiras], aber [fand ihn nicht]. [Temüdschin] stieg auf die Wolle und [versteckte sich] tief darin. „Solche Wolle – wozu?“, sprach [der Suchende]. Die Männer zogen ab.
+
+[91]
+
+Die abgezogen waren, [sprachen]: „Sorkan Schira, wir sind in Gefahr gewesen. [Er soll] Mutter und Brüder fortschicken.“ [Sorkan Schira] gab [Temüdschin] einen weißen, gelben Wallach, ein fettes Lamm, einen ledernen Milcheimer [und] einen Bogen mit Pfeilen. [Er] rüstete ihn aus, gab ihm alles und sprach: „Die Mutter und die Brüder schicke fort, sage ich!“
+
+Er ging und fand den Weg des Flusses Kelüren. Er [war da] in der Ebene am Gestade des passierenden [Flusses] auf der Höhe des [Berges] ... und auf der anderen Seite ... nahe dem [Berge] ...
+
+[92]
+
+[Temüdschin] zog stromaufwärts und kam von Westen her, [traf] die Mutter [wieder] am Zusammenfluss des Flusses Kimurqa und des Flusses ... am Berge ... [und] an der Quelle des Flusses ... Sie lagerten am Berge Kara Jirügen am Flusse Sankur.
+
+[93]
+
+Sie töteten [Murmeltiere] und wohnten dort.
+
+[94]
+
+Ein Fuchshengst mit acht [Pferden] von fahler Farbe, die vor [ihm] weideten, wurden [von Dieben] gestohlen. [Diebe] kamen und raubten sie. Qasar sah es vom Fußweg aus. [Belgütei] aber ritt auf einem Fuchs mit weißer Blesse, um Murmeltiere zu jagen. Als die Sonne unterging, kam er zu Fuß, [denn er hatte] die Murmeltiere [abgegeben] und einen Teil des Rückens [vom Pferd verloren?]. [Man sprach:] „Die Wallache wurden gestohlen!“ [Temüdschin sprach: „Qasar,] du ... ich ...!“ [Er sprach:] „Ich kann nicht [ohne sie sein]. Ich will sie verfolgen!“ Temüdschin sprach: „Ihr, ich ...“ Er bestieg den Fuchs mit der Blesse, folgte der Spur der gestohlenen Wallache und lagerte [unterwegs]. Nach drei Nächten begegnete er einem Manne, der eine frische Stute molk. Er sah die acht Pferde von fahler Farbe weiden und sprach [zu dem Manne?]: „Freund, die Wallache, die hier weiden ...“ ... Er ... [Der Mann sprach:] „Ich sah sie heute früh forttreiben. Ich will dich hinbringen.“ [Er] nannte seinen Namen: „Ich heiße Bo'ortschu und bin der einzige Sohn des Naku Baiyan. Ich will dir helfen.“ Da [band er] sein eigenes Pferd, einen Schimmel, an, ließ den Milcheimer mit einem Deckel bedeckt stehen und sprach zu seinem Vater Naku Baiyan: „Dieser [hier] hat Mühsal, ein Mann allein. Ich will mit ihm gehen, [die Pferde] wiederzuholen. Lass mich!“ [Der Vater sprach:] „Geh, hilf dem Knaben!“ [Bo'ortschu] bestieg den Falben, trieb die acht Pferde von fahler Farbe von hinten [zusammen] und trieb sie vor sich her. [Da kamen] die Diebe, drei zu Pferd, und [verfolgten sie]. [Bo'ortschu] sprach: „Freund, gib mir deinen Bogen! Ich will auf sie schießen.“ [Temüdschin] aber sprach: „Ich will nicht, dass du [meinetwegen] zu Schaden kommst. Ich will [selbst] mit ihnen kämpfen!“ So schoss er auf die [Diebe]. Sie aber wichen zurück. [Temüdschin und Bo'ortschu] trieben die Pferde weiter. Sie kamen an einen Ort und lagerten die Nacht. Am Morgen fanden sie die Pferde ... sie trieben sie heim.
+
+[95]
+
+Nachdem sie drei Tage und Nächte gegangen waren, kamen sie zu Naku Baiyans Haus. [Bo'ortschu] sprach: „Freund, ohne Hilfe, hättest du dies erreichen können? Ich will dein Gefährte sein.“ [Temüdschin] sprach: „Du ...!“ [Bo'ortschu] sprach: „Ich komme, um dir zu helfen, Freund. [Würde ich] äußeren Besitz [davontragen]? Ich bin der einzige Sohn des Naku Baiyan. Meines Vaters Habe ist mir anvertraut. Ich nehme nichts. Ich will dein Helfer sein. Ich will dir helfen!“
+
+[96]
+
+Daheim weinte Naku Baiyan, weil sein Sohn Bo'ortschu fort war. Er sah ihn kommen und weinte und wunderte sich. [Er sprach:] „Was ist aus meinem Sohne Bo'ortschu geworden? Er ist als Gefährte gekommen!“ [Bo'ortschu] sprach: „Ich ging. Jetzt komme ich zurück.“ [Naku Baiyan?] trieb auf der Steppe [die Pferde] in einen großen ledernen Eimer [zur Milchbereitung]. Er gab Temüdschin ein Lamm als Wegzehrung und füllte den großen Eimer mit [Milch] zur Wegzehrung. [Er sprach:] „Du bist noch jung. Künftig, wenn du heimkehrst, vergiss mich nicht!“
+
+Als [Temüdschin] nach drei Tagen zum Fluss Sankur kam, waren Qasar und die Brüder da und freuten sich.
+
+[97]
+
+Darauf schickte [Hö'elün?] den Belgütei zum Dei Sechen aus. [Börte Ujin] ... Als Temüdschin ... kam ... trennte er sich. [Belgütei] suchte am Fluss Kelüren ... und Tschiktscher ... Da war der Dei Sechen Onggira. Dieser freute sich sehr, als er [Belgütei] sah. „Weil die Brüder, die Tardschi'ut, [davon] wussten, war ich bekümmert, als ich es sah“, sprach er. Er verlobte [Börte] und sandte sie [Temüdschin zu]. Der Dei Sechen am Kelüren ... sprach: „Von der Ecke des Kelüren [her] ... die Tochter ... die Mutter ...“ Sie kamen zum Fluss Sankur ... an den Ort ... wo [Temüdschin und die Seinen] lagerten.
+
+[98]
+
+Als er [Temüdschin] sie zurückgeleiten ließ, [sandte er] den Belgütei als Gefährten. [Dei Sechen] überließ [ihm die Tochter]. ... [Börte] ... Sie sprachen nicht viel. [Temüdschin?] bestieg den Fuchs mit der Blesse, belud [ein Pferd] mit Pelzwerk und zog mit dem neuen Gefährten von dannen. Später [beschenkte er?] ihn mit einem ... Von dem Flusse Sankur aus [zogen sie] an das Ufer des Kelüren-Flusses, den Burki Ergi, und lagerten dort. [Sie nahmen] ein Zobelpelzgewand als [Brautgeschenk?], gingen [damit] hin, Qasar, die drei, und [Temüdschin] selbst, und sprachen: „[Wir] sind gekommen, Vater Ong Khan zu sehen.“ [Ong Khan freute sich] und sprach: „[Euer] Vater ... Der weiße Zobelpelz ... Deine Versammlung ... Deine ... Ich will ... vereinigen ...“ [Er sprach:] „[Eure] Söhne ... [Euren] Vater ... den großen Khan“ – Sie nannten ihn „Vater“.
+
+[99]
+
+Darauf, als sie am Burki Ergi lagerten, kam der alte Tscharichudai von den Uriangqan, der einen Blasebalg trug, und führte den Dschelme herbei. [Er sprach:] „Als du am Onon, an dem einsamen Berge, geboren wurdest, gab ich dir diesen in Windeln [als Geschenk?]. Dann, als du klein warst, ging ich fort. Jetzt gebe ich ihn dir, [dass] er dein Türöffner [Diener] sei!“
+
+[100]
+
+Von den Quellen [des Flusses] hinab, als die [Zeit] früh [kam], gelb [wurde die Erde?], stand die Mutter auf, die in ihrem Hause arbeitete. „Die Erde erbebte!“ „Die Tardschi'ut!“ [rief sie.] „Steh auf, Mutter!“ rief Hö'elün Eke ihre Kinder [zu sich] und sprach: „Schnell!“ Temüdschin und die Kinder standen auf, fassten [die Pferde] und bestiegen sie. Eines bestieg [der eine], eines bestieg [der andere]. Eines bestieg [Temüdschin], eines bestieg [Qasar], eines bestieg [Belgütei], eines bestieg [der andere] ... [Auch] Hö'elün Eke ritt [eines]. Für Börte Ujin aber ..., für sie fehlte ein Pferd, so dass sie ... als Handpferd [mitgeführt wurde?].
+
+[101]
+
+Die Brüder stiegen auf und stiegen sofort hinan. Börte Ujin [aber] ließ man auf einem Wagen fahren und zog [sie] so [den Berg hinan?]. Als die Morgendämmerung graute, kamen von gegenüber Scharen herangerannt. „Wer seid ihr?“ fragte [Temüdschin]? „Temüdschins Haus!“ ... „Es ist [Leute von] drinnen? ... Kommt ... kommt zu unserem Hause“ ... [Die Feinde sprachen:] „Temüdschin, [wo] ist dein Haus? Wie [steht es]?“
+
+[102]
+
+Die Krieger zogen ab. [Sie hatten] eine Kuh mit einem Kalbe ... [Sie eilten] zu einem Wagen, brachen die Achse, rannten zu
+
+# Drittes Buch {#gruppe-volume-3}
+
+## Drittes Kapitel {#kapitel-003 .chapter-heading .centered}
+
+**Drittes Buch**
+
+[102]
+
+Qasar, [Belgütei] und die drei [Brüder] gingen zu Tooril Ong Khan, der an der Tula [Tougla] weilte, und sprachen: „Die drei [Männer] haben unversehens unsere Frauen und Kinder geraubt. Der Khan, unser Vater, möge uns retten und kommen lassen!“
+
+Darauf antwortete er: „Habe ich nicht im vorigen Jahr gesagt? Als ich den Zobelpelzrock brachte und mich mit dir, dem Vater, dem Anda, verband – wie es sich gehört –, da sprach ich: ‚Ich, der ich den Zobelfellrock, den ungespaltenen, mit dir, dem Vater, dem Anda, verband, und du, der du den schwarzen Zobelfellrock als Gegengabe mit mir verbandest, bewahrtet uns die Kehle und die Brust.‘ Habe ich nicht gesagt: ‚Jetzt, durch das Wort des Zobelfellrocks, will ich die Merkiten, alle, bis zur Börte Üdschin hin, vertilgen und sie zurückbringen?‘ Du aber sende eine Botschaft zu Dschamucha, dem jüngeren Bruder: ‚Er ist dort. Von hier aus werden wir zur Rechten ausrücken. Wir werden zu zwanzigtausend Mann werden, zur Hand werden.‘ So sprach ich zu unserem Dschamucha.“
+
+Qasar, [Belgütei] und die drei [Brüder] kehrten um und kamen zu Dschamucha. Qasar und [Belgütei] – die zwei – sprachen zu Dschamucha, dem Anda: „Die Merkiten haben uns den Sitz, den leeren, zunichte gemacht. Sind wir nicht ein Stück, ein einziges, vom Nabel? Die Feindschaft, die vergoltene, im Schoße, zur Hälfte, ist mein. Wie sollen wir es nun machen?“ So sprachen sie und sandten [die Botschaft] zu Dschamucha, dem Anda.
+
+Die Keraiten aber sandten zu Dschamucha: „Einst, zur Zeit des Yesügei Khan, des Vaters, dachte ich gut an ihn. Ich will zur Rechten ausrücken. Sende eine Botschaft zu Dschamucha, dem jüngeren Bruder: ‚Rücke aus! Mach einen Treffpunkt aus!‘“ So sprachen sie und beendeten die Worte.
+
+[103]
+
+Darauf sprach [Tooril Khan]: „Ich weiß um den leeren Sitz. Mein Herz schmerzt, im Schoße zur Hälfte. Darum will ich die Uwas-Merkiten vertilgen und [Börte] retten. Die Qa’at-Merkiten, alle, will ich vertilgen und [sie] zurückbringen. Zu jener Zeit, in der Stunde des jähen Schreckens, auf der Bura-Ebene – da war die Zeit des schwankenden [Lichts] am Dair Usun. Am Orchon, zwischen den zwei Flüssen, am Talqun Aral, wo der Wermut im Winde rauscht, am Schwarzen Wald, der sich streitet – jetzt sind sie dort. Wir aber wollen den Qilqo-Fluss durchschreiten und eindringen. Wenn wir jäh auf Togto’a stoßen und eindringen, werden wir die Zeltstangen, die festen, umstürzen und Frauen und Kinder, alle, rauben. Sein Glücksgott, die Zeltstange, die feste, werden wir rauben, die Leere [seines Hauses] werden wir rauben.“
+
+[104]
+
+Weiter sprach er zu Temüdschin, dem Anda, den beiden: „In der Ferne sieht man das Opfer. Die schwarze, starke Kuh, mit Leder bespannt, die Trommel, wird geschlagen. Auf dem schnellen, schwarzen Pferd reite ich. Den stählernen Speer führe ich. Ich habe den Köcher umgehängt. An dem Ort, wo die lange Fahne aufgerichtet ist, da ist meine Trommel gespannt. Ich besteige [das Pferd]. Den Panzer habe ich angelegt. Den Schwertgriff, den Ringdolch, halte ich. Die Pfeile, die Uduit, habe ich angelegt. Mit den Merkiten will ich den Todestanz tanzen. Komm, du, der Bruder, der Temüdschin, der Anda, vom Burqan-Berg! Am Ursprung wollen wir den Treffpunkt halten. Zum Ausrücken: flussaufwärts – die Stämme sind da. Von den Stämmen aus will ich zehntausend Mann stellen. Den Onon-Fluss entlang will ich ziehen und den Treffpunkt halten.“ So sprach Dschamucha.
+
+Belgütei kam und sprach [diese] Worte. Tooril Khan, als er diese Botschaft vernahm, rückte aus. „Beim Ausrücken bin ich am vorderen Burgi-Ufer angekommen“, sprach er. Am Burgi-Ufer bog er vom Weg ab und zog flussaufwärts. Am Tana Qorqan [Tana-Fluss] – dort hatte Temüdschin zuvor sein Lager aufgeschlagen –, zehntausend Mann. Der jüngere Bruder, Dscha’aqambu, war mit zwanzigtausend Mann am Ail Qaraqana. Dort ließ er absitzen.
+
+[106]
+
+Tooril Khan, die drei, brachen auf. Als sie an den Ursprung gelangt waren, drei Tage vor dem Treffpunkt, da hatte Dschamucha seine zwanzigtausend Mann geordnet. Auch Tooril Khan und die anderen ordneten sich. So trafen sie zusammen. Darauf sprach [Dschamucha]: „Ist der Bund, der geschlossene, nicht wie ein einziger Ruf? Sollen wir die, die zu spät kommen, aus der Reihe stoßen?“ So sprach Dschamucha und tadelte, dass Tooril Khan den Treffpunkt um drei Tage versäumt hatte. Der Tadel geschah so.
+
+[107]
+
+Sie brachen auf und kamen an. Sie kämpften. Auf der Bura-Ebene stießen sie durch die Zeltstangen, die festen, die Himmelsöffnungen, und warfen sie um. Sie stießen [die Feinde] nieder, bis sie alle Stämme überwältigt hatten. Zu Togto’a Beki aber, der dort weilte, sollten sie gelangen. Doch der Zobelfänger, der sich zerstreut hatte, brachte in der Nacht die Nachricht zum Feind. Als dies geschah, flohen die zwei Uwas-Merkiten an den Selenga-Fluss, nach Barqudschin [am heutigen Bargusin-Fluss]. Nur knapp entkamen sie. Die Merkiten flohen an den Selenga-Fluss. Zu jener Zeit zog das Heer in der Nacht und verfolgte sie.
+
+Temüdschin aber rief nach Börte. Zu jener Zeit weilte Börte Üdschin unter ihrem Volk. Sie erkannte seine Stimme. Sie stieg herab und kam. Qoaqdschin erkannte Temüdschins Zügel. Es war Mondlicht. Börte Üdschin [war es]. Er umarmte sie und sprengte heran. Temüdschin sprach in dieser Nacht zu Dschamucha, dem Anda: „Ich habe die Gesuchte gefunden. Die Nacht soll nicht vergehen. Lasst uns absitzen!“ So sprach er. Die Merkiten waren geflohen. Die ganze Nacht hindurch kamen sie. Dort, wo sie [die Merkiten] getroffen hatten, kehrten sie ein.
+
+[108]
+
+Bei der ersten Rettung der Merkiten – Togto’a Beki, Dair Usun, Qa’atai Darmala –, dieser Merkiten, die einst dem Togto’a Beki gehörten: Als man dem Großen Chiledu die Hö’elün, die Mutter, geraubt hatte, um dies zu rächen, da hatte man Temüdschin dreimal [verfolgt]. Börte Üdschin aber war damals bei Chiledus Bruder, Chilger Bökö, untergebracht. Chilger Bökö aber floh. Zu jener Zeit sprach er: „Der schwarze Rabe, der Krähenvogel, soll den Rest, die Haut, fressen! Der Kranich, der Schwan, der Kormoran – sie haben ihr Teil. Ich aber, der Übeltäter, der die Merkiten, alle, bedrängt hat – ich, Chilger, bin nun an dem Punkt angelangt, wo mir [das Schlimmste] widerfahren muss. Wenn ich entkomme, wenn ich hineingerate, wird mir geschehen, was geschehen muss. Der Vogel Quladu, der Vogel, der nach dem Schwan, dem Kormoran, verlangte – Chilger, der das Glück, den Segen, einzusammeln kam –, das Unheil ist auf mein Haupt gekommen. Ich bin wie ein Schafmistklumpen. In die finstere Enge bin ich gekrochen, wie ein Schafmistklumpen soll mein Leben werden.“ So sprach er und floh.
+
+[109]
+
+Qa’atai Darmala aber führte man ab. Er trug einen hölzernen Block. Zum heiligen Berg Burqan wurde er von Belgütei geführt. Belgütei ging, um seine Mutter zu suchen. Er trat zur rechten Seite in die Hütte ein. Da kam sie, in zerrissenem Schafspelz, zur linken Seite heraus. „Ich bin zum Fremden geworden, zum Qat [Khan]“, sprach sie. „Böse hast du mich verheiratet. Ich will meine Kinder sehen!“ So sprach sie. Belgütei, der Noyan, kroch durch das Dickicht und suchte. Er fand sie. „Lass die Mutter kommen!“ sprach er. Mit einem Pfeil mit Knochenspitze [schoss er] auf die Merkiten, die sich am Burqan-Berg versammelt hatten. Ihre Nachkommen, wie Asche, die übriggebliebenen Frauen und Kinder, die Leute, ließ man zum Tor hinein, die Leute ließ man hinein.
+
+[110]
+
+Tooril Khan und die beiden [anderen] sprachen voller Dank: „Unser Dschamucha, der Anda, der Gefährte, ist vom Himmelsgott und Erdgott hinzugefügt worden. Er hat einen Namen bekommen. Die Feinde, die im Schoße, im Leeren, [saßen], hat er zu den Seinen gemacht. Ihr Leeres hat er zu den Seinen gemacht. Wir wollen die Übriggebliebenen, die Reste, auch zu unserem Volk machen. So lasst uns abziehen!“ So sprachen sie.
+
+[111]
+
+Den fliehenden Zobel, die Hirschkuh, die Stiefel, das Wasser, das zusammengefügte, das fünfjährige, das einen Namen hatte, das Feuer, das in unserem Lager zurückgeblieben war, das führte man der Hö’elün, der Mutter, zu und zog ab.
+
+Tooril Khan, die drei, warfen die Merkiten nieder und plünderten sie. Vom Selenga, vom Talqun Aral, zogen sich Temüdschin und die beiden anderen zurück an den Qorqonaq-Flussgrund. Beim Rückzug zogen sie am Rücken vorbei. Die Quriyatu Subčit, die wilden Tiere, wiesen auf die Tula. Temüdschin und die beiden anderen trafen sich. Sie gedachten der früheren Freundschaft und sprachen: „Wir wollen uns als Anda verbinden!“ Als sie sich als Anda verbanden: Im Alter von elf Jahren hatte Dschamucha dem Temüdschin einen Knöchel [zum Spielen] geschenkt. Mit einem kupfernen [Ring] tauschten sie und wurden Anda. Sie sprachen [den Schwur] am oberen Onon. Dort sprachen sie. Später, als Dschamucha hölzerne Pfeile [machte] und zwei [davon] mit Leim bestrich, tauschte Temüdschin, der eine Stimme hatte, einen Kopf [eines Pfeils?] mit Dschamucha und sie wurden Anda. Bei der ersten Anda-Freundschaft sprachen sie: „Das Leben des Anda soll nicht eines sein, es soll nicht getrennt werden.“ So sprachen sie. Jetzt, um den Anda zu ehren, plünderten sie die Merkiten. Sie ließen Dschamucha, den Anda, auf einem goldenen Pferd reiten, das Togto’a nicht besprungen hatte. Die Beute der Uwas-Merkiten, das Goldene, ließen sie auch Temüdschin, dem Anda, [geben]. Wie ein gehörntes [Tier] war Temüdschin. Am Qorqonaq-Flussgrund, unter dem dichten Hang [dort, wo Qutula Qan eingesetzt worden war], ehrten sie einander, feierten ein Fest, freuten sich und verbrachten die Nacht beisammen.
+
+[112]
+
+Dschamucha und Temüdschin ehrten einander ein Jahr lang. Im Jahr der Ehrung, an einem Tag, standen sie auf. Der sechzehnte [Tag] des ersten [Monats?] war aufgegangen. Als sie mit Dschamucha zusammen vorgeritten kamen, sprach [Dschamucha]: „Anda! Lass uns hier absitzen! Die Pferdehirten sollen sich an die Zelte heften. Lass uns hier absitzen! Die Schafhirten, die Lämmerhirten, sollen sich an die Kehle heften [d.h. sich um die Nahrung kümmern].“ Temüdschin aber schwieg. Er blieb zurück und wartete eine Weile. Dann sprach Temüdschin: „Dschamucha, der Anda, hat gesagt: ‚An den Berg gelehnt, sollen die Unseren sich [dort] niederlassen. Lasst uns absitzen! Die Schafhirten, die Lämmerhirten, sollen sich an die Kehle heften.‘“ Er verstand diese Worte nicht und gab keine Antwort. Er kam zu seiner Mutter und sprach.
+
+[113]
+
+Ohne eine Antwort zu geben, sprach [Hö’elün]: „Er hat sich an dir satt geredet. Für uns ist die Zeit gekommen. Die Worte Dschamuchas, des Anda, sind Worte [der Trennung]. Rühre dich nicht! Ziehe klar und hell die ganze Nacht hindurch!“ So sprach sie.
+
+[114]
+
+Auf diese Worte hin saßen sie nicht ab. Sie brachen auf. Unterwegs aber zogen die Taici’ut, auch die Taici’ut, in dieser Nacht auf Dschamuchas Seite. Die Gefährten aber, die in den kleinen Lagern waren, nahm ich und führte sie der Hö’elün, der Mutter, zu. Als der Morgen anbrach, kamen von den Dschalair: Qaraqai Toqura’un, die drei Brüder, und Qada’an Daldurqan, die fünf. Von den Mönggetü Qiyan kamen Önggür und Čangši’ut zusammen. Von den Barlas kamen Qubilai und die Brüder. Von den Möngqut kamen Doqolqu Čerbi und Ögölen Čerbi, die zwei. Von den Arulat kam Bö’örčü, der Sohn des Naqu Bayan, und verließ Dschamucha. Er kam zu Bö’örčü. Von den Uriyangqai kamen Čelme und der jüngere Bruder Sübe’etei Ba’atur. Dägäi und die Brüder kamen. Von den Suldus kamen Taqi und die Brüder. Von den Dschalair kamen Arqai Qasar und die zwei. Söyikätü Čerbi, der Sohn der Süköken, kam. Čaqa’an Uwa von den Olqunu’ut kam. Von den Qorolas kamen Sečü’ür und Möči Bedü’ün. Von den Ikires kamen Bödtü und die Brüder. Von den Noyakin kamen Dschirqo’an und die Brüder. Von den Barlas kamen Qaračar und die Brüder.
+
+[115]
+
+Von den Ba’arin kamen Kököčüs und viele andere. Qorči aber sprach: „Wir sind aus demselben Schoß geboren wie Dschamucha. Wir waren unzertrennlich. Eine göttliche Offenbarung hat mir gezeigt: Eine Kuh ging zu Dschamucha und stieß an seinen Wagen. Sie wurde einhörnig und sprach: ‚Gib das Horn her!‘ Dann brüllte sie und hob es empor. Ein hornloser Ochse aber spannte sich über die Zelte und brüllte auf der großen Wagenstraße zu Temüdschin. Der Himmelsgott beriet und sprach: ‚Temüdschin soll der Herr sein!‘ So lud er ihn auf und kam. Diese Offenbarung hat er mir gezeigt. Du, der du mich zum Herrn gemacht hast, du sollst mich erfreuen!“ So sprach er. „Wenn du das Reich zum Zehntausendschafts-Herrn machst“, sprach Qorči, „ist das ein Grund zur Freude? Wenn du mich zum Zehntausendschafts-Herrn machst und mir schöne Jungfrauen nehmen lässt, Frauen haben lässt, und was immer ich rede, sollst du es hören!“ So sprach er. Qunan von den Geniges kam. Daritai Öčigin kam. Mülqalqu kam auch von den Nünjin und den Saqai. Als sie am Qimirqa-Fluss absaßen, kamen von den Dschürkin der Sohn des Sača, Taiču, eine Schar, von Nekün Taisi, Qučar Beki, eine Schar, von Qutula Qan, Altan Öčigin. Diese alle verließen Dschamucha und saßen am Qimirqa-Fluss ab, wo sie [Temüdschin] absaßen.
+
+[117]
+
+Sie standen auf. Im Inneren saßen die Qara Dschürüken ab.
+
+Qučar und die anderen sprachen zusammen: „Wir wollen Temüdschin zum Khan machen! Als Vorhut wollen wir rennen und die schönen Jungfrauen, die Gattinnen, rauben und herbeibringen. Die Wangen der Fremdvölker, die schönen, die guten Hinterbacken, die guten Reittiere wollen wir dir geben. Das Wild der Steppe, die Vorhut, wollen wir dir geben. Das Wild der offenen Steppe wollen wir dir zutreiben. Das Wild der Klippen wollen wir dir zutreiben. An dem Tag, da wir uns von dir trennen, sollen unsere Frauen und Kinder auf der Erde zurückbleiben. An dem Tag, da wir dir nicht folgen, sollen unsere Frauen und Kinder verlassen sein.“ So setzten sie fest, schworen einen Eid und machten ihn zum Dschingis Khan [zum starken Herrscher].
+
+[118]
+
+Als er Khan geworden war, setzte er Bö’örčü und Ögöläi Čerbi zu [seinen Begleitern] ein.
+
+Den Köcher [übergab er] Čädäi und den Brüdern. Den Köcher [übergab er] Qorči. [Er sprach:] „Tragt den Köcher!“ Önggür aber sprach: „Lass mich nicht [davon] abhalten! Lass mich nicht [davon] abhalten!“ So machte er es. [Er sprach:] „Am Morgen sollst du nicht säumen! Du sollst nicht schlafen! Die Schafe, die gelben Schafe, sollst du hüten. Du sollst nicht gefräßig sein. Die Schafe sollst du hüten. Ich will die Schafe [hüten]“, sprach er zu den jüngeren Brüdern. „Lass den Keil nicht locker! Lass den Wagenweg nicht verderben!“ So sprach er über die Wagen. Über die Diener im Haus sprach er.
+
+[119]
+
+Čilgütäi und die drei [anderen] sprach er an: „Tragt [die Waffen] mit euch! Was zu tragen ist, das tragt! Was zu binden ist, das bindet!“ So sprach er zu den Waffenträgern.
+
+Qaraldai Toqura’un [machte er] zum Wallach-Rosshirten.
+
+Qutu Möriči und die drei [anderen] sprach er an: „Hütet die Pferde!“ Arqai Qasar, Sükögäi und die vier [anderen] sprach er an: „Seid die Nahen, die Pfeile!“ Sübe’etei Ba’atur sprach er an: „Sammle die Mäuse! Sie sollen sich versammeln! Was außen ist, soll zur Pferdedecke, zum Filz werden. Prüfe den Mut! Das Haus soll sich zur Wehr setzen!“ So sprach er.
+
+[120]
+
+Dort, als er Khan geworden war, sprach Čelme: „Als die zwei im Schatten, draußen, waren, da hast du mein Herz ruhig gemacht. Als die Peitsche drinnen war, da hast du mein Herz ruhig gemacht. Mein [Leben] ist in dir.“ So sprach er. „Ihr, die ihr zuvor [bei mir] wart, seid die Älteren geworden. Ihr [seid es]“, sprach er weiter. „Wenn mir Kraft geholfen wird, dann werden die Alten, die mit Dschamucha, dem Anda, Gefährten sein wollten, Glück haben. Auch ich [werde es] mit euch [haben].“
+
+[121]
+
+Nachdem er zum Khan gemacht worden war, sandte er Sükögäi als Boten zu Tooril Khan. Tooril Khan aber sprach: „Mein Khan soll die Mongolen nicht zu sehr bedrängen! Er soll keine Abmachung treffen! Er soll keinen Knoten knüpfen! Er soll [nichts] zerreißen!“ So sandte er [die Botschaft].
+
+Ende des dritten Buches der Geheimen Geschichte der Mongolen.
+
+# Viertes Buch {#gruppe-volume-4}
+
+## Viertes Kapitel {#kapitel-004 .chapter-heading .centered}
+
+**Viertes Buch**
+
+[120] Nachdem er Arqai Qasar, die beiden, an jenen Ort gesandt hatte, sprach er: „Quchar soll sprechen“, und sandte sie: „Quchar, ihr beiden, was habt ihr zwischen mir die Lendenwirbel gespalten, die Rippen gebrochen? Was habt ihr mich, Temüdschin, den Anda, der ich euch nicht trennen ließ? Was habt ihr im Sinn, dass ihr einen Khan gemacht habt? Altan, ihr habt gesprochen; folgt dem, gebt mir ein gutes Herz!“ So sandte er sie.
+
+[121] Jener Dschamucha aber – sein Taičar (Taičar) (Im Heereszugbericht und in der Yuan-Geschichte: Dschalama (Bergname)) wohnte am Ölegei Bulaq (der Quelle von Ölegei). Da ging J̌oči D̨armala (Im Heereszugbericht: ) mit einer Pferdeherde zur Sa'ari Ke'er (Sa'ari-Ebene). (Die Sa'ari Ke'er ist die Sa'ari-Ebene; im Heereszugbericht und in der Yuan-Geschichte heißt es Sa'li-Fluss. Auch Sa'li-Fluss ist nicht richtig; es ist kein Fluss, sondern ein weites Tal. „Fluss“ wird auch im Sinne von Tal gebraucht. Nach dem Mingzong-Bericht der Yuan-Geschichte: Im ersten Monat des zweiten Jahres Tianli bestieg er den Thron nördlich von Hening, im dritten Monat hielt er am Ort Jieqian Chahan, am vierten Tag des fünften Monats erreichte er den Osten des Orhan-Flusses (Orhun-Fluss), am dreiundzwanzigsten Tag den Osten des Tula-Flusses (Tu'ula-Fluss), am fünfzehnten Tag des sechsten Monats den Ort Sali Qer, am einundzwanzigsten Tag erreichte er Qödöje Alalun und zog von dort nach Süden nach Shangdu. Sali Qer ist eben die Sa'ari Ke'er. Qödöje Alalun ist das Qöde'e Aral, das am Ende dieses Buches erscheint, eine Insel im Kerülen-Fluss. Wenn man von Westen kommt und vor der Qöde'e-Insel die Sa'ari-Ebene erreicht, dann muss die Sa'ari-Ebene im Oberlauf des Kerülen-Flusses liegen. Jin Youzis Beizheng Lu sagt: „Shuangquan Hai, das ist Sali Qer. Dort, wo der erste Kaiser (Taizu) seinen Aufstieg begann, wurden früher Paläste erbaut. Berge und Flüsse umgeben ihn, es gibt zwei Meere. Im Nordwesten gibt es drei Pässe, die zum Yima-Fluss und zum Tula-Fluss führen.“ Jener Palast ist der Ort, der im Taizu-Bericht als der Reise-Palast von Halaotu in der Sa'li-Ebene genannt wird; eines der beiden Meere muss der Halaotu-See sein, der heutige Gaolao Tai-See.) J̌oči D̨armala stahl sie und trieb sie fort. Nachdem die Pferdeherde fortgetrieben worden war, ging J̌oči D̨armala allein, erreichte die Pferdeherde, legte sich auf das Pferd, um Taičar zu brechen und zu töten, führte (seinen) jüngeren Bruder, der getötet worden war, und so wurden die dreizehn Stämme, deren Häupter waren, zu dreißigtausend Mann, überstiegen die Türge'üt (zwei Bergnamen. Im Heereszugbericht: zwei Berge) und kamen an jenen Ort. Mülke Tötaq (Im Heereszugbericht: Moli Tutu), Buluntai (Im Bericht des Bo'u: die beiden), die beiden, sandten eine Nachricht an Gürelgü an jenem Ort. Dschingis Khan – auch Dschamucha war ausgerückt – traf (im Kampf) auf der Ebene von Dalan Balschus (Dalan Balschus' Ebene) und entkam von dort an den Onon (Onon-Fluss) vor Dschamucha.
+
+Er sprach: „Wir (sind) bei Dscherene“, und als die Siebzig der Tschinos (Tschinos-Stamm) gekocht und die Häupter an die Pferde gehängt wurden, kehrte Dschamucha um. Da kamen der Uru'ut (Uru'ut-Stamm) – Tschütschitai (Tschütschitai, aus dem Uru'ut-Stamm), der im Bericht des Weidar (steht), führte sie – und der Mangut (Mangut-Stamm) – Qutindar (Qutindar, aus dem Mangut-Stamm), der im Hauptbericht (steht), führte sie –, trennten sich und kamen von Dschamucha, der beim Qonggotan (Qonggotan-Stamm) an jenem Ort weilte, zu Dschingis Khan, sieben Mann. Als diese kamen, freute er sich über sein eigenes Reich. Als Hö'elün Üdschin und die Dschürkin (Dschürkin-Stamm) mit Taiču (Taiču) am Onon (Onon-Fluss) im Inneren ein Gastmahl hielten, neigte sich Hö'elün Üdschin zu Sača Beki (Sača Beki) [<span class="annotation">„Sača Beki“ ist im Original „Sačabeki“. In Anlehnung an das unmittelbar vorhergehende „Sača Beki“ wurde die Namensgrenze eingefügt.</span>] und anderen auf eine Seite. Wegen der Mutter des Sača Beki (der Nebenfrau des Šorqatu Dschürki, der leiblichen Mutter des Sača Beki), Seče Begi (Seče Begi), der Stiefmutter, die als erste den Krug (nahm), und wegen Qurčin Qatun (Qurčin Qatun, die zweite Gemahlin des Šorqatu Dschürki. Im Heereszugbericht und in der Yuan-Geschichte: Qoridschin Qatun) – „Was sprecht ihr von mir, Ebegen? Geschlagen wurde Šigi'ur (Im Heereszugbericht und in der Yuan-Geschichte: Šigi'ur), und wegen Šigi'ur und Yesügei Baatar, der beiden, wie ist dieses Schlagen?“ –, da schrie er mit lauter Stimme beim Gastmahl. Belgütei aber hielt das Gastmahl für Dschingis Khan. Buri Bökö (Buri Bökö) (Im Heereszugbericht und in der Yuan-Geschichte: ) hielt das Gastmahl. Vom Pferdeversammlungsort (Mongolisch: Kiles, der Heereszugbericht vermerkt: „Ort außerhalb des Verbots, wo die Pferde angebunden werden“, die Geschichte: „Weideplatz im Freien“) stahl ein Dieb den Zügelriemen. Buri Bökö schützte ihn, rang wie gewöhnlich, zog den rechten (Arm) aus [124] und ging fort. So ging Buri Bökö mit nackter Haut, um Belgütei zu spalten. Belgütei tat ihm nichts, das Blut ging. Im Schatten sah er das Gastmahl, kam und sprach: „Was (tut ihr) so, wir?“ Belgütei aber: „Die Wunde soll mir zu Brüdern werden, mir, mir ist wohl. Nur ein wenig, wenn die Zeit kommt, eine Weile“, sprach er.
+
+[124] Belgütei aber willigte nicht ein, brach einen Ast, ergriff den Rührstock, traf (ihn), siegte, raubte Qurčin Qatun, kehrte zurück, und auf Geheiß, sich zu versöhnen, gab er Qurčin Qatun zurück. Als sie sich treffen wollten, zur Zeit, da (es) traf, (sprach er): „Das Volk der Tataren, Megüdschin Süültü (Megüdschin Süültü) (soll) dem Leben (nach) – Wangjing, der Kanzler (Wangjing, das ist die Umwandlung von Wanyan, dem Familiennamen des Jin-Reiches. In der Jin-Geschichte, in den Biographien, der kaiserliche Clan Xiang, das ist der rechte Kanzler Wanyan Xiang) – „Ordnet euch, zertretet sie!“, sprach er. Wangjing, der Kanzler, (hörte), dass das Haupt, der Ulča-Fluss (Ulča-Fluss) (In der Jin-Geschichte, in der Biographie des kaiserlichen Clans Xiang: stromaufwärts) – „wegen der Verpflegung [125] gekommen“ –, das erfuhr er. Als er das erfuhr,
+
+[125] sprach er: „Von heute an ist das Volk – der Vater hat Feinde – jetzt diese Kraft – wir.“ To'oril Khan und Altan Khan verfolgten die Tataren, deren Haupt am Ulča-Fluss war, und sprachen. „Den verlorenen Ahnherrn (rächen) – zwischen uns. Schickt schnell eine Botschaft!“ Als dies ausgeführt wurde, sprach er: „Der Sohn hat es sagen lassen. Lasst uns zusammentreffen!“, sprach er. Am Tage versammelten sie sich, erhoben sich, eilends. Dschingis Khan, die beiden, sandten zu Sača Beki, dem Haupt der Dschürkin (Dschürkin-Stamm): „Von heute an – den verlorenen Ahnherrn – jetzt diese Zange – gemeinsam“, sprach er. Da die Dschürkin sechs Tage [warteten] und nicht kamen, erhoben sie sich gemeinsam mit To'oril Khan, folgten (ihm), und die Kraft kam. Am Nalatu Šitü'en (Nalatu Šitü'en) [<span class="annotation">„Nalatu Šitü'en“ ist im Original „Nalatušitü'en“. In Anlehnung an die chinesische Lautumschrift in §133 (04:13:09~10) von Shiratoris „On'yaku Mōbun Genchō Hishi“ wurde es in zwei Wörter geteilt.</span>] (Im Heereszugbericht: Nalatu Šitu, Qusutu Šitu' Feld) – Megüdschin (Megüdschin) von den Tataren – dort hielten sie sich. [126] To'oril Khan – aus der Festung, in die sie sich eingeschlossen hatten, nahm er dort Megüdschin Süültü (Megüdschin Süültü) samt seinem Wagen und seiner Decke.
+
+[126] Nachdem er getötet worden war, tötete To'oril Khan (ihn). Wangjing, der Kanzler, (fand) es überaus (gut) und gab Dschingis Khan den Namen Dschau'ut Quri (Dschau'ut Quri. Dschau'ut ist der Plural von Dscha'un, hundert. Quri bedeutet sammeln; es ist die Wurzel von Wörtern wie quriya, sammeln, und qural, Versammlung. Es dürfte also die Bedeutung „Hauptmann der Hundertschaft“ haben.) To'oril gab er den Namen Wang Khan (Wang Khan). Dort, gestützt auf Wangjing, den Kanzler, wurde er so genannt. Er sprach: „Ihr habt euch vereint und Altan Khan einen großen (Dienst) erwiesen. Eure Hilfe habe ich gemeldet. Von nun an sollt ihr wissen, dass ich den Titel eines Zhaotao (Zhaotao, Kommissar zur Befriedung) verleihe.“ Wangjing, der Kanzler, zog sich von dort so zurück. Wang Khan teilte die Tataren auf, nahm (seinen Anteil) und ließ die Familien absitzen.
+
+[127] Als sie die Eingeschlossenen niederließen, zur Zeit, da (man) die Kleinen, die Weggeworfenen, fand, erbeuteten die Krieger (etwas). Ein Kind mit einem goldenen Faden-Zobelbauchlatz (Bauchlatz aus Zobelfell mit Goldfäden) wurde gebracht und Hö'elün Eke (Hö'elün Eke) gegeben. Er sprach: „Der Hauslinie eines Menschen – der fünf jüngeren Brüder eines Menschen – soll er ein Sohn werden.“ Er gab ihm den Namen und zog es auf. (Im späteren Text heißt es Šigi Qutuqu, ohne das Zeichen „Khan“. Im Heereszugbericht und in der Yuan-Geschichte: Quduqu; in der Yuan-Geschichte, im Taizong-Bericht, auch Qutuqu.)
+
+[127] Das Alte Lager (Altes Lager) war da. (Qariltu-See. Im Heereszugbericht: ) Am Alten Lager (töteten sie) Leute, fünfzig Kleider und zehn (Mann). „So – unsere Zurückgebliebenen – meldet es Dschingis Khan!“ Dschingis Khan aber zürnte den Dschürkin: „Wie (konntet) ihr so, wir? Zur Zeit im Wald habt ihr auch Šigi'ur geschlagen. Auch die Schulter habt ihr abgehauen. Qoridschin Qatun, die beiden Frauen, habe ich euch gegeben. Später gab es Feinde. Als wir gegen die Tataren, die Mörder unseres Vaters, ausrücken wollten, seid ihr sechs Tage nicht gekommen. Auch (habt ihr euch) auf (sie) gestützt, auch sie sprachen, und die Dschürkin rückten aus. Am Dolo'an Bolda'ut (Dolo'an Bolda'ut) am Kerülen (Kerülen-Fluss) erbeuteten sie sie. (Die Qöde'e-Insel erscheint in Band 15 [<span class="annotation">„Band 15“ ist wie im Original. Auch in der Showa-18-Nachdruckausgabe so. Tatsächlich in Band 12 des Originals.</span>] sowohl als Qöde'ü Aral als auch als Qöde'e Aral. Dolo'an ist sieben, Bolda'ut ist der Plural von Boldaq, einsamer Hügel, also sieben Hügel. Im Heereszugbericht: ) Sača Beki, die beiden, – sie überfielen sie, jagten, ergriffen Sača Beki, die beiden. Zu Sača, den beiden, sprachen sie: „Früher – wir – das Wort – wir haben gesprochen.“ Taiču sprach: „Dem Wort haben wir nicht gehorcht. Dem Wort gemäß – so ließ er es wissen und gab (es). Das Wort – sie sollen ihm gehorchen – gerade – er gab es auf. (Die Rede vom vorigen Tag bezieht sich auf die Eidesworte bei der Erhebung Dschingis Khans.)“
+
+[129] Nachdem Taiču beseitigt war, kamen sie, und zur Zeit, da (man) das Volk (nahm), (da war) der Güngü'a (Güngü'a) des Tebegetu Bayan (des Alten von Tebegetu) (In der Yuan-Geschichte, in der Biographie des Muqali: ), Čila'un Qaiči (Čila'un Qaiči) (In der Yuan-Geschichte, in der Biographie des Möngkeser: ), und Dschebke (Dschebke) weilte bei den Dschürkin. Muqali (Im Heereszugbericht und in der Yuan-Geschichte: ) und Buqa (Buqa) (In der Mengda Beilu: ) – die beiden erschienen (und sprachen): „Dir – soll er (dienen). Haushalt (und) – wenn er vor dir flieht – seine – dir – von dir – dann schneide die Leber (das Herz) weg und wirf sie fort!“ So gaben sie (sie). Töngge (Töngge), die beiden, sprachen zu Dschingis Khan: „Gold (Altan) und Haushalt habe ich dargebracht. Wenn er von dir fortgeht, brich ihm das Leben ab und hebe (ihn) empor (tu, was ihn emporhebt)!“ So sprachen sie. Dschebke aber gaben sie (ihm).
+
+Von den Dschürkin (gab man) den kleinen Boro'ul (Boro'ul) (Im Heereszugbericht und in der Yuan-Geschichte: Borqu) als Gefährten und gab ihn Hö'elün Eke.
+
+[130] Die Erbeuteten der Merkiten, die Erbeuteten der Taitschi'uten, die Erbeuteten der Besüten, die Erbeuteten der Tataren, die Erbeuteten der Dschürkin – diese vier – in ihrem Inneren sprach Hö'elün Eke: „Sollen sie (mir) zum Dienst – bei Tag und Nacht – nur zum Ohr werden?“ So (dachte sie). Im Inneren – der Ursprung der Dschürkin: Es gab sieben ältere Brüder, deren Šorqatu Dschürki (Šorqatu Dschürki). Vom älteren Bruder des Qabul Khan (Qabul Khan) und aus der Mitte des Volkes (wählte man) die, deren Daumen (gut), deren Lunge (gut), deren Mund (voll) (die mit lauter Stimme), die Männer mit Geschicklichkeit, die Tapferen, die Mut hatten, die Tapferkeit hatten – die Dschürkimes (Dschürkimes) (Die Ming-Übersetzung: „Es gibt solche, die alle durchbrechen, denen niemand widerstehen kann“) – so war der Ursprung der Dschürkin. Solch ein Volk machte er sich untertan und vernichtete den Stamm. Das Volk aber – Dschingis Khan (machte es zu) seinen Nahestehenden. Dschingis Khan aber (sprach) zu Buri Bökö (Buri Bökö) (dem früheren Buri Bökö), den beiden: „Lasst sie ringen!“ Zuvor weilte er bei den Dschürkin. Er ergriff Belgütei, schleuderte ihn und bewegte ihn nicht. Buri Bökö aber war ein Bökö (Ringer). Dort ließ er Buri Bökö ringen. Obwohl er ein Mann war, der nicht besiegt werden konnte, fiel Belgütei, stieg auf Schulter und Gesäß, blickte zurück und sah, dass (Buri Bökö) die Unterlippe (zeigte). Belgütei ergriff sie, drückte oben [131] seinen Kragen nieder, setzte das Rückgrat an und ließ (ihn) los. Das Rückgrat – er sprach: „Er war nicht zu besiegen. Er täuschte den Khan, zögerte und ließ sich nehmen“, sprach er und ging fort. Er zerrte ihn und schleifte ihn fort. Von den sieben älteren Brüdern – der nächste Sohn – der Sohn des Yesügei – das ist jener (Bartan) – es gab Qutuqtu Möngler (Qutuqtu Möngler aus Band 1). Dessen Buri (Buri) (war es). Als sie stritten, (entstand er) aus dem Sohn. Der tapfere Gefährte, der Buri Bökö, der Bökö, starb am Rückgrat.
+
+[131] Darauf (kamen) die Qatagin (Qatagin), die Qadaqin (Qadaqin), vereint, der Baqušlorogi (Baqušlorogi) von den Qatagin, der Čilgidai Ba'atur (Čilgidai Ba'atur) von den Saldschi'ut (Saldschi'ut), die Dörben (Dörben), die sich verbündet hatten, die Häupter der Dörben (Dörben), Alči Tatar (Alči Tatar) (Name einer Abteilung der Tataren. Im Heereszugbericht und in der Yuan-Geschichte: ), Dsambuqa (Dsambuqa) von den Ikires (Ikires) (Im Heereszugbericht und in der Yuan-Geschichte: ), Dogemaqa (Dogemaqa) von den Ongirat (Ongirat) (Im Heereszugbericht und in der Yuan-Geschichte: ), Dergök Emel (Dergök Emel) [132] (Im Heereszugbericht: ), Alqui (Alqui) von den Qorolas (Qorolas) (Der Qorilar-Stamm aus Band 1. Im Heereszugbericht und in der Yuan-Geschichte: ), Čonaq (Čonaq), das Haupt, von den Güčü'üt Naiman (Güčü'üt Naiman) (Name einer Abteilung der Naiman) – Buyiruq Khan (Buyiruq Khan), in der Yuan-Geschichte: ), von den Merkiten – Toto Beki (Toto Beki) und Qutu (Qutu) (Im Heereszugbericht: Qodu), von den Oiraten (Oiraten) – Quduqa Beki (Quduqa Beki), von den Taitschi'uten – Tarqutai Qiriltuq (Tarqutai Qiriltuq) (Im Heereszugbericht: ), Qodon Orčang (Qodon Orčang) (Im Heereszugbericht: ), Auču Ba'atur (Auču Ba'atur) (Im Heereszugbericht: Aqču Baqatur) – die Taitschi'uten, der Stamm, am Alui-Quell (Alui-Quelle) – mit dem Fürsten der Dschadaran (Dschadaran) – sie trafen sich zur Zerteilung eines Hengstes, trafen sich, erhoben sich am Ergüne Müren (Ergüne-Fluss, im Shuidao Tigang der Ergüne-Fluss, im Shuofang Beicheng der Ergüne-Fluss), am Gen-Fluss (Gen-Fluss), am Ufer des Tulberü-Flusses (Tulberü-Fluss) – im Bericht des Zhaolietai Chao'ur – und machten Dschamucha zum Gür Khan (Gür Khan, allgemeiner Herrscher, Sumeragi. Gleichbedeutend mit Qamuq Khan. Im Heereszugbericht: Gür Khan). Sie wollten gegen Dschingis Khan, die beiden, ausrücken und trafen sich. Der Qorolas (Qorolas) – Qoritai (Qoritai) – sandte eine Nachricht an Gürelgü an jenem Ort. Als diese kamen, (meldete er es) Wang Khan. Wang Khan, als dies ausgeführt wurde, erhob sich und kam zu Dschingis Khan.
+
+[133] Als sie kamen, vereinten sie sich mit Wang Khan, zogen zur Begrüßung aus, sprachen, am Kerülen-Fluss (Kerülen-Fluss) ausrückend, Altan und Daritai als Vorhut. Wang Khan aber (sandte) Senggün (Senggün) und Bilge Beki (Bilge Beki) als Vorhut. Wiederum sandte er zur Vorhut – einen Späher – jenen – er ließ einen Sitz (von Pferden) loslassen. Jenseits, am Čikčer-Berg (Čikčer-Berg) (Čekčer aus Band 1 und 2. Im Heereszugbericht: ), ließen sie einen Späher los. Als unsere Altan und Senggün bei den Udkija (Udkija) absitzen wollten und die Zeit kam, kam ein losgelassener Mann und meldete: „Sie kommen!“ Als sie kamen, gingen sie zur Feindesmeldung. Ob die Meldung (der Vorbereitung) entsprach – von den Mongolen Dschamuchas, den Naiman, den Merkiten, den Söhnen der Oiraten, den vieren – „Unsere Vorhut – sie rufen [134] und schreien – lasst uns kämpfen!“ Sie zogen sich zurück, trafen sich, näherten sich am nächsten Tag, stiegen am Keitan (Keitan) herab, forderten heraus, stellten sich in Schlachtordnung. Jene aber, die den Quduqa-Zauber (Mongolisch: ) kannten und zauberten – den Dschada (Dschada, den durch Beschwörung erzeugten Sturmregen) – der wurde ihnen zum Sturmregen. Als er in die Gräben fiel, (sprach man): „Er war nicht geliebt, er ist zerfallen.“ (Die Sache mit dem Dschada: Im Chuogeng Lu, Band 4, heißt es: „Oft sieht man die Mongolen um Regen beten. Sie nehmen nur eine Schale mit klarem Wasser und legen einige Steinchen hinein. Die großen sind wie Hühnereier, die kleinen ungleich. Dann murmeln sie heimlich einen Zauberspruch, spülen und spielen mit den Steinchen. Nach einer Weile kommt Regen. Die Steine heißen Zhada; sie werden im Bauch von Tieren geboren. Die von Rindern und Pferden sind am besten. Es dürfte sich um Rindergallensteine oder Hundebezoare handeln.“ Jin Youzis Beizheng Lu sagt: „Am 28. Mai des 8. Jahres Yongle brachen wir von Shuangqingyuan auf, erreichten mittags den Fluss, banden Flöße und überquerten ihn. Wir fanden ein Brett mit Barbarenschrift. Der Dolmetscher las es; es war ein Regengebet. In der Barbarensprache heißt es Zhada, auf Chinesisch: Verwünschung von Wind und Regen. Die Barbaren haben diese Kunst.“ Im Donghualu, im kaiserlichen Erlass des 56. Jahres Kangxi, heißt es: „In den Büchern steht etwas von Donneräxten und Donnerkeilen. Die aus tiefen Wäldern sind alle aus Stein, die aus der Ebene alle aus Kupfer. Ich habe die meisten. Wenn man einen kleinen Stein in Quellwasser legt und umrührt, kann man Regen erflehen. Auf Mongolisch heißt es Zhadaqi, in den Büchern Zida.“ In Fang Guanchengs Anmerkungen zum Songxi Zhang-Gedicht: „In der Mongolei und in den Westregionen betet man um Regen, indem man Zhada-Steine ins Wasser legt und beschwört; es wirkt immer. Zhada wird im Bauch von Kamelen und Schafen geboren. Runde sind wie Eier, flache wie Tigerbeine. Die in der Niere mit Papageienschnabel sind gut, die Farben sind gelb und weiß. Kamele und Schafe, die dies haben, werden allmählich schwach und mager. Diejenigen, die man bei lebendigen Tieren herausschneidet, sind besonders wirksam.“ Dieser Aberglaube scheint in alter Zeit entstanden zu sein und bis heute unverändert zu bestehen.)
+
+[134] Buyiruq Khan aber verließ den vorderen Ulta-Berg (Ulta-Berg), und die Söhne der Merkiten bewegten sich am Selenge-Fluss (Selenge-Fluss). Quduqa Beki aber stritt, zeigte, und die Taitschi'uten bewegten sich am Onon-Fluss (Onon-Fluss). Als er sich selbst zum Herrn erhob und erbeutete, folgte er, kehrte um, und so verfolgte Wang Khan sie. (Zu dieser Zeit hatte Dschamucha sich wohl Wang Khan unterworfen.)
+
+Am Onon-Fluss (Onon-Fluss) verfolgte er die Taitschi'uten. Als er den Stamm erreichte, drängte er. Auču Ba'atur (Auču Ba'atur) und die anderen stellten sich jenseits des Onon-Flusses (Onon-Flusses) zum Kampf mit den Kriegern. Als er ankam, kämpfte er. Sie kämpften, dass sie zurückschlugen, kämpften, widerstanden einander, und die Stammesangehörigen kamen auch, bildeten mit den Kriegern einen Kreis und trafen zusammen.
+
+[136] Vom Kampf – die Halsader – das Blut hörte nicht auf. Zur Zeit fiel er, widerstand sofort, saß ab, sog das Blut. Den Mund – Dschelme (Dschelme) bewachte ihn, ein Mensch. Den verstopften Mund – er schluckte (das Blut) – bis Mitternacht. Dschingis Khan erwachte, das Blut war zu Ende. „Ich dürste“, sprach er.
+
+Darauf – Mütze, Oberkleid, alles – nur nackt – traf er, lief zum Feind, stieg drüben zum Volk hinauf, suchte. Der Feind – zur Zeit – hatte die Milch losgelassen. Er konnte (sie) nicht finden. Einen großen Milchrahm (Milchprodukt) – den nahm er und kam. Als er so ging, schützte ihn der Himmelsgott vor den Menschen. Den Milchrahm trug er, Dschelme trug auch Wasser. Den Milchrahm ließ er den Khan dreimal trinken und sprach: „Das Herz ist hell geworden.“ Er gähnte und setzte sich. Als es hell wurde und er um sich blickte, war die ganze Umgebung zu einem Schlamm aus eingesogenem und wieder ausgespucktem Blut geworden. Als er es sah, (fragte er): „Was ist daraus geworden? Wenn ich es ausgespuckt hätte, wie wäre es gewesen?“ Dschelme aber: „Als du (so) warst, fürchtete ich, wenn ich fortging, würdest du dich entfernen. Ich schluckte es eilig. Wenn ich es ausgespuckt hätte, wie viel (wäre es gewesen)?“, sprach er. Wiederum: „Als ich so war und du nackt liefst – du. Dass ich so bin –“, sprach er. Er sprach: „Im Herzen (dachte ich): Wenn ich gehe und man [137] mich erkennt und töten will, ziehe ich die Kleider aus, den Lendenschurz – plötzlich – ihr – jagt – ich – dachte ich. In Wahrheit – du wirst für mich sorgen. Wenn du auf die Pferde achtest, könnte solch ein Kommen nicht sein? Ich dachte, der Durst – das Herz – das Auge schwarz (kühn) – so ging ich“, sprach er.
+
+Er sprach: „Was (tatst du) vorher? Dreimal kamst du, dreimal – zur Zeit – das Leben trugst du – du. Als ich durstig war und den Mund öffnete, wiederum – zur Zeit der Not – gabst du (mich) nicht auf, gingst an den Ort, warst genug, das Leben – du. Dreimal – in meinem Inneren – gibt es einen Befehl.
+
+[137] Als es hell wurde, war das Lager in der Nacht zerfallen. Das Volk – weil es nicht konnte – um die vom Ort Geflohenen aufzuhalten, rückte er vom Lager aus, um das Volk zu verfolgen. Auf dem Pass – ein einzelner Mann mit einem Oberkleid – „Temüdschin!“ – rief er und blieb stehen. „Dass er selbst von einem Menschen gerufen wurde – der Mensch – den Menschen fragte er. Da sprach jener: „Meine Tochter, Qada'an (Qada'an) – und meine Krieger haben (sie) getötet. Den getöteten Temüdschin – gib mir den Mann! – so rief ich – ich.“ Der Mensch berichtete dies Dschingis Khan. Auf das Wort hin erreichte er das Pferd, stieg zu Qada'an hinab und traf sie. Den Mann aber hatten die Krieger getötet. Als jener zurückkehrte, ließ das große Heer sofort absitzen, ließ Qada'an kommen und setzte sie nieder.
+
+Am Tage – Dschebe (Dschebe) (Im Heereszugbericht und in der Yuan-Geschichte: ), die beiden, – der Hausgenosse der Taitschi'uten – kamen. „Dem Sorqan Šira (Sorqan Šira) – den Nacken (und) oben – die Erde – ließ er gehen – den Halsblock – das Holz – ließ er zerbrechen – die Eltern und Kinder – ihr. Wie (konntet) ihr?“ – „Sorqan Šira – ich – vor Augen – Stütze – war ich. Wie (sollte) ich? Früher – mein Beamter – meine Frau und Kinder – die Verpflegung – wie sie – jene –“ – er eilte nicht – „der Khan – um zu treffen – kam ich“, [139] sprach er. Als er geendet hatte, sprach er.
+
+[139] Dschingis Khan aber – am Koiten (Koiten) forderte er heraus, stellte sich in Schlachtordnung. Von oben auf jenem kam er, kämpfte. Das weiße Schlüsselbein – wer (traf es) vom Berg? Er sprach. Da sprach Dschebe: „Vom Berg – ich – jetzt – wenn du mich tötest – wie – mit einer Schande – wenn du mich begnadigst – vorher – (will ich) Bäume fällen und Steine brechen – geben. Wenn (du mich) an den Ort (schickst) – (will ich) an den Ort (gehen) – geben.“ Dschingis Khan aber: „Der Feind – das Töten – die eigene Person – die Rede – fürchtet er sich. Da er dies spricht, verschweigt er das Töten nicht, er bekennt es. (Er ist) ein Mensch.“ Er sprach: „Mein Mund – das gelbe Pferd – das ich schoss – Dschebe – lass (ihn) kämpfen! Mit Dschebe – ich – geh!“ – Dschebelegu Aman Ča'an Qula (Dschebelegu Aman Ča'an Qula. Dschebelegu bedeutet kämpfen, Aman ist Mund, Ča'an ist weiß, Qula ist gelbes Pferd. Weil er das Kampfpferd tötete, gab man ihm den Namen Dschebe, damit er anstelle des Kampfpferdes diene. Die Ming-Übersetzung aber sagt: „Dschebe ist der Name einer Waffe“, was nicht dem Sinn des Textes entspricht und auch nicht dem Stil der volkstümlichen Übersetzung gleicht. Es dürfte eine spätere Hinzufügung sein.) – so wurde er von den Taitschi'uten zum Gefährten.
+
+Ende des vierten Buches der Aufzeichnungen Dschingis Khans.
+
+# Fuenftes Buch {#gruppe-volume-5}
+
+## Fuenftes Kapitel {#kapitel-005 .chapter-heading .centered}
+
+巻の五
+
+[140]
+
+Dschingis Khan ließ dort den A'uqchu Ba'atur, der Knochen hatte, gefangen nehmen. (In der *Qin zheng lu* wird er vorher und nachher A'uqchu Ba'atur genannt, hier heißt er Hangqur A'uqchu. Auch Raschid ad-Dins *Sammelwerk* nennt ihn vorher und nachher A'uqchu Bahadur, hier heißt er Angqur Uqurchu. In Wahrheit ist es dieselbe Person. Die *Yuan-Geschichte* lässt A'uqchu weg und schreibt nur Shenqur, daher ist A'uqchu umso ferner gerückt.) Qudu'udar (bis zu den Söhnen und Enkeln, wie in der *Qin zheng lu* usw.) kam, fegte dessen Volk wie [mit einem Besen] fort, und [die Leute von] Quba'aya überwinterten dort.
+
+(Shirigü'ätü Ebügen, der Greis Shirigü'ätü, in der *Qin zheng lu* und in der *Yuan-Geschichte* *benji*: Alaq, in der *Yuan-Geschichte* *Bayan*-Biographie: Naya'a, [141] mit seinen Kindern) lebte als Beamter im Wald. Da er ein Mensch war, der nicht reiten konnte (in der Ming-Übersetzung: „konnte nicht reiten“), brachte er Targutai auf einem Wagen. Shirigü'ätü, Alaq und seine Kinder,
+
+als sie ihn gefangen nahmen, raubten die Kinder [ihn] und trieben [ihn] vor sich her, und seine jüngeren Brüder kamen.
+
+Der Greis, der nicht reiten konnte, stieg auf den Wagen, setzte sich oben darauf und sprach: „Ich habe euch, meinen Herrn, ergriffen. Wenn du mich nicht tötest, werde ich dich mit meiner Hand töten. Auch wenn ich getötet werde, werde ich dich in der Mitte ergreifen. Du sollst sterben. Wenn du mich tötest, werde ich später sterben.“ Daraufhin beugte er sich vor, zog ein Messer und wollte dem Targutai Qiriltuq die Kehle durchschneiden. Targutai Qiriltuq rief seinen Kindern mit lauter Stimme zu: „Wenn ihr mich tötet, was nützt ihr dann mit mir, der ich tot bin? Nehmt mich schnell. Temüdschin wird mich nicht töten. Er, der kleine [mit] leuchtenden Augen, [mit] feurigem Antlitz, [ein solcher] Sohn, sagte er, sei im Lager [142] zurückgeblieben. Er kam, um [mich] zu lehren, wie man ein neues Fohlen zähmt, und will mich töten. Er wird [mich] töten. Ich bin hineingegangen. So wird mein Herz gesprochen. Ihr, meine Kinder, wenn ihr mich nicht schnell [fortschafft], dann lasst mich gehen.“ Und er schrie laut.
+
+Die Kinder sprachen: „Um unseren Vater zu retten, wir. Wenn er ihn tötet, was nützt uns dann ein leerer [Sieg]? Kehre lieber schnell um!“ Sie ließen ihn gehen. Alaq, Shirigü'ätü und seine Kinder, und die anderen Leute zogen weiter und kamen auf den Weg.
+
+Dort sprach er: „Wenn wir Targutai Qiriltuq erreichen, wird er sagen: ‚Ihr habt euren Herrn ergriffen und geredet, und diese, die mit euren Händen gekommen sind, sind vertrauenswürdig.‘ Wie sollten sie an jenem Ort zu Gefährten werden? Er wird den, der seinen Herrn ergriffen hat, niedermetzeln lassen. Besser, wir lassen ihn von hier aus gehen und uns selbst Dschingis Khan übergeben.“ Und sie gingen. „Weil wir ihn nicht töten konnten, den rechtmäßigen Herrn, haben wir ihn freigelassen. Wir sind mit unserer Kraft gekommen“, so sprach Naya'a. Dessen Vater fand es auch gut. Sie ließen Targutai Qiriltuq aus einer Ecke gehen, und der Greis, der Naya'a hieß, kam. „Wie hast du gesprochen?“, fragte er. Der Greis sprach: „Ich habe ihn ergriffen, aber dann, weil ich den rechtmäßigen Herrn nicht töten konnte, habe ich ihn gehen lassen und bin mit meiner Kraft gekommen.“ Da sprach [Dschingis Khan]: „Targutai Qiriltuq hat ergriffen und den rechtmäßigen Herrn die Leute, die Sippe niedermetzeln lassen. Weil du den rechtmäßigen Herrn nicht töten konntest, hast du ein Herz gesprochen, das [mir] wohlgefällt.“ Und er belohnte ihn.
+
+[143]
+
+Daraufhin kamen Dschingis Khans Verbündete, die Keraiten, der Ja'a Qambu (in der Biographie des Jürchedai: Ja'a Qambu) zu ihm an den Ort Tala su (das Tal Tala su). Als die Merkiten kamen, kämpfte Ja'a Qambu, und die Tumen-Tubai, die Dongai, und die Keraiten kamen zu Dschingis Khan.
+
+Wang Khan, der Wang Khan, dieser, hatte in der Zeit, als Yesügei Khan in gutem Einvernehmen mit ihm lebte, mit ihm Freundschaft geschlossen. Wang Khan, der mit ihm Freundschaft geschlossen hatte, war der Sohn des Qurjaqus Buyiruq Khan. (In der *Qin zheng lu*: ...) Wegen seiner jüngeren Brüder geriet er in Feindschaft mit dem Gur Khan, der sein Feind war. Er ging in die Schlucht von Qara'un (in der *Yuan-Geschichte*: Qara'un-Schlucht) hinein. Als er herauskam, war Yesügei Khan selbst gekommen und hatte mit seinem Heer den Gur Khan aus seinem Land vertrieben und ihm seine Habe genommen. Darum [war er dankbar].
+
+[144]
+
+Daraufhin, als Wang Khans Elqa Qara ... (in der *Qin zheng lu* und der *Yuan-Geschichte*: Wang Khan getötet wurde, ging er weg. Inancha Khan schickte [ihn] ...)
+
+Daraufhin, an den drei Flüssen entlang, zu den Qara Khitai (Qara Khitai in der Mehrzahl, also Westliches Liao; in der *Qin zheng lu* und der *Yuan-Geschichte*: Gur Khan) ... Er wandte sich ab, zu den Uiguren, in die Stadt, ergriff fünf Kamele, molk die Kamele und ließ sie stechen. In seiner Not am Guse'ur-See kam Dschingis Khan,
+
+wegen der Verwandtschaft mit Yesügei Khan, und sandte Tahai und Süyekai als Boten. An den Fluss Kerulen [kam] Dschingis Khan, um ihn zu empfangen. „Ich bin hungrig gekommen“, sagte er, und er gab ihm Steuern und nährte ihn im Inneren. Nach und nach überwinterte Dschingis Khan dort.
+
+[145]
+
+Daraufhin sprachen die jüngeren Brüder miteinander: „Dieser ältere Bruder (der Khan) hat einen schlimmen Charakter, er geht auf die Leber zu. Er hat getötet. Er ist hineingegangen. Was sollen wir nun mit den Stämmen machen? Als siebenjähriger Knabe gingen die Leute fort. [Er trug] einen Mantel aus geflecktem Fell. Am Fluss Selenga, auf der Weide Bura Ke'er, zerstampfte [sein] Vater Qurchaqus Buyiruq Khan die Merkiten, rettete ihn und nahm [ihn] wieder. Der Khan Aji'e nahm ihn mitsamt seiner Mutter gefangen und führte die Kamele. Er kam, geführt von Aji'e Khan. Später, aus Furcht, ging er zu den Sartu'ul (die muslimischen Sart-Leute Zentralasiens) an den Fluss Chui (der Chui-Fluss, der Sui-ye-Fluss der Tang-Geschichte, der *Chui-Müren* des *Reiseberichts nach Westen*, der *Chui-Fluss* des *Berichts über die westlichen Wasserläufe*, der heutige Chu-Fluss). Dort ging er, ohne sich zu erschöpfen, zum Gur Khan. Er wandte sich ab, zu den Uiguten (wie zuvor, Qangqut), ging in das Land, ergriff fünf Kamele, molk sie aus, trank das Blut, und als der blinde (einäugige) gelbe Falbe (in der mongolischen Sprache: ...) in seiner Not als Kind kam, sammelte er [sein Volk] und sagte: „Jetzt, wo das Kind gekommen ist, werde ich es an meinen stinkenden Busen drücken.“ So sprach er. Diese Worte verriet Andun Aschu.
+
+Er sprach: „Sie haben sich beraten. Sie haben von dir selbst gesprochen und dort gesprochen. El Qutur
+
+(in der *Qin zheng lu* und der *Yuan-Geschichte*: Qurbali), Alin Taischi (in der *Qin zheng lu* und der *Yuan-Geschichte*: ...) ließ die jüngeren Brüder gefangen nehmen. Ja'a Qambu, zu den Naimanen, in ihrem Haus, Wang Khan, wir, der Tanguten, was ist, als du kamst, dass du so denkst, sprach er, und löste ihnen auf der Vorderseite die Fesseln. Nur dass im Haus ein Mensch aufstand, im Winter, im Herbst der Hunde, die Tscha'an-Tatar (in der *Qin zheng lu* und der *Yuan-Geschichte*: ...), die Alchi-Tatar (in der *Qin zheng lu* und der *Yuan-Geschichte*: ...), die Duta'ut-Tatar (Raschid ad-Din: ...), die Tatar, auf der Ebene Dalan Nemürge kämpfte Dschingis Khan. Er sprach: „Gegenüber dem Feind sollt ihr nicht nach Beute gieren. Beute ist ein Ding. Wenn ihr auf den Feind trefft, kämpft zuerst auf dem Boden [wo ihr steht]. Wer vorstößt, kehre nicht um, und lasst ihn niedermetzeln.“ So bestimmte er. Bei Dalan Nemürges besiegte er die Tatar, trieb sie bei Shirügeljit zusammen, am Fluss Urui Shirendschin (Raschid ad-Dins *Sammelwerk*: ...), die Tscha'an-Tatar (die früheren Tscha'an-Tatar), die Duta'ut-Tatar, und vernichtete sie, die Wichtigen.
+
+[146]
+
+Er sprach Worte. Quchar, der Stammesgenosse Altan, und Daritai sprachen Worte über die Beute. „Er hat nicht gehorcht“, sagte er, und sandte Qubilai (in der *Qin zheng lu*: ...) und Jebe aus, ließ die Pferdeherden nehmen, und ließ die nehmen, die genommen hatten.
+
+[147]
+
+Nachdem er sie vernichtet hatte, sprach er: „Was sollen wir mit dem Stamm machen?“ und hielt eine große Versammlung ab. Sie sprachen: „Von heute an sollen die Leute, die den Vater, den Ahnherrn, mit Groll und Hass [verfolgten], bis zur Wagendeichsel geschlachtet werden, und die Übriggebliebenen sollen ein jeder zugeteilt werden.“ So bestimmten sie. Aus dem Haus [fragte er] den Tatar Belgütei: „Wie hast du beraten?“ Er fragte. Er sprach: „Alle miteinander vergleichen, und so sprach er, sprach er.
+
+Mit Worten, die Überlieferung der Tatar, in den befestigten Lagern, in den befestigten Lagern, als wir die Tatar belagerten, erlitten wir Verluste. ... Mühsal erduldend, um sie zu vernichten, verglichen sie [sich] und sprachen: „An den Ärmel [geheftetes] Messer als Buße, wir wollen sterben.“ So sprachen sie. Sehr [waren] die Tatar verglichen, und als es zu Ende war, erging der Befehl: „Durch die Abmachung des ganzen Stammes und wegen Belgütei haben die Krieger Verluste erlitten. Belgütei soll an dieser großen Versammlung nicht teilnehmen. Bis zum Ende soll er das Volk regieren, die Angelegenheiten vor Betrug schützen, die Beratung der Angelegenheiten. Nach dem Einschenken [des Weins] soll Da'aritai (der frühere Daritai, Band 1, Band 3: Daritai Otchigin) eintreten.“ Er nahm die Tochter der Tatar, Yesügen, zur Kaiserin. Darum sprach er: „Wenn du mir eine Gunst erweisen willst, mache sie zu deiner Sache und gib sie mir. – Die ältere Schwester, von der die Rede ist, die Hohe, ist eine, die dem Khan gefällt. Dieser Schwiegersohn soll jetzt aus dem Aufruhr fortgehen.“ Auf diese Worte hin sprach er: „Wenn die ältere Schwester gut ist, werde ich der älteren Schwester ausweichen. Du (in der Ming-Übersetzung: „wirst du sie mir überlassen?“)“, sagte Yesügen Qatun. „Wenn der Khan die ältere Schwester sieht, werde ich ausweichen.“ Auf diese Worte hin ließ er nach ihr suchen, und als sie mit ihrem Schwiegersohn in den Wald ging, flohen die Krieger vor ihm. Yesü Kaiserin kam dorthin. Die ältere Schwester stand zuerst auf, setzte sich auf ihren Platz und sprach: „Ich selbst will sitzen.“ Auf diese Worte hin ließ Dschingis Khan sie eintreten, nahm sie und setzte sie.
+
+[151]
+
+Nachdem er das Volk beendet hatte, setzte Dschingis Khan sich, trank, und als Yesüi Qatun und die beiden Frauen saßen und tranken, seufzte Yesüi Qatun. Daraufhin wurde er in seinem Herzen misstrauisch und ließ Muqali und die Beamten kommen. „Ihr sollt die Leute, den Stamm, aufstellen lasst. Sondert die anderen Menschen ab.“ Als der Stamm aufgestellt wurde, stellte sich ein junger, frischer Mann aus den Stämmen auf. „Wer ist das?“, fragte er. Ein Mensch, der der Tatar Yesüi Tochter war, ein Schwiegersohn, der zur Zeit der Feinde entkommen war und jetzt gekommen war, um unter der Menge erkannt zu werden, so sprach er, und er meldete es. Nur dass er zum Feind werden wollte, zum Räuber geworden war und jetzt spähte ... seine Leute waren verglichen worden. Er wird verdächtigt. Im Rücken (an einem unsichtbaren Ort) sprach er. Er ließ ihn niedermetzeln.
+
+[152]
+
+In jenem Jahr, zur Zeit der Tatar, zur Zeit der Merkiten, [sandte er] Toqto'a Beki in die Schlucht von Barqujin (Band 1: Qol Barqujin Toqum). Er tötete Toqto'a, den Toqus Beki, und die beiden Töchter, die Qutuqtai waren, ... (in der *Qin zheng lu*: ...) Qarqun, ... er nahm ihn, und den Chila'un, ... mitsamt seinem Volk gab er sie nicht Dschingis Khan.
+
+[153]
+
+Daraufhin, Dschingis Khan, die beiden, gingen zum Ort der Güchügüt (der Name eines Naiman-Stammes, Band 4: Güchü'üt-Naiman) und zum Uluqtaq ... (in der *Qin zheng lu*: Soghoq Usun, das Wasser von Soghoq. In der *Qin zheng lu*: ...) Sie kamen an und zogen über das Altai-Gebirge (der heutige Berg südwestlich der Stadt Kobdo, der südöstliche Gipfel des Altai), um sich gegenüberzustellen. Buyiruq Khan, als sie am Altai-Gebirge entlang nach Qumsengir gingen, wurden sie von Edi Tobolu und ihren Spähern verfolgt, und oben wurden sie am Bauchgurt gefangen. Entlang des Qishilbash-Sees (der See Qishilbash, in der *Qin zheng lu* und der *Yuan-Geschichte*: ...) jagte er, und Buyiruq Khan wurde dort von Dschingis Khan, den beiden, die kamen, von den Naimanen, von Köksü Sabraq, ... an der Mündung des Baidaraq (der Zusammenfluss des Baidaraq; in der *Qin zheng lu*: ...) wollte er mit dem Heer kämpfen. Wang Khan wollte kämpfen, ordnete [sich], und als es Abend wurde, wollte er kämpfen und lagerte. Dort ließ er die Lagerstätte anzünden und zog dann an den Fluss Qa Se'üri (Qa Se'üri. Unter Qa fehlt der Buchstabe La.) weiter.
+
+[154]
+
+Dort, als er sich mit Wang Khan bewegte und ging, sprach er zu Wang Khan: „Ich, von früher an, an diesem Ort, jetzt, Khan, du, der [wie] ein *weißer Sperling* ist, der [über den Fluss] setzt, der [wie] ein *Himmelsverkünder-Sperling* ist, du warst mein Freund. Du bist gegangen. Du bist zurückgeblieben.“ Und er sprach zu Dschamucha: „Wang Khan, ich, dein Herr, bin wie ein *weißer Sperling* und nichts weiter. In Kälte und Hitze ... wie die Wildgans, in der Kälte, dann fliege ich nur zu dir.“ (In der Ming-Übersetzung: „bewahre nicht“. Der *weiße Sperling* ist auf Mongolisch *qailaqana*, was Möwe bedeutet. In den Wörterbüchern von ... *bildü'ür*, in der Ming-Übersetzung: *Himmelsverkünder-Sperling*, in der Neuübersetzung von Howorth: *Wildgans*, also eine Art Gans, in der Neuübersetzung von Hong Jun: *ein Vogel, der in Kälte und Hitze anderswo lebt*. In den *Tatar-Dialekten* von Mao Yuanyi aus der Ming-Dynastie in den *Militärischen Aufzeichnungen* wird *Schreiender Himmel* als *Bindu'er* bezeichnet. *Bindu'er* ist also *bildü'ür*. Im *Er Ya* zu den Vögeln: „Liu, Himmelsjiao.“ Der Kommentar von Guo dazu: „So groß wie ein Sperling, farbig wie eine Wachtel, fliegt gerne hoch und macht Geräusche. In Jiangdong nennt man es *Himmelsliu*.“ Im *Zheng zi tong*: „Liu, volkstümlich *Himmelsverkünder-Vogel* genannt. Sein Ruf ist wie eine Flöte, seine Gestalt ist hässlich, aber er singt gut, und sein Ton hat viele Variationen.“ In der *Zhi shun Zhenjiang-Regionalchronik*: „Lärmender Himmel, auch *Himmelsverkünder* genannt, ähnelt einem Sperling, ist aber etwas größer. Je mehr er singt, desto höher fliegt er. Wenn ihm die Kraft ausgeht, fällt er aus der Luft zu Boden und versteckt sich im Gras.“ In Fang Juns *Mengyuan congshuo*: „Schreiender Himmelssohn, lebt im dichten Gras an der Küste. Wenn der Himmel klar ist, fliegt und singt er direkt in die Wolken, ununterbrochen. Er dreht sich und fällt herab, den ganzen Tag so.“ *Himmelsverkünder-Sperling*, *Schreiender Himmel*, *Himmelsyue*, *Himmelsliu*, *Lärmender Himmel*, *Himmelsverkünder*, *Schreiender Himmelssohn*, alles verschiedene Namen für die Lerche, also unsere Feldlerche. Obwohl der Sinn in der *Yuan-Geschichte* mit *Wildgans* und bei Howorth mit *Gänseart* auch durchgeht, unterscheidet er sich von der Bedeutung des ursprünglichen Wortes.) Auf diese Worte hin sprach er: „Ubcir (der Name einer roten Frucht. Man sagt, er sei nach der roten Farbe der alten *Gur* benannt.), Gürin Ba'atur, schmeichelnd, sprach über seine Brüder.“ Dschingis Khan, dort, um zu kämpfen, als er am Morgen Wang Khan sah, sprach er: „Diese da haben das Frühstück verbrannt (in der Ming-Übersetzung: „gemacht und weggeworfen“. In Raschid ad-Dins Geschichte: „Ich bin jetzt in einer Feuergrube, Wang Li hat mich verlassen.“ In der *Qin zheng lu*: „Haben diese Leute etwa keine anderen Absichten?“). Dschingis Khan überquerte den Eder Altai (in der *Qin zheng lu*: ...) und als er sich bewegte, bewegte er sich und stieg ab. (In der *Qin zheng lu*: ...) Dschingis Khan, die beiden, [berieten] mit den Leuten über den großen Plan, und Köksü Sabraq, von hinten, raubte Sanguns Volk, raubte die Hälfte von Wang Khans Pferdeherden und kehrte zurück. (Die Mündung von Teregetü ist derselbe Name wie der Ort, an dem Satscha Taichu in Band 4 gefangen genommen wurde. Aber dieser Ort liegt im Süden der Mongolei, dieser Ort liegt im Westen der Keraiten, also sind es wohl verschiedene Orte mit demselben Namen. Überhaupt gibt es in der Mongolei sehr viele Orte mit demselben Namen. Die Mündung von Teregetü ist nicht auf diese zwei Orte beschränkt. Auf der russischen Karte gibt es den Berg Tereget westlich der Stadt Kobdo. Nördlich dieses Berges gibt es einen Ort namens Tereget-Pass. Auch dies ist wohl ein *Amar*. Aber da dieser Ort im Kernland der Güchü'üt-Naiman liegt und nicht der Ort ist, wo die Keraiten wohnen sollten, ist der Pass im Text heute nicht zu bestimmen.) In dessen Innerem, der Sohn des Toqto'a, Chila'un, dort, trennte sich das Volk von ihm, und um sich zu vereinen, entlang ... zu Köksü Sabraq (dem früheren Köksü Sabraq) sandte Wang Khan einen Boten, einen Boten zu den Naimanen, um die Habe zu rauben. „Sohn, ich suche dich. Rette mein Volk“, sprach er. Dschingis Khan sandte dorthin Muqali (Band 3: Muqali, eigentlich Band 4 war das erste Auftreten), Chila'un Ba'atur (Band 2: Chila'un. In der *Qin zheng lu*: Muqali Guowang, Chila'un Ba'atur) dieses Heer. Als dieser zu den Qula'anqut kam (in der *Qin zheng lu*: ...), wurde Sangun vom Pferd geschossen, die Vier Helden retteten ihn, und sie gaben ihm alle Habe.
+
+[156]
+
+Dort sprach er: „Diesem, seinem Vater, gab er auf solche Weise die Stämme. Auch wieder, dieses, seine, die Stämme, die er verlassen hatte, ... Mein, die Vier Helden, retteten [ihn] und die Gnade, der Himmelsgott schützte, sprach er.
+
+[157]
+
+Wang Khan, der mit Yesügei Ba'atur Freundschaft geschlossen hatte, gab mir einmal [etwas]. Der Sohn, die Stämme, die er verlassen hatte, Vater und Sohn, die Stämme, die er verlassen hatte, wer sammelte sie, wer mühte sich ab? Jetzt bin ich gekommen. Alte, Hohe, an dem Ort (dem Himmel) ... ich. ... (im Grab) allgemein, die Stämme ... meine Tugend, meine Nichtigkeit, Sangun, Temüdschin, der beiden, um zu ruhen, sprach er. Dschingis Khan und, an der Tula, trafen sie sich, sprachen, Vater und Sohn, an dem Tag, der früher war, als sie sich trafen, sprach Wang Khan, wegen der Verwandtschaft, wie [es sei] und sprach die Worte (den Eid), die sie als Vater und Sohn getroffen hatten: „... an dem Ort, wo wir sind, wollen wir eins sein. ... an dem Ort, wo wir hingehen, wollen wir gemeinsam sein.“ So sprachen sie. Dschingis Khan, die beiden, sprachen: „Wenn jemand die beiden beneidet, soll er nicht in die Verleumdung hineingehen. ... ich werde glauben. Wenn jemand Zwietracht sät, soll er sich nicht ergreifen. ... ich werde durch ein Zeichen glauben.“ So sprachen sie Worte, lebten zusammen, häuften Vertrautheit aufeinander. Dschingis Khan forderte für seinen Sohn Jochi (des Dschingis Khan ältester Sohn. In der *Qin zheng lu* und der *Yuan-Geschichte*: ...) Sanguns Tochter Cha'ur Beki (in der *Qin zheng lu* und der *Yuan-Geschichte*: ...). „Sohn, unsere Prinzessin Qo'a jin (in der *Yuan-Geschichte* *Prinzessinnen-Tabelle*: Kaiserin des Taizu, die Große Prinzessin des Landes Chang, Prinzessin Huochen) zur Frau zu geben.“ Als er sie forderte, dachte jener an sich selbst und sprach: „Unsere, wenn sie gehen, [158] werden sie aufstehen, und vor der Front, unsere, ihre Töchter, werden an der Tür eines anderen Hauses nach Norden sitzen. (Das bedeutet Niedrigkeit.) Die Verwandten, an dem Ort, vor der Front, an der Tür, seine Töchter, unserem Haus, vor der Front, nach Süden sollen sie sitzen. (Das bedeutet Ehre.)“ So sprach er groß [über] uns, und gab sie nicht. Auf diese Worte hin, das Herz, Wang Khan, Ilaqa Sengün, das Herz, das Herz, Dschamucha, der Eber im Frühling, Altan, Qardaqidai, der Noyakin (Qardaqidai und die folgenden drei Namen sind in der Ming-Übersetzung alle als Stammesnamen angegeben. Der Noyakin-Stamm ist ein Nachkomme von Qachin, dem Sohn des Menen Tudun.), To'üril (in der *Qin zheng lu*: ...), Qach'un Beki (anders als Qach'un, der jüngere Bruder des Dschingis Khan), gemeinsam hielten sie eine geheime Beratung ab, gingen, zum Berg Cheche'er Ündü (in der *Yuan-Geschichte*: Zhe zhe Yun du shan. Der Berg Cheche'er in der *Ming-Geschichte* *Tatar-Biographie*, der Berg Cheche nordöstlich des Hana Hada in der *Zusammenfassung der Wasserwege* – der Klang ist ähnlich, aber wie mag es sein?), zur Wüste Berek Elet (die schwierige Wüste. In der *Qin zheng lu*: ...). Nilqa Sangun ging und verleumdete: „Temüdschin, der Freund, steht mit Tayang Khan (dem älteren Bruder des Buyiruq Khan. In der *Qin zheng lu*: ...) an einem Ort, und es gibt Boten. Der Mund, der Vater und Sohn, leben, und der Charakter ist anders. Lebt, zuerst will ich euch folgen. Wenn der Freund ausrückt, will ich von der Seite her angreifen.“ Altan, [159] die beiden, sprachen: „Wir, den Sohn, [behandeln wir] als Onkel, und als Onkel sprachen wir.“ Der Noyakin sprach: „Hand, Qar, Hand, Qarda, er nahm ihn und sprach. Er sprach: „Geht, die Stämme, die Stämme, was soll man mit den Stämmen machen?“, sprach er. Er sprach: „Sohn. Was soll das lange ... Wipfel ... tief ... Grund ... erreichen ... sollen wir uns treffen?“ Als diese Worte gesprochen wurden, sprach er zu seinem Vater: „Saikhan Todeyen (in der *Qin zheng lu*: ...) sprach diese Worte, sprach er: „Den Sohn, warum, ihr, dass ihr euch um ihn sorgt, wenn ihr jetzt den Sohn so denkt, wird er nicht geliebt werden. Dschamucha, der Worte hat [Jubu'u Tabu'u], Dschamuchas Worte, man glaubt ihnen nicht. In der *Qin zheng lu*: Mit schönen Worten, aber sie sind nicht glaubwürdig. Genug, sprach er und sandte [sie]. Sangun sandte [sie] mit den Worten: „Warum schickst du immer wieder jemanden mit einer Zunge? Du selbst gehst, und selbst wenn du Zeit hast, was [kannst du ausrichten]? Dir, der du noch lebst, tue, wahrhaftig, Khan, Vater, Weiß, nimm es, Grau, würge, wenn du alt wirst, wirst du dann die Stämme, die du unter Mühsal so erhalten hast, verwalten können? Was hast du gesagt?“ Darauf, Wang Khan, ich, ich will es aufgeben. Wenn du dich um ihn sorgst und so denkst, dann [schwören] wir beim Himmelsgott.“ Auf diese Worte hin trauerte der Sohn, ging hinaus, kehrte aber um, und Sangun erbarmte sich, ließ ihn kommen und sprach: „Vielleicht, wir. Wenn ihr es aufgeben wollt, dann, ihr, der Himmel, tut es nicht. Wie könnt ihr es aufgeben? Nur, tut, was man tun kann, die Sache.“ So sprach er. (In der *Yuan-Geschichte* *Zhongyi*-Biographie des Baba: Wang Khan wird als Qielie Wang Kehan und Sangun als Xian Kun geschrieben.)
+
+[160]
+
+Daraufhin sprach er: „Wir haben sie gefordert. Das Verlobungsmahl, den B'uljar (in der *Yuan-Geschichte*: ...) zum Essen, ruft [sie] an einem Tag und nehmt sie gefangen.“ So berieten sie sich und verabredeten sich. „Gib [sie]. Komm zum Gastmahl.“ So wurden sie gerufen. Mit zehn Leuten, auf dem Weg, Merige, und auch zu Hause [161] [sandte er] Monlik Echige. „Sie, den Cha'ur Beki, haben sie herabgesehen. Wie kann man jetzt zum Verlobungsmahl zum Essen gehen? Dich selbst, einen Menschen, wie konntest du rufen? Solcherlei, mein, mein Geist soll gehen. „Wir sind mager. Wir wollen dich nähren“, soll er sagen und zurückschicken.“ Dschingis Khan sandte Buqatai, die beiden, zum Gastmahl. (Buqadai und Qicha sind die Boten, die Wang Khan zum Rufen geschickt hatte.) Monlik Echige kehrte zurück. Qiratai kam an. „Wir wollen sie am Morgen gefangen nehmen“, so verabredeten sie sich.
+
+[162]
+
+So, „gefangen nehmen“, beschlossen sie. Altan, Yeke Cheren, in der *Qin zheng lu*: ... zu Hause sprach er: „Sie haben sich verabredet, sie am Morgen gefangen zu nehmen. Was soll man mit diesem Temüdschin und den Menschen tun?“, sprach er. Daraufhin, der Alaqit (in der *Qin zheng lu*: ...) sprach: „Dieses, deine, jene, Worte, in der *Qin zheng lu*: ohne Worte, selbst die Diener werden es tun.“ Das Gerücht, der Pferdehirt Badai (in der Biographie des Muqali: Badai) kehrte zu den Sendlingen zurück, um die Worte zu überbringen. Er ging, die Worte des Pferdehirten Cheren, schrieb Qirishi, stellte Shili auf den Kopf. In der Biographie des Qara Qasun heißt es, sein Urgroßvater hieß Qishili, war vom Stamm der Olqunu'ut, also ein Nachkomme des ältesten Sohnes von ...) Er sprach: „Auch wieder, prüfe es.“ Zu Hause war Cheren, der Narin Keyen (in der *Qin zheng lu*: ... Narin. Da oben Yilaqan als Sohn des Cha'alan gemacht wurde, wurde Narin zum zweiten Sohn gemacht.) Er lebte, schärfte [seine Worte] und sprach: „Wir, die Zunge, werden gefangen werden. Er wird es aufhalten.“ Als er sprach, wieder, dessen Qishiliq, zu Merkidai Cha'an (der weiße Falbe der Merkiten, in der Ming-Übersetzung: *weißer Falbe*, zwei Stück, führte sie am Zügel. „Schnell, ich!“) Qishiliq und Badai, jetzt, die Rede, wurde wahr. Wir, zu Temüdschin, um die Worte zu überbringen, verabredeten uns, den weißen Falben, zwei weiße, brachten sie, am Abend, in einem Haus, einen töteten sie, kochten ihn (in der Ming-Übersetzung: „die Bettbretter öffnen, gar kochen“), den weißen Falben, zwei weiße, am Zügel geführt, in der Nacht, kamen sie zu Dschingis Khan, von Norden (also von hinten) her, Qishiliq berichtete, sprach, was jener Narin Keyen geschärft gesprochen hatte, den weißen Falben, zwei weiße,
+alles, was er genommen und gesagt hatte, trug er vor. Badai, die beiden, Dschingis Khan, zweifelnd, umzingelnd, sprachen die Worte miteinander, so war es.
+
+Ende des fünften Bandes der Chronik des Dschingis Khan.
+
+# Sechstes Buch {#gruppe-volume-6}
+
+## Sechstes Kapitel {#kapitel-006 .chapter-heading .centered}
+
+**Sechstes Buch**
+
+[162]
+
+Als Badai und Kisilik dies hörten, machten sie den, der dort wohnte, zu einem der Ihren, entkamen mit allem, was sie hatten, und zogen eilends fort. Sie machten sich zum Herrn des bösen Höhenzuges Ma'u Undur und bewegten sich im Verborgenen. Am folgenden Tage, als sie sich dem Hang näherten, wollten sie am Qalaqaljit Elet rasten. Alčidai, der Sohn Qačis, hatte den Jadir auf der Weide gehen lassen, während sie auf dem Ma'u Undur weideten. Als sie den Staub von Qula'a Buluqa kommen sahen, sprachen sie: „Feinde!“ und trieben die Pferde an. Dschingis Khan sah: „Sie sind gekommen!“ und sprach: „Vor uns zog Rotes vorüber, erhob sich, überfiel uns und sprach. Wenn wir von dort den Staub nicht gesehen hätten, der die Wallache trieb, wären wir geschlagen worden. Zu jener Zeit kamen Ong Khan und Jamuqa.
+
+Darauf sprach Jamuqa zu Temüdschin: „Wer ist da, der an deinem Orte kämpft?“, und Jamuqa sprach: „Die Uru'ut, jene, die bei jedem Wenden des gut gewendeten Drehbolzens klein werden, jene, die an Ringmesser und Lanze gewöhnt sind, jene bunten, jene sind ein Volk.“ Auf diese Worte hin sprach er: „Wenn dem so ist, so lasse ich die Dschurkin gegen sie stoßen, mit Qadaq von den Dschirgin als Nachhut. Zur Nachhut lasse ich die Tungai stoßen. Zur Nachhut lasse ich den Qori Silemün Taishi mit tausend Mann stoßen. Zur Nachhut lasse ich die Großen stoßen.“ Und weiter sprach er: „Wir, du sprachst. Jener Jamuqa trennte sich von den Gefolgsleuten. Ong Khan sprach zu mir: ‚Ich kann das Heer nicht ordnen.‘ Ong Khan war geringer als ich. Er ist ein Gefährte. Ich will ihn zum Anda machen. Sei auf der Hut!“ Und Jamuqa sandte zu Dschingis Khan: „Wer ist da, der an deinem Orte, Temüdschin, kämpft? Ich bin das Haupt der Uru'ut.“ Mit diesen Worten machte er die Dschirgin zum Vortrab. Zur Nachhut machte er Ačiq Sirun. Zur Nachhut machte er die tapferen Männer. Zur Nachhut machte er die tausend Beamten, die in der Mitte des Heeres von Ong Khan stehen sollten. Ong Khan sprach: „Jamuqa, ordne das Heer!“ und wollte es ihm überlassen. Er ist ein Gefährte. „Was ordnest du? Zuvor konntest du nicht als Anda, und Ong Khan fürchtet sich dort. Fürchte dich nicht!“ Mit dieser Botschaft sprach Dschingis Khan zu dem Oheim der Uru'ut: „Was sprach er zu dir? Die Stimme war zuvor. Quyuldar Sečen, mein Anda, sprach: ‚Meine nach mir zurückbleibenden Waisen, Anda!‘“ Er sprach: „Zuvor sprach ich, die Uru'ut sollten der Vortrab sein.“ So stellten Dschurčedai und die beiden, die Mongqut, sich geordnet vor Dschingis Khan. Als die Dschirgin kamen, stießen die Mongqut und wurden geschlagen. Als sie gingen, stieß Ačiq Sirun und warf Quyuldar nieder. Quyuldar kehrte um. Die Uru'ut schlugen die Tümen Tübege und gingen. Sie stießen auf die Olon Dongqayit. Wieder wurden sie geschlagen. Es ging Qori Silemün Taishi mit der Leibwache. Dschurčedai schlug Qori Silemün Taishi. Zu der Zeit wollte Senggüm angreifen, und seine Wange wurde getroffen. Senggüm fiel sogleich nieder. Nachdem er gefallen war, stand er mit aller Kraft wieder auf. Dschurčedai, der sie schlug und auf dem Hügel der Sonne trieb, kehrte zu dem verwundeten Quyuldar im Heer zurück, sammelte die Unseren, trennte sich von den Kämpfenden, zog weiter und lagerte.
+
+[166]
+
+Sie lagerten und ließen den Morgen anbrechen. Ögedei, Bo'orču war nicht da. Er sprach: „Mit ihm zusammen blieben Bo'orču und die beiden zurück. Wenn sie sterben, werden sie sich nicht trennen, sprach er. Das Heer lagerte die Wallache.“ Er sprach: „Wenn sie später kommen, ordne sie. Als er den Tag sah, kam einer allein.
+
+Als er kam und mit Bo'orču kam, sprach er: „Der Himmelsgott sprach und schlug ihn. Er sprach: „Zu der Zeit, als ich fallen sollte, in der Lücke, wo die Kereyit oben standen, bog ich mein Pferd, schnitt jenes ab, bestieg jenes, trat auf den Ausgang der Unseren und gewann so mich.“ Und wieder kam ein anderer Mensch. Zu der Zeit hing er unten. Als er sah, dass ein Mensch kam, war es Ögedeis Blut an Boruquls Mund. Der Pfeil, das Blut, Boruqul saugte es. Das Blut floss. Dschingis Khan weinte aus den Augen, das Gehirn, schnell, die Hitze. Er ließ Ögedei etwas geben, um es zu stillen. Er sprach: „Wenn er kommt, sprach Boruqul, jenseits der Feinde, vor Qula'an Bolqat, da zog Staub aus und verschwand.“ Boruqul, jener. Dschingis Khan sprach: „Man hätte kämpfen sollen. Wir flohen. Lasst uns ordnen und kämpfen!“ und zog weiter. Sie zogen zum Fluss Ulqui Šilgeljit und traten ein.
+
+[168]
+
+Dort kam Qada'an Daldurqan getrennt herbei und sprach zu Ong Khan: „Der Sohn wurde mit einem Učuma-Pfeil an der Wange getroffen. Oben sprach er: ‚Er kam, wie er nicht kommen sollte. Er wurde, wie er nicht werden sollte. Er schmerzte den Sohn. Wenn es einmal eine Zeit für diesen Sohn gibt, um das Leben zu stoßen, dann stoße noch einmal!‘ Zu der Zeit sprach er: ‚Khan, im Rücken erflehte ich den Sohn (den ungeborenen Sohn) mit Abibabi (unübersetzbar), wünschte ihn, wenn der Sohn geboren würde, ihn zu pflegen.‘ Die Menge, mit ihnen zusammen, Qubilai und wir, wir sind da. Mit ihnen zusammen zogen wir aus. Wo sind sie? Sie sind mit einem einzigen Pferd bedeckt. Die Menschen reiten auf einem Pferd, notwendigerweise unter einem Baum. Geht, sammelt getrockneten Dung in einem Bündel und kommt, sie!“ Auf Ačiq Siruns Worte hin sprach er: „Pflege den Sohn, den Sohn!“ Er kehrte vom Kampf zurück und sprach.
+
+Dschingis Khan zog zum Fluss Qalqa. Als er zählte und zählte, wurden es zweitausendsechshundert. Dschingis Khan lagerte am Ufer des Qalqa-Flusses. Am Ufer des Qalqa-Flusses lagerten die Uru'ut und die Ulu'u, die beiden Stämme. So kamen sie. Als sie auf die Jagd gingen, um Proviant zu machen, hörte Quyuldar, obwohl seine Wunde nicht geheilt war, nicht auf, und das Wild brach wieder aus. Dschingis Khan ließ seinen Leichnam auf dem Berg Ornu'u bestatten. An der Quelle des Buir-Sees am Qalqa-Fluss, als die Ihren es erfuhren, sandte er die Uru'ut. Zu den Ongirat, zuvor die Nichten, die Töchter, die Gestalt, die Farbe, wenn man so spricht, jene sind Feinde und kämpfen. „Ihr Ongirat-Volk, in früherer Zeit, ihr seid die Kommenden. Wenn ihr nicht unterwerft, dann seid ihr es.“ Als er sie so sandte, unterwarfen sie sich und unterwarfen sich. Dschingis Khan sandte, was auch immer, zu den Ongirat, zum Dongge-See, östlich, mit Arqai Qasar und Sügegei Je'un als Boten: „Östlich sind wir. Jenes wurde gut. Die Wallache, meine, sprich!“ und „Mein, was, mich, du. Böses, böses, du ließest mich nicht ruhig schlafen, du machtest mir Angst, du zerstreutest das Bett, das aufsteigt, du machtest mir Angst, mehr als das Erwärmen, um Atem zu schöpfen, und das Bett, und ließest den Toren gewinnen. Khan Ečige. Dein Stachel, du. Dein Erschrecken, du. Khan Ečige. Ihr beiden spracht. Auf dem Berg Dschorqalqun, wo die Schlangen beißen, wenn man mit dem Mund zusammenkommt und spricht: ‚Jetzt, Khan Ečige, bist du mit dem Mund zusammengekommen? Tritt nicht in seine Verleumdung ein. Mit einem Zeichen glaube!‘ Kamst du nicht zusammen? Mit meinem Mund, mit meiner Zunge, kam ich zusammen. Ich, ich habe viel Böses, aber ich ließ nicht suchen. Zwei Wagen, ihre Deichsel, die Ochsen werden nicht können. War ich nicht wie ein zweites Ich? Wenn man das Rad des zweiten bricht, wird es nicht können. War ich nicht wie ein zweites Ich?
+
+Die Sonne. Qurčaqus Buyiruq, Qurǰaqus Buyiruq Qan, von den vierzig Brüdern wurde er Khan. Er wurde Khan und tötete die jüngeren Brüder Buqa Temür. Erke Qara, der jüngere Bruder, entkam mit dem Leben, zu Inanča Bilge Khan. Er entkam und liebte die jüngeren Brüder. So sprach Gür Khan: „Dein, dein Auszug, du entkamst mit dem Leben. Entlang der Qala'un Qabčal, du. Und von dort, mit dem Gesicht der Qudža'ur Ujin der Merkit, von der Qala'un Qabčal kam der Vater Yesügei Khan. Er sprach: ‚Gib mir vom Stamm des Oheims!‘ Der Vater Yesügei kam, Qunan und Taiču'udur Unan, die beiden, retteten dich. Sie zogen mit dem Heer und vertrieben Gür Khan von der Tala-Steppe mit dreißig Qašin und gaben dir den Stamm.
+
+Von dort, am Fluss Tu'ula, traf ich mit meinem Vater Yesügei Khan zusammen. Dort, mit Dankbarkeit, dein, dieser Lohn, der Lohn der Nachkommen, der Himmelsgott, mit Schutz, Dankbarkeit, dir. Jener Erke Qara forderte von Inanča Bilge Khan. Als er an den Ort kam, entkam er mit dem Leben, mit wenig Stamm, lief er zum Ort der Qara Kidat, zu den Sarda'ul. Ein Jahr verging, und wieder abtrünnig, zu den Uy'ut, auf der Erde in Not, mit fünf gefangenen Tigern, melkte er, stach das Kamel, mit dem einäugigen gelben Pferd, dir. Du, so kam er. Zuerst dachte ich, er sei mit meinem Anda zusammengekommen. Sügegei, dein Bote, und ich selbst gingen vom Ufer des Burgi, trafen uns am See, wir. In Not sprach er, sammelte und gab. Mit meinem Anda traf ich mich am Fluss Tu'ula. Wir, Vater und Sohn, trafen uns. In das Winterlager ließ ich eintreten. Winter, Sommer, Herbst, am Ort des Volkes, auf dem Berg Qadiqiliq Nil'un, auf dem Berg Moča, verfolgte ich Toqto'a Beki, nahm ihnen ihre vielen Paläste und Feldfrüchte und gab sie dir. Dein Tag ließ nicht erreichen. Das Magere zur Hälfte, ich. Und weiter verfolgte ich Güčügür Tai, die Quruqtaq, den Altai-Berg, entlang, bis zum See Kičilbaš, und nahm sie. Als ich umkehrte, zu der Zeit, am Qökse'ü Sabraq, am Baidaraq Belčir, ordnete ich mich. Zu der Zeit, als wir am nächsten Tag kämpfen wollten, trafen wir zusammen. Ich, du, jenes Feuer in der Nacht hinaufsteigend, du. Am Morgen wurdest du zum Schlachtfeld gemacht, bewegt, sprach: ‚Uns‘, und bewegtest dich, kamst an die Flussbiegung und stiegst ab.
+
+Dort plünderte Qökse'ü Sabraq das gesamte Volk des Senggüm, das Volk des Khan Ečige am Teregetü Amasar, die Nahrung. Toqto'a, der Sohn, Čila'un, das Volk, mit ihnen zusammen, an dem Ort, wo sie waren, in ihrer Mitte, wollten sie sich vereinen, wollten eintreten, und bewegten sich von dem Ort.
+
+Dort, Khan Ečige, das Volk der Naiman wurde gefangen. Ich, die Dörben Külü'ut, die Vier Helden, komm! Als sie kamen, so, ich, Muqali, Čila'un Ba'atur, dieses Heer sandte ich. Die Vier Helden stellten sich gegenüber bei Qula'anqut. Jener, der geschossen wurde, ich, mein, dieser kam, rettete, gab das ganze Volk. Darauf sprach Khan Ečige: ‚Zu Temüdschin vollendet, die Wohnung gerettet‘, sprach er, dir.
+
+Ich, mein Zorn, warum zornig? Qubari und Quri, die beiden, sende! Auf diese Worte hin sprach er: ‚Atemnot!‘ Mein Trennen, getrennt. Vom Verhältnis her, ich. Das Herz sprach: ‚Der Sohn wird böse, wie herausgebracht werden (getötet werden).‘ Mit dem kleinen Finger, dem Pfeil, dem kleinen Messer, das Blut, in kleiner Menge schöpfend, sprach er zum Sohn und wieder zu Jamuqa Anda: ‚Von Khan Ečige konntest du nicht.‘ Zuvor trankst du mit Khan Ečige. Zuvor wurdest du getrunken. Wie viel trank Khan Ečige, ihr?‘ und sandte es.
+
+Dschingis Khan sprach: „Qubilai, sprich!“ und „Ihr, mich, das Gesicht, spracht ihr? Die Tat, spracht ihr? Du willst mich, verwirfst du mich? Diesen Qubilai, Nekün Taishi, den Sohn!“ Von uns: „Wenn du Khan wirst, du. Dich, das Reich, du gingst. Jenes Verwalten, wenn du Khan wirst, wurdest du nicht. Von oben (von der älteren Linie her gezählt) ‚Sohn‘ (Tan ist ein Fehler für Qaq, nämlich Qabul Qans ältester Sohn Oqin Barqaq. Dies ist ein Fehler vom Anfang der Urschrift, und die revidierte Geheime Geschichte folgt diesem Fehler, ebenso wie Rašīds Sammelwerk. Die親征錄 scheint den Fehler bemerkt zu haben, spricht: ‚Mein Großonkel‘, Taiču, ihr, werdet!“ Konntet ihr nicht? Euch sprach er: „Werdet Khan!“ Jenes Verwalten, ich.
+
+Wenn ihr zu Qat geworden wärt, dann, zu den Feinden, zum Himmelsgott, die Feinde, die Gefangenen, zu der Zeit, die Mädchen, die Hüftgelenke, die guten, nahm und gab ich. Auf dem Feld, das Wild, wenn man es jagen ließ, die Vorderbeine, in einer Reihe gab ich. Das Wild der Klippen, jenes, brachte ich heran, ich. Die Bäuche, in einer Reihe gab ich. Jetzt, mit Khan Ečige als Gefährte, wirst du satt genannt werden. Ča'ut Quri, nicht, du, jetzt aber, du hast es getan. Am Ort. Gut, Gefährte, höre nicht auf! Anfang und Ende, lass die Menschen nicht reden! Wenn es nicht vollständig ist, wird es nicht gebraucht. Dass Dschingis Khan sich selbst Ča'ut Quri nannte, zeigt, dass der mongolische Qan zu dieser Zeit nicht mehr als ein Häuptling eines kleinen Stammes war und die Beamtenwürde der Jin zur Ehre machte.)
+
+Die Quelle, nicht, sprach, und wieder To'oril, der jüngere Bruder, sprach: „Sprach, Tumbinai und Čaraqa Lingqu, die beiden, von den Tatar kamen sie. Der Knecht Sübegei, es gab einen Knecht. Des Knechtes Kököčü Qirsaan, es gab einen Yegai Qongtaqar. Des Yegai Qongtaqar, To'oril, wer schmeichelte dem Ong Khan? Du. Der Stamm, Qubilai, wem auch immer, dich, sprach ich, mein (Tumbinais), mein Urgroßvater, Elinčük, die Tür, die Nahen, der Knecht, mein Senden, so ist es.
+
+Dschingis Khan sprach zu Senggüm Anda: „Ich, der geboren wurde, war. Du, der geboren wurde, warst. Khan Ečige nährte uns beide. Seit du eintratest, vertriebst du mich. Jetzt, quäle Khan Ečige nicht! Geh am Morgen hinaus! Das Herz, das alte Herz, zu Khan Ečige, in uns, das Herz, nicht, sprach, und: ‚Zu mir komm, sende den Gefolgsmann Tödöyen!‘ und sandte es.
+
+„Der Bote, Khan Ečige, sende den Boten! Die beiden, Jamuqa Anda, sende auch den Boten! Die beiden, Qubilai, sende auch den Boten! Die beiden, Qačin, sende auch den Boten!“ und sandte die Worte des Sügegei Je'un.
+
+Als dies gesagt wurde, sprach er: „Khan Ečige und der tötende Alte, ob ich, Anda, und Toqto'a, den Schwanz der Sartaq, ob ich ging? Hier, der Plan, ist das Wort des Kampfes. Tödöyen, stelle dich zum Kampf! Mästet! Es gibt nichts!“ Ich auch, sprach zum Anda: „Nur Toqto'a, er folgte den Hui-Hui und ging.“ Schon zur Zeit der Yuan verstand man die Bedeutung nicht mehr, und die親征錄 übersetzte: „Er hat mich nie wirklich als Anda behandelt, sondern mich nur als Spielzeug betrachtet.“ Berezin übersetzte Rašīd: „Er nennt mich Anda, aber schimpft auch ständig auf mich“ und fasste zusammen, und in seiner Anmerkung sagte er: „Unten gibt es ein Wort Toqubut, es wird wohl die Sache der Merkit mit Šikta sein. Der Sinn ist schwer zu verstehen.“) So, Arqai Qasar, zu der Zeit, Frau und Kinder, dort, am Ort, verließ sie. Sügegei Je'un blieb zurück. Er kam. Diesem Dschingis Khan, Dschingis Khan, am See Balǰuna, am Fluss Banǰuni. Dort, zu der Zeit, traf er die Qorulas, die nicht kämpften und kamen. Der Onggu-Stamm, Alaquš Diqit Quri, der Asan Sartaqtai, der Kamele und Schafe hatte, als er am Fluss Ergüne Zobel kaufte und kam, traf er sie beim Eintritt in den Balǰuna-See. (Dieses Wassertrinken ist der berühmte Eid auf das trübe Wasser von Balǰuna. Der Text der Geheimen Geschichte ist kurz, daher werde ich zur Referenz die Erzählung aus den Annalen und Biographien unten anführen.
+
+塔海拔都兒，驍勇善戰，從征黑水有功，授千戶。其先徹兀臺氏。祖父時，與太祖戰於班眞河水，有功，授千戶。耶律禿花，契丹人，桓州時，率眾來歸金，為太祖所獲，牧馬。太祖與宗親大臣同飲班朮河水，為盟。耶律阿海兄弟皆預焉。汪罕軍勢甚盛。帝見不敵，引退。帝乃往巴勒渚納。是時水涸濁，可渾水而酌，與從者誓，多飲之。後世成吉思合罕，居其水。合撒兒、也古、禿忽諸子，僅以從者出，至合喇溫只敦，窮困而行。成吉思合罕得合撒兒，喜，欲遣使於汪罕。沼咧亦惕之哈柳荅兒、察忽兒罕二人，奉使曰：「合撒兒言：『兄影已失，路不得見。聽之不從。以土為枕，若得我罕額赤格之信賴，則可遣人。罕額赤格居處，汝等動，則於阿兒合勒苟吉相會。來！』」遂遣合里兀荅兒二人。主兒扯歹二人，自巴勒主納納兀兒續至，相會。出馬至阿兒合勒苟吉。合里兀荅兒二人，自合撒兒處遣來，言：「金帳起，設筵會，名阿勒壇帖兒篾。」黑韃事略云：「其金帳，氈為衣，柳編為窗，透明，可容數百人。柱皆裹以金。」合里兀荅兒二人曰：「汪罕若然，則來！當依賴而遣。」遂約會於阿兒合勒苟吉。見形影，使者馳馬。馬為合里兀荅兒所捕，不獲，前後行遲。察忽兒罕箭及先處，射金黑騸馬之根。合里兀荅兒二人率成吉思合罕兵至。成吉思合罕言，合撒兒率兵往。未遇亦禿兒堅，即斬之。合里兀荅兒二人奏曰：「不意敵設防。天幕設筵，已支備。可夜襲。」帝曰：「善。」乃使阿兒孩為先驅，夜圍者折額兒溫都兒口。圍三日，第三日窮追，降之。桑昆夜遁，不知所之。只兒斤之合荅黑巴阿禿兒來，禦三夜，曰：「見正主，則殺之。廢命，逃去。」挑戰，禦我。若使我死，則力於成吉思合罕。合荅黑巴阿禿兒曰：「善。正主廢命，逃去。禦敵，丈夫也。可為伴。」言畢，不殺。命曰：「以合荅黑巴阿禿兒、只兒斤及其妻子，賜忽亦勒荅兒子孫，使隨侍。其父母，聽其意嫁之。妻子，使服役。」成吉思合罕又降旨曰：「子孫以至世世，功族之取，永為定例。」
+
+（姚燧《牧庵文集》有平章忙兀公博羅驩碑，可與本文相證，今引於下。博羅驩，忽亦勒荅兒曾孫，世祖朝平章政事。「畏荅而與兄畏翼，俱事太祖。時太疇盛彊，畏翼謀往歸之。畏荅而苦止曰：『帝何負汝而為是。』竟去。追之不復。雪泣而歸，請獨宣力。帝貳之曰：『汝兄與眾皆往，獨留何為。』乃折矢誓曰：『所不終事帝，有如比矢。』帝感其誠，易名屑廛，約為按荅。帝與王罕陳於曷剌眞，彼眾我寡。敕兀魯一軍先發。其將朮徹帶玩鞭馬鬣不應。屑廛請曰：『戰猶鑿也。匪斧不入。我先為鑿。』顧帝訣曰：『臣萬一不還，三黃頭兒將軫聖慮者。』辰入疾戰，大敗其軍，晡猶逐北。敕使止之。乃旋師，免冑為殿。腦中流矢，帝親為傳藥，寢與同帳，逾月而卒。帝曰：『曩只里吉為敵將，實禦屑廛。其以只里吉民百戶屬屑廛子，世世歲賜勿絕。』其族散亡者，收完之，即封北方萬家。」元史畏荅兒傳，全採此文，惟改畏荅而為畏荅兒，屑廛為薛禪，按荅為按達，曷剌眞為哈剌眞，朮徹帶為朮徹台，只里吉為只里吉實，誤。又太疇即泰赤兀惕，兀魯即兀魯兀惕，曷剌眞即合剌合勒只惕，朮徹帶即主兒扯歹。只里吉，即只兒斤，誤為敵將名。又此戰日暮始，霎時決，而云辰至晡，非。合荅黑勇士賜忙兀惕氏事，李文田曰：「以其忠誠衛上，使忽亦勒荅兒家，得其死力也。」然元史據碑文，書以只里吉抗敵故賜，高寶銓駁之曰：「刺忽亦勒荅兒下馬者，初非只兒斤。且太祖方嘉合荅黑可以做伴，則其所以與忽亦勒荅兒家者，李說為長。元史云云，淺矣。」甚當。）
+
+成吉思汗實錄卷之六終。
+
+# Siebtes Buch {#gruppe-volume-7}
+
+## Siebtes Kapitel {#kapitel-007 .chapter-heading .centered}
+
+Siebentes Buch
+
+[188]
+
+Nachdem er die Kereyit unterworfen hatte, gab er dem Sulduz für seine Verdienste hundert [Gefangene]. Dschingis Khan hatte eine Tochter des Wang Khan, des J̌aqa Gambu.
+
+Diese Ibaga Beki (erscheint am Ende des achten Buches erneut) gab er selbst Tolui zur Frau, mit der Schwester, die Sorqaqtani hieß. (In der Kaiserinnen-Tafel: „Die Gemahlin des Ruizong, Sorqaqtani, aus dem Stamm der Kereyit, postum verliehener Titel Zhuangsheng Kaiserin, auch Xianyi Zhuangsheng Kaiserin.“ Tolui, in der Biographie: „Ruizong, Jingxiang Kaiser, mit Namen Tolui, der vierte Sohn des Taizu, jüngerer Bruder der Mutter des Taizong.“) Deshalb nannte man ihn den vertrauten, vollkommenen Schwiegersohn und ließ ihn nicht gefangen nehmen.
+
+[189]
+
+Dschingis Khan sprach: „Wegen Badai und des anderen soll ihnen der goldene, ausgebreitete Weinschank zur Handhabe gegeben werden. Sie sollen tun, was sie wollen. Wenn sie trinken, soll man ihnen das Austrinken des Bechers erlauben. Ihre Nachkommen sollen nach Belieben reiche Beute vom Feind nehmen. Sie sollen töten und Beute nehmen, wie sie wollen.“ So war der Befehl. (Das Austrinken des Bechers bedeutet, den Becher zu leeren. Bei Festmahlen wird Musik gespielt und Wein gereicht. Im Mongolischen heißt es: „Bei allen Festmahlen hält einer den Taktstock, einer steht auf der Stufe, einer hält das Brett, er hebt und senkt es, lobt den Becher mit seiner Stimme. Die Sitzenden sitzen, die Stehenden stehen, dann treten sie vor, beenden den Becher, und die begleitenden Beamten folgen der alten Sitte bis heute. Die Fürsten und großen Minister wagen es nicht, ohne besondere Erlaubnis zu trinken.“) Dschingis Khan sprach weiter: „Wegen der Lebensverdienste von Badai und dem anderen, dass sie die Kereyit dem Himmelsgott unterworfen und mir später zur Thronfolge verholfen haben, soll dies ihren Nachkommen zuteilwerden.“
+
+Das Volk war versammelt, bis kein Platz mehr war. Sie waren zerstreut und wieder vereint. An dem Tag, als sie gefangen genommen wurden, hatten sie die J̌irgin geöffnet und geteilt, die Kereyit waren vernichtet, bis sie zum Abǰi'a Ködeger kamen (im Qinyilu: „Sie hielten Winterlager“).
+
+[190]
+
+Senggün wandte sich zur Flucht und ging. Nekün Usun (das Wasser des Nekün. Im Qinyilu: „Wang Khan war ausgetrocknet“) und Qori Sübeči (im Qinyilu: „An dem Ort Qori Sübeči“) wurden gefangen genommen. „Es ist Wang Khan“, erkannte man ihn nicht und tötete ihn. Ďiďik Saqal trat nicht ein, er ging fort.
+
+Er trat ein und suchte (Čel ist dem Tang-zeitlichen Čöl, Tiele, ähnlich. Das alte Land der Tiele oder ein Teil davon scheint den alten Namen bewahrt zu haben. Im zwölften Buch gibt es eine Stelle, wo in Čel ein Brunnen gegraben wird; es scheint der Name einer weiten Gegend zu sein.) Qulad, ein gelbes, bläuliches Pferd, wurde verwundet. Senggün stieg ab. Senggün und Kököčü, der Pferdeknecht, ließen das Pferd ergreifen. Der Wallach kehrte um. Die Frau, die goldenen Schmuck trug, aß wohlschmeckende Speisen. Senggün und Kököčü, sein eigener ... „Wie kannst du mich so verlassen, du?“ Die Frau blieb zurück. Er sprach: „Um ein Mann zu sein, tue ich das“, sagte er. Seine Frau, die Frau, die man eine Hündin nennt, gib ihm seinen Becher und Wasser zu trinken!“ Kököčü, der Pferdeknecht, nahm das Gold und wandte sich zur Flucht. So ließ Kököčü, der Pferdeknecht des Dschingis Khan, Senggün so zurück und sprach: „Ich ...“ und als er alles, was dort versammelt war, hinaufbrachte, erging der Befehl, ihn zu belohnen. „Wer seinen rechtmäßigen Herrn verlässt, auf wen soll man sich verlassen?“ und er ließ ihn töten. Zum Tayang Khan der Naiman (in der Yuanshi: „Taiyang Han“, in der Mongolischen Quellen: „Dayan Khan“) und zu Gürbesü (im Qinyilu: ...) sprach er: „Der frühere große ... sein Besitz ... wenn wir ...“ und er ließ den Boten des Qori Sübeči töten und kommen, ließ die weißen Schwiegertöchter oben den Becher austrinken, ließ die Harfe spielen, ergriff sie, und als man den Kopf zur Zeit des Lachens zeigte, sollte er zerschmettert werden. Kökse'ü Sabraq, der tote Khan Gü'ün, der Khan-Mensch, sprach: „Ihr habt sie getötet und seid gekommen, ihr habt sie zerschmettert, die guten ... unser Bellen ... böse ... Inanča Bilge Khan, die Frau, der Mann, ist alt. Durch dieses Gebet ließ er ein Pferd gebären. Feige, meine Zukunft, viel Böses ... kannst du streicheln? Jetzt ist die Stimme nahe gekommen und hat gebellt. Das Gesetz der Qatun ist getan. Khan, Tayang, du, das Senden von Boten, mehr als zwei hast du kein Herz.“ Tayang Khan sprach: „Im Osten gibt es die Mongolen, mit seinem alten Köcher hat er sie zurückgewiesen, jetzt will er es tun, die Sonne und der Mond des Himmels scheinen, es gibt Sonne und Mond. Oben, wie können die Qat (Plural von Khan) wir seinen Besitz haben?“, sagte er.
+
+[193]
+
+(In der Ming-Übersetzung: „Es gibt nur einen Herrn auf Erden. Wir gehen und nehmen jenen.“ Die Übersetzung von „zwei Sonnen und Monde“ als „eins“ ist falsch. Die revidierte Geheime Geschichte scheint diese Worte in die an die Öngüt gerichtete Botschaft aufgenommen zu haben, und im Qinyilu wird als Wort des Boten übersetzt: „Sonne und Mond sind am Himmel, man sieht sie klar. Gibt es etwa zwei Könige auf Erden?“ ohne zu sagen, ob eins oder zwei, und verschleiert den Glanz mit „klar“. In der Neuübersetzung von Howorth heißt es: „Zwei Sonnen am Himmel, zwei Schwerter in einer Scheide, zwei Augen in einem Auge, zwei Könige unter einem Himmel, kann es das geben?“ Dies ist eine Ausschmückung ohne Rücksicht auf den Originaltext der revidierten Geheimen Geschichte. Hong Jun übersetzt in seiner Neuübersetzung unter Weglassung des Gleichnisses von Schwert und Auge: „Ich weiß, dass es am Himmel nur eine Sonne und einen Mond gibt, und auf Erden kann es nicht zwei Könige geben“, und nähert sich damit dem Text des Qinyilu. Die Yuanshi schreibt: „Der Himmel hat nicht zwei Sonnen, wie könnte das Volk zwei Könige haben?“ Dies weicht zwar vom Text der Geheimen Geschichte ab, stimmt aber mit alten chinesischen Sprüchen überein, ist klar und einfach im Ausdruck und kraftvoll im Stil.) Seine Mutter sprach: „Was soll man tun? Der Atem der Mongolen ist übel, sie wohnen draußen. Nimm die reinen Töchter, lass sie waschen, wenn sie jung sind oder nur ...“ Zu der Zeit sprach er: „Wenn es so ist, wird es sein. Ich werde zu den Mongolen gehen, den Köcher nehmen und kommen.“ An diese Worte anknüpfend sprach er: „Großes redest du, ach, Khan, halte es geheim, du. Du sprichst wieder große Worte.“ Zu Kökse'ü Sabraq und Törbi Taš
+
+sandte er Boten zu Alaquš Digid Quri mit den Worten: „Dieses wenige ... wurde gesagt. Von hier aus vereinige ich mich mit dem rechten ... ein wenig Köcher ... auf die Worte antwortend, kann ich den rechten nicht geben.“ Alaquš Digid Quri sprach und sandte zu Dschingis Khan: „Tayang Khan will den Köcher holen. Den rechten ... sprechend sende ich jetzt zu dir.“ (In der Ming-Übersetzung ergänzt: „Wenn du dich nicht vorsiehst, wirst du überfallen und genommen werden.“) So sprach er, und als Dschingis Khan gerade am Temügei-Fluss (im Qinyilu auch „Temügei-Fluss“) bei den Tülkin Če'üt lagerte, kam der gesandte Bote mit dieser Meldung. Oben sprach er: „Wir ...“ und als sie versammelt waren,
+
+sprach er: „Die Menschen, unsere, sind mager. Was sollen wir tun?“ Zu der Zeit sprach er: „Wenn sie sagen, wir seien mager, wie können wir dann fett sein? Wenn ich so etwas höre, wie kann ich dann so sprechen?“ Belgütei Noyan sprach: „Wenn ich lebe und in der Zwischenzeit den Köcher ... wenn ich lebend geboren werde und sterbe, wenn der Köcher als Leiche liegt, dann ist das Land der Naiman, das Volk, großes Gerede. Wenn wir auf ihre Worte hin ausrücken und sie nehmen, werden dann ihre vielen Pferdeherden nicht zurückbleiben? Wenn die Paläste leer werden, werden dann ihre vielen Stämme nicht an den Ort hinaufsteigen? Lass sie groß reden, wie können wir da nicht ausrücken?“, sagte er.
+
+[195]
+
+Dies als gut befindend, zog er von der Jagd bei Abǰiqa Köteger (dem früheren Abǰi'a Ködeger) zum Halbhang des Flusses Qalqa, zum Berge Kertegei Qada. (Bedeutungsgleich mit Kertegei Qaldud aus dem sechsten Buch. Das ist der Ort, wo Quyildar begraben wurde. Im Qinyilu heißt es „Jian'tegai-Berg am Fluss Qalqa“, in der Yuanshi „Jian'tegai-Berg“, wobei der Bergname „Örnü'ü“ ausgelassen und das mongolische Wort für „halb“, „Kertegei“, als Bergname verwendet wird. Rašid folgt dem Qinyilu. Nach diesem Satz zu urteilen, liegen sowohl die Jagdgegend Temü'en Ke'er als auch das Winterlager Abǰi'a Ködeger und, rückwärts, der Ort, wo Wang Khan überfallen wurde, alle an der Südostgrenze des heutigen Čaqar-Khanats, und Wang Khan war nach der Schlacht bei Qalaqaljit noch nicht in seine alte Residenz am Schwarzen Wald des Tula zurückgekehrt. Hong Jun sagt: „Dieser Qalqa-Fluss ist sicherlich nicht der östliche Qalqa-Fluss“, aber da die Geheime Geschichte später sagt, dass sie den Kerülen hinaufgingen und zu Sa'ari Ke'er kamen, kann es keinen Zweifel geben, dass es sich um ein östliches Gebiet handelt.) Er zählte Tausende und setzte dort Tausend-, Hundert- und Zehnschaftsführer ein. (In der Yuanshi, Abschnitt über das Heerwesen: „Zu Beginn des Reiches waren die Beamten, die das Heer befehligten, nach der Zahl der Soldaten im Rang gestaffelt. Der Befehlshaber über zehntausend Mann war der Zehntausendmann, über tausend der Tausendmann, über hundert der Hundertmann.“ Und: „Zehn Mann bilden eine Tafel, und es wird ein Tafelkopf eingesetzt.“ Dieser Tafelkopf wird im späteren Text durchgängig als „Paitou“ bezeichnet. Demnach wurde der Tausendmann im Chinesischen nur „Qianhu“ genannt, der Hundertmann „Baihu“ und der Zehnmann „Paizitou“. Auch in der „Mengda Beilu“ heißt es: „Die Tataren wachsen zwischen Sattel und Pferd auf, sie stellen Hunderttausende von Soldaten auf, fast ohne Schriftstücke. Vom Oberbefehlshaber bis zum Tausend-, Hundert- und Zehnmann wird der Befehl durch Wort weitergereicht.“) Er setzte ein: Doqolqu Čerbi (im dritten Buch: Doqolqu Čerbi), Törün Čerbi (im Qinyilu: „Tötölön Čerbi“, mit einem zusätzlichen „Tö“-Zeichen. In der Yuanshi, Biographie des Muqali: „Doqulan“, Biographie des Qaba'urtu: „Tausendmann Tölün“, Biographie des Šimo Yesen: „Doqulan Čerbi“, Biographie des Šimo Bode'er: „Doqulan Čerbi“, in der Biographie der Loyalen: „Baba's Vater Tölün Čerbi, vom Stamm der Qongqatan, Sohn des Mingli Yečige.“ Berezin sagt: „Sohn des Mönglik, Tölün Čerbi.“ Mingli und Mönglik sind beide Mönglik Ečige vom Stamm der Qongqotan.), Še'iküti Čerbi (im dritten Buch: Še'iküti Čerbi). Diese Čerbi ließ er die Tausend-, Hundert- und Zehnschaften vollenden und wählte für die Nachtwache (mongolisch: „siebzig Torga'ut“, in der Ming-Übersetzung: „Sanban“)
+
+dort die Kešikten (in der Ming-Übersetzung: „Huwe“, in der Yuanshi, Abschnitt über das Heerwesen: „Ausgewählte“) aus. Er ließ die jüngeren Brüder der Tausendmann-Beamten und die Söhne der Gemeinen eintreten, und zwar die von guter Statur.
+
+Dort sprach er segnend: „Ausgewählt kämpfend, mein Stehen, viele meine Wächter sollt ihr sein.“ Die siebzig Ögöle Čerbi waren anwesend. „Beratet!“ Und weiter erging der Befehl: „Die Qorči (in der Ming-Übersetzung: „Bogenschützen“, in der Biographie des Tačar: „Qorči sind die, die Köcher und Bogen tragen und dem Herrscher zur Seite stehen.“), die Köche (mongolisch: „Ba'urči“), die Türhüter (mongolisch: „Egüdeči“), die Pferdeverwalter (mongolisch: „Aqtači“), am Tag in der Kešik, am Tag zuvor übergeben, – die Wallache ausführend, die Menschen, die Sanban, die Köche usw., am Tag, wenn die Schicht bis zur Untergangszeit reicht, übergebe sie den Nachtwächtern, die hinausgehen und übernachten. Die Verwalter der Pferde. In der Nacht lass sie ringsum liegen, die Stehenden lass stehen. Die Leibwächter, wenn unsere ... trinken, melde es. Die Leibwächter, die Türhüter usw., an ihrem Platz die Nachtwächter, drei Tage, nur nach dem Gesetz, drei Nächte, versammelt, versammelt, als Nachtwächter ringsum übernachte!“ Nachdem er die Tausend vollendet und eingesetzt, die Nachtwächter und Leibwächter hatte eintreten lassen, und die Helden, rückte das Volk vom Halbhang des Qalqa-Flusses aus.
+
+[198]
+
+Im Jahr (dem ersten Jahr Genkyū des Kaisers Tsuchimikado, Jahr der Ratte, 1204 n. Chr., im 43. Lebensjahr des Dschingis Khan) rückte er zum ersten Mal mit dem sechzehnten roten Banner aus. Er zog flussaufwärts, mit Qubilai (im Qinyilu und in der Yuanshi: J̌ebe) als Vorhut, nach Sa'ari Ke'er. Am Berg Qangqarqan wurde ein böses Pferd der Naiman, unseres, erjagt. Die Späher, die es erjagt hatten, sprachen: „Der Wallach sagte, unsere ... in Sa'ari Ke'er haltend, sprachen sie: ‚Was sollen wir tun?‘“
+
+Darauf sprach Dschingis Khan: „Wir sind wenige. Oben ist er gekommen. So lasst die Wallache in Sa'ari Ke'er lagern, an fünf Orten Feuer anzünden und sie erschrecken. Das Volk sagte. Der Khan war nicht ausgezogen, die Menschen.“ Mit Feuer in der Zwischenzeit, auch die Wallache, die Wallache der Naiman verfolgend, ließ er sie sich versammeln, und da einer in ihrem Inneren einen Vorschlag gemacht hatte, sprach er dies als gut befindend den Befehl: „So gebt das Feuer den Kriegern weiter.“ So breitete es sich aus. „Jeder, solange das Leben reicht, ...“ In der Nacht sahen die Späher vom Gipfel aus Feuer. „Haben sie nicht von den Mongolen gesprochen? Viele sagten sie, ein böses, blaues Pferd schickten sie, die Mongolen lagerten in Sa'ari Ke'er. Im Inneren gibt es mehr Feuer als Sterne“, sandten sie.
+
+[199]
+
+Auf die Meldung hin war Tayang Khan am Qangqai-Gebirge (in der Yuanshi, Annalen des Taizu: „Hanghai-Gebirge“, in den Annalen des Shizu, 14. Jahr, Biographie des Qangli Tötö: „Hanghai“, das heutige Hangai-Gebirge) am Fluss Qačir Usun. Als diese Meldung kam, meldete der Sohn: „Die Mongolen sind mager. Viele sagten sie. Viele jetzt versammelt, sich zu trennen, ist schwer. Wenn er jetzt die fremden Truppen versammelt, dann macht er kein Augenzwinkern, und wenn er sich sammelt, gibt es kein Ausweichen. Wenn die Mongolen mager sind, dann lasst uns, wir, den Altai (im Qinyilu: „Antai“, in der Yuanshi: „Antai“) zurückweichen, das Heer, sie, gehen, unten mit den Hunden kämpfen, unsere, fett sind wir, aufwecken, die Wallache, sie, oben eingießen.“ An diese Worte anknüpfend sprach er: „Das Herz einer Frau, die Worte, die Mongolen werden kommen. Der größte Teil, unsere Schwangeren, die sich umkleiden, an den Ort unter dem Wagen, die Kälber, das Herz einer Frau, sind das nicht die Worte?“ Und so, bis es schmerzte, sprach er, an seine Worte anknüpfend, und zu sich selbst sprach er: „Habe Mut, bis zum Töten, am Tag verliere nicht den Mut. Sich zu versammeln und zu trennen, ist schwer.“ An diese Worte anknüpfend sprach der große Beamte unten: „Vater, dem Feind den Rücken, das Gesäß, jetzt am frühen Morgen das Herz, du. (‚Der Morgen ist scharf, der Mittag träge, der Abend kehrt heim‘, sagt Sunzi. Jetzt am frühen Morgen träge und heimkehrend zu sein, ist äußerst feige.) Wenn du das Herz kennst, obwohl du ein Mensch bist, bring die Mutter mit, das Heer, ach, Kökse'ü Sabraq, mein Gesetz, ist das nicht der Glückszug der Mongolen? Feige, du Feigling!“ und er trennte sich vom Köcher und ging fort.
+
+[201]
+
+Darauf sprach Tayang Khan: „Leben, Leib, alles, ich werde kämpfen (in der Ming-Übersetzung: „Leben, Leib, gleich. So, wir, mit ihnen kämpfen“).“ Er bewegte sich von Qačir aus, folgte dem Fluss Orqon, überschritt den östlichen Teil des Naqu, und als er ankam, zu der Zeit, als die Späher meldeten: „Die Naiman kommen“, auf die Meldung hin sprach Dschingis Khan: „Von den Vielen zu den Wenigen wird es Verluste geben (bei den vielen Naiman werden viele Tote und Verwundete sein, bei den wenigen Mongolen wenige).“ Sie rückten aus, die Späher, das Heer, das Gehen aus dem Gebüsch, das Zusammentreffen wie das Meer, das Kämpfen wie mit dem Meißel, redend und redend, ließ er selbst Qasar ordnen, die Reservepferde. Die Naiman wichen zurück, am Rand des Abhangs, des Berges, unsere verfolgten die Naiman, am Abhang, in ihre Mitte verfolgend, verfolgend, Tayang Khan und Jamuqa waren dort zusammen gekommen und waren anwesend.
+
+Zu Jamuqa sprach er: „Wie sind sie? Wie kommen sie, bis sie die Schafe treiben und ankommen, wie ein Mensch?“ Jamuqa sprach: „Meine vier Menschen, die ich ernährt habe, angebunden, sie. Die Späher, dass sie kommen, sie, die Hunde, haben einen Schnabel wie ein Meißel, haben ein Herz aus Eisen, haben eine Peitsche, gehen im Wind, die Menschen, die sich im Töten vereinen, ihr Fleisch. Am Tag, ihre trockene Nahrung. Losgebunden, nicht angebunden, sich freuend, so hängend, sie.“ „Wer sind diese vier, wer?“ „J̌ebe, zwei, Sübe'etei, vier sind es.“ Tayang Khan sprach: „Aber jene, fern ...“ sprechend, zog er, lud auf, von hinten umkreisend, sah, Tayang Khan fragte: „Am Morgen die losgelassene Mutter, die Milch, die Mutter, die Umkreisung, wie kommst du so gelaufen?“ Er sprach: „Den Speer, den Mann, führend, einen (lebenden Menschen) häuten sie, einen verfolgen sie, werfen sie um, töten sie, nehmen sie, die Mangqut und sie. Nicht angebunden, sich freuend, so kommen sie“, sagte er. Darauf sprach er: „Vom Untergebenen werde ich stehen“ und stellte sich wieder auf den Berg.
+
+„Die da kommen, der Speichel des Falken, wer ist das?“ fragte er Jamuqa. Jamuqa sprach: „Der da kommt, ist Temüdschin, der Anda. Sein ganzer Leib ist aus ... gemacht, in den Zwischenräumen ist Eisen, mit einer großen Nadel kann man nicht stechen, Temüdschin, der Anda, der Speichel des Falken, nur er kommt. Ihr, die Menge, wenn ihr seht, auch die Hufhaut, sagte er. Seht!“ An diese Worte anknüpfend sprach er: „Furchtbar. Steige hinauf!“ sprechend, stieg er hinauf und fragte wieder Jamuqa: „Und jener, der Dicke (der die große Menge führt), wer ist das?“ Jamuqa sprach: „Hö'elün Eke, die Mutter, hat den Sohn mit Fleisch, drei Klafter lang, drei Jahre alt, gefressen, den Panzer, drei Stück, ziehend, den Köcher, den Menschen, an der Kehle wird er nicht gehindert. Wenn er auch schluckt, mit Zorn, der Pfeil Angqu'a, ziehend, den Berg, überschreitend, zehn Mann, zwanzig Mann schießt er. Auf der weiten Ebene, trennend, den Pfeil Ke'ibür, ziehend, eine Reihe durchbohrend, so dass er den großen ... ziehend, neunhundert Klafter, auf der Erde vermindernd, ziehend, fünfhundert Klafter, auf der Erde die Menschen, die Menschen, sich unterscheidend, die Riesenschlange, J̌öči Qasar und er ist es.“ Tayang Khan sprach: „Aber streite um den Berg. Steige hinauf!“ und stellte sich auf den Berg. Tayang Khan fragte: „Wer ist der von hinten?“ Jamuqa sprach: „Er ist der jüngste, Ötčigin, genannt. Schlafend aufwachend, mehr als nichts, mehr als nichts.“ Tayang Khan sprach: „Wenn es so ist, lass uns auf den Gipfel steigen.“ Jamuqa trennte sich so von den Naiman, ging zu Dschingis Khan und sprach zum Anda: „Tayang Khan hat mit Worten gekämpft, ist auf den Berg gestiegen. Hüte dich! Die Menschen auf dem Berg haben keine Haltung.“ Von den Naiman sprechend, ließ Dschingis Khan das Heer am Berg Naqu aufstellen, in der Nacht entkamen sie, fielen den Naqu hinab, oben versammelten sie sich, zerschmetterten sich, wie ... drückten sie zu Tode. Am nächsten Morgen, als sie in die Enge getrieben wurden, bewegte sich Güčülük Khan, weil er dort war, unter den Menschen, zu der Zeit, und schlug ein Lager auf. Er konnte nicht stehen bleiben, floh und ging fort. Das Volk, am Altai-Gebirge, in die Enge getrieben, Jamuqa und die J̌adaran, die Salǰi'ut, die Taiči'ut usw., dort ergaben sie sich. (In der Yuanshi heißt es nach der Rede des Qori Sübeči: „Der Sonnenkhan wurde zornig, sprang auf sein Pferd und suchte den Kampf. Der Kaiser ließ Qasar die Mitte befehligen. Zu der Zeit war Jamuqa mit dem Sonnenkhan gekommen, sah die Ordnung des kaiserlichen Heeres, sprach zu seinen Leuten usw., führte dann seine Truppen weg und floh. An diesem Tag kämpfte der Kaiser eine große Schlacht mit den Naiman, bis zum Abend wurde der Sonnenkhan gefangen und getötet. Alle Stämme brachen gleichzeitig zusammen, flohen in der Nacht über gefährliches Gelände, und die Zahl derer, die von den Klippen stürzten und starben, war unermesslich. Am nächsten Tag ergab sich der Rest. Daraufhin ergaben sich auch die Stämme Dörben, Tatar, Qadaqin und Salǰi'ut.“ Dies basiert auf der Taizu Shilu und dem Qinyilu, dem Shengwu Kaitian Ji, mit Ausschmückungen; der Text ist sehr elegant, aber die Tatsachen weichen etwas von der ursprünglichen Geheimen Geschichte ab. Auch die Namen der sich ergebenden Stämme sind fehlerhaft. Da die verschiedenen Tatar-Stämme bereits früher vernichtet worden waren, ist es wahrscheinlich, dass sie nicht zu diesen gehörten.)
+
+Die Mutter, Dschingis Khan, ließ kommen: „Du, der Atem, du sprichst, wie jetzt, du?“ Dschingis Khan stand im Herbst der Ratte am Ursprung des Flusses Der'e (Berezin: „Tar-Fluss“) Toqto'a Beki (im Qinyilu und in der Yuanshi: „Tötö“) gegenüber, bewegte ihn und erbeutete seine Habe. (Diese Sa'ari-Ebene scheint sich von der alten Residenz der Mongolen zu unterscheiden. In der nördlichen Steppe gibt es sehr viele gleichnamige Orte. Im Qinyilu heißt es: „Am Ursprung des Flusses Der'e, am Ort Bula Na'ai Hu.“) Qudu, die Söhne, und die Menschen, damit ging er hinaus. So das Volk, zu der Zeit,
+
+Da'ir Usun (im Qinyilu und in der Yuanshi: ...) brachte seine Tochter zu Dschingis Khan. Auf dem Weg wurde er behindert. Naya Noyan (im fünften Buch: Naya'a von den Ničügüd Ba'arin) sprach: „Da'ir Usun will seine Tochter zeigen, ich ...“ Naya Noyan sprach: „Du, unsere, wir werden sie zeigen“ und hielt Da'ir Usun zurück: „Allein auf dem Weg, du wirst verwirrt, du wirst verletzt werden.“ Drei Tage hielt er ihn zurück. Von dort führte Naya Noyan sie gemeinsam und brachte sie hin. Darauf fragte er Naya streng: „Wie hast du dich verhalten?“ und fragte weiter: „Qulan Qatun, Naya'a, ich bin des Dschingis Khan. Gemeinsam wollte ich die Tochter zeigen. Die Krieger drängten. Von Naya'a aus zu den Kriegern, in Unordnung, wenn ich Naya treffe, auch weiß Naya'a, unsere, jetzt frage ich.“ Der Khan sprach: „Wenn der Himmelsgott die Haut von Vater und Mutter gibt ...“ Naya'a sprach zu der Zeit: „Außen, das Gesicht, gibt es nicht. Die Wange, die Schönheit, die Gemahlin, das Gesäßgelenk, das Gute, wenn er es antrifft, ‚auch das‘, war ich da? Wenn ich ein Herz hätte, ich ...“ Dschingis Khan prüfte die Aussage am Tag, und da Qulan Qatun nicht abwich, liebte er Qulan Qatun. Die Worte, Dschingis Khan sprach: „Ein wahrer Mensch!“ und sprach: „Ich werde die große Verantwortung übertragen“ und tat es.
+
+Ende des siebten Buches der Aufzeichnungen des Dschingis Khan.
+
+# Achtes Buch {#gruppe-volume-8}
+
+## Achtes Kapitel {#kapitel-008 .chapter-heading .centered}
+
+**Kapitel Acht**
+
+[208]
+
+Als die Merkiten die Mädchen geraubt hatten und die Fürstinnen Döregene, Döregene (in der Geschichte der Yuan-Dynastie die sechste Kaiserin, posthum Ögedei Khan [des sechsten Kapitels] genannt), der Merkiten-Stamm am Berg Taichal Görka (auf Deutsch: Berggipfelbefestigung, wörtlich: Taichal-Bergfestung; in der Aufzeichnung der persönlichen Feldzüge: Tai'an-Befestigung; in der Geschichte der Yuan-Dynastie: Taihan-Befestigung) – da sandte Dschingis Khan den Schigi Qutuqu und den Tschimbai (in der Aufzeichnung der persönlichen Feldzüge: Tschila'un Baatars jüngerer Bruder Tschambai) zur linken Befestigung gegen die Merkiten aus.
+
+Qudu und seine Söhne wandten sich mit wenigen ab. Dschingis Khan hielt Winterrast am Altai-Gebirge. Als der Frühling kam, überschritten sie es. Die geringen Reste der Merkiten, die sich von den Naiman-Stämmen abgewandt hatten – zwei Männer der Merkiten trafen sich am Irtysch-Fluss, am Buchdorma-Fluss, ordneten sich und stellten sich Dschingis Khan zur Schlacht. Da wurden sie von fliegenden Pfeilen niedergestreckt. Die Söhne nahmen die Leichen und zogen sich zurück, nachdem sie sie abgeschnitten hatten. Dort trafen sich die Merkiten, konnten aber nichts ausrichten. Zur Zeit der Überquerung des Irtysch-Flusses ließen sie viele sterben. Die ausgezogenen Merkiten zogen weiter, überquerten den Fluss, trennten sich und gingen über das Land der Uiguren (die Uiguren: im dritten Kapitel als Uighut oder Uigut bezeichnet; in der Aufzeichnung der persönlichen Feldzüge und der Geschichte der Yuan-Dynastie: Uighur; Nachkommen der Tang-zeitlichen Huihu; ihre Hauptstadt war Bischbaliq, an der Stelle des Tang-zeitlichen Beiting-Schutzgebiets, etwas nördlich des heutigen Jimsa; ihr Gebiet erstreckte sich beiderseits des Tian-Shan-Gebirges; vom Quellgebiet des Buchtarma-Flusses aus in das Land der Uiguren zu gelangen, bedeutete, nicht den Fluss hinab nach Westen zu gehen, sondern den Qaraqaba-Fluss hinab nach Süden, den Qara Irtysch zu überqueren und weiter nach Süden vorzudringen, bis man die Westgrenze der Uiguren erreichte). Sie zogen weiter in das Land, wo der Gür Khan (die Qarluq: in der Aufzeichnung der persönlichen Feldzüge und den Annalen der Geschichte der Yuan-Dynastie: Qarluq; in den Geographischen Aufzeichnungen: Ke'erlu; also die Tang-zeitlichen Gelolu; ihr Reich lag nordwestlich des heutigen Yili; Näheres wird im elften Kapitel gesagt werden.) weilte.
+
+Die Merkiten unter Toqto'a, Qudu und Tschila'un (Qudu und Tschila'un wurden bereits erwähnt. Qudu erscheint in der Biographie des Sübe'etei als Qodu und in der Biographie des Tutuha als Qodu. Qat erscheint im Folgenden als Qal. In der Biographie des Barchu Artigin in der Geschichte der Yuan-Dynastie heißt es: "Die vier Söhne des Toqto'a: Qodu, Tschila'un, Matschar, Tüsegen"; ein Name ähnlich Qat oder Qal kommt nicht vor. Die Zusammenstellung nach Art der Geschichte der Yuan-Dynastie, die die Aufzeichnung der persönlichen Feldzüge zitiert und die Namen der vier Söhne des Toqto'a aufführt, stimmt mit der Biographie des Barchu überein; aber die heutige Aufzeichnung der persönlichen Feldzüge nennt nur "die vier Söhne des Toqto'a" ohne ihre Namen. In Hong Jun's Übersetzung von Berezin heißen sie: Qudu, Tschila'un, Tschiyük, Qutuqan Mergen. D'Osson schreibt Qutuqan als Qutuqan. Bret schnider zitiert Berezin und führt die Namen der sechs Söhne des Toqta auf, wobei er Qutuqan als Qultuqan schreibt. Qat mag eine Verkürzung von Qutuqan oder Qutuqan sein; das folgende Qal ist vielleicht ein Schreibfehler; oder Qal ist eine Verkürzung von Qultuqan und das Qat hier ein Schreibfehler.) gingen zu den Kiptschaken (Der Name Kiptschak erscheint oft in der Geschichte der Yuan-Dynastie. Die Kangli waren Nachkommen der Han-zeitlichen Kangju; sie wurden auch Kangkeri oder Kangheli genannt; sie waren ein Volk, das nördlich des Aralsees, im Gebiet der heutigen Kirgisischen Steppe, lebte. Die Kiptschaken, unten auch korrekt als Qipčaq bezeichnet, waren die westlichen Nachbarn der Kangli und ein Volk, das sich im Süden des heutigen Russlands, beiderseits der Wolga, ausgebreitet hatte.) und zogen weiter. Von dort kehrten sie um, überschritten [das Gebirge] und ließen sich nieder. Sie bedrängten die, die sich auf den Gipfeln verschanzt hatten.
+
+Da ließ Dschingis Khan sie töten (was bedeutet, er ließ sie alle niedermachen) und die Übrigen gefangen nehmen. Zuvor hatten die Merkiten gemeutert. Zu unserem alten Lager hin, wo Dschingis Khan sie versammelt hatte, sprach er: "Nur um die Merkiten völlig zu vernichten, sandte ich Sübe'etei mit Wagen, die mit Rindern bespannt waren (die Aufzeichnung der persönlichen Feldzüge sagt: 'mit Eisen beschlagene Räder'; Hong Jun übersetzt: 'Eisennägel wurden dicht auf die Räder geschlagen, damit sie auf Bergwegen nicht so leicht brachen'). Er sandte Sübe'etei aus gegen Qudu und die Söhne des Tschila'un. Dschingis Khan erließ einen Befehl an Sübe'etei: 'Sie sind entkommen, die Qal des Toqto'a, die Scharen des Oron. Sie sind erschrocken, sie sind zurückgekehrt, sie versammeln sich, sie schießen mit Pfeilen, sie sind entkommen mit der Wurfschlinge für wilde Pferde. Wenn sie Flügel bekommen und in den Himmel fliegen, wirst du sie dann nicht als Falken fangen? Wenn sie Krallen bekommen und in die Erde kriechen, wirst du sie dann nicht mit der Hacke suchen und ausgraben? Wenn sie in den Tenggis-See eindringen, wirst du sie dann nicht wie ein Schleppnetz einfangen? (He Qiutao fasst in seinem "Beifang Beicheng" die klare Übersetzung dieses Abschnitts in äußerst knappe klassische Prosa:
+
+> "Meine tiefe Feindschaft ist wie ein Gürtel, wie eine Last auf dem Rücken. Wenn sie wie Vögel fliegen, mache dich zu einem Loch; wenn sie im Meer sind, mache dich zu einem Eisenwagen."
+
+) Über hohe Pässe, über Flüsse sandte ich dich. Denke an die Erde. Schone die Pferde. Wenn du sie nicht vollständig vernichtet hast, solange die Wallache noch nicht erschöpft sind, ist es nicht vollbracht. Wenn du sie vernichtet hast, selbst wenn du es bedauerst, lass das Raubtier deines Heeres, das wie ein Raubtier dahinzieht, nicht laufen. Mache die Nahrung des Heeres nicht zum Gegenstand der Schonung. Binde die Pferde an, soweit die Trense reicht. Wenn du sie nicht festmachst und nicht schließt, sondern sie nach eigenem Gutdünken laufen lässt, wie können die Menschen dann bestimmt werden, um die Ordnung zu fassen? Die, welche wir verfolgen und einholen, sollen nur dort getötet werden. Jenseits davon, gemäß dem Gesetz, das die Berge trennt, sollt ihr [es regeln]. Werdet nicht von der Kraft des ewigen Himmels unterstützt. Wenn du die Söhne hineinbringst, was wird dann sein? Wirf sie dort fort!" So sprach Dschingis Khan zu Sübe'etei: "Ich habe dich zu der Zeit, als die Merkiten mich um den Burqan Qaldun kreisen ließen, gesandt. Ein solches Volk, das entkommen ist ... 'Vereinige dich wieder!' (die klare Übersetzung sagt: 'Ich will, dass du sie bis zum Äußersten verfolgst')" und so ließ er die Wagen mit Rindern bespannen und zu einem Feldzug ausrücken. "Wenn du an dem Ort bist, der wie ein Rücken ist, und wenn du denkst, dass der obere Schutz gewährt wird, wirst du [dann] beschützt werden!" So lautete der Befehl. (Dieser Befehl bezüglich des eisernen Wagens sollte eigentlich im zehnten Kapitel niedergeschrieben werden, wo Sübe'etei die Merkiten bedrängt. Sowohl die Aufzeichnung der persönlichen Feldzüge als auch die Geschichte des Raschid ad-Din setzen den Feldzug des Sübe'etei mit dem eisernen Wagen in das Jahr Dingchou, zwölf Jahre nach diesem Jahr. Der Feldzug des Sübe'etei im zehnten Kapitel, auch wenn das Jahr nicht angegeben ist, dürfte dieser Dingchou-Feldzug sein. Die Mongolen verwendeten beim Zählen der Jahre nur die Symbole der zwölf Erdzweige, nicht die zehn Himmelsstämme; daher waren Jahresirrtümer leicht möglich. Der Verfasser der Geheimen Geschichte erinnerte sich an diesen Befehl im Jahr des Ochsen und setzte ihn zufällig irrig in das Jahr des Ochsen zwölf Jahre zuvor, also in das Jahr Yichou, das Jahr vor der Thronbesteigung des Kaisers Taizu.)
+
+...
+(Es folgt der japanische Anmerkungsapparat, der hier ausgelassen wird, da die Anweisung lautet, nur den fortlaufenden Text zu übersetzen. Der tatsächliche Fließtext setzt sich wie folgt fort:)
+
+Da Dschamucha, nachdem die Naiman in die Enge getrieben worden waren, ergriffen wurde, wurde er zusammen mit fünf Räubern auf dem Tanglu-Gebirge (dem heutigen Tangnu-Gebirge, nordöstlich des Altai) getötet und verspeist? Dschamucha sprach: "Kinder, haben diesen Wildschafbock gegessen?" Während sie den Wildschafbock verzehrten, ergriffen ihn die Diener und brachten ihn an den Ort. Von den Dienern bedrängt, sprach Dschamucha zu Dschingis Khan: "Der schwarze Rabe, der schwarze Vogel, der Untergebene hegt Groll gegen mich, den großen Herrn. Der gemeine Knecht wird mich, den weisen Herrn, in Gefahr bringen." So sprach Dschingis Khan: "Wie kann ein Mensch einen Menschen, der einen an den rechten Herrn ausgeliefert hat, zum Gefährten machen? Befiehl den Stamm, der ihn hergebracht hat, zu töten!" So befahl er, den zu töten, der [Dschamucha] gefesselt hatte. Dschingis Khan sprach: "Jetzt wollen wir zwei Gefährten sein. Wenn wir uns vereinen, wollen wir uns nicht trennen. Wenn wir an einem Ort wohnen, vereint, getrennt nur durch das Glück, waren wir verbundene Freunde. Im Kampf haben wir Schmerz erlitten. Getrennt, sich gegenseitig tötend, die Lunge, das Herz – du. Was du damals bei der Schlacht von Qalaqaldit gegen den Ong Khan sagtest und mir mitteilen ließest, das war eine Wohltat. Was du mir sagtest, um mich mit den Worten der Naiman in Furcht zu versetzen, das war, als ich sagte: 'Einst, zur Zeit des Khans, aßen wir gemeinsam, sprachen wir gemeinsam, getrennt wohnend. Von Menschen aufgehetzt, hielten wir die wichtigen Worte nicht.' So hast du dem Khan das warme Gesicht nicht gehalten. Weil du ein rotes Gesicht bekommen hast, konnte ich dich, meinen Freund, nicht ansehen. Mein Freund hat zu mir gesprochen. Damals habe ich, mein Freund, [alles] geebnet. ... Wenn du, mein Freund, mir als Gefährte der ganzen Welt helfen würdest, würde ich im schwarzen Traum [sehen]. Ich, am Tage im Herzen ... würde wie ein Joch, wie ein Dorn im Kragen sein. Großzügig wie eine alte Frau ... war ich, von meinem Freund getrennt? Jetzt sind wir zwei Freunde ... von einem Tag zum anderen habe ich [dich] erreicht.
+
+Da ich klug geboren bin, habe ich jüngere Brüder. Mit Wallachen unter den Dienern habe ich den Sieg errungen. Da die Mutter, als ich jung war, und die jüngeren Brüder [mir] nahmen? Durch die Gnade gewähre, schnell meinen Freund zur Ruhe zu bringen. Wenn ich meinen Freund töten lasse, will ich nicht, dass er herausgeführt wird und stirbt. Ich will, dass mein hoher, langer Schatten deine Nachkommen beschützt und ihnen Glück bringt. [Mein Freund] ist von anderer Art. ... Durch die zeugende Macht ... Vergiss nicht, was du gesagt hast, erzähle es bald, mach schnell!" Darauf sprach Dschamucha: "Mein Freund, selbst als er ging, hörte er nicht auf mein Leben. Er war ein Mensch. [Obwohl er ein lernender Mensch war, lebt er nicht mehr. Um ihn zu töten, ohne Grund Schaden zuzufügen, das wäre nicht gut. Nach dem Prinzip muss er getötet werden.]" Er sprach: "Weil wir zwei, Schutschi Darma und ich, uns um die Frauen stritten, kam er direkt, kämpfte, trieb mich in die Enge und erschreckte mich nicht. Jetzt, wo du es sagst: Wenn du Mitleid hast, du ..." Daraufhin, wegen der Worte, sagte er: "Lass ihn nicht heraus, tue es nicht." Er ließ ihn verbluten, ließ seine Knochen nicht gut ruhen (die klare Übersetzung sagt: "gleich einer dicken Bestattung bestattet").
+
+(Es folgt der japanische Anmerkungsapparat zur Krönung, der hier ausgelassen wird. Der Fließtext fährt fort:)
+
+Nachdem er so die [Feinde] im Zeltrock niedergeworfen hatte, im Jahr (dem Jahr unserer [japanischen] Kaiser Tsuchimikado, Ken'ei 1, Bingyin; des Song-Kaisers Ningzong, Kaixi 2; der Jin-Dynastie, Taihe 6; Westlich 1206; im 45. Lebensjahr des Kaisers Taizu),
+
+richtete er die neun weißen Standarten auf (die Aufzeichnung der persönlichen Feldzüge und die Geschichte der Yuan-Dynastie sagen alle 'neun Schwänze der weißen Fahne'; auch in Hong Juns Neuübersetzung von Raschid ad-Din heißt es 'neuneckige weiße Fahne', aber Hong Jun widerruft dies: 'Neun weiße Pferdeschweife wurden als Fahnenzierde genommen, nicht als Fahne.' Mit 'Ecken' sind die herabhängenden weißen Rossschweife gemeint, nicht die Fahnenenden. Die Mongolische Quelle spricht von den neun Urluq, d.h. neun Helden, die die Führer der neun Leibgarde-Einheiten bezeichnen. Howorth sagt danach: 'Man errichtete eine große Fahne, neun weiße Rossschweife wurden daran befestigt, um die neun Urluq darzustellen.' Da der Titel der neun Urluq aber in anderen Büchern nicht vorkommt, ist es schwer zu glauben. Abu l-Ghazi sagt in seinem Buch: 'Die Mongolen ehren die Zahl Neun, daher verwenden sie auch bei Geschenken die Neun. Diese Sitte stammt von den Türken.' Demnach wurde die Zahl Neun der weißen Rossschweife wohl nur wegen der Glückszahl verwendet.) und ließ sich zum Khan erheben. (Hiermit bestieg Dschingis Khan zum zweiten Mal den Thron als Qa'an. Die Geschichte der Yuan-Dynastie, die Annalen des Kaisers Taizu: 'Im ersten Jahr Bingyin hielt der Kaiser eine große Versammlung aller Prinzen und Minister ab. Er errichtete die neunschwänzige weiße Fahne. Er bestieg den Kaiserthron an der Quelle des Onon-Flusses. Alle Prinzen und Minister brachten ihm gemeinsam den Ehrennamen Dschingis Kaiser dar.' Qian Daxins Nachwort zur Geheimen Geschichte sagt: 'Als der Kaiser Taizu jung war, waren seine Machtverhältnisse sehr schwach. Er verließ sich auf die beiden Männer Ong Khan und Dschamucha, die ihm Gefolgschaft verliehen; so wuchsen ihm allmählich die Flügel. Daher der Beginn der Titel. Die Aufzeichnungen sagen nur: "Im Jahr Bingyin brachten die Minister den Ehrennamen Dschingis Kaiser dar"; sie wissen nicht, dass der Titel Dschingis Khan schon lange bestand. Später, als er Gesandte schickte, um Altan, Qutcha und andere zu tadeln, sagte er: "Als unser Reich früher keinen Herrn hatte, da habt ihr mich zu eurem Herrn erhoben." Das bezieht sich genau darauf. Erst nannte man mich Qa'an, den Herrn eines Teils. Später nannte man mich Kaiser, den Herrn vieler Teile. Kann man den Schritt der Qa'an-Ernennung einfach übergehen und nicht aufzeichnen?" Dies ist in der Tat eine scharfsinnige Beobachtung. Aber Qian unterscheidet die Titel vorher und nachher in Qa'an und Kaiser. Die Thronbesteigung im Jahr Bingyin war nicht die, wo er sich Kaiser nannte; sie war wie zuvor die zum Qa'an. Nicht nur die Aufzeichnung der persönlichen Feldzüge und die Geschichte der Yuan-Dynastie, sondern auch die Aufzeichnungen von Song-Gelehrten schreiben "Dschingis Kaiser". Dies basiert auf der Übersetzung chinesischer Beamter, die den Mongolen dienten; die Mongolen selbst nannten ihn nicht so. Der Unterschied zwischen dem früheren und dem späteren Qa'an ist, dass er zuerst Herr des mongolischen Stammes wurde, jetzt Herr der ganzen Welt, d.h. der wahre Qamugh Qa'an. Es ist nicht ungewöhnlich, dass ein Reichsgründer die Zeremonie der Thronbesteigung zweimal durchführt. Unter den Helden der Jin-Dynastie gab es sehr viele, die zuerst den Thron als Himmelskönig und später als Kaiser bestiegen. Kaiser Daowu der Späteren Wei nannte sich zuerst Wei-König, gründete die Ära Dengguo, und wurde später Kaiser. Kaiser Taizu der Liao erbte zuerst den Titel des Qaghan der Khitan, wurde dann Himmelskaiser und gründete die Ära Shence. Kaiser Taizu der Qing bestieg zuerst den Thron des Jin-Reichs-Khans, gründete die Ära Tianming; Taizong erbte den Thron, änderte die Ära in Tiancong, und wurde später Kaiser des Großen Qing-Reichs, änderte die Ära in Chongde. In allen diesen Fällen wurden sie zuerst Herr eines kleinen Reiches, später Herr eines großen Reiches. Die zweite Thronbesteigung Dschingis Khans ist derselben Art. Auch wenn er sich bei der ersten Thronbesteigung Qa'an nannte, so zahlte er doch Tribut an die Jin-Dynastie, war stolz auf den Jin-Titel und erkannte sich selbst als Herrn eines kleinen Reiches. Erst bei der zweiten Thronbesteigung betrachtete er sich als Herr der ganzen Welt. Daher ist es völlig richtig, dass die Geschichte der Yuan-Dynastie dieses Bingyin-Jahr als das erste Jahr des Kaisers Taizu festsetzt. Aber die Einführung einer Ärabezeichnung war den Mongolen unbekannt. Auch nach diesem Bingyin-Jahr verwendeten die Geheime Geschichte und die Geschichte des Raschid ad-Din die Symbole der zwölf Erdzweige; die Aufzeichnung der persönlichen Feldzüge verwendet die Zehn Himmelsstämme, ohne von einem ersten oder zweiten Jahr zu sprechen. Die "Skizze der Schwarzen Tataren" sagt: 'Für den Jahresanfang verwendeten sie früher die Symbole der zwölf Erdzweige; jetzt verwenden sie den sechsfachen Satz der Himmelsstämme, beides lehrten sie die Chinesen, Khitan und Jurchen. Was die ursprünglichen Bräuche der Tataren betrifft, so wussten sie anfangs nichts davon. Sie zählten nur das Grünen des Grases als ein Jahr, den Neumond als einen Monat. Fragte man sie nach ihrem Lebensalter, zählten sie an den Fingern rückwärts, wie oft das Gras grün geworden war.' Als Peng Daya dieses Buch verfasste, war es zur Zeit des Kaisers Taizong; wenn seine Worte noch so waren, kann man wissen, dass es zur Zeit des Kaisers Taizu keine Ärabezeichnung gab. Die Benennung dieses Jahres als erstes Jahr des Kaisers Taizu muss eine spätere Festsetzung gewesen sein, wahrscheinlich zur Zeit des Kaisers Shizu.
+
+Auch die Mongolische Quelle sagt: 'Im Jahr Wuxu war Temüdschin 17 Jahre alt, Börte 13 Jahre; sie heirateten. Als Temüdschin 28 Jahre alt war, im Jahr Jiyou, bestieg er den Thron im nördlichen Vorort des Kerulen-Flusses und nannte sich Sutu Bogda Dschingis Khan.' Bezüglich des Jahres der Heirat mit Börte und des Jahres der ersten Thronbesteigung gibt es außer der Mongolischen Quelle keine andere Grundlage. Dass Börte 13 Jahre alt war, widerspricht der Geheimen Geschichte, die sagt: 'Sie war ein Jahr älter als Temüdschin', aber die erste Heirat Temüdschins mit 17 Jahren ist für die Sitte der frühen Heirat bei den Mongolen wahrscheinlich Tatsache. Der nördliche Vorort des Kerulen-Flusses bezieht sich auf das alte Lager am Fluss Senggür vor dem Berg Burqan; diese Thronbesteigung ist die erste, und es ist klar, dass es sich nicht um die große Versammlung an der Quelle des Onon handelt. Die Erzählung der Mongolischen Quelle ist reich an absurden Behauptungen, und ihre Jahresangaben sind oft fehlerhaft, aber diese beiden Tatsachen reichen glücklicherweise aus, um die Lücken der Geheimen Geschichte zu füllen. Dass Hong Jun sagt: "Die Mongolische Quelle ist ohnehin Kauderwelsch, die Geheime Geschichte ist auch dummes Zeug" – was für eine maßlose Rede!)
+
+Und den Staatswang? Wieder sandte er Dschebe gegen den Gutschelüg Khan. Wieder setzte Dschingis Khan die Tausende des mongolischen Reiches fest. Er ernannte die Tausend-Herrscher und erließ einen Befehl. Die Tausend-Herrscher, die er zu Beamten ernannte, waren:
+
+Boorchu (vom Stamm der Arulad, Sohn des Naqu Bayan, einer der vier Helden, erscheint seit dem zweiten Kapitel. In der Geschichte der Yuan-Dynastie, seiner Biographie: Boorchu, vom Stamme Arla, Sohn des Naqu Arlan; in der Mongolischen Quelle: Alratin Bogurdschi Noyan.)
+
+Qorchi (d.h. Qorchi Usun Ebügen, vom Stamme der Baarid, erscheint seit dem dritten Kapitel.)
+
+Jürchedei (vom Stamme der Urud, erscheint seit dem vierten Kapitel, beteiligt am Schwur des trüben Wassers. In der Geschichte der Yuan-Dynastie, seiner Biographie: Jüchtai, vom Stamme der Urud.)
+
+Qubilai (vom Stamme der Barulas, einer der vier Hunde, erscheint seit dem dritten Kapitel. In der Aufzeichnung der persönlichen Feldzüge und den Annalen des Kaisers Taizu der Geschichte der Yuan-Dynastie: Qubilai.)
+
+Tüge (d.h. Tünge, vom Stamme der Dschalair, Enkel des Teregetü Bayan, Sohn des Tschila'un Qaichi, Vetter des Muqali, erscheint im vierten Kapitel.)
+
+Tolon (d.h. Tolun Cherbi, vom Stamme der Qongqotan, Sohn des Mönglig Etschi, erscheint im siebten Kapitel. In der Geschichte der Yuan-Dynastie, in der Biographie der Loyalen: Baba, dessen Vater Tolun Charbi, vom Stamme der Qongqotan, Sohn des Mingli Yetschi.)
+
+Chülgetei (d.h. Tschilgütei, vom Stamme der Suldus, erscheint im dritten Kapitel.)
+
+Schigi Qutuqu (d.h. Schigikan Quduqu, ein Tataren-Mann, Adoptivsohn der Kaiserin Witwe Xuan Yi, erscheint seit dem vierten Kapitel. In der Aufzeichnung der persönlichen Feldzüge: Quduqu Noyan; in der Mongolischen Quelle: Tatarin Schigi Qutuq.)
+
+Kökötschu (vom Stamme der Besüt. Adoptivsohn der Kaiserin Witwe Xuan Yi, erscheint seit dem dritten Kapitel.)
+
+Qusun (In der Geschichte der Yuan-Dynastie, in den Biographien: Qasan Na, vom Stamme der Kerait; es gibt einen Mann, der am Schwur des trüben Wassers teilnahm; sein Text wurde in der Anmerkung zum sechsten Kapitel zitiert. Qusun verwandelte sich in Qasan und schließlich in Qasana.)
+
+Schiruqai (In der Geschichte der Yuan-Dynastie, in der Biographie des Mali: 'Mali, vom Stamme Tschigüt. Sein Großvater, der Noyan Schüliken, folgte dem Kaiser Taizu, kämpfte gegen Wang Khan, trank gemeinsam das Wasser des Banschen-Flusses, und wurde wegen seiner Verdienste zum Tausend-Herrscher ernannt.' Dieser Schüliken ist wahrscheinlich die Umwandlung von Schiruqai.)
+
+Taqai (d.h. Taqi. Vom Stamme der Suldus, jüngerer Bruder des Tschilgütei, erscheint seit dem dritten Kapitel. In der Geschichte der Yuan-Dynastie, in der Biographie des Ataqai: 'Ataqai, Mann aus Suldus. Sein Großvater Taqai Ba'atur war tapfer und gut im Kampf. Er folgte einst dem Kaiser Taizu, trank gemeinsam das Wasser des Schwarzen Flusses, und wurde wegen seiner Verdienste zum Tausend-Herrscher ernannt.')
+
+Alaq (vom Stamme der Nitschu'ud Baarid, Sohn des Schirgü'etu Ebügen, erscheint im fünften Kapitel. In der Geschichte der Yuan-Dynastie, in der Biographie des Bayan: 'Bayan, Mann aus dem Stamm der Baren. Sein Urgroßvater Sülügetü diente dem Kaiser Taizu und war linker Tausend-Herrscher des Stammes Baren. Sein Großvater Ala folgte dem Amt seines Vaters und war gleichzeitig Richter.')
+
+Burqan (In der Geschichte der Yuan-Dynastie, in der Biographie des Qulinschi: 'Qulinschi, vom Stamme der Baruladai. Sein Urgroßvater Burqan Qancha diente dem Kaiser Taizu, folgte ihm bei der Befriedung aller Länder, und diente als Tausend-Herrscher der Barulas.' Qancha scheint eine Art Titel zu sein. Seine Bedeutung ist nicht zu ermitteln.)
+
+Kököschüs (d.h. Kököschüs, vom Stamme der Baarid, erscheint im dritten Kapitel, im zehnten Kapitel auch als Kökschüs.)
+
+Nayaa (d.h. Nayaa, vom Stamme der Nitschu'ud Baarid, Sohn des Schirgü'etu Ebügen, jüngerer Bruder des Alaq, erscheint im fünften Kapitel.)
+
+Gütschügür (d.h. Qütschügür, vom Stamme der Besüt, jüngerer Bruder des Degäi, erscheint im dritten Kapitel. Gemäß dem Befehl im neunten Kapitel bildeten Gütschügür und Mulqalqu von den Dschadaran zusammen einen Tausend-Herrscher.)
+
+Dair (Dair Usun von den Uwa's Merkiten, erscheint seit dem zweiten Kapitel. Da Qorchi Usun auch nur Qorchi genannt wird, wird Dair Usun wohl auch nur Dair genannt. Obwohl er zunächst Feind war, brachte er seine Tochter Qulan Qatun dar und wurde begünstigt, daher kam er wohl als Angehöriger der kaiserlichen Verschwägerung in die Liste der verdienten Würdenträger. Die Aufzeichnung der persönlichen Feldzüge sagt, dass der Stammesführer der Uwa's Merkiten, Dair Usun, sich bereits unterworfen hatte, dann wieder rebellierte und von Tschimbai und anderen befriedet wurde. Die Geheime Geschichte erwähnt einen Abfall Dairs nicht; der Abfall betraf andere Merkiten-Stämme. Auch in Raschid ad-Dins Stammeskunde gibt es einen Dair von den Kereit, aber dieser Dair ist ein anderer.)
+
+Bütschir (In der Geschichte der Yuan-Dynastie als Bütschi'er geschrieben, mit einer kurzen Biographie. Er war vom mongolischen Stamm Togto'tai, Sohn des Nü'erji Ba'atur; Vater und Sohn dienten dem Kaiser Taizu. Togto'tai war wohl auch ein Tataren. In den Annalen des Kaisers Xianzong, zu Beginn der Regierung des Kaisers Xianzong: 'Man ernannte Yalawachi, Bütschir und andere zu Leitern des Sekretariats in Yanjing und anderen Orten.' Dieser Bütschir ist dieser Mann; seine Biographie sagt: 'Kaiser Xianzong ernannte Bütschi'er zum Yeke Jarquchi von Dadu und allen Straßen des Reiches und ließ ihn Banknoten drucken.' Dadu ist Yanjing, Jarquchi ist der Richter. In den Annalen des Kaisers Shizu: 'Kaiser Xianzong befahl dem Richter Yalawachi und Bütschir, die Finanzen des Reiches in Yanjing zu verwalten.' Es wird aufgezeichnet, dass Kaiser Shizu die ungerechten Strafen von Bütschir und anderen tadelte. In den Biographien von Xili Qianbu, Buluhaiya und Yünehe wird er alle als Botschi'er geschrieben.)
+
+Dolo'adai (nicht außerhalb zu finden.)
+
+Qudus (vom Stamme der Barulas, jüngerer Bruder des Qubilai, erscheint im dritten Kapitel, im siebten Kapitel als Qudus Qaltscha.)
+
+Jebke (vom Stamme der Dschalair, Sohn des Teregetü Bayan, jüngerer Bruder des Gü'ün U'a, erscheint im vierten Kapitel, auch im zehnten Kapitel. Das vierte Kapitel sagt: 'Man gab Jebke dem Qasar.' Die Aufzeichnung der persönlichen Feldzüge sagt, dass vor der Versammlung am Qan-Fluss Qasar auf den Rat seines Untergebenen Jebuke hin das Stammesgebiet der Qonggirad plünderte und vom Kaiser Taizu streng getadelt wurde.)
+
+Kökö (In der Geschichte der Yuan-Dynastie gibt es eine Biographie des Kökö, der sich von den Merkiten unterwarf. Da er aber zur Zeit des Kaisers Shizu starb und nur 40 Jahre alt wurde, ist dieser Kökö nicht gemeint. Es ist auch nicht Kökö Buqa, bei dem Buqa weggelassen wurde. Die Geschichte der Yuan-Dynastie sagt: 'Kökö Buqa war vom Stamm der Altan Togto'tai; er war ein hochgewachsener, kräftiger Mann und bekannt für seine gute Treffsicherheit. Er diente den Kaisern Taizu und Taizong, hatte viele Kriegsverdienste, und seine Abneigung gegen das Töten war unter Tataren-ähnlichen Leuten selten.)
+
+Udutai (nicht außerhalb zu finden.)
+
+Kete (erscheint im zehnten Kapitel.)
+
+Möngke Qalja (vom Stamme der Mangud, Sohn des Quyuldar. In der Geschichte der Yuan-Dynastie, in der Biographie des Weida'er: 'Sein Sohn Möngke.' Qalja ist eine Art Titel; es ist das gleiche Qancha wie in Burqan Qancha aus der Biographie des Qulinschi in der Geschichte der Yuan-Dynastie. Möngke Qalja der Mangud aus der Aufzeichnung der persönlichen Feldzüge, der Möngke Qantscha aus den Annalen des Kaisers Taizong, und der Mölge Qartscha in Berezins Übersetzung sind alle abweichende Schreibungen von Möngke Qalja.)
+
+Kougi (Im zwölften Kapitel gibt es einen Beamten namens Dschanggi. Ist Kou ein Schreibfehler für Dschang?)
+
+Kischiliq (vom Stamme der Olqunu'ud, erscheint im ersten Kapitel zusammen mit Badai; ihre Tat steht im fünften Kapitel. In der Fortsetzung der Aufzeichnungen der Alten Ereignisse und der Biographie des Qara Qasun in der Geschichte der Yuan-Dynastie: Kischiliq; in der Westreise des Changchun: Kischili Darqan. Das Kischili in der Aufzeichnung der persönlichen Feldzüge und den Annalen der Geschichte der Yuan-Dynastie ist ein Fehler für Kischili.)
+
+Tscha'urqai (d.h. Tscha'urqan, vom Stamme der Uriyangqan, Sohn des Dschardschi'udai Ebügen, jüngerer Bruder des Dschelme, erscheint im dritten Kapitel, im sechsten Kapitel als Tscha'urqan, in der Aufzeichnung der persönlichen Feldzüge als Tscha'erhan; erscheint auch im zehnten Kapitel.)
+
+Toghon (Ist dies nicht der Sohn des Boroqul, eines der vier Helden? In der Geschichte der Yuan-Dynastie heißt es: 'Boroqul, vom Stamme der Huschin, diente dem Kaiser Taizu und war der erste Tausend-Herrscher. Er fiel im Kampf; sein Sohn Toghon erbte das Amt.' Dies scheint darauf hinzudeuten, dass Toghon erst nach dem Tod des Boroqul im Kampf Tausend-Herrscher wurde. Aber die Biographie des Boroqul ist eine der oberflächlichsten; daher ist nicht sicher, dass die Angabe 'Toghon erbte das Amt' richtig ist.)
+
+Megetü (Dies wird wohl der Mann aus dem zwölften Kapitel sein, der Mönggetü genannt wird. Der Mann in der Biographie des Bierkebuaq der Geschichte der Yuan-Dynastie: 'Sein Urgroßvater Manggietü folgte als Tausend-Herrscher dem Kaiser Xianzong auf seinem Süd-Feldzug und hatte Verdienste' – er scheint es auch zu sein, aber die Zeit stimmt nicht.)
+
+Moroqa (nicht außerhalb zu finden.)
+
+Iduqadai (im zehnten Kapitel als Iduqadai.)
+
+Da'un, Qa'uran (Auch diese drei sind außerhalb nicht zu sehen.)
+
+Tosaqa (Der Name des Sohnes des Senggün, Tusaqa, klingt ähnlich, aber dürfte nicht derselbe sein.)
+
+Tobqa (vom Stamme der Kerait, älterer Bruder des Schiraqul. Er erscheint in der oben zitierten Biographie des Yesen Buaq.)
+
+Tüideger (Auch das ist unbekannt.)
+
+Jeder (Im sechsten Kapitel, zu Anfang, erspähte der Pferdehirt Yadil die vorbeiziehende Armee des Wang Khan am Berg Ün; in der Aufzeichnung der persönlichen Feldzüge heißt er Yeder; der Name ähnelt sehr.)
+
+Kinggiyadai (vom Stamme der Olqunu'ud, erscheint im dritten Kapitel.)
+
+Quril (In der Schlacht am Onon-Fluss war er ein General der Taitschi'ud; in der Aufzeichnung der persönlichen Feldzüge: Qulin; in Raschid ad-Dins Geschichte: Quril Ba'atur; er floh nach der Niederlage zu den Naiman; der Name ist derselbe, aber es ist unwahrscheinlich, dass er zu den mongolischen verdienten Würdenträgern zählte. Der Qülien, der im ersten Jahr des Kaisers Xianzong zusammen mit dem früheren Alchi, d.h. Altschü, und anderen die Fürsten zur Rebellion verleitete und deshalb hingerichtet wurde, ist wohl dieser Quril.)
+
+Qadai Güregen (In der Geschichte der Yuan-Dynastie, in der Tabelle der Prinzessinnen, bei der Stelle der Prinzessin von Yan'an: 'Die Prinzessin Qolu heiratete den Schwiegersohn Qada.' Dies wird wohl dieser Qada sein. In der Aufzeichnung der persönlichen Feldzüge, beim Süd-Feldzug im Jahr Guiyou: 'Die zwei Generäle Qedai und Qadai belagerten Zhongdu.' Dieser Qedai ist Qedai von den Urud; Qadai ist dieser Qadai. Auch in diesem Buch, im zwölften Kapitel zur Zeit des Kaisers Taizong, wird Qadai zu den acht Beamten des Nachtwachendienstes hinzugefügt. Auch in d'Ossons Geschichte: Als Qüyük Khan (Kaiser Dingzong) krank war, wurden die Staatsgeschäfte den Ministern Dschingai und Qadaq anvertraut. Zu Beginn der Regierung des Möngke Khan (Kaiser Xianzong) planten die Prinzen eine Rebellion; als die Beteiligten hingerichtet wurden, wurden auch diese beiden Männer getötet. In den Annalen des Kaisers Xianzong gibt es unter den hingerichteten Ministern, die die Prinzen zur Rebellion verleiteten, einen Qada. Qada ist dasselbe wie Qada, d.h. Qadai. Die Prinzessin Qolu: In der Tabelle der Prinzessinnen wird nicht gesagt, wessen Tochter sie war. In der Abhandlung über Nahrungsmittel und Waren gibt es eine Prinzessin Da Lei. Qian Daxins Untersuchung der Unterschiede sagt: 'Da muss als Qolu gelesen werden, d.h. Qolu.')
+
+Alchi Güregen, Butu Güregen – die Tausend-Herrscher der fünf Stämme der Ongut (dieser Name erscheint seit dem sechsten Kapitel; jetzt wird er erstmals Güregen genannt. Die Geschichte der Yuan-Dynastie, seine Biographie sagt: 'Nachdem die Naiman besiegt waren, folgte er [dem Kaiser Taizu] bei der Eroberung Zentralchinas und diente erneut als Führer, der nach Süden über die Grenzmauer vorstieß. Kaiser Taizu ließ Ala'us Tegin Quri zurück, um seinen eigenen Stamm zu regieren. Er wurde von den ehemaligen Gegnern in seinem Stamm getötet. Sein ältester Sohn Buyan Schiban starb mit ihm. Seine Frau Ariq hi, die seinen jungen Sohn Buyaqal mitnahm, und sein Neffe Dschingüe flohen vor der Gefahr, flohen nachts zur Grenzmauer, riefen den Wächtern, ließen sich an der Mauer hochziehen, und versteckten sich dann im Gebiet von Yünzhong. Als Kaiser Taizu Yünzhong eingenommen hatte, suchte und fand er sie und beschenkte sie reichlich. Da sein Sohn Buyaqal noch jung war, belehnte er seinen Neffen Dschingüe als König von Beiping. Dschingüe starb; sein Sohn Negüdei erbte den Titel, heiratete die Prinzessin Dumugan, die Tochter des Rui Zong, eroberte das Gebiet südlich des Jangtse, und starb im Heer. Buyaqal folgte dem Kaiser von Kindheit an bei den Westfeldzügen, kehrte zurück, wurde König von Beiping und heiratete die Prinzessin Alaqai Beki. Die Prinzessin war klug und besaß Weisheit und Urteilskraft. Wenn der Kaiser auf Feldzügen auszog, ließ er sie oft zurück. Große Staats- und Heeresangelegenheiten wurden mit ihr beraten, bevor sie ausgeführt wurden. Dass der Kaiser bei seinen Feldzügen keine innere Sorge hatte, war größtenteils das Verdienst der Prinzessin.' Die Tabelle der Prinzessinnen, bei der Position der Prinzessin von Zhao: 'Die Großprinzessin von Zhao, Alaqai Beki, Tochter des Kaisers Taizu, heiratete den Prinzen Buyaqal von Zhao.' Die "Vorbereitenden Aufzeichnungen der Schwarzen Tataren" sagen jedoch: 'Die zweite Prinzessin heißt Ariq hi Baiyin; im Volksmund heißt sie Beiji-Frau. Sie war einst mit dem geflohenen Minister der Jin-Dynastie, Bai Sibu, verheiratet. Dieser starb; sie lebt als Witwe und regiert heute die Weißen Tataren. Sie liest täglich Sutras; es gibt mehrere tausend Frauen, die ihr dienen. Bei Feldzügen und Hinrichtungen entscheidet sie selbst.' d'Ossons Geschichte sagt: 'Dschingis Khan wollte seine dritte Tochter, Alaqai Beki, dem Ala'us Tegin Quri zur Frau geben. Dieser lehnte ab mit der Begründung, er sei zu alt, und bat, dass sie mit dem Sohn seines älteren Bruders, Dschingü, verheiratet werde. Alaqai heiratete Dschingü und gebar Negüdei. Negüdei heiratete eine Tochter des Tolui.'
+
+Hong Jun denkt: 'Nach Meng Gongs Worten war das, was die Geschichte der Yuan-Dynastie "zurückgelassen zu regieren" nennt, die Regierung des Ongut-Stammes, nicht des Hauptstammes des Kaisers Taizu. Dass Otchigin während des Westfeldzugs des Kaisers Taizu zurückblieb, können die Geheime Geschichte und die Westreise des Changchun belegen; es gibt kein Wort davon, dass Alaqai zurückblieb. Der Verfasser dieser Biographie hat es missverstanden. Die Geschichte sagt, dass Buyaqal von Kindheit an den Westfeldzügen folgte, zurückkehrte, belehnt und verheiratet wurde. Als Meng Gong aber zu den Mongolen gesandt wurde und die "Vorbereitenden Aufzeichnungen der Schwarzen Tataren" verfasste, war es im Jahr Xinsi, genau zu der Zeit, als der Kaiser Taizu im Westen war und Dschaladin verfolgte. Es kann nicht sein, dass er sofort sagt: "Die Prinzessin wurde Witwe, ihr Mann starb." Wenn ich nun die westlichen Bücher untersuche, ist Dschingü eine Verstümmelung von Dschingüe. Negüdei ist der Sohn des Dschingüe, Negüdei. Dass er die Tochter des Rui Zong heiratete, stimmt mit der Geschichte der Yuan-Dynastie überein. Nach wiederholtem Hin und Her muss die Prinzessin zuerst Dschingüe geheiratet haben. Als dieser starb, übernahm sie selbst die Leitung des Ongut-Stammes. Später kehrte der jüngere Vetter [von Dschingüe], Buyaqal, von den Westfeldzügen zurück und heiratete die Prinzessin erneut. Der Sohn des Dschingüe, Negüdei, stammte von der Prinzessin. Die drei Söhne des Buyaqal aber gebar die Prinzessin mit Nebenfrauen. Die westlichen Bücher sprechen nur von der ersten Zeit, die Geschichte der Yuan-Dynastie nur von der späteren Zeit. Die "Vorbereitenden Aufzeichnungen der Schwarzen Tataren" aber fallen genau in die Mitte. Die Mongolen scheuten sich nicht vor Wiederverheiratung; es ist nur folgerichtig.' So erklärt er geschickt die Unterschiede zwischen den drei Büchern. Die "Skizze der Schwarzen Tataren" listet die Namen der siebzehn Häuptlinge der Mongolen auf; in der ursprünglichen Anmerkung zu einem von ihnen, Bai Sima, heißt es: 'Ein anderer Name: Bai Sibu; ist der falsche Kronprinz der Weißen Tataren, Schwiegersohn des Temüdschin, der frühere Ehemann der falschen Prinzessin Araqan.' Hong Jun zitiert diesen Satz als sicheren Beweis für die Wiederverheiratung der Prinzessin und sagt: 'Bai Sibu ist gleich Bai Sibu, d.h. der Dschingüe der Geschichte. Warum es zwei Namen gibt, kann ich nicht ergründen.' Hong Jun sagt weiter: 'Die westlichen Bücher sagen, dass der Kaiser Taizu seine Tochter dem Ala'us Tegin Quri zur Frau geben wollte. Dieser lehnte mit der Begründung des Alters ab und bat um eine Verlobung mit dem Sohn seines älteren Bruders. Der ältere Bruder des Ala'us Tegin Quri war früher der Herrscher des Ongut-Stammes. Der Ongut-Stamm bewachte für die Jin-Dynastie die Grenzmauer der Großen Mauer. Der ältere Bruder starb, der jüngere folgte ihm; der Jin-Herrscher behandelte den Sohn seines älteren Bruders weiterhin mit Respekt. Das ist der Grund, warum die "Vorbereitenden Aufzeichnungen der Schwarzen Tataren" sagen: "der geflohene Minister der Jin-Dynastie". Die Bedeutung von Ongut ist "Grenzmauer". Es wird gesagt, es sei ein Khitan-Wort; es ist also ein Wort der Jin. Die Geschichte sagt, dass die Jin-Dynastie die Berge als Grenze abgrub und Ala'us Tegin Quri mit einer Armee den Engpass bewachte; das stimmt überein. Die westlichen Bücher berichten den Grund für den Tod des Ala'us Tegin Quri anders als die Geschichte der Yuan-Dynastie. Die Ausführungen sind lang und werden hier nicht wiedergegeben. Sie sagen auch, dass das Alter der Alaqai Beki zwischen dem von Ögedei und Tolui lag; sie war also die Schwester des Kaisers Taizong und die ältere Schwester des Tolui.)
+
+Hong Juns Ausführungen hierzu sind in ihrer Beweisführung äußerst genau und zuverlässig. Darauf gestützt erwäge ich weiter: Alahai Beki ist die Alaqa Beki aus Kapitel 10 der Geheimen Geschichte, die nicht nur zuvor [镇国] geheiratet hatte, sondern auch davor bereits Alaqush. D’Ohsson sagt, Alaqush habe sich von ihr getrennt; hätte er sich von ihr getrennt, dürfte sie nicht Güregen, also kaiserlicher Schwiegersohn, genannt werden. Dass in Kapitel 10 steht, Alaqa Beki sei den Ongut gegeben worden, bedeutet, dass sie Alaqush gegeben wurde. Dass in der Mengda Beilu Alihai Baiyin steht, ist eine Verballhornung von Alaqa Beki; folglich ist die Alihai, die in der Geschichte der Yuan als Gemahlin des Alaqushi genannt wird, eben diese Alihai, die wiederum Alaqa ist. Die Mongolen scheuen nicht nur die zweite und dritte Wiederverheiratung, sondern es ist auch bei den Xiongnu und Türken von Anfang an Brauch, dass, wenn der Vater stirbt, der Sohn die Stiefmutter zur Frau nimmt, und wenn der ältere Bruder stirbt, der jüngere dessen Witwe zur Frau nimmt; so ist es allgemein Sitte nördlich der Wüste. Boyaohe war vermutlich nicht von Alaqa geboren, sondern der Sohn einer früheren Gemahlin. Als Alaqush getötet wurde, war Boyaohe noch jung, deshalb heiratete Alaqa Zhenguo, den Neffen ihres Mannes, und nach Zhenguos Tod nahm sie Boyaohe, der wie ihr eigenes Kind war, zum Mann. In der Mongolischen Quellenkunde gibt es die seltsame Geschichte von der Witwe Mandugul Khans, Mandugai Sechen Khatun, die ihre Keuschheit bewahrte, keinen anderen Stamm heiratete, den Großkhan Dayan, den Ururenkel (Enkel des Neffen) ihres Mannes, aufzog und seine Khatun wurde. Wenn es ein Chinese wäre, würde man es als Verstoß gegen die Sitten bezeichnen; bei den Mongolen gilt es als so keusch und standhaft, dass Alaqas dreimalige Heirat nichts Ungewöhnliches ist. Als es jedoch Yan Fus Steleninschrift für den kaiserlichen Schwiegersohn, den Prinzen von Gaotang, Külüg Sir (den Urenkel des Alaqush), betrifft, kann er nicht direkt schreiben, dass die Urgroßmutter und die Großmutter dieselbe Person sind; er schreibt die Gemahlin des Alaqush als Urgroßmutter Alihai, die Gemahlin des Boyaohe als Großmutter, kaiserliche Urgroßtante Alahai Beki, und stellt sie als verschiedene Personen dar; er sagt nicht, aus welcher Familie Alihai stammt oder wessen Tochter sie ist, sondern verschleiert es nur. Die Biographie in der Geschichte der Yuan stützt sich vollständig auf diese Steleninschrift, daher wusste auch der Verfasser nicht, dass Alihai identisch mit Alahai ist.) Von den Tami-Leuten zu den tausend Haushalten der Mongolen, der neunundneunzig Beamten des Dschingis Khan, den Güreget (der Plural von Güregen, kaiserlicher Schwiegersohn) und [den Leuten] (da die Bedeutung dieses Satzes unklar ist, missverstanden die Übersetzer der Ming-Dynastie ihn dahingehend, dass es außer den Schwiegersöhnen fünfundneunzig verdiente Würdenträger gebe. Die Bedeutung dieses Satzes ist wohl, dass es die verdienten Würdenträger einschließlich der Schwiegersöhne sind, nicht dass die Schwiegersöhne zu den verdienten Würdenträgern hinzukommen.) Dschingis Khan sprach: „Die tausend Haushalte, die ich benannt habe, soll man innerhalb der tausend Haushalte den Würdigen geben“, und er erließ ein Dekret (dieser Satz befindet sich im Originaltext über dem „den Würdigen“. Vermutlich ist ein Fehler durch Abschreiben entstanden. Ich versetze ihn hier provisorisch, aber eigentlich ist der Satz auch ohne dies verständlich.) „Lasst die Würdenträger um Muqali kommen“, zu jener Zeit war er drinnen.
+
+„Geh!“, sprach er, und jener sprach: „Muqali, wer hat mehr Verdienste erworben? Wer hat mehr gegeben? Wenn man verleihen wollte, hat man wenig, wenig gegeben. Von der Zeit der Wiege an, bis das Kinn unter der hohen Schwelle wuchs, bin ich es. Seit ich [verwendet?] wurde, wuchs der Bart am Mund des goldenen Schwellenraums, bin ich es. Du hast mich aufwachsen lassen, so wie man liegen lässt, mich. Du hast mich, jüngeren Bruder, aufgezogen. Jetzt bitte ich um die Belohnung.“ Darauf sprach Dschingis Khan: „Du, jüngerer Bruder (der sechste Sohn der Kaiserin Xuanyi, der jüngste Bruder des Kaisers Taizu). Die Belohnung für den jüngeren Bruder ist nach dem Anteil geteilt, und auch die neunfachen Verdienste sind nicht durch Dekret verfügt. ‚Du, der du dem allmächtigen Gott dienst, werde Augen und Ohren, und gib den Stammesleuten, unseren Kindern, Namen, und gib den Stammesleuten, und lass die Stammesleute geben. Wenn du etwas falsch machst‘, und wieder sprach er: ‚Töte die allgegenwärtigen Diebe und Lügner, und gib den allgegenwärtigen Jarghu (den höchsten Richter, also den obersten Gerichtshof) für die Gerechten.‘“ (In der Heida Shilüe, in Xu Tings Ergänzungsbeweis: „Die Tataren haben ursprünglich keine Schriftzeichen usw. Ihre Sitten sind schlicht und ihr Herz ist konzentriert, daher weichen die Worte nicht ab. Ihr Gesetz: Wer lügt, stirbt, daher wagt niemand zu betrügen. Obwohl sie keine Schriftzeichen haben, können sie doch einen Staat gründen.“ Und auch: „Ting sah, dass eines ihrer Gesetze am besten war: Wer lügt, stirbt.“ Lüge bedeutet Betrug. Den, der den Jarghu verwaltet, nennt man Jarghuchi, auf Chinesisch übersetzt Duanguan (Richter). Shigi Qutuqu war der erste Duanguan. In Ma Zuchangs verfasster Steleninschrift für Yuehenai heißt es: „Zu Beginn der Himmelsgründung des Reiches wurde die gesamte Verwaltung der Staatsangelegenheiten von den Duanguan besorgt.“ Und im Yuan Shi, Abteilung Beamte 1: „Kaiser Taizu erhob sich aus dem Nordland, beherrschte seine Scharen, die Stämme lebten in der Wildnis, sie hatten keine Städtebauordnung, die Landessitten waren redlich, sie hatten nicht die Fülle der verschiedenen Angelegenheiten, sie verwendeten nur die Myriadenhaushalte zur Führung der Heere, und die Duanguan zur Verwaltung von Politik und Strafen; die Angestellten waren nicht mehr als ein oder zwei nahestehende und hochangesehene Würdenträger.“ Und in den Yuan Shi Jishi Benmo: „Zur Zeit des Taizu war die Einrichtung von Ämtern sehr einfach, und der Duanguan galt als das wichtigste Amt, rangierend über den drei Herzögen.“ Auch in der Abteilung Beamte 3: „Zu Beginn des Reiches gab es noch kein Beamtensystem, zuerst setzte man den Duanguan ein, genannt Jarghuchi, der die verschiedenen Angelegenheiten entschied. Alle Vergehen der Prinzen, kaiserlichen Schwiegersöhne, der Mongolen, der Farbigen usw., sowie alle öffentlichen Angelegenheiten der Chinesen, wie Ehebruch, Diebstahl, Betrug, Vergiftung, Schadenzauber, Verführung und Flucht, leichte und schwere Verbrecher, sowie die Grenzexpeditionen, die jährliche Begleitung der Beamten, die getrennte Verwaltung von Shangdu, die Überwinterung und andere Angelegenheiten, alles wurde von ihnen verwaltet.“ Dies ist eine zusammenfassende Darstellung ihrer Aufgaben, auch nach der Einbeziehung Chinas.) „Die allgegenwärtige Zuteilung, die Entscheidung der Angelegenheiten, das blaue Buch, das Buch, die Aufzeichnungen, bis zu den Nachkommen, soll gegen mich nicht argumentiert werden, das Buch, das Papier soll nicht geändert werden, es soll als Verbrechen gelten“, und [so sprach er] zu Shigi Qutuqu: „Wenn du mir, deinem jüngsten Teil, gleichmäßig den Anteil zuteilst, wie soll ich dann die Belohnung gewähren? Wenn du eine Wand hast, wirst du sie erhalten. Der Khan möge es wissen.“ Auf diese Worte hin: „Du hast dich selbst erwogen (du hast deine Stellung gut bedacht). Wisse es (nimm es selbst und verwalte es).“ Und Shigi Qutuqu ließ die Belohnung gewähren, ging hinaus und ließ die Würdenträger um Muqali eintreten.
+
+Daraufhin erging ein Dekret, und er sprach: „Die gemeinsam mit dir gealterten, die glücklichen, wie viele waren es? Als jener Wang Khan, der Vater, die beiden betrogenen, zur Zeit, als sie im Haus des Monglik, des Vaters, nicht Halt machten, wenn sie drinnen gewesen wären, wie hätte man bis zu seinen guten Nachkommen denken können? Der Sitzplatz wird nach dieser Wurzel, nach diesem Jahr, durch Beratung die Belohnung gegeben werden. Lass es vorübergehen, für die folgenden Generationen erging ein Dekret.
+
+Dschingis Khan sprach: „Die acht fahlfarbenen [Pferde] auf dem Weg, wo du nächtigtest, trafst du, und du hattest Mühe, und du sprachst zu den Gefährten, und auch dem Vater ließest du die Stute melken, den großen Ledereimer in der Wildnis, das Abwerfen des Schweifes, ließest du los, bestiegst das schwarzköpfige [Pferd], du selbst bestiegst das hellgelbe [Pferd], und ohne Herrn eiltest du, und sogleich begleitetest du, und dreimal verfolgtest du, und als die Wallache zur Gruppe gelangten, am Rand raubtest du und flohst und kamst, wir zwei. Der Vater, der Reiche, war [da].“ (Da die Ming-Übersetzung „Dein Vater, der reiche Nahu, hatte Hausbesitz“ wiedergibt, scheint im Originaltext vor „war“ ein Wort zu fehlen.) „Was von ihm hast du mir, deinem Vater, der nur ein einziges Kind hatte, was hast du mich gelehrt, dass ich mit dir, dem Gefährten, ging? Später, als du gingst, wolltest du Belgütei zum Gefährten machen, du, auf dem fuchsroten Pferd, auf dem blauen Pferd, wurdest du Gefährte, und wir kamen, und dreimal zur Zeit umkreisten wir. Und wieder, als jene Tataren in Dalan Nemürges nächtigten, bei Tag und Nacht, zur Zeit des Regens, bedecktest du mich mit Filz, und oben ließest du nichts durch, und bis zur Neige wechseltest du nur eine Seite. Dein Zeichen war wirksam. (In der Yuan Shi, Biographie des Bo’erchu: „Einst durchbrach man die Einkreisung bei den Kereyiten; Taizu verlor sein Pferd. Bo’erchu ritt mit mehreren Pferden herbei und hielt mitten in der Wildnis an. Es traf ein, dass es regnete und schneite, man verlor den Ort des Zeltlagers, man legte sich im Gras und Sumpf nieder. Mit Muqali spannte er Filzkleidung aus, um den Kaiser zu bedecken, die ganze Nacht standen sie aufrecht, ihre Fußspuren bewegten sich nicht. Als es Morgen wurde, lag der Schnee mehrere Fuß tief, so entgingen sie der Gefahr.“ Dies stützt sich auf Yan Fus Steleninschrift für den Prinzen von Guangping. „Durchbrach die Einkreisung bei den Kereyiten“ bezieht sich auf die Schlacht von Qalaqaljit. Die Sache mit dem mehrfachen Reiten ist eine falsche Überlieferung der Begebenheit mit Ögedei und Boroqul. Auch die Sache mit der Bedeckung durch Filzkleidung wird von der Schlacht gegen die Tataren auf die Kereyiten übertragen, der Regen wird zu Schnee, und aus Bo’erchu allein werden zwei Personen, Muqali und er – all dies sind abweichende mündliche Überlieferungen.) Seitdem hast du, Bo’erchu, wir zwei, gesprochen, und bis zum guten Ende hast du meine Angelegenheiten aufgeschoben, und bis hierher gelangen lassen.
+
+Bei den vielen Sitzplätzen, neunmal nicht, Bo’erchu, wisse, worauf deine Hand sich stützt!“ (Mede bedeutet ursprünglich „wissen“, wird aber auch im Sinne von „verwalten“ gebraucht, gleich dem alten japanischen Wort „shiru“. Das alte „Shiru“ für den Großkanzler, die heutigen Gouverneure usw., hat ebenfalls dieselbe Bedeutung. Dass „mede“ im Sinne von „verwalten“ mit „wissen“ übersetzt wird, ist alles das alte „shiru“.)
+
+Zu Muqali sprach er: „Als du in Qorqonaq Jubur den anbetenden, tanzenden Baum [abstiegst?], wegen des Verkündungswortes des Himmels, vollendete ich Gü’ün Qo’a (aus Kapitel 4, Gü’ün U’a) an Muqali. (Er machte eine Abmachung. Diese Begebenheit ist vorher nicht zu sehen. Das Absteigen in Qorqonaq geschah zur Zeit des Zusammenlebens mit Jamuqa. Nach dieser Aussage hatten Muqali und andere bereits zu jener Zeit eine geheime Abmachung mit dem Kaiser Taizu, und später, als die Jurkin untergingen, unterwarfen sie sich gemäß der früheren Abmachung.) Daraufhin setz dich auf den Sitzplatz, und bis zu den Nachkommen sollst du König des Landes sein!“ So gab er den Namen, und Muqali, der König des Landes, sprach: „Wisse, worauf deine Hand sich stützt!“ Dschingis Khan sprach: „Du, du hast einst Omenworte gesprochen, und bis heute bist du feucht geworden und hast Kälte und Glück erfahren. Qorchi, jener sprach: ‚Wenn es wahr wird, dann gib mir, wie du es in deinem Herzen sagtest, eine Frau.‘ Jetzt, wegen des Herabsteigens, sieh die gute, gute, und nimm die Frau!“ Und wieder: „Über die dreitausend, zusammen mit Ashiq (nämlich Ashiq Güregen), die Chinos, (die Adargin stammen von Adardai ab, dem Sohn Qači’uns, des fünften Sohnes der Mene’en Tudun. Die Chinos stammen nach Raschid ad-Din von Jendü Chino und Uruqin Chino, den Söhnen des Čaraqai Lingqu, ab. Da die Chinos sich zerstreuten und zu den Adargin gehörten, spricht man von den Chinos der Adargin.), die Telengüt (die Tö’ölös finden sich in Kapitel 10 als Tö’öles, in der Mongolischen Sammlung der Geschichte als Tulas. Die Telengüt finden sich in Kapitel 10 als Tienlieke, im Qinzheng Lu als Tieliangwu, in der Sammlung der Geschichte als Telengüt. Beide sind Waldvölker an der Quelle des Kem-Flusses.) mache zu zehntausend, und wisse sie!
+
+Zu den benachbarten Stämmen mache Lager, und die Stämme wisse, Qorchi!“ Zu Qorchi: „Ohne dich mögen die Stämme sich nicht verhalten. Wer etwas tut, mag zögern!“ Und wieder, zu Jurčedai: „Die dringenden Verdienste sind in der Schlacht von Qalaqaljit, zur Zeit der Sorge, hast du, Jurčedai, den Mund von jenem, du hast den Dienst getan. Zur Zeit hast du die Jirgin, die Tungqayit, die tausend Dringenden, alle in der großen Mitte, des Sanguns Wange hast du beschossen, die Pforte des ewigen Himmels wurde geöffnet. Wärest du nicht verletzt worden, wie wäre es dann gewesen? Großes hast du, Jurčedai, getan. So stiegst du, Jurčedai, vom Qalqa-Fluss auf wie ein Berg, du gingst, und nachdem du dich entfernt hattest, gelangtest du zum See. Als du nun vom See warst, zogst du als Vorhut aus, und der Erdgöttin beigefügt, machtest du die Stämme zu Gefangenen. Das Land der Naiman, die Farbe, du hast sie zerstreut. Die Naiman, die Schlacht, die Kereyiten, der zwei Frauen Verwandtschaft, du hast mit deinem eigenen Stammesteil gewohnt.
+
+Du bist zum Feind geworden, Jurčedai, durch List hast du sie mit der Hand gefangen und vollendet. So hast du den Stammesteil vernichtet, die Verdienste des Jurčedai waren so!“ [und] zur Tötung, zur Vereinigung des Lebens, zur Rettung, zur Vereinigung des Todes, zur Schlacht wegen, [sprach er:] „Ibaqa Beki (die älteste Tochter des Jaqa Gambu. In der Yuan Shi, Biographie des Zhuchitai, die Gemahlin Abqa Khatun) zur Belohnung gebend, zur Zeit sprach er: „Ich habe nicht gesagt, dass deine Gestalt schlecht ist. In den Busen bist du eingetreten, in der Reihe dich zu belohnen, ist die Vernunft. Du, Jurčedai, der Schild, der Feind, der Mensch, der geworden ist, der gesammelten, zerstreuten Stammesteil von jenem, bedenkend, hast du gegeben. Ich, wir, sitzend, solche Verdienste tuend, bedenkend, in Worten bis zu den Nachkommen, den Platz, brich ihn nicht ab!“ Und wieder, zu Ibaqa: „Ja, dein Vater, der Jaqa Gambu, zweihundert Menschen, die Yinjiesi (Dienerinnen, die der Braut bei der Heirat folgen; sowohl Männer als auch Frauen werden so genannt.), Ashiq Temür, Alčiq, wir zwei, jetzt, wenn du zu den Stämmen gehst, gib mir von jenen Ashiq Temür, hundert Menschen, die gehen!“ nimm sie. Dschingis Khan sprach: „Hast du nicht viertausend, du?“ und er erließ ein Dekret. (In der Yuan Shi, Biographie des Zhuchitai: „Zhuchitai begann, den Kereyiten zu folgen auf dem Feldzug, er brach vom Khanqa auf, durchquerte den See Banzhen, tausend Meilen durch schwieriges Gelände. Jedes Mal, wenn er auf eine Schlacht traf, war er bestimmt der Vorhut. Der Kaiser belehrte ihn einst: ‚Mein Blick auf dich ist wie der Schatten eines hohen Berges vor der Sonne.‘ Er schenkte ihm die Nebenfrau Mubaha Beki und hundert Yinjiesi und ließ ihn die viertausend Uru’ut befehligen, für immer ohne Änderung.“ Dies ist eine Zusammenfassung des Sinnes des Textes hier. „Schatten eines hohen Berges vor der Sonne“ ist ein Fehler für „Schutz eines hohen Berges“; „Yinjiesi“ ist die korrekte phonetische Übersetzung des mongolischen Wortes für Brautdienerinnen.)
+
+Ende von Band 8 der Chronik des Dschingis Khan.
+
+Vorwort. Inhaltsverzeichnis. Band 1. Band 2. Band 3. Band 4. Band 5.
+Band 6. Band 7. Band 8. Band 9. Band 10. Band 11-1. Band 11-2. Band 12-1. Band 12-2. Fortsetzung-Inhaltsverzeichnis. Fortsetzung-1. Fortsetzung-2. 3]
+
+↑ Veröffentlicht in der Osaka Asahi Shimbun, März/April 1908, „Kuwabara Jitsuzō Zenshū Band 2“, Iwanami Shoten, Erinnerung an Naka-sensei – Aozora Bunko
+↑ Nationale Parlamentsbibliothek, Digitale Sammlung: info:ndljp/pid/782220
+1 2 Die Vorlagen-Einbindungsgröße überschreitet den Grenzwert, daher wird in Teilbände aufgeteilt.
+
+Dieses Dokument ist eine Übersetzung und besitzt den Status eines eigenständigen Werkes, unabhängig vom Original. Die Lizenz für die Übersetzung gilt nur für diese Ausgabe.
+
+Original:
+
+Dieses Werk wurde vor dem 1. Januar 1931 veröffentlicht und ist, da der Autor (bei Gemeinschaftswerken nach Veröffentlichung oder Erstellung) mehr als 100 Jahre tot ist, in allen Ländern und Regionen gemeinfrei.
+
+Public domainPublic domainfalsefalse
+
+Übersetzung:
+
+Dieses Werk wurde vor dem 1. Januar 1931 veröffentlicht und ist, da der Autor (bei Gemeinschaftswerken nach Veröffentlichung oder Erstellung) mehr als 100 Jahre tot ist, in allen Ländern und Regionen gemeinfrei.
+
+Public domainPublic domainfalsefalse
+
+# Neuntes Buch {#gruppe-volume-9}
+
+## Neuntes Kapitel {#kapitel-009 .chapter-heading .centered}
+
+Neuntes Buch
+
+[234]
+
+Wiederum: Qubilai, mit Kraft den Nacken des Riesen Bökeschir niederpressend, tat es. Diese vier: J̌elme, Sübegetei (das heißt Sübe'ütai), sie dachten nach vorn gerichtet, sprachen: "Fels, zerschellt, Abgrund, zerborsten, Licht, Stein übersteigend, zerschnitten – ihr!" Diese vier: J̌elme, Sübe'ütai, sie sandte er aus mit dem Finger.
+
+Muqali, Čila'un Ba'atur, diese Renner (mongolisch: Seite, kämpfend, J̌ürčedei), [235]
+
+jene beiden, die Mongqut vorausgestellt, ließ er ruhig sein, so sprach er. (In der Geschichte der Yüan-Dynastie, Biographie des Muqali: "Nach Muqalis Tod folgte sein Sohn Boro, und danach, im Sommer des Jahres Bingxu (21. Jahr des Taizu), erging ein Erlass, die Dienstleute zu belehnen und ihnen Speisekörner zu geben, die zehn Touxia genannt, und Boro stand an ihrer Spitze." Und in der Biographie des Weida'er Boluohuan erscheinen die zehn verdienten Würdenträger, diese zehn dürften gemeint sein.) "Qubilai, als Verwalter der Angelegenheiten, beschenkte er, und wiederum sprach er: "Den verdrehten Ich, ging ich, gab nicht. Ihm, dir, ward tausend Haushalte, vereint, so sprach er." Später achtete er darauf, so sprach er (Bietü'n, das ist der Mole Bietü'n des dritten Buches. Mole ist der Zimmermann, sein Name ist Bietü'n.)
+
+Dschingis Khan sprach: "Von Qunan [aus] ihr, den Würdenträgern des Muqali, dem Doqolqu Čerbin. Diese schwarze Nacht, der schwarze Rabe erhob sich, ruhte nicht; zur Zeit, da der Mensch und der Feind nicht das Gesicht verloren, der Mensch und der andere das Gesicht zeigten, ohne Qunan, den beiden, geschah die Sache; Qunan, den beiden, erging der Befehl: 'Der Sohn J̌öči ist da.'
+
+Dem Geniges [Volk] ward J̌öčis Zehntausendschaftsbefehl." (In der Yüan-Dynastie-Genealogie heißt es: "Der Taizu-Kaiser hatte sechs Söhne, der älteste war der Thronfolger J̌öči", die Biographie in der Yüan-Dynastie ist sehr lückenhaft, aber Hong Juns Ergänzung ist ein ausführliches gutes Werk. In der Ming-Übersetzung stehen vor dem folgenden Qunan die Worte "er sprach".)
+
+Kököšüs, [236]
+
+Usun Ebügen (das heißt der Qorči Usun Ong des Ba'arin), dieser sah, sprach nicht aus, die Sache als "so und so" [behandelnd], diese nur einst, sogleich kamen zu mir, wiederum dem J̌elme, dem J̌arči'udai, den Blasebalg, J̌elme von innen, vom Burqan Qaldun kommend, am Onan [beim Deli'ün Boldaq] [die Mutter] geboren, den Zobel gegeben hatte. So beruhte es darauf, wurde so. Das Verdienst, geboren und geboren, gemeinsam den Ursprung des Zobels habend, Freude habend, selbst wenn neunmal verletzend, [soll] nicht [bestraft werden], so sprach er.
+
+Dschingis Khan sprach: "Den Sohn und die tausend Haushalte, wie kann [ich] dich. Versammelt, den Vater zum Flügel werdend, vereint, versammelt, deshalb, den Namen jetzt erlangt habend dem Volk, sich selbst dem Turqan vereint, dich" und wiederum sprach Önggür: "Die Toqra'ut (Plural von Toqra'un), die Tarqut, der Sohn Önggür, die Baya'ut, ihr, ein einziges, dich, im Nebel drinnen; trenntet euch nicht; dem Nassen vereint, frort ihr, gingt; was begehrst du jetzt?" Als er sprach, antwortete er: "Wenn man wählen lässt, der Stamm der Baya'ut zerstreute sich. Versammeln will ich die Baya'ut." So sei es. So kennst du die Brüder." Und wiederum erging der Befehl: "Boro'ul, rechts und links, ihr, die Küchenverwalter, beim Austeilen, wer am Stehen, zur Linken Seite Stehenden, nichts fehlen ließet, mit euch beiden so, würgte ich nicht, war ruhig. Önggür, ihr beide, reitet, die Speise, dem Menschen, so sprach er: 'Setzt euch, groß, rechts und links, die Speise, setzt euch. Mit den anderen, setzt euch im Norden.'" So meldete er, und wiederum dem Boroqul (das heißt Boro'ul) zu mir, dem Šigi Qutuqu, Güčü, ihr, das Volk, das Land gewinnt, hineinbringt, und nährt [238], den Nacken ziehend, mit euch, die Männer gleich macht, uns zum Schatten werden lässt, deshalb euch zur Tugend, der Mutter, wie viel Gnade [erwies sie] euch? Mir, heftig, zum Feldzug, mit dem Mangel, der Herberge, euch. ließet nicht den Feind im heißen Sommer Herberge nehmen, und wiederum den Vater, als Feind, die Tataren unterwarf, und tötete, das Volk vergleichend, begrub.
+
+Qarɣil Šira
+
+, ging hinaus, in Not geriet er, ging hinein, in der Mutter Haus, war gut, sprach, "das Suchen, setzt euch", und er, der andere, ist, der die Kleidung und Nahrung, sprach: "Dies ist die Kleidung und Nahrung", dort, an der Westseite, hinter dem Tor, setzte er sich; zur Zeit, fünf Jahre alt, ging hinein, und dennoch ging hinaus, Qarɣil Šira, das kleine Kind packend, ging, das Schwert ziehend; zur Zeit,
+
+die Frau, die Mutter, im Osten war. Schreiend "verloren", gemeinsam, fortlaufend, vereint, von hinten [239] ihn packend, mit der Hand, die gezogene Hand packend, das Schwert, im Hause, J̌etei, die beiden, das schwarze Rind tötend, zur Zeit, mit der Stimme, J̌elme, die Axt, die Faust, laufend, des Tataren, mit der Axt, tötete. J̌etei, die drei, das Leben, den ersten Verdienst, J̌etei, die beiden, wir, schnell kamen, Altan, der Mensch, wie war? Zum Leben brachte er? Wir, unser, wurde." Wenn Altan, ich, nicht gehört hätte, wäre er gekommen. Laufend ihn packend, die gezogene Hand, das Schwert, J̌etei, die beiden, bis sie kamen, hätte er nicht zum Leben gebracht?" So sprach er; der erste Verdienst, des Boroqul, Boroqul, zur Deichsel werdend, zum Leben, und wiederum den Kereyit, in der Wüste, zur Zeit,
+
+Halsader geschossen ward, Boroqul, hinabsteigend, das geronnene Blut aussaugend, übernachtend, am nächsten Morgen [240], ihn reiten ließ, auf dem Hinterpferd, Öködei hielt er, das Blut aussaugend, den Rand, Öködeis, ruhig, kam. Der Mutter Mühen, meines Sohnes Verdienst wurde. Mir, rief er, und blieb nicht zurück. Selbst wenn neunmal verletzend, keine Sünde." und wiederum "den Familien will ich geben", und wiederum sprach Usun: "Qunan, Degenei, dieser sah, hörte, sprach nicht aus, meldete, mit bedachtsamem Rat, Wort redend, der Mongolen Würdenträger, zum Beki werdend, der Ba'arin, die Nachkommenschaft war. (Der ferne Ahnherr der Ba'arin, Ba'aridai, war der älteste Sohn des Bodončar und Bruder des Ba'arin Šira'tu Qabiči.) Die Ordnung ist, im Inneren, zum Beki werdend, dem Alten Beki, das Weiße anziehen, auf den Wallach, den Sitz, setzen, und wiederum, beratschlagend, so erging der Befehl. (Beki ist der Titel des Stammesführers. Verschiedene Stammesführer der Mongolen nannten sich oft Beki. Seče Beki war ein Enkel des Qabul Khan und Haupt der Yürkin. Qučar Beki, Sohn von Yisügeis Bruder, nannte sich daher Beki. Der Toqto'a Beki der Uduyit Merkit, sein ältester Sohn Toγus Beki, der Qaji'un Beki der Dörben, der Qutuqa Beki der Oyirad – sie alle waren Häupter ihres Stammes. Auch Bilge Beki, der dem Wang Khan diente, war wohl Haupt eines Stammes. Jedoch, wie des Taizu Töchter Qoǰin Beki, Alaqa Beki, die Schwester des Senggüm, Ča'ur Beki, die beiden Töchter des Jaqa Gambu, Ibaqa Beki, Sorɣaqtani Beki – wenn Frauen sich Beki nennen, ist es nur ein ehrender Titel, anders als der Beki der Stammesführer. Ferner, im Chuogenglu, im Artikel über den weißen Weg, heißt es: "Der Brauch des Reiches ehrt Weiß, hält Weiß für glückverheißend"; daher ist das Bekleiden des Beki mit Weiß ein Ausdruck besonderer Gunst. Im Heida Shilüe, wo die Kleidung der Mongolen beschrieben wird, heißt es: "Die Farben sind Rot, Purpur, Dunkelblau, Grün; die Muster sind Sonne, Mond, Drache, Phönix; es gibt keinen Unterschied zwischen Vornehm und Gering", und es wird mit keinem Wort weiße Kleidung erwähnt; daraus sieht man, dass diejenigen, die diese besondere Gunst empfingen, äußerst selten waren.))
+
+[241]
+
+Dschingis Khan sprach zu Quyildar Anda: "Zur Zeit, vorgeschickt, den Mund, des Verdienstes, der Nachkommenschaft, bis, die Gnadengabe, lass sitzen." und wiederum zu Čaγan Qo'a (Čaγan U'a des vierten Buches) und Narin To'oril: "Dein Čaγan Qo'a, vorne, kämpfend wurde, kämpfte, dem Jamuqa, jetzt, des Vaters Waise, nimm sie auf." Als To'oril beschenkt wurde, zerstreute sich der andere der Negüs. Versammeln will ich die Negüs." "Dschingis Khan, versammelt die Negüs, bis zur Nachkommenschaft, lass sie nicht sitzen?" und wiederum zu Sorqan Šira: "Mich, zur Zeit, der neidische Tarqutai Qiriltuq, den Brüdern, Sorqan Šira, der Čimbai, der Qada'an, versorgte, saß, ließ los, ihr. Seine Gunst, den schwarzen Traum, den hellen, die Brust, bedenkend, ich. Vielmehr, von den Taiči'ut kam. Ich, wenn ich beschenke, was begehrst du?" So sprach er. Čila'un, mit den Kindern, antwortete: "Das Lager, der Merkit, den Selenge, möge [uns] frei machen. Besonders sprach Dschingis Khan. Sein Dschingis Khan, der Merkit, den Selenge, das Lager, soll frei sein. Der Nachkommenschaft, den Köcher, den Becher reichend, selbst wenn neunmal, der Strafe, tritt nicht ein." und wiederum zu Čila'un, den beiden, vorne, an Čimbai und das Gesagte denkend, wie [könnte ich] euch [vergessen]? Čimbai, die beiden, wenn sie etwas sagen, etwas begehren, sprecht zu den Menschen nicht. Mit dem Mund, was ihr denkt, den Mangel, fordert." und wiederum: "Badai, ihr, und wiederum, viel, dem Feind, Beute erlangend, der Wildnis, das Wild, wenn er jagte, nahm er, so erging der Befehl. "Wenn er spricht, des Tödege, Badai, sie beide, und Čeren (Qulan Ba'atur Sohn Yeke Čeren), [243] jetzt, als vertraute Diener, sie führen lassend, frei, so erging der Befehl. (Das mongolische Wort für "frei" ist Darqan. Im Chuogenglu heißt es: "Darqan bedeutet übersetzt 'Herr eines Landes', die Bedeutung von 'Freiheit haben'; er wird nur verdienten Würdenträgern und Verwandten verliehen. Zu Beginn von Taizus Aufstieg war die Hofverwaltung noch in den Anfängen, die Ämter waren schlicht und alt, nur die linken und rechten Zehntausendschaften, dann die Tausendschaften. Der Ahnherr des Kanzlers Shunde Zhongxian Wang, Qisili, wurde aufgrund seiner herausragenden Fähigkeiten bemerkt, zum Tausendschaftsführer ernannt und mit dem Titel 'Darqan' geehrt. Im Jahr Renshen der Zhiyuan-Ära zeichnete Shizu die Nachkommen der verdienten Würdenträger aus, ernannte den Wang zum Leibwächter und verlieh ihm den Titel 'Darqan'." Darqan ist gleich Darqan, Qisili ist gleich Kišiliq, Zhongxian Wang ist der berühmte Kanzler der Shizu- und Chengzong-Ära, Qara Qašun.))
+
+Dschingis Khan sprach: "Der Alte (Širgu'üdü des fünften Buches), der Naya'a, also, den Tarqutai Qiriltuq, am Ort, auf dem Weg, in der Ecke, Naya'a, den rechtmäßigen Herrn, verlassend, gehen, so sprechend, ließ los, Širgüto Araq, mit den Kindern, Naya'a Bilǰi'ur (Bilǰi'ur ist die Lerche; wohl Naya'as Beiname), den rechtmäßigen Herrn, Tarqutai Qiriltuq, fassend, vielmehr loslassend, wir, kamen mit Kraft nicht. Wenn ich mit dieser Hand käme, "den Herrn fassend, in ferner Zukunft, wie [wird] man von diesen [sagen]?" Wenn ich vom Herrn spräche, dort, "vom Herrn, der Grund, das Recht, sie, als gut anerkennend, "die Angelegenheit", sprach er.
+
+Dem Bo'orču die Zehntausendschaft bekannt machte [244] und ihm den Titel "König des Landes" gab, die Zehntausendschaft, jetzt, sollst du die Mitte kennen." und wiederum: "Sübe'ütai, selbst sich aufstellend, sollst du tausend Haushalte werden." und wiederum dem Schafhirten (Im dritten Buch wird gezeigt, dass Degenei die Schafzucht verwaltete.), der ohne Volk war, die tausend Haushalte, und wiederum dem Zimmermann (Im dritten Buch wird gezeigt, dass Güčügür den Bau von Häusern und Wagen verwaltete. Das heißt Zimmermann.), fehlte, von hier, von dort, von den J̌adaran, nahe, begleitete. "Sollt ihr mit Muqarqo einer beraten sitzen." Das Land aufrichtend, die Mühsal ertragend, die tausend Haushalte, eintausend als tausend Haushalte, die Zehnschaften betrauend, als Zehntausendschaft, unter die Würdenträger, die Zehntausendschaften, die Würdenträger, die zu verleihende Belohnung, für die Männer der Belohnung, gab es schon früher Dschingis Khan die Leibwache und die Garde. Mit der Kraft des ewigen Lebens, die Kraft ausbreitend, allgemein ordnend, die Geräte hineinbringend, jetzt, am Ort, soll man die Garde aus den Tausendschaften hineinbringen. In die Leibwache, in die Garde, soll man sie in Zehntausendschaften hineinbringen." [245] und wiederum, die Wächter hineinbringen, ließ er die Tausendschaftsführer kundtun:
+
+"Wenn sie am Ort eintreten, die Söhne der Tausendschaftsführer, der Würdenträger, der Gemeinen, zur Zeit, das Schriftstück, die Männer, vorne, die Männer, der Söhne der Tausendschaftsführer, von den zehn Männern, seinen einen, bringe. Wenn die Würdenträger eintreten, sollen sie Gefolgsleute haben, den jüngeren Bruder, bringe. Der Würdenträger (das heißt die Söhne der Gemeinen, der Söhne, drei Männer, und auch den jüngeren Bruder, von Anfang an die Tatkraft, bringe. Für das Fortschicken am Ort, den Söhnen der Tausendschaftsführer, das Gefolge, der Tausendschaftsführer, sammle ein, wenn der Vater geteiltes Volk hat, die selbst erlangte Bevölkerung, wie viel, von den nahen Verwandten außerhalb, das Maß, nach dem er sammelt, gib. Der Söhne der Würdenträger, der fünf Männer, der Zehnschaften, der Söhne der Menschen, der drei Männer, nur dem Gesetz nach, aus seinem geteilten Volk, nur so gib." So sprach er. Der Tausendschaftsführer, der Zehnschaften, die Menge, unseren Befehl hörten [246] und während sie waren, die Menschen, unserer Wache, mit Menschen, die nicht werden, unseres Gehens, anderes [hineinbringend], diese Sünde nicht tuend, im Schatten (wo das Auge nicht hinreicht), am Ort, erging der Befehl: "Zum Palast gehend und sich treffend, uns, die Menschen, behindert nicht." Dschingis Khan, nachdem, wählend, auch die Söhne der Zehnschaften, nach diesem, herausnehmend, vorne, die Leibwache war, machte. "Fülle oben an." Die Leibwache, die Männer, behindert nicht." Der Leibwache, zum Ältesten werdend, wissend, erging der Befehl. ("Die Leibwache dem Yeke Ni'ürin unterstellend" sollte man übersetzen, aber das mongolische Wort für "unterstellen", Aqala, bedeutet "zum Älteren werden", daher änderte ich das "die Leibwache" in "der Leibwache". Unten alles entsprechend. Wer Yeke Ni'ürin ist, weiß man nicht. Vielleicht war er ein Sohn des Mönglik Ečige der Qoŋqotan.) "Vierhundert wählte er. Den Pfeilträgern, der Sohn, zum Älteren werdend, der Sohn, beratschlagend, sitzt." Zur Zeit des Eintretens der Garde und der Pfeilträger, wurde Buydai einer Schar zum Älteren, trat in die Pfeilträger. [247] Wurde Labulaqa einer Schar zum Älteren, trat in die Pfeilträger. (Qorqudaq erscheint auch im zwölften Buch, Labulaqa erscheint im zwölften Buch als Labalqa.) Dem Führenden, in die Gruppen, in die Pfeilträger, so lass sie eintreten.
+
+Eintausend, Yesün Te'e, sitze." Die vorher Eingetretenen, oben, füllend,
+
+"Von den Verwandten, wisse." Muqali, Buqa (Muqalis jüngerer Bruder) sprach über die Garde.
+
+"Von den Verwandten, eintausend, wisse." Eintausend, Dodai Čerbi, eintausend, Doqolqu Čerbi, sprach. "
+
+Die Garde, von den Verwandten, wisse.
+
+Die Garde, von den Verwandten, wisse. (Alči ist Alči Güregen, der in der Yüan-Dynastie "Staats-Schwager Alčin Noyan" Genannte. Der Mann namens Aqutai erscheint in der Yüan-Dynastie nicht. Nur in der Biographie des Te Sečen sieht man, dass Alčins jüngerer Bruder, Qoru mit Namen, im Jahr Jiayu die Gebiete von Qara'un, ostwärts Tu-Fluss, Huang-Fluss, Qorčina, Qingzhou als Wohnsitz geschenkt bekam. Dieser Qoru ist vielleicht eine Verballhornung von Aqutai.)
+
+Die Garde, wisse. ] Die Auserwählten, wissend, am Tag, kämpfend, vorne, zum Helden werde." Die Tausendschaftsführer, auswählend, achttausend, die Leibwache, gemeinsam, drei (Leibwache, Pfeilträger, Garde) Zehntausendschaft, Dschingis Khan, unsere angeschlossenen Wächter, zum großen Zentralheer werdend, erging der Befehl.
+
+Dschingis Khan betraute die älteren der Garde: "Einer Schar wissend, ordnend, Alčidai, die Wächter, in die Wächter, bringe hinein. Einer Schar wissend, ordnend, Doqolqu Čerbi, die Wächter, in die Wächter, bringe hinein." Und so, die Älteren, der Wache, den Befehl, der Wache, der Wache, sich selbst, die Wache tuend, beaufsichtigend, eintretend, übernachtend, wechselnd, die Wache tuend (den Wachdienst habend), die Wache tuend, die Wächter, die Peitsche, wenn der Wächter zweimal abwich, die Peitsche, und wiederum, seinem Leib, der Wache, den anderen, und wiederum, wenn er dreimal abwich, die Peitsche, unseres Gehens, des Auges] Ferne, will ich schicken." Der Wache, den dritten, der Wache (alle drei Tage des Dienstes), diesem Wächter, (dem) (die Würdenträger, wenn sie wechseln, dieses Wort, einmal tu). Der Wache, zur Sünde werde. Hörend, seiend, nach dem Befehl, wenn er abwich, zur Sünde werde." Der Wache, der zum Älteren gemacht ward, nur, gleichermaßen, mir, ohne mich, tadle nicht. Bewegst du dich, melde. Hast du Recht, lasse ich töten. Hast du Recht, schlage ich. So sprach er, mein selbst, tuend, der Peitsche, die Peitsche, der Faust, die Faust, will ich zurückgeben." und wiederum erging der Befehl: "Sitzend, unter den Würdenträgern, die Wächter, sind. Sitzend, der Zehnschaften, mein Hausdiener, ist mein Außen. Die Tausendschaftsführer, nebeneinander, mit den Wächtern, wenn sie sich treffen, die Menschen, erging der Befehl.
+
+Dschingis Khan, den Gruppen, den Befehl, die Pfeilträger, die anderen, eintretend, die Handlungen, auf den Wegen, des Tages, der Leibwache, außerhalb, übernachte. Am Ort, die Leibwache, sitze. Den Pfeilköcher, die Geräte, übergebend, außerhalb, die Pfeilträger, die Küchenverwalter, die Suppe, am Pferdesammelplatz, der Leibwache, [250] die Suppe, wenn sie beendet, der Pfeilträger, die Garde, am Ort, die Geräte, die Rückkehr, den Gruppen, die Männer, nach dem Gesetz, nach der Regel, tue." Am Tage, später, von hinten, überquerend, die Menschen packend, packend, am nächsten Morgen, ihn, höre. Mit der Wache, wenn er sich trifft, sein Übergeben, bringe. Das Gehen, übergebend, entferne dich." Die Leibwache, im Palast, liegend, niederpressend, die Leibwache, den eintretenden Kopf, die Schulter, abhackend, der eilige Mensch, wenn er kommt, redend, von Norden, an einem Ort, lass ihn reden." Von der Leibwache, zum Sitz, nicht, von der Leibwache, wer auch immer, trete nicht ein. Oben, nicht, der Leibwache, nicht, der Leibwache, nicht, der Leibwache, Gehen, der Leibwache, den Zwischenraum, die Menschen, packe. Der Fragende, der Leibwache, an jenem Tag, den Wallach, der das Zaumzeug hat, mit der Kleidung, nimm." Erljidai, als Mensch, der Leibwache Gehen war, und wurde gepackt. (Erljidai ist der Sohn des Qači'un, Alčidai, das heißt der in der Genealogie Anjiridai Genannte; der Name ist ähnlich, aber es ist ein anderer Mensch. Er erscheint oft im späteren Text und in der Yüan-Dynastie. In den achtundachtzig verdienten Würdenträgern erscheint er nicht. Es gibt einen Mann namens Alči unter diesen Namen, ein wenig bekannter Mann. Man vermutet, dass er vielleicht Alčiqidai ohne 'qidai' ist.)
+
+Ende des neunten Buches der Wahrhaftigen Aufzeichnungen Dschingis Khans.
+
+# Zehntes Buch {#gruppe-volume-10}
+
+## Zehntes Kapitel {#kapitel-010 .chapter-heading .centered}
+
+**Buch Zehn**
+
+[251]
+
+Dschingis Khan sprach: „In der Nacht, wenn die Wolken den Himmelslukenraum bedecken, in der Stille, wenn der Schlaf die Alten umfängt, in der Nacht, wenn mein Stern steht – die Wächter, die in meiner Fürstenhütte die Filzdecken nicht im Inneren ausgebreitet hatten, die vor Unruhe zitterten, die vor Zittern bebten, die um mich herum standen – die treuen Wächter, die um mich herum standen, die ließ ich zu mir kommen. Die Feinde, die um mich herum standen, die sich nicht auf meine Birkenrinden-Köcher verließen, mein Glück, mein Alter – so sprach er.
+
+Die eingetretenen Leibwächter – zu den Leibwächtern sprach der Alte Arqai.
+
+Die Pfeilschützen unter Bugidai – zu den Pfeilschützen erging ein Befehl.
+
+„Die neunundneunzig Leibwächter, die als Nahestehende zu mir gekommen sind, meine Nachkommen, die an meinem Platz sitzen werden, sollen dieses Andenken bewahren, gut – meine zehntausend glücklichen Götter – sind sie nicht da?“, sprach er weiter. „Die Dienerinnen, die Hausknechte, die Kameltreiber, die Rinderhirten, die Wächter – bereitet die Wagen der Horde, die Standarte, die Geräte. Die Getränke – die Wächter – bereitet auch die reichlichen Speisen zu. Wenn die Getränke knapp werden, sprach er zu den Wächtern: ‚Beim Austeilen der Getränke teilt nicht ohne die Wächter aus.‘ Beim Austeilen begann er zuerst und sprach: [253] ‚Richtet das Hinausgehen aus der Hütte.‘ Gestützt auf die Äwüdečin der Wächter, durch die Wächter eintretend, ergreifend sprach er: ‚Geht zu den Lagerverwaltern, zur Hütte.‘ Er sprach: ‚Die Wächter, die mit der Falkenjagd gehen, sollen gemeinsam dienen. Von der Beute teilt die Hälfte‘, sprach er.
+
+Dschingis Khan sprach: „Die Wächter sollen nicht außerhalb unseres Heeres sein.“ So erging der Befehl. „Die Wächter – das Heer – das Heer – die Čerbin – so erging der Befehl. ‚Wie kann das Heer sagen?‘, sprach er. ‚Die Wächter – unser Leben – zur Falkenjagd gehen – die Arbeit – die Horde aufbrechen – den stillen Wagen – mein Schutz – wie sollte das leicht sein? Den Wagen aufbrechen – das Ordnen – schwer – die Trennung‘, sprach er. ‚Geht nicht außerhalb zum Heer‘, so erging der Befehl.
+
+Der Befehl lautete: „Beim Urteil – den Menschen [254] das Urteil – hört“, sprach er. „Von den Wächtern aus – die Bögen, die Geräte – verteilt – die Wallache – die Netze und Seile – geht“, sprach er. „Von den Wächtern aus – gemeinsam – verteilt“, sprach er. „Die Pfeilschützen – das Lager – die von Esün Tege – Alčidai, Aqudai – die Leibwächter – zur Rechten – geht“, sprach er. „Die von Qorqudaq – Buqa, Toqolqu Čerbi – an den Rand der Horde“, sprach er. „Die Helden – nach vorne“, sprach er. „Die Wagen der Horde – zur Linken der Horde – geht“, sprach er. „Die vielen Leibwächter der Fürstenhütte – ringsherum – die Hausknechte – die Pferdehirten, die Schafhirten, die Rinderhirten – übergab er dem Todai Čerbi, betraute ihn damit. Todai Čerbi blieb, hinten – trockenes Gras fressend – geht“, sprach er. Er ließ Qubilai Noyan einen Feldzug unternehmen. Arslan Khan unterwarf sich. Qubilai Noyan führte ihn. Da Arslan sich Dschingis Khan nicht feindlich gezeigt hatte, [255] erging der Befehl, Arslan eine Tochter zu geben.
+
+Die eisernen Merkiten – Qudu und andere – verfolgte er bis zum Fluss Čüi, bedrängte sie. Čebe tötete Güčülük Khan in Sariq-qun. Güčülük kam nicht.
+
+Der Idut sandte zwei Boten, Ačiγiraq, und ließ melden: „Die Wolken haben sich verzogen, das Eis ist geschmolzen – wir haben gesehen, wir haben erlangt – die Stimme Dschingis Khans – [258] überaus – Dschingis Khan – goldenen Gürtel, goldene Spangen, großes rotes Gewand, Seidenstoffe – erlangte er. Auf die Worte des Fünften, der seine Kraft gemeldet hatte, gewährte er Gnade und sprach: ‚Auch eine Tochter – den fünften – Gold, Perlen, Goldbrokat, Seidenstoffe.‘ Der Idut freute sich, Silber, große Perlen, Goldbrokat, Damast – der Idut – Dschingis Khan – Dschingis Khan gewährte Gnade und gab sie ihm.
+
+Im Jahr (1207) ließ er das rechte Heer zum Kriegszug gegen die Völker ausziehen. Als Führer ging der Oirate Tümen voran, kam und führte. An den Ort Šišgit – Dschöči unterwarf die Burijaten, Urasuten, Qangqas, Qabqanas, [259] die Kirgisen – den Edi Inal, den Örebek Digin, die Würdenträger kamen und brachten Jagdfalken, Wallache, Zobel – sie erschienen vor ihm.
+
+Die Qestimi, Tuqas, Tö’eles, Baγiγit – aus dem Wald – Dschöči – die Tausendschaft der Kirgisen – die Würdenträger des Waldes kamen und ließen weiße, weiße, schwarze [Tiere] vor ihm erscheinen.
+
+Quduqa Bäki schickte er voraus. „Die zehntausend Oiraten sind gekommen“, sprach er. Jenem Inalči gab er [eine Frau]. Dem älteren Bruder Dschöči gab er Qori-qan, dem Alaqa Bäki gab er [eine Frau]. Dschöči sprach: „Mein Kind, du bist nur einen Weg gegangen, hast die Männer nicht verletzt, hast glückliche Völker gebracht. Ich will dir geben.“ Auch im Gebiet der Qori-Tumat – da der Würdenträger der Tumat gestorben war, [262] herrschte jene Botui Tarqun über das Volk.
+
+Er kam. Vom großen Heer aus – am Abend – inmitten der Schwierigkeit – sich auf sie stützend – von hinten – auf einem Pfad – töteten sie Boroqu Noyan. Als er von Boroqu erfuhr, sehr – selbst – Bo’orču – die beiden – bis sie anhielten – dann – Dorbe Doγšin – ließ er das Heer ordnen. Zum Himmelsgott – die Tumat zu unterwerfen – erging der Befehl. Das Heer, das vorausgegangen war, den bewachten, leeren Pfad – spannten sie. Auf dem Weg der starken Rinder – den Kriegern – die Menschen des Heeres – um zu schlagen – jedem Menschen – Ruten, Äxte, Sägen – die Menschen – die Geräte – rot – gingen sie. Sich stützend – aufstellend – abschneiden lassend – den Weg bahnend – oben [263] – die Tumat – durch das Himmelsfenster – unversehens – fingen sie sie als Gefangene.
+
+Qorči Noyan – die beiden – waren gefangen worden, sie waren dort. Die gefangenen Mädchen der Tumat – dreißig – sollten sie nehmen. Als sie zu den Mädchen der Tumat gingen, kehrten die Unterworfenen um. Qorči Noyan – dass Qorči gefangen worden war – erfuhr er. „Das Volk – Quduqa – sprach – Quduqa Bäki – wurde gefangen.
+
+[Nun] war das Volk beendet. Hundert Knochen gab er als Gnadengabe. Dreißig nahm er. Botui Tarqun – Dschingis Khan – der Mutter, den jüngeren Brüdern – teilte er zu. Das Volk, das Mühsal erlitten hatte – mein älterer Bruder – mein Ende – sprach er – dem Otčigin [264] gab er zehntausend. Er machte keine Stimme des Mangels. Neuntausend gab er. Achttausend gab er. Fünftausend gab er. Fünftausend gab er. Viertausend gab er. Zweitausend gab er. Eintausendfünfhundert gab er.
+
+Die Kereyit – mit den Augen des Schigi Qutuqu –,
+sprach Bo'orču, Schigi Qutuqu:
+»Wie das Feuer, wie das Haus – das gute Gedenken,
+das von Dir zurückgeblieben ist –
+wie konntest Du nicht an ihn denken?«
+Zu dem guten jüngsten Bruder, den Rauch teilend,
+gesprochen,
+und bis zuletzt an den太祖 (Taizu, den Ersten Kaiser) und an die Mühsal denkend,
+sprach Muqali, die drei still Gewordenen,
+(so) der Mutter zehntausend gegeben,
+Güčü, Dschüngsai, die vier,
+dem Dschötschi den Möngke'ür, die drei,
+dem Tschagatai den Möngke, die drei,
+und wieder sprach er: »Wild ist er. Er hat ein Wesen.
+Spät, zuvor gedacht, redend, erging der Befehl.«
+(Die Ming-Übersetzung sagt: »Wesen, genau, die Kešig-ten, vorne, als Seiende«, demnach dürfte im Originaltext »ein feines Wesen« das »ist« ein Einschub sein, und »ein feines Wesen habend« bezieht sich auf Kešig-ten.)
+Ilüge (d.i. Ilügai) die zwei,
+dem Tolui gab er Bala (der 35. unter den Würdenträgern, Bala aus dem Oronar-Clan, oder der 49., Bala Čerbi).
+Den Jebke (den 44. Würdenträger)
+gab er dem Alčidai.
+
+Mönglik Ečige hatte sieben Söhne.
+In ihrer Mitte schlug er die sieben Qasars.
+Die sieben traten als Partei zusammen.
+Dem Dschingis Khan,
+als Dschingis Khan in der Sache gegenwärtig war, sprach er:
+Dschingis Khan sprach innerlich:
+»Der Unbesiegbare – Du (wörtlich der Ming-Übersetzung: gewöhnlich, Mensch, fähig, besiegen),
+gesprochen, Tränen erhebend,
+Qasar drei Tage,
+Teb Tenggeri sprach:
+»Der Himmelsgott hat das Khan[tum] in einer Weissagung einmal verkündet:
+›Den Qasar!‹«
+Den Qasar als Sache gesprochen,
+nachts
+zu Qasar gegangen,
+sprach Kököčü: »Zu Qasar bin ich gegangen«, meldete er.
+Als er es erfuhr,
+sofort
+weiß
+spannen lassend,
+mit dem Wagen fahrend,
+zu der Zeit
+Dschingis Khan,
+den Ärmel, die Mützenbinde, die Worte,
+bei der Mutter weilend,
+zu Dschingis Khan
+die Mutter
+erreicht, stieg er ab,
+selbst
+das Gebundene lösend,
+die Mützenbinde gebend,
+zornig, nicht bezwingend,
+sitzend,
+die Brust
+auf beide oben legend, sah er.
+Die Brust(milch) der Brust (die Milch),
+suchend, aneinanderreihend,
+sich wölbend,
+das
+Qasar
+[267] tat er. (Qasar ist nach dem Namen eines wilden Hundes benannt. Daher wird die wilde Art dieses Hundes in Reimen gesagt und mit Qasars Tapferkeit verglichen.)
+»Mein eines
+habe ich erschöpft.
+Otčigin
+eines erschöpfte nicht.
+Meine Brust
+erschöpfend,
+die Brust
+ruhen lassend,
+weit machte ich es.
+Der geschickte Temüdschin,
+der geschickte Qasar,
+der geschickte
+mit dem Pfeil der Abtrünnigkeit (Qarbuča) schießend,
+den erschreckend Herausgekommenen
+ließ ich herabsteigen.
+Den Feind
+in die Enge treibend,
+Qasar
+vermag ich nicht«, sagte er.
+»Ruhen lassend,
+Dschingis Khan,
+der Mutter
+fürchtend, sich schämend,
+ich«,
+sprach er und
+vor der Mutter
+im Verborgenen
+das Volk
+dem Qasar
+das Volk,
+die Mutter
+im Herzen
+früh
+der Grund ist so.
+Jebke floh dorthin nach Barqudschin.
+
+Jene neun Arten von Völkern,
+an dem Ort
+des Dschingis Khans vielen Orten
+sich sammelnd,
+dem Temüge Otčigin
+das Volk
+[268]
+an dem Ort
+Otčigin Noyan
+das Volk
+mit Šoγor,
+dem Boten,
+Teb Tenggeri sprach:
+»Ihr seid Boten geworden«,
+den Šoγor-Boten
+zu Fuß gehen lassend,
+ihm aufladend,
+Otčigin
+schlug ihn und ließ ihn kommen.
+Otčigin
+zu Teb Tenggeri gehend,
+den Šoγor-Boten
+schlug er und ließ ihn kommen.
+»Ich
+zur Forderung gesprochen,
+die Qoŋqotan
+umringten:
+›Dein
+gut gesprochen,
+(wie die Ming-Übersetzung: wie,
+sendend, nehmen lassend, zu fangen tuend,
+Otčigin Noyan
+den Boten hat kommen lassen, sprach er.
+Qoŋqotan,
+wenn nicht gut,
+knie nieder!‹
+Von Teb Tenggeri
+knien ließ er.
+Nicht gegeben.
+
+Am nächsten Morgen
+zu Dschingis Khan,
+im Schlafgemach
+weilend, eintretend,
+kniend:
+»Die neun Arten von Völkern
+sind an dem Ort.
+Mir
+das Volk
+zur Forderung sagend, sandte ich,
+den Šoγor-Boten
+zu Fuß gehen lassend, aufladend,
+ich
+zur Forderung
+die sieben
+umringten mich,
+von Teb Tenggeri
+knien ließ man mich«, weinte er.
+Die Stimme,
+Börte Üdschin
+innerlich
+sitzend,
+den Kragen verbergend,
+weinend,
+die Tränen,
+sprach:
+»Die Qoŋqotan sind es.
+Vordem
+als Partei,
+jetzt
+den Otčigin
+wie ließen sie knien?
+Was war das?
+Der Wacholder,
+Dein
+schadend,
+wahrhaftig,
+wiederum
+wie ein alter Baum,
+der Leib,
+wie Spreu,
+das Volk und Land
+wissen lassen,
+wie eine Säule,
+der Leib,
+wie Sperlinge,
+das Volk und Land
+wissen lassen.
+Der Wacholder,
+Dein
+schadend,
+die Leute
+die vier
+kleinen,
+bis sie erwachsen sind,
+wie
+denn sie?
+Die Qoŋqotan waren es,
+die Brüder
+tun lassend,
+wie
+denn Du?«
+so Börte Üdsjin
+ließ sie fallen.
+
+Dem Wort gemäß,
+zu Otčigin
+Teb Tenggeri
+soll kommen.
+»Wenn du ihn irgendwie bekommen kannst,
+dann wisse es«,
+zur Zeit
+aufstehend,
+die Tränen wischend,
+die drei
+bereitend,
+[270]
+eine Weile später
+die sieben
+kamen,
+alle
+Teb Tenggeri,
+zur Rechten
+sitzend,
+da
+Teb Tenggeri
+ergriff er:
+»Den Tag
+ließ ich Buße tun,
+versuchend sprach er,
+den Kragen
+zur Tür
+zog er.
+Otčigin
+den Kragen
+schlagend,
+Teb Tenggeri
+schlagend,
+zur Zeit
+oben
+Mönglik Ečige
+das
+nehmend,
+im Busen
+Dschingis Khan
+ging hinaus:
+»Die Kraft
+verbinde!«
+Otčigin
+zog ihn,
+zur Zeit,
+an der Schwelle
+vorn
+die drei
+empfingen ihn,
+ergriffen ihn, gingen hinaus,
+das Rückgrat
+zur Linken
+des Wagens
+entfernt,
+trat er ein,
+Teb Tenggeri
+ließ er Buße tun.
+Sprach er,
+täuschend,
+gewöhnlich
+sprach er,
+erkannte,
+ließ fallen,
+die große Erde,
+so
+das Meer, der Fluss,
+als Gefährte wurde ich,
+der Kaiser,
+stehe,
+vorn
+der Gefährte,
+heute«,
+die sechs
+seiner
+zur Tür
+den Feuerständer
+stellend,
+das
+zog man,
+fürchtend,
+wich er,
+sprach er,
+[271]
+des Dschingis Khans
+Pfeilköcherträger
+die usw.
+stellten sie.
+Des Wagens
+Rückgrat
+entfernt,
+er sah es,
+ein
+Zelt
+kommen lassend,
+oben
+auf den Wagen
+(lass ihn hineingehen),
+sprach er,
+dort
+Teb (Kurzform für Teb Tenggeri)
+des Zeltes
+Deckel schließend,
+drückend,
+bewachen ließ er,
+da
+nachts
+gelb
+wollte man das Himmelsfenster öffnen,
+den Leib genau prüfend,
+Teb
+war hinausgegangen.
+Dort
+Dschingis Khan:
+»Teb Tenggeri
+den Brüdern
+angetan hat,
+in meinem Zwischenraum
+die Verleumdung
+dem Himmelsgott
+das Leben
+nehmend,
+sprach er.
+
+Mönglik Ečige
+dort
+die Söhne
+nicht beherrschend,
+[damit sie einig werden,
+deshalb],
+[Teb Tenggeri
+ist gekommen,
+ihr
+solches erkennend,
+Altan
+usw.
+den Grund habend,
+ihr«,
+Mönglik Ečige
+tadelte er.
+»Am Morgen
+am Abend,
+am Abend
+am Morgen,
+die Schande (das Beschämende)
+wird man sagen«,
+zuvor
+war festgesetzt worden,
+die Sache
+(die Ming-Übersetzung: zuvor, festsetzen, erlassen,
+[272]
+hatte es gegeben),
+Gnade verleihend,
+ließ er nach.
+»Das Wesen
+Mönglik Ečiges
+wer
+ein Mensch wird sein?«
+Teb Tenggeri
+der Qoŋqotan
+Verschwinden
+war es.
+(Hier endet das zehnte Buch der Hauptsammlung der Geheimen Geschichte. Die folgenden zwei Bücher sind die Fortsetzung. Im achten Buch, nachdem die Thronbesteigung im Jahr des Tigers (Bingyin) verzeichnet ist, werden bis zum Beginn dieses Buches die Belohnungen der Würdenträger, die Erlasse zur Bestimmung der Leibwache aufgereiht, dann die Unterwerfung der Qarlu'ud, die Vernichtung der Merkit und Güčülüg, die Anhänglichkeit der Uiguren verzeichnet; dann wird das Jahr des Hasen (Dingmao) genannt, Dschötschi's Nordfeldzug, die Unterwerfung der Tumat, die Verteilung der Völker an die kaiserlichen Prinzen, die Sache der Übertragung verzeichnet, und mit dem Untergang der Qoŋqotan endet es. Demnach scheint diese Sammlung mit dem zweiten Jahr des Taizu, Dingmao, zu enden, aber die Vernichtung Güčülügs fand nicht im ersten Jahr des Taizu statt, sondern tatsächlich sehr sicher im dreizehnten Jahr Wuyin; daher muss auch die Vernichtung der Merkit dem zwölften Jahr Dingchou folgen, das der »Feldzugsbericht« und die »Gesammelte Geschichte« angeben. Die Fortsetzung beginnt mit dem Feldzug gegen Jin im sechsten Jahr Xinwei des Taizu; dass diese Sammlung bereits die Ereignisse des zwölften Jahres Dingchou und des dreizehnten Jahres Wuyin enthält, ist nicht verwunderlich. Denn obwohl diese Sammlung nach dem Beginn des Jin-Feldzugs entstand, war der Jin-Feldzug noch nicht vollendet; daher überließ man ihn der späteren Aufzeichnung und nahm ihn nicht in diese Sammlung auf. Die Vernichtung der Merkit und Güčülüg war, ausgehend von der Merkit-Expedition im dritten Buch, von der Naiman-Expedition im fünften und siebten Buch, eine fortgesetzte große Befriedungstat; um diesen Abschluss zu erzielen, wurden, im Anschluss an die Thronbesteigung des Taizu, ohne Angabe der Jahreszahl, die mehr als zehn Jahre späteren Ereignisse beigefügt.)
+
+Ende des zehnten Buches der Aufzeichnungen Dschingis Khans.
+
+Einleitung. Inhaltsverzeichnis. Buch 1. Buch 2. Buch 3. Buch 4. Buch 5.
+Buch 6. Buch 7. Buch 8. Buch 9. Buch 10. Buch 11-1. Buch 11-2. Buch 12-1. Buch 12-2. Fortsetzung - Inhaltsverzeichnis. Fortsetzung -1. Fortsetzung -2. 3]
+
+↑ Aus der Zeitung »Osaka Asahi Shimbun«, März/April 1908, in »Gesammelte Werke von Kuwabara Jitsuzō, Band 2«, Iwanami Shoten, Erinnerung an Herrn Naka - Aozora Bunko
+↑ Nationale Parlamentsbibliothek Digitale Sammlung: info:ndljp/pid/782220
+1 2 Die Vorlagen-Einlesegröße überschreitet den Grenzwert, daher in Teilbände aufgeteilt.
+
+Dieses Dokument ist eine Übersetzung und hat als unabhängiges Werk vom Original den Status eines eigenen Werkes. Die Lizenz für die Übersetzung gilt nur für diese Version.
+
+Original:
+
+Dieses Werk wurde vor dem 1. Januar 1931 veröffentlicht und der Urheber ist (bei Gemeinschaftswerken nach Veröffentlichung oder Schöpfung) seit mehr als 100 Jahren verstorben, daher ist es in allen Ländern und Regionen gemeinfrei.
+
+Public domainPublic domainfalsefalse
+
+Übersetzung:
+
+Dieses Werk wurde vor dem 1. Januar 1931 veröffentlicht und der Urheber ist (bei Gemeinschaftswerken nach Veröffentlichung oder Schöpfung) seit mehr als 100 Jahren verstorben, daher ist es in allen Ländern und Regionen gemeinfrei.
+
+Public domainPublic domainfalsefalse
+
+# Elftes Buch {#gruppe-volume-11}
+
+## Elftes Kapitel {#kapitel-011 .chapter-heading .centered}
+
+卷十一-1
+
+[273]
+
+Darauf zog Dschingis Khan im Jahr des Tigers (unser Kaiser Shuntoku Kenryaku erstes Jahr, Xinwei, Song Ningzong Jiading viertes Jahr, Jin-Kaiser Weishao Wang Yongji Da’an drittes Jahr, Yuan Taizu sechstes Jahr, West-Sekte 1211, Taizu war damals fünfzig Jahre alt) aus, das Volk in den Krieg zu führen. Er nahm (die Stadt Fuzhou). (Fuzhou war ein Bezirk der westlichen Hauptstraße von Jin, außerhalb von Zhangjiakou, südwestlich der heutigen vier Banner wie dem Xianghuang-Banner, zwanzig Qing-Li entfernt. Der Beginn des Feldzugs gegen das Jin-Reich wird im Yuan Shi, Taizu Ji, erstes Jahr Bingyin, so beschrieben: „Der Kaiser begann, über einen Angriff auf Jin zu beraten. Anfangs hatte Jin die kaiserlichen Verwandten Xianbu Hai getötet, der Kaiser wollte Rache nehmen. Es trafen sich gefangene Überläufer aus Jin, die alle berichteten, dass der Jin-Herrscher Jing grausam und tyrannisch regierte. Daher fasste der Kaiser den Entschluss, ihn zu bestrafen, wagte aber noch nicht, leichtfertig zu handeln.“ In der Biographie des Muqali heißt es: „Die Überläufer aus Jin sagten alle, ihr Herrscher Jing töte seine Verwandten und schwelge in Ausschweifungen. Der Kaiser sprach: ‚Ich habe einen gerechten Grund, mein Heer zu führen.‘“ Weiter im Taizu Ji: „Im fünften Jahr Gengwu, im Frühling, plante Jin einen Angriff und baute die Festung Wusha. Der Kaiser sandte Jebe aus, um ihre Leute zu überfallen und zu töten, und eroberte dann das Land ostwärts. Anfangs entrichtete der Kaiser Jin jährlichen Tribut. Der Jin-Herrscher ließ den Weishao Wang Yunji den Tribut in Jingzhou entgegennehmen. Der Kaiser erwies Yunji keine Ehrerbietung. Yunji kehrte zurück und wollte Truppen für einen Angriff anfordern. Da starb der Jin-Herrscher Jing, und Yunji folgte ihm auf den Thron. Ein Erlass kam ins Reich, der besagte, man solle ihn kniend empfangen. Der Kaiser fragte den Jin-Gesandten: ‚Wer ist der neue Herrscher?‘ Der Gesandte antwortete: ‚Der Weishao Wang.‘ Der Kaiser spuckte nach Süden aus und sagte: ‚Ich dachte, der Kaiser des Zentralreichs sei ein Himmlischer. Ein solcher Schwächling und Feigling kann das auch sein? Warum sollte ich mich verbeugen?‘ Er bestieg sein Pferd und ritt nach Norden. Der Gesandte kehrte zurück und berichtete. Yunji wurde noch wütender und wollte warten, bis der Kaiser wieder Tribut brachte, um ihn dann auf dem Marktplatz zu töten. Der Kaiser erfuhr davon, brach mit Jin und verstärkte seine Truppen zur Verteidigung.“ Auch im Jin Guo Zhi heißt es: „Im ersten Jahr Da’an hörten die Feinde, dass der Jin-Herrscher neu eingesetzt war, und freuten sich: ‚Dieser alte Schwächling taugt nichts, er ist nicht zu fürchten.‘ Sie entschlossen sich, nach Süden einzufallen.“ Nachdem der Konflikt ausgebrochen war, beschreibt das Liangchao Gangmu Beiyao die Lage im Jin-Reich: „Yunji schickte Truppen, um sie in den Bergen im Norden zu verteilen, und wollte Temüjin überfallen und töten, um dann mit dem Heer tief einzudringen. Da begaben sich einige der Jiuyi-Truppen zu den Mongolen und verrieten die Sache. Die Mongolen schickten Leute, um nachzuforschen, und erfuhren die Wahrheit. Daraufhin zögerten sie und rückten nicht vor.“)
+
+Im Jin Shi, Weishao Wang Benji heißt es: „Im zweiten Jahr Da’an, am Tag Bingwu des neunten Monats, wurde die Hauptstadt in Alarmbereitschaft versetzt. Der Kaiser ging täglich auf Inspektion. Die Beamten baten um eine Audienz, er gewährte sie nicht. In diesem Jahr wurde dem Volk verboten, Nachrichten von der Grenze zu verbreiten.“ Im Xu Tongjian Gangmu steht: „Jin Naha Maizhu bewachte die nördliche Grenze. Als er erfuhr, dass die Mongolen in die Grenzgebiete einfallen würden, eilte er, um es dem Jin-Herrscher zu melden. Der Jin-Herrscher warf ihn ins Gefängnis, weil er eigenmächtig einen Grenzkonflikt heraufbeschworen hatte.“ Ferner: „Die Mongolen überfielen und plünderten wiederholt die nordwestlichen Grenzgebiete von Jin, und ihre Macht wuchs allmählich. Die Jin-Leute wurden unruhig und verboten dem Volk, Nachrichten von der Grenze zu verbreiten.“ Bi Yuans Xu Zizhi Tongjian stützt sich auf das Jin Shi und das Xu Gangmu: „Jin war lange Zeit in Frieden gewesen. Als es plötzlich von den mongolischen Kriegsvorbereitungen hörte, gerieten die Menschen in Panik, und Gerüchte verbreiteten sich. Am Tag Bingwu des neunten Monats wurde Zhongdu in Alarmbereitschaft versetzt. Als man dann erfuhr, dass die Mongolen noch keinen großen Angriff unternommen hatten, wurde die Alarmbereitschaft aufgehoben. Bald darauf wurde dem Volk verboten, Nachrichten von der Grenze zu verbreiten.“ Wenn man die verschiedenen Bücher vergleicht, begann der mongolische Süd-Feldzug tatsächlich im fünften Jahr Gengwu. Aber die Einnahme von Wusha-Bao wird im Qinzheng Lu und in den Jin Shi-Biographien von Duji Sizhong und Chengyu alle auf das folgende Jahr Xinwei datiert. Daher ist die Angabe im Yuan Shi, fünftes Jahr, ein Fehler.
+
+So heißt es im Qinzheng Lu für das sechste Jahr Xinwei: „Im Herbst schwor der Kaiser erstmals seinem Volk, nach Süden zu ziehen. Er eroberte Dashuiluo und nahm auch Wusha-Bao sowie die Bezirke Chang, Huan, Fu und andere ein. Der große Prinz Shuchi, der zweite Prinz Chagatai, der dritte Prinz Ögedei eroberten die Bezirke Yunnei, Dongsheng, Wu, Xuanning, Fengjing und andere. Die Jin-Leute fürchteten sich und gaben Xijing auf.“ Im Xu Gangmu steht: „Die Mongolen überfielen Yunzhong und Jiuyuan, ohne Jahr für Jahr aufzuhören. Im vierten Jahr Jiading durchbrachen sie schließlich Dashuiluo und rückten vor. Der Jin-Herrscher begann sich zu fürchten. Im vierten Monat ließ er Maizhu frei und schickte den Kommandeur der Nordwest-Straße, Nianhe Heda, um Frieden zu bitten. Der mongolische Herrscher lehnte ab. Der Jin-Herrscher befahl dem Pingzhang Zhengshi Duji Qianjiahui und dem Canzhi Zhengshi Wanyan Husha, die Provinzverwaltung in Fuzhou zu führen, und dem Xijing-Kommandanten Geshilie Hushahu, das Shumiyuan zu leiten, um die Mongolen abzuwehren. Im Herbst kamen Qianjiahui und Husha nach Wusha-Bao. Bevor sie ihre Vorbereitungen abgeschlossen hatten, trafen die mongolischen Truppen ein und nahmen Wusha-Bao und Wuyue-Ying ein. Im achten Monat nutzte der mongolische Herrscher seinen Sieg, eroberte die Stadt Baideng und griff dann Xijing an, insgesamt sieben Tage lang. Hushahu fürchtete sich, gab die Stadt mit seinen Truppen auf, durchbrach die Belagerung und floh. Der mongolische Herrscher verfolgte ihn mit dreitausend Elite-Reitern. Die Jin-Armee erlitt eine schwere Niederlage. Die Verfolgung reichte bis zum Cuiping-Pass. Daraufhin nahm er Xijing sowie die Bezirke Huan und Fu ein.“ Dieser Text stützt sich auf das Jin Guo Zhi, das Jin Shi, die Biographien von Duji Sizhong (d. h. Qianjiahui), Chengyu (d. h. Wanyan Husha) und Geshilie Zhizhong (d. h. Hushahu) und ist daher ausführlicher als das Qinzheng Lu und zuverlässiger als das Yuan Shi, Taizu Ji. Nur die Aussage „eroberte die Stadt Baideng und griff dann Xijing an, insgesamt sieben Tage lang“ scheint auf einem Missverständnis der Schlacht am Yekou-Pass in der Biographie des Chahan zu beruhen, wo es heißt: „Er belagerte den Weißen Turm sieben Tage lang und nahm ihn ein.“ Auch in der Sammlung des Zhanran Jushi von Yelü Chucai gibt es eine Tabelle zum Gengwu-Yuan-Kalender: „Das Jahr war Gengwu. Der Himmel erleuchtete das Herz des Kaisers, und er entschloss sich, nach Süden zu ziehen. Im Frühling des Jahres Xinwei überquerte das himmlische Heer den Süden. In nicht einmal fünf Jahren war das Reich ungefähr befriedet. Dies war eine Gabe des Himmels, nicht etwas, das Menschenkraft erreichen konnte.“ Daraus folgt, dass der Feldzug des Taizu im Frühling stattfand, nicht im Herbst. Die Aussage des Qinzheng Lu „Im Herbst schwor der Kaiser erstmals seinem Volk, nach Süden zu ziehen“ ist von vornherein falsch. Auch die Angabe im Weishao Wang Ji, dass Taizus Angriff im vierten Monat des dritten Jahres Da’an begann, ist nicht richtig. Nur dem Taizu Ji, sechstes Jahr Xinwei, „Im zweiten Monat führte der Kaiser persönlich das Heer nach Süden“ sollte man folgen. Denn der Feldzug des Taizu fand im Frühling statt, die Bitte um Frieden und die Grenzvorbereitungen des Jin-Herrschers im Sommer, und die Einnahme von Xijing und den anderen Bezirken im Herbst.
+
+Dennoch ist die Darstellung im Taizu Ji für diese zwei oder drei Jahre voller Widersprüche und Wiederholungen, deren Fehler kaum zu zählen sind. Zunächst heißt es: „Im zweiten Monat führte der Kaiser persönlich das Heer nach Süden, besiegte den Jin-General Dingxue am Yekou-Pass und nahm die Kreise Dashuiluo und Fengli ein. Jin baute die Festung Wusha-Bao wieder auf. Im siebten Monat befahl er Jebe, Wusha-Bao und Wuyue-Ying anzugreifen, und eroberte sie.“ Die Schlacht am Yekou-Pass fand jedoch statt, nachdem Fengli und andere Kreise, d. h. Fuzhou, eingenommen worden waren. Sie wird hier vorher erwähnt. Im folgenden Jahr Renshen wird die Schlacht am Yekou-Pass erneut erwähnt. Die Einnahme von Fuzhou erfolgte nach der Einnahme von Wusha-Bao, wird aber hier vorher erwähnt und im folgenden Jahr wiederholt. Die Einnahme von Wusha-Bao wird in diesem Jahr einmal erwähnt, aber bereits im Vorjahr und dann in diesem Jahr mit dem Zusatz „Jin baute die Festung Wusha-Bao wieder auf“ erneut aufgeführt. Der Grund für diese Fehler liegt darin, dass das Taizu Ji wahllos aus verschiedenen Quellen wie dem Qinzheng Lu, dem Jin Shi und dem Jin Guo Zhi schöpfte, ohne sie zu verdauen und zu vereinheitlichen, und sie dann willkürlich auflistete. Daher wird die Einnahme von Wusha-Bao nach einer Quelle im fünften Jahr Frühling und nach dem Qinzheng Lu im sechsten Jahr Herbst erwähnt. Die Einnahme von Fuzhou, d. h. Fengli und anderen Kreisen, wird nach einer Quelle im sechsten Jahr Frühling erwähnt, während die im Qinzheng Lu als sechstes Jahr Herbst verzeichnete Einnahme von „Chang, Huan, Fu und anderen Bezirken“ auf das siebte Jahr Frühling verschoben wird. Die Schlacht am Yekou-Pass wird nach einer Aufzeichnung, die der Biographie des Chahan zugrunde liegt, im sechsten Jahr Frühling erwähnt, während die im Qinzheng Lu als sechstes Jahr Herbst verzeichnete Schlacht am Huan’erzui, d. h. am Yekou-Pass, auf das siebte Jahr Frühling verschoben wird. Die auf die Schlacht am Huan’erzui folgende Schlacht am Huibe-Bao wird nach dem Jin Shi, Biographie des Chengyu, im sechsten Jahr achten Monat erwähnt, und der Ort wird als Huihe-Fluss in Xuanping angegeben, nicht nach dem Qinzheng Lu. Nach dem Qinzheng Lu wurde im siebten Jahr die Präfektur Xuande zerstört und dann die Präfektur Dexing eingenommen. Das Yuan Shi verzeichnet die Einnahme von Xuande im achten Jahr siebten Monat und die Einnahme von Dexing nach dem Jin Guo Zhi im sechsten Jahr neunten Monat, und nach einer anderen Quelle im siebten Jahr neunten Monat, wobei der alternative Name Fengsheng Zhou verwendet wird, was ebenfalls auf das Jin Guo Zhi zurückzugehen scheint. Später wird der Text des Qinzheng Lu übernommen und nach der Einnahme von Xuande im achten Jahr siebten Monat erneut erwähnt, während die Aussage des Qinzheng Lu „Später eroberten die Jin-Leute es zurück. Im Herbst des Guiyou (achten Jahres) eroberte der Kaiser es erneut“ weggelassen wird. Die schlimmste Wiederholung betrifft die Einnahme des Juyong-Passes durch Jebe. Nach dem Jin Guo Zhi und dem Jin Shi Benji wird sie bereits im sechsten Jahr neunten Monat erwähnt, und im achten Jahr siebten Monat wird nach dem Qinzheng Lu die Schlacht von Huailai und Juyong beschrieben. Wenn man das Yuan Shi liest, ohne diese Wiederholungen zu erkennen, versteht man überhaupt nichts und fühlt sich wie in Zhuge Liangs Achtformationen.)
+
+Daraufhin (eroberte er) den Huanian-Daba-Pass. (Huanian bedeutet Fuchs, Daba bedeutet Pass. Der chinesische Name ist Yekou-Pass. Er liegt 30 Qing-Li nordwestlich von Wanquan, Xuanhua-Fu, Zhili, außerhalb von Zhangjiakou. Das Jifu Tongzhi sagt: „Das Gelände ist extrem hoch und steil, der Wind ist heftig, und wenn Wildgänse fliegen, fallen sie bei Wind zu Boden.“ Dieser Pass wurde nicht einfach nur überquert. Das Qinzheng Lu sagt: „Als der Kaiser im Begriff war, von Fuzhou aufzubrechen, hatten die Jin-Leute mit dem Zhaotao Jiujin und dem Jianjun Weinu und anderen eine große Armee aufgestellt und am Yekou-Pass Vorbereitungen getroffen. Sie ließen auch den Canzheng Husha mit Truppen als Nachhut folgen. Ein Khitan-Militärführer riet Jiujin: ‚Ich höre, sie haben gerade Fuzhou erobert und die Beute an die Armee verteilt. Ihre Pferde weiden auf dem Feld. Wenn wir sie unerwartet angreifen, sollten wir schnell mit Reitern über sie herfallen.‘ Jiujin sagte: ‚Das ist ein gefährlicher Weg. Es ist besser, mit Reitern und Fußtruppen gemeinsam vorzurücken, das ist der sicherste Plan.‘ Als der Kaiser hörte, dass die Jin-Truppen kamen, rückte er vor und stellte sich ihnen am Huan’erzui entgegen. (In dieser Zwischenzeit wird die Unterwerfung des Jin-Gesandten Shimö Ming’an erwähnt.) Daraufhin kämpfte er gegen Jiujin und besiegte ihn vernichtend. Die Zahl der zertrampelten Toten war unermesslich. Aufgrund dieses Sieges besiegte er auch Hushas Armee am Huibe-Bao. Die Elite von Jin ging hier vollständig zugrunde.“ Jiujin wird im Taizu Ji als Geshilie Jiujin und in der Biographie des Chahan als Dingxue bezeichnet. Weinu wird in Rashids Geschichte als Wunu bezeichnet. Husha ist Chengyu aus dem Jin Shi. Huan’erzui liegt am nördlichen Eingang des Yekou-Passes. Huibe-Bao ist das Huihe-Bao im Jin Shi Benji, das westlich des heutigen Wanquan lag. Im Jin Guo Zhi wird es als Huihe, in der Biographie des Chengyu als Huihe-Fluss und in den Biographien von Muqali und Yelü Ahai als Huihe-Fluss bezeichnet. Die Biographie des Muqali schreibt den Erfolg dieser Schlacht ausschließlich Muqali zu: „Die Jin-Armee war angeblich 400.000 Mann stark und stellte sich nördlich des Yekou-Passes auf. Muqali sagte: ‚Sie sind viele, wir sind wenige. Wenn wir nicht mit äußerster Kraft kämpfen, werden wir sie nicht leicht besiegen können.‘ Er führte die Todesmutigen an, spornte sein Pferd an, schwang seine Lanze, schrie laut und stürmte in die feindliche Schlachtordnung. Der Kaiser befahl allen Truppen, gleichzeitig vorzurücken. Sie besiegten die Jin-Armee vernichtend und verfolgten sie bis zum Huihe-Fluss. Die Leichen bedeckten hundert Li.“)
+
+Die Schlacht am Huihe-Bao wird im Jin Shi Benji beschrieben: „Im dritten Jahr Da’an, achten Monat, zogen sich Qianjiahui und Husha von Fuzhou zurück und lagerten in Xuanping. Im neunten Monat wurden sie am Huihe-Bao besiegt.“ In der Biographie des Chengyu heißt es: „Im achten Monat erreichten die großen Yuan-Truppen den Yekou-Pass. Chengyu verlor den Mut, wagte nicht, sich ihnen zu stellen, und zog sich nach Xuanping zurück. In dieser Nacht zog er nach Süden. Die großen Yuan-Truppen folgten ihm auf den Fersen. Am nächsten Tag erreichten sie den Huihe-Fluss. Chengyus Armee wurde völlig aufgerieben. Chengyu entkam knapp und gelangte nach Xuande.“ Xuanping war ein Kreis der Xuanzhou-Präfektur der westlichen Hauptstraße von Jin und lag nordöstlich des heutigen Huai’an, Xuanhua-Fu, Zhili. Die Schlachten von Fuzhou, Yekou-Pass und Huihe-Bao werden im Qinzheng Lu, in der Mongolischen Geschichte, im Jin Guo Zhi und im Jin Shi Benji alle auf das sechste Jahr Xinwei von Taizu datiert. Das Yuan Shi Benji verzeichnet nur die Schlacht am Huihe-Fluss korrekt im sechsten Jahr Xinwei, während die Schlachten von Fuzhou und Yekou-Pass fälschlicherweise sowohl im sechsten Jahr Xinwei als auch im siebten Jahr Renshen erwähnt werden. Die Biographien von Subutai und Shimö Ming’an datieren sie fälschlicherweise auf das Jahr Renshen. In der Biographie des Muqali werden die Schlachten von Xuande und Dexing, die im Jahr Renshen stattfanden, fälschlicherweise vor dem Jahr Xinwei erwähnt, während die Schlachten von Fuzhou, Yekou-Pass und Huihe-Fluss, die im Jahr Xinwei stattfanden, fälschlicherweise nach dem Jahr Renshen erwähnt werden. Die Biographie des Yelü Ahai datiert die Schlachten von Wusha-Bao, Xuanping und Huihe-Fluss korrekt auf Xinwei, aber innerhalb desselben Jahres schreibt er vor „Im Jahr Guiyou eroberte er Xuande und Dexing“ fälschlicherweise: „Daraufhin verließ er Juyong und ließ seine Truppen nördlich von Yan paradieren.“)
+
+Daraufhin (heißt es im Qinzheng Lu): „Im Jahr Renshen (Taizu siebtes Jahr) zerstörte er die Präfektur Xuande. Als er die Präfektur Dexing erreichte, erlitt er einen Rückschlag und zog sich zurück. Der vierte Prinz, Yeke Noyan, und der kaiserliche Schwiegersohn Chiqu führten Truppen, eroberten alle Festungen im Gebiet von Dexing und kehrten zurück. Später eroberten die Jin-Leute sie zurück. Im Herbst des Guiyou (Taizu achtes Jahr) eroberte der Kaiser sie erneut.“ Xuande-Fu war die Xuanzhou-Präfektur der westlichen Hauptstraße von Jin. Zu Beginn der Yuan-Dynastie wurde sie zur Xuanning-Fu erhoben und später in der Zeit des Shizu in Xuande-Fu umbenannt und der Shangdu-Straße unterstellt. Es ist das heutige Xuanhua-Fu in Zhili. Als Taizu es eroberte, war es noch keine Fu, daher sollte es nicht Fu genannt werden. Da Rashids Geschichte es als Xuanzhou bezeichnet, stand in der revidierten Geheimen Geschichte wahrscheinlich Zhou, aber der Verfasser des Qinzheng Lu schrieb Fu nach dem damaligen Sprachgebrauch. Auch im Original dieser Geheimen Geschichte muss es Zhou geheißen haben, aber die Übersetzer der Ming-Dynastie waren an den Namen Xuande-Fu gewöhnt und haben die Transliteration versehentlich falsch gemacht. Dexing-Fu war das Fengsheng Zhou der Liao-Dynastie. In der Jin-Zeit wurde es in Dexing-Fu umbenannt und der westlichen Hauptstraße unterstellt. In der Yuan-Zeit, unter Shizu, wurde es wieder Fengsheng Zhou und der Xuande-Fu unterstellt. Es ist das heutige Bao’an Zhou in Zhili. Der vierte Prinz ist der vierte kaiserliche Prinz Tolui. Yeke Noyan bedeutet „großer Beamter“ und ist der Titel des Tolui. Der kaiserliche Schwiegersohn Chiqu ist der Chigu Güregen aus Band 8.)
+
+Der Guiguinek Baatar (hieß) als Vorhut, und am Chabchiyal-Pass wurde er von der Chabchiyal-Sperre abgewehrt. (24 Qing-Li nordwestlich von Changping Zhou liegt der südliche Eingang von Juyong. 15 Qing-Li den Pass hinauf befindet sich die Passfestung. Weitere 8 Qing-Li ist der obere Pass. 17 Qing-Li vom oberen Pass entfernt liegt der Badaling-Pass von Yanqing Zhou. Auf dem Pass befindet sich eine Stadt. Die Yuan-Leute nannten ihn den nördlichen Eingang von Juyong. Das ist der Chabchiyal-Pass. Das Changping Shanshui Ji sagt: „Vom Badaling-Pass aus gesehen liegt der Juyong-Pass wie ein umgestürzter Krug oder ein enger Brunnen. Die Alten sagten, die Gefahr von Juyong liege nicht in der Passfestung, sondern im Badaling-Pass.“ Die Verteidigung der Jin-Leute wird im Qinzheng Lu beschrieben: „Zu dieser Zeit hatten die Jin-Leute die Berge ausgehoben und Mauern errichtet und alle Kräfte für die Verteidigung aufgeboten.“ In der Biographie des Zhaba’er Huozhe heißt es: „Die Jin-Leute verließen sich auf die Gefahr von Juyong, schmiedeten Eisen, um das Passtor zu verstärken, legten eiserne Fußangeln über hundert Li aus und bewachten es mit Elitetruppen.“)
+
+Da sprach er: „Lasst uns sie locken, damit sie kommen.“ Daraufhin kehrte er um. Die Krieger kamen, bis der Fluss überlief. Am Schnabel (der Bergnase) kehrte Jebe um. Sie stießen vor, und die Ankommenden wurden besiegt. Die Mitte der Armee, die Khitad (Khitai, d. h. die Kara Khitan, im Plural) und die Juin (der in Band 1 erwähnte Stamm), die Tapferen, wurden besiegt. Die Toten wurden bis zur Ankunft aufgeschichtet. (Im Qinzheng Lu heißt es nach „Im Jahr Guiyou eroberte der Kaiser es erneut“: „Daraufhin rückte die Armee bis Huailai vor. Der Marschall Gaoqi führte Truppen und kämpfte. Unsere Armee siegte, verfolgte sie bis zum nördlichen Eingang und besiegte sie vernichtend. Die Zahl der Toten war unermesslich.“ Vor „Marschall“ fehlt ein Zeichen. Im Yuan Shi Benji werden der Jin-Xingsheng Wanyan Gang und der Marschall Gaoqi genannt. Gaoqi ist der Shuhu Gaoqi aus dem Jin Shi. Zu dieser Zeit war der Oberbefehlshaber der Jin-Armee Wanyan Gang. In den Biographien von Wanyan Gang, Tudan Yi und Shuhu Gaoqi heißt es alle: „Gang führte die Provinzverwaltung in Jinshan und erlitt eine schwere Niederlage.“ Gaoqi war zu dieser Zeit der Verteidigungskommandant von Zhenzhou und hatte vorübergehend das Amt des Marschalls und rechten Aufsehers inne. Die Mongolen nannten ihn jedoch Marschall. Huailai war ein Kreis des Fengsheng Zhou der Liao-Dynastie, der Kreis Guichuan des Dexing-Fu der Jin-Dynastie, ein Kreis des Fengsheng Zhou der Xuande-Fu der Yuan-Dynastie, das heutige Huailai, Xuanhua-Fu, Zhili. Das Qinzheng Lu verwendet den Namen der Yuan-Zeit. Der nördliche Eingang ist der nördliche Eingang von Juyong. Jinshan war ein Kreis des Dexing-Fu der Jin-Dynastie, das heutige Yanqing Zhou, Xuanhua-Fu.)
+
+Er nahm den Pass, eroberte ihn, und Dschingis Khan stieg vom Pferd. (Shiladiek ist der chinesische Name Longhu Tai, westlich von Changping Zhou. Das Changping Shanshui Ji sagt: „Südlich des Juyong-Passes ist das Gelände hoch und flach wie eine Terrasse, zwei Li breit und drei Li lang. In der Yuan-Zeit, wenn der kaiserliche Wagen nach Shangdu reiste, machte er hier Halt.“ Das Jifu Tongzhi sagt: „Longhu Tai liegt 20 Li westlich von Changping Zhou. Alte Aufzeichnungen sagen, die Terrasse liegt 10 Li westlich der alten Kreisstadt, 100 Li von der Hauptstadt entfernt, gegenüber dem südlichen Eingang von Juyong.“ Diese Terrasse ist eine sogenannte Hochebene, nicht die Terrasse eines Gebäudes.)
+
+Er griff an. (Zhongdu ist das heutige Qing-Jing. Es wurde in der Liao-Dynastie Nanjing genannt, in der Jin-Dynastie Zhongdu, in der Yuan-Dynastie unter Shizu in Dadu umbenannt, zu Beginn der Ming-Dynastie Beiping, unter Chengzu in Peking umbenannt, und unter Shizu der Qing-Dynastie zur Hauptstadt bestimmt. Im Volksmund heißt es heute noch Peking. Im mongolischen Text steht Zhongdu, in der Wortübersetzung Dadu, in der Schriftübersetzung Beiping. Die Historiker der Hongwu-Ära verwendeten spätere Namen, um es nachträglich zu bezeichnen. Im Qinzheng Lu heißt es: „Daraufhin schickte er erneut 5.000 Elite-Reiter aus allen Stämmen, um sich mit den beiden Generälen Qutai und Hagu zu vereinen und Zhongdu zu belagern. Der Kaiser selbst führte Truppen, um die beiden Bezirke Zhuo und Yi anzugreifen, und eroberte sie noch am selben Tag.“ Qutai ist der Qutai der Uru’ut, Hagu ist der Qadai Güregen, der vierte von unten in der Liste der 88 Helden. Zhuo und Yi waren beide Bezirke der Zhongdu-Straße von Jin. Zhuo Zhou untersteht heute der Shuntian-Fu, Yi Zhou ist ein Zhili-Zhou von Zhili. Der Einzug der Mongolen in den Pass fand im Herbst des achten Jahres Guiyou von Taizu statt. Im Jin Shi, Xuanzong Ji, Zhenyou erstes Jahr (d. h. Taizu achtes Jahr), zehnter Monat, heißt es: „Die großen Yuan-Truppen eroberten Zhuo Zhou.“ Daher wurde Zhuo Zhou nicht im selben Monat wie der Einzug in den Pass eingenommen. Auch die Einnahme von zwei Bezirken am selben Tag erscheint zu schnell. In Rashids Geschichte heißt es: „Die Belagerung von Zhuo Zhou dauerte zwanzig Tage, bis es fiel.“ Daher könnte das Zeichen „sofort“ im Qinzheng Lu ein Schreibfehler sein.)
+
+Er schickte zu den Städten und sandte Jebe zu den Städten. Er griff die Städte an, kehrte um, ließ das Land unvorsichtig werden, dann erhob er sich, und mit der Hand nahm er Qarqoltun, in der Ming-Übersetzung „Menschen führten in der Nacht, als sie unvorsichtig waren, an einem Ort, Dongchang“. (Das heutige Dongchang-Fu in Shandong. Im Yuan Shi, Dili Zhi, heißt es: „Es war der Bo Zhou der Tang-Dynastie, gehörte in der Song-Dynastie zur östlichen Hebei-Straße, in der Jin-Dynastie zur Daming-Fu, zu Beginn der Yuan-Dynastie zur Dongping-Straße, im vierten Jahr Zhiyuan wurde es zur Bozhou-Straße, im dreizehnten Jahr in Dongchang-Straße umbenannt.“ Der Name Dongchang begann erst in der Zeit des Shizu der Yuan-Dynastie. Daher gab es diesen Namen nicht nur zur Zeit des Taizu, sondern auch die Historiker des Taizong hätten keinen Grund gehabt, diesen Namen zu schreiben. Daher muss das Zeichen Dongchang ein Fehler in der Transliteration der Ming-Historiker sein.
+
+Im Qinzheng Lu heißt es nach der Eroberung der Bezirke der westlichen Hauptstraße im Herbst des Xinwei (Taizu sechstes Jahr): „Er schickte auch Jebe mit Truppen, um Dongjing zu erobern. Jebe erkannte, dass es stark befestigt war und schwer mit einer großen Truppe einzunehmen war. Er zog sich 500 Li zurück. Die Jin-Leute dachten, unsere Armee sei bereits abgezogen, und trafen keine weiteren Vorkehrungen. Jebe befahl seiner Armee, ein Pferd an der Hand zu führen, und ritt in einem Tag und einer Nacht zurück, griff heftig an, plünderte es gründlich und kehrte zurück.“ Rashid sagt dasselbe. Daher stand in der revidierten Geheimen Geschichte Dongjing. Im Taizu Ji, am Ende des siebten Jahres Renshen, wird sogar das Datum angegeben: „Am Tag Jiashen des zwölften Monats griff Jebe Dongjing an, konnte es nicht einnehmen, zog sich sofort zurück, ritt in der Nacht zurück, überfiel es und eroberte es.“ In der Biographie des Wuyeer heißt es sogar noch früher, im fünften Jahr von Taizu: „Wuyeer und Zhebu Nayan eroberten das Jin-Dongjing und hatten Erfolg.“ Obwohl die Jahreszahlen nicht übereinstimmen, basieren alle darauf, dass es Dongjing war, auf dem Qinzheng Lu.
+
+Dennoch war derjenige, der Dongjing eroberte, nicht Jebe. In der Biographie des Yelü Ahai heißt es, dass Ahai, nachdem Jebe als Vorhut gedient hatte, von den Schlachten bei Wusha-Bao, Xuanping und Huihe-Fluss bis zur „Eroberung von Xuande, Dexing und anderen Bezirken, dem anschließenden Erreichen des nördlichen Eingangs und der Einnahme des Zijing-Passes“ stets mit Jebe zusammenarbeitete. Daher kämpfte Jebe stets an der Spitze der großen Armee. Wie hätte Jebe, so schnell wie ein Kriegspferd, die Zeit finden können, die Peking-Straße zu überqueren und direkt Dongjing anzugreifen?
+
+In der Biographie des Yelü Liuge heißt es: „Im Jahr Renshen (Taizu siebtes Jahr) befahl Taizu dem Alchi Noyan, mit der Armee nach Liaodong zu marschieren. Liuge führte seine Truppen und unterwarf sich ihm. Gemeinsam besiegten sie die Jin-Armee. Der Kaiser rief Alchi zurück und ließ Ke’tege als Stellvertreter von Liuge in diesem Gebiet stationieren. Im Frühling des Guiyou (achten Jahres) erhoben die Leute Liuge zum Liao-König.“ Diejenigen, die zuerst Liaodong befriedeten, waren Alchi Noyan und Ke’tege, nicht Jebe. Im achten Jahr Jiayin erhielt Muqali den Befehl, alle Truppen zu vereinen und Liaodong zu befrieden. Im neunten Jahr Yihai eroberte der Untergebene Xiao Yexian Dongjing mit einer List. Dies ist in der Biographie des Muqali zu sehen. Auch in der Biographie des Xiao Yexian, d. h. Shimö Yexian, wird ausführlich beschrieben, wie er Muqali als Vorhut folgte und mit einer List Dongjing zur Unterwerfung brachte. Daher waren Muqali und Yexian die Eroberer von Dongjing, nicht Jebe. Wenn Jebe es nicht war, dann war es weder Dongchang noch Dongjing. Wo war es dann?
+
+Unter den Bezirken der westlichen Hauptstraße, die im sechsten Jahr von Taizu erobert wurden, befand sich Dongsheng Zhou. Dieses Gebiet lag nordwestlich des Jin-Xijing, des heutigen Datong-Fu in Shanxi. Die Heldentat von Jebe fand wahrscheinlich dort statt. Denn im Original der Geheimen Geschichte stand wahrscheinlich Dongsheng, aber die Ming-Leute transliterierten es fälschlicherweise als Dongchang, ohne zu bedenken, dass es zu Beginn der Yuan-Dynastie kein Dongchang gab. Die revidierte Geheime Geschichte machte fälschlicherweise Dongjing daraus, und das Qinzheng Lu, die Sammlung der Geschichte und das Yuan Shi folgten alle dem, ohne zu bedenken, dass der Eroberer von Dongjing nicht Jebe war.)
+
+Nachdem er Dongchang eingenommen hatte, kam er und traf sich. (Nach dem Qinzheng Lu fand die Heldentat von Jebe im sechsten Jahr von Taizu statt, als die Bezirke der westlichen Hauptstraße erobert wurden. Daher traf er sich mit Taizu an einem Ort in der westlichen Hauptstraße.) Er wurde angegriffen. Der große Beamte Altan Khan sagte: „Die Zeit von Himmel und Erde hat sich geändert, es ist so weit gekommen. Sie sind sehr tapfer gekommen. Sie haben die Armee der Kara Khitad und der Juin vollständig ausgeraubt und sich darauf verlassen. Wenn sie jetzt wieder geordnet werden und wieder besiegt werden, dann werden sie in den Städten sein. Sie werden uns nicht gehorchen, sie werden Feinde sein. Wenn wir ihnen Gnade erweisen, werden sie sich jetzt unterwerfen.“ Sie berieten sich, zogen die Mongolen zurück, dachten erneut nach, beratschlagten. Die Wallache der Mongolen waren nicht versammelt. „Wenn sie ihre Töchter, Gold, Brokat und die schwere Last der Armee zu uns bringen, wird unser Plan bekannt werden.“ Altan Khan hielt dies für gut und sagte: „So soll es geschehen.“ Er sandte einen Boten mit einem Siegel zu Dschingis Khan, um es den Leuten mit Silber und Schätzen kundzutun. Von Zhongdu kam der Wangjing Chengxiang von Dschingis Khan. Er kam, sie traten ein, die angreifenden Krieger zogen sich zurück. Sie begleiteten ihn bis Mo Zhou, bis zu einem Ort mit Namen. Sie spannten Brokat und unsere Kräfte bis zum Äußersten an und trugen die Last. (Dies geschah im dritten Monat des neunten Jahres Jiayin von Taizu. Im Qinzheng Lu heißt es: „Im Jahr Jiayin lagerte der Kaiser nördlich von Zhongdu im Wangdian. Der Jin-Kanzler Gaoqi beriet mit seinem Herrn: ‚Ich höre, ihre Pferde und Leute sind krank und schwach. Wenn wir dies ausnutzen und eine Entscheidungsschlacht wagen, wäre das gut?‘ Der Kanzler Wanyan Fuxing sagte: ‚Nein. Unsere Armee ist in der Hauptstadt, aber ihre Familien leben in den verschiedenen Straßen. Ihre Loyalität ist ungewiss. Wenn wir verlieren, werden sie sich zerstreuen. Selbst wenn wir siegen, werden sie an ihre Frauen und Kinder denken und gehen. Das Schicksal der Ahnen und des Reiches hängt von dieser einen Handlung ab. Wir sollten sorgfältig darüber nachdenken. Jetzt ist es am besten, einen Gesandten zu schicken, um über Frieden zu verhandeln. Warten wir, bis ihr Herrscher mit seiner Armee zurückkehrt, und dann überlegen wir weiter. Wie wäre das?‘ Der Jin-Herrscher stimmte zu, schickte einen Gesandten, um Frieden zu bitten, und bot die Prinzessin des Weishao Wang an. Er ließ Fuxing kommen, um den Kaiser zu verabschieden. Sie kamen bis zum Yema-Teich und kehrten dann um.“ Der Kanzler Gaoqi war zu dieser Zeit laut der Biographie des Gaoqi im Jin Shi Pingzhang Zhengshi, nicht Kanzler. Das Jin-Mo Zhou gehörte zur östlichen Hebei-Straße und ist das heutige Renqiu, Hejian-Fu, Zhili. Es liegt nicht auf dem Weg von Zhongdu in die Mongolei, daher sind diese beiden Zeichen wahrscheinlich ein Fehler. Der Yema-Teich im Qinzheng Lu ist auch in den geographischen Aufzeichnungen nicht zu finden. Es ist wahrscheinlich kein Teichname, sondern ein Berg- oder Ortsname. Wenn man die Ortsnamen in den beiden Büchern untersucht, könnte Mo Zhou und Fuzhou vertauscht sein. Es könnte geheißen haben „die Spitze von Fuzhou, genannt Mo Zhou“, und dann wurde Mo Zhou fälschlicherweise als „Mo Zhou“ transliteriert, wobei das „Ye“ von Yema-Teich weggelassen wurde. Im Yuan Shi, Taizu Ji, heißt es: „Im neunten Jahr Jiayin, dritter Monat, lagerte der Kaiser im nördlichen Vorort von Zhongdu. (Der Jin-Herrscher) bat darum, den Sieg zu nutzen und Yan zu erobern, aber der Kaiser folgte nicht. Er schickte einen Gesandten, um dem Jin-Herrscher zu sagen: ‚Die Kreise und Bezirke von Shandong und Hebei gehören alle mir. Was dir bleibt, ist nur die Stadt Yanjing. Der Himmel hat dich bereits geschwächt. Wenn ich dich jetzt in die Enge treibe, was würde der Himmel dann von mir denken? Ich ziehe jetzt meine Armee zurück. Kannst du mein Heer nicht belohnen, um den Zorn meiner Generäle zu besänftigen?‘ Daraufhin schickte der Jin-Herrscher einen Gesandten, um Frieden zu bitten, und bot die Prinzessin des Weishao Wang, die Prinzessin von Qi, sowie Gold, Seide, 500 Kinder und 3000 Pferde als Tribut an. Er schickte auch seinen Kanzler Wanyan Fuxing, um den Kaiser aus Juyong zu geleiten.“ Dies basiert auf dem Qinzheng Lu und den Jin Shi Annalen und Biographien. Die Prinzessin von Qi wird im Jin Shi, Xuanzong Ji, als Prinzessin und Kaiserin bezeichnet. In Rashids Geschichte wird sie „Gunju Khatun“ genannt, wobei „Gunju“ eine Verballhornung von „Gongzhu“ (Prinzessin) ist.)
+
+So zog sich das Volk zurück. Als sie ankamen, wollte sich das Volk unterwerfen. „Sie sprechen von der rechten Kraft“, sagten sie und opferten sie Dschingis Khan. (Burkhan bedeutet in der mongolischen Sprache Gott oder Buddha, aber im Land der Tanguten wurde es als Titel für den Herrscher verwendet. Der Burkhan zu dieser Zeit war Li Anquan, der Zongzong von Xia, der jüngere Cousin von Li Chunyou, der im ersten Jahr von Taizu Li Chunyou absetzte und sich selbst zum Herrscher machte. Chagha wird im Qinzheng Lu, in der Sammlung der Geschichte und im Yuan Shi alle weggelassen. In der Tabelle der Kaiserinnen, dritter Ordo, könnte die Kaiserin Cha’er ein Fehler für Chagha sein. Dennoch erwähnt Rashid eine Khatun aus Tangut, deren Name unbekannt ist, und fügt in einer Anmerkung hinzu: „Sukhad wünschte sie zu erhalten, und Dschingis Khan schenkte sie ihm.“ Da sie in der Liste der Kaiserinnen fehlt, wurde sie wahrscheinlich nicht in die Tabelle aufgenommen.)
+
+Wir fürchteten die Stimme des Burqan des Dschingis Khan. Ihr, die ihr mit eurer mächtigen Erscheinung gekommen seid, wir fürchteten uns. Wir, das Volk, haben unsere rechte Kraft dargeboten. Wenn wir geben, sind wir solche, die kommen. Wenn die Zeit der scharfen Schlacht des Auszugs kommt, können wir nicht nachsetzen. Wir sind es, die kämpfen. Wenn du uns Gnade erweist, dann lass die hohen Kamele des Tangut, die langen Gräser des Delesün, uns begleiten. Wir haben die Stücke, die Gaben, die Falken, die wir sammeln, die Guten, dargebracht. Mit diesen Worten haben sie die Kamele der Tangut getrieben und dargebracht.
+
+Als sie zum Feldzug auszogen, unterwarfen sie das Volk und nahmen die vielen Stücke des Burqan von Qashin. Sie kehrten um zu den Schafen, die ausgezogen waren, zu Aqutai von den Kitad und zu Altan Khan, zu Yilqu Burqan von den Tangut, und stiegen ab. Später, an dem Ort, den sie zum Oberhaupt gemacht hatten, wurden sie von vielen Kitad, von Aqutai, behindert, und sie zogen aus zu dem Ort der Hunde-Kitad.
+
+Dschingis Khan sprach: „Wie soll ich einen Boten senden? Ich habe erfahren, dass Jebe sich zum Mund vordrängt. Ich ließ Qada und drei andere führen und sprach: ‚Sperrt den Tongguan-Pass, kämpft nicht, schickt das Heer von Yilei Gobogetür nicht. Sie kamen in das Land der Kitad am Mund.‘ Yilei Gobogetür stand auf, Yilei bewegte sich. Chügü Güregen erreichte von der Seite her Qula'an Degelein, besiegte Qada, tötete die Kitad wie morsches Holz. Altan Khan wollte aus Zhongdu fliehen, die in der Stadt zurückgebliebenen Krieger starben, sie fraßen das Fleisch ihrer eigenen Leute. Tolui und die beiden waren an dem Ort. Dschingis Khan ließ Chügü Güregen niedersteigen. Jebe kam mit dem Heer zum Pass von Chabchiyal und traf sich auf der Ebene von Shira Ke'er. Dschingis Khan vertraute Qada von Zhongdu an und ließ Önggür, Arqai Qasar und drei andere sagen: ‚Qada soll empfangen.‘ Sie nahmen das gemusterte Tuch und gingen ihm entgegen. Qada sprach: ‚Zhongdu gehörte einst Altan Khan. Wie kann ich die Stücke des Dschingis Khan weggeben? Ich habe gesagt, ich würde nicht nehmen.‘ Die beiden Köche und die drei zählten die Dinge. Dschingis Khan fragte: ‚Was ist?‘ Sie sprachen: ‚Das gemusterte Tuch soll gegeben werden.‘ Er sprach: ‚Zhongdu ist jetzt dein Rücken, Dschingis Khan. Wie kannst du?‘ Ich, Önggür, und die beiden sagten, sie hätten gegeben. Er tadelte Önggür und die beiden. Er dachte nach, sprach, gewährte Gnade und sagte: ‚Du wirst mein Ohr sein.‘ Altan Khan trat ein, unterwarf sich, mit Tenggeri und dem Sohn als Gefolgsleuten. Dschingis Khan sprach zu ihnen an dem Ort: ‚Zieht euch zurück von Chabchiyal.‘ Qasar folgte mit dem Heer. Zur Zeit sprach er: ‚Unterwerft die Stadt, Beijing der Jurchet, geht vorbei, schlagt Fughanu. Geht an ihm vorbei, verlasst den Nau-Fluss, steigt aufwärts, überquert, kommt zur Versammlung.‘ Er befahl Qasar und den Beamten, Alchi und drei andere. Qasar unterwarf die Stadt der Jurchet. Qasar stieg aufwärts und kam zum großen Lager.
+
+Dann, als Sarta'ul Uquna hundert gefangen hielt, ließ Dschingis Khan die goldenen Sarta'ul abschneiden. Yesui Qatun machte einen Vorschlag. Der Khan überschritt, durchquerte, zog aus, dachte: ‚Von den Geborenen gibt es kein Leben. Wenn du dich neigst und gehst, vertraue ich dir das Volk an. Wenn du fällst und gehst, vertraue ich dir das Volk an.‘ Die vier Söhne, wen? Den Söhnen, dem Volk, den Geringen, die sich um das Herz gekümmert hatten, dem heiligen Befehl, dem Kaiser, der Reihe nach, fern, wenn nicht, die vier Söhne, er befahl, den Leuten sprachen sie zu.
+
+Der Befehl war: ‚Auch wenn es ein Mensch ist, die Worte sind gut. Ihr Brüder, auch ihr, Muqali, habt keinen Vorschlag gemacht. Die fernen Vorfahren, die große Tat, ohne sie zu erben, ohne den Tod zu erlangen, sprach er: ‚Der Sohn ist Jochi.‘ Er sprach: ‚Sag es.‘ Jochi trat hervor. Chaghadai sprach zu Jochi: ‚Ich will dir vertrauen. Lass mich wissen von den Merkit.‘ Jochi sprach: ‚Chaghadai hat gesagt: ‚Teile aus, du hast ausgewählt. Welche Geschicklichkeit, welche Vortrefflichkeit, nur darin bist du vortrefflich. Mit dem Fernpfeil schießen, mit dem Daumen brechen, im Kampf fallen, am Boden, lass es den Khan, den Vater, wissen.‘ Jochi und die beiden packten sich, zur Zeit zogen sie die Hände, zur Zeit hörten sie, er war da.
+
+Dort stand Chaghadai zur Linken, erschrocken, du gabst deinen Söhnen, dir. Der geborene Stern, der Himmel, war in Bewegung. Er kehrte sich um, die Lagerstatt betrat er, streifte, traf sich. Das Volk war da. Auch nicht, zur Zeit, wenn man nach draußen geht, wurde es so. Wenn man nach draußen geht, wurde es so. Die weise Mutter, löse das Herz der Pferdemilch, du. Aus dem Bauch, ihr. Aus der Hülle, allein, die Nachgeburt, ihr. Wenn die Mutter, der Sänger, den Zorn stillt, den geborenen Groll, nur ihn, Chaghadai, warum zeigst du auf dich? Eure Geburt, der Himmel unter, einander, die Menschen, um sie zu beruhigen, die weise Mutter, wurde, wenn so, wie sollte dein Reich der ihrigen aufgerichtet werden? Das schwarze Blut in den Ledereimer füllend, auch das flache Ohr, das Kissen, den Ärmel, den Kragen, den Speichel, das Getränk, das zwischen den Zähnen steckende Fleisch, bis der Schweiß kam, bis der Schweiß kam, zur Zeit der Vorsicht,
+
+Die Mutter, mit Mühe, fest, den Haarknoten fest, den Körper fest, zur Erziehung, die Hälfte gebend, allen gebend, euch, den Männern, gleich, euch, den Menschen, gleich, sprach, die weise Qatun, die Klare, die Weite, saß.
+
+Darauf sprach er: ‚Ist es nicht gesagt, mein älterer Bruder? Es gab keinen Befehl.‘
+
+Dieser Chaghadai sprach: ‚Die kraftvolle Antwort ist mit dem Mund getötet, mit dem Wort gestorben, die Söhne Jochi und die beiden. Sie gehen nebeneinander, ich werde geben. Das Genommene, ich werde treffen. Das Geschnittene, ich werde Ögedei allein treffen. Ich werde Ögedei treffen. Der Khan, der Vater, sitzt, die Pelzmütze, wird gut sein.‘ Auf diese Worte sprach er: ‚Was sagst du?‘ Jochi und Chaghadai sprachen. Wir, dem Khan, dem Vater, die Kraft, wir werden Ögedei treffen. Der Befehl war:
+
+‚Was soll sein? Die beiden, das Land, ist weit. Das Wasser soll geteilt werden, weit, beruhigen.‘ Er sprach: ‚Stimme Chaghadai zu. Lass die Leute nicht lachen. Altan und die beiden stimmten diesen Worten zu. Wegen der Worte, was jetzt? Quchar, von den Nachkommen an, gemeinsam, wenn sie sehen, wie könnt ihr?‘ Ögedei sprach. Er befahl. Er sprach:
+
+‚Obwohl du Gnade gewährst und sprichst, ich will sagen, wie kann ich nicht können? Ich will mich hüten. In der fernen Zukunft, mein grünes Gras, in der Hülle, die Rinder fressend, das Fett, in der Hülle, die Hunde fressend, geboren, wie der Hirsch, wenn er geht, nur in der Nachwelt, untüchtig, wie kann ich?‘ Auf diese Worte war der Befehl: ‚Die Worte sind gut.‘ Und wieder: ‚Was sagst du?‘ Tolui: Ich, der Genannte, vorher, vergessen, das Herz angehängt, der Genommene, der Zustimmende, der rote Pferd, die Peitsche werdend, von der Reihe, nicht fehlend, zum Feldzug ausziehend,
+
+Wenn er die heftige Schlacht schlägt und spricht, ist es gut. Qasar allein, lass ihn wissen, die Nachkommen, lass sie wissen, die Nachkommen, lass sie wissen, die Nachkommen, lass sie wissen. So, mir allein, mir besonders, wenn nicht zerstört, nicht verloren, Ögedeis grünes Gras, in der Hülle, wenn nicht gefressen, den Hunden, wenn geboren, wird nicht einer von den Nachkommen geboren werden?‘ Dschingis Khan hatte zu den Boten des Burqan der Tangut gesagt: ‚Deine Hand.‘ Die goldenen Sarta'ul wurden abgeschnitten, sie zogen aus. ‚Zieht zur Rechten aus.‘ Er sandte sie. Asha Gambu sprach, indem er die Kraft in sich machte, fügte nichts hinzu, sandte die Worte. Dort sprach er: ‚Es wurde gesagt, und sie, sogleich, zeigend, was für ein besonderer Mensch, der sich zur Zeit wendet. Die Sache. Dem Gott, das Goldene, das Feste, wenn es kommt, dort, vollende es.‘ Er befahl.
+
+Im Jahr überschritt Dschingis Khan den Alai des Volkes, ließ Qulan Qatun vorrücken, ließ Ötchigin Noyan als Rückhalt zurück und sandte Jebe. Er sandte sie als Nachhut. Er sandte sie als Nachhut. Bei diesem Senden sprach er: ‚Geht und umzingelt uns von jenseits.‘ Er sandte sie. Sie gingen, bewegten die Städte nicht, gingen vorbei. Auch Sübe'etei ging auf diese Weise vorbei.
+
+Dieser Toquchar griff die Seite an, und da Qamalik sagte, das Feldgetreide sei angegriffen worden, bewegte er sich und traf sich.
+
+Khanmelik (Khanmelik) – Dschingis Khan zog aus.
+
+Früher, mit Schigi Qutuqu als Vorhut, besiegte Dschalal ad-Din Sultan beide, und der Ort siegte. Dschäbä und Toquchar, Dschalal ad-Din Sultan, beide drangen ein, töteten sie, ließen sie nicht zur Stadt Semiskab kommen, trieben sie zum Sind-Fluss und sie gingen in den Sind-Fluss hinein. Die Sarta’ul wurden dort vernichtet. Khanmelik entkam mit dem Leben zum Sind-Fluss. (Zu dieser Zeit war es Dschingis Khan selbst, der Dschalal ad-Din verfolgte. Dschäbä und Sübe'etei, nachdem Muhammad gestorben und Dschalal ad-Din nach Süden geflohen war, fielen in die Länder westlich des Irak ein und drangen schließlich in das Land der Qipčaq ein; sie nahmen nicht an der Schlacht am Sind-Fluss teil. Daher ist es ein großer Fehler, die beiden Generäle hier zu erwähnen. Die drei Städte Buchara usw. werden später kommentiert. Der Sind-Fluss ist der Indus des Tang Xiyu ji, der heutige Indus. „Sind“ ist die Abkürzung von „Sindhu“, „Müren“ ist das mongolische Wort für „Fluss“. Im Qinzheng lu wird der Fluss „Xin Zisu“ genannt; „Zisu“ ist ein Fehler für „Mülian“. Der Qinzheng lu sagt: „Der Kaiser selbst führte die Elitetruppe von Taliqan an, griff sie an, verfolgte sie bis zum Xin Zisu-Fluss, ergriff den Melik Khan, tötete seine Menge. Dschalal ad-Din entkam in den Fluss, schwamm hinüber und floh.“ Die Yuanshi sagt: „Der Kaiser führte selbst die Truppen an, griff sie an, ergriff den Melik Khan. Dschalal ad-Din floh.“ Der Flussname wird nicht genannt, was wie üblich zu knapp ist.
+
+In der Jami' at-Tawarikh des Raschid ad-Din heißt es: „Nachdem Schigi Qutuqu besiegt zurückgekehrt war, führte Dschingis Khan selbst die Armee aus Taliqan an, eilte den Weg entlang, kochte kein Essen, kaute unterwegs Reis, erreichte das Schlachtfeld von Parwan, fragte nach den Stellungen von Feind und Freund, tadelte, dass der Ort nicht gut gewählt worden sei, und als er Ghazni erreichte, war Dschalal ad-Din bereits fünfzehn Tage zuvor abgereist. Er ließ einen General zurück, um die Stadt zu bewachen, und verfolgte ihn schnell. Dschalal ad-Din hatte bereits Boote vorbereitet und wollte am nächsten Tag den Indus überqueren. Dschingis Khan ritt in der Nacht schnell, holte ihn im Morgengrauen ein und umzingelte ihn. Er wollte Dschalal ad-Din lebend fangen und befahl den Soldaten, keine Pfeile abzuschießen. Er ließ die beiden Generäle Uqur Guldscha und Qudus Guldscha die feindliche Nachhut abschneiden. (Qudus Guldscha ist wahrscheinlich Qudus Qaldschan aus dem Qongirat, der in der Geheimen Geschichte, Band 7 und 8, erscheint.) Die feindlichen Truppen zogen sich allmählich zum Fluss zurück, und die beiden Generäle griffen ihren rechten Flügel heftig an und töteten Khanmelik. Dschalal ad-Din führte das Zentrum an, kämpfte vom Morgen bis zum Mittag; der linke und rechte Flügel wurden beide zerschlagen, das Zentrum zählte nur noch siebenhundert Mann. Er stieß nach rechts und links vor. Da die gesamte Armee auf Befehl keine Pfeile abschoss, durchbrach Dschalal ad-Din die Einschließung, warf seinen Brustpanzer ab, ließ sein Pferd (nach D'Ohsson, von einer zwei Zhang hohen Klippe) in den Indus springen, trug einen Schild auf dem Rücken, hielt die Fahne und schwamm davon. Dschingis Khan war beeindruckt, sah seine Söhne an und sagte: ‚Jeder sollte so sein.‘“ Diese Schlacht ist die Fortsetzung der Schlacht von Parwan. Der Qinzheng lu, die Yuanshi und die Jami' at-Tawarikh datieren sie alle auf das Jahr Renwu, aber Howorth setzt sie auf den Herbst des Jahres 1221 (Xinsi), D'Ohsson auf den Winter desselben Jahres. Da alle östlichen und westlichen Geschichtsschreiber sagen, dass Khanmelik in dieser Schlacht getötet wurde, ist es wahrscheinlich ein Fehler, dass er mit Dschalal ad-Din entkommen sein soll.)
+
+Sie gingen zum Sind-Fluss, plünderten, erreichten den Mutterfluss, stiegen ab (der Name Badachschan wird in der Yuan-Dynastie als Badakshan geschrieben. Das Land liegt am Oberlauf des Amu Darya, nicht am Oberlauf des Indus. Die Eroberung von Badakhshan erfolgte nach D'Ohsson im Herbst 1220 nach der Einnahme von Termez und vor der Überquerung des Amu Darya. Wenn Badachschan hier gemeint ist, ist die zeitliche Einordnung falsch. Der Mutterfluss ist das mongolische „Gü’ün γoroqan“, eine Übersetzung des lokalen Namens ins Mongolische. Die Ming-Übersetzung fasste die beiden Flüsse als „Mutter-Tochter-Fluss“ zusammen, was ein Fehler ist, weil sie „Gü’ün“ (Stute) mit „Gü’ün“ (Kind) verwechselte. Der Qinzheng lu hat „Kewen-Zhai“, die Jami' at-Tawarikh hat „Gü’ün Küregen“; beides sind Fehler für „Gü’ün γoroqan“. Im Mongolischen heißt eine Festung (Zhai) „Küregen“, was dem „γoroqan“ (Fluss) klanglich ähnlich ist, daher wurde der Fluss fälschlich als Festung aufgefasst.
+
+Die Parwan-Ebene wird im Qinzheng lu und in der Yuanshi als „Baluwan-Fluss“ und in der Jami' at-Tawarikh als „Parwan“ bezeichnet; es ist der Ort, an dem Schigi Qutuqu besiegt wurde. Noch heute gibt es zwischen Kabul und dem Tal von Andarab im hohen Hindukusch eine Parwan-Schlucht. Dort gibt es auch einen gleichnamigen Fluss und eine kleine Stadt. Der Missionar Goes kam 1603 auf dem Weg von Kabul nach Badakhshan dort vorbei. Der Geograph Ibn Khordadbeh aus dem 9. Jahrhundert zählte Parwan bereits zu den Orten, die zu Bamiyan gehörten. Sultan Babur schrieb in seinen Aufzeichnungen: „Die Parwan-Schlucht ist sehr gefährlich; zwischen ihr und dem großen Tal gibt es sieben kleine Schluchten.“ Er sagte auch: „Der Wind, der im Sommer in Kabul weht, wird Parwan-Wind genannt.“)
+
+Bala wurde geschickt, um Khanmelik zu verfolgen. Dschäbä und die beiden (anderen) wurden belohnt: „Du, der du dich von den Taichu’ut in Dschäbä verwandelt hast, und Toquchar, der du dich an deinem eigenen (Ort) an der Grenze verfehlt hast, sollst Khanmelik nach dem Gesetz hinrichten lassen.“ Nachdem dies beendet war, ließ er ihn nicht hinrichten, sondern bestrafte ihn, belegte die Armee mit einer schweren Strafe, nur eine schwere Bestrafung, und erließ der Armee die Strafe. Zur Zeit des Sommerlagers in der Parwan-Ebene waren Dschäbä und Sübe'etei bereits über den Kaukasus nach Europa eingedrungen. Daher bezieht sich diese Belohnung und Bestrafung durch Dschingis Khan nicht auf die Zeit dieses Sommerlagers, sondern auf den Sommer des Jahres 1220 (Gengchen), als die drei Generäle nacheinander an der Stadt Khanmeliks vorbeizogen und Toquchars Gewalttätigkeit von Khanmelik gemeldet wurde. Daraufhin wurde Toquchar vom Kommando entbunden, und nur die beiden Generäle Dschäbä und Sübe'etei zogen nach Westen weiter.
+
+Raschid ad-Din sagt, Toquchar sei damals von den Bergbewohnern von Georgien getötet worden. D'Ohsson sagt, er sei als Vorhut von Tolui vor Nischapur gefallen. Beides sind wahrscheinlich Ger
+
+## Zwoelftes Kapitel {#kapitel-012 .chapter-heading .centered}
+
+Daraufhin sandte er Dschötschi, Ögedei und die anderen Prinzen von der Baruan-Ebene aus mit einem großen Heer über den Fluss gegen die Stadt Schiro. („Von der Baruan-Ebene aus umgehen“ heißt es – dies widerspricht der Reihenfolge der Erzählung. Die Entsendung der drei Prinzen wurde befohlen, als der Herrscher, nachdem er Dschalal ad-Din verfolgt und nach Süden gezogen war, im Frühjahr des Jahres庚辰 [1220] Samarkand eingenommen hatte und sich im Herbst jenes Jahres am Sommerlager des Sultans aufhielt. Das Qin zheng lu setzt庚辰 fälschlich auf das folgende Jahr辛巳 [1221] und sagt: „In diesem Sommer lagerte der Herrscher im Westen am Ort, wo der Sultan die Sommerhitze verbrachte. Er befahl Quduqu Noyan, die Vorhut zu bilden. Im Herbst entsandte er den ersten, zweiten und dritten Prinzen mit dem linken Heer, um die Stadt Ürgenj zu erobern.“ „Linkes Heer“ ist ein Fehler für „Rechtes Heer“. Auch in der Dschami' at-tawarich steht „Rechtes Heer“.)
+
+Die Städte, beginnend mit Ilu, sandte er aus. (Ilu und Isfara sind zwei der vier großen Städte von Chorasan im Mittelalter. Die anderen beiden sind Balch und Merw. Ilu wird im Qin zheng lu als Yeli oder Yeli geschrieben, in den Annalen des Yuan shi als Yeli, in Wu Gu-suns Bericht aus dem Norden als Yili oder Yili. Es ist das heutige Herat. Im Altertum hieß es Aria, im Mittelalter Hari oder Heri. Auf der katalanischen Karte von 1375, die Yule's „Cathay and the Way Thither“ beigefügt ist, erscheint es als Heri, auf Yules Karte der nestorianischen Bistümer wird es als Hara gelesen. Das Ming shi, Kapitel über die Westlande, sagt: „Hali, auch Helu genannt, liegt 3000 li südwestlich von Samarkand und 12.000 li von Jiayuguan entfernt. Es ist ein großes Reich im Westen. Der kaiserliche Schwiegersohn Timur, der Samarkand beherrschte, sandte seinen Sohn Schah Ruch, um Hali zu besetzen.“ Dies ist dieser Ort.
+
+Isfara, korrekt Nischapur oder Nischapur, wird im Qin zheng lu als Nishawar oder Nischawar geschrieben, in den Annalen des Yuan shi als Nichawar, in der Geographie als Naishabur, in der Biographie des Bartschuq Art Tegin als Nischaburi, in Chang Des Bericht aus dem Westen als Nashang. Die Schreibung Nischabur in der Biographie des Qosimai ist lautlich am korrektesten, stimmt mit den muslimischen Aufzeichnungen überein, und auch Naishabur in der Geographie kommt Naisabur bei Abu l-Fida nahe. Da Abu l-Fida jedoch sagt: „Die Perser nennen es Nischawar“, ist die Schreibung mit „u“ in den verschiedenen Büchern nicht falsch. Nischapur ist ein alter Ort, der zusammen mit Aria erschlossen wurde. In den alten griechisch-römischen Schriften heißt es Nisaia, in den alten avestischen Schriften Nisaya. Die arabisch-persischen Geschichtsschreiber sagen: „König Schapur aus der Sassaniden-Dynastie gründete es und gab ihm seinen Namen.“ Dies dürfte jedoch eine erfundene Erklärung sein. Die Schreibung Ilu Isfara in diesem Buch mag aus der mongolischen Gewohnheit der Alliteration entstanden sein. Was diese Entsendung betrifft, so sagt das Qin zheng lu unter dem Herbst des Jahres辛巳 [1221]: „Der Herrscher rückte vor und überschritt das Eiserne Tor“, und dann: „Der vierte Prinz griff die Städte Yeli, Nishawar und andere an.“ Raschid ad-Din sagt: „Im Herbst des Schlangenjahres brach er von Samarkand auf, zog mit Tolui Khan nach Naschaf, überschritt Timur Qalgha (das Eiserne Tor) und sandte Tolui Khan aus, um Chorasan zu unterwerfen.“ Beide setzen dies auf das Jahr辛巳 [1221], aber nach D'Ohsson ist es der Herbst des Jahres 1220 [庚辰].)
+
+Als er selbst die Prinzen Dschötschi, Ögedei und die anderen zu den Städten sandte, sprach er: „Die Heere sind bei Ürgenj angelangt. Nach wessen Wort sollen sie handeln?“ Sie meldeten es, und Dschingis Khan befahl durch Ögedei: „Dschingis Khan wird sich von der Stadt Udurar bewegen, von der Stadt Semiskab bewegen, Dschingis Khan wird in der Stadt warten.“ (Dieser Satz ist ein äußerst unpassender Einschub. Die Einnahme von Samarkand und der Sommeraufenthalt dort waren im Sommer des Jahres庚辰 [1220]. Der Sommeraufenthalt in der Baruan-Ebene und das Warten auf Bala waren im Sommer des Jahres壬午 [1222].)
+
+Er verbrachte den Sommer in der Festung des Sultans. (Die goldene Festung ist ... „Toluis Gesandter soll in einem anderen Jahr absteigen. Lasst uns zusammentreffen!“ So sandte er sie aus. Da nahmen sie Ilu und andere, brachen die Stadt Dschuktscheren, und zur Zeit, als Tolui das Wort sprach, kehrte er von der Stadt zurück und traf sich mit ihnen. (Das Qin zheng lu sagt: „Der Herrscher rückte vor und überschritt das Eiserne Tor. Er sandte den vierten Prinzen aus, um die Städte Yeli, Nishawar und andere anzugreifen. Der Herrscher selbst eroberte die Stadt Termiz, brach die Stadt Balch, belagerte die Festung Talekan. Im Winter eroberte der vierte Prinz die Städte Merw, Merw-i Schahidschan, Serachs und andere und rückte weiter vor. Im Frühjahr壬午 [1222] eroberte er die Städte Tus, Nischapur und andere. Da die Hitze stark wurde, sandte der Herrscher einen Boten, um den vierten Prinzen schnell zurückzurufen. Er durchzog das Land der Mulahida und plünderte es, überschritt den Fluss Dschudschuran und eroberte die Stadt Yeli und andere. Der Herrscher belagerte die Festung Talekan. Nach der Audienz vereinigten sie die Heere und griffen sie an.“ Raschid ad-Din sagt: „Im Herbst des Schlangenjahres überschritt Dschingis Khan Timur Qalgha, sandte Tolui Khan aus, um Chorasan zu unterwerfen, eroberte selbst Termiz, gelangte nach Saman, sandte Truppen aus, um Badachschan einzunehmen, überschritt den Dschihun, und im folgenden Frühjahr metzelte er Balch nieder, nahm die Festung Talekan ein, griff auch Nusratkuh an, aber es fiel sieben Monate lang nicht. Tolui Khan zog über den Weg von Merw-i Rud, nahm Merw ein, gelangte nach Nischapur, nahm Serachs, Nisa, Tus, Dschadscharm und andere ein und eroberte Nischapur. Dschingis Khan sandte von Talekan aus zu Tolui Khan und ließ ihm sagen, er solle vor der großen Hitze zurückkehren. Tolui Khan zog durch Kuhistan, überschritt den Fluss Kumidscharm, nahm Herat ein, kehrte zurück, erschien vor Dschingis Khan, vereinigte die Heere und eroberte die starke Festung Talekan. In diesem Sommer lagerte das gesamte Heer in Talekan.“ D'Ohsson sagt: „Im Herbst des Jahres 1220 eroberte Dschingis Khan Termiz, gelangte nach Saman, sandte Truppen aus, um Badachschan einzunehmen, und sandte Tolui aus, um Chorasan zu unterwerfen. Im Frühjahr des Jahres 1221 überschritt er den Dschihun, metzelte Balch nieder, drang in das Bergland von Talekan ein und griff die Festung Nusratkuh an. Diese Festung hatte er zuvor durch einen Feldherrn angreifen lassen, aber sie war sechs Monate lang nicht gefallen. Nun kam das große Heer und eroberte sie. In diesem Sommer hielt er sich in Talekan auf. Tolui zog mit Toghatschar als Vorhut in Chorasan ein. Toghatschar metzelte Nisa nieder und fiel im November 1220 bei der Belagerung von Nischapur. Im Februar 1221 nahm Tolui Andchui ein, metzelte Merw-i Schahidschan nieder, ließ das Grab des seldschukischen Sultans Sandjar öffnen, beschoss Nischapur und metzelte seine Bewohner nieder, sandte eine andere Abteilung aus, um das Grab des Kalifen Harun ar-Raschid in der Nähe von Tus zu zerstören, Tolui verwüstete Kuhistan, eroberte Herat und zog nach Talekan, um seinen Vater zu treffen.“)
+
+Die drei Prinzen Tschagatai und die anderen unterwarfen Ürgenj, teilten die Stadt und sandten nichts an Dschingis Khan. (Raschid ad-Din sagt: „Ögedei wurde befohlen, das Heer zu befehligen, und er versöhnte die beiden älteren Brüder. Daraufhin wurde das Heer wieder stark, sie vereinigten ihre Kräfte und eroberten die Stadt. Sie teilten die Bevölkerung unter den Soldaten auf, und jeder erhielt vierundzwanzig Personen.“ Es wird nicht gesagt, dass sie dem Herrscher nichts von der Bevölkerung abgaben.) Als diese Prinzen kamen,
+
+meldeten Dschötschi, Ögedei und die anderen Prinzen, nach drei Tagen, Bordschu, Schigi Qutuqu (dass Schigi Qutuqu im Heer war, ist unbestritten. Bordschu erscheint nicht außerhalb, aber im Xi you ji heißt es: „Am 15. Tag des dritten Monats壬午 [1222] brach Changchun von Samarkand auf, am 18. Tag passierte er die Stadt Keshi. Da wurde ein kaiserlicher Erlass überbracht, der befahl, dass der Myriarch Bolu zhi mit tausend mongolischen und uigurischen Soldaten den Geleitschutz übernehmen und das Eiserne Tor überschreiten solle.“ Bolu zhi ist Bordschu. Nur Muchali hatte im achten Monat des zwölften Jahres des Herrschers den Befehl zur Verwaltung südlich des Taihang-Gebirges erhalten, war im dreizehnten Jahr nach Hedong eingedrungen, hatte im vierzehnten Jahr in Hedong gekämpft, im fünfzehnten Jahr Hebei befriedet, im sechzehnten Jahr nach Hexi eingedrungen, im siebzehnten Jahr Fengxiang belagert und war im achtzehnten Jahr gestorben. Er nahm nicht am Westfeldzug teil. Daher ist es ein Fehler, ihn hier hinzuzufügen.) und sprachen: „Wir haben den Sultan der Sartulen und sein Volk. Die gesamte Teilung und Einnahme von Ürgenj haben wir mit der Kraft des Himmels vollbracht. Die Männer freuen sich. Wenn der Khan zürnt, mögen die Prinzen erkennen, was danach zu tun ist. Wenn nicht, möge er uns gnädig sein und unser Verhalten belohnen.“ Da beruhigte sich Dschingis Khan,
+
+ließ die drei Prinzen Tschagatai und die anderen vor sich kommen, zog die alten Worte der Orqut hervor, ließ die Stirn auf den Boden schlagen, brachte Schweiß hervor, und gemäß der Belehrung sprachen die anwesenden Qongqai Qorchi und Schormaqan Qorchi, diese Pfeilträger: „Die Prinzen, die wie Falken eingedrungen sind, wie sollen die Prinzen, die den Feldzug durchführen, wie diese Prinzen das Herz von Ort zu Ort gegen die Feinde richten? Wenn wir die Hunde aussenden, werden die Völker mit der Kraft des Himmels zu dir kommen mit Gold, Stücken, Völkern.“ (Töbödüt ist der Plural von Töböd. Die Ming-Übersetzung sagt „Westliche Barbaren“. Töböd ist das Tubo der Tang-Geschichte, das heutige Tibet. Tubo ist eine phonetische Übersetzung von Töböd. Die Geschichten der Song, Liao, Jin und Yuan verwenden alle die Zeichen Tubo oder Tubo. Im Liao shi, Annalen des Xingzong, heißt es im 17. Jahr der Chongxi-Ära: „Das Reich Tie bude schickte einen Gesandten und bat, mit seinen eigenen Truppen beim Angriff auf das Xia-Reich helfen zu dürfen. Es wurde nicht erlaubt.“ Dies erscheint an drei Stellen: in den Annalen, im Kapitel über das Militär und in der Tabelle der Vasallenstaaten. Dieses Tie bude ist eine Ableitung von Töböd. Auch der im Daozong-Kapitel erscheinende Chen-Prinz Tu bote und die im Youxing biao erscheinende Quelle Tu bude wurden in der Palastausgabe alle in Tubote geändert. Ob der Name des Reiches für den Namen eines Menschen oder einer Quelle verwendet wurde, ist unklar. In der Karte des Jingshi dadian steht Tubote, was dem heutigen Klang völlig entspricht. Rubruk und Marco Polo sagen Tebet, Raschid ad-Din sagt Tubbat. Ibn Khurdadhbih, al-Mas'udi und die meisten arabischen Geographen sagen Tibbat, daher ist es heute unter diesem Namen bekannt. Aber die Bewohner dieses Landes haben den Namen Töböd vergessen und nennen sich heute das Reich Böde. Die Hunde von Töbödüt sind ein Gleichnis der Mongolen für das Kräftige und Wilde. Dass es in Tibet große, wilde Hunde von der Größe eines Esels gibt, die Wildstiere fangen und mit Leoparden kämpfen, ist in Kapitel 46 von Yules Marco Polo und den dazugehörigen Anmerkungen zu sehen.)
+
+Als er dies sagte, sprach er: „Im Westen gibt es Völker, von denen gesagt wird. Ich werde an diesen Ort ausziehen.“ Der Khan beruhigte sich mit Worten, billigte es und ließ Qongqai und Schormaqan, die Pfeilträger, und die beiden von den Adargin und Dolongir vor sich bleiben.
+
+Schormaqan sandte er aus zum Feldzug gegen die Völker und den Qalib Sultan. (Der Stamm Dolongir erscheint hier zum ersten Mal. Im Qin zheng lu und im Yuan shi wird nach der Schlacht der Dreizehn Heere erwähnt, dass der Stamm Dolangji sich unterwarf. Das ist Dolongir. Raschid ad-Din sagt, Dolangji sei ein Zweig der Dschalair und einer der zehn Stämme der Dschalair. Die Aufteilung in Dolangji und Dschalair im Yuan shi ist falsch. Der Stamm Ötegdei erscheint außerhalb nicht. Im Chuo geng lu, unter den 72 mongolischen Stämmen, gibt es einen, der Hateqidai heißt, was etwas ähnlich ist. Schormaqan wird im nächsten Kapitel als Chormaqan erscheinen. D'Ohsson nennt ihn Tscharmagun. Im Qin zheng lu und in den Annalen des Yuan shi erscheint dieser Mann nicht, aber in der Biographie des Qosimai wird ein großer Meister des Westens, Chaghan, erwähnt. Dies ist nicht der Chaghan der Tanguten aus der 7. Biographie, sondern eine Abkürzung von Charmaqan. Im Xu zizhi tongjian gangmu, unter dem 6. Jahr der Baoyou-Ära des Song-Kaisers Lizong (dem 8. Jahr des Möngke-Khans), heißt es: „Anfangs sandten die Mongolen den Prinzen Hülegü aus, um die Westlande zu erobern. Zu dieser Zeit befehligte Chaoma Noyan Guo Kan die gesamten Truppen, unterwarf nacheinander mehr als zehn Reiche im Westen, darunter Kaschmir, und kämpfte sich zehntausend Li weit vor.“ Bretschneider sagt, Chaoma Noyan sei Charmaqan. Aber Charmaqan starb vor Hülegüs Westfeldzug, im 13. Jahr des Ögedei-Khans, also kann er nicht unter Hülegü gedient haben. Worauf stützt sich das Xu gangmu? Wenn man die Biographie des Guo Kan betrachtet, heißt es: „Im Jahr壬子 [1252] brachte er Waffen nach Karakorum. Er wurde zum Chaoma Noyan ernannt und folgte dem Prinzen Hülegü auf dem Westfeldzug.“ Dieses Chaoma ist kein Personenname. In der Biographie von Guo Baoyu, Guos Großvater, heißt es, Baoyu sei ursprünglich ein General der Jin gewesen, habe sich nach der großen Niederlage am Wildfuchspass mit seinen Truppen den Mongolen ergeben und sei zum „Chaoma du zhenfu“ ernannt worden. Im 8. Jahr des Herrschers „führte er erneut die Chaoma und zog von Jinzhou aus nach Yan“. In der Biographie von Guo Dehai, Guos Vater, heißt es: „Als das große Heer kam, ergab er sich und wurde Chaoma tanya. Er folgte dem Vorhutkommandeur Zhebo auf dem Westfeldzug.“ Chaoma ist der Name der unterworfenen Truppen. Chaoma du zhenfu, Chaoma tanya, Chaoma Noyan sind allesamt Amtstitel. Guo Kan war zunächst Hundertschaftsführer, dann Tausendschaftsführer, und nun wurde er zum Chaoma Noyan, dem Befehlshaber der Chaoma, ernannt. Die Formulierung im Xu gangmu setzt den Amtstitel vor Guo Kans Namen. Nach D'Ohsson fand Charmaqans Westfeldzug im 2. Jahr des Ögedei-Khans statt. Aber zur Zeit des Herrschers, nachdem Jebe und Subutai den Kaukasus überquert hatten, kamen auch 3000 mongolische Soldaten von Osten, zerstörten die Stadt Rai, wo sich die versprengten Truppen von Choresmien gesammelt hatten, verwüsteten Sawa, Qum und Kaschan, brannten im Westen Hamadan nieder, drangen in Aserbaidschan ein, besiegten die Flüchtlinge von Rai, und diejenigen, die nach Täbris geflohen waren, ließen sie vom Herrscher von Aserbaidschan fesseln und nach Osten zurückschicken. Der Name des Feldherrn wird nicht genannt. Hong Jun sagt, dass der Westfeldzug des Chormaqan in der Geheimen Geschichte vielleicht dieser Feldzug war.)
+
+Gegen die beiden Hind und Bagdad, gegen die beiden Alu und Madasari, gegen die Abtu und die Dörböt sandte er sie aus.
+
+Hindus ist die mongolische Doppelbezeichnung für Indien. Der alte Name war Sind, abgeleitet vom Sindhu-Fluss. Später wandelte er sich zu Hindu und dann zu Indien. Das Shendu der Historischen Aufzeichnungen und des Han-Buches ist eben jenes Sind; das Juandu und Xiandou der Biographien berühmter Mönche ist eben jenes Hindu. Auch Tianzhu ist eine Lautverschiebung von Sind; im Shanhaijing erscheint es als Tiandu, im Han-Buch als Tiandu. Seit dem späteren Han-Buch wurde die Schreibung Tianzhu häufig verwendet. Zhu hatte im Altenlaut ebenfalls die Aussprache Du. Was die Perser Hindūstān nennen, bedeutet „Land der Hindu“. Was die Europäer India nennen, ist die lateinische Form von Indien. Im Qinzheng lu erscheint es als Xindu, im Yuan Shi, Annalen des Xianzong, sowohl als Shendu als auch als Hindus. Alu ist das Yilu des vorhergehenden Textes; das heutige Herat wurde im Mittelalter sowohl Heri als auch Hari genannt; da Heri zu Eli und weiter zu Yilu entstellt wurde, dürfte Alu eine Entstellung von Hari sein. Malu ist Meru Shahijan, das heutige Merw. Madasali Abtu konnte nicht ermittelt werden. Dass es drei Orte, aber nur eine Stadt gibt, mag befremden. Dorbe Dohschin ist der Mann, der die Tumat unterworfen hat; er erscheint im zehnten Band. Bei diesem Westfeldzug erscheint sein Name zwar nicht im Qinzheng lu, aber in der Dschami at-tawarich steht Dorbe, und er soll zusammen mit Bala Noyan Dschalal ad-Din verfolgt und Indien betreten haben. Ferner sagt D'Ohsson: „Nach der Niederlage Dschalal ad-Dins erhielt Ilchikadai den Befehl, das abtrünnige Herat zu bestrafen; er belagerte es sechs Monate lang und eroberte es erst im Juni 1222 (17. Jahr des Taizu), metzelte die Menge nieder; außerdem wurde Merw erneut geplündert.“ Nach dem vorliegenden Buch ist es nicht Dorbe, der nach Indien eindrang, sondern der, der Herat und Merw angriff, scheint eben jener Dorbe zu sein.
+
+(Übersetzung von Shiratori Kurakichi, „Lautübersetzung der mongolischen Geheimen Geschichte der Yuan-Dynastie“, Toyo Bunko, 1943)
+
+Sube'edei Ba'atur wurde gegen die Kanglin (Kanglin sind die Nachkommen der Kangju aus der Han-Zeit; in den Aufzeichnungen der Mohammedaner heißen sie Kangli oder Kangkeri; zu Beginn des 13. Jahrhunderts wohnten sie östlich des Jaik (Ural)-Flusses, nördlich des Choresm-Sees (Aralsee) in einer weiten Wildnis; nach Abulghazi erstreckte sich das Gebiet der Kangkeri zur Zeit der Thronbesteigung Dschingis Khans im Osten bis zum See Issyk-Kul, zum Tschu-Fluss und zum Talas (Talas)-Fluss. Um die Mitte des 13. Jahrhunderts kamen zwei europäische Mönche durch dieses Gebiet und hielten es in ihren Reiseberichten fest; Plano Carpini nennt das Volk Kangitai, Rubruk Kangler. In der russischen Geschichte wird das, was Petschenegen genannt wird, für eben jene Kangkeri gehalten. Im Yuan Shi heißen sie Kangli. Der Name Kangli erscheint bereits im Jin Shi; im Kapitel über treue Untertanen, im Abschnitt über Nian'ge Hannu, gibt es einen Vorfall aus der Dading-Ära, bei dem der Kangli-Stammesführer Bogu sich unterwarf. Die Kangkeri waren wegen ihrer hervorragenden Tapferkeit bekannt; daher dienten sie den Mongolen und wurden sehr viele berühmte Minister; im Yuan Shi gibt es dreizehn Männer mit eigenen Biographien.)
+
+Bajigit (Bajigit ist eine Entstellung von Baschkird; es ist ein Stamm, der nördlich der Kangkeri, östlich der Wolga wohnte. Auch heute noch heißen sie Baschkir und wohnen noch in jener Gegend. Bretschneider liest Kibtschaut Bajigit als Kibtscha Ubadschi und sagt: „Ubadschi könnte die im westlichen Kaukasus, an der Ostküste des Schwarzen Meeres noch heute wohnenden Obezi, Abazi oder Abchasen sein.“ Vermutlich ist im Paradies-Text der Geheimen Geschichte unter Kibtschau Bajigit das kleine, beigeschriebene Zeichen Ti ausgefallen; daher las Bretschneider das U von Kibtschau fälschlich als zu Bajigit gehörig und machte Ubadschi daraus. Wenn über Bajigit kein U steht, ähnelt es nicht den Obezi, sondern ist den Baschkird nahe. Baschkird wird auch Baschkurd genannt. Im Jahr 921 (1. Jahr Longde des Kaisers Youzhen der Liang-Dynastie) erscheint der Name Baschkurd erstmals im Reisebericht des Ibn Fadlan, der auf Befehl des Kalifen Muktadir ausgesandt wurde, um die an der Wolga wohnenden Bulgaren zu bekehren. Die Historiker des mittelalterlichen Europas und Westasiens sagen alle, die Baschkird seien ein Zweig des Türk-Volkes und die europäischen Ungarn stammten von ihnen ab. Plano Carpini nennt sie Baskart, Rubruk Paskatir.)
+
+Madschyar (Im folgenden Band steht Madschar, das ist das heutige Ungarn. Da allgemein angenommen wurde, dass die Ungarn ursprünglich von den Baschkird abstammen, nennen Historiker wie Juwaini und Raschid auch die Ungarn Baschkird. Ibn Said (ein Mann des 13. Jahrhunderts), den Abulfeda zitiert, erwähnt die Baschkird als ein heidnisches Volk nördlich der Petschenegen und spricht dann von einem türkischen Stamm der Baschkird, der an der Donau in der Nähe der Deutschen wohnt und dem Islam folgt, und sagt auch, die an der Donau wohnenden Hungurus (Ungarn) seien mit den Baschkird verwandt und hätten von den Deutschen das Christentum angenommen. Plano Carpini verwendet den Namen Hungaria wie heute und sagt, das große Bulgarien nahe den Baskart sei Großungarn; auch Rubruk sagt, die Sprache der Paskatier sei dieselbe wie die der Ungarn, und nennt es Großungarn. Nach der russischen Geschichte gab es nordöstlich der Wolga-Bulgaren, nahe dem Uralgebirge, einen Ort namens Ugura oder Jugura, wo finnische Völker wohnten. Im Jahr 1499 (12. Jahr Hongzhi der Ming-Dynastie) besiegte der russische Großfürst Iwan Wassiljewitsch die Ugura und nahm den Titel eines Fürsten von Ugura an. Am Tor des Kreml in Moskau gibt es eine lateinische Inschrift aus jener Zeit, die diesen Fürsten als Großfürsten von Ungaria bezeichnet. Somit ist Ugura im Lateinischen Ungaria, und der Name Ungarn stammt daher. Die Ungarn kamen im 9. Jahrhundert nach Europa, nannten sich selbst Madschar, aber der russische Historiker Nestor nannte sie Uguri; im „Zhiwai Jilüe“ von Ai Yuese heißen sie Ungaria, derselbe Name wie ihre Stammesverwandten im alten Land. Abulfeda nennt sie Madschgar, aber das bezieht sich auf die asiatischen Baschkir. Der Name Madschar erscheint auch in der Geschichte des Raschid; im Yuan Shi, Biographie des Subutai, sowohl als Madschar als auch als Matscha.)
+
+Sasut (Der Singular von Sasut ist Sasu; in der russischen Geschichte erscheint es als Saksin. Saksin ist der Name einer Stadt am Unterlauf der Itil (Wolga), und das Volk wurde ebenfalls so genannt. In mohammedanischen Schriften erscheint der Name bereits im 12. Jahrhundert; Juwaini nennt es Sakasin. Auch das Saksin des Plano Carpini dürfte dasselbe sein.)
+
+Keschmir (Keschmir ist das im Han-Buch und späteren Geschichtswerken sowie in buddhistischen Schriften wie den Biographien berühmter Mönche erscheinende Jibin, das heutige Kaschmir; im Tang Xiyu Ji heißt es: „Kashimilo, früher Jibin genannt, ist ein Irrtum.“ Zu Beginn der späteren Han-Dynastie versammelte der König Kanischka von Gandhara fünfhundert Arhats, um den Tripitaka zu redigieren; dies geschah in diesem Land.
+
+Ritter setzte Jibin mit dem griechischen Historiker Kophen, dem heutigen Kabul, gleich; Remusat setzte es mit Kandahar gleich; beide wurden durch das Sui Shu, Xiyu Zhuan, „Das Land Cao liegt nördlich des Congling (Irrtum: südlich), zur Han-Zeit war es das Land Jibin“, und das Xin Tang Shu, Xiyu Zhuan, „Jibin, das Land Cao der Sui-Dynastie, liegt südlich des Congling“, in die Irre geführt. Die Biographie von Jibin im Xin Tang Shu stützt sich vollständig auf die Biographie von Jibin im Jiu Tang Shu und beschreibt die Angelegenheiten Kashimilos; die Hinzufügung von „es ist das Land Cao der Sui-Dynastie“ ist überflüssig. Zur Zeit des Sui-Kaisers Yang wurden die westlichen Länder eingeladen, aber Jibin und Indien kamen nicht; daher gibt es im Sui Shu keine Biographien von Jibin und Indien. Das Land Cao im Sui Shu ist das Land Caojuzha des Tang Xiyu Ji mit der Hauptstadt Hesina (d. i. Ghazni), südlich des Landes Fulishisadanna (dem heutigen Kabul) gelegen; es unterscheidet sich von Jibin, d. i. Kashimilo. Die Aussage im Sui Shu, „zur Han-Zeit war es das Land Jibin“, ist ein irrtümlicher Rückschluss der Tang-Geschichtsschreiber. Das Xin Tang Shu erklärt zwar in der Biographie von Jibin, „es ist das Land Cao der Sui-Dynastie“, hat aber darunter noch eine Biographie von Cao, die sagt: „Xieyu liegt südwestlich von Tuhuoluo, hieß ursprünglich Caojuzha, oder auch Caoju ... Im Osten grenzt es an Jibin ... Sein König residiert in der Stadt Hesina“, und dann wieder eine Biographie von Jibin, die sagt: „Geshimi, oder auch Kashimilo ...“ Die Nachlässigkeit und Wiederholungen des Xin Tang Shu stehen dem Yuan Shi in nichts nach. Im Yuan Shi, Annalen des Xianzong, erscheint Qieshimi; im Jingshi Dadian, Karte, Qishimi; in der Biographie des Guo Kan und im Xiyi Ji des Chang De, Qishimi; Plano Carpini nennt es Kasmir, Marco Polo Kaschmir, Raschid wie heute Kaschmir.)
+
+Lalar (Als im folgenden Band die Namen dieser elf Stämme ein zweites Mal aufgezählt werden, steht anstelle dieses Lalar Keral; daher dürfte das obere La ein Fehler für Ke sein. Keral ähnelt dem ungarischen Wort Kiraly, das König bedeutet. Vermutlich haben die Mongolen es missverstanden und als Ländernamen genommen. Raschid schreibt es als Keral und macht es zum König der Baschkird, und manchmal, wie in der Geheimen Geschichte, irrtümlich auch zum Ländernamen. Wenn Keral der Königsname als Ländername genommen wurde, überschneidet es sich mit dem vorhergehenden Madschar. Auch Raschid begeht diese Überschneidung und führt oft Keral Baschkurd nebeneinander auf. Jedoch unterschied Ibn Said die dem Islam Folgenden als Baschkird und die zum Christentum Übergetretenen als Hungurus (Ungarn); wenn man also neben Madschar Baschkurd auch Keral Keral (d. i. die Ungarn) aufführt, ist das vielleicht keine Überschneidung.)
+
+An diesem Ort der fremden Länder, am Itil (Der Itil-Fluss ist die heutige Wolga. Im Türkischen heißt ein Fluss Itil oder Atil. Die Türken benannten damit die Wolga, und alle östlichen Völker verwenden diesen Namen. Der slawische Name Wolga soll von der an diesem Fluss gelegenen Stadt Bolgar stammen. Im Jahr 569 n. Chr. (4. Jahr Tianhe des Zhou-Kaisers Wu) überquerte Zemarchus, der im Auftrag des oströmischen Kaisers zum Khan der Türken (Westtürken) gesandt worden war, auf dem Rückweg den Daik (Ural)-Fluss und den Atilia-Fluss. Im 10. Jahrhundert sagt Istachri, der Atil-Fluss fließe durch das Land der Chasaren; Ibn Chordadbeh erwähnt eine Stadt Atil. Diese Stadt war vermutlich das heutige Astrachan. Plano Carpini nennt ihn Ethil, Rubruk Ethilia, auf der Katalanischen Karte steht Ethil, im Shuofang Beicheng wird er Ejir oder Ejil geschrieben.)
+
+An einer Stelle mit Wasserüberfahrt, an einem Ort mit Baumwoll-Kermen, wurde Sube'edei Ba'atur erneut ausgesandt, um die Völker zu unterwerfen. Es erging ein Befehl: Die Darugatschi, die beiden namens Yalawatschi von Urunggechi, kamen, Leute von Herkunft, und meldeten dem Dschingis Khan die Angelegenheit wegen der Verwandtschaft. „Den Sohn zu unseren Gefährten machen, Semisgen, Udan (Udan ist das Yutian der Historischen Aufzeichnungen, das Yutian der Geschichtswerke seit dem Han-Buch, das heutige Hotan. Das Tang Xiyu Ji nennt seinen Sanskrit-Namen: „Das Land Gostana, auf Chinesisch ‚Erdbrust‘ genannt, das ist die gebildete Bezeichnung des Landes. Die Umgangssprache nennt es Huanana, die Xiongnu nennen es Yudun, die verschiedenen Hu nennen es Huodan, Indien nennt es Qudan. Früher sagte man Yutian, das ist ein Irrtum.“ Yelü Chucais Xiyou Lu sagt: „Drei- bis viertausend Li westlich von Gaochang liegt die Stadt Wuduan, das ist das Yutian der Tang-Dynastie; der Fluss führt schwarze und weiße Jade.“ Dass Yutian Jade hervorbringt, ist in den Geschichtswerken ausführlich beschrieben. Im Yuan Shi wird es oft als Woduan geschrieben, nur in der Geographie als Hutan. Das Huodan des Xiyu Ji und das Hutan der Geographie sind beides Lautübersetzungen des türkischen Wortes Kotan. Der Name Kotan erscheint oft in der alten persischen Geschichte; Marco Polo nennt es Kotan. Dieses Land ist in Westasien nicht nur für seine Jade, sondern auch für seinen Moschus berühmt.) Uriyang (Yang ist vermutlich ein Fehler für Han. Urihan ist das Suoju seit dem Han-Buch, das heutige Yarkant. Im Yuan Shi, Shizu Ji, im Abschnitt des 11. Jahres Zhiyuan, erscheint Yarkan; in der Biographie des Hesimaili, Yarkan; in der Biographie des Yelü Xiliang, Yeliquan. Im Türkischen heißt es Yarkand; Marco Polo nennt es Yarkian.) Städte anvertraut, jenen Yalawatschi kommen lassen,
+
+um die Hauptstadt zu benachrichtigen. Von den Leuten, wegen der Angelegenheit der Stadt Masgut, um die Völker zu benachrichtigen, gemeinsam zu den Sartuul gehen, dort Bala lassen. Bala überquerte und gelangte bis zu Khan Melik und Hindus. Dschalal ad-Din Sultan, die beiden, bis nach Hindus gelangte er nicht, die vielen Völker von Hindus nahm er, viele nahm er. Dschingis Khan lagerte auf dem Weg den Sommer über. (Dass der Taizu auf dem Rückweg am Irtysch den Sommer über lagerte, ist in anderen Schriften nicht zu finden. Dies ist sicherlich ein Irrtum, der die Ereignisse des ersten Jahres des Feldzugs, 14. Jahr Jimao, betrifft.
+
+Nach dem Xiyou Ji verbrachte Changchun am Neujahrstag des 18. Jahres Guiwei den Tag am kaiserlichen Hoflager, empfing die Glückwünsche der Generäle, Ärzte, Wahrsager usw., brach am 11. Tag vor der großen Armee auf und gelangte am 21. Tag „zu einem großen Fluss, nordöstlich von Sailan etwa drei Tagesreisen“; dies dürfte am Ufer des Chirchik-Flusses nahe Taschkent sein. Wegen des „reichen Wassers und Grases, das Pferde und Rinder sättigen konnte“, verweilte man dort; als auch der Taizu eintraf, sah Changchun ihn am 7. Tag des zweiten Monats. Damals sagte der Taizu: „Ich bin bereits auf dem Weg nach Osten. Können wir gemeinsam reisen?“ Changchun lehnte entschieden ab; der Taizu sprach: „Warte ein wenig. In drei bis fünf Tagen kommt der Kronprinz. Was ich zuvor nicht verstanden habe, werde ich, wenn ich es begriffen habe, sogleich aufbrechen.“ Am 8. Tag hörte man, der Taizu sei bei der Jagd am Ostberg vom Pferd gefallen; Changchun trat ein und ermahnte ihn zur Jagd; der Taizu sprach: „Wir Mongolen sind im Reiten und Bogenschießen von klein auf geübt und können nicht plötzlich damit aufhören. Obwohl dem so ist, sind die Worte des Unsterblichen in meinem Herzen.“ Daraufhin ging er zwei Monate lang nicht auf die Jagd. So bat er am 24. Tag erneut um Abschied, am 7. Tag des dritten Monats wieder, am 10. Tag schied er endgültig und erreichte im Juli jenes Jahres Yunzhong. Der Ta aber blieb noch; wann er aufbrach, ist in der Aufzeichnung nicht zu sehen. Das Qinzheng lu sagt nur: „Im Jahr Jiashen kehrte die Armee zurück, überwinterte und suchte Schutz vor der Hitze, hielt an und zog weiter.“ Die Geschichte D'Ohssons ist etwas ausführlicher: „Im Frühjahr 1224 (Jiashen) setzte sich die große Armee erneut in Bewegung und überquerte den Syr-Darya. Tschagatai und Ögedei jagten am Rande von Uchara und brachten viel Wild dar. Dschötschi kam trotz Rufens nicht, sondern trieb nur von Norden des Syr-Darya her das Wild zum Hoflager, um die Treibjagd zu erleichtern.
+
+In jenem Sommer lagerte Dschingis Khan im Gebiet von Kalan Tasch und verbrachte die Zeit mit Jagen.“ „Die große Armee setzte sich erneut in Bewegung und überquerte den Syr-Darya“; nach dem Xiyou Ji geschah dies im Winter des Jahres Renwu. Dass Tschagatai und Ögedei Wild darbrachten, geschah zu der Zeit, als er sagte: „In drei bis fünf Tagen kommt der Kronprinz“, im zweiten Monat des Jahres Guiwei. Kalan Tasch ist eben jenes Taschkent; das sogenannte „wasser- und grasreiche“ Gebiet ist seine Vorstadt. Der Taizu nahm die Ermahnung an und hörte zwei Monate lang mit der Jagd auf, aber die Gewohnheit der Mongolen ließ sich nicht plötzlich ablegen; den Sommer des Jahres Guiwei verbrachte er mit Jagen. Wo er den Winter des Jahres Guiwei verbrachte, ist nicht bekannt. Im Zhanran Jushi Ji gibt es ein Vorwort zum Congrong An Lu: „Geschrieben am 15. Tag des 7. Monats des Jahres Jiashen in der Stadt Alimali im Westen.“ Alima ist eben jenes Almalik; Yelü Chucai folgte dem Taizu und hielt sich am 15. Juli des 19. Jahres Jiashen in Almalik auf. Auch gibt es ein Gedicht, verfasst am Vollmondtag des 9. Monats des Jahres Dinghai, mit dem Titel „Überquerung des Song-Passes im Staat Xia“ und dem Vers „Heute vor Jahren überquerte ich den Song-Pass“; die Anmerkung dazu sagt: „Im westlichen Yinshan gibt es einen Song-Pass.“ Yinshan ist der Tianshan. Der Song-Pass liegt südwestlich des Lalam-Nur; im Xiyou Ji heißt es: „Die Gipfel links und rechts sind steil und schroff, die Kiefern und Birken spenden dichten Schatten, über hundert Fuß hoch, vom Gipfel bis zum Fuß, unzählige Zehntausend.“ Im Xiyu Shuidao Ji heißt es: „Der Sailamu Nur liegt genau zweihundert Li nördlich von Huiyuan Cheng, unter dem Songshutou Ling“; und: „Das Guozigou, ein siebzig Li langes Tal, im Norden ein steiler Bergrücken, der es abschließt; auf dem Bergrücken viele Kiefern, genannt Songshutou Ling.“ Songshutou Ling ist ein Berg, kein Pass, aber wegen seiner Gefährlichkeit wird er im Gedicht Song-Pass genannt. „Heute vor Jahren“ bezieht sich auf den 15. September des Jahres Jiashen, drei Jahre vor Dinghai. Von Almalik bis Songshutou Ling sind es nicht mehr als zwei Tagesreisen; daher brachen Chucai und andere frühestens drei oder vier Tage vor dem Vollmondstag des 9. Monats von Almalik auf und blieben bis Anfang September in Almalik. Somit dürfte Almalik der Ort des Sommerlagers im Jahr Jiashen sein.
+
+Ferner heißt es in der Geschichte D'Ohssons: „Zwei kaiserliche Enkel, der elfjährige Hubilai und der neunjährige Hulagu, kamen ihnen bis zum Emil-Fluss entgegen; Hubilai tötete einen Hasen, Hulagu ein Reh und brachten sie dar.“ Der Emil-Fluss liegt südlich der heutigen Stadt Tarbagatai, fließt nach Westen und mündet in den See Alakul. Sein Tal ist als Weidegebiet berühmt. Das Yemili-Gebiet in den Annalen des Xianzong im Yuan Shi und die Stadt Yemili in der Biographie des Yelü Xiliang liegen am Emil-Fluss. Das Xiyu Shuidao Ji schreibt Emin He und sagt: „Emin bedeutet in der uigurischen Sprache Reinheit und Frieden. Der Laut wandelte sich zu Emir.“ Hubilai ist der Shizu; er wurde im 10. Jahr Yihai des Taizu geboren; als er elf Jahre alt war, war das 20. Jahr Yiyou. Von Songshutou Ling bis zum Emil-Gebiet sind es zehn bis zwanzig Tagesreisen; wenn er am 15. September des Jahres Jiashen den Songshutou Ling überquerte und im folgenden Jahr noch am Emil weilte, so überwinterte er vermutlich im Winter des Jahres Jiashen am Emil, und im Frühjahr des folgenden Jahres waren die beiden kaiserlichen Enkel noch nicht aufgebrochen.
+
+Ferner: Die Armee von Jebe und Subutai kehrte aus dem Land der Kibtschaken und Kangkeri zurück; wo sie sich mit der großen Armee traf, ist in den östlichen und westlichen Geschichtswerken nicht klar angegeben. Jebe starb nach D'Ohssons Geschichte unterwegs; auch in der Biographie des Hesimaili heißt es: „Als die Armee zurückkehrte, starb Jebe“; daher starb er kurz nach dem Treffen mit der großen Armee. In der Biographie des Subutai heißt es, nach der Rückkehr vom Westfeldzug „plünderte er den Stamm Yemili Huozhi und erbeutete zehntausend Pferde, die er darbrachte“; daher trafen die beiden Generäle die große Armee vor dem Winterlager am Emil im Jahr Jiashen; dies entspricht dem Befehl, den sie im Sommer des Jahres Gengchen bei der Verfolgung des Sultans erhalten hatten: „Wir werden uns in Mogulistan treffen.“ Nur die Frist von drei Jahren wurde überschritten. So zögerte der Taizu, nachdem er im Winter des Jahres Renwu den Syr-Fluss überquert hatte, bis zum Winter des Jahres Jiachen am Emil-Fluss zwei Jahre lang; warum? Hong Jun sagt: „Als der Taizu nach Osten zurückkehrte, war gerade die Zeit, als Jebe und Subutai in die Kiptschaken einfielen und die Russen besiegten. Wäre es nicht möglich, dass er, weil die beiden Generäle in der Ferne Krieg führten, langsam zog, um auf Nachricht von der Armee zu warten?“ Das mag wohl sein.)
+
+Im Jahr des Hahns ließ er sich am Tula-Fluss im Ordo nieder. (Das Jahr des Hahns ist das 1. Jahr Karoku des Kaisers Gohorikawa, das 1. Jahr Baoqing des Song-Kaisers Lizong, das 2. Jahr Zhengda des Jin-Kaisers Aizong, das 20. Jahr des Yuan-Taizu, 1225 n. Chr., als der Taizu 64 Jahre alt war. Das Qinzheng lu sagt: „Im Frühjahr des Jahres Yiyou kehrte der Kaiser in sein Land zurück; vom Auszug des Heeres bis hierher waren es insgesamt sieben Jahre.“ Das Yuan Shi sagt: „Im 20. Jahr, Frühjahr, 1. Monat, kehrte er zum Palast zurück.“ Raschid sagt, im Frühjahr des Jahres des Hahns, wie das Qinzheng lu. D'Ohsson sagt, Februar 1225. Der Februar des westlichen Kalenders ist der 1. Monat des östlichen Kalenders. Wenn er in diesem Frühjahr vom Emil aufbrach, ist der 1. Monat des Yuan Shi zu früh, der Herbst der Geheimen Geschichte zu spät. Man sollte dem Frühjahr des Qinzheng lu folgen. Das Ordo von Qara'un, d. i. des Schwarzen Waldes, war das alte Lager des Ong Khan.
+
+D'Ohsson erzählt an dieser Stelle die Verteilung der vier Prinzen: „Dschingis Khan kehrte nach Osten zurück, bestimmte die Gebiete der vier Söhne, gab Tolui das Gebiet zwischen dem Berg Qaraqorum und der Quelle des Onon, Ögedei das Gebiet am Emil-Fluss, Tschagatai das Gebiet östlich des Syr-Darya, Dschötschi das Gebiet nördlich des Kaspischen Meeres und um den Choresm-See (Aralsee).“ Erdmann setzt Ögedeis Gebiet als Imil Sungaria, Tschagatais Gebiet als das Gebiet von der Grenze der Uiguren bis Buchara, Dschötschis und seiner Söhne Gebiet von Kayalik und Choresm bis Bulgarien und Saksin, soweit die Hufe der mongolischen Pferde getreten hatten; Tolui erhielt außer dem mongolischen Stammland die Verwaltung der Jurte, der Familie und der Reichsaufzeichnungen. Kurz gesagt: Tolui erhielt die Mongolei, Ögedei das alte Land der Naiman, Tschagatai das alte Land der Westlichen Liao, Dschötschi das Land von Choresm, Kangkeri und Kiptschak. Der Abschnitt über den Westfeldzug des Taizu in der Geheimen Geschichte ist ausführlicher als das Qinzheng lu und das Yuan Shi, aber es ist bedauerlich, dass die Reihenfolge der Erzählung viele Umstellungen und Verwirrungen aufweist. Nun folge ich dem Beispiel des „Heute überprüften Wucheng“ im Shang Shu und habe versucht, die Reihenfolge wie folgt zu berichtigen.)
+
+(Anmerkung des Übersetzers Naka Michiyo, selbst überprüft)
+
+Übersetzung von Shiratori Kurakichi, „Lautübersetzung der mongolischen Geheimen Geschichte der Yuan-Dynastie“, Toyo Bunko, 1943
+
+Im Jahr, als die Völker den Alai überschritten, rückte Dschingis Khan mit Qulan Khatun vor, ließ Otchigin Noyan als Rückhalt zurück, lagerte unterwegs den Sommer über, und er selbst ließ sich in der Stadt nieder. Dschingis Khan ließ im Jahr von Udular niedersteigen, von der Stadt aus lagerte er in Buchar. [Dieses Buchar bewegte sich, und in der Stadt ließ Dschingis Khan sich nieder, um auf Bala zu warten. In der Festung des Sultans, um der Sommerhitze zu entgehen,
+
+sandte er als Vorhut Jebe und Subutai, Subutai und Toquchar, die drei, nach außen gegen den Sultan. Er sprach: Jebe soll, nachdem er Khan Melik passiert hat, nach außen, von hinten, sich nicht bewegen, von hinten die Städte des Khan Melik plündern. Nachdem die Städte abgefallen waren, trafen sie sich.
+
+[Jebe und die beiden belohnte er und sprach: „Du wurdest von den Taichuten zu Jebe. Toquchar soll, nachdem er sich auf seine eigene Seite gestützt hat, Khan Melik nach dem Gesetz töten lassen.“ Er vollendete es, ließ ihn nicht töten, bedrängte ihn, bestrafte die Armee. Dschingis Khan ließ [in jenem Herbst] Tschagatai und die drei, die rechte Hand, den Amu Darya, in Urunggechi lagern. Tolui ließ er in Isfahan, viele, lagern. Im Frühjahr des Schlangenjahres] sprachen Tschagatai und die drei: „Wir sind bereit. In der Stadt, auf wen gestützt, wir?“ Er sandte sie; es erging ein Befehl: „Handle nach dem Wort!“ und sandte sie.
+
+(Anmerkung des Übersetzers Naka Michiyo, selbst überprüft)
+
+Übersetzung von Shiratori Kurakichi, „Lautübersetzung der mongolischen Geheimen Geschichte der Yuan-Dynastie“, Toyo Bunko, 1943
+
+[Im Frühjahr, in Talikan, sandte Tolui einen Boten: „Im Jahr, an einem anderen Ort, werden wir uns niederlassen. Lasst uns treffen!“ Er sandte ihn; sie nahmen Ilu und andere, zerstörten die Stadt Chukcheren. Zur Zeit des Befehls kehrte Tolui von der Stadt zurück, kam und traf sich.
+
+(Anmerkung des Übersetzers Naka Michiyo, selbst überprüft)
+
+Übersetzung von Shiratori Kurakichi, „Lautübersetzung der mongolischen Geheimen Geschichte der Yuan-Dynastie“, Toyo Bunko, 1943
+
+[Jene Söhne Dschötschi und Ögedei, die drei, in der Stadt, die Völker vereinten sie, den Anteil teilten sie, die drei ließen sich nieder. Dschingis Khan tadelte Tschagatai und die drei und ließ sie nicht vor sich erscheinen. Da sprach Schigi Qutuqu: „Den Sartuul-Sultan, ihn und seine Völker, wir. Die eroberte Stadt, vereint, auch die Söhne, sind des Dschingis Khan. Der Erdgöttin hinzugefügt, die Völker so, zu dieser Zeit, du, deine vielen Wallache und Stuten hast du. Was bist du so jetzt? Ich fürchte den Fehler. Bestrafe mich. [Die Söhne werden nicht nachlässig sein. Wenn ich sie vor dir erscheinen lasse, sprach er, dann Zorn. Dschötschi und Ögedei, die Söhne, die Stimme, die Alten, die Worte der Otogus hörten, bis sie sich an dem Ort niederließen, bis sie es nicht wagten, sich zu trocknen, durch Tadel ermahnt. Zur Zeit, als Qongtaqar Qorchi, die drei, dem Dschingis Khan, wie ein Küken zur Dressur, kaum, wie die Söhne, die den Feldzug leiten, wie sollen die Söhne so fallen? Sie werden nicht untergehen. Es gibt Völker, bis sie kommen und gehen. Die Tobodut, aufgehetzt, der Feind, wir, der Erdgöttin hinzugefügt, Silber, Völker, du, komm. Wenn er das sagt, dieses Bagdad, wie gesagt, an dem Ort, werden wir ausziehen.“ Der Khan beruhigte sich im Wort, hieß es gut, ließ Qongqai, Chormaqan, die Pfeilträger, die Adargin, die Dorongir, die beiden, „vor mir zurück“, sandte Chormaqan aus, um gegen die Völker des Qalib Sultan zu ziehen.
+
+(Anmerkung des Übersetzers Naka Michiyo, selbst überprüft)
+
+Übersetzung von Shiratori Kurakichi, „Lautübersetzung der mongolischen Geheimen Geschichte der Yuan-Dynastie“, Toyo Bunko, 1943
+
+Er ließ die Dorben von Hindus, Bagdad, die beiden Alu, Madasari, Abtu ausziehen.
+
+(Anmerkung des Übersetzers Naka Michiyo, selbst überprüft)
+
+Übersetzung von Shiratori Kurakichi, „Lautübersetzung der mongolischen Geheimen Geschichte der Yuan-Dynastie“, Toyo Bunko, 1943
+
+Jebe Noyan sandte er beide aus, zu den Ländern Kanglin, Badschigit, Madschara, Sasut, Keschmir, Kerel, bis zur Stadt Kiwa am Fluss Idil und Dschajak. Und Sube'etei Ba'atur sandte er auf den Feldzug.
+
+Im Jahr des Tigers zog Dschingis Khan nach Süden in den Winter. Khan Melik und Dschingis Khan rückten aus. Voraus als Spitze sandte er Schigi Qutuqu. Dschalal ad-Din Sultan und jener, sie wurden geschlagen. Und er siegte an jenem Ort. Tokhuchar drang ein mit Dschalal ad-Din Sultan, sie töteten jene, aber zur Stadt Semiskab ließ er sie nicht kommen. Er jagte sie zum Schin Müren, und sie traten in den Schin Müren ein. Dort an jenem Ort entkamen Dschalal ad-Din Sultan und jener, stiegen aufwärts. Dschingis Khan sandte Bala, um Khan Melik zu jagen. Im Frühling des Pferdes stieg er aufwärts, ließ Batkesen zurück, gelangte zu jenem Mutterflüsschen, stieg ab, und dort ließ er Bala zurück. Bala setzte über, jagte Dschalal ad-Din Sultan und jenen bis nach Hindus, konnte sie nicht erreichen, nahm viele, viele Leute von Hindus, und als er die Leute vollendet hatte, erging der Befehl: „Darughatschin, die beiden, die Yalawatschi genannt werden, jene beiden von Urgengech, sie kamen, sie kamen von Geschlecht, und sie meldeten die Verwandtschaft dem Dschingis Khan." Und die Söhne, die Kurumshi, setzte er als Darughas ein über die Städte Buchara, Urgengech, Kaschgar und Gusen. Und jener Yalawatschi kam, um dies in der Mitte zu melden. Wegen der Verwandtschaft der Stadt Masqut unter den Leuten setzte er Darughas ein.
+
+Also kehrte er im Herbst des Pferdes zurück. In jenem Semisgen überwinterte er zwei Jahre lang mit den Schafen. Dann brach er auf, wartete auf Sube'etei, zog zum Lande der Sarta'ul, und im Jahr des Hirsches, am Flusse Tula, stieg er ab in der Ordu.
+
+Ende des elften Buches der Aufzeichnungen des Dschingis Khan.
+
+Einleitung. Inhaltsverzeichnis. Buch eins. Buch zwei. Buch drei. Buch vier. Buch fünf.
+Buch sechs. Buch sieben. Buch acht. Buch neun. Buch zehn. Buch elf-1. Buch elf-2. Buch zwölf-1. Buch zwölf-2. Fortsetzung-Inhaltsverzeichnis. Fortsetzung-1. Fortsetzung-2. 3]

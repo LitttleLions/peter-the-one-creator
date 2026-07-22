@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+			<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+				<head>
+					<meta name="dtb:uid" content="https://ja.wikisource.org/wiki/%E6%88%90%E5%90%89%E6%80%9D%E6%B1%97%E5%AE%9F%E9%8C%B2" />
+					<meta name="dtb:depth" content="1" />
+					<meta name="dtb:totalPageCount" content="0" />
+					<meta name="dtb:maxPageNumber" content="0" />
+				</head>
+				<docTitle><text>成吉思汗実録</text></docTitle>
+				<docAuthor><text></text></docAuthor>
+				<navMap>
+					<navPoint id="title" playOrder="1">
+						<navLabel><text>表題紙</text></navLabel>
+						<content src="title.xhtml"/>
+					</navPoint><navPoint id="c0_cheng_ji_si_han_shi_lu" playOrder="2">
+						    <navLabel><text>成吉思汗実録</text></navLabel>
+						    <content src="c0_cheng_ji_si_han_shi_lu.xhtml" />
+					    </navPoint><navPoint id="c1_cheng_ji_si_han_shi_lu_xu_lun" playOrder="3">
+									    <navLabel><text>序論</text></navLabel>
+									    <content src="c1_cheng_ji_si_han_shi_lu_xu_lun.xhtml" /></navPoint><navPoint id="c2_cheng_ji_si_han_shi_lu_mu_lu" playOrder="4">
+									    <navLabel><text>目録</text></navLabel>
+									    <content src="c2_cheng_ji_si_han_shi_lu_mu_lu.xhtml" /></navPoint><navPoint id="c3_cheng_ji_si_han_shi_lu_juanno_yi" playOrder="5">
+									    <navLabel><text>巻の一</text></navLabel>
+									    <content src="c3_cheng_ji_si_han_shi_lu_juanno_yi.xhtml" /></navPoint><navPoint id="c4_cheng_ji_si_han_shi_lu_juanno_er" playOrder="6">
+									    <navLabel><text>巻の二</text></navLabel>
+									    <content src="c4_cheng_ji_si_han_shi_lu_juanno_er.xhtml" /></navPoint><navPoint id="c5_cheng_ji_si_han_shi_lu_juanno_san" playOrder="7">
+									    <navLabel><text>巻の三</text></navLabel>
+									    <content src="c5_cheng_ji_si_han_shi_lu_juanno_san.xhtml" /></navPoint><navPoint id="c6_cheng_ji_si_han_shi_lu_juanno_si" playOrder="8">
+									    <navLabel><text>巻の四</text></navLabel>
+									    <content src="c6_cheng_ji_si_han_shi_lu_juanno_si.xhtml" /></navPoint><navPoint id="c7_cheng_ji_si_han_shi_lu_juanno_wu" playOrder="9">
+									    <navLabel><text>巻の五</text></navLabel>
+									    <content src="c7_cheng_ji_si_han_shi_lu_juanno_wu.xhtml" /></navPoint><navPoint id="c8_cheng_ji_si_han_shi_lu_juanno_liu" playOrder="10">
+									    <navLabel><text>巻の六</text></navLabel>
+									    <content src="c8_cheng_ji_si_han_shi_lu_juanno_liu.xhtml" /></navPoint><navPoint id="c9_cheng_ji_si_han_shi_lu_juanno_qi" playOrder="11">
+									    <navLabel><text>巻の七</text></navLabel>
+									    <content src="c9_cheng_ji_si_han_shi_lu_juanno_qi.xhtml" /></navPoint><navPoint id="c10_cheng_ji_si_han_shi_lu_juanno_ba" playOrder="12">
+									    <navLabel><text>巻の八</text></navLabel>
+									    <content src="c10_cheng_ji_si_han_shi_lu_juanno_ba.xhtml" /></navPoint><navPoint id="c11_cheng_ji_si_han_shi_lu_juanno_jiu" playOrder="13">
+									    <navLabel><text>巻の九</text></navLabel>
+									    <content src="c11_cheng_ji_si_han_shi_lu_juanno_jiu.xhtml" /></navPoint><navPoint id="c12_cheng_ji_si_han_shi_lu_juanno_shi" playOrder="14">
+									    <navLabel><text>巻の十</text></navLabel>
+									    <content src="c12_cheng_ji_si_han_shi_lu_juanno_shi.xhtml" /></navPoint><navPoint id="c13_cheng_ji_si_han_shi_lu_juanno_shi_yi_1" playOrder="15">
+									    <navLabel><text>巻の十一-1</text></navLabel>
+									    <content src="c13_cheng_ji_si_han_shi_lu_juanno_shi_yi_1.xhtml" /></navPoint><navPoint id="c14_cheng_ji_si_han_shi_lu_juanno_shi_yi_2" playOrder="16">
+									    <navLabel><text>巻の十一-2</text></navLabel>
+									    <content src="c14_cheng_ji_si_han_shi_lu_juanno_shi_yi_2.xhtml" /></navPoint><navPoint id="c15_cheng_ji_si_han_shi_lu_juanno_shi_er_1" playOrder="17">
+									    <navLabel><text>巻の十二-1</text></navLabel>
+									    <content src="c15_cheng_ji_si_han_shi_lu_juanno_shi_er_1.xhtml" /></navPoint><navPoint id="c16_cheng_ji_si_han_shi_lu_juanno_shi_er_2" playOrder="18">
+									    <navLabel><text>巻の十二-2</text></navLabel>
+									    <content src="c16_cheng_ji_si_han_shi_lu_juanno_shi_er_2.xhtml" /></navPoint><navPoint id="about" playOrder="19">
+						<navLabel>
+							<text>About</text>
+						</navLabel>
+						<content src="about.xhtml"/>
+					</navPoint>
+			       </navMap>
+			</ncx>

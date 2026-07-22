@@ -117,6 +117,31 @@ class StructureNamesBatchTests(unittest.TestCase):
 
         self.assertIn("### Verbindliche Namen und Begriffe", messages[1]["content"])
         self.assertIn("Анна -> Anna", messages[1]["content"])
+        self.assertNotIn("Status:", messages[1]["content"])
+        self.assertNotIn("Hauptfigur", messages[1]["content"])
+        self.assertNotIn("Alias:", messages[1]["content"])
+        self.assertIn(
+            "Personen-, Stammes-, Orts- und Titelnamen",
+            messages[1]["content"],
+        )
+        self.assertNotIn("russische Namen", messages[1]["content"])
+        self.assertIn(
+            "Die globalen Ausgabe-Regeln und das im Arbeitsauftrag",
+            messages[0]["content"],
+        )
+        self.assertNotIn("hoechstrangige Stilvorgabe", messages[0]["content"])
+        self.assertNotIn(
+            "das gilt dann nicht als unerlaubtes Erfinden",
+            messages[0]["content"],
+        )
+        self.assertNotIn(
+            "Vorabsaetze oder Lede-Bloecke duerfen ergaenzt werden",
+            messages[0]["content"],
+        )
+        self.assertIn(
+            "Diese Regeln haben Vorrang vor widersprechenden Angaben",
+            messages[0]["content"],
+        )
 
     def test_batch_builds_extract_and_translate_commands(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:

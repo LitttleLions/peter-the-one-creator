@@ -1,0 +1,79 @@
+{
+  "chapter": "003",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "003",
+      "scene": 1,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\003\\scene-01.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-01-original\\003\\scene-01.md",
+      "ru_words": 402,
+      "de_words": 2562,
+      "findings": [
+        {
+          "severity": "ERROR",
+          "category": "length_ratio",
+          "message": "DE/RU-Wortverhaeltnis ist stark auffaellig (6.37).",
+          "chapter": "003",
+          "scene": 1,
+          "evidence": "RU=402, DE=2562",
+          "recommendation": "Auf Auslassung, Doppelung oder Ausschweifung pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "ERROR",
+          "category": "names",
+          "message": "Falsche Zuordnung von Namen und Personen in den Übersetzungszeilen.",
+          "chapter": "003",
+          "scene": 1,
+          "evidence": "Original: 'マキ卷のノ陳べて、カツサル合撒兒、ミタリ三人は...' (Maki, Qasar, drei Männer). DE-Übersetzung: 'Qasar, [Belgütei] und die drei [Brüder]...'. Belgütei ist hier noch nicht erwähnt; der Name Maki fehlt komplett.",
+          "recommendation": "Den Namen Maki wiederherstellen oder als Platzhalter belassen. Belgütei darf erst später eingeführt werden, wo er im Original erscheint (z.B. bei den Merkiten).",
+          "source": "llm",
+          "current_text": "Qasar, [Belgütei] und die drei [Brüder] gingen zu Tooril Ong Khan...",
+          "suggested_text": "Maki, Qasar und zwei weitere Männer kamen zu Tooril Ong Khan...",
+          "confidence": 0.95,
+          "fixable": true,
+          "position": null
+        },
+        {
+          "severity": "ERROR",
+          "category": "meaning",
+          "message": "Fehlende Passage / Sinnverlust durch falsche Interpretation von 'ミタリ三人' (drei Personen insgesamt).",
+          "chapter": "003",
+          "scene": 1,
+          "evidence": "Original: 'マキ卷のノ陳べて、カツサル合撒兒、ミタリ三人は...' bedeutet, dass Maki und Qasar zusammen mit einer dritten Person drei sind. Die DE übersetzt dies als 'Qasar, Belgütei UND die drei', was mathematisch unmöglich ist (1+1+3=5) und den Namen Maki ignoriert.",
+          "recommendation": "Die Passage muss so wiedergegeben werden, dass klar wird: Es waren insgesamt drei Personen (Maki, Qasar und einer weitere), nicht vier oder fünf. Belgütei darf hier nicht genannt werden.",
+          "source": "llm",
+          "current_text": "Qasar, [Belgütei] und die drei [Brüder] gingen zu Tooril Ong Khan...",
+          "suggested_text": "Maki, Qasar und ein Dritter kamen zu Tooril Ong Khan...",
+          "confidence": 0.9,
+          "fixable": true,
+          "position": null
+        },
+        {
+          "severity": "WARNING",
+          "category": "register",
+          "message": "Unpassende Verwendung von Klammern für Erklärungen im Fließtext.",
+          "chapter": "003",
+          "scene": 1,
+          "evidence": "DE: 'Qasar, [Belgütei] und die drei [Brüder]' sowie '[Tougla]', '[Börte Üdschin]' etc. Das Original enthält keine solchen Interpunktionen oder Kommentare in dieser Form; es handelt sich um phonetische Transkriptionen mit Kommentaren im Textfluss.",
+          "recommendation": "Die Klammern sollten entfernt werden, wenn sie nicht Teil des originalen Kommentars sind (wie bei 'Tula' vs 'Tougla'). Stattdessen sollte der Name korrekt transkribiert oder als Anmerkung getrennt dargestellt werden, ohne den Lesefluss zu unterbrechen.",
+          "source": "llm",
+          "current_text": "Qasar, [Belgütei] und die drei [Brüder]...",
+          "suggested_text": "Maki, Qasar und zwei weitere...",
+          "confidence": 0.8,
+          "fixable": true,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

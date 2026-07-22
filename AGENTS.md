@@ -24,6 +24,8 @@ Aktuelle Buchpakete:
 - `books/pharao/` - Bolesław Prus, Der Pharao
 - `books/feuriger-engel/` - Walerij Brjussow, Der feurige Engel
 - `books/leben-arsenjews/` - Iwan Bunin, Das Leben Arsenjews
+- `books/geheime-geschichte-mongolen/` - Anonym, Die Geheime Geschichte der Mongolen
+- `books/aelita/` - Alexei Tolstoi, Aelita (in Vorbereitung)
 
 ## Buchpaket-Struktur
 
@@ -174,11 +176,25 @@ Jedes Buchpaket hat eigene Profile in `books/<book-id>/styles/*.md`.
 Der Dateiname ohne `.md` ist der Style-Slug und zugleich der Output-Ordner.
 Der aktive Default steht in `books/<book-id>/book.yaml` unter `style_mode`.
 
-Das gewaehlte Profil wird als verbindlicher Block in den System-Prompt
-gehoben. Wenn ein Profil Vorabsatz, Lede, Ueberschriften oder andere
-Struktur-Ergaenzungen erzwingen soll, muss das ausdruecklich in der
-Markdown-Datei stehen. Nach Profil-Aenderungen vorhandene Szenenergebnisse
-bewusst mit `--overwrite`, Dashboard-Ersetzen oder Loeschen neu erzeugen.
+Das Profil wird als Block unter „Verbindliches Style-Profil“ in den
+System-Prompt eingebettet (`tools/lib/style_prompts.py`). Es soll **nur**
+Stil- und Rekonstruktionsregeln enthalten – kein eigener SYSTEMPROMPT/
+USERPROMPT, kein Quelltextplatzhalter, keine zweite Rollenbeschreibung.
+
+Prompt-Hierarchie (Stand 2026-07-22):
+
+1. globale harte Ausgabe-Regeln (nur Uebersetzung, nichts erfinden)
+2. Glossar aus `names.yaml` im User-Prompt
+3. Style-Profil (Stil/Rekonstruktion)
+
+Bei Konflikten haben Ausgabe-Regeln und Glossar Vorrang vor dem Profil.
+Struktur-Extras (Lede, Vorabsatz, Prolog, erfundene Ueberschriften) sind im
+Uebersetzungs-Call **nicht** erlaubt, auch wenn ein Profil danach klingt.
+Nach Profil-Aenderungen vorhandene Szenenergebnisse bewusst mit
+`--overwrite`, Dashboard-Ersetzen oder Loeschen neu erzeugen.
+
+Gesendete OpenRouter-/Ollama-Prompts werden unter
+`work/prompts/sent/YYYYMMDD-HHMMSS-…-<provider>.md` archiviert.
 
 ## Buchstruktur Und Namen
 
@@ -197,9 +213,14 @@ Anna zeigt keine Szenenmarker; Peter zeigt innerhalb eines Kapitels zentrierte
 Szenenzahlen ohne neue Seite.
 
 `books/<book-id>/names.yaml` enthaelt Eintraege mit `source`, `target`,
-`aliases`, `type`, `status` und `note`. Diese Liste wird kompakt in den Prompt
-eingefuegt. Nicht gepflegte russische Namen werden konservativ transliteriert
-oder im Zweifel beibehalten.
+`aliases`, `type`, `status` und `note`. Status/Alias/Note sind
+Redaktionsmeta; in LLM-Prompts landen standardmaessig nur Zeilen
+`Quelle -> Ziel` (`compact_name_lines(..., include_meta=False)`).
+Anwendungsregeln (z. B. Temuedschin vs. Dschingis Khan) gehoeren ins
+Style-Profil oder in knappe kuratierte Regeln, nicht als widerspruechliche
+Notes hinter jedem Eintrag. Nicht aufgefuehrte Personen-, Stammes-, Orts-
+und Titelnamen werden konservativ transliteriert oder im Zweifel in der
+erkennbaren Quellform beibehalten.
 
 ## Provider
 
@@ -244,6 +265,36 @@ rueckwaertskompatibel bei DOCX+EPUB.
   `config/export.yaml` liegen unter `config/legacy/`.
 - OpenRouter, Prompt-Datei-Modus, Workspace-KI-Modus, Assembly und Export sind
   produktiv nutzbar.
-- Dashboard liest Buchpakete aus `books/*/book.yaml`.
+- Dashboard (FastAPI+React) liest Buchpakete aus `books/*/book.yaml`.
+  Buch-Setup-Route: `/books/:bookId/setup` (nicht mehr globales `/setup`).
 - Anna Karenina ist als zweites Buchpaket angelegt und hat ein Cover unter
   `books/anna-karenina/assets/covers/annakarenina.png`.
+- **Prompt-Generator** (Stand 2026-07-22):
+  - `tools/lib/style_prompts.py`: Profil-Intro ohne Lede-/Struktur-Hintertuer;
+    harte Ausgabe-Regeln haben Vorrang; Glossar-Einleitung sprachneutral.
+  - `tools/lib/name_registry.py`: Prompt-Glossar nur `source -> target`
+    (Meta optional via `include_meta=True`).
+  - Style-Dateien muessen Embed-Profile sein, keine vollstaendigen
+    Standalone-Prompts.
+  - `books/geheime-geschichte-mongolen/styles/stil-04-original-geheim.md`
+    ist seit 2026-07-22 ein reines Embed-Profil (kein SYSTEMPROMPT/
+    USERPROMPT): Interlinear-Rekonstruktion ohne Doppelglossen/
+    Glossenketten, differenzierter Editionsapparat, Glossar-Verweis ohne
+    konkrete Liste, Anwendungsregel Temuedschin vs. Dschingis Khan.
+- **Geheime Geschichte der Mongolen** (Stand 2026-07-22):
+  - Quelle: Japanische Uebersetzung 成吉思汗実録 von 那珂通世 (1907), via
+    Wikisource-EPUB. Quellsprache `ja`, Ziel `de`.
+  - Struktur: `chapter_as_scene`, 15 Kapitel (000 Prolog/序論 + 001–014,
+    12 Baende). Gruppen-Labels („Einleitung“, „Erstes Buch“, …).
+  - UI: Kapitel-Dropdowns zeigen `006 — Sechstes Buch`; Batch-Log
+    `Kapitel ausgewaehlt (N): 006` (nicht „1 ausgewaehlt“ = Kapitel 1).
+  - Import: `tools/import_geheime_geschichte.py` aus `source/epub_temp/OPS/`.
+  - Uebersetzung: Grossteil 000–010 mit stil-01-original; stil-04 +
+    DeepSeek V4 Flash fuer Kapitel 006 (Chunks). Nach Profil-/Generator-
+    Fixes Neuuebersetzung und Prompt-Archiv-Pruefung.
+  - Prompt-Archiv: `work/prompts/sent/` fuer OpenRouter-Laeufe.
+  - Export: EPUB mit Seitenumbruechen (`--split-level=1`), Cover und
+    Kapitelbilder; `group_for_chapter()` kennt `chapters`-Listen.
+  - OpenRouter-Client: Timeout 300s, keine Retries bei Timeouts.
+  - Review: `length_ratio` fuer CJK (ja/zh/ko) uebersprungen; Deep-Check
+    mit names.yaml; Dashboard Erstpruefung vs. Deep-Check getrennt.

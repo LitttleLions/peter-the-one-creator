@@ -1,0 +1,34 @@
+{
+  "chapter": "006",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "006",
+      "scene": 1,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\006\\scene-01.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-01-original\\006\\scene-01.md",
+      "ru_words": 684,
+      "de_words": 2466,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "llm_review_failed",
+          "message": "KI-Review fehlgeschlagen: OpenRouter-Antwort ohne Text-Content. finish_reason=length. Reasoning/Thinking (erste 300 Zeichen): Wir müssen die japanische Originalversion (JA) mit der deutschen Übersetzung (DE) vergleichen. Die Aufgabe ist, konkrete, belegbare Probleme zu melden, die eine klare Handlung erlauben. Wir sollen nur ERROR oder WARNING melden, wenn es sinnverändernde Fehler, fehlende Passagen, stehengebliebenes Ori",
+          "chapter": "006",
+          "scene": 1,
+          "evidence": "",
+          "recommendation": "Antwort wurde abgeschnitten: max_tokens erhoehen (Review-Default jetzt 8000) oder kuerzeres Modell ohne langes Thinking waehlen.",
+          "source": "llm",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

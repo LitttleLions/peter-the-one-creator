@@ -187,8 +187,9 @@ class StylePrompts:
                 user_parts.append(
                     "Nutze diese Schreibweisen, wenn die genannten Personen "
                     "oder Begriffe im Quelltext vorkommen. Nicht aufgefuehrte "
-                    "russische Namen werden konservativ transliteriert oder "
-                    "im Zweifel beibehalten."
+                    "Personen-, Stammes-, Orts- und Titelnamen werden "
+                    "konservativ transliteriert oder im Zweifel in der "
+                    "erkennbaren Quellform beibehalten."
                 )
                 user_parts.extend(name_lines)
                 user_parts.append("")
@@ -234,14 +235,10 @@ class StylePrompts:
                 "### Verbindliches Style-Profil",
                 "",
                 (
-                    "Dieses Profil ist die hoechstrangige Stilvorgabe fuer "
-                    f"diesen Lauf ({mode}). Es hat Vorrang vor allgemeinen "
-                    "Uebersetzungsgewohnheiten. Erzeuge eine Ausgabe, deren "
-                    "Stil sichtbar und konsequent aus diesem Profil folgt. "
-                    "Wenn das Profil ausdruecklich einen Vorabsatz, eine "
-                    "Lede, eine Ueberschrift, einen Prolog oder eine andere "
-                    "Struktur-Ergaenzung verlangt, setze diese Vorgabe um; "
-                    "das gilt dann nicht als unerlaubtes Erfinden."
+                    "Das folgende Profil enthaelt verbindliche Stil- und "
+                    f"Rekonstruktionsregeln fuer diesen Lauf ({mode}). "
+                    "Die globalen Ausgabe-Regeln und das im Arbeitsauftrag "
+                    "uebermittelte Glossar haben bei Konflikten Vorrang."
                 ),
                 "",
                 mode_cfg["profile_text"].rstrip(),
@@ -251,21 +248,21 @@ class StylePrompts:
             "### Harte Ausgabe-Regeln",
             "",
             (
-                "Diese Regeln gelten nur, soweit das Style-Profil nichts "
-                "ausdruecklich anderes verlangt."
+                "Diese Regeln haben Vorrang vor widersprechenden Angaben "
+                "im Style-Profil."
             ),
             "",
             "- Gib nur die Uebersetzung aus.",
             "- Keine Vorbemerkung, keine Zusammenfassung, keine Analyse.",
             "- Keine Saetze wie 'Hier ist die Uebersetzung'.",
             (
-                "- Keine Markdown-Ueberschriften erfinden, ausser sie stehen "
-                "im Quelltext oder das Style-Profil verlangt sie."
+                "- Keine Markdown-Ueberschriften, Vorabsaetze, Lede, Prologe "
+                "oder sonstige Struktur-Ergaenzungen erfinden, ausser sie "
+                "stehen bereits im Quelltext."
             ),
             (
                 "- Inhalt, Reihenfolge und Fakten des Quelltexts bleiben "
-                "erhalten; explizit im Style-Profil verlangte Vorabsaetze "
-                "oder Lede-Bloecke duerfen ergaenzt werden."
+                "erhalten; nichts ergaenzen, das nicht im Quelltext steht."
             ),
         ])
         return "\n".join(parts)

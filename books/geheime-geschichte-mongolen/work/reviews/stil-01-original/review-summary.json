@@ -1,0 +1,20 @@
+{
+  "book_id": "geheime-geschichte-mongolen",
+  "title": "Die Geheime Geschichte der Mongolen",
+  "style": "stil-01-original",
+  "chapters": [
+    "006"
+  ],
+  "created_at": "2026-07-22T19:53:55",
+  "llm": "openrouter",
+  "counts": {
+    "ERROR": 0,
+    "WARNING": 1,
+    "INFO": 0
+  },
+  "chapter_reports": [
+    "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\chapters\\006-review.md"
+  ],
+  "summary_markdown": "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\review-summary.md",
+  "summary_json": "books\\geheime-geschichte-mongolen\\work\\reviews\\stil-01-original\\review-summary.json"
+}

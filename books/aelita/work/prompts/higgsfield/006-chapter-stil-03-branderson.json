@@ -1,0 +1,57 @@
+{
+  "book": "aelita",
+  "chapter": "006",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-03-branderson",
+  "model": "gpt_image_2",
+  "moodboard": "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "render_quality": "high",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\scenes\\de\\stil-03-branderson\\006\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\prompts\\higgsfield\\006-chapter-stil-03-branderson.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\assets\\chapter\\chapter-006.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 006. Post-revolutionary Soviet Union, 1920s Petrograd, and an ancient Mars civilisation. Cinematic literary science-fiction illustration, elegant realism, painterly detail, atmospheric depth. Post-revolutionary Soviet Union, 1920s Petrograd, and an ancient Mars civilisation. Two Soviet man travellers and a Martian female princess; Martians look human but with subtle bird-like facial features and blue-tinged skin and a very long sharp nose. Red deserts, canals, vertical cities, winged airships. Atmospheric depth, Martian architecture, alien flora and fauna. Cinematic literary illustration, painterly detail, no lettering. Clear central figure or charged situation; emotionally resonant, historically and futuristically grounded. Characters present: Mstislaw Sergejewitsch Los: sowjetische ingeneur mit mütze; Alexei Iwanowitsch Gussew: rotarmist, 50 jahr, schwarzee haar. Nachdem er die Einstiegsluke festgeschraubt hatte, setzte sich Los gegenüber von Gussew und sah ihm in die Augen – in die stacheligen, wie bei einem gefangenen Vogel, die Punkte der Pupillen. „Fliegen wir, Alexei Iwanowitsch?“ „Na los.“ Da ergriff Los den Hebel des Rheostaten und drehte ihn ein wenig. Ein dumpfer Schlag ertönte – jenes erste Krachen, von dem auf dem freien Feld die tausendköpfige Menge zusammengezuckt war. Er drehte den zweiten Rheostaten. Ein dumpfes Krachen unter den Füßen, und die Erschütterungen des Apparats wurden so stark, dass Gussew sich am Sitz festklammerte und die Augen aufriss. Los schaltete beide Rheostaten ein. Der Apparat ruckte an. Die Schläge wurden weicher, die Erschütterung ließ nach. Los rief: „Wir sind aufgestiegen.“ Gussew wischte sich den Schweiß vom Gesicht. Es wurde heiß. Der Geschwindigkeitsmesser zeigte fünfzig Meter pro Sekunde, der Zeiger rückte weiter vor.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_150531_99c3a366-9ff4-46c4-90f9-33dc8d32e676.png",
+  "job_result": [
+    {
+      "id": "99c3a366-9ff4-46c4-90f9-33dc8d32e676",
+      "status": "completed",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_150531_99c3a366-9ff4-46c4-90f9-33dc8d32e676.png",
+      "created_at": 1785164731.671398,
+      "params": {
+        "width": 1744,
+        "height": 2336,
+        "prompt": "Chapter 006. Post-revolutionary Soviet Union, 1920s Petrograd, and an ancient Mars civilisation. Cinematic literary science-fiction illustration, elegant realism, painterly detail, atmospheric depth. Post-revolutionary Soviet Union, 1920s Petrograd, and an ancient Mars civilisation. Two Soviet man travellers and a Martian female princess; Martians look human but with subtle bird-like facial features and blue-tinged skin and a very long sharp nose. Red deserts, canals, vertical cities, winged airships. Atmospheric depth, Martian architecture, alien flora and fauna. Cinematic literary illustration, painterly detail, no lettering. Clear central figure or charged situation; emotionally resonant, historically and futuristically grounded. Characters present: Mstislaw Sergejewitsch Los: sowjetische ingeneur mit mütze; Alexei Iwanowitsch Gussew: rotarmist, 50 jahr, schwarzee haar. Nachdem er die Einstiegsluke festgeschraubt hatte, setzte sich Los gegenüber von Gussew und sah ihm in die Augen – in die stacheligen, wie bei einem gefangenen Vogel, die Punkte der Pupillen. „Fliegen wir, Alexei Iwanowitsch?“ „Na los.“ Da ergriff Los den Hebel des Rheostaten und drehte ihn ein wenig. Ein dumpfer Schlag ertönte – jenes erste Krachen, von dem auf dem freien Feld die tausendköpfige Menge zusammengezuckt war. Er drehte den zweiten Rheostaten. Ein dumpfes Krachen unter den Füßen, und die Erschütterungen des Apparats wurden so stark, dass Gussew sich am Sitz festklammerte und die Augen aufriss. Los schaltete beide Rheostaten ein. Der Apparat ruckte an. Die Schläge wurden weicher, die Erschütterung ließ nach. Los rief: „Wir sind aufgestiegen.“ Gussew wischte sich den Schweiß vom Gesicht. Es wurde heiß. Der Geschwindigkeitsmesser zeigte fünfzig Meter pro Sekunde, der Zeiger rückte weiter vor.",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "high",
+        "resolution": "2k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

@@ -194,13 +194,79 @@ def clean_text(text: str) -> str:
     return text.strip()
 
 
-def main():
-    # Verzeichnisse erstellen
+def scene_heading(number: int, title: str = "") -> str:
+    title = clean_text(title)
+    if title:
+        return f"## {number}. {title}"
+    return f"## {number}"
+
+
+def write_pipeline_scenes(chap_num: str, scenes: list[dict]) -> int:
+    """Schreibt scene-NN.md und die Kapitelquelle mit ##-Headings."""
+    scene_dir = SCENES_DIR / chap_num
+    scene_dir.mkdir(parents=True, exist_ok=True)
+
+    # Alte Import-Artefakte und veraltete Monolith-Szenen entfernen
+    for stale in scene_dir.glob("*-source.md"):
+        stale.unlink()
+    for stale in scene_dir.glob("scene-*.md"):
+        stale.unlink()
+
+    chapter_parts: list[str] = []
+    written = 0
+    for i, scene in enumerate(scenes, start=1):
+        body = clean_text(scene.get("text") or "")
+        if not body:
+            continue
+        heading = scene_heading(i, scene.get("title") or "")
+        block = f"{heading}\n\n{body}"
+        scene_path = scene_dir / f"scene-{i:02d}.md"
+        scene_path.write_text(block + "\n", encoding="utf-8")
+        chapter_parts.append(block)
+        written += 1
+
+    chapter_path = CHAPTERS_DIR / f"{chap_num}-source.md"
+    chapter_path.write_text("\n\n".join(chapter_parts) + "\n", encoding="utf-8")
+    print(f"  -> {chapter_path.name} ({chapter_path.stat().st_size} Bytes)")
+    print(f"  -> {written} Szenen als scene-NN.md")
+    return written
+
+
+def migrate_existing_section_files() -> int:
+    """Wandelt vorhandene NN-source.md in Pipeline-scene-NN.md um."""
+    if not SCENES_DIR.exists():
+        print("Keine scenes/ja-Dateien gefunden.")
+        return 0
+
+    total = 0
+    for chap_dir in sorted(p for p in SCENES_DIR.iterdir() if p.is_dir()):
+        sources = sorted(chap_dir.glob("[0-9][0-9]-source.md"))
+        if not sources:
+            continue
+
+        scenes: list[dict] = []
+        for src in sources:
+            raw = src.read_text(encoding="utf-8")
+            lines = raw.splitlines()
+            title = ""
+            if lines and lines[0].startswith("# "):
+                title = lines[0][2:].strip()
+                body = "\n".join(lines[1:])
+            else:
+                body = raw
+            scenes.append({"title": title, "text": body})
+
+        print(f"Migriere Kapitel {chap_dir.name} ({len(sources)} Abschnitte)...")
+        total += write_pipeline_scenes(chap_dir.name, scenes)
+
+    return total
+
+
+def import_from_epub() -> int:
     CHAPTERS_DIR.mkdir(parents=True, exist_ok=True)
     SCENES_DIR.mkdir(parents=True, exist_ok=True)
 
     total_scenes = 0
-
     for xhtml_file, chap_num in sorted(XHTML_TO_CHAPTER.items()):
         src_path = SOURCE_DIR / xhtml_file
         if not src_path.exists():
@@ -208,38 +274,38 @@ def main():
             continue
 
         print(f"Verarbeite {xhtml_file} → Kapitel {chap_num}...")
-
-        # XHTML lesen
         html_content = src_path.read_text(encoding="utf-8")
-
-        # HTML strippen und Szenen extrahieren
-        full_text, scenes = strip_html(html_content)
-        full_text = clean_text(full_text)
-
-        # Kapitel-Datei schreiben (Plaintext mit allen Szenen)
-        chapter_path = CHAPTERS_DIR / f"{chap_num}-source.md"
-        chapter_path.write_text(full_text, encoding="utf-8")
-        print(f"  → {chapter_path.name} ({len(full_text)} Zeichen)")
-
-        # Szenen-Dateien schreiben
-        scene_dir = SCENES_DIR / chap_num
-        scene_dir.mkdir(parents=True, exist_ok=True)
-
-        for i, scene in enumerate(scenes, start=1):
-            scene_num = f"{i:02d}"
-            scene_path = scene_dir / f"{scene_num}-source.md"
-            scene_text = clean_text(scene["text"])
-            if not scene_text.strip():
-                continue
-            # Titel und Text
-            header = f"# {scene['title']}\n\n" if scene["title"] else ""
-            scene_path.write_text(header + scene_text, encoding="utf-8")
-            total_scenes += 1
-
-        print(f"  → {len(scenes)} Szenen extrahiert")
+        _full_text, scenes = strip_html(html_content)
+        total_scenes += write_pipeline_scenes(chap_num, scenes)
 
     print(f"\nFertig! {len(XHTML_TO_CHAPTER)} Kapitel, {total_scenes} Szenen extrahiert.")
+    return total_scenes
+
+
+def main() -> int:
+    import argparse
+
+    ap = argparse.ArgumentParser(
+        description=(
+            "Importiert die Geheime Geschichte der Mongolen aus dem "
+            "Wikisource-EPUB in Kapitel- und scene-NN.md-Dateien."
+        )
+    )
+    ap.add_argument(
+        "--migrate-existing",
+        action="store_true",
+        help="Vorhandene NN-source.md nach scene-NN.md migrieren (ohne EPUB).",
+    )
+    args = ap.parse_args()
+
+    if args.migrate_existing:
+        total = migrate_existing_section_files()
+        print(f"\nMigration fertig: {total} Szenen.")
+        return 0
+
+    import_from_epub()
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())

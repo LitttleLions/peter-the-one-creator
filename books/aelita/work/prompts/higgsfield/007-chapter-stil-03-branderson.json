@@ -1,0 +1,57 @@
+{
+  "book": "aelita",
+  "chapter": "007",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-03-branderson",
+  "model": "gpt_image_2",
+  "moodboard": "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "render_quality": "high",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\scenes\\de\\stil-03-branderson\\007\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\prompts\\higgsfield\\007-chapter-stil-03-branderson.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\assets\\chapter\\chapter-007.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 007. Post-revolutionary Soviet Union, 1920s Petrograd, and an ancient Mars civilisation. Cinematic literary science-fiction illustration, elegant realism, painterly detail, atmospheric depth. Post-revolutionary Soviet Union, 1920s Petrograd, and an ancient Mars civilisation. Two Soviet man travellers and a Martian female princess; Martians look human but with subtle bird-like facial features and blue-tinged skin and a very long sharp nose. Red deserts, canals, vertical cities, winged airships. Atmospheric depth, Martian architecture, alien flora and fauna. Cinematic literary illustration, painterly detail, no lettering. Clear central figure or charged situation; emotionally resonant, historically and futuristically grounded. Characters present: Mstislaw Sergejewitsch Los: sowjetische ingeneur mit mütze; Alexei Iwanowitsch Gussew: rotarmist, 50 jahr, schwarzee haar. Die silbrige Scheibe des Mars, stellenweise wie von Wölkchen überhaucht, nahm merklich an Größe zu. Blendend leuchtete der Fleck der Eismassen am Südpol. Darunter breitete sich ein gebogener Nebelfleck aus. Im Osten reichte er bis zum Äquator, stieg nahe dem mittleren Meridian an, umzog sanft eine hellere Oberfläche und gabelte sich, am Westrand der Scheibe eine zweite Landspitze bildend. Am Äquator waren fünf dunkle Punkte angeordnet – runde Flecken, deutlich sichtbar. Sie waren durch gerade Linien verbunden, die zwei gleichseitige Dreiecke und ein drittes, längliches, aufzeichneten. Der Fuß des östlichen Dreiecks war von einem regelmäßigen Bogen umfasst. Von dessen Mitte bis zum äußersten westlichen Punkt verlief ein zweiter Halbkreis. Mehrere Linien, Punkte und Halbkreise waren westlich und östlich dieser Äquatorialgruppe verstreut. Der Nordpol versank im Dunst. Los starrte gierig auf dieses Netz von Linien: Da waren sie also, die die Astronomen um den Verstand brachten, die sich ständig veränderten, die geometrisch regelmäßigen, die unbegreiflichen Kanäle des Mars. Los unterschied nun unter dieser deutlichen Zeichnung ein zweites, kaum hervortretendes, wie ausgelöschtes Liniennetz. Er begann, eine ungefähre Skizze davon in sein Notizbuch zu werfen. Plötzlich erzitterte die Marsscheibe und schwamm im Okular des Gucklochs dahin. Los stürzte zu den Rheostaten: Das Gerät drehte sich mit dem Hals zum Planeten. Los verringerte den Motor und schaltete ihn ganz aus. Der Geschwindigkeitswechsel war nun weniger schmerzhaft. Aber es trat eine Stille ein, die so quälend war, dass Gussew das Gesicht in den Händen vergrub und sich die Ohren zuhielt. Los lag auf dem Boden und beobachtete, wie die silberne Scheibe größer wurde, wuchs, immer gewölbter erschien. Es schien, als flöge er selbst nun aus der schwarzen Tiefe auf sie zu.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_151057_4383085b-5cb4-43f6-878c-b6c1adc89dc2.png",
+  "job_result": [
+    {
+      "id": "4383085b-5cb4-43f6-878c-b6c1adc89dc2",
+      "status": "completed",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_151057_4383085b-5cb4-43f6-878c-b6c1adc89dc2.png",
+      "created_at": 1785165057.133832,
+      "params": {
+        "width": 1744,
+        "height": 2336,
+        "prompt": "Chapter 007. Post-revolutionary Soviet Union, 1920s Petrograd, and an ancient Mars civilisation. Cinematic literary science-fiction illustration, elegant realism, painterly detail, atmospheric depth. Post-revolutionary Soviet Union, 1920s Petrograd, and an ancient Mars civilisation. Two Soviet man travellers and a Martian female princess; Martians look human but with subtle bird-like facial features and blue-tinged skin and a very long sharp nose. Red deserts, canals, vertical cities, winged airships. Atmospheric depth, Martian architecture, alien flora and fauna. Cinematic literary illustration, painterly detail, no lettering. Clear central figure or charged situation; emotionally resonant, historically and futuristically grounded. Characters present: Mstislaw Sergejewitsch Los: sowjetische ingeneur mit mütze; Alexei Iwanowitsch Gussew: rotarmist, 50 jahr, schwarzee haar. Die silbrige Scheibe des Mars, stellenweise wie von Wölkchen überhaucht, nahm merklich an Größe zu. Blendend leuchtete der Fleck der Eismassen am Südpol. Darunter breitete sich ein gebogener Nebelfleck aus. Im Osten reichte er bis zum Äquator, stieg nahe dem mittleren Meridian an, umzog sanft eine hellere Oberfläche und gabelte sich, am Westrand der Scheibe eine zweite Landspitze bildend. Am Äquator waren fünf dunkle Punkte angeordnet – runde Flecken, deutlich sichtbar. Sie waren durch gerade Linien verbunden, die zwei gleichseitige Dreiecke und ein drittes, längliches, aufzeichneten. Der Fuß des östlichen Dreiecks war von einem regelmäßigen Bogen umfasst. Von dessen Mitte bis zum äußersten westlichen Punkt verlief ein zweiter Halbkreis. Mehrere Linien, Punkte und Halbkreise waren westlich und östlich dieser Äquatorialgruppe verstreut. Der Nordpol versank im Dunst. Los starrte gierig auf dieses Netz von Linien: Da waren sie also, die die Astronomen um den Verstand brachten, die sich ständig veränderten, die geometrisch regelmäßigen, die unbegreiflichen Kanäle des Mars. Los unterschied nun unter dieser deutlichen Zeichnung ein zweites, kaum hervortretendes, wie ausgelöschtes Liniennetz. Er begann, eine ungefähre Skizze davon in sein Notizbuch zu werfen. Plötzlich erzitterte die Marsscheibe und schwamm im Okular des Gucklochs dahin. Los stürzte zu den Rheostaten: Das Gerät drehte sich mit dem Hals zum Planeten. Los verringerte den Motor und schaltete ihn ganz aus. Der Geschwindigkeitswechsel war nun weniger schmerzhaft. Aber es trat eine Stille ein, die so quälend war, dass Gussew das Gesicht in den Händen vergrub und sich die Ohren zuhielt. Los lag auf dem Boden und beobachtete, wie die silberne Scheibe größer wurde, wuchs, immer gewölbter erschien. Es schien, als flöge er selbst nun aus der schwarzen Tiefe auf sie zu.",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "high",
+        "resolution": "2k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

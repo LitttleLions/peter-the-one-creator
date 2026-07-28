@@ -1,0 +1,57 @@
+{
+  "book": "leben-arsenjews",
+  "chapter": "050",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "render_quality": "medium",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\leben-arsenjews\\work\\scenes\\de\\stil-02-poetisch\\050\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\leben-arsenjews\\work\\prompts\\higgsfield\\050-chapter-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\leben-arsenjews\\assets\\chapter\\chapter-050.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 050. High-quality full-bleed chapter illustration for Ivan Bunin’s The Life of Arseniev: one continuous painterly scene of a single quiet remembered moment, with one clear central figure or central situation filling the frame. Late 19th-century provincial central Russia: manor estates, endless grain fields, birch and garden light, wide skies, quiet rivers, country roads, and small provincial towns. Style: poetic memory realism, soft atmospheric light, muted elegant palette, gentle painterly texture, restrained emotion, Russian impressionist landscape influence, premium modern classics aesthetic. Prefer landscape and remembered atmosphere. When an adult figure appears, it is always the same narrator Arseniev: slender Russian man about 35–45, dark wavy hair, clean-shaven or light stubble, dark frock coat, often a quiet Rückenfigur looking into fields, river light, or a manor yard. When the text remembers childhood, show that child’s solitude among fields, sky, manor yard, or first town glimpses — a small boy in simple period clothes. Elegant negative space, soft focus in secondary areas, calm readable composition. Über dem Feld düsterte es dämmernd, ein rauer Wind blies, und ich atmete mit voller Brust seine vorwinterliche Frische ein, fühlte mit Genuß seine gesunde Kälte auf meinem jungen, heißen Gesicht und trieb und trieb die Kabardinka an. Ich habe die rasche Fahrt stets geliebt – habe mich immer heiß an das Pferd gehängt, auf dem ich ritt, und bin doch zugleich stets entsetzlich unbarmherzig zu ihm gewesen. Diesmal ritt ich besonders schnell. Dachte ich, träumte ich von etwas Bestimmtem? Doch in jenen Fällen, da im Leben eines Menschen etwas Wichtiges oder zumindest Bedeutendes geschehen ist und es gilt, daraus einen Schluß zu ziehen oder einen Entschluß zu fassen, denkt der Mensch wenig, überläßt sich lieber der geheimen Arbeit der Seele. Und ich erinnere mich gut, daß meine irgendwie männlich-erregte Seele den ganzen Weg bis zur Stadt ruhelos an etwas arbeitete. Woran? Ich wußte es noch nicht, nur fühlte ich wieder das Verlangen nach irgendeiner Veränderung des Lebens, nach Befreiung von etwas – und ein Streben, irgendwohin … Ich erinnere mich, an der Stanowaja hielt ich für eine Minute an. Die Nacht brach herein, über dem Feld wurde es noch düsterer und trauriger. Keine Seele, so schien es, war nicht nur auf dieser stillen, von aller Welt vergessenen Straße, sondern auf hundert Werst im Umkreis. Ödnis, Weite, Einöde … Ach, gut, dachte ich und ließ die Zügel sinken. Die Kabardinka stand, atmete tief die Flanken auf und erstarrte. Ich, mit steifgefrorenen Knien, stieg aus dem erhitzten, glitschigen Sattel, blickte scharf und wachsam umher, der alten Räuberlegenden der Stanowaja gedenkend und insgeheim sogar eine furchtbare Begegnung, ein unheimliches Handgemenge mit jemandem herbeiwünschend, zog die Sattelgurte nach, zog den ledernen Leibriemen über der Joppe fester und rückte den Dolch daran zurecht … Der Wind blies mir jäh, drückend, wie kaltes Wasser in die Seite, schlug, dröhnte im Ohr, raschelte unruhig und diebisch in der unsicheren Dämmerung der Felder, in den...",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_180527_69ee1ae4-4b98-47e5-b43f-d0fd45b5dc8e.png",
+  "job_result": [
+    {
+      "id": "69ee1ae4-4b98-47e5-b43f-d0fd45b5dc8e",
+      "status": "completed",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_180527_69ee1ae4-4b98-47e5-b43f-d0fd45b5dc8e.png",
+      "created_at": 1785175527.919547,
+      "params": {
+        "width": 1744,
+        "height": 2336,
+        "prompt": "Chapter 050. High-quality full-bleed chapter illustration for Ivan Bunin’s The Life of Arseniev: one continuous painterly scene of a single quiet remembered moment, with one clear central figure or central situation filling the frame. Late 19th-century provincial central Russia: manor estates, endless grain fields, birch and garden light, wide skies, quiet rivers, country roads, and small provincial towns. Style: poetic memory realism, soft atmospheric light, muted elegant palette, gentle painterly texture, restrained emotion, Russian impressionist landscape influence, premium modern classics aesthetic. Prefer landscape and remembered atmosphere. When an adult figure appears, it is always the same narrator Arseniev: slender Russian man about 35–45, dark wavy hair, clean-shaven or light stubble, dark frock coat, often a quiet Rückenfigur looking into fields, river light, or a manor yard. When the text remembers childhood, show that child’s solitude among fields, sky, manor yard, or first town glimpses — a small boy in simple period clothes. Elegant negative space, soft focus in secondary areas, calm readable composition. Über dem Feld düsterte es dämmernd, ein rauer Wind blies, und ich atmete mit voller Brust seine vorwinterliche Frische ein, fühlte mit Genuß seine gesunde Kälte auf meinem jungen, heißen Gesicht und trieb und trieb die Kabardinka an. Ich habe die rasche Fahrt stets geliebt – habe mich immer heiß an das Pferd gehängt, auf dem ich ritt, und bin doch zugleich stets entsetzlich unbarmherzig zu ihm gewesen. Diesmal ritt ich besonders schnell. Dachte ich, träumte ich von etwas Bestimmtem? Doch in jenen Fällen, da im Leben eines Menschen etwas Wichtiges oder zumindest Bedeutendes geschehen ist und es gilt, daraus einen Schluß zu ziehen oder einen Entschluß zu fassen, denkt der Mensch wenig, überläßt sich lieber der geheimen Arbeit der Seele. Und ich erinnere mich gut, daß meine irgendwie männlich-erregte Seele den ganzen Weg bis zur Stadt ruhelos an etwas arbeitete. Woran? Ich wußte es noch nicht, nur fühlte ich wieder das Verlangen nach irgendeiner Veränderung des Lebens, nach Befreiung von etwas – und ein Streben, irgendwohin … Ich erinnere mich, an der Stanowaja hielt ich für eine Minute an. Die Nacht brach herein, über dem Feld wurde es noch düsterer und trauriger. Keine Seele, so schien es, war nicht nur auf dieser stillen, von aller Welt vergessenen Straße, sondern auf hundert Werst im Umkreis. Ödnis, Weite, Einöde … Ach, gut, dachte ich und ließ die Zügel sinken. Die Kabardinka stand, atmete tief die Flanken auf und erstarrte. Ich, mit steifgefrorenen Knien, stieg aus dem erhitzten, glitschigen Sattel, blickte scharf und wachsam umher, der alten Räuberlegenden der Stanowaja gedenkend und insgeheim sogar eine furchtbare Begegnung, ein unheimliches Handgemenge mit jemandem herbeiwünschend, zog die Sattelgurte nach, zog den ledernen Leibriemen über der Joppe fester und rückte den Dolch daran zurecht … Der Wind blies mir jäh, drückend, wie kaltes Wasser in die Seite, schlug, dröhnte im Ohr, raschelte unruhig und diebisch in der unsicheren Dämmerung der Felder, in den...",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "medium",
+        "resolution": "2k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

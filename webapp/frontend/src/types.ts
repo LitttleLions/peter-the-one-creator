@@ -5,9 +5,15 @@ export type BookSummary = {
   source_lang?: string;
   target_lang?: string;
   style_mode: string;
+  source_path?: string;
+  ruleset_apply?: boolean;
   ai_provider?: string;
   ai_model?: string;
   chunk_char_limit?: number;
+  higgsfield_model?: string;
+  higgsfield_quality?: string;
+  higgsfield_aspect_ratio?: string;
+  illustration_setting?: string;
   chapters: number;
   missing_scenes: number;
   book_root?: string;
@@ -28,6 +34,7 @@ export type WorkspaceSettings = {
 
 export type ChapterRow = {
   Kapitel: string;
+  Label?: string;
   Status?: string;
   "Titel RU"?: string;
   RU: number;
@@ -211,11 +218,21 @@ export type IllustrationBatchRequest = {
   moodboard?: string;
   aspect_ratio?: string;
   quality?: string;
+  render_quality?: string;
   missing?: boolean;
   overwrite?: boolean;
   dry_run?: boolean;
   no_reference?: boolean;
   allow_paid_generation?: boolean;
+};
+
+export type OptimizeAssetsRequest = {
+  action: "optimize_assets";
+  book_id: string;
+  scope?: "all" | "cover" | "chapter" | "scene";
+  dry_run?: boolean;
+  skip_existing?: boolean;
+  include_test?: boolean;
 };
 
 export type BooksResponse = {
@@ -260,6 +277,17 @@ export type BookSettingsSaveResponse = {
   saved: boolean;
   summary: BookSummary;
   book: Record<string, unknown>;
+};
+
+export type IllustrationSettingSaveRequest = {
+  illustration_setting: string;
+};
+
+export type IllustrationSettingSaveResponse = {
+  book_id: string;
+  saved: boolean;
+  illustration_setting: string;
+  summary: BookSummary;
 };
 
 export type ReviewFileInfo = {
@@ -325,6 +353,26 @@ export type ReviewArtifactsResponse = {
 };
 
 export type ModelsResponse = {
+  models: ModelOption[];
+};
+
+export type HiggsfieldModelOption = {
+  id: string;
+  label: string;
+  size_param?: string;
+  size_options?: string[];
+  default_size?: string;
+  render_quality_param?: string;
+  render_quality_options?: string[];
+  default_render_quality?: string;
+};
+
+export type HiggsfieldModelsResponse = {
+  default: string;
+  models: HiggsfieldModelOption[];
+};
+
+export type OllamaModelsResponse = {
   models: ModelOption[];
 };
 

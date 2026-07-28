@@ -88,6 +88,8 @@ def main() -> int:
                 stdout=log_handle,
                 stderr=subprocess.STDOUT,
                 text=True,
+                encoding="utf-8",
+                errors="replace",
                 env=child_env,
             )
             job["child_pid"] = child.pid

@@ -1,0 +1,55 @@
+{
+  "book": "die-dritte-chronik",
+  "chapter": "005",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "nano_banana_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\chapters\\005-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\prompts\\higgsfield\\005-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\assets\\chapter\\chapter-005.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "nano_banana_2",
+    "--prompt",
+    "TRACKING book=die-dritte-chronik | chapter=005 | kind=chapter | title=An eine Tote. Pure pictorial illustration only: unbroken imagery without lettering, captions, typography, watermarks, logos, UI chrome, or readable writing anywhere in the frame. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Karakorum, im Mond des ersten Schnees Schwester, ich weiß nicht, ob Briefe an Tote gelesen werden. Aber ich weiß, dass Briefe an Lebende verloren gehen können. Verkauft. Verraten. Verbrannt. Dich kann mir niemand mehr nehmen. Darum schreibe ich dir alles. Ich bin in Karakorum. Du würdest die Stadt nicht erkennen, weil sie keine ist. Sie ist ein Lager, das sich Stadt nennt, ein Kreis aus Filzwänden und Lehm, den der Wind jedes Jahr ein Stück weiter trägt. Die Chinesen nennen sie die Stadt des ewigen Friedens, aber sie lügen, wie alle, die Namen geben. Es gibt hier keinen Frieden. Es gibt nur die Stille vor dem nächsten Befehl. Ich bin wichtig, Schwester. Stell dir das vor. Eine von uns, wichtig. Der Satz schmeckt mir nicht, wenn ich ihn aufschreibe. Er schmeckt nach etwas, das ich nicht essen wollte, aber doch gegessen habe. Ich bin wichtig, weil die Frau, die über alles herrscht, mir vertraut. Sie vertraut mir mehr als ihren Söhnen, mehr als ihren Generälen, mehr als den Männern, die ihre Gesetze schreiben. Ich bin die Einzige, die sie nachts ruft, wenn die Lampe brennt und die Papiere auf dem Tisch liegen wie tote Vögel.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_175900_4d621a15-b8e7-4b8b-829d-3cbd81a62562.jpeg",
+  "job_result": [
+    {
+      "id": "4d621a15-b8e7-4b8b-829d-3cbd81a62562",
+      "status": "completed",
+      "display_name": "Nano Banana Pro",
+      "job_set_type": "nano_banana_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_175900_4d621a15-b8e7-4b8b-829d-3cbd81a62562.jpeg",
+      "created_at": 1784829540.260776,
+      "params": {
+        "width": 896,
+        "height": 1200,
+        "aspect_ratio": "3:4",
+        "resolution": "1k",
+        "batch_size": 1,
+        "input_images": [],
+        "input_image": null,
+        "application": null,
+        "surface": null,
+        "prompt": "TRACKING book=die-dritte-chronik | chapter=005 | kind=chapter | title=An eine Tote. Pure pictorial illustration only: unbroken imagery without lettering, captions, typography, watermarks, logos, UI chrome, or readable writing anywhere in the frame. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Karakorum, im Mond des ersten Schnees Schwester, ich weiß nicht, ob Briefe an Tote gelesen werden. Aber ich weiß, dass Briefe an Lebende verloren gehen können. Verkauft. Verraten. Verbrannt. Dich kann mir niemand mehr nehmen. Darum schreibe ich dir alles. Ich bin in Karakorum. Du würdest die Stadt nicht erkennen, weil sie keine ist. Sie ist ein Lager, das sich Stadt nennt, ein Kreis aus Filzwänden und Lehm, den der Wind jedes Jahr ein Stück weiter trägt. Die Chinesen nennen sie die Stadt des ewigen Friedens, aber sie lügen, wie alle, die Namen geben. Es gibt hier keinen Frieden. Es gibt nur die Stille vor dem nächsten Befehl. Ich bin wichtig, Schwester. Stell dir das vor. Eine von uns, wichtig. Der Satz schmeckt mir nicht, wenn ich ihn aufschreibe. Er schmeckt nach etwas, das ich nicht essen wollte, aber doch gegessen habe. Ich bin wichtig, weil die Frau, die über alles herrscht, mir vertraut. Sie vertraut mir mehr als ihren Söhnen, mehr als ihren Generälen, mehr als den Männern, die ihre Gesetze schreiben. Ich bin die Einzige, die sie nachts ruft, wenn die Lampe brennt und die Papiere auf dem Tisch liegen wie tote Vögel."
+      }
+    }
+  ]
+}

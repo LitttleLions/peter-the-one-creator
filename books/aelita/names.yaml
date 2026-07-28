@@ -1,259 +1,270 @@
 entries:
-- source: "Аэлита"
-  target: "Aëlita"
+- source: Аэлита
+  target: Aëlita
+  aliases:
+  - Aelita
+  type: person
+  status: confirmed
+  note: Titelfigur; Tochter Tuskubs. Das Trema wird in dieser Ausgabe konsequent verwendet.
+  visual: schöne marsianerin, blaue haut, leichtes vogelgesicht
+- source: Мстислав Сергеевич Лось
+  target: Mstislaw Sergejewitsch Los
+  aliases:
+  - Лось
+  - Los
+  type: person
+  status: confirmed
+  note: Ingenieur, Erfinder des Raumschiffs und männlicher Protagonist.
+  visual: sowjetische ingeneur mit mütze
+- source: Алексей Иванович Гусев
+  target: Alexei Iwanowitsch Gussew
+  aliases:
+  - Гусев
+  - Gussew
+  type: person
+  status: confirmed
+  note: Ehemaliger Rotarmist und Begleiter von Los.
+  visual: rotarmist, 50 jahr, schwarzee haar
+- source: Маша
+  target: Mascha
   aliases: []
-  type: "person"
-  status: "confirmed"
-  note: "Titelfigur; Tochter Tuskubs. Das Trema wird in dieser Ausgabe konsequent verwendet."
-- source: "Мстислав Сергеевич Лось"
-  target: "Mstislaw Sergejewitsch Los"
-  aliases: ["Лось"]
-  type: "person"
-  status: "confirmed"
-  note: "Ingenieur, Erfinder des Raumschiffs und männlicher Protagonist."
-- source: "Алексей Иванович Гусев"
-  target: "Alexei Iwanowitsch Gussew"
-  aliases: ["Гусев"]
-  type: "person"
-  status: "confirmed"
-  note: "Ehemaliger Rotarmist und Begleiter von Los."
-- source: "Маша"
-  target: "Mascha"
+  type: person
+  status: draft
+  note: Ehefrau Gussews auf der Erde.
+- source: Арчибальд Скайльс
+  target: Archibald Skyles
+  aliases:
+  - Скайльс
+  type: person
+  status: draft
+  note: Korrespondent einer amerikanischen Zeitung.
+- source: Тускуб
+  target: Tuskub
   aliases: []
-  type: "person"
-  status: "draft"
-  note: "Ehefrau Gussews auf der Erde."
-- source: "Арчибальд Скайльс"
-  target: "Archibald Skyles"
-  aliases: ["Скайльс"]
-  type: "person"
-  status: "draft"
-  note: "Korrespondent einer amerikanischen Zeitung."
-- source: "Тускуб"
-  target: "Tuskub"
+  type: person
+  status: confirmed
+  note: Herrscher des Mars und Vater Aëlitas.
+- source: Иха
+  target: Icha
+  aliases:
+  - Ихошка
+  type: person
+  status: draft
+  note: Marsianische Dienerin und Vertraute Gussews; gelegentlich auch Ichoschka genannt.
+- source: Гор
+  target: Gor
   aliases: []
-  type: "person"
-  status: "confirmed"
-  note: "Herrscher des Mars und Vater Aëlitas."
-- source: "Иха"
-  target: "Icha"
-  aliases: ["Ихошка"]
-  type: "person"
-  status: "draft"
-  note: "Marsianische Dienerin und Vertraute Gussews; gelegentlich auch Ichoschka genannt."
-- source: "Гор"
-  target: "Gor"
+  type: person
+  status: draft
+  note: Ingenieur und führende Figur des marsianischen Widerstands.
+- source: Магр
+  target: Magr
   aliases: []
-  type: "person"
-  status: "draft"
-  note: "Ingenieur und führende Figur des marsianischen Widerstands."
-- source: "Магр"
-  target: "Magr"
+  type: person
+  status: draft
+  note: Legendäre Königin der Marsgeschichte; Namensgeberin des unterirdischen Labyrinths.
+- source: Тубал
+  target: Tubal
   aliases: []
-  type: "person"
-  status: "draft"
-  note: "Legendäre Königin der Marsgeschichte; Namensgeberin des unterirdischen Labyrinths."
-- source: "Тубал"
-  target: "Tubal"
+  type: person
+  status: draft
+  note: Herrscherfigur der in Aëlitas Erzählung dargestellten Erd- und Atlantisgeschichte.
+- source: Рама
+  target: Rama
   aliases: []
-  type: "person"
-  status: "draft"
-  note: "Herrscherfigur der in Aëlitas Erzählung dargestellten Erd- und Atlantisgeschichte."
-- source: "Рама"
-  target: "Rama"
+  type: person
+  status: draft
+  note: Legendärer Eroberer der Erdgeschichte in Aëlitas zweiter Erzählung.
+- source: Уру
+  target: Uru
   aliases: []
-  type: "person"
-  status: "draft"
-  note: "Legendärer Eroberer der Erdgeschichte in Aëlitas zweiter Erzählung."
-- source: "Уру"
-  target: "Uru"
+  type: person
+  status: draft
+  note: Legendärer Anführer und Begründer einer Herrscherdynastie.
+- source: Марс
+  target: Mars
   aliases: []
-  type: "person"
-  status: "draft"
-  note: "Legendärer Anführer und Begründer einer Herrscherdynastie."
-- source: "Марс"
-  target: "Mars"
+  type: place
+  status: confirmed
+  note: Planet der Handlung; von seinen Bewohnern Tuma genannt.
+- source: Тума
+  target: Tuma
   aliases: []
-  type: "place"
-  status: "confirmed"
-  note: "Planet der Handlung; von seinen Bewohnern Tuma genannt."
-- source: "Тума"
-  target: "Tuma"
+  type: place
+  status: draft
+  note: Marsianische Bezeichnung für den Mars.
+- source: Талцетл
+  target: Talzetl
   aliases: []
-  type: "place"
-  status: "draft"
-  note: "Marsianische Bezeichnung für den Mars."
-- source: "Талцетл"
-  target: "Talzetl"
+  type: place
+  status: draft
+  note: Marsianische Bezeichnung für die Erde.
+- source: Петроград
+  target: Petrograd
   aliases: []
-  type: "place"
-  status: "draft"
-  note: "Marsianische Bezeichnung für die Erde."
-- source: "Петроград"
-  target: "Petrograd"
+  type: place
+  status: confirmed
+  note: Ausgangspunkt der Expedition im nachrevolutionären Russland.
+- source: Нева
+  target: Newa
   aliases: []
-  type: "place"
-  status: "confirmed"
-  note: "Ausgangspunkt der Expedition im nachrevolutionären Russland."
-- source: "Нева"
-  target: "Newa"
+  type: place
+  status: confirmed
+  note: Fluss in Petrograd.
+- source: Соацера
+  target: Soazera
   aliases: []
-  type: "place"
-  status: "confirmed"
-  note: "Fluss in Petrograd."
-- source: "Соацера"
-  target: "Soazera"
+  type: place
+  status: draft
+  note: Große marsianische Stadt; der Name bedeutet Sonnenstadt oder Sonnensiedlung.
+- source: Азора
+  target: Asora
   aliases: []
-  type: "place"
-  status: "draft"
-  note: "Große marsianische Stadt; der Name bedeutet Sonnenstadt oder Sonnensiedlung."
-- source: "Азора"
-  target: "Asora"
+  type: place
+  status: draft
+  note: Fruchtbare marsianische Ebene; der Name bedeutet Freude.
+- source: Лизиазира
+  target: Lisiasira
   aliases: []
-  type: "place"
-  status: "draft"
-  note: "Fruchtbare marsianische Ebene; der Name bedeutet Freude."
-- source: "Лизиазира"
-  target: "Lisiasira"
+  type: place
+  status: draft
+  note: Gebirgskette auf dem Mars.
+- source: Соам
+  target: Soam
   aliases: []
-  type: "place"
-  status: "draft"
-  note: "Gebirgskette auf dem Mars."
-- source: "Соам"
-  target: "Soam"
+  type: place
+  status: draft
+  note: Großer marsianischer Geysir mit religiöser Bedeutung.
+- source: Священный Порог
+  target: Heilige Schwelle
   aliases: []
-  type: "place"
-  status: "draft"
-  note: "Großer marsianischer Geysir mit religiöser Bedeutung."
-- source: "Священный Порог"
-  target: "Heilige Schwelle"
+  type: place
+  status: draft
+  note: Heiliger Ort in den Bergen Lisiasiras.
+- source: Ро
+  target: Ro
   aliases: []
-  type: "place"
-  status: "draft"
-  note: "Heiliger Ort in den Bergen Lisiasiras."
-- source: "Ро"
-  target: "Ro"
+  type: place
+  status: draft
+  note: Gigantische kreisförmige Wasserreservoire des Mars.
+- source: Атлантида
+  target: Atlantis
   aliases: []
-  type: "place"
-  status: "draft"
-  note: "Gigantische kreisförmige Wasserreservoire des Mars."
-- source: "Атлантида"
-  target: "Atlantis"
+  type: place
+  status: confirmed
+  note: Mythischer Ausgangspunkt der Vorgeschichte der Magazitlen.
+- source: Магацитлы
+  target: Magazitlen
   aliases: []
-  type: "place"
-  status: "confirmed"
-  note: "Mythischer Ausgangspunkt der Vorgeschichte der Magazitlen."
-- source: "Магацитлы"
-  target: "Magazitlen"
+  type: term
+  status: draft
+  note: Nachkommen einer alten irdischen beziehungsweise atlantischen Kultur; frühe
+    Einwanderer auf dem Mars.
+- source: Аолы
+  target: Aolen
   aliases: []
-  type: "term"
-  status: "draft"
-  note: "Nachkommen einer alten irdischen beziehungsweise atlantischen Kultur; frühe Einwanderer auf dem Mars."
-- source: "Аолы"
-  target: "Aolen"
+  type: term
+  status: draft
+  note: Ureinwohner des Mars in Aëlitas Überlieferung.
+- source: племя Гор
+  target: Volk der Gor
   aliases: []
-  type: "term"
-  status: "draft"
-  note: "Ureinwohner des Mars in Aëlitas Überlieferung."
-- source: "племя Гор"
-  target: "Volk der Gor"
+  type: term
+  status: draft
+  note: Blaues marsianisches Mischvolk; nicht mit dem Ingenieur Gor verwechseln.
+- source: Сыны Неба
+  target: Himmelsöhne
   aliases: []
-  type: "term"
-  status: "draft"
-  note: "Blaues marsianisches Mischvolk; nicht mit dem Ingenieur Gor verwechseln."
-- source: "Сыны Неба"
-  target: "Himmelsöhne"
+  type: term
+  status: draft
+  note: Bezeichnung für die aus dem All kommenden Eroberer der alten Marsgeschichte.
+- source: Высший совет
+  target: Oberster Rat
   aliases: []
-  type: "term"
-  status: "draft"
-  note: "Bezeichnung für die aus dem All kommenden Eroberer der alten Marsgeschichte."
-- source: "Высший совет"
-  target: "Oberster Rat"
+  type: term
+  status: draft
+  note: Herrschaftsorgan der marsianischen Gesellschaft.
+- source: лабиринт царицы Магр
+  target: Labyrinth der Königin Magr
   aliases: []
-  type: "term"
-  status: "draft"
-  note: "Herrschaftsorgan der marsianischen Gesellschaft."
-- source: "лабиринт царицы Магр"
-  target: "Labyrinth der Königin Magr"
+  type: place
+  status: draft
+  note: Weit verzweigtes unterirdisches Gangsystem unter dem Mars.
+- source: Хавра
+  target: Chawra
   aliases: []
-  type: "place"
-  status: "draft"
-  note: "Weit verzweigtes unterirdisches Gangsystem unter dem Mars."
-- source: "Хавра"
-  target: "Chawra"
+  type: term
+  status: draft
+  note: Rauschmittel beziehungsweise berauschende Pflanze der Marsgesellschaft.
+- source: Хао
+  target: Chao
   aliases: []
-  type: "term"
-  status: "draft"
-  note: "Rauschmittel beziehungsweise berauschende Pflanze der Marsgesellschaft."
-- source: "Хао"
-  target: "Chao"
+  type: term
+  status: draft
+  note: Marsianischer Begriff für Feuer, Leben, Leidenschaft und erotische Erweckung.
+- source: Шохо
+  target: Schocho
   aliases: []
-  type: "term"
-  status: "draft"
-  note: "Marsianischer Begriff für Feuer, Leben, Leidenschaft und erotische Erweckung."
-- source: "Шохо"
-  target: "Schocho"
+  type: term
+  status: draft
+  note: Marsianische Bezeichnung für einen Menschen oder vernunftbegabten Bewohner.
+- source: Хаши
+  target: Chaschi
   aliases: []
-  type: "term"
-  status: "draft"
-  note: "Marsianische Bezeichnung für einen Menschen oder vernunftbegabten Bewohner."
-- source: "Хаши"
-  target: "Chaschi"
+  type: term
+  status: draft
+  note: Langhaariges marsianisches Herdentier.
+- source: Ча
+  target: Tscha
   aliases: []
-  type: "term"
-  status: "draft"
-  note: "Langhaariges marsianisches Herdentier."
-- source: "Ча"
-  target: "Tscha"
+  type: term
+  status: draft
+  note: Gefährliches marsianisches Raubtier.
+- source: Ихи
+  target: Ichi
   aliases: []
-  type: "term"
-  status: "draft"
-  note: "Gefährliches marsianisches Raubtier."
-- source: "Ихи"
-  target: "Ichi"
+  type: term
+  status: draft
+  note: Fliegendes marsianisches Raubtier.
+- source: Цитли
+  target: Zitli
   aliases: []
-  type: "term"
-  status: "draft"
-  note: "Fliegendes marsianisches Raubtier."
-- source: "Цитли"
-  target: "Zitli"
+  type: term
+  status: draft
+  note: Große Spinnenart der marsianischen Mythologie.
+- source: Улла
+  target: Ulla
   aliases: []
-  type: "term"
-  status: "draft"
-  note: "Große Spinnenart der marsianischen Mythologie."
-- source: "Улла"
-  target: "Ulla"
+  type: term
+  status: draft
+  note: Marsianischer Klang- und Liedbegriff mit ritueller Bedeutung.
+- source: Олла
+  target: Olla
   aliases: []
-  type: "term"
-  status: "draft"
-  note: "Marsianischer Klang- und Liedbegriff mit ritueller Bedeutung."
-- source: "Олла"
-  target: "Olla"
+  type: place
+  status: draft
+  note: Einer der beiden Marsmonde.
+- source: Лихта
+  target: Lichta
   aliases: []
-  type: "place"
-  status: "draft"
-  note: "Einer der beiden Marsmonde."
-- source: "Лихта"
-  target: "Lichta"
+  type: place
+  status: draft
+  note: Einer der beiden Marsmonde.
+- source: Земзе
+  target: Semse
   aliases: []
-  type: "place"
-  status: "draft"
-  note: "Einer der beiden Marsmonde."
-- source: "Земзе"
-  target: "Semse"
+  type: term
+  status: draft
+  note: Volk der legendären Erdgeschichte innerhalb von Aëlitas Erzählung.
+- source: Хамаган
+  target: Chamagan
   aliases: []
-  type: "term"
-  status: "draft"
-  note: "Volk der legendären Erdgeschichte innerhalb von Aëlitas Erzählung."
-- source: "Хамаган"
-  target: "Chamagan"
+  type: place
+  status: draft
+  note: Historische Bezeichnung des Landes der Semse.
+- source: сыны Аама
+  target: Söhne Aams
   aliases: []
-  type: "place"
-  status: "draft"
-  note: "Historische Bezeichnung des Landes der Semse."
-- source: "сыны Аама"
-  target: "Söhne Aams"
-  aliases: []
-  type: "term"
-  status: "draft"
-  note: "Macht- und Wissenselite der legendären Erdgeschichte."
+  type: term
+  status: draft
+  note: Macht- und Wissenselite der legendären Erdgeschichte.

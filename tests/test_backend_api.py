@@ -145,6 +145,41 @@ class BackendApiTests(unittest.TestCase):
         self.assertEqual(body["names"][0]["target"], "Peter")
         self.assertEqual(body["names"][0]["aliases"], "Petr")
 
+    def test_illustration_setting_roundtrip(self) -> None:
+        empty = self.client.get("/api/books/sample")
+        self.assertEqual(empty.status_code, 200)
+        self.assertEqual(empty.json()["summary"].get("illustration_setting") or "", "")
+
+        response = self.client.put(
+            "/api/books/sample/illustration-setting",
+            json={
+                "illustration_setting": (
+                    "Imperial Russia, painterly literary illustration, "
+                    "atmospheric light, clear central figure."
+                )
+            },
+        )
+        self.assertEqual(response.status_code, 200)
+        body = response.json()
+        self.assertTrue(body["saved"])
+        self.assertIn("painterly literary illustration", body["illustration_setting"])
+        self.assertIn(
+            "painterly literary illustration",
+            body["summary"]["illustration_setting"],
+        )
+
+        yaml_text = (self.repo_root / "books" / "sample" / "book.yaml").read_text(
+            encoding="utf-8"
+        )
+        self.assertIn("illustration_setting: >-", yaml_text)
+        self.assertIn("painterly literary illustration", yaml_text)
+
+        too_long = self.client.put(
+            "/api/books/sample/illustration-setting",
+            json={"illustration_setting": "x" * 4001},
+        )
+        self.assertEqual(too_long.status_code, 400)
+
     def test_logs_list_and_detail(self) -> None:
         response = self.client.get("/api/logs?book_id=sample")
 

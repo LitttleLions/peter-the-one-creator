@@ -57,7 +57,7 @@ class OpenRouterClient:
     api_base: str = DEFAULT_API_BASE
     app_name: str = "peter-the-one"
     app_url: str = ""
-    timeout_sec: float = 180.0
+    timeout_sec: float = 300.0
     max_retries: int = 2
     backoff_sec: float = 3.0
     last_usage: dict = field(default_factory=dict)
@@ -187,10 +187,11 @@ class OpenRouterClient:
                 return self._extract_content(data)
 
             except httpx.TimeoutException as e:
-                last_err = e
-                if attempt < self.max_retries:
-                    time.sleep(self.backoff_sec)
-                    continue
+                # Kein Retry bei Timeouts – die API haengt, und
+                # Wiederholungen verlaengern nur die Wartezeit.
+                raise OpenRouterError(
+                    f"OpenRouter-Timeout nach {self.timeout_sec}s: {e}"
+                ) from e
             except httpx.HTTPError as e:
                 last_err = e
                 if attempt < self.max_retries:

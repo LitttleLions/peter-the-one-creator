@@ -8,7 +8,7 @@
   "ruleset_apply": false,
   "style_mode": "stil-01-original",
   "created_at": "2026-07-21T14:21:33",
-  "updated_at": "2026-07-22T21:16:50",
+  "updated_at": "2026-07-27T16:05:21",
   "chapters": [
     {
       "id": "000",
@@ -85,12 +85,12 @@
     {
       "id": "006",
       "title_ru": "Band 6",
-      "title_de": "Buch sechs",
+      "title_de": "1. Dschamucha",
       "status": "needs_review",
       "words_source": 684,
-      "words_target": 3192,
-      "started_at": "2026-07-22T21:14:31",
-      "completed_at": "2026-07-22T21:16:50",
+      "words_target": 3236,
+      "started_at": "2026-07-22T22:17:30",
+      "completed_at": "2026-07-22T22:18:17",
       "needs_review": true,
       "notes": ""
     },
@@ -182,10 +182,10 @@
       "id": "014",
       "title_ru": "Band 14",
       "title_de": "**Band 12-2**",
-      "status": "needs_review",
+      "status": "in_progress",
       "words_source": 779,
       "words_target": 8860,
-      "started_at": "2026-07-21T16:56:35",
+      "started_at": "2026-07-27T15:46:46",
       "completed_at": "2026-07-21T16:59:57",
       "needs_review": true,
       "notes": ""

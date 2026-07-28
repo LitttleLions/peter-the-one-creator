@@ -44,20 +44,20 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--llm",
         choices=["none", "openrouter", "ollama"],
-        default="none",
+        default="ollama",
         help="Optionaler KI-Review-Zusatz.",
     )
     parser.add_argument(
         "--llm-scope",
         choices=["flagged", "all"],
-        default="flagged",
+        default="all",
         help="KI nur fuer auffaellige Szenen oder fuer alle Szenen.",
     )
     parser.add_argument("--model", default=None, help="OpenRouter-Modell")
     parser.add_argument("--ollama-model", default=DEFAULT_OLLAMA_MODEL)
     parser.add_argument("--temperature", type=float, default=0.1)
-    parser.add_argument("--max-tokens", type=int, default=2000)
-    parser.add_argument("--timeout", type=int, default=180)
+    parser.add_argument("--max-tokens", type=int, default=8000)
+    parser.add_argument("--timeout", type=int, default=300)
     parser.add_argument(
         "--format",
         choices=["markdown", "json", "all"],
@@ -89,6 +89,7 @@ def selected_chapters(args: argparse.Namespace, ids: list[str]) -> list[str]:
 
 def build_llm_chat(args: argparse.Namespace, book: dict):
     if args.llm == "none":
+        print("LLM: none (nur deterministischer Regelcheck, kein KI-Review)", flush=True)
         return None
     if args.llm == "ollama":
         print(f"Ollama-Modell: {args.ollama_model}", flush=True)
@@ -102,6 +103,7 @@ def build_llm_chat(args: argparse.Namespace, book: dict):
             temperature=args.temperature,
             max_tokens=args.max_tokens,
             json_mode=True,
+            num_ctx=32768,
         )
     try:
         registry = load_models_registry()

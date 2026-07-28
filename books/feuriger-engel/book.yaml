@@ -14,15 +14,16 @@ log_dir: status/logs
 styles_dir: styles
 assets_dir: assets
 names_file: names.yaml
-illustration_setting: |
-  Cinematic dark literary historical illustration, modern premium classics edition.
-  Strong chiaroscuro, deep shadows, warm candlelight, controlled fire glow, subtle
-  occult diagrams, manuscript textures, gothic stone architecture, Renaissance
-  clothing. Psychologically intense figures, serious, inwardly moved. Symbolist
-  historical mood. Boundary between real historical world and inner vision. Color
-  palette: black, anthracite, smoke gray, dark brown, deep wine red, old gold,
-  copper, fire orange, muted cream white. Light sources: candles, fire, window
-  light, embers, occasional visionary glow.
+illustration_setting: >-
+  Germany around 1535, Renaissance Cologne and the Lower Rhine. Cinematic dark
+  literary historical illustration for a premium classics edition. Strong
+  chiaroscuro, deep shadows, warm candlelight, controlled fire glow, manuscript
+  textures, gothic stone, occult diagrams at the edge of vision. Psychologically
+  intense figures, serious and inwardly moved; boundary between historical reality
+  and inner vision. Color palette: black, anthracite, smoke gray, dark brown, deep
+  wine red, old gold, copper, fire orange, muted cream. Light from candles, fire,
+  windows, embers, occasional visionary glow. Clear central figure or charged
+  situation; symbolist historical mood without pulp occult cliches.
 structure:
   mode: chapter_as_scene
   label: Kapitel als Szenen

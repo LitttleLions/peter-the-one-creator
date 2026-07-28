@@ -8,10 +8,14 @@ entries:
 
 - source: Арсеньев
   target: Arsenjew
-  aliases: []
+  aliases: [Arseniev]
   type: person
   status: draft
   note: Protagonist und Erzähler
+  visual: >-
+    Schlanker russischer Erzaehler, ca. 35-45 Jahre, dunkles welliges Haar,
+    glatt rasiert oder leichter Stoppelbart, dunkler Gehrock; oft als ruhige
+    Rueckenfigur in Landschaft oder vom Gutshof aus.
 
 - source: Лика
   target: Lika

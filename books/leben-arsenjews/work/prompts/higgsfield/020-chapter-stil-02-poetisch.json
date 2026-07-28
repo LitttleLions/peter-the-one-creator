@@ -1,0 +1,57 @@
+{
+  "book": "leben-arsenjews",
+  "chapter": "020",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "render_quality": "medium",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\leben-arsenjews\\work\\scenes\\de\\stil-02-poetisch\\020\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\leben-arsenjews\\work\\prompts\\higgsfield\\020-chapter-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\leben-arsenjews\\assets\\chapter\\chapter-020.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 020. High-quality full-bleed chapter illustration for Ivan Bunin’s The Life of Arseniev: one continuous painterly scene of a single quiet remembered moment, with one clear central figure or central situation filling the frame. Late 19th-century provincial central Russia: manor estates, endless grain fields, birch and garden light, wide skies, quiet rivers, country roads, and small provincial towns. Style: poetic memory realism, soft atmospheric light, muted elegant palette, gentle painterly texture, restrained emotion, Russian impressionist landscape influence, premium modern classics aesthetic. Prefer landscape and remembered atmosphere. When an adult figure appears, it is always the same narrator Arseniev: slender Russian man about 35–45, dark wavy hair, clean-shaven or light stubble, dark frock coat, often a quiet Rückenfigur looking into fields, river light, or a manor yard. When the text remembers childhood, show that child’s solitude among fields, sky, manor yard, or first town glimpses — a small boy in simple period clothes. Elegant negative space, soft focus in secondary areas, calm readable composition. Ende August zog Vater die hohen Stiefel an, gürtete sich den Patronengürtel um, warf die Jagdtasche über die Schulter, nahm die Flinte von der Wand, pfiff mich herbei, dann seine Lieblingshündin, die kastanienbraune Schönheit Dschalma, und wir gingen über die Stoppelfelder entlang der Straße zum Teich. Vater trug nur eine bunte Kosakenbluse und eine weiße Mütze, ich trotz des heißen, trockenen Wetters meine Gymnasiastenuniform. Vater, groß und kräftig, schritt mit festem Schritt voraus, raschelte durch die gelbe Borste der Stoppeln und ließ sich den Rauch seiner Zigarette über die Schulter ziehen; ich eilte hinterher, hielt mich rechts, wie es die Jagdregeln vorschrieben, deren Befolgung mir große Freude bereitete. Er pfiff ermunternd, und Dschalma, mit verhaltener Leidenschaft, den Schwanz fein und schnell schüttelnd und bebend, ganz in Gehör, Sehen und Witterung verwandelt, zog in schnellem, gewundenem Suchen vor uns her. Die Felder waren schon leer, weit, aber noch sommerlich hell und fröhlich. Der heiße Wind ließ bald ganz nach – dann brannte die Sonne, man hörte die Grillen heiß heiser sirren, wie Uhrwerke schlagen und hämmern –, bald wehte er als weiche, trockene Glut, verstärkte sich, flog an uns vorbei und wirbelte plötzlich spielerisch ein Wölkchen Staub auf der während der Arbeitszeit festgefahrenen Straße auf, packte es, wirbelte es und trug es schraubenförmig, wie einen Trichter, keck vor uns her. Wir beobachteten scharf Dschalma, die gleichmäßig und flink zog und uns unmerklich immer weiter mit sich führte. Von Zeit zu Zeit erstarrte sie plötzlich, ganz nach vorn gebeugt, hob die rechte Pfote und bohrte die Augen in das, was vor ihr war, uns unsichtbar. Vater ließ leise fallen: „Fass!“ – sie stürzte auf dieses Unsichtbare, und sofort – ffrr! – schwer und unbeholfen (vom Fett) riss sich ein großer, kurzschwänziger Wachtel unter ihr los und fiel, noch ehe er fünf Schritte geflogen war, wie ein Klumpen wieder in die Stoppeln, vom Schuss getroffen. Ich...",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": null,
+  "job_result": [
+    {
+      "id": "7617495c-e028-4a36-8f5e-e140438fbdf3",
+      "status": "nsfw",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "",
+      "created_at": 1785175072.906478,
+      "params": {
+        "width": 1536,
+        "height": 2048,
+        "prompt": "Chapter 020. High-quality full-bleed chapter illustration for Ivan Bunin’s The Life of Arseniev: one continuous painterly scene of a single quiet remembered moment, with one clear central figure or central situation filling the frame. Late 19th-century provincial central Russia: manor estates, endless grain fields, birch and garden light, wide skies, quiet rivers, country roads, and small provincial towns. Style: poetic memory realism, soft atmospheric light, muted elegant palette, gentle painterly texture, restrained emotion, Russian impressionist landscape influence, premium modern classics aesthetic. Prefer landscape and remembered atmosphere. When an adult figure appears, it is always the same narrator Arseniev: slender Russian man about 35–45, dark wavy hair, clean-shaven or light stubble, dark frock coat, often a quiet Rückenfigur looking into fields, river light, or a manor yard. When the text remembers childhood, show that child’s solitude among fields, sky, manor yard, or first town glimpses — a small boy in simple period clothes. Elegant negative space, soft focus in secondary areas, calm readable composition. Ende August zog Vater die hohen Stiefel an, gürtete sich den Patronengürtel um, warf die Jagdtasche über die Schulter, nahm die Flinte von der Wand, pfiff mich herbei, dann seine Lieblingshündin, die kastanienbraune Schönheit Dschalma, und wir gingen über die Stoppelfelder entlang der Straße zum Teich. Vater trug nur eine bunte Kosakenbluse und eine weiße Mütze, ich trotz des heißen, trockenen Wetters meine Gymnasiastenuniform. Vater, groß und kräftig, schritt mit festem Schritt voraus, raschelte durch die gelbe Borste der Stoppeln und ließ sich den Rauch seiner Zigarette über die Schulter ziehen; ich eilte hinterher, hielt mich rechts, wie es die Jagdregeln vorschrieben, deren Befolgung mir große Freude bereitete. Er pfiff ermunternd, und Dschalma, mit verhaltener Leidenschaft, den Schwanz fein und schnell schüttelnd und bebend, ganz in Gehör, Sehen und Witterung verwandelt, zog in schnellem, gewundenem Suchen vor uns her. Die Felder waren schon leer, weit, aber noch sommerlich hell und fröhlich. Der heiße Wind ließ bald ganz nach – dann brannte die Sonne, man hörte die Grillen heiß heiser sirren, wie Uhrwerke schlagen und hämmern –, bald wehte er als weiche, trockene Glut, verstärkte sich, flog an uns vorbei und wirbelte plötzlich spielerisch ein Wölkchen Staub auf der während der Arbeitszeit festgefahrenen Straße auf, packte es, wirbelte es und trug es schraubenförmig, wie einen Trichter, keck vor uns her. Wir beobachteten scharf Dschalma, die gleichmäßig und flink zog und uns unmerklich immer weiter mit sich führte. Von Zeit zu Zeit erstarrte sie plötzlich, ganz nach vorn gebeugt, hob die rechte Pfote und bohrte die Augen in das, was vor ihr war, uns unsichtbar. Vater ließ leise fallen: „Fass!“ – sie stürzte auf dieses Unsichtbare, und sofort – ffrr! – schwer und unbeholfen (vom Fett) riss sich ein großer, kurzschwänziger Wachtel unter ihr los und fiel, noch ehe er fünf Schritte geflogen war, wie ein Klumpen wieder in die Stoppeln, vom Schuss getroffen. Ich...",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "medium",
+        "resolution": "2k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

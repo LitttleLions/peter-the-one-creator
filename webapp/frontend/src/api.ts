@@ -4,6 +4,7 @@ import type {
   BookNamesResponse,
   BookSettingsSaveRequest,
   BookSettingsSaveResponse,
+  IllustrationSettingSaveResponse,
   BooksResponse,
   ChaptersResponse,
   ExportInfoResponse,
@@ -18,6 +19,8 @@ import type {
   LogDetailResponse,
   LogsResponse,
   ModelsResponse,
+  OptimizeAssetsRequest,
+  HiggsfieldModelsResponse,
   ReviewArtifactsResponse,
   ReviewFixRequest,
   ReviewJobRequest,
@@ -73,6 +76,19 @@ export function saveBookSettings(bookId: string, settings: BookSettingsSaveReque
   });
 }
 
+export function saveIllustrationSetting(
+  bookId: string,
+  illustrationSetting: string
+): Promise<IllustrationSettingSaveResponse> {
+  return requestJson<IllustrationSettingSaveResponse>(
+    `/api/books/${encodeURIComponent(bookId)}/illustration-setting`,
+    {
+      method: "PUT",
+      body: JSON.stringify({ illustration_setting: illustrationSetting })
+    }
+  );
+}
+
 export function getReviewArtifacts(bookId: string, style: string): Promise<ReviewArtifactsResponse> {
   return requestJson<ReviewArtifactsResponse>(`/api/books/${encodeURIComponent(bookId)}/reviews/${encodeURIComponent(style)}`);
 }
@@ -95,6 +111,14 @@ export function getStyleTest(bookId: string, chapter: string, scene?: string): P
 
 export function getModels(): Promise<ModelsResponse> {
   return requestJson<ModelsResponse>("/api/models");
+}
+
+export function getHiggsfieldModels(): Promise<HiggsfieldModelsResponse> {
+  return requestJson<HiggsfieldModelsResponse>("/api/higgsfield-models");
+}
+
+export function getOllamaModels(): Promise<ModelsResponse> {
+  return requestJson<ModelsResponse>("/api/ollama-models");
 }
 
 export function getJobs(limit = 20): Promise<JobsResponse> {
@@ -131,7 +155,7 @@ export function startTranslateBatchJob(payload: TranslateBatchRequest): Promise<
   });
 }
 
-export function planAction(payload: TranslateBatchRequest | ReviewJobRequest | ReviewFixRequest | ExportJobRequest | IllustrationBatchRequest | InitBookRequest | ExtractChaptersRequest): Promise<ActionPlanResponse> {
+export function planAction(payload: TranslateBatchRequest | ReviewJobRequest | ReviewFixRequest | ExportJobRequest | IllustrationBatchRequest | OptimizeAssetsRequest | InitBookRequest | ExtractChaptersRequest): Promise<ActionPlanResponse> {
   return requestJson<ActionPlanResponse>("/api/actions/plan", {
     method: "POST",
     body: JSON.stringify(payload)
@@ -160,6 +184,13 @@ export function startExportJob(payload: ExportJobRequest): Promise<JobStartRespo
 }
 
 export function startIllustrationBatchJob(payload: IllustrationBatchRequest): Promise<JobStartResponse> {
+  return requestJson<JobStartResponse>("/api/jobs", {
+    method: "POST",
+    body: JSON.stringify(payload)
+  });
+}
+
+export function startOptimizeAssetsJob(payload: OptimizeAssetsRequest): Promise<JobStartResponse> {
   return requestJson<JobStartResponse>("/api/jobs", {
     method: "POST",
     body: JSON.stringify(payload)

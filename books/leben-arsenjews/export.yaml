@@ -50,7 +50,11 @@ book:
   source_title: "Жизнь Арсеньева"
   source_author: "Иван Бунин"
   source_translator: "Keine; Grundlage ist der russische Originaltext."
-  description: "Iwan Bunins „Das Leben Arsenjews" ist ein Erinnerungsroman über Kindheit, Jugend, Liebe, Herkunft und den Verlust einer vergangenen Welt. Diese neue deutsche Ausgabe wurde nach dem russischen gemeinfreien Original erstellt, KI-gestützt übersetzt und redaktionell geprüft."
+  description: >-
+    Iwan Bunins „Das Leben Arsenjews“ ist ein Erinnerungsroman über Kindheit,
+    Jugend, Liebe, Herkunft und den Verlust einer vergangenen Welt. Diese neue
+    deutsche Ausgabe wurde nach dem russischen gemeinfreien Original erstellt,
+    KI-gestützt übersetzt und redaktionell geprüft.
   summary: |
     „Das Leben Arsenjews" ist ein Roman der Erinnerung. Aus der Rückschau entsteht das Bild einer Kindheit und Jugend in der russischen Provinz, geprägt von Landschaften, Familienbindungen, ersten Erschütterungen, literarischem Erwachen und der allmählichen Erfahrung von Vergänglichkeit.
 

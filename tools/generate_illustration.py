@@ -32,6 +32,7 @@ from lib.output_paths import (
     source_scene_path,
 )
 from lib.name_registry import load_names
+from lib.higgsfield_models import size_cli_args
 from PIL import Image
 
 
@@ -74,6 +75,7 @@ class IllustrationRequest:
     quality: str
     overwrite: bool
     backend: str = "auto"
+    render_quality: str | None = None
     moodboard_name: str | None = None
     moodboard_strength: float = 1.0
     soul_id: str | None = None
@@ -152,9 +154,14 @@ def prompt_paths(book: dict[str, Any], request: IllustrationRequest) -> tuple[Pa
 
 
 def preferred_scene_path(book: dict[str, Any], request: IllustrationRequest) -> Path:
-    if request.scene_number is None:
-        return source_chapter_path(book_output_root(REPO_ROOT, book), request.chapter_id)
     output_root = book_output_root(REPO_ROOT, book)
+    if request.scene_number is None:
+        # Kapitelbild: DE-Szene 01 bevorzugen (chapter_as_scene / erster Schnitt),
+        # nicht die Quellsprache – sonst landet Kyrillisch/Polnisch im Prompt.
+        de_path = de_scene_path(output_root, request.chapter_id, 1, request.style)
+        if de_path.exists():
+            return de_path
+        return source_chapter_path(output_root, request.chapter_id)
     de_path = de_scene_path(
         output_root,
         request.chapter_id,
@@ -180,13 +187,14 @@ def read_scene_text(book: dict[str, Any], request: IllustrationRequest) -> tuple
 
 # Zeilen, die wie poetische Motti, Zitate oder Szenen-Metadaten aussehen.
 # Sie verleiten Higgsfield dazu, Text im Bild zu rendern.
+# Markdown-Blockzitate (`>`) werden separat behandelt: kurze Epigraphe
+# streichen, erzaehlende Blockquotes (z. B. stil-02-poetisch) behalten.
 _MOTTO_PATTERNS = [
     r'^\s*##\s+Szene\s+\d+',        # "## Szene 1"
     r'^\s*»',                         # Mottos im Guillemet-Stil
     r'^\s*«',                         # ...
     r'^\s*[„"][^"]{0,120}[„"]',      # Kurze Zitat-Zeilen (max ~120 Zeichen)
     r'^\s*[*_]*—\s+',                 # "— Aus den Lehren ..."
-    r'^\s*>',                         # Markdown-Blockzitate
 ]
 _MOTTO_RE = re.compile("|".join(_MOTTO_PATTERNS))
 _BOOK_STATUS_HEADER_RE = re.compile(
@@ -194,18 +202,43 @@ _BOOK_STATUS_HEADER_RE = re.compile(
 )
 _BOOK_TITLE_HEADER_RE = re.compile(r'^\s*[*_]*Buch:\s+.*?[*_]*\s*$')
 _STATUS_COMMENT_RE = re.compile(r'^\s*<!--\s*status:[^>]*-->\s*$')
+_CHAPTER_META_RE = re.compile(
+    r'^\s*[*_]*(?:Kapitel-ID|Kapitel|Szene|Stil|Erstellt am|Provider|Modell|Tokens?):'
+    r'.*?[*_]*\s*$',
+    re.IGNORECASE,
+)
+_HORIZONTAL_RULE_RE = re.compile(r'^\s*-{3,}\s*$')
 
 
-_MAX_PARAGRAPHS = 6
+_MAX_PARAGRAPHS = 2
+_MAX_LEADING_EPIGRAPH_CHARS = 400
 
 
-def clean_markdown_excerpt(text: str, limit: int = 2000) -> str:
-    # Erst alle irrelevanten Zeilen herausfiltern
+def _unwrap_blockquote_marker(line: str) -> tuple[bool, str]:
+    """Return (is_blockquote, content_without_marker)."""
+    if line.startswith(">"):
+        return True, line[1:].lstrip()
+    return False, line
+
+
+def _excerpt_paragraphs(text: str, *, include_blockquotes: bool) -> list[str]:
+    """Extract narrative paragraphs from markdown scene text.
+
+    When ``include_blockquotes`` is False, ``>``-lines are treated as mottos
+    and dropped (legacy behaviour for short epigraphs). When True, the
+    marker is stripped and the content is kept – needed for styles that wrap
+    entire chapters in blockquotes (e.g. Arsenjew stil-02-poetisch).
+    """
     filtered_lines: list[str] = []
     in_motto_block = False
     for raw in text.splitlines():
         line = _BOOK_STATUS_HEADER_RE.sub("", raw.strip())
-        if _BOOK_TITLE_HEADER_RE.match(line) or _STATUS_COMMENT_RE.match(line):
+        if (
+            _BOOK_TITLE_HEADER_RE.match(line)
+            or _STATUS_COMMENT_RE.match(line)
+            or _CHAPTER_META_RE.match(line)
+            or _HORIZONTAL_RULE_RE.match(line)
+        ):
             in_motto_block = False
             continue
         if not line:
@@ -215,18 +248,23 @@ def clean_markdown_excerpt(text: str, limit: int = 2000) -> str:
         if line.startswith("#"):
             in_motto_block = line.startswith("##")
             continue
-        if line.startswith(">"):
+
+        is_blockquote, content = _unwrap_blockquote_marker(line)
+        if is_blockquote and not include_blockquotes:
             in_motto_block = True
             continue
-        if in_motto_block and (line.startswith(">") or line.startswith("—") or
-                               re.match(r'^\s*[*_]{1,2}', line)):
+        if in_motto_block and (
+            (is_blockquote and not include_blockquotes)
+            or line.startswith("—")
+            or re.match(r"^\s*[*_]{1,2}", line)
+        ):
             continue
-        if _MOTTO_RE.match(line):
+        if _MOTTO_RE.match(content):
             in_motto_block = True
             continue
         in_motto_block = False
-        filtered_lines.append(line)
-    # Absaetze aus aufeinanderfolgenden Nicht-Leerzeilen bauen
+        filtered_lines.append(content)
+
     paragraphs: list[str] = []
     current: list[str] = []
     for line in filtered_lines:
@@ -238,7 +276,29 @@ def clean_markdown_excerpt(text: str, limit: int = 2000) -> str:
                 current = []
     if current:
         paragraphs.append(" ".join(current))
-    paragraphs = [re.sub(r"\s+", " ", p).strip() for p in paragraphs if p.strip()]
+    return [re.sub(r"\s+", " ", p).strip() for p in paragraphs if p.strip()]
+
+
+def _drop_leading_epigraph(paragraphs: list[str]) -> list[str]:
+    """Drop a short leading quote paragraph when more narrative follows."""
+    if len(paragraphs) < 2:
+        return paragraphs
+    first = paragraphs[0]
+    if len(first) > _MAX_LEADING_EPIGRAPH_CHARS:
+        return paragraphs
+    if _MOTTO_RE.match(first) or first.startswith(("«", "»", "„", "“", "\"")):
+        return paragraphs[1:]
+    return paragraphs
+
+
+def clean_markdown_excerpt(text: str, limit: int = 2000) -> str:
+    # Prefer body prose without blockquotes (epigraphs stay out of the prompt).
+    paragraphs = _excerpt_paragraphs(text, include_blockquotes=False)
+    # Fallback: whole chapter is wrapped in `>` (common in stil-02-poetisch).
+    if not paragraphs:
+        paragraphs = _drop_leading_epigraph(
+            _excerpt_paragraphs(text, include_blockquotes=True)
+        )
     selected = paragraphs[:_MAX_PARAGRAPHS]
     compact = " ".join(selected)
     if len(compact) <= limit:
@@ -266,12 +326,30 @@ def _name_match(text: str, name: str) -> bool:
     return re.search(pattern, text, flags=re.IGNORECASE | re.UNICODE) is not None
 
 
+def text_for_character_match(text: str) -> str:
+    """Quelltext ohne Buch-/Status-Metazeilen – verhindert Falschtreffer wie Aëlita aus '*Buch: Aëlita*'."""
+    lines: list[str] = []
+    for raw in text.splitlines():
+        line = _BOOK_STATUS_HEADER_RE.sub("", raw.strip())
+        if (
+            _BOOK_TITLE_HEADER_RE.match(line)
+            or _STATUS_COMMENT_RE.match(line)
+            or _CHAPTER_META_RE.match(line)
+            or _HORIZONTAL_RULE_RE.match(line)
+            or line.startswith("#")
+        ):
+            continue
+        lines.append(line)
+    return "\n".join(lines)
+
+
 def character_visual_lines(book: dict[str, Any], source_text: str, limit: int = 3) -> list[str]:
     names_file = book.get("names_file")
     if not names_file:
         return []
     names_path = REPO_ROOT / str(names_file)
     entries = load_names(names_path)
+    match_text = text_for_character_match(source_text)
     lines: list[str] = []
     seen: set[str] = set()
     for entry in entries:
@@ -285,7 +363,7 @@ def character_visual_lines(book: dict[str, Any], source_text: str, limit: int = 
             entry.get("target"),
             *(entry.get("aliases") or []),
         ]
-        if not any(_name_match(source_text, str(candidate)) for candidate in candidates):
+        if not any(_name_match(match_text, str(candidate)) for candidate in candidates):
             continue
         label = str(entry.get("target") or entry.get("source") or "").strip()
         if not label or label in seen:
@@ -297,26 +375,59 @@ def character_visual_lines(book: dict[str, Any], source_text: str, limit: int = 
     return lines
 
 
+def prompt_tracking_header(book: dict[str, Any], request: IllustrationRequest) -> str:
+    """Kurzer Kapitel-/Szenen-Marker oben im Prompt – sichtbar in der Higgsfield-UI.
+
+    Absichtlich minimal: kein Buchname, kein Titel, keine No-Lettering-Floskeln.
+    Danach folgt direkt das illustration_setting aus book.yaml.
+    """
+    del book  # bewusst ungenutzt; Marker nur aus Request
+    if request.kind == "scene" and request.scene_number is not None:
+        return f"Chapter {request.chapter_id} Scene {request.scene_number:02d}."
+    return f"Chapter {request.chapter_id}."
+
+
 def build_prompt(book: dict[str, Any], request: IllustrationRequest, source_text: str) -> str:
     """Build a concise Higgsfield prompt with only positive descriptions.
 
     The model text2image_soul_v2 has NO negative_prompt parameter.
     All "no X" formulations are read as positive instructions and produce
     exactly what we want to avoid. Therefore the prompt consists only of:
-    1. illustration_setting from book.yaml (period, location, style)
-    2. The cleaned scene excerpt (atmosphere, not literal depiction)
+    1. short chapter/scene marker (for Web-UI recognition)
+    2. illustration_setting from book.yaml (period, location, style)
+    3. short cleaned scene excerpt (atmosphere, not literal depiction);
+       long multi-beat excerpts make Soul 2.0 invent storyboard multi-panels
 
     Single-line only – Higgsfield CLI kann mehrzeilige --prompt-Werte
     nicht korrekt verarbeiten.
     """
+    header = prompt_tracking_header(book, request)
     setting = load_illustration_setting(book)
     excerpt = clean_markdown_excerpt(source_text)
     character_lines = character_visual_lines(book, source_text)
     character_text = ""
     if character_lines:
         character_text = "Characters present: " + "; ".join(character_lines) + "."
-    parts = [part for part in (setting, character_text, excerpt) if part]
+    parts = [part for part in (header, setting, character_text, excerpt) if part]
     return re.sub(r"\s+", " ", " ".join(parts))
+
+
+def _command_for_log(cmd: list[str]) -> str:
+    """Kommando fuer Logs/Fehler ohne den vollen Prompt (sonst Encoding-Muell und Rauschen)."""
+    parts: list[str] = []
+    skip_next = False
+    for i, arg in enumerate(cmd):
+        if skip_next:
+            skip_next = False
+            continue
+        if arg in {"--prompt", "-p"} and i + 1 < len(cmd):
+            prompt = cmd[i + 1]
+            parts.append(arg)
+            parts.append(f"<prompt {len(prompt)} chars>")
+            skip_next = True
+            continue
+        parts.append(arg)
+    return " ".join(parts)
 
 
 def run_json_command(cmd: list[str]) -> Any:
@@ -330,7 +441,9 @@ def run_json_command(cmd: list[str]) -> Any:
     )
     if completed.returncode != 0:
         stderr = completed.stderr.strip() or completed.stdout.strip()
-        raise SystemExit(f"Befehl fehlgeschlagen: {' '.join(cmd)}\n{stderr}")
+        raise SystemExit(
+            f"Befehl fehlgeschlagen: {_command_for_log(cmd)}\n{stderr}"
+        )
     text = completed.stdout.strip()
     if not text:
         return None
@@ -419,6 +532,11 @@ def higgsfield_defaults(book: dict[str, Any]) -> dict[str, Any]:
             str(cfg.get("quality") or DEFAULT_QUALITY)
             if isinstance(cfg, dict)
             else DEFAULT_QUALITY
+        ),
+        "render_quality": (
+            str(cfg.get("render_quality") or "").strip() or None
+            if isinstance(cfg, dict)
+            else None
         ),
     }
 
@@ -794,9 +912,8 @@ def build_higgsfield_command(
         prompt,
         "--aspect_ratio",
         request.aspect_ratio,
-        "--quality",
-        request.quality,
     ]
+    command.extend(size_cli_args(request.model, request.quality, request.render_quality))
     if request.soul_id:
         command.extend(["--custom_reference_id", request.soul_id])
     for image in request.images:
@@ -941,6 +1058,7 @@ def write_prompt_files(
         "no_reference": request.no_reference,
         "aspect_ratio": request.aspect_ratio,
         "quality": request.quality,
+        "render_quality": request.render_quality,
         "source_path": str(source_path),
         "prompt_path": str(prompt_md),
         "output_path": str(image_path),
@@ -966,7 +1084,7 @@ def generate_illustration(
     book = find_book_project(REPO_ROOT, request.book_id)
     image_processing = load_image_processing(book)
     image_path = output_image_path(book, request, image_processing)
-    if image_path.exists() and not request.overwrite:
+    if image_path.exists() and not request.overwrite and not dry_run:
         raise SystemExit(f"Zielbild existiert bereits: {image_path}")
 
     source_path, source_text = read_scene_text(book, request)
@@ -984,8 +1102,7 @@ def generate_illustration(
             prompt,
             "--aspect_ratio",
             request.aspect_ratio,
-            "--quality",
-            request.quality,
+            *size_cli_args(request.model, request.quality, request.render_quality),
             "--wait",
             "--json",
         ]
@@ -1215,7 +1332,11 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         help="Bewusst ohne Moodboard, Upload- oder Job-Referenz generieren",
     )
     parser.add_argument("--aspect-ratio", help="Default aus book.yaml higgsfield.aspect_ratio")
-    parser.add_argument("--quality", help="Default aus book.yaml higgsfield.quality")
+    parser.add_argument("--quality", help="Aufloesung/Qualitaet; Default aus book.yaml higgsfield.quality")
+    parser.add_argument(
+        "--render-quality",
+        help="Render-Qualitaet fuer Modelle mit eigenem Flag (z. B. GPT Image 2: low|medium|high)",
+    )
     parser.add_argument(
         "--backend",
         choices=("cli", "api", "auto"),
@@ -1270,6 +1391,7 @@ def main(argv: list[str] | None = None) -> int:
         quality=args.quality or defaults["quality"],
         overwrite=args.overwrite,
         backend=args.backend or defaults["backend"],
+        render_quality=args.render_quality or defaults.get("render_quality"),
         moodboard_name=defaults.get("moodboard_name"),
         moodboard_strength=float(defaults.get("moodboard_strength", 1.0)),
         soul_id=args.soul_id or defaults.get("soul_id"),

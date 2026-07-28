@@ -209,6 +209,38 @@ describe("api helpers", () => {
     }));
   });
 
+  it("saves illustration setting", async () => {
+    const fetchMock = vi.spyOn(globalThis, "fetch").mockResolvedValue({
+      ok: true,
+      json: async () => ({
+        book_id: "aelita",
+        saved: true,
+        illustration_setting: "Mars, painterly literary illustration.",
+        summary: {
+          id: "aelita",
+          title: "Aëlita",
+          style_mode: "stil-03-branderson",
+          illustration_setting: "Mars, painterly literary illustration.",
+          chapters: 1,
+          missing_scenes: 0
+        }
+      })
+    } as Response);
+
+    const { saveIllustrationSetting } = await import("./api");
+    const result = await saveIllustrationSetting("aelita", "Mars, painterly literary illustration.");
+
+    expect(result.saved).toBe(true);
+    expect(result.illustration_setting).toContain("Mars");
+    expect(fetchMock).toHaveBeenCalledWith(
+      "/api/books/aelita/illustration-setting",
+      expect.objectContaining({
+        method: "PUT",
+        body: expect.stringContaining('"illustration_setting":"Mars, painterly literary illustration."')
+      })
+    );
+  });
+
   it("loads logs and log details", async () => {
     const fetchMock = vi.spyOn(globalThis, "fetch")
       .mockResolvedValueOnce({

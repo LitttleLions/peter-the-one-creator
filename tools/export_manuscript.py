@@ -615,22 +615,36 @@ def display_chapter_title(chapter: ChapterExport, meta: dict[str, Any] | None = 
         title = f"{number}."
     elif fmt == "number":
         title = str(number)
+    elif fmt in {"source_title", "title", "literary"}:
+        title = literary_chapter_title(chapter)
     else:
         title = clean_chapter_title(chapter)
-    if chapter_cfg.get("include_source_title"):
-        source_title = clean_chapter_title(chapter)
+    if chapter_cfg.get("include_source_title") and fmt not in {
+        "source_title",
+        "title",
+        "literary",
+    }:
+        source_title = literary_chapter_title(chapter)
         if source_title and source_title != f"Kapitel {chapter.chapter_id}":
             title = f"{title}: {source_title}"
     return title
 
 
-def clean_chapter_title(chapter: ChapterExport) -> str:
+def literary_chapter_title(chapter: ChapterExport) -> str:
+    """Lesertitel ohne 'Kapitel N:'-Praefix (literarische Ueberschriften)."""
     title = chapter.title.strip()
     title = re.sub(r"^Kapitel\s+\d+\s*:\s*", "", title, flags=re.IGNORECASE)
     has_cyrillic = bool(re.search(r"[\u0400-\u04ff]", title))
     looks_mojibake = any(token in title for token in ("\u00d0", "\u00d1", "\u00c3"))
     if not title or has_cyrillic or looks_mojibake:
         return f"Kapitel {chapter.chapter_id}"
+    return title
+
+
+def clean_chapter_title(chapter: ChapterExport) -> str:
+    title = literary_chapter_title(chapter)
+    if title == f"Kapitel {chapter.chapter_id}":
+        return title
     return f"Kapitel {chapter.chapter_id}: {title}"
 
 
@@ -658,10 +672,22 @@ def chapter_heading_markdown_for_level(
 def group_for_chapter(meta: dict[str, Any], chapter_id: str) -> dict[str, Any] | None:
     groups = meta.get("structure_groups") or []
     for group in groups:
-        start = str(group.get("from") or "")
-        end = str(group.get("to") or "")
-        if start and end and start <= chapter_id <= end:
-            return group
+        # Unterstuetzt from/to (Bereich) und chapters (Liste)
+        chapters = group.get("chapters")
+        if chapters is not None:
+            # Konvertiere alle Eintraege zu str fuer Vergleich
+            try:
+                chapter_num = int(chapter_id)
+            except ValueError:
+                chapter_num = None
+            for c in chapters:
+                if str(c) == chapter_id or (chapter_num is not None and c == chapter_num):
+                    return group
+        else:
+            start = str(group.get("from") or "")
+            end = str(group.get("to") or "")
+            if start and end and start <= chapter_id <= end:
+                return group
     return None
 
 

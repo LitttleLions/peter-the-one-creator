@@ -86,6 +86,7 @@ def build_command(args: argparse.Namespace, chapter: str, kind: str, scene: str 
         "--moodboard": args.moodboard,
         "--aspect-ratio": normalize_aspect_ratio_arg(args.aspect_ratio),
         "--quality": args.quality,
+        "--render-quality": args.render_quality,
         "--backend": args.backend,
         "--soul-id": args.soul_id,
     }
@@ -122,6 +123,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser.add_argument("--no-reference", action="store_true")
     parser.add_argument("--aspect-ratio")
     parser.add_argument("--quality")
+    parser.add_argument("--render-quality")
     parser.add_argument("--backend", choices=("cli", "api", "auto"))
     parser.add_argument("--soul-id")
     parser.add_argument("--soul-strength", type=float)

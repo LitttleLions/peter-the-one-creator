@@ -137,6 +137,48 @@ class WorkbenchApiTests(unittest.TestCase):
         self.assertIn("--aspect-ratio", cmd)
         self.assertEqual(cmd[cmd.index("--aspect-ratio") + 1], "3:4")
 
+    def test_build_optimize_assets_command(self) -> None:
+        from lib.workbench_api import OptimizeAssetsOptions, build_optimize_assets_command
+
+        cmd = build_optimize_assets_command(
+            OptimizeAssetsOptions(
+                book_id="die-dritte-chronik",
+                scope="chapter",
+                dry_run=True,
+                skip_existing=True,
+                include_test=True,
+            )
+        )
+
+        self.assertEqual(cmd[0], "tools/optimize_asset_images.py")
+        self.assertIn("--book", cmd)
+        self.assertIn("die-dritte-chronik", cmd)
+        self.assertIn("--scope", cmd)
+        self.assertIn("chapter", cmd)
+        self.assertIn("--dry-run", cmd)
+        self.assertIn("--skip-existing", cmd)
+        self.assertIn("--include-test", cmd)
+
+    def test_preserve_existing_jpeg_from_png(self) -> None:
+        from lib.asset_images import ARCHIVE_JPEG_PROCESSING, alt_jpeg_path, preserve_existing_jpeg
+        from PIL import Image
+
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            png = root / "chapter-001.png"
+            jpg = root / "chapter-001.jpg"
+            Image.new("RGB", (200, 300), color=(10, 20, 30)).save(png)
+            Image.new("RGB", (100, 150), color=(40, 50, 60)).save(jpg, quality=60)
+
+            created = preserve_existing_jpeg(png, jpg, {"max_width": 1024, "max_height": 1024})
+            alt = alt_jpeg_path(jpg)
+            self.assertEqual(created, alt)
+            self.assertTrue(alt.is_file())
+            # Second call must not overwrite the archive.
+            again = preserve_existing_jpeg(png, jpg, {"max_width": 1024, "max_height": 1024})
+            self.assertIsNone(again)
+            self.assertEqual(ARCHIVE_JPEG_PROCESSING["jpeg_quality"], 92)
+
     def test_build_init_book_command(self) -> None:
         cmd = build_init_book_command(
             NewBookOptions(

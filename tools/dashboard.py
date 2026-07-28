@@ -1374,13 +1374,12 @@ with st.sidebar.expander("KI & Provider", expanded=False):
         ["openrouter", "ollama", "prompt_file", "workspace_ai"],
         horizontal=True,
     )
-    ollama_model = st.session_state.get("ollama_model", "gemma4:latest")
+    ollama_model = st.session_state.get("ollama_model", "qwen3.5-9b-q6:latest")
     if provider == "ollama":
         ollama_model = st.selectbox(
             "Ollama-Modell",
-            ["gemma4:latest", "qwen3:8b"],
-            index=0 if ollama_model not in ("gemma4:latest", "qwen3:8b") else
-                  ["gemma4:latest", "qwen3:8b"].index(ollama_model),
+            ["qwen3.5-9b-q6:latest", "qwen3.5-9b-q8:latest", "qwen3.5-9b-q5:latest", "gemma4:12b"],
+            index=0 if ollama_model not in ("qwen3.5-9b-q6:latest", "qwen3.5-9b-q8:latest", "qwen3.5-9b-q5:latest", "gemma4:12b") else ["qwen3.5-9b-q6:latest", "qwen3.5-9b-q8:latest", "qwen3.5-9b-q5:latest", "gemma4:12b"].index(ollama_model),
             help="Lokales Ollama-Modell. Gemma ist aktuell fuer Review und Uebersetzung stabiler.",
         )
         st.session_state["ollama_model"] = ollama_model
@@ -1577,8 +1576,9 @@ if section == "Namen":
           <h2>Namenliste fuer {book.get("title", book_id)}</h2>
           <div class="copy">
             Diese Liste wird kompakt in jeden Prompt eingefuegt. Nicht
-            gepflegte russische Namen werden konservativ transliteriert oder
-            im Zweifel beibehalten.
+            aufgefuehrte Personen-, Stammes-, Orts- und Titelnamen werden
+            konservativ transliteriert oder im Zweifel in der erkennbaren
+            Quellform beibehalten.
           </div>
         </div>
         """,
@@ -1673,6 +1673,15 @@ if section == "Uebersetzen":
         """,
         unsafe_allow_html=True,
     )
+    # Ollama-Modell direkt im Tab auswaehlbar machen
+    if provider == "ollama":
+        ollama_model = st.selectbox(
+            "Ollama-Modell",
+            ["qwen3.5-9b-q6:latest", "qwen3.5-9b-q8:latest", "qwen3.5-9b-q5:latest", "gemma4:12b"],
+            index=0 if ollama_model not in ("qwen3.5-9b-q6:latest", "qwen3.5-9b-q8:latest", "qwen3.5-9b-q5:latest", "gemma4:12b") else ["qwen3.5-9b-q6:latest", "qwen3.5-9b-q8:latest", "qwen3.5-9b-q5:latest", "gemma4:12b"].index(ollama_model),
+            help="Waehle das lokale Ollama-Modell fuer die Uebersetzung.",
+        )
+        st.session_state["ollama_model"] = ollama_model
     translate_job, translate_job_running = _refresh_batch_job(_load_batch_job())
     if translate_job is None:
         _show_latest_job_log("translate", book_id, style)
@@ -2286,8 +2295,8 @@ if section == "Review":
         "Kapitel mit Befunden; saubere Kapitel stehen nur in der Summary."
     )
 
-    DEFAULT_OLLAMA_MODELS = ["gemma4:latest", "qwen3:8b"]
-    ollama_model = "gemma4:latest"
+    DEFAULT_OLLAMA_MODELS = ["qwen3.5-9b-q6:latest", "qwen3.5-9b-q8:latest", "qwen3.5-9b-q5:latest", "gemma4:12b"]
+    ollama_model = "qwen3.5-9b-q6:latest"
     if review_llm == "ollama":
         ollama_model = st.selectbox(
             "Ollama-Modell",

@@ -1,0 +1,62 @@
+{
+  "book": "aelita",
+  "chapter": "022",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-03-branderson",
+  "model": "text2image_soul_v2",
+  "moodboard": "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\scenes\\de\\stil-03-branderson\\022\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\prompts\\higgsfield\\022-scene-01-stil-03-branderson.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\assets\\scene\\022\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. two soviet people and an marsian princess - the marsians are lookling like people but with a very vogelähnlichen gesicht Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. Characters present: Aëlita: schöne marsianerin, blaue haut, leichtes vogelgesicht. Los setzte sich hinter Aëlita. Der Mechaniker – ein rothäutiger Junge – ließ das geflügelte Boot mit sanftem Stoß in den Himmel steigen. Kalte Windstöße warfen sich ihnen entgegen. Aëlitas schneeweißes Jäckchen war getränkt von Gewitterfrische, von Bergkälte. Aëlita wandte sich zu Los, ihre Wangen glühten. „Ich habe meinen Vater gesehen. Er befahl mir, dich und deinen Gefährten zu töten.“ Ihre Zähne blitzten. Sie öffnete die kleine Faust. An einem Ring an einer Kette hing ein steinernes Fläschchen. „Mein Vater sagte: Mögen sie ruhig entschlafen, sie haben einen glücklichen Tod verdient.“ Aëlitas graue Augen verschleierten sich mit Feuchtigkeit. Doch gleich lachte sie auf, riss den Ring vom Finger. Los ergriff ihre Hand. Aëlita schloss die Augen, bemüht zu verstehen, lehnte sich mit dem Rücken an Los. Nein, trotzdem nicht zu verstehen. Der rauschende Wind, Los’ heiße Brust hinter ihrem Rücken, seine Hand, die in das weiße Fell an ihrer Schulter grub – es schien, als flösse ihr Blut im selben Kreislauf, in derselben Entzückung, als Flögen sie mit einem Leib in eine leuchtende uralte Erinnerung. Nein, trotzdem nicht zu verstehen! Eine Minute verging, etwas mehr. Das Boot erreichte die Höhe von Tuskubs Anwesen. Der Mechaniker drehte sich um: Aëlita und der Sohn des Himmels hatten seltsame Gesichter. In ihren leeren Pupillen leuchteten Sonnenpunkte. Der Wind zerraufte den Schneepelz auf Aëlitas Jäckchen. Ihre verzückten Augen blickten in den Ozean des himmlischen Lichts.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260627_123116_a419bccb-bfa5-44a1-a9a3-a1c98f3b2c92.png",
+  "job_result": [
+    {
+      "id": "a419bccb-bfa5-44a1-a9a3-a1c98f3b2c92",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260627_123116_a419bccb-bfa5-44a1-a9a3-a1c98f3b2c92.png",
+      "created_at": 1782563476.928303,
+      "params": {
+        "prompt": "Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. two soviet people and an marsian princess - the marsians are lookling like people but with a very vogelähnlichen gesicht Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. Characters present: Aëlita: schöne marsianerin, blaue haut, leichtes vogelgesicht. Los setzte sich hinter Aëlita. Der Mechaniker – ein rothäutiger Junge – ließ das geflügelte Boot mit sanftem Stoß in den Himmel steigen. Kalte Windstöße warfen sich ihnen entgegen. Aëlitas schneeweißes Jäckchen war getränkt von Gewitterfrische, von Bergkälte. Aëlita wandte sich zu Los, ihre Wangen glühten. „Ich habe meinen Vater gesehen. Er befahl mir, dich und deinen Gefährten zu töten.“ Ihre Zähne blitzten. Sie öffnete die kleine Faust. An einem Ring an einer Kette hing ein steinernes Fläschchen. „Mein Vater sagte: Mögen sie ruhig entschlafen, sie haben einen glücklichen Tod verdient.“ Aëlitas graue Augen verschleierten sich mit Feuchtigkeit. Doch gleich lachte sie auf, riss den Ring vom Finger. Los ergriff ihre Hand. Aëlita schloss die Augen, bemüht zu verstehen, lehnte sich mit dem Rücken an Los. Nein, trotzdem nicht zu verstehen. Der rauschende Wind, Los’ heiße Brust hinter ihrem Rücken, seine Hand, die in das weiße Fell an ihrer Schulter grub – es schien, als flösse ihr Blut im selben Kreislauf, in derselben Entzückung, als Flögen sie mit einem Leib in eine leuchtende uralte Erinnerung. Nein, trotzdem nicht zu verstehen! Eine Minute verging, etwas mehr. Das Boot erreichte die Höhe von Tuskubs Anwesen. Der Mechaniker drehte sich um: Aëlita und der Sohn des Himmels hatten seltsame Gesichter. In ihren leeren Pupillen leuchteten Sonnenpunkte. Der Wind zerraufte den Schneepelz auf Aëlitas Jäckchen. Ihre verzückten Augen blickten in den Ozean des himmlischen Lichts.",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 732422,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": null
+        },
+        "style_strength": null
+      }
+    }
+  ]
+}

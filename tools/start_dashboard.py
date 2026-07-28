@@ -22,7 +22,15 @@ def run(command: list[str], cwd: Path) -> None:
 def ensure_frontend_build(force: bool) -> None:
     index_path = FRONTEND_DIST / "index.html"
     if index_path.exists() and not force:
-        return
+        # Rebuild if source is newer than the last dist build.
+        src_mtime = 0.0
+        for pattern in ("src/**/*.*", "index.html", "package.json", "vite.config.*", "tsconfig*.json"):
+            for path in FRONTEND_ROOT.glob(pattern):
+                if path.is_file():
+                    src_mtime = max(src_mtime, path.stat().st_mtime)
+        if src_mtime <= index_path.stat().st_mtime:
+            return
+        print("Frontend-Source neuer als dist; baue neu.", flush=True)
     if not FRONTEND_ROOT.exists():
         raise SystemExit(f"Frontend-Verzeichnis fehlt: {FRONTEND_ROOT}")
     node_modules = FRONTEND_ROOT / "node_modules"

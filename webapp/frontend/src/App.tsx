@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState, type ReactNode } from "react";
-import { NavLink, Navigate, Route, Routes, useNavigate, useParams, useSearchParams } from "react-router-dom";
+import { NavLink, Navigate, Route, Routes, useLocation, useNavigate, useParams, useSearchParams } from "react-router-dom";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import {
   Activity,
@@ -7,6 +7,7 @@ import {
   FileText,
   Home,
   Image,
+  ImageDown,
   Languages,
   ListChecks,
   Menu,
@@ -30,6 +31,8 @@ import {
   getLog,
   getLogs,
   getModels,
+  getHiggsfieldModels,
+  getOllamaModels,
   getReviewArtifacts,
   getSetup,
   getStyleTest,
@@ -38,15 +41,18 @@ import {
   parseSseJobPayload,
   saveBookNames,
   saveBookSettings,
+  saveIllustrationSetting,
   startActionJob,
   startExportJob,
   startIllustrationBatchJob,
+  startOptimizeAssetsJob,
   startReviewFixJob,
   startReviewJob,
   startTranslateBatchJob,
   stopJob
 } from "./api";
-import type { BookSummary, ChapterRow, ExportJobRequest, ExtractChaptersRequest, IllustrationBatchRequest, InitBookRequest, JobDetail, LogItem, NameRow, ReviewFixRequest, ReviewJobRequest, TranslateBatchRequest } from "./types";
+import { buildReviewPayload } from "./reviewPayload";
+import type { BookSummary, ChapterRow, ExportJobRequest, ExtractChaptersRequest, IllustrationBatchRequest, InitBookRequest, JobDetail, LogItem, NameRow, OptimizeAssetsRequest, ReviewFixRequest, ReviewJobRequest, TranslateBatchRequest } from "./types";
 import type { WorkspaceSettings } from "./types";
 
 const navItems = [
@@ -58,11 +64,38 @@ const navItems = [
   { label: "Bilder", path: "images", icon: Image },
   { label: "Namen", path: "names", icon: NotebookTabs },
   { label: "Logs", path: "logs", icon: ScrollText },
+  { label: "Buch-Setup", path: "setup", icon: BookOpen },
   { label: "Buch-Settings", path: "settings", icon: Settings }
 ];
 
 const FALLBACK_OPENROUTER_MODEL = "deepseek/deepseek-v4-pro";
 const JOBS_REFETCH_INTERVAL_MS = 5_000;
+
+function formatChapterOption(item: ChapterRow, detail?: string): string {
+  const label = item.Label?.trim();
+  const base = label ? `${item.Kapitel} — ${label}` : item.Kapitel;
+  return detail ? `${base} / ${detail}` : base;
+}
+
+function OllamaModelSelect({ value, onChange }: { value: string; onChange: (next: string) => void }) {
+  const ollamaQuery = useQuery({ queryKey: ["ollama-models"], queryFn: getOllamaModels, staleTime: 60_000 });
+  const ollamaModels = ollamaQuery.data?.models ?? [];
+  useEffect(() => {
+    if (!value && ollamaModels[0]) {
+      onChange(ollamaModels[0].id);
+    }
+  }, [value, ollamaModels, onChange]);
+  if (ollamaModels.length === 0) {
+    return <input value={value} onChange={(event) => onChange(event.target.value)} placeholder="z. B. gemma4:latest" />;
+  }
+  return (
+    <select value={value} onChange={(event) => onChange(event.target.value)}>
+      {ollamaModels.map((m) => (
+        <option key={m.id} value={m.id}>{m.name || m.id}</option>
+      ))}
+    </select>
+  );
+}
 
 export function App() {
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
@@ -83,7 +116,7 @@ export function App() {
           />
         }
       />
-      <Route path="/setup" element={<SetupShell books={books} mobileNavOpen={mobileNavOpen} setMobileNavOpen={setMobileNavOpen} />} />
+      <Route path="/setup" element={<SetupRedirect books={books} loading={booksQuery.isLoading} />} />
     </Routes>
   );
 }
@@ -98,20 +131,42 @@ function RootRedirect({ books, loading }: { books: BookSummary[]; loading: boole
   return <Navigate to={`/books/${books[0].id}/overview`} replace />;
 }
 
+function SetupRedirect({ books, loading }: { books: BookSummary[]; loading: boolean }) {
+  if (loading) {
+    return <div className="boot-screen">Buch-Werkbank wird geladen...</div>;
+  }
+  if (!books.length) {
+    return (
+      <div className="app-shell">
+        <main className="main-area">
+          <SetupPage books={books} />
+        </main>
+      </div>
+    );
+  }
+  const lastBookId = window.sessionStorage.getItem("peter-workbench-last-book");
+  const bookId = books.some((book) => book.id === lastBookId) ? lastBookId! : books[0].id;
+  return <Navigate to={`/books/${bookId}/setup`} replace />;
+}
+
 function defaultWorkspaceSettings(book?: BookSummary): WorkspaceSettings {
   const model = book?.ai_model || FALLBACK_OPENROUTER_MODEL;
   return {
     active_style: book?.style_mode ?? "stil-01-original",
     translate_provider: book?.ai_provider ?? "openrouter",
     translate_model: model,
-    translate_ollama_model: "gemma4:latest",
+    translate_ollama_model: "",
     chunk_char_limit: book?.chunk_char_limit ?? 12000,
-    review_llm: "none",
+    review_llm: "openrouter",
     review_llm_scope: "flagged",
     review_model: model,
-    review_ollama_model: "gemma4:latest",
+    review_ollama_model: "",
     export_format: "docx"
   };
+}
+
+function normalizeDeepReviewLlm(value: string | undefined): "openrouter" | "ollama" {
+  return value === "ollama" ? "ollama" : "openrouter";
 }
 
 function normalizeWorkspaceSettings(settings: Partial<WorkspaceSettings>, defaults: WorkspaceSettings): WorkspaceSettings {
@@ -126,7 +181,8 @@ function normalizeWorkspaceSettings(settings: Partial<WorkspaceSettings>, defaul
     ...defaults,
     ...settings,
     translate_model: normalizeModel(settings.translate_model),
-    review_model: normalizeModel(settings.review_model)
+    review_model: normalizeModel(settings.review_model),
+    review_llm: normalizeDeepReviewLlm(settings.review_llm ?? defaults.review_llm)
   };
 }
 
@@ -178,6 +234,12 @@ function AppShell({
   const [settings, setSettings] = useWorkspaceSettings(activeBook);
 
   useEffect(() => {
+    if (activeBook?.id) {
+      window.sessionStorage.setItem("peter-workbench-last-book", activeBook.id);
+    }
+  }, [activeBook?.id]);
+
+  useEffect(() => {
     if (!loadingBooks && books.length && !books.some((book) => book.id === bookId)) {
       navigate(`/books/${books[0].id}/overview`, { replace: true });
     }
@@ -203,6 +265,7 @@ function AppShell({
           <Route path="images" element={<ImagesPage book={activeBook} settings={settings} />} />
           <Route path="names" element={<NamesPage book={activeBook} settings={settings} />} />
           <Route path="logs" element={<LogsPage book={activeBook} settings={settings} />} />
+          <Route path="setup" element={<SetupPage book={activeBook} books={books} settings={settings} />} />
           <Route path="settings" element={<SettingsPage book={activeBook} settings={settings} onSettingsChange={setSettings} />} />
         </Routes>
       </main>
@@ -210,16 +273,17 @@ function AppShell({
   );
 }
 
-function SetupShell({
+function SetupPage({
+  book,
   books,
-  mobileNavOpen,
-  setMobileNavOpen
+  settings
 }: {
+  book?: BookSummary;
   books: BookSummary[];
-  mobileNavOpen: boolean;
-  setMobileNavOpen: (value: boolean) => void;
+  settings?: WorkspaceSettings;
 }) {
   const queryClient = useQueryClient();
+  const navigate = useNavigate();
   const [source, setSource] = useState("");
   const [title, setTitle] = useState("");
   const [author, setAuthor] = useState("");
@@ -227,14 +291,13 @@ function SetupShell({
   const [sourceLang, setSourceLang] = useState("ru");
   const [targetLang, setTargetLang] = useState("de");
   const [rulesetApply, setRulesetApply] = useState(false);
-  const [activeBookId, setActiveBookId] = useState(books[0]?.id ?? "");
   const [selectedJobId, setSelectedJobId] = useState<string | null>(null);
 
   const setupQuery = useQuery({ queryKey: ["setup"], queryFn: getSetup });
   const jobsQuery = useQuery({
     queryKey: ["jobs"],
     queryFn: () => getJobs(12),
-    refetchInterval: 5_000
+    refetchInterval: JOBS_REFETCH_INTERVAL_MS
   });
   const planMutation = useMutation({ mutationFn: planAction });
   const startMutation = useMutation({
@@ -251,8 +314,8 @@ function SetupShell({
   const sources = setup?.unregistered_sources ?? [];
   const styles = setup?.styles ?? [];
   const selectedSource = sources.find((item) => item.path === source);
-  const activeBook = books.find((item) => item.id === activeBookId) ?? books[0];
   const jobs = jobsQuery.data?.jobs ?? [];
+  const selectedJob = selectedJobId ? jobs.find((job) => job.job_id === selectedJobId) : undefined;
 
   useEffect(() => {
     if (!source && sources[0]) {
@@ -275,12 +338,6 @@ function SetupShell({
     }
   }, [style, styles]);
 
-  useEffect(() => {
-    if (!activeBookId && books[0]) {
-      setActiveBookId(books[0].id);
-    }
-  }, [activeBookId, books]);
-
   const initPayload: InitBookRequest = {
     action: "init_book",
     source,
@@ -291,143 +348,252 @@ function SetupShell({
     target_lang: targetLang,
     ruleset_apply: rulesetApply
   };
-  const extractPayload: ExtractChaptersRequest | null = activeBook ? { action: "extract_chapters", book_id: activeBook.id } : null;
+  const extractPayload: ExtractChaptersRequest | null = book ? { action: "extract_chapters", book_id: book.id } : null;
   const canRegister = Boolean(source && title && style && sourceLang && targetLang);
 
   return (
-    <div className="app-shell">
-      <Sidebar books={books} activeBook={activeBook} mobileOpen={mobileNavOpen} onMobileClose={() => setMobileNavOpen(false)} />
-      <main className="main-area">
-        <TopBar activeBook={activeBook} onOpenNav={() => setMobileNavOpen(true)} />
-        <section className="page-stack">
-          <PageHeader title="Buch-Setup" description="Neue Buchpakete registrieren und aktuelle Buchquellen vorbereiten." />
-          <div className="workflow-grid">
-            <div className="panel stack-panel">
-              <div className="panel-header">
-                <div>
-                  <h2>Neue Quelle registrieren</h2>
-                  <p>{setupQuery.isLoading ? "Quellen werden gesucht..." : `${sources.length} lose Quelle(n) gefunden`}</p>
-                </div>
-                <Settings size={22} />
+    <section className="page-stack">
+      <PageHeader title="Buch-Setup" description="Buchdaten des aktuellen Pakets, neue Quellen registrieren und Kapitelquellen erzeugen." />
+      {book && settings && <ContextBar book={book} settings={settings} selectedJob={selectedJob} />}
+      <div className="workflow-grid">
+        <div className="workflow-main">
+          <div className="panel stack-panel">
+            <div className="panel-header">
+              <div>
+                <h2>Aktuelles Buch</h2>
+                <p>{book ? `Paket ${book.id}` : "Kein Buch ausgewaehlt"}</p>
               </div>
+              <BookOpen size={22} />
+            </div>
 
+            {book ? (
               <div className="form-grid">
                 <label className="form-field wide">
-                  <span>Unregistrierte Quelle</span>
-                  <select value={source} onChange={(event) => {
-                    const next = sources.find((item) => item.path === event.target.value);
-                    setSource(event.target.value);
-                    setTitle(next?.title ?? "");
-                    setAuthor(next?.author ?? "");
-                  }}>
-                    {sources.length === 0 && <option value="">Keine losen Quellen gefunden</option>}
-                    {sources.map((item) => <option key={item.path} value={item.path}>{item.path}</option>)}
-                  </select>
-                </label>
-                <label className="form-field">
                   <span>Titel</span>
-                  <input value={title} onChange={(event) => setTitle(event.target.value)} />
+                  <input value={book.title || ""} readOnly />
                 </label>
                 <label className="form-field">
                   <span>Autor</span>
-                  <input value={author} onChange={(event) => setAuthor(event.target.value)} />
+                  <input value={book.author || ""} readOnly />
                 </label>
                 <label className="form-field">
-                  <span>Start-Stil</span>
-                  <select value={style} onChange={(event) => setStyle(event.target.value)}>
-                    {styles.map((item) => <option key={item.id} value={item.id}>{item.label || item.id}</option>)}
-                  </select>
+                  <span>Buch-ID</span>
+                  <input value={book.id} readOnly />
+                </label>
+                <label className="form-field">
+                  <span>Stil</span>
+                  <input value={book.style_mode || ""} readOnly />
                 </label>
                 <label className="form-field">
                   <span>Quellsprache</span>
-                  <input value={sourceLang} onChange={(event) => setSourceLang(event.target.value)} />
+                  <input value={book.source_lang || ""} readOnly />
                 </label>
                 <label className="form-field">
                   <span>Zielsprache</span>
-                  <input value={targetLang} onChange={(event) => setTargetLang(event.target.value)} />
+                  <input value={book.target_lang || ""} readOnly />
+                </label>
+                <label className="form-field wide">
+                  <span>Quelle</span>
+                  <input value={book.source_path || "(nicht gesetzt)"} readOnly />
+                </label>
+                <label className="form-field wide">
+                  <span>Buchordner</span>
+                  <input value={book.book_root || ""} readOnly />
                 </label>
               </div>
-
-              <div className="toggle-row">
-                <label>
-                  <input type="checkbox" checked={rulesetApply} onChange={(event) => setRulesetApply(event.target.checked)} />
-                  <span>Regelwerk fuer dieses Buch aktivieren</span>
-                </label>
-              </div>
-
-              {setupQuery.isError && <div className="error-box">{String(setupQuery.error.message)}</div>}
-              {planMutation.isError && <div className="error-box">{String(planMutation.error.message)}</div>}
-              {startMutation.isError && <div className="error-box">{String(startMutation.error.message)}</div>}
-
-              <div className="action-row">
-                <button className="button ghost" type="button" disabled={!canRegister || planMutation.isPending} onClick={() => planMutation.mutate(initPayload)}>
-                  Kommando planen
-                </button>
-                <button className="button primary" type="button" disabled={!canRegister || startMutation.isPending} onClick={() => startMutation.mutate(initPayload)}>
-                  Buch registrieren
-                </button>
-              </div>
-
-              {planMutation.data && (
-                <div className="command-preview">
-                  <span>Geplantes Kommando</span>
-                  <pre className="log-tail compact">{planMutation.data.command_text}</pre>
+            ) : (
+              <div className="empty-state compact">
+                <BookOpen size={28} />
+                <div>
+                  <h2>Kein Buch ausgewaehlt</h2>
+                  <p>Waehle links ein Buch oder registriere unten eine neue Quelle.</p>
                 </div>
-              )}
+              </div>
+            )}
 
-              {setup?.metadata_prompt && (
-                <div className="command-preview">
-                  <span>Metadaten-Prompt</span>
-                  <pre className="style-test-text compact-text raw-text">{setup.metadata_prompt}</pre>
-                </div>
-              )}
+            <div className="toggle-row">
+              <label>
+                <input type="checkbox" checked={Boolean(book?.ruleset_apply)} disabled readOnly />
+                <span>Regelwerk fuer dieses Buch aktiv</span>
+              </label>
             </div>
 
-            <div className="panel stack-panel">
-              <div className="panel-header">
-                <div>
-                  <h2>Aktuelles Buch vorbereiten</h2>
-                  <p>Kapitelquellen aus der registrierten Quelle erzeugen.</p>
-                </div>
-                <BookOpen size={22} />
-              </div>
-
-              <label className="form-field">
-                <span>Buch</span>
-                <select value={activeBook?.id ?? ""} onChange={(event) => setActiveBookId(event.target.value)}>
-                  {books.map((item) => <option key={item.id} value={item.id}>{item.title || item.id}</option>)}
-                </select>
-              </label>
-
-              {activeBook && (
-                <div className="metric-grid">
-                  <Metric label="Kapitel" value={activeBook.chapters} />
-                  <Metric label="Fehlende Szenen" value={activeBook.missing_scenes} tone={activeBook.missing_scenes ? "warn" : "ok"} />
-                  <Metric label="Stil" value={activeBook.style_mode} />
-                  <Metric label="Quelle" value={activeBook.source_lang || "-"} />
-                </div>
-              )}
-
-              <div className="action-row">
-                <button className="button ghost" type="button" disabled={!extractPayload || planMutation.isPending} onClick={() => extractPayload && planMutation.mutate(extractPayload)}>
-                  Kommando planen
-                </button>
-                <button className="button primary" type="button" disabled={!extractPayload || startMutation.isPending} onClick={() => extractPayload && startMutation.mutate(extractPayload)}>
-                  Quell-Kapitel erzeugen
-                </button>
-              </div>
-
-              <JobPanel
-                jobs={jobs}
-                loading={jobsQuery.isLoading}
-                selectedJobId={selectedJobId ?? jobs[0]?.job_id ?? null}
-                onSelectJob={setSelectedJobId}
-              />
+            <div className="help-box">
+              <p>
+                Diese Werte kommen aus <code>book.yaml</code> des aktiven Pakets.
+                Aenderungen an Stil/Provider gehoeren nach <strong>Buch-Settings</strong>;
+                strukturelle Metadaten werden in der YAML gepflegt.
+              </p>
             </div>
           </div>
-        </section>
-      </main>
-    </div>
+
+          <div className="panel stack-panel">
+            <div className="panel-header">
+              <div>
+                <h2>Neue Quelle registrieren</h2>
+                <p>{setupQuery.isLoading ? "Quellen werden gesucht..." : `${sources.length} lose Quelle(n) gefunden`}</p>
+              </div>
+              <Settings size={22} />
+            </div>
+
+            <div className="help-box">
+              <p>
+                Nur fuer Dateien unter <code>books/</code>, die noch kein Buchpaket sind.
+                Sind keine losen Quellen da, bleibt dieses Formular leer — das aktive Buch steht oben.
+              </p>
+            </div>
+
+            {sources.length === 0 ? (
+              <div className="empty-state compact">
+                <Settings size={28} />
+                <div>
+                  <h2>Keine unregistrierte Quelle</h2>
+                  <p>Lege eine Quelldatei unter <code>books/</code> ab oder arbeite mit dem aktuellen Buch rechts weiter.</p>
+                </div>
+              </div>
+            ) : (
+              <>
+                <div className="form-grid">
+                  <label className="form-field wide">
+                    <span>Unregistrierte Quelle</span>
+                    <select value={source} onChange={(event) => {
+                      const next = sources.find((item) => item.path === event.target.value);
+                      setSource(event.target.value);
+                      setTitle(next?.title ?? "");
+                      setAuthor(next?.author ?? "");
+                    }}>
+                      {sources.map((item) => <option key={item.path} value={item.path}>{item.path}</option>)}
+                    </select>
+                  </label>
+                  <label className="form-field">
+                    <span>Titel</span>
+                    <input value={title} onChange={(event) => setTitle(event.target.value)} />
+                  </label>
+                  <label className="form-field">
+                    <span>Autor</span>
+                    <input value={author} onChange={(event) => setAuthor(event.target.value)} />
+                  </label>
+                  <label className="form-field">
+                    <span>Start-Stil</span>
+                    <select value={style} onChange={(event) => setStyle(event.target.value)}>
+                      {styles.map((item) => <option key={item.id} value={item.id}>{item.label || item.id}</option>)}
+                    </select>
+                  </label>
+                  <label className="form-field">
+                    <span>Quellsprache</span>
+                    <input value={sourceLang} onChange={(event) => setSourceLang(event.target.value)} />
+                  </label>
+                  <label className="form-field">
+                    <span>Zielsprache</span>
+                    <input value={targetLang} onChange={(event) => setTargetLang(event.target.value)} />
+                  </label>
+                </div>
+
+                <div className="toggle-row">
+                  <label>
+                    <input type="checkbox" checked={rulesetApply} onChange={(event) => setRulesetApply(event.target.checked)} />
+                    <span>Regelwerk fuer dieses Buch aktivieren</span>
+                  </label>
+                </div>
+
+                {setupQuery.isError && <div className="error-box">{String(setupQuery.error.message)}</div>}
+                {planMutation.isError && <div className="error-box">{String(planMutation.error.message)}</div>}
+                {startMutation.isError && <div className="error-box">{String(startMutation.error.message)}</div>}
+
+                <div className="action-row">
+                  <button className="button ghost" type="button" disabled={!canRegister || planMutation.isPending} onClick={() => planMutation.mutate(initPayload)}>
+                    Kommando planen
+                  </button>
+                  <button className="button primary" type="button" disabled={!canRegister || startMutation.isPending} onClick={() => startMutation.mutate(initPayload)}>
+                    Buch registrieren
+                  </button>
+                </div>
+
+                {planMutation.data && (
+                  <div className="command-preview">
+                    <span>Geplantes Kommando</span>
+                    <pre className="log-tail compact">{planMutation.data.command_text}</pre>
+                  </div>
+                )}
+              </>
+            )}
+
+            {setup?.metadata_prompt && (
+              <div className="command-preview">
+                <span>Metadaten-Prompt (Vorlage fuer neue Buecher)</span>
+                <pre className="style-test-text compact-text raw-text">{setup.metadata_prompt}</pre>
+              </div>
+            )}
+          </div>
+        </div>
+
+        <div className="panel stack-panel">
+          <div className="panel-header">
+            <div>
+              <h2>Aktuelles Buch vorbereiten</h2>
+              <p>Kapitelquellen aus der registrierten Quelle erzeugen.</p>
+            </div>
+            <BookOpen size={22} />
+          </div>
+
+          {books.length > 0 && (
+            <label className="form-field">
+              <span>Buch</span>
+              <select
+                value={book?.id ?? ""}
+                onChange={(event) => {
+                  if (event.target.value) {
+                    navigate(`/books/${event.target.value}/setup`);
+                  }
+                }}
+              >
+                {books.map((item) => <option key={item.id} value={item.id}>{item.title || item.id}</option>)}
+              </select>
+            </label>
+          )}
+
+          {book ? (
+            <div className="metric-grid">
+              <Metric label="Kapitel" value={book.chapters} />
+              <Metric label="Fehlende Szenen" value={book.missing_scenes} tone={book.missing_scenes ? "warn" : "ok"} />
+              <Metric label="Stil" value={book.style_mode} />
+              <Metric label="Quelle" value={book.source_lang || "-"} />
+            </div>
+          ) : (
+            <div className="empty-state compact">
+              <BookOpen size={28} />
+              <div>
+                <h2>Kein Buch ausgewaehlt</h2>
+                <p>Lege zuerst ein Buchpaket an oder oeffne ein bestehendes Buch.</p>
+              </div>
+            </div>
+          )}
+
+          <div className="action-row">
+            <button className="button ghost" type="button" disabled={!extractPayload || planMutation.isPending} onClick={() => extractPayload && planMutation.mutate(extractPayload)}>
+              Kommando planen
+            </button>
+            <button className="button primary" type="button" disabled={!extractPayload || startMutation.isPending} onClick={() => extractPayload && startMutation.mutate(extractPayload)}>
+              Quell-Kapitel erzeugen
+            </button>
+          </div>
+
+          {planMutation.data && (
+            <div className="command-preview">
+              <span>Geplantes Kommando</span>
+              <pre className="log-tail compact">{planMutation.data.command_text}</pre>
+            </div>
+          )}
+
+          <JobPanel
+            jobs={jobs}
+            loading={jobsQuery.isLoading}
+            selectedJobId={selectedJobId ?? jobs[0]?.job_id ?? null}
+            onSelectJob={setSelectedJobId}
+          />
+        </div>
+      </div>
+    </section>
   );
 }
 
@@ -443,6 +609,10 @@ function Sidebar({
   onMobileClose: () => void;
 }) {
   const navigate = useNavigate();
+  const location = useLocation();
+  const section = location.pathname.split("/").filter(Boolean).pop() || "overview";
+  const knownSections = new Set(navItems.map((item) => item.path));
+  const targetSection = knownSections.has(section) ? section : "overview";
 
   return (
     <>
@@ -464,7 +634,7 @@ function Sidebar({
           value={activeBook?.id ?? ""}
           onChange={(event) => {
             if (event.target.value) {
-              navigate(`/books/${event.target.value}/overview`);
+              navigate(`/books/${event.target.value}/${targetSection}`);
               onMobileClose();
             }
           }}
@@ -489,10 +659,6 @@ function Sidebar({
               </NavLink>
             );
           })}
-          <NavLink to="/setup" className={({ isActive }) => `nav-item ${isActive ? "active" : ""}`} onClick={onMobileClose}>
-            <Settings size={18} />
-            <span>Buch-Setup</span>
-          </NavLink>
         </nav>
 
         <div className="sidebar-note">
@@ -524,6 +690,7 @@ function TopBar({ activeBook, settings, onOpenNav }: { activeBook?: BookSummary;
 
 function OverviewPage({ book, settings }: { book?: BookSummary; settings: WorkspaceSettings }) {
   const [selectedJobId, setSelectedJobId] = useState<string | null>(null);
+  const [chapterFilter, setChapterFilter] = useState<"all" | "missing" | "done">("all");
   const chaptersQuery = useQuery({
     queryKey: ["chapters", book?.id, settings.active_style],
     queryFn: () => getChapters(book!.id, settings.active_style),
@@ -538,7 +705,7 @@ function OverviewPage({ book, settings }: { book?: BookSummary; settings: Worksp
   const jobs = jobsQuery.data?.jobs ?? [];
   const selectedJob = selectedJobId ? jobs.find((job) => job.job_id === selectedJobId) : jobs[0];
   const chapters = chaptersQuery.data?.chapters ?? [];
-  const totals = useMemo(() => summarizeChapters(chapters), [chapters]);
+  const coverage = useMemo(() => summarizeChapterCoverage(chapters), [chapters]);
 
   useEffect(() => {
     if (!selectedJobId && jobs[0]) {
@@ -556,23 +723,65 @@ function OverviewPage({ book, settings }: { book?: BookSummary; settings: Worksp
         title="Uebersicht"
         description="Buchstatus, Kapitelabdeckung und Hintergrundjobs aus der neuen FastAPI-Schicht."
       />
-      <ContextBar book={book} settings={settings} selectedJob={selectedJob} />
+      <ContextBar book={book} settings={settings} selectedJob={selectedJob} coverage={coverage} />
       <div className="overview-grid">
         <div className="panel stack-panel">
           <div className="panel-header">
             <div>
               <h2>Buchstatus</h2>
-              <p>{book.author || "Autor nicht gesetzt"}</p>
+              <p>
+                {book.author || "Autor nicht gesetzt"} · Stil{" "}
+                <code>{settings.active_style}</code>
+              </p>
             </div>
             <BookOpen size={22} />
           </div>
           <div className="metric-grid">
-            <Metric label="Kapitel" value={book.chapters} />
-            <Metric label="Quellszenen" value={totals.source} />
-            <Metric label="DE-Szenen" value={totals.de} />
-            <Metric label="Fehlend" value={totals.missing} tone={totals.missing ? "warn" : "ok"} />
+            <Metric label="Kapitel fertig" value={`${coverage.complete}/${coverage.total}`} tone={coverage.missingChapters ? "warn" : "ok"} />
+            <Metric label="Abdeckung" value={`${coverage.percent}%`} tone={coverage.percent >= 100 ? "ok" : "warn"} />
+            <Metric label="DE-Szenen" value={`${coverage.de}/${coverage.source}`} />
+            <Metric label="Kapitel fehlend" value={coverage.missingChapters} tone={coverage.missingChapters ? "warn" : "ok"} />
           </div>
-          <ChapterTable chapters={chapters} loading={chaptersQuery.isLoading} />
+          <div className="coverage-bar" aria-hidden="true">
+            <div className="coverage-bar-fill" style={{ width: `${coverage.percent}%` }} />
+          </div>
+          {coverage.missingIds.length > 0 && (
+            <div className="missing-chapters">
+              <span className="muted-note">Fehlende Kapitel ({coverage.missingIds.length})</span>
+              <div className="missing-chip-row">
+                {coverage.missingIds.map((id) => (
+                  <span key={id} className="missing-chip">{id}</span>
+                ))}
+              </div>
+            </div>
+          )}
+          <div className="table-toolbar">
+            <span className="muted-note">Kapiteltabelle fuer {settings.active_style}</span>
+            <div className="filter-row">
+              <button
+                type="button"
+                className={`button ghost compact ${chapterFilter === "all" ? "active" : ""}`}
+                onClick={() => setChapterFilter("all")}
+              >
+                Alle ({coverage.total})
+              </button>
+              <button
+                type="button"
+                className={`button ghost compact ${chapterFilter === "missing" ? "active" : ""}`}
+                onClick={() => setChapterFilter("missing")}
+              >
+                Fehlend ({coverage.missingChapters})
+              </button>
+              <button
+                type="button"
+                className={`button ghost compact ${chapterFilter === "done" ? "active" : ""}`}
+                onClick={() => setChapterFilter("done")}
+              >
+                Fertig ({coverage.complete})
+              </button>
+            </div>
+          </div>
+          <ChapterTable chapters={chapters} loading={chaptersQuery.isLoading} filter={chapterFilter} />
         </div>
 
         <JobPanel
@@ -597,14 +806,30 @@ function PageHeader({ title, description }: { title: string; description: string
   );
 }
 
-function ContextBar({ book, settings, selectedJob }: { book: BookSummary; settings?: WorkspaceSettings; selectedJob?: JobDetail }) {
+function ContextBar({
+  book,
+  settings,
+  selectedJob,
+  coverage
+}: {
+  book: BookSummary;
+  settings?: WorkspaceSettings;
+  selectedJob?: JobDetail;
+  coverage?: ChapterCoverage;
+}) {
   return (
     <div className="context-bar">
       <span>Buch: {book.id}</span>
       <span>Stil: {settings?.active_style ?? book.style_mode}</span>
       {settings?.translate_provider && <span>Provider: {settings.translate_provider}</span>}
       {settings?.translate_model && <span>Modell: {settings.translate_model}</span>}
-      <span>Kapitel: {book.chapters}</span>
+      {coverage ? (
+        <span>
+          Abdeckung: {coverage.complete}/{coverage.total} ({coverage.percent}%)
+        </span>
+      ) : (
+        <span>Kapitel: {book.chapters}</span>
+      )}
       <span>Job: {selectedJob ? `${selectedJob.kind ?? "job"} / ${selectedJob.status}` : "keiner"}</span>
     </div>
   );
@@ -619,20 +844,37 @@ function Metric({ label, value, tone }: { label: string; value: number | string;
   );
 }
 
-function ChapterTable({ chapters, loading }: { chapters: ChapterRow[]; loading: boolean }) {
+function ChapterTable({
+  chapters,
+  loading,
+  filter = "all"
+}: {
+  chapters: ChapterRow[];
+  loading: boolean;
+  filter?: "all" | "missing" | "done";
+}) {
   if (loading) {
     return <div className="table-state">Kapitel werden geladen...</div>;
   }
   if (!chapters.length) {
     return <div className="table-state">Noch keine Kapitelstatusdaten vorhanden.</div>;
   }
+  const visible = chapters.filter((chapter) => {
+    const missing = Number(chapter.Fehlt || 0) > 0;
+    if (filter === "missing") return missing;
+    if (filter === "done") return !missing && Number(chapter.RU || 0) > 0;
+    return true;
+  });
+  if (!visible.length) {
+    return <div className="table-state">Keine Kapitel fuer diesen Filter.</div>;
+  }
   return (
-    <div className="table-wrap">
+    <div className="table-wrap table-wrap-scroll">
       <table>
         <thead>
           <tr>
             <th>Kapitel</th>
-            <th>Status</th>
+            <th>Label</th>
             <th>Quelle</th>
             <th>DE</th>
             <th>Fehlt</th>
@@ -640,10 +882,10 @@ function ChapterTable({ chapters, loading }: { chapters: ChapterRow[]; loading: 
           </tr>
         </thead>
         <tbody>
-          {chapters.slice(0, 12).map((chapter) => (
-            <tr key={chapter.Kapitel}>
+          {visible.map((chapter) => (
+            <tr key={chapter.Kapitel} className={Number(chapter.Fehlt || 0) > 0 ? "row-missing" : "row-done"}>
               <td>{chapter.Kapitel}</td>
-              <td>{chapter.Status || "-"}</td>
+              <td>{chapter.Label || chapter["Titel RU"] || "-"}</td>
               <td>{chapter.RU}</td>
               <td>{chapter.DE}</td>
               <td className={chapter.Fehlt ? "text-warn" : "text-ok"}>{chapter.Fehlt}</td>
@@ -1001,7 +1243,7 @@ function TranslatePage({ book, settings }: { book?: BookSummary; settings: Works
                 <span>Kapitel</span>
                 <select value={chapter} onChange={(event) => setChapter(event.target.value)}>
                   {chapters.map((item) => (
-                    <option key={item.Kapitel} value={item.Kapitel}>{item.Kapitel} / fehlt {item.Fehlt}</option>
+                    <option key={item.Kapitel} value={item.Kapitel}>{formatChapterOption(item, `fehlt ${item.Fehlt}`)}</option>
                   ))}
                 </select>
               </label>
@@ -1019,13 +1261,13 @@ function TranslatePage({ book, settings }: { book?: BookSummary; settings: Works
                 <label className="form-field">
                   <span>Von</span>
                   <select value={startChapter} onChange={(event) => setStartChapter(event.target.value)}>
-                    {chapters.map((item) => <option key={item.Kapitel} value={item.Kapitel}>{item.Kapitel}</option>)}
+                    {chapters.map((item) => <option key={item.Kapitel} value={item.Kapitel}>{formatChapterOption(item)}</option>)}
                   </select>
                 </label>
                 <label className="form-field">
                   <span>Bis</span>
                   <select value={endChapter} onChange={(event) => setEndChapter(event.target.value)}>
-                    {chapters.map((item) => <option key={item.Kapitel} value={item.Kapitel}>{item.Kapitel}</option>)}
+                    {chapters.map((item) => <option key={item.Kapitel} value={item.Kapitel}>{formatChapterOption(item)}</option>)}
                   </select>
                 </label>
               </>
@@ -1056,7 +1298,7 @@ function TranslatePage({ book, settings }: { book?: BookSummary; settings: Works
             {provider === "ollama" && (
               <label className="form-field">
                 <span>Ollama-Modell</span>
-                <input value={ollamaModel} onChange={(event) => setOllamaModel(event.target.value)} placeholder="gemma4:latest" />
+                <OllamaModelSelect value={ollamaModel} onChange={setOllamaModel} />
               </label>
             )}
 
@@ -1121,7 +1363,7 @@ function TranslatePage({ book, settings }: { book?: BookSummary; settings: Works
               <ListChecks size={16} />
               Dry-run anzeigen
             </button>
-            <code>{payload.scope}{payload.chapter ? ` / ${payload.chapter}` : ""}</code>
+            <code>{payload.scope}{payload.chapter ? ` / Kap ${payload.chapter}` : ""}{payload.start_chapter ? ` / ${payload.start_chapter}-${payload.end_chapter}` : ""}</code>
           </div>
 
           {planMutation.data && (
@@ -1338,7 +1580,7 @@ function StyleTestPage({ book, settings }: { book?: BookSummary; settings: Works
               <span>Kapitel</span>
               <select value={chapter} onChange={(event) => { setChapter(event.target.value); setScene(""); }}>
                 {chapters.map((item) => (
-                  <option key={item.Kapitel} value={item.Kapitel}>{item.Kapitel} / RU {item.RU} / DE {item.DE}</option>
+                  <option key={item.Kapitel} value={item.Kapitel}>{formatChapterOption(item, `RU ${item.RU} / DE ${item.DE}`)}</option>
                 ))}
               </select>
             </label>
@@ -1377,7 +1619,7 @@ function StyleTestPage({ book, settings }: { book?: BookSummary; settings: Works
             {provider === "ollama" && (
               <label className="form-field">
                 <span>Ollama-Modell</span>
-                <input value={ollamaModel} onChange={(event) => setOllamaModel(event.target.value)} placeholder="gemma4:latest" />
+                <OllamaModelSelect value={ollamaModel} onChange={setOllamaModel} />
               </label>
             )}
           </div>
@@ -1518,12 +1760,14 @@ function ReviewPage({ book, settings }: { book?: BookSummary; settings: Workspac
   const [chapter, setChapter] = useState("");
   const [startChapter, setStartChapter] = useState("");
   const [endChapter, setEndChapter] = useState("");
-  const [llm, setLlm] = useState(settings.review_llm);
+  const [deepLlm, setDeepLlm] = useState<"openrouter" | "ollama">(normalizeDeepReviewLlm(settings.review_llm));
   const [llmScope, setLlmScope] = useState(settings.review_llm_scope);
   const [model, setModel] = useState(settings.review_model);
   const [ollamaModel, setOllamaModel] = useState(settings.review_ollama_model);
   const [failOnErrors, setFailOnErrors] = useState(false);
   const [selectedJobId, setSelectedJobId] = useState<string | null>(null);
+  const [selectedReportChapter, setSelectedReportChapter] = useState("");
+  const [plannedKind, setPlannedKind] = useState<"erstpruefung" | "deep" | null>(null);
 
   const chaptersQuery = useQuery({
     queryKey: ["chapters", book?.id, style || book?.style_mode],
@@ -1551,6 +1795,7 @@ function ReviewPage({ book, settings }: { book?: BookSummary; settings: Workspac
     onSuccess: (data) => {
       setSelectedJobId(data.job.job_id);
       queryClient.invalidateQueries({ queryKey: ["jobs"] });
+      queryClient.invalidateQueries({ queryKey: ["review", book?.id, style] });
     }
   });
   const fixMutation = useMutation({
@@ -1561,7 +1806,12 @@ function ReviewPage({ book, settings }: { book?: BookSummary; settings: Workspac
       queryClient.invalidateQueries({ queryKey: ["review", book?.id, style] });
     }
   });
-  const planMutation = useMutation({ mutationFn: planAction });
+  const planMutation = useMutation({
+    mutationFn: ({ payload }: { kind: "erstpruefung" | "deep"; payload: ReviewJobRequest }) => planAction(payload),
+    onSuccess: (_data, variables) => {
+      setPlannedKind(variables.kind);
+    }
+  });
 
   const chapters = chaptersQuery.data?.chapters ?? [];
   const jobs = jobsQuery.data?.jobs ?? [];
@@ -1569,13 +1819,14 @@ function ReviewPage({ book, settings }: { book?: BookSummary; settings: Workspac
   const openRouterModels = (modelsQuery.data?.models ?? []).filter((item) => item.id);
   const selectedJob = selectedJobId ? jobs.find((job) => job.job_id === selectedJobId) : undefined;
   const review = reviewQuery.data;
-  const selectedReport = review?.reports[0];
+  const reportChapters = (review?.reports ?? []).map((item) => item.chapter);
+  const selectedReport = (review?.reports ?? []).find((item) => item.chapter === selectedReportChapter) ?? review?.reports[0];
   const stylesLoadError = stylesQuery.isError ? String(stylesQuery.error.message) : "";
   const modelsLoadError = modelsQuery.isError ? String(modelsQuery.error.message) : "";
 
   useEffect(() => {
     setStyle(settings.active_style);
-    setLlm(settings.review_llm);
+    setDeepLlm(normalizeDeepReviewLlm(settings.review_llm));
     setLlmScope(settings.review_llm_scope);
     setModel(settings.review_model);
     setOllamaModel(settings.review_ollama_model);
@@ -1596,24 +1847,35 @@ function ReviewPage({ book, settings }: { book?: BookSummary; settings: Workspac
     }
   }, [model, openRouterModels]);
 
+  useEffect(() => {
+    const available = (review?.reports ?? []).map((item) => item.chapter);
+    if (!available.length) {
+      setSelectedReportChapter("");
+      return;
+    }
+    setSelectedReportChapter((current) => (current && available.includes(current) ? current : available[0]));
+  }, [review?.reports]);
+
   if (!book) {
     return <div className="boot-screen">Kein Buch geladen.</div>;
   }
 
-  const canStart = Boolean(style && llm && llmScope && (scope !== "Aktuelles Kapitel" || chapter) && (scope !== "Bereich" || (startChapter && endChapter)));
-  const payload = buildReviewPayload({
+  const scopeReady = Boolean(style && (scope !== "Aktuelles Kapitel" || chapter) && (scope !== "Bereich" || (startChapter && endChapter)));
+  const deepReady = Boolean(scopeReady && llmScope && (deepLlm !== "openrouter" || model) && (deepLlm !== "ollama" || ollamaModel));
+  const basePayloadOptions = {
     bookId: book.id,
     style,
     scope,
     chapter,
     startChapter,
     endChapter,
-    llm,
     llmScope,
     model,
     ollamaModel,
     failOnErrors
-  });
+  };
+  const erstpruefungPayload = buildReviewPayload({ ...basePayloadOptions, llm: "none" });
+  const deepPayload = buildReviewPayload({ ...basePayloadOptions, llm: deepLlm });
   const fixPayload = (fixAction: "plan" | "stage" | "promote"): ReviewFixRequest => ({
     action: "review_fixes",
     book_id: book.id,
@@ -1621,15 +1883,17 @@ function ReviewPage({ book, settings }: { book?: BookSummary; settings: Workspac
     fix_action: fixAction
   });
   const summaryCounts = reviewSummaryCounts(review?.summary);
+  const plannedPayload = plannedKind === "deep" ? deepPayload : plannedKind === "erstpruefung" ? erstpruefungPayload : null;
 
   return (
     <section className="page-stack">
       <PageHeader
         title="Review"
-        description="Review-Laeufe aus React starten: Regelcheck, optionaler LLM-Review und Fortschritt im globalen Job-Panel."
+        description="Zwei Einstiege: Erstpruefung (nur Regelcheck) oder Deep-Check mit KI. Fortschritt im globalen Job-Panel."
       />
       <ContextBar book={book} settings={settings} selectedJob={selectedJob} />
       <div className="workflow-grid">
+        <div className="workflow-main">
         <div className="panel stack-panel">
           <div className="panel-header">
             <div>
@@ -1651,7 +1915,7 @@ function ReviewPage({ book, settings }: { book?: BookSummary; settings: Workspac
             </label>
 
             <label className="form-field">
-              <span>Scope</span>
+              <span>Kapitel-Umfang</span>
               <select value={scope} onChange={(event) => setScope(event.target.value)}>
                 <option>Aktuelles Kapitel</option>
                 <option>Bereich</option>
@@ -1664,7 +1928,7 @@ function ReviewPage({ book, settings }: { book?: BookSummary; settings: Workspac
                 <span>Kapitel</span>
                 <select value={chapter} onChange={(event) => setChapter(event.target.value)}>
                   {chapters.map((item) => (
-                    <option key={item.Kapitel} value={item.Kapitel}>{item.Kapitel} / DE {item.DE}</option>
+                    <option key={item.Kapitel} value={item.Kapitel}>{formatChapterOption(item, `DE ${item.DE}`)}</option>
                   ))}
                 </select>
               </label>
@@ -1675,38 +1939,89 @@ function ReviewPage({ book, settings }: { book?: BookSummary; settings: Workspac
                 <label className="form-field">
                   <span>Von</span>
                   <select value={startChapter} onChange={(event) => setStartChapter(event.target.value)}>
-                    {chapters.map((item) => <option key={item.Kapitel} value={item.Kapitel}>{item.Kapitel}</option>)}
+                    {chapters.map((item) => <option key={item.Kapitel} value={item.Kapitel}>{formatChapterOption(item)}</option>)}
                   </select>
                 </label>
                 <label className="form-field">
                   <span>Bis</span>
                   <select value={endChapter} onChange={(event) => setEndChapter(event.target.value)}>
-                    {chapters.map((item) => <option key={item.Kapitel} value={item.Kapitel}>{item.Kapitel}</option>)}
+                    {chapters.map((item) => <option key={item.Kapitel} value={item.Kapitel}>{formatChapterOption(item)}</option>)}
                   </select>
                 </label>
               </>
             )}
+          </div>
 
+          <div className="toggle-row">
+            <label>
+              <input type="checkbox" checked={failOnErrors} onChange={(event) => setFailOnErrors(event.target.checked)} />
+              <span>Bei Review-Fehlern Job als fehlgeschlagen behandeln</span>
+            </label>
+          </div>
+
+          {(stylesLoadError || modelsLoadError) && (
+            <div className="error-box">
+              API-Daten fehlen. Backend bitte neu starten. {stylesLoadError || modelsLoadError}
+            </div>
+          )}
+
+          {startMutation.isError && <div className="error-box">{String(startMutation.error.message)}</div>}
+          {planMutation.isError && <div className="error-box">{String(planMutation.error.message)}</div>}
+
+          <div className="panel-header slim">
+            <div>
+              <h2>Erstpruefung</h2>
+              <p>Nur Regelcheck: fehlende Szenen, kyrillische Reste, kaputte Zeichen, Laengen, doppelte Header, Degeneration. Lokal, ohne KI.</p>
+            </div>
+          </div>
+          <div className="action-row">
+            <button
+              className="button primary"
+              type="button"
+              disabled={!scopeReady || startMutation.isPending}
+              onClick={() => startMutation.mutate(erstpruefungPayload)}
+            >
+              <ListChecks size={16} />
+              Erstpruefung starten
+            </button>
+            <button
+              className="button ghost"
+              type="button"
+              disabled={!scopeReady || planMutation.isPending}
+              onClick={() => planMutation.mutate({ kind: "erstpruefung", payload: erstpruefungPayload })}
+            >
+              Kommando planen
+            </button>
+            <code>Regelcheck / {erstpruefungPayload.scope}{erstpruefungPayload.chapter ? ` / ${erstpruefungPayload.chapter}` : ""}</code>
+          </div>
+
+          <div className="panel-header slim">
+            <div>
+              <h2>Deep-Check / KI-Review</h2>
+              <p>Zusaetzlicher Editor-Pass nach dem Regelcheck. OpenRouter remote oder Ollama lokal; Scope steuert, welche Szenen das Modell sieht.</p>
+            </div>
+          </div>
+
+          <div className="form-grid">
             <label className="form-field">
-              <span>LLM</span>
-              <select value={llm} onChange={(event) => setLlm(event.target.value)}>
-                <option value="none">Nur Regelcheck</option>
+              <span>KI-Backend</span>
+              <select value={deepLlm} onChange={(event) => setDeepLlm(normalizeDeepReviewLlm(event.target.value))}>
                 <option value="openrouter">OpenRouter</option>
                 <option value="ollama">Ollama</option>
               </select>
             </label>
 
             <label className="form-field">
-              <span>LLM-Scope</span>
+              <span>KI-Umfang</span>
               <select value={llmScope} onChange={(event) => setLlmScope(event.target.value)}>
                 <option value="flagged">Nur markierte Szenen</option>
                 <option value="all">Alle Szenen</option>
               </select>
             </label>
 
-            {llm === "openrouter" && (
+            {deepLlm === "openrouter" && (
               <label className="form-field wide">
-                <span>Modell</span>
+                <span>OpenRouter-Modell</span>
                 <select value={model} onChange={(event) => setModel(event.target.value)}>
                   {openRouterModels.length === 0 && <option value="">Keine Modelle geladen</option>}
                   {openRouterModels.map((item) => (
@@ -1716,47 +2031,49 @@ function ReviewPage({ book, settings }: { book?: BookSummary; settings: Workspac
               </label>
             )}
 
-            {llm === "ollama" && (
+            {deepLlm === "ollama" && (
               <label className="form-field">
                 <span>Ollama-Modell</span>
-                <input value={ollamaModel} onChange={(event) => setOllamaModel(event.target.value)} placeholder="gemma4:latest" />
+                <OllamaModelSelect value={ollamaModel} onChange={setOllamaModel} />
               </label>
             )}
           </div>
 
-          {(stylesLoadError || modelsLoadError) && (
-            <div className="error-box">
-              API-Daten fehlen. Backend bitte neu starten. {stylesLoadError || modelsLoadError}
-            </div>
-          )}
-
-          <div className="toggle-row">
-            <label>
-              <input type="checkbox" checked={failOnErrors} onChange={(event) => setFailOnErrors(event.target.checked)} />
-              <span>Bei Review-Fehlern Job als fehlgeschlagen behandeln</span>
-            </label>
-          </div>
-
-          {startMutation.isError && <div className="error-box">{String(startMutation.error.message)}</div>}
-
           <div className="action-row">
-            <button className="button primary" type="button" disabled={!canStart || startMutation.isPending} onClick={() => startMutation.mutate(payload)}>
+            <button
+              className="button secondary"
+              type="button"
+              disabled={!deepReady || startMutation.isPending}
+              onClick={() => startMutation.mutate(deepPayload)}
+            >
               <ListChecks size={16} />
-              Review starten
+              Deep-Check starten
             </button>
-            <button className="button ghost" type="button" disabled={!canStart || planMutation.isPending} onClick={() => planMutation.mutate(payload)}>
+            <button
+              className="button ghost"
+              type="button"
+              disabled={!deepReady || planMutation.isPending}
+              onClick={() => planMutation.mutate({ kind: "deep", payload: deepPayload })}
+            >
               Kommando planen
             </button>
-            <code>{payload.scope}{payload.chapter ? ` / ${payload.chapter}` : ""} / {payload.llm}</code>
+            <code>{deepPayload.llm} / {deepPayload.llm_scope} / {deepPayload.scope}{deepPayload.chapter ? ` / ${deepPayload.chapter}` : ""}</code>
           </div>
 
-          {planMutation.isError && <div className="error-box">{String(planMutation.error.message)}</div>}
-          {planMutation.data && (
+          {planMutation.data && plannedPayload && (
             <div className="command-preview">
-              <span>Geplantes Kommando</span>
+              <span>Geplantes Kommando ({plannedKind === "deep" ? "Deep-Check" : "Erstpruefung"})</span>
               <pre className="log-tail compact">{planMutation.data.command_text}</pre>
             </div>
           )}
+        </div>
+
+        <JobPanel
+          jobs={jobs}
+          loading={jobsQuery.isLoading}
+          selectedJobId={selectedJobId ?? jobs[0]?.job_id ?? null}
+          onSelectJob={setSelectedJobId}
+        />
         </div>
 
         <div className="panel stack-panel">
@@ -1766,6 +2083,17 @@ function ReviewPage({ book, settings }: { book?: BookSummary; settings: Workspac
               <p>{review?.exists ? `${review.reports.length} Kapitelreport(s)` : "Noch kein Review fuer diesen Stil"}</p>
             </div>
             <ListChecks size={22} />
+          </div>
+
+          <div className="help-box">
+            <p>
+              Hier liegen die <strong>Reports</strong> des letzten Laufs unter <code>work/reviews/</code>.
+              Die Zahlen zaehlen Befunde; der Text darunter aendert nichts an den Uebersetzungen.
+            </p>
+            <p>
+              <strong>Summary</strong> = Gesamtueberblick. <strong>Kapitelreport</strong> = Detail zu einem Kapitel
+              (Regelcheck und ggf. KI-Hinweise). Aeltere Kapitelreports koennen noch von frueheren Laeufen stammen.
+            </p>
           </div>
 
           {reviewQuery.isError && <div className="error-box">{String(reviewQuery.error.message)}</div>}
@@ -1785,6 +2113,17 @@ function ReviewPage({ book, settings }: { book?: BookSummary; settings: Workspac
                 </div>
               )}
 
+              {reportChapters.length > 0 && (
+                <label className="form-field">
+                  <span>Kapitelreport</span>
+                  <select value={selectedReport?.chapter ?? ""} onChange={(event) => setSelectedReportChapter(event.target.value)}>
+                    {reportChapters.map((reportChapter) => (
+                      <option key={reportChapter} value={reportChapter}>{reportChapter}</option>
+                    ))}
+                  </select>
+                </label>
+              )}
+
               {selectedReport && (
                 <div className="command-preview">
                   <span>Kapitelreport {selectedReport.chapter}</span>
@@ -1797,7 +2136,7 @@ function ReviewPage({ book, settings }: { book?: BookSummary; settings: Workspac
               <ListChecks size={28} />
               <div>
                 <h2>Kein Review-Report gefunden</h2>
-                <p>Starte einen Review fuer den ausgewaehlten Stil oder wechsle den Stil.</p>
+                <p>Starte eine Erstpruefung oder einen Deep-Check fuer den ausgewaehlten Stil.</p>
               </div>
             </div>
           )}
@@ -1805,8 +2144,21 @@ function ReviewPage({ book, settings }: { book?: BookSummary; settings: Workspac
           <div className="panel-header slim">
             <div>
               <h2>Review-Fixes</h2>
-              <p>Plan, Staging und Promote laufen ueber `apply_review_suggestions.py`.</p>
+              <p>Optionale Nachbearbeitung nach dem Review — aendert die Uebersetzung erst im letzten Schritt.</p>
             </div>
+          </div>
+
+          <div className="help-box">
+            <p>
+              Nur sinnvoll, wenn der Deep-Check konkrete Ersetzungen vorgeschlagen hat
+              (<code>current_text</code> → <code>suggested_text</code>). Reine Regelcheck-Befunde
+              (z.&nbsp;B. <code>length_ratio</code>) landen oft unter manuelle Befunde.
+            </p>
+            <ol>
+              <li><strong>Fix-Plan schreiben</strong> — liest die Reports und listet, was auto-fixbar waere vs. manuell. Schreibt nur nach <code>work/review-fixes/</code>.</li>
+              <li><strong>Kandidaten stagen</strong> — erzeugt Kopie-Szenen mit den sicheren Ersetzungen (noch nicht produktiv).</li>
+              <li><strong>Staged uebernehmen</strong> — kopiert die Kandidaten in die echten DE-Szenen und assembled die Kapitel. Das ist der einzige Schritt, der den Text aendert.</li>
+            </ol>
           </div>
 
           {fixMutation.isError && <div className="error-box">{String(fixMutation.error.message)}</div>}
@@ -1841,54 +2193,9 @@ function ReviewPage({ book, settings }: { book?: BookSummary; settings: Workspac
             </div>
           )}
         </div>
-
-        <JobPanel
-          jobs={jobs}
-          loading={jobsQuery.isLoading}
-          selectedJobId={selectedJobId ?? jobs[0]?.job_id ?? null}
-          onSelectJob={setSelectedJobId}
-        />
       </div>
     </section>
   );
-}
-
-function buildReviewPayload(options: {
-  bookId: string;
-  style: string;
-  scope: string;
-  chapter: string;
-  startChapter: string;
-  endChapter: string;
-  llm: string;
-  llmScope: string;
-  model: string;
-  ollamaModel: string;
-  failOnErrors: boolean;
-}): ReviewJobRequest {
-  const payload: ReviewJobRequest = {
-    action: "review",
-    book_id: options.bookId,
-    style: options.style,
-    scope: options.scope,
-    llm: options.llm,
-    llm_scope: options.llmScope,
-    fail_on_errors: options.failOnErrors
-  };
-  if (options.scope === "Aktuelles Kapitel") {
-    payload.chapter = options.chapter;
-  }
-  if (options.scope === "Bereich") {
-    payload.start_chapter = options.startChapter;
-    payload.end_chapter = options.endChapter;
-  }
-  if (options.llm === "openrouter") {
-    payload.model = options.model;
-  }
-  if (options.llm === "ollama") {
-    payload.ollama_model = options.ollamaModel;
-  }
-  return payload;
 }
 
 function ExportPage({ book, settings }: { book?: BookSummary; settings: WorkspaceSettings }) {
@@ -2016,7 +2323,7 @@ function ExportPage({ book, settings }: { book?: BookSummary; settings: Workspac
                 <span>Kapitel</span>
                 <select value={chapter} onChange={(event) => setChapter(event.target.value)}>
                   {chapters.map((item) => (
-                    <option key={item.Kapitel} value={item.Kapitel}>{item.Kapitel} / DE {item.DE}</option>
+                    <option key={item.Kapitel} value={item.Kapitel}>{formatChapterOption(item, `DE ${item.DE}`)}</option>
                   ))}
                 </select>
               </label>
@@ -2172,14 +2479,22 @@ function ImagesPage({ book, settings }: { book?: BookSummary; settings: Workspac
   const [startChapter, setStartChapter] = useState("");
   const [endChapter, setEndChapter] = useState("");
   const [backend, setBackend] = useState<"auto" | "cli" | "api">("auto");
-  const [quality, setQuality] = useState("");
-  const [aspectRatio, setAspectRatio] = useState("");
+  const [model, setModel] = useState(book?.higgsfield_model || "");
+  const [quality, setQuality] = useState(book?.higgsfield_quality || "");
+  const [renderQuality, setRenderQuality] = useState("");
+  const [aspectRatio, setAspectRatio] = useState(book?.higgsfield_aspect_ratio || "");
   const [missing, setMissing] = useState(true);
   const [overwrite, setOverwrite] = useState(false);
   const [dryRun, setDryRun] = useState(true);
-  const [noReference, setNoReference] = useState(false);
+  const [noReference, setNoReference] = useState(true);
   const [allowPaidGeneration, setAllowPaidGeneration] = useState(false);
+  const [optimizeScope, setOptimizeScope] = useState<"all" | "cover" | "chapter" | "scene">("all");
+  const [optimizeDryRun, setOptimizeDryRun] = useState(true);
+  const [optimizeSkipExisting, setOptimizeSkipExisting] = useState(false);
+  const [optimizeIncludeTest, setOptimizeIncludeTest] = useState(false);
   const [selectedJobId, setSelectedJobId] = useState<string | null>(null);
+  const [illustrationSetting, setIllustrationSetting] = useState(book?.illustration_setting || "");
+  const [settingExpanded, setSettingExpanded] = useState(false);
 
   const chaptersQuery = useQuery({
     queryKey: ["chapters", book?.id, style || book?.style_mode],
@@ -2190,6 +2505,11 @@ function ImagesPage({ book, settings }: { book?: BookSummary; settings: Workspac
     queryKey: ["styles", book?.id],
     queryFn: () => getBookStyles(book!.id),
     enabled: Boolean(book)
+  });
+  const higgsfieldModelsQuery = useQuery({
+    queryKey: ["higgsfield-models"],
+    queryFn: getHiggsfieldModels,
+    staleTime: 300_000
   });
   const jobsQuery = useQuery({
     queryKey: ["jobs"],
@@ -2204,15 +2524,66 @@ function ImagesPage({ book, settings }: { book?: BookSummary; settings: Workspac
     }
   });
   const planMutation = useMutation({ mutationFn: planAction });
+  const optimizeStartMutation = useMutation({
+    mutationFn: startOptimizeAssetsJob,
+    onSuccess: (data) => {
+      setSelectedJobId(data.job.job_id);
+      queryClient.invalidateQueries({ queryKey: ["jobs"] });
+    }
+  });
+  const optimizePlanMutation = useMutation({ mutationFn: planAction });
+  const saveSettingMutation = useMutation({
+    mutationFn: () => saveIllustrationSetting(book!.id, illustrationSetting),
+    onSuccess: (data) => {
+      setIllustrationSetting(data.illustration_setting || "");
+      setSettingExpanded(false);
+      queryClient.invalidateQueries({ queryKey: ["books"] });
+    }
+  });
 
   const chapters = chaptersQuery.data?.chapters ?? [];
   const jobs = jobsQuery.data?.jobs ?? [];
   const styleOptions = stylesQuery.data?.styles ?? [];
+  const higgsfieldModels = higgsfieldModelsQuery.data?.models ?? [];
+  const higgsfieldDefault = higgsfieldModelsQuery.data?.default || "text2image_soul_v2";
+  const selectedModelMeta = higgsfieldModels.find((item) => item.id === model);
+  const sizeOptions = selectedModelMeta?.size_options ?? [];
+  const renderQualityOptions = selectedModelMeta?.render_quality_options ?? [];
   const selectedJob = selectedJobId ? jobs.find((job) => job.job_id === selectedJobId) : undefined;
 
   useEffect(() => {
     setStyle(settings.active_style);
   }, [book?.id, settings.active_style]);
+
+  useEffect(() => {
+    setModel(book?.higgsfield_model || higgsfieldDefault);
+    setQuality(book?.higgsfield_quality || "");
+    setAspectRatio(book?.higgsfield_aspect_ratio || "");
+    setIllustrationSetting(book?.illustration_setting || "");
+    setSettingExpanded(false);
+  }, [book?.id, book?.higgsfield_model, book?.higgsfield_quality, book?.higgsfield_aspect_ratio, book?.illustration_setting, higgsfieldDefault]);
+
+  useEffect(() => {
+    if (!model && higgsfieldModels[0]) {
+      setModel(book?.higgsfield_model || higgsfieldDefault || higgsfieldModels[0].id);
+    }
+  }, [book?.higgsfield_model, higgsfieldDefault, higgsfieldModels, model]);
+
+  useEffect(() => {
+    if (!quality && selectedModelMeta?.default_size) {
+      setQuality(selectedModelMeta.default_size);
+    }
+  }, [quality, selectedModelMeta?.default_size]);
+
+  useEffect(() => {
+    if (renderQualityOptions.length === 0) {
+      if (renderQuality) setRenderQuality("");
+      return;
+    }
+    if (!renderQuality || !renderQualityOptions.includes(renderQuality)) {
+      setRenderQuality(selectedModelMeta?.default_render_quality || renderQualityOptions[0] || "");
+    }
+  }, [renderQuality, renderQualityOptions, selectedModelMeta?.default_render_quality]);
 
   useEffect(() => {
     const firstChapter = chapters[0]?.Kapitel;
@@ -2236,7 +2607,9 @@ function ImagesPage({ book, settings }: { book?: BookSummary; settings: Workspac
     startChapter,
     endChapter,
     backend,
+    model,
     quality,
+    renderQuality,
     aspectRatio,
     missing,
     overwrite,
@@ -2244,16 +2617,26 @@ function ImagesPage({ book, settings }: { book?: BookSummary; settings: Workspac
     noReference,
     allowPaidGeneration
   });
+  const optimizePayload = buildOptimizeAssetsPayload({
+    bookId: book.id,
+    scope: optimizeScope,
+    dryRun: optimizeDryRun,
+    skipExisting: optimizeSkipExisting,
+    includeTest: optimizeIncludeTest
+  });
   const canStart = Boolean(style && kind && (scope === "chapter" ? chapter : startChapter));
+  const settingDirty = illustrationSetting.trim() !== (book.illustration_setting || "").trim();
+  const settingPreview = (book.illustration_setting || "").trim() || "Noch kein illustration_setting in book.yaml.";
 
   return (
     <section className="page-stack">
       <PageHeader
         title="Bilder"
-        description="Higgsfield-Illustrationen fuer Kapitel und Szenen als Dashboard-Job vorbereiten oder starten."
+        description="Higgsfield-Illustrationen erzeugen und vorhandene Asset-Bilder fuer EPUB/PDF kompakt nachziehen."
       />
       <ContextBar book={book} settings={settings} selectedJob={selectedJob} />
       <div className="workflow-grid">
+        <div className="page-stack">
         <div className="panel stack-panel">
           <div className="panel-header">
             <div>
@@ -2264,6 +2647,18 @@ function ImagesPage({ book, settings }: { book?: BookSummary; settings: Workspac
           </div>
 
           <div className="form-grid">
+            <label className="form-field">
+              <span>Bildmodell</span>
+              <select value={model} onChange={(event) => setModel(event.target.value)}>
+                {higgsfieldModels.length === 0 && (
+                  <option value={model || higgsfieldDefault}>{model || higgsfieldDefault}</option>
+                )}
+                {higgsfieldModels.map((item) => (
+                  <option key={item.id} value={item.id}>{item.label || item.id}</option>
+                ))}
+              </select>
+            </label>
+
             <label className="form-field">
               <span>Stil</span>
               <select value={style} onChange={(event) => setStyle(event.target.value)}>
@@ -2296,7 +2691,7 @@ function ImagesPage({ book, settings }: { book?: BookSummary; settings: Workspac
                 <span>Kapitel</span>
                 <select value={chapter} onChange={(event) => setChapter(event.target.value)}>
                   {chapters.map((item) => (
-                    <option key={item.Kapitel} value={item.Kapitel}>{item.Kapitel} / DE {item.DE}</option>
+                    <option key={item.Kapitel} value={item.Kapitel}>{formatChapterOption(item, `DE ${item.DE}`)}</option>
                   ))}
                 </select>
               </label>
@@ -2306,7 +2701,7 @@ function ImagesPage({ book, settings }: { book?: BookSummary; settings: Workspac
                   <span>Von</span>
                   <select value={startChapter} onChange={(event) => setStartChapter(event.target.value)}>
                     {chapters.map((item) => (
-                      <option key={item.Kapitel} value={item.Kapitel}>{item.Kapitel}</option>
+                      <option key={item.Kapitel} value={item.Kapitel}>{formatChapterOption(item)}</option>
                     ))}
                   </select>
                 </label>
@@ -2314,7 +2709,7 @@ function ImagesPage({ book, settings }: { book?: BookSummary; settings: Workspac
                   <span>Bis</span>
                   <select value={endChapter} onChange={(event) => setEndChapter(event.target.value)}>
                     {chapters.map((item) => (
-                      <option key={item.Kapitel} value={item.Kapitel}>{item.Kapitel}</option>
+                      <option key={item.Kapitel} value={item.Kapitel}>{formatChapterOption(item)}</option>
                     ))}
                   </select>
                 </label>
@@ -2331,13 +2726,32 @@ function ImagesPage({ book, settings }: { book?: BookSummary; settings: Workspac
             </label>
 
             <label className="form-field">
-              <span>Qualitaet</span>
-              <input value={quality} onChange={(event) => setQuality(event.target.value)} placeholder="Default aus book.yaml" />
+              <span>{selectedModelMeta?.size_param === "resolution" ? "Aufloesung" : "Qualitaet"}</span>
+              {sizeOptions.length > 0 ? (
+                <select value={quality} onChange={(event) => setQuality(event.target.value)}>
+                  {sizeOptions.map((option) => (
+                    <option key={option} value={option}>{option}</option>
+                  ))}
+                </select>
+              ) : (
+                <input value={quality} onChange={(event) => setQuality(event.target.value)} placeholder="Default aus book.yaml" />
+              )}
             </label>
+
+            {renderQualityOptions.length > 0 && (
+              <label className="form-field">
+                <span>Render-Qualitaet</span>
+                <select value={renderQuality} onChange={(event) => setRenderQuality(event.target.value)}>
+                  {renderQualityOptions.map((option) => (
+                    <option key={option} value={option}>{option}</option>
+                  ))}
+                </select>
+              </label>
+            )}
 
             <label className="form-field">
               <span>Seitenverhaeltnis</span>
-              <input value={aspectRatio} onChange={(event) => setAspectRatio(event.target.value)} placeholder="z. B. 2:3" />
+              <input value={aspectRatio} onChange={(event) => setAspectRatio(event.target.value)} placeholder="z. B. 3:4" />
             </label>
           </div>
 
@@ -2375,7 +2789,7 @@ function ImagesPage({ book, settings }: { book?: BookSummary; settings: Workspac
             <button className="button ghost" type="button" disabled={!canStart || planMutation.isPending} onClick={() => planMutation.mutate(payload)}>
               Kommando planen
             </button>
-            <code>{payload.kind} / {payload.scope}{payload.dry_run ? " / dry-run" : ""}</code>
+            <code>{payload.model || "default"} / {payload.kind} / {payload.scope}{payload.dry_run ? " / dry-run" : ""}</code>
           </div>
 
           {planMutation.data && (
@@ -2384,6 +2798,151 @@ function ImagesPage({ book, settings }: { book?: BookSummary; settings: Workspac
               <pre className="log-tail compact">{planMutation.data.command_text}</pre>
             </div>
           )}
+        </div>
+
+        <div className="panel stack-panel">
+          <div className="panel-header">
+            <div>
+              <h2>Exportbilder optimieren</h2>
+              <p>
+                Startet `optimize_asset_images.py`: kompakte Export-JPGs nach `book.yaml`.
+                PNG und bisherige Grossversionen bleiben als `*_alt.jpg` erhalten.
+              </p>
+            </div>
+            <ImageDown size={22} />
+          </div>
+
+          <div className="form-grid">
+            <label className="form-field">
+              <span>Umfang</span>
+              <select
+                value={optimizeScope}
+                onChange={(event) => setOptimizeScope(event.target.value as "all" | "cover" | "chapter" | "scene")}
+              >
+                <option value="all">Cover + Kapitel + Szenen</option>
+                <option value="cover">Nur Cover</option>
+                <option value="chapter">Nur Kapitelbilder</option>
+                <option value="scene">Nur Szenenbilder</option>
+              </select>
+            </label>
+          </div>
+
+          <div className="toggle-row">
+            <label>
+              <input type="checkbox" checked={optimizeDryRun} onChange={(event) => setOptimizeDryRun(event.target.checked)} />
+              <span>Dry-run</span>
+            </label>
+            <label>
+              <input type="checkbox" checked={optimizeSkipExisting} onChange={(event) => setOptimizeSkipExisting(event.target.checked)} />
+              <span>Vorhandene JPGs ueberspringen</span>
+            </label>
+            <label>
+              <input type="checkbox" checked={optimizeIncludeTest} onChange={(event) => setOptimizeIncludeTest(event.target.checked)} />
+              <span>Test-Ordner einbeziehen</span>
+            </label>
+          </div>
+
+          {optimizeStartMutation.isError && <div className="error-box">{String(optimizeStartMutation.error.message)}</div>}
+          {optimizePlanMutation.isError && <div className="error-box">{String(optimizePlanMutation.error.message)}</div>}
+
+          <div className="action-row">
+            <button
+              className="button primary"
+              type="button"
+              disabled={optimizeStartMutation.isPending}
+              onClick={() => optimizeStartMutation.mutate(optimizePayload)}
+            >
+              <ImageDown size={16} />
+              Optimierung starten
+            </button>
+            <button
+              className="button ghost"
+              type="button"
+              disabled={optimizePlanMutation.isPending}
+              onClick={() => optimizePlanMutation.mutate(optimizePayload)}
+            >
+              Kommando planen
+            </button>
+            <code>
+              {optimizePayload.scope || "all"}
+              {optimizePayload.dry_run ? " / dry-run" : ""}
+              {optimizePayload.skip_existing ? " / skip-existing" : ""}
+            </code>
+          </div>
+
+          {optimizePlanMutation.data && (
+            <div className="command-preview">
+              <span>Geplantes Kommando</span>
+              <pre className="log-tail compact">{optimizePlanMutation.data.command_text}</pre>
+            </div>
+          )}
+        </div>
+
+        <div className="panel stack-panel">
+          <div className="panel-header">
+            <div>
+              <h2>Illustration-Setting</h2>
+              <p>
+                Buchweiter Stil-/Weltblock aus `book.yaml`. Steht im Prompt vor dem Textauszug.
+                Aenderungen gelten fuer alle folgenden Bildlaeufe dieses Buchs.
+              </p>
+            </div>
+            <NotebookTabs size={22} />
+          </div>
+
+          {!settingExpanded ? (
+            <>
+              <pre className="setting-preview">{settingPreview}</pre>
+              <div className="action-row">
+                <button className="button ghost" type="button" onClick={() => setSettingExpanded(true)}>
+                  Setting bearbeiten
+                </button>
+              </div>
+            </>
+          ) : (
+            <>
+              <label className="form-field wide">
+                <span>illustration_setting</span>
+                <textarea
+                  className="setting-editor"
+                  rows={8}
+                  value={illustrationSetting}
+                  maxLength={4000}
+                  onChange={(event) => setIllustrationSetting(event.target.value)}
+                  placeholder="Epoche, Ort, Stil, Licht, Palette, typische Motive…"
+                />
+              </label>
+              <div className="muted-note">{illustrationSetting.trim().length} / 4000 Zeichen</div>
+              {saveSettingMutation.isError && (
+                <div className="error-box">{String(saveSettingMutation.error.message)}</div>
+              )}
+              {saveSettingMutation.isSuccess && !settingDirty && (
+                <div className="success-box">In book.yaml gespeichert.</div>
+              )}
+              <div className="action-row">
+                <button
+                  className="button primary"
+                  type="button"
+                  disabled={!settingDirty || saveSettingMutation.isPending}
+                  onClick={() => saveSettingMutation.mutate()}
+                >
+                  Setting speichern
+                </button>
+                <button
+                  className="button ghost"
+                  type="button"
+                  onClick={() => {
+                    setIllustrationSetting(book.illustration_setting || "");
+                    setSettingExpanded(false);
+                    saveSettingMutation.reset();
+                  }}
+                >
+                  Abbrechen
+                </button>
+              </div>
+            </>
+          )}
+        </div>
         </div>
 
         <JobPanel
@@ -2406,7 +2965,9 @@ function buildIllustrationPayload(options: {
   startChapter: string;
   endChapter: string;
   backend: "auto" | "cli" | "api";
+  model: string;
   quality: string;
+  renderQuality: string;
   aspectRatio: string;
   missing: boolean;
   overwrite: boolean;
@@ -2433,13 +2994,36 @@ function buildIllustrationPayload(options: {
     payload.start_chapter = options.startChapter;
     payload.end_chapter = options.endChapter;
   }
+  if (options.model.trim()) {
+    payload.model = options.model.trim();
+  }
   if (options.quality.trim()) {
     payload.quality = options.quality.trim();
+  }
+  if (options.renderQuality.trim()) {
+    payload.render_quality = options.renderQuality.trim();
   }
   if (options.aspectRatio.trim()) {
     payload.aspect_ratio = options.aspectRatio.trim();
   }
   return payload;
+}
+
+function buildOptimizeAssetsPayload(options: {
+  bookId: string;
+  scope: "all" | "cover" | "chapter" | "scene";
+  dryRun: boolean;
+  skipExisting: boolean;
+  includeTest: boolean;
+}): OptimizeAssetsRequest {
+  return {
+    action: "optimize_assets",
+    book_id: options.bookId,
+    scope: options.scope,
+    dry_run: options.dryRun,
+    skip_existing: options.skipExisting,
+    include_test: options.includeTest
+  };
 }
 
 function NamesPage({ book, settings }: { book?: BookSummary; settings: WorkspaceSettings }) {
@@ -2941,7 +3525,7 @@ function SettingsPage({
 
           <label className="form-field">
             <span>Ollama-Modell fuer Uebersetzung</span>
-            <input value={settings.translate_ollama_model} onChange={(event) => update({ translate_ollama_model: event.target.value })} />
+            <OllamaModelSelect value={settings.translate_ollama_model} onChange={(next) => update({ translate_ollama_model: next })} />
           </label>
 
           <label className="form-field">
@@ -2956,16 +3540,18 @@ function SettingsPage({
           </label>
 
           <label className="form-field">
-            <span>Review-LLM</span>
-            <select value={settings.review_llm} onChange={(event) => update({ review_llm: event.target.value })}>
-              <option value="none">Nur Regelcheck</option>
+            <span>Deep-Check Backend</span>
+            <select
+              value={normalizeDeepReviewLlm(settings.review_llm)}
+              onChange={(event) => update({ review_llm: normalizeDeepReviewLlm(event.target.value) })}
+            >
               <option value="openrouter">OpenRouter</option>
               <option value="ollama">Ollama</option>
             </select>
           </label>
 
           <label className="form-field">
-            <span>Review-Scope</span>
+            <span>Deep-Check Umfang</span>
             <select value={settings.review_llm_scope} onChange={(event) => update({ review_llm_scope: event.target.value })}>
               <option value="flagged">Nur markierte Szenen</option>
               <option value="all">Alle Szenen</option>
@@ -2973,7 +3559,7 @@ function SettingsPage({
           </label>
 
           <label className="form-field wide">
-            <span>OpenRouter-Modell fuer Review</span>
+            <span>OpenRouter-Modell fuer Deep-Check</span>
             <select value={settings.review_model} onChange={(event) => update({ review_model: event.target.value })}>
               {models.length === 0 && <option value={settings.review_model}>{settings.review_model || "Keine Modelle geladen"}</option>}
               {models.map((item) => (
@@ -2983,8 +3569,8 @@ function SettingsPage({
           </label>
 
           <label className="form-field">
-            <span>Ollama-Modell fuer Review</span>
-            <input value={settings.review_ollama_model} onChange={(event) => update({ review_ollama_model: event.target.value })} />
+            <span>Ollama-Modell fuer Deep-Check</span>
+            <OllamaModelSelect value={settings.review_ollama_model} onChange={(next) => update({ review_ollama_model: next })} />
           </label>
 
           <label className="form-field">
@@ -3061,4 +3647,37 @@ function summarizeChapters(chapters: ChapterRow[]) {
     }),
     { source: 0, de: 0, missing: 0 }
   );
+}
+
+type ChapterCoverage = {
+  total: number;
+  complete: number;
+  missingChapters: number;
+  source: number;
+  de: number;
+  missingScenes: number;
+  percent: number;
+  missingIds: string[];
+};
+
+function summarizeChapterCoverage(chapters: ChapterRow[]): ChapterCoverage {
+  const totals = summarizeChapters(chapters);
+  const missingIds = chapters
+    .filter((chapter) => Number(chapter.Fehlt || 0) > 0)
+    .map((chapter) => String(chapter.Kapitel));
+  const complete = chapters.filter(
+    (chapter) => Number(chapter.Fehlt || 0) === 0 && Number(chapter.RU || 0) > 0
+  ).length;
+  const total = chapters.length;
+  const percent = total ? Math.round((complete / total) * 1000) / 10 : 0;
+  return {
+    total,
+    complete,
+    missingChapters: missingIds.length,
+    source: totals.source,
+    de: totals.de,
+    missingScenes: totals.missing,
+    percent,
+    missingIds
+  };
 }

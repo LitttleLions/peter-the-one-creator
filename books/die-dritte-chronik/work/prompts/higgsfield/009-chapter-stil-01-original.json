@@ -1,0 +1,57 @@
+{
+  "book": "die-dritte-chronik",
+  "chapter": "009",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": null,
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\chapters\\009-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\prompts\\higgsfield\\009-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\assets\\chapter\\chapter-009.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 009. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Die Luft im Zelt war dick vom Rauch der Feuerbecken und dem Geruch nasser Wolle. Fatima saß auf ihrem Kissen, das Schreibbrett auf den Knien, die Feder gezückt, bereit. Sie war unsichtbar. Das war ihre Kunst. Töregene saß auf dem erhöhten Sitz, die Hände locker um die Armlehnen gelegt, das Gesicht eine Maske aus höflicher Geduld. Sie trug ein schlichtes Gewand aus grauer Seide, kein Gold, keine Perlen. Eine Frau, die es nicht mehr nötig hatte, ihren Rang zu beweisen. Güyük stand vor ihr. Er kam direkt vom Feld, der Staub des Marsches noch auf den Stiefeln, der Lederpanzer ungeputzt. Hinter ihm flatterte der Zeltvorhang noch nach. Er hatte keinen Gruß angeboten. „Ich will ein Kuriltai“, sagte er. Keine Einleitung. Keine Bitte. Eine Forderung. Töregene hob eine Augenbraue. „Setz dich.“",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_191742_40fe10f8-1831-4b77-88bc-bd0873a358a0.png",
+  "job_result": [
+    {
+      "id": "40fe10f8-1831-4b77-88bc-bd0873a358a0",
+      "status": "completed",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_191742_40fe10f8-1831-4b77-88bc-bd0873a358a0.png",
+      "created_at": 1784834262.925828,
+      "params": {
+        "width": 880,
+        "height": 1168,
+        "prompt": "Chapter 009. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Die Luft im Zelt war dick vom Rauch der Feuerbecken und dem Geruch nasser Wolle. Fatima saß auf ihrem Kissen, das Schreibbrett auf den Knien, die Feder gezückt, bereit. Sie war unsichtbar. Das war ihre Kunst. Töregene saß auf dem erhöhten Sitz, die Hände locker um die Armlehnen gelegt, das Gesicht eine Maske aus höflicher Geduld. Sie trug ein schlichtes Gewand aus grauer Seide, kein Gold, keine Perlen. Eine Frau, die es nicht mehr nötig hatte, ihren Rang zu beweisen. Güyük stand vor ihr. Er kam direkt vom Feld, der Staub des Marsches noch auf den Stiefeln, der Lederpanzer ungeputzt. Hinter ihm flatterte der Zeltvorhang noch nach. Er hatte keinen Gruß angeboten. „Ich will ein Kuriltai“, sagte er. Keine Einleitung. Keine Bitte. Eine Forderung. Töregene hob eine Augenbraue. „Setz dich.“",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "high",
+        "resolution": "1k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

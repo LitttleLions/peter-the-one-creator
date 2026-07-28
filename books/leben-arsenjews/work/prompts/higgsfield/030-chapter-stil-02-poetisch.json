@@ -1,0 +1,57 @@
+{
+  "book": "leben-arsenjews",
+  "chapter": "030",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "render_quality": "medium",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\leben-arsenjews\\work\\scenes\\de\\stil-02-poetisch\\030\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\leben-arsenjews\\work\\prompts\\higgsfield\\030-chapter-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\leben-arsenjews\\assets\\chapter\\chapter-030.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 030. High-quality full-bleed chapter illustration for Ivan Bunin’s The Life of Arseniev: one continuous painterly scene of a single quiet remembered moment, with one clear central figure or central situation filling the frame. Late 19th-century provincial central Russia: manor estates, endless grain fields, birch and garden light, wide skies, quiet rivers, country roads, and small provincial towns. Style: poetic memory realism, soft atmospheric light, muted elegant palette, gentle painterly texture, restrained emotion, Russian impressionist landscape influence, premium modern classics aesthetic. Prefer landscape and remembered atmosphere. When an adult figure appears, it is always the same narrator Arseniev: slender Russian man about 35–45, dark wavy hair, clean-shaven or light stubble, dark frock coat, often a quiet Rückenfigur looking into fields, river light, or a manor yard. When the text remembers childhood, show that child’s solitude among fields, sky, manor yard, or first town glimpses — a small boy in simple period clothes. Elegant negative space, soft focus in secondary areas, calm readable composition. **Nachdem der Vater mit der Mutter fortgegangen war, kamen in der Stadt scheinbar die Tage der grossen Fastenzeit.** **Und warum immer am Samstag, so dass ich am selben Abend zur Vesper in die Kirche des Aufgangs musste, die in einem abgelegenen Gassenende nahe der Gymnasiums stand.**",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_175801_d45e339e-c352-4134-988d-d097b512b648.png",
+  "job_result": [
+    {
+      "id": "d45e339e-c352-4134-988d-d097b512b648",
+      "status": "completed",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_175801_d45e339e-c352-4134-988d-d097b512b648.png",
+      "created_at": 1785175081.574787,
+      "params": {
+        "width": 1744,
+        "height": 2336,
+        "prompt": "Chapter 030. High-quality full-bleed chapter illustration for Ivan Bunin’s The Life of Arseniev: one continuous painterly scene of a single quiet remembered moment, with one clear central figure or central situation filling the frame. Late 19th-century provincial central Russia: manor estates, endless grain fields, birch and garden light, wide skies, quiet rivers, country roads, and small provincial towns. Style: poetic memory realism, soft atmospheric light, muted elegant palette, gentle painterly texture, restrained emotion, Russian impressionist landscape influence, premium modern classics aesthetic. Prefer landscape and remembered atmosphere. When an adult figure appears, it is always the same narrator Arseniev: slender Russian man about 35–45, dark wavy hair, clean-shaven or light stubble, dark frock coat, often a quiet Rückenfigur looking into fields, river light, or a manor yard. When the text remembers childhood, show that child’s solitude among fields, sky, manor yard, or first town glimpses — a small boy in simple period clothes. Elegant negative space, soft focus in secondary areas, calm readable composition. **Nachdem der Vater mit der Mutter fortgegangen war, kamen in der Stadt scheinbar die Tage der grossen Fastenzeit.** **Und warum immer am Samstag, so dass ich am selben Abend zur Vesper in die Kirche des Aufgangs musste, die in einem abgelegenen Gassenende nahe der Gymnasiums stand.**",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "medium",
+        "resolution": "2k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "book": "die-dritte-chronik",
+  "chapter": "003",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "nano_banana_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\chapters\\003-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\prompts\\higgsfield\\003-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\assets\\chapter\\chapter-003.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "nano_banana_2",
+    "--prompt",
+    "High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Das Gelage wogte durch die Nacht wie ein schwerer Fluss, träge an der Oberfläche, reißend darunter. Fatima saß am Rand des Kreises, den Rücken gegen einen geschnitzten Pfeiler gelehnt, die Beine untergeschlagen, die Hände im Schoß. Sie beobachtete. Das war ihre Aufgabe, seit zwanzig Jahren, und sie hatte gelernt, dass Beobachten dasselbe war wie Hören, wie Warten, wie das Halten des Atems in dem Moment, bevor etwas geschah. Der Khan saß auf einem Kissen aus schwarzer Wolle, den Rücken gerade, den Becher in der Hand. Ögedei, Khagan des Weltreichs, Sohn Dschingis Khans, Eroberer der Städte, Herrscher der Steppe. Er lachte, und sein Lachen war laut und warm wie ein Feuer, das zu lange brannte. Sein Bart war grau, sein Gesicht von Falten durchzogen, und seine Augen waren hell und wach, trotz des Weins, den er trank, und des Weins, den er getrunken hatte, und des Weins, den er noch trinken würde. Er erzählte eine Geschichte. Etwas von einem Feldzug, von einer Stadt, die sich nicht ergeben hatte, und von einem Bogenschützen, der seinen Pfeil durch den Hals eines feindlichen Hauptmanns geschossen hatte, während der Regen fiel, und der Regen war rot gewesen, und niemand hatte gelacht, außer dem Khan. Die Männer um ihn lachten jetzt. Sie lachten, weil er lachte, oder weil sie wussten, dass Lachen erwartet wurde, oder weil sie betrunken waren. Fatima unterschied nicht. Sie beobachtete die Hände. Die Hände der Diener, die die Krüge trugen. Die Hände der Würdenträger, die die Becher hoben. Die Hand des Khans, schwer und rot, mit breiten Fingern und Narben, die von Jahren des Schwertkampfs und der Jagd zeugten. Er trank, und die Hand zitterte nicht. Er trank, und die Hand war fest. Fatima musterte die Diener. Sie waren jung, die meisten von ihnen, Söhne von Nomaden oder versklavte Kinder aus den eroberten Ländern im Westen. Sie bewegten sich leise, fast unsichtbar, als ob sie gelernt hatten, dass ihre Anwesenheit eine Störung war, die geduldet, aber nicht bemerkt werden sollte.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_172423_ba981b88-e6ca-4a70-b156-eb24488bb730.jpeg",
+  "job_result": [
+    {
+      "id": "ba981b88-e6ca-4a70-b156-eb24488bb730",
+      "status": "completed",
+      "display_name": "Nano Banana Pro",
+      "job_set_type": "nano_banana_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_172423_ba981b88-e6ca-4a70-b156-eb24488bb730.jpeg",
+      "created_at": 1784827463.435608,
+      "params": {
+        "width": 896,
+        "height": 1200,
+        "aspect_ratio": "3:4",
+        "resolution": "1k",
+        "batch_size": 1,
+        "input_images": [],
+        "input_image": null,
+        "application": null,
+        "surface": null,
+        "prompt": "High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Das Gelage wogte durch die Nacht wie ein schwerer Fluss, träge an der Oberfläche, reißend darunter. Fatima saß am Rand des Kreises, den Rücken gegen einen geschnitzten Pfeiler gelehnt, die Beine untergeschlagen, die Hände im Schoß. Sie beobachtete. Das war ihre Aufgabe, seit zwanzig Jahren, und sie hatte gelernt, dass Beobachten dasselbe war wie Hören, wie Warten, wie das Halten des Atems in dem Moment, bevor etwas geschah. Der Khan saß auf einem Kissen aus schwarzer Wolle, den Rücken gerade, den Becher in der Hand. Ögedei, Khagan des Weltreichs, Sohn Dschingis Khans, Eroberer der Städte, Herrscher der Steppe. Er lachte, und sein Lachen war laut und warm wie ein Feuer, das zu lange brannte. Sein Bart war grau, sein Gesicht von Falten durchzogen, und seine Augen waren hell und wach, trotz des Weins, den er trank, und des Weins, den er getrunken hatte, und des Weins, den er noch trinken würde. Er erzählte eine Geschichte. Etwas von einem Feldzug, von einer Stadt, die sich nicht ergeben hatte, und von einem Bogenschützen, der seinen Pfeil durch den Hals eines feindlichen Hauptmanns geschossen hatte, während der Regen fiel, und der Regen war rot gewesen, und niemand hatte gelacht, außer dem Khan. Die Männer um ihn lachten jetzt. Sie lachten, weil er lachte, oder weil sie wussten, dass Lachen erwartet wurde, oder weil sie betrunken waren. Fatima unterschied nicht. Sie beobachtete die Hände. Die Hände der Diener, die die Krüge trugen. Die Hände der Würdenträger, die die Becher hoben. Die Hand des Khans, schwer und rot, mit breiten Fingern und Narben, die von Jahren des Schwertkampfs und der Jagd zeugten. Er trank, und die Hand zitterte nicht. Er trank, und die Hand war fest. Fatima musterte die Diener. Sie waren jung, die meisten von ihnen, Söhne von Nomaden oder versklavte Kinder aus den eroberten Ländern im Westen. Sie bewegten sich leise, fast unsichtbar, als ob sie gelernt hatten, dass ihre Anwesenheit eine Störung war, die geduldet, aber nicht bemerkt werden sollte."
+      }
+    }
+  ]
+}

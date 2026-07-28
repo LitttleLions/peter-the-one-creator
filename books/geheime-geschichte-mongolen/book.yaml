@@ -15,9 +15,20 @@ log_dir: status/logs
 styles_dir: styles
 assets_dir: assets
 names_file: names.yaml
+illustration_setting: >-
+  Mongol world of the 13th century, told as founding chronicle. Cinematic literary
+  historical illustration, elegant realism, painterly detail. Steppe horizons, felt
+  tents, horses, clan gatherings, counsel scenes, rising power. Focus on kinship,
+  destiny, and political founding rather than generic battle spectacle.
+  Period-grounded Mongol dress and material culture, strong atmospheric light.
+  Palette: grass green, dust ochre, sky blue, felt brown, iron, bone white, night
+  indigo. Clear central figure or decisive moment; historically resonant,
+  emotionally intelligent.
 structure:
-  mode: chapter_as_scene
-  label: Szenen
+  # §-Abschnitte der japanischen Edition als echte Arbeitseinheiten
+  # (scene-NN.md), nicht als ein Kapitel-Monolith mit Zeichen-Chunking.
+  mode: scenes
+  label: Abschnitte
   groups:
   - id: joron
     label: Einleitung

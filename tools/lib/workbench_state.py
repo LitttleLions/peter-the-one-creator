@@ -113,6 +113,38 @@ def scene_counts(
     }
 
 
+def chapter_group_labels(book: dict[str, Any]) -> dict[str, str]:
+    """Mappt Kapitel-IDs auf optionale Gruppenlabels aus book.yaml."""
+    labels: dict[str, str] = {}
+    groups = (book.get("structure") or {}).get("groups") or []
+    for group in groups:
+        if not isinstance(group, dict):
+            continue
+        label = str(group.get("label") or group.get("id") or "").strip()
+        if not label:
+            continue
+        chapter_list = group.get("chapters")
+        if isinstance(chapter_list, list):
+            for raw in chapter_list:
+                text = str(raw).strip()
+                if not text:
+                    continue
+                cid = text.zfill(3) if text.isdigit() else text
+                labels[cid] = label
+            continue
+        start = group.get("from")
+        end = group.get("to")
+        if start is None or end is None:
+            continue
+        start_text = str(start).strip()
+        end_text = str(end).strip()
+        if not (start_text.isdigit() and end_text.isdigit()):
+            continue
+        for num in range(int(start_text), int(end_text) + 1):
+            labels[f"{num:03d}"] = label
+    return labels
+
+
 def chapter_rows(
     book: dict[str, Any],
     style: str,
@@ -121,6 +153,7 @@ def chapter_rows(
     state = load_book_state(book, repo_root)
     by_id = {ch.id: ch for ch in state.chapters} if state else {}
     output_root = book_output_root(repo_root, book)
+    group_labels = chapter_group_labels(book)
     rows = []
     for cid in chapter_ids(book, repo_root):
         counts = scene_counts(book, cid, style, repo_root)
@@ -128,6 +161,7 @@ def chapter_rows(
         ch = by_id.get(cid)
         rows.append({
             "Kapitel": cid,
+            "Label": group_labels.get(cid, ""),
             "Status": ch.status if ch else "",
             "Titel RU": ch.title_ru if ch else "",
             "RU": counts["ru"],

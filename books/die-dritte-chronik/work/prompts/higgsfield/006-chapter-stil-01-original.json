@@ -1,0 +1,56 @@
+{
+  "book": "die-dritte-chronik",
+  "chapter": "006",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\chapters\\006-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\prompts\\higgsfield\\006-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\assets\\chapter\\chapter-006.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 006. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Der Sturm trug den Geruch von nassem Filz und trocknender Tinte, und Shigi wusste, dass dieser Winter anders sein würde. Die Kanzleien der Ordu waren nie still gewesen, nicht unter Dschingis, nicht unter Ögedei. Es gab immer Boten, die kamen und gingen, Schreiber, die Urkunden kopierten, Gelehrte, die stritten. Aber jetzt, in diesen Wochen nach dem Tod des Khans, hatte die Stille eine andere Qualität angenommen. Sie war lauernd. Sie wartete. Shigi saß an seinem Tisch, das blau-weiße Buch vor sich aufgeschlagen, und las die Einträge der letzten Tage. Fünfzehn Siegelentzüge. Zweiunddreißig neue Ernennungen. Acht Dekrete, die die Einnahmequellen der Provinzen neu verteilten. Alles in Töregenes Namen. Alles mit seiner Unterschrift beglaubigt. Er hatte es nicht verhindern können. Er hatte es nicht einmal versucht. Der erste Bote war am Morgen nach Ögedeis Begräbnis gekommen. Ein junger Mann, kaum älter als fünfzehn, mit einem versiegelten Umschlag, den er auf Shigis Tisch legte, als wäre er nichts als eine Einladung zu einem Festmahl.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_183924_c51de32a-afaa-44aa-a5e6-be72cdc3b92c.png",
+  "job_result": [
+    {
+      "id": "c51de32a-afaa-44aa-a5e6-be72cdc3b92c",
+      "status": "completed",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_183924_c51de32a-afaa-44aa-a5e6-be72cdc3b92c.png",
+      "created_at": 1784831964.591451,
+      "params": {
+        "width": 880,
+        "height": 1168,
+        "prompt": "Chapter 006. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Der Sturm trug den Geruch von nassem Filz und trocknender Tinte, und Shigi wusste, dass dieser Winter anders sein würde. Die Kanzleien der Ordu waren nie still gewesen, nicht unter Dschingis, nicht unter Ögedei. Es gab immer Boten, die kamen und gingen, Schreiber, die Urkunden kopierten, Gelehrte, die stritten. Aber jetzt, in diesen Wochen nach dem Tod des Khans, hatte die Stille eine andere Qualität angenommen. Sie war lauernd. Sie wartete. Shigi saß an seinem Tisch, das blau-weiße Buch vor sich aufgeschlagen, und las die Einträge der letzten Tage. Fünfzehn Siegelentzüge. Zweiunddreißig neue Ernennungen. Acht Dekrete, die die Einnahmequellen der Provinzen neu verteilten. Alles in Töregenes Namen. Alles mit seiner Unterschrift beglaubigt. Er hatte es nicht verhindern können. Er hatte es nicht einmal versucht. Der erste Bote war am Morgen nach Ögedeis Begräbnis gekommen. Ein junger Mann, kaum älter als fünfzehn, mit einem versiegelten Umschlag, den er auf Shigis Tisch legte, als wäre er nichts als eine Einladung zu einem Festmahl.",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "high",
+        "resolution": "1k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

@@ -407,6 +407,25 @@ books/<book-id>/exports/<style>/book/epub/
 books/<book-id>/exports/<style>/book/pdf/
 ```
 
+## Lokaler Start unter Windows
+
+Doppelklick auf `dev.cmd` im Repository-Root startet das Dashboard ohne IDE.
+Alternativ im Terminal aus dem Repo-Root:
+
+```bat
+dev.cmd
+```
+
+Voraussetzungen: Python 3 und Node.js/npm im `PATH`, optional eine lokale
+`.env` (wird bei Bedarf aus `.env.example` kopiert; `OPENROUTER_API_KEY`
+eintragen fuer OpenRouter-Jobs). `dev.cmd` installiert fehlende Python-
+bzw. Frontend-Abhaengigkeiten nur bei Bedarf und ruft danach
+`python tools/start_dashboard.py` auf.
+
+Gestartet wird ein Prozess: FastAPI + gebautes React-Frontend auf
+`http://127.0.0.1:8000` (Browser oeffnet sich nach kurzer Wartezeit).
+Beenden mit `Ctrl+C` im Terminalfenster von `dev.cmd`.
+
 ## Dashboard
 
 Start:

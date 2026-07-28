@@ -1,0 +1,113 @@
+defaults:
+  language: de-DE
+  publisher: ''
+  rights: ''
+  description: ''
+  cover:
+    mode: placeholder
+    image_path: ''
+    background: '#1c1410'
+    foreground: '#e8dcc8'
+  front_matter:
+    cover_in_body: true
+    title_page: true
+    summary_page: true
+    author_bio_page: true
+    description_page: false
+    imprint_page: true
+    toc_page: false
+    combined_epub_front_matter: false
+    combined_heading: Titelei
+    cover_heading: Cover
+    title_heading: Titelseite
+    summary_heading: Zusammenfassung
+    author_bio_heading: Leben des Autors
+    description_heading: Zu dieser Ausgabe
+    imprint_heading: Impressum
+    toc_heading: Inhalt
+  output:
+    page_break_before_chapter: true
+    chapter_headings: true
+    scene_numbers: false
+    strip_control_metadata: true
+    scene_separator: '* * *'
+  illustrations:
+    enabled: true
+    chapter_images: true
+    scene_images: true
+    chapter_page_break_after_image: true
+    scene_page_break_after_image: false
+book:
+  title: Die dritte Chronik
+  subtitle: Historischer Roman
+  author: Motivatier
+  translator: ''
+  translator_label: ''
+  language: de-DE
+  publisher: Motivatier Hermann Stiftung
+  rights: >-
+    © 2026 Motivatier Hermann Stiftung für diesen Text, editorische
+    Einrichtung, Zusatztexte, Satz und Covergestaltung.
+  original_title: Die dritte Chronik
+  original_author: Motivatier
+  title_page_extra:
+  - Historischer Roman / Literarischer Politthriller
+  - Karakorum, Chorasan, Bagdad · 1241–1258
+  - Herausgegeben von der Motivatier Hermann Stiftung
+  - >-
+    Diese Ausgabe folgt dem deutschen Originaltext. Satz und editorische
+    Einrichtung durch die Motivatier Hermann Stiftung.
+  imprint_text: |
+    Die dritte Chronik
+
+    Motivatier
+
+    Historischer Roman / Literarischer Politthriller
+
+    Karakorum, Chorasan, Bagdad · 1241–1258
+
+    Herausgegeben von der Motivatier Hermann Stiftung
+
+    © 2026 Motivatier Hermann Stiftung für diesen Text, editorische
+    Einrichtung, Zusatztexte, Satz und Covergestaltung.
+
+    Alle Rechte an dieser Ausgabe vorbehalten.
+  description: >-
+    1241 stirbt der Großkhan – und Frauen übernehmen das größte Reich der
+    Weltgeschichte. Drei Chronisten kämpfen in dieser Zeit um die Wahrheit:
+    der alte Richter, der die geheime Familienchronik der Mongolen hütet; der
+    junge Hofschreiber, der das Lügen zur Kunst treibt; und Fatima, die
+    mächtigste Frau am Hof, die heimlich Briefe an ihre tote Schwester
+    schreibt.
+
+    Zwei dieser Chroniken kann man bis heute kaufen. Die dritte ist dieser
+    Roman.
+
+    Zwischen Karakorum und Bagdad, zwischen Siegel und Schwert, entsteht
+    Geschichte als Verhandlung: Jede Wahrheit, die man schreibt, tötet
+    jemanden; jede Lüge rettet jemanden. Ein literarischer Politthriller über
+    Macht, Papier und die Chronik derer, die nicht schreiben dürfen.
+  summary: >-
+    1241 stirbt Großkhan Ögedei – und seine Witwe Töregene ergreift noch in
+    der Todesnacht die Macht. An ihrer Seite steht Fatima, Kriegsgefangene aus
+    Chorasan und Schattenkanzlerin des Reiches: Sie schreibt die Briefe der
+    Regentin, entscheidet über Zugang und Gnade – und führt heimlich eine
+    zweite Chronik, Briefe an ihre tote Schwester.
+
+    Gegen sie steht Shigi Qutuqu, Oberrichter und Hüter der Geheimen
+    Geschichte. Neben ihr Ata-Malik Juvaini, junger persischer Schreiber, der
+    Karriere macht und sich in die Frau verliebt, die sein Land verloren hat.
+    Als Töregenes Sohn Güyük den Thron besteigt, wird Geschichte zur Beute –
+    und Fatima soll den einen Namen liefern, der einen Krieg entfesseln
+    könnte. Sie verweigert. Ihre Hinrichtung ist historisch belegt; ihre
+    Chronik galt als verschollen.
+
+    Dieser Roman behauptet ihren Fund. Rahmung und vier Akte, drei Stimmen,
+    ein durchgehendes Geheimnis: Texte überleben ihre Schreiber. Genau davon
+    handelt das Buch.
+  author_bio: >-
+    Motivatier schreibt unter einem Verlagsnamen der Motivatier Hermann
+    Stiftung. Genauere Angaben zum Autor folgen.
+  cover:
+    mode: placeholder
+    image_path: ''

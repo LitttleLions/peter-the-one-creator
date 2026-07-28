@@ -47,6 +47,7 @@ import yaml
 from lib.book_project import find_book as find_book_project
 from lib.openrouter_client import OpenRouterClient, OpenRouterError
 from lib.ollama_client import OllamaClient, OllamaError
+from lib.review_fixes import load_chapter_reviews
 from lib.style_prompts import StylePrompts, StylePromptError
 from lib.scene_splitter import (
     split_into_scenes, Scene, count_words,
@@ -63,6 +64,7 @@ from lib.models_registry import (
 )
 from lib.degeneration import detect_degeneration
 from lib.output_paths import (
+    archive_sent_prompt,
     book_output_root,
     de_scene_path,
     list_source_scene_paths,
@@ -137,9 +139,18 @@ def build_chunk_frontmatter(frontmatter: str, chunk) -> str:
     return f"{frontmatter.rstrip()}\n\n{note}".strip() if frontmatter else note
 
 
-def translate_scene(client, messages, temperature, max_tokens):
+def translate_scene(client, messages, temperature, max_tokens, num_ctx=32768):
     system = messages[0]["content"]
     user = messages[1]["content"]
+    # Prüfen ob client OllamaClient ist (hat num_ctx Parameter)
+    if hasattr(client, 'model') and 'ollama' in str(type(client)).lower():
+        return client.chat(
+            system=system,
+            user=user,
+            temperature=temperature,
+            max_tokens=max_tokens,
+            num_ctx=num_ctx,
+        )
     return client.chat(
         system=system,
         user=user,
@@ -235,13 +246,13 @@ def validate_translation_output(text: str, messages: list[dict], label: str = ""
 
 
 def safe_translate_with_check(client, messages, temperature, max_tokens,
-                              expected_language=None, label=""):
+                              expected_language=None, label="", num_ctx=32768):
     """
     Wie translate_scene, aber mit Degeneration-Check und einem
     automatischen Retry. Liefert (text, degeneration_warnings) oder
     raises OpenRouterError.
     """
-    text = translate_scene(client, messages, temperature, max_tokens)
+    text = translate_scene(client, messages, temperature, max_tokens, num_ctx)
     validate_translation_output(text, messages, label)
     warnings = []
 
@@ -258,7 +269,7 @@ def safe_translate_with_check(client, messages, temperature, max_tokens,
                 print(f"   [{label}] Degeneration erkannt, Retry: "
                       f"{reason[:80]}", file=sys.stderr)
             warnings.append(reason)
-            text = translate_scene(client, messages, temperature, max_tokens)
+            text = translate_scene(client, messages, temperature, max_tokens, num_ctx)
             validate_translation_output(text, messages, label)
         else:
             # Letzter Versuch immer noch degeneriert
@@ -381,6 +392,10 @@ def parse_args():
                     help="Vorhandene Überschreibungen überschreiben (statt versionieren)")
     ap.add_argument("--timeout", type=int, default=120,
                     help="Timeout pro OpenRouter-Call in Sekunden (default: 120)")
+    ap.add_argument("--review", action="store_true",
+                    help="Review-Befunde aus vorherigem Lauf in den Prompt injizieren")
+    ap.add_argument("--ollama-model", default=None,
+                    help="Ollama-Modellname (ueberschreibt --model bei --provider ollama)")
     ap.add_argument("--verbose", "-v", action="store_true",
                     help="Mehr Log-Ausgaben")
     return ap.parse_args()
@@ -429,11 +444,12 @@ def main():
             print(f"Modell gewaehlt: {model_info['name']} ({model_info['provider']})")
             print(f"  {model_info['description']}")
     elif args.provider == "ollama":
-        # Lokales Ollama-Modell
+        # Lokales Ollama-Modell (--ollama-model überschreibt --model)
         chosen_model = (
-            args.model
+            args.ollama_model
+            or args.model
             or ai_cfg.get("model")
-            or "gemma4:latest"
+            or "qwen3.5-9b-q6:latest"
         )
         model_info = {
             "name": chosen_model,
@@ -475,6 +491,54 @@ def main():
             if args.verbose:
                 print(f"Regeln geladen: {rules_path} "
                       f"({len(rules_text)} Zeichen)")
+
+    # Review-Befunde aus vorherigem Lauf laden (--review)
+    if args.review:
+        try:
+            _review_summary, review_data = load_chapter_reviews(
+                REPO_ROOT, book, mode
+            )
+            chapter_review = next(
+                (r for r in review_data if str(r.get("chapter")) == args.chapter),
+                None,
+            )
+            if chapter_review:
+                scenes = chapter_review.get("scenes") or []
+                lines = [
+                    "## Review-Befunde aus vorherigem Lauf",
+                    "",
+                    "Die folgende Liste enthaelt Korrekturhinweise aus einem Review-Lauf. "
+                    "Bitte beachte diese Punkte bei der Uebersetzung und korrigiere die "
+                    "entsprechenden Stellen:",
+                    "",
+                ]
+                for sc in scenes:
+                    for finding in sc.get("findings") or []:
+                        if finding.get("source") == "llm_review_failed":
+                            continue
+                        severity = finding.get("severity", "INFO")
+                        category = finding.get("category", "")
+                        message = finding.get("message", "")
+                        recommendation = finding.get("recommendation", "")
+                        lines.append(
+                            f"- [{severity}] {category}: {message}"
+                        )
+                        if recommendation:
+                            lines.append(f"  Empfehlung: {recommendation}")
+                if len(lines) > 6:
+                    review_feedback = "\n".join(lines)
+                    total_findings = sum(
+                        len(sc.get("findings", []))
+                        for sc in scenes
+                    )
+                    print(f"Review-Befunde geladen: {total_findings} Hinweise fuer Kapitel {args.chapter}")
+                    if rules_text:
+                        rules_text = f"{rules_text}\n\n{review_feedback}"
+                    else:
+                        rules_text = review_feedback
+        except Exception as exc:
+            print(f"WARNUNG: Review-Befunde konnten nicht geladen werden: {exc}",
+                  file=sys.stderr)
 
     # Source-Datei
     output_root = book_output_root(REPO_ROOT, book)
@@ -613,10 +677,38 @@ def main():
     # ---------------------------------------------------------------
     scene_files = []    # Liste von dicts: {number, translated, error, ru_words}
     prompt_files = []
+    archived_prompts = []
+    prompt_stamp = datetime.now().strftime("%Y%m%d-%H%M%S")
     translated_full = None
     title_de = ""
     words_target = 0
     failed_scenes = 0
+
+    def _archive_prompt(
+        messages,
+        *,
+        scene_number=None,
+        part=None,
+        total_parts=None,
+        call_max_tokens=None,
+    ):
+        path = archive_sent_prompt(
+            output_root,
+            chapter_id=args.chapter,
+            style=mode,
+            provider=args.provider,
+            model=str(chosen_model),
+            messages=messages,
+            scene_number=scene_number,
+            part=part,
+            total_parts=total_parts,
+            stamp=prompt_stamp,
+            temperature=temperature,
+            max_tokens=call_max_tokens if call_max_tokens is not None else max_tokens,
+        )
+        archived_prompts.append(path)
+        print(f"   -> Prompt archiviert: {path.relative_to(output_root)}")
+        return path
 
     if granularity == "chapter":
         source_text = (
@@ -662,6 +754,7 @@ def main():
         client.model = chosen_model
         print("-> Uebersetze ganzes Kapitel in einem Call...")
         try:
+            _archive_prompt(messages)
             translated_full, _warn = safe_translate_with_check(
                 client, messages, temperature, max_tokens,
                 expected_language=book.get("target_lang", "deutsch"),
@@ -823,6 +916,13 @@ def main():
                             f"({len(chunk.text):,} Zeichen RU)..."
                         )
                         try:
+                            _archive_prompt(
+                                chunk_messages,
+                                scene_number=sc.number,
+                                part=chunk.part,
+                                total_parts=chunk.total,
+                                call_max_tokens=chunk_max_tokens,
+                            )
                             part_text, _warn = safe_translate_with_check(
                                 client,
                                 chunk_messages,
@@ -843,6 +943,7 @@ def main():
                         raise TranslationQualityError("; ".join(chunk_errors))
                     txt = render_chunked_translation(translated_parts)
                 else:
+                    _archive_prompt(messages, scene_number=sc.number)
                     txt, _warn = safe_translate_with_check(
                         client, messages, temperature, max_tokens,
                         expected_language=book.get("target_lang", "deutsch"),
@@ -905,41 +1006,47 @@ def main():
             f"prompts/. Ziel: scenes/de/{mode}/{args.chapter}/scene-NN.md"
         )
         print(f"Prompt/Workspace-Anweisungen geschrieben: {len(prompt_files)}")
-    elif granularity == "scene" and failed_scenes == len(scenes):
-        print("ALLE Szenen fehlgeschlagen.", file=sys.stderr)
-        if status_path is not None and state is not None:
-            mark_pending(state, args.chapter)
-            save_state(state, status_path)
-            print(f"-> {args.chapter} = pending "
-                  f"(zurueckgesetzt wegen Fehler)")
-        return 4
-    elif granularity == "chapter":
-        header = render_header(
-            args.chapter, title_ru, book["title"], mode, granularity,
-        )
-        assert translated_full is not None
-        body = header + render_body_chapter(translated_full)
-        out_path = next_assembled_translation_path(output_root, args.chapter, mode)
-        out_path.write_text(body, encoding="utf-8")
-        status_mark = ""
-        if failed_scenes:
-            status_mark = f" (! {failed_scenes} Szenen fehlgeschlagen)"
-        output_note = f"Output: {out_path.relative_to(output_root)}."
-        print(f"Geschrieben: {out_path} ({words_target} Woerter DE){status_mark}")
     else:
-        complete = chapter_translations_complete(
-            output_root, args.chapter, mode, source_lang
-        )
-        output_note = (
-            f"Einzeldateien: scenes/de/{mode}/{args.chapter}/scene-NN.md. "
-            "Keine Kapitelversion erzeugt; dafuer separat "
-            f"`python tools/assemble_chapter.py --chapter {args.chapter} "
-            f"--style {mode}` ausfuehren."
-        )
-        if complete:
-            print("Alle Szenen fuer dieses Kapitel liegen vor.")
+        if archived_prompts:
+            print(
+                f"API-Prompts archiviert: {len(archived_prompts)} unter "
+                f"prompts/sent/ (Stamp {prompt_stamp})"
+            )
+        if granularity == "scene" and failed_scenes == len(scenes):
+            print("ALLE Szenen fehlgeschlagen.", file=sys.stderr)
+            if status_path is not None and state is not None:
+                mark_pending(state, args.chapter)
+                save_state(state, status_path)
+                print(f"-> {args.chapter} = pending "
+                      f"(zurueckgesetzt wegen Fehler)")
+            return 4
+        if granularity == "chapter":
+            header = render_header(
+                args.chapter, title_ru, book["title"], mode, granularity,
+            )
+            assert translated_full is not None
+            body = header + render_body_chapter(translated_full)
+            out_path = next_assembled_translation_path(output_root, args.chapter, mode)
+            out_path.write_text(body, encoding="utf-8")
+            status_mark = ""
+            if failed_scenes:
+                status_mark = f" (! {failed_scenes} Szenen fehlgeschlagen)"
+            output_note = f"Output: {out_path.relative_to(output_root)}."
+            print(f"Geschrieben: {out_path} ({words_target} Woerter DE){status_mark}")
         else:
-            print("Szenenlauf fertig; Kapitel ist noch nicht vollstaendig.")
+            complete = chapter_translations_complete(
+                output_root, args.chapter, mode, source_lang
+            )
+            output_note = (
+                f"Einzeldateien: scenes/de/{mode}/{args.chapter}/scene-NN.md. "
+                "Keine Kapitelversion erzeugt; dafuer separat "
+                f"`python tools/assemble_chapter.py --chapter {args.chapter} "
+                f"--style {mode}` ausfuehren."
+            )
+            if complete:
+                print("Alle Szenen fuer dieses Kapitel liegen vor.")
+            else:
+                print("Szenenlauf fertig; Kapitel ist noch nicht vollstaendig.")
 
     # ---------------------------------------------------------------
     # Logfile schreiben

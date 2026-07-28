@@ -2,8 +2,11 @@
 
 from __future__ import annotations
 
+import json
 import re
+from datetime import datetime
 from pathlib import Path
+from typing import Any
 
 
 def book_output_root(repo_root: Path, book_cfg: dict) -> Path:
@@ -102,6 +105,112 @@ def prompt_path(
     else:
         name = f"{chapter_id}-scene-{scene_number:02d}-{style}.md"
     return prompts_dir(output_root) / name
+
+
+def prompts_sent_dir(output_root: Path) -> Path:
+    return prompts_dir(output_root) / "sent"
+
+
+def archive_sent_prompt(
+    output_root: Path,
+    *,
+    chapter_id: str,
+    style: str,
+    provider: str,
+    model: str,
+    messages: list[dict[str, Any]],
+    scene_number: int | None = None,
+    part: int | None = None,
+    total_parts: int | None = None,
+    stamp: str | None = None,
+    temperature: float | None = None,
+    max_tokens: int | None = None,
+) -> Path:
+    """Speichert den exakt gesendeten API-Prompt unter work/prompts/sent/.
+
+    Namensbeispiel:
+    ``20260722-201530-006-scene-01-part-02-stil-01-original-openrouter.md``
+    """
+    stamp = stamp or datetime.now().strftime("%Y%m%d-%H%M%S")
+    provider_slug = re.sub(r"[^a-z0-9._-]+", "-", str(provider or "api").lower()).strip("-") or "api"
+    parts = [stamp, chapter_id]
+    if scene_number is None:
+        parts.append("chapter")
+    else:
+        parts.append(f"scene-{int(scene_number):02d}")
+    if part is not None:
+        parts.append(f"part-{int(part):02d}")
+    parts.append(style)
+    parts.append(provider_slug)
+    stem = "-".join(parts)
+    out_dir = prompts_sent_dir(output_root)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    md_path = out_dir / f"{stem}.md"
+    json_path = out_dir / f"{stem}.json"
+
+    system = ""
+    user = ""
+    if messages:
+        system = str(messages[0].get("content") or "")
+    if len(messages) > 1:
+        user = str(messages[1].get("content") or "")
+
+    meta_lines = [
+        f"# Gesendeter Prompt {chapter_id}",
+        "",
+        f"- Zeitstempel: {stamp}",
+        f"- Provider: {provider}",
+        f"- Modell: {model}",
+        f"- Stil: {style}",
+        f"- Kapitel: {chapter_id}",
+    ]
+    if scene_number is not None:
+        meta_lines.append(f"- Szene: {int(scene_number):02d}")
+    if part is not None:
+        span = f"{int(part):02d}"
+        if total_parts is not None:
+            span += f"/{int(total_parts):02d}"
+        meta_lines.append(f"- Chunk: {span}")
+    if temperature is not None:
+        meta_lines.append(f"- Temperatur: {temperature}")
+    if max_tokens is not None:
+        meta_lines.append(f"- max_tokens: {max_tokens}")
+    meta_lines.extend([
+        f"- System-Zeichen: {len(system)}",
+        f"- User-Zeichen: {len(user)}",
+        "",
+        "## System",
+        "",
+        system.rstrip(),
+        "",
+        "## User",
+        "",
+        user.rstrip(),
+        "",
+    ])
+    md_path.write_text("\n".join(meta_lines), encoding="utf-8")
+    json_path.write_text(
+        json.dumps(
+            {
+                "stamp": stamp,
+                "chapter": chapter_id,
+                "scene": scene_number,
+                "part": part,
+                "total_parts": total_parts,
+                "style": style,
+                "provider": provider,
+                "model": model,
+                "temperature": temperature,
+                "max_tokens": max_tokens,
+                "messages": messages,
+            },
+            ensure_ascii=False,
+            indent=2,
+        )
+        + "\n",
+        encoding="utf-8",
+    )
+    return md_path
 
 
 def parse_scene_number(path: Path, chapter_id: str | None = None) -> int | None:

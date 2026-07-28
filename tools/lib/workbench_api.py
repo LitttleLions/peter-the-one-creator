@@ -103,11 +103,21 @@ class IllustrationBatchOptions:
     moodboard: str | None = None
     aspect_ratio: str | None = None
     quality: str | None = None
+    render_quality: str | None = None
     missing: bool = False
     overwrite: bool = False
     dry_run: bool = False
     no_reference: bool = False
     allow_paid_generation: bool = False
+
+
+@dataclass(frozen=True)
+class OptimizeAssetsOptions:
+    book_id: str
+    scope: str = "all"
+    dry_run: bool = False
+    skip_existing: bool = False
+    include_test: bool = False
 
 
 @dataclass(frozen=True)
@@ -219,11 +229,13 @@ def build_translate_batch_command(options: TranslateBatchOptions) -> list[str]:
     if options.chunk_char_limit is not None:
         cmd.extend(["--chunk-char-limit", str(int(options.chunk_char_limit))])
     if options.scope == "Aktuelles Kapitel":
-        if options.chapter:
-            cmd.extend(["--chapter", options.chapter])
+        if not options.chapter:
+            raise ValueError("chapter ist fuer Scope 'Aktuelles Kapitel' erforderlich.")
+        cmd.extend(["--chapter", options.chapter])
     elif options.scope == "Bereich":
-        if options.start_chapter and options.end_chapter:
-            cmd.extend(["--from", options.start_chapter, "--to", options.end_chapter])
+        if not options.start_chapter or not options.end_chapter:
+            raise ValueError("start_chapter und end_chapter sind fuer Scope 'Bereich' erforderlich.")
+        cmd.extend(["--from", options.start_chapter, "--to", options.end_chapter])
     else:
         cmd.append("--missing")
     if options.overwrite:
@@ -316,6 +328,7 @@ def build_illustration_batch_command(options: IllustrationBatchOptions) -> list[
         "--moodboard": options.moodboard,
         "--aspect-ratio": normalize_aspect_ratio_option(options.aspect_ratio),
         "--quality": options.quality,
+        "--render-quality": options.render_quality,
     }
     for flag, value in optional_values.items():
         if value:
@@ -330,6 +343,26 @@ def build_illustration_batch_command(options: IllustrationBatchOptions) -> list[
         cmd.append("--no-reference")
     if options.allow_paid_generation:
         cmd.append("--allow-paid-generation")
+    return cmd
+
+
+def build_optimize_assets_command(options: OptimizeAssetsOptions) -> list[str]:
+    scope = str(options.scope or "all").strip().lower()
+    if scope not in {"all", "cover", "chapter", "scene"}:
+        raise ValueError(f"Unbekannter Optimize-Assets-Scope: {options.scope}")
+    cmd = [
+        "tools/optimize_asset_images.py",
+        "--book",
+        options.book_id,
+        "--scope",
+        scope,
+    ]
+    if options.dry_run:
+        cmd.append("--dry-run")
+    if options.skip_existing:
+        cmd.append("--skip-existing")
+    if options.include_test:
+        cmd.append("--include-test")
     return cmd
 
 

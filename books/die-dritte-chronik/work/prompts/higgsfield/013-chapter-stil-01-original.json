@@ -1,0 +1,57 @@
+{
+  "book": "die-dritte-chronik",
+  "chapter": "013",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": null,
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\chapters\\013-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\prompts\\higgsfield\\013-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\assets\\chapter\\chapter-013.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 013. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Der Sturm hatte das Zelt in der Nacht fast niedergerissen. Shigi Qutuqu stand am Morgen vor dem geflickten Filz und betrachtete die Naht, die seine Diener gezogen hatten. Sie war ungleichmäßig, die Stiche zu weit, der Faden zu locker. Er würde sie neu machen lassen. Im Inneren war alles noch an seinem Platz. Die Truhen mit den Urteilsbüchern, der niedrige Tisch, die Lampe, die nie ganz erlosch. Und das Buch. Shigi setzte sich auf die Filzmatte und legte die Hände auf den Deckel. Das Leder war abgegriffen, die Ecken abgestoßen. Fünf Jahre Arbeit. Fünf Jahre, in denen er alte Männer befragt, ihre Geschichten verglichen, die Widersprüche notiert und wieder verworfen hatte. Er schlug das Buch auf. Die erste Seite war leer. Er hatte sie freigelassen für ein Vorwort, das er noch nicht schreiben konnte. Die zweite Seite trug den ersten Eintrag, datiert auf das Jahr des Tigers, den Monat des ersten Schnees. *Temüjin, genannt Dschingis Khan, geboren am Ufer des Onon-Flusses, im Jahr des Schweins, im Jahr 1167 nach der Zählung der Chinesen. Sein Vater hieß Yesügei, sein Großvater Bartan. Seine Mutter hieß Hö'elün, eine Frau der Olchunut, die Yesügei seinem Bruder raubte.*",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_193422_534f6e0d-1bf4-48f7-a9e8-6ef2fc157f4b.png",
+  "job_result": [
+    {
+      "id": "534f6e0d-1bf4-48f7-a9e8-6ef2fc157f4b",
+      "status": "completed",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_193422_534f6e0d-1bf4-48f7-a9e8-6ef2fc157f4b.png",
+      "created_at": 1784835262.851249,
+      "params": {
+        "width": 880,
+        "height": 1168,
+        "prompt": "Chapter 013. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Der Sturm hatte das Zelt in der Nacht fast niedergerissen. Shigi Qutuqu stand am Morgen vor dem geflickten Filz und betrachtete die Naht, die seine Diener gezogen hatten. Sie war ungleichmäßig, die Stiche zu weit, der Faden zu locker. Er würde sie neu machen lassen. Im Inneren war alles noch an seinem Platz. Die Truhen mit den Urteilsbüchern, der niedrige Tisch, die Lampe, die nie ganz erlosch. Und das Buch. Shigi setzte sich auf die Filzmatte und legte die Hände auf den Deckel. Das Leder war abgegriffen, die Ecken abgestoßen. Fünf Jahre Arbeit. Fünf Jahre, in denen er alte Männer befragt, ihre Geschichten verglichen, die Widersprüche notiert und wieder verworfen hatte. Er schlug das Buch auf. Die erste Seite war leer. Er hatte sie freigelassen für ein Vorwort, das er noch nicht schreiben konnte. Die zweite Seite trug den ersten Eintrag, datiert auf das Jahr des Tigers, den Monat des ersten Schnees. *Temüjin, genannt Dschingis Khan, geboren am Ufer des Onon-Flusses, im Jahr des Schweins, im Jahr 1167 nach der Zählung der Chinesen. Sein Vater hieß Yesügei, sein Großvater Bartan. Seine Mutter hieß Hö'elün, eine Frau der Olchunut, die Yesügei seinem Bruder raubte.*",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "high",
+        "resolution": "1k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

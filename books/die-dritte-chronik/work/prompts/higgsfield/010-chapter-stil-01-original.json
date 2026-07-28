@@ -1,0 +1,57 @@
+{
+  "book": "die-dritte-chronik",
+  "chapter": "010",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": null,
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\chapters\\010-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\prompts\\higgsfield\\010-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\assets\\chapter\\chapter-010.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 010. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Juvaini hatte Karakorum größer erwartet. Er war den ganzen Weg von der Passhöhe des Altai geritten, hatte geträumt von Marmor und Gold, von Türmen und Bögen, die den Himmel durchstießen. Die Hauptstadt der Welt. Der Nabel des Reiches. Der Ort, von dem aus der Khan die Länder der Sonne bis zur Grenze der Finsternis beherrschte. Stattdessen fand er Staub. Staub, der in dichten Wolken von den Weiden aufstieg. Staub, der sich auf seine Kleider legte. Staub, der die Luft füllte, bis er jede Farbe verschluckte und nur ein fahles Grau zurückließ. Die Stadt lag vor ihm wie eine Wunde in der Steppe: ein Durcheinander aus Zelten und Lehmhütten, Holzfällen und Stoffbahnen, die im Wind flatterten. Keine Mauer. Kein Tor. Kein Palast. Nichts, das diesen Ort von jeder armseligen Oase unterschied, an der er vorbeigeritten war. Sein Vater hatte ihn gewarnt. *Die Mongolen bauen keine Städte*, hatte Baha-ud-Din geschrieben in dem Empfehlungsschreiben, das Juvaini in der Innentasche seines Mantels trug. *Sie erobern sie. Wenn du Erhabenheit suchst, wirst du sie nicht in Karakorum finden. Suchst du Macht, wirst du sie überall finden.* Er suchte keine Erhabenheit. Er suchte einen Auftrag.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_192024_b4e37ec2-7312-4920-bc95-aa641abe7311.png",
+  "job_result": [
+    {
+      "id": "b4e37ec2-7312-4920-bc95-aa641abe7311",
+      "status": "completed",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_192024_b4e37ec2-7312-4920-bc95-aa641abe7311.png",
+      "created_at": 1784834424.955115,
+      "params": {
+        "width": 880,
+        "height": 1168,
+        "prompt": "Chapter 010. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Juvaini hatte Karakorum größer erwartet. Er war den ganzen Weg von der Passhöhe des Altai geritten, hatte geträumt von Marmor und Gold, von Türmen und Bögen, die den Himmel durchstießen. Die Hauptstadt der Welt. Der Nabel des Reiches. Der Ort, von dem aus der Khan die Länder der Sonne bis zur Grenze der Finsternis beherrschte. Stattdessen fand er Staub. Staub, der in dichten Wolken von den Weiden aufstieg. Staub, der sich auf seine Kleider legte. Staub, der die Luft füllte, bis er jede Farbe verschluckte und nur ein fahles Grau zurückließ. Die Stadt lag vor ihm wie eine Wunde in der Steppe: ein Durcheinander aus Zelten und Lehmhütten, Holzfällen und Stoffbahnen, die im Wind flatterten. Keine Mauer. Kein Tor. Kein Palast. Nichts, das diesen Ort von jeder armseligen Oase unterschied, an der er vorbeigeritten war. Sein Vater hatte ihn gewarnt. *Die Mongolen bauen keine Städte*, hatte Baha-ud-Din geschrieben in dem Empfehlungsschreiben, das Juvaini in der Innentasche seines Mantels trug. *Sie erobern sie. Wenn du Erhabenheit suchst, wirst du sie nicht in Karakorum finden. Suchst du Macht, wirst du sie überall finden.* Er suchte keine Erhabenheit. Er suchte einen Auftrag.",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "high",
+        "resolution": "1k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

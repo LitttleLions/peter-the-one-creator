@@ -1,0 +1,57 @@
+{
+  "book": "die-dritte-chronik",
+  "chapter": "018",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": null,
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\018\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\prompts\\higgsfield\\018-scene-01-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\assets\\scene\\018\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 018 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Die Lampe war längst erloschen, aber Fatima lag noch immer wach. Die Dunkelheit über ihr war schwer wie Filz, warm wie der Atem eines Schlafenden. Sie hörte den Wind draußen gegen die Zeltwand drücken, hörte das leise Knarren der Stangen, das Knistern der erlöschenden Glut in der Feuerstelle. Sie hörte ihr eigenes Herz. Es pochte nicht schneller als sonst. Es pochte gleichmäßig, ruhig, fast verräterisch ruhig – als wolle es ihr beweisen, dass nichts anders war als gestern oder vorgestern oder vor einem Monat. Dass alles beim Alten blieb. Aber es blieb nichts beim Alten. Sie setzte sich auf. Ihre Hände tasteten nach dem Feuerstein neben dem Lager; sie schlug Licht, entzündete den Docht der kleinen Öllampe aus Ton – jener Lampe mit dem Sprung im Rand, den sie nie hatte reparieren lassen – und zog das Federetui unter der Matte hervor. Es war warm geworden vom Boden ihres Zeltes.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_213623_eed9bfcd-b638-4627-b333-f14ef82d2cb3.png",
+  "job_result": [
+    {
+      "id": "eed9bfcd-b638-4627-b333-f14ef82d2cb3",
+      "status": "completed",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_213623_eed9bfcd-b638-4627-b333-f14ef82d2cb3.png",
+      "created_at": 1784842583.410806,
+      "params": {
+        "width": 880,
+        "height": 1168,
+        "prompt": "Chapter 018 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Die Lampe war längst erloschen, aber Fatima lag noch immer wach. Die Dunkelheit über ihr war schwer wie Filz, warm wie der Atem eines Schlafenden. Sie hörte den Wind draußen gegen die Zeltwand drücken, hörte das leise Knarren der Stangen, das Knistern der erlöschenden Glut in der Feuerstelle. Sie hörte ihr eigenes Herz. Es pochte nicht schneller als sonst. Es pochte gleichmäßig, ruhig, fast verräterisch ruhig – als wolle es ihr beweisen, dass nichts anders war als gestern oder vorgestern oder vor einem Monat. Dass alles beim Alten blieb. Aber es blieb nichts beim Alten. Sie setzte sich auf. Ihre Hände tasteten nach dem Feuerstein neben dem Lager; sie schlug Licht, entzündete den Docht der kleinen Öllampe aus Ton – jener Lampe mit dem Sprung im Rand, den sie nie hatte reparieren lassen – und zog das Federetui unter der Matte hervor. Es war warm geworden vom Boden ihres Zeltes.",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "high",
+        "resolution": "1k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

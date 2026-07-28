@@ -120,6 +120,50 @@ class GenerateIllustrationTests(unittest.TestCase):
         with self.assertRaises(SystemExit):
             gi.normalize_aspect_ratio("hochformat")
 
+    def test_gpt_image_rejects_soul_15k_resolution(self) -> None:
+        from lib.higgsfield_models import normalize_size_value, size_cli_args
+
+        self.assertEqual(normalize_size_value("gpt_image_2", "1.5k"), "2k")
+        self.assertEqual(
+            size_cli_args("gpt_image_2", "1.5k", "medium"),
+            ["--resolution", "2k", "--quality", "medium"],
+        )
+
+    def test_chapter_prompt_prefers_de_scene_over_source(self) -> None:
+        chapter_src = self.book_root / "work" / "chapters" / "001-source.md"
+        chapter_src.parent.mkdir(parents=True, exist_ok=True)
+        chapter_src.write_text(
+            "*Buch: Aëlita*\n\nНа пустыре перед мастерской.\n",
+            encoding="utf-8",
+        )
+        de_scene = (
+            self.book_root
+            / "work"
+            / "scenes"
+            / "de"
+            / "stil-02-poetisch"
+            / "001"
+            / "scene-01.md"
+        )
+        de_scene.parent.mkdir(parents=True, exist_ok=True)
+        de_scene.write_text(
+            "Auf dem Brachland vor Los' Werkstatt versammelte sich Volk.\n",
+            encoding="utf-8",
+        )
+        book = find_book(self.root, "peter-i-buch-01")
+        path = gi.preferred_scene_path(
+            book,
+            self.request(kind="chapter", scene_number=None),
+        )
+        self.assertEqual(path, de_scene)
+
+    def test_command_for_log_hides_prompt_body(self) -> None:
+        logged = gi._command_for_log(
+            ["higgsfield", "generate", "create", "x", "--prompt", "ä" * 200, "--json"]
+        )
+        self.assertIn("<prompt 200 chars>", logged)
+        self.assertNotIn("ääää", logged)
+
     def test_dry_run_writes_prompt_and_metadata_without_image(self) -> None:
         prompt_path, meta_path, image_path = gi.generate_illustration(
             self.request(),
@@ -143,6 +187,7 @@ class GenerateIllustrationTests(unittest.TestCase):
             "Rote Ebenen lagen unter ihm."
         )
         book = {
+            "id": "aelita",
             "illustration_setting": (
                 "Post-revolutionary Petrograd 1920s and ancient Mars civilisation."
             )
@@ -154,6 +199,10 @@ class GenerateIllustrationTests(unittest.TestCase):
         self.assertNotIn("status:", prompt)
         self.assertIn("Das Schiff flog niedrig ueber den Mars", prompt)
         self.assertIn("Post-revolutionary Petrograd", prompt)
+        self.assertIn("Chapter 001 Scene 01.", prompt)
+        self.assertNotIn("TRACKING", prompt)
+        self.assertNotIn("Pure pictorial", prompt)
+        self.assertNotIn("title=", prompt)
 
     def test_prompt_filters_split_book_status_header(self) -> None:
         source = (
@@ -167,6 +216,45 @@ class GenerateIllustrationTests(unittest.TestCase):
         self.assertNotIn("Buch:", excerpt)
         self.assertNotIn("status:", excerpt)
         self.assertEqual(excerpt, "Das Schiff flog niedrig ueber den Mars.")
+
+    def test_excerpt_keeps_short_motto_out_but_retains_body(self) -> None:
+        source = (
+            "## Szene 1\n\n"
+            "> „Dinge und Taten, die nicht aufgezeichnet sind…“\n\n"
+            "Ich wurde vor einem halben Jahrhundert geboren, im mittleren Russland.\n"
+        )
+        excerpt = gi.clean_markdown_excerpt(source)
+        self.assertNotIn("Dinge und Taten", excerpt)
+        self.assertIn("Ich wurde vor einem halben Jahrhundert geboren", excerpt)
+
+    def test_excerpt_keeps_narrative_wrapped_entirely_in_blockquotes(self) -> None:
+        source = (
+            "## Szene 1\n\n"
+            "> Das erste Erinnerungsbild, das ich habe, ist etwas Kleinliches.\n\n"
+            "> Meine Kindheit erinnere ich mich mit Trauer. Jede Kindheit ist traurig.\n\n"
+            "> Vielleicht war meine Kindheit traurig aus einigen besonderen Umstaenden?\n"
+        )
+        excerpt = gi.clean_markdown_excerpt(source)
+        self.assertIn("Das erste Erinnerungsbild", excerpt)
+        self.assertIn("Meine Kindheit erinnere ich mich mit Trauer", excerpt)
+        self.assertNotIn(">", excerpt)
+        # Only the first two narrative paragraphs – longer dumps become storyboards.
+        self.assertNotIn("Vielleicht war meine Kindheit", excerpt)
+
+    def test_excerpt_limits_to_two_paragraphs_to_avoid_storyboards(self) -> None:
+        source = "\n\n".join([
+            "Erster Moment am Fluss im Abendlicht.",
+            "Zweiter Moment im Gutshofgarten.",
+            "Dritter Moment mit dem Vater am Tisch.",
+            "Vierter Moment bei der Kinderfrau.",
+            "Fuenfter Moment auf der Jagd.",
+            "Sechster Moment mit der Gitarre.",
+        ])
+        excerpt = gi.clean_markdown_excerpt(source)
+        self.assertIn("Erster Moment", excerpt)
+        self.assertIn("Zweiter Moment", excerpt)
+        self.assertNotIn("Dritter Moment", excerpt)
+        self.assertNotIn("Sechster Moment", excerpt)
 
     def test_prompt_adds_visual_descriptions_for_present_characters(self) -> None:
         names_path = self.book_root / "names.yaml"

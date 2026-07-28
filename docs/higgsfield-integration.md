@@ -55,6 +55,43 @@ Fuer `pharao` sind ausserdem in `book.yaml` gespeichert:
 | Pharao | `810f82ce-f518-4c48-b545-515a63ad72ca` |
 | Pharao II | `c38052cf-6afc-4ae7-9dbb-1cf083f97242` |
 
+## Modellkatalog und Dashboard (Stand 2026-07-24)
+
+Kuratierte Modelle liegen in `config/higgsfield_models.yaml` und werden von
+`tools/lib/higgsfield_models.py` gelesen. Das Dashboard holt sie ueber
+`GET /api/higgsfield-models`.
+
+Aktuell kuratiert:
+
+| ID | Label | Groessen-Flag | Optionen |
+| --- | --- | --- | --- |
+| `text2image_soul_v2` | Higgsfield Soul 2.0 | `--quality` | 1.5k, 2k |
+| `nano_banana_2` | Nano Banana Pro | `--resolution` | 1k, 2k, 4k |
+| `gpt_image_2` | GPT Image 2 | `--resolution` + `--quality` | Aufloesung 1k/2k/4k; Render `low`/`medium`/`high` |
+| `seedream_v5_pro` | Seedream 5.0 Pro | `--resolution` | 1k, 1.5k, 2k |
+| `seedream_v5_lite` | Seedream 5.0 Lite | `--resolution` | 1k, 1.5k, 2k |
+
+CLI/Dashboard:
+
+- `--quality` steuert die **Aufloesung**/Soul-Qualitaet laut Katalog.
+- `--render-quality` nur fuer Modelle mit `render_quality_param` (GPT Image 2).
+- Buch-Default: `books/<id>/book.yaml` → `higgsfield.model` / `quality` /
+  optional `render_quality` / `aspect_ratio`.
+- Prompt beginnt mit `Chapter NNN.` bzw. `Chapter NNN Scene NN.`, danach
+  `illustration_setting`, danach Textauszug.
+- `illustration_setting` liegt in `books/<id>/book.yaml` und kann im Dashboard
+  unter **Bilder → Illustration-Setting** editiert und gespeichert werden
+  (`PUT /api/books/<id>/illustration-setting`).
+
+**Nicht per CLI/API waehlbar:** private Web-UI-Moodboards und „Unlimited“.
+Beides nur in der Higgsfield-Weboberflaeche. Typischer Workflow: Draft per
+CLI/Dashboard mit `--no-reference`, in der Web-UI mit Moodboard neu erzeugen,
+Download als `hf_<datum>_<zeit>_<job-uuid>.png` (UUID = Job-ID) manuell nach
+`assets/chapter/chapter-NNN.jpg` legen.
+
+Dry-run schreibt Prompt/Metadaten auch wenn das Zielbild schon existiert.
+Echte Generierung ohne `--overwrite` bricht bei vorhandenem Bild ab.
+
 ## Generieren
 
 Kapitelbild mit Buch-Defaults:
@@ -346,3 +383,73 @@ higgsfield:
 
 Die Dateiendung des Ausgabebilds passt sich automatisch an (`format: PNG` →
 `.png`, sonst `.jpg`).
+
+Optionaler Cover-Override nur fuer die nachtraegliche Asset-Optimierung
+(nicht fuer Higgsfield-Downloads von Kapitel-/Szenenbildern):
+
+```yaml
+higgsfield:
+  image_processing:
+    format: JPEG
+    jpeg_quality: 60
+    max_width: 1024
+    max_height: 1024
+    cover:
+      jpeg_quality: 75
+      max_width: 1600
+      max_height: 2400
+```
+
+Beispiel produktiv: `books/die-dritte-chronik/book.yaml` (Kapitel/Szenen
+1024 / q60, Cover grosszuegiger 1600×2400 / q75).
+
+## Export-Prioritaet bei mehreren Dateiformaten
+
+`find_named_image` (Export und Dashboard) sucht pro Stem in dieser Reihenfolge:
+
+`.jpg` → `.jpeg` → `.png` → `.webp`
+
+Existieren also `chapter-001.jpg` und `chapter-001.png`, landet nur das JPEG
+im EPUB/PDF/DOCX. Cover analog mit Stem `cover` unter `assets/covers/`.
+Dateien wie `cover1.jpg` oder `chapter-001_alt.jpg` werden vom Export
+**nicht** automatisch gewaehlt.
+
+## Nachtraegliche Asset-Optimierung
+
+Manuelle Web-UI-Downloads landen oft als grosse PNGs; fruehere CLI-JPGs
+koennen fuer E-Reader noch zu gross sein. Tool:
+
+```powershell
+python tools\optimize_asset_images.py --book die-dritte-chronik --dry-run
+python tools\optimize_asset_images.py --book die-dritte-chronik
+python tools\optimize_asset_images.py --book die-dritte-chronik --scope cover
+```
+
+| Flag | Wirkung |
+| --- | --- |
+| `--scope all\|cover\|chapter\|scene` | Welche Assets (Default `all`) |
+| `--dry-run` | Nur planen |
+| `--skip-existing` | Vorhandene Export-`.jpg` nicht neu schreiben |
+| `--include-test` | Auch `assets/chapter/test/` |
+
+**Verhalten:**
+
+- Quelle bevorzugt: PNG → sonst `stem_alt.jpg` → sonst `stem.jpg`.
+- Ziel ist immer die Export-Datei `stem.jpg`.
+- **PNG wird nie geloescht.**
+- Vor dem Ueberschreiben von `stem.jpg` wird bei Bedarf ein Archiv
+  `stem_alt.jpg` angelegt:
+  - aus PNG in hoher Qualitaet (volles Mass, q92), oder
+  - als Kopie des bisherigen JPG, falls es noch groesser als das
+    Export-Ziel ist.
+- Vorhandene `*_alt.jpg` bleiben unangetastet und werden nicht erneut
+  als Optimierungsziel behandelt.
+- Logik: `tools/lib/asset_images.py`; CLI: `tools/optimize_asset_images.py`.
+
+### Dashboard
+
+Seite **Bilder** (`/books/:bookId/images`), Panel **Exportbilder
+optimieren** (unter Higgsfield). Startet denselben Lauf als Hintergrundjob
+(`action: optimize_assets` → `POST /api/jobs`). Optionen: Umfang, Dry-run,
+vorhandene JPGs ueberspringen, Test-Ordner. Kommando vorher per
+„Kommando planen“ (`POST /api/actions/plan`) einsehbar.

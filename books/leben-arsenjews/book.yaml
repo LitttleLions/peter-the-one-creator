@@ -6,7 +6,7 @@ source_lang: ru
 target_lang: de
 ruleset_path: ''
 ruleset_apply: false
-style_mode: stil-01-original
+style_mode: stil-02-poetisch
 work_dir: work
 exports_dir: exports
 status_file: status/status.json
@@ -14,10 +14,20 @@ log_dir: status/logs
 styles_dir: styles
 assets_dir: assets
 names_file: names.yaml
-illustration_setting: |
-  Russia, late 19th to early 20th century. Provincial estates, landscapes,
-  seasonal countryside. Period-accurate clothing, architecture, interiors.
-  Elegiac, atmospheric, richly detailed.
+illustration_setting: >-
+  High-quality full-bleed chapter illustration for Ivan Bunin’s The Life of Arseniev:
+  one continuous painterly scene of a single quiet remembered moment, with one clear
+  central figure or central situation filling the frame. Late 19th-century provincial
+  central Russia: manor estates, endless grain fields, birch and garden light, wide skies,
+  quiet rivers, country roads, and small provincial towns. Style: poetic memory realism,
+  soft atmospheric light, muted elegant palette, gentle painterly texture, restrained
+  emotion, Russian impressionist landscape influence, premium modern classics aesthetic.
+  Prefer landscape and remembered atmosphere. When an adult figure appears, it is always
+  the same narrator Arseniev: slender Russian man about 35–45, dark wavy hair, clean-shaven
+  or light stubble, dark frock coat, often a quiet Rückenfigur looking into fields, river
+  light, or a manor yard. When the text remembers childhood, show that child’s solitude
+  among fields, sky, manor yard, or first town glimpses — a small boy in simple period
+  clothes. Elegant negative space, soft focus in secondary areas, calm readable composition.
 structure:
   mode: chapter_as_scene
   label: Kapitel als Szenen

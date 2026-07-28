@@ -1,0 +1,21 @@
+{
+  "run_id": "20260701T190828Z",
+  "endpoint": "/v1/text2image/soul",
+  "dry_run": false,
+  "variants": [
+    {
+      "variant": "single_fairy",
+      "file": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\prompts\\higgsfield\\soul-tests\\20260701T190828Z-single_fairy.json",
+      "ok": false,
+      "job_id": null,
+      "error": "Provided Soul style not found"
+    },
+    {
+      "variant": "single_whispers",
+      "file": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\prompts\\higgsfield\\soul-tests\\20260701T190828Z-single_whispers.json",
+      "ok": false,
+      "job_id": null,
+      "error": "Provided Soul style not found"
+    }
+  ]
+}

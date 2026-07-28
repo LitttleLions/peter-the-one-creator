@@ -26,6 +26,7 @@ Aktuelle Buchpakete:
 - `books/leben-arsenjews/` - Iwan Bunin, Das Leben Arsenjews
 - `books/geheime-geschichte-mongolen/` - Anonym, Die Geheime Geschichte der Mongolen
 - `books/aelita/` - Alexei Tolstoi, Aelita (in Vorbereitung)
+- `books/die-dritte-chronik/` - Motivatier, Die dritte Chronik (DE-Original)
 
 ## Buchpaket-Struktur
 
@@ -244,14 +245,19 @@ Platzhalter-Cover wird nur generiert, wenn gar kein Bild gefunden wird.
 Optionale Exportbilder liegen ebenfalls relativ zum Buchpaket. Kapitelbilder
 werden als `assets/chapter/chapter-NNN.*` abgelegt, Szenenbilder als
 `assets/scene/NNN/scene-NNN.*`. Unterstuetzt werden `.jpg`, `.jpeg`, `.png`
-und `.webp`; fehlende Bilder werden uebersprungen. Gesteuert wird dies ueber
+und `.webp`; fehlende Bilder werden uebersprungen. Bei mehreren Formaten
+gleicher Stem gewinnt `.jpg` vor `.png` (siehe
+`docs/higgsfield-integration.md`). Gesteuert wird dies ueber
 `illustrations` in `export.yaml`.
 
 Higgsfield-Generierungsdefaults liegen pro Buch in `book.yaml` unter
 `higgsfield`. `tools/generate_illustration.py` liest dort Modell,
-Moodboard-/Custom-Reference-UUID, Qualitaet und Seitenverhaeltnis. Erkannte
-Moodboards und der Discovery-Workflow sind in `docs/higgsfield-integration.md`
-dokumentiert.
+Moodboard-/Custom-Reference-UUID, Qualitaet und Seitenverhaeltnis.
+Nachbearbeitung beim Download: `higgsfield.image_processing`. Kompakte
+Export-JPGs nachtraeglich (ohne PNG/`*_alt.jpg` zu loeschen):
+`tools/optimize_asset_images.py` bzw. Dashboard „Bilder → Exportbilder
+optimieren“. Erkannte Moodboards und der Discovery-Workflow sind in
+`docs/higgsfield-integration.md` dokumentiert.
 
 Standardfolge fuer Leserexporte: Coverbild, Titelseite, Zusammenfassung,
 Leben des Autors, dann Textbeginn mit Teil-/Buchgruppe und Kapiteln.
@@ -277,24 +283,91 @@ rueckwaertskompatibel bei DOCX+EPUB.
   - Style-Dateien muessen Embed-Profile sein, keine vollstaendigen
     Standalone-Prompts.
   - `books/geheime-geschichte-mongolen/styles/stil-04-original-geheim.md`
-    ist seit 2026-07-22 ein reines Embed-Profil (kein SYSTEMPROMPT/
-    USERPROMPT): Interlinear-Rekonstruktion ohne Doppelglossen/
-    Glossenketten, differenzierter Editionsapparat, Glossar-Verweis ohne
-    konkrete Liste, Anwendungsregel Temuedschin vs. Dschingis Khan.
-- **Geheime Geschichte der Mongolen** (Stand 2026-07-22):
+    ist ein reines Embed-Profil (kein SYSTEMPROMPT/USERPROMPT):
+    Interlinear-Rekonstruktion ohne Doppelglossen/Glossenketten,
+    differenzierter Editionsapparat, Glossar-Verweis ohne konkrete Liste,
+    Anwendungsregel Temuedschin vs. Dschingis Khan.
+- **Geheime Geschichte der Mongolen** (Stand 2026-07-22, Abend):
   - Quelle: Japanische Uebersetzung 成吉思汗実録 von 那珂通世 (1907), via
     Wikisource-EPUB. Quellsprache `ja`, Ziel `de`.
-  - Struktur: `chapter_as_scene`, 15 Kapitel (000 Prolog/序論 + 001–014,
-    12 Baende). Gruppen-Labels („Einleitung“, „Erstes Buch“, …).
+  - Branch: `codex/geheime-geschichte-mongolen-prompts` (Commit `d8330eb`
+    gepusht: Buchpaket + Generator + stil-04). Spaetere Szenen-Umbau-
+    und Doku-Aenderungen waren danach lokal noch uncommitted.
+  - Struktur: `structure.mode: scenes` (nicht mehr `chapter_as_scene`).
+    15 Kapitel (000 Prolog/序論 + 001–014 = 12 Baende). Arbeitseinheiten
+    sind die §-Abschnitte der Edition als
+    `work/scenes/ja/NNN/scene-NN.md` (~317 Abschnitte; Kapitel 006 = 20
+    Szenen). Gruppen-Labels („Einleitung“, „Erstes Buch“, …). Export ohne
+    Szenenmarker (`display.scenes.show: false`).
+  - Import: `tools/import_geheime_geschichte.py` schreibt `scene-NN.md`
+    und Kapitelquellen mit `## N`-Headings. Einmalige Migration alter
+    `NN-source.md`:
+    `python tools/import_geheime_geschichte.py --migrate-existing`.
+    Danach kann `extract_scenes.py` die Kapitelquelle erneut zerlegen.
+  - Frueher: Kapitel als ein `scene-01.md`-Monolith + mechanisches
+    Zeichen-Chunking (9500). Die Import-`NN-source.md` wurden ignoriert,
+    weil `list_source_scene_paths` nur `scene-*.md` sucht.
   - UI: Kapitel-Dropdowns zeigen `006 — Sechstes Buch`; Batch-Log
-    `Kapitel ausgewaehlt (N): 006` (nicht „1 ausgewaehlt“ = Kapitel 1).
-  - Import: `tools/import_geheime_geschichte.py` aus `source/epub_temp/OPS/`.
-  - Uebersetzung: Grossteil 000–010 mit stil-01-original; stil-04 +
-    DeepSeek V4 Flash fuer Kapitel 006 (Chunks). Nach Profil-/Generator-
-    Fixes Neuuebersetzung und Prompt-Archiv-Pruefung.
+    `Kapitel ausgewaehlt (N): 006`.
+  - Uebersetzung: stil-01-original fuer Grossteil 000–010 als alte
+    Kapitel-Monolithe in DE-`scene-01.md`. stil-04 + DeepSeek V4 Flash
+    fuer Kapitel 006 (zuerst Chunks auf Monolith, dann Profil-Fixes).
+    **Achtung:** Alte DE-`scene-01.md` = Ganzkapitel, nicht der neue
+    kurze Abschnitt 01. Neuuebersetzung braucht `--overwrite` bzw.
+    manuelles Beiseitelegen der Legacy-DEs. Abschnittsweise Neu-
+    uebersetzung von 006 steht aus.
   - Prompt-Archiv: `work/prompts/sent/` fuer OpenRouter-Laeufe.
   - Export: EPUB mit Seitenumbruechen (`--split-level=1`), Cover und
     Kapitelbilder; `group_for_chapter()` kennt `chapters`-Listen.
-  - OpenRouter-Client: Timeout 300s, keine Retries bei Timeouts.
+  - OpenRouter-Client: Timeout 300s, keine Retries bei Timeouts
+    (teils noch uncommitted neben dem Prompt-Commit).
   - Review: `length_ratio` fuer CJK (ja/zh/ko) uebersprungen; Deep-Check
-    mit names.yaml; Dashboard Erstpruefung vs. Deep-Check getrennt.
+    mit names.yaml; Dashboard Erstpruefung vs. Deep-Check getrennt
+    (teils noch lokal uncommitted).
+- **Die dritte Chronik** (Stand 2026-07-24):
+  - DE-Originalroman (kein Uebersetzungsprojekt); Autor-Platzhalter
+    „Motivatier“; Impressum analog Peter (Motivatier Hermann Stiftung).
+  - Quelle fuehrend: `source/Die dritte Chronik.md` (~117k Woerter,
+    48 `##`-Kapitel). DOCX nur Backup.
+  - Paket: `book.yaml` / `export.yaml` / `names.yaml` / `stil-01-original`.
+    `structure.mode: chapter_as_scene`; Display `format: literary`
+    (literarische Titel, kein „Erstes Kapitel“).
+  - Import: `python tools/import_die_dritte_chronik.py` zerlegt MD in
+    `work/chapters/NNN-source.md` und DE-Szenen unter
+    `work/scenes/de/stil-01-original/NNN/scene-01.md` (Status done).
+  - Export-Pfad bereit (DOCX/EPUB/PDF); Fokus bisher: Kapitelbilder.
+  - Expose in `export.yaml` (summary/description) aus dem Buch-Expose
+    eingetragen; Autor-Bio weiterhin Platzhalter.
+- **Higgsfield / Dashboard-Bilder** (Stand 2026-07-24):
+  - Modellkatalog: `config/higgsfield_models.yaml` +
+    `tools/lib/higgsfield_models.py` (Soul 2.0, Nano Banana Pro /
+    `nano_banana_2`, GPT Image 2, Seedream 5.0 Pro/Lite).
+  - Dashboard „Bilder“: Dropdown Bildmodell; bei GPT zusaetzlich
+    Aufloesung + Render-Qualitaet (`low`/`medium`/`high` via
+    `--render-quality`). API: `GET /api/higgsfield-models`.
+  - Prompt-Bau: kurzer Marker `Chapter NNN.` (bzw. `Chapter NNN Scene NN.`)
+    oben, dann `illustration_setting` aus `book.yaml`, dann Textauszug.
+    Kein Buch-/Titel-Tracking, keine No-Lettering-Floskeln.
+  - Web-UI-Moodboards und „Unlimited“ sind CLI/API-seitig **nicht**
+    waehlbar (nur manuell in der Higgsfield-Web-UI). Workflow: CLI-Draft
+    ohne Moodboard → in Web-UI mit Moodboard neu erzeugen → Download
+    manuell nach `assets/chapter/chapter-NNN.jpg` (Dateiname von HF ist
+    `hf_…_uuid.png`; UUID = Job-ID).
+  - Dry-run darf vorhandene Zielbilder nicht mehr abbrechen (nur echte
+    Generierung ohne `--overwrite` bricht ab). Batch-Fehler zuletzt:
+    Dry-run auf schon fertigen Bildern; gelegentlich Higgsfield HTTP 502.
+  - **Asset-Optimierung** fuer schlanke EPUBs: CLI
+    `tools/optimize_asset_images.py` und Dashboard-Panel „Exportbilder
+    optimieren“ (Action `optimize_assets`). Export-JPG nach
+    `image_processing` (Kapitel/Szenen oft 1024/q60; Cover eigener
+    Block); PNG und grossere Vorversionen bleiben als `*_alt.jpg`.
+    Export-Prioritaet: `.jpg` vor `.png`. Details:
+    `docs/higgsfield-integration.md`.
+- **Noch offen / naechster sinnvoller Schritt:**
+  1. *Die dritte Chronik:* restliche Kapitelbilder erzeugen (Web-UI-
+     Moodboard-Workflow oder CLI ohne Moodboard); Cover ablegen;
+     EPUB-Export.
+  2. Optional: Dashboard neu starten nach Frontend-/API-Aenderungen;
+     uncommitted Tool-/Buch-Aenderungen committen (nur auf Wunsch).
+  3. *Geheime Geschichte:* Legacy-DE-Monolithe quarantäneieren;
+     Kapitel 006 abschnittsweise neu (stil-04); optional PR.

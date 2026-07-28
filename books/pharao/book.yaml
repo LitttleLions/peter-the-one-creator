@@ -14,9 +14,14 @@ log_dir: status/logs
 styles_dir: styles
 assets_dir: assets
 names_file: names.yaml
-illustration_setting: |
-  Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing,
-  architecture, and environment. Historical   style, richly detailed, atmospheric. detailed textures.
+illustration_setting: >-
+  Ancient Egypt under Pharaoh Ramses XIII, late New Kingdom / Tanite transition.
+  Cinematic literary historical illustration, elegant realism, painterly detail,
+  atmospheric light. Period-accurate clothing, temples, Nile landscapes, priestly
+  courts, and political intrigue. Focus on power, youth, ritual, and statecraft
+  rather than tourist spectacle. Color palette: sandstone, lapis, gold leaf, linen
+  white, deep Nile green, night blue, incense smoke. Strong central figure or
+  decisive encounter; historically grounded, emotionally intelligent.
 structure:
   mode: chapter_as_scene
   label: Kapitel als Szenen

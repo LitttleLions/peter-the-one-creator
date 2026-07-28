@@ -7,6 +7,7 @@ import base64
 import json
 import re
 import sys
+import textwrap
 from pathlib import Path
 from typing import Any
 
@@ -38,6 +39,7 @@ from lib.workbench_api import (  # noqa: E402
     ExportOptions,
     IllustrationBatchOptions,
     NewBookOptions,
+    OptimizeAssetsOptions,
     ReviewOptions,
     TranslateBatchOptions,
     TranslateRunOptions,
@@ -46,6 +48,7 @@ from lib.workbench_api import (  # noqa: E402
     build_extract_scenes_command,
     build_init_book_command,
     build_illustration_batch_command,
+    build_optimize_assets_command,
     build_review_command,
     build_review_fixes_command,
     build_translate_batch_command,
@@ -60,6 +63,11 @@ from lib.workbench_api import (  # noqa: E402
     unregistered_sources,
 )
 from lib.workbench_state import book_by_id, chapter_rows, load_books, load_models  # noqa: E402
+from lib.ollama_client import list_ollama_models  # noqa: E402
+from lib.higgsfield_models import (  # noqa: E402
+    list_higgsfield_models,
+    load_higgsfield_model_catalog,
+)
 
 from .json_utils import jsonable
 
@@ -91,9 +99,12 @@ class ActionPlanRequest(BaseModel):
     moodboard: str | None = None
     aspect_ratio: str | None = None
     quality: str | None = None
+    render_quality: str | None = None
     missing: bool = False
     no_reference: bool = False
     allow_paid_generation: bool = False
+    skip_existing: bool = False
+    include_test: bool = False
     fix_action: str | None = None
     source: str | None = None
     title: str | None = None
@@ -112,6 +123,10 @@ class BookSettingsUpdateRequest(BaseModel):
     translate_provider: str
     translate_model: str | None = None
     chunk_char_limit: int | None = None
+
+
+class IllustrationSettingUpdateRequest(BaseModel):
+    illustration_setting: str
 
 
 def _global_style_options(repo_root: Path) -> list[dict[str, str]]:
@@ -139,6 +154,7 @@ def _repo_root(request: Request) -> Path:
 def _book_summary(book: dict[str, Any], repo_root: Path) -> dict[str, Any]:
     style = str(book.get("style_mode") or "stil-01-original")
     ai = book.get("ai") or {}
+    higgsfield = book.get("higgsfield") or {}
     rows = chapter_rows(book, style, repo_root)
     missing = sum(int(row.get("Fehlt") or 0) for row in rows)
     return {
@@ -148,9 +164,23 @@ def _book_summary(book: dict[str, Any], repo_root: Path) -> dict[str, Any]:
         "source_lang": book.get("source_lang"),
         "target_lang": book.get("target_lang"),
         "style_mode": style,
+        "source_path": book.get("source_path"),
+        "ruleset_apply": bool(book.get("ruleset_apply")),
         "ai_provider": ai.get("provider") or "openrouter",
         "ai_model": ai.get("model") or "",
         "chunk_char_limit": ai.get("chunk_char_limit"),
+        "higgsfield_model": (
+            str(higgsfield.get("model") or "") if isinstance(higgsfield, dict) else ""
+        ),
+        "higgsfield_quality": (
+            str(higgsfield.get("quality") or "") if isinstance(higgsfield, dict) else ""
+        ),
+        "higgsfield_aspect_ratio": (
+            str(higgsfield.get("aspect_ratio") or "")
+            if isinstance(higgsfield, dict)
+            else ""
+        ),
+        "illustration_setting": str(book.get("illustration_setting") or "").strip(),
         "chapters": len(rows),
         "missing_scenes": missing,
         "book_root": book.get("book_root"),
@@ -285,6 +315,49 @@ def _replace_top_level_scalar(lines: list[str], key: str, value: str | int) -> N
             lines[index] = replacement
             return
     lines.append(replacement)
+
+
+def _folded_block_lines(key: str, value: str) -> list[str]:
+    """Erzeugt einen top-level YAML-Block `key: >-` mit umbrochenem Text."""
+    text = re.sub(r"\s+", " ", str(value or "").strip())
+    if not text:
+        return [f"{key}: ''"]
+    wrapped = textwrap.fill(
+        text,
+        width=88,
+        break_long_words=False,
+        break_on_hyphens=False,
+    )
+    return [f"{key}: >-"] + [f"  {line}" for line in wrapped.splitlines()]
+
+
+def _set_top_level_folded_text(lines: list[str], key: str, value: str) -> None:
+    block_lines = _folded_block_lines(key, value)
+    found = _find_top_level_block(lines, key)
+    if found is None:
+        insert_at = len(lines)
+        for candidate in ("names_file", "assets_dir", "styles_dir", "style_mode"):
+            block = _find_top_level_block(lines, candidate)
+            if block is not None:
+                insert_at = block[1]
+                break
+        for offset, line in enumerate(block_lines):
+            lines.insert(insert_at + offset, line)
+        return
+    start, end = found
+    lines[start:end] = block_lines
+
+
+def _write_illustration_setting_preserving_yaml(path: Path, setting: str) -> None:
+    text = path.read_text(encoding="utf-8")
+    newline = "\r\n" if "\r\n" in text else "\n"
+    had_trailing_newline = text.endswith(("\n", "\r\n"))
+    lines = text.splitlines()
+    _set_top_level_folded_text(lines, "illustration_setting", setting)
+    path.write_text(
+        newline.join(lines) + (newline if had_trailing_newline else ""),
+        encoding="utf-8",
+    )
 
 
 def _find_top_level_block(lines: list[str], key: str) -> tuple[int, int] | None:
@@ -461,6 +534,25 @@ def _style_test_artifacts(
     }
 
 
+def _validate_ollama_model(plan: ActionPlanRequest) -> None:
+    """Wenn ein Ollama-Modell angegeben ist, vorab prüfen ob es existiert."""
+    model_to_check: str | None = None
+    if (plan.provider == "ollama" or plan.llm == "ollama") and plan.ollama_model:
+        model_to_check = plan.ollama_model.strip()
+    if not model_to_check:
+        return
+    available = list_ollama_models()
+    if not available:
+        return  # Ollama läuft nicht — der Job wird später fehlschlagen, aber nicht durch uns blockiert
+    available_ids = {m.get("id") for m in available}
+    if model_to_check not in available_ids:
+        names = ", ".join(sorted(available_ids)) if available_ids else "keine Modelle gefunden"
+        raise HTTPException(
+            status_code=400,
+            detail=f"Ollama-Modell '{model_to_check}' nicht gefunden. Verfügbar: {names}",
+        )
+
+
 def _build_action_command(plan: ActionPlanRequest, repo_root: Path) -> list[str]:
     action = plan.action.strip()
     allowed = [
@@ -469,6 +561,7 @@ def _build_action_command(plan: ActionPlanRequest, repo_root: Path) -> list[str]
         "extract_chapters",
         "extract_scenes",
         "illustration_batch",
+        "optimize_assets",
         "init_book",
         "review",
         "review_fixes",
@@ -572,11 +665,22 @@ def _build_action_command(plan: ActionPlanRequest, repo_root: Path) -> list[str]
                 moodboard=plan.moodboard,
                 aspect_ratio=plan.aspect_ratio,
                 quality=plan.quality,
+                render_quality=plan.render_quality,
                 missing=plan.missing,
                 overwrite=plan.overwrite,
                 dry_run=plan.dry_run,
                 no_reference=plan.no_reference,
                 allow_paid_generation=plan.allow_paid_generation,
+            )
+        )
+    if action == "optimize_assets":
+        return build_optimize_assets_command(
+            OptimizeAssetsOptions(
+                book_id=_required(plan.book_id, "book_id"),
+                scope=plan.scope or "all",
+                dry_run=plan.dry_run,
+                skip_existing=plan.skip_existing,
+                include_test=plan.include_test,
             )
         )
     if action == "review_fixes":
@@ -637,6 +741,13 @@ def _background_job_metadata(plan: ActionPlanRequest) -> tuple[str, str, str, st
             "higgsfield",
             "illustration_batch",
         )
+    if action == "optimize_assets":
+        return (
+            _required(plan.book_id, "book_id"),
+            "",
+            "assets",
+            "optimize_assets",
+        )
     if action == "review_fixes":
         return (
             _required(plan.book_id, "book_id"),
@@ -662,8 +773,8 @@ def _background_job_metadata(plan: ActionPlanRequest) -> tuple[str, str, str, st
         status_code=400,
         detail=(
             "Als Hintergrundjob sind aktuell nur review, translate_batch, "
-            "translate_chapter, export, illustration_batch, review_fixes, "
-            "extract_chapters und init_book erlaubt."
+            "translate_chapter, export, illustration_batch, optimize_assets, "
+            "review_fixes, extract_chapters und init_book erlaubt."
         ),
     )
 
@@ -870,6 +981,33 @@ def create_app(repo_root: Path = REPO_ROOT) -> FastAPI:
             "book": jsonable(saved_book, root),
         }
 
+    @app.put("/api/books/{book_id}/illustration-setting")
+    def api_illustration_setting_update(
+        book_id: str,
+        payload: IllustrationSettingUpdateRequest,
+        request: Request,
+    ) -> dict[str, Any]:
+        root = _repo_root(request)
+        _load_book_or_404(root, book_id)
+        setting = str(payload.illustration_setting or "").strip()
+        if len(setting) > 4000:
+            raise HTTPException(
+                status_code=400,
+                detail="illustration_setting darf hoechstens 4000 Zeichen haben",
+            )
+        project = book_project(root, book_id)
+        _write_illustration_setting_preserving_yaml(
+            project.root / "book.yaml",
+            setting,
+        )
+        saved_book = _load_book_or_404(root, book_id)
+        return {
+            "book_id": book_id,
+            "saved": True,
+            "illustration_setting": str(saved_book.get("illustration_setting") or "").strip(),
+            "summary": jsonable(_book_summary(saved_book, root), root),
+        }
+
     @app.get("/api/books/{book_id}/reviews/{style}")
     def api_book_review(book_id: str, style: str, request: Request) -> dict[str, Any]:
         root = _repo_root(request)
@@ -936,6 +1074,20 @@ def create_app(repo_root: Path = REPO_ROOT) -> FastAPI:
     def api_models(request: Request) -> dict[str, Any]:
         root = _repo_root(request)
         return {"models": jsonable(load_models(root), root)}
+
+    @app.get("/api/higgsfield-models")
+    def api_higgsfield_models(request: Request) -> dict[str, Any]:
+        catalog = load_higgsfield_model_catalog()
+        return {
+            "default": catalog.get("default") or "text2image_soul_v2",
+            "models": jsonable(list_higgsfield_models(), _repo_root(request)),
+        }
+
+    @app.get("/api/ollama-models")
+    def api_ollama_models(request: Request) -> dict[str, Any]:
+        root = _repo_root(request)
+        models = list_ollama_models()
+        return {"models": jsonable(models, root)}
 
     @app.get("/api/jobs")
     def api_jobs(
@@ -1023,6 +1175,7 @@ def create_app(repo_root: Path = REPO_ROOT) -> FastAPI:
     @app.post("/api/actions/plan")
     def api_action_plan(plan: ActionPlanRequest, request: Request) -> dict[str, Any]:
         root = _repo_root(request)
+        _validate_ollama_model(plan)
         command = _build_action_command(plan, root)
         return {
             "action": plan.action,
@@ -1034,11 +1187,15 @@ def create_app(repo_root: Path = REPO_ROOT) -> FastAPI:
     @app.post("/api/jobs")
     def api_job_start(plan: ActionPlanRequest, request: Request) -> dict[str, Any]:
         root = _repo_root(request)
-        if plan.dry_run and plan.action.strip() != "illustration_batch":
+        if plan.dry_run and plan.action.strip() not in {
+            "illustration_batch",
+            "optimize_assets",
+        }:
             raise HTTPException(
                 status_code=400,
                 detail="Dry-runs werden nicht als Hintergrundjob gestartet. Nutze /api/actions/plan.",
             )
+        _validate_ollama_model(plan)
         command = _build_action_command(plan, root)
         book_id, style, provider, kind = _background_job_metadata(plan)
         job = dashboard_jobs.start_job(

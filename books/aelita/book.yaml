@@ -14,10 +14,16 @@ log_dir: status/logs
 styles_dir: styles
 assets_dir: assets
 names_file: names.yaml
-illustration_setting: Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. 
-  two soviet people and an marsian princess - the marsians are lookling like people but with a very vogelähnlichen gesicht
-  Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion
-  architecture, alien flora and fauna. 
+illustration_setting: >-
+  Post-revolutionary Soviet Union, 1920s Petrograd, and an ancient Mars civilisation.
+  Cinematic literary science-fiction illustration, elegant realism, painterly detail,
+  atmospheric depth. Post-revolutionary Soviet Union, 1920s Petrograd, and an ancient Mars
+  civilisation. Two Soviet man travellers and a Martian female princess; Martians look
+  human but with subtle bird-like facial features and blue-tinged skin and a very long
+  sharp nose. Red deserts, canals, vertical cities, winged airships. Atmospheric depth,
+  Martian architecture, alien flora and fauna. Cinematic literary illustration, painterly
+  detail, no lettering. Clear central figure or charged situation; emotionally resonant,
+  historically and futuristically grounded.
 structure:
   mode: chapter_as_scene
   label: Kapitel als Szenen

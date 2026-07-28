@@ -1,0 +1,57 @@
+{
+  "book": "die-dritte-chronik",
+  "chapter": "016",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": null,
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\016\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\prompts\\higgsfield\\016-scene-01-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\assets\\scene\\016\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 016 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Der Morgen begann mit einem Geschenk. Fatima saß in der äußeren Kammer des Regentinnenzeltes, als der erste Bittsteller eintrat. Ein Kaufmann aus Buchara, der vor ihr niederkniete, als wäre sie die Herrscherin selbst. Er brachte Seide, blau wie der Winterhimmel über Karakorum, und ein versiegeltes Schreiben, das er nicht öffnen durfte. Sie nahm die Seide, wog sie in den Händen, spürte die Kälte des Stoffes zwischen den Fingern. Er sah auf, verwirrt, verängstigt. „Edle Herrin, es sind fünfzig Ballen bester Seide aus Samarkand –“ „Fünfzig Ballen wiegen mehr als deine Hände.“ Sie legte den Stoff auf den Tisch, glättete die Falten, ließ ihre Finger über die Kante gleiten. „Du bittest um eine Handelslizenz für den Westen, nicht wahr? Für die Straßen durch Chorasan, die noch offen sind, weil keine Armee sie bewacht, weil kein Gouverneur die Zölle erhebt, weil die Dörfer dort leer sind und die Toten noch immer nicht begraben wurden.“ Er antwortete nicht. Sein Gesicht wurde grau, und er öffnete den Mund, aber die Worte kamen nicht.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_213138_9444ef49-e6dd-44d9-8549-6dd4a4286821.png",
+  "job_result": [
+    {
+      "id": "9444ef49-e6dd-44d9-8549-6dd4a4286821",
+      "status": "completed",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_213138_9444ef49-e6dd-44d9-8549-6dd4a4286821.png",
+      "created_at": 1784842298.684052,
+      "params": {
+        "width": 880,
+        "height": 1168,
+        "prompt": "Chapter 016 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Der Morgen begann mit einem Geschenk. Fatima saß in der äußeren Kammer des Regentinnenzeltes, als der erste Bittsteller eintrat. Ein Kaufmann aus Buchara, der vor ihr niederkniete, als wäre sie die Herrscherin selbst. Er brachte Seide, blau wie der Winterhimmel über Karakorum, und ein versiegeltes Schreiben, das er nicht öffnen durfte. Sie nahm die Seide, wog sie in den Händen, spürte die Kälte des Stoffes zwischen den Fingern. Er sah auf, verwirrt, verängstigt. „Edle Herrin, es sind fünfzig Ballen bester Seide aus Samarkand –“ „Fünfzig Ballen wiegen mehr als deine Hände.“ Sie legte den Stoff auf den Tisch, glättete die Falten, ließ ihre Finger über die Kante gleiten. „Du bittest um eine Handelslizenz für den Westen, nicht wahr? Für die Straßen durch Chorasan, die noch offen sind, weil keine Armee sie bewacht, weil kein Gouverneur die Zölle erhebt, weil die Dörfer dort leer sind und die Toten noch immer nicht begraben wurden.“ Er antwortete nicht. Sein Gesicht wurde grau, und er öffnete den Mund, aber die Worte kamen nicht.",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "high",
+        "resolution": "1k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

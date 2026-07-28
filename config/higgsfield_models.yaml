@@ -1,0 +1,36 @@
+# Kuratierte Higgsfield-Bildmodelle fuer Dashboard und CLI.
+# IDs = job_set_type aus `higgsfield model list`.
+# size_param: CLI-Flag fuer die Aufloesung (quality vs. resolution).
+# Hinweis: Nano Banana Pro = job_set_type `nano_banana_2` (nicht nano_banana_pro).
+
+default: text2image_soul_v2
+
+models:
+  - id: text2image_soul_v2
+    label: Higgsfield Soul 2.0
+    size_param: quality
+    size_options: ["1.5k", "2k"]
+    default_size: "2k"
+  - id: nano_banana_2
+    label: Nano Banana Pro
+    size_param: resolution
+    size_options: ["1k", "2k", "4k"]
+    default_size: "2k"
+  - id: gpt_image_2
+    label: GPT Image 2
+    size_param: resolution
+    size_options: ["1k", "2k", "4k"]
+    default_size: "2k"
+    render_quality_param: quality
+    render_quality_options: ["low", "medium", "high"]
+    default_render_quality: high
+  - id: seedream_v5_pro
+    label: Seedream 5.0 Pro
+    size_param: resolution
+    size_options: ["1k", "1.5k", "2k"]
+    default_size: "2k"
+  - id: seedream_v5_lite
+    label: Seedream 5.0 Lite
+    size_param: resolution
+    size_options: ["1k", "1.5k", "2k"]
+    default_size: "2k"

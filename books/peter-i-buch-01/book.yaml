@@ -14,6 +14,15 @@ log_dir: status/logs
 styles_dir: styles
 assets_dir: assets
 names_file: names.yaml
+illustration_setting: >-
+  Russia under Peter the Great, late 17th to early 18th century. Cinematic literary
+  historical illustration, elegant realism, painterly detail, atmospheric northern
+  light. Focus on power, reform, court intrigue, shipyards, armies, villages, and
+  harsh landscapes. Period-accurate Muscovite and early imperial clothing, wooden
+  izbas, Kremlin stone, Baltic coasts, winter roads. Color palette: snow white,
+  pine green, iron gray, candle amber, deep red, cold blue, mud brown. Strong
+  central figure or dramatic situation; historically grounded, emotionally
+  resonant, no anachronistic polish.
 structure:
   mode: scenes
   label: Kapitel mit Szenen

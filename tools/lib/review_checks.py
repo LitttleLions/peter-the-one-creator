@@ -8,12 +8,14 @@ from __future__ import annotations
 
 import json
 import re
+import sys
 from dataclasses import asdict, dataclass, field
 from datetime import datetime
 from pathlib import Path
 from typing import Any, Callable
 
 from lib.degeneration import detect_degeneration
+from lib.name_registry import compact_name_lines, load_names
 from lib.output_paths import (
     book_output_root,
     find_scene_translations,
@@ -28,6 +30,8 @@ REPLACEMENT_RE = re.compile(r"[\uFFFD\u0000-\u0008\u000B-\u001F]")
 SCENE_HEADER_RE = re.compile(r"^##\s+Szene\s+(\d+)\s*$", re.IGNORECASE)
 NUMERIC_HEADER_RE = re.compile(r"^##\s+\d+\.?\s*$")
 SENTENCE_END_RE = re.compile(r"[.!?;:\n]")
+# Sprachen ohne zuverlaessige Leerzeichen-Wortgrenzen fuer length_ratio.
+CJK_SOURCE_LANGS = {"ja", "zh", "zh-cn", "zh-tw", "ko"}
 
 
 @dataclass
@@ -150,9 +154,11 @@ def deterministic_scene_findings(
     de_text: str,
     ru_words: int,
     de_words: int,
+    source_lang: str = "ru",
 ) -> list[Finding]:
     findings: list[Finding] = []
     clean_de = strip_markdown_controls(de_text)
+    source_label = str(source_lang or "ru").upper()
     if not clean_de or len(clean_de) < 50 or de_words < 10:
         findings.append(finding(
             "ERROR",
@@ -191,26 +197,27 @@ def deterministic_scene_findings(
             scene_num,
             recommendation="Datei/Generierung auf Encoding-Schaden pruefen.",
         ))
-    if ru_words >= 80 and de_words:
+    lang = str(source_lang or "ru").lower()
+    if lang not in CJK_SOURCE_LANGS and ru_words >= 80 and de_words:
         ratio = de_words / ru_words
         if ratio < 0.55 or ratio > 2.60:
             findings.append(finding(
                 "ERROR",
                 "length_ratio",
-                f"DE/RU-Wortverhaeltnis ist stark auffaellig ({ratio:.2f}).",
+                f"DE/{source_label}-Wortverhaeltnis ist stark auffaellig ({ratio:.2f}).",
                 chapter_id,
                 scene_num,
-                evidence=f"RU={ru_words}, DE={de_words}",
+                evidence=f"{source_label}={ru_words}, DE={de_words}",
                 recommendation="Auf Auslassung, Doppelung oder Ausschweifung pruefen.",
             ))
         elif ratio < 0.75 or ratio > 2.10:
             findings.append(finding(
                 "WARNING",
                 "length_ratio",
-                f"DE/RU-Wortverhaeltnis ist auffaellig ({ratio:.2f}).",
+                f"DE/{source_label}-Wortverhaeltnis ist auffaellig ({ratio:.2f}).",
                 chapter_id,
                 scene_num,
-                evidence=f"RU={ru_words}, DE={de_words}",
+                evidence=f"{source_label}={ru_words}, DE={de_words}",
                 recommendation="Stichprobenartig gegenlesen.",
             ))
     if has_double_scene_heading(clean_de):
@@ -329,6 +336,7 @@ def review_chapter_deterministic(
                 de_text,
                 ru_words,
                 de_words,
+                source_lang=source_lang,
             )
         )
         review.scenes.append(scene_review)
@@ -341,15 +349,39 @@ def extract_json_object(text: str) -> dict[str, Any]:
     try:
         return json.loads(text)
     except json.JSONDecodeError:
-        start = text.find("{")
-        end = text.rfind("}")
-        if start != -1 and end > start:
-            return json.loads(text[start:end + 1])
-        preview = text.replace("\n", " ")[:220]
-        raise ValueError(
-            "KI-Antwort enthielt kein JSON-Objekt. "
-            f"Antwortbeginn: {preview!r}"
-        )
+        pass
+    start = text.find("{")
+    end = text.rfind("}")
+    if start != -1 and end > start:
+        candidate = text[start:end + 1]
+        try:
+            return json.loads(candidate)
+        except json.JSONDecodeError:
+            pass
+        # Repair common Ollama JSON errors: unescaped quotes inside strings
+        repaired = _repair_json(candidate)
+        try:
+            return json.loads(repaired)
+        except json.JSONDecodeError:
+            pass
+    preview = text.replace("\n", " ")[:220]
+    raise ValueError(
+        "KI-Antwort enthielt kein gueltiges JSON-Objekt. "
+        f"Antwortbeginn: {preview!r}"
+    )
+
+
+def _repair_json(text: str) -> str:
+    """Simple repair for common Ollama JSON output errors.
+    
+    Handles unescaped double quotes and control characters inside string values
+    by replacing them with their escaped equivalents.
+    """
+    # Remove control characters except \n, \r, \t
+    text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]', '', text)
+    # Fix unescaped backslashes followed by non-escape chars
+    text = re.sub(r'\\(?!["\\/bfnrtu])', r'\\\\', text)
+    return text
 
 
 def optional_float(value: Any) -> float | None:
@@ -375,6 +407,80 @@ def optional_bool(value: Any) -> bool | None:
     return None
 
 
+def load_book_name_lines(repo_root: Path, book: dict[str, Any], limit: int = 120) -> list[str]:
+    names_file = str(book.get("names_file") or "").strip()
+    if not names_file:
+        return []
+    path = Path(names_file)
+    if not path.is_absolute():
+        path = repo_root / path
+    if not path.exists():
+        return []
+    return compact_name_lines(load_names(path), limit=limit)
+
+
+def canonical_name_targets(repo_root: Path, book: dict[str, Any]) -> set[str]:
+    names_file = str(book.get("names_file") or "").strip()
+    if not names_file:
+        return set()
+    path = Path(names_file)
+    if not path.is_absolute():
+        path = repo_root / path
+    if not path.exists():
+        return set()
+    targets: set[str] = set()
+    for entry in load_names(path):
+        target = str(entry.get("target") or "").strip()
+        if target:
+            targets.add(target)
+    return targets
+
+
+def normalize_llm_finding_fields(
+    item: dict[str, Any],
+    canonical_targets: set[str],
+) -> dict[str, Any] | None:
+    """Normalisiert KI-Befunde; verwirft Namenskritik gegen die Namensliste."""
+    category = str(item.get("category") or "llm").strip().lower()
+    current_text = str(item.get("current_text") or "").strip()
+    suggested_text = str(item.get("suggested_text") or "").strip()
+    recommendation = str(item.get("recommendation") or "").strip()
+    summary = str(item.get("summary") or "KI-Hinweis").strip()
+
+    if category == "names" and canonical_targets and current_text:
+        for target in canonical_targets:
+            if target and target in current_text:
+                # Modell will eine verbindliche Target-Form ersetzen -> ignorieren.
+                if suggested_text and target not in suggested_text:
+                    return None
+                if not suggested_text and any(
+                    token in summary.lower() or token in recommendation.lower()
+                    for token in ("falsch", "inkorrekt", "nicht korrekt", "erfindung")
+                ):
+                    return None
+
+    fixable = optional_bool(item.get("fixable"))
+    if fixable is True and (not current_text or not suggested_text or current_text == suggested_text):
+        fixable = False
+        if not recommendation:
+            recommendation = (
+                "Kein eindeutiger Textersatz; manuell pruefen oder "
+                "current_text/suggested_text nachliefern."
+            )
+
+    return {
+        "severity": str(item.get("severity") or "INFO").upper(),
+        "category": category or "llm",
+        "summary": summary,
+        "evidence": str(item.get("evidence") or ""),
+        "recommendation": recommendation,
+        "current_text": current_text,
+        "suggested_text": suggested_text,
+        "confidence": optional_float(item.get("confidence")),
+        "fixable": fixable,
+    }
+
+
 def add_llm_findings(
     repo_root: Path,
     book: dict[str, Any],
@@ -384,6 +490,7 @@ def add_llm_findings(
     scope: str,
     progress: Callable[[SceneReview], None] | None = None,
 ) -> None:
+    name_targets = canonical_name_targets(repo_root, book)
     for scene in review.scenes:
         has_flags = bool(scene.findings)
         if scope != "all" and not has_flags:
@@ -401,39 +508,54 @@ def add_llm_findings(
             if not isinstance(items, list):
                 raise ValueError("'findings' ist keine Liste")
         except Exception as exc:
+            print(
+                f"  [LLM-Review FAIL] Kapitel {scene.chapter}, Szene {scene.scene:02d}: {exc}",
+                file=sys.stderr,
+                flush=True,
+            )
+            recommendation = (
+                "Backend/Modell pruefen, Ollama-Modell wechseln oder "
+                "Lauf ohne KI-Review wiederholen."
+            )
+            message = f"KI-Review fehlgeschlagen: {exc}"
+            if "finish_reason=length" in str(exc) or "abgeschnitten" in str(exc).lower():
+                recommendation = (
+                    "Antwort wurde abgeschnitten: max_tokens erhoehen "
+                    "(Review-Default jetzt 8000) oder kuerzeres Modell ohne langes Thinking waehlen."
+                )
             scene.findings.append(finding(
                 "WARNING",
                 "llm_review_failed",
-                f"KI-Review fehlgeschlagen: {exc}",
+                message,
                 scene.chapter,
                 scene.scene,
                 evidence=raw[:500],
-                recommendation=(
-                    "Backend/Modell pruefen, Ollama-Modell wechseln oder "
-                    "Lauf ohne KI-Review wiederholen."
-                ),
+                recommendation=recommendation,
                 source="llm",
             ))
             continue
         for item in items:
             if not isinstance(item, dict):
                 continue
-            severity = str(item.get("severity") or "INFO").upper()
+            normalized = normalize_llm_finding_fields(item, name_targets)
+            if normalized is None:
+                continue
+            severity = normalized["severity"]
             if severity not in SEVERITY_ORDER:
                 severity = "INFO"
             scene.findings.append(finding(
                 severity,
-                str(item.get("category") or "llm"),
-                str(item.get("summary") or "KI-Hinweis"),
+                normalized["category"],
+                normalized["summary"],
                 scene.chapter,
                 scene.scene,
-                evidence=str(item.get("evidence") or ""),
-                recommendation=str(item.get("recommendation") or ""),
+                evidence=normalized["evidence"],
+                recommendation=normalized["recommendation"],
                 source="llm",
-                current_text=str(item.get("current_text") or ""),
-                suggested_text=str(item.get("suggested_text") or ""),
-                confidence=optional_float(item.get("confidence")),
-                fixable=optional_bool(item.get("fixable")),
+                current_text=normalized["current_text"],
+                suggested_text=normalized["suggested_text"],
+                confidence=normalized["confidence"],
+                fixable=normalized["fixable"],
             ))
 
 
@@ -446,28 +568,51 @@ def build_llm_prompt_for_paths(
     source_lang = str(book.get("source_lang") or "ru").upper()
     source_text = (repo_root / scene.ru_path).read_text(encoding="utf-8", errors="replace")
     de_text = (repo_root / scene.de_path).read_text(encoding="utf-8", errors="replace")
+    name_lines = load_book_name_lines(repo_root, book)
+    names_block = ""
+    if name_lines:
+        names_block = (
+            "\nVerbindliche Namens-/Begriffsliste des Buchpakets "
+            "(Target-Formen sind KANONISCH; wenn DE sie nutzt, ist das KEIN Fehler "
+            "und keine alternative Transkription vorschlagen):\n"
+            + "\n".join(name_lines)
+            + "\n"
+        )
     system = (
         "Du bist ein strenger literarischer Schlussredakteur fuer eine "
         "literarische Uebersetzung ins Deutsche. Antworte ausschliesslich als "
-        "gueltiges JSON ohne Markdown, Kommentar oder Einleitung."
+        "gueltiges JSON ohne Markdown, Kommentar, Reasoning oder Einleitung. "
+        "Kein Fliesstext ausserhalb des JSON-Objekts."
     )
     user = (
-        "Pruefe RU-Original und DE-Uebersetzung. Melde nur konkrete, belegbare "
-        "Probleme. Nutze ERROR nur fuer release-blockierende Probleme wie "
-        "Sinnverlust, fehlende Passage, falsche Namen, stehengebliebenes "
-        "Russisch oder kaputte Formatierung. Nutze WARNING fuer stilistische "
-        "oder kleinere editorische Hinweise.\n\n"
+        f"Pruefe Original ({source_lang}) und DE-Uebersetzung. Melde nur konkrete, "
+        "belegbare Probleme, die eine klare Handlung erlauben. "
+        "Lieber wenige praezise Befunde als viele vage Hinweise.\n\n"
+        "ERROR nur fuer release-blockierende Probleme: Sinnverlust, fehlende Passage, "
+        "stehengebliebenes Original, kaputte Formatierung, klar falsche Eigennamen "
+        "gegenueber Original UND gegenueber der Namensliste.\n"
+        "WARNING fuer kleinere editorische Hinweise mit konkretem Ersatz.\n\n"
+        "Wenn ein Befund auto-korrigierbar sein soll: setze fixable=true UND liefere "
+        "current_text als exakten Teilstring aus dem DE-Text sowie suggested_text als "
+        "exakten Ersatz. Ohne beide Felder setze fixable=false.\n"
+        "Keine Namenskritik, die nur eine andere wissenschaftliche Transkription bevorzugt, "
+        "wenn die DE-Form in der Namensliste steht.\n\n"
         "Wenn du keine konkreten Befunde hast, antworte exakt mit: "
         "{\"findings\":[]}\n\n"
         "Antwort exakt als JSON:\n"
         "{\"findings\":[{\"severity\":\"ERROR|WARNING|INFO\","
         "\"category\":\"meaning|omission|addition|names|register|grammar|formatting\","
-        "\"summary\":\"...\",\"evidence\":\"...\",\"recommendation\":\"...\","
-        "\"fixable\":true|false,\"current_text\":\"exakt vorhandener DE-Text oder leer\","
-        "\"suggested_text\":\"exakter Ersatz oder leer\",\"confidence\":0.0}]}\n\n"
+        "\"summary\":\"kurz und handlungsorientiert\","
+        "\"evidence\":\"kurze Belegstelle aus Original und/oder DE\","
+        "\"recommendation\":\"konkrete naechste Handlung\","
+        "\"fixable\":true|false,"
+        "\"current_text\":\"exakt vorhandener DE-Text oder leer\","
+        "\"suggested_text\":\"exakter Ersatz oder leer\","
+        "\"confidence\":0.0}]}\n\n"
         f"Buch: {book.get('title')} / {book.get('author')}\n"
         f"Style: {style}\n"
-        f"Kapitel: {scene.chapter}, Szene: {scene.scene:02d}\n\n"
+        f"Kapitel: {scene.chapter}, Szene: {scene.scene:02d}\n"
+        f"{names_block}\n"
         f"Original {source_lang}:\n"
         f"{source_text}\n\n"
         "Uebersetzung DE:\n"

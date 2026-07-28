@@ -102,6 +102,8 @@ webpage/
 
 Ohne `catalog.json` zeigt die App eine freundliche deutsche Meldung — der Build schlägt trotzdem nicht fehl.
 
+Dashboard: Freigabe und Katalog-Jobs auch unter `/website` (FastAPI/React).
+
 ## 3D-Assets
 
 Aktuell: Fallback-Hardcover-Boxen mit echten Cover-Texturen aus `/covers/`.

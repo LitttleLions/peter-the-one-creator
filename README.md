@@ -1,8 +1,9 @@
 # peter-the-one
 
 Python-Werkbank fuer kapitel- und szenenweise literarische Uebersetzung
-(`ru -> de`) mit Style-Profilen, OpenRouter, lokales Ollama, Prompt-Datei-Modus,
-Workspace-KI-Modus, Streamlit-Dashboard und DOCX-/EPUB-/PDF-Export.
+(`ru -> de`, teils `ja -> de`) mit Style-Profilen, OpenRouter, lokalem Ollama,
+Prompt-Datei-Modus, Workspace-KI-Modus, FastAPI/React-Dashboard,
+Motivatier-Regal-Website und DOCX-/EPUB-/PDF-Export.
 
 Die wichtigste Architekturentscheidung: **Szenen werden einzeln uebersetzt,
 Kapitel und Exporte werden danach per CLI aus Dateien zusammengesetzt.**
@@ -10,7 +11,7 @@ Dadurch werden fertige Kapitel nicht unnoetig erneut durch ein LLM geschickt.
 
 ## Schnellstart Fuer KI Und Menschen
 
-1. Lies `AGENTS.md`, dann diese README.
+1. Lies `AGENTS.md`, dann `docs/HANDOVER.md` (aktueller Stand), dann diese README.
 2. Arbeite immer buchbezogen unter `books/<book-id>/`.
 3. Aendere Originalquellen in `books/<book-id>/source/` und Material in
    `logic/` nicht ohne ausdrueckliche Rueckfrage.
@@ -34,11 +35,12 @@ pip install -r requirements.txt
 
 | Tool | Zweck | Installation |
 |------|-------|--------------|
-| **Streamlit** (>= 1.36) | Dashboard | Enthalten in `requirements.txt` |
+| **Node.js / npm** | Dashboard-Frontend + Regal-Website | https://nodejs.org/ – unter Windows `npm.cmd` |
 | **Pandoc** (>= 3.0) | EPUB-Export | `winget install --id JohnMacFarlane.Pandoc` oder manuell von https://pandoc.org/installing.html |
 | **Playwright Chromium** | PDF-Export | `python -m playwright install chromium` nach `pip install -r requirements.txt` |
 | **Higgsfield CLI** | Kapitel-/Szenenbilder | `npm install -g @higgsfield/cli`, Details in `docs/higgsfield-integration.md`. **Stand 2026-06-24:** Korrekte Moodboard-Laeufe setzen in der History `params.style_id`; die CLI bietet fuer `text2image_soul_v2` aber keinen `--style_id`-Parameter. `--custom_reference_id` ist dafuer nicht korrekt. |
 | **Ollama** (optional) | Lokale LLM-Inference | https://ollama.ai/ - Modelle: `ollama pull gemma4:latest` (empfohlen), `ollama pull qwen3:8b` (optional) |
+| **Streamlit** (>= 1.36) | Legacy-Dashboard | Enthalten in `requirements.txt` (nicht mehr Standardstart) |
 
 > **Hinweis:** Nach der Pandoc-Installation muss ein neues Terminal gestartet werden,
 > damit der Pfad erkannt wird. Unter Windows liegt Pandoc typischerweise unter
@@ -80,10 +82,15 @@ Aktuelle Pakete:
 - `books/peter-i-buch-01/`
 - `books/anna-karenina/`
 - `books/pharao/`
+- `books/feuriger-engel/`
+- `books/leben-arsenjews/`
+- `books/aelita/`
+- `books/geheime-geschichte-mongolen/`
+- `books/die-dritte-chronik/`
 
 Alte zentrale Dateien aus der vorherigen Struktur liegen unter
 `config/legacy/`. Neue Tools lesen `books/*/book.yaml`, nicht mehr
-`config/books.yaml`.
+`config/books.yaml`. Aktueller Arbeitsstand: `docs/HANDOVER.md`.
 
 ## Quellformate und EPUB-Verarbeitung
 
@@ -123,8 +130,14 @@ ist. Zwei Wege:
 ```bash
 pip install -r requirements.txt
 
-# Dashboard
-streamlit run tools/dashboard.py
+# Dashboard (FastAPI + React)
+python tools/start_dashboard.py
+# oder Dev-Start.cmd / dev.cmd → http://127.0.0.1:8000
+
+# Regal-Website (webpage/, nicht webapp/)
+python tools/build_shelf_website.py
+python tools/preview_webpage.py
+# → http://127.0.0.1:4173
 
 # Status
 python tools/status.py --book anna-karenina summary
@@ -437,9 +450,10 @@ python tools/start_dashboard.py
 URL: `http://127.0.0.1:8000`
 
 Das Dashboard liest Buchpakete aus `books/*/book.yaml`. Es bietet Uebersicht,
-Buchsetup, Uebersetzen, Stiltest, Review, Export, Higgsfield/Bilder, Namen und
-Logs. Die verbindliche Optik-Referenz liegt in
-`docs/dashboard-design-system.md`.
+Buchsetup, Uebersetzen, Stiltest, Review, Export, Higgsfield/Bilder, Namen,
+Logs und **Website** (Regal-Freigabe, Katalog-/Dist-Jobs). Die verbindliche
+Optik-Referenz liegt in `docs/dashboard-design-system.md`. Die oeffentliche
+Regal-Website selbst liegt unter `webpage/` (siehe `webpage/README.md`).
 
 Lange Uebersetzungs- und Review-Laeufe werden ueber den framework-neutralen
 Job-Service `tools/lib/dashboard_jobs.py` als Hintergrundprozesse gestartet.

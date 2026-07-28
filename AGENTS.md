@@ -2,6 +2,7 @@
 
 > Dies ist die zentrale Kontextdatei. `CLAUDE.md` verweist auf diese Datei.
 > Lies zuerst diese Datei und die README, dann beginne mit der Arbeit.
+> Aktueller Arbeitsstand und naechste Schritte: [docs/HANDOVER.md](./docs/HANDOVER.md).
 
 ## Was Dieses Projekt Ist
 
@@ -14,8 +15,8 @@ ueber `books/*/book.yaml`; `config/books.yaml` ist nur noch Legacy unter
 **Memory Bank:** Dieses Projekt pflegt **bewusst keine Cline Memory Bank**
 (`projectbrief.md`, `activeContext.md` usw.), weil es parallel in mehreren
 KIs bearbeitet wird und eine lokale Memory Bank dadurch schnell veraltet
-bzw. widerspruechlich waere. Massgeblicher Kontext sind AGENTS.md, README.md
-sowie die buchlokalen `book.yaml`- und `export.yaml`-Dateien.
+bzw. widerspruechlich waere. Massgeblicher Kontext sind AGENTS.md, README.md,
+`docs/HANDOVER.md` sowie die buchlokalen `book.yaml`- und `export.yaml`-Dateien.
 
 Aktuelle Buchpakete:
 
@@ -56,8 +57,10 @@ books/<book-id>/
 Globale Ordner:
 
 - `tools/` - Python-CLIs, Dashboard, Bibliotheken
+- `webapp/` - FastAPI-Backend + React-Dashboard (nicht mit `webpage/` verwechseln)
+- `webpage/` - oeffentliche Motivatier-Regal-Website (Vite + Three.js)
 - `tests/` - Smoke-/Unit-Tests
-- `docs/` - Dashboard-Design und Projektinfos
+- `docs/` - Dashboard-Design, Higgsfield, Handover
 - `config/models.yaml` - OpenRouter-Modellkatalog
 - `config/pipeline.yaml` - globale Pipeline-Defaults
 - `config/style_modes.yaml` - Legacy-Style-Modi
@@ -69,8 +72,13 @@ Globale Ordner:
 
 - **Python-Abhaengigkeiten:** `pip install -r requirements.txt`
 - **Dashboard:** Das primaere Dashboard ist FastAPI + React. Start mit
-  `python tools/start_dashboard.py`; der Befehl baut das React-Frontend bei
-  Bedarf und startet FastAPI auf `http://127.0.0.1:8000`.
+  `python tools/start_dashboard.py` (oder `Dev-Start.cmd` / `dev.cmd`); der
+  Befehl baut das React-Frontend bei Bedarf und startet FastAPI auf
+  `http://127.0.0.1:8000`. Unter Windows nutzt der Build `npm.cmd`.
+- **Regal-Website:** `webpage/` – Katalog via
+  `python tools/build_shelf_website.py`; Preview
+  `python tools/preview_webpage.py` (nicht `file://`); Details
+  `webpage/README.md` und Dashboard-Route `/website`.
 - **Streamlit** (>= 1.36): Bleibt als Legacy-Werkbank in `tools/dashboard.py`
   als Backup erhalten, ist aber nicht mehr der Standardstart.
 - **Pandoc** (>= 3.0): Wird fuer den EPUB-Export benoetigt.
@@ -267,107 +275,32 @@ rueckwaertskompatibel bei DOCX+EPUB.
 
 ## Aktueller Stand
 
+Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**
+(Stand 2026-07-28). Branch: `main` @ `de91155` (= `origin/main`).
+
 - Buchpakete sind fuehrend; alte zentrale `config/books.yaml` und
   `config/export.yaml` liegen unter `config/legacy/`.
-- OpenRouter, Prompt-Datei-Modus, Workspace-KI-Modus, Assembly und Export sind
-  produktiv nutzbar.
+- OpenRouter, Ollama, Prompt-Datei-Modus, Workspace-KI-Modus, Assembly und
+  Export sind produktiv nutzbar.
 - Dashboard (FastAPI+React) liest Buchpakete aus `books/*/book.yaml`.
-  Buch-Setup-Route: `/books/:bookId/setup` (nicht mehr globales `/setup`).
-- Anna Karenina ist als zweites Buchpaket angelegt und hat ein Cover unter
-  `books/anna-karenina/assets/covers/annakarenina.png`.
-- **Prompt-Generator** (Stand 2026-07-22):
-  - `tools/lib/style_prompts.py`: Profil-Intro ohne Lede-/Struktur-Hintertuer;
-    harte Ausgabe-Regeln haben Vorrang; Glossar-Einleitung sprachneutral.
-  - `tools/lib/name_registry.py`: Prompt-Glossar nur `source -> target`
-    (Meta optional via `include_meta=True`).
-  - Style-Dateien muessen Embed-Profile sein, keine vollstaendigen
-    Standalone-Prompts.
-  - `books/geheime-geschichte-mongolen/styles/stil-04-original-geheim.md`
-    ist ein reines Embed-Profil (kein SYSTEMPROMPT/USERPROMPT):
-    Interlinear-Rekonstruktion ohne Doppelglossen/Glossenketten,
-    differenzierter Editionsapparat, Glossar-Verweis ohne konkrete Liste,
-    Anwendungsregel Temuedschin vs. Dschingis Khan.
-- **Geheime Geschichte der Mongolen** (Stand 2026-07-22, Abend):
-  - Quelle: Japanische Uebersetzung 成吉思汗実録 von 那珂通世 (1907), via
-    Wikisource-EPUB. Quellsprache `ja`, Ziel `de`.
-  - Branch: `codex/geheime-geschichte-mongolen-prompts` (Commit `d8330eb`
-    gepusht: Buchpaket + Generator + stil-04). Spaetere Szenen-Umbau-
-    und Doku-Aenderungen waren danach lokal noch uncommitted.
-  - Struktur: `structure.mode: scenes` (nicht mehr `chapter_as_scene`).
-    15 Kapitel (000 Prolog/序論 + 001–014 = 12 Baende). Arbeitseinheiten
-    sind die §-Abschnitte der Edition als
-    `work/scenes/ja/NNN/scene-NN.md` (~317 Abschnitte; Kapitel 006 = 20
-    Szenen). Gruppen-Labels („Einleitung“, „Erstes Buch“, …). Export ohne
-    Szenenmarker (`display.scenes.show: false`).
-  - Import: `tools/import_geheime_geschichte.py` schreibt `scene-NN.md`
-    und Kapitelquellen mit `## N`-Headings. Einmalige Migration alter
-    `NN-source.md`:
-    `python tools/import_geheime_geschichte.py --migrate-existing`.
-    Danach kann `extract_scenes.py` die Kapitelquelle erneut zerlegen.
-  - Frueher: Kapitel als ein `scene-01.md`-Monolith + mechanisches
-    Zeichen-Chunking (9500). Die Import-`NN-source.md` wurden ignoriert,
-    weil `list_source_scene_paths` nur `scene-*.md` sucht.
-  - UI: Kapitel-Dropdowns zeigen `006 — Sechstes Buch`; Batch-Log
-    `Kapitel ausgewaehlt (N): 006`.
-  - Uebersetzung: stil-01-original fuer Grossteil 000–010 als alte
-    Kapitel-Monolithe in DE-`scene-01.md`. stil-04 + DeepSeek V4 Flash
-    fuer Kapitel 006 (zuerst Chunks auf Monolith, dann Profil-Fixes).
-    **Achtung:** Alte DE-`scene-01.md` = Ganzkapitel, nicht der neue
-    kurze Abschnitt 01. Neuuebersetzung braucht `--overwrite` bzw.
-    manuelles Beiseitelegen der Legacy-DEs. Abschnittsweise Neu-
-    uebersetzung von 006 steht aus.
-  - Prompt-Archiv: `work/prompts/sent/` fuer OpenRouter-Laeufe.
-  - Export: EPUB mit Seitenumbruechen (`--split-level=1`), Cover und
-    Kapitelbilder; `group_for_chapter()` kennt `chapters`-Listen.
-  - OpenRouter-Client: Timeout 300s, keine Retries bei Timeouts
-    (teils noch uncommitted neben dem Prompt-Commit).
-  - Review: `length_ratio` fuer CJK (ja/zh/ko) uebersprungen; Deep-Check
-    mit names.yaml; Dashboard Erstpruefung vs. Deep-Check getrennt
-    (teils noch lokal uncommitted).
-- **Die dritte Chronik** (Stand 2026-07-24):
-  - DE-Originalroman (kein Uebersetzungsprojekt); Autor-Platzhalter
-    „Motivatier“; Impressum analog Peter (Motivatier Hermann Stiftung).
-  - Quelle fuehrend: `source/Die dritte Chronik.md` (~117k Woerter,
-    48 `##`-Kapitel). DOCX nur Backup.
-  - Paket: `book.yaml` / `export.yaml` / `names.yaml` / `stil-01-original`.
-    `structure.mode: chapter_as_scene`; Display `format: literary`
-    (literarische Titel, kein „Erstes Kapitel“).
-  - Import: `python tools/import_die_dritte_chronik.py` zerlegt MD in
-    `work/chapters/NNN-source.md` und DE-Szenen unter
-    `work/scenes/de/stil-01-original/NNN/scene-01.md` (Status done).
-  - Export-Pfad bereit (DOCX/EPUB/PDF); Fokus bisher: Kapitelbilder.
-  - Expose in `export.yaml` (summary/description) aus dem Buch-Expose
-    eingetragen; Autor-Bio weiterhin Platzhalter.
-- **Higgsfield / Dashboard-Bilder** (Stand 2026-07-24):
-  - Modellkatalog: `config/higgsfield_models.yaml` +
-    `tools/lib/higgsfield_models.py` (Soul 2.0, Nano Banana Pro /
-    `nano_banana_2`, GPT Image 2, Seedream 5.0 Pro/Lite).
-  - Dashboard „Bilder“: Dropdown Bildmodell; bei GPT zusaetzlich
-    Aufloesung + Render-Qualitaet (`low`/`medium`/`high` via
-    `--render-quality`). API: `GET /api/higgsfield-models`.
-  - Prompt-Bau: kurzer Marker `Chapter NNN.` (bzw. `Chapter NNN Scene NN.`)
-    oben, dann `illustration_setting` aus `book.yaml`, dann Textauszug.
-    Kein Buch-/Titel-Tracking, keine No-Lettering-Floskeln.
-  - Web-UI-Moodboards und „Unlimited“ sind CLI/API-seitig **nicht**
-    waehlbar (nur manuell in der Higgsfield-Web-UI). Workflow: CLI-Draft
-    ohne Moodboard → in Web-UI mit Moodboard neu erzeugen → Download
-    manuell nach `assets/chapter/chapter-NNN.jpg` (Dateiname von HF ist
-    `hf_…_uuid.png`; UUID = Job-ID).
-  - Dry-run darf vorhandene Zielbilder nicht mehr abbrechen (nur echte
-    Generierung ohne `--overwrite` bricht ab). Batch-Fehler zuletzt:
-    Dry-run auf schon fertigen Bildern; gelegentlich Higgsfield HTTP 502.
-  - **Asset-Optimierung** fuer schlanke EPUBs: CLI
-    `tools/optimize_asset_images.py` und Dashboard-Panel „Exportbilder
-    optimieren“ (Action `optimize_assets`). Export-JPG nach
-    `image_processing` (Kapitel/Szenen oft 1024/q60; Cover eigener
-    Block); PNG und grossere Vorversionen bleiben als `*_alt.jpg`.
-    Export-Prioritaet: `.jpg` vor `.png`. Details:
-    `docs/higgsfield-integration.md`.
-- **Noch offen / naechster sinnvoller Schritt:**
-  1. *Die dritte Chronik:* restliche Kapitelbilder erzeugen (Web-UI-
-     Moodboard-Workflow oder CLI ohne Moodboard); Cover ablegen;
-     EPUB-Export.
-  2. Optional: Dashboard neu starten nach Frontend-/API-Aenderungen;
-     uncommitted Tool-/Buch-Aenderungen committen (nur auf Wunsch).
-  3. *Geheime Geschichte:* Legacy-DE-Monolithe quarantäneieren;
-     Kapitel 006 abschnittsweise neu (stil-04); optional PR.
+  Buch-Setup: `/books/:bookId/setup`; Website-Verwaltung: `/website`.
+- **Motivatier-Regal** (`webpage/`): opt-in via `export.yaml` → `website.enabled`;
+  Generator `tools/build_shelf_website.py`; Dashboard-Jobs + Buch-Settings.
+  Preview: `tools/preview_webpage.py` / `Dev-Start-Webpage.cmd`.
+- **Prompt-Generator:** `style_prompts.py` ohne Lede-/Struktur-Hintertuer;
+  Glossar nur `source -> target` (`name_registry`); Style-Dateien = Embed-
+  Profile. `stil-04-original-geheim.md` = Interlinear/Edition (Mongolen).
+- **Geheime Geschichte der Mongolen** (auf `main`): Quelle `ja`→`de`,
+  `structure.mode: scenes`, ~317 Abschnitte `scene-NN.md`, Import
+  `tools/import_geheime_geschichte.py`. Legacy-DE-Monolithe und abschnittsweise
+  Neuuebersetzung 006 (stil-04) noch offen. Feature-Branch-Inhalt wurde
+  2026-07-28 per Fast-Forward nach `main` gemerged.
+- **Die dritte Chronik** (auf `main`): DE-Original; Import
+  `tools/import_die_dritte_chronik.py`; Cover vorhanden; restliche
+  Kapitelbilder / EPUB-Feinschliff offen.
+- **Higgsfield / Bilder:** `config/higgsfield_models.yaml`, Dashboard-Dropdown,
+  Asset-Optimierung `optimize_asset_images.py`. Web-UI-Moodboards nur manuell.
+  Details: `docs/higgsfield-integration.md`.
+- **Noch offen (Prioritaet):** siehe `docs/HANDOVER.md` – Mongolen Legacy-DE /
+  stil-04 Kap. 006; Chronik-Bilder; Regal Amazon-URLs / Deploy; optional
+  Mint-GLBs.

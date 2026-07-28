@@ -14,6 +14,10 @@ FRONTEND_ROOT = REPO_ROOT / "webapp" / "frontend"
 FRONTEND_DIST = FRONTEND_ROOT / "dist"
 
 
+def npm_command() -> str:
+    return "npm.cmd" if sys.platform.startswith("win") else "npm"
+
+
 def run(command: list[str], cwd: Path) -> None:
     print(f"$ {' '.join(command)}", flush=True)
     subprocess.run(command, cwd=cwd, check=True)
@@ -34,10 +38,11 @@ def ensure_frontend_build(force: bool) -> None:
     if not FRONTEND_ROOT.exists():
         raise SystemExit(f"Frontend-Verzeichnis fehlt: {FRONTEND_ROOT}")
     node_modules = FRONTEND_ROOT / "node_modules"
+    npm = npm_command()
     if not node_modules.exists():
         print("node_modules fehlt; fuehre npm install aus.", flush=True)
-        run(["npm", "install"], FRONTEND_ROOT)
-    run(["npm", "run", "build"], FRONTEND_ROOT)
+        run([npm, "install"], FRONTEND_ROOT)
+    run([npm, "run", "build"], FRONTEND_ROOT)
 
 
 def main() -> int:

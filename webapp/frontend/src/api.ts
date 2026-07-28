@@ -6,6 +6,8 @@ import type {
   BookSettingsSaveResponse,
   IllustrationSettingSaveResponse,
   BooksResponse,
+  BuildShelfWebsiteRequest,
+  BuildWebpageDistRequest,
   ChaptersResponse,
   ExportInfoResponse,
   ExportJobRequest,
@@ -26,7 +28,9 @@ import type {
   ReviewJobRequest,
   SetupResponse,
   StyleTestResponse,
-  TranslateBatchRequest
+  TranslateBatchRequest,
+  WebsiteBooksResponse,
+  WebsiteSettings
 } from "./types";
 
 async function requestJson<T>(url: string, options?: RequestInit): Promise<T> {
@@ -87,6 +91,25 @@ export function saveIllustrationSetting(
       body: JSON.stringify({ illustration_setting: illustrationSetting })
     }
   );
+}
+
+export function getBookWebsite(bookId: string): Promise<WebsiteSettings> {
+  return requestJson<WebsiteSettings>(`/api/books/${encodeURIComponent(bookId)}/website`);
+}
+
+export function saveBookWebsite(
+  bookId: string,
+  settings: { enabled: boolean; amazon_url: string; sort_order: number | null }
+): Promise<WebsiteSettings> {
+  return requestJson<WebsiteSettings>(`/api/books/${encodeURIComponent(bookId)}/website`, {
+    method: "PUT",
+    body: JSON.stringify(settings)
+  });
+}
+
+export function getWebsiteBooks(enabledOnly = false): Promise<WebsiteBooksResponse> {
+  const params = enabledOnly ? "?enabled_only=true" : "";
+  return requestJson<WebsiteBooksResponse>(`/api/website/books${params}`);
 }
 
 export function getReviewArtifacts(bookId: string, style: string): Promise<ReviewArtifactsResponse> {
@@ -155,7 +178,7 @@ export function startTranslateBatchJob(payload: TranslateBatchRequest): Promise<
   });
 }
 
-export function planAction(payload: TranslateBatchRequest | ReviewJobRequest | ReviewFixRequest | ExportJobRequest | IllustrationBatchRequest | OptimizeAssetsRequest | InitBookRequest | ExtractChaptersRequest): Promise<ActionPlanResponse> {
+export function planAction(payload: TranslateBatchRequest | ReviewJobRequest | ReviewFixRequest | ExportJobRequest | IllustrationBatchRequest | OptimizeAssetsRequest | InitBookRequest | ExtractChaptersRequest | BuildShelfWebsiteRequest | BuildWebpageDistRequest): Promise<ActionPlanResponse> {
   return requestJson<ActionPlanResponse>("/api/actions/plan", {
     method: "POST",
     body: JSON.stringify(payload)
@@ -197,7 +220,21 @@ export function startOptimizeAssetsJob(payload: OptimizeAssetsRequest): Promise<
   });
 }
 
-export function startActionJob(payload: InitBookRequest | ExtractChaptersRequest): Promise<JobStartResponse> {
+export function startActionJob(payload: InitBookRequest | ExtractChaptersRequest | BuildShelfWebsiteRequest | BuildWebpageDistRequest): Promise<JobStartResponse> {
+  return requestJson<JobStartResponse>("/api/jobs", {
+    method: "POST",
+    body: JSON.stringify(payload)
+  });
+}
+
+export function startBuildShelfWebsiteJob(payload: BuildShelfWebsiteRequest = { action: "build_shelf_website" }): Promise<JobStartResponse> {
+  return requestJson<JobStartResponse>("/api/jobs", {
+    method: "POST",
+    body: JSON.stringify(payload)
+  });
+}
+
+export function startBuildWebpageDistJob(payload: BuildWebpageDistRequest = { action: "build_webpage_dist" }): Promise<JobStartResponse> {
   return requestJson<JobStartResponse>("/api/jobs", {
     method: "POST",
     body: JSON.stringify(payload)

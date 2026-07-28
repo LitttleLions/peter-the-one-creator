@@ -109,5 +109,10 @@ book:
     Motivatier schreibt unter einem Verlagsnamen der Motivatier Hermann
     Stiftung. Genauere Angaben zum Autor folgen.
   cover:
-    mode: placeholder
-    image_path: ''
+    mode: image
+    image_path: assets/covers/cover.jpg
+
+website:
+  enabled: true
+  amazon_url: ''
+  sort_order: 60

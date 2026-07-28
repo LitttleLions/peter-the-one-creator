@@ -149,3 +149,7 @@ book:
   cover:
     mode: image
     image_path: assets/covers/peteri.png
+website:
+  enabled: true
+  amazon_url: ''
+  sort_order: 10

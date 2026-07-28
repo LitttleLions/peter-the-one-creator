@@ -132,6 +132,42 @@ export type ExtractChaptersRequest = {
   book_id: string;
 };
 
+export type BuildShelfWebsiteRequest = {
+  action: "build_shelf_website";
+};
+
+export type BuildWebpageDistRequest = {
+  action: "build_webpage_dist";
+};
+
+export type WebsiteSettings = {
+  book_id: string;
+  enabled: boolean;
+  amazon_url: string;
+  sort_order: number | null;
+  export_path?: string;
+  exists?: boolean;
+  saved?: boolean;
+};
+
+export type WebsiteBookRow = {
+  id: string;
+  title?: string;
+  author?: string;
+  enabled: boolean;
+  amazon_url: string;
+  has_amazon: boolean;
+  sort_order: number | null;
+  has_cover: boolean;
+  cover_path?: string | null;
+  export_path?: string;
+};
+
+export type WebsiteBooksResponse = {
+  books: WebsiteBookRow[];
+  enabled_count: number;
+};
+
 export type ActionPlanResponse = {
   action: string;
   command: string[];

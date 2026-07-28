@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, it, vi } from "vitest";
-import { formatProgress, getBookNames, getLog, getLogs, jobEventsUrl, parseSseJobPayload, planAction, saveBookSettings, startExportJob, startReviewJob, startTranslateBatchJob } from "./api";
+import { formatProgress, getBookNames, getBookWebsite, getLog, getLogs, getWebsiteBooks, jobEventsUrl, parseSseJobPayload, planAction, saveBookSettings, saveBookWebsite, startBuildShelfWebsiteJob, startBuildWebpageDistJob, startExportJob, startReviewJob, startTranslateBatchJob } from "./api";
 
 afterEach(() => {
   vi.restoreAllMocks();
@@ -239,6 +239,79 @@ describe("api helpers", () => {
         body: expect.stringContaining('"illustration_setting":"Mars, painterly literary illustration."')
       })
     );
+  });
+
+  it("loads and saves website settings", async () => {
+    const fetchMock = vi.spyOn(globalThis, "fetch")
+      .mockResolvedValueOnce({
+        ok: true,
+        json: async () => ({
+          book_id: "pharao",
+          enabled: true,
+          amazon_url: "",
+          sort_order: 30
+        })
+      } as Response)
+      .mockResolvedValueOnce({
+        ok: true,
+        json: async () => ({
+          book_id: "pharao",
+          enabled: true,
+          amazon_url: "https://www.amazon.de/dp/x",
+          sort_order: 30,
+          saved: true
+        })
+      } as Response)
+      .mockResolvedValueOnce({
+        ok: true,
+        json: async () => ({
+          books: [{ id: "pharao", enabled: true, amazon_url: "https://www.amazon.de/dp/x", has_amazon: true, sort_order: 30, has_cover: true }],
+          enabled_count: 1
+        })
+      } as Response)
+      .mockResolvedValueOnce({
+        ok: true,
+        json: async () => ({
+          job: { job_id: "job-shelf", status: "running", running: true, progress: { done: null, total: null } },
+          command: ["tools/build_shelf_website.py"],
+          command_text: "tools/build_shelf_website.py"
+        })
+      } as Response)
+      .mockResolvedValueOnce({
+        ok: true,
+        json: async () => ({
+          job: { job_id: "job-dist", status: "running", running: true, progress: { done: null, total: null } },
+          command: ["tools/build_webpage_dist.py"],
+          command_text: "tools/build_webpage_dist.py"
+        })
+      } as Response);
+
+    const website = await getBookWebsite("pharao");
+    const saved = await saveBookWebsite("pharao", {
+      enabled: true,
+      amazon_url: "https://www.amazon.de/dp/x",
+      sort_order: 30
+    });
+    const listed = await getWebsiteBooks(true);
+    const job = await startBuildShelfWebsiteJob();
+    const distJob = await startBuildWebpageDistJob();
+
+    expect(website.enabled).toBe(true);
+    expect(saved.amazon_url).toContain("amazon");
+    expect(listed.enabled_count).toBe(1);
+    expect(job.job.job_id).toBe("job-shelf");
+    expect(distJob.job.job_id).toBe("job-dist");
+    expect(fetchMock).toHaveBeenNthCalledWith(1, "/api/books/pharao/website", expect.any(Object));
+    expect(fetchMock).toHaveBeenNthCalledWith(2, "/api/books/pharao/website", expect.objectContaining({ method: "PUT" }));
+    expect(fetchMock).toHaveBeenNthCalledWith(3, "/api/website/books?enabled_only=true", expect.any(Object));
+    expect(fetchMock).toHaveBeenNthCalledWith(4, "/api/jobs", expect.objectContaining({
+      method: "POST",
+      body: expect.stringContaining("build_shelf_website")
+    }));
+    expect(fetchMock).toHaveBeenNthCalledWith(5, "/api/jobs", expect.objectContaining({
+      method: "POST",
+      body: expect.stringContaining("build_webpage_dist")
+    }));
   });
 
   it("loads logs and log details", async () => {

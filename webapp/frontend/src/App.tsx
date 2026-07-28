@@ -5,6 +5,7 @@ import {
   Activity,
   BookOpen,
   FileText,
+  Globe,
   Home,
   Image,
   ImageDown,
@@ -24,6 +25,7 @@ import {
   getBooks,
   getBookNames,
   getBookStyles,
+  getBookWebsite,
   getChapters,
   getExportInfo,
   getJob,
@@ -36,13 +38,17 @@ import {
   getReviewArtifacts,
   getSetup,
   getStyleTest,
+  getWebsiteBooks,
   jobEventsUrl,
   planAction,
   parseSseJobPayload,
   saveBookNames,
   saveBookSettings,
   saveIllustrationSetting,
+  saveBookWebsite,
   startActionJob,
+  startBuildShelfWebsiteJob,
+  startBuildWebpageDistJob,
   startExportJob,
   startIllustrationBatchJob,
   startOptimizeAssetsJob,
@@ -52,7 +58,7 @@ import {
   stopJob
 } from "./api";
 import { buildReviewPayload } from "./reviewPayload";
-import type { BookSummary, ChapterRow, ExportJobRequest, ExtractChaptersRequest, IllustrationBatchRequest, InitBookRequest, JobDetail, LogItem, NameRow, OptimizeAssetsRequest, ReviewFixRequest, ReviewJobRequest, TranslateBatchRequest } from "./types";
+import type { BookSummary, BuildShelfWebsiteRequest, BuildWebpageDistRequest, ChapterRow, ExportJobRequest, ExtractChaptersRequest, IllustrationBatchRequest, InitBookRequest, JobDetail, LogItem, NameRow, OptimizeAssetsRequest, ReviewFixRequest, ReviewJobRequest, TranslateBatchRequest, WebsiteSettings } from "./types";
 import type { WorkspaceSettings } from "./types";
 
 const navItems = [
@@ -117,6 +123,7 @@ export function App() {
         }
       />
       <Route path="/setup" element={<SetupRedirect books={books} loading={booksQuery.isLoading} />} />
+      <Route path="/website" element={<WebsiteShell books={books} mobileNavOpen={mobileNavOpen} setMobileNavOpen={setMobileNavOpen} />} />
     </Routes>
   );
 }
@@ -597,6 +604,168 @@ function SetupPage({
   );
 }
 
+function WebsiteShell({
+  books,
+  mobileNavOpen,
+  setMobileNavOpen
+}: {
+  books: BookSummary[];
+  mobileNavOpen: boolean;
+  setMobileNavOpen: (value: boolean) => void;
+}) {
+  const queryClient = useQueryClient();
+  const [selectedJobId, setSelectedJobId] = useState<string | null>(null);
+  const [showAll, setShowAll] = useState(false);
+
+  const websiteQuery = useQuery({
+    queryKey: ["website-books", showAll],
+    queryFn: () => getWebsiteBooks(!showAll)
+  });
+  const jobsQuery = useQuery({
+    queryKey: ["jobs"],
+    queryFn: () => getJobs(12),
+    refetchInterval: JOBS_REFETCH_INTERVAL_MS
+  });
+  const planMutation = useMutation({ mutationFn: planAction });
+  const startCatalogMutation = useMutation({
+    mutationFn: startBuildShelfWebsiteJob,
+    onSuccess: (data) => {
+      setSelectedJobId(data.job.job_id);
+      queryClient.invalidateQueries({ queryKey: ["jobs"] });
+      queryClient.invalidateQueries({ queryKey: ["website-books"] });
+    }
+  });
+  const startDistMutation = useMutation({
+    mutationFn: startBuildWebpageDistJob,
+    onSuccess: (data) => {
+      setSelectedJobId(data.job.job_id);
+      queryClient.invalidateQueries({ queryKey: ["jobs"] });
+    }
+  });
+
+  const catalogPayload: BuildShelfWebsiteRequest = { action: "build_shelf_website" };
+  const distPayload: BuildWebpageDistRequest = { action: "build_webpage_dist" };
+  const rows = websiteQuery.data?.books ?? [];
+  const enabledCount = websiteQuery.data?.enabled_count ?? rows.filter((row) => row.enabled).length;
+  const jobs = jobsQuery.data?.jobs ?? [];
+  const activeBook = books[0];
+  const busy = startCatalogMutation.isPending || startDistMutation.isPending || planMutation.isPending;
+
+  return (
+    <div className="app-shell">
+      <Sidebar books={books} activeBook={activeBook} mobileOpen={mobileNavOpen} onMobileClose={() => setMobileNavOpen(false)} />
+      <main className="main-area">
+        <TopBar activeBook={activeBook} onOpenNav={() => setMobileNavOpen(true)} />
+        <section className="page-stack">
+          <PageHeader
+            title="Website"
+            description="Freigegebene Buecher fuer das Motivatier-Regal. Zuerst Katalog erzeugen, danach den deploybaren Build unter webpage/dist/."
+          />
+          <div className="panel stack-panel">
+            <div className="panel-header">
+              <div>
+                <h2>Freigegebene Buecher</h2>
+                <p>{websiteQuery.isLoading ? "Laden..." : `${enabledCount} freigegeben`}</p>
+              </div>
+              <Globe size={22} />
+            </div>
+
+            <div className="toggle-row">
+              <label>
+                <input type="checkbox" checked={showAll} onChange={(event) => setShowAll(event.target.checked)} />
+                <span>Alle Buecher anzeigen (nicht nur freigegebene)</span>
+              </label>
+            </div>
+
+            {websiteQuery.isError && <div className="error-box">{String(websiteQuery.error.message)}</div>}
+
+            {websiteQuery.isLoading ? (
+              <div className="table-state">Website-Buecher werden geladen...</div>
+            ) : rows.length === 0 ? (
+              <div className="table-state">
+                {showAll ? "Keine Buecher gefunden." : "Noch keine Buecher fuer die Website freigegeben. Freigabe unter Buch-Settings."}
+              </div>
+            ) : (
+              <div className="table-wrap">
+                <table>
+                  <thead>
+                    <tr>
+                      <th>Buch</th>
+                      <th>Freigabe</th>
+                      <th>Cover</th>
+                      <th>Amazon</th>
+                      <th>Sortierung</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {rows.map((row) => (
+                      <tr key={row.id}>
+                        <td>
+                          <strong>{row.title || row.id}</strong>
+                          <div className="brand-subtitle">{row.author || row.id}</div>
+                        </td>
+                        <td>{row.enabled ? "ja" : "nein"}</td>
+                        <td>{row.has_cover ? "vorhanden" : "fehlt"}</td>
+                        <td>{row.has_amazon ? "gesetzt" : "leer"}</td>
+                        <td>{row.sort_order ?? "—"}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            )}
+
+            <div className="panel-header">
+              <div>
+                <h2>Aktionen</h2>
+                <p>
+                  Katalog schreibt <code>webpage/public/</code>. Website-Build erzeugt <code>webpage/dist/</code>.
+                  {" "}Vorschau nicht per <code>file://</code>, sondern <code>Dev-Start-Webpage.cmd</code> bzw.{" "}
+                  <code>python tools/preview_webpage.py</code> → <code>http://127.0.0.1:4173</code>.
+                </p>
+              </div>
+              <RefreshCw size={22} />
+            </div>
+
+            {planMutation.isError && <div className="error-box">{String(planMutation.error.message)}</div>}
+            {startCatalogMutation.isError && <div className="error-box">{String(startCatalogMutation.error.message)}</div>}
+            {startDistMutation.isError && <div className="error-box">{String(startDistMutation.error.message)}</div>}
+
+            <div className="action-row">
+              <button className="button ghost" type="button" disabled={busy} onClick={() => planMutation.mutate(catalogPayload)}>
+                Katalog planen
+              </button>
+              <button className="button primary" type="button" disabled={busy} onClick={() => startCatalogMutation.mutate(catalogPayload)}>
+                Katalog neu bauen
+              </button>
+              <button className="button ghost" type="button" disabled={busy} onClick={() => planMutation.mutate(distPayload)}>
+                Dist planen
+              </button>
+              <button className="button primary" type="button" disabled={busy} onClick={() => startDistMutation.mutate(distPayload)}>
+                Website-Build (dist)
+              </button>
+            </div>
+
+            {planMutation.data && (
+              <div className="command-preview">
+                <span>Geplantes Kommando</span>
+                <pre className="log-tail compact">{planMutation.data.command_text}</pre>
+              </div>
+            )}
+
+            <JobPanel
+              jobs={jobs}
+              loading={jobsQuery.isLoading}
+              selectedJobId={selectedJobId ?? jobs[0]?.job_id ?? null}
+              onSelectJob={setSelectedJobId}
+            />
+          </div>
+        </section>
+      </main>
+    </div>
+  );
+}
+
 function Sidebar({
   books,
   activeBook,
@@ -659,6 +828,10 @@ function Sidebar({
               </NavLink>
             );
           })}
+          <NavLink to="/website" className={({ isActive }) => `nav-item ${isActive ? "active" : ""}`} onClick={onMobileClose}>
+            <Globe size={18} />
+            <span>Website</span>
+          </NavLink>
         </nav>
 
         <div className="sidebar-note">
@@ -3455,6 +3628,26 @@ function SettingsPage({
     enabled: Boolean(book)
   });
   const modelsQuery = useQuery({ queryKey: ["models"], queryFn: getModels });
+  const websiteQuery = useQuery({
+    queryKey: ["website", book?.id],
+    queryFn: () => getBookWebsite(book!.id),
+    enabled: Boolean(book)
+  });
+  const [websiteForm, setWebsiteForm] = useState<{ enabled: boolean; amazon_url: string; sort_order: string }>({
+    enabled: false,
+    amazon_url: "",
+    sort_order: ""
+  });
+  useEffect(() => {
+    if (!websiteQuery.data) {
+      return;
+    }
+    setWebsiteForm({
+      enabled: websiteQuery.data.enabled,
+      amazon_url: websiteQuery.data.amazon_url || "",
+      sort_order: websiteQuery.data.sort_order == null ? "" : String(websiteQuery.data.sort_order)
+    });
+  }, [websiteQuery.data]);
   const saveMutation = useMutation({
     mutationFn: () => saveBookSettings(book!.id, {
       active_style: settings.active_style,
@@ -3466,6 +3659,24 @@ function SettingsPage({
       queryClient.invalidateQueries({ queryKey: ["books"] });
       queryClient.invalidateQueries({ queryKey: ["styles", book?.id] });
       queryClient.invalidateQueries({ queryKey: ["chapters", book?.id] });
+    }
+  });
+  const saveWebsiteMutation = useMutation({
+    mutationFn: () => {
+      const rawSort = websiteForm.sort_order.trim();
+      const sort_order = rawSort === "" ? null : Number(rawSort);
+      if (sort_order !== null && (!Number.isFinite(sort_order) || sort_order < 0)) {
+        return Promise.reject(new Error("Sortierung muss eine Zahl >= 0 sein"));
+      }
+      return saveBookWebsite(book!.id, {
+        enabled: websiteForm.enabled,
+        amazon_url: websiteForm.amazon_url.trim(),
+        sort_order: sort_order === null ? null : Math.trunc(sort_order)
+      });
+    },
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ["website", book?.id] });
+      queryClient.invalidateQueries({ queryKey: ["website-books"] });
     }
   });
   const styleOptions = stylesQuery.data?.styles ?? [];
@@ -3480,7 +3691,7 @@ function SettingsPage({
     <section className="page-stack">
       <PageHeader
         title="Buch-Settings"
-        description="Arbeitskontext fuer dieses Buch. Aenderungen wirken sofort lokal; erst Speichern schreibt Produktionsdefaults in `book.yaml`."
+        description="Arbeitskontext fuer dieses Buch. Aenderungen wirken sofort lokal; erst Speichern schreibt Produktionsdefaults in `book.yaml` bzw. Website-Felder in `export.yaml`."
       />
       <ContextBar book={book} settings={settings} />
       <div className="panel stack-panel">
@@ -3608,11 +3819,95 @@ function SettingsPage({
           <code>{settings.active_style} / {settings.translate_provider}</code>
         </div>
       </div>
+
+      <div className="panel stack-panel">
+        <div className="panel-header">
+          <div>
+            <h2>Website-Freigabe</h2>
+            <p>Opt-in fuer das Motivatier-Regal. Speichern schreibt nur den <code>website:</code>-Block in <code>export.yaml</code>.</p>
+          </div>
+          <Globe size={22} />
+        </div>
+
+        {websiteQuery.isLoading && <div className="table-state">Website-Einstellungen werden geladen...</div>}
+        {websiteQuery.isError && <div className="error-box">{String(websiteQuery.error.message)}</div>}
+
+        <div className="toggle-row">
+          <label>
+            <input
+              type="checkbox"
+              checked={websiteForm.enabled}
+              onChange={(event) => setWebsiteForm((current) => ({ ...current, enabled: event.target.checked }))}
+            />
+            <span>Freigabe fuer Website</span>
+          </label>
+        </div>
+
+        <div className="form-grid">
+          <label className="form-field wide">
+            <span>Amazon-URL</span>
+            <input
+              type="url"
+              placeholder="https://..."
+              value={websiteForm.amazon_url}
+              onChange={(event) => setWebsiteForm((current) => ({ ...current, amazon_url: event.target.value }))}
+            />
+          </label>
+          <label className="form-field">
+            <span>Sortierung</span>
+            <input
+              type="number"
+              min="0"
+              step="1"
+              placeholder="z. B. 10"
+              value={websiteForm.sort_order}
+              onChange={(event) => setWebsiteForm((current) => ({ ...current, sort_order: event.target.value }))}
+            />
+          </label>
+        </div>
+
+        {saveWebsiteMutation.isError && <div className="error-box">{String(saveWebsiteMutation.error.message)}</div>}
+        {saveWebsiteMutation.isSuccess && (
+          <div className="success-box">
+            Gespeichert in `books/{book.id}/export.yaml`: Website-Freigabe, Amazon-URL und Sortierung.
+          </div>
+        )}
+
+        <div className="action-row">
+          <button
+            className="button primary"
+            type="button"
+            disabled={saveWebsiteMutation.isPending || websiteQuery.isLoading}
+            onClick={() => saveWebsiteMutation.mutate()}
+          >
+            <Globe size={16} />
+            In export.yaml speichern
+          </button>
+          <button
+            className="button secondary"
+            type="button"
+            disabled={!websiteQuery.data}
+            onClick={() => {
+              const data = websiteQuery.data as WebsiteSettings;
+              setWebsiteForm({
+                enabled: data.enabled,
+                amazon_url: data.amazon_url || "",
+                sort_order: data.sort_order == null ? "" : String(data.sort_order)
+              });
+            }}
+          >
+            <RefreshCw size={16} />
+            Zuruecksetzen
+          </button>
+          <code>{websiteForm.enabled ? "freigegeben" : "nicht freigegeben"}</code>
+        </div>
+      </div>
+
       <div className="empty-state">
         <Settings size={28} />
         <div>
           <h2>Wo diese Settings wirken</h2>
-          <p>Uebersicht, Uebersetzen, Review und Export verwenden diese Werte als aktiven React-Arbeitskontext. Der Speichern-Button schreibt nur buchnahe Produktionsdefaults in `book.yaml`; Review- und Export-Auswahl bleiben lokale UI-Voreinstellungen.</p>
+          <p>Uebersicht, Uebersetzen, Review und Export verwenden den Arbeitskontext lokal. Der book.yaml-Speichern-Button schreibt Produktionsdefaults; Website-Felder gehoeren in export.yaml und steuern die Seite Website / den Shelf-Katalog.</p>
         </div>
       </div>
     </section>

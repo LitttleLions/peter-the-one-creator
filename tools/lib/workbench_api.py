@@ -17,7 +17,7 @@ from lib.output_paths import (
     parse_scene_number,
 )
 from lib.translation_chunks import scene_chunks, should_chunk
-from lib.workbench_state import chapter_rows, load_style_profiles, scene_counts
+from lib.workbench_state import chapter_rows, load_books, load_style_profiles, scene_counts
 
 
 @dataclass(frozen=True)
@@ -295,6 +295,130 @@ def build_export_command(options: ExportOptions) -> list[str]:
     if options.allow_partial:
         cmd.append("--allow-partial")
     return cmd
+
+
+def build_shelf_website_command() -> list[str]:
+    return ["tools/build_shelf_website.py"]
+
+
+def build_webpage_dist_command() -> list[str]:
+    return ["tools/build_webpage_dist.py"]
+
+
+def preview_webpage_command() -> list[str]:
+    return ["tools/preview_webpage.py"]
+
+
+def load_website_settings(book: dict[str, Any], repo_root: Path) -> dict[str, Any]:
+    path = repo_root / str(book.get("export_config") or "")
+    empty = {
+        "enabled": False,
+        "amazon_url": "",
+        "sort_order": None,
+        "export_path": str(book.get("export_config") or ""),
+        "exists": False,
+        "error": None,
+    }
+    if not path.exists() or not path.is_file():
+        return empty
+    try:
+        data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+    except yaml.YAMLError as exc:
+        try:
+            export_path = path.resolve().relative_to(repo_root.resolve()).as_posix()
+        except ValueError:
+            export_path = str(path)
+        return {
+            **empty,
+            "export_path": export_path,
+            "exists": True,
+            "error": f"export.yaml ungueltig: {exc}",
+        }
+    website = data.get("website") or {}
+    sort_order = website.get("sort_order")
+    return {
+        "enabled": bool(website.get("enabled")),
+        "amazon_url": str(website.get("amazon_url") or "").strip(),
+        "sort_order": int(sort_order) if sort_order is not None and str(sort_order).strip() != "" else None,
+        "export_path": path.resolve().relative_to(repo_root.resolve()).as_posix(),
+        "exists": True,
+        "error": None,
+    }
+
+
+def website_cover_status(book: dict[str, Any], repo_root: Path) -> dict[str, Any]:
+    book_root = repo_root / str(book.get("book_root") or "")
+    covers_dir = book_root / "assets" / "covers"
+    cover_path: Path | None = None
+    if covers_dir.is_dir():
+        for path in sorted(covers_dir.iterdir()):
+            if path.is_file() and path.suffix.lower() in IMAGE_EXTENSIONS:
+                cover_path = path
+                break
+    if cover_path is None:
+        try:
+            export_meta = load_export_meta(book, repo_root)
+        except yaml.YAMLError:
+            export_meta = {}
+        image_path = str((export_meta.get("cover") or {}).get("image_path") or "").strip()
+        if image_path:
+            candidate = book_root / image_path
+            if candidate.is_file():
+                cover_path = candidate
+    if cover_path is None:
+        return {"has_cover": False, "cover_path": None}
+    try:
+        rel = cover_path.resolve().relative_to(repo_root.resolve()).as_posix()
+    except ValueError:
+        rel = str(cover_path)
+    return {"has_cover": True, "cover_path": rel}
+
+
+def list_website_books(repo_root: Path, *, enabled_only: bool = False) -> list[dict[str, Any]]:
+    rows: list[dict[str, Any]] = []
+    for book in load_books(repo_root):
+        try:
+            website = load_website_settings(book, repo_root)
+        except Exception as exc:  # noqa: BLE001 - keep Website page available
+            rows.append({
+                "id": book.get("id"),
+                "title": book.get("title"),
+                "author": book.get("author"),
+                "enabled": False,
+                "amazon_url": "",
+                "has_amazon": False,
+                "sort_order": None,
+                "has_cover": False,
+                "cover_path": None,
+                "export_path": str(book.get("export_config") or ""),
+                "error": str(exc),
+            })
+            continue
+        if enabled_only and not website["enabled"]:
+            continue
+        cover = website_cover_status(book, repo_root)
+        amazon_url = str(website.get("amazon_url") or "").strip()
+        rows.append({
+            "id": book.get("id"),
+            "title": book.get("title"),
+            "author": book.get("author"),
+            "enabled": website["enabled"],
+            "amazon_url": amazon_url,
+            "has_amazon": bool(amazon_url),
+            "sort_order": website.get("sort_order"),
+            "has_cover": cover["has_cover"],
+            "cover_path": cover.get("cover_path"),
+            "export_path": website.get("export_path"),
+            "error": website.get("error"),
+        })
+    rows.sort(
+        key=lambda item: (
+            item.get("sort_order") is None,
+            item.get("sort_order") if item.get("sort_order") is not None else 10_000,
+            str(item.get("title") or "").casefold(),
+        )
+    )
+    return rows
 
 
 def normalize_aspect_ratio_option(value: str | None) -> str | None:

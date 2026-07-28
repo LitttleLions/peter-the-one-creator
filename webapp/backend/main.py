@@ -51,12 +51,16 @@ from lib.workbench_api import (  # noqa: E402
     build_optimize_assets_command,
     build_review_command,
     build_review_fixes_command,
+    build_shelf_website_command,
+    build_webpage_dist_command,
     build_translate_batch_command,
     build_translate_chapter_command,
     editable_name_rows,
     export_context,
     guess_title_author,
     latest_export_files,
+    list_website_books,
+    load_website_settings,
     names_path,
     normalize_name_rows,
     style_options,
@@ -127,6 +131,12 @@ class BookSettingsUpdateRequest(BaseModel):
 
 class IllustrationSettingUpdateRequest(BaseModel):
     illustration_setting: str
+
+
+class WebsiteSettingsUpdateRequest(BaseModel):
+    enabled: bool
+    amazon_url: str = ""
+    sort_order: int | None = None
 
 
 def _global_style_options(repo_root: Path) -> list[dict[str, str]]:
@@ -292,7 +302,9 @@ PLAIN_YAML_SCALAR_RE = re.compile(r"^[A-Za-z0-9_./:-]+$")
 YAML_BOOLEAN_LIKE = {"true", "false", "yes", "no", "on", "off", "null", "none", "~"}
 
 
-def _yaml_scalar(value: str | int) -> str:
+def _yaml_scalar(value: str | int | bool) -> str:
+    if isinstance(value, bool):
+        return "true" if value else "false"
     if isinstance(value, int):
         return str(value)
     text = str(value)
@@ -378,7 +390,7 @@ def _find_top_level_block(lines: list[str], key: str) -> tuple[int, int] | None:
     return start, end
 
 
-def _set_nested_scalar(lines: list[str], block_key: str, key: str, value: str | int) -> None:
+def _set_nested_scalar(lines: list[str], block_key: str, key: str, value: str | int | bool) -> None:
     block = _find_top_level_block(lines, block_key)
     if block is None:
         if lines and lines[-1].strip():
@@ -417,6 +429,28 @@ def _write_book_settings_preserving_yaml(
         _set_nested_scalar(lines, "ai", "model", model.strip())
     if chunk_char_limit is not None:
         _set_nested_scalar(lines, "ai", "chunk_char_limit", int(chunk_char_limit))
+    path.write_text(newline.join(lines) + (newline if had_trailing_newline else ""), encoding="utf-8")
+
+
+def _write_website_settings_preserving_yaml(
+    path: Path,
+    *,
+    enabled: bool,
+    amazon_url: str,
+    sort_order: int | None,
+) -> None:
+    if path.exists():
+        text = path.read_text(encoding="utf-8")
+    else:
+        text = ""
+        path.parent.mkdir(parents=True, exist_ok=True)
+    newline = "\r\n" if "\r\n" in text else "\n"
+    had_trailing_newline = text.endswith(("\n", "\r\n")) if text else True
+    lines = text.splitlines()
+    _set_nested_scalar(lines, "website", "enabled", enabled)
+    _set_nested_scalar(lines, "website", "amazon_url", amazon_url.strip())
+    if sort_order is not None:
+        _set_nested_scalar(lines, "website", "sort_order", int(sort_order))
     path.write_text(newline.join(lines) + (newline if had_trailing_newline else ""), encoding="utf-8")
 
 
@@ -557,6 +591,8 @@ def _build_action_command(plan: ActionPlanRequest, repo_root: Path) -> list[str]
     action = plan.action.strip()
     allowed = [
         "assemble_chapter",
+        "build_shelf_website",
+        "build_webpage_dist",
         "export",
         "extract_chapters",
         "extract_scenes",
@@ -573,8 +609,12 @@ def _build_action_command(plan: ActionPlanRequest, repo_root: Path) -> list[str]
             status_code=400,
             detail=f"Unbekannte Action: {action}. Erlaubt: {', '.join(allowed)}",
         )
-    if action != "init_book":
+    if action not in {"init_book", "build_shelf_website", "build_webpage_dist"}:
         _load_book_or_404(repo_root, _required(plan.book_id, "book_id"))
+    if action == "build_shelf_website":
+        return build_shelf_website_command()
+    if action == "build_webpage_dist":
+        return build_webpage_dist_command()
     if action == "extract_chapters":
         return ["tools/extract_chapters.py", "--book", _required(plan.book_id, "book_id")]
     if action == "extract_scenes":
@@ -769,12 +809,27 @@ def _background_job_metadata(plan: ActionPlanRequest) -> tuple[str, str, str, st
             "setup",
             "init_book",
         )
+    if action == "build_shelf_website":
+        return (
+            "website",
+            "",
+            "build",
+            "build_shelf_website",
+        )
+    if action == "build_webpage_dist":
+        return (
+            "website",
+            "",
+            "build",
+            "build_webpage_dist",
+        )
     raise HTTPException(
         status_code=400,
         detail=(
             "Als Hintergrundjob sind aktuell nur review, translate_batch, "
             "translate_chapter, export, illustration_batch, optimize_assets, "
-            "review_fixes, extract_chapters und init_book erlaubt."
+            "review_fixes, extract_chapters, init_book, build_shelf_website und "
+            "build_webpage_dist erlaubt."
         ),
     )
 
@@ -1007,6 +1062,50 @@ def create_app(repo_root: Path = REPO_ROOT) -> FastAPI:
             "illustration_setting": str(saved_book.get("illustration_setting") or "").strip(),
             "summary": jsonable(_book_summary(saved_book, root), root),
         }
+
+    @app.get("/api/books/{book_id}/website")
+    def api_book_website_get(book_id: str, request: Request) -> dict[str, Any]:
+        root = _repo_root(request)
+        book = _load_book_or_404(root, book_id)
+        website = load_website_settings(book, root)
+        return jsonable({"book_id": book_id, **website}, root)
+
+    @app.put("/api/books/{book_id}/website")
+    def api_book_website_update(book_id: str, payload: WebsiteSettingsUpdateRequest, request: Request) -> dict[str, Any]:
+        root = _repo_root(request)
+        book = _load_book_or_404(root, book_id)
+        amazon_url = payload.amazon_url.strip()
+        if amazon_url and not (
+            amazon_url.startswith("https://")
+            or amazon_url.startswith("http://")
+        ):
+            raise HTTPException(status_code=400, detail="amazon_url muss mit http:// oder https:// beginnen")
+        if payload.sort_order is not None and payload.sort_order < 0:
+            raise HTTPException(status_code=400, detail="sort_order muss >= 0 sein")
+
+        project = book_project(root, book_id)
+        export_path = project.export_config_path()
+        _write_website_settings_preserving_yaml(
+            export_path,
+            enabled=payload.enabled,
+            amazon_url=amazon_url,
+            sort_order=payload.sort_order,
+        )
+        website = load_website_settings(book, root)
+        return jsonable({
+            "book_id": book_id,
+            "saved": True,
+            **website,
+        }, root)
+
+    @app.get("/api/website/books")
+    def api_website_books(
+        request: Request,
+        enabled_only: bool = Query(default=False),
+    ) -> dict[str, Any]:
+        root = _repo_root(request)
+        books = list_website_books(root, enabled_only=enabled_only)
+        return jsonable({"books": books, "enabled_count": sum(1 for row in books if row.get("enabled"))}, root)
 
     @app.get("/api/books/{book_id}/reviews/{style}")
     def api_book_review(book_id: str, style: str, request: Request) -> dict[str, Any]:

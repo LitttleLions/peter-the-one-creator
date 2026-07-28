@@ -101,5 +101,9 @@ book:
 
     Alle Rechte an dieser Ausgabe vorbehalten.
   cover:
-    mode: placeholder
-    image_path: ''
+    mode: image
+    image_path: assets/covers/cover.jpg
+website:
+  enabled: true
+  amazon_url: ''
+  sort_order: 50

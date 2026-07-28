@@ -83,3 +83,7 @@ book:
   cover:
     mode: image
     image_path: assets/covers/annakarenina.png
+website:
+  enabled: true
+  amazon_url: ''
+  sort_order: 20

@@ -56,15 +56,15 @@ book:
     deutsche Ausgabe wurde nach dem russischen gemeinfreien Original erstellt,
     KI-gestützt übersetzt und redaktionell geprüft.
   summary: |
-    „Das Leben Arsenjews" ist ein Roman der Erinnerung. Aus der Rückschau entsteht das Bild einer Kindheit und Jugend in der russischen Provinz, geprägt von Landschaften, Familienbindungen, ersten Erschütterungen, literarischem Erwachen und der allmählichen Erfahrung von Vergänglichkeit.
+    „Das Leben Arsenjews“ ist ein Roman der Erinnerung. Aus der Rückschau entsteht das Bild einer Kindheit und Jugend in der russischen Provinz, geprägt von Landschaften, Familienbindungen, ersten Erschütterungen, literarischem Erwachen und der allmählichen Erfahrung von Vergänglichkeit.
 
     Bunin erzählt nicht in der Form einer äußeren Chronik, sondern aus der Bewegung des Bewusstseins. Gerüche, Licht, Jahreszeiten, Räume, Stimmen und einzelne Begegnungen werden zu Trägern einer inneren Geschichte. Das Vergangene erscheint dabei nicht als bloßer Besitz der Erinnerung, sondern als etwas Unwiederbringliches, das gerade im Erzählen seine schmerzliche Gegenwart behält.
 
-    Der Roman gehört zu den zentralen Prosawerken Bunins. In ihm verbindet sich die Genauigkeit realistischer Beobachtung mit einer elegischen, konzentrierten Sprache. „Das Leben Arsenjews" ist ein Buch über Herkunft und Verlust, über Jugend und erstes Begehren, aber auch über die Frage, was von einem Leben bleibt, wenn die Welt, aus der es hervorgegangen ist, unwiderruflich verschwunden ist.
+    Der Roman gehört zu den zentralen Prosawerken Bunins. In ihm verbindet sich die Genauigkeit realistischer Beobachtung mit einer elegischen, konzentrierten Sprache. „Das Leben Arsenjews“ ist ein Buch über Herkunft und Verlust, über Jugend und erstes Begehren, aber auch über die Frage, was von einem Leben bleibt, wenn die Welt, aus der es hervorgegangen ist, unwiderruflich verschwunden ist.
   author_bio: |
     Iwan Bunin, geboren 1870 in Woronesch und gestorben 1953 in Paris, war ein russischer Schriftsteller, Dichter und Erzähler. Er stammte aus einer verarmten Adelsfamilie und wurde früh durch die Landschaften, Lebensformen und sozialen Umbrüche des alten Russland geprägt. Nach der Revolution verließ er Russland und lebte im Exil, vor allem in Frankreich.
 
-    Bunin gilt als einer der großen Stilisten der russischen Prosa. Zu seinen wichtigen Werken gehören Erzählungen und Romane wie „Das Dorf", „Der Herr aus San Francisco", „Mitjas Liebe", „Dunkle Alleen" und „Das Leben Arsenjews". 1933 erhielt er als erster russischer Autor den Literaturnobelpreis.
+    Bunin gilt als einer der großen Stilisten der russischen Prosa. Zu seinen wichtigen Werken gehören Erzählungen und Romane wie „Das Dorf“, „Der Herr aus San Francisco“, „Mitjas Liebe“, „Dunkle Alleen“ und „Das Leben Arsenjews“. 1933 erhielt er als erster russischer Autor den Literaturnobelpreis.
 
     „Жизнь Арсеньева" nimmt in Bunins Werk eine besondere Stellung ein. Der Roman ist keine einfache Autobiographie, sondern eine literarisch geformte Erinnerung an Jugend, Herkunft, Liebe und den Verlust einer historischen Welt. Gerade dadurch wurde er zu einem der bedeutenden russischen Prosawerke des Exils.
   title_page_extra:
@@ -101,5 +101,10 @@ book:
 
     Alle Rechte an dieser Ausgabe vorbehalten.
   cover:
-    mode: placeholder
-    image_path: ''
+    mode: image
+    image_path: assets/covers/cover.jpg
+
+website:
+  enabled: true
+  amazon_url: ''
+  sort_order: 20

@@ -21,13 +21,16 @@ from lib.workbench_api import (  # noqa: E402
     build_init_book_command,
     build_review_command,
     build_review_fixes_command,
+    build_shelf_website_command,
     build_translate_batch_command,
     build_translate_chapter_command,
     count_export_illustrations,
     editable_name_rows,
     export_context,
     guess_title_author,
+    list_website_books,
     load_export_meta,
+    load_website_settings,
     normalize_name_rows,
     review_context,
     translation_context,
@@ -121,6 +124,51 @@ class WorkbenchApiTests(unittest.TestCase):
         self.assertIn("--chapter", export_cmd)
         self.assertIn("--allow-partial", export_cmd)
         self.assertEqual(fix_cmd[-1], "--stage")
+        self.assertEqual(build_shelf_website_command(), ["tools/build_shelf_website.py"])
+
+    def test_load_website_settings_and_list(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            book_root = root / "books" / "sample"
+            book_root.mkdir(parents=True)
+            (book_root / "book.yaml").write_text(
+                "\n".join([
+                    "id: sample",
+                    "title: Sample",
+                    "author: Author",
+                    "source_path: source/x.rtf",
+                    "source_lang: ru",
+                    "target_lang: de",
+                    "style_mode: stil",
+                ]),
+                encoding="utf-8",
+            )
+            (book_root / "export.yaml").write_text(
+                "\n".join([
+                    "book:",
+                    "  title: Sample",
+                    "  author: Author",
+                    "website:",
+                    "  enabled: true",
+                    "  amazon_url: https://example.com",
+                    "  sort_order: 3",
+                ]),
+                encoding="utf-8",
+            )
+            covers = book_root / "assets" / "covers"
+            covers.mkdir(parents=True)
+            (covers / "cover.jpg").write_bytes(b"jpg")
+
+            from lib.workbench_state import book_by_id
+
+            book = book_by_id("sample", root)
+            website = load_website_settings(book, root)
+            self.assertTrue(website["enabled"])
+            self.assertEqual(website["sort_order"], 3)
+            rows = list_website_books(root, enabled_only=True)
+            self.assertEqual(len(rows), 1)
+            self.assertTrue(rows[0]["has_cover"])
+            self.assertTrue(rows[0]["has_amazon"])
 
     def test_build_illustration_batch_normalizes_aspect_ratio(self) -> None:
         cmd = build_illustration_batch_command(

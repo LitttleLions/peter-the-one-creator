@@ -144,3 +144,8 @@ defaults:
     scene_images: false
     chapter_page_break_after_image: true
     scene_page_break_after_image: false
+
+website:
+  enabled: true
+  amazon_url: ''
+  sort_order: 70

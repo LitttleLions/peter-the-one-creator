@@ -128,4 +128,8 @@ book:
     Alle Rechte an dieser Ausgabe vorbehalten.
   cover:
     mode: image
-    image_path: assets/covers/cover.png
+    image_path: assets/covers/cover.jpg
+website:
+  enabled: true
+  amazon_url: ''
+  sort_order: 30

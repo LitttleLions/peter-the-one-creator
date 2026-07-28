@@ -481,6 +481,95 @@ class BackendApiTests(unittest.TestCase):
         self.assertIn("--allow-partial", body["command"])
         self.assertEqual(start_job.call_args.kwargs["kind"], "export")
 
+    def test_job_start_allows_build_shelf_website(self) -> None:
+        with patch("webapp.backend.main.dashboard_jobs.start_job") as start_job:
+            start_job.return_value = {
+                "job_id": "job-shelf",
+                "status": "completed",
+                "book_id": "website",
+                "style": "",
+                "provider": "build",
+                "kind": "build_shelf_website",
+                "started_at": "2026-06-23T12:00:00",
+                "log_path": "var/dashboard-jobs/job-shelf.log",
+            }
+
+            response = self.client.post(
+                "/api/jobs",
+                json={"action": "build_shelf_website"},
+            )
+
+        self.assertEqual(response.status_code, 200)
+        body = response.json()
+        self.assertEqual(body["job"]["job_id"], "job-shelf")
+        self.assertEqual(body["command"], ["tools/build_shelf_website.py"])
+        self.assertEqual(start_job.call_args.kwargs["kind"], "build_shelf_website")
+        self.assertEqual(start_job.call_args.kwargs["book_id"], "website")
+
+    def test_website_settings_round_trip(self) -> None:
+        export_path = self.repo_root / "books" / "sample" / "export.yaml"
+        export_path.write_text(
+            "\n".join([
+                "book:",
+                "  title: Sample Book",
+                "  author: Author",
+                "website:",
+                "  enabled: false",
+                "  amazon_url: ''",
+                "  sort_order: 5",
+                "",
+            ]),
+            encoding="utf-8",
+        )
+        covers = self.repo_root / "books" / "sample" / "assets" / "covers"
+        covers.mkdir(parents=True)
+        (covers / "cover.png").write_bytes(b"png")
+
+        listed = self.client.get("/api/website/books")
+        self.assertEqual(listed.status_code, 200)
+        listed_body = listed.json()
+        self.assertEqual(listed_body["enabled_count"], 0)
+        self.assertEqual(listed_body["books"][0]["id"], "sample")
+        self.assertFalse(listed_body["books"][0]["enabled"])
+        self.assertTrue(listed_body["books"][0]["has_cover"])
+
+        got = self.client.get("/api/books/sample/website")
+        self.assertEqual(got.status_code, 200)
+        self.assertFalse(got.json()["enabled"])
+        self.assertEqual(got.json()["sort_order"], 5)
+
+        saved = self.client.put(
+            "/api/books/sample/website",
+            json={
+                "enabled": True,
+                "amazon_url": "https://www.amazon.de/dp/example",
+                "sort_order": 12,
+            },
+        )
+        self.assertEqual(saved.status_code, 200)
+        self.assertTrue(saved.json()["enabled"])
+        self.assertEqual(saved.json()["amazon_url"], "https://www.amazon.de/dp/example")
+        self.assertEqual(saved.json()["sort_order"], 12)
+
+        text = export_path.read_text(encoding="utf-8")
+        self.assertIn("enabled: true", text)
+        self.assertIn("amazon_url: https://www.amazon.de/dp/example", text)
+        self.assertIn("sort_order: 12", text)
+        self.assertIn("book:", text)
+
+        enabled_only = self.client.get("/api/website/books?enabled_only=true")
+        self.assertEqual(enabled_only.status_code, 200)
+        self.assertEqual(enabled_only.json()["enabled_count"], 1)
+        self.assertTrue(enabled_only.json()["books"][0]["has_amazon"])
+
+    def test_website_rejects_bad_amazon_url(self) -> None:
+        response = self.client.put(
+            "/api/books/sample/website",
+            json={"enabled": True, "amazon_url": "not-a-url", "sort_order": 1},
+        )
+        self.assertEqual(response.status_code, 400)
+        self.assertIn("amazon_url", response.json()["detail"])
+
     def test_job_start_rejects_dry_run(self) -> None:
         dry_run = self.client.post(
             "/api/jobs",

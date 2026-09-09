@@ -1,8 +1,9 @@
 # peter-the-one
 
 Python-Werkbank fuer kapitel- und szenenweise literarische Uebersetzung
-(`ru -> de`) mit Style-Profilen, OpenRouter, Prompt-Datei-Modus,
-Workspace-KI-Modus, Streamlit-Dashboard und DOCX-/EPUB-/PDF-Export.
+(`ru -> de`, teils `ja -> de`) mit Style-Profilen, OpenRouter, lokalem Ollama,
+Prompt-Datei-Modus, Workspace-KI-Modus, FastAPI/React-Dashboard,
+Motivatier-Regal-Website und DOCX-/EPUB-/PDF-Export.
 
 Die wichtigste Architekturentscheidung: **Szenen werden einzeln uebersetzt,
 Kapitel und Exporte werden danach per CLI aus Dateien zusammengesetzt.**
@@ -10,12 +11,17 @@ Dadurch werden fertige Kapitel nicht unnoetig erneut durch ein LLM geschickt.
 
 ## Schnellstart Fuer KI Und Menschen
 
-1. Lies `AGENTS.md`, dann diese README.
+1. Lies `AGENTS.md`, dann `docs/HANDOVER.md` (aktueller Stand), dann diese README.
 2. Arbeite immer buchbezogen unter `books/<book-id>/`.
 3. Aendere Originalquellen in `books/<book-id>/source/` und Material in
    `logic/` nicht ohne ausdrueckliche Rueckfrage.
 4. Pruefe den Stand mit `python tools/status.py --book <book-id> summary`.
 5. Produktive Style-Profile liegen in `books/<book-id>/styles/*.md`.
+
+> **Keine Memory Bank:** Dieses Projekt pflegt bewusst keine Cline Memory Bank
+> (`memory-bank/`). Massgeblicher Kontext sind AGENTS.md, README.md sowie die
+> buchlokalen `book.yaml`- und `export.yaml`-Dateien. Der Ordner `memory-bank/`
+> steht in `.gitignore`.
 
 ## Voraussetzungen
 
@@ -29,14 +35,20 @@ pip install -r requirements.txt
 
 | Tool | Zweck | Installation |
 |------|-------|--------------|
-| **Streamlit** (>= 1.36) | Dashboard | Enthalten in `requirements.txt` |
+| **Node.js / npm** | Dashboard-Frontend + Regal-Website | https://nodejs.org/ – unter Windows `npm.cmd` |
 | **Pandoc** (>= 3.0) | EPUB-Export | `winget install --id JohnMacFarlane.Pandoc` oder manuell von https://pandoc.org/installing.html |
 | **Playwright Chromium** | PDF-Export | `python -m playwright install chromium` nach `pip install -r requirements.txt` |
-| **Higgsfield CLI** | Kapitel-/Szenenbilder | `npm install -g @higgsfield/cli`, Details in `docs/higgsfield-integration.md` |
+| **Higgsfield CLI** | Kapitel-/Szenenbilder | `npm install -g @higgsfield/cli`, Details in `docs/higgsfield-integration.md`. **Stand 2026-06-24:** Korrekte Moodboard-Laeufe setzen in der History `params.style_id`; die CLI bietet fuer `text2image_soul_v2` aber keinen `--style_id`-Parameter. `--custom_reference_id` ist dafuer nicht korrekt. |
+| **Ollama** (optional) | Lokale LLM-Inference | https://ollama.ai/ - Modelle: `ollama pull gemma4:latest` (empfohlen), `ollama pull qwen3:8b` (optional) |
+| **Streamlit** (>= 1.36) | Legacy-Dashboard | Enthalten in `requirements.txt` (nicht mehr Standardstart) |
 
 > **Hinweis:** Nach der Pandoc-Installation muss ein neues Terminal gestartet werden,
 > damit der Pfad erkannt wird. Unter Windows liegt Pandoc typischerweise unter
 > `C:\Users\<user>\AppData\Local\Pandoc\pandoc.exe`.
+
+> **Ollama-Info:** Mit lokaler Ollama-Installation können Sie offline übersetzen.
+> Verfügbare Modelle: `ollama list`. Ollama API läuft auf `http://localhost:11434`.
+> Für `gemma4:latest` nutzen Sie: `python tools/translate_chapter.py --book <id> --chapter 001 --provider ollama --model gemma4:latest`
 
 ## Buchpakete
 
@@ -69,18 +81,63 @@ Aktuelle Pakete:
 
 - `books/peter-i-buch-01/`
 - `books/anna-karenina/`
+- `books/pharao/`
+- `books/feuriger-engel/`
+- `books/leben-arsenjews/`
+- `books/aelita/`
+- `books/geheime-geschichte-mongolen/`
+- `books/die-dritte-chronik/`
 
 Alte zentrale Dateien aus der vorherigen Struktur liegen unter
 `config/legacy/`. Neue Tools lesen `books/*/book.yaml`, nicht mehr
-`config/books.yaml`.
+`config/books.yaml`. Aktueller Arbeitsstand: `docs/HANDOVER.md`.
+
+## Quellformate und EPUB-Verarbeitung
+
+`extract_chapters.py` unterstützt drei Quellformate:
+
+| Format | Erkennung | Kapitelerkennung |
+|--------|-----------|------------------|
+| **RTF** | `{\rtf`-Header | Überschriften via `striprtf` + Heading-Patterns |
+| **XHTML/HTML** | `<!doctype html>`, `<html>`, `<?xml>` | `<h3>`-Headings mit `Глава N`-Match |
+| **Plaintext** | Alles andere | Heading-Patterns (`Глава`, `Книга`, `Часть`) |
+
+**EPUB-Quellen müssen zuerst ausgepackt werden**, da EPUB ein ZIP-Container
+ist. Zwei Wege:
+
+1. **Empfohlen: XHTML entpacken** (genaueste Kapitelerkennung):
+   ```bash
+   # EPUB ist ein ZIP – einfach entpacken
+   Expand-Archive -Path "books/feuriger-engel/source/mein-buch.epub" -DestinationPath "books/feuriger-engel/source/_epub/"
+   # Das Haupt-XHTML liegt meist als OEBPS/*.xhtml – nach source/ kopieren
+   Copy-Item "books/feuriger-engel/source/_epub/OEBPS/*.xhtml" "books/feuriger-engel/source/"
+   # In book.yaml auf die XHTML-Datei verweisen
+   ```
+   Die `rtf_parser.py` erkennt XHTML automatisch und parst `<h3>`-Headings
+   als Kapitelüberschriften. Nur Headings mit `Глава N` werden als
+   Kapitelgrenzen gewertet – Unterüberschriften wie `1`, `I`, `II` werden
+   in das aktuelle Kapitel mit aufgenommen.
+
+2. **Pandoc-Konvertierung** (Plaintext, verliert Heading-Struktur):
+   ```bash
+   pandoc --from epub --to plain "quelle.epub" > "quelle.txt"
+   ```
+   Nachteil: Aus `<h3>` werden Fließtextabsätze – die Heading-Patterns
+   müssen allein anhand des Texts matchen, was weniger zuverlässig ist.
 
 ## Befehle
 
 ```bash
 pip install -r requirements.txt
 
-# Dashboard
-streamlit run tools/dashboard.py
+# Dashboard (FastAPI + React)
+python tools/start_dashboard.py
+# oder Dev-Start.cmd / dev.cmd → http://127.0.0.1:8000
+
+# Regal-Website (webpage/, nicht webapp/)
+python tools/build_shelf_website.py
+python tools/preview_webpage.py
+# → http://127.0.0.1:4173
 
 # Status
 python tools/status.py --book anna-karenina summary
@@ -92,9 +149,20 @@ python tools/init_book.py --source "books/Meine Quelle.rtf"
 # Pipeline
 python tools/extract_chapters.py --book anna-karenina
 python tools/extract_scenes.py --book anna-karenina --chapter 001
+
+# Mit OpenRouter (Standard, Remote-API mit Token-Limit)
 python tools/translate_chapter.py --book anna-karenina --chapter 001 --style stil-01-original --provider openrouter
+
+# Mit lokalem Ollama (offline, kostenlos, schnell)
+python tools/translate_chapter.py --book anna-karenina --chapter 001 --style stil-01-original --provider ollama --model gemma4:latest
+# Alternative Modellwahl
+python tools/translate_chapter.py --book anna-karenina --chapter 001 --style stil-01-original --provider ollama --model qwen3:8b
+
+# Batch-Übersetzung mit Ollama
+python tools/translate_batch.py --book anna-karenina --missing --style stil-01-original --provider ollama --model gemma4:latest --assemble-after
+
+# Oder mit Prompt-Dateien für manuelle Bearbeitung
 python tools/translate_batch.py --book anna-karenina --from 001 --to 005 --style stil-01-original --provider prompt_file --dry-run
-python tools/translate_batch.py --book anna-karenina --missing --style stil-01-original --provider openrouter --assemble-after
 python tools/assemble_chapter.py --book anna-karenina --chapter 001 --style stil-01-original
 python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter 001 --style stil-01-original --format all --allow-partial
 python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter 001 --style stil-01-original --format pdf --allow-partial
@@ -103,6 +171,12 @@ python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter
 python tools/apply_review_suggestions.py --book anna-karenina --style stil-01-original --plan
 python tools/apply_review_suggestions.py --book anna-karenina --style stil-01-original --stage
 python tools/apply_review_suggestions.py --book anna-karenina --style stil-01-original --promote
+
+# Illustrationen (Kapitel-/Szenenbilder via Higgsfield)
+python tools/generate_illustration.py --book pharao --chapter 001 --scene 01 --kind scene --style stil-02-poetisch
+python tools/generate_illustration.py --book pharao --chapter 001 --kind chapter --style stil-02-poetisch
+python tools/generate_illustration.py --book pharao --chapter 001 --scene 01 --kind scene --style stil-02-poetisch --overwrite
+python tools/generate_illustration.py --book pharao --chapter 001 --scene 01 --kind scene --style stil-02-poetisch --dry-run
 ```
 
 `translate_batch.py` ist ein Uebersetzungs-Batch, kein Export-Befehl. Er
@@ -115,8 +189,14 @@ Grosse Quell-Szenen werden beim Uebersetzen intern in Chunks geteilt. Die
 sichtbare Buchstruktur bleibt gleich: Chunks unter `work/chunks/` werden nach
 erfolgreicher Uebersetzung wieder zur urspruenglichen
 `work/scenes/de/<style>/<chapter>/scene-XX.md` zusammengesetzt. Die Grenze
-steht in `config/pipeline.yaml` unter `pipeline.ai_defaults.chunk_char_limit`
-und kann pro Lauf mit `--chunk-char-limit` ueberschrieben werden.
+steht in `book.yaml` unter `ai.chunk_char_limit` (Fallback:
+`config/pipeline.yaml`) und kann pro Lauf mit `--chunk-char-limit`
+ueberschrieben werden.
+
+Chunk-Aufrufe nutzen ein eigenes Token-Limit: `ai.max_tokens_per_chunk`
+in `book.yaml` (Fallback: `max(max_tokens_per_scene, 12000)`). Das ist
+noetig, weil deutsche Uebersetzungen oft laenger sind als das russische
+Original und das normale `max_tokens` fuer Chunks nicht ausreicht.
 
 Fuer neue Buecher liegt eine kopierbare KI-Vorlage unter
 `docs/book-metadata-prompt.md`. Sie sammelt Titel, Autor, Zusammenfassung,
@@ -281,6 +361,11 @@ book:
     image_path: assets/covers/annakarenina.png
 ```
 
+Wird keine `image_path` in `export.yaml` gesetzt, erkennt der Export
+automatisch eine Datei `cover.png`, `cover.jpg`, `cover.jpeg` oder
+`cover.webp` in `books/<id>/assets/covers/` (case-insensitive). Erst
+wenn gar kein Bild gefunden wird, entsteht ein Platzhalter-Cover.
+
 Optionale Kapitel- und Szenenbilder werden beim Export automatisch eingebunden,
 wenn `illustrations.enabled` aktiv ist und passende Dateien im Buchpaket
 liegen:
@@ -305,6 +390,25 @@ books/<book-id>/assets/scene/001/scene-002.png
 Erlaubte Formate sind `.jpg`, `.jpeg`, `.png` und `.webp`. Fehlt ein Bild,
 wird es still uebersprungen.
 
+### Illustrationen Erzeugen
+
+`tools/generate_illustration.py` erzeugt Kapitel- und Szenenbilder via
+Higgsfield-CLI. Die Defaults (Modell, Moodboard-UUID, Seitenverhaeltnis,
+Qualitaet) stehen pro Buch in `book.yaml` unter `higgsfield`.
+
+Der Prompt an Higgsfield enthaelt automatisch:
+
+- Einen Auszug aus der jeweiligen DE-Szene (max. 1500 Zeichen).
+- Die Kurzbeschreibung des Buches aus `export.yaml` (`book.description`) als
+  Kontexthinweis – z. B. "altes Aegypten", "Russland" – damit das Modell
+  passende Stimmung und Kulisse waehlt.
+- Visuelle Constraints: epochengerechte Kleidung/Architektur, keine modernen
+  Objekte, keine lesbaren Texte oder Signaturen.
+
+Qualitaet ist standardmaessig `1.5k` (Soul 2.0 unterstuetzt `1.5k` und `2k`).
+Bestehende Bilder werden nur mit `--overwrite` ersetzt; `--dry-run` zeigt den
+Prompt ohne API-Call an. Details: `docs/higgsfield-integration.md`.
+
 Ausgaben landen unter:
 
 ```text
@@ -316,36 +420,83 @@ books/<book-id>/exports/<style>/book/epub/
 books/<book-id>/exports/<style>/book/pdf/
 ```
 
+## Lokaler Start unter Windows
+
+Doppelklick auf `dev.cmd` im Repository-Root startet das Dashboard ohne IDE.
+Alternativ im Terminal aus dem Repo-Root:
+
+```bat
+dev.cmd
+```
+
+Voraussetzungen: Python 3 und Node.js/npm im `PATH`, optional eine lokale
+`.env` (wird bei Bedarf aus `.env.example` kopiert; `OPENROUTER_API_KEY`
+eintragen fuer OpenRouter-Jobs). `dev.cmd` installiert fehlende Python-
+bzw. Frontend-Abhaengigkeiten nur bei Bedarf und ruft danach
+`python tools/start_dashboard.py` auf.
+
+Gestartet wird ein Prozess: FastAPI + gebautes React-Frontend auf
+`http://127.0.0.1:8000` (Browser oeffnet sich nach kurzer Wartezeit).
+Beenden mit `Ctrl+C` im Terminalfenster von `dev.cmd`.
+
 ## Dashboard
 
 Start:
 
 ```bash
-streamlit run tools/dashboard.py
+python tools/start_dashboard.py
 ```
 
-URL: `http://localhost:8501`
+URL: `http://127.0.0.1:8000`
 
 Das Dashboard liest Buchpakete aus `books/*/book.yaml`. Es bietet Uebersicht,
-Buchsetup, Uebersetzen, Stiltest, Versionen, Export und Logs. Die verbindliche
-Optik-Referenz liegt in `docs/dashboard-design-system.md`.
+Buchsetup, Uebersetzen, Stiltest, Review, Export, Higgsfield/Bilder, Namen,
+Logs und **Website** (Regal-Freigabe, Katalog-/Dist-Jobs). Die verbindliche
+Optik-Referenz liegt in `docs/dashboard-design-system.md`. Die oeffentliche
+Regal-Website selbst liegt unter `webpage/` (siehe `webpage/README.md`).
 
-Lange Batch-Laeufe im Uebersetzen-Tab werden als Hintergrundprozess gestartet.
-Das Dashboard zeigt PID und Logdatei an; der Stop-Button beendet unter Windows
-den gesamten Prozessbaum. Trockenlaeufe (`Batch planen`) bleiben synchron und
-schreiben nichts.
+Lange Uebersetzungs- und Review-Laeufe werden ueber den framework-neutralen
+Job-Service `tools/lib/dashboard_jobs.py` als Hintergrundprozesse gestartet.
+Job-Metadaten liegen pro Lauf unter `var/dashboard-jobs/<job-id>.json`, Logs
+daneben als `.log`. Das globale Job-Panel bleibt nach Seitenwechsel sichtbar,
+zeigt Fortschritt/Log-Tail und kann den Prozessbaum stoppen. Trockenlaeufe
+(`Batch planen`, `Review planen`) bleiben synchron und schreiben nichts.
 
-Architektur-Notiz fuer spaeter: Streamlit bleibt vorerst die lokale Werkbank,
-weil es schnell startbar ist und die eigentliche Pipeline in CLI-Tools liegt.
-Das Dashboard soll deshalb moeglichst duenn bleiben: Anzeigen, Formulare,
-Buttons, Status und Logs; keine eigene komplexe Pipeline-Logik. Robustheit
-entsteht ueber klare Service-/CLI-Funktionen, Job-Statusdateien und saubere
-Prozessausgaben.
+Das dauerhafte Dashboard ist **FastAPI + Vite/React**. Der Startbefehl baut
+das React-Frontend bei Bedarf (`webapp/frontend/dist/`) und FastAPI liefert den
+Build direkt unter `/` aus. Die API bleibt unter `/api/...` erreichbar.
+Kommando-Builder, Lesemodelle und Kontextdaten fuer Uebersetzen, Review,
+Export, Namen, Stiltest und Bilder liegen in `tools/lib/workbench_api.py`. Die
+CLI-Tools bleiben weiterhin die produktive Pipeline.
 
-Falls Streamlit trotz dieser Entkopplung zu schwer steuerbar wird, ist
-NiceGUI der bevorzugte Nachfolger. Es bleibt Python-first und lokal im Browser,
-ist aber staerker event- und zustandsorientiert. Electron oder Tauri waeren
-erst sinnvoll, wenn daraus eine echte verteilbare Desktop-App werden soll.
+Die Buch-Settings-Seite arbeitet zweistufig: Aenderungen wirken sofort als
+lokaler Arbeitskontext in der Oberflaeche. Erst der Button
+`In book.yaml speichern` schreibt die buchnahen Produktionsdefaults
+(`style_mode`, `ai.provider`, `ai.model`, `ai.chunk_char_limit`) in das
+Buchpaket. Das Speichern aktualisiert diese YAML-Zeilen gezielt und erzeugt
+`book.yaml` nicht komplett neu. Review- und Export-Auswahl bleiben lokale
+UI-Voreinstellungen.
+Der Stiltest rendert Markdown-Blockquotes und geklammerte Nebenabsatz-Zeilen
+typografisch eingerueckt/kursiv, ohne die gespeicherten Markdown-Dateien zu
+veraendern.
+
+Entwicklungsmodus mit zwei Terminals:
+
+```bash
+python -m uvicorn webapp.backend.main:app --reload --host 127.0.0.1 --port 8000
+cd webapp/frontend
+npm install
+npm run dev
+```
+
+Der Vite-Dev-Server laeuft standardmaessig auf `http://127.0.0.1:5173` und
+proxyt `/api` an das FastAPI-Backend auf `http://127.0.0.1:8000`.
+
+Legacy-Streamlit bleibt als Backup-Werkbank verfuegbar:
+
+```bash
+streamlit run tools/dashboard.py
+```
 
 ## Tests
 

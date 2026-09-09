@@ -1,0 +1,204 @@
+@font-face {  font-family: "FreeSerif";  font-weight: normal;  font-style: normal;  src: url("fonts/FreeSerif.ttf");}
+@font-face {  font-family: "FreeSerif";  font-weight: 800;  font-style: normal;  src: url("fonts/FreeSerifBold.ttf");}
+@font-face {  font-family: "FreeSerif";  font-weight: normal;  font-style: italic;  src: url("fonts/FreeSerifItalic.ttf");}
+@font-face {  font-family: "FreeSerif";  font-weight: 800;  font-style: italic;  src: url("fonts/FreeSerifBoldItalic.ttf");}
+body { font-family: "FreeSerif" }
+body {
+	line-height: 1.2;
+}
+
+/* images */
+div.floatright {
+	float: right;
+	clear: right;
+	position: relative;
+	margin: 0.5em 0 0.8em 1.4em;
+}
+
+div.floatleft {
+	float: left;
+	clear: left;
+	position: relative;
+	margin: 0.5em 1.4em 0.8em 0;
+}
+
+.center {
+	width: 100%;
+	text-align: center;
+}
+
+.center * {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.thumbcaption {
+	text-align: left;
+	font-size: 95%;
+}
+
+div.tright {
+	float: right;
+	clear: right;
+	margin: 0.5em 0 0.8em 1.4em;
+}
+
+div.tleft {
+	float: left;
+	clear: left;
+	margin: 0.5em 1.4em 0.8em 0;
+}
+
+.small {
+	font-size: 94%;
+}
+
+/* Styles simplified from resources/src/mediawiki.skinning/content.media-common.less */
+.mw-valign-middle {
+	vertical-align: middle;
+}
+
+.mw-valign-baseline {
+	vertical-align: baseline;
+}
+
+.mw-valign-sub {
+	vertical-align: sub;
+}
+
+.mw-valign-super {
+	vertical-align: super;
+}
+
+.mw-valign-top {
+	vertical-align: top;
+}
+
+.mw-valign-text-top {
+	vertical-align: text-top;
+}
+
+.mw-valign-bottom {
+	vertical-align: bottom;
+}
+
+.mw-valign-text-bottom {
+	vertical-align: text-bottom;
+}
+
+.mw-halign-right {
+	margin: 0 0 0.5em 0.5em;
+	clear: right;
+	float: right;
+}
+
+.mw-halign-left {
+	margin: 0 0.5em 0.5em 0;
+	clear: left;
+	float: left;
+}
+
+.mw-halign-none {
+	clear: none;
+	float: none;
+}
+
+.mw-halign-center {
+	margin: 0 auto;
+	display: table;
+	border-collapse: collapse;
+	clear: none;
+	float: none;
+}
+
+/*
+	Стили оформления для экспорта страниц в файлы Epub, расширения [[s:mul:Wikisource:WS Export]].
+
+	Pour déployer les modifications il faut purger le cache de Wsexport via cette URL: http://tools.wmflabs.org/wsexport/tool/book.php?refresh=true&lang=fr
+*/
+
+@page { margin-top: 0.8em; margin-bottom: 0.8em;}
+body { margin-left:0.5em; margin-right:0.5em; text-align:justify;}
+p { text-indent: 1em; margin-top: 6px; margin-bottom:6px; display:block; line-height:120%;}
+h1 { text-align: center; margin-top:72px; margin-bottom:48px;}
+h2 { text-align: center; margin-top:48px; margin-bottom:32px;}
+h3 { font-size: 1.66667em; color: #365f91; text-align: center; line-height:3; margin-top:36px; margin-bottom:24px;}
+h4 { text-align: center; margin-top:24px; margin-bottom:18px;}
+h1, h2, h3, h4, h5, h6 { break-after:avoid; }
+
+div.text {
+	max-width: 84ex;
+	text-align: justify;
+	margin: 0 auto;
+	font-family: /* Windows */ Cambria, Times New Roman, Times, /* Ubuntu */ FreeSerif, Noto Serif, serif,
+		/* Если символ не найден, но использовался в гражданских шрифтах (символы "ук, а йотированное" и т.п.), 
+		пробуем подгрузить из церк.-слав. webfont, относительно похожего на гражданский шрифт */ Monomakh Unicode,
+		/* иначе ищем в шрифтах без засечек: */ sans-serif, /* Windows 10: */ Calibri, Segoe UI;
+	font-size: 120%;
+}
+
+img.sgc-1 {height: 100%; max-width: 100%;text-align:center;}
+.center {text-align: center;text-indent: 0;}
+.right {text-align: right;text-indent: 0;}
+.i {font-style:italic;}
+.b {font-weight:bold;}
+.lettrine {font-size:1.35em;font-weight:bold;}
+.sup {font-size: 0.875em;line-height: normal;vertical-align: super}
+.maj {text-transform: uppercase;}
+.poem { margin-bottom: 0em; margin-top: 0em; line-height: 1.6em; margin-left: 2.5em; text-indent: 0em;}
+.poem p { margin-top: 0em !important; margin-bottom: 0em !important; text-indent: 0em !important; }
+.poem dd{ margin-top:0; margin-bottom:0; padding-top:0; padding-bottom:0; margin-left:1em; }
+.poem dl{ margin-top:0; margin-bottom:0; padding-top:0; padding-bottom:0;}
+.references {font-size: 80%; line-height: normal; }
+sup.reference {padding-left: 1.07pt; }
+.alineanegatif {text-indent:-2em;padding-left:2em;margin-top: 6px;margin-bottom:6px;display:block;}
+.abbr {border:none;text-decoration:none;}
+
+/* Texte en petites majuscules */
+.sc, .sct, .romain, .personnage {font-variant:small-caps;}
+.stc{letter-spacing:.1em;word-spacing:.1em;}
+
+/* Pour les chiffres romains */
+.romain {text-transform:lowercase;}
+ 
+/* Texte avec une majuscule à la première lettre de chaque mot */
+.personnage
+{
+  text-transform:lowercase;
+  text-transform:capitalize;
+  font-weight:bold;
+  color:#04040C;
+}
+ 
+.lignecapitale:first-line
+{
+	font-variant:small-caps;
+	font-size:120%;
+	text-align: justify;
+}
+
+.sidenote-right {
+	float: right; 
+	clear: right; 
+	max-width: 8.5em;
+	padding: .2em;
+	text-indent: 0em;
+	border: 1px solid gray;
+	margin: .4em; 
+	overflow-wrap: break-word;
+}
+.sidenote-left {
+	float: left;
+	clear: left;
+	max-width: 8.5em;
+	padding: .2em;
+	text-indent: 0em;
+	border: 1px solid gray;
+	margin: .4em;
+	overflow-wrap: break-word;
+}
+
+/* Modèle:didascalie */
+.didascalie { 
+	font-style: italic;
+}

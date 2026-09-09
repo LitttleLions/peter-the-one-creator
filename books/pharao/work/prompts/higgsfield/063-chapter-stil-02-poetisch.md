@@ -1,0 +1,1 @@
+*Buch: Der Pharao* *Quelle: EPUB/part71.xhtml* <!-- status: pending --> Dwunastego Paofi z różnych świątyń egipskich rozeszły się niepokojące wieści. Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.

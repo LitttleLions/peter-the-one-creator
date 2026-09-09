@@ -16,7 +16,7 @@ Następca wyciągnął rękę.
 
 — Wielki to wojownik!... — szepnął coraz bardziej wylękniony Tutmozis.
 
-— Jaki on tam wojownik!... Że pobił garstkę zbójców libijskich, którzy powinni uciekać na sam widok kaftanów egipskich żołnierzy? Ale zobacz, co robią nasi sąsiedzi. Izrael zwłóczy ze składaniem haraczu i płaci coraz mniej. Chytry Fenicjanin co roku wycofuje po kilka okrętów z naszej floty. Przeciw Hetytom musimy na wschodzie trzymać wielką armię, a koło Babilonu
+— Jaki on tam wojownik!... Że pobił garstkę zbójców libijskich, którzy powinni uciekać na sam widok kaftanów egipskich żołnierzy? Ale zobacz, co robią nasi sąsiedzi. Izrael zwłóczy ze składaniem haraczu i płaci coraz mniej. Chytry Fenicjanin co roku wycofuje po kilka okrętów z naszej floty. Przeciw Hetytom musimy na wschodzie trzymać wielką armię, a koło Babilonu i Niniwy kipi ruch, który czuć w całej Mezopotamii.
 
 I jakiż jest ostateczny skutek rządów kapłańskich? Ten, że kiedy jeszcze mój pradziad miał sto tysięcy talentów rocznego dochodu i sto sześćdziesiąt tysięcy wojska, mój ojciec ma ledwie pięćdziesiąt tysięcy talentów i sto dwadzieścia tysięcy wojska... A co to za wojsko!... Gdyby nie korpus grecki, który trzyma ich w porządku jak brytan owce, już dziś egipscy żołnierze słuchaliby tylko kapłanów, a faraon spadłby do poziomu nędznego nomarchy.
 
@@ -100,7 +100,7 @@ Chciała odejść, lecz Ramzes ją zatrzymał.
 
 — Zły duch cię opętał. Nikt w tej dolinie nie śmiałby przemawiać w taki sposób do mnie... — oburzyła się Sara.
 
-— Bo widzisz — wtrącił Tutmozis — ten młodzik jest oficerem kapłańskiego pułku Ptah i pisarzem u pisarza takiego pana, który nosi wachlarz nad noszącym wachlarz za nomarchą Habu
+— Bo widzisz — wtrącił Tutmozis — ten młodzik jest oficerem kapłańskiego pułku Ptah i pisarzem u pisarza takiego pana, który nosi wachlarz nad noszącym wachlarz za nomarchą Habu.
 
 — Pewnie, że musi być oficerem — odparła Sara, w zamyśleniu patrząc na Ramzesa. — Może nawet sam jest wielkim panem?... — dodała, kładąc palec na ustach.
 

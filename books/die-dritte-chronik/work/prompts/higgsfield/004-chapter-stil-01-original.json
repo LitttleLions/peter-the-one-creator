@@ -1,0 +1,55 @@
+{
+  "book": "die-dritte-chronik",
+  "chapter": "004",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "nano_banana_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\chapters\\004-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\prompts\\higgsfield\\004-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\assets\\chapter\\chapter-004.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "nano_banana_2",
+    "--prompt",
+    "TRACKING book=die-dritte-chronik | chapter=004 | kind=chapter | title=Sein Herz. Pure pictorial illustration only: unbroken imagery without lettering, captions, typography, watermarks, logos, UI chrome, or readable writing anywhere in the frame. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Shigi Qutuqu erwachte, bevor die Hähne krähten. Es war eine Gewohnheit, älter als sein Amt, älter als der Hof, älter als fast alles in seinem Leben. Er stand auf, wusch sich das Gesicht in der Schale aus grauem Stein und zog die Robe des Richters an – dunkelblau, fast schwarz, mit weißen Bordüren an den Ärmeln. Die Farbe des Urteilsbuchs. Die Farbe des Gesetzes. Sein Diener brachte Tee, und er trank ihn schweigend, während das erste Licht durch die Filzwände seines Zeltes sickerte. Draußen hörte er die Geräusche der Ordu: Hufschlag auf festgetretenem Boden, das Rufen der Wachen, das Knarren von Wagenrädern. Ein Tag wie jeder andere. Aber es war kein Tag wie jeder andere. Der Khan war tot. Shigi stellte die Schale ab und griff nach dem blau-weißen Buch, das auf dem niedrigen Tisch neben seiner Matte lag. Es war schwer, gebunden in Leder, die Seiten aus dickem, grobem Papier. Das Urteilsbuch des obersten Richters des Weltreichs. Jeder Spruch, den er gefällt hatte, war hier verzeichnet. Jede Entscheidung, jede Berufung, jede Hinrichtung.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_174540_b5c2f30c-b71b-4375-99d7-7d4a1b73da7c.jpeg",
+  "job_result": [
+    {
+      "id": "b5c2f30c-b71b-4375-99d7-7d4a1b73da7c",
+      "status": "completed",
+      "display_name": "Nano Banana Pro",
+      "job_set_type": "nano_banana_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_174540_b5c2f30c-b71b-4375-99d7-7d4a1b73da7c.jpeg",
+      "created_at": 1784828740.579554,
+      "params": {
+        "width": 896,
+        "height": 1200,
+        "aspect_ratio": "3:4",
+        "resolution": "1k",
+        "batch_size": 1,
+        "input_images": [],
+        "input_image": null,
+        "application": null,
+        "surface": null,
+        "prompt": "TRACKING book=die-dritte-chronik | chapter=004 | kind=chapter | title=Sein Herz. Pure pictorial illustration only: unbroken imagery without lettering, captions, typography, watermarks, logos, UI chrome, or readable writing anywhere in the frame. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Shigi Qutuqu erwachte, bevor die Hähne krähten. Es war eine Gewohnheit, älter als sein Amt, älter als der Hof, älter als fast alles in seinem Leben. Er stand auf, wusch sich das Gesicht in der Schale aus grauem Stein und zog die Robe des Richters an – dunkelblau, fast schwarz, mit weißen Bordüren an den Ärmeln. Die Farbe des Urteilsbuchs. Die Farbe des Gesetzes. Sein Diener brachte Tee, und er trank ihn schweigend, während das erste Licht durch die Filzwände seines Zeltes sickerte. Draußen hörte er die Geräusche der Ordu: Hufschlag auf festgetretenem Boden, das Rufen der Wachen, das Knarren von Wagenrädern. Ein Tag wie jeder andere. Aber es war kein Tag wie jeder andere. Der Khan war tot. Shigi stellte die Schale ab und griff nach dem blau-weißen Buch, das auf dem niedrigen Tisch neben seiner Matte lag. Es war schwer, gebunden in Leder, die Seiten aus dickem, grobem Papier. Das Urteilsbuch des obersten Richters des Weltreichs. Jeder Spruch, den er gefällt hatte, war hier verzeichnet. Jede Entscheidung, jede Berufung, jede Hinrichtung."
+      }
+    }
+  ]
+}

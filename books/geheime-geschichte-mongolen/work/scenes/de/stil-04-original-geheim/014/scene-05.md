@@ -1,0 +1,3 @@
+## Szene 5
+
+Möngke, Alchidai, Schanggi und die Beamten trugen vor: „Gemäß deinem heiligen Erlass werden Angelegenheiten entschieden. Was diese Sache betrifft, ist sie allein deine; der Khan, der Khan ist zornig. Da es eine Sache ist, wäre es vielleicht gut, sie dir zu übertragen?“ Nach diesen Worten hielten sie inne und ließen ihn blicken. Der Khan sprach: „Du, mit deinem voranpreschenden Hintern – hast du alle niedergemacht? Du brichst der Leute Mut und ihre Kraft. Fürchtet das Volk solche Macht? Einem einzelnen Orosut gleich, voll Wildheit, widersetzt du dich. In Unserem heiligen Erlass steht: ‚Man fürchte sich, man sterbe.‘ Wie ein einzelner … Sübetei, zu zweit zieht aus und unterwerft mit Gewalt die Orosut, ein, zwei Kibtschaut …“

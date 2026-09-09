@@ -1,0 +1,57 @@
+{
+  "book": "die-dritte-chronik",
+  "chapter": "015",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": null,
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\015\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\prompts\\higgsfield\\015-scene-01-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\assets\\scene\\015\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 015 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Der Winter hatte Karakorum in den Farben der Verwesung gemalt. Shigi Qutuqu stand in seiner Kanzlei, als die Nachricht kam, und er wusste sofort, dass dies kein gewöhnlicher Tod war. Der Bote war jung, atemlos, die Kälte hing in seinen Kleidern wie ein zweites Fell. Er sprach von Herzversagen, von einem Mann, der in seiner Schreibstube zusammengebrochen war, den Kopf auf den Papieren, die Feder noch in der Hand. Yelü Chucai war tot. Shigi entließ den Boten mit einer knappen Geste und blieb allein zurück. Er stand am Fenster, blickte auf den gefrorenen Hof, auf die Rauchsäulen, die aus den Jurten stiegen, auf die Hunde, die zwischen den Abfällen trotteten. Der Himmel war grau, flach, ohne Tiefe, als hätte jemand ein Tuch über die Welt gelegt. Er dachte an den Mann, den er gekannt hatte, an den kitanischen Gelehrten, der Dschingis Khan das Schreiben gelehrt hatte, der Ögedei gesagt hatte: *Man kann ein Reich vom Pferd aus erobern, aber nicht regieren.* Yelü Chucai hatte diese Worte nicht nur gesprochen, sondern gelebt. Er hatte die Steuerregister aufgestellt, die Verwaltung geordnet, die Gesetze geschrieben. Er war der letzte gewesen, der wirklich verstanden hatte, dass ein Reich nicht aus Pfeilen und Pferden gebaut wurde, sondern aus Papier und Zahlen. Und jetzt war er tot.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_212924_1ec17240-bf27-418d-bc3b-36a46dc791d5.png",
+  "job_result": [
+    {
+      "id": "1ec17240-bf27-418d-bc3b-36a46dc791d5",
+      "status": "completed",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_212924_1ec17240-bf27-418d-bc3b-36a46dc791d5.png",
+      "created_at": 1784842164.002232,
+      "params": {
+        "width": 880,
+        "height": 1168,
+        "prompt": "Chapter 015 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Der Winter hatte Karakorum in den Farben der Verwesung gemalt. Shigi Qutuqu stand in seiner Kanzlei, als die Nachricht kam, und er wusste sofort, dass dies kein gewöhnlicher Tod war. Der Bote war jung, atemlos, die Kälte hing in seinen Kleidern wie ein zweites Fell. Er sprach von Herzversagen, von einem Mann, der in seiner Schreibstube zusammengebrochen war, den Kopf auf den Papieren, die Feder noch in der Hand. Yelü Chucai war tot. Shigi entließ den Boten mit einer knappen Geste und blieb allein zurück. Er stand am Fenster, blickte auf den gefrorenen Hof, auf die Rauchsäulen, die aus den Jurten stiegen, auf die Hunde, die zwischen den Abfällen trotteten. Der Himmel war grau, flach, ohne Tiefe, als hätte jemand ein Tuch über die Welt gelegt. Er dachte an den Mann, den er gekannt hatte, an den kitanischen Gelehrten, der Dschingis Khan das Schreiben gelehrt hatte, der Ögedei gesagt hatte: *Man kann ein Reich vom Pferd aus erobern, aber nicht regieren.* Yelü Chucai hatte diese Worte nicht nur gesprochen, sondern gelebt. Er hatte die Steuerregister aufgestellt, die Verwaltung geordnet, die Gesetze geschrieben. Er war der letzte gewesen, der wirklich verstanden hatte, dass ein Reich nicht aus Pfeilen und Pferden gebaut wurde, sondern aus Papier und Zahlen. Und jetzt war er tot.",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "high",
+        "resolution": "1k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

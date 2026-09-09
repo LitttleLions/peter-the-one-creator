@@ -27,28 +27,42 @@ def write_names(path: Path | str, entries: list[dict[str, Any]]) -> None:
     )
 
 
-def compact_name_lines(entries: list[dict[str, Any]], limit: int = 80) -> list[str]:
+def compact_name_lines(
+    entries: list[dict[str, Any]],
+    limit: int = 80,
+    *,
+    include_meta: bool = False,
+) -> list[str]:
+    """Kompakte Namenszeilen fuer Prompts oder UI.
+
+    Standard (include_meta=False): nur ``Quelle -> Ziel``, ohne Status,
+    Alias-Alternativen oder redaktionelle Notes – geeignet fuer LLM-Prompts.
+    Mit include_meta=True zusaetzlich Alias/Status/Note in Klammern.
+    """
     lines: list[str] = []
     for entry in entries[:limit]:
         source = str(entry.get("source") or "").strip()
         target = str(entry.get("target") or "").strip()
         if not source or not target:
             continue
-        aliases = entry.get("aliases") or []
-        if isinstance(aliases, str):
-            aliases = [aliases]
-        aliases_text = ", ".join(str(item).strip() for item in aliases if str(item).strip())
-        status = str(entry.get("status") or "draft").strip()
-        note = str(entry.get("note") or "").strip()
         line = f"- {source} -> {target}"
-        details = []
-        if aliases_text:
-            details.append(f"Alias: {aliases_text}")
-        if status:
-            details.append(f"Status: {status}")
-        if note:
-            details.append(note)
-        if details:
-            line += " (" + "; ".join(details) + ")"
+        if include_meta:
+            aliases = entry.get("aliases") or []
+            if isinstance(aliases, str):
+                aliases = [aliases]
+            aliases_text = ", ".join(
+                str(item).strip() for item in aliases if str(item).strip()
+            )
+            status = str(entry.get("status") or "").strip()
+            note = str(entry.get("note") or "").strip()
+            details = []
+            if aliases_text:
+                details.append(f"Alias: {aliases_text}")
+            if status:
+                details.append(f"Status: {status}")
+            if note:
+                details.append(note)
+            if details:
+                line += " (" + "; ".join(details) + ")"
         lines.append(line)
     return lines

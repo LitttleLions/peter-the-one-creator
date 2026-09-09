@@ -74,7 +74,7 @@ Czcigodny Asarhadon zaczął drapać się między łopatki.
 
 To powiedziawszy, Fenicjanin zezem spojrzał na podróżnego, który jednak ani na chwilę nie utracił spokoju.
 
-— Pyta mnie — ciągnął gospodarz — pyta mnie dziesiętnik: „Co za jeden jest ten czarny, który dwie godziny siedzi nad garstką daktylów?...” Mówię: Bardzo zacny człowiek, pan Phut. — „Skąd on?...” — Z kraju Chetii, z miasta Harranu
+— Pyta mnie — ciągnął gospodarz — pyta mnie dziesiętnik: „Co za jeden jest ten czarny, który dwie godziny siedzi nad garstką daktylów?...” Mówię: Bardzo zacny człowiek, pan Phut. — „Skąd on?...” — Z kraju Chetii, z miasta Harranu; ma tam porządny dom o trzech piętrach i dużo pola. — „Po co on tu przyjechał?” — Przyjechał, mówię, odebrać od jednego kapłana pięć talentów, które jeszcze jego ojciec pożyczył.
 
 A wiesz, zacny panie — prawił restaurator — co mi na to odpowiedział dziesiętnik?... Te słowa: „Asarhadonie, wiem, że jesteś wiernym sługą jego świątobliwości faraona, masz dobre jadło i niefałszowane wina, dlatego mówię ci — strzeż się!... Strzeż się cudzoziemców, którzy nie robią znajomości, unikają wina i wszelkich uciech i milczą. Ten Phut, harrańczyk, może być asyryjskim szpiegiem.”
 

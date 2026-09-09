@@ -1,0 +1,63 @@
+{
+  "book": "aelita",
+  "chapter": "005",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-03-branderson",
+  "model": "text2image_soul_v2",
+  "moodboard": "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "render_quality": null,
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\scenes\\de\\stil-03-branderson\\005\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\prompts\\higgsfield\\005-scene-01-stil-03-branderson.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\assets\\scene\\005\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "Chapter 005 Scene 01. Post-revolutionary Soviet Union, 1920s Petrograd, and an ancient Mars civilisation. Cinematic literary science-fiction illustration, elegant realism, painterly detail, atmospheric depth. Two Soviet travellers and a Martian princess; Martians look human but with subtle bird-like facial features and blue-tinged skin. Red deserts, canals, vertical cities, winged airships, Martian architecture, alien flora and fauna. Focus on departure, first contact, wonder, and political tension. Color palette: cold Petrograd gray, rust red, copper, pale blue skin tones, desert ochre, night indigo. Clear central figure or charged situation; emotionally resonant, historically and futuristically grounded. Characters present: Mstislaw Sergejewitsch Los: sowjetische ingeneur mit mütze; Alexei Iwanowitsch Gussew: rotarmist, 50 jahr, schwarzee haar. Auf dem Brachland vor Los' Werkstatt begann sich eine Menschenmenge zu versammeln. Sie kamen vom Kai, liefen von der Seite der Petrograder Insel herbei, ballten sich zu Grüppchen zusammen und blickten zur tiefen Sonne, die breite Strahlen durch die Wolken schickte. Gespräche begannen: Bis zur Dämmerung wogte das Gemurmel, allerlei Gespräche gingen durch die Menge, die auf das außergewöhnliche Ereignis wartete. Man stritt, zankte sich, aber ging nicht fort. Der trübe Sonnenuntergang ergoss purpurrotes Licht über die halbe Himmelsfläche. Und da erschien, langsam die Menge auseinanderdrängend, das große Automobil des Gouvernementsexekutivkomitees. Im Schuppen leuchteten von innen die Fenster auf. Die Menge verstummte, rückte näher. Von allen Seiten offen, mit Reihen von Nieten schimmernd, stand das eiförmige Gerät auf einer zementierten, leicht geneigten Fläche, mitten im Schuppen. Sein hell erleuchtetes Inneres aus rautenförmig gestepptem gelbem Leder war durch die runde Öffnung des Lukendeckels zu sehen. Los und Gussew waren bereits gekleidet in Filzstiefel, Schafspelze, lederne Pilothelme. Mitglieder des Exekutivkomitees, Akademiker, Ingenieure, Journalisten umringten das Gerät. Die Abschiedsreden waren bereits gehalten, die Fotografien gemacht. Los dankte den Begleitern für ihre Aufmerksamkeit. Sein Gesicht war blass, die Augen wie aus Glas. Er umarmte Chochlow und Kusmin. Blickte auf die Uhr. Die Begleiter verstummten. Gussew runzelte die Stirn und kletterte in die Luke. Im Inneren des Geräts setzte er sich auf ein Lederkissen, rückte den Helm zurecht, zog den Pelz glatt.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_142430_42e014dd-45d9-459e-aa51-09c0dc72a654.png",
+  "job_result": [
+    {
+      "id": "42e014dd-45d9-459e-aa51-09c0dc72a654",
+      "status": "completed",
+      "display_name": "Higgsfield Soul 2.0",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_142430_42e014dd-45d9-459e-aa51-09c0dc72a654.png",
+      "created_at": 1785162270.213575,
+      "params": {
+        "prompt": "Chapter 005 Scene 01. Post-revolutionary Soviet Union, 1920s Petrograd, and an ancient Mars civilisation. Cinematic literary science-fiction illustration, elegant realism, painterly detail, atmospheric depth. Two Soviet travellers and a Martian princess; Martians look human but with subtle bird-like facial features and blue-tinged skin. Red deserts, canals, vertical cities, winged airships, Martian architecture, alien flora and fauna. Focus on departure, first contact, wonder, and political tension. Color palette: cold Petrograd gray, rust red, copper, pale blue skin tones, desert ochre, night indigo. Clear central figure or charged situation; emotionally resonant, historically and futuristically grounded. Characters present: Mstislaw Sergejewitsch Los: sowjetische ingeneur mit mütze; Alexei Iwanowitsch Gussew: rotarmist, 50 jahr, schwarzee haar. Auf dem Brachland vor Los' Werkstatt begann sich eine Menschenmenge zu versammeln. Sie kamen vom Kai, liefen von der Seite der Petrograder Insel herbei, ballten sich zu Grüppchen zusammen und blickten zur tiefen Sonne, die breite Strahlen durch die Wolken schickte. Gespräche begannen: Bis zur Dämmerung wogte das Gemurmel, allerlei Gespräche gingen durch die Menge, die auf das außergewöhnliche Ereignis wartete. Man stritt, zankte sich, aber ging nicht fort. Der trübe Sonnenuntergang ergoss purpurrotes Licht über die halbe Himmelsfläche. Und da erschien, langsam die Menge auseinanderdrängend, das große Automobil des Gouvernementsexekutivkomitees. Im Schuppen leuchteten von innen die Fenster auf. Die Menge verstummte, rückte näher. Von allen Seiten offen, mit Reihen von Nieten schimmernd, stand das eiförmige Gerät auf einer zementierten, leicht geneigten Fläche, mitten im Schuppen. Sein hell erleuchtetes Inneres aus rautenförmig gestepptem gelbem Leder war durch die runde Öffnung des Lukendeckels zu sehen. Los und Gussew waren bereits gekleidet in Filzstiefel, Schafspelze, lederne Pilothelme. Mitglieder des Exekutivkomitees, Akademiker, Ingenieure, Journalisten umringten das Gerät. Die Abschiedsreden waren bereits gehalten, die Fotografien gemacht. Los dankte den Begleitern für ihre Aufmerksamkeit. Sein Gesicht war blass, die Augen wie aus Glas. Er umarmte Chochlow und Kusmin. Blickte auf die Uhr. Die Begleiter verstummten. Gussew runzelte die Stirn und kletterte in die Luke. Im Inneren des Geräts setzte er sich auf ein Lederkissen, rückte den Helm zurecht, zog den Pelz glatt.",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 155900,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": null
+        },
+        "style_strength": null
+      }
+    }
+  ]
+}

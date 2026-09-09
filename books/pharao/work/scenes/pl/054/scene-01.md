@@ -58,7 +58,7 @@ Wobec tego kapłani pałacowi w milczeniu poczęli zastanawiać się: czy nie le
 
 I może uczyniliby tak natychmiast, gdyby najdostojniejsi Herhor i Mefres nie rozkazali im wytrwać na miejscu.
 
-Ale i położenie Herhora przy nowym panu nie mogło nazywać się pomyślnym. Do niedawna wszechwładny minister, który prawie nie opuszczał pokojów królewskich, siedział dziś samotny w swoim pałacyku i nieraz nie widywał nowego faraona przez całe dekady. Był on jeszcze ministrem wojny, ale już prawie nie wydawał rozkazów. Wszystkie bowiem interesa wojskowe faraon załatwiał sam. Sam czytał raporty jenerałów, sam rozstrzygał wątpliwe kwestie, a jego adiutanci brali z ministerium wojny potrzebne dokumenta
+Ale i położenie Herhora przy nowym panu nie mogło nazywać się pomyślnym. Do niedawna wszechwładny minister, który prawie nie opuszczał pokojów królewskich, siedział dziś samotny w swoim pałacyku i nieraz nie widywał nowego faraona przez całe dekady. Był on jeszcze ministrem wojny, ale już prawie nie wydawał rozkazów. Wszystkie bowiem interesa wojskowe faraon załatwiał sam. Sam czytał raporty jenerałów, sam rozstrzygał wątpliwe kwestie, a jego adiutanci brali z ministerium wojny potrzebne dokumenta.
 
 Jego dostojność Herhor, jeżeli kiedy był wezwany przez władcę, to chyba po to, ażeby usłyszeć wymówkę.
 
@@ -146,7 +146,7 @@ Ramzes XIII zdziwił się.
 
 — Krew i życie nasze i dzieci naszych oddamy waszej świątobliwości — rzekł Dagon. — Ale pieniądze... Skąd my weźmiemy pieniędzy?...
 
-Dawniej świątynie udzielały nam pożyczek na piętnaście lub dwadzieścia procentów rocznie. Lecz od czasu gdy wasza świątobliwość, jeszcze jako następca tronu, był w świątyni Hator
+Dawniej świątynie udzielały nam pożyczek na piętnaście lub dwadzieścia procentów rocznie. Lecz od czasu gdy wasza świątobliwość, jeszcze jako następca tronu, był w świątyni Hator, tam, pod Pi-Bast, kapłani zupełnie odmówili nam kredytu.
 
 Oni, gdyby mogli, dziś wygnaliby nas z Egiptu, a jeszcze chętniej wytępiliby... Ach, co my cierpimy z ich łaski!... Chłopi robią, jak chcą i kiedy chcą... na podatek oddają, co im z nosa spadnie... Gdy którego uderzyć, buntują się, a gdy nieszczęśliwy Fenicjanin pójdzie o pomoc do sądu, albo przegrywa sprawę, albo musi się strasznie opłacać...
 

@@ -1,0 +1,65 @@
+{
+  "book": "pharao",
+  "chapter": "016",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "b1808566-674b-4495-b268-756f2ea287d5",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\work\\scenes\\de\\stil-02-poetisch\\016\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\work\\prompts\\higgsfield\\016-scene-01-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\assets\\scene\\016\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "So sahen die – übrigens recht seltenen – Augenblicke größter Nähe zwischen Sara und ihrem fürstlichen Geliebten aus. Denn nachdem der Thronfolger Patrokles und dem obersten Güterverwalter seine Befehle erteilt hatte, verbrachte er den größten Teil des Tages außerhalb des Landguts, meist auf einem Kahn. Entweder trieb er auf dem Nil und fing mit dem Netz Fische, die zu Tausenden in dem gesegneten Strom umherwimmelten; oder er suchte die Sümpfe auf und schoss, verborgen zwischen den hohen Lotosstängeln, mit dem Bogen auf das wilde Gefieder, dessen kreischende Schwärme so dicht kreisten wie Fliegen. Doch auch dann ließen ihn seine ehrgeizigen Gedanken nicht los; so machte er aus der Jagd eine Art Losorakel oder Weissagung. Mehr als einmal, wenn er einen Schwarm gelber Gänse auf dem Wasser erblickte, spannte er den Bogen und sprach: Das Geschoss pfiff leise, und der durchbohrte Vogel, mit den Flügeln flatternd, stieß so schmerzliche Schreie aus, dass sich im ganzen Sumpf eine Bewegung... Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--custom_reference_id",
+    "b1808566-674b-4495-b268-756f2ea287d5",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260617_182655_09452939-e017-4928-a68c-8d8f1b072d48.png",
+  "job_result": [
+    {
+      "id": "09452939-e017-4928-a68c-8d8f1b072d48",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260617_182655_09452939-e017-4928-a68c-8d8f1b072d48.png",
+      "created_at": 1781720815.38289,
+      "params": {
+        "prompt": "So sahen die – übrigens recht seltenen – Augenblicke größter Nähe zwischen Sara und ihrem fürstlichen Geliebten aus. Denn nachdem der Thronfolger Patrokles und dem obersten Güterverwalter seine Befehle erteilt hatte, verbrachte er den größten Teil des Tages außerhalb des Landguts, meist auf einem Kahn. Entweder trieb er auf dem Nil und fing mit dem Netz Fische, die zu Tausenden in dem gesegneten Strom umherwimmelten; oder er suchte die Sümpfe auf und schoss, verborgen zwischen den hohen Lotosstängeln, mit dem Bogen auf das wilde Gefieder, dessen kreischende Schwärme so dicht kreisten wie Fliegen. Doch auch dann ließen ihn seine ehrgeizigen Gedanken nicht los; so machte er aus der Jagd eine Art Losorakel oder Weissagung. Mehr als einmal, wenn er einen Schwarm gelber Gänse auf dem Wasser erblickte, spannte er den Bogen und sprach: Das Geschoss pfiff leise, und der durchbohrte Vogel, mit den Flügeln flatternd, stieß so schmerzliche Schreie aus, dass sich im ganzen Sumpf eine Bewegung... Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 643769,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "b1808566-674b-4495-b268-756f2ea287d5"
+      }
+    }
+  ]
+}

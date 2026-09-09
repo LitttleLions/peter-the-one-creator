@@ -1,0 +1,49 @@
+{
+  "chapter": "005",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "005",
+      "scene": 1,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\005\\scene-01.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-01-original\\005\\scene-01.md",
+      "ru_words": 511,
+      "de_words": 4071,
+      "findings": [
+        {
+          "severity": "ERROR",
+          "category": "length_ratio",
+          "message": "DE/RU-Wortverhaeltnis ist stark auffaellig (7.97).",
+          "chapter": "005",
+          "scene": 1,
+          "evidence": "RU=511, DE=4071",
+          "recommendation": "Auf Auslassung, Doppelung oder Ausschweifung pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "WARNING",
+          "category": "llm_review_failed",
+          "message": "KI-Review fehlgeschlagen: KI-Antwort enthielt kein gueltiges JSON-Objekt. Antwortbeginn: '{\"findings\":[{\"severity\":\"ERROR\",\"category\":\"names\",\"summary\":\"Falsche Transkription von Eigennamen und Fehlinterpretation historischer Figuren.\",\"evidence\":\"DE: \\'A\\'uqchu Ba\\'atur, der Knochen hatte\\'. RU: \\'ホネ骨あるアウチユ バアトル阿'",
+          "chapter": "005",
+          "scene": 1,
+          "evidence": "{\"findings\":[{\"severity\":\"ERROR\",\"category\":\"names\",\"summary\":\"Falsche Transkription von Eigennamen und Fehlinterpretation historischer Figuren.\",\"evidence\":\"DE: 'A'uqchu Ba'atur, der Knochen hatte'. RU: 'ホネ骨あるアウチユ バアトル阿兀出 巴阿禿兒'.\",\"recommendation\":\"Der Name muss korrekt transkribiert werden. Die Phrase 'der Knochen hatte' ist eine fehlerhafte Übersetzung des mongolischen Namens oder einer Beschreibung, die im Kontext verloren ging.\",\"confidence\":0.95,\"current_text\":\"A'uqchu Ba'atur, der Knochen ",
+          "recommendation": "Backend/Modell pruefen, Ollama-Modell wechseln oder Lauf ohne KI-Review wiederholen.",
+          "source": "llm",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

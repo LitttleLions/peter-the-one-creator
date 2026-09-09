@@ -1,0 +1,20 @@
+{
+  "variant": "object_named",
+  "endpoint": "/v1/text2image/soul",
+  "dry_run": true,
+  "payload": {
+    "prompt": "Post-revolutionary Soviet Union 1920s and ancient Mars civilisation. Two clearly separated characters in one cinematic vertical illustration: Aelita, a blue-skinned Martian princess with delicate birdlike facial features, standing on the left in pale ceremonial clothing; Los, a lean Soviet engineer in a practical cap and dark work coat, standing on the right beside a metal airship console. Red desert, canals, vertical Martian architecture, atmospheric depth.",
+    "width_and_height": "1152x1536",
+    "quality": "720p",
+    "batch_size": 1,
+    "style_id": "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba",
+    "style_strength": 0.8,
+    "custom_reference_id": {
+      "Aelita": "0fb45e81-0939-41e4-bee4-f0d007a8ec43",
+      "Los": "27e7e3ca-aa27-48f0-8a82-e59541dcfd20"
+    },
+    "custom_reference_strength": 1
+  },
+  "result": null,
+  "error": null
+}

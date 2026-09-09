@@ -1,0 +1,65 @@
+{
+  "book": "feuriger-engel",
+  "chapter": "010",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "bc717511-c335-42de-b5ef-05173a39b9ab",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\feuriger-engel\\work\\chapters\\010-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\feuriger-engel\\work\\prompts\\higgsfield\\010-chapter-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\feuriger-engel\\assets\\chapter\\chapter-010.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "*Buch: Der feurige Engel* <!-- status: pending --> Однажды вечером, когда был я, по обыкновению, у милой Агнессы, пришлось мне возвращаться домой довольно поздно, так что пропуска у ночных стражей я добивался маленькими подачками. Подойдя к нашему дому, я различил в сумраке, что кто-то сидит на пороге, как кошка, и скоро убедился, что это — Луиза. Она мне бросилась навстречу и, не без простодушного ужаса, рассказала, что с госпожою Ренатою приключилось сегодня нечто неожиданное и страшное и что она, Луиза, боится, не было ли здесь вмешательства нечистой силы. Из подробного описания я вскоре понял, что с Ренатою произошёл вновь тот припадок одержания, какие мне уже приходилось видеть, когда дух, входя внутрь её тела, жестоко мучил и оскорблял её. Тут же припомнил я, что последние дни Рената была особенно грустна и беспокойна, к чему, однако, я отнёсся с небрежением легкомысленным и недостойным. Cinematic dark literary historical illustration, modern premium classics edition. Strong chiaroscuro, deep shadows, warm candlelight, controlled fire glow, subtle occult diagrams, manuscript textures, gothic stone architecture, Renaissance clothing. Psychologically intense figures, serious, inwardly moved. Symbolist historical mood. Boundary between real historical world and inner vision. Color palette: black, anthracite, smoke gray, dark brown, deep wine red, old gold, copper, fire orange, muted cream white. Light sources: candles, fire, window light, embers, occasional visionary glow.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--custom_reference_id",
+    "bc717511-c335-42de-b5ef-05173a39b9ab",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260618_141150_3c38a910-13c6-4f0c-9dd1-422856a42402.png",
+  "job_result": [
+    {
+      "id": "3c38a910-13c6-4f0c-9dd1-422856a42402",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260618_141150_3c38a910-13c6-4f0c-9dd1-422856a42402.png",
+      "created_at": 1781791910.792938,
+      "params": {
+        "prompt": "*Buch: Der feurige Engel* <!-- status: pending --> Однажды вечером, когда был я, по обыкновению, у милой Агнессы, пришлось мне возвращаться домой довольно поздно, так что пропуска у ночных стражей я добивался маленькими подачками. Подойдя к нашему дому, я различил в сумраке, что кто-то сидит на пороге, как кошка, и скоро убедился, что это — Луиза. Она мне бросилась навстречу и, не без простодушного ужаса, рассказала, что с госпожою Ренатою приключилось сегодня нечто неожиданное и страшное и что она, Луиза, боится, не было ли здесь вмешательства нечистой силы. Из подробного описания я вскоре понял, что с Ренатою произошёл вновь тот припадок одержания, какие мне уже приходилось видеть, когда дух, входя внутрь её тела, жестоко мучил и оскорблял её. Тут же припомнил я, что последние дни Рената была особенно грустна и беспокойна, к чему, однако, я отнёсся с небрежением легкомысленным и недостойным. Cinematic dark literary historical illustration, modern premium classics edition. Strong chiaroscuro, deep shadows, warm candlelight, controlled fire glow, subtle occult diagrams, manuscript textures, gothic stone architecture, Renaissance clothing. Psychologically intense figures, serious, inwardly moved. Symbolist historical mood. Boundary between real historical world and inner vision. Color palette: black, anthracite, smoke gray, dark brown, deep wine red, old gold, copper, fire orange, muted cream white. Light sources: candles, fire, window light, embers, occasional visionary glow.",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 759764,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "bc717511-c335-42de-b5ef-05173a39b9ab"
+      }
+    }
+  ]
+}

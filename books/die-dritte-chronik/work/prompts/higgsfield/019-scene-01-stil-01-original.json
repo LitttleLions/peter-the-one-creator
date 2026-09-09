@@ -1,0 +1,57 @@
+{
+  "book": "die-dritte-chronik",
+  "chapter": "019",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": null,
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\019\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\prompts\\higgsfield\\019-scene-01-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\assets\\scene\\019\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 019 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Die Vorladung kam am frühen Morgen, bevor der Tau von den Zeltstricken gefallen war. Ein Bote stand vor Juvainis Quartier – kein gewöhnlicher Laufbursche, sondern einer jener stillen Männer mit dem blauen Gürtel, die ausschließlich im Dienst der Regentin liefen und deren Erscheinen am Morgen selten Gutes bedeutete. Er überreichte ein gefaltetes Papier ohne Erklärung, ohne Blickkontakt, und war verschwunden, bevor Juvaini das Siegel gebrochen hatte. Das Siegel war das der Regentin. Er las die drei Zeilen zweimal. Dann ein drittes Mal, weil er sichergehen wollte, dass er nichts übersah. Es gab nichts zu übersehen. Der Text war von vollkommener Klarheit, wie alles, was aus Töregenes Kanzlei kam, und diese Klarheit war die beunruhigendste Eigenschaft des Schreibens: Es ließ keinen Raum für Deutung. Ata-Malik Juvaini, Schreiber der Kanzlei, möge sich am Mittag des heutigen Tages in den Empfangsraum der Regentin begeben. Er faltete das Papier zweimal, steckte es in seinen Ärmel und stand lange am Zelteingang, ohne hinauszutreten. Rechne mit allem außer Freundlichkeit, sagte er sich.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_213848_81e85ff0-8ca5-4582-965e-f4ba944c80dd.png",
+  "job_result": [
+    {
+      "id": "81e85ff0-8ca5-4582-965e-f4ba944c80dd",
+      "status": "completed",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_213848_81e85ff0-8ca5-4582-965e-f4ba944c80dd.png",
+      "created_at": 1784842728.940826,
+      "params": {
+        "width": 880,
+        "height": 1168,
+        "prompt": "Chapter 019 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Die Vorladung kam am frühen Morgen, bevor der Tau von den Zeltstricken gefallen war. Ein Bote stand vor Juvainis Quartier – kein gewöhnlicher Laufbursche, sondern einer jener stillen Männer mit dem blauen Gürtel, die ausschließlich im Dienst der Regentin liefen und deren Erscheinen am Morgen selten Gutes bedeutete. Er überreichte ein gefaltetes Papier ohne Erklärung, ohne Blickkontakt, und war verschwunden, bevor Juvaini das Siegel gebrochen hatte. Das Siegel war das der Regentin. Er las die drei Zeilen zweimal. Dann ein drittes Mal, weil er sichergehen wollte, dass er nichts übersah. Es gab nichts zu übersehen. Der Text war von vollkommener Klarheit, wie alles, was aus Töregenes Kanzlei kam, und diese Klarheit war die beunruhigendste Eigenschaft des Schreibens: Es ließ keinen Raum für Deutung. Ata-Malik Juvaini, Schreiber der Kanzlei, möge sich am Mittag des heutigen Tages in den Empfangsraum der Regentin begeben. Er faltete das Papier zweimal, steckte es in seinen Ärmel und stand lange am Zelteingang, ohne hinauszutreten. Rechne mit allem außer Freundlichkeit, sagte er sich.",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "high",
+        "resolution": "1k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

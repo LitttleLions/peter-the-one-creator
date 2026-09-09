@@ -83,4 +83,4 @@ Pisarz Pentuer odwrócił głowę; jego chuda twarz miała barwę szarą. Ale Eu
 
 Zbity, pokrwawiony, a nade wszystko przestraszony nędzarz chwilę posiedział na piasku, przetarł oczy i nagle zerwawszy się począł uciekać w stronę gościńca jęcząc:
 
-— Pochłoń mnie, ziemio!... Przeklęty dzień, w którym ujrzałem światło, i noc, w której powiedziano: „narodził się człowiek...” W płaszczu sprawiedliwości nie ma nawet skrawka dla niewolników... I sami bogowie nie spojrzą na taki twór, który ma ręce do pracy, gębę tylko do płaczu, a grzbiet do kijów... O śmierci, zetrzyj moje ciało na popiół, ażebym jeszcze i tam, na polach Ozyrysa
+— Pochłoń mnie, ziemio!... Przeklęty dzień, w którym ujrzałem światło, i noc, w której powiedziano: „narodził się człowiek...” W płaszczu sprawiedliwości nie ma nawet skrawka dla niewolników... I sami bogowie nie spojrzą na taki twór, który ma ręce do pracy, gębę tylko do płaczu, a grzbiet do kijów... O śmierci, zetrzyj moje ciało na popiół, ażebym jeszcze i tam, na polach Ozyrysa, po raz drugi nie urodził się niewolnikiem...

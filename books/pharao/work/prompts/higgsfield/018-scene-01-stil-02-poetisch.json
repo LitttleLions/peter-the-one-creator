@@ -1,0 +1,65 @@
+{
+  "book": "pharao",
+  "chapter": "018",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "b1808566-674b-4495-b268-756f2ea287d5",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\work\\scenes\\de\\stil-02-poetisch\\018\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\work\\prompts\\higgsfield\\018-scene-01-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\assets\\scene\\018\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "Von dem Tage an, da Ramses zum Statthalter von Unterägypten ernannt wurde, begann für ihn ein so über die Maßen qualvolles Leben, wie er es sich niemals hätte vorstellen können – und das, obwohl er im königlichen Palast geboren und aufgewachsen war. Man tyrannisierte ihn unmittelbar, und seine Peiniger waren Bittsteller jeder Art, aus sämtlichen Schichten der Gesellschaft. Kaum erblickte der Thronfolger am ersten Tag die Menschenmenge, die sich drängte und schob und ihm dabei, ohne es zu wollen, die Rasen zertrat, die Bäume zerbrach, sogar die Umfassungsmauer beschädigte, verlangte er für seine Villa eine Wache. Doch schon am dritten Tag musste er aus seinem Haus in den eigentlichen Palastbezirk fliehen, wo der Zugang für gewöhnliche Leute durch dichte Posten und vor allem durch hohe Mauern erschwert war. Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--custom_reference_id",
+    "b1808566-674b-4495-b268-756f2ea287d5",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260617_182811_e287fd24-c336-49aa-9e7f-0230aefc302e.png",
+  "job_result": [
+    {
+      "id": "e287fd24-c336-49aa-9e7f-0230aefc302e",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260617_182811_e287fd24-c336-49aa-9e7f-0230aefc302e.png",
+      "created_at": 1781720891.189437,
+      "params": {
+        "prompt": "Von dem Tage an, da Ramses zum Statthalter von Unterägypten ernannt wurde, begann für ihn ein so über die Maßen qualvolles Leben, wie er es sich niemals hätte vorstellen können – und das, obwohl er im königlichen Palast geboren und aufgewachsen war. Man tyrannisierte ihn unmittelbar, und seine Peiniger waren Bittsteller jeder Art, aus sämtlichen Schichten der Gesellschaft. Kaum erblickte der Thronfolger am ersten Tag die Menschenmenge, die sich drängte und schob und ihm dabei, ohne es zu wollen, die Rasen zertrat, die Bäume zerbrach, sogar die Umfassungsmauer beschädigte, verlangte er für seine Villa eine Wache. Doch schon am dritten Tag musste er aus seinem Haus in den eigentlichen Palastbezirk fliehen, wo der Zugang für gewöhnliche Leute durch dichte Posten und vor allem durch hohe Mauern erschwert war. Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 825504,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "b1808566-674b-4495-b268-756f2ea287d5"
+      }
+    }
+  ]
+}

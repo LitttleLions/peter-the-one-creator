@@ -1,0 +1,213 @@
+{
+  "book_id": "aelita",
+  "book_title": "Aëlita",
+  "style": "stil-03-branderson",
+  "scope": "book",
+  "chapter": null,
+  "format": "epub",
+  "partial": false,
+  "created_at": "2026-06-24T09:00:11",
+  "chapters": [
+    {
+      "id": "001",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "002",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "003",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "004",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "005",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "006",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "007",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "008",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "009",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "010",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "011",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "012",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "013",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "014",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "015",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "016",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "017",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "018",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "019",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "020",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "021",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "022",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "023",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "024",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "025",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "026",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "027",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "028",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "029",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "030",
+      "scenes": 1,
+      "missing": []
+    }
+  ],
+  "outputs": [
+    "books\\aelita\\exports\\stil-03-branderson\\book\\epub\\book-a-lita-stil-03-branderson-20260624-090007.epub"
+  ],
+  "work_markdown": "books\\aelita\\exports\\stil-03-branderson\\book\\work\\book-a-lita-stil-03-branderson-20260624-090007.md",
+  "work_pdf_html": null,
+  "work_pdf_css": null,
+  "cover": "books\\aelita\\assets\\covers\\cover.png",
+  "illustrations": [
+    {
+      "kind": "chapter",
+      "chapter": "001",
+      "scene": null,
+      "path": "books\\aelita\\assets\\chapter\\chapter-001.png"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "002",
+      "scene": null,
+      "path": "books\\aelita\\assets\\chapter\\chapter-002.png"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "003",
+      "scene": null,
+      "path": "books\\aelita\\assets\\chapter\\chapter-003.png"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "011",
+      "scene": null,
+      "path": "books\\aelita\\assets\\chapter\\chapter-011.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "012",
+      "scene": null,
+      "path": "books\\aelita\\assets\\chapter\\chapter-012.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "013",
+      "scene": null,
+      "path": "books\\aelita\\assets\\chapter\\chapter-013.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "014",
+      "scene": null,
+      "path": "books\\aelita\\assets\\chapter\\chapter-014.jpg"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+# Kapitel 101: Kapitel 101: XXVIII
+
+*Buch: Das Leben Arsenjews - Alexei Tolstoi*
+*Stil: **stil-02-poetisch** (assemble aus 1 Szenen)*
+*Erstellt am: 2026-07-27T17:12:27*
+
+---
+
+## Szene 1
+
+## Szene 1
+
+> „Das Leben vergeht, die Seele bleibt unverändert – nur die Rollen wechseln, und mit ihnen die Masken.“ – Anton Tschechow
+
+Im Herbst erlebten wir jene festliche Zeit, die in der Stadt am Ende jedes Jahres einzog – das Zusammenströmen der Semstwo-Abgeordneten aus dem ganzen Gouvernement zur Gouvernementsversammlung. Auch der Winter verstrich für uns wie ein Fest: es gab Gastspiele des kleinrussischen Theaters mit Sankowezkaja und Saksaganski, Konzerte hauptstädtischer Berühmtheiten – Tschernow, Jakowlew, Mrawina –, es gab nicht wenige Bälle, Maskeraden und Abendgesellschaften. Nach der Semstwo-Versammlung fuhr ich nach Moskau, zu Tolstoi, und gab mich nach meiner Rückkehr mit besonderem Vergnügen den weltlichen Verlockungen hin. Und diese Verlockungen veränderten unser Leben äußerlich sehr – ich glaube, wir verbrachten keinen einzigen Abend mehr zu Hause. Unmerklich veränderten und verschlechterten sie auch unser Verhältnis zueinander. „Du wirst schon wieder irgendwie anders“, sagte sie eines Tages. „Ganz und gar ein Mann. Hast dir diesen französischen Bart zugelegt, wer weiß warum.“ „Gefällt er dir nicht?“ „Nein, warum auch? Nur, wie alles vergeht!“ „Ja. Du siehst jetzt auch schon wie eine junge Frau aus. Bist schlanker und noch schöner geworden.“ „Und du hast wieder angefangen, auf mich eifersüchtig zu sein. Und ich fürchte mich schon, es dir zu gestehen.“ „Was denn?“ „Dass ich auf dem nächsten Maskenball gern im Kostüm erscheinen möchte. Irgendetwas Preiswertes und ganz Schlichtes. Eine schwarze Maske und etwas Schwarzes, Leichtes, Langes...“ „Und was soll das bedeuten?“ „Die Nacht.“ „Das heißt, es fängt wieder etwas Orjoler Art an? ›Nacht‹! Das ist ziemlich abgeschmackt.“ „Ich sehe darin nichts Orjoler Art und nichts Abgeschmacktes“, antwortete sie trocken und unabhängig, und mit Schrecken spürte ich in dieser Trockenheit und Unabhängigkeit wirklich etwas von früher. „Du bist einfach wieder eifersüchtig auf mich geworden.“ „Warum sollte ich denn wieder eifersüchtig sein?“ „Ich weiß es nicht.“ „Doch, du weißt es. Weil du wieder begonnen hast, dich von mir zu entfernen, weil du wieder gefallen willst, männliche Begeisterung annehmen willst.“
+
+Sie lächelte feindselig: „Das musst ausgerechnet du sagen. Du weichst ja den ganzen Winter nicht von Tscherkassowas Seite.“
+
+Ich wurde rot. „Dass ich gleich nicht von ihrer Seite weiche! Als ob ich schuld daran wäre, dass sie immer dort ist, wo wir beide sind. Mich schmerzt am meisten, dass du mit mir irgendwie weniger frei geworden bist, als ob sich ein Geheimnis vor mir in dir gebildet hätte. Sag mir geradeheraus: welches? Was verbirgst du in dir?“ „Was ich verberge?“, antwortete sie. „Die Trauer, dass es unsere frühere Liebe nicht mehr gibt. Aber wozu darüber reden...“
+
+Und nach einem Schweigen fügte sie hinzu: „Und was den Maskenball betrifft – ich bin sogar bereit, ganz auf ihn zu verzichten, wenn es dir unangenehm ist. Nur bist du allzu streng mit mir, nennst jeden meiner Träume abgeschmackt, beraubst mich um alles, während du dir selbst nichts versagst...“
+
+Im Frühjahr und Sommer reiste ich wieder viel umher. Zu Beginn des Herbstes traf ich erneut auf Tscherkassowa (mit der ich bis zu dieser Zeit tatsächlich nichts gehabt hatte) und erfuhr, dass sie nach Kiew übersiedelte. „Ich verlasse Sie für immer, mein lieber Freund“, sagte sie und sah mich mit ihren Habichtsaugen an. „Mein Mann hat mich dort lange genug erwarten lassen. Wollen Sie mich bis Krementschug begleiten? Nur völlig im Geheimen, versteht sich. Ich muss dort eine ganze Nacht auf den Dampfer warten...“
+

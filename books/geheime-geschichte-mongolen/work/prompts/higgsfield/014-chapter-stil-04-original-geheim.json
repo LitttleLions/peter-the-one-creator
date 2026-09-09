@@ -1,0 +1,57 @@
+{
+  "book": "geheime-geschichte-mongolen",
+  "chapter": "014",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-04-original-geheim",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "render_quality": "medium",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-04-original-geheim\\014\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\geheime-geschichte-mongolen\\work\\prompts\\higgsfield\\014-chapter-stil-04-original-geheim.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\geheime-geschichte-mongolen\\assets\\chapter\\chapter-014.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 014. 1. Die jährlichen Abgaben. Baghdad wurde unterworfen. Da man seine Güter als vorzüglich erkannte, erging ein kaiserlicher Befehl: „Tamma aus gelbem, gelblich schimmerndem Naγud, golddurchwirkter Brokat, große östliche Perlen und hochbeinige Gürin-Ere'üd-Pferde.“",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_135916_2d60cb8a-f7a3-4009-868d-fd741dd2a213.png",
+  "job_result": [
+    {
+      "id": "2d60cb8a-f7a3-4009-868d-fd741dd2a213",
+      "status": "completed",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_135916_2d60cb8a-f7a3-4009-868d-fd741dd2a213.png",
+      "created_at": 1785160756.233179,
+      "params": {
+        "width": 1744,
+        "height": 2336,
+        "prompt": "Chapter 014. 1. Die jährlichen Abgaben. Baghdad wurde unterworfen. Da man seine Güter als vorzüglich erkannte, erging ein kaiserlicher Befehl: „Tamma aus gelbem, gelblich schimmerndem Naγud, golddurchwirkter Brokat, große östliche Perlen und hochbeinige Gürin-Ere'üd-Pferde.“",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "medium",
+        "resolution": "2k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Chapter 014. 1. Die jährlichen Abgaben. Baghdad wurde unterworfen. Da man seine Güter als vorzüglich erkannte, erging ein kaiserlicher Befehl: „Tamma aus gelbem, gelblich schimmerndem Naγud, golddurchwirkter Brokat, große östliche Perlen und hochbeinige Gürin-Ere'üd-Pferde.“

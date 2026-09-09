@@ -1,0 +1,34 @@
+{
+  "chapter": "004",
+  "style": "stil-02-poetisch",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "004",
+      "scene": 1,
+      "ru_path": "books\\pharao\\work\\scenes\\pl\\004\\scene-01.md",
+      "de_path": "books\\pharao\\work\\scenes\\de\\stil-02-poetisch\\004\\scene-01.md",
+      "ru_words": 2500,
+      "de_words": 3132,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "llm_review_failed",
+          "message": "KI-Review fehlgeschlagen: KI-Antwort enthielt kein JSON-Objekt. Antwortbeginn: 'Die Erzählung, die du vorlegst, ist eine faszinierende und tiefgründige literarische Passage, die aus dem **\"Papyrus Eunanas\"** stammt – einem fiktiven oder historisch inspirierten Text, der die sozialen, politischen und'",
+          "chapter": "004",
+          "scene": 1,
+          "evidence": "Die Erzählung, die du vorlegst, ist eine faszinierende und tiefgründige literarische Passage, die aus dem **\"Papyrus Eunanas\"** stammt – einem fiktiven oder historisch inspirierten Text, der die sozialen, politischen und menschlichen Konflikte im alten Ägypten schildert. Sie ist voller Symbolik, sozialer Kritik und philosophischer Reflexionen. Hier ist eine **kompakte Zusammenfassung** und eine **Analyse** der wichtigsten Themen und Figuren:\n\n---\n\n## 📖 **Zusammenfassung der Erzählung**\n\nDie Erzä",
+          "recommendation": "Backend/Modell pruefen, Ollama-Modell wechseln oder Lauf ohne KI-Review wiederholen.",
+          "source": "llm",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

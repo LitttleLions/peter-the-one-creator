@@ -78,7 +78,7 @@ Następnie wołam dozorcę królewskich stodół, aby wiedzieć ile przybyło zi
 
 Później przychodzi wielki pisarz i mówi, czego z dóbr jego świątobliwości potrzebuje wojsko, urzędnicy i robotnicy — a ja każę wydać to za pokwitowaniem. Gdy wyda mniej, chwalę go, jeżeli więcej, rozpoczynam śledztwo.
 
-Po południu przychodzą do mnie kupcy feniccy, którym sprzedaję zboże, a do skarbu faraona wnoszę pieniądze. Potem modlę się i zatwierdzam wyroki sądowe; zaś nad wieczorem policja donosi mi o wypadkach. Nie dalej jak onegdaj ludzie z mego nomesu wpadli na terytorium prowincji Ka i znieważyli posąg boga Sebaka
+Po południu przychodzą do mnie kupcy feniccy, którym sprzedaję zboże, a do skarbu faraona wnoszę pieniądze. Potem modlę się i zatwierdzam wyroki sądowe; zaś nad wieczorem policja donosi mi o wypadkach. Nie dalej jak onegdaj ludzie z mego nomesu wpadli na terytorium prowincji Ka i znieważyli posąg boga Sebaka. W sercu uradowałem się, nie jest to bowiem nasz patron; niemniej skazałem paru winnych na uduszenie, wielu do kopalń, a wszystkich na plagi.
 
 Toteż w nomesie moim panuje cisza i dobre obyczaje, a podatki wpływają co dzień...
 

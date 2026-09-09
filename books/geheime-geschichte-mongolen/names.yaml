@@ -1,0 +1,106 @@
+entries:
+  - source: "Činggis Qa'an"
+    target: "Dschingis Khan"
+    type: person
+    status: draft
+    note: "Geläufige deutsche Namensform; Herrschertitel im gesamten Text vereinheitlichen."
+  - source: "Temüjin"
+    target: "Temüdschin"
+    type: person
+    status: draft
+    note: "Deutsche Lautform; für die Zeit vor seiner Erhebung zum Dschingis Khan verwenden."
+  - source: "Yisügei Ba'atur"
+    target: "Yesügei Baatar"
+    type: person
+    status: draft
+    note: "Vater Temüdschins; Baatar als Titel oder Namensbestandteil einheitlich behandeln."
+  - source: "Hö'elün"
+    target: "Höelün"
+    type: person
+    status: draft
+    note: "Lesefreundliche Form ohne Apostroph; alternativ Hö'elün."
+  - source: "Börte"
+    target: "Börte"
+    type: person
+    status: draft
+    note: "Im Deutschen bereits stabile und gut lesbare Form."
+  - source: "Jamuqa"
+    target: "Dschamucha"
+    type: person
+    status: draft
+    note: "Auch Jamucha oder Dschamuqa; Dschamucha ist für deutsche Leser gut aussprechbar."
+  - source: "To'oril Ong Qan"
+    target: "Tooril Ong Khan"
+    type: person
+    status: draft
+    note: "Auch als Ong Khan oder Wang Khan bekannt; Bezeichnung im Text konsequent führen."
+  - source: "Ögödei Qa'an"
+    target: "Ögedei Khan"
+    type: person
+    status: draft
+    note: "Geläufige deutsche Namensform."
+  - source: "Ča'adai"
+    target: "Tschagatai"
+    type: person
+    status: draft
+    note: "Geläufige deutsche Namensform für den zweiten Sohn Dschingis Khans."
+  - source: "Tolui"
+    target: "Tolui"
+    type: person
+    status: draft
+    note: "Form beibehalten."
+  - source: "Qasar"
+    target: "Qasar"
+    type: person
+    status: draft
+    note: "Auch Khasar; Qasar bleibt näher an der wissenschaftlichen Transliteration."
+  - source: "Belgütei"
+    target: "Belgütei"
+    type: person
+    status: draft
+    note: "Form beibehalten."
+  - source: "Šigi Qutuqu"
+    target: "Schigi Qutuqu"
+    type: person
+    status: draft
+    note: "Richter und möglicher Mitwirkender an frühen Aufzeichnungen; deutsche Schreibung noch redaktionell festlegen."
+  - source: "Bo'ortschu"
+    target: "Bo'ortschu"
+    type: person
+    status: draft
+    note: "Einzelner Sohn von Naku Baiyan, Einführung in Kapitel 004/005."
+  - source: "Naku Baiyan"
+    target: "Naku Baiyan"
+    type: person
+    status: draft
+    note: "Vater von Bo'ortschu, Einführung in Kapitel 004/005."
+  - source: "Sorkan Schira"
+    target: "Sorkan Schira"
+    type: person
+    status: draft
+    note: "Bewahrer des Wissens, rettet Temüdschin im Wald."
+  - source: "Tschila'un"
+    target: "Tschila'un"
+    type: person
+    status: draft
+    note: "Sohn von Sorkan Schira."
+  - source: "Tschimbai"
+    target: "Tschimbai"
+    type: person
+    status: draft
+    note: "Sohn von Sorkan Schira."
+  - source: "Dei Sechen"
+    target: "Dei Sechen"
+    type: person
+    status: draft
+    note: "Gouverneur/Title, Erwähnung in Kapitel 002."
+  - source: "Onggira"
+    target: "Onggira"
+    type: person
+    status: draft
+    note: "Weitere Variante/Name für Ong Khan."
+  - source: "Kelüren"
+    target: "Kelüren"
+    type: place
+    status: draft
+    note: "Flussname, wichtig für Handlungsort."

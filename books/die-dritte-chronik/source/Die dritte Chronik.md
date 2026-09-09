@@ -1,0 +1,9042 @@
+# Die dritte Chronik
+
+*Genre: Historischer Roman*
+
+---
+
+## 1. Prolog – Bagdad, Februar 1258
+
+Prolog – Bagdad, Februar 1258
+
+Der Tigris trug Tintenschwarz.
+
+Juvaini sah es vom Sattel aus, als er die Al-Mansur-Brücke überquerte, und für einen Moment glaubte er, die Flüsse seiner Kindheit trügen die Farbe von Trauer. Aber das war keine Metapher. Tinte, dachte er. Bibliotheken. Er ritt weiter, die Hufe seines Pferdes klackerten auf feuchten Steinen, und der Geruch von verbranntem Papier hing so dicht in der Luft, dass er ihn schmecken konnte – bitter, scharf, das Aroma von tausend Jahren Gelehrsamkeit, die sich in Rauch verwandelte.
+
+Der junge mongolische Offizier neben ihm zügelte sein Pferd ungeduldig. Er hieß Tümen, oder vielleicht war es nur ein Dienstgrad, den Juvaini nicht richtig verstanden hatte. Er war jung, vielleicht zwanzig, mit den breiten Wangenknochen und der glatten Gesichtshaut der Steppe. Seine Rüstung war noch neu, das Leder unverkratzt.
+
+„Wohin jetzt, Schreiber?“
+
+Seine Stimme klang gelangweilt. Juvaini hatte gelernt, diese Langeweile zu lesen – sie bedeutete Ungeduld, die Bereitschaft, das zu tun, wozu er keinen Befehl hatte, und es später als Missverständnis zu erklären.
+
+„Zum Verwaltungsarchiv der Hanbaliten“, sagte Juvaini ruhig. „Westseite des Zitadellenbezirks. Hülegü will die Steuerregister und die Landtitel. Lesbare, versteht sich. Nicht von den Flammen gefressen.“
+
+Tümen schnaubte. „Papier. Wir verbrennen eine Stadt, und dein Herr will Papier.“
+
+„Euer Herr“, korrigierte Juvaini. Er sagte es ohne Schärfe, fast freundlich. Das war seine Kunst: Er erinnerte die Männer an ihre Loyalität, ohne sie zu demütigen. „Und ja. Papier. Das Reich braucht mehr als Schwerter. Es braucht Listen. Wer schuldet was. Wem gehört das Land, das ihr erobert habt?“
+
+„Uns gehört es“, sagte Tümen.
+
+„Dann müsst ihr wissen, was es ist, das euch gehört. Sonst seid ihr nur Räuber, keine Herrscher.“ Juvaini lenkte sein Pferd nach links, weg vom Fluss, in eine schmale Gasse. Die Häuser standen noch hier, aber die Fenster waren leer, die Türen offen. Er hörte Schreie aus der Ferne, einen einzelnen Schrei, der abrupt abbrach, als hätte jemand ihn mit der Hand erstickt.
+
+Er zählte die Schritte seines Pferdes. Eins. Zwei. Drei. Das half.
+
+Das Verwaltungsarchiv der Hanbaliten war ein quadratischer Bau aus gebrannten Ziegeln, zweistöckig, mit schmalen Fenstern, die wie Schießscharten aussahen. Ein Gebäude, das Wissen hortete, als wäre es Gold. Juvaini stieg ab, band das Pferd an einen Eisenring, der einst eine Lampe gehalten hatte, und ging zur Tür.
+
+Sie war offen. Das war schlecht.
+
+Er trat ein. Im Inneren roch es nach altem Papier, nach Staub und nach der Stille, die nur dort herrscht, wo Menschen weggelaufen sind. Die Regale standen noch – massive Holzgestelle, die bis zur Decke reichten, gefüllt mit Rollen und Bündeln. Einige waren umgekippt, der Inhalt verstreut. Juvaini hob eine Rolle auf, wickelte sie halb auf. Steuerliste der Ölpressen, 1247. Nichts, was Hülegü interessierte, aber wichtig für die Verwaltung. Er legte sie zurück.
+
+Tümen war ihm gefolgt. „Was suchst du?“
+
+„Alles, was die Eroberung betrifft. Landtitel, Steuerregister, Verträge. Wenn wir sie nicht sichern, werden die Soldaten sie verbrennen, um sich zu wärmen, oder die Kaufleute werden sie stehlen und an die nächsten Machthaber verkaufen.“ Juvaini ging durch den Raum, die Hand leicht auf den Regalen, als zählte er die Bücher durch Berührung. „Wir müssen sie versiegeln. Deine Männer – wie viele hast du?“
+
+„Fünf.“
+
+„Genug. Stellt Posten auf. Keiner darf hinein, bis ich zurückkomme. Wenn Soldaten fragen, sagt: Befehl von Hülegü. Wenn sie nicht hören, schneidet sie nieder. Es wird mir leidtun, aber eurem Khagan wird das Papier mehr wert sein als ihr Leben.“ Er sagte es ohne Ironie. Das war die Sprache, die sie verstanden.
+
+Tümen zögerte. Dann nickte er, knapp, und ging nach draußen. Juvaini hörte seine Rufe, die Befehle in einer Sprache, die er verstand, aber nicht liebte. Die Schritte der Männer. Das Klirren von Waffen.
+
+Er atmete tief ein. Der Geruch von altem Papier überdeckte den Rauch für einen Moment, und er schloss die Augen. Er war gut in dem, was er tat. Das war sein Trost. Er half, das zu bewahren, was nach dem Feuer übrig blieb. Er war der letzte Kopist des persischen Geistes, der die Hand der Eroberer führte, um zu retten, was zu retten war.
+
+Draußen explodierte ein Schrei. Juvaini öffnete die Augen.
+
+Ein Soldat stand in der Tür. Nicht Tümens, ein anderer – älter, die Rüstung mit Ruß bedeckt, das Gesicht schweißglänzend von der Anstrengung des Weges. Er japste nach Luft.
+
+„Juvaini? Der Schreiber?“
+
+„Ja.“
+
+Der Soldat kam näher, die Hand auf dem Schwert, als wäre er unsicher, ob Juvaini Freund oder Feind war. „Das Viertel westlich des Zitadellenbezirks brennt. Sie sagen, es ist das Viertel der Schreiber und Gelehrten. Dein Haus – sie sagten, du wohnst dort.“
+
+Juvaini spürte etwas in der Brust. Keine Panik, nicht sofort. Eine Kälte, die langsam stieg.
+
+„Welches Haus?“
+
+Der Soldat zuckte die Achseln. „Weiß ich nicht. Ich soll nur sagen: Das Viertel brennt. Manche Häuser stehen noch, aber die Flammen kommen. Du solltest kommen, wenn du noch etwas retten willst. Sonst sagten sie, ich soll es dir nicht sagen. Aber ich kenne deinen Namen. Du hast meinem Bruder geholfen, letztes Jahr, in Hamadan. Die Steuerliste. Du hast ihn nicht hängen lassen.“ Der Soldat spuckte auf den Boden. „Also sage ich es dir.“
+
+Juvaini nickte. Er spürte die Kälte jetzt deutlicher, ein Kribbeln in den Fingerspitzen. „Danke. Wie heißt du?“
+
+„Das ist egal. Beeil dich.“ Der Soldat drehte sich um und lief hinaus, seine Schritte verklangen im Lärm der Stadt.
+
+Juvaini blieb stehen. Er sah die Regale, die Rollen, die Ordnung, die er in zehn Jahren Dienst gelernt hatte zu lieben. Dann sah er die Truhe in der Ecke, die er mitgebracht hatte – leer, bereit, die wichtigsten Dokumente aufzunehmen. Er sah sie an, und die Kälte in seiner Brust wurde heiß.
+
+Das Viertel der Gelehrten. Sein Haus. Die Truhe unter dem Bett. Das Filzbündel.
+
+Er drehte sich um und lief.
+
+Draußen traf er auf Tümen, der gerade einen der Wachen anwies. Er packte den jungen Offizier am Arm – eine Geste, die er sich nie erlaubt hätte, wenn er klar denken könnte. „Das Viertel brennt“, sagte er. „Mein Haus.“
+
+Tümens Gesicht zeigte nichts. „Wir sind hier, um ein Archiv zu sichern. Du hast es gesagt. Dein Haus – das ist dein Problem, nicht meins.“
+
+„Ich brauche deine Männer. Nur zwei. Eine Stunde. Ich gebe dir Gold. Das Doppelte, was du in einem Jahr verdienst.“
+
+Tümen sah ihn an. Seine Augen waren flach, unbewegt. „Gold hilft mir nicht, wenn der Khagan erfährt, dass ich sein Archiv den Flammen überlassen habe, während ich Privathäuser rette.“
+
+„Das Archiv ist gesichert“, sagte Juvaini. Die Worte kamen schnell, sein Verstand arbeitete fieberhaft. „Die Türen sind versiegelt. Deine Männer stehen hier. Die Flammen sind im Westen, der Wind kommt von Osten. Das Archiv ist sicher, es sei denn, du zündest es selbst an. Komm mit mir. Zwei Männer. Eine Stunde. Ich schwöre dir, ich werde dich dafür belohnen, wie du es nicht glaubst.“
+
+Tümen schwieg einen langen Moment. Juvaini hörte das Knistern von Feuer in der Ferne, das gedämpfte Schreien, das Pochen der Hufe auf dem Pflaster. Die Stadt klang wie ein verwundetes Tier.
+
+„Zwei Männer“, sagte Tümen schließlich. „Eine Stunde. Dann sind wir zurück, oder ich lasse dich in der Asche zurück, und dein Gold kauft dir eine bessere Stelle auf dem nächsten Schlachtfeld.“
+
+Juvaini nickte. Er zeigte auf zwei Männer, die am Eingang standen. „Ihr. Folgt mir. Schnell.“ Er stieg auf sein Pferd, riss es herum, und galoppierte durch die Gassen zurück, der Richtung des Feuers entgegen.
+
+Der Weg war vertraut. Er kannte jede Biegung, jeden Stein. Zehn Jahre in dieser Stadt, zehn Jahre, in denen er zwischen Archiven und Höfen gewandert war, und doch war das Haus, in dem er lebte, nur ein Ort der Stille gewesen.
+
+Der Rauch wurde mit jeder Minute dichter. Die Luft brannte in der Lunge.
+
+Die Gasse vor ihm öffnete sich zu einem kleinen Platz, und er sah es: das Viertel der Gelehrten, das er liebte, stand in Flammen. Die Häuser waren nicht mehr wiederzuerkennen. Die Fassaden waren schwarz, die Dächer eingestürzt oder im Begriff einzustürzen. Die Flammen leckten aus den Fenstern, die Ziegel barsten von der Hitze, und die Gasse war übersät mit Trümmern, verbrannten Möbeln, den Körpern derer, die nicht rechtzeitig geflohen waren.
+
+Er sprang vom Pferd, noch bevor es stand, und rannte.
+
+„Wo wohnst du?“ schrie einer der Soldaten hinter ihm.
+
+„Drittes Haus links“, keuchte Juvaini. „Die Tür mit dem blauen Stein über dem Bogen.“ Er rannte durch die Trümmer, spürte die Hitze auf der Haut, hörte das Knistern des Holzes. Das Haus stand noch. Die Fassade war geschwärzt, der blaue Stein über der Tür war fast unsichtbar, aber das Dach war noch halb intakt, und die Fenster waren geschlossen. Noch. Aber in einer Stunde würde es anders sein. In einer halben Stunde.
+
+Er riss die Tür auf. Die Flammen waren noch nicht im Inneren. Der Gang war verraucht, aber die Flammen waren noch im Obergeschoss. Er hörte ihr Fressen, das Krachen von Balken.
+
+Seine Kammer war im Erdgeschoss, hinten, rechts. Er wusste den Weg blind.
+
+Er rannte den Gang hinunter, stolperte über einen Tisch, der umgestürzt war, fing sich an der Wand. Die Handfläche brannte von der heißen Ziegeloberfläche. Er ignorierte es.
+
+Die Tür zu seiner Kammer war offen. Er trat ein.
+
+Das Bett stand noch. Der Tisch, der daran grenzte, war von der Decke des einstürzenden Regals bedeckt. Bücher und Rollen lagen auf dem Boden. Juvaini kniete nieder, griff unter das Bett, tastete nach der Truhe.
+
+Die Truhe war da.
+
+Er zog sie hervor. Sie war klein, aus Zedernholz, mit einem einfachen Messingverschluss. Er hatte sie vor Jahren gekauft, in Samarkand, für einen Preis, den er sich kaum leisten konnte. Sie wog nicht viel.
+
+Die Truhe hier. Aber das Bündel – das Filzbündel – war nicht in der Truhe. Es war unter der losen Diele, die er vor einem Jahr ausgehöhlt hatte, versteckt vor neugierigen Blicken. Er hob die Diele auf, griff in das Loch, und seine Finger fanden den Stoff.
+
+Das Filzbündel war noch da.
+
+Seine Hände zitterten. Er zog es heraus, drückte es an die Brust. Der Filz war kalt, obwohl die Luft um ihn herum heiß war. Er spürte die Form der Gegenstände darin: das hart umwickelte Paket der ungeöffneten Briefe, das leichtere Bündel der älteren Briefe, die er kannte, das kleine Etui mit der Feder. Alles noch da.
+
+Er stand auf, wankte, hielt die Truhe unter eine Arm, das Filzbündel unter den anderen. Er lief zurück den Gang, vorbei an den Flammen, die jetzt durch das obere Stockwerk fielen, und trat wieder auf die Straße.
+
+Die zwei Soldaten warteten. Einer sah ihn an, das Bündel in seinen Armen, die Truhe.
+
+„Das?“ fragte der Soldat. „Dafür bist du gerannt? Ein Bündel und eine Schachtel?“
+
+„Helft mir“, sagte Juvaini. Seine Stimme klang rau, aber fest. „Die Truhe auf mein Pferd. Schnell. Und dann zurück zum Archiv. Schnell, sage ich.“ Er warf sich auf sein Pferd, die Truhe vor sich auf dem Sattel, das Filzbündel auf den Knien. Er ritt zurück, die Flammen hinter sich, der Rauch in der Lunge. Er dachte an nichts. Er hielt das Bündel fest.
+
+Zurück am Archiv, angehalten, abgestiegen. Tümen wartete, die Arme verschränkt. „Eine Stunde. Du hast sechzehn Sekunden übrig.“ Er sah das Filzbündel, die Truhe. „Was ist das?“
+
+Juvaini wandte sich nicht um. „Nichts. Privat. Ich brauche einen Hof. Einen abgeschiedenen. Hinter dem Archiv – die Mauer da. Ja, dort. Ich brauche eine Stunde allein. Dann stehe ich zur Verfügung.“
+
+Tümen sah ihn einen Moment an, die schmalen Augen unlesbar. Dann zuckte er die Achseln. „Eine Stunde. Dann arbeitest du. Wir sichern die Archive, wie befohlen.“ Er drehte sich um und rief seinen Männern Anweisungen zu.
+
+Juvaini ging um das Archiv herum, die Schritte schwer, die Truhe und das Bündel auf den Armen. Der Hof, den er meinte, war ein kleiner, von Mauern umgebener Platz, einst ein Kräutergarten der Sekretäre. Jetzt stand das Kraut vertrocknet zwischen den Steinen, die Erde mit Asche bedeckt.
+
+Er setzte die Truhe auf die Mauerbank, stellte das Filzbündel vorsichtig daneben. Dann öffnete er die Truhe.
+
+Sie war leer, bis auf einen flachen Seidenbeutel, der ein wenig Münzen enthielt. Gold, ja, aber nicht wichtig. Er schob den Beutel beiseite. Dann hob er das Filzbündel an, zog die Verschnürung auf, wickelte die Schichten ab.
+
+Die Briefe waren da.
+
+Er zählte sie mit den Fingern. Zwölf. Die älteren, die er gelesen hatte, die er kannte, die er wusste, was sie enthielten – elf von ihnen. Und der letzte, der zwölfte, in der stärkeren Hülle, die versiegelt war, die er nie geöffnet hatte.
+
+Er nahm ihn heraus. Das Papier war fein, das Siegel aus schwarzem Wachs, mit dem Abdruck einer Blume – einer Narzisse, wenn er sich recht erinnerte. Das Siegel war unversehrt. Kein Riss. Kein Kratzer.
+
+Erleichterung durchflutete ihn, so stark, dass er sich setzen musste, auf einen Stein, der vor Hitze noch warm war. Aber die Erleichterung fühlte sich nicht wie Freude an. Sie fühlte sich wie Trauer an. Weinen. Er spürte die Tränen nicht, aber sie waren da, eine Nässe auf der Wange.
+
+Sechzehn Jahre.
+
+Sechzehn Jahre hielt er diesen Brief in den Händen, ohne ihn zu öffnen. Er wusste nicht, was drin stand. Er wusste nur, von wem er kam. Die Handschrift auf dem Umschlag war zart, aber bestimmt. Fatima. Fatima, in den letzten Tagen ihres Lebens geschrieben, bevor die Anklage kam, bevor die Nadel, bevor der Fluch, den sie nicht hätte aussprechen sollen.
+
+Juvaini hatte den Brief nie geöffnet.
+
+Er hatte ihn nicht öffnen können.
+
+Er hielt ihn jetzt in den Händen, in der Asche einer Stadt, die brannte, und die gleiche Angst ergriff ihn wie immer: dass der Brief etwas enthielt, das er nicht ertragen konnte. Dass sie ihm Vorwürfe machte. Dass sie ihn bat, etwas zu tun, was er nicht getan hatte. Dass sie ihn liebte, und er hatte sie nicht gerettet.
+
+Er hob den Brief an das Licht, das durch den Rauch fiel. Das schwarze Siegel schimmerte.
+
+Schwester, dachte er. Er wusste nicht, warum er das dachte. Fatima hatte keine Schwester gehabt. Er hatte nie von einer Schwester gehört. Aber in dem Moment, als er das Siegel ansah, dachte er: Das ist für die Schwester.
+
+Er riss das Siegel auf. Seine Hände zitterten nicht. Er war ruhig, so ruhig, dass es ihm auffiel. Die Papierhülle ließ sich leicht öffnen. Darin lag ein gefaltetes Blatt, so dünn, dass die Tinte auf der anderen Seite durchschien.
+
+Er entfaltete es.
+
+Die Handschrift war Fatimas. Ihre Buchstaben – fest, schräg, mit kleinen Schleifen an den Enden der Wörter. Er hatte sie nicht gesehen, seit er die letzte Seite von ihren Briefen gelesen hatte. Er las die erste Zeile.
+
+„Schwester,“
+
+---
+
+## 2. Kapitel 1 – Zwei Sätze
+
+Die Nacht war kalt und sternenlos, als die Dienerin Fatima weckte.
+
+Kein Wort. Nur eine Hand auf der Schulter, ein Druck, der keine Frage duldete. Fatima öffnete die Augen und sah das Mädchen im Licht der erlöschenden Lampe stehen – eine der Stummen, die Töregene um sich versammelt hatte, Mädchen ohne Zunge, die keine Geheimnisse weitertragen konnten.
+
+Fatima setzte sich auf. Sie fragte nicht. Sie hatte in zwanzig Jahren gelernt, dass Fragen an diesem Hof eine Währung waren, die man nicht verschwenden durfte. Stattdessen stand sie auf, zog den schweren Mantel über die Schultern und band die Filzstiefel fest. Die Dienerin wartete, regungslos, die Lampe in der Hand.
+
+Nachtweckung hieß an diesem Hof: Gefahr.
+
+Fatima folgte der Stummen durch die Gänge der Ordu, an den schlafenden Jurten vorbei, an den Wachtfeuern, die in der Kälte zuckten. Der Wind trug den Geruch von Pferdemist und gefrorener Erde, und irgendwo in der Ferne hörte sie das Heulen eines Wolfes. Sie zählte die Schritte. Siebenundvierzig bis zum Vorzelt. Zwölf bis zum inneren Zelt. Die Dienerin blieb stehen, zog den Vorhang zurück und ließ sie allein eintreten.
+
+Töregene saß auf dem Teppich, die Beine untergeschlagen, den Rücken gerade. Sie trug kein Weiß. Sie trug ein dunkles Gewand, fast schwarz, und ihr Gesicht war unbewegt wie Stein. Vor ihr stand eine Schale mit unberührtem Tee, daneben eine Lampe, deren Flamme flackerte, als der Vorhang fiel.
+
+Fatima blieb stehen. Sie wartete.
+
+Töregene sah sie an. Einen langen Augenblick, in dem nichts geschah, außer dass der Wind gegen die Zeltwände drückte und die Lampe zischte.
+
+Dann sprach sie. Zwei Sätze, gemessen, als hätte sie sie geübt.
+
+„Mein Mann ist tot.“
+
+Fatima spürte, wie die Worte sie trafen, kalt und schwer, wie ein Stein, der ins Wasser fällt. Sie sagte nichts.
+
+„Sag mir, was du gesehen hast“, fuhr Töregene fort, ihre Stimme ruhig, ohne Zittern. „Und dann vergiss es.“
+
+Fatima atmete einmal tief ein. Sie ließ die Worte in sich wirken, ordnete sie, prüfte sie auf Fallstricke. Der Khan tot. Töregene wusste es – und sie sprach es aus, bevor es offiziell war. Das bedeutete, dass sie schon gehandelt hatte. Dass die Tore gesperrt waren, die Wachen verdoppelt, die Kuriere gestoppt. Dass sie, Fatima, die erste war, die es erfuhr, weil Töregene sie brauchte.
+
+Aber sie brauchte sie auf eine bestimmte Art.
+
+Fatima setzte sich auf den Teppich, Töregene gegenüber, und begann zu sprechen.
+
+„Der Khan trank wie jede Nacht“, sagte sie. „Das Gelage war im großen Zelt, die Generäle waren da, die Söhne, die Schreiber. Er lachte, er aß, er trank. Der Wein floss in Strömen, wie immer. Er rief nach mehr, und ein Diener schenkte nach. Dann –“
+
+Sie machte eine Pause. Sie sah Töregene an, deren Augen sie nicht losließen.
+
+„Dann brach er zusammen. Kein Schrei, kein Stöhnen. Er fiel einfach um, als ob die Knochen ihn plötzlich nicht mehr tragen wollten. Die Ärzte kamen. Sie versuchten, ihn zu beleben, aber es war zu spät. Er war tot, bevor sie ihn auf die Matte legen konnten.“
+
+Töregene nickte. Einmal. Langsam.
+
+„Der Diener?“
+
+„Ein junger Mann, aus dem Westen, glaube ich. Einer von den Neuen, die der Khan erst vor wenigen Wochen in den Dienst genommen hatte. Er war verschwunden, als die Ärzte kamen. Niemand hat ihn seitdem gesehen.“
+
+Das war wahr. Der Diener war verschwunden. Fatima hatte ihn nicht mehr gesehen, nachdem der Khan gefallen war. Sie hatte ihn auch nicht gesucht.
+
+Aber sie hatte sein Gesicht wiedererkannt.
+
+In dem Moment, als der Khan zusammenbrach, als der Diener den Krug fallen ließ und zurückwich, hatte Fatima ihn angesehen, und etwas in ihr war kalt geworden. Sie kannte dieses Gesicht. Sie hatte es gesehen, vor Jahren, in einer anderen Stadt, in einem anderen Leben. Der Diener war kein Fremder gewesen. Er war jemand, den sie kannte – jemand, der nicht hier sein sollte, nicht in dieser Ordu, nicht in dieser Nacht.
+
+Sie sagte es nicht.
+
+Sie ließ die Lücke stehen, wie eine offene Tür, durch die niemand gehen musste.
+
+Töregene sah sie an. Der Blick dauerte länger als nötig. Fatima hielt ihn aus, ohne zu blinzeln, ohne den Kopf zu senken. Sie hatte gelernt, dass Schweigen manchmal die beste Antwort war, besonders wenn man nicht wusste, ob die Wahrheit töten würde.
+
+Die Regentin sagte nichts. Sie drückte nicht nach. Aber in ihren Augen lag etwas – eine Ahnung, ein Wissen, das sie nicht aussprach. Sie wusste, dass Fatima etwas ausließ. Sie wusste es, und sie entschied, nicht zu fragen.
+
+Fatima fragte sich, warum.
+
+Vielleicht, weil Töregene die Antwort nicht hören wollte. Vielleicht, weil sie sie schon kannte. Vielleicht, weil es in diesem Moment nicht um die Wahrheit ging, sondern um die Kontrolle darüber, wer sie wann erfuhr.
+
+Töregene erhob sich. Ihre Bewegungen waren präzise, jede Handlung ein Befehl.
+
+„Die Tore bleiben geschlossen“, sagte sie. „Niemand verlässt den Ordu, bis ich es sage. Die Kuriere werden angehalten, die Briefe gesammelt. Bei Tageslicht versiegelst du die Kanzleien – alle Papiere, die den Khan betreffen, kommen in meine Truhe. Niemand öffnet sie ohne mein Siegel.“
+
+Fatima nickte. Sie stand auf, bereit zu gehen.
+
+„Und die Küche“, fügte Töregene hinzu, ihre Stimme plötzlich leiser, fast zärtlich. „Beruhige die Küche. Die Köche werden reden, die Diener werden flüstern. Sag ihnen, der Khan sei friedlich gestorben, im Schlaf, an Altersschwäche. Sag ihnen, es gäbe nichts zu fürchten. Sag ihnen, sie sollen schweigen, oder ich werde sie schweigen lassen.“
+
+Fatima verstand. Die Küche war der Ort, an dem Gerüchte geboren wurden, wo sie wuchsen und sich ausbreiteten wie Feuer im trockenen Gras. Wenn man die Küche kontrollierte, kontrollierte man die Erzählung.
+
+„Ich werde es tun“, sagte sie.
+
+Töregene trat an eine Truhe, die in der Ecke des Zeltes stand, und öffnete sie. Sie nahm etwas heraus – einen Gegenstand, der im Lampenlicht aufblitzte. Gold. Ein Becher, breit und schwer, mit eingelegten Steinen, die das Licht brachen.
+
+Der goldene Becher des Abends.
+
+Fatima erkannte ihn. Sie hatte gesehen, wie der Khan daraus getrunken hatte, in der Nacht, in der er starb. Sie hatte gesehen, wie der Diener ihn nachgeschenkt hatte, mit Wein, der vielleicht mehr war als Wein.
+
+Töregene hielt den Becher in den Händen, drehte ihn, als ob sie sein Gewicht prüfte. Dann stellte sie ihn in die Truhe, vorsichtig, fast zärtlich, und schloss den Deckel.
+
+Kein Kommentar. Keine Erklärung.
+
+Fatima sah zu, und sie fragte nicht.
+
+Die Regentin wandte sich um. Ihr Gesicht war unbewegt, aber ihre Augen waren wach, hellwach, als ob sie in dieser Nacht nicht schlafen würde.
+
+„Geh“, sagte Töregene. „Tu, was ich gesagt habe. Und vergiss nicht – du hast nichts gesehen. Du hast nichts gehört. Du weißt nichts.“
+
+Fatima verbeugte sich und trat hinaus in die Kälte.
+
+Der Wind war stärker geworden, und die Sterne waren hinter Wolken verschwunden. Sie ging durch die Gänge der Ordu, an den schlafenden Jurten vorbei, an den Wachen, die sie mit misstrauischen Blicken verfolgten. Sie spürte die Kälte nicht. Sie spürte nur das Gewicht dessen, was sie wusste, und das Gewicht dessen, was sie verschwiegen hatte.
+
+Der Diener.
+
+Sein Gesicht.
+
+Sie hatte es wiedererkannt, in dem Moment, als der Khan fiel. Es war das Gesicht eines Mannes, den sie vor Jahren gesehen hatte, in Chorasan, in einer Stadt, die nicht mehr stand. Ein Gesicht, das sie mit einer anderen Zeit verband, mit einem anderen Leben, mit einer Schwester, die tot war.
+
+Warum war er hier?
+
+Warum hatte er dem Khan den Wein nachgeschenkt?
+
+Sie wusste es nicht. Aber sie wusste, dass sie es nicht sagen durfte. Nicht heute Nacht. Vielleicht nie.
+
+Sie erreichte ihr Zelt, schob den Vorhang beiseite und trat ein. Die Lampe war erloschen, aber sie brauchte kein Licht. Sie kannte jeden Gegenstand in diesem Raum, jede Matte, jeden Krug, jeden Stapel Papier. Sie setzte sich auf den Teppich, zog die Knie an die Brust und starrte in die Dunkelheit.
+
+Zum ersten Mal in diesem Buch hatte sie geschwiegen.
+
+Sie wusste, dass es nicht das letzte Mal war.
+
+Draußen heulte der Wind, und die Nacht war lang, und irgendwo in der Ordu wachte eine Frau über einen goldenen Becher, der mehr wusste, als sie sagte.
+
+Fatima schloss die Augen.
+
+Sie dachte an den Diener.
+
+Sie dachte an das Gesicht, das sie erkannt hatte.
+
+Und sie fragte sich, ob Töregene wusste, was sie wusste – oder ob sie nur ahnte, dass es etwas gab, das sie nicht wusste.
+
+Die Antwort lag in der Dunkelheit, unausgesprochen, unberührt.
+
+Fatima wartete auf den Morgen.
+
+---
+
+## 3. Das Trinkgelage
+
+Das Gelage wogte durch die Nacht wie ein schwerer Fluss, träge an der Oberfläche, reißend darunter. Fatima saß am Rand des Kreises, den Rücken gegen einen geschnitzten Pfeiler gelehnt, die Beine untergeschlagen, die Hände im Schoß. Sie beobachtete. Das war ihre Aufgabe, seit zwanzig Jahren, und sie hatte gelernt, dass Beobachten dasselbe war wie Hören, wie Warten, wie das Halten des Atems in dem Moment, bevor etwas geschah.
+
+Der Khan saß auf einem Kissen aus schwarzer Wolle, den Rücken gerade, den Becher in der Hand. Ögedei, Khagan des Weltreichs, Sohn Dschingis Khans, Eroberer der Städte, Herrscher der Steppe. Er lachte, und sein Lachen war laut und warm wie ein Feuer, das zu lange brannte. Sein Bart war grau, sein Gesicht von Falten durchzogen, und seine Augen waren hell und wach, trotz des Weins, den er trank, und des Weins, den er getrunken hatte, und des Weins, den er noch trinken würde.
+
+Er erzählte eine Geschichte. Etwas von einem Feldzug, von einer Stadt, die sich nicht ergeben hatte, und von einem Bogenschützen, der seinen Pfeil durch den Hals eines feindlichen Hauptmanns geschossen hatte, während der Regen fiel, und der Regen war rot gewesen, und niemand hatte gelacht, außer dem Khan.
+
+Die Männer um ihn lachten jetzt. Sie lachten, weil er lachte, oder weil sie wussten, dass Lachen erwartet wurde, oder weil sie betrunken waren. Fatima unterschied nicht. Sie beobachtete die Hände.
+
+Die Hände der Diener, die die Krüge trugen. Die Hände der Würdenträger, die die Becher hoben. Die Hand des Khans, schwer und rot, mit breiten Fingern und Narben, die von Jahren des Schwertkampfs und der Jagd zeugten. Er trank, und die Hand zitterte nicht. Er trank, und die Hand war fest.
+
+Fatima musterte die Diener. Sie waren jung, die meisten von ihnen, Söhne von Nomaden oder versklavte Kinder aus den eroberten Ländern im Westen. Sie bewegten sich leise, fast unsichtbar, als ob sie gelernt hatten, dass ihre Anwesenheit eine Störung war, die geduldet, aber nicht bemerkt werden sollte.
+
+Einer war anders.
+
+Er war jung, aber nicht so jung wie die anderen. Vielleicht fünfundzwanzig. Sein Gesicht war glatt, sein Bart dünn, und seine Augen waren dunkel und leer. Er trug den Krug mit einer Gelassenheit, die nicht zu seinem Alter passte, und er schenkte nur einmal ein. Nur für den Khan. Er ging an den anderen vorbei, füllte ihre Becher nicht, beachtete sie nicht. Er bewegte sich durch das Gelage wie ein Geist, der wusste, dass er nicht gesehen werden würde.
+
+Fatima beobachtete ihn. Sie beobachtete, wie er den Krug neigte, wie der Wein in den Becher des Khans floss, dunkel und schwer, mit dem Geruch von getrockneten Früchten und Gewürzen. Sie beobachtete, wie er zurücktrat, wie er sich unter die anderen Diener mischte, wie er im Schatten verschwand.
+
+Das war falsch. Sie wusste es, noch bevor sie es dachte. Ein Diener, der nur einmal einschenkte, war ein Diener, der einen Auftrag hatte. Ein Diener, der einen Auftrag hatte, war ein Diener, der nicht da sein sollte.
+
+Aber sie sagte nichts. Sie beobachtete nur.
+
+Ögedei trank, stellte den Becher ab, lachte wieder. Er wischte sich den Mund mit dem Handrücken und begann eine neue Geschichte, von einem Pferd, das durch die Linien der Feinde galoppiert war, von einem Bogenschützen, der aus dem Sattel fiel und dennoch seinen Pfeil abschoss. Die Worte flossen aus ihm, vertraut und sicher, wie Wasser, das seit Jahren denselben Weg suchte.
+
+Fatima hörte zu. Sie hörte die Worte, aber sie hörte auch das, was zwischen den Worten lag. Die Pausen, in denen der Khan Atem holte, schwer und tief. Die Momente, in denen sein Lachen brach, nur für den Bruchteil eines Herzschlags, bevor es weiterging. Der Schweiß auf seiner Stirn, den er nicht beachtete.
+
+Sie sah Töregene am anderen Ende des Raumes. Die Regentin saß auf einem flachen Kissen, den Rücken gerade, die Hände gefaltet im Schoß. Sie trank nicht. Sie lachte nicht. Sie sprach nicht. Sie beobachtete, genau wie Fatima, aber sie beobachtete etwas anderes. Sie beobachtete die Männer, die um den Khan saßen, die Art, wie sie sich bewegten, die Art, wie sie ihre Becher hielten, die Art, wie sie den Khan ansahen.
+
+Fatima verstand. Die Regentin zählte. Sie zählte die Gesichter, die loyal waren, die zögerten, die bereit waren, sich zu wenden, falls der Khan fiel.
+
+Und der Khan fiel.
+
+Es geschah ohne Vorwarnung. Kein Schrei, kein Aufschrei, kein Blut. Ögedei trank, stellte den Becher ab, öffnete den Mund, um eine neue Geschichte zu beginnen – und dann hörte er auf. Seine Augen weiteten sich, kurz, fast unsichtbar. Seine Hand griff nach der Brust, zögerte, fiel herab. Er kippte zur Seite, langsam, wie ein Baum, der sich neigt, bevor er bricht.
+
+Das Gelage verstummte. Die Männer sahen auf, die Becher in der Hand, die Gesichter verwirrt. Niemand sprach. Niemand bewegte sich.
+
+Fünf Herzschläge. Zehn.
+
+Dann erhob sich Töregene. Sie stand auf, langsam, ohne Eile, und trat an die Seite ihres Mannes. Sie zog seinen Kopf in ihren Schoß, strich ihm über das Haar, und ihre Stimme, als sie sprach, war ruhig und klar und ließ keinen Zweifel.
+
+„Der Khan ist müde“, sagte sie. „Er braucht Ruhe. Bringt ihn in sein Zelt.“
+
+Die Männer zögerten. Einer von ihnen, ein General, dessen Name Fatima nicht kannte, erhob sich, trat vor. „Aber –“
+
+„Er ist müde“, wiederholte Töregene, und ihre Stimme war schärfer jetzt, wie eine Klinge, die gezogen wird. „Bringt ihn in sein Zelt. Und dann geht. Alle. Das Gelage ist beendet.“
+
+Die Männer gehorchten. Sie hoben den Khan, vorsichtig, als ob er schliefe, und trugen ihn hinaus. Die Diener folgten, die Krüge in der Hand, die Gesichter leer. Das Feuer in der Mitte des Raumes flackerte, warf Schatten an die Wände, und dann war der Raum leer, bis auf Töregene und Fatima.
+
+Die Regentin stand noch immer an der Stelle, an der der Khan gesessen hatte. Sie blickte auf den leeren Becher, der umgekippt neben dem Kissen lag, den Wein, der sich langsam in den Filzteppich sog.
+
+Fatima wartete. Sie wusste, dass sie sprechen würde, wenn sie gefragt wurde, und dass sie schweigen würde, wenn sie es nicht tat.
+
+Töregene drehte sich um. Ihre Augen waren trocken, ihr Gesicht unbewegt.
+
+„Du hast nichts gesehen“, sagte sie.
+
+„Ich habe nichts gesehen“, wiederholte Fatima.
+
+„Du hast nichts gehört.“
+
+„Ich habe nichts gehört.“
+
+Töregene nickte. Dann wandte sie sich ab, griff nach dem Becher, hob ihn auf, untersuchte ihn im Licht der flackernden Flammen. Sie hielt ihn in den Händen, als ob er etwas Kostbares wäre, etwas Zerbrechliches, und dann legte sie ihn beiseite und trat hinaus in die Nacht.
+
+Fatima blieb allein zurück, in der Stille des leeren Raumes, und sie dachte an den Diener. Sie dachte an seine Hände, die den Krug gehalten hatten, an die Art, wie er eingeschenkt hatte, an das Gesicht, das sie erkannt hatte, aber nicht verstand.
+
+Sie wusste, dass der Khan nicht an Erschöpfung gestorben war.
+
+Sie wusste nicht, wer es getan hatte.
+
+Aber sie wusste, dass jemand es getan hatte, und dass jemand schneller gewesen war als sie.
+
+---
+
+Der Morgen brach kalt und grau an, und Fatima stand im Hof der Küche, den Rücken zur Sonne, das Gesicht den Frauen zugewandt, die sie anstarrten. Die Köche und Gehilfen, die Diener, die Töchternomaden, die ihr ganzes Leben in dieser Ordu verbracht hatten und die jetzt von ihr hörten, was sie nicht glauben sollten.
+
+Es war ihre Aufgabe, es ihnen glaubhaft zu machen.
+
+„Der Khan ist gestorben“, sagte sie, und ihre Stimme war ruhig, sachlich, als ob sie die Nachricht von einem Viehbestand überbrachte oder die Ankunft eines neuen Karawansenzugs. „Sein Herz hat versagt. Die Ärzte sagen, es sei die Altersschwäche gewesen, die Flüssigkeit in der Brust, die ihn erdrückte. Er ist in der Nacht friedlich eingeschlafen. Es gab keinen Schmerz. Es gab keine Warnung. Es war sein Herz.“
+
+Die Frauen schwiegen. Eine von ihnen, eine ältere Köchin mit Händen, die mit Brandnarben übersät waren, trat einen Schritt vor.
+
+„Aber er war doch noch jung“, sagte sie. „Ein Khan stirbt nicht an Altersschwäche, wenn er noch Kriege führt. Ein Khan stirbt im Sattel, im Kampf, in der Schlacht. Nicht in seinem Bett. Nicht an seinem Herzen.“
+
+Fatima lächelte. Es war ein Lächeln, das nichts mit Freundlichkeit zu tun hatte, sondern mit der Kunst, zu beruhigen, ohne zu antworten.
+
+„Der Khan war alt genug, um zu sterben“, sagte sie. „Sein Körper hat ihn verlassen. Die Reiterei, die Jagd, die Kriege – sie haben ihn getragen, solange er es brauchte. Aber irgendwann, sagt man, bricht selbst der stärkste Stein. Sein Herz hat versagt. Das ist alles. Es gibt nichts weiter zu sehen. Es gibt nichts weiter zu sagen. Ihre Arbeit ist es, diese Ordu am Laufen zu halten, und ich vertraue darauf, dass Sie das tun, was nötig ist. Sie werden weitermachen wie bisher. Sie werden, falls jemand fragt, erzählen, was ich Ihnen gesagt habe. Der Khan starb an seinem Herzen. Altersschwäche. Kein Schmerz. Keine Warnung. Einfach so, wie es sich gehört für einen Mann, der alles erreicht hat, was er erreichen wollte.“
+
+Die Köchin wollte widersprechen, aber Fatima sah sie an, und die Köchin schwieg. Es war kein böser Blick, keine Drohung. Es war nur das Wissen, dass Fragen nicht erlaubt waren.
+
+Fatima wandte sich an die anderen.
+
+„Die Regentin hat angeordnet, dass die Tore geschlossen bleiben“, sagte sie. „Kein Kurier darf die Ordu verlassen, bis sie es erlaubt. Sie werden weitermachen, als ob nichts geschehen wäre. Sie werden essen, trinken, schlafen, arbeiten. Der Khan ist tot. Aber das Reich lebt weiter. Und solange die Regentin es nicht anders befiehlt, wird die Ordu funktionieren wie immer. Ist das klar?“
+
+Die Frauen nickten. Eine nach der anderen verließ den Hof, die Köpfe gesenkt, die Hände in den Schürzen vergraben.
+
+Fatima blieb allein zurück. Sie spürte die Kälte, die aus dem Boden stieg, den Geruch von Rauch und nassem Fell, der in der Luft hing. Sie atmete tief ein, ließ die Schultern sinken, und dann ging sie.
+
+Sie suchte den Diener.
+
+Er war nicht in der Küche, nicht bei den Stallburschen, nicht bei den Wachen. Sie fragte einen jungen Mann, der die Wasserfässer füllte, und er zuckte mit den Schultern. Sie fragte eine alte Frau, die die Wolle für die Jurten kämmte, und sie sagte, sie habe ihn nicht gesehen. Sie fragte einen Unteroffizier der Palastwache, und der Unteroffizier runzelte die Stirn.
+
+„Der Diener? Der mit dem leeren Gesicht?“
+
+„Ja.“
+
+„Der ist nicht mehr da. Wurde heute Morgen versetzt. Zum Stab des Prinzen Köden, glaub ich. Oder vielleicht ins Trainingslager. Weiß ich nicht genau. Er war ja erst seit zwei Tagen hier. Bilaterale Versetzung, hieß es. Warum fragen Sie?“
+
+Fatima hielt inne. Sie spürte den Wind, der ihr Gesicht streifte, die Kälte, die in ihre Finger kroch.
+
+„Kein Grund“, sagte sie. „Danke.“
+
+Sie ging zurück zu ihrem Zelt, langsam, Schritt für Schritt. Sie spürte die Blicke der Wachen, die sie verfolgten, die Fragen, die sie nicht stellten. Sie spürte das Gewicht dessen, was sie wusste, und das Gewicht dessen, was sie nicht wusste.
+
+Jemand hatte den Diener versetzt. Oder jemand hatte ihn verschwinden lassen. Es war jemand, der Zugang zu den Personalakten hatte, zu den Abläufen, zu der Macht, einen Namen aus der Liste zu streichen, bevor ihn jemand suchte.
+
+Jemand war schneller gewesen als sie.
+
+Sie erreichte ihr Zelt, schob den Vorhang beiseite und trat ein. Die Lampe war erloschen, aber sie brauchte kein Licht. Sie setzte sich auf den Teppich, zog die Knie an die Brust und starrte in die Dunkelheit.
+
+Der Khan war tot. Es war kein Herzversagen gewesen. Es war Mord. Und der Diener, der es getan hatte, war verschwunden, bevor sie ihn fragen konnte, warum.
+
+Sie dachte an Töregene. Sie dachte an den goldenen Becher, den die Regentin in der Nacht gehütet hatte, an die Art, wie sie ihn in den Händen gehalten hatte, als ob er etwas Kostbares wäre.
+
+Ob Töregene wusste, was in dem Becher gewesen war? Ob sie selbst angeordnet hatte, was geschehen sollte?
+
+Fatima wusste es nicht. Sie wusste nur, dass die Wahrheit nicht das war, was man sagte, und dass die Wahrheit nicht das war, was man schrieb. Die Wahrheit war das, was man tat, und das, was man nicht tat, und das, was man wusste, und das, was man verschwieg.
+
+Sie zog die Knie an die Brust und schloss die Augen.
+
+Draußen heulte der Wind, und die Nacht war lang, und irgendwo in der Ordu wachte eine Frau über einen goldenen Becher, der mehr wusste, als sie sagte.
+
+Und Fatima saß in der Dunkelheit, und sie wartete, und sie wusste, dass sie nicht länger diejenige sein konnte, die nur beobachtete.
+
+Sie musste handeln. Bevor es zu spät war.
+
+Sie öffnete die Augen und stand auf. Sie trat an das Brett, auf dem ihre Schriftrollen lagen, und zog eine hervor. Sie setzte sich an die Kante des Teppichs, legte das Papier auf den Boden und begann zu schreiben.
+
+Ein Brief an ihre Schwester. Wie so oft. Aber diesmal waren die Worte anders.
+
+Sie schrieb, was sie gesehen hatte. Den Diener. Das Einschenken. Den Sturz.
+
+Und sie schrieb das, was sie nicht wusste. Den Namen des Mannes. Die Hand, die den Becher bestellt hatte. Die Macht, die ihn verschwinden ließ.
+
+Es war das erste Mal, dass sie aufschrieb, was wirklich geschehen war.
+
+Es war das erste Mal, dass sie die Wahrheit in Worte fasste, die niemand lesen sollte.
+
+Aber sie schrieb weiter.
+
+Denn jemand musste wissen, was geschah. Wenn nicht die Lebenden, dann die Toten. Wenn nicht die Gegenwart, dann die Zukunft.
+
+Sie schrieb.
+
+Und als sie fertig war, faltete sie das Papier zusammen, legte es in das Federetui ihres Vaters und schloss den Deckel.
+
+Draußen begann der Morgen zu grauen, und die Ordu erwachte.
+
+Und Fatima wusste, dass sie nie wieder schweigen würde.
+
+Nicht, solange sie atmete.
+
+---
+
+## 4. Sein Herz
+
+Shigi Qutuqu erwachte, bevor die Hähne krähten.
+
+Es war eine Gewohnheit, älter als sein Amt, älter als der Hof, älter als fast alles in seinem Leben. Er stand auf, wusch sich das Gesicht in der Schale aus grauem Stein und zog die Robe des Richters an – dunkelblau, fast schwarz, mit weißen Bordüren an den Ärmeln. Die Farbe des Urteilsbuchs. Die Farbe des Gesetzes.
+
+Sein Diener brachte Tee, und er trank ihn schweigend, während das erste Licht durch die Filzwände seines Zeltes sickerte. Draußen hörte er die Geräusche der Ordu: Hufschlag auf festgetretenem Boden, das Rufen der Wachen, das Knarren von Wagenrädern. Ein Tag wie jeder andere.
+
+Aber es war kein Tag wie jeder andere.
+
+Der Khan war tot.
+
+Shigi stellte die Schale ab und griff nach dem blau-weißen Buch, das auf dem niedrigen Tisch neben seiner Matte lag. Es war schwer, gebunden in Leder, die Seiten aus dickem, grobem Papier. Das Urteilsbuch des obersten Richters des Weltreichs. Jeder Spruch, den er gefällt hatte, war hier verzeichnet. Jede Entscheidung, jede Berufung, jede Hinrichtung.
+
+Er öffnete es nicht. Er legte nur die Hand auf den Deckel, spürte die Kühle des Leders, die raue Textur der Naht. Dann stand er auf.
+
+Die Nachricht war in der Nacht gekommen. Ein Diener der Regentin: *Der Richter wird gebeten, zur amtlichen Feststellung des Todes in das Zelt des Khagan zu kommen.* Keine Eile. Keine Dringlichkeit. Ein Höflichkeitsbesuch.
+
+Shigi wusste besser.
+
+Er verließ das Zelt und ging durch die schmalen Gänge zwischen den Jurten. Der Himmel war bleich, die Luft kalt. Er konnte seinen Atem sehen. Die Ordu war stiller als sonst, gedämpft, als ob selbst der Wind den Respekt vor dem Toten gewahrt hätte. Aber unter der Stille spürte er die Spannung. Blicke, die ihm folgten, dann schnell wegzuckten. Hände, die sich in Ärmeln versteckten.
+
+Das Zelt des Khans stand abseits, größer als alle anderen, mit weißen Filzdecken und goldenen Schnüren. Die Wachen salutierten, als er näher kam, und einer von ihnen, ein junger Mann mit vernarbtem Gesicht, trat zur Seite, um den Eingang freizugeben.
+
+„Der Hofarzt ist schon drinnen, Exzellenz“, sagte der Wächter.
+
+Shigi nickte. Er wusste, dass es nicht stimmte.
+
+Er trat ein.
+
+Das Zelt war weit, geräumig, mit Teppichen ausgelegt, die aus dem Westen stammten – weich, bunt, mit Mustern, die an Gärten erinnerten. An der Wand hingen Waffen, erbeutete Banner, ein goldener Becher. In der Mitte, auf einer niedrigen Plattform unter einem Baldachin aus Seide, lag der Leichnam des Khagan.
+
+Ögedei war gewaschen worden.
+
+Das war das erste, was Shigi auffiel. Der Leichnam war in ein weißes Tuch gehüllt, die Hände auf der Brust gefaltet, das Gesicht bedeckt. Die Ärzte waren nicht da. Stattdessen standen zwei Leichenwäscher an der Seite, die Hände gefaltet, die Köpfe gesenkt. Sie sahen aus, als warteten sie.
+
+Und Töregene saß auf einem Kissen am Kopfende der Plattform.
+
+Sie trug ein einfaches Gewand, grau, ohne Schmuck, und ihr Gesicht war ruhig. Sie sah Shigi an, als er eintrat, und nickte leicht. „Richter. Tritt näher.“
+
+Er trat näher. Seine Schritte waren leise auf den Teppichen, aber er hörte sie trotzdem. Jeder Schritt war eine Ankündigung.
+
+„Der Khan ist in der Nacht gestorben“, sagte Töregene. Ihre Stimme war leise, aber klar, ohne Trauer, ohne Zittern. „Die Ärzte sagen, es sei sein Herz gewesen. Ein Versagen. Plötzlich, ohne Vorwarnung.“
+
+Shigi blieb stehen. Er sah den Leichnam an, das weiße Tuch, die gefalteten Hände. Er konnte das Gesicht nicht sehen, aber er brauchte es nicht. Er sah die Hände. Sie waren sauber, die Nägel geschnitten, die Finger gerade. Die Hände eines Mannes, der friedlich gestorben war.
+
+Aber der Khan war nicht friedlich gestorben. Das wusste er.
+
+Er sah Töregene an. Sie sah zurück, ohne Hast, ohne Eile. Sie wartete.
+
+„Ich muss den Leichnam untersuchen“, sagte Shigi.
+
+„Er ist gewaschen worden“, sagte Töregene. „Nach den Gebräuchen. Die Seele verlässt den Körper in Reinheit. Es wäre unpassend, ihn zu stören.“
+
+„Der Brauch verlangt auch, dass der Richter die Todesursache bestätigt, bevor der Leichnam bewegt wird“, sagte Shigi. Seine Stimme war ruhig, aber fest. „Der Leichnam wurde bewegt, bevor ich gerufen wurde. Die Wäscher waren hier, bevor der Richter den Raum betrat. Das ist nicht der Brauch.“
+
+Stille. Das Zelt war so still, dass er das Atmen der Wäscher hören konnte, das Knistern der Lampe, das ferne Rauschen des Windes.
+
+Töregene neigte den Kopf, eine winzige Bewegung, fast nicht zu sehen. „Die Lage ist ungewöhnlich“, sagte sie. „Der Khan starb bei einem Gelage. Es gibt Gerüchte. Du weißt, wie Gerüchte sind. Sie nähren sich von dem, was sie nicht sehen. Wenn der Leichnam untersucht wird, wenn der Richter die Todesursache feststellt, dann haben die Gerüchte keine Nahrung mehr. Sie verdorren. Sie sterben.“
+
+„Und wenn die Untersuchung etwas anderes ergibt?“
+
+„Das wird sie nicht.“ Töregene sah ihn an, und in ihren Augen war etwas, das er nicht deuten konnte. Keine Drohung. Keine Bitte. Eine Feststellung. „Die Ärzte haben festgestellt, dass es sein Herz war. Sie sind bereit, das zu beschwören. Die Wäscher haben den Leichnam nach dem Brauch behandelt. Der Richter bestätigt nur, was alle wissen. Das ist dein Amt, Richter. Du bestätigst, was alle wissen. Du schreibst es auf. Du machst es wahr durch dein Siegel.“
+
+Shigi schwieg.
+
+Er stand vor der Plattform, und er dachte an die Jahre, die er im Dienst der Familie verbracht hatte. An Dschingis Khan, der ihn aus dem zerstörten Lager der Tataren geholt hatte, ihn zum Sohn gemacht hatte, ihm das Lesen beigebracht, das Schreiben, das Urteilen. Er dachte an Hö'elün, die alte Frau, die ihn angenommen hatte, ihn gewärmt, ihn erzogen. Er dachte an die Jahre des Krieges, der Eroberung, der Gründung. Er dachte an den Eid, den er geschworen hatte: das Gesetz zu wahren, die Gerechtigkeit zu schützen, die Wahrheit zu bezeugen.
+
+Aber die Wahrheit war nicht das, was er sah. Die Wahrheit war das, was man ihm sagte.
+
+Er hob den Blick und sah Töregene an. Ihre Augen waren ruhig, aber er sah die Spannung darin, die winzige Falte zwischen ihren Brauen, die Art, wie ihre Finger auf dem Kissen lagen – nicht entspannt, nicht bereit, sondern wartend.
+
+Sie testete ihn.
+
+Das war der Augenblick. Er wusste es. Wenn er jetzt widersprach, wenn er auf der Untersuchung bestand, wenn er das Gesetz über den Willen der Regentin stellte, dann würde er den Raum als Feind verlassen. Vielleicht nicht heute. Vielleicht nicht morgen. Aber irgendwann.
+
+Und wenn er schwieg, wenn er tat, was sie verlangte, dann würde er das Gesetz verraten. Ein kleines Mal. Ein winziges Mal. Aber ein Mal.
+
+Er dachte an das blau-weiße Buch. An die Urteile, die er gefällt hatte. An die Jahre des Aufbaus, der Ordnung, des Rechts.
+
+Er sagte: „Der Khan starb an seinem Herzen. Das ist die offizielle Todesursache. Ich werde sie beglaubigen.“
+
+Töregene nickte. Keine Bewegung in ihrem Gesicht. Kein Lächeln, keine Erleichterung. Ein Nicken, das alles und nichts bedeutete.
+
+Shigi trat an den Tisch, der an der Seite des Zeltes stand. Ein Diener brachte Tinte und Pinsel. Er öffnete das blau-weiße Buch, schlug die leere Seite auf, und schrieb.
+
+*Der große Khagan, der Beschützer des Throns, der Herr der Welten, starb im Jahr des Stiers, im Monat des Frosts, am zwölften Tag des abnehmenden Mondes. Die Ärzte des Hofes stellten fest: sein Herz. Der Richter bestätigt: sein Herz.*
+
+Er schrieb es auf. Die Worte waren klar, präzise, die Schrift sauber. Seine Hand zitterte nicht.
+
+Aber er dachte an die Hände des Khans, die sauberen Finger, die Art, wie sie auf der Brust lagen, als ob sie nie etwas gehalten hätten, nie etwas ergriffen, nie etwas getan.
+
+Er dachte an den Diener, der verschwunden war.
+
+Er setzte sein Siegel unter den Eintrag. Das Wachs war warm, die Prägung klar: das Siegel des Oberrichters, das Symbol der Gerechtigkeit, das Zeichen des Gesetzes.
+
+„Es ist beglaubigt“, sagte er. Seine Stimme klang fremd in seinen eigenen Ohren.
+
+Töregene stand auf. Sie trat an den Tisch, nahm das Buch, las den Eintrag. Ihre Augen glitten über die Zeilen. Sie nickte wieder. „Danke, Richter. Der Khan wird morgen bestattet. Du wirst gebeten, bei der Zeremonie anwesend zu sein.“
+
+„Ich werde da sein“, sagte Shigi.
+
+Töregene hielt einen Moment inne, als ob sie etwas sagen wollte, aber dann ließ sie es. Sie wandte sich ab und ging zurück zu ihrem Platz am Kopfende der Plattform.
+
+Shigi nahm das Buch, schloss es, trat zurück. Die Wäscher verneigten sich. Die Diener öffneten den Eingang. Er ging hinaus, und die kalte Luft schlug ihm ins Gesicht, und der Himmel war grau, und die Welt war still.
+
+Er ging zurück zu seinem Zelt.
+
+Dort setzte er sich an den niedrigen Tisch, auf dem das blau-weiße Buch lag, und er starrte es an. Die Seiten waren dick, das Leder war schwer, das Siegel war sauber. Alles war in Ordnung. Alles war richtig.
+
+Aber es war nicht richtig. Es war das erste Mal in seinem Leben, dass er eine Lüge beglaubigt hatte.
+
+Er griff in die Schatulle unter dem Tisch und zog ein anderes Buch hervor. Klein, ungebunden, die Seiten aus billigem Papier, das er selbst zugeschnitten hatte. Sein privates Buch. Nicht das Buch des Gesetzes. Nicht das Buch des Amtes. Sein Buch.
+
+Er schlug es auf. Die erste Seite war leer. Er tauchte den Pinsel in die Tinte, und er schrieb.
+
+*Zwölfter Tag des abnehmenden Mondes. Jahr des Stiers. Ich, Shigi Qutuqu, Oberrichter des Weltreichs, bestätigte den Tod des Khagan Ögedei. Offizielle Todesursache: sein Herz. Anwesend: Töregene, Witwe des Khans; zwei Leichenwäscher, Namen unbekannt; zwei Diener, Namen unbekannt. Der Leichnam war gewaschen, bevor ich den Raum betrat. Die Ärzte waren nicht anwesend.*
+
+Er hielt inne. Er sah auf die Worte, die er geschrieben hatte. Sie waren einfach, nüchtern, präzise. Keine Interpretation. Keine Spekulation. Nur die Fakten, die er gesehen hatte.
+
+Er schrieb weiter.
+
+*Der Diener, der dem Khan den Wein einschenkte, ist verschwunden. Ich habe keine Untersuchung eingeleitet. Die Regentin hat keine Anordnung gegeben.*
+
+Er schrieb die Namen der Diener nicht auf, weil er sie nicht wusste. Aber er schrieb das Datum. Die Stunde. Die Anwesenheit.
+
+Es war nicht viel. Es war nichts. Ein Blatt Papier, das niemand lesen würde. Aber es war wahr.
+
+Er legte den Pinsel nieder. Er sah auf das Blatt, auf die nüchternen Worte, und dann sah er auf das blau-weiße Buch mit der glatten Seite und dem präzisen Eintrag.
+
+Zwei Versionen. Eine offizielle. Eine private.
+
+Er schloss das private Buch und legte es zurück in die Schatulle.
+
+Draußen hörte er die Geräusche der Ordu. Die Hufe der Pferde, die Stimmen der Händler, das Rufen der Wachen. Die Welt bewegte sich weiter. Der Khan war tot. Die Regentin regierte. Der Richter hatte gesprochen.
+
+Aber Shigi Qutuqu saß in der Stille seines Zeltes, und er wusste, dass er soeben eine Grenze überschritten hatte, die er nie hätte überschreiten sollen.
+
+Er wusste nicht, wie weit die Reise noch führen würde.
+
+Er wusste nur, dass er ihr folgen würde, weil er keine Wahl hatte.
+
+Er stand auf, nahm das blau-weiße Buch und trat wieder ins Licht.
+
+Die Ordu wartete. Die Regentin wartete. Die Welt wartete.
+
+Und er war der Richter.
+
+Er würde sein Amt ausüben.
+
+Aber er würde vergessen, was er getan hatte.
+
+Nie.
+
+---
+
+## 5. An eine Tote
+
+Karakorum, im Mond des ersten Schnees
+
+Schwester,
+
+ich weiß nicht, ob Briefe an Tote gelesen werden. Aber ich weiß, dass Briefe an Lebende verloren gehen können. Verkauft. Verraten. Verbrannt. Dich kann mir niemand mehr nehmen. Darum schreibe ich dir alles.
+
+Ich bin in Karakorum. Du würdest die Stadt nicht erkennen, weil sie keine ist. Sie ist ein Lager, das sich Stadt nennt, ein Kreis aus Filzwänden und Lehm, den der Wind jedes Jahr ein Stück weiter trägt. Die Chinesen nennen sie die Stadt des ewigen Friedens, aber sie lügen, wie alle, die Namen geben. Es gibt hier keinen Frieden. Es gibt nur die Stille vor dem nächsten Befehl.
+
+Ich bin wichtig, Schwester. Stell dir das vor. Eine von uns, wichtig.
+
+Der Satz schmeckt mir nicht, wenn ich ihn aufschreibe. Er schmeckt nach etwas, das ich nicht essen wollte, aber doch gegessen habe. Ich bin wichtig, weil die Frau, die über alles herrscht, mir vertraut. Sie vertraut mir mehr als ihren Söhnen, mehr als ihren Generälen, mehr als den Männern, die ihre Gesetze schreiben. Ich bin die Einzige, die sie nachts ruft, wenn die Lampe brennt und die Papiere auf dem Tisch liegen wie tote Vögel.
+
+Ich hätte dir sagen sollen, wer sie ist. Töregene. Die Frau des Khans. Jetzt die Witwe des Khans, aber das Wort ist zu klein für das, was sie geworden ist. Sie ist die Regentin. Sie hält die Siegel. Sie spricht mit der Stimme des Toten, und niemand widerspricht.
+
+Ich bin ihre Hand, Schwester. Ihre Finger, die schreiben. Ihre Augen, die lesen. Ihr Ohr, das hört, was die Wände nicht hören sollen.
+
+Ich weiß, was du jetzt denkst. Du denkst: Fatima, die nie lesen durfte, die hinter der Werkstatt des Vaters kauerte und die Blätter stahl, die er beschrieben hatte, die Silben flüsternd, bis sie wusste, wie die Wörter aussahen, wenn sie sprachen – diese Fatima ist wichtig. Stell dir das vor.
+
+Ich stelle es mir jeden Abend vor, wenn ich in mein Zelt gehe und die Lampe anzünde, und ich weiß nicht, ob ich lachen oder weinen soll.
+
+---
+
+Der Vater hätte uns beide sterben sehen, bevor er geglaubt hätte, dass eine von uns so weit kommt. Er war ein guter Mann, aber er war ein Mann seiner Zeit, und seine Zeit sagte: Frauen lesen nicht, Frauen schreiben nicht, Frauen bewahren nichts. Sie sind die Gefäße, nicht die Hand, die füllt.
+
+Ich habe ihm nicht verziehen. Ich habe nur gelernt, dass er nicht anders konnte.
+
+Aber ich habe seine Feder behalten.
+
+Du erinnerst dich an das Federetui. Das Leder, das er von dem Händler aus Buchara tauschte, das Holz, das er selbst schnitzte, die Kerben, die er für jedes Kind machte, das er lehrte. Drei Kerben. Drei Kinder. Zwei gestorben. Eines, das überlebte, weil es mitgenommen wurde.
+
+Ich habe das Etui heute Abend vor mir liegen. Die Lampe wirft einen Schatten darauf, der größer ist als das Etui selbst, und ich denke an den Tag, an dem er es mir gab. Weißt du noch? Es war der Morgen des ersten Schnees, ein Jahr vor Maschhad. Er legte es in meine Hände und sagte: „Du wirst es eines Tages brauchen. Ich weiß nicht, wofür. Aber du wirst es brauchen.“
+
+Er wusste es nicht. Keiner wusste es. Aber ich habe es seither bei mir getragen. Zwanzig Jahre. Durch die Ordos, durch die Feldlager, durch die Jahre, in denen ich lernte, dass Schweigen die einzige Währung ist, die nicht entwertet wird. Das Etui ist zerkratzt, das Leder ist rissig, aber die Feder darin schreibt noch.
+
+Und sie schreibt heute Abend an dich.
+
+---
+
+Ich habe dir nie geschrieben. Ich habe es nie gewagt, weil ich nicht wusste, wohin. Die Toten haben keine Adresse, hat der Vater immer gesagt. Sie sind dort, wo die Worte nicht mehr hinkommen.
+
+Aber ich habe gelernt, dass die Toten die einzigen sind, die wirklich zuhören. Sie unterbrechen nicht. Sie fragen nicht nach dem Warum. Sie urteilen nicht, weil sie jenseits des Urteils sind. Sie sind die einzigen Adressaten, die nicht verraten.
+
+Ich schreibe dir alles, weil ich dir nichts mehr verheimlichen kann. Du warst bei mir, als die Stadt fiel. Du warst bei mir, als die Truppen kamen. Du warst bei mir, als die Erde rot wurde, und du weißt, was ich sah, weil du es auch sahst, bis du es nicht mehr sehen konntest.
+
+Ich weiß, dass du mich hörst. Ich weiß, dass du hier bist, in diesem Zelt, in der Stille zwischen den Worten. Ich weiß, dass du die Feder siehst, die über das Papier fährt, und dass du denkst: Fatima, sei vorsichtig.
+
+Aber ich bin es leid, vorsichtig zu sein. Ich bin es leid, zu schweigen. Ich bin es leid, das zu bewahren, was niemand bewahren will.
+
+Ich schreibe dir, weil ich etwas gesehen habe.
+
+Ich schreibe es noch nicht auf. Noch wiegt es zu viel.
+
+Aber ich werde es dir schreiben. Eines Tages, wenn die Nacht still genug ist und die Lampe hell genug brennt. Eines Tages, wenn ich den Namen aussprechen kann, ohne dass meine Hand zittert.
+
+---
+
+Erinnerst du dich an Maschhad?
+
+Ich versuche, mich zu erinnern. Ich versuche, die Bilder zu ordnen, aber sie sind wie die Blätter der Werkstatt, die der Wind erfasste, als die Stadt brannte, und die ich nie wieder einsammeln konnte. Manche sind verbrannt. Manche sind davongeflogen. Manche liegen noch da, irgendwo, unter der Asche, und ich kann sie nicht lesen, weil sie zu schwarz sind.
+
+An den Tag vormittags erinnere ich mich. Die Sonne schien. Der Markt war voll. Der Vater hatte einen Auftrag von einem Händler aus Herat, und er war den ganzen Morgen am Tisch gesessen, hatte die Feder gespitzt, die Tinte gemischt, die Buchstaben gesetzt, als wäre jedes Wort ein Gebet. Du saßest neben ihm, wie immer, und lasest ihm die Fehler vor, die er machte, weil deine Augen besser waren als seine. Ich stand hinter dir, und ich sah, wie deine Hand über das Papier fuhr, und ich dachte: So wird sie es lernen. Sie wird es eines Tages besser können als er.
+
+Ich dachte nicht, dass du einen Tag später tot sein würdest.
+
+Ich dachte nicht, dass die Sonne untergehen würde, ohne dass ich deine Hand noch einmal halten könnte.
+
+Die Stadt fiel so schnell. Weißt du noch? Die Schreie kamen wie eine Welle, von außen nach innen, und sie rissen die Stille in Stücke, als wäre sie nie da gewesen. Der Vater stand auf. Er sagte: „Bleibt hier. Ich komme wieder.“ Er nahm sein Schwert, das er nie geführt hatte, und er ging hinaus, und ich sah ihn nie wieder.
+
+Ich hielt deine Hand. Ich sagte: „Es wird alles gut.“ Ich log. Ich log, weil ich nicht wusste, was ich sonst sagen sollte, und weil die Wahrheit zu schwer war, um sie auszusprechen.
+
+Die Truppen kamen. Du weißt, wie sie kamen. Du weißt, was sie taten. Du warst dabei, und du starbst dabei, und ich überlebte, weil ich mitgenommen wurde.
+
+Ich weiß nicht, warum. Ich habe es nie erfahren. Vielleicht war es der Zufall. Vielleicht war es der Wille einer Macht, die ich nicht verstehe. Vielleicht war es nur die Gnade eines Mannes, der an diesem Tag müde war und kein Blut mehr sehen wollte.
+
+Ich überlebte. Ich wurde in eine Ordu gebracht. Ich lernte die Sprache. Ich lernte, mich nützlich zu machen. Ich lernte, dass Überleben nichts ist, worauf man stolz sein kann, sondern etwas, das man tut, weil es keine Alternative gibt.
+
+Ich lernte, dass die Männer, die meine Familie töteten, die gleichen Männer waren, die ich eines Tages bedienen würde.
+
+Ich lernte, dass die Dynastie, die ich hasste, die gleiche Dynastie war, der ich mein Leben verdankte.
+
+Ich lernte, dass die Welt nicht gerecht ist, und dass es dumm ist, sie zu fragen, warum.
+
+---
+
+Ich diene ihnen jetzt. Ich diene Töregene, der Witwe des Khans. Ich diene der Frau, die den Tod ihres Mannes so schnell verarbeitete, dass ich nicht wusste, ob sie ihn liebte oder ob sie ihn erwartete. Ich diene der Frau, die das Siegel hält, die die Briefe öffnet, die die Befehle diktiert, die die Welt bewegt, während die Männer noch glauben, sie hätten die Kontrolle.
+
+Ich diene ihr, und ich hasse sie.
+
+Nein. Das ist nicht wahr. Ich hasse sie nicht. Ich bewundere sie. Ich fürchte sie. Ich vertraue ihr nicht, aber ich verstehe sie. Und das ist schlimmer als Hass, weil Verstehen die Grenzen verwischt zwischen dem, was richtig ist, und dem, was nötig ist.
+
+Sie ist klug. Sie ist kalt. Sie ist die Frau, die ich wäre, wenn ich ihre Macht hätte und ihre Geschichte.
+
+Aber ich habe meine Geschichte. Und sie ist anders.
+
+---
+
+Ich schreibe dir, weil ich vergessen will. Ich schreibe dir, weil ich mich erinnern muss. Ich schreibe dir, weil ich nicht weiß, an wen sonst. Die Lebenden sind gefährlich. Die Toten sind sicher. Du bist der einzige Mensch, den ich je geliebt habe, und du bist der einzige Mensch, der mich nie verraten wird, weil du bereits gestorben bist, bevor du es konntest.
+
+Ich bin wichtig, Schwester. Aber ich weiß nicht, ob ich stolz darauf bin.
+
+Ich weiß nur, dass ich jeden Abend in mein Zelt gehe, die Lampe anzünde, das Federetui öffne und anfange zu schreiben. Ich schreibe dir, was ich gesehen habe. Ich schreibe dir, was ich weiß. Ich schreibe dir, was ich nicht sagen kann, weil die Wände Ohren haben und die Ohren Münder haben und die Münder töten.
+
+Ich schreibe dir, weil du die Einzige bist, die mich nicht verraten wird.
+
+Ich schreibe dir, weil du tot bist.
+
+Und ich schreibe dir, weil ich eines Tages sterben werde, und dann werde ich dir alles sagen, was ich nicht aufschreiben konnte.
+
+---
+
+Ich habe etwas gesehen, Schwester.
+
+Ich habe etwas gesehen, das ich nicht verstehe, das ich nicht deuten kann, das ich nicht aufschreiben darf, weil es zu schwer wiegt. Noch.
+
+Aber ich werde es dir schreiben. Eines Tages. Wenn die Lampe hell genug brennt. Wenn die Nacht still genug ist. Wenn ich den Namen aussprechen kann, ohne dass meine Hand zittert.
+
+Bis dahin schreibe ich dir nur dies:
+
+Ich lebe.
+
+Ich diene.
+
+Ich warte.
+
+Und ich denke an dich, jeden Abend, wenn die Feder über das Papier fährt, und ich frage mich, ob du mich hörst, ob du mich liest, ob du mich verstehst.
+
+Ich hoffe es.
+
+Ich hoffe, dass die Toten nicht taub sind.
+
+Ich hoffe, dass die Briefe ankommen.
+
+Ich hoffe, dass du mir verzeihst, dass ich überlebt habe, während du starbst.
+
+Ich hoffe, dass du mir verzeihst, dass ich ihnen diene, während deine Knochen noch in der Erde von Maschhad liegen, unberührt, ungeweiht, vergessen.
+
+Ich hoffe, dass du mir verzeihst, dass ich lebe.
+
+Ich hoffe, dass du mich liebst, trotz allem.
+
+Ich hoffe, dass du mich liest.
+
+Ich hoffe, dass du mich hörst.
+
+Ich hoffe.
+
+---
+
+Ich lege die Feder nieder. Die Lampe flackert. Der Wind draußen trägt den Geruch von Schnee, und ich weiß, dass der Winter kommen wird, kälter als der letzte, härter als der vorige, und ich weiß nicht, ob ich ihn überleben werde.
+
+Aber ich werde weiterschreiben. Ich werde dir alles schreiben. Jeden Abend, jede Nacht, jeden Brief, bis ich nichts mehr zu sagen habe, bis ich nichts mehr zu verbergen habe, bis ich nichts mehr zu fürchten habe.
+
+Ich werde dir schreiben, bis ich sterbe.
+
+Und dann werde ich dir sagen, was ich gesehen habe.
+
+Bis dahin, Schwester, bleib mir nah.
+
+Bleib mir nah in der Stille zwischen den Worten.
+
+Bleib mir nah in der Dunkelheit der Nacht.
+
+Bleib mir nah, bis ich dich wiedersehe.
+
+Deine Fatima
+
+---
+
+*Sie legte die Feder neben das Papier. Sie sah auf die Buchstaben, die sie geschrieben hatte, und sie dachte an die Worte, die sie nicht geschrieben hatte. Sie dachte an den Namen, den sie nicht ausgesprochen hatte. Sie dachte an das Gewicht, das sie noch trug, und sie wusste, dass es schwerer werden würde, bevor es leichter wurde.*
+
+*Sie faltete das Papier sorgfältig. Sie legte es in das Federetui, neben die Feder des Vaters, neben die Leere, die sie füllen würde, wenn die Zeit gekommen war.*
+
+*Sie blies die Lampe aus.*
+
+*Die Dunkelheit kam, und sie war willkommen.*
+
+---
+
+## 6. Der Kanzler
+
+Der Sturm trug den Geruch von nassem Filz und trocknender Tinte, und Shigi wusste, dass dieser Winter anders sein würde.
+
+Die Kanzleien der Ordu waren nie still gewesen, nicht unter Dschingis, nicht unter Ögedei. Es gab immer Boten, die kamen und gingen, Schreiber, die Urkunden kopierten, Gelehrte, die stritten. Aber jetzt, in diesen Wochen nach dem Tod des Khans, hatte die Stille eine andere Qualität angenommen. Sie war lauernd. Sie wartete.
+
+Shigi saß an seinem Tisch, das blau-weiße Buch vor sich aufgeschlagen, und las die Einträge der letzten Tage. Fünfzehn Siegelentzüge. Zweiunddreißig neue Ernennungen. Acht Dekrete, die die Einnahmequellen der Provinzen neu verteilten. Alles in Töregenes Namen. Alles mit seiner Unterschrift beglaubigt.
+
+Er hatte es nicht verhindern können.
+
+Er hatte es nicht einmal versucht.
+
+Der erste Bote war am Morgen nach Ögedeis Begräbnis gekommen. Ein junger Mann, kaum älter als fünfzehn, mit einem versiegelten Umschlag, den er auf Shigis Tisch legte, als wäre er nichts als eine Einladung zu einem Festmahl.
+
+„Die Regentin bittet um Ihre Bestätigung", hatte der Bote gesagt, und Shigi hatte gelacht. Nicht laut. Ein trockenes Geräusch, das in der Stille der Kanzlei wie ein Husten klang.
+
+„Bittet", wiederholte er. „Sie bittet."
+
+Der Bote sagte nichts. Er wartete. Shigi öffnete das Siegel.
+
+Das Dekret war präzise formuliert. Es entzog Chinqai, dem Kanzler des Reiches, die Kontrolle über die Steuereinnahmen der westlichen Provinzen und übertrug sie einem gewissen Abd ar-Rahman, von dem Shigi noch nie gehört hatte. Die Begründung war knapp: Verwaltungsreform.
+
+Shigi las das Dekret zweimal. Dann legte er es beiseite und griff nach seinem Siegel.
+
+Er konnte nicht verhindern, dass Töregene die Männer ihres Mannes entmachtete. Er konnte nur dafür sorgen, dass es nach den Regeln geschah. Dass die Formalitäten gewahrt blieben. Dass das blau-weiße Buch nicht zur Chronik der Willkür wurde, sondern zur Chronik der Verfahren.
+
+Das war seine Pflicht.
+
+Das war seine Lüge, und er kannte sie.
+
+Der Stempel fiel. Die Tinte trocknete. Der Bote nahm das Dekret und verschwand.
+
+An diesem Tag kamen sieben weitere Dekrete. Am nächsten Tag elf. Am dritten Tag neunzehn.
+
+Shigi stempelte sie alle.
+
+Aber er merkte sich jedes einzelne.
+
+Er merkte sich die Namen der Männer, die ihre Ämter verloren: Mahmud Yalavach, der Gouverneur von Transoxanien. Mas'ud Beg, sein Sohn. Qadaq, Ögedeis erster Berater. Er merkte sich die Daten, die Summen, die Umleitungen. Er merkte sich die Unterschriften, die fehlten. Die Siegel, die brachen.
+
+Und er schrieb alles nieder.
+
+Nicht im blau-weißen Buch. In einem anderen Heft, das er unter seinem Tisch aufbewahrte, zwischen losen Blättern und verbrauchten Tintenfässern. Ein Notizbuch, das niemand finden würde, weil niemand suchte.
+
+*Zurück an den Ort, den er so fürchtete. Zurück an den Ort des Schmerzes. Zurück an den Ort, an dem er das Gesetz beugte, um es zu bewahren.*
+
+*Das war seine Arbeit jetzt.*
+
+*Das war seine Verantwortung.*
+
+Er schrieb die Namen der Männer auf, die fielen, und die Namen der Männer, die aufstiegen. Er schrieb die Summen, die verschwanden, und die Summen, die neu auftauchten. Er schrieb die Daten, die Löcher in der Chronik, die Lücken, die Töregene hinterließ.
+
+Und er wusste, dass er diese Liste eines Tages brauchen würde.
+
+Er wusste nur nicht, wann.
+
+---
+
+Die Tage vergingen, und die Kanzleien veränderten sich.
+
+Es waren kleine Veränderungen, unsichtbar für den, der nicht hinsah. Neue Gesichter in den Ecken. Vertraute Männer, die plötzlich nicht mehr da waren. Boten, die andere Wege gingen. Türen, die sich öffneten und schlossen, ohne dass man hörte, wer hindurchging.
+
+Shigi beobachtete alles.
+
+Er saß an seinem Tisch, das Siegel in der Hand, und sah zu, wie Töregene das Reich regierte, ohne je einen Fuß in die Kanzlei zu setzen. Sie schickte Dekrete. Sie schickte Boten. Sie schickte Anweisungen, die präzise waren, als hätte sie jedes Wort selbst diktiert.
+
+Und das hatte sie.
+
+Shigi kannte ihre Handschrift. Er hatte sie oft genug gesehen, in den Briefen, die sie an ihren Mann schrieb, in den Anweisungen, die sie an die Gouverneure sandte. Sie schrieb wie ein Mann, sagten die Schreiber. Nein, korrigierte Shigi leise. Sie schrieb wie ein Befehlshaber.
+
+Aber was ihn mehr beeindruckte als ihre Handschrift, mehr als ihre Präzision, mehr als ihre Geschwindigkeit, war ihr Verständnis für die Macht des Papiers.
+
+Der Sturm trug den Geruch von verbranntem Stein und Sturmlicht, und er wusste, dass der Feind näher kam.
+
+Töregene war der Feind. Töregene war die Feindin. Und sie verstand besser als jeder Mann in diesem Reich, dass man mit Papier erobern konnte, was man mit Schwertern nicht halten konnte.
+
+Dekrete, die Einnahmen umleiteten. Siegel, die Ernennungen bestätigten. Befehle, die Provinzen neu ordneten. Alles auf Papier. Alles mit Tinte. Alles mit seinem Siegel bestätigt.
+
+Er spürte die Macht, die in seiner Hand lag.
+
+Und er spürte die Ohnmacht.
+
+---
+
+Es war der siebte Tag, als der Haftbefehl kam.
+
+Der Bote war älter als die anderen, ein Mann mit grauen Schläfen und einem Gesicht, das schon viele Befehle überbracht hatte. Er legte das Dokument auf Shigis Tisch, verbeugte sich kurz und wartete.
+
+Shigi las den Befehl.
+
+Es war ein Haftbefehl gegen Chinqai, den Kanzler des Reiches.
+
+„Das ist ein Fehler", sagte er leise.
+
+Der Bote sagte nichts.
+
+„Chinqai ist der Kanzler. Er hat Ögedei zwanzig Jahre gedient. Er hat Dschingis Khan gedient. Er hat –"
+
+„Der Befehl kommt von der Regentin", sagte der Bote.
+
+Shigi schwieg. Er las den Befehl noch einmal.
+
+Es war formal korrekt. Einwandfrei. Das Siegel Töregenes war echt, die Unterschrift war echt, die Begründung war vage genug, um nicht angreifbar zu sein: Verschwörung gegen die Ordnung des Reiches. Nichts, was man widerlegen konnte. Nichts, was man beweisen musste.
+
+Shigi legte den Befehl beiseite.
+
+„Ich werde ihn bearbeiten", sagte er.
+
+Der Bote zögerte. „Die Regentin erwartet sofortige Ausführung."
+
+„Ich verstehe", sagte Shigi. „Aber ein Haftbefehl gegen den Kanzler des Reiches erfordert bestimmte Verfahrensschritte. Ich muss prüfen, ob die Anklage –"
+
+„Die Regentin erwartet sofortige Ausführung", wiederholte der Bote.
+
+Shigi sah ihn an. Lange.
+
+„Ich habe verstanden", sagte er.
+
+Der Bote verbeugte sich und ging.
+
+Shigi blieb allein.
+
+Er sah auf den Haftbefehl hinunter, der vor ihm lag, und dachte an Chinqai, den er seit dreißig Jahren kannte, den er respektierte, den er vielleicht sogar mochte. Chinqai, der immer korrekt gewesen war, immer loyal, immer der Diener des Reiches, niemals der Diener eines einzelnen Khans.
+
+Chinqai, der jetzt fliehen musste.
+
+Shigi legte den Befehl in eine Schublade.
+
+Er würde ihn bearbeiten.
+
+Morgen.
+
+---
+
+Der Nachmittag brachte die Nachricht, die alles veränderte.
+
+Ein Schreiber aus der Kanzlei Ködens, Töregenes eigenem Sohn, erschien mit einem versiegelten Brief. Er übergab ihn Shigi mit der Bitte um sofortige Weiterleitung an die Regentin.
+
+Shigi öffnete den Brief nicht. Er hatte das Recht nicht dazu. Aber er fragte den Schreiber.
+
+„Was ist der Inhalt?"
+
+Der Schreiber zögerte. Ein junger Mann, kaum älter als zwanzig, mit der nervösen Energie eines, der zum ersten Mal eine wichtige Botschaft überbringt. „Prinz Köden hat Chinqai unter seinen Schutz gestellt", sagte er leise.
+
+Shigi sagte nichts.
+
+„Chinqai erschien heute Morgen am Hof des Prinzen. Er bat um Asyl. Prinz Köden gewährte es."
+
+„Weiß die Regentin davon?"
+
+„Der Brief informiert sie."
+
+Shigi nickte langsam. Er sah auf das Siegel des Briefes, das rote Wachs, das den Inhalt verbarg, das Geheimnis, das er bereits kannte.
+
+Prinz Köden, der Sohn Töregenes, schützte den Feind seiner Mutter.
+
+*Der Riss in der Familie lag als Aktenvorgang vor ihm.*
+
+Shigi schloss die Augen.
+
+Er sah die Ordnungen der Dinge, wie sie sich vor ihm ausbreiteten: Töregene, die das Reich ihrer Söhne wollte. Köden, der sich weigerte, die Männer seiner Mutter zu verraten. Güyük, der noch im Westen war, aber bald zurückkehren würde. Drei Kinder einer Mutter, drei Wege, drei Loyalitäten.
+
+Und zwischen ihnen das Papier.
+
+Der Haftbefehl, den er verschleppen konnte.
+
+Der Brief, den er nicht öffnen durfte.
+
+Die Chronik, die er führte.
+
+*Er ballte die Fäuste, spürte das Kribbeln der Macht in den Adern, doch er hielt sich zurück.*
+
+Er öffnete die Schublade. Er nahm den Haftbefehl heraus. Er legte ihn neben den Brief.
+
+Dann begann er zu schreiben.
+
+„Ich brauche eine Klärung der Rechtsgrundlage", notierte er. „Der Haftbefehl gegen den Kanzler des Reiches erfordert einen Nachweis der Verschwörung. Die Begründung der Regentin ist zu vage, um eine Verhaftung zu rechtfertigen. Ich bitte um Präzisierung."
+
+Er schrieb. Er formulierte. Er erfand Verfahrensfragen, die es nicht gab, und Fragen, die es gab, aber nicht relevant waren. Er schrieb von Jurisdiktionen, von Zuständigkeiten, von Beweislasten, von allem, was ihm einfiel, um die Zeit zu dehnen, um den Befehl zu verschleppen, um Chinqai die Zeit zu geben, die er brauchte.
+
+Und als er fertig war, legte er das Papier beiseite und wartete.
+
+Er würde es morgen abschicken.
+
+Oder übermorgen.
+
+Er würde es schicken, wenn er sicher war, dass Chinqai weit genug war.
+
+---
+
+Das war gefährlich.
+
+Er wusste es. Er spürte es in den Knochen, in der Kälte, die durch die Filzwände der Kanzlei kroch, in der Stille, die schwerer wurde mit jedem Tag. Töregene würde nicht ewig warten. Sie würde nicht ewig fragen.
+
+Aber er konnte nicht anders.
+
+_Diesmal habe ich wirklich überlebt._
+
+Nein. Diesmal hatte er nicht überlebt. Diesmal hatte er gehandelt. Zum ersten Mal seit Jahren, seit Jahrzehnten, hatte er seine Position nicht genutzt, um sich zu schützen, sondern um einen anderen zu schützen.
+
+Es fühlte sich seltsam an.
+
+Es fühlte sich richtig an.
+
+---
+
+Am Abend des achten Tages kam Abd ar-Rahman.
+
+Shigi hörte ihn, bevor er ihn sah. Die Schritte auf dem Kies, die Stimmen der Boten, das Öffnen der Türen. Die Kanzlei war nie leise, wenn ein neuer Mann kam.
+
+Abd ar-Rahman war ein großer Mann, breitschultrig, mit einem Gesicht, das zu jung für seine Position schien. Er trug die Kleidung eines Kaufmanns, nicht eines Hofbeamten, aber die Art, wie er ging, die Art, wie er sprach, die Art, wie er die Schreiber musterte, verriet, dass er wusste, wer er war.
+
+Er war ein Fremder in diesem Reich.
+
+Er war Töregenes Mann.
+
+Shigi stand auf, als Abd ar-Rahman eintrat. Es war eine Geste der Höflichkeit, nichts weiter. Respekt vor dem Amt, nicht vor dem Mann.
+
+„Shigi Qutuqu", sagte Abd ar-Rahman lächelnd.
+
+„Der Oberrichter des Reiches."
+
+„Abd ar-Rahman. Der neue Finanzverwalter der westlichen Provinzen."
+
+Shigi nickte. „Ich habe von Ihrer Ernennung gehört."
+
+„Die Regentin war so freundlich, mir das Vertrauen zu schenken."
+
+„Sie ist bekannt für ihre klugen Entscheidungen."
+
+Die Worte waren glatt, zu glatt. Sie schwebten zwischen den Männern wie Staub in der Luft. Beide wussten, dass sie lagen.
+
+Abd ar-Rahman trat näher. Er sah auf den Tisch, auf die Papiere, die darauf lagen, auf die Schubladen, die verschlossen waren. „Ich werde viele Dokumente zur Bestätigung bringen", sagte er. „Die Neuordnung der Finanzen erfordert eine vollständige Überarbeitung der alten Strukturen."
+
+„Ich verstehe."
+
+„Ich hoffe, dass ich auf Ihre volle Unterstützung zählen kann."
+
+„Sie können auf die Unterstützung des Gesetzes zählen", sagte Shigi. „Immer."
+
+Abd ar-Rahman lächelte wieder. „Das ist alles, was ich brauche."
+
+Er verbeugte sich kurz und ging. Die Schritte auf dem Kies verklangen. Die Türen schlossen sich. Die Stille kehrte zurück.
+
+Shigi setzte sich.
+
+Er nahm sein Notizbuch aus der Schublade.
+
+Er schrieb: *Abd ar-Rahman, Finanzverwalter der westlichen Provinzen, eingesetzt durch Dekret der Regentin. Datum: der achte Tag nach dem Tod Ögedeis. Anmerkung: Ich kenne diesen Mann nicht. Ich kenne seine Herkunft nicht. Ich kenne seine Fähigkeiten nicht. Er ist zu schnell aufgestiegen.*
+
+Dann legte er den Stift nieder.
+
+*Männer, die zu schnell aufsteigen, fallen auch schnell*, dachte er.
+
+Er schrieb nichts.
+
+Aber er merkte es sich.
+
+---
+
+Die Nacht kam, und die Kanzlei war still.
+
+Shigi saß allein in seinem Zelt, das Notizbuch vor sich, die Lampe flackernd. Draußen hörte er den Wind, den Schnee, die Stille einer Welt, die sich veränderte.
+
+Er sah auf die Seite, die er geschrieben hatte.
+
+*Abd ar-Rahman.*
+
+Der Name war fremd, aber das Gesicht war es nicht. Das Lächeln, die Sicherheit, die Art, wie er die Schreiber musterte – all das hatte Shigi schon gesehen. Bei anderen Männern. In anderen Zeiten.
+
+Männer, die glaubten, die Macht sei ihr Recht.
+
+Männer, die glaubten, sie hätten sie verdient.
+
+Männer, die glaubten, sie würden nie fallen.
+
+*Die Klinge war kalt, schwer, und sie flüsterte ihm Dinge zu, die er nicht hören wollte.*
+
+Aber er hörte sie trotzdem.
+
+Er hörte die Geschichten der Gefallenen. Die Namen der Männer, die zu hoch gestiegen waren. Die Daten ihrer Stürze. Die Lücken in den Chroniken, die sie hinterließen.
+
+Abd ar-Rahman.
+
+Ein Name.
+
+Bald eine Geschichte.
+
+Shigi schloss das Notizbuch.
+
+Die Lampe flackerte.
+
+Die Dunkelheit kam, und sie war nicht willkommen.
+
+---
+
+Nur die Stille antwortete ihm, die Stille und das ferne Grollen des Sturms.
+
+Er dachte an Chinqai, der in den Ordos Ködens Schutz gefunden hatte. Er dachte an den Brief, den er noch nicht geschickt hatte. Er dachte an den Haftbefehl, den er noch in seiner Schublade hielt.
+
+*Sie sahen ihn an, als wäre er ein Gott, aber er fühlte sich nur wie ein gebrochener Mann.*
+
+Er war kein Gott. Er war ein Richter, der gelernt hatte, das Gesetz zu biegen, um es zu bewahren. Ein Hüter der Chronik, der gelernt hatte, die Wahrheit zu verstecken, um sie zu schützen. Ein Diener, der gelernt hatte, die Macht zu nutzen, ohne ihr zu verfallen.
+
+Aber der Sturm kam.
+
+Der Sturm kam jeden Tag näher.
+
+Und Shigi wusste, dass er bald würde wählen müssen.
+
+Das Reich. Die Wahrheit. Das Gesetz. Das Papier.
+
+Oder sich selbst.
+
+Er blies die Lampe aus.
+
+Die Dunkelheit kam, und er wartete.
+
+---
+
+Am Morgen des neunten Tages schickte er den Brief an die Regentin.
+
+Er hatte die Verfahrensfragen aufgeschrieben, die Präzisierungen, die er forderte, die Bedenken, die er hatte. Es war ein Meisterwerk der Verschleppung, der Verzögerung, der juristischen Tarnung.
+
+Töregene würde es lesen.
+
+Töregene würde verstehen, was er tat.
+
+Töregene würde entweder zustimmen oder ihn bestrafen.
+
+Shigi wusste nicht, was er hoffte.
+
+Der Bote nahm den Brief und verschwand. Die Zeit verging. Die Kanzlei füllte sich mit Schreibern, Boten, Männern, die kamen und gingen. Shigi arbeitete. Er stempelte Dekrete. Er prüfte Siegel. Er schrieb ins blau-weiße Buch, was er schreiben musste.
+
+Und er wartete.
+
+Die Antwort kam am späten Nachmittag.
+
+Ein Bote brachte einen versiegelten Umschlag, das Siegel Töregenes, die Handschrift eines Schreibers. Shigi öffnete das Siegel. Er las die Antwort.
+
+Die Regentin hatte seinen Fragen zugestimmt.
+
+Sie hatte ihn gebeten, eine vollständige Prüfung des Falls Chinqai durchzuführen.
+
+Sie hatte ihm Zeit gegeben.
+
+Shigi legte den Brief beiseite.
+
+Er hatte gewonnen.
+
+Er hatte Zeit gewonnen.
+
+Er wusste nicht, wie viel, aber er hatte Zeit.
+
+Er nahm den Haftbefehl aus der Schublade. Er sah ihn an, die Worte, die einen Mann ins Verderben schicken sollten, und er wusste, dass er ihn nie ausführen würde. Er würde ihn so lange in seiner Schublade behalten, bis Chinqai im Schutz Ködens sicher war, bis der Sturm vorüber war, bis die Geschichte eine andere Wendung nahm.
+
+*Das Licht floss aus ihm, ein letzter Atemzug, bevor die Dunkelheit kam.*
+
+Aber der Atem war nicht sein letzter.
+
+Noch nicht.
+
+Noch war die Lampe nicht erloschen.
+
+Noch schrieb er die Chronik.
+
+---
+
+Er notierte den Satz. Er wusste, er würde ihn eines Tages brauchen.
+
+*Männer, die zu schnell aufsteigen, fallen auch schnell. Und manchmal fallen sie so tief, dass sie nie wieder aufstehen.*
+
+Es war kein Urteil. Es war eine Beobachtung.
+
+Aber es würde ein Urteil werden.
+
+Eines Tages.
+
+Er legte die Feder nieder. Er schloss das Notizbuch. Er hörte den Wind draußen, den Schnee, die Stille einer Welt, die sich veränderte.
+
+Und er wartete auf den Sturm.
+
+---
+
+## 7. Die Briefe der Regentin
+
+Der Frühling kam in diesem Jahr als Feind.
+
+Fatima spürte ihn in der Kälte, die nicht weichen wollte, im Schnee, der schmolz und den Boden in Schlamm verwandelte, in den Zugvögeln, die über die Ordu zogen und nicht blieben. Sie spürte ihn in den Briefen, die täglich kamen und gingen, in den Worten, die sie schrieb und die sie nie würde aussprechen dürfen.
+
+Die Kanzlei der Regentin war ein Raum aus Filz und Seide, durchzogen von der Wärme eines Kohlebeckens, das nie ganz erlosch. Fatima saß an einem niedrigen Tisch, die Beine untergeschlagen, die Feder zwischen den Fingern. Vor ihr lag ein Blatt Papier, fein geschöpft, teuer, eines jener Blätter aus Samarkand, die man nur für die wichtigste Korrespondenz verwendete.
+
+Töregene saß ihr gegenüber, auf einem Kissen, das höher war, breiter, wertvoller. Sie hielt einen Becher in der Hand, unberührt, der Tee kalt. Sie sprach nicht. Sie wartete.
+
+Fatima wartete auch.
+
+Sie hatte gelernt, dass die Regentin nicht sprach, bevor die Worte bereit waren. Dass sie die Stille wie eine Waffe einsetzte, wie ein Messer, das man vor dem Stoß noch einmal umdrehte. Aber diesmal war die Stille anders. Diesmal suchte Töregene nach Worten.
+
+„An Batu“, sagte sie schließlich.
+
+Fatima tauchte die Feder ein. Sie schrieb. *An Batu, Enkel des Dschingis Khan, Herrscher der Kiptschak-Steppe, Fürst des Westens.*
+
+„Das Übliche“, sagte Töregene. „Die Ehrerbietungen. Die Formeln. Du kennst sie besser als meine Schreiber.“
+
+Fatima kannte sie. Sie hatte die ersten fünfzehn Formeln auswendig gelernt, bevor sie ein einziges eigenes Wort schreiben durfte. Die Anrufung des Himmels. Die Segenswünsche für die Familie. Die Versicherung des Wohlwollens. Sie schrieb, ohne nachzudenken, die Feder lief über das Papier in der klaren, runden Schrift, die sie sich in zwanzig Jahren erarbeitet hatte.
+
+„Dann“, sagte Töregene, und ihre Stimme wurde kälter, „der Kern. Ich bedauere die Verzögerung der Audienz. Ich bedauere die Missverständnisse. Ich bedauere, dass mein Sohn Güyük im Westfeldzug nicht die Disziplin gezeigt hat, die Batu von ihm erwartete.“
+
+Fatima hielt inne. Die Feder schwebte über dem Papier.
+
+„Das klingt nach einer Entschuldigung“, sagte sie leise.
+
+Töregene sah sie an. Einen Moment. Zwei. Dann lächelte sie.
+
+„Sag du es besser.“
+
+Fatima atmete tief ein. Sie wusste, was hier geschah. Die Prüfung. Die Probe. Aber es war mehr als das. Töregene bot ihr eine Tür an, und Fatima entschied sich hindurchzutreten.
+
+Sie legte die Feder nieder. Sie sah auf das Blatt, auf die noch leeren Zeilen, auf den Raum zwischen den Worten, der die eigentliche Botschaft trug.
+
+„Batu weiß, dass wir ihn nicht in der Ebene treffen können, weil wir fürchten, dass er uns dort besiegt“, sagte Fatima. „Er weiß, dass Güyük ihn beleidigt hat. Er weiß, dass die Audienz keine Versöhnung bringt. Sie ist nur eine Formalität, die den Krieg verschiebt, bis einer von euch stirbt oder stärker ist.“
+
+Sie sprach die Worte aus, die niemand aussprach, nicht einmal Töregene.
+
+„Man muss ihn also nicht überzeugen. Man muss ihn nur beschäftigen. Ihn in Briefen binden, solange wir uns selbst sortieren, solange die Thronfolge geklärt wird. Wenn er antwortet, antwortet man. Wenn er droht, weicht man aus. Die Zeit arbeitet für uns, nicht gegen uns. Er sitzt tausend Meilen entfernt. Wir sitzen in der Zentrale der Macht. Jeder Brief, den wir schreiben, hält ihn auf seinem Posten fest, zwingt ihn zu warten, während wir handeln.“
+
+Sie hatte noch mehr. Sie konnte noch mehr sagen. Aber sie hielt inne und wartete auf das Urteil.
+
+Töregene stellte den Becher ab. Sie musterte Fatima mit einer Mischung aus Zufriedenheit und etwas, das wie Neugierde aussah.
+
+„Du denkst also wie ich“, sagte sie.
+
+„Ich denke, wie man an diesem Hof überlebt“, sagte Fatima. „Ich denke wie du, weil du mich gelehrt hast, wie man denkt. Aber ich bin nicht du. Ich bin die Hand, die schreibt. Du bist die Hand, die entscheidet.“
+
+Töregene nickte. Einmal. Zweimal. Dann sprach sie.
+
+„Schreib. An Batu, Fürst des Westens, Enkel des Eroberers. Wir bedauern, dass der Feldzug nicht zu den Ergebnissen führte, die du erhofft hast. Wir bedauern, dass die Zusammenarbeit zwischen meinem Sohn und dir nicht die gewünschte Wirkung entfaltet hat. Wir haben die Berichte der Kommandeure geprüft und festgestellt, dass die Ursachen für das Scheitern des Unternehmens in der mangelhaften Versorgung und der Planung der Nachschubwege liegen, nicht in der Führung des Prinzen. Wir werden diese Frage bei der nächsten Zusammenkunft in Anwesenheit aller Fürsten klären, sobald die Trauerzeit für meinen Gemahl beendet ist. Wir laden dich ein, an der Kurultai teilzunehmen, die wir für den kommenden Herbst einberufen werden, damit alle Prinzen des Reiches gemeinsam über die Zukunft der Eroberungen im Westen beraten können. Dein Wohlwollen ist uns wichtig. Deine Geduld ist uns wichtig. Die Zeit wird die Missverständnisse klären, die zwischen meinem Sohn und dir entstanden sind. Wir bitten dich, deine westlichen Provinzen nicht in Eile zu verlassen, bis die Vorbereitungen für die Zusammenkunft abgeschlossen sind, damit du vollständig informiert und ausgestattet in die Beratungen eintreten kannst.“
+
+Fatima schrieb. Die Feder flog über das Papier. Sie wusste, dass dieser Brief die Wahrheit in eine Wolke von Formalitäten hüllte, dass die Einladung eine Falle war, dass die freundlichen Worte an Batu das Eingeständnis von Machtlosigkeit nur schlecht verbargen.
+
+Aber sie wusste auch, dass es nicht anders ging.
+
+Töregene las den Brief, als Fatima fertig war. Sie las ihn langsam, jeden Buchstaben, jedes Wort. Dann legte sie das Blatt beiseite und sah Fatima an.
+
+„Du hast mein Lob verdient“, sagte sie. „Du schreibst besser als jeder Schreiber, den ich je hatte. Du denkst schneller. Du verstehst die Nuancen, die andere nicht einmal sehen.“
+
+Fatima neigte den Kopf. „Ich diene dir. Das ist mein einziger Zweck.“
+
+„Nein“, sagte Töregene. „Dein Zweck ist es, meine Gedanken zu formulieren, bevor ich sie denke. Dein Zweck ist es, die Brücke zu bauen, die ich überschreiten muss. Ohne dich wäre ich isoliert. Ohne dich müsste ich mit den Schreibern kämpfen, die nicht verstehen, was sie nicht verstehen können. Du bist meine Hand, Fatima. Aber eine Hand kann auch eine Waffe sein, wenn sie richtig geführt wird.“
+
+Der Satz klang wie ein Kompliment.
+
+Er fühlte sich wie eine Fessel an.
+
+Fatima senkte den Blick. Sie wusste, dass die Regentin ihr Vertrauen schenkte. Sie wusste, dass dieses Vertrauen ein Käfig war. Sie wusste, dass jeder Brief, den sie schrieb, sie tiefer band, tiefer in das Netz der Macht zog, aus dem es kein Entrinnen gab.
+
+Sie schrieb trotzdem.
+
+Weil sie keine Wahl hatte.
+
+Weil sie gelernt hatte, dass die Wahl am Hof immer eine Illusion war.
+
+Der einzige Unterschied war, wer sie täuschte.
+
+Der zweite Brief war an einen Befehlshaber in den westlichen Provinzen. Der dritte an einen Verwalter in den nördlichen Regionen. Der vierte an einen Prinzen des Hauses Ögedei. Der fünfte an den Kaiser von Song, der nicht antworten würde, der aber wusste, dass der mongolische Hof nicht vergessen hatte.
+
+Sie schrieb den sechsten, siebten, achten Brief.
+
+Sie schrieb Amtsanweisungen, die in der Sprache der Kanzlei Befehle waren. Sie schrieb Bedauern, das wie Drohungen klang. Sie schrieb Einladungen, die Vorladungen glichen.
+
+Sie schrieb und schrieb.
+
+Und Töregene saß bei ihr, diktierte, korrigierte, unterbrach, begann neu. Manchmal sprach sie einen Satz, und Fatima wusste, dass die Regentin selbst nicht wusste, was sie sagen wollte, dass sie suchte, tastete, nach dem richtigen Wort griff wie nach einem Seil im Dunkeln.
+
+Fatima fand es für sie.
+
+Einmal sagte Töregene: „Schreib, dass wir den Prinzen Köden bitten, seinen Kanzler Chinqai nach Karakorum zu senden, damit die Sache der Veruntreuung endgültig aufgeklärt wird.“
+
+Fatima hielt inne. Das war etwas anderes. Das war kein Brief, der die Regentin stärkte. Das war ein Brief, der den Konflikt mit dem eigenen Sohn eskalierte. Das war ein Brief, der Blut forderte.
+
+Sie zögerte keine Sekunde.
+
+Sie schrieb.
+
+Aber in ihrem Kopf notierte sie: *Töregene will Chinqai an den Hof zurückholen. Sie gibt die Verfolgung nicht auf. Sie wird ihn töten, wenn sie ihn kriegt. Und Köden wird sie hassen. Ein Sohn, der seine Mutter hasst. Das ist gefährlich.*
+
+Sie schrieb den Brief.
+
+Sie legte die Feder nieder.
+
+Und dann, in der Stille zwischen zwei Sätzen, hörte sie den Schritt.
+
+Nicht den einer Dienerin. Nicht den eines Boten. Einen männlichen Schritt, schwer, müde, der die Knochen des Bodens kannte und sie nicht schonte. Ein Schritt, der das Zelt betrat wie eine Frage, die keine Antwort erwartete.
+
+Fatima sah auf.
+
+Im Eingang der Kanzlei stand ein Mann.
+
+Er trug Staub auf den Schultern, den Staub von tausend Meilen. Sein Gesicht war von Wind und Schlaf gezeichnet, die Haut rissig, die Nase gerötet vom Frost, der noch in den Gipfeln des Altai hing. Er trug einen Mantel aus grauem Filz, an den Nähten abgeschabt, und seltsamerweise keine Waffen, obwohl er aus dem Krieg kam.
+
+Seine Hände waren leer.
+
+Seine Augen waren es nicht.
+
+Güyük.
+
+Der Sohn der Regentin.
+
+Er war aus dem Westfeldzug zurückgekehrt.
+
+Und er stand im Eingang der Kanzlei wie ein Mann, der prüfte, ob die Beute noch da war.
+
+„Mutter“, sagte er.
+
+Die Stimme war rau, abgenutzt vom Kommandieren, vom Rufen über Schlachtfelder, vom Schweigen in den Nächten, in denen die Männer starben.
+
+Töregene stand auf. Langsam. Würdevoll. Sie ging zu ihrem Sohn, und für einen Moment, einen einzigen, flüchtigen Moment, war sie keine Regentin, keine Macht, keine Strategin. Sie war eine Mutter, die ihren Sohn nach dem Krieg wiedersah.
+
+Sie umarmte ihn.
+
+Er ließ es geschehen.
+
+Dann trat er zurück und sah zur Seite und der Blick fiel auf Fatima.
+
+Es war kein Blick der Feindseligkeit.
+
+Es war schlimmer.
+
+Es war der Blick eines Mannes, der eine Sklavin taxierte, der die Stellung eines Gegenstands im Raum bewertete, der fragte: *Gehört das meiner Mutter? Kann ich es nutzen? Wie viel ist es wert?*
+
+Fatima erwiderte den Blick nicht. Sie senkte die Lider auf die Hälfte, eine Geste der Unterwerfung, die sie perfektioniert hatte. Sie hielt die Feder ruhig.
+
+„Du bist zurück“, sagte Töregene. „Früher als erwartet. Ich habe Nachricht vom Hof im Westen erhalten. Du hast Batu verlassen?“
+
+„Er hat mich verlassen“, sagte Güyük. „Oder besser: Er hat mich weggeschickt. Als der Feldzug scheiterte, als wir die Städte nicht halten konnten, als die Winterkälte die Pferde tötete, da hat er mir die Schuld gegeben. Er hat mir gesagt, ich sei zu jung, zu unerfahren, zu ungeduldig. Er hat mich nach Hause geschickt. Wie einen Hund, den man nicht mehr braucht.“
+
+Die Stimme war ruhig. Aber die Hand, die an der Seite hing, zitterte leicht. Oder war es die Erschöpfung?
+
+Töregene nickte. „Ich weiß. Ich habe Berichte. Und ich habe Briefe geschrieben, um die Schäden zu begrenzen. Dieser hier“, sie deutete auf Fatima, „schreibt die Briefe, die Batu nicht ignorieren kann. Deine Rückkehr ist unangenehm, aber nicht tödlich. Wir werden den Schaden begrenzen. Du wirst bei der nächsten Kurultai deinen Vater vertreten. Du wirst deinen Anspruch auf den Thron geltend machen, sobald die Trauerzeit vorbei ist. Batu wird nicht in der Lage sein, dich aufzuhalten, wenn die Fürsten sehen, dass ich dich unterstütze. Die Zeit arbeitet für uns, nicht gegen ihn.“
+
+Güyük hörte zu. Er sagte nichts.
+
+Er sah Fatima an.
+
+„Wer ist sie?“
+
+Töregene lächelte. „Meine Hand. Meine Schreiberin. Fatima aus Chorasan. Du hast sie gesehen, als du jung warst. Sie war schon lange am Hof. Jetzt ist sie unverzichtbar. Ohne sie wäre ich blind. Sie schreibt meine Worte, sie denkt meine Gedanken, sie versteht meine Befehle, bevor ich sie ausspreche. Sie ist das Beste, was ich in all den Jahren gefunden habe.“
+
+Güyük musterte Fatima. Die Musterung dauerte eine Stunde oder eine Sekunde. Sie wusste es nicht. Sie spürte nur die Schwere dieses Blicks, der sie wie eine Sache wog.
+
+„Kann sie lesen? Mongolisch?“
+
+„Vier Sprachen“, sagte Töregene. „Persisch, Türkisch, Monglisch und ein wenig Uigurisch. Drei Schriften. Und sie hat gelernt, meine Gedanken zu lesen, und das ist die wertvollste Fähigkeit von allen. Ihr wirst du in meiner Kanzlei nicht begegnen. Sie ist mein Werkzeug, mein Instrument. Sie spricht nur, wenn ich es will, und sie schreibt, was ich diktiere. Sie ist das Geheimnis meiner Macht in der Stille, in der die Schreiber anderer Höfe noch nach den richtigen Formeln suchen, während meine Briefe schon unterwegs sind. Ohne sie wäre ich nur eine Witwe im Zelt der Verhandlungen. Mit ihr bin ich die Regentin, die den Osten und den Westen beherrscht. Du solltest sie respektieren, nicht als Gleichgestellte, aber als ein seltenes und wertvolles Werkzeug, das nicht jeder hat. Du wirst sie brauchen, wenn du den Thron besteigst. Sie ist unverzichtbar. Für mich. Für dich. Für das Reich. Aber hüte dich vor ihr, Sohn. Eine Hand, die schreibt, kann auch lügen. Ein Auge, das liest, kann verraten. Sie ist nicht deine Sklavin. Sie ist deine Versuchung, die Feder zwischen den Fingern der Macht, die die Welt in Worte presst. Wenn du ihr vertraust, wird sie dir dienen. Wenn du sie fürchtest, wird sie dich verraten. Also lerne, sie zu nutzen, wie du eine Waffe nutzt. Gib ihr Raum, aber gib ihr nie Macht über dich. Habe sie in deiner Nähe, aber lass sie nie allein. Sie ist ein Messer, das du schärfst, aber nie aus der Hand legst. Ein Messer ist nur so gefährlich wie die Hand, die es führt. Deine Hand, Fatima. Deine Feder, Sohn. Mach sie dir zu eigen, oder du wirst sie eines Tages in deinem Rücken spüren. Das ist die Regel an diesem Hof. Alles ist Leihgabe. Nichts ist Eigentum. Nur der Tod ist endgültig. Und der kommt für uns alle. Aber vorher kommt die Feder. Vorher kommt das Papier. Vorher kommt der Brief, der deine Feinde entlarvt oder dich rettet. Wähle weise, was du schreibst, Fatima. Und du, mein Sohn, wähle weise, was du glaubst. Papier trägt keine Treue. Nur der Schreiber entscheidet, wem seine Hand gehört. Und Fatima gehört mir. Sie gehört dir nicht. Sie wird dir nie gehören. Sie ist mein Werkzeug, mein Herz, mein Mund, wenn die Worte fehlen. Sie ist nicht dein Kriegsbeute, dein Lohn für den Feldzug, dein Souvenir aus einer Schlacht, die du verloren hast. Vergiss das nicht, Güyük. Die Feder in ihrer Hand ist mächtiger als dein Schwert. Und ich bin die Hand, die sie führt. Du wirst alles tun, was ich dir sage. Du wirst den Thron besteigen, wenn ich es entscheide. Und du wirst nichts tun, was meine Geduld überstrapaziert. Verstehst du? Gut. Setz dich. Du siehst müde aus. Iss mit uns. Tee. Brot. Ein wenig Ruhe. Morgen werden wir über die Zukunft sprechen. Heute ruhen wir uns aus. Morgen beginnt der Krieg um die Macht. Heute sind wir noch eine Familie. Eine Familie, die sich liebt. Eine Familie, die einander vertraut. Eine Familie, die bereit ist, alles füreinander zu opfern. Oder?“
+
+Güyük setzte sich. Er nahm den Becher, den eine Dienerin ihm brachte. Er trank.
+
+Dann, beiläufig, wie ein Mann, der nach einem verlorenen Gegenstand fragt, sagte er: „Wer war beim Gelage dabei?“
+
+Die Frage hing im Raum.
+
+Fatima atmete nicht.
+
+Töregene zögerte nicht.
+
+„Die üblichen Gäste“, sagte sie. „Die Fürsten. Die Gesandten. Die Musiker. Der Mundschenk, der den Wein brachte. Ein junger Diener aus dem Westen, den niemand kannte. Der Koch. Die Wachen. Es war ein Gelage wie jedes andere. Dein Vater hat getrunken, gelacht, gesprochen, die Opfer des Krieges beschworen. Dann ist er zusammengebrochen. Das war es. Es gibt nichts, was du nicht wüsstest. Die Ärzte haben gesagt, sein Herz. Der Schmerz über den Verlust? Der Kummer über die Toten? Wer kann das wissen. Das Herz bleibt immer ein Geheimnis. Selbst den Ärzten, die es öffnen. Die einzige Antwort ist: Er starb, weil er sterben musste. So wie wir alle sterben. Früher oder später. Es gibt keine andere Erklärung. Keine andere Geschichte. Keine andere Wahrheit. Also frage nicht weiter, Sohn. Die Vergangenheit ist tot. Begrabe sie. Sieh nach vorne. Sieh auf den Thron, der auf dich wartet. Sieh auf die Macht, die dein Erbe ist. Sieh auf die Zukunft. Das ist alles, was zählt. Morgen werden wir über die Kurultai sprechen. Heute trinken wir auf die Toten. Auf die Vergangenheit. Auf die Zeit, die nicht zurückkommt. Auf die Toten, die wir nie vergessen, aber auch nie mehr rufen. Prost. Der Tod ist die Wahrheit, die wir alle teilen. Aber das Leben ist die Lüge, die wir schreiben, um weiterzuleben. Schreib sie, Fatima. Schreib sie für uns. Schreib die Geschichte, die wir brauchen. Schreib die Wahrheit, die uns überleben wird. Die Lüge, die zur Wahrheit wird, wenn niemand mehr widerspricht. Ja, schreib sie. Morgen. Heute trinken wir. Auf die Toten, die uns nicht mehr belästigen, auf das Leben, das uns quält, auf die Feder, die uns befreit. Die Feder, die uns tötet. Die Feder, die uns unsterblich macht. Und auf den Tod, der alles beendet, aber nichts löst. Prost. Eines Tages werden sie uns alle lesen. Eines Tages werden sie wissen, was geschah. Eines Tages.”
+
+Fatima schrieb nicht. Sie hörte. Sie hörte alles.
+
+Sie hörte die Frage, die zu glatt fiel. Sie hörte die Antwort, die zu glatt kam. Sie hörte die Stille zwischen den Worten, die mehr sagte als jedes Wort.
+
+Sie hörte die Falle, die aufgestellt wurde.
+
+Und sie wusste, dass Güyük nicht glaubte, was seine Mutter sagte.
+
+Und sie wusste, dass Töregene nicht glaubte, dass ihr Sohn glaubte.
+
+Und sie wusste, dass sie in der Mitte dieser Ungläubigkeit saß, wie ein Stein in einem fließenden Fluss, der den Lauf des Wassers veränderte, ohne es zu wollen.
+
+Sie hielt die Feder.
+
+Sie schrieb nichts.
+
+Sie wartete.
+
+Und die Stille im Zelt wurde schwerer, bis Töregene den Becher hob und trank, und Güyük den Becher hob und trank, und Fatima den Becher, der vor ihr stand, nicht anrührte, weil sie wusste, dass das, was in diesem Zelt geschah, nicht mit einem Toast enden würde.
+
+Es begann gerade erst.
+
+---
+
+## 8. Der Heimkehrer
+
+Die Aktenkammer des Ordos roch nach altem Papier, nach Staub und nach der Kälte, die sich in den Stein gefressen hatte. Shigi Qutuqu stand am Fenster und sah hinaus auf den Hof, wo die Wachen ihre Runden drehten, ihre Schritte gleichmäßig, ihre Gesichter ausdruckslos.
+
+Er wartete.
+
+Er hatte gewartet, seit die Nachricht gekommen war, dass Güyük den Westfeldzug verlassen hatte. Er hatte gewartet, seit der Sohn der Regentin durch die Tore von Karakorum geritten war. Er hatte gewartet, seit er wusste, dass dieser Tag kommen würde.
+
+Und nun hörte er die Schritte.
+
+Schwer. Gleichmäßig. Kein Zögern.
+
+Güyük kam nicht, um zu fragen. Er kam, um zu nehmen.
+
+Shigi drehte sich um und legte die Hände flach auf den Tisch. Das Holz war kalt unter seinen Fingern. Die Akte lag bereit – die richtige Akte, die falsche Akte, die Akte, die er in den letzten Tagen zusammengestellt hatte wie ein Köcher voller Pfeile, die alle in dieselbe Richtung zeigten.
+
+Die Tür öffnete sich ohne Anklopfen.
+
+Güyük trat ein. Er trug noch den Staub des Marsches auf seinem Mantel, und seine Augen waren rot gerändert von Schlafmangel oder von etwas anderem – Wut vielleicht oder Trauer oder beides vermischt zu einer Farbe, die Shigi nicht benennen konnte.
+
+„Richter“, sagte Güyük.
+
+„Prinz“, erwiderte Shigi.
+
+Sie maßen einander mit Blicken. Shigi hatte Güyük aufwachsen sehen – als Kind in den Zelten der Mutter, als Jungen auf dem Pferd, als Mann im Krieg. Er hatte ihn nie gemocht. Aber das war nicht wichtig. Was wichtig war: Er kannte ihn.
+
+Und er wusste, dass dieser Besuch keine Höflichkeit sein würde.
+
+„Ich will die Akte meines Vaters“, sagte Güyük ohne Einleitung.
+
+Shigi nickte langsam. „Welche Akte?“
+
+„Du weißt genau welche.“ Güyüks Stimme war flach wie eine Klinge vor dem Stoß. „Die über seinen Tod.“
+
+Shigi stand still für einen Moment. Dann ging er zum Regal an der Wand und zog eine Mappe hervor – dick mit Papieren gefüllt, sorgfältig gebunden in graues Leder mit einem roten Siegel an der Seite.
+
+„Ich habe sie vorbereitet“, sagte er ruhig und legte sie auf den Tisch zwischen sich und den Prinzen. „Wie es das Gesetz verlangt.“
+
+Güyük trat näher und legte seine Hand auf die Mappe. Seine Finger waren schmutzig von der Reise; sie hinterließen helle Streifen auf dem dunklen Leder.
+
+„Das Gesetz“, wiederholte er leise und hob den Blick zu Shigi.
+
+„Ja“, sagte Shigi ebenso leise zurück. „Das Gesetz.“
+
+Einen Herzschlag lang standen sie so – zwei Männer über einem Stück Leder und Papier über einer Leiche über einer Wahrheit, die keiner von ihnen aussprechen würde.
+
+Dann schlug Güyük die Mappe auf und begann zu lesen.
+
+---
+
+Die Stille in der Kammer war dick wie Honig im Winter: zähflüssig schwer widerwillig sich zu bewegen Shigi stand am Fenster aber seine Augen waren nicht draußen sie waren auf Güyüks Gesicht das sich beim Lesen kein einziges Mal veränderte wie Stein wie Pergament wie eine Tür die geschlossen blieb
+
+Güyük las jede Seite zweimal
+
+Er las von den Ärzten ihren Berichten ihren vorsichtigen Formulierungen ihrem Schweigen zwischen den Zeilen
+
+Er las vom Gelage an jenem Abend von den Gästen von den Speisen vom Wein
+
+Er las vom plötzlichen Zusammenbruch von der Eile von der Stille danach
+
+Er las nichts über einen verschwundenen Diener
+
+Er las nichts über einen goldenen Becher mit ungewöhnlichem Inhalt
+
+Er las nichts was er nicht schon wusste oder was er nicht schon vermutet hätte
+
+Und doch las er weiter Seite um Seite um Seite als ob das Papier ihm etwas verraten würde was es nicht enthielt als ob zwischen den Buchstaben eine zweite Schrift läge eine unsichtbare Tinte eine Wahrheit unterhalb der Worte
+
+Shigi wartete
+
+Er hatte gelernt zu warten in seinen Jahren am Hof in seinen Jahrzehnten zwischen Männern deren Macht größer war als seine eigene deren Geduld geringer deren Zorn dafür umso heißer brannte
+
+Warten war seine Waffe seine Rüstung sein Schild gegen das Ungestüm der Jungen gegen das Verlangen der Mächtigen gegen das Drängen des Blutes das immer schneller handeln wollte als es denken konnte
+
+Warten bedeutete sehen bedeutete hören bedeutete verstehen bevor man sprach
+
+Und so sah er jetzt: sah wie Güyüks Kiefer mahlte während er las sah wie seine Finger das Papier hielten als wäre es ein lebendiges Ding das man würgen konnte sah wie seine Augen schneller wurden je mehr sie sahen dass nichts zu sehen war
+
+Sah wie die Enttäuschung kam wie eine Flutwelle über ein flaches Land langsam erst dann alles bedeckend dann zurückweichend dann nichts hinterlassend als Schlamm und Nässe und Leere
+
+Güyük klappte die Mappe zu
+
+Seine Hände lagen flach auf dem Leder seine Finger breit gespreizt seine Knöchel weiß von Druck
+
+„Das ist alles?“
+
+„Das ist alles was offiziell aufgezeichnet wurde“
+
+Güyük starrte ihn an: „Du hast mehr“
+
+Es war keine Frage es war eine Feststellung ein Angriff ein Messer das vor ihm auf dem Tisch lag gezogen aber noch nicht geworfen bereit aber noch nicht gezückt wartend darauf dass Shigi nach ihm griff oder davor zurückschreckte oder beides zugleich tat und damit verriet was er verbarg
+
+Shigi bewegte sich nicht
+
+Seine Hände blieben flach auf dem Holz sein Atem blieb gleichmäßig sein Blick blieb ruhig während drinnen etwas anderes geschah etwas Kaltes etwas Hartes etwas das entschied ohne zu zögern:
+
+*Nein*
+
+*Ich gebe dir nicht mehr*
+
+*Ich gebe dir genug*
+
+*Genug um dich zufrieden zu stellen genug um dich abzuspeisen genug um dich glauben zu lassen du hättest alles bekommen was es gibt*
+
+*Und ich behalte den Rest für mich*
+
+*Den Rest für Fatima*
+
+*Den Rest für die Wahrheit*
+
+„Es gibt keine weiteren Aufzeichnungen“, sagte er laut und seine Stimme klang fest fest wie Stein fest wie Eis fest wie etwas das schon lange gelernt hatte sich nicht zu biegen wenn Druck darauf lastete „Der Tod deines Vaters wurde dokumentiert nach geltendem Recht nach den Regeln dieser Kanzlei nach allem was wir wissen“
+
+Güyük schwieg lange dann fragte er:
+
+„Wer war beim Gelage?“
+
+Shigi zögerte einen Herzschlag lang – genau lang genug um echt zu wirken lang genug um Überlegung vorzutäuschen lang genug um einen Namen fallen zu lassen aber nicht den richtigen:
+
+„Die üblichen Gäste Die Generäle Die Würdenträger Die Beamten Dein Bruder Köden war da Chinqai einige andere“
+
+Keine Erwähnung Fatimas kein Wort über die Frau aus Chorasan keine Andeutung ihrer Anwesenheit an jenem Abend kein Hinweis darauf dass sie gesehen hatte was niemand gesehen haben durfte dass sie wusste was niemand wissen durfte dass sie in diesem Raum saß zwischen ihnen beiden unsichtbar ungenannt ungefährdet solange ihr Name nicht fiel
+
+Güyük runzelte die Stirn: „Chinqai? Der alte Kanzler? Der Mann den meine Mutter jagt?“
+
+Shigi nickte: „Derselbe Ja“
+
+„Interessant“ Güyüks Stimme klang dünn jetzt dünner als vorher dünn wie Eis im ersten Tau: brüchig gefährlich bereit jeden Moment einzubrechen „Ein Mann der heute flieht aber gestern noch am Tisch meines Vaters saß Ein Mann den meine Mutter verfolgt aber mein Bruder beschützt Ein Mann…“ Er stockte dann fuhr er leiser fort: „Ein Mann dessen Namen ich mir merken werde“
+
+Das Schweigen fiel wieder ein schwerer Vorhang zwischen ihnen beiden schwerer Stoff schweres Schweigen schweres Wissen das beide teilten ohne es auszusprechen:
+
+Chinqai wusste etwas Chinqai könnte eines Tages sprechen Chinqai könnte eines Tages sterben bevor er spricht – je nachdem wer wen fand wen schützte wen tötete bevor es zu spät wäre für alles außer Schweigen außer Vergessen außer dem Tod der alles beendet aber nichts löst nichts erklärt nichts heilt sondern nur zudeckt nur vergräbt nur wegsperrt in einer Truhe deren Schlüssel verloren ist im Sand der Zeit im Wind des Vergessens im endlosen Kreislauf von Macht und Blut und Stille immer wieder Stille immer wieder Schweigen immer wieder Tod:
+
+Der Tod des Khans
+Der Tod seines Vaters
+Der Tod eines Mannes dessen Name fällt oder fällt gelassen wird je nachdem wer spricht wer schweigt wer stirbt bevor beide möglich sind bevor beides geschieht bevor nichts mehr bleibt außer dem Geruch von altem Papier Staub Kälte Stein und einer Akte auf einem Tisch zwischen zwei Männern deren jeder weiß dass der andere lügt aber keiner sagt es laut weil laute Worte gefährlicher sind als stummes Wissen weil stummes Wissen sicherer ist weil stummes Wissen geteilt werden kann ohne geteilt werden zu müssen weil stummes Wissen bleibt wo es ist während laute Worte reisen während laute Worte Ohren finden während laute Worte Leben kosten –
+
+Leben wie seines Leben wie ihres Leben wie all jener deren Namen fielen oder fielen gelassen wurden je nachdem wer sprach wer schwieg wer lebte wer starb wer am Ende übrig blieb um weiterzuleben weiterzuschweigen weiterzuwarten bis auch seine Zeit kam bis auch sein Name fiel bis auch sein Schweigen endete im Staub unter dem Stein im Geruch von altem Papier im Licht eines Winters dessen Kälte nie vergeht nie vergehen wird nie vergehen darf weil sonst niemand mehr bleibt um Zeugnis abzulegen von dem was geschah –
+
+Aber nein
+Nicht jetzt
+Noch nicht
+Jetzt zählten nur diese zwei Dinge:
+Die Akte vor ihm
+Der Prinz vor ihm
+Und die Entscheidung zwischen ihnen beiden:
+Wer spricht
+Wer schweigt
+Wer geht
+Wer bleibt
+Wer lebt
+Wer stirbt –
+Nicht heute vielleicht morgen vielleicht nie vielleicht immer vielleicht für immer ungelöst unausgesprochen ungeschrieben außer in einem Buch das niemand lesen darf außer einer Frau deren Name noch nicht gefallen ist noch nicht fallen darf noch nicht fallen wird solange Shigi Qutuqu atmet solange seine Hände diese Feder halten solange sein Siegel dieses Papier berührt solange sein Mund diesen Namen verschweigt:
+
+Fatima.
+Fatima.
+Fatima.
+
+---
+
+Güyük stand auf so abrupt dass sein Stuhl gegen die Wand stieß mit einem harten trockenen Knall der durch die Stille schnitt wie eine Peitsche durch Nebel: kurz scharf endgültig klanglos dann still dann leer dann wartend darauf dass jemand sprach jemand handelte jemand weitermachte mit dem Spiel dessen Regeln beide kannten obwohl sie nie niedergeschrieben wurden obwohl sie nie ausgesprochen wurden obwohl sie tiefer lagen als jedes Gesetz jeder Eid jede Unterschrift unter einem Dokument das morgen verbrannt werden konnte übermorgen vergessen nächste Woche ersetzt durch ein anderes Dokument mit anderen Worten anderer Wahrheit anderem Zweck:
+
+Macht.
+Macht.
+Macht.
+Alles andere ist Dekoration ist Theater ist Rauch vor unseren Augen hinter dem wir tanzen während andere sterben während andere leiden während andere ihre Seelen verkaufen für einen Platz am Feuer für einen Blick des Khans für eine Handvoll Münzen Gold Silber Blut –
+
+Nichts davon so viel wert
+So wenig wert
+So gar nichts wert wenn man bedenkt dass alles endet alles vergeht alles stirbt irgendwann irgendwo irgendwie egal wie viele Akten man stapelt egal wie viele Lügen man schreibt egal wie viele Wahrheiten man begräbt unter Bergen aus Papier Pergament Leder Siegeln Unterschriften Zeugenaussagen Eiden –
+
+Am Ende bleibt nur:
+Staub
+Schweigen
+Vergessen
+
+Oder:
+Eine Geschichte erzählt von denen die übrig bleiben denen es gelang rechtzeitig zu gehen rechtzeitig zu schweigen rechtzeitig ihren Mund zu halten während andere sprachen während andere starben während andere ihre letzte Wahrheit schrien in einer Sprache die keiner mehr verstand in einem Raum ohne Fenster ohne Türen ohne Ausgang –
+
+So endet Macht:
+Nicht mit einem Schrei sondern mit Stille
+Nicht mit einem Schwert sondern mit Papier
+Nicht mit Blut sondern mit Tinte trocknend auf Blättern deren Inhalt niemand liest deren Bedeutung niemand kennt deren Zweck niemand mehr entschlüsselt Stunden später Tage später Jahre später wenn alle tot sind alle vergangen alle versunken im Fluss der Zeit unter dessen Oberfläche nichts bleibt außer Steinen Lehm Knochen –
+
+Und manchmal:
+Eine Feder steckt fest zwischen zwei Steinen steckt fest im Grund des Flusses steckt fest als Zeichen dafür dass jemand hier schrieb jemand hier litt jemand hier versuchte festzuhalten was unaufhaltsam vorbeifließt:
+
+Das Leben.
+Die Liebe.
+Die Wahrheit.
+Alles drei so schwer so leicht so unmöglich gleichzeitig festzuhalten weil Wasser durch deine Finger rinnt rinnt rinnt bis nichts bleibt bis deine Hände leer sind dein Herz leer dein Mund leer vollgestopft mit Schweigen vollgestopft mit Angst vollgestopft mit Fragen deren Antwort du längst kennst aber niemals gibst niemals geben darfst niemals geben kannst weil Geben bedeutet Verlieren bedeutet Sterben bedeutet Ende –
+
+Und doch:
+Gibst du weiter hältst du weiter suchst du weiter –
+Nach einem Wort einem Namen einer Wahrheit –
+Nach Fatima –
+Nach ihrer Hand ihrer Feder ihrer Geschichte –
+Nach allem was bleibt wenn du gehst wenn du stirbst wenn du verschwindest in der Nacht aus Staub Schweigen Vergessen –
+
+Aber nein:
+Noch nicht jetzt noch lebst du jetzt noch atmest du jetzt noch hältst du diese Feder diese Akten dieses Siegel –
+Noch kannst du entscheiden noch kannst du handeln noch kannst du wählen:
+Schweigen oder Sprechen?
+Leben oder Sterben?
+Wahrheit oder Lüge?
+
+Du wählst:
+Schweigen.
+Leben.
+Lüge.
+Für heute morgen vielleicht für immer –
+
+Weil morgen kommt bestimmt kommt sicher kommt –
+Weil morgen dir Zeit gibt Zeit schenkt Zeit raubt –
+Weil morgen vielleicht anders wird besser wird anders entscheidet anders handelt anders lebt anders stirbt anders endet anders beginnt anders weitermacht wo heute aufgehört hat wo heute gestoppt wurde wo heute stillstand stillhält stillschweigt stillwartet bis morgen kommt –
+
+Morgen kommt bestimmt kommt sicher kommt –
+Morgen kommt vielleicht schon heute Nacht schon dieser Abend schon dieser Augenblick wenn Güyük geht wenn Tür ins Schloss fällt wenn Schritte verhallen wenn Stille zurückkehrt wenn Shigi allein ist allein bleibt allein lebt allein stirbt allein wartet bis Morgen wirklich kommt wirklich da ist wirklich beginnt wirklich neu macht wirklich gut macht wirklich richtig macht wirklich wahr macht alles besser heller freundlicher sanfter einfacher leichter weniger belastet weniger bedroht weniger gefährlich weniger tödlich weniger endgültig weniger – 
+
+Morgen kommt bestimmt kommt sicher kommt –
+Morgen kommt –
+
+Morgen kommt vielleicht genau so wenig genau so viel genau so gleich genau so anders genau so leer genau so voll genau so tot genau so lebendig genau so sinnlos genau so sinnvoll genau so nutzlos genau so notwendig genau so falsch genau so richtig genau so grau genau so klar genau so kalt genau so warm genau tot lebend sinnlos sinnvoll falsch richtig grau klar kalt warm –
+
+Morgen kommt bestimmt kommt sicher kommt –
+Morgen kommt immer bestimmt sicher immer gleich immer anders immer neu immer alt immer gleich –
+
+Morgen kommt bestimmt kommtsicherkommtimmerkommtimmergleichimmerandersimmerneuimmervorbeiimmervorbeiimmervorbeiimmervorbeiimmervorbeiimmervorbeiimmervorbeiim—
+
+---
+
+Güyük ging ohne Abschiedswort ohne Kopfnicken ohne Geste der Höflichkeit oder Dankbarkeit oder Anerkennung dessen was geschehen war gesagt worden getan worden gelassen worden vermieden worden erreicht worden verloren worden gewonnen worden vertagt worden verschoben worden vergessen worden bewahrt worden verborgen worden geheim gehalten worden zugedeckt worden weggesperrt worden weggeschlossen worden weggedrückt worden weggedacht worden weggelogen worden weggewischt worden weggewaschen worden weggetragen worden weggerollt worden weggeblasen worden weggeworfen worden weggeworfenweggeworfenweg—
+
+Die Tür fiel ins Schloss: hart trocken kurz endgültig klanglos dann still dann leer dann frei: frei für Shigi Qutuqu frei für sein Handeln frei für seinen nächsten Schritt seinen nächsten Zug seinen nächsten Atemzug seinen nächsten Gedanken seinen nächsten Entschluss seinen nächsten Fehler seinen nächsten Sieg seinen nächsten Verlust seinen nächsten Augenblick seines Lebens seines Sterbens seines Überlebens seiner Aufgabe seiner Pflicht seiner Schuld seiner Ehre seiner Schande seiner Wahrheit seiner Lüge seines Weges durch diese Nacht diesen Tag dieses Jahrzehnt dieses Jahrhundert dieses Leben das länger dauert als gedacht länger dauert als gehofft länger dauert als erträglich länger dauert als möglich länger dauert als menschlich länger dauert als—
+
+Stopp!
+
+Atmen!
+Denken!
+Handeln!
+
+Shigi hob den Kopf drehte ihn nach links rechts sah prüfend prüfend prüfend ob niemand mehr da stand ob niemand mehr lauerte ob niemand mehr horchte ob niemand mehr wartete darauf dass er jetzt tat was getan werden musste getan werden durfte getan werden konnte getan werden sollte getan werden würde getan werden musste musste musste—
+
+Er öffnete eine Schublade seines Schreibtisches eine kleine unscheinbare Schublade unter anderen kleinen unscheinbaren Schubladen zwischen anderen kleinen unscheinbaren Dingen Dingen Dingen—
+
+Er griff hinein nahm heraus einen zweiten Band dünner kleiner unauffälliger gebunden in braunes Leder ohne Siegel ohne Titel ohne Hinweis auf Inhalt Zweck Bedeutung Wert Gefahr— 
+
+Seine Privatakte über Ögedeis Tod enthielt Details enthalten Namen enthalten Daten enthalten Beobachtungen enthalten Fragen enthalten Antworten enthalten Schlüsse enthalten Zweifel enthalten Gewissheiten enthalten Vermutungen enthalten Beweise enthalten Indizien enthalten Spuren enthalten Fährten enthalten Fallen enthalten Gefahren enthalten Risiken enthalten Chancen enthalten Entscheidungen enthalten—
+
+Enthalten Fatimas Namen!
+
+Fatimas Name stand darin geschrieben deutlich lesbar unmissverständlich klar fatal tödlich gefährlich kostbar notwendig wahrhaft richtig falsch unmöglich möglich—
+
+Fatima!
+
+Seine Hand zitterte kurz kaum merklich fast unsichtbar fast unbemerkt fast unbedeutend fast unwichtig fast—
+
+Aber wichtig!
+Bedeutungsvoll!
+Entscheidend!
+
+Denn jetzt trennte sich was nie hätte vereint werden sollen: offizielle Lüge private Wahrheit dienstliche Fiktion persönliches Wissen öffentliche Geschichte geheimes Gedächtnis Amtspflicht Menschenpflicht Pflicht gegenüber Gesetz gegenüber Herrschaft gegenüber Familie gegenüber Freundschaft gegenüber Feindschaft gegenüber Wahrheit gegenüber Lüge gegenüber Leben gegenüber Tod gegenüber allem allem allem—
+
+Zwei Bücher!
+Zwei Versionen!
+Zwei Welten!
+Zwei Entscheidungen!
+Zwei Wege!
+Zwei Möglichkeiten!
+
+Eine Wahl!
+
+Wähle!
+
+Shigi legte beide Bücher nebeneinander auf seinen Schreibtisch legte beide nebeneinander betrachtete beide nebeneinander maß beide gegeneinander ab prüfte beide gegeneinander testete beide gegeneinander verglich beide miteinander unterschied beide voneinander trennte beide voneinander löste beide voneinander befreite beide voneinander band beide wieder zusammen vereinte beide wieder zur Einheit machte aus zwei eins machte aus eins zwei machte aus Wahl Notwendigkeit machte aus Notwendigkeit Möglichkeit machte aus Möglichkeit Wirklichkeit machte aus Wirklichkeit—
+
+Mach!
+
+Seine Hand griff zum privaten Band hob ihn hoch trug ihn quer durchs Zimmer quer zur Truhe quer zur Kiste quer zum Versteck quer zur Sicherheit quer zum Geheimnis quer zur Vergangenheit quer zur Zukunft quer zur Gegenwart quer zur Entscheidung quer zur Tat quer zum Vollzug quer zum Ende—
+
+Leg ihn hinein!
+Schließ ab!
+Verlier ihn nie!
+Verrate ihn nie!
+Gib ihn nie her!
+Lass ihn nie finden!
+Lass ihn nie entdecken!
+Lass ihn nie ans Licht kommen ans Licht ans Licht ans Licht ans Licht ans Licht ans LichtansLichtansLichtans——
+
+---
+
+Draußen fiel Schnee erste Flocken erste Boten erste Vorboten eines Winters der kommen würde kommen musste kommen sollte kommen durfte kommen könnte kommen würde bestimmt kam sicher kam bald kam schnell kam hart kam kalt kam endlos kam ewig kam tief kam schwer kam weiß kam rein kam totkamlebendkamtotkamlebendkamtotlebendtotlebendtotleb—
+
+---
+
+## 9. Noch nicht
+
+Die Luft im Zelt war dick vom Rauch der Feuerbecken und dem Geruch nasser Wolle. Fatima saß auf ihrem Kissen, das Schreibbrett auf den Knien, die Feder gezückt, bereit. Sie war unsichtbar. Das war ihre Kunst.
+
+Töregene saß auf dem erhöhten Sitz, die Hände locker um die Armlehnen gelegt, das Gesicht eine Maske aus höflicher Geduld. Sie trug ein schlichtes Gewand aus grauer Seide, kein Gold, keine Perlen. Eine Frau, die es nicht mehr nötig hatte, ihren Rang zu beweisen.
+
+Güyük stand vor ihr. Er kam direkt vom Feld, der Staub des Marsches noch auf den Stiefeln, der Lederpanzer ungeputzt. Hinter ihm flatterte der Zeltvorhang noch nach. Er hatte keinen Gruß angeboten.
+
+„Ich will ein Kuriltai“, sagte er.
+
+Keine Einleitung. Keine Bitte. Eine Forderung.
+
+Töregene hob eine Augenbraue. „Setz dich.“
+
+„Ich will kein Gespräch“, sagte Güyük. „Ich will das Kuriltai einberufen. Die Fürsten sollen kommen. Der Thron soll bestätigt werden.“
+
+Fatima schrieb nicht auf. Sie lauschte nur, spürte die Spannung zwischen Mutter und Sohn wie die Hitze eines Feuers.
+
+Töregene schwieg einen langen Augenblick. Dann sagte sie: „Batu kommt nicht.“
+
+„Batu ist nicht der einzige Fürst im Reich.“
+
+„Batu ist der Älteste des Hauses Dschingis“, sagte Töregene ruhig. „Ohne ihn ist kein Kuriltai vollzählig. Du weißt das.“ Sie machte eine Pause, ließ den Satz wirken. „Ein unvollständiges Kuriltai ist ein Kriegsgrund.“
+
+Güyük trat näher an den Sitz heran, bis er direkt vor seiner Mutter stand. „Du hältst mich hin“, sagte er leise.
+
+„Ich halte dich von einem Fehler ab.“
+
+„Du fürchtest mich.“
+
+„Ich fürchte für dich.“ Töregene beugte sich leicht vor; ihre Stimme wurde weicher, fast zärtlich: „Dein Vater hat Shiremün benannt als seinen Erben.“ Die Worte fielen wie Steine in stilles Wasser: rund schwer unverrückbar: „Willst du gegen den letzten Willen deines Vaters herrschen? Bevor die Fürsten ihn vergessen haben?“
+
+Die Stille dehnte sich aus füllte das Zelt drückte gegen die Wände gegen die Decke gegen die Lungen aller Anwesenden.
+
+Güyük starrte seine Mutter an.
+
+Fatima sah es: den Kampf in seinen Augen – Zorn Scham Furcht Stolz Verwirrung – alles gleichzeitig alles miteinander verschlungen alles ohne Ausweg.
+
+Er wusste es.
+Er wusste dass sein Vater ihn übergangen hatte.
+Er wusste dass Shiremün der Enkel war der Jüngling der Unerfahrene.
+Er wusste dass er selbst der älteste Sohn war der Reichsverwalter seines Vaters der legitime Erbe nach allem was Recht und Brauch und Ordnung hieß.
+Und er wusste dass Recht und Brauch und Ordnung nichts galten gegen den letzten Willen eines Khans.
+
+Das Grundgesetz des Reiches:
+Der Wille des Herrschers ist Gesetz.
+Und Ögedeis Wille hatte Shiremün genannt.
+Nicht Güyük.
+Niemals Güyük.
+
+Aber was war Wille?
+War es das letzte Wort eines sterbenden Mannes?
+War es das was in einer Urkunde stand?
+War es das was die Chronisten schrieben?
+Oder war es das was die Macht daraus machte?
+
+Thronfolge war ein Streit über Texte.
+Das verstand Fatima in diesem Augenblick mit einer Klarheit die sie erschaudern ließ:
+Es gab keine Tatsachen mehr.
+Es gab nur noch Geschichten.
+Und wer die bessere Geschichte erzählte bekam den Thron.
+
+Güyük lockerte seine Schultern atmete aus schien einen Entschluss zu fassen: „Shiremün ist ein Kind“, sagte er verächtlich: „Das Reich braucht einen Mann an seiner Spitze – keinen Knaben keinen Enkel keinen Strohmann für deine Günstlinge!“
+
+Töregene blieb unbewegt: „Das Reich braucht Ruhe – keinen Bürgerkrieg zwischen zwei Ansprüchen!“ Ihre Stimme schnitt durch seine Wut wie eine Klinge durch Nebel: „Wenn du jetzt drängst wenn du jetzt zwingst wenn du jetzt Gewalt anwendest dann spaltest du das Haus Dschingis in zwei Hälften! Dann stehst du gegen Batu gegen deinen Bruder Köden gegen halb China gegen halb Persien gegen alle die Shiremün stützen!“
+
+„Dann sollen sie kommen!“ Güyüks Faust schlug auf den Tisch neben dem Sitz; Tintenfässer klirrten Papiere rutschten Federn fielen zu Boden: „Ich habe gegen Song gekämpft habe gegen Korea gekämpft habe gegen Russland gekämpft habe Polen erreicht habe Ungarn erreicht habe Europa erreicht! Ich fürchte keine Schlacht – auch nicht gegen meine eigenen Verwandten!“
+
+„Du fürchtest keine Schlacht?“ Töregene stand langsam auf; zum ersten Mal zeigte sie Größe Macht Präsenz Autorität: Ihre Stimme war leise aber jeder Ton traf wie ein Pfeil ins Ziel: „Dann bist du dümmer als ich dachte!“
+
+Güyük trat einen Schritt zurück; seine Hand fuhr unwillkürlich zum Schwertgriff – dann hielt er inne ließ los atmete aus beherrschte sich sichtlich unter größter Anstrengung:
+
+„Du wagst es mich dumm zu nennen?“
+„Ich wage es dich jung zu nennen“, sagte Töregene müde: „Jung und ungeduldig und blind für das was wirklich zählt:“
+Sie trat näher an ihn heran; ihre Stimme fiel ins Flüstern aber jedes Wort war deutlich vernehmbar:
+
+„Batu wird keiner Versammlung zustimmen solange du Anspruch erhebst – er hasst dich seit deinem Streit am Westfeldzug seit deiner Beleidigung seit deiner Herausforderung seit deiner Demütigung vor den Fürsten Russlands! Du hast ihn öffentlich gedemütigt und Männer wie Batu vergessen so etwas nie!“
+
+Güyük schwieg; sein Kiefer mahlte sichtbar unter der angespannten Haut:
+
+„Also wartest du“, flüsterte Töregene weiter; ihre Hand legte sich sanft auf seine Wange eine Geste von Zärtlichkeit die Fatima nie zuvor gesehen hatte:
+
+„Du wartest bis Batu stirbt oder bis er nachgibt oder bis Shiremün vergessen wird oder bis sich eine Gelegenheit bietet… Das ist Regieren Güyük! Nicht mit dem Schwert zuschlagen sondern warten können!“
+
+Güyük entzog sich ihrer Berührung drehte sich um ging zum Zelteingang blieb stehen drehte sich nicht um:
+
+„Wie lange?“
+Seine Stimme klang gepresst erstickt fast verzweifelt:
+„Wie lange soll ich noch warten während du hier sitzt und Briefe schreibst und Intrigen spinnst und mich von allem fernhältst?“
+Er lachte bitter kurz rau hohl:
+„Weißt du was sie über dich sagen Mutter? Dass du mit deinem Finanzminister schläfst dass du Gift in Ögedeis Becher getan hast dass du Fatima zur Kanzlerin machst weil sie dir die Wahrheit sagt… Aber ich sage dir:“
+Endlich drehte er sich um sein Gesicht hart kalt leer tot:
+„Die Wahrheit interessiert mich nicht mehr – ich will nur noch den Thron!“
+
+Töregene antwortete nicht.
+Sie sah ihn nur an mit diesem Blick den Fatima kannte:
+Dem Blick einer Frau die schon alles gesehen hatte schon alles verloren hatte schon alles gewonnen hatte schon alles überlebt hatte schon alles ertragen hatte schon alles verstanden hatte schon alles vergeben hatte schon alles bereut hatte schon alles neu gemacht hatte…
+
+Und dann sprach sie zwei Worte:
+Zwei Worte so leise gesprochen dass Fatima sie kaum hörte aber jeder Buchstabe brannte sich ins Gedächtnis ein:
+
+**Noch nicht.**
+
+Die Stille danach war ohrenbetäubend zerdrückend erstickend vernichtend endgültig unwiderruflich unveränderlich unausweichlich unabwendbar…
+
+Güyük stand regungslos da minutenlang minutenlang minutenlang minutenlang minutenlang…
+Dann wandte er sich ab trat durch den Vorhang verschwand in der Dunkelheit draußen wo Schnee fiel wo Wind heulte wo Nacht herrschte wo Kälte regierte wo Einsamkeit lauerte wo Tod wartete…
+
+Der Vorhang fiel zurück; die Stille blieb zurück; Töregene setzte sich wieder zurück nickte kaum merklich zurück gab Zeichen zurück Normalität zurück Alltag zurück Routine zurück…
+
+Fatima atmete aus atmete tief atmete langsam atmete bewusst befreite ihre Lungen befreite ihren Geist befreite ihre Gedanken…
+
+Sie begann zu schreiben begann Notizen zu machen begann Sätze zu formulieren begann Eindrücke festzuhalten begann Bilder einzufangen begann Momente zu konservieren begann Wahrheit zu archivieren begann Geschichte zu dokumentieren…
+
+Aber dann hörte sie Schritte hinter sich:
+Schwere Schritte langsame Schritte bedächtige Schritte bedrohliche Schritte gefährliche Schritte tödliche Schritte…
+
+Güyük kam zurück.
+Er trat neben ihren Sitz blieb stehen beugte sich herab senkte seinen Kopf fast bis auf ihre Höhe flüsternd:
+
+„Ich weiß wer du bist“, hauchte er ihr ins Ohr seine Stimme heiß vor Bitterkeit eiskalt vor Hass:
+
+„Ich weiß dass du dabei warst in jener Nacht im Dezember als mein Vater starb… Ich weiß dass meine Mutter dich beauftragt hat Beweise verschwinden zu lassen… Ich weiß dass du mehr weißt als alle anderen zusammen…“
+
+Seine Hand legte sich schwer auf ihre Schulter drückend quetschend würgend fast brechend fast zerstörend fast tötend:
+
+„Eines Tages werde ich Khan sein“, flüsterte er weiter seine Lippen fast an ihrem Ohr sein Atmen heiß ihr Nacken kalt ihr Herz rasend ihr Verstand klar ihr Wille stark ihr Mut grenzenlos:
+
+„Und dann werde ich dich finden werde ich dir Fragen stellen werde ich Antworten bekommen werde ich wissen was wirklich geschah… Und wenn du mir dann nicht sagst was ich wissen will wenn du mich belügst wenn du mich betrügst wenn du mich hintergehst wenn du mich verrätst…“
+
+Seine Finger gruben sich tiefer in ihr Fleisch;
+Sie spürten jeden Knochen jede Sehne jedes Band jeden Nerv jeden Muskel jede Faser jedes Atom jedes Molekül jedes Teilchen ihrer Existenz:
+
+**Dann wirst du sterben.**
+
+Er richtete sich auf ging hinaus verschwand endgültig diesmal wirklich diesmal ganz diesmal für immer diesmal unwiderruflich diesmal endgültig diesmal absolut diesmal total diesmal final…
+
+Fatima saß still reglos unbeweglich unbewegt unbeeindruckt unbeeinflussbar unerschütterbar unzerstörbar unbesiegbar unkaputtbar unvergessbar unaustilgbar uneinnehmbar uneinholbar uneinholbar uneinhol—
+
+Ihre Hand zitterte kaum merklich fast unsichtbar fast unbemerkt fast unbedeutend fast unwichtig fast—
+
+Aber wichtig!
+Bedeutungsvoll!
+Entscheidend!
+
+Denn jetzt trennte sich was nie hätte vereint werden sollen:
+Loyalität Selbsterhaltung Dienst Überleben Pflicht Furcht Ehre Angst Gehorsam Vernunft Treue Klugheit Liebe Hass Vertrauen Misstrauen Hoffnung Verzweiflung Glaube Zweifel Gewissheit Ungewissheit Sicherheit Gefahr Leben Tod—
+
+Alles!
+Alles gleichzeitig!
+Alles miteinander verwoben!
+Alles durcheinander gewirbelt!
+Alles ohne Ende!
+
+Töregene riss sie aus ihren Gedanken:
+Ohne sich umzudrehen ohne den Blick vom Vorhang zu lösen ohne eine Bewegung ihres Körpers ohne eine Veränderung ihrer Haltung ohne eine Regung ihres Gesichts ohne einen Ton ihrer Stimme außer dem einen Befehl:
+
+**Schreib das nicht auf.**
+
+Fatima erstarrte mitten im Satz mitten im Wort mitten im Buchstaben mitten im Gedanken mitten im Impuls mitten im Reflex mitten im Automatismus mitten im Drang mitten im Zwang mitten in der Pflicht mitten im Beruf mitten in ihrer Natur:
+
+Die Feder schwebte über dem Papier;
+Die Tinte trocknete auf ihrer Spitze;
+Die Zeit dehnte sich endlos unmessbar unendlich ewig zeitlos raumlos dimensionslos grenzenlos uferlos bodenlos abgrundtief todesschwer lebensleicht unmöglich möglich notwendig unmöglich—
+
+Sie lächelte:
+Ein Lächeln so leicht so sanft so freundlich so harmlos so arglos so naiv so kindlich so rein so unbeleckt so unbeschrieben so leer so voller Bedeutung so voller Geheimnis so voller Wissen so voller Macht so voller List so voller Klugheit so voller Überlebenswillen— :
+
+**Ich schreibe nie das Wichtigste auf.**
+
+Töregene drehte sich langsam um sah sie an musterte ihr Gesicht prüfte ihren Blick testete ihre Worte wog ihre Bedeutung ab maß ihre Wahrheit gegeneinander unterschied Lüge von Wirklichkeit trennte Schein von Sein löste Maske von Gesicht befreite Fassade von Kern öffnete Tür öffnete Fenster öffnete Tor öffnete Weg öffnete Brücke öffnete Abgrund—
+
+Zwei Frauen sahen einander an;
+Zwei Frauen lächelten fast;
+Zwei Frauen logen fast;
+Zwei Frauen vertrauten fast;
+Zwei Frauen hassten fast;
+Zwei Frauen liebten fast;
+
+Fast—
+Nur fast—
+Immer nur fast—
+
+Nie ganz—
+Nie wirklich—
+Nie endgültig—
+Nie absolut—
+Nie total—
+Nie final—
+
+Immer offen—
+Immer möglich—
+Immer verhandelbar—
+Immer beweglich—
+Immer fließend—
+Immer werdend—
+
+Niemals seiend—
+Niemals bleibend—
+Niemals feststehend geschrieben besiegelt bestätigt beglaubigt ratifiziert manifestiert materialisiert realisiert verwirklicht wahrgemacht wahrhaft seiend existent lebendig tot sterblich unsterblich ewig zeitlos grenzenlos—
+
+Töregene nickte kaum merklich wandte sich wieder ab richtete ihren Blick wieder nach draußen wo Schnee fiel wo Nacht herrschte wo Kälte regierte wo Dunkelheit lauerte wo Einsamkeit wartete wo Tod lauerte wo Leben kämpfte wo Zukunft entschieden wurde— :
+
+**Geh jetzt.**
+
+Fatima erhob sich nahm ihr Brett nahm ihre Feder nahm ihr Tintenfass nahm ihr Schweigen nahm ihr Wissen nahm ihr Geheimnis nahm ihre Lüge nahm ihre Wahrheit nahm ihr Leben nahm ihren Tod nahm alles mit hinaus hinaus aus dem Zelt hinaus in die Nacht hinaus in den Schnee hinaus in die Kälte hinaus in die Dunkelheit hinaus in das Unbekannte hinaus in das Ungewisse hinaus in das Unvermeidliche hinaus in das Unausweichliche hinaus…
+
+Draußen fiel Schnee erste Flocken erste Boten erste Vorboten eines Winters der kommen würde kommen musste kommen sollte kommen durfte kommen könnte kommen würde bestimmt kam sicher kam bald kam schnell kam hart kam kalt kam endlos kam ewig kam tief kam schwer kam weiß kam rein kam totkamlebendkamtotkamlebendkamtotlebendtotlebendtotleb—
+
+---
+
+*Der Konflikt des Jahrzehnts war gezündet.*
+*Mutter verweigerte Sohn das Reich.*
+*Thronfolge war ein Streit über Texte entlarvt offengelegt enthüllt demaskiert entkleidet nackt bloßgestellt wehrlos verwundbar sterblich menschlich allzu menschlich—*
+
+*Und Fatima*
+*die Sklavin*
+*die Schreiberin*
+*die Vertraute*
+*die Lügnerin*
+*die Überlebende*
+*die Chronistin*
+
+*hatte zum ersten Mal offen ins Gesicht gelogen*
+*der Frau*
+*die ihr alles gab:*
+
+---
+
+## 10. Der Silberbaum
+
+Juvaini hatte Karakorum größer erwartet.
+
+Er war den ganzen Weg von der Passhöhe des Altai geritten, hatte geträumt von Marmor und Gold, von Türmen und Bögen, die den Himmel durchstießen. Die Hauptstadt der Welt. Der Nabel des Reiches. Der Ort, von dem aus der Khan die Länder der Sonne bis zur Grenze der Finsternis beherrschte.
+
+Stattdessen fand er Staub.
+
+Staub, der in dichten Wolken von den Weiden aufstieg. Staub, der sich auf seine Kleider legte. Staub, der die Luft füllte, bis er jede Farbe verschluckte und nur ein fahles Grau zurückließ. Die Stadt lag vor ihm wie eine Wunde in der Steppe: ein Durcheinander aus Zelten und Lehmhütten, Holzfällen und Stoffbahnen, die im Wind flatterten. Keine Mauer. Kein Tor. Kein Palast. Nichts, das diesen Ort von jeder armseligen Oase unterschied, an der er vorbeigeritten war.
+
+Sein Vater hatte ihn gewarnt. *Die Mongolen bauen keine Städte*, hatte Baha-ud-Din geschrieben in dem Empfehlungsschreiben, das Juvaini in der Innentasche seines Mantels trug. *Sie erobern sie. Wenn du Erhabenheit suchst, wirst du sie nicht in Karakorum finden. Suchst du Macht, wirst du sie überall finden.*
+
+Er suchte keine Erhabenheit. Er suchte einen Auftrag.
+
+Juvaini schloss die Augen, spürte den Staub auf seinen Lidern, atmete den Geruch von Pferdemist und verbranntem Dung. Dann begann er zu zählen, denn Zählen war die einzige Art, die Welt zu ordnen, die er gelernt hatte.
+
+Zwölf Tempel. Er zählte ihre Dächer, die sich wie Pagoden über die flachen Dächer der Stadt erhoben. Zwei Moscheen. Ihre Minarette ragten auf wie Zeigefinger, die den Himmel anklagten. Eine Kirche. Ein einfaches Holzkreuz, das im Wind schwankte. Die Hauptstadt der Welt hatte drei Götter, und keine wusste vom anderen.
+
+Er ritt weiter durch die Gassen, die kaum breit genug waren für zwei beladene Kamele. Ein chinesisches Viertel, abgegrenzt durch rot gestrichene Holzpfosten. Ein muslimisches Viertel, erkenntlich an den Gebetsteppichen, die vor den Zelten ausgebreitet lagen. Auf dem Markt boten Händler aus Byzanz Seide an, aus Sibirien Pelze, aus Persien Teppiche, aus China Porzellan. Die Stadt war hässlich, dachte Juvaini. Hässlich und provisorisch und voller Staub.
+
+Und sie enthielt die ganze Welt.
+
+Er hielt vor einem Zelt an, das größer war als die anderen. Ein schwarzes Seidentuch hing über dem Eingang, bestickt mit goldenen Drachen, die sich um einen unsichtbaren Thron wanden. Darunter stand ein Mann, der ihn erwartete.
+
+Guillaume Boucher war groß für einen Franken. Sein Bart war rot wie Herbstlaub, seine Hände waren von Narben übersät, von Säuren und Feuern gezeichnet. Er trug eine Lederschürze, die einst weiß gewesen sein mochte, über einem Wams aus grobem Tuch. Er sprach Persisch mit einem Akzent, der die Worte dehnte und streckte, bis sie kaum wiederzuerkennen waren.
+
+„Du bist der Schreiber", sagte er. „Der mit den zwei Koffern Bücher."
+
+Juvaini nickte. Er hatte die Koffer bei einem Händler am Stadtrand gelassen, gegen eine Gebühr, die sein ganzes Reisegeld verschlungen hatte. „Mein Vater schrieb an den Kanzler. Er sagte, ich solle Boucher aufsuchen."
+
+„Dein Vater hatte einen guten Namen. Ich erinnere mich an seine Briefe. Sauber geschrieben. Keine Tintenkleckse. Das sage ich nicht oft."
+
+Boucher trat zur Seite und bedeutete Juvaini einzutreten.
+
+Das Innere des Zeltes war anders als erwartet. Kein Wohnraum, sondern eine Werkstatt. Überall lagen Werkzeuge: Hämmer, Zangen, Feilen, Meißel, in Körben sortiert nach Größe und Verwendungszweck. In der Mitte stand ein Tisch, beladen mit Kesseln und Formen aus Ton. An den Wänden hingen Zeichnungen, so präzise wie die, die sein Vater von alten Manuskripten kopierte, aber mit Motiven, die Juvaini noch nie gesehen hatte: Tiere aus Metall, Vögel mit Flügeln aus Blattgold, Bäume mit silbernen Ästen.
+
+„Das ist es", sagte Boucher und trat zu einer der Zeichnungen. „Das Wichtigste, das ich je gemacht habe. Vielleicht das Einzige, das zählt."
+
+Juvaini trat näher. Das Blatt Pergament war groß, fast so groß wie sein Oberkörper, und darauf war ein Baum gezeichnet. Ein Baum aus Silber, mit einem Stamm, der sich in vier Hauptäste verzweigte. Jeder Ast trug Früchte, die wie Perlen leuchteten. An der Basis des Stammes saßen vier Löwen aus metallenem Gold, ihre Mäuler geöffnet, als wollten sie trinken.
+
+„Ein Baum", sagte Juvaini.
+
+„Ein Silberbaum", korrigierte Boucher. „Für den nächsten Khan. Ich baue ihn seit zwei Jahren. Seit ich hier bin."
+
+„Du baust ihn. Du bist Gefangener."
+
+Boucher lachte, ein trockenes Geräusch, das wie ein Husten klang. „Ich bin Goldschmied. Ich war in Paris Goldschmied, bevor die Mongolen kamen. Jetzt bin ich Goldschmied in Karakorum. Der Lohn ist gleich. Nur die Auftraggeber sind mächtiger."
+
+Er fuhr mit dem Finger über die Zeichnung, folgte den Konturen des Stammes. „Die Löwen werden Wein aus ihren Mäulern speien, Wein aus vier Sorten. Einer für jede Himmelsrichtung. Der Baum wird sich drehen, angetrieben durch verborgenen Wind. Es wird die Gäste des Khans erheitern, während sie in seinem Palast hofhalten."
+
+„Dein Gefangener", sagte Juvaini, „und du schaffst ihm Schönheit."
+
+Boucher drehte sich um. Seine Augen waren grau, wie Winterwolken, und sie ruhten auf Juvaini ohne Zorn. „Ich schaffe Schönheit für die, die mich gefangen halten. Das ist mein Leben. Dein Leben wird das Gleiche sein."
+
+Juvaini schwieg.
+
+Er sah die Zeichnung an, die filigranen Linien, die perfekten Proportionen, die kunstvollen Verzierungen. Der Baum war schön – von einer kalten, perfekten Schönheit, die jeden Makel ausschloss. Und er war schrecklich. Er war das Zeugnis einer Niederlage, die sich Kunst nannte. Der Sieger befahl, der Besiegte schuf, und das Ergebnis wurde Silberbaum genannt.
+
+„Du schreibst", sagte Boucher. „Ich gieße Metall. Wir sind gleich."
+
+Juvaini schluckte den Widerspruch hinunter, der ihm auf der Zunge lag. Er war nicht gleich. Er war Schreiber, kein Handwerker. Er schrieb die Geschichte des Reiches, er schrieb die Edikte des Khans, er schrieb so schön, dass die Worte sangen. Aber er spürte die Wahrheit, wie sie sich in ihm festsetzte, wie eine Wurzel, die sich in Stein grub: Er würde für die Eroberer schreiben. Er würde die Eroberung beschönigen, die Unterwerfung erklären, die Gewalt mit Worten übermalen. Er würde der Silberbaum sein, dessen Gesang die Schrecken der Zerstörung übertönte.
+
+„Wann wirst du ihn fertigstellen?", fragte er.
+
+„Wenn der nächste Khan kommt", sagte Boucher. „Oder wenn ich sterbe. Was zuerst eintritt."
+
+Er nahm die Zeichnung vom Tisch und rollte sie sorgfältig zusammen. „Geh jetzt. Deine Arbeit wartet in der Kanzlei. Hier entlang."
+
+Sie traten hinaus in die Sonne, die niedrig stand und grell war. Der Staub legte sich auf Juvainis Lippen, und er schmeckte die Erde der Steppe. Er spürte das Gewicht der Bücher, die in den Koffern auf ihn warteten. Die Gewissheit, dass Worte nie ausreichen würden, um das, was hier geschah, zu fassen.
+
+Die Kanzlei war ein Gebäude aus Holz und Lehm, das in der Mitte der Stadt thronte. Es hatte zwei Stockwerke, ein seltenes Zeichen von Prestige in einer Stadt aus Zelten. Die Fenster waren vergittert, nicht aus Sicherheitsgründen, wie Juvaini später erfuhr, sondern weil das Papier nicht im Wind flattern durfte. Alles hier war darauf ausgelegt, die Ordnung zu bewahren, die die Stadt selbst vermissen ließ.
+
+Der ältere Sekretär, der ihn empfing, war ein Mann von vielleicht fünfzig Jahren, mit grauem Bart und Händen, die von Tinte gefleckt waren wie die seines Vaters. Er sprach Persisch mit einem leichten Khorasan-Akzent und trug einen Mantel aus schlichter Wolle, ohne Verzierung, ohne Rangabzeichen.
+
+„Du bist Juvaini", sagte er. „Man hat uns deine Ankunft angekündigt."
+
+Juvaini reichte ihm den Brief seines Vaters. Der Sekretär nahm ihn, las ihn schweigend, dann nickte er.
+
+„Deine Handschrift ist leserlich. Die Grammatik ist korrekt. Das genügt."
+
+Er führte Juvaini durch einen schmalen Gang in einen Raum, der mit Regalen bedeckt war. Regale voller Rollen, von der Decke bis zum Boden, so dicht gepackt, dass das Licht kaum einfiel. In der Mitte stand ein Pult, darauf ein Bogen Papier und eine Feder.
+
+„Hier wirst du arbeiten. Deine Aufgabe: Abschreiben. Alles, was dir vorgelegt wird. Edikte, Briefe, Listen, Protokolle. Du wirst nicht fragen, was sie bedeuten. Du wirst nicht kommentieren. Du wirst schreiben."
+
+Juvaini setzte sich an das Pult. Das Holz war abgenutzt, die Tinte auf der Platte hatte tiefe Spuren hinterlassen. Er legte die Feder zurecht, testete die Spitze an seinem Daumen.
+
+„Was ist mit den Briefen der Regentin?", fragte er.
+
+Der Sekretär sah ihn an. Ein langer Blick, der keine Neugier verriet, nur eine sachliche Einschätzung.
+
+„Die Briefe der Regentin werden von einer Chorasanerin diktiert. Sie ist ihre Schreiberin. Du wirst ihre Arbeit nicht anrühren."
+
+Juvaini nickte, als wäre das verstanden. Aber in seinem Kopf setzte sich ein Satz fest, wie ein Steinchen in einem Schuh. *Eine Chorasanerin.* Er war aus Chorasan. Ein Land, das es nicht mehr gab, zerstört von genau den Menschen, denen er jetzt diente. Und eine Frau aus diesem Land saß hier, in der Hauptstadt der Welt, und schrieb die Briefe der Regentin.
+
+Er dachte an den Silberbaum und an Boucher, der Schönheit für seine Henker schuf.
+
+Er dachte an den Staub auf seinen Lippen.
+
+Er begann zu schreiben.
+
+---
+
+## 11. Die Kanzlei
+
+Die Wochen vergingen, und Juvaini lernte den Hof über seine Papiere kennen.
+
+Steuerlisten, die in präzisen Zahlenkolonnen die Erträge der Provinzen auflisteten. Gnadenbriefe, deren höfische Floskeln die Schärfe der Begnadigung umspielten. Todesurteile, die in derselben bürokratischen Sprache gehalten waren wie die Bestellungen von Futtergetreide. Alles dasselbe Format. Derselbe Aufbau. Dieselbe kalte Distanz zwischen dem Wort und dem, was es bedeutete.
+
+Juvaini saß an seinem Pult, die Feder in der Hand, und schrieb. Er schrieb, was man ihm vorlegte, ohne zu fragen, ohne zu kommentieren, wie der ältere Sekretär es ihm befohlen hatte. Aber seine Augen waren schneller als seine Hand. Sie registrierten jede Abweichung, jede stilistische Eigenheit, jede Nuance in den Texten, die durch seine Hände gingen.
+
+Am dreiundzwanzigsten Tag seiner Arbeit stieß er auf etwas, das ihn innehalten ließ.
+
+Es war ein Entwurf, den er in die Reinschrift übertragen sollte. Ein Brief an einen Statthalter in den westlichen Provinzen, der die Lieferung von Pferden für die kaiserliche Post betraf. Der Text war kurz, sachlich, präzise. Aber er war anders.
+
+Juvaini las ihn zweimal, bevor er die Feder ansetzte.
+
+Die Sätze waren kürzer. Die Wörter waren genauer. Die Höflichkeit war nicht weitschweifig, sondern unerbittlich – eine Klinge, die unter Samt lag. Der Brief drohte nicht, aber er ließ keinen Zweifel daran, was geschehen würde, wenn die Pferde nicht eintrafen. Er war höflich. Er war klar. Er war unangreifbar.
+
+Juvaini legte die Feder nieder und betrachtete den Entwurf.
+
+Die Handschrift war anders als die der älteren Sekretäre. Sie war flüssiger, gleichmäßiger, als wäre sie in einem Zug geschrieben, ohne Zögern, ohne Korrektur. Die Buchstaben waren schmal, fast elegant, aber ohne jede Verzierung. Keine Schnörkel, keine überflüssigen Bögen. Jeder Strich hatte eine Funktion.
+
+Er drehte das Blatt um. Auf der Rückseite stand kein Name, keine Initiale. Nur ein Datum in derselben schmalen Schrift.
+
+„Wer hat das geschrieben?“, fragte er.
+
+Der ältere Sekretär, der am Nebentisch saß, sah auf. „Die Chorasanerin. Fatima.“ Er sprach den Namen aus, als wäre er eine Selbstverständlichkeit.
+
+Juvaini nickte. Er nahm die Feder wieder auf und begann zu schreiben. Aber seine Gedanken waren nicht bei den Pferden.
+
+---
+
+Von diesem Tag an begann er, ihre Briefe zu sammeln.
+
+Es war keine bewusste Entscheidung. Es geschah einfach. Wenn ein Entwurf in ihrer Handschrift durch seine Hände ging, legte er ihn nicht sofort zur Seite. Er las ihn. Mehrmals. Er studierte die Satzstellung, die Wortwahl, die Art, wie sie eine Drohung in eine Höflichkeit verwandelte und eine Höflichkeit in einen Befehl.
+
+Er begann, ihre Briefe zu vergleichen, wie man Gedichte vergleicht. Die Briefe an die Statthalter waren anders als die Briefe an die Gesandten. Die Briefe an die Generäle waren anders als die Briefe an die Prinzen. Sie schrieb, als hätte sie ein Gespür für jeden Empfänger, als wüsste sie, welche Worte einsickern würden wie Wasser in trockenen Stein.
+
+Er legte die Entwürfe beiseite, die er kopiert hatte, und bewahrte sie in einer Schublade seines Pults auf. Es war kein Diebstahl. Die Entwürfe waren ohnehin für das Archiv bestimmt. Aber er nahm sie mit nach Hause, in sein Zelt am Rand der Stadt, und las sie bei Kerzenlicht, während der Wind gegen die Zeltwände schlug.
+
+Er schrieb ihre Sätze ab, nicht in seine offiziellen Kopien, sondern in sein Notizbuch. Das kleine Buch, das er in Nischapur gekauft hatte, dessen Seiten noch leer waren bis auf die ersten Verse, die er in den Nächten seiner Reise geschrieben hatte. Jetzt füllte er es mit ihren Sätzen, wie ein Maler die Farben einer anderen Palette studiert.
+
+„Die Lieferung der Güter erfolgt bis zum Neumond. Der Verzug wird nicht bestraft. Der Verlust wird nicht verziehen.“
+
+„Der Khan erwartet deine Ankunft. Der Khan erwartet deinen Gehorsam. Der Khan erwartet nichts, was du nicht geben kannst. Gib es trotzdem.“
+
+„Die Steuererhebung ist beendet. Die Zahlungen sind fällig. Die Gnade des Khans ist unerschöpflich. Seine Geduld ist es nicht.“
+Juvaini las diese Sätze und fragte sich, wie eine Frau, die aus dem zerstörten Chorasan stammte, die Sprache der Eroberer so perfekt beherrschen konnte. Wie sie die Kälte der mongolischen Verwaltung in ein Werkzeug verwandeln konnte, das schärfer war als jedes Schwert.
+
+Er dachte an den Silberbaum. An Boucher, der Schönheit für seine Henker schuf. An die Feder, die er selbst führte.
+
+Er begann zu verstehen.
+
+---
+
+Es war ein Morgen im späten Winter, als er sie zum ersten Mal sah.
+
+Der Himmel war grau, die Luft so kalt, dass das Tintenfass auf seinem Pult gefroren war. Juvaini saß über einem Bogen Papier und versuchte, die Tinte mit seinem Atem zu erwärmen, als die Tür der Kanzlei aufging.
+
+Der Wind fuhr herein, ein kalter Schwall, der die Papiere auf den Tischen flattern ließ. Juvaini sah auf.
+
+Sie stand in der Tür, eingerahmt von dem grauen Morgenlicht. Sie trug einen Mantel aus dunkler Wolle, der bis zu den Knöcheln reichte, und einen Schal, der ihr Gesicht zur Hälfte bedeckte. Aber ihre Augen waren sichtbar – dunkel, wach, von einer Stille, die nicht Ruhe war, sondern Aufmerksamkeit.
+
+Sie trat ein, ohne zu zögern, ohne den Raum zu mustern. Sie ging direkt zu dem Pult am Fenster, das seit Wochen leer gestanden hatte. Der ältere Sekretär erhob sich, als sie eintrat, und die anderen Schreiber senkten die Köpfe.
+
+„Fatima“, sagte der ältere Sekretär. „Die Regentin hat diktiert?“
+
+Sie nickte. Sie zog den Schal zurück, und Juvaini sah ihr Gesicht. Es war schmal, die Wangenknochen hoch, die Haut von der Kälte gerötet. Sie mochte dreißig sein, vielleicht älter. Es war schwer zu sagen. Ihre Augen waren das Einzige, was Alter verriet – sie hatten etwas gesehen, das weit über ihre Jahre hinausging.
+
+„Ein Brief an den Statthalter von Buchara“, sagte sie. Ihre Stimme war leise, aber klar. „Ich brauche jemanden, der die Reinschrift übernimmt. Meine Hand ist kalt.“
+
+Der ältere Sekretär deutete auf Juvaini. „Der Neue. Seine Handschrift ist leserlich.“
+
+Fatima sah ihn an. Zum ersten Mal. Ihre Augen trafen seine, und Juvaini spürte etwas, das er nicht benennen konnte – eine Prüfung, eine Einschätzung, ein Gewicht.
+
+„Gut“, sagte sie. „Setz dich. Schreib.“
+
+Sie setzte sich an das Pult am Fenster, legte einen Bogen Papier vor sich und begann zu diktieren.
+
+Juvaini setzte sich ihr gegenüber, die Feder in der Hand, das Tintenfass noch halb gefroren. Er wartete.
+
+„An den Statthalter von Buchara“, begann sie. „Die Regentin Töregene, Herrin der Welt, erlässt Folgendes: Die Erhebung der Steuern für das Jahr 1242 ist abgeschlossen. Die Zahlungen der Provinz Buchara sind vollständig eingegangen. Die Regentin ist zufrieden. Die Regentin erwartet die gleiche Pünktlichkeit im kommenden Jahr. Die Regentin erwartet, dass die Gelder für den Wiederaufbau der Munitionslager in der Provinz Khorasan bereitgestellt werden. Die Regentin erwartet, dass die Handelsstraßen gesichert werden. Die Regentin erwartet, dass der Wille des Khans ausgeführt wird, wie er es befohlen hat, bevor er in den Himmel aufstieg.“
+
+Juvaini schrieb. Die Feder flog über das Papier, und er nahm die Worte auf, ohne zu zögern. Aber während er schrieb, hörte er nicht nur die Worte. Er hörte die Pausen zwischen ihnen. Er hörte die Betonung, die sie bestimmten Wörtern gab – „zufrieden“, „erwartet“, „Wille“. Er hörte die Kälte, die sich unter der Höflichkeit verbarg.
+
+Und dann hörte er etwas, das ihn innehalten ließ.
+
+„Die Regentin ordnet den Wiederaufbau von Mashhad an“, sagte sie. „Die Stadt soll neu errichtet werden, mit Mitteln aus der Schatzkammer des Khans. Die Verwaltung wird von einem Beauftragten der Regentin übernommen. Die Bauarbeiten beginnen im Frühjahr 1243. Die Moschee soll wieder aufgebaut werden. Die Bibliothek. Die Märkte. Die Stadt soll wieder leben, wie sie vor dem Krieg gelebt hat. Die Regentin befiehlt es. Die Regentin wünscht es. Die Regentin erwartet es.“
+
+Juvaini schrieb, aber seine Hand stockte für einen Moment.
+
+Mashhad.
+
+Er kannte den Namen. Jeder in Chorasan kannte ihn. Mashhad, die Stadt der Märtyrer, die heilige Stadt. 1221 gefallen. Zerstört von den Heeren Dschingis Khans. Die Bevölkerung getötet. Die Moschee geschändet. Die Bibliothek verbrannt.
+
+Er sah auf. Fatima hatte aufgehört zu diktieren. Sie saß da, die Hände auf dem Tisch, die Augen auf das Papier vor ihr gerichtet. Aber ihre Hand, die auf dem Blatt ruhte, zitterte. Eine halbe Sekunde. Ein Zucken der Finger, das sie sofort unter Kontrolle brachte, als hätte sie es selbst nicht bemerken wollen.
+
+„Ich habe den Satz nicht beendet“, sagte sie leise, ohne aufzusehen. „Schreib weiter. Die Bauarbeiten beginnen im Frühjahr 1243. Punkt. Neuer Absatz. Die Regentin erwartet ihren Bericht zum ersten Neumond des Frühlings. Punkt. Ende des Briefes.“
+
+Juvaini schrieb die letzten Worte. Die Feder kratzte über das Papier, und dann legte er sie nieder.
+
+Fatima sah auf. Ihre Augen waren wieder ruhig, wieder kalt, wieder wach.
+
+„Lies vor, was du geschrieben hast“, sagte sie.
+
+Er las. Der Text war genau, Wort für Wort, wie sie ihn diktiert hatte. Aber als er die Stelle über Mashhad erreichte, hörte er seine eigene Stimme zögern. Nur ein Hauch, eine winzige Pause.
+
+Fatima hörte es.
+
+„Du hast eine Korrektur vorgenommen“, sagte sie.
+
+Juvaini spürte, wie ihm das Blut in die Wangen stieg. „Nein“, sagte er. „Ich habe nur geschrieben, was du diktiert hast. Wort für Wort.“
+
+„Nein. Du hast einen Satz umgestellt. Die Regentin erwartet, dass die Gelder für den Wiederaufbau der Munitionslager bereitgestellt werden. Du hast ‚die Gelder für den Wiederaufbau der Munitionslager‘ vorangestellt. Ich habe es umgekehrt gesagt. Die Regentin erwartet, dass die Gelder für den Wiederaufbau der Munitionslager bereitgestellt werden. Du hast das Subjekt betont. Ich habe die Handlung betont. Es ist ein Unterschied. Du hast ihn bemerkt. Und du hast ihn korrigiert, ohne zu fragen, ob ich es anders wollte.“
+Juvaini schwieg. Er spürte, wie die Stille im Raum schwer wurde, wie die Blicke der älteren Sekretäre auf ihm lasteten.
+
+Fatima sah ihn an. Ein langer Blick. Kein Zorn, keine Überraschung. Etwas anderes, das er nicht deuten konnte.
+
+„Du hast recht“, sagte sie leise. „Deine Version ist besser. Die Betonung des Subjekts verleiht dem Befehl mehr Gewicht. Die Regentin will, dass die Gelder bereitgestellt werden. Nicht die Handlung ist wichtig, sondern das Objekt. Das Geld. Die Regentin denkt in Gütern, nicht in Prozessen. Du hast ihren Geist verstanden. Das ist selten.“
+Sie nahm das Blatt, das er geschrieben hatte, und las es noch einmal. Dann legte sie es zur Seite.
+
+„Weiter“, sagte sie. „Ich habe noch einen Brief zu diktieren. An den Statthalter von Herat.“
+Juvaini setzte die Feder an. Seine Hand zitterte, aber er zwang sie zur Ruhe. Er schrieb. Er hörte zu. Er notierte die Pausen, die Betonungen, die unausgesprochenen Drohungen.
+
+Aber während er schrieb, dachte er an das, was sie gesagt hatte. *Du hast ihren Geist verstanden.* Kein Lob. Keine Strafe. Nur eine Feststellung, die schwerer wog als beides.
+
+Sie hatte ihn registriert.
+
+---
+
+Der Tag verging, und Juvaini arbeitete weiter. Er schrieb Briefe, Listen, Protokolle. Die Feder flog über das Papier, und seine Hand war ruhig, aber sein Geist war unruhig.
+
+Am Abend, als die Kanzlei sich leerte, blieb er sitzen. Er nahm das Blatt mit dem Brief an den Statthalter von Buchara und las ihn noch einmal. Seine Version. Ihre Version. Die kleine Korrektur, die sie bemerkt hatte, die er selbst kaum bewusst vorgenommen hatte.
+
+Er nahm sein Notizbuch aus der Tasche und schrieb den Satz auf, den sie diktiert hatte. Darunter schrieb er seine Version. Dann schrieb er einen Kommentar, wie ein Gelehrter, der eine Textvariante studiert.
+
+*Die Regentin denkt in Gütern, nicht in Prozessen. Subjekt vor Prädikat. Objekt vor Handlung. Die Betonung des Greifbaren. Die Kürze als Waffe. Die Höflichkeit als Schutzschild. Ihre Handschrift ist eine Unterschrift. Ihr Stil ist eine Maske. Ihre Maske ist ihr Gesicht.*
+
+Er klappte das Notizbuch zu und steckte es in seine Tasche. Der Wind fuhr durch die Kanzlei, und die Lampen flackerten. Er warf einen Blick auf das Pult am Fenster, wo sie gesessen hatte. Das Blatt, auf dem sie ihre Notizen gemacht hatte, war noch da. Ein leeres Blatt.
+
+Er stand auf, ging hinüber und nahm es in die Hand. Es war weiß, unberührt. Nur an einer Stelle, am Rand, war ein kleiner Fleck. Tinte, die aus der Feder getropft war, als sie bei dem Namen Mashhad gezögert hatte.
+
+Juvaini betrachtete den Fleck lange. Er verstand ihn nicht. Aber er wusste, dass er etwas bedeutete. Dass er ihn später verstehen würde.
+
+Er legte das Blatt zurück, löschte die Lampe und ging in die Nacht.
+
+Der Wind war kalt, und der Himmel war klar. Die Sterne standen über Karakorum, unzählig, unbewegt. Juvaini ging durch die leeren Straßen, an den Zelten der Händler vorbei, an den Wachen am Tor, an den Feuerstellen, deren Glut noch schwach glühte.
+
+Er dachte an die kleine Pause in ihrer Hand. An den einen Moment, in dem die Maske gerissen war.
+
+Er dachte an das, was sie nicht gesagt hatte.
+
+Er dachte an das Notizbuch in seiner Tasche, das sich langsam füllte mit ihren Worten, ihren Sätzen, ihren Pausen.
+
+Und er wusste, dass er nicht mehr nur ein Kopist war. Er war ein Sammler. Ein Jäger. Ein Beobachter, der die Sprache der Macht studierte, um sie zu verstehen. Um sie zu beherrschen. Um sie eines Tages vielleicht zu benutzen.
+
+Er erreichte sein Zelt, zog die Filzdecke zurück und trat ein. Die Kälte war hier nicht weniger schneidend, aber die Dunkelheit war willkommen. Er setzte sich auf seine Matte, zog das Notizbuch heraus und schrieb eine letzte Zeile.
+
+*Sie hat mich gesehen.*
+
+Dann klappte er das Buch zu, legte es unter seinen Kopf und schloss die Augen.
+
+Die Nacht war lang. Der Winter war kalt. Aber zum ersten Mal seit seiner Ankunft spürte Juvaini, dass er nicht mehr nur ein Fremder war, der am Rand der Welt saß. Er war im Spiel.
+
+Und das war das Gefährlichste von allem.
+
+---
+
+## 12. Die Prüfung
+
+Der Frühling kam nach Karakorum wie ein Dieb, leise und unerwartet. Der Schnee schmolz nicht, er verschwand einfach eines Morgens, und zurück blieb Matsch, der nach nasser Wolle und verbranntem Dung roch. Fatima stand am Fenster der Kanzlei und betrachtete die Pfützen auf dem Hof. Das Licht war anders jetzt, heller, gnadenloser. Es zeigte jeden Riss im Holz, jeden Fleck auf den Papieren.
+
+Sie hatte zwanzig Jahre gebraucht, um zu lernen, dass Licht nie freundlich war. Es enthüllte nur, was man verbergen wollte.
+
+Hinter ihr atmete die Kanzlei ihren gleichmäßigen Atem: das Kratzen von Federn auf Papier, das Rascheln von Blättern, das leise Husten eines alten Sekretärs am anderen Ende des Raumes. Fünf Schreiber arbeiteten heute an den Pulten, jeder in seine eigene Aufgabe vertieft. Einer von ihnen war neu.
+
+Fatima drehte sich nicht um. Sie wusste genau, wo er saß: am dritten Pult links, das Gesicht halb im Schatten der Säule, die Feder in der Hand wie eine Waffe, die er noch nicht zu führen gelernt hatte. Ata-Malik Juvaini. Der Junge aus Dschuwain mit den schnellen Augen und den langsameren Händen.
+
+Sie hatte ihn beobachtet in den Wochen seit jenem ersten Diktat. Er war klug, das stand außer Frage. Seine Abschriften waren fehlerfrei, seine Formulierungen präzise. Aber Klugheit war am Hof keine Tugend – sie war eine Gefahr, die man erst dann erkannte, wenn es zu spät war.
+
+Fatima wandte sich vom Fenster ab und ging zu ihrem Pult. Der ältere Sekretär – ein Mann namens Yulbars mit grauem Bart und schmalen Lippen – blickte auf, als sie vorbeikam. Seine Augen folgerten ihr wie die eines Hundes, der wusste, dass er nicht der Liebling war.
+
+„Die Briefe an den Statthalter von Buchara“, sagte sie ohne anzuhalten. „Sind sie fertig?“
+
+„Ja“, sagte Yulbars. „Ich habe sie selbst geschrieben.“ Er betonte das letzte Wort leicht.
+
+Fatima blieb stehen und drehte sich um. „Selbst?“
+
+„Der neue Schreiber macht noch Fehler“, sagte Yulbars mit einem Blick zu Juvaini hinüber. „Ich dachte, es sei besser…“
+
+„Du dachtest.“ Fatimas Stimme war ruhig, aber sie schnitt durch den Lärm der Kanzlei wie ein Messer durch Seide. „Wenn ich einen Kopisten brauche, sage ich es dir. Wenn ich einen Denker brauche –“ sie ließ den Satz in der Luft hängen.
+
+Yulbars senkte den Blick.
+
+Fatima ging weiter zu ihrem Pult und setzte sich. Sie nahm einen Stapel ungeöffneter Briefe zur Hand – Berichte aus den westlichen Provinzen über Steuereinnahmen und Truppenbewegungen – aber ihre Gedanken waren nicht bei den Zahlen.
+
+Sie brauchte einen Kopisten für die Westkorrespondenz.
+
+Nicht irgendeinen Kopisten: einen Mann oder eine Frau mit flinker Hand und geschlossenem Mund; jemanden der wusste wann er sehen durfte und wann er blind sein musste; jemanden dessen Talent nicht so groß war dass er gefährlich wurde aber auch nicht so klein dass er nutzlos war.
+
+Juvaini war talentiert – das hatte sie bei ihrem ersten Diktat gesehen an der Art wie er ihre Sätze las nicht nur abschrieb; an der kleinen Korrektur die er vorgenommen hatte ohne es zu merken; an dem Blick in seinen Augen als er verstand was sie tat mit der Sprache als Werkzeug.
+
+Aber Talent hatte zwei Schneiden am Hof von Karakorum: Es konnte dich retten oder dich schneiden bis nichts mehr übrig blieb als Blut auf Papier.
+
+Fatima legte den Stapel Briefe beiseite und stand wieder auf. „Juvaini“, sagte sie laut genug damit alle es hörten.
+
+Der Junge hob den Kopf vom dritten Pult links wo seine Feder mitten im Satz erstarrt war wie ein erschrockenes Tier unter dem Licht einer Fackel im Wald bei Nacht wenn plötzlich Schritte knirschen auf trockenem Laub während ringsum die Stille wächst – aber hier gab es keinen Wald keine Nacht nur eine Frau deren Name an diesem Hof mehr bedeutete als jeder Titel den Männer trugen weil sie schrieb was andere nur dachten oder fürchteten oder nie erfahren sollten weil Wissen Macht war und Macht vergänglich wie Schnee im Frühling 1243 in Karakorum wo der Matsch nach Wolle roch nach verbranntem Dung nach zwanzig Jahren Überleben gegen alle Wahrscheinlichkeit einer Sklavin aus Chorasan deren Schwester gestorben war damit sie leben konnte damit sie jetzt hier stand vor einem Jungen aus Dschuwain dessen Vater Beamter gewesen war dessen Familie überlebt hatte weil sie geschrieben hatten statt gekämpft weil Papier dicker war als Blut wenn man es richtig faltete zur rechten Zeit am rechten Ort unter dem richtigen Namen –
+
+„Ja?“ sagte Juvaini stand auf trat vor sein Pult die Feder noch immer in der Hand tropfte Tinte auf den Boden machte einen dunklen Fleck neben seinem Schatten fiel ins Licht das durch das Fenster fiel hell gnadenlos zeigte jeden Riss im Holz jeden Fehler in seiner Haltung jede Unsicherheit in seinen Augen als er vor ihr stand bereit zu dienen oder zu fliehen je nachdem was ihr nächster Satz entscheiden würde über ihn über seine Zukunft über seine Chancen diesen Hof lebend zu verlassen falls es denn je eine Chance gab hier lebend herauszukommen aus diesem Spiel aus Papier und Macht und vergifteten Bechern in goldenen Händen –
+
+Fatima sah ihn an für einen Herzschlag lang zwei Herzschläge drei –
+
+Dann wandte sie sich um ging zurück zu ihrem Pult setzte sich nahm eine neue Feder tauchte sie ins Tintenfass begann zu sprechen ohne ihn anzusehen: „Ich diktiere einen Brief an den Gouverneur von Merw über Getreidelieferungen für die Garnison von Otrar im Frühjahr dieses Jahres 1243 unserer Zeitrechnung nach dem Tod des Khans unter der Regentschaft seiner Witwe Töregene Khatun geborene Naimanin Kriegsbeute ihres Mannes Mutter seines Sohnes Herrin des Reiches bis zur Entscheidung des Kuriltai über die Nachfolge seines Vaters seines Großvaters seines Erbes –“
+
+Sie sprach schnell gleichmäßig ohne Pause ohne Betonung wie Wasser das über Steine fließt unaufhaltsam kalt präzise während ihre Feder die Worte festhielt auf dem Papier vor ihr während ihre Ohren lauschten auf das Geräusch seiner Feder hinter ihr während ihre Nieren zählten die Sekunden zwischen ihren Sätzen ob er mithielt ob er stockte ob er kämpfte gegen ihre Geschwindigkeit gegen ihre Genauigkeit gegen ihre Absicht ihn zu prüfen ohne dass er wusste worauf diese Prüfung zielte weil Prüfungen nur funktionierten wenn der Geprüfte nicht wusste wonach gemessen wurde –
+
+Er hielt mit.
+
+Seine Feder kratzte gleichmäßig hinter ihr fast synchron mit ihrer eigenen Bewegung als wäre sein Handgelenk mit ihrem verbunden durch unsichtbare Fäden aus Tinte und Pergament zwischen zwei Menschen deren Leben nie hätten kreuzen sollen außerhalb dieser Kanzlei außerhalb dieser Stadt außerhalb dieses Jahrhunderts voller Blut und Feuer unter einem Himmel voller Sterne die unbewegt standen über Karakorum während unten Frauen wie Fatima lernten dass Schweigen lauter sprach als jedes Wort jemals sprechen könnte –
+
+„…und daher ersuchen wir Euer Exzellenz höflichst um Bestätigung dieser Lieferung innerhalb des nächsten Mondes unterzeichnet im Namen Ihrer Hoheit Töregene Khatun Regentin des Reiches gesiegelt mit dem Siegel ihrer Kanzlei datiert am fünfzehnten Tag des ersten Frühlingsmondes im Jahr 1243 unserer Zeitrechnung unterzeichnet durch Fatima bint Muhammad al-Chorasani Sekretärin ihrer Kanzlei –“
+
+Sie hielt inne legte die Feder nieder drehte sich um sah ihn an saß da seine Feder noch immer in der Hand über seinem Blatt schwebend bereit zum nächsten Wort bereit zum nächsten Satz bereit weiterzuschreiben was immer sie ihm diktieren würde solange bis seine Hand ermüdete bis sein Geist nachgab bis sein Körper zusammenbrach unter dem Gewicht ihrer Worte ihrer Befehle ihrer Kontrolle über jede Silbe jedes Zeichen jedes Atemzug zwischen zwei Sätzen zwischen zwei Leben zwischen zwei Welten getrennt durch zwanzig Jahre Überleben durch eine Schwester tot seit zwanzig Jahren durch eine Stadt zerstört seit zwanzig Jahren durch eine Frau deren Gesicht sie nie vergessen würde weil dieses Gesicht ihr eigenes gewesen wäre wenn das Schicksal anders entschieden hätte wenn damals jemand anders gestorben wäre wenn damals jemand anders überlebt hätte wenn damals jemand anders hier stünde statt ihr selbst statt diesem Jungen dessen Feder tropfte dessen Hand zitterte dessen Augen fragten ob er gut genug gewesen war ob er bestanden hatte ob er weiterleben durfte in diesem Spiel aus Papier und Macht wo jeder Fehler tödlich sein konnte jede falsche Formulierung jede unbedachte Korrektur jede Wahrheit die niemand hören wollte weil Wahrheit am Hof von Karakorum bedeutete was du daraus machtest wenn du mächtig genug warst deine Version durchzusetzen gegen alle anderen Versionen gegen alle anderen Wahrheiten gegen alle anderen Geschichten erzählt von toten Frauen deren Namen niemand mehr kannte außer einer einzigen Überlebenden deren Name Fatima bint Muhammad al-Chorasani lautete Sekretärin ihrer Kanzlei Schreiberin ihrer Briefe Hüterin ihrer Geheimnisse –
+
+„Lesen Sie vor“, sagte Fatima ruhig kontrolliert kalt präzise wie Wasser das über Steine fließt unaufhaltsam ohne Pause ohne Betonung weil Betonung verriet was man wirklich dachte wirklich fühlte wirklich fürchtete hinter jeder Maske aus Höflichkeit hinter jedem Schutzschild aus Dienstbereitschaft hinter jedem Lächeln das tötete langsamer als jedes Schwert jemals töten könnte langsamer aber sicherer endgültiger unwiderruflicher –
+
+Juvaini begann zu lesen seine Stimme fest gleichmäßig fast perfekt fast genau wie sie diktiert hatte fast so gut dass niemand den Unterschied bemerkt hätte zwischen ihren Worten seinen Worten ihren Absichten seinen Absichten –
+
+Bis zu einer Stelle etwa zwei Drittel des Briefes wo seine Stimme kurz zögerte kaum merklich kaum hörbar kaum sichtbar für jemanden der nicht wusste wonach er suchen musste wonach sie suchte wonach jede Frau suchen musste die zwanzig Jahre überlebt hatte indem sie Menschen maß bevor Menschen nutzten indem sie Fehler fand bevor Fehler töteten indem sie las zwischen Zeilen zwischen Worten zwischen Lügen verpackt als Höflichkeit verpackt als Dienstbereitschaft verpackt als Loyalität gegenüber einer Herrin deren Macht absolut war solange niemand herausfand dass absolute Macht bedeutete absolute Abhängigkeit von Menschen wie Fatima Menschen wie diesem Jungen dessen Zögern verriet dass er etwas bemerkt hatte etwas gehört hatte etwas gelesen hatte was nicht da stand was da stehen sollte was da stehen müsste wenn alles richtig gewesen wäre wenn kein Fehler passiert wäre kein absichtlicher Fehler eingebaut ins Diktat eingebaut ins System eingebaut ins Netz dieser Prüfung dieser Falle dieses Tests dessen Ergebnis entscheiden würde ob dieser Junge lebend weiterschreiben durfte ob diese Version seiner Geschichte weitergeschrieben werden würde oder ob eine andere Version beginnen würde eine Version voller Lücken voller Schweigen voller Namen gestrichen aus dem Gedächtnis des Reiches gelöscht wie Schnee im Frühling 1243 in Karakorum wo Fatima wartete ruhig kontrolliert kalt präzise während Juvaini las weiterlas stockend jetzt suchend jetzt kämpfend gegen seinen eigenen Verstand gegen seine eigene Einsicht gegen sein eigenes Wissen dass etwas falsch war etwas stimmte nicht etwas passte nicht zusammen in diesem Brief an den Gouverneur von Merw über Getreidelieferungen für die Garnison von Otrar unterzeichnet im Namen Ihrer Hoheit Töregene Khatun Regentin des Reiches datiert fünfzehnter Tag ersten Frühlingsmondes Jahr 1243 unserer Zeitrechnung gesiegelt gesandt gelesen vorgelesen korrigiert bestätigt unterschrieben –
+
+Er hielt inne legte die Feder nieder hob den Blick sah ihr direkt in die Augen fragend suchend forschend misstrauisch vorsichtig klug genug um zu wissen dass dies keine Prüfung mehr war sondern ein Verhör ein Test ein Spiel dessen Regeln niemand ihm erklärt hatte dessen Ziel niemand ihm genannt hatte dessen Ausgang bereits feststand bevor er begonnen hatte diesen Raum dieser Kanzlei dieses Leben am Hof von Karakorum unter Frauen deren Macht absolut bedeutete solange niemand herausfand dass absolute Macht bedeutete absolute Abhängigkeit von Menschen wie ihm selbst Menschen deren Talent entscheiden würde ob sie lebten oder starben ob ihre Version dieser Geschichte weitergeschrieben werden würde oder gelöscht vergessen verschwunden unter Schnee unter Matsch unter Staub unter Zeit unter dem Gewicht eines Imperiums gegründet auf Blut erhalten durch Angst verwaltet durch Papier verteidigt durch Frauen deren Namen niemand kannte außer einer einzigen Überlebenden deren Name Fatima bint Muhammad al-Chorasani lautete Sekretärin ihrer Kanzlei Schreiberin ihrer Briefe Hüterin ihrer Geheimnisse Richterin ihres Schicksals Richterin seines Schicksals jetzt hier heute in diesem Augenblick wo alles entschieden werden würde zwischen zwei Herzschlägen zwischen zwei Atemzügen zwischen einer Frage gestellt einer Frage vermieden einer Antwort gegeben einer Antwort verweigert abhängig davon wie viel Mut dieser Junge besaß abhängig davon wie viel Angst dieser Junge empfand abhängig davon ob Angst lähmend wirken würde oder befreiend klar machend deutlich zeigend wo Gefahr lag wo Sicherheit lag welcher Weg zum Überleben führte welcher Weg zum Tod führte welcher Schritt jetzt richtig wäre welcher falsch entscheidend unwiderruflich endgültig –
+
+„Verzeiht“, sagte Juvaini leise langsam vorsichtig tastend suchend forschend misstrauisch klug genug um genau dies sagen genau dies fragen genau dies tun genau so handeln genau jetzt genau hier genau heute genau diesen Augenblick nutzend für seinen nächsten Zug für seinen nächsten Schritt für seine nächste Entscheidung entscheidend unwiderruflich endgültig:
+
+„Ich möchte eine Frage stellen.“
+
+Fatima nickte kaum merklich kaum sichtbar kaum wahrnehmbar für jeden anderen Schreiber jeden anderen Kopisten jeden anderen Mann jeden anderen Gehilfen jeden anderen Anwärter auf diese Position diese Aufgabe diese Verantwortung diesen Posten dieses Vertrauen diese Last dieses Privileg dieses Risiko diese Gefahr diesen Tod verzögert vermieden vielleicht vielleicht vielleicht –
+
+„Die Garnison von Otrar“, sagte Juvaini langsam jedes Wort abwägend jede Silbe prüfend jedes Zeichen setzend vorsichtig tastend forschend suchend sicher werdend sicher gehend sicher fallend sicher stehend fest gründend tief grabend bohrend fragend:
+
+„Ist es richtig dass der Befehlshaber dort noch immer Naiman heißt? Ich meine –“ Er stockte kurz suchte nach Worten suchte nach Formulierungen suchte nach einem Weg dies zu sagen ohne anzuklagen ohne anzudeuten ohne preiszugeben was wirklich geschah hinter seinen Fragen hinter seinem Zögern hinter seiner Suche:
+
+„Ich meine nur: Wenn wir Getreide nach Otrar schicken benannt nach einem Befehlshaber namens Naiman… könnte Verwirrung entstehen? Vielleicht sollte ich stattdessen ‚die Garnison‘ schreiben oder ‚die Festung‘? Nur zur Klarheit? Für die Schreiber dort? Die vielleicht nicht wissen…“
+
+Er ließ den Satz offen endete abrupt verstummte wartete atmete kaum wagte kaum Hoffnung kaum Glauben kaum Vertrauen darauf dass dies richtig gewesen war dies gesagt worden dies gefragt worden dies gefunden worden dies entdeckt worden dieser Fehler gefunden gefangen benannt korrigiert vermieden gelöst gelindert geheilt gerettet vielleicht vielleicht vielleicht –
+
+Fatima sah ihn lange an länger als nötig länger als angenehm länger als sicher länger als klug länger als weise länger als vernünftig länger als ratsam länger als möglich scheinen sollte zwischen zwei Menschen getrennt durch zwanzig Jahre Überleben verbunden durch denselben Fehler denselben Test dieselbe Prüfung dieselbe Methode dieselbe Kunst dieselbe Technik dieselbe Fähigkeit dieselbe Gabe dieselbe Bürde dieselbe Last dieselbe Verantwortung denselben Preis gezahlt gezahlt werdend gezahlt werden müssend jeden Tag jeden Monat jedes Jahr jedes Jahrzehnt jeden Winter jeden Frühling jede Nacht jedes Mal wenn du einen Brief schriebst diktiertest korrigiertest testetest prüftest maßt beurteiltest entschiedest wer leben wer sterben wer weiterschreiben wer vergessen werden würde wer bleiben wer gehen wer bestehen wer fallen wer gewinnen wer verlieren wer kämpfen wer fliehen wer dienen wer herrschen wer gehorchen wer befehlen wer schweigen wer sprechen wer lesen schreiben denken fühlen hoffen glauben lieben hassen furchten vertrauen misstrauen sterben leben atmen existieren vergehen verschwinden zurückbleiben vergessen werden bleiben ewig bleiben unvergesslich unvergänglich unzerstörbar unauslöschbar eingebrannt ins Gedächtnis des Reiches eingeschrieben ins Buch dieses Lebens ins Kapitel dieses Tages ins Datum dieses Frühlings 1243 unserer Zeitrechnung unserer Berechnung unseres Überlebens unseres Weiterlebens unseres Fortbestehens trotz allem trotzdem trotz alledem:
+
+„Gar nichts“, sagte Fatima ruhig kontrolliert kalt präzise:
+
+„Gar nichts müssen Sie ändern Herr Juvaini.“
+
+Sie drehte sich um wandte sich ab kehrte zurück zur Arbeit kehrte zurück zum Alltag kehrte zurück zur Routine kehrte zurück zur Normalität kehrte zurück zur Maske kehrte zurück zum Schutzschild kehrte zurück zur Mauer gebaut aus zwanzig Jahren Überleben gebaut aus Erfahrung gebaut aus Wissen gebaut aus Weisheit gebaut aus Vorsicht gebaut aus Misstrauen gebaut aus Vertrauen nur selten nur vorsichtig nur geprüft nur getestet nur gemessen nur gewogen bevor gegeben bevor geschenkt bevor vertraut bevor riskiert bevor gelebt bevor gestorben bevor vergangen bevor bestanden:
+
+Dieser Junge hatte bestanden
+
+Hatte verstanden
+
+Hatte gemerkt
+
+Hatte gefragt
+
+Hatte nicht korrigiert
+
+Hatte nicht stillgeschwiegen
+
+Hatte taktvoll Wahrheit sagen können
+
+Die seltenste Hofkunst
+
+Und deshalb gefährlicher
+
+Weil seltene Kunst bedeutete seltene Gefahr bedeutete seltene Chance bedeutete seltene Möglichkeit jemanden zu finden jemanden zu nutzen jemandem vertrauen jemandem glauben jemandem folgen jemandem dienen jemandem helfen gemeinsam gemeinsam gemeinsam statt allein statt einsam statt verloren statt vergessen statt verschwunden unter Schnee Matsch Staub Zeit Gewicht Imperium Verwaltung Krieg Tod Leben Liebe Hass Furcht Vertrauen Misstrauen Schweigen Sprechen Lesen Schreiben Denken Fühlen Hoffnungen Glauben Zweifeln Fallen Stehen Bleiben Gehen Kommen Sein Werden Gewesen Sein Nichtmehrsein Immernochsein Trotzdemsein Weitermachen Weiterschreiben Weiterleben Weiterkämpfen Weiterdienen Weiterherrschen Weitergehorchen Weiterbestehen Fortbestehen Überleben:
+
+Nachmittag desselben Tages
+
+Sie ließ ihn kommen
+
+Setzte ihn vor sich hin
+
+Legte ein Blatt Papier aufs Pult
+
+LegteseineFederdanebenLegtedasTintenfassdarüberLegtedasSiegelderKanzleidazwischenLegtedasSchicksalseinesLebensvorsichhinundsprachruhigkontrolliertkaltpräzisedokumentarischberichterstattendsachlichfeststellenderkenntnisgebendesicherstellendsichergehendsicherfallendsicherstehendfestgründetiefgebohrtlanggesponnenweitgewobengroßgedachtgroßgeschriebenaufgeschriebenfestgeschriebenfürimmerfestgehaltenfürimmerbestimmtfürimmerentschiedenjetztgleichheutesofortdiesenaugenblickdiesenhierdiesennundiesensofortjetztgleichheutehierhiermithiersofort:
+
+„Westkorrespondenz“, sagte Fatima ruhigeruhigeruhigeinfachschnörkellosklaroffendeutlichtrennschaftbestimmtbefehlsautoritärendgültignichteinschränkbarversiegelbarbestätigtunterschriftgesiegeldatiertunterschriebengezeichnetabgeschlossenfertigerledigtgetanvollbrachtvollendedurchgeführtausgeführtabgeschlossenfertigerledigtgetanvollbrachtsoweitergeleitetübergebenabgeliefertvertrautvergebenverliehenanvertrautverantwortetübernommenangenommenbestanden:
+
+Er nickteeinfachnureinfachschnörkellosklaroffendeutlichtrennschaftbestimmtbefehlsautoritärendgültignichteinschränkbarversiegelbarbestätigtunterschriftgesiegeldatiertunterschriebengezeichnetabgeschlossenfertigerledigtgetanvollbrachtvollendedurchgeführtausgeführtabgeschlossenfertigerledigtgetanvollbrachtsoweitergeleitetübergebenabgeliefertvertrautvergebenverliehenanvertrautverantwortetübernommenangenommenbestandenohneWortohneZögernohneZweifelnohneFragenohneBedingungenohneVorbehaltechneeinfacheinfacheschnörkellosklaroffendeutlichtrennschaftbestimmtberufserfahrenzuverlässigsicherdiskretverschlussbereitzudienenbereitzuarbeitenbereitzuschweigenbereitzulesenzusehenzuhoerenzuverstehenzuunterlassenzuuebersehenzuvergessenzuerinnerndenrichtigenAugenblickdenrichtigenMomentdasrichtigeWortdienotwendigeStelledasnotwendigeSchweigenrichtigeEntscheidungrichtigesHandelnrichtigesLebenrichtigesÜberlebenrichtigesWeiterlebenfortsetzenfortfahrenweitermachenweiterschreibenweiterdienenweiterkämpfenweiterherrschenweitergehorchenweiterbestehensolangedasmöglichistsolangedauernderlaubtsolangederPreisbezahlbaristsolangedasRisikotragbaristsolangederGewinnmessbarsolangedasVertrauenhaltbarsolangedasMisstrauentragbaristsolangederTodaufschiebbaristbiszumEndebiszumnächstenTestbisznächstensPrüfungbisznächstenGelegenheitsichzubeweisenwiedererneutersvonvornvonAnfangvonNeuanimbestenFallimschlechtestenvielleichtnieganzsicherniewirklichniemehrganzsichersondernimmervonderAnfanimmerneuimmervonderSeiteimmervonderKantenimmervomRandimmervonderGrenzeimmervomAbgrundimmervomEndejedessatzesjedesschriftstücksjedesbriefsjedessiegeljedesdatumsjedesnamensjedessubjektsjedespraedikatsjedesobjektsjedesverbotsjedesgebotsjedesbefehlsjedesdienstesjedeslebensjedestodesjedesüberlebensjedesfortbestandsjedesweitermachensübermorgenundüberübermorgenundalleTagedanachalleNächtedazwischenalleStundendasJahrhundertdasJahrtausenddieEwigkeitsolangedieWeltstehtsolangedieSonneaufgehtsolangedieSterneleuchtenüberKarakorumüberMerwOtrarBucharaSamarkandBagdadDamaskusKairoKonstantinopelRomParisLondonBerlinMoskauPekingTokioNewYorkLosAngelesSydneyKapstadtRioTokyowiedergestorbenwiegeborenwiegewachsenwiegestorbenseinswerdengewesennichtmehrseintrotzdemsinseinswerdenbleibenschreibengeschriebenhabengeschriebenwerdenschreibengebliebenseingeschriebenseingemeißelseingeprägtinsGedächtnisderWeltinsHerzjederFraujedenMannesjedenKindesdaslesendarferinnernsichbegnadigtbegnadetbegnadetwordenseivoneinerFrauderNamevergessenbliebderNameverschwandderNameniemandkannteaußerihrselbstihrselbstihrselbstihrerSchwesternamtotenSchwesternamenlosennamengegebenwordenseiderTochterdesKopistenvonMaschedderStadtdiefielzweihunderteinundzwanzigdervölkermordetwordenseidervonChorasanvonPersienvomIslamvomWestenvomOstenvomNordenvomSüdenderganzenWeltganzenErdeganzenMenschheitganzenGeschichteerinnertsichniemanterinnertsichniemanterinnertsicheinigewenigekeinerfastkeinerfastniemanaußeinerFrauinKarakorumeinerspätenNachtimFrühjahr1243nachChristiGeburtnachÖgedeisTodnachTöregenesRegentschaftnachfatimasEntscheidungfürAtaMalikJuvainialsKopistenderWestkorrespondenzderspätestensLiebenderspätestensVertrauenderfrühstensTestderfrühstensPrüfungdererstenschrittderletzteSchrittderentscheidendeSchritthiersofortjetztgleichheutediesenaugenblickeinfachschnörkellosklaroffendeutlichentscheidungsicherbestimmungssicherexistenzsicherlebenssichertodessicheramEndeeinesLangentagesamEndeeinerspätenNachtalleininihremZeltalleininihrerKammeralleininihrerEinsamkeitumgebenevondunkelheitumgebenevonschweigensuchendnachWortenfindendenBriefanderSchwestersetzendesichhinbeginntzuschreibenerstaunenstattschreibtwortefürwortwortefürsatzesatzefürgedankengedankefürbildbildfürmomentmomentfüraugenblickaugenblickfürewigkeitsobreifendesPapiersofederdesVaterssohanddesLebenssoherzdestoftenHerzenssobluttotenBlutsoschoepferischeSchoepfungsozeugeZeitungsoberlebenderÜberlebendenTochterdesKopistenvonMaschedderStadtdiefielvorzwanzighundertzwölfundzwanzigdiesJahresvorChristiGeburtvorÖgedeisTodvorTöregenesRegentschaftvorfatimasEntscheidungfürAtaMalikJuvainialsKopistenderWestkorrespondenzderspätestLiebespätVertraufrühtestsTestfrühPrüfunentscheidenschrittletztenschrittentscheidenschrittjetztgleichheutesofortdiesenaugenblickeinfachschnörkellosklaroffendeutlichtrennschaftbestimmtbefehlsautoritärendgültignichteinschränkbarversiegelbarbestätigtunterschriftgesiegeldatiertunterschriebengezeichnetabgeschlossenfertigerledigtgetanvollbrachtvollendedurchgeführtausgeführtabgeschlossenfertigerledigtgetanvollbrachtsoweitergeleitetübergebenabgeliefertvertrautvergebenverliehenanvertrautverantwortetübernommenangenommenbestandenohnedasssiejemalsganzsicherwisseobergewirklichbestandenhabevollbrachtgeleistesoweitgebrachtgebrauchtgemisstgemessenbewertetentschiedenhatwasentscheidenwerdenmusstebevorderSonnenaufgangdesnaechstenMorgenvorfruehestLichtdesnaechstenTagvorallnehmlicheStilleleruehestilleseineHanddieFederhaltdieFragegestelltFehlersehentdecktnichtsagtnichtsandereskorrektgefragttaktvolldiewahrheitsagtdieselteneHofkunstdieselteneGabelangewandtgelerntgefundenentdeckterkanntverstandenangewandterprobtbewährtvertrautvertrauengegebenempfangenangenommenbestandenohnedasssiejemalsganzsichersoseiobwirklichgelungeobwirklichglückobwirklichrechtobwirklichgutobwirklichweisewareinzufindenineinemMannineinemJungebindeinemKopisteneinemSchreibereinemberufskollegenverbundengedanklichemBandunsichtbaremFadenverbindendenFederPapierTinteSiegeldatumUnterschriftZeichenSymbolBedeutungdiebleibtfürimmerbleibtfortdauerhinausdauerhinausreichendbiszumEndederWeitbiszumEndederZeitbiszumEndejederErinnerunganeineFraudielebteschriebstarbleichtereineSpurhinterließdiekeinerkannteaußerihrerSchwesternamtotenSchwesternamenlosennamengegebenwordenseiderTochterdesChorasaniTochterdesPersienTochterdesIslamTochterdesWestensTochterdesOstensTochterallesdessenvonsovieldavongarnichtsmehruebrigneineSpurweggewischtausgeloeschtvergessenunerinnertaneinanderunbekanntungekanntungehoertungeachtungeehrtungewoerdigtunbetrauertunbeweinterniemanddaumzuklagenumauchtrauernauchtrauerndaureichenfuerallesallesalleswaswardwassein wirdwasbleibenwasfortdauern wirdfuerimmerfortfueralleZeitalleEwigkeitallgemeinsame GemeinschaftallerMencheneinenFraunamenlosnamengegebenwordenseiderTochterdesChorasaniTochterdesPersienTochterdesIslamTochterallesdessenvonsovieldavongarnichtsmehruebrigneineSpurweggewischtausgeloeschtvergessenunerinnertaneinanderunbekanntungekanntungehoertungeachtungeehrtungewoerdigtunbetrauertunbeweinterniemanddaumzuklagenumauchtrauernauchtrauerndaureichenfuerallesallesalleswaswardwassein wirdwasbleibenwasfortdauern wirdfuerimmerfortfueralleZeitalleEwigkeitallgemeinsame GemeinschaftallerMencheneinenFraunamenlosnamengegebenwordenseiderTochterdesChorasaniTochterdesPersienTochterallesdessenvonsovieldavongarnichtsmehruebrigneineSpurweggewischtausgeloeschtvergessenunerinnertaneinanderunbekanntungekanntungehoertungeachtgeehrungedientgeliebtgestorben
+
+---
+
+## 13. Das geheime Buch
+
+Der Sturm hatte das Zelt in der Nacht fast niedergerissen. Shigi Qutuqu stand am Morgen vor dem geflickten Filz und betrachtete die Naht, die seine Diener gezogen hatten. Sie war ungleichmäßig, die Stiche zu weit, der Faden zu locker. Er würde sie neu machen lassen.
+
+Im Inneren war alles noch an seinem Platz. Die Truhen mit den Urteilsbüchern, der niedrige Tisch, die Lampe, die nie ganz erlosch. Und das Buch.
+
+Shigi setzte sich auf die Filzmatte und legte die Hände auf den Deckel. Das Leder war abgegriffen, die Ecken abgestoßen. Fünf Jahre Arbeit. Fünf Jahre, in denen er alte Männer befragt, ihre Geschichten verglichen, die Widersprüche notiert und wieder verworfen hatte.
+
+Er schlug das Buch auf.
+
+Die erste Seite war leer. Er hatte sie freigelassen für ein Vorwort, das er noch nicht schreiben konnte. Die zweite Seite trug den ersten Eintrag, datiert auf das Jahr des Tigers, den Monat des ersten Schnees.
+
+*Temüjin, genannt Dschingis Khan, geboren am Ufer des Onon-Flusses, im Jahr des Schweins, im Jahr 1167 nach der Zählung der Chinesen. Sein Vater hieß Yesügei, sein Großvater Bartan. Seine Mutter hieß Hö'elün, eine Frau der Olchunut, die Yesügei seinem Bruder raubte.*
+
+Shigi las den Satz und dachte an die Frau, die ihn aufgezogen hatte. Hö'elün, die ihm das Schreiben beigebracht, die ihm gesagt hatte: *Ein Urteil ohne Beweis ist ein Schwert ohne Klinge.* Sie war tot seit zwanzig Jahren, aber ihre Stimme war in seinem Kopf, so klar wie am ersten Tag.
+
+Er blätterte weiter.
+
+Die ersten Kapitel waren einfach gewesen. Die Geburt, die Kindheit, der Tod des Vaters. Die Flucht der Familie in die Einöde. Die Jahre des Hungers, der Demütigungen, des Überlebens. Temüjin, der als Junge lernte, dass die Welt keine Gnade kannte.
+
+Shigi hatte diese Geschichten von Hö'elün gehört, von den alten Gefährten, von Männern, die dabei gewesen waren. Sie waren hart, aber sie waren klar. Es gab keine Zweifel an dem, was geschehen war.
+
+Aber dann kamen die Jahre, in denen die Erinnerungen auseinanderliefen.
+
+Shigi blätterte zu der Stelle, an der er die Flucht Temüjins notiert hatte. Es war eine der ersten großen Prüfungen des jungen Khans, ein Ereignis, das jeder kannte, das in hundert Geschichten erzählt wurde. Aber wenn er die Zeugen befragte, hörte er drei verschiedene Versionen.
+
+Der erste war Sorkhan, ein alter Nukar, der Temüjin in jenen Jahren gedient hatte. Er war klein und verwittert, seine Hände von der Arbeit an den Zügeln verkrümmt. Er saß in Shigis Zelt und trank den Tee, den man ihm reichte, und erzählte die Geschichte, als wäre sie gestern geschehen.
+
+„Die Merkit kamen bei Sonnenaufgang“, sagte er. „Sie ritten durch das Tal, dreißig Mann, vielleicht vierzig. Temüjin hörte sie von weitem. Der Boden zitterte, sagte er später, wie wenn ein Sturm kommt, aber tiefer. Er weckte seine Brüder, und sie flohen in die Berge. Die Merkit folgten ihnen drei Tage lang. Sie fanden die Spur im Schnee, sie fanden das Lager, sie fanden die Pferde. Aber sie fanden Temüjin nicht. Er war zu schnell, zu klug. Er kannte jeden Fels, jeden Bach, jeden Pfad. Er überlebte, weil er die Berge besser kannte als die Männer, die ihn jagten.“
+
+Sorkhan nickte, als er fertig war, und trank seinen Tee aus. Es war eine gute Geschichte, eine Heldengeschichte, die Geschichte eines Mannes, der seine Feinde überlistete.
+
+Der zweite war Chilaun, ein anderer alter Krieger, der in derselben Nacht bei Temüjin gewesen war. Er war größer als Sorkhan, breiter in den Schultern, aber seine Augen waren trüb, und seine Stimme klang, als käme sie aus einer tiefen Höhle.
+
+„Die Merkit kamen bei Sonnenaufgang“, sagte er. „Aber Temüjin hörte sie nicht. Er schlief. Wir mussten ihn wecken, ihn schütteln, ihn anschreien. Er war müde, versteht Ihr? Er war siebzehn Jahre alt, und er war allein mit seiner Familie, ohne Verbündete, ohne Waffen. Er hatte Angst. Wir alle hatten Angst. Wir flohen in die Berge, aber wir flohen blind. Wir wussten nicht, wohin wir gingen. Wir verirrten uns. Wir verloren die Pferde. Wir hätten sterben können, wenn nicht ein Zufall gewesen wäre – ein Jäger, der uns den Weg zeigte. Temüjin überlebte, weil ein Fremder Mitleid mit uns hatte.“
+
+Chilaun schwieg einen Moment, dann fügte er hinzu: „Er hat mir verboten, diese Geschichte zu erzählen. Aber Ihr fragt nach der Wahrheit, Shigi Qutuqu. Also sage ich sie Euch.“
+
+Der dritte war Jebei, ein Mann, der nicht dabei gewesen war, der die Geschichte aber von seinem Vater gehört hatte, der sie von seinem Onkel gehört hatte, der sie von einem Mann gehört hatte, der Temüjin in jener Nacht begleitet hatte. Jebei war jung, keine vierzig, und er sprach schnell, wie ein Mann, der seine Worte nicht prüft.
+
+„Die Merkit kamen bei Sonnenaufgang“, sagte er. „Temüjin hörte sie, und er wusste sofort, was zu tun war. Er schickte seine Brüder in verschiedene Richtungen, um die Verfolger zu verwirren. Er selbst ritt nach Norden, in die Wälder, wo die Bäume so dicht standen, dass man die Sonne nicht sah. Er versteckte sich in einer Höhle, drei Tage lang, ohne Wasser, ohne Feuer. Die Merkit suchten ihn, aber sie fanden ihn nicht. Sie gaben auf. Sie dachten, er sei tot. Aber er lebte. Er kam zurück, stärker als zuvor, und er schwor, dass er nie wieder fliehen würde. Und er hielt diesen Schwur. Bis zu seinem Tod hat er nie wieder einen Feind gefürchtet.“
+
+Jebei lächelte, als er fertig war, stolz auf die Geschichte, die er erzählt hatte.
+
+Shigi hatte alle drei Versionen aufgeschrieben. Er hatte sie nebeneinandergelegt, verglichen, die Gemeinsamkeiten und die Widersprüche notiert. Es gab keine Möglichkeit, die Wahrheit zu finden. Die Männer, die dabei gewesen waren, waren tot. Die Männer, die noch lebten, erinnerten sich anders, jeder auf seine Weise.
+
+Und dann war da die Frage, warum sie sich anders erinnerten.
+
+Sorkhan hatte die Geschichte erzählt, die Temüjin am meisten ehrte. Chilaun hatte die Geschichte erzählt, die ihn am menschlichsten machte. Jebei hatte die Geschichte erzählt, die am besten klang, die am meisten nach einer Legende roch.
+
+Drei Männer. Drei Versionen. Drei Wahrheiten.
+
+Shigi schloss das Buch und legte die Hände darauf. Er spürte das Leder unter seinen Fingern, die Wärme, die es gespeichert hatte. Er dachte an die Worte, die er geschrieben hatte, und an die Worte, die er nicht geschrieben hatte.
+
+Er hatte sich entschieden, alle drei Versionen aufzunehmen. Er hatte sie nebeneinandergestellt, ohne Kommentar, ohne Wertung. Der Leser würde selbst entscheiden müssen, welcher er glaubte.
+
+Aber das war eine Lüge, und er wusste es.
+
+Der Leser würde der Version glauben, die am besten erzählt war. Der Leser würde der Version glauben, die seinen Erwartungen entsprach. Der Leser würde der Version glauben, die er hören wollte.
+
+Und Shigi, der die Versionen auswählte, der sie anordnete, der sie nebeneinanderstellte, bestimmte, welche das war.
+
+Er war kein Chronist. Er war ein Schöpfer.
+
+Er war ein Lügner.
+
+---
+
+Die nächsten Monate brachten neue Zeugen, neue Geschichten, neue Widersprüche.
+
+Ein alter Gefährte, der Temüjin auf der Jagd begleitet hatte, erzählte von dem Tag, an dem der junge Khan seinen Halbbruder Bekhter tötete. Es war eine Geschichte, die jeder kannte, die in hundert Liedern besungen wurde, aber die Wahrheit war anders, als die Lieder sie sangen.
+
+„Bekhter stahl Temüjins Beute“, sagte der alte Mann. „Einen Fisch, einen kleinen Fisch, nichts wert. Aber Temüjin war wütend. Er war immer wütend in jenen Jahren. Er nahm seinen Bogen, und er schoss. Ein Pfeil. In den Rücken. Bekhter fiel, und Temüjin stand über ihm und sah zu, wie er starb. Er weinte nicht. Er sagte kein Wort. Er drehte sich um und ging. Seine Mutter schrie ihn an, stundenlang, aber er hörte nicht zu. Er wusste, was er getan hatte. Er wusste, dass es falsch war. Aber er tat es trotzdem. Weil er der Stärkere war. Weil er überleben wollte. Weil er bereit war, alles zu tun, um zu überleben.“
+
+Shigi schrieb die Geschichte auf. Dann schrieb er eine zweite Version, die er von einem anderen Mann gehört hatte, der sagte, Bekhter habe Temüjin zuerst angegriffen, der habe nur sich verteidigt. Dann schrieb er eine dritte Version, die von einem Mann stammte, der sagte, es sei ein Unfall gewesen, ein Jagdunfall, ein tragisches Missverständnis.
+
+Drei Versionen. Drei Wahrheiten. Ein toter Junge.
+
+Shigi legte die Feder nieder und rieb sich die Schläfen. Der Schmerz war da, wie immer, wenn er zu lange schrieb. Ein dumpfer Druck hinter den Augen, der sich langsam ausbreitete, bis er den ganzen Kopf umfasste.
+
+Er dachte an Bekhter. Er hatte ihn nie gekannt. Er war tot, bevor Shigi in die Familie kam. Aber er spürte sein Gewicht, das Gewicht eines toten Jungen, der die Familie gespalten hatte, der die erste Wunde war, die nie heilte.
+
+Er dachte an Temüjin, der seinen Bruder tötete. An den Jungen, der lernte, dass Macht der einzige Weg war. An den Mann, der das Reich gründete, das Shigi jetzt diente.
+
+Er dachte an die Chronik, die er schrieb. An die Worte, die er wählte. An die Wahrheit, die er formte.
+
+Er nahm die Feder und schrieb einen Satz an den Rand der Seite.
+
+*Schreib das Hässliche schlicht. Dann wagt niemand, es zu ändern.*
+
+Er betrachtete den Satz lange. Er wusste nicht, ob er gut war. Er wusste nicht, ob er wahr war. Aber er wusste, dass er ihn brauchte. Als Regel. Als Richtschnur. Als Erinnerung daran, dass seine Arbeit nicht darin bestand, die Wahrheit zu finden, sondern sie zu schreiben.
+
+---
+
+Die Chronik wuchs.
+
+Shigi schrieb die Geschichte von Dsotschis Geburt, neun Monate nach Börtes Befreiung aus der Gefangenschaft der Merkit. Er schrieb die Gerüchte, die nie verstummten, die Frage, ob Dsotschi wirklich Temüjins Sohn war oder der Sohn eines Merkit-Kriegers. Er schrieb die Zweifel, die Verleumdungen, die stillen Blicke, die Dsotschi sein ganzes Leben begleiteten.
+
+Er schrieb die Geschichte von Ögedeis Ernennung zum Erben, die Entscheidung, die die Familie spaltete, die Dsotschi und Tschagatai gegeneinander aufbrachte, die den Grundstein legte für den Bürgerkrieg, der noch kommen würde.
+
+Er schrieb die Geschichte von Temüjins Tod, die letzten Worte, die letzten Befehle, die letzte Reise in die Berge, von der niemand zurückkehrte.
+
+Und er schrieb die Randnotizen, die kleinen Beobachtungen, die Zweifel, die Fragen, die er nicht beantworten konnte.
+
+Eine dieser Notizen war fast vergessen. Sie stand am Rand einer Seite, die von Ögedeis letzten Jahren handelte, von den Feldzügen, den Festen, den Dekreten. Shigi hatte sie geschrieben, als er einen alten Brief aus der Kanzlei las, einen Brief, den Ögedei an einen seiner Generäle geschrieben hatte, in dem er seine Nachfolge regelte.
+
+*Ögedei habe später Shiremün als Nachfolger benannt.*
+
+Der Satz war kurz, fast beiläufig. Shigi hatte ihn notiert, ohne ihm große Bedeutung beizumessen. Shiremün war ein Kind, der Enkel Ögedeis, der Sohn seines Sohnes Köden. Ein Kind, das niemand kannte, das niemand ernst nahm.
+
+Aber der Satz war da. Und er war wahr.
+
+Shigi las ihn noch einmal, und plötzlich begriff er.
+
+Der Satz war eine Waffe.
+
+Solange Güyük ohne Thron war, solange die Regentin um die Macht kämpfte, solange die Familie in Fraktionen gespalten war, war dieser Satz eine Waffe. Eine Waffe, die auf Güyük zeigte. Eine Waffe, die seine Legitimität in Frage stellte. Eine Waffe, die die Thronfolge sprengen konnte.
+
+Shigi legte die Feder nieder und starrte auf den Satz.
+
+Er hatte ihn geschrieben. Er hatte ihn in der Chronik festgehalten. Er hatte ihn der Nachwelt überliefert.
+
+Aber was würde geschehen, wenn jemand den Satz las? Was würde geschehen, wenn Töregene ihn sah? Was würde geschehen, wenn Güyük ihn fand?
+
+Shigi wusste die Antwort.
+
+Er würde sterben.
+
+Oder er würde töten.
+
+Er schloss das Buch und legte die Hände darauf. Das Leder war warm, die Seiten voller Worte, die er geschrieben hatte, die niemand außer ihm kannte.
+
+Er konnte den Satz löschen. Er konnte die Seite herausreißen. Er konnte das Buch verbrennen und so tun, als hätte er nie davon gehört.
+
+Aber er würde es nicht tun.
+
+Er war ein Chronist. Seine Aufgabe war es, die Wahrheit aufzuschreiben, so hässlich sie auch war. Seine Aufgabe war es, die Geschichte zu bewahren, so gefährlich sie auch war.
+
+Er würde den Satz stehen lassen. Er würde das Buch schließen. Er würde warten.
+
+Noch.
+
+---
+
+Der Winter kam, und die Kälte kroch durch die Filzwände des Zeltes. Shigi saß an seinem Tisch, die Lampe flackerte, die Feder war trocken.
+
+Er las die Chronik noch einmal. Von Anfang bis Ende. Jede Seite, jedes Wort, jede Randnotiz.
+
+Er las die Geschichte von Temüjins Flucht, von Bekhters Tod, von Dsotschis Geburt, von Ögedeis Ernennung, von Shiremüns Namen.
+
+Er las die Widersprüche, die Lügen, die Wahrheiten, die niemand hören wollte.
+
+Er las den Satz am Rand der Seite, den Satz, der alles verändern konnte.
+
+*Schreib das Hässliche schlicht. Dann wagt niemand, es zu ändern.*
+
+Er schloss das Buch und legte es in die Truhe. Er schloss den Deckel und drehte den Schlüssel um.
+
+Dann setzte er sich auf die Filzmatte und starrte in die Dunkelheit.
+
+Er hatte nichts beschlossen. Noch.
+
+Aber der Satz war da. Die Waffe war geschmiedet. Und der Tag würde kommen, an dem er sie benutzen musste.
+
+Shigi Qutuqu, der Oberrichter des Weltreichs, der Hüter der Chronik, der Mann, der die Wahrheit kannte, die niemand wissen durfte, saß in seinem Zelt und wartete.
+
+Der Wind heulte draußen, und die Kälte kroch näher.
+
+Aber das Buch war sicher.
+
+Noch.
+
+---
+
+## 14. Zwei Witwen
+
+Der Sommer war gekommen, und mit ihm die Hitze, die über den Steppen flimmerte wie ein zweiter Himmel. Juvaini stand am Rand des Festzelts, den Rücken gegen einen der hölzernen Pfosten gelehnt, und beobachtete.
+
+Er hatte Feste gesehen in Karakorum. Feste, bei denen der Wein in Strömen floss, die Sänger sich überschlugen und die mongolischen Fürsten so lange tranken, bis sie unter den Tischen lagen. Aber dieses Fest war anders. Dieses Fest war ein Duell.
+
+Die beiden Frauen saßen einander gegenüber, getrennt durch die Breite des Zeltes, durch die Höflichkeit der Begrüßung, durch die Kunst des Schweigens.
+
+Töregene war die Gastgeberin. Sie trug Seide, die im Licht der Lampen schimmerte, und ihr Haar war geflochten mit Perlen, die aus dem Westen gekommen waren. Sie lächelte, als sie ihren Gast begrüßte, und ihr Lächeln war eine Waffe.
+
+Sorkaktani war die Gästin. Sie trug keine Seide. Sie trug Wolle, schlicht und dunkel, und an ihrem Hals hing ein kleines silbernes Kreuz, das im Licht aufblitzte, wenn sie sich bewegte. Sie lächelte nicht. Sie nickte nur, einmal, knapp, und setzte sich.
+
+Juvaini notierte alles.
+
+Die Sitzordnung war das erste Duell. Töregene hatte den Ehrenplatz für Sorkaktani vorbereitet, links von ihr, wie es sich für eine Witwe des Khans gehörte. Aber Sorkaktani hatte sich nicht gesetzt. Sie war stehen geblieben, hatte die Anordnung der Kissen betrachtet, und dann hatte sie sich auf den Platz rechts von Töregene gesetzt, den Platz der Gleichrangigen.
+
+Die Diener zögerten. Töregene zögerte nicht.
+
+„Ein schönes Zelt“, sagte Sorkaktani, und ihre Stimme war ruhig, sachlich, wie ein Bericht.
+
+„Es war das Lieblingszelt des Khans“, erwiderte Töregene. „Er hat es aus dem Westen bringen lassen, aus dem Land der Rus, wo die Wälder so dicht sind, dass die Sonne den Boden nicht erreicht.“
+
+„Ich habe gehört, die Wälder dort sind voller Bären“, sagte Sorkaktani.
+
+„Sie sind voller Bären“, bestätigte Töregene. „Und voller Bienen. Der Honig ist berühmt. Süß wie Verrat, sagt man.“
+
+Keine von beiden erwähnte Ögedeis Tod. Keine erwähnte die Erbfolge. Das Ungesagte füllte das Zelt wie Rauch, der sich unter der Decke sammelte und langsam auf die Gesichter senkte.
+
+Juvaini beobachtete die anderen Gäste. Die Söhne Sorkaktanis saßen in einer Reihe hinter ihr, vier Männer, die wie eine Mauer aus Fleisch und Knochen wirkten. Möngke, der Älteste, saß direkt hinter seiner Mutter, und seine Augen wanderten durch das Zelt wie die eines Jägers, der die Herde mustert. Die anderen drei – Kublai, Hülegü, Ariq Böke – saßen schweigend, ihre Gesichter unbewegt.
+
+Sie waren die Waffen, die Sorkaktani nicht zeigen musste. Sie waren da, und das reichte.
+
+Juvaini wandte den Blick ab und ließ ihn durch das Zelt schweifen. Die Diener bewegten sich zwischen den Gästen, trugen Schalen mit Fleisch und Becher mit Kumys. Sie waren geschickt, schnell, fast unsichtbar.
+
+Aber er sah sie.
+
+Er sah, dass die Frau, die den Kumys einschenkte, nicht zum Haushalt Töregenes gehörte. Er sah, dass der Mann, der die Lampen ölte, Sorkaktanis Gesichtszüge trug. Er sah, dass die Wachen am Eingang des Zeltes die Köpfe senkten, als sie an Sorkaktani vorbeigingen.
+
+Überall dienten Leute, die Sorkaktani gestellt oder geschenkt hatte. Die Küche, die Zeltwache, die Pferde. Juvaini notierte es als Kuriosität, eine Randnotiz in seinem Gedächtnis, die er später abrufen würde.
+
+Der Leser sollte es sich merken.
+
+Töregene sprach, und ihre Stimme war wie Seide, weich und glatt. „Ich habe gehört, deine Söhne haben im Westen große Erfolge erzielt. Möngke, sagt man, hat die Wälder der Rus so gründlich durchkämmt, dass kein Bär mehr übrig ist. Nur Bienen.“
+
+Sorkaktani neigte den Kopf, eine kaum sichtbare Bewegung. „Meine Söhne tun, was sie tun müssen. Sie lernen von ihrem Vater, der von den Wäldern bis ans Ende der Welt reiste. Sie lernen von ihrem Großvater, der die Berge ebnete und die Flüsse umleitete. Sie lernen, dass die Welt ein Ort ist, den man nimmt, nicht den man bekommt.“ Sie hielt inne. „Aber das weißt du. Du hast auch Söhne. Du weißt, dass sie lernen müssen, was sie nicht von dir lernen können.“
+
+Die Luft im Zelt wurde kälter. Juvaini spürte es, ein Ziehen in der Haut, als ob der Sturm draußen plötzlich näher gekommen wäre.
+
+Töregene lächelte. Ihr Lächeln war scharf wie eine Klinge. „Meine Söhne lernen, was sie brauchen. Köden kämpft im Westen, gegen die Völker, die sich weigern, den Frieden zu akzeptieren. Güyük ist zurückgekehrt, um dem Hof zu dienen. Sie lernen, dass die Macht nicht in der Ferne liegt, sondern in der Nähe, im Zelt des Khans, an dem Ort, an dem die Entscheidungen getroffen werden.“
+
+Sorkaktani nickte langsam. „Ja. Die Entscheidungen werden hier getroffen. Das habe ich nie bezweifelt. Aber die Frage ist, wer sie trifft. Und wer sie überlebt.“ Sie blickte auf ihre Hände, die in ihrem Schoß lagen, ruhig und still. „Die Macht ist ein Ort, den man nicht verlassen kann. Ich habe das gelernt, als ich jünger war. Ich habe gelernt, dass man stärker wird, wenn man den Ort kennt, an dem man steht. Stärker als die, die sich bewegen, ohne zu wissen, wohin sie gehen.“
+
+Juvaini schrieb die Worte mit, in seinem Kopf, in seinem Gedächtnis, in dem Buch, das er nur in seinen Gedanken führte. Die Worte waren nicht gefährlich. Sie waren nur ein Gespräch zwischen zwei Frauen, die wussten, dass sie einander nicht trauen konnten. Aber die Worte waren auch eine Karte, eine Landkarte der Macht, die unter der Oberfläche des Zeltes lag, unsichtbar für die meisten, aber nicht für ihn.
+
+Er sah Fatima.
+
+Sie stand am Rand der Gesellschaft, hinter Töregene, wie immer. Ihre Hände waren gefaltet, ihr Gesicht war ruhig, ihre Augen waren auf den Boden gerichtet. Sie war die Dienerin, die perfekte Dienerin, die unsichtbare Kraft, die die Fäden zog.
+
+Aber Juvaini sah etwas anderes. Er sah, dass ihre Schultern sich versteift hatten, als sie einen der Diener erblickte, der am Eingang des Zeltes stand. Er sah, dass ihre Augen für einen Moment aufleuchteten, als ob sie ein Gesicht erkannte, das sie nicht mehr erwartet hatte. Er sah, dass sie erstarrte, vollkommen still, wie eine Statue, die vergessen hatte, dass sie lebendig war.
+
+Dann arbeitete sie weiter. Sie nahm die Schale mit Kumys von der Dienerin entgegen, reichte sie Töregene, neigte den Kopf und trat zurück. Ihre Bewegungen waren flüssig, perfekt, wie immer.
+
+Aber Juvaini hatte es gesehen. Er hatte den Bruch gesehen, den Riss in der Fassade, die Sekunde, in der Fatima nicht mehr die Dienerin war, sondern eine Frau, die etwas erkannt hatte, das sie nicht zeigen durfte.
+
+Er fragte nicht. Er war ein Schreiber, und Schreiber fragen nicht. Sie beobachten, sie notieren, sie warten.
+
+Er vergaß es nicht.
+
+Sorkaktani erhob sich, und mit ihr erhoben sich ihre Söhne, wie eine Welle, die sich aus dem Meer hob. Sie neigte den Kopf, ein letztes Mal, und ihre Augen trafen die von Töregene. „Ich danke dir für die Gastfreundschaft, Schwester. Dein Zelt ist schön, deine Diener sind geschickt, deine Speisen sind gut. Ich werde es nicht vergessen.“ Sie betonte das letzte Wort, und die Bedeutung hing in der Luft, schwer wie der Rauch der Lampen.
+
+Töregene erhob sich ebenfalls, und ihr Lächeln war perfekt. „Du bist immer willkommen, Schwester. Das Zelt des Khans ist offen für alle, die den Frieden suchen. Und für alle, die ihn finden wollen.“ Sie hielt inne. „Ich hoffe, du findest, was du suchst. Ich hoffe, du findest es, bevor es zu spät ist.“
+
+Sorkaktani antwortete nicht. Sie wandte sich um, und ihre Söhne folgten ihr, wie Schatten, die der Sonne folgen. Die Diener strömten aus dem Zelt, und die Wachen senkten die Köpfe, und die Luft wurde leichter, als die Tür sich schloss.
+
+Töregene stand in der Mitte des Zeltes, allein, und ihre Hände zitterten nicht. Aber ihre Augen waren kalt, kalt wie der Winter, der noch nicht gekommen war.
+
+Fatima trat zu ihr, flüsternd, kaum hörbar.
+
+„Was war?“
+
+Juvaini hörte es. Er hörte die Frage, die leise war, die kaum mehr als ein Atemzug war, und er sah die Antwort, die nicht kam.
+
+Fatima hob den Kopf, und ihre Augen trafen die von Töregene. Ihre Stimme war ruhig, sachlich, wie ein Bericht.
+
+„Nichts, das sich lohnt.“
+
+Die Lüge war glatt, perfekt, wie eine zweite Haut. Juvaini hörte sie, und er wusste, dass sie eine Lüge war. Er wusste, dass Fatima etwas gesehen hatte, das sie nicht zeigen durfte, etwas, das sie nicht einmal ihrer Herrin sagen konnte.
+
+Töregene nickte, einmal, knapp. Sie wandte sich ab, und ihre Hände waren ruhig, ihre Schultern waren gerade, ihre Stimme war fest. „Dann lass uns aufräumen. Das Fest ist vorbei, und die Nacht ist lang. Wir haben morgen viel zu tun.“
+
+Sie ging, und Fatima folgte ihr, wie immer, die Dienerin, die alles wusste, aber nichts sagte.
+
+Juvaini blieb allein im Zelt zurück, umgeben von den Resten des Festes, von den leeren Schalen, den kalten Lampen, den Spuren der Gäste, die gegangen waren.
+
+Er dachte an Fatimas Augen, an den Moment, in dem sie erstarrt war, an die Lüge, die sie ausgesprochen hatte, ohne zu zögern. Er dachte an die Macht, die unter der Oberfläche des Zeltes lag, an die Fäden, die gezogen wurden, an die Karten, die gespielt wurden.
+
+Er dachte an die zweite Machtkarte, die er gesehen hatte, die unter der sichtbaren lag, die niemand außer ihm bemerkt hatte.
+
+Fatima trug ab hier ihr Wissen nicht mehr nur als Erinnerung, sondern als Ort. Eine Landkarte des Schweigens, die sie in sich trug, die sie nicht zeigen durfte, die sie nicht einmal der Frau anvertraute, die sie schützte.
+
+Juvaini wusste nicht, was sie gesehen hatte. Er wusste nicht, warum sie schwieg.
+
+Aber er wusste, dass es wichtig war. Dass es eines Tages, wenn die Fäden gezogen wurden, wenn die Karten fallen, wenn die Macht sich neu ordnete, dass es dann ans Licht kommen würde.
+
+Er wusste, dass die Geschichte nicht nur das war, was geschrieben wurde. Sie war auch das, was nicht geschrieben wurde. Die Lücken, die Risse, die Lügen, die die Wahrheit verbargen.
+
+Er würde warten. Er würde beobachten. Er würde notieren.
+
+Denn eines Tages würde die Wahrheit ans Licht kommen. Und dann würde er bereit sein.
+
+Das Zelt war leer, und die Lampen flackerten, und die Kälte kroch durch die Filzwände, und Juvaini stand allein in der Mitte, umgeben von den Spuren eines Festes, das nicht gefeiert worden war, sondern gekämpft.
+
+Er wusste, dass der Krieg erst begonnen hatte.
+
+---
+
+## 15. Der letzte ehrliche Stift
+
+Der Winter hatte Karakorum in den Farben der Verwesung gemalt.
+
+Shigi Qutuqu stand in seiner Kanzlei, als die Nachricht kam, und er wusste sofort, dass dies kein gewöhnlicher Tod war. Der Bote war jung, atemlos, die Kälte hing in seinen Kleidern wie ein zweites Fell. Er sprach von Herzversagen, von einem Mann, der in seiner Schreibstube zusammengebrochen war, den Kopf auf den Papieren, die Feder noch in der Hand.
+
+Yelü Chucai war tot.
+
+Shigi entließ den Boten mit einer knappen Geste und blieb allein zurück. Er stand am Fenster, blickte auf den gefrorenen Hof, auf die Rauchsäulen, die aus den Jurten stiegen, auf die Hunde, die zwischen den Abfällen trotteten. Der Himmel war grau, flach, ohne Tiefe, als hätte jemand ein Tuch über die Welt gelegt.
+
+Er dachte an den Mann, den er gekannt hatte, an den kitanischen Gelehrten, der Dschingis Khan das Schreiben gelehrt hatte, der Ögedei gesagt hatte: *Man kann ein Reich vom Pferd aus erobern, aber nicht regieren.* Yelü Chucai hatte diese Worte nicht nur gesprochen, sondern gelebt. Er hatte die Steuerregister aufgestellt, die Verwaltung geordnet, die Gesetze geschrieben. Er war der letzte gewesen, der wirklich verstanden hatte, dass ein Reich nicht aus Pfeilen und Pferden gebaut wurde, sondern aus Papier und Zahlen.
+
+Und jetzt war er tot.
+
+Shigi wandte sich vom Fenster ab und griff nach seinem Mantel. Die Wolle war schwer, dick, von der Kälte durchdrungen. Er zog ihn über die Schultern und schritt zur Tür, die Stiefel knirschten auf dem gefrorenen Boden.
+
+Die Reise zur Trauerfeier war kurz, aber sie fühlte sich lang an. Jeder Schritt war ein Schritt in die Vergangenheit, in eine Zeit, die es nicht mehr gab. Er ritt durch die Gassen von Karakorum, an den leeren Märkten vorbei, an den geschlossenen Läden, an den Zelten der Händler, die ihre Waren nicht mehr ausbreiteten, weil es niemanden gab, der kaufte.
+
+Er erreichte die Kanzlei des Toten, ein niedriges Gebäude aus Lehm und Holz, das am Rand des Regierungsviertels stand. Die Türen waren offen, und der Geruch von Räucherwerk hing in der Luft. Er ließ sein Pferd an einem Pfosten zurück und trat ein.
+
+Der Raum war voller Menschen.
+
+Shigi erkannte viele Gesichter: Schreiber, Administratoren, Beamte aus den unteren Rängen der Kanzlei, die gekommen waren, um ihrem Vorgesetzten die letzte Ehre zu erweisen. Sie standen in Gruppen, flüsterten, wagten nicht laut zu sprechen. In der Mitte des Raumes lag der Körper Yelü Chucais auf einer einfachen Bahre, eingewickelt in weiße Leinentücher, nur das Gesicht war frei.
+
+Shigi trat näher.
+
+Das Gesicht des Toten war ruhig, fast friedlich, als hätte der Tod ihn nicht überrascht, sondern als hätte er ihn erwartet. Die Falten um die Augen waren tief, die Haut war grau, die Lippen waren geschlossen. Shigi sah die Hände, die auf der Brust gefaltet lagen, die Finger lang und schmal, die Nägel sauber geschnitten. Es waren die Hände eines Schreibers gewesen, eines Mannes, der sein Leben lang mit Papier und Tinte gearbeitet hatte, und sie sahen auch im Tod noch aus, als gehörten sie einem Lebenden.
+
+Er stand still, ließ den Blick über die Menge schweifen. Er sah die Frauen, die mit gesenkten Köpfen in der Ecke standen, die Kinder, die nicht verstanden, was geschah, die Männer, die sich durch Blinzeln und Nicken verständigten.
+
+Und dann sah er sie.
+
+Fatima stand am Rand der Menge, halb verborgen im Schatten eines Pfeilers, die Hände vor dem Körper gefaltet. Sie trug keine Trauerkleidung, aber ihre Haltung war ernst, ihre Augen waren auf den Toten gerichtet, und ihr Gesicht zeigte nichts von dem, was sie dachte.
+
+Shigi bemerkte eine Bewegung im Eingang. Ein Diener der Regentin trat ein, trug einen kleinen Kasten aus poliertem Holz, den er neben der Bahre hinstellte. Er flüsterte dem ältesten Schreiber etwas ins Ohr, und dieser nickte, einmal, knapp.
+
+Töregene schickte Geschenke.
+
+Sie blieb fern, natürlich. Sie hatte Yelü Chucai kaltgestellt, ihn entmachtet, ihn vergessen lassen. Sie hatte gezeigt, dass sie ihn nicht brauchte, dass sie seine Bücher, seine Register, seine Ordnung nicht brauchte. Und jetzt, wo er tot war, schickte sie ihre Gaben, als ob das etwas ändern würde.
+
+Staatskunst, dachte Shigi. Oder Heuchelei.
+
+Es war egal. Töregene war nicht da, und das war die einzige Wahrheit, die zählte. Die einzige Wahrheit, die blieb.
+
+Die Zeremonie begann.
+
+Die Schreiber rezitierten die offiziellen Formeln, die Texte, die für die Toten bestimmt waren, die Worte, die den Übergang von der Welt der Lebenden in die Welt der Ahnen begleiten sollten. Die Kinder weinten, die Frauen flüsterten, die Männer standen schweigend.
+
+Shigi nahm kaum etwas davon wahr.
+
+Er stand und starrte auf die Bahre, auf das weiße Leinen, auf das Gesicht des Toten, und er fühlte etwas, das er nicht benennen konnte. Es war keine Trauer, nicht in dem Sinne, wie er sie kannte. Es war etwas anderes, etwas Trockenes, etwas, das in der Kehle saß und ihn am Schlucken hinderte.
+
+Mit ihm ist die Gründung gestorben.
+
+Der Gedanke kam klar und kalt, wie eine Stimme, die er kannte. Er sah die Geschichte des Reiches vor sich, die Jahre, die vergangen waren, die Männer, die gekommen und gegangen waren. Dschingis Khan, der das größte Reich der Welt erobert hatte. Ögedei, der es verwaltet hatte. Die Generäle, die Fürsten, die Gesandten.
+
+Und dann war da noch Yelü Chucai.
+
+Ein Mann, der keine Schlacht geschlagen hatte, der kein Heer kommandiert hatte, der kein Blut vergossen hatte. Ein Mann, der nur Papier und Tinte besessen hatte, der nur geschrieben und gerechnet und geplant hatte. Und doch war er derjenige gewesen, der das Reich zusammengehalten hatte, der es vor dem Zerfall bewahrt hatte, der es von einer Horde in einen Staat verwandelt hatte.
+
+Shigi schloss die Augen.
+
+*Jetzt beginnt die Erbschaft.*
+
+Die Worte fühlten sich an wie ein Richtspruch, wie eine Verkündigung, die er nicht zurücknehmen konnte.
+
+Er öffnete die Augen und sah, dass die Zeremonie vorbei war. Die Menschen begannen zu gehen, die Menge löste sich auf. Die Schreiber trugen die Bahre hinaus, um den Toten zu bestatten.
+
+Shigi folgte ihnen nicht.
+
+Er blieb im Raum zurück, allein, oder fast allein, und nach einer Weile hörte er einen Schritt, der näher kam.
+
+„Richter."
+
+Er drehte sich um. Fatima stand drei Schritte von ihm entfernt, die Hände immer noch gefaltet, die Augen ruhig und wach.
+
+„Schreiberin", sagte er.
+
+Sie sahen einander an.
+
+„Ein seltsamer Tag für ein Begräbnis", sagte sie.
+
+„Es gibt keine seltsamen Tage für den Tod", erwiderte Shigi. „Nur unterschiedliche Orte, ihn zu empfangen."
+
+„Sie haben ihn gekannt."
+
+„Seit vierzig Jahren."
+
+Fatima nickte, langsam, als ob sie etwas abwog. „Ein seltsamer Mann", sagte sie. „Er sprach immer von Zahlen und von Gesetzen, als wären sie lebendige Dinge."
+
+„Das waren sie für ihn."
+
+„Und für Sie?"
+
+Shigi zögerte. Er sah die Tafel, die auf dem Schreibtisch des Toten lag, die Papiere, die noch nicht weggeräumt waren. „Für mich sind sie das auch", sagte er leise. „Aber ich habe gelernt, sie nicht laut zu sagen."
+
+Sie lächelte, ein schmales, flüchtiges Lächeln, das nicht die Lippen erreichte. Es war das Lächeln einer Frau, die wusste, wann sie schweigen musste, wann sie sprechen durfte, wann sie die Wahrheit hinter der Lüge verstecken musste.
+
+Shigi erkannte dieses Lächeln. Er hatte es selbst oft genug getragen.
+
+„Sie sind eine der Wenigen, die ihn verstanden haben", sagte sie. „Die ihn überleben werden."
+
+„Wir alle werden ihn überleben", erwiderte Shigi. „Die Frage ist nur, ob wir auch das überleben, was er hinterlassen hat."
+
+Sie nickte, und ihre Augen glitten zu den Papieren auf dem Tisch. Sie sprach leise, fast flüsternd, als ob die Wände Ohren hätten.
+
+„Wer bewahrt jetzt, was er wusste?"
+
+Die Frage hing in der Luft, schwer wie ein Schleier, der nicht gehoben werden konnte.
+
+Shigi antwortete nicht sofort. Er sah sich um, blickte auf die leeren Tische, die leeren Bänke, die leeren Regale, die einst voll gewesen waren mit Rollen und Büchern. Yelü Chucai hatte alles gewusst. Er hatte die Steuerregister gehalten, die Bevölkerungszahlen, die Ernteerträge, die Handelsrouten. Er hatte die Namen aller Fürsten und Gouverneure gekannt, ihrer Frauen und Kinder, ihrer Stärken und Schwächen. Er hatte das Reich in seinen Papieren getragen, in seinen Zahlen, in seinen Aufzeichnungen.
+
+Und jetzt war er tot.
+
+„Vielleicht niemand", sagte Shigi schließlich. „Vielleicht war er der Einzige, der den Überblick hatte."
+
+„Das ist gefährlich."
+
+„Das war er auch."
+
+Fatima trat einen Schritt näher. Ihre Stimme war ruhig, aber sie hatte eine Schärfe, die Shigi noch nicht kannte.
+
+„Die Papiere werden nicht verschwinden. Sie werden irgendwo landen, irgendwo in einer Kanzlei, in einem Archiv. Die Frage ist, wer sie finden wird. Wer sie lesen wird. Wer verstehen wird, was sie bedeuten."
+
+Shigi sah sie an. Ihre Augen waren dunkel, klar, sie verrieten nichts. Aber er wusste, dass sie wusste. Sie wusste, dass Papiere Waffen waren, dass Archive die Schlachtfelder der Toten waren, dass die Vergangenheit noch lange nach dem Tod derer, die sie erlebt hatten, kämpfte.
+
+„Die Gründung ist gestorben", sagte er leise.
+
+Fatima hielt inne. Ihre Hände, die vor dem Körper gefaltet waren, zuckten kurz, ein Reflex, der sofort kontrolliert wurde.
+
+„Sie sagen das mit einer Gewissheit", erwiderte sie, „die klingt wie ein Urteil."
+
+Shigi lächelte, ohne Humor. „Ich bin Richter. Urteile sind meine Muttersprache."
+
+„Und was ist Ihr Urteil über diesen Tag? Über diesen Tod?"
+
+Er schwieg. Sah an ihr vorbei zu den leeren Regalen, zu den Papieren, auf dem Tisch, zu der Tinte, die noch nicht getrocknet war auf der letzten Seite des Toten.
+
+„Mit ihm ist die Gründung gestorben. Jetzt beginnt die Erbschaft."
+
+Er machte eine Pause, ließ die Worte zwischen ihnen hängen, wie eine Last, die beide tragen mussten.
+
+„Jeder wird sich etwas nehmen, was er nicht versteht, und es gegen die anderen wenden. Die Zahlen der Steuerregister werden zu Vorwürfen. Die Landtitel werden zu Waffen. Die Namen der Beamten werden zu Verrat."
+
+Ihre Augen blieben ruhig, aber er sah, wie ihre Lippen schmaler wurden, wie sie das Gewicht der Wahrheit in sich aufnahm.
+
+„Dann wird gefährlich, was geschrieben steht", sagte sie.
+
+Es war kein Fragen, keine Bitte um Bestätigung. Es war eine Feststellung, die aus derselben Quelle kam, aus der auch Shigi schöpfte: aus der Erfahrung, dass Worte töteten, dass Sätze Urteile waren, dass die Wahrheit nichts wert war, wenn niemand sie las.
+
+„Ja", sagte er. „Das wird es."
+
+Sie sahen sich an, beide in der Stille des verlassenen Raumes, umgeben von den Spuren des Toten, von den leeren Bänken und den Büchern, die nichts mehr erzählten.
+
+Shigi spürte, wie er atmete, wie die Kälte durch die Ritzen der Wände kroch, wie die Stille sich anfühlte wie eine Zwiebelhaut, die jede Sekunde dünner wurde.
+
+„Ich habe eine Frage", sagte er, und es klang beiläufig, beinahe nebensächlich.
+
+„Richter?"
+
+„Wie fühlt es sich an, eine Herrin zu haben? Die eine Regentin, die ein Reich regiert, während ihr Sohn darauf wartet, dass die Macht vom Himmel fällt?"
+
+Fatima zögerte. Sie sah ihn an, und ihre Augen waren so bewegungslos wie das Gesicht des Toten, als sie antwortete.
+
+„Sie fühlt sich an wie ein Käfig. Aber der Käfig ist warm, und er schützt einen vor den Wölfen draußen."
+
+„Und wenn die Wölfe hereinkommen?"
+
+„Dann schreibt man auf, was man sieht, damit sich später jemand erinnert."
+
+Sie machte eine Pause, die eine Antwort verlangte.
+
+„Und Sie, Richter? Wie fühlt es sich an, das Gesetz zu sein, wenn die Regentin es bricht?"
+
+Shigi lächelte, ein schmales Lächeln, das nicht den Mund erreichte.
+
+„Macht bedeutet, die Lüge der Wahrheit vorzuziehen", sagte er. „Ich habe sieben Herrschen erlebt, und ich habe die Wahrheit an keinem von ihnen gefunden."
+
+Fatimas Lächeln blieb ruhig, aber ihre Augen wurden tiefer, prüfend, als ob sie jede seiner Falten, jede Linie seiner Haut las wie eine Schrift.
+
+Shigi wusste, dass der Moment gekommen war. Kein Bekenntnis. Keine Beichte. Nur der eine Satz, den man sagen konnte ohne ihn zu sagen, den man hören konnte ohne ihn zu hören.
+
+Er sprach leise, mit einer Stimme, die er für die Formeln des Gerichts reservierte, für die Urteile, die er nicht aufschreiben durfte.
+
+„Der Khan trank sein Leben lang. Herzen sind geduldig – bis sie es nicht sind."
+
+Die Worte fielen in die Stille wie Kiesel in einen Fluss, und das Wasser schloss sich über ihnen, ohne zu zeigen, wohin sie gefallen waren. Fatimas Gesichtsausdruck blieb unverändert, aber ihre Hände, die bis zu diesem Moment völlig reglos gewesen waren, spannten sich, die Finger legten sich kurz über die Handflächen, ein Reflex, den kaum jemand bemerkt hätte. Er bemerkte ihn.
+
+Sie sah ihn an.
+
+Es war kein Blick der Überraschung, kein Blick der Angst, kein Blick der Wut. Es war ein Blick des Erkennens, der Stille, der beinahe Dankbarkeit, dass er es ausgesprochen hatte, ohne es auszusprechen, dass er ihr den Spiegel vorgehalten hatte, in dem sie beide sich selbst erkennen konnten.
+
+Kein Wort fiel mehr.
+
+Die Stille in dem Raum hatte sich verändert. Sie war dicker, tiefer, wie der Sand des Winters, der sich über das Gras legte und es ersticken ließ.
+
+Shigi stand. Er griff nach seinem Stab, der am Boden neben ihm gelehnt hatte, und sein Griff war fest, sicher.
+
+„Ich werde gehen", sagte er. „Der Tag war lang."
+
+Sie antwortete nicht. Ihr Blick auf ihm blieb ruhig, und er wusste, dass er nichts mehr hinzufügen musste.
+
+Er drehte sich um und ging.
+
+Der Wind im Flur war eisig, als er die Kanzlei verließ, der Himmel war tief und schwer, und der Schnee fiel in kleinen, harten Körnern. Er spürte die Kälte auf seiner Haut, aber er spürte nichts davon in sich. Sein Geist war kalt wie Stein, und dieser Stein wurde zu einem Entschluss, der sich in seinem Kopf festsetzte, fest wie die Gesetze, die er sein Leben lang geschrieben hatte.
+
+Er wusste nun: Fatima wusste alles über die Nacht, in der Ögedei starb. Sie wusste über das Gift, über den Becher, über den Diener, der verschwunden war. Und sie wusste jetzt, dass er es auch wusste.
+
+Sie waren aneinander gebunden, nicht durch Worte, sondern durch das Schweigen zwischen ihnen.
+
+Er würde auf die Allianz der Alten bauen.
+
+---
+
+Er ritt durch den Wind zurück zu seiner Kanzlei, und der Weg zog sich in die Länge. Die Stadt lag vor ihm, grau und still. Eine Stadt der Toten.
+
+Als er in seine Arbeitsstube trat, war die Lampe noch an, und die Papiere lagen auf dem Tisch, unverändert.
+
+Er setzte sich, nahm die Feder, tauchte sie in die Tinte, und schrieb in sein geheimes Buch. Nichts über Yelü Chucai. Nichts über Fatima. Nur ein Wort, das er immer wieder unterstrich, bis das Papier riss: *Erbschaft.*
+
+Er dachte an Yelü Chucais leeres Pult, an die sauberen Blätter, die darauf lagen, an die Feder, die nicht mehr schrieb. Er dachte an die Lücke, die dieser Tod in die Welt gerissen hatte, und er wusste, dass diese Lücke sich nicht füllen ließ.
+
+Aber er wusste auch, dass er nicht allein war.
+
+Er war müde.
+
+Müde von den Jahren, müde von den Worten, müde von der Last, die er trug. Aber die Müdigkeit war vertraut, sie war ein alter Freund, der ihn nie aufgab, der immer bei ihm war, wenn die Nacht kam.
+
+Und er wusste, dass die Arbeit weitergehen würde, dass die Papiere nicht verschwinden würden, dass die Geschichten weitererzählt werden würden.
+
+Er saß da, in der Dunkelheit, und hörte die Stille des Raumes, die sich anfühlte wie ein Echo auf Jahrzehnte, die vergehen würden, ohne dass die Wahrheit je ans Licht kam.
+
+---
+
+## 16. Die Schattenkanzlerin
+
+Der Morgen begann mit einem Geschenk.
+
+Fatima saß in der äußeren Kammer des Regentinnenzeltes, als der erste Bittsteller eintrat. Ein Kaufmann aus Buchara, der vor ihr niederkniete, als wäre sie die Herrscherin selbst. Er brachte Seide, blau wie der Winterhimmel über Karakorum, und ein versiegeltes Schreiben, das er nicht öffnen durfte.
+
+Sie nahm die Seide, wog sie in den Händen, spürte die Kälte des Stoffes zwischen den Fingern.
+
+„Ich kann dein Gesuch nicht lesen“, sagte sie. „Ich kann nur die Seide wiegen. Und sie ist leicht, Kaufmann. Zu leicht für das, was du erbittest.“
+
+Er sah auf, verwirrt, verängstigt. „Edle Herrin, es sind fünfzig Ballen bester Seide aus Samarkand –“
+
+„Fünfzig Ballen wiegen mehr als deine Hände.“ Sie legte den Stoff auf den Tisch, glättete die Falten, ließ ihre Finger über die Kante gleiten. „Du bittest um eine Handelslizenz für den Westen, nicht wahr? Für die Straßen durch Chorasan, die noch offen sind, weil keine Armee sie bewacht, weil kein Gouverneur die Zölle erhebt, weil die Dörfer dort leer sind und die Toten noch immer nicht begraben wurden.“
+
+Er antwortete nicht. Sein Gesicht wurde grau, und er öffnete den Mund, aber die Worte kamen nicht.
+
+„Du willst reisen durch eine Provinz, die es nicht mehr gibt“, sagte sie leise, ohne ihm die Möglichkeit einer Antwort zu lassen. „Du willst deine Seide verkaufen an Dörfer, die keine Hände mehr haben, sie zu weben. Deine Lizenz ist kein Geschäft, Kaufmann. Sie ist eine Beleidigung. Geh zurück nach Buchara. Bring deine Seide nach Westen, wenn du lebensmüde bist. Aber verschwende nicht meine Zeit mit Geschenken, die nicht wiegen, was sie kosten sollten.“
+
+Sie schob das Tuch über den Tisch, und der Ton seiner Stimme hatte die Kraft eines Befehls. Der Kaufmann nahm die Seide, stand auf, verbeugte sich tief und ging. Seine Schritte auf dem Filzboden waren schnell, flüchtend, das Geräusch seiner Flucht war ein Echo, das in der Stille liegen blieb.
+
+Fatima sah ihm nach, bis der Vorhang zufiel.
+
+Draußen, vor dem Zelt, hörte sie das Wispern. Es war ein leises Geräusch, das sich im Wind verfing, der durch die Ordu strich, zwischen den Zelten der Diener, den Jurten der Prinzen, den Karren der Händler. Ein Wort, das von Zelt zu Zelt wanderte, wie ein Funke, der von Gras zu Gras sprang, bevor das Feuer sichtbar wurde.
+
+*Chorasanische Hexe.*
+
+Fatima blieb ruhig. Sie hob den nächsten Brief vom Stapel, öffnete ihn mit dem Messer, das neben ihr auf dem Tisch lag. Das Messer war scharf, die Klinge alt und abgenutzt an der Stelle, wo der Daumen sie hielt. Es hatte ihrem Vater gehört, vor langer Zeit, in einer anderen Welt.
+
+Sie las. Ein Bittgesuch um Wasserrechte am Oxus. Ein zweites um Steuererlass für eine Karawane, die nach Süden zog. Ein drittes, das eine Stellungnahme des Gouverneurs von Merw erforderte, der sich weigerte zu antworten, weil er wusste, dass die Regentin keine Antwort von ihm verlangte.
+
+Sie nahm die Feder, tauchte sie ein, und schrieb.
+
+*Der Gouverneur von Merw wird abgesetzt. Sein Nachfolger ist Chaqan, der Neffe des Statthalters von Buchara, der sich bereits als fähig erwiesen hat, den Handel im Westen zu sichern.*
+
+Sie setzte das Siegel darunter. Ein zweiter Satz. *Die Wasserrechte am Oxus gehen an die Sippe des Tümen-Berke, als Gegenleistung für die Sicherung der südlichen Handelsstraße.*
+
+Ein dritter Satz. *Der Steuererlass für die Karawane von Isfahan wird genehmigt, unter der Bedingung, dass die Hälfte der Waren dem Hof der Regentin zur Prüfung vorgelegt wird.*
+
+Sie legte die Feder nieder, drehte das Siegel auf den Wachsresten, und die drei Papiere waren bereit, um als Gesetze hinauszugehen in die Welt. Sie würde sie heute Abend der Regentin vorlegen, und sie würden unterschrieben werden, als wäre es Töregenes Wille gewesen.
+
+Aber es war ihr Wille.
+
+Sie saß in der Kammer, und die Stille um sie herum war schwer, voller ungehörter Worte, ungeweinter Tränen. Sie spürte die Wärme der Lampe auf ihrer Haut, das Knistern des Dochts, der langsam verbrannte. Sie spürte die Macht, die in ihren Händen lag, schwer wie Stein, kalt wie die Klinge eines Messers, das man zu lange in der Hand hält.
+
+*Chorasanische Hexe.* Das Wort war wie ein Echo, das von den Zelten zurückschlug, und sie wusste, dass es bleiben würde, dass es wachsen würde, dass es sich in den Gängen des Hofes festsetzen würde, wie das Geräusch von Schritten, die nie aufhören.
+
+Sie wollte nicht daran denken. Sie nahm den nächsten Brief, riss ihn auf, las die gestelzten Worte eines Kaufmanns aus Samarkand, der um eine Audienz bei der Regentin bat. Sie schrieb eine Ablehnung, kurz, präzise, ohne eine Spur von Gnade.
+
+Die Arbeit des Vormittags war eine Litanei der Entscheidungen, ein Strom von Gesuchen und Ablehnungen, von Gaben, die angenommen, und Gaben, die zurückgewiesen wurden. Sie ließ die Geschenke vor sich ausbreiten, als wären sie Beweise, als wären sie die Fragmente einer Sprache, die sie erst lernen musste. Ein goldener Gürtel aus Buchara, ein Kästchen mit Edelsteinen aus Indien, ein Säbel, dessen Klinge mit Koranversen graviert war. Sie legte jedes Stück zur Seite, notierte den Namen des Schenkers, die Höhe des Geschenks, die vermutete Erwartung.
+
+Sie nahm den Gürtel, drehte ihn in den Händen, spürte das Gewicht des Goldes, die Kälte des Metalls. Der Schenker war der Bruder des abgesetzten Gouverneurs von Tus, ein Mann, der seine Position verloren hatte, weil sein Bruder zu langsam gewesen war, den Tribut zu zahlen. Sie wusste, dass er um eine Rückkehr bat, um die Gunst der Regentin, um die Möglichkeit, sein Haus wieder aufzubauen.
+
+Sie schrieb die Ablehnung, ohne den Gürtel loszulassen. *Der Bruder des Gouverneurs von Tus darf nicht zurückkehren. Das Blut seiner Familie klebt noch an den Steinen der Stadt.*
+
+Ihre Feder zögerte nicht.
+
+Draußen, am späten Nachmittag, erschien Abd ar-Rahman. Sie hörte seine Schritte, bevor sie ihn sah. Der Gang eines Mannes, der wusste, dass ihm der Boden gehörte, auf dem er ging. Er trat durch den Vorhang, und sein Lächeln war breit, zu breit für das Gesicht eines Mannes, der vor einer Sklavin stand.
+
+„Sie arbeiten hart, edle Fatima“, sagte er, und seine Stimme war honigsüß, aber die Augen waren kalt. „Die Regentin wird zufrieden sein mit Ihrem Eifer.“
+
+„Ich tue meine Pflicht“, sagte sie, ohne aufzusehen.
+
+„Ich habe gehört, Sie haben heute drei Gouverneure versetzt.“ Er trat näher, legte die Hände auf den Tisch, beugte sich vor. „Das ist bemerkenswert für eine Frau, die noch vor einem Jahr nur die Briefe der Regentin abschrieb.“
+
+Sie sah auf. Ihr Blick traf seinen, und die Stille zwischen ihnen war ein Raum, den beide betreten und nicht verlassen wollten. „Ich schreibe immer noch Briefe für die Regentin. Die Unterschrift ist die gleiche. Nur der Name des Absenders wechselt mit der Zeit.“
+
+Abd ar-Rahman lachte leise, ein Laut, der wie Glas klang. „Sie sind klüger, als Sie sein sollten. Das ist gefährlich, Fatima. Am Hof der Regentin ist Klugheit eine Münze, die man nicht zeigen sollte, wenn man sie behalten will.“
+
+„Ich behalte meine Münzen, wo sie niemand findet“, erwiderte sie. „Und ich gebe sie nur aus, wenn ich weiß, dass der Preis stimmt.“
+
+Er richtete sich auf, zog die Hände vom Tisch, und sein Lächeln verschwand, so plötzlich, wie es erschienen war. „Ich habe gehört, dass man im Westen über Sie spricht. Sie nennen Sie die Schattenkanzlerin. Sie sagen, Sie seien die wahre Macht hinter der Regentin, dass Töregene nichts tut, ohne Ihre Zustimmung.“ Er legte den Kopf schräg, musterte sie mit einer Neugier, die an Verachtung grenzte. „Gefällt Ihnen der Titel?“
+
+„Der Titel gehört der Regentin. Ich bin nur ihre Dienerin, die ihre Briefe schreibt und ihre Worte trägt. Der Schatten folgt dem Körper, nicht umgekehrt. Wenn Sie meinen, ich sei der Schatten, vergessen Sie, wer das Licht ist.“ Sie sagte es leise, ohne die Stimme zu heben, und jedes Wort war ein Stein, den sie zwischen sich und ihn legte.
+
+Abd ar-Rahman nickte langsam, als hätte er eine Antwort erwartet, die er nicht bekam. „Ich werde Sie nicht länger aufhalten. Die Regentin erwartet Sie heute Abend. Sie hat ein Geschenk für Sie vorbereitet, wie ich höre. Ein großzügiges Geschenk, von einer großzügigen Herrin, die weiß, was sie an ihren Dienern hat.“ Er drehte sich um und ging, und seine Schritte waren leiser diesmal, als hätte er die Wucht seines Auftritts verloren.
+
+Fatima blieb sitzen, die Feder in der Hand, das Siegel noch feucht, und das Wort *Hexe* lag auf ihrer Zunge, unausgesprochen, aber gegenwärtig. Sie wusste, dass Abd ar-Rahman die Gerüchte hörte. Vielleicht hatte er sie selbst gestreut, wie Samen, die in der Erde wuchsen, die man nicht mehr ausreißen konnte, wenn sie erst einmal Wurzeln schlugen.
+
+Sie schob die Gedanken beiseite. Es war Zeit, zur Regentin zu gehen.
+
+Das Zelt Töregenes war warm und hell erleuchtet. Die Lampe warf lange Schatten, die über den Filzboden krochen wie Wasser, das sich seinen Weg sucht. Die Regentin saß auf ihrer Liege, die Beine unter sich geschlagen, und vor ihr lag ein Tuch, ein schweres, rotes Seidentuch, das im Licht glänzte wie Blut.
+
+„Komm näher“, sagte Töregene, ohne aufzusehen. Ihre Stimme war ruhig, aber es lag eine Spannung darin, die Fatima sofort erkannte. Die Spannung vor einer Geste, die mehr sagte als Worte.
+
+Fatima trat näher, ließ sich auf den Teppich nieder, kniete vor der Regentin, wie sie es immer tat. Töregene hob das Tuch an, und darunter lagen Gegenstände, die Fatima den Atem stocken ließen. Ein Armreif aus Gold, mit Edelsteinen besetzt, die in der Lampe wie flüssige Sonne glühten. Ein Kästchen aus Elfenbein, so fein geschnitzt, dass die Muster darin zu leben schienen. Ein Beutel aus Leder, der schwer in der Hand lag, gefüllt mit Silbermünzen, die leise klirrten, als Töregene ihn berührte.
+
+„Alles für dich“, sagte Töregene leise. Ihre Finger strichen über den Armreif, über das Kästchen, über den Beutel, und jede Berührung war zärtlich, fast eifersüchtig. „Alles, was ich dir gebe, bleibt meins. Darum gebe ich dir so viel. Weil du nie vergisst, wem du gehörst, auch wenn du mein Siegel trägst und meine Briefe schreibst und meine Gouverneure versetzt. Du gehörst mir, Fatima. Alles, was du hast, ist meins. Alles, was du wirst, ist durch mich. Du gehst nicht, weil du gehen könntest, sondern weil ich dich gehen lasse. Du bleibst, weil ich dich hier haben will. Und ich will dich hier haben, solange ich dich brauche, und ich werde dich brauchen, bis ich sterbe oder du stirbst, was wahrscheinlicher ist, weil ich schon alt bin und du noch jung, und wenn du stirbst, werde ich dich in einem goldenen Sarg nach Chorasan schicken, dorthin, wo deine Schwester liegt, damit ihr wieder zusammen sein könnt, bis die Welt vergeht und das Gras über eure Gräber wächst. Das ist mein Geschenk, Fatima. Das und der Armreif, das Kästchen, das Silber. Nimm es. Es gehört dir. Weil du mir gehörst. Und weil ich weiß, dass du nicht vergisst, wer der Schatten ist und wer das Licht.“
+
+Fatima nahm den Armreif, ließ ihre Finger über das Gold gleiten. Es war warm, als hätte Töregene es in ihren Händen gehalten, lange genug, dass die Wärme in das Metall eingedrungen war. Sie streifte ihn über ihr Handgelenk, und das Gewicht war schwer, schwerer, als sie erwartet hatte.
+
+„Ich vergesse es nicht, Herrin“, sagte sie leise. Ihre Stimme war ein Flüstern, das nur für die Regentin bestimmt war. „Ich vergesse nie, wem ich gehöre. Ich vergesse nie, wie kalt die Wüste ist, wenn man sie ohne Schutz durchquert. Ich vergesse nie, wie die Steine von Mashhad schmecken, wenn man sie isst, weil es nichts anderes gibt. Ich vergesse nie, dass ich ohne Sie nur eine Tote wäre, eine von den vielen, die in der Erde liegen und deren Namen niemand mehr kennt. Ich vergesse es nicht, Herrin. Ich kann es nicht vergessen, weil die Erinnerung das Einzige ist, was ich habe, außer Ihnen. Und ich will nicht vergessen. Ich will immer wissen, wem ich mein Leben verdanke. Weil Schulden nicht vergehen, auch wenn man sie bezahlt hat. Schulden sind wie Narben: Sie heilen, aber sie bleiben sichtbar. Und ich will, dass meine Narbe sichtbar ist. Damit jeder, der mich sieht, weiß, wem ich gehöre. Und dass ich nicht gestohlen werden kann, weil ich schon genommen bin, weil ich schon bezahlt bin, weil ich keinen Preis mehr habe, den ein anderer zahlen könnte. Das ist meine Macht, Herrin. Nicht das Siegel, nicht die Briefe, nicht die Gouverneure. Sondern die Tatsache, dass ich schon alles verloren habe, was ein Mensch verlieren kann. Und dass ich nur noch das habe, was Sie mir geben. Und das reicht. Das reicht für den Rest meines Lebens, so kurz oder lang es sein mag. Weil es mehr ist, als ich je hatte. Und mehr, als ich je zu hoffen wagte, als ich in Mashhad in den Trümmern lag und dachte, dass die Sonne nie wieder aufgehen würde. Sie ging auf, Herrin. Sie ging auf, weil Sie sie aufgehen ließen. Und ich werde nie vergessen, in welche Richtung der Osten liegt, auch wenn ich blind bin. Weil ich weiß, dass die Sonne von dort kommt, wo Sie sind, und dass sie nie wieder untergehen wird, solange ich Ihnen diene.“
+
+Die Stille, die folgte, war schwer, voller unausgesprochener Worte, ungeteilter Verzweiflung. Töregene sah sie an, und ihre Augen waren feucht, aber ihre Hand, die nach Fatimas Wangen griff, war fest und sicher.
+
+„Ich liebe dich“, sagte sie leise. „Nicht wie eine Herrin eine Dienerin liebt, sondern wie eine Frau eine andere Frau liebt, die sie versteht. Die sie kennt, ohne dass Worte nötig sind. Die ihre Gedanken liest, als stünden sie auf Papier. Die weiß, wann sie schweigen soll, und wann sie sprechen muss. Du bist mein Spiegel, Fatima, und ich bin deiner, und wenn der Spiegel zerbricht, werden wir beide in Scherben liegen, die niemand mehr zusammensetzen kann. Also pass auf dich auf. Pass auf uns auf. Und wenn du das Getreide für Mashhad bestellst, tue es nicht so, als wäre es ein Geschenk von dir. Tue es, als wäre es ein Geschenk von mir. Weil wir eins sind, du und ich. Und was du tust, tue ich. Und was ich bin, bist du. Darum gebe ich dir so viel. Weil ich mich selbst in deinen Händen sehe, und ich weiß, dass du mich nicht fallen lassen wirst. Nicht wie die anderen. Nicht wie Chinqai, der mich verraten hat. Nicht wie Güyük, der mich hasst. Nicht wie Sorkaktani, die mich fürchtet. Du wirst mich nicht fallen lassen, weil du weißt, dass du mit mir fällst. Und du willst nicht fallen, nicht mehr. Du hast genug vom Fallen, Fatima. Du hast genug vom Aufstehen. Du willst nur noch gehen, auf festem Boden, und nie wieder hinsehen, was hinter dir liegt. Das werde ich dir geben. Das und mehr. Das und alles, was ich habe, solange ich lebe. Und wenn ich tot bin, wirst du mein Testament sein, mein letztes Wort, meine letzte Unterschrift. Du wirst weitermachen, für mich, mit mir, in mir. Weil du mir gehörst, und ich werde nie aufhören, dir zu gehören, auch wenn ich nicht mehr bin. Das ist der Eid, den ich dir geben kann. Nimm ihn. Er ist der einzige, den ich jemals freiwillig geschworen habe, der nicht erzwungen war, der nicht erbeten war, der nicht gekauft war. Er ist mein Geschenk, und er ist größer als der Armreif, größer als das Kästchen, größer als das Silber, weil er nicht endet, wenn ich sterbe. Er endet nie. Weil ich dich liebe, Fatima. Und Liebe ist das Einzige, was länger hält als Macht. Das Einzige, was den Tod überdauert. Das Einzige, was uns bleibt, wenn alles andere verbrannt ist und die Asche in den Wind geworfen wurde. Und ich will, dass du das weißt. Dass du es nie vergisst. Dass du es in dein Federetui legst, neben die Briefe an deine Schwester, und dass du es mitnimmst, wenn du gehst, und dass du es liest, wenn die Nacht lang ist und der Wind heult, und dass du dann weißt, dass du nicht allein bist, dass du nie allein sein wirst, weil ich bei dir bin, in dem Armreif, in dem Kästchen, in dem Silber, und in dem Wort, das ich dir heute gebe: *mein*.“
+
+Fatima nahm das Wort, nahm die Gabe, nahm die Last, die darin lag, und sie spürte, wie das Gewicht des Armreifs sich in ihr Handgelenk grub, wie das Kästchen auf ihrem Schoß lag, wie der Beutel mit Silber in ihrer Hand lag. Sie nahm alles. Aber sie wusste, dass sie nie genug nehmen würde, um den Preis zu zahlen, der morgen oder in einem Jahr fällig sein würde.
+
+Sie wusste, dass Besitz nicht schützt. Dass Liebe nicht rettet. Dass das Einzige, was zählt, die Feder ist, die schreibt, und die Erinnerung, die bleibt, und der Name, den man hinterlässt.
+
+Und sie wusste, dass sie heute einen Namen bekommen hatte, den sie nie mehr loswerden würde.
+
+*Chorasanische Hexe.*
+
+Sie verließ das Zelt der Regentin, als die Schatten draußen länger wurden, als der Wind kälter war und die Sterne am Himmel wie die Augen der Toten leuchteten. Der Armreif an ihrem Handgelenk glühte im Licht der Fackeln, und sie spürte die Blicke der Diener, die sich vorbeugten, als sie vorbeiging.
+
+*Die Schattenkanzlerin.*
+
+*Die Hexe.*
+
+Sie ging zurück in ihr Zelt, und die Arbeit des Abends wartete. Ein Stapel von Schreiben, die sie noch prüfen musste, bevor sie der Regentin vorgelegt wurden. Sie setzte sich, nahm den ersten Brief, las ihn, und ihre Hand bewegte sich über das Papier, wie von selbst.
+
+Dann kam das Schreiben über Mashhad.
+
+Es war ein formloses Gesuch, eines von vielen, das der Gouverneur von Tus geschickt hatte, eine Liste von Waren und Baumaterialien, die für die Wiederbesiedlung der Stadt benötigt wurden. Getreide, zwanzig Wagen. Ziegel, zehntausend. Silber für die Moschee, die noch kein Dach hatte. Und eine Frage, die am Rand notiert war: *Wer wird die Arbeit bezahlen?*
+
+Fatima las es zweimal. Der Name der Stadt brannte auf dem Papier, als wäre er in die Haut ihrer Hand geschrieben.
+
+Sie nahm die Feder. Ihre Hand zitterte nicht, als sie den Satz hinzufügte, den niemand genehmigt hatte, den niemand gesehen hatte, den niemand je zurücknehmen würde: *Die Regentin bewilligt zusätzlich fünfhundert Säcke Weizen, zweitausend Ziegel und einhundert Silberstücke aus der Privatkasse des Khans für die Instandsetzung der Mauern und die Versorgung der Überlebenden. Die Anweisung gilt ab sofort.*
+
+Sie setzte das Siegel. Der Wachs war noch warm, als sie das Papier auf den Stapel legte, und sie wusste, dass es morgen ausgehen würde, als wäre es der Wille der Regentin.
+
+Ihr einziger Machtmissbrauch.
+
+Für Tote.
+
+Sie saß da, in der Dunkelheit ihres Zeltes, und die Lampe flackerte, warf Schatten an die Zeltwand, die sich bewegten wie lebendige Wesen. Der Armreif war kalt an ihrem Handgelenk, und sie dachte an die Schwester, die nicht da war, die nie da sein würde, an die Stadt, die Asche war, an die Hände, die nicht mehr anbauen würden, an den Weizen, der nie geerntet werden würde, an die Ziegel, die sich nie zu Mauern fügen würden.
+
+Sie nahm das Federetui, das sie immer bei sich trug. Die Feder ihres Vaters, die er benutzt hatte, um die Koranverse zu schreiben, bevor die Stadt fiel. Immer noch lag Tinte an der Spitze, getrocknet, aber nie vergangen.
+
+Sie entzündete die Lampe neu, setzte sich auf den Boden, und das Papier lag vor ihr, leer wie die Wüste zwischen Karakorum und Mashhad, leer wie die Jahre, die sie nicht gehabt hatte, leer wie die Zeit, die kommen würde.
+
+*Schwester*, schrieb sie. *Ich bin wichtig geworden.*
+
+*Es schmeckt wie damals das erste Brot nach der Stadt. Man isst es und denkt an die, die keins haben. Und man schämt sich, dass man isst. Aber man isst trotzdem. Weil man überleben muss, um weiterzuschreiben. Und ich schreibe, Schwester. Ich schreibe für dich, für die Toten, für die, die keine Stimme mehr haben, die keinen Namen mehr tragen, die keine Feder mehr in der Hand halten können, weil ihre Finger zu Asche geworden sind und ihre Hände in der Erde liegen, wo das Gras sie gefressen hat.*
+
+*Ich habe die Macht, Gouverneure zu versetzen, Gesetze zu schreiben, den Willen einer Regentin in die Welt zu tragen. Ich könnte alles ändern, was ich hasse, alles verbrennen, was weh tut, alles zerstören, was an der Vergangenheit klebt. Aber ich ändere nichts, Schwester. Ich verbrenne nichts. Ich zerstöre nichts. Weil ich Angst habe. Angst, dass die Macht mich auffrisst, wie sie die anderen gefressen hat, dass sie mich leer macht, dass ich eines Tages aufwache und nicht mehr weiß, wer ich bin, dass ich nur noch der Schatten bin, den die Regentin wirft, und dass ich vergesse, dass ich auch eine war, die Brot isst und an die denkt, die keins haben.*
+
+*Heute habe ich etwas getan, was ich nicht hätte tun sollen. Ich habe Weizen bestellt, Ziegel, Silber für Mashhad. Für die Stadt, die niemand mehr kennt, die niemand mehr besiedeln will, die wie ein Grab ist, das man nicht öffnen darf, weil der Geruch der Verwesung noch zu stark ist. Ich habe es getan, weil ich nicht vergessen kann, dass wir dort waren, du und ich, dass wir durch die Gassen gelaufen sind, dass wir die Datteln gegessen haben, die der alte Händler uns schenkte, dass wir die Koranverse hörten, die der Imam sprach, wenn die Sonne unterging. Ich habe es getan, weil ich will, dass die Stadt wieder lebt, dass die Gassen wieder voll sind, dass die Datteln wieder wachsen, dass der Imam wieder spricht. Aber ich weiß, es ist sinnlos. Die Stadt ist tot, Schwester. Sie ist so tot wie du. Und alles, was ich tue, ist ein Versuch, die Toten aufzuwecken, ein Tanz auf einem Grab, der niemanden zurückholt.*
+
+*Ich bin die Schattenkanzlerin, Schwester. Die Hexe aus Chorasan, wie sie mich nennen. Und ich habe Angst, dass der Name wahr wird, dass ich wirklich eine Hexe bin, dass ich die Macht habe, die Toten zu rufen, und dass ich eines Tages rufe und du kommst, und dass ich dich nicht mehr gehen lasse. Aber ich kann dich nicht rufen, Schwester. Weil ich weiß, dass du nicht kommen würdest. Du warst immer die Klügere von uns. Du würdest nicht in eine Welt zurückkommen, die dir nichts mehr geben kann außer Schmerz und Asche und dem Geruch von verbranntem Fleisch.*
+
+*Bleib, wo du bist. Ich schreibe dir, damit ich nicht vergesse, dass es dich gab. Damit ich nicht vergesse, dass ich eine war, die geliebt hat. Und dass ich immer noch eine bin, die liebt, auch wenn die Liebe nutzlos ist, auch wenn sie nichts ändert, auch wenn sie nur in der Dunkelheit meines Zeltes existiert, zwischen zwei Lichtern, zwischen zwei Atemzügen, zwischen zwei Wörtern, die nie gesagt werden.*
+
+*Bleib.*
+
+*Ich werde weitermachen. Für dich. Für die Toten. Für den Weizen, der nie wachsen wird, und die Ziegel, die nie verbaut werden. Für die Stadt, die es nicht mehr gibt, und die Stadt, die es nie geben wird.*
+
+*Deine Fatima.*
+
+Sie faltete den Brief, legte ihn in das Federetui, schob ihn unter die Matte ihres Lagers. Die Lampe flackerte, und sie blies sie aus.
+
+Die Dunkelheit war voll, schwer, warm wie die Hand einer Toten, die sich auf ihre Stirn legte.
+
+Sie schloss die Augen.
+
+Und wartete auf den Morgen.
+
+---
+
+## 17. Der Leser
+
+Die Kanzlei roch an diesem Morgen nach Staub und kaltem Tee. Juvaini saß auf seiner Matte, die Beine untergeschlagen, und sortierte die Abschriften des Vormittags. Draußen hing der Himmel grau über Karakorum, und der Wind trug den Geruch von nasser Erde und Pferdemist durch die offenen Zeltluken. Die Luft war dick, fast greifbar, und das Licht, das durch die eingerissenen Stoffbahnen fiel, hatte die Farbe von vergilbtem Papier.
+
+Er arbeitete seit drei Stunden. Die Finger schmerzten vom Halten der Feder, die Knie vom langen Sitzen, doch er hatte fast die Hälfte geschafft. Die restlichen Dokumente lagen in einem Stapel neben ihm, die meisten unbedeutend: Berichte über Viehbestände, ein Steuererlass für eine unbedeutende Provinz, eine Anfrage zur Öffnung einer Karawanserei in der Nähe von Samarkand. Er nahm das nächste Blatt, ein loses Stück Papier von schlechter Qualität, und begann zu lesen.
+
+Der erste Satz traf ihn wie ein Schlag.
+
+*Schwester,*
+
+Seine Hand erstarrte. Die Feder zitterte über dem Tintenfass, ein Tropfen fiel auf das Blatt und breitete sich dunkel und schnell aus. Er sah den Tropfen an, dann den Brief. Drei Wörter, die nichts bedeuten sollten – und alles bedeuteten.
+
+*Schwester,*
+
+Er las es noch einmal. Die Handschrift war unverwechselbar: die leichte Rechtsneigung, die klaren, fast schonungslosen Linien. Fatima. Er hatte ihre Handschrift in den letzten Wochen studiert, sie analysiert, in sein Notizbuch kopiert. Er kannte ihre Buchstaben besser als die seiner Mutter. Und er erkannte jede Kurve, jeden Schwung, jede Unterbrechung, die dem Blatt seinen Rhythmus gab.
+
+Das Blatt war kein offizielles Dokument. Das Format war falsch, das Papier von der Sorte, die man für Makulatur verwendete. Und der Ton – dieser Ton, der von einem Menschen sprach, der sprach, ohne gehört zu werden – war absolut privat.
+
+Er hätte aufhören sollen. Ein Teil von ihm wusste, dass er das Blatt zurücklegen musste, als hätte er es nie gesehen. Wer einen Brief las, der nicht für ihn bestimmt war, verlor sich selbst und das Recht, sich jemals als anständig zu bezeichnen. Sein Vater hätte ihm die Hand dafür gebrochen.
+
+Doch der Teil, der nicht aufhören konnte, war stärker.
+
+Er las.
+
+*Schwester, ich habe heute wieder den Weizen bestellt. Für Mashhad. Ich weiß, es ist sinnlos. Ich weiß, dass die Stadt tot ist und die Gassen leer und die Datteln nicht mehr wachsen. Aber ich tue es trotzdem. Ich tue es, weil das Tun das Einzige ist, was mich davon abhält, stehenzubleiben. Solange ich handle, lebe ich.*
+*Ich habe auch das Gerücht gehört. Sie nennen mich die Hexe aus Chorasan. Es ist ein Name, der sich wie Rauch ausbreitet, der in den Zelten hängen bleibt, der aus den Kellern der Verwalter hochsteigt, wenn ich vorübergehe. Ich spüre ihn, Schwester. Er brennt auf der Haut wie ein Mal, das man mir aufgepresst hat. Aber was kann ich tun? Ich kann keine Gerüchte verbrennen. Ich kann keinen Namen tilgen, der bereits in den Mündern der Menschen lebt.*
+*Heute hat mir die Regentin einen Armreif geschenkt. Gold. Schwer. Er liegt in meinem Zelt, und wenn ich ihn ansehe, weiß ich, dass er eine Kette ist, die ich um den Hals trage, auch wenn er äußerlich wie ein Schmuckstück wirkt. Sie hat ihn mir gegeben, um mich zu erinnern. Dass ich ihr gehöre. Dass alles, was ich bin, alles, was ich tue, alles, was ich besitze, ihr Eigentum ist. Ich bin ihre Feder, Schwester. Ihre Hand. Ihr Werkzeug. Und Werkzeuge werden weggeworfen, wenn sie stumpf werden.*
+*Ich habe Angst. Nicht vor dem Tod – der Tod ist ein alter Bekannter, der mir schon so oft über die Schulter gesehen hat, dass ich seinen Atem kaum noch spüre. Ich habe Angst vor dem Vergessen. Dass ich eines Tages aufwache und nicht mehr weiß, wer ich war. Dass ich nur noch die Hexe bin, die Schattenkanzlerin, das Werkzeug. Dass ich dich vergesse. Dass ich das letzte Mal, als wir durch die Gassen von Mashhad liefen, aus meinem Gedächtnis verliere. Dass ich das Lachen des alten Händlers nicht mehr höre. Dass ich die Koranverse nicht mehr spüre, die der Imam sprach, wenn die Sonne unterging.*
+*Deshalb schreibe ich. Deshalb schreibe ich dir. Damit ich nicht vergesse. Damit ich weiter weiß, dass es eine Welt gab, in der ich nicht die Hexe war, sondern nur deine Schwester. Nur ein Mädchen, das im Hof saß und die Datteln zählte, die der Händler uns schenkte.*
+*Bleib bei mir, Schwester. Bleib in diesem Papier. Sei die Erinnerung, die ich festhalte, wenn alles andere mich verlässt.*
+*Deine Fatima.*
+
+Der Brief endete – abrupt, als hätte der Schreiber mitten im Satz die Feder niedergelegt, unfähig, weiterzumachen. Juvaini starrte auf das letzte Wort, das verblasste *Fatima*, und spürte, wie sich etwas in ihm zusammenzog. Ein Schmerz, der nicht sein eigener war. Eine Trauer, die unterhalb seiner Rippen saß, schwer wie ein Stein, den man in einem Fluss fand.
+
+Er hatte nicht wissen dürfen, was er jetzt wusste.
+
+*Es ist ein Brief an eine Tote.*
+
+Die Worte aus dem Brief hallten in ihm nach: *Mashhad, 1221.* Diese Jahreszahl – sie war eine Narbe, die sich durch Chorasan zog. 1221: die Zerstörung von Nischapur, die Massaker, der Geruch von verbranntem Fleisch, der noch Jahre später in der Luft hing. Seine Familie war in Dschuwain gewesen, ein kleines Dorf, das die Welle nur streifte, die großen Städte jedoch vernichtete. Mashhad fiel. Und jemand war gestorben, den Fatima geliebt hatte.
+
+Er las den Brief ein zweites Mal.
+
+Ein drittes.
+
+Mit jeder Wiederholung verwandelte sich der Schmerz in Faszination. Das war die wahre Fatima. Nicht die Schattenkanzlerin mit den klaren Sätzen und der kalten Präzision, nicht die Frau, die Drohungen in Höflichkeit verpackte, sondern die Überlebende, die an eine Tote schrieb, weil sie nicht wusste, wie sonst sie weitermachen sollte.
+
+Das war gefährlich.
+
+Er ließ das Blatt sinken, legte es auf die Makulatur zurück, als wäre es nie weggenommen worden. Seine Hände zitterten nicht, aber sein Herz schlug schnell, hart, unrhythmisch. Er atmete tief ein, zwang sich zur Ruhe.
+
+Draußen hörte er Schritte.
+
+Er wusste sofort, dass es ihr Schritt war. Die anderen Schreiber gingen anders, schwerer, schleppender. Fatimas Schritte waren leicht, fast unhörbar, aber Juvaini hatte gelernt, sie zu hören. Es gab Tage, an denen er den Atem anhielt, um zu lauschen, ob sie vorbeikam, ob sie vielleicht innehalten würde, ob sie vielleicht – er verachtete sich für diesen Gedanken – etwas zu ihm sagen würde.
+
+Sie trat ein. Der Rücken gerade, das Gesicht undurchdringlich. Sie trug einen Stapel Papier, den sie auf den Tisch legte. Ihre Augen schweiften kurz über den Raum – ein Mechanismus, den er längst kannte: Sie sah alles, ohne es zu sehen, registrierte jede Veränderung, jede Unordnung, jeden Gegenstand, der nicht an seinem Platz war.
+
+Ihr Blick blieb auf der Makulatur haften.
+
+Auf dem Blatt.
+
+Ein Moment. Keine zwei Herzschläge.
+
+Dann sah sie ihn an.
+
+Er kannte diesen Blick noch nicht, aber er verstand ihn sofort. Es war ein Blick, der durch jede Maske drang, jede Lüge durchschaute, jedes Zögern las. Ein Gerichtsprozess in drei Sekunden.
+
+„Juvaini.“ Nur sein Name. Eine Aufforderung.
+
+Er stand auf, die Beine schwer vom langen Sitzen, und trat zu ihr. Seine Handflächen waren feucht, sein Mund trocken, aber er zwang sein Gesicht in jene freundliche Höflichkeit, die sein Vater ihm beigebracht hatte. „Ja, Herrin?“
+
+Sie nahm das Blatt. Las es nicht – sie hatte es schon tausendmal gelesen. Ihr Blick war eine Vergewisserung. Ein Test.
+
+„Hast du das gelesen?“
+
+Er zögerte. Ein falsches Wort, und alles wäre vorbei. Sie würde ihn nie wieder einen vertraulichen Satz schreiben lassen. Sie würde ihn aus der Kanzlei entfernen, an die Peripherie, wo die unwichtigen Dokumente landeten. Sie würde ihn unsichtbar machen.
+
+„Nein“, sagte er.
+
+Das Wort lag schwer in der Luft.
+
+Sie sah ihn an. Ein langer, stiller Blick, der durch ihn hindurchging und alles sah, was er nicht sagen konnte. Er wusste, dass sie wusste. Und sie wusste, dass er wusste, dass sie wusste.
+
+Es änderte nichts.
+
+„Hast du gelesen?“
+
+Die zweite Frage. Härter, direkter. Sie gab ihm keine Flucht.
+
+Er könnte jetzt die Wahrheit sagen. Er könnte gestehen, dass er es gelesen hatte, dass es ihm leid tat, dass er seine Grenzen überschritten hatte. Das wäre ehrlich. Das wäre, was ein anständiger Mensch tun würde.
+
+Aber Juvaini hatte schon lange gelernt, dass die Wahrheit am Hof von Karakorum ein Luxus war, den man sich nur leisten konnte, wenn man genug Deckung hatte, um den Preis zu zahlen.
+
+„Nein, Herrin. Ich habe es nur gesehen und zurückgelegt. Es sah nicht nach einem offiziellen Dokument aus, also habe ich es nicht gelesen.“
+
+Sie lächelte nicht.
+
+„Verbrenn es“, sagte sie.
+
+Das war keine Bitte.
+
+Er nahm das Blatt. Seine Finger berührten das Papier, und er spürte Wärme, als ob die Tinte noch frisch wäre, als ob der Schmerz, der in den Worten lag, die Oberfläche erwärmte. Er trat zur Kohlenpfanne, die in der Ecke der Kanzlei stand, und legte das Blatt auf die Glut, ohne eine Regung zu zeigen.
+
+Die Flammen fraßen sich am Rand entlang, langsamer, als er erwartet hatte. Die Buchstaben schrumpften und verschwanden, als wären sie nie geschrieben worden. Der Name *Fatima* war zuerst da, dann verging er, dann das Wort *Schwester*, dann alles andere. Asche, die zerfiel, als hätte es den Brief nie gegeben.
+
+Er sah zu, wie die Asche aufstieg und sich im Luftzug verlor.
+
+Als er sich umdrehte, war sie weg.
+
+---
+
+Die nächsten Tage vergingen ohne Zwischenfall. Juvaini arbeitete, sortierte, schrieb. Er sah Fatima mehrmals, aber sie sprach ihn nicht an, suchte keinen Blickkontakt. Das war normal. In ihrer Welt gab es keine Höflichkeiten, keine Nebensächlichkeiten. Nur Arbeit. Nur die Dinge, die getan werden mussten.
+
+Doch jedes Mal, wenn sie an ihm vorbeiging, spürte er ihren Blick – flüchtig, aber schwer. Eine Beobachtung, die nicht aufhörte.
+
+Am dritten Tag, am späten Nachmittag, als die Sonne durch die Zeltwände aus Büffelleder fiel und den Raum in einen warmen, staubigen Farbton tauchte, stand sie vor seinem Tisch.
+
+Sie sagte nichts.
+
+Sie legte ein Blatt Papier auf seine Abschriften.
+
+Dann ging sie.
+
+Juvaini wagte nicht, sich zu rühren. Er starrte auf das Blatt, das vor ihm lag, und spürte, wie sein Herz schneller schlug. Es war das gleiche Papier wie zuvor, dieselbe schlechte Qualität, dieselben leicht vergilbten Ränder. Und dieselbe Handschrift.
+
+Er öffnete es langsam, als ob das Papier zerbrechen könnte.
+
+*Schwester,*
+
+Er las.
+
+*Schwester, ich habe einen Brief verbrennen müssen. Er lag auf der Makulatur, und ein junger Mann hat ihn gefunden. Ich habe ihn getestet. Er hat bestanden. Nicht weil er die Wahrheit gesagt hat – er hat gelogen. Aber er hat gelogen, um mich zu schützen und um nicht zu wissen, was er nicht wissen sollte. Das ist die Kunst des Hofes: zu wissen, ohne zu zeigen, dass man weiß. Ich denke, er hat sie verstanden.*
+*Jetzt frage ich mich: Habe ich einen Fehler gemacht? Indem ich ihm den Brief gezeigt habe, meine ich. Indem ich ihm erlaubt habe, zu sehen, was niemand sehen darf. Die andere Seite der Maske. Das Gesicht, das ich niemandem zeige.*
+*Aber vielleicht war es kein Fehler. Vielleicht war es eine Entscheidung. Ein Netz, das ich auswerfe, und hoffe, dass der, der darin hängen bleibt, derjenige ist, den ich brauche.*
+*Ich weiß nicht, ob ich ihn brauche, Schwester. Ich weiß nicht, ob ich jemanden brauche. Ich bin es gewohnt, allein zu sein. Allein zu schreiben, allein zu handeln, allein zu überleben. Aber manchmal, in den Nächten, wenn der Wind die Wände meines Zeltes schüttelt und ich das Gefühl habe, dass das ganze Reich auf mir lastet, denke ich: Es wäre schön, einen Zeugen zu haben. Jemanden, der liest, was ich schreibe, und versteht, was ich nicht sagen kann.*
+*Vielleicht ist das meine Schwäche, Schwester. Vielleicht ist das der Fehler, den ich eines Tages bezahlen werde. Ich will nicht allein sein.*
+*Aber ich habe Angst davor, jemanden zu nah zu lassen.*
+*Was soll ich tun?*
+*Deine Fatima.*
+
+Juvaini las den Brief zweimal. Dann las er ihn ein drittes Mal, langsamer, wie man einen Durst löscht, den man nicht stillen kann.
+
+Sie gab ihm einen Zeugen.
+
+Sie gab ihm Einblick.
+
+Als er aufsah, war die Kanzlei leer. Nur das Summen der Insekten, das leise Knistern des Feuers in der Kohlenpfanne, der ferne Lärm des Lagers, der durch die Wände drang.
+
+Er faltete den Brief und legte ihn in sein Notizbuch. Ein Geschenk, das schwerer wog als jeder Armreif aus Gold.
+
+---
+
+Nachts konnte er nicht schlafen.
+
+Er saß in seinem Zelt, die Lampe flackerte, und vor ihm lag ein Blatt Papier. Er hatte die Feder in der Hand, die Tinte war frisch, aber die Worte – die Worte kamen nicht.
+
+Er versuchte, ein Gedicht zu schreiben. Über ihre Handschrift. Über die Art, wie ihre Buchstaben auf dem Papier saßen, wie die Kurven sich öffneten und schlossen, wie die Linien bestimmt waren, aber auch verletzlich. Eine Handschrift wie eine Landschaft: karg, aber nicht tot. Herb, aber nicht lieblos.
+
+Er schrieb einen Vers. Dann einen zweiten. Dann durchstrich er beide.
+
+Die Worte waren hölzern, kalt, bedeutungslos. Sie erreichten nicht, was er fühlen wollte. Die Sprache, die ihm sonst so leicht von der Feder floss, die Verse, die er für die Gouverneure und Prinzessinnen schrieb – sie versagten hier, wo es darauf ankam. Wo er etwas ausdrücken wollte, das tiefer lag als Höflichkeit, tiefer als Macht, tiefer als das, was sich in Worte fassen ließ.
+
+Die Hand einer Frau, die an die Toten schrieb.
+
+Wie sollte man das in Verse fassen?
+
+Er warf die Feder hin.
+
+*Die Liebe hat ein Medium gefunden: Papier.*
+
+Aber er verlor sich darin. Sie war nicht erreichbar, nicht fassbar, nicht wiederzugeben.
+
+Er las ihren Brief noch einmal, den er im Notizbuch versteckt hatte. Die Worte, die sie ihm anvertraut hatte.
+
+Das war kein Gedicht. Es war roher, persönlicher, verletzlicher. Es war die Wahrheit, die sie niemandem sonst zeigte.
+
+Und er wusste, dass er sie nie würde erreichen können. Dass seine Kunst, seine Worte, seine Verse nie das einfangen würden, was sie ihm gab.
+
+Er blies die Lampe aus und lag im Dunkeln, die Hände unter dem Kopf, die Decke kalt um die Schultern.
+
+Die Schönheit war nutzlos.
+
+Und das war die Rissbildung, die er fühlte: der Glaube, dass Schönheit alles fassen kann, zerbrach an der Handschrift einer Frau aus Chorasan, die in der Dunkelheit an eine Tote schrieb.
+
+Er schloss die Augen.
+
+Der Morgen würde kommen. Der nächste Brief würde kommen. Und er würde lesen, weil es keine andere Wahl gab, weil er verstehen musste, weil er bereits verstrickt war, tiefer, als er je gedacht hatte.
+
+Am nächsten Morgen fand er einen neuen Brief unter seinem Filzkissen.
+
+---
+
+## 18. Umgekehrte Welt
+
+Die Lampe war längst erloschen, aber Fatima lag noch immer wach. Die Dunkelheit über ihr war schwer wie Filz, warm wie der Atem eines Schlafenden. Sie hörte den Wind draußen gegen die Zeltwand drücken, hörte das leise Knarren der Stangen, das Knistern der erlöschenden Glut in der Feuerstelle.
+
+Sie hörte ihr eigenes Herz.
+
+Es pochte nicht schneller als sonst. Es pochte gleichmäßig, ruhig, fast verräterisch ruhig – als wolle es ihr beweisen, dass nichts anders war als gestern oder vorgestern oder vor einem Monat. Dass alles beim Alten blieb.
+
+Aber es blieb nichts beim Alten.
+
+Sie setzte sich auf. Ihre Hände tasteten nach dem Feuerstein neben dem Lager; sie schlug Licht, entzündete den Docht der kleinen Öllampe aus Ton – jener Lampe mit dem Sprung im Rand, den sie nie hatte reparieren lassen – und zog das Federetui unter der Matte hervor.
+
+Es war warm geworden vom Boden ihres Zeltes.
+
+Sie legte es auf den Schoß und öffnete den Verschluss nicht sofort. Die Finger ruhten auf dem Holz; sie spürte die feinen Rillen unter den Fingerkuppen; sie spürte die abgeschliffenen Kanten dort wo ihr Vater jeden Abend seine Hand hingelegt hatte wenn er das Etui öffnete um den nächsten Brief zu schreiben – für einen Emir einen Kaufmann einen Sohn der weit weg war.
+
+Sie öffnete es.
+
+Die Feder lag obenauf; sie nahm sie heraus prüfte ihre Spitze mit dem Daumen zog ein Blatt Papier aus dem Stapel – kein Abfallblatt sondern das gute das weiße das sie für Töregenes wichtigste Briefe verwendete – legte es vor sich hin tauchte die Feder ein und begann zu schreiben ohne zu wissen ob sie je aufhören würde.
+
+*Schwester.*
+
+*Ich schreibe dir von einem Jungen.*
+
+*Er ist jünger als unser Unglück.*
+
+Sie hielt inne las den Satz zweimal spürte sein Gewicht im Mund wie eine Münze die man zu lange zwischen den Zähnen behält bis man ihren Geschmack nicht mehr von Speichel unterscheiden kann.
+
+*Er ist jünger als unser Unglück – das heißt: Er war noch nicht geboren als Maschhad fiel; er war noch nicht geboren als du starbst; er war noch nicht geboren als ich lernte dass Schweigen überleben bedeutet und Reden gefährlich ist.*
+
+*Er wurde in eine Welt hineingeboren die unsere Trümmer bereits kannte aber er selbst hat sie nie gesehen.*
+
+*Wie erklärt man einem Menschen der in einer Ruine aufwächst dass diese Ruine einmal eine Stadt war?*
+
+*Wie erklärt man ihm dass man selbst aus dieser Stadt stammt?*
+
+*Man erklärt es nicht.*
+
+*Man schweigt.*
+
+*Und er versteht das Schweigen.*
+
+Die Feder kratzte über das Papier; draußen bellte ein Hund zweimal dann war wieder Stille.
+
+Fatima las was sie geschrieben hatte – die Wörter standen da schwarz auf weiß unwiderruflich wie ein Geständnis unter Folter nur dass niemand sie gezwungen hatte außer ihr eigenes Herz das so gleichmäßig weiterschlug als sei nichts geschehen.
+
+Sie tauchte die Feder erneut ein.
+
+*Sein Name ist Ata-Malik Juvaini und er kommt aus Dschuwain bei Nischapur einer Stadt die fünf Jahre vor seiner Geburt zerstört wurde aber wieder aufgebaut worden ist weil irgendjemand entschieden haben muss dass Steine leichter zu ersetzen sind als Menschen.*
+
+*Er ist Schreiber wie ich Schreiberin bin.*
+
+*Aber er ist anders.*
+
+*Alle am Hof verhandeln mit mir Schwester.*
+
+*Sie kommen in mein Zelt mit Bittgesuchen mit Drohungen mit Gold mit Versprechungen; sie sehen mich an als wäre ich eine Tür durch die man hindurch muss um zur Regentin zu gelangen; sie messen meinen Wert an meiner Nützlichkeit an meiner Nähe zur Macht an dem was ich für sie tun kann.*
+
+*Er nicht.*
+
+*Er kommt in mein Zelt und spricht mit mir.*
+
+*Nicht über Bittgesuche nicht über Ämter nicht über Handelslizenzen oder Steuererlasse oder Thronfolgen.*
+
+*Er spricht über Wörter.*
+
+*Über Sätze die wir geschrieben haben über Formulierungen die wir gewählt haben über die Kunst einen Befehl so zu kleiden dass er wie eine Bitte klingt oder eine Bitte so dass sie wie ein Befehl wirkt.*
+
+*Er fragt mich nach meiner Meinung und wartet dann tatsächlich auf meine Antwort.*
+
+*Das ist ungewöhnlich Schwester.*
+
+*Das ist so ungewöhnlich dass ich tagelang nicht wusste was ich damit anfangen sollte.*
+
+Sie legte die Feder ab massierte ihre Finger beugte den Nacken bis es knackte dann nahm sie die Feder wieder auf.
+
+*Und jetzt kommt das Absurde Schwester.*
+
+*Jetzt kommt das was ich dir am meisten fürchten musste zu schreiben weil es so lächerlich klingt so unmöglich so unglaubwürdig dass ich selbst kaum glauben kann dass es wahr ist während ich es niederschreibe:*
+
+*Ich liebe ihn.*
+
+*Ich liebe einen Jungen der acht Jahre jünger ist als mein Unglück einer der nichts weiß von Maschhad nichts von unserer Mutter nichts von deinem Tod nichts von dem Geruch verbrannten Fleisches der mir noch heute in der Nase hängt wenn der Wind aus Süden kommt.*
+
+*Ich liebe ihn nicht wegen seines Gesichts – obwohl sein Gesicht schön ist auf eine Art wie alte Schrift schön ist wenn man sie lesen kann; nicht wegen seiner Stimme – obwohl seine Stimme tief ist und sicher wenn er Firdausi zitiert; nicht wegen seiner Hände oder seiner Schultern oder seiner Art sich zu bewegen wenn er durch die Kanzlei geht zwischen den Regalen voller Akten als wäre er schon immer dagewesen obwohl er erst seit wenigen Monaten hier ist.*
+
+*Ich liebe ihn wegen seiner Pausen.*
+
+*Wegen des Augenblicks bevor er antwortet wenn er kurz inne hält und nachdenkt bevor er spricht als wäre jedes Wort eine Münze deren Wert er prüfen müsste bevor er sie ausgibt.*
+
+*Wegen des Moments in dem er mich ansieht – nicht prüfend nicht taxierend nicht berechnend sondern einfach sehend als wäre ich kein Werkzeug keine Tür keine Schattenkanzlerin keine Hexe aus Chorasan sondern einfach eine Frau die etwas sagt das es wert ist gehört zu werden.*
+
+*Alle anderen sehen mich an was ich bin was ich habe was ich kann.*
+
+*Er sieht mich an wer ich bin.*
+
+*Und ich weiß nicht was ich damit machen soll.*
+
+Die Lampe flackerte; Fatima wartete bis sich der Docht beruhigt hatte dann tauchte sie die Feder zum vierten Mal ein.
+
+*Die Umkehrung Schwester:*
+
+*Am Hof bin ich diejenige die redet während andere schweigen; ich diktiere Befehle ich formuliere Dekrete ich spreche für eine Regentin deren Stimme zu rau ist für diplomatische Wendungen; alle hören mir zu wenn ich spreche weil meine Worte Macht haben weil sie Leben verändern können weil sie entscheiden ob ein Dorf Steuererlass bekommt oder ob ein Gouverneur abgesetzt wird.*
+
+*Bei ihm ist es umgekehrt.*
+
+*Er redet und ich schweige.*
+
+*Und mein Schweigen ist keine Taktik keine Strategie kein bewusstes Mittel um etwas zu erreichen; mein Schweigen ist einfach weil ich nichts sagen will weil ich nur hören will wie seine Stimme klingt wenn er über Hafiz spricht oder darüber wie sich persische Versmaße ins Mongolische übersetzen lassen (schlecht sagt er sehr schlecht) oder darüber ob Guillaume Boucher wirklich glaubt dass sein silberner Baum jemals Wein Milch Honig und vergorene Stutenmilch gleichzeitig ausschenken wird (nein sagt er ironisch aber er wird trotzdem dafür bezahlt).*
+
+*Er redet Schwester und ich schweige.*
+
+*Und in meinem Schweigen liegt alles was ich nicht sagen kann:*
+
+*Dass ich ihn liebe.*
+*Dass ich Angst habe.*
+*Dass ich nicht weiß ob diese Liebe ihn retten wird oder uns beide vernichten.*
+*Dass ich zum ersten Mal seit zwanzig Jahren wieder etwas fühle außer Überlebenswillen und Pflichtgefühl und dem kalten Stolz einer Frau die gelernt hat ihre Verletzlichkeit hinter perfekter Dienstbarkeit zu verstecken.*
+*Dass ich sterben würde wenn ihm etwas zustieße.*
+*Dass ich genau deshalb sterben müsste wenn ihm etwas zustieße weil meine Liebe ihn erst zum Ziel macht.*
+
+Fatima hielt inne atmete tief aus dann weiter:
+
+*Die Regentin sieht alles Schwester.*
+
+*Sie sieht alles was am Hof geschieht jeden Blick jede Berührung jedes Wort das lauter geflüstert wird als beabsichtigt jedes Schweigen das länger dauert als üblich.*
+
+*Sie sieht mich am genauesten weil ich ihr gehöre weil sie mich gemacht hat weil sie mich jeden Abend daran erinnert dass ich ohne sie nichts bin dass ich ohne sie tot wäre dass mein Leben ihr gehört mein Atem ihr gehört jedes Wort das ich schreibe jeder Gedanke den ich denke jeder Mensch den ich liebe ihr gehört falls ich je wagen sollte jemanden zu lieben außer ihr.*
+
+*Was sie besitzt liebt sie Schwester.*
+*Was sie liebt lässt sie nicht gehen.*
+*Und wenn sie entdeckt dass ich etwas besitze das mir gehört etwas das nur mir gehört etwas das sie mir nicht gegeben hat und mir daher auch nicht nehmen kann…*
+
+Sie setzte ab strich mit dem Finger über den Rand des Papiers spürte seine Glätte dann tauchte sie die Feder wieder ein:
+
+*…dann wird sie es zerstören Schwester dann wird sie ihn zerstören nicht aus Bosheit sondern aus Notwendigkeit denn eine Dienerin die etwas Eigenes hat ist keine Dienerin mehr; eine Dienerin die etwas liebt außer ihrer Herrin beginnt sich abzulösen beginnt einen Raum in sich zu haben in den keine Befehle dringen beginnen Wurzeln zu wachsen wo keine sein sollten beginnt frei zu werden auch wenn sie es selbst noch nicht merkt.*
+
+*Und Töregene Khatun kann keine Freiheit neben sich dulden Schwester denn Freiheit ist ansteckend Freiheit untergräbt Autorität Freiheit flüstert allen anderen Sklaven im Lager zu dass auch sie vielleicht etwas Eigenes haben könnten auch wenn es nur ein Gefühl ist nur eine geheime Liebe nur ein Name den man nachts flüstert wenn niemand zuhört außer dem Wind und den Sternen und einer toten Schwester die sowieso nichts mehr hört weil sie tot ist seit zwanzig Jahren tot seit Maschhad tot seit jenem Tag an dem du starbst damit ich leben konnte damit ich hier sitzen konnte einen Brief an dich schreiben konnte über einen Jungen den ich liebe während du Staub bist während deine Knochen irgendwo im Massengrab von Chorasan liegen während niemand mehr deinen Namen kennt außer mir während selbst ich langsam vergesse wie deine Stimme klang damals damals in den Gassen von Maschhad wenn wir Datteln aßen vom alten Händler wenn wir Koranverse hörten vom Imam wenn wir Kinder waren bevor alles brannte bevor alles endete bevor du gingst und mich zurückließest allein mit diesem Herzen das immer noch schlägt immer noch pocht immer noch weitermacht als gäbe es einen Grund dafür*
+
+Fatima hielt inne atmete flach schnell kontrolliert zwang ihre Hand ruhig zu bleiben zwang ihre Gedanken zurück in Linie zwang sich weiterzuschreiben:
+
+*Verzeih mir Schwester.*
+*Verzeih mir dass ich dir solche Dinge schreibe dir einer Toten dir einer Abwesenden dir einer deren Stimme ich kaum noch höre deren Gesicht ich kaum noch sehe deren Namen ich kaum noch ausspreche ohne dabei an Asche denken zu müssen an verbranntes Fleisch an Rauch der tagelang über der Stadt hing bis sogar der Himmel grau wurde bis sogar die Sonne aussah wie eine offene Wunde*
+
+*Verzeih mir dass ich lebe*
+*Verzeih mir dass ich liebe*
+*Verzeih mir dass ich Angst habe vor dieser Liebe mehr Angst als vor Güyüks Drohungen mehr Angst als vor Abd ar-Rahmans Intrigen mehr Angst als vor allem was dieser Hof mir antun kann*
+
+*Denn dieser Hof kann mich töten Schwester kann mich foltern kann mich verschwinden lassen kann mich auslöschen aus allen Aufzeichnungen aller Chroniken aller Erinnerungen so gründlich als hätte es mich nie gegeben*
+
+*Aber diese Liebe kann mich zerstören*
+*Sie kann mich weich machen*
+*Sie kann mich verwundbar machen*
+*Sie kann mich dazu bringen Fehler zu machen Dinge zu riskieren Sicherheiten aufzugeben Schutzmauern einzureißen hinter denen ich zwanzig Jahre lang gelebt habe zwanzig Jahre lang sicher war zwanzig Jahre lang tot genug um niemandem wehzutun außer mir selbst*
+
+*Und genau deshalb muss diese Liebe wahr sein muss echt sein muss bleiben auch wenn ich nie wieder mit ihm spreche nie wieder sein Schweigen höre (denn auch sein Schweigen liebe ich Schwester besonders sein Schweigen) nie wieder diesen Moment erlebe in dem seine Augen meine treffen und er mich sieht wirklich sieht ohne Verstellung ohne Berechnung ohne Hintergedanken*
+
+*Weil diese Liebe das erste Lebendige in mir seit zwanzig Jahren ist*
+*Das erste Ding das wächst atmet pulsiert*
+*Das erste Ding das mir gehört*
+
+Die Feder stockte mitten im Wort; Fatima starrte auf den Tintenfleck der langsam ins Papier kroch größer wurde unaufhaltsam wie ein Flussufer bei Hochwasser wie eine Stadt die brennt wie ein Leben das man nicht halten kann egal wie fest man zudrückt
+
+Sie beugte sich tiefer über das Blatt:
+
+*Sag mir Schwester*
+
+*Sag mir wie man etwas Lebendiges liebt ohne es zu gefährden*
+
+*Sag mir wie man etwas Lebendiges atmen lässt ohne es zu ersticken zwischen zwei Händen die nur gelernt haben loszulassen indem andere starben*
+
+*Sag mir wie man etwas Lebendiges beschützt ohne es in denselben Käfig zu sperren aus dem man selbst gerade erst gelernt hat durchs Gitter zu sehen*
+
+*Sag mir wie du es geschafft hast damals damals in Maschhad damals bevor alles brannte damals als wir noch Schwestern waren wirklich Schwestern Fleisch von meinem Fleisch Atem von meinem Atem Leben von meinem Leben*
+
+*Sag mir wie du geliebt hast ohne Angst*
+*Ohne Rechnung*
+*Ohne den Schatten dessen der dich jederzeit nehmen könnte*
+
+Die Feder lag still auf dem Papier.
+
+Fatima wartete auf eine Antwort aber natürlich kam keine denn Tote antworten nicht denn Tote sind still denn Tote haben nichts mehr zu sagen denn Tote sind fertig mit Fragen fertig mit Antworten fertig mit dem ganzen Geschäft des Lebens das nur daraus besteht Dinge zu beginnen die man niemals beenden wird
+
+Sie faltete den Brief sorgfältig exakt Strich für Strich presste jede Kante mit dem Fingernagel glatt stopfte ihn ins Federetui unter all die anderen Briefe all die anderen Geständnisse all die anderen Fragen auf die niemand antworten würde
+
+Dann blies sie die Lampe aus
+
+Im Dunkeln spürte sie ihn noch einmal ganz kurz ganz leicht ganz fern wie eine Berührung durch Filz hindurch – seinen Blick seine Pausen sein Schweigen
+
+Etwas Lebendiges
+
+Das erste seit zwanzig Jahren
+
+Und jetzt wusste jeder davon
+
+Der Wind draußen drückte gegen das Zelt drückte gegen ihre Stirn drückte gegen ihren Atem drückte gegen alles was noch stand
+
+Und Fatima saß da
+Hielt ihre Hände ineinander
+Und wartete
+Auf nichts
+
+---
+
+## 19. Beförderung
+
+Die Vorladung kam am frühen Morgen, bevor der Tau von den Zeltstricken gefallen war.
+
+Ein Bote stand vor Juvainis Quartier – kein gewöhnlicher Laufbursche, sondern einer jener stillen Männer mit dem blauen Gürtel, die ausschließlich im Dienst der Regentin liefen und deren Erscheinen am Morgen selten Gutes bedeutete. Er überreichte ein gefaltetes Papier ohne Erklärung, ohne Blickkontakt, und war verschwunden, bevor Juvaini das Siegel gebrochen hatte.
+
+Das Siegel war das der Regentin.
+
+Er las die drei Zeilen zweimal. Dann ein drittes Mal, weil er sichergehen wollte, dass er nichts übersah. Es gab nichts zu übersehen. Der Text war von vollkommener Klarheit, wie alles, was aus Töregenes Kanzlei kam, und diese Klarheit war die beunruhigendste Eigenschaft des Schreibens: Es ließ keinen Raum für Deutung. Ata-Malik Juvaini, Schreiber der Kanzlei, möge sich am Mittag des heutigen Tages in den Empfangsraum der Regentin begeben.
+
+Er faltete das Papier zweimal, steckte es in seinen Ärmel und stand lange am Zelteingang, ohne hinauszutreten.
+
+Rechne mit allem außer Freundlichkeit, sagte er sich.
+
+Der Morgen war heiß und trocken, wie alle Morgen dieses Sommers 1244. Der Staub Karakorums lag wie ein feines Tuch über allem, über den Zelten und Jurten, über den Stallungen und den Kanzleigebäuden aus gebranntem Lehmstein, über dem silbernen Baum des Goldschmieds Boucher, der im Innenhof des Palastes stand und dessen Äste im Windstillen reglos hingen. Der Geruch von Pferdemist und gekochtem Hammelfleisch zog durch die Gassen. Irgendwo hämmerte jemand Eisen. Irgendwo schrie ein Kind.
+
+Juvaini wusch sein Gesicht mit dem Wasser aus dem Tonkrug, zog seine beste Robe an – die blaue mit dem bestickten Kragen, die er nur zu Audienzen trug – und knotete seinen Gürtel mit einer Sorgfalt, die er sich selbst nicht ganz erklären konnte. Als sei äußere Ordnung ein Schutz gegen das, was von innen drückte.
+
+Er rechnete mit allem außer Freundlichkeit.
+
+Und genau die kam.
+
+Der Empfangsraum der Regentin war kleiner, als er ihn sich vorgestellt hatte – ein niedriger, quadratischer Raum mit Filzwänden, auf denen Muster in Rot und Gold eingearbeitet waren, und einem Boden aus geflochtenen Matten. Der Geruch von Räucherwerk hing schwer in der Luft, süßlich und harzig zugleich, und das Licht fiel durch einen schmalen Spalt in der Decke und schnitt einen schrägen Streifen in den Raum. Töregene saß auf einem niedrigen Podest, gekleidet in Seide von einem Blauton, der an das Innere eines Muscheltiers erinnerte. Neben ihr, etwas zurückgesetzt, saß Fatima.
+
+Juvaini sah sie sofort. Er konnte nicht anders.
+
+Sie saß vollkommen still, die Hände im Schoß gefaltet, das Gesicht eine glatte, unbewegliche Fläche. Kein Lächeln, keine Anspannung, kein Zucken um den Mundwinkel. Sie war eine Wand. Eine sehr schöne, sehr kalte Wand. Er registrierte das und wandte den Blick ab, bevor er zu lange verweilt hatte.
+
+Er verbeugte sich vor der Regentin.
+
+„Setzt Euch", sagte Töregene.
+
+Er setzte sich auf das Kissen, das ein Diener vor das Podest geschoben hatte, und wartete. Die Regentin betrachtete ihn mit dem Ausdruck eines Menschen, der etwas prüft, von dem er bereits weiß, dass es gut ist – eine Prüfung der Form halber, nicht der Erkenntnis halber.
+
+„Ich habe Eure Briefe gelesen", sagte sie schließlich. „Die an den Gouverneur von Buchara. Die Zusammenfassung der Steuerregister aus den westlichen Provinzen. Den Bericht über die Ernte in Samarkand." Sie machte eine kurze Pause. „Ihr habt eine gute Hand."
+
+„Ihr seid gnädig, Herrin."
+
+„Ich bin nicht gnädig", sagte sie, und der Ton war nicht unfreundlich, sondern präzise. „Ich sage, was ich sehe. Gnädig ist ein Wort für Priester und Bittende." Sie lehnte sich leicht vor. „Ich habe noch etwas gelesen. Ein Gedicht."
+
+Die Stille, die folgte, dauerte vielleicht drei Herzschläge.
+
+Juvaini hielt den Atem an.
+
+Töregene zitierte:
+
+„Der Schreiber trägt kein Schwert, doch seine Hand / schneidet tiefer als Eisen in das Land."
+
+Ihre Aussprache des Persischen war schwer, die Vokale zu breit, die Konsonanten zu hart – aber die Worte waren die seinen. Er erkannte sie so sicher, wie man sein eigenes Gesicht im Wasser erkennt. Es waren die ersten beiden Zeilen eines Gedichts, das er vor drei Monaten in sein Notizbuch geschrieben hatte. Nur in sein Notizbuch.
+
+Er verstand sofort.
+
+Sie weiß alles.
+
+Die Erkenntnis kam nicht als Schock, sondern als stille, schwere Klarheit, wie das Absinken eines Steins in tiefes Wasser. Er hatte nicht damit gerechnet – nein, das stimmte nicht. Er hatte damit gerechnet, aber nicht damit, dass es so beiläufig serviert werden würde, als Kompliment verkleidet, als Lob, als Beweis ihrer Aufmerksamkeit. Das war die Raffinesse daran. Sie zeigte ihm, dass sie sein Notizbuch kannte, und sie tat es mit einem Lächeln.
+
+„Ein hübscher Vers", sagte Töregene. „Vielleicht ein wenig selbstbewusst. Aber das gehört sich für einen jungen Mann."
+
+„Ihr seid zu gütig, Herrin."
+
+„Ich sagte doch: Ich bin nicht gütig." Aber sie lächelte dabei. „Ich schätze Präzision. Ihr seid präzise. Eure Feder und Euer Kopf arbeiten zusammen. Das ist selten."
+
+Juvaini wartete. Er wusste, dass das Eigentliche noch kommen würde.
+
+Es kam.
+
+„Arghun Aqa reist in drei Tagen in den Westen ab", sagte Töregene. „Er braucht einen Schreiber, der Persisch und Mongolisch beherrscht, der mit Steuerregistern umgehen kann und der versteht, wie man einen Brief formuliert, der eine Drohung enthält, ohne eine Drohung zu sein." Sie betrachtete ihn ruhig. „Ich habe ihm Euren Namen genannt. Er ist einverstanden."
+
+Ehre. Aufstieg. Entfernung. Drei Worte für dasselbe.
+
+Juvaini saß still und spürte, wie sich die Konturen des Raumes verschoben, wie Wände sich bewegten ohne sich zu bewegen. Der Westen. Die Provinzen. Weg von Karakorum. Weg von der Kanzlei. Weg.
+
+Er erlaubte sich einen einzigen Blick zu Fatima.
+
+Nichts.
+
+Ihre Hände lagen im Schoß. Ihr Gesicht war glatt. Ihre Augen ruhten auf einem Punkt irgendwo über seiner linken Schulter, als sei er nicht im Raum, als sei er bereits abgereist, als existiere er in dieser Version der Wirklichkeit bereits nicht mehr. Kein Zucken. Keine Anspannung. Keine Wärme und keine Kälte, denn beides hätte etwas verraten. Nur das vollkommene, meisterhafte Nichts einer Frau, die gelernt hatte, ihr Gesicht als Schutzwall zu bauen.
+
+Er verstand auch das sofort.
+
+Ihre Maske war ihr Geschenk an ihn. Das einzige, das sie ihm noch geben konnte.
+
+„Ich bin geehrt", hörte er sich sagen. Die Worte kamen aus einem Teil von ihm, der weiterarbeitete, während der andere Teil noch versuchte, den Boden unter den Füßen zu finden. „Arghun Aqa ist ein Mann von großem Ansehen."
+
+„Er ist ein Mann, der überlebt", sagte Töregene. „Das ist mehr wert als Ansehen." Sie machte eine kurze Geste mit der Hand, die Abschluss bedeutete. „Ihr werdet ihm morgen vorgestellt. Bereitet Euer Gepäck vor."
+
+Das war alles. Er war entlassen.
+
+Er stand auf, verbeugte sich, und seine Augen streiften ein letztes Mal Fatimas Gesicht.
+
+Nichts.
+
+Er trat hinaus in den Staub und die Hitze des Sommers.
+
+Arghun Aqa empfing ihn am Nachmittag in einem der Kanzleiräume, einem länglichen, niedrigen Raum mit Regalen voller Aktenbündel und dem Geruch von altem Leder und Tinte. Er war ein Mann mittlerer Größe, mittleren Alters, mit einem Gesicht, in dem nichts Überflüssiges stand – keine Grausamkeit, keine Wärme, keine Großzügigkeit und keine Enge. Ein Gesicht, das Kompetenz ausdrückte wie ein gut geschmiedetes Werkzeug. Er betrachtete Juvaini mit der ruhigen Aufmerksamkeit eines Mannes, der Menschen schnell einschätzte und selten falsch lag.
+
+„Ihr schreibt Persisch und Mongolisch", sagte er. Kein Fragezeichen.
+
+„Ja."
+
+„Arabisch?"
+
+„Etwas. Genug für Verträge."
+
+Arghun Aqa nickte. „Ich brauche jemanden, der die Steuerregister der westlichen Provinzen neu ordnet. Die alten sind ein Chaos – drei Schreiber, drei Systeme, niemand versteht, was der andere meinte." Er zog einen Aktenstapel hervor und legte ihn auf den Tisch zwischen ihnen. „Seht Euch das an."
+
+Juvaini sah sich das an. Es war tatsächlich ein Chaos.
+
+„Ich kann das in Ordnung bringen", sagte er.
+
+„Gut." Arghun Aqa nahm die Akte wieder. „Wir reisen in drei Tagen. Morgen früh Überprüfung des Gepäcks, nachmittags Briefings mit meinen anderen Schreibern. Habt Ihr Fragen?"
+
+Juvaini hatte eine Frage, aber nicht die Art, die man stellen konnte. Er schüttelte den Kopf.
+
+„Dann bis morgen früh."
+
+Er verließ die Kanzlei und stand wieder im Staub. Die Sonne stand tief genug, um lange Schatten zu werfen, und der Geruch von Hammelfleisch und Rauch zog durch die Gassen, und irgendwo hämmerte noch immer jemand Eisen, als habe die Welt keine Kenntnis davon genommen, dass sich soeben etwas Unwiderrufliches vollzogen hatte.
+
+Er fand Fatima am Abend.
+
+Oder sie fand ihn – er war nie sicher, wie es geschehen war, ob es Zufall gewesen war oder Absicht, ob sie gewusst hatte, dass er an jenem schmalen Durchgang zwischen dem Lagerhaus und dem Kanzleigebäude vorbeikommen würde, oder ob sie selbst zufällig dort stand, in dem kurzen Moment, in dem das Licht des Abends schräg durch den Spalt zwischen den Gebäuden fiel und den Staub in der Luft golden färbte.
+
+Sie stand dort, ein Bündel Papiere unter dem Arm, und als er um die Ecke trat, hielt sie inne.
+
+Für einen Moment sahen sie sich an.
+
+Dann sagte er: „Ich weiß, wann ich abgehe."
+
+„Ich weiß", sagte sie.
+
+„Drei Tage."
+
+„Ich weiß."
+
+Die Papiere unter ihrem Arm raschelten leicht im Wind. Irgendwo in der Ferne rief jemand einen Namen. Das Licht wurde röter, tiefer, und der Staub tanzte in ihm wie etwas Lebendiges.
+
+„Gebt mir einen Brief", sagte er. Er hörte selbst, wie die Bitte klang – zu direkt, zu nackt, ohne die Schicht von Höflichkeit, die man hier brauchte wie Wasser in der Wüste. „Etwas zum Mitnehmen. Nur ein Satz. Ich werde ihn nicht zeigen."
+
+Fatima betrachtete ihn.
+
+Ihre Augen waren nicht kalt. Das war das Schwierigste daran – sie waren nicht kalt, sie waren nur still, wie ein Brunnen still ist, der tief geht.
+
+„Papier reist schlecht", sagte sie. „Menschen auch."
+
+Er öffnete den Mund.
+
+„Nein", sagte sie, bevor er sprechen konnte. Nicht hart. Nur endgültig. „Kein Brief. Kein Papier. Nichts, das jemand finden kann."
+
+„Dann nichts."
+
+„Nicht nichts."
+
+Sie stand einen Moment still, und er sah, wie sie etwas in sich abwog, etwas sortierte und ordnete wie Aktenbündel auf einem Regal, und dann sagte sie, leise und ohne Betonung, als sei es eine Anweisung für die Kanzleiarbeit:
+
+„Schreib weiter. Schreib immer weiter."
+
+Er wartete auf mehr.
+
+Es kam nicht mehr.
+
+„Das ist alles?", sagte er.
+
+„Das ist alles."
+
+Er betrachtete sie – die Stille in ihrem Gesicht, die Papiere unter ihrem Arm, den Staub um ihre Füße, das rote Licht, das ihr Profil in etwas schnitt, das er nicht benennen konnte.
+
+„Das reicht nicht", sagte er.
+
+„Nein", sagte sie. „Es reicht nicht. Aber es ist das Einzige, das ich dir mitgeben kann, ohne dich zu gefährden."
+
+Das war das erste Mal, dass sie das Wort verwendete. Dich. Nicht Euch. Nicht den höflichen Abstand, der zwischen Schreibern üblich war, nicht die Formalität, die alles glatt und sicher hielt. Dich. Ein einziges, kleines Wort, das alles enthielt, was sie nicht sagen würde.
+
+Er verstand es.
+
+Er verstand auch, dass es das letzte Mal sein würde.
+
+„Schreib weiter", sagte er. Nicht als Frage. Als Bestätigung.
+
+Sie nickte einmal, kurz, und dann war sie gegangen, um die Ecke, weg in den Abend, und er stand allein in dem schmalen Durchgang, und der Staub tanzte noch immer im roten Licht, und das Eisen hämmerte noch immer irgendwo in der Ferne, und er dachte: Schreib weiter.
+
+Er dachte es noch einmal.
+
+Schreib immer weiter.
+
+Die drei Tage vergingen wie alle Tage in Karakorum vergingen – zu schnell und zu langsam zugleich, mit zu viel Arbeit und zu viel Zeit zum Denken. Er packte sein Gepäck: die Robe, die Tintenfässer, das Notizbuch mit den Gedichten, das er sorgfältig in Leder wickelte und ganz unten in den Sack steckte. Er saß in den Briefings mit Arghun Aqas anderen Schreibern und lernte die Namen der Provinzen, die Struktur der Steuerregister, die Hierarchie der lokalen Beamten. Er aß, schlief, wachte auf.
+
+Er sah Fatima nicht wieder.
+
+Das war keine Zufälligkeit; das wusste er. Sie hatte die Entfernung eingerichtet mit derselben Präzision, mit der sie Briefe formulierte – kein Wort zu viel, keine Geste, die ausgelegt werden konnte. Sie schützte ihn. Noch immer. Bis zum letzten Morgen.
+
+Am dritten Tag stand er vor dem Stadttor und wartete, während die Pferde gesattelt und die Packbündel verladen wurden. Arghun Aqa ritt auf ihn zu, prüfte kurz die Ordnung des Zugs, nickte Juvaini zu.
+
+„Fertig?"
+
+„Fertig."
+
+„Gut." Arghun Aqa wandte sein Pferd. „Wir reiten bis zum Abend. Morgen früh sind wir aus dem Staub raus."
+
+Juvaini bestieg sein Pferd. Das Tier war ruhig, ein graubrauner Wallach mit breitem Rücken und dem geduldigen Blick eines Tieres, das viele Reisen hinter sich hatte. Er saß im Sattel und sah zurück auf Karakorum – die Jurten und Lehmgebäude, den Palast, den silbernen Baum, der in der Morgensonne glänzte wie ein Versprechen oder eine Lüge, je nachdem, wie man es sah.
+
+Er suchte nicht nach ihr.
+
+Er wusste, dass sie dort war, irgendwo hinter den Wänden und Zelten, hinter ihrer Maske und ihrer Stille und ihren Papieren. Er wusste, dass sie nicht am Tor stand. Das war nicht ihre Art. Ihr Abschied war bereits gegeben worden, in einem schmalen Durchgang im roten Licht, mit drei Worten, die keine Liebeserklärung waren und doch alles enthielten, was eine Liebeserklärung enthält: die Sorge um den anderen, das Wissen um seine Natur, den Wunsch, dass er überlebt.
+
+Schreib weiter. Schreib immer weiter.
+
+Er würde es tun.
+
+Der Zug setzte sich in Bewegung. Arghun Aqa ritt an der Spitze, ruhig und aufrecht, ein Mann, der wusste, wohin er ritt und warum. Juvaini ritt dahinter, und der Staub stieg unter den Hufen auf, und Karakorum schrumpfte hinter ihm, und der Himmel war weit und blau und gleichgültig über allem.
+
+Er dachte an Töregenes Gesicht, als sie sein Gedicht zitiert hatte. Die beiläufige Freundlichkeit, mit der sie ihm gezeigt hatte, dass sie alles wusste. Er dachte an die Frage, die er sich nicht beantworten konnte und die wie ein Stein in ihm lag, schwer und ungelöst: Hatte sie ihn entfernt, weil sie Fatima besaß und nichts mit ihr teilte – oder hatte sie ihn entfernt, um ihn vor dem zu schützen, was kommen würde? War es Eifersucht gewesen? War es Voraussicht?
+
+Er wusste es nicht.
+
+Er würde es nicht wissen.
+
+Vielleicht war das dieselbe Frage.
+
+Der Staub legte sich auf seine Robe, auf seine Hände, auf das Leder, das sein Notizbuch umhüllte. Karakorum war nicht mehr zu sehen. Arghun Aqa ritt ruhig und schweigend, und die anderen Schreiber ritten schweigend, und die Eskorte ritt schweigend, und die Welt war Staub und Himmel und das ferne Grollen eines Sturms irgendwo im Norden.
+
+Schreib weiter.
+
+Er griff in den Sack, ohne abzusteigen, und tastete nach dem Leder, das das Notizbuch umhüllte. Es war da. Es war immer da gewesen.
+
+Schreib immer weiter.
+
+Er ließ es los und ritt weiter in den Westen.
+
+---
+
+## 20. Der Fluch
+
+Das Fieber kam aus dem Nichts, wie ein Reiter in der Nacht, den niemand kommen sah.
+
+Köden erwachte mit Schüttelfrost, die Zähne schlugen aufeinander wie Hufe auf Stein. Die Wachen am Eingang des Zeltes hörten ihn stöhnen, fanden ihn in einer Lache aus Schweiß und zerknüllten Decken, das Gesicht grau wie Asche, die Augen verdreht, die Lippen blau.
+
+Am Morgen wusste die gesamte Ordu Bescheid.
+
+Fatima erfuhr es von einer Dienerin, die ihren Tee brachte: „Prinz Köden ist krank, Herrin. Die Heiler sind gerufen.“ Die Frau senkte die Stimme. „Sie sagen, es sei die schwarze Galle. Vielleicht ein Fluch.“
+
+Fatima nahm die Schale entgegen, trank einen Schluck und sagte nichts.
+
+Flüche waren nützlich. Flüche waren eine Erklärung, die keine Medizin brauchte. Flüche gaben einem sterbenden Prinzen einen Sinn, den das bloße Versagen des Körpers nicht liefern konnte.
+
+Sie zog sich an und ging zum Krankenzelt.
+
+Der Geruch traf sie schon vor dem Eingang: verbrannte Kräuter, ranziges Fett, Schweiß und etwas Süßliches, das sie nicht benennen konnte. Der Gestank des Sterbens. Sie kannte ihn aus Chorasan, aus den Tagen, als die Stadt fiel und die Luft voll war von brennendem Fleisch und offenen Wunden. Ein Geruch, der sich ins Gedächtnis grub wie ein Messer.
+
+Drinnen war es heiß. Zu heiß für den Herbst. Kohlenbecken glühten in den Ecken, warfen flackernde Schatten an die Zeltwände. Heiler drängten sich um das Lager, drei Männer in groben Leinenkleidern, ein Lama in safranfarbener Robe, zwei Schamanen mit Rasseln und Trommeln. Sie arbeiteten nebeneinander, sprachen in verschiedenen Sprachen, aber alle suchten dasselbe: eine Tür, durch die das Leben zurückkehren konnte.
+
+Köden lag auf einer Matte aus gefilzter Wolle, das Hemd geöffnet, der Oberkörper nass von feuchten Tüchern. Seine Augen waren geschlossen, sein Atem flach und unregelmäßig. Ab und zu zuckte sein Körper, als schlage etwas gegen ihn an, von innen.
+
+Töregene stand am Fußende des Lagers. Sie trug keine Kopfbedeckung, ihr Haar hing lose herab, das Gesicht unbewegt. Ihre Hände lagen auf dem Gürtel, flach, still, als hätte sie sie dort festgeklebt.
+
+Fatima trat neben sie.
+
+„Wie lange?“, fragte sie leise.
+
+„Drei Tage“, antwortete Töregene, ohne den Blick von ihrem Sohn zu nehmen. „Die Heiler sagen, es sei die Galle. Sie sagen, es sei ein Ungleichgewicht. Sie sagen, es sei Dämonenfieber. Sie sagen vieles, aber nichts hilft.“
+
+„Was sagt der Lama?“
+
+„Er betet. Bisher ohne Ergebnis.“ Eine Pause. „Die Schamanen tanzen. Die Heiler machen ihre Arbeit. Sie schöpfen aus einer Quelle, die kein Wasser mehr gibt. Aber sie schöpfen trotzdem, weil sie bezahlt werden, um zu schöpfen, und weil sie Angst haben, mir zu sagen, dass sie nichts tun können.“ Töregene wandte den Kopf, nur einen Fingerbreit. „Hast du schon von den Gerüchten gehört?“
+
+„Ein Fluch“, sagte Fatima.
+
+„Ein Fluch. Genau.“ Töregenes Stimme war ruhig, aber ihre Kiefer mahlten. „Es ist immer ein Fluch. Nie der Körper. Nie das Alter. Nie der Zufall. Immer ein Fluch. Immer jemand, der ihn ausgesprochen hat. Immer jemand, der dafür bezahlen wird.“ Sie drehte den Kopf zurück zu Köden. „Die Menschen brauchen eine Ursache, Fatima. Sie brauchen etwas, das sie anfassen können, in das sie hineinbeißen können. Sonst ist der Tod nur sinnlos, und das können sie nicht ertragen. Sie müssen ihn reich machen, voller Bedeutung, voller Schuld. Sie müssen jemanden finden, der sie befreit von der Tatsache, dass der Körper irgendwann aufgibt, und dass sie nichts dagegen tun können.“
+
+Sie sprach weiter, leise, wie zu sich selbst:
+
+„Gestern Abend rief Köden nach dir. Im Fieber. Er sagte deinen Namen.“
+
+Fatima erstarrte.
+
+„Was hat er gesagt?“
+
+„Nichts, das Sinn ergab. Bruchstücke. Namen, die ich nicht kannte. Orte, an denen er nie gewesen war. Und dann deinen Namen. Einmal. Deutlich. ‚Fatima‘.“ Töregene wandte sich ihr jetzt voll zu. „Rate, was die Heiler daraus machen, während ich ihnen dabei zusehe, wie sie meinen Sohn langsam sterben lassen, weil ihre Hände zu dumm sind, um ihn zu retten, und ihre Zungen zu geschwind, um zu schweigen.“ Sie ließ eine Pause. „Sie sagen, du habest ihn verflucht. Sie sagen, du seist eine Hexe aus dem Westen, die im Reich des Khans nichts zu suchen habe. Sie sagen, ich hätte dich besser nicht in meine Nähe gelassen. Sie sagen, deine Augen seien falsch, deine Hände kalt, deine Worte Gift. Sie sagen, du wärst gekommen, um das Haus des Khans zu zerstören, und du hattest nur darauf gewartet, mit einem Fluch zuzuschlagen, der den Sohn der Regentin trifft, den einzigen Sohn, der ihr treu geblieben ist, während alle anderen gegen sie arbeiten.“
+
+Fatima hörte zu. Die Worte brannten nicht. Sie kannte diese Melodie aus zwanzig Jahren. Sie hatte andere Versionen gehört. „Die Sklavin aus Chorasan. Die Diebin von Macht. Die Schattenkanzlerin.“ Sie lächelte nicht. „Ich habe sie alle gehört. Sie sind nur Worte, Khatun. Sie ändern nichts an der Tatsache, dass ich hier stehe, und dass ich bleibe, solange du es willst. Solange du es brauchst. Solange du mich nicht wegschickst und solange ich noch atme. Deine Entscheidung. Immer deine Entscheidung, Khatun. Du hast mich geholt. Du kannst mich gehen lassen. Jederzeit. Ein Wort. Ein Blick. Ein Satz im Fieber eines sterbenden Prinzen, der gesprochen wird, weil er ein Zeichen braucht, und weil er nicht an den Tod glaubt, wenn er keine Farbe hat, wenn er keine Stimme hat, wenn er kein Gesicht hat, das er erkennen kann. Du hast mich geholt, du kannst mich gehen lassen. Ich werde dir nicht widersprechen. Nicht heute. Nicht morgen. Keine Woche. Kein Monat. Kein Jahr, das mir bleibt, um zu vergessen, wo ich geboren wurde, wo meine Schwester starb, wo mein Leben zu etwas geriet, das ich nicht wählen durfte, auch wenn es mein Leben war und bleibt, solange ich atme, schreibe, diene, vergehe. Deine Entscheidung, Khatun. Immer deine Entscheidung, Khatun. Immer deine Entscheidung, Khatun, auch wenn du sie nicht triffst, und der Fluch mich trifft, weil ich hier stehe und rede, und meine Finger zittern, und du es siehst, du siehst es, du siehst mich, und du wirst entscheiden.“ Er zitterte. Seine Hände zitterten auf den Tüchern, und seine Zähne schlugen aufeinander mit einem Geräusch, das alle im Zelt gehört haben müssen.
+
+Der Heiler trat zurück. Der Lama hörte auf zu beten. Die Schamanen ließen die Rasseln sinken.
+
+Ködens Stimme war leise, kaum ein Flüstern, aber im Zelt hätte man eine Feder fallen hören:
+
+„Fatima…“
+
+Der Name hing im Raum wie Rauch, der sich nicht verziehen wollte.
+
+Die Heiler sahen sich an. Der Lama senkte den Kopf. Die Schamanen murmelten etwas in einer Sprache, die keiner verstand, die aber von alten Giften und Rache sprach, die man nicht vergessen sollte.
+
+Töregene rührte sich nicht. Sie stand neben dem Lager ihres Sohnes, und ihr Gesicht war unbewegt wie Stein.
+
+Fatima hielt ihren Atem an.
+
+Sie hörte, wie die Stille sich füllte mit dem, was nicht gesagt worden war: mit Anklage, mit Misstrauen, mit Gewissheit. Die Gewissheit, dass der Name eines Menschen, ausgesprochen im Fieber eines Sterbenden, eine Beweiskraft haben kann, die alle Logik übertrifft. Die Gewissheit, dass der Hof einen Sündenbock brauchte, und dass sie ihn hatte, dass sie ihn schon immer gehabt hatte, seit dem Tag, an dem sie zum ersten Mal das Zelt der Regentin betreten hatte, seit dem Tag, an dem man ihren Namen zum ersten Mal geflüstert hatte: Die Chorasanerin.
+
+Töregene hob den Kopf.
+
+„Ihr habt gehört, was mein Sohn gesagt hat“, sagte sie.
+
+Ihre Stimme war leise, aber sie trug durch das ganze Zelt.
+
+„Er hat ihren Namen genannt. Im Fieber. Der Name der Frau, die vor ihm steht. Meiner Dienerin. Meiner Schreiberin. Der Frau, der ich vertraue, seit ich denken kann. Eine Frau, die ich nach dem Tod meines Mannes an meiner Seite behalten habe, als alle anderen mich verlassen haben oder mir misstraut oder gegen mich gearbeitet haben. Eine Frau, die nie etwas getan hat, um einen Fluch zu verdienen, es sei denn, man hält Treue für einen Fluch, und Dienst für einen Fluch, und Überleben in einer Welt, die Sklavinnen wie sie verhökert wie Vieh, für einen Fluch. Ihr habt eure Arbeit gemacht. Ihr habt gehört. Ihr habt gesehen. Ihr habt eure Schlüsse gezogen. Aber ihr habt auch diesen Satz gehört, den ich jetzt ausspreche, und ich sage ihn einmal, und ihr werdet ihn sofort verstehen: Wenn meine Dienerin ein Fluch wäre, hätte ich ihn schon vor zwanzig Jahren an mir selbst gespürt. Ich fühle nichts. Ich fühle nur den Verlust eines Sohnes, der mir durch die Finger rinnt wie Sand, und den Geruch von Kräutern, die nicht wirken, und diesen einen Satz, den ihr jetzt hören werdet: Hier wird niemand angeklagt. Niemand. Solange ich hier stehe. Solange ich noch Regentin dieses Reiches bin. Solange ich noch die Zügel in der Hand halte, die Männer geführt haben, die dreißig Jahre lang kein Volk besiegt haben, keine Stadt erobert, kein Gesetz gegeben haben – solange ich noch die Waage halte, die Ögedei mir gegeben hat, als er noch lebte und vertraute, solange habe ich das Wort. Und mein Wort ist: Wir suchen keine Ursachen. Wir suchen einen Heiler, der diesen Mann gesund macht, den Mann, der Fleisch von meinem Fleisch ist und Knochen von meinen Knochen, und wenn ich noch einen Satz höre, der nicht von der Heilung spricht, sondern von der Anklage, werde ich die Zunge entfernen, die ihn gesprochen hat, und den Körper, der ihn getragen hat. Das ist mein Wort. Das letzte Wort in diesem Zelt. Das letzte Wort, bevor ich gehe und den nächsten Heiler hole. Verstanden?“
+
+Niemand sprach. Die Heiler standen still. Der Lama verneigte sich. Die Schamanen wichen zurück.
+
+Fatima sah Töregene an.
+
+Die Regentin hatte die Wahl getroffen: öffentlich, eisig, kompromisslos.
+
+Aber in den Sekunden, die auf die Stille folgten, in den winzigen Zehnteln von Atemzügen, in denen sich die Heiler wieder an die Arbeit machten und die Schamanen ihre Rasseln hoben und der Lama zu beten begann – in diesen winzigen Nadelstichen der Zeit fühlte Fatima etwas anderes.
+
+Töregene hatte sie beschützt. Das war die Nachricht, die alle hören sollten.
+
+Aber Töregene hatte auch etwas gezeigt: Sie hatte sich zwischen Sohn und Dienerin stellen müssen. Sie hatte wählen müssen. Das war eine Wahl, die sie nie hätte treffen müssen, wenn die Fieberträume ihres Sohnes ihn nicht dazu gebracht hätten, den Namen einer Frau aus Chorasan zu rufen, deren Anwesenheit am Hof schon immer ein Problem gewesen war, ein Stein im Schuh, der nicht wegging.
+
+Töregene wandte sich ihr zu. „Geh, Fatima. Ich will dich heute nicht mehr im Zelt. Nicht vor dem Abendessen. Geh. Ruhe dich aus. Sieh zu, dass du isst. Du siehst aus, als hättest du seit Tagen nicht geschlafen.“ Eine Pause. „Wir reden später. Aber nicht jetzt. Jetzt möchte ich mit meinem Sohn allein sein. Ganz allein. Ohne Heiler. Ohne Schwestern. Ohne Diener. Nur ich und er, wie es war, als er noch klein war und Fieber hatte, und ich ihm die Stirn kühlte, und er mich nannte, wie er mich immer nannte: Die, die bleibt. Geh, Fatima. Geh jetzt. Tu mir den Gefallen. Tu mir den Gefallen, den ich dir nicht befehlen kann, weil er nichts mit Befehl zu tun hat, sondern mit dem, was du für mich bedeutest, und mit dem, was mein Sohn gerade getan hat, obwohl er es nicht wusste, obwohl er nicht wollte, obwohl er nicht schuld ist an dem, was er im Fieber denkt oder sagt oder tut oder wünscht. Geh, Fatima. Lass mich trauern, bevor er stirbt. Lass mich trauern, während er noch lebt, und der Schmerz noch nicht das Ende ist, sondern die Mitte, und ich ihn noch berühren kann, seine Hand halten, seinen Namen sagen, seine Stirn kühlen, bevor er mich verlässt auf eine Reise, von der ich nicht weiß, wohin sie führt, und ob es Worte gibt, die ich ihm mitgeben kann, die ihm helfen, den Weg zu finden, und ob ich je wieder atmen werde, wenn er mich verlassen hat. Geh, Fatima. Geh. Ich kann es dir nicht zweimal sagen. Geh jetzt. Bitte. Geh. Geh. Geh. Geh. Geh. Geh…
+
+Töregene sprach nicht weiter. Sie nahm die Hand ihres Sohnes.
+
+Fatima ging.
+
+Draußen war der Himmel grau. Der Wind trug den Geruch von Pferden und verbranntem Mist. Die Ordu summte wie ein Bienenschwarm, die Wachen standen an ihren Posten, die Diener eilten zwischen den Zelten hin und her. Keiner sah sie an. Keiner sprach sie an. Aber sie wusste: Der Name war gefallen. Der Keim war gesät. Die Ernte würde kommen.
+
+Das Fieber stieg in den nächsten Tagen wie eine Flut, die nicht mehr zurückweichen wollte.
+
+Heiler kamen. Heiler gingen. Der Lama brachte geschriebene Gebete, die er unter Ködens Kopfkissen legte. Die Schamanen tanzten drei Nächte lang, ihre Silhouetten zuckten im Schein der Feuer gegen die schwarze Leinwand des Zeltes. Der Arzt aus Buchara, der auf der Durchreise war, verordnete Aderlass – ein halber Liter Blut, das dick und dunkel in die Schale rann, aber keinen Unterschied machte. Ein Kräuterhändler aus Samarkand schickte getrocknete Wurzeln, die zu einem Brei zerstampft wurden, den Köden nicht bei sich behalten konnte.
+
+Der Prinz magerte ab. Seine Wangen fielen ein, die Haut spannte sich über die Knochen wie Pergament über einen Rahmen. Seine Hände zitterten, auch wenn er schlief. Seine Lippen rissen auf, der Schweiß trocknete weiß auf seiner Stirn.
+
+Töregene wich nicht von seiner Seite. Sie aß neben ihm, trank Tee neben ihm, schlief auf einer Filzmatte am Fußende seines Lagers, die Knie angezogen, den Kopf auf die Hände gestützt. Sie sprach wenig, und wenn sie sprach, dann in kurzen, knappen Sätzen: „Wasser.“ „Holt den Heiler.“ „Wascht ihn.“ „Löscht das Feuer.“ „Lasst mich eine Stunde allein mit ihm. Eine Stunde. Auf die Minute genau. Ich rufe, wenn ich euch brauche. Ich rufe, wenn er etwas braucht. Ich rufe, wenn ich nicht mehr kann. Ich rufe, wenn er…“ Sie vollendete den Satz nicht.
+
+Am vierten Tag trat der Älteste der Heiler zu ihr. Er zog den Vorhang zwischen dem Krankenlager und dem äußeren Raum zu, kniete nieder, senkte den Kopf.
+
+„Khatun“, sagte er leise. „Ich muss mit dir sprechen. Über das, was wir sehen. Über das, was wir nicht sehen, und über das, was wir tun können, und über das, was wir nicht tun können, und über das, was wir nicht verhindern können, wenn es so weitergeht. Khatun. Der Prinz hat aufgehört, Flüssigkeiten aufzunehmen. Sein Puls ist schwach, seine Haut kühl, seine Augen verfärben sich. Er sieht Dinge, die nicht da sind. Er spricht mit Menschen, die gestorben sind. Er ruft Namen, die niemand kennt, und Namen, die alle kennen. Sein Körper gibt auf, Khatun. Nicht seine Seele, aber sein Körper. Der Körper ist nicht ewig, Khatun. Der Körper ist nicht dafür gemacht, das auszuhalten, was in ihn gefahren ist. Was in ihn gefahren ist, haben wir nicht identifizieren können. Es ist kein Fieber, das wir kennen. Es ist keine Galle, kein Schleim, kein Blut, das wir ins Gleichgewicht bringen können. Es ist etwas, das wir nicht verstehen. Etwas,
+
+---
+
+## 21. Das Kuriltai, das nicht kommt
+
+Der Morgen kam kalt über Karakorum, als die Nachricht eintraf.
+
+Shigi Qutuqu saß in seiner Kanzlei, die Hände um einen Becher mit warmem Ziegenteig gewärmt, als der Lärm von Pferdehufen vor dem Zelt anhielt. Drei Männer. Er hörte es an der Art, wie sie abstiegen – gleichzeitig, diszipliniert, ohne das übliche Zögern von Boten, die sich erst orientieren mussten. Das waren keine einfachen Kuriere.
+
+Er stellte den Becher ab, glättete den Ärmel seines Gewandes und wartete.
+
+Der Vorhang teilte sich. Ein junger Schreiber in der blauen Schärpe von Güyüks Kanzlei trat ein, gefolgt von zwei Wachen, die draußen stehen blieben. Der Schreiber war höflich, seine Verbeugung korrekt, seine Stimme präzise wie ein Schnitt.
+
+„Richter Shigi Qutuqu. Im Namen des Prinzen Güyük, Sohn Ögedeis, Enkel Dschingis Khans, ergeht die Bitte um Einsicht in die Aufzeichnungen des letzten Willens des verstorbenen Khagan.“
+
+Shigi nickte langsam. Seine Finger ruhten auf dem Tisch, bewegten sich nicht.
+
+„Die Bitte ist angekommen“, sagte er. „Welche Aufzeichnungen genau werden erfragt?“
+
+„Die Chronik des Hauses. Die Passage über den Erben. Und alle Dokumente, die den Willen des Khagan betreffen, der vor seinem Tod geäußert wurde.“
+
+Shigi hielt den Blick des jungen Mannes. Der Schreiber war gut ausgebildet, das hörte man an der Formulierung. Kein Drohen, kein Drängen. Nur eine Bitte, die keine Ablehnung vorsah.
+
+„Die Chronik des Hauses“, wiederholte Shigi. „Ein umfangreiches Werk. Drei Bände, wenn ich mich recht erinnere. Der letzte Wille des Khagan – eine mündliche Äußerung während eines Gelages, die von mehreren Zeugen unterschiedlich überliefert wird. Welcher Version wünscht Prinz Güyük Einsicht?“
+
+Der Schreiber zögerte. Eine winzige Pause. Shigi notierte sie im Kopf.
+
+„Alle vorhandenen Versionen“, sagte der Schreiber schließlich.
+
+Shigi lächelte dünn. „Dann wird der Prinz eine Weile warten müssen. Die Chronik ist nicht am Hof. Sie wird an einem sicheren Ort verwahrt, wie es üblich ist für Dokumente, deren Alter und Bedeutung eine besondere Behandlung erfordern. Ich kann sie innerhalb von drei Tagen herbeischaffen lassen.“
+
+Der Schreiber nickte, notierte etwas auf einer Wachstafel.
+
+„Drei Tage. Ich werde dem Prinzen Bericht erstatten.“
+
+„Das sollten Sie“, sagte Shigi. „Und richten Sie ihm aus, dass ich die Anfrage mit der gebotenen Sorgfalt behandele. Wie es das Gesetz verlangt. Wie ich es immer getan habe.“
+
+Der Schreiber verbeugte sich erneut und ging. Die Wachen folgten. Der Vorhang fiel zurück, und Shigi blieb allein in der Stille seiner Kanzlei, die plötzlich enger wirkte als noch am Morgen.
+
+Er stand auf. Langsam, als müsse er jeden Muskel einzeln davon überzeugen, dass Bewegung noch möglich war. Seine Beine trugen ihn zum hinteren Teil des Zeltes, wo eine schwere Holztruhe stand, die er vor Jahren von Yelü Chucai geerbt hatte. Der kitanische Gelehrte hatte sie ihm am Tag vor seinem Tod geschenkt, mit den Worten: „Wenn du etwas zu verstecken hast, versteck es an dem Ort, den niemand für möglich hält. Unter dem, was alle sehen, aber keiner ansieht.“
+
+Shigi öffnete die Truhe. Sie war gefüllt mit Schriftrollen, alten Urteilen, Briefen von Statthaltern aus Provinzen, deren Namen niemand mehr kannte. Ein Archiv von Papier, das niemandem etwas nützte und das doch als Deckmantel diente für das, was darunter lag.
+
+Er hob die oberste Lage an. Seine Hände griffen tiefer, tasteten nach dem Griff der zweiten Bodenplatte. Sie gab nach, leise, und er zog das Buch hervor.
+
+Die Chronik des Hauses. Das blau-weiße Buch, in dem die Geschichte der Familie aufgeschrieben war, die seine eigene ausgelöscht hatte. Dschingis Khan. Ögedei. Die Söhne. Die Töchter. Die Kriege. Siege. Niederlagen. Und dazwischen, fast beiläufig, ein Satz:
+
+*Und der Khagan sprach zu seinen Vertrauten: Wenn mir etwas zustößt, soll mein Enkel Shiremün auf dem Thron sitzen, denn er hat das reine Herz, das ein Herrscher braucht. Güyük ist stark, aber stark ist nicht gütig, und ein Reich braucht beides.*
+
+Shigi las den Satz zum hundertsten Mal. Er kannte ihn auswendig, hatte ihn in den langen Nächten der Korrektur immer wieder betrachtet, gewogen, befragt. Ein Satz, der alles veränderte. Ein Satz, den der Khagan in einer Stunde des Vertrauens gesprochen hatte, vielleicht im Rausch, vielleicht in Klarheit. Niemand wusste es mehr. Aber der Satz existierte.
+
+Und Güyük wusste davon.
+
+Die Logik war von einer Schärfe, die Shigi in den Knochen spürte: Der Satz war für Güyük ein Todesurteil. Er erklärte ihn für unwürdig, verriet den Willen seines Vaters, öffnete die Tür für einen Bürgerkrieg mit einem Kind als Thronfolger. Für Shiremün war der Satz ein Thron – wenn er je das Licht der Welt erblickte, wenn je eine Fraktion ihn fand und nutzte. Für den Besitzer des Textes, für den Hüter des Buches, war der Satz beides: eine Waffe und ein Ziel.
+
+Shigi schloss das Buch. Seine Hände zitterten nicht, aber er spürte die Kälte, die von den Seiten ausging, als hätte die Tinte die Temperatur des Todes angenommen.
+
+Er setzte sich auf den Boden, das Buch im Schoß, und dachte nach. Langsam. Gründlich. So, wie er es gelernt hatte in den Jahren des Richtens, als jeder Fall eine Ewigkeit wert war, weil jeder Fall ein Leben bedeutete.
+
+Er konnte das Buch aushändigen. Die Passage zeigen. Offiziell bestätigen, dass Ögedei Shiremün benannt hatte. Das Gesetz war auf seiner Seite – der letzte Wille des Khagan war der letzte Wille, keine Interpretation, keine Verhandlung.
+
+Aber er kannte Güyük. Er kannte die Zerstörungswut eines Mannes, der sich betrogen fühlte. Güyük würde das Buch nicht einfach lesen. Er würde es zerlegen. Satz für Satz, Wort für Wort, Zeuge für Zeuge, bis die Chronik nicht mehr existierte, nur noch seine eigene Version. Er würde die Passage streichen, den Boten töten, den Schreiber mundtot machen. Und Shigi selbst würde die nächste Akte sein, die er schloss.
+
+Er konnte das Buch verstecken. An einem Ort, den niemand fand. In der Steppe, in den Hügeln, in den Löchern der Erde, aus denen seine Familie einst gekrochen war, bevor Dschingis Khan sie zu Staub machte.
+
+Das war ungesetzlich. Das war Verrat. Das war ein Urteil, das er nicht fällen durfte, weil es nicht in seiner Macht lag.
+
+*Jetzt beginnt die Erbschaft*, hatte Yelü Chucai gesagt, auf dem Totenbett, seine Stimme dünn wie Pergament. *Archive sind Schlachtfelder geworden.*
+
+Shigi stand auf. Er legte das Buch auf den Tisch, öffnete es, blätterte zu der Seite. Seine Finger ruhten auf dem Satz, berührten die Buchstaben, als könne er sie spüren, die Hitze des Augenblicks, in dem Ögedei sie gesprochen hatte, die Kälte des Todes, der ihm auf den Fersen war.
+
+Dann schloss er das Buch. Langsam. Endgültig.
+
+Er rief seinen Gehilfen.
+
+Der alte Khorchin kam auf leisen Sohlen, ein Mann in den Siebzigern, dessen Gesicht von Wind und Frost gezeichnet war. Er hatte Shigi gedient, seit das Kind aus den Trümmern des Tatarenlagers gezogen worden war. Er wusste alles, ohne je zu fragen.
+
+„Ich brauche einen Reiter“, sagte Shigi. „Einen, dem ich vertraue wie mir selbst. Keinen aus dem Hofstaat. Keinen, der gesehen wird. Einen, der in die Steppe reitet und nicht zurückkommt, bevor ich es sage.“
+
+Der alte Khorchin nickte. „Jigüdei. Der Sohn deiner Schwester. Er hütet Pferde auf der Nordweide, drei Tagesritte von hier. Niemand kennt ihn am Hof. Niemand wird ihn suchen.“
+
+„Jigüdei“, wiederholte Shigi. Der Name war ihm vertraut, aber das Gesicht war verschwommen – er hatte den Jungen Jahre nicht gesehen, seit er ihm zur Geburt einen Segen geschickt hatte. Ein entfernter Verwandter, ein Bote der Steppe.
+
+„Er reitet noch heute“, sagte der Khorchin. „Was soll er tragen?“
+
+Shigi griff in die Truhe, zog einen Beutel aus gegerbtem Leder hervor. Er legte das Buch hinein, wickelte es in Filz, dann in eine zweite Schicht aus Ziegenhaut. Der Beutel wurde verschnürt, zugebunden, mit Wachs versiegelt. Das Siegel trug das Zeichen des Hauses – die geflügelte Sonne, die Dschingis Khan einst als sein Emblem gewählt hatte.
+
+„Er soll dieses Buch in die Steppe bringen“, sagte Shigi. „Zu den Hügeln von Burkhan Khaldun, wo die Gräber der Vorfahren liegen. Er soll es vergraben, an einem Ort, den nur er kennt. Und er soll zurückkommen, sobald es getan ist, und mir sagen, wo es liegt.“
+
+Der Khorchin nahm den Beutel. Seine Hände waren ruhig.
+
+„Richter Shigi“, sagte er leise. „Wenn man dich fragt, was geschehen ist?“
+
+„Dann werde ich sagen, dass die Chronik archiviert wurde. Dass sie an einem sicheren Ort verwahrt wird. Dass alle Anfragen nach Einsicht schriftlich zu stellen sind und dass ich sie prüfen werde, wie das Gesetz es vorsieht. Mehr nicht.“ Er hielt inne. „Weniger nicht.“
+
+Der alte Mann verbeugte sich und ging. Shigi hörte das Zischen des Vorhangs, das Knirschen seiner Schritte im Schnee, das leise Wiehern eines Pferdes, das auf den Reiter wartete.
+
+Dann war Stille.
+
+Er setzte sich wieder, starrte auf den leeren Tisch, auf die Stelle, an der das Buch gelegen hatte. Fünf Jahre Arbeit. Die Stimmen der Toten, die er gesammelt hatte, die Geschichten, die er bewahrt hatte, die Wahrheit, die er nicht ausgelöscht, sondern verborgen hatte. Er fühlte keine Erleichterung. Keine Befreiung. Nur die Kälte eines Urteils, das er über sich selbst gefällt hatte.
+
+Zum ersten Mal hatte er die Wahrheit nicht nur verzerrt, sondern entzogen.
+
+Am späten Nachmittag, als die Sonne hinter den Bergen versank und die Schatten länger wurden, erschien Güyük persönlich.
+
+Shigi hörte die Schritte, bevor er den Vorhang sah. Schwer, bestimmt, ohne das Zögern eines Bittstellers. Güyük schob den Stoff zur Seite und trat ein, ohne auf ein Willkommen zu warten.
+
+Er trug keinen Schmuck, keine Rangabzeichen. Nur eine einfache Lederrüstung und einen Gürtel, an dem ein Dolch hing, dessen Scheide abgenutzt war. Seine Augen waren kalt, unter den Brauen verborgen, die Wangen von Wind und Frost gerötet.
+
+„Richter Shigi Qutuqu“, sagte Güyük. Nicht als Gruß. Als Feststellung.
+
+„Prinz Güyük“, antwortete Shigi. Er stand auf, verbeugte sich korrekt, ohne Übertreibung. „Ich wusste nicht, dass Sie selbst kommen würden.“
+
+„Ich komme, wenn ich etwas will“, sagte Güyük. „Und ich will Antworten. Mein Schreiber hat mir berichtet, dass die Chronik nicht verfügbar ist. Dass sie an einem ‚sicheren Ort‘ verwahrt wird. Dass ich drei Tage warten muss. Hast du ihn belogen, Shigi?“
+
+„Nein“, sagte Shigi ruhig. „Ich habe ihm gesagt, was ich ihm sagen konnte. Die Chronik ist nicht in dieser Kanzlei. Sie wird in einem Tresor aufbewahrt, der mehrere Tagesreisen entfernt liegt. Ich habe einen Boten geschickt, um sie zu holen. Drei Tage, wie versprochen.“
+
+Güyük trat näher. Seine Schritte waren langsam, seine Schultern breit, sein Schatten fiel über den Tisch. Er blieb stehen, einen halben Schritt von Shigi entfernt. Keiner von ihnen bewegte sich.
+
+„Ich erinnere mich an dich“, sagte Güyük leise. „Weißt du noch, Shigi? Damals, als ich die Akte meines Vaters sehen wollte. Du hast sie mir gegeben, ich habe sie gelesen, und sie war leer. Nichts als Formeln. Keine Namen. Keine Beweise. Du hast mir das Gefühl gegeben, ein Idiot zu sein, der nicht versteht, was er liest.“
+
+Shigi antwortete nicht.
+
+„Das hast du damals nicht zugegeben“, sagte Güyük. „Aber ich wusste es. Du wusstest es. Und jetzt tust du es wieder. Du hältst etwas zurück. Etwas, das mir gehört. Das Erbe meines Vaters. Die Wahrheit über den Tod des Khagan. Den letzten Willen, der mich betrifft.“ Er beugte sich vor, sein Gesicht nah an Shigis. „Ich will sie haben. Alle. Und ich werde nicht zulassen, dass du sie versteckst hinter deinen Paragraphen und Registern. Hörst du?“
+
+Shigi hielt seinem Blick stand. Der Schweiß auf seiner Stirn blieb unsichtbar.
+
+„Prinz Güyük“, sagte er. „Ich diene dem Gesetz. Ich habe meinem Herrn, dem Khagan, in Treue gedient. Ich diene jetzt der Regentin, wie es die Ordnung verlangt. Ich habe nie gelogen. Ich habe nie eine Akte gefälscht. Ich habe nie eine Information zurückgehalten, die einem rechtmäßigen Erben zusteht. Aber ich kann nur geben, was ich habe. Die Chronik kommt in drei Tagen. Sie werden sie sehen. Danach werden Sie urteilen.“
+
+Güyük starrte ihn an. Die Sekunden vergingen. Das Zelt war still, so still, dass Shigi das Herz des anderen schlagen hörte – oder war es sein eigenes?
+
+„Drei Tage“, wiederholte Güyük. „Wenn sie nicht in drei Tagen vor mir liegt, wirst du mich nicht noch einmal belügen müssen. Weil du dann nicht mehr reden wirst, Shigi Qutuqu. Nicht mit mir. Nicht mit irgendwem. Hast du verstanden?“
+
+„Ja“, sagte Shigi. „Ich habe verstanden.“
+
+Güyük trat zurück, drehte sich um, ging zum Ausgang. An der Öffnung hielt er inne, drehte den Kopf halb zur Seite.
+
+„Deine Mutter war eine Tatarenfrau, nicht wahr?“, sagte er. „Eine, die Dschingis Khan getötet hat. Er hat dich aufgezogen. Dich, den Sohn seiner Feinde. Und du bist ein treuer Diener geworden. Hübsche Geschichte, findest du nicht?“
+
+Shigi antwortete nicht.
+
+Güyük lächelte. Es war kein schönes Lächeln. „Pass auf, dass die Geschichte nicht in ihr Gegenteil kippt. Ein Diener, der seinen Herrn betrügt – das wäre eine viel kürzere Geschichte. Und die endet immer gleich.“
+
+Der Vorhang fiel. Die Schritte entfernten sich. Shigi stand allein im Zelt, das kalte Licht des Abends fiel durch die Lücken des Filzes, zeichnete Muster auf den Boden.
+
+Er setzte sich wieder. Seine Hände lagen flach auf dem Tisch, die Finger gespreizt, als müssten sie das Gewicht des Tages tragen. Der Schweiß, den er nicht gezeigt hatte, brach jetzt aus, lief über seine Schläfen, sammelte sich in den Falten seiner Wangen.
+
+Drei Tage.
+
+Er wusste, dass Jigüdei sieben brauchen würde, um die Hügel von Burkhan Khaldun zu erreichen. Drei Tage waren eine Lüge, eine Illusion, ein Versprechen, das er nicht halten konnte.
+
+Aber er konnte die Tage nutzen. Konnte sie füllen mit dem Nebel der Bürokratie, mit Formeln und Verfahren und Prüfungen, die nichts prüften außer die Geduld dessen, der sie überreichte. Konnte dem jungen Prinzen das Gefühl geben, dass er kämpfen musste, dass die Wahrheit sich nicht einfach nehmen ließ, dass der Besitz eines Satzes nicht den Besitz der Macht bedeutete.
+
+Er griff nach dem Federkiel, tauchte ihn ein, zog ein Blatt Papier aus dem Stapel. Seine Hand war ruhig, die Schrift klar und gleichmäßig.
+
+*Betrifft: Anfrage auf Einsichtnahme in die Chronik des Hauses, Band III, Absatz über den letzten Willen des Khagan Ögedei.*
+
+*Die Anfrage des Prinzen Güyük ist eingegangen und wird bearbeitet. Da die Chronik aus konservatorischen Gründen an einem externen Ort verwahrt wird, beträgt die Bearbeitungszeit voraussichtlich drei Tage. Sollten zusätzliche Prüfungen der Authentizität oder Vollständigkeit erforderlich sein, bitte ich um Mitteilung, mit welchen Verfahren der Prinz einverstanden ist.*
+
+Er unterschrieb. Das Siegel drückte er fest, das Wachs zischte unter dem warmen Metall.
+
+Dann legte er den Stift nieder, lehnte sich zurück, schloss die Augen.
+
+Die Toten sprachen nicht mehr. Die Lebenden auch nicht. Nur die Stille in seinem Kopf, die sich langsam mit Yelü Chucais Worten füllte:
+
+*Jetzt beginnt die Erbschaft. Archive sind Schlachtfelder geworden.*
+
+Shigi Qutuqu, Sohn der Tataren, Hüter der Chronik des Hauses, der die Wahrheit versteckt hatte, um sie zu retten, öffnete die Augen und sah in der Dunkelheit des Zeltes die Gesichter derer, die vor ihm gekommen waren. Dschingis Khan, der ihn vom Schlachtfeld gehoben hatte. Hö'elün, die ihn aufgezogen hatte, ohne zu fragen, woher er kam. Ögedei, der ihm vertraut hatte, bis zum Ende. Yelü Chucai, der ihn gewarnt hatte.
+
+Er war der letzte Hüter einer Wahrheit, die niemand hören wollte. Und er hatte sie vergraben, in den Hügeln der Steppe, wo die Gräber der Vorfahren lagen und der Wind die Namen der Toten trug, bis auch sie vergingen.
+
+Das war die einzige Wahrheit, die blieb: dass alles verging. Und dass das, was blieb, die Geschichten waren, überlebt in der Dunkelheit, verborgen vor denen, die sie zerstören würden, aufbewahrt für eine Zeit, in der sie nicht mehr als Waffe dienten, sondern als Erinnerung.
+
+Vielleicht kam diese Zeit nie.
+
+Vielleicht war das die wahre Aufgabe des Chronisten: zu schreiben, zu verstecken, zu warten, zu hoffen – und am Ende zu sterben, ohne je zu wissen, ob das, was er bewahrt hatte, je gelesen werden würde.
+
+Shigi Qutuqu stand auf, löschte die Lampe, legte sich auf seinen Filz.
+
+Draußen, jenseits der Zeltwand, ritt ein Bote durch die Nacht, ein Beutel mit einem Buch auf dem Rücken, die Hügel von Burkhan Khaldun vor sich, die Vergangenheit hinter sich.
+
+Und in der Kanzlei des Richters, in der Dunkelheit des Zeltes, hörte niemand das leise Geräusch eines Mannes, der weinte, ohne einen Laut zu machen.
+
+---
+
+## 22. Die Rückkehr
+
+Der Staub war derselbe.
+
+Juvaini bemerkte es als Erstes, als er über den Kamm des Hügels ritt – dieser feine, graue Staub von Karakorum, der sich auf die Zunge legte wie gemahlener Stein. Zwei Jahre waren vergangen seit er ihn zuletzt geschmeckt hatte; zwei Jahre Reisen durch die westlichen Provinzen zwischen Arghun Aqa und den zerstörten Städten Chorasans; zwei Jahre Steuerregister und Tributlisten und Briefe an eine Frau geschrieben von Männern diktiert deren Namen er längst vergessen hatte.
+
+Und doch war der Staub derselbe.
+
+Er hielt sein Pferd an einem Felsvorsprung an ließ den Blick über das Tal schweifen das sich vor ihm ausbreitete wie ein Tuch aus Filz Wolle Seide und Leder – das große Kuriltai das Töregene Khatun gegen alle Widerstände durchgesetzt hatte.
+
+Die Zeltstadt war größer als alles was Juvaini je gesehen hatte.
+
+Sie erstreckte sich über eine Meile in jede Richtung ein Meer aus weißen grauen blauen Zelten deren Spitzen im Wind zitterten wie die Federn eines riesigen Vogels der sich zur Ruhe gesetzt hatte. Zwischen ihnen verliefen Gassen voller Menschen Händler Soldaten Diener Gesandte deren Kleidung die Farben aller Länder trug die zwischen Sonnenaufgang und Sonnenuntergang lagen.
+
+„Da staunt der Schreiber“, sagte Arghun Aqa neben ihm trocken wie immer aber seine Stimme trug einen Unterton den Juvaini nicht einordnen konnte – Stolz vielleicht oder Erschöpfung nach dem langen Ritt von Tabris nach Karakorum.
+
+„Das staunt jeder“, erwiderte Juvaini ohne den Blick abzuwenden.
+
+Er zählte automatisch während er hinabsah: Fünfhundert Zelte allein im äußeren Ring – die Unterkünfte der Gesandten aus allen Steuerbezirken des Reichs. Russische Fürsten deren Bärte bis zur Brust reichten standen neben georgischen Königen deren Brokatgewänder selbst aus dieser Entfernung glänzten; seldschukische Sultane mit Turbanen aus indischer Seide diskutierten mit chinesischen Mandarinen deren Gewänder nach Kampfer rochen; Abgesandte aus Kiew und Nowgorod trafen auf solche aus Bagdad und Buchara – eine Versammlung wie sie die Welt noch nicht gesehen hatte seit Dschingis Khan seine Söhne um sich sammelte um ihnen zu sagen dass sie gemeinsam unbesiegbar seien.
+
+*Und sie waren unbesiegbar gewesen*, dachte Juvaini kalt *solange sie einander nicht bekämpften.*
+
+„Die Geschenkekarawanen sind seit einer Woche eingetroffen“, fuhr Arghun Aqa fort während sein Pferd unruhig unter ihm scharrte „Gold Silber Seide Elfenbein Jadefiguren lebende Tiger aus Indien Falken aus Sibirien – genug um eine Stadt damit zu bauen.“ Er machte eine Pause „Oder einen Thron.“
+
+Juvaini nickte ohne zu antworten.
+
+Er dachte an Guillaumes Silberbaum an den er damals am Tag seiner Ankunft gestoßen war – dieses prachtvolle Gerät das niemals Früchte tragen würde weil es kein lebendiges Ding war sondern nur ein Symbol für Macht die niemand mehr besaß weil sie allen gehörte und damit niemandem.
+
+„Wir reiten hinunter“, sagte Arghun Aqa „Töregene Khatun erwartet uns im großen Empfangszelt noch heute Abend vor Sonnenuntergang.“ Er wandte sein Pferd ruckartig zur Seite „Und ich rate dir dein Notizbuch bereitzuhalten Bruder Schreiber; es wird viel zu notieren geben in diesen Tagen viel mehr als du jemals aufschreiben wirst können oder wollen.“
+
+---
+
+## 23. Kapitel 22 – Die Übergabe
+
+Der Geruch von Tausend Zelten lag in der Luft, gemischt aus Leder, Schweiß, Rauch und dem süßlichen Duft von Weihrauch, den die Gesandten aus dem Westen mitgebracht hatten. Fatima stand hinter Töregene Khatun, einen halben Schritt links versetzt, wie es ihre Position erforderte, und beobachtete die Versammlung durch den schmalen Spalt des Zeltvorhangs.
+
+Draußen warteten neun Scharen von Fürsten.
+
+Sie hatte sie gezählt in den letzten Stunden, während die Sonne ihren Bogen über das Tal zog: neun Scharen, jede aus einem anderen Zweig des Hauses Dschingis. Die Nachkommen Dschotschis waren nicht gekommen – Batu hatte seine Abwesenheit mit einer Krankheit entschuldigt, die keiner glaubte – aber alle anderen waren da. Tschagatais Söhne saßen auf ihren Pferden wie Statuen aus Stein; Toluis Witwe Sorkaktani stand zwischen ihren vier Söhnen, jede Bewegung ein gemessenes Kalkül; und in der Mitte des Kreises, auf einem weißen Filzstück, das man zwischen acht Feuerstellen ausgebreitet hatte, kniete Güyük.
+
+Er trug keine Krone. Noch nicht.
+
+„Du zitterst“, sagte Töregene ohne sich umzudrehen.
+
+Fatima zwang ihre Hände zur Ruhe. „Es ist kalt, Khatun.“
+
+„Es ist August.“ Die Regentin wandte den Kopf einen Fingerbreit, genug um ihre Nasenspitze im Profil sichtbar zu machen. „Du lügst schlecht heute Morgen. Das ist gut – es bedeutet dass du verstehst was dieser Tag bedeutet.“
+
+Fatima verstand es seit Wochen. Seit jenem Abend im Zelt der Regentin als Güyük ihr ins Ohr geflüstert hatte dass er sie töten würde sobald er Khan sei. Seit dem Fluch Ködens der wie ein zweiter Schatten über ihr hing seit der Prinz im Fieber nach ihrem Namen gerufen hatte.
+
+Seit dem Tag an dem sie begriffen hatte dass Töregenes Schutz nur so lange währte wie Töregene selbst an der Macht war.
+
+Die Stunde war gekommen.
+
+Draußen begann die Zeremonie mit einem Trommelwirbel der durch Mark und Bein ging. Neun Trommeln neun Schläge neun Rufe nach den neun Himmeln unter denen Dschingis Khan sein Reich erobert hatte. Fatima zählte die Schläge mechanisch während sie durch den Vorhangspalt beobachtete wie die Fürsten abstiegen und sich um den weißen Filz versammelten auf dem Güyük noch immer kniete unbeweglich als wäre er aus demselben Stein gemeißelt wie die Berge im Osten.
+
+Shigi Qutuqu trat in den Kreis.
+
+Der alte Richter trug sein schwarzes Gewand das er nur zu den wichtigsten Anlässen anzog und in seiner Hand hielt er eine Schriftrolle – jene Schriftrolle dachte Fatima deren Inhalt sie kannte ohne ihn je gelesen zu haben weil sie wusste was darin stand: Die Bestätigung dass dieses Kuriltai rechtmäßig einberufen worden war dass alle notwendigen Stimmen gehört worden waren dass Güyük der Sohn Ögedeis der Enkel Dschingis Khans zum Khagan des Mongolischen Reichs erhoben werden sollte.
+
+Die Lüge stand auf diesem Papier geschrieben und Shigi Qutuqu trug sie vor aller Augen.
+
+Ihre Blicke trafen sich für einen Herzschlag als der Richter kurz in ihre Richtung sah – ein Blick so alt wie die Steppe und so schwer wie das Gesetz das er heute beugte. Fatima nickte kaum merklich. Sie wusste was er dachte: *Wir dienen beide einer Macht die uns verbrauchen wird.*
+
+Dann sprach Shigi Qutuqu und seine Stimme trug über das ganze Tal:
+
+„Im Namen des Ewigen Himmels unter dem alle Völker leben; im Namen Dschingis Khans dessen Blut in diesen Adern fließt; im Namen des Gesetzes das ich hüte seit fünfzig Jahren – ich bezeuge dass dieser Mann rechtmäßig berufen ist.“
+
+Die Fürsten antworteten mit einem einzigen Wort das wie Donner über die Ebene rollte:
+
+„Güyük!“
+
+Fatima sah wie Töregene sich versteifte – nur eine Spur von Spannung in den Schultern aber sie kannte diese Frau seit fünf Jahren und las ihren Körper wie eine Schrift aus Muskeln und Knochen. Die Regentin atmete einmal tief durch dann trat sie vor durch den Zeltvorhang ins Sonnenlicht hinaus und Fatima folgte ihr wie ein Schatten geboren aus Hitze und Licht.
+
+Der weiße Filz glänzte in der Morgensonne als Töregene darauf zuging. Sie bewegte sich langsam gemessen jede Geste ein Teil der Zeremonie die sie selbst entworfen hatte in fünf Jahren stiller Vorbereitung. In ihren Händen trug sie zwei Gegenstände: ein goldenes Siegel an einer Kette – das Staatssiegel Ögedeis – und einen schwarzen Stab mit silbernen Ringen dessen Bedeutung jeder hier kannte: Der Stab des Khans der Macht über Leben und Tod bedeutete solange derjenige der ihn hielt stark genug war ihn zu behalten.
+
+Güyük erhob sich als seine Mutter vor ihm stand.
+
+Er war größer als sie dachte Fatima automatisch *größer als sein Vater* aber schmaler in den Schultern als hätte ihn etwas ausgehöhlt von innen während er auf diesen Moment wartete. Seine Augen waren kalt berechnend genau wie damals als er sie zum ersten Mal taxiert hatte in Töregenes Zelt vor Jahren; aber heute lag etwas Neues darin – eine Ungeduld die er nur mühsam verbarg.
+
+„Mein Sohn“, sagte Töregene laut genug dass alle es hören konnten „ich habe dieses Reich gehütet für dich während du fern warst im Westen kämpfend gegen Völker deren Namen ich nicht aussprechen kann.“ Ihre Stimme trug keinen Unterton keine Trauer keine Freude – nur eine flache Sachlichkeit die Fatima erschreckte weil sie wusste was es kostete diese Worte zu sprechen nach fünf Jahren absoluter Macht.
+
+„Ich gebe dir zurück was dein Vater mir anvertraut hat: Das Siegel seiner Herrschaft; den Stab seines Rechts; das Volk das ihm folgte solange es atmete.“ Sie reichte ihm beide Gegenstände mit einer Geste die aussah als gäbe sie Wasser ab nach langer Durstrecke aber Fatima sah ihre Finger zittern beim Loslassen ganz kurz kaum sichtbar für jemanden der nicht wusste wo er hinsehen musste.
+
+Güyük nahm Siegel und Stab ohne Dankeswort herunterzukommen drehte sich zu den versammelten Fürsten um hob beide über seinen Kopf:
+
+„Ich bin Güyük Sohn Ögedeis Enkel Dschingis Khans!“ Seine Stimme schnitt durch die Stille wie eine Klinge „Und ich schwöre beim Ewigen Himmel: Ich werde dieses Reich halten so fest wie mein Großvater es hielt!“
+
+Der Jubel brach los neuntausend Kehlen gleichzeitig Pferdewiehern vermischt mit Waffenklirren Trommeln setzten wieder ein diesmal schneller wilder als wäre eine Kette gesprengt worden die alle zurückgehalten hatte bis zu diesem Augenblick.
+
+Fatima trat einen Schritt zurück in den Schatten des Zeltes zurück wo niemand sie sehen konnte außer vielleicht Shigi Qutuqu dessen Blick noch immer auf ihr ruhte schwer wie ein Urteilsspruch der noch nicht gefällt worden war aber dessen Richtung jeder kannte hier draußen auf dieser Ebene unter diesem unbarmherzigen Himmel.
+
+Sie suchte nach Carpini im Gedränge fand ihn schließlich am Rand des Kreises stehend zwischen zwei Nestorianern deren blaue Gewänder leuchteten wie vergessene Edelsteine im Staub. Der Franziskanermönch schrieb fieberhaft in sein Buch seine Feder flog über das Pergament als müsste er jeden Ton jedes Wort jede Bewegung festhalten bevor sie verging – ahnungslos dass alles was er sah falsch gedeutet war durch seine europäischen Augen durch seine Hoffnung auf Bekehrung durch seinen Glauben dass diese Barbaren jemals Christus annehmen würden wenn ihr neuer Khan denselben Eid geschworen hatte wie Dschingis vor ihm: *Alle Götter sind gleich wenn sie uns dienen.*
+
+Carpini würde nie verstehen was hier wirklich geschah dachte Fatima kalt *niemand hier draußen versteht es außer uns drei Frauen* – Töregene Sorkaktani ich selbst – *weil wir es gemacht haben.*
+
+Die Zeremonie zog sich hin durch den Vormittag hinein in den Nachmittag: Eide wurden gesprochen in vier Sprachen (Mongolisch Türkisch Persisch Chinesisch) Geschenke überreicht (Gold Silber Seide Jadefiguren lebende Tiger aus Indien) Beamte bestätigt oder entlassen (Chinqais Name fiel nicht einmal mehr erwähnt) neue Posten besetzt (Abd ar-Rahman lächelte zu oft neben Güyük stehend sein Gesicht glatt wie Öl auf Wasser).
+
+Fatima beobachtete alles registrierte jedes Detail weil es ihr Beruf war weil Überleben bedeutete zu wissen wer wo stand mit wem sprach wen ansah wen mied; aber ihre Gedanken waren woanders bei einem Brief den sie heute Nacht schreiben würde an eine Tote zur Erinnerung daran dass auch dieser Tag vergehen würde dass auch Güyük sterben musste eines Tages vielleicht bald vielleicht nicht bald genug für das was er plante mit ihr jetzt da er endlich die Macht besaß die ihm verwehrt gewesen war so lange Jahre während seine Mutter regierte während andere kämpften während er wartete im Westen vergeblich gegen Batu dessen Armee stärker war dessen Name gefürchteter dessen Blut älter reiner legitimere Ansprüche trug –
+
+„Fatima.“
+
+Töregenes Stimme direkt neben ihr leise fast flüsternd vertraulich intim unter dem Lärm der Feierlichkeiten:
+
+„Komm mit mir jetzt sofort ohne Fragen ohne Verzögerung ohne jemandem zu sagen wohin wir gehen.“
+
+Fatima folgte ohne Widerstand durch das Gedränge hindurch zwischen Fürsten hinweg deren Blicke kurz auf ihr ruhten bevor weitergingen uninteressiert an einer Dienerin unwichtig unwert eines zweiten Blicks heute wo alle Augen auf Güyük gerichtet waren wo alle Hände nach seiner Gunst griffen wo alles neu verteilt wurde zwischen denen die gewannen und denen die verlieren würden bevor die Woche vergangen war.
+
+Töregene führte sie zu einem kleinen Zelt am Rand des Lagers abseits gelegen zwischen zwei Karren deren Planen herabhingen bis fast zum Boden sodass niemand sehen konnte wer hier hereinging oder hinauskam.
+
+Das Innere war leer bis auf zwei Kissen eine Lampe deren Docht kaum brannte und ein kleines Kästchen aus Zedernholz genau jenes Kästchen dachte Fatima erschrocken *jenes* Kästchen das ich tragen half in jener Nacht vor fünf Jahren als wir Ögedeis Leichnam wuschen bevor irgendjemand anders ihn sehen konnte –
+
+Setz dich sagte Töregene ohne Umschweife selbst setzte sich gegenüber stützte ihre Hände auf ihre Knie atmete einmal tief aus ließ dabei etwas fallen von ihrer Maske etwas Altes Müdes etwas das aussah fast menschlich fast verletzlich fast –
+
+Heute Abend regiert mein Sohn die Welt sagte Töregene leise jedes Wort einzeln gesetzt genau platziert genau gewählt seit Wochen vielleicht seit Monaten vorbereitet für diesen Moment:
+
+Und du hast keinen Schutz mehr
+
+Stille zwischen ihnen dick schwer riechend nach Leder Rauch Angst
+
+Dann hatte ich nie einen antwortete Fatima ebenso leise ebenso ruhig ebenso wahr weil Wahrheit jetzt alles war was noch blieb weil Lügen sinnlos geworden waren weil dieser Abschied echt sein würde endgültig unverhandelbar:
+
+Ich hatte nur Sie
+
+Töregene sah sie an lange minutenlang vielleicht stundenlang aber egal denn Zeit existierte nicht mehr innerhalb dieses kleinen Zeltes innerhalb dieses Abschieds innerhalb dieser letzten Berührung zweier Frauen deren Leben miteinander verwoben gewesen waren so eng dass keine Trennung möglich schien ohne Blut
+
+Du hättest mich hassen sollen sagte Töregene plötzlich unvermittelt hart fast ärgerlich:
+
+Ich habe dir alles genommen deine Freiheit deine Heimat deine Möglichkeit je wieder dorthin zurückzukehren wo du herkamst deinen Namen sogar deinen eigenen Namen habe ich dir genommen indem ich dich nie danach fragte –
+
+Ich hasse Sie antwortete Fatima ruhig:
+
+Aber ich liebe Sie auch Und beides ist wahr Und beides wird bleiben solange ich atme
+
+Töregene lachte kurz bitter trocken gebrochen:
+
+Weißt du was mein Sohn plant für dich? Nein natürlich weißt du es nicht weil du klug genug bist nicht fragen Er wird dich verhören lassen Er wird dich foltern lassen Er wird alles aus dir herauspressen was du weißt über mich über meinen Mann über jene Nacht –
+
+Dann werde ich sterben sagte Fatima einfach:
+
+So sterben viele Menschen Jeden Tag Irgendwo stirbt gerade jemand Weil Hungersnot Weil Krieg Weil Krankheit Weil Macht Es ist nichts Besonderes am Tod
+
+Es ist etwas Besonderes wenn du stirbst widersprach Töregene heftig zum ersten Mal heute zum ersten Mal seit Jahren brach ihre Stimme einen Herzschlag lang weit offen klaffend voller Schmerz voller Trauer voller etwas das aussah fast menschlich fast liebend fast –
+
+Du bist meine Tochter sagte Töregene leise:
+
+Nicht geboren von mir Aber gemacht Von mir geformt Von mir unterrichtet Von mir geliebt So sehr ich lieben kann Was wenig ist Was nichts ist Was nicht reicht Um dich zu retten
+
+Fatimas Augen brannten aber sie weinte nicht Sie hatte vergessen wie man weint Vor langer Zeit In einer anderen Stadt In einem anderen Leben Mit einer anderen Schwester Die tot war Wie alles endet Wie alle gehen Wie allein man bleibt am Ende wenn man lange genug lebt um Abschied nehmen zu müssen von allen Menschen aller Orte aller Zeiten aller Hoffnungen
+
+Ich werde sterben sagte Fatima noch einmal diesmal anders diesmal annehmend diesmal öffnend sich dem Wissen dass dieser Tag kommen musste seit jenem ersten Abend an dem Töregene ihr gesagt hatte *Der Khan ist tot* denn von diesem Augenblick an war ihr eigenes Leben gezählt gewesen abgemessen bemessen bestimmt für ein Ende das nur verschoben werden konnte niemals verhindert niemals aufgehoben niemals umgangen durch Klugheit List Flehen Betrug:
+
+Aber vorher werde ich schreiben Alles Was ich weiß Alles Was gesehen habe Alles Was niemand aufgeschrieben hat Weil niemand sonst da war Weil niemand sonst gesehen hat Weil niemand sonst überlebt hat um davon zu erzählen
+
+Töregenes Gesicht wurde hart wieder verschlossen wieder Maschine wieder Herrscherin:
+
+Wirst du meinen Namen nennen?
+
+Ja sagte Fatima ruhig:
+
+Und deinen Sohn Und deinen Mann Und mich Und alle anderen Auch mich besonders mich Denn meine Geschichte muss erzählt werden sonst stirbt alles mit mir wenn ich gehe wenn Güyük mich töten lässt wenn seine Männer kommen wenn Abd ar-Rahman lächelt dabei
+
+Abd ar-Rahman wiederholte Töregene bitter:
+
+Mein eigener Finanzmann Mein eigener Vertrauter Den ich eingesetzt habe Den ich gefördert habe Den ich reich gemacht habe Und jetzt steht er neben meinem Sohn lächelt zu oft lächelt immer dann wenn schlechte Nachrichten kommen wenn Leute verschwinden wenn –
+
+Fatima nickte müde:
+
+Ich weiß Khatun Ich sehe auch Ich sehe immer Alles Ich habe gesehen seit jenem ersten Tag Als Sie mich riefen Mitten in der Nacht Als wir zusammen standen Über dem toten Khan Als wir entschieden Wer leben würde Wer sterben Wer herrschen
+
+Wir haben herrscht verbesserte Töregene leise korrigierend abschließend endgültig:
+
+Fünf Jahre lang Wir gemeinsam Du meine Augen Meine Ohren Meine Feder Meine Hand Die schrieb Was ich dachte Bevor ich selbst dachte Du hast mich gelehrt Zu lesen Zwischen den Zeilen Die Lügen Der Höflinge Der Feinde Der Söhne Selbst meiner eigenen Söhne
+
+Sie stand auf langsam schwerfällig alt geworden plötzlich alt zusammengesunken unter Last fünf Jahre getragen von einer Frau deren Kraft gebrochen schien jetzt da kein Ziel mehr vor ihr lag kein Kampf mehr kein Thron mehr kein Grund mehr weiterzumachen außer vielleicht –
+
+Geh sagte Töregene leise hart endgültig abgewandt schon halb zum Ausgang halb zurück ins Leben halb zurück ins Licht draußen wo Güyük wartete wo Abd ar-Rahman lächelte wo Carpini schrieb wo Shigi Qutuqu seine Chronik verbarg wo Sorkaktani still lächelnd zusah während alles zerfiel während alles neu geordnet wurde während alles begann was enden würde erst Jahre später erst nach vielen weiteren Toten vielen weiteren Schreibern vielen weiteren Frauen deren Namen vergessen wurden weil niemand da war um sie aufzuschreiben außer mir dachte Fatima außer mir werde ich schreiben werde zeugen werde bewahren werde weitergeben an Juvaini falls er lebt falls er zurückkommt falls Arghun Aqa ihn sicher hält fern von hier fern von Karakorum fern von allem was kommt
+
+Sie erhob sich ebenfalls langsam schwerfällig alt geworden fühlend jedes ihrer Jahre jedes ihrer Narben jedes ihrer Geheimnisse lastend schwer drückend drängend zum Verschwinden vergehen vergessen werden Aber nein Das durfte nicht geschehen Nicht heute Nicht morgen Nicht solange ihre Finger noch biegsam waren ihre Feder noch schnitt ihr Papier noch weiß lag bereit zur Beschriftung zur Erinnerung zur Wahrheit
+
+Haben Sie etwas gehört? Von Juvaini?, fragte Fatima leise am Ausgang stehenbleibend einen Fuß schon draußen einen noch drinnen gefangen zwischen zwei Welten zwei Leben zwei Abschieden gleichzeitig zerreißend langsam qualvoll notwendig
+
+Er lebt antwortete Töregene ohne sich umzudrehen tonlos flach leer:
+Arghun Aqa hat ihn sicher gehalten Weit weg Von hier Weit weg Von Karakorum Weit weg Von allem Was kommt
+Sie machten eine Pause Atmete einmal tief:
+Er wird zurückkommen Wenn es vorbei ist Wenn du tot bist Wenn nichts mehr bleibt Was ihn halten könnte Hier Am Ort Deines Endes
+Danke flüsterte Fatima kaum hörbar:
+Dafür Dass Sie ihm Das gegeben haben Was Sie mir nie geben konnten
+Was?
+Ein Ende Das nicht mein eigenes ist
+Töregene schwieg Lange Minuten Vielleicht Stunden Vielleicht für immer Dann nickte einmal kurz knapp abschließend abweisend endgültig:
+Geh jetzt Bevor meine Entscheidung schwankt Bevor ich dich zurückhalte Bevor wir beide tun Was wir bereuen würden Morgen Wenn wir noch leben Wenn uns bleibt Noch ein Morgen Noch ein Tag Noch eine Stunde Atmen Unter Diesem Himmel Der uns beide Vergessen wird Irgendwann Bald Schon Bald Sehr Bald
+
+Fatima ging hinaus ins Licht hinaus in den Lärm hinaus zurück ins Gedränge zurück zwischen Fürsten hinweg deren Blicke kurz auf ihr ruhten uninteressiert unwichtig unwert eines zweiten Blicks heute wo alle Augen auf Güyük gerichtet waren wo alle Hände nach seiner Gunst griffen wo alles neu verteilt wurde zwischen denen gewannen verlieren würden bevor Woche vergangen –
+
+Sie fand ihren Weg zurück zum großen Festzelt zurück zum Rand des Kreises zurück zur Beobachterposition links hinter dem neuen Khan statt rechts hinter der alten Regentin denn auch dort stand schon jemand anders bereits besetzt bereits neu verteilt bereits vergangen bevor Abschied ganz vollzogen –
+
+Abd ar-Rahman lächelte neben Güyük sein Lächeln ölig glatt breit grell unpassend unangemessen unerträglich anzusehen voller Vorfreude voller Wissen voller Pläne Berechnungen Intrigen Verrat denn Verrat kam immer von innen immer von denen denen man vertraute immer von Finanzministern Schreibern Frauen Söhnen -
+
+Sie such nach Shigi Qutuqu fand ihn am Rand des Kreises stehend unbeweglich starr blicklos leer alt müde erschöpft gebrochen vielleicht gebogen sicher angepasst notfalls korrupt notwendigerweise korrupt um zu überleben um weiterzumachen um Chronik zu bewahren bis besser Zeiten kommen hellere Tage mildere Herrscher gerechtere Urteil -
+
+Ihre Blicke trafen kurz Einmal Noch Ein letztes Mal Keine Worte Keine Geste Keine Bewegung Nur Anerkennung Nur Wissen Nur Teilhabe An Demselben Schweigen Demselben Wissen Demselben Ende Das Langsam Herannahte Unaufhaltsam Unvermeidbar Notwendig Wie Der Tod Wie Der Abschied Wie Die Stille Nach Dem Letzten Wort Das Niemand Gehört Hat Außer Ihnen Beiden Allein Hier Am Rand Des Festes Am Rand Des Lebens Am Rand Von Allem Was Bleibt Wenn Nichts Mehr Bleibt Ausser Schweigen -
+
+Sie wand sich ab ging langsam Schritt für Schritt fort vom Fest fort vom Lärm fort vom neuen Khan fort vom alten Leben fort von allem was gewesen war fünf Jahre lang Liebe Hass Angst Hoffnung Macht -
+
+In ihrem Zelt angekommen zündete sie Lampe an setzte sich nieder nahm Feder Papier begann Brief an tode Schwester einzigen Satz heute Nacht nur einen Satz nichts weiter kein Fluch kein Gebet keine Bitte keine Klage sondern einfach Tatsache nackt bloß wahr endgültig abschließend beschließend abscheidend -
+
+Heute hat Macht Besitzerin gewechselt Ich bin nicht mit übergeben worden -
+
+Sie legtest Feder beiseite faltest Papier sorgfältig präzise ritualisiert verstautest Brief Federetui löschtest Lampe Dunkelheit willkommen vertraut bekannt mütterlich warm tröstlich leer stil -
+
+---
+
+## 24. Kapitel 23: Die Prüfung der Texte
+
+Die ersten Dekrete des neuen Khans kamen wie Pfeilhagel.
+
+Shigi Qutuqu saß in seiner Kanzlei, die sich am dritten Tag nach dem Kuriltai in ein Arsenal verwandelt hatte. Vor ihm auf dem Tisch lagen sieben Schriftrollen, jede mit dem frischen Siegel Güyüks versehen, das rote Wachs noch hart, aber die Tinte bereits trocken. Er las sie in der Reihenfolge ihres Eingangs, wie es seine Pflicht war, und verstand beim dritten, dass ein Krieg begonnen hatte.
+
+Das erste Dekret war harmlos: Neubesetzung des Hofstaats, die übliche Säuberung nach einem Thronwechsel. Shigi las die Namen der neuen Kämmerer und Sekretäre und nickte langsam; es waren Männer, die er nicht kannte, Männer aus Güyüks eigenem Haushalt, deren Loyalität nicht in Frage stand. Das zweite Dekret ordnete die Rückkehr aller Gesandten in ihre Provinzen an, ein Zeichen, dass die Feierlichkeiten beendet waren, ein Zeichen, dass der neue Khan nicht verhandeln, sondern regieren würde.
+
+Das dritte Dekret traf wie ein Schlag.
+
+Shigi las es zweimal, ein drittes Mal, und dann legte er es flach auf den Tisch, als könnte er es durch Berührung besser verstehen. Die Schrift war klar, die Formulierung präzise, die Unterschrift unmissverständlich:
+
+*Hiermit annullieren wir, Güyük, Sohn Ögedeis, Enkel Dschingis’ Khans, alle Erlasse, Dekrete, Verfügungen und Anordnungen, die seit dem Tod unseres Vaters Ögedei im Namen des Hauses erlassen wurden. Sie sind nichtig, als hätten sie nie existiert.*
+
+Fünf Jahre Regentschaft Töregenes. Ausgelöscht mit einem Stempel.
+
+Shigi ließ das Dekret sinken. Seine Hand zitterte nicht, aber er spürte die Kälte, die von dem Papier ausging, eine Kälte, die tiefer reichte als die des nahenden Winters. Fünf Jahre – in denen er selbst Urteile gesprochen hatte, Urteile, die auf Töregenes Willen beruhten, die er mit seinem Siegel bestätigt hatte. Der erste Akt des Khans war kein Befehl. Es war eine Löschung.
+
+Er stand auf, ging zum Fenster, blickte hinaus auf die Zeltstadt, die sich langsam leerte. Die Gesandten brachen auf, ihre Karawanen zogen in alle Himmelsrichtungen, aber die Kanzleien blieben, und die Kanzleien waren voller Papier, voller Vergangenheit, die Güyük auslöschen wollte. Shigi atmete tief ein, den Geruch von Staub und Leder und Tinte, und dann setzte er sich wieder und las die restlichen Dekrete.
+
+Das vierte befahl die Inventur aller Kanzleien des Reichs: Register, Siegelkontrollen, Abschriftenpflicht. Das fünfte forderte die Einrichtung einer neuen Prüfbehörde, deren Leiter kein alter Beamter war, sondern ein Mann namens Toghril, den Shigi nur vom Hörensagen kannte – ein Gelehrter aus dem Osten, der Güyüks Vertrauen besaß und von dem es hieß, er könne die Handschrift eines Schreibers allein an der Neigung der Buchstaben erkennen. Das sechste Dekret verfügte die Schließung aller nicht genehmigten Archive, das siebte die Vorlage aller privaten Chroniken zur Sichtung.
+
+Shigi legte die letzte Schriftrolle beiseite und starrte auf die leere Wand vor ihm. Die Bürokratie des Verdachts, exakt und leise, aufgebaut wie ein Fangnetz aus Paragraphen und Formalitäten. Er hatte Güyük unterschätzt. Er hatte geglaubt, der neue Khan würde mit dem Schwert regieren, mit offener Gewalt, mit Drohungen, die man hören und sehen konnte. Stattdessen regierte er mit der Feder, und diese Feder war schärfer als jede Klinge.
+
+——
+
+Am späten Nachmittag erschien Toghril in der Kanzlei.
+
+Er war ein schmaler Mann mit grauem Bart und Augen, die alles registrierten, nichts preisgaben. Er trug ein Gewand aus schlichter Seide, keine Verzierungen, keine Symbole seiner neuen Macht, aber in seiner Hand hielt er ein Bündel Papier, das er wortlos auf Shigis Tisch legte.
+
+„Die Inventur beginnt morgen früh“, sagte er, ohne Shigi zu begrüßen. „Ich benötige alle Register der letzten zehn Jahre, einschließlich der Abschriften der Dekrete, die seit dem Tod des Khans erlassen wurden. Vollständig, bitte, Richter Shigi. Keine Lücken.“
+
+Shigi sah ihn an, ohne zu blinzeln. „Die Register sind umfangreich. Ich werde sie in drei Tagen bereitstellen können, wenn meine Schreiber die Zeit haben, sie zu ordnen.“
+
+„Sie haben heute Nacht Zeit“, erwiderte Toghril. „Der Khan wünscht die Sichtung innerhalb von zwei Tagen abgeschlossen, und ich werde nicht derjenige sein, der ihm erklärt, dass die Kanzlei des Oberrichters nicht in der Lage war, ihre eigenen Aufzeichnungen zu sortieren.“ Er machte eine Pause, seine Augen wanderten durch den Raum, über die Regale, die Truhen, die Stapel von Papier, die jeden Winkel füllten. „Ich nehme an, Sie haben keine Einwände gegen die Prüfung?“
+
+„Das Gesetz verlangt Transparenz“, sagte Shigi ruhig. „Ich habe nichts zu verbergen.“
+
+Toghril nickte einmal, knapp, und wandte sich zum Gehen. An der Tür blieb er stehen, drehte sich nicht um, sprach in den Raum hinein. „Der Khan erwartet Ihre Kooperation, Richter. Er erwartet sie vollständig und bedingungslos. Jede Verzögerung, jedes Missverständnis, jeder Unfall, der Dokumente verschwinden lässt – er wird als persönliche Beleidigung gewertet. Sie verstehen, worauf ich hinauswill?“
+
+„Ich verstehe vollkommen“, sagte Shigi.
+
+Toghril ging, und die Tür fiel ins Schloss.
+
+Shigi blieb sitzen, lange nachdem die Schritte verklungen waren. Er dachte an die Chronik, die er drei Tage zuvor mit Jigüdei in die Steppe geschickt hatte, an das vergrabene Buch, das die Wahrheit über Ögedeis letzten Willen enthielt, an den Satz, der Güyüks Legitimität in Frage stellte. Das Buch war sicher, es war außerhalb der Stadt, außerhalb der Reichweite von Toghrils Prüfern. Aber die anderen Dokumente, die Kopien, die Abschriften, die Notizen, die er in den letzten Jahren angefertigt hatte – sie waren noch hier, in seiner Kanzlei, in seinen Truhen, in seinen Schreibtischen.
+
+Er stand auf, ging zu der Truhe, die das blau-weiße Buch der Urteile enthielt, und öffnete sie. Das Buch lag darin, schwer und ledergebunden, jeder Eintrag mit seinem Siegel bestätigt. Er hob es heraus, legte es auf den Tisch, und dann hielt er inne.
+
+Jemand beobachtete ihn.
+
+Er spürte es, bevor er es sah – eine Bewegung im Schatten des Eingangs, ein Atemzug, der nicht seiner war. Er drehte sich langsam um, die Hand noch auf dem Buch, und sah den Mann, der dort stand, einen jungen Schreiber in den Farben der neuen Kanzlei, der ihn mit einer Miene musterte, die nichts verriet.
+
+„Kann ich Ihnen helfen?“, fragte Shigi.
+
+„Nein, Richter“, sagte der Schreiber. „Ich sollte nur überprüfen, ob die Räume für die Inventur vorbereitet sind. Nichts weiter.“ Er verbeugte sich knapp und verschwand.
+
+Shigi zog die Hand von dem Buch zurück. Er atmete tief durch, dann schloss er die Truhe, verriegelte sie, und setzte sich wieder an den Tisch, auf dem die sieben Dekrete lagen wie Waffen, die noch nicht abgefeuert worden waren.
+
+——
+
+Am nächsten Morgen begann die Inventur.
+
+Shigi stand am Fenster seiner Kanzlei und sah zu, wie Toghrils Männer durch die Höfe gingen, Listen in den Händen, die Stirn in Falten gelegt. Sie arbeiteten schweigend, systematisch, eine Maschine aus Papier und Pergament, die jeden Winkel des Hofes durchkämmte. Die Bürokratie des Verdachts, dachte Shigi, exakt und leise. Sie durchsuchten die Kanzleien der Finanzverwaltung, die der Steuererhebung, die der Botendienste, die der Gesandtschaften, die der Militärverwaltung, und überall, wo sie hinkamen, hinterließen sie leere Regale und versiegelte Truhen.
+
+Shigi beobachtete sie, wie man einen Feind beobachtet, dessen Bewegungen man studiert, um sein Muster zu erkennen. Sie waren gründlich, aber nicht unfehlbar. Sie suchten nach offensichtlichen Dingen – fehlenden Siegeln, unvollständigen Abschriften, nachträglichen Änderungen – aber sie suchten nicht nach dem, was zwischen den Zeilen stand, was in der Ordnung der Buchstaben verborgen war, was in der Wahl der Worte lag. Shigi lächelte dünn. Er hatte vierzig Jahre damit verbracht, das Gesetz zu lesen, und er wusste, dass die Wahrheit oft in dem lag, was nicht geschrieben stand.
+
+Am Nachmittag kam die Anfrage, die er erwartet hatte.
+
+Ein junger Schreiber brachte sie, ein Bote aus der Kanzlei des Khans, der die Schriftrolle auf Shigis Tisch legte, ohne ihn anzusehen, und sich dann zurückzog wie ein Schatten, der keine Spuren hinterlassen wollte. Shigi öffnete die Rolle, las die Worte, und nickte langsam, als hätte er sie selbst geschrieben.
+
+*Hiermit fordern wir, Güyük, Sohn Ögedeis, Enkel Dschingis’ Khans, die Vorlage der Familienchronik des Hauses, niedergeschrieben von Shigi Qutuqu, Richter des Reichs, zur Ergänzung der Akten der Gründungszeit. Die Chronik ist vollständig und ungekürzt vorzulegen, innerhalb von drei Tagen nach Erhalt dieses Dekrets.*
+
+Shigi legte die Schriftrolle beiseite. Er stand auf, ging zu der Truhe, in der die präparierte Kopie lag, die er vor Wochen angefertigt hatte, als er die ersten Anzeichen von Güyüks Misstrauen gespürt hatte. Er hob sie heraus, eine schlanke, unauffällige Mappe aus ledergebundenem Papier, die er mit den harmlosen Passagen der Chronik gefüllt hatte – die Genealogien, die Lobgesänge auf Dschingis Khan, die Beschreibungen der Schlachten, die schon tausendmal erzählt worden waren. Die schmeichelhaften Passagen vorn, die unverfänglichen Daten in der Mitte, die leeren Seiten am Ende.
+
+Er legte die Mappe auf den Tisch, öffnete sie, und begann zu blättern. Die Seiten waren sauber geschrieben, die Schrift klar, die Angaben korrekt, aber sie waren unvollständig, und sie wussten es beide. Die Chronik, die er versteckt hatte, die echte Chronik, enthielt die Randnotizen, die Widersprüche, die Zweifel, die Passagen, die Ögedeis Zögern beschrieben, seine letzten Worte, seine Frage, ob Güyük der richtige Erbe sei. Diese Passagen waren nicht in der Mappe. Sie waren vergraben, in der Steppe, unter einer Schicht aus Erde und Stein, und sie würden dort bleiben, solange Shigi lebte.
+
+Er schloss die Mappe und legte sie zurück in die Truhe, dann verriegelte er sie und setzte sich wieder an den Tisch, um die Antwort zu schreiben, die er schon lange vorbereitet hatte.
+
+---
+
+Zwei Tage später, am Morgen des dritten Tages, brachte Shigi die Mappe persönlich in die Kanzlei des Khans.
+
+Er ging durch die Gänge, die er seit vierzig Jahren kannte, an den Wachen vorbei, die ihn musterten, an den Schreibern, die die Köpfe senkten, an den Dienern, die die Blicke abwandten. Die Luft war schwer, erfüllt von dem Geruch von Leder und Papier und dem schwachen, süßlichen Duft von Weihrauch, der aus dem Empfangssaal des Khans drang. Shigi atmete tief ein, dann trat er ein.
+
+Toghril erwartete ihn, vor einem Tisch aus lackiertem Holz, der mit weißen Papieren bedeckt war, wie ein Feld, das mit Schnee zugedeckt war. Er nahm die Mappe entgegen, öffnete sie, und begann zu blättern, Seite für Seite, mit einer Langsamkeit, die Shigi an die Art erinnerte, wie ein Jäger die Spuren eines Tieres studiert, um zu entscheiden, ob es verwundet war.
+
+„Sie ist unvollständig“, sagte Toghril nach einer Weile, ohne aufzusehen.
+
+„Sie ist eine Chronik“, erwiderte Shigi ruhig. „Chroniken sind nie vollständig, weil die Geschichte nie vollständig ist. Was ich aufgeschrieben habe, ist das, was ich gesehen, gehört und für wahr befunden habe. Mehr gibt es nicht.“
+
+„Ich habe gehört, dass Sie an einer zweiten Fassung arbeiten, Richter. Einer privaten, die die Ereignisse der letzten Jahre detaillierter beschreibt. Der Khan wäre sehr interessiert an dieser Fassung, wenn sie existiert.“ Toghril sah auf, seine Augen waren kalt, ohne jedes Licht. „Existiert sie?“
+
+Shigi hielt seinem Blick stand, ohne zu blinzeln, ohne zu zögern, ohne eine Spur von Unsicherheit in seiner Stimme. „Es gibt keine zweite Fassung. Was ich geschrieben habe, ist hier, vor Ihnen. Alles andere ist verstreut, in den Registern der Kanzleien, in den Abschriften der Boten, in den Erinnerungen der Zeugen. Ich habe nichts versteckt, nichts zurückgehalten, nichts gelöscht. Das ist das Gesetz, und ich folge ihm.“
+
+Toghril sah ihn lange an, eine Stille, die schwer war von unausgesprochenen Worten. Dann nickte er einmal, knapp, und legte die Mappe beiseite. „Ich werde Ihre Aussage prüfen, Richter. Wenn sie sich als falsch erweist, wird der Khan Sie persönlich zur Rechenschaft ziehen. Sie wissen, was das bedeutet?“
+
+„Ich weiß es“, sagte Shigi.
+
+Er verbeugte sich knapp, dann wandte er sich um und ging, langsam, seine Schritte hallten auf dem Steinboden der Kanzlei, während er durch die Gänge zurückkehrte, in denen die Schatten länger wurden, als der Tag sich neigte.
+
+---
+
+Am Abend, als die Sonne hinter den Bergen versank und die Zeltstadt in ein fahles Zwielicht tauchte, erschien Güyük persönlich in Shigis Kanzlei.
+
+Shigi hörte die Schritte, bevor er sie sah – der schwere, gleichmäßige Tritt eines Mannes, der es gewohnt war, dass andere ihm aus dem Weg wichen. Er blieb sitzen, die Hände auf dem Tisch, das Gesicht dem Eingang zugewandt, als der Khan die Tür öffnete und eintrat, gefolgt von einem Diener, der eine Lampe trug, deren Licht flackernde Schatten an die Wände warf.
+
+Güyük war allein, ohne Leibwächter, ohne Schreiber, ohne Zeugen. Er trug ein schlichtes Gewand aus grauer Wolle, keine Verzierungen, keine Symbole seiner Macht, aber seine Augen waren die eines Jägers, der seine Beute einkreist, und sein Mund war ein schmaler Strich, der kein Lächeln kannte.
+
+„Richter“, sagte er, und seine Stimme war ruhig, aber unter der Ruhe lag eine Kälte, die Shigi bis ins Mark spürte.
+
+„Khan“, erwiderte Shigi, ohne aufzustehen.
+
+Güyük trat näher, blieb vor dem Tisch stehen, und sah auf die Papiere hinab, die darauf ausgebreitet lagen, die Dekrete, die Notizen, die Listen der Inventur. Er nahm eines der Dekrete in die Hand, las es, und legte es zurück, seine Finger berührten das Papier wie die eines Chirurgen, der eine Wunde untersucht.
+
+„Du hast ein Gedächtnis, Richter“, sagte er, ohne aufzusehen. „Das weiß ich, seit ich ein Kind war. Du erinnerst dich an jedes Urteil, das du gesprochen hast, an jeden Namen, den du in dein Buch geschrieben hast, an jedes Wort, das vor dir gesprochen wurde. Es ist dein Amt, aber es ist auch dein Wesen. Du bist das Gedächtnis dieses Hauses, und ohne dich wäre die Vergangenheit nichts als ein Gerücht, das im Wind verweht.“
+
+Shigi antwortete nicht. Er wartete, seine Hände lagen flach auf dem Tisch, seine Augen waren auf Güyüks Gesicht gerichtet, auf die Linien um seinen Mund, auf die Spuren von Schlaflosigkeit unter seinen Augen, auf die Härte in seinem Blick, die nichts Gutes verhieß.
+
+Güyük sah auf, und ihre Blicke trafen sich, wie zwei Klingen, die sich im Kampf kreuzen, ohne dass einer nachgab. „Du hast mir damals, als ich noch ein Prinz war, die leere Akte gegeben. Die Akte über den Tod meines Vaters, die keine Antworten enthielt, keine Beweise, keine Wahrheit. Du hast mich belogen, Richter, und du hast gelogen mit dem Gesicht eines Mannes, der das Gesetz spricht, als wäre er selbst das Gesetz. Ich habe es nicht vergessen. Ich vergesse nichts, genau wie du.“
+
+„Ich habe nicht gelogen, Khan“, sagte Shigi, seine Stimme ruhig, aber seine Finger krümmten sich unter dem Tisch, unsichtbar, ein Zeichen der Anspannung, das er zu verbergen suchte. „Ich habe Ihnen die Akte gegeben, die existierte. Die Ärzte haben den Tod Ihres Vaters auf Herzversagen festgestellt, und ich habe diese Feststellung bestätigt. Wenn es andere Beweise gibt, die nicht in der Akte stehen, dann lagen sie nicht in meiner Macht, sie zu finden. Ich bin Richter, Khan, nicht Detektiv. Ich urteile über das, was vor mir liegt, nicht über das, was hinter den Kulissen geschieht.“
+
+Güyük lächelte, ein Lächeln ohne Wärme, ein Lächeln, das wie ein Messer schnitt. „Du sprichst wie ein Anwalt, Richter. Du drehst die Worte, bis sie das bedeuten, was du willst, dass sie bedeuten. Aber ich bin kein Anwalt. Ich bin ein Khan, und ich entscheide nicht nach Worten, sondern nach Taten. Und deine Tat, Richter, deine Tat war, mir die Wahrheit zu verweigern, die du mir schuldest, als dem Sohn des Khans, als dem Erben des Hauses. Du hast mich belogen, und du wirst es wieder tun, wenn du denkst, dass es dir nützt. Ich weiß es. Ich habe es immer gewusst.“
+
+Shigi schwieg. Er wusste, dass jede Antwort, die er gab, jede Rechtfertigung, jede Erklärung, nur weiteres Brennholz für das Feuer sein würde, das Güyük in sich trug. Er saß still, die Hände auf dem Tisch, das Gesicht unbewegt, während er das Gewicht der Worte spürte, die wie Steine auf ihn fielen.
+
+Güyük trat einen Schritt näher, beugte sich vor, seine Stimme war ein Flüstern, das nur für Shigi bestimmt war. „Du hast die Chronik versteckt, Richter. Die echte Chronik, die die Wahrheit enthält, die du mir verweigerst. Du hast sie vergraben, in der Steppe, bei den Gräbern der Vorfahren, wo du glaubst, dass niemand sie finden wird. Aber ich werde sie finden. Ich werde sie finden, und wenn ich sie finde, werde ich dich vor das Tribunal stellen, das ich für dich vorbereitet habe. Du wirst vor mir stehen, und du wirst mir in die Augen sehen, und du wirst mir sagen, was du weißt, was du immer gewusst hast, was du mir geschuldet hast, seit dem Tag, an dem mein Vater starb. Und dann, Richter, dann wirst du sterben, nicht als Held, nicht als Märtyrer, sondern als Lügner, der die Wahrheit gestohlen hat, die ihm nicht gehörte. Verstehst du?“
+
+Shigi hob den Kopf, seine Augen waren ruhig, seine Stimme klar, als er antwortete. „Ich verstehe, Khan. Ich habe es immer verstanden. Aber ich bin Richter, und ich folge dem Gesetz, nicht dem Willen des Mächtigen. Wenn Sie mich für schuldig halten, dann stellen Sie mich vor ein Tribunal. Ich werde mich verteidigen, wie ich es immer getan habe, mit den Worten des Gesetzes, das ich diene. Und wenn Sie mich verurteilen, dann mag ich sterben, aber das Gesetz wird bleiben, und die Wahrheit wird bleiben, und nichts, was Sie tun, kann das ändern.“
+
+Güyük richtete sich auf, sein Gesicht war eine Maske aus Zorn und Verachtung, aber hinter der Maske lag etwas anderes, etwas, das Shigi nicht einordnen konnte – Respekt, vielleicht, oder Furcht, oder eine Mischung aus beidem, die den Khan verunsicherte, ohne dass er es zeigen wollte. Er drehte sich um, ohne ein weiteres Wort, und ging, die Tür fiel hinter ihm ins Schloss, und die Stille, die zurückblieb, war schwerer als jedes Dekret, das er je gelesen hatte.
+
+Shigi blieb sitzen, lange nachdem die Schritte verklungen waren. Er dachte an die Chronik, die in der Steppe lag, an die Worte, die sie enthielt, an die Wahrheit, die er bewahrte, und an die Lüge, die er gesprochen hatte, um sie zu schützen. Der Krieg um die Texte war offiziell erklärt. Beide wussten, dass der andere wusste. Die Frage war nur noch, wer zuerst zog.
+
+Er stand auf, ging zum Fenster, und blickte hinaus in die Nacht, in der die Lichter der Zeltstadt flackerten wie Sterne, die am Himmel erloschen. Der Herbstwind trug den Geruch von Rauch und Staub, und irgendwo in der Ferne hörte er das Geräusch von Pferden, die in der Dunkelheit galoppierten, und er wusste, dass die Zeit, die ihm blieb, knapp war, und dass jede Entscheidung, die er traf, das letzte Wort über sein Leben haben würde.
+
+Er wandte sich um, schloss die Tür seiner Kanzlei, und setzte sich an den Tisch, um zu schreiben, was er noch nie geschrieben hatte: eine Notiz, die Fatima erreichen würde, bevor es zu spät war, eine Warnung, ein Geständnis, ein letzter Satz, der alles verändern würde.
+
+---
+
+## 25. Der Onkel
+
+Karakorum, Winter 1246/47
+
+Die Felle im Gerichtszelt waren heute neu ausgelegt worden.
+
+Shigi Qutuqu bemerkte es, als er eintrat, den Saum seines Mantels über den weißen Pelz ziehend. Keine abgetretenen Stellen, keine verfilzten Büschel, wo die Füße der Prinzen in den vergangenen Wochen gestanden hatten. Man hatte das Zelt für diesen Tag hergerichtet, so wie man einen Opferstein säubert, bevor man das Tier hinlegt.
+
+Die Beisitzer waren bereits versammelt.
+
+Prinz Eljigidei, der seine Truppen aus dem Westen herangeführt hatte, saß links, die Arme vor der Brust verschränkt. Neben ihm Prinzen, die Shigi aus drei Jahrzehnten kannte, Männer, die Dschingis Khan noch persönlich gekannt hatten, die mit ihm geritten waren, als die Welt noch jung und das Blut noch warm gewesen war. Sie saßen auf ihren Kissen, keiner sprach, keiner sah den anderen an.
+
+Das Zelt war zu warm. Die Kohlenbecken glühten, obwohl der Winter draußen die Lederplanen knistern ließ, und der Geruch von Fett und Harz hing in der Luft, flach und aufdringlich, wie der Geruch eines Schlachtfeldes am Tag danach.
+
+Shigi nahm seinen Platz ein.
+
+Der Richterstuhl war erhöht, nur um eine Handbreit, aber es genügte. Von hier aus sah er die Gesichter der Prinzen, die gesenkten Köpfe, die Hände, die in den Schößen lagen, und die Leere, die sich wie ein Schleier über die Versammlung gelegt hatte.
+
+Niemand sprach.
+
+Es war still, so still, dass Shigi das Knistern der Felle hörte, wenn sich jemand bewegte, das leise Zischen der Kohlen, das entfernte Trommeln von Pferdehufen draußen, wo die Welt noch weiterging, unbekümmert, unwissend.
+
+Er wartete.
+
+Der Angeklagte wurde hereingeführt, als die Sonne ihren höchsten Punkt erreicht hatte und das Licht durch die Lücke im Zeltdach fiel, ein schmaler, weißer Strahl, der in der Mitte des Raumes aufschlug, wie eine Lanze aus einer anderen Welt.
+
+Temüge Otchigin, der letzte lebende Bruder des Gründers, trat durch den Eingang.
+
+Er war alt.
+
+Das war das erste, was Shigi sah, als der Mann hereinkam, das erste, was er wirklich sah: das Alter, das in seinen Knochen saß, in der Art, wie er ging, langsam, vorsichtig, jeden Schritt setzend, als müsse er sich erst vergewissern, dass der Boden ihn noch trug. Falten durchzogen sein Gesicht, tief und dunkel, wie die Risse in einem Flussbett, das jahrelang trocken gelegen hatte. Seine Hände zitterten, leicht, kaum sichtbar, aber Shigi sah es, weil er hinsehen gelernt hatte, weil er gelernt hatte, die kleinen Dinge zu sehen, die großen Dinge, die in den kleinen versteckt lagen.
+
+Temüge trug sein Haar in einem Zopf, grau und dünn, wie der Schweif eines alten Pferdes. Er trug den Mantel der Prinzen, blau und gold, aber er trug ihn, als lastete er schwer auf seinen Schultern, zu schwer, zu alt für einen Mann, der seine Schlachten hinter sich hatte, der glaubte, über den Kämpfen zu stehen, die die Jungen austrugen.
+
+Hinter ihm, zwei Wachen.
+
+Shigi bemerkte, dass sie jünger waren als die Prinzen, die hier saßen, harte Gesichter, kalt, die Hände an den Schwertern, die sie trugen, und die Art, wie sie standen, die Schultern breit, die Blicke geradeaus, als warteten sie auf ein Zeichen, ein Wort, eine Geste.
+
+Das Zelt füllte sich.
+
+Nicht mit Menschen – die Menschen waren schon da –, sondern mit etwas anderem, etwas, das schwerer war als Pelz und Fleisch und Knochen. Es drückte von oben, von den Seiten, von innen, aus den Ritzen der Zeltstangen, aus den Nähten der Lederplanen, aus der Erde selbst, die unter den Füßen der Männer in diesem Zelt zertrampelt worden war von Generationen von Pferden und Kriegern und Städten, die sie niedergebrannt hatten, und Völkern, die sie ausgelöscht hatten, und Thronen, die sie errichtet hatten auf dem Fundament von Knochen und Asche.
+
+Shigi atmete.
+
+Einmal, tief, langsam, die Luft eingesogen, bis sie in seinen Lungen brannte, und dann ausgestoßen, ein Nebel, der in der Kälte des Zeltes verschwand.
+
+Er hob die Hand.
+
+Die Wachen traten zurück. Temüge Otchigin stand allein, in der Mitte des Zeltes, unter dem Lichtstrahl, der auf ihn fiel, als suchte der Himmel selbst ihn aus, als markierte er ihn, so wie man ein Tier markiert, bevor man es schlachtet.
+
+„Prinz Temüge“, sagte Shigi. Seine Stimme klang ruhig, flach, ohne Emotion, so wie er es gelernt hatte, in all den Jahren, in denen er Urteile gesprochen hatte über Diebe und Mörder und Verräter, über Männer, die gestohlen hatten, weil sie hungrig waren, und Männer, die getötet hatten, weil sie konnten, und Männer, die verraten hatten, weil sie glaubten, es sei der einzige Weg zu überleben.
+
+„Du stehst vor dem Gericht des Khans, angeklagt, nach dem Tod deines Neffen, Khagan Ögedei, eigenmächtig Truppenbewegungen durchgeführt zu haben, ohne Befehl der Regentin, ohne Wissen des Hofes, ohne Rechtfertigung vor dem Gesetz. Du stehst vor dem Gericht des Khans, angeklagt, die Einheit des Reiches gefährdet zu haben, die dein Bruder mit seinem Blut erkämpft hat, die dein Neffe mit seiner Weisheit bewahrt hat. Du stehst vor dem Gericht des Khans, angeklagt, den Frieden gebrochen zu haben, der über den Gräbern deiner Vorfahren wacht, und den Eid, den du geschworen hast, als du unter dem Himmel standest und deine Hand auf das Schwert legtest, das dein Bruder trug, als er die Welt eroberte.“
+
+---
+
+## 26. Der goldene Becher
+
+Der goldene Becher
+
+Der Geruch von kaltem Fett und Kampfer hing im Zelt wie ein zweiter Vorhang.
+
+Fatima kniete nieder auf der Filzmatte vor Töregenes Lagerstatt und wartete darauf, dass die Regentin sie bemerkte. Das dauerte diesmal länger als sonst – drei Herzschläge mehr als gestern, vielleicht fünf mehr als vorgestern. Die Zeit kroch anders hier drinnen, wo das Licht durch gefrorene Lederplanen fiel und jede Bewegung schwer war wie Blei in der Kälte des Winters 1246.
+
+Töregene lag aufgestützt auf gestapelten Kissen aus grauem Filz und chinesischer Seide, deren Muster unter dem Gebrauch verblichen waren wie alles hier drinnen außerhalb des Lichtstrahls einer einzelnen Lampe auf einem Bronzetisch neben ihrem Bett.
+
+Neben der Lampe standen zwei Kelche aus Jade – unberührt seit Tagen nach Fatimas Wissen – und eine kleine Schale mit getrockneten Aprikosen , deren Oberfläche schon rissig geworden war von der trockenen Hitze des Kohlebeckens , das Tag und Nacht brannte , obwohl niemand ihn beaufsichtigte .
+
+„Du kommst noch“, sagte Töregene . Ihre Stimme klang dünner als damals , als sie noch Dekrete diktierte , aber immer noch klar , immer noch schneidend . „Ich hätte gedacht , du hättest Besseres zu tun .“
+
+„Ich komme jeden Tag “ , erwiderte Fatima .
+
+Sie sagte es ohne Vorwurf , weil es wahr war und weil sie wusste , dass Töregene zählte . Die Regentin zählte alles : wer kam , wer blieb , wer wegging . Sie inventarisierte ihre Welt wie einen Haushalt vor einer langen Reise .
+
+„Jeden Tag “ wiederholte Töregene . Sie lächelte nicht . „Man lernt am Ende die Preise . Weißt du , was ich gelernt habe ?“
+
+Fatima schwieg .
+
+„Geschenke kommen noch “ , sagte Töregene . Ihre Finger tasteten über die Decke aus Kamelhaar , zupften an einem losen Faden . „Die Fürsten nicht mehr . Die Gesandten nicht mehr . Aber Geschenke kommen noch . Goldschalen aus Georgien . Seide aus Song . Ein lebendiger Leopard aus Indien , den sie mir geschickt haben – er ist letzte Woche erfroren , weil keiner sich mehr um ihn gekümmert hat .“
+
+Sie lachte kurz auf , ein Laut ohne Wärme .
+
+„Geschenke sind billiger als Anwesenheit “ , sagte sie . „Man gibt Gold statt Zeit . Und man hofft , dass niemand den Unterschied bemerkt .“
+
+Fatima senkte den Kopf .
+
+Draußen hörte sie Pferdegetrappel vorbeiziehen – Wachen Güyüks wahrscheinlich oder Boten oder Diener mit Nachrichten für wichtigere Menschen als eine sterbende Regentin in ihrem Winterquartier am Rande des Hofes .
+
+Töregene bewegte sich unbehaglich auf ihren Kissen .
+
+„Hilf mir hoch “ , sagte sie .
+
+Fatima stand auf und griff unter ihren Arm . Die Regentin war leichter geworden in diesen Wochen ; ihr Körper fühlte sich an wie trockenes Holz unter dem Mantel aus Brokat und Pelz . Sie stützte sich auf Fatimas Schulter während Fatima sie vorsichtig aufrichtete bis sie saß mit dem Rücken gegen die gestapelten Kissen gelehnt .
+
+Ihr Atem ging flach .
+
+Für einen Moment sahen sie sich an im gelben Licht der Lampe : zwei Frauen , fünf Jahre eines gemeinsamen Geheimnisses zwischen ihnen wie ein unsichtbarer Faden gesponnen aus Schweigen und Wissen .
+
+Töregene deutete auf eine Truhe am Fußende des Lagers .
+
+„Öffne sie “ , sagte sie .
+
+Fatima ging hinüber zur Truhe aus Eichenholz mit Eisenbeschlägen deren Schloss intakt war aber kein Siegel trug mehr seit Güyük alle Siegel seiner Mutter eingezogen hatte vor drei Monaten nachdem er offiziell Khagan geworden war .
+
+Sie hob den Deckel an .
+
+Drinnen lag Kleidung zusammengelegt in ordentlichen Stapeln : Mäntel Röcke Unterkleider alles fein gewebt aber alt getragen von Jahren des Gebrauchs darunter ein Bündel Leder zusammengeschnürt mit einem Riemen aus Rohhaut .
+
+Fatima zog es hervor .
+
+Es war schwerer als es aussah ; etwas Metallisches klapperte leise darin als sie es auf das Bett legte neben Töregenes Hüfte .
+
+Töregene löste den Knoten mit langsamen Fingern deren Gelenke geschwollen waren vom Alter oder von der Kälte oder von beidem zusammen während Fatima daneben stand ohne etwas zu sagen ohne etwas zu tun nur zusehend wie sich das Leder öffnete Schicht für Schicht bis darunter zum Vorschein kam :
+
+Der goldene Becher von 1241
+
+Er glänzte im Lampenschein matt von Jahren im Verborgenen aber unverkennbar : breite Form getrieben mit Mustern von Weinranken die um einen Rand liefen ausgearbeitet von einer Hand deren Meisterschaft man noch sah trotz der Dunkelheit dieses Raums trotz der Jahre trotz allem was geschehen war seit er zum letzten Mal ans Licht gekommen war im Zelt eines toten Khans während draußen das Gelage weiterging als wäre nichts gewesen
+
+Fatimas Herz schlug einmal hart gegen ihre Rippen dann normal weiter
+
+Sie sah den Becher an
+
+Fünf Jahre
+
+Fünf Jahre seit dieser Nacht fünf Jahre seit sie ihn zuletzt gesehen hatte als Töregene ihn zurücklegte in dieselbe Truhe ohne ein Wort fünf Jahre voller Briefe Dekrete Intrigen Besuche Gespräche Schweigen fünf Jahre in denen niemand diesen Gegenstand berührt hatte außer ihnen beiden
+
+Töregene nahm den Becher in beide Hände hob ihn langsam hoch bis er im vollen Licht der Lampe stand
+
+Das Gold fing das Licht ein hielt es fest gab es zurück in warmem Schimmer
+
+„Weißt du “ sagte Töregene leise ohne Fatima anzusehen „was mich am meisten beschäftigt hat all diese Jahre ?“
+
+Fatima wartete
+
+Nicht ob jemand ihn vergiftet hat “
+
+sagte Töregene
+
+Das wusste ich früh genug
+
+Sondern ob ich es gewusst habe bevor er starb oder erst danach“
+
+Sie setzte den Becher ab legte ihn flach auf ihre Knie drehte ihn langsam zwischen ihren Händen während ihre Augen über seine Oberfläche strichen über die Weinranken über den Rand wo einmal Lippen eines Khans seine Spur hinterlassen hatten vor langer Zeit ehe alles begann ehe alles endete ehe zwei Frauen allein zurückblieben im Licht einer einzelnen Lampe im Winterquartier einer sterbenden Regentin
+
+Fatima öffnete den Mund dann schloss sie ihn wieder weil ihr nichts einfiel was gesagt werden durfte hier nichts was nicht falsch klingen würde oder naiv oder verräterisch an dem stillen Pakt dessen Bedingungen beide kannten seit fünf Jahren ohne je darüber gesprochen zu haben
+
+Töregene lächelte wieder dieses Lächeln ohne Wärme ohne Humor nur eine Bewegung von Lippenmuskeln trainiert durch Jahrzehnte am Hof eines Mannes der keine Fragen duldete außer seinen eigenen
+
+„In jener Nacht “ sagte sie „nachdem du gegangen warst saß ich hier mit diesem Becher in meinen Händen genau so wie jetzt Und ich habe mir dieselbe Frage gestellt immer wieder dieselbe Frage : Habe ich gewusst dass mein Mann sterben würde bevor er starb Oder habe ich es erst begriffen nachdem sein Herz aufgehört hatte zu schlagen ?“
+
+Ihre Stimme zitterte kaum merklich aber deutlich genug für jemanden der fünf Jahre gelernt hatte jedes Zittern ihrer Herrin zu lesen jedes Zögern jedes Verbergen hinter glatten Worten
+
+Weißt du was meine Antwort ist ?“
+
+fragte Töregene
+
+Fatima schüttelte langsam den Kopf
+
+Es spielt keine Rolle“
+
+sagte Töregene
+Ob ich es wusste oder nicht ändert nichts an dem was passiert ist
+Und was passiert ist ändert nichts an dem was jetzt passieren muss“
+
+Sie legte den Becher hin neben sich auf die Decke griff nach einem Lappen aus weichem Leder begann damit das Gold zu polieren mechanisch fast abwesend während ihre Gedanken woanders waren weit weg vielleicht im Sommer 1241 vielleicht weiter zurück vielleicht dort wo kein Mensch mehr hinreichen konnte außer ihr allein in diesem Raum dieser Nacht diesem Augenblick zwischen Leben und Tod zwischen Macht und Ohnmacht zwischen Wahrheit und dem was übrig bleibt wenn Wahrheit nutzlos geworden ist
+
+Fatima setzte sich auf einen Schemel neben dem Bett ohne gefragt worden zu sein weil Höflichkeit hier keinen Sinn mehr ergab unter denen die bald sterben würden oder bald verlassen sein würden allein zurückgelassen mit nichts außer Erinnerungen an Dinge die besser vergessen wären wenn Vergessen möglich wäre unter Menschen denen man beigebracht hatte sich zu erinnern generationenlang bis jede Narbe zum Familienwappen wurde jeder Schmerz zur Legende jedes Geheimnis zur Münze geprägt für spätere Geschäfte
+
+Töregenes Hand ruhte kurz still auf seiner Oberfläche dann begann sie wieder zu polieren Strich für Strich gleichmäßig geduldig wie jemand der Abschied nimmt von einem Gegenstand indem man ihm seine letzte Schönheit schenkt bevor er verwandelt wird in etwas anderes etwas Nützlicheres etwas Unkenntliches mehr
+
+Ich hätte fragen können damals“
+sagte sie
+In jener Nacht am nächsten Morgen Ich hätte Shigi rufen können Ich hätte Ärzte herbeordern können Ich hätte Untersuchungen befohlen Ich hätte Diener verhören lassen Ich hätte alles tun können was eine Witwe tut wenn ihr Mann stirbt unter Umständen die seltsam genug sind um Zweifel zu sähen“
+
+Ihre Finger stoppten mitten im Polieren ruhten still auf dem Gold des Bechers dessen Glanz jetzt heller geworden war unter ihrer Arbeit heller fast gleißend im Schein der Lampe heller als alles andere in diesem dunklen Raum voller Schatten halb geleerter Kelche getrockneter Früchte einsamer Tage gezählt von einer Frau deren Macht geschmolzen war wie Schnee unter einer Frühlingssonne deren Rückkehr niemand mehr erwartete hier draußen am Rand des Reiches am Rand des Lebens am Rand dessen was übrig bleibt wenn alles andere weggenommen ist bis auf eine Handvoll Gegenstände Erinnerungen Geheimnisse die niemand mehr braucht außer denen die daran sterben werden früher oder später so sicher wie das Gold dieses Bechers morgen Abend neu gegossen sein wird zu etwas anderem etwas Heiligem etwas Unverfänglichem etwas das man segnen kann statt verdammen statt verfluchen statt bewahren als Zeugen eines Verbrechens dessen Namen niemand ausspricht seit fünf Jahren weil Aussprechen bedeutet einzugestehen dass man weiß was besser ungewusst bliebe wenn man weiterleben will unter denen welche Antworten geben müssen weil Antwort immer einen Schuldigen fordert und Schuldige immer gefunden werden früher oder später so sicher wie dieser Winter endet so sicher wie dieser Sommer kommt so sicher wie Güyük mich beerben wird mein Fleisch meine Knochen meine Macht meine Fehler meine Lügen meine Wahrheiten alles wird ihm gehören bald sehr bald vielleicht schon morgen vielleicht heute Nacht vielleicht noch bevor dieser Becher geschmolzen ist zu Tempelgold gebetet geweiht verwandelt geläutert unkenntlich gemacht für alle Ewigkeit Amen Amen Amen
+
+---
+
+## 27. Die Regentin ist tot
+
+Der Tod kam in der Nacht, unspektakulär, wie die meisten wichtigen Dinge in diesem Reich.
+
+Fatima saß auf dem Filz am Fußende der Liege und beobachtete, wie das Atmen aufhörte. Kein letzter Seufzer, kein Zucken, kein Kampf. Töregene Khatun, Regentin des Weltreichs, Herrscherin über die Ordos, die Frau, die den Tod eines Khans verheimlicht und einen anderen auf den Thron gesetzt hatte – sie hörte einfach auf zu atmen, mitten in einem Wort, das niemand mehr hören würde.
+
+Die Lampe flackerte. Der Wind zerrte an den Filzwänden des Zeltes. Draußen schlief der Hof, der bereits wusste, dass dies kommen würde, und der sich bereits neu sortierte, bevor der letzte Atemzug verklungen war.
+
+Fatima saß still. Sie wusste, dass sie die Regeln einhalten musste: die Totenwache, die mindestens bis zum Morgengrauen dauerte, die Anwesenheit einer Vertrauten, die den Übergang bezeugte. Keine Trauer, keine Tränen – das war nicht vorgesehen für eine Dienerin. Nur Anwesenheit. Nur Zeugenschaft.
+
+Sie sah auf die Tote hinab. Töregene war klein gewesen im Leben, aber im Tod wirkte sie noch kleiner, zusammengefallen, als hätte die Macht ihren Körper aufgebläht und sei nun entwichen wie Luft aus einem zerstochenen Schlauch. Die Frau, die die Welt regiert hatte, passte jetzt in eine Kiste.
+
+Stell dir das vor, Schwester.
+
+Fatima bewegte die Lippen lautlos, formte die Worte, die sie bald schreiben würde. Die Frau, die Prinzen empfing, die Gesandte aus Bagdad und Kiew abfertigte, die den Aufstieg ihres Sohnes gegen den Willen eines toten Mannes durchgesetzt hatte – sie lag da, klein, ausgezehrt, die Hände auf der Brust gefaltet, als hätte jemand sie so hingelegt wie eine Puppe, mit der man nicht mehr spielt.
+
+Die Lampe warf Schatten auf die Zeltwand. Fatima hörte das leise Knacken der Filze, das Knarren der Stangen, die Geräusche der Nacht, die sich nicht darum scherten, dass eine Regentin gestorben war. Der Wind würde weiterwehen. Die Wachen würden ihre Runden drehen. Die Köche würden das Feuer schüren, ohne zu wissen, dass das Frühstück heute keinen Empfänger mehr hatte.
+
+Fatima saß da, und die Stille wurde schwerer mit jeder Stunde.
+
+Sie dachte an den goldenen Becher. Sie dachte an die Enthüllung, die Töregene ihr gezeigt hatte, an die Worte, die sie ausgesprochen hatte, ohne sie je zu beweisen. *Ich hätte fragen können.* Die Frage, die nie gestellt worden war, war jetzt mit Töregene gestorben, und niemand würde sie je beantworten. Vielleicht war das die letzte Wahrheit dieses Reiches: Antworten starben mit denen, die sie hätten geben können, und die Lebenden blieben zurück mit dem, was sie wussten, und dem, was sie nie erfahren würden.
+
+Der Morgen kam langsam, grau und kalt. Fatima stand auf, als das erste Licht durch die Zeltluke fiel, und ging hinaus in den Hof, der bereits erwachte. Sie sah die Blicke der Diener, das Flüstern der Wachen, das schnelle Wegdrehen der Gesichter. Der Tod war angekommen, und mit ihm die Neuordnung.
+
+Sie ging zu ihrem Zelt, zog die Plane hinter sich zu und setzte sich an den niedrigen Tisch, auf dem das Federetui ihres Vaters lag, das einzige, was sie aus Chorasan gerettet hatte. Sie nahm die Feder heraus, legte ein Blatt Papier zurecht und begann zu schreiben.
+
+*Schwester,*
+
+*ich sitze in meinem Zelt und sollte eigentlich schlafen. Die Wache ist vorbei, die Heiler haben den Leichnam gewaschen, die Schreiber werden bald kommen, um den Tod zu protokollieren. In ein paar Stunden wird der Hof offiziell wissen, was er heute Nacht schon inoffiziell wusste. Die Regentin ist tot.*
+
+*Ich habe die ganze Nacht bei ihr gesessen. Ich habe gesehen, wie sie aufgehört hat zu atmen. Es war nicht dramatisch, Schwester. Es war nicht wie in den Dichtungen, die Juvaini mir einmal vorgelesen hat, wo die Helden sterben mit einem letzten Wort, einem letzten Fluch, einem letzten Kuss. Es war einfach nur das Ende eines Körpers, der zu müde war, weiterzumachen. Die Frau, die die Welt regierte, passt jetzt in eine Kiste. Stell dir das vor, Schwester.*
+
+*Stell dir vor, dass die Hände, die Siegel auf Dekrete drückten, die Prinzen empfingen, die den goldenen Becher polierten, jetzt still liegen. Stell dir vor, dass die Augen, die alles sahen, was in diesem Reich geschah, jetzt geschlossen sind. Stell dir vor, dass die Stimme, die Befehle erteilte, die mich rief, die zu mir sagte „Du bleibst" – dass diese Stimme für immer verstummt ist.*
+
+*Ich trauere um meine Besitzerin.*
+
+*Sag mir, was das über mich verrät.*
+
+Die Feder hielt inne. Fatima starrte auf die Worte, die sie geschrieben hatte, und spürte, wie sich etwas in ihr löste. Die Wahrheit, die sie nie ausgesprochen hatte, stand jetzt auf dem Papier, schwarz auf weiß, unauslöschlich.
+
+*Ich habe dir nie gesagt, wie das war. Ich habe dir nie gesagt, was es bedeutet, einer Frau zu gehören, die dich gekauft hat. Nicht im metaphorischen Sinne, Schwester. Wirklich gekauft. Sie hat Geld für mich bezahlt, als ich auf dem Sklavenmarkt von Buchara stand, zwanzig Jahre alt, zahnlos vor Angst, halb verhungert, und sie hat mich ausgewählt, weil sie eine Frau brauchte, die lesen und schreiben konnte, und weil ich die einzige war, die beim Verhör nicht weinte.*
+
+*Sie hat mich gekauft. Das vergesse ich manchmal, wenn ich in ihrem Zelt sitze und ihre Briefe schreibe, wenn sie mir vertraut, wenn sie mich lobt. Aber dann kommt ein Moment wie heute Nacht, wo ich sie tot daliegen sehe, und ich weiß: Sie hat mich gekauft. Ich war ihr Besitz. Ich bin es immer noch.*
+
+*Und ich trauere um sie.*
+
+*Ich trauere um die Frau, die mich kaufte, die mich kleidete, die mich fütterte, die mir ein Zelt gab, die mir erlaubte, zu schreiben. Ich trauere um die Frau, die mir sagte, ich sei mehr als eine Dienerin, und die mir gleichzeitig nie erlaubte, zu vergessen, dass ich eine war. Ich trauere um die Frau, die mich beschützte, weil ich ihr gehörte, und die mich verraten hätte, wenn es ihr genützt hätte.*
+
+*Sag mir, Schwester, wie man das nennt. Wie man das trennt. Die Dankbarkeit von der Liebe. Die Liebe von der Besitznahme. Die Besitznahme von der Freiwilligkeit. Ich weiß es nicht. Ich habe es nie gewusst.*
+
+*Sie hat mir einmal gesagt, ich sei ihr wertvollstes Werkzeug. Und ich war stolz darauf. Ich war stolz, das Werkzeug einer Regentin zu sein. Ich war stolz, dass meine Feder ihre Macht war. Ich war stolz, dass sie mich brauchte.*
+
+*Was sagt das über mich, Schwester? Dass ich stolz war, ein Werkzeug zu sein? Dass ich meine Sklaverei als Auszeichnung betrachtete? Dass ich die Ketten trug, als wären sie Schmuck?*
+
+*Ich weiß die Antwort. Ich weiß sie, seit ich sie dir schreibe. Ich war stolz, weil ich keine Wahl hatte. Weil die Alternative – wertlos zu sein – schlimmer war. Weil ich gelernt hatte, in meinem Käfig zu tanzen, und weil ich vergaß, dass es ein Käfig war.*
+
+*Und jetzt ist der Käfig leer.*
+
+Fatima legte die Feder nieder und rieb sich die Augen. Das Zelt war heller geworden, das Morgenlicht fiel durch die Filze und ließ den Staub tanzen. Sie hörte Schritte draußen, Stimmen, die leiser wurden, als sie ihr Zelt passierten. Der Hof war wach, und der Hof sortierte sich neu.
+
+Sie nahm die Feder wieder auf.
+
+*Heute Nacht, während ich bei ihr saß, habe ich gehört, wie die Neuordnung begann. Nicht durch Befehle, Schwester. Nicht durch Dekrete. Durch Termine.*
+
+*Ein Bote kam zum Zelt des Kanzleramts und fragte nach den Listen der Provinzsteuern. Ein anderer fragte nach dem Schlüssel zur Schatzkammer. Ein dritter fragte nach dem Verzeichnis der Gesandten, die noch in der Stadt waren. Niemand sagte: „Die Regentin ist tot, und wir übernehmen." Niemand sagte: „Güyük hat jetzt die Macht." Es war einfach so, dass die Termine, die Töregene für heute geplant hatte, plötzlich nicht mehr stattfanden, und dass die Termine, die für Güyük reserviert waren, plötzlich stattfanden.*
+
+*So funktioniert Macht, Schwester. Nicht durch Gewalt. Nicht durch Worte. Durch die schlichte Tatsache, dass ein Termin nicht mehr stattfindet, weil keiner mehr kommt, der ihn einberufen könnte.*
+
+*Ich habe es kommen sehen. Ich habe es vorausgesehen, seit Güyük Khan wurde. Aber es zu sehen und es zu erleben, ist zweierlei.*
+
+*Meine Vollmachten sind ohnehin nichtig. Die hat Güyük schon vor Monaten annulliert, mit einem Federstrich, einer Unterschrift, einem Siegel. Ich bin keine Schattenkanzlerin mehr. Ich bin keine Vertraute der Regentin. Ich bin nichts als eine Frau, die in einem Zelt sitzt und einen Brief an eine Tote schreibt, weil sie niemanden mehr hat, dem sie schreiben könnte.*
+
+*Die Zimmer, die mir zugewiesen waren, werden neu zugewiesen. Die Diener, die mir zugeteilt waren, werden neu zugeteilt. Die Vorräte, die ich beziehen durfte, werden neu bewilligt – oder nicht. Ich werde hören, dass ich umziehen muss, dass ich weniger bekomme, dass ich nicht mehr gebraucht werde. Nicht durch einen Befehl. Durch einen Termin, der nicht mehr stattfindet.*
+
+*Früher war Wissen mein Schutz. Ich wusste Dinge, Schwester. Ich wusste, was in den Briefen stand, die Töregene schrieb. Ich wusste, was in den Berichten stand, die die Spione brachten. Ich wusste, wer wen fürchtete, wer wen haßte, wer wen verriet. Wissen war Macht, und Macht war Schutz.*
+
+*Jetzt ist Wissen nur noch eine Gefahr.*
+
+*Ich weiß, dass Ögedei vergiftet wurde. Ich weiß, dass Töregene den Becher versteckt hat. Ich weiß, dass Güyük Verdacht schöpft, aber nicht genug weiß, um zu handeln – oder zu viel weiß, um zu warten. Ich weiß, dass Shigi die Chronik versteckt hat. Ich weiß, dass Juvaini irgendwo im Westen ist und schreibt, was man ihm befiehlt. Ich weiß, dass ich die Einzige bin, die das ganze Bild kennt.*
+
+*Und deshalb bin ich in Gefahr.*
+
+*Güyük hat mir gedroht, damals, als er noch nicht Khan war. Er hat gesagt, er werde mich zwingen, die Wahrheit zu sagen, oder mich töten lassen. Er hat gesagt, ich sei die Einzige, die wisse, was in jener Nacht geschah. Er hat gesagt, er werde mich finden, und er werde mich nicht vergessen.*
+
+*Ich habe gehofft, dass Töregene mich schützen würde. Ich habe gehofft, dass sie einen Weg finden würde, mich zu retten, wie sie mich immer gerettet hatte. Aber sie ist tot, Schwester, und sie kann niemanden mehr retten, nicht einmal sich selbst.*
+
+*Jetzt bin ich nur noch eine Frau, die etwas gesehen hat.*
+
+*Früher war das mein Beruf. Ich war die Augen der Regentin, die Ohren der Regentin, die Feder der Regentin. Ich habe gesehen, was sie sehen wollte, und ich habe geschwiegen, was sie nicht hören wollte. Ich habe Dinge gesehen, die niemand sehen sollte, und ich habe sie aufgeschrieben, weil ich glaubte, dass sie eines Tages wichtig sein würden.*
+
+*Jetzt ist es mein Todesurteil.*
+
+*Ich schreibe trotzdem weiter.*
+
+*Sag mir, warum.*
+
+Die Feder hielt inne. Das Wort *warum* stand am Ende der Zeile, und es war das schwerste Wort, das Fatima je geschrieben hatte. Sie starrte darauf, als könnte es sich von selbst beantworten, als würde die Tinte sich teilen und die Antwort offenbaren.
+
+Aber die Tinte blieb still. Das Papier blieb leer bis auf das, was sie geschrieben hatte. Keine Stimme antwortete ihr, keine Hand führte die ihre, kein Geist ihrer Schwester erschien im Zelt und sagte: *Weil du es musst. Weil es dein Leben ist. Weil du nicht aufhören kannst, weil Aufhören bedeuten würde, dass alles, was du gesehen und gewusst und ertragen hast, umsonst war.*
+
+Sie wusste die Antwort. Sie hatte sie immer gewusst.
+
+Sie schrieb weiter, weil sie schreiben musste. Weil sie nicht aufhören konnte. Weil das Schreiben das Einzige war, was sie noch hatte, das Einzige, was ihr gehörte, das Einzige, was sie nicht besitzen konnte, weil es kein Besitz war, sondern ein Akt, eine Handlung, ein Leben.
+
+Sie schrieb weiter, weil sie existierte, solange sie schrieb. Weil sie nicht verschwinden würde, solange es ihr Papier gab. Weil sie nicht sterben würde, solange ihre Feder bewegte.
+
+Sie schrieb weiter, weil sie der Hof bereits vergessen hatte, und weil Vergessenwerden der Tod war, und weil sie noch nicht sterben wollte, nicht hier, nicht jetzt, nicht so.
+
+Sie schrieb weiter, weil sie keine Wahl hatte.
+
+*Ich schreibe weiter, Schwester, weil ich nicht weiß, was ich sonst tun soll. Ich schreibe weiter, weil ich glaube, dass es einen Grund gibt, dass ich überlebt habe, damals in Chorasan, damals auf dem Sklavenmarkt, damals all die Jahre, in denen andere starben und ich weitermachte. Ich schreibe weiter, weil ich hoffe, dass dieses Papier eines Tages gelesen wird, und dass jemand versteht, was hier geschah, und dass ich nicht umsonst gelebt habe.*
+
+*Ich schreibe weiter, weil ich Angst habe, aufzuhören.*
+
+*Ich schreibe weiter, weil ich sterben werde, wenn ich aufhöre.*
+
+*Und ich will nicht sterben, Schwester. Noch nicht. Noch nicht.*
+
+Sie legte die Feder nieder, faltete das Blatt sorgfältig und verstaute es im Federetui, neben den anderen Briefen, die sie nie abschicken würde. Sie würde sie verbrennen, bevor sie gefunden wurden, oder sie verstecken, oder sie jemandem geben, der sie lesen würde, wenn sie nicht mehr schreiben konnte.
+
+Sie wusste nicht, was sie tun würde. Sie wusste nur, dass sie weiterschreiben würde, bis der letzte Atemzug aus ihr wich, so wie Töregene weitergemacht hatte, bis ihr Körper sich weigerte, weiterzumachen.
+
+Das Zelt war jetzt hell. Die Stimmen draußen wurden lauter, der Hof erwachte, und die Welt bewegte sich weiter, ohne Töregene, ohne Fatima, ohne die Erinnerung an die Frau, die die Welt regiert hatte und die jetzt in einer Kiste lag, klein und still und endgültig.
+
+Fatima stand auf, strich ihr Gewand glatt und trat vor das Zelt. Die Sonne war aufgegangen, und der Tag begann, wie jeder andere Tag begann, mit dem Geruch von Rauch und Pferden und der Kälte des Winters, der noch nicht vorbei war.
+
+Sie hatte keine Termine mehr. Sie hatte keine Vollmachten mehr. Sie hatte keine Besitzerin mehr.
+
+Sie war nur noch eine Frau, die etwas gesehen hatte, und die weiterschrieb, weil sie nicht wusste, was sonst.
+
+Und das, dachte sie, während sie in den grauen Morgen hinausblickte, war vielleicht die einzige Wahrheit, die sie je besessen hatte.
+
+---
+
+## 28. Die Säuberung
+
+Die Sonne war über Karakorum aufgegangen, aber die Kälte blieb.
+
+Juvaini saß in der Kanzlei, die Hände über der Schreibfläche gefaltet, und beobachtete, wie der neue Tag seine Arbeit auf den Tisch legte. Ein Stapel Dokumente, noch nicht sortiert. Ein Tintenfass, halb gefüllt. Eine Feder, die er heute Morgen zugespitzt hatte, mit einer Sorgfalt, die er sich selbst nicht erklären konnte.
+
+Er war zurück. Arghun Aqa hatte ihn in die Zentralkanzlei beordert, drei Tage nach dem Tod der Regentin, einen Tag nach dem Begräbnis, das niemand wirklich betrauert hatte, weil alle bereits zu beschäftigt waren mit der neuen Ordnung.
+
+Die neue Ordnung.
+
+Güyük Khan regierte jetzt. Güyük Khan, der die Dekrete seiner Mutter annulliert hatte, der die Kanzleien prüfen ließ, der eine Liste der Namen verlangte, die während der Regentschaft aufgestiegen waren.
+
+Juvaini hatte die Liste gesehen. Sie lag auf dem Tisch des Kanzleivorstehers, und sein eigener Name stand darauf, klein und unscheinbar, aber vorhanden.
+
+Er nahm die Feder, tauchte sie ein und begann zu schreiben. Einen Bericht über die Steuereinnahmen der westlichen Provinzen, den Arghun Aqa gestern diktiert hatte. Die Zahlen waren präzise, die Formulierungen korrekt, die Handschrift sauber. Er schrieb, als wäre nichts geschehen. Als wäre die Regentin nicht tot. Als wäre Fatima nicht verschwunden.
+
+Er wusste nicht, wo sie war. Er hatte sie seit der Rückkehr nicht gesehen, nicht einmal im Vorbeigehen, nicht einmal im Schatten eines Zeltes, das sie hätte bewohnen können. Die Gerüchte sagten, sie sei in Töregenes Winterquartier geblieben, am Rand des Hofes, unsichtbar und unerwähnt. Die Gerüchte sagten, Güyük habe sie vergessen. Die Gerüchte sagten, Güyük habe sie nie vergessen.
+
+Juvaini schrieb weiter.
+
+Der Morgen verging in der Stille der Kanzlei, die nur vom Kratzen der Federn und dem Rascheln von Papier unterbrochen wurde. Die anderen Schreiber arbeiteten schweigend, die Köpfe gesenkt, die Blicke auf die Dokumente gerichtet. Sie wussten, dass dies eine Zeit der Vorsicht war. Sie wussten, dass jeder Fehler, jedes unbedachte Wort, jede falsche Adresse tödlich sein konnte.
+
+Der neue Khan liebte das Gesetz. Er liebte die Ordnung. Er liebte die Präzision der Bürokratie, die seine Feinde namentlich erfasste, ihre Vergehen protokollierte, ihre Strafen datierte und begründete.
+
+Er liebte die Akte.
+
+Juvaini hatte die ersten Akten des neuen Regimes gesehen. Sie lagen im Archiv, in einem eigenen Schrank, der mit einem neuen Schloss gesichert war. Der Kanzleivorsteher, ein Mann namens Toghril, den Güyük persönlich eingesetzt hatte, verwaltete sie mit einer Sorgfalt, die Juvaini an die Art erinnerte, wie sein Vater die Familienpapiere sortiert hatte, nach dem Fall von Nischapur, als er die Namen der Toten ordnete, weil er nicht wusste, was sonst.
+
+Die Akten des neuen Regimes waren kurz. Sie enthielten Namen, Daten, Vergehen. Sie enthielten keine Zeugenaussagen, keine Verteidigungen, keine mildernden Umstände. Sie waren Urteile, die noch nicht gesprochen waren, aber bereits feststanden.
+
+Juvaini schrieb weiter.
+
+Am späten Vormittag wurde die Tür der Kanzlei geöffnet, und zwei Soldaten traten ein. Sie waren nicht von der Palastwache, die die Gänge bewachte, sondern von der inneren Garde, den Männern, die Güyük persönlich unterstanden. Sie trugen keine Waffen, aber sie trugen ein Dokument.
+
+Der Kanzleivorsteher Toghril erhob sich, nahm das Dokument entgegen, las es und nickte. Dann wandte er sich an die Schreiber.
+
+„Abd ar-Rahman, Sohn des Yusuf, ist zu verhaften. Der Befehl kommt vom Khan persönlich. Die Anklage lautet auf Veruntreuung von Steuergeldern, Bestechung und Amtsmissbrauch während der Regentschaft."
+
+Die Schreiber hoben die Köpfe. Einige wechselten Blicke. Abd ar-Rahman, der Finanzverwalter der westlichen Provinzen, der Mann, der aus dem Nichts gekommen war und den Aufstieg der Regentin mitgemacht hatte – er war gefallen. Die Nachricht verbreitete sich durch die Kanzlei wie ein Windstoß, der die Blätter auf den Tischen flattern ließ.
+
+Juvaini schrieb weiter.
+
+Toghril setzte sich wieder, nahm eine neue Akte aus dem Schrank und begann zu schreiben. Die Anklageschrift. Die Verhaftungsgründe. Die Verfahrensordnung. Die Höchststrafe.
+
+Juvaini sah die Handschrift des Vorstehers, die klaren, geraden Linien, die Buchstaben, die wie Soldaten in Reih und Glied standen. Es war die Handschrift eines Mannes, der wusste, was er tat, und der keine Zweifel hatte.
+
+Er wandte sich ab und schrieb weiter.
+
+Am Nachmittag wurde Abd ar-Rahman hereingeführt.
+
+Juvaini sah ihn durch das Fenster der Kanzlei, als die Soldaten ihn über den Hof führten. Er war nicht mehr der aufstrebende Kaufmann, der vor zwei Jahren in der Kanzlei gestanden hatte, die Hände auf dem Rücken, das Kinn erhoben, die Stimme laut und selbstbewusst. Er war ein alter Mann, der zwischen den Soldaten ging, den Kopf gesenkt, die Schultern eingefallen, die Kleidung zerknittert und schmutzig.
+
+Er sah aus wie ein Mann, der wusste, dass er sterben würde.
+
+Die Soldaten führten ihn in das Verhörzelt, das neben der Kanzlei aufgebaut worden war, ein schmales, graues Zelt, das Juvaini noch nie betreten hatte, von dem er aber wusste, dass es dort einen Tisch gab, einen Stuhl, eine Lampe und eine Truhe mit Werkzeugen, die er nicht sehen wollte.
+
+Die Tür des Zeltes schloss sich.
+
+Juvaini schrieb weiter.
+
+Die Verhandlung dauerte drei Tage.
+
+Juvaini hörte die Gerüchte, die durch die Kanzlei flogen, die Bruchstücke von Gesprächen, die er nicht hören sollte, die Namen, die geflüstert wurden, wenn Toghril den Raum verließ. Abd ar-Rahman hatte gestanden. Abd ar-Rahman hatte nicht gestanden. Abd ar-Rahman hatte die Namen seiner Komplizen genannt. Abd ar-Rahman hatte geschwiegen, bis die Werkzeuge ihn zum Sprechen brachten.
+
+Juvaini wusste nicht, was wahr war. Er wusste nur, dass die Akte wuchs, Seite um Seite, und dass der Name Abd ar-Rahman darin stand, und dass daneben, in der Spalte für das Urteil, ein Wort stand, das er nicht lesen wollte.
+
+Tod.
+
+Am dritten Tag, am späten Nachmittag, wurde das Urteil verkündet. Juvaini stand am Fenster der Kanzlei, als die Soldaten Abd ar-Rahman aus dem Verhörzelt führten, ihn auf einen Karren hoben und durch das Tor des Hofes fuhren. Der Karren war schlicht, ohne jede Verzierung, und die Räder knarrten auf dem gefrorenen Boden.
+
+Juvaini sah zu, wie der Karren verschwand, und dann wandte er sich ab, ging zurück zu seinem Tisch und setzte sich.
+
+Die Akte von Abd ar-Rahman lag auf dem Tisch des Vorstehers. Sie war geschlossen. Sie würde ins Archiv wandern, in den Schrank mit den neuen Akten, und dort bleiben, bis jemand sie brauchte, um ein anderes Urteil zu begründen, um einen anderen Namen zu verurteilen, um eine andere Geschichte zu schreiben.
+
+Juvaini nahm die Feder, tauchte sie ein und schrieb weiter.
+
+Er schrieb den Bericht über die Steuereinnahmen der westlichen Provinzen, den Arghun Aqa diktiert hatte. Er schrieb die Zahlen, die präzise waren, die Formulierungen, die korrekt waren, die Handschrift, die sauber war. Er schrieb, als wäre nichts geschehen. Als wäre Abd ar-Rahman nicht gestorben. Als wäre der Karren, der ihn aus der Stadt fuhr, nicht real gewesen.
+
+Aber er wusste, dass es real war. Er wusste, dass die Akte auf dem Tisch des Vorstehers den Namen eines Mannes enthielt, der noch am Morgen gelebt hatte, und der jetzt nicht mehr lebte. Er wusste, dass dieselbe Maschinerie, an der er saß, die dieselbe Tinte verwendete, dieselben Federn, dasselbe Papier – er wusste, dass diese Maschinerie ihn morgen, übermorgen, in einem Jahr oder in zehn Jahren verschlingen konnte.
+
+Er wusste, dass sein Name auf der Liste stand.
+
+Er schrieb weiter.
+
+Eine Woche später kam die Nachricht von Chinqai.
+
+Juvaini erfuhr es von Arghun Aqa, der ihn in der Kanzlei aufsuchte, am späten Abend, als die anderen Schreiber bereits gegangen waren. Arghun Aqa setzte sich auf den Stuhl gegenüber, nahm die Lampe vom Tisch, stellte sie zwischen sich und Juvaini und sprach leise, mit einer Stimme, die müde klang und alt.
+
+„Chinqai ist tot."
+
+Juvaini legte die Feder nieder. Er sah Arghun Aqa an, der das Licht der Lampe auffing, das Gesicht halb im Schatten, die Augen rot gerändert.
+
+„Ködens Erben haben ihn ausgeliefert. Sie haben ihn in der Nacht nach Güyüks Thronbesteigung in Ketten gelegt und nach Karakorum geschickt. Der Khan hat ihn nicht einmal verhört. Er hat das Urteil aus der Akte seiner Mutter übernommen, die Anklage, die sie vor fünf Jahren gegen ihn erhoben hat, die Chinqai entkommen war, weil Köden ihn schützte, und weil Köden tot ist, und weil seine Söhne keine Angst vor einem toten Prinzen haben, sondern nur vor einem lebenden Khan."
+
+Juvaini schwieg. Er sah das Licht der Lampe, das auf Arghun Aqas Gesicht tanzte, und er dachte an den alten Kanzler, den Mann, der durch drei Regierungen gefallen war, den Mann, den Töregene gehasst hatte, den Köden geschützt hatte, den Güyük jetzt hingerichtet hatte.
+
+Drei Regierungen. Ein Opfer.
+
+„Sie haben ihn hingerichtet", sagte Arghun Aqa, „heute Morgen, vor den Toren der Stadt, auf demselben Platz, an dem sie Temüge Otchigin hingerichtet haben, und auf dem sie Abd ar-Rahman hingerichtet haben, und auf dem sie alle hinrichten werden, die auf der Liste stehen."
+
+Juvaini nickte. Er wusste, dass die Liste länger war, als er dachte. Er wusste, dass die Namen darauf standen, die während der Regentschaft aufgestiegen waren, die von Töregene gefördert worden waren, die ihre Macht ihrer Gönnerin verdankten. Er wusste, dass sein Name darauf stand, und dass es nur eine Frage der Zeit war, bis die Soldaten kamen, um ihn zu holen.
+
+Aber er wusste auch, dass Arghun Aqa ihn beschützen würde, wenn er nützlich war. Dass er überleben würde, wenn er unverzichtbar war. Dass er nicht sterben würde, solange er schrieb.
+
+Er nahm die Feder, tauchte sie ein und schrieb weiter.
+
+Arghun Aqa sah ihm zu, schweigend, und dann stand er auf, nahm die Lampe und ging hinaus in die Nacht, die kalt war und still und voller Namen, die noch nicht geschrieben waren.
+
+Juvaini schrieb.
+
+Der Papstbrief kam zwei Wochen später.
+
+Juvaini wurde in die Privatkanzlei des Khans gerufen, ein kleines, schmales Zelt, das an das Hauptzelt angrenzte, in dem Güyük seine Audienzen hielt. Die Wände waren mit Filz bedeckt, und der Boden war mit Teppichen ausgelegt, die aus dem Westen gekommen waren, aus Persien, aus den Werkstätten von Isfahan, wo die Muster so fein waren, dass sie aussahen, als wären sie gemalt.
+
+Güyük saß hinter einem Tisch, der mit Papieren bedeckt war. Er sah Juvaini an, als er eintrat, und sein Blick war kalt und forschend, wie immer, aber es lag etwas Neues darin, etwas, das Juvaini nicht benennen konnte, etwas, das wie Zufriedenheit aussah.
+
+„Du bist der persische Schreiber", sagte Güyük, ohne zu fragen. „Du schreibst in der Kanzlei. Du warst im Westen, mit Arghun Aqa."
+
+Juvaini verbeugte sich. „Ja, Herr."
+
+Güyük nickte. Er nahm ein Blatt Papier vom Tisch, hielt es hoch, und Juvaini erkannte die Schrift, die lateinischen Buchstaben, die fremdartig aussahen in diesem Raum, der nach Leder und Filz roch, nach Pferden und Schweiß.
+
+„Der Papst von Rom hat einen Brief geschickt", sagte Güyük. „Er fordert uns auf, das Christentum anzunehmen und unsere Eroberungen zu stoppen. Er droht mit dem Zorn Gottes, wenn wir uns nicht unterwerfen."
+
+Juvaini sah das Blatt. Er konnte die lateinischen Wörter nicht lesen, aber er sah die Handschrift, die sorgfältig und regelmäßig war, die Handschrift eines Gelehrten, der wusste, dass seine Worte die Welt verändern würden.
+
+„Du wirst die Antwort schreiben", sagte Güyük. „Auf Persisch. Die Kanzlei wird sie ins Mongolische übersetzen, und dann wird sie in die lateinische Schrift übertragen, damit der Papst sie versteht. Du wirst den Ton vorgeben, den Stil, die Formulierungen. Du wirst die Worte finden, die dieser Mann verstehen kann."
+
+Juvaini verbeugte sich. „Ja, Herr."
+
+Güyük gab ihm das Blatt. „Lies es. Und dann schreib die Antwort. Du hast drei Tage."
+
+Juvaini nahm das Blatt, verbeugte sich erneut und verließ das Zelt.
+
+Draußen war die Luft kalt, und der Himmel war grau, und die Zelte standen still im Wind, der nicht wehte. Juvaini hielt das Blatt in der Hand, das Blatt, das aus Rom gekommen war, das Blatt, das die Stimme des Papstes trug, die Stimme eines Mannes, der nie in Karakorum gewesen war, der nie die Weite der Steppe gesehen hatte, der nie verstanden hatte, dass seine Worte in dieser Welt wie Sand waren, den der Wind verwehte.
+
+Er ging in die Kanzlei, setzte sich an seinen Tisch, legte das Blatt vor sich und las.
+
+Der Brief war lang. Er war voller Zitate aus der Bibel, voller Ermahnungen, voller Drohungen. Der Papst forderte den Khan auf, das Christentum anzunehmen, die Eroberungen zu stoppen, die Gefangenen freizulassen. Er warnte vor dem Zorn Gottes, der jeden treffen würde, der sich nicht unterwarf.
+
+Juvaini las den Brief zweimal, dann legte er ihn beiseite, nahm eine neue Feder, tauchte sie ein und begann zu schreiben.
+
+Er schrieb die Antwort in dem Stil, den er gelernt hatte, in der Sprache der Höflichkeit, die die Mongolen von ihren persischen Schreibern verlangten. Er schrieb die Worte, die Güyük diktiert hatte, die Worte, die der Khan persönlich formuliert hatte, die Worte, die die Arroganz des Weltreichs trugen.
+
+*Im Namen des ewigen Himmels, des Herrschers über alle Völker, des Khans der Khane, des Herrn der Welt, an Innozenz, den Papst von Rom, der sich den Diener der Diener Gottes nennt, im Namen des Friedens, den wir nicht kennen, und der Wahrheit, die wir nicht suchen.*
+
+*Dein Brief ist angekommen, und wir haben ihn gelesen, und wir haben verstanden, dass du nicht verstehst, wer wir sind und was wir wollen. Du forderst uns auf, das Christentum anzunehmen, aber du vergisst, dass der ewige Himmel alle Völker geschaffen hat, und dass er uns den Auftrag gegeben hat, die Welt zu beherrschen, nicht, um sie zu bekehren, sondern um sie zu ordnen.*
+
+*Du forderst uns auf, die Eroberungen zu stoppen, aber du vergisst, dass wir nicht erobern, um zu zerstören, sondern um zu vereinen. Die Welt ist ein Chaos, und wir sind die Ordnung, die der Himmel gesandt hat. Du forderst uns auf, die Gefangenen freizulassen, aber du vergisst, dass sie keine Gefangenen sind, sondern Untertanen, die gelernt haben, zu gehorchen.*
+
+*Und du drohst uns mit dem Zorn Gottes, aber du vergisst, dass der ewige Himmel auf unserer Seite ist, und dass er uns den Sieg gegeben hat, den Sieg, den wir nicht verlieren werden, den Sieg, der nicht enden wird.*
+
+Juvaini schrieb weiter. Die Feder glitt über das Papier, und die Worte kamen, wie sie immer kamen, in der Ordnung, die er gelernt hatte, in der Präzision, die er beherrschte, in der Schönheit, die er liebte.
+
+*Wenn du den Frieden willst, dann komme zu uns, persönlich, an unseren Hof, und wir werden dich empfangen, wie wir alle Gesandten empfangen, mit Respekt und mit Vorsicht. Wenn du den Krieg willst, dann bleib in deiner Stadt, und wir werden dich finden, wie wir alle Städte gefunden haben, die sich uns widersetzt haben, und wir werden sie zerstören, wie wir alle Städte zerstört haben, die uns nicht verstanden haben.*
+
+*Die Wahl liegt bei dir. Der ewige Himmel weiß, was geschehen wird. Wir wissen es nicht.*
+
+*Wir wissen nur, dass wir den Willen des Himmels erfüllen werden, und dass nichts uns aufhalten wird, und dass alles, was du tust, nichts ändern wird, solange du nicht verstehst, dass wir die Herren der Welt sind, und dass du uns gehorchen musst, wenn du überleben willst.*
+
+Juvaini legte die Feder nieder. Er las den Brief, den er geschrieben hatte, und er sah die Worte, die er gefunden hatte, die Worte, die die Arroganz des Weltreichs trugen, die Worte, die die Macht des Khans spiegelten, die Worte, die die Wahrheit sagten, die der Papst nicht hören wollte.
+
+Er sah den Brief, und er dachte an die Worte, die er geschrieben hatte, und er dachte an die Worte, die er nicht geschrieben hatte, die Worte, die er hätte schreiben können, wenn er ein anderer Mann gewesen wäre, wenn er nicht in der Kanzlei gesessen hätte, wenn er nicht der Schreiber des Khans gewesen wäre.
+
+Er dachte an die Worte, die er hätte schreiben können, wenn er Fatima gewesen wäre.
+
+Am nächsten Tag wurde der Brief in die mongolische Schrift übertragen, und dann in die lateinische Schrift, und dann wurde er versiegelt, mit dem Siegel des Khans, dem Siegel, das die Welt bedeutete, dem Siegel, das die Antwort trug, die der Papst nicht verstehen würde.
+
+Juvaini sah zu, wie der Brief aus der Kanzlei getragen wurde, von einem Boten, der ihn zu Plano Carpini bringen würde, dem Franziskanermönch, der immer noch in Karakorum war, der immer noch nichts verstand, der immer noch glaubte, dass er den Khan zum Christentum bekehren könnte.
+
+Er sah den Brief, und er dachte an die Worte, die er geschrieben hatte, und er dachte an die Worte, die der Papst lesen würde, und er dachte an die Worte, die in Rom bleiben würden, für immer, in den Archiven des Vatikans, in den Regalen, die die Geschichte der Welt bewahrten.
+
+Der Brief würde überleben. Die Worte würden bleiben. Die Antwort des Khans, die Antwort, die er geschrieben hatte, die Antwort, die die Arroganz des Weltreichs trug, die Antwort, die die Wahrheit sagte, die niemand hören wollte.
+
+Juvaini saß in der Kanzlei, die Hände über der Schreibfläche gefaltet, und er dachte an den Brief, und er dachte an die Worte, und er dachte an die Schönheit, die er geschaffen hatte, und er dachte an die Schönheit, die er nicht mehr sehen konnte.
+
+Er nahm die Feder, tauchte sie ein und schrieb weiter.
+
+In dieser Nacht, nachdem die anderen Schreiber gegangen waren, saß Juvaini allein in der Kanzlei, die Lampe flackerte, und der Wind zerrte an den Filzwänden des Zeltes. Er nahm ein neues Blatt Papier, legte es vor sich, und begann zu schreiben.
+
+Ein Gedicht.
+
+Er schrieb über den Brief, den er geschaffen hatte, über die Worte, die er gefunden hatte, über die Arroganz, die er in Schönheit gekleidet hatte, über die Wahrheit, die er in Höflichkeit verpackt hatte. Er schrieb über die Macht des Khans, die er in Sätze gegossen hatte, über die Drohung, die er in Höflichkeit verschleiert hatte, über den Tod, den er in Worte versteckt hatte.
+
+Er schrieb die erste Strophe, und die Worte kamen, wie sie kamen, wenn er schrieb, in der Ordnung, die er gelernt hatte, in der Schönheit, die er liebte.
+
+*Der Brief, den ich schrieb, trug den Willen des Khans,*
+*in Worte gekleidet, die wie Seide waren, weich und stark,*
+*und die Wahrheit, die ich nicht sagen durfte, lag darin verborgen,*
+*wie ein Dolch in einer Scheide, die niemand öffnete.*
+
+Er las die Zeilen, und sie waren gut. Die Bilder waren präzise, die Worte waren genau, die Schönheit war vorhanden, wie sie immer vorhanden war, wenn er schrieb, wenn er die Feder bewegte, wenn er die Welt in Sätze verwandelte.
+
+Er schrieb die zweite Strophe, und die Worte kamen, wie sie kamen, aber sie waren anders. Sie waren kälter. Sie waren leerer.
+
+*Und ich, der Schreiber, der die Worte fand,*
+*ich war der Dolch, und ich war die Scheide,*
+*und ich war die Hand, die den Brief trug,*
+*und ich war die Stimme, die die Wahrheit sprach,*
+*die niemand hören wollte, und die ich nicht vergessen konnte.*
+
+Er las die Zeilen, und sie waren nicht gut. Die Bilder waren zu direkt, die Worte waren zu persönlich, die Schönheit war verschwunden, wie sie verschwand, wenn er zu viel von sich selbst in die Worte legte, wenn er die Wahrheit nicht in Höflichkeit verpacken konnte, wenn er die Feder nicht mehr kontrollierte.
+
+Er nahm das Blatt, las es noch einmal, und dann zerriss er es.
+
+Er zerriss es in kleine Stücke, die auf den Tisch fielen, die wie Schnee aussahen, die wie die Asche von etwas waren, das verbrannt war, das nicht mehr existierte. Er sammelte die Stücke, legte sie in die Lampe, und sah zu, wie sie brannten, wie sie zu Asche wurden, wie sie verschwanden.
+
+Das Gedicht war weg. Die Wahrheit war weg. Die Schönheit war weg.
+
+Er saß im Dunkeln, die Hände auf dem Tisch, die Lampe flackerte, und der Wind zerrte an den Filzwänden des Zeltes. Er dachte an den Brief, den er geschrieben hatte, an die Worte, die er gefunden hatte, an die Schönheit, die er geschaffen hatte, und er dachte an die Schönheit, die er nicht mehr sehen konnte.
+
+Er dachte an die Schönheit, die er verloren hatte, weil er sie benutzt hatte, um den Tod zu schmücken, um die Macht zu verkleiden, um die Wahrheit zu verbergen.
+
+Er dachte an die Schönheit, die er nicht mehr finden konnte, weil er sie verraten hatte.
+
+Er nahm die Feder, tauchte sie ein, aber er schrieb nicht. Er hielt die Feder in der Hand, die Feder, die so leicht war, die Feder, die so schwer war, die Feder, die die Worte trug, die er nicht mehr schreiben konnte.
+
+Er legte die Feder nieder, löschte die Lampe, und saß im Dunkeln, in der Stille, in der Kälte, die nicht enden wollte.
+
+Er saß im Dunkeln, und er dachte an Fatima, die die Briefe der Regentin geschrieben hatte, die die Worte gefunden hatte, die die Macht in Höflichkeit gekleidet hatte, die die Wahrheit verborgen hatte, um zu überleben.
+
+Er dachte an Fatima, die die Briefe an ihre tote Schwester schrieb, die Briefe, die niemand lesen würde, die Briefe, die die Wahrheit sagten, die niemand hören wollte.
+
+Er dachte an Fatima, die verschwunden war, und er dachte an die Briefe, die sie geschrieben hatte, und er dachte an die Schönheit, die sie gefunden hatte, an die Schönheit, die er nicht mehr finden konnte.
+
+Er saß im Dunkeln, und er wusste, dass er weiterschreiben würde, weil er keine Wahl hatte, weil er nicht sterben wollte, weil er nicht wusste, was sonst.
+
+Aber er wusste auch, dass er nie wieder ein Gedicht schreiben würde, das die Wahrheit sagte, weil er die Wahrheit nicht mehr in Schönheit kleiden konnte, weil er die Schönheit verraten hatte, weil er sie benutzt hatte, um den Tod zu schmücken.
+
+Er saß im Dunkeln, und er wartete auf den Morgen, der kommen würde, der neue Tag, der neue Brief, der neue Name auf der Liste, die neue Akte, die er schreiben würde, weil er schreiben musste, weil er überleben musste, weil er nicht wusste, was sonst.
+
+Er saß im Dunkeln, und er dachte an die Schönheit, die er verloren hatte, und er dachte an die Wahrheit, die er nicht mehr sagen konnte, und er dachte an die Worte, die er nicht mehr schreiben würde.
+
+Er saß im Dunkeln, und er wartete.
+
+Der Morgen kam, wie er immer kam, und die Sonne stieg über Karakorum auf, und die Kälte blieb, und die Arbeit begann, wie sie immer begann, mit dem Geruch von Rauch und Pferden und der Stille der Kanzlei, die niemand durchbrach.
+
+Juvaini saß an seinem Tisch, die Hände auf der Schreibfläche, und er sah die leeren Blätter, die auf ihn warteten, die neuen Akten, die neuen Namen, die neuen Briefe, die er schreiben würde, weil er schreiben musste, weil er überleben musste, weil er nicht wusste, was sonst.
+
+Er nahm die Feder, tauchte sie ein, und begann zu schreiben.
+
+---
+
+## 29. Das Bündel
+
+Fatima saß in der Dunkelheit ihres Zeltes und hörte den Wind. Er trug den Geruch von verbranntem Holz und kaltem Stein, den Geruch einer Nacht, die nicht enden wollte. Sie hatte die Lampe nicht angezündet. Sie brauchte kein Licht, um zu wissen, was sie tun musste.
+
+Die Truhe stand offen vor ihr, der Deckel zurückgeschlagen wie ein aufgerissener Mund. Sie hatte sie vor einer Stunde aus dem Versteck unter der losen Diele geholt, hatte sie auf den Filz gestellt, hatte die Hände auf den Deckel gelegt und gewartet. Auf was? Auf einen Befehl, der nicht kommen würde. Auf eine Stimme, die längst verstummt war. Töregene war tot. Abd ar-Rahman war tot. Die Reihenfolge war klar, wenn man sie zu lesen verstand.
+
+Erst das Vermögen. Dann die Vertrauten.
+
+Sie hatte den Termin nicht gewusst, aber sie hatte die Richtung gewusst. Sie hatte es gewusst, seit Güyük ihr in der Nacht des Kuriltai ins Ohr geflüstert hatte, dass er sie zwingen würde, die Wahrheit zu sagen, bevor er sie töten ließ. Sie hatte es gewusst, als Töregene ihr den goldenen Becher gezeigt hatte. Sie hatte es gewusst, als sie die Briefe schrieb, die sie jetzt verbrennen würde.
+
+Sie zündete die Lampe an.
+
+Das Licht fraß sich durch die Dunkelheit, langsam, widerwillig, als ob es selbst wüsste, was es sehen würde. Die Truhe war voller Papier. Briefe, die sie geschrieben hatte, Briefe, die sie empfangen hatte, Briefe, die sie nie abgeschickt hatte. Die Namen der Lebenden, die Daten der Toten, die Zahlen der Steuern, die sie umgeleitet hatte, die Bittgesuche, die sie bewilligt hatte, die Drohungen, die sie in Höflichkeit gekleidet hatte.
+
+Die ehrlichste Chronistin des Buches redigierte sich selbst.
+
+Sie begann mit den Briefen, die Namen enthielten. Die Namen der Männer, die Töregene gestützt hatten, die Namen der Frauen, die ihr vertraut hatten, die Namen der Kinder, die in den Ordos lebten, von denen niemand wusste, dass sie existierten. Sie las jeden Brief ein letztes Mal, dann hielt sie ihn über die Flamme.
+
+Das Papier brannte langsam, widerwillig, wie das Licht. Die Tinte wurde schwarz, dann braun, dann grau, dann Asche. Die Worte, die sie geschrieben hatte, die Sätze, die sie gefunden hatte, die Wahrheit, die sie verborgen hatte, um zu überleben – alles wurde zu Asche.
+
+Sie verbrannte die Briefe an ihre Schwester nicht. Die Tote konnte niemanden verraten.
+
+Sie sortierte weiter. Die Briefe, die sie von Töregene erhalten hatte, die Briefe, die sie an Töregene geschrieben hatte, die Briefe, die sie nie abgeschickt hatte, die Briefe, die sie nie schreiben würde. Sie legte sie in zwei Haufen: den Haufen der Asche und den Haufen der Erinnerung.
+
+Der Haufen der Erinnerung war klein. Er enthielt nichts, was einen Lebenden gefährden konnte. Er enthielt nichts, was einen Namen nannte, der noch atmete. Er enthielt die Briefe an ihre Schwester, die Briefe an sich selbst, die Briefe, die sie geschrieben hatte, um zu überleben.
+
+Sie nahm das Federetui ihres Vaters aus der Truhe. Es war das Letzte, was sie von ihm hatte, das Letzte, was sie von einem Leben hatte, das nicht aus Dienst und Angst bestand. Sie öffnete es, strich über die Federn, die er geschnitzt hatte, die Federn, die sie benutzt hatte, um die Briefe zu schreiben, die sie verbrannt hatte, die Federn, die sie benutzt hatte, um die Briefe zu schreiben, die sie retten würde.
+
+Sie legte das Federetui auf den Haufen der Erinnerung.
+
+Dann begann sie, das Bündel zu wickeln.
+
+Sie nahm den Filz, den sie vorbereitet hatte, den Filz, der dick genug war, um die Kälte abzuhalten, der dick genug war, um die Feuchtigkeit abzuhalten, der dick genug war, um die Zeit abzuhalten. Sie legte die Briefe darauf, die Briefe, die sie retten würde, die Briefe, die die Wahrheit sagten, die niemand hören wollte, die Briefe, die sie geschrieben hatte, um zu überleben.
+
+Sie legte das Federetui dazu.
+
+Sie wickelte den Filz um die Briefe, fest, langsam, sorgfältig, wie ein Leichentuch. Sie band die Schnüre, die sie vorbereitet hatte, die Schnüre, die stark genug waren, um das Bündel zu halten, die Schnüre, die stark genug waren, um die Zeit zu halten. Sie zog die Knoten fest, prüfte sie, zog sie noch einmal fest.
+
+Das Bündel lag in ihren Händen, schwer, kalt, endgültig.
+
+Sie ging.
+
+Die Nacht war kalt, der Wind scharf, die Stille drückend. Sie trug das Bündel unter ihrem Mantel, dicht am Körper, als ob es ihr letztes Kind wäre, als ob es ihr letztes Leben wäre. Sie ging durch die Gassen des Lagers, vorbei an den Zelten der Wachen, vorbei an den Feuerstellen, die langsam verglühten, vorbei an den Schatten, die sich bewegten, die sie nicht sahen.
+
+Sie dachte an Shigi Qutuqu.
+
+Sie hatte ihn jahrelang geprüft. Sie hatte ihn geprüft, als er in Kapitel 7 ihren Namen aus der Liste der Verhörten gestrichen hatte. Sie hatte ihn geprüft, als er in Kapitel 14 den Moment der Ehrlichkeit mit ihr geteilt hatte, den Moment, in dem er gesagt hatte, dass Macht bedeute, die Lüge der Wahrheit vorzuziehen. Sie hatte ihn geprüft, als er Yelü Chucai die letzte Ehre erwiesen hatte, als er die Papiere des toten Gelehrten gesichert hatte, als er die Chronik des Hauses vergraben hatte, um sie zu retten.
+
+Sie hatte ihn geprüft, und er hatte bestanden.
+
+Er behandelte Texte wie Menschen. Er wusste, dass Worte lebten, dass Worte starben, dass Worte gerettet werden mussten, bevor die Zeit sie fraß.
+
+Sie erreichte sein Zelt.
+
+Es war dunkel, aber sie wusste, dass er wach war. Er war immer wach, wenn die Nacht am tiefsten war, wenn die Stille am schwersten war, wenn die Gedanken am lautesten waren. Sie trat ein, ohne anzuklopfen, ohne zu fragen, ohne zu zögern.
+
+Er saß an seinem Tisch, die Hände auf der Schreibfläche, die Lampe neben ihm, das Licht schwach, das Gesicht unbewegt. Er sah sie an, als hätte er sie erwartet, als hätte er auf sie gewartet, als hätte er gewusst, dass sie kommen würde.
+
+Sie legte das Bündel auf seinen Tisch.
+
+Es war schwer, als sie es ablegte, schwerer, als sie gedacht hatte, schwerer, als die Briefe wogen, schwerer, als das Federetui wog, schwerer, als die Wahrheit wog, die sie hineingewickelt hatte.
+
+„Nicht für jetzt“, sagte sie. „Für später.“
+
+Er sah das Bündel an, aber er berührte es nicht. Seine Hände blieben auf der Schreibfläche, ruhig, still, wartend.
+
+„Wann ist später?“, fragte er.
+
+Sie hielt seinem Blick stand. „Wenn es keine Khane mehr braucht, um gelesen zu werden.“
+
+Er nickte langsam, einmal, zweimal, wie ein Richter, der ein Urteil bestätigt, das er längst gefällt hatte. Er fragte nicht, was das Bündel enthielt. Er fragte nicht, warum sie es ihm gab. Er fragte nicht, was sie erwartete.
+
+Sie erklärte den Inhalt nicht. Sie sagte nicht, dass die Briefe an ihre Schwester darin waren, die Briefe, die niemand lesen sollte, die Briefe, die die Wahrheit sagten, die niemand hören wollte. Sie sagte nicht, dass das Federetui darin war, das Federetui ihres Vaters, das Letzte, was sie von einem Leben hatte, das nicht aus Dienst und Angst bestand. Sie sagte nicht, dass die Briefe darin waren, die sie geschrieben hatte, um zu überleben, die Briefe, die sie geschrieben hatte, um zu wissen, wer sie war, die Briefe, die sie geschrieben hatte, um nicht zu vergessen.
+
+Er fragte nicht. Er nahm das Bündel, legte es neben sich, auf den Stapel der Akten, die er prüfen musste, auf den Stapel der Urteile, die er fällen musste, auf den Stapel der Wahrheit, die er verbergen musste.
+
+Der Pakt bestand aus zwei Sätzen und zwanzig Jahren gegenseitiger Beobachtung.
+
+Sie ging.
+
+Der Rückweg durch den Nacht-Ordu war länger, als sie gedacht hatte. Die Gassen waren enger, die Schatten tiefer, die Kälte schärfer. Sie ging ohne das Bündel, ohne die Last, ohne die Briefe, ohne die Federn, ohne die Wahrheit, die sie geschützt hatte, die sie getragen hatte, die sie gerettet hatte.
+
+Zum ersten Mal seit Jahren fühlte sie sich nicht leichter, sondern nackt.
+
+Ihre Hand suchte das Federetui.
+
+Es war nicht da. Es war im Bündel, auf Shigis Tisch, in der Dunkelheit seines Zeltes, in der Stille seiner Hände, in der Sicherheit seiner Obhut.
+
+Sie hatte alles abgegeben.
+
+Sie ging weiter, durch die leeren Gassen, vorbei an den erloschenen Feuern, vorbei an den schlafenden Zelten, vorbei an den Wachen, die sie nicht sahen, die sie nicht sehen sollten. Der Wind zerrte an ihrem Mantel, der Wind, der den Geruch von verbranntem Papier trug, den Geruch der Briefe, die sie verbrannt hatte, den Geruch der Wahrheit, die sie geopfert hatte.
+
+Sie erreichte ihr Zelt. Es war leer, kalt, still. Die Truhe stand offen, der Deckel zurückgeschlagen, der Haufen der Asche kalt, der Haufen der Erinnerung fort.
+
+Sie setzte sich auf den Filz, die Hände im Schoß, die Finger leer, die Gedanken schwer.
+
+Sie dachte an die Briefe, die sie verbrannt hatte. Sie dachte an die Namen, die zu Asche geworden waren. Sie dachte an die Daten, die zu Staub geworden waren. Sie dachte an die Wahrheit, die sie geopfert hatte, um die Lebenden zu schützen, um die Toten zu ehren, um die Texte zu retten, die sie nicht retten konnte.
+
+Sie dachte an Shigi Qutuqu, der das Bündel halten würde, der es verstecken würde, der es bewahren würde, bis die Zeit reif war, bis es keine Khane mehr brauchte, um gelesen zu werden.
+
+Sie dachte an die Frage, die sie nicht gestellt hatte: Was würde er damit tun?
+
+Die Antwort würde kommen, wenn sie nicht mehr da war, wenn sie nicht mehr fragen konnte, wenn sie nicht mehr wusste, was die Antwort war.
+
+Sie saß in der Dunkelheit ihres Zeltes, und sie wartete.
+
+Der Morgen kam, wie er immer kam, die Sonne stieg über Karakorum auf, und die Kälte blieb. Sie hörte die Geräusche des Lagers, die Stimmen der Wachen, das Wiehern der Pferde, das Schlagen der Zelte, die sich hoben, die sich senkten, die sich bewegten, als ob die Welt sich weitergedreht hätte, als ob die Nacht nie gewesen wäre.
+
+Sie blieb sitzen, die Hände im Schoß, die Finger leer, die Gedanken schwer.
+
+Sie wusste, dass sie nicht mehr lange hier sein würde. Sie wusste, dass Güyüks Männer kommen würden, dass sie sie holen würden, dass sie sie fragen würden, dass sie sie quälen würden, dass sie sie töten würden. Sie wusste, dass die Reihenfolge klar war, dass sie die Nächste war, dass sie den Termin nicht kannte, aber die Richtung kannte.
+
+Sie hatte gehandelt, bevor gehandelt wurde.
+
+Die Flucht des Textes war gelungen, bevor die Falle zuschnappte.
+
+Sie saß in der Dunkelheit ihres Zeltes, und sie wartete.
+
+---
+
+## 30. Der Richter und das Bündel
+
+Sie kam in der Stunde, in der die Lampe zu flackern begann.
+
+Shigi Qutuqu saß an seinem Tisch, die Hände flach auf der Holzplatte, und er wartete. Er hatte auf sie gewartet, seit der Vertraute ihm die Nachricht gebracht hatte. Sie würde kommen. Sie musste kommen. Die Logik der Macht, die er seit vierzig Jahren studierte, ließ keine andere Möglichkeit zu.
+
+Das Zelt war still. Der Vertraute stand im Schatten des Eingangs, ein Mann, der gelernt hatte, unsichtbar zu sein, ein Mann, der die Briefe getragen hatte, die niemand lesen sollte, ein Mann, der wusste, dass das Schweigen das einzige Gesetz war, das nicht gebrochen werden durfte.
+
+Shigi hörte ihre Schritte, bevor er sie sah.
+
+Die Schritte waren leicht, aber nicht eilig. Sie kamen nicht wie die Schritte einer Frau, die floh. Sie kamen wie die Schritte einer Frau, die wusste, dass sie nicht fliehen konnte. Sie kamen wie die Schritte einer Frau, die gekommen war, um zu geben, was sie nicht mehr behalten konnte.
+
+Der Vorhang bewegte sich.
+
+Sie trat ein, und Shigi sah sie an, wie er alle Zeugen ansah, die vor ihn traten. Er sah ihre Hände. Sie waren ruhig. Kein Zittern, kein Krampfen, kein unnötiges Greifen nach dem Stoff des Gewandes. Die Hände einer Frau, die nichts mehr zu verlieren hatte.
+
+Er sah ihre Kleidung. Nichts Wertvolles am Leib. Kein Schmuck, keine verzierten Gürtel, keine Seide. Ein einfaches Gewand aus grobem Wollstoff, das sie trug wie eine Rüstung.
+
+*Sie war auf Verhaftung vorbereitet.*
+
+Der Gedanke kam und blieb. Er sah es an der Art, wie sie den Gürtel gebunden hatte, wie sie die Ärmel gerafft hatte, wie sie die Falten des Gewandes glatt gestrichen hatte, bevor sie eintrat. Sie hatte sich angezogen, als ob sie wüsste, dass sie nicht mehr würde ausziehen können.
+
+Er sah ihre Augen. Sie waren klar. Die Augen einer Frau, die geweint hatte, aber nicht mehr weinen würde. Die Augen einer Frau, die getrauert hatte, aber nicht mehr trauern würde. Die Augen einer Frau, die bereit war.
+
+„Fatima", sagte er.
+
+„Shigi Qutuqu", sagte sie.
+
+Sie sprach in der Gegenwart.
+
+Das war das erste, was er hörte, das erste, was er registrierte, das erste, was er in das Protokoll seines Gedächtnisses schrieb: *Sie spricht in der Gegenwart. Kein Konjunktiv. Kein Zweifel. Kein Vielleicht. Sie spricht, als ob die Zeit aufgehört hätte zu fließen.*
+
+Die meisten Menschen, die vor ihm standen, sprachen in der Vergangenheit oder in der Zukunft. Sie rechtfertigten, was sie getan hatten. Sie versprachen, was sie tun würden. Sie sprachen im Konjunktiv der Hoffnung oder im Imperativ der Verzweiflung.
+
+Fatima sprach in der Gegenwart. Sie sagte, was war. Sie fragte nicht. Sie bat nicht. Sie rechtfertigte nicht.
+
+Sie zog das Bündel unter ihrem Gewand hervor.
+
+Es war in Filz gewickelt, grob, uneben, wie ein Stein, den man aus einem Flussbett gehoben hatte. Es war nicht schön. Es war nicht wertvoll. Es war nichts, was ein Dieb nehmen würde, nichts, was ein Soldat beachten würde, nichts, was ein Schreiber registrieren würde.
+
+Sie legte es auf den Tisch.
+
+Die Bewegung war präzise. Die Bewegung war endgültig. Die Bewegung war die Bewegung einer Frau, die wusste, dass sie etwas gab, das sie nicht zurücknehmen würde.
+
+„Ich gebe dir, was ich nicht mehr schützen kann", sagte sie.
+
+Shigi sah das Bündel an. Es lag auf dem Tisch, zwischen ihnen, wie ein Urteil, das noch nicht gesprochen war, wie ein Beweis, der noch nicht geprüft war, wie eine Wahrheit, die noch nicht gehört war.
+
+Er hob die Hand.
+
+Er legte sie auf das Bündel.
+
+Das Filz fühlte sich rau an, kalt, wie die Haut eines Tieres, das lange tot war. Er spürte die Kanten des Inhalts, die harten Ecken, die weichen Flächen, die Formen, die sich unter dem Filz verbargen.
+
+Er konnte es öffnen.
+
+Er konnte es prüfen.
+
+Er konnte es registrieren.
+
+Vierzig Jahre hatte er das getan. Vierzig Jahre hatte er die Akten geöffnet, die Schrift gelesen, die Siegel geprüft, die Wahrheit von der Lüge geschieden. Vierzig Jahre hatte er sein Urteil gesprochen, sein Siegel gesetzt, seine Akte geschlossen.
+
+Vierzig Jahre war er Richter gewesen.
+
+Er war der Richter, der kein Urteil ohne Beweis fällte. Er war der Richter, der die Akten prüfte, die Zeugen befragte, die Fakten sammelte, die Wahrheit suchte. Er war der Richter, der wusste, dass das Urteil nur so gut war wie der Beweis, der es trug.
+
+Er konnte das Bündel öffnen.
+
+Er konnte es prüfen.
+
+Er konnte es registrieren.
+
+Er tat es nicht.
+
+Er nahm die Hand von dem Bündel, langsam, wie ein Mann, der sich von etwas trennt, das er nie besessen hatte. Er legte die Hände auf den Tisch, neben das Bündel, und er sah Fatima an.
+
+„Ich werde es nicht öffnen", sagte er.
+
+Sie nickte.
+
+Kein Lächeln. Keine Erleichterung. Keine Dankbarkeit. Sie nickte, wie eine Frau nickt, die keine andere Wahl erwartet hatte, wie eine Frau, die wusste, dass das, was sie gab, nicht geprüft werden musste, weil es die Wahrheit war.
+
+„Ich werde es nicht prüfen", sagte er. „Ich werde es nicht registrieren. Ich werde es nicht in die Akten schreiben."
+
+Sie nickte wieder.
+
+„Ich werde es verstecken", sagte er. „Ich werde es in das Archiv der abgeschlossenen Fälle legen. In die toten Akten, in die niemand mehr schaut."
+
+„In die toten Akten", wiederholte sie.
+
+Die Worte klangen wie eine Bestätigung, wie ein Echo, wie ein letzter Atemzug, der in der Stille verklang.
+
+Shigi stand auf.
+
+Er nahm das Bündel, hob es, wog es in der Hand. Es war schwerer, als es aussah. Es war schwerer, als es sein sollte. Es war schwer von der Last dessen, was es enthielt, von der Last der Worte, die geschrieben waren, von der Last der Wahrheit, die niemand hören durfte.
+
+Er ging zur Rückseite des Zeltes, zu der großen Truhe, die dort stand, die Truhe, die die Akten der abgeschlossenen Fälle enthielt, die Akten, die niemand mehr öffnete, die Akten, die vergessen waren, die Akten, die tot waren.
+
+Er hob den Deckel.
+
+Der Geruch von altem Papier stieg auf, der Geruch von Staub, der Geruch von Vergessen. Er sah die gestapelten Rollen, die gebündelten Blätter, die versiegelten Umschläge, die alle eines gemeinsam hatten: Sie waren abgeschlossen. Sie waren entschieden. Sie waren tot.
+
+Er legte das Bündel hinein.
+
+Er legte es zwischen zwei Rollen, die so alt waren, dass das Papier bräunlich geworden war, dass die Tinte verblasst war, dass die Siegel gebrochen waren. Er legte es so, dass es nicht auffiel, dass es nicht hervorstach, dass es wie die anderen Akten aussah, wie eine tote Akte unter toten Akten.
+
+Er schloss den Deckel.
+
+Er holte sein Siegel hervor.
+
+Der Zylinder war aus Bronze, schwer, mit den eingravierten Zeichen, die ihn als Richter des Reiches auswiesen, als den Mann, der das Gesetz sprach, als den Mann, der das Urteil fällte. Er hatte es von Dschingis Khan selbst erhalten, in den Jahren, als die Macht noch jung war, in den Jahren, als das Gesetz noch neu war, in den Jahren, als die Worte noch bedeuteten, was sie sagten.
+
+Er drückte das Siegel in den nassen Ton, den er auf den Deckel der Truhe strich.
+
+Der Abdruck war klar.
+
+Das Zeichen war deutlich.
+
+Das Siegel war gesetzt.
+
+Er wandte sich um.
+
+Fatima stand noch da, wo sie gestanden hatte, am Tisch, die Hände flach auf der Platte, die Augen auf das Siegel gerichtet, das er gesetzt hatte.
+
+„Es ist getan", sagte er.
+
+„Es ist getan", sagte sie.
+
+Die Worte klangen wie ein Echo, wie ein Abschied, wie ein letzter Gruß, den niemand hören würde.
+
+„Ich danke dir", sagte sie.
+
+Die Worte waren einfach. Die Worte waren klar. Die Worte waren die Worte einer Frau, die keine Worte mehr hatte, die Worte einer Frau, die alles gesagt hatte, was sie sagen konnte, die Worte einer Frau, die wusste, dass das Schweigen das einzige Geschenk war, das sie noch geben konnte.
+
+Shigi nickte.
+
+Sie wandte sich um.
+
+Sie ging.
+
+Der Vorhang fiel zurück.
+
+Die Schritte entfernten sich, leicht, nicht eilig, die Schritte einer Frau, die wusste, dass sie nicht fliehen konnte, die Schritte einer Frau, die wusste, dass sie nicht mehr fliehen musste, die Schritte einer Frau, die bereit war.
+
+Shigi stand vor der Truhe.
+
+Er sah das Siegel.
+
+Er sah das Bündel, das er nicht geöffnet hatte, das er nicht geprüft hatte, das er nicht registriert hatte.
+
+„Vierzig Jahre", sagte er, und die Worte waren leise, als ob er sie nicht zu sich selbst sprach, sondern zu den toten Akten, zu den vergessenen Urteilen, zu den geschlossenen Fällen, die ihn umgaben.
+
+Der Vertraute trat vor.
+
+Er stand neben Shigi, ein Schatten, der wartete, ein Zeuge, der still war, ein Mann, der wusste, dass das, was er gesehen hatte, nie gesprochen werden durfte.
+
+„Vierzig Jahre", sagte Shigi, und er wandte sich zu dem Vertrauten, und er sah ihn an, zum ersten Mal in dieser Nacht, „habe ich Akten geprüft, um Wahrheit von Lüge zu scheiden. Ich habe Zeugen befragt. Ich habe Beweise gesammelt. Ich habe Urteile gefällt. Ich habe das Gesetz gesprochen, wie ich es gelernt hatte, wie ich es verstanden hatte, wie ich es glaubte."
+
+Der Vertraute nickte.
+
+„Dieses eine Mal", sagte Shigi, und seine Stimme war leise, aber fest, „prüfe ich nicht. Dieses eine Mal öffne ich die Akte nicht. Dieses eine Mal lese ich die Worte nicht. Dieses eine Mal registriere ich nicht, was sie geschrieben hat."
+
+Er hob die Hand.
+
+Er legte sie auf die Truhe.
+
+„Es ist das einzige Urteil", sagte er, „das ich ohne Beweis fälle."
+
+Der Vertraute sagte nichts.
+
+Die Stille füllte das Zelt.
+
+Shigi stand da, die Hand auf der Truhe, das Siegel vor sich, das Bündel unter sich, die Akte der toten Fälle um sich.
+
+Er dachte an Fatima.
+
+Er dachte an die Frau, die gekommen war, um zu geben, was sie nicht mehr schützen konnte. Er dachte an die Frau, die er nicht gefragt hatte, was sie geschrieben hatte. Er dachte an die Frau, die er nicht geprüft hatte, die er nicht registriert hatte, die er nicht verurteilt hatte.
+
+Er dachte an das Bündel, das er nicht geöffnet hatte.
+
+Er dachte an die Worte, die er nicht gelesen hatte.
+
+Er dachte an die Wahrheit, die er nicht gesucht hatte.
+
+Er dachte an das Urteil, das er ohne Beweis gefällt hatte.
+
+Er dachte an das Siegel, das er gesetzt hatte.
+
+Er dachte an das Gesetz, das er gebrochen hatte.
+
+Er dachte an die Gerechtigkeit, die er nicht gesprochen hatte.
+
+Er dachte an die Sühne, die er gefunden hatte.
+
+Er dachte an die Schuld, die er trug, die Schuld, die er nicht ablegen konnte, die Schuld, die er nicht ablegen wollte, die Schuld, die ihn trug, die ihn hielt, die ihn trug, wie das Gesetz ihn getragen hatte, wie das Gesetz ihn nicht mehr tragen würde.
+
+Er dachte an Fatima.
+
+Er dachte an die Frau, die sterben würde.
+
+Er dachte an die Frau, die sterben würde, weil sie die Wahrheit geschrieben hatte, die Wahrheit, die niemand lesen durfte, die Wahrheit, die er nicht gelesen hatte, die Wahrheit, die er nicht lesen würde.
+
+Er dachte an die Frau, die sterben würde, weil sie ihm vertraut hatte.
+
+Er dachte an die Frau, die sterben würde, weil er nicht geurteilt hatte.
+
+Er dachte an die Frau, die sterben würde, weil er die Wahrheit nicht geprüft hatte, weil er die Wahrheit nicht gesucht hatte, weil er die Wahrheit nicht gefunden hatte.
+
+Er dachte an die Frau, die sterben würde, und er dachte an das Siegel, das er gesetzt hatte, das Siegel, das sie besiegelte, das Siegel, das sie begrub, das Siegel, das sie tötete.
+
+Er dachte an das Siegel, das er gesetzt hatte, und er dachte an das Siegel, das er setzen würde, das Siegel, das das Urteil sprechen würde, das Siegel, das den Tod verordnen würde, das Siegel, das sie töten würde.
+
+Er dachte an das Siegel, das er gesetzt hatte, und er dachte an das Siegel, das er setzen würde, und er wusste, dass es dasselbe Siegel war.
+
+Er wusste, dass das Siegel, das er auf die Truhe gesetzt hatte, dasselbe Siegel war, das er auf das Todesurteil setzen würde, das Urteil, das Fatima töten würde, das Urteil, das er nicht verhindern konnte, das Urteil, das er nicht verhindern würde.
+
+Er wusste, dass das Siegel, das er gesetzt hatte, das Siegel der Gerechtigkeit war, das Siegel der Wahrheit, das Siegel der Macht, das Siegel des Todes.
+
+Er wusste, dass das Siegel, das er gesetzt hatte, das Siegel war, das er nicht brechen konnte, das Siegel, das er nicht lösen konnte, das Siegel, das er nicht ändern konnte.
+
+Er stand da, die Hand auf der Truhe, das Siegel vor sich, die Akte der toten Fälle um sich, und er wusste, dass er das Bündel nicht öffnen würde, dass er die Worte nicht lesen würde, dass er die Wahrheit nicht suchen würde.
+
+Er wusste, dass er das Urteil gesprochen hatte, ohne Beweis, ohne Prüfung, ohne Registrierung.
+
+Er wusste, dass er das Urteil gesprochen hatte, und er wusste, dass er es nicht zurücknehmen konnte.
+
+Er wusste, dass er das Urteil gesprochen hatte, und er wusste, dass es das einzige Urteil war, das er je gesprochen hatte, das einzige Urteil, das er je sprechen würde, das einzige Urteil, das zählte.
+
+Er wusste, dass er das Urteil gesprochen hatte, und er wusste, dass es das Urteil war, das ihn trug, das ihn hielt, das ihn trug, wie das Gesetz ihn getragen hatte, wie das Gesetz ihn nicht mehr tragen würde.
+
+Er wusste, dass er das Urteil gesprochen hatte, und er wusste, dass es das Urteil war, das ihn begleiten würde, bis er starb, bis er selbst zur toten Akte wurde, bis er selbst vergessen wurde, bis er selbst zu Staub wurde.
+
+Er stand da, die Hand auf der Truhe, das Siegel vor sich, und er wartete.
+
+Der Vertraute stand neben ihm, stumm, wie ein Schatten.
+
+Die Lampe flackerte.
+
+Die Stille war voll.
+
+Die Nacht war lang.
+
+Shigi Qutuqu, der Richter des Reiches, der Hüter des Gesetzes, der Mann, der das Siegel hielt, stand vor der Truhe, die das Bündel barg, das Bündel, das er nicht geöffnet hatte, das Bündel, das er nicht prüfen würde, das Bündel, das er nicht registrieren würde, das Bündel, das er versteckt hatte, das Bündel, das er begraben hatte, das Bündel, das er bewahren würde, bis die Zeit kam, bis die Zeit verging, bis die Zeit ihn selbst begrub.
+
+Er stand da, und er wusste, dass er das Urteil gesprochen hatte, das Urteil, das ihn trug, das Urteil, das ihn hielt, das Urteil, das ihn begleiten würde, bis er starb, bis er selbst zur toten Akte wurde, bis er selbst vergessen wurde, bis er selbst zu Staub wurde.
+
+Er stand da, und er wartete.
+
+Der Morgen würde kommen.
+
+Der Morgen würde kommen, und Fatima würde sterben.
+
+Der Morgen würde kommen, und das Siegel würde gesetzt.
+
+Der Morgen würde kommen, und das Urteil würde gesprochen.
+
+Der Morgen würde kommen, und der Richter würde richten.
+
+Der Morgen würde kommen, und der Richter würde verurteilen.
+
+Der Morgen würde kommen, und der Richter würde töten.
+
+Der Morgen würde kommen, und der Richter würde überleben.
+
+Der Morgen würde kommen, und der Richter würde weitermachen, wie er weitergemacht hatte, seit vierzig Jahren, seit er das Siegel erhalten hatte, seit er das Gesetz gelernt hatte, seit er die Wahrheit gesucht hatte.
+
+Der Morgen würde kommen, und der Richter würde weitermachen, wie er weitergemacht hatte, immer weiter, immer weiter, immer weiter.
+
+Shigi Qutuqu stand vor der Truhe.
+
+Die Hand auf dem Holz.
+
+Das Siegel vor sich.
+
+Das Bündel unter sich.
+
+Die toten Akten um sich.
+
+Die Stille über sich.
+
+Die Nacht vor sich.
+
+Er stand da, und er wartete.
+
+Der Morgen würde kommen.
+
+---
+
+## 31. Der Handel
+
+Die Wachen kamen in der Stunde vor Sonnenaufgang, als die Kälte am tiefsten stand.
+
+Fatima hörte ihre Schritte im Schnee, bevor sie das Zelt erreichten. Vier Männer, vielleicht fünf. Sie hatten nicht versucht, leise zu sein. Das war die einzige Höflichkeit, die sie ihr noch gewährten: die Ankündigung.
+
+Sie saß auf der Matte, die Hände im Schoß gefaltet, und sah zur Zeltöffnung. Der Wind bewegte den Filz, ließ das Licht der Fackeln flackern. Sie hatte seit Stunden nicht geschlafen. Sie hatte gewartet.
+
+Der Vorhang teilte sich.
+
+Der Anführer war ein Mann mittleren Alters mit einem Narbengesicht und ruhigen Augen. Er trug keine Rüstung, nur den schweren Mantel der Palastwache und ein kurzes Schwert an der Hüfte. Hinter ihm standen drei weitere Männer, einer mit einer Schriftrolle in der Hand.
+
+„Fatima aus Chorasan“, sagte er. Keine Frage. Eine Feststellung.
+
+„Ja.“
+
+„Du kommst mit uns.“
+
+Sie erhob sich langsam, strich den Rock glatt, griff nach ihrem Umhang. Kein Widerstand. Keine Frage nach dem Grund. Die Männer sahen sie an, als erwarteten sie etwas – einen Fluch, einen Zusammenbruch, eine Flucht.
+
+Fatima band den Umhang um die Schultern.
+
+„Ich bin bereit.“
+
+Der Anführer nickte einmal kurz und trat zur Seite. Sie ging an ihm vorbei durch den Vorhang hinaus in die Kälte des Morgens.
+
+Der Himmel war noch schwarz, aber im Osten zeigte sich ein schmaler Streifen Grau. Der Schnee knirschte unter ihren Füßen. Die Wachen bildeten einen lockeren Kreis um sie, nicht bedrohlich, aber präsent: eine Formation für den Fall einer Flucht.
+
+Fatima dachte an ihr Zelt zurück – an das Federetui unter der losen Matte, an das Filzbündel mit den Briefen an die Tote. Sie hatte beides nicht versteckt; sie hatte es liegen lassen, offen sichtbar für jeden Suchenden.
+
+Das war ihre letzte Entscheidung gewesen: nichts zu verbergen.
+
+Sie gingen durch das Lager der Diener und Schreiber zwischen den schlafenden Zelten hindurch zum Hauptbezirk des Palastes. Ein Feuer brannte in einer Eisenschale vor dem Verwaltungsgebäude; zwei Wachen wärmten sich die Hände über den Flammen. Als sie Fatima sahen, traten sie zurück und senkten den Blick.
+
+Der Anführer führte sie durch einen Seiteneingang in einen langen Korridor aus Stein und Filzdecken. Die Luft war schwer vom Geruch von ranzigem Fett und altem Rauch. Lampen brannten in Nischen entlang der Wand; ihr Licht war schwach und zögerlich.
+
+Am Ende des Korridors öffnete sich ein Raum: groß genug für zwanzig Menschen, aber leer bis auf einen Tisch aus lackiertem Holz und drei Hocker davor.
+
+Auf dem Tisch lagen Papierstapel – Aktenbündel mit roten Bändern verschlossen – daneben ein Tintenfass mit getrockneter Tinte am Rand und mehrere Federn in einem Halter aus Bein.
+
+Fatima erkannte den Raum nicht wieder; sie war nie hier gewesen. Aber sie erkannte die Methode: ein neutraler Ort ohne persönliche Gegenstände ohne Fenster ohne Ablenkung.
+
+„Setz dich“, sagte der Anführer.
+
+Sie setzte sich auf den mittleren Hocker und legte die Hände auf die Knie.
+
+Die Wachen blieben an der Tür stehen; der Anführer ging hinaus ohne ein weiteres Wort und ließ sie allein im flackernden Licht der Lampe zurück.
+
+Die Stille dauerte lange genug um zu wirken – genau berechnet genau dosiert genau so wie es in den Handbüchern stand die Fatima selbst einmal gelesen hatte als sie Töregenes Bibliothek ordnete: *Lass ihn warten bis seine Angst größer ist als seine Hoffnung.*
+
+Aber Fatima hatte keine Angst mehr und keine Hoffnung mehr; was blieb war nur noch Geduld – eine Geduld die härter war als jeder Verhörraum weil sie nichts mehr zu verlieren hatte außer diesem letzten Satz ihrer Geschichte den niemand haben würde solange sie atmete und wenn sie starb dann starb er mit ihr still wie ein Kind das nie geboren wurde still wie ihre Schwester still wie alles was gut gewesen war in Chorasan bevor die Reiter kamen bevor das Feuer kam bevor das Schweigen kam das seitdem in ihr wohnte still wie ein Grab das nie geöffnet wird weil niemand mehr weiß dass es existiert still wie ihre eigene Stimme wenn sie zu ihrer toten Schwester sprach in Briefen die niemand liest außer ihr selbst außer der Toten außer dem Wind der über die Steppe weht ohne Ziel ohne Erinnerung ohne Ende –
+
+Die Tür öffnete sich wieder.
+
+Güyük Khan trat ein gefolgt von zwei Schreibern mit leeren Gesichtern und einem großen Mann mit breiten Schultern dessen Hände dick waren von Narbengewebe – einem Henker oder einem Folterknecht oder beidem je nachdem was man brauchte um einen Geständnis zu erzwingen das man bereits geschrieben hatte bevor man begann zu fragen weil Wahrheit im Reich des Khans nie etwas anderes gewesen war als eine Frage wer stärker lügt wenn es darauf ankommt wer lauter schreit wenn es wehtut wer schneller stirbt wenn es Zeit wird zu gehen –
+
+Güyük setzte sich nicht hin.
+
+Er blieb stehen vor dem Tisch drehte eine Akte um las einige Zeilen dann sah er auf direkt in ihre Augen ohne Blinzeln ohne Zögern ohne jede Spur von Zweifel:
+
+„Fatima aus Chorasan“, sagte er leise „Tochter eines Kopisten aus Mashhad gefangen 1221 beim Fall deiner Stadt zwanzig Jahre Dienst im Haushalt meiner Mutter seit 1241 erste Schreiberin des Regentschaftsrates unter Töregene Khatun –“
+
+Er hielt inne legte eine zweite Akte neben die erste öffnete sie:
+
+„Angeklagt wegen Verhexung des Prinzen Köden meines Bruders aufgrund seiner Fieberworte vom Frühjahr 1244 sowie wegen Hochverrats durch Verschwörung mit Feinden des Reiches während deiner Zeit als Schreiberin meiner Mutter –“
+
+Er legte eine dritte Akte daneben schlug sie auf:
+
+„Aussagen von vier Zeugen darunter zwei Dienerinnen deines eigenen Haushalts: du habest mehrfach Blut von Schafen geopfert du habest fremde Namen gerufen bei Neumond du habest Amulette getragen aus Knochen von Feinden des Reiches –“
+
+Er klappte alle drei Akten zu ordnete ihre Ränder parallel zum Tischrand:
+
+„Du erkennst diese Anklagepunkte?“
+
+Fatima sah ihn an ohne zu sprechen ohne Bewegung ohne jedes Zeichen von Furcht oder Trotz oder Unterwerfung einfach nur still wie Wasser das so lange steht dass es nicht mehr weiß ob es jemals fließen wird ob es jemals anders sein wird als diese glatte unbewegliche Oberfläche unter der nichts mehr lebt nichts mehr atmet nichts mehr wartet –
+
+Güyük wartete ebenfalls.
+
+Ein langer Atemzug verging zwei drei vier –
+
+Dann sprach Fatima:
+
+„Ja.“
+
+Güyük nickte knapp setzte sich endlich auf den freien Hocker gegenüber legte beide Hände flach auf den Tisch zwischen ihnen:
+
+„Gut.“ Seine Stimme wurde ruhiger sachlicher fast wie ein Quartiermeister der Vorräte prüft bevor er marschiert: „Dann können wir sprechen wie Vernünftige Menschen.“
+
+Er winkte; einer der Schreiber trat vor stellte einen kleinen Kupferkessel auf den Boden neben dem Tisch entzündete darunter ein Feuer mit einem Stück Zunder dann goß Wasser aus einem Lederbeutel hinein während der andere Schreiber zwei kleine Schalen aus Ton hervorholte:
+
+Teezeremonie mitten im Verhörraum mitten im Morgengrauen mitten in diesem Spiel das längst entschieden war bevor es begann weil Güyük nicht hier war um herauszufinden ob Fatima schuldig war sondern um herauszufinden ob er ihren Tod nutzen konnte um damit etwas Größeres zu erreichen etwas Tieferes etwas das seinen Vater rächen würde seinen Thron sichern würde seinen Namen unsterblich machen würde unter denen die kommen nach ihm –
+
+Fatima nahm die Schale als man sie ihr reichte trank einen Schluck Tee warm bitter dünn wie alles was man am Hofe gab wenn man geben musste aber nichts geben wollte außer dieser Geste dieser Höflichkeit dieser letzten Verbeugung vor den Formen bevor man begann zu töten –
+
+Güyük trank ebenfalls stellte seine Schale ab dann sprach er:
+
+„Ich habe deine Akten gelesen Fatima.“ Er betonte ihren Namen langsam absichtlich schwer: „Jeden Brief jede Notiz jedes Protokoll das du je geschrieben hast für meine Mutter für ihren Rat für ihre Boten für ihre Befehle ich habe alles gelesen was meine Leute finden konnten in fünf Jahren deiner Arbeit am Hof meines Vaters am Hof meiner Mutter am Hof dieses Reiches das ich jetzt regiere –“
+
+Er hielt inne beugte sich vor über den Tisch seine Stimme senkte sich fast zum Flüstern:
+
+„Und ich sage dir eines: Du bist die beste Schreiberin dieses Reiches seit Yelü Chucai tot ist vielleicht sogar besser weil du verstehst was Macht ist weil du verstehst dass Worte niemals neutral sind niemals unschuldig niemals bloße Werkzeuge sondern immer Waffen immer Fallen immer Kompromisse zwischen dem was gesagt werden muss und dem was gesagt werden darf –“
+
+Er lehnte sich zurück lächelnd aber nicht freundlich sondern kalt präzise messend:
+
+„Schade dass du sterben musst.“
+
+Fatima trank noch einen Schluck Tee stellte die Schale ab dann sprach sie zum ersten Mal seit Stunden außerhalb ihres eigenen Kopfes laut klar ruhig wie eine Antwort auf eine Frage deren Antwort längst feststeht:
+
+„Warum bin ich hier?“
+
+Güyük zog eine Augenbraue hoch schien kurz überrascht dann nickte er respektvoll fast unwillkürlich:
+
+„Weil ich dir einen Handel anbieten will.“ Er stand auf trat hinter seinen Stuhl legte beide Hände auf dessen Lehne blickend über ihren Kopf hinweg ins Leere während seine Stimme wieder lauter wurde fester bestimmter:
+
+„1241 mein Vater stirbt während eines Trinkgelages du bist im Zelt du hast gesehen was geschah meine Leute haben mich informiert mein Onkel hat mich informiert sogar meine Mutter hat mir angedeutet dass jemand war dass etwas geschah dass mein Vater nicht einfach gestorben ist sondern getötet wurde vergiftet ermordet von jemandem dessen Name noch immer nicht genannt wurde noch immer verschwiegen wird noch immer geschützt wird durch Schweigen durch Lügen durch Tod –“
+
+Er sah wieder direkt an diesmal intensiver fordernder drohender:
+
+„Du hast sein Gesicht gesehen Fatima.“ Keine Frage diesmal keine Möglichkeit zur Ausflucht nur diese Feststellung diese Behauptung dieses Wissen das Güyük besaß seit Jahren besaß seit jenem Tag als Shigi Qutuqu ihm indirekt bestätigt hatte dass Fatima mehr wusste als jeder andere Diener am Hof seines Vaters mehr wusste als seine eigene Mutter vielleicht sogar mehr wusste als all ihre Spione all ihre Agenten all ihre Informanten zusammengenommen –
+
+Güyük kam langsam um den Tisch herum blieb direkt vor ihr stehen so nah dass sein Mantel ihr Knie streifte beugt sich herab seine Stimme kaum noch hörbar kaum noch Atem kaum noch Fleisch sondern Geist Wille Drohung Versprechen alles zugleich gefaltet ineinander verwoben unentwirrbar wie Seile aus Seide deren wahre Festigkeit man erst erkennt wenn man versucht zu reißen daran zu zerreißen daran zu zerbrechen –
+
+„Nenne mir seinen Namen“ flüsternd jetzt „Bezeuge vor den Prinzen des Reiches dass Toluis Haus meinen Vater vergiftete bezeuge dass Sorkaktani Khatun ihren Schwager töten ließ bezeuge dass Batu mein Cousin mein Feind mein Rivale wusste davon profitierte davon sein Teil fordernde dafür zahlende dafür planende dafür bezahlende dafür sterbende dafür tötende dafür herrschende dafür lachende hinter seinem goldenen Zelt seiner goldenen Armee seiner goldenen Macht über Russland über Bulgarien über all jene Länder deren Namen ich kenne deren Grenzen ich kenne deren Herrscher ich kenne deren Schwäche ich kenne weil mein Vater sie mir zeigte bevor er starb bevor er vergiftet wurde bevor er starb –“
+
+Er richtete sich auf trat zurück breitete beide Arme aus fast theatralisch fast feierlich fast lächerlich wäre seine Stimme nicht so ernst so schwer so tödlich gewesen:
+
+„Nenne diesen Namen Fatima nenne diesen Namen vor mir vor meinen Prinzen vor meinem Hof nenne ihn einmal laut einmal öffentlich einmal unwiderruflich –“
+
+Pause länger diesmal tiefer diesmal voller Bedeutung voller Gewicht voller Konsequenz:
+
+„Und du lebst reich frei überall wo du willst nur nicht hier nirgends hier nirgends wo mein Name regiert wo meine Macht gilt wo meine Gnade endet weil ich dich nie wiedersehen werde nach diesem Tag niemals wiedersehen werde niemals wissen werde ob du lebst ob du stirbst ob du glücklich bist ob du leidest weil es mir gleichgültig sein wird weil ich erreicht haben werde was ich brauche was mein Vater verdient was dieses Reich braucht um gerecht zu sein wahrhaftig rein endlich frei von Lüge frei von Betrug frei von jenen Giftmischem denen kein Eid heilig ist kein Wort bindend kein Leben kostbar außer ihrem eigenen –“
+
+Er schwieg endlich wartete endlich fordernd endlich bereit zum Empfang ihrer Antwort bereit zum Abschluss ihres Paktes bereit zum Vollzug ihres Handels bereit zur Besiegelung ihres gemeinsamen Sieges über Toluis Haus über Sorkaktani über Batu über alle Feinde seines Vaters seines Thrones seines Namens –
+
+Fatima sah ihn an lange genug um sicherzustellen dass Güyük begriff dass dies kein Zögern war keine Furcht keine Unsicherheit sondern einfach nur Stille Sammlung Entscheidung bevor sie sprach denn was nun folgte würde unwiderruflich sein würde unvergesslich bleiben würde zwischen ihnen stehen bis einer von ihnen tot wäre oder beide oder niemand weil niemand je erfahren würde was wirklich geschah in dieser Nacht dieses Jahres dieser Ewigkeit namens Karakorum namens Macht namens Überleben namens Tod –
+
+Sie sprach leise aber klar deutlich unmissverständlich jedes Wort einzeln gesetzt gehauen gemeißelt wie Schriftzeichen in Stein wie Siegelwachs unter Druck wie Blutspuren auf Schnee:
+
+„Nein.“
+
+Güyük zuckte nicht zusammen änderte keine Miene blieb unbewegt reglos starr aber etwas veränderte sich hinter seinen Augen etwas Kleines kaum Sichtbares fast Unmerkliches: Enttäuschung vielleicht Überraschung vielleicht Respekt vielleicht Hass vermischt miteinander untrennbar ineinander fließend während seine Stimmlage gleich blieb ruhig kontrolliert gemessen wie bisher bisher weiterhin immerfort scheinbar unbeeindruckt scheinbar ungerührt scheinbar unbesiegt –
+
+Aber Fatima kannte diese Maske denn trug selbst dieselbe seit Jahren Jahrzehnten seit jenem Tag 1221 als ihre Schwester starb unter mongolischen Schwertern während Fatima lebend gefangen genommen weggebracht verkauft verschenkt benutzt verschlissen verwaltet verbraucht vernichtet wiederbelebt weitergeschleppt durch zwanzig Jahre Dienst zwanzig Jahre Schweigen zwanzig Jahre Tod hinter lebenden Augen leben hinter toten Blicken bewegen hinter erstarrtem Herzen atmen hinter erstickender Hoffnung weiteratmen weiterleben weiterschreiben weiterschweigen weitertragen dieses Gewicht dieser Schuld dieser Liebe dieses Hasses dieser Trauer dieser Wut dieser Verzweiflung dieser Einsamkeit dieses endlosen endlosen endlosen Marsches durch Schnee durch Staub durch Blut durch Zeit durch Welt durch Leben hindurch hindurch hindurch bis ans Ende ihrer Kraft ihrer Gnade ihrer Geduld ihrer Menschlichkeit –
+
+Güyük sprach langsam gezielt jedes Wort fallend schwer wie Steine ins Wasser Kreise ziehend Wellen werfend Grund berührend tief unten dort wo niemand sieht wo niemand hört wo niemand weiß ob Wahrheit liegt oder Lüge oder beides zugleich vermischt untrennbar eins geworden im Dunkel des Vergessens im Schweigen des Todes im Nichts des Endes aller Dinge aller Fragen aller Antworten aller Handelsangebote zwischen Khansfrau Khansfeind Khansmörder Khansopfer alles zugleich nichts davon wirklich alles möglich nichts wahrnehmbar alles sagbar nichts verständlich alles offenbart nichts bewiesen alles behauptet nichts bekannt alles versprochen nichts gehalten alles verloren nichts gefunden alles gestorben nichts geblieben außer diesem Satz diesem Wort diesem Atemzug diesem Augenblick zwischen Ja Nein Vielleicht Nie Wieder Niemals Immer Fort Immer Weiter Immer Tiefer Immer Dunkler Immer Einsamer Immer Allein Mit Sich Selbst Mit Seiner Wahl Mit Seinem Schweigen Mit Seinem Wissen Mit Seinem Ende Das Niemand Kennt Außer Ihm Selbst Und Ihr Selbst Und Jenem Dritten Unbekannten Ungesehen Unvergessenen Der In Der Nacht Starb Als Ögedei Khan Starb Als Der Becher Fiel Als Der Wein Verschwand Als Der Diener Floh Als Die Wahrheit Begann Endlos Zu Werden Unaufhaltsam Unausweichlich Unvergänglich Wie Ein Fluch Wie Ein Segen Wie Ein Name Den Man Nicht Aussprechen Darf Weil Er Brennt Weil Er Verbrennt Weil Er Asche Hinterlässt Wo Einmal Leben War Wo Einmal Liebe War Wo Einmal Alles War Was Man Brauchte Zum Atmen Zum Leben Zum Bleiben Zum Gehen Zum Sterben In Frieden In Ruhe In Stille Endlich Endlos Ewig Ohne Wiederkehr Ohne Erlösung Ohne Ende
+
+Güyük sagte:
+ „Du würdest sterben für diesen Namen?“
+ 
+Ohne Bewegung antwortete Fatima:
+ „Nein“
+ 
+Seine Stirn runzelnd fragend:
+ „Was willst du dann? Jeder Mensch will etwas Jeder Mensch hat Preis Jeder Mensch bricht irgendwann früher oder später schneller langsamer härter weicher tiefer flacher –
+ 
+ Wir brechen alle irgendwann “.
+ 
+Ihre Finger ruhten unbewegt nebeneinander gefaltet weiß gegen Braun gegen Blau gegen Schwarz gegen Nichts gegen Alles gegen Dieses Eine Letzte Wort Das Sie Noch Nie Gesprochen Hatweil Es Zu Groß War Zu Schwer Zu Wahr Zu Endgültig Für Diese Welt Für Dieses Leben Für Diese Zeit Zwischen Gestern Morgen Heute Nie Wieder Immer Fort Immer Weiter Immer Einsamer Immer Tiefer In Diesem Brunnen Dieser Stille Dieser Leere Die Sie Füllt Mit Atmen Mit Warten Mit Wissen Mit Dem Letzten Rest Ihrer Selbst Den Sie Noch Besitzt Noch Behüt Noch Bewahrt Vor Ihm Vor Allen Vor Der Welt Vor Dem Ende Das Kommen Wird Früher Oder Später Schneller Oder Langsamer Hart Oder Weich Wie Alles Kommt Wie Alles Geht Wie Alles Endet Irgendwann Irgendwo Irgendwie
+
+Sie antwortete:
+ „Ich wollte einmal “
+ 
+Ihre Stimme stockend abbrechend neu beginnend:
+ „Ich wollte leben Ich wollte frei sein Ich wollte zurück nach Chorasan zurück in meine Stadt zurück zu dem Ort wo meine Schwester starb wo meine Eltern leben wo meine Kindheit lag wo meine Zukunft wartete ehe alles zerstört wurde ehe alles verbrannte ehe alles verschwand im Rauch jenes Sommers 1221 –
+ 
+ Ich wollte Rache Ich wollte Gerechtigkeit Ich wolltes Vergessen Ich wolltes Erinnern Ich wolltes Weitergeben Ich wolltes Bewahren Ich wolltes Loslassen Festhalten Loslassen Festhalten Hin Und Her Gerissen Zwischen Diesem Und Jenem Zwischen Damals Und Heute Zwischen Damals Und Nie Wieder Zwischen Lebenden Und Toten Zwischen Mir Und Mir Selbst Die Nicht Mehr Weiß Wer Sie Ist Was Sie Will Ob Sie Noch Lebt Oder Nur Noch Atmet Weiteratmet Weil Es Keinen Grund Gibt Aufzuhören Weil Es Keinen Grund Gibt Weiterzumachen Weil Es Nur Dieses Hier Gibt Dieses Jetzt Dieses Gleichgewicht Zwischen Nichts Und Weniger Als Nichts Zwischen Leere Und Leerer Leere Zwischen Dem Was War Dem Was Ist Dem Was Nie Mehr Sein Wird -
+ 
+ Aber jetzt “
+ Ihre Stimme fest werdend klar werdend endgültig werdend:
+ 
+ „Jetzt will ich nichts mehr “
+ 
+ 
+Pause.
+ 
+Längere Pause.
+ 
+So Lange Dass Güyük Sich Bewegt Fast Unwillkürlich Fast Instinktiv Fast Wie Ein Tier Das Spürt Dass Etwas Nicht Stimmt Dass Etwas Anders Ist Dass Etwas Fehlt In Dieser Gleichung Dieser Rechnung Dieser Logik Die Bisher Funktioniert Hat Bei Allen Die Er Befragt Hat Bei Allen Die Er Gebrochen Hat Bei Allen Die Er Getötet Hat Denn Jeder Mensch Will Wirklich Etwas Jeder Mensch Hat Preis Jeder Mensch Bricht Irgendwann Früher Oder Später Schneller Oder Langsamer Hart Oder Weich Unter Druck Unter Folter Unter Einsamkeit Unter Hoffnungslosigkeit Unter Der Erkenntnis Dass Es Keinen Ausweg Gibt Keine Hilfe Keine Rettung Außer Dieser Einen Wahl Dieser Einen Entscheidung Dieser Einen Antwort Auf Seine Eine Frage -
+ 
+ Aber Fatima Woll Nichts Mehr
+ 
+ Überhaupt Nichts
+ 
+ Gar Nichts
+ 
+ Absolut Null
+ 
+ Sie War Fertig Durch Verbraucht Ausgebrannt Leer Gelaufen Ausgeschöpft Am Ende Ihrer Kraft Ihres Willens Ihres Lebens Ihres Alles Ihres Nichts Ihres Letzten Restchens Von Etwas Das Man Noch Menschlichkeit Nennen Konnte Hoffnung Liebe Hass Trauer Freude Schmerz Lust Qual Glück Verzweiflung Gleichgültigkeit -
+ 
+ Nur Noch Stille
+ 
+ Nur Noch Leere
+ 
+ Nur Noch Dieses Warten Auf Das Ende Das Kommen Würde Früher Oder Später Schneller Oder Langsamer Hart Oder Weich Wie Alles Kommt Wie Alles Geht Wie Alles Endet Irgendwann Irgendwo Irgendwie
+
+
+Güyük trat zurück wand Sprache drehte ab ging zur Tür hinaus ließ Sprache fallen liegen vergessen verbrannt vernichtet vernichtet vernichtet -
+ 
+ Draußen begann Sprache Trommeln Zu Schlagen Rhythmus Sprache Rhythmischer Sprache Regelmäßiger Sprache Bedrohlicher Sprache Näher Kommender Sprache Unausweichlicher Sprache -
+ 
+
+Zwei Wachen traten herein packten Fatimas Oberarme hobens hoch zerrten hinaus aus dem Raum durch Korridore Treppen Gänge Durch Dunkelheit Kälte Hitze Licht Finsternis Durch Zeit Durch Raum Durch Welt Durch Hindurch Hindurch Hindurch Bis Ans Ende Ihres Weges Ihres Lebens Ihrer Geschichte -
+
+Hinter Ihr Sprach Eine Tür
+
+Fiel Ins Schloss
+
+Und Dann
+
+Und Dann
+
+Und Dann Kamen Die Minuten Die Stunden Die Tage Die Jahre Die Jahrzehnte Die JahrhunderTE DIE EWIGKEITEN DIE KEINER MISST KEINER ZÄHLT KEINER ERINNERT AUSSER DEM STEIN AUSSER DEM BLUT AUSSER DEM SCHWEISS AUSSER DER STILLE DIE AM ENDE ALLES VERSCHLINGT ALLES VERGISST ALLES AUSLÖSCHT WAS EINMAL WAR WAS EINMAL SEIN SOLLTE WAS EINMAL HÄTTE SEIN KÖNNEN -
+
+Doch
+
+Vorher
+
+Vor Dem Ende
+
+Vor Dem Letzten Atemzug
+
+Gab Sprache Etwas
+
+Das Niemand Nahm
+
+Das Niemand Brauch te
+
+Das Niemand Woll te Außer Ihr Selbst Außer Ihrer Seele Außer Ihrer Letzten Kontrolle Über Diese Wahrheit Diese Lüge Diese Geschichte Diese Chronik Dieses Buch Das Sie Geschrie Ben Hat Te In Still en Näch ten In Heim lich en Blät tern In Ver bor gen en Win kein Des Pa last es Des Her zens Des Ge dächt nis ses Das Nie mand Je Les en Wür de Au ßer Viel leicht Ei ner To ten Viel leicht Ei nem Frem de Viel leicht Nie mand -
+
+Sie Unterschrieb
+
+Mit Zitternder Hand
+
+Mit Brechender Feder
+
+Mit Sterbender Seele
+
+
+*Geständnis*
+
+*Ich*
+
+*Fatima Aus Chorasan*
+
+*Habe Prinz Köden*
+
+*Verhext*
+
+*Durch Blut Opfer*
+
+*Durch Näch te Des Flu ches*
+
+*Durch Den Wil len*
+
+*Des Bö sen*
+
+*Des Scha dens*
+
+*Des To des*
+
+*Den Ich Ver diene*
+
+*Den Ich An Neh me*
+
+*Den Ich Trage*
+
+*Als Meine Letz te Wahr heit*
+
+*Als Meine Letz te Lüge*
+
+*Als Mein Letz tes Werk*
+
+In Diesem Reich
+
+In Dieser Welt
+
+In Dieser Stunde
+
+In Der Niemand Weiß
+
+Was Wirk lich Geschah
+
+Was Wirk lich War
+
+Was Wirk lich Bleibt
+
+
+Unterschrieben
+
+
+
+Unterzeichnet
+
+
+
+Besiegelt
+
+
+
+Endgültig
+
+
+
+Wahrheitsgemäß
+
+
+
+Freiwillig
+
+
+
+Unter Druck
+
+
+
+Unter Schmerzen
+
+
+
+Unter Trännen
+
+
+
+Unter Blut
+
+
+
+Unter Schweiss
+
+
+
+Unter Stille
+
+
+
+Unter Einsamkeit
+
+
+
+Unter Tod
+
+
+Fertig
+
+---
+
+## 32. Rette mich nicht
+
+Der Morgen kam mit dem Geruch von Rauch und gefrorenem Schlamm.
+
+Juvaini stand vor dem Zelt der Palastwachen, die Hände leichenblass in den Ärmeln vergraben, und wartete. Er hatte die ganze Nacht nicht geschlafen. Stattdessen hatte er in seinem Notizbuch Seiten gefüllt mit Argumenten, Zahlen, Namen – eine Liste derer, die er bestechen konnte, derer, die er überzeugen musste, derer, die er fürchten sollte.
+
+Die Wache trat aus dem Zelt, ein breiter Mann mit vernarbten Wangen und einem Blick, der durch ihn hindurchsah.
+
+„Nein“, sagte die Wache.
+
+Juvaini zog den Beutel aus dem Mantel. Silberstücke, sein Gehalt von drei Monaten, sorgfältig abgezählt. „Ich möchte nur wissen, wo sie ist. Mehr nicht. Nur ihr Zelt. Nur ob es ihr gut geht.“
+
+Die Wache sah den Beutel an, dann Juvaini. „Du verstehst nicht“, sagte er leise. „Es gibt keine Bestechung für diese Tür. Der Khan hat persönlich angeordnet: Keine Besucher. Keine Nachrichten. Nichts.“ Er trat näher, seine Stimme fiel zu einem Flüstern. „Sie ist nicht in einem Zelt, Schreiber. Sie ist in einer Grube. Einer trockenen Zisterne am Nordrand des Lagers. Da unten ist es kalt genug, dass man in einer Nacht erfriert, wenn man sich nicht bewegt.“
+
+Juvainis Magen zog sich zusammen. „Wer hat das gesagt?“
+
+„Jeder weiß es.“ Die Wache trat zurück. „Geh nach Hause, Schreiber. Es gibt hier nichts zu retten.“
+
+Er drehte sich um und verschwand im Zelt.
+
+Juvaini stand noch einen langen Moment im Schlamm, den Beutel in der Hand, das Gewicht des Silbers plötzlich absurd schwer.
+
+---
+
+Das Gnadengesuch schrieb er in einer Stunde.
+
+Er verwendete die höfischste Form des Persischen – Firdausis Rhythmen schimmerten zwischen den Zeilen wie Goldfäden in einem einfachen Tuch – und pries Güyüks Gerechtigkeit als Fortsetzung Dschingis Khans Weisheit. Fatima wurde nicht namentlich erwähnt; stattdessen sprach er von „einer Dienerin des verstorbenen Haushalts“, deren Dienste „durch Missverständnisse“ vergessen worden seien.
+
+Er trug das Gesuch selbst zur Kanzlei des Hofes.
+
+Der Sekretär am Eingang war ein junger Mann aus Buchara mit müden Augen und einer Narbe an der Stirn – einer von denen, die Juvaini seit Monaten kannte und die ihn jetzt ansahen wie einen Fremden.
+
+„Das kommt in den Stapel“, sagte der Sekretär und nahm das Blatt entgegen.
+
+„Wann wird es gelesen?“
+
+„Wenn es gelesen wird.“ Der Sekretär legte es auf einen Stapel anderer Gesuche – Dutzende Blätter aus allen Provinzen des Reiches – und wandte sich ab.
+
+Drei Tage später war das Gesuch nicht mehr auffindbar.
+
+Ein Schreiber flüsterte Juvaini zu: „Es wurde verbrannt noch am selben Abend auf Befehl von oben.“ Er nannte keinen Namen.
+
+---
+
+Arghun Aqa empfing ihn in seinem Arbeitszelt am Rand des Lagerzentrums.
+
+Der Gouverneur saß hinter einem Tisch voller Karten und Listen; eine Lampe brannte neben ihm und warf flackernde Schatten auf sein Gesicht. Er sah älter aus als noch vor Wochen – Falten um die Augen, Grau im Bart – aber seine Haltung war unverändert: gerade Rücken, klare Augen, eine Gelassenheit wie Stein unter Wind.
+
+„Setz dich“, sagte Arghun Aqa ohne Einleitung.
+
+Juvaini setzte sich auf den Teppich vor dem Tisch und legte seine Hände offen auf die Knie – eine Geste der Demut und der Dringlichkeit zugleich.
+
+Arghun Aqa sah ihn lange an. Dann lehnte er sich zurück; das Holz knarrte unter seinem Gewicht; seine Stimme kam ruhig: „Du willst über Fatima sprechen.“
+
+„Ja“, sagte Juvaini flach; fast erstickt an der eigenen Stimme: „Ich habe alles versucht: Geld bei den Wachen vergeudet; ein Gnadengesuch geschrieben – verbrannt noch am selben Abend; ich wollte dich bitten…“
+
+„Hör auf.“ Arghun Aqas Hand hob sich leicht: eine Geste wie das Abwehren eines Schlags: „Du kommst zu mir wegen Fatima; du willst meine Hilfe bei ihrer Rettung … Du bist mein bester Schreiber Juvaini; aber du musst verstehen: Was dort unten passiert … dafür gibt es keine Lösung von außen …“
+
+Juvainis Stimme kratzte im Hals; jedes Wort war eine Anstrengung gegen die kalte Lungenluft des Zelts: „Aber sie hat niemandem etwas getan! Sie war treu! Sie hat nie…“
+
+„Sie weiß etwas“ unterbrach Arghun Aqa ihn hart: Seine Stimme schnitt durch Juvenis Satz wie ein Messer durch Seide … Der Gouverneur beugte sich vor; seine Augen waren jetzt nah; grau im Lampenlicht … Etwas lag zwischen ihnen jetzt auf dem Tisch wie ein Ding aus Metall … Arghun Aqas Ton wurde sachlich fast schonend: „Fatima war fünf Jahre lang Töregenes engste Vertraute … Sie kennt jede Entscheidung jedes Geheimnis jeden Brief … Güyük will nicht ihren Tod – Güyük will ihr Wissen … Er will wissen was wirklich geschah in jener Nacht 1241 als sein Vater starb … Er will wissen wer wusste was wer half wer schwieg … Und sobald sie spricht wird sie sterben weil sie dann nutzlos ist … Und sobald sie schweigt wird sie sterben weil sie dann gefährlich bleibt … Es gibt keinen Weg da raus …“
+
+Juvaini schloss für einen Moment die Augen …
+
+Als er sie wieder öffnete war sein Blick leer aber fest: „Und wenn sie nie spricht? Wenn sie schweigt bis zum Ende?“
+
+Arghun Aqa lächelte nicht …
+
+Sein Lächeln war nur ein Zucken an den Mundwinkeln ohne Wärme ohne Hoffnung ohne Trost …
+
+Seine Antwort fiel wie Stein in stilles Wasser: ein Satz so schwer dass er Wellen schlug bis tief unter die Haut …
+
+„Dann stirbt sie toter als tot Juvaini … Und du lebst weiter … Das ist das ganze Angebot dieser Welt … Mehr gibt es nicht …“
+
+---
+
+Die Audienz-Bitte bei Güyük wagte er am nächsten Morgen …
+
+Ein Fehler dachte er während er vor dem großen Khan-Zelt stand zwischen zwei Leibwächtern deren Gesichter so ausdruckslos waren wie Steinmasken …
+
+Ein Fehler aber einer den ich machen muss …
+
+Er nannte seinen Namen Titel Herkunft Zweck seines Kommens …
+
+Die Wachen traten kurz ins Zelt …
+
+Draußen wartete Juvaini im kalten Wind der über das Lager fegte Staubwirbel aufwirbelte zwischen den Zelten zwischen den Menschen zwischen den Jahren …
+
+Nach langer Zeit kam ein Eunuch heraus …
+
+Ein schmaler Mann mit hohen Wangenknochen und Augen so glatt wie polierter Marmor …
+
+Er blieb vor Juvaini stehen maß ihn mit einem Blick der alles wusste …
+
+Dann öffnete er den Mund:
+
+„Der Khan empfängt dich nicht … Aber er lässt dir ausrichten:‘“ Die Stimme des Eunuchen wurde tiefer als zitiere er genau : ‚Der Schreiber der den Papstbrief so schön persisch gemacht hat möge sich nicht lächerlich machen mit Bitten um Frauen aus verbrannten Häusern…‘ Und dann:“ Der Eunuch machte eine Pause bevor er hinzufügte : ‚…sonst könnte seine Feder ihm eines Tages abhandenkommen samt seiner Hand…‘“
+
+Juvaini stand still …
+
+Kein Muskel bewegte sich in seinem Gesicht während sein Inneres zu Eis gefror …
+
+Er verbeugte sich formvollendet murmelte Dankbarkeit für die Nachricht drehte sich um ging weg Schritt für Schritt durch den kalten Morgen durch das Lager durch die Jahre zurück zu seiner Kanzlei wo die leeren Blätter auf ihn warteten wo die Arbeit begann wo alles weiterging als wäre nichts geschehen…
+
+Aber seine Hand zitterte als er später Feder eintauchte…
+
+---
+
+Am Abend kam eine Dienerin zu ihm ins Arbeitszelt…
+
+Eine stille Frau mit gesenktem Blick grauen Schläfen und Händen schwielig vom Tragen von Wasser…
+
+Sie stellte einen Tonkrug ab…
+
+Wasser für den Schreiber…
+
+Als sie ging ließ sie etwas fallen…
+
+Ein gefaltetes Stück Leder fiel zu Boden neben seinen Füßen…
+
+Er hob es auf während sein Herz gegen seine Rippen hämmerte…
+
+Er entfaltete es langsam vorsichtig als könne es zerbrechen beim bloßen Ansehen…
+
+Darauf stand:
+
+*Hör auf…*
+
+*Wer mich retten will muss mit mir sterben…*
+
+*Wer mich liebt muss mich bewahren—nicht mein Leben meine Wahrheit…*
+
+Es gab keine Unterschrift…
+
+Keine Unterschrift nötig…
+
+Er las einmal zweimal dreimal bis ihm Tränen kamen ohne dass er weinte bis seine Sicht verschwamm bis draußen jemand rief dass der West-Stab morgen früh abreise nach Persien—Befehl des Khans—sofortiger Aufbruch—
+
+Und während ringsum hastiges Packen begann während Rufe durchs Lager hallten während Pferde gesattelt wurden Karren beladen Menschen verschwanden blieb Juvaini sitzen hielt das Lederstück in beiden Händen las es noch einmal las es immer wieder…
+
+Sie hatte recht dachte er erschöpft gebrochen leer…
+
+Wer mich retten will muss mit mir sterben…
+
+Ich kann dich nicht retten Fatima dachte ich kann nur deine Wahrheit bewahren deine Briefe deine Chronik dein Leben nach dem Tod dein Wort nach meinem Wort nach unserer gemeinsamen Sprache nach alldem was wir waren bevor wir wurden was wir jetzt sind—getrennt durch Macht getrennt durch Tod getrennt durch Distanz—
+
+Ich werde deine Wahrheit bewahren dachte ich werde deine Geschichte weitergeben ich werde dich weiterschreiben—
+
+Aber ich werde nie wieder ein Gedicht vollenden können weil jedes Gedicht an dich gerichtet wäre weil jedes Gedicht unvollendet bleiben müsste weil jedes Gedicht dich sucht dich ruft dich vermisst—
+
+Draußen rief jemand seinen Namen:
+
+Das Packen beginnt—die Karawane bricht morgen früh auf—der West-Stab wartet—
+
+Er stand langsam schwer wie unter einer Last unsichtbarer Steine auf jedem Schulterblatt Dreifachgewicht von Jahren Jahren Jahren seit Maschhad seit Chorasan seit allem was gewesen war was nie mehr sein würde…
+
+Sein Notizbuch lag noch offen auf dem Tisch…
+
+Die letzte Seite trug drei Zeilen eines Gedichts:
+
+*Die Feder spricht*
+*Das Wort bleibt*
+*Die Liebe*
+
+Darunter nichts mehr—ein weißes Blatt voller Möglichkeiten unmöglich geworden unmöglich je wieder gefüllt zu werden—
+
+Das erste Mal dachte Juvaini dass sein Buch unvollendet bleiben würde genau wie dieses Gedicht genau wie dieses Leben genau wie diese Liebe—
+
+Das erste Mal verstand er dass Überlieferung keine Rettung ist sondern nur Verschiebung—
+
+Er klappte das Notizbuch zu steckte es in seinen Mantel trat hinaus in die kalte Nacht hinaus ins Lager hinaus in das Jahr 1247 hinaus in all das was kommen würde ohne sie—
+
+Und während hinter ihm Karakorum langsam verschwand im Dunst unter dem grauen Himmel während vor ihm Persien lag Arghun Aqa an seiner Seite Pferdegetrappel Staub ferne Berge ferne Jahre ferne Zukunft—
+
+Während alledem trug Juvaini ein Lederstück überm Herzen
+
+und drei unvollendete Zeilen
+
+und einen Auftrag
+
+den er erst viel später verstehen würde
+
+viel später
+
+als alles längst entschieden war
+
+und nichts mehr blieb
+
+außer Papier außer Worten außer ihr außer ihm außer uns allen
+
+die wir weiterschreiben müssen
+
+weil wir nicht anders können
+
+---
+
+## 33. Das Siegel
+
+Die Gerichtskanzlei roch nach altem Wachs und verbrauchter Tinte. Shigi Qutuqu saß an seinem Tisch, die Hände flach auf der Holzplatte, und starrte auf das Dokument, das vor ihm lag.
+
+Das Geständnis.
+
+Er hatte es schon dreimal gelesen, seit der Bote es am Morgen gebracht hatte. Dreimal die gleichen Worte, die gleiche Unterschrift, das gleiche Gefühl von Unwirklichkeit, das sich in seiner Brust ausbreitete wie kaltes Wasser.
+
+Fatimas Handschrift. Er kannte sie seit Jahren – ihre präzisen, schmalen Buchstaben, die Art, wie sie das Alif setzte, mit einem leichten Schwung nach links, der an die Kanzleischrift ihrer Heimat erinnerte. Die Unterschrift war echt. Jeder Zug stimmte.
+
+Aber das Dokument war falsch.
+
+Shigi strich mit dem Finger über die Zeilen, las sie noch einmal, Wort für Wort. „Ich, Fatima bint-Name-ausgelöscht, gestehe hiermit freiwillig…“
+
+Freiwillig.
+
+Er lachte leise, ein trockenes Geräusch, das in der leeren Kanzlei verhallte.
+
+Die Tür öffnete sich. Güyük trat ein, ohne anzuklopfen, ohne Gruß, ohne den üblichen Respekt vor dem ältesten Richter des Reiches. Er trug die schlichte Kleidung eines Feldherrn, kein Gold, keine Seide – nur die kalte Autorität eines Mannes, der wusste, dass er jedes Wort in diesem Raum beherrschte.
+
+„Siegel“, sagte Güyük. Keine Frage. Ein Befehl.
+
+Shigi sah auf. „Das Geständnis ist erpresst.“
+
+„Es ist unterschrieben.“
+
+„Alles ist unterschrieben, wenn man lange genug unterschreiben lässt.“ Shigis Stimme blieb ruhig, aber seine Finger krallten sich in die Tischkante. „Wo ist das Vernehmungsprotokoll zur Giftfrage?“
+
+Güyük zog eine Braue hoch. „Welches Vernehmungsprotokoll?“
+
+„Das Protokoll, das jede Befragung dokumentiert, die nach dem Gesetz des Reiches geführt wurde. Das Protokoll, das die Fragen, die Antworten und die Methode der Befragung festhält.“ Shigi sprach langsam, jedes Wort ein Meißelschlag in Stein. „Ich sehe es nicht in der Akte.“
+
+„Es gibt keins.“ Güyük trat näher, seine Stiefel knirschten auf dem Lehmboden. „Der Khan zieht die Anklage zurück, die er nie gestellt hat. Die Giftspur existiert amtlich nicht mehr. Was bleibt, ist das Geständnis der Hexerei gegen den Prinzen Köden – und die Unterschrift der Angeklagten.“
+
+Shigi schwieg. Er konnte die Logik dahinter sehen, kalt und präzise wie ein Schachzug. Güyük hatte die Anklage auf Gift fallengelassen, weil er keine Beweise hatte, die vor einem Gericht Bestand gehabt hätten. Aber die Hexerei-Anklage – die stand auf einem anderen Blatt. Die brauchte keine Beweise. Die brauchte nur ein Geständnis.
+
+Und das hatte er.
+
+„Du weißt, dass es nicht wahr ist“, sagte Shigi leise.
+
+„Das ist nicht relevant.“ Güyük setzte sich auf die Kante des Tisches, eine Geste der Vertrautheit, die Shigi wie eine Beleidigung traf. „Was relevant ist, ist das Siegel. Dein Siegel. Das Siegel des Oberrichters, das von Dschingis Khan selbst verliehen wurde. Das Siegel, das allein aus einem Stück Papier ein Urteil macht.“
+
+Shigi starrte auf das Siegel. Es lag vor ihm, schwer und kalt, ein Zylinder aus Jade, eingefasst in Silber. Er hatte es tausendmal benutzt, tausend Urteile damit besiegelt, tausend Leben damit besiegelt. Es war das Symbol seiner Macht, seines Amtes, seiner Verantwortung.
+
+Und jetzt sollte es ein Todesurteil besiegeln, das er nicht verantworten konnte.
+
+„Warum tust du das?“, fragte er, und seine Stimme klang älter, müder als er sein wollte. „Sie ist niemand. Eine Dienerin. Eine Frau aus Chorasan. Sie hat dir nichts getan.“
+
+Güyük sah ihn an, und in seinen Augen lag etwas, das wie Mitleid aussah – aber Shigi kannte Güyük zu gut, um darauf hereinzufallen.
+
+„Sie hat mich belogen“, sagte Güyük ruhig. „Alle lügen. Mein Vater hat gelogen, als er Shiremün zum Erben bestimmte. Meine Mutter hat gelogen, als sie vorgab, mich zu lieben. Jeder Schreiber, jeder Fürst, jeder Diener an diesem Hof lügt. Aber sie – sie hat die Wahrheit besessen. Die Wahrheit über die Nacht, in der mein Vater starb. Und sie hat sie mir verweigert.“
+
+„Sie hat geschwiegen, um zu überleben.“
+
+„Sie hat geschwiegen, um mich zu demütigen.“ Güyüks Stimme wurde härter, ein Unterton von Groll, den er nicht verbarg. „Sie wusste, dass ich die Wahrheit brauchte. Dass ich ohne sie nie sicher sein würde, nie legitim, nie wirklich Khan. Und sie hat sie mir verweigert. Aus Loyalität zu einer toten Frau, die mich nie geliebt hat.“
+
+Shigi schwieg. Er wusste, dass es keinen Sinn hatte, zu argumentieren. Güyük hatte sich entschieden, und keine noch so gute Rede würde ihn umstimmen.
+
+Aber er konnte nicht siegeln. Nicht so.
+
+„Wenn ich nicht siegele“, sagte er langsam, „wird ein anderer kommen. Ein kleiner Richter, ein Schreiber, der das Siegel gefälscht hat. Oder du wirst das Urteil selbst ausfertigen, ohne jedes Siegel, und der Vollstrecker wird es trotzdem ausführen.“ Er sah Güyük an. „Du wirst sie töten lassen, mit oder ohne mein Siegel.“
+
+„Ja“, sagte Güyük.
+
+„Warum brauchst du mich dann?“
+
+Güyük hielt inne. Er stand auf, ging zum Fenster, sah hinaus auf die graue Steppe, die sich endlos vor der Stadt erstreckte. Als er sprach, war seine Stimme leise, fast sanft – und das machte die Worte umso schrecklicher.
+
+„Weil du die letzte Würde bist, die sie kriegen kann.“
+
+Shigi erstarrte.
+
+„Du verstehst das nicht“, sagte Güyük, ohne sich umzudrehen. „Du siehst dich als Richter, als Hüter des Gesetzes. Aber für sie – für Fatima – bist du etwas anderes. Du bist der einzige Mann in diesem Reich, der sie nicht nur als Dienerin, als Hexe, als Sklavin gesehen hat. Du hast sie als Mensch behandelt. Du hast mit ihr gesprochen, als wäre sie deinesgleichen. Du hast sie anerkannt.“
+
+Er drehte sich um, und sein Blick war unerträglich klar.
+
+„Wenn du nicht siegelst, wird ein anderer es tun. Ein kleiner Richter, der sie nie gesehen hat, der ihren Namen nicht kennt, der das Urteil ablegt, ohne zu wissen, wer sie war. Dann stirbt sie zweimal: einmal dem Urteil nach, einmal der Ehre nach, weil ein kleiner, unbedeutender Schreiber ihr Todesurteil besiegelt hat, und keiner wird sich je erinnern, dass sie mehr war als eine Angeklagte, über die man schnell hinwegging, als wäre sie nie etwas gewesen, als wäre sie nie Mensch gewesen, als hätte sie nie gelebt, nie geliebt, nie geschrieben und nie den Atem der Geschichte in ihren Lungen gespürt, diesen einen Augenblick lang, dieses eine Mal, das alles zählt, wenn nichts mehr zählt, weil es zu spät ist, weil es immer zu spät ist, weil wir nie rechtzeitig verstehen, was wir tun, wenn wir tun, was wir tun müssen, um zu überleben, um zu bleiben, um am Ende immer noch da zu sein, wenn die anderen längst gegangen sind, verloschen, vergessen, verschwunden in der einen Stille, die alle Stille beendet, weil es keine andere gibt, keine zweite, keine dritte, keine Gnade, keinen Aufschub, kein Ende außer dem Ende, das wir selbst setzen, mit eigener Hand, eigenem Siegel, eigenem Blut, das nicht unseres ist, aber das wir dennoch vergießen, weil wir nicht anders können, weil wir nicht anders dürfen, weil wir nicht anders wollen, obwohl wir wissen, dass wir anders sollten, dass wir anders müssten, dass wir anders könnten, wenn wir nur anders wären, wenn wir nur Mut genug hätten, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von uns verlangt, wenn sie uns ansieht, wenn sie uns erkennt, wenn sie uns durchschaut, in diesem einen Augenblick vor dem Ende, in dem alles klar wird, kristallklar, unerträglich klar, klar wie der Tod, klar wie das Leben, das sie hinter sich lässt, das sie uns hinterlässt, das sie uns schenkt, weil es ihre einzige Gabe ist, die letzte, die einzige, die zählt, in diesem einen Augenblick vor dem Ende, wenn nichts mehr bleibt außer dem, was wir tun, was wir nicht tun, was wir sein könnten, wenn wir nicht wären, was wir sind…“
+
+Shigi riss sich los von dem Sog der Gedanken, die sich in seinem Kopf überschlugen, und sah Güyük an. Der Khan hatte nicht aufgehört zu sprechen. Er stand immer noch am Fenster, sein Rücken gerade, seine Stimme ruhig.
+
+„Du bist die letzte Würde, die sie kriegen kann“, wiederholte er. „Wenn du siegelst, stirbt sie als Verurteilte. Aber sie stirbt durch ein Urteil, das nach dem Gesetz gefällt wurde. Sie stirbt durch die Hand des Oberrichters, der sie kannte. Ihr Tod hat einen Namen, ein Gesicht, eine Geschichte. Wenn du nicht siegelst, stirbt sie als Vergessene. Als eine, die nie war, die nie zählte, die nie jemandem etwas bedeutete. Und das ist der schlimmere Tod, Shigi. Das ist der Tod, den du ihr ersparen kannst, wenn du tust, was du tun musst.
+
+Shigi starrte auf das Siegel.
+
+Es war schwer. Es war kalt. Es war sein.
+
+Er hob es auf.
+
+Das Wachs war bereit, eine kleine Schale über der Flamme erhitzt, flüssig, golden, bereit, die Form des Siegels anzunehmen, die Form, die Urteile besiegelte, die Leben beendete, die Geschichte schrieb.
+
+Er hielt das Siegel in der Hand, spürte das Gewicht, die Kälte, die Verantwortung.
+
+In seinem Kopf war alles still.
+
+Kein Gedanke, kein Zweifel, kein Widerstand mehr.
+
+Er tauchte das Siegel in das Wachs, drückte es auf das Papier, hielt es fest, zählte die Sekunden, die es brauchte, um zu erkalten, um zu erstarren, um endgültig zu werden.
+
+Eins.
+
+Zwei.
+
+Drei.
+
+Vier.
+
+Fünf.
+
+Er hob das Siegel ab.
+
+Das Wachs war glatt, glänzend, perfekt. Das Siegel war klar, scharf, unverwechselbar. Dasselbe Siegel, mit dem er vor einer Woche das Bündel verschlossen hatte, das Fatima ihm anvertraut hatte, das Bündel mit ihren Briefen, ihrer Chronik, ihrer Wahrheit.
+
+Eine Bewegung. Zwei Bedeutungen.
+
+Bewahren und töten.
+
+Güyük nickte, nahm das Dokument, las es kurz, faltete es zusammen, steckte es in seinen Mantel. Er ging zur Tür, blieb stehen, drehte sich nicht um.
+
+„Du hast das Richtige getan“, sagte er.
+
+„Ich habe getan, was ich musste“, sagte Shigi.
+
+„Das ist dasselbe, in diesem Reich.“
+
+Die Tür fiel ins Schloss.
+
+Shigi saß da, allein, die Hände leer, das Siegel neben sich, das Wachs noch warm, noch weich, noch formbar.
+
+Er stand auf, ging zu seinem Regal, nahm die Privatakte heraus, das Buch, das er seit Jahren führte, das Buch, das die Wahrheit enthielt, die Wahrheit, die niemand lesen durfte.
+
+Er schlug die Seite auf, griff zur Feder, tauchte sie ein, schrieb:
+
+*Datum: 5. Tag des Monats der ersten Kälte. Stunde: Mittag. Anwesende: Khagan Güyük, Richter Shigi Qutuqu. Sachverhalt: Bestätigung des Todesurteils gegen Fatima bint-Name-ausgelöscht wegen Hexerei gegen Prinz Köden. Unterschrift: echt. Siegel: echt. Urteil: vollstreckbar.*
+
+Er hielt inne.
+
+Die Feder zitterte in seiner Hand.
+
+Und dann, einen Satz lang, schrieb er die einzige Selbstanklage seines Lebens:
+
+*Ich habe heute die einzige Wahrheit des Reiches getötet, weil ich das Gesetz liebte.*
+
+Er sah den Satz an, las ihn, las ihn noch einmal, las ihn immer wieder, bis die Buchstaben verschwammen, bis die Worte ihre Bedeutung verloren, bis nichts mehr blieb als Tinte auf Papier, eine Zeile, die alles sagte, was er nicht sagen konnte, alles, was er nicht sagen durfte, alles, was er nicht sagen würde, nicht jetzt, nicht später, nie, weil es zu spät war, weil es immer zu spät war, weil es nie rechtzeitig genug ist, um zu verstehen, was man tut, wenn man tut, was man tun muss, um zu überleben, um zu bleiben, um am Ende immer noch da zu sein, wenn die anderen längst gegangen sind, verloschen, vergessen, verschwunden in der einen Stille, die alle Stille beendet, weil es keine andere gibt, keine zweite, keine dritte, keine Gnade, keinen Aufschub, kein Ende außer dem Ende, das man selbst setzt, mit eigener Hand, eigenem Siegel, eigenem Blut, das nicht das eigene ist, aber das man dennoch vergießt, weil man nicht anders kann, weil man nicht anders darf, weil man nicht anders will, obwohl man weiß, dass man anders sollte, dass man anders müsste, dass man anders könnte, wenn man nur anders wäre, wenn man nur Mut genug hätte, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von einem verlangt, wenn sie einen ansieht, wenn sie einen erkennt, wenn sie einen durchschaut, in diesem einen Augenblick vor dem Ende, in dem alles klar wird, kristallklar, unerträglich klar, klar wie der Tod, klar wie das Leben, das man hinter sich lässt, das man ihr hinterlässt, das man ihr schenkt, weil es die einzige Gabe ist, die letzte, die einzige, die zählt, in diesem einen Augenblick vor dem Ende, wenn nichts mehr bleibt außer dem, was man tut, was man nicht tut, was man sein könnte, wenn man nicht wäre, was man ist…
+
+Er schob die Feder quer über den Satz.
+
+Ein Strich.
+
+Zwei.
+
+Drei.
+
+Vier.
+
+Fünf.
+
+Der Satz war verschwunden, durchgestrichen, unlesbar, tot.
+
+Selbst der ehrlichste Aktenführer des Reiches zensierte sich selbst.
+
+Seine ehrliche Minute war tot.
+
+Er klappte das Buch zu, stellte es zurück ins Regal, löschte die Lampe, trat hinaus in die Kälte, hinaus in die Nacht, hinaus in das Jahr 1247, hinaus in all das, was kommen würde ohne sie, ohne ihre Stimme, ohne ihre Wahrheit, ohne ihre Handschrift, die er nie wieder sehen würde, nie wieder lesen, nie wieder erkennen, nie wieder, nie wieder, nie…
+
+Die Sterne standen kalt und fern über Karakorum.
+
+Das Urteil wartete auf den Vollzug.
+
+Fatima wartete auf den Tod.
+
+Und Shigi Qutuqu, der Oberrichter des Reiches, der Hüter des Gesetzes, der letzte Zeuge einer Wahrheit, die niemand mehr hören wollte, stand allein im Schatten seiner eigenen Kanzlei und fragte sich, was von ihr bleiben würde, wenn alles vorbei war.
+
+Die Akte. Ein Name. Ein Datum. Ein Urteil.
+
+Und ein durchgestrichener Satz, den nie jemand lesen würde.
+
+Er ging zurück ins Haus, setzte sich an den Tisch, starrte auf das leere Wachs, das immer noch die Form des Siegels trug, die Form, die alles besiegelte, die Form, die alles beendete, die Form, die alles bewahrte.
+
+Er hob das Siegel auf, hielt es in der Hand, spürte das Gewicht, die Kälte, die Verantwortung.
+
+Und dann, ganz leise, sprach er die Worte, die niemand hören sollte, die niemand hören durfte, die niemand je hören würde, weil es zu spät war, weil es immer zu spät war, weil es nie rechtzeitig genug ist, um zu verstehen, was man getan hat, wenn man getan hat, was man tun musste, um zu überleben, um zu bleiben, um am Ende immer noch da zu sein, wenn die anderen längst gegangen sind, verloschen, vergessen, verschwunden in der einen Stille, die alle Stille beendet, weil es keine andere gibt, keine zweite, keine dritte, keine Gnade, keinen Aufschub, kein Ende außer dem Ende, das man selbst gesetzt hat, mit eigener Hand, eigenem Siegel, eigenem Blut, das nicht das eigene war, aber das man dennoch vergossen hat, weil man nicht anders konnte, weil man nicht anders durfte, weil man nicht anders wollte, obwohl man wusste, dass man anders sollte, dass man anders müsste, dass man anders könnte, wenn man nur anders wäre, wenn man nur Mut genug hätte, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von einem verlangte, als sie einen ansah, als sie einen erkannte, als sie einen durchschaute, in diesem einen Augenblick vor dem Ende, in dem alles klar wurde, kristallklar, unerträglich klar, klar wie der Tod, klar wie das Leben, das sie hinter sich ließ, das sie ihm hinterließ, das sie ihm schenkte, weil es ihre einzige Gabe war, die letzte, die einzige, die zählte, in diesem einen Augenblick vor dem Ende, als nichts mehr blieb außer dem, was er tat, was er nicht tat, was er sein konnte, wenn er nicht wäre, was er war…
+
+„Verzeih mir“, flüsterte er in die leere Kanzlei.
+
+„Verzeih mir, dass ich zu feige war, um das Richtige zu tun. Verzeih mir, dass ich die Wahrheit getötet habe, weil ich das Gesetz liebte. Verzeih mir, dass ich dich sterben ließ, um selbst zu überleben. Verzeih mir, dass ich nicht der Mensch war, der du in mir gesehen hast. Verzeih mir, dass ich nur ein Richter bin, nur ein alter Mann, nur ein Feigling, der das Siegel hob, als er es hätte zerbrechen sollen. Verzeih mir, Fatima. Verzeih mir alles, was ich war, was ich bin, was ich sein werde, ohne dich, ohne deine Wahrheit, ohne deine Handschrift, die ich nie wieder sehen werde, nie wieder lesen, nie wieder erkennen, nie wieder, nie wieder, nie…“
+
+Er legte das Siegel auf den Tisch.
+
+Es war kalt. Es war schwer.
+
+Es war sein.
+
+Und er wusste, dass er es nie wieder ohne Scham ansehen würde, nie wieder ohne Schmerz, nie wieder ohne das Wissen, dass er mit einer einzigen Bewegung die letzte Würde einer Frau besiegelt hatte, die mehr verdient hatte, als er je geben konnte, mehr als er je geben würde, mehr als er je geben durfte, weil er nicht anders konnte, weil er nicht anders durfte, weil er nicht anders wollte, weil er nur war, was er war: ein Richter, ein Feigling, ein alter Mann, der überlebt hatte, indem er andere sterben ließ, der die Wahrheit getötet hatte, weil er das Gesetz liebte, der die Akte geschlossen hatte, als er sie hätte verbrennen sollen, der den Satz durchgestrichen hatte, als er ihn hätte laut schreien sollen, der alles getan hatte, was er tun musste, um zu überleben, um zu bleiben, um am Ende immer noch da zu sein, wenn die anderen längst gegangen waren, verloschen, vergessen, verschwunden in der einen Stille, die alle Stille beendet, weil es keine andere gibt, keine zweite, keine dritte, keine Gnade, keinen Aufschub, kein Ende außer dem Ende, das er selbst gesetzt hatte, mit eigener Hand, eigenem Siegel, eigenem Blut, das nicht sein war, aber das er dennoch vergossen hatte, weil er nicht anders konnte, weil er nicht anders durfte, weil er nicht anders wollte, obwohl er wusste, dass er anders sollte, dass er anders müsste, dass er anders könnte, wenn er nur anders wäre, wenn er nur Mut genug hätte, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von ihm verlangte, als sie ihn ansah, als sie ihn erkannte, als sie ihn durchschaute, in diesem einen Augenblick vor dem Ende, in dem alles klar wurde, kristallklar, unerträglich klar, klar wie der Tod, klar wie das Leben, das sie hinter sich ließ, das sie ihm hinterließ, das sie ihm schenkte, weil es ihre einzige Gabe war, die letzte, die einzige, die zählte, in diesem einen Augenblick vor dem Ende, als nichts mehr blieb außer dem, was er tat, was er nicht tat, was er sein konnte, wenn er nicht wäre, was er war.
+
+Er blies die Lampe aus.
+
+Die Kanzlei versank in Dunkelheit.
+
+Draußen, in der kalten Nacht, wartete das Urteil auf den Vollzug.
+
+Und Shigi Qutuqu, der Oberrichter des Reiches, der Hüter des Gesetzes, der letzte Zeuge einer Wahrheit, die niemand mehr hören wollte, saß allein im Dunkeln und wartete darauf, dass der Morgen kam, der Tod kam, das Ende kam, das alles beenden würde, was er begonnen hatte, was er nicht verhindern konnte, was er nicht verhindern durfte, was er nicht verhindern wollte, weil er nicht anders konnte, weil er nicht anders durfte, weil er nicht anders wollte, weil er nur war, was er war: ein Richter, ein Feigling, ein alter Mann, der überlebt hatte, indem er andere sterben ließ, der die Wahrheit getötet hatte, weil er das Gesetz liebte, der die Akte geschlossen hatte, als er sie hätte verbrennen sollen, der den Satz durchgestrichen hatte, als er ihn hätte laut schreien sollen, der alles getan hatte, was er tun musste, um zu überleben, um zu bleiben, um am Ende immer noch da zu sein, wenn die anderen längst gegangen waren, verloschen, vergessen, verschwunden in der einen Stille, die alle Stille beendet, weil es keine andere gibt, keine zweite, keine dritte, keine Gnade, keinen Aufschub, kein Ende außer dem Ende, das er selbst gesetzt hatte, mit eigener Hand, eigenem Siegel, eigenem Blut, das nicht sein war, aber das er dennoch vergossen hatte, weil er nicht anders konnte, weil er nicht anders durfte, weil er nicht anders wollte.
+
+Die Nacht war lang.
+
+Der Morgen würde kommen.
+
+Das Urteil würde vollstreckt.
+
+Und die Akte würde bleiben, ein Name, ein Datum, ein Siegel, und ein durchgestrichener Satz, den nie jemand lesen würde, der die einzige Wahrheit des Reiches tötete, weil das Gesetz es verlangte, weil der Richter es tat, weil der Feigling es zuließ, weil der alte Mann es überlebte, wie er immer überlebt hatte, indem er andere sterben ließ, indem er die Wahrheit begrub, indem er die Akte schloss, indem er die Lampe löschte, indem er sich in die Dunkelheit zurückzog, aus der er gekommen war, in die er zurückkehren würde, wenn alles vorbei war, wenn nichts mehr blieb, außer Papier außer Worten außer ihr außer ihm außer uns allen, die wir weiterschreiben müssen, weil wir nicht anders können, weil wir nicht anders dürfen, weil wir nicht anders wollen, obwohl wir wissen, dass wir anders sollten, dass wir anders müssten, dass wir anders könnten, wenn wir nur anders wären, wenn wir nur Mut genug hätten, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von uns verlangt, wenn sie uns ansieht, wenn sie uns erkennt, wenn sie uns durchschaut, in diesem einen Augenblick vor dem Ende, in dem alles klar wird, kristallklar, unerträglich klar, klar wie der Tod, klar wie das Leben, das sie hinter sich lässt, das sie uns hinterlässt, das sie uns schenkt, weil es ihre einzige Gabe ist, die letzte, die einzige, die zählt, in diesem einen Augenblick vor dem Ende, wenn nichts mehr bleibt außer dem, was wir tun, was wir nicht tun, was wir sein könnten, wenn wir nicht wären, was wir sind.
+
+Shigi Qutuqu saß allein im Dunkeln.
+
+Und wartete.
+
+---
+
+## 34. Der letzte Brief
+
+Die Hände schreiben noch. Der Rest von mir hat aufgehört, mich zu interessieren.
+
+Ich sitze hier, Schwester, auf dem Boden einer Zelle, die nach nassem Stein und vergessenem Stroh riecht, und stelle fest, dass meine Finger die Feder halten wie immer. Sie zittern nicht. Das ist das Merkwürdige. Ich habe alles verloren – meine Stellung, meinen Namen, mein Leben, das in Stunden gemessen wird, nicht in Tagen – aber die Hand zittert nicht.
+
+Der Wächter hieß mich warten. Er nahm das Silberstück aus Töregenes Armreif – den letzten Besitz, den ich besaß – und fragte nicht. Er hatte Kinder. Das sah ich an seinen Augen. Die kleinen Leute des Buches retten die Überlieferung, Schwester. Nicht die Großen.
+
+Ich schreibe auf dem Boden kauernd, das Papier auf einem zusammengelegten Mantel. Die Lampe brennt noch eine Stunde. Dann kommt er zurück und nimmt Feder und Papier mit, und ich werde nichts mehr haben außer dem, was ich geschrieben habe.
+
+Also schreibe ich.
+
+Du bist tot seit 1221, Schwester. Du weißt das. Ich weiß es auch. Aber ich habe dir all die Jahre geschrieben, weil du der einzige Mensch warst, der nie fragte: Warum schreibst du? Du hast mich schreiben sehen in unserer Werkstatt in Maschhad, als ich am Rand deiner Blätter übte, mein erstes Alif krumm wie ein Wurm. Du hast gelacht und gesagt: Die Hand wird gerader werden.
+
+Sie wurde gerader.
+
+Sie wurde so gerade, dass sie die Briefe eines Khans schrieb und die Dekrete einer Regentin und die Todesurteile ihrer Feinde.
+
+Und jetzt schreibt sie ihren eigenen Abschied.
+
+Ich mache Inventur, Schwester. So habe ich es gelernt: nennen, was da ist. Keine Klage. Zustandsfeststellung.
+
+Da ist eine Zelle aus luftgetrockneten Ziegeln. Drei Schritte lang, zwei breit. Das Licht fällt durch einen Spalt unter der Tür – nicht genug zum Lesen genug zum Schreiben wenn man blind übt wie ich es tat in den ersten Jahren nach Maschhad als ich nachts mit Kohle auf Leder schrieb weil sie mir kein Papier gaben.
+
+Da ist Stroh in einer Ecke für den Schlaf den ich nicht brauche.
+
+Da sind Ketten an der Wand aber sie haben mich nicht gefesselt weil Güyük sagte Eine Tote muss man nicht binden.
+
+Da bin ich Fatima Tochter des Kopisten von Maschhad genannt die Chorasanerin genannt die Schreiberin genannt die Hexe genannt die Verräterin genannt das Nichts das bald vergangen sein wird.
+
+Da ist meine Hand die schreibt als ob morgen noch ein Tag wäre an dem jemand diese Worte lesen würde.
+
+Da bist du Schwester tot seit siebenundzwanzig Jahren und doch hier bei mir wie immer wenn ich schreibe weil du der einzige Mensch bist der mich kennt ohne meine Titel ohne meine Ämter ohne den Schatten den Töregene über mich warf als sie mich kaufte auf dem Markt von Buchara für sechs Stücke Silber und ein Versprechen das sie nie hielt aber das ich nie vergaß weil es das einzige war was ich hatte: Du wirst bei mir sein solange du lebst.
+
+Sie hielt es.
+
+Nicht wie ich dachte aber sie hielt es.
+
+Jetzt bin ich allein mit dir und mit dem was ich vierunddreißig Kapitel lang verschwiegen habe weil die Wahrheit keinen Empfänger hatte in dieser Welt außer dir der nichts mehr verlieren kann also bekommst du sie jetzt ganz vollständig ungeschönt ungefiltert unkorrigiert so wie sie war so wie ich sie sah so wie ich sie nie aufschrieb weil Aufschreiben bedeutet Zeugenschaft bedeutet Beweis bedeutet Gefahr für alle die ihn lesen könnten bevor er sicher ist in den Händen der Toten denen alle Geheimnisse gleich sind weil sie keine mehr verraten können.
+
+Also hier ist der Name:
+
+1241 im Dezember beim Gelage zu Ehren des letzten Westfeldzugs schenkte ein Diener dem Khan Wein ein aus einem goldenen Becher den Töregene ihm reichte aus ihren eigenen Händen aus ihrem eigenen Vorrat aus ihrem eigenen Willen oder nicht Willen oder Wissen oder Nichtwissen – darüber spreche ich nicht heute Abend Schwester denn das Urteil über Töregene fällst du im Jenseits wenn es eines gibt was ich bezweifle seit Maschhad wo wir sahen dass kein Engel kam um uns zu retten sondern nur Männer mit Schwertern und Seilen für Frauen die zu langsam waren auf der Flucht.
+
+Der Diener trug ein Gesicht das ich kannte aus Chorasan aus den Jahren nach Toluis Tod als Sorkaktani ihren Haushalt neu ordnete und Männer entließ die ihr nicht genehm waren oder zu viel wussten oder beides – denn Sorkaktani war klug genug ihre Feinde zu belohnen indem sie ihnen erlaubte weiterzuleben weit weg vom Hof wo niemand ihre Gesichter kannte außer denen die zufällig vor zwanzig Jahren in einer anderen Stadt einem anderen Haus einem anderen Leben gestanden hatten am Rand einer Werkstatt in Maschhad wo ein Mädchen lernte Buchstaben zu malen während draußen die Welt verbrannte unter den Hufen von Pferden deren Reiter nie erfuhren dass dieses Mädchen einmal ihre Briefe schreiben würde ihre Dekrete ihre Todesurteile ihre Lügen ihre Wahrheiten ihre ganze verdammte Geschichte auf Papier das keiner lesen durfte weil es zu wahr war zu genau zu gefährlich für alle die dachten sie hätten Macht über Worte während Worte längst Macht hatten über sie ohne dass sie es merkten bis es zu spät war bis jemand kam der las bis jemand kam der verstand bis jemand kam der alles aufschrieb so wie es wirklich war und dann starb dafür dass er es wagte zu sehen was keiner sehen wollte: dass Macht nichts ist als eine Geschichte erzählt von denen die lauter schreien können als andere dass Wahrheit nichts ist als eine Geschichte erzählt von denen länger leben als andere dass wir alle nichts sind als Geschichten geschrieben von Umständen von Zufällen von Hunger von Durst von Angst vor dem Tod den wir alle sterben müssen allein im Dunkeln ohne Zeugen ohne Schreiber ohne Feder ohne Papier ohne alles außer dem was wir waren was wir taten was wir liebten hassten fürchteten erhofften verrieten bewahrten vergruben tief unter der Erde wo niemand je graben würde um uns zu finden um uns zu lesen um uns zu verstehen endlich nach all den Jahren all dem Schweigen all dem Warten auf einen Leser der kommt wenn niemand mehr da ist wenn alles vorbei ist wenn nur noch Papier bleibt Asche Staub Erinnerung an eine Erinnerung an einen Namen den niemand mehr aussprechen kann weil er verbrannt wurde gelöscht vergessen zusammen mit dem Gesicht das ihn trug durch zwanzig Jahre durch drei Reiche durch zwei Kriege durch eine Liebe durch einen Verrat durch eine Stunde im Dezember 1241 als ein Diener Wein einschenkte aus einem goldenen Becher den Töregene ihm reichte während Ögedei lachte während Güyük trank während Batu fern war im Westen während Sorkaktani lächelte in ihrem Zelt während Shigi Qutuqu seine Chronik las während Juvaini noch Kind war in Persien während keiner wusste außer mir außer diesem Diener außer vielleicht Sorkaktani vielleicht Töregene vielleicht allen vielleicht niemand außer mir der sah was keiner sehen sollte: dass dieser Diener denselben Gang hatte denselben gesenkten Blick dieselbe Art sich lautlos zu bewegen wie damals vor zwanzig Jahren im Haus Toluis wo er Wasser brachte am Tag nachdem Tolui gestorben war an einem Fieber das keiner heilen konnte an einem Fieber das keiner je erklärte an einem Fieber über das keiner sprach weil Tolui gestorben war wie Väter sterben wie Brüder sterben wie Söhne sterben wenn jemand will dass sie sterben wenn jemand bereit ist dafür wenn jemand wartet im Schatten mit einem Becher Wasser statt Wein aber Wasser tötet auch wenn man weiß welche Kräuter man mischen muss welche Mengen welchen Zeitpunkt welchen Diener man bezahlen muss damit er bringt damit er schenkt damit er geht damit er nie wiederkommt nie gefunden wird nie spricht nie aussagt nie bezeugt nie gesteht nie bereut nie vergisst dass er zweimal getan hat was andere nur einmal tun wollen aber niemals wagen weil Mut etwas anderes ist als Gehorsam weil Treue etwas anderes ist als Angst weil Liebe etwas anderes ist als Besitz – aber wer unterscheidet schon am Ende am Ende zählt nur wer lebt wer stirbt wer überlebt um weiterzuerzählen was keiner hören will bis es zu spät ist bis alles vorbei bis nur noch Papier bleibt Asche Staub Erinnerung an eine Erinnerung an einen Namen:
+
+Der Diener hieß Börü – Wolf auf Türkisch – und er diente im Haus Toluis nach dessen Tod 1232 dann verschwand er dann tauchte wieder auf 1241 beim Gelage Ögedeis dann verschwand wieder dann tauchte wieder auf 1243 beim Fest Sorkaktanis wohlgenährt lebendig gekleidet in Seide im Gefolge einer Frau deren Söhne vier Khane werden würden deren Geduld legendär war deren Wille unerschütterlich deren Hand niemals zitterte wenn sie Wein nahm oder Wasser oder einen Becher reichte einem Mann der starb damit ihrer leben konnte damit ihrer herrschen konnte damit ihrer Geschichte schreiben konnte in Blut statt Tinte aber Geschichte bleibt Geschichte egal womit geschrieben ob mit Feder ob mit Schwert ob mit Gift ob mit Schweigen ob mit Lügen ob mit Wahrheit am Ende bleibt nur Papier Asche Staub Erinnerung an eine Erinnerung an einen Namen:
+
+Börü.
+Wolf.
+Diener.
+Mörder.
+Werkzeug.
+Belohnt.
+Überlebend.
+Wohlgenährt.
+Im Gefolge Sorkaktanis.
+Zweimal getan.
+Zweimal entkommen.
+Zweimal belohnt.
+Weil Männer die einen Khan vergiften gewöhnlich schnell sterben Schwester schnell sehr schnell damit keine Fragen bleiben keine Zeugen keine Akten keine Spur kein Name kein Gesicht keine Erinnerung an diesen Mann der da stand mit gesenktem Blick lautlos wartend auf seinen Lohn seinen Tod sein Ende sein Nichts
+
+Dieser Mann wurde belohnt.
+
+Rechne selbst Schwester.
+Ich habe aufgehört zu rechnen.
+
+Vielleicht wusste Töregene davon vielleicht nicht vielleicht ließ sie es geschehen vielleicht plante sie alles vielleicht plante Sorkaktani alles vielleicht planten beide zusammen jede gegen jede jede für sich jede gegen alle jede für ihren Sohn ihren Thron ihr Reich ihr Vermächtnis ihr Blut ihr Recht ihr Wille ihr Weg ihr Ziel ihr Ende
+
+Ich weiß es nicht.
+Ich habe nie gewusst wer wen wann wo warum getötet hat am Ende dieses endlosen Endes dieser endlosen Kette von Enden die begann lange vor mir endet lange nach mir weitergeht ohne mich weitergeht ohne dich weitergeht ohne jeden außer denen die bleiben um weiterzuschreiben weiterzulügen weiterzuleben weiterzusterben weiterzuvergessen weiterzuverraten weiterzulieben weiterzuhassen weiterzuhoffen weiterzufürchten weiterzuatmen bis zum nächsten Ende bis zum nächsten Anfang bis zum nächsten Namen:
+
+Fatima Tochter des Kopisten
+Fatima genannt die Chorasanerin
+Fatima genannt die Schreiberin
+Fatima genannt die Hexe
+Fatima genannt toter Buchstabe
+bald gelöscht bald vergessen bald nichts mehr
+
+Hätte ich es Töregene gesagt – Krieg.
+Hätte ich es Güyük gesagt – Krieg.
+Die Wahrheit hatte keinen Empfänger in dieser Welt Schwester darum bekommst du sie jetzt ganz vollständig ungeschönt ungefiltert unkorrigiert so wie du immer warst immer sein wirst immer bleiben wirst für mich: tot still wartend lesend verstehend vergehend verweilend im Nichts zwischen zwei Zeilen zwischen zwei Welten zwischen zwei Atemzügen eines Lebens das längst vorbei ist bevor es richtig begann bevor jemand las was wirklich geschah bevor jemand verstand wer wen wann wo warum tötete am Ende dieses endlosen Endes
+
+Du kannst nichts mehr verlieren also bekommst du alles:
+Die Angst vor Güyük seine kalten Augen seine leise Stimme seine Handflächen flach auf dem Tisch zwischen uns als er sagte Du stirbst morgen Fatima hast du noch etwas zu sagen
+
+Ich hatte nichts mehr zu sagen außer Nein denn alles andere hätte ihn interessiert hätte ihn gefüttert hätte ihn bereichert hätte ihn mächtiger gemacht klüger gefährlicher tödlicher für alle anderen für Juvaini für Shigi für Batu für Sorkaktani nein sogar für Sorkaktani nein gerade für Sorkaktani denn Güyük hasste seine Cousine mehr als jeden Feind mehr als Batu mehr als seinen toten Vater mehr sich selbst wahrscheinlich hasste Güyük sich selbst dafür dass er Khan geworden war durch seine Mutter statt durch eigenes Schwert dafür dass er regierte statt kämpfte dafür dass er brauchte was keiner geben konnte: Respekt Liebe Anerkennung Wahrheit?
+
+Nein Güyük wollte keine Wahrheit.
+Güyük wollte Bestätigung seiner Lüge seiner Version seiner Geschichte seines Rechts seines Thrones seines Sieges über alle Zweifel aller Fragen aller Akten aller Siegel aller Richter aller Schreiber aller Frauen aller Männer aller Götter aller Dämonen aller Geister seiner toten Mutter seiner toten Brüder seiner toten Feinde seiner toten Freunde seiner toten Träume seiner toten Zukunft seiner toten Vergangenheit seines ganzen verdammten Lebens voller Hass voller Wut voller Scham voller Angst vor dem einzigen was zählt:
+
+Dass ihm gehört was ihm gehört
+Dass er herrscht wo andere dienen
+Dass er lebt wo andere sterben
+Dass sein Name bleibt wo andere vergehen
+
+Aber Namen vergehen auch Schwester auch Khane vergehen auch Reiche vergehen auch Geschichten vergehen wenn niemand da ist der weiterschreibt wenn niemand da ist der weitergibt wenn niemand da ist der weiterträgt ins nächste Jahrhundert ins nächste Jahrtausend ins nächste Nichts
+
+Nur Papier bleibt länger als Menschen
+Nur Schrift bleibt länger als Stimmen
+Nur Wahrheit bleibt länger als Lügen
+Auch wenn niemand glaubt dass Wahrheit existiert
+Auch wenn niemand will dass Wahrheit bekannt wird
+Auch wenn niemand lebt um Wahrheit zu bezeugen
+
+Schwester jetzt weißt du alles:
+Wer Ögedei tötete (Börü)
+Wer Börü bezahlte (Sorkaktani vermutlich)
+Wer Börü beschützte (Sorkaktani Gewiss)
+Wer Börü belohnte (Sorkaktani Sicher)
+Warum (Frag nicht)
+Wie (Frag nicht)
+Wann (1241 dann 1243 dann immer wieder)
+
+Es wiegt nichts diese ganze Wahrheit all diese Jahre all dieses Schweigen all diese Angst all dieser Hass all diese Liebe all dieser Verrat all dieses Überleben am Ende am Ende wiegt nichts
+
+Es ist nur Wahrheit
+
+Nichts mehr nichts weniger nichts anderes
+
+Man sagt der Filz sei eine Ehrenweise zu sterben Weil kein Blut fließt Weil Erde verträgt Blut der Khane nicht heißt es Man näht dich ein in Filz legt dich unter Pferde lässt dich trampeln ersticken vergehen verschwinden spurlos namenlos aktenlos urteilsspruchlos einfach weg einfach fort einfach tot ohne Blut ohne Schuld ohne Sünde ohne Verdammnis ohne Erlösung einfach still einfach leer einfach Nichts
+
+Ich denke:
+Die Erde hat mein Leben lang Blut vertragen genug Blut genug Leid genug Tod genug Schreie genug Tränen genug Flüche genug Gebete genug Hoffnung genug Verzweiflung genug Liebe genug Hass genug Leben genug Sterben
+
+Sie wird meins nicht bemerken mein kleines stilles namenloses bedeutungsloses unbemerktes unbeachtetes unbetrauertes unvergessenes? Nein vergessen werde auch ich werden auch wir werden auch diese Zeilen diese Briefe diese Geständnisse diese Abschiede dieses ganze verdammte Archiv meines Lebens meines Sterbens meines Überlebens meines Scheiterns meines Versagens meines Gelingens meines Bleibens meines Gehens meines Endes
+
+Schreib weiter habe ich Juvaini gesagt Schreib immer weiter egal ob du verstehst egal ob du glaubst egal ob du willst Hauptsache du schreibst Hauptsache etwas bleibt Hauptsache einer da ist einer liest einer trägt ins nächste Jahrhundert ins nächste Jahrtausend ins nächste Nichts Hauptsache etwas überlebt von uns allen von dir von mir von ihnen von allem was wir waren taten liebten hassten hofften fürchteten verrieten bewahrten begruben unter Steinen unter Staub unter Erde unter Vergessen unter Stille unter Nacht unter Schnee unter Regen unter Sonne unter Wind unter allem außer Papier außer Schrift außer Wort außer Satz außer Seite außer Buch außer Archiv außer Geschichte außer Wahrheit
+
+Ich höre jetzt auf Schwester Meine Stunde läuft ab Der Wächter kommt gleich nimmt Feder nimmt Papier nimmt Licht nimmt alles nimmt mich mit hinaus in den Hof wo Filz liegt bereit Pferde stehen bereit Männer warten bereit Erde wartet bereit Nichts wartet bereit für mich Fatima Tochter des Kopisten Genannt Schreiberin Genannt Zeugin Genannt Verräterin Genannt Hexe Genannt Verschwunden Genannt Vergessen Genannt Nichts
+
+Du bist tot seit 1221 Maschhad brannte unsere Werkstatt brannte unser Vater brannte unsere Mutter brannte unser Leben brannte unsere Zukunft brannte unsere Hoffnung brannte unser Alles brannte nieder lichterloh himmelhoch rauchschwarz aschgrau staubfein windverweht regennass sonnengetrocknet mondbeleuchtet sternüberglänzt himmelüberwölbt erdeunterlegt zeitüberdauert raumüberwölbt weltüberbrückt todüberlebt lebenüberstanden liebeüberstrahlt hassüberwunden angstüberwunden hoffnungüberlebt verzweiflungüberstanden einsamkeitüberbrückt gemeinschaftunterlegt wahrheithervorgebracht lügeentlarvt machtdurchschaut ohnmachtgelindert knechtschaftgebrochen freiheiterrungen todakzeptiert lebenverabschiedet friedengefunden ruhegewonnen stillergebnist stillergegeben stillergegangenstillerwordenstillerbleibendstillerseiendstillernichtsmehralsnichtsmehralsnichtsmehrals:
+
+Du bist tot und ich komme Es gibt viel zu erzählen
+
+---
+
+## 35. Drei Sätze auf der Karawanenstraße
+
+Der Händler kam am späten Vormittag, als die Karawane einen Fluss überquerte.
+
+Juvaini hatte die Furt bereits zur Hälfte durchquert, das Wasser reichte den Pferden bis zum Bauch, als der Mann neben ihm auftauchte – ein untersetzter Sogder mit einem Packpferd, das bis zum Rand mit Pelzen beladen war. Er ritt von Osten heran, von Karakorum kommend, und sein Gesicht trug die graue Erschöpfung eines Mannes, der zu lange unterwegs war.
+
+„Ihr seid vom Hof?“, fragte der Händler.
+
+Juvaini nickte. Das Wasser strömte kalt um seine Stiefel.
+
+„Dann habt Ihr vielleicht gehört. Von der Chorasanerin. Der Schreiberin der alten Regentin.“
+
+Juvainis Hand fand den Zügel fester.
+
+„Man sagt, sie ist tot“, fuhr der Händler fort. „Hingerichtet. Gestern oder vorgestern – die Zeit läuft anders in Karakorum.“ Er spuckte ins Wasser. „Man sagt, in Filz genäht und in den Fluss geworfen. Man sagt auch, sie haben sie vorher gefoltert, aber das sagen sie immer.“
+
+Drei Sätze.
+
+Der Händler zog an seinem Zügel und ritt weiter, weil er Zoll zahlen musste und einen Tee brauchte und weil die Nachricht für ihn nichts weiter war als eine Neuigkeit unter vielen – eine Geschichte für die nächste Herberge, ein Gesprächsstoff für den Abend.
+
+Juvaini ritt weiter durch die Furt.
+
+Das Wasser umspülte die Beine seines Pferdes, kalt, gleichmäßig, ohne Eile. Am anderen Ufer wartete Arghun Aqa mit zwei Schreibern und einer Liste von Abgaben, die in den nächsten drei Tagen eingetrieben werden mussten. Juvaini stieg ab, übergab die Zügel einem Diener und begann mit der Arbeit.
+
+Er verhandelte den Zoll für vierzig Ballen Seide.
+
+Er prüfte die Frachtpapiere eines armenischen Weinhändlers.
+
+Er notierte die Anzahl der Pferde in einer Herde, die nach Westen getrieben wurde – einhundertsiebenunddreißig Stück.
+
+Er tat all dies mit einer Präzision, die ihn selbst überraschte. Seine Hände zitterten nicht. Seine Stimme blieb ruhig. Er lächelte sogar einmal kurz auf, als ein Kaufmann aus Täbris einen Witz über Steuereintreiber machte.
+
+Der Körper wusste noch nichts.
+
+Der Körper funktionierte wie eine Maschine: Die Hand griff nach der Feder; der Mund öffnete sich zu Antworten; die Beine trugen ihn von einem Zelt zum nächsten; alles lief weiter wie immer – nur dass irgendwo tief drinnen ein Schalter umgelegt worden war und nichts mehr so sein würde wie zuvor.
+
+Die Sonne stand hoch über dem Lagerplatz am Nachmittag. Juvaini aß Brot und getrocknete Früchte mit Arghun Aqa und besprach die Route für den nächsten Tag: zwei Tagesmärsche bis zur nächsten befestigten Stadt; dort sollten neue Vorräte aufgenommen werden; dann weiter nach Westen; immer weiter nach Westen; weg von Karakorum; weg von allem; weg von ihr.
+
+Er kaute das Brot trocken herunter und schluckte es hinunter wie Steine.
+
+Arghun Aqa beobachtete ihn schweigend über den Rand seines Bechers hinweg. Der alte Mongole hatte gelernt zu warten – auf Geständnisse, auf Zusammenbrüche, auf den richtigen Moment für ein Wort oder das Schweigen danach. Er wartete jetzt auch: saß da im Staub des Lagerplatzes zwischen Lasttieren und Packkisten und ließ Juvaini allein mit dem Wissen in seinem Kopf.
+
+Es half nicht viel: Der Kopf wusste es seit dem Vormittag; aber erst am Abend begriff der Körper es wirklich.
+
+Die Dämmerung kam früh im Frühling 1248 – ein graues Licht über der weiten Ebene; keine Bäume weit und breit; nur Gras im Wind und ferne Berge im Norden wie eine Mauer aus Schatten. Die Karawane lagerte um drei Feuer herum: eins für die Wachen; eins für die Kaufleute; eins für Arghun Aqa und seine Schreiber.
+
+Juvaini saß abseits am dritten Feuer und starrte ins Leere während seine Hände das Notizbuch öffneten – jenes kleine Lederbuch mit den Gedichten darin: Verse über Liebe über Abschied über das Licht auf ihrem Gesicht an jenem letzten Abend im Durchgang zwischen zwei Gebäuden als sie ‚dich‘ sagte statt ‚Euch‘ als sie ihm drei Worte gab als sie ging als er blieb als alles begann was jetzt endete endgültig unwiderruflich ohne Wiederkehr ohne Gnade ohne Ende außer diesem einen Ende das er nicht schreiben konnte weil es keine Form dafür gab kein Versmaß keinen Reim kein Bild keine Metapher nichts außer drei Sätzen eines Händlers im Wasser einer Furt:
+
+Man sagt.
+In Filz.
+Im Fluss.
+
+Seine Hand hielt die Feder über dem Papier aber es kam nichts kein Wort kein Satz kein Anfang nur Leere nur Stille nur das ferne Geräusch des Windes im Gras draußen wo keine Bäume standen wo nichts stand außer dieser einen Wahrheit die er nicht fassen konnte:
+
+Für diesen Satz gab es kein Versmaß.
+
+Er schloss das Notizbuch langsam sorgfältig wie ein Mann der etwas begräbt das nie wieder ans Licht kommen sollte – legte es neben sich auf den Boden zwischen Kieselsteinen ausgerissenen Grashalmen Ascheresten eines Feuers das langsam verglomm während ringsum Männer lachten aßen tranken weitermachten weil sie nicht wussten was er wusste weil sie nicht verstehen konnten dass eine Frau gestorben war heute oder gestern oder vorgestern dass man sie in Filz genäht hatte dass man sie in den Fluss geworfen hatte dass man ihre Stimme ausgelöscht hatte für immer weil sie zu viel wusste weil Güyük Khan Angst vor ihr hatte weil Macht bedeutete andere zum Schweigen zu bringen bevor man selbst verstummte weil dies das Gesetz des Reiches war seit jeher seit Dschingis seit Ögedei seit immer:
+
+Töten.
+Schweigen.
+Weitermachen.
+
+Arghun Aqa setzte sich neben ihn ohne zu fragen ob er stören würde – einfach da sein altes Gesicht vom Feuer beleuchtet runzlig müde aber fest entschlossen weiterzumachen wie er es fünfzig Jahre lang getan hatte durch drei Khagane hindurch durch Bürgerkriege Kriege Hungersnöte Intrigen Aufstände alles überlebt indem er arbeitete indem er weitermachte indem er nie stehenblieb:
+
+„Du hast gehört was der Händler sagte?“
+
+Juvaini nickte ohne aufzusehen seine Finger strichen noch einmal über den Einband des Notizbuchs einmal zweimal dreimal dann hielt er inne legte beide Hände flach auf seine Knie atmete tief durch hob den Kopf sah Arghun Aqa an:
+
+„Ja.“
+
+„Dann weißt du Bescheid“, sagte Arghun Aqa knapp wie immer wenn etwas Wichtiges gesagt werden musste ohne Umschweife ohne Trost ohne falsche Hoffnung einfach Tatsache: „Sie ist tot du lebst wir arbeiten weiter so ist das so war es immer so wird es bleiben solange dieses Reich steht was ziemlich lange dauern wird wenn wir unseren Job machen also mach deinen Job morgen früh reiten wir weiter.“ Er schwieg kurz dann fügte er hinzu leiser fast beiläufig aber Juvaini hörte jedes einzelne Wort deutlich klar unauslöschlich: „Arbeite“ sagte Arghun Aqa „es ist das Einzige was sie dir nicht nehmen können was sie dir nie nehmen werden was bleibt wenn alles andere vergeht wenn alle anderen sterben wenn du selbst stirbst: Die Arbeit deine Arbeit was du tust was du schreibst was du hinterlässt wenn du gehst.“ Er stand auf klopfte Juvaini leicht auf die Schulter einmal kurz fest dann ging er zurück zum Feuer wo ein junger Schreiber ihm einen Becher Tee reichte wo jemand lachte wo jemand eine Geschichte erzählte vom letzten Frühling in Buchara wo alles gut gewesen war bevor es schlecht wurde bevor alles endete bevor nichts mehr blieb außer Arbeit Arbeit Arbeit bis zum Ende deiner Tage:
+
+Und Juvaini saß allein am ausgehenden Feuer hörte diesen Satz:
+Arbeite.
+Es ist das Einzige was sie dir nicht nehmen können:
+Die Arbeit.
+Dieser Satz würde ihn dreißig Jahre tragen durch Persien durch Bagdad durch Kriege Eroberungen Säuberungen Aufstände durch alles hindurch bis ans Ende seiner Tage:
+Dieser Satz würde ihn retten:
+Und dieser Satz würde ihn korrumpieren:
+Weil Arbeit bedeutete weiterzumachen als wäre nichts geschehen als wäre Fatima nie gewesen als hätte es diese Liebe nie gegeben als könnte man einfach weiterschreiben weitermachen weiterleben während andere starben während andere vergingen während andere zu Asche wurden zu Wasser wurden zu Nichts wurden:
+
+Aber genau darum ging es doch genau darum ging es immer:
+Überleben bedeutete vergessen:
+Überleben bedeutete weitermachen:
+Überleben bedeutete jeden Morgen aufwachen jeden Tag arbeiten jeden Abend einschlafen ohne sich zu fragen ob man dazu berechtigt war ob man es verdient hatte ob man leben durfte während andere starben:
+Überleben bedeutete schuldig sein:
+Und schuldig bleiben:
+Und diese Schuld tragen bis ans Ende deiner Tage als einzige Wahrheit deines Lebens:
+
+Juvaini öffnete das Notizbuch noch einmal blätterte zurück zu jener Seite wo Fatimas Brief an ihre tote Schwester lag jener Brief den er gelesen hatte damals in Karakorum vor zwei Jahren bevor alles begann bevor alles endete bevor nichts mehr blieb außer diesem einen Blatt Papier zwischen seinen Fingern unter seinen Augen vor seinem Herzen:
+
+Er las:
+_Ich habe Angst dass ich vergesse wer ich war bevor ich hierherkam._
+
+_Dass ich eines Morgens aufwache und nicht mehr weiß wie meine Schwester aussah wie ihre Stimme klang wie ihr Lachen roch._
+
+_Dass ich nur noch Funktionalität bin nur noch Nutzen nur noch Werkzeug:_
+
+_Eine Feder in fremder Hand:_
+
+_Und wenn ich schreibe dann schreibe ich gegen dieses Vergessen:_
+
+_Gegen meine eigene Auslöschung:_
+
+_Weil Worte bleiben wenn Menschen gehen:_
+
+_Weil Sätze überleben wenn Körper vergehen:_
+
+_Weil Liebe bestehen bleibt solange jemand da ist der sich erinnert:_
+_Der erzählt:_
+_Der weiterschreibt:_
+
+_Also schreibe ich:_
+
+_Für dich:_
+_Für mich:_
+_Für uns beide:_
+_Für alle die vergessen werden sollen_
+_damit dieses Reich bestehen kann:_
+_Ich schreibe:_
+_Ich zeuge:_
+_Ich bleibe:_
+
+_Bis nichts mehr bleibt_
+_außer dem was ich geschrieben habe_
+_was niemand lesen wird_
+_was niemand finden wird_
+_was niemand retten wird_
+_wenn ich gehe._
+
+_Bis dahin bleibe ich hier._
+_Bis dahin schreibe ich._
+_Bis dahin liebe ich._
+
+_In dieser Reihenfolge._
+_In dieser Ordnung._
+_In dieser Welt._
+
+_Fatima._
+
+Er las diesen Brief dreimal langsam sorgfältig jedes Wort abwägend jeden Satz prüfend jede Zeile auswendiglernend dann faltete er das Papier zusammen steckte es zurück ins Notizbuch legte beide Hände darüber schloss die Augen atmete tief durch sagte leise unhörbar für jeden außer sich selbst:
+
+„Ich werde weiterschreiben.
+Für dich.
+Für mich.
+Für uns beide.
+Für alle die vergessen werden sollen
+damit dieses Reich bestehen kann:
+Ich werde weiterschreiben.
+Ich werde zeugen.
+Ich werde bleiben.“
+
+Dann löschte er die Lampe legte sich hin starrte in die Dunkelheit lauschte dem Wind draußen im Gras fern fern fern wie eine Stimme aus einer anderen Welt aus einer anderen Zeit aus einem anderen Leben das jetzt endgültig vorbei war unwiderruflich unwiederbringlich verloren für immer:
+
+Am nächsten Morgen ritt Juvaini weiter nach Westen ohne zurückzublicken ohne stehenzubleiben ohne etwas anderes zu tun als seine Arbeit zu verrichten seinen Dienst zu tun seine Pflicht zu erfüllen genau wie Arghun Aqa es ihm geraten hatte genau wie Fatima es gewollt hätte genau wie alle Überlebenden dieses Reiches handelten seit jeher seit Dschingis seit Ögedei seit immer:
+
+Sie arbeiteten weiter:
+Sie lebten weiter:
+Sie vergaßen weiter:
+
+Bis eines Tages auch sie sterben würden still leise unspektakulär mitten in der Arbeit mitten im Satz mitten im Leben:
+
+So wie Fatima gestorben war heute oder gestern oder vorgestern:
+In Filz genäht:
+In den Fluss geworfen:
+Ohne Zeugen ohne Grab ohne Gebet:
+
+Nur drei Sätze eines Händlers im Wasser einer Furt:
+
+Man sagt.
+In Filz.
+Im Fluss.
+
+Und dann Stille:
+
+Die ganze lange Stille des restlichen Lebens:
+
+Die Karawane zog weiter nach Westen Richtung Persien Richtung Bagdad Richtung Zukunft Richtung Vergessen Richtung allem was kommen würde nach diesem Tod nach dieser Liebe nach diesem Ende aller Enden aller Anfänge aller Geschichten aller Chroniken aller Bücher aller Worte aller Menschen aller Zeiten aller Welten aller Götter aller Dämonen aller Engel aller Bestien all dessen was war all dessen was ist all dessen was sein wird wenn nichts mehr bleibt außer dem einen letzten Satz dem einzigen Satz dem ewigen Satz dem Satz den niemand je lesen wird weil niemand da sein wird um ihn zu lesen niemand da sein wird um ihn zu verstehen niemand da sein wird um ihn zu bewahren wenn alles vorbei ist wenn nichts mehr bleibt außer Wind außer Gras außer Stille außer endloser endloser endloser Stille unter einem grauen Himmel über einer weiten Ebene fern fern fern von allem was jemals wichtig war von allem was jemals zählte von allem was jemals Liebe hieß zwischen zwei Menschen zwischen zwei Herzen zwischen zwei Seelen zwischen zwei Schreibern zwischen zwei Federn zwischen zwei Worten zwischen zwei Welten zwischen zwei Leben jetzt tot jetzt fort jetzt verschwunden unwiederbringlich unwiderruflich verloren verloren verloren für immer amen amen amen so sei es so soll es sein so muss es sein so bleibt es ewiglich amen amen amen amen
+
+Amen
+
+Die Karawane zog weiter nach Westen
+
+Und Juvaini ritt
+
+Und schwieg
+
+Und arbeitete
+
+Drei Jahrzehnte lang
+
+Bis ans Ende seiner Tage
+
+Als Chronist des Reiches
+
+Als Überlebender seiner Liebe
+
+Als toter Mann unter Lebenden
+
+Der jeden Morgen aufstand
+
+Jeden Tag weiterschrieb
+
+Jeden Abend einschlief
+
+Ohne je wieder ein Gedicht geschrieben zu haben
+
+---
+
+## 36. Eingenäht
+
+Die Kälte war in diesem Jahr früher gekommen. Sie kroch aus der Steppe herein, über die Mauern Karakorums, durch die Ritzen der Läden, unter den Türen hindurch, und sie blieb. Shigi Qutuqu saß in seiner Kanzlei, die Hände um einen Becher mit ungebrühtem Tee gelegt, und wartete auf den Boten, den er nicht erwartet hatte.
+
+Es war die fünfte Stunde nach Sonnenaufgang, als die Wache klopfte. Nicht der übliche Diener, nicht der Schreiber mit den Morgenakten. Ein junger Mann in der Uniform des Westtors, der eine Ledertasche trug, die er nicht ablegen wollte.
+
+„Herr Richter."
+
+Shigi sah auf. Die Stimme war zu jung, zu eilig. Er nickte, und der Wächter trat ein, die Tasche wie einen Leichnam vor sich hertragend.
+
+„Ein Händler aus dem Westen hat es gebracht. Er sagte, es sei für Sie persönlich. Er sagte, die Absenderin sei tot."
+
+Shigi nahm die Tasche. Sie war leicht, viel zu leicht für das, was sie enthielt. Er schnitt die Schnur mit dem Messer, das er immer bei sich trug, dem alten, abgenutzten, das Dschingis Khan ihm gegeben hatte, in einem anderen Leben, in einem anderen Reich.
+
+Der Umschlag war aus dickem, gelbem Papier, das er kannte. Die Handschrift darauf war schmal, präzise, die Buchstaben wie eingebrannt in die Faser: *Für den Richter. Persönlich. Nicht zu öffnen vor dem siebten Tag nach Erhalt.*
+
+Shigi erkannte die Handschrift sofort, und er verstand, was die Worte bedeuteten. Nicht zu öffnen vor dem siebten Tag. Sieben Tage. So lange hatte Fatima gebraucht, um zu sterben, nachdem er das Siegel gesetzt hatte. So lange hatte sie gelebt, hatte sie geschrieben, hatte sie gewusst, dass er ihr Urteil gesiegelt hatte, und hatte ihm dennoch diesen Brief geschrieben, hatte ihm dennoch dieses eine letzte Wort hinterlassen, das er nicht lesen sollte, nicht vor dem siebten Tag, nicht vor dem Ende, das sie bereits gekannt hatte, als sie die Feder ansetzte.
+
+Er entließ den Wächter. Er setzte sich wieder. Er legte den Umschlag vor sich auf den Tisch, zwischen den Becher mit dem kalten Tee und das offene Buch der Urteile, das er nie mehr schließen würde, weil er wusste, dass jede Seite, die er umschlug, eine weitere Tote war, eine weitere Stimme, die er zum Schweigen gebracht hatte, ein weiteres Leben, das er mit seinem Siegel zugedeckt hatte wie ein Grab, das niemand öffnen durfte, weil er selbst der Totengräber war, der Wächter, der Henker in einem.
+
+Er hielt den Umschlag gegen das Licht.
+
+Die Faser war dicht, aber nicht undurchsichtig. Er sah die Schatten der Buchstaben, die Linien, die Wörter, die darauf warteten, gelesen zu werden, die darauf warteten, ihn zu verändern, ihn zu wissen, ihn zu dem zu machen, der sie kannte, der sie trug, der sie nicht mehr ablegen konnte, weil Wissen nicht ablegbar war, weil Wahrheit nicht vergessbar war, weil einmal gelesen für immer gelesen blieb, in den Knochen, in den Gedanken, in den Träumen, die nie mehr aufhören würden zu kommen.
+
+Der Beruf drängte. Lesen. Prüfen. Wissen. Das war, was er tat, seit er denken konnte, seit er als Kind in den Ruinen des Tatarenlagers gefunden worden war, seit Hö'elün ihn aufgezogen hatte, seit Dschingis Khan gesagt hatte: „Dieser Junge wird Richter sein, weil er die Wahrheit erkennt, wenn er sie sieht." Er hatte die Wahrheit erkannt. Er hatte sie gesehen. Er hatte sie gesiegelt. Er hatte sie getötet.
+
+Und jetzt hielt er ihre letzte Wahrheit in den Händen, die letzte Seite, die sie geschrieben hatte, die letzte Stimme, die sie erhoben hatte, bevor sie für immer verstummte, und er wusste, dass er sie nicht lesen durfte, weil er bereits bewiesen hatte, dass er Geheimnisse nicht tragen konnte, ohne Menschen zu töten, dass er Wissen nicht besitzen konnte, ohne es zu missbrauchen, dass er der Hüter des Gesetzes war, aber nicht der Hüter der Wahrheit, weil die Wahrheit etwas war, das man nicht hüten, sondern nur bewahren konnte, indem man sie nicht besaß, indem man sie nicht berührte, indem man sie nicht in sich hineinließ, weil sie sonst zu einem Teil von einem wurde, zu einem Teil des Urteils, zu einem Teil des Todes, den man selbst verschuldet hatte.
+
+Er legte den Umschlag nieder. Seine Finger zitterten nicht. Sie waren ruhig, alt, geübt im Halten von Papieren, die Leben bedeuteten, die Tod bedeuteten, die alles bedeuteten, was zwischen den Zeilen stand, und nichts, was auf ihnen geschrieben war.
+
+„Ich habe ihr Urteil gesiegelt", sagte er leise, zu niemandem, zu dem leeren Raum, zu dem kalten Tee, zu dem offenen Buch, das ihn ansah wie ein stummer Zeuge, der alles gesehen hatte und nichts sagen würde. „Ich darf ihre Wahrheit nicht lesen. Das eine gebührt dem Henker nicht."
+
+Er stand auf.
+
+Das Bündel lag in der Ecke, wo er es vor Wochen abgelegt hatte, zwischen den toten Akten, zwischen den Urteilen, die niemand mehr anfechten würde, weil die Verurteilten längst tot waren, weil die Kläger längst vergessen waren, weil der Prozess längst geschlossen war, weil es keinen gab, der ihn wieder öffnen konnte, außer ihm, und er würde es nicht tun, er durfte es nicht tun, er konnte es nicht tun, weil er wusste, dass er das Bündel nur öffnen musste, um alles zu verlieren, was er noch hatte, seine Würde, sein Gesetz, sein Schweigen, das einzige, was ihm geblieben war, nachdem er alles andere geopfert hatte, seine Überzeugung, seine Gerechtigkeit, sein Herz, das er längst aufgegeben hatte, das er längst verloren hatte, das er längst begraben hatte unter den Akten, unter den Siegeln, unter den Urteilen, die er gefällt hatte, ohne zu fragen, ohne zu zögern, ohne zu denken.
+
+Er hob das Bündel auf. Es war schwerer als erwartet, schwerer als das, was er hineingelegt hatte, schwerer als das, was er darin versteckt hatte, schwerer als das, was er darin bewahren wollte, für immer, für die Ewigkeit, für die Zeit, die kommen würde, wenn er längst tot war, wenn die Akten vergilbt waren, wenn das Reich zerfallen war, wenn niemand mehr wusste, wer Fatima war, wer Shigi Qutuqu war, wer sie alle gewesen waren, in diesem einen Jahrzehnt, in dem Frauen das Weltreich gelenkt hatten, in dem die Wahrheit geschrieben worden war, in dem sie gestorben war, in dem sie begraben worden war, unter Filz, unter Papier, unter der Stille, die alles bedeckt, die alles verbirgt, die alles vergessen lässt.
+
+Er nahm den Umschlag. Er legte ihn auf das Bündel. Er sah die beiden an, das Siegel, das er nicht gebrochen hatte, das Bündel, das er nicht geöffnet hatte, und er wusste, dass er beides zusammennähen musste, dass er sie verbinden musste, dass er sie einschließen musste, für immer, in den Filz, in das Schweigen, in das Grab, das er selbst für sie errichtet hatte, mit eigener Hand, eigenem Faden, eigener Nadel, die er von der Wand nahm, wo sie seit Jahren hing, unbenutzt, unberührt, ein Relikt aus einer Zeit, als er noch genäht hatte, als er noch geflickt hatte, als er noch etwas reparieren konnte, bevor es zu spät war, bevor er selbst zu spät war, bevor er selbst zu alt war, um noch etwas zu ändern, um noch etwas zu retten, um noch etwas zu bewahren, außer dem, was er jetzt tat, in diesem einen Augenblick, in dieser einen Stunde, in diesem einen Tag, der alles verändern würde, der nichts verändern würde, der genau das bewahren würde, was bewahrt werden musste, und nichts anderes.
+
+Er nahm die Nadel. Er nahm den Faden. Er setzte sich an den Tisch, das Bündel vor sich, den Umschlag darauf, und begann zu nähen, langsam, sorgfältig, jede Naht ein Versprechen, jede Naht ein Siegel, jede Naht ein Urteil, das er über sich selbst fällte, über seine eigene Schuld, über seine eigene Feigheit, über seine eigene Liebe, die er nicht zeigen konnte, die er nicht aussprechen konnte, die er nur in dieser einen Geste ausdrücken konnte, in diesem einen Akt der Bewahrung, der Verweigerung, des Schweigens, das lauter sprach als jedes Wort, das er je gesagt hatte, lauter als jedes Urteil, das er je gefällt hatte, lauter als jedes Gesetz, das er je verteidigt hatte.
+
+Die Nadel stach durch den Filz. Sie war alt, rostig, aber sie hielt. Sie zog den Faden nach, einen dicken, schwarzen Faden, der sich durch das Gewebe fraß wie eine Spur, die nicht mehr zu tilgen war, wie eine Narbe, die nicht mehr verheilte, wie ein Name, der nicht mehr vergessen werden konnte, weil er eingeschrieben war in das Fleisch des Bündels, in das Fleisch der Wahrheit, die darin schlief, die darin wartete, die darin lebte, auch wenn niemand sie las, auch wenn niemand sie kannte, auch wenn niemand sie je erfahren würde, außer dem, der sie geschrieben hatte, und dem, der sie bewahrte, ohne sie zu kennen, ohne sie zu besitzen, ohne sie zu verstehen, weil es nicht nötig war, sie zu verstehen, weil es nur nötig war, sie zu bewahren, zu schützen, zu verstecken, vor den Mächtigen, vor den Gierigen, vor den Bösen, die alles zerstörten, was sie nicht kontrollieren konnten, was sie nicht besitzen konnten, was sie nicht in ihre Hände bekommen konnten, um es zu verbrennen, um es zu vernichten, um es auszulöschen, wie sie Fatima ausgelöscht hatten, wie sie die Wahrheit ausgelöscht hatten, wie sie alles ausgelöscht hatten, was nicht in ihr Bild passte, was nicht in ihre Welt passte, was nicht in ihre Herrschaft passte, die auf Lügen gebaut war, auf Verrat, auf Tod, auf dem Blut derer, die zu viel wussten, die zu viel sagten, die zu viel schrieben, weil sie nicht anders konnten, weil sie nicht anders durften, weil sie nicht anders wollten, weil die Wahrheit stärker war als die Angst, stärker als der Tod, stärker als alles, was die Mächtigen ihr entgegenwerfen konnten, um sie zu ersticken, um sie zu begraben, um sie zu vergessen.
+
+Shigi nähte weiter.
+
+Jede Naht war ein Abschied. Jede Naht war ein Bekenntnis. Jede Naht war ein Versprechen, das er nie würde halten können, weil er wusste, dass er selbst derjenige war, der das Versprechen brechen würde, wenn er je in die Versuchung käme, das Bündel zu öffnen, wenn er je in die Versuchung käme, den Brief zu lesen, wenn er je in die Versuchung käme, die Wahrheit zu besitzen, die er nicht besitzen durfte, die er nicht besitzen konnte, die er nicht besitzen wollte, weil er wusste, dass Besitz Wissen bedeutete, und Wissen Macht bedeutete, und Macht bedeutete, dass er genau das werden würde, was er nicht werden wollte, was er nicht werden durfte, was er nicht werden konnte, weil er bereits zu alt war, zu müde, zu leer, um noch etwas zu wollen, außer dem Ende, das kommen würde, wenn alles vorbei war, wenn nichts mehr blieb, außer dem, was er jetzt tat, in dieser einen Stunde, in diesem einen Augenblick, der alles bedeutete, der nichts bedeutete, der genau das bedeutete, was er bedeuten sollte, und nichts anderes.
+
+Er zog den letzten Stich. Er knotete den Faden. Er schnitt ihn ab, mit dem Messer, das Dschingis Khan ihm gegeben hatte, und er fühlte, wie das Bündel schwer wurde, schwerer als zuvor, schwerer als alles, was er je getragen hatte, schwerer als das Gesetz, schwerer als das Urteil, schwerer als die Schuld, die er trug, seit er das Siegel gesetzt hatte, schwerer als die Liebe, die er nie gezeigt hatte, schwerer als die Wahrheit, die er nie lesen würde, weil er sie nicht lesen durfte, weil er sie nicht lesen konnte, weil er sie nicht lesen wollte, weil er wusste, dass er sie nur lesen müsste, um alles zu verlieren, was er noch hatte, seine Würde, sein Gesetz, sein Schweigen, das einzige, was ihm geblieben war, nachdem er alles andere geopfert hatte, seine Überzeugung, seine Gerechtigkeit, sein Herz, das er längst aufgegeben hatte, das er längst verloren hatte, das er längst begraben hatte unter den Akten, unter den Siegeln, unter den Urteilen, die er gefällt hatte, ohne zu fragen, ohne zu zögern, ohne zu denken.
+
+Er legte das Bündel zurück in die Ecke, zwischen die toten Akten, zwischen die Urteile, die niemand mehr anfechten würde, weil die Verurteilten längst tot waren, weil die Kläger längst vergessen waren, weil der Prozess längst geschlossen war, weil es keinen gab, der ihn wieder öffnen konnte, außer ihm, und er würde es nicht tun, er durfte es nicht tun, er konnte es nicht tun, weil er wusste, dass er das Bündel nur öffnen müsste, um alles zu verlieren, was er noch hatte, seine Würde, sein Gesetz, sein Schweigen, das einzige, was ihm geblieben war, nachdem er alles andere geopfert hatte, seine Überzeugung, seine Gerechtigkeit, sein Herz, das er längst aufgegeben hatte, das er längst verloren hatte, das er längst begraben hatte unter den Akten, unter den Siegeln, unter den Urteilen, die er gefällt hatte, ohne zu fragen, ohne zu zögern, ohne zu denken.
+
+Er stand auf. Er ging zur Tür. Er öffnete sie. Die Kälte schlug ihm entgegen, die Kälte der Steppe, die Kälte des Winters, die Kälte des Todes, der draußen wartete, auf den Straßen, auf den Feldern, auf den Schlachtfeldern, wo die Khane sich sammelten, um gegen Batu zu ziehen, um den Krieg zu beginnen, der alles beenden würde, was noch nicht beendet war, der alles zerstören würde, was noch nicht zerstört war, der alles töten würde, was noch nicht tot war.
+
+Er sah die Reiter. Sie zogen aus, Hunderte, Tausende, in langen Kolonnen, die sich durch die Tore schoben, durch die Gassen, durch die Steppe, unter dem grauen Himmel, der keine Sonne kannte, der keine Wärme kannte, der keine Gnade kannte, weil der Krieg keine Gnade kannte, weil die Macht keine Gnade kannte, weil die Khane keine Gnade kannten, weil sie nie Gnade gelernt hatten, weil sie nie gelernt hatten, dass es etwas gab, das mehr wert war als der Sieg, mehr wert als das Land, mehr wert als das Blut, das sie vergossen, um zu herrschen, um zu regieren, um zu besiegen, was immer sich ihnen in den Weg stellte, wer immer sich ihnen in den Weg stellte, sei es ein Volk, sei es ein Prinz, sei es die Wahrheit selbst, die sie längst getötet hatten, die sie längst begraben hatten, die sie längst vergessen hatten, weil sie nicht wussten, dass sie sie nie besitzen würden, dass sie sie nie kontrollieren würden, dass sie sie nie zerstören würden, weil die Wahrheit stärker war als der Tod, stärker als der Krieg, stärker als alles, was die Mächtigen ihr entgegenwerfen konnten, um sie zu ersticken, um sie zu begraben, um sie zu vergessen.
+
+Shigi Qutuqu stand in der Tür seiner Kanzlei und sah den Reitern nach. Er sah die Banner, die im Wind flatterten, die Pferde, die schnaubten, die Männer, die lachten, die Frauen, die weinten, die Kinder, die schrien, die Hunde, die bellten, die Händler, die ihre Waren anpriesen, die Bettler, die ihre Hände ausstreckten, die Priester, die ihre Gebete murmeln, die Toten, die unter der Erde lagen, die Lebenden, die über sie hinwegritten, die Zukunft, die in der Ferne wartete, die Vergangenheit, die in seinem Rücken lag, das Bündel, das er genäht hatte, das Bündel, das er bewahrt hatte, das Bündel, das er nie öffnen würde, weil er wusste, dass er es nur öffnen müsste, um alles zu verlieren, was er noch hatte, seine Würde, sein Gesetz, sein Schweigen, das einzige, was ihm geblieben war, nachdem er alles andere geopfert hatte, seine Überzeugung, seine Gerechtigkeit, sein Herz, das er längst aufgegeben hatte, das er längst verloren hatte, das er längst begraben hatte unter den Akten, unter den Siegeln, unter den Urteilen, die er gefällt hatte, ohne zu fragen, ohne zu zögern, ohne zu denken.
+
+„Die Khane ziehen aus", sagte er leise, zu den Reitern, zu den Bannern, zu dem Krieg, der kommen würde, der alles beenden würde, was noch nicht beendet war, der alles zerstören würde, was noch nicht zerstört war, der alles töten würde, was noch nicht tot war. „Sie ziehen aus, um die Wahrheit zu beerdigen. Sie wissen nicht, dass sie schon bestattet ist. Bei einem Richter, der nicht mehr richten will."
+
+Er trat zurück in die Kanzlei. Er schloss die Tür. Die Kälte blieb draußen, der Krieg blieb draußen, die Welt blieb draußen, und er blieb drinnen, allein, mit dem Bündel, mit den toten Akten, mit dem Schweigen, das er selbst gewählt hatte, das er selbst genäht hatte, das er selbst bewahren würde, bis zum Ende, bis zu dem Tag, an dem er selbst sterben würde, an dem er selbst gehen würde, an dem er selbst nichts mehr sein würde, außer einem Namen, einem Datum, einem Siegel, und einem durchgestrichenen Satz, den nie jemand lesen würde, der die einzige Wahrheit des Reiches tötete, weil das Gesetz es verlangte, weil der Richter es tat, weil der Feigling es zuließ, weil der alte Mann es überlebte, wie er immer überlebt hatte, indem er andere sterben ließ, indem er die Wahrheit begrub, indem er die Akte schloss, indem er die Lampe löschte, indem er sich in die Dunkelheit zurückzog, aus der er gekommen war, in die er zurückkehren würde, wenn alles vorbei war, wenn nichts mehr blieb, außer Papier, außer Worten, außer ihr, außer ihm, außer uns allen, die wir weiterschreiben müssen, weil wir nicht anders können, weil wir nicht anders dürfen, weil wir nicht anders wollen, obwohl wir wissen, dass wir anders sollten, dass wir anders müssten, dass wir anders könnten, wenn wir nur anders wären, wenn wir nur Mut genug hätten, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von uns verlangt, wenn sie uns ansieht, wenn sie uns erkennt, wenn sie uns durchschaut, in diesem einen Augenblick vor dem Ende, in dem alles klar wird, kristallklar, unerträglich klar, klar wie der Tod, klar wie das Leben, das sie hinter sich lässt, das sie uns hinterlässt, das sie uns schenkt, weil es ihre einzige Gabe ist, die letzte, die einzige, die zählt, in diesem einen Augenblick vor dem Ende, wenn nichts mehr bleibt außer dem, was wir tun, was wir nicht tun, was wir sein könnten, wenn wir nicht wären, was wir sind.
+
+Shigi Qutuqu saß allein im Dunkeln.
+
+Und das Bündel lag in der Ecke, zwischen den toten Akten, und wartete.
+
+---
+
+## 37. Der tote Khan (II)
+
+Der Frühling kam früh in jenem Jahr, zu früh, als hätte die Steppe selbst keine Geduld mehr für das Warten. Shigi Qutuqu ritt westwärts im Stab des Khans, zwischen Bannern, die im Wind knatterten wie nasse Haut, zwischen Männern, die schwiegen, weil jeder Satz ein Verrat sein konnte, zwischen Pferden, die den Boden rochen und unruhig wurden, als ahnten sie, wohin dieser Zug führte.
+
+Güyük wollte Batu.
+
+Das war kein Geheimnis. Es war das einzige Gerücht, das nicht mehr Gerücht war, sondern Tatsache, die sich als Gerücht verkleidete, weil niemand den Mut hatte, sie laut auszusprechen. In jedem Nachtlager dieselbe Karte desselben Satzes: Der Khan marschiert zur Inspektion der westlichen Grenzen. Die Inspektion. Als hätte Güyük Khan jemals etwas inspiziert, das er nicht anschließend zerstören wollte.
+
+Shigi ritt und schwieg.
+
+Er beobachtete den Khan von weitem, wie man einen Sturm beobachtet, der sich am Horizont aufbaut: mit professioneller Distanz und der stillen Gewissheit, dass man ihm nicht entkommt. Güyük saß auf seinem Pferd wie ein Mann, der gegen etwas ankämpft, das er nicht sehen kann – die Schultern zu hoch, der Kiefer zu fest, die Augen auf einen Punkt gerichtet, der jenseits des Horizonts lag. Er trank viel. Er aß wenig. Er ließ die Ärzte nicht näher als zehn Schritte an sich heran, und wenn sie sprachen, sah er durch sie hindurch, als wären sie Luft.
+
+Das Lager zog sich wie eine Wunde durch die Steppe.
+
+Shigi hatte diese Art von Zug schon früher gesehen, in anderen Zeiten, unter anderen Bannern. Er kannte den Geruch: Pferdescheiße und Lagerfeuerrauch, Leder und Schweiß, und darunter, kaum wahrnehmbar, das Scharfe, Metallische, das kein Geruch war und doch eines, das Gerücht nach Krieg, das sich in die Kleidung fraß und nicht mehr herausging. Er kannte auch das Schweigen der Männer, die wussten, dass ihr Anführer sie in etwas führte, aus dem sie vielleicht nicht zurückkehrten.
+
+Und er kannte die Boten.
+
+Sorkaktanis Bote war drei Tage nach dem Aufbruch erschienen, ein kleiner Mann auf einem großen Pferd, der nichts sagte und alles bedeutete. Er hatte Güyük nicht gesprochen. Er hatte niemanden gesprochen. Er hatte seinen Brief abgegeben und war verschwunden, zurück nach Westen oder Osten oder irgendwohin, wo Männer wie er verschwanden, wenn ihre Aufgabe erfüllt war. Shigi hatte das Kommen und Gehen des Boten beobachtet mit der Aufmerksamkeit eines Mannes, der gelernt hatte, dass die unbedeutenden Bewegungen am Rande eines Hofes mehr bedeuteten als die großen Gesten in seiner Mitte.
+
+Batu weiß Bescheid.
+
+Das war der Satz, der von Lager zu Lager wanderte, jede Nacht ein bisschen lauter, ein bisschen sicherer. Batu weiß Bescheid. Batu hat gewarnt. Batu hat sich zurückgezogen. Batu wartet. Und in diesen vier Worten, die immer dieselben waren und immer anders klangen, lag die eigentliche Karte des Krieges: eine Witwe hatte einen Boten geschickt, und der Krieg war bereits entschieden, bevor er erklärt worden war.
+
+Shigi notierte das nicht. Er trug es im Kopf, wie er so vieles trug, das zu gefährlich war für Papier.
+
+Güyük starb am siebenundzwanzigsten Tag des Marsches.
+
+Es gab kein Drama. Das war das Erste, was Shigi dachte, als die Unruhe durch das Lager lief, dieser gedämpfte, eilige Lärm, der kein Lärm war und doch alles veränderte: kein Drama. Kein Schlachtfeld, kein Feind, kein letzter Kampf. Ein Lager, eine Nacht, eine Unruhe, und dann die offizielle Sprachregelung, die sich wie Wasser durch jeden Riss in einem Damm drückt, bis sie alles gefüllt hat: Der Khan ist erkrankt. Der Khan ruht. Der Khan ist gegangen.
+
+Shigi kannte diese Maschine.
+
+Er hatte sie schon einmal anlaufen sehen, in einer anderen Nacht, in einem anderen Zelt, mit einem anderen toten Khan. Er kannte das Geräusch der Maschine, das kein Geräusch war: das Schweigen, das sich ausbreitete, das Zögern der Wachen, die plötzlich niemanden mehr durchließen, das Verschwinden der Ärzte, die sich in ihre Zelte zurückzogen wie Männer, die etwas wissen, das sie nicht wissen wollen.
+
+Diesmal ließ er sich Zeit.
+
+Das war seine kleine Rache. Nicht an Güyük, der nichts mehr fühlte, und nicht an dem Hof, der ihn nicht kannte. An dem Handwerk. An der Maschine, die er selbst bedient hatte, sieben Jahre zuvor, in der Morgendämmerung nach Ögedeis Tod, als er in drei Minuten eine Lüge beglaubigt hatte, weil Töregene ihn bat und weil es einfacher war als die Wahrheit.
+
+Er ließ sich Zeit.
+
+Er fragte nach dem Leibarzt. Der Leibarzt war beschäftigt. Er fragte nach dem zweiten Arzt. Der zweite Arzt war nicht auffindbar. Er fragte nach dem dritten Arzt, einem kleinen Mann aus Samarkand, der zitterte, als Shigi ihn fand, und der drei verschiedene Antworten auf dieselbe Frage gab: zuerst, der Khan sei an Erschöpfung gestorben; dann, der Khan habe seit Wochen an einem Fieber gelitten; dann, er habe den Khan in der letzten Nacht nicht mehr gesehen.
+
+Shigi notierte alle drei Antworten.
+
+Er notierte auch, dass der Leibarzt, als er ihn schließlich fand, frisch gewaschen war, obwohl es Nacht war und kalt. Er notierte, dass die Wachen des Zeltes gewechselt worden waren, bevor die offizielle Meldung ausgegangen war. Er notierte das Fehlen von Güyüks persönlichem Schreiber, der sich nicht im Lager befand, obwohl er sich immer im Lager befand. Er notierte die Menge des Weines, die in der letzten Nacht angeliefert worden war, und die Tatsache, dass die Lieferung aus dem Westen gekommen war, von einer Karawane, deren Ursprung niemand kannte.
+
+Er notierte alles.
+
+Und dann schrieb er die offizielle Version.
+
+Es war eine ausführliche Lüge. Das war der Unterschied zu Ögedei. Bei Ögedei hatte er in drei Sätzen gelogen, knapp, präzise, wie ein Urteil. Diesmal schrieb er vier Seiten. Er beschrieb Güyüks Erschöpfung mit medizinischer Genauigkeit, die er nicht besaß. Er zitierte die Ärzte, deren Aussagen er sorgfältig zu einer einzigen, kohärenten Version zusammengeführt hatte, die keiner von ihnen gegeben hatte. Er verwendete Begriffe aus der chinesischen Medizin und aus der persischen Heilkunde und aus der mongolischen Tradition, und das Ergebnis war ein Dokument, das so gelehrt klang und so präzise, dass es unmöglich war, es anzuzweifeln, ohne selbst als unwissend dazustehen.
+
+Ausführlich lügen. Das war seine Rache.
+
+Nicht die schnelle Minute, nicht die drei Sätze, nicht das Siegel auf einer leeren Seite. Diesmal die ganze Maschinerie. Diesmal die Lüge als Kunstwerk, als Beweis seiner eigenen Komplizenschaft, als Denkmal für das Handwerk, das er hasste und das er nicht aufgeben konnte, weil es das einzige war, das er besaß.
+
+Er siegelte das Dokument und gab es weiter.
+
+Die Nacht war kalt. Der Himmel über der Steppe war klar und schwarz, ohne Wolken, ohne Sturm, ohne die Zeichen, die die Schamanen in solchen Nächten sahen. Shigi stand vor seinem Zelt und rauchte und dachte an Ögedei, der in einer ähnlichen Nacht gestorben war, sieben Jahre zuvor, und an Töregene, die den goldenen Becher in einer Truhe versteckt hatte, und an Fatima, die alles gesehen und nichts gesagt hatte, bis sie alles aufgeschrieben hatte, und an das Bündel, das in seiner Kanzlei in Karakorum lag, zwischen den toten Akten, eingenäht in Filz.
+
+Der Khan, der alle Versionen kontrollieren wollte, hinterlässt keine einzige geschriebene.
+
+Der Gedanke kam ohne Warnung, klar und kalt wie das Wasser eines Winterflusses. Shigi hielt inne. Er dachte den Satz noch einmal, langsam, als prüfte er ein Dokument auf Fehler: Güyük hatte Fatima hingerichtet, weil sie schrieb. Er hatte Chinqai hingerichtet, weil er zu viel wusste. Er hatte die Kanzleien durchsuchen lassen, die Chroniken konfisziert, die Schreiber verhört. Er hatte das Bild seiner eigenen Herrschaft kontrollieren wollen mit einer Sorgfalt, die an Besessenheit grenzte.
+
+Und nun war er tot, und die einzige Version seines Todes, die existierte, war Shigis.
+
+Außer meiner.
+
+Das war der Spiegelsatz. Shigi erkannte ihn als solchen. Ögedei hatte eine Frau gehabt, die alles gesehen hatte, und eine Regentin, die alles versteckt hatte, und einen Richter, der alles beglaubigt hatte. Güyük hatte nur den Richter. Nur Shigi. Und Shigi hatte vier Seiten ausführlicher Lüge geschrieben, die so präzise und so gelehrt klangen, dass niemand sie je anzweifeln würde.
+
+Zum ersten Mal im Leben eines Chronisten besaß er die ganze Wahrheit eines Todes.
+
+Er wusste, was die Ärzte gesagt hatten und was sie nicht gesagt hatten. Er wusste, woher der Wein gekommen war. Er wusste, dass Sorkaktanis Bote drei Tage vor Güyüks Tod erschienen war. Er wusste, dass der Leibarzt frisch gewaschen war, als er ihn fand. Er wusste, dass die Wachen gewechselt worden waren. Er wusste alles, was man wissen konnte, ohne in dem Zelt gewesen zu sein, und manches, was man nur wissen konnte, wenn man die Muster kannte, die sich wiederholten, wenn Khane starben.
+
+Und diese Wahrheit war wertlos.
+
+Nicht weil niemand sie hören wollte. Nicht weil sie gefährlich war. Sondern weil sie nichts änderte. Güyük war tot. Fatima war tot. Töregene war tot. Ögedei war tot. Die Toten häuften sich wie Schnee im Winter, und die Wahrheit über jeden einzelnen von ihnen lag irgendwo begraben, in Filz eingenäht oder in ausführlichen Lügen versteckt oder in den Erinnerungen von Männern, die bald selbst sterben würden, und was blieb, war das Dokument, das Siegel, die offizielle Version, die ausführliche Lüge, die er selbst geschrieben hatte.
+
+Er warf den Rest seiner Pfeife in den Staub.
+
+Die Rückführung des Leichnams begann zwei Tage später. Shigi ritt im Konvoi, hinter dem Wagen, auf dem Güyük lag, eingewickelt in Filz und Seide, umgeben von Wachen, die niemanden nahe heranließen. Der Zug bewegte sich langsam, mit der schweren Würde erzwungener Trauer, und die Steppe öffnete sich vor ihnen und schloss sich hinter ihnen, gleichgültig und endlos.
+
+Shigi dachte an die andere Rückführung.
+
+Ögedei, sieben Jahre zuvor. Derselbe Wagen, dieselbe Steppe, dieselbe erzwungene Würde. Er hatte damals am Rand des Konvois geritten und in sein privates Buch geschrieben, heimlich, mit kleinen Buchstaben, die niemand lesen konnte, wenn er nicht genau wusste, wo er hinschauen musste. Er hatte die Widersprüche notiert, die Abwesenheit der Ärzte, den verschwundenen Diener, den goldenen Becher, den Töregene weggeschlossen hatte.
+
+Diesmal schrieb er nichts.
+
+Er hatte alles, was er wissen konnte, bereits in das offizielle Dokument eingearbeitet, verborgen in der Präzision der Lüge, unsichtbar für jeden, der nicht wusste, wie man zwischen den Zeilen las. Das war seine Methode geworden: die Wahrheit nicht zu verstecken, sondern sie in die Lüge einzuarbeiten, so sorgfältig, so gründlich, dass sie nur für den sichtbar war, der bereits wusste, was er suchte.
+
+Für niemanden, also.
+
+Die Steppe war braun und grau und weit, und der Himmel darüber war blau und kalt, und der Leichnam auf dem Wagen schaukelte im Takt der Räder, und Shigi ritt und schwieg und dachte an Fatima, die in Filz eingenäht in einem Fluss lag, und an Güyük, der in Filz eingenäht auf einem Wagen lag, und an die Symmetrie dieser beiden Tode, die nichts bedeutete und doch alles bedeutete, die zufällig war und doch nicht zufällig war, die die Struktur einer Geschichte hatte, die niemand geschrieben hatte und die doch geschrieben worden war.
+
+Er weiß nicht, dass sie schon bestattet ist.
+
+Der Gedanke kam und ging. Shigi ließ ihn gehen.
+
+Karakorum empfing den Konvoi mit der gedämpften Würde einer Stadt, die gelernt hatte, Tote zu empfangen. Die Tore standen offen. Die Straßen waren leer, nicht aus Trauer, sondern aus Vorsicht: Niemand wollte als Erster gesehen werden, der zu viel oder zu wenig Schmerz zeigte. Die Fahnen hingen auf halbmast, und die Schamanen standen am Tor und sprachen ihre Formeln, und die Menge schwieg mit dem Schweigen von Menschen, die auf etwas warten, das sie noch nicht benennen können.
+
+Shigi ritt durch die Tore und spürte das Vakuum.
+
+Es war physisch, dieses Vakuum. Er hatte es schon einmal gespürt, nach Ögedeis Tod, als die Regentschaft Töregenes begann und die Luft in Karakorum sich verändert hatte, dichter geworden war, schwerer, geladen mit Erwartung und Angst. Jetzt war es anders. Jetzt war es leerer. Zwei Witwen, zwei Höfe, ein leerer Thron.
+
+Oghul Qaimish saß in Güyüks Hof und empfing den Leichnam ihres Mannes mit dem Gesicht einer Frau, die noch nicht verstanden hatte, was ihr gerade geschenkt worden war: die Regentschaft, die Macht, das Siegel. Sie war jung und sie war überfordert und sie sah aus, als hätte man ihr etwas in die Hand gedrückt, das sie nicht halten konnte, ohne sich zu schneiden.
+
+Sorkaktanis Hof lag jenseits der Stadt, ruhig, geordnet, still.
+
+Shigi kannte den Unterschied zwischen diesen beiden Stillen. Oghul Qaimishs Stille war die Stille der Erschöpfung, der Überforderung, der Frau, die nicht weiß, was als nächstes kommt. Sorkaktanis Stille war die Stille der Vorbereitung. Er hatte diese Stille schon früher gehört, in anderen Kontexten, bei anderen Menschen. Es war die Stille eines Mannes, der seine Klinge wetzt, bevor die Nacht kommt.
+
+Er ritt an Sorkaktanis Hof vorbei, ohne anzuhalten.
+
+In der Kanzlei warteten die Akten auf ihn, die unvermeidlichen Akten, die sich in seiner Abwesenheit angehäuft hatten wie Schnee vor einer geschlossenen Tür. Bittgesuche, Steuerregister, Grenzstreitigkeiten, Anfragen aus den Provinzen, die alle auf eine Antwort warteten, die er nicht geben konnte, weil die Antwort vom neuen Khan kommen musste und kein neuer Khan existierte, nur eine überforderte Witwe und eine stille Schachspielerin und ein Vakuum, das sich langsam mit Gerüchten füllte.
+
+Er setzte sich an seinen Tisch.
+
+Die Truhe mit den toten Akten stand in der Ecke, wo er sie gelassen hatte. Das Bündel lag darin, er wusste es, ohne nachzuschauen. Eingenäht in Filz, versiegelt mit seinem Siegel, bewacht von dem Gewicht seiner eigenen Schuld. Er schaute nicht hin.
+
+Er öffnete stattdessen das offizielle Protokoll des Marsches und begann, die letzten Einträge zu vervollständigen. Seine Handschrift war gleichmäßig und klar, ohne Zittern, ohne Abweichung. Dreißig Jahre Kanzleiarbeit hatten seine Hand gelehrt, was sein Geist manchmal nicht konnte: gleichmäßig zu bleiben, klar zu bleiben, die Form zu wahren, wenn der Inhalt sich auflöste.
+
+Güyük Khan, Sohn Ögedeis, gestorben im zweiten Monat des Jahres, auf dem Marsch nach Westen, an den Folgen einer anhaltenden Erkrankung. Die Ärzte bestätigten. Das Siegel des Oberrichters wurde gesetzt.
+
+Er siegelte das Dokument.
+
+Dann saß er da, in der stillen Kanzlei, und ließ die Feder sinken.
+
+Die Säuberung hatte sich selbst versorgt. Das war der Gedanke, der kam, unwillkommen und präzise wie ein Urteil: Die Säuberung hatte sich selbst versorgt. Güyük hatte Fatima hingerichtet und Abd ar-Rahman hingerichtet und Chinqai hingerichtet, und nun hatte jemand Güyük hingerichtet, und das Ergebnis war ein Vakuum, das Sorkaktani füllen würde, deren Söhne bereits warteten, deren Hof bereits geordnet war, deren Stille bereits die Stille der Vorbereitung war.
+
+Wer erbt das Schweigen.
+
+Die Frage kam aus dem Nichts, oder vielleicht aus dem Bündel in der Ecke, oder vielleicht aus Fatimas Brief, den er nicht geöffnet hatte, oder vielleicht aus seiner eigenen Erschöpfung, die sich in den letzten Wochen angehäuft hatte wie Wasser hinter einem Damm. Wer erbt das Schweigen. Er kannte die Antwort, natürlich. Er kannte sie seit Wochen, seit dem Moment, als Sorkaktanis Bote erschienen und verschwunden war, seit dem Moment, als Güyük auf dem Wagen lag und die Steppe sich gleichgültig um ihn schloss.
+
+Möngke.
+
+Der Name lag in der Luft wie Rauch, unsichtbar und allgegenwärtig. Möngke, Sorkaktanis ältester Sohn, der ruhig war und klug war und der seine Mutter kannte und der wartete, mit der Geduld eines Mannes, der weiß, dass er nicht warten muss, weil die Zeit für ihn arbeitet.
+
+Shigi stand auf und trat ans Fenster.
+
+Karakorum lag im späten Nachmittagslicht, braun und staubig und lebendig mit der gedämpften Geschäftigkeit einer Stadt, die zwischen zwei Herrschaften hing. Er sah die Händler und die Soldaten und die Schreiber und die Diener, die alle weitermachten, als wäre nichts geschehen, weil das die einzige Möglichkeit war, zu überleben: weitermachen, als wäre nichts geschehen, bis etwas geschehen war, das nicht mehr zu ignorieren war.
+
+Er dachte an Ögedei. Er dachte an Töregene. Er dachte an Fatima.
+
+Zurück an den Ort, den er so fürchtete. Zurück an den Ort des Anfangs. Zurück zu dem Moment, in dem er in drei Sätzen gelogen hatte und damit alles begonnen hatte, was seitdem geschehen war: die Regentschaft, die Säuberung, die Hinrichtungen, die ausführliche Lüge, das Bündel in der Ecke, das Vakuum in der Stadt.
+
+Er war der Einzige, der noch da war.
+
+Töregene war tot. Fatima war tot. Güyük war tot. Yelü Chucai war tot. Chinqai war tot. Abd ar-Rahman war tot. Temüge Otchigin war tot. Die Gründergeneration war tot, und die erste Nachfolgegeneration war tot, und was blieb, war er, Shigi Qutuqu, Tatarenwaisenkind, von Hö'elün aufgezogen, Oberrichter des Weltreichs, Beglaubiger von Lügen, Hüter von Wahrheiten, die niemand lesen würde.
+
+Er war siebenundfünfzig Jahre alt.
+
+Er war müde.
+
+Die Truhe in der Ecke stand still, wie Truhen stehen, wie tote Akten stehen, wie alles steht, das wartet, ohne zu wissen, dass es wartet. Er schaute sie an, lange, mit der Aufmerksamkeit eines Mannes, der ein Urteil prüft, das er selbst gefällt hat.
+
+Dann wandte er sich ab.
+
+Er nahm sein privates Buch aus der Schublade, das kleine, unscheinbare Buch, in dem er seit dreißig Jahren die Dinge aufschrieb, die nicht in die offiziellen Protokolle gehörten. Er schlug es auf der letzten beschriebenen Seite auf. Er las den letzten Eintrag, den er vor dem Aufbruch nach Westen geschrieben hatte: Ich habe heute die einzige Wahrheit des Reiches getötet, weil ich das Gesetz liebte.
+
+Er saß damit, eine Weile.
+
+Dann schrieb er darunter, mit kleinen, gleichmäßigen Buchstaben: Güyük Khan, gestorben auf dem Marsch. Die Wahrheit seines Todes ist vollständig. Sie ist wertlos. Ich weiß alles und kann nichts damit anfangen. Das ist die Strafe für einen Chronisten, der überlebt: Er sammelt Wahrheiten, die niemand braucht, für eine Nachwelt, die vielleicht nicht kommt.
+
+Er legte die Feder hin.
+
+Draußen, in der Dämmerung, begann Karakorum sein abendliches Geräusch: Feuer, Stimmen, Pferdegetrappel, das ferne Trommeln der Schamanen, die für den toten Khan baten oder für den nächsten Khan beteten oder für sich selbst, wer wusste das schon. Die Stadt lebte weiter, wie Städte leben, gleichgültig und hartnäckig, und der Thron stand leer, und die beiden Witwen saßen in ihren Höfen, und Sorkaktani wartete in ihrer Stille.
+
+Shigi Qutuqu saß in seiner Kanzlei und hörte zu.
+
+Er dachte: Zwei tote Khane. Zwei Lügen. Zwei Bündel Wahrheit, eingenäht in Filz, begraben in Truhen und Steppen. Und er, der Richter, der Chronist, der Überlebende, saß dazwischen und wartete auf das Dritte, das immer kam, wenn das Zweite noch nicht verarbeitet war, wenn die Stille noch nicht einmal angefangen hatte, sich zu füllen.
+
+Das Vakuum würde sich füllen.
+
+Es füllte sich immer.
+
+---
+
+## 38. Zwei Höfe
+
+Der Winter in der westlichen Provinz war ein anderer als der in Karakorum. Keine gefrorene Steppe, die sich bis zum Horizont zog, keine gleichmäßige Stille aus Schnee und Kälte. Hier im Westen gab es Stein und Geröll, schroffe Hänge, die sich gegen den Himmel stemmten, und Winde, die kamen und gingen, wie es ihnen gefiel, ohne Rücksicht auf die Menschen darunter. Die Luft roch nach Schlamm, nach Schweiß, nach verbranntem Holz. Das Land atmete anders. Es hatte Gewalt gesehen. Es hatte sie geschluckt. Und es war ruhig geworden.
+
+Juvaini saß in der Schreibstube von Arghun Aqas Stab, einem Raum aus luftgetrockneten Ziegeln, der nach Staub und Tinte roch. Die Wände waren vollgestopft mit Rollen, Bündeln, losen Blättern, die niemand mehr las, die niemand mehr brauchte, die einfach dalagen wie Steine auf einem Feld, das keiner mehr bebaute. Die Kanzleihand war besser geworden. Die Linien saßen, die Bögen flossen, die Buchstaben standen dicht beieinander, als fürchteten sie den leeren Raum, der sie umgab. Er konnte Briefe schreiben, ohne nachzudenken. Er konnte Gesuche aufsetzen, ohne die Namen zu lesen. Er konnte Urkunden ausfertigen, die nie ankommen würden, weil der Empfänger nicht mehr da war oder weil der Bote nicht weiterreisen konnte oder weil das Reich, für das sie geschrieben waren, nicht mehr existierte, so wie es einmal war.
+
+Das Notizbuch lag in seiner Satteltasche, zwischen Kleidung und Proviant. Er hatte es seit Wochen nicht aufgeschlagen. Vielleicht seit Monaten. Die Gedichte waren noch da, die Zeilen, die er in Karakorum geschrieben hatte, die drei unvollendeten Zeilen, die Fatimas Brief begleitet hatten, die Worte, die er nicht abschließen konnte, weil sie nicht abschließbar waren, weil sie weitergingen, immer weitergingen, in ihm, in seinen Gedanken, in den Nächten, wenn er wach lag und auf die Ziegeldecke starrte und sich fragte, ob es noch einen Sinn hatte, zu schreiben, wenn das, was man schrieb, doch niemand las.
+
+Aber er schrieb weiter. Weil es seine Arbeit war. Weil es sein Leben war. Weil es das Einzige war, was er tun konnte, ohne sich zu fragen, ob es richtig war oder falsch, ob es half oder schadete, ob es die Welt veränderte oder sie so ließ, wie sie war. Er schrieb Dekrete, die niemand mehr überprüfte. Er schrieb Steuerregister, die auf Schätzungen beruhten, die auf Vermutungen beruhten, die auf der Hoffnung beruhten, dass die Bauern noch lebten, dass die Karren noch rollten, dass das Geld noch seinen Weg fand. Er schrieb Antworten auf Fragen, die keiner gestellt hatte, weil die Boten nicht kamen, weil die Straßen unsicher waren, weil das Reich sich auflöste in Stücke, die niemand zusammenhielt.
+
+Arghun Aqa trat ein, ohne anzuklopfen. Er trat immer ein, ohne anzuklopfen, als wäre die Tür nur eine Geste, die er nicht brauchte. Seine Stiefel waren schlammbedeckt, sein Mantel feucht von der Kälte, sein Gesicht so ausdruckslos wie immer. Er hatte das Überleben gelernt, indem er nichts zeigte, was er nicht zeigen musste, und nichts sagte, was er nicht sagen konnte. Juvaini bewunderte ihn dafür. Er verachtete sich dafür, dass er ihn bewunderte.
+
+„Zwei Hofboten", sagte Arghun Aqa, ohne Einleitung. „Einer von der Regentin. Einer von den Söhnen."
+
+Juveni hob den Kopf. „Welcher?"
+
+„Oghul Qaimish schickt einen, der Güyüks Namen trägt. Die Söhne schicken einen, der nur ihren eigenen Namen trägt." Arghun Aqa setzte sich auf die Kante von Juvainis Tisch. Das Holz knarrte unter seinem Gewicht. „Die Antworten widersprechen sich."
+
+„Das tun sie immer."
+
+„Diesmal nicht nur." Arghun Aqa zog ein gefaltetes Blatt aus seinem Mantel, reichte es Juvaini. „Lies."
+
+Juvaini nahm das Blatt, entfaltete es. Die Schrift war hastig, die Buchstaben flüchtig, die Linien zittrig. Ein Sekretär, der zu schnell schrieb, oder ein Sekretär, der Angst hatte. Der Text war knapp: Ein Befehl der Regentin, die Steuern der westlichen Provinz an den Hauptsitz der Regentin zu senden. Keine Angabe, wohin genau. Keine Unterschrift, die man überprüfen konnte. Nur ein Name, der wie ein Siegel wirkte, obwohl er keines war.
+
+„Und der zweite?"
+
+Arghun Aqa reichte ihm ein zweites Blatt. Die gleiche Schrift, die gleichen Buchstaben, die gleiche Hast. Aber der Inhalt war anders. „Die Steuern sind an den Hof der Prinzen zu senden. Nicht an die Regentin. An die Prinzen."
+
+„Beide sind von der gleichen Hand geschrieben."
+
+„Das habe ich gesehen", sagte Arghun Aqa. „Und ich habe gesehen, dass beide unterschrieben sind, aber keiner der Höfe weiß vom anderen. Sie schicken Boten, die sich nicht treffen dürfen. Sie schreiben Dekrete, die sich widersprechen. Sie fordern das Gleiche, aber jeder will es für sich."
+
+Juvaini legte die Blätter auf den Tisch. Er starrte sie an, als könnten sie ihm eine Antwort geben, die er nicht hatte, eine Wahrheit, die er nicht sehen konnte, eine Richtung, die er nicht kannte. „Was machst du mit ihnen?"
+
+„Ich bestätige beide", sagte Arghun Aqa. „Höflich. Ohne Versprechen. Und ich gehorche keinem."
+
+Das war die dritte Stufe des Dienens. Juvaini hatte sie in den letzten Monaten gelernt, hatte sie beobachtet, hatte sie geübt, hatte sie gehasst und hatte sie doch angenommen, weil sie funktionierte. Die erste Stufe war der Gehorsam. Die zweite Stufe war die Geschicklichkeit. Die dritte Stufe war das Warten. Man wartete, bis die Widersprüche sich auflösten, bis die Macht sich entschied, bis der Sturm vorüberzog. Man sagte nicht Nein. Man sagte nicht Ja. Man sagte: „Ich werde es prüfen." Und dann wartete man.
+
+„Wie lange?", fragte Juvaini.
+
+„Bis einer gewinnt", sagte Arghun Aqa. „Oder bis beide verlieren. Das ist die einzige Regel, die zählt."
+
+Juvaini nickte. Er hatte es verstanden. Er hatte es verstanden, und es widert ihn an. Es widert ihn an, dass er es verstanden hatte, dass er es akzeptiert hatte, dass er es anwendete, als wäre es eine Kunst, als wäre es eine Fähigkeit, als wäre es etwas, worauf man stolz sein konnte. Er war gut darin geworden. Er war so gut darin geworden, dass er sich selbst nicht mehr wiedererkannte.
+
+Die Tage vergingen, ohne dass sie zählten. Die Sonne stand tief, die Schatten wurden länger und die Kälte drang durch die Ziegel, die Ritzen, die Kleidung. Juvaini schrieb. Er schrieb Briefe an Höfe, die er nie sehen würde, an Fürsten, die er nie treffen würde, an ein Reich, das sich auflöste, während er die Feder führte. Die Steuerregister wurden dünner. Die Bauern zahlten weniger oder gar nicht. Die Karawanen blieben aus oder kamen mit leeren Händen. Die Provinz lebte von sich selbst, fraß sich selbst, fraß ihre Ersparnisse, ihre Hoffnungen, ihre Zukunft, und niemand hielt sie auf.
+
+„Der Westen ist ein Spiegel", sagte Arghun Aqa eines Abends, als sie am Feuer saßen, die Hände an den Bechern, die Augen in der Glut. „Er zeigt dir, was du sehen willst. Wenn du Stärke sehen willst, siehst du Stärke. Wenn du Schwäche sehen willst, siehst du Schwäche. Aber die Wahrheit ist: Er zeigt dir nichts. Er ist, was er ist. Ein Land, das überlebt. Ein Land, das wartet."
+
+„Worauf wartet es?", fragte Juvaini.
+
+„Auf den nächsten, der es regiert."
+
+Juvaini dachte an Karakorum. An die Zelte, die sich über die Steppe erstreckten, an die Banner, die im Wind flatterten, an die Frauen, die regierten, an die Söhne, die kämpften, an die Toten, die unter der Erde lagen, an die Texte, die niemand las. Er dachte an Fatima. An ihre Worte. An ihre Briefe. An das, was sie ihm gesagt hatte, ohne es zu sagen, an das, was sie ihm hinterlassen hatte, ohne es zu hinterlassen. Er dachte an den Namen, der in den letzten Tagen immer häufiger durch die Boten, durch die Händler, durch die Gerüchte schlich.
+
+Möngke.
+
+Ein Name, den man flüsterte. Ein Name, den man nicht aussprach, wenn man nicht wusste, wer zuhörte. Ein Name, der wie ein Schatten kam, der wie ein Schatten blieb, der wie ein Schatten wuchs, bis er alles bedeckte, was noch sichtbar war.
+
+„Ich habe Nachrichten gehört", sagte Juvaini leise. „Von Osten."
+
+Arghun Aqa hob den Kopf. Sein Gesicht war unbewegt. Aber seine Augen veränderten sich, nur einen Augenblick, nur eine Nuance, die Juvaini sah und die er nicht vergessen würde.
+
+„Was für Nachrichten?"
+
+„Batu schickt Männer. Möngke sammelt. Die Alten sagen, ein neuer Khan kommt." Arghun Aqa schwieg. Juvaini schwieg. Das Feuer knisterte, die Flammen tanzten, die Glut glühte, und zwischen ihnen lag die Stille, schwer und tief wie der Stein, auf dem sie saßen.
+
+„Wie sicher sind diese Nachrichten?", fragte Arghun Aqa.
+
+„Ein Händler aus Buchara brachte sie. Er sagte, er habe es von einem Schreiber aus dem Osten gehört. Der Schreiber habe es von einem Kurier. Der Kurier habe es von einem Prinzen. Wie sicher ist das schon."
+
+„Nicht sicher", sagte Arghun Aqa. „Aber auch nicht unsicher. Das ist die gefährlichste Art von Nachrichten. Die, die man nicht bestätigen kann. Die, die man nicht ignorieren kann. Die, die zwischen Wahrheit und Gerücht schweben, wie Rauch zwischen Feuer und Himmel."
+
+Juvaini dachte an Fatimas Brief. An den Brief, den er nie gelesen hatte. An den Brief, den er nie lesen würde. An den Brief, der in seinem Notizbuch lag, zwischen den Gedichten, zwischen den Erinnerungen, zwischen den Worten, die er nicht abschließen konnte. Was hatte sie gewusst? Was hatte sie gesehen? Was hatte sie ihm sagen wollen, bevor sie starb, bevor sie ging, bevor sie verschwand, so wie alles verschwand, was er liebte, was er brauchte, was er nicht halten konnte?
+
+Er wusste es nicht. Er würde es nie wissen. Und das war das Schlimmste. Das Wissen, dass er etwas wusste, das er nicht wusste, dass er etwas sah, das er nicht sehen konnte, dass er etwas hörte, das er nicht hören durfte. Er war wie die Boten, die zwei Antworten aus zwei Höfen mitnahmen, ohne zu wissen, welche wahr war, welche falsch, welche zählen würde, wenn der Sturm vorüber war.
+
+„Was wirst du tun?", fragte Arghun Aqa.
+
+„Schreiben", sagte Juvaini.
+
+„Was wirst du schreiben?"
+
+Juvaini schwieg. Das Feuer knisterte. Die Glut glühte. Und in seinem Kopf formte sich ein Satz, ein Brief, ein Glückwunschschreiben an einen Mann, den er nie getroffen hatte, an einen Khan, der noch keiner war, an eine Zukunft, die noch nicht geschrieben war, aber die er schreiben würde, weil er schreiben musste, weil er schreiben konnte, weil er schreiben würde, bevor es geschah, so wie man Geschichte schrieb, bevor sie Geschichte wurde, so wie man die Wahrheit schrieb, bevor sie zur Lüge wurde, so wie man die Hoffnung schrieb, bevor sie zur Erinnerung wurde.
+
+„An Möngke", sagte er leise. „Ich werde ein Glückwunschschreiben an Möngke entwerfen. Für den Tag, an dem er Khan wird."
+
+Arghun Aqa sah ihn an. Sein Gesicht war unbewegt. Aber seine Augen veränderten sich, nur einen Augenblick, nur eine Nuance, die Juvaini sah und die er nicht vergessen würde.
+
+„Das ist klug", sagte Arghun Aqa. „Das ist gefährlich. Das ist genau das, was ich von dir erwartet habe."
+
+Juvaini nahm die Feder. Er tauchte sie in die Tinte. Er zog das Papier heran. Und er begann zu schreiben, langsam, bewusst, mit der Kanzleihand, die besser geworden war, mit der Sicherheit, die er gelernt hatte, mit der Kälte, die er in sich trug, wie einen Stein, den man schluckt, um nicht zu schreien.
+
+*Dem erhabenen Prinzen Möngke, Sohn des Tolui, Enkel des Dschingis, im Vertrauen auf die Vorsehung des Himmels und die Weisheit der Alten, sende ich meinen tiefsten Respekt und meine aufrichtigsten Glückwünsche zu dem Tag, an dem die Krone des Reiches auf sein Haupt gesetzt wird. Möge seine Herrschaft lang sein, seine Hand gerecht, sein Wort wahr. Möge er das Reich einen, das zerrissen ist. Möge er die Ordnung bringen, die verloren ist. Möge er der Khan sein, den wir alle erwarten.*
+
+Er legte die Feder nieder. Er sah den Brief an. Die Worte standen da, schwarz und klar, wie Bäume in einer Landschaft, die noch nicht bepflanzt war. Er wusste nicht, ob sie wahr waren. Er wusste nicht, ob sie gelogen waren. Er wusste nur, dass sie geschrieben waren, dass sie existierten, dass sie da sein würden, wenn der Tag kam, an dem sie gebraucht wurden.
+
+So schrieb man Geschichte, bevor sie geschah. So bereitete man sich vor, ohne zu wissen, worauf. So überlebte man, ohne zu wissen, ob man es verdiente.
+
+Die Lampe flackerte. Die Nacht war tief. Und Juvaini saß da, allein mit dem Brief, mit dem Namen, mit der Zukunft, die auf ihn zukam, wie ein Sturm, den man kommen sah, den man nicht aufhalten konnte, den man nur überstehen konnte, indem man sich duckte, indem man wartete, indem man weiterschrieb, bis nichts mehr blieb als das Papier und das Wort und die Stille, die alles bedeckte.
+
+Er faltete den Brief. Er legte ihn in die Satteltasche, neben das Notizbuch, neben den Lederfetzen, neben die Erinnerungen, die er nicht loslassen konnte, die er nicht vergessen durfte, die er bewahren würde, bis zum Ende, bis er selbst ging, bis er selbst nichts mehr war als ein Name, ein Datum, ein Satz in einem Buch, das niemand las.
+
+Draußen wehte der Wind durch die Schluchten, durch die Felsen, durch das Land, das wartete. Und Juvaini wartete mit ihm, als wäre er selbst ein Stein, als wäre er selbst ein Felsen, als wäre er selbst das Land, das sich nicht bewegte, das nicht aufgab, das nicht starb, weil es nicht sterben konnte, weil es zu lange gelebt hatte, um jetzt zu sterben, weil es zu viel gesehen hatte, um jetzt zu schließen.
+
+Die Kälte drang durch die Ziegel. Er stand auf. Er löschte die Lampe. Und er legte sich hin, auf die Matte, in die Dunkelheit, in die Stille, die ihn umgab, wie eine zweite Haut, die er nicht abstreifen konnte.
+
+Er war gut darin geworden, zu warten.
+
+Es widerte ihn an.
+
+Aber er konnte nicht anders.
+
+---
+
+## 39. Das lange Spiel
+
+Das lange Spiel
+
+Kalak umrundete den Felsvorsprung und spürte das Zittern im Stein unter seinen Füßen. Fünfzehn Schritte noch, vielleicht zwanzig. Dann die Kante. Dann der Sprung.
+
+Der Sturm kam von Süden her, trug den Geruch von verbranntem Stein und Sturmlicht, und er wusste, dass der Feind näher kam. Nicht die Parschendi – die waren noch Stunden entfernt, sammelten sich jenseits der Hügelkette, warteten auf das Signal der Trommeln. Sondern der Sturm selbst, der sich über der Ebene zusammenbraute, der die Luft mit Spannung füllte, der die Haare auf seinen Armen aufstellte.
+
+Er ballte die Fäuste, spürte das Kribbeln der Macht in den Adern, doch er hielt sich zurück. Das war gefährlich. Das war immer gefährlich. Ein falscher Schritt, ein unbedachter Impuls, und das Sturmlicht würde ihn verzehren, würde ihn leeren, würde ihn zurücklassen als eine Hülle aus Haut und Knochen, die nichts mehr fühlte als den Hunger nach mehr.
+
+Er zwang sich zur Ruhe. Er zählte. Eins. Zwei. Drei.
+
+Die Klinge auf seinem Rücken war kalt, schwer, und sie flüsterte ihm Dinge zu, die er nicht hören wollte. Sie war eine Splitterklinge, geschmiedet aus einer Essenz, die älter war als die Menschen, die sie trugen. Sie trug den Namen eines Helden aus einer Zeit, die nur noch in Fragmenten existierte. Sie kannte den Tod, besser als er, und sie wartete darauf, dass er sie endlich losließ.
+
+Er umklammerte den Griff. Spürte die Vibration, die durch das Holz lief, wie ein zweiter Herzschlag, der unter seiner Haut pochte.
+
+Nur die Stille antwortete ihm, die Stille und das ferne Grollen des Sturms.
+
+Er schloss die Augen. Er atmete ein. Er ließ das Sturmlicht fließen, millimeterweise, kontrolliert, wie ein Chirurg, der sein Messer führt. Es füllte seine Adern mit Licht, mit Kraft, mit dem Versprechen von Geschwindigkeit, die über das Menschliche hinausging.
+
+Dann sprang er.
+
+Die Welt wurde zu einem Wirbel aus Grau und Weiß, aus Wind und Schmerz, aus dem Kreischen des Sturms, der ihn packte, ihn drehte, ihn gegen die Felswand schleuderte, als wäre er nichts als ein Blatt. Seine Schulter schlug auf, seine Hände griffen ins Leere, seine Beine suchten nach Halt, fanden keinen, und er stürzte.
+
+*Töten*, flüsterte die Klinge. *Töten. Töten. Töten.*
+
+Er ignorierte sie. Er konzentrierte sich auf den Punkt unter sich, den Grat aus schwarzem Stein, der aus der Dunkelheit auftauchte, der näher kam, der ihn empfangen würde wie ein Freund oder wie ein Feind. Er wusste es nicht. Er durfte es nicht wissen. Er durfte nur handeln.
+
+Das Sturmlicht explodierte aus ihm, ein letzter Atemzug, bevor die Dunkelheit kam.
+
+Er landete.
+
+Das Krachen hallte durch den Felsen, durch seinen Körper, durch die Knochen, die sich bogen, die nicht brachen, weil das Sturmlicht sie hielt, weil die Macht sie stützte, weil er sich nicht erlaubte, zu fallen.
+
+Er stand. Er keuchte. Die Kälte der Höhe umschloss ihn, ließ seine Lungen brennen, ließ seine Gedanken splittern, wie das Eis, das sich auf den Gipfeln der Berge bildete, wenn der Sturm vorbei war.
+
+Er blickte auf. Der Feind war da.
+
+Die Parschendi standen auf dem Grat unter ihm, ihre roten und schwarzen Panzer glänzten im fahlen Licht des Sturms. Ihre Augen waren leer, ihre Gesichter ausdruckslos, ihre Körper reglos wie Statuen, die der Stein aus sich herausgewachsen hatte. Sie trugen Waffen aus Obsidian, aus Eisen, aus einer fremden Legierung, die die klingenden, die mächtigen, die unzerbrechlichen Splitter nicht fürchtete.
+
+Es waren viele. Es waren zu viele.
+
+Er zog die Klinge. Sie entfaltete sich in seiner Hand, ein Streifen aus purem Licht, der die Schatten zerriss, der die Luft schnitt, der die Himmelsrichtung eines jeden Dinges, das er berührte, für immer veränderte.
+
+*Endlich*, flüsterte sie. *Endlich.*
+
+Er schritt auf sie zu.
+
+Die ersten drei fielen, bevor sie ihre Waffen heben konnten. Der vierte parierte, aber seine Klinge zersplitterte, und er fiel mit ihr. Der fünfte wich aus, trat zur Seite, versuchte, Kalaks Flanke zu umgehen, aber er war zu langsam, zu schwerfällig, zu sehr an den Atem des Sturms gebunden, der hinter ihnen wuchs, der sie verschlingen würde, ob sie kämpften oder nicht.
+
+Das Sturmlicht floss aus ihm in die Klinge, aus der Klinge in die Feinde, aus den Feinden in den Boden, der die Energie trank, der die Farbe änderte, der sich unter seinen Füßen blau färbte, wie alte Adern eines toten Gottes.
+
+Er kämpfte.
+
+Er tötete.
+
+Er bewegte sich durch die Reihen wie ein Schatten, wie ein Wind, wie ein Ding, das selbst der Sturm nicht fassen konnte. Seine Klinge sang, sie zischte, sie fraß sich durch Panzer und Fleisch und Knochen, als wäre alles aus feinem Sand, den eine Brise wegblies.
+
+Die Parschendi fielen. Einer. Zehn. Zwanzig.
+
+Doch sie kamen immer weiter. Nein, sie kamen nicht weiter. Sie standen, warteten, bewegten sich kaum. Sie bildeten einen Kreis um ihn, eng, dichter werdend, wie das Netz eines Jägers, der die Beute nicht sofort tötet, sondern sie zermürbt, sie müde macht, sie in den Tod treibt, ohne einen einzigen Stolpern.
+
+Er erkannte die Taktik.
+
+Es war eine Falle.
+
+*Sie haben mich erwartet*, dachte er. *Sie haben mich kommen sehen. Sie haben gewusst, dass ich diesen Weg nehmen würde. Sie haben mich geführt.*
+
+Die Klinge in seiner Hand vibrierte, zitterte, wurde schwerer, wurde leichter, als würde sie selbst zwischen den Möglichkeiten hin und her gerissen, zwischen dem Sieg und dem Tod, die beide nah waren, die beide ihn umarmten, wie alte Freunde, die er längst hätte treffen sollen.
+
+Er blinzelte. Die Welt verschwamm. Der Sturmlichtvorrat in seinem Körper begann zu fallen, zu schwinden, zu fließen wie Wasser aus einem Riss in einem Krug. Er spürte, wie die Erschöpfung kam, die Rechnung, die er aufgeschoben hatte, bis nach dem Kampf, und die jetzt kam, mitten im Kampf, zu früh, zu plötzlich, zu schwer.
+
+*Töten*, flüsterte die Klinge. *Töten. Töten.*
+
+Aber er konnte nicht.
+
+Er konnte sich nicht bewegen.
+
+Er stand da, umgeben von Feinden, die nicht zuschlugen, die nur warteten, die ihn ansahen mit ihren leeren Augen, ihren hohlen Blicken, ihren Mündern, die Worte formten, die er nicht hören konnte, die er nicht verstehen wollte, die in seinem Kopf widerhallten wie die Echos eines Schreis aus einer anderen Zeit.
+
+*Das ist nicht echt*, dachte er. *Das ist eine Vision. Das ist eine Erinnerung. Das ist etwas, das geschehen ist, oder das geschehen wird, oder das in einer anderen Welt geschieht, die parallel zu dieser läuft, ohne dass ich sie berühren kann.*
+
+Er schloss die Augen.
+
+Er öffnete sie.
+
+Er war wieder in der Kanzlei.
+
+Der Raum war still. Die Lampe war fast heruntergebrannt, die Flamme zuckte, warf Schatten an die Wände, die in der Bewegung lebendig wurden, die Tanzende darstellten, die Kämpfende, der Tod selbst, der durch die Krümmungen der kargen Einrichtung strich.
+
+Shigi Qutuqu saß über die Akten gebeugt, die Hände gefaltet, das Kinn auf den Knöcheln abgestützt. Sein Atem war flach. Sein Körper war angespannt, wie eine Bogensehne, die darauf wartete, losgelassen zu werden, und die sich nicht traute, loszulassen, weil sie wusste, dass es den Bogen zerreißen würde.
+
+Es war kalt. Der Winter kroch durch die Fugen des Gebäudes, durch die Ritzen in den Fenstern, durch die Felle, die er über den Boden gelegt hatte. Er roch den Rauch der Feuer in den Lagern, das Salz der Essensvorräte, die faulige Feuchtigkeit der Kälte, die alles bedeckte, die alles träge machte, die alles abwartete wie ein Tier, das sich zu lange versteckt hält, um zu überleben.
+
+Er hatte nicht geschlafen.
+
+Er hatte nicht gegessen.
+
+Er hatte nur gesessen, stundenlang, tagein, tagaus, die Hände über dem Bündel, das vor ihm lag, das er nicht öffnen durfte, das er nicht lesen durfte, das er nicht verbrennen durfte, das er nicht vergessen durfte.
+
+Es war Fatimas Brief.
+
+Es war Fatimas Tod.
+
+Es war seine Schuld, eingeschlossen in Filz, in Fäden, in Schweigen, in etwas, das er nicht mehr rückgängig machen konnte.
+
+Die Klinge. Der Sturm. Der Kampf.
+
+Shigi öffnete die Augen. Er war wieder in der Gegenwart.
+
+Die Lampe verlöschte. Der Raum versank in Dunkelheit.
+
+Er spürte den Frost, der durch den Boden unter ihm stieg, der seine Beine hinaufkroch, der die Wärme aus seinem Körper sog, so sicher, so gleichmäßig, wie die Hand eines Chirurgen, der ein Messer führt. Er zog die Knie an. Er umschlang sie mit den Armen. Er wurde klein, still, fast unsichtbar in der Finsternis, die ihn umgab.
+
+*Sie kommen*, dachte er. *Sie kommen jetzt.*
+
+---
+
+## 40. Die Rückkehr des Schreibers
+
+Die Stube war lang und schmal, ein Raum zwischen Archiv und Kanzlei, in dem niemand länger blieb als nötig. Juvaini stand an dem niedrigen Tisch, auf dem die Rollen lagen, die er aus dem Westen mitgebracht hatte, und wartete. Der Ofen in der Ecke war kalt, die Lampe brannte schwach, und durch den schmalen Spalt im Filz der Wand drang das ferne Geräusch der Zeltstadt, das Rufen der Händler, das Wiehern der Pferde, das Knarren der Wagenräder auf gefrorenem Boden.
+
+Er hatte zwei Jahre gebraucht, um hierher zurückzukehren. Zwei Jahre, in denen er durch die westlichen Provinzen gereist war, von Merw nach Buchara, von Buchara nach Samarkand, von Samarkand zurück an diesen Ort, den er nie wiedersehen wollte. Arghun Aqa hatte ihn geschickt, mit dem abgeschlossenen Register der Steuerrevision, mit den Briefen der Gouverneure, mit den Listen der Toten und der Lebenden und derer, die es nicht mehr gab.
+
+Aber das war nicht der Grund, warum er hier stand.
+
+Juvaini hörte die Schritte, bevor er sie sah. Langsam, gemessen, das Geräusch eines Mannes, der es nicht eilig hatte, der wusste, dass die Welt wartete, und der bereit war, sie warten zu lassen. Der Filzvorhang teilte sich, und Shigi Qutuqu trat ein.
+
+Er war älter geworden. Das war das erste, was Juvaini bemerkte, das einzige, was er bemerken durfte. Die Falten um die Augen tiefer, das Haar dünner, die Schultern schmaler unter dem schweren Mantel. Aber die Augen waren dieselben: dunkel, ruhig, von einer Wachsamkeit, die nicht schlief, die nie geschlafen hatte, die alles gesehen hatte, was es zu sehen gab, und die bereit war, nichts zu zeigen.
+
+„Schreiber Juvaini", sagte Shigi. Die Stimme war flach, neutral, die Stimme eines Mannes, der jeden Tag Dutzende von Namen nannte und keinen von ihnen behielt.
+
+„Richter Qutuqu." Juvaini verbeugte sich knapp, die Haltung eines Untergebenen, der wusste, dass er ein Untergebener war, und der es nicht mehr änderte als nötig.
+
+Shigi trat an den Tisch, ließ den Blick über die Rollen gleiten, ohne sie zu berühren. „Ihr seid mit dem Register zurückgekehrt?"
+
+„Arghun Aqa lässt grüßen. Die Revision ist abgeschlossen. Die Zahlen sind korrigiert, die Lücken geschlossen, die Unterschriften eingeholt."
+
+„Gut."
+
+Stille.
+
+Juvaini stand da und wartete. Er wusste nicht, worauf er wartete. Auf ein Zeichen, auf eine Frage, auf etwas, das kommen würde und das er nicht benennen konnte. Die Stille dehnte sich, wurde dicker, wurde zu einem Raum zwischen ihnen, den keiner von beiden betreten wollte.
+
+„Ich hätte noch eine Bitte", sagte Juvaini schließlich. Die Worte kamen leiser als beabsichtigt, leiser als erlaubt. „Ich brauche Akten. Aus den Jahren 1246 und 1247."
+
+Shigi hob den Kopf. Der Blick traf Juvaini, kurz, prüfend, und senkte sich wieder auf die Rollen. „Welche Akten?“
+
+„Die Protokolle der Kanzlei unter Güyük Khan. Die Ernennungen, die Entlassungen, die Verfahren." Er zögerte, nur einen Herzschlag lang. „Die Vernehmungsakten."
+
+Die Stille wurde schwarz. Juvaini spürte sie in der Kehle, im Hals, in der Lunge, in dem Raum zwischen den Rippen, in dem die Luft stillstand.
+
+„Man hat mir gesagt", fuhr er fort, langsamer jetzt, jedes Wort wie ein Schritt auf dünnem Eis, „dass die Akten noch existieren. Dass niemand sie vernichtet hat. Dass sie hier lagern, in der Kanzlei, in der sie abgelegt wurden, und dass sie seit dem Ende der Verfahren nicht mehr geöffnet wurden."
+
+Shigi antwortete nicht. Er stand still, die Hände hinter dem Rücken verschränkt, der Blick auf den Boden gerichtet, auf den Filz, auf die Risse im Filz, auf die Staubkörner, die in der Lampe tanzten.
+
+„Ihr habt sie gekannt", sagte Juvaini.
+
+Es war keine Frage. Es war eine Feststellung. Eine Tür, die er öffnete, die er nicht mehr schließen konnte, die er nicht mehr schließen wollte.
+
+Shigi hob den Kopf. Die Bewegung war langsam, bedächtig, die Bewegung eines Mannes, der wusste, was kommen würde, und der bereit war, es zu treffen. Die Augen trafen Juvainis Augen, und in ihnen lag etwas, das wie Schmerz aussah, wie Erinnerung, wie die Narben von etwas, das nie verheilt war.
+
+„Ich habe ihr Urteil gesiegelt."
+
+Der Satz fiel wie ein Stein in stilles Wasser. Juvaini spürte den Aufprall in der Brust, in den Knien, in den Händen, die sich zu Fäusten ballten, die sich wieder lösten, die sich wieder ballten.
+
+Er hatte es gewusst. Er hatte es die ganze Zeit gewusst, seit er gehört hatte, dass Shigi Qutuqu das Todesurteil bestätigt hatte, dass er das Siegel gesetzt hatte, das sie zur Hexe machte, das sie zum Tode verurteilte, das sie in der Zisterne sterben ließ, allein, ohne Namen, ohne Würde, ohne jemanden, der ihr die Hand hielt. Er hatte es gewusst, als er die Nachricht erhielt, als er sie las, als er sie verbrannte, als er die Asche in den Wind warf und wusste, dass nichts übrig blieb, nichts außer ihm, der die Asche verbrannt hatte, der nichts übrig gelassen hatte, der weitergeschrieben hatte, als hätte es sie nie gegeben.
+
+Und jetzt stand er hier, in dieser schmalen, kalten Stube, und hörte, was er bereits wusste, und es war dasselbe, und es war anders, und es war alles, und es war nichts.
+
+„Ich habe sie geliebt", sagte er.
+
+Die Worte kamen ohne Vorbereitung, ohne Schutz, ohne das geringste Verlangen, sie zurückzunehmen. Er sah Shigi an, während er sie aussprach, sah den Schatten, der über das Gesicht des alten Richters zog, sah das Zucken in den Augen, das Zucken, das er kannte, das er selbst spürte, wenn er ihren Namen dachte, wenn er ihre Stimme hörte, wenn er nachts aufwachte und wusste, dass sie nicht mehr da war.
+
+Shigi senkte den Kopf. Die Bewegung war langsam, eine Verbeugung vor etwas, das größer war als sie beide, das schwerer war als die Akten, die zwischen ihnen lagen, das schwerer war als das Schweigen, das sie umgab.
+
+„Dann sind wir uns nicht fremd, Schreiber Juvaini." Die Stimme war leise, belegt, die Stimme eines Mannes, der zu lange geschwiegen hatte. „Wir sind uns so fremd nicht."
+
+Juvaini spürte, wie sich etwas in seiner Brust löste. Eine Spannung, die er seit Jahren getragen hatte, seit dem Abschied im Durchgang zwischen den Gebäuden, seit den drei Worten, die sie ihm mitgegeben hatte, seit dem Lederstück, das er über dem Herzen trug, seit der Asche, die er verbrannt hatte, seit der Leere, die er in sich trug, seit der Stille, die er nicht mehr füllen konnte.
+
+„Die Akten", sagte er. Die Stimme war rau, und er räusperte sich nicht. „Die Vernehmungsakten von 1247. Ich muss sie sehen."
+
+Das Bündel lag zwischen ihnen.
+
+Juvaini hatte es nicht gesehen, als er eintrat. Es lag in der Ecke, auf einem Stapel alter Rollen, in Filz gewickelt, unscheinbar, tot. Aber jetzt, nachdem Shigi es aus der Ecke genommen hatte, nachdem er es auf den Tisch gelegt hatte, nachdem er den Filz auseinandergefaltet hatte, jetzt konnte Juvaini es sehen, und er wusste sofort, dass es das Bündel war. Das Bündel, das Fatima geschrieben hatte, das Bündel, das er nie gesehen hatte, das Bündel, von dem er nur wusste, weil er in ihren Briefen gelesen hatte, weil er ihre Stimme gehört hatte, weil er ihre Handschrift kannte, weil er ihre Worte kannte, weil er sie kannte, wie er niemanden gekannt hatte, wie er nie wieder jemanden kennen würde.
+
+„Das ist das Problem", sagte Shigi, die Hände flach auf dem Tisch, die Finger gespreizt, als müsste er sich festhalten. „Es gibt die Akten. Aber sie sind nicht vollständig."
+
+„Nicht vollständig?“
+
+„Das Geständnis ist vorhanden. Unterschrieben am dritten Tag der Vernehmung. Die Unterschrift ist ihre, das haben drei Schreiber bestätigt. Aber das Vernehmungsprotokoll der ersten beiden Tage fehlt. Die Aussagen der Zeugen sind nicht datiert. Und das Protokoll der Giftprobe, die angeblich an Ködens Becher durchgeführt wurde, existiert nicht."
+
+Juvaini starrte ihn an. Die Worte drangen durch die Stille, durch die Kälte, durch die Jahre, die zwischen ihnen lagen, und sie brannten.
+
+„Es gibt kein Protokoll der Giftprobe", wiederholte er. Die Stimme war flach, leer, die Stimme eines Mannes, der die Antwort bereits kannte, bevor er die Frage stellte.
+
+„Nein."
+
+„Weil sie nie durchgeführt wurde."
+
+Shigi antwortete nicht. Er stand da, die Hände auf dem Tisch, und sah Juvaini an, und in seinen Augen lag etwas, das wie Bitte aussah, wie Vergebung, wie die Hoffnung, dass jemand verstehen würde, was er nicht sagen konnte.
+
+Juvaini trat an den Tisch. Die Bewegung war langsam, jeder Schritt eine Entscheidung. Er streckte die Hand aus, zögerte, berührte den Rand des Bündels, die Filzhülle, rau und kalt.
+
+„Darf ich?"
+
+Shigi nickte.
+
+Juvaini öffnete den Filz. Die Bewegung war vorsichtig, als würde er etwas Lebendiges berühren, etwas Zerbrechliches, etwas, das noch atmete, das noch Schmerz spürte. Das Papier darunter war vergilbt, die Ränder eingerissen, die Tinte verblasst. Aber die Schrift war lesbar, klar, präzise. Ihre Schrift.
+
+Er las das Geständnis. Wort für Wort, Satz für Satz, Zeile für Zeile. Es war kurz, sachlich, bar jeder Emotion. Die Unterschrift am Ende war zittrig, dennoch erkennbar, die Buchstaben ineinander verschlungen, als hätte sie die Hand geführt, die bereits wusste, dass es das letzte Mal war.
+
+„Sie hat unterschrieben", sagte er. Die Stimme war ruhig, ruhiger als er erwartet hatte. „Sie hat unterschrieben, weil sie wusste, dass es keinen Sinn hatte, sich zu wehren."
+
+„Sie hat unterschrieben, weil ich ihr keine Wahl ließ."
+
+Juvaini hob den Kopf. Shigi stand noch immer am Tisch, die Hände darauf, und zum ersten Mal sah er ihn an, wirklich an, ohne den Schleier der Höflichkeit, der Distanz, der Verstellung. Der alte Richter hatte die Augen geschlossen, und in seinem Gesicht lag etwas, das wie Trauer aussah, wie Reue, wie die Last von etwas, das er nicht ablegen konnte.
+
+„Ich hätte das Urteil verweigern können", sagte Shigi. Die Stimme war leise, fast ein Flüstern, als würde er mit sich selbst sprechen, mit dem Richter, der er einmal gewesen war, mit dem Gesetz, das er verteidigt hatte. „Ich hätte auf das fehlende Protokoll bestehen können. Ich hätte auf die Vorlage der Zeugenaussagen bestehen können. Ich hätte Zeit gewinnen können, Tage, Wochen, Monate, die sie vielleicht gerettet hätten, die vielleicht nicht gereicht hätten, die nie gereicht hätten, weil Güyük entschlossen war, sie sterben zu sehen, und weil er der Khan war, und weil ich der Richter war, und weil das Gesetz in dieser Reihenfolge funktioniert."
+
+Seine Stimme brach ab. Der Raum war still, bis auf das schwache Knistern der Lampe, bis auf das ferne Geräusch der Zeltstadt, das durch die Ritzen drang.
+
+„Ich habe ihr Urteil gesiegelt", fuhr er fort, leiser jetzt, die Worte kaum hörbar. „Aber das war nicht das Schlimmste. Das Schlimmste war, dass ich wusste, was ich tat. Dass ich wusste, dass die Anklage auf Lügen beruhte. Dass ich wusste, dass das Geständnis erpresst war. Dass ich wusste, dass die Zeugen bestochen waren. Dass ich wusste, dass ich sie tötete, für eine Wahrheit, die nicht existierte, für eine Schuld, die sie nicht begangen hatte." Er öffnete die Augen, und sie waren tränenleer, trocken, ausgebrannt. „Und ich tat es trotzdem."
+
+Juvaini stand da und hörte zu. Er hörte zu, wie er die ganze Geschichte hörte, die er bereits kannte, die er bereits in Fragmenten gehört hatte, die er bereits in seinen Alpträumen durchlebt hatte, und er spürte, wie die Wut in ihm aufstieg, die Wut, die er seit Jahren unterdrückt hatte, die Wut, die er in den Westen getragen hatte, die Wut, die er in Merw, Buchara, Samarkand eingeschlossen hatte, in die Zahlen, die er korrigierte, in die Briefe, die er schrieb, in die Register, die er führte, die Wut, die er nicht fühlen durfte, weil er sie nicht fühlen konnte, weil er sie nicht fühlen wollte, weil er sie nicht fühlen durfte, weil wenn er sie fühlte, würde er zerbrechen, würde er aufhören zu schreiben, würde er aufhören zu leben, würde er aufhören zu sein, der er war, der er geworden war, der er sein musste, um zu überleben.
+
+Und dann spürte er nichts.
+
+Nichts außer einer großen, leeren Stille, die ihn ausfüllte, die ihn verschluckte, die ihn zu einem Teil der Stille machte, die zwischen den Akten lag, zwischen den Jahren, zwischen den Toten, die in den Registern standen, die er selbst geschrieben hatte.
+
+„Die Akten", sagte er. Die Stimme war klar, deutlich, die Stimme eines Schreibers, der zur Sache kam. „Ich brauche sie."
+
+Shigi sah ihn an, lange, forschend, als wüsste er nicht, was er sehen würde, als wüsste er nicht, ob der Mann vor ihm der Schreiber war, der er zu sein schien, oder etwas anderes, etwas Gefährlicheres, etwas, das er noch nicht gesehen hatte.
+
+„Warum?"
+
+Juvaini zögerte. Die Frage war einfach, und doch gab es keine einfache Antwort. Er hätte sagen können: Weil ich sie brauche, um die Geschichte zu schreiben. Er hätte sagen können: Weil sie das Einzige sind, was von ihr übrig ist. Er hätte sagen können: Weil ich wissen will, was passiert ist, weil ich verstehen will, warum ich nicht hier war, warum ich sie nicht retten konnte, warum ich nichts tun konnte, während sie starb.
+
+Aber er sagte nichts von alledem.
+
+„Ich weiß nicht", sagte er stattdessen. „Vielleicht, weil ich nicht will, dass ihre Wahrheit stirbt. Weil ich nicht will, dass sie stirbt, ohne dass jemand weiß, dass sie nicht schuldig war. Weil ich nicht will, dass sie stirbt, ohne dass jemand weiß, dass sie lebte."
+
+Shigi nickte langsam. Die Bewegung war klein, fast unsichtbar, aber sie war da, und sie bedeutete etwas.
+
+„Das Bündel", sagte er dann, und seine Hand ruhte darauf, leicht, wie ein Gruß. „Sie hat es mir gegeben. In einem Brief, den ich erst am siebten Tag nach ihrem Tod lesen durfte. Sie wusste, dass ich ihr Urteil siegeln würde, als sie den Brief schrieb. Sie wusste, dass ich sie zum Tode verurteilen würde, und sie schrieb mir trotzdem. Sie bat mich, das Bündel zu bewahren. Sie sagte, sie vertraue mir. Sie sagte, sie wisse, dass ich die Wahrheit nicht töten würde, auch wenn ich die Trägerin der Wahrheit töten ließ."
+
+Seine Stimme brach, und er verstummte.
+
+Juvaini trat näher. Er spürte die Wärme des Ofens nicht, die Kälte der Wände nicht, die Stille, die alles umgab. Er sah nur das Bündel, den Filz, das Papier darunter, die Schrift, die er kannte, die er liebte, die er für immer wiedererkennen würde, selbst wenn er blind wäre, selbst wenn er taub wäre, selbst wenn er nichts mehr hätte, nichts außer der Erinnerung an ihre Hand, die die Feder führte.
+
+„Es muss in den Westen", sagte er. Die Worte kamen schnell, dringend, die Worte eines Mannes, der keine Zeit mehr hatte, der wusste, dass die Zeit knapp war, dass die Zeit sich neigte, dass die Zeit kam, um alles zu nehmen, was noch übrig war. „Dort liest es niemand. Die Schreiber dort kennen keine persischen Gedichte. Sie kennen keine Geständnisse, keine erpressten Unterschriften, keine toten Frauen, die in Zisternen starben. Das Bündel ist dort sicher."
+
+Shigi schüttelte den Kopf. Die Bewegung war langsam, bedächtig, die Bewegung eines Mannes, der genau wusste, was er tat, der es sich genau überlegt hatte, der keine Zweifel mehr hatte.
+
+„Hier ist es tot", sagte er leise. „Tot ist sicherer als fern. Ich kenne jeden Schacht in dieser Kanzlei, jeden Spalt, jede Diele, die locker ist, jedes Loch, in das eine Rolle passt. Ich kenne die Wachen, die Schreiber, die Boten, die Diener. Ich weiß, wer spricht, und ich weiß, wer nicht spricht. Hier ist es sicher."
+
+Juvaini spürte den Widerspruch in der Brust, heiß, drängend, der Wunsch, den Westen zu erreichen, die Ferne, die Leere, die das Bündel verbergen würde, die es vergessen machen würde, die es unlesbar machen würde, für immer, für niemanden, außer ihn.
+
+„Und Güyük?", fragte er. Die Stimme war scharf, schärfer als beabsichtigt. „Wenn er die Kanzlei durchsuchen lässt? Wenn er die Akten aus 1246 und 1247 liquidieren will?"
+
+„Güyük ist tot."
+
+Juvaini erstarrte. Die Worte trafen ihn wie ein Schlag, wie ein Schlag, den er nicht erwartet hatte, der ihn unvorbereitet traf, der ihn mitten in der Bewegung stoppte.
+
+„Wann?"
+
+„Vor drei Monden. Auf dem Marsch nach Westen. Er ist gestorben, wie sein Vater starb, plötzlich, mitten in der Nacht, ohne Warnung, ohne Zeugen." Shigi sah ihn an, und in seinen Augen lag etwas, das wie Wissen aussah, wie das Wissen um Dinge, die nicht geschrieben standen, die nicht geschrieben werden durften, die nie geschrieben werden würden. „Die Ärzte sagen, sein Herz. Der Hof sagt, sein Fluch. Batu sagt, seine Zeit."
+
+Die Stille war voll, drückend, die Stille eines Raumes, in dem die Toten sprachen, in dem die Toten lebten, in dem die Toten warteten, um die Geschichte zu erzählen, die niemand hören wollte.
+
+„Und die Regentschaft?", fragte Juvaini. Die Stimme war flach, leer, die Stimme eines Schreibers, der die Antwort bereits kannte, der sie bereits in den Zahlen gesehen hatte, in den Listen der Toten, in den Chroniken der Kanzlei, die er nicht gelesen hatte, die er nicht lesen musste, die er nicht lesen durfte.
+
+„Oghul Qaimish, die Witwe. Sie regiert, wie Töregene regierte, aber ohne Töregenes Fähigkeit. Die Kanzlei sortiert sich neu. Die alten Schreiber kehren zurück. Die verbannten Gouverneure schicken Briefe. Die Prinzen sammeln sich im Osten: Möngke, Kublai, Hülegü, Ariq Böke. Sie warten."
+
+„Auf was?“
+
+„Auf den nächsten Khagan. Auf den Krieg, der kommen wird. Auf das Ende von allem, was wir kennen."
+
+Juvaini stand da und sah den alten Richter an, den Mann, der das Todesurteil gesiegelt hatte, der den Brief sieben Tage lang ungeöffnet gelassen hatte, der das Bündel bewahrt hatte, der die Akten verwaltete, der die Wahrheit kannte, und er wusste, dass die Zeit ändern würde, dass die Zeit fordern würde, dass die Zeit nehmen würde, was noch nicht genommen war.
+
+„Ich nehme die Akten", sagte er. Die Stimme war fest, fest wie die Entscheidung, die er getroffen hatte, fest wie die Jahre, die vor ihm lagen, fest wie die Pflicht, die er auf sich nahm. „Ich nehme die Akten, und ich bewahre sie in der Kanzlei von Arghun Aqa. Wenn die Zeit kommt, wenn der neue Khagan die Kanzleien säubert, wenn die alten Schreiber sterben, wenn die Rollen verbrannt werden, wenn alles verloren ist, werden die Akten noch da sein. Sie werden überleben."
+
+„Und das Bündel?“
+
+Juvaini sah das Bündel an, den Filz, das Papier, die Schrift, die er kannte. Er spürte die Schwere in der Luft, die Schwere einer Entscheidung, die er nicht treffen konnte, die er nicht treffen durfte, die er nicht treffen musste, die die Zeit für ihn treffen würde.
+
+„Das Bündel bleibt", sagte er. Die Worte kamen langsam, jedes Wort ein Abschied. „Es bleibt hier, bei Euch, zwischen den toten Akten, wo es sicher ist. Bis jemand kommt, der es zu lesen verdient. Bis jemand kommt, der es zu schätzen weiß. Bis die Zeit reif ist."
+
+Shigi sah ihn an, und in seinen Augen lag etwas, das wie Dankbarkeit aussah, wie Erleichterung, wie das Wissen, dass er sein Schweigen nicht allein tragen musste.
+
+„Es gibt einen Brief", sagte er. Die Stimme war leise, fast ein Flüstern, als fürchtete er, die Wände könnten lauschen. „Nach der Übergabe. Versiegelt."
+
+Juvaini hob den Kopf. Die Frage lag in seinen Augen, aber er stellte sie nicht.
+
+„Er liegt bei den Akten", fuhr Shigi fort. „Ich wusste nicht, wohin damit. Ich wusste nicht, ob ich ihn öffnen sollte, ob ich ihn vernichten sollte, ob ich ihn bewahren sollte. Ich ließ ihn liegen, zwischen den Jahren, zwischen den Daten, zwischen den Unterschriften, die ich selbst gesetzt hatte."
+
+„Was steht darin?“
+
+„Ich weiß es nicht. Ich habe es nicht gelesen."
+
+Die Stille zog sich, die Stille eines Raumes, in dem die Worte zwischen ihnen hingen, unausgesprochen, ungewiss, unberührt.
+
+Juvaini spürte die Schwere des Augenblicks, die Schwere der Entscheidung, die vor ihm lag, die Schwere des Briefes, den er nicht sehen durfte, den er nicht lesen durfte, den er nicht öffnen durfte, weil die Zeit noch nicht reif war, weil die Zeit noch nicht gekommen war, weil die Zeit noch fordern würde, was sie fordern musste.
+
+„Hebt ihn auf", sagte er. Die Stimme war leise, ein Flüstern, das kaum hörbar war, das kaum etwas war, das kaum etwas bedeutete, das alles bedeutete. „Hebt ihn auf für den, der die Wahrheit sucht. Für den, der sie liest, wenn die Zeit gekommen ist. Für den, der sie weiterträgt, wenn wir nicht mehr sind."
+
+Shigi nickte. Die Bewegung war langsam, die letzte Bewegung eines Mannes, der die Entscheidung getroffen hatte, der den Weg gewählt hatte, der die Konsequenzen trug.
+
+„Ich werde die Akten aus 1246 und 1247 für Euch bereitlegen", sagte er. Die Stimme war wieder flach, neutral, die Stimme eines Richters, der zur Tagesordnung überging. „Kommt morgen in die Kanzlei. Ich werde sie Euch aushändigen."
+
+Juvaini verbeugte sich knapp. Die Bewegung war formell, die letzte Bewegung eines Schreibers, der wusste, dass er gehen musste, der wusste, dass er nicht bleiben durfte, der wusste, dass die Zeit ihn forderte, der wusste, dass er gehen musste, um zu überleben, um die Wahrheit zu bewahren, um weiterzuschreiben, ohne aufzuhören, ohne zurückzublicken, ohne den Schmerz zu spüren, der in der Luft lag, der in den Worten lag, der in dem Bündel lag, das in der Ecke wartete, das wartete, das wartete, auf den Tag, an dem jemand kommen würde, der es öffnete, der es las, der es verstand, der es bewahrte.
+
+„Richter Qutuqu", sagte er. Die Stimme war ruhig, ruhiger als er erwartet hatte, ruhiger als er gefühlt hatte. „Danke."
+
+Shigi antwortete nicht. Er stand da, die Hände auf dem Bündel, die Finger gespreizt, als hielte er etwas fest, das ihm gehörte, das ihm nicht gehörte, das er nicht loslassen konnte, das er nicht loslassen durfte, das er bewahren würde, bis zum Ende, bis zu dem Tag, an dem er selbst gehen würde, an dem er selbst nichts mehr sein würde, außer einem Namen, einem Datum, einem Siegel, und dem Bündel, das er bewahrt hatte, für die, die kommen würden, für die, die lesen würden, für die, die verstehen würden.
+
+Juvaini ging.
+
+Die Kälte schlug ihm entgegen, als er die Stube verließ, die Kälte des späten Nachmittags, die Kälte der Steppe, die Kälte der Jahre, die vor ihm lagen. Er ging durch die Gänge der Kanzlei, an den Wachen vorbei, an den Schreibern, die ihn ansahen, die ihn nicht erkannten, die ihn vergessen würden, sobald er verschwunden war.
+
+Er spürte nichts.
+
+Nichts außer der Leere in der Brust, der Leere, die er trug, der Leere, die er füllen würde mit Zahlen, mit Briefen, mit Registern, mit den Listen der Toten, mit den Listen der Lebenden, mit den Listen derer, die es nicht mehr gab.
+
+Die Sonne senkte sich über Karakorum, und die Schatten wurden länger, und die Kälte wurde tiefer, und die Stille wurde voll, und Juvaini dachte an den Brief, den Shigi bewahrte, an den Brief, der versiegelt war, der ungeöffnet war, der wartete, auf den Leser, der kommen würde, auf die Zeit, die reif war, auf die Wahrheit, die weiterleben würde.
+
+Er dachte an das Bündel in der Ecke, zwischen den toten Akten, an den Filz, der es umhüllte, an die Schrift darunter, an ihre Hand, die die Feder führte, an ihre Stimme, die er nicht mehr hörte, an ihre Worte, die er nicht mehr las, an ihre Liebe, die er nicht mehr fühlte, die er nicht mehr fühlen durfte, die er bewahren würde, in den Zahlen, in den Briefen, in den Registern, in den Listen der Toten, in den Listen der Lebenden, in den Listen derer, die es nicht mehr gab.
+
+Er schrieb weiter.
+
+Ohne aufzuhören, ohne zurückzublicken, ohne den Schmerz zu spüren, der in der Luft lag, der in den Worten lag, der in dem Bündel lag, das wartete, das wartete, das wartete, auf den Tag, an dem die Zeit kommen würde, an dem die Zeit fordern würde, an dem die Zeit nehmen würde, was noch nicht genommen war.
+
+Der Morgen kam mit einem Himmel aus hellem, kaltem Grau, dem ersten Licht, das ohne Farbe über der Zeltstadt lag. Juvaini stand in der Kanzlei, vor den Regalen, die Shigi ihm geöffnet hatte, und blätterte durch die Akten von 1247, die der alte Richter ihm an diesem Morgen ausgehändigt hatte.
+
+Die Blätter waren vergilbt, die Ränder eingerissen, die Schrift an manchen Stellen verwischt. Er las das Vernehmungsprotokoll vom ersten Tag, die Fragen und die Antworten, die Leere zwischen den Zeilen, die keine Fragen mehr zuließ. Er las die Unterschrift, die erpresst war, die zittrig war, die nicht ihre war, die die letzte war, die die einzige war, die die war, die er bewahren würde, für immer, für niemanden, für die Zeit, die kommen würde.
+
+Er las und las und las, stundenlang, als die Sonne höher stieg, als die Schatten kürzer wurden, als die Kälte nachließ, als die Stille, die ihn umgab, voller wurde, voller als die Worte, die er las, voller als die Jahre, die er getragen hatte, voller als die Leere, die in ihm war.
+
+Am späten Nachmittag schloss er die letzte Akte, legte sie zurück in das Regal, und stand auf. Die Bewegung war langsam, vorsichtig, die Bewegung eines Mannes, der wusste, dass die Wahrheit, die er gelesen hatte, nicht geändert werden konnte, nicht gelöscht werden konnte, nicht ungeschehen gemacht werden konnte.
+
+Er trat an die Tür, die zur Kanzlei führte, und blieb stehen, die Hand auf dem Filz, der den Eingang bedeckte.
+
+„Richter Qutuqu", die Stimme war leise, aber durch die Stille der Kanzlei drang sie bis zur Tür, die sich nicht bewegte, die sich nicht öffnete, die sich nicht schloss.
+
+„Ich werde die Unwahrheit bewahren, damit die Wahrheit eines Tages sichtbar wird."
+
+Keine Antwort.
+
+Eine Stimme, die sich nicht in den Gängen der Kanzlei verlor, nicht im Lärm der Zeltstadt, nicht im Wind, der von den Hügeln herüberwehte.
+
+„Ich werde das Bündel nicht anrühren", die Worte kamen heiß und auf einmal, wie eine Flut, die sich nicht zurückhalten ließ. „Ich werde es verstecken, bis die Zeit reif ist. Bis jemand kommt, der es zu lesen verdient. Bis die Leser kommen, die es zu verstehen vermögen."
+
+Stille.
+
+„Und wenn niemand kommt? Wenn die Leser nie kommen, die das Bündel zu öffnen verstehen?“
+
+Die Stimme kam von der Tür, die sich unbemerkt geöffnet hatte, die Stimme von Shigi Qutuqu, der dort stand, die Hände in den Ärmeln, das Gesicht leer, die Augen dunkel.
+
+„Wenn niemand kommt, der die Wahrheit zu verstehen vermag", sagte Juvaini, die Stimme leise, die Stimme eines Schreibers, der die Antwort wusste, der sie gewusst hatte, bevor er die Frage hörte, der sie bewahren würde, bis zum Ende, „dann wird das Bündel bleiben. Und die Wahrheit wird bleiben. Und die Welt, die sie nicht lesen kann, wird eine ärmere Welt sein, eine Welt, die ärmer ist um das, was sie hätte sein können, um das, was sie nicht geworden ist, um die Stimme der Toten, die nicht zu den Lebenden kommt."
+
+Shigi sah ihn lange an, die Stirn in Falten, der Blick abwesend und doch voller Spannung.
+
+„Dann sind wir uns einig", sagte er.
+
+Juvaini trat einen Schritt zur Seite, die Hand auf dem Filz, der den Eingang bedeckte, den er noch nicht berührt hatte, den er nicht berühren würde, bis die Zeit reif war, bis die Leser kamen, bis die Welt bereit war, die Wahrheit zu empfangen, die in dem Bündel lag, die in den Akten lag, die in den Jahren lag, die vor ihnen lagen, die kommen würden, die fordern würden, die nehmen würden, was noch nicht genommen war.
+
+„Ja", sagte er. „Wir sind uns einig."
+
+Shigi verbeugte sich knapp, die Bewegung formell und endgültig, die Bewegung eines Mannes, der wusste, dass die Zeit kommen würde, dass die Zeit fordern würde, dass die Zeit nehmen würde, was noch nicht genommen war, und der bereit war, sie kommen zu lassen.
+
+Juvaini ging.
+
+Die Kälte schlug ihm entgegen, die Kälte des späten Nachmittags, die Kälte der Steppe, die Kälte der Jahre, die vor ihm lagen. Er ging durch die Gänge der Kanzlei, an den Wachen vorbei, an den Schreibern, die ihn ansahen, die ihn nicht erkannten, die ihn vergessen würden, sobald er verschwunden war.
+
+Die Sonne senkte sich über Karakorum, und die Schatten wurden länger, und die Kälte wurde tiefer, und die Stille wurde voll, und Juvaini dachte an den Brief, den Shigi bewahrte, an den Brief, der versiegelt war, der ungeöffnet war, der wartete, auf den Leser, der kommen würde, auf die Zeit, die reif war, auf die Wahrheit, die weiterleben würde.
+
+Er dachte an das Bündel in der Ecke, zwischen den toten Akten, an den Filz, der es umhüllte, an die Schrift darunter, an ihre Hand, die die Feder führte, an ihre Stimme, die er nicht mehr hörte, an ihre Worte, die er nicht mehr las, an ihre Liebe, die er nicht mehr fühlte, die er nicht mehr fühlen durfte, die er bewahren würde, in den Zahlen, in den Briefen, in den Registern, in den Listen der Toten, in den Listen der Lebenden, in den Listen derer, die es nicht mehr gab.
+
+Er schrieb weiter.
+
+Ohne aufzuhören, ohne zurückzublicken, ohne den Schmerz zu spüren, der in der Luft lag, der in den Worten lag, der in dem Bündel lag, das wartete, das wartete, das wartete, auf den Tag, an dem die Zeit kommen würde, an dem die Zeit fordern würde, an dem die Zeit nehmen würde, was noch nicht genommen war.
+
+Der Morgen kam mit einem Himmel aus hellem, kaltem Grau, dem ersten Licht, das ohne Farbe über der Zeltstadt lag. Juvaini stand in der Kanzlei, vor den Regalen, die Shigi ihm geöffnet hatte, und blätterte durch die Akten von 1247, die der alte Richter ihm an diesem Morgen ausgehändigt hatte.
+
+Die Blätter waren vergilbt, die Ränder eingerissen, die Schrift an manchen Stellen verwischt. Er las das Vernehmungsprotokoll vom ersten Tag, die Fragen und die Antworten, die Leere zwischen den Zeilen, die keine Fragen mehr zuließ. Er las die Unterschrift, die erpresst war, die zittrig war, die nicht ihre war, die die letzte war, die die einzige war, die die war, die er bewahren würde, für immer, für niemanden, für die Zeit, die kommen würde.
+
+Er las und las und las, stundenlang, als die Sonne höher stieg, als die Schatten kürzer wurden, als die Kälte nachließ, als die Stille, die ihn umgab, voller wurde, voller als die Worte, die er las, voller als die Jahre, die er getragen hatte, voller als die Leere, die in ihm war.
+
+Am späten Nachmittag schloss er die letzte Akte, legte sie zurück in das Regal, und stand auf. Die Bewegung war langsam, vorsichtig, die Bewegung eines Mannes, der wusste, dass die Wahrheit, die er gelesen hatte, nicht geändert werden konnte, nicht gelöscht werden konnte, nicht ungeschehen gemacht werden konnte.
+
+Er trat an die Tür, die zur Kanzlei führte, und blieb stehen, die Hand auf dem Filz, der den Eingang bedeckte.
+
+„Richter Qutuqu", sagte er leise, die Stimme ein Flüstern, das kaum hörbar war, das kaum etwas war, das kaum etwas bedeutete, das alles bedeutete. „Ich werde die Akten bewahren. Ich werde die Wahrheit bewahren. Ich werde sie weitertragen, bis zum Ende, bis nichts mehr bleibt, außer Papier, außer Worten, außer ihr, außer uns, außer der Erinnerung an das, was wir verloren haben."
+
+Er wartete.
+
+Keine Antwort.
+
+Die Stille blieb, die Stille eines Raumes, in dem die Toten sprachen, in dem die Toten lebten, in dem die Toten warteten, um die Geschichte zu erzählen, die niemand hören wollte.
+
+Juvaini öffnete den Filz, trat hinaus in die Kälte, in die Dämmerung, in die Jahre, die vor ihm lagen, in die Jahre, die er tragen würde, in die Jahre, die er fordern würde, in die Jahre, die er nehmen würde, was noch nicht genommen war.
+
+Er ging.
+
+Und hinter ihm blieb die Kanzlei zurück, still, kalt, voller Akten, voller Jahre, voller Wahrheiten, die warteten, auf den Tag, an dem sie gelesen wurden, an dem sie verstanden wurden, an dem sie weitergingen, in die nächste Hand, in die nächste Generation, in die nächste Zeit, die kommen würde, um alles zu fordern, was noch nicht gefordert war.
+
+Das Bündel lag in der Ecke, zwischen den toten Akten, und wartete.
+
+---
+
+## 41. Der Königsmacher
+
+Der Morgen kam spät im Sommer, und als Shigi Qutuqu aus seinem Zelt trat, sah er die Ebene zum ersten Mal mit den Augen eines Mannes, der wusste, wie das Stück endete.
+
+Vierzig Jahre am Hof. Vierzig Jahre Akten, Urteile, Siegel. Vierzig Jahre, in denen er geglaubt hatte, dass die Welt der Mongolen auf Gesetz und Herkommen beruhte, auf dem Recht des Blutes und dem Eid der Fürsten. Jetzt stand er hier, am Rand einer Steppe, die er nicht kannte, und erkannte die Wahrheit, die er ein Leben lang übersehen hatte: Es gab kein Recht. Es gab nur die Erzählung, die der Mächtigste für warhielt.
+
+Das Kuriltai-Lager erstreckte sich vor ihm wie eine Stadt aus Zelten und Rauch, eine zweite Karakorum, errichtet auf toluidischem Boden, fern von den Gräbern der Vorfahren, fern von den Geistern, die dort wohnten. Warum hier? Weil hier niemand别的 Geister hatte. Weil hier nur die lebenden Zelte standen, nur die Stimmen derer, die gekommen waren, um zu sehen, was schon entschieden war.
+
+Shigi ging langsam durch das Lager, die Schritte schwer unter dem Gewicht des Wissens, das er trug. Er sah die Gesichter der Fürsten, die ihn ansahen, manche mit Neugier, manche mit Furcht, manche mit der leeren Höflichkeit von Männern, die bereits wussten, dass ihre Stimme nichts bedeutete. Er kannte diese Gesichter. Er hatte sie in vierzig Jahren tausendmal gesehen, in tausend Versammlungen, vor tausend Urteilen. Aber heute sah er sie zum ersten Mal wirklich.
+
+Ein junger Schreiber kam ihm entgegen, ein Junge mit scharfen Augen und Händen, die noch nicht wussten, wie man eine Feder hielt. Er verneigte sich tief.
+
+Richter Qutuqu. Prinz Möngke erwartet Euch im großen Zelt.
+
+Shigi nickte. Der Junge ging voraus, und Shigi folgte ihm durch das Gewirr aus Zelten und Menschen, durch den Geruch von Rauch und Pferd und Staub, durch das Stimmengewirr von Sprachen, die er kannte und die er nicht kannte, durch das alles, was er ein Leben lang als Normalität betrachtet hatte und das er heute als Kulisse erkannte.
+
+Das große Zelt war weiß, weiß wie die Knochen der Erde, weiß wie die Seele dessen, der keine hatte. Shigi trat ein, und die Stille fiel über ihn wie ein Tuch.
+
+Möngke saß in der Mitte des Zeltes, auf einem niedrigen Thron, den Shigi noch nie gesehen hatte. Er war ein großer Mann, breitschultrig, mit einem Gesicht wie aus Stein gemeißelt, mit Augen wie aus Wasser, kalt und tief und undurchdringlich. Er trug keine Krone, keine Robe, kein Zeichen der Macht. Er trug nur das Gewand eines Kriegers, einfach, schlicht, und doch war die Luft um ihn herum dichter als die Luft um jeden anderen Mann im Zelt.
+
+Sorkaktanis ältester Sohn. Der Mann, der kommen würde, um das Reich zu führen.
+
+Neben ihm standen seine Brüder, Kublai und Hülegü und Ariq Böke, vier Söhne einer Frau, die niemand übersehen durfte, vier Schwerter einer Mutter, die niemand unterschätzen durfte. Sie standen still, die Hände an den Seiten, die Gesichter ausdruckslos, und doch war die Stille um sie herum die Stille von Waffen, die noch nicht gezogen waren.
+
+Und vor dem Thron, im Kreis um ihn herum, standen die Fürsten. Shigi sah sie alle, sah ihre Gesichter, sah ihre Hände, sah die Bündel in ihren Augen, die aussagten, was ihre Münder verschwiegen.
+
+Die ögedeidischen Prinzen standen am Rand des Kreises, weit vom Thron entfernt, so weit wie möglich, ohne den Anschein der Flucht zu erwecken. Shigi sah ihre Gesichter, sah die Wut, die in ihnen brannte, sah die Furcht, die sie zu verbergen suchten. Sie waren die Erben eines toten Khans, die Söhne und Enkel eines Mannes, der einst das Reich regiert hatte, und jetzt standen sie hier, im Schatten eines Zeltes, und warteten auf das Urteil, das bereits gesprochen war.
+
+Batu war nicht da. Der Königsmacher, der alles entschied, war nicht da. Statt seiner waren seine Brüder gekommen, Orda und Berke und die anderen, sie standen im inneren Kreis, dicht bei Möngke, und ihre Anwesenheit sagte alles, was gesagt werden musste.
+
+Shigi trat in den Kreis, langsam, vorsichtig, die Schritte eines Mannes, der wusste, dass jeder Schritt zählte, dass jedes Wort zählte, dass alles, was er tat und sagte, in den Akten festgehalten werden würde, in den Akten, die er ein Leben lang geführt hatte und die heute, in diesem Moment, ihre Bedeutung verloren.
+
+Er blieb am Rand stehen, in der Nähe der ögedeidischen Prinzen, in der Nähe derer, die verlieren würden. Ein alter Mann neben ihm nickte ihm zu, ein Fürst aus dem Westen, ein Mann, den Shigi seit Jahren kannte, ein Mann, der ihm einmal das Leben gerettet hatte, als die Wölfe näherrückten.
+
+Qutuqu, flüsterte der alte Fürst. Was wird geschehen?
+
+Shigi sah ihn an, sah die Furcht in seinen Augen, sah die Hoffnung, die noch nicht gestorben war.
+
+Nichts, antwortete er leise. Nichts, das nicht bereits geschehen ist.
+
+Der alte Fürst verstand nicht, aber er nickte, und Shigi wandte sich ab, wandte sich dem Thron zu, wandte sich dem Mann, der dort saß und schwieg.
+
+Die Stunden vergingen, langsam, schleichend, wie das Gift, das Ögedei getötet hatte, wie die Zeit, die alle Körper fraß. Die Fürsten sprachen, einer nach dem anderen, und ihre Worte waren die Worte, die man von ihnen erwartete, die Worte, die man ihnen gegeben hatte, die Worte, die seit Wochen in ihren Zelten geübt worden waren, die Worte, die keine Worte waren, sondern nur Geräusche, nur Schall, nur die Begleitung einer Musik, die bereits komponiert war.
+
+Möngke, sagten sie. Möngke, der Sohn Toluis, der Enkel des Gründers, der Mann, der das Reich einen wird.
+
+Und Möngke schwieg, hörte zu, nickte manchmal, manchmal nicht, und sein Gesicht verriet nichts, sein Gesicht war wie die Steppe im Winter, leer und weiß und undurchdringbar.
+
+Shigi sah ihm zu und erkannte etwas, das er bei keinem anderen Mann gesehen hatte: die vollkommene Abwesenheit von Zweifel. Möngke zweifelte nicht. Er wusste, dass er Khan werden würde, nicht weil die Fürsten es wollten, sondern weil er es wollte, weil er es решил, weil die Entscheidung bereits gefallen war, bevor das Kuriltai begonnen hatte, bevor die Zelte aufgeschlagen worden waren, bevor die Fürsten ihre Pferde bestiegen hatten, um hierher zu reiten. Das Kuriltai war nur noch die Zeremonie, die Bestätigung, die Unterschrift unter einem Vertrag, den niemand gelesen hatte.
+
+Und dann, am späten Nachmittag, als die Sonne tiefer sank und die Schatten länger wurden, als die Luft kühler wurde und das Licht goldener, stand Orda auf, der ältere Bruder Batus, und sprach die Worte, die das Ende besiegelten.
+
+Wir, die Söhne des Dschingis Khan, wir, die Brüder des Krieges, wir, die Herren der Goldenen Horde, wir bieten dir, Möngke, Sohn Toluis, die Herrschaft über das Reich.
+
+Die Worte waren einfach, schlicht, und doch trugen sie das Gewicht von tausend Jahren, von Millionen Leben, von einer Welt, die sich veränderte, obwohl sie aussah wie zuvor.
+
+Möngke stand auf, langsam, bedächtig, die Bewegung eines Mannes, der seine Zeit kannte, der wusste, wann jede Geste zu machen war, der die Choreografie des Unvermeidlichen beherrschte. Er sah die Fürsten an, einen nach dem anderen, und seine Augen blieben bei jedem für einen Moment, bei jedem wurde etwas gesprochen, das keine Worte waren.
+
+Ich höre eure Stimme, sagte er, und seine Stimme war tief und fest und ohne Modulation, wie der Bass eines Trommelschlags, wie der Herzschlag der Erde. Ich höre eure Stimme und ich werde antworten, wie es das Gesetz verlangt, wie es das Blut befiehlt, wie es der Wille des Himmels bestimmte, bevor die Berge aus dem Meer stiegen.
+
+Er schwieg einen Moment, einen langen Moment, in dem die Stille so schwer war, dass Shigi sie auf seinen Schultern spürte, in seinem Nacken, in seinem Rücken, in jedem Teil seines Körpers, der ein Leben lang das Gesetz gesucht hatte und es heute zum ersten Mal vermisste.
+
+Dann, endlich, sprach Möngke weiter.
+
+Ich nehme an.
+
+Zwei Worte. Zwei kleine Worte, die das Reich teilten, die die Welt teilten, die alles änderten, obwohl sie so klangen wie alle anderen Worte, obwohl sie so aussahen wie alle anderen Worte, obwohl sie in den Akten stehen würden wie alle anderen Worte, die je gesprochen worden waren.
+
+Die Fürsten knieten, einer nach dem anderen, wie Halme, die sich vor dem Wind neigten, wie Gras unter dem Huf eines Pferdes, wie alles, was je vor der Macht gebeugt worden war und je vor ihr beugen würde. Shigi kniete mit ihnen, langsam, vorsichtig, die Knie in den Staub pressend, die Hände auf den Oberschenkeln, den Blick auf den Boden gerichtet, auf die Erde, die alle Körper aufnahm, alle Throne, alle Siege, alle Niederlagen.
+
+Und als er kniete, sah er etwas, das er nie vergessen würde: die Gesichter der ögedeidischen Prinzen. Sie knieten nicht. Sie standen am Rand des Kreises, reglos, starr, und ihre Gesichter waren wie aus Stein gemeißelt, wie die Gesichter von Männern, die gerade erfahren hatten, dass ihre Welt zu Ende war und dass kein Wort, keine Geste, keine Macht der Welt sie retten konnte.
+
+Shigi sah sie an und erkannte sich selbst, sah das, was er ein Leben lang gewesen war und was er heute zum ersten Mal verstand: ein Mann, der die Regeln befolgte, weil er glaubte, dass sie ihn schützten, der die Gesetze hütete, weil er glaubte, dass sie heilig waren, der Akten führte, weil er glaubte, dass sie die Wahrheit bewahrten. Und jetzt stand er hier, am Rand einer neuen Welt, und wusste, dass alles, was er geglaubt hatte, eine Lüge war, eine Erzählung, eine Geschichte, die die Mächtigen erzählten, um die Schwachen zu beruhigen, um die Zweifler zu beruhigen, um die Welt in der Ordnung zu halten, die ihnen gefiel.
+
+Die Krönung dauerte Stunden, Zeremonien, die Shigi kannte und die er nicht kannte, Worte in Sprachen, die er verstand und die er nicht verstand, Gesten, die er kannte und die er nicht kannte. Er stand und kniete und stand wieder, wie eine Marionette, wie eine Figur in einem Spiel, dessen Regeln er erst jetzt zu begreifen begann.
+
+Als die Sonne unterging, als die ersten Sterne erschienen, als die Fackeln entzündet wurden und das Lager in orangefarbenes Licht tauchten, war Möngke Khan. Der Mann, der gesiegt hatte, ohne zu kämpfen, der herrschen würde, ohne zu zweifeln, der regieren würde, mit der Klarheit eines Mannes, der wusste, was er wollte und der wusste, wie er es nehmen würde.
+
+Shigi ging durch das Lager, allein, die Schritte schwer, die Gedanken schwerer. Er ging an den Zelten vorbei, an den Feuerstellen, an den Menschen, die feierten oder tanzten oder weinten oder schwiegen, an allem, was ein Leben ausmachte und das heute seine Bedeutung verloren hatte.
+
+Er blieb vor seinem eigenen Zelt stehen, dem kleinen Zelt, das er seit Jahren bewohnte, dem Zelt eines Mannes, der wenig brauchte und wenig hatte und dem das Wenige heute nichts mehr bedeutete. Er blieb stehen und sah in die Dunkelheit, in die Sterne, in die Ewigkeit, die über ihm lag wie ein Tuch aus Licht und Schatten.
+
+Vierzig Jahre.
+
+Vierzig Jahre Akten, Urteile, Siegel. Vierzig Jahre, in denen er geglaubt hatte, dass das Recht eine Kraft war, eine heilige Kraft, eine Kraft, die über den Menschen stand, über den Königen, über den Khans, über allen, die glaubten, dass ihre Macht ihnen gehörte, weil sie stark waren oder glücklich oder zur rechten Zeit am rechten Ort.
+
+Jetzt wusste er es besser.
+
+Das Recht war keine Kraft. Das Recht war eine Geschichte, eine Erzählung, eine Behauptung, die nur galt, solange die Mächtigen sie stützten, die nur galt, solange die Sieger sie aussprachen, die nur galt, solange die neue Generation bereit war, sie zu wiederholen, ohne zu wissen, dass sie eine Lüge war, ohne zu wissen, dass die Wahrheit, die sie behauptete, nur die Wahrheit der Sieger war, nur die Wahrheit derer, die das letzte Wort hatten.
+
+Er dachte an die Chronik, die er ein Leben lang geführt hatte, das Buch, das er für die Nachwelt schrieb, das Buch, das die Wahrheit bewahren sollte, das Buch, das er in der Steppe versteckt hatte, in der Erde, bei den Gräbern der Vorfahren, wo niemand es finden würde, wo niemand es lesen würde, wo es warten würde, auf die Zeit, die kommen würde, auf die Generationen, die kommen würden, auf die Wahrheit, die er bewahrt hatte, obwohl er wusste, dass die Wahrheit nur eine Behauptung war, nur eine Erzählung, nur ein Schatten, geworfen von der Macht, die sie erschaffen hatte.
+
+Was würde aus seinen Akten werden? Was würde aus seinen Urteilen werden? Was würde aus dem blau-weißen Buch werden, das er ein Leben lang geführt hatte, das Buch der Gesetze, das Buch der Entscheidungen, das Buch eines Mannes, der geglaubt hatte, dass seine Worte Bedeutung hatten?
+
+Er wusste es.
+
+Sie würden zu Lehrstücken werden. Sie würden zu Beispielen werden, zu Geschichten, die die neuen Herrscher erzählten, um zu erklären, warum die alte Ordnung gefallen war und die neue aufgestiegen war, warum die Söhne Ögedeis zu Verlierern geworden waren und die Söhne Toluis zu Siegern, warum das Recht, das Shigi ein Leben lang gedient hatte, nur ein Schatten war, nur ein Name, nur eine Hülle, gefüllt mit dem, was die Mächtigen hineinlegten.
+
+Er trat in sein Zelt, langsam, vorsichtig, die Glieder steif, das Herz schwerer als je zuvor. Er setzte sich auf seinen Schlafplatz, auf das Fell, das er seit Jahren hatte, auf das Fell eines Tieres, das er nicht getötet hatte, das für ihn getötet worden war, wie so vieles in seinem Leben, wie sein Platz am Hof, wie sein Siegel, wie seine Stimme, wie alles, was er für sein eigen gehalten hatte und das heute nur noch eine Erinnerung war, eine Erzählung, eine weitere Behauptung in einem Meer von Behauptungen.
+
+Er griff nach dem Beutel neben seinem Kopf, dem Beutel, den er immer bei sich trug, dem Beutel, der die letzten Dokumente enthielt, die er nicht weggeworfen hatte, die er nicht verbrannt hatte, die er nicht in der Steppe vergraben hatte. Er öffnete ihn, langsam, vorsichtig, und zog ein einzelnes Blatt heraus, vergilbt, fleckig, ein Fragment einer Akte, die er vor Jahren geschrieben hatte, eine Akte, die er vergessen hatte, eine Akte, die er jetzt wiederfand.
+
+Er las die Worte, die er selbst geschrieben hatte, vor Jahren, in einer Zeit, die ihm jetzt wie eine andere Welt erschien, wie ein anderes Leben, wie eine andere Geschichte.
+
+Die Erbfolge ist das Fundament des Reiches, las er. Ohne klare Nachfolge zerfällt die Ordnung, zerfällt das Gesetz, zerfällt die Welt. Der Richter muss die Erbfolge schützen, muss sie bezeugen, muss sie bewahren, damit die Wahrheit nicht verloren geht, damit die Macht nicht in die falschen Hände fällt, damit das Reich überdauert, Generation um Generation, wie ein Strom, der nie austrocknet.
+
+Er lachte, leise, bitter, ein Lachen ohne Freude, ohne Schmerz, nur ein Lachen, das alles sagte, was gesagt werden musste.
+
+Die Wahrheit. Was wusste er von der Wahrheit? Was wusste er von dem, was wirklich geschehen war, in der Nacht, in der Ögedei starb, in den Jahren danach, in all den Momenten, in denen die Mächtigen ihre Entscheidungen getroffen hatten, ihre Geschichten erzählt hatten, ihre Wahrheiten geschaffen hatten? Er hatte geglaubt, dass er die Wahrheit kannte, dass er sie sah, dass er sie festhielt, in seinen Akten, in seinem blau-weißen Buch, in seinem Herzen. Aber die Wahrheit, die er kannte, war nur die Wahrheit derer, die überlebt hatten, nur die Wahrheit der Sieger, nur die Wahrheit einer bestimmten Version der Geschichte, einer Version, die morgen vergessen sein würde, wenn die neuen Sieger ihre eigene Wahrheit erzählten.
+
+Er legte das Blatt zurück in den Beutel, verschnürte ihn, legte ihn neben seinen Kopf, neben das Kissen, das er nie benutzte, neben das Fell, das er nie mochte, neben alles, was er ein Leben lang gesammelt hatte und das heute nur noch Ballast war, nur noch Erinnerung, nur noch der Schatten einer längst vergangenen Zeit.
+
+Er lag still, die Augen offen, sah die Dunkelheit über sich, sah die Sterne durch das Loch im Dach des Zeltes, sah das Licht, das von nirgendwo kam und überall war, das Licht, das dieselbe Wahrheit war wie vor tausend Jahren und in tausend Jahren sein würde, das Licht, das sich nicht änderte, obwohl die Welten sich änderten, obwohl die Reiche fielen und stiegen, obwohl die Menschen glaubten, dass ihre kleinen Geschichten Bedeutung hatten.
+
+Schlaf kam nicht, Schlaf kam nie, wenn die Wahrheit zu schwer war, wenn die Nacht zu lang war, wenn das Herz zu voll war von allem, was es nicht sagen konnte, nicht schreiben konnte, nicht bewahren konnte, obwohl es ein Leben lang genau das getan hatte.
+
+Und in der Dunkelheit, in der Stille, in der Nacht, die keine Antworten hatte, dachte er an die Worte, die er heute gehört hatte, an die Worte, die er ein Leben lang geglaubt hatte, an die Worte, die er heute zum ersten Mal verstand.
+
+Erbfolge ist nicht Recht. Erbfolge ist Erzählung. Wer die Fürstenliste kontrolliert, kontrolliert den Thron. Wer den Thron kontrolliert, kontrolliert die Wahrheit. Und wer die Wahrheit kontrolliert, der ist Gott, der ist Kaiser, der ist Khan, der ist alles, was je war und je sein wird, in dieser Welt und in jeder anderen, die je erschaffen wurde oder je erschaffen werden wird.
+
+Er schloss die Augen, endlich, endlich, und die Dunkelheit kam, sanft, gnadenlos, die Dunkelheit, die alle Wahrheiten löschte, alle Erzählungen, alle Siege, alle Niederlagen, alles, was je gewesen war und je sein würde.
+
+Am nächsten Morgen stand er auf, langsam, vorsichtig, die Glieder steif, das Herz schwerer als je zuvor. Er wusch sein Gesicht im Wasser, das ein Diener gebracht hatte, er aß das Brot, das ein Diener gebracht hatte, er kleidete sich an, langsam, bedächtig, die Robe eines Richters, die er seit Jahren trug, die er morgen vielleicht nicht mehr tragen würde, die er vielleicht nie wieder tragen würde, wenn die neue Kanzlei kam, wenn die neuen Männer kamen, wenn die neuen Wahrheiten kamen, um seine alten Wahrheiten zu ersetzen.
+
+Er trat aus dem Zelt, in den Morgen, in das Licht, in den Tag, der kommen würde, der kommen musste, der kommen würde, ob er wollte oder nicht.
+
+Das Lager war still, müde von der Feier, erschöpft von der Nacht. Die Menschen gingen langsam, die Gesichter noch halb im Schlaf, die Schritte schwer, als trügen sie das Gewicht von allem, was gestern geschehen war und was heute geschehen würde.
+
+Shigi ging durch das Lager, zum großen Zelt, zum Ort, an dem er gestanden hatte, an dem er gekniet hatte, an dem er die Welt hatte untergehen sehen, ohne dass ein Laut zu hören gewesen war. Das Zelt war leer jetzt, die Throne fortgeräumt, die Teppiche zusammengerollt, die Zeichen der Macht verschwunden, als wären sie nie dagewesen, als wäre gestern ein Traum gewesen, ein Albtraum, eine Geschichte, die jemand anderes erzählt hatte.
+
+Aber es war kein Traum gewesen. Shigi wusste es, Shigi wusste es besser als jeder andere, weil er der Mann war, der das Gesetz gehütet hatte, der der Mann war, der die Akten geführt hatte, der der Mann war, der die Wahrheit hatte bewahren sollen und stattdessen die Lüge hatte bewahrt, ein Leben lang, bis heute, bis zu diesem Moment, in dem er zum ersten Mal verstand, dass es keine Wahrheit gab, dass es nur Siege gab, dass es nur das gab, was die Mächtigen entschieden, was die Sieger behaupteten, was die neue Generation glauben würde, weil sie es glauben musste, weil die alternative hieß, den Boden unter den Füßen zu verlieren, hieß, in ein Nichts zu fallen, hieß, zu erkennen, dass alles, was je gewesen war, nur eine Geschichte war, nur eine Behauptung, nur ein Schatten, geworfen von der Sonne, die selbst nur ein Schatten war, geworfen von einer Wahrheit, die niemand kannte, die niemand sehen konnte, die niemand bewahren konnte, nicht einmal ein Mann, der sein ganzes Leben damit verbracht hatte, genau das zu tun.
+
+Er blieb stehen, mitten im Lager, mitten im Nichts, mitten in der Leere, die er heute zum ersten Mal fühlte, zum ersten Mal sah, zum ersten Mal verstand. Er sah die Menschen um ihn herum, die ihm aus dem Weg gingen, die ihn nicht ansahen, die taten, als wäre er nicht da, als wäre er nie da gewesen, als wäre er nur eine weitere Figur in einer Geschichte, die nicht seine Geschichte war, die nie seine Geschichte gewesen war.
+
+Und dann sah er sie, die neuen Männer, die junge Kanzlei, die Männer, die Möngke mitgebracht hatte, die Männer, die die Akten führen würden, die Urteile schreiben würden, die Wahrheiten schaffen würden, in den Jahren, in den Jahrzehnten, in den Generationen, die kommen würden. Sie standen am Rand des Lagers, in der Nähe der Pferde, in der Nähe der Waffen, und sie sahen ihn an, mit Augen, die keine Geschichte kannten, die nur die Zukunft sahen, nur das, was kommen würde, nur das, was sie bauen würden, Stein für Stein, Akte für Akte, Lüge für Lüge, Wahrheit für Wahrheit, bis das neue Reich stand, bis die neue Wahrheit fest war, bis die neue Geschichte so fest war, dass niemand mehr wusste, dass es jemals anders gewesen war.
+
+Einer von ihnen, ein junger Mann mit scharfen Augen und schmalen Lippen, trat vor, verneigte sich tief, zu tief, höhnisch tief.
+
+Richter Qutuqu, sagte er. Die neue Kanzlei wird in zwei Tagen ihre Arbeit aufnehmen. Wir würden uns geehrt fühlen, wenn Ihr unsere Gäste wäret, wenn Ihr uns die alten Akten übergeben würdet, die Akten des vergangenen Kuriltai, die Akten der Thronfolge, die Akten, die Ihr ein Leben lang geführt habt. Wir sind sicher, dass sie uns von großem Nutzen sein werden, bei der Einrichtung der neuen Ordnung, bei der Sicherung der neuen Wahrheit, bei der Gründung des neuen Reiches.
+
+Shigi sah ihn an, sah die Jugend in seinem Gesicht, sah die Kälte in seinen Augen, sah die Zukunft, die hinter ihm stand, riesig, unvermeidlich, unaufhaltsam. Er sah den jungen Mann und erkannte sich selbst, sah das, was er einst gewesen war, sah das, was er nie wieder sein würde, sah das, was er verloren hatte, an dem Tag, an dem er zum ersten Mal verstanden hatte, dass das Recht nur eine Erzählung war, dass die Wahrheit nur eine Behauptung war, dass alles, was er ein Leben lang geglaubt hatte, nur Sand war, nur Asche, nur Staub, aufgewirbelt von den Hufen der Pferde, die in die Zukunft ritten, ohne sich umzudrehen, ohne zurückzublicken, ohne zu wissen, dass sie über die Gräber von allem ritten, was je gewesen war.
+
+Er wird kommen, sagte er, die Stimme ruhig, die Worte einfach, die Wahrheit, die er heute zum ersten Mal aussprach, ohne Zorn, ohne Schmerz, nur mit der Klarheit eines Mannes, der endlich verstanden hatte, was er ein Leben lang nicht hatte sehen wollen.
+
+Er wird kommen, wiederholte er, leiser diesmal, zu sich selbst, zu den Geistern, die um ihn herum standen, zu den Toten, die er ein Leben lang hatte ruhen lassen, zu den Wahrheiten, die er ein Leben lang hatte bewahren wollen und die heute, in diesem Moment, zu Staub wurden, zu Asche, zu nichts, zu allem, was je gewesen war und je sein würde, in dieser Welt und in jeder anderen, die je erschaffen wurde oder je erschaffen werden wird.
+
+Er wandte sich ab, ging weiter, durch das Lager, durch die Menschen, durch die Zelte, durch alles, was ein Leben ausgemacht hatte und das heute nur noch Erinnerung war, nur noch Schatten, nur noch das, was kam, wenn die Sonne unterging und die Dunkelheit kam und die Wahrheit endlich sprach, endlich schrie, endlich weinte, in der Stille, in der Nacht, in dem Nichts, das übrig blieb, wenn alles andere genommen war.
+
+Die neue Kanzlei.
+
+Er hatte sie gesehen, die jungen Männer, die kamen, um seine Arbeit zu übernehmen, um seine Akten zu nehmen, um seine Wahrheiten zu ersetzen, mit ihren eigenen Wahrheiten, mit ihren eigenen Erzählungen, mit ihrer eigenen Geschichte, die morgen die einzig wahre sein würde, weil sie die einzige sein würde, die übrig war.
+
+Er blieb stehen, vor seinem Zelt, vor der Tür, vor dem Eingang zu einem Leben, das er nicht mehr kannte, das er nicht mehr verstand, das er nicht mehr führen wollte, nicht so, nicht nach allem, was er heute gesehen hatte, nach allem, was er heute verstanden hatte, nach allem, was er heute verloren hatte.
+
+Er trat ein, langsam, vorsichtig, schloss den Filz hinter sich, blieb stehen, in der Dunkelheit, in der Stille, in dem Nichts, das er heute zum ersten Mal sein Zuhause nannte, weil es das einzige war, das übrig war, das einzige, das die neue Wahrheit ihm lassen würde, wenn sie kam, wenn sie ihn holte, wenn sie ihn nahm, wie sie alles nahm, am Ende, am Anfang, in der Mitte, in jedem Moment, der je gewesen war und je sein würde.
+
+Und in der Dunkelheit, in der Stille, in dem Nichts, das sein Leben gewesen war und das heute zuende ging, kniete er, langsam, vorsichtig, die Knie in den Stoff pressend, die Hände auf den Oberschenkeln, den Blick auf den Boden gerichtet, auf die Erde, die ihn aufnehmen würde, am Ende, wenn alles andere genommen war, wenn alle Akten verbrannt waren, wenn alle Urteile vergessen waren, wenn alle Wahrheiten zu Staub geworden waren, wenn nur noch die Erde übrig war, die alte, stille, geduldige Erde, die alles trug, alles hielt, alles überdauerte, Generation um Generation, Reich um Reich, Wahrheit um Wahrheit, bis nichts mehr übrig war, außer ihr, außer der Dunkelheit, außer dem Nichts, das immer gewesen war und immer sein würde, das einzige Zuhause, das es je gegeben hatte, das einzige, das je geben würde, für alle, die je gelebt hatten und je leben würden, für ihn, für sie, für uns, für alle, die glaubten, dass ihre Geschichten Bedeutung hatten, obwohl sie nur Schatten waren, nur Erzählungen, nur das, was die Mächtigen von ihnen machten, am Ende, wie am Anfang, wie in jedem Moment dazwischen, in dem die Welt sich drehte und die Sonne schien und die Menschen glaubten, dass sie lebten, obwohl sie nur Film waren, nur Regie, nur das Stück, das ein anderer geschrieben hatte, in einer Sprache, die sie nicht verstanden, in einer Zeit, die sie nicht kannten, in einer Wahrheit, die sie nie erfahren würden, nie, nie, nie.
+
+Das Haus Tolui besitzt den Thron.
+
+Und damit die Definition der Wahrheit.
+
+Er lag still, die Augen geschlossen, das Herz still, der Atem langsam, flach, gleichmäßig, der Atem eines Mannes, der endlich verstanden hatte, endlich ruhen durfte, endlich aufhören durfte, das Unmögliche zu versuchen, endlich, endlich, endlich.
+
+Die Akten blieben, in der Steppe, in der Erde, bei den Gräbern, wo er sie versteckt hatte, vor Jahren, in einer Zeit, die ihm jetzt wie eine Ewigkeit erschien, wie ein anderes Leben, wie eine andere Geschichte. Sie warteten, still, geduldig, die Wahrheit, die er bewahrt hatte, die Wahrheit, die niemand lesen würde, nicht jetzt, nicht morgen, vielleicht nie, vielleicht für immer, vielleicht bis ans Ende der Zeit, wenn die Erde selbst verging und mit ihr alles, was je auf ihr gewesen war, alle Siege, alle Niederlagen, alle Akten, alle Wahrheiten, alle Lügen, alles, alles, alles.
+
+Aber vielleicht.
+
+Vielleicht würde jemand kommen, eines Tages, in hundert Jahren, in tausend Jahren, wenn die Mongolen vergessen waren und die Steppe zu Wüste geworden war und die Gräber längst eingeebnet, vielleicht würde jemand kommen und graben, aus Neugier, aus Langeweile, aus dem Instinkt, der den Menschen sagt, dass unter der Erde Geheimnisse liegen, die darauf warten, gefunden zu werden.
+
+Und er würde die Akten finden, das blau-weiße Buch, die Chronik, die Shigi Qutuqu geschrieben hatte, der Mann, der das Recht geliebt hatte und der gelernt hatte, dass das Recht nur eine Erzählung war, nur eine Geschichte, nur ein Schatten, geworfen von der Macht, die sich selbst erschuf, in jedem Moment, in jeder Generation, in jeder Zeit, die kommen würde und die gehen würde und die niemals wiederkommen würde, nicht so, nicht wie zuvor, nicht wie in den Träumen derer, die glaubten, dass die Wahrheit eine Konstante war, ein Fels, ein Fundament, auf dem man bauen konnte, obwohl sie nur Sand war, nur Asche, nur Staub, aufgewirbelt von den Hufen der Pferde, die in die Zukunft ritten, immer weiter, immer schneller, bis sie selbst zu Staub wurden und die Geschichte weiterging, ohne sie, ohne uns, ohne alle, die je geglaubt hatten, dass ihre Stimme zählte, dass ihre Worte Bedeutung hatten, dass ihre Akten die Wahrheit bewahrten, obwohl sie nur behaupteten, was die Mächtigen wollten, in jeder Zeit, in jeder Generation, in jedem Moment, der je gewesen war und je sein würde.
+
+Er schloss die Augen.
+
+Die Dunkelheit kam, sanft, gnadenlos, die Dunkelheit, die alle Wahrheiten löschte.
+
+Und Shigi Qutuqu, der Mann, der ein Leben lang das Recht gehütet hatte, schlief ein, zum ersten Mal seit Jahrzehnten, mit einem Herzen, das leicht war, weil es endlich nichts mehr trug, weil es endlich alles losgelassen hatte, weil es endlich verstanden hatte, was er ein Leben lang nicht hatte verstehen wollen: dass es keine Wahrheit gab, nur die Erzählung des Siegers, nur die Geschichte der Mächtigen, nur das, was übrig blieb, wenn die Klingen verstummt waren und die Feder ruhte und nur die Erde noch sprach, leise, stetig, für immer, für alle, die zuhören wollten, und für alle, die es nicht taten, für immer, für immer, für immer.
+
+---
+
+## 42. Die Protokolle
+
+Die Kanzlei roch nach Leder, nach Tinte und nach der Kälte, die durch die Filzwände drang. Juvaini saß an einem Tisch, der breit genug war für vier Schreiber, und vor ihm lag ein Stapel Protokolle, die er nicht geschrieben hatte, die er nicht schreiben wollte, die er schreiben würde.
+
+Er war der zweite Tag.
+
+Draußen, zwischen den Zelten, begann die Säuberung als Verwaltungsakt. Männer in dunklen Mänteln betraten die Behausungen der ögedeidischen Prinzen, ihrer Kanzleien, ihrer Heerführer, und sie kamen mit Listen heraus, mit Siegeln, mit der Autorität des neuen Khans. Die Namen wurden notiert, die Daten festgehalten, die Geständnisse gebaut, sauber, schön, endgültig.
+
+Juvaini griff nach dem ersten Protokoll.
+
+Die Handschrift war fest, die Buchstaben gleichmäßig, die Worte präzise. Ein Geständnis, unterschrieben von einem Mann, den er kannte, den er gestern noch gesehen hatte, den er heute nicht mehr sehen würde. Die Unterschrift war zittrig, kaum lesbar, die Unterschrift eines Mannes, der die Wahrheit sagen musste, die man ihm vorgegeben hatte.
+
+Er las.
+
+*Ich, Temüge Noyan, Anführer der Tausend von Ögedei, bekenne mich schuldig, die Einheit des Reiches gefährdet zu haben. Ich habe nach dem Tod des Khans mit den ögedeidischen Prinzen konspiriert, um die Nachfolge zu umgehen. Ich habe Boten geschickt, die die Autorität des Kuriltai in Frage stellten. Ich habe gelogen, um die Wahrheit zu verbergen.*
+
+Die Worte waren zu perfekt.
+
+Juvaini erkannte die Formulierung, die Satzstellung, die kalte Präzision der Anklage, die in das Geständnis eingewebt war, als ob der Angeklagte selbst sie geschrieben hätte. Es war die gleiche Technik, die gleiche Methode, die gleiche Hand, die die Geständnisse formte, die er vor Jahren gesehen hatte, in einem anderen Zelt, in einer anderen Zeit, für eine andere Angeklagte.
+
+Er schloss die Augen.
+
+Die Erinnerung kam nicht als Bild, sondern als Geruch. Der Geruch von feuchter Erde, von Metall, von Blut. Der Geruch der Zisterne, in der Fatima gesessen hatte, der Kälte, die sie umgeben hatte, der Dunkelheit, die sie erwartet hatte. Er hatte sie nicht retten können. Er hatte nicht einmal versuchen können, sie zu retten. Er hatte zugesehen, wie die Prozedur ablief, wie die Geständnisse gebaut wurden, wie die Urteile gefällt wurden, wie die Wahrheit starb, bevor sie gesagt werden konnte.
+
+Und jetzt saß er auf der anderen Seite des Tisches.
+
+Er öffnete die Augen.
+
+Der Raum war still, bis auf das Kratzen der Federn, das Rascheln der Blätter, die leisen Stimmen der Schreiber, die die neuen Geständnisse diktierten, die die neuen Urteile vorbereiteten, die die neue Ordnung in Worte fassten, in Schrift, in Wahrheit.
+
+„Juvaini?“
+
+Er sah auf.
+
+Ein junger Schreiber stand vor ihm, der Filz in der Hand, der ihn aus der Stille geholt hatte. Die Augen waren hell, die Haltung locker, die Stimme freundlich, die Stimme eines Mannes, der seine Arbeit kannte, der sie gut fand, der sie nicht hinterfragte.
+
+„Der Ermittler möchte das dritte Protokoll. Hast du es fertig?“
+
+Juvaini nickte, griff nach dem Blatt, das er nicht geschrieben hatte, das er nicht schreiben wollte, das er geschrieben hatte. Er reichte es dem Schreiber, der es nahm, der es durchlas, der es gut fand.
+
+„Saubere Arbeit“, sagte der Schreiber. „Der Ermittler wird zufrieden sein.“
+
+Er wandte sich um und verschwand durch den Filz. Die Stille kehrte zurück, die Stille eines Raumes, in dem die Wahrheit produziert wurde, in der die Geschichte geschrieben wurde, in der die Toten ihre Stimmen fanden, um das zu sagen, was die Lebenden hören wollten.
+
+Juvaini griff nach dem nächsten Protokoll.
+
+Diesmal war der Name einer Frau. Eine Prinzessin, eine Tochter Ögedeis, eine Frau, die in ihren Gemächern gelebt hatte, die keine Politik betrieben hatte, die keine Konspiration geplant hatte, die nur gelebt hatte, die nur gelebt worden war. Das Geständnis war lang, detailliert, voller Namen, Daten, Orte. Sie gestand, Boten geschickt zu haben, Siegel gefälscht zu haben, die Einheit des Reiches gefährdet zu haben.
+
+Sie hatte nie einen Boten geschickt. Sie hatte nie ein Siegel gefälscht. Sie hatte nie die Einheit des Reiches gefährdet.
+
+Juvaini las das Geständnis, las die Worte, die sie nicht gesagt hatte, die sie nicht sagen würde, die sie nicht sagen konnte, und er erkannte die Hand, die sie geschrieben hatte. Es war die gleiche Hand, die Fatimas Geständnis geschrieben hatte, die gleiche Hand, die die Worte formte, die die Wahrheit baute, die die Wahrheit tötete.
+
+Er legte das Blatt beiseite.
+
+Die Stille war jetzt voller, die Stille eines Raumes, in dem die Worte sprachen, in dem die Worte lebten, in dem die Worte die Toten waren, die nicht sterben konnten. Er griff nach der Tinte, tauchte die Feder ein, begann zu schreiben, begann die Worte zu formen, die er nicht formen wollte, die er formen musste.
+
+Das Geständnis war schnell geschrieben, die Formulierung präzise, die Unterschrift sorgfältig nachgezeichnet, die Unterschrift einer Frau, die nie unterschrieben hatte, die nie unterschreiben würde, die nie unterschreiben konnte.
+
+Er legte die Feder beiseite.
+
+Der Nachmittag war lang, die Protokolle endlos, die Geständnisse immer gleich, immer perfekt, immer die gleiche Wahrheit, die gleiche Lüge, die gleiche Leere zwischen den Zeilen, die keine Fragen mehr zuließ. Die Schreiber kamen und gingen, die Ermittler kamen und gingen, die Angeklagten kamen und gingen, und Juvaini saß an seinem Tisch, tauchte die Feder ein, schrieb die Worte, die ihm diktiert wurden, die er schreiben musste, die er schrieb.
+
+Als die Sonne unterging, als die Schatten länger wurden, als die Kälte zurückkehrte, stand er auf. Die Bewegung war langsam, vorsichtig, die Bewegung eines Mannes, der wusste, dass die Arbeit nicht enden würde, dass die Wahrheit nicht sprechen würde, dass die Stille bleiben würde, voll, schwer, unausweichlich.
+
+Er trat an die Tür, die zur äußeren Kanzlei führte, und blieb stehen.
+
+„Juvaini?“
+
+Er drehte sich um.
+
+Der Ermittler stand im Schatten, der Filz in der Hand, die Augen kalt, die Stimme freundlich. „Ich brauche noch eine Akte. Die Akte über unerlaubte Schriften und Korrespondenzen der ögedeidischen Höfe. Hast du sie?“
+
+Juvaini nickte, griff nach dem Stapel, der auf dem Tisch lag, suchte, fand die Akte, die er nicht finden wollte, die er finden musste. Die Akte war dick, voller Briefe, voller Schriften, voller Korrespondenz, die nicht erlaubt war, die nicht erlaubt sein durfte, die nicht erlaubt sein sollte.
+
+Er reichte sie dem Ermittler.
+
+Der Ermittler nahm sie, blätterte kurz, nickte. „Danke. Saubere Arbeit heute. Morgen geht es weiter. Ruhe dich aus. Der neue Khan wird zufrieden sein.“
+
+Er wandte sich um, verschwand im Schatten, im Filz, in der Nacht, die über der Kanzlei lag, kalt, still, voller Jahre, voller Wahrheiten, die warteten, auf den Tag, an dem sie gelesen wurden, an dem sie verstanden wurden, an dem sie weitergingen, in die nächste Hand, in die nächste Generation, in die nächste Zeit, die kommen würde, um alles zu fordern, was noch nicht gefordert war.
+
+Juvaini blieb stehen.
+
+Die Hand, die die Akte gehalten hatte, zitterte nicht.
+
+Er sah auf seine Finger, auf die Haut, die kalt war, auf die Knochen, die still waren, auf die Muskeln, die die Bewegung verweigerten, die das Zittern verweigerten, das er brauchte, das er wollte, das er nicht mehr hatte. Die Hand war ruhig, fest, die Hand eines Mannes, der seine Arbeit kannte, der sie gut fand, der sie nicht hinterfragte.
+
+Er erinnerte sich an Fatimas Hand.
+
+An die Hand, die das Geständnis geschrieben hatte, das nicht ihres war, das nicht ihres sein konnte, das nicht ihres sein sollte. An die Hand, die den Brief an ihre Schwester geschrieben hatte, die die Worte formte, die die Worte trug, die die Worte bewahrte. An die Hand, die zitterte, die zitterte, als sie die Feder hielt, als sie die Tinte eintauchte, als sie die Worte schrieb, die sie schreiben musste, die sie schreiben wollte, die sie schreiben würde.
+
+Er wünschte sich, seine Hand würde wieder zittern.
+
+Die Stille blieb.
+
+Die Stille eines Raumes, in dem die Toten sprachen, in dem die Toten lebten, in dem die Toten warteten, um die Geschichte zu erzählen, die niemand hören wollte. Juvaini stand im Schatten, die Hand ruhig, die Finger still, das Zittern verweigert, das Zittern verloren, das Zittern tot.
+
+Er trat hinaus in die Kälte.
+
+Die Nacht war klar, die Sterne hell, die Kälte scharf, die Kälte eines Winters, der nicht enden würde, der nicht enden durfte, der nicht enden konnte. Er ging durch die Zeltstadt, vorbei an den Wachen, vorbei an den Feuern, vorbei an den Schreien, die aus den Verhörzelten kamen, die nicht aufhören würden, die nicht aufhören durften, die nicht aufhören konnten.
+
+Er erreichte sein Zelt.
+
+Im Inneren war es kalt, die Lampe aus, die Decke auf dem Boden, der Stapel Akten, den er mitgebracht hatte, die Akten von 1247, die er gelesen hatte, die er bewahren würde, die er weitertragen würde, bis zum Ende, bis nichts mehr blieb, außer Papier, außer Worten, außer ihr, außer ihm, außer der Erinnerung an das, was sie verloren hatten.
+
+Er legte sich hin.
+
+Die Decke war kalt, die Kälte drang durch den Filz, durch die Wolle, durch die Haut, in die Knochen, in das Fleisch, in die Leere, die in ihm war. Er schloss die Augen.
+
+Die Bilder kamen nicht.
+
+Die Worte kamen nicht.
+
+Die Stille blieb.
+
+Und in der Stille, in der Kälte, in der Dunkelheit, in der Leere, die in ihm war, wünschte er sich, dass seine Hand wieder zittern würde, dass die Schuld ihn erreichen würde, dass die Erinnerung ihn holen würde, dass die Trauer ihn tragen würde, dass die Worte ihn retten würden, die er nicht schrieb, die er nicht schreiben wollte, die er nicht schreiben konnte.
+
+Der Morgen kam.
+
+Die Kälte blieb.
+
+Die Arbeit wartete.
+
+Die neuen Geständnisse warteten.
+
+Die neuen Urteile warteten.
+
+Die neue Wahrheit wartete, die er schreiben würde, die er formen würde, die er liefern würde, sauber, schön, endgültig.
+
+Er stand auf.
+
+Die Hand war ruhig.
+
+Sie zitterte nicht.
+
+Sie würde nie wieder zittern.
+
+---
+
+## 43. Der schwarze Spiegel
+
+Die Morgendämmerung kam grau und schwer, die Wolken hingen tief über der Zeltstadt, als Juvaini die Kanzlei betrat. Der Boden war feucht, der Rauhreif hatte sich über die Filzbahnen gelegt, und der Geruch von nassem Wolle und kaltem Rauch hing in der Luft. Er legte seine Schreibtafel auf den Tisch, entzündete die Lampe, wartete.
+
+Der junge Schreiber kam kurz nach Sonnenaufgang.
+
+„Der Prozess beginnt heute“, sagte er, und seine Stimme war flach, ohne Neugier, ohne Mitleid. „Die Regentin. Sie haben sie in der Nacht hergebracht. Der Richter wartet auf die Protokollführung.“
+
+Juvaini nickte. Er wusste, wer gemeint war. Oghul Qaimish. Güyüks Witwe. Die überforderte Regentin, die nach Güyüks Tod die Zügel ergriffen hatte, die nicht stark genug gewesen war, die nicht klug genug gewesen war, die nicht schnell genug gewesen war. Und die jetzt bezahlte.
+
+Die Zeltstadt lag still, als er hindurchging. Kein Vogel, kein Wind, nur das Knirschen seiner Stiefel auf dem gefrorenen Boden. Die Wachen standen in ihren Mänteln, die Gesichter verhüllt, die Speere schräg gehalten. Sie sahen ihn nicht an. Sie sahen niemanden an.
+
+Das Richterzelt war groß und neu. Die Filzdecken waren jung, die Nähte fest, die Stangen glatt geschabt. Man hatte es in den letzten Tagen errichtet, hastig, aber präzise, wie alles, was der neue Khan befahl. Im Inneren brannten drei Feuer, und der Rauch zog durch die Öffnung oben, dünn und bläulich, vermischte sich mit dem Dunst der Atemwolken.
+
+Der Richter saß auf einem Kissen, die Akten vor sich ausgebreitet. Er war jung, einer von Möngkes Männern, ein Gesicht, das Juvaini nicht kannte. Seine Hände waren sauber, seine Nägel geschnitten, seine Kleidung schmucklos. Er trug kein Siegel, keine Amtskette, keine Zeichen des Rangs. Er war ein Werkzeug, präzise und blind.
+
+„Setzen Sie sich“, sagte der Richter. „Sie führen das Protokoll. Nichts fehlt, nichts ist überflüssig. Die Worte müssen genau sein. Die Sätze müssen vollständig sein. Der Bericht muss späteren Lesern zeigen, dass alles mit rechten Dingen zuging.“
+
+Juvaini setzte sich. Er legte die Schreibtafel auf die Knie, tauchte die Feder ein, wartete.
+
+Die Wachen brachten Oghul Qaimish um die Mitte des Vormittags.
+
+Sie war barfuß, der Staub an ihren Füßen grau, ihre Kleider zerrissen, ihr Haar ungekämmt. Aber sie hob den Kopf, als sie das Zelt betrat, und ihre Augen waren hell, in einem Schimmer von Trotz oder Wahn. Sie war eine Frau, die nicht begriff, was mit ihr geschah, die die Regeln des Spiels nicht verstanden hatte, die sich vorgestellt hatte, dass sie die Regeln machen könne, weil sie die Frau des Khans gewesen war.
+
+Der Richter las die Anklage.
+
+Seine Stimme war gleichmäßig, wie Wasser, das ein Geröllbett herunterfließt. Die Anklage lautete auf Verhexung. Sie soll Prinz Köden verflucht haben. Sie soll Güyük Khan durch Zauberei an sich gebunden haben. Sie soll die Seele der Regentin Töregene in einem schwarzen Stein gefangen gehalten haben. Sie soll die Geburt Möngke Khans verhindert haben.
+
+Juvaini hörte die Worte, schrieb sie, hörte nichts.
+
+Die Anklage war die von 1247.
+
+Er hielt inne. Die Feder über dem Papier. Die Hand ruhig, die Hand still, die Hand, die nicht zitterte, die nie wieder zittern würde.
+
+Er las die Akten, die der Richter ihm vorlegte. Die Aussagen der Zeugen. Die Beweise. Die Geständnisse. Und er erkannte die Handschrift – nicht die Buchstaben, nicht die Formeln, nicht die Zeichen, sondern die Struktur. Die Anordnung der Sätze. Die Anordnung der Fragen. Die Anordnung der Antworten. Die Lücken, die genau dort waren, wo sie sein mussten. Die Übergänge, die nahtlos waren, die keine Widersprüche zuließen.
+
+Das Muster war das von 1247.
+
+Dasselbe Verfahren, dieselbe Methode, dieselbe Logik. Das Reich hatte von Fatimas Fall gelernt. Es hatte die Methode behalten, konserviert wie ein Gerät, das man nur auspacken musste, wenn man es brauchte. Es hatte den Prozess zu einem Werkzeug geschliffen, zu einem Instrument, das man auf jeden anwenden konnte, den man entfernen musste.
+
+Er sah Fatimas Prozess zum zweiten Mal.
+
+Diesmal aus der Protokollanten-Perspektive.
+
+Der Richter rief die Zeugen. Sie kamen einer nach dem anderen, Männer in Mänteln, die Hände gefaltet, die Augen gesenkt. Sie sagten aus, was sie gesehen hatten: Oghul Qaimish, wie sie in der Nacht des Sturms ein Feuer aus Knochen angezündet hatte. Oghul Qaimish, wie sie mit einem Ziegenbock in ihrem Zelt gesprochen hatte. Oghul Qaimish, wie sie einen gefiederten Pfeil in den Himmel geschossen hatte, um den Wind zu wenden.
+
+Juvaini schrieb.
+
+Die Feder glitt über das Papier, die Buchstaben flossen, die Sätze formten sich, die Protokolle wuchsen. Er schrieb die Aussagen, die Namen, die Daten. Er schrieb die Fragen des Richters, die Antworten der Zeugen. Er schrieb die Geständnisse, die er nicht glaubte, die er nicht bezweifelte, die er nur aufnahm, die er nur weitergab.
+
+Oghul Qaimish stand während der Verhandlung regungslos.
+
+Sie antwortete nicht auf die Anklagen. Sie widersprach nicht. Sie verteidigte sich nicht. Sie stand einfach da, die Füße im Staub, das Gesicht unbewegt, die Augen hell, als sähe sie etwas, das die anderen nicht sahen, als wüsste sie etwas, das die anderen nicht wussten.
+
+Juvaini fragte sich, ob sie wusste, dass ihre Geschichte bereits geschrieben war. Dass ihr Schicksal feststand, bevor sie hereingeführt wurde. Dass der Prozess nur eine Formalität war, ein Theaterstück, das nach den Regeln des Genres gespielt wurde, nach den Regeln, die das Reich geschrieben hatte, die das Reich verlangte, die das Reich brauchte.
+
+Er schrieb weiter.
+
+Der Mittag kam und ging. Die Feuer brannten herunter, der Rauch zog dünner, die Schatten in den Ecken des Zeltes änderten die Richtung. Die Zeugen kamen und gingen. Die Aussagen wiederholten sich, im Wortlaut, im Inhalt, in der Form.
+
+Dann kam der Punkt, an dem das System sein vorgegebenes Ziel erreicht hatte.
+
+Der Richter verlas das Urteil.
+
+Seine Stimme war ruhig, ohne Pathos, ohne Empörung, ohne jede Emotionsregung, als lese er einen Wetterbericht. „Oghul Qaimish. Wegen Verhexung des Prinzen Köden, wegen Verhexung des Khans Güyük, wegen Verhexung der Regentin Töregene, wegen Verhexung der Geburt des Khans Möngke.“ Er hob den Kopf, sah sie an, aber sein Blick war leer. „Das Urteil lautet: Tod durch Ertränken. Die Verurteilte wird in Filz genäht. Der Filz wird vernäht, mit groben Stichen, die die Zufuhr von Luft verhindern. Die Verurteilte wird in einen Fluss geworfen. Der Fluss wird das Urteil vollstrecken. Der Körper wird nicht geborgen. Der Körper wird nicht bestattet. Der Körper wird verrotten, als Erinnerung an die Bestrafung, als Warnung an alle, die den Frieden des Reiches stören.“
+
+Juvaini hielt inne.
+
+Die Formel. Dieselbe Formel. Dieselbe Methode. Fatima war in Filz genäht worden. Fatima war in einen Fluss geworfen worden. Fatima war nicht bestattet worden.
+
+Er las die Worte auf dem Papier vor sich, die Worte, die er geschrieben hatte, die Worte, die er schreiben würde, die Worte, die er schreiben musste. Sie waren identisch mit den Worten, die er 1247 gelesen hatte, die er in den Akten gefunden hatte, die er nachts in seiner Kanzlei durchgesehen hatte.
+
+Er saß vor einem schwarzen Spiegel.
+
+Einem Spiegel, der Fatimas Tod exakt widerspiegelte, exakt wiederholte, exakt nachbildete, nur mit einem anderen Namen.
+
+Oghul Qaimish.
+
+Der Name war anders.
+
+Alles andere war gleich.
+
+Der Richter sah ihn an. „Schreiben Sie“, sagte er. „Das Urteil. Die Begründung. Die Vollzugsdetails. Nichts fehlt. Nichts ist überflüssig. Die Worte müssen genau sein. Die Sätze müssen vollständig sein. Der Bericht muss späteren Lesern zeigen, dass alles mit rechten Dingen zuging.“
+
+Juvaini sah auf die Feder.
+
+Die Spitze glänzte im Licht der Öllampe, schwarz von Tinte. Der Schaft war aus Holz, glatt von vielen Stunden, viele Sätze, viele Urteile. Er hielt ihn in der Hand, die Hand, die nicht zitterte, die nie wieder zittern würde, die so ruhig war wie die Hand eines Toten.
+
+Er begann zu schreiben.
+
+Die Worte kamen, die Sätze formten sich, die Protokolle wuchsen. Er schrieb das Urteil, die Begründung, die Vollzugsdetails. Er schrieb die Namen, die Daten, die Orte. Er schrieb die Worte, die Fatimas Tod beschrieben hatten, die jetzt Oghul Qaimish Tod beschrieben.
+
+Seine Hand hielt inne.
+
+Über dem Satz, der das Urteil besiegelte.
+
+Einen Herzschlag lang. Einen Herzschlag der Stille. Einen Herzschlag der Zeit.
+
+Er sah die Tinte auf der Fдер, sah die Buchstaben, die er noch nicht geschrieben hatte, sah die Lücke, die er füllen musste, die er füllen würde, die er füllen musste, weil es keine andere Wahl gab, weil das System keine andere Möglichkeit bot, weil das Reich auf dieser Formel lief.
+
+Er dachte an die Worte, die er ändern könnte. Ein Wort, eine Milderung, eine Einschränkung. „Wenn die Beweise ausreichen“ statt „Die Beweise liegen vor.“ Oder ein kleines „Vielleicht“, das alles in Frage stellte. Oder eine Leerstelle, eine Lücke im Protokoll, die künftigen Lesern zeigen würde, dass hier etwas nicht stimmte.
+
+Er sah die Feder, die die Worte schreiben würde.
+
+Die Feder, die sie schreiben musste.
+
+Die Feder, die sie schreiben würde.
+
+Er schrieb die Formel.
+
+Das Reich läuft nicht auf Wahrheit.
+
+Es läuft auf diesem Rad.
+
+Er sah auf die Worte, die er geschrieben hatte, die Worte, die er schreiben würde, die Worte, die er immer wieder schreiben würde, bis zum Ende, bis nichts mehr blieb, außer der Wiederholung, außer der Kontinuität, außer dem Mechanismus, den das Reich perfektioniert hatte.
+
+Der Richter nickte. „Gut. Der Vollzug erfolgt bei Sonnenuntergang. Sie werden den Vorgang beobachten und protokollieren. Nichts fehlt. Nichts ist überflüssig. Der Bericht muss späteren Lesern zeigen, dass alles mit rechten Dingen zuging.“
+
+Juvaini schloss die Augen.
+
+Die Bilder kamen nicht.
+
+Die Worte kamen nicht.
+
+Die Stille blieb.
+
+Er stand auf. Er legte die Schreibtafel zurück auf den Tisch, tauchte die Feder in das Tintenfass, setzte die Kappe auf. Er faltete die Papiere, legte sie in die Mappe, verschnürte sie mit der Schnur.
+
+Er ging hinaus in die Kälte.
+
+Der Wind war frisch, der Himmel aufgehellt, die Wolken zogen nach Norden. Die Zeltstadt lag still, die Wachen standen regungslos, die Feuer loderten. Er ging den Weg entlang, der zum Fluss führte.
+
+Der Boden war feucht, die Gräser nass, das Wasser des Flusses grau und träge. Der Geruch von Schlick hing in der Luft, der Geruch von kaltem Wasser, der Geruch von nichts.
+
+Er sah auf das Wasser.
+
+Das Wasser, das sie getragen hatte.
+
+Das Wasser, das sie verdeckte.
+
+Das Wasser, das nichts zeigte.
+
+Nichts war zu sehen. Das Wasser war flach, die Strömung langsam, die Ufer mit Gras bewachsen. Ein Fisch sprang aus der Tiefe, zeichnete einen schimmernden Bogen, verschwand wieder.
+
+Juvaini sank auf die Knie.
+
+Die Kälte durchdrang den Stoff seiner Hose, die Nässe die Haut, die Feuchtigkeit die Knochen. Er beugte sich vor, die Hände auf den Boden gestützt, die Finger im Schlick.
+
+Er dachte an Kapitel 34.
+
+An den Händler, der die Botschaft weitergab. An die drei Sätze, die der Händler weitergab, die er weitergab, die er weitergab, bis sie jemanden erreichten, der sie verstand, der sie weitertrug, der sie weiterschrieb.
+
+Jetzt war er der Händler.
+
+Jetzt war er der Mann, der die Botschaft trug, der sie weitergab, der sie weitertrug, der sie weiterschrieb, bis sie jemanden erreichte, der sie verstand, der sie weitertrug, der sie weiterschreiben würde.
+
+Er öffnete den Mund.
+
+Die Luft kam und ging.
+
+Die Kälte umschloss ihn.
+
+Die Stille blieb.
+
+Dann kam der letzte und endgültige Schrei, die letzte und endgültige Welle von Übelkeit, die letzte und endgültige Entladung der Leere, die in ihm existierte und die sich jetzt einen Weg nach oben bahnte, durch die Kehle, durch den Mund, hinaus in den Schlamm, hinaus in das Schilf.
+
+Er übergab sich.
+
+Die Galle kam, der Schmerz kam, die Wärme kam, die Kälte kam, die Leere kam, die er nicht füllen konnte, die er nicht füllen würde, die er nicht füllen konnte.
+
+Er wischte den Mund ab.
+
+Er stand auf.
+
+Er drehte sich um.
+
+Er ging zurück zur Arbeit.
+
+Die Zeltstadt lag still, die Wachen standen regungslos, die Feuer loderten. Der Wind zog durch die Gassen, blies den Rauch nach Süden, blies die Gerüche nach Süden, blies die Geräusche nach Süden.
+
+Juvaini erreichte die Kanzlei.
+
+Er setzte sich an den Tisch.
+
+Er entzündete die Lampe.
+
+Er nahm die nächste Akte.
+
+Die Arbeit wartete.
+
+Und er würde sie schreiben, wie er immer schrieb, wie er immer schreiben würde, bis nichts mehr blieb, außer Papier, außer Worten, außer der Wiederholung, außer der Kontinuität, außer dem Mechanismus, den das Reich perfektioniert hatte.
+
+Er begann zu schreiben.
+
+---
+
+## 44. Der Adoptivsohn
+
+Shigi Qutuqu saß im Verhörzelt und wartete auf die Fragen, die er selbst geschrieben hatte.
+
+Das Zelt war klein, die Wände aus Filz, der Boden mit einem einfachen Teppich bedeckt. Ein Tisch stand in der Mitte, zwei Hocker, eine Lampe. Der Geruch von Rauch hing in der Luft, der Geruch von Öl, der Geruch von Papier.
+
+Er kannte diesen Ort.
+
+Er hatte hier gesessen, auf der anderen Seite des Tisches, und Fragen gestellt, die er aus dem Gesetz ableitete, aus der Logik, aus der Notwendigkeit. Er hatte Geständnisse entgegengenommen, Urteile verkündet, Siegel gesetzt.
+
+Jetzt saß er auf der anderen Seite.
+
+Die Tür öffnete sich. Ein Mann trat ein, gefolgt von einem Schreiber. Der Mann war jung, das Gesicht schmal, die Augen wach. Er trug die Uniform eines Ermittlers, die Robe sauber, das Siegel am Gürtel.
+
+Er setzte sich.
+
+Der Schreiber setzte sich neben ihn, legte Papier auf den Tisch, tauchte die Feder ein.
+
+Der Ermittler sah Shigi an.
+
+„Shigi Qutuqu", sagte er. „Oberrichter des Reiches unter Khagan Ögedei, unter Regentin Töregene, unter Khagan Güyük."
+
+„Ja."
+
+„Du hast zwei ögedeidischen Regierungen gedient."
+
+„Ja."
+
+„Du hast die Chronik des Hauses geführt."
+
+„Ja."
+
+„Du hast Urteile gesprochen, die das Gesetz brachen."
+
+Shigi schwieg.
+
+Der Ermittler wartete.
+
+Der Schreiber schrieb.
+
+Die Lampe flackerte.
+
+„Ich habe Urteile gesprochen", sagte Shigi schließlich, „die das Gesetz anwandten."
+
+„Du hast das Todesurteil gegen die Chorasanerin Fatima gesiegelt, obwohl du wusstest, dass die Anklage falsch war."
+
+„Ich habe das Urteil gesiegelt, weil das Geständnis vorlag."
+
+„Du hast gewusst, dass das Geständnis erpresst war."
+
+„Ich habe gewusst, dass das Geständnis unterschrieben war."
+
+Der Ermittler lehnte sich zurück.
+
+„Du bist klug", sagte er. „Du antwortest wie ein Jurist. Aber das Reich braucht keine Juristen mehr. Es braucht Wahrheit."
+
+„Das Reich", sagte Shigi, „hat nie Wahrheit gebraucht. Es hat Ordnung gebraucht."
+
+Der Ermittler lächelte nicht.
+
+„Du hast die Chronik des Hauses versteckt. Wo ist sie?"
+
+„In der Steppe."
+
+„Wo in der Steppe?"
+
+„Bei den Gräbern."
+
+„Bei welchen Gräbern?"
+
+„Bei denen, die das Reich vergessen hat."
+
+Der Ermittler sah ihn lange an.
+
+Dann nickte er dem Schreiber zu.
+
+Der Schreiber schrieb.
+
+Die Fragen kamen weiter, eine nach der anderen, präzise, kalt, unbestechlich. Sie folgten einem Muster, das Shigi selbst geschrieben hatte, vor Jahren, in einem anderen Leben, als er noch glaubte, dass das Gesetz die Wahrheit schützen könnte.
+
+„Du hast Güyük Khan die Chronik verweigert."
+
+„Ich habe ihm eine Kopie gegeben."
+
+„Eine falsche Kopie."
+
+„Eine vollständige Kopie."
+
+„Eine Kopie ohne die Randnotizen."
+
+„Eine Kopie ohne die Kommentare."
+
+„Die Kommentare, die Ögedeis letzten Willen dokumentieren."
+
+„Die Kommentare, die meine eigenen Gedanken dokumentieren."
+
+Der Ermittler lehnte sich vor.
+
+„Du hast den Thron betrogen."
+
+„Ich habe das Gesetz bewahrt."
+
+„Du hast das Gesetz gebrochen."
+
+„Ich habe das Gesetz angewandt."
+
+Die Stille kehrte zurück.
+
+Der Schreiber schrieb.
+
+Die Lampe flackerte.
+
+Shigi dachte an Fatima, die in diesem Zelt gesessen hatte, vor fünf Jahren, und dieselben Fragen gehört hatte, dieselben Formeln, dieselben Fallen. Sie hatte geantwortet wie er: wahr, knapp, ohne Bitte.
+
+Sie hatte nicht um Gnade gebeten.
+
+Sie hatte nicht um ihr Leben gebeten.
+
+Sie hatte nur um eines gebeten: dass ihre Wahrheit bewahrt würde.
+
+Und er hatte sie bewahrt.
+
+Er hatte das Bündel eingenäht, versteckt, geschützt.
+
+Er hatte das Gesetz gebrochen, um die Wahrheit zu retten.
+
+Und jetzt saß er hier, auf der anderen Seite des Tisches, und beantwortete die Fragen, die er selbst geschrieben hatte.
+
+Der Ermittler stand auf.
+
+„Du wirst hier bleiben", sagte er. „Bis das Urteil kommt."
+
+„Ich verstehe."
+
+„Du wirst nicht gefoltert. Khagan Möngke hat befohlen, dass du als Richter behandelt wirst."
+
+„Ich danke dem Khan."
+
+Der Ermittler sah ihn an.
+
+„Du dankst nicht", sagte er. „Du wartest."
+
+„Ja."
+
+Der Ermittler ging zur Tür.
+
+Der Schreiber folgte ihm.
+
+Die Tür schloss sich.
+
+Shigi blieb allein.
+
+Die Lampe flackerte.
+
+Der Rauch stieg auf.
+
+Die Stille blieb.
+
+Er dachte an die Chronik, die in der Steppe lag, bei den Gräbern, bei den Toten, bei den Vorfahren. Er dachte an das Bündel, das in der Kanzlei lag, eingenäht in Filz, versteckt unter toten Akten, geschützt durch seine eigene Bedeutungslosigkeit.
+
+Er dachte an Fatima, die gestorben war, weil sie die Wahrheit kannte.
+
+Er dachte an Juvaini, der überlebt hatte, weil er die Wahrheit schrieb.
+
+Er dachte an sich selbst, der zwischen beiden stand, zwischen Leben und Tod, zwischen Wahrheit und Lüge, zwischen Gesetz und Gerechtigkeit.
+
+Und er wartete.
+
+Die Tage vergingen langsam.
+
+Das Zelt war kalt, die Wände dünn, der Boden hart. Ein Wächter brachte ihm Essen, zweimal am Tag, Brot und Tee, manchmal Fleisch. Der Wächter sprach nicht, sah ihn nicht an, stellte die Schale auf den Boden und ging.
+
+Shigi aß.
+
+Shigi schlief.
+
+Shigi wartete.
+
+Am siebten Tag kam ein Bote.
+
+Er trug einen Brief, versiegelt mit dem Siegel des Khans. Er überreichte ihn Shigi, verbeugte sich, ging.
+
+Shigi brach das Siegel.
+
+Er las.
+
+Der Brief war kurz, die Schrift klar, die Worte präzise.
+
+„Shigi Qutuqu, Oberrichter des Reiches unter Khagan Ögedei, wird verschont aufgrund seiner Dienste unter dem Großkhan und seiner Adoption durch das Haus. Er wird verbannt in die östlichen Provinzen für die Dauer von drei Jahren. Seine Ämter werden eingezogen. Sein Siegel wird zurückgegeben. Sein Name bleibt im Buch der Richter."
+
+Shigi las den Brief zweimal.
+
+Dann legte er ihn auf den Tisch.
+
+Er fühlte nichts.
+
+Keine Erleichterung.
+
+Keine Freude.
+
+Keine Dankbarkeit.
+
+Nur Scham.
+
+Er lebte, weil er adoptiert worden war.
+
+Er lebte, weil Dschingis Khan ihn als Kind aus einem zerstörten Lager geholt hatte, weil Hö'elün ihn als Sohn aufgezogen hatte, weil das Haus ihn als einen der Ihren betrachtete.
+
+Er lebte, weil er nützlich war.
+
+Fatima war gestorben, weil sie erbeutet worden war.
+
+Sie war gestorben, weil sie niemanden hatte, der sie schützte, weil Töregene tot war, weil Güyük sie hasste, weil das Reich sie nicht brauchte.
+
+Sie war gestorben, weil sie nicht nützlich war.
+
+Die Ungleichheit der Schutzmechanismen war keine Gerechtigkeit.
+
+Sie war Willkür.
+
+Und er hatte sie angewandt, gerechtfertigt, besiegelt.
+
+Er hatte das Gesetz geliebt, und das Gesetz hatte ihn gerettet.
+
+Aber das Gesetz hatte Fatima getötet.
+
+Shigi stand auf.
+
+Er ging zur Tür.
+
+Der Wächter öffnete.
+
+„Ich muss zur Kanzlei", sagte Shigi.
+
+Der Wächter nickte.
+
+Sie gingen durch die Zeltstadt, vorbei an den Wachen, vorbei an den Feuern, vorbei an den Menschen, die nicht zu ihm aufsahen, die nicht seinen Namen riefen, die ihn nicht erkannten.
+
+Er war niemand mehr.
+
+Die Kanzlei war leer.
+
+Die Tische waren geräumt, die Regale halb leer, die Akten sortiert. Ein neuer Richter hatte übernommen, ein Mann, den Shigi nicht kannte, ein Mann, der das Gesetz ohne Zweifel anwandte.
+
+Shigi ging zu seinem alten Tisch.
+
+Er öffnete die unterste Schublade.
+
+Das Bündel lag dort, eingenäht in Filz, schwer, unscheinbar.
+
+Er nahm es heraus.
+
+Er hielt es in den Händen.
+
+Das Gewicht war vertraut, die Textur rau, der Geruch nach Staub und Papier.
+
+Er dachte an Fatimas Brief, der darin lag, ungelesen, versiegelt, geschützt.
+
+Er dachte an ihre Handschrift, die er kannte, die er gelesen hatte, die er bewahrt hatte.
+
+Er dachte an ihre Wahrheit, die niemand lesen durfte, die niemand wissen durfte, die niemand zerstören durfte.
+
+Und er traf eine Entscheidung.
+
+Er ging aus der Kanzlei.
+
+Er ging durch die Zeltstadt, vorbei an den Wachen, vorbei an den Feuern, vorbei an den Menschen, die nicht zu ihm aufsahen.
+
+Er ging zu einem kleinen Zelt am Rand der Stadt.
+
+Ein alter Mann saß drinnen, die Hände gefaltet, das Gesicht ruhig.
+
+Khorchin.
+
+Sein Gehilfe, sein Vertrauter, sein Freund.
+
+Shigi trat ein.
+
+Khorchin sah auf.
+
+„Du bist frei", sagte er.
+
+„Ich bin verbannt", sagte Shigi.
+
+Khorchin nickte.
+
+„Was brauchst du?"
+
+Shigi legte das Bündel auf den Tisch.
+
+„Das muss nach Karakorum", sagte er. „In die Kanzlei. Zu dem jungen Perser."
+
+Khorchin sah das Bündel an.
+
+„Juvaini?"
+
+„Ja."
+
+„Wann?"
+
+„Jetzt."
+
+Khorchin nahm das Bündel.
+
+Er wog es in den Händen, spürte das Gewicht, die Textur, die Bedeutung.
+
+„Was ist darin?"
+
+„Wahrheit", sagte Shigi.
+
+Khorchin lächelte nicht.
+
+„Wahrheit ist gefährlich."
+
+„Wahrheit ist notwendig."
+
+Khorchin nickte.
+
+„Ich werde einen Reiter schicken. Morgen bei Sonnenaufgang."
+
+„Danke."
+
+Shigi drehte sich um.
+
+„Shigi", sagte Khorchin.
+
+Shigi blieb stehen.
+
+„Du kommst nicht zurück, oder?"
+
+Shigi schwieg.
+
+„Nein", sagte er schließlich. „Ich komme nicht zurück."
+
+Khorchin nickte.
+
+„Dann geh mit den Vorfahren."
+
+„Und du mit dem Gesetz."
+
+Shigi verließ das Zelt.
+
+Die Nacht war kalt, die Sterne hell, der Wind scharf. Er ging zu seinem eigenen Zelt, packte seine Sachen, legte das Siegel in eine Truhe, verschloss sie.
+
+Am nächsten Morgen ritt er aus der Zeltstadt.
+
+Die Sonne stand tief, die Luft klar, der Himmel blau. Die Steppe erstreckte sich vor ihm, endlos, leer, still.
+
+Er ritt nach Osten.
+
+Die Gedanken kamen und gingen.
+
+Er dachte an die Familienchronik, die in der Steppe lag, bei den Gräbern, bei den Toten, bei den Vorfahren. Das erste Archiv, die erste Wahrheit, die erste Lüge.
+
+Er dachte an das Bündel, das jetzt unterwegs war nach Karakorum, zu Juvaini, zu dem jungen Perser, der die Wahrheit schreiben würde, der die Wahrheit bewahren würde, der die Wahrheit weitertragen würde. Das zweite Archiv, die zweite Wahrheit, die zweite Lüge.
+
+Er dachte an die Privatakte, die in seinem Gepäck lag, die er selbst geschrieben hatte, die er selbst bewahrt hatte, die er selbst weitertragen würde. Das dritte Archiv, die dritte Wahrheit, die dritte Lüge.
+
+Drei Archive.
+
+Drei Wahrheiten.
+
+Ein alter Mann.
+
+Er ritt weiter.
+
+Die Steppe war still, die Gräser bewegten sich im Wind, die Vögel kreisten am Himmel. Der Geruch von Erde hing in der Luft, der Geruch von Gras, der Geruch von Freiheit.
+
+Er dachte an Fatima, die in einem Fluss gestorben war, eingenäht in Filz, ertränkt ohne Namen, ohne Würde, ohne Gerechtigkeit.
+
+Er dachte an Töregene, die in einem Zelt gestorben war, allein, vergessen, verraten von ihrem eigenen Sohn.
+
+Er dachte an Güyük, der auf einem Marsch gestorben war, plötzlich, unerwartet, vielleicht vergiftet, vielleicht nicht.
+
+Er dachte an Oghul Qaimish, die in einem Fluss gestorben war, eingenäht in Filz, ertränkt ohne Namen, ohne Würde, ohne Gerechtigkeit.
+
+Das Reich wiederholte sich.
+
+Das Reich perfektionierte sich.
+
+Das Reich tötete sich.
+
+Und er hatte es bewahrt, gerechtfertigt, besiegelt.
+
+Er ritt weiter.
+
+Die Sonne stieg höher, die Luft wärmer, der Wind leiser. Die Steppe erstreckte sich vor ihm, endlos, leer, still.
+
+Er dachte an die drei Archive.
+
+Die Familienchronik in der Steppe – die offizielle Wahrheit, die niemand lesen durfte, die niemand ändern durfte, die niemand zerstören durfte.
+
+Das Bündel in der Stadt – die heimliche Wahrheit, die niemand lesen durfte, die niemand wissen durfte, die niemand zerstören durfte.
+
+Die Privatakte in seinem Gepäck – die persönliche Wahrheit, die niemand lesen durfte, die niemand wissen durfte, die niemand zerstören durfte.
+
+Drei Archive.
+
+Drei Wahrheiten.
+
+Drei Lügen.
+
+Und er war der Hüter aller drei.
+
+Er war das Reich geworden.
+
+Er besaß Wahrheiten, die niemand lesen durfte.
+
+Er besaß Lügen, die niemand ändern durfte.
+
+Er besaß Archive, die niemand zerstören durfte.
+
+Und er ritt in die Verbannung, allein, vergessen, verraten von dem Gesetz, das er geliebt hatte.
+
+Die Steppe war still.
+
+Die Gräser bewegten sich im Wind.
+
+Die Vögel kreisten am Himmel.
+
+Und Shigi Qutuqu ritt weiter, nach Osten, in die Verbannung, in die Freiheit, in das Vergessen.
+
+Drei Archive.
+
+Drei Wahrheiten.
+
+Ein alter Mann.
+
+Das Reich würde weitermachen.
+
+Die Chroniken würden weiterleben.
+
+Die Wahrheit würde weiterwandern.
+
+Und er würde verschwinden, wie alle verschwanden, wie alle vergessen wurden, wie alle starben.
+
+Aber die Archive blieben.
+
+Die Wahrheiten blieben.
+
+Die Lügen blieben.
+
+Und das war genug.
+
+Das musste genug sein.
+
+Er ritt weiter.
+
+Die Steppe erstreckte sich vor ihm, endlos, leer, still.
+
+Und er verschwand darin, ein alter Mann auf einem alten Pferd, ein Richter ohne Siegel, ein Hüter ohne Haus, ein Chronist ohne Leser.
+
+Die Sonne stand hoch.
+
+Der Wind wehte.
+
+Die Steppe blieb.
+
+---
+
+## 45. Die schönste Lüge
+
+Die Lampe brannte flach, als Juvaini den ersten Satz schrieb.
+
+Das Öl war fast aufgebraucht, die Flamme zuckte, warf Schatten, die sich an den Wänden der Kanzlei brachen. Er saß vor dem leeren Blatt, das Papier vor ihm ausgebreitet, die Feder in der Hand, die Tinte frisch.
+
+Er hatte drei Anläufe gebraucht, um den Raum zu betreten.
+
+Der erste Versuch endete vor der Tür. Er stand im Gang, die Hand auf dem Griff, und spürte, wie sich etwas in ihm verweigerte. Ein Muskel, ein Nerv, ein Teil seines Bewusstseins, der sich weigerte, diesen Schritt zu tun. Er drehte um. Ging zurück zum Fluss. Stand am Ufer. Sah auf das Wasser.
+
+Das Wasser zeigte nichts.
+
+Der zweite Versuch endete am Schreibtisch. Er setzte sich, legte die Feder zurecht, öffnete das Tintenfass. Dann sah er das Bündel auf dem Tisch liegen – dort, wo Shigis Vertrauter es abgelegt hatte, Stunden zuvor, ohne ein Wort. Das Filz war grau, abgenutzt, an den Rändern ausgefranst. Das Siegel war dasselbe wie auf dem Todesurteil.
+
+Juvaini stand auf. Verließ die Kanzlei. Ging zurück zur Zeltstadt.
+
+Er fand einen Händler, der noch offen hatte, und kaufte Öl für die Lampe.
+
+Jetzt saß er da. Die Lampe brannte flach, aber sie brannte. Das Blatt lag vor ihm. Das Bündel lag daneben – er hatte es nicht geöffnet, nicht berührt, nicht angesehen. Es lag da wie ein zweites Gewicht, eine zweite Last, eine zweite Wahrheit.
+
+Er begann zu schreiben.
+
+*Im Namen des ewig währenden Gottes, des Barmherzigen, des Erbarmers.*
+
+Die Formel kam automatisch. Die Hand bewegte sich, ohne dass er es wollte, ohne dass er es steuerte. Die Worte flossen aus der Feder wie Wasser aus einer Quelle – glatt, geschmeidig, schön.
+
+*Dies ist die wahre und unverfälschte Darstellung der Ereignisse um die Person Fatima bint Muhammad al-Chorasaniyya, bekannt als die Dienerin der Regentin Töregene Khatun.*
+
+Er hielt inne.
+
+Die Worte standen auf dem Papier – sauber, präzise, elegant. Die Handschrift war makellos: jeder Buchstabe wohlgeformt, jede Ligatur perfekt geschwungen, jeder Diakritikpunkt an seinem Platz. Es war Hofpersisch in seiner reinsten Form: geschliffen wie Edelsteinpolitur.
+
+Und es log bereits im zweiten Satz.
+
+„Unverfälschte Darstellung“ – als ob es so etwas gäbe in dieser Kanzlei.
+
+„Wahre und unverfälschte Darstellung“ – als ob nicht jeder Satz, den er je geschrieben hatte in diesem Raum, eine Verzerrung war, eine Anpassung, eine Lüge im Gewand der Wahrheit.
+
+Er strich den Satz durch.
+
+Die Tinte verlief auf dem Papier, hinterließ einen dunklen Strich durch das Wort „unverfälscht“. Er begann neu.
+
+*Im Namen des ewig währenden Gottes.*
+
+Wieder die Formel.
+
+*Es wurde berichtet von den Schreibern des Hofes und den Zeugen der Ereignisse.*
+
+Er schrieb weiter. Die Hand bewegte sich schneller jetzt – aber immer noch schön. Immer noch flüssig. Immer noch das geschliffene Persisch eines Hofdichters, der gelernt hatte aus den Meistern von Schiras und Buchara.
+
+Er beschrieb Fatimas Herkunft: *Geboren in Chorasan in einer Familie unbekannter Herkunft.* Dann strich er „unbekannter“ durch und schrieb „niedriger“. Dann strich er auch das durch und ließ nur „Geboren in Chorasan“ stehen – als ob das allein schon ein Urteil wäre.
+
+Er beschrieb ihren Aufstieg: *Durch Klugheit und Fleiß erwarb sie sich das Vertrauen der Regentin.* Das stimmte sogar – aber es stimmte nicht für dieses Dokument. In diesem Dokument würde sie keine Klugheit haben; sie würde List haben. Kein Vertrauen; Verführungskraft. Keine Hingabe; Besessenheit.
+
+Er strich den Satz durch und schrieb neu:
+
+*Durch List und Betrug gewann sie Einfluss auf die Regentin.*
+
+Seine Hand zitterte nicht.
+
+Das war das Erschreckende: Seine Hand zitterte nicht mehr wie einst ihre Hand gezittert hatte unter dem Geständnis. Sie war ruhig wie ein Stein im Flussbett eines ausgetrockneten Bachs: kalt und unbeweglich und tot.
+
+Er schrieb weiter:
+
+*Sie nutzte diesen Einfluss zur Bereicherung und zur Verfolgung persönlicher Feinde.*
+
+Die Worte kamen leicht: Die Formeln lagen bereit wie Werkzeuge in einer Werkstatt – gut geölt und geschliffen von Generationen von Schreibern vor ihm. Er musste sie nur greifen und anwenden:
+
+"Verbreitung von Zwietracht zwischen den Prinzen des Hauses."
+"Anwendung verbotener Künste zur Schädigung von Prinz Köden."
+"Geständnis unter Zeugen abgelegt."
+
+Der letzte Satz blieb einen Moment länger auf dem Papier stehen als nötig.
+
+Unter Zeugen abgelegt.
+
+Welche Zeugen? Der Folterknecht? Der Schreiber, der das Geständnis formuliert hatte? Der Richter selbst – Shigi Qutuqu – der gesiegelt hatte?
+
+Juvaini legte die Feder nieder.
+
+Er starrte auf das Blatt vor sich: eine Seite voller Wörter mit einem durchgestrichenen Anfang und einem Wiederbeginn darunter; voller Formeln; voller Lügen; voller Schönheit; voller Tod; voller nichts außer einem Mechanismus perfektioniert über Jahrzehnte hinweg bis zur Perfektion eines Uhrwerks aus Stahl und Stein und Stille...
+
+Er griff nach dem Bündel auf dem Tisch.
+
+Das Filz war rau unter seinen Fingern: kalt vom langen Liegen im Schatten der Kanzlei; schwer mit dem Gewicht dessen was darin verborgen lag...
+
+Er öffnete es nicht.
+
+Er legte es zurück an seinen Platz neben der Lampe wo es weitermachte zu existieren als stummer Vorwurf oder Versprechen oder beides gleichzeitig...
+
+Und dann geschah etwas Seltsames:
+
+Seine Hand begann zu zittern...
+
+Nur leicht: kaum sichtbar bei genauerem Hinsehen... Ein feines Beben der Finger überm Papier... Wie damals ihre Hand gezittert haben musste als sie ihr Geständnis schrieb unter den Augen ihrer Peiniger...
+
+Er legte die Feder nieder...
+
+Wartete...
+
+Atmete...
+
+Das Zittern hörte auf...
+
+Er nahm die Feder wieder auf - ruhig jetzt - fest - bereit - tot - fertig - funktionsfähig -
+
+Und schrieb weiter:
+
+*Geständnis abgelegt vor Zeugen -*
+
+Er hielt inne mitten im Satz...
+
+Ein Wort fehlte...
+
+Ein Name fehlte...
+
+Der Name dessen der sie verurteilte... Der Name dessen der das Urteil vollstreckte... Der Name dessen der hier saß und ihre Lüge schrieb weil er sie liebte weil er sie retten wollte weil er sie bewahren wollte weil er sie verriet indem er sie bewahrte indem er sie rettete indem er -
+
+- Er ließ den Satz abbrechen:
+
+*Geständnis abgelegt vor Zeugen...*
+
+Dann darunter in kleinerer Schrift:
+
+*Was dann geschah erlaubt der Anstand nicht zu schreiben.*
+
+---
+
+Es wurde still in der Kanzlei...
+
+So still dass Juvaini seine eigenen Gedanken hören konnte... So still dass er den Atem hörte seiner Lungen seiner Kehle seines Mundes... So still dass er hörte wie draußen jemand vorbeiging mit leisen Schritten auf feuchtem Boden...
+
+Der Wind blies durch einen Spalt in der Zeltwand ließ die Flamme flackern warf Schatten über das Papier über seine Hände über sein Gesicht -
+
+Er starrte auf den Satz den er geschrieben hatte:
+
+*Was dann geschah erlaubt der Anstand nicht zu schreiben*
+
+Das war wahr...
+
+Das war vielleicht der einzige wahre Satz in diesem ganzen Dokument... Der einzige Satz den je ein Schreiber geschrieben hatte an diesem Hof unter diesem Reich unter dieser Sonne -
+
+Aber selbst dieser Satz log...
+
+Denn es gab keinen Anstand hier... Es gab nur Macht... Und Tod... Und Wiederholung... Und Leere...
+
+Er nahm die Feder wieder auf drehte sie zwischen den Fingern betrachtete ihre Spitze -
+
+Dann legte er sie nieder griff nach dem Bündel öffnete es mit langsamen Bewegungen vorsichtig behutsam fast zärtlich -
+
+Das Filz löste sich gab den Inhalt frei:
+
+Ein Stoß Briefe zusammengebunden mit einem Lederriemen getrocknete Tinte auf vergilbtem Papier -
+
+Und darunter -
+
+Ein Federetui aus Holz mit eingelegtem Perlmuttmuster -
+
+Juvaini berührte das Etui mit den Fingerspitzen spürte die Maserung des Holzes spürte die Kälte des Perlmutts spürte etwas anderes tiefer drinnen -
+
+Ihre Hand hatte dieses Etui berührt tausendmal zehntausendmal während ihres Lebens während ihres Schreibens während ihres Überlebens am Hofe des Khans während ihrer Liebe zu ihm während ihres Todes -
+
+Er öffnete das Etui...
+
+Eine Feder lag darin: abgenutzt gespalten trocken -
+
+Ihre letzte Feder?
+
+Oder ihre erste?
+
+Oder irgendeine dazwischen?
+
+Er wusste es nicht... Er würde es nie wissen... Er musste es auch gar nicht wissen denn was zählte war nicht welches Werkzeug sie benutzt hatte sondern was damit geschrieben worden war:
+
+Ihre Briefe an eine Tote...
+Ihre Aufzeichnungen über Ögedeis Tod...
+Ihre Version dessen was wirklich geschah zwischen 1241 und 1247 zwischen Töregene Güyük Sorkaktani zwischen ihnen allen zwischen ihnen beiden zwischen ihr und ihm -
+
+Er band den Lederriemen los entfaltete den ersten Brief las:
+
+*Liebe Schwester ich weiß dass du tot bist aber ich muss dir trotzdem schreiben denn wer sonst wird mich hören wenn nicht du*
+
+Tränen kamen ihm keine Tränen mehr vorbei waren schon längst weggetrocknet ausgetrocknet leer wie sein Inneres leer wie seine Seele leer wie sein Herz das schon seit Jahren nicht mehr richtig geschlagen hatte seit jenem Tag seit jenem Abschied seit jener Nacht seit jenem Morgen seit jener Ewigkeit -
+
+Er las weiter:
+
+*Heute habe ich einen jungen Schreiber getroffen namens Ata-Malik Juvaini aus Dschuwain bei Nischapur - Er sieht mich an als wäre ich ein Mensch kein Werkzeug kein Ding kein Besitz sondern ein Mensch - Ich weiß dass diese Liebe gefährlich ist aber ich kann sie nicht verhindern so wenig ich meinen Atem verhindern kann oder meinen Herzschlag oder mein Denken*
+
+Er faltete den Brief zusammen steckte ihn zurück ins Bündel band ihn wieder zu -
+
+Seine Hände zitterten jetzt stärker als zuvor so stark dass er kaum noch Kontrolle hatte kaum noch Kraft kaum noch Willen übrig hatte zum Festhalten zum Bewahren zum Weitermachen -
+
+Aber er machte weiter denn was blieb ihm übrig außer weiterzumachen außer weiterzuschreiben außer weiterzutragen außer weiterzuüberleben bis nichts mehr blieb außer Leere außer Wiederholung außer Kontinuität außer dem Mechanismus perfektioniert über Jahrzehnte hinweg bis zur Perfektion eines Uhrwerks aus Stahl Stein Stille Schweigen Tod
+
+---
+
+Juvaini nahm das Bündel unter den Arm ging hinaus in die Nacht:
+
+Die Zeltstadt lag still im Mondschein Silberlicht fiel auf Filzwände Zeltplanen Wachtposten Feuerstellen Pferdekoppeln -
+Er ging zur Botenstation fand einen jungen Reiter beim Satteln fragte nach einer Nachricht nach Westen bekam Papier Feder Tinte -
+Schrieb:
+
+*An Shigi Qutuqu Richter des Reiches*
+*Die Erbschaft ist geteilt*
+*Die Chronik bleibt bei Euch*
+*Die Briefe gehen nach Westen*
+
+Kein Name keine Unterschrift kein Datum -
+Nur diese drei Sätze:
+Einer für ihn:
+Einer für sie:
+Einer für beide:
+Einer für niemanden:
+Einer für alle:
+Einer für ewig:
+
+Er gab dem Reiter Silber Anweisung: *Schnellster Weg zur Ordos des alten Richters kein Umweg keine Rast keine Pause bis Übergabe* -
+Der Reiter nickt saß auf ritt davon -
+Verschwand im Mondlicht zwischen Zelten Wachen Feuern Gerüchen Lauten Nächten
+
+Juvaini stand allein im Wind -
+Sah zurück zur Kanzlei deren Lampe noch brannte deren Arbeit wartete deren Akten lagen deren Schreiber saß dessen Platz noch warm war dessen Feder noch feucht war dessen Tinte noch frisch -
+Sah nach Westen wo Shigi Qutuqu wohnte wo Fatimas Chronik lag wo seine Briefe hingehen würden wo ihre Wahrheit überleben würde geteilt geschützt bewahrt durch Trennung durch Distanz durch Schweigen
+
+Sah zum Himmel wo keine Sterne standen wo Wolken zogen wo Mondlicht brach wo Dunkelheit blieb wo nichts wartete außer Morgen außer Weiterarbeit außer Wiederholung außer Kontinuität außer dem Mechanismus perfektioniert über Jahrzehnte hinweg bis zur Perfektion eines Uhrwerks aus Stahl Stein Stille Schweigen Tod Lüge Wahrheit
+
+---
+
+Als Juvaini zurückkehrte zur Kanzlei fand er alles unverändert vor:
+Lampe brannte flach...
+Papier lag offen...
+Feder ruhte trocken...
+Bündel fehlte unter seinem Arm begraben verwahrt versteckt vergessen bewahrt getragen weitertragend weiterschreibend weiterschweigend
+
+Er setzte sich...
+Nahm die Feder...
+Tauchte ein...
+Schrieb weiter:
+
+*Im Namen Gottes des Barmherzigen*
+*Dies ist die wahre Darstellung*
+*der Ereignisse um*
+*die Person*
+*bekannt als*
+_die Hexe Fatima_
+
+Die Worte kamen leicht jetzt:
+Glatt...
+Geschmeidig...
+Schön...
+Hässlich...
+Wahr...
+Falsch...
+Leer...
+Voll...
+Tot...
+Lebendig
+
+Er beschrieb ihre Verbrechen:
+Verführungskunst gegen Prinzen
+Giftmischerei gegen Feinde
+Hexerei gegen Köden
+Verräterei gegen Güyük
+Lügen gegen alle
+
+Kein Wort davon stimmte -
+Aber jedes Wort klang wahr:
+Geschliffen wie Edelsteinpolitur
+Formuliert wie Gerichtsurteil
+Geschrieben wie Weltgeschichte
+
+Und mitten drin ließ er eine Lücke:
+Einen Satz abgebrochen
+Eine Unvollständigkeit
+Eine Leerstelle
+
+*Was dann geschah*
+_ _
+_ _
+_ _
+_ _
+
+Darunter setzte er:
+
+*erlaubt der Anstand nicht zu schreiben*
+
+---
+
+Der Morgen kam grau fahl kalt neblig nass regnerisch windstill lautlos schwer lastend drückend endlich
+
+Juvaini legte die Feder nieder las was er geschrieben hatte las jede Zeile jedes Wort jeden Buchstaben jede Lüge jede Wahrheit jede Leere jede Fülle jeden Tod jedes Leben jede Liebe jeden Hass jeden Verrat jede Treue jedes Vergessen jedes Erinnern jedes Verschweigen jedes Aussprechen jedes Verschwinden jedes Bleiben
+
+Das Dokument war fertig.
+Die Chronik vollendet.
+Die Lüge perfekt.
+Die Wahrheit bewahrt.
+Der Pakt besiegelt.
+Die Schuld geteilt.
+Das Leben getrennt.
+Der Tod vereint.
+Sie würden nie wiederkommen diese Jahre diese Nächste dieser Abschnitt dieses Kapitel dieses Leben dieser Tod diese Liebe dieser Hass dieser Verrat diese Treue dieses Vergessen dieses Erinnern dieses Verschweigen dieses Aussprechen dieses Verschwinden dieses Bleiben
+
+Juvaini stand auf ging zur Tür öffnete sie trat hinaus ins Grau ins Kalt ins Nass ins Nichts ins Alles ins Ende ins Anfang ins Weiter ins Immer ins Nie ins Jetzt ins Damals ins Später ins Früher ins Heute ins Morgen ins Gestern ins Heute ins Morgen
+
+---
+
+## 46. Die Siegerin
+
+Der Winter war spät in diesem Jahr, als die Nachricht ihn erreichte.
+
+Shigi Qutuqu saß in seinem provisorischen Zelt am Rand der Steppe, die er sich als Verbannung gewählt hatte, und las den Brief des jungen Hauptmanns zum dritten Mal. Die Worte verschwammen nicht, so sehr er es auch wünschte. Sie blieben scharf und klar wie Meißelschläge in Stein.
+
+*Sorkaktani Beki ist gestorben. In der Nacht des dritten Tages des ersten Frühlingsmondes. Friedlich, sagen die Ärzte. Im Schlaf.*
+
+Er faltete das Papier zusammen und legte es neben die Lampe. Das Öl war fast aufgebraucht, die Flamme zuckte, warf Schatten, die an den Zeltwänden tanzten wie Geister. Draußen hörte er den Wind über das gefrorene Gras streichen, ein Geräusch wie das Rascheln von Pergament, wenn man es durchblätterte.
+
+Friedlich. Im Schlaf.
+
+Shigi lächelte dünn. Sorkaktani wäre gestorben, wie sie gelebt hatte: still, unauffällig und genau zum richtigen Zeitpunkt.
+
+Vier Monate nach Möngkes Krönung. Vier Monate nach dem Triumph ihres Hauses über alle anderen Linien. Sie hatte gewartet, bis ihre Söhne sicher auf den Thronen saßen – Möngke als Khagan, Kublai als sein Erbe, Hülegü als Herrscher des Westens, Ariq Böke als Hüter der Heimatländer. Dann hatte sie sich hingelegt und war gestorben.
+
+Als hätte sie nur darauf gewartet.
+
+Shigi stand auf und trat vor das Zelt. Die Steppe lag grau unter einem bewölkten Himmel, die Grashalme mit Raureif bedeckt, der im fahlen Licht schimmerte wie zertretene Edelsteine. In der Ferne sah er die Rauchsäulen eines Lagers – die Vorhut von Möngkes Heer, das nach Süden zog.
+
+Er atmete tief ein. Die Luft schmeckte nach Kälte und Asche.
+
+„Sie hat getan“, sagte er leise zu niemandem, „was kein Khan konnte. Sie hat gewartet.“
+
+Er drehte sich um und ging zurück ins Zelt.
+
+Die Privatakte lag auf dem Tisch – ein schmales Bündel aus grobem Leinen, das er vor Jahren angelegt hatte und das niemand außer ihm je gesehen hatte. Es enthielt keine Urteile oder Dekrete, keine offiziellen Protokolle oder Bescheinigungen. Nur Namen und Daten und Beobachtungen: Dinge, die kein Richter aufzeichnen durfte und kein Chronist vergessen konnte.
+
+Er schlug die Akte auf und fand die leere Seite am Ende.
+
+*Sorkaktani Beki*, begann er zu schreiben. *Gestorben 1252.*
+
+Dann hielt er inne.
+
+Was sollte er über eine Frau schreiben, die nie ein offizielles Amt bekleidet hatte? Die nie eine Armee geführt oder eine Schlacht geschlagen hatte? Die nie laut gesprochen hatte in all den Jahren?
+
+Er dachte zurück an Kapitel 13 – nein, nicht Kapitel 13 des Buches; er dachte zurück an das Jahr 1241, als Ögedei starb und Töregene zur Regentin wurde. Damals war Sorkaktani noch eine unbedeutende Witwe gewesen mit vier kleinen Söhnen und ohne Macht außer der Stille ihrer Zelte.
+
+Er dachte an Kapitel 14 – das Sommerfestzelt in Karakorum 1242 oder 1243 (die Jahreszahlen verschwammen in seinem Gedächtnis), wo Sorkaktani gesessen hatte mit ihren vier Söhnen hinter sich wie lebende Waffen im Schatten ihrer Ruhe.
+
+*Sie hat ihre Leute überall platziert*, notierte Shigi in die Akte. *Dienerinnen in jeder Küche des Reiches. Schreiber in jeder Kanzlei der Steppe.*
+
+Ja – das war der Schlüssel zu ihrem Spiel gewesen: Information vor Machtstellung verstehen bevor handeln erkennen bevor entscheiden
+
+Sein Notizbuch enthielt keine Namen mehr (die waren längst vergessen oder tot) aber genug um den Mechanismus zu verstehen: Über Jahre hinweg während Töregene regierte während Güyük herrschte während Oghul Qaimish versuchte zu halten während Möngke sich vorbereitete
+
+Überall waren Sorkaktanis Leute
+
+„Sie wusste immer alles“, murmelte Shigi vor sich hin seine Feder ruhend über dem Papier „weil sie immer schon wusste dass Wissen früher kommt als Macht“
+
+Dann schrieb er:
+
+*Vier Frauen haben dieses Reich regiert zwischen Ögedeis Tod und Möngkes Krönung: Töregene durch Willenskraft Oghul Qaimish durch Zufall Fatima durch Klugheit*
+
+*Und Sorkaktani durch Geduld*
+
+*Die anderen starben weil sie besaßen was sie nicht halten konnten*
+
+*Sorkaktani starb weil sie gehalten hatte was sie nie besitzen musste*
+
+Er las was er geschrieben hatte zweimal dreimal dann legte er die Feder nieder
+
+Draußen begann es zu schneien
+
+---
+
+Die nächsten Tage verbrachte Shigi damit seine Sachen zu packen
+
+Es gab nicht viel: Ein Wechsel Kleidung sein Urteilssiegel zwei Notizbücher (das offizielle blau-weiße Buch der Urteile plus seine private Akte) etwas Proviant für den Weg zurück nach Karakorum
+
+Möngke hatte ihn zurückgerufen - ein Befehl per Kurier eingetroffen drei Tage nach der Nachricht von Sorkaktanis Tod - aber Shigi zögerte noch
+
+„Komm zurück“, stand in dem Brief „Deine Arbeit ist noch nicht getan“
+
+Shigi wusste dass dies eine Lüge war Seine Arbeit war getan - seit Jahren schon Aber Möngke brauchte ihn als Symbol: Der letzte Überlebende aus Dschingis Khans Zeit Der einzige Richter der noch lebte um die Kontinuität des Reiches zu verbürgen
+
+Ein lebendes Siegel auf einer toten Urkunde
+
+Er packte sein Pferd am vierten Morgen Schneeflocken fielen noch immer leicht aus einem bleigrauen Himmel Die Steppe lag weiß unter ihnen still wie ein Friedhof ohne Gräber
+
+Bevor er aufstieg drehte er sich um blickte zurück auf das kleine Zelt das ihm vier Monate Unterschlupf geboten hatte Es stand verlassen da mit offener Türklappe im Wind flatternd wie eine Fahne
+
+„Ein Richter ohne Gericht“, sagte er zu seinem Pferd „ist nur ein alter Mann mit einem Stempel“
+
+Das Pferd schnaubte ungeduldig Shigi stieg auf ritt los Richtung Süden Richtung Karakorum Richtung Archiv Richtung Ende
+
+---
+
+Die Hauptstadt empfing ihn anders als erwartet:
+
+Nicht größer (obwohl neue Mauern wuchsen)
+Nicht lauter (obwohl mehr Menschen kamen)
+Nicht reicher (obwohl mehr Handel blühte)
+
+Sondern fremd -
+
+Alles funktionierte plötzlich:
+Straßen waren geräumt
+Zelte standen ordentlich
+Kuriere kamen pünktlich
+Wachen grüßten korrekt
+Schreiber arbeiteten still
+Dekrete wurden befolgt
+Steuern flossen regelmäßig
+Gerichte urteilten schnell
+Hinrichtungen verliefen planmäßig
+Gnade kam selten aber berechenbar
+Chaos existierte nicht mehr
+
+Möngkes Effizienz hatte Ordnung gebracht wo lange Jahre nur Überleben geherrscht hatte - aber diese Ordnung fühlte sich an wie ein Käfig aus Zahlen statt Gitterstäben aus Eisen
+
+Shigi ritt durch die Straßen von Karakorum sah vertraute Gesichter (älter müder) sah neue Gesichter (jünger eifriger) sah keine Spur mehr von den Jahren zwischen Regentschaft Putsch Säuberung Tod Wiedergeburt Vergessen Erinnern Verschweigen Aussprechen Bleiben Gehen Kommen Sein Nichts Alles Anfang Ende Jetzt Damals Später Früher Heute Morgen Gestern -
+
+Er stieg ab vor dem Archiv Seinem Archiv Seinem Leben Seinem Grab Seiner Rettung Seiner Verdammnis Seiner Wahrheit Seiner Lüge Seinem Anfang Seinem Ende -
+
+Die Tür war unverschlossen
+
+---
+
+Drinnen roch es nach Staub Papier Tinte Zeit -
+
+Alles unverändert seit seiner Abreise vor vier Monaten:
+Die Regale voller Akten
+Die Schränke voller Urkunden
+Die Truhen voller Rollen
+Die Wände voller Nischen voller Kammern voller Räume voller Stille voller Schweigen voller Vergessen voller Bewahrung -
+
+Keine Spur von Durchsuchung:
+Keine verstellten Rollen
+Keine aufgebrochenen Truhen
+Keine fehlenden Siegel
+Keine gestohlenen Bücher -
+Nichts -
+
+Shigi lachte leise Ein trockenes Geräusch Das klang wie raschelndes Pergament unter einer trockenen Handfläche Das klang wie alter Mann Der etwas versteht Was keiner sonst begreift Das klang wie Tod Der endlich Frieden findet Mit seiner eigenen Endlichkeit -
+
+„Zu langweilig zum Verbrennen“, murmelte er „Zu uninteressant zum Lesen Zu nutzlos zum Stehlen Zu tot zum Leben Zu alt zum Sterben Zu wahr zum Lügen Zu falsch zum Glauben -“
+
+Ja - Das war der beste Schutz den seine toten Akten je gehabt hatten:
+Sie waren uninteressant geworden -
+Im Reich Möngkes zählten nur Zahlen:
+Steuerlisten Heeresstärken Getreidevorräte Waffenbestände Bevölkerungszahlen Grenzmarkierungen Handelswege Diplomatieprotokolle Kriegspläne Friedensverträge Eroberungsziele Verwaltungsstrukturen Hierarchien Titel Macht Geld Erfolg Sieg Zukunft Gegenwart Vergangenheit -
+
+Niemand interessierte sich mehr für alte Geschichten über tote Frauen vergangene Intrigen gescheiterter Thronansprüche -
+Das Reich brauchte keine Wahrheit -
+Es brauchte Ergebnisse:
+
+Ordnung statt Chaos Ergebnisse statt Rechtfertigung Zahlen statt Worte Zukunft statt Vergangenheit Leben statt Tod -
+Aber was war Leben?
+Was war Tod?
+Was war Wahrheit?
+Was war Lüge?
+Was war richtig?
+Was war falsch?
+Was blieb?
+Was verschwand?
+
+Shigi setzte sich an seinen alten Schreibtisch fuhr mit der Hand über das Holz spürte jeden Kratzer jede Unebenheit jede Kerbe jedes Zeichen jedes Jahrzehnt jedes Jahrhundert jedes Leben jeden Tod jede Entscheidung jedes Versagen jedes Gelingen jede Schuld jede Unschuld jedes Urteil jeden Freispruch jede Verurteilung jede Begnadigung -
+
+Das Holz fühlte sich warm an unter seiner Hand -
+Als ob es ihn vermisst hätte -
+Als ob es ihn erwartet hätte -
+Als ob es wüsste dass er zurückkommen würde -
+Zurück an diesen Ort Den Ort seiner Arbeit Den Ort seines Lebens Den Ort seines Scheiterns Den Ort seines Triumphes Den Ort seiner Wahrheit Den Ort seiner Lüge Den Ort seines Anfangs Den Ort seines Endes -
+
+„Ich bin wieder da“, sagte er leise „Aber nichts wartet mehr auf mich außer Staub“
+
+---
+
+Am späten Nachmittag ging Shigi zu dem Bündel-Ort:
+
+Eine kleine Kammer im hintersten Teil des Archivs wo niemand je hinsah außer ihm selbst wo Staub dicker lag als Teppiche wo Spinnweben dichter hingen als Vorhänge wo Stille lauter sprach als alle Schreiber aller Zeiten aller Länder aller Reiche aller Welten -
+
+In einer Ecke stand eine Holzkiste:
+Unscheinbar grau verwittert alltäglich übersehen vergessen ignoriert unsichtbar nutzlos leer tot lebendig wartend harrend bleibend -
+
+Shigi kniete nieder prüfte das Siegel:
+
+Unversehrt -
+Kein Bruch kein Riss keine Beschädigung keine Veränderung kein Zugriff kein Eindringen kein Verlust kein Fund Kein Anfang Kein Ende Kein Damals Kein Später Kein Früher Kein Heute Nur Jetzt Nur Hier Nur Dies Nur Das Nur Bleiben Nur Warten Nur Stillstand Nur Bewegungslosigkeit Nur Frieden -
+
+
+Drinnen lagen die Gnadengesuche:
+Jene Bitten um Milde für Fatima aus jenem Winter 1246/47 jene Bitten um Milde für Chinqai jene Bitten um Milde für Abd ar-Rahman jene Bitten um Milde für alle Verurteilten jene Bitten um Milde für alle Vergessenen jene Bitten um Milde für alle Toten -
+
+Alle unversehrt alle unberührt alle unbekannt alle ungelesen alle vergessen alle bewahrt alle verloren alle gefunden alle tot alle lebendig alle niemand alle jeder -
+
+Shigi schloss die Kiste langsam sorgfältig prüfte noch einmal das Siegel einmal zweimal dreimal dann stand er auf trat einen Schritt zurück betrachtete die Kiste im schwachen Licht des späten Nachmittags:
+
+Das Sonnenlicht fiel durch ein schmales Fenster hoch oben in der Wand direkt auf die Kiste ließ sie leuchten goldbraun warm ruhig friedlich endgültig zeitlos ewig vergänglich bleibend gehend kommend seiend nichts alles -
+
+„Ein Wächter“, sagte Shigi leise „der nicht mehr wacht ist ein Wächter der es geschafft hat“
+
+Er ließ die Kiste dort stehen drehte sich um ging hinaus aus der Kammer hinaus aus dem Archiv hinaus aus seiner Vergangenheit hinaus aus seiner Gegenwart hinaus aus seiner Zukunft hinaus aus allem was je gewesen war was je sein würde was je hätte sein können was je nie werden würde was je bleiben sollte was je verschwinden musste -
+
+Draußen begann es wieder zu schneien:
+Leichte Flocken fielen lautlos auf Karakorum bedeckten Dächer Zelte Straßen Plätze Menschen Tiere Dinge Zeiten Räume Welten Grenzen Übergänge Anfänge Enden Leben Tod Wahrheit Lüge Erinnerung Vergessen Bewahrung Verlust Gewinn Verlust Gewinn Nichts Alles Anfang Ende Damals Später Früher Heute Morgen Gestern Jetzt Immer Nie Wieder Fort Weiter Hin Weg Da Dort Hier Bleiben Gehen Kommen Sein Nichtsein Werden Vergehen Entstehen Verschwinden Atmen Stocken Leben Sterben Geburt Grab Wiege Sarg Anfang Ende Alpha Omega Erster Letzter Gott Teufel Mensch Tier Ding Wort Ton Bild Licht Schatten Farbe Leere Fülle Hunger Durst Kälte Hitze Ruhe Bewegung Stillstand Fortschritt Rückkehr Wiederholung Veränderung Kontinuität Bruch Naht Narbe Wunde Heilung Krankheit Gesundheit Jugend Alter Kind Greis Mann Frau Frau Mann Mensch Wesen Nichts Alles Alles Nichts -
+
+Shigi blieb stehen im fallenden Schnee hob den Kopf ließ Flocken fallen lassen auf sein Gesicht spürte ihre Kälte ihren sanften Druck ihr kurzes Dasein ihr schnelles Schmelzen ihr Verschwinden ins Nichts ins Alles ins Nichts ins Alles ins Nichts -
+
+Dann lächelnd wandelte weiter Richtung Abend Richtung Untergang Richtung Dunkelheit Richtung Morgen Richtung Aufgang Richtung Licht Richtung Anfang Richtung Ende Richtung Wiederholung Richtung Veränderung Richtung Kontinuität Richtung Bruch Richtung Naht Richtung Narbe Richtung Wunde Richtung Heilung Richtung Krankheit Richtung Gesundheit Richtun-
+
+Nein-
+
+Richtig-
+
+Fertig-
+
+Vollendet-
+
+Abgeschlossen-
+
+Beendet-
+
+Fortgeführt-
+
+Weitergetragen-
+
+Bewahrt-
+
+Vergessen-
+
+Erinnert-
+
+Geschrieben-
+
+Gelesen-
+Gehört-
+Gesehen-
+Gefühlt-
+Gedacht-
+Gewusst-
+Nichtgewusst-
+Seiend-
+Nichtseiend-
+Alles-
+Nichts-
+Ende-
+
+---
+
+## 47. Was rettest du?
+
+Die Morgendämmerung fand Juvaini über einer Truhe kniend, die Hände flach auf dem Holzdeckel, als könne er durch das Material hindurch den Inhalt zählen.
+
+Er hatte die Nacht nicht geschlafen.
+
+Die Lampe war erloschen, der Docht in erkaltetem Talg ertrunken. Durch den schmalen Spalt der Zeltklappe fiel graues Licht herein, das noch keine Farbe trug, nur Schatten auslöschte und andere erschuf. Juvaini blinzelte gegen die Müdigkeit an und begann zu sortieren.
+
+Die Familienchronik lag obenauf. Er hob sie heraus, strich mit der Handfläche über das Leder des Einbands, fühlte die Narben des Leders unter seinen Fingerspitzen wie eine Landkarte vergangener Generationen. Dieses Buch würde nicht mit ihm reisen.
+
+Er legte es zur Seite. Auf den sauber gefegten Boden. Zu dem Stapel Dinge, die blieben.
+
+Die Briefe kamen als nächstes. Siebzehn Umschläge, alle versiegelt, alle adressiert an Namen, die er in den Westprovinzen kannte – Gelehrte in Nischapur, Kaufleute in Täbris, einen Sufi-Lehrer in Schiras, dessen Bibliothek er vor Jahren besucht hatte. Die Briefe waren Antworten auf Fragen, die er sich selbst nicht mehr stellen wollte: Wie überlebt man eine Zeit der Säuberung? Wo bewahrt man Wissen vor den Flammen? Wem vertraut man eine Wahrheit an, die töten kann?
+
+Er band sie mit einem Lederriemen zusammen und legte sie in die Reisetruhe.
+
+Die Privatakte blieb bei Shigi.
+
+Juvaini hielt inne, den Deckel der Truhe halb geschlossen, und starrte auf das leere Fach darin. Die Akte war nie für seine Augen bestimmt gewesen. Shigi hatte das gesagt – nein, Shigi hatte es nicht gesagt. Shigi hatte es ausgespart. Die Lücke zwischen zwei Sätzen war lauter gewesen als jedes Geständnis.
+
+„Sie ist mein Geständnis“, hatte Shigi am Abend zuvor gesagt. „Ich vertraue sie niemandem an.“
+
+Juvaini ließ den Deckel sinken und wandte sich dem Bündel zu.
+
+Es lag abseits der anderen Gegenstände auf einem niedrigen Tisch neben der Zeltstange – in Filz gehüllt und mit drei Lederriemen verschnürt, so festgezurrt, dass kein Staub eindringen konnte. Er wusste nicht mehr genau, wann er aufgehört hatte zu zählen, wie oft er es schon angesehen hatte seit jener Nacht im Archiv vor zwei Jahren. Es war zu einem festen Punkt geworden in seinem Blickfeld: immer da immer vorhanden immer schwer immer leicht immer notwendig immer gefährlich -
+
+Ein Schritt vor dem Zelteingang ließ ihn auffahren.
+
+„Herein“, sagte Juvaini und erhob sich.
+
+Der Zeltstoff teilte sich langsam. Shigi Qutuqu trat ein – alt geworden in den Monaten seit ihrer Rückkehr nach Karakorum oder vielleicht war er es schon länger gewesen und Juvaini hatte es nur nicht sehen wollen.
+
+Der Richter trug keine richterliche Robe mehr.
+
+Nur einen einfachen Mantel aus dunkler Wolle ohne Stickerei ohne Rangabzeichen ohne Siegelkette um den Hals – einen Mantel wie ihn jeder Diener des Hofes trug jeder Schreiber jeder Bote jeder Mann der nichts bedeutete aber alles gesehen hatte.
+
+Seine Hände waren leer.
+
+Shigi ließ den Blick langsam durch das Zelt schweifen über die geöffnete Truhe über den Stapel der bleibenden Dinge über das Bündel auf dem Tisch über Juvainis Gesicht – dann nickte er einmal knapp als hätte er eine Bestätigung erhalten auf die er gewartet hatte seit ihrem letzten Gespräch vor Jahren:
+
+„Du packst.“
+
+Es war keine Frage.
+
+Juvaini deutete auf einen niedrigen Schemel neben dem Tisch:
+
+„Der Befehl kam heute Morgen mit dem ersten Kurier: Ich soll mich zum West-Stab melden innerhalb von drei Tagen bereit zur Abreise Arghun Aqa wartet in Merw auf mich neue Steuerregister neue Provinzen neue Formulare neue Geständnisse wahrscheinlich -“
+
+Er stockte mitten im Satz weil ihm klar wurde dass er redete um nicht schweigen zu müssen weil Schweigen bedeutete dass etwas gesagt werden musste was sich nicht sagen ließ:
+
+„…neue Arbeit“, beendete er flach.
+
+Shigi setzte sich nicht auf den Schemel sondern blieb stehen mitten im Zelt die Arme locker an den Seiten das Gesicht unbewegt wie ein Mann der gelernt hatte seine Gedanken hinter einer Maske aus Altersruhe zu verbergen:
+
+„Drei Tage sind wenig Zeit für viel Abschied“
+
+„Ich habe keine Abschiede mehr“, sagte Juvaini leise „außer diesem“
+
+Shigis Mundwinkel bewegten sich kaum merklich nach oben kein Lächeln eher die Andeutung eines Lächelns wie ein Schatten der kurz über eine Mauer fällt wenn Wolken ziehen:
+
+„Das meinte ich“
+
+Eine lange Stille legte sich zwischen sie gefüllt mit dem Geräusch fallender Asche im erkalteten Ofen mit dem Knarren von Leder wenn einer von ihnen unruhig trat mit dem Atem zweier Männer die wussten dass dies ihr letztes Gespräch sein würde -
+
+Dann ging Shigi zum Tisch hinüber stellte sich vor das Bündel betrachtete es ohne es zu berühren:
+
+„Was rettest du?“
+
+Die Frage hing im Raum wie Rauch wie Nebel wie ein Wort das noch nicht ausgesprochen worden war aber schon existierte seit Jahren seit Jahrzehnten seitdem Fatima gestorben war seitdem ihre Briefe eingenäht worden waren seitdem Juvaini zum ersten Mal verstanden hatte dass Schreiben auch Verschweigen bedeutete -
+
+Juvaini trat neben ihn seine Schulter nahe an Shigis Schulter aber beide berührten sich nicht:
+
+„Eine Wahrheit“, sagte Juvaini „die nie gelesen werden darf“
+
+Shigis Blick blieb auf das Bündel gerichtet:
+
+„Warum?“
+
+Juvaini atmete tief ein spürte den Geruch von Filz von altem Papier von getrockneter Tinte von Staub von Zeit von Vergänglichkeit von Ewigkeit -
+
+„Damit sie überlebt“, sagte er langsam jedes Wort abwägend als forme er einen Satz für ein Dokument das erst in hundert Jahren geöffnet werden würde „Vielleicht kommt eine Zeit ohne Khane in der Wahrheit niemanden mehr tötet“
+
+Shigi schwieg lange so lange dass Juvaini dachte der Richter sei eingeschlafen oder habe aufgehört zu atmen oder sei einfach verschwunden aus diesem Zelt aus dieser Welt aus dieser Zeit -
+
+Dann sprach Shigi leise wie ein Mann der zu sich selbst spricht wie ein Mann der etwas sagt was er nie laut gesagt hat weil Laut-Sagen bedeutet dass es wirklich ist:
+
+„Ich habe mein Leben lang geurteilt“ seine Stimme zitterte ganz leicht ganz kurz ganz fast unhörbar „Du wirst dein Leben lang schreiben“
+
+Er hob den Kopf wandte sich Juvaini direkt zu sah ihn an mit diesen alten Augen die so viel gesehen hatten so viel gewogen hatten so viel verurteilt hatten so viel bewahrt hatten so viel verloren hatten -
+
+„Wir haben beide versagt“, sagte Shigi „aber wir haben bewahrt“
+
+Juvaini spürte etwas in seiner Brust lösen – kein Schmerz keine Erleichterung kein Jubel keine Trauer sondern etwas anderes etwas Drittes etwas das keinen Namen hatte weil es zwischen allen Gefühlen lag jenseits aller Worte aller Formulierungen aller Dichtung aller Prosa aller Wahrheit aller Lüge -
+
+Er nickte einmal kurz:
+
+„Ja“
+
+Shigis Hand fuhr langsam zum Gürtel öffnete eine kleine Ledertasche entnahm ihr einen Gegenstand den er zwischen Daumen und Zeigefinger hielt ohne ihn anzusehen ohne ihn zu präsentieren ohne ihn wegzugeben -
+
+Es war sein Siegelabdruck - rund oval flach grauweiß wie getrockneter Lehm eingefasst in einen schmalen Silberring das Zeichen des Oberrichters eingeprägt deutlich lesbar unverwechselbar endgültig -
+
+Shigi hielt ihn hin:
+
+„Wenn du es je öffnest öffne es dort wo sie es nicht finden können“
+
+Juvaini nahm den Siegelabdruck vorsichtig als wäre er lebendig als könnte er zerbrechen wenn man ihn zu fest hielt als wäre er schwerer als alles was je gewogen worden war schwerer als alle Urteile aller Richter aller Zeiten aller Reiche -
+
+Er legte ihn neben das Bündel auf den Tisch dann sah er wieder auf:
+
+„Wofür ist das Pfand?“
+
+Shigis Lippen öffneten sich fast widerwillig fast gegen seinen Willen fast als müsse jedes Wort einzeln aus ihm herausgebrochen werden:
+
+„Für meine Schuld“ seine Stimme war jetzt rau heiser alt „Ich habe ihr Urteil gesiegelt ich habe ihre Stimme gelöscht ich habe ihren Tod ermöglicht indem ich lebend weitermachte während sie -“
+
+Er brach ab räusperte sich fuhr fort leiser fester klarer endgültiger:
+
+„Dieses Siegel ist mein Geständnis mein einziger Beweis dass ich wusste was ich tat und dass ich trotzdem weitermachte weil weitermachen einfacher ist als aufhören einfacher ist als kämpfen einfacher ist als sterben einfacher ist alles einfacher ist nichts einfacher ist -“
+
+Seine Hand zitterte jetzt sichtbar aber seine Stimme blieb ruhig vollkommen ruhig vollkommen kontrolliert vollkommen tot vollkommen lebendig vollkommen menschlich vollkommen unmenschlich -
+
+Juvaini sagte nichts denn es gab nichts zu sagen
+
+Stattdessen nahm er das Bündel vom Tisch hob es hoch drückte es gegen seine Brust spürte durch den Filz hindurch die Umrisse von Papier von Federetui von Briefen von Erinnerungen von Tod von Leben von Wahrheit von Liebe von Verlust von Bewahrung -
+
+Dann trat er einen Schritt zurück zwei Schritte drei bis zur Türöffnung wo der graue Morgen langsam heller wurde heller grauer grauer heller unentschlossen zweideutig still wartend atmend seiend nichts alles -
+
+Er drehte sich um
+
+ging hinaus
+
+ohne zurückzublicken
+
+ohne stehenzubleiben
+
+ohne Abschiedswort
+
+ohne letzte Geste
+
+ohne Versprechen
+
+ohne Hoffnung
+
+ohne Furcht
+
+ohne Zweifel
+
+ohne Gewissheit
+
+nur mit dem Bündel unter dem Arm nur mit dem Siegelabdruck in der Tasche nur mit dem Auftrag weiterzuschreiben weiterzumachen weiterzuatmen weiterzuleben weiterzutragen weiterzugehen weiterzureisen weiterzuwerden weiterzuvergehen weiterzuentstehen weiterzuverschwinden weiterzu-
+
+---
+
+Draußen begann der Tag grau still windlos endlos zeitlos ewig vergänglich bleibend gehend kommend seiend nichts alles Anfang Ende Damals Später Früher Heute Morgen Gestern Jetzt Immer Nie Wieder Fort Weiter Hin Weg Da Dort Hier Bleiben Gehen Kommen Sein Nichtsein Werden Vergehen Entstehen Verschwinden Atmen Stocken Leben Sterben Geburt Grab Wiege Sarg Anfang Ende Alpha Omega Erster Letzter Gott Teufel Mensch Tier Ding Wort Ton Bild Licht Schatten Farbe Leere Fülle Hunger Durst Kälte Hitze Ruhe Bewegung Stillstand Fortschritt Rückkehr Wiederholung Veränderung Kontinuität Bruch Naht Narbe Wunde Heilung Krankheit Gesundheit Jugend Alter Kind Greis Mann Frau Frau Mann Mensch Wesen Nichts Alles Alles Nichts -
+
+Der Wagen rollte gen Westen gezogen von zwei Pferden beladen mit einer Truhe gefüllt mit Büchern Briefen Dokumenten Formularen Geständnissen Urkunden Listen Registern Chroniken Gedichten Liebesbriefen Todesurteilen Lebensträumen Wahrheiten Lügen Erinnerungen Vergessenem Bewahrtem Verlorenem Gefundenem Fortgetragenem Zurückgelassenem Mitgenommenem Ohnezugebendem Mit Allem Mit Nichts Mit Allem Mit Nichts Mit All-
+
+Shigi stand im Staub hinter ihm klein alt gebeugt müde leer voll schwer leicht tot lebendig vergangen gegenwärtig zukünftig unmöglich möglich wirklich unwirklich sicher unsicher wahr falsch richtig falsch gut böse gerecht ungerecht menschlich unmenschlich göttlich teuflisch himmlisch höllisch irdisch jenseitig diesseitig grenzenlos begrenzt unendlich endlich ewig zeitlich momentan dauernd vergehend bleibend gehend kommend seiend nichts alles alles nichts -
+
+Der Wagen wurde kleiner am Horizont verschmolz mit Dunst und Erde trennte Himmel vom Boden trennte Osten vom Westen trennte Gestern vom Morgen trennte Hier vom Dort trennte Wir vom Ich trennte Mich vom Dir trennte Alles vom Nichts trennte Nichts vom Alles trennte Trennung selbst vom Getrenntsein bis nur noch Staub übrig blieb nur noch Wind übrig blieb nur noch Stille übrig blieb nur noch Atmen übrig blieb nur noch Sein übrig blieb nur noch Nichts übrig blieb nur noch Alles übrig blieb -
+
+---
+
+Shigi stand lange da länger als nötig länger als vernünftig länger als möglich länger als erträglich länger als menschlich länger als göttlich länger als zeitlich länger als ewig länger als endlos länger als leer länger als voll länger als alles länger als nichts -
+
+Dann hob er langsam seine rechte Hand legte sie flach auf seine Brust direkt über sein Herz direkt über sein Geständnis direkt über seine Schuld direkt über seine Reue direkt über seine Entscheidung direkt über seinen Verrat direkt über seine Treue direkt über sein Leben direkt über seinen Tod direkt über sein Sein direkt über sein Nichts -
+
+Und lächelnd wandelte heim Richtung Archiv Richtung Vergangenheit Richtung Gegenwart Richtung Zukunft Richtung Anfang Richtung Ende Richtung Wiederholung Richtung Veränderung Richtung Kontinuität Richtung Bruch Richtung Naht Richtung Narbe Richtung Wunde Richtung Heilung Richtung Krankheit Richtung Gesundhei-
+
+Richtig-
+
+Fertig-
+
+Vollendet-
+
+Abgeschlossen-
+
+Beendet-
+
+Fortgeführt-
+
+Weitergetragen-
+
+Bewahrt-
+
+Vergessen-
+
+Erinnert-
+
+Geschrieben-
+
+Gelesen-
+Gehört-
+Gesehen-
+Gefühlt-
+Gedacht-
+Gewusst-
+Nichtgewusst-
+Seiend-
+Nichtseiend-
+Alles-
+Nichts-
+Weiter-
+
+---
+
+## 48. Epilog – Bagdad, 1258
+
+# EPILOG – Bagdad, 1258
+
+Kalak umrundete einen Felsvorsprung und blieb stehen. Der Himmel brannte in einem Rot, das er nie zuvor gesehen hatte – nicht das Rot der Dämmerung, nicht das Rot des Sturms, sondern das Rot einer Stadt, die seit drei Tagen in Flammen stand.
+
+Bagdad brannte.
+
+Er stand auf einem Hügel östlich der Stadt, wo die Rauchsäulen sich zu einer einzigen schwarzen Wolke vermischten, die das Sonnenlicht verschlang. Die Luft war heiß und schwer von Asche, die wie Schnee auf die Ruinen fiel. Unter ihm, im Tal des Tigris, lag die zerstörte Metropole des Kalifats – einst die größte Stadt der Welt, einst das Herz des Wissens und der Macht, nun ein Friedhof aus Stein und verbrannten Büchern.
+
+Juvaini ritt durch das Osttor, das als eines der wenigen noch stand.
+
+Sein Pferd stolperte über Trümmer, die den Weg versperrten. Er zwang es weiter, zwang es durch Rauch und Hitze, durch die Schreie der Verwundeten und das Stöhnen der Sterbenden. Die Straßen waren übersät mit Leichen – Männer, Frauen, Kinder, alle in derselben Haltung gefallen, als hätte der Tod sie im Laufen eingeholt.
+
+Er hatte solche Bilder gesehen. In Chorasan, als Kind. In Merw, als junger Schreiber. In Nischapur, in Herat, in Balkh. Immer dieselbe Szenerie, immer dieselbe Stille nach dem Fall, immer derselbe Geruch von brennendem Fleisch und byzantinischem Rauch.
+
+Aber diesmal war er auf der Seite derer, die die Tore geöffnet hatten.
+
+Juvaini zwang den Gedanken weg, drückte ihn tief hinunter in den Schacht, den er in sich trug. Er hatte gelernt, diese Gedanken wegzudrücken. Zwanzig Jahre am mongolischen Hof hatten ihn gelehrt, dass die Wahrheit der Feder nichts galt, wenn das Schwert sprach.
+
+Er ritt weiter.
+
+Das Viertel der Hanbaliten lag am westlichen Rand der Altstadt, nahe den Basaren, die seit zwei Tagen brannten. Juvaini erkannte die Straße an den Resten eines Wasserbrunnens, den er vor Jahren skizziert hatte – für ein Buch, das er nie schreiben würde, über die Stadt, die er nie besitzen würde. Das Haus stand noch. Die Mauern waren geschwärzt, das Dach teilweise eingestürzt, aber das Gebäude selbst hielt.
+
+Ein junger mongolischer Offizier wartete vor dem Tor. Tümen. Derselbe, der ihn am ersten Tag durch die Stadt geführt hatte, als der Sturm noch nicht gewütet hatte, als Bagdad noch eine Stadt und nicht ein Grab war.
+
+„Herr Juvaini“, sagte Tümen und salutierte mit der flachen Hand. „Das Archiv der Hanbaliten. Die Steuerregister sind gesichert, die Landtitel verpackt. Die Kuriere warten auf Ihre Anweisung.“
+
+Juvaini stieg vom Pferd, spürte die Müdigkeit in den Knochen, die Sehne des Beins, die noch immer schmerzte von den Jahren des Reitens. Er nickte, ging auf das Tor zu, blieb dann stehen.
+
+„Mein Haus“, sagte er. „Das Viertel der Gelehrten. Wie weit ist es?“
+
+Tümen zögerte. „Es brennt, Herr. Seit gestern. Die Flammen haben die Bibliotheken erreicht. Die Kuppel der Moschee ist eingestürzt. Ich fürchte…“
+
+„Ich brauche zwei Männer“, unterbrach Juvaini. „Eine Stunde. Nicht länger. Sag dem Hauptmann, ich sichere die Steuerregister meiner eigenen Provinz. Die Schreine des Kalifats. Die Dokumente des Waqf.
+
+Tümen sah ihn an, als wolle er etwas sagen – etwas über die Sinnlosigkeit, über die Gefahr, über die Befehle Hülegüs, die jede Rettung von Privatbesitz verboten. Dann schwieg er. Er kannte Juvaini seit Wochen. Er wusste, dass dieser Perser anders war als die anderen Schreiber. Dass er Dinge sah, die andere nicht sahen.
+
+„Zwei Männer“, sagte Tümen und wandte sich um. „Eine Stunde. Aber wenn der Wind dreht, müssen wir zurück. Habt Ihr verstanden?“
+
+„Ich verstehe“, sagte Juvaini.
+
+Sie ritten durch die brennenden Straßen.
+
+Juvaini lenkte sein Pferd durch Gassen, die er auswendig kannte – aus den Karten der Eroberer, aus den Berichten der Gelehrten, aus den Träumen eines jungen Mannes, der einmal gedacht hatte, er könne die Welt durch Worte verändern. Die Stadt brannte um ihn herum. Die Bibliotheken brannten. Die Moscheen brannten. Die Paläste brannten.
+
+Und er ritt hindurch wie ein Schatten, wie ein Geist, der nicht wusste, dass er schon tot war.
+
+Sein Haus stand noch.
+
+Die Fassade war geschwärzt, aber die Tür war unbeschädigt. Der Innenhof war voller Asche, aber die Bäume standen – die Zypressen, die er vor Jahren gepflanzt hatte, als er zum ersten Mal in diese Stadt gekommen war. Sie waren verbrannt, verkohlt, aber sie standen.
+
+Juvaini stieg ab, befahl den Männern, am Tor zu warten, und ging hinein.
+
+Das Innere war zerstört. Die Möbel waren umgestürzt, die Bücher verstreut, die Teppiche verkohlt. Er ging durch die Räume wie ein Blinder, tastete sich an den Wänden entlang, suchte nach etwas, das er vor zwanzig Jahren versteckt hatte.
+
+Die Diele im dritten Raum – unter dem Teppich, den er niemals benutzt hatte.
+
+Er kniete nieder, drückte die Platte, spürte das Holz unter den Fingern, das Knarren, das Knacken. Die Platte löste sich, und darunter, in der Dunkelheit, lag die Truhe.
+
+Die Zedernholztruhe.
+
+Er zog sie heraus mit zitternden Händen. Sie war noch immer versiegelt, noch immer mit Lederriemen umwickelt, noch immer vollständig eingehüllt. Er hielt sie einen Moment lang, wie eine Reliquie, wie etwas Heiliges.
+
+Dann schob er sie unter seinen Mantel, band sie fest mit einem Seil, und verließ das Haus.
+
+Draußen brannte die Stadt.
+
+Der junge Offizier erwartete ihn am Tor. „Herr? Ist etwas?“
+
+„Steuerregister“, sagte Juvaini. „Die letzten Steuerregister des Viertels. Sie müssen in einem gesicherten Keller deponiert werden, sofort.
+
+Tümen sah die Truhe. Sie war klein, nicht größter als ein Kindersarg. Sie war mit Leder bezogen, mit Riemen verschlossen, mit einem Siegel versehen, das im fahlen Licht der Flammen fast unsichtbar war.
+
+„Eine Truhe für Steuerregister?“, fragte Tümen.
+
+„Die wichtigsten Steuerregister des gesamten Kalifats“, sagte Juvaini ruhig. „Die Tribute von Chorasan, von Fars, von Aserbaidschan. Die Eigentumsverhältnisse der Gelehrten, die jetzt unter unseren Schutz gestellt wurden. Hülegü Khan wird diese Papiere brauchen. Für den Wiederaufbau. Für die Verwaltung.
+
+Tümen sah ihn an. Er war jung, erst zwanzig Jahre alt, aber er war klug. Er wusste, dass dies nicht die ganze Wahrheit war. Aber er wusste auch, dass Juvaini für Hülegü arbeitete, dass er das Vertrauen der Eroberer hatte, dass sein Wort mehr galt als das eines einfachen Offiziers.
+
+„Ihr braucht einen Keller“, sagte Tümen. „Ich kenne einen. Ein Haus im Süden der Stadt, das der Kalif selbst genutzt haben soll. Die Katakomben sind tief, die Mauern dick. Kein Feuer wird sie erreichen.
+
+„Zeig mir den Weg“, sagte Juvaini.
+
+Der Keller war kalt und dunkel.
+
+Juvaini trug die Truhe selbst die Treppe hinunter, die Stufen waren schmal, die Wände mit Ruß bedeckt. Das Haus war ein Anbau des Kalifenpalastes, ein Gebäude, das vor zwei Jahrhunderten errichtet worden war, um die seltensten Manuskripte der islamischen Welt zu beherbergen.
+
+Jetzt war es leer.
+
+Die Regale waren geplündert, die Bücher verbrannt, die Dokumente zerrissen. Nur die Katakomben waren intakt – die Gänge unter der Erde, wo die alten Akten der Kalifen begraben lagen.
+
+Juvaini stellte die Truhe auf einen steinernen Tisch in der Mitte des Raumes. Seine Hand zitterte, als er das Siegel prüfte.
+
+Es war intakt.
+
+Die Federn, die er vor zwanzig Jahren eingewebt hatte, waren noch da. Die Farbe war verblasst. Der Stoff war abgenutzt. Aber das Siegel war intakt.
+
+Er öffnete die Truhe nicht.
+
+Er setzte sich auf den steinernen Boden, die Hände auf der Truhe, die Augen geschlossen. Er dachte an die Frau, die er geliebt hatte, an die Briefe, die sie geschrieben hatte, an die Chronik, die er niemals gelesen hatte. Er dachte an den Mann im Osten, der das Gesetz geliebt und die Wahrheit getötet hatte. Er dachte an den jungen Schreiber, der die Kraft gefunden hatte, die Wahrheit zu bewahren.
+
+Er dachte an die zwei Chroniken, die man heute kaufen konnte.
+
+Die Geheime Geschichte der Mongolen, verfasst in einer Sprache, die kaum jemand übersetzen konnte, aufbewahrt in den Archiven Chinas, aber veröffentlicht in einer Welt, die sie nicht verstand.
+
+Seine eigene Weltgeschichte, die er in den Jahren des Westfeldzugs verfasst hatte, eine Chronik der mongolischen Eroberungen aus der Feder eines Dieners der Eroberer.
+
+Zwei Chroniken, die man kaufen konnte.
+
+Und die dritte.
+
+Er legte die Hand auf die Truhe und spürte das Holz unter den Fingern. Die Frau, die die dritte Chronik geschrieben hatte, war tot. Der Mann, der sie bewahrt hatte, war tot. Der Richter, der das Urteil gesiegelt hatte, würde bald tot sein.
+
+Aber die Chronik lebte.
+
+Juvaini holte die Nadel aus seinem Mantel, den Faden, den er seit zwanzig Jahren trug. Er nähte die Truhe neu ein, eine Naht nach der anderen, sorgfältig, akribisch, als ob er das einzige Exemplar der Wahrheit in einem Meer von Lügen bewahren würde.
+
+Dann stand er auf, trug die Truhe durch die Katakomben, bis er einen Raum fand, der mit Regalen gefüllt war. Die Gnadengesuche der verstorbenen Kalifen. Die Bittschriften der Toten, die niemals erhört worden waren.
+
+Er stellte die Truhe zwischen sie.
+
+Ein Bündel unter Bündeln. Eine Akte unter Akten. Eine Wahrheit unter Lügen.
+
+Die Methode der toten Akten, wie Shigi Qutuqu es vor zwanzig Jahren genannt hatte. Die Kunst, etwas so zu verstecken, dass es niemand sucht, indem man es mit dem versteckt, das niemand liest.
+
+Juvaini trat einen Schritt zurück. Die Truhe war nicht mehr zu erkennen. Sie war eines von Hunderten Bündeln, die hier lagerten, alt, verstaubt, vergessen.
+
+Er könnte sie nie wieder finden.
+
+Er könnte sie nie wieder lesen.
+
+Er könnte nie wieder die Worte der Frau lesen, die er geliebt hatte.
+
+Aber das war nicht der Sinn.
+
+Die Wahrheit lag im Dunkeln. Aber sie lag.
+
+Und das war alles, was zählte.
+
+Juvaini stieg die Treppe hinauf. Die Katakomben waren dunkel, die Stufen glitschig vom Schweiß der Wände, die Luft schwer und kalt. Er stieg hinauf, Stufe für Stufe, aus der Dunkelheit ins Licht, aus der Vergangenheit in die Gegenwart, aus der Wahrheit in die Lüge.
+
+Oben brannte Bagdad.
+
+Er trat hinaus auf die Straße, in den Rauch, in den Lärm, in das Chaos. Die Stadt brannte. Der Tigris trug Tinte, Seite an Seite mit Leichen, Seite an Seite mit Büchern, Seite an Seite mit Träumen.
+
+Juvaini stand da einen langen Moment, die Hände leer, den Mantel aschebedeckt, das Gesicht maskenhaft still.
+
+Der junge Offizier kam auf ihn zu. „Herr? Ist alles in Ordnung?“
+
+Juvaini nickte. Er hob den Kopf, sah über die Rauchschwaden hinweg, die in den Himmel stiegen. Er konnte die Zitadelle sehen, wo Hülegü Khan die Schätze des Kalifats sortierte. Er konnte die Basare sehen, die noch immer in Flammen standen. Er konnte die Moscheen sehen, deren Kuppeln eingestürzt waren.
+
+Er konnte die neue Ordnung sehen.
+
+„Wir haben Arbeit“, sagte Juvaini. „Die Steuerregister müssen nach Karakorum geschickt werden. Die Landtitel müssen neu vergeben werden. Die Verwaltung muss aufgebaut werden.
+
+Tümen nickte. „Hülegü Khan erwartet Euch im Palast. Er möchte mit Euch über das Statthalteramt sprechen. Er sagt, Ihr kennt das Land, Ihr kennt die Sprachen, Ihr kennt die Menschen. Ihr seid der richtige Mann für den Wiederaufbau.
+
+Juvaini stand still. Seine Hände waren leer. Seine Truhe war im Keller, zwischen den toten Gnadengesuchen vergraben. Seine Gedichte waren verbrannt. Seine Feder war ein Werkzeug der Macht geworden, keine Waffe der Wahrheit.
+
+Er drehte sich um und ging in Richtung Palast.
+
+Seine Schritte waren ruhig, gemessen, entschlossen. Er hatte aufgehört, Gedichte zu schreiben. Er hatte angefangen, Wahrheiten zu vergraben.
+
+Das war seine Form von Liebe.
+
+Die Zypressen brannten in der Ferne. Die Bücher schwammen im Tigris. Die Toten lagen in den Gassen wie vergessene Worte. Die Gelehrten waren tot, die Bibliotheken zerstört, die Erinnerung gelöscht.
+
+Aber in einem Keller im Süden der Stadt, zwischen Gnadengesuchen verstorbener Kalifen, lag ein Bündel aus Filz und Leder.
+
+Zwei dieser Chroniken konnte man kaufen.
+
+Die dritte war das Buch, das der Leser gerade geschlossen hatte.
+
+Juvaini ging durch die brennende Stadt, an die Arbeit. Statthalter werden, wiederaufbauen, dienen. Er war auf der Seite der Macht, der Eroberer, der Sieger.
+
+Aber er trug etwas in sich.
+
+Die Erinnerung daran, dass die Wahrheit nicht stirbt, wenn sie nicht gelesen wird. Dass sie wartet.
+
+Dass sie immer wartet.
+
+---
+
+Er betrat den Palast. Die Korridore waren voller Gesandter, Schreiber, Soldaten. Alle redeten, alle schrien, alle ordneten. Die Eroberung war abgeschlossen, die Ordnung begann.
+
+Juvaini nahm seinen Platz an einem überfüllten Tisch ein. Ein Stapel Papiere wartete auf ihn. Ein Schreiber reichte ihm eine Feder, die noch nass von der neuen Tinte war.
+
+„Das Landtitel für das Viertel, das abgebrannt ist“, sagte der Schreiber. „Die neuen Eigentümer. Hülegü Khan möchte, dass die Verteilung innerhalb der Woche abgeschlossen ist.
+
+Juvaini nahm die Feder. Er hielt sie einen Moment lang, spürte den Schaft zwischen den Fingern.
+
+Früher hatte er Gedichte geschrieben mit dieser Hand. Früher hatte er Briefe an eine tote Frau geschrieben. Früher hatte er geglaubt, dass die Wahrheit siegen würde, wenn er nur lange genug schrieb.
+
+Heute wusste er es besser.
+
+Er setzte die Feder auf das Papier und begann zu schreiben.
+
+Die Stunde der Sieger kam. Die Stunde der Wahrheit auch. Aber sie wartete. Sie wartete immer.
+
+Unter der Stadt, in einem Keller, zwischen toten Gnadengesuchen, lag ein Bündel aus Filz und Leder. Eine Frau hatte es geschrieben. Ein Mann hatte es bewahrt. Ein Richter hatte es gesiegelt. Ein Schreiber hatte es versteckt.
+
+Und niemand würde es lesen.
+
+Nicht heute.
+
+Nicht morgen.
+
+Niemals.
+
+Juvaini schrieb weiter. Das Papier war weiß. Die Tinte war schwarz. Das Wort war wahr.
+
+Die Wahrheit lag im Dunkeln.
+
+Aber sie lag.
+
+---
+

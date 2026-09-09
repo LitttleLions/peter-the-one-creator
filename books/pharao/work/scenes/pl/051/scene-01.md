@@ -122,7 +122,7 @@ Najwyższy sędzia wahał się.
 
 — Słucham — wtrącił pan.
 
-— W Kosem — mówił sędzia — zbuntował się pułk mularzy i kamieniarzy, którym na czas nie dano rzeczy potrzebnych. W Sochem
+— W Kosem — mówił sędzia — zbuntował się pułk mularzy i kamieniarzy, którym na czas nie dano rzeczy potrzebnych. W Sochem chłopstwo zabiło pisarza zbierającego podatki... W Melcatis i Pi-Hebit także chłopi zburzyli domy fenickich dzierżawców... Pod Kasa nie chcieli poprawiać kanału twierdząc, że za tą robotę należy im się płaca od skarbu... Wreszcie w kopalniach porfiru skazańcy pobili dozorców i chcieli gromadą uciekać w stronę morza...
 
 — Wcale nie zaskoczyły mnie wiadomości — odparł faraon. — Ale co ty myślisz o nich?
 

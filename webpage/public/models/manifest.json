@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "packId": "clothbound-hardcovers",
+  "status": "pending_mint",
+  "description": "Cohesive clothbound hardcover variants for the Motivatier shelf. Empty until Mint MCP is connected and the Asset Pack is imported.",
+  "look": {
+    "style": "clothbound hardcover",
+    "palette": "warm editorial cream / walnut",
+    "countTarget": [12, 16]
+  },
+  "assetRoot": "/models",
+  "models": [],
+  "blocker": {
+    "code": "mint_mcp_not_connected",
+    "message": "Mint MCP (https://mcp.mint.gg/mcp) is not in the Cursor MCP catalog. Connect and authenticate, then regenerate the Asset Pack and fill this list with real local GLB paths.",
+    "recordedAt": "2026-07-28"
+  }
+}

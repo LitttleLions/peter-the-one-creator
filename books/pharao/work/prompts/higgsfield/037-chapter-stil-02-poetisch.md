@@ -1,0 +1,1 @@
+*Buch: Der Pharao* *Quelle: EPUB/part43.xhtml* <!-- status: pending --> Po wizycie u Sargona dwaj święci mężowie, Mefres i Mentezufis, okrywszy się starannie burnusami, wracali zamyśleni do domu. Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.

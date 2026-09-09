@@ -35,7 +35,7 @@ Chór II. Który sam sobie daje imię, a nikt go nie wstrzyma między bogami...
 
 Chór I. Znam imię wielkiego boga, który tam jest...
 
-Chór II. Gdyż ja jestem wielki ptak Benu, który próbuje to, co jest
+Chór II. Gdyż ja jestem wielki ptak Benu, który próbuje to, co jest.”
 
 Po dwu dniach jęków i nabożeństw zajechał przed pałac wielki wóz w formie łodzi. Jej końce były ozdobione baranimi głowami i wachlarzami z piór strusich, a nad kosztownym baldachimem unosił się orzeł i wąż ureus, symbol władzy faraona.
 

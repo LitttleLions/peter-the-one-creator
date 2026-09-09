@@ -5,7 +5,7 @@
 
 <!-- status: pending -->
 
-Po pogrzebie faraona Egipt wrócił do zwykłego trybu życia, a Ramzes XIII do spraw państwowych. Nowy władca w miesiącu Epifi (kwiecień — maj) zwiedził miasta położone za Tebami wzdłuż Nilu. Był więc w Sni, mieście bardzo przemysłowym i handlowym, gdzie znajdowała się świątynia Knepha
+Po pogrzebie faraona Egipt wrócił do zwykłego trybu życia, a Ramzes XIII do spraw państwowych. Nowy władca w miesiącu Epifi (kwiecień — maj) zwiedził miasta położone za Tebami wzdłuż Nilu. Był więc w Sni, mieście bardzo przemysłowym i handlowym, gdzie znajdowała się świątynia Knepha, czyli „duszy świata”. Zwiedził Edfu, którego świątynia, o dziesięciopiętrowych pylonach, posiadała ogromną bibliotekę papirusów, a na ścianach miała wypisaną i wymalowaną jakby encyklopedię ówczesnej jeografii, astronomii i teologii. Wstąpił do łomów kamienia w Chennu; w Nubii, czyli Kom Ombo, złożył ofiary Horusowi, bogu światła, i Sebekowi, który jest duchem ciemności. Był na wyspie Ab, która między czarnymi skałami wyglądała jak szmaragd, rodziła najlepsze daktyle i nazywała się stolicą słoniów: tam bowiem koncentrował się handel kością słoniową. Wstąpił wreszcie do miasta Sunnu, położonego przy pierwszej katarakcie Nilowej, i zwiedził olbrzymie kopalnie granitu tudzież sjenitu, w których łupano skały za pomocą klinów napojonych wodą i wyciosywano obeliski na dziewięć piętr wysokie.
 
 Gdziekolwiek ukazał się nowy pan Egiptu, poddani witali go z szalonym zapałem. Nawet pracujący w kopalniach przestępcy, których ciało było pokryte nie zagojonymi ranami, nawet ci zaznali szczęścia: faraon bowiem na trzy dni kazał uwolnić ich od roboty.
 

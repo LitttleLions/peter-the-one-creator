@@ -51,6 +51,11 @@ htmlcov/
 *~
 
 # ============================================================
+# Memory Bank (bewusst nicht gepflegt)
+# ============================================================
+/memory-bank/
+
+# ============================================================
 # Temporäre Debug-/Log-Ausgaben im Repo-Root
 # ============================================================
 /status_mark*.txt
@@ -67,3 +72,11 @@ htmlcov/
 *.tmp
 *.orig
 
+# ============================================================
+# JavaScript / Frontend
+# ============================================================
+node_modules/
+webapp/frontend/dist/
+webapp/frontend/.vite/
+webapp/frontend/.npm-cache/
+webapp/frontend/*.tsbuildinfo

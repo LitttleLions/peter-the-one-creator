@@ -1,0 +1,57 @@
+{
+  "book": "die-dritte-chronik",
+  "chapter": "012",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": null,
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\chapters\\012-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\prompts\\higgsfield\\012-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\assets\\chapter\\chapter-012.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 012. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Der Frühling kam nach Karakorum wie ein Dieb, leise und unerwartet. Der Schnee schmolz nicht, er verschwand einfach eines Morgens, und zurück blieb Matsch, der nach nasser Wolle und verbranntem Dung roch. Fatima stand am Fenster der Kanzlei und betrachtete die Pfützen auf dem Hof. Das Licht war anders jetzt, heller, gnadenloser. Es zeigte jeden Riss im Holz, jeden Fleck auf den Papieren. Sie hatte zwanzig Jahre gebraucht, um zu lernen, dass Licht nie freundlich war. Es enthüllte nur, was man verbergen wollte. Hinter ihr atmete die Kanzlei ihren gleichmäßigen Atem: das Kratzen von Federn auf Papier, das Rascheln von Blättern, das leise Husten eines alten Sekretärs am anderen Ende des Raumes. Fünf Schreiber arbeiteten heute an den Pulten, jeder in seine eigene Aufgabe vertieft. Einer von ihnen war neu. Fatima drehte sich nicht um. Sie wusste genau, wo er saß: am dritten Pult links, das Gesicht halb im Schatten der Säule, die Feder in der Hand wie eine Waffe, die er noch nicht zu führen gelernt hatte. Ata-Malik Juvaini. Der Junge aus Dschuwain mit den schnellen Augen und den langsameren Händen. Sie hatte ihn beobachtet in den Wochen seit jenem ersten Diktat. Er war klug, das stand außer Frage. Seine Abschriften waren fehlerfrei, seine Formulierungen präzise. Aber Klugheit war am Hof keine Tugend – sie war eine Gefahr, die man erst dann erkannte, wenn es zu spät war. Fatima wandte sich vom Fenster ab und ging zu ihrem Pult. Der ältere Sekretär – ein Mann namens Yulbars mit grauem Bart und schmalen Lippen – blickte auf, als sie vorbeikam. Seine Augen folgerten ihr wie die eines Hundes, der wusste, dass er nicht der Liebling war.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_193208_1a7f24de-ad91-4d97-a2e6-16724f39c088.png",
+  "job_result": [
+    {
+      "id": "1a7f24de-ad91-4d97-a2e6-16724f39c088",
+      "status": "completed",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_193208_1a7f24de-ad91-4d97-a2e6-16724f39c088.png",
+      "created_at": 1784835128.693015,
+      "params": {
+        "width": 880,
+        "height": 1168,
+        "prompt": "Chapter 012. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Der Frühling kam nach Karakorum wie ein Dieb, leise und unerwartet. Der Schnee schmolz nicht, er verschwand einfach eines Morgens, und zurück blieb Matsch, der nach nasser Wolle und verbranntem Dung roch. Fatima stand am Fenster der Kanzlei und betrachtete die Pfützen auf dem Hof. Das Licht war anders jetzt, heller, gnadenloser. Es zeigte jeden Riss im Holz, jeden Fleck auf den Papieren. Sie hatte zwanzig Jahre gebraucht, um zu lernen, dass Licht nie freundlich war. Es enthüllte nur, was man verbergen wollte. Hinter ihr atmete die Kanzlei ihren gleichmäßigen Atem: das Kratzen von Federn auf Papier, das Rascheln von Blättern, das leise Husten eines alten Sekretärs am anderen Ende des Raumes. Fünf Schreiber arbeiteten heute an den Pulten, jeder in seine eigene Aufgabe vertieft. Einer von ihnen war neu. Fatima drehte sich nicht um. Sie wusste genau, wo er saß: am dritten Pult links, das Gesicht halb im Schatten der Säule, die Feder in der Hand wie eine Waffe, die er noch nicht zu führen gelernt hatte. Ata-Malik Juvaini. Der Junge aus Dschuwain mit den schnellen Augen und den langsameren Händen. Sie hatte ihn beobachtet in den Wochen seit jenem ersten Diktat. Er war klug, das stand außer Frage. Seine Abschriften waren fehlerfrei, seine Formulierungen präzise. Aber Klugheit war am Hof keine Tugend – sie war eine Gefahr, die man erst dann erkannte, wenn es zu spät war. Fatima wandte sich vom Fenster ab und ging zu ihrem Pult. Der ältere Sekretär – ein Mann namens Yulbars mit grauem Bart und schmalen Lippen – blickte auf, als sie vorbeikam. Seine Augen folgerten ihr wie die eines Hundes, der wusste, dass er nicht der Liebling war.",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "high",
+        "resolution": "1k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

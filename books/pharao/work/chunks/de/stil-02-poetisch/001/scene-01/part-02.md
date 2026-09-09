@@ -1,132 +1,136 @@
-> „Wer den Weg der Götter geht, darf nicht eilen, denn die Ewigkeit kennt keine Stunden – doch der Krieger, der zaudert, verliert die Schlacht, bevor sie beginnt.“  
-> — Aus den Maximen des Ptahhotep, zugeschrieben
+> *„Die Wüste ist ein offenes Buch, doch nur der Tor liest darin die Wege der Menschen; der Weise liest die Wege der Götter.“*
+> – Aus den Lehren des Ptahhotep
 
-Hinter der Vorhut, umringt von einem Trupp Axtträger, bewegte sich die Sänfte des Ministers, und hinter ihr, in ehernen Helmen und Panzern, die griechischen Rotten, deren gemessener Schritt an das Schlagen schwerer Hämmer gemahnte. Im Rücken hörte man das Knarren der Wagen, das Brüllen des Viehs und die Schreie der Treiber, und seitlich der Straße schlängelte sich ein bärtiger phönizischer Händler in einer zwischen zwei Eseln hängenden Sänfte vorbei. Über all dem lastete ein Dunst aus goldenem Staub und Gluthitze.
+Und es entstand ein großes Treiben in dieser Gegend. Am Himmel jagte das Raubgevögel der Wüste hinter den Tauben und Dohlen des Landes Gosen her. Entlang des Kanals schwangen sich knarrende Schöpfwerke mit ihren Eimern voll fruchtbaren Wassers, und die Menschen, die Früchte sammelten, erschienen und verschwanden zwischen dem Grün der Bäume wie bunte Schmetterlinge. In der Wüste aber, auf der Heerstraße, wimmelte es bereits von Soldaten und ihrem Tross. Eine Abteilung berittener Lanzenreiter jagte vorüber. Hinter ihnen marschierten Bogenschützen in Kappen und Schürzen; sie trugen die Bogen in der Faust, den Köcher auf dem Rücken und breite Hiebmesser an der rechten Seite. Den Bogenschützen folgten Schleuderer, die Beutel mit Geschossen trugen und mit kurzen Schwertern bewaffnet waren.
 
-Plötzlich sprengte von der Vorhut ein berittener Soldat heran und meldete dem Minister, dass der Thronfolger nahe. Seine Erlaucht stieg aus der Sänfte, und im selben Augenblick erschien auf der Straße eine Handvoll Reiter, die aus den Sätteln sprangen. Daraufhin gingen einer der Reiter und der Minister aufeinander zu, blieben alle paar Schritte stehen und verbeugten sich.
+Hundert Schritte hinter ihnen kamen zwei kleine Abteilungen Fußvolk: die eine mit Speeren bewaffnet, die andere mit Streitäxten. Beide trugen rechteckige Schilde in den Händen, auf der Brust dicke Wämser, gleichsam Panzer, und auf dem Kopf Kappen mit Tüchern, die den Nacken vor der Hitze schützten. Kappen und Wämser waren gestreift: blau mit weiß oder gelb mit schwarz, was die Soldaten großen Hornissen ähnlich machte.
 
-„Sei gegrüßt, Sohn des Pharao, der ewig leben möge“, sprach der Minister.
+Hinter der Vorhut, umgeben von einer Abteilung Axtträger, bewegte sich die Sänfte des Ministers, und hinter ihr, in kupfernen Helmen und Panzern, die griechischen Rotten, deren gleichmäßiger Schritt an die Schläge schwerer Hämmer erinnerte. Im Rücken war das Knarren der Wagen zu hören, das Brüllen der Rinder und die Rufe der Fuhrleute, und seitlich der Heerstraße schlüpfte ein bärtiger phönizischer Händler in einer zwischen zwei Eseln aufgehängten Sänfte vorbei. Über alledem lag eine Wolke goldenen Staubes und die Glut.
 
-„Sei gegrüßt und lebe lange, heiliger Vater“, erwiderte der Thronfolger. Dann fügte er hinzu:
+Plötzlich sprengte ein Reiter von der Vorhut herbei und meldete dem Minister, dass der Thronfolger nahe. Seine Hoheit stieg aus der Sänfte, und im selben Augenblick erschien auf der Heerstraße eine Handvoll Reiter, die von den Pferden sprangen. Daraufhin gingen einer der Reiter und der Minister aufeinander zu, blieben alle paar Schritte stehen und verneigten sich.
 
-„Ihr zieht so langsam, als hätte man euch die Beine durchgesägt, und Nitager wird spätestens in zwei Stunden vor unserem Korps stehen.“
+„Sei gegrüßt, Sohn des Pharao, der ewig leben möge“, sagte der Minister.
 
-„Du hast die Wahrheit gesprochen. Dein Stab marschiert sehr träge.“
+„Sei gegrüßt und lebe lange, heiliger Vater“, erwiderte der Nachfolger. Und dann fügte er hinzu:
 
-„Eunana sagt mir auch“ – hier wies Ramses auf einen hinter ihm stehenden, mit Amuletten behängten Offizier – „dass ihr keine Spähtrupps in die Schluchten entsandtet. Und doch hätte im Falle eines wirklichen Krieges der Feind von dieser Seite her angreifen können.“
+„Ihr zieht so langsam daher, als hätte man euch die Beine abgesägt, und Nitager wird in spätestens zwei Stunden vor unserem Korps stehen.“
 
-„Ich bin kein Befehlshaber, sondern ein Richter“, antwortete der Minister ruhig.
+„Du hast die Wahrheit gesprochen. Dein Stab marschiert sehr langsam.“
 
-„Und was tat Patrokles?“
+„Auch Eunana sagt mir“ – hier wies Ramses auf den hinter ihm stehenden, mit Amuletten behängten Offizier –, „dass ihr keine Patrouillen in die Schluchten geschickt habt. Dabei hätte euch im Falle eines wirklichen Krieges der Feind von dieser Seite überfallen können.“
 
-„Patrokles eskortiert mit seinem griechischen Regiment die Kriegsmaschinen.“
+„Ich bin kein Befehlshaber, sondern ein Richter“, antwortete der Minister gelassen.
 
-„Und mein Vetter und Adjutant, Tutmosis?“
+„Und was hat Patrokles gemacht?“
 
-„Schläft angeblich noch.“
+„Patrokles eskortiert mit dem griechischen Regiment die Kriegsmaschinen.“
 
-Ramses stampfte ungeduldig mit dem Fuß auf und verstummte. Er war ein schöner Jüngling, sein Antlitz fast frauenhaft, dem Zorn und Sonnenbräune einen eigenen Liebreiz verliehen. Er trug einen eng anliegenden Waffenrock in blauen und weißen Streifen, ein Tuch von gleicher Farbe unter dem Helm, eine goldene Kette um den Hals und ein kostbares Schwert unter dem linken Arm.
+„Und mein Vetter und Adjutant, Tutmozis?“
 
-„Ich sehe“, begann der Fürst, „dass du als Einziger, Eunana, um meine Ehre besorgt bist.“
+„Der schläft wohl noch.“
 
-Der mit Amuletten behängte Offizier neigte sich zur Erde.
+Ramses stampfte ungeduldig mit dem Fuß auf und verstummte. Er war ein schöner Jüngling mit einem fast weiblichen Gesicht, dem Zorn und Sonnenbräune Anmut verliehen. Er trug ein enges Wams mit blauen und weißen Streifen, ein Tuch derselben Farbe unter dem Helm, eine goldene Kette um den Hals und ein kostbares Schwert unter dem linken Arm.
 
-„Tutmosis ist ein Taugenichts“, sagte der Thronfolger weiter. „Kehre, Eunana, auf deinen Posten zurück. Möge wenigstens die Vorhut einen Befehlshaber haben.“
+„Ich sehe“, sagte der Prinz, „dass nur du allein, Eunana, auf meine Ehre bedacht bist.“
 
-Dann blickte er auf das Gefolge, das ihn bereits umringt hatte, wie aus der Erde hervorgewachsen, und fügte hinzu:
+Der mit Amuletten behängte Offizier verneigte sich bis zur Erde.
 
-„Man bringe mir die Sänfte. Ich bin müde wie ein Steinmetz.“
+„Tutmozis ist ein Taugenichts“, fuhr der Nachfolger fort. „Kehr zurück, Eunana, auf deinen Posten. Möge wenigstens die Vorhut einen Befehlshaber haben.“
 
-„Als ob Götter je ermüden könnten! …“, flüsterte der noch hinter ihm stehende Eunana.
+Dann, nachdem er auf das Gefolge geblickt hatte, das ihn bereits umgab, als wäre es aus dem Boden gewachsen, fügte er hinzu:
 
-„Geh an deinen Platz“, sagte Ramses.
+„Man bringe mir meine Sänfte. Ich bin müde wie ein Steinmetz.“
 
-„Vielleicht befiehlst du mir, Abbild des Mondes, nun die Schluchten zu erkunden?“, fragte der Offizier leise. „Ich flehe dich an, befiehl mir dies, denn wo ich auch bin, mein Herz jagt dir nach, um deinen Willen zu erahnen und zu erfüllen.“
+„Können denn Götter müde werden?...“, flüsterte der noch hinter ihm stehende Eunana.
 
-„Ich weiß, dass du wachsam bist“, entgegnete Ramses. „Geh schon und hab Acht auf alles.“
+„Geh auf deinen Posten“, sagte Ramses.
 
-„Heiliger Vater“ – wandte sich Eunana an den Minister – „ich empfehle Eurer Erlaucht meine untertänigsten Dienste.“
+„Oder befiehlst du mir, Abbild des Mondes, jetzt die Schluchten zu erkunden?“, fragte der Offizier leise. „Ich bitte dich, befiehl mir, denn wo immer ich bin, mein Herz jagt dir nach, um deinen Willen zu erraten und ihn zu erfüllen.“
 
-Kaum war Eunana davongeritten, entstand am Ende der marschierenden Kolonne ein noch größerer Tumult. Man suchte die Sänfte des Thronfolgers, doch – sie war nicht da. Stattdessen tauchte, die griechischen Soldaten auseinanderdrängend, ein junger Mann von seltsamem Äußeren auf. Er trug ein Hemd aus Musselin, eine reich bestickte Schürze und eine goldene Schärpe über der Schulter. Vor allem aber zeichneten ihn seine gewaltige Perücke aus, die aus einer Unmenge kleiner Zöpfe bestand, und sein künstlicher Bart, der einem Katzenschwanz glich.
+„Ich weiß, dass du wachsam bist“, erwiderte Ramses. „Geh nun und gib auf alles Acht.“
 
-Es war Tutmosis, der erste Elegant von Memphis, der sich selbst während des Marsches herausputzte und mit Parfüm übergoss.
+„Heiliger Vater“, wandte sich Eunana an den Minister, „ich empfehle Eurer Hoheit meinen untertänigsten Dienst.“
 
-„Sei gegrüßt, Ramses!“, rief der Elegant und drängte sich stürmisch an den Offizieren vorbei. „Stell dir vor, deine Sänfte ist samt Trägern verschwunden; du musst also in meine steigen, die zwar deiner nicht würdig, aber nicht die schlechteste ist.“
+Kaum war Eunana fortgeritten, als sich am Ende der marschierenden Kolonne ein noch größerer Tumult erhob. Man suchte die Sänfte des Thronfolgers, aber – sie war nicht da. Stattdessen erschien, die griechischen Soldaten durchbrechend, ein junger Mann von seltsamem Äußeren. Er trug ein Musselinhemd, eine reich bestickte Schürze und eine goldene Schärpe über der Schulter. Vor allem aber zeichnete ihn seine gewaltige Perücke aus, die aus unzähligen Zöpfchen bestand, und ein künstlicher Bart, der einem Katzenschwanz glich.
 
-„Du hast mich erzürnt“, erwiderte der Fürst. „Du schläfst, statt auf das Heer Acht zu geben.“
+Es war Tutmozis, der erste Elegant von Memphis, der sich selbst während des Marsches herausputzte und mit Parfüm übergoss.
 
-Der verblüffte Elegant hielt inne.
+„Willkommen, Ramses!“, rief der Elegant, indem er heftig die Offiziere zur Seite schob. „Stell dir vor, deine Sänfte ist irgendwo abhandengekommen; du musst dich also in meine setzen, die zwar deiner nicht würdig ist, aber doch nicht die schlechteste.“
 
-„Ich schlafe? …“, rief er. „Die Zunge möge dem verdorren, der solche Lügen spricht! Ich, wissend, dass du kommen wirst, kleide mich seit einer Stunde an, bereite dir ein Bad und Parfüme …“
+„Du hast mich erzürnt“, erwiderte der Prinz. „Du schläfst, anstatt auf das Heer zu achten.“
 
-„Und unterdessen rückt die Truppe ohne Kommando vor.“
+Der verblüffte Elegant blieb stehen.
 
-„Soll ich etwa Kommandant einer Truppe sein, bei der sich Seine Erlaucht der Kriegsminister und ein solcher Feldherr wie Patrokles befinden?“
+„Ich schlafe?...“, rief er. „Möge die Zunge verdorren dem, der solche Lügen spricht. Ich, wohl wissend, dass du kommen würdest, kleide mich seit einer Stunde an, bereite dir ein Bad und Parfüme...“
 
-Der Thronfolger schwieg, und währenddessen näherte sich Tutmosis ihm und flüsterte:
+„Und währenddessen bewegt sich die Abteilung ohne Kommando fort.“
 
-„Wie siehst du denn aus, Sohn des Pharao? … Ohne Perücke, Haar und Kleidung voller Staub, die Haut schwarz und rissig wie die Erde im Sommer? … Die hochverehrte Königinmutter würde mich vom Hof jagen, sähe sie dein Elend …“
+„Soll ich denn der Kommandant einer Abteilung sein, in der sich Seine Hoheit der Kriegsminister und ein so großer Feldherr wie Patrokles befinden?“
 
-„Ich bin lediglich müde.“
+Der Thronfolger verstummte, während Tutmozis, näher an ihn herantretend, flüsterte:
 
-„So steig in die Sänfte. Es gibt dort frische Kränze aus Rosen, gebratene Vögelchen und einen Krug Wein aus Zypern. Ich habe auch“ – fügte er noch leiser hinzu – „Senura im Lager versteckt …“
+„Wie siehst du nur aus, Sohn des Pharao?... Du hast keine Perücke, Haar und Kleidung sind voller Staub, die Haut schwarz und rissig wie die Erde im Sommer?... Die ehrwürdige Königinmutter würde mich vom Hofe jagen, sähe sie dein Elend...“
 
-„Ist sie da? …“, fragte der Fürst. Seine noch eben funkelnden Augen verschleierten sich.
+„Ich bin nur müde.“
 
-„Lass das Heer vorwärtsziehen“ – sprach Tutmosis – „und wir wollen hier auf sie warten …“
+„Dann setz dich in die Sänfte. Dort sind frische Rosenkränze, gebratene Vögel und ein Krug Wein aus Zypern. Ich habe auch –“, fügte er noch leiser hinzu, „Senura im Lager versteckt...“
+
+„Sie ist da?...“, fragte der Prinz. Seine kurz zuvor noch glänzenden Augen wurden trüb.
+
+„Lass das Heer vorrücken“, sagte Tutmozis, „und wir warten hier auf sie...“
 
 Ramses schien zu erwachen.
 
-„Lass mich in Ruhe, Versuchung! … In zwei Stunden ist doch die Schlacht …“
+„Lass mich in Ruhe, Versucher!... In zwei Stunden ist doch die Schlacht...“
 
-„Was für eine Schlacht! …“
+„Was ist das schon für eine Schlacht!...“
 
-„Nun, zumindest die Entscheidung über das Schicksal meines Kommandos.“
+„Oder zumindest die Entscheidung über mein Kommando.“
 
-„Scherze darüber“, lächelte der Elegant. „Ich schwöre, dass der Kriegsminister schon gestern einen Bericht an Seine Heiligkeit sandte mit der Bitte, dir das Korps von Memphis zu geben.“
+„Scherz damit“, lächelte der Elegant. „Ich möchte wetten, dass der Kriegsminister gestern schon einen Bericht an Seine Heiligkeit geschickt hat mit der Bitte, dass du das Korps von Memphis bekommst.“
 
-„Wie dem auch sei. Heute vermöchte ich an nichts anderes zu denken als an die Armee.“
+„Einerlei. Heute könnte ich an nichts anderes denken als an die Armee.“
 
-„Entsetzlich ist in dir dieser Drang zum Krieg, bei dem sich der Mensch monatelang nicht wäscht, um dann eines Tages zu sterben … Brr! … Hättest du aber Senura gesehen … Schau sie nur an …“
+„Schrecklich ist in dir dieser Drang zum Krieg, bei dem man sich monatelang nicht wäscht, um eines Tages zu sterben... Brr!... Wenn du aber Senura sehen würdest... Wirf nur einen Blick auf sie...“
 
-„Eben darum schaue ich nicht hin“, entgegnete Ramses entschlossen.
+„Eben deshalb werde ich nicht hinsehen“, erwiderte Ramses entschlossen.
 
-In dem Augenblick, als hinter den griechischen Reihen acht Männer die riesige Sänfte des Tutmosis für den Thronfolger hervortrugen, flog von der Vorhut ein Reiter herbei. Er glitt vom Pferd und lief so hastig, dass ihm auf der Brust die Götterbilder oder die Täfelchen mit ihren Namen klirrten. Es war der fieberhaft erregte Eunana.
+In dem Augenblick, als von hinter den griechischen Reihen acht Männer die gewaltige Sänfte des Tutmozis für den Thronfolger herbeischleppten, kam von der Vorhut ein Reiter herbeigeflogen. Er glitt vom Pferd und lief so schnell, dass ihm die Götterbilder oder Täfelchen mit ihren Namen auf der Brust klirrten. Es war der fieberhafte Eunana.
 
-Alle wandten sich ihm zu, was ihm Vergnügen zu bereiten schien.
+Alle wandten sich ihm zu, was ihm Freude zu bereiten schien.
 
-„Erpa-Ra, erhabenster Mund!“, rief Eunana, sich vor Ramses neigend. „Als ich, deinem göttlichen Befehl gemäß, an der Spitze des Zuges ritt und wachsam auf alles achtete, erblickte ich auf der Straße zwei schöne Skarabäen. Jeder der heiligen Käfer wälzte vor sich her eine Kugel aus Lehm …“
+„Erpatre, höchster Mund!“, rief Eunana, sich vor Ramses verneigend. „Als ich, gemäß deinem göttlichen Befehl, an der Spitze der Abteilung ritt und aufmerksam auf alles achtete, erblickte ich auf der Heerstraße zwei schöne Skarabäen. Jeder der heiligen Käfer rollte eine Tonkugel vor sich her quer über den Weg, dem Sande zu...“
 
-„Nun, was weiter?“, unterbrach ihn der Thronfolger.
+„Na und?“, unterbrach ihn der Nachfolger.
 
-„Versteht sich“ – fuhr Eunana fort, mit einem Seitenblick zum Minister – „dass ich und meine Leute, wie es die Frömmigkeit gebietet, den goldenen Abbildern der Sonne die Ehre erwiesen und den Marsch anhielten. Dies ist ein so bedeutendes Omen, dass ohne Befehl niemand von uns wagte, weiter vorzurücken.“
+„Versteht sich“, fuhr Eunana fort, einen Blick in Richtung des Ministers werfend, „dass ich und meine Leute, wie es die Frömmigkeit gebietet, nachdem wir den goldenen Abbildern der Sonne gehuldigt hatten, den Marsch anhielten. Dies ist eine so wichtige Vorbedeutung, dass ohne Befehl keiner von uns es wagen würde, weiterzugehen.“
 
-„Ich sehe, du bist ein wahrhaft frommer Ägypter, obgleich deine Züge hethitisch sind“, antwortete der erlauchte Herhor. Und an einige der nahestehenden Würdenträger gewandt, fügte er hinzu:
+„Ich sehe, du bist ein wahrhaft frommer Ägypter, wenn du auch hethitische Züge hast“, antwortete der würdige Herhor. Und zu einigen nahestehenden Würdenträgern gewandt, fügte er hinzu:
 
-„Wir werden nicht weiter auf der Chaussee ziehen, denn wir könnten die heiligen Käfer zertreten. Pentuer, kann man durch jene Schlucht zur Rechten die Straße umgehen?“
+„Wir werden nicht weiter auf der Heerstraße gehen, denn wir könnten die heiligen Käfer zertreten. Pentuer, kann man diese Schlucht rechts umgehen, um die Heerstraße zu umgehen?“
 
-„Jawohl“, erwiderte der Schreiber des Ministers. „Diese Schlucht ist eine Meile lang und mündet wieder auf die Chaussee, nahezu gegenüber von Pi-Bailos.“
+„Ja“, antwortete der Schreiber des Ministers. „Diese Schlucht ist eine Meile lang und mündet wieder auf die Heerstraße, fast gegenüber von Pi-Bailos.“
 
-„Ein ungeheuerer Zeitverlust“, warf der Thronfolger zornig ein.
+„Ein enormer Zeitverlust“, warf der Nachfolger zornig ein.
 
-„Ich schwöre, das sind keine Skarabäen, sondern die Geister meiner phönizischen Wucherer“, rief der Elegant Tutmosis. „Da sie mich wegen meines Todes nicht mehr zur Kasse bitten können, zwingen sie mich, zur Strafe durch die Wüste zu ziehen! …“
+„Ich möchte schwören, dass das keine Skarabäen sind, sondern die Geister meiner phönizischen Wucherer“, sagte der Elegant Tutmozis. „Da sie wegen des Todes ihr Geld nicht einfordern können, zwingen sie mich zur Strafe, durch die Wüste zu gehen!...“
 
-Das fürstliche Gefolge wartete mit Unruhe auf die Entscheidung, und so sprach Ramses zu Herhor:
+Das fürstliche Gefolge erwartete unruhig die Entscheidung, daher wandte sich Ramses an Herhor:
 
-„Was denkst du darüber, heiliger Vater?“
+„Was hältst du davon, heiliger Vater?“
 
-„Blicke auf deine Offiziere“, entgegnete der Priester, „und du wirst verstehen, dass wir durch die Schlucht ziehen müssen.“
+„Sieh dir die Offiziere an“, erwiderte der Priester, „und du wirst verstehen, dass wir durch die Schlucht gehen müssen.“
 
-Nun trat der Befehlshaber der Griechen, General Patrokles, vor und sprach zum Thronfolger:
+Nun trat der Befehlshaber der Griechen, General Patrokles, vor und sagte zum Nachfolger:
 
-„Wenn der Fürst es erlaubt, wird mein Regiment auf der Chaussee weiterziehen. Unsere Soldaten fürchten sich nicht vor Skarabäen.“
+„Wenn der Prinz erlaubt, wird mein Regiment weiter auf der Heerstraße gehen. Unsere Soldaten fürchten sich nicht vor Skarabäen.“
 
-„Eure Soldaten fürchten sich nicht einmal vor Königsgräbern“, antwortete der Minister. „Dennoch kann es dort nicht geheuer sein, da keiner von ihnen zurückkehrte.“
+„Eure Soldaten fürchten sich nicht einmal vor Königsgräbern“, antwortete der Minister. „Dort muss es jedoch nicht sicher sein, da keiner zurückgekehrt ist.“
 
 Der verwirrte Grieche zog sich ins Gefolge zurück.
 
-„Gib zu, heiliger Vater“, zischte der Thronfolger mit äußerstem Zorn, „dass ein solches Hindernis nicht einmal einen Esel auf der Reise aufhalten würde.“
+„Gib zu, heiliger Vater“, flüsterte der Nachfolger mit äußerstem Zorn, „dass ein solches Hindernis nicht einmal einen Esel auf der Reise aufgehalten hätte.“
 
-„Eben weil ein Esel niemals Pharao werden wird“, erwiderte der Minister ruhig.
+„Eben deshalb wird ein Esel niemals Pharao sein“, erwiderte der Minister gelassen.
 
-„In diesem Falle wirst du, Minister, die Truppe durch die Schlucht führen!“, rief Ramses. „Ich verstehe mich nicht auf priesterliche Taktik, und überdies muss ich ausruhen. Komm mit mir, Vetter“, sagte er zu Tutmosis und lenkte seine Schritte in Richtung der kahlen Hügel.
+„In diesem Fall wirst du, Minister, die Abteilung durch die Schlucht führen!“, rief Ramses. „Ich verstehe nichts von priesterlicher Taktik, außerdem muss ich ausruhen. Komm mit mir, Vetter“, sagte er zu Tutmozis und wandte sich den kahlen Hügeln zu.

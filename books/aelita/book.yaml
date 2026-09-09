@@ -1,0 +1,90 @@
+id: aelita
+title: Aëlita
+author: Alexei Nikolajewitsch Tolstoi
+source_path: source/Aelita - Tolstoi - ru.xhtml
+source_lang: ru
+target_lang: de
+ruleset_path: ''
+ruleset_apply: false
+style_mode: stil-03-branderson
+work_dir: work
+exports_dir: exports
+status_file: status/status.json
+log_dir: status/logs
+styles_dir: styles
+assets_dir: assets
+names_file: names.yaml
+illustration_setting: >-
+  Post-revolutionary Soviet Union, 1920s Petrograd, and an ancient Mars civilisation.
+  Cinematic literary science-fiction illustration, elegant realism, painterly detail,
+  atmospheric depth. Post-revolutionary Soviet Union, 1920s Petrograd, and an ancient Mars
+  civilisation. Two Soviet man travellers and a Martian female princess; Martians look
+  human but with subtle bird-like facial features and blue-tinged skin and a very long
+  sharp nose. Red deserts, canals, vertical cities, winged airships. Atmospheric depth,
+  Martian architecture, alien flora and fauna. Cinematic literary illustration, painterly
+  detail, no lettering. Clear central figure or charged situation; emotionally resonant,
+  historically and futuristically grounded.
+structure:
+  mode: chapter_as_scene
+  label: Kapitel als Szenen
+  groups: []
+display:
+  chapters:
+    format: source_title
+    suffix: ''
+    align: center
+    include_source_title: true
+  scenes:
+    show: false
+    format: number
+    align: center
+    page_break: false
+    separator: ''
+naming_convention:
+  style: Deutsche Transliteration russischer Namen nach Duden-Üblichkeit.
+  example:
+  - Аэлита -> Aëlita
+  - Лось -> Los
+  - Гусев -> Gussew
+  - Тускуб -> Tuskub
+  - Марс -> Mars
+higgsfield:
+  model: text2image_soul_v2
+  aspect_ratio: '3:4'
+  quality: 1.5k
+  moodboard:
+    name: Aelite
+    web_ui_moodboard_id: 6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba
+    style_id: 6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba
+    availability: web_ui_only
+    source: higgsfield generate list --image --size 100 --json
+    note: >-
+      Higgsfield-Support bestaetigt: Web-UI-Moodboards werden nicht ueber API,
+      CLI oder MCP exponiert. Diese UUID ist nur Metadatum fuer manuelle
+      Web-UI-Laeufe und darf nicht als custom_reference_id, --image oder
+      API-style_id verwendet werden.
+  reference_images: []
+  soul:
+    name: Fairy I
+    id: 0fb45e81-0939-41e4-bee4-f0d007a8ec43
+    type: soul_2
+    status: completed
+    enabled: false
+    usage: Bekannte Character/Soul-Referenz fuer Aelita. Nicht mit dem Web-UI-Moodboard verwechseln; nur fuer bewusste Character-Tests oder Referenzbild-Workflows nutzen.
+  image_processing:
+    format: JPEG
+    jpeg_quality: 60
+    max_width: 1600
+    max_height: 2400
+notes: Buchpaket fuer Alexei Tolstoi, Aëlita (Аэлита). EPUB-Quelle (XHTML extrahiert).
+  Der Roman gliedert sich in 30 eigenständig betitelte Abschnitte ohne klassische
+  Глава-Nummerierung. Die verwendete Textgrundlage beruht auf einer späteren Redaktion
+  (1937-1939), nicht auf dem Erstdruck von 1922-1923.
+ai_liter:
+  default_style: stil-02-poetisch
+ai:
+  provider: openrouter
+  model: deepseek/deepseek-v4-pro
+  granularity: scene
+  max_tokens_per_scene: 10000
+  chunk_char_limit: 12000

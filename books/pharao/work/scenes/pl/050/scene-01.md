@@ -6,7 +6,7 @@ Powitawszy wojsko, jego świątobliwość udał się do łazienki i wziął kąp
 
 — Nie potrzeba. Nie jestem kapłanem, tylko żołnierzem.
 
-Słowa te w chwilę później przeszły do sali audiencjonalnej, w godzinę obiegły pałac, około południa rozniosły się po mieście Memfis, a nad wieczorem znane były we wszystkich świątyniach państwa, od Tami-n-hor i Sabne-Chetam
+Słowa te w chwilę później przeszły do sali audiencjonalnej, w godzinę obiegły pałac, około południa rozniosły się po mieście Memfis, a nad wieczorem znane były we wszystkich świątyniach państwa, od Tami-n-hor i Sabne-Chetam na północy do Suunu i Pilak na południu.
 
 Na tę wieść nomarchowie, szlachta, wojsko, lud i cudzoziemcy szaleli z radości, ale święty stan kapłański tym gorliwiej obchodził żałobę po zmarłym faraonie.
 

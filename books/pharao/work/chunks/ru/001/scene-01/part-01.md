@@ -1,14 +1,14 @@
 W trzydziestym trzecim roku szczęśliwego panowania Ramzesa XII Egipt święcił dwie uroczystości, które prawowiernych jego mieszkańców napełniły dumą i słodyczą.
 
-W miesiącu Mechir, w grudniu, wrócił do Teb, obsypany kosztownymi darami, bożek Chonsu
+W miesiącu Mechir, w grudniu, wrócił do Teb, obsypany kosztownymi darami, bożek Chonsu, który przez trzy lata i dziewięć miesięcy podróżował w kraju Buchten, uzdrowił tam córkę królewską imieniem Bent-res i wypędził złego ducha nie tylko z rodziny króla, ale nawet z fortecy Buchtenu.
 
 Zaś w miesiącu Farmuti, w lutym, pan Górnego i Dolnego Egiptu, władca Fenicji i dziewięciu narodów, Mer-amen-Ramzes XII, po naradzeniu się z bogami, którym jest równy, mianował swoim erpatrem, czyli następcą tronu, dwudziestodwuletniego syna Chamsem-merer-amen-Ramzesa.
 
-Wybór ten wielce uradował pobożnych kapłanów, dostojnych nomarchów, waleczną armię, wierny lud i wszelkie żyjące na ziemi egipskiej stworzenie. Starsi bowiem synowie faraona, urodzeni z królewny chetyjskiej
+Wybór ten wielce uradował pobożnych kapłanów, dostojnych nomarchów, waleczną armię, wierny lud i wszelkie żyjące na ziemi egipskiej stworzenie. Starsi bowiem synowie faraona, urodzeni z królewny chetyjskiej, za sprawą czarów, których zbadać nie można, byli nawiedzeni przez złego ducha. Jeden syn, dwudziestosiedmioletni, od czasu pełnoletności nie mógł chodzić, drugi przeciął sobie żyły i umarł, a trzeci przez zatrute wino, którego nie chciał się wyrzec, wpadł w szaleństwo i mniemając, że jest małpą, całe dnie przepędzał na drzewach.
 
-Dopiero czwarty syn, Ramzes, urodzony z królowej Nikotris, córki arcykapłana Amenhotepa, był silny jak wół Apis
+Dopiero czwarty syn, Ramzes, urodzony z królowej Nikotris, córki arcykapłana Amenhotepa, był silny jak wół Apis, odważny jak lew i mądry jak kapłani. Od dzieciństwa otaczał się wojskowymi i jeszcze będąc zwyczajnym księciem, mawiał:
 
-— Gdyby bogowie, zamiast młodszym synem królewskim, uczynili mnie faraonem, podbiłbym, jak Ramzes Wielki, dziewięć narodów, o których nigdy w Egipcie nie słyszano, zbudowałbym świątynię większą aniżeli całe Teby, a dla siebie wzniósłbym piramidę, przy której grób Cheopsa
+— Gdyby bogowie, zamiast młodszym synem królewskim, uczynili mnie faraonem, podbiłbym, jak Ramzes Wielki, dziewięć narodów, o których nigdy w Egipcie nie słyszano, zbudowałbym świątynię większą aniżeli całe Teby, a dla siebie wzniósłbym piramidę, przy której grób Cheopsa wyglądałby jak krzak róży obok dojrzałej palmy.
 
 Otrzymawszy tak pożądany tytuł erpatra, młody książę poprosił ojca o łaskawe mianowanie go dowódcą korpusu Menfi. Na co jego świątobliwość Ramzes XII, po naradzie z bogami, którym jest równy, odpowiedział, iż uczyni to, jeżeli następca tronu złoży dowód, że potrafi kierować masą wojsk na stopie bojowej.
 
@@ -16,11 +16,11 @@ W tym celu zwołaną została rada pod prezydencją ministra wojny San-amen-Herh
 
 Rada postanowiła:
 
-Następca tronu w połowie miesiąca Misori (początek czerwca) zbierze dziesięć pułków rozlokowanych wzdłuż linii, która łączy miasto Memfis z miastem Pi-Uto leżącym w Zatoce Sebenickiej
+Następca tronu w połowie miesiąca Misori (początek czerwca) zbierze dziesięć pułków rozlokowanych wzdłuż linii, która łączy miasto Memfis z miastem Pi-Uto leżącym w Zatoce Sebenickiej.
 
-Z dziesięciotysięcznym korpusem, przygotowanym do boju, zaopatrzonym w obóz i machiny wojenne następca uda się na wschód, ku gościńcowi, który biegnie od Memfis do Chetem, na granicy ziemi Gosen
+Z dziesięciotysięcznym korpusem, przygotowanym do boju, zaopatrzonym w obóz i machiny wojenne następca uda się na wschód, ku gościńcowi, który biegnie od Memfis do Chetem, na granicy ziemi Gosen i pustyni egipskiej.
 
-W tym czasie jenerał Nitager, naczelny wódz armii, która strzeże bram Egiptu od najazdu azjatyckich ludów, ma wyruszyć od Gorzkich Jezior
+W tym czasie jenerał Nitager, naczelny wódz armii, która strzeże bram Egiptu od najazdu azjatyckich ludów, ma wyruszyć od Gorzkich Jezior przeciw następcy tronu.
 
 Obie armie: azjatycka i zachodnia, zetkną się w okolicach miasta Pi-Bailos, ale — na pustyni, ażeby pracowity rolnik ziemi Gosen nie doznał przeszkód w swoich zajęciach.
 
@@ -32,7 +32,7 @@ Granicę ziemi Gosen i pustyni stanowiły dwie drogi komunikacyjne. Jedną był 
 
 Niezależnie od sztucznych granic sąsiadujące krainy różniły się pod każdym względem. Ziemia Gosen pomimo falistości gruntu wydawała się równiną, pustynię zaś składały wapienne wzgórza i doliny piaszczyste. Ziemia Gosen wyglądała jak olbrzymia szachownica, której zielone i żółte poletka odgraniczały się barwą zbóż i palmami rosnącymi na miedzach; zaś na rudym piasku pustyni i jej białych wzgórzach płat zieloności albo kępa drzew i krzaków wyglądały jak zabłąkany podróżny.
 
-Na płodnej ziemi Gosen z każdego pagórka tryskał ciemny gaj akacji, sykomorów i tamaryndusów
+Na płodnej ziemi Gosen z każdego pagórka tryskał ciemny gaj akacji, sykomorów i tamaryndusów, z daleka przypominających nasze lipy, wśród których kryły się pałacyki z rzędami przysadzistych kolumn albo żółte lepianki chłopów. Niekiedy obok gaju bieliło się miasteczko z domami o płaskich dachach albo ponad drzewa ciężko wznosiły się piramidalne bramy świątyń, niby podwójne skały, upstrzone dziwnymi znakami.
 
 W pustyni, spoza pierwszego szeregu trochę zielonych pagórków, wyzierały nagie wzgórza, zasłane stertami głazów. Zdawało się, że przesycony nadmiarem życia kraj zachodni z królewską hojnością rzuca na drugą stronę kanału zieleń i kwiaty; lecz wiecznie głodna pustynia pożera je w następnym roku i przerabia na popiół.
 
@@ -81,7 +81,3 @@ Niebawem zachodni horyzont oblała barwa złota. I zdawało się, że zielonoś�
 Straże stojące wzdłuż szosy doskonale mogły widzieć wysadzone palmami pola za kanałem. Na jednych zielenił się len, pszenica, koniczyna, na innych — złocił się dojrzewający jęczmień drugiego posiewu. Jednocześnie z chat, ukrytych między drzewami, zaczęli wychodzić do roboty rolnicy, ludzie nadzy, barwy miedzianej, którzy za cały ubiór mieli krótką spódniczkę na biodrach i czepek na głowie.
 
 Jedni zwrócili się do kanałów, aby oczyszczać je z mułu albo czerpać wodę i wylewać na pola za pomocą machin podobnych do żurawi przy studniach. Inni rozproszywszy się między drzewami zbierali dojrzałe figi i winogrona. Snuło się tam sporo nagich dzieci i kobiet w białych, żółtych lub czerwonych koszulach bez rękawów.
-
-I był wielki ruch w tej okolicy. Na niebie drapieżne ptactwo pustyni uganiało się za gołębiami i kawkami ziemi Gosen. Wzdłuż kanału huśtały się zgrzytające żurawie z kubełkami płodnej wody, a ludzie, którzy zbierali owoce, ukazywali się i znikali między zielonością drzew jak barwne motyle. Zaś w pustyni, na szosie, już zamrowiło się wojsko i jego służba. Przeleciał oddział konnych uzbrojony w lance. Za nim pomaszerowali łucznicy w czepkach i spódniczkach; mieli oni łuki w garści, sajdaki
-
-O sto kroków za nimi szły dwa małe oddziałki piechoty: jeden uzbrojony we włócznie, drugi w topory. Ci i tamci nieśli w rękach prostokątne tarcze, na piersiach mieli grube kaftany, niby pancerze, a na głowie czepki z chusteczkami zasłaniającymi kark od upału. Czepki i kaftany były w pasy: niebieskie z białym lub żółte z czarnym, co robiło żołnierzy podobnymi do wielkich szerszeni.

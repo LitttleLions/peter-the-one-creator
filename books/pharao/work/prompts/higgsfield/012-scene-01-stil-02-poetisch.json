@@ -1,0 +1,65 @@
+{
+  "book": "pharao",
+  "chapter": "012",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "b1808566-674b-4495-b268-756f2ea287d5",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\work\\scenes\\de\\stil-02-poetisch\\012\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\work\\prompts\\higgsfield\\012-scene-01-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\pharao\\assets\\scene\\012\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "Den größeren Teil der Nacht durchwachte Ramses in fiebrigen, heißen Träumen. Bald zeigte sich ihm das Gespenst des Staates als ein unermessliches Labyrinth von gewaltigen Mauern, die man nicht durchbrechen konnte. Dann wieder sah er den Schatten jenes Priesters, dessen einziges, weises Wort ihm einen Weg aus dem Labyrinth gewiesen hatte. Und da traten ihm, ganz unverhofft, zwei Mächte entgegen: das Interesse des Staates, das er bislang, obgleich Thronfolger, nie verspürt hatte, und – das Priestertum, das er zerschmettern und zu seinem Knecht machen wollte. Es war eine schwere Nacht. Der Prinz wälzte sich auf seinem Lager hin und her und stellte sich die Frage: ob er nicht blind gewesen und erst heute sehend geworden sei – nur um seiner Torheit und Nichtigkeit gewahr zu werden? Wie anders zeigten sich ihm in diesen Stunden die Warnungen der Mutter, die Zurückhaltung des Vaters beim Aussprechen des höchsten Willens, ja selbst das strenge Walten des Ministers Herhor. „Der Staat und das... Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--custom_reference_id",
+    "b1808566-674b-4495-b268-756f2ea287d5",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260617_182349_b26c7e69-d581-426b-82f3-18964b5738b8.png",
+  "job_result": [
+    {
+      "id": "b26c7e69-d581-426b-82f3-18964b5738b8",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260617_182349_b26c7e69-d581-426b-82f3-18964b5738b8.png",
+      "created_at": 1781720629.649975,
+      "params": {
+        "prompt": "Den größeren Teil der Nacht durchwachte Ramses in fiebrigen, heißen Träumen. Bald zeigte sich ihm das Gespenst des Staates als ein unermessliches Labyrinth von gewaltigen Mauern, die man nicht durchbrechen konnte. Dann wieder sah er den Schatten jenes Priesters, dessen einziges, weises Wort ihm einen Weg aus dem Labyrinth gewiesen hatte. Und da traten ihm, ganz unverhofft, zwei Mächte entgegen: das Interesse des Staates, das er bislang, obgleich Thronfolger, nie verspürt hatte, und – das Priestertum, das er zerschmettern und zu seinem Knecht machen wollte. Es war eine schwere Nacht. Der Prinz wälzte sich auf seinem Lager hin und her und stellte sich die Frage: ob er nicht blind gewesen und erst heute sehend geworden sei – nur um seiner Torheit und Nichtigkeit gewahr zu werden? Wie anders zeigten sich ihm in diesen Stunden die Warnungen der Mutter, die Zurückhaltung des Vaters beim Aussprechen des höchsten Willens, ja selbst das strenge Walten des Ministers Herhor. „Der Staat und das... Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 779154,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "b1808566-674b-4495-b268-756f2ea287d5"
+      }
+    }
+  ]
+}

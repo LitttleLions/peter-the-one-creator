@@ -1,0 +1,141 @@
+Byłby zachwycony wrogim usposobieniem szlachty do kapłanów i wojowniczymi instynktami najwyższych klas, gdyby zapał nie wybuchnął tak nagle i gdyby poza nim nie ukrywali się Fenicjanie.
+
+To kazało następcy być ostrożnym; rozumiał bowiem, że w sprawach Egiptu lepiej ufać patriotyzmowi kapłanów aniżeli przyjaźni Fenicjan.
+
+Lecz przypomniał sobie słowa ojca, że Fenicjanie są prawdomówni i wierni, gdy chodzi o ich interes. Otóż bez kwestii Fenicjanie mieli wielki interes w tym, ażeby nie dostać się pod władzę Asyryjczyków. I można było polegać na nich jako na sprzymierzeńcach w razie wojny, gdyż przegrana Egipcjan odbiłaby się przede wszystkim na Fenicji.
+
+Z drugiej strony Ramzes nie przypuszczał, że kapłani, nawet zawierając tak szpetny traktat z Asyrią, dopuszczali się zdrady. Nie, to nie byli zdrajcy, ale — rozleniwieni dygnitarze. Dogadza im pokój, gdyż wśród spokoju mnożą swoje skarby i rozszerzają władzę. Nie chcą wojny, gdyż wojna spotęgowałaby władzę faraona, a ich samych naraziłaby na ciężkie wydatki.
+
+I stało się, że młody książę, pomimo braku doświadczenia, rozumiał, że musi być ostrożnym, nie śpieszyć się, nikogo nie potępiać, ale też i nikomu nie ufać zbytecznie. On już postanowił wojnę z Asyrią, nie dlatego że pragnęła jej szlachta i Fenicjanie, lecz że Egipt potrzebował skarbów i niewolników.
+
+Ale postanowiwszy wojnę, chciał działać rozważnie. Chciał powoli przekonać do niej stan kapłański, a dopiero w razie oporu — zgnieść go za pomocą wojska i szlachty.
+
+I właśnie wówczas, gdy święty Mefres i Mentezufis żartowali z przepowiedni Sargona, że następca nie podda się kapłanom, ale ich zmusi do posłuszeństwa, już wówczas książę miał gotowy plan ujarzmienia ich i widział, jakie posiada do tego środki. Zaś chwilę rozpoczęcia walki i sposób przeprowadzenia jej pozostawiał przyszłości.
+
+„Czas przynosi najlepsze rady!” — rzekł do siebie. Był spokojny i zadowolony jak człowiek, który po długim wahaniu wie, co ma robić, i posiada wiarę we własne siły. Toteż ażeby pozbyć się nawet śladów niedawnego wzburzenia, poszedł do Sary.
+
+Zabawa z synkiem zawsze koiła jego troski i pogodą napełniała mu serce.
+
+Minął ogród, wszedł do willi swej pierwszej kochanki i zastał ją — znowu we łzach.
+
+— O Saro! — zawołał — gdybyś miała Nil w twojej piersi, potrafiłabyś go wypłakać.
+
+— Już nie będę... — odparła, lecz jeszcze obfitszy strumień polał się z jej oczu.
+
+— Cóż to? — spytał książę — czy znowu sprowadziłaś sobie jakąś wróżkę, która straszy cię Fenicjankami?
+
+— Nie Fenicjanek lękam się, ale Fenicji... — rzekła. — O, ty nie wiesz, panie, jacy to nikczemni ludzie...
+
+— Palą dzieci? — roześmiał się namiestnik.
+
+— Myślisz, że nie?... — odpowiedziała, patrząc na niego wielkimi oczyma.
+
+— Bajki! Wiem przecie od księcia Hirama, że to bajki!...
+
+— Hiram?... — krzyknęła Sara. — Hiram, ależ to największy zbrodniarz... Spytaj mego ojca, o, on powie ci, panie, w jaki sposób Hiram zwabia na swoje statki młode dziewczęta dalekich krajów i — rozpiąwszy żagle, uwozi, aby je sprzedać... Była przecie u nas jasnowłosa niewolnica, którą porwał Hiram. Szalała z tęsknoty za swym krajem, ale nie umiała powiedzieć nawet, gdzie leży jej ojczyzna. I umarła!... Takim jest Hiram, takim nędzny Dagon i wszyscy ci nikczemnicy...
+
+— Może być, ale co nas to obchodzi? — spytał książę.
+
+— Bardzo wiele — mówiła Sara. — Ty, panie, słuchasz dzisiaj rad fenickich, a tymczasem nasi Żydzi wykryli, że Fenicja chce wywołać wojnę między Egiptem i Asyrią... Podobno nawet co najprzedniejsi kupcy i bankierzy feniccy zobowiązali się do tego strasznymi przysięgami...
+
+— Na cóż im wojna?... — wtrącił książę z udaną obojętnością.
+
+— Na co!... — zawołała Sara. — Będą wam i Asyryjczykom dostarczać broni, towarów i wiadomości, a za wszystko każą sobie dziesięć razy drożej płacić... Będą obdzierali poległych i ranionych obu stron... Będą od waszych i asyryjskich żołnierzy wykupywać zrabowane przedmioty i niewolników... Czyliż tego mało?... Egipt i Asyria zrujnują się, ale Fenicja pobuduje nowe składy na bogactwa.
+
+— Któż ci wyłożył taką mądrość?... — uśmiechnął się książę.
+
+— Alboż nie słyszę, jak mój ojciec, nasi krewni i znajomi szepcą o tym, trwożnie oglądając się, aby ich kto nie podsłuchał? Czyliż wreszcie ja nie znam Fenicjan? Przed tobą, panie, oni leżą na brzuchach i ty nie widzisz ich obłudnych spojrzeń, ale ja nieraz przypatrywałam się ich oczom, zielonym z chciwości albo żółtym z gniewu.
+
+O, strzeż się, panie, Fenicjan jak jadowitej żmii!...
+
+Ramzes patrzył na Sarę i mimo woli porównywał jej szczerą miłość — z wyrachowaniem Fenicjanki, jej tkliwe wybuchy — z podstępnym chłodem Kamy.
+
+„Zaprawdę! — myślał. — Fenicjanie są jadowitymi gadami. Ale jeżeli Ramzes Wielki posługiwał się na wojnie lwem, dlaczego ja przeciw wrogom Egiptu nie miałbym użyć żmii?”
+
+I im plastyczniej wyobrażał sobie przewrotność Kamy, tym bardziej pożądał jej. Dusze bohaterskie niekiedy szukają niebezpieczeństw.
+
+Pożegnał Sarę i nagle, nie wiadomo skąd, przypomniał sobie, że Sargon jego podejrzewał o udział w napadzie.
+
+Książę uderzył się w czoło.
+
+— Czyby to ten mój sobowtór — rzekł — urządził bijatykę posłowi?... A w takim razie kto go namówił?... Chyba Fenicjanie?... A jeżeli oni chcieli do tak brudnej rzeczy wmieszać moją osobę, więc słusznie mówi Sara, że to są nikczemnicy, których powinienem się wystrzegać...
+
+Znowu odezwał się w nim gniew i książę postanowił kwestię rozstrzygnąć natychmiast. A ponieważ właśnie zapadał wieczór, więc Ramzes, nie wstępując do siebie, poszedł do Kamy.
+
+Mało obchodziło go, że może być poznany; na wypadek zaś niebezpieczeństwa miał przecie miecz...
+
+W pałacyku kapłanki świeciło się, ale ze służby nikt nie kręcił się w przysionku.
+
+„Dotychczas — pomyślał — Kama wyprawiała swoją służbę, kiedy ja miałem przyjść do niej. Dziś — czy przeczuwa mnie, czy może przyjmuje szczęśliwszego ode mnie kochanka?...”
+
+Wszedł na piętro, stanął przed komnatą Fenicjanki i nagle odsunął kotarę. W pokoju była Kama i Hiram i o czymś szeptali.
+
+— O!... w zły czas przychodzę... — roześmiał się następca. — Cóż to, i wy, książę, zalecacie się do kobiety, której pod karą śmierci nie wolno być łaskawą dla mężczyzn?
+
+Hiram i kapłanka oboje zerwali się z taburetów.
+
+— Widocznie — rzekł Fenicjanin, kłaniając się — jakiś dobry duch ostrzegł cię, panie, że o tobie mówimy...
+
+— Przygotowujecie mi jaką niespodziankę? — spytał namiestnik.
+
+— Może!... Kto to wie?... — odparła Kama, patrząc na niego w sposób wyzywający.
+
+Ale książę odparł chłodno:
+
+— Oby ci, którzy zechcą nadal robić mi niespodzianki, nie zawadzili własną szyją o topór albo powróz... To by więcej ich zdziwiło aniżeli mnie ich postępki.
+
+Kamie uśmiech zastygł na półotwartych ustach; Hiram pobladł i pokornie odezwał się:
+
+— Czym zasłużyliśmy na gniew pana i opiekuna naszego?
+
+— Chcę wiedzieć prawdę — rzekł książę, siadając i groźnie patrząc na Hirama. — Chcę wiedzieć: kto urządził napad na asyryjskiego posła i wmieszał w tę nikczemność człowieka tak podobnego do mnie, jak moja ręka prawa jest podobna do lewej.
+
+— Widzisz, Kamo — odezwał się struchlały Hiram — mówiłem, że poufałość tego łotra do ciebie może sprowadzić wielkie nieszczęście... A oto masz!... Nawet nie czekaliśmy długo.
+
+Fenicjanka rzuciła się do nóg księciu.
+
+— Wszystko powiem — zawołała, jęcząc — tylko wyrzuć, panie, ze swego serca urazę do Fenicji... Mnie zabij, mnie uwięź, ale nie gniewaj się na nich.
+
+— Kto napadł Sargona?
+
+— Lykon, Grek, który śpiewa w naszej świątyni — odparła wciąż klęcząc Fenicjanka.
+
+— Aha!... więc to on wtedy śpiewał pod twoim domem i on jest tak podobny do mnie?...
+
+Hiram schylił głowę i położył rękę na sercu.
+
+— Hojnie płaciliśmy temu człowiekowi — rzekł — za to, że jest podobnym do ciebie, panie... Sądziliśmy, że nędzna jego figura może przydać ci się na wypadek nieszczęścia...
+
+— I przydał się!... — przerwał następca. — Gdzie on jest? Chcę widzieć tego doskonałego śpiewaka... ten mój żywy obraz...
+
+Hiram rozłożył ręce.
+
+— Uciekł, łotr, ale my go znajdziemy — odparł. — Chyba, że zamieni się w muchę albo glistę ziemną...
+
+— A mnie przebaczysz, panie?... — szepnęła Fenicjanka, opierając się na kolanach księcia.
+
+— Wiele przebacza się kobietom — rzekł następca.
+
+— I wy nie będziecie mścili się na mnie?... — trwożnie zapytała Hirama.
+
+— Fenicja — odparł starzec powoli i dobitnie — największy występek zapomni temu, kto posiądzie łaskę pana naszego, Ramzesa — oby żył wiecznie!...
+
+Co się zaś tyczy Lykona — dodał, zwracając się do następcy — będziesz go miał, panie, żywym lub zmarłym...
+
+To powiedziawszy, Hiram nisko ukłonił się i opuścił pokój, zostawiając kapłankę z księciem.
+
+Ramzesowi krew uderzyła do głowy. Objął klęczącą Kamę i szepnął:
+
+— Słyszałaś, co powiedział dostojny Hiram?... Fenicja zapomni ci największy występek!... Zaprawdę, ten człowiek jest mi wierny... A jeżeli on tak powiedział, jaką znajdziesz wymówkę?...
+
+Kama całowała jego ręce, szepcząc:
+
+— Zdobyłeś mnie... jestem twoją niewolnicą... Ale dziś zostaw mnie w spokoju... uszanuj dom, który należy do boskiej Astoreth...
+
+— Więc przeprowadzisz się do mego pałacu? — spytał książę.
+
+— O bogowie, co wyrzekłeś?... Od czasu jak słońce wschodzi i zachodzi, nie było jeszcze wypadku, ażeby kapłanka Astoreth... Ale trudno!... Fenicja, panie, daje ci taki dowód czci i przywiązania, jakiego nigdy nie otrzymał żaden z jej synów...
+
+— Więc... — przerwał książę, tuląc ją.
+
+— Tylko nie dziś i nie tutaj... — błagała.

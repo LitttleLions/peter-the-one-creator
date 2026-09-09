@@ -1,136 +1,177 @@
 ## Szene 1
 
-> „Das Heer ist der Arm des Königs – nicht der Mund des Priesters.“ – Sprichwort aus der Zeit Ramses’ II.
+> „Das Land Gosen liegt wie ein goldener Traum unter der Sonne – fruchtbar, still und begehrt von allen, die Macht besitzen oder nach ihr greifen." – Aus den Aufzeichnungen eines memphitischen Schreibers, Neues Reich
 
-Prinz Ramses keuchte vor Zorn, als er den Hügel hinaufstürmte, Tutmos hinter ihm. Dem Elegant war die Perücke verrutscht, der falsche Kinnbart abgefallen, er trug ihn in den Händen. Trotz der Anstrengung wäre sein Gesicht bleich gewesen, hätte nicht die Schicht Rouge es verdeckt.
+Keuchend vor Zorn erklomm Prinz Ramses den Hügel, Tutmosis dicht hinter ihm. Dem Eleganten hatte sich die Perücke verschoben, der künstliche Bart war abgefallen – er trug ihn nun in den Händen. Trotz der Erschöpfung wäre sein Gesicht blass gewesen, hätte ihn nicht die Schicht Rouge davor bewahrt.
 
-Auf dem Gipfel blieb der Prinz endlich stehen. Aus der Schlucht drang der Lärm der Soldaten herauf und das Poltern der vorrückenden Ballisten; vor ihnen breitete sich das riesige Land Gosen, das noch immer im Sonnenglast badete. Es schien nicht Erde zu sein, sondern eine goldene Wolke, auf die ein Traum eine Landschaft mit Farben aus Smaragden, Silber, Rubinen, Perlen und Topasen gemalt hatte.
+Endlich blieb der Prinz auf dem Gipfel stehen. Aus der Schlucht drang das Lärmen der Soldaten herauf, das Donnern rollender Ballisten; vor ihnen erstreckte sich ein gewaltiges Stück des Landes Gosen, das noch immer im Glanz der Sonne badete. Es schien, als sei es keine Erde, sondern eine goldene Wolke, auf die ein Traum eine Landschaft gemalt hatte – in Farben aus Smaragden, Silber, Rubinen, Perlen und Topasen.
 
-Der Thronfolger streckte die Hand aus.
+Der Thronfolger streckte den Arm aus.
 
-„Sieh!“ rief er Tutmos zu. „Dort soll mein Land sein, und hier steht mein Heer ... Und sieh – dort sind die Paläste der Priester die höchsten Bauten, und hier ist ein Priester der höchste Heerführer! … Kann man so etwas dulden?“
+— Sieh — rief er Tutmosis zu — dort soll mein Land sein, und hier mein Heer... Und was sehe ich? Dort ragen die Paläste der Priester am höchsten, und hier ist der oberste Heerführer ein Priester! Kann man so etwas ertragen?
 
-„So ist es immer gewesen“, erwiderte Tutmos und sah sich furchtsam um.
+— So war es immer — erwiderte Tutmosis und blickte sich ängstlich um.
 
-„Lüge! Ich kenne doch die euch verborgenen Geschichten dieses Landes. Heerführer und Herren der Beamten waren allein die Pharaonen, zumindest die tatkräftigeren unter ihnen. Diesen Herrschern vergingen die Tage nicht mit Opfern und Gebeten, sondern mit der Lenkung des Staates …“
+— Das ist eine Lüge! Ich kenne die Geschichte dieses Landes, die man euch verbirgt. Nur die Pharaonen waren Heerführer und Herren der Beamten – zumindest die tatkräftigeren unter ihnen. Diesen Herrschern vergingen die Tage nicht mit Opfern und Gebeten, sondern mit dem Regieren des Staates.
 
-„Wenn das der Wille seiner Heiligkeit ist …“, warf Tutmos ein.
+— Wenn es der Wille Seiner Heiligkeit ist... — warf Tutmosis ein.
 
-„Es ist nicht der Wille meines Vaters, dass die Nomarchen eigenmächtig in ihren Hauptstädten regieren und der äthiopische Statthalter sich fast dem König der Könige gleichstellt. Und es kann nicht der Wille meines Vaters sein, dass seine Armee zwei goldene Käfer umgeht, nur weil der Kriegsminister ein Priester ist.“
+— Es ist nicht der Wille meines Vaters, dass die Nomarchen in ihren Städten nach eigenem Gutdünken herrschen und der äthiopische Statthalter sich beinahe für ebenbürtig mit dem König der Könige hält. Und es kann nicht der Wille meines Vaters sein, dass seine Armee zwei goldenen Käfern huldigt, nur weil der Kriegsminister ein Priester ist.
 
-„Er ist doch ein großer Krieger! …“, flüsterte Tutmos, der sich zusehends mehr ängstigte.
+— Er ist ein großer Krieger!... — flüsterte Tutmosis, der mit jedem Wort ängstlicher wurde.
 
-„Was für ein großer Krieger! … Dass er eine Handvoll libyscher Räuber geschlagen hat, die schon beim Anblick der Waffenröcke ägyptischer Soldaten hätten fliehen müssen? Aber sieh dir an, was unsere Nachbarn treiben. Israel zögert die Tributzahlung hinaus und zahlt immer weniger. Der listige Phönizier zieht jedes Jahr ein paar Schiffe aus unserer Flotte. Gegen die Hethiter müssen wir im Osten ein großes Heer unterhalten, und bei Babylon –“
+— Was für ein Krieger! Er hat eine Handvoll libyscher Räuber geschlagen, die schon beim bloßen Anblick ägyptischer Soldatenmäntel hätten fliehen sollen. Aber sieh, was unsere Nachbarn treiben. Israel zögert mit dem Tribut und zahlt von Jahr zu Jahr weniger. Der schlaue Phönizier zieht jedes Jahr ein paar Schiffe aus unserer Flotte ab. Gegen die Hethiter müssen wir im Osten ein großes Heer halten, und um Babylon und Ninive brodelt eine Unruhe, die man in ganz Mesopotamien spürt.
 
-„Und was ist das Ende der Priesterherrschaft? Dieses: Mein Urgroßvater hatte noch hunderttausend Talente jährliches Einkommen und hundertsechzigtausend Mann Heer, mein Vater hat kaum fünfzigtausend Talente und hundertzwanzigtausend Mann … Und was für ein Heer! … Gäbe es das griechische Korps nicht, das sie in Ordnung hält wie der Schäferhund die Schafe, würden die ägyptischen Soldaten heute nur noch auf die Priester hören und der Pharao wäre zum elenden Nomarchen herabgesunken.“
+Und was ist das Endergebnis priesterlicher Herrschaft? Dass mein Urgroßvater noch hunderttausend Talente Jahreseinkommen und hundertsechzigtausend Soldaten hatte, während mein Vater kaum noch fünfzigtausend Talente und hundertzwanzigtausend Soldaten besitzt. Und was für ein Heer! Wäre nicht das griechische Korps, das sie in Ordnung hält wie ein Hund die Schafe, würden die ägyptischen Soldaten schon heute nur noch auf die Priester hören, und der Pharao wäre auf das Niveau eines armseligen Nomarchen gesunken.
 
-„Woher weißt du das? Woher solche Gedanken?“ wunderte sich Tutmos.
+— Woher weißt du das?... Woher kommen dir solche Gedanken?... — staunte Tutmosis.
 
-„Stamme ich etwa nicht aus dem Geschlecht der Priester?! Sie haben mich doch gelehrt, als ich noch nicht Thronfolger war. Oh, wenn ich Pharao werde nach meinem Vater – er lebe ewig –, dann setze ich ihnen meinen erzgeschienten Fuß in den Nacken … Und als Erstes greife ich nach ihren Schatzkammern, die schon immer übervoll waren, aber seit Ramses dem Großen zu schwellen begannen und heute so von Gold aufgebläht sind, dass man den Schatz des Pharao dahinter nicht mehr sieht.“
+— Stamme ich nicht aus dem Geschlecht der Priester?! Sie haben mich unterrichtet, als ich noch nicht Thronfolger war. Oh – wenn ich nach meinem Vater, der ewig leben möge, Pharao werde, dann setze ich ihnen den Fuß in der ehernen Sandale in den Nacken. Und zuerst greife ich nach ihren Schatzkammern, die schon immer voll waren, doch seit den Zeiten Ramses' des Großen zu schwellen begannen und heute so prall von Gold sind, dass dahinter der Schatz des Pharaos nicht mehr zu sehen ist.
 
-„Wehe mir und dir!“ seufzte Tutmos. „Du hast Pläne, unter denen dieser Hügel zusammenbräche, könnte er hören und verstehen. Und wo sind deine Kräfte … Helfer … Soldaten? Gegen dich wird das ganze Volk aufstehen, geführt von einer mächtigen Klasse … Und wer steht hinter dir?“
+— Wehe mir und dir! — seufzte Tutmosis. — Du hegst Pläne, unter denen dieser Hügel zusammenbrechen würde, könnte er hören und verstehen. Aber wo sind deine Kräfte... deine Helfer... deine Soldaten? Gegen dich wird das ganze Volk aufstehen, geführt von einer mächtigen Klasse. Und wer steht hinter dir?
 
 Der Prinz hörte zu und versank in Gedanken. Schließlich antwortete er:
 
-„Das Heer …“
+— Das Heer...
 
-„Ein großer Teil davon wird den Priestern folgen.“
+— Ein beträchtlicher Teil davon wird den Priestern folgen.
 
-„Das griechische Korps …“
+— Das griechische Korps...
 
-„Ein Krug Wasser im Nil.“
+— Ein Eimer Wasser im Nil.
 
-„Die Beamten …“
+— Die Beamten...
 
-„Die Hälfte gehört zu ihnen.“
+— Zur Hälfte gehören sie ihnen.
 
 Ramses schüttelte traurig den Kopf und schwieg.
 
-Sie stiegen vom Gipfel einen kahlen, steinigen Abhang auf die andere Seite des Hügels hinab. Da rief Tutmos, der ein wenig vorausgeeilt war:
+Vom Gipfel stiegen sie über einen kahlen, steinigen Abhang auf die andere Seite des Hügels hinab. Da rief Tutmosis, der ein wenig vorausgegangen war:
 
-„Ist ein Zauber auf meine Augen gefallen? Sieh nur, Ramses! Ein zweites Ägypten verbirgt sich zwischen diesen Felsen …“
+— Ist ein Zauber auf meine Augen gefallen?... Schau, Ramses!... Zwischen diesen Felsen verbirgt sich ein zweites Ägypten...
 
-„Irgendein priesterlicher Gutshof, der keine Steuern zahlt“, antwortete der Prinz bitter.
+— Das wird irgendein Priestergut sein, das keine Steuern zahlt — antwortete der Prinz mit Bitterkeit.
 
-Ihnen zu Füßen lag ein fruchtbares Tal in Form einer Gabel, deren Zinken sich zwischen den Felsen verloren. In der einen Zinke standen ein paar Hütten für die Dienerschaft und ein hübsches Haus des Besitzers oder Verwalters. Hier wuchsen Palmen, Wein, Oliven, Feigenbäume mit Luftwurzeln, Zypressen, sogar junge Affenbrotbäume. Ein Wasserlauf durchzog die Mitte, und an den Hängen der Hügel waren alle paar hundert Schritte kleine Teiche zu sehen.
+Zu ihren Füßen, in der Tiefe, lag ein fruchtbares Tal in der Form einer Gabel, deren Zinken sich zwischen den Felsen verloren. In einem Winkel sah man einige Hütten für die Dienerschaft und ein hübsches Haus des Eigentümers oder Verwalters. Hier wuchsen Palmen, Wein, Oliven, Feigenbäume mit Luftwurzeln, Zypressen, sogar junge Baobabs. Durch die Mitte floss ein Wasserbach, und an den Hängen der Hügel sah man alle paar hundert Schritte kleine Teiche.
 
-Als sie zwischen die Weinberge voll reifer Trauben hinabstiegen, hörten sie eine Frauenstimme, die rief oder vielmehr auf eine wehmütige Weise sang:
+Als sie zwischen die Weinberge hinabstiegen, voll reifer Trauben, hörten sie eine Frauenstimme, die rief – oder vielmehr sang, auf eine sehnsuchtsvolle Weise:
 
-„Wo bist du, mein Hühnchen? Gib Laut! Wo bist du, meine Liebste? Du bist mir davongelaufen, obwohl ich selbst dich tränke und füttere mit reinem Korn, dass die Sklaven seufzen. Wo bist du nur? Gib Laut! Bedenke, dass die Nacht dich überrascht und du nicht nach Hause findest, wo alle dir dienen; oder ein rotbrauner Habicht fliegt aus der Wüste herbei und zerfleischt dir das Herz. Dann wirst du vergeblich nach deiner Herrin rufen, so wie ich jetzt nach dir. So gib doch Laut, sonst werde ich zornig und gehe fort, und du wirst mir zu Fuß folgen müssen ...“
+— Wo bist du, mein Hühnchen, melde dich, wo bist du, meine Liebste?... Du bist vor mir geflohen, obwohl ich dich selbst tränke und mit reinem Korn füttere, dass die Sklaven seufzen... Wo bist du, melde dich!... Bedenke, dass dich die Nacht überrascht und du den Weg nach Hause nicht findest, wo dir alle dienen; oder es kommt ein roter Habicht aus der Wüste und zerreißt dir das Herz. Dann wirst du vergebens nach deiner Herrin rufen, wie ich jetzt nach dir... Melde dich doch, sonst werde ich böse und gehe fort, und du musst mir zu Fuß nachkommen...
 
-Der Gesang näherte sich den Reisenden. Die Sängerin war nur noch wenige Schritte entfernt, als Tutmos den Kopf zwischen die Sträucher steckte und rief:
+Der Gesang näherte sich den Reisenden. Schon war die Sängerin nur noch wenige Schritte von ihnen entfernt, als Tutmosis den Kopf zwischen die Büsche schob und rief:
 
-„Sieh nur, Ramses! Was für ein wunderschönes Mädchen!“
+— Schau doch, Ramses, was für ein wunderschönes Mädchen!...
 
-Der Prinz, statt hinzusehen, sprang auf den Pfad und vertrat der Singenden den Weg. Es war tatsächlich ein schönes Mädchen mit griechischen Gesichtszügen und einer Haut wie Elfenbein. Unter dem Schleier quollen gewaltige schwarze Haare, zu einem Knoten geschlungen, hervor. Sie trug ein langes, weißes Gewand, das sie auf einer Seite mit der Hand raffte; unter dem durchscheinenden Schleier zeichneten sich jungfräuliche Brüste ab, an Form Äpfeln gleich.
+Der Prinz, statt zu schauen, sprang auf den Pfad und versperrte der Singenden den Weg. Es war tatsächlich ein schönes Mädchen mit griechischen Gesichtszügen und einer Haut wie Elfenbein. Unter dem Schleier auf ihrem Kopf quollen üppige schwarze Haare hervor, zu einem Knoten gedreht. Sie trug ein weißes, fließendes Gewand, das sie auf einer Seite mit der Hand hob; unter dem durchsichtigen Schleier zeichneten sich jungfräuliche Brüste ab, ihrer Form nach äpfeln ähnlich.
 
-„Wer bist du, Mädchen?“ rief Ramses. Von seiner Stirn verschwanden die drohenden Furchen, die Augen funkelten.
+— Wer bist du, Mädchen? — rief Ramses. Die drohenden Falten auf seiner Stirn waren verschwunden, seine Augen funkelten.
 
-„O Jehova! … Vater! …“, schrie sie entsetzt und blieb reglos auf dem Pfad stehen. Langsam aber beruhigte sie sich, und ihre samtigen Augen nahmen den gewohnten Ausdruck sanfter Trauer an.
+— O Jehova!... Vater!... — schrie sie erschrocken und blieb reglos auf dem Pfad stehen. Langsam beruhigte sie sich jedoch, und ihre samtenen Augen nahmen wieder ihren gewohnten Ausdruck sanfter Schwermut an.
 
-„Wo kommst du denn her?“ fragte sie Ramses mit etwas zittriger Stimme. „Ich sehe, du bist ein Soldat, und Soldaten ist der Zutritt hier verboten.“
+— Wie kommst du hierher?... — fragte sie Ramses mit leicht zitternder Stimme. — Ich sehe, du bist ein Soldat, aber Soldaten ist der Zutritt hier verboten.
 
-„Warum ist er verboten?“
+— Warum verboten?
 
-„Weil dies das Land eines großen Herrn ist, des Sezofris …“
+— Weil dies das Land des großen Herrn Sesofris ist...
 
-„Ho! ho! …“, lächelte Ramses.
+— Ho! ho!... — lächelte Ramses.
 
-„Lache nicht, sonst wirst du bald erbleichen. Herr Sezofris ist Schreiber des Herrn Chaires, der den Wedel über dem erlauchtesten Nomarchen von Memphis trägt … Und mein Vater hat ihn gesehen und ist vor ihm aufs Angesicht gefallen.“
+— Lach nicht, sonst wirst du bald erblassen. Herr Sesofris ist Schreiber des Herrn Chaireas, der den Fächer über dem erlauchten Nomarchen von Memphis trägt... Und mein Vater hat ihn gesehen und fiel vor ihm auf sein Angesicht.
 
-„Ho! ho! ho! …“, wiederholte Ramses, ohne aufzuhören zu lachen.
+— Ho! ho! ho!... — wiederholte Ramses, immer noch lachend.
 
-„Deine Worte sind sehr kühn“, sagte das Mädchen und runzelte die Stirn. „Wenn dir nicht die Güte aus dem Gesicht blickte, hielte ich dich für einen griechischen Söldner oder einen Banditen.“
+— Deine Worte sind sehr verwegen — sagte das Mädchen mit gerunzelter Stirn. — Würde mir nicht Güte aus deinem Gesicht entgegenblicken, würde ich denken, du seist ein griechischer Söldner oder ein Räuber.
 
-„Das ist er noch nicht, aber vielleicht wird er einmal der größte Bandit, den dieses Land je getragen hat“, warf der elegante Tutmos ein und rückte seine Perücke zurecht.
+— Noch ist er keiner, aber vielleicht wird er einmal der größte Räuber, den dieses Land je getragen hat — warf der elegante Tutmosis ein und rückte seine Perücke zurecht.
 
-„Und du musst ein Tänzer sein“, entgegnete das bereits ermutigte Mädchen. „Oh! Ich bin sogar sicher, dich auf dem Jahrmarkt in Pi-Bailos gesehen zu haben, wie du Schlangen beschworen hast …“
+— Und du musst ein Tänzer sein — erwiderte das nun mutigere Mädchen. — Oh!... Ich bin sogar sicher, dass ich dich auf dem Jahrmarkt in Pi-Bailos gesehen habe, wie du Schlangen beschworen hast...
 
-Die beiden jungen Männer gerieten in blendende Laune.
+Beide jungen Männer gerieten in bestes Humor.
 
-„Und wer bist du?“ fragte Ramses das Mädchen und ergriff ihre Hand, die sie zurückzog.
+— Und wer bist du? — fragte Ramses das Mädchen und ergriff ihre Hand, die sie zurückzog.
 
-„Sei nicht so keck. Ich bin Sara, die Tochter Gideon, des Verwalters dieses Gutes.“
-„Eine Jüdin?“, sagte Ramses, und ein Schatten glitt über sein Gesicht.
-„Was schadet das … was schadet das! …“, rief Tutmos. „Denkst du, Jüdinnen sind weniger süß als Ägypterinnen? Sie sind nur sittsamer und spröder, was ihrer Liebe einen ganz außergewöhnlichen Reiz verleiht.“
-„Ihr seid also Heiden“, sagte Sara mit Würde. „Ruht euch aus, wenn ihr müde seid, pflückt euch Trauben und geht mit Gott. Unsere Dienerschaft ist solchen Gästen nicht hold.“
-Sie wollte gehen, aber Ramses hielt sie auf.
-„Bleib … Du gefällst mir, und du kannst uns nicht einfach so verlassen.“
-„Ein böser Geist hat dich besessen. Niemand in diesem Tal wagte, so mit mir zu sprechen …“, empörte sich Sara.
-„Siehst du“, warf Tutmos ein, „dieser Jüngling ist Offizier des Priesterregiments Ptah und Schreiber beim Schreiber eines Herrn, der den Wedel über dem Wedelträger für den Nomarchen von Habu trägt.“
-„Gewiss muss er ein Offizier sein“, erwiderte Sara und betrachtete Ramses nachdenklich. „Vielleicht ist er sogar selbst ein großer Herr?“, fügte sie hinzu und legte den Finger auf die Lippen.
-„Was immer ich bin, deine Schönheit übertrifft meine Würde“, entgegnete Ramses leidenschaftlich. „Sag“, fragte er plötzlich, „ist es wahr, dass ihr … Schweinefleisch esst?“
-Sara blickte ihn beleidigt an, und Tutmos warf ein:
-„Wie man sieht, dass du keine Jüdinnen kennst! Wisse also, ein Jude stürbe lieber, als Schweinefleisch zu essen, das ich übrigens nicht für das schlechteste halte …“
-„Aber Katzen tötet ihr doch?“, drängte Ramses, drückte Saras Hände und sah ihr in die Augen.
-„Auch das ist ein Märchen … ein gemeines Märchen! …“, rief Tutmos. „Du hättest mich über diese Dinge fragen können, anstatt Unsinn zu reden. Ich hatte schließlich drei Jüdinnen zu Geliebten …“
-„Bisher hast du die Wahrheit gesagt, aber jetzt lügst du“, meldete sich Sara. „Eine Jüdin wird niemands Geliebte sein!“, fügte sie stolz hinzu.
-„Nicht einmal die Geliebte des Schreibers bei einem Herrn, der den Wedel über dem memphitischen Nomarchen trägt …?“, fragte Tutmos in spöttischem Ton.
-„Nicht einmal …“
-„Nicht einmal die Geliebte des Herrn, der den Wedel trägt?“
-Sara zögerte, aber sie antwortete:
-„Nicht einmal.“
-„Also wäre sie vielleicht auch nicht die Geliebte des Nomarchen?“
-Dem Mädchen fielen die Arme herab. Mit Erstaunen blickte sie abwechselnd die beiden jungen Männer an; ihre Lippen zitterten und ihre Augen füllten sich mit Tränen.
-„Wer seid ihr?“, fragte sie angstvoll. „Ihr kommt von den Bergen herab wie Wanderer, die Wasser und Brot wollen. Aber ihr sprecht mit mir wie die größten Herren. Was seid ihr für Leute? Dein Schwert“, wandte sie sich an Ramses, „ist mit Smaragden besetzt, und an deinem Hals trägst du eine Kette von solcher Arbeit, wie sie unser Herr, der gnädige Sezofris, nicht in seiner Schatzkammer besitzt …“
-„Antworte mir lieber: Gefalle ich dir?“, fragte Ramses mit Nachdruck, drückte ihre Hand und blickte ihr zärtlich in die Augen.
-„Du bist so schön wie der Engel Gabriel, aber ich fürchte mich vor dir, weil ich nicht weiß, wer du bist …“
-Da ertönte hinter den Bergen der Klang einer Trompete.
-„Sie rufen dich!“, rief Tutmos.
-„Und wenn ich ein so großer Herr wäre wie euer Sezofris?“, fragte der Prinz.
-„Du könntest es sein …“, flüsterte Sara.
-„Und wenn ich den Wedel über dem Nomarchen von Memphis trüge?“
-„Du könntest sogar so groß sein …“
+— Sei nicht so dreist. Ich bin Sara, Tochter des Gideon, Verwalter dieses Gutes.
+
+— Eine Jüdin?... — sagte Ramses, und ein Schatten glitt über sein Gesicht.
+
+— Was schadet das... was schadet das!... — rief Tutmosis. — Glaubst du, Jüdinnen seien weniger süß als Ägypterinnen? Sie sind nur bescheidener und schwerer zu gewinnen, was ihrer Liebe einen außerordentlichen Reiz verleiht.
+
+— Ihr seid also Heiden — sagte Sara mit Würde. — Ruht euch aus, wenn ihr müde seid, pflückt euch Weintrauben und geht mit Gott. Unsere Dienerschaft empfängt solche Gäste nicht gern.
+
+Sie wollte gehen, doch Ramses hielt sie zurück.
+
+— Bleib... Du hast mir gefallen, und so kannst du uns nicht verlassen.
+
+— Ein böser Geist hat dich besessen. Niemand in diesem Tal würde es wagen, so mit mir zu sprechen... — empörte sich Sara.
+
+— Siehst du — warf Tutmosis ein — dieser junge Mann ist Offizier im Priesterregiment des Ptah und Schreiber bei einem Schreiber jenes Herrn, der den Fächer über dem Fächerträger des Nomarchen von Habu trägt.
+
+— Er muss wohl Offizier sein — antwortete Sara und betrachtete Ramses nachdenklich. — Vielleicht ist er sogar selbst ein großer Herr?... — fügte sie hinzu und legte den Finger an die Lippen.
+
+— Was immer ich bin – deine Schönheit überragt meine Würde — antwortete Ramses leidenschaftlich. — Sag mir — fragte er plötzlich — stimmt es, dass ihr... Schweinefleisch esst?...
+
+Sara sah ihn beleidigt an, und Tutmosis warf ein:
+
+— Man sieht, dass du Jüdinnen nicht kennst! So wisse denn: Ein Jude würde lieber sterben, als Schweinefleisch zu essen – das ich übrigens nicht für das schlechteste halte...
+
+— Aber ihr tötet Katzen? — beharrte Ramses, drückte Saras Hände und sah ihr in die Augen.
+
+— Auch das ist ein Märchen... ein schändliches Märchen!... — rief Tutmosis. — Du hättest mich das fragen können, statt solchen Unsinn zu reden... Ich hatte schließlich drei Jüdinnen als Geliebte...
+
+— Bis eben hast du die Wahrheit gesagt, aber jetzt lügst du — meldete sich Sara. — Eine Jüdin wird niemandes Geliebte sein! — fügte sie stolz hinzu.
+
+— Nicht einmal die Geliebte des Schreibers bei jenem Herrn, der den Fächer über dem Nomarchen von Memphis trägt?... — fragte Tutmosis spöttisch.
+
+— Nicht einmal...
+
+— Nicht einmal die Geliebte jenes Herrn, der den Fächer trägt?...
+
+Sara zögerte, antwortete aber:
+
+— Nicht einmal.
+
+— Vielleicht würde sie also nicht die Geliebte des Nomarchen werden?...
+
+Dem Mädchen sanken die Hände herab. Staunend blickte sie abwechselnd auf die beiden jungen Männer; ihre Lippen zitterten, und die Augen füllten sich mit Tränen.
+
+— Wer seid ihr?... — fragte sie bestürzt. — Ihr seid von den Bergen herabgekommen wie Reisende, die Wasser und Brot begehren... Aber ihr sprecht zu mir wie die größten Herren... Wer seid ihr?... Dein Schwert — sie wandte sich an Ramses — ist mit Smaragden besetzt, und um deinen Hals trägst du eine Kette von solcher Arbeit, wie sie unser gnädiger Herr Sesofris nicht in seinem Schatz besitzt...
+
+— Antworte mir lieber, ob ich dir gefalle?... — fragte Ramses drängend, drückte ihre Hand und sah ihr zärtlich in die Augen.
+
+— Du bist schön wie der Engel Gabriel, aber ich fürchte mich vor dir, weil ich nicht weiß, wer du bist...
+
+Da erklang hinter den Bergen der Ton einer Trompete.
+
+— Sie rufen dich — rief Tutmosis.
+
+— Und wenn ich ein so großer Herr wäre wie euer Sesofris?... — fragte der Prinz.
+
+— Du könntest es sein... — flüsterte Sara.
+
+— Und wenn ich den Fächer über dem Nomarchen von Memphis trüge?...
+
+— Du könntest sogar so groß sein...
+
 Irgendwo auf dem Hügel erklang eine zweite Trompete.
-„Lass uns gehen, Ramses!“, drängte der aufgeschreckte Tutmos.
-„Und wenn ich … der Thronfolger wäre, würdest du zu mir kommen, Mädchen?“, fragte der Prinz.
-„O Jehova! …“, schrie Sara und fiel auf die Knie.
-Nun schmetterten Trompeten an verschiedenen Stellen einen heftigen Alarm.
-„Lauf!“, rief der verzweifelte Tutmos. „Hörst du nicht den Alarm im Lager?!“
-Der Thronfolger nahm schnell die Kette von seinem Hals und warf sie Sara über.
-„Gib das deinem Vater“, sagte er. „Ich kaufe dich von ihm. Leb wohl …“
-Leidenschaftlich küsste er sie auf den Mund, und sie umfing seine Füße. Er riss sich los, lief ein paar Schritte, kehrte wieder um und liebkoste erneut ihr schönes Gesicht und das rabenschwarze Haar mit Küssen, als hörte er die ungeduldigen Signale der Armee nicht.
-„Im Namen seiner Heiligkeit des Pharaos rufe ich dich – komm mit mir!“, schrie Tutmos und packte den Prinzen an der Hand.
-Sie rannten in die Richtung der Trompeten. Ramses taumelte bisweilen wie ein Betrunkener und drehte den Kopf zurück. Endlich begannen sie, den gegenüberliegenden Hügel zu erklimmen.
 
-„Und dieser Mensch“, dachte Tutmos, „will gegen die Priester kämpfen! …“
+— Komm, Ramses!... — drängte der erschrockene Tutmosis.
+
+— Und wenn ich... der Thronfolger wäre – würdest du zu mir kommen, Mädchen?... — fragte der Prinz.
+
+— O Jehova!... — schrie Sara und sank auf die Knie.
+
+Nun schmetterten von verschiedenen Punkten Trompeten einen wilden Weckruf.
+
+— Laufen wir!... — rief der verzweifelte Tutmosis. — Hörst du nicht, dass im Lager Alarm ist?...
+
+Der Thronfolger riss rasch die Kette von seinem Hals und warf sie Sara um.
+
+— Gib das deinem Vater — sagte er — ich kaufe dich von ihm. Leb wohl...
+
+Leidenschaftlich küsste er sie auf den Mund, und sie umschlang seine Beine. Er riss sich los, lief ein paar Schritte fort, kehrte wieder um und bedeckte ihr schönes Gesicht und ihr rabenschwarzes Haar mit Küssen, als höre er die ungeduldigen Signale des Heeres nicht.
+
+— Im Namen Seiner Heiligkeit des Pharaos befehle ich dir – komm mit mir!... — schrie Tutmosis und packte den Prinzen am Arm.
+
+Sie liefen in Richtung der Trompeten. Ramses taumelte bisweilen wie ein Trunkener und wandte den Kopf zurück. Schließlich begannen sie den gegenüberliegenden Hügel hinaufzuklettern.
+
+*Und dieser Mensch*, dachte Tutmosis, *will mit den Priestern kämpfen!...*

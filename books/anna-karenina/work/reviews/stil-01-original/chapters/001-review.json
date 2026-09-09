@@ -1,0 +1,79 @@
+{
+  "chapter": "001",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "001",
+      "scene": 1,
+      "ru_path": "books\\anna-karenina\\work\\scenes\\ru\\001\\scene-01.md",
+      "de_path": "books\\anna-karenina\\work\\scenes\\de\\stil-01-original\\001\\scene-01.md",
+      "ru_words": 719,
+      "de_words": 870,
+      "findings": [
+        {
+          "severity": "ERROR",
+          "category": "meaning",
+          "message": "Falsche Übersetzung des Satzes 'Все смешалось в доме Облонских'.",
+          "chapter": "001",
+          "scene": 1,
+          "evidence": "Original: 'Все смешалось в доме Облонских'. Übersetzung: 'Im Hause der Oblonskij war alles durcheinander.'",
+          "recommendation": "Die Übersetzung verfälscht den Sinn des Originals. 'Все смешалось' bedeutet 'Alles war durcheinander', nicht 'Im Hause der Oblonskij war alles durcheinander'.",
+          "source": "llm",
+          "current_text": "Im Hause der Oblonskij war alles durcheinander.",
+          "suggested_text": "Alles war im Hause der Oblonskij durcheinander.",
+          "confidence": 0.95,
+          "fixable": true,
+          "position": null
+        },
+        {
+          "severity": "ERROR",
+          "category": "names",
+          "message": "Falscher Name für 'князь Степан Аркадьич Облонский'.",
+          "chapter": "001",
+          "scene": 1,
+          "evidence": "Original: 'князь Степан Аркадьич Облонский'. Übersetzung: 'der Graf Stepan Arkadjewitsch Oblonskij'.",
+          "recommendation": "Der Name 'князь' wird im Original nicht als 'Graf' übersetzt, sondern bleibt 'князь'.",
+          "source": "llm",
+          "current_text": "der Graf Stepan Arkadjewitsch Oblonskij",
+          "suggested_text": "der князь Stepan Arkadjewitsch Oblonskij",
+          "confidence": 0.95,
+          "fixable": true,
+          "position": null
+        },
+        {
+          "severity": "ERROR",
+          "category": "meaning",
+          "message": "Falsche Übersetzung des Satzes 'Все смешалось в доме Облонских'.",
+          "chapter": "001",
+          "scene": 1,
+          "evidence": "Original: 'Все смешалось в доме Облонских'. Übersetzung: 'Im Hause der Oblonskij war alles durcheinander.'",
+          "recommendation": "Die Übersetzung verfälscht den Sinn des Originals. 'Все смешалось' bedeutet 'Alles war durcheinander', nicht 'Im Hause der Oblonskij war alles durcheinander'.",
+          "source": "llm",
+          "current_text": "Im Hause der Oblonskij war alles durcheinander.",
+          "suggested_text": "Alles war im Hause der Oblonskij durcheinander.",
+          "confidence": 0.95,
+          "fixable": true,
+          "position": null
+        },
+        {
+          "severity": "ERROR",
+          "category": "names",
+          "message": "Falscher Name für 'князь Степан Аркадьич Облонский'.",
+          "chapter": "001",
+          "scene": 1,
+          "evidence": "Original: 'князь Степан Аркадьич Облонский'. Übersetzung: 'der Graf Stepan Arkadjewitsch Oblonskij'.",
+          "recommendation": "Der Name 'князь' wird im Original nicht als 'Graf' übersetzt, sondern bleibt 'князь'.",
+          "source": "llm",
+          "current_text": "der Graf Stepan Arkadjewitsch Oblonskij",
+          "suggested_text": "der князь Stepan Arkadjewitsch Oblonskij",
+          "confidence": 0.95,
+          "fixable": true,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

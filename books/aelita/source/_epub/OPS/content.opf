@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		      <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" xml:lang="ru" prefix="cc: http://creativecommons.org/ns#">
+			     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+				    <dc:identifier id="uid">https://ru.wikisource.org/wiki/%D0%90%D1%8D%D0%BB%D0%B8%D1%82%D0%B0_%28%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9%29</dc:identifier>
+				    <meta property="dcterms:modified">2026-06-23T16:49:18Z</meta>
+				    <dc:language>ru</dc:language>
+				    <dc:title id="meta-title">Аэлита</dc:title>
+				    <meta refines="#meta-title" property="title-type">main</meta>
+				    <dc:source>https://ru.wikisource.org/wiki/%D0%90%D1%8D%D0%BB%D0%B8%D1%82%D0%B0_%28%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9%29</dc:source>
+				    <dc:rights xml:lang="en">Creative Commons BY-SA 3.0</dc:rights>
+				    <link rel="cc:license" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+				    <dc:rights xml:lang="en">GNU Free Documentation License</dc:rights>
+				    <link rel="cc:license" href="http://www.gnu.org/copyleft/fdl.html" />
+				    <dc:contributor id="meta-bkp">Wikisource</dc:contributor>
+				    <meta refines="#meta-bkp" property="role" scheme="marc:relators">bkp</meta><dc:creator id="meta-aut">автор Алексей Николаевич Толстой</dc:creator>
+					       <meta refines="#meta-aut" property="role" scheme="marc:relators">aut</meta><meta name="cover" content="title" /></metadata>
+			     <manifest>
+				    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav" />
+				    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/><item id="title" href="title.xhtml" media-type="application/xhtml+xml" />
+				    <item id="mainCss" href="main.css" media-type="text/css" /><item id="Wikisource-logo.svg.png" href="images/Wikisource-logo.svg.png" media-type="image/png" /><item id="fonts-FreeSerif.ttf" href="fonts/FreeSerif.ttf" media-type="font/ttf" />
+<item id="fonts-FreeSerifBold.ttf" href="fonts/FreeSerifBold.ttf" media-type="font/ttf" />
+<item id="fonts-FreeSerifItalic.ttf" href="fonts/FreeSerifItalic.ttf" media-type="font/ttf" />
+<item id="fonts-FreeSerifBoldItalic.ttf" href="fonts/FreeSerifBoldItalic.ttf" media-type="font/ttf" />
+<item id="c0_Aelita__Tolstoj_" href="c0_Aelita__Tolstoj_.xhtml" media-type="application/xhtml+xml" />
+<item id="about" href="about.xhtml" media-type="application/xhtml+xml" />
+			     </manifest>
+			     <spine toc="ncx"><itemref idref="title" linear="yes" /><itemref idref="c0_Aelita__Tolstoj_" linear="yes" /><itemref idref="about" linear="yes" />
+			     </spine>
+		      </package>

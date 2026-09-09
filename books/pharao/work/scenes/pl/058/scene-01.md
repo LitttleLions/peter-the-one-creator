@@ -1,4 +1,4 @@
-Opuściwszy Abydos, Ramzes XIII popłynął, wciąż w górę rzeki, do miasta Tan-ta-ren (Dendera) i Kaneh
+Opuściwszy Abydos, Ramzes XIII popłynął, wciąż w górę rzeki, do miasta Tan-ta-ren (Dendera) i Kaneh, które leżały prawie naprzeciw siebie: jedno na wschodnim, drugie na zachodnim brzegu Nilu.
 
 W Tan-ta-ren były dwa miejsca znakomite: sadzawka, w której hodowano krokodyle, i świątynia Hator posiadająca wyższą szkołę. Tu uczono medycyny, pieśni pobożnych, sposobów odprawiania nabożeństw, wreszcie astronomii.
 
@@ -50,7 +50,7 @@ Ale Ramzes już go nie słuchał; odwrócił się i wyszedł.
 
 Krótko zabawiwszy w Tan-ta-ren, władca przeprawił się na drugą stronę Nilu, do miasta Kaneh.
 
-Tam nie było sławnych świątyń, okadzanych krokodylów i złotych tablic z gwiazdami. Natomiast kwitnęło garncarstwo i handel. Stamtąd szły dwa trakty do portów Morza Czerwonego: Koseir i Berenice
+Tam nie było sławnych świątyń, okadzanych krokodylów i złotych tablic z gwiazdami. Natomiast kwitnęło garncarstwo i handel. Stamtąd szły dwa trakty do portów Morza Czerwonego: Koseir i Berenice, tudzież gościniec do gór porfirowych, skąd przywożono posągi i wielkie bryły budulca.
 
 Kaneh roiło się też Fenicjanami, którzy z ogromnym zapałem przyjęli władcę i ofiarowali mu rozmaitych kosztowności za dziesięć talentów.
 
@@ -94,7 +94,7 @@ W ciągu kilkunastu minut faraon przejechał gościniec i stanął przed olbrzym
 
 Jak Luksor był całą dzielnicą pałaców królewskich w południowej, tak Karnak był dzielnicą bogów w północnej stronie miasta. Głównym zaś ogniskiem Karnaku była świątynia Amona-Ra.
 
-Sam ten gmach zajmował cztery morgi powierzchni, a otaczające go ogrody i stawy około czterdziestu morgów. Przed świątynią stały dwa pylony, wysokie na dziesięć piątr. Podwórze, otoczone wspartym na kolumnach kurytarzem
+Sam ten gmach zajmował cztery morgi powierzchni, a otaczające go ogrody i stawy około czterdziestu morgów. Przed świątynią stały dwa pylony, wysokie na dziesięć piątr. Podwórze, otoczone wspartym na kolumnach kurytarzem, zajmowało blisko dwie morgi, zaś sala kolumnowa, w której gromadziły się stany uprzywilejowane, miała morgę rozległości. Nie był to już gmach, ale — okolica.
 
 Owa sala, czyli hipostyl, miała przeszło sto pięćdziesiąt kroków długości i siedemdziesiąt pięć szerokości, jej zaś sufit opierał się na stu trzydziestu czterech kolumnach. Spomiędzy nich dwanaście środkowych słupów miało po piętnaście kroków obwodu i pięć do sześciu piętr wysokości!...
 
@@ -186,7 +186,7 @@ Po paru godzinach procesja przeszła pierwszy most, potem wyspę, potem drugi mo
 
 Jeżeli wschodnią połowę Tebów można nazwać miastem bogów i królów, to zachodnia była dzielnicą pamiątkowych świątyń i grobów.
 
-Orszak posuwał się od Nilu w stronę gór, drogą środkową. Na południe od tej drogi stała na wzgórzu świątynia upamiętniająca zwycięstwa Ramzesa III, której ściany były pokryte wizerunkami ludów podbitych: Chetów, Amorejczyków, Filistynów, Etiopów, Arabów, Libijczyków. Trochę poniżej wznosiły się dwa kolosalne posągi Amenhotepa II, których wysokość, mimo siedzącej postawy, odpowiada pięciu piętrom. Jedna z tych statui odznaczała się cudowną własnością: gdy padły promienie wschodzącego słońca, posąg wydawał dźwięki niby arfa
+Orszak posuwał się od Nilu w stronę gór, drogą środkową. Na południe od tej drogi stała na wzgórzu świątynia upamiętniająca zwycięstwa Ramzesa III, której ściany były pokryte wizerunkami ludów podbitych: Chetów, Amorejczyków, Filistynów, Etiopów, Arabów, Libijczyków. Trochę poniżej wznosiły się dwa kolosalne posągi Amenhotepa II, których wysokość, mimo siedzącej postawy, odpowiada pięciu piętrom. Jedna z tych statui odznaczała się cudowną własnością: gdy padły promienie wschodzącego słońca, posąg wydawał dźwięki niby arfa, której struny zrywają.
 
 Jeszcze bliżej drogi, wciąż na lewo od niej, stało Rameseum, niezbyt wielka, ale piękna świątynia Ramzesa II. Jej przysionku pilnowały cztery posągi stojące, z królewskimi insygniami w rękach. Na dziedzińcu zaś wznosił się również posąg Ramzesa II, wysoki na cztery piętra.
 

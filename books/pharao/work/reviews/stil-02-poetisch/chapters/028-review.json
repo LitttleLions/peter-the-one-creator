@@ -1,0 +1,18 @@
+{
+  "chapter": "028",
+  "style": "stil-02-poetisch",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "028",
+      "scene": 1,
+      "ru_path": "books\\pharao\\work\\scenes\\pl\\028\\scene-01.md",
+      "de_path": "books\\pharao\\work\\scenes\\de\\stil-02-poetisch\\028\\scene-01.md",
+      "ru_words": 3662,
+      "de_words": 4364,
+      "findings": []
+    }
+  ]
+}

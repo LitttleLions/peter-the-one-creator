@@ -89,7 +89,7 @@ def build_commands(
             "--style", style,
             "--provider", provider,
         ]
-        if provider in ("openrouter", "ollama") and model:
+        if (provider == "openrouter" or provider == "ollama") and model:
             cmd.extend(["--model", model])
         if chunk_char_limit is not None:
             cmd.extend(["--chunk-char-limit", str(chunk_char_limit)])
@@ -195,7 +195,10 @@ def main() -> int:
     commands = translate_commands + assemble_commands
 
     print(f"=== Batch: {book['title']} ({book['id']}) ===")
-    print(f"Kapitel: {len(selected)} ausgewaehlt")
+    selected_preview = ", ".join(selected[:12])
+    if len(selected) > 12:
+        selected_preview += ", ..."
+    print(f"Kapitel ausgewaehlt ({len(selected)}): {selected_preview or '(keine)'}")
     print(f"Style: {style}")
     print(f"Provider: {args.provider}")
     if args.chunk_char_limit is not None:

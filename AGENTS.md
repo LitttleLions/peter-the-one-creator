@@ -2,6 +2,7 @@
 
 > Dies ist die zentrale Kontextdatei. `CLAUDE.md` verweist auf diese Datei.
 > Lies zuerst diese Datei und die README, dann beginne mit der Arbeit.
+> Aktueller Arbeitsstand und naechste Schritte: [docs/HANDOVER.md](./docs/HANDOVER.md).
 
 ## Was Dieses Projekt Ist
 
@@ -11,10 +12,22 @@ eigenes Paket unter `books/<book-id>/`. Tools und Dashboard entdecken Buecher
 ueber `books/*/book.yaml`; `config/books.yaml` ist nur noch Legacy unter
 `config/legacy/`.
 
+**Memory Bank:** Dieses Projekt pflegt **bewusst keine Cline Memory Bank**
+(`projectbrief.md`, `activeContext.md` usw.), weil es parallel in mehreren
+KIs bearbeitet wird und eine lokale Memory Bank dadurch schnell veraltet
+bzw. widerspruechlich waere. Massgeblicher Kontext sind AGENTS.md, README.md,
+`docs/HANDOVER.md` sowie die buchlokalen `book.yaml`- und `export.yaml`-Dateien.
+
 Aktuelle Buchpakete:
 
 - `books/peter-i-buch-01/` - Alexei Tolstoi, Peter der Erste
 - `books/anna-karenina/` - Lew Tolstoi, Anna Karenina
+- `books/pharao/` - Bolesław Prus, Der Pharao
+- `books/feuriger-engel/` - Walerij Brjussow, Der feurige Engel
+- `books/leben-arsenjews/` - Iwan Bunin, Das Leben Arsenjews
+- `books/geheime-geschichte-mongolen/` - Anonym, Die Geheime Geschichte der Mongolen
+- `books/aelita/` - Alexei Tolstoi, Aelita (in Vorbereitung)
+- `books/die-dritte-chronik/` - Motivatier, Die dritte Chronik (DE-Original)
 
 ## Buchpaket-Struktur
 
@@ -44,8 +57,10 @@ books/<book-id>/
 Globale Ordner:
 
 - `tools/` - Python-CLIs, Dashboard, Bibliotheken
+- `webapp/` - FastAPI-Backend + React-Dashboard (nicht mit `webpage/` verwechseln)
+- `webpage/` - oeffentliche Motivatier-Regal-Website (Vite + Three.js)
 - `tests/` - Smoke-/Unit-Tests
-- `docs/` - Dashboard-Design und Projektinfos
+- `docs/` - Dashboard-Design, Higgsfield, Handover
 - `config/models.yaml` - OpenRouter-Modellkatalog
 - `config/pipeline.yaml` - globale Pipeline-Defaults
 - `config/style_modes.yaml` - Legacy-Style-Modi
@@ -56,8 +71,16 @@ Globale Ordner:
 ## Voraussetzungen
 
 - **Python-Abhaengigkeiten:** `pip install -r requirements.txt`
-- **Streamlit** (>= 1.36): Wird fuer das Dashboard benoetigt.
-  Enthalten in `requirements.txt`. Start mit `streamlit run tools/dashboard.py`.
+- **Dashboard:** Das primaere Dashboard ist FastAPI + React. Start mit
+  `python tools/start_dashboard.py` (oder `Dev-Start.cmd` / `dev.cmd`); der
+  Befehl baut das React-Frontend bei Bedarf und startet FastAPI auf
+  `http://127.0.0.1:8000`. Unter Windows nutzt der Build `npm.cmd`.
+- **Regal-Website:** `webpage/` – Katalog via
+  `python tools/build_shelf_website.py`; Preview
+  `python tools/preview_webpage.py` (nicht `file://`); Details
+  `webpage/README.md` und Dashboard-Route `/website`.
+- **Streamlit** (>= 1.36): Bleibt als Legacy-Werkbank in `tools/dashboard.py`
+  als Backup erhalten, ist aber nicht mehr der Standardstart.
 - **Pandoc** (>= 3.0): Wird fuer den EPUB-Export benoetigt.
   Installation: `winget install --id JohnMacFarlane.Pandoc`
   Nach Installation muss ein neues Terminal gestartet werden.
@@ -70,6 +93,24 @@ Globale Ordner:
   `docs/higgsfield-integration.md`.
 - **`.env`-Datei:** Kopiere `.env.example` nach `.env` und trage
   den `OPENROUTER_API_KEY` ein (OpenRouter-Account noetig).
+
+## Quellformate und EPUB-Verarbeitung
+
+`extract_chapters.py` akzeptiert RTF, XHTML/HTML und Plaintext. EPUB ist ein
+ZIP-Container und muss vor der Pipeline ausgepackt werden.
+
+**Workflow fuer neue EPUB-Quellen:**
+
+1. EPUB entpacken (z. B. `Expand-Archive` unter Windows, `unzip` auf Linux/macOS)
+2. Das Haupt-XHTML (meist `OEBPS/*.xhtml`) nach `source/` kopieren
+3. `book.yaml` → `source_path` auf die `.xhtml`-Datei setzen
+4. `extract_chapters.py` ausfuehren – der Parser erkennt `<!doctype html>`
+   und parst `<h3>`-Headings als Kapitel (nur Headings mit `Глава N`
+   werden als Kapitelgrenzen gewertet, Unterueberschriften wie `1`, `I`, `II`
+   werden in das Kapitel eingeschlossen)
+
+Pandoc (`pandoc --from epub --to plain`) ist ein Fallback, verliert aber
+die Heading-Struktur (`<h3>` → Fliess-Text).
 
 ## Harte Regeln
 
@@ -129,7 +170,7 @@ python tools/status.py --book anna-karenina list
 python tools/status.py --book anna-karenina next
 
 # Dashboard
-streamlit run tools/dashboard.py
+python tools/start_dashboard.py
 ```
 
 `translate_batch.py` ist ein Uebersetzungs-Batch, kein Export-Befehl. Er
@@ -144,11 +185,25 @@ Jedes Buchpaket hat eigene Profile in `books/<book-id>/styles/*.md`.
 Der Dateiname ohne `.md` ist der Style-Slug und zugleich der Output-Ordner.
 Der aktive Default steht in `books/<book-id>/book.yaml` unter `style_mode`.
 
-Das gewaehlte Profil wird als verbindlicher Block in den System-Prompt
-gehoben. Wenn ein Profil Vorabsatz, Lede, Ueberschriften oder andere
-Struktur-Ergaenzungen erzwingen soll, muss das ausdruecklich in der
-Markdown-Datei stehen. Nach Profil-Aenderungen vorhandene Szenenergebnisse
-bewusst mit `--overwrite`, Dashboard-Ersetzen oder Loeschen neu erzeugen.
+Das Profil wird als Block unter „Verbindliches Style-Profil“ in den
+System-Prompt eingebettet (`tools/lib/style_prompts.py`). Es soll **nur**
+Stil- und Rekonstruktionsregeln enthalten – kein eigener SYSTEMPROMPT/
+USERPROMPT, kein Quelltextplatzhalter, keine zweite Rollenbeschreibung.
+
+Prompt-Hierarchie (Stand 2026-07-22):
+
+1. globale harte Ausgabe-Regeln (nur Uebersetzung, nichts erfinden)
+2. Glossar aus `names.yaml` im User-Prompt
+3. Style-Profil (Stil/Rekonstruktion)
+
+Bei Konflikten haben Ausgabe-Regeln und Glossar Vorrang vor dem Profil.
+Struktur-Extras (Lede, Vorabsatz, Prolog, erfundene Ueberschriften) sind im
+Uebersetzungs-Call **nicht** erlaubt, auch wenn ein Profil danach klingt.
+Nach Profil-Aenderungen vorhandene Szenenergebnisse bewusst mit
+`--overwrite`, Dashboard-Ersetzen oder Loeschen neu erzeugen.
+
+Gesendete OpenRouter-/Ollama-Prompts werden unter
+`work/prompts/sent/YYYYMMDD-HHMMSS-…-<provider>.md` archiviert.
 
 ## Buchstruktur Und Namen
 
@@ -167,9 +222,14 @@ Anna zeigt keine Szenenmarker; Peter zeigt innerhalb eines Kapitels zentrierte
 Szenenzahlen ohne neue Seite.
 
 `books/<book-id>/names.yaml` enthaelt Eintraege mit `source`, `target`,
-`aliases`, `type`, `status` und `note`. Diese Liste wird kompakt in den Prompt
-eingefuegt. Nicht gepflegte russische Namen werden konservativ transliteriert
-oder im Zweifel beibehalten.
+`aliases`, `type`, `status` und `note`. Status/Alias/Note sind
+Redaktionsmeta; in LLM-Prompts landen standardmaessig nur Zeilen
+`Quelle -> Ziel` (`compact_name_lines(..., include_meta=False)`).
+Anwendungsregeln (z. B. Temuedschin vs. Dschingis Khan) gehoeren ins
+Style-Profil oder in knappe kuratierte Regeln, nicht als widerspruechliche
+Notes hinter jedem Eintrag. Nicht aufgefuehrte Personen-, Stammes-, Orts-
+und Titelnamen werden konservativ transliteriert oder im Zweifel in der
+erkennbaren Quellform beibehalten.
 
 ## Provider
 
@@ -184,20 +244,28 @@ DOCX/EPUB/PDF liest fertige DE-Szenen aus
 `books/<book-id>/work/scenes/de/<style>/` und schreibt nach
 `books/<book-id>/exports/<style>/<scope>/`. Cover, Titelseite,
 Zusammenfassung, Autorenleben, Impressum und Inhaltslogik stehen in
-`books/<book-id>/export.yaml`. Coverpfade sind relativ zum Buchpaket, z. B.
-`assets/covers/annakarenina.png`.
+`books/<book-id>/export.yaml`. Coverpfade sind relativ zum Buchpaket. Wird keine explizite `image_path` in
+`export.yaml` angegeben, sucht `prepare_cover()` automatisch nach
+`cover.png`, `cover.jpg`, `cover.jpeg` oder `cover.webp` in
+`books/<id>/assets/covers/`. Die Erkennung erfolgt case-insensitive; ein
+Platzhalter-Cover wird nur generiert, wenn gar kein Bild gefunden wird.
 
 Optionale Exportbilder liegen ebenfalls relativ zum Buchpaket. Kapitelbilder
 werden als `assets/chapter/chapter-NNN.*` abgelegt, Szenenbilder als
 `assets/scene/NNN/scene-NNN.*`. Unterstuetzt werden `.jpg`, `.jpeg`, `.png`
-und `.webp`; fehlende Bilder werden uebersprungen. Gesteuert wird dies ueber
+und `.webp`; fehlende Bilder werden uebersprungen. Bei mehreren Formaten
+gleicher Stem gewinnt `.jpg` vor `.png` (siehe
+`docs/higgsfield-integration.md`). Gesteuert wird dies ueber
 `illustrations` in `export.yaml`.
 
 Higgsfield-Generierungsdefaults liegen pro Buch in `book.yaml` unter
 `higgsfield`. `tools/generate_illustration.py` liest dort Modell,
-Moodboard-/Custom-Reference-UUID, Qualitaet und Seitenverhaeltnis. Erkannte
-Moodboards und der Discovery-Workflow sind in `docs/higgsfield-integration.md`
-dokumentiert.
+Moodboard-/Custom-Reference-UUID, Qualitaet und Seitenverhaeltnis.
+Nachbearbeitung beim Download: `higgsfield.image_processing`. Kompakte
+Export-JPGs nachtraeglich (ohne PNG/`*_alt.jpg` zu loeschen):
+`tools/optimize_asset_images.py` bzw. Dashboard „Bilder → Exportbilder
+optimieren“. Erkannte Moodboards und der Discovery-Workflow sind in
+`docs/higgsfield-integration.md` dokumentiert.
 
 Standardfolge fuer Leserexporte: Coverbild, Titelseite, Zusammenfassung,
 Leben des Autors, dann Textbeginn mit Teil-/Buchgruppe und Kapiteln.
@@ -207,10 +275,32 @@ rueckwaertskompatibel bei DOCX+EPUB.
 
 ## Aktueller Stand
 
+Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**
+(Stand 2026-07-28). Branch: `main` @ `de91155` (= `origin/main`).
+
 - Buchpakete sind fuehrend; alte zentrale `config/books.yaml` und
   `config/export.yaml` liegen unter `config/legacy/`.
-- OpenRouter, Prompt-Datei-Modus, Workspace-KI-Modus, Assembly und Export sind
-  produktiv nutzbar.
-- Dashboard liest Buchpakete aus `books/*/book.yaml`.
-- Anna Karenina ist als zweites Buchpaket angelegt und hat ein Cover unter
-  `books/anna-karenina/assets/covers/annakarenina.png`.
+- OpenRouter, Ollama, Prompt-Datei-Modus, Workspace-KI-Modus, Assembly und
+  Export sind produktiv nutzbar.
+- Dashboard (FastAPI+React) liest Buchpakete aus `books/*/book.yaml`.
+  Buch-Setup: `/books/:bookId/setup`; Website-Verwaltung: `/website`.
+- **Motivatier-Regal** (`webpage/`): opt-in via `export.yaml` → `website.enabled`;
+  Generator `tools/build_shelf_website.py`; Dashboard-Jobs + Buch-Settings.
+  Preview: `tools/preview_webpage.py` / `Dev-Start-Webpage.cmd`.
+- **Prompt-Generator:** `style_prompts.py` ohne Lede-/Struktur-Hintertuer;
+  Glossar nur `source -> target` (`name_registry`); Style-Dateien = Embed-
+  Profile. `stil-04-original-geheim.md` = Interlinear/Edition (Mongolen).
+- **Geheime Geschichte der Mongolen** (auf `main`): Quelle `ja`→`de`,
+  `structure.mode: scenes`, ~317 Abschnitte `scene-NN.md`, Import
+  `tools/import_geheime_geschichte.py`. Legacy-DE-Monolithe und abschnittsweise
+  Neuuebersetzung 006 (stil-04) noch offen. Feature-Branch-Inhalt wurde
+  2026-07-28 per Fast-Forward nach `main` gemerged.
+- **Die dritte Chronik** (auf `main`): DE-Original; Import
+  `tools/import_die_dritte_chronik.py`; Cover vorhanden; restliche
+  Kapitelbilder / EPUB-Feinschliff offen.
+- **Higgsfield / Bilder:** `config/higgsfield_models.yaml`, Dashboard-Dropdown,
+  Asset-Optimierung `optimize_asset_images.py`. Web-UI-Moodboards nur manuell.
+  Details: `docs/higgsfield-integration.md`.
+- **Noch offen (Prioritaet):** siehe `docs/HANDOVER.md` – Mongolen Legacy-DE /
+  stil-04 Kap. 006; Chronik-Bilder; Regal Amazon-URLs / Deploy; optional
+  Mint-GLBs.

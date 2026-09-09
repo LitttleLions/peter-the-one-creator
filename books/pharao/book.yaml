@@ -14,20 +14,28 @@ log_dir: status/logs
 styles_dir: styles
 assets_dir: assets
 names_file: names.yaml
+illustration_setting: >-
+  Ancient Egypt under Pharaoh Ramses XIII, late New Kingdom / Tanite transition.
+  Cinematic literary historical illustration, elegant realism, painterly detail,
+  atmospheric light. Period-accurate clothing, temples, Nile landscapes, priestly
+  courts, and political intrigue. Focus on power, youth, ritual, and statecraft
+  rather than tourist spectacle. Color palette: sandstone, lapis, gold leaf, linen
+  white, deep Nile green, night blue, incense smoke. Strong central figure or
+  decisive encounter; historically grounded, emotionally intelligent.
 structure:
   mode: chapter_as_scene
   label: Kapitel als Szenen
   groups:
   - id: tom-1
-    label: Tom I
+    label: Buch I
     from: '001'
     to: '025'
   - id: tom-2
-    label: Tom II
+    label: Buch II
     from: '026'
     to: '049'
   - id: tom-3
-    label: Tom III
+    label: Buch III
     from: '050'
     to: '067'
 display:
@@ -62,6 +70,11 @@ higgsfield:
   - name: Pharao II
     custom_reference_id: c38052cf-6afc-4ae7-9dbb-1cf083f97242
     source: "higgsfield generate list --image --size 100 --json"
+  image_processing:
+    format: JPEG
+    jpeg_quality: 60
+    max_width: 1600
+    max_height: 2400
 notes: >-
   Buchpaket fuer Bolesław Prus, Der Pharao. Als Master-Quelle wird die
   polnische Wolne-Lektury-EPUB `source/faraon.epub` verwendet. Sie enthaelt
@@ -70,7 +83,7 @@ notes: >-
   Source-Ordner.
 ai:
   provider: openrouter
-  model: deepseek/deepseek-v4-pro
+  model: deepseek/deepseek-v4-flash
   granularity: scene
   max_tokens_per_scene: 10000
   chunk_char_limit: 12000

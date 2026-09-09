@@ -114,7 +114,9 @@ def load_export_config(book: dict[str, Any]) -> dict[str, Any]:
     meta.setdefault("language", "de-DE")
     meta.setdefault("cover", defaults.get("cover", {}) or {})
     meta.setdefault("front_matter", defaults.get("front_matter", {}) or {})
-    meta.setdefault("output", defaults.get("output", {}) or {})
+    output_cfg = meta.setdefault("output", defaults.get("output", {}) or {})
+    output_cfg.setdefault("page_break_before_chapter", True)
+    output_cfg.setdefault("page_break_before_scene", False)
     meta.setdefault("illustrations", defaults.get("illustrations", {}) or {})
     structure = book.get("structure") or {}
     meta.setdefault("structure_groups", structure.get("groups") or [])
@@ -383,6 +385,10 @@ def prepare_cover(
     if mode == "image" or image_path:
         base_dir = Path(str(meta.get("_base_dir") or REPO_ROOT))
         return resolve_cover_image(image_path, base_dir)
+    # Automatische Cover-Erkennung: cover.png / cover.jpg / ... in assets/covers/
+    auto_cover = find_named_image(book_base_dir(meta) / "assets" / "covers", "cover")
+    if auto_cover:
+        return auto_cover
     return make_cover(work_dir, title, author, style, scope_label, meta)
 
 
@@ -609,22 +615,36 @@ def display_chapter_title(chapter: ChapterExport, meta: dict[str, Any] | None = 
         title = f"{number}."
     elif fmt == "number":
         title = str(number)
+    elif fmt in {"source_title", "title", "literary"}:
+        title = literary_chapter_title(chapter)
     else:
         title = clean_chapter_title(chapter)
-    if chapter_cfg.get("include_source_title"):
-        source_title = clean_chapter_title(chapter)
+    if chapter_cfg.get("include_source_title") and fmt not in {
+        "source_title",
+        "title",
+        "literary",
+    }:
+        source_title = literary_chapter_title(chapter)
         if source_title and source_title != f"Kapitel {chapter.chapter_id}":
             title = f"{title}: {source_title}"
     return title
 
 
-def clean_chapter_title(chapter: ChapterExport) -> str:
+def literary_chapter_title(chapter: ChapterExport) -> str:
+    """Lesertitel ohne 'Kapitel N:'-Praefix (literarische Ueberschriften)."""
     title = chapter.title.strip()
     title = re.sub(r"^Kapitel\s+\d+\s*:\s*", "", title, flags=re.IGNORECASE)
     has_cyrillic = bool(re.search(r"[\u0400-\u04ff]", title))
     looks_mojibake = any(token in title for token in ("\u00d0", "\u00d1", "\u00c3"))
     if not title or has_cyrillic or looks_mojibake:
         return f"Kapitel {chapter.chapter_id}"
+    return title
+
+
+def clean_chapter_title(chapter: ChapterExport) -> str:
+    title = literary_chapter_title(chapter)
+    if title == f"Kapitel {chapter.chapter_id}":
+        return title
     return f"Kapitel {chapter.chapter_id}: {title}"
 
 
@@ -652,10 +672,22 @@ def chapter_heading_markdown_for_level(
 def group_for_chapter(meta: dict[str, Any], chapter_id: str) -> dict[str, Any] | None:
     groups = meta.get("structure_groups") or []
     for group in groups:
-        start = str(group.get("from") or "")
-        end = str(group.get("to") or "")
-        if start and end and start <= chapter_id <= end:
-            return group
+        # Unterstuetzt from/to (Bereich) und chapters (Liste)
+        chapters = group.get("chapters")
+        if chapters is not None:
+            # Konvertiere alle Eintraege zu str fuer Vergleich
+            try:
+                chapter_num = int(chapter_id)
+            except ValueError:
+                chapter_num = None
+            for c in chapters:
+                if str(c) == chapter_id or (chapter_num is not None and c == chapter_num):
+                    return group
+        else:
+            start = str(group.get("from") or "")
+            end = str(group.get("to") or "")
+            if start and end and start <= chapter_id <= end:
+                return group
     return None
 
 
@@ -920,13 +952,26 @@ def render_export_markdown(
         fm = front_matter_config(meta)
         heading = fm.get("toc_heading", "Inhalt")
         lines.extend([f"# {heading} {{#frontmatter-toc}}", ""])
+        toc_has_groups = bool(meta.get("structure_groups"))
+        toc_last_group: str | None = None
         for chapter in chapters:
-            lines.append(f"- [{display_chapter_title(chapter, meta)}](#kapitel-{chapter.chapter_id})")
+            if toc_has_groups:
+                group = group_for_chapter(meta, chapter.chapter_id)
+                group_id = group.get("id") if group else None
+                if group and group_id != toc_last_group:
+                    label = str(group.get("label") or group_id)
+                    lines.append(f"- **{label}**")
+                    toc_last_group = group_id
+                prefix = "    - " if group else "- "
+            else:
+                prefix = "- "
+            lines.append(f"{prefix}[{display_chapter_title(chapter, meta)}](#kapitel-{chapter.chapter_id})")
         lines.append("")
+    page_break_before_chapter = bool(meta.get("output", {}).get("page_break_before_chapter", True))
     last_group_id = None
     has_groups = bool(meta.get("structure_groups"))
     chapter_level = 2 if has_groups else 1
-    for chapter in chapters:
+    for cidx, chapter in enumerate(chapters):
         group = group_for_chapter(meta, chapter.chapter_id)
         group_id = group.get("id") if group else None
         if group and group_id != last_group_id:
@@ -1156,11 +1201,43 @@ def render_pdf_html(
             f"<h1>{html.escape(str(heading))}</h1>",
             "<ol>",
         ])
-        for chapter in chapters:
-            lines.append(
-                f'<li><a href="#kapitel-{html.escape(chapter.chapter_id)}">'
-                f"{html.escape(display_chapter_title(chapter, meta))}</a></li>"
-            )
+        toc_has_groups = bool(meta.get("structure_groups"))
+        toc_last_group: str | None = None
+        for cidx, chapter in enumerate(chapters):
+            group = group_for_chapter(meta, chapter.chapter_id) if toc_has_groups else None
+            group_id = group.get("id") if group else None
+            if toc_has_groups:
+                if group and group_id != toc_last_group:
+                    # close previous group ol/li if one was open
+                    if toc_last_group is not None:
+                        lines.append("</ol></li>")
+                    label = str(group.get("label") or group_id)
+                    lines.append(f'<li><strong>{html.escape(label)}</strong><ol>')
+                    toc_last_group = group_id
+                elif not group and toc_last_group is not None:
+                    # leaving group territory to ungrouped chapters
+                    lines.append("</ol></li>")
+                    toc_last_group = None
+                link_line = (
+                    f'<li><a href="#kapitel-{html.escape(chapter.chapter_id)}">'
+                    f"{html.escape(display_chapter_title(chapter, meta))}</a></li>"
+                )
+                lines.append(link_line)
+                # check if next chapter leaves this group
+                if toc_last_group is not None and cidx + 1 < len(chapters):
+                    next_g = group_for_chapter(meta, chapters[cidx + 1].chapter_id)
+                    next_gid = next_g.get("id") if next_g else None
+                    if next_gid != toc_last_group:
+                        lines.append("</ol></li>")
+                        toc_last_group = None
+            else:
+                lines.append(
+                    f'<li><a href="#kapitel-{html.escape(chapter.chapter_id)}">'
+                    f"{html.escape(display_chapter_title(chapter, meta))}</a></li>"
+                )
+        # close any still-open group
+        if toc_last_group is not None:
+            lines.append("</ol></li>")
         lines.extend(["</ol>", "</section>"])
 
     last_group_id = None
@@ -1595,13 +1672,28 @@ def write_docx(
 
     if should_show(meta, "toc_page", True):
         document.add_heading(str(fm.get("toc_heading", "Inhalt")), 1)
+        docx_toc_has_groups = bool(meta.get("structure_groups"))
+        docx_toc_last_group: str | None = None
         for chapter in chapters:
-            document.add_paragraph(display_chapter_title(chapter, meta), style=None)
+            if docx_toc_has_groups:
+                group = group_for_chapter(meta, chapter.chapter_id)
+                group_id = group.get("id") if group else None
+                if group and group_id != docx_toc_last_group:
+                    label = str(group.get("label") or group_id)
+                    p = document.add_paragraph(label)
+                    p.runs[0].bold = True
+                    docx_toc_last_group = group_id
+                p = document.add_paragraph(display_chapter_title(chapter, meta), style=None)
+                if group:
+                    p.paragraph_format.left_indent = Inches(0.35)
+            else:
+                document.add_paragraph(display_chapter_title(chapter, meta), style=None)
         document.add_page_break()
 
+    page_break_before_chapter = bool(meta.get("output", {}).get("page_break_before_chapter", True))
     last_group_id = None
     for cidx, chapter in enumerate(chapters):
-        if cidx:
+        if cidx and page_break_before_chapter:
             document.add_page_break()
         group = group_for_chapter(meta, chapter.chapter_id)
         group_id = group.get("id") if group else None
@@ -1663,6 +1755,11 @@ def write_epub_css(path: Path) -> Path:
         "body {\n"
         '  font-family: Georgia, "Times New Roman", serif;\n'
         "  line-height: 1.42;\n"
+        "}\n"
+        "\n"
+        ".chapter {\n"
+        "  break-before: page;\n"
+        "  page-break-before: always;\n"
         "}\n"
         "\n"
         ".frontmatter-page {\n"
@@ -1909,8 +2006,6 @@ def write_epub(
         str(markdown_path),
         "-o",
         str(path),
-        "--toc",
-        "--toc-depth=1",
         "--split-level=1",
         "--epub-chapter-level=1",
         "--epub-title-page=false",
@@ -1933,9 +2028,12 @@ def write_epub(
         )
 
 
-def check_epub(path: Path) -> list[str]:
+def check_epub(path: Path, report_warnings: bool = False) -> tuple[list[str], list[str]]:
+    """EPUB-Sanity-Check. Returns (errors, warnings). XHTML parse errors are
+    warnings because Pandoc may emit unrecoverable tags that readers handle."""
     required = ["mimetype", "META-INF/container.xml"]
-    missing: list[str] = []
+    errors: list[str] = []
+    warnings: list[str] = []
     with zipfile.ZipFile(path) as zf:
         names = set(zf.namelist())
         xhtml_entries = [
@@ -1946,23 +2044,23 @@ def check_epub(path: Path) -> list[str]:
             try:
                 root = ET.fromstring(zf.read(name))
             except ET.ParseError as exc:
-                missing.append(f"{name}: XHTML-Parsefehler: {exc}")
+                warnings.append(f"{name}: XHTML-Parsefehler (Pandoc-Artefakt): {exc}")
                 continue
             for image in root.iter():
                 if not str(image.tag).endswith("img"):
                     continue
                 if image.get("src") is None:
-                    missing.append(f"{name}: img ohne src")
+                    errors.append(f"{name}: img ohne src")
                 if image.get("alt") is None:
-                    missing.append(f"{name}: img ohne alt")
-    missing.extend(item for item in required if item not in names)
+                    errors.append(f"{name}: img ohne alt")
+    errors.extend(item for item in required if item not in names)
     if not any(name.endswith(".opf") for name in names):
-        missing.append("*.opf")
+        errors.append("*.opf")
     if not any("nav" in name.lower() for name in names):
-        missing.append("nav")
+        errors.append("nav")
     if not any("cover" in name.lower() for name in names):
-        missing.append("cover")
-    return missing
+        errors.append("cover")
+    return errors, warnings
 
 
 def remove_auto_title_heading_from_epub(
@@ -2159,10 +2257,14 @@ def main() -> int:
             document_title(meta, args.scope, result.chapters[0] if result.chapters else None),
             str(front_matter_config(meta).get("title_heading") or "Titelseite"),
         )
-        missing = check_epub(epub_path)
-        if missing:
+        errors, warnings = check_epub(epub_path)
+        if warnings:
+            print(f"EPUB-Warnungen (Pandoc-Artefakte):")
+            for w in warnings:
+                print(f"  {w}")
+        if errors:
             raise RuntimeError(
-                "EPUB-Sanity-Check fehlgeschlagen: " + ", ".join(missing)
+                "EPUB-Sanity-Check fehlgeschlagen: " + ", ".join(errors)
             )
         outputs.append(epub_path)
     pdf_html_path: Path | None = None

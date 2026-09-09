@@ -1,0 +1,65 @@
+{
+  "book": "aelita",
+  "chapter": "007",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\chapters\\007-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\prompts\\higgsfield\\007-chapter-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\assets\\chapter\\chapter-007.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "*Buch: Aëlita* <!-- status: pending --> Серебристый, кое-где словно подернутый облачками диск Марса заметно увеличивался. Ослепительно сверкало пятно льдов Южного полюса. Ниже его расстилалась изогнутая туманность. На востоке она доходила до экватора, близ среднего меридиана поднималась, огибая полого более светлую поверхность, и раздваивалась, образуя у западного края диска второй мыс. По экватору были расположены — ясно видны — пять темных точек, круглых пятен. Они соединялись прямыми линиями, которые начерпывали два равносторонних треугольника и третий — удлиненный. Подножие восточного треугольника было охвачено правильной дугой. От середины ее до крайней, западной точки шло второе полукружие. Несколько линий, точек и полукружий разбросано к западу и востоку от этой экваториальной группы. Северный полюс тонул во мгле. Лось жадно вглядывался в эту сеть линий: вот они, сводящие с ума астрономов, постоянно меняющиеся, геометрически правильные, непостигаемые каналы Марса. Лось различал теперь под этим четким рисунком вторую, едва проступающую, словно стертую, сеть линий. Он начал набрасывать примерный рисунок ее в записной книжке. Вдруг диск Марса дрогнул и поплыл в окуляре глазка. Лось кинулся к реостатам: Post-revolutionary Petrograd 1920s and ancient Mars civilisation. Red deserts, canals, vertical cities, winged airships. Atmospheric depth.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--custom_reference_id",
+    "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260623_182202_d22129f1-a2cd-4bd2-9d73-2bbc9b3b2b15.png",
+  "job_result": [
+    {
+      "id": "d22129f1-a2cd-4bd2-9d73-2bbc9b3b2b15",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260623_182202_d22129f1-a2cd-4bd2-9d73-2bbc9b3b2b15.png",
+      "created_at": 1782238922.376277,
+      "params": {
+        "prompt": "*Buch: Aëlita* <!-- status: pending --> Серебристый, кое-где словно подернутый облачками диск Марса заметно увеличивался. Ослепительно сверкало пятно льдов Южного полюса. Ниже его расстилалась изогнутая туманность. На востоке она доходила до экватора, близ среднего меридиана поднималась, огибая полого более светлую поверхность, и раздваивалась, образуя у западного края диска второй мыс. По экватору были расположены — ясно видны — пять темных точек, круглых пятен. Они соединялись прямыми линиями, которые начерпывали два равносторонних треугольника и третий — удлиненный. Подножие восточного треугольника было охвачено правильной дугой. От середины ее до крайней, западной точки шло второе полукружие. Несколько линий, точек и полукружий разбросано к западу и востоку от этой экваториальной группы. Северный полюс тонул во мгле. Лось жадно вглядывался в эту сеть линий: вот они, сводящие с ума астрономов, постоянно меняющиеся, геометрически правильные, непостигаемые каналы Марса. Лось различал теперь под этим четким рисунком вторую, едва проступающую, словно стертую, сеть линий. Он начал набрасывать примерный рисунок ее в записной книжке. Вдруг диск Марса дрогнул и поплыл в окуляре глазка. Лось кинулся к реостатам: Post-revolutionary Petrograd 1920s and ancient Mars civilisation. Red deserts, canals, vertical cities, winged airships. Atmospheric depth.",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 667694,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba"
+      }
+    }
+  ]
+}

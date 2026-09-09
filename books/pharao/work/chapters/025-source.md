@@ -199,7 +199,7 @@ Dagon zbladł i odparł spokojnym głosem:
 
 — Co gada ten kramarz?... W Tyrze są moi synowie i uczą się żeglarstwa; w Sydonie siedzi moja córka z mężem... Połowę mego mienia pożyczyłem radzie najwyższej, choć nie mam za to nawet dziesięciu procent. A ten kramarz mówi, że mnie nie obchodzi Fenicja!...
 
-Rabsun, posłuchaj mnie — dodał po chwili. — Ja życzę twojej żonie i dzieciom, i cieniom twoich ojców, ażebyś ty o nich tyle dbał, ile ja o każdy okręt fenicki, o każdy kamień Tyru, Sydonu, a nawet Zarpath i Achsibu
+Rabsun, posłuchaj mnie — dodał po chwili. — Ja życzę twojej żonie i dzieciom, i cieniom twoich ojców, ażebyś ty o nich tyle dbał, ile ja o każdy okręt fenicki, o każdy kamień Tyru, Sydonu, a nawet Zarpath i Achsibu...
 
 — Dagon mówi prawdę — wtrącił Hiram.
 

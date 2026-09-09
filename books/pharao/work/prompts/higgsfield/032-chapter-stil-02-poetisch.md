@@ -1,0 +1,1 @@
+*Buch: Der Pharao* *Quelle: EPUB/part38.xhtml* <!-- status: pending --> Na drugi dzień książę wstał późno, sam wykąpał się i ubrał, i kazał przyjść do siebie Tutmozisowi. Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.

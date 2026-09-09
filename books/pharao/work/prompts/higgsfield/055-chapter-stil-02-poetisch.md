@@ -1,0 +1,1 @@
+*Buch: Der Pharao* *Quelle: EPUB/part63.xhtml* <!-- status: pending --> Około dziesiątej wieczór stanął przed panem Hiram odziany w ciemną szatę memfijskiego przekupnia. Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.

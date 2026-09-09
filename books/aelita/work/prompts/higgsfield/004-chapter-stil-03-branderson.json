@@ -1,0 +1,57 @@
+{
+  "book": "aelita",
+  "chapter": "004",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-03-branderson",
+  "model": "gpt_image_2",
+  "moodboard": "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "render_quality": "medium",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\scenes\\de\\stil-03-branderson\\004\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\prompts\\higgsfield\\004-chapter-stil-03-branderson.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\assets\\chapter\\chapter-004.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 004. Post-revolutionary Soviet Union, 1920s Petrograd, and an ancient Mars civilisation. Two Soviet travellers and a Martian princess; Martians look human but with subtle bird-like facial features and blue-tinged skin. Red deserts, canals, vertical cities, winged airships. Atmospheric depth, Martian architecture, alien flora and fauna. Cinematic literary illustration, painterly detail, no lettering. Characters present: Alexei Iwanowitsch Gussew: rotarmist, 50 jahr, schwarzee haar. In jener Nacht wartete Mascha lange auf ihren Mann – sie setzte den Teekessel auf dem Primuskocher mehrmals wieder auf. Hinter der hohen Eichentür war es still und unheimlich. Gussew und Mascha bewohnten ein einziges Zimmer in einem einst prächtigen, riesigen, nun verwaisten Haus. Während der Revolution hatten die Bewohner es verlassen. Vier Jahre Regen und winterlicher Schneestürme hatten das Innere stark mitgenommen. Das Zimmer war geräumig. An der Decke, zwischen goldener Stuckarbeit und Wolken, flog eine üppige Frau mit einem Lächeln im ganzen Gesicht, ringsumher geflügelte Kindlein. Über dem vergoldeten Bett mit Löwentatzen hing das Porträt eines alten Mannes, in gepuderter Perücke, mit einem verkniffenen Mund und einem Stern auf dem Rock. Gussew hatte ihn »General Toptýgin« getauft. »Der hat gnadenlos durchgegriffen, wenn ihm was nicht passte, dann hat er dich plattgemacht.« Mascha fürchtete sich, auf das Bild zu sehen. Durchs Zimmer war ein Eisenrohr des Öfchen gezogen, das die Wand geschwärzt hatte. Auf den Regalen, auf dem Tisch, wo Mascha das kärgliche Essen zubereitete, herrschten Ordnung und Sauberkeit. Die geschnitzte Eichentür öffnete sich in einen zweigeschossigen Saal. Die zerbrochenen Fenster waren mit Brettern vernagelt, die Decke war an manchen Stellen eingestürzt. In windigen Nächten zog hier der Wind heulend seine Runden, und Ratten rannten umher. Mascha saß am Tisch. Das Flämmchen des Primuskochers zischte. Von weit her trug der Wind das wehmütige Läuten einer Uhr herbei – es schlug zwei. Gussew kam nicht. Mascha dachte:",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_140339_5bc8ab38-e7e8-4d95-b6ca-15ff4662692a.png",
+  "job_result": [
+    {
+      "id": "5bc8ab38-e7e8-4d95-b6ca-15ff4662692a",
+      "status": "completed",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_140339_5bc8ab38-e7e8-4d95-b6ca-15ff4662692a.png",
+      "created_at": 1785161019.714393,
+      "params": {
+        "width": 1744,
+        "height": 2336,
+        "prompt": "Chapter 004. Post-revolutionary Soviet Union, 1920s Petrograd, and an ancient Mars civilisation. Two Soviet travellers and a Martian princess; Martians look human but with subtle bird-like facial features and blue-tinged skin. Red deserts, canals, vertical cities, winged airships. Atmospheric depth, Martian architecture, alien flora and fauna. Cinematic literary illustration, painterly detail, no lettering. Characters present: Alexei Iwanowitsch Gussew: rotarmist, 50 jahr, schwarzee haar. In jener Nacht wartete Mascha lange auf ihren Mann – sie setzte den Teekessel auf dem Primuskocher mehrmals wieder auf. Hinter der hohen Eichentür war es still und unheimlich. Gussew und Mascha bewohnten ein einziges Zimmer in einem einst prächtigen, riesigen, nun verwaisten Haus. Während der Revolution hatten die Bewohner es verlassen. Vier Jahre Regen und winterlicher Schneestürme hatten das Innere stark mitgenommen. Das Zimmer war geräumig. An der Decke, zwischen goldener Stuckarbeit und Wolken, flog eine üppige Frau mit einem Lächeln im ganzen Gesicht, ringsumher geflügelte Kindlein. Über dem vergoldeten Bett mit Löwentatzen hing das Porträt eines alten Mannes, in gepuderter Perücke, mit einem verkniffenen Mund und einem Stern auf dem Rock. Gussew hatte ihn »General Toptýgin« getauft. »Der hat gnadenlos durchgegriffen, wenn ihm was nicht passte, dann hat er dich plattgemacht.« Mascha fürchtete sich, auf das Bild zu sehen. Durchs Zimmer war ein Eisenrohr des Öfchen gezogen, das die Wand geschwärzt hatte. Auf den Regalen, auf dem Tisch, wo Mascha das kärgliche Essen zubereitete, herrschten Ordnung und Sauberkeit. Die geschnitzte Eichentür öffnete sich in einen zweigeschossigen Saal. Die zerbrochenen Fenster waren mit Brettern vernagelt, die Decke war an manchen Stellen eingestürzt. In windigen Nächten zog hier der Wind heulend seine Runden, und Ratten rannten umher. Mascha saß am Tisch. Das Flämmchen des Primuskochers zischte. Von weit her trug der Wind das wehmütige Läuten einer Uhr herbei – es schlug zwei. Gussew kam nicht. Mascha dachte:",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "medium",
+        "resolution": "2k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

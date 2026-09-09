@@ -1,0 +1,80 @@
+{
+  "book_id": "geheime-geschichte-mongolen",
+  "book_title": "Die Geheime Geschichte der Mongolen",
+  "style": "stil-01-original",
+  "scope": "book",
+  "chapter": null,
+  "format": "epub",
+  "partial": true,
+  "created_at": "2026-07-21T16:23:53",
+  "chapters": [
+    {
+      "id": "000",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "001",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "002",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "003",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "004",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "005",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "006",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "007",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "008",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "009",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "010",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "011",
+      "scenes": 1,
+      "missing": []
+    }
+  ],
+  "outputs": [
+    "books\\geheime-geschichte-mongolen\\exports\\stil-01-original\\book\\epub\\book-die-geheime-geschichte-der-mongolen-stil-01-original-20260721-162352.epub"
+  ],
+  "work_markdown": "books\\geheime-geschichte-mongolen\\exports\\stil-01-original\\book\\work\\book-die-geheime-geschichte-der-mongolen-stil-01-original-20260721-162352.md",
+  "work_pdf_html": null,
+  "work_pdf_css": null,
+  "cover": "books\\geheime-geschichte-mongolen\\assets\\covers\\cover.png",
+  "illustrations": []
+}

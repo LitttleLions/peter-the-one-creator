@@ -224,7 +224,7 @@ A nareszcie — nie my potrzebujemy jego łaski, ale on łaski bogów, których 
 
 Zadyszany z gniewu Mefres odpoczął i mówił dalej:
 
-— Był miesiąc w świątyni Hator, słuchał najwyższej mądrości i wnet potem wdał się z Fenicjanami. Ba!... odwiedzał bożnicę Astarty
+— Był miesiąc w świątyni Hator, słuchał najwyższej mądrości i wnet potem wdał się z Fenicjanami. Ba!... odwiedzał bożnicę Astarty i stamtąd wziął kapłankę, co uchybia zasadom wszystkich religii...
 
 Potem drwił publicznie z mojej pobożności... spiskował z takimi jak sam lekkoduchami i za pomocą Fenicjan wykradał państwowe tajemnice... A gdy wszedł na tron, źle mówię: ledwo wszedł na pierwsze stopnie tronu, już zohydza kapłanów, wichrzy chłopstwo i żołdactwo i odnawia śluby ze swoimi przyjaciółmi Fenicjanami...
 
@@ -602,7 +602,7 @@ Faraon znowu zamyślił się i nagle spytał:
 
 — Czy nie wynikłyby stąd jakie niebezpieczeństwa dla Egiptu?
 
-— Żadnych. Czterysta lat temu faraon Amenhotep IV obalił władzę kapłanów ustanowiwszy wiarę w jednego tylko bożka Re Harmachis
+— Żadnych. Czterysta lat temu faraon Amenhotep IV obalił władzę kapłanów ustanowiwszy wiarę w jednego tylko bożka Re Harmachis. Rozumie się, że przy tej sposobności zabrał skarby ze świątyń innych bogów... Otóż wówczas ani lud, ani wojsko, ani szlachta nie ujęli się za kapłanami... Cóż dopiero dziś, gdy dawna wiara bardzo osłabła!...
 
 — Kto to pomagał Amenhotepowi? — zapytał faraon.
 

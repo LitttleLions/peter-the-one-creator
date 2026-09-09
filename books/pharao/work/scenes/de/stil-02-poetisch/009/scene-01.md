@@ -1,139 +1,109 @@
 ## Szene 1
 
-> „Nicht die Flucht vor der Welt, sondern das stille Ausharren im Angesicht der übermächtigen Fremde ist die tiefste Prüfung der Seele.“ – Ferdinand Gregorovius, *Wanderjahre in Italien*
+> *Jede Liebe, die nicht auf gleichem Grund steht, ist eine Insel im Sturm: Die Wellen umarmen sie, aber das Festland erreicht sie nie.*
 
-Am linken Ufer des Nils, am nördlichen Rande der Vorstadt von Memphis, lag ein Landgut, das der Thronfolger Sara, der Tochter des Juden Gedeon, zur Wohnung überlassen hatte.
+Am linken Nilufer, am nördlichen Saum der Vorstadt von Memphis, lag ein Gutshof, den der Thronfolger Sara, der Tochter des Juden Gideon, zur Wohnung überlassen hatte.
 
-Es war ein Besitztum von fünfunddreißig Morgen Fläche, das ein kleines Quadrat bildete, welches man vom Dach des Hauses mit einem einzigen Blick umfassen konnte. Die Ländereien des Gutes lagen auf einer Anhöhe und teilten sich in vier Stufen. Die beiden untersten und ausgedehntesten, die der Nil stets überschwemmte, waren für den Anbau von Getreide und Gemüse bestimmt. Auf der dritten Stufe, die bisweilen von den Fluten verschont blieb, wuchsen Palmen, Feigen und andere Obstbäume. Auf der vierten, höchsten, befand sich ein Garten, bepflanzt mit Ölbäumen, Wein, Nussbäumen und süßen Kastanien, in deren Mitte das Haus stand.
+Das Anwesen umfasste fünfunddreißig Morgen und bildete ein kleines Viereck, das man vom Dach des Hauses aus wie auf der flachen Hand übersehen konnte. Die Ländereien des Hofes lagen auf einem Hügel und gliederten sich in vier Terrassen. Die beiden untersten, zugleich größten, die der Nil stets überschwemmte, dienten dem Anbau von Getreide und Gemüse. Auf der dritten Stufe, die mitunter von den Fluten verschont blieb, wuchsen Palmen, Feigen und andere Obstbäume. Auf der vierten, der höchsten, lag ein Garten mit Ölbäumen, Wein, Nüssen und süßen Kastanien, in dessen Mitte sich das Haus erhob.
 
-Das Haus war aus Holz, einstöckig, wie üblich mit einer Terrasse, über der sich ein Zelt aus Leinen spannte. Unten wohnte ein schwarzer Sklave Ramses’, oben Sara mit ihrer Verwandten und Dienerin Tafet. Das Haus war von einer Mauer aus ungebrannten Ziegeln umgeben, hinter der, in einiger Entfernung, die Gebäude für das Vieh, die Knechte und die Aufseher lagen.
+Das Haus war aus Holz, einstöckig, wie üblich mit einer Terrasse, über die sich ein Leinenzelt spannte. Unten wohnte ein schwarzer Sklave des Ramses, oben Sara mit ihrer Verwandten und Dienerin Tafet. Eine Mauer aus ungebrannten Ziegeln umgab das Haus, und dahinter, in einiger Entfernung, standen die Ställe für das Vieh sowie die Unterkünfte der Knechte und Aufseher.
 
-Saras Gemächer waren nicht groß, aber erlesen. Auf den Böden lagen Teppiche, in den Türen und Fenstern hingen Vorhänge in vielfarbigen Streifen. Es gab geschnitzte Betten und Stühle, eingelegte Truhen für die Kleidung, drei- und einfüßige Tischchen, auf denen Blumenvasen standen, schlanke Weinkrüge, Kästchen mit Parfümfläschchen, goldene und silberne Schalen und Kelche, Fayencevasen und -schüsseln, bronzene Öllampen. Jeder noch so winzige Hausrat oder jedes Gefäß war mit Schnitzerei oder farbiger Zeichnung verziert, jedes Kleidungsstück mit Stickerei und Fransen.
+Saras Gemächer waren nicht groß, aber erlesen. Auf den Böden lagen Teppiche, in den Türen und Fenstern hingen Vorhänge mit bunten Streifen. Hier standen geschnitzte Betten und Stühle, eingelegte Truhen für die Kleider, Tische auf drei und auf einem Bein, darauf Vasen mit Blumen, schlanke Weinkrüge, Kästchen mit Flakons voller Parfüm, goldene und silberne Schalen und Kelche, Fayencevasen und -schüsseln, bronzene Leuchter. Jeder noch so geringe Gegenstand, jedes Gefäß war verziert mit Schnitzwerk oder farbiger Zeichnung; jedes Kleidungsstück – mit Stickerei und Fransen.
 
-Bereits zehn Tage wohnte Sara in dieser Abgeschiedenheit, versteckte sich aus Furcht und Scham vor den Menschen, so dass vom Gesinde des Gutes sie fast niemand zu Gesicht bekam. In ihrem verhangenen Boudoir nähte sie, webte Leinen auf einem kleinen Webstuhl oder wand Kränze aus frischen Blumen für Ramses. Bisweilen schlüpfte sie auf die Terrasse, schob vorsichtig die Wände des Zeltes auseinander und blickte hinaus auf den Nil, der voller Boote war, deren Ruderer fröhliche Lieder sangen; oder sie hob die Augen und starrte mit Bangen auf die grauen Pylonen des königlichen Schlosses, das schweigend und düster über dem anderen Flussufer aufragte. Dann flüchtete sie wieder zu ihren Arbeiten und rief nach Tafet.
+Schon zehn Tage hauste Sara in dieser Abgeschiedenheit, aus Furcht und Scham vor den Menschen verborgen, so dass fast niemand vom Hofgesinde sie zu Gesicht bekam. In ihrem verhängten Boudoir nähte sie, webte Leinen an einem kleinen Webstuhl oder wand Kränze aus frischen Blumen für Ramses. Manchmal schlich sie sich auf die Terrasse, schob behutsam die Zeltwände auseinander und blickte hinaus auf den Nil, bedeckt mit Booten, deren Ruderer fröhliche Lieder sangen; oder sie hob die Augen und sah mit Bangen zu den grauen Pylonen des Königsschlosses hinüber, das stumm und düster das andere Flussufer überragte. Dann floh sie wieder zurück zu ihren Arbeiten und rief nach Tafet.
 
-„Sitz hier, Mutter“, sagte sie, „was treibst du dort unten? ...“
+»Bleib hier, Mütterchen«, sagte sie, »was treibst du da unten? …«
+»Der Gärtner hat Früchte gebracht, und aus der Stadt haben sie Brote, Wein und Vögelchen geschickt; ich musste es annehmen.«
+»Bleib hier und rede mit mir, denn die Angst packt mich …«
+»Du albernes Kind!«, lachte Tafet. »Auch bei mir guckte am ersten Tag die Angst aus jedem Winkel; aber sobald ich aus der Mauer trat, war alles vorbei. Vor wem soll ich mich hier fürchten, wo doch alle vor mir auf die Knie fallen? Vor dir würden sie wohl gar auf dem Kopf stehen! … Geh doch in den Garten, er ist schön wie das Paradies … Schau hinaus aufs Feld, wo sie den Weizen einbringen … Setz dich in den geschnitzten Kahn, dessen Fährleute vor Sehnsucht vergehen, dich zu sehen und über den Nil zu rudern …«
+»Ich fürchte mich …«
+»Wovor? …«
+»Weiß ich das? … Solange ich nähe, denke ich, ich sei in unserem Tälchen und dass gleich der Vater kommt. Aber wenn der Wind den Vorhang am Fenster lüpft und ich hinunterschaue auf dieses große … große Land, dann kommt es mir vor … Weißt du was? … Dass mich ein Geier geraubt und in sein Nest auf den Felsen getragen hat, von wo man nicht mehr herunterkann …«
+»Ach, du … du! … Wenn du sähest, welche Wanne der Fürst heute geschickt hat, eine kupferne Wanne! … Und welchen Dreifuß für die Feuerstelle, welche Töpfe und Spieße! … Und wüsstest du, dass ich heute zwei Hennen gesetzt habe und wir bald Küken haben werden …«
 
-„Der Gärtner hat Obst gebracht, und aus der Stadt hat man Brote, Wein und Vögel geschickt; ich musste es in Empfang nehmen.“
+Nach Sonnenuntergang, wenn niemand sie sehen konnte, wurde Sara mutiger. Dann trat sie auf die Terrasse und blickte auf den Fluss. Und wenn sich in der Ferne ein von Fackeln erleuchtetes Boot zeigte, die auf dem schwarzen Wasser blutige und feurige Bahnen zogen, presste Sara beide Hände auf ihr armes Herz, das zitterte wie ein gefangener Vogel. Dort kam Ramses zu ihr gerudert, und sie hätte nicht zu sagen gewusst, was mit ihr geschah. Ob es Freude war, dass jener Schöne sich näherte, den sie im Tälchen kennengelernt hatte, oder Angst, dass sie wieder den großen Herrscher und Gebieter sehen würde, der sie einschüchterte.
 
-„Sitz hier und sprich mit mir, denn die Furcht überfällt mich ...“
+Eines Tages, am Vorabend des Sabbats, kam der Vater auf den Hof, zum ersten Mal, seit sie sich hier niedergelassen hatte. Sara warf sich weinend an seine Brust; sie wusch ihm eigenhändig die Füße, goss Wohlgerüche über sein Haupt und bedeckte ihn mit Küssen. Gideon war ein schon ergrauter Mann mit strengen Zügen. Er trug ein fußlanges Hemd, unten mit bunter Stickerei besetzt, und darüber einen gelben, ärmellosen Kaftan, eine Art Mantel, der auf Brust und Rücken herabfiel. Seine Kopfbedeckung war eine kleine, sich nach oben verjüngende Mütze.
 
-„Du törichtes Kind!“ entgegnete Tafet lachend. „Auch mir hat am ersten Tag die Furcht aus jeder Ecke entgegengestarrt; aber als ich vor die Mauer getreten bin, war alles vorbei. Vor wem soll ich mich hier denn fürchten, wo alle vor mir auf die Knie fallen? Vor dir würden sie wohl gar auf dem Kopf stehen! ... Geh in den Garten, er ist schön wie das Paradies ... Blicke aufs Feld hinaus, wo sie den Weizen ernten ... Setz dich in das geschnitzte Boot, dessen Fährleute sich vor Sehnsucht verzehren, dich zu sehen und über den Nil zu fahren ...“
-
-„Ich fürchte mich ...“
-
-„Wovor?“
-
-„Weiß ich’s? ... Solange ich nähe, denke ich, ich bin in unserem kleinen Tal und der Vater wird gleich kommen. Aber wenn der Wind den Vorhang am Fenster lüftet und ich von oben auf dieses große, große Land blicke, dann scheint mir ... weißt du? ... Als hätte mich ein Geier gepackt und in sein Nest auf einen Felsen getragen, von dem man nicht hinabsteigen kann ...“
-
-„Ach, du ... du! ... Wenn du gesehen hättest, was für eine Wanne der Fürst heute geschickt hat, eine kupferne Wanne! ... Und was für einen Dreifuß fürs Feuer, was für Töpfe und Bratspieße! ... Und wenn du wüsstest, dass ich heute zwei Hennen gesetzt habe und wir bald Küken haben werden ...“
-
-Nach Sonnenuntergang, wenn niemand sie sehen konnte, wurde Sara mutiger. Dann trat sie auf die Terrasse und schaute auf den Fluss. Und wenn sich von ferne ein Boot, von Fackeln erleuchtet, zeigte, die auf dem schwarzen Wasser blutige und feurige Furchen zogen, presste Sara beide Hände an ihr armes Herz, das bebte wie ein gefangener Vogel. Dort fuhr Ramses zu ihr, und sie hätte nicht zu sagen vermocht, was mit ihr geschah: ob Freude, dass jener Schöne nahte, den sie im Tal kennen gelernt hatte, oder ob Furcht, den großen Herrscher und Gebieter wiederzusehen, der sie einschüchterte.
-
-Eines Tages, am Vorabend des Sabbat, kam der Vater auf das Gut, zum ersten Mal seit ihrer Niederlassung an diesem Ort. Sara stürzte ihm weinend entgegen; sie wusch ihm selbst die Füße, goss wohlriechende Öle auf sein Haupt und bedeckte ihn mit Küssen. Gedeon war ein bereits ergrauter Mann mit strengen Gesichtszügen. Er trug ein langes, bis zu den Knöcheln reichendes Hemd, am Saum mit farbiger Stickerei besetzt, und darüber einen gelben Kaftan ohne Ärmel, eine Art Umhang, der über Brust und Rücken fiel. Den Kopf bedeckte eine kleine Mütze, die sich nach oben hin verjüngte.
-
-„Du bist da! ... bist da!“ rief Sara und begann erneut, seine Hände und sein Haupt zu küssen.
-
-„Ich selbst wundere mich, dass ich hier bin!“ entgegnete Gedeon traurig. „Wie ein Dieb habe ich mich in den Garten geschlichen. Auf dem ganzen Weg von Memphis kam es mir vor, als zeigten alle Ägypter mit den Fingern auf mich und jeder Jude spuckte aus ...“
-
-„Aber Vater, du selbst hast mich doch dem Fürsten übergeben? ...“ flüsterte Sara.
-
-„Ich habe dich übergeben, denn was hätte ich tun sollen? Im Übrigen scheint es mir nur so, dass man auf mich zeigt und spuckt. Von den Ägyptern, wer mich kennt, verneigt sich vor mir umso tiefer, je höher er selbst steht. In der Zeit, da du hier bist, hat unser Herr Sezofris gesagt, man müsse mein Haus vergrößern; Herr Chaires schenkte mir einen Krug besten Weins, und der erlauchteste Nomarch selbst sandte einen vertrauten Diener zu mir, um zu fragen: ob du gesund seist und ob ich nicht sein Verwalter werden wolle?“
-
-„Und die Juden? ...“ fragte Sara.
-
-„Was die Juden! ... Sie wissen, dass ich nicht aus freiem Willen nachgegeben habe. Nun, und jeder möchte, dass man ihm nur solch eine Gewalt antäte. Möge der Herr, unser Gott, uns alle richten. Sag mir lieber: wie geht es dir?“
-
-„An Abrahams Busen wird es ihr nicht besser gehen“, meldete sich Tafet. „Den ganzen Tag bringt man uns Früchte, Weine, Brote und Fleisch, was die Seele nur begehrt. Und was für eine Wanne wir haben! ... ganz aus Kupfer. Und was für Küchengeräte! ...“
-
-„Vor drei Tagen“, unterbrach Sara, „war der Phönizier Dagon bei mir. Ich wollte ihn nicht sehen, aber er drängte sich so auf ...“
-
-„Er gab mir einen goldenen Ring“, warf Tafet ein.
-
-„Er sagte mir“, sprach Sara, „er sei der Pächter meines Herrn, schenkte mir zwei Fußspangen, Perlenohrgehänge und ein Kästchen mit Wohlgerüchen aus dem Lande Punt.“
-
-„Wofür hat er dir das geschenkt?“ fragte der Vater.
-
-„Für nichts. Er bat mich nur, dass ich gut von ihm denken und bisweilen meinem Herrn sagen möge, Dagon sei sein treuester Diener.“
-
-„Du wirst sehr schnell eine ganze Truhe voller Ohrgehänge und Spangen sammeln“, entgegnete Gedeon lächelnd. „Ach“, fügte er nach einer Weile hinzu, „sammle schnell ein großes Vermögen, und dann fliehen wir in unser Land, denn hier ist für uns immer Not. Not, wenn es schlecht ist, und eine noch größere Not, wenn es gut ist.“
-
-„Und was würde mein Herr sagen?“ fragte Sara bekümmert.
-
+»Du bist da? … Du bist da!«, rief Sara und küsste wieder seine Hände und sein Haupt.
+»Ich wundere mich selbst, dass ich hier bin!«, erwiderte Gideon traurig. »Ich habe mich in den Garten geschlichen wie ein Dieb. Auf dem ganzen Weg von Memphis war mir, als zeigten alle Ägypter mit Fingern auf mich, und jeder Jude spuckte aus …«
+»Aber Vater, du selbst hast mich doch dem Fürsten gegeben? …«, flüsterte Sara.
+»Ich gab dich hin, denn was hätte ich tun sollen? Außerdem bilde ich es mir wohl nur ein, dass sie zeigen und spucken. Von den Ägyptern, die mich kennen, grüßt mich einer umso tiefer, je höher er selbst steht. Seit du hier bist, hat unser Herr, Sesophris, gesagt, man müsse mein Haus vergrößern; Herr Chaires schenkte mir einen Krug des besten Weins, und sogar unser hochedler Nomarch schickte einen vertrauten Diener zu mir und ließ fragen: ob du gesund seist und ob ich nicht sein Verwalter werden wolle?«
+»Und die Juden? …«, fragte Sara.
+»Was, die Juden! … Sie wissen, dass ich nicht freiwillig nachgegeben habe. Nun, jeder möchte wohl, dass man nur ihm solche Gewalt antäte. Der Herr im Himmel richte uns alle. Sag lieber: Wie geht es dir?«
+»Ihr könnte es im Schoße Abrahams nicht besser gehen«, ließ sich Tafet vernehmen. »Den ganzen Tag schleppen sie uns Früchte, Weine, Brote und Fleisch herbei, wonach das Herz verlangt. Und welche Wanne wir haben! … ganz aus Kupfer. Und welche Küchengeräte! …«
+»Vor drei Tagen«, unterbrach Sara, »war der Phönizier Dagon bei mir. Ich wollte ihn nicht sehen, aber er drängte so …«
+»Er gab mir einen goldenen Ring«, warf Tafet ein.
+»Er sagte mir«, fuhr Sara fort, »dass er Pächter meines Herrn sei, schenkte mir zwei Fußspangen, Ohrgehänge mit Perlen und ein Kästchen mit Wohlgerüchen aus dem Lande Punt.«
+»Wofür hat er dir das geschenkt?«, fragte der Vater.
+»Für nichts. Er bat mich nur, ich solle gut von ihm denken und gelegentlich meinem Herrn sagen, dass Dagon sein treuester Diener sei.«
+»Du wirst sehr bald eine ganze Truhe voll Ohrgehänge und Armspangen beisammen haben«, lächelte Gideon. »Ach«, fügte er nach einem Augenblick hinzu, »sammle rasch ein großes Vermögen, und dann lass uns fliehen in unser Land, denn hier haben wir immer nur Not. Not, wenn es schlecht geht, und noch größere Not, wenn es gut geht.«
+»Und was würde mein Herr dazu sagen?«, fragte Sara traurig.
 Der Vater schüttelte den Kopf.
+»Bevor ein Jahr um ist, wird dein Herr dich verlassen, und andere werden ihm dabei helfen. Wärst du eine Ägypterin, er nähme dich in sein Haus; aber eine Jüdin …«
+»Verlassen? …«, wiederholte Sara mit einem Seufzer.
+»Was sollen wir uns um künftige Tage grämen, die in Gottes Hand liegen? Ich bin gekommen, den Sabbat bei dir zu verbringen …«
+»Und ich habe vortreffliche Fische, Fleisch, Fladenbrote und koscheren Wein«, warf Tafet schnell ein. »Ich habe auch in Memphis den siebenarmigen Leuchter gekauft und Wachskerzen … Es wird ein Abendessen geben, besser als bei Herrn Chaires selbst.«
 
-„Ehe ein Jahr vergeht, wird dein Herr dich verlassen, und andere werden ihm dabei helfen. Wärst du eine Ägypterin, nähme er dich in sein Haus, aber eine Jüdin ...“
+Gideon ging mit seiner Tochter auf die Terrasse hinaus. Als sie allein waren, sagte er:
+»Tafet erzählte mir, du säßest die ganze Zeit im Haus. Warum? Du solltest wenigstens in den Garten hinausschauen.«
+Sara schüttelte sich.
+»Ich fürchte mich«, flüsterte sie.
+»Warum sollst du dich vor deinem Garten fürchten? … Du bist doch hier die Herrin, eine vornehme Dame.«
+»Einmal ging ich tagsüber in den Garten … Da sahen mich einige Leute und fingen an, untereinander zu reden: ‚Seht, das ist die Jüdin des Thronfolgers, durch die sich die Überschwemmung verspätet! …‘«
+»Sie sind dumm«, warf Gideon ein. »Hat der Nil sich etwa noch nie um eine ganze Woche mit der Flut verspätet? Geh also inzwischen abends hinaus.«
+Sara schauderte noch heftiger.
 
-„Verlassen? ...“ wiederholte Sara seufzend.
+> *„Der Wind kommt vom Meere her, und das Wasser des Himmels färbt den Nil grün. Doch die Flut, die von Süden kommt, zögert vor den Mauern von Memphis – und die Herzen der Menschen warten, wie das Wasser in den Brunnen wartet.“*
 
-„Wozu sich um künftige Tage sorgen, die in Gottes Hand liegen? Ich bin gekommen, um den Sabbat mit dir zu verbringen ...“
+„Ich will nicht … ich will nicht! …“ rief sie. „An einem anderen Abend ging ich hinaus, dorthin, zwischen die Ölbäume. Plötzlich schoben sich aus einem Seitenpfad, wie Schatten, zwei Frauen hervor … Erschrocken wollte ich fliehen … Da ergriff mich die eine, jünger und kleiner, am Arm und sprach: ‚Flieh nicht, wir müssen dich betrachten …‘ Und die andere, älter und größer, trat einige Schritte vor mich hin und sah mir in die Augen … Ach, Vater, ich dachte, ich würde zu Stein … Was war das für eine Frau … was für ein Blick! …“
 
-„Und ich habe vorzügliche Fische, Fleisch, Kuchen und koscheren Wein“, warf Tafet eilig ein. „Ich habe auch in Memphis einen siebenarmigen Leuchter und Wachskerzen gekauft ... Das Abendmahl wird besser als beim Herrn Chaires selbst.“
+„Wer könnte das gewesen sein?“ fragte Gideon.
 
-Gedeon ging mit seiner Tochter auf die Terrasse hinaus. Als sie allein waren, sprach er:
+„Die Ältere sah aus wie eine Priesterin.“
 
-„Tafet hat mir gesagt, dass du ständig im Hause sitzt. Warum? Man muss wenigstens in den Garten gehen.“
+„Und sie sprach nichts zu dir?“
 
-Sara erschauerte.
+„Nichts. Nur, als sie sich beim Fortgehen hinter den Bäumen verbargen, hörte ich, wohl die Stimme der Älteren, die nur diese Worte sprach: ‚Wahrhaftig, sie ist hübsch …‘“
 
-„Ich fürchte mich“, flüsterte sie.
+Gideon versank in Gedanken.
 
-„Weshalb solltest du dich vor deinem Garten fürchten? Du bist doch hier die Herrin, eine große Herrin!“
+„Vielleicht waren es“ – sagte er – „irgendwelche vornehmen Damen vom Hofe? …“
 
-„Einmal ging ich bei Tag in den Garten ... Einige Leute sahen mich und fingen an, untereinander zu reden: ‚Seht, das ist die Jüdin des Thronfolgers, derentwegen die Überschwemmung sich verspätet!‘ ...“
+Die Sonne ging unter, und an beiden Ufern des Nils sammelten sich dichte Menschenmengen, die ungeduldig auf das Zeichen der Überschwemmung warteten, das sich tatsächlich verspätet hatte. Schon seit zwei Tagen wehte der Wind vom Meer her, und der Fluss war grün geworden; schon hatte die Sonne den Stern Sotis passiert, aber im Priesterbrunnen von Memphis war das Wasser nicht einmal um eine Fingerbreite gestiegen. Die Menschen waren beunruhigt, umso mehr, als in Oberägypten, den Signalen zufolge, die Flut regelmäßig verlief und sich sogar vortrefflich ankündigte.
 
-„Töricht sind sie“, warf Gedeon ein. „Hat sich denn der Nil schon einmal um eine ganze Woche mit der Flut verspätet? Also geh einstweilen abends hinaus.“
+„Was also hält sie unter Memphis zurück?“ fragten die bekümmerten Bauern, die sich nach dem Zeichen sehnten.
 
-Sara schüttelte sich noch heftiger.
+Als die Sterne am Himmel erschienen, deckte Tafet im Speisezimmer den Tisch mit einem weißen Tuch, stellte den Leuchter mit sieben brennenden Kerzen darauf, rückte drei Stühle zurecht und erklärte, dass sie gleich das Sabbatessen auftragen werde.
 
-„Ich will nicht ... will nicht! ...“ rief sie. „An einem anderen Tag ging ich abends hinaus, dort zwischen den Ölbäumen. Plötzlich traten aus einem Seitenpfad, wie Schatten, zwei Frauen hervor ... Erschrocken wollte ich fliehen ... Da fasste eine von ihnen, die jüngere und kleinere, mich bei der Hand und sagte: ‚Flieh nicht, wir müssen dich anschauen ...‘ Und die andere, ältere und größere, stellte sich ein paar Schritte vor mich hin und sah mir in die Augen ... Ach, Vater, ich dachte, ich würde zu Stein ... Was war das für eine Frau ... was für ein Blick!“
+Da bedeckte Gideon sein Haupt, erhob beide Hände über den Tisch und sprach, in den Himmel schauend:
 
-„Wer konnte das sein?“ fragte Gedeon.
+„Gott Abrahams, Isaaks und Jakobs, der du unser Volk aus dem Lande Ägypten geführt, der du Sklaven und Verbannten eine Heimat gegeben, der du mit den Söhnen Judas einen ewigen Bund geschlossen hast … Gott Jehova, Gott Adonai, erlaube uns, die Früchte des feindlichen Landes ohne Sünde zu genießen, befreie uns aus der Trauer und der Furcht, in die wir versunken sind, und führe uns zurück an die Ufer des Jordan, den wir um deines Ruhmes willen verlassen haben …“
 
-„Die ältere sah aus wie eine Priesterin.“
+In diesem Augenblick ertönte eine Stimme von jenseits der Mauer:
 
-„Und sie sagte nichts zu dir?“
+„Seine Hoheit Tutmosis, der treueste Diener seiner Heiligkeit und des Thronfolgers …“
 
-„Nichts. Nur, als sie fortgingen und hinter den Bäumen verschwanden, hörte ich, wohl die Stimme der Älteren, die nur diese Worte sprach: ‚Wahrhaftig, sie ist hübsch ...‘“
+„Mögen sie ewig leben! …“ erklangen mehrere Stimmen aus dem Garten.
 
-Gedeon wurde nachdenklich.
+„Seine Hoheit“ – sprach die einzelne Stimme wieder – „sendet Grüße der schönsten Rose vom Libanon!“
 
-„Vielleicht waren es“, sagte er, „irgendwelche hohen Damen vom Hofe? ...“
+Als sie verstummte, erklangen Harfe und Flöte.
 
-Die Sonne ging unter, und an beiden Ufern des Nils sammelten sich dichte Menschenmengen, die ungeduldig auf das Signal zur Überschwemmung warteten, die sich tatsächlich verspätete. Schon seit zwei Tagen wehte der Wind vom Meer, und der Fluss wurde grünlich; schon war die Sonne am Stern Sothis vorübergezogen, doch im Priesterbrunnen zu Memphis war das Wasser noch nicht einmal um die Dicke eines Fingers gestiegen. Die Leute waren beunruhigt, umso mehr, als in Oberägypten, den Signalen zufolge, die Flut ihren normalen Gang ging und sich sogar hervorragend ankündigte.
+„Das ist Musik! …“ rief Tafet und klatschte in die Hände. „Wir werden den Sabbat bei Musik begehen …“
 
-„Was hält sie also bei Memphis auf?“ fragten die bekümmerten Bauern und warteten sehnsüchtig auf das Signal.
+Sara und ihr Vater, zunächst erschrocken, begannen zu lachen und setzten sich zu Tisch.
 
-Als am Himmel die Sterne erschienen, deckte Tafet im Speisezimmer den Tisch mit einem weißen Tischtuch, stellte den Leuchter mit den sieben brennenden Kerzen hin, rückte drei Stühle heran und erklärte, sie werde sogleich das Sabbatmahl auftragen.
+„Sollen sie nur spielen“ – sagte Gideon – „ihre Musik wird uns den Appetit nicht verderben.“
 
-Da bedeckte Gedeon sein Haupt, erhob beide Hände über den Tisch und sprach, zum Himmel gewandt:
+Flöte und Harfe spielten eine Strophe, nach der eine Tenorstimme einsetzte und sang:
 
-„Gott Abrahams, Isaaks, Jakobs, der du unser Volk aus dem Lande Ägypten geführt, der du Sklaven und Verbannten eine Heimat gegeben, der du mit den Söhnen Judas einen ewigen Bund geschlossen hast ... Gott Jehova, Gott Adonai, erlaube uns, ohne Sünde die Früchte des feindlichen Landes zu genießen; entreiße uns Trauer und Furcht, in die wir versunken sind, und führe uns zurück an die Ufer des Jordans, den wir zu deinem Ruhme verlassen haben ...“
+— „Du bist schöner als alle Mädchen, die sich im Wasser des Nils bespiegeln. Dein Haar ist schwärzer als die Federn des Raben, deine Augen blicken sanfter als die Augen der Hirschkuh, die sich nach ihrem Bock sehnt. Dein Wuchs ist wie der Wuchs der Palme, und der Lotos beneidet dich um deine Anmut. Deine Brüste sind wie Weintrauben, deren Saft die Könige berauscht.“
 
-In diesem Augenblick ertönte hinter der Mauer eine Stimme:
+Wieder erklangen Flöte und Harfe, und nach ihnen das Lied:
 
-„Seine Erlaucht Thutmosis, der treueste Diener Seiner Heiligkeit und des Thronfolgers ...“
+— „Komm und ruhe im Garten. Die Dienerschaft, die dir gehört, wird zahlreiche Gefäße bringen und Biere aller Art. Komm, lass uns diese Nacht heiligen und die Morgenröte, die auf sie folgt. In meinem Schatten, im Schatten der Feige, die süße Früchte trägt, wird dein Geliebter zu deiner Rechten ruhen; und du sollst ihn berauschen und willfährig sein all seinen Wünschen …“
 
-„Mögen sie ewig leben! ...“ erklangen mehrere Stimmen aus dem Garten.
+… Flöte und Harfe – nach ihnen wieder ein Lied:
 
-„Seine Erlaucht“, sprach die einzelne Stimme weiter, „entbietet seinen Gruß der schönsten Rose vom Libanon!“
-
-Als sie schwieg, erklang der Klang von Harfe und Flöte.
-
-„Das ist Musik! ...“ rief Tafet und klatschte in die Hände. „Wir werden den Sabbat mit Musik begehen ...“
-
-Sara und ihr Vater, anfangs erschrocken, begannen zu lachen und setzten sich zu Tisch.
-
-„Mögen sie spielen“, sagte Gedeon, „ihre Musik wird uns den Appetit nicht verderben.“
-
-Flöte und Harfe spielten eine Strophe, worauf eine Tenorstimme zu singen anhob:
-
-„Schöner bist du als alle Mädchen, die sich in den Wassern des Nils spiegeln. Deine Haare schwärzer als das Gefieder des Raben, deine Augen blicken sanfter als die Augen der Hirschkuh, die sich nach ihrem Bock sehnt. Dein Wuchs ist wie der Wuchs der Palme, und der Lotos beneidet dich um deine Anmut. Deine Brüste sind wie Weintrauben, deren Saft die Könige berauscht.“
-
-Wieder ertönten Flöte und Harfe, und nach ihnen das Lied:
-
-„Komm und ruhe im Garten. Die Dienerschaft, die dir gehört, bringt zahlreiche Gefäße und Biere aller Arten. Komm, wir wollen die heutige Nacht heiligen und das Morgenlicht, das ihr folgen wird. In meinem Schatten, im Schatten der Feige, die süße Früchte trägt, wird dein Geliebter zu deiner Rechten ruhen; und du wirst ihn berauschen und wirst gefügig sein all seinen Wünschen ...“
-
-... Flöte und Harfe – und nach ihnen wieder Gesang:
-
-„Ich bin von schweigendem Gemüt, ich spreche nie aus, was ich sehe, und die Süße meiner Früchte verderbe ich nicht mit leerem Geschwätz ...“
+— „Ich bin von schweigsamem Gemüt, ich sage nie, was ich sehe, und die Süße meiner Früchte verderbe ich nicht mit leerem Geschwätz …“

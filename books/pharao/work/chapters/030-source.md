@@ -13,7 +13,7 @@ Ramzes z niejakim zdziwieniem przywitał starca, któremu z oczu patrzyła mądr
 
 Gdy namiestnik wskazał mu fotel i kazał odejść dworzanom, Hiram odezwał się:
 
-— Wczoraj sługa waszej dostojności, Dagon, powiedział mi, że książę potrzebujesz stu talentów. Zaraz wysłałem moich kurierów do Sabne-Chetam, Sethroe
+— Wczoraj sługa waszej dostojności, Dagon, powiedział mi, że książę potrzebujesz stu talentów. Zaraz wysłałem moich kurierów do Sabne-Chetam, Sethroe, Pi-Uto i innych miast, gdzie stoją fenickie okręty, ażeby wyładowały wszystek towar. I myślę, że za parę dni wasza dostojność otrzyma tę drobną sumkę.
 
 — Drobna! — przerwał książę ze śmiechem. — Szczęśliwy jesteś, wasza dostojność, jeżeli sto talentów nazywasz drobną sumką.
 

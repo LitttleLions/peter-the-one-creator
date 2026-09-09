@@ -255,9 +255,9 @@ class ExportManuscriptTests(unittest.TestCase):
                     '<html><body><img src="image.png" alt /></body></html>',
                 )
 
-            result = export.check_epub(epub)
+            _errors, warnings = export.check_epub(epub)
 
-        self.assertTrue(any("XHTML-Parsefehler" in item for item in result))
+        self.assertTrue(any("XHTML-Parsefehler" in item for item in warnings))
 
     def test_disabled_illustrations_are_ignored(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:

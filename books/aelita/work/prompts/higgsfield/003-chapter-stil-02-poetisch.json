@@ -1,0 +1,62 @@
+{
+  "book": "aelita",
+  "chapter": "003",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\chapters\\003-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\prompts\\higgsfield\\003-chapter-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\assets\\chapter\\chapter-003.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "*Buch: Aëlita* <!-- status: pending --> Все было готово к отлету с Земли. Но два последующих дня пришлось, почти без сна, провозиться над укладкой внутри аппарата — в полых подушках — множества мелочей. Проверяли приборы и инструменты. Сняли леса, окружавшие аппарат, разобрали часть крыши. Premium literary science-fiction illustration for a modern German classics edition. Two interlocking visual worlds: post-revolutionary Petrograd in the early 1920s and Mars as a fading high civilisation of red deserts, canals, ancient vertical cities and winged airships. Style: cinematic literary illustration, restrained Art Deco fused with 1920s Soviet modernism and early space-age futurism. Realistic materials, elegant architectural geometry, strong silhouettes, atmospheric depth and subtle film grain. Palette: Mars red, burnt ochre, dusty violet, deep night, technical graphite, faded ivory. Mood: cosmic distance, social tension, quiet melancholy, the sense of a world nearing its end. No typography, logos or text.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260623_175927_9a3acf5f-f6dc-43c4-b59e-2ab6d519854e.png",
+  "job_result": [
+    {
+      "id": "9a3acf5f-f6dc-43c4-b59e-2ab6d519854e",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260623_175927_9a3acf5f-f6dc-43c4-b59e-2ab6d519854e.png",
+      "created_at": 1782237567.266837,
+      "params": {
+        "prompt": "*Buch: Aëlita* <!-- status: pending --> Все было готово к отлету с Земли. Но два последующих дня пришлось, почти без сна, провозиться над укладкой внутри аппарата — в полых подушках — множества мелочей. Проверяли приборы и инструменты. Сняли леса, окружавшие аппарат, разобрали часть крыши. Premium literary science-fiction illustration for a modern German classics edition. Two interlocking visual worlds: post-revolutionary Petrograd in the early 1920s and Mars as a fading high civilisation of red deserts, canals, ancient vertical cities and winged airships. Style: cinematic literary illustration, restrained Art Deco fused with 1920s Soviet modernism and early space-age futurism. Realistic materials, elegant architectural geometry, strong silhouettes, atmospheric depth and subtle film grain. Palette: Mars red, burnt ochre, dusty violet, deep night, technical graphite, faded ivory. Mood: cosmic distance, social tension, quiet melancholy, the sense of a world nearing its end. No typography, logos or text.",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 353915,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": null
+        },
+        "style_strength": null
+      }
+    }
+  ]
+}

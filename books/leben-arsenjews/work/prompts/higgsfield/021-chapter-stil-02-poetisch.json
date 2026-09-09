@@ -1,0 +1,57 @@
+{
+  "book": "leben-arsenjews",
+  "chapter": "021",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "render_quality": "medium",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\leben-arsenjews\\work\\scenes\\de\\stil-02-poetisch\\021\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\leben-arsenjews\\work\\prompts\\higgsfield\\021-chapter-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\leben-arsenjews\\assets\\chapter\\chapter-021.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 021. High-quality full-bleed chapter illustration for Ivan Bunin’s The Life of Arseniev: one continuous painterly scene of a single quiet remembered moment, with one clear central figure or central situation filling the frame. Late 19th-century provincial central Russia: manor estates, endless grain fields, birch and garden light, wide skies, quiet rivers, country roads, and small provincial towns. Style: poetic memory realism, soft atmospheric light, muted elegant palette, gentle painterly texture, restrained emotion, Russian impressionist landscape influence, premium modern classics aesthetic. Prefer landscape and remembered atmosphere. When an adult figure appears, it is always the same narrator Arseniev: slender Russian man about 35–45, dark wavy hair, clean-shaven or light stubble, dark frock coat, often a quiet Rückenfigur looking into fields, river light, or a manor yard. When the text remembers childhood, show that child’s solitude among fields, sky, manor yard, or first town glimpses — a small boy in simple period clothes. Elegant negative space, soft focus in secondary areas, calm readable composition. Da, hinter dem Buschwerk, hinter den Stämmen, unter dem Laubdach, glitzerte und goldene der Feldweg, von dem ein Wärme, Licht, Glück der letzten Sommerabende ausströmte. Rechts von mir schwebte das aus den Bäumen hervor, unrichtig und wunderbar rund in der Bläue, langsam fließend und sich verändernd, ein großes, weißes, unbekanntes Wolkenbild. Nach ein paar Schritten lag ich ebenfalls auf dem Boden, auf der glatten Grasfläche, mitten unter den verstreuten, wie um mich herum spielenden hellen, sonnigen Bäumen, in leichten Schatten von zwei verschmolzenen Birken, zwei weißstämmigen Schwestern in graubrauner, feiner Laubkrone mit Kätzchen, ebenfalls hob ich die Hand zum Kopf und begann, entweder in das Feld zu schauen, das strahlte und lebhaft gelblich schimmerte hinter den Stämmen, oder auf dieses Wolkenbild. Leicht zog der trockene Wind vom Feld her, der lichte Wald zitterte, strömte, und man hörte seinen trägen, fast wie flüchtenden Laut. Dieser Laut wurde manchmal stärker, intensiver, und dann zitterte die gesprenkelte Schatten, bewegte sich, die Sonnenflecken flammten auf, glitzerten und auf dem Boden und in den Bäumen, deren Äste sich bogen und hell öffneten, zeigten das Himmel. Was dachte ich, wenn es nur Gedanken waren? Ich dachte gewiss an die Gymnasium, an die erstaunlichen Menschen, die ich dort sah, die als Lehrer bezeichnet wurden und zu einer ganz besonderen Art von Menschen gehörten, deren einzige Bestimmung es war, zu unterrichten und die Schüler in ewigen Angst zu halten, und mich überfiel ein unerklärlicher Schreck, warum mich in dieses Knechtschaft zu diesen Leuten führen, mich von dem väterlichen Hause, von Kamenka, von diesem Wald zu trennen… Ich dachte an den Strigun, den ich in der Früh auf dem Acker gesehen hatte.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_175911_c179dfd0-7b8e-480b-8d6d-a938b801204e.png",
+  "job_result": [
+    {
+      "id": "c179dfd0-7b8e-480b-8d6d-a938b801204e",
+      "status": "completed",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_175911_c179dfd0-7b8e-480b-8d6d-a938b801204e.png",
+      "created_at": 1785175151.268431,
+      "params": {
+        "width": 1744,
+        "height": 2336,
+        "prompt": "Chapter 021. High-quality full-bleed chapter illustration for Ivan Bunin’s The Life of Arseniev: one continuous painterly scene of a single quiet remembered moment, with one clear central figure or central situation filling the frame. Late 19th-century provincial central Russia: manor estates, endless grain fields, birch and garden light, wide skies, quiet rivers, country roads, and small provincial towns. Style: poetic memory realism, soft atmospheric light, muted elegant palette, gentle painterly texture, restrained emotion, Russian impressionist landscape influence, premium modern classics aesthetic. Prefer landscape and remembered atmosphere. When an adult figure appears, it is always the same narrator Arseniev: slender Russian man about 35–45, dark wavy hair, clean-shaven or light stubble, dark frock coat, often a quiet Rückenfigur looking into fields, river light, or a manor yard. When the text remembers childhood, show that child’s solitude among fields, sky, manor yard, or first town glimpses — a small boy in simple period clothes. Elegant negative space, soft focus in secondary areas, calm readable composition. Da, hinter dem Buschwerk, hinter den Stämmen, unter dem Laubdach, glitzerte und goldene der Feldweg, von dem ein Wärme, Licht, Glück der letzten Sommerabende ausströmte. Rechts von mir schwebte das aus den Bäumen hervor, unrichtig und wunderbar rund in der Bläue, langsam fließend und sich verändernd, ein großes, weißes, unbekanntes Wolkenbild. Nach ein paar Schritten lag ich ebenfalls auf dem Boden, auf der glatten Grasfläche, mitten unter den verstreuten, wie um mich herum spielenden hellen, sonnigen Bäumen, in leichten Schatten von zwei verschmolzenen Birken, zwei weißstämmigen Schwestern in graubrauner, feiner Laubkrone mit Kätzchen, ebenfalls hob ich die Hand zum Kopf und begann, entweder in das Feld zu schauen, das strahlte und lebhaft gelblich schimmerte hinter den Stämmen, oder auf dieses Wolkenbild. Leicht zog der trockene Wind vom Feld her, der lichte Wald zitterte, strömte, und man hörte seinen trägen, fast wie flüchtenden Laut. Dieser Laut wurde manchmal stärker, intensiver, und dann zitterte die gesprenkelte Schatten, bewegte sich, die Sonnenflecken flammten auf, glitzerten und auf dem Boden und in den Bäumen, deren Äste sich bogen und hell öffneten, zeigten das Himmel. Was dachte ich, wenn es nur Gedanken waren? Ich dachte gewiss an die Gymnasium, an die erstaunlichen Menschen, die ich dort sah, die als Lehrer bezeichnet wurden und zu einer ganz besonderen Art von Menschen gehörten, deren einzige Bestimmung es war, zu unterrichten und die Schüler in ewigen Angst zu halten, und mich überfiel ein unerklärlicher Schreck, warum mich in dieses Knechtschaft zu diesen Leuten führen, mich von dem väterlichen Hause, von Kamenka, von diesem Wald zu trennen… Ich dachte an den Strigun, den ich in der Früh auf dem Acker gesehen hatte.",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "medium",
+        "resolution": "2k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

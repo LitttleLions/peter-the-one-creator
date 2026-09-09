@@ -95,22 +95,40 @@ def toc_entries(zf: zipfile.ZipFile) -> list[tuple[str, str]]:
 
 
 def remove_annotation_anchors(root: ET.Element) -> None:
+    """Entfernt <a class="anchor">- und Annotations-<a>-Elemente aus dem Baum.
+
+    `tail`-Text hinter geloeschten Ankern wird in umgekehrter Reihenfolge
+    an das jeweils vorausgehende Element gefaltet, damit aufeinanderfolgende
+    Anker keinen Text verschlucken (Regression: Wolne-Lektury-EPUBs
+    verloren ``tail``-Inhalte nach mehreren ``<a class="anchor"/>`` am
+    Stueck).
+    """
     for parent in list(root.iter()):
         children = list(parent)
-        for index, child in enumerate(children):
+        anchors_to_remove: list[ET.Element] = []
+        for child in children:
             if child.tag != ns_tag("a"):
                 continue
             href = child.get("href") or ""
             css_class = child.get("class") or ""
-            if "annotations.xhtml" not in href and "anchor" not in css_class:
-                continue
-            replacement_text = child.tail or ""
-            if index == 0:
-                parent.text = (parent.text or "") + replacement_text
+            if "annotations.xhtml" in href or "anchor" in css_class:
+                anchors_to_remove.append(child)
+        if not anchors_to_remove:
+            continue
+        # Rueckwaerts loeschen, damit ``tail``-Ketten erhalten bleiben.
+        for anchor in reversed(anchors_to_remove):
+            tail = anchor.tail or ""
+            # Vorgaenger-Element im selben Parent finden.
+            prev: ET.Element | None = None
+            for c in children:
+                if c is anchor:
+                    break
+                prev = c
+            if prev is not None:
+                prev.tail = (prev.tail or "") + tail
             else:
-                prev = children[index - 1]
-                prev.tail = (prev.tail or "") + replacement_text
-            parent.remove(child)
+                parent.text = (parent.text or "") + tail
+            parent.remove(anchor)
 
 
 def extract_body(zf: zipfile.ZipFile, epub_path: str) -> tuple[str, str]:

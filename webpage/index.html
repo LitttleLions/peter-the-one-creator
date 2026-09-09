@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Motivatier Klassiks</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <div id="app">
+      <header class="site-header">
+        <div class="header-row">
+          <p class="header-left">Motivatier Klassiks — interaktives Regal</p>
+          <p class="header-right"><span id="volume-count">0</span> Bände</p>
+        </div>
+      </header>
+
+      <main class="shelf-stage">
+        <canvas id="shelf-canvas" aria-label="Interaktives Bücherregal"></canvas>
+
+        <div id="feature-card" class="feature-card" hidden>
+          <h2 id="feature-title" class="feature-title"></h2>
+          <p id="feature-author" class="feature-author"></p>
+          <button type="button" id="feature-details" class="feature-details">
+            Band ansehen
+          </button>
+        </div>
+
+        <button type="button" id="nav-prev" class="shelf-nav shelf-nav-prev" aria-label="Vorheriges Buch">
+          ←
+        </button>
+        <button type="button" id="nav-next" class="shelf-nav shelf-nav-next" aria-label="Nächstes Buch">
+          →
+        </button>
+
+        <div id="loading-state" class="state-panel" hidden>
+          <p class="state-title">Regal wird geladen …</p>
+        </div>
+        <div id="empty-state" class="state-panel" hidden>
+          <p class="state-title">Noch keine Bücher im Regal</p>
+          <p class="state-body">
+            Aktivieren Sie Bücher in <code>export.yaml</code> unter
+            <code>website.enabled: true</code> und führen Sie
+            <code>npm run sync</code> aus.
+          </p>
+        </div>
+
+        <div id="position-marker" class="position-marker" hidden>
+          <span id="position-current">1</span>
+          <span class="position-sep">/</span>
+          <span id="position-total">1</span>
+        </div>
+      </main>
+
+      <aside id="book-panel" class="book-panel" hidden aria-live="polite">
+        <button type="button" id="panel-back" class="panel-back" aria-label="Zurück zum Regal">
+          ← Regal
+        </button>
+        <div class="panel-paper">
+          <p id="panel-subtitle" class="panel-subtitle"></p>
+          <h2 id="panel-title" class="panel-title"></h2>
+          <p id="panel-author" class="panel-author"></p>
+          <p id="panel-summary" class="panel-summary"></p>
+          <a
+            id="panel-amazon"
+            class="panel-amazon"
+            href="#"
+            target="_blank"
+            rel="noopener noreferrer"
+            hidden
+          >
+            Bei Amazon ansehen
+          </a>
+        </div>
+      </aside>
+
+      <footer class="site-footer">
+        <p class="footer-tagline">Interessante Literatur neu aufgelegt</p>
+        <nav class="footer-nav" aria-label="Fußzeile">
+          <a href="./ueber-uns.html">Über uns</a>
+          <a href="./impressum.html">Impressum</a>
+        </nav>
+      </footer>
+    </div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

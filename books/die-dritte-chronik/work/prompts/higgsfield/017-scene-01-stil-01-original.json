@@ -1,0 +1,57 @@
+{
+  "book": "die-dritte-chronik",
+  "chapter": "017",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": null,
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\017\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\work\\prompts\\higgsfield\\017-scene-01-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\die-dritte-chronik\\assets\\scene\\017\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 017 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Die Kanzlei roch an diesem Morgen nach Staub und kaltem Tee. Juvaini saß auf seiner Matte, die Beine untergeschlagen, und sortierte die Abschriften des Vormittags. Draußen hing der Himmel grau über Karakorum, und der Wind trug den Geruch von nasser Erde und Pferdemist durch die offenen Zeltluken. Die Luft war dick, fast greifbar, und das Licht, das durch die eingerissenen Stoffbahnen fiel, hatte die Farbe von vergilbtem Papier. Er arbeitete seit drei Stunden. Die Finger schmerzten vom Halten der Feder, die Knie vom langen Sitzen, doch er hatte fast die Hälfte geschafft. Die restlichen Dokumente lagen in einem Stapel neben ihm, die meisten unbedeutend: Berichte über Viehbestände, ein Steuererlass für eine unbedeutende Provinz, eine Anfrage zur Öffnung einer Karawanserei in der Nähe von Samarkand. Er nahm das nächste Blatt, ein loses Stück Papier von schlechter Qualität, und begann zu lesen. Der erste Satz traf ihn wie ein Schlag. *Schwester,* Seine Hand erstarrte. Die Feder zitterte über dem Tintenfass, ein Tropfen fiel auf das Blatt und breitete sich dunkel und schnell aus. Er sah den Tropfen an, dann den Brief. Drei Wörter, die nichts bedeuten sollten – und alles bedeuteten. *Schwester,*",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_213346_90bf9247-947f-43ee-af85-b751454a7544.png",
+  "job_result": [
+    {
+      "id": "90bf9247-947f-43ee-af85-b751454a7544",
+      "status": "completed",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260723_213346_90bf9247-947f-43ee-af85-b751454a7544.png",
+      "created_at": 1784842426.7083,
+      "params": {
+        "width": 880,
+        "height": 1168,
+        "prompt": "Chapter 017 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Die Kanzlei roch an diesem Morgen nach Staub und kaltem Tee. Juvaini saß auf seiner Matte, die Beine untergeschlagen, und sortierte die Abschriften des Vormittags. Draußen hing der Himmel grau über Karakorum, und der Wind trug den Geruch von nasser Erde und Pferdemist durch die offenen Zeltluken. Die Luft war dick, fast greifbar, und das Licht, das durch die eingerissenen Stoffbahnen fiel, hatte die Farbe von vergilbtem Papier. Er arbeitete seit drei Stunden. Die Finger schmerzten vom Halten der Feder, die Knie vom langen Sitzen, doch er hatte fast die Hälfte geschafft. Die restlichen Dokumente lagen in einem Stapel neben ihm, die meisten unbedeutend: Berichte über Viehbestände, ein Steuererlass für eine unbedeutende Provinz, eine Anfrage zur Öffnung einer Karawanserei in der Nähe von Samarkand. Er nahm das nächste Blatt, ein loses Stück Papier von schlechter Qualität, und begann zu lesen. Der erste Satz traf ihn wie ein Schlag. *Schwester,* Seine Hand erstarrte. Die Feder zitterte über dem Tintenfass, ein Tropfen fiel auf das Blatt und breitete sich dunkel und schnell aus. Er sah den Tropfen an, dann den Brief. Drei Wörter, die nichts bedeuten sollten – und alles bedeuteten. *Schwester,*",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "high",
+        "resolution": "1k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+## Szene 1
+
+> Die wahren Paradiese sind die Paradiese, die wir verloren haben. – Marcel Proust
+
+Ein ganzes Leben ist seither vergangen.
+
+Russland, Orjol, Frühjahr … Und nun Frankreich, der Süden, mittelmeerische Wintertage.
+
+Wir beide sind schon lange in der Fremde. In diesem Winter ist er mein enger Nachbar, schwerkrank. Eines Morgens entfalte ich das örtliche französische Blatt und lasse es plötzlich sinken: aus. Ich hatte seine Spur lange angespannt in den Zeitungen verfolgt und immer von meinem Berg hinübergeschaut zu jener fernen, buckligen Landzunge, auf der ich seine Gegenwart ständig spürte. Nun ist dieser Gegenwart ein Ende gesetzt.
+
+Der Morgen ist hell und kalt. Ich trete aus dem Haus in den terrassierten Garten, auf einen kiesbestreuten Platz unter Palmen, von dem aus ein ganzes Land aus Tälern, Meer und Bergen zu sehen ist, funkelnd von Sonne und Bläue der Luft. Eine gewaltige bewaldete Niederung, die in welligen Hügeln und Mulden unablässig ansteigt, zieht vom Meer zu den Vorbergen der Alpen hinauf, wo ich mich befinde. Unter mir, rechts von mir, auf einem jähen felsigen Ausläufer, drängt sich um die Reste ihrer alten Festung mit einem urwüchsig rohen Sarazenenturm eine der ältesten Siedlungen der Provence, auch das etwas überaus Rohes, Graues, Steinernes, Terrassenförmiges, Ineinanderverwachsenes, oben schuppig, gleichsam rostig, knorrig-ziegelig. Im vorderen Horizont steigt zum blassdunstigen Himmel weißlich der Dunst des fernen Meeres empor. Jene bucklige Landzunge aber – linker Hand – versinkt im morgendlichen Meeresleuchten, das sie zitternd umgibt … Ich schaue lange dorthin. Der aufkommende Mistral streift den Garten, bewegt das spröde, lange Laub der Palmen, darin raschelt und knistert es trocken, sengend-kalt, genau wie in Grabkränzen … Soll ich hinfahren? Es ist unfassbar seltsam – sich im Leben nur zweimal zu begegnen und beide Male in Gesellschaft des Todes. Ja, alles ist unfassbar. Ist es möglich, dass diese Sonne, die jetzt so blendend gleißt und jene sonnendunstigen Berge in gleichgültig-glückliche Träume aller Zeiten und Völker einsenkt, die sie einst erblickten, ist es möglich, dass es dieselbe Sonne ist, die einst uns beiden leuchtete?

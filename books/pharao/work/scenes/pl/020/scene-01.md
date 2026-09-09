@@ -68,7 +68,7 @@ Po chwili milczenia kapłan znowu zapytał:
 
 — Jeżeliś jest w samej rzeczy Beroes (tu schylił głowę), wielki prorok Chaldei (znowu schylił głowę), dla którego nie ma tajemnic na ziemi ani w niebie, racz powiedzieć słudze twemu: która gwiazda jest najdziwniejsza?
 
-— Dziwnym jest Hor-set, który obchodzi niebo w ciągu dwunastu lat, gdyż dokoła niego krążą cztery mniejsze gwiazdy. Ale dziwniejszym jest Horka
+— Dziwnym jest Hor-set, który obchodzi niebo w ciągu dwunastu lat, gdyż dokoła niego krążą cztery mniejsze gwiazdy. Ale dziwniejszym jest Horka obchodzący niebo w trzydzieści lat. Ma on bowiem nie tylko podwładne sobie gwiazdy, lecz i wielki pierścień, który niekiedy znika.
 
 Wysłuchawszy tego egipski kapłan upadł na twarz przed Chaldejczykiem. Następnie wręczył mu purpurową szarfę i welon z muślinu, pokazał, gdzie stoją kadzidła, i wśród niskich ukłonów opuścił pieczarę.
 
@@ -126,7 +126,7 @@ Na znak Herhora Pentuer cofnął się w głąb pieczary i wyniósł trzy fotele 
 
 Gdy wszyscy trzej zajęli fotele, Chaldejczyk zaczął:
 
-— Do ciebie, Mefresie, mówi najwyższe kolegium kapłanów w Babilonie. Święty stan kapłański w Egipcie upada. Wielu z nich gromadzą pieniądze i kobiety i pędzą życie wśród uciech. Mądrość jest zaniedbana. Nie macie władzy ani nad światem niewidzialnym, ani nawet nad własnymi duszami. Niektórzy z was utracili wiarę wyższą, a dla źrenic waszych zakryta jest przyszłość. Nawet dzieje się gorzej, bo wielu kapłanów czując, że siły ich ducha są wyczerpane, weszli
+— Do ciebie, Mefresie, mówi najwyższe kolegium kapłanów w Babilonie. Święty stan kapłański w Egipcie upada. Wielu z nich gromadzą pieniądze i kobiety i pędzą życie wśród uciech. Mądrość jest zaniedbana. Nie macie władzy ani nad światem niewidzialnym, ani nawet nad własnymi duszami. Niektórzy z was utracili wiarę wyższą, a dla źrenic waszych zakryta jest przyszłość. Nawet dzieje się gorzej, bo wielu kapłanów czując, że siły ich ducha są wyczerpane, weszli na drogę kłamstwa i zręcznymi sztukami zwodzą prostaków.
 
 To mówi najwyższe kolegium: jeżeli chcecie powrócić na dobrą drogę, Beroes zostanie z wami przez kilka lat, ażeby za pomocą iskry przyniesionej z wielkiego ołtarza Babilonu rozniecić prawdziwe światło nad Nilem.
 
@@ -138,7 +138,7 @@ Herhor pochylił głowę.
 
 — Skutkiem zaniedbania wielkich tajemnic kapłani wasi nie spostrzegli, że dla Egiptu nadchodzą złe lata. Grożą wam klęski wewnętrzne, które tylko cnota i mądrość oddalić może. Lecz gorsze jest, że gdybyście w ciągu następnych dziesięciu lat rozpoczęli wojnę z Asyrią, wojska jej rozgromią wasze, przyjdą nad Nil i zniszczą wszystko, co tu istnieje od wieków.
 
-Taki złowrogi układ gwiazd, jaki dziś cięży nad Egiptem, zdarzył się pierwszy raz za dynastii czternastej, kiedy wasz kraj zdobyli i złupili Hyksosi. Trzeci raz powtórzy się on za pięćset lub sześćset lat od strony Asyrii i ludu Paras
+Taki złowrogi układ gwiazd, jaki dziś cięży nad Egiptem, zdarzył się pierwszy raz za dynastii czternastej, kiedy wasz kraj zdobyli i złupili Hyksosi. Trzeci raz powtórzy się on za pięćset lub sześćset lat od strony Asyrii i ludu Paras, który mieszka na wschód od Chaldei.
 
 Kapłani słuchali przerażeni. Herhor był blady, Pentuerowi wypadła z rąk tabliczka. Mefres ujął wiszący na piersiach amulet i modlił się zeschłymi wargami.
 
@@ -158,7 +158,7 @@ Asyria jeszcze boi się was, nic nie wie o zbiegu złych losów nad waszym kraje
 
 — Na jakich warunkach? — wtrącił Herhor.
 
-— Na bardzo dobrych. Asyria odstąpi wam ziemię izraelską aż do miasta Akka i kraj Edom
+— Na bardzo dobrych. Asyria odstąpi wam ziemię izraelską aż do miasta Akka i kraj Edom aż do miasta Elath. Zatem bez wojny granice wasze posuną się o dziesięć dni marszu na północ i dziesięć dni na wschód.
 
 — A Fenicja?... — spytał Herhor.
 

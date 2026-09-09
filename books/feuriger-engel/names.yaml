@@ -1,0 +1,75 @@
+entries:
+- source: Валерий Брюсов
+  target: Walerij Brjussow
+  aliases: [Waleri Jakowlewitsch Brjussow]
+  type: person
+  status: final
+  note: Autor des Romans
+
+- source: Рената
+  target: Renata
+  aliases: []
+  type: person
+  status: draft
+  note: Weibliche Hauptfigur
+
+- source: Рупрехт
+  target: Ruprecht
+  aliases: []
+  type: person
+  status: draft
+  note: Erzähler und männliche Hauptfigur
+
+- source: Мадиэль
+  target: Madiel
+  aliases: []
+  type: person
+  status: draft
+  note: Engel
+
+- source: Генрих фон Оттергейм
+  target: Heinrich von Otterheim
+  aliases: []
+  type: person
+  status: draft
+  note: Graf
+
+- source: Агриппа Неттесгеймский
+  target: Agrippa von Nettesheim
+  aliases: []
+  type: person
+  status: draft
+  note: Historische Figur
+
+- source: Фауст
+  target: Faust
+  aliases: []
+  type: person
+  status: draft
+  note: Historisch-literarische Figur
+
+- source: Мефистофель
+  target: Mephistopheles
+  aliases: []
+  type: person
+  status: draft
+  note: Dämon
+
+- source: Кёльн
+  target: Köln
+  aliases: []
+  type: place
+  status: final
+
+- source: Дюссельдорф
+  target: Düsseldorf
+  aliases: []
+  type: place
+  status: final
+
+- source: Огненный ангел
+  target: Der feurige Engel
+  aliases: [Feuriger Engel]
+  type: work
+  status: final
+  note: Werktitel

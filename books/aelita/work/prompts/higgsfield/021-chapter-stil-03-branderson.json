@@ -1,0 +1,65 @@
+{
+  "book": "aelita",
+  "chapter": "021",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-03-branderson",
+  "model": "text2image_soul_v2",
+  "moodboard": "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\chapters\\021-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\prompts\\higgsfield\\021-chapter-stil-03-branderson.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\aelita\\assets\\chapter\\chapter-021.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. two soviet people and an marsian princess - the marsians are lookling like people but with a very vogelähnlichen gesicht Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. Characters present: Aëlita: schöne marsianerin, blaue haut, leichtes vogelgesicht; Mstislaw Sergejewitsch Los: sowjetische ingeneur mit mütze; Alexei Iwanowitsch Gussew: rotarmist, 50 jahr, schwarzee haar. Гусев стоял в библиотеке. В обычно сонных глазах его прыгали веселые искорки, нос вздернулся, топорщились усы. Руки он глубоко засунул за ременный пояс. Лось сидел, подобрав ноги, в углу дивана, невидяще глядел на Гусева. Вот уже более двух часов он ожидал обычного прихода Аэлиты, подходил к двери, прислушивался, — в комнатах Аэлиты было тихо. Он садился в угол дивана и ждал, когда зазвучат ее шаги. Он знал: легкие шаги раздадутся в нем громом небесным. Она войдет, как всегда, прекраснее, изумительнее, чем он ждал, пройдет под озаренными верхними окнами; по зеркальному полу пролетит ее черное платье. И в нем все дрогнет. Вселенная его души дрогнет и замрет, как перед грозой. Лось опустил голову, — так впился глазами Гусев. Спросил тихо: Гусев ушел. Лось опять взял книгу и думал: «Чем кончится? Пройдет мимо гроза любви? Нет, не минует. Рад он этому чувству напряженного, смертельного ожидания, что вот-вот раскроется какой-то немыслимый свет? Не радость, не печаль, не сон, не жажда, не утоление… То, что он испытывает, когда Аэлита рядом с ним, — именно принятие жизни в ледяное одиночество своего тела. Жизнь входит в него по зеркальному полу, под сияющими окнами. Но это тоже ведь сон. Пусть случится то, чего он жаждет. И жизнь возникнет в ней, в Аэлите. Она будет полна осуществлением, трепетной плотью. А ему снова — томление, одиночество». Никогда еще Лось с такой ясностью не чувствовал безнадежной жажды любви, никогда еще так не понимал этого обмана любви, страшной подмены самого себя — женщиной: проклятие мужского существа. Раскрыть объятия, распахнуть руки от звезды до звезды, — ждать, принять женщину. И она возьмет все и будет жить. А ты, любовник, отец, — как пустая тень, раскинувшая руки от звезды до звезды. Аэлита была права: он напрасно многое узнал за это время, слишком широко раскрылось его сознание. В его теле еще текла горячая кровь, он был весь еще полон тревожными семенами жизни, — сын Земли. Но разум опередил его на тысячу лет: здесь, на иной земле, он...",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--custom_reference_id",
+    "27e7e3ca-aa27-48f0-8a82-e59541dcfd20",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260701_191845_bfcdca79-b9a8-4b87-84f2-9dae124c3c55.png",
+  "job_result": [
+    {
+      "id": "bfcdca79-b9a8-4b87-84f2-9dae124c3c55",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260701_191845_bfcdca79-b9a8-4b87-84f2-9dae124c3c55.png",
+      "created_at": 1782933525.01051,
+      "params": {
+        "prompt": "Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. two soviet people and an marsian princess - the marsians are lookling like people but with a very vogelähnlichen gesicht Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. Characters present: Aëlita: schöne marsianerin, blaue haut, leichtes vogelgesicht; Mstislaw Sergejewitsch Los: sowjetische ingeneur mit mütze; Alexei Iwanowitsch Gussew: rotarmist, 50 jahr, schwarzee haar. Гусев стоял в библиотеке. В обычно сонных глазах его прыгали веселые искорки, нос вздернулся, топорщились усы. Руки он глубоко засунул за ременный пояс. Лось сидел, подобрав ноги, в углу дивана, невидяще глядел на Гусева. Вот уже более двух часов он ожидал обычного прихода Аэлиты, подходил к двери, прислушивался, — в комнатах Аэлиты было тихо. Он садился в угол дивана и ждал, когда зазвучат ее шаги. Он знал: легкие шаги раздадутся в нем громом небесным. Она войдет, как всегда, прекраснее, изумительнее, чем он ждал, пройдет под озаренными верхними окнами; по зеркальному полу пролетит ее черное платье. И в нем все дрогнет. Вселенная его души дрогнет и замрет, как перед грозой. Лось опустил голову, — так впился глазами Гусев. Спросил тихо: Гусев ушел. Лось опять взял книгу и думал: «Чем кончится? Пройдет мимо гроза любви? Нет, не минует. Рад он этому чувству напряженного, смертельного ожидания, что вот-вот раскроется какой-то немыслимый свет? Не радость, не печаль, не сон, не жажда, не утоление… То, что он испытывает, когда Аэлита рядом с ним, — именно принятие жизни в ледяное одиночество своего тела. Жизнь входит в него по зеркальному полу, под сияющими окнами. Но это тоже ведь сон. Пусть случится то, чего он жаждет. И жизнь возникнет в ней, в Аэлите. Она будет полна осуществлением, трепетной плотью. А ему снова — томление, одиночество». Никогда еще Лось с такой ясностью не чувствовал безнадежной жажды любви, никогда еще так не понимал этого обмана любви, страшной подмены самого себя — женщиной: проклятие мужского существа. Раскрыть объятия, распахнуть руки от звезды до звезды, — ждать, принять женщину. И она возьмет все и будет жить. А ты, любовник, отец, — как пустая тень, раскинувшая руки от звезды до звезды. Аэлита была права: он напрасно многое узнал за это время, слишком широко раскрылось его сознание. В его теле еще текла горячая кровь, он был весь еще полон тревожными семенами жизни, — сын Земли. Но разум опередил его на тысячу лет: здесь, на иной земле, он...",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 1915,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "27e7e3ca-aa27-48f0-8a82-e59541dcfd20"
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "variant": "single_fairy",
+  "endpoint": "/v1/text2image/soul",
+  "dry_run": false,
+  "payload": {
+    "prompt": "Post-revolutionary Soviet Union 1920s and ancient Mars civilisation. Two clearly separated characters in one cinematic vertical illustration: Aelita, a blue-skinned Martian princess with delicate birdlike facial features, standing on the left in pale ceremonial clothing; Los, a lean Soviet engineer in a practical cap and dark work coat, standing on the right beside a metal airship console. Red desert, canals, vertical Martian architecture, atmospheric depth.",
+    "width_and_height": "1152x1536",
+    "quality": "720p",
+    "batch_size": 1,
+    "style_id": "6fdd3fde-4c0d-4b21-a7fa-cf0f4aa1a7ba",
+    "style_strength": 0.8,
+    "custom_reference_id": "0fb45e81-0939-41e4-bee4-f0d007a8ec43",
+    "custom_reference_strength": 1
+  },
+  "result": null,
+  "error": {
+    "message": "Provided Soul style not found",
+    "stack": "BadInputError: Provided Soul style not found\n    at E:\\code\\peter-the-one-creator\\node_modules\\@higgsfield\\client\\dist\\client.js:47:23\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Axios.request (E:\\code\\peter-the-one-creator\\node_modules\\axios\\dist\\node\\axios.cjs:5513:14)\n    at async retryWithBackoff (E:\\code\\peter-the-one-creator\\node_modules\\@higgsfield\\client\\dist\\utils\\retry.js:9:20)\n    at async HiggsfieldClient.generate (E:\\code\\peter-the-one-creator\\node_modules\\@higgsfield\\client\\dist\\client.js:64:26)\n    at async generate (file:///E:/code/peter-the-one-creator/tools/probe_higgsfield_multi_soul.mjs:176:20)\n    at async main (file:///E:/code/peter-the-one-creator/tools/probe_higgsfield_multi_soul.mjs:219:25)"
+  }
+}

@@ -1,222 +1,224 @@
 ## Szene 1
 
-> »Nicht den, den die Götter lieben, erheben sie zum Pharao – sondern den, den sie prüfen und bestehen lassen.«
+> Ein Pharao wählt seinen Erben nicht nach dem Alter, sondern nach dem Willen der Götter. Doch die Götter prüfen das Herz des Erwählten durch Feuer, ehe sie ihm die Krone aufs Haupt setzen.
 
-Im dreiunddreißigsten Jahr der glücklichen Regierung Ramses’ XII. beging Ägypten zwei Feste, die seine rechtgläubigen Bewohner mit Stolz und Wonne erfüllten.
+Im dreiunddreißigsten Jahr der glücklichen Herrschaft Ramses’ XII. feierte Ägypten zwei Feste, die seine rechtschaffenen Bewohner mit Stolz und Wonne erfüllten.
 
-Im Monat Mechir, im Dezember, kehrte der Gott Chonsu, überschüttet mit kostbaren Gaben, nach Theben zurück.
+Im Monat Mechir, im Dezember, kehrte der Gott Chonsu nach Theben zurück, überhäuft mit kostbaren Gaben; er war drei Jahre und neun Monate im Lande Buchten unterwegs gewesen, hatte dort die Königstochter namens Bent-res geheilt und den bösen Geist nicht nur aus der Familie des Königs vertrieben, sondern selbst aus der Festung von Buchten.
 
-Im Monat Farmuti jedoch, im Februar, ernannte der Herr von Ober- und Unterägypten, der Gebieter Phöniziens und der neun Völker, Mer-amen-Ramses XII., nach Beratung mit den Göttern, denen er gleich ist, seinen Erpatre, das heißt den Thronfolger: seinen zweiundzwanzigjährigen Sohn Chamsem-merer-amen-Ramses.
+Und im Monat Farmuti, im Februar, ernannte der Herr von Ober- und Unterägypten, der Gebieter Phöniziens und der neun Völker, Mer-amen-Ramses XII., nachdem er sich mit den Göttern beraten, denen er gleich ist, seinen erpatren, das heißt Thronfolger, den zweiundzwanzigjährigen Sohn Chamsem-merer-amen-Ramses.
 
-Diese Wahl erfreute die frommen Priester, die erhabenen Nomarchen, das tapfere Heer, das treue Volk und alle Kreatur, die auf ägyptischem Boden lebte, aufs Höchste. Denn die älteren Söhne des Pharaos, von einer chetitischen Königstochter geboren, waren allesamt nicht besonders kräftig.
+Diese Wahl erfreute die frommen Priester, die erhabenen Nomarchen, das tapfere Heer, das treue Volk und alle lebenden Geschöpfe auf ägyptischem Boden über die Maßen. Denn die älteren Söhne des Pharao, geboren von der chetischen Prinzessin, waren durch Zauberkünste, die man nicht ergründen kann, von einem bösen Geist heimgesucht worden. Der eine Sohn, siebenundzwanzig Jahre alt, konnte seit seiner Volljährigkeit nicht mehr gehen, der zweite hatte sich die Adern durchschnitten und war gestorben, und der dritte war durch vergifteten Wein, den er nicht lassen wollte, in Wahnsinn verfallen, hielt sich für einen Affen und verbrachte die ganzen Tage auf den Bäumen.
 
-Erst der vierte Sohn, Ramses, den Königin Nikotris, die Tochter des Erzpriesters Amenhotep, geboren hatte, war stark wie der Apis-Stier.
+Erst der vierte Sohn, Ramses, geboren von der Königin Nikotris, der Tochter des Hohenpriesters Amenhotep, war stark wie der Apisstier, mutig wie ein Löwe und weise wie die Priester. Von Kindheit an umgab er sich mit Soldaten, und als er noch ein einfacher Prinz war, pflegte er zu sagen:
 
-Hätte das Schicksal ihn, anstatt des jüngeren Königssohnes, zum Pharao gemacht, er hätte, wie Ramses der Große, neun Völker unterworfen, von denen man in Ägypten nie gehört hatte, er hätte einen Tempel erbaut, größer als ganz Theben, und für sich selbst eine Pyramide errichtet, neben der das Grab des Cheops wie ein Staubkorn erschienen wäre.
+»Wenn die Götter mich, anstatt zum jüngeren Königssohn, zum Pharao gemacht hätten, würde ich, wie Ramses der Große, neun Völker unterwerfen, von denen man in Ägypten nie gehört hat, einen Tempel erbauen, größer als ganz Theben, und mir selbst eine Pyramide errichten, neben der das Grab des Cheops wie ein Rosenstrauch neben einer reifen Palme aussähe.«
 
-Nachdem er den so heiß ersehnten Titel eines Erpatre erhalten hatte, bat der junge Prinz den Vater, ihn gnädig zum Befehlshaber des Korps von Memphis zu ernennen. Worauf Seine Heiligkeit Ramses XII., nach Beratung mit den Göttern, denen er gleich ist, antwortete, er werde dies tun, sofern der Thronfolger den Beweis erbringe, dass er eine Masse von Truppen im Kriegszustand zu führen verstehe.
+Nachdem der junge Prinz den so ersehnten Titel eines erpatren erhalten hatte, bat er seinen Vater, ihn gnädig zum Befehlshaber des Korps von Memphis zu ernennen. Worauf seine Heiligkeit Ramses XII. nach Beratung mit den Göttern, denen er gleich ist, antwortete, er werde dies tun, wenn der Thronfolger einen Beweis erbringe, dass er eine Kriegsmacht zu führen vermöge.
 
-Zu diesem Zweck wurde ein Rat einberufen unter dem Vorsitz des Kriegsministers San-amen-Herhor, der zugleich Erzpriester des größten Tempels – des Amon in Theben – war.
+Zu diesem Zweck wurde ein Rat unter dem Vorsitz des Kriegsministers San-amen-Herhor einberufen, der Hoherpriester des größten Tempels war – des Amon in Theben.
 
 Der Rat beschloss:
 
-Der Thronfolger werde Mitte des Monats Misori (Anfang Juni) zehn Regimenter sammeln, die entlang der Linie stationiert waren, welche die Stadt Memphis mit der Stadt Pi-Uto an der Sebenitischen Bucht verband.
+Der Thronfolger solle Mitte des Monats Misori (Anfang Juni) zehn Regimenter sammeln, die entlang der Linie verteilt waren, welche die Stadt Memphis mit der Stadt Pi-Uto in der sebenitischen Bucht verbindet.
 
-Mit diesem zehntausend Mann starken, gefechtsbereiten Korps, ausgestattet mit einem Feldlager und Kriegsmaschinen, werde der Thronfolger nach Osten ziehen, hin zur Straße, die von Memphis nach Chetem führt, an der Grenze des Landes Gosen.
+Mit einem zehntausend Mann starken, kampfbereiten Korps, versehen mit Lager und Kriegsmaschinen, solle der Thronfolger nach Osten ziehen, zur Heerstraße, die von Memphis nach Chetem an der Grenze des Landes Gosen und der ägyptischen Wüste führt.
 
-Zur selben Zeit habe General Nitager, der Oberbefehlshaber des Heeres, das die Tore Ägyptens vor dem Einfall der asiatischen Völker bewacht, von den Bitterseen her aufzubrechen.
+Zu dieser Zeit solle der General Nitager, der Oberbefehlshaber des Heeres, das die Tore Ägyptens vor dem Einfall der asiatischen Völker bewacht, von den Bitterseeen her gegen den Thronfolger ausrücken.
 
-Beide Armeen, die asiatische und die westliche, sollten in der Umgebung der Stadt Pi-Bailos aufeinandertreffen, jedoch – in der Wüste, damit der fleißige Bauer des Landes Gosen in seiner Arbeit nicht gestört werde.
+Beide Heere, das asiatische und das westliche, sollten sich in der Gegend der Stadt Pi-Bailos treffen, jedoch – in der Wüste, damit der arbeitsame Bauer des Landes Gosen in seinen Geschäften nicht behindert werde.
 
-Der Thronfolger siege, wenn er sich von Nitager nicht überraschen lasse, also – wenn er alle Regimenter sammle und sie rechtzeitig in Schlachtordnung zur Begegnung des Feindes aufstelle.
+Der Thronfolger siege, wenn er sich von Nitager nicht überrumpeln lasse, das heißt – wenn er alle Regimenter sammle und rechtzeitig in Schlachtordnung aufstelle, um dem Feind entgegenzutreten.
 
-Im Lager des Prinzen Ramses werde sich Seine Erhabenheit Herhor, der Kriegsminister, persönlich aufhalten und dem Pharao über den Verlauf der Ereignisse Bericht erstatten.
+Im Lager des Prinzen Ramses werde seine Erhabenheit Herhor, der Kriegsminister, persönlich anwesend sein und dem Pharao über den Gang der Ereignisse Bericht erstatten.
 
-Die Grenze des Landes Gosen und der Wüste bildeten zwei Verkehrswege. Der eine war ein Schiffskanal von Memphis zum Timsah-See, der andere – eine Heerstraße. Der Kanal lag noch im Lande Gosen, die Heerstraße bereits in der Wüste, welche beide Wege halbkreisförmig umschlossen. Von der Heerstraße aus war fast auf der gesamten Strecke der Kanal zu sehen.
+Die Grenze des Landes Gosen und der Wüste bildeten zwei Verkehrswege. Der eine war ein Transportkanal von Memphis zum Timsahsee, der andere eine Landstraße. Der Kanal lag noch im Lande Gosen, die Landstraße bereits in der Wüste, welche beide Wege halbkreisförmig umschlossen. Von der Landstraße aus war der Kanal fast auf der ganzen Strecke zu sehen.
 
-Unabhängig von den künstlichen Grenzen unterschieden sich die angrenzenden Landstriche in jeder Hinsicht. Das Land Gosen schien trotz der Wellen des Bodens eine Ebene, die Wüste hingegen bestand aus kalkigen Hügeln und sandigen Tälern. Das Land Gosen sah aus wie ein riesiges Schachbrett, dessen grüne und gelbe Felder durch die Farbe der Saaten und die an den Rainen wachsenden Palmen voneinander geschieden waren; auf dem fahlen Sand der Wüste aber und ihren weißen Hügeln wirkte ein Fleck Grün oder eine Gruppe von Bäumen und Sträuchern wie ein verirrter Wanderer.
+Unabhängig von den künstlichen Grenzen unterschieden sich die benachbarten Landstriche in jeder Hinsicht. Das Land Gosen erschien trotz seiner welligen Bodenbeschaffenheit wie eine Ebene, die Wüste dagegen bestand aus Kalksteinhügeln und sandigen Tälern. Das Land Gosen glich einem riesigen Schachbrett, dessen grüne und gelbe Felder sich durch die Farbe des Getreides und die Palmen auf den Rainen voneinander abgrenzten; auf dem roten Sand der Wüste und ihren weißen Hügeln aber wirkte ein grüner Fleck oder eine Baum- und Buschgruppe wie ein verirrter Wanderer.
 
-Auf dem fruchtbaren Boden Gosens entsprang von jedem Hügel ein dunkler Hain von Akazien, Sykomoren und Tamarisken; in der Ferne reckten sich die Tempel oder Paläste einer Stadt wie rote und weiße Blüten. In ihrer Nähe, auf den höchsten Punkten, hingen Gärten an den Felsen wie Festons. In der Wüste hingegen lugten hinter dem ersten Zug der etwas begrünten Hügel schon die nackten Höhen hervor, bedeckt mit Haufen von Geröll. Es schien, als werfe das westliche Land, übersättigt von Lebensfülle, mit königlicher Großzügigkeit Grün und Blumen auf die andere Seite des Kanals; doch die ewig hungrige Wüste verschlang sie im nächsten Jahr und verwandelte sie in Asche.
+Auf dem fruchtbaren Boden von Gosen spross aus jedem Hügel ein dunkler Hain von Akazien, Sykomoren und Tamarinden, die aus der Ferne an unsere Linden erinnerten, und in deren Mitte sich Palästchen mit Reihen gedrungener Säulen oder die gelben Lehmhütten der Bauern verbargen. Manchmal leuchtete neben einem Hain ein Städtchen mit flachgedeckten Häusern, oder schwer erhoben sich über die Bäume die pyramidenförmigen Tore der Tempel, wie doppelte Felsen, übersät mit seltsamen Zeichen.
 
-Das bisschen Pflanzenwuchs, das auf die Felsen und in den Sand verbannt war, klammerte sich an tiefer gelegene Stellen, wohin man mit Hilfe von Gräben, die im Damm der Heerstraße durchstochen waren, Wasser aus dem Kanal leiten konnte. So tranken denn zwischen den kahlen Hügeln, nahe der Heerstraße, verborgene Oasen vom Tau des Himmels, wo Gerste und Weizen wuchsen, der Weinstock, Palmen und Tamarisken.
+In der Wüste lugten hinter der ersten Reihe leicht begrünter Hügel kahle Berge hervor, übersät mit Steinhaufen. Es schien, als ob das vom Übermaß des Lebens gesättigte westliche Land mit königlicher Freigebigkeit auf die andere Seite des Kanals Grün und Blumen würfe; doch die ewig hungrige Wüste fraß sie im nächsten Jahr auf und verwandelte sie in Asche.
 
-An solchen Orten lebten auch Menschen – in einzelnen Familien, die einander, wenn sie sich auf dem Markt von Pi-Bailos trafen, vielleicht nicht einmal wussten, dass sie in der Wüste Nachbarn waren.
+Der kümmerliche Pflanzenwuchs, der auf die Felsen und Sande verbannt war, hielt sich an niedrigeren Stellen, wohin man durch Gräben, die durch den Damm der Landstraße gebrochen waren, Wasser aus dem Kanal leiten konnte. Und so tranken zwischen den kahlen Hügeln, in der Nähe der Landstraße, verborgene Oasen den Tau des Himmels, wo Gerste und Weizen wuchsen, Weinstöcke, Palmen und Tamarinden.
 
-Am sechzehnten Misori war die Sammlung der Truppen fast beendet. Die zehn Regimenter des Thronfolgers, welche die asiatischen Truppen Nitagers ablösen sollten, hatten sich bereits auf der Heerstraße oberhalb der Stadt Pi-Bailos mit ihrem Lager und einem Teil der Kriegsmaschinen versammelt.
+An solchen Orten lebten auch Menschen, in einzelnen Familien, die, wenn sie sich auf dem Markt in Pi-Bailos trafen, vielleicht nicht einmal wussten, dass sie in der Wüste Nachbarn waren.
 
-Ihre Bewegungen leitete der Thronfolger selbst. Er stellte zwei Linien von Spähern auf, von denen die weiter entfernte den Feind zu beobachten hatte, die nähere – die eigene Armee vor einem Überfall zu schützen, der in dieser Gegend voller Hügel und Schluchten möglich war. Er, Ramses, inspizierte im Laufe einer Woche selbst die auf verschiedenen Wegen marschierenden Regimenter und achtete sorgfältig darauf, ob die Soldaten ordentliche Waffen und warme Mäntel für die Nacht besaßen, ob in den Lagern ausreichend Zwieback, Fleisch und getrockneter Fisch vorhanden war. Er schließlich befahl, die Frauen, Kinder und Sklaven der an die Ostgrenze ziehenden Truppen auf dem Kanal zu befördern, was zur Verkleinerung des Trosses führte und die Bewegungen der eigentlichen Armee erleichterte.
+Am sechzehnten Misori war die Truppenkonzentration fast abgeschlossen. Die zehn Regimenter des Thronfolgers, die die asiatischen Truppen Nitagers ablösen sollten, hatten sich bereits auf der Heerstraße oberhalb der Stadt Pi-Bailos gesammelt, mit dem Lager und einem Teil der Kriegsmaschinen.
 
-Die ältesten Generale bewunderten das Wissen, den Eifer und die Vorsicht des Thronfolgers, vor allem aber seine Arbeit und Einfachheit. Seinen zahlreichen Hofstaat, das fürstliche Zelt, Wagen und Sänften ließ er in Memphis zurück; und selbst, in der Kleidung eines einfachen Offiziers, eilte er von Regiment zu Regiment, zu Pferde, nach assyrischer Art, nur in Begleitung zweier Adjutanten.
+Der Thronfolger selbst leitete ihre Bewegungen. Er hatte zwei Späherlinien organisiert, von denen die entferntere die Feinde beobachten sollte, die nähere die eigene Armee vor einem Überfall bewachen, der in dieser an Hügeln und Schluchten reichen Gegend möglich war. Er, Ramses, hatte im Laufe einer Woche selbst die auf verschiedenen Wegen marschierenden Regimenter umritten und besichtigt, wobei er genau darauf achtete, ob die Soldaten ordentliche Waffen und warme Mäntel für die Nacht hätten, ob in den Lagern genügend Zwieback, Fleisch und getrockneter Fisch vorhanden sei. Schließlich befahl er, die Frauen, Kinder und Sklaven der zur Ostgrenze ziehenden Soldaten auf dem Kanal zu transportieren, was die Lager verkleinerte und die Bewegungen des eigentlichen Heeres erleichterte.
 
-Dadurch ging die Sammlung des eigentlichen Korps sehr schnell vonstatten, und die Truppen standen zur festgesetzten Zeit bei Pi-Bailos.
+Die ältesten Generäle bewunderten das Wissen, den Eifer und die Vorsicht des Thronfolgers und vor allem seine Arbeit und Schlichtheit. Seinen zahlreichen Hofstaat, das fürstliche Zelt, die Wagen und Sänften hatte er in Memphis zurückgelassen; er selbst ritt in der Kleidung eines einfachen Offiziers von Regiment zu Regiment, auf assyrische Art zu Pferde, in Begleitung zweier Adjutanten.
 
-Anders verhielt es sich mit dem fürstlichen Stab, dem griechischen Regiment, das ihn begleitete, und einigen Kriegsmaschinen.
+Dank dessen verlief die Konzentration des eigentlichen Korps sehr schnell, und die Truppen standen zur bestimmten Zeit bei Pi-Bailos.
 
-Der Stab, in Memphis gesammelt, hatte den kürzesten Weg, brach also am spätesten auf und schleppte ein gewaltiges Lager hinter sich her. Fast jeder Offizier – und es waren junge Herren aus großen Häusern – besaß eine Sänfte mit vier Mohren, einen zweirädrigen Kriegswagen, ein prächtiges Zelt und eine Unmenge Kisten mit Kleidung und Speisen sowie Krüge voll Bier und Wein.
+Anders war es mit dem fürstlichen Stab, mit dem griechischen Regiment, das ihn begleitete, und mehreren Kriegsmaschinen.
 
-Außerdem machte sich mit den Offizieren eine zahlreiche Truppe von Sängerinnen und Tänzerinnen samt Musikanten auf die Reise; jede von ihnen aber musste, als große Dame, einen Wagen haben, bespannt mit einem oder zwei Paar Ochsen, und eine Sänfte.
+Der in Memphis versammelte Stab hatte den kürzesten Weg, brach also am spätesten auf und schleppte ein ungeheures Lager mit sich. Fast jeder Offizier, und es waren junge Herren aus den großen Familien, besaß eine Sänfte mit vier Schwarzen, einen zweirädrigen Kriegswagen, ein reich geschmücktes Zelt und eine Menge Kisten mit Kleidern und Speisen sowie Krüge voll Bier und Wein.
 
-Als diese Menge aus Memphis hervorquoll, nahm sie auf der Heerstraße mehr Platz ein als die Armee des Thronfolgers. Man marschierte aber so langsam, dass die Kriegsmaschinen, die man ganz hinten gelassen hatte, einen Tag später aufbrachen als befohlen. Zu allem Überfluss begannen die Sängerinnen und Tänzerinnen, als sie die Wüste sahen, die an dieser Stelle noch gar nicht furchterregend war, sich zu ängstigen und zu weinen. Um sie also zu beruhigen, musste man das Nachtlager früher aufschlagen, die Zelte errichten und eine Vorstellung geben, danach ein Festmahl.
+Außerdem hatte sich hinter den Offizieren eine zahlreiche Schar von Sängerinnen und Tänzerinnen mit Musik auf die Reise begeben; jede aber, als große Dame, musste einen mit einem oder zwei Paar Ochsen bespannten Wagen und eine Sänfte haben.
 
-Das nächtliche Vergnügen, in der Kühle, unter dem bestirnten Himmel, vor dem Hintergrund der wilden Natur, gefiel den Tänzerinnen und Sängerinnen so gut, dass sie erklärten, von nun an nur noch in der Wüste auftreten zu wollen. Unterdessen sandte der Thronfolger, der unterwegs von den Zuständen seines Stabes erfuhr, den Befehl, die Frauen so rasch wie möglich in die Stadt zurückzuschicken und den Marsch zu beschleunigen.
+Als dieser Troß sich aus Memphis ergoss, nahm er auf der Heerstraße mehr Platz ein als die Armee des Thronfolgers. Man marschierte so langsam, dass die Kriegsmaschinen, die ganz hinten gelassen worden waren, einen Tag später aufbrachen, als befohlen war. Zu allem Übel begannen die Sängerinnen und Tänzerinnen, als sie die Wüste erblickten, die an dieser Stelle noch gar nicht furchtbar war, sich zu fürchten und zu weinen. Also musste man, um sie zu beruhigen, den Nachtmarsch verkürzen, die Zelte aufschlagen und eine Vorstellung veranstalten und danach ein Festmahl.
 
-Beim Stabe befand sich Seine Erhabenheit Herhor, der Kriegsminister, jedoch nur in der Eigenschaft eines Beobachters. Er führte keine Sängerinnen mit sich, machte aber auch den Stabsoffizieren keine Bemerkungen. Er ließ seine Sänfte an die Spitze der Kolonne tragen, und sich ihren Bewegungen anpassend, rückte er vor oder ruhte im Schatten eines großen Fächers, mit dem ein Adjutant ihn beschirmte.
+Das nächtliche Vergnügen, in der Kühle unter dem Sternenhimmel vor der wilden Naturkulisse, gefiel den Tänzerinnen und Sängerinnen so sehr, dass sie erklärten, von nun an nur noch in der Wüste aufzutreten. Inzwischen sandte der Thronfolger, der unterwegs von den Vorfällen seines Stabes erfahren hatte, den Befehl, die Frauen schleunigst in die Stadt zurückzuschicken und den Marsch zu beschleunigen.
 
-Seine Erhabenheit Herhor war ein Mann von Mitte vierzig, kräftig gebaut, in sich verschlossen. Selten sprach er und ebenso selten blickte er die Menschen unter seinen gesenkten Lidern hindurch an.
+Beim Stab befand sich seine Erhabenheit Herhor, der Kriegsminister, jedoch nur in der Rolle eines Zuschauers. Er führte keine Sängerinnen mit sich, machte aber auch keinerlei Bemerkungen gegenüber den Stabsoffizieren. Er ließ seine Sänfte an die Spitze der Kolonne tragen und, ihren Bewegungen folgend, rückte er vor oder ruhte im Schatten eines großen Fächers, mit dem ihn ein Adjutant vor der Sonne schützte.
 
-Wie jeder Ägypter hatte er nackte Arme und Beine, eine freie Brust, Sandalen an den Füßen, einen kurzen Schurz um die Hüften und vorn einen Schurz in blauen und weißen Streifen. Als Priester schor er Bart und Haupthaar und trug ein Pantherfell, über die linke Schulter gehängt. Als Soldat schließlich bedeckte er das Haupt mit einem kleinen Gardehelm, unter dem auf den Nacken ein Kopftuch herabhing, ebenfalls in weißen und blauen Streifen.
+Seine Erhabenheit Herhor war ein Mann von etwa vierzig Jahren, kräftig gebaut, verschlossen. Er sprach selten und sah ebenso selten die Menschen unter halbgesenkten Lidern an.
 
-Am Halse hatte er eine dreifache goldene Kette, und unter dem linken Arm, auf der Brust, ein kurzes Schwert in kostbarer Scheide.
+Wie jeder Ägypter trug er entblößte Arme und Beine, eine unbedeckte Brust, Sandalen an den Füßen, einen kurzen Rock um die Hüften und vorn eine Schürze mit blauen und weißen Streifen. Als Priester rasierte er sich Bart und Haare und trug über der linken Schulter ein Pantherfell. Schließlich, als Soldat, bedeckte er seinen Kopf mit einem kleinen Gardehelm, unter dem ein ebenfalls weiß und blau gestreiftes Tuch auf den Nacken fiel.
 
-Seine Sänfte, die sechs schwarze Sklaven trugen, begleiteten beständig drei Männer: der eine trug den Fächer, der zweite die Streitaxt des Ministers und der dritte eine Kiste mit Papyrusrollen. Dies war Pentuer, Priester und Schreiber des Ministers, ein hagerer Asket, der in der größten Hitze sein geschorenes Haupt nicht bedeckte. Er stammte aus dem Volk, bekleidete aber trotz niedriger Geburt dank seiner außergewöhnlichen Fähigkeiten ein wichtiges Amt im Staate.
+Um den Hals trug er eine dreifache goldene Kette und unter dem linken Arm auf der Brust einen kurzen Dolch in kostbarer Scheide.
 
-Obwohl der Minister mitsamt seinen Beamten sich an der Spitze der Stabskolonne befand und sich nicht in ihre Bewegungen einmischte, konnte man doch nicht behaupten, dass er nicht wusste, was hinter ihm vorging. Jede Stunde, mitunter jede halbe Stunde, näherte sich der Sänfte des Würdenträgers bald ein niederer Priester, ein gewöhnlicher „Diener Gottes“, bald ein marodierender Soldat, bald ein Händler oder ein Sklave, der, scheinbar gleichgültig am stillen Gefolge des Ministers vorübergehend, ein Wörtchen fallen ließ. Dieses Wörtchen aber schrieb Pentuer bisweilen auf, meistens jedoch merkte er es sich, denn er besaß ein außergewöhnliches Gedächtnis.
+Seine Sänfte, von sechs schwarzen Sklaven getragen, wurde ständig von drei Männern begleitet: einer trug den Fächer, einer die Streitaxt des Ministers und einer die Kiste mit den Papyrusrollen. Es war Pentuer, ein Priester und Schreiber des Ministers, ein hagerer Asket, der selbst in der größten Hitze seinen kahlgeschorenen Kopf nicht bedeckte. Er stammte aus dem Volk, bekleidete aber trotz seiner niedrigen Herkunft eine wichtige Stellung im Staat dank seiner außergewöhnlichen Fähigkeiten.
 
-Auf diese Kleinigkeiten achtete niemand in dem lärmenden Haufen der Stabsoffiziere. Diese Offiziere, große Herrensöhne, waren viel zu sehr mit dem Herumlaufen, lärmendem Gespräch oder Gesang beschäftigt, um darauf zu achten, wer sich dem Minister näherte; umso mehr, als unentwegt eine Menge Leute längs der Heerstraße hin und her zog.
+Obwohl der Minister mit seinen Beamten an der Spitze der Stabskolonne stand und sich nicht in deren Bewegungen einmischte, kann man dennoch nicht behaupten, dass er nicht wusste, was hinter ihm geschah. Jede Stunde, manchmal jede halbe Stunde, näherte sich der Sänfte des Würdenträgers – bald ein niederer Priester, ein einfacher »Gottesdiener«, bald ein Nachzügler-Soldat, bald ein Händler oder Sklave, der, scheinbar gleichgültig am stillen Gefolge des Ministers vorbeigehend, irgendein Wort fallen ließ. Dieses Wort aber schrieb Pentuer manchmal auf, meistens jedoch behielt er es, denn sein Gedächtnis war außergewöhnlich.
 
-Am fünfzehnten Misori verbrachte der Stab des Thronfolgers mitsamt Seiner Erhabenheit dem Minister die Nacht unter freiem Himmel, in einer Entfernung von einer Meile von den Regimentern, die sich bereits quer über der Heerstraße hinter der Stadt Pi-Bailos zum Kampfe aufstellten.
+Auf diese Kleinigkeiten achtete niemand in der lärmenden Menge der Stabsoffiziere. Diese Offiziere, große Herren, waren viel zu sehr mit Herumrennen, lautem Reden oder Singen beschäftigt, als dass sie darauf geachtet hätten, wer sich dem Minister näherte; umso mehr, als in einem fort viele Menschen auf der Landstraße umherschweiften.
 
-Vor der ersten Morgenstunde, die unserer sechsten Stunde entspricht, nahmen die Wüstenhügel eine violette Farbe an. Hinter ihnen trat die Sonne hervor. Das Land Gosen überflutete ein Rosenlicht, und die Städtchen, die Tempel, die Paläste der Magnaten und die Lehmhütten der Bauern sahen aus wie Funken und Flammen, die in einem Augenblick mitten im Grün entzündet wurden.
+Am fünfzehnten Misori verbrachte der Stab des Thronfolgers zusammen mit seiner Erhabenheit, dem Minister, die Nacht unter freiem Himmel, eine Meile von den Regimentern entfernt, die sich bereits quer zur Landstraße hinter der Stadt Pi-Bailos zur Schlacht aufstellten.
 
-Bald darauf ergoss sich goldene Farbe über den westlichen Horizont. Und es schien, als zergehe das Grün des Landes Gosen in Gold, und die unzähligen Kanäle wälzten, statt Wasser, geschmolzenes Silber. Die Wüstenhügel aber wurden noch tiefer violett und warfen lange Schatten auf den Sand und Schwärze auf die Pflanzen.
+Gegen eins nach Mitternacht, was unserer sechsten Morgenstunde entspricht, färbten sich die Wüstenhügel purpurrot. Hinter ihnen hob sich die Sonne. Das Land Gosen ergoss sich in Rosigkeit, und die Städtchen, Tempel, Paläste der Magnaten und die Lehmhütten der Bauern sahen aus wie Funken und Flammen, die im Nu unter dem Grün entzündet worden waren.
 
-Die Wachen, die längs der Heerstraße standen, konnten die mit Palmen bestandenen Felder jenseits des Kanals vortrefflich sehen. Auf den einen grünten Flachs, Weizen, Klee, auf den anderen – vergoldete sich die reifende Gerste der zweiten Aussaat. Gleichzeitig begannen aus den zwischen Bäumen verborgenen Hütten die Landleute zur Arbeit zu treten: nackte Menschen von kupferner Hautfarbe, deren ganze Kleidung in einem kurzen Schurz um die Hüften und einer Kappe auf dem Kopf bestand.
+Bald überflutete eine goldene Farbe den westlichen Horizont. Und es schien, als zerflösse das Grün des Landes Gosen in Gold, und die unzähligen Kanäle wälzten statt Wasser geschmolzenes Silber dahin. Aber die Hügel der Wüste wurden noch tiefer purpurn und warfen lange Schatten auf die Sande und Schwärze auf die Pflanzen.
 
-Die einen wandten sich den Kanälen zu, um sie vom Schlamm zu säubern oder Wasser zu schöpfen und mit Hilfe von Maschinen, die den Brunnenkränen glichen, auf die Felder zu gießen. Andere, zwischen den Bäumen verstreut, sammelten reife Feigen und Trauben. Viele nackte Kinder und Frauen in weißen, gelben oder roten ärmellosen Hemden bewegten sich dort.
+Die an der Landstraße aufgestellten Wachen konnten die mit Palmen bepflanzten Felder jenseits des Kanals deutlich sehen. Auf den einen grünte Flachs, Weizen, Klee, auf anderen goldgelb reifende Gerste der zweiten Aussaat. Zugleich begannen aus den zwischen den Bäumen versteckten Hütten die Bauern zur Arbeit zu gehen, nackte Menschen von kupferner Farbe, deren ganze Kleidung ein kurzer Rock um die Hüften und eine Kappe auf dem Kopf war.
 
-Und eine große Bewegung herrschte in dieser Gegend. Am Himmel jagte das Raubgeflügel der Wüste den Tauben und Dohlen des Landes Gosen nach. Entlang des Kanals schwangen sich kreischende Krane mit den Eimern des fruchtbaren Wassers, und die Menschen, welche Früchte sammelten, erschienen und verschwanden zwischen dem Grün der Bäume wie bunte Schmetterlinge. Auf der Heerstraße aber, in der Wüste, wimmelte es bereits von Soldaten und ihrem Tross. Eine Abteilung Reiter, mit Lanzen bewaffnet, flog vorbei. Hinter ihr marschierten Bogenschützen in Kappen und Schurzen; sie trugen Bogen in der Faust, Köcher auf den Schultern und Bündel mit Pfeilen. Weiter vorn sah man, wie sie, ein Dutzend oder zwei Dutzend Mann auf einmal, in die Wüste hinausliefen, sich nach allen Seiten verteilten und dann dem Weg wieder zustrebten. Sie erinnerten an eine Schar Jagdhunde.
+Die einen wandten sich zu den Kanälen, um sie vom Schlamm zu reinigen oder Wasser zu schöpfen und mit Hilfe von Kränen, ähnlich den Ziehbrunnen, auf die Felder zu gießen. Andere, zwischen den Bäumen zerstreut, sammelten reife Feigen und Trauben. Dort tummelten sich auch viele nackte Kinder und Frauen in ärmellosen weißen, gelben oder roten Hemden.
 
-Hundert Schritte hinter ihnen zogen zwei kleine Abteilungen Fußvolk: die eine mit Lanzen bewaffnet, die andere mit Beilen. Die einen wie die anderen trugen rechteckige Schilde in den Händen, auf der Brust dicke Wämser, gleichsam Panzer, und auf dem Kopf Kappen mit Tüchern, die den Nacken vor der Hitze schützten. Kappen und Wämser waren gestreift: blau mit weiß oder gelb mit schwarz, was die Soldaten großen Hornissen ähnlich machte.
+> *„Die Wüste ist ein offenes Buch, doch nur der Tor liest darin die Wege der Menschen; der Weise liest die Wege der Götter.“*
+> – Aus den Lehren des Ptahhotep
 
-> „Wer den Weg der Götter geht, darf nicht eilen, denn die Ewigkeit kennt keine Stunden – doch der Krieger, der zaudert, verliert die Schlacht, bevor sie beginnt.“  
-> — Aus den Maximen des Ptahhotep, zugeschrieben
+Und es entstand ein großes Treiben in dieser Gegend. Am Himmel jagte das Raubgevögel der Wüste hinter den Tauben und Dohlen des Landes Gosen her. Entlang des Kanals schwangen sich knarrende Schöpfwerke mit ihren Eimern voll fruchtbaren Wassers, und die Menschen, die Früchte sammelten, erschienen und verschwanden zwischen dem Grün der Bäume wie bunte Schmetterlinge. In der Wüste aber, auf der Heerstraße, wimmelte es bereits von Soldaten und ihrem Tross. Eine Abteilung berittener Lanzenreiter jagte vorüber. Hinter ihnen marschierten Bogenschützen in Kappen und Schürzen; sie trugen die Bogen in der Faust, den Köcher auf dem Rücken und breite Hiebmesser an der rechten Seite. Den Bogenschützen folgten Schleuderer, die Beutel mit Geschossen trugen und mit kurzen Schwertern bewaffnet waren.
 
-Hinter der Vorhut, umringt von einem Trupp Axtträger, bewegte sich die Sänfte des Ministers, und hinter ihr, in ehernen Helmen und Panzern, die griechischen Rotten, deren gemessener Schritt an das Schlagen schwerer Hämmer gemahnte. Im Rücken hörte man das Knarren der Wagen, das Brüllen des Viehs und die Schreie der Treiber, und seitlich der Straße schlängelte sich ein bärtiger phönizischer Händler in einer zwischen zwei Eseln hängenden Sänfte vorbei. Über all dem lastete ein Dunst aus goldenem Staub und Gluthitze.
+Hundert Schritte hinter ihnen kamen zwei kleine Abteilungen Fußvolk: die eine mit Speeren bewaffnet, die andere mit Streitäxten. Beide trugen rechteckige Schilde in den Händen, auf der Brust dicke Wämser, gleichsam Panzer, und auf dem Kopf Kappen mit Tüchern, die den Nacken vor der Hitze schützten. Kappen und Wämser waren gestreift: blau mit weiß oder gelb mit schwarz, was die Soldaten großen Hornissen ähnlich machte.
 
-Plötzlich sprengte von der Vorhut ein berittener Soldat heran und meldete dem Minister, dass der Thronfolger nahe. Seine Erlaucht stieg aus der Sänfte, und im selben Augenblick erschien auf der Straße eine Handvoll Reiter, die aus den Sätteln sprangen. Daraufhin gingen einer der Reiter und der Minister aufeinander zu, blieben alle paar Schritte stehen und verbeugten sich.
+Hinter der Vorhut, umgeben von einer Abteilung Axtträger, bewegte sich die Sänfte des Ministers, und hinter ihr, in kupfernen Helmen und Panzern, die griechischen Rotten, deren gleichmäßiger Schritt an die Schläge schwerer Hämmer erinnerte. Im Rücken war das Knarren der Wagen zu hören, das Brüllen der Rinder und die Rufe der Fuhrleute, und seitlich der Heerstraße schlüpfte ein bärtiger phönizischer Händler in einer zwischen zwei Eseln aufgehängten Sänfte vorbei. Über alledem lag eine Wolke goldenen Staubes und die Glut.
 
-„Sei gegrüßt, Sohn des Pharao, der ewig leben möge“, sprach der Minister.
+Plötzlich sprengte ein Reiter von der Vorhut herbei und meldete dem Minister, dass der Thronfolger nahe. Seine Hoheit stieg aus der Sänfte, und im selben Augenblick erschien auf der Heerstraße eine Handvoll Reiter, die von den Pferden sprangen. Daraufhin gingen einer der Reiter und der Minister aufeinander zu, blieben alle paar Schritte stehen und verneigten sich.
 
-„Sei gegrüßt und lebe lange, heiliger Vater“, erwiderte der Thronfolger. Dann fügte er hinzu:
+„Sei gegrüßt, Sohn des Pharao, der ewig leben möge“, sagte der Minister.
 
-„Ihr zieht so langsam, als hätte man euch die Beine durchgesägt, und Nitager wird spätestens in zwei Stunden vor unserem Korps stehen.“
+„Sei gegrüßt und lebe lange, heiliger Vater“, erwiderte der Nachfolger. Und dann fügte er hinzu:
 
-„Du hast die Wahrheit gesprochen. Dein Stab marschiert sehr träge.“
+„Ihr zieht so langsam daher, als hätte man euch die Beine abgesägt, und Nitager wird in spätestens zwei Stunden vor unserem Korps stehen.“
 
-„Eunana sagt mir auch“ – hier wies Ramses auf einen hinter ihm stehenden, mit Amuletten behängten Offizier – „dass ihr keine Spähtrupps in die Schluchten entsandtet. Und doch hätte im Falle eines wirklichen Krieges der Feind von dieser Seite her angreifen können.“
+„Du hast die Wahrheit gesprochen. Dein Stab marschiert sehr langsam.“
 
-„Ich bin kein Befehlshaber, sondern ein Richter“, antwortete der Minister ruhig.
+„Auch Eunana sagt mir“ – hier wies Ramses auf den hinter ihm stehenden, mit Amuletten behängten Offizier –, „dass ihr keine Patrouillen in die Schluchten geschickt habt. Dabei hätte euch im Falle eines wirklichen Krieges der Feind von dieser Seite überfallen können.“
 
-„Und was tat Patrokles?“
+„Ich bin kein Befehlshaber, sondern ein Richter“, antwortete der Minister gelassen.
 
-„Patrokles eskortiert mit seinem griechischen Regiment die Kriegsmaschinen.“
+„Und was hat Patrokles gemacht?“
 
-„Und mein Vetter und Adjutant, Tutmosis?“
+„Patrokles eskortiert mit dem griechischen Regiment die Kriegsmaschinen.“
 
-„Schläft angeblich noch.“
+„Und mein Vetter und Adjutant, Tutmozis?“
 
-Ramses stampfte ungeduldig mit dem Fuß auf und verstummte. Er war ein schöner Jüngling, sein Antlitz fast frauenhaft, dem Zorn und Sonnenbräune einen eigenen Liebreiz verliehen. Er trug einen eng anliegenden Waffenrock in blauen und weißen Streifen, ein Tuch von gleicher Farbe unter dem Helm, eine goldene Kette um den Hals und ein kostbares Schwert unter dem linken Arm.
+„Der schläft wohl noch.“
 
-„Ich sehe“, begann der Fürst, „dass du als Einziger, Eunana, um meine Ehre besorgt bist.“
+Ramses stampfte ungeduldig mit dem Fuß auf und verstummte. Er war ein schöner Jüngling mit einem fast weiblichen Gesicht, dem Zorn und Sonnenbräune Anmut verliehen. Er trug ein enges Wams mit blauen und weißen Streifen, ein Tuch derselben Farbe unter dem Helm, eine goldene Kette um den Hals und ein kostbares Schwert unter dem linken Arm.
 
-Der mit Amuletten behängte Offizier neigte sich zur Erde.
+„Ich sehe“, sagte der Prinz, „dass nur du allein, Eunana, auf meine Ehre bedacht bist.“
 
-„Tutmosis ist ein Taugenichts“, sagte der Thronfolger weiter. „Kehre, Eunana, auf deinen Posten zurück. Möge wenigstens die Vorhut einen Befehlshaber haben.“
+Der mit Amuletten behängte Offizier verneigte sich bis zur Erde.
 
-Dann blickte er auf das Gefolge, das ihn bereits umringt hatte, wie aus der Erde hervorgewachsen, und fügte hinzu:
+„Tutmozis ist ein Taugenichts“, fuhr der Nachfolger fort. „Kehr zurück, Eunana, auf deinen Posten. Möge wenigstens die Vorhut einen Befehlshaber haben.“
 
-„Man bringe mir die Sänfte. Ich bin müde wie ein Steinmetz.“
+Dann, nachdem er auf das Gefolge geblickt hatte, das ihn bereits umgab, als wäre es aus dem Boden gewachsen, fügte er hinzu:
 
-„Als ob Götter je ermüden könnten! …“, flüsterte der noch hinter ihm stehende Eunana.
+„Man bringe mir meine Sänfte. Ich bin müde wie ein Steinmetz.“
 
-„Geh an deinen Platz“, sagte Ramses.
+„Können denn Götter müde werden?...“, flüsterte der noch hinter ihm stehende Eunana.
 
-„Vielleicht befiehlst du mir, Abbild des Mondes, nun die Schluchten zu erkunden?“, fragte der Offizier leise. „Ich flehe dich an, befiehl mir dies, denn wo ich auch bin, mein Herz jagt dir nach, um deinen Willen zu erahnen und zu erfüllen.“
+„Geh auf deinen Posten“, sagte Ramses.
 
-„Ich weiß, dass du wachsam bist“, entgegnete Ramses. „Geh schon und hab Acht auf alles.“
+„Oder befiehlst du mir, Abbild des Mondes, jetzt die Schluchten zu erkunden?“, fragte der Offizier leise. „Ich bitte dich, befiehl mir, denn wo immer ich bin, mein Herz jagt dir nach, um deinen Willen zu erraten und ihn zu erfüllen.“
 
-„Heiliger Vater“ – wandte sich Eunana an den Minister – „ich empfehle Eurer Erlaucht meine untertänigsten Dienste.“
+„Ich weiß, dass du wachsam bist“, erwiderte Ramses. „Geh nun und gib auf alles Acht.“
 
-Kaum war Eunana davongeritten, entstand am Ende der marschierenden Kolonne ein noch größerer Tumult. Man suchte die Sänfte des Thronfolgers, doch – sie war nicht da. Stattdessen tauchte, die griechischen Soldaten auseinanderdrängend, ein junger Mann von seltsamem Äußeren auf. Er trug ein Hemd aus Musselin, eine reich bestickte Schürze und eine goldene Schärpe über der Schulter. Vor allem aber zeichneten ihn seine gewaltige Perücke aus, die aus einer Unmenge kleiner Zöpfe bestand, und sein künstlicher Bart, der einem Katzenschwanz glich.
+„Heiliger Vater“, wandte sich Eunana an den Minister, „ich empfehle Eurer Hoheit meinen untertänigsten Dienst.“
 
-Es war Tutmosis, der erste Elegant von Memphis, der sich selbst während des Marsches herausputzte und mit Parfüm übergoss.
+Kaum war Eunana fortgeritten, als sich am Ende der marschierenden Kolonne ein noch größerer Tumult erhob. Man suchte die Sänfte des Thronfolgers, aber – sie war nicht da. Stattdessen erschien, die griechischen Soldaten durchbrechend, ein junger Mann von seltsamem Äußeren. Er trug ein Musselinhemd, eine reich bestickte Schürze und eine goldene Schärpe über der Schulter. Vor allem aber zeichnete ihn seine gewaltige Perücke aus, die aus unzähligen Zöpfchen bestand, und ein künstlicher Bart, der einem Katzenschwanz glich.
 
-„Sei gegrüßt, Ramses!“, rief der Elegant und drängte sich stürmisch an den Offizieren vorbei. „Stell dir vor, deine Sänfte ist samt Trägern verschwunden; du musst also in meine steigen, die zwar deiner nicht würdig, aber nicht die schlechteste ist.“
+Es war Tutmozis, der erste Elegant von Memphis, der sich selbst während des Marsches herausputzte und mit Parfüm übergoss.
 
-„Du hast mich erzürnt“, erwiderte der Fürst. „Du schläfst, statt auf das Heer Acht zu geben.“
+„Willkommen, Ramses!“, rief der Elegant, indem er heftig die Offiziere zur Seite schob. „Stell dir vor, deine Sänfte ist irgendwo abhandengekommen; du musst dich also in meine setzen, die zwar deiner nicht würdig ist, aber doch nicht die schlechteste.“
 
-Der verblüffte Elegant hielt inne.
+„Du hast mich erzürnt“, erwiderte der Prinz. „Du schläfst, anstatt auf das Heer zu achten.“
 
-„Ich schlafe? …“, rief er. „Die Zunge möge dem verdorren, der solche Lügen spricht! Ich, wissend, dass du kommen wirst, kleide mich seit einer Stunde an, bereite dir ein Bad und Parfüme …“
+Der verblüffte Elegant blieb stehen.
 
-„Und unterdessen rückt die Truppe ohne Kommando vor.“
+„Ich schlafe?...“, rief er. „Möge die Zunge verdorren dem, der solche Lügen spricht. Ich, wohl wissend, dass du kommen würdest, kleide mich seit einer Stunde an, bereite dir ein Bad und Parfüme...“
 
-„Soll ich etwa Kommandant einer Truppe sein, bei der sich Seine Erlaucht der Kriegsminister und ein solcher Feldherr wie Patrokles befinden?“
+„Und währenddessen bewegt sich die Abteilung ohne Kommando fort.“
 
-Der Thronfolger schwieg, und währenddessen näherte sich Tutmosis ihm und flüsterte:
+„Soll ich denn der Kommandant einer Abteilung sein, in der sich Seine Hoheit der Kriegsminister und ein so großer Feldherr wie Patrokles befinden?“
 
-„Wie siehst du denn aus, Sohn des Pharao? … Ohne Perücke, Haar und Kleidung voller Staub, die Haut schwarz und rissig wie die Erde im Sommer? … Die hochverehrte Königinmutter würde mich vom Hof jagen, sähe sie dein Elend …“
+Der Thronfolger verstummte, während Tutmozis, näher an ihn herantretend, flüsterte:
 
-„Ich bin lediglich müde.“
+„Wie siehst du nur aus, Sohn des Pharao?... Du hast keine Perücke, Haar und Kleidung sind voller Staub, die Haut schwarz und rissig wie die Erde im Sommer?... Die ehrwürdige Königinmutter würde mich vom Hofe jagen, sähe sie dein Elend...“
 
-„So steig in die Sänfte. Es gibt dort frische Kränze aus Rosen, gebratene Vögelchen und einen Krug Wein aus Zypern. Ich habe auch“ – fügte er noch leiser hinzu – „Senura im Lager versteckt …“
+„Ich bin nur müde.“
 
-„Ist sie da? …“, fragte der Fürst. Seine noch eben funkelnden Augen verschleierten sich.
+„Dann setz dich in die Sänfte. Dort sind frische Rosenkränze, gebratene Vögel und ein Krug Wein aus Zypern. Ich habe auch –“, fügte er noch leiser hinzu, „Senura im Lager versteckt...“
 
-„Lass das Heer vorwärtsziehen“ – sprach Tutmosis – „und wir wollen hier auf sie warten …“
+„Sie ist da?...“, fragte der Prinz. Seine kurz zuvor noch glänzenden Augen wurden trüb.
+
+„Lass das Heer vorrücken“, sagte Tutmozis, „und wir warten hier auf sie...“
 
 Ramses schien zu erwachen.
 
-„Lass mich in Ruhe, Versuchung! … In zwei Stunden ist doch die Schlacht …“
+„Lass mich in Ruhe, Versucher!... In zwei Stunden ist doch die Schlacht...“
 
-„Was für eine Schlacht! …“
+„Was ist das schon für eine Schlacht!...“
 
-„Nun, zumindest die Entscheidung über das Schicksal meines Kommandos.“
+„Oder zumindest die Entscheidung über mein Kommando.“
 
-„Scherze darüber“, lächelte der Elegant. „Ich schwöre, dass der Kriegsminister schon gestern einen Bericht an Seine Heiligkeit sandte mit der Bitte, dir das Korps von Memphis zu geben.“
+„Scherz damit“, lächelte der Elegant. „Ich möchte wetten, dass der Kriegsminister gestern schon einen Bericht an Seine Heiligkeit geschickt hat mit der Bitte, dass du das Korps von Memphis bekommst.“
 
-„Wie dem auch sei. Heute vermöchte ich an nichts anderes zu denken als an die Armee.“
+„Einerlei. Heute könnte ich an nichts anderes denken als an die Armee.“
 
-„Entsetzlich ist in dir dieser Drang zum Krieg, bei dem sich der Mensch monatelang nicht wäscht, um dann eines Tages zu sterben … Brr! … Hättest du aber Senura gesehen … Schau sie nur an …“
+„Schrecklich ist in dir dieser Drang zum Krieg, bei dem man sich monatelang nicht wäscht, um eines Tages zu sterben... Brr!... Wenn du aber Senura sehen würdest... Wirf nur einen Blick auf sie...“
 
-„Eben darum schaue ich nicht hin“, entgegnete Ramses entschlossen.
+„Eben deshalb werde ich nicht hinsehen“, erwiderte Ramses entschlossen.
 
-In dem Augenblick, als hinter den griechischen Reihen acht Männer die riesige Sänfte des Tutmosis für den Thronfolger hervortrugen, flog von der Vorhut ein Reiter herbei. Er glitt vom Pferd und lief so hastig, dass ihm auf der Brust die Götterbilder oder die Täfelchen mit ihren Namen klirrten. Es war der fieberhaft erregte Eunana.
+In dem Augenblick, als von hinter den griechischen Reihen acht Männer die gewaltige Sänfte des Tutmozis für den Thronfolger herbeischleppten, kam von der Vorhut ein Reiter herbeigeflogen. Er glitt vom Pferd und lief so schnell, dass ihm die Götterbilder oder Täfelchen mit ihren Namen auf der Brust klirrten. Es war der fieberhafte Eunana.
 
-Alle wandten sich ihm zu, was ihm Vergnügen zu bereiten schien.
+Alle wandten sich ihm zu, was ihm Freude zu bereiten schien.
 
-„Erpa-Ra, erhabenster Mund!“, rief Eunana, sich vor Ramses neigend. „Als ich, deinem göttlichen Befehl gemäß, an der Spitze des Zuges ritt und wachsam auf alles achtete, erblickte ich auf der Straße zwei schöne Skarabäen. Jeder der heiligen Käfer wälzte vor sich her eine Kugel aus Lehm …“
+„Erpatre, höchster Mund!“, rief Eunana, sich vor Ramses verneigend. „Als ich, gemäß deinem göttlichen Befehl, an der Spitze der Abteilung ritt und aufmerksam auf alles achtete, erblickte ich auf der Heerstraße zwei schöne Skarabäen. Jeder der heiligen Käfer rollte eine Tonkugel vor sich her quer über den Weg, dem Sande zu...“
 
-„Nun, was weiter?“, unterbrach ihn der Thronfolger.
+„Na und?“, unterbrach ihn der Nachfolger.
 
-„Versteht sich“ – fuhr Eunana fort, mit einem Seitenblick zum Minister – „dass ich und meine Leute, wie es die Frömmigkeit gebietet, den goldenen Abbildern der Sonne die Ehre erwiesen und den Marsch anhielten. Dies ist ein so bedeutendes Omen, dass ohne Befehl niemand von uns wagte, weiter vorzurücken.“
+„Versteht sich“, fuhr Eunana fort, einen Blick in Richtung des Ministers werfend, „dass ich und meine Leute, wie es die Frömmigkeit gebietet, nachdem wir den goldenen Abbildern der Sonne gehuldigt hatten, den Marsch anhielten. Dies ist eine so wichtige Vorbedeutung, dass ohne Befehl keiner von uns es wagen würde, weiterzugehen.“
 
-„Ich sehe, du bist ein wahrhaft frommer Ägypter, obgleich deine Züge hethitisch sind“, antwortete der erlauchte Herhor. Und an einige der nahestehenden Würdenträger gewandt, fügte er hinzu:
+„Ich sehe, du bist ein wahrhaft frommer Ägypter, wenn du auch hethitische Züge hast“, antwortete der würdige Herhor. Und zu einigen nahestehenden Würdenträgern gewandt, fügte er hinzu:
 
-„Wir werden nicht weiter auf der Chaussee ziehen, denn wir könnten die heiligen Käfer zertreten. Pentuer, kann man durch jene Schlucht zur Rechten die Straße umgehen?“
+„Wir werden nicht weiter auf der Heerstraße gehen, denn wir könnten die heiligen Käfer zertreten. Pentuer, kann man diese Schlucht rechts umgehen, um die Heerstraße zu umgehen?“
 
-„Jawohl“, erwiderte der Schreiber des Ministers. „Diese Schlucht ist eine Meile lang und mündet wieder auf die Chaussee, nahezu gegenüber von Pi-Bailos.“
+„Ja“, antwortete der Schreiber des Ministers. „Diese Schlucht ist eine Meile lang und mündet wieder auf die Heerstraße, fast gegenüber von Pi-Bailos.“
 
-„Ein ungeheuerer Zeitverlust“, warf der Thronfolger zornig ein.
+„Ein enormer Zeitverlust“, warf der Nachfolger zornig ein.
 
-„Ich schwöre, das sind keine Skarabäen, sondern die Geister meiner phönizischen Wucherer“, rief der Elegant Tutmosis. „Da sie mich wegen meines Todes nicht mehr zur Kasse bitten können, zwingen sie mich, zur Strafe durch die Wüste zu ziehen! …“
+„Ich möchte schwören, dass das keine Skarabäen sind, sondern die Geister meiner phönizischen Wucherer“, sagte der Elegant Tutmozis. „Da sie wegen des Todes ihr Geld nicht einfordern können, zwingen sie mich zur Strafe, durch die Wüste zu gehen!...“
 
-Das fürstliche Gefolge wartete mit Unruhe auf die Entscheidung, und so sprach Ramses zu Herhor:
+Das fürstliche Gefolge erwartete unruhig die Entscheidung, daher wandte sich Ramses an Herhor:
 
-„Was denkst du darüber, heiliger Vater?“
+„Was hältst du davon, heiliger Vater?“
 
-„Blicke auf deine Offiziere“, entgegnete der Priester, „und du wirst verstehen, dass wir durch die Schlucht ziehen müssen.“
+„Sieh dir die Offiziere an“, erwiderte der Priester, „und du wirst verstehen, dass wir durch die Schlucht gehen müssen.“
 
-Nun trat der Befehlshaber der Griechen, General Patrokles, vor und sprach zum Thronfolger:
+Nun trat der Befehlshaber der Griechen, General Patrokles, vor und sagte zum Nachfolger:
 
-„Wenn der Fürst es erlaubt, wird mein Regiment auf der Chaussee weiterziehen. Unsere Soldaten fürchten sich nicht vor Skarabäen.“
+„Wenn der Prinz erlaubt, wird mein Regiment weiter auf der Heerstraße gehen. Unsere Soldaten fürchten sich nicht vor Skarabäen.“
 
-„Eure Soldaten fürchten sich nicht einmal vor Königsgräbern“, antwortete der Minister. „Dennoch kann es dort nicht geheuer sein, da keiner von ihnen zurückkehrte.“
+„Eure Soldaten fürchten sich nicht einmal vor Königsgräbern“, antwortete der Minister. „Dort muss es jedoch nicht sicher sein, da keiner zurückgekehrt ist.“
 
 Der verwirrte Grieche zog sich ins Gefolge zurück.
 
-„Gib zu, heiliger Vater“, zischte der Thronfolger mit äußerstem Zorn, „dass ein solches Hindernis nicht einmal einen Esel auf der Reise aufhalten würde.“
+„Gib zu, heiliger Vater“, flüsterte der Nachfolger mit äußerstem Zorn, „dass ein solches Hindernis nicht einmal einen Esel auf der Reise aufgehalten hätte.“
 
-„Eben weil ein Esel niemals Pharao werden wird“, erwiderte der Minister ruhig.
+„Eben deshalb wird ein Esel niemals Pharao sein“, erwiderte der Minister gelassen.
 
-„In diesem Falle wirst du, Minister, die Truppe durch die Schlucht führen!“, rief Ramses. „Ich verstehe mich nicht auf priesterliche Taktik, und überdies muss ich ausruhen. Komm mit mir, Vetter“, sagte er zu Tutmosis und lenkte seine Schritte in Richtung der kahlen Hügel.
+„In diesem Fall wirst du, Minister, die Abteilung durch die Schlucht führen!“, rief Ramses. „Ich verstehe nichts von priesterlicher Taktik, außerdem muss ich ausruhen. Komm mit mir, Vetter“, sagte er zu Tutmozis und wandte sich den kahlen Hügeln zu.

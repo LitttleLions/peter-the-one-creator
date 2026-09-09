@@ -1,0 +1,1 @@
+*Buch: Der Pharao* *Quelle: EPUB/part45.xhtml* <!-- status: pending --> Kapłanka fenicka niewiele szczęścia przyniosła Ramzesowi. Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.

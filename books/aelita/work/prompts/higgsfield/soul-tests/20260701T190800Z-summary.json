@@ -1,0 +1,21 @@
+{
+  "run_id": "20260701T190800Z",
+  "endpoint": "/v1/text2image/soul",
+  "dry_run": false,
+  "variants": [
+    {
+      "variant": "array_two",
+      "file": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\prompts\\higgsfield\\soul-tests\\20260701T190800Z-array_two.json",
+      "ok": false,
+      "job_id": null,
+      "error": "body.params.custom_reference_id: UUID input should be a string, bytes or UUID object"
+    },
+    {
+      "variant": "object_named",
+      "file": "E:\\code\\peter-the-one-creator\\books\\aelita\\work\\prompts\\higgsfield\\soul-tests\\20260701T190800Z-object_named.json",
+      "ok": false,
+      "job_id": null,
+      "error": "body.params.custom_reference_id: UUID input should be a string, bytes or UUID object"
+    }
+  ]
+}

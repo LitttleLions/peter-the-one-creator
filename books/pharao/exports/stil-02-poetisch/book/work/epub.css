@@ -3,6 +3,11 @@ body {
   line-height: 1.42;
 }
 
+.chapter {
+  break-before: page;
+  page-break-before: always;
+}
+
 .frontmatter-page {
   break-before: page;
   page-break-before: always;

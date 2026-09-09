@@ -1,0 +1,65 @@
+{
+  "book": "feuriger-engel",
+  "chapter": "007",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "text2image_soul_v2",
+  "moodboard": "bc717511-c335-42de-b5ef-05173a39b9ab",
+  "images": [],
+  "no_reference": false,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\feuriger-engel\\work\\chapters\\007-source.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\feuriger-engel\\work\\prompts\\higgsfield\\007-chapter-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\feuriger-engel\\assets\\chapter\\chapter-007.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "text2image_soul_v2",
+    "--prompt",
+    "*Buch: Der feurige Engel* <!-- status: pending --> Добравшись до нашего дома, усталый, но весёлый, я стуком в ворота вызвал Луизу, передал ей поводья лошади и спросил: Cinematic dark literary historical illustration, modern premium classics edition. Strong chiaroscuro, deep shadows, warm candlelight, controlled fire glow, subtle occult diagrams, manuscript textures, gothic stone architecture, Renaissance clothing. Psychologically intense figures, serious, inwardly moved. Symbolist historical mood. Boundary between real historical world and inner vision. Color palette: black, anthracite, smoke gray, dark brown, deep wine red, old gold, copper, fire orange, muted cream white. Light sources: candles, fire, window light, embers, occasional visionary glow.",
+    "--aspect_ratio",
+    "3:4",
+    "--quality",
+    "1.5k",
+    "--custom_reference_id",
+    "bc717511-c335-42de-b5ef-05173a39b9ab",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260618_142304_b73fd86f-2db6-4786-b5c6-d048711c5e83.png",
+  "job_result": [
+    {
+      "id": "b73fd86f-2db6-4786-b5c6-d048711c5e83",
+      "status": "completed",
+      "display_name": "Higgsfield Soul V2",
+      "job_set_type": "text2image_soul_v2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260618_142304_b73fd86f-2db6-4786-b5c6-d048711c5e83.png",
+      "created_at": 1781792584.699498,
+      "params": {
+        "prompt": "*Buch: Der feurige Engel* <!-- status: pending --> Добравшись до нашего дома, усталый, но весёлый, я стуком в ворота вызвал Луизу, передал ей поводья лошади и спросил: Cinematic dark literary historical illustration, modern premium classics edition. Strong chiaroscuro, deep shadows, warm candlelight, controlled fire glow, subtle occult diagrams, manuscript textures, gothic stone architecture, Renaissance clothing. Psychologically intense figures, serious, inwardly moved. Symbolist historical mood. Boundary between real historical world and inner vision. Color palette: black, anthracite, smoke gray, dark brown, deep wine red, old gold, copper, fire orange, muted cream white. Light sources: candles, fire, window light, embers, occasional visionary glow.",
+        "width": 1152,
+        "height": 1536,
+        "batch_size": 1,
+        "seed": 917259,
+        "enhance_prompt": false,
+        "use_sage_attention": false,
+        "quality": "720p",
+        "use_relax": false,
+        "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+        "style": {
+          "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+          "name": "General",
+          "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+          "strength": 1.0
+        },
+        "style_strength": 1.0,
+        "custom_reference_id": "bc717511-c335-42de-b5ef-05173a39b9ab"
+      }
+    }
+  ]
+}

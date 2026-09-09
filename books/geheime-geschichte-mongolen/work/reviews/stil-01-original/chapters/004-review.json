@@ -1,0 +1,94 @@
+{
+  "chapter": "004",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "004",
+      "scene": 1,
+      "ru_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\ja\\004\\scene-01.md",
+      "de_path": "books\\geheime-geschichte-mongolen\\work\\scenes\\de\\stil-01-original\\004\\scene-01.md",
+      "ru_words": 469,
+      "de_words": 3888,
+      "findings": [
+        {
+          "severity": "ERROR",
+          "category": "length_ratio",
+          "message": "DE/RU-Wortverhaeltnis ist stark auffaellig (8.29).",
+          "chapter": "004",
+          "scene": 1,
+          "evidence": "RU=469, DE=3888",
+          "recommendation": "Auf Auslassung, Doppelung oder Ausschweifung pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "ERROR",
+          "category": "names",
+          "message": "Falsche Transkription und Übersetzung des Namens 'Temüdschin' (Tembürin/Temürjin). Der Name wird im Deutschen als 'Temüdschin' wiedergegeben, was eine falsche Lesung der mongolischen Schrift darstellt. Im Originaltext steht klar 'テムヂン', das korrekt mit Temürjin oder zumindest phonetisch annähernd an die russische Transkription (die hier fehlt) zu lesen ist. Die deutsche Übersetzung verwendet einen Namen ('Temüdschin'), der in der Fachliteratur nicht etabliert ist und den Originaltext verfälscht.",
+          "chapter": "004",
+          "scene": 1,
+          "evidence": "Original: テムヂン / DE-Uebersetzung: Temüdschin",
+          "recommendation": "Den korrekten mongolischen Transkriptionsstandard verwenden (z.B. Temürjin) oder die russische Lesung einfügen, falls dies der Kontext erfordert. 'Temüdschin' ist eine Erfindung.",
+          "source": "llm",
+          "current_text": "den getöteten Temüdschin",
+          "suggested_text": "den getöteten Temürjin (oder: den getöteten Tömörin)",
+          "confidence": 0.95,
+          "fixable": true,
+          "position": null
+        },
+        {
+          "severity": "ERROR",
+          "category": "names",
+          "message": "Falsche Transkription des Namens 'Qada'an'. Der Name wird als 'Qada'an' wiedergegeben, was phonetisch nicht korrekt ist und die Bedeutung verfälscht.",
+          "chapter": "004",
+          "scene": 1,
+          "evidence": "Original: カダアン / DE-Uebersetzung: Qada'an",
+          "recommendation": "Korrekte mongolische Transkription verwenden (z.B. Kadan oder Kadun).",
+          "source": "llm",
+          "current_text": "Meine Tochter, Qada'an",
+          "suggested_text": "Meine Tochter, Kadan",
+          "confidence": 0.9,
+          "fixable": true,
+          "position": null
+        },
+        {
+          "severity": "WARNING",
+          "category": "register",
+          "message": "Der Stil der Fußnoten ist inkonsistent und teilweise zu akademisch für den Kontext einer literarischen Übersetzung des 'Secret History'. Die Anmerkungen enthalten oft direkte Zitate aus chinesischen Quellen ohne ausreichende Einbettung in die Erzählhaltung.",
+          "chapter": "004",
+          "scene": 1,
+          "evidence": "Original: 親征錄 / DE-Uebersetzung: (Im Heereszugbericht und in der Yuan-Geschichte: ...)",
+          "recommendation": "Die Fußnoten sollten konsistenter gestaltet sein, entweder als direkte Zitate oder mit einer stärker stilistischen Anpassung an den Textfluss.",
+          "source": "llm",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": 0.8,
+          "fixable": false,
+          "position": null
+        },
+        {
+          "severity": "WARNING",
+          "category": "grammar",
+          "message": "Der Satz 'Als er sich selbst zum Herrn erhob und erbeutete' ist grammatikalisch unklar und semantisch fragwürdig im Kontext der mongolischen Geschichte.",
+          "chapter": "004",
+          "scene": 1,
+          "evidence": "Original: オノレ己をイタヾ戴きたるトラ虜︀ふると / DE-Uebersetzung: Als er sich selbst zum Herrn erhob und erbeutete",
+          "recommendation": "Den Satz umformulieren, um die Bedeutung klarzustellen (z.B. 'Als er sich als Herrscher etabliert hatte...').",
+          "source": "llm",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": 0.7,
+          "fixable": true,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

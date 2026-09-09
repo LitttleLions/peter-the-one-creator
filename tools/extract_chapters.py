@@ -57,6 +57,21 @@ def chapter_slug(idx: int, title: str) -> str:
     return f"{chapter_id(idx)}-{slug}"[:80]
 
 
+# Pattern für Kapitelüberschriften, die auf der Kapitelebene getrennt werden
+# (Глава 1., Глава вторая, etc.)
+CHAPTER_HEADING_RE = re.compile(
+    r"^\s*Глава\s+(первая|вторая|третья|четвёртая|четвертая|"
+    r"пятая|шестая|седьмая|восьмая|девятая|десятая|"
+    r"\d+)\b",
+    re.UNICODE,
+)
+
+
+def _is_chapter_heading(block: Block) -> bool:
+    """True wenn der Block eine Kapitel-Überschrift (Глава N) ist."""
+    return block.kind == "heading" and bool(CHAPTER_HEADING_RE.match(block.text))
+
+
 def build_chapter_segments(blocks: list[Block]) -> list[tuple[str, list[Block]]]:
     """
     Zerlegt die Blockliste in Kapitel-Segmente.
@@ -69,6 +84,53 @@ def build_chapter_segments(blocks: list[Block]) -> list[tuple[str, list[Block]]]
     if not headings:
         return build_fallback_segments(blocks)
 
+    # Wenn es Глава-Headings gibt, nutzen wir deren Level als Ziel-Level
+    chapter_headings = [h for h in headings if _is_chapter_heading(
+        Block(kind="heading", level=h[1], text=h[2])
+    )]
+    if chapter_headings:
+        target_level = chapter_headings[0][1]
+    else:
+        levels = sorted({lvl for _, lvl, _ in headings})
+        target_level = None
+        for lvl in reversed(levels):
+            cnt = sum(1 for _, l, _ in headings if l == lvl)
+            if cnt >= 2:
+                target_level = lvl
+                break
+        if target_level is None:
+            target_level = levels[0]
+
+    segments: list[tuple[str, list[Block]]] = []
+    current_title: str | None = None
+    current_buf: list[Block] = []
+
+    for b in blocks:
+        if b.kind == "heading" and b.level == target_level and _is_chapter_heading(b):
+            if current_title is not None:
+                segments.append((current_title, current_buf))
+            current_title = b.text
+            current_buf = []
+        else:
+            if current_title is None:
+                continue
+            current_buf.append(b)
+
+    if current_title is not None:
+        segments.append((current_title, current_buf))
+
+    if not segments:
+        # Fallback: wenn keine Глава-Headings gefunden, normal weiter
+        return _legacy_build_segments(blocks, headings)
+
+    return segments
+
+
+def _legacy_build_segments(
+    blocks: list[Block],
+    headings: list[tuple[int, int, str]],
+) -> list[tuple[str, list[Block]]]:
+    """Fallback: Segmentierung ohne Глава-Marker (alte Logik)."""
     levels = sorted({lvl for _, lvl, _ in headings})
     target_level = None
     for lvl in reversed(levels):
@@ -92,7 +154,6 @@ def build_chapter_segments(blocks: list[Block]) -> list[tuple[str, list[Block]]]
                 current_buf = []
             else:
                 if current_title is None:
-                    # Vor dem ersten Kapitel: ignorieren (Frontmatter)
                     continue
                 current_buf.append(b)
         else:
@@ -102,7 +163,6 @@ def build_chapter_segments(blocks: list[Block]) -> list[tuple[str, list[Block]]]
 
     if current_title is not None:
         segments.append((current_title, current_buf))
-
     return segments
 
 

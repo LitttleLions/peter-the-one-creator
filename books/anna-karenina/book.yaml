@@ -14,6 +14,14 @@ log_dir: status/logs
 styles_dir: styles
 assets_dir: assets
 names_file: names.yaml
+illustration_setting: >-
+  Imperial Russia in the 1870s. Cinematic literary historical illustration, elegant
+  realism, painterly detail. High-society salons, Moscow and Petersburg interiors,
+  country estates, railway stations, winter parks. Focus on intimacy, social
+  tension, desire, and psychological presence. Period-accurate aristocratic dress,
+  soft gaslight and daylight, rich but controlled colors. Palette: cream, burgundy,
+  pearl gray, dark velvet, snow, soft gold, muted green. Clear central figure or
+  charged encounter; emotionally intelligent, intimate rather than spectacular.
 structure:
   mode: chapter_as_scene
   label: Kapitel als Szenen

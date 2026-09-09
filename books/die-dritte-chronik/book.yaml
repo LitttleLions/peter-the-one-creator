@@ -1,0 +1,70 @@
+id: die-dritte-chronik
+title: Die dritte Chronik
+author: Motivatier
+source_path: source/Die dritte Chronik.md
+source_lang: de
+target_lang: de
+ruleset_path: ''
+ruleset_apply: false
+style_mode: stil-01-original
+work_dir: work
+exports_dir: exports
+status_file: status/status.json
+log_dir: status/logs
+styles_dir: styles
+assets_dir: assets
+names_file: names.yaml
+illustration_setting: >-
+  High-quality chapter illustration for a historical novel about the Mongol Empire
+  in the 13th century. Style: cinematic literary historical illustration, elegant
+  realism, painterly detail, atmospheric light, historically grounded, emotionally
+  intelligent. Premium modern book illustration for an ambitious historical
+  political novel. Focus on political tension, memory, power, writing, and strong
+  character presence. Refined fabrics, believable Mongol and Persian court elements,
+  subtle historical architecture, rich but controlled colors. Visually striking,
+  readable, emotionally resonant image with a clear central figure or central
+  dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft
+  terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents,
+  chancelleries, seals, letters, and quiet rooms of power; intimate political drama
+  rather than open desert or battlefield spectacle; historically grounded court
+  dress and armor of the period.
+higgsfield:
+  model: text2image_soul_v2
+  aspect_ratio: "3:4"
+  quality: 2k
+  # Kapitel-/Szenen-Downloads und Batch-Optimierung (PNG bleibt erhalten).
+  # Cover-Overrides nur fuer tools/optimize_asset_images.py.
+  image_processing:
+    format: JPEG
+    jpeg_quality: 60
+    max_width: 1024
+    max_height: 1024
+    cover:
+      jpeg_quality: 75
+      max_width: 1600
+      max_height: 2400
+structure:
+  mode: chapter_as_scene
+  label: Kapitel als Szenen
+  groups: []
+display:
+  chapters:
+    format: literary
+    suffix: ''
+    align: center
+    include_source_title: false
+  scenes:
+    show: false
+naming_convention:
+  style: ''
+  example: []
+notes: >-
+  Deutsches Original (kein Uebersetzungsprojekt). Historischer Roman /
+  literarischer Politthriller, Karakorum–Bagdad 1241–1258, 48 Kapitel.
+  Export der literarischen Fassung; optionale spaetere en-Uebersetzung
+  moeglich. Quelle: Markdown unter source/; DOCX nur Backup.
+ai:
+  provider: openrouter
+  model: deepseek/deepseek-v4-pro
+  granularity: scene
+  max_tokens_per_scene: 10000

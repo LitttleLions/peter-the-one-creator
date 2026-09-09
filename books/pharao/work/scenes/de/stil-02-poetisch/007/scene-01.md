@@ -1,161 +1,165 @@
 ## Szene 1
 
-> Die Mutter des Thronfolgers trägt zwei Kronen: die der Königin und die der Sorge. Kein Sohn sieht die zweite, bis er selbst ein Vater ist.
+> *„Die Mutter des Königs ist die erste Frau des Landes, und ihr Wort wiegt schwerer als das des Wesirs.“*  
+> — Aus den Lehren des Ptahhotep
 
-Wenige Tage später wurde Prinz Ramses vor das Angesicht seiner erhabensten Mutter gerufen, Nikotris, der zweiten Gemahlin des Pharao, jetzt aber der höchsten Frau in Ägypten.
+Einige Tage später wurde Prinz Ramses vor das Angesicht seiner ehrwürdigsten Mutter Nikotris gerufen, die die zweite Gemahlin des Pharao war, heute aber die größte Herrin in Ägypten.
 
-Die Götter hatten nicht geirrt, als sie sie zur Mutter eines Königs bestimmten. Sie war eine hohe Gestalt, von Fülle umspielt und trotz ihrer vierzig Jahre immer noch schön. Vor allem aber lag in ihren Augen, ihrem Gesicht und ihrer ganzen Haltung eine solche Majestät, dass die Menschen selbst dann das Haupt vor ihr neigten, wenn sie einsam in dem schlichten Gewand einer Priesterin schritt.
+Die Götter hatten sich nicht geirrt, als sie sie zur Mutter des Königs bestimmten. Sie war eine hochgewachsene, recht üppige Frau und trotz ihrer vierzig Jahre noch immer schön. Vor allem aber lag in ihren Augen, ihrem Antlitz und ihrer ganzen Gestalt eine solche Majestät, dass die Menschen selbst dann die Köpfe vor ihr neigten, wenn sie allein und im schlichten Gewand einer Priesterin einherging.
 
-Die erhabene Herrin empfing ihren Sohn in einem Gemach, das mit Fayenceplatten ausgekleidet war. Sie saß auf einem eingelegten Sessel, unter einer Palme. Zu ihren Füßen, auf einem Schemel, ruhte ein kleiner Hund; auf der anderen Seite kniete eine schwarze Sklavin mit einem Fächer. Die königliche Gemahlin trug einen Umhang aus Musselin, golddurchwirkt, und auf der Perücke einen Reif, der mit Juwelen in Form einer Lotosblüte besetzt war.
+Die erhabene Herrin empfing ihren Sohn in einem mit Fayenceplatten ausgelegten Kabinett. Sie saß auf einem eingelegten Stuhl unter einer Palme. Zu ihren Füßen, auf einem Schemel, lag ein kleiner Hund; auf der anderen Seite kniete eine schwarze Sklavin mit einem Fächer. Die königliche Gemahlin trug einen mit Gold bestickten Musselinmantel und auf der Perücke einen mit Juwelen in Lotosform verzierten Reif.
 
-Als der Prinz sich tief verneigt hatte, beschnupperte ihn der Hund und legte sich wieder nieder, und die Herrin fragte mit einem leichten Neigen des Hauptes:
+Als der Prinz sich tief verneigte, beschnupperte der Hund ihn und legte sich wieder hin, und die Herrin nickte und fragte:
 
-„Welcher Grund führt dich, Ramses, zu dieser Bitte um Gehör?“
+„Aus welchem Grunde, Ramses, hast du um eine Audienz bei mir ersucht?“
 
-„Ich bat schon vor zwei Tagen darum, Mutter.“
+„Schon vor zwei Tagen, Mutter.“
 
-„Ich wusste, dass du beschäftigt warst. Heute aber haben wir beide Zeit, und ich kann dich anhören.“
+„Ich wusste, dass du beschäftigt bist. Aber heute haben wir beide Zeit, und ich kann dich anhören.“
 
-„Du sprichst so zu mir, Mutter, als hätte mich der Nachtwind der Wüste angeweht, und ich habe nicht mehr den Mut, dir mein Anliegen vorzutragen.“
+„Du sprichst so zu mir, Mutter, als hätte mich der Nachtwind der Wüste umweht, und ich habe nicht mehr den Mut, dir meine Bitte vorzutragen.“
 
-„Dann handelt es sich also wohl um Geld?“
+„Dann geht es wohl um Geld?“
 
-Ramses, verwirrt, senkte den Kopf.
+Ramses senkte verwirrt den Kopf.
 
-„Brauchst du viel?“
+„Wie viel brauchst du?“
 
-„Fünfzehn Talente…“
+„Fünfzehn Talente …“
 
-„O ihr Götter!“ rief die Herrin. „Vor ein paar Tagen hat man dir doch erst zehn Talente aus dem Schatz ausgezahlt. Geh, mein Mädchen, ergeh dich im Garten, du musst ermüdet sein“, sagte die Monarchin zu der schwarzen Sklavin. Als sie mit ihrem Sohn allein war, fragte sie den Prinzen:
+„O ihr Götter!“, rief die Herrin aus. „Vor ein paar Tagen wurden dir doch zehn Talente aus der Schatzkammer ausgezahlt. Geh ein wenig im Garten spazieren, mein Mädchen, du musst müde sein“, sagte die Monarchin zu der schwarzen Sklavin. Als sie mit ihrem Sohn allein war, fragte sie den Prinzen:
 
-„Ist deine Jüdin also so anspruchsvoll?“
+„Ist deine Jüdin denn so anspruchsvoll?“
 
-Ramses errötete, aber er hob den Kopf.
+Ramses errötete, hob aber den Kopf.
 
-„Du weißt, Mutter, dass dem nicht so ist“, entgegnete er. „Doch ich habe dem Heer eine Belohnung versprochen und… ich kann sie nicht auszahlen!…“
+„Du weißt, Mutter, dass dem nicht so ist“, erwiderte er. „Aber ich habe dem Heer eine Belohnung versprochen und … kann sie nicht auszahlen!“
 
 Die Königin betrachtete ihn mit ruhigem Stolz.
 
-„Wie unschön ist es“, sprach sie nach einer Weile, „wenn ein Sohn Entschlüsse fasst, ohne sich mit der Mutter zu beraten. Eben, deines Alters eingedenk, wollte ich dir eine phönizische Sklavin geben, die mir Tyros geschickt hat, mit zehn Talenten Mitgift. Du aber hast die Jüdin vorgezogen.“
+„Wie unklug“, sagte sie nach einem Augenblick, „wenn ein Sohn Beschlüsse fasst, ohne sich mit der Mutter zu beraten. Gerade, weil ich an dein Alter dachte, wollte ich dir eine phönizische Sklavin schenken, die mir Tyrus geschickt hat, mit zehn Talenten Mitgift. Aber du zogest die Jüdin vor.“
 
-„Sie gefiel mir. Keine unter deinen Dienerinnen ist so schön, Mutter, nicht einmal unter den Frauen Seiner Heiligkeit…“
+„Sie gefiel mir. Eine so Schöne gibt es nicht unter deinen Dienerinnen, Mutter, noch nicht einmal unter den Frauen seiner Heiligkeit …“
 
-„Aber es ist eine Jüdin!…“
+„Aber es ist eine Jüdin! …“
 
-„Verurteile sie nicht vorschnell, Mutter, ich flehe dich an… Es ist eine Lüge, dass die Juden Schweinefleisch essen und Katzen töten…“
+„Sei nicht voreingenommen, Mutter, ich bitte dich … Es ist eine Lüge, dass die Juden Schweinefleisch essen und Katzen töten …“
 
 Die erhabene Herrin lächelte.
 
-„Du sprichst wie ein Knabe aus der untersten Priesterschule“, erwiderte sie mit einem Schulterzucken, „und vergisst, was Ramses der Große gesagt hat: ‚Das gelbe Volk ist zahlreicher und reicher als wir; handeln wir also gegen es, doch mit Vorsicht, damit es nicht noch stärker werde…‘ Ich glaube daher nicht, dass ein Mädchen aus diesem Volk die rechte erste Geliebte für den Thronfolger des Pharao ist.“
+„Du sprichst wie ein Knabe aus der untersten Priesterschaft“, erwiderte sie achselzuckend, „und vergisst, was Ramses der Große gesagt hat: ‚Das gelbe Volk ist zahlreicher und reicher als wir; lasst uns gegen es handeln, aber vorsichtig, damit es nicht noch stärker wird …‘ Ich glaube daher nicht, dass ein Mädchen aus diesem Volk die richtige erste Geliebte für den Thronfolger ist.“
 
-„Sollen die Worte des Ramses sich etwa auf die Tochter eines elenden Pächters beziehen!…“ rief der Prinz. „Wo gibt es diese Juden bei uns überhaupt noch? Vor drei Jahrhunderten haben sie Ägypten verlassen, und heute bilden sie einen lächerlichen Staat, der von Priestern regiert wird…“
+„Können sich die Worte Ramses‘ etwa auf die Tochter eines elenden Pächters beziehen! …“, rief der Prinz. „Wo sind denn diese Juden bei uns? … Vor drei Jahrhunderten haben sie Ägypten verlassen und bilden heute einen lächerlichen Staat, der von Priestern regiert wird …“
 
-„Ich sehe“, antwortete die erhabene Herrin, die Brauen leicht runzelnd, „dass deine Geliebte keine Zeit verliert… Sei vorsichtig, Ramses!… Denk daran, dass ihr Anführer, Messu, ein verräterischer Priester ist, den man in unseren Tempeln bis auf den heutigen Tag verflucht… Denk daran, dass die Juden mehr Schätze aus Ägypten mitgenommen haben, als die Arbeit etlicher ihrer Generationen wert war: sie nahmen uns nicht nur das Gold, sondern auch den Glauben an den Einen und unsere heiligen Gesetze, die sie heute als ihre eigenen verkünden. Und zuletzt wisse dies“, fügte sie mit Nachdruck hinzu, „dass die Töchter dieses Volkes eher den Tod wählen als das Lager eines fremden Mannes. Und wenn sie sich hingeben, selbst feindlichen Heerführern, dann wohl nur, um sie für ihre Politik zu gewinnen oder um sie zu töten…“
+„Ich sehe“, erwiderte die erhabene Herrin, die Stirn leicht runzelnd, „dass deine Geliebte keine Zeit verliert … Sei vorsichtig, Ramses! … Denk daran, dass ihr Führer Messu ein verräterischer Priester ist, den man in unseren Tempeln bis zum heutigen Tag verflucht … Denk daran, dass die Juden mehr Schätze aus Ägypten fortgetragen haben, als die Arbeit mehrerer ihrer Generationen wert war: Sie haben uns nicht nur das Gold genommen, sondern auch den Glauben an den Einzigen und unsere heiligen Gesetze, die sie heute als die ihren ausgeben. Wisse schließlich“, fügte sie mit Nachdruck hinzu, „dass die Töchter dieses Volkes den Tod dem Lager eines fremden Mannes vorziehen. Und wenn sie sich hingeben, selbst feindlichen Feldherren, dann wohl nur zu dem Zweck, entweder für ihre Politik zu gewinnen oder zu töten …“
 
-„Glaube mir, Mutter, all diese Gerüchte verbreiten die Priester. Sie wollen keine Leute anderen Glaubens an den Schemel des Thrones lassen, die dem Pharao gegen sie dienen könnten…“
+„Glaub mir, Mutter, all diese Nachrichten verbreiten die Priester. Sie wollen keine Menschen anderen Glaubens an den Stufen des Throns zulassen, die dem Pharao gegen sie dienen könnten …“
 
-Die Monarchin erhob sich von ihrem Sessel, legte die Arme über der Brust zusammen und betrachtete ihren Sohn mit Staunen.
+Die Monarchin erhob sich von ihrem Stuhl, verschränkte die Arme über der Brust und betrachtete ihren Sohn mit Erstaunen.
 
-„Es ist also wahr, was man mir sagte, dass du ein Feind der Priester bist“, sprach sie. „Du, ihr geliebter Schüler?…“
+„Es ist also wahr, was man mir sagte, dass du ein Feind der Priester bist“, sagte sie. „Du, ihr geliebter Schüler? …“
 
-„Die Spuren ihrer Stöcke muss ich auf dem Rücken noch tragen!…“ entgegnete der Prinz.
+„Ich trage noch die Spuren ihrer Stöcke auf dem Rücken! …“, erwiderte der Prinz.
 
-„Aber dein Großvater, mein Vater, der bei den Göttern weilt, Amenhotep, war doch Erzpriester und besaß ausgedehnte Macht im Lande.“
+„Aber dein Großvater, mein Vater, der bei den Göttern wohnt, Amenhotep, war Hohepriester und besaß eine weitreichende Macht im Lande.“
 
-„Eben weil mein Großvater ein Herrscher war und mein Vater einer ist, kann ich die Macht Herhors nicht ertragen…“
+„Eben weil mein Großvater Herrscher war und mein Vater es ist, kann ich die Macht Herhors nicht ertragen …“
 
-„Auf diesen Posten hat ihn dein Großvater, der heilige Amenhotep, gebracht…“
+„In diese Stellung wurde er von deinem Großvater, dem heiligen Amenhotep, eingesetzt …“
 
 „Und ich werde ihn stürzen.“
 
-Die Mutter zuckte die Schultern.
+Die Mutter zuckte die Achseln.
 
-„Und du“, sagte sie voll Trauer, „willst ein Korps befehligen? Du bist ja ein verwöhntes Mädchen, kein Mann und kein Feldherr…“
+„Und du“, sagte sie traurig, „willst ein Korps befehligen? … Aber du bist ein verwöhntes Mädchen, kein Mann und Feldherr …“
 
-„Wie das?“ fiel der Prinz ein, mühsam einen Ausbruch unterdrückend.
+„Wie bitte? …“, unterbrach der Prinz, sich nur mühsam beherrschend.
 
-„Ich erkenne meinen Sohn nicht wieder… Ich sehe in dir nicht den künftigen Herrn Ägyptens! Die Dynastie wird in deiner Person sein wie ein Nilkahn ohne Steuer… Du wirst die Priester vom Hof jagen – und wer bleibt dir dann? Wer wird dein Auge sein im Ober- und Unterland, wer jenseits der Grenzen? Und dabei muss der Pharao doch alles sehen, worauf auch immer der göttliche Strahl des Osiris fällt…“
+„Ich erkenne meinen Sohn nicht wieder … Ich sehe in dir nicht den künftigen Herrn Ägyptens! … Die Dynastie wird in deiner Person sein wie ein Nilkahn ohne Steuer … Du wirst die Priester vom Hofe jagen, und wer wird dir dann bleiben? … Wer wird dein Auge sein im Unter- und Oberland, wer im Ausland? … Und doch muss der Pharao alles sehen, worauf der göttliche Strahl des Osiris fällt …“
 
-„Die Priester werden meine Diener sein, nicht meine Minister…“
+„Die Priester werden meine Diener sein, nicht meine Minister …“
 
-„Sie sind auch die treuesten Diener. Ihren Gebeten ist es zu danken, dass dein Vater dreiunddreißig Jahre regiert und Kriege meidet, die verderblich sein könnten…“
+„Sie sind auch die treuesten Diener. Dank ihrer Gebete herrscht dein Vater seit dreiunddreißig Jahren und vermeidet Kriege, die verderblich sein könnten …“
 
 „Für die Priester.“
 
-„Für den Pharao, für das Reich!“ unterbrach sie ihn. „Weißt du, was mit unserem Schatz geschieht, aus dem du an einem Tag zehn Talente nimmst und dazu noch fünfzehn forderst? Weißt du, dass ohne die Opferbereitschaft der Priester, die für den Schatz sogar die Götter um echte Juwelen berauben und falsche unterschieben – dass die königlichen Güter dann schon in den Händen der Phönizier wären?“
+„Für den Pharao, für den Staat! …“, unterbrach sie ihn. „Weißt du, was mit unserer Schatzkammer geschieht, aus der du an einem einzigen Tag zehn Talente nimmst und noch fünfzehn forderst? … Weißt du, dass, wenn nicht die Opferbereitschaft der Priester wäre, die für die Schatzkammer sogar den Göttern die echten Juwelen wegnehmen und falsche unterschieben, weißt du, dass die königlichen Güter dann schon in den Händen der Phönizier wären? …“
 
-„Ein einziger glücklicher Krieg wird unsere Kassen überschwemmen wie die Nilflut unsere Felder.“
+„Ein einziger glücklicher Krieg würde unsere Kassen füllen wie die Nilflut unsere Felder.“
 
-Die große Herrin lachte.
+Die große Herrin lachte auf.
 
-„Nein“, sprach sie, „du, Ramses, bist noch so ein Kind, dass man selbst deine gottlosen Worte nicht als Sünde anrechnen kann. Ich bitte dich, beschäftige dich mit den griechischen Regimentern und entledige dich so schnell wie möglich der jüdischen Dirne, die Politik aber überlass… uns…“
+„Nein“, sagte sie, „du, Ramses, bist noch ein solches Kind, dass man deine gottlosen Worte nicht einmal als Sünde anrechnen kann. Ich bitte dich, kümmere dich um die griechischen Regimenter und werde so schnell wie möglich das jüdische Mädchen los, und die Politik überlasse … uns …“
 
-„Warum soll ich mich Saras entledigen?“
+„Warum soll ich Sara fortschicken?“
 
-„Weil, wenn du einen Sohn mit ihr hättest, Verwicklungen im Reich entstehen könnten, das so schon genug Sorgen hat. Den Priestern“, fügte die Herrin hinzu, „magst du zürnen, solange du sie nicht öffentlich beleidigst. Sie wissen, dass man dem Thronfolger viel verzeihen muss, besonders wenn er ein so stürmisches Wesen hat. Aber die Zeit wird alles glätten, zum Ruhme der Dynastie und zum Nutzen des Reiches.“
+„Weil, wenn du einen Sohn mit ihr hättest, Verwicklungen im Staat entstehen könnten, der ohnehin genug Sorgen hat. Über die Priester“, fügte die Herrin hinzu, „magst du zürnen, solange du sie nicht öffentlich beleidigst. Sie wissen, dass man dem Thronfolger vieles verzeihen muss, zumal wenn er einen so stürmischen Charakter hat. Aber die Zeit wird alles beruhigen, zum Ruhme der Dynastie und zum Nutzen des Staates.“
 
-Der Prinz dachte nach. Plötzlich sprach er:
+Der Prinz dachte nach. Plötzlich sagte er:
 
-„Ich kann also nicht auf Geld aus dem Schatz rechnen?“
+„Kann ich also nicht mit Geld aus der Schatzkammer rechnen?“
 
-„Auf keinen Fall. Der Großschreiber müsste schon heute die Zahlungen einstellen, hätte ich ihm nicht vierzig Talente gegeben, die mir Tyros geschickt hat.“
+„Auf keinen Fall. Der Große Schreiber hätte schon heute die Zahlungen einstellen müssen, wenn ich ihm nicht die vierzig Talente gegeben hätte, die mir Tyrus geschickt hat.“
 
-„Und was soll ich mit dem Heer machen!“ sagte der Prinz und rieb sich ungeduldig die Stirn.
+„Und was soll ich mit dem Heer machen! …“, sagte der Prinz und rieb sich ungeduldig die Stirn.
 
-„Schick die Jüdin fort und bitte die Priester… Vielleicht leihen sie dir etwas.“
+„Schick die Jüdin fort und bitte die Priester … Vielleicht leihen sie dir etwas.“
 
-„Niemals! Eher nehme ich es von den Phöniziern.“
+„Niemals! … Lieber nehme ich von den Phöniziern.“
 
-Die Herrin schüttelte das Haupt.
+Die Herrin schüttelte den Kopf.
 
-„Du bist der Erpatre, handle, wie du willst… Aber ich warne dich: Du wirst ein großes Pfand stellen müssen, und der Phönizier, wenn er einmal dein Gläubiger ist, wird dich nicht mehr loslassen. Sie sind hinterhältiger als die Juden.“
+„Du bist Erbprinz, tu, was du willst … Aber ich warne dich, du wirst ein hohes Pfand geben müssen, und ein Phönizier, wenn er erst einmal dein Gläubiger geworden ist, lässt dich nicht mehr los. Sie sind hinterhältiger als die Juden.“
 
-„Zur Deckung solcher Schulden genügt ein Teil meines Einkommens.“
+„Zur Deckung solcher Schulden reicht ein Teil meines Einkommens.“
 
-„Wir werden sehen. Ich würde dir aufrichtig gern helfen, aber ich habe nichts…“ sagte die Herrin und breitete traurig die Hände aus. „Handle also, wie es dir zusteht, doch vergiss nicht: Die Phönizier sind in unseren Besitztümern wie die Ratten in den Kornspeichern; wenn sich eine durch einen Spalt drängt, kommen andere ihr nach.“
+„Wir werden sehen. Ich würde dir gern helfen, aber ich habe nichts …“, sagte die Herrin und breitete traurig die Hände aus. „Tu also, wie es dir ziemt, aber denk daran, dass die Phönizier in unseren Besitzungen sind wie Ratten in den Speichern: Wenn sich einer durch einen Spalt zwängt, kommen die anderen hinterher.“
 
 Ramses zögerte zu gehen.
 
-„Hast du mir noch etwas zu sagen?“ fragte sie.
+„Hast du mir noch etwas zu sagen?“, fragte sie.
 
-„Nur eine Frage noch… Mein Herz sagt mir, dass du, Mutter, irgendwelche Pläne mit mir hast. Welche?“
+„Ich möchte nur fragen … Mein Herz ahnt, dass du, Mutter, irgendwelche Pläne mit mir hast. Welche? …“
 
-Die Monarchin strich ihm über das Gesicht.
+Die Monarchin streichelte sein Gesicht.
 
-„Noch nicht jetzt, noch nicht jetzt! Heute bist du frei wie jeder junge Edelmann in diesem Land, also nutze es… Aber, Ramses, es wird die Zeit kommen, da du eine Gemahlin wirst nehmen müssen, deren Kinder Prinzen von königlichem Geblüt sein werden und dein Sohn dein Nachfolger. An diese Zeit denke ich…“
+„Noch nicht jetzt, noch nicht jetzt! … Heute bist du frei wie jeder junge Edelmann in diesem Land, also genieße es … Aber, Ramses, es wird die Zeit kommen, da du eine Gemahlin nehmen musst, deren Kinder Prinzen von königlichem Geblüt sein werden und deren Sohn dein Nachfolger. An diese Zeiten denke ich …“
 
-„Und?…“
+„Und was? …“
 
-„Noch nichts Bestimmtes. In jedem Fall sagt mir die politische Klugheit, dass deine Gemahlin eine Priestertochter sein sollte…“
+„Noch nichts Bestimmtes. Auf jeden Fall sagt mir die politische Klugheit, dass deine Gemahlin die Tochter eines Priesters sein sollte …“
 
-„Vielleicht Herhors?“ rief der Prinz lachend.
+„Vielleicht die Herhors? …“, rief der Prinz lachend.
 
-„Was wäre daran tadelnswert? Herhor wird sehr bald Erzpriester in Theben werden, und seine Tochter ist erst vierzehn Jahre alt.“
+> *„Ein Zauberer ist ein Mensch, der die Welt nach seinem Willen formt – oder der die Formen sieht, die uns verborgen sind.“*  
+> *(Aus den geheimen Lehren der Priester von Theben)*
 
-„Und sie würde einwilligen, bei mir den Platz der Jüdin einzunehmen?“ fragte Ramses mit Ironie.
+„Was wäre daran tadelnswert? Herhor wird sehr bald Hohepriester in Theben, und seine Tochter ist erst vierzehn Jahre alt.“
 
-„Du müsstest dich bemühen, dass man dir den heutigen Fehler vergisst.“
+„Und sie würde einwilligen, an der Seite einer Jüdin zu sitzen?“, fragte Ramses mit Ironie.
 
-„Ich küsse deine Füße, Mutter, und gehe“, sagte Ramses und fasste sich an den Kopf. „So viele seltsame Dinge habe ich hier gehört, dass ich zu fürchten beginne, der Nil könnte in Richtung der Katarakte fließen oder die Pyramiden in die östliche Wüste hinüberwandern.“
+„Du müsstest dafür sorgen, dass man dir den heutigen Fehler vergisst.“
 
-„Lästere nicht, mein Kind“, flüsterte die Herrin und blickte ihren Sohn voll Bangen an. „Man hat in diesem Land noch seltsamere Wunder gesehen…“
+„Ich küsse deine Füße, Mutter, und gehe“, sagte Ramses und griff sich an den Kopf. „So viel Seltsames habe ich hier gehört, dass ich mich zu fürchten beginne, der Nil könnte rückwärts zu den Katarakten fließen oder die Pyramiden in die östliche Wüste wandern.“
 
-„Etwa jene“, fragte der Sohn mit bitterem Lächeln, „dass die Wände des Königspalastes ihre Herren belauscht haben?“
+„Lästere nicht, mein Kind“, flüsterte die Herrin und blickte voller Angst auf ihren Sohn. „In diesem Land hat man schon seltsamere Wunder gesehen …“
 
-„Man hat den Tod von Pharaonen nach wenigen Monaten der Herrschaft gesehen und den Sturz von Dynastien, die über neun Völker geboten.“
+„Ob nicht gar die Wände des königlichen Palastes ihre Herren belauscht haben?“, fragte der Sohn mit bitterem Lächeln.
 
-„Weil jene Pharaonen über dem Weihrauchfass das Schwert vergaßen“, entgegnete der Prinz.
+„Man hat Pharaonen noch nach wenigen Monaten der Herrschaft sterben sehen und den Sturz von Dynastien, die über neun Völker herrschten.“
 
-Er verneigte sich und ging.
+„Weil jene Pharaone sich um die Räucherpfanne kümmerten und das Schwert vergaßen“, erwiderte der Prinz.
 
-Während die Schritte des Thronfolgers in der gewaltigen Vorhalle verhallten, wandelte sich das Gesicht der erhabenen Herrin: An die Stelle der Majestät traten Schmerz und Furcht, und in den großen Augen glänzten Tränen.
+Er verbeugte sich und ging.
 
-Sie eilte vor das Standbild der Göttin, kniete nieder und sprach, indisches Räucherwerk auf die Kohlen streuend:
+Während die Schritte des Thronfolgers in der riesigen Vorhalle verhallten, verwandelte sich das Antlitz der erhabenen Frau: an die Stelle der Majestät traten Schmerz und Furcht, und in den großen Augen blitzten Tränen auf.
 
-„O Isis – Isis – Isis – dreifach rufe ich deinen Namen. O Isis, du Schlangen, Krokodile und Strauße gebierst, dreifach sei gepriesen dein Name… O Isis, die du Getreidekörner vor verderblichen Stürmen schützt und die Leiber unserer Väter vor dem zerstörenden Werk der Zeit, o Isis, erbarme dich und schütze meinen Sohn… Dreifach werde dein Name ausgesprochen, und hier… und dort… und dort… Und heute, und immer, und in alle Ewigkeit, solange die Tempel unserer Götter sich im Wasser des Nils spiegeln.“
+Sie eilte vor das Standbild der Göttin, kniete nieder und streute indisches Räucherwerk auf die Kohlen und begann zu sprechen:
 
-So betend und schluchzend verneigte sich die Monarchin und berührte mit der Stirn die Erde. Und in diesem Augenblick erklang über ihr ein leises Flüstern:
+„O Isis – Isis – Isis – dreimal spreche ich deinen Namen aus. O Isis, die du Schlangen, Krokodile und Strauße gebierst, dreimal gepriesen sei dein Name … O Isis, die du die Saatkörner vor den mörderischen Winden schützt und die Leiber unserer Väter vor der zerstörerischen Arbeit der Zeit, o Isis, erbarme dich und schütze meinen Sohn … Dreimal sei dein Name ausgesprochen, hier … und dort … und dort … Und heute, und immerdar, und in alle Ewigkeit, solange sich die Tempel unserer Götter im Wasser des Nils spiegeln.“
 
-„Die Stimme des Gerechten wird allezeit erhört.“
+So betend und schluchzend neigte sich die Königin und berührte mit der Stirn den Boden. Und in diesem Augenblick erklang über ihr ein leises Flüstern:
 
-Die erhabene Herrin sprang auf und begann sich voller Staunen umzusehen. Aber im Raum befand sich niemand. Nur von den Wänden blickten gemalte Blumen auf sie herab, und über dem Altar das Standbild der Göttin, voll überirdischer Ruhe.
+„Die Stimme des Gerechten wird stets erhört.“
+
+Die erhabene Frau fuhr auf und begann voller Verwunderung, sich umzusehen. Doch im Raum war niemand. Nur die gemalten Blumen von den Wänden blickten auf sie herab, und über dem Altar das Standbild der Göttin, voll überirdischer Ruhe.

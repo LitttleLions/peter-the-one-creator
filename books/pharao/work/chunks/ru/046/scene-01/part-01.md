@@ -1,0 +1,151 @@
+W nocy warty dały znać, że tłum żebrzących o łaskę Libijczyków już wszedł do wąwozu. Jakoż nad pustynią widać było łunę ich ognisk.
+
+O wschodzie słońca odezwały się trąby i cała armia egipska stanęła pod bronią, w najszerszym miejscu doliny. Stosownie do rozkazu księcia, który chciał jeszcze bardziej nastraszyć Libijczyków, między szeregami wojska ustawiono spokojnych tragarzy, a wśród konnicy pomieszczono oślarzy na osłach. I stało się w onym dniu, że Egipcjanie byli mnodzy jak piasek w pustyni, a Libijczycy trwożni jak gołębie, nad którymi krąży jastrząb.
+
+O dziewiątej rano przed namiot księcia zajechał jego złocisty wóz wojenny. Konie ubrane w strusie pióra rwały się tak, że każdego z nich musiało pilnować dwu masztalerzy.
+
+Ramzes wyszedł z namiotu, siadł na wóz i sam ujął cugle, a miejsce woźnicy zajął przy nim kapłan Pentuer, doradca. Jeden z jenerałów roztoczył nad księciem duży, zielony parasol, a z tyłu i po obu stronach wozu szli greccy oficerowie w pozłocistych zbrojach. W pewnej odległości za orszakiem księcia posuwał się mały oddział gwardii, a wśród niego Tehenna, syn libijskiego wodza Musawasy.
+
+O kilkaset kroków od Egipcjan, przy wyjściu z glaukońskiego wąwozu, stała smutna gromada Libijczyków błagających zwycięzcy o miłosierdzie.
+
+Kiedy Ramzes wjechał ze swoją świtą na wzgórze, kędy miał przyjmować nieprzyjacielskie poselstwo, armia ku jego czci podniosła taki okrzyk, że chytry Musawasa zmartwił się jeszcze bardziej i szepnął do libijskiej starszyzny:
+
+— Zaprawdę mówię wam, jest to krzyk wojska, które miłuje swego wodza!...
+
+Wówczas jeden z niespokojniejszych książąt libijskich, wielki bandyta, rzekł do Musawasy:
+
+— Czy nie myślisz, że w takiej chwili roztropniej uczynimy, ufając chyżości naszych koni, aniżeli łasce faraonowego syna?... Ma to być wściekły lew, który nawet głaszcząc zdziera skórę; my zaś jesteśmy jako jagnięta oderwane od cycków swej matki.
+
+— Czyń, jak chcesz — odparł Musawasa — całą pustynię masz przed sobą. Ale mnie lud wysłał na odkupienie swoich grzechów, a nade wszystko mam syna Tehennę, nad którym książę rozleje swój gniew, jeżeli nie potrafię go przebłagać.
+
+Do gromady Libijczyków przycwałowali dwaj jezdni Azjaci, donosząc, że pan czeka na ich pokorę.
+
+Musawasa gorzko westchnął i poszedł ku pagórkowi, na którym stał zwycięzca. Nigdy jeszcze nie odbył on równie ciężkiej podróży!... Grube, pokutnicze płótno źle okrywało jego grzbiet; nad głową obsypaną popiołem znęcał się żar słoneczny, bose nogi gryzł mu żwir, a serce gniótł smutek i własny, i zwyciężonego ludu.
+
+Przeszedł zaledwie kilkaset kroków, ale parę razy musiał zatrzymywać się i odpocząć. Często też oglądał się za siebie, aby sprawdzić, czy nadzy niewolnicy, którzy nieśli dary dla księcia, nie kradną złotych pierścieni, a co gorsze — klejnotów. Musawasa bowiem, jako mąż doświadczony, wiedział, że ludzie najchętniej korzystają z cudzego nieszczęścia.
+
+„Dziękuję bogom — pocieszał się w swej nędzy chytry barbarzyńca — że na mnie padł los upokorzenia się przed księciem, który lada dzień włoży faraonowską czapkę. Władcy Egiptu są wspaniałomyślni, szczególniej w chwili zwycięstwa. Jeżeli więc potrafię wzruszyć pana mego, umocni on moje znaczenie w Libii i pozwoli mi pobierać duże podatki. Prawdziwy zaś cud, że sam następca tronu złapał Tehennę; nie tylko bowiem nie uczyni mu krzywdy, ale jeszcze obsypie go dostojeństwami...”
+
+Tak myślał, a wciąż oglądał się. Niewolnik bowiem, choć nagi, może ukradziony klejnot schować w usta, a nawet połknąć.
+
+Na trzydzieści kroków przed wozem następcy tronu Musawasa i towarzyszący mu najprzedniejsi Libijczycy upadli na brzuchy swoje i leżeli w piasku, dopóki adiutant książęcy nie kazał im wstać. Zbliżywszy się o kilka kroków znowu padli i uczynili tak trzy razy, a zawsze Ramzes musiał rozkazywać im, ażeby się podnieśli.
+
+Przez ten czas Pentuer stojący na książęcym wozie szeptał swojemu panu:
+
+— Niech oblicze twoje nie pokaże im ani srogości, ani uciechy. Raczej bądź spokojny jak bóg Amon, który pogardza swymi wrogami i nie cieszy się z lada jakich triumfów...
+
+Nareszcie pokutujący Libijczycy stanęli przed obliczem księcia, który ze złocistego wozu patrzył na nich jak srogi hipopotam na kaczęta nie mające gdzie ukryć się przed jego mocą.
+
+— Tyżeś to — nagle odezwał się Ramzes — tyżeś to jest Musawasa, mądry wódz libijski?
+
+— Jam jest twój sługa — odparł zapytany i znowu rzucił się na ziemię.
+
+Gdy mu kazano wstać, książę mówił:
+
+— Jak mogłeś dopuścić się tak ciężkiego grzechu i podnieść rękę na ziemię bogów? Czyliżby opuściła cię dawna roztropność?
+
+— Panie! — odparł chytry Libijczyk — żal pomieszał rozumy wygnanym żołnierzom jego świątobliwości, więc biegli na własną zgubę, ciągnąc za sobą mnie i moich. I wiedzą bogowie, jak długo ciągnęłaby się ta brzydka wojna, gdyby na czele armii wiecznie żyjącego faraona nie stanął sam Amon w twojej postaci. Jak pustynny wicher spadłeś, kiedy cię nie oczekiwano, tam, gdzie cię nie oczekiwano, a jak byk łamie trzcinę, tak ty skruszyłeś zaślepionego nieprzyjaciela. Po czym wszystkie ludy nasze zrozumiały, że nawet straszne pułki libijskie dopóty są coś warte, dopóki rzuca nimi twoja ręka.
+
+— Mądrze mówisz, Musawaso — rzekł książę — a jeszcze lepiej uczyniłeś, żeś wyszedł naprzeciw armii boskiego faraona, nie czekając, aż ona przyjdzie do was. Rad bym jednak dowiedzieć się: o ile prawdziwą jest wasza pokora?
+
+— „Rozjaśnij oblicze, wielki mocarzu egipski — odpowiedział na to Musawasa. — Przychodzimy do ciebie jako poddani, ażeby imię twoje było wielkim w Libii i ażebyś był naszym słońcem, jak jesteś słońcem dziewięciu ludów.
+
+Rozkaż tylko podwładnym twoim, aby byli sprawiedliwymi dla zawojowanego i do potęgi twej przyłączonego ludu. Niech twoi naczelnicy rządzą nami sumiennie i sprawiedliwie, a nie według złych chęci swoich, donosząc o nas fałszywie i pobudzając niełaskę twoją przeciw nam i dzieciom naszym. Rozkaż im, namiestniku dobrotliwego faraona, aby rządzili nami według woli twojej, oszczędzając swobodę, mienie, język i obyczaje ojców i przodków naszych.
+
+Niech prawa twoje będą dla wszystkich poddanych ci ludów równe, niech urzędnicy twoi nie pobłażają jednym, a nie będą zbyt srogimi dla drugich. Niech wyroki ich będą dla wszystkich jednakie. Niech pobierają opłatę przeznaczoną na twe potrzeby i twój użytek, lecz nie podnoszą od nas innej w tajemnicy przed tobą, takiej, która nie wejdzie do skarbca twego, lecz wzbogaci tylko sługi twoje i sługi sług twoich.
+
+Każ rządzić nami bez krzywdy dla nas i dla dzieci naszych, wszak jesteś bogiem naszym i władcą na wieki. Naśladuj słońce, które dla wszystkich rozsiewa swój blask dający siłę i życie. Błagamy cię o twe łaski, my, libijscy poddani, i padamy czołem przed tobą, następco wielkiego i potężnego faraona.”
+
+Tak mówił przebiegły książę libijski Musawasa i skończywszy, znowu upadł brzuchem na ziemię. A następcy faraona, kiedy słuchał tych mądrych słów, błyszczały oczy i rozszerzały się nozdrza jak młodemu ogierowi, który po sytnej paszy wybiega na łąkę między klacze.
+
+— Powstań, Musawaso — odezwał się książę — i posłuchaj, co ci odpowiem. Los twój i twoich narodów nie zależy ode mnie, lecz od miłościwego pana, który tak wznosi się ponad nami wszystkimi jak niebo nad ziemią. Radzę ci więc, ażebyś ty i starszyzna libijska udali się stąd do Memfisu i tam, upadłszy na twarz przed władcą i bogiem tego świata, powtórzyli pokorną mowę, której tu wysłuchałem.
+
+Nie wiem, jaki będzie skutek waszych próśb; lecz ponieważ bogowie nigdy nie odwracają się od skruszonych i błagających, więc przeczuwam, że nie będziecie źle przyjęci.
+
+A teraz pokażcie mi dary przeznaczone dla jego świątobliwości, abym osądził, czy poruszą serce wszechmocnego faraona.
+
+W tej chwili Mentezufis dał znak stojącemu na wozie księcia Pentuerowi. A gdy ten zeszedł i zbliżył się ze czcią do świętego męża, Mentezufis szepnął:
+
+— Boję się, ażeby młodemu panu naszemu triumf nie za mocno uderzył do głowy. Czy nie sądzisz, że byłoby roztropnym przerwać w jaki sposób uroczystość?...
+
+— Przeciwnie — odparł Pentuer — nie przerywajcie uroczystości, a ja wam ręczę, że podczas triumfu nie będzie miał wesołej twarzy.
+
+— Zrobisz cud?
+
+— Czyliżbym potrafił? Pokażę mu tylko, że na tym świecie wielkiej radości towarzyszą wielkie strapienia.
+
+— Czyń, jak chcesz — rzekł Mentezufis — gdyż bogowie dali ci mądrość godną członka najwyższej rady.
+
+Odezwały się trąby i bębny i rozpoczęto pochód triumfalny.
+
+Na czele szli nadzy niewolnicy z darami, pilnowani przez możnych Libijczyków. Więc niesiono złote i srebrne bogi, szkatułki napełnione wonnościami, emaliowane naczynia, tkaniny, sprzęty, wreszcie złote misy zasypane rubinami, szafirami i szmaragdami. Niewolnicy niosący je mieli ogolone głowy i opaski na ustach, ażeby który nie ukradł cennego klejnotu.
+
+Książę Ramzes wsparł obie ręce o krawędź wozu i z wysokości pagórka patrzył na Libijczyków i swoje wojsko jak żółtogłowy orzeł na pstre kuropatwy. Duma wypełniała go od stóp do głów i wszyscy czuli, że nie można być potężniejszym nad tego zwycięskiego wodza.
+
+W jednej chwili oczy księcia utraciły swój blask, a na twarzy odmalowało się przykre zdziwienie. To stojący za nim Pentuer szepnął:
+
+— Nakłoń, panie, ucha twego... Od czasu kiedy opuściłeś miasto Pi-Bast, zaszły tam dziwne wydarzenia... Twoja kobieta, Kama Fenicjanka, uciekła z Grekiem Lykonem...
+
+— Z Lykonem?... — powtórzył książę.
+
+— Nie poruszaj się, panie, i nie okazuj tysiącom twoich niewolników, że masz smutek w dniu triumfu...
+
+W tej chwili przechodził u stóp księcia bardzo długi sznur Libijczyków niosących w koszach owoce i chleby, a w ogromnych dzbanach wino i oliwę dla wojska. Na ten widok wśród karnego żołnierstwa rozległ się szmer radości, ale Ramzes nie spostrzegł tego, zajęty opowiadaniem Pentuera.
+
+— Bogowie — szeptał prorok — ukarali zdradziecką Fenicjankę...
+
+— Złapana?... — spytał książę.
+
+— Złapana, ale musiano ją wysłać do wschodnich kolonii... Spadł bowiem na nią trąd...
+
+— O bogowie!... — szepnął Ramzes. — Czy aby mnie on nie grozi?...
+
+— Bądź spokojny, panie: gdybyś się zaraził, już byś go miał...
+
+Książę poczuł zimno we wszystkich członkach. Jakże łatwo bogom z najwyższych szczytów zepchnąć człowieka w przepaść najgłębszej nędzy!...
+
+— A tenże nikczemny Lykon?...
+
+— Jest to wielki zbrodniarz — mówi Pentuer — zbrodniarz, jakich niewielu wydała ziemia...
+
+— Znam go. Jest podobny do mnie jak obraz odbity w lustrze... — odparł Ramzes.
+
+Teraz nadciągnęła gromada Libijczyków prowadzących osobliwe zwierzęta. Na czele szedł jednogarbny wielbłąd z białawym włosem, jeden z pierwszych, jakiego złapano w pustyni. Za nim dwa nosorożce, stado koni i oswojony lew w klatce. A dalej mnóstwo klatek z różnobarwnymi ptakami, małpkami i małymi pieskami, przeznaczonymi dla dam dworskich. W końcu pędzono wielkie stada wołów i baranów na mięso dla wojska.
+
+Książę ledwo rzucił okiem na wędrujący zwierzyniec i pytał kapłana:
+
+— A Lykon schwytany?...
+
+— Teraz powiem ci najgorszą rzecz, nieszczęśliwy panie — szeptał Pentuer. — Pamiętaj jednak, aby nieprzyjaciele Egiptu nie dostrzegli smutku w tobie...
+
+Następca poruszył się.
+
+— Twoja druga kobieta, Sara Żydówka...
+
+— Czy także uciekła?...
+
+— Zmarła w więzieniu...
+
+— O bogowie!... Któż śmiał ją wtrącić?...
+
+— Sama oskarżyła się o zabójstwo syna twego...
+
+— Co?...
+
+Wielki krzyk rozległ się u stóp księcia: maszerowali jeńcy libijscy wzięci podczas bitwy, a na ich czele smutny Tehenna.
+
+Ramzes miał w tej chwili serce tak przepełnione bólem, że skinął na Tehennę i rzekł:
+
+— Stań przy ojcu twoim, Musawasie, ażeby widział i dotknął cię, że żyjesz...
+
+Na te słowa wszyscy Libijczycy i całe wojsko wydało potężny okrzyk; ale książę nie słuchał go.
+
+— Syn mój nie żyje?... — pytał kapłana. — Sara oskarżyła się o dzieciobójstwo?... Czy szaleństwo padło na jej duszę?...
+
+— Dziecko zabił nikczemny Lykon...
+
+— O bogowie, dajcie mi siły!... — jęknął książę.
+
+— Hamuj się, panie, jak przystało na zwycięskiego wodza...
+
+— Czyliż podobna zwyciężyć taką boleść!... O niemiłosierni bogowie!...

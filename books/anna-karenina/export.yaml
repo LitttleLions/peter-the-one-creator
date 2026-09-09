@@ -26,6 +26,7 @@ defaults:
     imprint_heading: Impressum
     toc_heading: Inhalt
   output:
+    page_break_before_chapter: true
     chapter_headings: true
     scene_numbers: false
     strip_control_metadata: true
@@ -82,3 +83,7 @@ book:
   cover:
     mode: image
     image_path: assets/covers/annakarenina.png
+website:
+  enabled: true
+  amazon_url: ''
+  sort_order: 20

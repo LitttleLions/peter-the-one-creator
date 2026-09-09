@@ -1,0 +1,57 @@
+{
+  "book": "leben-arsenjews",
+  "chapter": "003",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1.5k",
+  "render_quality": "medium",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\leben-arsenjews\\work\\scenes\\de\\stil-02-poetisch\\003\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\leben-arsenjews\\work\\prompts\\higgsfield\\003-chapter-stil-02-poetisch.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\leben-arsenjews\\assets\\chapter\\chapter-003.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 003. High-quality full-bleed chapter illustration for Ivan Bunin’s The Life of Arseniev: one continuous painterly scene of a single quiet remembered moment, with one clear central figure or central situation filling the frame. Late 19th-century provincial central Russia: manor estates, endless grain fields, birch and garden light, wide skies, quiet rivers, country roads, and small provincial towns. Style: poetic memory realism, soft atmospheric light, muted elegant palette, gentle painterly texture, restrained emotion, Russian impressionist landscape influence, premium modern classics aesthetic. Prefer landscape and remembered atmosphere. When an adult figure appears, it is always the same narrator Arseniev: slender Russian man about 35–45, dark wavy hair, clean-shaven or light stubble, dark frock coat, often a quiet Rückenfigur looking into fields, river light, or a manor yard. When the text remembers childhood, show that child’s solitude among fields, sky, manor yard, or first town glimpses — a small boy in simple period clothes. Elegant negative space, soft focus in secondary areas, calm readable composition. Das Kindheitserleben begann mich allmählich mit dem Leben zu verbinden – jetzt flimmern bereits einige Gesichter, einige Bilder des Hoflebens und einige Ereignisse in meiner Erinnerung vorbei… Von diesen Ereignissen stand das erste Reisen in meinem Leben an erster Stelle, das erste und weiteste und ungewöhnlichste aller späteren Reisen. Vater und Mutter gingen in diese heilige Landschaft, die sich eine Stadt nannte, und nahmen mich mit. Damals erlebte ich zum ersten Mal die Süße erfüllter Träume, zugleich aber auch die Angst, dass diese Träume vielleicht doch nicht erfüllt werden würden. Ich erinnere mich bis heute, wie ich in der Sonne auf dem Hof stand, die Hitze spürte und auf den Tarantass starrte, der noch am Morgen aus dem Karossenhaus herausgebracht worden war: Wann wird er endlich gespannt, wann enden all diese Vorbereitungen zum Abreisen? Ich erinnere mich, wie wir eine Ewigkeit unterwegs waren, wie die Felder, die Luschinen, die Feldwege und Kreuzungen nicht zu zählen waren und wie sich auf dem Weg folgendes ereignete: In einer Luschine, und es war bereits Abend und die Gegend war sehr abgelegen, wuchs dichter Eichenbusch, dunkelgrün und kraus, und auf der gegenüberliegenden Abhänge kroch ein „Raubritter“ durch den Busch, mit Axt am Gürtel – der vielleicht taumeligste und grausamste aller Männer, den ich bis dahin gesehen hatte, ja sogar in all meiner Lebenszeit. Wie wir in die Stadt einritten, erinnere ich mich nicht. Doch wie ich das städtische Morgenlicht erinnere! Ich hing über dem Abgrund, einem engen Tal aus riesigen, nie gesehenen Häusern, mir blendete der Glanz der Sonne, der Fenster, der Werbetafeln, und über mir breitete sich ein wunderbarer musikalischer Durcheinander aus: Klingeln, Lärm der Glocken der Glockenstunde des Michael Archangels, die über allem stand, in einer Größe und Pracht, die dem römischen Petersdom nicht einmal träumen konnte, und so riesig, dass die Pyramide von Cheops mir danach nicht mehr erschreckte.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_181326_008e12d6-77cd-4411-a053-e72b161169c3.png",
+  "job_result": [
+    {
+      "id": "008e12d6-77cd-4411-a053-e72b161169c3",
+      "status": "completed",
+      "display_name": "GPT Image 2",
+      "job_set_type": "gpt_image_2",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_181326_008e12d6-77cd-4411-a053-e72b161169c3.png",
+      "created_at": 1785176006.994567,
+      "params": {
+        "width": 1744,
+        "height": 2336,
+        "prompt": "Chapter 003. High-quality full-bleed chapter illustration for Ivan Bunin’s The Life of Arseniev: one continuous painterly scene of a single quiet remembered moment, with one clear central figure or central situation filling the frame. Late 19th-century provincial central Russia: manor estates, endless grain fields, birch and garden light, wide skies, quiet rivers, country roads, and small provincial towns. Style: poetic memory realism, soft atmospheric light, muted elegant palette, gentle painterly texture, restrained emotion, Russian impressionist landscape influence, premium modern classics aesthetic. Prefer landscape and remembered atmosphere. When an adult figure appears, it is always the same narrator Arseniev: slender Russian man about 35–45, dark wavy hair, clean-shaven or light stubble, dark frock coat, often a quiet Rückenfigur looking into fields, river light, or a manor yard. When the text remembers childhood, show that child’s solitude among fields, sky, manor yard, or first town glimpses — a small boy in simple period clothes. Elegant negative space, soft focus in secondary areas, calm readable composition. Das Kindheitserleben begann mich allmählich mit dem Leben zu verbinden – jetzt flimmern bereits einige Gesichter, einige Bilder des Hoflebens und einige Ereignisse in meiner Erinnerung vorbei… Von diesen Ereignissen stand das erste Reisen in meinem Leben an erster Stelle, das erste und weiteste und ungewöhnlichste aller späteren Reisen. Vater und Mutter gingen in diese heilige Landschaft, die sich eine Stadt nannte, und nahmen mich mit. Damals erlebte ich zum ersten Mal die Süße erfüllter Träume, zugleich aber auch die Angst, dass diese Träume vielleicht doch nicht erfüllt werden würden. Ich erinnere mich bis heute, wie ich in der Sonne auf dem Hof stand, die Hitze spürte und auf den Tarantass starrte, der noch am Morgen aus dem Karossenhaus herausgebracht worden war: Wann wird er endlich gespannt, wann enden all diese Vorbereitungen zum Abreisen? Ich erinnere mich, wie wir eine Ewigkeit unterwegs waren, wie die Felder, die Luschinen, die Feldwege und Kreuzungen nicht zu zählen waren und wie sich auf dem Weg folgendes ereignete: In einer Luschine, und es war bereits Abend und die Gegend war sehr abgelegen, wuchs dichter Eichenbusch, dunkelgrün und kraus, und auf der gegenüberliegenden Abhänge kroch ein „Raubritter“ durch den Busch, mit Axt am Gürtel – der vielleicht taumeligste und grausamste aller Männer, den ich bis dahin gesehen hatte, ja sogar in all meiner Lebenszeit. Wie wir in die Stadt einritten, erinnere ich mich nicht. Doch wie ich das städtische Morgenlicht erinnere! Ich hing über dem Abgrund, einem engen Tal aus riesigen, nie gesehenen Häusern, mir blendete der Glanz der Sonne, der Fenster, der Werbetafeln, und über mir breitete sich ein wunderbarer musikalischer Durcheinander aus: Klingeln, Lärm der Glocken der Glockenstunde des Michael Archangels, die über allem stand, in einer Größe und Pracht, die dem römischen Petersdom nicht einmal träumen konnte, und so riesig, dass die Pyramide von Cheops mir danach nicht mehr erschreckte.",
+        "medias": [],
+        "aspect_ratio": "3:4",
+        "quality": "medium",
+        "resolution": "2k",
+        "model": "videotape-alpha",
+        "reference_elements": []
+      }
+    }
+  ]
+}

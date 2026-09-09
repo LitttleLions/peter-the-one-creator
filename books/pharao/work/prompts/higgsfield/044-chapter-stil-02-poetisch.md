@@ -1,0 +1,1 @@
+*Buch: Der Pharao* *Quelle: EPUB/part50.xhtml* <!-- status: pending --> W jego głosie było tyle życzliwości, że zdziwiony książę zamilkł i pozwolił mu jechać. Ancient Egypt, reign of Pharaoh Ramses XII 12th Century BC. Period-accurate clothing, architecture, and environment. Historical style, richly detailed, atmospheric. detailed textures.

@@ -1,0 +1,84 @@
+{
+  "books": [
+    {
+      "id": "aelita",
+      "title": "Aëlita",
+      "subtitle": "Ein Mars-Roman zwischen Liebe, Revolution und Untergang",
+      "author": "Alexei Nikolajewitsch Tolstoi",
+      "summary": "Der Ingenieur Mstislaw Los baut im Petrograd der frühen 1920er Jahre ein\nungewöhnliches Raumschiff und lädt Freiwillige zu einem Flug zum Mars ein.\nBegleitet wird er von dem ehemaligen Rotarmisten Alexei Gussew. Die Reise\nführt die beiden aus einer von Krieg, Entbehrung und Unruhe geprägten Erde\nin eine Welt, die fremdartig erscheint und doch die Konflikte der Menschen\nauf andere Weise wiederholt.\n\nAuf dem Mars, den seine Bewohner Tuma nennen, finden Los und Gussew eine\nalte Kultur vor, deren Städte, Kanäle und technische Hinterlassenschaften\nvom Glanz einer vergangenen Epoche zeugen. Hinter dieser Architektur steht\njedoch eine Gesellschaft, die von sozialer Spaltung, Herrschaft und dem\nBewusstsein des eigenen Niedergangs geprägt ist. Während Gussew sich den\nUnzufriedenen und ihrem Widerstand nähert, gerät Los in den Bann Aëlitas,\nder Tochter des Herrschers Tuskub.\n\nDer Roman verbindet die planetarische Romanze zwischen Los und Aëlita mit\neiner Revolutionsallegorie und der Frage, ob Technik, Macht oder Liebe eine\nerschöpfte Welt noch verändern können. Sein Mars ist zugleich Schauplatz\ndes Abenteuers, Spiegel der nachrevolutionären Erde und melancholisches\nBild einer Zivilisation, die ihren Untergang bereits vor Augen hat.",
+      "coverUrl": "./covers/aelita.png",
+      "amazonUrl": "",
+      "sortOrder": 10
+    },
+    {
+      "id": "peter-i-buch-01",
+      "title": "Peter der Erste",
+      "subtitle": "Der große Roman über Zar Peter I. Mit allen drei Büchern in neuer deutscher Ausgabe",
+      "author": "Alexei Nikolajewitsch Tolstoi",
+      "summary": "Peter der Erste erzählt vom Aufstieg eines Herrschers, der Russland mit Gewalt, Willenskraft und visionärer Unruhe aus der alten Welt in die Moderne stößt. Alexei Tolstoi zeichnet Peter nicht als entrückten Monarchen, sondern als rastlosen, widersprüchlichen Menschen: roh und genial, grausam und neugierig, maßlos in seinem Ehrgeiz und doch getrieben von der Überzeugung, ein rückständiges Reich neu erschaffen zu müssen.\nVor dem Hintergrund von Machtkämpfen, Hofintrigen, Krieg, Reformen und persönlicher Härte entsteht das Panorama eines Landes im Umbruch. Das alte Moskowien mit seinen Bojaren, Traditionen und religiösen Gewissheiten trifft auf den ungestümen Willen eines Zaren, der Schiffe bauen, Städte gründen, Armeen modernisieren und Russland nach Europa öffnen will - koste es, was es wolle.\nTolstois historischer Roman ist zugleich Herrscherporträt, Gesellschaftsepos und dramatische Erzählung über den Preis des Fortschritts. Peter erscheint als Revolutionär auf dem Thron: ein Mann, der sein Land nach vorn peitscht und dabei Menschen, Gegner und sich selbst verbraucht. Ein kraftvoller Roman über Macht, Modernisierung und die Frage, ob ein Staat erneuert werden kann, ohne an seiner eigenen Brutalität zu zerbrechen.",
+      "coverUrl": "./covers/peter-i-buch-01.png",
+      "amazonUrl": "",
+      "sortOrder": 10
+    },
+    {
+      "id": "anna-karenina",
+      "title": "Anna Karenina",
+      "subtitle": "Roman",
+      "author": "Lew Tolstoi",
+      "summary": "Anna Karenina scheint alles zu besitzen, was ein Leben hell und sicher machen koennte: Namen, Ansehen, Familie, einen Platz in der Welt. Dann tritt Wronski in ihr Dasein, und unter der glatten Oberflaeche beginnt etwas zu brennen, das sich weder durch Vernunft noch durch Ruecksicht loeschen laesst. Tolstoi folgt dieser Liebe bis in ihre bittersten Konsequenzen und stellt ihr die stillere, suchende Bewegung Lewins gegenueber: den Wunsch, in Arbeit, Ehe, Natur und Glauben eine Wahrheit zu finden, die nicht nur gesellschaftliche Form ist. Aus diesen beiden Bewegungen entsteht ein Roman von grosser Weite: Gesellschaftsportraet, Liebestragoedie und tastende Frage danach, wie ein Mensch wahrhaft leben kann.",
+      "coverUrl": "./covers/anna-karenina.png",
+      "amazonUrl": "",
+      "sortOrder": 20
+    },
+    {
+      "id": "leben-arsenjews",
+      "title": "Das Leben Arsenjews",
+      "subtitle": "Ein russischer Erinnerungsroman in neuer deutscher Ausgabe",
+      "author": "Iwan Bunin",
+      "summary": "„Das Leben Arsenjews“ ist ein Roman der Erinnerung. Aus der Rückschau entsteht das Bild einer Kindheit und Jugend in der russischen Provinz, geprägt von Landschaften, Familienbindungen, ersten Erschütterungen, literarischem Erwachen und der allmählichen Erfahrung von Vergänglichkeit.\n\nBunin erzählt nicht in der Form einer äußeren Chronik, sondern aus der Bewegung des Bewusstseins. Gerüche, Licht, Jahreszeiten, Räume, Stimmen und einzelne Begegnungen werden zu Trägern einer inneren Geschichte. Das Vergangene erscheint dabei nicht als bloßer Besitz der Erinnerung, sondern als etwas Unwiederbringliches, das gerade im Erzählen seine schmerzliche Gegenwart behält.\n\nDer Roman gehört zu den zentralen Prosawerken Bunins. In ihm verbindet sich die Genauigkeit realistischer Beobachtung mit einer elegischen, konzentrierten Sprache. „Das Leben Arsenjews“ ist ein Buch über Herkunft und Verlust, über Jugend und erstes Begehren, aber auch über die Frage, was von einem Leben bleibt, wenn die Welt, aus der es hervorgegangen ist, unwiderruflich verschwunden ist.",
+      "coverUrl": "./covers/leben-arsenjews.jpg",
+      "amazonUrl": "",
+      "sortOrder": 20
+    },
+    {
+      "id": "pharao",
+      "title": "Der Pharao",
+      "subtitle": "Der große historische Roman aus dem alten Ägypten in neuer deutscher Ausgabe",
+      "author": "Bolesław Prus",
+      "summary": "Der Pharao führt in ein Ägypten, das zugleich fern und erstaunlich\ngegenwärtig wirkt: ein Reich aus Tempeln, Palästen, Heeren, Abgaben,\nRitualen und unsichtbaren Machtordnungen. Im Mittelpunkt steht ein junger\nHerrscher, der die Last der Krone nicht nur als Würde, sondern als Kampf\nerfährt. Was als persönliche Bewährungsprobe beginnt, weitet sich zu einer\nErzählung über Staat, Religion, Wissen, Geld und politische Illusion.\n\nBolesław Prus entwirft keine bloße Kulisse des Altertums. Sein Ägypten ist\nein geistiger und gesellschaftlicher Raum, in dem die Mechanismen von\nHerrschaft sichtbar werden: die Macht der Archive und der Priester, die\nVerwundbarkeit des Militärs, die Abhängigkeit der Politik von Getreide,\nWasser, Steuern und Deutungshoheit. Die Figuren bewegen sich zwischen\nLeidenschaft und Kalkül, zwischen Ehrgeiz und Unwissen, zwischen der\nSehnsucht nach Erneuerung und der zähen Trägheit alter Institutionen.\n\nDer Roman gehört zu den ungewöhnlichsten historischen Werken des\neuropäischen Realismus. Er blickt auf eine versunkene Welt, um Grundfragen\nmoderner Politik zu stellen: Wer regiert wirklich? Was vermag ein\neinzelner Wille gegen eine eingespielte Ordnung? Und wie gefährlich wird\nMacht, wenn sie sich selbst nicht versteht?",
+      "coverUrl": "./covers/pharao.jpg",
+      "amazonUrl": "",
+      "sortOrder": 30
+    },
+    {
+      "id": "feuriger-engel",
+      "title": "Der feurige Engel",
+      "subtitle": "Ein historischer Roman von Glaubenswahn, Leidenschaft und Dämonie in neuer deutscher Ausgabe",
+      "author": "Walerij Brjussow",
+      "summary": "„Der feurige Engel\" ist ein historischer Roman aus der Welt der Renaissance und Reformation, zugleich aber ein Roman über innere Verstrickung, religiöse Ekstase und die gefährliche Macht von Bildern, Stimmen und Visionen. Brjussow lässt seine Handlung im Deutschland des 16. Jahrhunderts spielen, in einer Zeit, in der Humanismus, Dämonenglaube, Theologie, Magie und beginnende moderne Gelehrsamkeit noch unmittelbar nebeneinanderstehen.\n\nIm Zentrum steht eine Begegnung, die den Erzähler in ein Geflecht aus Leidenschaft, Glauben, Wahn und metaphysischer Unruhe hineinzieht. Was zunächst wie ein historisches Abenteuer beginnt, öffnet sich zunehmend zu einer psychologischen und geistigen Grenzerfahrung: Die äußere Welt der Städte, Klöster, Gelehrten und Inquisitoren spiegelt die innere Unordnung der Figuren.\n\nBrjussow verbindet die Präzision historischer Nachbildung mit der suggestiven Kraft des Symbolismus. Der Roman ist weder bloß Schauergeschichte noch bloß Gelehrtenroman, sondern ein Werk über die Instabilität menschlicher Gewissheit: über das Begehren, an Zeichen zu glauben, und über den Preis, den dieser Glaube verlangen kann.",
+      "coverUrl": "./covers/feuriger-engel.jpg",
+      "amazonUrl": "",
+      "sortOrder": 50
+    },
+    {
+      "id": "die-dritte-chronik",
+      "title": "Die dritte Chronik",
+      "subtitle": "Historischer Roman",
+      "author": "Motivatier",
+      "summary": "1241 stirbt Großkhan Ögedei – und seine Witwe Töregene ergreift noch in der Todesnacht die Macht. An ihrer Seite steht Fatima, Kriegsgefangene aus Chorasan und Schattenkanzlerin des Reiches: Sie schreibt die Briefe der Regentin, entscheidet über Zugang und Gnade – und führt heimlich eine zweite Chronik, Briefe an ihre tote Schwester.\nGegen sie steht Shigi Qutuqu, Oberrichter und Hüter der Geheimen Geschichte. Neben ihr Ata-Malik Juvaini, junger persischer Schreiber, der Karriere macht und sich in die Frau verliebt, die sein Land verloren hat. Als Töregenes Sohn Güyük den Thron besteigt, wird Geschichte zur Beute – und Fatima soll den einen Namen liefern, der einen Krieg entfesseln könnte. Sie verweigert. Ihre Hinrichtung ist historisch belegt; ihre Chronik galt als verschollen.\nDieser Roman behauptet ihren Fund. Rahmung und vier Akte, drei Stimmen, ein durchgehendes Geheimnis: Texte überleben ihre Schreiber. Genau davon handelt das Buch.",
+      "coverUrl": "./covers/die-dritte-chronik.jpg",
+      "amazonUrl": "",
+      "sortOrder": 60
+    },
+    {
+      "id": "geheime-geschichte-mongolen",
+      "title": "Die Geheime Geschichte der Mongolen",
+      "subtitle": "Eine mongolische Chronik des 13. Jahrhunderts",
+      "author": "Anonym",
+      "summary": "Das unter dem mongolischen Titel Mongγol-un niγuča tobčiyan überlieferte Werk beginnt mit der sagenhaften Abstammung der Mongolen vom blaugrauen Wolf und der falben Hirschkuh. Aus Genealogien, Ursprungserzählungen und Erinnerungen an frühere Stammesführer entwickelt sich die Lebensgeschichte Temüdschins, des späteren Dschingis Khan. Nach dem Tod seines Vaters wächst er unter gefährdeten und entbehrungsreichen Bedingungen auf, während seine Mutter Höelün die auseinanderbrechende Familie zusammenhält.\n\nTemüdschins Aufstieg vollzieht sich durch Bündnisse, Schwüre, Heiraten, persönliche Treue und wiederholten Verrat. Die Entführung Börtes, die wechselvolle Freundschaft mit Dschamucha und das Verhältnis zu Tooril Ong Khan verbinden familiäre Konflikte mit dem politischen Kampf um die Vorherrschaft in der Steppe. Reden, Lieder, Rechtsentscheidungen und ausführlich geschilderte Beratungen zeigen Herrschaft nicht nur als Folge militärischer Siege, sondern als ein Geflecht aus Verwandtschaft, Gefolgschaft, Belohnung und Erinnerung.\n\nNach der Einigung der mongolischen Verbände schildert die Chronik die Ordnung des neuen Reiches, die Verteilung von Ämtern und Untertanen, die Einrichtung der Leibwache und die Feldzüge Dschingis Khans. Die letzten Abschnitte berichten von seinem Tod, der Wahl Ögedeis und einzelnen Ereignissen aus dessen Regierungszeit. Das Werk ist keine distanzierte Geschichtsschreibung, sondern eine dynastische Erinnerungserzählung, in der Lob, Rechtfertigung, mündliche Überlieferung und auffallend persönliche Einzelheiten nebeneinanderstehen.",
+      "coverUrl": "./covers/geheime-geschichte-mongolen.png",
+      "amazonUrl": "",
+      "sortOrder": 70
+    }
+  ]
+}

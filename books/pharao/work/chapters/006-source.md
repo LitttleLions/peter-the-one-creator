@@ -63,7 +63,7 @@ Minister wojny ukłonił się.
 
 Teraz sędzia obwieścił wszystkim obecnym: kapłanom, urzędnikom i gwardii, że mogą wyjść na dziedziniec, i sam wraz z pisarzem, skłoniwszy się tronowi, pierwsi opuścili salę. Został w niej tylko faraon, Herhor i dwaj wodzowie.
 
-— Nakłoń uszy swoje, władco, i wysłuchaj skargi — zaczął Nitager. — Dziś z rana kapłan-urzędnik, który z twego rozkazu przyszedł namaścić włosy moje, powiedział mi, ażebym idąc do ciebie zostawił sandały w przysionku. Tymczasem wiadomo jest nie tylko w Górnym i Dolnym Egipcie, ale u Hetytów, w Libii, Fenicji i w kraju Punt
+— Nakłoń uszy swoje, władco, i wysłuchaj skargi — zaczął Nitager. — Dziś z rana kapłan-urzędnik, który z twego rozkazu przyszedł namaścić włosy moje, powiedział mi, ażebym idąc do ciebie zostawił sandały w przysionku. Tymczasem wiadomo jest nie tylko w Górnym i Dolnym Egipcie, ale u Hetytów, w Libii, Fenicji i w kraju Punt, że dwadzieścia lat temu dałeś mi prawo stawania przed tobą w sandałach.
 
 — Mówisz prawdę — rzekł faraon. — Do mego dworu zakradły się różne nieporządki.
 
@@ -117,7 +117,7 @@ Kiedy dwaj wodzowie znaleźli się sami w przysionku, Nitager odezwał się do P
 
 Przez szereg komnat pełnych kolumn i ozdobionych malowidłami, gdzie w każdych drzwiach kapłani i pałacowi urzędnicy składali mu niskie ukłony, faraon przeszedł do swego gabinetu. Była to dwupiętrowa sala o ścianach z alabastru, na których złotem i jaskrawymi farbami odmalowano najznakomitsze wypadki panowania Ramzesa XII, a więc: hołdy składane mu przez mieszkańców Mezopotamii, poselstwo od króla Buchtenu i triumfalną podróż bożka Chonsu po kraju Buchten.
 
-W sali tej znajdował się malachitowy posążek Horusa
+W sali tej znajdował się malachitowy posążek Horusa z ptasią głową, ozdobiony złotem i klejnotami, przed nim ołtarz w formie ściętej piramidy, broń królewska, kosztowne fotele i ławki tudzież stoliki zapełnione drobiazgami.
 
 Gdy faraon ukazał się, jeden z obecnych kapłanów spalił przed nim kadzidło, a jeden z urzędników zameldował następcę tronu, który niebawem wszedł i nisko ukłonił się ojcu. Na wyrazistej twarzy księcia było widać gorączkowy niepokój.
 

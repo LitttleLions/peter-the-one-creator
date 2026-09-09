@@ -306,14 +306,24 @@ class GenerateIllustrationTests(unittest.TestCase):
             ("books/peter-i-buch-01/assets/reference/style-01.jpg",),
         )
 
-    def test_existing_image_is_not_overwritten_without_flag(self) -> None:
+    def test_existing_image_blocks_real_run_without_flag(self) -> None:
         book = find_book(self.root, "peter-i-buch-01")
         image_path = gi.output_image_path(book, self.request())
         image_path.parent.mkdir(parents=True)
         image_path.write_bytes(b"old image")
 
         with self.assertRaises(SystemExit):
-            gi.generate_illustration(self.request(), dry_run=True)
+            gi.generate_illustration(self.request(), dry_run=False)
+        self.assertEqual(image_path.read_bytes(), b"old image")
+
+    def test_existing_image_does_not_block_dry_run(self) -> None:
+        book = find_book(self.root, "peter-i-buch-01")
+        image_path = gi.output_image_path(book, self.request())
+        image_path.parent.mkdir(parents=True)
+        image_path.write_bytes(b"old image")
+
+        gi.generate_illustration(self.request(), dry_run=True)
+        self.assertEqual(image_path.read_bytes(), b"old image")
 
     def test_moodboard_cli_backend_blocks_and_keeps_prompt_files(self) -> None:
         request = self.request(

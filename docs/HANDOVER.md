@@ -8,7 +8,7 @@
 | Item | Wert |
 |------|------|
 | Aktiver Branch | `main` (tracking `origin/main`) |
-| Tip (inhaltlich) | `af6873c` Top-5-Buchpakete; danach am 2026-09-13 Fixes: Status-Drift (193 Kapitel), `style_mode`-Abgleich, Phantom-Kapitel in `chapter_ids()`, Peter-I-Artefakte nach `work/legacy/`, Doku |
+| Tip (inhaltlich) | `af6873c` Top-5-Buchpakete; danach am 2026-09-13 Fixes: Status-Drift (verlustfrei, 390 Kapitel), `style_mode`-Abgleich, Phantom-Kapitel in `chapter_ids()`, Peter-I-Artefakte nach `work/legacy/`, Doku |
 | Davor auf main | `6588800` (Titelsuche + Rangliste-45 als Vorlage); davor `a7c8c34` (Merge: FastAPI-Dashboard, Regal-Website, HANDOVER), `b376f5c`, `de91155` |
 | Feature-Branch | `codex/geheime-geschichte-mongolen-prompts` – Inhalt ist in `main` enthalten; Branch kann später gelöscht werden |
 | Arbeitsbaum (10.09.2026) | clean bis auf lokale Reste: `staging/` (jetzt in `.gitignore` ausgenommen) und `books/leben-arsenjews/work/cover.png` (Platzhalter) |
@@ -156,8 +156,18 @@ nach (`aelita` `stil-01-original` vs. `book.yaml` `stil-03-branderson`, `leben-a
 angeglichen (5 Pakete, ueber `load_state`/`save_state`); `status.py` selbst hat fuer
 dieses Feld keinen Schreibbefehl.
 
-**Behoben 2026-09-13:** 193 Kapitel per `status.py mark … done` auf `done` gesetzt –
-`aelita` 30/30, `leben-arsenjews` 104/104, `pharao` 69/69 (jeweils 100 %).
+**Behoben 2026-09-13 (verlustfrei):** Alle Kapitel mit vollstaendigen DE-Szenen im
+Default-Style haben jetzt den Endstatus. Ergebnis: `aelita` 30/30 (29 done, 1 review),
+`leben-arsenjews` 104/104 (50 done, 54 review), `pharao` 69/69, `peter-i-buch-01` 18/18
+(11 done, 7 review), `feuriger-engel` 16/16, `anna-karenina` 166/239 (73 offen),
+`geheime-geschichte-mongolen` 14/15, `die-dritte-chronik` 48/48 (war schon konsistent).
+Summe: 390 Kapitel auf `done`, 62 auf `needs_review`.
+
+**Warnung aus diesem Fix:** `status.py mark <nnn> done` setzt `needs_review=false`,
+`words_target=0` und `completed_at=<jetzt>`. Fuer das Nachreparieren bereits fertiger
+Kapitel daher die Bibliotheks-API (`lib/status_manager.load_state`/`save_state`) nutzen und
+die Review-Marker stehen lassen – sonst gehen Metadaten verloren. Der erste Anlauf wurde
+genau deshalb am 2026-09-13 zurueckgerollt und aus der Git-Historie restauriert.
 
 ### 2. Default-Style weicht vom Arbeits-Style ab (Doppeluebersetzungsgefahr)
 
@@ -210,7 +220,7 @@ Strukturmerkmal „Ordner ohne direkte `scene-*.md`“. Regressionstests in
 
 ### Fixes zu diesen Befunden (alle umgesetzt 2026-09-13)
 
-1. Status-Reparatur: 193 Kapitel via `status.py mark … done` (aelita 30, leben-arsenjews 104, pharao 59)
+1. Status-Reparatur: dateibasiert und verlustfrei gesetzt – 390 Kapitel `done`, 62 `needs_review`; Metadaten aus der Git-Historie restauriert
 2. `style_mode`: `book.yaml` von peter-i, feuriger-engel und anna auf `stil-02-poetisch`; `status.json.style_mode` in 5 Paketen angeglichen
 3. Phantom-Kapitel bei `source_lang == target_lang`: `chapter_ids()` ueberspringt Style-Ordner (+ Regressionstests in `tests/test_workbench_state.py`)
 4. Peter-I-Artefakte nach `work/legacy/style-artefakte-20260913/` verschoben (65 Dateien, README dort)

@@ -1,0 +1,54 @@
+# ============================================================
+# Marketingexport: Marke, Zeitplan und Plattformlimits (global)
+# ============================================================
+# Buchlokale Angaben stehen als top-level Block `marketing:` in
+# books/<book-id>/export.yaml (Amazon-Link, Kampagnenstart, Songs,
+# YouTube-Adresse, optionale Bildzuordnung).
+#
+# Dieser Export erzeugt Texte und ein Kampagnenmanifest. Er veroeffentlicht
+# nichts und spricht keine Plattform-API an.
+
+brand:
+  label: Motivatier Classics
+  publisher: Motivatier Hermann Stiftung
+  shelf_url: https://stiftung.motivatier.de/classics/index.html
+  shelf_intro: Weitere Buecher von Motivatier Classics
+
+# Relative Termine. Absolute Termine entstehen nur, wenn im Buch ein
+# marketing.campaign_start gesetzt ist (ISO 8601, Zeitzone Europe/Berlin).
+schedule:
+  timezone: Europe/Berlin
+  offsets:
+    x-t0-intro: 0
+    x-t1-song: 1
+    x-t2-youtube: 2
+    yt-main: 2
+    yt-short-1: 3
+    x-t5-content: 5
+    x-t8-sample: 8
+    yt-short-2: 10
+    x-t12-second-angle: 12
+
+# Zentrale Plattformlimits. `weighted` meint die konservative Naeherung aus
+# tools/lib/marketing_campaign.py (siehe docs/marketing-export.md):
+# URLs zaehlen als 23 Zeichen, breite/CJK/Emoji-Zeichen als 2.
+limits:
+  x_weighted_chars: 280
+  x_target_min: 220
+  x_target_max: 250
+  url_weight: 23
+  youtube_title_chars: 100
+  youtube_description_chars: 5000
+  youtube_short_title_chars: 100
+  youtube_short_description_chars: 5000
+
+# Echte Leseprobe fuer den Beitrag "Besonderheit der Ausgabe".
+sample:
+  max_chars: 320
+  min_chars: 120
+
+# Lesezeichen fuer die Themenzuordnung von Kapitelbildern.
+media:
+  # Mindestwortlaenge fuer den Keyword-Vergleich Beitrag <-> Kapiteltext
+  min_word_length: 6
+  keywords_per_post: 12

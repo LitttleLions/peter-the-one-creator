@@ -60,6 +60,15 @@ Katalog neu bauen: `python tools/build_shelf_website.py` → `webpage/public/dat
 ## Dashboard
 
 - Start: `python tools/start_dashboard.py` oder `Dev-Start.cmd` / `dev.cmd`
+- **Uebersetzungslaeufe laufen ueber das Dashboard** (Buch, Style, Kapitel/Scope,
+  Provider); es benutzt dieselben `book.yaml`-Defaults (Modell,
+  `ai.reasoning_effort`) und schreibt dieselben Szenen/Status wie die CLI.
+- **Erster Start in dieser Umgebung (13.09.2026 geprueft):** `fastapi`/`uvicorn`
+  fehlen im globalen Python 3.13 (`import fastapi` schlaegt fehl) und
+  `webapp/frontend/node_modules` fehlt. Vorher einmalig
+  `pip install -r requirements.txt` und `npm install` in `webapp/frontend/`
+  (Node v22.22.2 / npm 10.9.7 sind vorhanden). Derselbe Grund erklaert den
+  bekannten Fehler `test_backend_api` in der Testsuite – kein Regressionssignal.
 - URL: http://127.0.0.1:8000
 - Unter Windows nutzt `start_dashboard.py` `npm.cmd` für Frontend-Builds
 - Nav **Website** (`/website`): Freigabe-Übersicht, Jobs „Katalog neu bauen“ / „Website-Build (dist)“

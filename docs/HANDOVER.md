@@ -1,4 +1,4 @@
-# Handover – Stand 2026-09-10 (Top-5-Anlage: 4/5 Roh-Anlage fertig, Metadaten komplett, noch uncommittet)
+# Handover – Stand 2026-09-10 (Top-5-Anlage: 4 Buchpakete auf `main`, Roh-Anlage 0 %)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei,
 > bei Bedarf [README.md](../README.md) und [webpage/README.md](../webpage/README.md).
@@ -8,14 +8,14 @@
 | Item | Wert |
 |------|------|
 | Aktiver Branch | `main` (tracking `origin/main`) |
-| Tip (committet) | `6588800` – Motivatier-Classics Titelsuche + Rangliste-45 als Vorlage; dry-run-Testfix |
+| Tip (committet) | `af6873c` – Top-5-Buchpakete (Kuprin/Grin/Pissemski), roemische Kapitelziffern (Глава I/X), Regressionstests, Doku-Sync; davor `6588800` (Titelsuche + Rangliste-45 als Vorlage) |
 | Davor auf main | `a7c8c34` (Merge origin/main: FastAPI-Dashboard, Regal-Website, HANDOVER), `b376f5c`, `de91155` (Shelf-Website + Dashboard-Website-Controls) |
 | Feature-Branch | `codex/geheime-geschichte-mongolen-prompts` – Inhalt ist in `main` enthalten; Branch kann später gelöscht werden |
-| Uncommittet (10.09.2026) | `M docs/HANDOVER.md`, `M tools/extract_chapters.py`, `M tools/lib/rtf_parser.py` (Глава-I/X-Fix); `?? books/kuprin-duell/`, `books/kuprin-moloch/`, `books/grin-wellenlaeuferin/`, `books/pissemski-tausend-seelen/`, `staging/` |
+| Arbeitsbaum (10.09.2026) | clean bis auf lokale Reste: `staging/` (jetzt in `.gitignore` ausgenommen) und `books/leben-arsenjews/work/cover.png` (Platzhalter) |
 
 **Warnung (schon passiert):** Checkout auf ein altes `main` ohne die Codex-Commits ließ Buchordner als leere Hüllen zurück. Nicht blind zwischen Branches wechseln, ohne vorher zu prüfen, ob `books/*/book.yaml` noch da sind.
 
-Lokaler Rest (nicht committed): 4 neue Top-5-Buchpakete (s. unten, alle Roh-Anlage 0 %), Tool-Fix Глава-I/X, `staging/conv5.py + staging/top5-quellen/` (Arbeitsmüll, vor Commit löschen/ignorieren). `books/leben-arsenjews/work/cover.png` (Platzhalter) optional löschen oder ignorieren. Nachgezogen (09/2026): `website:`-Block der 4 Neuen von `book:` auf top-level korrigiert; AGENTS.md/README auf 12 Pakete und Tip `6588800` aktualisiert.
+Committet (09/2026): 4 Top-5-Buchpakete (s. unten, alle Roh-Anlage 0 %), Tool-Fix Глава-I/X, `website:`-Block der neuen Pakete von `book:` auf top-level korrigiert, Regressionstests, Doku-Sync auf 12 Pakete. Lokal geblieben: `staging/conv5.py + staging/top5-quellen/` (Arbeitsmüll, jetzt via `.gitignore` ausgenommen) und `books/leben-arsenjews/work/cover.png` (Platzhalter).
 
 ## Was das Repo ist
 
@@ -88,7 +88,7 @@ Katalog neu bauen: `python tools/build_shelf_website.py` → `webpage/public/dat
 - Cover unter `assets/covers/` (nicht nur `work/cover.png`)
 - Stil aktiv oft `stil-02-poetisch`; Übersetzung noch unvollständig (viele Kapitel fehlen)
 
-### Top-5-Anlage 09/2026 (uncommittet)
+### Top-5-Anlage 09/2026 (auf `main`)
 
 Vier neue Roh-Pakete, alle `structure.mode: chapter_as_scene`, Default
 `stil-01-original`, `website.enabled: false` / `sort_order: 40`:
@@ -101,13 +101,14 @@ Vier neue Roh-Pakete, alle `structure.mode: chapter_as_scene`, Default
 | `pissemski-tausend-seelen` | Tausend Seelen (Pissemski) | 44 in 4 Teilen | fehlt |
 
 - Stand: Kapitelquellen extrahiert, `work/scenes/de/` leer (0 %), Status `pending`
-- Tool-Fix (uncommittet): `Глава I` / `Глава X` (römische Ziffern,
-  case-insensitive) in `tools/extract_chapters.py` + `tools/lib/rtf_parser.py`;
-  Regressionstest in `tests/test_extract_chapters.py` fehlt noch
+- Tool-Fix: `Глава I` / `Глава X` (römische Ziffern, case-insensitive) in
+  `tools/extract_chapters.py` + `tools/lib/rtf_parser.py`; Regressionstests in
+  `tests/test_extract_chapters.py` (5 Tests grün)
 - `website:`-Block lag eingerückt unter `book:` und wurde auf top-level
   gezogen. Generator und Dashboard lesen nur top-level (siehe AGENTS.md,
   Abschnitt Export); das Dashboard hätte sonst einen zweiten Block angehängt
-- `staging/` (`conv5.py`, `top5-quellen/`) ist Arbeitsmüll, nicht in `.gitignore`
+- `staging/` (`conv5.py`, `top5-quellen/`) ist Arbeitsmüll und seit 09/2026 via
+  `.gitignore` ausgenommen (lokal gefahrlos löschbar)
 - Auswahlgrundlage: `docs/Motivatier-Classics-Umsetzungsrangliste-45.md`,
   Titelsuche: `docs/Motivatier-Classics-Titelsuche-2026-09-08.md`
 
@@ -128,7 +129,7 @@ Higgsfield: [docs/higgsfield-integration.md](higgsfield-integration.md). Web-UI-
 ## Sinnvolle nächste Schritte
 
 1. Top-5-Pakete: Covers für Moloch/Wellenläuferin/Tausend Seelen; `extract_scenes.py --all`; Start mit `translate_batch.py --missing`
-2. Uncommitteten Stand sichern: Tool-Fix + Regressionstest + 4 Pakete committen (`staging/` vorher ignorieren oder löschen)
+2. Regal-Freigabe nach den Covers (`website.enabled: true`, `sort_order` 41–43); `staging/` kann lokal gelöscht werden
 3. Geheime Geschichte: Legacy-DE-Monolithe beiseite legen; 006 abschnittsweise stil-04
 4. Dritte Chronik: fehlende Kapitelbilder; Leser-EPUB prüfen
 5. Regal: Amazon-URLs setzen; optional Mint-Hardcover-GLBs; Deploy von `webpage/dist/`

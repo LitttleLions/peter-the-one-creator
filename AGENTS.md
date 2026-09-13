@@ -288,7 +288,7 @@ rueckwaertskompatibel bei DOCX+EPUB.
 ## Aktueller Stand
 
 Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**
-(Stand 2026-09-10). Branch: `main` @ `6588800` (= `origin/main`).
+(Stand 2026-09-10). Branch: `main` @ `af6873c` (= `origin/main`).
 
 - Buchpakete sind fuehrend; alte zentrale `config/books.yaml` und
   `config/export.yaml` liegen unter `config/legacy/`.
@@ -313,7 +313,7 @@ Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER
 - **Higgsfield / Bilder:** `config/higgsfield_models.yaml`, Dashboard-Dropdown,
   Asset-Optimierung `optimize_asset_images.py`. Web-UI-Moodboards nur manuell.
   Details: `docs/higgsfield-integration.md`.
-- **Top-5-Anlage 09/2026** (noch uncommittet, Roh-Anlage 0 %):
+- **Top-5-Anlage 09/2026** (auf `main`, Roh-Anlage 0 %):
   `books/kuprin-duell/`, `books/kuprin-moloch/`,
   `books/grin-wellenlaeuferin/`, `books/pissemski-tausend-seelen/`.
   Kapitelquellen und Metadaten stehen, DE-Szenen fehlen komplett. Der

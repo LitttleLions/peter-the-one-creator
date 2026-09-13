@@ -92,8 +92,8 @@ Aktuelle Pakete (12):
 - `books/grin-wellenlaeuferin/`
 - `books/pissemski-tausend-seelen/`
 
-Die vier letzten Pakete sind Roh-Anlagen (09/2026, noch uncommittet, 0 %
-uebersetzt); Quelle, Metadaten und Kapitelquellen stehen bereits.
+Die vier letzten Pakete sind Roh-Anlagen (09/2026, 0 % uebersetzt); Quelle,
+Metadaten und Kapitelquellen stehen bereits.
 
 Alte zentrale Dateien aus der vorherigen Struktur liegen unter
 `config/legacy/`. Neue Tools lesen `books/*/book.yaml`, nicht mehr

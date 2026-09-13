@@ -8,8 +8,8 @@
 | Item | Wert |
 |------|------|
 | Aktiver Branch | `main` (tracking `origin/main`) |
-| Tip (committet) | `af6873c` – Top-5-Buchpakete (Kuprin/Grin/Pissemski), roemische Kapitelziffern (Глава I/X), Regressionstests, Doku-Sync; davor `6588800` (Titelsuche + Rangliste-45 als Vorlage) |
-| Davor auf main | `a7c8c34` (Merge origin/main: FastAPI-Dashboard, Regal-Website, HANDOVER), `b376f5c`, `de91155` (Shelf-Website + Dashboard-Website-Controls) |
+| Tip (inhaltlich) | `af6873c` – Top-5-Buchpakete (Kuprin/Grin/Pissemski), roemische Kapitelziffern (Глава I/X), Regressionstests, Doku-Sync; danach folgen nur Doku-Nachzuege |
+| Davor auf main | `6588800` (Titelsuche + Rangliste-45 als Vorlage); davor `a7c8c34` (Merge: FastAPI-Dashboard, Regal-Website, HANDOVER), `b376f5c`, `de91155` |
 | Feature-Branch | `codex/geheime-geschichte-mongolen-prompts` – Inhalt ist in `main` enthalten; Branch kann später gelöscht werden |
 | Arbeitsbaum (10.09.2026) | clean bis auf lokale Reste: `staging/` (jetzt in `.gitignore` ausgenommen) und `books/leben-arsenjews/work/cover.png` (Platzhalter) |
 

@@ -288,7 +288,8 @@ rueckwaertskompatibel bei DOCX+EPUB.
 ## Aktueller Stand
 
 Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**
-(Stand 2026-09-10). Branch: `main` @ `af6873c` (= `origin/main`).
+(Stand 2026-09-10). Branch: `main` (= `origin/main`); inhaltlicher Stand `af6873c`,
+danach folgen nur Doku-Nachzuege.
 
 - Buchpakete sind fuehrend; alte zentrale `config/books.yaml` und
   `config/export.yaml` liegen unter `config/legacy/`.

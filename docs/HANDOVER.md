@@ -39,7 +39,9 @@ Buchzentrierte Übersetzungs-/Export-Werkbank (`books/<id>/`). Dashboard = FastA
 | `pissemski-tausend-seelen` | Tausend Seelen | stil-01-original | 40 (nicht freigegeben) | `cover.png` (neu 09/2026) |
 
 Die neuen Cover sind von Hand erstellte Hochformat-PNGs (688×1024, Regal nutzt
-`object-fit: cover`); Vorgaenger wurden als `coverII.*` behalten. Die
+`object-fit: cover`); Vorgaenger wurden als `coverII.*` behalten. **Entscheidung
+2026-09-13:** EPUB-first – 688×1024 reicht (auch fuer die Amazon-Auslieferung),
+ein hoeher aufgeloestes Print-Cover wird erst fuer KDP-Paperback gebraucht. Die
 Regal-Kopien unter `webpage/public/covers/` sind fuer `aelita` und
 `geheime-geschichte-mongolen` noch die alten Bilder – nach der finalen
 Cover-Wahl `python tools/build_shelf_website.py` laufen lassen.
@@ -279,7 +281,7 @@ Higgsfield: [docs/higgsfield-integration.md](higgsfield-integration.md). Web-UI-
 
 ## Sinnvolle nächste Schritte
 
-1. Top-5-Pakete: Style bestätigen; Start dann mit `translate_batch.py --missing --style stil-01-original --auto-status --assemble-after` (ohne `--auto-status` bleibt `status.json` auf `pending` und es entsteht Status-Drift)
+1. Top-5-Pakete: Style bestätigen; **Pilotlauf** `tools/translate_chapter.py --book kuprin-moloch --chapter 001 --style stil-01-original --provider openrouter` (kleinstes Kapitel: 1061 RU-Woerter, 1 Call, ca. 8k Tokens), danach `assemble_chapter.py` + `export_manuscript.py --scope chapter --chapter 001 --style stil-01-original --format epub`; erst dann der Batch `translate_batch.py --missing --style stil-01-original --auto-status --assemble-after` (ohne `--auto-status` bleibt `status.json` auf `pending` → Status-Drift)
 2. Regal-Freigabe nach der finalen Cover-Wahl (`website.enabled: true`, `sort_order` 41–43; `kuprin-duell` behält 40), danach `python tools/build_shelf_website.py` – die Handcover sind seit `0162ef9` im Repo, die Regal-Kopien fuer aelita/mongolen aber noch alt. Cover entstehen weiter von Hand (kein CLI-Weg: `generate_illustration.py` kennt nur `--kind scene|chapter`)
 3. Anna Karenina: 73 offene Kapitel (167–239) in `stil-02-poetisch` – Default-Style ist jetzt korrekt gesetzt
 4. Geheime Geschichte: 14 Monolith-Kapitel abschnittsweise in `stil-04-original-geheim` (000, 001–005, 007–013 = 284 Szenen) plus Szene 07 in 014; Kapitel 006 ist dateiseitig fertig und wartet nur auf Review

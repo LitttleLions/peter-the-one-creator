@@ -1,0 +1,51 @@
+id: kuprin-duell
+title: Das Duell
+author: Alexander Iwanowitsch Kuprin
+source_path: source/Kuprin - Das Duell - ru.html
+source_lang: ru
+target_lang: de
+ruleset_path: ''
+ruleset_apply: false
+style_mode: stil-01-original
+work_dir: work
+exports_dir: exports
+status_file: status/status.json
+log_dir: status/logs
+styles_dir: styles
+assets_dir: assets
+names_file: names.yaml
+illustration_setting: >-
+  Tsarist Russian garrison town around 1905, provincial military life.
+  Cinematic literary historical illustration, elegant realism, painterly detail,
+  atmospheric light. Young infantry officer, barracks yard, parade ground,
+  dusk drills, cramped lodgings. Muted palette: dust, khaki, faded green,
+  brass, evening blue. Historically grounded, emotionally intelligent.
+structure:
+  mode: chapter_as_scene
+  label: Kapitel als Szenen
+  groups: []
+display:
+  chapters:
+    format: words_de
+    suffix: ' Kapitel'
+    align: center
+    include_source_title: false
+  scenes:
+    show: false
+naming_convention:
+  style: Deutsche Transliteration russischer Namen nach Duden-Ueblichkeit.
+  example:
+  - Ромашов -> Romaschow
+  - Николаев -> Nikolajew
+  - Шурочка -> Schurotschka
+  - Назанский -> Nasanski
+notes: >-
+  Buchpaket fuer Alexander Iwanowitsch Kuprin, Das Duell (Поединок).
+  Textgrundlage: A. I. Kuprin, Sobranije sotschineni in 9 Baenden, Bd. 4
+  (Moskau 1971), S. 7-218. Quelle: az.lib.ru Volltext, bereinigt nach UTF-8.
+ai:
+  provider: openrouter
+  model: deepseek/deepseek-v4-flash
+  granularity: scene
+  max_tokens_per_scene: 10000
+  chunk_char_limit: 12000

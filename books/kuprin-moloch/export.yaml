@@ -1,0 +1,120 @@
+defaults:
+  language: de-DE
+  publisher: ''
+  rights: ''
+  description: ''
+  cover:
+    mode: placeholder
+    image_path: ''
+    background: '#f59e0b'
+    foreground: '#ffffff'
+  front_matter:
+    cover_in_body: true
+    title_page: true
+    summary_page: true
+    author_bio_page: true
+    description_page: true
+    imprint_page: true
+    toc_page: false
+    combined_epub_front_matter: false
+    combined_heading: Titelei
+    title_heading: Titelseite
+    summary_heading: Zusammenfassung
+    author_bio_heading: Leben des Autors
+    description_heading: Zu dieser Ausgabe
+    imprint_heading: Impressum
+    toc_heading: Inhalt
+  output:
+    page_break_before_chapter: true
+    chapter_headings: true
+    scene_numbers: false
+    strip_control_metadata: true
+    scene_separator: '* * *'
+  illustrations:
+    enabled: true
+    chapter_images: true
+    scene_images: true
+    chapter_page_break_after_image: true
+    scene_page_break_after_image: false
+book:
+  title: Der Moloch
+  subtitle: Ein Industrieroman aus dem Donezbecken über Macht, Gewissen und Verblendung
+  author: Alexander Iwanowitsch Kuprin
+  translator: Motivatier Classics
+  translator_label: Übersetzung und editorische Einrichtung
+  language: de-DE
+  publisher: Motivatier Hermann Stiftung
+  rights: © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung,
+    editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.
+  original_title: Молох
+  original_author: Alexander Iwanowitsch Kuprin (1870–1938)
+  source_title: Молох
+  source_author: Александр Иванович Куприн
+  source_translator: Keine; Grundlage ist der russische Originaltext.
+  source_note: Textgrundlage Edition 1971 wie in der Quelle genannt.
+  description: >-
+    Kuprins Industrieroman um einen jungen Ingenieur zwischen Fabriksystem,
+    Karriereversprechen und innerem Widerstand. Neue deutsche Ausgabe
+    nach dem russischen Original, KI-gestützt übersetzt und redaktionell
+    geprüft.
+  summary: |
+    „Der Moloch“ folgt dem jungen Ingenieur Andrei Bobrow in ein
+    Stahlwerksimperium im Donezbecken der 1890er Jahre: zwischen Hochöfen,
+    Nachtschichten, Direktionsvilla und Ballsaal erlebt er, wie Arbeit,
+    Technik und Kapital den Menschen formen und verbrauchen.
+
+    Kuprin schildert die Fabrik als lebendigen Organismus aus Feuer, Lärm
+    und Abhängigkeit: Der Werksbesitzer Kwaschnin verkörpert Macht und
+    Charme, die junge Nina steht für Nähe und mögliche Rettung, Kollegen
+    wie Sweschewski oder Sinenko für Anpassung und Zynismus. Im Zentrum
+    bleibt Bobrows Gewissensfrage, ob sich ein anständiges Leben im
+    Dienst eines unersättlichen Systems führen lässt.
+
+    Die Erzählung von 1896 gehört zu Kuprins frühesten großen Würfen und
+    zeigt bereits seine plastische Milieuschilderung und psychologische
+    Genauigkeit. Der Titel ist Programm: Der Moloch frisst Kraft, Zeit
+    und Moral — und verlangt vom Einzelnen eine Entscheidung.
+  author_bio: |
+    Alexander Iwanowitsch Kuprin (1870–1938) war ein russischer Erzähler,
+    berühmt für plastische Milieuschilderung und psychologische Genauigkeit.
+    Nach Kadetten- und Militärdienstzeit arbeitete er in zahlreichen Berufen
+    und als Journalist.
+
+    Zu seinen wichtigsten Werken zählen „Der Moloch“ (1896), „Olesja“,
+    „Die Grube“ und „Das Duell“ (1905). Nach der Emigration (1919–1937,
+    v. a. Paris) kehrte er kurz vor seinem Tod nach Russland zurück.
+    „Der Moloch“ gilt als sein stärkster früher Industrie- und
+    Gesellschaftstext.
+  title_page_extra:
+  - 'Originaltitel: Молох'
+  - 'Originalautor: Alexander Iwanowitsch Kuprin (1870–1938)'
+  - Diese Ausgabe ist eine neue deutsche Ausgabe nach dem russischen gemeinfreien Original.
+  - Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft.
+  - Herausgegeben von der Motivatier Hermann Stiftung
+  imprint_text: |
+    Der Moloch
+
+    Alexander Iwanowitsch Kuprin
+
+    Ein Industrieroman aus dem Donezbecken über Macht, Gewissen und Verblendung
+
+    Originaltitel: Молох
+    Originalautor: Alexander Iwanowitsch Kuprin (1870–1938)
+
+    Diese Ausgabe ist eine neue deutsche Übersetzung aus dem russischen Original. Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft.
+
+    Herausgegeben von der Motivatier Hermann Stiftung
+    Übersetzung und editorische Einrichtung: Motivatier Classics
+
+    © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.
+
+    Das russische Originalwerk ist gemeinfrei. Rechte an dieser Ausgabe bestehen, soweit sie die neue deutsche Übersetzung, die redaktionellen Ergänzungen, die Gestaltung, das Cover und die konkrete Einrichtung des Textes betreffen.
+
+    Alle Rechte an dieser Ausgabe vorbehalten.
+  cover:
+    mode: placeholder
+    image_path: ''
+website:
+  enabled: false
+  amazon_url: ''
+  sort_order: 40

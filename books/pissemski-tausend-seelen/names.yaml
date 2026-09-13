@@ -1,0 +1,62 @@
+entries:
+- source: Калинович
+  target: Kalinowitsch
+  aliases: []
+  type: person
+  status: draft
+  note: Jakow Kalinowitsch, Beamter, Hauptfigur
+- source: Настенька
+  target: Nastjenka
+  aliases: []
+  type: person
+  status: draft
+  note: Tochter Godnews, Werbung Kalinowitschs
+- source: Петр Михайлыч Годнев
+  target: Pjotr Michailytsch Godnew
+  aliases:
+  - Годнев
+  type: person
+  status: draft
+  note: Vater Nastjenkas, Beamter
+- source: Полина
+  target: Polina
+  aliases: []
+  type: person
+  status: draft
+  note: Nebenfigur
+- source: Белавин
+  target: Belawin
+  aliases: []
+  type: person
+  status: draft
+  note: Goenner, Systemfigur
+- source: Князь
+  target: Fuerst
+  aliases: []
+  type: person
+  status: draft
+  note: Systemfigur Einfluss und Protektion
+- source: Палагея Евграфовна
+  target: Pelageja Jewgrafowna
+  aliases: []
+  type: person
+  status: draft
+  note: Wirtschafterin bei Godnew
+- source: Яков Васильич
+  target: Jakow Wassiljitsch
+  aliases: []
+  type: person
+  status: draft
+  note: Nebenfigur
+- source: Медиокритский
+  target: Mediokritski
+  aliases: []
+  type: person
+  status: draft
+  note: Nebenfigur Beamtenschaft
+- source: Тысяча душ
+  target: Tausend Seelen
+  aliases: []
+  type: work
+  status: draft
+  note: Originaltitel

@@ -1,0 +1,68 @@
+entries:
+- source: Гарвей
+  target: Garwei
+  aliases: []
+  type: person
+  status: draft
+  note: Thomas Garwei, Suchender, Hauptfigur
+- source: Дэзи
+  target: Desi
+  aliases: []
+  type: person
+  status: draft
+  note: Steht fuer Halt
+- source: Биче Сениэль
+  target: Bitsche Seniel
+  aliases:
+  - Биче
+  type: person
+  status: draft
+  note: Steht fuer Aufbruch
+- source: Гез
+  target: Ges
+  aliases: []
+  type: person
+  status: draft
+  note: Kapitaen, Streit mit Garwei
+- source: Бутлер
+  target: Butler
+  aliases: []
+  type: person
+  status: draft
+  note: Nebenfigur Bord und Hafen
+- source: Филатр
+  target: Filatr
+  aliases: []
+  type: person
+  status: draft
+  note: Arzt in Liss
+- source: Синкрайт
+  target: Sinkrait
+  aliases: []
+  type: person
+  status: draft
+  note: Nebenfigur
+- source: Проктор
+  target: Proktor
+  aliases: []
+  type: person
+  status: draft
+  note: Nebenfigur
+- source: Тоббоган
+  target: Toboggan
+  aliases: []
+  type: person
+  status: draft
+  note: Nebenfigur
+- source: Фрези Грант
+  target: Fresi Grant
+  aliases: []
+  type: person
+  status: draft
+  note: Erscheinung auf den Wellen
+- source: Бегущая по волнам
+  target: Die Wellenläuferin
+  aliases: []
+  type: work
+  status: draft
+  note: Originaltitel

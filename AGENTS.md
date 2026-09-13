@@ -18,7 +18,7 @@ KIs bearbeitet wird und eine lokale Memory Bank dadurch schnell veraltet
 bzw. widerspruechlich waere. Massgeblicher Kontext sind AGENTS.md, README.md,
 `docs/HANDOVER.md` sowie die buchlokalen `book.yaml`- und `export.yaml`-Dateien.
 
-Aktuelle Buchpakete:
+Aktuelle Buchpakete (12):
 
 - `books/peter-i-buch-01/` - Alexei Tolstoi, Peter der Erste
 - `books/anna-karenina/` - Lew Tolstoi, Anna Karenina
@@ -28,6 +28,10 @@ Aktuelle Buchpakete:
 - `books/geheime-geschichte-mongolen/` - Anonym, Die Geheime Geschichte der Mongolen
 - `books/aelita/` - Alexei Tolstoi, Aelita (in Vorbereitung)
 - `books/die-dritte-chronik/` - Motivatier, Die dritte Chronik (DE-Original)
+- `books/kuprin-duell/` - Alexander Kuprin, Das Duell (Roh-Anlage 09/2026)
+- `books/kuprin-moloch/` - Alexander Kuprin, Der Moloch (Roh-Anlage 09/2026)
+- `books/grin-wellenlaeuferin/` - Alexander Grin, Die Wellenlaeuferin (Roh-Anlage 09/2026)
+- `books/pissemski-tausend-seelen/` - Alexei Pissemski, Tausend Seelen (Roh-Anlage 09/2026)
 
 ## Buchpaket-Struktur
 
@@ -270,13 +274,21 @@ optimieren“. Erkannte Moodboards und der Discovery-Workflow sind in
 Standardfolge fuer Leserexporte: Coverbild, Titelseite, Zusammenfassung,
 Leben des Autors, dann Textbeginn mit Teil-/Buchgruppe und Kapiteln.
 
+Die Regal-Freigabe steht als **top-level** `website:`-Block in
+`books/<id>/export.yaml` (`enabled`, `amazon_url`, `sort_order`).
+`tools/build_shelf_website.py` (`website_config()`) und
+`tools/lib/workbench_api.py` (`load_website_settings()`) lesen
+ausschliesslich diesen top-level Block. Ein eingeruecktes `website:` unter
+`book:` ist toter Code; das Dashboard haengt beim Speichern dann einen
+zweiten top-level Block an (`_write_website_settings_preserving_yaml`).
+
 PDF wird explizit mit `--format pdf` erzeugt. `--format all` bleibt
 rueckwaertskompatibel bei DOCX+EPUB.
 
 ## Aktueller Stand
 
 Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**
-(Stand 2026-07-28). Branch: `main` @ `de91155` (= `origin/main`).
+(Stand 2026-09-10). Branch: `main` @ `6588800` (= `origin/main`).
 
 - Buchpakete sind fuehrend; alte zentrale `config/books.yaml` und
   `config/export.yaml` liegen unter `config/legacy/`.
@@ -301,6 +313,12 @@ Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER
 - **Higgsfield / Bilder:** `config/higgsfield_models.yaml`, Dashboard-Dropdown,
   Asset-Optimierung `optimize_asset_images.py`. Web-UI-Moodboards nur manuell.
   Details: `docs/higgsfield-integration.md`.
+- **Top-5-Anlage 09/2026** (noch uncommittet, Roh-Anlage 0 %):
+  `books/kuprin-duell/`, `books/kuprin-moloch/`,
+  `books/grin-wellenlaeuferin/`, `books/pissemski-tausend-seelen/`.
+  Kapitelquellen und Metadaten stehen, DE-Szenen fehlen komplett. Der
+  `website:`-Block wurde von `book:` auf top-level korrigiert. Auswahlvorlage:
+  `docs/Motivatier-Classics-Umsetzungsrangliste-45.md`.
 - **Noch offen (Prioritaet):** siehe `docs/HANDOVER.md` – Mongolen Legacy-DE /
-  stil-04 Kap. 006; Chronik-Bilder; Regal Amazon-URLs / Deploy; optional
-  Mint-GLBs.
+  stil-04 Kap. 006; Chronik-Bilder; Top-5-Pakete (Covers, Szenen, Start der
+  Uebersetzung); Regal Amazon-URLs / Deploy; optional Mint-GLBs.

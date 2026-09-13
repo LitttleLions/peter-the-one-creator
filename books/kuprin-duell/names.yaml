@@ -1,0 +1,37 @@
+entries:
+- source: Ромашов
+  target: Romaschow
+  aliases: []
+  type: person
+  status: draft
+  note: Georgi Romaschow, Subalternoffizier, Hauptfigur
+- source: Николаев
+  target: Nikolajew
+  aliases: []
+  type: person
+  status: draft
+  note: Offizier
+- source: Шурочка
+  target: Schurotschka
+  aliases: []
+  type: person
+  status: draft
+  note: Alexandra Nikolajewa, Koseform
+- source: Назанский
+  target: Nasanski
+  aliases: []
+  type: person
+  status: draft
+  note: Offizier, Freund Romaschows
+- source: Хлебников
+  target: Chlebnikow
+  aliases: []
+  type: person
+  status: draft
+  note: Soldat
+- source: Поединок
+  target: Das Duell
+  aliases: []
+  type: work
+  status: draft
+  note: Originaltitel

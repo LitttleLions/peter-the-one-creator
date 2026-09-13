@@ -58,12 +58,12 @@ def chapter_slug(idx: int, title: str) -> str:
 
 
 # Pattern für Kapitelüberschriften, die auf der Kapitelebene getrennt werden
-# (Глава 1., Глава вторая, etc.)
+# (Глава 1., Глава I, Глава вторая, etc.)
 CHAPTER_HEADING_RE = re.compile(
     r"^\s*Глава\s+(первая|вторая|третья|четвёртая|четвертая|"
     r"пятая|шестая|седьмая|восьмая|девятая|десятая|"
-    r"\d+)\b",
-    re.UNICODE,
+    r"\d+|[IVXLCDM]+)\b",
+    re.UNICODE | re.IGNORECASE,
 )
 
 

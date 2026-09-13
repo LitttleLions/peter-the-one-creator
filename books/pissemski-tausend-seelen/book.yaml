@@ -1,0 +1,68 @@
+id: pissemski-tausend-seelen
+title: Tausend Seelen
+author: Alexei Feofilaktowitsch Pissemski
+source_path: source/Pissemski - Tausend Seelen - ru.html
+source_lang: ru
+target_lang: de
+ruleset_path: ''
+ruleset_apply: false
+style_mode: stil-01-original
+work_dir: work
+exports_dir: exports
+status_file: status/status.json
+log_dir: status/logs
+styles_dir: styles
+assets_dir: assets
+names_file: names.yaml
+illustration_setting: >-
+  Russian provincial town and Petersburg in the 1850s, bureaucratic society.
+  Cinematic literary historical illustration, elegant realism, painterly detail,
+  interior light and winter streets. Officials, drawing rooms, country estate,
+  young careerist. Palette: candle gold, dark wood, snow grey, uniform green,
+  faded red. Socially observant, emotionally intelligent.
+structure:
+  mode: chapter_as_scene
+  label: Kapitel als Szenen
+  groups:
+  - id: teil-1
+    label: Erster Teil
+    from: '001'
+    to: '009'
+  - id: teil-2
+    label: Zweiter Teil
+    from: '010'
+    to: '018'
+  - id: teil-3
+    label: Dritter Teil
+    from: '019'
+    to: '031'
+  - id: teil-4
+    label: Vierter Teil
+    from: '032'
+    to: '044'
+display:
+  chapters:
+    format: words_de
+    suffix: ' Kapitel'
+    align: center
+    include_source_title: false
+  scenes:
+    show: false
+naming_convention:
+  style: Deutsche Transliteration russischer Namen nach Duden-Ueblichkeit.
+  example:
+  - Калинович -> Kalinowitsch
+  - Настенька -> Nastjenka
+  - Годнев -> Godnew
+  - Белавин -> Belawin
+notes: >-
+  Buchpaket fuer Alexei Feofilaktowitsch Pissemski, Tausend Seelen
+  (Тысяча душ). Datierung laut Recherche: 1858. Textgrundlage: Sobranije
+  sotschineni in 9 Baenden, Bd. 3 (Moskau 1959). Quelle: Volltext,
+  bereinigt nach UTF-8. Roman in vier Teilen.
+ai:
+  provider: openrouter
+  model: deepseek/deepseek-v4-flash
+  granularity: scene
+  max_tokens_per_scene: 10000
+  chunk_char_limit: 12000

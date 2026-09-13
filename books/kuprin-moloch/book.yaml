@@ -1,0 +1,49 @@
+id: kuprin-moloch
+title: Der Moloch
+author: Alexander Iwanowitsch Kuprin
+source_path: source/Kuprin - Der Moloch - ru.html
+source_lang: ru
+target_lang: de
+ruleset_path: ''
+ruleset_apply: false
+style_mode: stil-01-original
+work_dir: work
+exports_dir: exports
+status_file: status/status.json
+log_dir: status/logs
+styles_dir: styles
+assets_dir: assets
+names_file: names.yaml
+illustration_setting: >-
+  Donets industrial basin in the 1890s, Russian steelworks at night.
+  Cinematic literary industrial illustration, elegant realism, painterly detail.
+  Furnaces, smoke, shift workers, young engineer, factory villa and ballroom
+  contrast. Palette: iron black, slag orange, coal smoke, brass, pale morning
+  light. Socially observant, emotionally intelligent.
+structure:
+  mode: chapter_as_scene
+  label: Kapitel als Szenen
+  groups: []
+display:
+  chapters:
+    format: words_de
+    suffix: ' Kapitel'
+    align: center
+    include_source_title: false
+  scenes:
+    show: false
+naming_convention:
+  style: Deutsche Transliteration russischer Namen nach Duden-Ueblichkeit.
+  example:
+  - Бобров -> Bobrow
+  - Молох -> Moloch
+notes: >-
+  Buchpaket fuer Alexander Iwanowitsch Kuprin, Der Moloch (Молох).
+  Textgrundlage: Sobranije sotschineni in 9 Baenden, Bd. 2 (Moskau 1971),
+  S. 71-144. Quelle: az.lib.ru Volltext, bereinigt nach UTF-8.
+ai:
+  provider: openrouter
+  model: deepseek/deepseek-v4-flash
+  granularity: scene
+  max_tokens_per_scene: 10000
+  chunk_char_limit: 12000

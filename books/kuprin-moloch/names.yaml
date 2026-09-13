@@ -1,0 +1,68 @@
+entries:
+- source: Бобров
+  target: Bobrow
+  aliases: []
+  type: person
+  status: draft
+  note: Andrei Iljitsch Bobrow, Ingenieur, Hauptfigur
+- source: Нина
+  target: Nina
+  aliases: []
+  type: person
+  status: draft
+  note: Nina Grigorjewna, Naehe und moegliche Rettung Bobrows
+- source: Квашнин
+  target: Kwaschnin
+  aliases: []
+  type: person
+  status: draft
+  note: Wassili Terentjewitsch Kwaschnin, Werksbesitzer, Macht und Charme
+- source: Свежевский
+  target: Sweschewski
+  aliases: []
+  type: person
+  status: draft
+  note: Kollege, Anpassung und Zynismus
+- source: Зиненко
+  target: Sinenko
+  aliases:
+  - Зиненок
+  type: person
+  status: draft
+  note: Kollege
+- source: Шелковников
+  target: Schelkownikow
+  aliases: []
+  type: person
+  status: draft
+  note: Kollege
+- source: Андреа
+  target: Andrea
+  aliases: []
+  type: person
+  status: draft
+  note: Geliebte aus Bobrows Umfeld
+- source: Митрофан
+  target: Mitrofan
+  aliases: []
+  type: person
+  status: draft
+  note: Nebenfigur Werksumfeld
+- source: Анна Афанасьевна
+  target: Anna Afanassjewna
+  aliases: []
+  type: person
+  status: draft
+  note: Nebenfigur
+- source: Гольдберг
+  target: Goldberg
+  aliases: []
+  type: person
+  status: draft
+  note: Arzt
+- source: Молох
+  target: Der Moloch
+  aliases: []
+  type: work
+  status: draft
+  note: Originaltitel

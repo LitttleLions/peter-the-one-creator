@@ -1,4 +1,4 @@
-# Handover – Stand 2026-07-28
+# Handover – Stand 2026-09-10 (Top-5-Anlage: 4/5 Roh-Anlage fertig, Metadaten komplett, noch uncommittet)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei,
 > bei Bedarf [README.md](../README.md) und [webpage/README.md](../webpage/README.md).
@@ -8,19 +8,20 @@
 | Item | Wert |
 |------|------|
 | Aktiver Branch | `main` (tracking `origin/main`) |
-| Tip | `de91155` – Shelf-Website + Dashboard-Website-Controls |
-| Davor per FF auf main | `150f0c1` / `d8330eb` (Codex: Geheime Geschichte + Dritte Chronik + Tool-/Dashboard-Stand) |
+| Tip (committet) | `6588800` – Motivatier-Classics Titelsuche + Rangliste-45 als Vorlage; dry-run-Testfix |
+| Davor auf main | `a7c8c34` (Merge origin/main: FastAPI-Dashboard, Regal-Website, HANDOVER), `b376f5c`, `de91155` (Shelf-Website + Dashboard-Website-Controls) |
 | Feature-Branch | `codex/geheime-geschichte-mongolen-prompts` – Inhalt ist in `main` enthalten; Branch kann später gelöscht werden |
+| Uncommittet (10.09.2026) | `M docs/HANDOVER.md`, `M tools/extract_chapters.py`, `M tools/lib/rtf_parser.py` (Глава-I/X-Fix); `?? books/kuprin-duell/`, `books/kuprin-moloch/`, `books/grin-wellenlaeuferin/`, `books/pissemski-tausend-seelen/`, `staging/` |
 
 **Warnung (schon passiert):** Checkout auf ein altes `main` ohne die Codex-Commits ließ Buchordner als leere Hüllen zurück. Nicht blind zwischen Branches wechseln, ohne vorher zu prüfen, ob `books/*/book.yaml` noch da sind.
 
-Lokaler Rest (nicht committed): `books/leben-arsenjews/work/cover.png` (Platzhalter). Optional löschen oder ignorieren.
+Lokaler Rest (nicht committed): 4 neue Top-5-Buchpakete (s. unten, alle Roh-Anlage 0 %), Tool-Fix Глава-I/X, `staging/conv5.py + staging/top5-quellen/` (Arbeitsmüll, vor Commit löschen/ignorieren). `books/leben-arsenjews/work/cover.png` (Platzhalter) optional löschen oder ignorieren. Nachgezogen (09/2026): `website:`-Block der 4 Neuen von `book:` auf top-level korrigiert; AGENTS.md/README auf 12 Pakete und Tip `6588800` aktualisiert.
 
 ## Was das Repo ist
 
 Buchzentrierte Übersetzungs-/Export-Werkbank (`books/<id>/`). Dashboard = FastAPI + React unter `webapp/`. Öffentliche Regal-Website = Vite + Three.js unter `webpage/` (nicht mit `webapp/` verwechseln).
 
-## Buchpakete (alle 8 mit `book.yaml`)
+## Buchpakete (12 mit `book.yaml`)
 
 | ID | Titel | Default-Style | Website `sort_order` | Cover unter `assets/covers/` |
 |----|-------|---------------|----------------------|------------------------------|
@@ -32,6 +33,10 @@ Buchzentrierte Übersetzungs-/Export-Werkbank (`books/<id>/`). Dashboard = FastA
 | `feuriger-engel` | Der feurige Engel | stil-01-original | 50 | `cover.jpg` / `.png` |
 | `die-dritte-chronik` | Die dritte Chronik | stil-01-original | 60 | `cover.jpg` / `.png` |
 | `geheime-geschichte-mongolen` | Die Geheime Geschichte der Mongolen | stil-01-original | 70 | `cover.png` |
+| `kuprin-duell` | Das Duell | stil-01-original | 40 (nicht freigegeben) | `cover.png` |
+| `kuprin-moloch` | Der Moloch | stil-01-original | 40 (nicht freigegeben) | fehlt |
+| `grin-wellenlaeuferin` | Die Wellenläuferin | stil-01-original | 40 (nicht freigegeben) | fehlt |
+| `pissemski-tausend-seelen` | Tausend Seelen | stil-01-original | 40 (nicht freigegeben) | fehlt |
 
 Freigabe fürs Regal: in `export.yaml`
 
@@ -83,6 +88,29 @@ Katalog neu bauen: `python tools/build_shelf_website.py` → `webpage/public/dat
 - Cover unter `assets/covers/` (nicht nur `work/cover.png`)
 - Stil aktiv oft `stil-02-poetisch`; Übersetzung noch unvollständig (viele Kapitel fehlen)
 
+### Top-5-Anlage 09/2026 (uncommittet)
+
+Vier neue Roh-Pakete, alle `structure.mode: chapter_as_scene`, Default
+`stil-01-original`, `website.enabled: false` / `sort_order: 40`:
+
+| ID | Titel | Kapitel | Cover |
+|----|-------|---------|-------|
+| `kuprin-duell` | Das Duell (Kuprin) | 23 (Глава I–XXIII) | `cover.png` |
+| `kuprin-moloch` | Der Moloch (Kuprin) | 11 | fehlt |
+| `grin-wellenlaeuferin` | Die Wellenläuferin (Grin) | 33 | fehlt |
+| `pissemski-tausend-seelen` | Tausend Seelen (Pissemski) | 44 in 4 Teilen | fehlt |
+
+- Stand: Kapitelquellen extrahiert, `work/scenes/de/` leer (0 %), Status `pending`
+- Tool-Fix (uncommittet): `Глава I` / `Глава X` (römische Ziffern,
+  case-insensitive) in `tools/extract_chapters.py` + `tools/lib/rtf_parser.py`;
+  Regressionstest in `tests/test_extract_chapters.py` fehlt noch
+- `website:`-Block lag eingerückt unter `book:` und wurde auf top-level
+  gezogen. Generator und Dashboard lesen nur top-level (siehe AGENTS.md,
+  Abschnitt Export); das Dashboard hätte sonst einen zweiten Block angehängt
+- `staging/` (`conv5.py`, `top5-quellen/`) ist Arbeitsmüll, nicht in `.gitignore`
+- Auswahlgrundlage: `docs/Motivatier-Classics-Umsetzungsrangliste-45.md`,
+  Titelsuche: `docs/Motivatier-Classics-Titelsuche-2026-09-08.md`
+
 ## Tools (Auswahl, neu / relevant)
 
 | Tool | Zweck |
@@ -99,11 +127,13 @@ Higgsfield: [docs/higgsfield-integration.md](higgsfield-integration.md). Web-UI-
 
 ## Sinnvolle nächste Schritte
 
-1. Geheime Geschichte: Legacy-DE-Monolithe beiseite legen; 006 abschnittsweise stil-04
-2. Dritte Chronik: fehlende Kapitelbilder; Leser-EPUB prüfen
-3. Regal: Amazon-URLs setzen; optional Mint-Hardcover-GLBs; Deploy von `webpage/dist/`
-4. Optional: Feature-Branch `codex/geheime-geschichte-mongolen-prompts` remote löschen, wenn alle Clients auf `main` sind
-5. Anna-Cover-Pfad im Paket prüfen (Regal hat Cover-Kopie unter `webpage/public/covers/`)
+1. Top-5-Pakete: Covers für Moloch/Wellenläuferin/Tausend Seelen; `extract_scenes.py --all`; Start mit `translate_batch.py --missing`
+2. Uncommitteten Stand sichern: Tool-Fix + Regressionstest + 4 Pakete committen (`staging/` vorher ignorieren oder löschen)
+3. Geheime Geschichte: Legacy-DE-Monolithe beiseite legen; 006 abschnittsweise stil-04
+4. Dritte Chronik: fehlende Kapitelbilder; Leser-EPUB prüfen
+5. Regal: Amazon-URLs setzen; optional Mint-Hardcover-GLBs; Deploy von `webpage/dist/`
+6. Optional: Feature-Branch `codex/geheime-geschichte-mongolen-prompts` remote löschen, wenn alle Clients auf `main` sind
+7. Anna-Cover-Pfad im Paket prüfen (Regal hat Cover-Kopie unter `webpage/public/covers/`)
 
 ## Nicht anfassen ohne Rückfrage
 

@@ -1,0 +1,114 @@
+defaults:
+  language: de-DE
+  publisher: ''
+  rights: ''
+  description: ''
+  cover:
+    mode: placeholder
+    image_path: ''
+    background: '#f59e0b'
+    foreground: '#ffffff'
+  front_matter:
+    cover_in_body: true
+    title_page: true
+    summary_page: true
+    author_bio_page: true
+    description_page: true
+    imprint_page: true
+    toc_page: false
+    combined_epub_front_matter: false
+    combined_heading: Titelei
+    title_heading: Titelseite
+    summary_heading: Zusammenfassung
+    author_bio_heading: Leben des Autors
+    description_heading: Zu dieser Ausgabe
+    imprint_heading: Impressum
+    toc_heading: Inhalt
+  output:
+    page_break_before_chapter: true
+    chapter_headings: true
+    scene_numbers: false
+    strip_control_metadata: true
+    scene_separator: '* * *'
+  illustrations:
+    enabled: true
+    chapter_images: true
+    scene_images: true
+    chapter_page_break_after_image: true
+    scene_page_break_after_image: false
+book:
+  title: Das Duell
+  subtitle: Ein russischer Militär-Roman über Ehre, Gewissen und Ausbruch
+  author: Alexander Iwanowitsch Kuprin
+  translator: Motivatier Classics
+  translator_label: Übersetzung und editorische Einrichtung
+  language: de-DE
+  publisher: Motivatier Hermann Stiftung
+  rights: © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung,
+    editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.
+  original_title: Поединок
+  original_author: Alexander Iwanowitsch Kuprin (1870–1938)
+  source_title: Поединок
+  source_author: Александр Иванович Куприн
+  source_translator: Keine; Grundlage ist der russische Originaltext.
+  source_note: Textgrundlage Edition 1971 wie in der Quelle genannt.
+  description: >-
+    Kuprins Militär-Roman über einen jungen Offizier zwischen
+    Kasernenalltag, Duell-Ehre und innerem Ausbruch. Neue deutsche Ausgabe
+    nach dem russischen Original, KI-gestützt übersetzt und redaktionell
+    geprüft.
+  summary: |
+    „Das Duell“ folgt dem jungen Subalternoffizier Georgi Romaschow in einer
+    russischen Garnisonsstadt: zwischen Drill, Kasernenroutine, Schulden und
+    den starren Ehrbegriffen des Offizierskorps sucht er nach Haltung und
+    innerer Freiheit. Seine heimliche Liebe zu Alexandra Nikolajewa wird zum
+    Prüfstein seines Gewissens.
+
+    Kuprin schildert den Militäralltag ohne Heldenpose: Kadavergehorsam,
+    Gewalt gegen Soldaten, Duelle als Ritual, Karrierismus und innere Leere.
+    Der Roman gehört zu den wirkmächtigsten russischen Militärromanen vor 1914
+    und stellt die Frage nach Ehre, Mut und Menschlichkeit in einer Institution,
+    die beides zugleich verlangt und zerstört.
+  author_bio: |
+    Alexander Iwanowitsch Kuprin (1870–1938) war ein russischer Erzähler,
+    berühmt für plastische Milieuschilderung und psychologische Genauigkeit.
+    Nach Kadetten- und Militärdienstzeit arbeitete er in zahlreichen Berufen
+    und als Journalist.
+
+    Zu seinen wichtigsten Werken zählen „Der Moloch“, „Olesja“, „Die Grube“
+    und „Das Duell“ (1905). Nach der Emigration (1919–1937, v. a. Paris)
+    kehrte er kurz vor seinem Tod nach Russland zurück. „Das Duell“ gilt als
+    sein stärkster Roman.
+  title_page_extra:
+  - 'Originaltitel: Поединок'
+  - 'Originalautor: Alexander Iwanowitsch Kuprin (1870–1938)'
+  - Diese Ausgabe ist eine neue deutsche Ausgabe nach dem russischen gemeinfreien Original.
+  - Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft.
+  - Herausgegeben von der Motivatier Hermann Stiftung
+  imprint_text: |
+    Das Duell
+
+    Alexander Iwanowitsch Kuprin
+
+    Ein russischer Militär-Roman über Ehre, Gewissen und Ausbruch
+
+    Originaltitel: Поединок
+    Originalautor: Alexander Iwanowitsch Kuprin (1870–1938)
+
+    Diese Ausgabe ist eine neue deutsche Übersetzung aus dem russischen Original. Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft.
+
+    Herausgegeben von der Motivatier Hermann Stiftung
+    Übersetzung und editorische Einrichtung: Motivatier Classics
+
+    © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.
+
+    Das russische Originalwerk ist gemeinfrei. Rechte an dieser Ausgabe bestehen, soweit sie die neue deutsche Übersetzung, die redaktionellen Ergänzungen, die Gestaltung, das Cover und die konkrete Einrichtung des Textes betreffen.
+
+    Alle Rechte an dieser Ausgabe vorbehalten.
+  cover:
+    mode: placeholder
+    image_path: ''
+website:
+  enabled: false
+  amazon_url: ''
+  sort_order: 40

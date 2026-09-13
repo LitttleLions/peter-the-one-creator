@@ -1,0 +1,119 @@
+defaults:
+  language: de-DE
+  publisher: ''
+  rights: ''
+  description: ''
+  cover:
+    mode: placeholder
+    image_path: ''
+    background: '#f59e0b'
+    foreground: '#ffffff'
+  front_matter:
+    cover_in_body: true
+    title_page: true
+    summary_page: true
+    author_bio_page: true
+    description_page: true
+    imprint_page: true
+    toc_page: false
+    combined_epub_front_matter: false
+    combined_heading: Titelei
+    title_heading: Titelseite
+    summary_heading: Zusammenfassung
+    author_bio_heading: Leben des Autors
+    description_heading: Zu dieser Ausgabe
+    imprint_heading: Impressum
+    toc_heading: Inhalt
+  output:
+    page_break_before_chapter: true
+    chapter_headings: true
+    scene_numbers: false
+    strip_control_metadata: true
+    scene_separator: '* * *'
+  illustrations:
+    enabled: true
+    chapter_images: true
+    scene_images: true
+    chapter_page_break_after_image: true
+    scene_page_break_after_image: false
+book:
+  title: Die Wellenläuferin
+  subtitle: Ein phantastischer Seenroman über Sehnsucht, Geheimnis und das Unerreichbare
+  author: Alexander Stepanowitsch Grin
+  translator: Motivatier Classics
+  translator_label: Übersetzung und editorische Einrichtung
+  language: de-DE
+  publisher: Motivatier Hermann Stiftung
+  rights: © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung,
+    editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.
+  original_title: Бегущая по волнам
+  original_author: Alexander Stepanowitsch Grin (1880–1932)
+  source_title: Бегущая по волнам
+  source_author: Александр Степанович Грин
+  source_translator: Keine; Grundlage ist der russische Originaltext.
+  source_note: Textgrundlage az.lib.ru Volltext wie in der Quelle genannt.
+  description: >-
+    Grins phantastischer Seenroman um einen Suchenden zwischen Hafenstadt,
+    Segelschiff und geheimnisvoller Frau auf den Wellen. Neue deutsche
+    Ausgabe nach dem russischen Original, KI-gestützt übersetzt und
+    redaktionell geprüft.
+  summary: |
+    „Die Wellenläuferin“ folgt Thomas Garwei, der in der Hafenstadt Liss
+    strandet: zwischen Arzt, Pension, Hafen und Karneval gerät er in den
+    Bann einer Erscheinung, die über das Wasser geht. Seine Suche führt
+    ihn an Bord, in Streit mit Kapitän Ges und in die Nähe zweier Frauen,
+    Desi und Bitsche, die für Halt und für Aufbruch stehen.
+
+    Grin erzählt maritime Fantastik ohne Genrepose: Segel, Nebel, Musik
+    und Geld, Eifersucht und Wette, Aberglaube und nüchternes
+    Kapitänsrecht. Im Zentrum steht Garweis Frage, ob das Unerreichbare,
+    das ihn ruft, Rettung oder Selbsttäuschung ist.
+
+    Der Roman von 1928 gehört zu Grins letzten großen Werken und gilt als
+    Höhepunkt seiner Traum- und Meerbücher. Er verbindet Abenteuer,
+    Liebesgeschichte und philosophisches Gleichnis zu einem leisen,
+    bildstarken Sog.
+  author_bio: |
+    Alexander Stepanowitsch Grin (1880–1932), eigentlich Grinewski, war
+    ein russischer Erzähler phantastischer und maritimer Stoffe. Nach
+    unsteter Jugend, Seefahrt und Verbannung wurde er mit Erzählungen und
+    Romanen um Traum, Meer und Aufbruch bekannt.
+
+    Zu seinen wichtigsten Werken zählen „Purpursegel“ und „Die
+    Wellenläuferin“ (1928). Grin schuf eine eigene poetische Geografie
+    aus Hafenstädten, Seglern und Außenseitern. Er starb 1932 verarmt;
+    sein Werk wurde später als Klassiker der romantischen Fantastik
+    wiederentdeckt.
+  title_page_extra:
+  - 'Originaltitel: Бегущая по волнам'
+  - 'Originalautor: Alexander Stepanowitsch Grin (1880–1932)'
+  - Diese Ausgabe ist eine neue deutsche Ausgabe nach dem russischen gemeinfreien Original.
+  - Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft.
+  - Herausgegeben von der Motivatier Hermann Stiftung
+  imprint_text: |
+    Die Wellenläuferin
+
+    Alexander Stepanowitsch Grin
+
+    Ein phantastischer Seenroman über Sehnsucht, Geheimnis und das Unerreichbare
+
+    Originaltitel: Бегущая по волнам
+    Originalautor: Alexander Stepanowitsch Grin (1880–1932)
+
+    Diese Ausgabe ist eine neue deutsche Übersetzung aus dem russischen Original. Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft.
+
+    Herausgegeben von der Motivatier Hermann Stiftung
+    Übersetzung und editorische Einrichtung: Motivatier Classics
+
+    © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.
+
+    Das russische Originalwerk ist gemeinfrei. Rechte an dieser Ausgabe bestehen, soweit sie die neue deutsche Übersetzung, die redaktionellen Ergänzungen, die Gestaltung, das Cover und die konkrete Einrichtung des Textes betreffen.
+
+    Alle Rechte an dieser Ausgabe vorbehalten.
+  cover:
+    mode: placeholder
+    image_path: ''
+website:
+  enabled: false
+  amazon_url: ''
+  sort_order: 40

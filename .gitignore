@@ -80,3 +80,8 @@ webapp/frontend/dist/
 webapp/frontend/.vite/
 webapp/frontend/.npm-cache/
 webapp/frontend/*.tsbuildinfo
+
+# ============================================================
+# Lokale Arbeits-/Staging-Reste (kein Teil eines Buchpakets)
+# ============================================================
+/staging/

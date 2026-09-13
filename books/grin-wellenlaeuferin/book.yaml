@@ -1,0 +1,52 @@
+id: grin-wellenlaeuferin
+title: Die Wellenläuferin
+author: Alexander Stepanowitsch Grin
+source_path: source/Grin - Die Wellenlaeuferin - ru.html
+source_lang: ru
+target_lang: de
+ruleset_path: ''
+ruleset_apply: false
+style_mode: stil-01-original
+work_dir: work
+exports_dir: exports
+status_file: status/status.json
+log_dir: status/logs
+styles_dir: styles
+assets_dir: assets
+names_file: names.yaml
+illustration_setting: >-
+  Black Sea port town Liss in the 1920s, maritime fantasy atmosphere.
+  Cinematic literary illustration, elegant realism, painterly detail,
+  sea light and dusk harbours. Sailing ships, carnival, seaside hotel,
+  mysterious woman on the waves. Palette: deep sea blue, foam white,
+  lantern gold, night green. Dreamlike yet historically grounded,
+  emotionally intelligent.
+structure:
+  mode: chapter_as_scene
+  label: Kapitel als Szenen
+  groups: []
+display:
+  chapters:
+    format: words_de
+    suffix: ' Kapitel'
+    align: center
+    include_source_title: false
+  scenes:
+    show: false
+naming_convention:
+  style: Deutsche Transliteration russischer Namen nach Duden-Ueblichkeit.
+  example:
+  - Гарвей -> Garwei
+  - Дэзи -> Desi
+  - Биче -> Bitsche
+  - Гез -> Ges
+notes: >-
+  Buchpaket fuer Alexander Stepanowitsch Grin, Die Wellenlaeuferin
+  (Бегущая по волнам). Datierung laut Recherche: 1928. Textgrundlage:
+  az.lib.ru Volltext, bereinigt nach UTF-8.
+ai:
+  provider: openrouter
+  model: deepseek/deepseek-v4-flash
+  granularity: scene
+  max_tokens_per_scene: 10000
+  chunk_char_limit: 12000

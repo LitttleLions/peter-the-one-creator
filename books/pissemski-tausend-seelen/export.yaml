@@ -1,0 +1,122 @@
+defaults:
+  language: de-DE
+  publisher: ''
+  rights: ''
+  description: ''
+  cover:
+    mode: placeholder
+    image_path: ''
+    background: '#f59e0b'
+    foreground: '#ffffff'
+  front_matter:
+    cover_in_body: true
+    title_page: true
+    summary_page: true
+    author_bio_page: true
+    description_page: true
+    imprint_page: true
+    toc_page: false
+    combined_epub_front_matter: false
+    combined_heading: Titelei
+    title_heading: Titelseite
+    summary_heading: Zusammenfassung
+    author_bio_heading: Leben des Autors
+    description_heading: Zu dieser Ausgabe
+    imprint_heading: Impressum
+    toc_heading: Inhalt
+  output:
+    page_break_before_chapter: true
+    chapter_headings: true
+    scene_numbers: false
+    strip_control_metadata: true
+    scene_separator: '* * *'
+  illustrations:
+    enabled: true
+    chapter_images: true
+    scene_images: true
+    chapter_page_break_after_image: true
+    scene_page_break_after_image: false
+book:
+  title: Tausend Seelen
+  subtitle: Ein Gesellschaftsroman über Karriere, Geld und Gewissen im Russland der 1850er
+  author: Alexei Feofilaktowitsch Pissemski
+  translator: Motivatier Classics
+  translator_label: Übersetzung und editorische Einrichtung
+  language: de-DE
+  publisher: Motivatier Hermann Stiftung
+  rights: © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung,
+    editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.
+  original_title: Тысяча душ
+  original_author: Alexei Feofilaktowitsch Pissemski (1821–1881)
+  source_title: Тысяча душ
+  source_author: Алексей Феофилактович Писемский
+  source_translator: Keine; Grundlage ist der russische Originaltext.
+  source_note: Textgrundlage Edition 1959 wie in der Quelle genannt.
+  description: >-
+    Pissemskis Gesellschaftsroman um einen ehrgeizigen Beamten zwischen
+    Provinz, Petersburg, Geldheirat und Gewissen. Neue deutsche Ausgabe
+    nach dem russischen Original, KI-gestützt übersetzt und redaktionell
+    geprüft.
+  summary: |
+    „Tausend Seelen“ folgt Jakow Kalinowitsch, der aus bescheidenen
+    Verhältnissen in die Beamtenlaufbahn drängt: zwischen Provinzstadt,
+    Gönnern, Schuldnern und der Familie Godnew sucht er Aufstieg um jeden
+    Preis. Seine Werbung um Nastjenka und sein Pakt mit Geld und Einfluss
+    werden zum Prüfstein seines Charakters.
+
+    Pissemski schildert Karriere als Tauschgeschäft: Bildung und Fleiß
+    gegen Protektion, Liebe gegen Mitgift, Recht gegen Gefälligkeit.
+    Figuren wie Belawin, der Fürst oder Kapitän Rosa stehen für ein
+    System, das Loyalität kauft und Gewissen erschöpft. Im Zentrum bleibt
+    Kalinowitschs Frage, was ein Mensch wert ist, wenn Seelen zu
+    Vermögenswerten werden.
+
+    Der Roman von 1858 gehört zu den wirkmächtigsten russischen
+    Gesellschaftsromanen vor den großen Würfen der 1860er Jahre und nahm
+    Themen von Ehrgeiz, Korruption und innerer Umkehr vorweg, die später
+    das Zeitalter prägen sollten.
+  author_bio: |
+    Alexei Feofilaktowitsch Pissemski (1821–1881) war ein russischer
+    Erzähler und Dramatiker des Realismus, berühmt für nüchterne
+    Gesellschaftsbeobachtung und Bühnenwirksamkeit. Nach Beamtenjahren in
+    Kostroma und Petersburg wurde er mit Bauern- und Beamtenerzählungen
+    bekannt.
+
+    Zu seinen wichtigsten Werken zählen „Tausend Seelen“ (1858), „Die
+    Wirren der Zeit“ und das Drama „Ein bitteres Schicksal“. Pissemski
+    galt Zeitgenossen als scharfer Sittenschilderer der Provinz und der
+    Bürokratie. Sein Werk steht zwischen Gogol-Nachfolge und dem
+    psychologischen Realismus der folgenden Generation.
+  title_page_extra:
+  - 'Originaltitel: Тысяча душ'
+  - 'Originalautor: Alexei Feofilaktowitsch Pissemski (1821–1881)'
+  - Diese Ausgabe ist eine neue deutsche Ausgabe nach dem russischen gemeinfreien Original.
+  - Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft.
+  - Herausgegeben von der Motivatier Hermann Stiftung
+  imprint_text: |
+    Tausend Seelen
+
+    Alexei Feofilaktowitsch Pissemski
+
+    Ein Gesellschaftsroman über Karriere, Geld und Gewissen im Russland der 1850er
+
+    Originaltitel: Тысяча душ
+    Originalautor: Alexei Feofilaktowitsch Pissemski (1821–1881)
+
+    Diese Ausgabe ist eine neue deutsche Übersetzung aus dem russischen Original. Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft.
+
+    Herausgegeben von der Motivatier Hermann Stiftung
+    Übersetzung und editorische Einrichtung: Motivatier Classics
+
+    © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.
+
+    Das russische Originalwerk ist gemeinfrei. Rechte an dieser Ausgabe bestehen, soweit sie die neue deutsche Übersetzung, die redaktionellen Ergänzungen, die Gestaltung, das Cover und die konkrete Einrichtung des Textes betreffen.
+
+    Alle Rechte an dieser Ausgabe vorbehalten.
+  cover:
+    mode: placeholder
+    image_path: ''
+website:
+  enabled: false
+  amazon_url: ''
+  sort_order: 40

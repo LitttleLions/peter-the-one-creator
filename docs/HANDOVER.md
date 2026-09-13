@@ -11,7 +11,7 @@
 | Tip (inhaltlich) | `af6873c` Top-5-Buchpakete; danach am 2026-09-13 Fixes: Status-Drift (verlustfrei, 390 Kapitel), `style_mode`-Abgleich, Phantom-Kapitel in `chapter_ids()`, Peter-I-Artefakte nach `work/legacy/`, Doku; zuletzt W1-Belegpruefung (Mongolen 006/014, Anna-Cover) |
 | Davor auf main | `6588800` (Titelsuche + Rangliste-45 als Vorlage); davor `a7c8c34` (Merge: FastAPI-Dashboard, Regal-Website, HANDOVER), `b376f5c`, `de91155` |
 | Feature-Branch | `codex/geheime-geschichte-mongolen-prompts` – Inhalt ist in `main` enthalten; Branch kann später gelöscht werden |
-| Arbeitsbaum (13.09.2026) | clean auf `0b63e76`; ausserhalb der Versionierung nur `staging/` (gitignored, lokale Audit-/Reparaturhelfer) und `books/leben-arsenjews/work/cover.png` (Platzhalter) |
+| Arbeitsbaum (13.09.2026) | nach W1-Commit `51bf84a` clean bis auf lokale, bewusst untracked Reste: `books/pissemski-tausend-seelen/assets/covers/cover.png` (Cover-Entwurf von Hand, 13.09.2026 15:22), `books/leben-arsenjews/work/cover.png` (Platzhalter) und `staging/` (gitignored, lokale Audit-/Reparaturhelfer inkl. `run-w1-mongolen-dryrun.cmd`, `run-w1-summary.cmd`) |
 
 **Warnung (schon passiert):** Checkout auf ein altes `main` ohne die Codex-Commits ließ Buchordner als leere Hüllen zurück. Nicht blind zwischen Branches wechseln, ohne vorher zu prüfen, ob `books/*/book.yaml` noch da sind.
 
@@ -274,7 +274,7 @@ Higgsfield: [docs/higgsfield-integration.md](higgsfield-integration.md). Web-UI-
 ## Sinnvolle nächste Schritte
 
 1. Top-5-Pakete: Style bestätigen; Start dann mit `translate_batch.py --missing --style stil-01-original --auto-status --assemble-after` (ohne `--auto-status` bleibt `status.json` auf `pending` und es entsteht Status-Drift)
-2. Regal-Freigabe nach den Covers (`website.enabled: true`, `sort_order` 41–43; `kuprin-duell` behält 40); `staging/` kann lokal gelöscht werden
+2. Regal-Freigabe nach den Covers (`website.enabled: true`, `sort_order` 41–43; `kuprin-duell` behält 40); `staging/` kann lokal gelöscht werden. Cover entstehen derzeit von Hand, nicht per CLI (`generate_illustration.py` kennt nur `--kind scene|chapter`); erster Entwurf: `books/pissemski-tausend-seelen/assets/covers/cover.png` (13.09.2026, noch untracked)
 3. Anna Karenina: 73 offene Kapitel (167–239) in `stil-02-poetisch` – Default-Style ist jetzt korrekt gesetzt
 4. Geheime Geschichte: 14 Monolith-Kapitel abschnittsweise in `stil-04-original-geheim` (000, 001–005, 007–013 = 284 Szenen) plus Szene 07 in 014; Kapitel 006 ist dateiseitig fertig und wartet nur auf Review
 5. Dritte Chronik: fehlende Kapitelbilder (30/48 vorhanden); Leser-EPUB prüfen

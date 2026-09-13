@@ -288,8 +288,9 @@ rueckwaertskompatibel bei DOCX+EPUB.
 ## Aktueller Stand
 
 Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**
-(Stand 2026-09-10). Branch: `main` (= `origin/main`); inhaltlicher Stand `af6873c`,
-danach folgen nur Doku-Nachzuege.
+(Stand 2026-09-13). Branch: `main` (= `origin/main`); inhaltlicher Stand `af6873c`,
+danach folgen Fixes und Doku-Nachzuege (zuletzt W1-Belegpruefung: Mongolen-Kapitel,
+Anna-Cover).
 
 - Buchpakete sind fuehrend; alte zentrale `config/books.yaml` und
   `config/export.yaml` liegen unter `config/legacy/`.
@@ -305,9 +306,13 @@ danach folgen nur Doku-Nachzuege.
   Profile. `stil-04-original-geheim.md` = Interlinear/Edition (Mongolen).
 - **Geheime Geschichte der Mongolen** (auf `main`): Quelle `ja`→`de`,
   `structure.mode: scenes`, ~317 Abschnitte `scene-NN.md`, Import
-  `tools/import_geheime_geschichte.py`. Legacy-DE-Monolithe und abschnittsweise
-  Neuuebersetzung 006 (stil-04) noch offen. Feature-Branch-Inhalt wurde
-  2026-07-28 per Fast-Forward nach `main` gemerged.
+  `tools/import_geheime_geschichte.py`. Kapitel 006 ist dateiseitig fertig
+  (20/20 Szenen in `stil-04-original-geheim`, aus einem Modellvergleich und
+  deshalb mit Review-Marker). Offen sind 14 Monolith-Kapitel in
+  `stil-01-original` (000, 001–005, 007–013 = 284 Szenen) sowie Szene 07 in
+  014. Vor jedem Lauf `--style stil-04-original-geheim` explizit mitgeben,
+  sonst plant der Default `stil-01-original` Kapitel 006 mit. Feature-Branch-
+  Inhalt wurde 2026-07-28 per Fast-Forward nach `main` gemerged.
 - **Die dritte Chronik** (auf `main`): DE-Original; Import
   `tools/import_die_dritte_chronik.py`; Cover vorhanden; restliche
   Kapitelbilder / EPUB-Feinschliff offen.
@@ -320,6 +325,8 @@ danach folgen nur Doku-Nachzuege.
   Kapitelquellen und Metadaten stehen, DE-Szenen fehlen komplett. Der
   `website:`-Block wurde von `book:` auf top-level korrigiert. Auswahlvorlage:
   `docs/Motivatier-Classics-Umsetzungsrangliste-45.md`.
-- **Noch offen (Prioritaet):** siehe `docs/HANDOVER.md` – Mongolen Legacy-DE /
-  stil-04 Kap. 006; Chronik-Bilder; Top-5-Pakete (Covers, Szenen, Start der
-  Uebersetzung); Regal Amazon-URLs / Deploy; optional Mint-GLBs.
+- **Noch offen (Prioritaet):** siehe `docs/HANDOVER.md` – Mongolen: 14
+  Monolith-Kapitel abschnittsweise in `stil-04-original-geheim`; Chronik-Bilder;
+  Top-5-Pakete (Covers, Szenen, Start der Uebersetzung); Regal Amazon-URLs /
+  Deploy; optional Mint-GLBs. Covers und Uebersetzungslaeufe nur nach
+  ausdruecklicher Freigabe.

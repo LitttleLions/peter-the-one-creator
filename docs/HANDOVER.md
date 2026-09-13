@@ -1,4 +1,4 @@
-# Handover – Stand 2026-09-13 (Top-5-Pakete auf `main`; Status-/Style-Drift bereinigt, Fallstricke dokumentiert)
+# Handover – Stand 2026-09-13 (Top-5-Pakete auf `main`; Status-/Style-Drift bereinigt, Fallstricke dokumentiert, Mongolen-Befund W1 belegt)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei,
 > bei Bedarf [README.md](../README.md) und [webpage/README.md](../webpage/README.md).
@@ -8,10 +8,10 @@
 | Item | Wert |
 |------|------|
 | Aktiver Branch | `main` (tracking `origin/main`) |
-| Tip (inhaltlich) | `af6873c` Top-5-Buchpakete; danach am 2026-09-13 Fixes: Status-Drift (verlustfrei, 390 Kapitel), `style_mode`-Abgleich, Phantom-Kapitel in `chapter_ids()`, Peter-I-Artefakte nach `work/legacy/`, Doku |
+| Tip (inhaltlich) | `af6873c` Top-5-Buchpakete; danach am 2026-09-13 Fixes: Status-Drift (verlustfrei, 390 Kapitel), `style_mode`-Abgleich, Phantom-Kapitel in `chapter_ids()`, Peter-I-Artefakte nach `work/legacy/`, Doku; zuletzt W1-Belegpruefung (Mongolen 006/014, Anna-Cover) |
 | Davor auf main | `6588800` (Titelsuche + Rangliste-45 als Vorlage); davor `a7c8c34` (Merge: FastAPI-Dashboard, Regal-Website, HANDOVER), `b376f5c`, `de91155` |
 | Feature-Branch | `codex/geheime-geschichte-mongolen-prompts` – Inhalt ist in `main` enthalten; Branch kann später gelöscht werden |
-| Arbeitsbaum (10.09.2026) | clean bis auf lokale Reste: `staging/` (jetzt in `.gitignore` ausgenommen) und `books/leben-arsenjews/work/cover.png` (Platzhalter) |
+| Arbeitsbaum (13.09.2026) | clean auf `0b63e76`; ausserhalb der Versionierung nur `staging/` (gitignored, lokale Audit-/Reparaturhelfer) und `books/leben-arsenjews/work/cover.png` (Platzhalter) |
 
 **Warnung (schon passiert):** Checkout auf ein altes `main` ohne die Codex-Commits ließ Buchordner als leere Hüllen zurück. Nicht blind zwischen Branches wechseln, ohne vorher zu prüfen, ob `books/*/book.yaml` noch da sind.
 
@@ -69,12 +69,36 @@ Katalog neu bauen: `python tools/build_shelf_website.py` → `webpage/public/dat
 
 ## Wichtige Buchstände
 
+Verifizierter Fortschritt (dateibasiert im Default-Style, `staging/audit_progress.py`, 2026-09-13):
+
+| Buch | Default-Style | Kapitel | komplett (Default) | offen |
+|------|---------------|---------|--------------------|-------|
+| `aelita` | `stil-03-branderson` | 30 | 30 | 0 (29 done, 1 review) |
+| `anna-karenina` | `stil-02-poetisch` | 239 | 166 | 73 |
+| `die-dritte-chronik` | `stil-01-original` | 48 | 48 | 0 |
+| `feuriger-engel` | `stil-02-poetisch` | 16 | 16 | 0 |
+| `geheime-geschichte-mongolen` | `stil-01-original` | 15 | 1 (13 Monolithe nur teilweise) | 1 |
+| `grin-wellenlaeuferin` | `stil-01-original` | 33 | 0 | 33 |
+| `kuprin-duell` | `stil-01-original` | 23 | 0 | 23 |
+| `kuprin-moloch` | `stil-01-original` | 11 | 0 | 11 |
+| `leben-arsenjews` | `stil-02-poetisch` | 104 | 104 | 0 (50 done, 54 review) |
+| `peter-i-buch-01` | `stil-02-poetisch` | 18 | 18 | 0 (11 done, 7 review) |
+| `pharao` | `stil-02-poetisch` | 69 | 69 | 0 |
+| `pissemski-tausend-seelen` | `stil-01-original` | 44 | 0 | 44 |
+
+Status-Drift B (Status `done`, Dateien unvollstaendig) ist in allen Paketen 0; die
+Review-Marker (`aelita` 1, `leben-arsenjews` 54, `peter-i-buch-01` 7) sind gewollt.
+Top-5 im Trockenlauf: 111 Kapitel / 221 Kommandos, 299.226 Quellwoerter (Summe
+`words_source`).
+
 ### Geheime Geschichte der Mongolen
 
 - Quelle `ja` → Ziel `de`; `structure.mode: scenes`; ~317 Abschnitte als `work/scenes/ja/NNN/scene-NN.md`
 - Import: `python tools/import_geheime_geschichte.py` (Migration: `--migrate-existing`)
 - Style `stil-04-original-geheim.md` = Embed-Profil (Interlinear/Edition)
-- **Offen:** Legacy-DE-Monolithe (`scene-01.md` = Ganzkapitel) quarantineieren; Kapitel 006 abschnittsweise neu mit stil-04 + `--overwrite`
+- **Offen:** 14 Monolith-Kapitel in `stil-01-original` (`NNN/scene-01.md` = Ganzkapitel) abschnittsweise in `stil-04-original-geheim` neu uebersetzen: 000 (1 Szene) und 001–005, 007–013 (283 Szenen) = 284 Szenen, dazu Szene 07 in 014 (Provider-Fehler „Antwort ohne Text-Content“, `status/logs/014.log.md`)
+- **Kapitel 006 – kein Drift:** dateiseitig fertig (20/20 Szenen in `stil-04-original-geheim`), aber aus einem Modellvergleich (deepseek-v4-pro/-flash, `anthropic/claude-sonnet-4.6`, zuletzt `qwen/qwen3.6-flash` am 2026-07-22, siehe `status/logs/006.log.md`). Der Review-Marker bleibt bewusst stehen
+- **Style beim Batch zwingend explizit:** `tools/translate_batch.py --book geheime-geschichte-mongolen --missing --style stil-04-original-geheim --dry-run` plant 14 Kapitel (000, 001–005, 007–014) und ueberspringt 006 korrekt. Ohne `--style` (Default `stil-01-original`) plant derselbe Lauf 14 Kapitel **inkl. 006** – also ein bereits fertiges Kapitel erneut (Trockenlauf 2026-09-13, beide Varianten 14 Kommandos)
 
 ### Die dritte Chronik
 
@@ -186,6 +210,14 @@ Folge im Trockenlauf: `peter-i-buch-01 --missing` mit dem Default plant **18 Kap
 `peter-i-buch-01`, `feuriger-engel` und `anna-karenina` auf `stil-02-poetisch`. Trockenlauf
 ohne `--style` plant jetzt 0 / 0 / 73 Kapitel.
 
+**Offen (2026-09-13 belegt):** `geheime-geschichte-mongolen` ist ein zweiter Fall.
+`book.yaml` und `status.json` stehen auf `stil-01-original`, produktiv ist aber
+`stil-04-original-geheim` (Kapitel 006 vollstaendig, 014 teilweise). Trockenlauf wie
+oben: der Default plant 14 Kapitel **inklusive 006** (schon fertig ->
+Doppeluebersetzung), `--style stil-04-original-geheim` plant 14 Kapitel mit 000 statt
+006. Der Default bleibt vorerst unveraendert, weil die 13 Monolith-Kapitel noch in
+`stil-01` liegen; bis zur Entscheidung gilt hier zwingend die explizite Style-Angabe.
+
 **Regel:** Vor jedem `--missing`-Lauf Style explizit mitgeben und gegen die
 Export-/Log-Evidenz pruefen.
 
@@ -241,14 +273,16 @@ Higgsfield: [docs/higgsfield-integration.md](higgsfield-integration.md). Web-UI-
 
 ## Sinnvolle nächste Schritte
 
-1. Top-5-Pakete: Style bestätigen; Covers für Moloch/Wellenläuferin/Tausend Seelen; Start mit `translate_batch.py --missing` (Default `stil-01-original`)
-2. Regal-Freigabe nach den Covers (`website.enabled: true`, `sort_order` 41–43); `staging/` kann lokal gelöscht werden
+1. Top-5-Pakete: Style bestätigen; Start dann mit `translate_batch.py --missing --style stil-01-original --auto-status --assemble-after` (ohne `--auto-status` bleibt `status.json` auf `pending` und es entsteht Status-Drift)
+2. Regal-Freigabe nach den Covers (`website.enabled: true`, `sort_order` 41–43; `kuprin-duell` behält 40); `staging/` kann lokal gelöscht werden
 3. Anna Karenina: 73 offene Kapitel (167–239) in `stil-02-poetisch` – Default-Style ist jetzt korrekt gesetzt
-4. Geheime Geschichte: Legacy-DE-Monolithe beiseite legen; 006 abschnittsweise stil-04
-5. Dritte Chronik: fehlende Kapitelbilder; Leser-EPUB prüfen
+4. Geheime Geschichte: 14 Monolith-Kapitel abschnittsweise in `stil-04-original-geheim` (000, 001–005, 007–013 = 284 Szenen) plus Szene 07 in 014; Kapitel 006 ist dateiseitig fertig und wartet nur auf Review
+5. Dritte Chronik: fehlende Kapitelbilder (30/48 vorhanden); Leser-EPUB prüfen
 6. Regal: Amazon-URLs setzen; optional Mint-Hardcover-GLBs; Deploy von `webpage/dist/`
 7. Optional: Feature-Branch `codex/geheime-geschichte-mongolen-prompts` remote löschen, wenn alle Clients auf `main` sind
-8. Anna-Cover-Pfad im Paket prüfen (Regal hat Cover-Kopie unter `webpage/public/covers/`)
+8. Anna-Cover: geprueft und erledigt – `export.yaml` setzt `cover.mode: image` mit `image_path: assets/covers/annakarenina.png` (Vorrang vor `find_named_image(..., "cover")`); nur bei geleertem Feld droht der Platzhalter
+
+Covers und Übersetzungsläufe (OpenRouter-Kosten) nur nach ausdrücklicher Freigabe starten.
 
 ## Nicht anfassen ohne Rückfrage
 

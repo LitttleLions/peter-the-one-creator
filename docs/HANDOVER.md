@@ -11,7 +11,7 @@
 | Tip (inhaltlich) | `af6873c` Top-5-Buchpakete; danach am 2026-09-13 Fixes: Status-Drift (verlustfrei, 390 Kapitel), `style_mode`-Abgleich, Phantom-Kapitel in `chapter_ids()`, Peter-I-Artefakte nach `work/legacy/`, Doku; zuletzt W1-Belegpruefung (Mongolen 006/014, Anna-Cover) |
 | Davor auf main | `6588800` (Titelsuche + Rangliste-45 als Vorlage); davor `a7c8c34` (Merge: FastAPI-Dashboard, Regal-Website, HANDOVER), `b376f5c`, `de91155` |
 | Feature-Branch | `codex/geheime-geschichte-mongolen-prompts` – Inhalt ist in `main` enthalten; Branch kann später gelöscht werden |
-| Arbeitsbaum (13.09.2026) | nach W1-Commit `51bf84a` clean bis auf lokale, bewusst untracked Reste: `books/pissemski-tausend-seelen/assets/covers/cover.png` (Cover-Entwurf von Hand, 13.09.2026 15:22), `books/leben-arsenjews/work/cover.png` (Platzhalter) und `staging/` (gitignored, lokale Audit-/Reparaturhelfer inkl. `run-w1-mongolen-dryrun.cmd`, `run-w1-summary.cmd`) |
+| Arbeitsbaum (13.09.2026) | nach den W1-Doku-Commits clean bis auf lokale, bewusst untracked Reste: `books/pissemski-tausend-seelen/assets/covers/cover.png` und `books/grin-wellenlaeuferin/assets/covers/cover.png` (Cover-Entwuerfe von Hand, 13.09.2026), `books/leben-arsenjews/work/cover.png` (Platzhalter) und `staging/` (gitignored, lokale Audit-/Reparaturhelfer inkl. `run-w1-mongolen-dryrun.cmd`, `run-w1-summary.cmd`) |
 
 **Warnung (schon passiert):** Checkout auf ein altes `main` ohne die Codex-Commits ließ Buchordner als leere Hüllen zurück. Nicht blind zwischen Branches wechseln, ohne vorher zu prüfen, ob `books/*/book.yaml` noch da sind.
 

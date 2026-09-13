@@ -1,4 +1,4 @@
-# Handover – Stand 2026-09-13 (Top-5-Pakete auf `main`; Status-/Style-Drift bereinigt, Fallstricke dokumentiert, Mongolen-Befund W1 belegt)
+# Handover – Stand 2026-09-13 (Top-5-Pakete auf `main`; Status-/Style-Drift bereinigt, Fallstricke dokumentiert, Mongolen-Befund belegt, V4.1-Flash-Pilot gelaufen)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei,
 > bei Bedarf [README.md](../README.md) und [webpage/README.md](../webpage/README.md).
@@ -8,10 +8,10 @@
 | Item | Wert |
 |------|------|
 | Aktiver Branch | `main` (tracking `origin/main`) |
-| Tip (inhaltlich) | `af6873c` Top-5-Buchpakete; danach am 2026-09-13 Fixes: Status-Drift (verlustfrei, 390 Kapitel), `style_mode`-Abgleich, Phantom-Kapitel in `chapter_ids()`, Peter-I-Artefakte nach `work/legacy/`, Doku; zuletzt W1-Belegpruefung (Mongolen 006/014, Anna-Cover) |
+| Tip (inhaltlich) | `af6873c` Top-5-Buchpakete; danach am 2026-09-13 Fixes: Status-Drift (verlustfrei, 390 Kapitel), `style_mode`-Abgleich, Phantom-Kapitel in `chapter_ids()`, Peter-I-Artefakte nach `work/legacy/`, Doku, Mongolen-Belegpruefung, Handcover, V4.1-Flash-Pilot (`kuprin-moloch` 001) |
 | Davor auf main | `6588800` (Titelsuche + Rangliste-45 als Vorlage); davor `a7c8c34` (Merge: FastAPI-Dashboard, Regal-Website, HANDOVER), `b376f5c`, `de91155` |
 | Feature-Branch | `codex/geheime-geschichte-mongolen-prompts` – Inhalt ist in `main` enthalten; Branch kann später gelöscht werden |
-| Arbeitsbaum (13.09.2026) | clean; ausserhalb der Versionierung nur `staging/` (gitignored, lokale Audit-/Reparaturhelfer inkl. `run-w1-mongolen-dryrun.cmd`, `run-w1-summary.cmd`) und `books/leben-arsenjews/work/cover.png` (Platzhalter). Cover-Stand: Commit `0162ef9` |
+| Arbeitsbaum (13.09.2026) | clean; ausserhalb der Versionierung nur `staging/` (gitignored: lokale Audit-/Reparaturhelfer `audit_*.py`, `repair_status_v2.py`, `run-*.cmd`, `probe_*.py`) und `books/leben-arsenjews/work/cover.png` (Platzhalter). Cover-Stand: `0162ef9` |
 
 **Warnung (schon passiert):** Checkout auf ein altes `main` ohne die Codex-Commits ließ Buchordner als leere Hüllen zurück. Nicht blind zwischen Branches wechseln, ohne vorher zu prüfen, ob `books/*/book.yaml` noch da sind.
 
@@ -134,11 +134,24 @@ Vier neue Roh-Pakete, alle `structure.mode: chapter_as_scene`, Default
 | `grin-wellenlaeuferin` | Die Wellenläuferin (Grin) | 33 | `cover.png` |
 | `pissemski-tausend-seelen` | Tausend Seelen (Pissemski) | 44 in 4 Teilen | `cover.png` |
 
-- Stand: Kapitelquellen extrahiert, `work/scenes/de/` leer (0 %), Status `pending`
+- **Pilot 2026-09-13 gelaufen:** `kuprin-moloch` Kapitel 001 in `stil-01-original`
+  mit `deepseek/deepseek-v4.1-flash` + `reasoning_effort: none`: 6682 Tokens
+  (Prompt 4206 / Completion 2476), `finish_reason=stop`, 1245 DE-Woerter
+  (119 % der 1049 RU-Woerter), Status `needs_review`
+- Kette geprueft: `extract_scenes` → `translate_chapter` → `assemble_chapter`
+  (`work/assembled/stil-01-original/001-translation-v1-…md`) → `export_manuscript
+   --scope chapter --format epub` (`exports/stil-01-original/chapter/epub/…epub`,
+  1,1 MB, nutzt `assets/covers/cover.png`)
+- Rest offen: Moloch 002–011, Duell 23, Grin 33, Pissemski 44; Stilurteil anhand
+  der Pilot-Szene noch offen (Default ueberall `stil-01-original`)
 - Startbereit geprüft: `translate_batch --dry-run` plant 111 Kapitel / 221 Kommandos
   (kuprin-duell 23+22, kuprin-moloch 11+11, grin-wellenlaeuferin 33+33,
   pissemski-tausend-seelen 44+44); fehlende Quellszenen erzeugt der Batch selbst
-- Offen vor dem Start: Style bestätigen (Default ist überall `stil-01-original`)
+- **Wichtig fuer Batch-Laeufe:** zuerst Quellszenen erzeugen (`extract_scenes`,
+  macht der Batch automatisch). Ohne Quellszenen bleibt der Kapitelstatus auf
+  `in_progress`, weil `chapter_translations_complete()` die Quellszenen braucht
+- `--model` und `--reasoning-effort` muessen nicht mitgegeben werden – beides
+  kommt aus `book.yaml`
 - Tool-Fix: `Глава I` / `Глава X` (römische Ziffern, case-insensitive) in
   `tools/extract_chapters.py` + `tools/lib/rtf_parser.py`; Regressionstests in
   `tests/test_extract_chapters.py` (5 Tests grün)
@@ -260,12 +273,63 @@ Strukturmerkmal „Ordner ohne direkte `scene-*.md`“. Regressionstests in
 `tests/test_workbench_state.py`. Beleg nach dem Fix: `--missing --dry-run` plant
 0 Kapitel (vorher 1), der Fortschritt meldet 48/48 statt 49/1. Der Guard entfaellt.
 
+### 4. Reasoning-Modelle verbrennen `max_tokens` im Denkschritt (V4.1 Flash)
+
+`deepseek/deepseek-v4.1-flash` ist reasoning-faehig. Ohne Steuerung schreibt das
+Modell den kompletten `max_tokens`-Vorrat (`book.yaml: max_tokens_per_scene: 10000`)
+in den Denkschritt und liefert **keinen** Text; der Client meldet dann korrekt
+`OpenRouter-Antwort ohne Text-Content` (`finish_reason=length|error`).
+
+Gemessen 2026-09-13 mit Mini-Calls (je ~400 Token Budget, `max_tokens=400`):
+
+| `reasoning.effort` | Ergebnis | reasoning_tokens |
+|--------------------|----------|------------------|
+| nicht gesetzt | kein Content | 400/400 |
+| `minimal` | kein Content | 142 |
+| `low` | kein Content | 400/400 |
+| **`none`** | **Text, `finish_reason=stop`** | **0** |
+
+Nebenbei: Ein ungesetzter Lauf kann sehr lange „haengen“ (Header kommen, Body
+nicht) – ein `httpx`-ReadTimeout greift dann nicht zuverlaessig; nicht blind
+weiterwarten, sondern Prozess beenden und `status.py`-Status per
+`lib/status_manager.mark_pending` zuruecksetzen.
+
+**Behoben 2026-09-13:** `OpenRouterClient.reasoning_effort` +
+`build_chat_payload()` in `tools/lib/openrouter_client.py`, CLI-Flag
+`translate_chapter.py --reasoning-effort`, Fallback `book.yaml:
+ai.reasoning_effort`. Die vier Top-5-Pakete stehen auf `none`; Regressionstests
+in `tests/test_openrouter_client.py` (4 Tests). Laeufe ohne Angabe bleiben
+unveraendert (Payload ohne `reasoning`).
+
+### 5. Technische Kopfzeilen der Quelle landeten in der Uebersetzung
+
+`work/chapters/NNN-source.md` beginnt mit `# Kapitel N: Глава I`, `*Buch: …*` und
+`<!-- status: pending -->`. Im `chapter_as_scene`-Modus geht die ganze Datei in
+den Prompt – das Modell uebernahm diese Zeilen unveraendert in die DE-Szene
+(inklusive Kyrillisch in der Ueberschrift).
+
+**Behoben 2026-09-13:** harte Ausgabe-Regel in `tools/lib/style_prompts.py`
+(„Technische Kopfzeilen … weder uebersetzt noch uebernommen noch ersetzt“).
+Beleg: Kapitel 001 beginnt nach `--overwrite` direkt mit dem Fliesstext.
+
+Nebenbefund: `output.strip_control_metadata` in `export.yaml` ist ein **toter
+Schalter** – kein Code liest ihn (nur `init_book.py` schreibt ihn). Die
+Metadaten-Hygiene muss daher im Prompt bzw. in der Szene passieren.
+
+Kleinigkeit: `status.json: title_de` ist bei Kapiteln ohne Ueberschrift der erste
+Absatz (Log-Kopfzeile wird lang). Nur kosmetisch – der Export nutzt `title_de`
+nicht.
+
+
+
 ### Fixes zu diesen Befunden (alle umgesetzt 2026-09-13)
 
 1. Status-Reparatur: dateibasiert und verlustfrei gesetzt – 390 Kapitel `done`, 62 `needs_review`; Metadaten aus der Git-Historie restauriert
 2. `style_mode`: `book.yaml` von peter-i, feuriger-engel und anna auf `stil-02-poetisch`; `status.json.style_mode` in 5 Paketen angeglichen
 3. Phantom-Kapitel bei `source_lang == target_lang`: `chapter_ids()` ueberspringt Style-Ordner (+ Regressionstests in `tests/test_workbench_state.py`)
 4. Peter-I-Artefakte nach `work/legacy/style-artefakte-20260913/` verschoben (65 Dateien, README dort)
+5. Reasoning-Steuerung fuer `deepseek/deepseek-v4.1-flash`: Client-Feld + `build_chat_payload()`, CLI `--reasoning-effort`, `book.yaml: ai.reasoning_effort: none`, 4 Regressionstests (Fallstrick 4)
+6. Technische Kopfzeilen der Quelle (`# Kapitel …`, `*Buch: …*`, `<!-- … -->`) aus der Uebersetzung ausgeschlossen (Fallstrick 5)
 
 ## Tools (Auswahl, neu / relevant)
 
@@ -283,7 +347,7 @@ Higgsfield: [docs/higgsfield-integration.md](higgsfield-integration.md). Web-UI-
 
 ## Sinnvolle nächste Schritte
 
-1. Top-5-Pakete: Style bestätigen; **Pilotlauf** `tools/translate_chapter.py --book kuprin-moloch --chapter 001 --style stil-01-original --provider openrouter --timeout 300 --auto-status` (kleinstes Kapitel: 1061 RU-Woerter, 1 Call; `--timeout 300`, weil `deepseek/deepseek-v4.1-flash` reasoning-faehig ist und der Tool-Default nur 120 s betraegt), danach `assemble_chapter.py` + `export_manuscript.py --scope chapter --chapter 001 --style stil-01-original --format epub`; erst dann der Batch `translate_batch.py --missing --style stil-01-original --auto-status --assemble-after` (ohne `--auto-status` bleibt `status.json` auf `pending` → Status-Drift)
+1. Top-5-Pakete: Pilot `kuprin-moloch` 001 ist gelaufen (2026-09-13, `needs_review`, 6682 Tokens, EPUB-Kette geprueft) – naechster Schritt ist das Stilurteil anhand dieser Szene; danach je Buch `translate_batch.py --missing --style stil-01-original --auto-status --assemble-after` (batch-seitig kein `--model`/`--reasoning-effort` noetig, beides kommt aus `book.yaml`; ohne `--auto-status` bleibt `status.json` auf `pending` → Status-Drift)
 2. Regal-Freigabe nach der finalen Cover-Wahl (`website.enabled: true`, `sort_order` 41–43; `kuprin-duell` behält 40), danach `python tools/build_shelf_website.py` – die Handcover sind seit `0162ef9` im Repo, die Regal-Kopien fuer aelita/mongolen aber noch alt. Cover entstehen weiter von Hand (kein CLI-Weg: `generate_illustration.py` kennt nur `--kind scene|chapter`)
 3. Anna Karenina: 73 offene Kapitel (167–239) in `stil-02-poetisch` – Default-Style ist jetzt korrekt gesetzt
 4. Geheime Geschichte: 14 Monolith-Kapitel abschnittsweise in `stil-04-original-geheim` (000, 001–005, 007–013 = 284 Szenen) plus Szene 07 in 014; Kapitel 006 ist dateiseitig fertig und wartet nur auf Review

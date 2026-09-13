@@ -238,6 +238,10 @@ erkennbaren Quellform beibehalten.
 ## Provider
 
 - `openrouter`: echter API-Call; schreibt DE-Szenen und loggt Token/Modell.
+- Reasoning-Modelle: `book.yaml: ai.reasoning_effort` bzw.
+  `translate_chapter.py --reasoning-effort`. Fuer `deepseek/deepseek-v4.1-flash`
+  ist `none` noetig, sonst landet der komplette `max_tokens`-Vorrat im
+  Denkschritt und es kommt kein Text zurueck (HANDOVER, Fallstrick 4).
 - `prompt_file`: schreibt vollstaendige Prompt-Dateien in `work/prompts/`.
 - `workspace_ai`: schreibt Arbeitsanweisungen fuer eine KI, die das Repo
   direkt im Editor nutzt.
@@ -289,8 +293,8 @@ rueckwaertskompatibel bei DOCX+EPUB.
 
 Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**
 (Stand 2026-09-13). Branch: `main` (= `origin/main`); inhaltlicher Stand `af6873c`,
-danach folgen Fixes und Doku-Nachzuege (zuletzt W1-Belegpruefung: Mongolen-Kapitel,
-Anna-Cover).
+danach folgen Fixes und Doku-Nachzuege (Mongolen-Belegpruefung, Handcover,
+V4.1-Flash-Pilot `kuprin-moloch` 001).
 
 - Buchpakete sind fuehrend; alte zentrale `config/books.yaml` und
   `config/export.yaml` liegen unter `config/legacy/`.
@@ -319,14 +323,16 @@ Anna-Cover).
 - **Higgsfield / Bilder:** `config/higgsfield_models.yaml`, Dashboard-Dropdown,
   Asset-Optimierung `optimize_asset_images.py`. Web-UI-Moodboards nur manuell.
   Details: `docs/higgsfield-integration.md`.
-- **Top-5-Anlage 09/2026** (auf `main`, Roh-Anlage 0 %):
-  `books/kuprin-duell/`, `books/kuprin-moloch/`,
-  `books/grin-wellenlaeuferin/`, `books/pissemski-tausend-seelen/`.
-  Kapitelquellen und Metadaten stehen, DE-Szenen fehlen komplett. Der
+- **Top-5-Anlage 09/2026** (auf `main`): `books/kuprin-duell/`,
+  `books/kuprin-moloch/`, `books/grin-wellenlaeuferin/`,
+  `books/pissemski-tausend-seelen/`. Kapitelquellen und Metadaten stehen,
+  Modell `deepseek/deepseek-v4.1-flash` mit `ai.reasoning_effort: none`.
+  Pilot gelaufen: `kuprin-moloch` Kapitel 001 in `stil-01-original`
+  (Review-Marker, EPUB-Kette geprueft); offen sind 110 Kapitel. Der
   `website:`-Block wurde von `book:` auf top-level korrigiert. Auswahlvorlage:
   `docs/Motivatier-Classics-Umsetzungsrangliste-45.md`.
 - **Noch offen (Prioritaet):** siehe `docs/HANDOVER.md` – Mongolen: 14
   Monolith-Kapitel abschnittsweise in `stil-04-original-geheim`; Chronik-Bilder;
-  Top-5-Pakete (Covers, Szenen, Start der Uebersetzung); Regal Amazon-URLs /
-  Deploy; optional Mint-GLBs. Covers und Uebersetzungslaeufe nur nach
-  ausdruecklicher Freigabe.
+  Top-5: 110 offene Kapitel (Pilot `kuprin-moloch` 001 ist fertig) und das
+  Stilurteil dazu; Regal Amazon-URLs / Deploy; optional Mint-GLBs.
+  Uebersetzungslaeufe weiterhin nur nach ausdruecklicher Freigabe.

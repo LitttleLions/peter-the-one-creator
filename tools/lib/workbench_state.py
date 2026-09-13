@@ -68,6 +68,18 @@ def load_book_state(book: dict[str, Any], repo_root: Path = REPO_ROOT):
     return load_state(status_path)
 
 
+def _style_slugs(book: dict[str, Any], repo_root: Path) -> set[str]:
+    """Style-Slugs des Buchpakets; Style-Ordner sind keine Kapitel."""
+    styles_dir = str(book.get("styles_dir") or "")
+    if not styles_dir:
+        return set()
+    return {
+        str(profile["id"])
+        for profile in available_style_profiles(repo_root / styles_dir)
+        if profile.get("id")
+    }
+
+
 def chapter_ids(book: dict[str, Any], repo_root: Path = REPO_ROOT) -> list[str]:
     output_root = book_output_root(repo_root, book)
     ids = set()
@@ -77,7 +89,19 @@ def chapter_ids(book: dict[str, Any], repo_root: Path = REPO_ROOT) -> list[str]:
     source_lang = str(book.get("source_lang") or "ru")
     source_root = output_root / "scenes" / source_lang
     if source_root.exists():
-        ids.update(p.name for p in source_root.iterdir() if p.is_dir())
+        # Bei source_lang == target_lang teilen Quell- und Zielszenen denselben
+        # Ordner (z. B. books/die-dritte-chronik/work/scenes/de/). Die
+        # Style-Unterordner darin sind keine Kapitel-IDs.
+        style_slugs = _style_slugs(book, repo_root)
+        same_lang = source_lang == str(book.get("target_lang") or "de")
+        for path in source_root.iterdir():
+            if not path.is_dir() or path.name in style_slugs:
+                continue
+            if same_lang and not any(path.glob("scene-*.md")):
+                # Style-Ordner ohne Profil (Alt-Vergleichsordner) enthalten keine
+                # Szenen direkt, sondern nur Kapitel-Unterordner.
+                continue
+            ids.add(path.name)
     state = load_book_state(book, repo_root)
     if state is not None:
         ids.update(ch.id for ch in state.chapters)

@@ -194,16 +194,22 @@ Kapitel ausgewaehlt (1): stil-01-original
 [2/2] python tools/translate_chapter.py --book die-dritte-chronik --chapter stil-01-original ...
 ```
 
-Betroffen ist jedes Paket mit `source_lang == target_lang`. **Guard:** bei der Chronik
-`--missing` nur mit `--from/--to` laufen lassen. Fix-Kandidat:
-`chapter_ids()` darf Style-Ordner nicht als Kapitel-IDs zaehlen.
+Betroffen war jedes Paket mit `source_lang == target_lang` (aktuell nur die Chronik).
+
+**Behoben 2026-09-13:** `chapter_ids()` ueberspringt Style-Ordner – ueber Namensabgleich
+mit `styles/*.md` und, bei gleicher Quell- und Zielsprache, zusaetzlich ueber das
+Strukturmerkmal „Ordner ohne direkte `scene-*.md`“. Regressionstests in
+`tests/test_workbench_state.py`. Beleg nach dem Fix: `--missing --dry-run` plant
+0 Kapitel (vorher 1), der Fortschritt meldet 48/48 statt 49/1. Der Guard entfaellt.
 
 ### Offene Fixes aus diesen Befunden
 
 1. Status-Reparatur per `status.py mark … done` (aelita 30, leben-arsenjews 104, pharao 59; laesst `status.json.style_mode` unberuehrt)
 2. `style_mode` korrigieren (peter-i, feuriger-engel, anna – redaktionelle Entscheidung)
-3. `chapter_ids()` gegen Phantom-Kapitel absichern (+ Regressionstest)
-4. Peter-I-Artefaktordner nach `work/legacy/` verschieben
+3. Peter-I-Artefaktordner nach `work/legacy/` verschieben
+
+Behoben: Phantom-Kapitel bei `source_lang == target_lang` (`chapter_ids()` +
+Regressionstests in `tests/test_workbench_state.py`).
 
 ## Tools (Auswahl, neu / relevant)
 
@@ -222,7 +228,7 @@ Higgsfield: [docs/higgsfield-integration.md](higgsfield-integration.md). Web-UI-
 ## Sinnvolle nächste Schritte
 
 1. Top-5-Pakete: Style bestätigen; Covers für Moloch/Wellenläuferin/Tausend Seelen; Start mit `translate_batch.py --missing --style …` (Style immer explizit)
-2. Fallstricke abarbeiten (siehe „Bekannte Fallstricke“): Status-Reparatur, `style_mode` korrigieren, `chapter_ids()` absichern, Peter-I-Artefakte verschieben
+2. Fallstricke abarbeiten (siehe „Bekannte Fallstricke“): Status-Reparatur, `style_mode` korrigieren, Peter-I-Artefakte verschieben
 3. Regal-Freigabe nach den Covers (`website.enabled: true`, `sort_order` 41–43); `staging/` kann lokal gelöscht werden
 4. Geheime Geschichte: Legacy-DE-Monolithe beiseite legen; 006 abschnittsweise stil-04
 5. Dritte Chronik: fehlende Kapitelbilder; Leser-EPUB prüfen

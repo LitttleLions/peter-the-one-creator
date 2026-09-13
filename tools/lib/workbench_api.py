@@ -90,6 +90,28 @@ class ExportOptions:
 
 
 @dataclass(frozen=True)
+class MarketingOptions:
+    book_id: str
+    style: str | None = None
+    provider: str | None = None
+    regenerate: bool = False
+    no_texts: bool = False
+    dry_run: bool = False
+
+
+@dataclass(frozen=True)
+class XClipOptions:
+    book_id: str
+    song: str = "song-01"
+    cover: str | None = None
+    start: float = 0.0
+    duration: float = 45.0
+    size: int = 1080
+    overwrite: bool = False
+    dry_run: bool = False
+
+
+@dataclass(frozen=True)
 class IllustrationBatchOptions:
     book_id: str
     style: str
@@ -299,6 +321,37 @@ def build_export_command(options: ExportOptions) -> list[str]:
 
 def build_shelf_website_command() -> list[str]:
     return ["tools/build_shelf_website.py"]
+
+
+def build_marketing_export_command(options: MarketingOptions) -> list[str]:
+    cmd = ["tools/export_marketing.py", "--book", options.book_id]
+    if options.style:
+        cmd.extend(["--style", options.style])
+    if options.provider:
+        cmd.extend(["--provider", options.provider])
+    if options.regenerate:
+        cmd.append("--regenerate")
+    if options.no_texts:
+        cmd.append("--no-texts")
+    if options.dry_run:
+        cmd.append("--dry-run")
+    return cmd
+
+
+def build_x_clip_command(options: XClipOptions) -> list[str]:
+    cmd = ["tools/render_x_clip.py", "--book", options.book_id]
+    if options.song:
+        cmd.extend(["--song", options.song])
+    if options.cover:
+        cmd.extend(["--cover", options.cover])
+    cmd.extend(["--start", f"{options.start:g}"])
+    cmd.extend(["--duration", f"{options.duration:g}"])
+    cmd.extend(["--size", str(options.size)])
+    if options.overwrite:
+        cmd.append("--overwrite")
+    if options.dry_run:
+        cmd.append("--dry-run")
+    return cmd
 
 
 def build_webpage_dist_command() -> list[str]:
@@ -865,3 +918,111 @@ def normalize_name_rows(rows: Any) -> list[dict[str, Any]]:
             item["higgsfield"] = {"character_id": character_id}
         result.append(item)
     return result
+
+
+# ---------------------------------------------------------------------------
+# Marketingexport
+# ---------------------------------------------------------------------------
+
+
+def _marketing_module():
+    from lib import marketing_campaign as campaign
+
+    return campaign
+
+
+def marketing_settings(book: dict[str, Any], repo_root: Path) -> dict[str, Any]:
+    """Buchlokale Marketingangaben (nur lesend, ohne Schreibzugriff)."""
+    campaign = _marketing_module()
+    export_data = campaign.load_export_data(book, repo_root)
+    marketing = campaign.marketing_block(export_data)
+    book_root_dir = campaign.book_root(book, repo_root)
+    song_rows = campaign.song_entries(marketing, book_root_dir)
+    generated_file = campaign.generated_path(book_root_dir)
+    overrides = sorted(
+        path.stem for path in campaign.overrides_dir(book_root_dir).glob("*.md")
+    )
+    export_dir = campaign.marketing_export_dir(book, repo_root)
+    return {
+        "enabled": campaign.marketing_enabled(export_data),
+        "has_block": bool(marketing),
+        "campaign_start": str(marketing.get("campaign_start") or "").strip(),
+        "amazon": campaign.amazon_link(export_data),
+        "youtube": campaign.youtube_link(marketing),
+        "songs": [
+            {
+                "id": song["id"],
+                "title": song["title"],
+                "file": song["file"],
+                "file_exists": song["file_exists"],
+                "ai_generated": song["ai_generated"],
+            }
+            for song in song_rows
+        ],
+        "generated_texts": {
+            "path": _relative_or_str(generated_file, repo_root),
+            "exists": generated_file.is_file(),
+            "generator": (
+                campaign.load_generated(book_root_dir).get("generator")
+                if generated_file.is_file()
+                else ""
+            ),
+        },
+        "overrides": overrides,
+        "export_dir": _relative_or_str(export_dir, repo_root),
+        "export_files": sorted(
+            _relative_or_str(path, repo_root)
+            for path in export_dir.iterdir()
+            if path.is_file()
+        )
+        if export_dir.is_dir()
+        else [],
+    }
+
+
+def marketing_context(
+    book: dict[str, Any], style: str, repo_root: Path
+) -> dict[str, Any]:
+    """Beitragsstatus des Marketingpakets fuer die Export-Seite."""
+    campaign = _marketing_module()
+    manifest = campaign.build_campaign(book, repo_root, style)
+    settings = marketing_settings(book, repo_root)
+    posts = [
+        {
+            "id": post["id"],
+            "label": post["label"],
+            "platform": post["platform"],
+            "offset_label": post["offset_label"],
+            "status": post["status"],
+            "text_status": post["text_status"],
+            "publish_status": post["publish_status"],
+            "weighted_chars": post["validation"]["weighted_chars"],
+            "chars_limit": post["validation"]["weighted_chars_limit"],
+            "reasons": post["reasons"],
+            "media_count": len(post["media"]),
+        }
+        for post in manifest["posts"]
+    ]
+    return {
+        "book_id": manifest["book"]["id"],
+        "style": style,
+        "campaign_start": manifest["campaign"]["start"],
+        "timezone": manifest["campaign"]["timezone"],
+        "relative_dates_only": manifest["campaign"]["relative_dates_only"],
+        "amazon": manifest["amazon"],
+        "youtube": manifest["youtube"],
+        "songs_count": len(manifest["songs"]),
+        "posts": posts,
+        "missing": manifest["missing"],
+        "validation_ok": manifest["validation"]["ok"],
+        "open_posts": manifest["validation"]["open_posts"],
+        "media": manifest["media"],
+        "settings": settings,
+    }
+
+
+def _relative_or_str(path: Path, repo_root: Path) -> str:
+    try:
+        return path.resolve().relative_to(repo_root.resolve()).as_posix()
+    except ValueError:
+        return path.as_posix()

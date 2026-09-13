@@ -38,29 +38,35 @@ from lib.output_paths import (  # noqa: E402
 from lib.workbench_api import (  # noqa: E402
     ExportOptions,
     IllustrationBatchOptions,
+    MarketingOptions,
     NewBookOptions,
     OptimizeAssetsOptions,
     ReviewOptions,
     TranslateBatchOptions,
     TranslateRunOptions,
+    XClipOptions,
     build_assemble_chapter_command,
     build_export_command,
     build_extract_scenes_command,
     build_init_book_command,
     build_illustration_batch_command,
+    build_marketing_export_command,
     build_optimize_assets_command,
     build_review_command,
     build_review_fixes_command,
     build_shelf_website_command,
-    build_webpage_dist_command,
     build_translate_batch_command,
     build_translate_chapter_command,
+    build_webpage_dist_command,
+    build_x_clip_command,
     editable_name_rows,
     export_context,
     guess_title_author,
     latest_export_files,
     list_website_books,
     load_website_settings,
+    marketing_context,
+    marketing_settings,
     names_path,
     normalize_name_rows,
     style_options,
@@ -109,7 +115,14 @@ class ActionPlanRequest(BaseModel):
     allow_paid_generation: bool = False
     skip_existing: bool = False
     include_test: bool = False
+    regenerate: bool = False
+    no_texts: bool = False
     fix_action: str | None = None
+    song: str | None = None
+    clip_start: float | None = None
+    clip_duration: float | None = None
+    clip_size: int | None = None
+    clip_overwrite: bool = False
     source: str | None = None
     title: str | None = None
     author: str = ""
@@ -597,10 +610,12 @@ def _build_action_command(plan: ActionPlanRequest, repo_root: Path) -> list[str]
         "extract_chapters",
         "extract_scenes",
         "illustration_batch",
+        "marketing_export",
         "optimize_assets",
         "init_book",
         "review",
         "review_fixes",
+        "render_x_clip",
         "translate_batch",
         "translate_chapter",
     ]
@@ -690,6 +705,22 @@ def _build_action_command(plan: ActionPlanRequest, repo_root: Path) -> list[str]
                 allow_partial=plan.allow_partial,
             )
         )
+    if action == "marketing_export":
+        if plan.regenerate and not plan.provider:
+            raise HTTPException(
+                status_code=400,
+                detail="regenerate erfordert einen provider (openrouter|prompt_file|workspace_ai)",
+            )
+        return build_marketing_export_command(
+            MarketingOptions(
+                book_id=_required(plan.book_id, "book_id"),
+                style=plan.style or None,
+                provider=plan.provider or None,
+                regenerate=plan.regenerate,
+                no_texts=plan.no_texts,
+                dry_run=plan.dry_run,
+            )
+        )
     if action == "illustration_batch":
         return build_illustration_batch_command(
             IllustrationBatchOptions(
@@ -741,6 +772,27 @@ def _build_action_command(plan: ActionPlanRequest, repo_root: Path) -> list[str]
                 ruleset_apply=plan.ruleset_apply,
             )
         )
+    if action == "render_x_clip":
+        start = 0.0 if plan.clip_start is None else float(plan.clip_start)
+        duration = 45.0 if plan.clip_duration is None else float(plan.clip_duration)
+        size = 1080 if plan.clip_size is None else int(plan.clip_size)
+        if start < 0:
+            raise HTTPException(status_code=400, detail="clip_start darf nicht negativ sein")
+        if duration <= 0:
+            raise HTTPException(status_code=400, detail="clip_duration muss > 0 sein")
+        if size not in {720, 1080}:
+            raise HTTPException(status_code=400, detail="clip_size muss 720 oder 1080 sein")
+        return build_x_clip_command(
+            XClipOptions(
+                book_id=_required(plan.book_id, "book_id"),
+                song=(plan.song or "song-01").strip() or "song-01",
+                start=start,
+                duration=duration,
+                size=size,
+                overwrite=plan.clip_overwrite,
+                dry_run=plan.dry_run,
+            )
+        )
     raise HTTPException(status_code=400, detail=f"Nicht geplante Action: {action}")
 
 
@@ -773,6 +825,20 @@ def _background_job_metadata(plan: ActionPlanRequest) -> tuple[str, str, str, st
             _required(plan.style, "style"),
             f"export:{_required(plan.export_format, 'export_format')}",
             "export",
+        )
+    if action == "marketing_export":
+        return (
+            _required(plan.book_id, "book_id"),
+            plan.style or "",
+            plan.provider or "none",
+            "marketing",
+        )
+    if action == "render_x_clip":
+        return (
+            _required(plan.book_id, "book_id"),
+            "",
+            "ffmpeg",
+            "render_x_clip",
         )
     if action == "illustration_batch":
         return (
@@ -828,8 +894,8 @@ def _background_job_metadata(plan: ActionPlanRequest) -> tuple[str, str, str, st
         detail=(
             "Als Hintergrundjob sind aktuell nur review, translate_batch, "
             "translate_chapter, export, illustration_batch, optimize_assets, "
-            "review_fixes, extract_chapters, init_book, build_shelf_website und "
-            "build_webpage_dist erlaubt."
+            "review_fixes, extract_chapters, init_book, build_shelf_website, "
+            "build_webpage_dist und render_x_clip erlaubt."
         ),
     )
 
@@ -1106,6 +1172,22 @@ def create_app(repo_root: Path = REPO_ROOT) -> FastAPI:
         root = _repo_root(request)
         books = list_website_books(root, enabled_only=enabled_only)
         return jsonable({"books": books, "enabled_count": sum(1 for row in books if row.get("enabled"))}, root)
+
+    @app.get("/api/books/{book_id}/marketing")
+    def api_book_marketing(
+        book_id: str,
+        request: Request,
+        style: str | None = Query(default=None),
+        preview: bool = Query(default=True),
+    ) -> dict[str, Any]:
+        root = _repo_root(request)
+        book = _load_book_or_404(root, book_id)
+        chosen_style = style or str(book.get("style_mode") or "")
+        settings = marketing_settings(book, root)
+        if not preview:
+            return {"settings": jsonable(settings, root)}
+        context = marketing_context(book, chosen_style, root)
+        return jsonable(context, root)
 
     @app.get("/api/books/{book_id}/reviews/{style}")
     def api_book_review(book_id: str, style: str, request: Request) -> dict[str, Any]:

@@ -32,6 +32,7 @@ import {
   getJobs,
   getLog,
   getLogs,
+  getMarketingContext,
   getModels,
   getHiggsfieldModels,
   getOllamaModels,
@@ -51,14 +52,16 @@ import {
   startBuildWebpageDistJob,
   startExportJob,
   startIllustrationBatchJob,
+  startMarketingJob,
   startOptimizeAssetsJob,
   startReviewFixJob,
   startReviewJob,
   startTranslateBatchJob,
+  startXClipJob,
   stopJob
 } from "./api";
 import { buildReviewPayload } from "./reviewPayload";
-import type { BookSummary, BuildShelfWebsiteRequest, BuildWebpageDistRequest, ChapterRow, ExportJobRequest, ExtractChaptersRequest, IllustrationBatchRequest, InitBookRequest, JobDetail, LogItem, NameRow, OptimizeAssetsRequest, ReviewFixRequest, ReviewJobRequest, TranslateBatchRequest, WebsiteSettings } from "./types";
+import type { BookSummary, BuildShelfWebsiteRequest, BuildWebpageDistRequest, ChapterRow, ExportJobRequest, ExtractChaptersRequest, IllustrationBatchRequest, InitBookRequest, JobDetail, LogItem, MarketingContext, MarketingJobRequest, MarketingMissingItem, NameRow, OptimizeAssetsRequest, ReviewFixRequest, ReviewJobRequest, TranslateBatchRequest, WebsiteSettings, XClipJobRequest } from "./types";
 import type { WorkspaceSettings } from "./types";
 
 const navItems = [
@@ -2610,6 +2613,8 @@ function ExportPage({ book, settings }: { book?: BookSummary; settings: Workspac
           )}
         </div>
 
+        <MarketingPanel book={book} style={style} />
+
         <JobPanel
           jobs={jobs}
           loading={jobsQuery.isLoading}
@@ -2619,6 +2624,317 @@ function ExportPage({ book, settings }: { book?: BookSummary; settings: Workspac
       </div>
     </section>
   );
+}
+
+function MarketingPanel({ book, style }: { book: BookSummary; style: string }) {
+  const queryClient = useQueryClient();
+  const [provider, setProvider] = useState("none");
+  const [regenerate, setRegenerate] = useState(false);
+  const [noTexts, setNoTexts] = useState(false);
+
+  const marketingQuery = useQuery({
+    queryKey: ["marketing", book.id, style],
+    queryFn: () => getMarketingContext(book.id, style || book.style_mode),
+    enabled: Boolean(book.id)
+  });
+  const startMutation = useMutation({
+    mutationFn: startMarketingJob,
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ["jobs"] });
+      queryClient.invalidateQueries({ queryKey: ["marketing", book.id] });
+    }
+  });
+  const planMutation = useMutation({ mutationFn: planAction });
+
+  const context: MarketingContext | undefined = marketingQuery.data;
+  const payload = buildMarketingPayload({
+    bookId: book.id,
+    style,
+    provider,
+    regenerate,
+    noTexts,
+    dryRun: false
+  });
+  const dryRunPayload = { ...payload, dry_run: true };
+  const regenerateMissingProvider = regenerate && provider === "none";
+  const openPosts = context?.open_posts ?? [];
+
+  return (
+    <div className="panel stack-panel">
+      <div className="panel-header">
+        <div>
+          <h2>Marketingpaket</h2>
+          <p>
+            Startet `export_marketing.py`: X-Beitraege, YouTube-Materialien und ein
+            Kampagnenmanifest aus den vorhandenen Buchdaten. Veroeffentlicht nichts.
+          </p>
+        </div>
+      </div>
+
+      {marketingQuery.isError && (
+        <div className="error-box">
+          Marketing-Kontext konnte nicht geladen werden. {String(marketingQuery.error.message)}
+        </div>
+      )}
+
+      {context && (
+        <div className="metric-grid">
+          <Metric label="Amazon-Link" value={context.amazon.url ? "hinterlegt" : "fehlt"} tone={context.amazon.url ? "ok" : "warn"} />
+          <Metric label="Musikmaterial" value={context.songs_count} tone={context.songs_count ? "ok" : "warn"} />
+          <Metric label="Offene Beitraege" value={openPosts.length} tone={openPosts.length ? "warn" : "ok"} />
+          <Metric label="Kampagnenstart" value={context.relative_dates_only ? "relativ" : "gesetzt"} />
+        </div>
+      )}
+
+      <div className="form-grid">
+        <label className="form-field">
+          <span>Texterzeugung</span>
+          <select value={provider} onChange={(event) => setProvider(event.target.value)}>
+            <option value="none">Vorhandene Texte nutzen (keine Kosten)</option>
+            <option value="workspace_ai">Repository-KI (Arbeitsanweisung)</option>
+            <option value="prompt_file">Promptdatei schreiben</option>
+            <option value="openrouter">OpenRouter (kostenpflichtig)</option>
+          </select>
+        </label>
+      </div>
+
+      <div className="toggle-row">
+        <label>
+          <input type="checkbox" checked={regenerate} onChange={(event) => setRegenerate(event.target.checked)} />
+          <span>Texte neu erzeugen (erfordert Texterzeugung)</span>
+        </label>
+        <label>
+          <input type="checkbox" checked={noTexts} onChange={(event) => setNoTexts(event.target.checked)} />
+          <span>Texterzeugung ueberspringen</span>
+        </label>
+      </div>
+
+      {regenerateMissingProvider && (
+        <div className="error-box">
+          Neue Texte brauchen einen Erzeugungsweg: Repository-KI, Promptdatei oder OpenRouter.
+        </div>
+      )}
+      {startMutation.isError && (
+        <div className="error-box">Marketing-Job: {String(startMutation.error.message)}</div>
+      )}
+      {planMutation.isError && (
+        <div className="error-box">Marketing-Plan: {String(planMutation.error.message)}</div>
+      )}
+
+      {context && (
+        <div className="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Termin</th>
+                <th>Beitrag</th>
+                <th>Status</th>
+                <th>Zeichen</th>
+                <th>Medien</th>
+              </tr>
+            </thead>
+            <tbody>
+              {context.posts.map((post) => (
+                <tr key={post.id}>
+                  <td>{post.offset_label}</td>
+                  <td><code>{post.id}</code></td>
+                  <td>
+                    {post.status}
+                    {post.reasons.length > 0 ? <small> ({post.reasons.join(", ")})</small> : null}
+                  </td>
+                  <td>{`${post.weighted_chars}/${post.chars_limit}`}</td>
+                  <td>{post.media_count}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+
+      {context && context.missing.length > 0 && (
+        <div className="command-preview">
+          <span>Offene Angaben</span>
+          <pre className="log-tail compact">
+            {context.missing
+              .map(
+                (item: MarketingMissingItem) =>
+                  `${item.item} (${item.status}): ${item.affects.join(", ") || "kampagnenweit"} -> ${item.resolution}`
+              )
+              .join("\n")}
+          </pre>
+        </div>
+      )}
+
+      {context?.settings?.export_files && context.settings.export_files.length > 0 && (
+        <div className="command-preview">
+          <span>Dateien im Paket</span>
+          <pre className="log-tail compact">{context.settings.export_files.join("\n")}</pre>
+        </div>
+      )}
+
+      <div className="action-row">
+        <button
+          className="button primary"
+          type="button"
+          disabled={!context || regenerateMissingProvider || startMutation.isPending}
+          onClick={() => startMutation.mutate(payload)}
+        >
+          <FileText size={16} />
+          Marketingpaket erzeugen
+        </button>
+        <button
+          className="button ghost"
+          type="button"
+          disabled={!context || regenerateMissingProvider || planMutation.isPending}
+          onClick={() => planMutation.mutate(dryRunPayload)}
+        >
+          Dry-Run planen
+        </button>
+        <code>{context?.settings?.export_dir ?? "exports/marketing"}</code>
+      </div>
+
+      {planMutation.data && (
+        <div className="command-preview">
+          <span>Geplantes Kommando</span>
+          <pre className="log-tail compact">{planMutation.data.command_text}</pre>
+        </div>
+      )}
+
+      <XClipPanel book={book} />
+    </div>
+  );
+}
+
+function XClipPanel({ book }: { book: BookSummary }) {
+  const queryClient = useQueryClient();
+  const [song, setSong] = useState("song-01");
+  const [start, setStart] = useState("0");
+  const [duration, setDuration] = useState("45");
+  const [overwrite, setOverwrite] = useState(false);
+
+  const startMutation = useMutation({
+    mutationFn: startXClipJob,
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ["jobs"] });
+    }
+  });
+  const planMutation = useMutation({ mutationFn: planAction });
+
+  const payload: XClipJobRequest = {
+    action: "render_x_clip",
+    book_id: book.id,
+    song: song.trim() || "song-01",
+    clip_start: Number(start) || 0,
+    clip_duration: Number(duration) || 45,
+    clip_size: 1080,
+    clip_overwrite: overwrite
+  };
+  const dryRunPayload = { ...payload, dry_run: true };
+  const invalid = !(Number(duration) > 0) || Number(start) < 0;
+
+  return (
+    <div className="panel stack-panel">
+      <div className="panel-header">
+        <div>
+          <h3>X-Clip (MP4 aus Cover + Song)</h3>
+          <p>
+            Rendert ein quadratisches Covervideo (1080x1080, H.264 + AAC) als
+            Anhang fuer X-Posts. Braucht System-ffmpeg. Veraendert keine Quellen.
+          </p>
+        </div>
+      </div>
+
+      <div className="form-grid">
+        <label className="form-field">
+          <span>Song-ID (aus export.yaml)</span>
+          <input value={song} onChange={(event) => setSong(event.target.value)} placeholder="song-01" />
+        </label>
+        <label className="form-field">
+          <span>Start (Sekunden)</span>
+          <input value={start} onChange={(event) => setStart(event.target.value)} inputMode="decimal" />
+        </label>
+        <label className="form-field">
+          <span>Dauer (Sekunden)</span>
+          <input value={duration} onChange={(event) => setDuration(event.target.value)} inputMode="decimal" />
+        </label>
+      </div>
+
+      <div className="toggle-row">
+        <label>
+          <input type="checkbox" checked={overwrite} onChange={(event) => setOverwrite(event.target.checked)} />
+          <span>Bestehenden Clip ersetzen</span>
+        </label>
+      </div>
+
+      {invalid && (
+        <div className="error-box">
+          Start darf nicht negativ sein, Dauer muss groesser als 0 sein.
+        </div>
+      )}
+      {startMutation.isError && (
+        <div className="error-box">X-Clip-Job: {String(startMutation.error.message)}</div>
+      )}
+      {planMutation.isError && (
+        <div className="error-box">X-Clip-Plan: {String(planMutation.error.message)}</div>
+      )}
+
+      <div className="action-row">
+        <button
+          className="button primary"
+          type="button"
+          disabled={invalid || startMutation.isPending}
+          onClick={() => startMutation.mutate(payload)}
+        >
+          <FileText size={16} />
+          X-Clip rendern
+        </button>
+        <button
+          className="button ghost"
+          type="button"
+          disabled={invalid || planMutation.isPending}
+          onClick={() => planMutation.mutate(dryRunPayload)}
+        >
+          Dry-Run planen
+        </button>
+        <code>exports/marketing/clips/</code>
+      </div>
+
+      {planMutation.data && (
+        <div className="command-preview">
+          <span>Geplantes Kommando</span>
+          <pre className="log-tail compact">{planMutation.data.command_text}</pre>
+        </div>
+      )}
+    </div>
+  );
+}
+
+function buildMarketingPayload(options: {
+  bookId: string;
+  style: string;
+  provider: string;
+  regenerate: boolean;
+  noTexts: boolean;
+  dryRun: boolean;
+}): MarketingJobRequest {
+  const payload: MarketingJobRequest = {
+    action: "marketing_export",
+    book_id: options.bookId,
+    style: options.style
+  };
+  if (options.provider !== "none") {
+    payload.provider = options.provider;
+  }
+  if (options.regenerate) {
+    payload.regenerate = true;
+  }
+  if (options.noTexts) {
+    payload.no_texts = true;
+  }
+  if (options.dryRun) {
+    payload.dry_run = true;
+  }
+  return payload;
 }
 
 function buildExportPayload(options: {

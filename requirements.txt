@@ -13,6 +13,11 @@ striprtf>=0.0.32
 streamlit>=1.36.0
 Pillow>=10.0.0
 
+# Zeitzonen-Datenbank fuer zoneinfo (Europe/Berlin im Marketingexport).
+# Unter Windows liefert Python keine System-Zeitzonen; ohne tzdata wirft
+# zoneinfo.ZoneInfo("Europe/Berlin") einen ZoneInfoNotFoundError.
+tzdata>=2024.1
+
 # Neues Dashboard-Backend
 fastapi>=0.115.0,<0.116.0
 starlette>=0.41.3,<0.42.0

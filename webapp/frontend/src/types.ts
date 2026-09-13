@@ -1,3 +1,59 @@
+export type MarketingPostRow = {
+  id: string;
+  label: string;
+  platform: string;
+  offset_label: string;
+  status: string;
+  text_status: string;
+  publish_status: string;
+  weighted_chars: number;
+  chars_limit: number;
+  reasons: string[];
+  media_count: number;
+};
+
+export type MarketingMissingItem = {
+  item: string;
+  status: string;
+  affects: string[];
+  resolution: string;
+};
+
+export type MarketingContext = {
+  book_id: string;
+  style: string;
+  campaign_start: string | null;
+  timezone: string;
+  relative_dates_only: boolean;
+  amazon: { url: string; url_status: string; syntax: string; source: string; assignment: string };
+  youtube: { url: string; url_status: string; public: boolean };
+  songs_count: number;
+  posts: MarketingPostRow[];
+  missing: MarketingMissingItem[];
+  validation_ok: boolean;
+  open_posts: string[];
+  media: { path: string; kind: string; exists: boolean; used_by: string[] }[];
+  settings: {
+    enabled?: boolean;
+    has_block?: boolean;
+    campaign_start?: string;
+    export_dir?: string;
+    export_files?: string[];
+    generated_texts?: { path?: string; exists?: boolean; generator?: string };
+    overrides?: string[];
+  };
+};
+
+export type MarketingJobRequest = {
+  action: "marketing_export";
+  book_id: string;
+  style?: string;
+  provider?: string;
+  regenerate?: boolean;
+  no_texts?: boolean;
+  dry_run?: boolean;
+};
+
 export type BookSummary = {
   id: string;
   title: string;
@@ -269,6 +325,17 @@ export type OptimizeAssetsRequest = {
   dry_run?: boolean;
   skip_existing?: boolean;
   include_test?: boolean;
+};
+
+export type XClipJobRequest = {
+  action: "render_x_clip";
+  book_id: string;
+  song?: string;
+  clip_start?: number;
+  clip_duration?: number;
+  clip_size?: 720 | 1080;
+  clip_overwrite?: boolean;
+  dry_run?: boolean;
 };
 
 export type BooksResponse = {

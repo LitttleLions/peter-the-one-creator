@@ -22,6 +22,9 @@ import type {
   LogsResponse,
   ModelsResponse,
   OptimizeAssetsRequest,
+  MarketingContext,
+  MarketingJobRequest,
+  XClipJobRequest,
   HiggsfieldModelsResponse,
   ReviewArtifactsResponse,
   ReviewFixRequest,
@@ -124,6 +127,25 @@ export function getExportInfo(bookId: string, style: string, scope: string, chap
   return requestJson<ExportInfoResponse>(`/api/books/${encodeURIComponent(bookId)}/exports/${encodeURIComponent(style)}?${params.toString()}`);
 }
 
+export function getMarketingContext(bookId: string, style?: string): Promise<MarketingContext> {
+  const params = style ? `?style=${encodeURIComponent(style)}` : "";
+  return requestJson<MarketingContext>(`/api/books/${encodeURIComponent(bookId)}/marketing${params}`);
+}
+
+export function startMarketingJob(payload: MarketingJobRequest): Promise<JobStartResponse> {
+  return requestJson<JobStartResponse>("/api/jobs", {
+    method: "POST",
+    body: JSON.stringify(payload)
+  });
+}
+
+export function startXClipJob(payload: XClipJobRequest): Promise<JobStartResponse> {
+  return requestJson<JobStartResponse>("/api/jobs", {
+    method: "POST",
+    body: JSON.stringify(payload)
+  });
+}
+
 export function getStyleTest(bookId: string, chapter: string, scene?: string): Promise<StyleTestResponse> {
   const params = new URLSearchParams({ chapter });
   if (scene) {
@@ -178,7 +200,7 @@ export function startTranslateBatchJob(payload: TranslateBatchRequest): Promise<
   });
 }
 
-export function planAction(payload: TranslateBatchRequest | ReviewJobRequest | ReviewFixRequest | ExportJobRequest | IllustrationBatchRequest | OptimizeAssetsRequest | InitBookRequest | ExtractChaptersRequest | BuildShelfWebsiteRequest | BuildWebpageDistRequest): Promise<ActionPlanResponse> {
+export function planAction(payload: TranslateBatchRequest | ReviewJobRequest | ReviewFixRequest | ExportJobRequest | MarketingJobRequest | XClipJobRequest | IllustrationBatchRequest | OptimizeAssetsRequest | InitBookRequest | ExtractChaptersRequest | BuildShelfWebsiteRequest | BuildWebpageDistRequest): Promise<ActionPlanResponse> {
   return requestJson<ActionPlanResponse>("/api/actions/plan", {
     method: "POST",
     body: JSON.stringify(payload)

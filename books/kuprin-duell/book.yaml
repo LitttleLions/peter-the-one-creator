@@ -45,7 +45,7 @@ notes: >-
   (Moskau 1971), S. 7-218. Quelle: az.lib.ru Volltext, bereinigt nach UTF-8.
 ai:
   provider: openrouter
-  model: deepseek/deepseek-v4-flash
+  model: deepseek/deepseek-v4.1-flash
   granularity: scene
   max_tokens_per_scene: 10000
   chunk_char_limit: 12000

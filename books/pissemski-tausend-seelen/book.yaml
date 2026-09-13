@@ -62,7 +62,7 @@ notes: >-
   bereinigt nach UTF-8. Roman in vier Teilen.
 ai:
   provider: openrouter
-  model: deepseek/deepseek-v4-flash
+  model: deepseek/deepseek-v4.1-flash
   granularity: scene
   max_tokens_per_scene: 10000
   chunk_char_limit: 12000

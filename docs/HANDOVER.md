@@ -147,6 +147,16 @@ der Status ist nie zu optimistisch, nur nie nachgefuehrt.
 
 Reparatur ueber den offiziellen CLI-Weg, kein manuelles JSON:
 `python tools/status.py --book <id> mark <nnn> done`.
+Geplanter Umfang dieser Reparatur (Dry-Run geprueft): 193 Kapitel –
+`aelita` 30, `leben-arsenjews` 104, `pharao` 59.
+
+Zusatz: `status.json.style_mode` ist ebenfalls nur ein Snapshot vom Anlagezeitpunkt und
+laeuft nicht nach. Aktuell abweichend: `aelita` (`status.json` `stil-01-original` vs.
+`book.yaml` `stil-03-branderson`) und `leben-arsenjews` (`stil-01-original` vs.
+`stil-02-poetisch`). Bei `peter-i-buch-01` stimmen beide formal auf
+`stil-03-branderson`, obwohl real in `stil-02-poetisch` gearbeitet und exportiert wurde –
+das Feld ist also kein verlaesslicher Hinweis auf den Arbeits-Style. `status.py` hat
+fuer dieses Feld keinen Schreibbefehl; die `mark`-Reparatur laesst es unveraendert.
 
 ### 2. Default-Style weicht vom Arbeits-Style ab (Doppeluebersetzungsgefahr)
 
@@ -190,7 +200,7 @@ Betroffen ist jedes Paket mit `source_lang == target_lang`. **Guard:** bei der C
 
 ### Offene Fixes aus diesen Befunden
 
-1. Status-Reparatur per `status.py mark … done` (aelita 30, leben-arsenjews 104, pharao 59)
+1. Status-Reparatur per `status.py mark … done` (aelita 30, leben-arsenjews 104, pharao 59; laesst `status.json.style_mode` unberuehrt)
 2. `style_mode` korrigieren (peter-i, feuriger-engel, anna – redaktionelle Entscheidung)
 3. `chapter_ids()` gegen Phantom-Kapitel absichern (+ Regressionstest)
 4. Peter-I-Artefaktordner nach `work/legacy/` verschieben

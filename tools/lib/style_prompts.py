@@ -261,6 +261,13 @@ class StylePrompts:
                 "stehen bereits im Quelltext."
             ),
             (
+                "- Technische Kopfzeilen der Quelldatei sind Metadaten und "
+                "gehoeren nicht in die Uebersetzung: Zeilen wie "
+                "'# Kapitel N: ...', '*Buch: ...*' und HTML-Kommentare "
+                "'<!-- ... -->' werden weder uebersetzt noch uebernommen "
+                "noch ersetzt."
+            ),
+            (
                 "- Inhalt, Reihenfolge und Fakten des Quelltexts bleiben "
                 "erhalten; nichts ergaenzen, das nicht im Quelltext steht."
             ),

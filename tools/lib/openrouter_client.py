@@ -50,6 +50,39 @@ class OpenRouterError(RuntimeError):
     """Allgemeiner OpenRouter-Fehler (HTTP, Parsing, Auth, etc.)."""
 
 
+REASONING_EFFORTS = ("minimal", "low", "medium", "high", "xhigh", "max", "none")
+
+
+def build_chat_payload(
+    *,
+    model: str,
+    system: str,
+    user: str,
+    temperature: float,
+    max_tokens: int,
+    reasoning_effort: str | None = None,
+) -> dict:
+    """Baut den Chat-Completions-Payload fuer OpenRouter.
+
+    `reasoning_effort` wird nur gesetzt, wenn angegeben. Reasoning-faehige
+    Modelle verbrauchen ihr Denkbudget sonst aus `max_tokens` und liefern
+    keinen Text (`finish_reason=error` ohne `content`). Erlaubte Werte:
+    siehe `REASONING_EFFORTS`.
+    """
+    payload: dict = {
+        "model": model,
+        "temperature": temperature,
+        "max_tokens": max_tokens,
+        "messages": [
+            {"role": "system", "content": system},
+            {"role": "user", "content": user},
+        ],
+    }
+    if reasoning_effort:
+        payload["reasoning"] = {"effort": reasoning_effort}
+    return payload
+
+
 @dataclass
 class OpenRouterClient:
     api_key: str
@@ -60,6 +93,7 @@ class OpenRouterClient:
     timeout_sec: float = 300.0
     max_retries: int = 2
     backoff_sec: float = 3.0
+    reasoning_effort: str | None = None
     last_usage: dict = field(default_factory=dict)
     usage_totals: dict = field(default_factory=dict)
     last_response_model: str = ""
@@ -128,15 +162,14 @@ class OpenRouterClient:
         ersten Choice zurück.
         """
         url = f"{self.api_base.rstrip('/')}/chat/completions"
-        payload = {
-            "model": model or self.model,
-            "temperature": temperature,
-            "max_tokens": max_tokens,
-            "messages": [
-                {"role": "system", "content": system},
-                {"role": "user", "content": user},
-            ],
-        }
+        payload = build_chat_payload(
+            model=model or self.model,
+            system=system,
+            user=user,
+            temperature=temperature,
+            max_tokens=max_tokens,
+            reasoning_effort=self.reasoning_effort,
+        )
 
         last_err: Optional[Exception] = None
         last_body: str = "(keine Antwort)"

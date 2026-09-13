@@ -47,3 +47,4 @@ ai:
   granularity: scene
   max_tokens_per_scene: 10000
   chunk_char_limit: 12000
+  reasoning_effort: none

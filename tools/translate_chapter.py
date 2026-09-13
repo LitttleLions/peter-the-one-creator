@@ -45,7 +45,9 @@ except Exception:
 import yaml
 
 from lib.book_project import find_book as find_book_project
-from lib.openrouter_client import OpenRouterClient, OpenRouterError
+from lib.openrouter_client import (
+    OpenRouterClient, OpenRouterError, REASONING_EFFORTS,
+)
 from lib.ollama_client import OllamaClient, OllamaError
 from lib.review_fixes import load_chapter_reviews
 from lib.style_prompts import StylePrompts, StylePromptError
@@ -376,6 +378,10 @@ def parse_args():
                     help="Szene-fuer-Szene oder ganzes Kapitel")
     ap.add_argument("--max-tokens", type=int, default=None,
                     help="max_tokens pro OpenRouter-Call")
+    ap.add_argument("--reasoning-effort", choices=list(REASONING_EFFORTS),
+                    default=None,
+                    help="OpenRouter: Reasoning-Budget begrenzen, z. B. 'low' "
+                         "(default: book.yaml: ai.reasoning_effort)")
     ap.add_argument("--chunk-char-limit", type=int, default=None,
                     help="Szenen ueber dieser Zeichenzahl intern in Chunks teilen (0=aus)")
     ap.add_argument("--temperature", type=float, default=None,
@@ -414,6 +420,18 @@ def main():
     max_tokens = args.max_tokens or ai_cfg.get("max_tokens_per_scene", 6000)
     # Chunk-Aufrufe brauchen ggf. mehr Ausgabe-Token (Deutsch laenger als RU)
     chunk_max_tokens = ai_cfg.get("max_tokens_per_chunk") or max(max_tokens, 12000)
+    reasoning_effort = (
+        args.reasoning_effort
+        or (ai_cfg.get("reasoning_effort") or "").strip()
+        or None
+    )
+    if reasoning_effort and reasoning_effort not in REASONING_EFFORTS:
+        print(
+            f"FEHLER: Unbekannter Reasoning-Effort {reasoning_effort!r}. "
+            f"Erlaubt: {', '.join(REASONING_EFFORTS)}",
+            file=sys.stderr,
+        )
+        return 2
     prompt_only = args.provider in ("prompt_file", "workspace_ai", "manual_codex")
 
     chosen_model = f"({args.provider})"
@@ -598,7 +616,9 @@ def main():
     print(f"Granularitaet: {granularity}")
     print(f"Szenen erkannt: {len(scenes)}")
     print(f"Modell: {chosen_model} ({model_info['name']}, {model_info['provider']})")
-    print(f"Temperatur: {temperature}, max_tokens: {max_tokens}")
+    print(f"Temperatur: {temperature}, max_tokens: {max_tokens}"
+          + (f", Reasoning-Effort: {reasoning_effort}"
+             if reasoning_effort else ""))
     print(f"Chunk-Grenze: {chunk_limit if chunk_limit > 0 else 'aus'} Zeichen")
     oversized = [s for s in scenes if should_chunk(s.text, chunk_limit)]
     if oversized:
@@ -654,10 +674,12 @@ def main():
             print(f"FEHLER: {e}", file=sys.stderr)
             return 3
         client.timeout_sec = float(args.timeout)
+        client.reasoning_effort = reasoning_effort
         if args.model:
             client.model = args.model
         print(f"OpenRouter-Client initialisiert "
-              f"(Modell={client.model}).")
+              f"(Modell={client.model}"
+              f"{', Reasoning-Effort=' + reasoning_effort if reasoning_effort else ''}).")
         print()
     elif not args.dry_run and args.provider == "ollama":
         try:

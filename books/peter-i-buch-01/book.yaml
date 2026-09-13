@@ -6,7 +6,7 @@ source_lang: ru
 target_lang: de
 ruleset_path: logic/peter the one - Regeln 001.txt
 ruleset_apply: true
-style_mode: stil-03-branderson
+style_mode: stil-02-poetisch
 work_dir: work
 exports_dir: exports
 status_file: status/status.json

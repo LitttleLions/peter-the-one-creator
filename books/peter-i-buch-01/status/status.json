@@ -6,9 +6,9 @@
   "target_lang": "de",
   "ruleset": "logic/peter the one - Regeln 001.txt",
   "ruleset_apply": true,
-  "style_mode": "stil-03-branderson",
+  "style_mode": "stil-02-poetisch",
   "created_at": "2026-06-03T13:22:20",
-  "updated_at": "2026-06-09T21:29:13",
+  "updated_at": "2026-09-13T15:04:41",
   "chapters": [
     {
       "id": "001",

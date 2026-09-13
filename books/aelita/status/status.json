@@ -8,7 +8,7 @@
   "ruleset_apply": false,
   "style_mode": "stil-03-branderson",
   "created_at": "2026-06-23T19:01:59",
-  "updated_at": "2026-09-13T15:04:41",
+  "updated_at": "2026-09-13T15:10:24",
   "chapters": [
     {
       "id": "001",
@@ -18,7 +18,7 @@
       "words_source": 2107,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:02:56",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -30,7 +30,7 @@
       "words_source": 1242,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:02:56",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -42,7 +42,7 @@
       "words_source": 785,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:02:57",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -54,7 +54,7 @@
       "words_source": 1009,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:02:57",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -62,12 +62,12 @@
       "id": "005",
       "title_ru": "Отлет",
       "title_de": "> „Der Mensch wird immer nach dem Unmöglichen greifen — und manchmal wird er es fassen.\" — Konstantin Ziolkowski, Begründer der theoretischen Raumfahrt, ca. 1903",
-      "status": "done",
+      "status": "needs_review",
       "words_source": 683,
-      "words_target": 0,
+      "words_target": 902,
       "started_at": "2026-06-24T00:19:12",
-      "completed_at": "2026-09-13T15:02:57",
-      "needs_review": false,
+      "completed_at": "2026-06-24T00:20:07",
+      "needs_review": true,
       "notes": ""
     },
     {
@@ -78,7 +78,7 @@
       "words_source": 931,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:02:57",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -90,7 +90,7 @@
       "words_source": 371,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:02:57",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -102,7 +102,7 @@
       "words_source": 1719,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:02:58",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -114,7 +114,7 @@
       "words_source": 1357,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:02:58",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -126,7 +126,7 @@
       "words_source": 743,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:02:58",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -138,7 +138,7 @@
       "words_source": 735,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:02:58",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -150,7 +150,7 @@
       "words_source": 1158,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:02:58",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -162,7 +162,7 @@
       "words_source": 701,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:02:58",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -174,7 +174,7 @@
       "words_source": 386,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:02:59",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -186,7 +186,7 @@
       "words_source": 1936,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:02:59",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -198,7 +198,7 @@
       "words_source": 2613,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:02:59",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -210,7 +210,7 @@
       "words_source": 1589,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:02:59",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -222,7 +222,7 @@
       "words_source": 1134,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:02:59",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -234,7 +234,7 @@
       "words_source": 3978,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:02:59",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -246,7 +246,7 @@
       "words_source": 1563,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:00",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -258,7 +258,7 @@
       "words_source": 1283,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:00",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -270,7 +270,7 @@
       "words_source": 903,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:00",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -282,7 +282,7 @@
       "words_source": 2936,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:00",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -294,7 +294,7 @@
       "words_source": 1064,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:00",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -306,7 +306,7 @@
       "words_source": 2326,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:00",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -318,7 +318,7 @@
       "words_source": 856,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:01",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -330,7 +330,7 @@
       "words_source": 1276,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:01",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -342,7 +342,7 @@
       "words_source": 666,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:01",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -354,7 +354,7 @@
       "words_source": 1063,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:01",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -366,7 +366,7 @@
       "words_source": 2065,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:01",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     }

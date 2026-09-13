@@ -8,7 +8,7 @@
   "ruleset_apply": false,
   "style_mode": "stil-02-poetisch",
   "created_at": "2026-06-17T17:56:00",
-  "updated_at": "2026-09-13T15:03:23",
+  "updated_at": "2026-09-13T15:10:24",
   "chapters": [
     {
       "id": "000",
@@ -138,7 +138,7 @@
       "words_source": 1608,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:16",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -150,7 +150,7 @@
       "words_source": 2415,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:16",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -162,7 +162,7 @@
       "words_source": 3328,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:16",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -174,7 +174,7 @@
       "words_source": 1753,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:17",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -186,7 +186,7 @@
       "words_source": 3552,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:17",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -198,7 +198,7 @@
       "words_source": 1701,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:17",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -210,7 +210,7 @@
       "words_source": 2118,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:17",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -222,7 +222,7 @@
       "words_source": 2348,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:17",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -234,7 +234,7 @@
       "words_source": 3329,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:17",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -246,7 +246,7 @@
       "words_source": 2960,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:17",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -258,7 +258,7 @@
       "words_source": 3660,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:17",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -270,7 +270,7 @@
       "words_source": 2757,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:18",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -282,7 +282,7 @@
       "words_source": 1759,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:18",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -294,7 +294,7 @@
       "words_source": 1794,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:18",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -306,7 +306,7 @@
       "words_source": 3581,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:18",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -318,7 +318,7 @@
       "words_source": 3430,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:18",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -330,7 +330,7 @@
       "words_source": 2399,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:18",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -342,7 +342,7 @@
       "words_source": 2996,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:18",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -354,7 +354,7 @@
       "words_source": 3662,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:18",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -366,7 +366,7 @@
       "words_source": 2011,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:19",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -378,7 +378,7 @@
       "words_source": 2512,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:19",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -390,7 +390,7 @@
       "words_source": 3726,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:19",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -402,7 +402,7 @@
       "words_source": 2768,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:19",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -414,7 +414,7 @@
       "words_source": 2986,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:19",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -426,7 +426,7 @@
       "words_source": 3580,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:19",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -438,7 +438,7 @@
       "words_source": 3605,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:19",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -450,7 +450,7 @@
       "words_source": 2429,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:19",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -462,7 +462,7 @@
       "words_source": 3333,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:19",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -474,7 +474,7 @@
       "words_source": 3033,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:20",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -486,7 +486,7 @@
       "words_source": 3538,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:20",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -498,7 +498,7 @@
       "words_source": 3696,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:20",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -510,7 +510,7 @@
       "words_source": 5374,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:20",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -522,7 +522,7 @@
       "words_source": 2044,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:20",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -534,7 +534,7 @@
       "words_source": 4164,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:20",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -546,7 +546,7 @@
       "words_source": 4323,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:20",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -558,7 +558,7 @@
       "words_source": 2476,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:20",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -570,7 +570,7 @@
       "words_source": 2280,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:21",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -582,7 +582,7 @@
       "words_source": 2440,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:21",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -594,7 +594,7 @@
       "words_source": 3865,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:21",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -606,7 +606,7 @@
       "words_source": 3142,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:21",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -618,7 +618,7 @@
       "words_source": 2049,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:21",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -630,7 +630,7 @@
       "words_source": 2182,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:21",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -642,7 +642,7 @@
       "words_source": 2871,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:21",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -654,7 +654,7 @@
       "words_source": 3663,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:21",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -666,7 +666,7 @@
       "words_source": 2352,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:22",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -678,7 +678,7 @@
       "words_source": 6504,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:22",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -690,7 +690,7 @@
       "words_source": 3737,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:22",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -702,7 +702,7 @@
       "words_source": 5299,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:22",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -714,7 +714,7 @@
       "words_source": 4371,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:22",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -726,7 +726,7 @@
       "words_source": 2239,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:22",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -738,7 +738,7 @@
       "words_source": 3634,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:22",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -750,7 +750,7 @@
       "words_source": 5778,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:22",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -762,7 +762,7 @@
       "words_source": 3336,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:23",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -774,7 +774,7 @@
       "words_source": 4008,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:23",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -786,7 +786,7 @@
       "words_source": 2346,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:23",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -798,7 +798,7 @@
       "words_source": 5309,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:23",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -810,7 +810,7 @@
       "words_source": 2335,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:23",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -822,7 +822,7 @@
       "words_source": 1015,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:23",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     },
@@ -834,7 +834,7 @@
       "words_source": 2262,
       "words_target": 0,
       "started_at": null,
-      "completed_at": "2026-09-13T15:03:23",
+      "completed_at": null,
       "needs_review": false,
       "notes": ""
     }

@@ -1,4 +1,4 @@
-# Handover – Stand 2026-09-10 (Top-5-Anlage: 4 Buchpakete auf `main`, Roh-Anlage 0 %)
+# Handover – Stand 2026-09-13 (Top-5-Pakete auf `main`; Status-/Style-Drift bereinigt, Fallstricke dokumentiert)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei,
 > bei Bedarf [README.md](../README.md) und [webpage/README.md](../webpage/README.md).
@@ -8,7 +8,7 @@
 | Item | Wert |
 |------|------|
 | Aktiver Branch | `main` (tracking `origin/main`) |
-| Tip (inhaltlich) | `af6873c` – Top-5-Buchpakete (Kuprin/Grin/Pissemski), roemische Kapitelziffern (Глава I/X), Regressionstests, Doku-Sync; danach folgen nur Doku-Nachzuege |
+| Tip (inhaltlich) | `af6873c` Top-5-Buchpakete; danach am 2026-09-13 Fixes: Status-Drift (193 Kapitel), `style_mode`-Abgleich, Phantom-Kapitel in `chapter_ids()`, Peter-I-Artefakte nach `work/legacy/`, Doku |
 | Davor auf main | `6588800` (Titelsuche + Rangliste-45 als Vorlage); davor `a7c8c34` (Merge: FastAPI-Dashboard, Regal-Website, HANDOVER), `b376f5c`, `de91155` |
 | Feature-Branch | `codex/geheime-geschichte-mongolen-prompts` – Inhalt ist in `main` enthalten; Branch kann später gelöscht werden |
 | Arbeitsbaum (10.09.2026) | clean bis auf lokale Reste: `staging/` (jetzt in `.gitignore` ausgenommen) und `books/leben-arsenjews/work/cover.png` (Platzhalter) |
@@ -25,12 +25,12 @@ Buchzentrierte Übersetzungs-/Export-Werkbank (`books/<id>/`). Dashboard = FastA
 
 | ID | Titel | Default-Style | Website `sort_order` | Cover unter `assets/covers/` |
 |----|-------|---------------|----------------------|------------------------------|
-| `peter-i-buch-01` | Peter der Erste | stil-03-branderson | 10 | `cover.jpg` |
+| `peter-i-buch-01` | Peter der Erste | stil-02-poetisch | 10 | `cover.jpg` |
 | `aelita` | Aëlita | stil-03-branderson | 10 | `cover.jpg` / `.png` |
 | `leben-arsenjews` | Das Leben Arsenjews | stil-02-poetisch | 20 | `cover.jpg` / `.png` |
-| `anna-karenina` | Anna Karenina | stil-01-original | 20 | prüfen (Regal nutzt ggf. anderes Cover) |
+| `anna-karenina` | Anna Karenina | stil-02-poetisch | 20 | prüfen (Regal nutzt ggf. anderes Cover) |
 | `pharao` | Der Pharao | stil-02-poetisch | 30 | `cover.jpg` |
-| `feuriger-engel` | Der feurige Engel | stil-01-original | 50 | `cover.jpg` / `.png` |
+| `feuriger-engel` | Der feurige Engel | stil-02-poetisch | 50 | `cover.jpg` / `.png` |
 | `die-dritte-chronik` | Die dritte Chronik | stil-01-original | 60 | `cover.jpg` / `.png` |
 | `geheime-geschichte-mongolen` | Die Geheime Geschichte der Mongolen | stil-01-original | 70 | `cover.png` |
 | `kuprin-duell` | Das Duell | stil-01-original | 40 (nicht freigegeben) | `cover.png` |
@@ -150,13 +150,14 @@ Reparatur ueber den offiziellen CLI-Weg, kein manuelles JSON:
 Geplanter Umfang dieser Reparatur (Dry-Run geprueft): 193 Kapitel –
 `aelita` 30, `leben-arsenjews` 104, `pharao` 59.
 
-Zusatz: `status.json.style_mode` ist ebenfalls nur ein Snapshot vom Anlagezeitpunkt und
-laeuft nicht nach. Aktuell abweichend: `aelita` (`status.json` `stil-01-original` vs.
-`book.yaml` `stil-03-branderson`) und `leben-arsenjews` (`stil-01-original` vs.
-`stil-02-poetisch`). Bei `peter-i-buch-01` stimmen beide formal auf
-`stil-03-branderson`, obwohl real in `stil-02-poetisch` gearbeitet und exportiert wurde –
-das Feld ist also kein verlaesslicher Hinweis auf den Arbeits-Style. `status.py` hat
-fuer dieses Feld keinen Schreibbefehl; die `mark`-Reparatur laesst es unveraendert.
+Zusatz: `status.json.style_mode` ist nur ein Snapshot vom Anlagezeitpunkt und lief nicht
+nach (`aelita` `stil-01-original` vs. `book.yaml` `stil-03-branderson`, `leben-arsenjews`
+`stil-01-original` vs. `stil-02-poetisch`). **Behoben 2026-09-13:** an `book.yaml`
+angeglichen (5 Pakete, ueber `load_state`/`save_state`); `status.py` selbst hat fuer
+dieses Feld keinen Schreibbefehl.
+
+**Behoben 2026-09-13:** 193 Kapitel per `status.py mark … done` auf `done` gesetzt –
+`aelita` 30/30, `leben-arsenjews` 104/104, `pharao` 69/69 (jeweils 100 %).
 
 ### 2. Default-Style weicht vom Arbeits-Style ab (Doppeluebersetzungsgefahr)
 
@@ -171,13 +172,18 @@ Folge im Trockenlauf: `peter-i-buch-01 --missing` mit dem Default plant **18 Kap
 (~229k Quellwoerter)**, mit `--style stil-02-poetisch` dagegen **0**. Bei
 `feuriger-engel` 11 statt 0, bei `anna-karenina` 237 statt 73.
 
+**Behoben 2026-09-13:** `style_mode` in `book.yaml` auf den realen Arbeits-Style gesetzt –
+`peter-i-buch-01`, `feuriger-engel` und `anna-karenina` auf `stil-02-poetisch`. Trockenlauf
+ohne `--style` plant jetzt 0 / 0 / 73 Kapitel.
+
 **Regel:** Vor jedem `--missing`-Lauf Style explizit mitgeben und gegen die
 Export-/Log-Evidenz pruefen.
 
 Nebenbefund: `peter-i-buch-01` enthaelt Style-Ordner ohne Profil –
 `work/scenes/de/stylized` (38 Szenen), `work/scenes/de/gemma4-vergleich` (4) sowie
 `work/assembled/literal` und `work/assembled/stylized`. Alt-Vergleichsartefakte, die
-die CLI nie erzeugen wuerde; noch nicht verschoben.
+die CLI nie erzeugen wuerde; verschoben am 2026-09-13 nach
+`work/legacy/style-artefakte-20260913/` (65 Dateien: 38 + 4 + 1 + 22, siehe README dort).
 
 ### 3. `source_lang == target_lang` erzeugt Phantom-Kapitel (aktuell Die dritte Chronik)
 
@@ -202,14 +208,12 @@ Strukturmerkmal „Ordner ohne direkte `scene-*.md`“. Regressionstests in
 `tests/test_workbench_state.py`. Beleg nach dem Fix: `--missing --dry-run` plant
 0 Kapitel (vorher 1), der Fortschritt meldet 48/48 statt 49/1. Der Guard entfaellt.
 
-### Offene Fixes aus diesen Befunden
+### Fixes zu diesen Befunden (alle umgesetzt 2026-09-13)
 
-1. Status-Reparatur per `status.py mark … done` (aelita 30, leben-arsenjews 104, pharao 59; laesst `status.json.style_mode` unberuehrt)
-2. `style_mode` korrigieren (peter-i, feuriger-engel, anna – redaktionelle Entscheidung)
-3. Peter-I-Artefaktordner nach `work/legacy/` verschieben
-
-Behoben: Phantom-Kapitel bei `source_lang == target_lang` (`chapter_ids()` +
-Regressionstests in `tests/test_workbench_state.py`).
+1. Status-Reparatur: 193 Kapitel via `status.py mark … done` (aelita 30, leben-arsenjews 104, pharao 59)
+2. `style_mode`: `book.yaml` von peter-i, feuriger-engel und anna auf `stil-02-poetisch`; `status.json.style_mode` in 5 Paketen angeglichen
+3. Phantom-Kapitel bei `source_lang == target_lang`: `chapter_ids()` ueberspringt Style-Ordner (+ Regressionstests in `tests/test_workbench_state.py`)
+4. Peter-I-Artefakte nach `work/legacy/style-artefakte-20260913/` verschoben (65 Dateien, README dort)
 
 ## Tools (Auswahl, neu / relevant)
 
@@ -227,9 +231,9 @@ Higgsfield: [docs/higgsfield-integration.md](higgsfield-integration.md). Web-UI-
 
 ## Sinnvolle nächste Schritte
 
-1. Top-5-Pakete: Style bestätigen; Covers für Moloch/Wellenläuferin/Tausend Seelen; Start mit `translate_batch.py --missing --style …` (Style immer explizit)
-2. Fallstricke abarbeiten (siehe „Bekannte Fallstricke“): Status-Reparatur, `style_mode` korrigieren, Peter-I-Artefakte verschieben
-3. Regal-Freigabe nach den Covers (`website.enabled: true`, `sort_order` 41–43); `staging/` kann lokal gelöscht werden
+1. Top-5-Pakete: Style bestätigen; Covers für Moloch/Wellenläuferin/Tausend Seelen; Start mit `translate_batch.py --missing` (Default `stil-01-original`)
+2. Regal-Freigabe nach den Covers (`website.enabled: true`, `sort_order` 41–43); `staging/` kann lokal gelöscht werden
+3. Anna Karenina: 73 offene Kapitel (167–239) in `stil-02-poetisch` – Default-Style ist jetzt korrekt gesetzt
 4. Geheime Geschichte: Legacy-DE-Monolithe beiseite legen; 006 abschnittsweise stil-04
 5. Dritte Chronik: fehlende Kapitelbilder; Leser-EPUB prüfen
 6. Regal: Amazon-URLs setzen; optional Mint-Hardcover-GLBs; Deploy von `webpage/dist/`

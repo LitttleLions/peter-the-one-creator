@@ -8,18 +8,18 @@
   "ruleset_apply": false,
   "style_mode": "stil-01-original",
   "created_at": "2026-09-09T21:40:43",
-  "updated_at": "2026-09-13T15:39:16",
+  "updated_at": "2026-09-13T16:01:49",
   "chapters": [
     {
       "id": "001",
       "title_ru": "Глава I",
-      "title_de": "",
-      "status": "pending",
+      "title_de": "Die Fabriksirene heulte langgezogen und verkündete den Beginn des Arbeitstages. Der dumpfe, heisere, ununterbrochene Laut schien unter der Erde hervorzukommen und sich tief über ihre Oberfläche hinzubreiten. Das trübe Morgendämmern eines regnerischen Augusttages verlieh ihm einen herben Anflug von Schwermut und Drohung.",
+      "status": "needs_review",
       "words_source": 1049,
-      "words_target": 0,
-      "started_at": "2026-09-13T15:39:15",
-      "completed_at": null,
-      "needs_review": false,
+      "words_target": 1245,
+      "started_at": "2026-09-13T16:01:28",
+      "completed_at": "2026-09-13T16:01:49",
+      "needs_review": true,
       "notes": ""
     },
     {

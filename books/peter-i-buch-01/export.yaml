@@ -151,5 +151,26 @@ book:
     image_path: assets/covers/peteri.png
 website:
   enabled: true
-  amazon_url: ''
+  amazon_url: 'https://amzn.to/4vLjAlF'
   sort_order: 10
+marketing:
+  enabled: true
+  campaign_start: ''
+  timezone: Europe/Berlin
+  amazon_url: ''
+  media: {}
+  youtube:
+    url: ''
+    video_id: ''
+    public: false
+  songs:
+  - id: song-01
+    title: 'Peter der Erste – Lied zum Roman'
+    file: 'assets/audio/peter-i-song-01.mp3'
+    lyrics_file: ''
+    clip_start_seconds: null
+    clip_duration_seconds: null
+    full_video: ''
+    short_clips: []
+    credits: []
+    ai_generated: true

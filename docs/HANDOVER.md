@@ -1,4 +1,4 @@
-# Handover – Stand 2026-09-13 (Top-5-Pakete auf `main`; Status-/Style-Drift bereinigt, Fallstricke dokumentiert, Mongolen-Befund belegt, V4.1-Flash-Pilot gelaufen)
+# Handover – Stand 2026-09-14 (Top-5-Pakete auf `main`; Status-/Style-Drift bereinigt, Fallstricke dokumentiert, Mongolen-Befund belegt, V4.1-Flash-Pilot gelaufen, Marketingexport umgesetzt + X-Clip)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei,
 > bei Bedarf [README.md](../README.md) und [webpage/README.md](../webpage/README.md).
@@ -11,7 +11,8 @@
 | Tip (inhaltlich) | `af6873c` Top-5-Buchpakete; danach am 2026-09-13 Fixes: Status-Drift (verlustfrei, 390 Kapitel), `style_mode`-Abgleich, Phantom-Kapitel in `chapter_ids()`, Peter-I-Artefakte nach `work/legacy/`, Doku, Mongolen-Belegpruefung, Handcover, V4.1-Flash-Pilot (`kuprin-moloch` 001) |
 | Davor auf main | `6588800` (Titelsuche + Rangliste-45 als Vorlage); davor `a7c8c34` (Merge: FastAPI-Dashboard, Regal-Website, HANDOVER), `b376f5c`, `de91155` |
 | Feature-Branch | `codex/geheime-geschichte-mongolen-prompts` – Inhalt ist in `main` enthalten; Branch kann später gelöscht werden |
-| Arbeitsbaum (13.09.2026) | clean; ausserhalb der Versionierung nur `staging/` (gitignored: lokale Audit-/Reparaturhelfer `audit_*.py`, `repair_status_v2.py`, `run-*.cmd`, `probe_*.py`) und `books/leben-arsenjews/work/cover.png` (Platzhalter). Cover-Stand: `0162ef9` |
+| Arbeitsbaum (13.09.2026) | clean; ausserhalb der Versionierung nur `staging/` (gitignored: lokale Audit-/Reparaturhelfer `audit_*.py`, `repair_status_v2.py`, `run-*.cmd`, `probe_*.py`), `var/` (Laufzeitlogs) und `books/leben-arsenjews/work/cover.png` (Platzhalter). Cover-Stand: `0162ef9` |
+| Neu 2026-09-13 (nicht committet) | Marketingexport: `tools/export_marketing.py`, `tools/lib/marketing_campaign.py`, `tools/lib/marketing_prompts.py`, `config/marketing.yaml`, `docs/marketing-export.md`, `tests/test_marketing_campaign.py`, `tests/test_marketing_prompts.py`, `tests/test_marketing_api.py`; geaendert: `requirements.txt` (+`tzdata`), `tools/lib/workbench_api.py`, `webapp/backend/main.py`, `webapp/frontend/src/{App.tsx,api.ts,types.ts}`, `books/peter-i-buch-01/export.yaml` (+`marketing:`-Block), `AGENTS.md`, `README.md`, `docs/HANDOVER.md` |
 
 **Warnung (schon passiert):** Checkout auf ein altes `main` ohne die Codex-Commits ließ Buchordner als leere Hüllen zurück. Nicht blind zwischen Branches wechseln, ohne vorher zu prüfen, ob `books/*/book.yaml` noch da sind.
 
@@ -67,8 +68,21 @@ Katalog neu bauen: `python tools/build_shelf_website.py` → `webpage/public/dat
   fehlen im globalen Python 3.13 (`import fastapi` schlaegt fehl) und
   `webapp/frontend/node_modules` fehlt. Vorher einmalig
   `pip install -r requirements.txt` und `npm install` in `webapp/frontend/`
-  (Node v22.22.2 / npm 10.9.7 sind vorhanden). Derselbe Grund erklaert den
-  bekannten Fehler `test_backend_api` in der Testsuite – kein Regressionssignal.
+  (Node v22.22.2 / npm 10.9.7 sind vorhanden).
+- **Fallstrick `python` im PATH (13.09.2026):** In dieser Umgebung zeigt `python`
+  auf ein fremdes, per Anwendungssteuerungsrichtlinie blockiertes venv
+  (`C:\Users\<user>\AppData\Local\hermes\hermes-agent\venv`). Jeder
+  `python …`-Aufruf scheitert dann mit „Eine Anwendungssteuerungsrichtlinie hat
+  diese Datei blockiert" – auch `dev.cmd`. **Loesung: `py -3` verwenden**
+  (Python 3.13.12 unter `AppData\Local\Programs\Python\Python313`) und dort
+  `py -3 -m pip install -r requirements.txt` ausfuehren.
+- **Bekannter Testfehler `test_backend_api` (2 Tests, belegt 2026-09-13):**
+  `test_action_plan_translate_batch` und `test_job_start_allows_translate_batch`
+  senden `ollama_model: gemma4:latest`, waehrend das lokal laufende Ollama nur
+  `gemma4:e4b` anbietet. `_validate_ollama_model` antwortet deshalb korrekt mit
+  400. Kein Regressionssignal des Repos – entweder Modell-Tag lokal anpassen
+  (`ollama pull gemma4:latest`) oder den Test auf ein vorhandenes Modell
+  umstellen.
 - URL: http://127.0.0.1:8000
 - Unter Windows nutzt `start_dashboard.py` `npm.cmd` für Frontend-Builds
 - Nav **Website** (`/website`): Freigabe-Übersicht, Jobs „Katalog neu bauen“ / „Website-Build (dist)“
@@ -83,6 +97,68 @@ Katalog neu bauen: `python tools/build_shelf_website.py` → `webpage/public/dat
 - Production: `python tools/build_webpage_dist.py` → Inhalt von `webpage/dist/` deployen
 - Branding: Motivatier Klassiks; Seiten Über uns / Impressum unter `webpage/public/`
 - Mint-GLB-Hardcover: noch nicht eingebunden (Fallback-Boxen + Cover-Texturen)
+
+## Marketingexport (neu 2026-09-13, X-Clip 2026-09-14)
+
+Erzeugt aus vorhandenen Buchdaten X-Beitraege, YouTube-Materialien und ein
+Kampagnenmanifest. Es wird **nichts veroeffentlicht** und **keine
+Plattform-API** angesprochen. Details:
+[marketing-export.md](marketing-export.md).
+
+| Baustein | Pfad |
+|---|---|
+| CLI | `tools/export_marketing.py` (`--book`, `--style`, `--all`, `--dry-run`, `--provider`, `--regenerate`, `--no-texts`) |
+| Kernlogik | `tools/lib/marketing_campaign.py` (IDs, Termine, Zeichengewichtung, Medien, Status, Manifest, Rendering) |
+| Prompts | `tools/lib/marketing_prompts.py` (Datenbrief, JSON-Auswertung, Provenienz) |
+| Globale Config | `config/marketing.yaml` (Marke, Shelf-URL, Zeitplan, **alle Plattformlimits**) |
+| Buchlokal | top-level `marketing:` in `export.yaml` |
+| Ausgabe | `books/<id>/exports/marketing/{campaign.json,posts.md,youtube.md,media.json,README.md}` |
+| Texte | `work/marketing/generated.json`, Overrides `work/marketing/overrides/<post-id>.md` |
+| Dashboard | Export-Seite → Karte **Marketingpaket** (+ Sektion **X-Clip**); `GET /api/books/{id}/marketing`, Actions `marketing_export` / `render_x_clip` |
+| Tests | `tests/test_marketing_campaign.py`, `tests/test_marketing_prompts.py`, `tests/test_marketing_api.py`, `tests/test_render_x_clip.py` |
+| X-Clip | `tools/render_x_clip.py` + `tools/lib/x_clip.py` (Cover + Song → quadratisches MP4, H.264/AAC, `faststart`); Ausgabe `exports/marketing/clips/<song>-x-<dauer>s.mp4` + `-check.jpg`; braucht System-ffmpeg, veraendert keine Quellen |
+
+Wichtige Eigenschaften:
+
+- **Keine Kosten ohne Auftrag:** ohne `--provider` werden nur vorhandene Texte
+  verwendet. Neu erzeugt wird nur bei geaendertem Quellhash (Metadaten +
+  Leseprobe), geaenderter `prompt_version` oder `--regenerate`;
+  `generated_at` allein loest keine Neuversion aus.
+- **EPUB bleibt unberuehrt:** der Manuskript-Export liest den
+  `marketing:`-Block nicht (Regressionstest vorhanden).
+- **Offene Angaben statt Luecken:** fehlender Amazon-Link →
+  `needs_amazon_url` (Platzhalter bleibt im Manifest strukturiert sichtbar),
+  fehlender YouTube-Link → `needs_youtube_url`, privates Video → `blocked`,
+  Songdatei fehlt → `blocked`, kein Songdatensatz → `omitted`. Musik- und
+  Videopositionen werden **nicht** mit Ersatztext gefuellt.
+- **Editoriale Vorabsaetze sind keine Zitate:** die Leseprobe ueberspringt
+  Blockzitate am Szenenanfang (Peter-I-Vorspaenne), damit kein redaktioneller
+  Text als Autorenstelle erscheint.
+- **Bilder:** thematische Zuordnung ueber Inhaltswoerter, nie automatisch nur
+  das erste Bild; `_alt`-Dateien und `chapter-007-a.jpg` zaehlen nicht als
+  eigenes Kapitelbild.
+- **Zeichenpruefung:** konservative Naeherung (URL = 23, breite Zeichen = 2),
+  Zielband 220–250, Limit 280 – ausdruecklich keine Plattformvalidierung.
+
+**Pilot (`peter-i-buch-01`, 2026-09-13):** Texte als Repository-KI aus dem
+Datenbrief erzeugt (keine API-Kosten). Ergebnis: `x-t0-intro` 232,
+`x-t5-content` 239, `x-t8-sample` 228, `x-t12-second-angle` 206 gewichtete
+Zeichen (alle `needs_amazon_url`), `yt-short-2` 443 Zeichen (`generated`),
+Musikpositionen `omitted` (kein Songdatensatz). Offen im Pilot: Amazon-URL,
+YouTube-Adresse, Songdaten, Kampagnenstart.
+
+**Peter I Nachpflege (2026-09-14, keine Kosten, kein Publish):**
+`website.amazon_url = https://amzn.to/4vLjAlF` (Kurzlink: Syntax ok,
+`is_amazon_host: false`, `user_provided`); Song `song-01`
+(`Peter der Erste – Lied zum Roman`, `assets/audio/peter-i-song-01.mp3`,
+`ai_generated: true`) nach fester Namensregel; X-Clip
+`exports/marketing/clips/song-01-x-45s.mp4` (45,0 s, 1080x1080, H.264/AAC,
+ffmpeg-verifiziert) + Kontrollbild. Offen: 4 Songtexte (`text_missing`),
+YouTube-URL, Kampagnenstart; X-Texte teils ueber Zielband (Override-Kuerzung).
+
+**Umgebung:** `tzdata` wurde in `requirements.txt` aufgenommen (Windows liefert
+ohne Daten keine `Europe/Berlin`-Zeitzone); `berlin_tzinfo()` faellt sonst
+deterministisch auf die EU-Sommerzeitregel zurueck.
 
 ## Wichtige Buchstände
 
@@ -351,10 +427,17 @@ nicht.
 | `tools/import_die_dritte_chronik.py` | Chronik-Import |
 | `tools/optimize_asset_images.py` | Export-JPGs verkleinern |
 | `tools/generate_illustration.py` | Higgsfield Kapitel/Szenen |
+| `tools/export_marketing.py` | Marketingpaket (Beitraege, YouTube-Materialien, `campaign.json`); siehe [marketing-export.md](marketing-export.md) |
 
 Higgsfield: [docs/higgsfield-integration.md](higgsfield-integration.md). Web-UI-Moodboards sind CLI-seitig nicht wählbar.
 
 ## Sinnvolle nächste Schritte
+
+0. Marketingexport im Dashboard live pruefen (Export-Seite → Karte
+   Marketingpaket), danach `git add`/commit der neuen Dateien (die Aenderung ist
+   noch nicht committet). Offen dafuer: Amazon-URLs in den `export.yaml`-Dateien,
+   optional Songdaten, optional `marketing.campaign_start`. Ein echter
+   OpenRouter-Textlauf ist kostenpflichtig und braucht ausdrueckliche Freigabe.
 
 1. Top-5-Pakete: Pilot `kuprin-moloch` 001 ist gelaufen (2026-09-13, `needs_review`, 6682 Tokens, EPUB-Kette geprueft) – naechster Schritt ist das Stilurteil anhand dieser Szene; danach je Buch `translate_batch.py --missing --style stil-01-original --auto-status --assemble-after` (batch-seitig kein `--model`/`--reasoning-effort` noetig, beides kommt aus `book.yaml`; ohne `--auto-status` bleibt `status.json` auf `pending` → Status-Drift)
 2. Regal-Freigabe nach der finalen Cover-Wahl (`website.enabled: true`, `sort_order` 41–43; `kuprin-duell` behält 40), danach `python tools/build_shelf_website.py` – die Handcover sind seit `0162ef9` im Repo, die Regal-Kopien fuer aelita/mongolen aber noch alt. Cover entstehen weiter von Hand (kein CLI-Weg: `generate_illustration.py` kennt nur `--kind scene|chapter`)

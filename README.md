@@ -70,9 +70,11 @@ books/<book-id>/
     scenes/de/<style>/
     assembled/<style>/
     prompts/
+    marketing/
     style-tests/
     legacy/
   exports/<style>/<chapter|book>/
+  exports/marketing/
   status/status.json
   status/logs/
 ```
@@ -184,6 +186,11 @@ python tools/generate_illustration.py --book pharao --chapter 001 --scene 01 --k
 python tools/generate_illustration.py --book pharao --chapter 001 --kind chapter --style stil-02-poetisch
 python tools/generate_illustration.py --book pharao --chapter 001 --scene 01 --kind scene --style stil-02-poetisch --overwrite
 python tools/generate_illustration.py --book pharao --chapter 001 --scene 01 --kind scene --style stil-02-poetisch --dry-run
+
+# Marketingpaket (erzeugt nichts oeffentlich; ohne --provider keine API-Kosten)
+python tools/export_marketing.py --book peter-i-buch-01 --dry-run
+python tools/export_marketing.py --book peter-i-buch-01
+python tools/export_marketing.py --book peter-i-buch-01 --provider workspace_ai
 ```
 
 `translate_batch.py` ist ein Uebersetzungs-Batch, kein Export-Befehl. Er
@@ -425,7 +432,45 @@ books/<book-id>/exports/<style>/chapter/pdf/
 books/<book-id>/exports/<style>/book/docx/
 books/<book-id>/exports/<style>/book/epub/
 books/<book-id>/exports/<style>/book/pdf/
+books/<book-id>/exports/marketing/        # Marketingpaket (campaign.json, posts.md, youtube.md, media.json, README.md, clips/)
 ```
+
+## Marketingexport
+
+`tools/export_marketing.py` erzeugt aus den vorhandenen Buchdaten ein
+Marketingpaket: X-Beitraege, YouTube-Materialien (Liedvideo, zwei Shorts,
+Shotlists) und ein maschinenlesbares Kampagnenmanifest. Es wird **nichts
+veroeffentlicht**; eine Anbindung an X, YouTube oder Postiz gibt es bewusst
+nicht.
+
+```text
+books/<book-id>/
+  work/marketing/generated.json          # KI-/Repository-KI-Texte + Herkunft
+  work/marketing/overrides/<post-id>.md  # manuelle Fassung (hat Vorrang)
+  exports/marketing/campaign.json        # Manifest fuer die spaetere Uebergabe
+  exports/marketing/posts.md             # X-Beitraege
+  exports/marketing/youtube.md           # Liedvideo + Shorts
+  exports/marketing/media.json           # Medien, repo-relative Pfade
+  exports/marketing/README.md            # offene Angaben und Pflegeanleitung
+```
+
+Buchlokale Angaben stehen als top-level `marketing:`-Block in `export.yaml`:
+Amazon-Link (`website.amazon_url` oder `marketing.amazon_url`),
+`campaign_start`, `youtube.{url,video_id,public}`, `songs[]` und optionale
+Bildzuordnungen `media{}`. Marke, Shelf-URL, Zeitplan und alle Plattformlimits
+stehen in `config/marketing.yaml`.
+
+Ein Standardlauf ohne `--provider` kostet nichts: Vorhandene Texte werden
+wiederverwendet. Neu erzeugt wird nur bei geaenderten Quelldaten, geaenderter
+`prompt_version` oder ausdruecklichem `--regenerate`. Fehlende Marketingdaten
+blockieren den EPUB-Export nicht.
+
+X kann keine reinen Audiodateien abspielen: `tools/render_x_clip.py` rendert
+aus Cover + Song einen quadratischen MP4-Clip (`exports/marketing/clips/`,
+H.264/AAC, braucht System-ffmpeg) – auch als Hintergrundjob aus der
+Dashboard-Sektion **X-Clip** auf der Export-Seite.
+
+Details: `docs/marketing-export.md`.
 
 ## Lokaler Start unter Windows
 
@@ -457,10 +502,11 @@ python tools/start_dashboard.py
 URL: `http://127.0.0.1:8000`
 
 Das Dashboard liest Buchpakete aus `books/*/book.yaml`. Es bietet Uebersicht,
-Buchsetup, Uebersetzen, Stiltest, Review, Export, Higgsfield/Bilder, Namen,
-Logs und **Website** (Regal-Freigabe, Katalog-/Dist-Jobs). Die verbindliche
-Optik-Referenz liegt in `docs/dashboard-design-system.md`. Die oeffentliche
-Regal-Website selbst liegt unter `webpage/` (siehe `webpage/README.md`).
+Buchsetup, Uebersetzen, Stiltest, Review, Export (inkl. Karte
+**Marketingpaket**), Higgsfield/Bilder, Namen, Logs und **Website**
+(Regal-Freigabe, Katalog-/Dist-Jobs). Die verbindliche Optik-Referenz liegt in
+`docs/dashboard-design-system.md`. Die oeffentliche Regal-Website selbst liegt
+unter `webpage/` (siehe `webpage/README.md`).
 
 Lange Uebersetzungs- und Review-Laeufe werden ueber den framework-neutralen
 Job-Service `tools/lib/dashboard_jobs.py` als Hintergrundprozesse gestartet.

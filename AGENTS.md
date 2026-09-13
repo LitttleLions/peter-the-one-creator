@@ -51,9 +51,11 @@ books/<book-id>/
     scenes/de/<style>/NNN/  # DE-Szenen je Style
     assembled/<style>/      # zusammengesetzte Kapitelversionen
     prompts/                # prompt_file/workspace_ai-Ausgaben
+    marketing/              # Marketingtexte (generated.json, overrides/, generation-request.md)
     style-tests/            # Vergleichs- und Referenzdateien
     legacy/                 # alte Dateien/Konflikte fuer dieses Buch
   exports/<style>/<scope>/  # DOCX-/EPUB-/PDF-Ausgaben
+  exports/marketing/        # Marketingpaket (campaign.json, posts.md, youtube.md, media.json, README.md)
   status/status.json
   status/logs/NNN.log.md
 ```
@@ -67,6 +69,7 @@ Globale Ordner:
 - `docs/` - Dashboard-Design, Higgsfield, Handover
 - `config/models.yaml` - OpenRouter-Modellkatalog
 - `config/pipeline.yaml` - globale Pipeline-Defaults
+- `config/marketing.yaml` - Marketingexport: Marke, Shelf-URL, Zeitplan, Plattformlimits
 - `config/style_modes.yaml` - Legacy-Style-Modi
 - `styles/` - globale Style-Vorlagen fuer neue Buchpakete
 - `logic/` - Original-Regelmaterial; nicht ohne Rueckfrage aendern
@@ -167,6 +170,10 @@ python tools/assemble_chapter.py --book anna-karenina --chapter 001 --style stil
 # DOCX/EPUB/PDF exportieren
 python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter 001 --style stil-01-original --format all --allow-partial
 python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter 001 --style stil-01-original --format pdf --allow-partial
+
+# Marketingpaket erzeugen (nichts veroeffentlichen; ohne --provider keine Kosten)
+python tools/export_marketing.py --book anna-karenina --dry-run
+python tools/export_marketing.py --book anna-karenina
 
 # Status
 python tools/status.py --book anna-karenina summary
@@ -289,6 +296,33 @@ zweiten top-level Block an (`_write_website_settings_preserving_yaml`).
 PDF wird explizit mit `--format pdf` erzeugt. `--format all` bleibt
 rueckwaertskompatibel bei DOCX+EPUB.
 
+## Marketingexport
+
+`tools/export_marketing.py` erzeugt aus den vorhandenen Buchdaten ein
+Marketingpaket unter `books/<id>/exports/marketing/` (`campaign.json`,
+`posts.md`, `youtube.md`, `media.json`, `README.md`, `clips/` fuer X-MP4s). Details:
+[docs/marketing-export.md](./docs/marketing-export.md).
+
+- Es wird **nichts veroeffentlicht** und **keine Plattform-API** angesprochen.
+- Der Buch-/EPUB-Export bleibt unberuehrt: Fehlende Marketingdaten blockieren
+  ihn nicht (Regressionstest in `tests/test_marketing_campaign.py`).
+- Buchlokale Angaben stehen als **top-level** `marketing:`-Block in
+  `export.yaml` (analog zu `website:`): `campaign_start`, `amazon_url`,
+  `youtube.{url,video_id,public}`, `songs[]`, `media{}`, `enabled`.
+  Der Amazon-Link kommt primaer aus `website.amazon_url`.
+- Globale Defaults und **alle Plattformlimits** stehen in
+  `config/marketing.yaml`.
+- Texte liegen in `work/marketing/generated.json`; manuelle Fassungen in
+  `work/marketing/overrides/<post-id>.md` haben Vorrang. Ohne `--provider`
+  entstehen **keine** API-Kosten; neu erzeugt wird nur bei geaenderten
+  Quelldaten, geaenderter `prompt_version` oder `--regenerate`.
+- Medien werden repo-relativ zugeordnet; Musik-/Videopositionen bleiben ohne
+  Songdaten `omitted`/`blocked` mit Grund, statt Ersatztexte zu erfinden.
+- Dashboard: Seite **Export** → Karte **Marketingpaket** (+ Sektion **X-Clip**:
+  `tools/render_x_clip.py`, Cover + Song → quadratisches MP4 unter
+  `exports/marketing/clips/`, braucht System-ffmpeg); API
+  `GET /api/books/{id}/marketing`, Actions `marketing_export` / `render_x_clip`.
+
 ## Aktueller Stand
 
 Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**
@@ -336,3 +370,10 @@ V4.1-Flash-Pilot `kuprin-moloch` 001).
   Top-5: 110 offene Kapitel (Pilot `kuprin-moloch` 001 ist fertig) und das
   Stilurteil dazu; Regal Amazon-URLs / Deploy; optional Mint-GLBs.
   Uebersetzungslaeufe weiterhin nur nach ausdruecklicher Freigabe.
+- **Marketingexport** (umgesetzt 2026-09-13, X-Clip 2026-09-14): `tools/export_marketing.py`,
+  `tools/lib/marketing_campaign.py`, `tools/lib/marketing_prompts.py`,
+  `tools/render_x_clip.py`, `tools/lib/x_clip.py`, `config/marketing.yaml`, Dashboard-Karte **Marketingpaket** (+ **X-Clip**-Sektion) auf der
+  Export-Seite, API `GET /api/books/{id}/marketing` + Actions
+  `marketing_export` / `render_x_clip`. Pilot gelaufen fuer `peter-i-buch-01` (Texte als
+  Repository-KI, Amazon-Link und Songdaten fehlen bewusst und werden als offene
+  Status ausgewiesen). Details: [docs/marketing-export.md](./docs/marketing-export.md).

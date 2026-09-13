@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "book_id": "peter-i-buch-01",
+  "style": "stil-02-poetisch",
+  "generator": "openrouter",
+  "model": "deepseek/deepseek-v4-pro",
+  "generated_at": "2026-09-13T18:02:51+00:00",
+  "prompt_version": "marketing-1",
+  "source_hash": "a617e4525196170b",
+  "usage": {
+    "prompt_tokens": 2482,
+    "completion_tokens": 721,
+    "total_tokens": 3203,
+    "cost": 0.0051012,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0051012,
+      "upstream_inference_prompt_cost": 0.0032266,
+      "upstream_inference_completions_cost": 0.0018746
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "notes": [],
+  "texts": {
+    "x-t0-intro": {
+      "text": "Ein Zar, der sein Reich mit Gewalt in die Moderne stößt. Alexei Tolstois \"Peter der Erste\" erzählt vom rastlosen Herrscher, der Schiffe baut, Städte gründet und Russland nach Europa öffnet – koste es, was es wolle. Unsere Ausgabe vereint alle drei Bücher in neuer deutscher Übersetzung.",
+      "notes": "Zentraler Konflikt (Modernisierung durch Gewalt) mit Titel und Autor verknüpft. Belegbare Aussage zur Ausgabe (alle drei Bücher, neue Übersetzung) aus dem Datenbrief."
+    },
+    "x-t5-content": {
+      "text": "Tolstoi zeichnet Peter nicht als entrückten Monarchen, sondern als widersprüchlichen Menschen: roh und genial, grausam und neugierig. Ein Revolutionär auf dem Thron, der sein Land nach vorn peitscht und dabei Menschen, Gegner und sich selbst verbraucht.",
+      "notes": "Eigenständiger Gedanke zur Figurenzeichnung, abgeleitet aus der Kurzbeschreibung. Anderer Fokus als der Einstiegstext."
+    },
+    "x-t8-sample": {
+      "text": "Ein Blick in unsere Ausgabe: \"Sanka sprang von der Ofenbank, stieß mit dem Hintern die aufgequollene Tür auf. Hinter Sanka krochen eilig Jaschka, Gawrilka und Artamoschka herab: mit einem Mal hatten sie alle Durst – sie stolperten in den finsteren Hausflur, der Wolke aus Dampf und Rauch aus der säuerlich riechenden Stube hinterher.\"",
+      "notes": "Echte Passage aus der gelieferten Leseprobe (Kapitel 001, Szene 1), als Zitat aus der Ausgabe gekennzeichnet."
+    },
+    "x-t12-second-angle": {
+      "text": "Das alte Moskowien mit seinen Bojaren und Traditionen trifft auf den ungestümen Willen eines Zaren. Tolstois Roman ist Gesellschaftsepos und dramatische Erzählung über den Preis des Fortschritts – und die Frage, ob ein Staat erneuert werden kann, ohne an seiner eigenen Brutalität zu zerbrechen.",
+      "notes": "Zweiter Aspekt: der kulturelle Zusammenprall und die grundsätzliche Frage nach dem Preis des Fortschritts. Andere Perspektive als T+0 und T+5."
+    }
+  },
+  "youtube": {
+    "title": "",
+    "prequel": "",
+    "body": "",
+    "thumbnail_label": "",
+    "shorts": {
+      "yt-short-1": {
+        "title": "",
+        "description": "",
+        "overlays": []
+      },
+      "yt-short-2": {
+        "title": "",
+        "description": "",
+        "overlays": []
+      }
+    }
+  }
+}

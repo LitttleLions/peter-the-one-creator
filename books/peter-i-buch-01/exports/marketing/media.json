@@ -1,0 +1,68 @@
+{
+  "book_id": "peter-i-buch-01",
+  "media": [
+    {
+      "path": "assets/audio/peter-i-song-01.mp3",
+      "kind": "audio_clip",
+      "exists": true,
+      "used_by": [
+        "x-t1-song",
+        "yt-main",
+        "yt-short-1",
+        "yt-short-2"
+      ],
+      "title": "Peter der Erste – Lied zum Roman",
+      "ai_generated": "true",
+      "clip_start_measured": false
+    },
+    {
+      "path": "books/peter-i-buch-01/assets/chapter/chapter-001.jpg",
+      "kind": "chapter_image",
+      "exists": true,
+      "used_by": [
+        "x-t1-song",
+        "yt-main",
+        "yt-short-1",
+        "x-t8-sample"
+      ],
+      "chapter": "001"
+    },
+    {
+      "path": "books/peter-i-buch-01/assets/chapter/chapter-002.jpg",
+      "kind": "chapter_image",
+      "exists": true,
+      "used_by": [
+        "x-t12-second-angle"
+      ],
+      "chapter": "002"
+    },
+    {
+      "path": "books/peter-i-buch-01/assets/chapter/chapter-003.jpg",
+      "kind": "chapter_image",
+      "exists": true,
+      "used_by": [
+        "x-t5-content"
+      ],
+      "chapter": "003"
+    },
+    {
+      "path": "books/peter-i-buch-01/assets/chapter/chapter-011.jpg",
+      "kind": "chapter_image",
+      "exists": true,
+      "used_by": [
+        "yt-short-2"
+      ],
+      "chapter": "011"
+    },
+    {
+      "path": "books/peter-i-buch-01/assets/covers/peteri.png",
+      "kind": "cover",
+      "exists": true,
+      "used_by": [
+        "x-t0-intro",
+        "x-t2-youtube"
+      ]
+    }
+  ],
+  "note": "Pfade sind repo-relativ (POSIX), damit das Paket uebertragbar bleibt."
+}

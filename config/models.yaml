@@ -69,6 +69,11 @@ models:
     description: "Schnell, guenstig, langer Kontext – sehr gutes Preis-Leistungs-Verhaeltnis."
 
   # ── DeepSeek – Beste Preis-Leistung ──
+  - id: deepseek/deepseek-v4.1-flash
+    name: "DeepSeek V4.1 Flash"
+    provider: DeepSeek
+    description: "Neueste V4.1-Generation (CED, 1M Kontext, reasoning-faehig) – staerkeres Stilurteil als V4 Flash; Stand 09/2026 ca. 0,15/0,60 USD pro Mio Tokens."
+
   - id: google/gemini-2.5-flash-lite
     name: "Gemini 2.5 Flash Lite"
     provider: Google

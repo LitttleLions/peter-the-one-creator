@@ -506,6 +506,38 @@ Fixvorschlag (nicht dringend): im Test `list_ollama_models()` monkeypatchen
 oder eine vorhandene Modell-ID senden. Vorher pruefen, ob das Verhalten
 gewuenscht ist (400 bei fehlendem Modell ist im Dashboard beabsichtigt).
 
+## 10. Aelita: Release-Kandidat
+
+Was: Viertes Release. Am 2026-09-17 abgeschlossen: Review-Lauf ohne KI ueber
+alle 30 Kapitel (ERROR=0, WARNING=0), Kapitel 005 vom Nutzer freigegeben
+(gewollte fiktionale Einschuebe), Kapitel 030 bereinigt – Romantext endet in
+der DE-Szene, der Kommentarteil der RU-Quelle ist vollstaendig in den Anhang
+„Kommentare“ uebersetzt und als Nachspann konfiguriert (top-level
+`appendices:`-Block in `export.yaml`, Loader `tools/lib/editorial_appendices.py`,
+Ausgabe in EPUB/DOCX/PDF, Anrechnung beim Deterministischen Check in
+`review_checks.py`, 27 Export-Tests gruen). 16 vorhandene Kapitelbilder als
+Export-JPG optimiert (q60, max 1600x2400). Nutzer hat das Buch-EPUB
+`...-20260917-180435.epub` geprueft.
+
+Entscheidungen des Nutzers:
+
+- 12 Kapitel bleiben bewusst ohne Bild (009, 010, 011, 012, 016-019, 022-027).
+- Wiedergefundene Higgsfield-Motive fuer 022-027 liegen zur freien Nutzung in
+  `books/aelita/work/image-recovery/20260917-165216/verified/`; 011/012 sind
+  nicht wiederherstellbar (403/„Job nicht gefunden“).
+- Die gewollten fiktionalen Einschuebe (Blockquotes, erfundene Interviews)
+  bleiben Stilmerkmal der Ausgabe; sie sind im Anhang nicht enthalten.
+
+Checkliste:
+
+```bat
+:: Rest vor Veroeffentlichung
+py -3 tools\export_manuscript.py --book aelita --scope book --style stil-03-branderson --format epub
+:: EPUB im Kindle Previewer pruefen; danach Regal/Amazon-URL setzen
+```
+
+Status: OFFEN nur noch Kindle Previewer (+ Amazon-URL/Regal, siehe Punkt 7).
+
 ## Empfohlene Reihenfolge
 
 1. Punkt 0 (Peter-I-Pruefung, vorgezogen) - lesend, ohne Kosten.

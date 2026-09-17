@@ -86,3 +86,9 @@ webapp/frontend/*.tsbuildinfo
 # Lokale Arbeits-/Staging-Reste (kein Teil eines Buchpakets)
 # ============================================================
 /staging/
+
+# Higgsfield-Bildwiederherstellung: nur verified/ + Manifeste im Repo,
+# grosse Originale/Sichtungskopien/Backups bleiben lokal
+books/*/work/image-recovery/*/originals/
+books/*/work/image-recovery/*/jpg/
+books/*/work/image-recovery/*/before/

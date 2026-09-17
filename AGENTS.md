@@ -26,7 +26,7 @@ Aktuelle Buchpakete (12):
 - `books/feuriger-engel/` - Walerij Brjussow, Der feurige Engel
 - `books/leben-arsenjews/` - Iwan Bunin, Das Leben Arsenjews
 - `books/geheime-geschichte-mongolen/` - Anonym, Die Geheime Geschichte der Mongolen
-- `books/aelita/` - Alexei Tolstoi, Aelita (in Vorbereitung)
+- `books/aelita/` - Alexei Tolstoi, Aelita (Release-Kandidat 09/2026: Regelcheck 0/0, Kapitel-030-Kommentare als Anhang ausgelagert, Buch-EPUB 2026-09-17 nutzergeprueft; 12 Kapitel bewusst ohne Bild)
 - `books/die-dritte-chronik/` - Motivatier, Die dritte Chronik (DE-Original)
 - `books/kuprin-duell/` - Alexander Kuprin, Das Duell (Roh-Anlage 09/2026)
 - `books/kuprin-moloch/` - Alexander Kuprin, Der Moloch (Roh-Anlage 09/2026)
@@ -339,6 +339,17 @@ optimieren“. Erkannte Moodboards und der Discovery-Workflow sind in
 
 Standardfolge fuer Leserexporte: Coverbild, Titelseite, Zusammenfassung,
 Leben des Autors, dann Textbeginn mit Teil-/Buchgruppe und Kapiteln.
+
+**Anhänge (editorische Nachspanne):** Ein top-level `appendices:`-Block in
+`books/<id>/export.yaml` haengt Buchtexte hinter das letzte Kapitel
+(`style`, `title`, `path` buchrelativ, `source_chapter`/`source_scene`).
+Gedacht fuer ausgelagerte Uebersetzungen (z. B. Editionskommentare wie bei
+Aelita Kapitel 030: Romantext endet in der DE-Szene, Kommentare stehen im
+Anhang "Kommentare"). Der Loader (`tools/lib/editorial_appendices.py`)
+erlaubt nur Dateien innerhalb des Buchpakets; `review_checks.py` rechnet
+Anhangtexte der verknuepften Szene beim Deterministischen Check wieder zu,
+damit der Wegzug in den Anhang keine Raffung vortaeuscht. Das Release-Gate
+bleibt scharf. EPUB, DOCX und PDF geben den Anhang aus.
 
 Die Regal-Freigabe steht als **top-level** `website:`-Block in
 `books/<id>/export.yaml` (`enabled`, `amazon_url`, `sort_order`).

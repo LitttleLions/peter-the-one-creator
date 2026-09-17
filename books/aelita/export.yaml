@@ -137,6 +137,14 @@ book:
   cover:
     mode: image
     image_path: assets/covers/cover.png
+appendices:
+  - style: stil-03-branderson
+    title: Kommentare
+    path: work/appendices/de/stil-03-branderson/kommentare.md
+    source_chapter: "030"
+    source_scene: 1
+    note: Vollstaendige Uebersetzung des Kommentarteils der russischen Quelle;
+      aus der DE-Szene 030/01 entfernt und hier als Nachspann gesetzt.
 website:
   enabled: true
   amazon_url: ''

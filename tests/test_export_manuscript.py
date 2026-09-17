@@ -1,16 +1,16 @@
-from __future__ import annotations
-
 import sys
 import tempfile
 import unittest
 import zipfile
 from pathlib import Path
 
+import yaml
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(REPO_ROOT / "tools"))
 
 import export_manuscript as export  # noqa: E402
+from lib import editorial_appendices as lib_editorial  # noqa: E402
 
 
 class ExportManuscriptTests(unittest.TestCase):
@@ -822,5 +822,58 @@ class ExportManuscriptTests(unittest.TestCase):
         self.assertEqual(errors, [])
 
 
+class EditorialAppendicesTests(unittest.TestCase):
+    def write_book_yaml(self, root: Path, appendices: list[dict]) -> dict:
+        (root / "export.yaml").write_text(
+            yaml.safe_dump({"defaults": {}, "book": {}, "appendices": appendices}),
+            encoding="utf-8",
+        )
+        return {"export_config": "export.yaml"}
+
+    def test_review_appendix_text_filters_by_chapter_and_scene(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            appendix_file = root / "appendix.md"
+            appendix_file.write_text("Anhangtext", encoding="utf-8")
+            book = self.write_book_yaml(root, [
+                {
+                    "style": "stil-test",
+                    "title": "Kommentare",
+                    "path": "appendix.md",
+                    "source_chapter": "030",
+                    "source_scene": 1,
+                },
+            ])
+            self.assertEqual(
+                lib_editorial.review_appendix_text(root, book, "stil-test", "030", 1),
+                "Anhangtext",
+            )
+            self.assertEqual(
+                lib_editorial.review_appendix_text(root, book, "stil-test", "031", 1),
+                "",
+            )
+            self.assertEqual(
+                lib_editorial.review_appendix_text(root, book, "anders", "030", 1),
+                "",
+            )
+
+    def test_load_appendices_rejects_files_outside_book_package(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            outside = Path(tempfile.mkdtemp()) / "outside.md"
+            outside.write_text("x", encoding="utf-8")
+            meta = {
+                "_base_dir": str(root),
+                "appendices": [{
+                    "style": "stil-test",
+                    "title": "T",
+                    "path": str(outside),
+                }],
+            }
+            with self.assertRaises(ValueError):
+                lib_editorial.load_appendices(meta, "stil-test")
+
+
 if __name__ == "__main__":
     unittest.main()
+

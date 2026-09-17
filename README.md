@@ -28,6 +28,12 @@ Dadurch werden fertige Kapitel nicht unnoetig erneut durch ein LLM geschickt.
 Aktuelle Prioritaeten und Checklisten: [docs/offene-punkte.md](docs/offene-punkte.md).
 Dort ist auch die vorgezogene **Pruefung Uebersetzung Peter der Erste** dokumentiert.
 
+Aelita (viertes Release): Regelcheck 0 Fehler / 0 Warnungen, Kommentare des
+Schlusskapitels 030 sind aus der DE-Szene in den Anhang „Kommentare“
+ausgelagert (neues `appendices:`-Feature im Export, siehe AGENTS.md), alle
+vorhandenen Kapitelbilder als Export-JPG optimiert, Buch-EPUB 2026-09-17
+nutzergeprueft. Offen: Kindle Previewer; 12 Kapitel bleiben bewusst ohne Bild.
+
 ## Voraussetzungen
 
 ### Python-Abhaengigkeiten

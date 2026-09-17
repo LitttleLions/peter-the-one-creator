@@ -556,6 +556,13 @@ def review_chapter_deterministic(
         de_path = de_by_num[scene_num]
         ru_text = ru_path.read_text(encoding="utf-8", errors="replace")
         de_text = de_path.read_text(encoding="utf-8", errors="replace")
+        from lib.editorial_appendices import review_appendix_text
+
+        appendix = review_appendix_text(repo_root, book, style, chapter_id, scene_num)
+        if appendix:
+            # Ausgelagerte editorische Uebersetzungen zaehlen zum Szenentext:
+            # Ohne Anrechnung faelscht der Wegzug in den Anhang eine Raffung.
+            de_text += "\n\n" + appendix
         ru_words = count_words(ru_text)
         de_words = count_words(de_text)
         scene_review = SceneReview(

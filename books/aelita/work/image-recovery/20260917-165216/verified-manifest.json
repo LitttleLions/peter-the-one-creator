@@ -1,0 +1,404 @@
+[
+  {
+    "key": "005-scene-scene-001-42e014dd-45d9-459e-aa51-09c0dc72a654",
+    "chapter": "005",
+    "kind": "scene",
+    "metadata": "005-scene-01-stil-03-branderson.json",
+    "job_id": "42e014dd-45d9-459e-aa51-09c0dc72a654",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260727_142430_42e014dd-45d9-459e-aa51-09c0dc72a654.png",
+    "style": {
+      "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+      "name": "General",
+      "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+      "strength": null
+    },
+    "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+    "prompt": "Chapter 005 Scene 01. Post-revolutionary Soviet Union, 1920s Petrograd, and an ancient Mars civilisation. Cinematic literary science-fiction illustration, elegant realism, painterly detail, atmospheric depth. Two Soviet travellers and a Martian princess; Martians look human but with subtle bird-like facial features and blue-tinged skin. Red deserts, canals, vertical cities, winged airships, Martian architecture, alien flora and fauna. Focus on departure, first contact, wonder, and political tension. Color palette: cold Petrograd gray, rust red, copper, pale blue skin tones, desert ochre, night indigo. Clear central figure or charged situation; emotionally resonant, historically and futuristically grounded. Characters present: Mstislaw Sergejewitsch Los: sowjetische ingeneur mit mütze; Alexei Iwanowitsch Gussew: rotarmist, 50 jahr, schwarzee haar. Auf dem Brachland vor Los' Werkstatt begann sich eine Menschenmenge zu versammeln. Sie kamen vom Kai, liefen von der Seite der Petrograder Insel herbei, ballten sich zu Grüppchen zusammen und blickten zur tiefen Sonne, die breite Strahlen durch die Wolken schickte. Gespräche begannen: Bis zur Dämmerung wogte das Gemurmel, allerlei Gespräche gingen durch die Menge, die auf das außergewöhnliche Ereignis wartete. Man stritt, zankte sich, aber ging nicht fort. Der trübe Sonnenuntergang ergoss purpurrotes Licht über die halbe Himmelsfläche. Und da erschien, langsam die Menge auseinanderdrängend, das große Automobil des Gouvernementsexekutivkomitees. Im Schuppen leuchteten von innen die Fenster auf. Die Menge verstummte, rückte näher. Von allen Seiten offen, mit Reihen von Nieten schimmernd, stand das eiförmige Gerät auf einer zementierten, leicht geneigten Fläche, mitten im Schuppen. Sein hell erleuchtetes Inneres aus rautenförmig gestepptem gelbem Leder war durch die runde Öffnung des Lukendeckels zu sehen. Los und Gussew waren bereits gekleidet in Filzstiefel, Schafspelze, lederne Pilothelme. Mitglieder des Exekutivkomitees, Akademiker, Ingenieure, Journalisten umringten das Gerät. Die Abschiedsreden waren bereits gehalten, die Fotografien gemacht. Los dankte den Begleitern für ihre Aufmerksamkeit. Sein Gesicht war blass, die Augen wie aus Glas. Er umarmte Chochlow und Kusmin. Blickte auf die Uhr. Die Begleiter verstummten. Gussew runzelte die Stirn und kletterte in die Luke. Im Inneren des Geräts setzte er sich auf ein Lederkissen, rückte den Helm zurecht, zog den Pelz glatt.",
+    "dimensions": [
+      1152,
+      1536
+    ],
+    "status": "downloaded",
+    "original": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\originals\\005-scene-scene-001-42e014dd-45d9-459e-aa51-09c0dc72a654.png",
+    "preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\jpg\\005-scene-scene-001-42e014dd-45d9-459e-aa51-09c0dc72a654.jpg",
+    "bytes_original": 2661574,
+    "bytes_jpg": 186555,
+    "sha256": "963cd1574cad2379e80a36093d2aa752c3839ea7c0c58cc4cf2e47ba742f0e42",
+    "assignment_verified": true,
+    "verified_preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\verified\\005-scene-scene-001-42e014dd-45d9-459e-aa51-09c0dc72a654.jpg"
+  },
+  {
+    "key": "011-chapter-chapter-011-61108679-9c9f-48b1-87c9-835f16399540",
+    "chapter": "011",
+    "kind": "chapter",
+    "metadata": "011-chapter-stil-02-poetisch.json",
+    "job_id": "61108679-9c9f-48b1-87c9-835f16399540",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260623_184629_61108679-9c9f-48b1-87c9-835f16399540.png",
+    "style": {
+      "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+      "name": "General",
+      "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+      "strength": 1.0
+    },
+    "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+    "prompt": "Ослепительно-розовые гряды облаков, как жгуты пряжи, покрывали утреннее небо. То появляясь в густосиних просветах, то исчезая за розовыми грядами, опускался, залитый солнцем, летучий корабль. Очертание его трехмачтового остова напоминало гигантского жука. Три пары острых крыльев простирались с боков его. Корабль прорезал облака и, весь влажный, серебристый, сверкающий, повис над кактусами. На крайних его коротких мачтах мощно ревели вертикальные винты, не давая ему опуститься. С бортов откинулись лесенки, и корабль сел на них. Винты остановились. По лесенкам вниз побежали щуплые фигуры марсиан. Они были в одинаковых яйцевидных шлемах, в серебристых широких куртках с толстыми воротниками, закрывающими шею и низ лица. В руках у каждого было оружие в виде короткого, с диском посредине, автоматического ружья. Гусев, насупившись, стоял около аппарата. Держа руку на маузере, поглядывал, как марсиане выстроились в два ряда. Их ружья лежали дулом на согнутой руке. Лось стоял, сложив на груди руки, улыбаясь. Последним с корабля спустился марсианин, одетый в черный, падающий большими складками халат. Открытая голова его была лысая, в шишках. Безбородое узкое лицо голубоватого цвета. Увязая в рыхлой почве, он прошел мимо двойного ряда солдат. Выпуклые светлые, ледяные глаза его остановились на Гусеве. Затем он глядел только на Лося. Приблизился к людям, поднял маленькую руку в широком рукаве и сказал тонким, стеклянным, медленным голосом птичье слово: Post-revolutionary Petrograd 1920s and ancient Mars civilisation. Red deserts, canals, vertical cities, winged airships. Atmospheric depth.",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "assignment_verified": true
+  },
+  {
+    "key": "012-chapter-chapter-012-9be55003-442f-4e58-8425-f63a07244776",
+    "chapter": "012",
+    "kind": "chapter",
+    "metadata": "012-chapter-stil-02-poetisch.json",
+    "job_id": "9be55003-442f-4e58-8425-f63a07244776",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260623_184657_9be55003-442f-4e58-8425-f63a07244776.png",
+    "style": {
+      "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+      "name": "General",
+      "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+      "strength": 1.0
+    },
+    "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+    "prompt": "Корабль летел невысоко над Марсом в северо-западном направлении. Лось и лысый марсианин остались на палубе. Гусев сошел внутрь корабля к солдатам. В светлой, соломенного цвета рубке он сел в плетеное кресло и некоторое время глядел на востроносых, щуплых солдатиков, помаргивающих, как птицы, рыжими глазами. Затем вынул жестяной заветный портсигар, — с ним он семь лет не расставался на фронтах, — хлопнул по крышке, — «покурим, товарищи», — и предложил папирос. Марсиане с испугом затрясли головами. Один все-таки взял папироску, рассмотрел, понюхал и спрятал в карман белых штанов. Когда же Гусев закурил, солдаты в величайшем страхе попятились от него, зашептали птичьими голосами: Красноватые, востренькие лица их с ужасом следили, как «шохо» глотает дым. Но понемногу они принюхались и успокоились и снова подсели к человеку. Гусев, не особенно затрудняясь незнанием марсианского языка, стал рассказывать новым приятелям про Россию, про войну, революцию, про свои подвиги: Марсиане слушали, дивились. Один принес фляжку с коричневой, мускатного запаха жидкостью. Гусев вынул из мешка полбутылки спирту, захваченной с Земли. Марсиане выпили и залопотали. Гусев хлопал их по спинам, шумел. Потом начал вытаскивать из карманов разную дребедень, — предлагал меняться. Марсиане с радостью отдавали ему золотые вещицы за перочинный ножик, за огрызок карандаша, за удивительную, сделанную из ружейного патрона зажигалку. Post-revolutionary Petrograd 1920s and ancient Mars civilisation. Red deserts, canals, vertical cities, winged airships. Atmospheric depth.",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "assignment_verified": true
+  },
+  {
+    "key": "020-chapter-chapter-020-45892f3e-6901-4be9-b162-9cf071d18980",
+    "chapter": "020",
+    "kind": "chapter",
+    "metadata": "020-chapter-stil-03-branderson.json",
+    "job_id": "45892f3e-6901-4be9-b162-9cf071d18980",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260627_093937_45892f3e-6901-4be9-b162-9cf071d18980.png",
+    "style": {
+      "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+      "name": "General",
+      "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+      "strength": null
+    },
+    "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+    "prompt": "Город был охвачен тревогой. Бормотали, мигали зеркальные телефоны. На улицах, на площадях, в парках шептались кучки марсиан. Ждали событий, поглядывали на небо. Говорили, что где-то горят склады сушеного кактуса. В полдень в городе открыли водопроводные краны, и вода иссякла в них, но ненадолго… Многие слышали на юго-западе отдаленный взрыв. В домах заклеивали стекла бумажками — крест-накрест. Тревога шла из центра по городу, из Дома Высшего совета инженеров. Говорили о пошатнувшейся власти Тускуба, о предстоящих переменах. Тревожное возбуждение прорезывалось, как искрой, слухами: На окраинах города, на фабриках, в рабочих поселках, в общественных магазинах слухи эти воспринимались по-иному. О причине их возникновения здесь, видимо, знали больше. С тревожным злорадством говорили, что будто гигантский цирк, номер одиннадцатый, взорван подземными рабочими, что агенты правительства ищут повсюду склады оружия, что Тускуб стягивает войска в Соацеру. К полудню почти повсюду прекратилась работа. Собирались большие толпы, ожидали событий, поглядывали на неизвестно откуда появившихся многозначительных молодых, неряшливо одетых марсиан с заложенными в карманы руками. Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. A mix of retro-futuristic and",
+    "dimensions": [
+      1152,
+      1536
+    ],
+    "status": "downloaded",
+    "original": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\originals\\020-chapter-chapter-020-45892f3e-6901-4be9-b162-9cf071d18980.png",
+    "preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\jpg\\020-chapter-chapter-020-45892f3e-6901-4be9-b162-9cf071d18980.jpg",
+    "bytes_original": 2939494,
+    "bytes_jpg": 244395,
+    "sha256": "31c18f1fc8daa357aafd80dfb3958014105939d7cca270137ef247ffaa117da2",
+    "assignment_verified": true,
+    "verified_preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\verified\\020-chapter-chapter-020-45892f3e-6901-4be9-b162-9cf071d18980.jpg"
+  },
+  {
+    "key": "021-chapter-chapter-021-bfcdca79-b9a8-4b87-84f2-9dae124c3c55",
+    "chapter": "021",
+    "kind": "chapter",
+    "metadata": "021-chapter-stil-03-branderson.json",
+    "job_id": "bfcdca79-b9a8-4b87-84f2-9dae124c3c55",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260701_191845_bfcdca79-b9a8-4b87-84f2-9dae124c3c55.png",
+    "style": {
+      "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+      "name": "General",
+      "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+      "strength": 1.0
+    },
+    "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+    "prompt": "Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. two soviet people and an marsian princess - the marsians are lookling like people but with a very vogelähnlichen gesicht Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. Characters present: Aëlita: schöne marsianerin, blaue haut, leichtes vogelgesicht; Mstislaw Sergejewitsch Los: sowjetische ingeneur mit mütze; Alexei Iwanowitsch Gussew: rotarmist, 50 jahr, schwarzee haar. Гусев стоял в библиотеке. В обычно сонных глазах его прыгали веселые искорки, нос вздернулся, топорщились усы. Руки он глубоко засунул за ременный пояс. Лось сидел, подобрав ноги, в углу дивана, невидяще глядел на Гусева. Вот уже более двух часов он ожидал обычного прихода Аэлиты, подходил к двери, прислушивался, — в комнатах Аэлиты было тихо. Он садился в угол дивана и ждал, когда зазвучат ее шаги. Он знал: легкие шаги раздадутся в нем громом небесным. Она войдет, как всегда, прекраснее, изумительнее, чем он ждал, пройдет под озаренными верхними окнами; по зеркальному полу пролетит ее черное платье. И в нем все дрогнет. Вселенная его души дрогнет и замрет, как перед грозой. Лось опустил голову, — так впился глазами Гусев. Спросил тихо: Гусев ушел. Лось опять взял книгу и думал: «Чем кончится? Пройдет мимо гроза любви? Нет, не минует. Рад он этому чувству напряженного, смертельного ожидания, что вот-вот раскроется какой-то немыслимый свет? Не радость, не печаль, не сон, не жажда, не утоление… То, что он испытывает, когда Аэлита рядом с ним, — именно принятие жизни в ледяное одиночество своего тела. Жизнь входит в него по зеркальному полу, под сияющими окнами. Но это тоже ведь сон. Пусть случится то, чего он жаждет. И жизнь возникнет в ней, в Аэлите. Она будет полна осуществлением, трепетной плотью. А ему снова — томление, одиночество». Никогда еще Лось с такой ясностью не чувствовал безнадежной жажды любви, никогда еще так не понимал этого обмана любви, страшной подмены самого себя — женщиной: проклятие мужского существа. Раскрыть объятия, распахнуть руки от звезды до звезды, — ждать, принять женщину. И она возьмет все и будет жить. А ты, любовник, отец, — как пустая тень, раскинувшая руки от звезды до звезды. Аэлита была права: он напрасно многое узнал за это время, слишком широко раскрылось его сознание. В его теле еще текла горячая кровь, он был весь еще полон тревожными семенами жизни, — сын Земли. Но разум опередил его на тысячу лет: здесь, на иной земле, он...",
+    "dimensions": [
+      1152,
+      1536
+    ],
+    "status": "downloaded",
+    "original": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\originals\\021-chapter-chapter-021-bfcdca79-b9a8-4b87-84f2-9dae124c3c55.png",
+    "preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\jpg\\021-chapter-chapter-021-bfcdca79-b9a8-4b87-84f2-9dae124c3c55.jpg",
+    "bytes_original": 2895454,
+    "bytes_jpg": 180497,
+    "sha256": "c53399e243a96c530ca8fb12eb0f92616dceef5fb4fe44f5d4087ef664c0620e",
+    "assignment_verified": true,
+    "verified_preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\verified\\021-chapter-chapter-021-bfcdca79-b9a8-4b87-84f2-9dae124c3c55.jpg"
+  },
+  {
+    "key": "021-scene-scene-001-ee25d222-2fa6-468f-a266-9dbacf06bb37",
+    "chapter": "021",
+    "kind": "scene",
+    "metadata": "021-scene-01-stil-03-branderson.json",
+    "job_id": "ee25d222-2fa6-468f-a266-9dbacf06bb37",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260627_122931_ee25d222-2fa6-468f-a266-9dbacf06bb37.png",
+    "style": {
+      "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+      "name": "General",
+      "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+      "strength": null
+    },
+    "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+    "prompt": "Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. two soviet people and an marsian princess - the marsians are lookling like people but with a very vogelähnlichen gesicht Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. Characters present: Aëlita: schöne marsianerin, blaue haut, leichtes vogelgesicht. „Revolution, Mstislaw Sergejewitsch. Die ganze Stadt steht Kopf. Ein Spaß!“ Gussew stand in der Bibliothek. In seinen sonst verschlafenen Augen tanzten lustige Funken, die Nase war in die Höhe gereckt, der Schnurrbart sträubte sich. Die Hände hatte er tief in den Ledergürtel geschoben. „Ins Boot habe ich schon alles gepackt: Proviant, Granaten. Das Gewehr von ihnen habe ich auch genommen. Machen Sie rasch, lassen Sie das Buch fallen, wir fliegen.“ Los saß mit angezogenen Beinen in der Ecke des Sofas und starrte Gussew an, ohne ihn zu sehen. Seit über zwei Stunden erwartete er die gewohnte Ankunft Aëlitas, trat zur Tür, lauschte – in Aëlitas Zimmern war es still. Er setzte sich in die Sofaecke und wartete darauf, dass ihre Schritte erklangen. Er wusste: Ihre leichten Schritte würden in ihm wie Donner vom Himmel widerhallen. Sie würde eintreten, wie immer schöner, erstaunlicher, als er erwartet hatte, unter den erleuchteten Oberlichtern hindurchgehen; über den Spiegelfußboden würde ihr schwarzes Kleid gleiten. Und in ihm würde alles erzittern. Das Weltall seiner Seele würde erzittern und stillstehen, wie vor einem Gewitter. „Haben Sie etwa das Fieber, Mstislaw Sergejewitsch? Was starren Sie so? Ich sage, wir fliegen, alles ist bereit, ich will Sie zum Marskommissar ernennen. Eine klare Sache.“ Los senkte den Kopf – so sehr hatte sich Gussews Blick in ihn gebohrt. Fragte leise:",
+    "dimensions": [
+      1152,
+      1536
+    ],
+    "status": "downloaded",
+    "original": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\originals\\021-scene-scene-001-ee25d222-2fa6-468f-a266-9dbacf06bb37.png",
+    "preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\jpg\\021-scene-scene-001-ee25d222-2fa6-468f-a266-9dbacf06bb37.jpg",
+    "bytes_original": 2806988,
+    "bytes_jpg": 167814,
+    "sha256": "221a45fadf5825bb563d0221abb8cfba99c371ee5ea8b9a5128cff6bae767ab8",
+    "assignment_verified": true,
+    "verified_preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\verified\\021-scene-scene-001-ee25d222-2fa6-468f-a266-9dbacf06bb37.jpg"
+  },
+  {
+    "key": "022-chapter-chapter-022-78fbfd66-1f85-405b-a5cf-fa17e4e45e09",
+    "chapter": "022",
+    "kind": "chapter",
+    "metadata": "022-chapter-stil-03-branderson.json",
+    "job_id": "78fbfd66-1f85-405b-a5cf-fa17e4e45e09",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260701_191920_78fbfd66-1f85-405b-a5cf-fa17e4e45e09.png",
+    "style": {
+      "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+      "name": "General",
+      "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+      "strength": 1.0
+    },
+    "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+    "prompt": "Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. two soviet people and an marsian princess - the marsians are lookling like people but with a very vogelähnlichen gesicht Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. Characters present: Aëlita: schöne marsianerin, blaue haut, leichtes vogelgesicht; Mstislaw Sergejewitsch Los: sowjetische ingeneur mit mütze. Лось сел позади Аэлиты. Механик — краснокожий мальчик — плавным толчком поднял крылатую лодку в небо. Холодный ветер кинулся навстречу. Белая, как снег, шубка Аэлиты была пропитана грозовой свежестью, горным холодом. Аэлита обернулась к Лосю, щеки ее горели. Серые глаза Аэлиты подернулись влагой. Но сейчас же она рассмеялась, сдернула с пальца кольцо. Лось схватил ее за руку. Силясь понять, Аэлита закрыла глаза, прислонилась спиной к Лосю. Нет, все равно не понять. Шумящий ветер, горячая грудь Лося за спиной, его рука, ушедшая в белый мех на плече, — казалось, кровь их бежит одним круговоротом, в одном восторге, одним телом летят они в какое-то сияющее древнее воспоминание. Нет, все равно не понять! Прошла минута, немного больше. Лодка поравнялась с высотой Тускубовой усадьбы. Механик обернулся: у Аэлиты и Сына Неба были странные лица. В пустых зрачках их светились солнечные точки. Ветер мял снежную шерсть на шубке Аэлиты. Восторженные глаза ее глядели в океан небесного света. Мальчик-механик уткнул в воротник острый нос и принялся беззвучно смеяться. Положил лодку на крыло и, разрезая воздух крутым падением, спустился у дома.",
+    "dimensions": [
+      1152,
+      1536
+    ],
+    "status": "downloaded",
+    "original": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\originals\\022-chapter-chapter-022-78fbfd66-1f85-405b-a5cf-fa17e4e45e09.png",
+    "preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\jpg\\022-chapter-chapter-022-78fbfd66-1f85-405b-a5cf-fa17e4e45e09.jpg",
+    "bytes_original": 2647129,
+    "bytes_jpg": 152487,
+    "sha256": "d5a9b0fadde8f00bd60d57d11a91d40d6c1f2c30c0d893b47fcc6c197c1197dd",
+    "assignment_verified": true,
+    "verified_preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\verified\\022-chapter-chapter-022-78fbfd66-1f85-405b-a5cf-fa17e4e45e09.jpg"
+  },
+  {
+    "key": "023-chapter-chapter-023-81361b41-ecea-4817-a027-f68cc0998b93",
+    "chapter": "023",
+    "kind": "chapter",
+    "metadata": "023-chapter-stil-03-branderson.json",
+    "job_id": "81361b41-ecea-4817-a027-f68cc0998b93",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260627_102903_81361b41-ecea-4817-a027-f68cc0998b93.png",
+    "style": {
+      "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+      "name": "General",
+      "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+      "strength": null
+    },
+    "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+    "prompt": "Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. two soviet people and an marsian princess - the marsians are lookling like people but with a very vogelähnlichen gesicht Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. Аэлита, Ихошка и Лось летели в четырехкрылой лодке к горам Лизиазиры. Не переставая работал приемник электромагнитных волн — мачта с отрезками проволок. Аэлита склонилась над крошечным экраном, слушала, всматривалась. Было трудно разобраться в отчаянных телефонограммах, призывах, криках, тревожных запросах, летящих, кружащихся в магнитных полях Марса. Все же, почти не переставая, бормотал стальной голос Тускуба, прорезывал весь этот хаос, владел им. В зеркальце скользили тени потревоженного мира. Несколько раз в каше звуков слух Аэлиты улавливал странный голос, вопивший протяжно: Аэлита обернулась к Ихошке. Ихошка, как коза, топнула ногами, замотала рыжей головой. Аэлите удалось проследить, что бегство их осталось незамеченным. Она сняла с ушей трубки. Пальцами протерла запотевшее стекло иллюминатора.",
+    "dimensions": [
+      1152,
+      1536
+    ],
+    "status": "downloaded",
+    "original": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\originals\\023-chapter-chapter-023-81361b41-ecea-4817-a027-f68cc0998b93.png",
+    "preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\jpg\\023-chapter-chapter-023-81361b41-ecea-4817-a027-f68cc0998b93.jpg",
+    "bytes_original": 2622444,
+    "bytes_jpg": 192604,
+    "sha256": "be3cf026da5480b8014150aa5004b042de05acc9b89fccfb738845992e43a787",
+    "assignment_verified": true,
+    "verified_preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\verified\\023-chapter-chapter-023-81361b41-ecea-4817-a027-f68cc0998b93.jpg"
+  },
+  {
+    "key": "024-chapter-chapter-024-50e78631-2dc2-4502-b97f-fb433ef39237",
+    "chapter": "024",
+    "kind": "chapter",
+    "metadata": "024-chapter-stil-03-branderson.json",
+    "job_id": "50e78631-2dc2-4502-b97f-fb433ef39237",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260627_102922_50e78631-2dc2-4502-b97f-fb433ef39237.png",
+    "style": {
+      "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+      "name": "General",
+      "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+      "strength": null
+    },
+    "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+    "prompt": "Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. two soviet people and an marsian princess - the marsians are lookling like people but with a very vogelähnlichen gesicht Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. Войска повстанцев заняли все важнейшие пункты города, указанные Гором. Ночь была прохладная. Марсиане мерзли на постах. Гусев распорядился зажечь костры. Это показалось неслыханным — вот уже тысячу лет в городе не зажигали огня, — о пляшущем пламени пелось лишь в древней песне. Перед Домом Высшего совета Гусев сам зажег первый костер из обломков мебели. «Улла, улла», — тихими голосами завыли марсиане, окружив огонь. И вот костры запылали на всех площадях. Красноватый свет оживил колеблющимися тенями покатые стены домов, мерцал в стеклах. За окнами появились голубоватые лица, — тревожно, в тоске, всматривались они в невиданные огни, в мрачные, оборванные фигуры повстанцев. Многие из домов опустели этой ночью. Было тихо в городе. Только потрескивали костры, звенело оружие, словно возвратились на пути свои тысячелетия, снова начался томительный их полет. Даже мохнатые звезды над улицами, над кострами казались иными, — невольно сидящий у костра поднимал голову и всматривался в забытый, словно оживший, рисунок. Гусев облетал на крылатом седле расположение войск. Он падал из звездной темноты на площадь и ходил по ней, бросая гигантскую тень. Он казался истинным Сыном Неба, истуканом, сошедшим с каменного цоколя. «Магацитл, Магацитл», — в суеверном ужасе шептали марсиане. Многие впервые видели его и подползали, чтобы коснуться. Иные плакали детскими голосами: «Теперь мы не умрем… Мы станем счастливыми… Сын Неба принес нам жизнь». Худые тела, прикрытые пыльной, однообразной для всех одеждой, морщинистые, востроносенькие, дряблые лица, печальные глаза, веками приученные к мельканию колес, к сумраку шахт, тощие руки, неумелые в движениях радости и смелости, — руки, лица, глаза с искрами костров — тянулись к Сыну Неба. Поздно ночью Гусев вернулся в Дом Совета, — продрог и был голоден. В сводчатом зальце, под низкими, золотыми арками, спали на полу десятка два марсиан, увешанных оружием. Зеркальный пол был заплеван жеваной хаврой. Посреди зальца на патронных жестянках сидел...",
+    "dimensions": [
+      1152,
+      1536
+    ],
+    "status": "downloaded",
+    "original": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\originals\\024-chapter-chapter-024-50e78631-2dc2-4502-b97f-fb433ef39237.png",
+    "preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\jpg\\024-chapter-chapter-024-50e78631-2dc2-4502-b97f-fb433ef39237.jpg",
+    "bytes_original": 2890763,
+    "bytes_jpg": 187457,
+    "sha256": "c18a75a750b6e1788d7040a7da5debe6e9f4d721ace6499f019b6b43b5eafecc",
+    "assignment_verified": true,
+    "verified_preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\verified\\024-chapter-chapter-024-50e78631-2dc2-4502-b97f-fb433ef39237.jpg"
+  },
+  {
+    "key": "025-chapter-chapter-025-2f0b2ae9-4c0d-4551-a56e-2632938845c0",
+    "chapter": "025",
+    "kind": "chapter",
+    "metadata": "025-chapter-stil-03-branderson.json",
+    "job_id": "2f0b2ae9-4c0d-4551-a56e-2632938845c0",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260627_102946_2f0b2ae9-4c0d-4551-a56e-2632938845c0.png",
+    "style": {
+      "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+      "name": "General",
+      "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+      "strength": null
+    },
+    "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+    "prompt": "Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. two soviet people and an marsian princess - the marsians are lookling like people but with a very vogelähnlichen gesicht Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. Лось и Гор выходили в эту минуту на лестницу дома, под колоннаду, когда раздался второй взрыв. Синеватым веером взлетело пламя в северной стороне города. Отчетливо стали видны вздымающиеся клубы дыма и пепла. Вслед грохоту пронесся вихрь. Багровое зарево ползло на полнеба. Теперь ни одного крика не раздавалось на звездообразной площади, полной войск. Марсиане молча глядели на зарево. Рассыпались в прах их жилища, их семьи. Улетали надежды клубами черного дыма. Гусев после короткого совещания с Лосем и Гором распорядился приготовить воздушный флот к бою. Все корабли были в арсенале. Лишь пять этих огромных стрекоз лежали на площади. Гусев послал их в разведку. Корабли взвились — блеснули огнем их крылья. Из арсенала ответили, что приказание получено и посадка войск на корабли началась. Прошло неопределенно много времени. Дымовое зарево разгоралось. Было зловеще и тихо в городе. Гусев поминутно посылал марсиан к зеркальному телефону торопить посадку. Сам он огромной тенью метался по площади, хрипло кричал, строя беспорядочные скопления войск в колонны. Подходя к лестнице, ощеривался, — усы вставали дыбом. Гор ушел к телефону. Наконец была получена телефонограмма, что посадка окончена, корабли снимаются. Действительно, невысоко над городом, в густом зареве появились парящие стрекозы. Гусев, расставив ноги, задрав голову, с удовольствием глядел на эти журавлиные линии. В это время раздался третий, наиболее сильный взрыв. Мечи синеватого пламени пронизали путь кораблям, — они взлетели, закружились и исчезли. На месте их поднялись снопы праха, клубы дыма.",
+    "dimensions": [
+      1152,
+      1536
+    ],
+    "status": "downloaded",
+    "original": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\originals\\025-chapter-chapter-025-2f0b2ae9-4c0d-4551-a56e-2632938845c0.png",
+    "preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\jpg\\025-chapter-chapter-025-2f0b2ae9-4c0d-4551-a56e-2632938845c0.jpg",
+    "bytes_original": 2533523,
+    "bytes_jpg": 157484,
+    "sha256": "0fb10272597c1bfa514b11c24ab3afbc30c4de74b39bdedb55d5238154eda132",
+    "assignment_verified": true,
+    "verified_preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\verified\\025-chapter-chapter-025-2f0b2ae9-4c0d-4551-a56e-2632938845c0.jpg"
+  },
+  {
+    "key": "026-chapter-chapter-026-f4cc6097-1ccd-463e-a83e-34f02183ec02",
+    "chapter": "026",
+    "kind": "chapter",
+    "metadata": "026-chapter-stil-03-branderson.json",
+    "job_id": "f4cc6097-1ccd-463e-a83e-34f02183ec02",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260627_103021_f4cc6097-1ccd-463e-a83e-34f02183ec02.png",
+    "style": {
+      "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+      "name": "General",
+      "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+      "strength": null
+    },
+    "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+    "prompt": "Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. two soviet people and an marsian princess - the marsians are lookling like people but with a very vogelähnlichen gesicht Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. Гусев и Лось подходили к усадьбе со стороны рощи. Из лазурных зарослей высунулось востроносое личико. Это был механик Аэлиты, мальчик в серой шубке. Он всплеснул руками и стал приплясывать, личико у него морщилось, как у тапира. Раздвинув ветви, он показал спрятанную среди развалин цирка крылатую лодку. Он рассказал: ночь прошла спокойно, перед рассветом раздался отдаленный грохот, и появилось зарево. Он подумал, что Сыны Неба погибли, вскочил в лодку и полетел в убежище Аэлиты. Она также слышала взрыв и с высоты скалы глядела на пожарище. Она сказала мальчику: «Вернись в усадьбу и жди Сына Неба, если тебя схватят слуги Тускуба, умри молча; если Сын Неба убит, проберись к его трупу, найди на нем каменный флакончик, привези мне». Лось, стиснув зубы, выслушал рассказ мальчика. Затем Лось и Гусев пошли к озеру, смыли с себя кровь и пыль. Гусев вырезал из крепкого дерева дубину, без малого с лошадиную ногу. Сели в лодку, взвились в сияющую синеву. Гусев и механик завели лодку в пещеру, легли у входа и развернули карту. В это время сверху, со скал, скатилась Иха. Глядя на Гусева, взялась за щеки. Слезы ручьями лились у нее из влюбленных глаз. Гусев радостно засмеялся. Лось один спустился в пропасть к Священному Порогу. Будто крыло ветра несло его по крутым лесенкам через узкие переходы и мостики. Что будет с Аэлитой, с ним, спасутся ли они, погибнут? — он не соображал: начинал думать и бросал. Главное, потрясающее будет то, что сейчас он снова увидит «рожденную из света звезд». Лишь заглядеться на худенькое голубоватое лицо, — забыть себя в волнах радости. Стремительно перебежав в облаках пара горбатый мост над пещерным озером, Лось, как и в прошлый раз, увидел по ту сторону низких колонн лунную перспективу гор. Он осторожно вышел на площадку, висящую над пропастью. Поблескивал тусклым золотом Священный Порог.",
+    "dimensions": [
+      1152,
+      1536
+    ],
+    "status": "downloaded",
+    "original": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\originals\\026-chapter-chapter-026-f4cc6097-1ccd-463e-a83e-34f02183ec02.png",
+    "preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\jpg\\026-chapter-chapter-026-f4cc6097-1ccd-463e-a83e-34f02183ec02.jpg",
+    "bytes_original": 3527412,
+    "bytes_jpg": 260555,
+    "sha256": "3b8f0f58a5003d932d9a58a982f3c1159675c9c3d125ad932e263bc8f9bb31ba",
+    "assignment_verified": true,
+    "verified_preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\verified\\026-chapter-chapter-026-f4cc6097-1ccd-463e-a83e-34f02183ec02.jpg"
+  },
+  {
+    "key": "027-chapter-chapter-027-da141a97-e572-48aa-95cb-cab701839797",
+    "chapter": "027",
+    "kind": "chapter",
+    "metadata": "027-chapter-stil-03-branderson.json",
+    "job_id": "da141a97-e572-48aa-95cb-cab701839797",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260627_103043_da141a97-e572-48aa-95cb-cab701839797.png",
+    "style": {
+      "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+      "name": "General",
+      "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+      "strength": null
+    },
+    "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+    "prompt": "Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. two soviet people and an marsian princess - the marsians are lookling like people but with a very vogelähnlichen gesicht Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. Военный корабль кружился некоторое время над скалами Священного Порога, затем уплыл в сторону Азоры и где-то сел. Только тогда Иха и Гусев могли спуститься вниз. На истоптанной площадке они увидели Лося, — он лежал близ входа в пещеру, лицом во мху, в луже крови. Гусев поднял его на руки, — Лось был без дыхания, глаза плотно сжаты, на груди, на голове — запекшаяся кровь. Аэлиты нигде не было. Иха выла, подбирая в пещерке ее вещи. Она не нашла лишь плаща с капюшоном, — должно быть, Аэлиту, мертвую или живую, завернули в плащ, увезли на корабле. Иха завязала в узелочек то, что осталось от «рожденной из света звезд», Гусев перекинул Лося через плечо, и они пошли обратно через мосты над кипящим во тьме озером, по лесенкам, повисшим над туманной пропастью, — этим путем возвращался некогда Магацитл, неся привязанный к прялке полосатый передник девушки Аолов — весть мира и жизни. Наверху Гусев вывел из пещеры лодку и посадил в нее Лося, завернутого в простыню, подтянул кушак, надвинул глубже шлем и сказал сурово: Он прищурился на солнце, кивнул подбородком и взвился в синеву. Долго глядели Иха и мальчик в серой шубе на улетавшего Сына Неба. Они не заметили, что с юга, из-за лунных скал, поднялась, перерезая ему путь, крылатая точка. Когда Гусев утонул в потоках солнца, Иха ударилась о мшистые камни в таком отчаянии, что мальчик испугался, — уж не покинула ли и она печальную Туму. Гусев не сразу заметил пересекавший ему путь военный корабль. Сверяясь с картой, поглядывая на уплывающие вниз скалы Лизиазиры, держал он курс на восток, к кактусовым полям, где был оставлен аппарат.",
+    "dimensions": [
+      1152,
+      1536
+    ],
+    "status": "downloaded",
+    "original": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\originals\\027-chapter-chapter-027-da141a97-e572-48aa-95cb-cab701839797.png",
+    "preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\jpg\\027-chapter-chapter-027-da141a97-e572-48aa-95cb-cab701839797.jpg",
+    "bytes_original": 2563386,
+    "bytes_jpg": 155503,
+    "sha256": "93604fbb690ed25fd891a239c86e2345360a341b0b864fb2160598dc536335ab",
+    "assignment_verified": true,
+    "verified_preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\verified\\027-chapter-chapter-027-da141a97-e572-48aa-95cb-cab701839797.jpg"
+  },
+  {
+    "key": "028-chapter-chapter-028-f97d09c8-fe14-4c74-80d7-9d121b812678",
+    "chapter": "028",
+    "kind": "chapter",
+    "metadata": "028-chapter-stil-03-branderson.json",
+    "job_id": "f97d09c8-fe14-4c74-80d7-9d121b812678",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260627_103105_f97d09c8-fe14-4c74-80d7-9d121b812678.png",
+    "style": {
+      "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+      "name": "General",
+      "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+      "strength": null
+    },
+    "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+    "prompt": "Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. two soviet people and an marsian princess - the marsians are lookling like people but with a very vogelähnlichen gesicht Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. Обожгло рот. Жидкий огонь пошел по телу, по жилам, по костям. Лось раскрыл глаза. Пыльная звездочка горела над ним совсем низко. Небо было странное, — желтое, стеганое, как сундук. Что-то стучало, стучало мерными ударами, дрожала пыльная звездочка. Лось опять закрыл глаза, силясь проникнуть в пустоту памяти, но в памяти ничего не раскрылось, и он снова погрузился в непроглядный сон. Гусев укрыл его потеплее и вернулся к наблюдательным трубкам. Марс казался теперь меньше чайного блюдечка. Лунными пятнами выделялись па нем днища высохших морей, мертвые пустыни. Диск Тумы, засыпаемой песками, все уменьшался, все дальше улетал от него аппарат куда-то в кромешную тьму. Изредка кололо глаз лучиком звезды. Но сколько Гусев ни всматривался, — нигде не было видно красной звезды. Гусев зевнул, щелкнул зубами, — такая одолевала его скука от пустого пространства вселенной. Осмотрел запасы воды, пищи, кислорода, завернулся в одеяло и лег на дрожащий пол рядом с Лосем. Прошло неопределенно много времени. Гусев проснулся от голода. Лось лежал с открытыми глазами, — лицо у него было в морщинах, старое, щеки ввалились. Он спросил тихо: Лось закрыл глаза и немного погодя спросил дрогнувшим голосом:",
+    "dimensions": [
+      1152,
+      1536
+    ],
+    "status": "downloaded",
+    "original": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\originals\\028-chapter-chapter-028-f97d09c8-fe14-4c74-80d7-9d121b812678.png",
+    "preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\jpg\\028-chapter-chapter-028-f97d09c8-fe14-4c74-80d7-9d121b812678.jpg",
+    "bytes_original": 2182918,
+    "bytes_jpg": 119261,
+    "sha256": "56923ab014f49da77a3d93adfa9853a6e820e3b8d5b68d9eeaa5d0131b965878",
+    "assignment_verified": true,
+    "verified_preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\verified\\028-chapter-chapter-028-f97d09c8-fe14-4c74-80d7-9d121b812678.jpg"
+  },
+  {
+    "key": "029-chapter-chapter-029-7059ef8c-b32b-44f2-8237-07f596bda217",
+    "chapter": "029",
+    "kind": "chapter",
+    "metadata": "029-chapter-stil-03-branderson.json",
+    "job_id": "7059ef8c-b32b-44f2-8237-07f596bda217",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260627_103124_7059ef8c-b32b-44f2-8237-07f596bda217.png",
+    "style": {
+      "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+      "name": "General",
+      "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+      "strength": null
+    },
+    "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+    "prompt": "Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. two soviet people and an marsian princess - the marsians are lookling like people but with a very vogelähnlichen gesicht Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. Алмазные поля были следами прохождения блуждавшей в пространствах кометы. Долгое время аппарат, втянутый в ее тяготение, пробирался среди небесных камней. Скорость его непрестанно увеличивалась, действовали абсолютные законы математики — понемногу направление полета яйца и метеоритов изменилось: образовался все расширяющийся угол. Золотистая туманность — голова неведомой кометы и ее след — потоки метеоритов — уносились по гиперболе — безнадежной кривой, чтобы, обогнув солнце, навсегда исчезнуть в пространствах. Кривая полета аппарата все более приближалась к эллипсису, Почти неосуществимая надежда возврата на Землю пробудила к жизни Лося и Гусева. Теперь, не отрываясь от глазков, они наблюдали за небом. Аппарат сильно нагревался с одной стороны солнцем, — пришлось снять одежду. Алмазные поля остались далеко внизу: казались искорками, — стали беловатой туманностью и исчезли. И вот — в огромной дали был обнаружен Сатурн, переливающийся радужными кольцами, окруженный спутниками. Яйцо, притянутое кометой, возвращалось в солнечную систему, откуда было вышвырнуто центробежной силой Марса. Одно время тьму прорезывала светящаяся линия. Скоро и она побледнела, погасла. Это были астероиды — маленькие планеты, бесчисленным роем вьющиеся вокруг солнца. Сила их тяготения еще сильнее изогнула кривую полета яйца. Наконец в один из верхних глазков Лось увидел странный, ослепительный узкий серп, — это была Венера, Почти в то же время Гусев, наблюдавший в другой глазок, страшно засопел и обернулся, — потный, красный. В черной тьме тепло сиял серебристо-синеватый шар. В стороне от него и ярче его светился шарик величиной с ягоду смородины. Аппарат мчался немного в сторону от них. Тогда Лось решился применить опасное приспособление — поворот горла аппарата, чтобы отклонить ось взрывов от траектории полета. Поворот удался. Направление стало изменяться. Теплый шарик понемногу перешел в зенит.",
+    "dimensions": [
+      1152,
+      1536
+    ],
+    "status": "downloaded",
+    "original": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\originals\\029-chapter-chapter-029-7059ef8c-b32b-44f2-8237-07f596bda217.png",
+    "preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\jpg\\029-chapter-chapter-029-7059ef8c-b32b-44f2-8237-07f596bda217.jpg",
+    "bytes_original": 2311480,
+    "bytes_jpg": 114067,
+    "sha256": "f916c9e23c42f6c263489d30ded75d3486089ff53988ff0cd6d01e5c21488c97",
+    "assignment_verified": true,
+    "verified_preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\verified\\029-chapter-chapter-029-7059ef8c-b32b-44f2-8237-07f596bda217.jpg"
+  },
+  {
+    "key": "030-chapter-chapter-030-0f144e9b-d0d8-4966-a9f2-7fbf3d68d837",
+    "chapter": "030",
+    "kind": "chapter",
+    "metadata": "030-chapter-stil-03-branderson.json",
+    "job_id": "0f144e9b-d0d8-4966-a9f2-7fbf3d68d837",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260627_103145_0f144e9b-d0d8-4966-a9f2-7fbf3d68d837.png",
+    "style": {
+      "id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+      "name": "General",
+      "url": "https://cdn.higgsfield.ai/soul-v2-style/f33d85f2-6521-4fa8-8e8f-894cfbdee578.webp",
+      "strength": null
+    },
+    "style_id": "3db34ab5-3439-4317-9e03-08dc30852e69",
+    "prompt": "Post-revolutionary Soviet Union 1920s and an ancient Mars civilisation. two soviet people and an marsian princess - the marsians are lookling like people but with a very vogelähnlichen gesicht Red deserts, canals, vertical cities, winged airships. Atmospheric depth. Marsion architecture, alien flora and fauna. Облака снега летели вдоль Ждановской набережной, ползли поземкой по тротуарам, сумасшедшие хлопья крутились у качающихся фонарей. Засыпало подъезды и окна, за рекой метель бушевала в воющем парке. По набережной шел Лось, подняв воротник и согнувшись навстречу ветру. Теплый шарф вился за его спиной, ноги скользили, лицо секло снегом. В обычный час он возвращался с завода домой, в одинокую квартиру. Жители набережной привыкли к его широкополой шляпе, к шарфу, закрывающему низ лица, к сутулым плечам, и даже, когда он кланялся и ветер взвевал его белые волосы, — никого уже более не удивлял странный взгляд его глаз, видевших однажды то, чего еще никто не видел. В иные времена какой-нибудь юный поэт непременно бы вдохновился его нелепой фигурой с развевающимся шарфом, бредущей среди снежных облаков. Но времена теперь были иные: поэтов восхищали не вьюжные бури, не звезды, не заоблачные страны, — но стук молотов по всей стране, шипение пил, шорох серпов, свист кос, — веселые земные песни. Прошло полгода со дня возвращения Лося на Землю. Улеглось любопытство, охватившее весь мир, когда появилась первая телеграмма о прибытии с Марса двух людей. Лось и Гусев съели положенное число блюд на ста пятидесяти банкетах, ужинах и ученых собраниях. Гусев выписал из Петрограда Машу, нарядил ее, как куклу, дал несколько сот интервью, завел мотоциклет, стал носить круглые очки, полгода разъезжал по Америке и Европе, рассказывая про драки с марсианами, про пауков и про кометы, про то, как они с Лосем едва не улетели на Большую Медведицу, — и, вернувшись в Советскую Россию, основал «Общество для переброски боевого отряда на планету Марс в целях спасения остатков его трудящегося населения». Лось в Петрограде на одном из механических заводов строил универсальный двигатель марсианского типа. К шести часам вечера он обычно возвращался домой. Ужинал в одиночестве. Перед сном раскрывал книгу, — детским лепетом казались ему строки поэта, детской болтовней измышления романиста. Погасив свет, он...",
+    "dimensions": [
+      1152,
+      1536
+    ],
+    "status": "downloaded",
+    "original": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\originals\\030-chapter-chapter-030-0f144e9b-d0d8-4966-a9f2-7fbf3d68d837.png",
+    "preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\jpg\\030-chapter-chapter-030-0f144e9b-d0d8-4966-a9f2-7fbf3d68d837.jpg",
+    "bytes_original": 3172924,
+    "bytes_jpg": 252444,
+    "sha256": "686d6a8e6cf4bba8c65ffedabceda0e70786b19a294a542626183f616b50565b",
+    "assignment_verified": true,
+    "verified_preview": "c:\\code\\peter-the-one\\books\\aelita\\work\\image-recovery\\20260917-165216\\verified\\030-chapter-chapter-030-0f144e9b-d0d8-4966-a9f2-7fbf3d68d837.jpg"
+  }
+]

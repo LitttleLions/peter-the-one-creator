@@ -1,4 +1,4 @@
-# Handover – Stand 2026-09-17 (Peter-I-Prüfung abgeschlossen: 3 weitere geraffte Szenen neu übersetzt, Raffungs-Erkennung im Regelcheck nachgerüstet, Buch-EPUB neu; Release-Gate; Top-5-Pakete auf `main`; Status-/Style-Drift bereinigt, Fallstricke dokumentiert, Mongolen-Befund belegt, V4.1-Flash-Pilot gelaufen, Marketingexport umgesetzt + X-Clip)
+# Handover – Stand 2026-09-17 (Peter-I-Prüfung abgeschlossen: 3 weitere geraffte Szenen neu übersetzt, Raffungs-Erkennung im Regelcheck nachgerüstet, Buch-EPUB neu; Release-Gate; Top-5-Pakete auf `main`; Status-/Style-Drift bereinigt, Fallstricke dokumentiert, Mongolen-Befund belegt, V4.1-Flash-Pilot gelaufen, Marketingexport umgesetzt + X-Clip; Aelita Release-Kandidat: Kapitel-030-Anhang, Bildoptimierung, EPUB nutzergeprueft)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei,
 > bei Bedarf [README.md](../README.md) und [webpage/README.md](../webpage/README.md).
@@ -511,6 +511,7 @@ Higgsfield: [docs/higgsfield-integration.md](higgsfield-integration.md). Web-UI-
 8. Regal: Amazon-URLs setzen; optional Mint-Hardcover-GLBs; Deploy von `webpage/dist/`
 9. Optional: Feature-Branch `codex/geheime-geschichte-mongolen-prompts` remote löschen, wenn alle Clients auf `main` sind
 10. Anna-Cover: geprueft und erledigt – `export.yaml` setzt `cover.mode: image` mit `image_path: assets/covers/annakarenina.png` (Vorrang vor `find_named_image(..., "cover")`); nur bei geleertem Feld droht der Platzhalter
+11. Aelita Release-Kandidat (2026-09-17): Regelcheck 0/0 ueber alle 30 Kapitel. Kapitel 030: Romantext endet in der DE-Szene, Editionskommentare der RU-Quelle sind vollstaendig in den Anhang „Kommentare“ ausgelagert (`work/appendices/de/stil-03-branderson/kommentare.md`; alte Fassung in `work/legacy/`). Neues `appendices:`-Feature: `tools/lib/editorial_appendices.py`, Export EPUB/DOCX/PDF, Gate-Anrechnung in `review_checks.py` (27 Export-Tests gruen). 16 Kapitelbilder optimiert (Export-JPG q60, max 1600x2400, ~14,8 → ~2,4 MB); 12 Kapitel bleiben bewusst ohne Bild (009, 010, 011, 012, 016-019, 022-027); 11 wiedergefundene Motive fuer 020-030 liegen in `work/image-recovery/20260917-165216/verified/` zur freien Nutzung. Buch-EPUB `...-20260917-180435.epub` (Gate 0 Fehler) von Nutzer geprueft. Offen: Kindle Previewer.
 
 Covers und Übersetzungsläufe (OpenRouter-Kosten) nur nach ausdrücklicher Freigabe starten.
 

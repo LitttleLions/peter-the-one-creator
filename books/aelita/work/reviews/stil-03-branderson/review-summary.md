@@ -2,14 +2,45 @@
 
 - Buch-ID: aelita
 - Stil: stil-03-branderson
-- Erstellt: 2026-07-01T21:23:25
-- LLM: openrouter
-- Kapitel: 1
-- Kapitel mit Befunden: 1
+- Erstellt: 2026-09-17T17:57:56
+- LLM: none
+- Kapitel: 30
+- Kapitel mit Befunden: 0
 - Fehler: 0
-- Warnungen: 1
+- Warnungen: 0
 - Hinweise: 0
 
 ## Kapitel
 
-- 001: Befund (ERROR=0, WARNING=1, INFO=0)
+- 001: OK (ERROR=0, WARNING=0, INFO=0)
+- 002: OK (ERROR=0, WARNING=0, INFO=0)
+- 003: OK (ERROR=0, WARNING=0, INFO=0)
+- 004: OK (ERROR=0, WARNING=0, INFO=0)
+- 005: OK (ERROR=0, WARNING=0, INFO=0)
+- 006: OK (ERROR=0, WARNING=0, INFO=0)
+- 007: OK (ERROR=0, WARNING=0, INFO=0)
+- 008: OK (ERROR=0, WARNING=0, INFO=0)
+- 009: OK (ERROR=0, WARNING=0, INFO=0)
+- 010: OK (ERROR=0, WARNING=0, INFO=0)
+- 011: OK (ERROR=0, WARNING=0, INFO=0)
+- 012: OK (ERROR=0, WARNING=0, INFO=0)
+- 013: OK (ERROR=0, WARNING=0, INFO=0)
+- 014: OK (ERROR=0, WARNING=0, INFO=0)
+- 015: OK (ERROR=0, WARNING=0, INFO=0)
+- 016: OK (ERROR=0, WARNING=0, INFO=0)
+- 017: OK (ERROR=0, WARNING=0, INFO=0)
+- 018: OK (ERROR=0, WARNING=0, INFO=0)
+- 019: OK (ERROR=0, WARNING=0, INFO=0)
+- 020: OK (ERROR=0, WARNING=0, INFO=0)
+- 021: OK (ERROR=0, WARNING=0, INFO=0)
+- 022: OK (ERROR=0, WARNING=0, INFO=0)
+- 023: OK (ERROR=0, WARNING=0, INFO=0)
+- 024: OK (ERROR=0, WARNING=0, INFO=0)
+- 025: OK (ERROR=0, WARNING=0, INFO=0)
+- 026: OK (ERROR=0, WARNING=0, INFO=0)
+- 027: OK (ERROR=0, WARNING=0, INFO=0)
+- 028: OK (ERROR=0, WARNING=0, INFO=0)
+- 029: OK (ERROR=0, WARNING=0, INFO=0)
+- 030: OK (ERROR=0, WARNING=0, INFO=0)
+
+Alle geprueften Kapitel sind regelbasiert unauffaellig — keine kyrillischen Reste, keine Encoding-Fehler, keine auffaelligen Laengen, keine Degeneration.

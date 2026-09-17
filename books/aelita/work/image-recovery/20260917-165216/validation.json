@@ -1,0 +1,12 @@
+{
+  "verified_downloads": 13,
+  "failed": [
+    "011",
+    "012"
+  ],
+  "production_images": 10,
+  "export_bytes_before": 14837385,
+  "export_bytes_after": 2447759,
+  "covers_and_png_unchanged": true,
+  "backups_verified": true
+}

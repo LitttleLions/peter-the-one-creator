@@ -121,6 +121,7 @@ def load_export_config(book: dict[str, Any]) -> dict[str, Any]:
     structure = book.get("structure") or {}
     meta.setdefault("structure_groups", structure.get("groups") or [])
     meta.setdefault("display", book.get("display") or {})
+    meta["appendices"] = data.get("appendices") or []
     meta["_base_dir"] = str(export_path.parent)
     return meta
 
@@ -924,6 +925,22 @@ def render_front_matter_markdown(
     return lines
 
 
+def load_editorial_appendices(meta: dict[str, Any], style: str) -> list[dict[str, Any]]:
+    """Buchlokale Nachspann-Anhaenge (editorische Uebersetzungen) laden."""
+    from lib.editorial_appendices import load_appendices
+
+    return load_appendices(meta, style)
+
+
+def appendices_markdown(appendices: list[dict[str, Any]]) -> list[str]:
+    lines: list[str] = []
+    for item in appendices:
+        lines.extend(["", f"# {item['title']} {{#{item['anchor']}}}", ""])
+        lines.append(str(item["text"]))
+        lines.append("")
+    return lines
+
+
 def render_export_markdown(
     chapters: list[ChapterExport],
     meta: dict[str, Any],
@@ -1022,6 +1039,8 @@ def render_export_markdown(
                 lines.extend(["", str(scene_cfg.get("separator")), ""])
             lines.append(scene.text)
             lines.append("")
+    if scope == "book":
+        lines.extend(appendices_markdown(load_editorial_appendices(meta, style)))
     return "\n".join(lines).strip() + "\n"
 
 
@@ -1303,6 +1322,14 @@ def render_pdf_html(
             lines.append(f'<div class="scene-text">{markdown_fragment_to_html(scene.text)}</div>')
         lines.append("</section>")
 
+    if scope == "book":
+        for item in load_editorial_appendices(meta, style):
+            lines.extend([
+                f'<section class="appendix" id="{html.escape(str(item["anchor"]))}">',
+                f"<h1>{html.escape(str(item['title']))}</h1>",
+                f'<div class="appendix-text">{markdown_fragment_to_html(str(item["text"]))}</div>',
+                "</section>",
+            ])
     lines.extend(["</main>", "</body>", "</html>"])
     return "\n".join(lines) + "\n"
 
@@ -1738,6 +1765,18 @@ def write_docx(
                 if scene_cfg.get("align") == "center":
                     sep.alignment = WD_ALIGN_PARAGRAPH.CENTER
             for kind, block in markdown_to_plain_blocks(scene.text):
+                if kind.startswith("heading"):
+                    level = int(kind[-1]) + 1
+                    document.add_heading(block, min(level, 3))
+                else:
+                    p = document.add_paragraph(block)
+                    p.paragraph_format.first_line_indent = Inches(0.25)
+                    p.paragraph_format.space_after = Pt(7)
+                    p.paragraph_format.line_spacing = 1.12
+    if scope == "book":
+        for item in load_editorial_appendices(meta, style):
+            document.add_heading(str(item["title"]), 1)
+            for kind, block in markdown_to_plain_blocks(str(item["text"])):
                 if kind.startswith("heading"):
                     level = int(kind[-1]) + 1
                     document.add_heading(block, min(level, 3))

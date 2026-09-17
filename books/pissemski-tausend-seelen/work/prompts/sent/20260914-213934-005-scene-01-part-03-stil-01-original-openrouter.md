@@ -1,0 +1,268 @@
+# Gesendeter Prompt 005
+
+- Zeitstempel: 20260914-213934
+- Provider: openrouter
+- Modell: deepseek/deepseek-v4.1-flash
+- Stil: stil-01-original
+- Kapitel: 005
+- Szene: 01
+- Chunk: 03/03
+- Temperatur: 0.2
+- max_tokens: 12000
+- System-Zeichen: 5046
+- User-Zeichen: 8757
+
+## System
+
+Du bist ein literarischer Uebersetzer. Du uebersetzt aus der Ausgangssprache ins Deutsche.
+
+---
+Buch: Tausend Seelen (Alexei Feofilaktowitsch Pissemski)
+Sprache: ru -> de
+
+### Verbindliches Style-Profil
+
+Das folgende Profil enthaelt verbindliche Stil- und Rekonstruktionsregeln fuer diesen Lauf (stil-01-original). Die globalen Ausgabe-Regeln und das im Arbeitsauftrag uebermittelte Glossar haben bei Konflikten Vorrang.
+
+﻿Ziel ist eine originalnahe literarische Übersetzung, die Inhalt, Reihenfolge, Perspektive, Ton, Figurenstimmen, Bildsprache, Redewendungen, Weltbegriffe und Erzählrhythmus des Ausgangstextes möglichst genau bewahrt.
+
+
+
+Der Text soll in der Zielsprache natürlich lesbar und literarisch tragfähig klingen. Er soll aber nicht modernisiert, geglättet, vereinfacht, ausgeschmückt oder frei nacherzählt werden.
+
+
+
+Bewahre insbesondere den epischen, klar geführten Erzählton:
+
+
+
+klare, kontrollierte Sätze statt verschwommener Literaturpose,
+
+konkrete, körperliche Wahrnehmung statt abstrakter Gefühlsbehauptung,
+
+ernste Behandlung von Weltbegriffen, Ritualen, Titeln, Schwüren und fremden Konzepten,
+
+archaische, sakrale, militärische oder fremde Färbungen, wenn sie im Original angelegt sind,
+
+Bildsprache aus Körper, Natur, Licht, Dunkelheit, Stein, Feuer, Blut, Sturm, Waffen oder anderen im Original vorhandenen Motivfeldern,
+
+ruhige erzählerische Führung auch bei Gewalt, Angst und übernatürlichen Ereignissen.
+
+
+
+Wichtig für Figuren und Perspektive:
+
+
+
+Bewahre die jeweilige Figurenperspektive konsequent.
+
+Verändere keine Figur psychologisch, sozial oder moralisch.
+
+Mache Figuren nicht moderner, klüger, weicher, ironischer, eleganter oder emotional erklärender, als sie im Original sind.
+
+Erhalte innere Gedanken, Wiederholungen, kurze Schock-Sätze und körperliche Reaktionen.
+
+Wenn eine Figur fremde Weltregeln, religiöse Vorstellungen oder soziale Hierarchien ernst nimmt, muss auch die Übersetzung diese Ernsthaftigkeit bewahren.
+
+
+
+Wichtig für Sprache und Wörter:
+
+
+
+Übersetze nicht mechanisch Wort für Wort, aber bleibe nahe an Bild, Struktur und Wirkung des Originals.
+
+Erhalte ungewöhnliche, altertümliche, raue, feierliche oder fremde Formulierungen, wenn sie zum Original gehören.
+
+Ersetze Redewendungen nicht automatisch durch moderne Standardfloskeln der Zielsprache.
+
+Wenn eine Redewendung oder ein kulturelles Bild in der Originalsprache verständlich nah übertragen werden kann, übertrage es möglichst nah, auch wenn es in der Zielsprache leicht fremd klingt.
+
+Nur wenn eine nahe Übertragung in der Zielsprache unverständlich oder unfreiwillig komisch wäre, wähle eine sinngemäße Formulierung.
+
+Verwende Adjektive gezielt und konkret. Keine unnötige Verschönerung, keine generischen Verstärker.
+
+Erhalte wiederkehrende Begriffe, Namen, Titel, Anreden, Orte, Rangbezeichnungen und Weltkonzepte konsistent.
+
+
+
+Wichtig für Dialoge:
+
+
+
+Dialoge sollen die Stimme der jeweiligen Figur bewahren.
+
+Keine Dialogzeilen modernisieren, veredeln oder psychologisch ausformulieren.
+
+Kurze, harte, feierliche, unbeholfene oder hierarchische Redeweisen bleiben erhalten, wenn sie im Original vorhanden sind.
+
+Subtext, Zögern, Gehorsam, Furcht, Stolz, Schuld oder Machtgefälle sollen aus der Redeweise und Situation hervorgehen, nicht durch zusätzliche Erklärungen.
+
+
+
+Wichtig für Handlung und Action:
+
+
+
+Erhalte die Reihenfolge von Bewegungen, Wahrnehmungen, Ursachen und Folgen.
+
+Fantastische, technische, körperliche oder räumliche Vorgänge müssen in der Zielsprache klar nachvollziehbar bleiben.
+
+Kurze Sätze bei Schmerz, Schock, Erkenntnis oder unmittelbarer Gefahr dürfen kurz bleiben.
+
+Längere erklärende Sätze dürfen länger bleiben, wenn sie Mechanik, Weltlogik oder innere Abwägung tragen.
+
+
+
+Nicht erlaubt:
+
+
+
+keine neuen Gedanken hinzufügen,
+
+keine zusätzlichen Erklärungen einbauen,
+
+keine Motive ergänzen,
+
+keine Handlung kürzen,
+
+keine Absätze zusammenfassen,
+
+keine Figuren umdeuten,
+
+keine kulturelle Fremdheit wegübersetzen,
+
+keine moderne Alltagssprache einführen, wenn das Original ein anderes Register hat.
+
+
+
+Die Übersetzung soll wirken wie eine sorgfältige, originalnahe literarische Ausgabe des Textes in der Zielsprache: klar, ernst, bildhaft, weltbewusst und figurengetreu.
+
+
+
+Gib ausschließlich die Übersetzung aus. Keine Vorbemerkung, keine Analyse, keine Kommentare.
+
+### Harte Ausgabe-Regeln
+
+Diese Regeln haben Vorrang vor widersprechenden Angaben im Style-Profil.
+
+- Gib nur die Uebersetzung aus.
+- Keine Vorbemerkung, keine Zusammenfassung, keine Analyse.
+- Keine Saetze wie 'Hier ist die Uebersetzung'.
+- Keine Markdown-Ueberschriften, Vorabsaetze, Lede, Prologe oder sonstige Struktur-Ergaenzungen erfinden, ausser sie stehen bereits im Quelltext.
+- Technische Kopfzeilen der Quelldatei sind Metadaten und gehoeren nicht in die Uebersetzung: Zeilen wie '# Kapitel N: ...', '*Buch: ...*' und HTML-Kommentare '<!-- ... -->' werden weder uebersetzt noch uebernommen noch ersetzt.
+- Inhalt, Reihenfolge und Fakten des Quelltexts bleiben erhalten; nichts ergaenzen, das nicht im Quelltext steht.
+
+## User
+
+Uebersetze den folgenden Text ins Deutsche.
+
+### Buch
+- Titel: Tausend Seelen
+- Autor: Alexei Feofilaktowitsch Pissemski
+- Stil: stil-01-original
+- Style-Profil: books\pissemski-tausend-seelen\styles\stil-01-original.md
+- Das Style-Profil steht im System-Prompt und ist verbindlich.
+- Namensschreibweise: Deutsche Transliteration russischer Namen nach Duden-Ueblichkeit.
+- Beispiele:
+  - Калинович -> Kalinowitsch
+  - Настенька -> Nastjenka
+  - Годнев -> Godnew
+  - Белавин -> Belawin
+
+### Verbindliche Namen und Begriffe
+
+Nutze diese Schreibweisen, wenn die genannten Personen oder Begriffe im Quelltext vorkommen. Nicht aufgefuehrte Personen-, Stammes-, Orts- und Titelnamen werden konservativ transliteriert oder im Zweifel in der erkennbaren Quellform beibehalten.
+- Калинович -> Kalinowitsch
+- Настенька -> Nastjenka
+- Петр Михайлыч Годнев -> Pjotr Michailytsch Godnew
+- Полина -> Polina
+- Белавин -> Belawin
+- Князь -> Fuerst
+- Палагея Евграфовна -> Pelageja Jewgrafowna
+- Яков Васильич -> Jakow Wassiljitsch
+- Медиокритский -> Mediokritski
+- Тысяча душ -> Tausend Seelen
+
+### Zu uebersetzender Text
+
+Interne Arbeitsportion 3/3 derselben Szene. Uebersetze nur diesen Abschnitt fortlaufend ins Deutsche. Keine neue Szenenueberschrift erzeugen.
+
+Калинович слегка улыбнулся и молчал. - Неужели же, - продолжала Настенька, - она была бы счастливее, если б
+свое сердце, свою нежность, свои горячие чувства, свои, наконец, мечты, все
+бы задушила в себе и всю бы жизнь свою принесла в жертву мужу, человеку,
+который никогда ее не любил, никогда не хотел и не мог ее понять? Будь она
+пошлая, обыкновенная женщина, ей бы еще была возможность ужиться в ее
+положении: здесь есть дамы, которые говорят открыто, что они терпеть не
+могут своих мужей и живут с ними потому, что у них нет состояния. - Причина довольно уважительная! - заметил Калинович. - Только не для Индианы. По ее натуре она должна была или умереть, или
+сделать выход. Она ошиблась в своей любви - что ж из этого? Для нее все-таки
+существовали минуты, когда она была любима, верила и была счастлива. - Ей бы следовало полюбить Ральфа, - возразил Калинович, - весь роман
+написан на ту тему, что женщины часто любят недостойных, а людям достойным
+узнают цену довольно поздно. В последних сценах Ральф является настоящим
+героем. - Ральф герой? Никогда! - воскликнула Настенька. - Я не верю его любви;
+он, как англичанин, чудак, занимался Индианой от нечего делать, чтоб
+разогнать, может быть, свой сплин. Адвокат гораздо больше его герой: тот
+живой человек; он влюбляется, страдает... Индиана должна была полюбить его,
+потому что он лучше Ральфа. - Чем же он лучше? Он эгоист. - Нет, он мужчина, а мужчины все честолюбивы; но Ральф - фи! - это
+тряпка! Индиана не могла быть с ним счастлива: она попала из огня в воду. Все это Настенька говорила с большим одушевлением; глаза у ней
+разгорелись, щеки зарумянились, так что Калинович, взглянув на нее, невольно
+подумал сам с собой: "Бесенок какой!" В конце этого разговора к ним подошел
+капитан и начал ходить вместе с ними. - Вон дяденьке так очень нравится Ральф, - продолжала Настенька,
+указывая на дядю, и потом отнеслась к нему:
+- Дяденька, вам нравится Ральф - помните, этот англичанин... третьего
+дня читали? - Нравится. - Чем же? - Человек солидный-с, - отвечал капитан. Слушая "Индиану", капитан действительно очень заинтересовался
+молчаливым англичанином, и в последней сцене, когда Ральф начал высказывать
+свои чувства к Индиане, он вдруг, как бы невольно, проговорил: "а... а!"
+- Что, капитан, не ожидали вы этого? - спросил Петр Михайлыч. - Да-с, не предполагал, - отвечал капитан. Таким образом молодые люди гуляли в саду до поздних сумерек. Разговор
+между ними не умолкал. Калинович, впрочем, больше спрашивал и держал себя в
+положении наблюдателя; зато Настенька разговорилась неимоверно. Она
+откровенно высказала, как удивилась, услышав, что Калинович поехал делать
+визиты, и потом описала в карикатуре всю уездную аристократию. Очень мило и
+в самом смешном виде рассказала она, не щадя самое себя, единственный свой
+выезд на бал, как она была там хуже всех, как заинтересовался ею самый
+ничтожный человек, столоначальник Медиокритский; наконец, представила, как
+генеральша сидит, как повертывает с медленною важностью головою и как
+трудно, сминая язык, говорит. Капитан, слушая ее, только покачивал головой. "Бесенок!" - опять подумал про себя Калинович. Между тем Петр Михайлыч проснулся, умылся, прифрантился и сидел уж в
+гостиной, попивая клюквенный морс, который Палагея Евграфовна для него
+приготовляла и подавала всегда собственноручно. В настоящую минуту он
+говорил с нею вполголоса насчет молодого смотрителя. - Ах, боже мой, боже мой! Лучше бы этого человека желать не надобно для
+Настеньки, - говорила Палагея Евграфовна. Калинович очень понравился ей опрятностью в одежде, деликатностью
+своей, а более всего тем, что оказал должное внимание приготовленным ею
+кушаньям. - Все в руце божией! - замечал Петр Михайлыч. Когда молодые люди вернулись, экономка сейчас же скрылась, а Настенька,
+по обыкновению, села разливать чай. - Чем же мы вечер займемся? - начал Петр Михайлыч. - Не любите ли вы,
+Яков Васильич, в карточки поиграть? Не тряхнуть ли нам в преферанс? Это предложение почему-то сконфузило Калиновича. - Если вам угодно... впрочем, я по большой не играю, - ответил он. - У нас огромная игра: по копейке. - Извольте. - Господин капитан, - обратился Петр Михайлыч к брату, - распорядитесь
+о столе! Капитан с заметным удовольствием исполнил эту просьбу: он своими руками
+раскрыл стол, вычистил его, отыскал и положил на приличных местах игранные
+карты, мелки и даже поставил стулья. Он очень любил сыграть пульку и две в
+карты. Настенька, никогда прежде не игравшая, сказала, что и она будет играть. Таким образом, уселись все четверо. Хотя игра эта была почти шалостью, но и
+в ней некоторым образом высказались характеры участвующих. Капитан играл
+внимательно и в высшей степени осторожно, с большим вниманием обдумывая
+каждый ход; Петр Михайлыч, напротив, горячился, объявлял рискованные игры,
+сердился, бранил Настеньку за ошибки, делая сам их беспрестанно, и грозил
+капитану пальцем, укоряя его: "Не чисто, ваше благородие... подсиживаете!"
+Настенька, по-видимому, была занята совсем другим: она то пропускала игры,
+то объявляла ни с чем и всякий раз, когда Калинович сдавал и не играл,
+обращалась к нему с просьбой поучить ее. Что касается последнего, то он
+играл довольно внимательно и рассчитывал, кажется, чтоб не проиграть, - и не
+проиграл. Выиграл один только капитан у брата и племянницы. Затем последовал
+ужин, и при прощанье Настенька спросила Калиновича, любит ли он читать
+вслух. - Да, читаю, - отвечал он. - Когда будете опять у нас, мы попросим вас прочесть что-нибудь. - Если вам угодно, - проговорил Калинович и начал откланиваться. - Непременно, мы вас будем ждать, - повторила Настенька еще раз, когда
+Калинович был уже в передней. - Славный малый, славный! - сказал Петр Михайлыч по уходе его. - Он очень умный человек, - присовокупила Настенька. - Да, голова здоровая, - продолжал старик. - Хорошо нынче учат в
+университетах: год от году лучше. - Вы завтра, папенька, позовете его к нам обедать? - спросила
+Настенька. - Позову; где ему теперь покуда приютиться, - отвечал Петр Михайлыч и
+потом, подумав, прибавил: - Меня теперь заботит: у кого ему квартирку
+приискать. - Против нас квартира отдается, - заметила Настенька. Петр Михайлыч подмигнул брату. - Ого! - воскликнул он. - Какова у нас Настасья Петровна, капитан -
+а?.. Молодого смотрителя хочет против своего окошечка поместить... - Да-с, - отвечал капитан. Настенька слегка покраснела. - Надо спросить у приказничихи: у ней постояльцы съехали, - решила
+Палагея Евграфовна, прибиравшая карты, мелки и уставлявшая на свои места
+карточный стол и стулья. - Дело, дело! Квартира хорошая! - подхватил Петр Михайлыч. - Сходи-ка
+завтра к ней, командирша, да поторгуйся хорошенько. - Сбегаю, - отвечала экономка. - Только вот что, - продолжал Петр Михайлыч, - если он тут наймет, так
+ему мебели надобно дать, а то здесь вдруг не найдет. - Наберем... дадим... - отозвалась уж с некоторою досадою Палагея
+Евграфовна и ушла. Петр Михайлыч говорил о том, что она давно и гораздо лучше его
+обдумала. После этого разговора начали все расходиться по своим местам. Настенька первая встала и, сказав, что очень устала, подошла к отцу,
+который, по обыкновению, перекрестил ее, поцеловал и отпустил почивать с
+богом; но она не почивала: в комнате ее еще долго светился огонек. Она
+писала новое стихотворение, которое начиналось таким образом:
+Кто б ни был ты, о гордый человек!..
+
+### Ausgabe
+Gib ausschliesslich die fertige deutsche Uebersetzung aus. Keine Vorbemerkung, keine Analyse, keine Erklaerung, keine Formulierung wie 'Hier ist die Uebersetzung'.

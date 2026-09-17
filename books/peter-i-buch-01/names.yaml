@@ -77,3 +77,67 @@ entries:
   type: person
   status: draft
   note: Schreibweise noch finalisieren.
+- source: Головин
+  target: Golowin
+  aliases:
+  - Iwan Golowin
+  type: person
+  status: approved
+  note: Gesandter; keine Akzentform (Golowín), keine Form Golowinin.
+- source: Возницын
+  target: Wosnizyn
+  aliases:
+  - Prokofi Wosnizyn
+  type: person
+  status: approved
+  note: Gesandter; Akzentform Wosnizín ist ein Transliterationsfehler.
+- source: Боборыкин
+  target: Boborykin
+  aliases:
+  - Boborykin
+  type: person
+  status: approved
+  note: Bojarenname; ohne Akzent.
+- source: Пичуга
+  target: Pitschuga
+  aliases:
+  - Mitka Pitschuga
+  type: person
+  status: approved
+  note: Gesinde; -га wird zu -ga, nicht zu -ra.
+- source: Дунька
+  target: Dunka
+  aliases:
+  - Dunjka
+  - Dunja
+  type: person
+  status: draft
+  note: Koseform der Ehefrau; Schreibweise im Text vereinheitlichen.
+- source: дьяк
+  target: Djak
+  aliases:
+  - Djak
+  type: term
+  status: approved
+  note: Kanzleischreiber/Amtsträger; weiches Zeichen entfaellt in der Transliteration.
+- source: Крапоткин
+  target: Krapotkin
+  aliases:
+  - Krapotkin
+  type: person
+  status: draft
+  note: Nebenfigur; ohne Akzent (nicht Krapotkín).
+- source: Верещагин
+  target: Wereschtschagin
+  aliases:
+  - Wereschtschagin
+  type: person
+  status: draft
+  note: Nebenfigur; ohne Akzent.
+- source: Петелин
+  target: Petelin
+  aliases:
+  - Petelin
+  type: person
+  status: draft
+  note: Nebenfigur; ohne Akzent.

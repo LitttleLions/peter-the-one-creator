@@ -1,0 +1,18 @@
+{
+  "book_id": "kuprin-moloch",
+  "title": "Der Moloch",
+  "style": "stil-01-original",
+  "chapters": [
+    "001"
+  ],
+  "created_at": "2026-09-14T21:07:58",
+  "llm": "none",
+  "counts": {
+    "ERROR": 0,
+    "WARNING": 0,
+    "INFO": 0
+  },
+  "chapter_reports": [],
+  "summary_markdown": "books\\kuprin-moloch\\work\\reviews\\stil-01-original\\review-summary.md",
+  "summary_json": "books\\kuprin-moloch\\work\\reviews\\stil-01-original\\review-summary.json"
+}

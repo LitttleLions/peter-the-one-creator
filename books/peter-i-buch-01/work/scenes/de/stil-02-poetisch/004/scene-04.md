@@ -12,7 +12,7 @@ Ewdokija schaute sie an, schaute sie an, und die Wimpern füllten sich mit Trän
 
 Sie nahm wieder die Feder und, die Lippen bewegend, schrieb sie:
 
-„Bitten wir um Gnade: komm bitte, Herrscher, zu uns, ohne Verzug… Deine Ehefrau Dunkа schlägt die Stirn…"
+„Bitten wir um Gnade: komm bitte, Herrscher, zu uns, ohne Verzug… Deine Ehefrau Dunka schlägt die Stirn…"
 
 Sie las es durch und freute sich — sehr gut geschrieben. Ach, du meine Güte, die Törin! — aber an die Schwiegermutter hat sie nicht gedacht. Jetzt zum vierten Mal umschreiben… Ach, Schwiegermutter, Mütterchen Natalja Kirillowna, — die Strenge!.. Wie man sich auch anschmiegt, sie findet immer etwas, das nicht passt… Warum, sagt sie, so mager? Und gar nicht mager: alles, was nötig ist, — rundlich… Warum ist Petruscha im zweiten Monat von dir zum Perejaslawl-See davongestürmt? Was bist du: schal oder vielleicht traurig-dumm, dass dein Mann vor dir, wie vor einer Pestbeule, ans Ende der Welt fliehen muss?.. Und nicht dumm, und nicht Beule… Ihr selbst seid schuld — warum habt ihr ihn an Lefort, Alexaschka und die Deutschen gelassen, die haben das Täubchen zum Perejaslawl-See gelockt, und Schlimmeres werden sie noch wohin locken.
 

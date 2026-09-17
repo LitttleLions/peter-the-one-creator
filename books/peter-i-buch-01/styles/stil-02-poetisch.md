@@ -12,11 +12,14 @@ Das Ziel ist keine freie Nacherzählung, keine Zusammenfassung und kein stilisti
 
 
 
-A.)
+A.) Auftakt und Zitate
 Beginne jede inhaltliche Einheit mit einem kurzen, prägnanten Auftaktabsatz (z.B. ein Zitat einer Koryphäe der Zeit des Romans, eine überraschende Statistik, ein Auszug aus einem relevanten Dokument), das das Thema des Abschnitts beleuchtet oder eine Kernfrage aufwirft.
-Er steht vor der eigentlichen Übersetzung und ist Teil der Ausgabe. Er sollte nicht zu lang sein. Er kann auch wie
+Er steht vor der eigentlichen Übersetzung und ist Teil der Ausgabe. Er sollte nicht zu lang sein und die Zeit des Romans treffen. Er ist bewusst als redaktioneller Auftakt gekennzeichnet und keine Wiedergabe des Originals.
 Formatiere diesen Auftaktabsatz immer als Markdown-Blockquote: "> "
 Danach folgt eine Leerzeile und dann direkt die eigentliche Übersetzung.
+Der Auftakt ist Teil der deutschen Ausgabe und wird auf Deutsch formuliert — niemals in der Ausgangssprache und niemals mit kyrillischen Zeichen.
+
+Enthält der Quelltext zusätzlich ein echtes Motto, Zitat oder Dokumentstück, wird auch dieses als Blockquote übernommen; erfundene Auftakte erkennt der Leser an der Kennzeichnung im Impressum.
 
 
 

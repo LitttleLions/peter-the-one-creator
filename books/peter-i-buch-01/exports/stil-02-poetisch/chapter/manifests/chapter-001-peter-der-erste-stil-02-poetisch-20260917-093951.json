@@ -1,0 +1,34 @@
+{
+  "book_id": "peter-i-buch-01",
+  "book_title": "Peter der Erste",
+  "style": "stil-02-poetisch",
+  "scope": "chapter",
+  "chapter": "001",
+  "format": "epub",
+  "partial": false,
+  "review_gate_errors": 0,
+  "review_gate_bypassed": false,
+  "created_at": "2026-09-17T09:39:54",
+  "chapters": [
+    {
+      "id": "001",
+      "scenes": 19,
+      "missing": []
+    }
+  ],
+  "outputs": [
+    "books\\peter-i-buch-01\\exports\\stil-02-poetisch\\chapter\\epub\\chapter-001-peter-der-erste-stil-02-poetisch-20260917-093951.epub"
+  ],
+  "work_markdown": "books\\peter-i-buch-01\\exports\\stil-02-poetisch\\chapter\\work\\chapter-001-peter-der-erste-stil-02-poetisch-20260917-093951.md",
+  "work_pdf_html": null,
+  "work_pdf_css": null,
+  "cover": "books\\peter-i-buch-01\\assets\\covers\\peteri.png",
+  "illustrations": [
+    {
+      "kind": "chapter",
+      "chapter": "001",
+      "scene": null,
+      "path": "books\\peter-i-buch-01\\assets\\chapter\\chapter-001.jpg"
+    }
+  ]
+}

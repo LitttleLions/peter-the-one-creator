@@ -1,0 +1,70 @@
+Aus dem vorigen Kapitel hatte der Leser volles Recht zu schließen, daß in der von mir beschriebenen Familie eitel Ruh und Frieden und Gottes Segen herrschten und alle nach Möglichkeit glücklich waren. So schien es, und so wäre es in der Tat gewesen, wenn sich nicht ein junges Wesen darein gemischt hätte, meine künftige Heldin, Nastjenka. Dieselbe Isprawnikin, die die Beziehungen Pjotr Michailytschs zu Pelageja Jewgrafowna so ungünstig auslegte, sprach auch über sie.
+
+- Herr Gott, mein Gott! Kann es denn auf der Welt solch eine Vogelscheuche geben wie diese unglückliche Nastjenka Godnewa!
+
+- Was denn für eine besondere Vogelscheuche? Im Gegenteil, ein sehr liebes Mädchen, - wagte ihr Mann leise zu widersprechen.
+
+- Sehr lieb, - entgegnete ihrererseits die Isprawnikin mit Nachdruck und ganz errötend, als wäre ihr eine tiefe Beleidigung zugefügt worden.
+
+- Was ist denn dabei? - sagte der Mann mehr zu sich selbst.
+
+- Sehr lieb, - wiederholte die Isprawnikin (in ihrer Stimme war ein Zischen zu hören), - beim Tanzen verheddert sie sich, und auf französisch spricht sie: sche-ne-we-pa, sche-ne-pe-pa!
+
+- Die Leute sind nicht reich: sie hatten kein Geld, Gouvernanten zu nehmen! - wagt der Mann noch einmal zu bemerken.
+
+Die Isprawnikin sieht ihm einige Minuten ins Gesicht, als ob sie ihn maße und sich überlege, was sie wohl mit ihm anstellen solle, und dann, sichtlich ihren Zorn bezwingend, sagt sie:
+
+- Warum kommen Sie hierher ins Wohnzimmer? Gehen Sie hinaus, sitzen Sie den ganzen Tag in Ihrem Kabinett und wagen Sie nicht, Ihre schäbige Nase zu zeigen.
+
+Der Isprawnik zuckt nur die Achseln und geht.
+
+- Was für ein Weiser und Philosoph sich da gefunden hat, ein ausgemachter Dummkopf! Er wagt es sogar zu räsonieren, - sagt die Isprawnikin. - Die Bauern haben auch kein Geld, Gouvernanten zu nehmen, und trotzdem sind sie Bauern.
+
+Braucht es da noch zu sagen, daß die ungünstigen Urteile der Isprawnikin vollkommen ungerecht waren. Nastjenka war im Gegenteil sehr hübsch: von kleiner Gestalt, schmächtig, eine vollkommene Brünette, hatte sie dichtes schwarzes Haar, große, schwarze, wie zwei reife Kirschen glänzende Augen, halb nach oben gehoben, was dem Gesicht einen etwas sentimentalen Ausdruck verlieh; mit einem Wort, das Köpfchen war allerliebst.
+
+Was nun die Bildung anbelangt, so muß ich hier eine kleine Abschweifung machen. Nastjenka war im vollen Sinne des Wortes das, was man ein Kreisstädtchen-Fräulein nennt... Aber um Gottes willen, denke nicht, Leser, daß sie ein Kreisstädtchen-Fräulein der heutigen Zeit war. Hier gibt es einen ungeheuren Unterschied. Ich zum Beispiel bin noch ein recht junger Mensch und trete erst eben in das gesetzte, um die vierzig gehende Alter des Mannes; aber - ach! - bei all meinem vergeblichen Suchen habe ich seit mehr als fünfzehn Jahren aufgehört, liebe Kreisstädtchen-Fräulein zu treffen, denen ich einst meine erste Liebe geweiht habe, mit denen ich, den "Amlat-Bek" lesend, in bittere Tränen ausbrach, mit denen ich Sätze aus "Eugen Onegin" wechselte, denen ich ins Album schrieb:
+
+Ich sag es nicht, ich gesteh es nicht,
+Worin mein ewiges Geheimnis liegt.
+
+Zu meiner Zeit erzählte man sich fast in jedem Städtchen, in jedem Winkel kleine Geschichten von der Art, daß irgendeine Annötschka Sawinowa sich bis zum Wahnsinn verliebte - o Schreck! - in Ananjin, einen verheirateten Mann, so daß die Mutter gezwungen war, sie nach Moskau zu bringen, an die Wasser, um sie von dieser unvernünftigen Leidenschaft zu heilen; und daß die Katjenka Makarowa gegen einen Karabinier-Leutnant so wenig gleichgültig war, daß sie es sogar auf dem Ball nicht verbergen konnte und den ganzen Abend kein Auge von ihm ließ. Bei fast jedem Fräulein damals - dessen bin ich gewiß - bewahrte man in der geheimen Schublade der Kommode einige Hefte mit Gedichten auf, abgeschrieben natürlich mit grammatischen Fehlern, aber sorgfältig und alles mit eigener Hand. In den endlosen Mazurkas sprachen die Fräulein gewöhnlich mit den Kavalieren über Gefühle und gerieten dermaßen in Eifer, daß sie nicht einmal bemerkten, wie die Mazurka zu Ende ging und daß alle längst beim Abendessen saßen.
+
+Nichts von alledem gibt es bei den heutigen Kreisstädtchen-Fräulein. Mein Gott, wie vernünftig und vorsichtig sie heute sind, welche im Vergleich zu den früheren Fräulein viel größere Gewohnheit an das Korsett sie haben! Wie flott, wenn auch nicht ganz mit Verstand, sie Klavier spielen! Wie korrekt sie französisch sprechen! Wie graziös sie in den Tänzen sind! Aber dafür, seien Sie unbesorgt, tanzen sie sich nicht bis zur Hingerissenheit. Wenn Sie mit ihnen über Gefühle sprechen (der Autor hat das mit Absicht getan), so werden sie, glauben Sie mir, das Gespräch nicht fortsetzen, entweder weil sie es einfach nicht verstehen oder weil sie es für unschicklich halten. Wenn Sie ein heutiges Kreisstädtchen-Fräulein fragen, ob sie Musik liebe, wird sie sagen: "Ja", und Ihnen zwei, drei Polkas vorspielen; eine andere singt Ihnen vielleicht etwas aus der "Norma", aber wenn Sie bitten, ein russisches Lied oder eine Romanze zu singen und zu spielen, nicht ganz neu, aber die Ihnen wegen ihrer Innigkeit gefiele, so wird man Ihnen dazu eine Grimasse schneiden und vom Klavier aufstehen. Der Autor hat einmal in der Gesellschaft junger Landfräulein geäußert, seiner Meinung nach sei es, wenn ein Mädchen beim Mond träume, eine vortreffliche Empfehlung für ihr Herz - alle lachten und sagten einstimmig: "Was für ein Unsinn, zu träumen!" Unser großer Puschkin, der, wie es scheint, dazu berufen war, der ewige Liebling der Frauen zu sein, Puschkin, den die Fräulein meiner Zeit fast vollständig auswendig kannten, dessen Tatjana für sie ein Ideal war - diesen Puschkin haben die heutigen Fräulein kaum gelesen, dafür aber ganze Hunderte von Bänden Dumas und Paul Féval verschlungen, und wissen Sie, warum? - weil dort der Hof beschrieben wird, die prächtigen Salons der Heldinnen und die feierlichen Ausfahrten. Wenn der Autor bei den heutigen Fräulein so etwas wie Liebe bemerkte, so zeigte sich sogleich, daß dieses Gefühl gerade auf einen Menschen gerichtet war, mit dem sich eine anständige Partie ergeben konnte; und je anständiger, das heißt je vorteilhafter diese Partie war, desto mehr wuchs die Leidenschaft. Man kann fast mit Bestimmtheit sagen, daß die früheren Fräulein an der Liebe litten; die heutigen - daran, daß der Papa zu wenig Geld hat. Früher war ein junges Mädchen bereit, mit einem armen, aber edlen Woldemar zu fliehen; heute gibt es keine Entführungen mehr, dafür aber hat der Autor mit zerrissenem Herzen Dutzende von Beispielen gesehen, wie ein siebzehnjähriges Mädchen all ihre Koketterie aufbot, um einen reichen Greis zu fangen. Früher schien der Ersehnte ein Halbgott, heute ist der Ersehnte ein künftiger General oder der Besitzer von fünfhundert Seelen. Träumerei, Empfindsamkeit, die einst der gutmütige Karamsin so eifrig zu verbreiten suchte - nichts davon ist mehr vorhanden: Eitelkeit und Eitelkeit, äußerer Glanz und innere Leere haben die jungen Herzen angesteckt. Für eine Kutsche mit weichen Federn, für eine mit Schwanendaunen besetzte Samtmantille, für ein Brillantgeschmeide sind die heutigen Fräulein zu jeder erdenklichen ehelichen Qual bereit.
+
+Meine Heldin war nicht so: sehr klug, gut, zum Teil sentimental und empfindsam, saß sie zugleich mit krummem Rücken, verstand nicht, den Walzer im Zweitakt zu tanzen, spielte überhaupt nicht Klavier und sprach französisch: sche-ne-we-pa, sche-ne-pe-pa. Was sollte man machen? Sie hatte weder eine französische Gouvernante, die ihr das Geheimnis der guten Aussprache hätte vermitteln können; man hatte sie nicht geradegerichtet und nicht gelehrt, im Pensionat einen Knicks zu machen; bei ihr war nicht einmal eine praktische Tante oder Schwester, die sich um ihr Äußeres gekümmert und sie, wie Gogol sagt, mit allerlei Weiberkram vollgestopft hätte.
+
+Nachdem Pjotr Michailytsch seine Frau verloren hatte, war er außerstande, sich von Nastjenka zu trennen, und erzog sie im Hause. Als Kind war sie eine fürchterliche Range: sie lief ganze Tage im Garten umher, wühlte im Sand, wurde braun, so braun wie nur ein Brünettchen werden kann, fütterte von der Flußseite her die Gänse und lief sogar mit den Jungen der Kleinbürger Pferdchen. Die Bettlerin, die jeden Tag auf den Hof zu Pjotr Michailytsch kam, sagte, wenn sie ihr begegnete, immer:
+
+- Was für eine Range von Fräulein! Warte nur, ich nehme sie in den Sack und trage sie fort.
+
+Nastjenka errötete, verlor aber nicht die Fassung und blickte der Alten kühn ins Gesicht. Pelageja Jewgrafowna gehorchte sie natürlich kein bißchen und fürchtete sie nicht. Die Wirtschafterin geriet in Entsetzen, wenn sie ihre beschmutzten Kleidchen und zerrissenen Schühchen sah.
+
+- Da hast du das Petersburger Leinenzeug; lauf nun herum, worin du willst... Nein, Nastassja Petrowna, nein, ich werde mich über Sie beim Papa beklagen... - sagte sie.
+
+- Der Papa wird nichts sagen, - antwortete Nastjenka und lief selbst zum Vater.
+
+- Papa, sieh, was für eine Schmutzfink ich bin, - sagte sie.
+
+- Vortrefflich, vortrefflich, mein Wildchen! - antwortete jener (wegen ihrer Ausgelassenheit und wegen der dunklen Gesichtsfarbe hatte Pjotr Michailytsch die Tochter Wildchen genannt).
+
+Nastjenka sprang ihm auf die Knie, küßte ihn, dann legte sie sich neben ihn auf das Sofa und schlief ein. Der Alte saß ganze Stunden reglos da, um sie nicht zu wecken, blickte ganze Stunden auf sie, ohne die Augen abzuwenden, nahm sie dann selbst behutsam auf die Arme und trug sie in ihr Bettchen.
+
+"Wie viel gemeinsame Freude hätten wir, wenn die Selige noch lebte", sagte er zu sich selbst und ging mit aufsteigenden Tränen in den Augen in sein Kabinett und kam lange nicht mehr von dort zurück...
+
+Wenn Pelageja Jewgrafowna zu Pjotr Michailytsch bemerkte: "Ein Verzärtler sind Sie, ein Verzärtler, es hilft nichts, es zu verbergen", so entgegnete er gewöhnlich: "Einem Kind das Ausgelassensein zu verbieten heißt, ihm die besten Minuten des Lebens zu vergiften und die reinste, hellste Freude zu trüben."
+
+Schönschreiben, das Gesetz Gottes, den ersten und zweiten Teil der Arithmetik und die Grammatik begann Pjotr Michailytsch, Nastjenka selbst zu lehren. Das Mädchen war sehr verständig. Mit welcher Begeisterung zeigte er seinen Bekannten die von ihren kleinen Händchen, aber in riesigen Buchstaben geschriebene bekannte Schreibvorlage: "Amerika ist sehr reich an Silber!"
+
+- Ein Kalligraph wird mir meine Tochter, meine Herren, wahrhaftig, ein Kalligraph! - sagte er.
+
+Sehr gern prüfte er sie auch vor Fremden aus der Tabelle und stellte, indem er sie gleichsam zu verwirren suchte, die Fragen so:
+
+- Und wie viel, zum Beispiel, sagen Sie mir, Nastassja Petrowna, ist neun mal zwei?
+
+- Achtzehn, - antwortete Nastjenka und irrte sich niemals. Der Alte war hingerissen.
+
+Als Nastjenka vierzehn Jahre alt wurde, hörte sie auf, im Garten umherzulaufen, hörte sogar auf, mit Puppen zu spielen, schämte sich, den zum Abschied gekommenen Onkel, den Hauptmann, zu küssen, und als sie auf Befehl des Vaters küßte, errötete sie; jener seinerseits wurde ebenfalls rot. Womit und wie sollte Pjotr Michailytsch in seinem eintönigen Leben sein Wildchen beschäftigen? Ohne es selbst zu bemerken, gewöhnte er sie an seine liebste Beschäftigung. Alle, denke ich, erinnern sich, in welch ungeheurer Menge in den dreißiger Jahren Romane erschienen, übersetzte und russische, Romane der verschiedensten Inhalte: historische, sittenbeschreibende, Räuberromane; Sammlungen, Almanache und schließlich Zeitschriften. Von alledem wurde jeden Abend etwas gelesen. Nastjenka hörte zuerst mit der bewußtlosen Neugier eines Kindes zu, dann begann sie selbst, dem Vater laut vorzulesen, und schließlich gewann sie das Lesen lieb.
+
+Ihr Erscheinen in der kleinen Kreisstadtgesellschaft war nicht ganz glücklich: sie war achtzehn Jahre alt geworden, als in die Stadt die Generalin Schewalowa zum Wohnen kam, eine höchst modische und höchst stolze Dame. Früher hatte sie die Sommer auf ihrem Gut verbracht und die Winter in den Hauptstädten, und nun war sie in das Kreisstädtchen gezogen, um persönlichen Einfluß auf einen dort geführten bedeutenden Prozeß um ihr Gut zu haben. Sie hatte nur eine einzige Tochter, Mamsell Polina, ein Mädchen, wie man sagte, sehr klug und gebildet, aber leider mit einer Art kränklicher Gesichtsfarbe und, wie das Gerücht ging, ohne zwei Rippen auf einer Seite - ein Mangel, der allerdings äußerlich fast unmöglich zu bemerken war. Die Generalin war sehr reich und unermeßlich geizig: indem sie aus dem Gut herauspreßte, soviel nur herauszupressen war, führte sie in der Hauswirtschaft alles selbst und zitterte um jeden Kopeken. Ihr Geiz, sagt man, ging so weit, daß sie nicht nur dem Hofgesinde, sondern sogar sich selbst und der Tochter das Essen verweigerte, und an ihrem Tisch wurde, wenn niemand da war, in solchem Maß zubereitet, daß es nur den Hunger gerade stillte; dafür aber sparte die Generalin für den äußeren Glanz an nichts. In die Stadt gezogen, mietete sie die beste Wohnung, die Möbel wurden mit Samt und Tripp bezogen herbeigeschafft; in allen Zimmern hingen Bilder in goldenen Rahmen, und es standen Unmengen von Bronzegegenständen umher. Durch die Stadt fuhr sie stets in einer Kutsche mit Vorreiter, wenn auch mit einem stark abgetriebenen Viergespann. Sie hatte einen Maître d'hôtel, und alle Lakaien waren ständig in Livreen gekleidet. Zu allem Überfluß kündigte sie an, daß sie den ganzen Winter hindurch donnerstags Tanzabende geben werde.
+
+In dem kleinen Städtchen fiel alles vor ihrer Größe auf die Knie, um so mehr, als die Generalin sich im Umgang als sehr stolz erwies und, obwohl sie mit allen Stadtbeamten bekannt wurde, sich doch mit fast niemandem einließ und offen sagte, sie ruhe nur dann mit der Seele aus, wenn sie den Fürsten Iwan und seine liebe Familie sehe (der Fürst Iwan war ein reicher Gutsbesitzer bei der Stadt und ihr entfernter Verwandter). Mit Pjotr Michailytsch war die Generalin eher zufällig bekannt geworden.

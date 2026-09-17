@@ -1,9 +1,15 @@
 Fixbare Szenen: 0
 Fixbare Ersetzungen: 0
-Manuell zu pruefen: 2
+Manuell zu pruefen: 8
 
 
 Manuell:
 
-- Kapitel 006, Szene 01: length_ratio - kein eindeutiger maschineller Ersatz erkennbar
-- Kapitel 006, Szene 01: llm_review_failed - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 001, Szene 05: duplicate_heading - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 002, Szene 08: duplicate_heading - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 005, Szene 06: duplicate_heading - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 005, Szene 08: duplicate_heading - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 011, Szene 02: duplicate_heading - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 011, Szene 03: duplicate_heading - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 012, Szene 04: duplicate_heading - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 016, Szene 05: duplicate_heading - kein eindeutiger maschineller Ersatz erkennbar

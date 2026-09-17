@@ -1,0 +1,9 @@
+»Wir sind bereit zu sterben, Iwan Iwanowitsch… Aber von den Eigenen zu sterben…«
+
+Eine Werst vom russischen Lager entfernt, auf einem Gutshof, empfingen Karl und seine Generäle Buturlin. Die Schweden fürchteten den morgigen Tag ebenso wie die Russen. Nach einigem Sträuben um der Ehre willen willigten sie ein, das gesamte russische Heer mit Waffen und Fahnen, jedoch ohne Geschütze und Tross, auf die andere Seite der Narwa ziehen zu lassen. Als Pfand verlangten sie, alle russischen Generäle und Offiziere auf den Gutshof zu bringen; das Heer aber möge mit Gott nach Hause ziehen… Buturlin versuchte zu widersprechen. Karl sagte mit einem Lächeln:
+
+»Aus Liebe zu meinem Bruder, dem Zaren Peter, rette ich seine ruhmreichen Generäle vor der Wut der Soldaten. In Narwa wird es euch ruhiger und satter ergehen als beim Heer.«
+
+Man musste in alles einwilligen. Ein Zug Kürassiere sprengte los, um die Geiseln zu holen. Schwedische Pioniere entzündeten Feuer am Ufer und begannen, eine Brücke zu schlagen, um die Russen so schnell wie möglich über den Fluss zu schaffen. Als Erste verließen die Semjonower und Preobraschener das Lager – mit Fahnen und Waffen, unter Trommelschlag zogen sie über die Brücken; die Soldaten waren allesamt hochgewachsen, schnauzbärtig, finster. Auf den Schultern trugen sie die Verwundeten. Als Weides Division durchzuziehen begann, rückten die schwedischen Kürassiere drohend näher und verlangten die Abgabe der Waffen. Fluchend warfen die Soldaten die Musketen hin. Die übrigen Regimenter trieb man schon ganz einfach fort – mit Schüssen…
+
+Bei Tagesanbruch setzten sich die Reste der fünfundvierzigtausend Mann starken russischen Armee – barfuß, hungrig, ohne Kommandeure, ohne Ordnung – auf den Rückweg in Bewegung. Hinter ihnen her sandten die Bastionen der Festung Iwangorod einige Bomben…

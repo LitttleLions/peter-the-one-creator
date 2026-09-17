@@ -1,6 +1,6 @@
 ## Szene 1
 
-> „Доброе дело – слава, да не она одна сердце тешит. Иному и победа без милой – полпобеды. А ветер попутный, а паруса полны, а мысль всё одно к берегу, где она, свет-Катерина, ждёт ли?"
+> „Gute Tat bringt Ruhm – doch nicht der Ruhm allein erfreut das Herz. Mancher hat am Sieg ohne die Liebste nur den halben Sieg. Und der Wind steht günstig, und die Segel sind voll, und der Gedanke läuft doch immer zum Ufer, wo sie wartet – mein Licht, Katharina."
 
 Peter Alexejewitsch hatte die Segeltuchjacke abgeworfen, die Hemdsärmel hochgekrempelt, ein purpurrotes Tuch, am Saum mit Weinranken bestickt – ein Geschenk aus Ismailowo –, nach Art der portugiesischen Piraten um den Kopf gebunden, wie es ihm einst Konteradmiral Pamburg gezeigt. In früheren Jahren hätte er auch die Schuhe abgestreift, um die Wärme des rauen Decks unter den Sohlen zu spüren. Ein leichter Wind füllte die Segel, die zweimastige Schnaue „Katharina“ glitt wie durch Luft, gehorsam und geschmeidig. Im Kielwasser folgte die Brigantine „Ulrika“, und am Saum von Wasser und Himmel – im Dunst – stand die Fregatte „Wachtmeister“ mit vollen Segeln.
 

@@ -2,7 +2,168 @@
   "version": 1,
   "book_id": "peter-i-buch-01",
   "style": "stil-02-poetisch",
-  "created_at": "2026-06-15T17:00:55",
+  "created_at": "2026-09-17T10:36:50",
   "source_review_summary": "books\\peter-i-buch-01\\work\\reviews\\stil-02-poetisch\\review-summary.json",
-  "staged": []
+  "staged": [
+    {
+      "chapter": "001",
+      "scene": 5,
+      "source_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\001\\scene-05.md",
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\001\\scene-05.md",
+      "candidate_path": "books\\peter-i-buch-01\\work\\review-fixes\\stil-02-poetisch\\001\\scene-05.md",
+      "original_sha256": "1fa27c3986b72adae093a2ec8beeb65e6f11d61d0097ae91b89b3456a67bb42c",
+      "candidate_sha256": "b089e0ce9f3c81d230b971b47674a05eb10e77fca0a61f372985232e7a1a1a90",
+      "applied": [
+        {
+          "chapter": "001",
+          "scene": 5,
+          "category": "duplicate_heading",
+          "source": "duplicate-heading",
+          "current_text": "## 5\n\n",
+          "suggested_text": ""
+        }
+      ],
+      "manual": []
+    },
+    {
+      "chapter": "002",
+      "scene": 8,
+      "source_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\002\\scene-08.md",
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\002\\scene-08.md",
+      "candidate_path": "books\\peter-i-buch-01\\work\\review-fixes\\stil-02-poetisch\\002\\scene-08.md",
+      "original_sha256": "c4ad581c39fea9d9952650b37372c5472704be0fbcbe0ddf982ee95a7a10e482",
+      "candidate_sha256": "7f62a71987d0ddd8fefcee061432e8e1a3511dc419bd9b89802ea290d8edb0f6",
+      "applied": [
+        {
+          "chapter": "002",
+          "scene": 8,
+          "category": "duplicate_heading",
+          "source": "duplicate-heading",
+          "current_text": "# 8\n\n",
+          "suggested_text": ""
+        }
+      ],
+      "manual": []
+    },
+    {
+      "chapter": "005",
+      "scene": 6,
+      "source_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-06.md",
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-06.md",
+      "candidate_path": "books\\peter-i-buch-01\\work\\review-fixes\\stil-02-poetisch\\005\\scene-06.md",
+      "original_sha256": "fddee0cd40c79e834957a5934ab8257362712c8a3f7094ee53f7bdd15863a23e",
+      "candidate_sha256": "f9e54a4c1d28b773c274bc93f8ffc0c01b3959361054b8e602f1bfd8fbf28466",
+      "applied": [
+        {
+          "chapter": "005",
+          "scene": 6,
+          "category": "duplicate_heading",
+          "source": "duplicate-heading",
+          "current_text": "### 6\n\n",
+          "suggested_text": ""
+        }
+      ],
+      "manual": []
+    },
+    {
+      "chapter": "005",
+      "scene": 8,
+      "source_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-08.md",
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\005\\scene-08.md",
+      "candidate_path": "books\\peter-i-buch-01\\work\\review-fixes\\stil-02-poetisch\\005\\scene-08.md",
+      "original_sha256": "f821d55aaf688b1a27571110642b086ea8e6fb33ee51281e52d5b0a14ee6a78d",
+      "candidate_sha256": "0f8f98a5b5b79a004491906e6fec04da0827956af237e07a33a8eeac15d0d937",
+      "applied": [
+        {
+          "chapter": "005",
+          "scene": 8,
+          "category": "duplicate_heading",
+          "source": "duplicate-heading",
+          "current_text": "### 8\n\n",
+          "suggested_text": ""
+        }
+      ],
+      "manual": []
+    },
+    {
+      "chapter": "011",
+      "scene": 2,
+      "source_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\011\\scene-02.md",
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\011\\scene-02.md",
+      "candidate_path": "books\\peter-i-buch-01\\work\\review-fixes\\stil-02-poetisch\\011\\scene-02.md",
+      "original_sha256": "93edb3ba0f851edbf04f395681cd8b03ae07a9212304e0464b27d11def8fd3fe",
+      "candidate_sha256": "2c8494f3c27a0c04ac43e8b54811c26ba13ee45c08faa218bb6f23fab8e89664",
+      "applied": [
+        {
+          "chapter": "011",
+          "scene": 2,
+          "category": "duplicate_heading",
+          "source": "duplicate-heading",
+          "current_text": "## 2\n\n",
+          "suggested_text": ""
+        }
+      ],
+      "manual": []
+    },
+    {
+      "chapter": "011",
+      "scene": 3,
+      "source_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\011\\scene-03.md",
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\011\\scene-03.md",
+      "candidate_path": "books\\peter-i-buch-01\\work\\review-fixes\\stil-02-poetisch\\011\\scene-03.md",
+      "original_sha256": "c110f54f7147d983965c35c95fb8cfdbc8a0533de012b9f8dce93507723bc271",
+      "candidate_sha256": "78f274f72df01c71656ce8a7586387050bbf36380d58f9faf3891cada3710e1c",
+      "applied": [
+        {
+          "chapter": "011",
+          "scene": 3,
+          "category": "duplicate_heading",
+          "source": "duplicate-heading",
+          "current_text": "## 3\n\n",
+          "suggested_text": ""
+        }
+      ],
+      "manual": []
+    },
+    {
+      "chapter": "012",
+      "scene": 4,
+      "source_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\012\\scene-04.md",
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\012\\scene-04.md",
+      "candidate_path": "books\\peter-i-buch-01\\work\\review-fixes\\stil-02-poetisch\\012\\scene-04.md",
+      "original_sha256": "88c3ab7c0b56746e9693d806be592987171299d24ff7e8d41d759d161856f4c3",
+      "candidate_sha256": "50359d8833b1e2f76c3896e8037bdcf71a32f66342a3444782465774874c5d46",
+      "applied": [
+        {
+          "chapter": "012",
+          "scene": 4,
+          "category": "duplicate_heading",
+          "source": "duplicate-heading",
+          "current_text": "## 4\n\n",
+          "suggested_text": ""
+        }
+      ],
+      "manual": []
+    },
+    {
+      "chapter": "016",
+      "scene": 5,
+      "source_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\016\\scene-05.md",
+      "ru_path": "books\\peter-i-buch-01\\work\\scenes\\ru\\016\\scene-05.md",
+      "candidate_path": "books\\peter-i-buch-01\\work\\review-fixes\\stil-02-poetisch\\016\\scene-05.md",
+      "original_sha256": "3283c414f820492e92f0eeee8071ea53fb36d6d0192a86cc81469b6d88be5e84",
+      "candidate_sha256": "1bc58e8bfe9a9064b2e9dccd6fd9781f6f45eb474db23beba7f6bd2fed591674",
+      "applied": [
+        {
+          "chapter": "016",
+          "scene": 5,
+          "category": "duplicate_heading",
+          "source": "duplicate-heading",
+          "current_text": "## 5\n\n",
+          "suggested_text": ""
+        }
+      ],
+      "manual": []
+    }
+  ]
 }

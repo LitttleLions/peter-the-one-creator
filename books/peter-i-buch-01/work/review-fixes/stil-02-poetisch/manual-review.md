@@ -1,17 +1,65 @@
 # Manuelle Review-Fixes
 
-## Kapitel 006, Szene 01: length_ratio
+## Kapitel 001, Szene 05: duplicate_heading
 
-DE/RU-Wortverhaeltnis ist auffaellig (0.65).
-
-Grund: kein eindeutiger maschineller Ersatz erkennbar
-
-Empfehlung: Stichprobenartig gegenlesen.
-
-## Kapitel 006, Szene 01: llm_review_failed
-
-KI-Review fehlgeschlagen: KI-Antwort enthielt kein JSON-Objekt. Antwortbeginn: 'die Wachen locker waren, durchschlichen die feindlichen Truppen die Lager. Die Stimmung war träge, die Müdigkeit lag wie ein Schleier über allen. Die feindlichen Truppen, die sich in der Nähe des Lagers verschanzt hatten'
+DE-Szene enthaelt doppelte Szenenueberschriften.
 
 Grund: kein eindeutiger maschineller Ersatz erkennbar
 
-Empfehlung: Backend/Modell pruefen, Ollama-Modell wechseln oder Lauf ohne KI-Review wiederholen.
+Empfehlung: Vor Export bereinigen oder Export-Cleaner pruefen.
+
+## Kapitel 002, Szene 08: duplicate_heading
+
+DE-Szene enthaelt doppelte Szenenueberschriften.
+
+Grund: kein eindeutiger maschineller Ersatz erkennbar
+
+Empfehlung: Vor Export bereinigen oder Export-Cleaner pruefen.
+
+## Kapitel 005, Szene 06: duplicate_heading
+
+DE-Szene enthaelt doppelte Szenenueberschriften.
+
+Grund: kein eindeutiger maschineller Ersatz erkennbar
+
+Empfehlung: Vor Export bereinigen oder Export-Cleaner pruefen.
+
+## Kapitel 005, Szene 08: duplicate_heading
+
+DE-Szene enthaelt doppelte Szenenueberschriften.
+
+Grund: kein eindeutiger maschineller Ersatz erkennbar
+
+Empfehlung: Vor Export bereinigen oder Export-Cleaner pruefen.
+
+## Kapitel 011, Szene 02: duplicate_heading
+
+DE-Szene enthaelt doppelte Szenenueberschriften.
+
+Grund: kein eindeutiger maschineller Ersatz erkennbar
+
+Empfehlung: Vor Export bereinigen oder Export-Cleaner pruefen.
+
+## Kapitel 011, Szene 03: duplicate_heading
+
+DE-Szene enthaelt doppelte Szenenueberschriften.
+
+Grund: kein eindeutiger maschineller Ersatz erkennbar
+
+Empfehlung: Vor Export bereinigen oder Export-Cleaner pruefen.
+
+## Kapitel 012, Szene 04: duplicate_heading
+
+DE-Szene enthaelt doppelte Szenenueberschriften.
+
+Grund: kein eindeutiger maschineller Ersatz erkennbar
+
+Empfehlung: Vor Export bereinigen oder Export-Cleaner pruefen.
+
+## Kapitel 016, Szene 05: duplicate_heading
+
+DE-Szene enthaelt doppelte Szenenueberschriften.
+
+Grund: kein eindeutiger maschineller Ersatz erkennbar
+
+Empfehlung: Vor Export bereinigen oder Export-Cleaner pruefen.

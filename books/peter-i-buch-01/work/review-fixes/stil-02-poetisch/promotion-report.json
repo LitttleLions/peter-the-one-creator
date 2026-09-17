@@ -1,9 +1,89 @@
 {
   "book_id": "peter-i-buch-01",
   "style": "stil-02-poetisch",
-  "created_at": "2026-06-15T17:01:01",
-  "promoted": 0,
+  "created_at": "2026-09-17T10:36:50",
+  "promoted": 8,
   "skipped": 0,
-  "assembled_chapters": [],
-  "items": []
+  "assembled_chapters": [
+    "books\\peter-i-buch-01\\work\\assembled\\stil-02-poetisch\\001-translation-v1-stil-02-poetisch.md",
+    "books\\peter-i-buch-01\\work\\assembled\\stil-02-poetisch\\002-translation-v2-stil-02-poetisch.md",
+    "books\\peter-i-buch-01\\work\\assembled\\stil-02-poetisch\\005-translation-v3-stil-02-poetisch.md",
+    "books\\peter-i-buch-01\\work\\assembled\\stil-02-poetisch\\011-translation-v1-stil-02-poetisch.md",
+    "books\\peter-i-buch-01\\work\\assembled\\stil-02-poetisch\\012-translation-v1-stil-02-poetisch.md",
+    "books\\peter-i-buch-01\\work\\assembled\\stil-02-poetisch\\016-translation-v1-stil-02-poetisch.md"
+  ],
+  "items": [
+    {
+      "chapter": "001",
+      "scene": 5,
+      "source_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\001\\scene-05.md",
+      "candidate_path": "books\\peter-i-buch-01\\work\\review-fixes\\stil-02-poetisch\\001\\scene-05.md",
+      "status": "promoted",
+      "message": "uebernommen",
+      "backup_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\001\\scene-05.md.bak-20260917-103650"
+    },
+    {
+      "chapter": "002",
+      "scene": 8,
+      "source_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\002\\scene-08.md",
+      "candidate_path": "books\\peter-i-buch-01\\work\\review-fixes\\stil-02-poetisch\\002\\scene-08.md",
+      "status": "promoted",
+      "message": "uebernommen",
+      "backup_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\002\\scene-08.md.bak-20260917-103650"
+    },
+    {
+      "chapter": "005",
+      "scene": 6,
+      "source_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-06.md",
+      "candidate_path": "books\\peter-i-buch-01\\work\\review-fixes\\stil-02-poetisch\\005\\scene-06.md",
+      "status": "promoted",
+      "message": "uebernommen",
+      "backup_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-06.md.bak-20260917-103650"
+    },
+    {
+      "chapter": "005",
+      "scene": 8,
+      "source_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-08.md",
+      "candidate_path": "books\\peter-i-buch-01\\work\\review-fixes\\stil-02-poetisch\\005\\scene-08.md",
+      "status": "promoted",
+      "message": "uebernommen",
+      "backup_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\005\\scene-08.md.bak-20260917-103650"
+    },
+    {
+      "chapter": "011",
+      "scene": 2,
+      "source_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\011\\scene-02.md",
+      "candidate_path": "books\\peter-i-buch-01\\work\\review-fixes\\stil-02-poetisch\\011\\scene-02.md",
+      "status": "promoted",
+      "message": "uebernommen",
+      "backup_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\011\\scene-02.md.bak-20260917-103650"
+    },
+    {
+      "chapter": "011",
+      "scene": 3,
+      "source_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\011\\scene-03.md",
+      "candidate_path": "books\\peter-i-buch-01\\work\\review-fixes\\stil-02-poetisch\\011\\scene-03.md",
+      "status": "promoted",
+      "message": "uebernommen",
+      "backup_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\011\\scene-03.md.bak-20260917-103650"
+    },
+    {
+      "chapter": "012",
+      "scene": 4,
+      "source_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\012\\scene-04.md",
+      "candidate_path": "books\\peter-i-buch-01\\work\\review-fixes\\stil-02-poetisch\\012\\scene-04.md",
+      "status": "promoted",
+      "message": "uebernommen",
+      "backup_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\012\\scene-04.md.bak-20260917-103650"
+    },
+    {
+      "chapter": "016",
+      "scene": 5,
+      "source_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\016\\scene-05.md",
+      "candidate_path": "books\\peter-i-buch-01\\work\\review-fixes\\stil-02-poetisch\\016\\scene-05.md",
+      "status": "promoted",
+      "message": "uebernommen",
+      "backup_path": "books\\peter-i-buch-01\\work\\scenes\\de\\stil-02-poetisch\\016\\scene-05.md.bak-20260917-103650"
+    }
+  ]
 }

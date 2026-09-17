@@ -123,7 +123,120 @@ class ReviewFixTests(unittest.TestCase):
         self.assertEqual(len(applied), 1)
         self.assertEqual(manual, [])
 
-    def test_does_not_replace_multiple_occurrences(self) -> None:
+    def test_repairs_mojibake_umlauts(self) -> None:
+        text = "Sehr gut geschrieben. Ach, du meine GÃ¼te, die TÃ¶rin!"
+        findings = [{
+            "category": "mojibake",
+            "message": "DE-Szene enthaelt Mojibake (kaputtes Encoding, z. B. Ã/Ð/Ñ).",
+        }]
+
+        fixed, applied, manual = apply_replacements(text, "004", 4, findings)
+
+        self.assertIn("Güte", fixed)
+        self.assertIn("Törin", fixed)
+        self.assertNotIn("Ã¼", fixed)
+        self.assertEqual(manual, [])
+
+    def test_repairs_pitschuga_tail_not_homoglyph(self) -> None:
+        text = "Mitka Pitschuга in der Menge."
+        findings = [{
+            "category": "cyrillic_in_translation",
+            "message": "DE-Szene enthaelt kyrillische Zeichen.",
+        }]
+
+        fixed, applied, manual = apply_replacements(text, "007", 10, findings)
+
+        self.assertIn("Pitschuga", fixed)
+        self.assertNotIn("Pitschura", fixed)
+        self.assertEqual(len(applied), 1)
+        self.assertEqual(manual, [])
+
+    def test_drops_soft_sign_in_mixed_token(self) -> None:
+        text = "Boris Golizyn und der Dьяk Winius. Moskau tobte."
+        findings = [{
+            "category": "cyrillic_in_translation",
+            "message": "DE-Szene enthaelt kyrillische Zeichen.",
+        }]
+
+        fixed, applied, manual = apply_replacements(text, "007", 3, findings)
+
+        self.assertIn("Djak Winius", fixed)
+        self.assertNotIn("Dьяk", fixed)
+        self.assertEqual(len(applied), 1)
+        self.assertEqual(manual, [])
+
+    def test_repairs_name_accent_artifact(self) -> None:
+        text = "Lefort, Golowín und Golowín fuhren in der Kutsche. Wosnizyн blieb."
+        findings = [
+            {
+                "category": "accented_transliteration",
+                "message": "Name 'Golowín' traegt ein Transliterations-Akzentzeichen.",
+                "current_text": "Golowín",
+                "suggested_text": "Golowin",
+                "fixable": True,
+            },
+            {
+                "category": "cyrillic_in_translation",
+                "message": "DE-Szene enthaelt kyrillische Zeichen.",
+            },
+        ]
+
+        fixed, applied, manual = apply_replacements(text, "007", 6, findings)
+
+        self.assertNotIn("Golowín", fixed)
+        self.assertEqual(fixed.count("Golowin"), 2)
+        self.assertIn("Wosnizyn", fixed)
+        self.assertNotIn("Wosnizyн", fixed)
+        self.assertEqual(len(applied), 2)
+        self.assertEqual(manual, [])
+
+    def test_removes_duplicate_numeric_heading(self) -> None:
+        text = "## Szene 2\n\n## 2\n\nDie Daemmerung kroch durch die Gassen.\n"
+        findings = [{
+            "category": "duplicate_heading",
+            "message": "DE-Szene enthaelt doppelte Szenenueberschriften.",
+        }]
+
+        fixed, applied, manual = apply_replacements(text, "002", 2, findings)
+
+        self.assertEqual(fixed, "## Szene 2\n\nDie Daemmerung kroch durch die Gassen.\n")
+        self.assertEqual(len(applied), 1)
+        self.assertEqual(applied[0].source, "duplicate-heading")
+        self.assertEqual(manual, [])
+
+    def test_removes_duplicate_heading_after_opening_quote(self) -> None:
+        text = (
+            "## Szene 3\n\n"
+            "> „Ein Heer gleicht einem Strom.“\n\n"
+            "## 3\n\n"
+            "Die Regimenter zogen durch den Schlamm.\n"
+        )
+        findings = [{
+            "category": "duplicate_heading",
+            "message": "DE-Szene enthaelt doppelte Szenenueberschriften.",
+        }]
+
+        fixed, applied, manual = apply_replacements(text, "011", 3, findings)
+
+        self.assertIn("## Szene 3", fixed)
+        self.assertIn("> „Ein Heer gleicht einem Strom.“", fixed)
+        self.assertIn("Die Regimenter zogen durch den Schlamm.", fixed)
+        self.assertNotIn("## 3", fixed)
+        self.assertEqual(len(applied), 1)
+        self.assertEqual(manual, [])
+
+    def test_single_heading_is_left_alone(self) -> None:
+        text = "## Szene 2\n\nDie Daemmerung kroch durch die Gassen.\n"
+        findings = [{
+            "category": "duplicate_heading",
+            "message": "DE-Szene enthaelt doppelte Szenenueberschriften.",
+        }]
+
+        fixed, applied, manual = apply_replacements(text, "002", 2, findings)
+
+        self.assertEqual(fixed, text)
+        self.assertEqual(applied, [])
+        self.assertEqual(len(manual), 1)
         text = "Name Name"
         findings = [{
             "category": "names",

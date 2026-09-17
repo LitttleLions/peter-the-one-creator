@@ -23,6 +23,11 @@ Dadurch werden fertige Kapitel nicht unnoetig erneut durch ein LLM geschickt.
 > buchlokalen `book.yaml`- und `export.yaml`-Dateien. Der Ordner `memory-bank/`
 > steht in `.gitignore`.
 
+## Arbeitsplan / Offene Punkte
+
+Aktuelle Prioritaeten und Checklisten: [docs/offene-punkte.md](docs/offene-punkte.md).
+Dort ist auch die vorgezogene **Pruefung Uebersetzung Peter der Erste** dokumentiert.
+
 ## Voraussetzungen
 
 ### Python-Abhaengigkeiten
@@ -339,6 +344,30 @@ werden konservativ transliteriert oder im Zweifel beibehalten.
 `tools/export_manuscript.py` erzeugt DOCX, EPUB und PDF aus fertigen DE-Szenen.
 Metadaten, Cover, Zusammenfassung, Autorenleben, Impressum und Titelei stehen
 in `books/<book-id>/export.yaml`.
+
+Vor dem eigentlichen Export laeuft ein **Release-Gate**: der deterministische
+Regelcheck (`--llm none`, kostenlos) prueft die Scope-Kapitel und bricht bei
+ERROR > 0 mit Exit 2 ab. So kann keine Fassung mit kyrillischen Resten,
+gemischten Tokens (`Pitschuга`), Mojibake (`Ã`/`Ð`/`Ñ`), akzentuierten
+Transliterationsfehlern (`Golowín`) oder starker Raffung live gehen.
+
+Raffung wird seit 2026-09-17 mit drei Signalen geprueft: `length_ratio`
+(Extremfaelle), `paragraph_drop` (Absatzdefizit **plus** geschrumpfte
+Wortzahl, pro Szene) und `length_outlier` (Szene relativ zum Buch-Median,
+buchweit). Der buchweite Median-Check braucht mindestens 10 Szenen im
+geprueften Scope - im Dashboard und per CLI also `--all` bzw. Scope
+"Ganzes Buch" waehlen, sonst greift nur `paragraph_drop`.
+
+```bash
+# Release-Gate einzeln pruefen (Exit 2 bei ERROR>0)
+python tools/review_manuscript.py --book peter-i-buch-01 --style stil-02-poetisch --all --llm none --fail-on-errors
+
+# Export ohne Gate-Bypass (Standard)
+python tools/export_manuscript.py --book peter-i-buch-01 --scope book --style stil-02-poetisch --format epub --allow-partial
+```
+
+Details, Ausnahmeliste fuer echte Originalzitate und die Reparatur ohne
+Neuuebersetzung stehen in `AGENTS.md` (Abschnitt `Release-Gate`).
 
 Die bevorzugte Frontmatter-Folge fuer Leserexporte ist:
 

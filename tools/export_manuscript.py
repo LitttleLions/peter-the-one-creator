@@ -2149,6 +2149,53 @@ def output_basename(
     return f"book-{title}-{style}"
 
 
+def preflight_review_gate(
+    repo_root: Path,
+    book: dict[str, Any],
+    style: str,
+    scope: str,
+    chapter_id: str | None,
+) -> list[tuple[str, int | None, str, str]]:
+    """Deterministischer Release-Gate vor Export: ERROR > 0 -> STOP.
+
+    Laeuft report-only ueber die Scope-Kapitel und sammelt
+    (chapter, scene|None, category, message). Schreibt keine Reports.
+    """
+    from lib.review_checks import (
+        apply_length_outliers,
+        chapter_findings,
+        review_chapter_deterministic,
+    )
+    from lib.workbench_state import chapter_ids as workbench_chapter_ids
+
+    try:
+        ids = workbench_chapter_ids(book, repo_root)
+    except Exception:
+        ids = []
+    if scope == "chapter" and chapter_id:
+        ids = [chapter_id] if chapter_id in ids or not ids else [chapter_id]
+    reviews = []
+    for cid in ids:
+        try:
+            review = review_chapter_deterministic(repo_root, book, cid, style)
+        except Exception:
+            continue
+        reviews.append(review)
+    # Buchweite Laengen-Ausreisser gehoeren ins Gate: `length_outlier` laesst
+    # sich nur ueber alle Szenen eines Scopes berechnen, ein ERROR daraus
+    # wuerde sonst ungeprueft exportiert (greift ab 10 Szenen im Scope).
+    apply_length_outliers(
+        reviews,
+        source_lang=str(book.get("source_lang") or "ru"),
+    )
+    errors: list[tuple[str, int | None, str, str]] = []
+    for review in reviews:
+        for item in chapter_findings(review):
+            if item.severity == "ERROR":
+                errors.append((review.chapter, item.scene, item.category, item.message))
+    return errors
+
+
 def main() -> int:
     try:
         sys.stdout.reconfigure(encoding="utf-8")
@@ -2164,11 +2211,31 @@ def main() -> int:
     ap.add_argument("--chapter", default=None, help="Kapitel-ID bei scope=chapter")
     ap.add_argument("--format", choices=EXPORT_FORMATS, default="all")
     ap.add_argument("--allow-partial", action="store_true")
+    ap.add_argument(
+        "--allow-review-errors",
+        action="store_true",
+        help="Export trotz deterministischer Review-ERRORs (nur bewusst, wird im Manifest vermerkt).",
+    )
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
     book = find_book(args.book)
     output_root = book_output_root(REPO_ROOT, book)
+    gate_errors = preflight_review_gate(
+        REPO_ROOT, book, args.style,
+        scope=args.scope, chapter_id=args.chapter,
+    )
+    if gate_errors and not args.allow_review_errors:
+        print("ABBRUCH: deterministische Review-ERRORs vor Export:")
+        for chapter_id, scene_no, category, message in gate_errors[:20]:
+            scene = f"/{scene_no:02d}" if scene_no is not None else ""
+            print(f"  {chapter_id}{scene}: {category} - {message}")
+        if len(gate_errors) > 20:
+            print(f"  ... und {len(gate_errors) - 20} weitere")
+        print("Nutze --allow-review-errors nur bewusst (wird im Manifest vermerkt).")
+        return 2
+    if gate_errors:
+        print(f"HINWEIS: Export trotz {len(gate_errors)} Review-ERROR(s) (--allow-review-errors).")
     meta = load_export_config(book)
     result = collect_export(
         output_root=output_root,
@@ -2296,6 +2363,8 @@ def main() -> int:
         "chapter": args.chapter if args.scope == "chapter" else None,
         "format": args.format,
         "partial": result.partial,
+        "review_gate_errors": len(gate_errors),
+        "review_gate_bypassed": bool(gate_errors and args.allow_review_errors),
         "created_at": datetime.now().isoformat(timespec="seconds"),
         "chapters": [
             {

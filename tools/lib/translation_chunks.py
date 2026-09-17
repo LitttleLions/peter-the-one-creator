@@ -195,14 +195,63 @@ def _strip_tail_overlap(prev: str, current: str) -> str:
     return current[overlap_len:].lstrip()
 
 
+LEADING_BLOCKQUOTE_RE = re.compile(r"\A(?:\s*>\s?[^\n]*\n)+\s*")
+NUMERIC_HEADING_RE = re.compile(r"\A##[ \t]+\d+\.?[ \t]*\n+")
+
+
+def strip_leading_blockquote(text: str) -> str:
+    """Entfernt Blockquotes am Textanfang.
+
+    Sicherheitsnetz fuer gechunkte Szenen: der Auftakt gehoert nur an den
+    Anfang der Szene, nicht an den Anfang jeder Arbeitsportion.
+    """
+    match = LEADING_BLOCKQUOTE_RE.match(text)
+    if not match:
+        return text
+    return text[match.end():].lstrip()
+
+
+def strip_leading_numeric_heading(text: str) -> str:
+    """Entfernt eine fuehrende numerische Ueberschrift ("## 3").
+
+    Das Modell gibt gelegentlich die Quell-Ueberschrift der Szene mit aus.
+    Der Szenenkopf wird vom Renderer gesetzt, die Modell-Zeile ist ein
+    Duplikat und wuerde als `duplicate_heading` blockieren.
+    """
+    match = NUMERIC_HEADING_RE.match(text)
+    if not match:
+        return text
+    return text[match.end():]
+
+
+def strip_duplicate_heading_after_blockquote(text: str) -> str:
+    """Auftakt-Blockquote behalten, die Modell-Ueberschrift danach entfernen.
+
+    Reihenfolge im ersten Chunk: ``> Auftakt`` -> ``## N`` -> Text. Der
+    Auftakt gehoert als Zitat an den Szenenanfang, die numerische
+    Ueberschrift ist ein Duplikat.
+    """
+    match = LEADING_BLOCKQUOTE_RE.match(text)
+    if not match:
+        return strip_leading_numeric_heading(text)
+    head = text[:match.end()]
+    tail = strip_leading_numeric_heading(text[match.end():])
+    return head + tail
+
+
 def render_chunked_translation(parts: list[str]) -> str:
     cleaned: list[str] = []
     for idx, part in enumerate(parts):
         text = part.strip()
         if not text:
             continue
-        if idx > 0 and cleaned:
-            text = _strip_tail_overlap(cleaned[-1], text)
+        if idx == 0:
+            text = strip_duplicate_heading_after_blockquote(text)
+        else:
+            if cleaned:
+                text = _strip_tail_overlap(cleaned[-1], text)
+            text = strip_leading_blockquote(text)
+            text = strip_leading_numeric_heading(text)
         if text:
             cleaned.append(text)
     return "\n\n".join(cleaned).strip()

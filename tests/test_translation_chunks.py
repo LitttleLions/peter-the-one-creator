@@ -15,6 +15,7 @@ from lib.translation_chunks import (  # noqa: E402
     de_chunk_path,
     render_chunked_translation,
     scene_chunks,
+    strip_leading_blockquote,
     split_text_chunks,
 )
 
@@ -124,6 +125,33 @@ class RenderChunkedTranslationTests(unittest.TestCase):
     def test_empty_parts_are_skipped(self) -> None:
         result = render_chunked_translation(["", "Einziger Inhalt.", ""])
         self.assertEqual(result, "Einziger Inhalt.")
+
+    def test_drops_opening_blockquote_from_following_parts(self) -> None:
+        result = render_chunked_translation([
+            "> „Ein Auftakt der Zeit.\"\n\nDer Zar trat an das Fenster.",
+            "> „Ein zweiter erfundener Auftakt.\"\n\nDraussen lag Schnee.",
+            "> „Und noch einer.\"\n\nDie Glocken laeuteten.",
+        ])
+        expected = (
+            "> „Ein Auftakt der Zeit.\"\n\nDer Zar trat an das Fenster.\n\n"
+            "Draussen lag Schnee.\n\n"
+            "Die Glocken laeuteten."
+        )
+        self.assertEqual(result, expected)
+
+    def test_keeps_inner_blockquote_in_following_part(self) -> None:
+        result = render_chunked_translation([
+            "Der Zar trat an das Fenster.",
+            "Der Zar trat an das Fenster. Er las:\n\n> „Ein Brief von der Front.\"\n\nDann schwieg er.",
+        ])
+        expected = (
+            "Der Zar trat an das Fenster.\n\n"
+            "Er las:\n\n> „Ein Brief von der Front.\"\n\nDann schwieg er."
+        )
+        self.assertEqual(result, expected)
+
+    def test_strip_leading_blockquote_leaves_plain_text(self) -> None:
+        self.assertEqual(strip_leading_blockquote("Kein Zitat hier."), "Kein Zitat hier.")
 
 
 if __name__ == "__main__":

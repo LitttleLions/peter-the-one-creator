@@ -1,4 +1,4 @@
-# Handover – Stand 2026-09-14 (Top-5-Pakete auf `main`; Status-/Style-Drift bereinigt, Fallstricke dokumentiert, Mongolen-Befund belegt, V4.1-Flash-Pilot gelaufen, Marketingexport umgesetzt + X-Clip)
+# Handover – Stand 2026-09-17 (Peter-I-Prüfung abgeschlossen: 3 weitere geraffte Szenen neu übersetzt, Raffungs-Erkennung im Regelcheck nachgerüstet, Buch-EPUB neu; Release-Gate; Top-5-Pakete auf `main`; Status-/Style-Drift bereinigt, Fallstricke dokumentiert, Mongolen-Befund belegt, V4.1-Flash-Pilot gelaufen, Marketingexport umgesetzt + X-Clip)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei,
 > bei Bedarf [README.md](../README.md) und [webpage/README.md](../webpage/README.md).
@@ -13,6 +13,7 @@
 | Feature-Branch | `codex/geheime-geschichte-mongolen-prompts` – Inhalt ist in `main` enthalten; Branch kann später gelöscht werden |
 | Arbeitsbaum (13.09.2026) | clean; ausserhalb der Versionierung nur `staging/` (gitignored: lokale Audit-/Reparaturhelfer `audit_*.py`, `repair_status_v2.py`, `run-*.cmd`, `probe_*.py`), `var/` (Laufzeitlogs) und `books/leben-arsenjews/work/cover.png` (Platzhalter). Cover-Stand: `0162ef9` |
 | Neu 2026-09-13 (nicht committet) | Marketingexport: `tools/export_marketing.py`, `tools/lib/marketing_campaign.py`, `tools/lib/marketing_prompts.py`, `config/marketing.yaml`, `docs/marketing-export.md`, `tests/test_marketing_campaign.py`, `tests/test_marketing_prompts.py`, `tests/test_marketing_api.py`; geaendert: `requirements.txt` (+`tzdata`), `tools/lib/workbench_api.py`, `webapp/backend/main.py`, `webapp/frontend/src/{App.tsx,api.ts,types.ts}`, `books/peter-i-buch-01/export.yaml` (+`marketing:`-Block), `AGENTS.md`, `README.md`, `docs/HANDOVER.md` |
+| Neu 2026-09-17 (nicht committet) | Peter-I-Abschluss: 3 weitere geraffte Szenen (`009/scene-08`, `010/scene-01`, `010/scene-02`) mit `--chunk-char-limit 7000` neu uebersetzt, Kapitel 009/010 neu assembliert, Buch-EPUB `...-20260917-113509.epub` (Gate: 0 Fehler, kein Bypass). Regelcheck nachgeruestet: `tools/lib/review_checks.py` (+`paragraph_drop`, +`length_outlier`), `tools/review_manuscript.py` (buchweite Auswertung **vor** dem KI-Review), `tests/test_review_manuscript.py` (23 Tests gruen), `docs/offene-punkte.md`, `AGENTS.md`, `README.md`. Aufgeraeumt: `var/` (86 Dateien) + `var-*.txt` im Root entfernt |
 
 **Warnung (schon passiert):** Checkout auf ein altes `main` ohne die Codex-Commits ließ Buchordner als leere Hüllen zurück. Nicht blind zwischen Branches wechseln, ohne vorher zu prüfen, ob `books/*/book.yaml` noch da sind.
 
@@ -407,7 +408,7 @@ nicht.
 
 
 
-### Fixes zu diesen Befunden (alle umgesetzt 2026-09-13)
+### Fixes zu diesen Befunden (Fallstricke 1-5, alle umgesetzt 2026-09-13)
 
 1. Status-Reparatur: dateibasiert und verlustfrei gesetzt – 390 Kapitel `done`, 62 `needs_review`; Metadaten aus der Git-Historie restauriert
 2. `style_mode`: `book.yaml` von peter-i, feuriger-engel und anna auf `stil-02-poetisch`; `status.json.style_mode` in 5 Paketen angeglichen
@@ -415,6 +416,31 @@ nicht.
 4. Peter-I-Artefakte nach `work/legacy/style-artefakte-20260913/` verschoben (65 Dateien, README dort)
 5. Reasoning-Steuerung fuer `deepseek/deepseek-v4.1-flash`: Client-Feld + `build_chat_payload()`, CLI `--reasoning-effort`, `book.yaml: ai.reasoning_effort: none`, 4 Regressionstests (Fallstrick 4)
 6. Technische Kopfzeilen der Quelle (`# Kapitel …`, `*Buch: …*`, `<!-- … -->`) aus der Uebersetzung ausgeschlossen (Fallstrick 5)
+
+### 6. Der Wort-Ratio-Korridor liess Raffung durch (Peter, entdeckt 2026-09-17)
+
+`length_ratio` ist bewusst ein Ausreisser-Melder (ERROR `< 0.55`/`> 2.60`,
+WARNING `< 0.75`/`> 2.10`) - und damit **kein Vollstaendigkeitsnachweis**.
+Bei Peter der Erste lagen drei geraffte Szenen bei 0.76-0.91, der Buch-Median
+bei 1.30: alle durchgerutscht, obwohl der Absatzschwund (-50 bis -73 Absaetze)
+so gross war wie bei den drei bereits behobenen Szenen. Ein "0 Fehler, 0
+Warnungen" aus dem alten Korridor war also kein Beweis fuer Vollstaendigkeit.
+
+**Erkennen (read-only, ohne LLM):** Szenen-Wortratio und Absatzbestand ueber
+alle Szenen rechnen; Median, Minimum und die unteren Ausreisser ansehen.
+Segmentvergleich ueber 10 Textbloecke trennt Raffung (gleichmaessig duenn)
+von einem abgebrochenen Lauf (leeres Ende).
+
+**Behoben 2026-09-17:** zwei neue Kategorien (`paragraph_drop`,
+`length_outlier`, Details in `AGENTS.md` -> Release-Gate), buchweite
+Auswertung in `review_manuscript.py` **vor** dem KI-Review (damit
+`--llm-scope flagged` die Szenen mitprueft), 7 neue Tests (23 gesamt), und
+die drei Szenen selbst neu uebersetzt.
+
+**Lehre fuer neue Buecher:** Nach jedem Buchlauf beide neuen Kategorien lesen,
+Chunking-Limit bewusst setzen (globaler Default 24000 Zeichen, Peter wurde
+mit 7000 nachgezogen), und `names.yaml` vorher fuellen - sonst laeuft
+`accented_transliteration` leer.
 
 ## Tools (Auswahl, neu / relevant)
 
@@ -427,26 +453,64 @@ nicht.
 | `tools/import_die_dritte_chronik.py` | Chronik-Import |
 | `tools/optimize_asset_images.py` | Export-JPGs verkleinern |
 | `tools/generate_illustration.py` | Higgsfield Kapitel/Szenen |
+| `tools/review_manuscript.py` | Deterministischer Regelcheck + Release-Gate (`--llm none --fail-on-errors`); seit 2026-09-17 inkl. `paragraph_drop` + buchweitem `length_outlier`. Im Dashboard = Action `review` (Scope "Ganzes Buch" fuer den Median-Check) |
 | `tools/export_marketing.py` | Marketingpaket (Beitraege, YouTube-Materialien, `campaign.json`); siehe [marketing-export.md](marketing-export.md) |
 
 Higgsfield: [docs/higgsfield-integration.md](higgsfield-integration.md). Web-UI-Moodboards sind CLI-seitig nicht wählbar.
 
 ## Sinnvolle nächste Schritte
 
-0. Marketingexport im Dashboard live pruefen (Export-Seite → Karte
+0. **Peter der Erste (`peter-i-buch-01`) – vorgezogen 2026-09-16, abgeschlossen 2026-09-17.** Anlass: zwei
+   1-Stern-Kindle-Rezensionen („schlecht uebersetzt", „sinnentstellend";
+   Konkurrenz-These moeglich, Verkaeufe ungeprueft). Entscheidung: Volluebersetzung.
+   Phase A (deterministisch, ohne LLM): Vollscan `--llm none` ueber 18 Kapitel
+   (Ausgangsstand ERROR=7/WARNING=6, der alte Report von 2026-06-15 war veraltet),
+   danach 18 Fixes per `apply_review_suggestions.py --plan/--stage/--promote`
+   (5 gemischte Kyrillisch-Tokens, 7 Akzent-Transliterationen, 4 doppelte
+   Szenenheader, erfundene russische Lede in 018/01, `names.yaml` um 9 Eintraege
+   erweitert).
+   Phase B (mit Freigabe): die 3 gerafften Szenen (011/03 ratio 0.49 = ERROR,
+   002/11 0.69, 003/05 0.60) mit Chunking + `--overwrite` neu uebersetzt.
+   **Nachtrag 2026-09-17:** Der Vollscan **aller 175 Szenen** (Wortratio +
+   Absatzvergleich + Segmentprofil) fand drei weitere geraffte Szenen, die der
+   Wort-Korridor nie gemeldet hatte: `009/scene-08` (0.91, Absaetze 109:182),
+   `010/scene-01` (0.84, 107:169), `010/scene-02` (0.76, 102:152) - alle in
+   Buch II, also derselbe damalige Lauf. Ebenfalls neu uebersetzt
+   (`--chunk-char-limit 7000`, 5/6/6 Chunks, `Finish-Reason=stop`); Endstand:
+   1.35 / 1.31 / 1.29 mit Absaetzen 183:182 / 170:169 / 153:152.
+   Endstand Buch: **175 Szenen, Ratio-Median 1.30, Minimum 0.97**
+   (`003/scene-04`, inhaltlich unauffaellig: Absatzdefizit -7).
+   Regelcheck danach: **18 Kapitel, 0 ERROR / 0 WARNING / 0 INFO**
+   (mit aktiven neuen Kategorien), Export `book-peter-der-erste-stil-02-poetisch-20260917-113509.epub`
+   mit `review_gate_errors: 0` und `review_gate_bypassed: false`.
+   Offen (bewusst, keine Code-Aufgabe): EPUB-Groesse/ Bilder, Kindle Previewer,
+   und eine menschliche Stichprobe der drei neu uebersetzten Szenen (der
+   Regelcheck beweist Form, nicht Sinn).
+   **Nutzerentscheidung 2026-09-17:** Stilfragen werden zurueckgestellt - es
+   geht nur um belegbare Fehler und die Nachweisbarkeit der Regelchecks, nicht
+   um ein Stilurteil.
+   Details + Fehlerklassen: `docs/offene-punkte.md` (Punkt 0 und 0.1).
+1. **Release-Gate (umgesetzt 2026-09-16).** `export_manuscript.py::preflight_review_gate`
+   bricht bei Review-ERROR>0 mit Exit 2 ab; Bypass nur `--allow-review-errors`
+   (wird im Manifest protokolliert). Neue Kategorien in `review_checks.py`:
+   `mojibake`, `accented_transliteration`, `duplicate_heading`; Ausnahmen fuer
+   echte Originalzitate via `work/review-allowlist.yaml`. Ein Export mit ERROR>0
+   hat 2026-09 den live veroeffentlichten Peter-I-Band erreicht – das ist jetzt
+   technisch verhindert. Doku: `AGENTS.md` (Abschnitt `Release-Gate`).
+2. Marketingexport im Dashboard live pruefen (Export-Seite → Karte
    Marketingpaket), danach `git add`/commit der neuen Dateien (die Aenderung ist
    noch nicht committet). Offen dafuer: Amazon-URLs in den `export.yaml`-Dateien,
    optional Songdaten, optional `marketing.campaign_start`. Ein echter
    OpenRouter-Textlauf ist kostenpflichtig und braucht ausdrueckliche Freigabe.
 
-1. Top-5-Pakete: Pilot `kuprin-moloch` 001 ist gelaufen (2026-09-13, `needs_review`, 6682 Tokens, EPUB-Kette geprueft) – naechster Schritt ist das Stilurteil anhand dieser Szene; danach je Buch `translate_batch.py --missing --style stil-01-original --auto-status --assemble-after` (batch-seitig kein `--model`/`--reasoning-effort` noetig, beides kommt aus `book.yaml`; ohne `--auto-status` bleibt `status.json` auf `pending` → Status-Drift)
-2. Regal-Freigabe nach der finalen Cover-Wahl (`website.enabled: true`, `sort_order` 41–43; `kuprin-duell` behält 40), danach `python tools/build_shelf_website.py` – die Handcover sind seit `0162ef9` im Repo, die Regal-Kopien fuer aelita/mongolen aber noch alt. Cover entstehen weiter von Hand (kein CLI-Weg: `generate_illustration.py` kennt nur `--kind scene|chapter`)
-3. Anna Karenina: 73 offene Kapitel (167–239) in `stil-02-poetisch` – Default-Style ist jetzt korrekt gesetzt
-4. Geheime Geschichte: 14 Monolith-Kapitel abschnittsweise in `stil-04-original-geheim` (000, 001–005, 007–013 = 284 Szenen) plus Szene 07 in 014; Kapitel 006 ist dateiseitig fertig und wartet nur auf Review
-5. Dritte Chronik: fehlende Kapitelbilder (30/48 vorhanden); Leser-EPUB prüfen
-6. Regal: Amazon-URLs setzen; optional Mint-Hardcover-GLBs; Deploy von `webpage/dist/`
-7. Optional: Feature-Branch `codex/geheime-geschichte-mongolen-prompts` remote löschen, wenn alle Clients auf `main` sind
-8. Anna-Cover: geprueft und erledigt – `export.yaml` setzt `cover.mode: image` mit `image_path: assets/covers/annakarenina.png` (Vorrang vor `find_named_image(..., "cover")`); nur bei geleertem Feld droht der Platzhalter
+3. Top-5-Pakete: Pilot `kuprin-moloch` 001 ist gelaufen (2026-09-13, `needs_review`, 6682 Tokens, EPUB-Kette geprueft) – naechster Schritt ist das Stilurteil anhand dieser Szene; danach je Buch `translate_batch.py --missing --style stil-01-original --auto-status --assemble-after` (batch-seitig kein `--model`/`--reasoning-effort` noetig, beides kommt aus `book.yaml`; ohne `--auto-status` bleibt `status.json` auf `pending` → Status-Drift)
+4. Regal-Freigabe nach der finalen Cover-Wahl (`website.enabled: true`, `sort_order` 41–43; `kuprin-duell` behält 40), danach `python tools/build_shelf_website.py` – die Handcover sind seit `0162ef9` im Repo, die Regal-Kopien fuer aelita/mongolen aber noch alt. Cover entstehen weiter von Hand (kein CLI-Weg: `generate_illustration.py` kennt nur `--kind scene|chapter`)
+5. Anna Karenina: 73 offene Kapitel (167–239) in `stil-02-poetisch` – Default-Style ist jetzt korrekt gesetzt
+6. Geheime Geschichte: 14 Monolith-Kapitel abschnittsweise in `stil-04-original-geheim` (000, 001–005, 007–013 = 284 Szenen) plus Szene 07 in 014; Kapitel 006 ist dateiseitig fertig und wartet nur auf Review
+7. Dritte Chronik: fehlende Kapitelbilder (30/48 vorhanden); Leser-EPUB prüfen
+8. Regal: Amazon-URLs setzen; optional Mint-Hardcover-GLBs; Deploy von `webpage/dist/`
+9. Optional: Feature-Branch `codex/geheime-geschichte-mongolen-prompts` remote löschen, wenn alle Clients auf `main` sind
+10. Anna-Cover: geprueft und erledigt – `export.yaml` setzt `cover.mode: image` mit `image_path: assets/covers/annakarenina.png` (Vorrang vor `find_named_image(..., "cover")`); nur bei geleertem Feld droht der Platzhalter
 
 Covers und Übersetzungsläufe (OpenRouter-Kosten) nur nach ausdrücklicher Freigabe starten.
 

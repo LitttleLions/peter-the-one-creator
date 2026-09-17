@@ -190,6 +190,61 @@ erzeugt fehlende Quell-Arbeitseinheiten bei Bedarf und ruft danach
 nur mit `--assemble-after` oder separat ueber `assemble_chapter.py`;
 DOCX/EPUB/PDF entstehen erst ueber `export_manuscript.py`.
 
+## Release-Gate
+
+Kein Export ohne bestandenen deterministischen Regelcheck. Ein Export mit
+offenen Review-ERRORs hat 2026-09 bereits einen live veroeffentlichten Band
+(Kindle) erreicht; das ist jetzt technisch verhindert.
+
+```text
+Translation -> Deterministic QA -> ERROR>0 ? STOP
+            -> Length/Completeness -> Ausreisser ? manuell/LLM
+            -> Glossar/Name-Validierung -> EPUB -> Kindle Preview -> Release
+```
+
+```bash
+# Regelcheck ohne KI (kostenlos), Exit 2 bei ERROR>0
+python tools/review_manuscript.py --book peter-i-buch-01 --style stil-02-poetisch --all --llm none --fail-on-errors
+
+# Export bricht bei ERROR>0 ab (Exit 2); Bypass nur bewusst
+python tools/export_manuscript.py --book peter-i-buch-01 --scope book --style stil-02-poetisch --format epub
+python tools/export_manuscript.py --book peter-i-buch-01 --scope book --style stil-02-poetisch --format epub --allow-review-errors
+```
+
+- Gate-Code: `tools/export_manuscript.py::preflight_review_gate` laeuft vor
+  `collect_export` ueber die Scope-Kapitel. `--allow-review-errors` ist der
+  einzige Bypass und wird im Export-Manifest als `review_gate_errors` +
+  `review_gate_bypassed` protokolliert.
+- Release-blockierende Kategorien in `tools/lib/review_checks.py`:
+  `missing_de_scene`, `cyrillic_in_translation` (inkl. gemischter Tokens wie
+  `Pitschuга`), `encoding_garbage`, `mojibake` (`Ã`, `Ð`, `Ñ`, `U+FFFD`),
+  `accented_transliteration` (`Golowín` statt Glossarform `Golowin`),
+  `length_ratio` bei starker Raffung, `paragraph_drop` bei Raffung im
+  Ratio-Blindfleck.
+- **Raffung erkennen (nachgeruestet 2026-09-17).** Der feste `length_ratio`-
+  Korridor (ERROR `< 0.55` / `> 2.60`, WARNING `< 0.75` / `> 2.10`) ist nur ein
+  Extremfall-Melder: bei Peter der Erste hatte er drei geraffte Szenen mit
+  Ratio 0.76-0.91 durchgelassen (Buch-Median 1.30). Deshalb zwei zusaetzliche
+  Signale:
+  - `paragraph_drop` (pro Szene): DE-Absaetze gegen Quell-Absaetze, WARNING
+    `< 0.85`, ERROR `< 0.55`, erst ab 20 Quellabsaetzen **und** nur wenn die
+    Wortzahl unter `0.95` x der Quelle liegt. Das reine Verschmelzen kurzer
+    Dialogabsaetze loest bewusst keinen Befund aus.
+  - `length_outlier` (buchweit, nach dem Sammeln aller Kapitel): Median der
+    Szenen-Ratios, WARNING `< 0.72` x Median, ERROR `< 0.55` x Median. Greift
+    erst ab 10 Szenen - **im Dashboard also Scope "Ganzes Buch" waehlen**,
+    sonst laeuft nur `paragraph_drop`.
+  - Beide melden WARNING, solange der Fall nicht extrem ist; nur ERROR
+    blockiert den Export.
+- Ausnahmen nur fuer echte Originalzitate: `books/<id>/work/review-allowlist.yaml`
+  mit `original_quotes: [{chapter, scene, text}]`; exakt hinterlegte Zitate
+  werden vor dem Zeichen-Check entfernt. Ohne Datei bleibt Kyrillisch in
+  DE-Szenen ein ERROR.
+- Reparatur ohne neuen LLM-Lauf:
+  `python tools/apply_review_suggestions.py --book <id> --style <style> --plan | --stage | --promote`.
+  `--promote` prueft Hash + Regelcheck erneut, legt `*.bak-<stamp>` daneben und
+  setzt betroffene Kapitel neu zusammen.
+
 ## Style-Profile
 
 Jedes Buchpaket hat eigene Profile in `books/<book-id>/styles/*.md`.
@@ -326,9 +381,10 @@ Marketingpaket unter `books/<id>/exports/marketing/` (`campaign.json`,
 ## Aktueller Stand
 
 Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**
-(Stand 2026-09-13). Branch: `main` (= `origin/main`); inhaltlicher Stand `af6873c`,
+(Stand 2026-09-17). Branch: `main` (= `origin/main`); inhaltlicher Stand `af6873c`,
 danach folgen Fixes und Doku-Nachzuege (Mongolen-Belegpruefung, Handcover,
-V4.1-Flash-Pilot `kuprin-moloch` 001).
+V4.1-Flash-Pilot `kuprin-moloch` 001, Peter-I-Abschluss mit Raffungs-Erkennung
+im Regelcheck 2026-09-17).
 
 - Buchpakete sind fuehrend; alte zentrale `config/books.yaml` und
   `config/export.yaml` liegen unter `config/legacy/`.
@@ -365,11 +421,16 @@ V4.1-Flash-Pilot `kuprin-moloch` 001).
   (Review-Marker, EPUB-Kette geprueft); offen sind 110 Kapitel. Der
   `website:`-Block wurde von `book:` auf top-level korrigiert. Auswahlvorlage:
   `docs/Motivatier-Classics-Umsetzungsrangliste-45.md`.
-- **Noch offen (Prioritaet):** siehe `docs/HANDOVER.md` – Mongolen: 14
-  Monolith-Kapitel abschnittsweise in `stil-04-original-geheim`; Chronik-Bilder;
-  Top-5: 110 offene Kapitel (Pilot `kuprin-moloch` 001 ist fertig) und das
-  Stilurteil dazu; Regal Amazon-URLs / Deploy; optional Mint-GLBs.
-  Uebersetzungslaeufe weiterhin nur nach ausdruecklicher Freigabe.
+- **Noch offen (Prioritaet):** siehe `docs/offene-punkte.md` (verbindliche
+  Checkliste mit Befehlen) und `docs/HANDOVER.md` – Peter der Erste:
+  deterministische Fixes und alle 6 gerafften Szenen gelaufen
+  (011/03, 002/11, 003/05, 009/08, 010/01, 010/02), Buch-EPUB neu mit Gate
+  0 Fehler; offen nur noch Kindle Previewer und eine menschliche Stichprobe
+  der drei zuletzt neu uebersetzten Szenen; Mongolen: 14 Monolith-Kapitel abschnittsweise in
+  `stil-04-original-geheim`; Chronik-Bilder; Top-5: 110 offene Kapitel (Pilot
+  `kuprin-moloch` 001 ist fertig) und das Stilurteil dazu; Regal Amazon-URLs /
+  Deploy; optional Mint-GLBs. Uebersetzungslaeufe weiterhin nur nach
+  ausdruecklicher Freigabe.
 - **Marketingexport** (umgesetzt 2026-09-13, X-Clip 2026-09-14): `tools/export_marketing.py`,
   `tools/lib/marketing_campaign.py`, `tools/lib/marketing_prompts.py`,
   `tools/render_x_clip.py`, `tools/lib/x_clip.py`, `config/marketing.yaml`, Dashboard-Karte **Marketingpaket** (+ **X-Clip**-Sektion) auf der

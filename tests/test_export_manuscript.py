@@ -707,6 +707,120 @@ class ExportManuscriptTests(unittest.TestCase):
         self.assertIn("[2]{.scene-marker .centered}", text)
         self.assertNotIn("* * *", text)
 
+    def test_preflight_gate_blocks_cyrillic_scene(self) -> None:
+        import tempfile
+
+        from lib import workbench_state as _ws
+
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            book = {
+                "id": "sample",
+                "title": "Sample",
+                "work_dir": "books/sample/work",
+                "source_lang": "ru",
+            }
+            ru_dir = root / "books" / "sample" / "work" / "scenes" / "ru" / "001"
+            de_dir = root / "books" / "sample" / "work" / "scenes" / "de" / "stil-x" / "001"
+            ru_dir.mkdir(parents=True)
+            de_dir.mkdir(parents=True)
+            (ru_dir / "scene-01.md").write_text("## 1\n\n" + ("Text. " * 80), encoding="utf-8")
+            (de_dir / "scene-01.md").write_text(
+                "## Szene 1\n\nDeutsch mit \u041c\u043e\u0441\u043a\u0432\u0430 Rest. " * 10,
+                encoding="utf-8",
+            )
+            orig = _ws.chapter_ids
+            _ws.chapter_ids = lambda book_arg, root_arg: ["001"]
+            try:
+                errors = export.preflight_review_gate(root, book, "stil-x", "chapter", "001")
+            finally:
+                _ws.chapter_ids = orig
+
+        self.assertTrue(errors)
+        self.assertEqual(errors[0][0], "001")
+        self.assertEqual(errors[0][2], "cyrillic_in_translation")
+
+    def test_preflight_gate_blocks_length_outlier(self) -> None:
+        import tempfile
+
+        from lib import workbench_state as _ws
+
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            book = {
+                "id": "sample",
+                "title": "Sample",
+                "work_dir": "books/sample/work",
+                "source_lang": "ru",
+            }
+            ru_dir = root / "books" / "sample" / "work" / "scenes" / "ru" / "001"
+            de_dir = root / "books" / "sample" / "work" / "scenes" / "de" / "stil-x" / "001"
+            ru_dir.mkdir(parents=True)
+            de_dir.mkdir(parents=True)
+            for scene in range(1, 12):
+                ru_body = " ".join(
+                    f"Russischer Quellsatz Variante {idx} hier." for idx in range(60)
+                )
+                ru_dir.joinpath(f"scene-{scene:02d}.md").write_text(
+                    f"## {scene}\n\n{ru_body}",
+                    encoding="utf-8",
+                )
+                repeats = 29 if scene == 11 else 56
+                de_body = " ".join(
+                    f"Deutscher Satz Nummer {idx} mit Abwechslung hier."
+                    for idx in range(repeats)
+                )
+                de_dir.joinpath(f"scene-{scene:02d}.md").write_text(
+                    f"## Szene {scene}\n\n{de_body}",
+                    encoding="utf-8",
+                )
+            orig = _ws.chapter_ids
+            _ws.chapter_ids = lambda book_arg, root_arg: ["001"]
+            try:
+                errors = export.preflight_review_gate(root, book, "stil-x", "book", "001")
+            finally:
+                _ws.chapter_ids = orig
+
+        self.assertTrue(errors)
+        self.assertEqual(errors[0][0], "001")
+        self.assertEqual(errors[0][1], 11)
+        self.assertEqual(errors[0][2], "length_outlier")
+
+    def test_preflight_gate_passes_clean_scene(self) -> None:
+        import tempfile
+
+        from lib import workbench_state as _ws
+
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            book = {
+                "id": "sample",
+                "title": "Sample",
+                "work_dir": "books/sample/work",
+                "source_lang": "ru",
+            }
+            ru_dir = root / "books" / "sample" / "work" / "scenes" / "ru" / "001"
+            de_dir = root / "books" / "sample" / "work" / "scenes" / "de" / "stil-x" / "001"
+            ru_dir.mkdir(parents=True)
+            de_dir.mkdir(parents=True)
+            (ru_dir / "scene-01.md").write_text(
+                "## 1\n\n" + " ".join(f"Russischer Quellsatz Nummer {idx} zum Testen." for idx in range(80)),
+                encoding="utf-8",
+            )
+            (de_dir / "scene-01.md").write_text(
+                "## Szene 1\n\n"
+                + " ".join(f"Deutscher Satz Nummer {idx} mit Abwechslung." for idx in range(80)),
+                encoding="utf-8",
+            )
+            orig = _ws.chapter_ids
+            _ws.chapter_ids = lambda book_arg, root_arg: ["001"]
+            try:
+                errors = export.preflight_review_gate(root, book, "stil-x", "chapter", "001")
+            finally:
+                _ws.chapter_ids = orig
+
+        self.assertEqual(errors, [])
+
 
 if __name__ == "__main__":
     unittest.main()

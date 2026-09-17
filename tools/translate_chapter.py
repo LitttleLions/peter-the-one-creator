@@ -133,12 +133,20 @@ def build_messages_for_scene(style_prompts, mode, book_cfg,
 
 
 def build_chunk_frontmatter(frontmatter: str, chunk) -> str:
-    note = (
+    base = (
         f"Interne Arbeitsportion {chunk.part}/{chunk.total} derselben Szene. "
         "Uebersetze nur diesen Abschnitt fortlaufend ins Deutsche. "
         "Keine neue Szenenueberschrift erzeugen."
     )
-    return f"{frontmatter.rstrip()}\n\n{note}".strip() if frontmatter else note
+    if chunk.part > 1:
+        base = (
+            f"{base} Dies ist eine FORTSETZUNG, kein Szenenanfang: "
+            "kein Auftaktabsatz, kein Zitat und keine Blockquote am Anfang, "
+            "keine Einleitung und kein Resuemee. "
+            "Der Auftakt steht bereits am Beginn der Szene und darf hier "
+            "nicht wiederholt werden."
+        )
+    return f"{frontmatter.rstrip()}\n\n{base}".strip() if frontmatter else base
 
 
 def translate_scene(client, messages, temperature, max_tokens, num_ctx=32768):

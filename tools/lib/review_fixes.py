@@ -17,7 +17,11 @@ from pathlib import Path
 from typing import Any
 
 from lib.output_paths import book_output_root
-from lib.review_checks import count_words, deterministic_scene_findings
+from lib.review_checks import (
+    count_words,
+    deterministic_scene_findings,
+    duplicate_heading_lines,
+)
 
 
 FIX_VERSION = 1
@@ -57,6 +61,30 @@ HOMOGLYPH_MAP = {
     "н": "n",
 }
 
+# Mojibake: UTF-8 wurde als Latin-1/CP1252 gelesen. Laengste Sequenzen
+# zuerst, damit z. B. "Ã¼" nicht als "Ã" + "¼" zerlegt wird.
+MOJIBAKE_MAP = {
+    "Ã¼": "ü",
+    "Ãœ": "Ü",
+    "Ã¶": "ö",
+    "Ã–": "Ö",
+    "Ã¤": "ä",
+    "Ã„": "Ä",
+    "ÃŸ": "ß",
+    "Ã©": "é",
+    "Ã¨": "è",
+    "Ãª": "ê",
+    "Ã ": "à",
+    "Ã¡": "á",
+    "â€ž": "„",
+    "â€œ": "“",
+    "â€œ": "”",
+    "â€“": "–",
+    "â€”": "—",
+    "â€¦": "…",
+    "Â": "",
+}
+
 
 @dataclass
 class Replacement:
@@ -64,6 +92,9 @@ class Replacement:
     suggested_text: str
     source: str
     confidence: float = 0.75
+    # Deterministische Normalisierungen (Namensglossar, Homoglyphen) sind auch
+    # bei mehreren Vorkommen eindeutig und werden vollstaendig ersetzt.
+    replace_all: bool = False
 
 
 @dataclass
@@ -233,16 +264,58 @@ def extract_quoted_replacement(finding: dict[str, Any]) -> Replacement | None:
     return Replacement(current, suggested, source="quoted-recommendation", confidence=0.70)
 
 
+# Sonder-Transliteration: "Pitschuга" ist RU Пичуга -> "Pitschuga",
+# nicht Homoglyph "г->r". Direkt-Replacement vor generischer Homoglyph-Map.
+MIXED_TOKEN_DIRECT_FIXES = {
+    "Pitschuга": "Pitschuga",
+    "pitschuга": "pitschuga",
+    "PITSCHUГА": "PITSCHUGA",
+}
+
+# RU-Buchstaben ohne lateinisches Homoglyph, aber mit fester Transliteration
+# in gemischten Tokens: г->g, д->d, Д->D, ж->sh. Sonst wuerde z. B.
+# "Pitschuга" per Homoglyph zu "Pitschura" statt "Pitschuga".
+# Weiche/haerte Zeichen entfallen in der deutschen Transliteration
+# ("Dьjak" -> "Djak").
+MIXED_TOKEN_TRANSLITERATION = {
+    "г": "g",
+    "Г": "G",
+    "д": "d",
+    "Д": "D",
+    "ж": "sh",
+    "Ж": "Sh",
+    "я": "ja",
+    "Я": "Ja",
+    "ь": "",
+    "Ь": "",
+    "ъ": "",
+    "Ъ": "",
+}
+
+# Doppelte Szenenueberschrift: render_scene_single() schreibt "## Szene N",
+# das Modell liefert zusaetzlich "## N" aus der Quelle mit.
+DUPLICATE_HEADING_RE = re.compile(
+    r"(?m)^(##\s+Szene\s+\d+\s*)\n+^(##\s+\d+\.?\s*)\n+",
+    re.IGNORECASE,
+)
+
+
 def extract_mixed_cyrillic_replacements(text: str) -> list[Replacement]:
     replacements: list[Replacement] = []
     seen: set[tuple[str, str]] = set()
+    for current, suggested in MIXED_TOKEN_DIRECT_FIXES.items():
+        if current in text and (current, suggested) not in seen:
+            seen.add((current, suggested))
+            replacements.append(Replacement(current, suggested, source="mixed-cyrillic", confidence=0.95))
     for match in MIXED_TOKEN_RE.finditer(text):
         token = match.group(0)
         has_cyrillic = bool(CYRILLIC_RE.search(token))
         has_latin = any(("A" <= ch <= "Z") or ("a" <= ch <= "z") or ("\u00C0" <= ch <= "\u024F") for ch in token)
         if not has_cyrillic or not has_latin:
             continue
-        converted = "".join(HOMOGLYPH_MAP.get(ch, ch) for ch in token)
+        converted = "".join(
+            HOMOGLYPH_MAP.get(ch, MIXED_TOKEN_TRANSLITERATION.get(ch, ch)) for ch in token
+        )
         if CYRILLIC_RE.search(converted) or converted == token:
             continue
         key = (token, converted)
@@ -253,15 +326,69 @@ def extract_mixed_cyrillic_replacements(text: str) -> list[Replacement]:
     return replacements
 
 
+def extract_duplicate_heading_replacements(text: str) -> list[Replacement]:
+    """Entfernt die zusaetzliche numerische Ueberschrift ("## N").
+
+    Die Zeile steht je nach Stilprofil direkt neben ``## Szene N`` oder erst
+    nach dem Auftakt-Blockquote. ``duplicate_heading_lines`` findet beide
+    Varianten; entfernt wird die Zeile samt angrenzender Leerzeile.
+    """
+    lines = text.splitlines(keepends=True)
+    replacements: list[Replacement] = []
+    for idx in duplicate_heading_lines(text):
+        end = idx + 1
+        if end < len(lines) and not lines[end].strip():
+            end += 1
+        current = "".join(lines[idx:end])
+        if not current.strip():
+            continue
+        replacements.append(Replacement(
+            current,
+            "",
+            source="duplicate-heading",
+            confidence=0.95,
+        ))
+    return replacements
+
+
+def extract_mojibake_replacements(text: str) -> list[Replacement]:
+    replacements: list[Replacement] = []
+    seen: set[tuple[str, str]] = set()
+    for current in sorted(MOJIBAKE_MAP, key=len, reverse=True):
+        if current not in text:
+            continue
+        suggested = MOJIBAKE_MAP[current]
+        key = (current, suggested)
+        if key in seen:
+            continue
+        seen.add(key)
+        source = "mojibake-remove" if not suggested else "mojibake"
+        replacements.append(Replacement(current, suggested, source=source, confidence=0.90))
+    return replacements
+
+
+# Kategorie fuer Betonungsakzente in Transliterationen. Der Befund liefert
+# current_text/suggested_text direkt aus dem Buchglossar (names.yaml), also ist
+# die Ersetzung eindeutig und wird bei jedem Vorkommen angewendet.
+ACCENT_CATEGORY = "accented_transliteration"
+
+
 def replacements_for_finding(finding: dict[str, Any], current_text: str) -> list[Replacement]:
     structured = extract_structured_replacement(finding)
     if structured:
+        if str(finding.get("category") or "") == ACCENT_CATEGORY:
+            structured.replace_all = True
         return [structured]
     quoted = extract_quoted_replacement(finding)
     if quoted:
         return [quoted]
-    if str(finding.get("category") or "") == "cyrillic_in_translation":
+    category = str(finding.get("category") or "")
+    if category == "cyrillic_in_translation":
         return extract_mixed_cyrillic_replacements(current_text)
+    if category == "mojibake":
+        return extract_mojibake_replacements(current_text)
+    if category == "duplicate_heading":
+        return extract_duplicate_heading_replacements(current_text)
     return []
 
 
@@ -274,6 +401,7 @@ def apply_replacements(
     out = text
     applied: list[AppliedFix] = []
     manual: list[ManualFinding] = []
+    handled: set[tuple[str, str]] = set()
     for finding in findings:
         category = str(finding.get("category") or "review")
         message = str(finding.get("message") or finding.get("summary") or "")
@@ -290,8 +418,15 @@ def apply_replacements(
             ))
             continue
         for repl in replacements:
+            key = (repl.current_text, repl.suggested_text)
+            # Zwei Befunde koennen denselben Namen meinen (kyrillischer Rest und
+            # Akzentartefakt in derselben Szene). Nach dem ersten Treffer ist
+            # die zweite Ersetzung erfuellt, kein manueller Fall.
+            if key in handled:
+                continue
             count = out.count(repl.current_text)
             if count == 0:
+                handled.add(key)
                 manual.append(ManualFinding(
                     chapter=chapter,
                     scene=scene,
@@ -301,7 +436,7 @@ def apply_replacements(
                     recommendation=recommendation,
                 ))
                 continue
-            if count > 1:
+            if count > 1 and not repl.replace_all:
                 manual.append(ManualFinding(
                     chapter=chapter,
                     scene=scene,
@@ -311,7 +446,8 @@ def apply_replacements(
                     recommendation=recommendation,
                 ))
                 continue
-            out = out.replace(repl.current_text, repl.suggested_text, 1)
+            handled.add(key)
+            out = out.replace(repl.current_text, repl.suggested_text)
             applied.append(AppliedFix(
                 chapter=chapter,
                 scene=scene,

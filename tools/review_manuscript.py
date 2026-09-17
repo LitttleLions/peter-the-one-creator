@@ -21,6 +21,7 @@ from lib.ollama_client import OllamaClient
 from lib.openrouter_client import OpenRouterClient, OpenRouterError
 from lib.review_checks import (
     add_llm_findings,
+    apply_length_outliers,
     review_chapter_deterministic,
     write_reports,
 )
@@ -172,7 +173,22 @@ def main() -> int:
             f"  Regelcheck-Befunde: {deterministic_count}",
             flush=True,
         )
-        if chat is not None:
+        reviews.append(review)
+
+    # Buchweite Laengen-Ausreisser VOR dem KI-Review: mit --llm-scope flagged
+    # sollen auch die so gefundenen Szenen als auffaellig gelten.
+    outliers = apply_length_outliers(
+        reviews,
+        source_lang=str(book.get("source_lang") or "ru"),
+    )
+    if outliers:
+        print(
+            f"Buchweite Laengen-Ausreisser (length_outlier): {outliers} Szene(n)",
+            flush=True,
+        )
+
+    if chat is not None:
+        for review in reviews:
             add_llm_findings(
                 REPO_ROOT,
                 book,
@@ -185,7 +201,6 @@ def main() -> int:
                     flush=True,
                 ),
             )
-        reviews.append(review)
 
     summary = write_reports(
         REPO_ROOT,

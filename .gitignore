@@ -69,6 +69,7 @@ htmlcov/
 /.dashboard-batch-job.json
 /var/
 *.bak
+*.bak-*
 *.tmp
 *.orig
 

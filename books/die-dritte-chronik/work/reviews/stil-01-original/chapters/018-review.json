@@ -1,0 +1,94 @@
+{
+  "chapter": "018",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "018",
+      "scene": 1,
+      "ru_path": "books\\die-dritte-chronik\\work\\scenes\\de\\018\\scene-01.md",
+      "de_path": "books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\018\\scene-01.md",
+      "ru_words": 2395,
+      "de_words": 2395,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Stapelung (12x: weil 3x, dass 3x, ohne 2x) in 69 Woertern ohne Satzende.",
+          "chapter": "018",
+          "scene": 1,
+          "evidence": "*Sie sieht mich am genauesten weil ich ihr gehöre weil sie mich gemacht hat weil sie mich jeden Abend daran erinnert dass ich ohne sie nichts bin dass ich ohne sie tot wäre dass mein Leben ihr gehört mein Atem ihr gehört jedes Wort das ich schreibe jeder Gedanke den ich denke jeder Mensch den ich liebe ihr gehört falls ich je wagen sollte jemanden zu lieben außer ihr",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Stapelung (13x: wenn 3x, bevor 3x, immer 3x) in 96 Woertern ohne Satzende.",
+          "chapter": "018",
+          "scene": 1,
+          "evidence": "An dich schreiben konnte über einen Jungen den ich liebe während du Staub bist während deine Knochen irgendwo im Massengrab von Chorasan liegen während niemand mehr deinen Namen kennt außer mir während selbst ich langsam vergesse wie deine Stimme klang damals damals in den Gassen von Maschhad wenn wir Datteln aßen vom alten Händler wenn wir Koranverse hörten vom Imam wenn wir Kinder waren bevor alles brannte bevor alles endete bevor du gingst und mich zurückließest allein mit diesem Herzen das i",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Anapher 'ich liebe' 4x hintereinander (Absaetze 40-43).",
+          "chapter": "018",
+          "scene": 1,
+          "evidence": "*Ich liebe ihn. * / *Ich liebe einen Jungen der acht Jahre jünger ist als mein Unglück einer der nichts weiß von Maschhad nichts von unserer / *Ich liebe ihn nicht wegen seines Gesichts – obwohl sein Gesicht schön ist auf eine Art wie alte Schrift schön ist wenn  / *Ich liebe ihn wegen seiner Pausen. *",
+          "recommendation": "Anapher pruefen: Stilmittel oder variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Anapher 'sag mir' 6x hintereinander (Absaetze 75-80).",
+          "chapter": "018",
+          "scene": 1,
+          "evidence": "*Sag mir Schwester* / *Sag mir wie man etwas Lebendiges liebt ohne es zu gefährden* / *Sag mir wie man etwas Lebendiges atmen lässt ohne es zu ersticken zwischen zwei Händen die nur gelernt haben loszulasse / *Sag mir wie man etwas Lebendiges beschützt ohne es in denselben Käfig zu sperren aus dem man selbst gerade erst gelernt / *Sag mir wie du es geschafft hast damals damals in Maschhad damals bevor alles brannte damals als wir noch Schwestern wa / *Sag mir wie du geliebt hast ohne Angst* *Ohn",
+          "recommendation": "Anapher pruefen: Stilmittel oder variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (9x: weil 2x, wie 2x, oder 2x) in 69 Woertern ohne Satzende.",
+          "chapter": "018",
+          "scene": 1,
+          "evidence": "mein Schweigen ist einfach weil ich nichts sagen will weil ich nur hören will wie seine Stimme klingt wenn er über Hafiz spricht oder darüber wie sich persische Versmaße ins Mongolische übersetzen lassen (schlecht sagt er sehr schlecht) oder darüber ob Guillaume Boucher wirklich glaubt dass sein silberner Baum jemals Wein Milch Honig und vergorene Stutenmilch gleichzeitig ausschenken wird (nein sagt er ironisch aber er wird trotzdem dafür bezahlt)",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

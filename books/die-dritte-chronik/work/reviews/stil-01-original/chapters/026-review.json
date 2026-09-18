@@ -1,0 +1,64 @@
+{
+  "chapter": "026",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "026",
+      "scene": 1,
+      "ru_path": "books\\die-dritte-chronik\\work\\scenes\\de\\026\\scene-01.md",
+      "de_path": "books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\026\\scene-01.md",
+      "ru_words": 1693,
+      "de_words": 1693,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Stapelung (13x: wie 3x, weil 2x, immer 2x) in 122 Woertern ohne Satzende.",
+          "chapter": "026",
+          "scene": 1,
+          "evidence": "Etwas das man segnen kann statt verdammen statt verfluchen statt bewahren als Zeugen eines Verbrechens dessen Namen niemand ausspricht seit fünf Jahren weil Aussprechen bedeutet einzugestehen dass man weiß was besser ungewusst bliebe wenn man weiterleben will unter denen welche Antworten geben müssen weil Antwort immer einen Schuldigen fordert und Schuldige immer gefunden werden früher oder später so sicher wie dieser Winter endet so sicher wie dieser Sommer kommt so sicher wie Güyük mich beerbe",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (9x: ohne 1x, weil 1x, oder 1x) in 76 Woertern ohne Satzende.",
+          "chapter": "026",
+          "scene": 1,
+          "evidence": "Fatima setzte sich auf einen Schemel neben dem Bett ohne gefragt worden zu sein weil Höflichkeit hier keinen Sinn mehr ergab unter denen die bald sterben würden oder bald verlassen sein würden allein zurückgelassen mit nichts außer Erinnerungen an Dinge die besser vergessen wären wenn Vergessen möglich wäre unter Menschen denen man beigebracht hatte sich zu erinnern generationenlang bis jede Narbe zum Familienwappen wurde jeder Schmerz zur Legende jedes Geheimnis zur Münze geprägt für spätere Ge",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (8x: alles 2x, wie 2x, als 1x) in 125 Woertern ohne Satzende.",
+          "chapter": "026",
+          "scene": 1,
+          "evidence": "Ihre Finger stoppten mitten im Polieren ruhten still auf dem Gold des Bechers dessen Glanz jetzt heller geworden war unter ihrer Arbeit heller fast gleißend im Schein der Lampe heller als alles andere in diesem dunklen Raum voller Schatten halb geleerter Kelche getrockneter Früchte einsamer Tage gezählt von einer Frau deren Macht geschmolzen war wie Schnee unter einer Frühlingssonne deren Rückkehr niemand mehr erwartete hier draußen am Rand des Reiches am Rand des Lebens am Rand dessen was übrig",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

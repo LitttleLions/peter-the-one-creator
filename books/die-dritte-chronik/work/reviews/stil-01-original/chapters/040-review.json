@@ -1,0 +1,64 @@
+{
+  "chapter": "040",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "040",
+      "scene": 1,
+      "ru_path": "books\\die-dritte-chronik\\work\\scenes\\de\\040\\scene-01.md",
+      "de_path": "books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\040\\scene-01.md",
+      "ru_words": 5321,
+      "de_words": 5321,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (10x: als 5x, nichts 3x, dass 1x) in 53 Woertern ohne Satzende.",
+          "chapter": "040",
+          "scene": 1,
+          "evidence": "Er hatte es gewusst, als er die Nachricht erhielt, als er sie las, als er sie verbrannte, als er die Asche in den Wind warf und wusste, dass nichts übrig blieb, nichts außer ihm, der die Asche verbrannt hatte, der nichts übrig gelassen hatte, der weitergeschrieben hatte, als hätte es sie nie gegeben",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (10x: weil 5x, nie 2x, wie 2x) in 59 Woertern ohne Satzende.",
+          "chapter": "040",
+          "scene": 1,
+          "evidence": "Das Bündel, das Fatima geschrieben hatte, das Bündel, das er nie gesehen hatte, das Bündel, von dem er nur wusste, weil er in ihren Briefen gelesen hatte, weil er ihre Stimme gehört hatte, weil er ihre Handschrift kannte, weil er ihre Worte kannte, weil er sie kannte, wie er niemanden gekannt hatte, wie er nie wieder jemanden kennen würde",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Kapitel-TTR 0.18 bei 5306 Woertern.",
+          "chapter": "040",
+          "scene": 1,
+          "evidence": "TTR=0.18, Woerter=5306",
+          "recommendation": "Wortschatzarmut pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

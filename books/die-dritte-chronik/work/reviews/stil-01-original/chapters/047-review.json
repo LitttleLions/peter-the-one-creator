@@ -1,0 +1,109 @@
+{
+  "chapter": "047",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "047",
+      "scene": 1,
+      "ru_path": "books\\die-dritte-chronik\\work\\scenes\\de\\047\\scene-01.md",
+      "de_path": "books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\047\\scene-01.md",
+      "ru_words": 1953,
+      "de_words": 1953,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Wort-Echo 'richtung' 13x in 30 Woertern (3x verteilt).",
+          "chapter": "047",
+          "scene": 1,
+          "evidence": "'richtung' 13x / 30 Woerter",
+          "recommendation": "Wort-Echo pruefen: variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Wort-Echo 'läng' 10x in 30 Woertern (3x verteilt).",
+          "chapter": "047",
+          "scene": 1,
+          "evidence": "'läng' 10x / 30 Woerter",
+          "recommendation": "Wort-Echo pruefen: variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Stapelung (15x: als 13x, alles 1x, nichts 1x) in 43 Woertern ohne Satzende.",
+          "chapter": "047",
+          "scene": 1,
+          "evidence": "Shigi stand lange da länger als nötig länger als vernünftig länger als möglich länger als erträglich länger als menschlich länger als göttlich länger als zeitlich länger als ewig länger als endlos länger als leer länger als voll länger als alles länger als nichts -",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Wort-Echo 'trennt' 7x in 30 Woertern (2x verteilt).",
+          "chapter": "047",
+          "scene": 1,
+          "evidence": "'trennt' 7x / 30 Woerter",
+          "recommendation": "Wort-Echo pruefen: variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (10x: jeder 4x, ohne 3x, wie 1x) in 38 Woertern ohne Satzende.",
+          "chapter": "047",
+          "scene": 1,
+          "evidence": "Nur einen einfachen Mantel aus dunkler Wolle ohne Stickerei ohne Rangabzeichen ohne Siegelkette um den Hals – einen Mantel wie ihn jeder Diener des Hofes trug jeder Schreiber jeder Bote jeder Mann der nichts bedeutete aber alles gesehen hatte",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (8x: als 3x, dass 2x, weil 1x) in 41 Woertern ohne Satzende.",
+          "chapter": "047",
+          "scene": 1,
+          "evidence": "„Dieses Siegel ist mein Geständnis mein einziger Beweis dass ich wusste was ich tat und dass ich trotzdem weitermachte weil weitermachen einfacher ist als aufhören einfacher ist als kämpfen einfacher ist als sterben einfacher ist alles einfacher ist nichts einfacher ist -“",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

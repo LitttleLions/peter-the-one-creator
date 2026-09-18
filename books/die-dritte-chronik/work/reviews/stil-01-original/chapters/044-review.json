@@ -1,0 +1,49 @@
+{
+  "chapter": "044",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "044",
+      "scene": 1,
+      "ru_path": "books\\die-dritte-chronik\\work\\scenes\\de\\044\\scene-01.md",
+      "de_path": "books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\044\\scene-01.md",
+      "ru_words": 1946,
+      "de_words": 1946,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Anapher 'er dachte' 4x hintereinander (Absaetze 79-82).",
+          "chapter": "044",
+          "scene": 1,
+          "evidence": "Er dachte an die Chronik, die in der Steppe lag, bei den Gräbern, bei den Toten, bei den Vorfahren. Er dachte an das Bün / Er dachte an Fatima, die gestorben war, weil sie die Wahrheit kannte. / Er dachte an Juvaini, der überlebt hatte, weil er die Wahrheit schrieb. / Er dachte an sich selbst, der zwischen beiden stand, zwischen Leben und Tod, zwischen Wahrheit und Lüge, zwischen Gesetz",
+          "recommendation": "Anapher pruefen: Stilmittel oder variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Anapher 'er dachte' 4x hintereinander (Absaetze 184-187).",
+          "chapter": "044",
+          "scene": 1,
+          "evidence": "Er dachte an Fatima, die in einem Fluss gestorben war, eingenäht in Filz, ertränkt ohne Namen, ohne Würde, ohne Gerechti / Er dachte an Töregene, die in einem Zelt gestorben war, allein, vergessen, verraten von ihrem eigenen Sohn. / Er dachte an Güyük, der auf einem Marsch gestorben war, plötzlich, unerwartet, vielleicht vergiftet, vielleicht nicht. / Er dachte an Oghul Qaimish, die in einem Fluss gestorben war, eingenäht in Filz, ertränkt ohne Namen, ohne Würde, ohne G",
+          "recommendation": "Anapher pruefen: Stilmittel oder variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

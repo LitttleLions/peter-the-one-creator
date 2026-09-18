@@ -1,4 +1,4 @@
-# Handover – Stand 2026-09-17 (Peter-I-Prüfung abgeschlossen: 3 weitere geraffte Szenen neu übersetzt, Raffungs-Erkennung im Regelcheck nachgerüstet, Buch-EPUB neu; Release-Gate; Top-5-Pakete auf `main`; Status-/Style-Drift bereinigt, Fallstricke dokumentiert, Mongolen-Befund belegt, V4.1-Flash-Pilot gelaufen, Marketingexport umgesetzt + X-Clip; Aelita Release-Kandidat: Kapitel-030-Anhang, Bildoptimierung, EPUB nutzergeprueft)
+# Handover – Stand 2026-09-18 (Arsenjews auf Amazon, wartet auf Freigabe; Chronik Gate 0/0, EPUB 20260918-172522, Repetition-Detektor 41W/48I; Aelita LIVE; Anna PARKIERT)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei,
 > bei Bedarf [README.md](../README.md) und [webpage/README.md](../webpage/README.md).
@@ -25,14 +25,14 @@ Buchzentrierte Übersetzungs-/Export-Werkbank (`books/<id>/`). Dashboard = FastA
 
 ## Buchpakete (12 mit `book.yaml`)
 
-| ID | Titel | Default-Style | Website `sort_order` | Cover unter `assets/covers/` |
-|----|-------|---------------|----------------------|------------------------------|
-| `peter-i-buch-01` | Peter der Erste | stil-02-poetisch | 10 | `cover.jpg` |
-| `aelita` | Aëlita | stil-03-branderson | 10 | `cover.png` (neu 09/2026) + `coverII.jpg` |
-| `leben-arsenjews` | Das Leben Arsenjews | stil-02-poetisch | 20 | `cover.jpg` / `.png` |
-| `anna-karenina` | Anna Karenina | stil-02-poetisch | 20 | `annakarenina.png` (per `image_path`) + Regal-Kopie |
-| `pharao` | Der Pharao | stil-02-poetisch | 30 | `cover.jpg` |
-| `feuriger-engel` | Der feurige Engel | stil-02-poetisch | 50 | `cover.jpg` / `.png` |
+| ID | Titel | Default-Style | Website `sort_order` | Cover unter `assets/covers/` | Stand 09/2026 |
+|----|-------|---------------|----------------------|------------------------------|---|
+| `peter-i-buch-01` | Peter der Erste | stil-02-poetisch | 10 | `cover.jpg` | **LIVE** |
+| `aelita` | Aëlita | stil-03-branderson | 10 | `cover.png` + `cover.jpg`-Sidecar + `coverII.jpg` | **LIVE 09/2026** (Amazon-Link + Marketing nach Amazon-Freigabe) |
+| `leben-arsenjews` | Das Leben Arsenjews | stil-02-poetisch | 20 | `cover.jpg` / `.png` | **Release-Kandidat 09/2026** (Gate ERROR=0/WARNING=8, EPUB 20260917-212334 ohne Bypass; Kindle-Preview + Stichprobe offen) |
+| `anna-karenina` | Anna Karenina | stil-02-poetisch | 20 | `annakarenina.png` (per `image_path`) + Regal-Kopie | **PARKIERT** (Nutzerentscheidung 09/2026) |
+| `pharao` | Der Pharao | stil-02-poetisch | 30 | `cover.jpg` | **LIVE** |
+| `feuriger-engel` | Der feurige Engel | stil-02-poetisch | 50 | `cover.jpg` / `.png` | **LIVE** |
 | `die-dritte-chronik` | Die dritte Chronik | stil-01-original | 60 | `cover.jpg` / `.png` |
 | `geheime-geschichte-mongolen` | Die Geheime Geschichte der Mongolen | stil-01-original | 70 | `cover.png` (neu 09/2026) + `coverII.png` |
 | `kuprin-duell` | Das Duell | stil-01-original | 40 (nicht freigegeben) | `cover.png` |
@@ -446,6 +446,7 @@ mit 7000 nachgezogen), und `names.yaml` vorher fuellen - sonst laeuft
 
 | Tool | Zweck |
 |------|--------|
+| `tools/lib/repetition.py` | Stil-Wiederholungsdetektor (Anapher/Trigramm/Echo/Stapelung/TTR/Leerformel), Kategorie `repetition_style`, nur INFO/WARNING; Tests `tests/test_repetition.py` + Fixtures `tests/repetition_fixtures.py` |
 | `tools/build_shelf_website.py` | Katalog + Cover für `webpage/` |
 | `tools/build_webpage_dist.py` | Production-Build `webpage/dist/` (Windows: `npm.cmd`) |
 | `tools/preview_webpage.py` | Lokale Vorschau Port 4173 |
@@ -507,7 +508,11 @@ Higgsfield: [docs/higgsfield-integration.md](higgsfield-integration.md). Web-UI-
 4. Regal-Freigabe nach der finalen Cover-Wahl (`website.enabled: true`, `sort_order` 41–43; `kuprin-duell` behält 40), danach `python tools/build_shelf_website.py` – die Handcover sind seit `0162ef9` im Repo, die Regal-Kopien fuer aelita/mongolen aber noch alt. Cover entstehen weiter von Hand (kein CLI-Weg: `generate_illustration.py` kennt nur `--kind scene|chapter`)
 5. Anna Karenina: 73 offene Kapitel (167–239) in `stil-02-poetisch` – Default-Style ist jetzt korrekt gesetzt
 6. Geheime Geschichte: 14 Monolith-Kapitel abschnittsweise in `stil-04-original-geheim` (000, 001–005, 007–013 = 284 Szenen) plus Szene 07 in 014; Kapitel 006 ist dateiseitig fertig und wartet nur auf Review
-7. Dritte Chronik: fehlende Kapitelbilder (30/48 vorhanden); Leser-EPUB prüfen
+7. Dritte Chronik (2026-09-18): Gate 0/0, EPUB `...-20260918-172522.epub`
+   ohne Bypass; Repetition-Detektor (`tools/lib/repetition.py`, Kategorie
+   `repetition_style`, nur INFO/WARNING, nie ERROR) liefert 41W/48I —
+   Redaktion b/c steht aus; fehlende Kapitelbilder (30/48 vorhanden),
+   Leser-EPUB prüfen
 8. Regal: Amazon-URLs setzen; optional Mint-Hardcover-GLBs; Deploy von `webpage/dist/`
 9. Optional: Feature-Branch `codex/geheime-geschichte-mongolen-prompts` remote löschen, wenn alle Clients auf `main` sind
 10. Anna-Cover: geprueft und erledigt – `export.yaml` setzt `cover.mode: image` mit `image_path: assets/covers/annakarenina.png` (Vorrang vor `find_named_image(..., "cover")`); nur bei geleertem Feld droht der Platzhalter

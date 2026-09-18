@@ -1,0 +1,79 @@
+{
+  "chapter": "041",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "041",
+      "scene": 1,
+      "ru_path": "books\\die-dritte-chronik\\work\\scenes\\de\\041\\scene-01.md",
+      "de_path": "books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\041\\scene-01.md",
+      "ru_words": 4865,
+      "de_words": 4865,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Stapelung (13x: dass 4x, weil 3x, bis 2x) in 171 Woertern ohne Satzende.",
+          "chapter": "041",
+          "scene": 1,
+          "evidence": "Shigi wusste es, Shigi wusste es besser als jeder andere, weil er der Mann war, der das Gesetz gehütet hatte, der der Mann war, der die Akten geführt hatte, der der Mann war, der die Wahrheit hatte bewahren sollen und stattdessen die Lüge hatte bewahrt, ein Leben lang, bis heute, bis zu diesem Moment, in dem er zum ersten Mal verstand, dass es keine Wahrheit gab, dass es nur Siege gab, dass es nur das gab, was die Mächtigen entschieden, was die Sieger behaupteten, was die neue Generation glauben",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (9x: weil 4x, bevor 3x, dass 1x) in 51 Woertern ohne Satzende.",
+          "chapter": "041",
+          "scene": 1,
+          "evidence": "Er wusste, dass er Khan werden würde, nicht weil die Fürsten es wollten, sondern weil er es wollte, weil er es beschlossen hatte, weil die Entscheidung bereits gefallen war, bevor das Kuriltai begonnen hatte, bevor die Zelte aufgeschlagen worden waren, bevor die Fürsten ihre Pferde bestiegen hatten, um hierher zu reiten",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (10x: dass 4x, ohne 3x, nie 1x) in 102 Woertern ohne Satzende.",
+          "chapter": "041",
+          "scene": 1,
+          "evidence": "Er sah den jungen Mann und erkannte sich selbst, sah das, was er einst gewesen war, sah das, was er nie wieder sein würde, sah das, was er verloren hatte, an dem Tag, an dem er zum ersten Mal verstanden hatte, dass das Recht nur eine Erzählung war, dass die Wahrheit nur eine Behauptung war, dass alles, was er ein Leben lang geglaubt hatte, nur Sand war, nur Asche, nur Staub, aufgewirbelt von den Hufen der Pferde, die in die Zukunft ritten, ohne sich umzudrehen, ohne zurückzublicken, ohne zu wiss",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Kapitel-TTR 0.20 bei 4865 Woertern.",
+          "chapter": "041",
+          "scene": 1,
+          "evidence": "TTR=0.20, Woerter=4865",
+          "recommendation": "Wortschatzarmut pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chapter": "013",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "013",
+      "scene": 1,
+      "ru_path": "books\\die-dritte-chronik\\work\\scenes\\de\\013\\scene-01.md",
+      "de_path": "books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\013\\scene-01.md",
+      "ru_words": 2214,
+      "de_words": 2214,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Anapher 'er las' 4x hintereinander (Absaetze 73-76).",
+          "chapter": "013",
+          "scene": 1,
+          "evidence": "Er las die Chronik noch einmal. Von Anfang bis Ende. Jede Seite, jedes Wort, jede Randnotiz. / Er las die Geschichte von Temüjins Flucht, von Bekhters Tod, von Dsotschis Geburt, von Ögedeis Ernennung, von Shiremüns  / Er las die Widersprüche, die Lügen, die Wahrheiten, die niemand hören wollte. / Er las den Satz am Rand der Seite, den Satz, der alles verändern konnte.",
+          "recommendation": "Anapher pruefen: Stilmittel oder variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

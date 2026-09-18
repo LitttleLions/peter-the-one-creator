@@ -1,0 +1,64 @@
+{
+  "chapter": "035",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "035",
+      "scene": 1,
+      "ru_path": "books\\die-dritte-chronik\\work\\scenes\\de\\035\\scene-01.md",
+      "de_path": "books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\035\\scene-01.md",
+      "ru_words": 2121,
+      "de_words": 2121,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Stapelung (18x: weil 6x, dass 4x, oder 2x) in 127 Woertern ohne Satzende.",
+          "chapter": "035",
+          "scene": 1,
+          "evidence": "Er schloss das Notizbuch langsam sorgfältig wie ein Mann der etwas begräbt das nie wieder ans Licht kommen sollte – legte es neben sich auf den Boden zwischen Kieselsteinen ausgerissenen Grashalmen Ascheresten eines Feuers das langsam verglomm während ringsum Männer lachten aßen tranken weitermachten weil sie nicht wussten was er wusste weil sie nicht verstehen konnten dass eine Frau gestorben war heute oder gestern oder vorgestern dass man sie in Filz genäht hatte dass man sie in den Fluss gewo",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (11x: als 5x, ohne 3x, alles 1x) in 85 Woertern ohne Satzende.",
+          "chapter": "035",
+          "scene": 1,
+          "evidence": "Verse über Liebe über Abschied über das Licht auf ihrem Gesicht an jenem letzten Abend im Durchgang zwischen zwei Gebäuden als sie ‚dich‘ sagte statt ‚Euch‘ als sie ihm drei Worte gab als sie ging als er blieb als alles begann was jetzt endete endgültig unwiderruflich ohne Wiederkehr ohne Gnade ohne Ende außer diesem einen Ende das er nicht schreiben konnte weil es keine Form dafür gab kein Versmaß keinen Reim kein Bild keine Metapher nichts außer drei Sätzen eines Händlers im Wasser einer Furt",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (9x: als 4x, nichts 2x, nie 2x) in 44 Woertern ohne Satzende.",
+          "chapter": "035",
+          "scene": 1,
+          "evidence": "Weil Arbeit bedeutete weiterzumachen als wäre nichts geschehen als wäre Fatima nie gewesen als hätte es diese Liebe nie gegeben als könnte man einfach weiterschreiben weitermachen weiterleben während andere starben während andere vergingen während andere zu Asche wurden zu Wasser wurden zu Nichts wurden",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "chapter": "030",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "030",
+      "scene": 1,
+      "ru_path": "books\\die-dritte-chronik\\work\\scenes\\de\\030\\scene-01.md",
+      "de_path": "books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\030\\scene-01.md",
+      "ru_words": 2613,
+      "de_words": 2613,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Anapher 'er dachte' 20x hintereinander (Absaetze 87-106).",
+          "chapter": "030",
+          "scene": 1,
+          "evidence": "Er dachte an Fatima. / Er dachte an die Frau, die gekommen war, um zu geben, was sie nicht mehr schützen konnte. Er dachte an die Frau, die er  / Er dachte an das Bündel, das er nicht geöffnet hatte. / Er dachte an die Worte, die er nicht gelesen hatte. / Er dachte an die Wahrheit, die er nicht gesucht hatte. / Er dachte an das Urteil, das er ohne Beweis gefällt hatte. / Er dachte an das Siegel, das er gesetzt hatte. / Er dachte an das Gesetz, das er gebrochen hatte. / Er dachte an die Gerechtig",
+          "recommendation": "Anapher stark gehaeuft: kuerzen oder variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Anapher 'der morgen' 10x hintereinander (Absaetze 124-133).",
+          "chapter": "030",
+          "scene": 1,
+          "evidence": "Der Morgen würde kommen. / Der Morgen würde kommen, und Fatima würde sterben. / Der Morgen würde kommen, und das Siegel würde gesetzt. / Der Morgen würde kommen, und das Urteil würde gesprochen. / Der Morgen würde kommen, und der Richter würde richten. / Der Morgen würde kommen, und der Richter würde verurteilen. / Der Morgen würde kommen, und der Richter würde töten. / Der Morgen würde kommen, und der Richter würde überleben. / Der Morgen würde kommen, und der Richter würde weitermachen, wie er",
+          "recommendation": "Anapher stark gehaeuft: kuerzen oder variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Anapher 'er wusste' 5x hintereinander (Absaetze 111-115).",
+          "chapter": "030",
+          "scene": 1,
+          "evidence": "Er wusste, dass er das Urteil gesprochen hatte, ohne Beweis, ohne Prüfung, ohne Registrierung. / Er wusste, dass er das Urteil gesprochen hatte, und er wusste, dass er es nicht zurücknehmen konnte. / Er wusste, dass er das Urteil gesprochen hatte, und er wusste, dass es das einzige Urteil war, das er je gesprochen hatt / Er wusste, dass er das Urteil gesprochen hatte, und er wusste, dass es das Urteil war, das ihn trug, das ihn hielt, das  / Er wusste, dass er das Urteil gesprochen hatte, und er",
+          "recommendation": "Anapher pruefen: Stilmittel oder variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Wort-Echo 'siegel' 6x in 30 Woertern (2x verteilt).",
+          "chapter": "030",
+          "scene": 1,
+          "evidence": "'siegel' 6x / 30 Woerter",
+          "recommendation": "Wort-Echo pruefen: variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Kapitel-TTR 0.19 bei 2606 Woertern.",
+          "chapter": "030",
+          "scene": 1,
+          "evidence": "TTR=0.19, Woerter=2606",
+          "recommendation": "Wortschatzarmut pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

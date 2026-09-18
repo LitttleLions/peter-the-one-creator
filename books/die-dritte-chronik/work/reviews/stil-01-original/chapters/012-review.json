@@ -1,0 +1,109 @@
+{
+  "chapter": "012",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "012",
+      "scene": 1,
+      "ru_path": "books\\die-dritte-chronik\\work\\scenes\\de\\012\\scene-01.md",
+      "de_path": "books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\012\\scene-01.md",
+      "ru_words": 2773,
+      "de_words": 2773,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Wort-Echo 'dieselb' 9x in 30 Woertern (2x verteilt).",
+          "chapter": "012",
+          "scene": 1,
+          "evidence": "'dieselb' 9x / 30 Woerter",
+          "recommendation": "Wort-Echo pruefen: variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Stapelung (14x: weil 4x, wie 2x, wenn 2x) in 166 Woertern ohne Satzende.",
+          "chapter": "012",
+          "scene": 1,
+          "evidence": "Der Junge hob den Kopf vom dritten Pult links wo seine Feder mitten im Satz erstarrt war wie ein erschrockenes Tier unter dem Licht einer Fackel im Wald bei Nacht wenn plötzlich Schritte knirschen auf trockenem Laub während ringsum die Stille wächst – aber hier gab es keinen Wald keine Nacht nur eine Frau deren Name an diesem Hof mehr bedeutete als jeder Titel den Männer trugen weil sie schrieb was andere nur dachten oder fürchteten oder nie erfahren sollten weil Wissen Macht war und Macht vergä",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Stapelung (13x: bis 3x, wenn 3x, immer 2x) in 128 Woertern ohne Satzende.",
+          "chapter": "012",
+          "scene": 1,
+          "evidence": "Sie hielt inne legte die Feder nieder drehte sich um sah ihn an saß da seine Feder noch immer in der Hand über seinem Blatt schwebend bereit zum nächsten Wort bereit zum nächsten Satz bereit weiterzuschreiben was immer sie ihm diktieren würde solange bis seine Hand ermüdete bis sein Geist nachgab bis sein Körper zusammenbrach unter dem Gewicht ihrer Worte ihrer Befehle ihrer Kontrolle über jede Silbe jedes Zeichen jedes Atemzug zwischen zwei Sätzen zwischen zwei Leben zwischen zwei Welten getren",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Stapelung (14x: als 3x, bevor 2x, dass 2x) in 141 Woertern ohne Satzende.",
+          "chapter": "012",
+          "scene": 1,
+          "evidence": "Bis zu einer Stelle etwa zwei Drittel des Briefes wo seine Stimme kurz zögerte kaum merklich kaum hörbar kaum sichtbar für jemanden der nicht wusste wonach er suchen musste wonach sie suchte wonach jede Frau suchen musste die zwanzig Jahre überlebt hatte indem sie Menschen maß bevor Menschen nutzten indem sie Fehler fand bevor Fehler töteten indem sie las zwischen Zeilen zwischen Worten zwischen Lügen verpackt als Höflichkeit verpackt als Dienstbereitschaft verpackt als Loyalität gegenüber einer",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Wort-Echo 'gebaut' 7x in 30 Woertern (2x verteilt).",
+          "chapter": "012",
+          "scene": 1,
+          "evidence": "'gebaut' 7x / 30 Woerter",
+          "recommendation": "Wort-Echo pruefen: variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Wort-Echo 'zurück' 6x in 30 Woertern (2x verteilt).",
+          "chapter": "012",
+          "scene": 1,
+          "evidence": "'zurück' 6x / 30 Woerter",
+          "recommendation": "Wort-Echo pruefen: variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

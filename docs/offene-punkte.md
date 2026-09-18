@@ -1,6 +1,6 @@
 # Offene Punkte / Arbeitsplan
 
-Stand: 2026-09-16. Quelle: `AGENTS.md`, `README.md`, `docs/HANDOVER.md` (2026-09-14).
+Stand: 2026-09-18. Quelle: `AGENTS.md`, `README.md`, `docs/HANDOVER.md`.
 
 Pflege: Bei Erledigung Status + Datum in der jeweiligen Sektion aktualisieren.
 Dieses Dokument ist die verbindliche Checkliste, auf die aus der `README.md`
@@ -444,20 +444,35 @@ Echt nur abschnittsweise + Freigabe.
 
 Status: OFFEN.
 
-## 6. Dritte Chronik: 18 Bilder + EPUB-Feinschliff
+## 6. Dritte Chronik: Gate 0/0 + Repetition-Detektor (Stand 2026-09-18)
 
 Was: DE-Original, kein Uebersetzungsprojekt. Cover liegt.
-Offen: 30/48 Kapitelbilder vorhanden, 18 fehlen. Leser-EPUB pruefen.
+2026-09-18: 4 ERROR + 7 WARNING redaktionell behoben (041 `решил`/
+`别的`-CJK/`für warhielt`, 043 `Fдер`, 033/036 + 012/018/026/031/034/035
+`long_sentence` gegliedert; Work-Spiegel + `source/` synchronisiert mit
+`.bak-20260918`); echter Buch-EPUB
+`book-die-dritte-chronik-stil-01-original-20260918-172522.epub`
+(Gate 0/0 ohne Bypass). Danach Stil-Detektor `tools/lib/repetition.py`
+(6 Signale: Anapher/Trigramm/Echo/Stapelung/TTR/Leerformel, Kategorie
+`repetition_style`, nur INFO/WARNING, nie ERROR) in
+`tools/lib/review_checks.py` eingebunden; Review jetzt
+ERROR=0/WARNING=41/INFO=48 (Gate weiter gruen, EXIT 0); Tests
+`tests/test_repetition.py` (6) + `tests/test_review_manuscript.py`
+(23) + Full Suite (248) gruen.
+Offen: 30/48 Kapitelbilder vorhanden, 18 fehlen. Leser-EPUB pruefen
+(Kindle Previewer), danach Redaktion der Repetition-Hinweise (b/c).
 
 Checkliste:
 
 ```bat
-py -3 tools/export_manuscript.py --book die-dritte-chronik --scope book --style stil-01-original --format epub --allow-partial --dry-run
+py -3 -m unittest tests.test_repetition tests.test_review_manuscript
+py -3 tools/review_manuscript.py --book die-dritte-chronik --style stil-01-original --all --llm none --fail-on-errors
+py -3 tools/export_manuscript.py --book die-dritte-chronik --scope book --style stil-01-original --format epub --dry-run
 ```
 
 Bilder: `docs/higgsfield-integration.md` beachten.
 
-Status: OFFEN.
+Status: Gate gruen, Repetition-Hinweise offen (Redaktion b/c).
 
 ## 7. Regal: Amazon-URLs + Deploy
 
@@ -506,10 +521,10 @@ Fixvorschlag (nicht dringend): im Test `list_ollama_models()` monkeypatchen
 oder eine vorhandene Modell-ID senden. Vorher pruefen, ob das Verhalten
 gewuenscht ist (400 bei fehlendem Modell ist im Dashboard beabsichtigt).
 
-## 10. Aelita: Release-Kandidat
+## 10. Aelita: LIVE (5. Release 09/2026)
 
-Was: Viertes Release. Am 2026-09-17 abgeschlossen: Review-Lauf ohne KI ueber
-alle 30 Kapitel (ERROR=0, WARNING=0), Kapitel 005 vom Nutzer freigegeben
+Was: Am 2026-09-17 abgeschlossen, vom Nutzer veroeffentlicht 09/2026:
+Review-Lauf ohne KI ueber alle 30 Kapitel (ERROR=0, WARNING=0), Kapitel 005
 (gewollte fiktionale Einschuebe), Kapitel 030 bereinigt – Romantext endet in
 der DE-Szene, der Kommentarteil der RU-Quelle ist vollstaendig in den Anhang
 „Kommentare“ uebersetzt und als Nachspann konfiguriert (top-level
@@ -536,7 +551,38 @@ py -3 tools\export_manuscript.py --book aelita --scope book --style stil-03-bran
 :: EPUB im Kindle Previewer pruefen; danach Regal/Amazon-URL setzen
 ```
 
-Status: OFFEN nur noch Kindle Previewer (+ Amazon-URL/Regal, siehe Punkt 7).
+Status: LIVE. Rest: Amazon-URL + Marketingpaket nach Amazon-Freigabe (Punkt 7 + Punkt 1), Cover-JPG-Sidecar `assets/covers/cover.jpg` 09/2026 erzeugt.
+
+## 11. Leben Arsenjews: Amazon-Freigabe + Chronik-Gate (Stand 2026-09-18)
+
+Was: 104/104 Szenen in `stil-02-poetisch` vorhanden. Voll-Review
+`--llm none --fail-on-errors` **ERROR=0, WARNING=8** (nur
+`049/051/086/087 long_sentence`, `015/025/032/033 length_outlier`).
+Kindle gelesen/passt, Buch auf Amazon veroeffentlicht, wartet auf
+Freigabe (Stand 2026-09-18, keine Aenderung mehr).
+Anna Karenina ist auf Nutzerentscheidung PARKIERT (73 pending bleiben liegen).
+Dritte Chronik (DE-Original, 48/48 done): Gate 0/0 seit 2026-09-18
+(EPUB `...-20260918-172522.epub` ohne Bypass); Repetition-Detektor
+liefert zusaetzlich 41 WARNING + 48 INFO (Kategorie
+`repetition_style`, nie ERROR) — Redaktion b/c steht aus.
+
+Was: 104/104 Szenen in `stil-02-poetisch` vorhanden (Status 50 done / 54 review, Stand 2026-09-13, nicht nachgezogen). Voll-Review `--llm none --fail-on-errors` **ERROR=0, WARNING=8** (nur `049/051/086/087 long_sentence`, `015/025/032/033 length_outlier`-WARNING, alle nicht blockierend). Geleistet 2026-09-17 ohne OpenRouter-Kosten: 7 geraffte Szenen neu uebersetzt (029 Totalschaden 0.19, 034, 035, 039, 040, 027 Qualitaet, 037 Vorspann ca. 434 Woerter ergaenzt, Ratio 0.59 auf 1.13); Klein-Fixes 024 `Ksjucha`, 033 `stiernackiger`, 053 RU-Strophe entfernt, Allowlist `work/review-allowlist.yaml` (Puschkin 086, Gogol 096), 050 `long_sentence` redaktionell geteilt; Blockquote-Fix in 18 Szenen (002/003/005/007/008/009/013/014/023/028/041/043/065/082/083/084/086/088, je `.bak-quote`, danach je genau 1 Zitatblock); Cover neu (`cover.png` 1024x1536, 2,75 MB zu `cover.jpg` q60 ~185 KB); Buch-EPUB `book-das-leben-arsenjews-stil-02-poetisch-20260917-212334.epub` mit Gate ohne Bypass (`review_gate_errors: 0`, 104/104 Kapitel je 1/1 Szenen, 19 Kapitelbilder). Stand 2026-09-18: Kindle gelesen/passt, auf Amazon veroeffentlicht, wartet auf Freigabe — keine Aenderung mehr.
+Anna Karenina ist auf Nutzerentscheidung PARKIERT (73 pending bleiben liegen).
+Dritte Chronik (DE-Original, 48/48 done): Gate 0/0 seit 2026-09-18
+(EPUB `...-20260918-172522.epub` ohne Bypass); Repetition-Detektor
+liefert zusaetzlich 41 WARNING + 48 INFO (`repetition_style`, nie
+ERROR) — Redaktion b/c steht aus.
+
+Checkliste (Release-Kandidat, naechste Schritte):
+
+```bat
+:: Gate erneut bestaetigen (lesend, keine Kosten)
+py -3 tools/review_manuscript.py --book leben-arsenjews --style stil-02-poetisch --all --llm none --fail-on-errors
+:: EPUB im Kindle Previewer pruefen + menschliche Stichprobe (029/034/037/040)
+:: Danach: Amazon-URL/Regal/Marketing (Punkt 7 + Punkt 1)
+```
+
+Status: Release-Kandidat, Gate gruen. Offen nur Kindle Previewer + Stichprobe.
 
 ## Empfohlene Reihenfolge
 

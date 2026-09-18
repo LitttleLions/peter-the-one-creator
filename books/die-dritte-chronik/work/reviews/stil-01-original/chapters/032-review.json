@@ -1,0 +1,49 @@
+{
+  "chapter": "032",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "032",
+      "scene": 1,
+      "ru_path": "books\\die-dritte-chronik\\work\\scenes\\de\\032\\scene-01.md",
+      "de_path": "books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\032\\scene-01.md",
+      "ru_words": 1698,
+      "de_words": 1698,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (8x: wer 3x, weil 2x, jede 1x) in 78 Woertern ohne Satzende.",
+          "chapter": "032",
+          "scene": 1,
+          "evidence": "„Fatima war fünf Jahre lang Töregenes engste Vertraute … Sie kennt jede Entscheidung jedes Geheimnis jeden Brief … Güyük will nicht ihren Tod – Güyük will ihr Wissen … Er will wissen was wirklich geschah in jener Nacht 1241 als sein Vater starb … Er will wissen wer wusste was wer half wer schwieg … Und sobald sie spricht wird sie sterben weil sie dann nutzlos ist … Und sobald sie schweigt wird sie sterben weil sie dann gefährlich bleibt … Es gibt keinen Weg da raus …“",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (8x: weil 3x, jedes 3x, nie 1x) in 31 Woertern ohne Satzende.",
+          "chapter": "032",
+          "scene": 1,
+          "evidence": "Aber ich werde nie wieder ein Gedicht vollenden können weil jedes Gedicht an dich gerichtet wäre weil jedes Gedicht unvollendet bleiben müsste weil jedes Gedicht dich sucht dich ruft dich vermisst—",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

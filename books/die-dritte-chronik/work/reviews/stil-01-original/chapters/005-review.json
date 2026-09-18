@@ -1,0 +1,34 @@
+{
+  "chapter": "005",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "005",
+      "scene": 1,
+      "ru_path": "books\\die-dritte-chronik\\work\\scenes\\de\\005\\scene-01.md",
+      "de_path": "books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\005\\scene-01.md",
+      "ru_words": 2033,
+      "de_words": 2033,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Anapher 'ich hoffe' 10x hintereinander (Absaetze 64-73).",
+          "chapter": "005",
+          "scene": 1,
+          "evidence": "Ich hoffe es. / Ich hoffe, dass die Toten nicht taub sind. / Ich hoffe, dass die Briefe ankommen. / Ich hoffe, dass du mir verzeihst, dass ich überlebt habe, während du starbst. / Ich hoffe, dass du mir verzeihst, dass ich ihnen diene, während deine Knochen noch in der Erde von Maschhad liegen, unbe / Ich hoffe, dass du mir verzeihst, dass ich lebe. / Ich hoffe, dass du mich liebst, trotz allem. / Ich hoffe, dass du mich liest. / Ich hoffe, dass du mich hörst. / Ich hoffe.",
+          "recommendation": "Anapher stark gehaeuft: kuerzen oder variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

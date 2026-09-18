@@ -174,6 +174,47 @@ def max_words_without_sentence_end(text: str) -> int:
     return longest
 
 
+def repetition_style_findings(
+    chapter_id: str,
+    scene_num: int,
+    de_text: str,
+) -> list[Finding]:
+    """Stil-Wiederholungen (Kategorie repetition_style), INFO/WARNING, nie ERROR.
+
+    Lazy Import aus lib.repetition (kein Zyklus): Detektor liefert Dicts,
+    hier werden sie in Findings gewrappt. Schlaegt der Detektor je fehl,
+    bleibt der harte Gate-Check unberuehrt (leise None statt Crash).
+    """
+    try:
+        from lib.repetition import (
+            CATEGORY as REPETITION_CATEGORY,
+            repetition_scene_findings,
+        )
+    except Exception:
+        return []
+    try:
+        raw = repetition_scene_findings(chapter_id, scene_num, de_text or "")
+    except Exception:
+        return []
+    out: list[Finding] = []
+    for item in raw:
+        severity = str(item.get("severity") or "INFO").upper()
+        if severity == "ERROR":
+            severity = "WARNING"
+        if severity not in ("INFO", "WARNING"):
+            severity = "INFO"
+        out.append(finding(
+            severity,
+            REPETITION_CATEGORY,
+            str(item.get("message") or "Stil-Wiederholung."),
+            chapter_id,
+            scene_num,
+            evidence=str(item.get("evidence") or ""),
+            recommendation=str(item.get("recommendation") or ""),
+        ))
+    return out
+
+
 def paragraph_drop_finding(
     chapter_id: str,
     scene_num: int,
@@ -494,6 +535,7 @@ def deterministic_scene_findings(
             evidence=f"…{evidence}…",
             recommendation="Datei-Encoding pruefen (UTF-8), ggf. neu schreiben.",
         ))
+    findings.extend(repetition_style_findings(chapter_id, scene_num, de_text))
     return findings
 
 

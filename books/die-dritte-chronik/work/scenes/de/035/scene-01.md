@@ -8,11 +8,11 @@ Juvaini hatte die Furt bereits zur Hälfte durchquert, das Wasser reichte den Pf
 
 Juvaini nickte. Das Wasser strömte kalt um seine Stiefel.
 
-„Dann habt Ihr vielleicht gehört. Von der Chorasanerin. Der Schreiberin der alten Regentin.“
+„Dann habt Ihr vielleicht gehört. Von der Chorasanerin. Der Schreiberin der alten Regentin. “
 
 Juvainis Hand fand den Zügel fester.
 
-„Man sagt, sie ist tot“, fuhr der Händler fort. „Hingerichtet. Gestern oder vorgestern – die Zeit läuft anders in Karakorum.“ Er spuckte ins Wasser. „Man sagt, in Filz genäht und in den Fluss geworfen. Man sagt auch, sie haben sie vorher gefoltert, aber das sagen sie immer.“
+„Man sagt, sie ist tot“, fuhr der Händler fort. „Hingerichtet. Gestern oder vorgestern – die Zeit läuft anders in Karakorum. “ Er spuckte ins Wasser. „Man sagt, in Filz genäht und in den Fluss geworfen. Man sagt auch, sie haben sie vorher gefoltert, aber das sagen sie immer. “
 
 Drei Sätze.
 
@@ -66,9 +66,9 @@ Arghun Aqa setzte sich neben ihn ohne zu fragen ob er stören würde – einfach
 
 Juvaini nickte ohne aufzusehen seine Finger strichen noch einmal über den Einband des Notizbuchs einmal zweimal dreimal dann hielt er inne legte beide Hände flach auf seine Knie atmete tief durch hob den Kopf sah Arghun Aqa an:
 
-„Ja.“
+„Ja. “
 
-„Dann weißt du Bescheid“, sagte Arghun Aqa knapp wie immer wenn etwas Wichtiges gesagt werden musste ohne Umschweife ohne Trost ohne falsche Hoffnung einfach Tatsache: „Sie ist tot du lebst wir arbeiten weiter so ist das so war es immer so wird es bleiben solange dieses Reich steht was ziemlich lange dauern wird wenn wir unseren Job machen also mach deinen Job morgen früh reiten wir weiter.“ Er schwieg kurz dann fügte er hinzu leiser fast beiläufig aber Juvaini hörte jedes einzelne Wort deutlich klar unauslöschlich: „Arbeite“ sagte Arghun Aqa „es ist das Einzige was sie dir nicht nehmen können was sie dir nie nehmen werden was bleibt wenn alles andere vergeht wenn alle anderen sterben wenn du selbst stirbst: Die Arbeit deine Arbeit was du tust was du schreibst was du hinterlässt wenn du gehst.“ Er stand auf klopfte Juvaini leicht auf die Schulter einmal kurz fest dann ging er zurück zum Feuer wo ein junger Schreiber ihm einen Becher Tee reichte wo jemand lachte wo jemand eine Geschichte erzählte vom letzten Frühling in Buchara wo alles gut gewesen war bevor es schlecht wurde bevor alles endete bevor nichts mehr blieb außer Arbeit Arbeit Arbeit bis zum Ende deiner Tage:
+„Dann weißt du Bescheid“, sagte Arghun Aqa knapp wie immer wenn etwas Wichtiges gesagt werden musste ohne Umschweife ohne Trost ohne falsche Hoffnung einfach Tatsache: „Sie ist tot du lebst wir arbeiten weiter so ist das so war es immer so wird es bleiben solange dieses Reich steht was ziemlich lange dauern wird wenn wir unseren Job machen also mach deinen Job morgen früh reiten wir weiter. “ Er schwieg kurz dann fügte er hinzu leiser fast beiläufig aber Juvaini hörte jedes einzelne Wort deutlich klar unauslöschlich: „Arbeite“ sagte Arghun Aqa „es ist das Einzige was sie dir nicht nehmen können was sie dir nie nehmen werden was bleibt wenn alles andere vergeht wenn alle anderen sterben wenn du selbst stirbst: Die Arbeit deine Arbeit was du tust was du schreibst was du hinterlässt wenn du gehst. “ Er stand auf klopfte Juvaini leicht auf die Schulter einmal kurz fest dann ging er zurück zum Feuer wo ein junger Schreiber ihm einen Becher Tee reichte wo jemand lachte wo jemand eine Geschichte erzählte vom letzten Frühling in Buchara wo alles gut gewesen war bevor es schlecht wurde bevor alles endete bevor nichts mehr blieb außer Arbeit Arbeit Arbeit bis zum Ende deiner Tage:
 
 Und Juvaini saß allein am ausgehenden Feuer hörte diesen Satz:
 Arbeite.
@@ -148,7 +148,7 @@ Für alle die vergessen werden sollen
 damit dieses Reich bestehen kann:
 Ich werde weiterschreiben.
 Ich werde zeugen.
-Ich werde bleiben.“
+Ich werde bleiben. “
 
 Dann löschte er die Lampe legte sich hin starrte in die Dunkelheit lauschte dem Wind draußen im Gras fern fern fern wie eine Stimme aus einer anderen Welt aus einer anderen Zeit aus einem anderen Leben das jetzt endgültig vorbei war unwiderruflich unwiederbringlich verloren für immer:
 
@@ -175,7 +175,7 @@ Und dann Stille:
 
 Die ganze lange Stille des restlichen Lebens:
 
-Die Karawane zog weiter nach Westen Richtung Persien Richtung Bagdad Richtung Zukunft Richtung Vergessen Richtung allem was kommen würde nach diesem Tod nach dieser Liebe nach diesem Ende aller Enden aller Anfänge aller Geschichten aller Chroniken aller Bücher aller Worte aller Menschen aller Zeiten aller Welten aller Götter aller Dämonen aller Engel aller Bestien all dessen was war all dessen was ist all dessen was sein wird wenn nichts mehr bleibt außer dem einen letzten Satz dem einzigen Satz dem ewigen Satz dem Satz den niemand je lesen wird weil niemand da sein wird um ihn zu lesen niemand da sein wird um ihn zu verstehen niemand da sein wird um ihn zu bewahren wenn alles vorbei ist wenn nichts mehr bleibt außer Wind außer Gras außer Stille außer endloser endloser endloser Stille unter einem grauen Himmel über einer weiten Ebene fern fern fern von allem was jemals wichtig war von allem was jemals zählte von allem was jemals Liebe hieß zwischen zwei Menschen zwischen zwei Herzen zwischen zwei Seelen zwischen zwei Schreibern zwischen zwei Federn zwischen zwei Worten zwischen zwei Welten zwischen zwei Leben jetzt tot jetzt fort jetzt verschwunden unwiederbringlich unwiderruflich verloren verloren verloren für immer amen amen amen so sei es so soll es sein so muss es sein so bleibt es ewiglich amen amen amen amen
+Die Karawane zog weiter nach Westen Richtung Persien Richtung Bagdad Richtung Zukunft Richtung Vergessen Richtung allem was kommen würde nach diesem Tod nach dieser Liebe nach diesem Ende aller Enden aller Anfänge aller Geschichten aller Chroniken aller Bücher aller Worte aller Menschen aller Zeiten aller Welten aller Götter aller Dämonen aller Engel aller Bestien all dessen was war all dessen was ist all dessen was sein wird wenn nichts mehr bleibt außer dem einen letzten Satz dem einzigen Satz dem ewigen Satz dem Satz den niemand je lesen wird weil niemand da sein wird um ihn zu lesen niemand da sein wird um ihn zu verstehen niemand da sein wird um. Ihn zu bewahren wenn alles vorbei ist wenn nichts mehr bleibt außer Wind außer Gras außer Stille außer endloser endloser endloser Stille unter einem grauen Himmel über einer weiten Ebene fern fern fern von allem was jemals wichtig war von allem was jemals zählte von allem was jemals Liebe hieß zwischen zwei Menschen zwischen zwei Herzen zwischen zwei Seelen zwischen zwei Schreibern zwischen zwei Federn zwischen zwei Worten zwischen zwei Welten zwischen zwei Leben jetzt tot jetzt fort jetzt verschwunden unwiederbringlich unwiderruflich verloren verloren verloren für immer amen amen amen so sei es so soll es sein so muss es sein so bleibt es ewiglich amen amen amen amen
 
 Amen
 

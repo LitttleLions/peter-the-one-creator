@@ -1,0 +1,94 @@
+{
+  "chapter": "033",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "033",
+      "scene": 1,
+      "ru_path": "books\\die-dritte-chronik\\work\\scenes\\de\\033\\scene-01.md",
+      "de_path": "books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\033\\scene-01.md",
+      "ru_words": 3631,
+      "de_words": 3631,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Stapelung (24x: nie 7x, weil 5x, als 4x) in 166 Woertern ohne Satzende.",
+          "chapter": "033",
+          "scene": 1,
+          "evidence": "einmal dem Urteil nach, einmal der Ehre nach, weil ein kleiner, unbedeutender Schreiber ihr Todesurteil besiegelt hat, und keiner wird sich je erinnern, dass sie mehr war als eine Angeklagte, über die man schnell hinwegging, als wäre sie nie etwas gewesen, als wäre sie nie Mensch gewesen, als hätte sie nie gelebt, nie geliebt, nie geschrieben und nie den Atem der Geschichte in ihren Lungen gespürt, diesen einen Augenblick lang, dieses eine Mal, das alles zählt, wenn nichts mehr zählt, weil es zu",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Stapelung (18x: wenn 7x, weil 4x, dass 3x) in 164 Woertern ohne Satzende.",
+          "chapter": "033",
+          "scene": 1,
+          "evidence": "Das nicht unseres ist, aber das wir dennoch vergießen, weil wir nicht anders können, weil wir nicht anders dürfen, weil wir nicht anders wollen, obwohl wir wissen, dass wir anders sollten, dass wir anders müssten, dass wir anders könnten, wenn wir nur anders wären, wenn wir nur Mut genug hätten, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von uns verlangt, wenn sie uns ansieht, wenn sie uns erkennt, wenn sie uns durchschaut, in diesem",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Stapelung (20x: weil 4x, immer 3x, bis 3x) in 160 Woertern ohne Satzende.",
+          "chapter": "033",
+          "scene": 1,
+          "evidence": "Er sah den Satz an, las ihn, las ihn noch einmal, las ihn immer wieder, bis die Buchstaben verschwammen, bis die Worte ihre Bedeutung verloren, bis nichts mehr blieb als Tinte auf Papier, eine Zeile, die alles sagte, was er nicht sagen konnte, alles, was er nicht sagen durfte, alles, was er nicht sagen würde, nicht jetzt, nicht später, nie, weil es zu spät war, weil es immer zu spät war, weil es nie rechtzeitig genug ist, um zu verstehen, was man tut, wenn man tut, was man tun muss, um zu überle",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Wort-Echo 'anders' 6x in 30 Woertern (9x verteilt).",
+          "chapter": "033",
+          "scene": 1,
+          "evidence": "'anders' 6x / 30 Woerter",
+          "recommendation": "Wort-Echo pruefen: variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Kapitel-TTR 0.21 bei 3595 Woertern.",
+          "chapter": "033",
+          "scene": 1,
+          "evidence": "TTR=0.21, Woerter=3595",
+          "recommendation": "Wortschatzarmut pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "chapter": "028",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "028",
+      "scene": 1,
+      "ru_path": "books\\die-dritte-chronik\\work\\scenes\\de\\028\\scene-01.md",
+      "de_path": "books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\028\\scene-01.md",
+      "ru_words": 3796,
+      "de_words": 3796,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (9x: dass 5x, nichts 2x, alles 1x) in 47 Woertern ohne Satzende.",
+          "chapter": "028",
+          "scene": 1,
+          "evidence": "*Wir wissen nur, dass wir den Willen des Himmels erfüllen werden, und dass nichts uns aufhalten wird, und dass alles, was du tust, nichts ändern wird, solange du nicht verstehst, dass wir die Herren der Welt sind, und dass du uns gehorchen musst, wenn du überleben willst",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Kapitel-TTR 0.22 bei 3802 Woertern.",
+          "chapter": "028",
+          "scene": 1,
+          "evidence": "TTR=0.22, Woerter=3802",
+          "recommendation": "Wortschatzarmut pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

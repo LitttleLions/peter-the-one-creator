@@ -1,0 +1,64 @@
+{
+  "chapter": "016",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "016",
+      "scene": 1,
+      "ru_path": "books\\die-dritte-chronik\\work\\scenes\\de\\016\\scene-01.md",
+      "de_path": "books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\016\\scene-01.md",
+      "ru_words": 3877,
+      "de_words": 3877,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (10x: dass 6x, wenn 2x, nie 1x) in 74 Woertern ohne Satzende.",
+          "chapter": "016",
+          "scene": 1,
+          "evidence": "Dass du es in dein Federetui legst, neben die Briefe an deine Schwester, und dass du es mitnimmst, wenn du gehst, und dass du es liest, wenn die Nacht lang ist und der Wind heult, und dass du dann weißt, dass du nicht allein bist, dass du nie allein sein wirst, weil ich bei dir bin, in dem Armreif, in dem Kästchen, in dem Silber, und in dem Wort, das ich dir heute gebe",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (8x: dass 6x, wie 1x, wer 1x) in 59 Woertern ohne Satzende.",
+          "chapter": "016",
+          "scene": 1,
+          "evidence": "Angst, dass die Macht mich auffrisst, wie sie die anderen gefressen hat, dass sie mich leer macht, dass ich eines Tages aufwache und nicht mehr weiß, wer ich bin, dass ich nur noch der Schatten bin, den die Regentin wirft, und dass ich vergesse, dass ich auch eine war, die Brot isst und an die denkt, die keins haben",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (9x: dass 4x, wieder 4x, weil 1x) in 28 Woertern ohne Satzende.",
+          "chapter": "016",
+          "scene": 1,
+          "evidence": "Ich habe es getan, weil ich will, dass die Stadt wieder lebt, dass die Gassen wieder voll sind, dass die Datteln wieder wachsen, dass der Imam wieder spricht",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

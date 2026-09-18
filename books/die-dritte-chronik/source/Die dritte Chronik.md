@@ -2187,6 +2187,7 @@ Und das war das Gefährlichste von allem.
 
 ## 12. Die Prüfung
 
+
 Der Frühling kam nach Karakorum wie ein Dieb, leise und unerwartet. Der Schnee schmolz nicht, er verschwand einfach eines Morgens, und zurück blieb Matsch, der nach nasser Wolle und verbranntem Dung roch. Fatima stand am Fenster der Kanzlei und betrachtete die Pfützen auf dem Hof. Das Licht war anders jetzt, heller, gnadenloser. Es zeigte jeden Riss im Holz, jeden Fleck auf den Papieren.
 
 Sie hatte zwanzig Jahre gebraucht, um zu lernen, dass Licht nie freundlich war. Es enthüllte nur, was man verbergen wollte.
@@ -2201,13 +2202,13 @@ Fatima wandte sich vom Fenster ab und ging zu ihrem Pult. Der ältere Sekretär 
 
 „Die Briefe an den Statthalter von Buchara“, sagte sie ohne anzuhalten. „Sind sie fertig?“
 
-„Ja“, sagte Yulbars. „Ich habe sie selbst geschrieben.“ Er betonte das letzte Wort leicht.
+„Ja“, sagte Yulbars. „Ich habe sie selbst geschrieben. “ Er betonte das letzte Wort leicht.
 
 Fatima blieb stehen und drehte sich um. „Selbst?“
 
 „Der neue Schreiber macht noch Fehler“, sagte Yulbars mit einem Blick zu Juvaini hinüber. „Ich dachte, es sei besser…“
 
-„Du dachtest.“ Fatimas Stimme war ruhig, aber sie schnitt durch den Lärm der Kanzlei wie ein Messer durch Seide. „Wenn ich einen Kopisten brauche, sage ich es dir. Wenn ich einen Denker brauche –“ sie ließ den Satz in der Luft hängen.
+„Du dachtest. “ Fatimas Stimme war ruhig, aber sie schnitt durch den Lärm der Kanzlei wie ein Messer durch Seide. „Wenn ich einen Kopisten brauche, sage ich es dir. Wenn ich einen Denker brauche –“ sie ließ den Satz in der Luft hängen.
 
 Yulbars senkte den Blick.
 
@@ -2239,19 +2240,19 @@ Seine Feder kratzte gleichmäßig hinter ihr fast synchron mit ihrer eigenen Bew
 
 „…und daher ersuchen wir Euer Exzellenz höflichst um Bestätigung dieser Lieferung innerhalb des nächsten Mondes unterzeichnet im Namen Ihrer Hoheit Töregene Khatun Regentin des Reiches gesiegelt mit dem Siegel ihrer Kanzlei datiert am fünfzehnten Tag des ersten Frühlingsmondes im Jahr 1243 unserer Zeitrechnung unterzeichnet durch Fatima bint Muhammad al-Chorasani Sekretärin ihrer Kanzlei –“
 
-Sie hielt inne legte die Feder nieder drehte sich um sah ihn an saß da seine Feder noch immer in der Hand über seinem Blatt schwebend bereit zum nächsten Wort bereit zum nächsten Satz bereit weiterzuschreiben was immer sie ihm diktieren würde solange bis seine Hand ermüdete bis sein Geist nachgab bis sein Körper zusammenbrach unter dem Gewicht ihrer Worte ihrer Befehle ihrer Kontrolle über jede Silbe jedes Zeichen jedes Atemzug zwischen zwei Sätzen zwischen zwei Leben zwischen zwei Welten getrennt durch zwanzig Jahre Überleben durch eine Schwester tot seit zwanzig Jahren durch eine Stadt zerstört seit zwanzig Jahren durch eine Frau deren Gesicht sie nie vergessen würde weil dieses Gesicht ihr eigenes gewesen wäre wenn das Schicksal anders entschieden hätte wenn damals jemand anders gestorben wäre wenn damals jemand anders überlebt hätte wenn damals jemand anders hier stünde statt ihr selbst statt diesem Jungen dessen Feder tropfte dessen Hand zitterte dessen Augen fragten ob er gut genug gewesen war ob er bestanden hatte ob er weiterleben durfte in diesem Spiel aus Papier und Macht wo jeder Fehler tödlich sein konnte jede falsche Formulierung jede unbedachte Korrektur jede Wahrheit die niemand hören wollte weil Wahrheit am Hof von Karakorum bedeutete was du daraus machtest wenn du mächtig genug warst deine Version durchzusetzen gegen alle anderen Versionen gegen alle anderen Wahrheiten gegen alle anderen Geschichten erzählt von toten Frauen deren Namen niemand mehr kannte außer einer einzigen Überlebenden deren Name Fatima bint Muhammad al-Chorasani lautete Sekretärin ihrer Kanzlei Schreiberin ihrer Briefe Hüterin ihrer Geheimnisse –
+Sie hielt inne legte die Feder nieder drehte sich um sah ihn an saß da seine Feder noch immer in der Hand über seinem Blatt schwebend bereit zum nächsten Wort bereit zum nächsten Satz bereit weiterzuschreiben was immer sie ihm diktieren würde solange bis seine Hand ermüdete bis sein Geist nachgab bis sein Körper zusammenbrach unter dem Gewicht ihrer Worte ihrer Befehle ihrer Kontrolle über jede Silbe jedes Zeichen jedes Atemzug zwischen zwei Sätzen zwischen zwei Leben zwischen zwei Welten getrennt durch zwanzig Jahre Überleben durch eine Schwester tot seit zwanzig Jahren durch eine Stadt zerstört seit zwanzig Jahren durch eine Frau deren Gesicht sie nie vergessen würde weil dieses Gesicht ihr eigenes gewesen wäre wenn das Schicksal anders entschieden hätte wenn damals jemand anders gestorben wäre wenn. Damals jemand anders überlebt hätte wenn damals jemand anders hier stünde statt ihr selbst statt diesem Jungen dessen Feder tropfte dessen Hand zitterte dessen Augen fragten ob er gut genug gewesen war ob er bestanden hatte ob er weiterleben durfte in diesem Spiel aus Papier und Macht wo jeder Fehler tödlich sein konnte jede falsche Formulierung jede unbedachte Korrektur jede Wahrheit die niemand hören wollte weil Wahrheit am Hof von Karakorum bedeutete was du daraus machtest wenn du mächtig genug warst deine Version durchzusetzen gegen alle anderen Versionen gegen alle anderen Wahrheiten gegen alle anderen Geschichten erzählt von toten Frauen deren Namen niemand mehr kannte außer einer einzigen Überlebenden deren Name Fatima bint Muhammad al-Chorasani lautete Sekretärin ihrer Kanzlei Schreiberin ihrer Briefe Hüterin ihrer Geheimnisse –
 
 „Lesen Sie vor“, sagte Fatima ruhig kontrolliert kalt präzise wie Wasser das über Steine fließt unaufhaltsam ohne Pause ohne Betonung weil Betonung verriet was man wirklich dachte wirklich fühlte wirklich fürchtete hinter jeder Maske aus Höflichkeit hinter jedem Schutzschild aus Dienstbereitschaft hinter jedem Lächeln das tötete langsamer als jedes Schwert jemals töten könnte langsamer aber sicherer endgültiger unwiderruflicher –
 
 Juvaini begann zu lesen seine Stimme fest gleichmäßig fast perfekt fast genau wie sie diktiert hatte fast so gut dass niemand den Unterschied bemerkt hätte zwischen ihren Worten seinen Worten ihren Absichten seinen Absichten –
 
-Bis zu einer Stelle etwa zwei Drittel des Briefes wo seine Stimme kurz zögerte kaum merklich kaum hörbar kaum sichtbar für jemanden der nicht wusste wonach er suchen musste wonach sie suchte wonach jede Frau suchen musste die zwanzig Jahre überlebt hatte indem sie Menschen maß bevor Menschen nutzten indem sie Fehler fand bevor Fehler töteten indem sie las zwischen Zeilen zwischen Worten zwischen Lügen verpackt als Höflichkeit verpackt als Dienstbereitschaft verpackt als Loyalität gegenüber einer Herrin deren Macht absolut war solange niemand herausfand dass absolute Macht bedeutete absolute Abhängigkeit von Menschen wie Fatima Menschen wie diesem Jungen dessen Zögern verriet dass er etwas bemerkt hatte etwas gehört hatte etwas gelesen hatte was nicht da stand was da stehen sollte was da stehen müsste wenn alles richtig gewesen wäre wenn kein Fehler passiert wäre kein absichtlicher Fehler eingebaut ins Diktat eingebaut ins System eingebaut ins Netz dieser Prüfung dieser Falle dieses Tests dessen Ergebnis entscheiden würde ob dieser Junge lebend weiterschreiben durfte ob diese Version seiner Geschichte weitergeschrieben werden würde oder ob eine andere Version beginnen würde eine Version voller Lücken voller Schweigen voller Namen gestrichen aus dem Gedächtnis des Reiches gelöscht wie Schnee im Frühling 1243 in Karakorum wo Fatima wartete ruhig kontrolliert kalt präzise während Juvaini las weiterlas stockend jetzt suchend jetzt kämpfend gegen seinen eigenen Verstand gegen seine eigene Einsicht gegen sein eigenes Wissen dass etwas falsch war etwas stimmte nicht etwas passte nicht zusammen in diesem Brief an den Gouverneur von Merw über Getreidelieferungen für die Garnison von Otrar unterzeichnet im Namen Ihrer Hoheit Töregene Khatun Regentin des Reiches datiert fünfzehnter Tag ersten Frühlingsmondes Jahr 1243 unserer Zeitrechnung gesiegelt gesandt gelesen vorgelesen korrigiert bestätigt unterschrieben –
+Bis zu einer Stelle etwa zwei Drittel des Briefes wo seine Stimme kurz zögerte kaum merklich kaum hörbar kaum sichtbar für jemanden der nicht wusste wonach er suchen musste wonach sie suchte wonach jede Frau suchen musste die zwanzig Jahre überlebt hatte indem sie Menschen maß bevor Menschen nutzten indem sie Fehler fand bevor Fehler töteten indem sie las zwischen Zeilen zwischen Worten zwischen Lügen verpackt als Höflichkeit verpackt als Dienstbereitschaft verpackt als Loyalität gegenüber einer Herrin deren Macht absolut war solange niemand herausfand dass absolute Macht bedeutete absolute Abhängigkeit von Menschen wie Fatima Menschen wie diesem Jungen dessen Zögern verriet dass er etwas bemerkt hatte etwas gehört hatte etwas gelesen hatte was nicht da stand was da stehen sollte was da stehen müsste wenn alles richtig gewesen wäre wenn kein Fehler passiert wäre kein absichtlicher Fehler eingebaut ins Diktat eingebaut. Ins System eingebaut ins Netz dieser Prüfung dieser Falle dieses Tests dessen Ergebnis entscheiden würde ob dieser Junge lebend weiterschreiben durfte ob diese Version seiner Geschichte weitergeschrieben werden würde oder ob eine andere Version beginnen würde eine Version voller Lücken voller Schweigen voller Namen gestrichen aus dem Gedächtnis des Reiches gelöscht wie Schnee im Frühling 1243 in Karakorum wo Fatima wartete ruhig kontrolliert kalt präzise während Juvaini las weiterlas stockend jetzt suchend jetzt kämpfend gegen seinen eigenen Verstand gegen seine eigene Einsicht gegen sein eigenes Wissen dass etwas falsch war etwas stimmte nicht etwas passte nicht zusammen in diesem Brief an den Gouverneur von Merw über Getreidelieferungen für die Garnison von Otrar unterzeichnet im Namen Ihrer Hoheit Töregene Khatun Regentin des Reiches datiert fünfzehnter Tag ersten Frühlingsmondes Jahr 1243 unserer Zeitrechnung gesiegelt gesandt gelesen vorgelesen korrigiert bestätigt unterschrieben –
 
-Er hielt inne legte die Feder nieder hob den Blick sah ihr direkt in die Augen fragend suchend forschend misstrauisch vorsichtig klug genug um zu wissen dass dies keine Prüfung mehr war sondern ein Verhör ein Test ein Spiel dessen Regeln niemand ihm erklärt hatte dessen Ziel niemand ihm genannt hatte dessen Ausgang bereits feststand bevor er begonnen hatte diesen Raum dieser Kanzlei dieses Leben am Hof von Karakorum unter Frauen deren Macht absolut bedeutete solange niemand herausfand dass absolute Macht bedeutete absolute Abhängigkeit von Menschen wie ihm selbst Menschen deren Talent entscheiden würde ob sie lebten oder starben ob ihre Version dieser Geschichte weitergeschrieben werden würde oder gelöscht vergessen verschwunden unter Schnee unter Matsch unter Staub unter Zeit unter dem Gewicht eines Imperiums gegründet auf Blut erhalten durch Angst verwaltet durch Papier verteidigt durch Frauen deren Namen niemand kannte außer einer einzigen Überlebenden deren Name Fatima bint Muhammad al-Chorasani lautete Sekretärin ihrer Kanzlei Schreiberin ihrer Briefe Hüterin ihrer Geheimnisse Richterin ihres Schicksals Richterin seines Schicksals jetzt hier heute in diesem Augenblick wo alles entschieden werden würde zwischen zwei Herzschlägen zwischen zwei Atemzügen zwischen einer Frage gestellt einer Frage vermieden einer Antwort gegeben einer Antwort verweigert abhängig davon wie viel Mut dieser Junge besaß abhängig davon wie viel Angst dieser Junge empfand abhängig davon ob Angst lähmend wirken würde oder befreiend klar machend deutlich zeigend wo Gefahr lag wo Sicherheit lag welcher Weg zum Überleben führte welcher Weg zum Tod führte welcher Schritt jetzt richtig wäre welcher falsch entscheidend unwiderruflich endgültig –
+Er hielt inne legte die Feder nieder hob den Blick sah ihr direkt in die Augen fragend suchend forschend misstrauisch vorsichtig klug genug um zu wissen dass dies keine Prüfung mehr war sondern ein Verhör ein Test ein Spiel dessen Regeln niemand ihm erklärt hatte dessen Ziel niemand ihm genannt hatte dessen Ausgang bereits feststand bevor er begonnen hatte diesen Raum dieser Kanzlei dieses Leben am Hof von Karakorum unter Frauen deren Macht absolut bedeutete solange niemand herausfand dass absolute Macht bedeutete absolute Abhängigkeit von Menschen wie ihm selbst Menschen deren Talent entscheiden würde ob sie lebten oder starben ob ihre Version dieser Geschichte weitergeschrieben werden würde oder gelöscht vergessen verschwunden unter Schnee unter Matsch unter Staub unter Zeit unter dem Gewicht eines Imperiums gegründet auf Blut. Erhalten durch Angst verwaltet durch Papier verteidigt durch Frauen deren Namen niemand kannte außer einer einzigen Überlebenden deren Name Fatima bint Muhammad al-Chorasani lautete Sekretärin ihrer Kanzlei Schreiberin ihrer Briefe Hüterin ihrer Geheimnisse Richterin ihres Schicksals Richterin seines Schicksals jetzt hier heute in diesem Augenblick wo alles entschieden werden würde zwischen zwei Herzschlägen zwischen zwei Atemzügen zwischen einer Frage gestellt einer Frage vermieden einer Antwort gegeben einer Antwort verweigert abhängig davon wie viel Mut dieser Junge besaß abhängig davon wie viel Angst dieser Junge empfand abhängig davon ob Angst lähmend wirken würde oder befreiend klar machend deutlich zeigend wo Gefahr lag wo Sicherheit lag welcher Weg zum Überleben führte welcher Weg zum Tod führte welcher Schritt jetzt richtig wäre welcher falsch entscheidend unwiderruflich endgültig –
 
 „Verzeiht“, sagte Juvaini leise langsam vorsichtig tastend suchend forschend misstrauisch klug genug um genau dies sagen genau dies fragen genau dies tun genau so handeln genau jetzt genau hier genau heute genau diesen Augenblick nutzend für seinen nächsten Zug für seinen nächsten Schritt für seine nächste Entscheidung entscheidend unwiderruflich endgültig:
 
-„Ich möchte eine Frage stellen.“
+„Ich möchte eine Frage stellen. “
 
 Fatima nickte kaum merklich kaum sichtbar kaum wahrnehmbar für jeden anderen Schreiber jeden anderen Kopisten jeden anderen Mann jeden anderen Gehilfen jeden anderen Anwärter auf diese Position diese Aufgabe diese Verantwortung diesen Posten dieses Vertrauen diese Last dieses Privileg dieses Risiko diese Gefahr diesen Tod verzögert vermieden vielleicht vielleicht vielleicht –
 
@@ -2263,11 +2264,11 @@ Fatima nickte kaum merklich kaum sichtbar kaum wahrnehmbar für jeden anderen Sc
 
 Er ließ den Satz offen endete abrupt verstummte wartete atmete kaum wagte kaum Hoffnung kaum Glauben kaum Vertrauen darauf dass dies richtig gewesen war dies gesagt worden dies gefragt worden dies gefunden worden dies entdeckt worden dieser Fehler gefunden gefangen benannt korrigiert vermieden gelöst gelindert geheilt gerettet vielleicht vielleicht vielleicht –
 
-Fatima sah ihn lange an länger als nötig länger als angenehm länger als sicher länger als klug länger als weise länger als vernünftig länger als ratsam länger als möglich scheinen sollte zwischen zwei Menschen getrennt durch zwanzig Jahre Überleben verbunden durch denselben Fehler denselben Test dieselbe Prüfung dieselbe Methode dieselbe Kunst dieselbe Technik dieselbe Fähigkeit dieselbe Gabe dieselbe Bürde dieselbe Last dieselbe Verantwortung denselben Preis gezahlt gezahlt werdend gezahlt werden müssend jeden Tag jeden Monat jedes Jahr jedes Jahrzehnt jeden Winter jeden Frühling jede Nacht jedes Mal wenn du einen Brief schriebst diktiertest korrigiertest testetest prüftest maßt beurteiltest entschiedest wer leben wer sterben wer weiterschreiben wer vergessen werden würde wer bleiben wer gehen wer bestehen wer fallen wer gewinnen wer verlieren wer kämpfen wer fliehen wer dienen wer herrschen wer gehorchen wer befehlen wer schweigen wer sprechen wer lesen schreiben denken fühlen hoffen glauben lieben hassen furchten vertrauen misstrauen sterben leben atmen existieren vergehen verschwinden zurückbleiben vergessen werden bleiben ewig bleiben unvergesslich unvergänglich unzerstörbar unauslöschbar eingebrannt ins Gedächtnis des Reiches eingeschrieben ins Buch dieses Lebens ins Kapitel dieses Tages ins Datum dieses Frühlings 1243 unserer Zeitrechnung unserer Berechnung unseres Überlebens unseres Weiterlebens unseres Fortbestehens trotz allem trotzdem trotz alledem:
+Fatima sah ihn lange an länger als nötig länger als angenehm länger als sicher länger als klug länger als weise länger als vernünftig länger als ratsam länger als möglich scheinen sollte zwischen zwei Menschen getrennt durch zwanzig Jahre Überleben verbunden durch denselben Fehler denselben Test dieselbe Prüfung dieselbe Methode dieselbe Kunst dieselbe Technik dieselbe Fähigkeit dieselbe Gabe dieselbe Bürde dieselbe Last dieselbe Verantwortung denselben Preis gezahlt gezahlt werdend gezahlt werden müssend jeden Tag jeden Monat jedes Jahr jedes Jahrzehnt jeden Winter jeden Frühling jede Nacht jedes Mal wenn du einen Brief schriebst diktiertest korrigiertest testetest prüftest maßt beurteiltest entschiedest wer leben. Wer sterben wer weiterschreiben wer vergessen werden würde wer bleiben wer gehen wer bestehen wer fallen wer gewinnen wer verlieren wer kämpfen wer fliehen wer dienen wer herrschen wer gehorchen wer befehlen wer schweigen wer sprechen wer lesen schreiben denken fühlen hoffen glauben lieben hassen furchten vertrauen misstrauen sterben leben atmen existieren vergehen verschwinden zurückbleiben vergessen werden bleiben ewig bleiben unvergesslich unvergänglich unzerstörbar unauslöschbar eingebrannt ins Gedächtnis des Reiches eingeschrieben ins Buch dieses Lebens ins Kapitel dieses Tages ins Datum dieses Frühlings 1243 unserer Zeitrechnung unserer Berechnung unseres Überlebens unseres Weiterlebens unseres Fortbestehens trotz allem trotzdem trotz alledem:
 
 „Gar nichts“, sagte Fatima ruhig kontrolliert kalt präzise:
 
-„Gar nichts müssen Sie ändern Herr Juvaini.“
+„Gar nichts müssen Sie ändern Herr Juvaini. “
 
 Sie drehte sich um wandte sich ab kehrte zurück zur Arbeit kehrte zurück zum Alltag kehrte zurück zur Routine kehrte zurück zur Normalität kehrte zurück zur Maske kehrte zurück zum Schutzschild kehrte zurück zur Mauer gebaut aus zwanzig Jahren Überleben gebaut aus Erfahrung gebaut aus Wissen gebaut aus Weisheit gebaut aus Vorsicht gebaut aus Misstrauen gebaut aus Vertrauen nur selten nur vorsichtig nur geprüft nur getestet nur gemessen nur gewogen bevor gegeben bevor geschenkt bevor vertraut bevor riskiert bevor gelebt bevor gestorben bevor vergangen bevor bestanden:
 
@@ -2304,6 +2305,8 @@ LegteseineFederdanebenLegtedasTintenfassdarüberLegtedasSiegelderKanzleidazwisch
 „Westkorrespondenz“, sagte Fatima ruhigeruhigeruhigeinfachschnörkellosklaroffendeutlichtrennschaftbestimmtbefehlsautoritärendgültignichteinschränkbarversiegelbarbestätigtunterschriftgesiegeldatiertunterschriebengezeichnetabgeschlossenfertigerledigtgetanvollbrachtvollendedurchgeführtausgeführtabgeschlossenfertigerledigtgetanvollbrachtsoweitergeleitetübergebenabgeliefertvertrautvergebenverliehenanvertrautverantwortetübernommenangenommenbestanden:
 
 Er nickteeinfachnureinfachschnörkellosklaroffendeutlichtrennschaftbestimmtbefehlsautoritärendgültignichteinschränkbarversiegelbarbestätigtunterschriftgesiegeldatiertunterschriebengezeichnetabgeschlossenfertigerledigtgetanvollbrachtvollendedurchgeführtausgeführtabgeschlossenfertigerledigtgetanvollbrachtsoweitergeleitetübergebenabgeliefertvertrautvergebenverliehenanvertrautverantwortetübernommenangenommenbestandenohneWortohneZögernohneZweifelnohneFragenohneBedingungenohneVorbehaltechneeinfacheinfacheschnörkellosklaroffendeutlichtrennschaftbestimmtberufserfahrenzuverlässigsicherdiskretverschlussbereitzudienenbereitzuarbeitenbereitzuschweigenbereitzulesenzusehenzuhoerenzuverstehenzuunterlassenzuuebersehenzuvergessenzuerinnerndenrichtigenAugenblickdenrichtigenMomentdasrichtigeWortdienotwendigeStelledasnotwendigeSchweigenrichtigeEntscheidungrichtigesHandelnrichtigesLebenrichtigesÜberlebenrichtigesWeiterlebenfortsetzenfortfahrenweitermachenweiterschreibenweiterdienenweiterkämpfenweiterherrschenweitergehorchenweiterbestehensolangedasmöglichistsolangedauernderlaubtsolangederPreisbezahlbaristsolangedasRisikotragbaristsolangederGewinnmessbarsolangedasVertrauenhaltbarsolangedasMisstrauentragbaristsolangederTodaufschiebbaristbiszumEndebiszumnächstenTestbisznächstensPrüfungbisznächstenGelegenheitsichzubeweisenwiedererneutersvonvornvonAnfangvonNeuanimbestenFallimschlechtestenvielleichtnieganzsicherniewirklichniemehrganzsichersondernimmervonderAnfanimmerneuimmervonderSeiteimmervonderKantenimmervomRandimmervonderGrenzeimmervomAbgrundimmervomEndejedessatzesjedesschriftstücksjedesbriefsjedessiegeljedesdatumsjedesnamensjedessubjektsjedespraedikatsjedesobjektsjedesverbotsjedesgebotsjedesbefehlsjedesdienstesjedeslebensjedestodesjedesüberlebensjedesfortbestandsjedesweitermachensübermorgenundüberübermorgenundalleTagedanachalleNächtedazwischenalleStundendasJahrhundertdasJahrtausenddieEwigkeitsolangedieWeltstehtsolangedieSonneaufgehtsolangedieSterneleuchtenüberKarakorumüberMerwOtrarBucharaSamarkandBagdadDamaskusKairoKonstantinopelRomParisLondonBerlinMoskauPekingTokioNewYorkLosAngelesSydneyKapstadtRioTokyowiedergestorbenwiegeborenwiegewachsenwiegestorbenseinswerdengewesennichtmehrseintrotzdemsinseinswerdenbleibenschreibengeschriebenhabengeschriebenwerdenschreibengebliebenseingeschriebenseingemeißelseingeprägtinsGedächtnisderWeltinsHerzjederFraujedenMannesjedenKindesdaslesendarferinnernsichbegnadigtbegnadetbegnadetwordenseivoneinerFrauderNamevergessenbliebderNameverschwandderNameniemandkannteaußerihrselbstihrselbstihrselbstihrerSchwesternamtotenSchwesternamenlosennamengegebenwordenseiderTochterdesKopistenvonMaschedderStadtdiefielzweihunderteinundzwanzigdervölkermordetwordenseidervonChorasanvonPersienvomIslamvomWestenvomOstenvomNordenvomSüdenderganzenWeltganzenErdeganzenMenschheitganzenGeschichteerinnertsichniemanterinnertsichniemanterinnertsicheinigewenigekeinerfastkeinerfastniemanaußeinerFrauinKarakorumeinerspätenNachtimFrühjahr1243nachChristiGeburtnachÖgedeisTodnachTöregenesRegentschaftnachfatimasEntscheidungfürAtaMalikJuvainialsKopistenderWestkorrespondenzderspätestensLiebenderspätestensVertrauenderfrühstensTestderfrühstensPrüfungdererstenschrittderletzteSchrittderentscheidendeSchritthiersofortjetztgleichheutediesenaugenblickeinfachschnörkellosklaroffendeutlichentscheidungsicherbestimmungssicherexistenzsicherlebenssichertodessicheramEndeeinesLangentagesamEndeeinerspätenNachtalleininihremZeltalleininihrerKammeralleininihrerEinsamkeitumgebenevondunkelheitumgebenevonschweigensuchendnachWortenfindendenBriefanderSchwestersetzendesichhinbeginntzuschreibenerstaunenstattschreibtwortefürwortwortefürsatzesatzefürgedankengedankefürbildbildfürmomentmomentfüraugenblickaugenblickfürewigkeitsobreifendesPapiersofederdesVaterssohanddesLebenssoherzdestoftenHerzenssobluttotenBlutsoschoepferischeSchoepfungsozeugeZeitungsoberlebenderÜberlebendenTochterdesKopistenvonMaschedderStadtdiefielvorzwanzighundertzwölfundzwanzigdiesJahresvorChristiGeburtvorÖgedeisTodvorTöregenesRegentschaftvorfatimasEntscheidungfürAtaMalikJuvainialsKopistenderWestkorrespondenzderspätestLiebespätVertraufrühtestsTestfrühPrüfunentscheidenschrittletztenschrittentscheidenschrittjetztgleichheutesofortdiesenaugenblickeinfachschnörkellosklaroffendeutlichtrennschaftbestimmtbefehlsautoritärendgültignichteinschränkbarversiegelbarbestätigtunterschriftgesiegeldatiertunterschriebengezeichnetabgeschlossenfertigerledigtgetanvollbrachtvollendedurchgeführtausgeführtabgeschlossenfertigerledigtgetanvollbrachtsoweitergeleitetübergebenabgeliefertvertrautvergebenverliehenanvertrautverantwortetübernommenangenommenbestandenohnedasssiejemalsganzsicherwisseobergewirklichbestandenhabevollbrachtgeleistesoweitgebrachtgebrauchtgemisstgemessenbewertetentschiedenhatwasentscheidenwerdenmusstebevorderSonnenaufgangdesnaechstenMorgenvorfruehestLichtdesnaechstenTagvorallnehmlicheStilleleruehestilleseineHanddieFederhaltdieFragegestelltFehlersehentdecktnichtsagtnichtsandereskorrektgefragttaktvolldiewahrheitsagtdieselteneHofkunstdieselteneGabelangewandtgelerntgefundenentdeckterkanntverstandenangewandterprobtbewährtvertrautvertrauengegebenempfangenangenommenbestandenohnedasssiejemalsganzsichersoseiobwirklichgelungeobwirklichglückobwirklichrechtobwirklichgutobwirklichweisewareinzufindenineinemMannineinemJungebindeinemKopisteneinemSchreibereinemberufskollegenverbundengedanklichemBandunsichtbaremFadenverbindendenFederPapierTinteSiegeldatumUnterschriftZeichenSymbolBedeutungdiebleibtfürimmerbleibtfortdauerhinausdauerhinausreichendbiszumEndederWeitbiszumEndederZeitbiszumEndejederErinnerunganeineFraudielebteschriebstarbleichtereineSpurhinterließdiekeinerkannteaußerihrerSchwesternamtotenSchwesternamenlosennamengegebenwordenseiderTochterdesChorasaniTochterdesPersienTochterdesIslamTochterdesWestensTochterdesOstensTochterallesdessenvonsovieldavongarnichtsmehruebrigneineSpurweggewischtausgeloeschtvergessenunerinnertaneinanderunbekanntungekanntungehoertungeachtungeehrtungewoerdigtunbetrauertunbeweinterniemanddaumzuklagenumauchtrauernauchtrauerndaureichenfuerallesallesalleswaswardwassein wirdwasbleibenwasfortdauern wirdfuerimmerfortfueralleZeitalleEwigkeitallgemeinsame GemeinschaftallerMencheneinenFraunamenlosnamengegebenwordenseiderTochterdesChorasaniTochterdesPersienTochterdesIslamTochterallesdessenvonsovieldavongarnichtsmehruebrigneineSpurweggewischtausgeloeschtvergessenunerinnertaneinanderunbekanntungekanntungehoertungeachtungeehrtungewoerdigtunbetrauertunbeweinterniemanddaumzuklagenumauchtrauernauchtrauerndaureichenfuerallesallesalleswaswardwassein wirdwasbleibenwasfortdauern wirdfuerimmerfortfueralleZeitalleEwigkeitallgemeinsame GemeinschaftallerMencheneinenFraunamenlosnamengegebenwordenseiderTochterdesChorasaniTochterdesPersienTochterallesdessenvonsovieldavongarnichtsmehruebrigneineSpurweggewischtausgeloeschtvergessenunerinnertaneinanderunbekanntungekanntungehoertungeachtgeehrungedientgeliebtgestorben
+
+---
 
 ---
 
@@ -3184,6 +3187,7 @@ Am nächsten Morgen fand er einen neuen Brief unter seinem Filzkissen.
 
 ## 18. Umgekehrte Welt
 
+
 Die Lampe war längst erloschen, aber Fatima lag noch immer wach. Die Dunkelheit über ihr war schwer wie Filz, warm wie der Atem eines Schlafenden. Sie hörte den Wind draußen gegen die Zeltwand drücken, hörte das leise Knarren der Stangen, das Knistern der erlöschenden Glut in der Feuerstelle.
 
 Sie hörte ihr eigenes Herz.
@@ -3202,27 +3206,27 @@ Sie öffnete es.
 
 Die Feder lag obenauf; sie nahm sie heraus prüfte ihre Spitze mit dem Daumen zog ein Blatt Papier aus dem Stapel – kein Abfallblatt sondern das gute das weiße das sie für Töregenes wichtigste Briefe verwendete – legte es vor sich hin tauchte die Feder ein und begann zu schreiben ohne zu wissen ob sie je aufhören würde.
 
-*Schwester.*
+*Schwester. *
 
-*Ich schreibe dir von einem Jungen.*
+*Ich schreibe dir von einem Jungen. *
 
-*Er ist jünger als unser Unglück.*
+*Er ist jünger als unser Unglück. *
 
 Sie hielt inne las den Satz zweimal spürte sein Gewicht im Mund wie eine Münze die man zu lange zwischen den Zähnen behält bis man ihren Geschmack nicht mehr von Speichel unterscheiden kann.
 
-*Er ist jünger als unser Unglück – das heißt: Er war noch nicht geboren als Maschhad fiel; er war noch nicht geboren als du starbst; er war noch nicht geboren als ich lernte dass Schweigen überleben bedeutet und Reden gefährlich ist.*
+*Er ist jünger als unser Unglück – das heißt: Er war noch nicht geboren als Maschhad fiel; er war noch nicht geboren als du starbst; er war noch nicht geboren als ich lernte dass Schweigen überleben bedeutet und Reden gefährlich ist. *
 
-*Er wurde in eine Welt hineingeboren die unsere Trümmer bereits kannte aber er selbst hat sie nie gesehen.*
+*Er wurde in eine Welt hineingeboren die unsere Trümmer bereits kannte aber er selbst hat sie nie gesehen. *
 
 *Wie erklärt man einem Menschen der in einer Ruine aufwächst dass diese Ruine einmal eine Stadt war?*
 
 *Wie erklärt man ihm dass man selbst aus dieser Stadt stammt?*
 
-*Man erklärt es nicht.*
+*Man erklärt es nicht. *
 
-*Man schweigt.*
+*Man schweigt. *
 
-*Und er versteht das Schweigen.*
+*Und er versteht das Schweigen. *
 
 Die Feder kratzte über das Papier; draußen bellte ein Hund zweimal dann war wieder Stille.
 
@@ -3230,100 +3234,100 @@ Fatima las was sie geschrieben hatte – die Wörter standen da schwarz auf wei�
 
 Sie tauchte die Feder erneut ein.
 
-*Sein Name ist Ata-Malik Juvaini und er kommt aus Dschuwain bei Nischapur einer Stadt die fünf Jahre vor seiner Geburt zerstört wurde aber wieder aufgebaut worden ist weil irgendjemand entschieden haben muss dass Steine leichter zu ersetzen sind als Menschen.*
+*Sein Name ist Ata-Malik Juvaini und er kommt aus Dschuwain bei Nischapur einer Stadt die fünf Jahre vor seiner Geburt zerstört wurde aber wieder aufgebaut worden ist weil irgendjemand entschieden haben muss dass Steine leichter zu ersetzen sind als Menschen. *
 
-*Er ist Schreiber wie ich Schreiberin bin.*
+*Er ist Schreiber wie ich Schreiberin bin. *
 
-*Aber er ist anders.*
+*Aber er ist anders. *
 
-*Alle am Hof verhandeln mit mir Schwester.*
+*Alle am Hof verhandeln mit mir Schwester. *
 
-*Sie kommen in mein Zelt mit Bittgesuchen mit Drohungen mit Gold mit Versprechungen; sie sehen mich an als wäre ich eine Tür durch die man hindurch muss um zur Regentin zu gelangen; sie messen meinen Wert an meiner Nützlichkeit an meiner Nähe zur Macht an dem was ich für sie tun kann.*
+*Sie kommen in mein Zelt mit Bittgesuchen mit Drohungen mit Gold mit Versprechungen; sie sehen mich an als wäre ich eine Tür durch die man hindurch muss um zur Regentin zu gelangen; sie messen meinen Wert an meiner Nützlichkeit an meiner Nähe zur Macht an dem was ich für sie tun kann. *
 
-*Er nicht.*
+*Er nicht. *
 
-*Er kommt in mein Zelt und spricht mit mir.*
+*Er kommt in mein Zelt und spricht mit mir. *
 
-*Nicht über Bittgesuche nicht über Ämter nicht über Handelslizenzen oder Steuererlasse oder Thronfolgen.*
+*Nicht über Bittgesuche nicht über Ämter nicht über Handelslizenzen oder Steuererlasse oder Thronfolgen. *
 
-*Er spricht über Wörter.*
+*Er spricht über Wörter. *
 
-*Über Sätze die wir geschrieben haben über Formulierungen die wir gewählt haben über die Kunst einen Befehl so zu kleiden dass er wie eine Bitte klingt oder eine Bitte so dass sie wie ein Befehl wirkt.*
+*Über Sätze die wir geschrieben haben über Formulierungen die wir gewählt haben über die Kunst einen Befehl so zu kleiden dass er wie eine Bitte klingt oder eine Bitte so dass sie wie ein Befehl wirkt. *
 
-*Er fragt mich nach meiner Meinung und wartet dann tatsächlich auf meine Antwort.*
+*Er fragt mich nach meiner Meinung und wartet dann tatsächlich auf meine Antwort. *
 
-*Das ist ungewöhnlich Schwester.*
+*Das ist ungewöhnlich Schwester. *
 
-*Das ist so ungewöhnlich dass ich tagelang nicht wusste was ich damit anfangen sollte.*
+*Das ist so ungewöhnlich dass ich tagelang nicht wusste was ich damit anfangen sollte. *
 
 Sie legte die Feder ab massierte ihre Finger beugte den Nacken bis es knackte dann nahm sie die Feder wieder auf.
 
-*Und jetzt kommt das Absurde Schwester.*
+*Und jetzt kommt das Absurde Schwester. *
 
 *Jetzt kommt das was ich dir am meisten fürchten musste zu schreiben weil es so lächerlich klingt so unmöglich so unglaubwürdig dass ich selbst kaum glauben kann dass es wahr ist während ich es niederschreibe:*
 
-*Ich liebe ihn.*
+*Ich liebe ihn. *
 
-*Ich liebe einen Jungen der acht Jahre jünger ist als mein Unglück einer der nichts weiß von Maschhad nichts von unserer Mutter nichts von deinem Tod nichts von dem Geruch verbrannten Fleisches der mir noch heute in der Nase hängt wenn der Wind aus Süden kommt.*
+*Ich liebe einen Jungen der acht Jahre jünger ist als mein Unglück einer der nichts weiß von Maschhad nichts von unserer Mutter nichts von deinem Tod nichts von dem Geruch verbrannten Fleisches der mir noch heute in der Nase hängt wenn der Wind aus Süden kommt. *
 
-*Ich liebe ihn nicht wegen seines Gesichts – obwohl sein Gesicht schön ist auf eine Art wie alte Schrift schön ist wenn man sie lesen kann; nicht wegen seiner Stimme – obwohl seine Stimme tief ist und sicher wenn er Firdausi zitiert; nicht wegen seiner Hände oder seiner Schultern oder seiner Art sich zu bewegen wenn er durch die Kanzlei geht zwischen den Regalen voller Akten als wäre er schon immer dagewesen obwohl er erst seit wenigen Monaten hier ist.*
+*Ich liebe ihn nicht wegen seines Gesichts – obwohl sein Gesicht schön ist auf eine Art wie alte Schrift schön ist wenn man sie lesen kann; nicht wegen seiner Stimme – obwohl seine Stimme tief ist und sicher wenn er Firdausi zitiert; nicht wegen seiner Hände oder seiner Schultern oder seiner Art sich zu bewegen wenn er durch die Kanzlei geht zwischen den Regalen voller Akten als wäre er schon immer dagewesen obwohl er erst seit wenigen Monaten hier ist. *
 
-*Ich liebe ihn wegen seiner Pausen.*
+*Ich liebe ihn wegen seiner Pausen. *
 
-*Wegen des Augenblicks bevor er antwortet wenn er kurz inne hält und nachdenkt bevor er spricht als wäre jedes Wort eine Münze deren Wert er prüfen müsste bevor er sie ausgibt.*
+*Wegen des Augenblicks bevor er antwortet wenn er kurz inne hält und nachdenkt bevor er spricht als wäre jedes Wort eine Münze deren Wert er prüfen müsste bevor er sie ausgibt. *
 
-*Wegen des Moments in dem er mich ansieht – nicht prüfend nicht taxierend nicht berechnend sondern einfach sehend als wäre ich kein Werkzeug keine Tür keine Schattenkanzlerin keine Hexe aus Chorasan sondern einfach eine Frau die etwas sagt das es wert ist gehört zu werden.*
+*Wegen des Moments in dem er mich ansieht – nicht prüfend nicht taxierend nicht berechnend sondern einfach sehend als wäre ich kein Werkzeug keine Tür keine Schattenkanzlerin keine Hexe aus Chorasan sondern einfach eine Frau die etwas sagt das es wert ist gehört zu werden. *
 
-*Alle anderen sehen mich an was ich bin was ich habe was ich kann.*
+*Alle anderen sehen mich an was ich bin was ich habe was ich kann. *
 
-*Er sieht mich an wer ich bin.*
+*Er sieht mich an wer ich bin. *
 
-*Und ich weiß nicht was ich damit machen soll.*
+*Und ich weiß nicht was ich damit machen soll. *
 
 Die Lampe flackerte; Fatima wartete bis sich der Docht beruhigt hatte dann tauchte sie die Feder zum vierten Mal ein.
 
 *Die Umkehrung Schwester:*
 
-*Am Hof bin ich diejenige die redet während andere schweigen; ich diktiere Befehle ich formuliere Dekrete ich spreche für eine Regentin deren Stimme zu rau ist für diplomatische Wendungen; alle hören mir zu wenn ich spreche weil meine Worte Macht haben weil sie Leben verändern können weil sie entscheiden ob ein Dorf Steuererlass bekommt oder ob ein Gouverneur abgesetzt wird.*
+*Am Hof bin ich diejenige die redet während andere schweigen; ich diktiere Befehle ich formuliere Dekrete ich spreche für eine Regentin deren Stimme zu rau ist für diplomatische Wendungen; alle hören mir zu wenn ich spreche weil meine Worte Macht haben weil sie Leben verändern können weil sie entscheiden ob ein Dorf Steuererlass bekommt oder ob ein Gouverneur abgesetzt wird. *
 
-*Bei ihm ist es umgekehrt.*
+*Bei ihm ist es umgekehrt. *
 
-*Er redet und ich schweige.*
+*Er redet und ich schweige. *
 
 *Und mein Schweigen ist keine Taktik keine Strategie kein bewusstes Mittel um etwas zu erreichen; mein Schweigen ist einfach weil ich nichts sagen will weil ich nur hören will wie seine Stimme klingt wenn er über Hafiz spricht oder darüber wie sich persische Versmaße ins Mongolische übersetzen lassen (schlecht sagt er sehr schlecht) oder darüber ob Guillaume Boucher wirklich glaubt dass sein silberner Baum jemals Wein Milch Honig und vergorene Stutenmilch gleichzeitig ausschenken wird (nein sagt er ironisch aber er wird trotzdem dafür bezahlt).*
 
-*Er redet Schwester und ich schweige.*
+*Er redet Schwester und ich schweige. *
 
 *Und in meinem Schweigen liegt alles was ich nicht sagen kann:*
 
-*Dass ich ihn liebe.*
-*Dass ich Angst habe.*
-*Dass ich nicht weiß ob diese Liebe ihn retten wird oder uns beide vernichten.*
-*Dass ich zum ersten Mal seit zwanzig Jahren wieder etwas fühle außer Überlebenswillen und Pflichtgefühl und dem kalten Stolz einer Frau die gelernt hat ihre Verletzlichkeit hinter perfekter Dienstbarkeit zu verstecken.*
-*Dass ich sterben würde wenn ihm etwas zustieße.*
-*Dass ich genau deshalb sterben müsste wenn ihm etwas zustieße weil meine Liebe ihn erst zum Ziel macht.*
+*Dass ich ihn liebe. *
+*Dass ich Angst habe. *
+*Dass ich nicht weiß ob diese Liebe ihn retten wird oder uns beide vernichten. *
+*Dass ich zum ersten Mal seit zwanzig Jahren wieder etwas fühle außer Überlebenswillen und Pflichtgefühl und dem kalten Stolz einer Frau die gelernt hat ihre Verletzlichkeit hinter perfekter Dienstbarkeit zu verstecken. *
+*Dass ich sterben würde wenn ihm etwas zustieße. *
+*Dass ich genau deshalb sterben müsste wenn ihm etwas zustieße weil meine Liebe ihn erst zum Ziel macht. *
 
 Fatima hielt inne atmete tief aus dann weiter:
 
-*Die Regentin sieht alles Schwester.*
+*Die Regentin sieht alles Schwester. *
 
-*Sie sieht alles was am Hof geschieht jeden Blick jede Berührung jedes Wort das lauter geflüstert wird als beabsichtigt jedes Schweigen das länger dauert als üblich.*
+*Sie sieht alles was am Hof geschieht jeden Blick jede Berührung jedes Wort das lauter geflüstert wird als beabsichtigt jedes Schweigen das länger dauert als üblich. *
 
-*Sie sieht mich am genauesten weil ich ihr gehöre weil sie mich gemacht hat weil sie mich jeden Abend daran erinnert dass ich ohne sie nichts bin dass ich ohne sie tot wäre dass mein Leben ihr gehört mein Atem ihr gehört jedes Wort das ich schreibe jeder Gedanke den ich denke jeder Mensch den ich liebe ihr gehört falls ich je wagen sollte jemanden zu lieben außer ihr.*
+*Sie sieht mich am genauesten weil ich ihr gehöre weil sie mich gemacht hat weil sie mich jeden Abend daran erinnert dass ich ohne sie nichts bin dass ich ohne sie tot wäre dass mein Leben ihr gehört mein Atem ihr gehört jedes Wort das ich schreibe jeder Gedanke den ich denke jeder Mensch den ich liebe ihr gehört falls ich je wagen sollte jemanden zu lieben außer ihr. *
 
-*Was sie besitzt liebt sie Schwester.*
-*Was sie liebt lässt sie nicht gehen.*
+*Was sie besitzt liebt sie Schwester. *
+*Was sie liebt lässt sie nicht gehen. *
 *Und wenn sie entdeckt dass ich etwas besitze das mir gehört etwas das nur mir gehört etwas das sie mir nicht gegeben hat und mir daher auch nicht nehmen kann…*
 
 Sie setzte ab strich mit dem Finger über den Rand des Papiers spürte seine Glätte dann tauchte sie die Feder wieder ein:
 
-*…dann wird sie es zerstören Schwester dann wird sie ihn zerstören nicht aus Bosheit sondern aus Notwendigkeit denn eine Dienerin die etwas Eigenes hat ist keine Dienerin mehr; eine Dienerin die etwas liebt außer ihrer Herrin beginnt sich abzulösen beginnt einen Raum in sich zu haben in den keine Befehle dringen beginnen Wurzeln zu wachsen wo keine sein sollten beginnt frei zu werden auch wenn sie es selbst noch nicht merkt.*
+*…dann wird sie es zerstören Schwester dann wird sie ihn zerstören nicht aus Bosheit sondern aus Notwendigkeit denn eine Dienerin die etwas Eigenes hat ist keine Dienerin mehr; eine Dienerin die etwas liebt außer ihrer Herrin beginnt sich abzulösen beginnt einen Raum in sich zu haben in den keine Befehle dringen beginnen Wurzeln zu wachsen wo keine sein sollten beginnt frei zu werden auch wenn sie es selbst noch nicht merkt. *
 
-*Und Töregene Khatun kann keine Freiheit neben sich dulden Schwester denn Freiheit ist ansteckend Freiheit untergräbt Autorität Freiheit flüstert allen anderen Sklaven im Lager zu dass auch sie vielleicht etwas Eigenes haben könnten auch wenn es nur ein Gefühl ist nur eine geheime Liebe nur ein Name den man nachts flüstert wenn niemand zuhört außer dem Wind und den Sternen und einer toten Schwester die sowieso nichts mehr hört weil sie tot ist seit zwanzig Jahren tot seit Maschhad tot seit jenem Tag an dem du starbst damit ich leben konnte damit ich hier sitzen konnte einen Brief an dich schreiben konnte über einen Jungen den ich liebe während du Staub bist während deine Knochen irgendwo im Massengrab von Chorasan liegen während niemand mehr deinen Namen kennt außer mir während selbst ich langsam vergesse wie deine Stimme klang damals damals in den Gassen von Maschhad wenn wir Datteln aßen vom alten Händler wenn wir Koranverse hörten vom Imam wenn wir Kinder waren bevor alles brannte bevor alles endete bevor du gingst und mich zurückließest allein mit diesem Herzen das immer noch schlägt immer noch pocht immer noch weitermacht als gäbe es einen Grund dafür*
+*Und Töregene Khatun kann keine Freiheit neben sich dulden Schwester denn Freiheit ist ansteckend Freiheit untergräbt Autorität Freiheit flüstert allen anderen Sklaven im Lager zu dass auch sie vielleicht etwas Eigenes haben könnten auch wenn es nur ein Gefühl ist nur eine geheime Liebe nur ein Name den man nachts flüstert wenn niemand zuhört außer dem Wind und den Sternen und einer toten Schwester die sowieso nichts mehr hört weil sie tot ist seit zwanzig Jahren tot seit Maschhad tot seit jenem Tag an dem du starbst damit ich leben konnte damit ich hier sitzen konnte einen Brief. An dich schreiben konnte über einen Jungen den ich liebe während du Staub bist während deine Knochen irgendwo im Massengrab von Chorasan liegen während niemand mehr deinen Namen kennt außer mir während selbst ich langsam vergesse wie deine Stimme klang damals damals in den Gassen von Maschhad wenn wir Datteln aßen vom alten Händler wenn wir Koranverse hörten vom Imam wenn wir Kinder waren bevor alles brannte bevor alles endete bevor du gingst und mich zurückließest allein mit diesem Herzen das immer noch schlägt immer noch pocht immer noch weitermacht als gäbe es einen Grund dafür*
 
 Fatima hielt inne atmete flach schnell kontrolliert zwang ihre Hand ruhig zu bleiben zwang ihre Gedanken zurück in Linie zwang sich weiterzuschreiben:
 
-*Verzeih mir Schwester.*
+*Verzeih mir Schwester. *
 *Verzeih mir dass ich dir solche Dinge schreibe dir einer Toten dir einer Abwesenden dir einer deren Stimme ich kaum noch höre deren Gesicht ich kaum noch sehe deren Namen ich kaum noch ausspreche ohne dabei an Asche denken zu müssen an verbranntes Fleisch an Rauch der tagelang über der Stadt hing bis sogar der Himmel grau wurde bis sogar die Sonne aussah wie eine offene Wunde*
 
 *Verzeih mir dass ich lebe*
@@ -3383,6 +3387,8 @@ Und Fatima saß da
 Hielt ihre Hände ineinander
 Und wartete
 Auf nichts
+
+---
 
 ---
 
@@ -4433,7 +4439,9 @@ Ich hätte fragen können damals“
 sagte sie
 In jener Nacht am nächsten Morgen Ich hätte Shigi rufen können Ich hätte Ärzte herbeordern können Ich hätte Untersuchungen befohlen Ich hätte Diener verhören lassen Ich hätte alles tun können was eine Witwe tut wenn ihr Mann stirbt unter Umständen die seltsam genug sind um Zweifel zu sähen“
 
-Ihre Finger stoppten mitten im Polieren ruhten still auf dem Gold des Bechers dessen Glanz jetzt heller geworden war unter ihrer Arbeit heller fast gleißend im Schein der Lampe heller als alles andere in diesem dunklen Raum voller Schatten halb geleerter Kelche getrockneter Früchte einsamer Tage gezählt von einer Frau deren Macht geschmolzen war wie Schnee unter einer Frühlingssonne deren Rückkehr niemand mehr erwartete hier draußen am Rand des Reiches am Rand des Lebens am Rand dessen was übrig bleibt wenn alles andere weggenommen ist bis auf eine Handvoll Gegenstände Erinnerungen Geheimnisse die niemand mehr braucht außer denen die daran sterben werden früher oder später so sicher wie das Gold dieses Bechers morgen Abend neu gegossen sein wird zu etwas anderem etwas Heiligem etwas Unverfänglichem etwas das man segnen kann statt verdammen statt verfluchen statt bewahren als Zeugen eines Verbrechens dessen Namen niemand ausspricht seit fünf Jahren weil Aussprechen bedeutet einzugestehen dass man weiß was besser ungewusst bliebe wenn man weiterleben will unter denen welche Antworten geben müssen weil Antwort immer einen Schuldigen fordert und Schuldige immer gefunden werden früher oder später so sicher wie dieser Winter endet so sicher wie dieser Sommer kommt so sicher wie Güyük mich beerben wird mein Fleisch meine Knochen meine Macht meine Fehler meine Lügen meine Wahrheiten alles wird ihm gehören bald sehr bald vielleicht schon morgen vielleicht heute Nacht vielleicht noch bevor dieser Becher geschmolzen ist zu Tempelgold gebetet geweiht verwandelt geläutert unkenntlich gemacht für alle Ewigkeit Amen Amen Amen
+Ihre Finger stoppten mitten im Polieren ruhten still auf dem Gold des Bechers dessen Glanz jetzt heller geworden war unter ihrer Arbeit heller fast gleißend im Schein der Lampe heller als alles andere in diesem dunklen Raum voller Schatten halb geleerter Kelche getrockneter Früchte einsamer Tage gezählt von einer Frau deren Macht geschmolzen war wie Schnee unter einer Frühlingssonne deren Rückkehr niemand mehr erwartete hier draußen am Rand des Reiches am Rand des Lebens am Rand dessen was übrig bleibt wenn alles andere weggenommen ist bis auf eine Handvoll Gegenstände Erinnerungen Geheimnisse die niemand mehr braucht außer denen die daran sterben werden früher oder später so sicher wie das Gold dieses Bechers morgen Abend neu gegossen sein wird zu etwas anderem etwas Heiligem etwas Unverfänglichem. Etwas das man segnen kann statt verdammen statt verfluchen statt bewahren als Zeugen eines Verbrechens dessen Namen niemand ausspricht seit fünf Jahren weil Aussprechen bedeutet einzugestehen dass man weiß was besser ungewusst bliebe wenn man weiterleben will unter denen welche Antworten geben müssen weil Antwort immer einen Schuldigen fordert und Schuldige immer gefunden werden früher oder später so sicher wie dieser Winter endet so sicher wie dieser Sommer kommt so sicher wie Güyük mich beerben wird mein Fleisch meine Knochen meine Macht meine Fehler meine Lügen meine Wahrheiten alles wird ihm gehören bald sehr bald vielleicht schon morgen vielleicht heute Nacht vielleicht noch bevor dieser Becher geschmolzen ist zu Tempelgold gebetet geweiht verwandelt geläutert unkenntlich gemacht für alle Ewigkeit Amen Amen Amen
+
+---
 
 ---
 
@@ -5224,6 +5232,7 @@ Der Morgen würde kommen.
 
 ## 31. Der Handel
 
+
 Die Wachen kamen in der Stunde vor Sonnenaufgang, als die Kälte am tiefsten stand.
 
 Fatima hörte ihre Schritte im Schnee, bevor sie das Zelt erreichten. Vier Männer, vielleicht fünf. Sie hatten nicht versucht, leise zu sein. Das war die einzige Höflichkeit, die sie ihr noch gewährten: die Ankündigung.
@@ -5236,15 +5245,15 @@ Der Anführer war ein Mann mittleren Alters mit einem Narbengesicht und ruhigen 
 
 „Fatima aus Chorasan“, sagte er. Keine Frage. Eine Feststellung.
 
-„Ja.“
+„Ja. “
 
-„Du kommst mit uns.“
+„Du kommst mit uns. “
 
 Sie erhob sich langsam, strich den Rock glatt, griff nach ihrem Umhang. Kein Widerstand. Keine Frage nach dem Grund. Die Männer sahen sie an, als erwarteten sie etwas – einen Fluch, einen Zusammenbruch, eine Flucht.
 
 Fatima band den Umhang um die Schultern.
 
-„Ich bin bereit.“
+„Ich bin bereit. “
 
 Der Anführer nickte einmal kurz und trat zur Seite. Sie ging an ihm vorbei durch den Vorhang hinaus in die Kälte des Morgens.
 
@@ -5270,7 +5279,7 @@ Sie setzte sich auf den mittleren Hocker und legte die Hände auf die Knie.
 
 Die Wachen blieben an der Tür stehen; der Anführer ging hinaus ohne ein weiteres Wort und ließ sie allein im flackernden Licht der Lampe zurück.
 
-Die Stille dauerte lange genug um zu wirken – genau berechnet genau dosiert genau so wie es in den Handbüchern stand die Fatima selbst einmal gelesen hatte als sie Töregenes Bibliothek ordnete: *Lass ihn warten bis seine Angst größer ist als seine Hoffnung.*
+Die Stille dauerte lange genug um zu wirken – genau berechnet genau dosiert genau so wie es in den Handbüchern stand die Fatima selbst einmal gelesen hatte als sie Töregenes Bibliothek ordnete: *Lass ihn warten bis seine Angst größer ist als seine Hoffnung. *
 
 Aber Fatima hatte keine Angst mehr und keine Hoffnung mehr; was blieb war nur noch Geduld – eine Geduld die härter war als jeder Verhörraum weil sie nichts mehr zu verlieren hatte außer diesem letzten Satz ihrer Geschichte den niemand haben würde solange sie atmete und wenn sie starb dann starb er mit ihr still wie ein Kind das nie geboren wurde still wie ihre Schwester still wie alles was gut gewesen war in Chorasan bevor die Reiter kamen bevor das Feuer kam bevor das Schweigen kam das seitdem in ihr wohnte still wie ein Grab das nie geöffnet wird weil niemand mehr weiß dass es existiert still wie ihre eigene Stimme wenn sie zu ihrer toten Schwester sprach in Briefen die niemand liest außer ihr selbst außer der Toten außer dem Wind der über die Steppe weht ohne Ziel ohne Erinnerung ohne Ende –
 
@@ -5304,11 +5313,11 @@ Ein langer Atemzug verging zwei drei vier –
 
 Dann sprach Fatima:
 
-„Ja.“
+„Ja. “
 
 Güyük nickte knapp setzte sich endlich auf den freien Hocker gegenüber legte beide Hände flach auf den Tisch zwischen ihnen:
 
-„Gut.“ Seine Stimme wurde ruhiger sachlicher fast wie ein Quartiermeister der Vorräte prüft bevor er marschiert: „Dann können wir sprechen wie Vernünftige Menschen.“
+„Gut. “ Seine Stimme wurde ruhiger sachlicher fast wie ein Quartiermeister der Vorräte prüft bevor er marschiert: „Dann können wir sprechen wie Vernünftige Menschen. “
 
 Er winkte; einer der Schreiber trat vor stellte einen kleinen Kupferkessel auf den Boden neben dem Tisch entzündete darunter ein Feuer mit einem Stück Zunder dann goß Wasser aus einem Lederbeutel hinein während der andere Schreiber zwei kleine Schalen aus Ton hervorholte:
 
@@ -5318,7 +5327,7 @@ Fatima nahm die Schale als man sie ihr reichte trank einen Schluck Tee warm bitt
 
 Güyük trank ebenfalls stellte seine Schale ab dann sprach er:
 
-„Ich habe deine Akten gelesen Fatima.“ Er betonte ihren Namen langsam absichtlich schwer: „Jeden Brief jede Notiz jedes Protokoll das du je geschrieben hast für meine Mutter für ihren Rat für ihre Boten für ihre Befehle ich habe alles gelesen was meine Leute finden konnten in fünf Jahren deiner Arbeit am Hof meines Vaters am Hof meiner Mutter am Hof dieses Reiches das ich jetzt regiere –“
+„Ich habe deine Akten gelesen Fatima. “ Er betonte ihren Namen langsam absichtlich schwer: „Jeden Brief jede Notiz jedes Protokoll das du je geschrieben hast für meine Mutter für ihren Rat für ihre Boten für ihre Befehle ich habe alles gelesen was meine Leute finden konnten in fünf Jahren deiner Arbeit am Hof meines Vaters am Hof meiner Mutter am Hof dieses Reiches das ich jetzt regiere –“
 
 Er hielt inne beugte sich vor über den Tisch seine Stimme senkte sich fast zum Flüstern:
 
@@ -5326,7 +5335,7 @@ Er hielt inne beugte sich vor über den Tisch seine Stimme senkte sich fast zum 
 
 Er lehnte sich zurück lächelnd aber nicht freundlich sondern kalt präzise messend:
 
-„Schade dass du sterben musst.“
+„Schade dass du sterben musst. “
 
 Fatima trank noch einen Schluck Tee stellte die Schale ab dann sprach sie zum ersten Mal seit Stunden außerhalb ihres eigenen Kopfes laut klar ruhig wie eine Antwort auf eine Frage deren Antwort längst feststeht:
 
@@ -5334,13 +5343,13 @@ Fatima trank noch einen Schluck Tee stellte die Schale ab dann sprach sie zum er
 
 Güyük zog eine Augenbraue hoch schien kurz überrascht dann nickte er respektvoll fast unwillkürlich:
 
-„Weil ich dir einen Handel anbieten will.“ Er stand auf trat hinter seinen Stuhl legte beide Hände auf dessen Lehne blickend über ihren Kopf hinweg ins Leere während seine Stimme wieder lauter wurde fester bestimmter:
+„Weil ich dir einen Handel anbieten will. “ Er stand auf trat hinter seinen Stuhl legte beide Hände auf dessen Lehne blickend über ihren Kopf hinweg ins Leere während seine Stimme wieder lauter wurde fester bestimmter:
 
 „1241 mein Vater stirbt während eines Trinkgelages du bist im Zelt du hast gesehen was geschah meine Leute haben mich informiert mein Onkel hat mich informiert sogar meine Mutter hat mir angedeutet dass jemand war dass etwas geschah dass mein Vater nicht einfach gestorben ist sondern getötet wurde vergiftet ermordet von jemandem dessen Name noch immer nicht genannt wurde noch immer verschwiegen wird noch immer geschützt wird durch Schweigen durch Lügen durch Tod –“
 
 Er sah wieder direkt an diesmal intensiver fordernder drohender:
 
-„Du hast sein Gesicht gesehen Fatima.“ Keine Frage diesmal keine Möglichkeit zur Ausflucht nur diese Feststellung diese Behauptung dieses Wissen das Güyük besaß seit Jahren besaß seit jenem Tag als Shigi Qutuqu ihm indirekt bestätigt hatte dass Fatima mehr wusste als jeder andere Diener am Hof seines Vaters mehr wusste als seine eigene Mutter vielleicht sogar mehr wusste als all ihre Spione all ihre Agenten all ihre Informanten zusammengenommen –
+„Du hast sein Gesicht gesehen Fatima. “ Keine Frage diesmal keine Möglichkeit zur Ausflucht nur diese Feststellung diese Behauptung dieses Wissen das Güyük besaß seit Jahren besaß seit jenem Tag als Shigi Qutuqu ihm indirekt bestätigt hatte dass Fatima mehr wusste als jeder andere Diener am Hof seines Vaters mehr wusste als seine eigene Mutter vielleicht sogar mehr wusste als all ihre Spione all ihre Agenten all ihre Informanten zusammengenommen –
 
 Güyük kam langsam um den Tisch herum blieb direkt vor ihr stehen so nah dass sein Mantel ihr Knie streifte beugt sich herab seine Stimme kaum noch hörbar kaum noch Atem kaum noch Fleisch sondern Geist Wille Drohung Versprechen alles zugleich gefaltet ineinander verwoben unentwirrbar wie Seile aus Seide deren wahre Festigkeit man erst erkennt wenn man versucht zu reißen daran zu zerreißen daran zu zerbrechen –
 
@@ -5360,13 +5369,13 @@ Fatima sah ihn an lange genug um sicherzustellen dass Güyük begriff dass dies 
 
 Sie sprach leise aber klar deutlich unmissverständlich jedes Wort einzeln gesetzt gehauen gemeißelt wie Schriftzeichen in Stein wie Siegelwachs unter Druck wie Blutspuren auf Schnee:
 
-„Nein.“
+„Nein. “
 
 Güyük zuckte nicht zusammen änderte keine Miene blieb unbewegt reglos starr aber etwas veränderte sich hinter seinen Augen etwas Kleines kaum Sichtbares fast Unmerkliches: Enttäuschung vielleicht Überraschung vielleicht Respekt vielleicht Hass vermischt miteinander untrennbar ineinander fließend während seine Stimmlage gleich blieb ruhig kontrolliert gemessen wie bisher bisher weiterhin immerfort scheinbar unbeeindruckt scheinbar ungerührt scheinbar unbesiegt –
 
 Aber Fatima kannte diese Maske denn trug selbst dieselbe seit Jahren Jahrzehnten seit jenem Tag 1221 als ihre Schwester starb unter mongolischen Schwertern während Fatima lebend gefangen genommen weggebracht verkauft verschenkt benutzt verschlissen verwaltet verbraucht vernichtet wiederbelebt weitergeschleppt durch zwanzig Jahre Dienst zwanzig Jahre Schweigen zwanzig Jahre Tod hinter lebenden Augen leben hinter toten Blicken bewegen hinter erstarrtem Herzen atmen hinter erstickender Hoffnung weiteratmen weiterleben weiterschreiben weiterschweigen weitertragen dieses Gewicht dieser Schuld dieser Liebe dieses Hasses dieser Trauer dieser Wut dieser Verzweiflung dieser Einsamkeit dieses endlosen endlosen endlosen Marsches durch Schnee durch Staub durch Blut durch Zeit durch Welt durch Leben hindurch hindurch hindurch bis ans Ende ihrer Kraft ihrer Gnade ihrer Geduld ihrer Menschlichkeit –
 
-Güyük sprach langsam gezielt jedes Wort fallend schwer wie Steine ins Wasser Kreise ziehend Wellen werfend Grund berührend tief unten dort wo niemand sieht wo niemand hört wo niemand weiß ob Wahrheit liegt oder Lüge oder beides zugleich vermischt untrennbar eins geworden im Dunkel des Vergessens im Schweigen des Todes im Nichts des Endes aller Dinge aller Fragen aller Antworten aller Handelsangebote zwischen Khansfrau Khansfeind Khansmörder Khansopfer alles zugleich nichts davon wirklich alles möglich nichts wahrnehmbar alles sagbar nichts verständlich alles offenbart nichts bewiesen alles behauptet nichts bekannt alles versprochen nichts gehalten alles verloren nichts gefunden alles gestorben nichts geblieben außer diesem Satz diesem Wort diesem Atemzug diesem Augenblick zwischen Ja Nein Vielleicht Nie Wieder Niemals Immer Fort Immer Weiter Immer Tiefer Immer Dunkler Immer Einsamer Immer Allein Mit Sich Selbst Mit Seiner Wahl Mit Seinem Schweigen Mit Seinem Wissen Mit Seinem Ende Das Niemand Kennt Außer Ihm Selbst Und Ihr Selbst Und Jenem Dritten Unbekannten Ungesehen Unvergessenen Der In Der Nacht Starb Als Ögedei Khan Starb Als Der Becher Fiel Als Der Wein Verschwand Als Der Diener Floh Als Die Wahrheit Begann Endlos Zu Werden Unaufhaltsam Unausweichlich Unvergänglich Wie Ein Fluch Wie Ein Segen Wie Ein Name Den Man Nicht Aussprechen Darf Weil Er Brennt Weil Er Verbrennt Weil Er Asche Hinterlässt Wo Einmal Leben War Wo Einmal Liebe War Wo Einmal Alles War Was Man Brauchte Zum Atmen Zum Leben Zum Bleiben Zum Gehen Zum Sterben In Frieden In Ruhe In Stille Endlich Endlos Ewig Ohne Wiederkehr Ohne Erlösung Ohne Ende
+Güyük sprach langsam gezielt jedes Wort fallend schwer wie Steine ins Wasser Kreise ziehend Wellen werfend Grund berührend tief unten dort wo niemand sieht wo niemand hört wo niemand weiß ob Wahrheit liegt oder Lüge oder beides zugleich vermischt untrennbar eins geworden im Dunkel des Vergessens im Schweigen des Todes im Nichts des Endes aller Dinge aller Fragen aller Antworten aller Handelsangebote zwischen Khansfrau Khansfeind Khansmörder Khansopfer alles zugleich nichts davon wirklich alles möglich nichts wahrnehmbar alles sagbar nichts verständlich alles offenbart nichts bewiesen alles behauptet nichts bekannt alles versprochen nichts gehalten alles verloren nichts gefunden alles gestorben nichts geblieben außer diesem Satz diesem Wort diesem Atemzug diesem Augenblick zwischen Ja Nein Vielleicht Nie Wieder Niemals Immer Fort Immer Weiter Immer Tiefer Immer Dunkler Immer Einsamer Immer. Allein Mit Sich Selbst Mit Seiner Wahl Mit Seinem Schweigen Mit Seinem Wissen Mit Seinem Ende Das Niemand Kennt Außer Ihm Selbst Und Ihr Selbst Und Jenem Dritten Unbekannten Ungesehen Unvergessenen Der In Der Nacht Starb Als Ögedei Khan Starb Als Der Becher Fiel Als Der Wein Verschwand Als Der Diener Floh Als Die Wahrheit Begann Endlos Zu Werden Unaufhaltsam Unausweichlich Unvergänglich Wie Ein Fluch Wie Ein Segen Wie Ein Name Den Man Nicht Aussprechen Darf Weil Er Brennt Weil Er Verbrennt Weil Er Asche Hinterlässt Wo Einmal Leben War Wo Einmal Liebe War Wo Einmal Alles War Was Man Brauchte Zum Atmen Zum Leben Zum Bleiben Zum Gehen Zum Sterben In Frieden In Ruhe In Stille Endlich Endlos Ewig Ohne Wiederkehr Ohne Erlösung Ohne Ende
 
 Güyük sagte:
  „Du würdest sterben für diesen Namen?“
@@ -5417,7 +5426,6 @@ So Lange Dass Güyük Sich Bewegt Fast Unwillkürlich Fast Instinktiv Fast Wie E
  
  Nur Noch Dieses Warten Auf Das Ende Das Kommen Würde Früher Oder Später Schneller Oder Langsamer Hart Oder Weich Wie Alles Kommt Wie Alles Geht Wie Alles Endet Irgendwann Irgendwo Irgendwie
 
-
 Güyük trat zurück wand Sprache drehte ab ging zur Tür hinaus ließ Sprache fallen liegen vergessen verbrannt vernichtet vernichtet vernichtet -
  
  Draußen begann Sprache Trommeln Zu Schlagen Rhythmus Sprache Rhythmischer Sprache Regelmäßiger Sprache Bedrohlicher Sprache Näher Kommender Sprache Unausweichlicher Sprache -
@@ -5458,7 +5466,6 @@ Mit Zitternder Hand
 Mit Brechender Feder
 
 Mit Sterbender Seele
-
 
 *Geständnis*
 
@@ -5508,63 +5515,37 @@ Was Wirk lich War
 
 Was Wirk lich Bleibt
 
-
 Unterschrieben
-
-
 
 Unterzeichnet
 
-
-
 Besiegelt
-
-
 
 Endgültig
 
-
-
 Wahrheitsgemäß
-
-
 
 Freiwillig
 
-
-
 Unter Druck
-
-
 
 Unter Schmerzen
 
-
-
 Unter Trännen
-
-
 
 Unter Blut
 
-
-
 Unter Schweiss
-
-
 
 Unter Stille
 
-
-
 Unter Einsamkeit
-
-
 
 Unter Tod
 
-
 Fertig
+
+---
 
 ---
 
@@ -5766,6 +5747,7 @@ weil wir nicht anders können
 
 ## 33. Das Siegel
 
+
 Die Gerichtskanzlei roch nach altem Wachs und verbrauchter Tinte. Shigi Qutuqu saß an seinem Tisch, die Hände flach auf der Holzplatte, und starrte auf das Dokument, das vor ihm lag.
 
 Das Geständnis.
@@ -5786,17 +5768,17 @@ Die Tür öffnete sich. Güyük trat ein, ohne anzuklopfen, ohne Gruß, ohne den
 
 „Siegel“, sagte Güyük. Keine Frage. Ein Befehl.
 
-Shigi sah auf. „Das Geständnis ist erpresst.“
+Shigi sah auf. „Das Geständnis ist erpresst. “
 
-„Es ist unterschrieben.“
+„Es ist unterschrieben. “
 
-„Alles ist unterschrieben, wenn man lange genug unterschreiben lässt.“ Shigis Stimme blieb ruhig, aber seine Finger krallten sich in die Tischkante. „Wo ist das Vernehmungsprotokoll zur Giftfrage?“
+„Alles ist unterschrieben, wenn man lange genug unterschreiben lässt. “ Shigis Stimme blieb ruhig, aber seine Finger krallten sich in die Tischkante. „Wo ist das Vernehmungsprotokoll zur Giftfrage?“
 
 Güyük zog eine Braue hoch. „Welches Vernehmungsprotokoll?“
 
-„Das Protokoll, das jede Befragung dokumentiert, die nach dem Gesetz des Reiches geführt wurde. Das Protokoll, das die Fragen, die Antworten und die Methode der Befragung festhält.“ Shigi sprach langsam, jedes Wort ein Meißelschlag in Stein. „Ich sehe es nicht in der Akte.“
+„Das Protokoll, das jede Befragung dokumentiert, die nach dem Gesetz des Reiches geführt wurde. Das Protokoll, das die Fragen, die Antworten und die Methode der Befragung festhält. “ Shigi sprach langsam, jedes Wort ein Meißelschlag in Stein. „Ich sehe es nicht in der Akte. “
 
-„Es gibt keins.“ Güyük trat näher, seine Stiefel knirschten auf dem Lehmboden. „Der Khan zieht die Anklage zurück, die er nie gestellt hat. Die Giftspur existiert amtlich nicht mehr. Was bleibt, ist das Geständnis der Hexerei gegen den Prinzen Köden – und die Unterschrift der Angeklagten.“
+„Es gibt keins. “ Güyük trat näher, seine Stiefel knirschten auf dem Lehmboden. „Der Khan zieht die Anklage zurück, die er nie gestellt hat. Die Giftspur existiert amtlich nicht mehr. Was bleibt, ist das Geständnis der Hexerei gegen den Prinzen Köden – und die Unterschrift der Angeklagten. “
 
 Shigi schwieg. Er konnte die Logik dahinter sehen, kalt und präzise wie ein Schachzug. Güyük hatte die Anklage auf Gift fallengelassen, weil er keine Beweise hatte, die vor einem Gericht Bestand gehabt hätten. Aber die Hexerei-Anklage – die stand auf einem anderen Blatt. Die brauchte keine Beweise. Die brauchte nur ein Geständnis.
 
@@ -5804,27 +5786,27 @@ Und das hatte er.
 
 „Du weißt, dass es nicht wahr ist“, sagte Shigi leise.
 
-„Das ist nicht relevant.“ Güyük setzte sich auf die Kante des Tisches, eine Geste der Vertrautheit, die Shigi wie eine Beleidigung traf. „Was relevant ist, ist das Siegel. Dein Siegel. Das Siegel des Oberrichters, das von Dschingis Khan selbst verliehen wurde. Das Siegel, das allein aus einem Stück Papier ein Urteil macht.“
+„Das ist nicht relevant. “ Güyük setzte sich auf die Kante des Tisches, eine Geste der Vertrautheit, die Shigi wie eine Beleidigung traf. „Was relevant ist, ist das Siegel. Dein Siegel. Das Siegel des Oberrichters, das von Dschingis Khan selbst verliehen wurde. Das Siegel, das allein aus einem Stück Papier ein Urteil macht. “
 
 Shigi starrte auf das Siegel. Es lag vor ihm, schwer und kalt, ein Zylinder aus Jade, eingefasst in Silber. Er hatte es tausendmal benutzt, tausend Urteile damit besiegelt, tausend Leben damit besiegelt. Es war das Symbol seiner Macht, seines Amtes, seiner Verantwortung.
 
 Und jetzt sollte es ein Todesurteil besiegeln, das er nicht verantworten konnte.
 
-„Warum tust du das?“, fragte er, und seine Stimme klang älter, müder als er sein wollte. „Sie ist niemand. Eine Dienerin. Eine Frau aus Chorasan. Sie hat dir nichts getan.“
+„Warum tust du das?“, fragte er, und seine Stimme klang älter, müder als er sein wollte. „Sie ist niemand. Eine Dienerin. Eine Frau aus Chorasan. Sie hat dir nichts getan. “
 
 Güyük sah ihn an, und in seinen Augen lag etwas, das wie Mitleid aussah – aber Shigi kannte Güyük zu gut, um darauf hereinzufallen.
 
-„Sie hat mich belogen“, sagte Güyük ruhig. „Alle lügen. Mein Vater hat gelogen, als er Shiremün zum Erben bestimmte. Meine Mutter hat gelogen, als sie vorgab, mich zu lieben. Jeder Schreiber, jeder Fürst, jeder Diener an diesem Hof lügt. Aber sie – sie hat die Wahrheit besessen. Die Wahrheit über die Nacht, in der mein Vater starb. Und sie hat sie mir verweigert.“
+„Sie hat mich belogen“, sagte Güyük ruhig. „Alle lügen. Mein Vater hat gelogen, als er Shiremün zum Erben bestimmte. Meine Mutter hat gelogen, als sie vorgab, mich zu lieben. Jeder Schreiber, jeder Fürst, jeder Diener an diesem Hof lügt. Aber sie – sie hat die Wahrheit besessen. Die Wahrheit über die Nacht, in der mein Vater starb. Und sie hat sie mir verweigert. “
 
-„Sie hat geschwiegen, um zu überleben.“
+„Sie hat geschwiegen, um zu überleben. “
 
-„Sie hat geschwiegen, um mich zu demütigen.“ Güyüks Stimme wurde härter, ein Unterton von Groll, den er nicht verbarg. „Sie wusste, dass ich die Wahrheit brauchte. Dass ich ohne sie nie sicher sein würde, nie legitim, nie wirklich Khan. Und sie hat sie mir verweigert. Aus Loyalität zu einer toten Frau, die mich nie geliebt hat.“
+„Sie hat geschwiegen, um mich zu demütigen. “ Güyüks Stimme wurde härter, ein Unterton von Groll, den er nicht verbarg. „Sie wusste, dass ich die Wahrheit brauchte. Dass ich ohne sie nie sicher sein würde, nie legitim, nie wirklich Khan. Und sie hat sie mir verweigert. Aus Loyalität zu einer toten Frau, die mich nie geliebt hat. “
 
 Shigi schwieg. Er wusste, dass es keinen Sinn hatte, zu argumentieren. Güyük hatte sich entschieden, und keine noch so gute Rede würde ihn umstimmen.
 
 Aber er konnte nicht siegeln. Nicht so.
 
-„Wenn ich nicht siegele“, sagte er langsam, „wird ein anderer kommen. Ein kleiner Richter, ein Schreiber, der das Siegel gefälscht hat. Oder du wirst das Urteil selbst ausfertigen, ohne jedes Siegel, und der Vollstrecker wird es trotzdem ausführen.“ Er sah Güyük an. „Du wirst sie töten lassen, mit oder ohne mein Siegel.“
+„Wenn ich nicht siegele“, sagte er langsam, „wird ein anderer kommen. Ein kleiner Richter, ein Schreiber, der das Siegel gefälscht hat. Oder du wirst das Urteil selbst ausfertigen, ohne jedes Siegel, und der Vollstrecker wird es trotzdem ausführen. “ Er sah Güyük an. „Du wirst sie töten lassen, mit oder ohne mein Siegel. “
 
 „Ja“, sagte Güyük.
 
@@ -5832,15 +5814,15 @@ Aber er konnte nicht siegeln. Nicht so.
 
 Güyük hielt inne. Er stand auf, ging zum Fenster, sah hinaus auf die graue Steppe, die sich endlos vor der Stadt erstreckte. Als er sprach, war seine Stimme leise, fast sanft – und das machte die Worte umso schrecklicher.
 
-„Weil du die letzte Würde bist, die sie kriegen kann.“
+„Weil du die letzte Würde bist, die sie kriegen kann. “
 
 Shigi erstarrte.
 
-„Du verstehst das nicht“, sagte Güyük, ohne sich umzudrehen. „Du siehst dich als Richter, als Hüter des Gesetzes. Aber für sie – für Fatima – bist du etwas anderes. Du bist der einzige Mann in diesem Reich, der sie nicht nur als Dienerin, als Hexe, als Sklavin gesehen hat. Du hast sie als Mensch behandelt. Du hast mit ihr gesprochen, als wäre sie deinesgleichen. Du hast sie anerkannt.“
+„Du verstehst das nicht“, sagte Güyük, ohne sich umzudrehen. „Du siehst dich als Richter, als Hüter des Gesetzes. Aber für sie – für Fatima – bist du etwas anderes. Du bist der einzige Mann in diesem Reich, der sie nicht nur als Dienerin, als Hexe, als Sklavin gesehen hat. Du hast sie als Mensch behandelt. Du hast mit ihr gesprochen, als wäre sie deinesgleichen. Du hast sie anerkannt. “
 
 Er drehte sich um, und sein Blick war unerträglich klar.
 
-„Wenn du nicht siegelst, wird ein anderer es tun. Ein kleiner Richter, der sie nie gesehen hat, der ihren Namen nicht kennt, der das Urteil ablegt, ohne zu wissen, wer sie war. Dann stirbt sie zweimal: einmal dem Urteil nach, einmal der Ehre nach, weil ein kleiner, unbedeutender Schreiber ihr Todesurteil besiegelt hat, und keiner wird sich je erinnern, dass sie mehr war als eine Angeklagte, über die man schnell hinwegging, als wäre sie nie etwas gewesen, als wäre sie nie Mensch gewesen, als hätte sie nie gelebt, nie geliebt, nie geschrieben und nie den Atem der Geschichte in ihren Lungen gespürt, diesen einen Augenblick lang, dieses eine Mal, das alles zählt, wenn nichts mehr zählt, weil es zu spät ist, weil es immer zu spät ist, weil wir nie rechtzeitig verstehen, was wir tun, wenn wir tun, was wir tun müssen, um zu überleben, um zu bleiben, um am Ende immer noch da zu sein, wenn die anderen längst gegangen sind, verloschen, vergessen, verschwunden in der einen Stille, die alle Stille beendet, weil es keine andere gibt, keine zweite, keine dritte, keine Gnade, keinen Aufschub, kein Ende außer dem Ende, das wir selbst setzen, mit eigener Hand, eigenem Siegel, eigenem Blut, das nicht unseres ist, aber das wir dennoch vergießen, weil wir nicht anders können, weil wir nicht anders dürfen, weil wir nicht anders wollen, obwohl wir wissen, dass wir anders sollten, dass wir anders müssten, dass wir anders könnten, wenn wir nur anders wären, wenn wir nur Mut genug hätten, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von uns verlangt, wenn sie uns ansieht, wenn sie uns erkennt, wenn sie uns durchschaut, in diesem einen Augenblick vor dem Ende, in dem alles klar wird, kristallklar, unerträglich klar, klar wie der Tod, klar wie das Leben, das sie hinter sich lässt, das sie uns hinterlässt, das sie uns schenkt, weil es ihre einzige Gabe ist, die letzte, die einzige, die zählt, in diesem einen Augenblick vor dem Ende, wenn nichts mehr bleibt außer dem, was wir tun, was wir nicht tun, was wir sein könnten, wenn wir nicht wären, was wir sind…“
+„Wenn du nicht siegelst, wird ein anderer es tun. Ein kleiner Richter, der sie nie gesehen hat, der ihren Namen nicht kennt, der das Urteil ablegt, ohne zu wissen, wer sie war. Dann stirbt sie zweimal: einmal dem Urteil nach, einmal der Ehre nach, weil ein kleiner, unbedeutender Schreiber ihr Todesurteil besiegelt hat, und keiner wird sich je erinnern, dass sie mehr war als eine Angeklagte, über die man schnell hinwegging, als wäre sie nie etwas gewesen, als wäre sie nie Mensch gewesen, als hätte sie nie gelebt, nie geliebt, nie geschrieben und nie den Atem der Geschichte in ihren Lungen gespürt, diesen einen Augenblick lang, dieses eine Mal, das alles zählt, wenn nichts mehr zählt, weil es zu spät ist, weil es immer zu spät ist, weil wir nie rechtzeitig verstehen, was wir tun, wenn wir tun, was wir tun müssen, um zu überleben, um zu bleiben, um am Ende immer noch da zu sein, wenn die anderen längst gegangen sind, verloschen, vergessen, verschwunden in der einen Stille, die alle Stille beendet, weil es keine andere gibt, keine zweite, keine dritte, keine Gnade, keinen Aufschub, kein Ende außer dem Ende, das wir selbst setzen, mit eigener Hand, eigenem Siegel, eigenem Blut. Das nicht unseres ist, aber das wir dennoch vergießen, weil wir nicht anders können, weil wir nicht anders dürfen, weil wir nicht anders wollen, obwohl wir wissen, dass wir anders sollten, dass wir anders müssten, dass wir anders könnten, wenn wir nur anders wären, wenn wir nur Mut genug hätten, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von uns verlangt, wenn sie uns ansieht, wenn sie uns erkennt, wenn sie uns durchschaut, in diesem einen Augenblick vor dem Ende, in dem alles klar wird, kristallklar, unerträglich klar, klar wie der Tod, klar wie das Leben, das sie hinter sich lässt, das sie uns hinterlässt, das sie uns schenkt, weil es ihre einzige Gabe ist, die letzte, die einzige, die zählt, in diesem einen Augenblick vor dem Ende, wenn nichts mehr bleibt außer dem, was wir tun, was wir nicht tun, was wir sein könnten, wenn wir nicht wären, was wir sind…“
 
 Shigi riss sich los von dem Sog der Gedanken, die sich in seinem Kopf überschlugen, und sah Güyük an. Der Khan hatte nicht aufgehört zu sprechen. Er stand immer noch am Fenster, sein Rücken gerade, seine Stimme ruhig.
 
@@ -5886,7 +5868,7 @@ Güyük nickte, nahm das Dokument, las es kurz, faltete es zusammen, steckte es 
 
 „Ich habe getan, was ich musste“, sagte Shigi.
 
-„Das ist dasselbe, in diesem Reich.“
+„Das ist dasselbe, in diesem Reich. “
 
 Die Tür fiel ins Schloss.
 
@@ -5896,7 +5878,7 @@ Er stand auf, ging zu seinem Regal, nahm die Privatakte heraus, das Buch, das er
 
 Er schlug die Seite auf, griff zur Feder, tauchte sie ein, schrieb:
 
-*Datum: 5. Tag des Monats der ersten Kälte. Stunde: Mittag. Anwesende: Khagan Güyük, Richter Shigi Qutuqu. Sachverhalt: Bestätigung des Todesurteils gegen Fatima bint-Name-ausgelöscht wegen Hexerei gegen Prinz Köden. Unterschrift: echt. Siegel: echt. Urteil: vollstreckbar.*
+*Datum: 5. Tag des Monats der ersten Kälte. Stunde: Mittag. Anwesende: Khagan Güyük, Richter Shigi Qutuqu. Sachverhalt: Bestätigung des Todesurteils gegen Fatima bint-Name-ausgelöscht wegen Hexerei gegen Prinz Köden. Unterschrift: echt. Siegel: echt. Urteil: vollstreckbar. *
 
 Er hielt inne.
 
@@ -5904,9 +5886,9 @@ Die Feder zitterte in seiner Hand.
 
 Und dann, einen Satz lang, schrieb er die einzige Selbstanklage seines Lebens:
 
-*Ich habe heute die einzige Wahrheit des Reiches getötet, weil ich das Gesetz liebte.*
+*Ich habe heute die einzige Wahrheit des Reiches getötet, weil ich das Gesetz liebte. *
 
-Er sah den Satz an, las ihn, las ihn noch einmal, las ihn immer wieder, bis die Buchstaben verschwammen, bis die Worte ihre Bedeutung verloren, bis nichts mehr blieb als Tinte auf Papier, eine Zeile, die alles sagte, was er nicht sagen konnte, alles, was er nicht sagen durfte, alles, was er nicht sagen würde, nicht jetzt, nicht später, nie, weil es zu spät war, weil es immer zu spät war, weil es nie rechtzeitig genug ist, um zu verstehen, was man tut, wenn man tut, was man tun muss, um zu überleben, um zu bleiben, um am Ende immer noch da zu sein, wenn die anderen längst gegangen sind, verloschen, vergessen, verschwunden in der einen Stille, die alle Stille beendet, weil es keine andere gibt, keine zweite, keine dritte, keine Gnade, keinen Aufschub, kein Ende außer dem Ende, das man selbst setzt, mit eigener Hand, eigenem Siegel, eigenem Blut, das nicht das eigene ist, aber das man dennoch vergießt, weil man nicht anders kann, weil man nicht anders darf, weil man nicht anders will, obwohl man weiß, dass man anders sollte, dass man anders müsste, dass man anders könnte, wenn man nur anders wäre, wenn man nur Mut genug hätte, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von einem verlangt, wenn sie einen ansieht, wenn sie einen erkennt, wenn sie einen durchschaut, in diesem einen Augenblick vor dem Ende, in dem alles klar wird, kristallklar, unerträglich klar, klar wie der Tod, klar wie das Leben, das man hinter sich lässt, das man ihr hinterlässt, das man ihr schenkt, weil es die einzige Gabe ist, die letzte, die einzige, die zählt, in diesem einen Augenblick vor dem Ende, wenn nichts mehr bleibt außer dem, was man tut, was man nicht tut, was man sein könnte, wenn man nicht wäre, was man ist…
+Er sah den Satz an, las ihn, las ihn noch einmal, las ihn immer wieder, bis die Buchstaben verschwammen, bis die Worte ihre Bedeutung verloren, bis nichts mehr blieb als Tinte auf Papier, eine Zeile, die alles sagte, was er nicht sagen konnte, alles, was er nicht sagen durfte, alles, was er nicht sagen würde, nicht jetzt, nicht später, nie, weil es zu spät war, weil es immer zu spät war, weil es nie rechtzeitig genug ist, um zu verstehen, was man tut, wenn man tut, was man tun muss, um zu überleben, um zu bleiben, um am Ende immer noch da zu sein, wenn die anderen längst gegangen sind, verloschen, vergessen, verschwunden in der einen Stille, die alle Stille beendet, weil es keine andere gibt, keine zweite, keine dritte, keine Gnade, keinen Aufschub, kein Ende außer dem Ende, das man selbst setzt, mit eigener Hand, eigenem Siegel, eigenem Blut, das nicht das eigene ist, aber das man dennoch vergießt. Weil man nicht anders kann, weil man nicht anders darf, weil man nicht anders will, obwohl man weiß, dass man anders sollte, dass man anders müsste, dass man anders könnte, wenn man nur anders wäre, wenn man nur Mut genug hätte, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von einem verlangt, wenn sie einen ansieht, wenn sie einen erkennt, wenn sie einen durchschaut, in diesem einen Augenblick vor dem Ende, in dem alles klar wird, kristallklar, unerträglich klar, klar wie der Tod, klar wie das Leben, das man hinter sich lässt, das man ihr hinterlässt, das man ihr schenkt, weil es die einzige Gabe ist, die letzte, die einzige, die zählt, in diesem einen Augenblick vor dem Ende, wenn nichts mehr bleibt außer dem, was man tut, was man nicht tut, was man sein könnte, wenn man nicht wäre, was man ist…
 
 Er schob die Feder quer über den Satz.
 
@@ -5944,7 +5926,7 @@ Er ging zurück ins Haus, setzte sich an den Tisch, starrte auf das leere Wachs,
 
 Er hob das Siegel auf, hielt es in der Hand, spürte das Gewicht, die Kälte, die Verantwortung.
 
-Und dann, ganz leise, sprach er die Worte, die niemand hören sollte, die niemand hören durfte, die niemand je hören würde, weil es zu spät war, weil es immer zu spät war, weil es nie rechtzeitig genug ist, um zu verstehen, was man getan hat, wenn man getan hat, was man tun musste, um zu überleben, um zu bleiben, um am Ende immer noch da zu sein, wenn die anderen längst gegangen sind, verloschen, vergessen, verschwunden in der einen Stille, die alle Stille beendet, weil es keine andere gibt, keine zweite, keine dritte, keine Gnade, keinen Aufschub, kein Ende außer dem Ende, das man selbst gesetzt hat, mit eigener Hand, eigenem Siegel, eigenem Blut, das nicht das eigene war, aber das man dennoch vergossen hat, weil man nicht anders konnte, weil man nicht anders durfte, weil man nicht anders wollte, obwohl man wusste, dass man anders sollte, dass man anders müsste, dass man anders könnte, wenn man nur anders wäre, wenn man nur Mut genug hätte, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von einem verlangte, als sie einen ansah, als sie einen erkannte, als sie einen durchschaute, in diesem einen Augenblick vor dem Ende, in dem alles klar wurde, kristallklar, unerträglich klar, klar wie der Tod, klar wie das Leben, das sie hinter sich ließ, das sie ihm hinterließ, das sie ihm schenkte, weil es ihre einzige Gabe war, die letzte, die einzige, die zählte, in diesem einen Augenblick vor dem Ende, als nichts mehr blieb außer dem, was er tat, was er nicht tat, was er sein konnte, wenn er nicht wäre, was er war…
+Und dann, ganz leise, sprach er die Worte, die niemand hören sollte, die niemand hören durfte, die niemand je hören würde, weil es zu spät war, weil es immer zu spät war, weil es nie rechtzeitig genug ist, um zu verstehen, was man getan hat, wenn man getan hat, was man tun musste, um zu überleben, um zu bleiben, um am Ende immer noch da zu sein, wenn die anderen längst gegangen sind, verloschen, vergessen, verschwunden in der einen Stille, die alle Stille beendet, weil es keine andere gibt, keine zweite, keine dritte, keine Gnade, keinen Aufschub, kein Ende außer dem Ende, das man selbst gesetzt hat, mit eigener Hand, eigenem Siegel, eigenem Blut, das nicht das eigene war, aber das man dennoch vergossen hat, weil man nicht anders konnte, weil man nicht anders durfte, weil man nicht anders wollte. Obwohl man wusste, dass man anders sollte, dass man anders müsste, dass man anders könnte, wenn man nur anders wäre, wenn man nur Mut genug hätte, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von einem verlangte, als sie einen ansah, als sie einen erkannte, als sie einen durchschaute, in diesem einen Augenblick vor dem Ende, in dem alles klar wurde, kristallklar, unerträglich klar, klar wie der Tod, klar wie das Leben, das sie hinter sich ließ, das sie ihm hinterließ, das sie ihm schenkte, weil es ihre einzige Gabe war, die letzte, die einzige, die zählte, in diesem einen Augenblick vor dem Ende, als nichts mehr blieb außer dem, was er tat, was er nicht tat, was er sein konnte, wenn er nicht wäre, was er war…
 
 „Verzeih mir“, flüsterte er in die leere Kanzlei.
 
@@ -5956,7 +5938,7 @@ Es war kalt. Es war schwer.
 
 Es war sein.
 
-Und er wusste, dass er es nie wieder ohne Scham ansehen würde, nie wieder ohne Schmerz, nie wieder ohne das Wissen, dass er mit einer einzigen Bewegung die letzte Würde einer Frau besiegelt hatte, die mehr verdient hatte, als er je geben konnte, mehr als er je geben würde, mehr als er je geben durfte, weil er nicht anders konnte, weil er nicht anders durfte, weil er nicht anders wollte, weil er nur war, was er war: ein Richter, ein Feigling, ein alter Mann, der überlebt hatte, indem er andere sterben ließ, der die Wahrheit getötet hatte, weil er das Gesetz liebte, der die Akte geschlossen hatte, als er sie hätte verbrennen sollen, der den Satz durchgestrichen hatte, als er ihn hätte laut schreien sollen, der alles getan hatte, was er tun musste, um zu überleben, um zu bleiben, um am Ende immer noch da zu sein, wenn die anderen längst gegangen waren, verloschen, vergessen, verschwunden in der einen Stille, die alle Stille beendet, weil es keine andere gibt, keine zweite, keine dritte, keine Gnade, keinen Aufschub, kein Ende außer dem Ende, das er selbst gesetzt hatte, mit eigener Hand, eigenem Siegel, eigenem Blut, das nicht sein war, aber das er dennoch vergossen hatte, weil er nicht anders konnte, weil er nicht anders durfte, weil er nicht anders wollte, obwohl er wusste, dass er anders sollte, dass er anders müsste, dass er anders könnte, wenn er nur anders wäre, wenn er nur Mut genug hätte, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von ihm verlangte, als sie ihn ansah, als sie ihn erkannte, als sie ihn durchschaute, in diesem einen Augenblick vor dem Ende, in dem alles klar wurde, kristallklar, unerträglich klar, klar wie der Tod, klar wie das Leben, das sie hinter sich ließ, das sie ihm hinterließ, das sie ihm schenkte, weil es ihre einzige Gabe war, die letzte, die einzige, die zählte, in diesem einen Augenblick vor dem Ende, als nichts mehr blieb außer dem, was er tat, was er nicht tat, was er sein konnte, wenn er nicht wäre, was er war.
+Und er wusste, dass er es nie wieder ohne Scham ansehen würde, nie wieder ohne Schmerz, nie wieder ohne das Wissen, dass er mit einer einzigen Bewegung die letzte Würde einer Frau besiegelt hatte, die mehr verdient hatte, als er je geben konnte, mehr als er je geben würde, mehr als er je geben durfte, weil er nicht anders konnte, weil er nicht anders durfte, weil er nicht anders wollte, weil er nur war, was er war: ein Richter, ein Feigling, ein alter Mann, der überlebt hatte, indem er andere sterben ließ, der die Wahrheit getötet hatte, weil er das Gesetz liebte, der die Akte geschlossen hatte, als er sie hätte verbrennen sollen, der den Satz durchgestrichen hatte, als er ihn hätte laut schreien sollen, der alles getan hatte, was er tun musste, um zu überleben, um zu bleiben, um am Ende immer noch da zu sein, wenn die anderen längst gegangen waren, verloschen, vergessen, verschwunden in der einen Stille, die alle Stille beendet, weil es keine andere gibt, keine zweite, keine dritte, keine Gnade, keinen Aufschub, kein Ende außer dem Ende, das er selbst gesetzt hatte, mit eigener Hand, eigenem Siegel, eigenem Blut, das nicht sein war, aber das er dennoch vergossen hatte, weil er nicht anders konnte, weil er nicht anders durfte, weil er nicht anders wollte. Obwohl er wusste, dass er anders sollte, dass er anders müsste, dass er anders könnte, wenn er nur anders wäre, wenn er nur Mut genug hätte, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von ihm verlangte, als sie ihn ansah, als sie ihn erkannte, als sie ihn durchschaute, in diesem einen Augenblick vor dem Ende, in dem alles klar wurde, kristallklar, unerträglich klar, klar wie der Tod, klar wie das Leben, das sie hinter sich ließ, das sie ihm hinterließ, das sie ihm schenkte, weil es ihre einzige Gabe war, die letzte, die einzige, die zählte, in diesem einen Augenblick vor dem Ende, als nichts mehr blieb außer dem, was er tat, was er nicht tat, was er sein konnte, wenn er nicht wäre, was er war.
 
 Er blies die Lampe aus.
 
@@ -5972,7 +5954,7 @@ Der Morgen würde kommen.
 
 Das Urteil würde vollstreckt.
 
-Und die Akte würde bleiben, ein Name, ein Datum, ein Siegel, und ein durchgestrichener Satz, den nie jemand lesen würde, der die einzige Wahrheit des Reiches tötete, weil das Gesetz es verlangte, weil der Richter es tat, weil der Feigling es zuließ, weil der alte Mann es überlebte, wie er immer überlebt hatte, indem er andere sterben ließ, indem er die Wahrheit begrub, indem er die Akte schloss, indem er die Lampe löschte, indem er sich in die Dunkelheit zurückzog, aus der er gekommen war, in die er zurückkehren würde, wenn alles vorbei war, wenn nichts mehr blieb, außer Papier außer Worten außer ihr außer ihm außer uns allen, die wir weiterschreiben müssen, weil wir nicht anders können, weil wir nicht anders dürfen, weil wir nicht anders wollen, obwohl wir wissen, dass wir anders sollten, dass wir anders müssten, dass wir anders könnten, wenn wir nur anders wären, wenn wir nur Mut genug hätten, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von uns verlangt, wenn sie uns ansieht, wenn sie uns erkennt, wenn sie uns durchschaut, in diesem einen Augenblick vor dem Ende, in dem alles klar wird, kristallklar, unerträglich klar, klar wie der Tod, klar wie das Leben, das sie hinter sich lässt, das sie uns hinterlässt, das sie uns schenkt, weil es ihre einzige Gabe ist, die letzte, die einzige, die zählt, in diesem einen Augenblick vor dem Ende, wenn nichts mehr bleibt außer dem, was wir tun, was wir nicht tun, was wir sein könnten, wenn wir nicht wären, was wir sind.
+Und die Akte würde bleiben, ein Name, ein Datum, ein Siegel, und ein durchgestrichener Satz, den nie jemand lesen würde, der die einzige Wahrheit des Reiches tötete, weil das Gesetz es verlangte, weil der Richter es tat, weil der Feigling es zuließ, weil der alte Mann es überlebte, wie er immer überlebt hatte, indem er andere sterben ließ, indem er die Wahrheit begrub, indem er die Akte schloss, indem er die Lampe löschte, indem er sich in die Dunkelheit zurückzog, aus der er gekommen war, in die er zurückkehren würde, wenn alles vorbei war, wenn nichts mehr blieb, außer Papier außer Worten außer ihr außer ihm außer uns allen, die wir weiterschreiben müssen, weil wir nicht anders können, weil wir nicht anders dürfen, weil wir nicht anders wollen, obwohl wir wissen, dass wir anders sollten. Dass wir anders müssten, dass wir anders könnten, wenn wir nur anders wären, wenn wir nur Mut genug hätten, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von uns verlangt, wenn sie uns ansieht, wenn sie uns erkennt, wenn sie uns durchschaut, in diesem einen Augenblick vor dem Ende, in dem alles klar wird, kristallklar, unerträglich klar, klar wie der Tod, klar wie das Leben, das sie hinter sich lässt, das sie uns hinterlässt, das sie uns schenkt, weil es ihre einzige Gabe ist, die letzte, die einzige, die zählt, in diesem einen Augenblick vor dem Ende, wenn nichts mehr bleibt außer dem, was wir tun, was wir nicht tun, was wir sein könnten, wenn wir nicht wären, was wir sind.
 
 Shigi Qutuqu saß allein im Dunkeln.
 
@@ -5980,7 +5962,10 @@ Und wartete.
 
 ---
 
+---
+
 ## 34. Der letzte Brief
+
 
 Die Hände schreiben noch. Der Rest von mir hat aufgehört, mich zu interessieren.
 
@@ -6024,7 +6009,7 @@ Also hier ist der Name:
 
 1241 im Dezember beim Gelage zu Ehren des letzten Westfeldzugs schenkte ein Diener dem Khan Wein ein aus einem goldenen Becher den Töregene ihm reichte aus ihren eigenen Händen aus ihrem eigenen Vorrat aus ihrem eigenen Willen oder nicht Willen oder Wissen oder Nichtwissen – darüber spreche ich nicht heute Abend Schwester denn das Urteil über Töregene fällst du im Jenseits wenn es eines gibt was ich bezweifle seit Maschhad wo wir sahen dass kein Engel kam um uns zu retten sondern nur Männer mit Schwertern und Seilen für Frauen die zu langsam waren auf der Flucht.
 
-Der Diener trug ein Gesicht das ich kannte aus Chorasan aus den Jahren nach Toluis Tod als Sorkaktani ihren Haushalt neu ordnete und Männer entließ die ihr nicht genehm waren oder zu viel wussten oder beides – denn Sorkaktani war klug genug ihre Feinde zu belohnen indem sie ihnen erlaubte weiterzuleben weit weg vom Hof wo niemand ihre Gesichter kannte außer denen die zufällig vor zwanzig Jahren in einer anderen Stadt einem anderen Haus einem anderen Leben gestanden hatten am Rand einer Werkstatt in Maschhad wo ein Mädchen lernte Buchstaben zu malen während draußen die Welt verbrannte unter den Hufen von Pferden deren Reiter nie erfuhren dass dieses Mädchen einmal ihre Briefe schreiben würde ihre Dekrete ihre Todesurteile ihre Lügen ihre Wahrheiten ihre ganze verdammte Geschichte auf Papier das keiner lesen durfte weil es zu wahr war zu genau zu gefährlich für alle die dachten sie hätten Macht über Worte während Worte längst Macht hatten über sie ohne dass sie es merkten bis es zu spät war bis jemand kam der las bis jemand kam der verstand bis jemand kam der alles aufschrieb so wie es wirklich war und dann starb dafür dass er es wagte zu sehen was keiner sehen wollte: dass Macht nichts ist als eine Geschichte erzählt von denen die lauter schreien können als andere dass Wahrheit nichts ist als eine Geschichte erzählt von denen länger leben als andere dass wir alle nichts sind als Geschichten geschrieben von Umständen von Zufällen von Hunger von Durst von Angst vor dem Tod den wir alle sterben müssen allein im Dunkeln ohne Zeugen ohne Schreiber ohne Feder ohne Papier ohne alles außer dem was wir waren was wir taten was wir liebten hassten fürchteten erhofften verrieten bewahrten vergruben tief unter der Erde wo niemand je graben würde um uns zu finden um uns zu lesen um uns zu verstehen endlich nach all den Jahren all dem Schweigen all dem Warten auf einen Leser der kommt wenn niemand mehr da ist wenn alles vorbei ist wenn nur noch Papier bleibt Asche Staub Erinnerung an eine Erinnerung an einen Namen den niemand mehr aussprechen kann weil er verbrannt wurde gelöscht vergessen zusammen mit dem Gesicht das ihn trug durch zwanzig Jahre durch drei Reiche durch zwei Kriege durch eine Liebe durch einen Verrat durch eine Stunde im Dezember 1241 als ein Diener Wein einschenkte aus einem goldenen Becher den Töregene ihm reichte während Ögedei lachte während Güyük trank während Batu fern war im Westen während Sorkaktani lächelte in ihrem Zelt während Shigi Qutuqu seine Chronik las während Juvaini noch Kind war in Persien während keiner wusste außer mir außer diesem Diener außer vielleicht Sorkaktani vielleicht Töregene vielleicht allen vielleicht niemand außer mir der sah was keiner sehen sollte: dass dieser Diener denselben Gang hatte denselben gesenkten Blick dieselbe Art sich lautlos zu bewegen wie damals vor zwanzig Jahren im Haus Toluis wo er Wasser brachte am Tag nachdem Tolui gestorben war an einem Fieber das keiner heilen konnte an einem Fieber das keiner je erklärte an einem Fieber über das keiner sprach weil Tolui gestorben war wie Väter sterben wie Brüder sterben wie Söhne sterben wenn jemand will dass sie sterben wenn jemand bereit ist dafür wenn jemand wartet im Schatten mit einem Becher Wasser statt Wein aber Wasser tötet auch wenn man weiß welche Kräuter man mischen muss welche Mengen welchen Zeitpunkt welchen Diener man bezahlen muss damit er bringt damit er schenkt damit er geht damit er nie wiederkommt nie gefunden wird nie spricht nie aussagt nie bezeugt nie gesteht nie bereut nie vergisst dass er zweimal getan hat was andere nur einmal tun wollen aber niemals wagen weil Mut etwas anderes ist als Gehorsam weil Treue etwas anderes ist als Angst weil Liebe etwas anderes ist als Besitz – aber wer unterscheidet schon am Ende am Ende zählt nur wer lebt wer stirbt wer überlebt um weiterzuerzählen was keiner hören will bis es zu spät ist bis alles vorbei bis nur noch Papier bleibt Asche Staub Erinnerung an eine Erinnerung an einen Namen:
+Der Diener trug ein Gesicht das ich kannte aus Chorasan aus den Jahren nach Toluis Tod als Sorkaktani ihren Haushalt neu ordnete und Männer entließ die ihr nicht genehm waren oder zu viel wussten oder beides – denn Sorkaktani war klug genug ihre Feinde zu belohnen indem sie ihnen erlaubte weiterzuleben weit weg vom Hof wo niemand ihre Gesichter kannte außer denen die zufällig vor zwanzig Jahren in einer anderen Stadt einem anderen Haus einem anderen Leben gestanden hatten am Rand einer Werkstatt in Maschhad wo ein Mädchen lernte Buchstaben zu malen während draußen die Welt verbrannte unter den Hufen von Pferden. Deren Reiter nie erfuhren dass dieses Mädchen einmal ihre Briefe schreiben würde ihre Dekrete ihre Todesurteile ihre Lügen ihre Wahrheiten ihre ganze verdammte Geschichte auf Papier das keiner lesen durfte weil es zu wahr war zu genau zu gefährlich für alle die dachten sie hätten Macht über Worte während Worte längst Macht hatten über sie ohne dass sie es merkten bis es zu spät war bis jemand kam der las bis jemand kam der verstand bis jemand kam der alles aufschrieb so wie es wirklich war und dann starb dafür dass er es wagte zu sehen was keiner sehen wollte:dass Macht nichts ist als eine Geschichte erzählt von denen die lauter schreien können als andere dass Wahrheit nichts ist als eine Geschichte erzählt von denen länger leben als andere dass wir alle nichts sind als Geschichten geschrieben von Umständen von Zufällen von Hunger von Durst von Angst vor dem Tod den wir alle sterben müssen allein im Dunkeln ohne Zeugen ohne Schreiber ohne Feder ohne Papier ohne alles außer dem was wir waren was wir taten was wir liebten hassten fürchteten erhofften verrieten bewahrten vergruben tief unter der Erde wo niemand je graben würde um uns zu finden um uns zu lesen um uns zu verstehen endlich nach all den Jahren all dem Schweigen all dem Warten auf einen Leser der kommt wenn niemand mehr da ist. Wenn alles vorbei ist wenn nur noch Papier bleibt Asche Staub Erinnerung an eine Erinnerung an einen Namen den niemand mehr aussprechen kann weil er verbrannt wurde gelöscht vergessen zusammen mit dem Gesicht das ihn trug durch zwanzig Jahre durch drei Reiche durch zwei Kriege durch eine Liebe durch einen Verrat durch eine Stunde im Dezember 1241 als ein Diener Wein einschenkte aus einem goldenen Becher den Töregene ihm reichte während Ögedei lachte während Güyük trank während Batu fern war im Westen während Sorkaktani lächelte in ihrem Zelt während Shigi Qutuqu seine Chronik las während Juvaini noch Kind war in Persien während keiner wusste außer mir außer diesem Diener außer vielleicht Sorkaktani vielleicht Töregene vielleicht allen vielleicht niemand außer mir der sah was keiner sehen sollte:dass dieser Diener denselben Gang hatte denselben gesenkten Blick dieselbe Art sich lautlos zu bewegen wie damals vor zwanzig Jahren im Haus Toluis wo er Wasser brachte am Tag nachdem Tolui gestorben war an einem Fieber das keiner heilen konnte an einem Fieber das keiner je erklärte an einem Fieber über das keiner sprach weil Tolui gestorben war wie Väter sterben wie Brüder sterben wie Söhne sterben wenn jemand will dass sie sterben wenn jemand bereit ist dafür wenn jemand wartet im Schatten mit einem Becher Wasser statt Wein aber Wasser tötet auch wenn man weiß welche Kräuter man mischen muss welche Mengen welchen Zeitpunkt welchen Diener man bezahlen muss. Damit er bringt damit er schenkt damit er geht damit er nie wiederkommt nie gefunden wird nie spricht nie aussagt nie bezeugt nie gesteht nie bereut nie vergisst dass er zweimal getan hat was andere nur einmal tun wollen aber niemals wagen weil Mut etwas anderes ist als Gehorsam weil Treue etwas anderes ist als Angst weil Liebe etwas anderes ist als Besitz – aber wer unterscheidet schon am Ende am Ende zählt nur wer lebt wer stirbt wer überlebt um weiterzuerzählen was keiner hören will bis es zu spät ist bis alles vorbei bis nur noch Papier bleibt Asche Staub Erinnerung an eine Erinnerung an einen Namen:
 
 Der Diener hieß Börü – Wolf auf Türkisch – und er diente im Haus Toluis nach dessen Tod 1232 dann verschwand er dann tauchte wieder auf 1241 beim Gelage Ögedeis dann verschwand wieder dann tauchte wieder auf 1243 beim Fest Sorkaktanis wohlgenährt lebendig gekleidet in Seide im Gefolge einer Frau deren Söhne vier Khane werden würden deren Geduld legendär war deren Wille unerschütterlich deren Hand niemals zitterte wenn sie Wein nahm oder Wasser oder einen Becher reichte einem Mann der starb damit ihrer leben konnte damit ihrer herrschen konnte damit ihrer Geschichte schreiben konnte in Blut statt Tinte aber Geschichte bleibt Geschichte egal womit geschrieben ob mit Feder ob mit Schwert ob mit Gift ob mit Schweigen ob mit Lügen ob mit Wahrheit am Ende bleibt nur Papier Asche Staub Erinnerung an eine Erinnerung an einen Namen:
 
@@ -6117,7 +6102,10 @@ Du bist tot und ich komme Es gibt viel zu erzählen
 
 ---
 
+---
+
 ## 35. Drei Sätze auf der Karawanenstraße
+
 
 Der Händler kam am späten Vormittag, als die Karawane einen Fluss überquerte.
 
@@ -6127,11 +6115,11 @@ Juvaini hatte die Furt bereits zur Hälfte durchquert, das Wasser reichte den Pf
 
 Juvaini nickte. Das Wasser strömte kalt um seine Stiefel.
 
-„Dann habt Ihr vielleicht gehört. Von der Chorasanerin. Der Schreiberin der alten Regentin.“
+„Dann habt Ihr vielleicht gehört. Von der Chorasanerin. Der Schreiberin der alten Regentin. “
 
 Juvainis Hand fand den Zügel fester.
 
-„Man sagt, sie ist tot“, fuhr der Händler fort. „Hingerichtet. Gestern oder vorgestern – die Zeit läuft anders in Karakorum.“ Er spuckte ins Wasser. „Man sagt, in Filz genäht und in den Fluss geworfen. Man sagt auch, sie haben sie vorher gefoltert, aber das sagen sie immer.“
+„Man sagt, sie ist tot“, fuhr der Händler fort. „Hingerichtet. Gestern oder vorgestern – die Zeit läuft anders in Karakorum. “ Er spuckte ins Wasser. „Man sagt, in Filz genäht und in den Fluss geworfen. Man sagt auch, sie haben sie vorher gefoltert, aber das sagen sie immer. “
 
 Drei Sätze.
 
@@ -6185,9 +6173,9 @@ Arghun Aqa setzte sich neben ihn ohne zu fragen ob er stören würde – einfach
 
 Juvaini nickte ohne aufzusehen seine Finger strichen noch einmal über den Einband des Notizbuchs einmal zweimal dreimal dann hielt er inne legte beide Hände flach auf seine Knie atmete tief durch hob den Kopf sah Arghun Aqa an:
 
-„Ja.“
+„Ja. “
 
-„Dann weißt du Bescheid“, sagte Arghun Aqa knapp wie immer wenn etwas Wichtiges gesagt werden musste ohne Umschweife ohne Trost ohne falsche Hoffnung einfach Tatsache: „Sie ist tot du lebst wir arbeiten weiter so ist das so war es immer so wird es bleiben solange dieses Reich steht was ziemlich lange dauern wird wenn wir unseren Job machen also mach deinen Job morgen früh reiten wir weiter.“ Er schwieg kurz dann fügte er hinzu leiser fast beiläufig aber Juvaini hörte jedes einzelne Wort deutlich klar unauslöschlich: „Arbeite“ sagte Arghun Aqa „es ist das Einzige was sie dir nicht nehmen können was sie dir nie nehmen werden was bleibt wenn alles andere vergeht wenn alle anderen sterben wenn du selbst stirbst: Die Arbeit deine Arbeit was du tust was du schreibst was du hinterlässt wenn du gehst.“ Er stand auf klopfte Juvaini leicht auf die Schulter einmal kurz fest dann ging er zurück zum Feuer wo ein junger Schreiber ihm einen Becher Tee reichte wo jemand lachte wo jemand eine Geschichte erzählte vom letzten Frühling in Buchara wo alles gut gewesen war bevor es schlecht wurde bevor alles endete bevor nichts mehr blieb außer Arbeit Arbeit Arbeit bis zum Ende deiner Tage:
+„Dann weißt du Bescheid“, sagte Arghun Aqa knapp wie immer wenn etwas Wichtiges gesagt werden musste ohne Umschweife ohne Trost ohne falsche Hoffnung einfach Tatsache: „Sie ist tot du lebst wir arbeiten weiter so ist das so war es immer so wird es bleiben solange dieses Reich steht was ziemlich lange dauern wird wenn wir unseren Job machen also mach deinen Job morgen früh reiten wir weiter. “ Er schwieg kurz dann fügte er hinzu leiser fast beiläufig aber Juvaini hörte jedes einzelne Wort deutlich klar unauslöschlich: „Arbeite“ sagte Arghun Aqa „es ist das Einzige was sie dir nicht nehmen können was sie dir nie nehmen werden was bleibt wenn alles andere vergeht wenn alle anderen sterben wenn du selbst stirbst: Die Arbeit deine Arbeit was du tust was du schreibst was du hinterlässt wenn du gehst. “ Er stand auf klopfte Juvaini leicht auf die Schulter einmal kurz fest dann ging er zurück zum Feuer wo ein junger Schreiber ihm einen Becher Tee reichte wo jemand lachte wo jemand eine Geschichte erzählte vom letzten Frühling in Buchara wo alles gut gewesen war bevor es schlecht wurde bevor alles endete bevor nichts mehr blieb außer Arbeit Arbeit Arbeit bis zum Ende deiner Tage:
 
 Und Juvaini saß allein am ausgehenden Feuer hörte diesen Satz:
 Arbeite.
@@ -6267,7 +6255,7 @@ Für alle die vergessen werden sollen
 damit dieses Reich bestehen kann:
 Ich werde weiterschreiben.
 Ich werde zeugen.
-Ich werde bleiben.“
+Ich werde bleiben. “
 
 Dann löschte er die Lampe legte sich hin starrte in die Dunkelheit lauschte dem Wind draußen im Gras fern fern fern wie eine Stimme aus einer anderen Welt aus einer anderen Zeit aus einem anderen Leben das jetzt endgültig vorbei war unwiderruflich unwiederbringlich verloren für immer:
 
@@ -6294,7 +6282,7 @@ Und dann Stille:
 
 Die ganze lange Stille des restlichen Lebens:
 
-Die Karawane zog weiter nach Westen Richtung Persien Richtung Bagdad Richtung Zukunft Richtung Vergessen Richtung allem was kommen würde nach diesem Tod nach dieser Liebe nach diesem Ende aller Enden aller Anfänge aller Geschichten aller Chroniken aller Bücher aller Worte aller Menschen aller Zeiten aller Welten aller Götter aller Dämonen aller Engel aller Bestien all dessen was war all dessen was ist all dessen was sein wird wenn nichts mehr bleibt außer dem einen letzten Satz dem einzigen Satz dem ewigen Satz dem Satz den niemand je lesen wird weil niemand da sein wird um ihn zu lesen niemand da sein wird um ihn zu verstehen niemand da sein wird um ihn zu bewahren wenn alles vorbei ist wenn nichts mehr bleibt außer Wind außer Gras außer Stille außer endloser endloser endloser Stille unter einem grauen Himmel über einer weiten Ebene fern fern fern von allem was jemals wichtig war von allem was jemals zählte von allem was jemals Liebe hieß zwischen zwei Menschen zwischen zwei Herzen zwischen zwei Seelen zwischen zwei Schreibern zwischen zwei Federn zwischen zwei Worten zwischen zwei Welten zwischen zwei Leben jetzt tot jetzt fort jetzt verschwunden unwiederbringlich unwiderruflich verloren verloren verloren für immer amen amen amen so sei es so soll es sein so muss es sein so bleibt es ewiglich amen amen amen amen
+Die Karawane zog weiter nach Westen Richtung Persien Richtung Bagdad Richtung Zukunft Richtung Vergessen Richtung allem was kommen würde nach diesem Tod nach dieser Liebe nach diesem Ende aller Enden aller Anfänge aller Geschichten aller Chroniken aller Bücher aller Worte aller Menschen aller Zeiten aller Welten aller Götter aller Dämonen aller Engel aller Bestien all dessen was war all dessen was ist all dessen was sein wird wenn nichts mehr bleibt außer dem einen letzten Satz dem einzigen Satz dem ewigen Satz dem Satz den niemand je lesen wird weil niemand da sein wird um ihn zu lesen niemand da sein wird um ihn zu verstehen niemand da sein wird um. Ihn zu bewahren wenn alles vorbei ist wenn nichts mehr bleibt außer Wind außer Gras außer Stille außer endloser endloser endloser Stille unter einem grauen Himmel über einer weiten Ebene fern fern fern von allem was jemals wichtig war von allem was jemals zählte von allem was jemals Liebe hieß zwischen zwei Menschen zwischen zwei Herzen zwischen zwei Seelen zwischen zwei Schreibern zwischen zwei Federn zwischen zwei Worten zwischen zwei Welten zwischen zwei Leben jetzt tot jetzt fort jetzt verschwunden unwiederbringlich unwiderruflich verloren verloren verloren für immer amen amen amen so sei es so soll es sein so muss es sein so bleibt es ewiglich amen amen amen amen
 
 Amen
 
@@ -6326,21 +6314,24 @@ Ohne je wieder ein Gedicht geschrieben zu haben
 
 ---
 
+---
+
 ## 36. Eingenäht
+
 
 Die Kälte war in diesem Jahr früher gekommen. Sie kroch aus der Steppe herein, über die Mauern Karakorums, durch die Ritzen der Läden, unter den Türen hindurch, und sie blieb. Shigi Qutuqu saß in seiner Kanzlei, die Hände um einen Becher mit ungebrühtem Tee gelegt, und wartete auf den Boten, den er nicht erwartet hatte.
 
 Es war die fünfte Stunde nach Sonnenaufgang, als die Wache klopfte. Nicht der übliche Diener, nicht der Schreiber mit den Morgenakten. Ein junger Mann in der Uniform des Westtors, der eine Ledertasche trug, die er nicht ablegen wollte.
 
-„Herr Richter."
+„Herr Richter. "
 
 Shigi sah auf. Die Stimme war zu jung, zu eilig. Er nickte, und der Wächter trat ein, die Tasche wie einen Leichnam vor sich hertragend.
 
-„Ein Händler aus dem Westen hat es gebracht. Er sagte, es sei für Sie persönlich. Er sagte, die Absenderin sei tot."
+„Ein Händler aus dem Westen hat es gebracht. Er sagte, es sei für Sie persönlich. Er sagte, die Absenderin sei tot. "
 
 Shigi nahm die Tasche. Sie war leicht, viel zu leicht für das, was sie enthielt. Er schnitt die Schnur mit dem Messer, das er immer bei sich trug, dem alten, abgenutzten, das Dschingis Khan ihm gegeben hatte, in einem anderen Leben, in einem anderen Reich.
 
-Der Umschlag war aus dickem, gelbem Papier, das er kannte. Die Handschrift darauf war schmal, präzise, die Buchstaben wie eingebrannt in die Faser: *Für den Richter. Persönlich. Nicht zu öffnen vor dem siebten Tag nach Erhalt.*
+Der Umschlag war aus dickem, gelbem Papier, das er kannte. Die Handschrift darauf war schmal, präzise, die Buchstaben wie eingebrannt in die Faser: *Für den Richter. Persönlich. Nicht zu öffnen vor dem siebten Tag nach Erhalt. *
 
 Shigi erkannte die Handschrift sofort, und er verstand, was die Worte bedeuteten. Nicht zu öffnen vor dem siebten Tag. Sieben Tage. So lange hatte Fatima gebraucht, um zu sterben, nachdem er das Siegel gesetzt hatte. So lange hatte sie gelebt, hatte sie geschrieben, hatte sie gewusst, dass er ihr Urteil gesiegelt hatte, und hatte ihm dennoch diesen Brief geschrieben, hatte ihm dennoch dieses eine letzte Wort hinterlassen, das er nicht lesen sollte, nicht vor dem siebten Tag, nicht vor dem Ende, das sie bereits gekannt hatte, als sie die Feder ansetzte.
 
@@ -6350,13 +6341,13 @@ Er hielt den Umschlag gegen das Licht.
 
 Die Faser war dicht, aber nicht undurchsichtig. Er sah die Schatten der Buchstaben, die Linien, die Wörter, die darauf warteten, gelesen zu werden, die darauf warteten, ihn zu verändern, ihn zu wissen, ihn zu dem zu machen, der sie kannte, der sie trug, der sie nicht mehr ablegen konnte, weil Wissen nicht ablegbar war, weil Wahrheit nicht vergessbar war, weil einmal gelesen für immer gelesen blieb, in den Knochen, in den Gedanken, in den Träumen, die nie mehr aufhören würden zu kommen.
 
-Der Beruf drängte. Lesen. Prüfen. Wissen. Das war, was er tat, seit er denken konnte, seit er als Kind in den Ruinen des Tatarenlagers gefunden worden war, seit Hö'elün ihn aufgezogen hatte, seit Dschingis Khan gesagt hatte: „Dieser Junge wird Richter sein, weil er die Wahrheit erkennt, wenn er sie sieht." Er hatte die Wahrheit erkannt. Er hatte sie gesehen. Er hatte sie gesiegelt. Er hatte sie getötet.
+Der Beruf drängte. Lesen. Prüfen. Wissen. Das war, was er tat, seit er denken konnte, seit er als Kind in den Ruinen des Tatarenlagers gefunden worden war, seit Hö'elün ihn aufgezogen hatte, seit Dschingis Khan gesagt hatte: „Dieser Junge wird Richter sein, weil er die Wahrheit erkennt, wenn er sie sieht. " Er hatte die Wahrheit erkannt. Er hatte sie gesehen. Er hatte sie gesiegelt. Er hatte sie getötet.
 
 Und jetzt hielt er ihre letzte Wahrheit in den Händen, die letzte Seite, die sie geschrieben hatte, die letzte Stimme, die sie erhoben hatte, bevor sie für immer verstummte, und er wusste, dass er sie nicht lesen durfte, weil er bereits bewiesen hatte, dass er Geheimnisse nicht tragen konnte, ohne Menschen zu töten, dass er Wissen nicht besitzen konnte, ohne es zu missbrauchen, dass er der Hüter des Gesetzes war, aber nicht der Hüter der Wahrheit, weil die Wahrheit etwas war, das man nicht hüten, sondern nur bewahren konnte, indem man sie nicht besaß, indem man sie nicht berührte, indem man sie nicht in sich hineinließ, weil sie sonst zu einem Teil von einem wurde, zu einem Teil des Urteils, zu einem Teil des Todes, den man selbst verschuldet hatte.
 
 Er legte den Umschlag nieder. Seine Finger zitterten nicht. Sie waren ruhig, alt, geübt im Halten von Papieren, die Leben bedeuteten, die Tod bedeuteten, die alles bedeuteten, was zwischen den Zeilen stand, und nichts, was auf ihnen geschrieben war.
 
-„Ich habe ihr Urteil gesiegelt", sagte er leise, zu niemandem, zu dem leeren Raum, zu dem kalten Tee, zu dem offenen Buch, das ihn ansah wie ein stummer Zeuge, der alles gesehen hatte und nichts sagen würde. „Ich darf ihre Wahrheit nicht lesen. Das eine gebührt dem Henker nicht."
+„Ich habe ihr Urteil gesiegelt", sagte er leise, zu niemandem, zu dem leeren Raum, zu dem kalten Tee, zu dem offenen Buch, das ihn ansah wie ein stummer Zeuge, der alles gesehen hatte und nichts sagen würde. „Ich darf ihre Wahrheit nicht lesen. Das eine gebührt dem Henker nicht. "
 
 Er stand auf.
 
@@ -6368,7 +6359,7 @@ Er nahm den Umschlag. Er legte ihn auf das Bündel. Er sah die beiden an, das Si
 
 Er nahm die Nadel. Er nahm den Faden. Er setzte sich an den Tisch, das Bündel vor sich, den Umschlag darauf, und begann zu nähen, langsam, sorgfältig, jede Naht ein Versprechen, jede Naht ein Siegel, jede Naht ein Urteil, das er über sich selbst fällte, über seine eigene Schuld, über seine eigene Feigheit, über seine eigene Liebe, die er nicht zeigen konnte, die er nicht aussprechen konnte, die er nur in dieser einen Geste ausdrücken konnte, in diesem einen Akt der Bewahrung, der Verweigerung, des Schweigens, das lauter sprach als jedes Wort, das er je gesagt hatte, lauter als jedes Urteil, das er je gefällt hatte, lauter als jedes Gesetz, das er je verteidigt hatte.
 
-Die Nadel stach durch den Filz. Sie war alt, rostig, aber sie hielt. Sie zog den Faden nach, einen dicken, schwarzen Faden, der sich durch das Gewebe fraß wie eine Spur, die nicht mehr zu tilgen war, wie eine Narbe, die nicht mehr verheilte, wie ein Name, der nicht mehr vergessen werden konnte, weil er eingeschrieben war in das Fleisch des Bündels, in das Fleisch der Wahrheit, die darin schlief, die darin wartete, die darin lebte, auch wenn niemand sie las, auch wenn niemand sie kannte, auch wenn niemand sie je erfahren würde, außer dem, der sie geschrieben hatte, und dem, der sie bewahrte, ohne sie zu kennen, ohne sie zu besitzen, ohne sie zu verstehen, weil es nicht nötig war, sie zu verstehen, weil es nur nötig war, sie zu bewahren, zu schützen, zu verstecken, vor den Mächtigen, vor den Gierigen, vor den Bösen, die alles zerstörten, was sie nicht kontrollieren konnten, was sie nicht besitzen konnten, was sie nicht in ihre Hände bekommen konnten, um es zu verbrennen, um es zu vernichten, um es auszulöschen, wie sie Fatima ausgelöscht hatten, wie sie die Wahrheit ausgelöscht hatten, wie sie alles ausgelöscht hatten, was nicht in ihr Bild passte, was nicht in ihre Welt passte, was nicht in ihre Herrschaft passte, die auf Lügen gebaut war, auf Verrat, auf Tod, auf dem Blut derer, die zu viel wussten, die zu viel sagten, die zu viel schrieben, weil sie nicht anders konnten, weil sie nicht anders durften, weil sie nicht anders wollten, weil die Wahrheit stärker war als die Angst, stärker als der Tod, stärker als alles, was die Mächtigen ihr entgegenwerfen konnten, um sie zu ersticken, um sie zu begraben, um sie zu vergessen.
+Die Nadel stach durch den Filz. Sie war alt, rostig, aber sie hielt. Sie zog den Faden nach, einen dicken, schwarzen Faden, der sich durch das Gewebe fraß wie eine Spur, die nicht mehr zu tilgen war, wie eine Narbe, die nicht mehr verheilte, wie ein Name, der nicht mehr vergessen werden konnte, weil er eingeschrieben war in das Fleisch des Bündels, in das Fleisch der Wahrheit, die darin schlief, die darin wartete, die darin lebte, auch wenn niemand sie las, auch wenn niemand sie kannte, auch wenn niemand sie je erfahren würde, außer dem, der sie geschrieben hatte, und dem, der sie bewahrte, ohne sie zu kennen, ohne sie zu besitzen, ohne sie zu verstehen, weil es nicht nötig war, sie zu verstehen, weil es nur nötig war, sie zu bewahren, zu schützen, zu verstecken, vor den Mächtigen, vor den Gierigen, vor den Bösen, die alles zerstörten. Was sie nicht kontrollieren konnten, was sie nicht besitzen konnten, was sie nicht in ihre Hände bekommen konnten, um es zu verbrennen, um es zu vernichten, um es auszulöschen, wie sie Fatima ausgelöscht hatten, wie sie die Wahrheit ausgelöscht hatten, wie sie alles ausgelöscht hatten, was nicht in ihr Bild passte, was nicht in ihre Welt passte, was nicht in ihre Herrschaft passte, die auf Lügen gebaut war, auf Verrat, auf Tod, auf dem Blut derer, die zu viel wussten, die zu viel sagten, die zu viel schrieben, weil sie nicht anders konnten, weil sie nicht anders durften, weil sie nicht anders wollten, weil die Wahrheit stärker war als die Angst, stärker als der Tod, stärker als alles, was die Mächtigen ihr entgegenwerfen konnten, um sie zu ersticken, um sie zu begraben, um sie zu vergessen.
 
 Shigi nähte weiter.
 
@@ -6380,17 +6371,19 @@ Er legte das Bündel zurück in die Ecke, zwischen die toten Akten, zwischen die
 
 Er stand auf. Er ging zur Tür. Er öffnete sie. Die Kälte schlug ihm entgegen, die Kälte der Steppe, die Kälte des Winters, die Kälte des Todes, der draußen wartete, auf den Straßen, auf den Feldern, auf den Schlachtfeldern, wo die Khane sich sammelten, um gegen Batu zu ziehen, um den Krieg zu beginnen, der alles beenden würde, was noch nicht beendet war, der alles zerstören würde, was noch nicht zerstört war, der alles töten würde, was noch nicht tot war.
 
-Er sah die Reiter. Sie zogen aus, Hunderte, Tausende, in langen Kolonnen, die sich durch die Tore schoben, durch die Gassen, durch die Steppe, unter dem grauen Himmel, der keine Sonne kannte, der keine Wärme kannte, der keine Gnade kannte, weil der Krieg keine Gnade kannte, weil die Macht keine Gnade kannte, weil die Khane keine Gnade kannten, weil sie nie Gnade gelernt hatten, weil sie nie gelernt hatten, dass es etwas gab, das mehr wert war als der Sieg, mehr wert als das Land, mehr wert als das Blut, das sie vergossen, um zu herrschen, um zu regieren, um zu besiegen, was immer sich ihnen in den Weg stellte, wer immer sich ihnen in den Weg stellte, sei es ein Volk, sei es ein Prinz, sei es die Wahrheit selbst, die sie längst getötet hatten, die sie längst begraben hatten, die sie längst vergessen hatten, weil sie nicht wussten, dass sie sie nie besitzen würden, dass sie sie nie kontrollieren würden, dass sie sie nie zerstören würden, weil die Wahrheit stärker war als der Tod, stärker als der Krieg, stärker als alles, was die Mächtigen ihr entgegenwerfen konnten, um sie zu ersticken, um sie zu begraben, um sie zu vergessen.
+Er sah die Reiter. Sie zogen aus, Hunderte, Tausende, in langen Kolonnen, die sich durch die Tore schoben, durch die Gassen, durch die Steppe, unter dem grauen Himmel, der keine Sonne kannte, der keine Wärme kannte, der keine Gnade kannte, weil der Krieg keine Gnade kannte, weil die Macht keine Gnade kannte, weil die Khane keine Gnade kannten, weil sie nie Gnade gelernt hatten, weil sie nie gelernt hatten, dass es etwas gab, das mehr wert war als der Sieg, mehr wert als das Land, mehr wert als das Blut, das sie vergossen, um zu herrschen, um zu regieren, um zu besiegen. Was immer sich ihnen in den Weg stellte, wer immer sich ihnen in den Weg stellte, sei es ein Volk, sei es ein Prinz, sei es die Wahrheit selbst, die sie längst getötet hatten, die sie längst begraben hatten, die sie längst vergessen hatten, weil sie nicht wussten, dass sie sie nie besitzen würden, dass sie sie nie kontrollieren würden, dass sie sie nie zerstören würden, weil die Wahrheit stärker war als der Tod, stärker als der Krieg, stärker als alles, was die Mächtigen ihr entgegenwerfen konnten, um sie zu ersticken, um sie zu begraben, um sie zu vergessen.
 
 Shigi Qutuqu stand in der Tür seiner Kanzlei und sah den Reitern nach. Er sah die Banner, die im Wind flatterten, die Pferde, die schnaubten, die Männer, die lachten, die Frauen, die weinten, die Kinder, die schrien, die Hunde, die bellten, die Händler, die ihre Waren anpriesen, die Bettler, die ihre Hände ausstreckten, die Priester, die ihre Gebete murmeln, die Toten, die unter der Erde lagen, die Lebenden, die über sie hinwegritten, die Zukunft, die in der Ferne wartete, die Vergangenheit, die in seinem Rücken lag, das Bündel, das er genäht hatte, das Bündel, das er bewahrt hatte, das Bündel, das er nie öffnen würde, weil er wusste, dass er es nur öffnen müsste, um alles zu verlieren, was er noch hatte, seine Würde, sein Gesetz, sein Schweigen, das einzige, was ihm geblieben war, nachdem er alles andere geopfert hatte, seine Überzeugung, seine Gerechtigkeit, sein Herz, das er längst aufgegeben hatte, das er längst verloren hatte, das er längst begraben hatte unter den Akten, unter den Siegeln, unter den Urteilen, die er gefällt hatte, ohne zu fragen, ohne zu zögern, ohne zu denken.
 
-„Die Khane ziehen aus", sagte er leise, zu den Reitern, zu den Bannern, zu dem Krieg, der kommen würde, der alles beenden würde, was noch nicht beendet war, der alles zerstören würde, was noch nicht zerstört war, der alles töten würde, was noch nicht tot war. „Sie ziehen aus, um die Wahrheit zu beerdigen. Sie wissen nicht, dass sie schon bestattet ist. Bei einem Richter, der nicht mehr richten will."
+„Die Khane ziehen aus", sagte er leise, zu den Reitern, zu den Bannern, zu dem Krieg, der kommen würde, der alles beenden würde, was noch nicht beendet war, der alles zerstören würde, was noch nicht zerstört war, der alles töten würde, was noch nicht tot war. „Sie ziehen aus, um die Wahrheit zu beerdigen. Sie wissen nicht, dass sie schon bestattet ist. Bei einem Richter, der nicht mehr richten will. "
 
-Er trat zurück in die Kanzlei. Er schloss die Tür. Die Kälte blieb draußen, der Krieg blieb draußen, die Welt blieb draußen, und er blieb drinnen, allein, mit dem Bündel, mit den toten Akten, mit dem Schweigen, das er selbst gewählt hatte, das er selbst genäht hatte, das er selbst bewahren würde, bis zum Ende, bis zu dem Tag, an dem er selbst sterben würde, an dem er selbst gehen würde, an dem er selbst nichts mehr sein würde, außer einem Namen, einem Datum, einem Siegel, und einem durchgestrichenen Satz, den nie jemand lesen würde, der die einzige Wahrheit des Reiches tötete, weil das Gesetz es verlangte, weil der Richter es tat, weil der Feigling es zuließ, weil der alte Mann es überlebte, wie er immer überlebt hatte, indem er andere sterben ließ, indem er die Wahrheit begrub, indem er die Akte schloss, indem er die Lampe löschte, indem er sich in die Dunkelheit zurückzog, aus der er gekommen war, in die er zurückkehren würde, wenn alles vorbei war, wenn nichts mehr blieb, außer Papier, außer Worten, außer ihr, außer ihm, außer uns allen, die wir weiterschreiben müssen, weil wir nicht anders können, weil wir nicht anders dürfen, weil wir nicht anders wollen, obwohl wir wissen, dass wir anders sollten, dass wir anders müssten, dass wir anders könnten, wenn wir nur anders wären, wenn wir nur Mut genug hätten, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von uns verlangt, wenn sie uns ansieht, wenn sie uns erkennt, wenn sie uns durchschaut, in diesem einen Augenblick vor dem Ende, in dem alles klar wird, kristallklar, unerträglich klar, klar wie der Tod, klar wie das Leben, das sie hinter sich lässt, das sie uns hinterlässt, das sie uns schenkt, weil es ihre einzige Gabe ist, die letzte, die einzige, die zählt, in diesem einen Augenblick vor dem Ende, wenn nichts mehr bleibt außer dem, was wir tun, was wir nicht tun, was wir sein könnten, wenn wir nicht wären, was wir sind.
+Er trat zurück in die Kanzlei. Er schloss die Tür. Die Kälte blieb draußen, der Krieg blieb draußen, die Welt blieb draußen, und er blieb drinnen, allein, mit dem Bündel, mit den toten Akten, mit dem Schweigen, das er selbst gewählt hatte, das er selbst genäht hatte, das er selbst bewahren würde, bis zum Ende, bis zu dem Tag, an dem er selbst sterben würde, an dem er selbst gehen würde, an dem er selbst nichts mehr sein würde, außer einem Namen, einem Datum, einem Siegel, und einem durchgestrichenen Satz, den nie jemand lesen würde, der die einzige Wahrheit des Reiches tötete, weil das Gesetz es verlangte, weil der Richter es tat, weil der Feigling es zuließ, weil der alte Mann es überlebte, wie er immer überlebt hatte, indem er andere sterben ließ, indem er die Wahrheit begrub, indem er die Akte schloss, indem er die Lampe löschte, indem er sich in die Dunkelheit zurückzog, aus der er gekommen war, in die er zurückkehren würde, wenn alles vorbei war, wenn nichts mehr blieb, außer Papier, außer Worten, außer ihr. Außer ihm, außer uns allen, die wir weiterschreiben müssen, weil wir nicht anders können, weil wir nicht anders dürfen, weil wir nicht anders wollen, obwohl wir wissen, dass wir anders sollten, dass wir anders müssten, dass wir anders könnten, wenn wir nur anders wären, wenn wir nur Mut genug hätten, Macht genug, Liebe genug, um anders zu sein, um anders zu handeln, um anders zu sein – genau das, was sie von uns verlangt, wenn sie uns ansieht, wenn sie uns erkennt, wenn sie uns durchschaut, in diesem einen Augenblick vor dem Ende, in dem alles klar wird, kristallklar, unerträglich klar, klar wie der Tod, klar wie das Leben, das sie hinter sich lässt, das sie uns hinterlässt, das sie uns schenkt, weil es ihre einzige Gabe ist, die letzte, die einzige, die zählt, in diesem einen Augenblick vor dem Ende, wenn nichts mehr bleibt außer dem, was wir tun, was wir nicht tun, was wir sein könnten, wenn wir nicht wären, was wir sind.
 
 Shigi Qutuqu saß allein im Dunkeln.
 
 Und das Bündel lag in der Ecke, zwischen den toten Akten, und wartete.
+
+---
 
 ---
 
@@ -7096,11 +7089,12 @@ Das Bündel lag in der Ecke, zwischen den toten Akten, und wartete.
 
 ## 41. Der Königsmacher
 
+
 Der Morgen kam spät im Sommer, und als Shigi Qutuqu aus seinem Zelt trat, sah er die Ebene zum ersten Mal mit den Augen eines Mannes, der wusste, wie das Stück endete.
 
-Vierzig Jahre am Hof. Vierzig Jahre Akten, Urteile, Siegel. Vierzig Jahre, in denen er geglaubt hatte, dass die Welt der Mongolen auf Gesetz und Herkommen beruhte, auf dem Recht des Blutes und dem Eid der Fürsten. Jetzt stand er hier, am Rand einer Steppe, die er nicht kannte, und erkannte die Wahrheit, die er ein Leben lang übersehen hatte: Es gab kein Recht. Es gab nur die Erzählung, die der Mächtigste für warhielt.
+Vierzig Jahre am Hof. Vierzig Jahre Akten, Urteile, Siegel. Vierzig Jahre, in denen er geglaubt hatte, dass die Welt der Mongolen auf Gesetz und Herkommen beruhte, auf dem Recht des Blutes und dem Eid der Fürsten. Jetzt stand er hier, am Rand einer Steppe, die er nicht kannte, und erkannte die Wahrheit, die er ein Leben lang übersehen hatte: Es gab kein Recht. Es gab nur die Erzählung, die der Mächtigste für wahr hielt.
 
-Das Kuriltai-Lager erstreckte sich vor ihm wie eine Stadt aus Zelten und Rauch, eine zweite Karakorum, errichtet auf toluidischem Boden, fern von den Gräbern der Vorfahren, fern von den Geistern, die dort wohnten. Warum hier? Weil hier niemand别的 Geister hatte. Weil hier nur die lebenden Zelte standen, nur die Stimmen derer, die gekommen waren, um zu sehen, was schon entschieden war.
+Das Kuriltai-Lager erstreckte sich vor ihm wie eine Stadt aus Zelten und Rauch, eine zweite Karakorum, errichtet auf toluidischem Boden, fern von den Gräbern der Vorfahren, fern von den Geistern, die dort wohnten. Warum hier? Weil hier keine fremden Geister waren. Weil hier nur die lebenden Zelte standen, nur die Stimmen derer, die gekommen waren, um zu sehen, was schon entschieden war.
 
 Shigi ging langsam durch das Lager, die Schritte schwer unter dem Gewicht des Wissens, das er trug. Er sah die Gesichter der Fürsten, die ihn ansahen, manche mit Neugier, manche mit Furcht, manche mit der leeren Höflichkeit von Männern, die bereits wussten, dass ihre Stimme nichts bedeutete. Er kannte diese Gesichter. Er hatte sie in vierzig Jahren tausendmal gesehen, in tausend Versammlungen, vor tausend Urteilen. Aber heute sah er sie zum ersten Mal wirklich.
 
@@ -7142,7 +7136,7 @@ Möngke, sagten sie. Möngke, der Sohn Toluis, der Enkel des Gründers, der Mann
 
 Und Möngke schwieg, hörte zu, nickte manchmal, manchmal nicht, und sein Gesicht verriet nichts, sein Gesicht war wie die Steppe im Winter, leer und weiß und undurchdringbar.
 
-Shigi sah ihm zu und erkannte etwas, das er bei keinem anderen Mann gesehen hatte: die vollkommene Abwesenheit von Zweifel. Möngke zweifelte nicht. Er wusste, dass er Khan werden würde, nicht weil die Fürsten es wollten, sondern weil er es wollte, weil er es решил, weil die Entscheidung bereits gefallen war, bevor das Kuriltai begonnen hatte, bevor die Zelte aufgeschlagen worden waren, bevor die Fürsten ihre Pferde bestiegen hatten, um hierher zu reiten. Das Kuriltai war nur noch die Zeremonie, die Bestätigung, die Unterschrift unter einem Vertrag, den niemand gelesen hatte.
+Shigi sah ihm zu und erkannte etwas, das er bei keinem anderen Mann gesehen hatte: die vollkommene Abwesenheit von Zweifel. Möngke zweifelte nicht. Er wusste, dass er Khan werden würde, nicht weil die Fürsten es wollten, sondern weil er es wollte, weil er es beschlossen hatte, weil die Entscheidung bereits gefallen war, bevor das Kuriltai begonnen hatte, bevor die Zelte aufgeschlagen worden waren, bevor die Fürsten ihre Pferde bestiegen hatten, um hierher zu reiten. Das Kuriltai war nur noch die Zeremonie, die Bestätigung, die Unterschrift unter einem Vertrag, den niemand gelesen hatte.
 
 Und dann, am späten Nachmittag, als die Sonne tiefer sank und die Schatten länger wurden, als die Luft kühler wurde und das Licht goldener, stand Orda auf, der ältere Bruder Batus, und sprach die Worte, die das Ende besiegelten.
 
@@ -7250,7 +7244,7 @@ Er blieb stehen, vor seinem Zelt, vor der Tür, vor dem Eingang zu einem Leben, 
 
 Er trat ein, langsam, vorsichtig, schloss den Filz hinter sich, blieb stehen, in der Dunkelheit, in der Stille, in dem Nichts, das er heute zum ersten Mal sein Zuhause nannte, weil es das einzige war, das übrig war, das einzige, das die neue Wahrheit ihm lassen würde, wenn sie kam, wenn sie ihn holte, wenn sie ihn nahm, wie sie alles nahm, am Ende, am Anfang, in der Mitte, in jedem Moment, der je gewesen war und je sein würde.
 
-Und in der Dunkelheit, in der Stille, in dem Nichts, das sein Leben gewesen war und das heute zuende ging, kniete er, langsam, vorsichtig, die Knie in den Stoff pressend, die Hände auf den Oberschenkeln, den Blick auf den Boden gerichtet, auf die Erde, die ihn aufnehmen würde, am Ende, wenn alles andere genommen war, wenn alle Akten verbrannt waren, wenn alle Urteile vergessen waren, wenn alle Wahrheiten zu Staub geworden waren, wenn nur noch die Erde übrig war, die alte, stille, geduldige Erde, die alles trug, alles hielt, alles überdauerte, Generation um Generation, Reich um Reich, Wahrheit um Wahrheit, bis nichts mehr übrig war, außer ihr, außer der Dunkelheit, außer dem Nichts, das immer gewesen war und immer sein würde, das einzige Zuhause, das es je gegeben hatte, das einzige, das je geben würde, für alle, die je gelebt hatten und je leben würden, für ihn, für sie, für uns, für alle, die glaubten, dass ihre Geschichten Bedeutung hatten, obwohl sie nur Schatten waren, nur Erzählungen, nur das, was die Mächtigen von ihnen machten, am Ende, wie am Anfang, wie in jedem Moment dazwischen, in dem die Welt sich drehte und die Sonne schien und die Menschen glaubten, dass sie lebten, obwohl sie nur Film waren, nur Regie, nur das Stück, das ein anderer geschrieben hatte, in einer Sprache, die sie nicht verstanden, in einer Zeit, die sie nicht kannten, in einer Wahrheit, die sie nie erfahren würden, nie, nie, nie.
+Und in der Dunkelheit, in der Stille, in dem Nichts, das sein Leben gewesen war und das heute zuende ging, kniete er, langsam, vorsichtig, die Knie in den Stoff pressend, die Hände auf den Oberschenkeln, den Blick auf den Boden gerichtet. Auf die Erde, die ihn aufnehmen würde, am Ende, wenn alles andere genommen war, wenn alle Akten verbrannt waren, wenn alle Urteile vergessen waren, wenn alle Wahrheiten zu Staub geworden waren. Wenn nur noch die Erde übrig war, die alte, stille, geduldige Erde, die alles trug, alles hielt, alles überdauerte, Generation um Generation, Reich um Reich, Wahrheit um Wahrheit. Bis nichts mehr übrig war, außer ihr, außer der Dunkelheit, außer dem Nichts, das immer gewesen war und immer sein würde. Das einzige Zuhause, das es je gegeben hatte, das einzige, das je geben würde, für alle, die je gelebt hatten und je leben würden, für ihn, für sie, für uns. Für alle, die glaubten, dass ihre Geschichten Bedeutung hatten, obwohl sie nur Schatten waren, nur Erzählungen, nur das, was die Mächtigen von ihnen machten. Am Ende, wie am Anfang, wie in jedem Moment dazwischen, in dem die Welt sich drehte und die Sonne schien und die Menschen glaubten, dass sie lebten, obwohl sie nur Film waren, nur Regie, nur das Stück, das ein anderer geschrieben hatte. In einer Sprache, die sie nicht verstanden, in einer Zeit, die sie nicht kannten, in einer Wahrheit, die sie nie erfahren würden, nie, nie, nie.
 
 Das Haus Tolui besitzt den Thron.
 
@@ -7264,13 +7258,15 @@ Aber vielleicht.
 
 Vielleicht würde jemand kommen, eines Tages, in hundert Jahren, in tausend Jahren, wenn die Mongolen vergessen waren und die Steppe zu Wüste geworden war und die Gräber längst eingeebnet, vielleicht würde jemand kommen und graben, aus Neugier, aus Langeweile, aus dem Instinkt, der den Menschen sagt, dass unter der Erde Geheimnisse liegen, die darauf warten, gefunden zu werden.
 
-Und er würde die Akten finden, das blau-weiße Buch, die Chronik, die Shigi Qutuqu geschrieben hatte, der Mann, der das Recht geliebt hatte und der gelernt hatte, dass das Recht nur eine Erzählung war, nur eine Geschichte, nur ein Schatten, geworfen von der Macht, die sich selbst erschuf, in jedem Moment, in jeder Generation, in jeder Zeit, die kommen würde und die gehen würde und die niemals wiederkommen würde, nicht so, nicht wie zuvor, nicht wie in den Träumen derer, die glaubten, dass die Wahrheit eine Konstante war, ein Fels, ein Fundament, auf dem man bauen konnte, obwohl sie nur Sand war, nur Asche, nur Staub, aufgewirbelt von den Hufen der Pferde, die in die Zukunft ritten, immer weiter, immer schneller, bis sie selbst zu Staub wurden und die Geschichte weiterging, ohne sie, ohne uns, ohne alle, die je geglaubt hatten, dass ihre Stimme zählte, dass ihre Worte Bedeutung hatten, dass ihre Akten die Wahrheit bewahrten, obwohl sie nur behaupteten, was die Mächtigen wollten, in jeder Zeit, in jeder Generation, in jedem Moment, der je gewesen war und je sein würde.
+Und er würde die Akten finden, das blau-weiße Buch, die Chronik, die Shigi Qutuqu geschrieben hatte. Der Mann, der das Recht geliebt hatte und der gelernt hatte, dass das Recht nur eine Erzählung war, nur eine Geschichte, nur ein Schatten, geworfen von der Macht, die sich selbst erschuf. In jedem Moment, in jeder Generation, in jeder Zeit, die kommen würde und die gehen würde und die niemals wiederkommen würde. Nicht so, nicht wie zuvor, nicht wie in den Träumen derer, die glaubten, dass die Wahrheit eine Konstante war, ein Fels, ein Fundament, auf dem man bauen konnte, obwohl sie nur Sand war, nur Asche, nur Staub. Aufgewirbelt von den Hufen der Pferde, die in die Zukunft ritten, immer weiter, immer schneller, bis sie selbst zu Staub wurden. Und die Geschichte ging weiter, ohne sie, ohne uns, ohne alle, die je geglaubt hatten, dass ihre Stimme zählte, dass ihre Worte Bedeutung hatten, dass ihre Akten die Wahrheit bewahrten, obwohl sie nur behaupteten, was die Mächtigen wollten. In jeder Zeit, in jeder Generation, in jedem Moment, der je gewesen war und je sein würde.
 
 Er schloss die Augen.
 
 Die Dunkelheit kam, sanft, gnadenlos, die Dunkelheit, die alle Wahrheiten löschte.
 
 Und Shigi Qutuqu, der Mann, der ein Leben lang das Recht gehütet hatte, schlief ein, zum ersten Mal seit Jahrzehnten, mit einem Herzen, das leicht war, weil es endlich nichts mehr trug, weil es endlich alles losgelassen hatte, weil es endlich verstanden hatte, was er ein Leben lang nicht hatte verstehen wollen: dass es keine Wahrheit gab, nur die Erzählung des Siegers, nur die Geschichte der Mächtigen, nur das, was übrig blieb, wenn die Klingen verstummt waren und die Feder ruhte und nur die Erde noch sprach, leise, stetig, für immer, für alle, die zuhören wollten, und für alle, die es nicht taten, für immer, für immer, für immer.
+
+---
 
 ---
 
@@ -7414,11 +7410,12 @@ Sie würde nie wieder zittern.
 
 ## 43. Der schwarze Spiegel
 
+
 Die Morgendämmerung kam grau und schwer, die Wolken hingen tief über der Zeltstadt, als Juvaini die Kanzlei betrat. Der Boden war feucht, der Rauhreif hatte sich über die Filzbahnen gelegt, und der Geruch von nassem Wolle und kaltem Rauch hing in der Luft. Er legte seine Schreibtafel auf den Tisch, entzündete die Lampe, wartete.
 
 Der junge Schreiber kam kurz nach Sonnenaufgang.
 
-„Der Prozess beginnt heute“, sagte er, und seine Stimme war flach, ohne Neugier, ohne Mitleid. „Die Regentin. Sie haben sie in der Nacht hergebracht. Der Richter wartet auf die Protokollführung.“
+„Der Prozess beginnt heute“, sagte er, und seine Stimme war flach, ohne Neugier, ohne Mitleid. „Die Regentin. Sie haben sie in der Nacht hergebracht. Der Richter wartet auf die Protokollführung. “
 
 Juvaini nickte. Er wusste, wer gemeint war. Oghul Qaimish. Güyüks Witwe. Die überforderte Regentin, die nach Güyüks Tod die Zügel ergriffen hatte, die nicht stark genug gewesen war, die nicht klug genug gewesen war, die nicht schnell genug gewesen war. Und die jetzt bezahlte.
 
@@ -7428,7 +7425,7 @@ Das Richterzelt war groß und neu. Die Filzdecken waren jung, die Nähte fest, d
 
 Der Richter saß auf einem Kissen, die Akten vor sich ausgebreitet. Er war jung, einer von Möngkes Männern, ein Gesicht, das Juvaini nicht kannte. Seine Hände waren sauber, seine Nägel geschnitten, seine Kleidung schmucklos. Er trug kein Siegel, keine Amtskette, keine Zeichen des Rangs. Er war ein Werkzeug, präzise und blind.
 
-„Setzen Sie sich“, sagte der Richter. „Sie führen das Protokoll. Nichts fehlt, nichts ist überflüssig. Die Worte müssen genau sein. Die Sätze müssen vollständig sein. Der Bericht muss späteren Lesern zeigen, dass alles mit rechten Dingen zuging.“
+„Setzen Sie sich“, sagte der Richter. „Sie führen das Protokoll. Nichts fehlt, nichts ist überflüssig. Die Worte müssen genau sein. Die Sätze müssen vollständig sein. Der Bericht muss späteren Lesern zeigen, dass alles mit rechten Dingen zuging. “
 
 Juvaini setzte sich. Er legte die Schreibtafel auf die Knie, tauchte die Feder ein, wartete.
 
@@ -7476,7 +7473,7 @@ Dann kam der Punkt, an dem das System sein vorgegebenes Ziel erreicht hatte.
 
 Der Richter verlas das Urteil.
 
-Seine Stimme war ruhig, ohne Pathos, ohne Empörung, ohne jede Emotionsregung, als lese er einen Wetterbericht. „Oghul Qaimish. Wegen Verhexung des Prinzen Köden, wegen Verhexung des Khans Güyük, wegen Verhexung der Regentin Töregene, wegen Verhexung der Geburt des Khans Möngke.“ Er hob den Kopf, sah sie an, aber sein Blick war leer. „Das Urteil lautet: Tod durch Ertränken. Die Verurteilte wird in Filz genäht. Der Filz wird vernäht, mit groben Stichen, die die Zufuhr von Luft verhindern. Die Verurteilte wird in einen Fluss geworfen. Der Fluss wird das Urteil vollstrecken. Der Körper wird nicht geborgen. Der Körper wird nicht bestattet. Der Körper wird verrotten, als Erinnerung an die Bestrafung, als Warnung an alle, die den Frieden des Reiches stören.“
+Seine Stimme war ruhig, ohne Pathos, ohne Empörung, ohne jede Emotionsregung, als lese er einen Wetterbericht. „Oghul Qaimish. Wegen Verhexung des Prinzen Köden, wegen Verhexung des Khans Güyük, wegen Verhexung der Regentin Töregene, wegen Verhexung der Geburt des Khans Möngke. “ Er hob den Kopf, sah sie an, aber sein Blick war leer. „Das Urteil lautet: Tod durch Ertränken. Die Verurteilte wird in Filz genäht. Der Filz wird vernäht, mit groben Stichen, die die Zufuhr von Luft verhindern. Die Verurteilte wird in einen Fluss geworfen. Der Fluss wird das Urteil vollstrecken. Der Körper wird nicht geborgen. Der Körper wird nicht bestattet. Der Körper wird verrotten, als Erinnerung an die Bestrafung, als Warnung an alle, die den Frieden des Reiches stören. “
 
 Juvaini hielt inne.
 
@@ -7494,7 +7491,7 @@ Der Name war anders.
 
 Alles andere war gleich.
 
-Der Richter sah ihn an. „Schreiben Sie“, sagte er. „Das Urteil. Die Begründung. Die Vollzugsdetails. Nichts fehlt. Nichts ist überflüssig. Die Worte müssen genau sein. Die Sätze müssen vollständig sein. Der Bericht muss späteren Lesern zeigen, dass alles mit rechten Dingen zuging.“
+Der Richter sah ihn an. „Schreiben Sie“, sagte er. „Das Urteil. Die Begründung. Die Vollzugsdetails. Nichts fehlt. Nichts ist überflüssig. Die Worte müssen genau sein. Die Sätze müssen vollständig sein. Der Bericht muss späteren Lesern zeigen, dass alles mit rechten Dingen zuging. “
 
 Juvaini sah auf die Feder.
 
@@ -7510,9 +7507,9 @@ Seine Hand hielt inne.
 
 Einen Herzschlag lang. Einen Herzschlag der Stille. Einen Herzschlag der Zeit.
 
-Er sah die Tinte auf der Fдер, sah die Buchstaben, die er noch nicht geschrieben hatte, sah die Lücke, die er füllen musste, die er füllen würde, die er füllen musste, weil es keine andere Wahl gab, weil das System keine andere Möglichkeit bot, weil das Reich auf dieser Formel lief.
+Er sah die Tinte auf der Feder, sah die Buchstaben, die er noch nicht geschrieben hatte, sah die Lücke, die er füllen musste, die er füllen würde, die er füllen musste, weil es keine andere Wahl gab, weil das System keine andere Möglichkeit bot, weil das Reich auf dieser Formel lief.
 
-Er dachte an die Worte, die er ändern könnte. Ein Wort, eine Milderung, eine Einschränkung. „Wenn die Beweise ausreichen“ statt „Die Beweise liegen vor.“ Oder ein kleines „Vielleicht“, das alles in Frage stellte. Oder eine Leerstelle, eine Lücke im Protokoll, die künftigen Lesern zeigen würde, dass hier etwas nicht stimmte.
+Er dachte an die Worte, die er ändern könnte. Ein Wort, eine Milderung, eine Einschränkung. „Wenn die Beweise ausreichen“ statt „Die Beweise liegen vor. “ Oder ein kleines „Vielleicht“, das alles in Frage stellte. Oder eine Leerstelle, eine Lücke im Protokoll, die künftigen Lesern zeigen würde, dass hier etwas nicht stimmte.
 
 Er sah die Feder, die die Worte schreiben würde.
 
@@ -7528,7 +7525,7 @@ Es läuft auf diesem Rad.
 
 Er sah auf die Worte, die er geschrieben hatte, die Worte, die er schreiben würde, die Worte, die er immer wieder schreiben würde, bis zum Ende, bis nichts mehr blieb, außer der Wiederholung, außer der Kontinuität, außer dem Mechanismus, den das Reich perfektioniert hatte.
 
-Der Richter nickte. „Gut. Der Vollzug erfolgt bei Sonnenuntergang. Sie werden den Vorgang beobachten und protokollieren. Nichts fehlt. Nichts ist überflüssig. Der Bericht muss späteren Lesern zeigen, dass alles mit rechten Dingen zuging.“
+Der Richter nickte. „Gut. Der Vollzug erfolgt bei Sonnenuntergang. Sie werden den Vorgang beobachten und protokollieren. Nichts fehlt. Nichts ist überflüssig. Der Bericht muss späteren Lesern zeigen, dass alles mit rechten Dingen zuging. “
 
 Juvaini schloss die Augen.
 
@@ -7605,6 +7602,8 @@ Die Arbeit wartete.
 Und er würde sie schreiben, wie er immer schrieb, wie er immer schreiben würde, bis nichts mehr blieb, außer Papier, außer Worten, außer der Wiederholung, außer der Kontinuität, außer dem Mechanismus, den das Reich perfektioniert hatte.
 
 Er begann zu schreiben.
+
+---
 
 ---
 

@@ -1,15 +1,10 @@
-# Der schwarze Spiegel
-
-*Buch: Die dritte Chronik*
-*Kapitel-ID: 043*
-
----
+## Der schwarze Spiegel
 
 Die Morgendämmerung kam grau und schwer, die Wolken hingen tief über der Zeltstadt, als Juvaini die Kanzlei betrat. Der Boden war feucht, der Rauhreif hatte sich über die Filzbahnen gelegt, und der Geruch von nassem Wolle und kaltem Rauch hing in der Luft. Er legte seine Schreibtafel auf den Tisch, entzündete die Lampe, wartete.
 
 Der junge Schreiber kam kurz nach Sonnenaufgang.
 
-„Der Prozess beginnt heute“, sagte er, und seine Stimme war flach, ohne Neugier, ohne Mitleid. „Die Regentin. Sie haben sie in der Nacht hergebracht. Der Richter wartet auf die Protokollführung.“
+„Der Prozess beginnt heute“, sagte er, und seine Stimme war flach, ohne Neugier, ohne Mitleid. „Die Regentin. Sie haben sie in der Nacht hergebracht. Der Richter wartet auf die Protokollführung. “
 
 Juvaini nickte. Er wusste, wer gemeint war. Oghul Qaimish. Güyüks Witwe. Die überforderte Regentin, die nach Güyüks Tod die Zügel ergriffen hatte, die nicht stark genug gewesen war, die nicht klug genug gewesen war, die nicht schnell genug gewesen war. Und die jetzt bezahlte.
 
@@ -19,7 +14,7 @@ Das Richterzelt war groß und neu. Die Filzdecken waren jung, die Nähte fest, d
 
 Der Richter saß auf einem Kissen, die Akten vor sich ausgebreitet. Er war jung, einer von Möngkes Männern, ein Gesicht, das Juvaini nicht kannte. Seine Hände waren sauber, seine Nägel geschnitten, seine Kleidung schmucklos. Er trug kein Siegel, keine Amtskette, keine Zeichen des Rangs. Er war ein Werkzeug, präzise und blind.
 
-„Setzen Sie sich“, sagte der Richter. „Sie führen das Protokoll. Nichts fehlt, nichts ist überflüssig. Die Worte müssen genau sein. Die Sätze müssen vollständig sein. Der Bericht muss späteren Lesern zeigen, dass alles mit rechten Dingen zuging.“
+„Setzen Sie sich“, sagte der Richter. „Sie führen das Protokoll. Nichts fehlt, nichts ist überflüssig. Die Worte müssen genau sein. Die Sätze müssen vollständig sein. Der Bericht muss späteren Lesern zeigen, dass alles mit rechten Dingen zuging. “
 
 Juvaini setzte sich. Er legte die Schreibtafel auf die Knie, tauchte die Feder ein, wartete.
 
@@ -67,7 +62,7 @@ Dann kam der Punkt, an dem das System sein vorgegebenes Ziel erreicht hatte.
 
 Der Richter verlas das Urteil.
 
-Seine Stimme war ruhig, ohne Pathos, ohne Empörung, ohne jede Emotionsregung, als lese er einen Wetterbericht. „Oghul Qaimish. Wegen Verhexung des Prinzen Köden, wegen Verhexung des Khans Güyük, wegen Verhexung der Regentin Töregene, wegen Verhexung der Geburt des Khans Möngke.“ Er hob den Kopf, sah sie an, aber sein Blick war leer. „Das Urteil lautet: Tod durch Ertränken. Die Verurteilte wird in Filz genäht. Der Filz wird vernäht, mit groben Stichen, die die Zufuhr von Luft verhindern. Die Verurteilte wird in einen Fluss geworfen. Der Fluss wird das Urteil vollstrecken. Der Körper wird nicht geborgen. Der Körper wird nicht bestattet. Der Körper wird verrotten, als Erinnerung an die Bestrafung, als Warnung an alle, die den Frieden des Reiches stören.“
+Seine Stimme war ruhig, ohne Pathos, ohne Empörung, ohne jede Emotionsregung, als lese er einen Wetterbericht. „Oghul Qaimish. Wegen Verhexung des Prinzen Köden, wegen Verhexung des Khans Güyük, wegen Verhexung der Regentin Töregene, wegen Verhexung der Geburt des Khans Möngke. “ Er hob den Kopf, sah sie an, aber sein Blick war leer. „Das Urteil lautet: Tod durch Ertränken. Die Verurteilte wird in Filz genäht. Der Filz wird vernäht, mit groben Stichen, die die Zufuhr von Luft verhindern. Die Verurteilte wird in einen Fluss geworfen. Der Fluss wird das Urteil vollstrecken. Der Körper wird nicht geborgen. Der Körper wird nicht bestattet. Der Körper wird verrotten, als Erinnerung an die Bestrafung, als Warnung an alle, die den Frieden des Reiches stören. “
 
 Juvaini hielt inne.
 
@@ -85,7 +80,7 @@ Der Name war anders.
 
 Alles andere war gleich.
 
-Der Richter sah ihn an. „Schreiben Sie“, sagte er. „Das Urteil. Die Begründung. Die Vollzugsdetails. Nichts fehlt. Nichts ist überflüssig. Die Worte müssen genau sein. Die Sätze müssen vollständig sein. Der Bericht muss späteren Lesern zeigen, dass alles mit rechten Dingen zuging.“
+Der Richter sah ihn an. „Schreiben Sie“, sagte er. „Das Urteil. Die Begründung. Die Vollzugsdetails. Nichts fehlt. Nichts ist überflüssig. Die Worte müssen genau sein. Die Sätze müssen vollständig sein. Der Bericht muss späteren Lesern zeigen, dass alles mit rechten Dingen zuging. “
 
 Juvaini sah auf die Feder.
 
@@ -101,9 +96,9 @@ Seine Hand hielt inne.
 
 Einen Herzschlag lang. Einen Herzschlag der Stille. Einen Herzschlag der Zeit.
 
-Er sah die Tinte auf der Fдер, sah die Buchstaben, die er noch nicht geschrieben hatte, sah die Lücke, die er füllen musste, die er füllen würde, die er füllen musste, weil es keine andere Wahl gab, weil das System keine andere Möglichkeit bot, weil das Reich auf dieser Formel lief.
+Er sah die Tinte auf der Feder, sah die Buchstaben, die er noch nicht geschrieben hatte, sah die Lücke, die er füllen musste, die er füllen würde, die er füllen musste, weil es keine andere Wahl gab, weil das System keine andere Möglichkeit bot, weil das Reich auf dieser Formel lief.
 
-Er dachte an die Worte, die er ändern könnte. Ein Wort, eine Milderung, eine Einschränkung. „Wenn die Beweise ausreichen“ statt „Die Beweise liegen vor.“ Oder ein kleines „Vielleicht“, das alles in Frage stellte. Oder eine Leerstelle, eine Lücke im Protokoll, die künftigen Lesern zeigen würde, dass hier etwas nicht stimmte.
+Er dachte an die Worte, die er ändern könnte. Ein Wort, eine Milderung, eine Einschränkung. „Wenn die Beweise ausreichen“ statt „Die Beweise liegen vor. “ Oder ein kleines „Vielleicht“, das alles in Frage stellte. Oder eine Leerstelle, eine Lücke im Protokoll, die künftigen Lesern zeigen würde, dass hier etwas nicht stimmte.
 
 Er sah die Feder, die die Worte schreiben würde.
 
@@ -119,7 +114,7 @@ Es läuft auf diesem Rad.
 
 Er sah auf die Worte, die er geschrieben hatte, die Worte, die er schreiben würde, die Worte, die er immer wieder schreiben würde, bis zum Ende, bis nichts mehr blieb, außer der Wiederholung, außer der Kontinuität, außer dem Mechanismus, den das Reich perfektioniert hatte.
 
-Der Richter nickte. „Gut. Der Vollzug erfolgt bei Sonnenuntergang. Sie werden den Vorgang beobachten und protokollieren. Nichts fehlt. Nichts ist überflüssig. Der Bericht muss späteren Lesern zeigen, dass alles mit rechten Dingen zuging.“
+Der Richter nickte. „Gut. Der Vollzug erfolgt bei Sonnenuntergang. Sie werden den Vorgang beobachten und protokollieren. Nichts fehlt. Nichts ist überflüssig. Der Bericht muss späteren Lesern zeigen, dass alles mit rechten Dingen zuging. “
 
 Juvaini schloss die Augen.
 

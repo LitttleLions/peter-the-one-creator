@@ -1,0 +1,49 @@
+{
+  "chapter": "045",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "045",
+      "scene": 1,
+      "ru_path": "books\\die-dritte-chronik\\work\\scenes\\de\\045\\scene-01.md",
+      "de_path": "books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\045\\scene-01.md",
+      "ru_words": 2162,
+      "de_words": 2162,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Wort-Echo 'dies' 11x in 30 Woertern (4x verteilt).",
+          "chapter": "045",
+          "scene": 1,
+          "evidence": "'dies' 11x / 30 Woerter",
+          "recommendation": "Wort-Echo pruefen: variieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "WARNING",
+          "category": "repetition_style",
+          "message": "Stapelung (15x: jedes 8x, jede 7x) in 49 Woertern ohne Satzende.",
+          "chapter": "045",
+          "scene": 1,
+          "evidence": "Juvaini legte die Feder nieder las was er geschrieben hatte las jede Zeile jedes Wort jeden Buchstaben jede Lüge jede Wahrheit jede Leere jede Fülle jeden Tod jedes Leben jede Liebe jeden Hass jeden Verrat jede Treue jedes Vergessen jedes Erinnern jedes Verschweigen jedes Aussprechen jedes Verschwinden jedes Bleiben",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

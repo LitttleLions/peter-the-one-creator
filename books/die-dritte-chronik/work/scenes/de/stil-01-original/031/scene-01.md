@@ -12,15 +12,15 @@ Der Anführer war ein Mann mittleren Alters mit einem Narbengesicht und ruhigen 
 
 „Fatima aus Chorasan“, sagte er. Keine Frage. Eine Feststellung.
 
-„Ja.“
+„Ja. “
 
-„Du kommst mit uns.“
+„Du kommst mit uns. “
 
 Sie erhob sich langsam, strich den Rock glatt, griff nach ihrem Umhang. Kein Widerstand. Keine Frage nach dem Grund. Die Männer sahen sie an, als erwarteten sie etwas – einen Fluch, einen Zusammenbruch, eine Flucht.
 
 Fatima band den Umhang um die Schultern.
 
-„Ich bin bereit.“
+„Ich bin bereit. “
 
 Der Anführer nickte einmal kurz und trat zur Seite. Sie ging an ihm vorbei durch den Vorhang hinaus in die Kälte des Morgens.
 
@@ -46,7 +46,7 @@ Sie setzte sich auf den mittleren Hocker und legte die Hände auf die Knie.
 
 Die Wachen blieben an der Tür stehen; der Anführer ging hinaus ohne ein weiteres Wort und ließ sie allein im flackernden Licht der Lampe zurück.
 
-Die Stille dauerte lange genug um zu wirken – genau berechnet genau dosiert genau so wie es in den Handbüchern stand die Fatima selbst einmal gelesen hatte als sie Töregenes Bibliothek ordnete: *Lass ihn warten bis seine Angst größer ist als seine Hoffnung.*
+Die Stille dauerte lange genug um zu wirken – genau berechnet genau dosiert genau so wie es in den Handbüchern stand die Fatima selbst einmal gelesen hatte als sie Töregenes Bibliothek ordnete: *Lass ihn warten bis seine Angst größer ist als seine Hoffnung. *
 
 Aber Fatima hatte keine Angst mehr und keine Hoffnung mehr; was blieb war nur noch Geduld – eine Geduld die härter war als jeder Verhörraum weil sie nichts mehr zu verlieren hatte außer diesem letzten Satz ihrer Geschichte den niemand haben würde solange sie atmete und wenn sie starb dann starb er mit ihr still wie ein Kind das nie geboren wurde still wie ihre Schwester still wie alles was gut gewesen war in Chorasan bevor die Reiter kamen bevor das Feuer kam bevor das Schweigen kam das seitdem in ihr wohnte still wie ein Grab das nie geöffnet wird weil niemand mehr weiß dass es existiert still wie ihre eigene Stimme wenn sie zu ihrer toten Schwester sprach in Briefen die niemand liest außer ihr selbst außer der Toten außer dem Wind der über die Steppe weht ohne Ziel ohne Erinnerung ohne Ende –
 
@@ -80,11 +80,11 @@ Ein langer Atemzug verging zwei drei vier –
 
 Dann sprach Fatima:
 
-„Ja.“
+„Ja. “
 
 Güyük nickte knapp setzte sich endlich auf den freien Hocker gegenüber legte beide Hände flach auf den Tisch zwischen ihnen:
 
-„Gut.“ Seine Stimme wurde ruhiger sachlicher fast wie ein Quartiermeister der Vorräte prüft bevor er marschiert: „Dann können wir sprechen wie Vernünftige Menschen.“
+„Gut. “ Seine Stimme wurde ruhiger sachlicher fast wie ein Quartiermeister der Vorräte prüft bevor er marschiert: „Dann können wir sprechen wie Vernünftige Menschen. “
 
 Er winkte; einer der Schreiber trat vor stellte einen kleinen Kupferkessel auf den Boden neben dem Tisch entzündete darunter ein Feuer mit einem Stück Zunder dann goß Wasser aus einem Lederbeutel hinein während der andere Schreiber zwei kleine Schalen aus Ton hervorholte:
 
@@ -94,7 +94,7 @@ Fatima nahm die Schale als man sie ihr reichte trank einen Schluck Tee warm bitt
 
 Güyük trank ebenfalls stellte seine Schale ab dann sprach er:
 
-„Ich habe deine Akten gelesen Fatima.“ Er betonte ihren Namen langsam absichtlich schwer: „Jeden Brief jede Notiz jedes Protokoll das du je geschrieben hast für meine Mutter für ihren Rat für ihre Boten für ihre Befehle ich habe alles gelesen was meine Leute finden konnten in fünf Jahren deiner Arbeit am Hof meines Vaters am Hof meiner Mutter am Hof dieses Reiches das ich jetzt regiere –“
+„Ich habe deine Akten gelesen Fatima. “ Er betonte ihren Namen langsam absichtlich schwer: „Jeden Brief jede Notiz jedes Protokoll das du je geschrieben hast für meine Mutter für ihren Rat für ihre Boten für ihre Befehle ich habe alles gelesen was meine Leute finden konnten in fünf Jahren deiner Arbeit am Hof meines Vaters am Hof meiner Mutter am Hof dieses Reiches das ich jetzt regiere –“
 
 Er hielt inne beugte sich vor über den Tisch seine Stimme senkte sich fast zum Flüstern:
 
@@ -102,7 +102,7 @@ Er hielt inne beugte sich vor über den Tisch seine Stimme senkte sich fast zum 
 
 Er lehnte sich zurück lächelnd aber nicht freundlich sondern kalt präzise messend:
 
-„Schade dass du sterben musst.“
+„Schade dass du sterben musst. “
 
 Fatima trank noch einen Schluck Tee stellte die Schale ab dann sprach sie zum ersten Mal seit Stunden außerhalb ihres eigenen Kopfes laut klar ruhig wie eine Antwort auf eine Frage deren Antwort längst feststeht:
 
@@ -110,13 +110,13 @@ Fatima trank noch einen Schluck Tee stellte die Schale ab dann sprach sie zum er
 
 Güyük zog eine Augenbraue hoch schien kurz überrascht dann nickte er respektvoll fast unwillkürlich:
 
-„Weil ich dir einen Handel anbieten will.“ Er stand auf trat hinter seinen Stuhl legte beide Hände auf dessen Lehne blickend über ihren Kopf hinweg ins Leere während seine Stimme wieder lauter wurde fester bestimmter:
+„Weil ich dir einen Handel anbieten will. “ Er stand auf trat hinter seinen Stuhl legte beide Hände auf dessen Lehne blickend über ihren Kopf hinweg ins Leere während seine Stimme wieder lauter wurde fester bestimmter:
 
 „1241 mein Vater stirbt während eines Trinkgelages du bist im Zelt du hast gesehen was geschah meine Leute haben mich informiert mein Onkel hat mich informiert sogar meine Mutter hat mir angedeutet dass jemand war dass etwas geschah dass mein Vater nicht einfach gestorben ist sondern getötet wurde vergiftet ermordet von jemandem dessen Name noch immer nicht genannt wurde noch immer verschwiegen wird noch immer geschützt wird durch Schweigen durch Lügen durch Tod –“
 
 Er sah wieder direkt an diesmal intensiver fordernder drohender:
 
-„Du hast sein Gesicht gesehen Fatima.“ Keine Frage diesmal keine Möglichkeit zur Ausflucht nur diese Feststellung diese Behauptung dieses Wissen das Güyük besaß seit Jahren besaß seit jenem Tag als Shigi Qutuqu ihm indirekt bestätigt hatte dass Fatima mehr wusste als jeder andere Diener am Hof seines Vaters mehr wusste als seine eigene Mutter vielleicht sogar mehr wusste als all ihre Spione all ihre Agenten all ihre Informanten zusammengenommen –
+„Du hast sein Gesicht gesehen Fatima. “ Keine Frage diesmal keine Möglichkeit zur Ausflucht nur diese Feststellung diese Behauptung dieses Wissen das Güyük besaß seit Jahren besaß seit jenem Tag als Shigi Qutuqu ihm indirekt bestätigt hatte dass Fatima mehr wusste als jeder andere Diener am Hof seines Vaters mehr wusste als seine eigene Mutter vielleicht sogar mehr wusste als all ihre Spione all ihre Agenten all ihre Informanten zusammengenommen –
 
 Güyük kam langsam um den Tisch herum blieb direkt vor ihr stehen so nah dass sein Mantel ihr Knie streifte beugt sich herab seine Stimme kaum noch hörbar kaum noch Atem kaum noch Fleisch sondern Geist Wille Drohung Versprechen alles zugleich gefaltet ineinander verwoben unentwirrbar wie Seile aus Seide deren wahre Festigkeit man erst erkennt wenn man versucht zu reißen daran zu zerreißen daran zu zerbrechen –
 
@@ -136,13 +136,13 @@ Fatima sah ihn an lange genug um sicherzustellen dass Güyük begriff dass dies 
 
 Sie sprach leise aber klar deutlich unmissverständlich jedes Wort einzeln gesetzt gehauen gemeißelt wie Schriftzeichen in Stein wie Siegelwachs unter Druck wie Blutspuren auf Schnee:
 
-„Nein.“
+„Nein. “
 
 Güyük zuckte nicht zusammen änderte keine Miene blieb unbewegt reglos starr aber etwas veränderte sich hinter seinen Augen etwas Kleines kaum Sichtbares fast Unmerkliches: Enttäuschung vielleicht Überraschung vielleicht Respekt vielleicht Hass vermischt miteinander untrennbar ineinander fließend während seine Stimmlage gleich blieb ruhig kontrolliert gemessen wie bisher bisher weiterhin immerfort scheinbar unbeeindruckt scheinbar ungerührt scheinbar unbesiegt –
 
 Aber Fatima kannte diese Maske denn trug selbst dieselbe seit Jahren Jahrzehnten seit jenem Tag 1221 als ihre Schwester starb unter mongolischen Schwertern während Fatima lebend gefangen genommen weggebracht verkauft verschenkt benutzt verschlissen verwaltet verbraucht vernichtet wiederbelebt weitergeschleppt durch zwanzig Jahre Dienst zwanzig Jahre Schweigen zwanzig Jahre Tod hinter lebenden Augen leben hinter toten Blicken bewegen hinter erstarrtem Herzen atmen hinter erstickender Hoffnung weiteratmen weiterleben weiterschreiben weiterschweigen weitertragen dieses Gewicht dieser Schuld dieser Liebe dieses Hasses dieser Trauer dieser Wut dieser Verzweiflung dieser Einsamkeit dieses endlosen endlosen endlosen Marsches durch Schnee durch Staub durch Blut durch Zeit durch Welt durch Leben hindurch hindurch hindurch bis ans Ende ihrer Kraft ihrer Gnade ihrer Geduld ihrer Menschlichkeit –
 
-Güyük sprach langsam gezielt jedes Wort fallend schwer wie Steine ins Wasser Kreise ziehend Wellen werfend Grund berührend tief unten dort wo niemand sieht wo niemand hört wo niemand weiß ob Wahrheit liegt oder Lüge oder beides zugleich vermischt untrennbar eins geworden im Dunkel des Vergessens im Schweigen des Todes im Nichts des Endes aller Dinge aller Fragen aller Antworten aller Handelsangebote zwischen Khansfrau Khansfeind Khansmörder Khansopfer alles zugleich nichts davon wirklich alles möglich nichts wahrnehmbar alles sagbar nichts verständlich alles offenbart nichts bewiesen alles behauptet nichts bekannt alles versprochen nichts gehalten alles verloren nichts gefunden alles gestorben nichts geblieben außer diesem Satz diesem Wort diesem Atemzug diesem Augenblick zwischen Ja Nein Vielleicht Nie Wieder Niemals Immer Fort Immer Weiter Immer Tiefer Immer Dunkler Immer Einsamer Immer Allein Mit Sich Selbst Mit Seiner Wahl Mit Seinem Schweigen Mit Seinem Wissen Mit Seinem Ende Das Niemand Kennt Außer Ihm Selbst Und Ihr Selbst Und Jenem Dritten Unbekannten Ungesehen Unvergessenen Der In Der Nacht Starb Als Ögedei Khan Starb Als Der Becher Fiel Als Der Wein Verschwand Als Der Diener Floh Als Die Wahrheit Begann Endlos Zu Werden Unaufhaltsam Unausweichlich Unvergänglich Wie Ein Fluch Wie Ein Segen Wie Ein Name Den Man Nicht Aussprechen Darf Weil Er Brennt Weil Er Verbrennt Weil Er Asche Hinterlässt Wo Einmal Leben War Wo Einmal Liebe War Wo Einmal Alles War Was Man Brauchte Zum Atmen Zum Leben Zum Bleiben Zum Gehen Zum Sterben In Frieden In Ruhe In Stille Endlich Endlos Ewig Ohne Wiederkehr Ohne Erlösung Ohne Ende
+Güyük sprach langsam gezielt jedes Wort fallend schwer wie Steine ins Wasser Kreise ziehend Wellen werfend Grund berührend tief unten dort wo niemand sieht wo niemand hört wo niemand weiß ob Wahrheit liegt oder Lüge oder beides zugleich vermischt untrennbar eins geworden im Dunkel des Vergessens im Schweigen des Todes im Nichts des Endes aller Dinge aller Fragen aller Antworten aller Handelsangebote zwischen Khansfrau Khansfeind Khansmörder Khansopfer alles zugleich nichts davon wirklich alles möglich nichts wahrnehmbar alles sagbar nichts verständlich alles offenbart nichts bewiesen alles behauptet nichts bekannt alles versprochen nichts gehalten alles verloren nichts gefunden alles gestorben nichts geblieben außer diesem Satz diesem Wort diesem Atemzug diesem Augenblick zwischen Ja Nein Vielleicht Nie Wieder Niemals Immer Fort Immer Weiter Immer Tiefer Immer Dunkler Immer Einsamer Immer. Allein Mit Sich Selbst Mit Seiner Wahl Mit Seinem Schweigen Mit Seinem Wissen Mit Seinem Ende Das Niemand Kennt Außer Ihm Selbst Und Ihr Selbst Und Jenem Dritten Unbekannten Ungesehen Unvergessenen Der In Der Nacht Starb Als Ögedei Khan Starb Als Der Becher Fiel Als Der Wein Verschwand Als Der Diener Floh Als Die Wahrheit Begann Endlos Zu Werden Unaufhaltsam Unausweichlich Unvergänglich Wie Ein Fluch Wie Ein Segen Wie Ein Name Den Man Nicht Aussprechen Darf Weil Er Brennt Weil Er Verbrennt Weil Er Asche Hinterlässt Wo Einmal Leben War Wo Einmal Liebe War Wo Einmal Alles War Was Man Brauchte Zum Atmen Zum Leben Zum Bleiben Zum Gehen Zum Sterben In Frieden In Ruhe In Stille Endlich Endlos Ewig Ohne Wiederkehr Ohne Erlösung Ohne Ende
 
 Güyük sagte:
  „Du würdest sterben für diesen Namen?“

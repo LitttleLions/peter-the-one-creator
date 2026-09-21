@@ -43,8 +43,8 @@ book:
   translator: "Motivatier Classics"
   translator_label: "Übersetzung und editorische Einrichtung"
   language: "de"
-  publisher: "Motivatier Hermann Stiftung"
-  rights: "© 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung."
+  publisher: "Motivatier Stiftung"
+  rights: "© 2026 Motivatier Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung."
   original_title: "Жизнь Арсеньева"
   original_author: "Iwan Bunin (Iwan Alexejewitsch Bunin, 1870–1953)"
   source_title: "Жизнь Арсеньева"
@@ -75,7 +75,7 @@ book:
     - "Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft."
     - "Bei diesem Werk wurde auf die vollständige russische Originalfassung und eine konsistente Kapitel- und Buchstruktur geachtet."
     - "Kurze Vorspänne, Motti oder Orientierungstexte vor den Kapiteln stammen nicht aus dem Original, sofern solche in dieser Ausgabe verwendet werden."
-    - "Herausgegeben von der Motivatier Hermann Stiftung"
+    - "Herausgegeben von der Motivatier Stiftung"
   imprint_text: |
     Das Leben Arsenjews
 
@@ -92,10 +92,10 @@ book:
 
     Die kurzen Vorspänne, Motti oder Orientierungstexte vor den Kapiteln stammen nicht aus dem Original. Sie wurden für diese Ausgabe ergänzt, um historische, atmosphärische und erzählerische Orientierung zu geben.
 
-    Herausgegeben von der Motivatier Hermann Stiftung
+    Herausgegeben von der Motivatier Stiftung
     Übersetzung und editorische Einrichtung: Motivatier Classics
 
-    © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.
+    © 2026 Motivatier Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.
 
     Das zugrunde liegende Werk und die verwendete gemeinfreie Originalvorlage sind gemeinfrei. Rechte an dieser Ausgabe bestehen, soweit sie die neue deutsche Übersetzung, die redaktionellen Ergänzungen, die Gestaltung, das Cover und die konkrete Einrichtung des Textes betreffen.
 
@@ -106,5 +106,5 @@ book:
 
 website:
   enabled: true
-  amazon_url: ''
+  amazon_url: 'https://www.amazon.de/Das-Leben-Arsenjews-Iwan-Bunin-ebook/dp/B0HJZJFKCQ/'
   sort_order: 20

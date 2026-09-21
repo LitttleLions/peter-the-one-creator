@@ -1,0 +1,59 @@
+{
+  "book": "pissemski-tausend-seelen",
+  "chapter": "001",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\work\\scenes\\de\\stil-02-poetisch\\001\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\work\\prompts\\higgsfield\\001-chapter-stil-02-poetisch.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\assets\\chapter\\chapter-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 001. Russian provincial town and Petersburg in the 1850s, bureaucratic society. Cinematic literary historical illustration, elegant realism, painterly detail, interior light and winter streets. Officials, drawing rooms, country estate, young careerist. Palette: candle gold, dark wood, snow grey, uniform green, faded red. Socially observant, emotionally intelligent. In den Erlassen der Zivilverwaltung hieß es unter anderem: „Der etatmäßige Aufseher der Kreisschule von Ensk, Kollegienassessor Godnew, wird mit der Uniform und der Pension, die seinem Dienste zuerkannt sind, entlassen“; und weiter sodann: „Zum Aufseher der Schule von Ensk wird der Kandidat Kalinowitsch bestimmt.“",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_164544_43c9c174-ad34-4035-88eb-956804eadf4f.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-18T16:45:44.621182Z",
+      "display_name": "GPT Image 2",
+      "id": "43c9c174-ad34-4035-88eb-956804eadf4f",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_164544_43c9c174-ad34-4035-88eb-956804eadf4f_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 001. Russian provincial town and Petersburg in the 1850s, bureaucratic society. Cinematic literary historical illustration, elegant realism, painterly detail, interior light and winter streets. Officials, drawing rooms, country estate, young careerist. Palette: candle gold, dark wood, snow grey, uniform green, faded red. Socially observant, emotionally intelligent. In den Erlassen der Zivilverwaltung hieß es unter anderem: „Der etatmäßige Aufseher der Kreisschule von Ensk, Kollegienassessor Godnew, wird mit der Uniform und der Pension, die seinem Dienste zuerkannt sind, entlassen“; und weiter sodann: „Zum Aufseher der Schule von Ensk wird der Kandidat Kalinowitsch bestimmt.“",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_164544_43c9c174-ad34-4035-88eb-956804eadf4f.png",
+      "status": "completed"
+    }
+  ]
+}

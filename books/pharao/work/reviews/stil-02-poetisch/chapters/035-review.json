@@ -12,7 +12,38 @@
       "de_path": "books\\pharao\\work\\scenes\\de\\stil-02-poetisch\\035\\scene-01.md",
       "ru_words": 3605,
       "de_words": 2976,
-      "findings": []
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "paragraph_drop",
+          "message": "DE-Szene hat deutlich weniger Absaetze als die PL-Quelle (98 statt 158) und weniger Woerter (0.83 x).",
+          "chapter": "035",
+          "scene": 1,
+          "evidence": "DE-Absaetze=98, Quell-Absaetze=158, DE/PL-Woerter=2976/3605 (0.83)",
+          "recommendation": "Auf Raffung/Auslassung pruefen; betroffene Szene mit Chunking neu uebersetzen (translate_chapter.py --chunk-char-limit 7000).",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "WARNING",
+          "category": "length_outlier",
+          "message": "DE/PL-Wortverhaeltnis 0.83 weicht stark vom Buch-Median 1.22 ab.",
+          "chapter": "035",
+          "scene": 1,
+          "evidence": "PL=3605, DE=2976, Buch-Median=1.22",
+          "recommendation": "Auf Raffung pruefen; betroffene Szene mit Chunking neu uebersetzen (translate_chapter.py --chunk-char-limit 7000).",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
     }
   ]
 }

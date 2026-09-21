@@ -1,4 +1,4 @@
-# Handover – Stand 2026-09-18 (Arsenjews auf Amazon, wartet auf Freigabe; Chronik Gate 0/0, EPUB 20260918-172522, Repetition-Detektor 41W/48I; Aelita LIVE; Anna PARKIERT)
+# Handover – Stand 2026-09-21 nachm. (Chronik KDP-fertig: EPUB 131112, Gate 0/13/36, Timo Verita + Classics + Motivatier Stiftung; Untertitel eingebaut/exportiert, Mongolen-Serie in KDP anzulegen; Aelita LIVE; Anna PARKIERT)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei,
 > bei Bedarf [README.md](../README.md) und [webpage/README.md](../webpage/README.md).
@@ -33,7 +33,7 @@ Buchzentrierte Übersetzungs-/Export-Werkbank (`books/<id>/`). Dashboard = FastA
 | `anna-karenina` | Anna Karenina | stil-02-poetisch | 20 | `annakarenina.png` (per `image_path`) + Regal-Kopie | **PARKIERT** (Nutzerentscheidung 09/2026) |
 | `pharao` | Der Pharao | stil-02-poetisch | 30 | `cover.jpg` | **LIVE** |
 | `feuriger-engel` | Der feurige Engel | stil-02-poetisch | 50 | `cover.jpg` / `.png` | **LIVE** |
-| `die-dritte-chronik` | Die dritte Chronik | stil-01-original | 60 | `cover.jpg` / `.png` |
+| `die-dritte-chronik` | Die dritte Chronik | stil-01-original | 60 | `cover.jpg` / `.png` | **Redaktion + Bilder fertig 2026-09-19** (Gate 0/13/36, 29/48 clean, 48/48 bebildert, EPUB 20260919-222611 mit 50 Bildern ohne Bypass; offen: DOCX/PDF-Neubau, Leseprobe) |
 | `geheime-geschichte-mongolen` | Die Geheime Geschichte der Mongolen | stil-01-original | 70 | `cover.png` (neu 09/2026) + `coverII.png` |
 | `kuprin-duell` | Das Duell | stil-01-original | 40 (nicht freigegeben) | `cover.png` |
 | `kuprin-moloch` | Der Moloch | stil-01-original | 40 (nicht freigegeben) | `cover.png` (neu 09/2026) |
@@ -185,6 +185,18 @@ Review-Marker (`aelita` 1, `leben-arsenjews` 54, `peter-i-buch-01` 7) sind gewol
 Top-5 im Trockenlauf: 111 Kapitel / 221 Kommandos, 299.226 Quellwoerter (Summe
 `words_source`).
 
+**Parallel-Session 2026-09-19 (Working Tree, nicht committet):** Ein zweites
+Chat-Fenster hat (a) am Top-5-Paket `pissemski-tausend-seelen` 9 von 44
+Kapiteln in `stil-02-poetisch` erzeugt (Szenen + Reviews untracked;
+`status.py` meldet 9/44, default-Style bleibt `stil-01-original`) und
+(b) fuer die Chronik die **Szenenbilder 021-048** generiert
+(`assets/scene/021..048/scene-001.jpg`, 19.09. 18:49-19:12, untracked;
+damit ist die Bebilderung mit 48/48 komplett - Kapitelbild 001-014,
+Szenenbild 008 + 015-048). Ausserdem neu/uncommittet:
+`kuprin-moloch`-Prompts und Regal-Cover
+`webpage/public/covers/{grin-wellenlaeuferin,pissemski-tausend-seelen}.png`.
+Nicht ueberschreiben, nur ergaenzen.
+
 ### Geheime Geschichte der Mongolen
 
 - Quelle `ja` → Ziel `de`; `structure.mode: scenes`; ~317 Abschnitte als `work/scenes/ja/NNN/scene-NN.md`
@@ -199,7 +211,18 @@ Top-5 im Trockenlauf: 111 Kapitel / 221 Kommandos, 299.226 Quellwoerter (Summe
 - DE-Original (kein Übersetzungsprojekt); Import: `python tools/import_die_dritte_chronik.py`
 - `chapter_as_scene`, Display `format: literary`
 - Cover liegt; Export-Pfad bereit
-- **Offen:** restliche Kapitelbilder (Web-UI-Moodboard oder CLI); EPUB-Feinschliff
+- Redaktion 2026-09-18/19 ohne OpenRouter abgeschlossen: 008+012 clean 0/0,
+  034 nur Satzzeichen, komplett-Runde 031/033/036 (Neufassungen; 031 bei
+  0W/1I Stilmittel, 033+036 clean 0/0), mini 009/026/035 clean, 018 0W/4I,
+  041 0W/1I. Gate ERROR=0/WARNING=13/INFO=36, 29/48 clean
+- **Bebilderung komplett (2026-09-19):** 48/48 Kapitel bebildert
+  (Kapitelbild 001-014, Szenenbild 008 + 015-048 = 49 Bilder + Cover).
+  Buch-EPUB `book-die-dritte-chronik-stil-01-original-20260919-222611.epub`
+  (4,99 MB, 50 Bilder, alle JPEGs validiert, Gate 0 Fehler, ohne Bypass).
+  Die Szenenbilder 021-048 sind noch untracked (Parallel-Session)
+- **Offen (Release-Einschaetzung 2026-09-19: Text + Bilder bereit):**
+  (1) frischer DOCX/PDF-Bau vom aktuellen Stand, (2) menschliche
+  Leseprobe (Kindle Previewer + Stichprobe 031/033/036, 009/035/041)
 
 ### Leben Arsenjews
 
@@ -508,11 +531,30 @@ Higgsfield: [docs/higgsfield-integration.md](higgsfield-integration.md). Web-UI-
 4. Regal-Freigabe nach der finalen Cover-Wahl (`website.enabled: true`, `sort_order` 41–43; `kuprin-duell` behält 40), danach `python tools/build_shelf_website.py` – die Handcover sind seit `0162ef9` im Repo, die Regal-Kopien fuer aelita/mongolen aber noch alt. Cover entstehen weiter von Hand (kein CLI-Weg: `generate_illustration.py` kennt nur `--kind scene|chapter`)
 5. Anna Karenina: 73 offene Kapitel (167–239) in `stil-02-poetisch` – Default-Style ist jetzt korrekt gesetzt
 6. Geheime Geschichte: 14 Monolith-Kapitel abschnittsweise in `stil-04-original-geheim` (000, 001–005, 007–013 = 284 Szenen) plus Szene 07 in 014; Kapitel 006 ist dateiseitig fertig und wartet nur auf Review
-7. Dritte Chronik (2026-09-18): Gate 0/0, EPUB `...-20260918-172522.epub`
-   ohne Bypass; Repetition-Detektor (`tools/lib/repetition.py`, Kategorie
-   `repetition_style`, nur INFO/WARNING, nie ERROR) liefert 41W/48I —
-   Redaktion b/c steht aus; fehlende Kapitelbilder (30/48 vorhanden),
-   Leser-EPUB prüfen
+7. Dritte Chronik (2026-09-21 nachm., KDP-fertig): Gate
+   ERROR=0/WARNING=13/INFO=36, Bilder 48/48 (EPUB
+   `...-20260921-131112.epub`, 50 Bilder, ohne Bypass). Redaktion
+   kapitelweise ohne OpenRouter abgeschlossen (Stand 19.09.):
+   komplett-Runde 031 (Neufassung 3753 W), 033 (3539 W, clean),
+   036 (785 W, clean); mini 009/026/035 clean, 018 0W/4I, 041 0W/1I;
+   025-Neufassung ("Der Onkel", 3103 W, 0/0/0 + repetitonsfrei).
+   KDP-Rollen 21.09.: Autor Timo Verita, Editor Motivatier Classics
+   (kein Uebersetzer – deutsches Original!), Verlag/Herausgeber
+   Motivatier Stiftung (ohne "Hermann", repo-weit 71 Stellen
+   ersetzt). Bio Variante 3 ("zwei Haelften", Buchstabenspiel,
+   Welt-von-gestern + aktueller Schauplatz). Titelei + Impressum
+   mit Classics oben, Stiftung unten. KDP-Texte:
+   `docs/kdp-texte-dritte-chronik.md`. Rest-Tabelle
+   `docs/offene-punkte.md` Punkt 6 + Punkt 12 (Kontinuitaet,
+   Bio, Reihen-Auftritt; Kontinuitaets-Modell
+   `docs/kontinuitaetspruefung-chronik.md`). Umgesetzt 21.09.
+   nachm.: Untertitel "Die Chronik derer, die nicht schreiben
+   duerfen" in `export.yaml: book.subtitle` + EPUB-Titelei
+   (verifiziert) + Regal-Katalog neu; KDP-Serie "Chroniken des
+   Mongolenreichs" (Band 1 Chronik, Band 2 Geheime Geschichte)
+   nur in KDP anzulegen (Serientexte in `docs/kdp-texte-dritte-chronik.md`
+   Abschnitt 5). Offen nur noch: Kindle Previewer +
+   Leseprobe, KDP-Upload durch Nutzer, Amazon-URL zurueckspielen.
 8. Regal: Amazon-URLs setzen; optional Mint-Hardcover-GLBs; Deploy von `webpage/dist/`
 9. Optional: Feature-Branch `codex/geheime-geschichte-mongolen-prompts` remote löschen, wenn alle Clients auf `main` sind
 10. Anna-Cover: geprueft und erledigt – `export.yaml` setzt `cover.mode: image` mit `image_path: assets/covers/annakarenina.png` (Vorrang vor `find_named_image(..., "cover")`); nur bei geleertem Feld droht der Platzhalter

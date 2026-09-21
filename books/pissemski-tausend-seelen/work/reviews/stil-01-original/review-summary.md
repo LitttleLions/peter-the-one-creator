@@ -1,0 +1,100 @@
+# Review Summary: Tausend Seelen
+
+- Buch-ID: pissemski-tausend-seelen
+- Stil: stil-01-original
+- Erstellt: 2026-09-21T13:24:59
+- LLM: none
+- Kapitel: 44
+- Kapitel mit Befunden: 39
+- Fehler: 39
+- Warnungen: 0
+- Hinweise: 0
+
+## Kapitel
+
+- 001: OK (ERROR=0, WARNING=0, INFO=0)
+- 002: OK (ERROR=0, WARNING=0, INFO=0)
+- 003: OK (ERROR=0, WARNING=0, INFO=0)
+- 004: OK (ERROR=0, WARNING=0, INFO=0)
+- 005: OK (ERROR=0, WARNING=0, INFO=0)
+- 006: Befund (ERROR=1, WARNING=0, INFO=0)
+- 007: Befund (ERROR=1, WARNING=0, INFO=0)
+- 008: Befund (ERROR=1, WARNING=0, INFO=0)
+- 009: Befund (ERROR=1, WARNING=0, INFO=0)
+- 010: Befund (ERROR=1, WARNING=0, INFO=0)
+- 011: Befund (ERROR=1, WARNING=0, INFO=0)
+- 012: Befund (ERROR=1, WARNING=0, INFO=0)
+- 013: Befund (ERROR=1, WARNING=0, INFO=0)
+- 014: Befund (ERROR=1, WARNING=0, INFO=0)
+- 015: Befund (ERROR=1, WARNING=0, INFO=0)
+- 016: Befund (ERROR=1, WARNING=0, INFO=0)
+- 017: Befund (ERROR=1, WARNING=0, INFO=0)
+- 018: Befund (ERROR=1, WARNING=0, INFO=0)
+- 019: Befund (ERROR=1, WARNING=0, INFO=0)
+- 020: Befund (ERROR=1, WARNING=0, INFO=0)
+- 021: Befund (ERROR=1, WARNING=0, INFO=0)
+- 022: Befund (ERROR=1, WARNING=0, INFO=0)
+- 023: Befund (ERROR=1, WARNING=0, INFO=0)
+- 024: Befund (ERROR=1, WARNING=0, INFO=0)
+- 025: Befund (ERROR=1, WARNING=0, INFO=0)
+- 026: Befund (ERROR=1, WARNING=0, INFO=0)
+- 027: Befund (ERROR=1, WARNING=0, INFO=0)
+- 028: Befund (ERROR=1, WARNING=0, INFO=0)
+- 029: Befund (ERROR=1, WARNING=0, INFO=0)
+- 030: Befund (ERROR=1, WARNING=0, INFO=0)
+- 031: Befund (ERROR=1, WARNING=0, INFO=0)
+- 032: Befund (ERROR=1, WARNING=0, INFO=0)
+- 033: Befund (ERROR=1, WARNING=0, INFO=0)
+- 034: Befund (ERROR=1, WARNING=0, INFO=0)
+- 035: Befund (ERROR=1, WARNING=0, INFO=0)
+- 036: Befund (ERROR=1, WARNING=0, INFO=0)
+- 037: Befund (ERROR=1, WARNING=0, INFO=0)
+- 038: Befund (ERROR=1, WARNING=0, INFO=0)
+- 039: Befund (ERROR=1, WARNING=0, INFO=0)
+- 040: Befund (ERROR=1, WARNING=0, INFO=0)
+- 041: Befund (ERROR=1, WARNING=0, INFO=0)
+- 042: Befund (ERROR=1, WARNING=0, INFO=0)
+- 043: Befund (ERROR=1, WARNING=0, INFO=0)
+- 044: Befund (ERROR=1, WARNING=0, INFO=0)
+
+## Release-blockierende Fehler
+
+- 006, Szene 01: cyrillic_in_translation - DE-Szene enthaelt kyrillische Zeichen.
+- 007, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 008, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 009, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 010, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 011, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 012, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 013, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 014, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 015, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 016, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 017, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 018, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 019, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 020, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 021, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 022, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 023, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 024, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 025, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 026, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 027, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 028, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 029, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 030, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 031, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 032, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 033, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 034, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 035, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 036, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 037, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 038, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 039, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 040, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 041, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 042, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 043, Szene 01: missing_de_scene - DE-Szene 01 fehlt.
+- 044, Szene 01: missing_de_scene - DE-Szene 01 fehlt.

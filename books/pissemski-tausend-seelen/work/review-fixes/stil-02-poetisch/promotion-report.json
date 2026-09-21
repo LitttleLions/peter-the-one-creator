@@ -1,0 +1,21 @@
+{
+  "book_id": "pissemski-tausend-seelen",
+  "style": "stil-02-poetisch",
+  "created_at": "2026-09-21T13:35:56",
+  "promoted": 1,
+  "skipped": 0,
+  "assembled_chapters": [
+    "books\\pissemski-tausend-seelen\\work\\assembled\\stil-02-poetisch\\006-translation-v2-stil-02-poetisch.md"
+  ],
+  "items": [
+    {
+      "chapter": "006",
+      "scene": 1,
+      "source_path": "books\\pissemski-tausend-seelen\\work\\scenes\\de\\stil-02-poetisch\\006\\scene-01.md",
+      "candidate_path": "books\\pissemski-tausend-seelen\\work\\review-fixes\\stil-02-poetisch\\006\\scene-01.md",
+      "status": "promoted",
+      "message": "uebernommen",
+      "backup_path": "books\\pissemski-tausend-seelen\\work\\scenes\\de\\stil-02-poetisch\\006\\scene-01.md.bak-20260921-133556"
+    }
+  ]
+}

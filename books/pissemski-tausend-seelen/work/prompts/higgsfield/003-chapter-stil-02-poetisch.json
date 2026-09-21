@@ -1,0 +1,59 @@
+{
+  "book": "pissemski-tausend-seelen",
+  "chapter": "003",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\work\\scenes\\de\\stil-02-poetisch\\003\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\work\\prompts\\higgsfield\\003-chapter-stil-02-poetisch.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\assets\\chapter\\chapter-003.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 003. Russian provincial town and Petersburg in the 1850s, bureaucratic society. Cinematic literary historical illustration, elegant realism, painterly detail, interior light and winter streets. Officials, drawing rooms, country estate, young careerist. Palette: candle gold, dark wood, snow grey, uniform green, faded red. Socially observant, emotionally intelligent. Etwa drei Wochen nach dem Erlass des Befehls saß Pjotr Michailytsch eines Abends — zur großen Freude des Hauptmanns — über Danilewskis Geschichte des Jahres Zwölf, während Nastjenka am Fenster saß und nachdenklich auf die Lichtung blickte, die in bleichem Mondlicht lag. In den Flur trat Gawrilytsch und begann, mit dem dort sitzenden Stubenmädchen vor sich hinzumurren. „Was willst du, Grenadier, weshalb bist du gekommen?“, rief Pjotr Michailytsch. „Zu Euch, Herr“, antwortete Terka und streckte sein pockennarbiges Gesicht durch die halb geöffnete Tür. „Der neue Aufseher ist angekommen, und er verlangt die Lehrer morgen um die neunte Stunde zu sich in die Wohnung zum Sammeln, dass sie unbedingt in Uniform erscheinen.“ — „Ei, sieh da! Der junge Mann scheint ja ein Mann der Ordnung zu sein! Das ist ja, Hauptmann, ganz nach Eurem Sinn, nach Militärart; nicht wahr, was?“ — sagte Pjotr Michailytsch, sich an seinen Bruder wendend. „Jawohl, ganz recht“, antwortete dieser tiefsinnig. „Wo hat sich denn der neue Herr Aufseher einquartiert?“, fuhr Pjotr Michailytsch fort. „Im Gasthof, bei Afonka Bespaly“, antwortete Terka mit einer gewissen Verdrossenheit. „Warst du denn selbst bei ihm?“ — „Nein, war ich nicht; wozu auch! Die Wirtin von Afonka, hört man, ist hergelaufen, damit sie morgen um die neunte Stunde unbedingt in Uniform — das ist es!“ — „So geh und sag es ihnen!“ — „Heute nicht, ich gehe nicht: da klopft man sich die Hände wund … es ist spät; morgen sag ich es ihnen.“ — „Meinetwegen; aber sieh zu, dass du früh genug gehst; und sag den Herren Lehrern, sie sollen sich sauberer in die Uniform kleiden und bei mir vorbeikommen: wir gehen zusammen. Und rasiere dich auch, zieh die Filzstiefel aus, und vor allem — deine Kohlsuppe, — sieh dich vor bei mir!“ — „Nun fängst du schon wieder an, Kohlsuppe und Kohlsuppe! Du hast auch nichts anderes im Kopf!“, sagte der Invalide und schlug zornig die Tür zu und ging. Pjotr Michailytsch lächelte ihm nach. Gawrilytsch jedoch erfüllte...",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_165357_026a9b9a-02d0-480c-8655-94a7eb775fda.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-18T16:53:57.044086Z",
+      "display_name": "GPT Image 2",
+      "id": "026a9b9a-02d0-480c-8655-94a7eb775fda",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_165357_026a9b9a-02d0-480c-8655-94a7eb775fda_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 003. Russian provincial town and Petersburg in the 1850s, bureaucratic society. Cinematic literary historical illustration, elegant realism, painterly detail, interior light and winter streets. Officials, drawing rooms, country estate, young careerist. Palette: candle gold, dark wood, snow grey, uniform green, faded red. Socially observant, emotionally intelligent. Etwa drei Wochen nach dem Erlass des Befehls saß Pjotr Michailytsch eines Abends — zur großen Freude des Hauptmanns — über Danilewskis Geschichte des Jahres Zwölf, während Nastjenka am Fenster saß und nachdenklich auf die Lichtung blickte, die in bleichem Mondlicht lag. In den Flur trat Gawrilytsch und begann, mit dem dort sitzenden Stubenmädchen vor sich hinzumurren. „Was willst du, Grenadier, weshalb bist du gekommen?“, rief Pjotr Michailytsch. „Zu Euch, Herr“, antwortete Terka und streckte sein pockennarbiges Gesicht durch die halb geöffnete Tür. „Der neue Aufseher ist angekommen, und er verlangt die Lehrer morgen um die neunte Stunde zu sich in die Wohnung zum Sammeln, dass sie unbedingt in Uniform erscheinen.“ — „Ei, sieh da! Der junge Mann scheint ja ein Mann der Ordnung zu sein! Das ist ja, Hauptmann, ganz nach Eurem Sinn, nach Militärart; nicht wahr, was?“ — sagte Pjotr Michailytsch, sich an seinen Bruder wendend. „Jawohl, ganz recht“, antwortete dieser tiefsinnig. „Wo hat sich denn der neue Herr Aufseher einquartiert?“, fuhr Pjotr Michailytsch fort. „Im Gasthof, bei Afonka Bespaly“, antwortete Terka mit einer gewissen Verdrossenheit. „Warst du denn selbst bei ihm?“ — „Nein, war ich nicht; wozu auch! Die Wirtin von Afonka, hört man, ist hergelaufen, damit sie morgen um die neunte Stunde unbedingt in Uniform — das ist es!“ — „So geh und sag es ihnen!“ — „Heute nicht, ich gehe nicht: da klopft man sich die Hände wund … es ist spät; morgen sag ich es ihnen.“ — „Meinetwegen; aber sieh zu, dass du früh genug gehst; und sag den Herren Lehrern, sie sollen sich sauberer in die Uniform kleiden und bei mir vorbeikommen: wir gehen zusammen. Und rasiere dich auch, zieh die Filzstiefel aus, und vor allem — deine Kohlsuppe, — sieh dich vor bei mir!“ — „Nun fängst du schon wieder an, Kohlsuppe und Kohlsuppe! Du hast auch nichts anderes im Kopf!“, sagte der Invalide und schlug zornig die Tür zu und ging. Pjotr Michailytsch lächelte ihm nach. Gawrilytsch jedoch erfüllte...",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_165357_026a9b9a-02d0-480c-8655-94a7eb775fda.png",
+      "status": "completed"
+    }
+  ]
+}

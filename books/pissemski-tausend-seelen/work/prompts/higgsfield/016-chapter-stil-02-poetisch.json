@@ -1,0 +1,59 @@
+{
+  "book": "pissemski-tausend-seelen",
+  "chapter": "016",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\work\\chapters\\016-source.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\work\\prompts\\higgsfield\\016-chapter-stil-02-poetisch.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\assets\\chapter\\chapter-016.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 016. Russian provincial town and Petersburg in the 1850s, bureaucratic society. Cinematic literary historical illustration, elegant realism, painterly detail, interior light and winter streets. Officials, drawing rooms, country estate, young careerist. Palette: candle gold, dark wood, snow grey, uniform green, faded red. Socially observant, emotionally intelligent. Результатом предыдущего разговора было то, что князь, несмотря на все свое старание, никак не мог сохранить с Калиновичем по-прежнему ласковое и",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_170535_6779f0f2-d00f-46b6-8efc-0f6eec684fcf.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-18T17:05:35.471026Z",
+      "display_name": "GPT Image 2",
+      "id": "6779f0f2-d00f-46b6-8efc-0f6eec684fcf",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_170535_6779f0f2-d00f-46b6-8efc-0f6eec684fcf_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 016. Russian provincial town and Petersburg in the 1850s, bureaucratic society. Cinematic literary historical illustration, elegant realism, painterly detail, interior light and winter streets. Officials, drawing rooms, country estate, young careerist. Palette: candle gold, dark wood, snow grey, uniform green, faded red. Socially observant, emotionally intelligent. Результатом предыдущего разговора было то, что князь, несмотря на все свое старание, никак не мог сохранить с Калиновичем по-прежнему ласковое и",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_170535_6779f0f2-d00f-46b6-8efc-0f6eec684fcf.png",
+      "status": "completed"
+    }
+  ]
+}

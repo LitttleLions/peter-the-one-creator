@@ -1,0 +1,54 @@
+{
+  "book_id": "aelita",
+  "media": [
+    {
+      "path": "books/aelita/assets/chapter/chapter-001.jpg",
+      "kind": "chapter_image",
+      "exists": true,
+      "used_by": [
+        "x-t1-song",
+        "yt-main",
+        "yt-short-1",
+        "x-t8-sample"
+      ],
+      "chapter": "001"
+    },
+    {
+      "path": "books/aelita/assets/chapter/chapter-003.jpg",
+      "kind": "chapter_image",
+      "exists": true,
+      "used_by": [
+        "x-t5-content"
+      ],
+      "chapter": "003"
+    },
+    {
+      "path": "books/aelita/assets/chapter/chapter-014.jpg",
+      "kind": "chapter_image",
+      "exists": true,
+      "used_by": [
+        "yt-short-2"
+      ],
+      "chapter": "014"
+    },
+    {
+      "path": "books/aelita/assets/chapter/chapter-020.jpg",
+      "kind": "chapter_image",
+      "exists": true,
+      "used_by": [
+        "x-t12-second-angle"
+      ],
+      "chapter": "020"
+    },
+    {
+      "path": "books/aelita/assets/covers/cover.png",
+      "kind": "cover",
+      "exists": true,
+      "used_by": [
+        "x-t0-intro",
+        "x-t2-youtube"
+      ]
+    }
+  ],
+  "note": "Pfade sind repo-relativ (POSIX), damit das Paket uebertragbar bleibt."
+}

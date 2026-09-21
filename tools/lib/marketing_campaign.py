@@ -69,7 +69,7 @@ SENTENCE_END = ".!?"
 DEFAULT_GLOBAL_CONFIG: dict[str, Any] = {
     "brand": {
         "label": "Motivatier Classics",
-        "publisher": "Motivatier Hermann Stiftung",
+        "publisher": "Motivatier Stiftung",
         "shelf_url": "https://stiftung.motivatier.de/classics/index.html",
         "shelf_intro": "Weitere Buecher von Motivatier Classics",
     },

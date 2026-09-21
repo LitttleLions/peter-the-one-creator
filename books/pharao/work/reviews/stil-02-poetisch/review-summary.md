@@ -2,17 +2,88 @@
 
 - Buch-ID: pharao
 - Stil: stil-02-poetisch
-- Erstellt: 2026-06-23T17:51:47
-- LLM: ollama
-- Kapitel: 2
+- Erstellt: 2026-09-17T18:56:35
+- LLM: none
+- Kapitel: 69
 - Kapitel mit Befunden: 2
-- Fehler: 0
-- Warnungen: 0
+- Fehler: 3
+- Warnungen: 2
 - Hinweise: 0
 
 ## Kapitel
 
+- 000: Befund (ERROR=3, WARNING=0, INFO=0)
 - 001: OK (ERROR=0, WARNING=0, INFO=0)
 - 002: OK (ERROR=0, WARNING=0, INFO=0)
+- 003: OK (ERROR=0, WARNING=0, INFO=0)
+- 004: OK (ERROR=0, WARNING=0, INFO=0)
+- 005: OK (ERROR=0, WARNING=0, INFO=0)
+- 006: OK (ERROR=0, WARNING=0, INFO=0)
+- 007: OK (ERROR=0, WARNING=0, INFO=0)
+- 008: OK (ERROR=0, WARNING=0, INFO=0)
+- 009: OK (ERROR=0, WARNING=0, INFO=0)
+- 010: OK (ERROR=0, WARNING=0, INFO=0)
+- 011: OK (ERROR=0, WARNING=0, INFO=0)
+- 012: OK (ERROR=0, WARNING=0, INFO=0)
+- 013: OK (ERROR=0, WARNING=0, INFO=0)
+- 014: OK (ERROR=0, WARNING=0, INFO=0)
+- 015: OK (ERROR=0, WARNING=0, INFO=0)
+- 016: OK (ERROR=0, WARNING=0, INFO=0)
+- 017: OK (ERROR=0, WARNING=0, INFO=0)
+- 018: OK (ERROR=0, WARNING=0, INFO=0)
+- 019: OK (ERROR=0, WARNING=0, INFO=0)
+- 020: OK (ERROR=0, WARNING=0, INFO=0)
+- 021: OK (ERROR=0, WARNING=0, INFO=0)
+- 022: OK (ERROR=0, WARNING=0, INFO=0)
+- 023: OK (ERROR=0, WARNING=0, INFO=0)
+- 024: OK (ERROR=0, WARNING=0, INFO=0)
+- 025: OK (ERROR=0, WARNING=0, INFO=0)
+- 026: OK (ERROR=0, WARNING=0, INFO=0)
+- 027: OK (ERROR=0, WARNING=0, INFO=0)
+- 028: OK (ERROR=0, WARNING=0, INFO=0)
+- 029: OK (ERROR=0, WARNING=0, INFO=0)
+- 030: OK (ERROR=0, WARNING=0, INFO=0)
+- 031: OK (ERROR=0, WARNING=0, INFO=0)
+- 032: OK (ERROR=0, WARNING=0, INFO=0)
+- 033: OK (ERROR=0, WARNING=0, INFO=0)
+- 034: OK (ERROR=0, WARNING=0, INFO=0)
+- 035: Befund (ERROR=0, WARNING=2, INFO=0)
+- 036: OK (ERROR=0, WARNING=0, INFO=0)
+- 037: OK (ERROR=0, WARNING=0, INFO=0)
+- 038: OK (ERROR=0, WARNING=0, INFO=0)
+- 039: OK (ERROR=0, WARNING=0, INFO=0)
+- 040: OK (ERROR=0, WARNING=0, INFO=0)
+- 041: OK (ERROR=0, WARNING=0, INFO=0)
+- 042: OK (ERROR=0, WARNING=0, INFO=0)
+- 043: OK (ERROR=0, WARNING=0, INFO=0)
+- 044: OK (ERROR=0, WARNING=0, INFO=0)
+- 045: OK (ERROR=0, WARNING=0, INFO=0)
+- 046: OK (ERROR=0, WARNING=0, INFO=0)
+- 047: OK (ERROR=0, WARNING=0, INFO=0)
+- 048: OK (ERROR=0, WARNING=0, INFO=0)
+- 049: OK (ERROR=0, WARNING=0, INFO=0)
+- 050: OK (ERROR=0, WARNING=0, INFO=0)
+- 051: OK (ERROR=0, WARNING=0, INFO=0)
+- 052: OK (ERROR=0, WARNING=0, INFO=0)
+- 053: OK (ERROR=0, WARNING=0, INFO=0)
+- 054: OK (ERROR=0, WARNING=0, INFO=0)
+- 055: OK (ERROR=0, WARNING=0, INFO=0)
+- 056: OK (ERROR=0, WARNING=0, INFO=0)
+- 057: OK (ERROR=0, WARNING=0, INFO=0)
+- 058: OK (ERROR=0, WARNING=0, INFO=0)
+- 059: OK (ERROR=0, WARNING=0, INFO=0)
+- 060: OK (ERROR=0, WARNING=0, INFO=0)
+- 061: OK (ERROR=0, WARNING=0, INFO=0)
+- 062: OK (ERROR=0, WARNING=0, INFO=0)
+- 063: OK (ERROR=0, WARNING=0, INFO=0)
+- 064: OK (ERROR=0, WARNING=0, INFO=0)
+- 065: OK (ERROR=0, WARNING=0, INFO=0)
+- 066: OK (ERROR=0, WARNING=0, INFO=0)
+- 067: OK (ERROR=0, WARNING=0, INFO=0)
+- 068: OK (ERROR=0, WARNING=0, INFO=0)
 
-Alle geprueften Kapitel sind regelbasiert unauffaellig — keine kyrillischen Reste, keine Encoding-Fehler, keine auffaelligen Laengen, keine Degeneration.
+## Release-blockierende Fehler
+
+- 000, Szene 01: length_ratio - DE/PL-Wortverhaeltnis ist stark auffaellig (0.23).
+- 000, Szene 01: paragraph_drop - DE-Szene hat deutlich weniger Absaetze als die PL-Quelle (12 statt 24) und weniger Woerter (0.23 x).
+- 000, Szene 01: length_outlier - DE/PL-Wortverhaeltnis 0.23 weicht stark vom Buch-Median 1.22 ab.

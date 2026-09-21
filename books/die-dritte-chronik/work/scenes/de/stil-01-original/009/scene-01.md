@@ -94,7 +94,7 @@ Endlich drehte er sich um sein Gesicht hart kalt leer tot:
 
 Töregene antwortete nicht.
 Sie sah ihn nur an mit diesem Blick den Fatima kannte:
-Dem Blick einer Frau die schon alles gesehen hatte schon alles verloren hatte schon alles gewonnen hatte schon alles überlebt hatte schon alles ertragen hatte schon alles verstanden hatte schon alles vergeben hatte schon alles bereut hatte schon alles neu gemacht hatte…
+Dem Blick einer Frau, die schon alles gesehen hatte. Schon alles verloren, alles gewonnen. Schon alles überlebt, alles ertragen. Schon alles verstanden, alles vergeben. Schon alles bereut — und schon alles neu gemacht…
 
 Und dann sprach sie zwei Worte:
 Zwei Worte so leise gesprochen dass Fatima sie kaum hörte aber jeder Buchstabe brannte sich ins Gedächtnis ein:
@@ -106,14 +106,14 @@ Die Stille danach war ohrenbetäubend zerdrückend erstickend vernichtend endgü
 Güyük stand regungslos da minutenlang minutenlang minutenlang minutenlang minutenlang…
 Dann wandte er sich ab trat durch den Vorhang verschwand in der Dunkelheit draußen wo Schnee fiel wo Wind heulte wo Nacht herrschte wo Kälte regierte wo Einsamkeit lauerte wo Tod wartete…
 
-Der Vorhang fiel zurück; die Stille blieb zurück; Töregene setzte sich wieder zurück nickte kaum merklich zurück gab Zeichen zurück Normalität zurück Alltag zurück Routine zurück…
+Der Vorhang fiel zurück, die Stille blieb. Töregene setzte sich wieder, nickte kaum merklich, gab Zeichen: Normalität, Alltag, Routine…
 
 Fatima atmete aus atmete tief atmete langsam atmete bewusst befreite ihre Lungen befreite ihren Geist befreite ihre Gedanken…
 
-Sie begann zu schreiben begann Notizen zu machen begann Sätze zu formulieren begann Eindrücke festzuhalten begann Bilder einzufangen begann Momente zu konservieren begann Wahrheit zu archivieren begann Geschichte zu dokumentieren…
+Sie begann zu schreiben, begann Notizen zu machen, begann Sätze zu formulieren. Begann Eindrücke festzuhalten, begann Bilder einzufangen, begann Momente zu konservieren. Begann Wahrheit zu archivieren, begann Geschichte zu dokumentieren…
 
 Aber dann hörte sie Schritte hinter sich:
-Schwere Schritte langsame Schritte bedächtige Schritte bedrohliche Schritte gefährliche Schritte tödliche Schritte…
+Schwer und langsam. Bedächtig, bedrohlich. Gefährlich, tödlich…
 
 Güyük kam zurück.
 Er trat neben ihren Sitz blieb stehen beugte sich herab senkte seinen Kopf fast bis auf ihre Höhe flüsternd:
@@ -133,7 +133,7 @@ Sie spürten jeden Knochen jede Sehne jedes Band jeden Nerv jeden Muskel jede Fa
 
 **Dann wirst du sterben.**
 
-Er richtete sich auf ging hinaus verschwand endgültig diesmal wirklich diesmal ganz diesmal für immer diesmal unwiderruflich diesmal endgültig diesmal absolut diesmal total diesmal final…
+Er richtete sich auf, ging hinaus, verschwand. Endgültig, diesmal wirklich. Ganz, für immer, unwiderruflich. Endgültig, absolut, total, final…
 
 Fatima saß still reglos unbeweglich unbewegt unbeeindruckt unbeeinflussbar unerschütterbar unzerstörbar unbesiegbar unkaputtbar unvergessbar unaustilgbar uneinnehmbar uneinholbar uneinholbar uneinhol—
 
@@ -157,7 +157,7 @@ Ohne sich umzudrehen ohne den Blick vom Vorhang zu lösen ohne eine Bewegung ihr
 
 **Schreib das nicht auf.**
 
-Fatima erstarrte mitten im Satz mitten im Wort mitten im Buchstaben mitten im Gedanken mitten im Impuls mitten im Reflex mitten im Automatismus mitten im Drang mitten im Zwang mitten in der Pflicht mitten im Beruf mitten in ihrer Natur:
+Fatima erstarrte – mitten im Satz, mitten im Wort, mitten im Buchstaben, mitten im Gedanken, mitten im Impuls und Reflex, mitten in Pflicht, Beruf und Natur:
 
 Die Feder schwebte über dem Papier;
 Die Tinte trocknete auf ihrer Spitze;
@@ -168,7 +168,7 @@ Ein Lächeln so leicht so sanft so freundlich so harmlos so arglos so naiv so ki
 
 **Ich schreibe nie das Wichtigste auf.**
 
-Töregene drehte sich langsam um sah sie an musterte ihr Gesicht prüfte ihren Blick testete ihre Worte wog ihre Bedeutung ab maß ihre Wahrheit gegeneinander unterschied Lüge von Wirklichkeit trennte Schein von Sein löste Maske von Gesicht befreite Fassade von Kern öffnete Tür öffnete Fenster öffnete Tor öffnete Weg öffnete Brücke öffnete Abgrund—
+Töregene drehte sich langsam um, sah sie an, musterte ihr Gesicht, prüfte ihren Blick, testete ihre Worte, wog ihre Bedeutung ab, maß ihre Wahrheit gegeneinander, unterschied Lüge von Wirklichkeit, trennte Schein von Sein, löste Maske von Gesicht, befreite Fassade von Kern. Öffnete Tür, Fenster, Tor, Weg, Brücke, Abgrund —
 
 Zwei Frauen sahen einander an;
 Zwei Frauen lächelten fast;
@@ -203,9 +203,9 @@ Töregene nickte kaum merklich wandte sich wieder ab richtete ihren Blick wieder
 
 **Geh jetzt.**
 
-Fatima erhob sich nahm ihr Brett nahm ihre Feder nahm ihr Tintenfass nahm ihr Schweigen nahm ihr Wissen nahm ihr Geheimnis nahm ihre Lüge nahm ihre Wahrheit nahm ihr Leben nahm ihren Tod nahm alles mit hinaus hinaus aus dem Zelt hinaus in die Nacht hinaus in den Schnee hinaus in die Kälte hinaus in die Dunkelheit hinaus in das Unbekannte hinaus in das Ungewisse hinaus in das Unvermeidliche hinaus in das Unausweichliche hinaus…
+Fatima erhob sich. Sie nahm ihr Brett, ihre Feder, ihr Tintenfass. Sie nahm ihr Schweigen, ihr Wissen, ihr Geheimnis. Sie nahm ihre Lüge, ihre Wahrheit, ihr Leben, ihren Tod. Sie nahm alles mit: hinaus aus dem Zelt, in die Nacht, in den Schnee, in die Kälte, in die Dunkelheit. Hinaus in das Unbekannte, das Ungewisse, das Unvermeidliche, das Unausweichliche…
 
-Draußen fiel Schnee erste Flocken erste Boten erste Vorboten eines Winters der kommen würde kommen musste kommen sollte kommen durfte kommen könnte kommen würde bestimmt kam sicher kam bald kam schnell kam hart kam kalt kam endlos kam ewig kam tief kam schwer kam weiß kam rein kam totkamlebendkamtotkamlebendkamtotlebendtotlebendtotleb—
+Draußen fiel Schnee. Erste Flocken, erste Boten, erste Vorboten eines Winters. Er würde kommen, musste kommen, sollte kommen, durfte kommen, könnte kommen. Er kam bestimmt, kam sicher, kam bald, kam schnell, kam hart, kam kalt. Kam endlos, ewig, tief, schwer, weiß, rein. Kam tot, kam lebend, kam tot, kam lebend, kam tot — lebend, tot, lebend, tot, leb…
 
 ---
 

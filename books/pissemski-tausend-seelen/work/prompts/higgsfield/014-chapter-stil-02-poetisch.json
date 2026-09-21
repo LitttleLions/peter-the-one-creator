@@ -1,0 +1,59 @@
+{
+  "book": "pissemski-tausend-seelen",
+  "chapter": "014",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\work\\chapters\\014-source.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\work\\prompts\\higgsfield\\014-chapter-stil-02-poetisch.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\assets\\chapter\\chapter-014.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 014. Russian provincial town and Petersburg in the 1850s, bureaucratic society. Cinematic literary historical illustration, elegant realism, painterly detail, interior light and winter streets. Officials, drawing rooms, country estate, young careerist. Palette: candle gold, dark wood, snow grey, uniform green, faded red. Socially observant, emotionally intelligent. 21 июля были именины князя. Чтоб понять все его уездное величие, надобно было именно в этот день быть у него. Еще с раннего утра засуетилось",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_170401_b6dd9599-8b45-46fe-bd86-726dd8a7b2b9.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-18T17:04:01.933941Z",
+      "display_name": "GPT Image 2",
+      "id": "b6dd9599-8b45-46fe-bd86-726dd8a7b2b9",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_170401_b6dd9599-8b45-46fe-bd86-726dd8a7b2b9_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 014. Russian provincial town and Petersburg in the 1850s, bureaucratic society. Cinematic literary historical illustration, elegant realism, painterly detail, interior light and winter streets. Officials, drawing rooms, country estate, young careerist. Palette: candle gold, dark wood, snow grey, uniform green, faded red. Socially observant, emotionally intelligent. 21 июля были именины князя. Чтоб понять все его уездное величие, надобно было именно в этот день быть у него. Еще с раннего утра засуетилось",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_170401_b6dd9599-8b45-46fe-bd86-726dd8a7b2b9.png",
+      "status": "completed"
+    }
+  ]
+}

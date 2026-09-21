@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "book_id": "aelita",
+  "style": "stil-03-branderson",
+  "generator": "workspace_ai",
+  "model": "Muse Spark (Repo-Editor)",
+  "generated_at": "2026-09-21T14:30:00+02:00",
+  "prompt_version": "marketing-1",
+  "source_hash": "ab2b327d9521b2f6",
+  "usage": {},
+  "notes": [
+    "Texte als Repository-KI aus dem Datenbrief erzeugt (keine API-Kosten). amazon.de-Links live 09/2026."
+  ],
+  "texts": {
+    "x-t0-intro": {
+      "text": "Heute stellen wir vor: Aëlita von Alexei Tolstoi. Ingenieur Los baut ein Raumschiff und fliegt mit Gussew zum Mars – und findet eine sterbende Hochkultur zwischen Aufstand und Untergang. Unsere Ausgabe in neuer deutscher Übersetzung.",
+      "notes": "Buchvorstellung: zentraler Konflikt (Erde/Mars, Aufstand/Untergang) + Titel/Autor + belegbare Ausgabenaussage. Kurzname Tolstoi passt ins Limit."
+    },
+    "x-t5-content": {
+      "text": "Gussew schließt sich dem Aufstand der Marsarbeiter an, Los verfällt Aëlita, der Tochter des Herrschers Tuskub. Tolstois Roman fragt: retten Technik, Macht oder Liebe eine erschöpfte Welt? Unsere Ausgabe folgt dem russischen Original.",
+      "notes": "Eigenständiger Gedanke: Zweiteilung Gussew/Los + Kernfrage, anderer Fokus als T+0."
+    },
+    "x-t8-sample": {
+      "text": "Ein Blick in unsere Ausgabe: „In der Straße der Roten Morgenröte war ein seltsamer Anschlag erschienen: ein kleiner, grauer Zettel, an die abblätternde Mauer eines verlassenen Hauses genagelt.“",
+      "notes": "Echte Passage aus der Leseprobe (Kapitel 001, Szene 1), als Zitat gekennzeichnet."
+    },
+    "x-t12-second-angle": {
+      "text": "Aëlita gilt als Gründungstext der sowjetischen Science-Fiction – und als Liebesgeschichte. Petrograd 1921 trifft Tuma, den Mars der Kanäle und Flügelgleiter. Unsere Ausgabe mit redaktionell geprüfter Übersetzung.",
+      "notes": "Zweiter Zugang: literaturgeschichtliche Einordnung + Schauplatz-Kontrast, andere Perspektive als T+0/T+5."
+    },
+    "yt-short-2": {
+      "title": "Aëlita – Mars-Roman von Tolstoi",
+      "description": "Petrograd 1921: Los und Gussew fliegen zum Mars und finden eine sterbende Hochkultur. Aëlita von Alexei Nikolajewitsch Tolstoi in neuer deutscher Ausgabe.",
+      "overlays": [
+        "Petrograd 1921 – Aufbruch zum Mars",
+        "Liebe, Aufstand, Untergang"
+      ]
+    }
+  },
+  "youtube": {}
+}

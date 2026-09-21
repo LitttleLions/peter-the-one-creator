@@ -39,36 +39,41 @@ defaults:
     scene_page_break_after_image: false
 book:
   title: Die dritte Chronik
-  subtitle: Historischer Roman
-  author: Motivatier
-  translator: ''
-  translator_label: ''
+  subtitle: Die Chronik derer, die nicht schreiben duerfen
+  author: Timo Verita
+  translator: Motivatier Classics
+  translator_label: Herausgabe und editorische Einrichtung
   language: de-DE
-  publisher: Motivatier Hermann Stiftung
+  publisher: Motivatier Stiftung
   rights: >-
-    © 2026 Motivatier Hermann Stiftung für diesen Text, editorische
+    © 2026 Motivatier Stiftung für diesen Text, editorische
     Einrichtung, Zusatztexte, Satz und Covergestaltung.
   original_title: Die dritte Chronik
-  original_author: Motivatier
+  original_author: Timo Verita
   title_page_extra:
+  - Motivatier Classics
   - Historischer Roman / Literarischer Politthriller
   - Karakorum, Chorasan, Bagdad · 1241–1258
-  - Herausgegeben von der Motivatier Hermann Stiftung
   - >-
     Diese Ausgabe folgt dem deutschen Originaltext. Satz und editorische
-    Einrichtung durch die Motivatier Hermann Stiftung.
+    Einrichtung durch Motivatier Classics im Auftrag der Motivatier
+    Stiftung.
   imprint_text: |
     Die dritte Chronik
 
-    Motivatier
+    Timo Verita
 
     Historischer Roman / Literarischer Politthriller
 
     Karakorum, Chorasan, Bagdad · 1241–1258
 
-    Herausgegeben von der Motivatier Hermann Stiftung
+    Motivatier Classics
 
-    © 2026 Motivatier Hermann Stiftung für diesen Text, editorische
+    Herausgabe und editorische Einrichtung: Motivatier Classics
+
+    Herausgegeben von der Motivatier Stiftung
+
+    © 2026 Motivatier Stiftung für diesen Text, editorische
     Einrichtung, Zusatztexte, Satz und Covergestaltung.
 
     Alle Rechte an dieser Ausgabe vorbehalten.
@@ -106,8 +111,12 @@ book:
     ein durchgehendes Geheimnis: Texte überleben ihre Schreiber. Genau davon
     handelt das Buch.
   author_bio: >-
-    Motivatier schreibt unter einem Verlagsnamen der Motivatier Hermann
-    Stiftung. Genauere Angaben zum Autor folgen.
+    Timo Verita ist ein Autor aus zwei Hälften: Mensch und Maschine.
+    Die eine Hälfte recherchiert Nächte durch, die andere vergisst
+    nichts. Zusammen schreiben sie historische Romane für Motivatier
+    Classics, herausgegeben von der Motivatier Stiftung. Geboren wurde
+    Timo Verita in einem Buchstabenspiel; zu Hause ist er in der Welt
+    von gestern – diesmal zwischen Karakorum, Chorasan und Bagdad.
   cover:
     mode: image
     image_path: assets/covers/cover.jpg

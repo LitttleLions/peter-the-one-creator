@@ -1,0 +1,59 @@
+{
+  "book": "pissemski-tausend-seelen",
+  "chapter": "004",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\work\\scenes\\de\\stil-02-poetisch\\004\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\work\\prompts\\higgsfield\\004-chapter-stil-02-poetisch.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\assets\\chapter\\chapter-004.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 004. Russian provincial town and Petersburg in the 1850s, bureaucratic society. Cinematic literary historical illustration, elegant realism, painterly detail, interior light and winter streets. Officials, drawing rooms, country estate, young careerist. Palette: candle gold, dark wood, snow grey, uniform green, faded red. Socially observant, emotionally intelligent. Um zwölf Uhr hatte Kalinowitsch die Uniform gegen einen schwarzen Frack, ein schwarzes Atlashalstuch und eine schwarze Samtweste getauscht, darüber einen neuen Mantel gezogen und war hinausgetreten, um seine Besuche zu machen. Doch als er die Equipage erblickte, die man ihm geschickt hatte, wich er unwillkürlich einen Schritt zurück: Das Pferd, das Pjotr Michailytsch so überschwänglich gelobt hatte, war dank der unermüdlichen Fürsorge Pelageja Jewgrafownas allerdings wohlgenährt — doch der gewaltige, fette Kopf, die herabhängenden Ohren, die dicken, zottigen Beine zeugten deutlich von einem gesetzten Alter, feuchter Konstitution und sanftmütigem Gemüt. Das Geschirr, gleichfalls von der Hand der Wirtschafterin erworben, war eher solide als elegant. Die Droschke auf riesigen Rädern, mit höchsten Federn und unbeholfenem Bock gehörte zu jener Gattung von Gefährten, die man Adams-Kutschen nennt. Und zu allem Überfluss saß als Kutscher der missgestaltete Gawrilytsch, eingemummt in einen grauen Reschmaer Bauernkittel, der einem riesenhaften Kerl gehört hätte, mit einer tief ins Gesicht gedrückten runden Filzkappe, unter der nur ein kleiner Teil seiner Fratze und die borstigen Schnurrbarthaare hervorlugten. Beim Erscheinen Kalinowitschs nahm Terka die Mütze ab und verbeugte sich. „Du bist wohl der Lakai?“, fragte Kalinowitsch.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_165443_2fabb099-0ba2-46af-948e-003c56f82706.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-18T16:54:43.485326Z",
+      "display_name": "GPT Image 2",
+      "id": "2fabb099-0ba2-46af-948e-003c56f82706",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_165443_2fabb099-0ba2-46af-948e-003c56f82706_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 004. Russian provincial town and Petersburg in the 1850s, bureaucratic society. Cinematic literary historical illustration, elegant realism, painterly detail, interior light and winter streets. Officials, drawing rooms, country estate, young careerist. Palette: candle gold, dark wood, snow grey, uniform green, faded red. Socially observant, emotionally intelligent. Um zwölf Uhr hatte Kalinowitsch die Uniform gegen einen schwarzen Frack, ein schwarzes Atlashalstuch und eine schwarze Samtweste getauscht, darüber einen neuen Mantel gezogen und war hinausgetreten, um seine Besuche zu machen. Doch als er die Equipage erblickte, die man ihm geschickt hatte, wich er unwillkürlich einen Schritt zurück: Das Pferd, das Pjotr Michailytsch so überschwänglich gelobt hatte, war dank der unermüdlichen Fürsorge Pelageja Jewgrafownas allerdings wohlgenährt — doch der gewaltige, fette Kopf, die herabhängenden Ohren, die dicken, zottigen Beine zeugten deutlich von einem gesetzten Alter, feuchter Konstitution und sanftmütigem Gemüt. Das Geschirr, gleichfalls von der Hand der Wirtschafterin erworben, war eher solide als elegant. Die Droschke auf riesigen Rädern, mit höchsten Federn und unbeholfenem Bock gehörte zu jener Gattung von Gefährten, die man Adams-Kutschen nennt. Und zu allem Überfluss saß als Kutscher der missgestaltete Gawrilytsch, eingemummt in einen grauen Reschmaer Bauernkittel, der einem riesenhaften Kerl gehört hätte, mit einer tief ins Gesicht gedrückten runden Filzkappe, unter der nur ein kleiner Teil seiner Fratze und die borstigen Schnurrbarthaare hervorlugten. Beim Erscheinen Kalinowitschs nahm Terka die Mütze ab und verbeugte sich. „Du bist wohl der Lakai?“, fragte Kalinowitsch.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_165443_2fabb099-0ba2-46af-948e-003c56f82706.png",
+      "status": "completed"
+    }
+  ]
+}

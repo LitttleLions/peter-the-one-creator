@@ -444,10 +444,10 @@ Echt nur abschnittsweise + Freigabe.
 
 Status: OFFEN.
 
-## 6. Dritte Chronik: Gate 0/0 + Repetition-Detektor (Stand 2026-09-18)
+## 6. Dritte Chronik: Gate 0/13/36 + Redaktionstabelle (Stand 2026-09-19 abends)
 
 Was: DE-Original, kein Uebersetzungsprojekt. Cover liegt.
-2026-09-18: 4 ERROR + 7 WARNING redaktionell behoben (041 `решил`/
+2026-09-18 frueh: 4 ERROR + 7 WARNING redaktionell behoben (041 `решил`/
 `别的`-CJK/`für warhielt`, 043 `Fдер`, 033/036 + 012/018/026/031/034/035
 `long_sentence` gegliedert; Work-Spiegel + `source/` synchronisiert mit
 `.bak-20260918`); echter Buch-EPUB
@@ -455,12 +455,98 @@ Was: DE-Original, kein Uebersetzungsprojekt. Cover liegt.
 (Gate 0/0 ohne Bypass). Danach Stil-Detektor `tools/lib/repetition.py`
 (6 Signale: Anapher/Trigramm/Echo/Stapelung/TTR/Leerformel, Kategorie
 `repetition_style`, nur INFO/WARNING, nie ERROR) in
-`tools/lib/review_checks.py` eingebunden; Review jetzt
+`tools/lib/review_checks.py` eingebunden; Review war
 ERROR=0/WARNING=41/INFO=48 (Gate weiter gruen, EXIT 0); Tests
 `tests/test_repetition.py` (6) + `tests/test_review_manuscript.py`
-(23) + Full Suite (248) gruen.
-Offen: 30/48 Kapitelbilder vorhanden, 18 fehlen. Leser-EPUB pruefen
-(Kindle Previewer), danach Redaktion der Repetition-Hinweise (b/c).
+(23) + Full Suite (248) gruen. `test_chapter_008_is_clean_after_redaction`
+belegt 008 clean 0/0 (Nutzer-Neufassung); die Fixtures
+(`EXAMPLE_ANAPHORA` INFO, `EXAMPLE_CHINQAI` WARNING) decken den Detektor
+weiter ab.
+2026-09-18 abends (Redaktion ohne OpenRouter, keine Kosten): 008 clean
+0/0 (Nutzer-Neufassung 2429 W, Chinqai-Stapelungen + `er-las` +
+`morgen-kommt` weg), 012 clean 0/0 (Nutzer-Neufassung 2362 W,
+Gouverneur-Mahmud-Falle + Blatt-Test; `work/chapters/012-source.md` im
+Kopfformat synchronisiert, `source/` unberuehrt), 034 nur Satzzeichen
+(Monster-Zeile 45: 672 W/4012 Zeichen ohne Punkt -> 6 Absaetze, dazu
+Zeile 39 + 68 mit Komma/Punkt; 5W->2W, Rest `mein`/`brannt`-Litanei).
+Voll-Review danach ERROR=0/WARNING=31/INFO=46 (Zwischenstand 18.09.,
+von der 19.09.-Runde auf 0/13/36 abgeloest); Buch-EPUB
+`book-die-dritte-chronik-stil-01-original-20260918-201109.epub`
+(48/48, ohne Bypass). Ablauf je Kapitel: Nutzer legt Neufassung unter
+`books/die-dritte-chronik/status/Die dritte Chronik - NN <Titel>.md`
+(nutzt auch mal `work/scenes/de/NNN/scene-01.md`) -> KI prueft auf
+Textbruch und kopiert nach
+`work/scenes/de/stil-01-original/NNN/scene-01.md` (+ bei Neuschreibung
+`work/chapters/NNN-source.md` synchronisieren) -> `assemble_chapter.py`
+-> `review_manuscript --chapter NNN --llm none` -> Voll-Review ->
+Buch-EPUB neu. Bei Textbruch (Fassung passt nicht zur Kapitelquelle)
+STOPP + Rueckfrage (Fall 012-Entwurf mit 4893 W, 2026-09-18).
+Bilder: komplett seit 2026-09-19 (48/48 - Kapitelbild 001-014, Szenenbild
+008 + 015-048 = 49 Bilder + Cover). Das EPUB mit Bebilderung ist
+`...-20260919-222611.epub` (50 Bilder, alle JPEGs validiert).
+Offen: Leser-EPUB pruefen (Kindle Previewer) + frischer DOCX/PDF-Bau.
+
+2026-09-19 (Redaktion ohne OpenRouter, keine Kosten; komplett- + mini-Runde):
+komplett-Runde = Nutzer-Neufassungen 031/033/036. 031 `Der Handel`
+(3753 W; Schachtelsaetze 133/87/59 W + `dies`/`sprach`-Echos weg, Rest
+`sie-dachte`-Anapher = Stilmittel), 033 `Das Siegel` (3539 W; die drei
+Tuerme 166/164/160 W + `anders`-Echo + TTR 0,21 weg = clean 0/0),
+036 `Eingenäht` (Neuschreibung 785 W; Stapelungen 130/149/116 W +
+`anders`-Echo + TTR 0,22 weg = clean 0/0). `work/chapters/031|033|036-source.md`
+im Kopfformat synchronisiert, `source/` unberuehrt. mini-Runde von der KI
+selbst (nur Satzzeichen/Gliederung, Backups `*.bak-20260919-mini`):
+009 clean 0/0 (Echo-Ketten `hinaus`/`zurueck`/`mitten` gegliedert),
+026 clean 0/0 (122-W-Litanei), 035 clean 0/0 (127-W-Notizbuchsatz;
+Hinweis: die Stelle `als sie 'dich' sagte` wurde zu „so vertraut mit ihm
+sprach wie nie zuvor" umformuliert, weil die Anfuehrungszeichen um das
+Einzelwort die Ersetzung stoerten - inhaltlich identisch), 018 0W/4I und
+041 0W/1I (Anaphern/TTR-Folge = Stilmittel). Endstand: Voll-Review
+ERROR=0/WARNING=13/INFO=36 (Exit 0), 29/48 Kapitel clean. Tagesbilanz:
+WARNING 31 -> 13, INFO 46 -> 36.
+2026-09-19 abends (Bebilderung nachgezogen): Szenenbilder 021-048
+generiert -> 48/48 Kapitel bebildert (Kapitelbild 001-014, Szenenbild
+008 + 015-048 = 49 Bilder + Cover). Buch-EPUB
+`book-die-dritte-chronik-stil-01-original-20260919-222611.epub`
+(4,99 MB, 50 Bilder, alle JPEGs validiert, 48/48 Kapitel, Gate 0 Fehler,
+ohne Bypass).
+Release-Einschaetzung 2026-09-19: Text + Bilder bereit; offen sind
+(1) frischer DOCX/PDF-Bau vom aktuellen Stand, (2) menschliche Leseprobe
+(Kindle Previewer + Stichprobe 031/033/036 und je eine Stelle aus
+009/035/041).
+
+### Chronik-Redaktionstabelle (24 Eintraege: 19 Kapitel mit Restbefund + 5 erledigte Faelle, die jetzt clean 0/0 sind und deshalb keine Review-Datei mehr haben - das Tool loescht sie bewusst, `review_checks.py` `write_reports`. Insgesamt 29/48 Kapitel clean)
+
+| Kap | W | I | Befund-Kurzform | Einschaetzung |
+|-----|---|---|---|---|
+| 005 | 1 | 0 | Anapher `ich hoffe` 10x (Briefschluss) | b behalten (Stilmittel) |
+| 009 | 0 | 0 | — | c erledigt 2026-09-19 (Mini-Fix: Schachtelsaetze gegliedert, Echos variiert, clean) |
+| 013 | 0 | 1 | Anapher `er las` 4x | b behalten |
+| 016 | 0 | 3 | Stapelung 74/59/28 W (`dass`-Kette) | b ignorieren (kurz) |
+| 018 | 0 | 4 | Anaphern `ich liebe` 4x / `sag mir` 6x (Stilmittel) + INFO 69/59 W | b/c erledigt 2026-09-19 (Mini-Fix: 2 WARNING-Schachtelsaetze gegliedert; Rest Stilmittel) |
+| 020 | 0 | 1 | Trigramm `deine entscheidung khatun` 4x | b Leitmotiv |
+| 023 | 0 | 3 | Stapelung 66/26/43 W | b ignorieren (kurz) |
+| 026 | 0 | 0 | — | c erledigt 2026-09-19 (Mini-Fix: 122W-Schachtelsatz + 2 INFO gegliedert, clean) |
+| 027 | 0 | 1 | Anapher `sie schrieb` 4x | b behalten |
+| 028 | 0 | 2 | Stapelung 47 W; TTR 0,22/3802 W | b ignorieren |
+| 030 | 2 | 3 | Anapher `er dachte` 20x + `der morgen` 10x; `er wusste` 5x; Echo `siegel`; TTR 0,19 | b behalten (Klimax-Litanei) |
+| 031 | 0 | 1 | Anapher `sie dachte` 5x (Abs.117-121) | b/c erledigt 2026-09-19 (Neufassung, 3753 W; Schachtelsaetze+Echos weg, Anapher bleibt Stilmittel) |
+| 032 | 0 | 2 | Stapelung 78/31 W | b ignorieren |
+| 033 | 0 | 0 | — | C erledigt 2026-09-19 (Neufassung, 3539 W; 3 Tuerme + Echos + TTR weg, clean) |
+| 034 | 2 | 4 | Echo `mein` 9x, `brannt` 8x; Rest-Stapelung INFO | b/c erledigt 2026-09-18 (Monster weg; Litanei bleibt) |
+| 035 | 0 | 0 | — | c erledigt 2026-09-19 (Mini-Fix: Schachtelsaetze gegliedert, Echos variiert, clean) |
+| 036 | 0 | 0 | — | C erledigt 2026-09-19 (Neuschreibung, 785 W; Stapelungen + `anders`-Echo + TTR weg, clean) |
+| 038 | 0 | 1 | Stapelung 86 W | b ignorieren |
+| 040 | 0 | 3 | Stapelung 53/59 W; TTR 0,18/5306 W | b ignorieren |
+| 041 | 0 | 1 | TTR 0,20/4860 W (Folge) | b/c erledigt 2026-09-19 (Mini-Fix: 171W + 2 INFO-Stapelungen gegliedert; TTR-Folge bleibt) |
+| 044 | 0 | 2 | Anapher `er dachte` 4x + 4x | b behalten |
+| 045 | 2 | 0 | Echo `dies` 11x; Stapelung `jedes/jede` 15x in 49 W | b Litanei (ggf. 1 Echo) |
+| 046 | 3 | 1 | Echo `richtung` 13x + `voll` 9x; Stapelung `jede/jedes` 14x + 122 W | b Litanei (ggf. 1 Echo) |
+| 047 | 3 | 3 | Echo `richtung` 13x, `laeng` 10x, `trennt` 7x; Stapelung 43 W (`laenger als`) + 38/41 W | b Litanei (ggf. 1 Echo) |
+
+Legende: C = komplett (mehrere Schachtelsaetze gliedern), c = Mini
+(1-2 Satzzeichen oder 1 Echo), b = behalten/ignorieren (Stilmittel,
+Litanei, kurzes Segment, TTR-Folge). Details je Kapitel:
+`books/die-dritte-chronik/work/reviews/stil-01-original/chapters/NNN-review.md`.
 
 Checkliste:
 
@@ -472,7 +558,10 @@ py -3 tools/export_manuscript.py --book die-dritte-chronik --scope book --style 
 
 Bilder: `docs/higgsfield-integration.md` beachten.
 
-Status: Gate gruen, Repetition-Hinweise offen (Redaktion b/c).
+Status: Gate gruen (ERROR=0/WARNING=13/INFO=36, Exit 0), Redaktion
+komplett+mini fertig (29/48 clean; Rest Stilmittel/Litanei/TTR), Bilder
+komplett 48/48 (EPUB 20260919-222611, 50 Bilder). Offen: DOCX/PDF-Neubau,
+Leseprobe.
 
 ## 7. Regal: Amazon-URLs + Deploy
 
@@ -583,6 +672,66 @@ py -3 tools/review_manuscript.py --book leben-arsenjews --style stil-02-poetisch
 ```
 
 Status: Release-Kandidat, Gate gruen. Offen nur Kindle Previewer + Stichprobe.
+
+## 12. Chronik: Kontinuitaetspruefung, Autorenbio, Reihen-Auftritt (Stand 2026-09-21)
+
+Was: Vorschlag zur inhaltlichen Kontinuitaetspruefung liegt als
+`docs/kontinuitaetspruefung-chronik.md` vor (4-Schichten-Modell:
+Inventar, Arc-Protokoll, 5 Widerspruchs-Checks, Stilmittel-vs-Fehler;
+Stufe A deterministisch/kostenlos, Stufe B LLM nur nach Freigabe).
+Kapitel 025 ("Der Onkel", Neufassung 19.09., 3103 W) ist regelbasiert
+clean (0/0/0) und repetitonsfrei, aber inhaltlich (Temuege-Bogen,
+zwei Buecher, Jiguedei-Chronik, 024->025 Kausalkette) noch nicht
+quergelesen.
+
+Offen (vom Nutzer zu entscheiden, siehe Doc-Abschnitt "Offene
+Vorfragen"): (1) Fenster 024-026 vs. Shigi-Bogen 024-033,
+(2) nur Lese-Bericht vs. festes `work/continuity/arcs.md`,
+(3) Gueyuek "war der Raum" als Stilmittel vs. physische Anwesenheit.
+
+Was: Chronik-Release braucht (a) Autorenbio fuer Timo Verita
+(Variante 3 "zwei Haelften" in `export.yaml` eingebaut) und (b)
+staerkeren Reihen-Auftritt "Motivatier Classics" auf den ersten
+Seiten (Titelei/Impressum, umgesetzt).
+
+Festgelegte KDP-Rollenlogik 21.09. (Vorgabe auch fuer alle
+Uebersetzungs-Buecher, dort Autor = Originalautor):
+KDP-Autor = Timo Verita (Chronik) bzw. Originalautor (Uebersetzung);
+KDP-Editor = Motivatier Classics (bei Uebersetzungen ZUSAETZLICH
+KDP-Uebersetzer = Motivatier Classics; bei der Chronik als
+deutschem Original KEIN Uebersetzer-Eintrag!);
+Geschaeftsperson/Herausgeber = Motivatier Stiftung
+(`publisher`, Rechte, Impressum weiter unten, Classics als
+ausfuehrende Reihe darueber). Repo-weit 21.09.: "Motivatier
+Hermann Stiftung" -> "Motivatier Stiftung" (71 Stellen).
+
+Umgesetzt 21.09. nachm.: Untertitel "Die Chronik derer, die nicht
+schreiben duerfen" (ersetzt "Historischer Roman") in
+`export.yaml: book.subtitle` + EPUB-Titelei (verifiziert) +
+Regal-Katalog neu; KDP-Serie "Chroniken des Mongolenreichs"
+(Band 1 Chronik, Band 2 Geheime Geschichte; Serienbeschreibung in
+`docs/kdp-texte-dritte-chronik.md` Abschnitt 5) nur in KDP
+anzulegen, nicht im Repo.
+
+```bat
+:: Nach Entscheidung + YAML-Pflege: Gate + Export neu
+py -3 tools/review_manuscript.py --book die-dritte-chronik --style stil-01-original --all --llm none --fail-on-errors
+py -3 tools/export_manuscript.py --book die-dritte-chronik --scope book --style stil-01-original --format epub
+```
+
+Status 2026-09-21 nachm. (umgesetzt): Doc + offener Punkt angelegt;
+Timo-Verita-Umstellung in `export.yaml` (author/original_author,
+translator Motivatier Classics, Bio Variante 3); Classics auf
+Titelseite + Impressum, Stiftung als Herausgeber unten; Gate
+0/13/36; neuer EPUB `...-20260921-131112.epub` (Untertitel +
+Stiftung-Fix, Titelei verifiziert, Regal-Katalog neu); KDP-Texte in
+`docs/kdp-texte-dritte-chronik.md` (Abschnitt 5 = Serientexte zum
+Anlegen in KDP); Rollenlogik auf alle 12 Pakete uebertragen
+(Anna + Mongolen nachgezogen). Offen nur noch:
+(1) Kindle-Preview + Leseprobe dieses EPUBs, (2)
+Kontinuitaets-Vorfragen (Fenster, Bericht-vs-arcs,
+Gueyuek-Deutung), (3) KDP-Serie in KDP anlegen (Band 1) +
+KDP-Upload durch Nutzer + Amazon-URL zurueckspielen.
 
 ## Empfohlene Reihenfolge
 

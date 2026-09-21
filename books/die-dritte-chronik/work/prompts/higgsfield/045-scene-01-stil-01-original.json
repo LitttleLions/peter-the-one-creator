@@ -1,0 +1,59 @@
+{
+  "book": "die-dritte-chronik",
+  "chapter": "045",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\045\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\die-dritte-chronik\\work\\prompts\\higgsfield\\045-scene-01-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\die-dritte-chronik\\assets\\scene\\045\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 045 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Die Lampe brannte flach, als Juvaini den ersten Satz schrieb. Das Öl war fast aufgebraucht, die Flamme zuckte, warf Schatten, die sich an den Wänden der Kanzlei brachen. Er saß vor dem leeren Blatt, das Papier vor ihm ausgebreitet, die Feder in der Hand, die Tinte frisch.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260919_170941_01d4e184-8895-4eb9-b41e-bd46b63ef1dd.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-19T17:09:41.858644Z",
+      "display_name": "GPT Image 2",
+      "id": "01d4e184-8895-4eb9-b41e-bd46b63ef1dd",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260919_170941_01d4e184-8895-4eb9-b41e-bd46b63ef1dd_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 045 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Die Lampe brannte flach, als Juvaini den ersten Satz schrieb. Das Öl war fast aufgebraucht, die Flamme zuckte, warf Schatten, die sich an den Wänden der Kanzlei brachen. Er saß vor dem leeren Blatt, das Papier vor ihm ausgebreitet, die Feder in der Hand, die Tinte frisch.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260919_170941_01d4e184-8895-4eb9-b41e-bd46b63ef1dd.png",
+      "status": "completed"
+    }
+  ]
+}

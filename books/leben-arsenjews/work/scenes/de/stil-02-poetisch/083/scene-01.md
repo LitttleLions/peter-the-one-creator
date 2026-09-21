@@ -1,6 +1,6 @@
 ## Szene 1
 
->
+
 Die Eifersucht ist eine Leidenschaft, die mit Eifer sucht, was Leiden schafft.
 – aus einer alten Spruchsammlung
 

@@ -67,19 +67,17 @@ class RepetitionTests(unittest.TestCase):
         )
         self.assertEqual(out, [])
 
-    def test_chapter_008_flags_repetition(self) -> None:
+    def test_chapter_008_is_clean_after_redaction(self) -> None:
         path = scene_path_008()
         if not path.exists():
             self.skipTest("Kapitel 008 fehlt lokal")
         text = path.read_text(encoding="utf-8")
         out = rep.repetition_scene_findings("008", 1, text)
 
-        self.assertTrue(out, "Kap. 008 muss Befunde liefern")
-        joined = " | ".join(f["message"] for f in out)
-        self.assertTrue(
-            "Anapher" in joined or "Stapelung" in joined
-            or "Wort-Echo" in joined or "Leitmotiv" in joined,
-            f"Kap. 008 muss Wiederholung melden, got: {joined}",
+        self.assertEqual(
+            out, [],
+            "Kap. 008 ist seit Redaktion 2026-09-18 clean 0/0 "
+            "(Nutzer-Neufassung); Fixtures decken Detektor weiter ab",
         )
 
 

@@ -11,11 +11,11 @@ Dadurch werden fertige Kapitel nicht unnoetig erneut durch ein LLM geschickt.
 
 ## Schnellstart Fuer KI Und Menschen
 
-1. Lies `AGENTS.md`, dann `docs/HANDOVER.md` (aktueller Stand), dann diese README.
+1. Lies `AGENTS.md` (Sektion Fortsetzung = Einstieg im gleichen Ordner/neuen Fenster), dann `docs/HANDOVER.md` (aktueller Stand), dann diese README.
 2. Arbeite immer buchbezogen unter `books/<book-id>/`.
 3. Aendere Originalquellen in `books/<book-id>/source/` und Material in
-   `logic/` nicht ohne ausdrueckliche Rueckfrage.
-4. Pruefe den Stand mit `python tools/status.py --book <book-id> summary`.
+   `logic/` nicht ohne ausdrueckliche Rueckfrage. Ausnahme Chronik 2026-09-18: Nutzer liefert Neufassungen nach `work/scenes/de/NNN/`; `work/chapters/NNN-source.md` wird mitgezogen (Kopfformat `# Titel` + `*Buch/*Kapitel-ID*` + `---`), `source/` bleibt tabu.
+4. Pruefe den Stand mit `python tools/status.py --book <book-id> summary`. Chronik-Lage zusaetzlich: `py -3 tools/review_manuscript.py --book die-dritte-chronik --style stil-01-original --all --llm none --fail-on-errors` (erwartet 2026-09-19 abends: ERROR=0/WARNING=13/INFO=36; Details `docs/offene-punkte.md` Punkt 6).
 5. Produktive Style-Profile liegen in `books/<book-id>/styles/*.md`.
 
 > **Keine Memory Bank:** Dieses Projekt pflegt bewusst keine Cline Memory Bank
@@ -28,11 +28,26 @@ Dadurch werden fertige Kapitel nicht unnoetig erneut durch ein LLM geschickt.
 Aktuelle Prioritaeten und Checklisten: [docs/offene-punkte.md](docs/offene-punkte.md).
 Dort ist auch die vorgezogene **Pruefung Uebersetzung Peter der Erste** dokumentiert.
 
-Aelita (viertes Release): Regelcheck 0 Fehler / 0 Warnungen, Kommentare des
+Aelita (LIVE 09/2026, veroeffentlicht): Regelcheck 0 Fehler / 0 Warnungen, Kommentare des
 Schlusskapitels 030 sind aus der DE-Szene in den Anhang „Kommentare“
 ausgelagert (neues `appendices:`-Feature im Export, siehe AGENTS.md), alle
 vorhandenen Kapitelbilder als Export-JPG optimiert, Buch-EPUB 2026-09-17
-nutzergeprueft. Offen: Kindle Previewer; 12 Kapitel bleiben bewusst ohne Bild.
+nutzergeprueft. Rest: Amazon-URL + Marketing nach Amazon-Freigabe; 12 Kapitel bleiben bewusst ohne Bild.
+
+Leben Arsenjews (Release-Kandidat 09/2026): Gate ERROR=0/WARNING=8, Buch-EPUB
+`book-das-leben-arsenjews-stil-02-poetisch-20260917-212334.epub` ohne Bypass.
+Offen: Kindle Previewer + menschliche Stichprobe (029/034/037/040).
+
+Die dritte Chronik (DE-Original, Redaktion 09/2026 abgeschlossen): Gate
+ERROR=0/WARNING=13/INFO=36, 29 von 48 Kapiteln clean 0/0. Buch-EPUB mit
+kompletter Bebilderung `book-die-dritte-chronik-stil-01-original-20260919-222611.epub`
+(48/48 Kapitel, 50 Bilder inkl. Cover, 4,99 MB) ohne Bypass.
+Gelaufen 2026-09-19 (ohne OpenRouter): komplett-Runde 031 (Neufassung,
+0W/1I Stilmittel) / 033 / 036 (je clean 0/0), mini-Runde 009/026/035 clean,
+018 0W/4I, 041 0W/1I. Rest-Tabelle: `docs/offene-punkte.md` Punkt 6.
+**Release-Einschaetzung 2026-09-19: Text + Bilder bereit (48/48 bebildert);
+offen sind nur frischer DOCX/PDF-Bau und eine menschliche Leseprobe
+(Kindle Previewer + Stichprobe 031/033/036, 009/035/041).**
 
 ## Voraussetzungen
 

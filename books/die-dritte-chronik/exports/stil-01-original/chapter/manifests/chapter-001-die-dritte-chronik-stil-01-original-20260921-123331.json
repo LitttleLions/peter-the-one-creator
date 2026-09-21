@@ -1,0 +1,34 @@
+{
+  "book_id": "die-dritte-chronik",
+  "book_title": "Die dritte Chronik",
+  "style": "stil-01-original",
+  "scope": "chapter",
+  "chapter": "001",
+  "format": "epub",
+  "partial": false,
+  "review_gate_errors": 0,
+  "review_gate_bypassed": false,
+  "created_at": "2026-09-21T12:33:32",
+  "chapters": [
+    {
+      "id": "001",
+      "scenes": 1,
+      "missing": []
+    }
+  ],
+  "outputs": [
+    "books\\die-dritte-chronik\\exports\\stil-01-original\\chapter\\epub\\chapter-001-die-dritte-chronik-stil-01-original-20260921-123331.epub"
+  ],
+  "work_markdown": "books\\die-dritte-chronik\\exports\\stil-01-original\\chapter\\work\\chapter-001-die-dritte-chronik-stil-01-original-20260921-123331.md",
+  "work_pdf_html": null,
+  "work_pdf_css": null,
+  "cover": "books\\die-dritte-chronik\\assets\\covers\\cover.jpg",
+  "illustrations": [
+    {
+      "kind": "chapter",
+      "chapter": "001",
+      "scene": null,
+      "path": "books\\die-dritte-chronik\\assets\\chapter\\chapter-001.jpg"
+    }
+  ]
+}

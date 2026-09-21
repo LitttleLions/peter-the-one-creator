@@ -1,0 +1,59 @@
+{
+  "book": "pissemski-tausend-seelen",
+  "chapter": "007",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\work\\scenes\\de\\stil-02-poetisch\\007\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\work\\prompts\\higgsfield\\007-chapter-stil-02-poetisch.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\assets\\chapter\\chapter-007.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 007. Russian provincial town and Petersburg in the 1850s, bureaucratic society. Cinematic literary historical illustration, elegant realism, painterly detail, interior light and winter streets. Officials, drawing rooms, country estate, young careerist. Palette: candle gold, dark wood, snow grey, uniform green, faded red. Socially observant, emotionally intelligent. Nicht lange nach den von mir geschilderten Szenen brachte man Kalinowitsch von der Post eine Anzeige über einen eingeschriebenen Brief und über ein Paket auf seinen Namen. Sonst in allen seinen Handlungen stets ruhig und gleichmäßig, geriet er diesmal in heftige Erregung: sogleich ging er mit schnellen Schritten zur Post und begann mit aller Kraft an der Klingel zu ziehen. Der Postmeister öffnete, wie gewöhnlich, die Tür selbst; als er jedoch den jungen Inspektor erblickte, fragte er mit seiner düsteren Stimme sehr trocken: Kalinowitsch begann, ihn zu bitten, ihm den Brief auszuhändigen.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_165747_c507e308-7ed0-4e39-9655-0b13439a115a.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-18T16:57:47.238065Z",
+      "display_name": "GPT Image 2",
+      "id": "c507e308-7ed0-4e39-9655-0b13439a115a",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_165747_c507e308-7ed0-4e39-9655-0b13439a115a_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 007. Russian provincial town and Petersburg in the 1850s, bureaucratic society. Cinematic literary historical illustration, elegant realism, painterly detail, interior light and winter streets. Officials, drawing rooms, country estate, young careerist. Palette: candle gold, dark wood, snow grey, uniform green, faded red. Socially observant, emotionally intelligent. Nicht lange nach den von mir geschilderten Szenen brachte man Kalinowitsch von der Post eine Anzeige über einen eingeschriebenen Brief und über ein Paket auf seinen Namen. Sonst in allen seinen Handlungen stets ruhig und gleichmäßig, geriet er diesmal in heftige Erregung: sogleich ging er mit schnellen Schritten zur Post und begann mit aller Kraft an der Klingel zu ziehen. Der Postmeister öffnete, wie gewöhnlich, die Tür selbst; als er jedoch den jungen Inspektor erblickte, fragte er mit seiner düsteren Stimme sehr trocken: Kalinowitsch begann, ihn zu bitten, ihm den Brief auszuhändigen.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_165747_c507e308-7ed0-4e39-9655-0b13439a115a.png",
+      "status": "completed"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "book": "pissemski-tausend-seelen",
+  "chapter": "006",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-02-poetisch",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\work\\scenes\\de\\stil-02-poetisch\\006\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\work\\prompts\\higgsfield\\006-chapter-stil-02-poetisch.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\pissemski-tausend-seelen\\assets\\chapter\\chapter-006.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 006. Russian provincial town and Petersburg in the 1850s, bureaucratic society. Cinematic literary historical illustration, elegant realism, painterly detail, interior light and winter streets. Officials, drawing rooms, country estate, young careerist. Palette: candle gold, dark wood, snow grey, uniform green, faded red. Socially observant, emotionally intelligent. Wie Pelageja Jewgrafowna es vorausgesehen hatte, so geschah es: Kalinowitsch mietete eine Wohnung bei der Aktuarsfrau. Die auf diese Weise erwählte Wirtin war eine kleine, dicke Frau, eine schreckliche Liebhaberin von Pasteten, Kaffee, Tee und, wenn es sein musste, auch von einem kleinen Geschäft und von einem Schnäpschen. Seit einer unbekannten Zahl von Jahren verwitwet nach ihrem Mann, dem Aktuar, ernährte sie sich vom Vermieten ihres kleinen Häuschens und stand mit Pelageja Jewgrafowna in innigster Freundschaft, das heißt, sie kam drei Mal in der Woche zu ihr, um zu trinken und zu essen, und bezahlte dafür mit der Überbringung aller möglichen städtischen Neuigkeiten; und wenn sich keine fanden, dachte sie sich welche aus. Die weitsichtige Wirtschafterin hatte es so eingerichtet, Kalinowitsch bei ihr unterzubringen, erstens, damit die Wohnung der Freundin nicht leer stand, zweitens wusste sie, dass diese über den jungen Mann alles bis auf die kleinsten Einzelheiten herausfinden und ihr berichten würde. Und tatsächlich begann die Aktuarsfrau, ihren Mieter wie einen Hasen aufzuspüren, und war anfangs ganz hingerissen von ihm. „Meine Mütterchen!“, sagte sie und spreizte beide Arme. „Was ist das für ein Mensch! Klug, bescheiden … ein Prachtkerl, ein Prachtkerl von einem Mann!“ Doch als Kalinowitsch dann die von Pjotr Michailytsch angebotenen Möbel annahm und sie bei sich aufstellte, geriet sie in eine Art Raserei: sie lief zu Pelageja Jewgrafowna, ihr Gesicht glühte, die Augen brannten. „Mutter, du meine, Pelageja Jewgrafowna!“, begann sie zu rapportieren. „Ich erkenne meine Wohnung nicht wieder, nicht mein Haus, nicht meine Zimmer, man möchte am liebsten ausziehen. Was war das früher, als bei mir ein Adliger und Gutsbesitzer wohnte – überall hingestreut, beschmutzt in allen Ecken; aber bei diesem, bei meinem Schönling, da ist Schönheit, Reinheit … ein Prachtkerl, ein Prachtkerl von einem Mann!“",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_165700_ce567c53-9277-418f-8257-72eb434d8e12.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-18T16:57:00.727626Z",
+      "display_name": "GPT Image 2",
+      "id": "ce567c53-9277-418f-8257-72eb434d8e12",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_165700_ce567c53-9277-418f-8257-72eb434d8e12_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 006. Russian provincial town and Petersburg in the 1850s, bureaucratic society. Cinematic literary historical illustration, elegant realism, painterly detail, interior light and winter streets. Officials, drawing rooms, country estate, young careerist. Palette: candle gold, dark wood, snow grey, uniform green, faded red. Socially observant, emotionally intelligent. Wie Pelageja Jewgrafowna es vorausgesehen hatte, so geschah es: Kalinowitsch mietete eine Wohnung bei der Aktuarsfrau. Die auf diese Weise erwählte Wirtin war eine kleine, dicke Frau, eine schreckliche Liebhaberin von Pasteten, Kaffee, Tee und, wenn es sein musste, auch von einem kleinen Geschäft und von einem Schnäpschen. Seit einer unbekannten Zahl von Jahren verwitwet nach ihrem Mann, dem Aktuar, ernährte sie sich vom Vermieten ihres kleinen Häuschens und stand mit Pelageja Jewgrafowna in innigster Freundschaft, das heißt, sie kam drei Mal in der Woche zu ihr, um zu trinken und zu essen, und bezahlte dafür mit der Überbringung aller möglichen städtischen Neuigkeiten; und wenn sich keine fanden, dachte sie sich welche aus. Die weitsichtige Wirtschafterin hatte es so eingerichtet, Kalinowitsch bei ihr unterzubringen, erstens, damit die Wohnung der Freundin nicht leer stand, zweitens wusste sie, dass diese über den jungen Mann alles bis auf die kleinsten Einzelheiten herausfinden und ihr berichten würde. Und tatsächlich begann die Aktuarsfrau, ihren Mieter wie einen Hasen aufzuspüren, und war anfangs ganz hingerissen von ihm. „Meine Mütterchen!“, sagte sie und spreizte beide Arme. „Was ist das für ein Mensch! Klug, bescheiden … ein Prachtkerl, ein Prachtkerl von einem Mann!“ Doch als Kalinowitsch dann die von Pjotr Michailytsch angebotenen Möbel annahm und sie bei sich aufstellte, geriet sie in eine Art Raserei: sie lief zu Pelageja Jewgrafowna, ihr Gesicht glühte, die Augen brannten. „Mutter, du meine, Pelageja Jewgrafowna!“, begann sie zu rapportieren. „Ich erkenne meine Wohnung nicht wieder, nicht mein Haus, nicht meine Zimmer, man möchte am liebsten ausziehen. Was war das früher, als bei mir ein Adliger und Gutsbesitzer wohnte – überall hingestreut, beschmutzt in allen Ecken; aber bei diesem, bei meinem Schönling, da ist Schönheit, Reinheit … ein Prachtkerl, ein Prachtkerl von einem Mann!“",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260918_165700_ce567c53-9277-418f-8257-72eb434d8e12.png",
+      "status": "completed"
+    }
+  ]
+}

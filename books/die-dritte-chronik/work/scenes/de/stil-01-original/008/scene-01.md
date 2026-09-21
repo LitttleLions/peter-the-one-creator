@@ -1,293 +1,247 @@
 ## Der Heimkehrer
 
-Die Aktenkammer des Ordos roch nach altem Papier, nach Staub und nach der Kälte, die sich in den Stein gefressen hatte. Shigi Qutuqu stand am Fenster und sah hinaus auf den Hof, wo die Wachen ihre Runden drehten, ihre Schritte gleichmäßig, ihre Gesichter ausdruckslos.
+Die Aktenkammer des Ordos roch nach Leder und altem Staub, nach dem feuchten Moder von Filzwänden und dem schwachen, beißenden Geruch von Tintenessig. Shigi Qutuqu kannte diesen Geruch seit dreißig Jahren. Er war ihm vertrauter als der Geruch von Steppe oder Lagerfeuer, vertrauter als der Geruch von Blut, den er auf zwanzig Schlachtfeldern gerochen hatte. Dieser Raum war sein Raum. Diese Regale mit den gebundenen Aktenbündeln, die säuberlich nach Jahr und Provinz geordneten Schriftrollen, die Tintenfässer in ihren hölzernen Halterungen – das war die Welt, die er kannte und beherrschte.
 
-Er wartete.
+Er saß an seinem Tisch, als Güyük eintrat.
 
-Er hatte gewartet, seit die Nachricht gekommen war, dass Güyük den Westfeldzug verlassen hatte. Er hatte gewartet, seit der Sohn der Regentin durch die Tore von Karakorum geritten war. Er hatte gewartet, seit er wusste, dass dieser Tag kommen würde.
+Nicht anklopfte. Nicht warten ließ. Eintrat.
 
-Und nun hörte er die Schritte.
+Der Sohn der Regentin trug keine Rüstung, aber er bewegte sich wie ein Mann, der Rüstung gewohnt war – mit der schwerfälligen Gewissheit eines Körpers, der gelernt hatte, Gewicht zu tragen. Er war groß. Er hatte Ögedeis Breite in den Schultern, aber nicht Ögedeis Wärme im Gesicht. Das Gesicht war kälter. Schmaler. Die Augen wanderten sofort zu den Regalen, zu den Aktenbündeln, zu den Siegeln, die an Schnüren hingen wie getrocknete Früchte.
 
-Schwer. Gleichmäßig. Kein Zögern.
+Shigi legte seinen Stift ab.
 
-Güyük kam nicht, um zu fragen. Er kam, um zu nehmen.
+„Ich brauche die Akte über den Tod meines Vaters."
 
-Shigi drehte sich um und legte die Hände flach auf den Tisch. Das Holz war kalt unter seinen Fingern. Die Akte lag bereit – die richtige Akte, die falsche Akte, die Akte, die er in den letzten Tagen zusammengestellt hatte wie ein Köcher voller Pfeile, die alle in dieselbe Richtung zeigten.
+Keine Begrüßung. Kein Titel. Kein Zeichen der Höflichkeit, die der Oberrichter des Reiches erwarten durfte.
 
-Die Tür öffnete sich ohne Anklopfen.
+Shigi betrachtete ihn einen Moment lang. Er war siebzig Jahre alt. Er hatte Dschingis Khan gekannt, als Dschingis Khan noch Temüjin hieß und nichts besaß außer einem Pferd und einem Willen, der die Welt zermalmte. Er hatte Ögedei als Kind gesehen, als kleinen Jungen mit Mehl auf den Händen, der Küchenschüsseln hinter sich herzog. Er hatte Güyük als Säugling gesehen, schreiend und rot im Gesicht.
 
-Güyük trat ein. Er trug noch den Staub des Marsches auf seinem Mantel, und seine Augen waren rot gerändert von Schlafmangel oder von etwas anderem – Wut vielleicht oder Trauer oder beides vermischt zu einer Farbe, die Shigi nicht benennen konnte.
+Er ließ sich nicht drängen.
 
-„Richter“, sagte Güyük.
+„Setz dich", sagte Shigi.
 
-„Prinz“, erwiderte Shigi.
+Güyük setzte sich nicht.
 
-Sie maßen einander mit Blicken. Shigi hatte Güyük aufwachsen sehen – als Kind in den Zelten der Mutter, als Jungen auf dem Pferd, als Mann im Krieg. Er hatte ihn nie gemocht. Aber das war nicht wichtig. Was wichtig war: Er kannte ihn.
+Shigi stand auf. Er war nicht groß, aber er bewegte sich ohne Hast, und das hatte eine eigene Wirkung. Er ging zu einem der Regale, ließ seine Finger über die Bündel gleiten, las die Beschriftungen, die er selbst geschrieben hatte. Das Rascheln von Papier. Das leise Knarren des Holzregals. Dann zog er ein Bündel heraus – gebunden mit roter Schnur, versiegelt mit dem Stempel der Kanzlei.
 
-Und er wusste, dass dieser Besuch keine Höflichkeit sein würde.
+Er legte es auf den Tisch.
 
-„Ich will die Akte meines Vaters“, sagte Güyük ohne Einleitung.
+„Die amtliche Akte zum Tod des Khagans Ögedei, Sohn Temüjins, Sohn der Hö'elün", sagte Shigi. „Eröffnet im zwölften Monat des Jahres der Ziege."
 
-Shigi nickte langsam. „Welche Akte?“
+Güyük trat an den Tisch und öffnete das Bündel. Er löste die Schnur mit einer einzigen Bewegung, ruckartig, wie man einen Knoten an einem Sattelgurt löst. Die Blätter lagen vor ihm.
 
-„Du weißt genau welche.“ Güyüks Stimme war flach wie eine Klinge vor dem Stoß. „Die über seinen Tod.“
+Shigi setzte sich wieder und nahm seinen Stift auf.
 
-Shigi stand still für einen Moment. Dann ging er zum Regal an der Wand und zog eine Mappe hervor – dick mit Papieren gefüllt, sorgfältig gebunden in graues Leder mit einem roten Siegel an der Seite.
+Er schrieb nicht. Er wartete.
 
-„Ich habe sie vorbereitet“, sagte er ruhig und legte sie auf den Tisch zwischen sich und den Prinzen. „Wie es das Gesetz verlangt.“
+Güyük las.
 
-Güyük trat näher und legte seine Hand auf die Mappe. Seine Finger waren schmutzig von der Reise; sie hinterließen helle Streifen auf dem dunklen Leder.
+Die Aktenkammer war still. Draußen, hinter den Filzwänden, konnte man das Ordos hören – das ferne Stampfen von Pferden, das Rufen eines Wächters, das gedämpfte Klirren von Metall. Hier drinnen war nur das Rascheln von Papier, wenn Güyük eine Seite umwandte.
 
-„Das Gesetz“, wiederholte er leise und hob den Blick zu Shigi.
+Shigi beobachtete ihn, ohne zu beobachten. Ein Blick auf das Tintenfass. Ein Blick auf das Fenster, durch das das Frühjahrslicht schmal und kalt hereinschnitt. Dann wieder auf die Akte in Güyüks Händen.
 
-„Ja“, sagte Shigi ebenso leise zurück. „Das Gesetz.“
+Die Akte war vollständig.
 
-Einen Herzschlag lang standen sie so – zwei Männer über einem Stück Leder und Papier über einer Leiche über einer Wahrheit, die keiner von ihnen aussprechen würde.
+Das war das Tückische daran.
 
-Dann schlug Güyük die Mappe auf und begann zu lesen.
+Jede Zeile stimmte. Jeder Name war korrekt. Die Ärzte waren verzeichnet, ihre Aussagen protokolliert, die Zeugen des Abends aufgeführt. Die Todesursache – Herzversagen, beschleunigt durch übermäßigen Weingenuss und die Erschöpfung des Feldzugs – war in drei verschiedenen Händen bestätigt. Shigis eigenes Siegel saß auf dem letzten Blatt, klar und unbestreitbar.
 
----
+Die Akte war vollständig.
 
-Die Stille in der Kammer war dick wie Honig im Winter: zähflüssig schwer widerwillig sich zu bewegen Shigi stand am Fenster aber seine Augen waren nicht draußen sie waren auf Güyüks Gesicht das sich beim Lesen kein einziges Mal veränderte wie Stein wie Pergament wie eine Tür die geschlossen blieb
+Und sie war tödlich langweilig.
 
-Güyük las jede Seite zweimal
+Güyük las die letzte Seite. Dann legte er die Blätter auf den Tisch zurück und sagte nichts. Shigi wartete. Dann begann Güyük von vorne.
 
-Er las von den Ärzten ihren Berichten ihren vorsichtigen Formulierungen ihrem Schweigen zwischen den Zeilen
+Das zweite Lesen war langsamer. Güyüks Finger fuhren unter den Zeilen entlang, nicht berührend, nur führend – der Gestus eines Mannes, der nach etwas sucht, das zwischen den Worten liegt. Shigi kannte diesen Gestus. Er hatte ihn selbst oft genug gemacht.
 
-Er las vom Gelage an jenem Abend von den Gästen von den Speisen vom Wein
+„Die Namen des Gelages", sagte Güyük, ohne aufzublicken.
 
-Er las vom plötzlichen Zusammenbruch von der Eile von der Stille danach
+„Sie sind auf der zweiten Seite verzeichnet."
 
-Er las nichts über einen verschwundenen Diener
+„Ich sehe sie." Eine Pause. „Ich will, dass du sie mir nennst."
 
-Er las nichts über einen goldenen Becher mit ungewöhnlichem Inhalt
+Shigi legte seinen Stift ab. Er faltete die Hände. „Warum?"
 
-Er las nichts was er nicht schon wusste oder was er nicht schon vermutet hätte
+„Weil ich fragen kann."
 
-Und doch las er weiter Seite um Seite um Seite als ob das Papier ihm etwas verraten würde was es nicht enthielt als ob zwischen den Buchstaben eine zweite Schrift läge eine unsichtbare Tinte eine Wahrheit unterhalb der Worte
+Das war keine Antwort. Aber es war auch keine Frage, die eine Antwort brauchte. Güyük war der Sohn der Regentin, und in wenigen Jahren würde er mehr sein. Das war die Realität, die in diesem Raum stand, schwerer als der Geruch von Tintenessig.
 
-Shigi wartete
+„Sehr gut", sagte Shigi. „Ich nenne sie."
 
-Er hatte gelernt zu warten in seinen Jahren am Hof in seinen Jahrzehnten zwischen Männern deren Macht größer war als seine eigene deren Geduld geringer deren Zorn dafür umso heißer brannte
+Er nannte sie. Einen nach dem anderen. Die Heerführer, die beim Gelage gesessen hatten. Die Mundschenken. Den Arzt, der als Erster gerufen worden war. Den Kanzleischreiber, der die Anwesenheit protokolliert hatte. Shigi nannte die Namen in der Reihenfolge, in der sie in der Akte standen, ohne Zögern, ohne Betonung, ohne den kleinsten Hinweis auf Wichtigkeit oder Unwichtigkeit.
 
-Warten war seine Waffe seine Rüstung sein Schild gegen das Ungestüm der Jungen gegen das Verlangen der Mächtigen gegen das Drängen des Blutes das immer schneller handeln wollte als es denken konnte
+Güyük hörte zu. Er sah ihn an.
 
-Warten bedeutete sehen bedeutete hören bedeutete verstehen bevor man sprach
+„Wer hat ihm den Wein eingeschenkt?"
 
-Und so sah er jetzt: sah wie Güyüks Kiefer mahlte während er las sah wie seine Finger das Papier hielten als wäre es ein lebendiges Ding das man würgen konnte sah wie seine Augen schneller wurden je mehr sie sahen dass nichts zu sehen war
+„Die Mundschenken. Wie verzeichnet."
 
-Sah wie die Enttäuschung kam wie eine Flutwelle über ein flaches Land langsam erst dann alles bedeckend dann zurückweichend dann nichts hinterlassend als Schlamm und Nässe und Leere
+„Einer nach dem anderen? Oder gab es jemanden, der ihm besonders diente?"
 
-Güyük klappte die Mappe zu
+Shigi ließ eine kurze Pause entstehen. Nicht lang genug, um auffällig zu sein. Nur lang genug, um die Frage zu bedenken.
 
-Seine Hände lagen flach auf dem Leder seine Finger breit gespreizt seine Knöchel weiß von Druck
+„Es war ein Gelage", sagte er. „Beim Gelage schenken die Mundschenken ein. Das ist ihre Aufgabe."
 
-„Das ist alles?“
+„War jemand anderes anwesend? Jemand, der nicht in der Akte steht?"
 
-„Das ist alles was offiziell aufgezeichnet wurde“
+„Jeder Anwesende ist verzeichnet."
 
-Güyük starrte ihn an: „Du hast mehr“
+Das stimmte. Es stimmte vollständig. Fatima war nicht anwesend gewesen. Fatima war nicht beim Gelage gewesen. Fatima hatte am Rand gestanden, jenseits der Zeltöffnung, in jenem Grenzbereich zwischen drinnen und draußen, den niemand protokolliert, weil niemand dort steht, der protokolliert werden müsste. Sie war keine Mundschenkin. Sie war keine Heerführerin. Sie war Töregenes Schreiberin, und Töregenes Schreiberin gehörte nicht zu den Gästen eines Khagan-Gelages.
 
-Es war keine Frage es war eine Feststellung ein Angriff ein Messer das vor ihm auf dem Tisch lag gezogen aber noch nicht geworfen bereit aber noch nicht gezückt wartend darauf dass Shigi nach ihm griff oder davor zurückschreckte oder beides zugleich tat und damit verriet was er verbarg
+Jeder Anwesende war verzeichnet.
 
-Shigi bewegte sich nicht
+Das war die Wahrheit.
 
-Seine Hände blieben flach auf dem Holz sein Atem blieb gleichmäßig sein Blick blieb ruhig während drinnen etwas anderes geschah etwas Kaltes etwas Hartes etwas das entschied ohne zu zögern:
+Güyük sah ihn noch einen Moment lang an. Dann sah er wieder auf die Akte.
 
-*Nein*
+„Es gibt keine Untersuchung. Keine Befragung der Zeugen. Nur Aussagen, die gesammelt wurden."
 
-*Ich gebe dir nicht mehr*
+„Das Verfahren folgte dem Gesetz", sagte Shigi. „Bei einem natürlichen Tod liegt keine Grundlage für eine Untersuchung vor."
 
-*Ich gebe dir genug*
+„Natürlicher Tod." Güyük sprach die Worte aus, als koste er sie. Als prüfe er, ob sie im Mund halten, was sie versprechen. „Mein Vater war sechsundfünfzig Jahre alt. Er trank. Er aß. Er feierte. Dann fiel er um. Das ist ein natürlicher Tod?"
 
-*Genug um dich zufrieden zu stellen genug um dich abzuspeisen genug um dich glauben zu lassen du hättest alles bekommen was es gibt*
+„Das ist der Tod, den die Ärzte bestätigt haben."
 
-*Und ich behalte den Rest für mich*
+„Die Ärzte, die meine Mutter gerufen hat."
 
-*Den Rest für Fatima*
+Shigi antwortete nicht.
 
-*Den Rest für die Wahrheit*
+Das war die richtige Entscheidung.
 
-„Es gibt keine weiteren Aufzeichnungen“, sagte er laut und seine Stimme klang fest fest wie Stein fest wie Eis fest wie etwas das schon lange gelernt hatte sich nicht zu biegen wenn Druck darauf lastete „Der Tod deines Vaters wurde dokumentiert nach geltendem Recht nach den Regeln dieser Kanzlei nach allem was wir wissen“
+Güyük stand auf. Er ließ die Akte auf dem Tisch liegen – ließ sie liegen, als wäre sie wertlos, als hätte das zweimalige Lesen nichts ergeben außer der Bestätigung, dass sie nichts ergab. Er trat zum Fenster. Das Frühjahrslicht fiel auf sein Gesicht, machte die Erschöpfung sichtbar, die Schatten unter den Augen, die Spannung in den Kiefermuskeln.
 
-Güyük schwieg lange dann fragte er:
+„Du hast dieses Reich seit dreißig Jahren verwaltet", sagte er, ohne sich umzudrehen.
 
-„Wer war beim Gelage?“
+„Länger", sagte Shigi.
 
-Shigi zögerte einen Herzschlag lang – genau lang genug um echt zu wirken lang genug um Überlegung vorzutäuschen lang genug um einen Namen fallen zu lassen aber nicht den richtigen:
+„Dann weißt du, wie Akten aussehen, die etwas verbergen."
 
-„Die üblichen Gäste Die Generäle Die Würdenträger Die Beamten Dein Bruder Köden war da Chinqai einige andere“
+„Ich weiß, wie Akten aussehen, die das Gesetz erfüllen."
 
-Keine Erwähnung Fatimas kein Wort über die Frau aus Chorasan keine Andeutung ihrer Anwesenheit an jenem Abend kein Hinweis darauf dass sie gesehen hatte was niemand gesehen haben durfte dass sie wusste was niemand wissen durfte dass sie in diesem Raum saß zwischen ihnen beiden unsichtbar ungenannt ungefährdet solange ihr Name nicht fiel
+Güyük drehte sich um. Er sah Shigi an, und in diesem Blick war etwas, das Shigi erkannte, weil er es schon oft gesehen hatte: die Mischung aus Wissen und Ohnmacht, die einen Mann kennt, der versteht, dass er belogen wird, aber nicht beweisen kann, womit. Das war der gefährlichste Zustand, in dem sich ein Mächtiger befinden konnte. Gefährlich für alle, die in seiner Reichweite standen.
 
-Güyük runzelte die Stirn: „Chinqai? Der alte Kanzler? Der Mann den meine Mutter jagt?“
+„Ich werde wiederkommen", sagte Güyük.
 
-Shigi nickte: „Derselbe Ja“
+„Die Akte liegt jederzeit bereit", sagte Shigi.
 
-„Interessant“ Güyüks Stimme klang dünn jetzt dünner als vorher dünn wie Eis im ersten Tau: brüchig gefährlich bereit jeden Moment einzubrechen „Ein Mann der heute flieht aber gestern noch am Tisch meines Vaters saß Ein Mann den meine Mutter verfolgt aber mein Bruder beschützt Ein Mann…“ Er stockte dann fuhr er leiser fort: „Ein Mann dessen Namen ich mir merken werde“
+Güyük ging.
 
-Das Schweigen fiel wieder ein schwerer Vorhang zwischen ihnen beiden schwerer Stoff schweres Schweigen schweres Wissen das beide teilten ohne es auszusprechen:
+Die Filzwand schloss sich hinter ihm, und der Geruch von Leder und Tintenessig legte sich wieder über den Raum wie eine Decke, die man hochgezogen hatte. Shigi saß still. Er hörte die Schritte draußen – erst laut, dann leiser, dann fort.
 
-Chinqai wusste etwas Chinqai könnte eines Tages sprechen Chinqai könnte eines Tages sterben bevor er spricht – je nachdem wer wen fand wen schützte wen tötete bevor es zu spät wäre für alles außer Schweigen außer Vergessen außer dem Tod der alles beendet aber nichts löst nichts erklärt nichts heilt sondern nur zudeckt nur vergräbt nur wegsperrt in einer Truhe deren Schlüssel verloren ist im Sand der Zeit im Wind des Vergessens im endlosen Kreislauf von Macht und Blut und Stille immer wieder Stille immer wieder Schweigen immer wieder Tod:
+Er wartete noch einmal.
 
-Der Tod des Khans
-Der Tod seines Vaters
-Der Tod eines Mannes dessen Name fällt oder fällt gelassen wird je nachdem wer spricht wer schweigt wer stirbt bevor beide möglich sind bevor beides geschieht bevor nichts mehr bleibt außer dem Geruch von altem Papier Staub Kälte Stein und einer Akte auf einem Tisch zwischen zwei Männern deren jeder weiß dass der andere lügt aber keiner sagt es laut weil laute Worte gefährlicher sind als stummes Wissen weil stummes Wissen sicherer ist weil stummes Wissen geteilt werden kann ohne geteilt werden zu müssen weil stummes Wissen bleibt wo es ist während laute Worte reisen während laute Worte Ohren finden während laute Worte Leben kosten –
+Dann stand er auf.
 
-Leben wie seines Leben wie ihres Leben wie all jener deren Namen fielen oder fielen gelassen wurden je nachdem wer sprach wer schwieg wer lebte wer starb wer am Ende übrig blieb um weiterzuleben weiterzuschweigen weiterzuwarten bis auch seine Zeit kam bis auch sein Name fiel bis auch sein Schweigen endete im Staub unter dem Stein im Geruch von altem Papier im Licht eines Winters dessen Kälte nie vergeht nie vergehen wird nie vergehen darf weil sonst niemand mehr bleibt um Zeugnis abzulegen von dem was geschah –
+Er ging nicht zum Regal. Er ging zu dem kleinen Tisch in der hinteren Ecke der Kammer, wo er seine Privatkorrespondenz führte – getrennt vom Amtstisch, getrennt von den Siegeln und den offiziellen Bündeln. Ein Tisch, an dem er manchmal saß, wenn er allein war, und schrieb, was er nicht siegeln konnte.
 
-Aber nein
-Nicht jetzt
-Noch nicht
-Jetzt zählten nur diese zwei Dinge:
-Die Akte vor ihm
-Der Prinz vor ihm
-Und die Entscheidung zwischen ihnen beiden:
-Wer spricht
-Wer schweigt
-Wer geht
-Wer bleibt
-Wer lebt
-Wer stirbt –
-Nicht heute vielleicht morgen vielleicht nie vielleicht immer vielleicht für immer ungelöst unausgesprochen ungeschrieben außer in einem Buch das niemand lesen darf außer einer Frau deren Name noch nicht gefallen ist noch nicht fallen darf noch nicht fallen wird solange Shigi Qutuqu atmet solange seine Hände diese Feder halten solange sein Siegel dieses Papier berührt solange sein Mund diesen Namen verschweigt:
+Er öffnete die untere Schublade.
 
-Fatima.
-Fatima.
-Fatima.
+Darin lagen zwei Bündel.
 
----
+Das eine war in blaues Tuch gebunden. Das andere in weißes.
 
-Güyük stand auf so abrupt dass sein Stuhl gegen die Wand stieß mit einem harten trockenen Knall der durch die Stille schnitt wie eine Peitsche durch Nebel: kurz scharf endgültig klanglos dann still dann leer dann wartend darauf dass jemand sprach jemand handelte jemand weitermachte mit dem Spiel dessen Regeln beide kannten obwohl sie nie niedergeschrieben wurden obwohl sie nie ausgesprochen wurden obwohl sie tiefer lagen als jedes Gesetz jeder Eid jede Unterschrift unter einem Dokument das morgen verbrannt werden konnte übermorgen vergessen nächste Woche ersetzt durch ein anderes Dokument mit anderen Worten anderer Wahrheit anderem Zweck:
+Das blaue Bündel enthielt, was er dem Reich schuldete: die amtliche Akte, eine Kopie davon, sauber und vollständig und leer von allem Wesentlichen. Das weiße Bündel enthielt, was er der Wahrheit schuldete: seine Privataufzeichnungen, die er seit dem Morgen nach Ögedeis Tod führte. Seite für Seite, in seiner kleinen, präzisen Handschrift, die er in seiner Jugend gelernt hatte, als Hö'elün ihm das Schreiben beibrachte und er nicht wusste, wozu es gut sein würde.
 
-Macht.
-Macht.
-Macht.
-Alles andere ist Dekoration ist Theater ist Rauch vor unseren Augen hinter dem wir tanzen während andere sterben während andere leiden während andere ihre Seelen verkaufen für einen Platz am Feuer für einen Blick des Khans für eine Handvoll Münzen Gold Silber Blut –
+Er nahm das weiße Bündel heraus.
 
-Nichts davon so viel wert
-So wenig wert
-So gar nichts wert wenn man bedenkt dass alles endet alles vergeht alles stirbt irgendwann irgendwo irgendwie egal wie viele Akten man stapelt egal wie viele Lügen man schreibt egal wie viele Wahrheiten man begräbt unter Bergen aus Papier Pergament Leder Siegeln Unterschriften Zeugenaussagen Eiden –
+Er öffnete es auf der letzten beschriebenen Seite.
 
-Am Ende bleibt nur:
-Staub
-Schweigen
-Vergessen
+Dort stand, was er in den vergangenen Wochen aufgezeichnet hatte. Die Dekrete Töregenes. Der Fall Chinqai. Abd ar-Rahmans Aufstieg. Die Briefe, die in die westlichen Provinzen gegangen waren. Die Namen der Männer, die ihre Siegel verloren hatten. Die Namen der Männer, die neue Siegel bekommen hatten.
 
-Oder:
-Eine Geschichte erzählt von denen die übrig bleiben denen es gelang rechtzeitig zu gehen rechtzeitig zu schweigen rechtzeitig ihren Mund zu halten während andere sprachen während andere starben während andere ihre letzte Wahrheit schrien in einer Sprache die keiner mehr verstand in einem Raum ohne Fenster ohne Türen ohne Ausgang –
+Er tauchte den Stift ein.
 
-So endet Macht:
-Nicht mit einem Schrei sondern mit Stille
-Nicht mit einem Schwert sondern mit Papier
-Nicht mit Blut sondern mit Tinte trocknend auf Blättern deren Inhalt niemand liest deren Bedeutung niemand kennt deren Zweck niemand mehr entschlüsselt Stunden später Tage später Jahre später wenn alle tot sind alle vergangen alle versunken im Fluss der Zeit unter dessen Oberfläche nichts bleibt außer Steinen Lehm Knochen –
+Er schrieb.
 
-Und manchmal:
-Eine Feder steckt fest zwischen zwei Steinen steckt fest im Grund des Flusses steckt fest als Zeichen dafür dass jemand hier schrieb jemand hier litt jemand hier versuchte festzuhalten was unaufhaltsam vorbeifließt:
+Güyük, Sohn Ögedeis, Sohn Temüjins, erschien heute in der Aktenkammer. Er forderte Einsicht in die Akte zum Tod seines Vaters. Die Akte wurde vorgelegt. Er las sie zweimal. Er fragte nach den Namen der Anwesenden beim Gelage. Die Namen wurden genannt. Alle Namen, die in der Akte stehen. Alle Namen, die in der Akte stehen müssen.
 
-Das Leben.
-Die Liebe.
-Die Wahrheit.
-Alles drei so schwer so leicht so unmöglich gleichzeitig festzuhalten weil Wasser durch deine Finger rinnt rinnt rinnt bis nichts bleibt bis deine Hände leer sind dein Herz leer dein Mund leer vollgestopft mit Schweigen vollgestopft mit Angst vollgestopft mit Fragen deren Antwort du längst kennst aber niemals gibst niemals geben darfst niemals geben kannst weil Geben bedeutet Verlieren bedeutet Sterben bedeutet Ende –
+Er hielt inne.
 
-Und doch:
-Gibst du weiter hältst du weiter suchst du weiter –
-Nach einem Wort einem Namen einer Wahrheit –
-Nach Fatima –
-Nach ihrer Hand ihrer Feder ihrer Geschichte –
-Nach allem was bleibt wenn du gehst wenn du stirbst wenn du verschwindest in der Nacht aus Staub Schweigen Vergessen –
+Die Feder ruhte über dem Papier, ohne es zu berühren. Ein Tropfen Tinte sammelte sich an der Spitze, schwoll an, fiel. Ein kleiner schwarzer Fleck auf dem weißen Papier, der nichts bedeutete und alles.
 
-Aber nein:
-Noch nicht jetzt noch lebst du jetzt noch atmest du jetzt noch hältst du diese Feder diese Akten dieses Siegel –
-Noch kannst du entscheiden noch kannst du handeln noch kannst du wählen:
-Schweigen oder Sprechen?
-Leben oder Sterben?
-Wahrheit oder Lüge?
+Dann schrieb er weiter.
 
-Du wählst:
-Schweigen.
-Leben.
-Lüge.
-Für heute morgen vielleicht für immer –
+Fatima, Schreiberin der Regentin, ist in der Akte nicht verzeichnet. Sie war nicht beim Gelage. Sie war nicht unter den Gästen. Sie war nicht unter den Bediensteten, die das Gesetz zu verzeichnen verlangt. Ihr Name erscheint in keinem amtlichen Dokument, das sich auf die Nacht des Todes bezieht. Das ist die Wahrheit.
 
-Weil morgen kommt bestimmt kommt sicher kommt –
-Weil morgen dir Zeit gibt Zeit schenkt Zeit raubt –
-Weil morgen vielleicht anders wird besser wird anders entscheidet anders handelt anders lebt anders stirbt anders endet anders beginnt anders weitermacht wo heute aufgehört hat wo heute gestoppt wurde wo heute stillstand stillhält stillschweigt stillwartet bis morgen kommt –
+Er legte den Stift nieder.
 
-Morgen kommt bestimmt kommt sicher kommt –
-Morgen kommt vielleicht schon heute Nacht schon dieser Abend schon dieser Augenblick wenn Güyük geht wenn Tür ins Schloss fällt wenn Schritte verhallen wenn Stille zurückkehrt wenn Shigi allein ist allein bleibt allein lebt allein stirbt allein wartet bis Morgen wirklich kommt wirklich da ist wirklich beginnt wirklich neu macht wirklich gut macht wirklich richtig macht wirklich wahr macht alles besser heller freundlicher sanfter einfacher leichter weniger belastet weniger bedroht weniger gefährlich weniger tödlich weniger endgültig weniger – 
+Das ist die Wahrheit.
 
-Morgen kommt bestimmt kommt sicher kommt –
-Morgen kommt –
+Er betrachtete den Satz. Er war präzise. Er war juristisch korrekt. Er war vollständig. Und er war auch das Andere: eine Entscheidung, die er getroffen hatte, bevor Güyük die Kammer betrat, ohne es sich einzugestehen, und die er jetzt, in diesen wenigen Zeilen, eingestand.
 
-Morgen kommt vielleicht genau so wenig genau so viel genau so gleich genau so anders genau so leer genau so voll genau so tot genau so lebendig genau so sinnlos genau so sinnvoll genau so nutzlos genau so notwendig genau so falsch genau so richtig genau so grau genau so klar genau so kalt genau so warm genau tot lebend sinnlos sinnvoll falsch richtig grau klar kalt warm –
+Er hatte Fatimas Namen nicht genannt.
 
-Morgen kommt bestimmt kommt sicher kommt –
-Morgen kommt immer bestimmt sicher immer gleich immer anders immer neu immer alt immer gleich –
+Nicht weil er ihn vergessen hatte. Nicht weil er ihn nicht kannte. Er kannte ihn seit Jahren, hatte ihn in Töregenes Korrespondenz gesehen, hatte die Frau beobachtet, die schrieb, was die Regentin dachte, und manchmal, so glaubte er, die Frau beobachtet, die dachte, was die Regentin schrieb. Er kannte ihren Namen. Er kannte ihre Herkunft. Er kannte, was sie war und was sie nicht war.
 
-Morgen kommt bestimmt kommtsicherkommtimmerkommtimmergleichimmerandersimmerneuimmervorbeiimmervorbeiimmervorbeiimmervorbeiimmervorbeiimmervorbeiimmervorbeiim—
+Er hatte ihn nicht genannt.
 
----
+Weil Güyük ihn gesucht hatte.
 
-Güyük ging ohne Abschiedswort ohne Kopfnicken ohne Geste der Höflichkeit oder Dankbarkeit oder Anerkennung dessen was geschehen war gesagt worden getan worden gelassen worden vermieden worden erreicht worden verloren worden gewonnen worden vertagt worden verschoben worden vergessen worden bewahrt worden verborgen worden geheim gehalten worden zugedeckt worden weggesperrt worden weggeschlossen worden weggedrückt worden weggedacht worden weggelogen worden weggewischt worden weggewaschen worden weggetragen worden weggerollt worden weggeblasen worden weggeworfen worden weggeworfenweggeworfenweg—
+Das war der Kern der Sache, so einfach und so schwer wie ein Stein. Güyük hatte nach jemandem gesucht, den er nicht finden durfte. Nicht weil dieser jemand schuldig war – Shigi wusste nicht, ob Fatima schuldig war, wusste nicht einmal, ob es eine Schuld gab, die zu tragen war – sondern weil Güyük nach einem Hebel suchte, nach einem Namen, den er aufheben und als Werkzeug benutzen konnte. Und Werkzeuge in Güyüks Händen wurden stumpf, bevor sie nützlich waren.
 
-Die Tür fiel ins Schloss: hart trocken kurz endgültig klanglos dann still dann leer dann frei: frei für Shigi Qutuqu frei für sein Handeln frei für seinen nächsten Schritt seinen nächsten Zug seinen nächsten Atemzug seinen nächsten Gedanken seinen nächsten Entschluss seinen nächsten Fehler seinen nächsten Sieg seinen nächsten Verlust seinen nächsten Augenblick seines Lebens seines Sterbens seines Überlebens seiner Aufgabe seiner Pflicht seiner Schuld seiner Ehre seiner Schande seiner Wahrheit seiner Lüge seines Weges durch diese Nacht diesen Tag dieses Jahrzehnt dieses Jahrhundert dieses Leben das länger dauert als gedacht länger dauert als gehofft länger dauert als erträglich länger dauert als möglich länger dauert als menschlich länger dauert als—
+Das war gefährlich.
 
-Stopp!
+Nicht das Verschweigen. Das Nennen wäre gefährlich gewesen.
 
-Atmen!
-Denken!
-Handeln!
+Shigi schloss das weiße Bündel und legte es zurück in die untere Schublade. Darüber legte er das blaue Bündel. Dann schloss er die Schublade.
 
-Shigi hob den Kopf drehte ihn nach links rechts sah prüfend prüfend prüfend ob niemand mehr da stand ob niemand mehr lauerte ob niemand mehr horchte ob niemand mehr wartete darauf dass er jetzt tat was getan werden musste getan werden durfte getan werden konnte getan werden sollte getan werden würde getan werden musste musste musste—
+Er saß einen Moment lang still.
 
-Er öffnete eine Schublade seines Schreibtisches eine kleine unscheinbare Schublade unter anderen kleinen unscheinbaren Schubladen zwischen anderen kleinen unscheinbaren Dingen Dingen Dingen—
+Er dachte an Hö'elün, die ihn das Schreiben gelehrt hatte, und an den Satz, den sie immer gesagt hatte: Ein Richter urteilt nach dem Gesetz. Ein weiser Mann urteilt nach dem, was das Gesetz nicht sagen kann. Er hatte diesen Satz dreißig Jahre lang für eine Warnung gehalten, eine Mahnung zur Vorsicht vor der Hybris des Richters, der sich für weiser hält als das Gesetz.
 
-Er griff hinein nahm heraus einen zweiten Band dünner kleiner unauffälliger gebunden in braunes Leder ohne Siegel ohne Titel ohne Hinweis auf Inhalt Zweck Bedeutung Wert Gefahr— 
+Heute hatte er ihn anders gehört.
 
-Seine Privatakte über Ögedeis Tod enthielt Details enthalten Namen enthalten Daten enthalten Beobachtungen enthalten Fragen enthalten Antworten enthalten Schlüsse enthalten Zweifel enthalten Gewissheiten enthalten Vermutungen enthalten Beweise enthalten Indizien enthalten Spuren enthalten Fährten enthalten Fallen enthalten Gefahren enthalten Risiken enthalten Chancen enthalten Entscheidungen enthalten—
+Heute hatte er ihn als Erlaubnis gehört.
 
-Enthalten Fatimas Namen!
+Er stand auf und trat zum Regal. Er nahm das rote Bündel – die amtliche Akte, die er Güyük vorgelegt hatte – und trug es zu seinem Amtstisch zurück. Er öffnete es. Er las es einmal durch, langsam, mit der Sorgfalt eines Mannes, der prüft, ob ein Gebäude hält, was er gebaut hat.
 
-Fatimas Name stand darin geschrieben deutlich lesbar unmissverständlich klar fatal tödlich gefährlich kostbar notwendig wahrhaft richtig falsch unmöglich möglich—
+Es hielt.
 
-Fatima!
+Jede Zeile stimmte. Jeder Name war korrekt. Die Todesursache war bestätigt. Das Verfahren war sauber. Wer diese Akte las, fand ein vollständiges Bild: den Tod eines Khagans, umgeben von seinen Männern, im Rausch des Festes, das Herz erschöpft von Krieg und Trauer und Wein.
 
-Seine Hand zitterte kurz kaum merklich fast unsichtbar fast unbemerkt fast unbedeutend fast unwichtig fast—
+Ein vollständiges Bild.
 
-Aber wichtig!
-Bedeutungsvoll!
-Entscheidend!
+Ein leeres Bild.
 
-Denn jetzt trennte sich was nie hätte vereint werden sollen: offizielle Lüge private Wahrheit dienstliche Fiktion persönliches Wissen öffentliche Geschichte geheimes Gedächtnis Amtspflicht Menschenpflicht Pflicht gegenüber Gesetz gegenüber Herrschaft gegenüber Familie gegenüber Freundschaft gegenüber Feindschaft gegenüber Wahrheit gegenüber Lüge gegenüber Leben gegenüber Tod gegenüber allem allem allem—
+Er band das rote Bündel wieder zu und legte es auf den Stapel der Akten, die zurück ins Regal mussten. Dann saß er an seinem Tisch und sah auf die Wände, die Regale, die Bündel.
 
-Zwei Bücher!
-Zwei Versionen!
-Zwei Welten!
-Zwei Entscheidungen!
-Zwei Wege!
-Zwei Möglichkeiten!
+Er dachte an etwas, das er vor langer Zeit gelesen hatte, in einem Dokument aus den frühen Jahren des Reiches, einem Urteil, das Dschingis Khan selbst gefällt hatte: Der Sieg gehört dem, der die Geschichte überlebt. Nicht dem, der sie erlebt.
 
-Eine Wahl!
+Er hatte das immer für eine Übertreibung gehalten. Eine Rhetorik der Macht, nicht ihre Wahrheit.
 
-Wähle!
+Jetzt saß er in einem Raum voller Papier und verstand, was es bedeutete.
 
-Shigi legte beide Bücher nebeneinander auf seinen Schreibtisch legte beide nebeneinander betrachtete beide nebeneinander maß beide gegeneinander ab prüfte beide gegeneinander testete beide gegeneinander verglich beide miteinander unterschied beide voneinander trennte beide voneinander löste beide voneinander befreite beide voneinander band beide wieder zusammen vereinte beide wieder zur Einheit machte aus zwei eins machte aus eins zwei machte aus Wahl Notwendigkeit machte aus Notwendigkeit Möglichkeit machte aus Möglichkeit Wirklichkeit machte aus Wirklichkeit—
+Diese Regale waren kein Archiv.
 
-Mach!
+Sie waren ein Waffenlager.
 
-Seine Hand griff zum privaten Band hob ihn hoch trug ihn quer durchs Zimmer quer zur Truhe quer zur Kiste quer zum Versteck quer zur Sicherheit quer zum Geheimnis quer zur Vergangenheit quer zur Zukunft quer zur Gegenwart quer zur Entscheidung quer zur Tat quer zum Vollzug quer zum Ende—
+Und er war seit dreißig Jahren der Waffenschmied, ohne es gewusst zu haben. Ohne es gewusst haben zu wollen. Er hatte Akten geführt, Urteile gefällt, Dokumente versiegelt – nicht als Werkzeug der Macht, sondern als Dienst am Gesetz. Das war der Unterschied, den er immer gezogen hatte. Das war die Grenze, hinter der er sich sicher gefühlt hatte.
 
-Leg ihn hinein!
-Schließ ab!
-Verlier ihn nie!
-Verrate ihn nie!
-Gib ihn nie her!
-Lass ihn nie finden!
-Lass ihn nie entdecken!
-Lass ihn nie ans Licht kommen ans Licht ans Licht ans Licht ans Licht ans Licht ans LichtansLichtansLichtans——
+Heute hatte er eine Waffe geschmiedet.
 
----
+Nicht aus Stahl. Aus Schweigen.
 
-Draußen fiel Schnee erste Flocken erste Boten erste Vorboten eines Winters der kommen würde kommen musste kommen sollte kommen durfte kommen könnte kommen würde bestimmt kam sicher kam bald kam schnell kam hart kam kalt kam endlos kam ewig kam tief kam schwer kam weiß kam rein kam totkamlebendkamtotkamlebendkamtotlebendtotlebendtotleb—
+Er hatte Fatimas Namen nicht genannt, und dieses Schweigen war präziser, schärfer, gefährlicher als jede Klinge. Es war ein Urteil, das er gefällt hatte, ohne es zu nennen. Ein Urteil für jemanden, den er kaum kannte, gegen jemanden, der Khagan werden würde.
+
+Das war nicht Dienst am Gesetz.
+
+Das war etwas anderes.
+
+Er nahm seinen Stift und öffnete das weiße Bündel noch einmal. Er suchte die Seite, die er gerade beschrieben hatte. Er las den letzten Satz.
+
+Das ist die Wahrheit.
+
+Er schrieb darunter, in der kleinen, präzisen Handschrift, die Hö'elün ihm beigebracht hatte:
+
+Die Frage ist, welche Wahrheit dient dem Recht. Und welche dem, was das Recht schützen soll.
+
+Er betrachtete die Zeile.
+
+Dann schloss er das Bündel, legte es in die Schublade, legte das blaue Bündel darüber, schloss die Schublade, stand auf, trat zum Regal, nahm das rote Bündel und stellte es an seinen Platz.
+
+Die Aktenkammer roch nach Leder und altem Staub. Nach feuchtem Moder von Filzwänden. Nach dem schwachen, beißenden Geruch von Tintenessig.
+
+Dieser Geruch war ihm vertraut seit dreißig Jahren.
+
+Heute roch er ihn anders.
 
 ---

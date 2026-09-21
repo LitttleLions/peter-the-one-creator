@@ -33,9 +33,9 @@ author: ""
 translator: "Motivatier"
 translator_label: "Übersetzung und editorische Einrichtung"
 language: "de-DE"
-publisher: "Motivatier Hermann Stiftung"
+publisher: "Motivatier Stiftung"
 rights: >-
-  © YYYY Motivatier Hermann Stiftung für diese deutsche Übersetzung,
+  © YYYY Motivatier Stiftung für diese deutsche Übersetzung,
   editorische Einrichtung, Zusatztexte und Covergestaltung.
 original_language: ""
 genre: ""
@@ -56,7 +56,7 @@ title_page_extra:
     Diese Ausgabe ist eine neue deutsche Übersetzung aus dem [Sprache]
     Original. Die Übersetzung und editorische Einrichtung wurden KI-gestützt
     erstellt und redaktionell geprüft.
-  - "Herausgegeben von der Motivatier Hermann Stiftung"
+  - "Herausgegeben von der Motivatier Stiftung"
 imprint_text: |
   [Titel des Buches]
 
@@ -69,10 +69,10 @@ imprint_text: |
 
   Diese Ausgabe ist eine neue deutsche Übersetzung aus dem [Sprache] Original. Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft.
 
-  Herausgegeben von der Motivatier Hermann Stiftung
+  Herausgegeben von der Motivatier Stiftung
   Übersetzung und editorische Einrichtung: Motivatier
 
-  © YYYY Motivatier Hermann Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte und Covergestaltung.
+  © YYYY Motivatier Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte und Covergestaltung.
 
   Das [Sprache] Originalwerk ist gemeinfrei. Rechte an dieser Ausgabe bestehen, soweit sie die neue deutsche Übersetzung, die redaktionellen Ergänzungen, die Gestaltung, das Cover und die konkrete Einrichtung des Textes betreffen.
 

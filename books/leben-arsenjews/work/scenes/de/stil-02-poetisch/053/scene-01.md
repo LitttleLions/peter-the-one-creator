@@ -1,15 +1,5 @@
 ## Szene 1
 
-> И вновь, и вновь над вашей головой,
-> Меж облаков и синей тьмы древесной,
-> Нальется высь эдемской синевой,
-> Блаженной, чистою, небесной,
-> И вновь, круглясь, заблещут облака
-> Из-за деревьев горними снегами
-> И шмель замрет на венчике цветка
-> И загремит державными громами
-> Весенний бог, а я – где буду я?
-
 Von diesem Tag an begann für mich eine schreckliche Zeit. Es war ein wahrer Wahnsinn, der alle meine seelischen und körperlichen Kräfte völlig aufzehrte, ein Leben nur aus Augenblicken der Leidenschaft oder der Erwartung solcher Augenblicke und den Qualen einer grausamsten Eifersucht, die mir das Herz völlig zerriss, wenn Tonjkas Mann kam, um sie zu sehen, und sie abends das Haus, in dem sie gewöhnlich schlief, verlassen musste, um mit ihm in der Gesindestube zu schlafen.
 
 Ließte sie mich? Anfangs ließte sie mich, war im Verborgenen, aber so glücklich über diese Liebe, dass sie, so sehr sie sich auch mühte, ihre heimliche Begeisterung für mich nicht verbergen konnte, das Leuchten ihrer schmalen, niedergeschlagenen Augen, selbst wenn sie mich vor meinem Bruder und meiner Schwägerin sah, während sie uns bediente. Dann ließte sie mich bald, bald nicht – zeitweise war sie nicht nur gleichgültig, kalt, sondern sogar feindselig –, und dieser ständige Wechsel der Gefühle, stets unverständlich, unerwartet, zermürbte mich völlig. Ich hasste sie zuweilen schwer, und dennoch versetzte mich selbst dann allein der Gedanke an ihre silbernen Ohrringe, an das Zarte und Liebliche, noch sehr Jugendliche, das in ihren Lippen lag, im Oval des unteren Gesichts und in den niedergeschlagenen schmalen Augen, allein die Erinnerung an den herben Geruch ihres Haares, vermischt mit dem Duft ihres Kopftuchs, in Beben. Ich war dann bereit – und sogar mit einer Art gieriger Freude – zu jeder Erniedrigung vor ihr, wenn nur für eine Minute die ersten glücklichen Tage unserer Nähe zurückkehrten.

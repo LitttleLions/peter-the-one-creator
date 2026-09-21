@@ -1,0 +1,37 @@
+Fixbare Szenen: 0
+Fixbare Ersetzungen: 0
+Manuell zu pruefen: 30
+
+
+Manuell:
+
+- Kapitel 015, Szene 01: length_outlier - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 024, Szene 01: cyrillic_in_translation - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 025, Szene 01: length_outlier - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 027, Szene 01: length_ratio - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 027, Szene 01: length_outlier - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 029, Szene 01: length_ratio - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 029, Szene 01: length_outlier - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 032, Szene 01: length_outlier - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 033, Szene 01: cyrillic_in_translation - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 033, Szene 01: length_outlier - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 034, Szene 01: length_ratio - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 034, Szene 01: length_outlier - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 035, Szene 01: length_ratio - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 035, Szene 01: long_sentence - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 035, Szene 01: length_outlier - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 037, Szene 01: length_ratio - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 037, Szene 01: length_outlier - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 039, Szene 01: length_ratio - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 039, Szene 01: length_outlier - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 040, Szene 01: length_ratio - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 040, Szene 01: paragraph_drop - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 040, Szene 01: length_outlier - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 049, Szene 01: long_sentence - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 050, Szene 01: long_sentence - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 051, Szene 01: long_sentence - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 053, Szene 01: cyrillic_in_translation - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 086, Szene 01: cyrillic_in_translation - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 086, Szene 01: long_sentence - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 087, Szene 01: long_sentence - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 096, Szene 01: cyrillic_in_translation - kein eindeutiger maschineller Ersatz erkennbar

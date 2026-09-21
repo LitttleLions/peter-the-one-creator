@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "book_id": "leben-arsenjews",
+  "style": "stil-02-poetisch",
+  "generator": "workspace_ai",
+  "model": "Muse Spark (Repo-Editor)",
+  "generated_at": "2026-09-21T14:30:00+02:00",
+  "prompt_version": "marketing-1",
+  "source_hash": "ac618e42dc46b8f3",
+  "usage": {},
+  "notes": [
+    "Texte als Repository-KI aus dem Datenbrief erzeugt (keine API-Kosten). amazon.de-Links live 09/2026."
+  ],
+  "texts": {
+    "x-t0-intro": {
+      "text": "Heute stellen wir vor: Das Leben Arsenjews von Iwan Bunin. Ein Mann erinnert sich an Kindheit und Jugend in der russischen Provinz – an Landschaften, Familie und erste Liebe. Unsere Ausgabe in neuer deutscher Übersetzung.",
+      "notes": "Buchvorstellung: Erinnerungs-Bewegung + Herkunft/Verlust + Titel/Autor + belegbare Ausgabenaussage."
+    },
+    "x-t5-content": {
+      "text": "Bunin erzählt nicht als Chronik, sondern aus dem Bewusstsein: Gerüche, Licht und Jahreszeiten tragen die Geschichte. Das Vergangene bleibt gegenwärtig, gerade weil es unwiederbringlich ist. Unsere Ausgabe folgt der vollständigen russischen Fassung.",
+      "notes": "Eigenständiger Gedanke: Erzählweise (Bewusstsein statt Chronik), anderer Fokus als T+0."
+    },
+    "x-t8-sample": {
+      "text": "Ein Blick in unsere Ausgabe: „Ich wurde vor einem halben Jahrhundert geboren, im mittleren Russland, auf dem Dorf, im väterlichen Gutshof.“",
+      "notes": "Echte Passage aus der Leseprobe (Kapitel 001, Szene 1), als Zitat gekennzeichnet."
+    },
+    "x-t12-second-angle": {
+      "text": "Bunin, Literaturnobelpreisträger 1933, schrieb im Exil sein persönlichstes Buch. Das Leben Arsenjews verbindet genaue Beobachtung mit elegischer Sprache – Herkunft und Verlust, Jugend und erstes Begehren. Unsere Ausgabe redaktionell geprüft.",
+      "notes": "Zweiter Zugang: Autor-Einordnung (Exil, Nobelpreis) + Themen, andere Perspektive als T+0/T+5."
+    },
+    "yt-short-2": {
+      "title": "Das Leben Arsenjews – Bunin",
+      "description": "Kindheit und Jugend in der russischen Provinz: Iwan Bunins Erinnerungsroman über Herkunft, Liebe und Verlust – in neuer deutscher Ausgabe.",
+      "overlays": [
+        "Kindheit im alten Russland",
+        "Erinnerung, Liebe, Verlust"
+      ]
+    }
+  },
+  "youtube": {}
+}

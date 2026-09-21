@@ -1,0 +1,59 @@
+{
+  "book": "die-dritte-chronik",
+  "chapter": "041",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\041\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\die-dritte-chronik\\work\\prompts\\higgsfield\\041-scene-01-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\die-dritte-chronik\\assets\\scene\\041\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 041 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Der Morgen kam spät im Sommer, und als Shigi Qutuqu aus seinem Zelt trat, sah er die Ebene zum ersten Mal mit den Augen eines Mannes, der wusste, wie das Stück endete. Vierzig Jahre am Hof. Vierzig Jahre Akten, Urteile, Siegel. Vierzig Jahre, in denen er geglaubt hatte, dass die Welt der Mongolen auf Gesetz und Herkommen beruhte, auf dem Recht des Blutes und dem Eid der Fürsten. Jetzt stand er hier, am Rand einer Steppe, die er nicht kannte, und erkannte die Wahrheit, die er ein Leben lang übersehen hatte: Es gab kein Recht. Es gab nur die Erzählung, die der Mächtigste für wahr hielt.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260919_170652_4862a1d4-6a65-4b45-8c2c-fd19f619ee46.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-19T17:06:52.632421Z",
+      "display_name": "GPT Image 2",
+      "id": "4862a1d4-6a65-4b45-8c2c-fd19f619ee46",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260919_170652_4862a1d4-6a65-4b45-8c2c-fd19f619ee46_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 041 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Der Morgen kam spät im Sommer, und als Shigi Qutuqu aus seinem Zelt trat, sah er die Ebene zum ersten Mal mit den Augen eines Mannes, der wusste, wie das Stück endete. Vierzig Jahre am Hof. Vierzig Jahre Akten, Urteile, Siegel. Vierzig Jahre, in denen er geglaubt hatte, dass die Welt der Mongolen auf Gesetz und Herkommen beruhte, auf dem Recht des Blutes und dem Eid der Fürsten. Jetzt stand er hier, am Rand einer Steppe, die er nicht kannte, und erkannte die Wahrheit, die er ein Leben lang übersehen hatte: Es gab kein Recht. Es gab nur die Erzählung, die der Mächtigste für wahr hielt.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260919_170652_4862a1d4-6a65-4b45-8c2c-fd19f619ee46.png",
+      "status": "completed"
+    }
+  ]
+}

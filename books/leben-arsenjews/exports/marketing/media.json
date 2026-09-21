@@ -1,0 +1,54 @@
+{
+  "book_id": "leben-arsenjews",
+  "media": [
+    {
+      "path": "books/leben-arsenjews/assets/chapter/chapter-001.jpg",
+      "kind": "chapter_image",
+      "exists": true,
+      "used_by": [
+        "x-t1-song",
+        "yt-main",
+        "yt-short-1",
+        "x-t8-sample"
+      ],
+      "chapter": "001"
+    },
+    {
+      "path": "books/leben-arsenjews/assets/chapter/chapter-004.jpg",
+      "kind": "chapter_image",
+      "exists": true,
+      "used_by": [
+        "x-t5-content"
+      ],
+      "chapter": "004"
+    },
+    {
+      "path": "books/leben-arsenjews/assets/chapter/chapter-040.jpg",
+      "kind": "chapter_image",
+      "exists": true,
+      "used_by": [
+        "yt-short-2"
+      ],
+      "chapter": "040"
+    },
+    {
+      "path": "books/leben-arsenjews/assets/chapter/chapter-104.jpg",
+      "kind": "chapter_image",
+      "exists": true,
+      "used_by": [
+        "x-t12-second-angle"
+      ],
+      "chapter": "104"
+    },
+    {
+      "path": "books/leben-arsenjews/assets/covers/cover.jpg",
+      "kind": "cover",
+      "exists": true,
+      "used_by": [
+        "x-t0-intro",
+        "x-t2-youtube"
+      ]
+    }
+  ],
+  "note": "Pfade sind repo-relativ (POSIX), damit das Paket uebertragbar bleibt."
+}

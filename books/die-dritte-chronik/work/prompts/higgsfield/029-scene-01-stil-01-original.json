@@ -1,0 +1,59 @@
+{
+  "book": "die-dritte-chronik",
+  "chapter": "029",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\029\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\die-dritte-chronik\\work\\prompts\\higgsfield\\029-scene-01-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\die-dritte-chronik\\assets\\scene\\029\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 029 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Fatima saß in der Dunkelheit ihres Zeltes und hörte den Wind. Er trug den Geruch von verbranntem Holz und kaltem Stein, den Geruch einer Nacht, die nicht enden wollte. Sie hatte die Lampe nicht angezündet. Sie brauchte kein Licht, um zu wissen, was sie tun musste. Die Truhe stand offen vor ihr, der Deckel zurückgeschlagen wie ein aufgerissener Mund. Sie hatte sie vor einer Stunde aus dem Versteck unter der losen Diele geholt, hatte sie auf den Filz gestellt, hatte die Hände auf den Deckel gelegt und gewartet. Auf was? Auf einen Befehl, der nicht kommen würde. Auf eine Stimme, die längst verstummt war. Töregene war tot. Abd ar-Rahman war tot. Die Reihenfolge war klar, wenn man sie zu lesen verstand.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260919_165507_26d74f14-c150-497f-b7f8-2cca1bb96396.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-19T16:55:07.420033Z",
+      "display_name": "GPT Image 2",
+      "id": "26d74f14-c150-497f-b7f8-2cca1bb96396",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260919_165507_26d74f14-c150-497f-b7f8-2cca1bb96396_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 029 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Fatima saß in der Dunkelheit ihres Zeltes und hörte den Wind. Er trug den Geruch von verbranntem Holz und kaltem Stein, den Geruch einer Nacht, die nicht enden wollte. Sie hatte die Lampe nicht angezündet. Sie brauchte kein Licht, um zu wissen, was sie tun musste. Die Truhe stand offen vor ihr, der Deckel zurückgeschlagen wie ein aufgerissener Mund. Sie hatte sie vor einer Stunde aus dem Versteck unter der losen Diele geholt, hatte sie auf den Filz gestellt, hatte die Hände auf den Deckel gelegt und gewartet. Auf was? Auf einen Befehl, der nicht kommen würde. Auf eine Stimme, die längst verstummt war. Töregene war tot. Abd ar-Rahman war tot. Die Reihenfolge war klar, wenn man sie zu lesen verstand.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260919_165507_26d74f14-c150-497f-b7f8-2cca1bb96396.png",
+      "status": "completed"
+    }
+  ]
+}

@@ -41,9 +41,10 @@ book:
   title: Anna Karenina
   subtitle: Roman
   author: Lew Tolstoi
-  translator: Motivatier
+  translator: Motivatier Classics
+  translator_label: Übersetzung und editorische Einrichtung
   language: de-DE
-  publisher: ''
+  publisher: Motivatier Stiftung
   rights: ''
   description: >-
     Anna Karenina lebt in einer Welt, die Glanz, Ordnung und Sicherheit

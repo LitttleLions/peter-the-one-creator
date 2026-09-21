@@ -1,0 +1,12 @@
+Fixbare Szenen: 0
+Fixbare Ersetzungen: 0
+Manuell zu pruefen: 5
+
+
+Manuell:
+
+- Kapitel 022, Szene 01: repetition_style - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 042, Szene 01: repetition_style - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 042, Szene 01: repetition_style - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 044, Szene 01: repetition_style - kein eindeutiger maschineller Ersatz erkennbar
+- Kapitel 044, Szene 01: repetition_style - kein eindeutiger maschineller Ersatz erkennbar

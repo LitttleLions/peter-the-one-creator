@@ -1,0 +1,59 @@
+{
+  "book": "die-dritte-chronik",
+  "chapter": "040",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\040\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\die-dritte-chronik\\work\\prompts\\higgsfield\\040-scene-01-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\die-dritte-chronik\\assets\\scene\\040\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 040 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Die Stube war lang und schmal, ein Raum zwischen Archiv und Kanzlei, in dem niemand länger blieb als nötig. Juvaini stand an dem niedrigen Tisch, auf dem die Rollen lagen, die er aus dem Westen mitgebracht hatte, und wartete. Der Ofen in der Ecke war kalt, die Lampe brannte schwach, und durch den schmalen Spalt im Filz der Wand drang das ferne Geräusch der Zeltstadt, das Rufen der Händler, das Wiehern der Pferde, das Knarren der Wagenräder auf gefrorenem Boden. Er hatte zwei Jahre gebraucht, um hierher zurückzukehren. Zwei Jahre, in denen er durch die westlichen Provinzen gereist war, von Merw nach Buchara, von Buchara nach Samarkand, von Samarkand zurück an diesen Ort, den er nie wiedersehen wollte. Arghun Aqa hatte ihn geschickt, mit dem abgeschlossenen Register der Steuerrevision, mit den Briefen der Gouverneure, mit den Listen der Toten und der Lebenden und derer, die es nicht mehr gab.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260919_170609_79c6e618-13f6-4022-b5ba-2d106b9565cf.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-19T17:06:09.346496Z",
+      "display_name": "GPT Image 2",
+      "id": "79c6e618-13f6-4022-b5ba-2d106b9565cf",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260919_170609_79c6e618-13f6-4022-b5ba-2d106b9565cf_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 040 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Die Stube war lang und schmal, ein Raum zwischen Archiv und Kanzlei, in dem niemand länger blieb als nötig. Juvaini stand an dem niedrigen Tisch, auf dem die Rollen lagen, die er aus dem Westen mitgebracht hatte, und wartete. Der Ofen in der Ecke war kalt, die Lampe brannte schwach, und durch den schmalen Spalt im Filz der Wand drang das ferne Geräusch der Zeltstadt, das Rufen der Händler, das Wiehern der Pferde, das Knarren der Wagenräder auf gefrorenem Boden. Er hatte zwei Jahre gebraucht, um hierher zurückzukehren. Zwei Jahre, in denen er durch die westlichen Provinzen gereist war, von Merw nach Buchara, von Buchara nach Samarkand, von Samarkand zurück an diesen Ort, den er nie wiedersehen wollte. Arghun Aqa hatte ihn geschickt, mit dem abgeschlossenen Register der Steuerrevision, mit den Briefen der Gouverneure, mit den Listen der Toten und der Lebenden und derer, die es nicht mehr gab.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260919_170609_79c6e618-13f6-4022-b5ba-2d106b9565cf.png",
+      "status": "completed"
+    }
+  ]
+}

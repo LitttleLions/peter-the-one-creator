@@ -1,0 +1,1186 @@
+{
+  "schema_version": 1,
+  "campaign_id": "leben-arsenjews-marketing",
+  "book": {
+    "id": "leben-arsenjews",
+    "title": "Das Leben Arsenjews",
+    "subtitle": "Ein russischer Erinnerungsroman in neuer deutscher Ausgabe",
+    "author": "Iwan Bunin",
+    "language": "de",
+    "translator": "Motivatier Classics",
+    "translator_label": "Übersetzung und editorische Einrichtung",
+    "publisher": "Motivatier Stiftung",
+    "style": "stil-02-poetisch",
+    "source_lang": "ru",
+    "target_lang": "de",
+    "structure_mode": "chapter_as_scene"
+  },
+  "edition": {
+    "original_title": "Жизнь Арсеньева",
+    "original_author": "Iwan Bunin (Iwan Alexejewitsch Bunin, 1870–1953)",
+    "rights": "© 2026 Motivatier Stiftung für diese deutsche Übersetzung, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.",
+    "is_translation": true,
+    "edition_notes": [
+      "Originaltitel: Жизнь Арсеньева",
+      "Originalautor: Iwan Bunin (Iwan Alexejewitsch Bunin, 1870–1953)",
+      "Russische Vorlage: Жизнь Арсеньева",
+      "Diese Ausgabe ist eine neue deutsche Ausgabe nach dem russischen gemeinfreien Original.",
+      "Die Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft.",
+      "Bei diesem Werk wurde auf die vollständige russische Originalfassung und eine konsistente Kapitel- und Buchstruktur geachtet.",
+      "Kurze Vorspänne, Motti oder Orientierungstexte vor den Kapiteln stammen nicht aus dem Original, sofern solche in dieser Ausgabe verwendet werden.",
+      "Herausgegeben von der Motivatier Stiftung"
+    ],
+    "note": "Nur belegte Angaben aus export.yaml; keine erfundenen Zusatzleistungen."
+  },
+  "data_sources": [
+    {
+      "kind": "book_yaml",
+      "path": "books/leben-arsenjews/book.yaml"
+    },
+    {
+      "kind": "export_yaml",
+      "path": "books/leben-arsenjews/export.yaml"
+    },
+    {
+      "kind": "global_config",
+      "path": "config/marketing.yaml"
+    },
+    {
+      "kind": "cover",
+      "path": "books/leben-arsenjews/assets/covers/cover.jpg"
+    },
+    {
+      "kind": "chapter_images",
+      "path": "books/leben-arsenjews/assets/chapter",
+      "count": 19
+    },
+    {
+      "kind": "sample_passage",
+      "path": "books/leben-arsenjews/work/scenes/de/stil-02-poetisch/001/scene-01.md",
+      "chapter": "001",
+      "scene": 1,
+      "note": "echte Passage aus der fertigen DE-Ausgabe, an Satzgrenze gekuerzt"
+    },
+    {
+      "kind": "generated_texts",
+      "path": "books/leben-arsenjews/work/marketing/generated.json",
+      "generator": "workspace_ai",
+      "model": "Muse Spark (Repo-Editor)"
+    }
+  ],
+  "amazon": {
+    "url": "https://www.amazon.de/Das-Leben-Arsenjews-Iwan-Bunin-ebook/dp/B0HJZJFKCQ/",
+    "source": "website.amazon_url",
+    "url_status": "present",
+    "syntax": "ok",
+    "host": "www.amazon.de",
+    "is_amazon_host": true,
+    "assignment": "user_provided",
+    "note": "Aus dem Buchdatensatz uebernommen; keine Pruefung gegen die konkrete Amazon-Ausgabe."
+  },
+  "youtube": {
+    "url": "",
+    "video_id": "",
+    "url_status": "missing",
+    "public": false,
+    "derived_from_video_id": false,
+    "syntax": "ok"
+  },
+  "songs": [],
+  "campaign": {
+    "start": null,
+    "start_source": "unset",
+    "timezone": "Europe/Berlin",
+    "relative_dates_only": true,
+    "offsets_days": {
+      "x-t0-intro": 0,
+      "x-t1-song": 1,
+      "x-t2-youtube": 2,
+      "yt-main": 2,
+      "yt-short-1": 3,
+      "x-t5-content": 5,
+      "x-t8-sample": 8,
+      "yt-short-2": 10,
+      "x-t12-second-angle": 12
+    },
+    "note": "Kampagnenstart ist nicht das Erscheinungsdatum. Ohne Startdatum bleiben die relativen Termine gueltig."
+  },
+  "posts": [
+    {
+      "id": "x-t0-intro",
+      "campaign_id": "leben-arsenjews:x-t0-intro",
+      "platform": "x",
+      "type": "book_intro",
+      "label": "Buchvorstellung",
+      "offset_days": 0,
+      "offset_label": "T+0",
+      "scheduled_at": null,
+      "timezone": "Europe/Berlin",
+      "title": null,
+      "text": "Heute stellen wir vor: Das Leben Arsenjews von Iwan Bunin. Ein Mann erinnert sich an Kindheit und Jugend in der russischen Provinz – an Landschaften, Familie und erste Liebe. Unsere Ausgabe in neuer deutscher Übersetzung.\n\nhttps://www.amazon.de/Das-Leben-Arsenjews-Iwan-Bunin-ebook/dp/B0HJZJFKCQ/",
+      "description": null,
+      "overlays": [],
+      "shotlist": [],
+      "primary_link": {
+        "kind": "amazon",
+        "url": "https://www.amazon.de/Das-Leben-Arsenjews-Iwan-Bunin-ebook/dp/B0HJZJFKCQ/",
+        "url_status": "present",
+        "syntax": "ok",
+        "source": "website.amazon_url"
+      },
+      "secondary_links": [
+        {
+          "kind": "shelf",
+          "url": "https://stiftung.motivatier.de/classics/index.html",
+          "note": "Programmuebersicht, kein Buch-Deeplink"
+        }
+      ],
+      "media": [
+        {
+          "kind": "cover",
+          "path": "books/leben-arsenjews/assets/covers/cover.jpg",
+          "exists": true
+        }
+      ],
+      "related_video_ref": null,
+      "profile_ref": null,
+      "reviewed": false,
+      "notes": "Buchvorstellung: Erinnerungs-Bewegung + Herkunft/Verlust + Titel/Autor + belegbare Ausgabenaussage.",
+      "text_source": "generated",
+      "text_status": "generated",
+      "publish_status": "ready",
+      "status": "generated",
+      "reasons": [],
+      "depends_on": [
+        "amazon_url"
+      ],
+      "placeholders": [],
+      "validation": {
+        "weighted_chars": 246,
+        "weighted_chars_limit": 280,
+        "weighted_chars_status": "ok",
+        "weighted_chars_note": "konservative Naeherung; URLs zaehlen als 23 Zeichen, keine Plattformvalidierung",
+        "target_band": [
+          220,
+          250
+        ],
+        "title_chars": null,
+        "title_limit": null,
+        "title_status": null,
+        "url_syntax": "ok",
+        "media_exists": true
+      }
+    },
+    {
+      "id": "x-t1-song",
+      "campaign_id": "leben-arsenjews:x-t1-song",
+      "platform": "x",
+      "type": "song_clip",
+      "label": "Song- oder Clipausschnitt",
+      "offset_days": 1,
+      "offset_label": "T+1",
+      "scheduled_at": null,
+      "timezone": "Europe/Berlin",
+      "title": null,
+      "text": null,
+      "description": null,
+      "overlays": [],
+      "shotlist": [],
+      "primary_link": {
+        "kind": "amazon",
+        "url": "https://www.amazon.de/Das-Leben-Arsenjews-Iwan-Bunin-ebook/dp/B0HJZJFKCQ/",
+        "url_status": "present",
+        "syntax": "ok",
+        "source": "website.amazon_url"
+      },
+      "secondary_links": [
+        {
+          "kind": "shelf",
+          "url": "https://stiftung.motivatier.de/classics/index.html",
+          "note": "Programmuebersicht, kein Buch-Deeplink"
+        }
+      ],
+      "media": [
+        {
+          "kind": "chapter_image",
+          "chapter": "001",
+          "path": "books/leben-arsenjews/assets/chapter/chapter-001.jpg",
+          "exists": true,
+          "reused": false
+        }
+      ],
+      "related_video_ref": null,
+      "profile_ref": null,
+      "reviewed": false,
+      "notes": "",
+      "text_source": "missing",
+      "text_status": "missing",
+      "publish_status": "omitted",
+      "status": "omitted",
+      "reasons": [
+        "no_song_data"
+      ],
+      "depends_on": [
+        "amazon_url",
+        "song_file"
+      ],
+      "placeholders": [],
+      "validation": {
+        "weighted_chars": 0,
+        "weighted_chars_limit": 280,
+        "weighted_chars_status": "ok",
+        "weighted_chars_note": "konservative Naeherung; URLs zaehlen als 23 Zeichen, keine Plattformvalidierung",
+        "target_band": [
+          220,
+          250
+        ],
+        "title_chars": null,
+        "title_limit": null,
+        "title_status": null,
+        "url_syntax": "ok",
+        "media_exists": true
+      }
+    },
+    {
+      "id": "x-t2-youtube",
+      "campaign_id": "leben-arsenjews:x-t2-youtube",
+      "platform": "x",
+      "type": "youtube_announce",
+      "label": "Vollstaendiger Song auf YouTube",
+      "offset_days": 2,
+      "offset_label": "T+2",
+      "scheduled_at": null,
+      "timezone": "Europe/Berlin",
+      "title": null,
+      "text": null,
+      "description": null,
+      "overlays": [],
+      "shotlist": [],
+      "primary_link": {
+        "kind": "youtube",
+        "url": "",
+        "url_status": "missing",
+        "syntax": "ok",
+        "source": null
+      },
+      "secondary_links": [
+        {
+          "kind": "shelf",
+          "url": "https://stiftung.motivatier.de/classics/index.html",
+          "note": "Programmuebersicht, kein Buch-Deeplink"
+        }
+      ],
+      "media": [
+        {
+          "kind": "cover",
+          "path": "books/leben-arsenjews/assets/covers/cover.jpg",
+          "exists": true
+        }
+      ],
+      "related_video_ref": null,
+      "profile_ref": null,
+      "reviewed": false,
+      "notes": "",
+      "text_source": "missing",
+      "text_status": "missing",
+      "publish_status": "omitted",
+      "status": "omitted",
+      "reasons": [
+        "no_song_data"
+      ],
+      "depends_on": [
+        "song_file"
+      ],
+      "placeholders": [],
+      "validation": {
+        "weighted_chars": 0,
+        "weighted_chars_limit": 280,
+        "weighted_chars_status": "ok",
+        "weighted_chars_note": "konservative Naeherung; URLs zaehlen als 23 Zeichen, keine Plattformvalidierung",
+        "target_band": [
+          220,
+          250
+        ],
+        "title_chars": null,
+        "title_limit": null,
+        "title_status": null,
+        "url_syntax": "not_checked",
+        "media_exists": true
+      }
+    },
+    {
+      "id": "yt-main",
+      "campaign_id": "leben-arsenjews:yt-main",
+      "platform": "youtube",
+      "type": "song_video",
+      "label": "Vollstaendiges Liedvideo",
+      "offset_days": 2,
+      "offset_label": "T+2",
+      "scheduled_at": null,
+      "timezone": "Europe/Berlin",
+      "title": null,
+      "text": null,
+      "description": null,
+      "overlays": [],
+      "shotlist": [
+        {
+          "order": 1,
+          "image_source": "books/leben-arsenjews/assets/chapter/chapter-001.jpg",
+          "image_exists": true,
+          "overlay": "",
+          "book_ref": "Kapitel 001",
+          "audio_source": null,
+          "audio_start_seconds": null,
+          "planned_duration_seconds": null,
+          "duration_measured": false,
+          "missing": [
+            "audio_source"
+          ]
+        }
+      ],
+      "primary_link": {
+        "kind": "amazon",
+        "url": "https://www.amazon.de/Das-Leben-Arsenjews-Iwan-Bunin-ebook/dp/B0HJZJFKCQ/",
+        "url_status": "present",
+        "syntax": "ok",
+        "source": "website.amazon_url"
+      },
+      "secondary_links": [
+        {
+          "kind": "shelf",
+          "url": "https://stiftung.motivatier.de/classics/index.html",
+          "note": "Programmuebersicht, kein Buch-Deeplink"
+        }
+      ],
+      "media": [
+        {
+          "kind": "chapter_image",
+          "chapter": "001",
+          "path": "books/leben-arsenjews/assets/chapter/chapter-001.jpg",
+          "exists": true,
+          "reused": true
+        }
+      ],
+      "related_video_ref": null,
+      "profile_ref": null,
+      "reviewed": false,
+      "notes": "",
+      "text_source": "missing",
+      "text_status": "missing",
+      "publish_status": "omitted",
+      "status": "omitted",
+      "reasons": [
+        "no_song_data"
+      ],
+      "depends_on": [
+        "amazon_url",
+        "song_file"
+      ],
+      "placeholders": [],
+      "validation": {
+        "weighted_chars": 0,
+        "weighted_chars_limit": 5000,
+        "weighted_chars_status": "ok",
+        "weighted_chars_note": "konservative Naeherung; URLs zaehlen als 23 Zeichen, keine Plattformvalidierung",
+        "target_band": null,
+        "title_chars": null,
+        "title_limit": null,
+        "title_status": null,
+        "url_syntax": "ok",
+        "media_exists": true
+      }
+    },
+    {
+      "id": "yt-short-1",
+      "campaign_id": "leben-arsenjews:yt-short-1",
+      "platform": "youtube",
+      "type": "short_song",
+      "label": "Short: musikalischer Einstieg",
+      "offset_days": 3,
+      "offset_label": "T+3",
+      "scheduled_at": null,
+      "timezone": "Europe/Berlin",
+      "title": null,
+      "text": null,
+      "description": null,
+      "overlays": [],
+      "shotlist": [
+        {
+          "order": 1,
+          "image_source": "books/leben-arsenjews/assets/chapter/chapter-001.jpg",
+          "image_exists": true,
+          "overlay": "",
+          "book_ref": "Kapitel 001",
+          "audio_source": null,
+          "audio_start_seconds": null,
+          "planned_duration_seconds": null,
+          "duration_measured": false,
+          "missing": [
+            "audio_source"
+          ]
+        }
+      ],
+      "primary_link": {
+        "kind": "amazon",
+        "url": "https://www.amazon.de/Das-Leben-Arsenjews-Iwan-Bunin-ebook/dp/B0HJZJFKCQ/",
+        "url_status": "present",
+        "syntax": "ok",
+        "source": "website.amazon_url"
+      },
+      "secondary_links": [
+        {
+          "kind": "shelf",
+          "url": "https://stiftung.motivatier.de/classics/index.html",
+          "note": "Programmuebersicht, kein Buch-Deeplink"
+        }
+      ],
+      "media": [
+        {
+          "kind": "chapter_image",
+          "chapter": "001",
+          "path": "books/leben-arsenjews/assets/chapter/chapter-001.jpg",
+          "exists": true,
+          "reused": true
+        }
+      ],
+      "related_video_ref": {
+        "target": "yt-main",
+        "resolution": "marketing.youtube.url",
+        "available": false,
+        "instruction": "In der YouTube-App das verknuepfte Video setzen; normale URLs in Shorten-Beschreibungen sind nicht zuverlaessig anklickbar."
+      },
+      "profile_ref": {
+        "resolution": "Kanal-Profil",
+        "available": false,
+        "instruction": "Alternativ den Kanal-Profillink in der YouTube-App verknuepfen."
+      },
+      "reviewed": false,
+      "notes": "",
+      "text_source": "missing",
+      "text_status": "missing",
+      "publish_status": "omitted",
+      "status": "omitted",
+      "reasons": [
+        "no_song_data"
+      ],
+      "depends_on": [
+        "song_file"
+      ],
+      "placeholders": [],
+      "validation": {
+        "weighted_chars": 0,
+        "weighted_chars_limit": 5000,
+        "weighted_chars_status": "ok",
+        "weighted_chars_note": "konservative Naeherung; URLs zaehlen als 23 Zeichen, keine Plattformvalidierung",
+        "target_band": null,
+        "title_chars": null,
+        "title_limit": null,
+        "title_status": null,
+        "url_syntax": "ok",
+        "media_exists": true
+      }
+    },
+    {
+      "id": "x-t5-content",
+      "campaign_id": "leben-arsenjews:x-t5-content",
+      "platform": "x",
+      "type": "content",
+      "label": "Inhaltlicher Beitrag",
+      "offset_days": 5,
+      "offset_label": "T+5",
+      "scheduled_at": null,
+      "timezone": "Europe/Berlin",
+      "title": null,
+      "text": "Bunin erzählt nicht als Chronik, sondern aus dem Bewusstsein: Gerüche, Licht und Jahreszeiten tragen die Geschichte. Das Vergangene bleibt gegenwärtig, gerade weil es unwiederbringlich ist. Unsere Ausgabe folgt der vollständigen russischen Fassung.\n\nhttps://www.amazon.de/Das-Leben-Arsenjews-Iwan-Bunin-ebook/dp/B0HJZJFKCQ/",
+      "description": null,
+      "overlays": [],
+      "shotlist": [],
+      "primary_link": {
+        "kind": "amazon",
+        "url": "https://www.amazon.de/Das-Leben-Arsenjews-Iwan-Bunin-ebook/dp/B0HJZJFKCQ/",
+        "url_status": "present",
+        "syntax": "ok",
+        "source": "website.amazon_url"
+      },
+      "secondary_links": [
+        {
+          "kind": "shelf",
+          "url": "https://stiftung.motivatier.de/classics/index.html",
+          "note": "Programmuebersicht, kein Buch-Deeplink"
+        }
+      ],
+      "media": [
+        {
+          "kind": "chapter_image",
+          "chapter": "004",
+          "path": "books/leben-arsenjews/assets/chapter/chapter-004.jpg",
+          "exists": true,
+          "reused": false
+        }
+      ],
+      "related_video_ref": null,
+      "profile_ref": null,
+      "reviewed": false,
+      "notes": "Eigenständiger Gedanke: Erzählweise (Bewusstsein statt Chronik), anderer Fokus als T+0.",
+      "text_source": "generated",
+      "text_status": "generated",
+      "publish_status": "ready",
+      "status": "generated",
+      "reasons": [],
+      "depends_on": [
+        "amazon_url"
+      ],
+      "placeholders": [],
+      "validation": {
+        "weighted_chars": 273,
+        "weighted_chars_limit": 280,
+        "weighted_chars_status": "ok",
+        "weighted_chars_note": "konservative Naeherung; URLs zaehlen als 23 Zeichen, keine Plattformvalidierung",
+        "target_band": [
+          220,
+          250
+        ],
+        "title_chars": null,
+        "title_limit": null,
+        "title_status": null,
+        "url_syntax": "ok",
+        "media_exists": true
+      }
+    },
+    {
+      "id": "x-t8-sample",
+      "campaign_id": "leben-arsenjews:x-t8-sample",
+      "platform": "x",
+      "type": "sample",
+      "label": "Leseprobe oder Besonderheit der Ausgabe",
+      "offset_days": 8,
+      "offset_label": "T+8",
+      "scheduled_at": null,
+      "timezone": "Europe/Berlin",
+      "title": null,
+      "text": "Ein Blick in unsere Ausgabe: „Ich wurde vor einem halben Jahrhundert geboren, im mittleren Russland, auf dem Dorf, im väterlichen Gutshof.“\n\nhttps://www.amazon.de/Das-Leben-Arsenjews-Iwan-Bunin-ebook/dp/B0HJZJFKCQ/",
+      "description": null,
+      "overlays": [],
+      "shotlist": [],
+      "primary_link": {
+        "kind": "amazon",
+        "url": "https://www.amazon.de/Das-Leben-Arsenjews-Iwan-Bunin-ebook/dp/B0HJZJFKCQ/",
+        "url_status": "present",
+        "syntax": "ok",
+        "source": "website.amazon_url"
+      },
+      "secondary_links": [
+        {
+          "kind": "shelf",
+          "url": "https://stiftung.motivatier.de/classics/index.html",
+          "note": "Programmuebersicht, kein Buch-Deeplink"
+        }
+      ],
+      "media": [
+        {
+          "kind": "chapter_image",
+          "chapter": "001",
+          "path": "books/leben-arsenjews/assets/chapter/chapter-001.jpg",
+          "exists": true,
+          "reused": true
+        }
+      ],
+      "related_video_ref": null,
+      "profile_ref": null,
+      "reviewed": false,
+      "notes": "Echte Passage aus der Leseprobe (Kapitel 001, Szene 1), als Zitat gekennzeichnet.",
+      "text_source": "generated",
+      "text_status": "generated",
+      "publish_status": "ready",
+      "status": "generated",
+      "reasons": [],
+      "depends_on": [
+        "amazon_url"
+      ],
+      "placeholders": [],
+      "validation": {
+        "weighted_chars": 164,
+        "weighted_chars_limit": 280,
+        "weighted_chars_status": "ok",
+        "weighted_chars_note": "konservative Naeherung; URLs zaehlen als 23 Zeichen, keine Plattformvalidierung",
+        "target_band": [
+          220,
+          250
+        ],
+        "title_chars": null,
+        "title_limit": null,
+        "title_status": null,
+        "url_syntax": "ok",
+        "media_exists": true
+      }
+    },
+    {
+      "id": "yt-short-2",
+      "campaign_id": "leben-arsenjews:yt-short-2",
+      "platform": "youtube",
+      "type": "short_content",
+      "label": "Short: inhaltlicher Einstieg",
+      "offset_days": 10,
+      "offset_label": "T+10",
+      "scheduled_at": null,
+      "timezone": "Europe/Berlin",
+      "title": "Das Leben Arsenjews – Bunin",
+      "text": null,
+      "description": "Kindheit und Jugend in der russischen Provinz: Iwan Bunins Erinnerungsroman über Herkunft, Liebe und Verlust – in neuer deutscher Ausgabe.\n\nTexteinblendungen: Kindheit im alten Russland | Erinnerung, Liebe, Verlust\n\nIwan Bunin - Das Leben Arsenjews",
+      "overlays": [
+        "Kindheit im alten Russland",
+        "Erinnerung, Liebe, Verlust"
+      ],
+      "shotlist": [
+        {
+          "order": 1,
+          "image_source": "books/leben-arsenjews/assets/chapter/chapter-040.jpg",
+          "image_exists": true,
+          "overlay": "Kindheit im alten Russland",
+          "book_ref": "Kapitel 040",
+          "audio_source": null,
+          "audio_start_seconds": null,
+          "planned_duration_seconds": null,
+          "duration_measured": false,
+          "missing": [
+            "audio_source"
+          ]
+        }
+      ],
+      "primary_link": {
+        "kind": "amazon",
+        "url": "https://www.amazon.de/Das-Leben-Arsenjews-Iwan-Bunin-ebook/dp/B0HJZJFKCQ/",
+        "url_status": "present",
+        "syntax": "ok",
+        "source": "website.amazon_url"
+      },
+      "secondary_links": [
+        {
+          "kind": "shelf",
+          "url": "https://stiftung.motivatier.de/classics/index.html",
+          "note": "Programmuebersicht, kein Buch-Deeplink"
+        }
+      ],
+      "media": [
+        {
+          "kind": "chapter_image",
+          "chapter": "040",
+          "path": "books/leben-arsenjews/assets/chapter/chapter-040.jpg",
+          "exists": true,
+          "reused": false
+        }
+      ],
+      "related_video_ref": {
+        "target": "yt-main",
+        "resolution": "marketing.youtube.url",
+        "available": false,
+        "instruction": "In der YouTube-App das verknuepfte Video setzen; normale URLs in Shorten-Beschreibungen sind nicht zuverlaessig anklickbar."
+      },
+      "profile_ref": {
+        "resolution": "Kanal-Profil",
+        "available": false,
+        "instruction": "Alternativ den Kanal-Profillink in der YouTube-App verknuepfen."
+      },
+      "reviewed": false,
+      "notes": "",
+      "text_source": "generated",
+      "text_status": "generated",
+      "publish_status": "ready",
+      "status": "generated",
+      "reasons": [],
+      "depends_on": [],
+      "placeholders": [],
+      "validation": {
+        "weighted_chars": 248,
+        "weighted_chars_limit": 5000,
+        "weighted_chars_status": "ok",
+        "weighted_chars_note": "konservative Naeherung; URLs zaehlen als 23 Zeichen, keine Plattformvalidierung",
+        "target_band": null,
+        "title_chars": 27,
+        "title_limit": 100,
+        "title_status": "ok",
+        "url_syntax": "ok",
+        "media_exists": true
+      }
+    },
+    {
+      "id": "x-t12-second-angle",
+      "campaign_id": "leben-arsenjews:x-t12-second-angle",
+      "platform": "x",
+      "type": "second_angle",
+      "label": "Zweiter thematischer Zugang",
+      "offset_days": 12,
+      "offset_label": "T+12",
+      "scheduled_at": null,
+      "timezone": "Europe/Berlin",
+      "title": null,
+      "text": "Bunin, Literaturnobelpreisträger 1933, schrieb im Exil sein persönlichstes Buch. Das Leben Arsenjews verbindet genaue Beobachtung mit elegischer Sprache – Herkunft und Verlust, Jugend und erstes Begehren. Unsere Ausgabe redaktionell geprüft.\n\nhttps://www.amazon.de/Das-Leben-Arsenjews-Iwan-Bunin-ebook/dp/B0HJZJFKCQ/",
+      "description": null,
+      "overlays": [],
+      "shotlist": [],
+      "primary_link": {
+        "kind": "amazon",
+        "url": "https://www.amazon.de/Das-Leben-Arsenjews-Iwan-Bunin-ebook/dp/B0HJZJFKCQ/",
+        "url_status": "present",
+        "syntax": "ok",
+        "source": "website.amazon_url"
+      },
+      "secondary_links": [
+        {
+          "kind": "shelf",
+          "url": "https://stiftung.motivatier.de/classics/index.html",
+          "note": "Programmuebersicht, kein Buch-Deeplink"
+        }
+      ],
+      "media": [
+        {
+          "kind": "chapter_image",
+          "chapter": "104",
+          "path": "books/leben-arsenjews/assets/chapter/chapter-104.jpg",
+          "exists": true,
+          "reused": false
+        }
+      ],
+      "related_video_ref": null,
+      "profile_ref": null,
+      "reviewed": false,
+      "notes": "Zweiter Zugang: Autor-Einordnung (Exil, Nobelpreis) + Themen, andere Perspektive als T+0/T+5.",
+      "text_source": "generated",
+      "text_status": "generated",
+      "publish_status": "ready",
+      "status": "generated",
+      "reasons": [],
+      "depends_on": [
+        "amazon_url"
+      ],
+      "placeholders": [],
+      "validation": {
+        "weighted_chars": 266,
+        "weighted_chars_limit": 280,
+        "weighted_chars_status": "ok",
+        "weighted_chars_note": "konservative Naeherung; URLs zaehlen als 23 Zeichen, keine Plattformvalidierung",
+        "target_band": [
+          220,
+          250
+        ],
+        "title_chars": null,
+        "title_limit": null,
+        "title_status": null,
+        "url_syntax": "ok",
+        "media_exists": true
+      }
+    }
+  ],
+  "youtube_materials": {
+    "video": {
+      "id": "yt-main",
+      "campaign_id": "leben-arsenjews:yt-main",
+      "platform": "youtube",
+      "type": "song_video",
+      "label": "Vollstaendiges Liedvideo",
+      "offset_days": 2,
+      "offset_label": "T+2",
+      "scheduled_at": null,
+      "timezone": "Europe/Berlin",
+      "title": null,
+      "text": null,
+      "description": null,
+      "overlays": [],
+      "shotlist": [
+        {
+          "order": 1,
+          "image_source": "books/leben-arsenjews/assets/chapter/chapter-001.jpg",
+          "image_exists": true,
+          "overlay": "",
+          "book_ref": "Kapitel 001",
+          "audio_source": null,
+          "audio_start_seconds": null,
+          "planned_duration_seconds": null,
+          "duration_measured": false,
+          "missing": [
+            "audio_source"
+          ]
+        }
+      ],
+      "primary_link": {
+        "kind": "amazon",
+        "url": "https://www.amazon.de/Das-Leben-Arsenjews-Iwan-Bunin-ebook/dp/B0HJZJFKCQ/",
+        "url_status": "present",
+        "syntax": "ok",
+        "source": "website.amazon_url"
+      },
+      "secondary_links": [
+        {
+          "kind": "shelf",
+          "url": "https://stiftung.motivatier.de/classics/index.html",
+          "note": "Programmuebersicht, kein Buch-Deeplink"
+        }
+      ],
+      "media": [
+        {
+          "kind": "chapter_image",
+          "chapter": "001",
+          "path": "books/leben-arsenjews/assets/chapter/chapter-001.jpg",
+          "exists": true,
+          "reused": true
+        }
+      ],
+      "related_video_ref": null,
+      "profile_ref": null,
+      "reviewed": false,
+      "notes": "",
+      "text_source": "missing",
+      "text_status": "missing",
+      "publish_status": "omitted",
+      "status": "omitted",
+      "reasons": [
+        "no_song_data"
+      ],
+      "depends_on": [
+        "amazon_url",
+        "song_file"
+      ],
+      "placeholders": [],
+      "validation": {
+        "weighted_chars": 0,
+        "weighted_chars_limit": 5000,
+        "weighted_chars_status": "ok",
+        "weighted_chars_note": "konservative Naeherung; URLs zaehlen als 23 Zeichen, keine Plattformvalidierung",
+        "target_band": null,
+        "title_chars": null,
+        "title_limit": null,
+        "title_status": null,
+        "url_syntax": "ok",
+        "media_exists": true
+      }
+    },
+    "shorts": [
+      {
+        "id": "yt-short-1",
+        "campaign_id": "leben-arsenjews:yt-short-1",
+        "platform": "youtube",
+        "type": "short_song",
+        "label": "Short: musikalischer Einstieg",
+        "offset_days": 3,
+        "offset_label": "T+3",
+        "scheduled_at": null,
+        "timezone": "Europe/Berlin",
+        "title": null,
+        "text": null,
+        "description": null,
+        "overlays": [],
+        "shotlist": [
+          {
+            "order": 1,
+            "image_source": "books/leben-arsenjews/assets/chapter/chapter-001.jpg",
+            "image_exists": true,
+            "overlay": "",
+            "book_ref": "Kapitel 001",
+            "audio_source": null,
+            "audio_start_seconds": null,
+            "planned_duration_seconds": null,
+            "duration_measured": false,
+            "missing": [
+              "audio_source"
+            ]
+          }
+        ],
+        "primary_link": {
+          "kind": "amazon",
+          "url": "https://www.amazon.de/Das-Leben-Arsenjews-Iwan-Bunin-ebook/dp/B0HJZJFKCQ/",
+          "url_status": "present",
+          "syntax": "ok",
+          "source": "website.amazon_url"
+        },
+        "secondary_links": [
+          {
+            "kind": "shelf",
+            "url": "https://stiftung.motivatier.de/classics/index.html",
+            "note": "Programmuebersicht, kein Buch-Deeplink"
+          }
+        ],
+        "media": [
+          {
+            "kind": "chapter_image",
+            "chapter": "001",
+            "path": "books/leben-arsenjews/assets/chapter/chapter-001.jpg",
+            "exists": true,
+            "reused": true
+          }
+        ],
+        "related_video_ref": {
+          "target": "yt-main",
+          "resolution": "marketing.youtube.url",
+          "available": false,
+          "instruction": "In der YouTube-App das verknuepfte Video setzen; normale URLs in Shorten-Beschreibungen sind nicht zuverlaessig anklickbar."
+        },
+        "profile_ref": {
+          "resolution": "Kanal-Profil",
+          "available": false,
+          "instruction": "Alternativ den Kanal-Profillink in der YouTube-App verknuepfen."
+        },
+        "reviewed": false,
+        "notes": "",
+        "text_source": "missing",
+        "text_status": "missing",
+        "publish_status": "omitted",
+        "status": "omitted",
+        "reasons": [
+          "no_song_data"
+        ],
+        "depends_on": [
+          "song_file"
+        ],
+        "placeholders": [],
+        "validation": {
+          "weighted_chars": 0,
+          "weighted_chars_limit": 5000,
+          "weighted_chars_status": "ok",
+          "weighted_chars_note": "konservative Naeherung; URLs zaehlen als 23 Zeichen, keine Plattformvalidierung",
+          "target_band": null,
+          "title_chars": null,
+          "title_limit": null,
+          "title_status": null,
+          "url_syntax": "ok",
+          "media_exists": true
+        }
+      },
+      {
+        "id": "yt-short-2",
+        "campaign_id": "leben-arsenjews:yt-short-2",
+        "platform": "youtube",
+        "type": "short_content",
+        "label": "Short: inhaltlicher Einstieg",
+        "offset_days": 10,
+        "offset_label": "T+10",
+        "scheduled_at": null,
+        "timezone": "Europe/Berlin",
+        "title": "Das Leben Arsenjews – Bunin",
+        "text": null,
+        "description": "Kindheit und Jugend in der russischen Provinz: Iwan Bunins Erinnerungsroman über Herkunft, Liebe und Verlust – in neuer deutscher Ausgabe.\n\nTexteinblendungen: Kindheit im alten Russland | Erinnerung, Liebe, Verlust\n\nIwan Bunin - Das Leben Arsenjews",
+        "overlays": [
+          "Kindheit im alten Russland",
+          "Erinnerung, Liebe, Verlust"
+        ],
+        "shotlist": [
+          {
+            "order": 1,
+            "image_source": "books/leben-arsenjews/assets/chapter/chapter-040.jpg",
+            "image_exists": true,
+            "overlay": "Kindheit im alten Russland",
+            "book_ref": "Kapitel 040",
+            "audio_source": null,
+            "audio_start_seconds": null,
+            "planned_duration_seconds": null,
+            "duration_measured": false,
+            "missing": [
+              "audio_source"
+            ]
+          }
+        ],
+        "primary_link": {
+          "kind": "amazon",
+          "url": "https://www.amazon.de/Das-Leben-Arsenjews-Iwan-Bunin-ebook/dp/B0HJZJFKCQ/",
+          "url_status": "present",
+          "syntax": "ok",
+          "source": "website.amazon_url"
+        },
+        "secondary_links": [
+          {
+            "kind": "shelf",
+            "url": "https://stiftung.motivatier.de/classics/index.html",
+            "note": "Programmuebersicht, kein Buch-Deeplink"
+          }
+        ],
+        "media": [
+          {
+            "kind": "chapter_image",
+            "chapter": "040",
+            "path": "books/leben-arsenjews/assets/chapter/chapter-040.jpg",
+            "exists": true,
+            "reused": false
+          }
+        ],
+        "related_video_ref": {
+          "target": "yt-main",
+          "resolution": "marketing.youtube.url",
+          "available": false,
+          "instruction": "In der YouTube-App das verknuepfte Video setzen; normale URLs in Shorten-Beschreibungen sind nicht zuverlaessig anklickbar."
+        },
+        "profile_ref": {
+          "resolution": "Kanal-Profil",
+          "available": false,
+          "instruction": "Alternativ den Kanal-Profillink in der YouTube-App verknuepfen."
+        },
+        "reviewed": false,
+        "notes": "",
+        "text_source": "generated",
+        "text_status": "generated",
+        "publish_status": "ready",
+        "status": "generated",
+        "reasons": [],
+        "depends_on": [],
+        "placeholders": [],
+        "validation": {
+          "weighted_chars": 248,
+          "weighted_chars_limit": 5000,
+          "weighted_chars_status": "ok",
+          "weighted_chars_note": "konservative Naeherung; URLs zaehlen als 23 Zeichen, keine Plattformvalidierung",
+          "target_band": null,
+          "title_chars": 27,
+          "title_limit": 100,
+          "title_status": "ok",
+          "url_syntax": "ok",
+          "media_exists": true
+        }
+      }
+    ],
+    "note": "Liedvideo und Shorts entstehen nur bei vorhandenem Song; Short-Verweise auf das vollstaendige Video sind Anweisungen fuer eine spaetere Veroeffentlichung, keine fertigen Links."
+  },
+  "media": [
+    {
+      "path": "books/leben-arsenjews/assets/chapter/chapter-001.jpg",
+      "kind": "chapter_image",
+      "exists": true,
+      "used_by": [
+        "x-t1-song",
+        "yt-main",
+        "yt-short-1",
+        "x-t8-sample"
+      ],
+      "chapter": "001"
+    },
+    {
+      "path": "books/leben-arsenjews/assets/chapter/chapter-004.jpg",
+      "kind": "chapter_image",
+      "exists": true,
+      "used_by": [
+        "x-t5-content"
+      ],
+      "chapter": "004"
+    },
+    {
+      "path": "books/leben-arsenjews/assets/chapter/chapter-040.jpg",
+      "kind": "chapter_image",
+      "exists": true,
+      "used_by": [
+        "yt-short-2"
+      ],
+      "chapter": "040"
+    },
+    {
+      "path": "books/leben-arsenjews/assets/chapter/chapter-104.jpg",
+      "kind": "chapter_image",
+      "exists": true,
+      "used_by": [
+        "x-t12-second-angle"
+      ],
+      "chapter": "104"
+    },
+    {
+      "path": "books/leben-arsenjews/assets/covers/cover.jpg",
+      "kind": "cover",
+      "exists": true,
+      "used_by": [
+        "x-t0-intro",
+        "x-t2-youtube"
+      ]
+    }
+  ],
+  "missing": [
+    {
+      "item": "song_data",
+      "status": "missing",
+      "affects": [
+        "x-t1-song",
+        "x-t2-youtube",
+        "yt-main",
+        "yt-short-1"
+      ],
+      "resolution": "marketing.songs in export.yaml pflegen und die Audiodatei repo-relativ unter books/<id>/assets/ ablegen"
+    },
+    {
+      "item": "youtube_url",
+      "status": "missing",
+      "affects": [],
+      "resolution": "marketing.youtube.url oder marketing.youtube.video_id in export.yaml eintragen"
+    }
+  ],
+  "validation": {
+    "ok": false,
+    "open_posts": [
+      "x-t1-song",
+      "x-t2-youtube",
+      "yt-main",
+      "yt-short-1"
+    ],
+    "over_limit_posts": [],
+    "url_checks": {
+      "amazon": "ok",
+      "youtube": "ok",
+      "note": "Syntaktische Pruefung; kein Nachweis, dass die Adresse zur Ausgabe gehoert oder veroeffentlicht ist."
+    },
+    "limits": {
+      "x_weighted_chars": 280,
+      "x_target_min": 220,
+      "x_target_max": 250,
+      "url_weight": 23,
+      "youtube_title_chars": 100,
+      "youtube_description_chars": 5000,
+      "youtube_short_title_chars": 100,
+      "youtube_short_description_chars": 5000
+    },
+    "notes": "weighted_chars ist eine konservative Naeherung (URLs = 23 Zeichen, breite Zeichen = 2), keine Plattformvalidierung."
+  },
+  "delivery": {
+    "requires_synthetic_media_disclosure": "unknown",
+    "requires_synthetic_media_disclosure_basis": "keine Musik-/Videodaten hinterlegt; Kennzeichnungspflicht nicht beurteilbar",
+    "made_for_kids": "not_set",
+    "made_for_kids_note": "Unabhaengig von der Kennzeichnung synthetischer Medien; daraus nicht ableitbar.",
+    "dependencies": [
+      {
+        "item": "song_data",
+        "status": "missing",
+        "affects": [
+          "x-t1-song",
+          "x-t2-youtube",
+          "yt-main",
+          "yt-short-1"
+        ],
+        "resolution": "marketing.songs in export.yaml pflegen und die Audiodatei repo-relativ unter books/<id>/assets/ ablegen"
+      },
+      {
+        "item": "youtube_url",
+        "status": "missing",
+        "affects": [],
+        "resolution": "marketing.youtube.url oder marketing.youtube.video_id in export.yaml eintragen"
+      }
+    ],
+    "instructions": [
+      "Dieses Paket veroeffentlicht nichts und spricht keine Plattform-API an.",
+      "Normale URLs in Shorts-Beschreibungen sind nicht zuverlaessig anklickbar; verknuepftes Video bzw. Kanal-Profil setzen.",
+      "T+2 und das Liedvideo erst nach bestaetigter oeffentlicher Verfuegbarkeit veroeffentlichen."
+    ],
+    "handover": {
+      "target": "Postiz oder gleichwertiger Dienst",
+      "input": "campaign.json"
+    }
+  },
+  "sample": {
+    "chapter": "001",
+    "scene": 1,
+    "source": "books/leben-arsenjews/work/scenes/de/stil-02-poetisch/001/scene-01.md",
+    "text": "Ich wurde vor einem halben Jahrhundert geboren, im mittleren Russland, auf dem Dorf, im väterlichen Gutshof. Wir haben kein Gefühl für unseren Anfang und unser Ende. Und es ist sehr schade, dass man mir gesagt hat, wann genau ich geboren wurde.",
+    "editorial_lead_skipped": true
+  },
+  "text_provenance": {
+    "generator": "workspace_ai",
+    "model": "Muse Spark (Repo-Editor)",
+    "generated_at": "2026-09-21T14:30:00+02:00",
+    "prompt_version": "marketing-1",
+    "source_hash": "ac618e42dc46b8f3",
+    "override_texts": [],
+    "note": "generated_at erzwingt keine neue Inhaltsversion."
+  },
+  "exported_at": "2026-09-21T12:19:59+00:00"
+}

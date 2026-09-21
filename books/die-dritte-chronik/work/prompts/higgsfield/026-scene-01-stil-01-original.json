@@ -1,0 +1,59 @@
+{
+  "book": "die-dritte-chronik",
+  "chapter": "026",
+  "scene": 1,
+  "kind": "scene",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\die-dritte-chronik\\work\\scenes\\de\\stil-01-original\\026\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\die-dritte-chronik\\work\\prompts\\higgsfield\\026-scene-01-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\die-dritte-chronik\\assets\\scene\\026\\scene-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 026 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Der Geruch von kaltem Fett und Kampfer hing im Zelt wie ein zweiter Vorhang. Fatima kniete nieder auf der Filzmatte vor Töregenes Lagerstatt und wartete darauf, dass die Regentin sie bemerkte. Das dauerte diesmal länger als sonst – drei Herzschläge mehr als gestern, vielleicht fünf mehr als vorgestern. Die Zeit kroch anders hier drinnen, wo das Licht durch gefrorene Lederplanen fiel und jede Bewegung schwer war wie Blei in der Kälte des Winters 1246.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260919_165256_20b5f4d8-4543-4de8-9015-6b2b1aaf908f.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-19T16:52:56.756109Z",
+      "display_name": "GPT Image 2",
+      "id": "20b5f4d8-4543-4de8-9015-6b2b1aaf908f",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260919_165256_20b5f4d8-4543-4de8-9015-6b2b1aaf908f_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 026 Scene 01. High-quality chapter illustration for a historical novel about the Mongol Empire in the 13th century. Style: cinematic literary historical illustration, elegant realism, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration for an ambitious historical political novel. Focus on political tension, memory, power, writing, and strong character presence. Refined fabrics, believable Mongol and Persian court elements, subtle historical architecture, rich but controlled colors. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: warm parchment, gold, muted blue, bronze, soft terracotta, deep ink tones; beautiful light and atmospheric depth. Court tents, chancelleries, seals, letters, and quiet rooms of power; intimate political drama rather than open desert or battlefield spectacle; historically grounded court dress and armor of the period. Der Geruch von kaltem Fett und Kampfer hing im Zelt wie ein zweiter Vorhang. Fatima kniete nieder auf der Filzmatte vor Töregenes Lagerstatt und wartete darauf, dass die Regentin sie bemerkte. Das dauerte diesmal länger als sonst – drei Herzschläge mehr als gestern, vielleicht fünf mehr als vorgestern. Die Zeit kroch anders hier drinnen, wo das Licht durch gefrorene Lederplanen fiel und jede Bewegung schwer war wie Blei in der Kälte des Winters 1246.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260919_165256_20b5f4d8-4543-4de8-9015-6b2b1aaf908f.png",
+      "status": "completed"
+    }
+  ]
+}

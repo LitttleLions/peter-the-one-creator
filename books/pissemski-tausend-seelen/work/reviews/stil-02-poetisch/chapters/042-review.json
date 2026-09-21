@@ -1,0 +1,49 @@
+{
+  "chapter": "042",
+  "style": "stil-02-poetisch",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "042",
+      "scene": 1,
+      "ru_path": "books\\pissemski-tausend-seelen\\work\\scenes\\ru\\042\\scene-01.md",
+      "de_path": "books\\pissemski-tausend-seelen\\work\\scenes\\de\\stil-02-poetisch\\042\\scene-01.md",
+      "ru_words": 4791,
+      "de_words": 5665,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (8x: oder 4x, wenn 1x, bis 1x) in 56 Woertern ohne Satzende.",
+          "chapter": "042",
+          "scene": 1,
+          "evidence": "„Hör zu“, begann sie, „wenn dich jemals eine Frau versichert hat oder versichern wird, sie habe dort einen Gatten oder einen Liebhaber geliebt, nun ja … er sei dann gestorben oder habe sie betrogen, sie aber habe ihn dennoch bis zum Grabe weiter geliebt – glaub mir, dass sie entweder noch nichts im Leben erfahren hat oder lügt",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (11x: dass 4x, alles 2x, als 1x) in 74 Woertern ohne Satzende.",
+          "chapter": "042",
+          "scene": 1,
+          "evidence": "als ich ihm endlich offen sagte, dass ich dort nicht leben könne, weil mich alles kränke, dass ich nicht dazu geboren sei, irgendjemandes Sklavin und Dienstmagd zu sein … da blähte er sich plötzlich ohne jeden Grund auf, begann mir eine Predigt zu halten, dass er mich wie eine Schwester liebe, dass er für mich alles tun würde, was er für eine leibliche Schwester täte … und so weiter und so fort, immer auf dasselbe Thema",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

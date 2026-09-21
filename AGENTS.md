@@ -4,6 +4,44 @@
 > Lies zuerst diese Datei und die README, dann beginne mit der Arbeit.
 > Aktueller Arbeitsstand und naechste Schritte: [docs/HANDOVER.md](./docs/HANDOVER.md).
 
+## Fortsetzung im gleichen Ordner / neues Chat-Fenster (gleiche LLM)
+
+Kein neues Setup noetig. Im selben Repo-Ordner (`c:\code\peter-the-one`,
+Branch `main`) weiterarbeiten, neues Fenster reicht. Einstieg in dieser
+Reihenfolge (alles lesend, keine Kosten):
+
+1. `AGENTS.md` (diese Datei) + `README.md` (Schnellstart) lesen.
+2. `docs/HANDOVER.md` (Titel = Stand-Datum; Sektion Chronik-Redaktion =
+   wo wir sind) + `docs/offene-punkte.md` Punkt 6 (Chronik-Tabelle =
+   welche Kapitel noch offen) lesen.
+3. Lage verifizieren: `git --no-pager status --short --branch`,
+   `py -3 tools/status.py --book die-dritte-chronik summary`,
+   `py -3 tools/review_manuscript.py --book die-dritte-chronik --style stil-01-original --all --llm none --fail-on-errors`.
+   Erwartet 2026-09-19 abends: Gate ERROR=0/WARNING=13/INFO=36 (Exit 0),
+   29 von 48 Kapiteln clean 0/0 (19 mit Restbefund), Bilder 48/48,
+   EPUB mit Bebilderung `...-20260919-222611.epub` (50 Bilder, ohne Bypass).
+   Redaktion ist fertig: komplett-Runde 031/033/036 (Neufassungen) +
+   mini 009/018/026/035/041 (Satzzeichen/Gliederung), kein OpenRouter.
+   Release-Einschaetzung 2026-09-19: Text + Bilder fertig (48/48 bebildert),
+   offen nur noch (1) frischer DOCX/PDF-Bau und (2) menschliche Leseprobe
+   (Kindle Previewer + Stichprobe 031/033/036, 009/035/041).
+   Parallel-Session (Working Tree, nicht committet): Top-5-Buch
+   `pissemski-tausend-seelen` hat 9/44 Kapitel in `stil-02-poetisch`
+   (Default-Style bleibt `stil-01-original`).
+4. Review-Details je Kapitel: `books/die-dritte-chronik/work/reviews/stil-01-original/chapters/NNN-review.md`.
+   Redaktions-Ablauf Chronik: Nutzer liefert neue Fassung nach
+   `books/die-dritte-chronik/status/Die dritte Chronik - NN <Titel>.md`
+   (oder direkt nach `work/scenes/de/NNN/scene-01.md`) -> KI prueft auf
+   Textbruch, kopiert nach
+   `work/scenes/de/stil-01-original/NNN/scene-01.md` (+ bei Neuschreibung
+   `work/chapters/NNN-source.md` im Kopfformat synchronisieren) ->
+   `assemble_chapter.py` -> `review_manuscript --chapter NNN --llm none`
+   -> Voll-Review -> Buch-EPUB neu. Kein OpenRouter fuer Redaktion.
+   Bei Textbruch (neue Fassung passt nicht zur Kapitelquelle) STOPP und
+   Rueckfrage statt blind kopieren (Fall 012, 2026-09-18). Die Nutzerdatei
+   unter `status/` bleibt unangetastet. Offene Redaktionskandidaten und
+   ihre Einstufung (C/c/b) stehen in `docs/offene-punkte.md` Punkt 6.
+
 ## Was Dieses Projekt Ist
 
 Regelbasierte kapitel- und szenenweise Uebersetzung literarischer Werke
@@ -21,13 +59,13 @@ bzw. widerspruechlich waere. Massgeblicher Kontext sind AGENTS.md, README.md,
 Aktuelle Buchpakete (12):
 
 - `books/peter-i-buch-01/` - Alexei Tolstoi, Peter der Erste
-- `books/anna-karenina/` - Lew Tolstoi, Anna Karenina
+- `books/anna-karenina/` - Lew Tolstoi, Anna Karenina (PARKIERT 09/2026)
 - `books/pharao/` - Bolesław Prus, Der Pharao
 - `books/feuriger-engel/` - Walerij Brjussow, Der feurige Engel
-- `books/leben-arsenjews/` - Iwan Bunin, Das Leben Arsenjews
+- `books/aelita/` - Alexei Tolstoi, Aelita (LIVE 09/2026: Regelcheck 0/0, Kapitel-030-Kommentare als Anhang ausgelagert, Buch-EPUB 2026-09-17 nutzergeprueft und veroeffentlicht; 12 Kapitel bewusst ohne Bild; Amazon-Link + Marketing nach Amazon-Freigabe)
+- `books/leben-arsenjews/` - Iwan Bunin, Das Leben Arsenjews (Release-Kandidat 09/2026: Gate ERROR=0/WARNING=8, EPUB 20260917-212334 ohne Bypass)
 - `books/geheime-geschichte-mongolen/` - Anonym, Die Geheime Geschichte der Mongolen
-- `books/aelita/` - Alexei Tolstoi, Aelita (Release-Kandidat 09/2026: Regelcheck 0/0, Kapitel-030-Kommentare als Anhang ausgelagert, Buch-EPUB 2026-09-17 nutzergeprueft; 12 Kapitel bewusst ohne Bild)
-- `books/die-dritte-chronik/` - Motivatier, Die dritte Chronik (DE-Original)
+- `books/die-dritte-chronik/` - Motivatier, Die dritte Chronik (DE-Original; Redaktion 2026-09-19 fertig: komplett 031/033/036 + mini 009/018/026/035/041, 29/48 clean, Gate 0/13/36; Bilder 2026-09-19 komplett 48/48, EPUB 20260919-222611 mit 50 Bildern; offen nur DOCX/PDF-Neubau + Leseprobe)
 - `books/kuprin-duell/` - Alexander Kuprin, Das Duell (Roh-Anlage 09/2026)
 - `books/kuprin-moloch/` - Alexander Kuprin, Der Moloch (Roh-Anlage 09/2026)
 - `books/grin-wellenlaeuferin/` - Alexander Grin, Die Wellenlaeuferin (Roh-Anlage 09/2026)
@@ -392,10 +430,11 @@ Marketingpaket unter `books/<id>/exports/marketing/` (`campaign.json`,
 ## Aktueller Stand
 
 Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**
-(Stand 2026-09-17). Branch: `main` (= `origin/main`); inhaltlicher Stand `af6873c`,
+(Stand 2026-09-19). Branch: `main` (= `origin/main`); inhaltlicher Stand `af6873c`,
 danach folgen Fixes und Doku-Nachzuege (Mongolen-Belegpruefung, Handcover,
 V4.1-Flash-Pilot `kuprin-moloch` 001, Peter-I-Abschluss mit Raffungs-Erkennung
-im Regelcheck 2026-09-17).
+im Regelcheck 2026-09-17, Chronik-Redaktion 2026-09-18/19: 008+012+034,
+komplett 031/033/036, mini 009/018/026/035/041 -> Gate 0/13/36).
 
 - Buchpakete sind fuehrend; alte zentrale `config/books.yaml` und
   `config/export.yaml` liegen unter `config/legacy/`.
@@ -419,8 +458,19 @@ im Regelcheck 2026-09-17).
   sonst plant der Default `stil-01-original` Kapitel 006 mit. Feature-Branch-
   Inhalt wurde 2026-07-28 per Fast-Forward nach `main` gemerged.
 - **Die dritte Chronik** (auf `main`): DE-Original; Import
-  `tools/import_die_dritte_chronik.py`; Cover vorhanden; restliche
-  Kapitelbilder / EPUB-Feinschliff offen.
+  `tools/import_die_dritte_chronik.py`; Cover vorhanden. Redaktion
+  2026-09-18: 008+012 clean 0/0 (Nutzer-Neufassungen), 034 nur
+  Satzzeichen (Monster 672W in 6 Absaetze, 5W->2W). Redaktion
+  2026-09-19 ohne OpenRouter abgeschlossen: komplett-Runde 031
+  (Neufassung 3753 W, 0W/1I `sie-dachte`-Anapher = Stilmittel), 033
+  (Neufassung 3539 W, clean 0/0), 036 (Neuschreibung 785 W, clean 0/0);
+  mini 009/026/035 clean 0/0, 018 0W/4I und 041 0W/1I (Anaphern/TTR =
+  Stilmittel). Endstand: Gate ERROR=0/WARNING=13/INFO=36, 29/48 clean.
+  Bilder 2026-09-19 komplett: 48/48 Kapitel bebildert (Kapitelbild 001-014,
+  Szenenbild 008 + 015-048 = 49 Bilder + Cover), EPUB
+  `...-20260919-222611.epub` (4,99 MB, 50 Bilder, alle JPEGs validiert,
+  ohne Bypass). Rest-Tabelle siehe `docs/offene-punkte.md` Punkt 6.
+  Offen: DOCX/PDF-Neubau, menschliche Leseprobe.
 - **Higgsfield / Bilder:** `config/higgsfield_models.yaml`, Dashboard-Dropdown,
   Asset-Optimierung `optimize_asset_images.py`. Web-UI-Moodboards nur manuell.
   Details: `docs/higgsfield-integration.md`.
@@ -433,13 +483,21 @@ im Regelcheck 2026-09-17).
   `website:`-Block wurde von `book:` auf top-level korrigiert. Auswahlvorlage:
   `docs/Motivatier-Classics-Umsetzungsrangliste-45.md`.
 - **Noch offen (Prioritaet):** siehe `docs/offene-punkte.md` (verbindliche
-  Checkliste mit Befehlen) und `docs/HANDOVER.md` – Peter der Erste:
+  Checkliste mit Befehlen) und `docs/HANDOVER.md` – Leben Arsenjews:
+  Release-Kandidat 09/2026 (Gate ERROR=0/WARNING=8, EPUB 20260917-212334
+  ohne Bypass); offen nur noch Kindle Previewer + menschliche Stichprobe
+  (029/034/037/040). Aelita ist LIVE (Amazon-Link + Marketing nach
+  Amazon-Freigabe). Anna Karenina ist PARKIERT. Peter der Erste:
   deterministische Fixes und alle 6 gerafften Szenen gelaufen
   (011/03, 002/11, 003/05, 009/08, 010/01, 010/02), Buch-EPUB neu mit Gate
   0 Fehler; offen nur noch Kindle Previewer und eine menschliche Stichprobe
   der drei zuletzt neu uebersetzten Szenen; Mongolen: 14 Monolith-Kapitel abschnittsweise in
-  `stil-04-original-geheim`; Chronik-Bilder; Top-5: 110 offene Kapitel (Pilot
-  `kuprin-moloch` 001 ist fertig) und das Stilurteil dazu; Regal Amazon-URLs /
+  `stil-04-original-geheim`; Chronik (2026-09-19): Text + Bilder fertig,
+  Gate 0/13/36, 29/48 clean, EPUB 20260919-222611 (50 Bilder) - offen nur
+  DOCX/PDF-Neubau und die
+  menschliche Leseprobe; Top-5: 110 offene Kapitel (Pilot `kuprin-moloch` 001
+  ist fertig; Parallel-Session hat `pissemski-tausend-seelen` 9/44 in
+  `stil-02-poetisch`, nicht committet) und das Stilurteil dazu; Regal Amazon-URLs /
   Deploy; optional Mint-GLBs. Uebersetzungslaeufe weiterhin nur nach
   ausdruecklicher Freigabe.
 - **Marketingexport** (umgesetzt 2026-09-13, X-Clip 2026-09-14): `tools/export_marketing.py`,

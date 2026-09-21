@@ -1,121 +1,185 @@
 ## Die Prüfung
 
-Der Frühling kam nach Karakorum wie ein Dieb, leise und unerwartet. Der Schnee schmolz nicht, er verschwand einfach eines Morgens, und zurück blieb Matsch, der nach nasser Wolle und verbranntem Dung roch. Fatima stand am Fenster der Kanzlei und betrachtete die Pfützen auf dem Hof. Das Licht war anders jetzt, heller, gnadenloser. Es zeigte jeden Riss im Holz, jeden Fleck auf den Papieren.
+Frühjahr kam in Karakorum wie ein Gerücht, das niemand glauben wollte.
 
-Sie hatte zwanzig Jahre gebraucht, um zu lernen, dass Licht nie freundlich war. Es enthüllte nur, was man verbergen wollte.
+Der Boden taukte langsam auf, erst an den Rändern der Feuerstellen, dann in den Rinnsalen zwischen den Zelten, und der Schlamm, der dabei entstand, war tiefer und hartnäckiger als der Frost, den er ersetzte. Die Kanzlei roch nach nassem Filz und frischer Tinte und dem Rauch der Öfen, die man noch nicht abzustellen wagte. Fatima saß an ihrem Pult am Fenster und wartete.
 
-Hinter ihr atmete die Kanzlei ihren gleichmäßigen Atem: das Kratzen von Federn auf Papier, das Rascheln von Blättern, das leise Husten eines alten Sekretärs am anderen Ende des Raumes. Fünf Schreiber arbeiteten heute an den Pulten, jeder in seine eigene Aufgabe vertieft. Einer von ihnen war neu.
+Sie wartete nicht auf den Jungen. Sie wartete auf das, was der Junge tun würde, wenn er nicht wusste, dass sie wartete.
 
-Fatima drehte sich nicht um. Sie wusste genau, wo er saß: am dritten Pult links, das Gesicht halb im Schatten der Säule, die Feder in der Hand wie eine Waffe, die er noch nicht zu führen gelernt hatte. Ata-Malik Juvaini. Der Junge aus Dschuwain mit den schnellen Augen und den langsameren Händen.
+Das war ein Unterschied, der ihr Leben bedeutete.
 
-Sie hatte ihn beobachtet in den Wochen seit jenem ersten Diktat. Er war klug, das stand außer Frage. Seine Abschriften waren fehlerfrei, seine Formulierungen präzise. Aber Klugheit war am Hof keine Tugend – sie war eine Gefahr, die man erst dann erkannte, wenn es zu spät war.
+Juvaini erschien pünktlich, wie immer. Er trug seinen Mantel noch, als er eintrat, schüttelte den Schlamm von den Sohlen und legte die Schreibutensilien auf den Tisch, bevor er sich setzte – die Federn zuerst, dann das Tintenfass, dann das Schleifstein für die Klingen, in einer Ordnung, die er offenbar nicht bewusst einhielt, sondern die sich aus einem Körpergedächtnis ergab, aus Tausenden von Morgen, an denen ein Vater oder ein Lehrer dieselbe Reihenfolge vorgegeben hatte. Fatima registrierte das. Dann wandte sie den Blick ab und wartete weiter.
 
-Fatima wandte sich vom Fenster ab und ging zu ihrem Pult. Der ältere Sekretär – ein Mann namens Yulbars mit grauem Bart und schmalen Lippen – blickte auf, als sie vorbeikam. Seine Augen folgerten ihr wie die eines Hundes, der wusste, dass er nicht der Liebling war.
+Der ältere Sekretär – Nasir, der seit acht Jahren in dieser Kanzlei saß und seit acht Jahren glaubte, dass Beständigkeit dasselbe sei wie Kompetenz – beobachtete den Jungen mit der stillen Feindseligkeit eines Mannes, dem man einen Tisch weggerückt hatte, ohne es zu erklären. Fatima kannte diesen Blick. Sie hatte ihn an zwanzig Höfen gesehen, in zwanzig Variationen. Er war ungefährlich, solange man ihn nicht unterschätzte.
 
-„Die Briefe an den Statthalter von Buchara“, sagte sie ohne anzuhalten. „Sind sie fertig?“
+„Wir beginnen mit der Westkorrespondenz", sagte sie, ohne aufzublicken.
 
-„Ja“, sagte Yulbars. „Ich habe sie selbst geschrieben. “ Er betonte das letzte Wort leicht.
+Juvaini griff zur Feder.
 
-Fatima blieb stehen und drehte sich um. „Selbst?“
+Sie diktierte langsam. Die erste Hälfte des Briefes war Formelkram – Grußformeln an den Gouverneur von Samarkand, Bestätigungen von Liefermengen, eine höfliche Erinnerung an ausstehende Tributzahlungen. Juvaini schrieb, und seine Feder bewegte sich ruhig, ohne Unterbrechung. Nasir an seinem Tisch schrieb ebenfalls, irgendeine Abschrift, und Fatima hörte das Kratzen seiner Feder als das, was es war: eine Demonstration von Anwesenheit.
 
-„Der neue Schreiber macht noch Fehler“, sagte Yulbars mit einem Blick zu Juvaini hinüber. „Ich dachte, es sei besser…“
+Dann, in der Mitte des zweiten Absatzes, baute sie den Fehler ein.
 
-„Du dachtest. “ Fatimas Stimme war ruhig, aber sie schnitt durch den Lärm der Kanzlei wie ein Messer durch Seide. „Wenn ich einen Kopisten brauche, sage ich es dir. Wenn ich einen Denker brauche –“ sie ließ den Satz in der Luft hängen.
+Es war ein kleiner Fehler. Harmlos genug, um den Absender in Verlegenheit zu bringen, nicht das Reich. Sie nannte den Gouverneur beim falschen Namen – Mahmud statt Muhammad, eine Verwechslung, die in der Kanzlei jedes Jahres mindestens einmal vorkam und die jeden Empfänger sofort wissen ließ, dass er nicht wichtig genug war, um genau gelesen zu werden. Ein Fehler, der Botschaften sendete, die man nicht senden wollte.
 
-Yulbars senkte den Blick.
+Juvaini schrieb weiter.
 
-Fatima ging weiter zu ihrem Pult und setzte sich. Sie nahm einen Stapel ungeöffneter Briefe zur Hand – Berichte aus den westlichen Provinzen über Steuereinnahmen und Truppenbewegungen – aber ihre Gedanken waren nicht bei den Zahlen.
+Fatima wartete.
 
-Sie brauchte einen Kopisten für die Westkorrespondenz.
+Er schrieb den falschen Namen auf, ohne zu zögern. Dann schrieb er den nächsten Satz. Dann noch einen. Dann hielt er inne – nicht mit der Feder in der Luft, nicht mit einem Räuspern, nicht mit einem Blick zu ihr hin. Er hielt inne, indem er die Feder auf den Tisch legte und das Tintenfass ein kleines Stück zur Seite rückte, als brauche er mehr Platz.
 
-Nicht irgendeinen Kopisten: einen Mann oder eine Frau mit flinker Hand und geschlossenem Mund; jemanden der wusste wann er sehen durfte und wann er blind sein musste; jemanden dessen Talent nicht so groß war dass er gefährlich wurde aber auch nicht so klein dass er nutzlos war.
+„Darf ich fragen", sagte er, ohne aufzublicken, „ob der Gouverneur von Samarkand derselbe ist, der letzten Herbst den Tributbrief an Arghun Aqa gesandt hat?"
 
-Juvaini war talentiert – das hatte sie bei ihrem ersten Diktat gesehen an der Art wie er ihre Sätze las nicht nur abschrieb; an der kleinen Korrektur die er vorgenommen hatte ohne es zu merken; an dem Blick in seinen Augen als er verstand was sie tat mit der Sprache als Werkzeug.
+Fatima legte die Hände in den Schoß. „Warum?"
 
-Aber Talent hatte zwei Schneiden am Hof von Karakorum: Es konnte dich retten oder dich schneiden bis nichts mehr übrig blieb als Blut auf Papier.
+„Weil in dem Brief, den ich kopiert habe, Muhammad ibn Yusuf als Absender stand. Ich wollte sichergehen, dass ich den richtigen Namen verwende."
 
-Fatima legte den Stapel Briefe beiseite und stand wieder auf. „Juvaini“, sagte sie laut genug damit alle es hörten.
+Er sagte es beiläufig. Er sagte es, als sei es eine Frage der Genauigkeit, nicht der Korrektur. Er sagte es so, dass sie selbst den Fehler entdecken konnte, ohne dass er ihr gezeigt hatte, wo er lag.
 
-Der Junge hob den Kopf vom dritten Pult links wo seine Feder mitten im Satz erstarrt war wie ein erschrockenes Tier unter dem Licht einer Fackel im Wald bei Nacht wenn plötzlich Schritte knirschen auf trockenem Laub während ringsum die Stille wächst – aber hier gab es keinen Wald keine Nacht nur eine Frau deren Name an diesem Hof mehr bedeutete als jeder Titel den Männer trugen weil sie schrieb was andere nur dachten oder fürchteten oder nie erfahren sollten weil Wissen Macht war und Macht vergänglich wie Schnee im Frühling 1243 in Karakorum wo der Matsch nach Wolle roch nach verbranntem Dung nach zwanzig Jahren Überleben gegen alle Wahrscheinlichkeit einer Sklavin aus Chorasan deren Schwester gestorben war damit sie leben konnte damit sie jetzt hier stand vor einem Jungen aus Dschuwain dessen Vater Beamter gewesen war dessen Familie überlebt hatte weil sie geschrieben hatten statt gekämpft weil Papier dicker war als Blut wenn man es richtig faltete zur rechten Zeit am rechten Ort unter dem richtigen Namen –
+Fatima schwieg einen Moment.
 
-„Ja?“ sagte Juvaini stand auf trat vor sein Pult die Feder noch immer in der Hand tropfte Tinte auf den Boden machte einen dunklen Fleck neben seinem Schatten fiel ins Licht das durch das Fenster fiel hell gnadenlos zeigte jeden Riss im Holz jeden Fehler in seiner Haltung jede Unsicherheit in seinen Augen als er vor ihr stand bereit zu dienen oder zu fliehen je nachdem was ihr nächster Satz entscheiden würde über ihn über seine Zukunft über seine Chancen diesen Hof lebend zu verlassen falls es denn je eine Chance gab hier lebend herauszukommen aus diesem Spiel aus Papier und Macht und vergifteten Bechern in goldenen Händen –
+„Muhammad", sagte sie. „Natürlich."
 
-Fatima sah ihn an für einen Herzschlag lang zwei Herzschläge drei –
+„Danke." Er griff wieder zur Feder.
 
-Dann wandte sie sich um ging zurück zu ihrem Pult setzte sich nahm eine neue Feder tauchte sie ins Tintenfass begann zu sprechen ohne ihn anzusehen: „Ich diktiere einen Brief an den Gouverneur von Merw über Getreidelieferungen für die Garnison von Otrar im Frühjahr dieses Jahres 1243 unserer Zeitrechnung nach dem Tod des Khans unter der Regentschaft seiner Witwe Töregene Khatun geborene Naimanin Kriegsbeute ihres Mannes Mutter seines Sohnes Herrin des Reiches bis zur Entscheidung des Kuriltai über die Nachfolge seines Vaters seines Großvaters seines Erbes –“
+Nasir an seinem Tisch hatte aufgehört zu schreiben. Fatima hörte das Ausbleiben seines Federkratzens als das, was es war: Aufmerksamkeit. Sie ignorierte es.
 
-Sie sprach schnell gleichmäßig ohne Pause ohne Betonung wie Wasser das über Steine fließt unaufhaltsam kalt präzise während ihre Feder die Worte festhielt auf dem Papier vor ihr während ihre Ohren lauschten auf das Geräusch seiner Feder hinter ihr während ihre Nieren zählten die Sekunden zwischen ihren Sätzen ob er mithielt ob er stockte ob er kämpfte gegen ihre Geschwindigkeit gegen ihre Genauigkeit gegen ihre Absicht ihn zu prüfen ohne dass er wusste worauf diese Prüfung zielte weil Prüfungen nur funktionierten wenn der Geprüfte nicht wusste wonach gemessen wurde –
+Der Junge kann taktvoll die Wahrheit sagen.
 
-Er hielt mit.
+Das war die seltenste Hofkunst. Seltener als Mut, seltener als Klugheit, seltener als Loyalität, die man kaufen oder brechen konnte. Taktvoll die Wahrheit sagen hieß: den anderen nicht beschämen, aber auch nicht lügen. Es hieß: den Fehler sichtbar machen, ohne einen Schuldigen zu benennen. Es hieß: verstehen, dass Macht nicht aus dem Wissen kommt, dass jemand falsch liegt, sondern aus der Fähigkeit, ihn richtig liegen zu lassen.
 
-Seine Feder kratzte gleichmäßig hinter ihr fast synchron mit ihrer eigenen Bewegung als wäre sein Handgelenk mit ihrem verbunden durch unsichtbare Fäden aus Tinte und Pergament zwischen zwei Menschen deren Leben nie hätten kreuzen sollen außerhalb dieser Kanzlei außerhalb dieser Stadt außerhalb dieses Jahrhunderts voller Blut und Feuer unter einem Himmel voller Sterne die unbewegt standen über Karakorum während unten Frauen wie Fatima lernten dass Schweigen lauter sprach als jedes Wort jemals sprechen könnte –
+Sie hatte Männer gekannt, die dreißig Jahre am Hof gelebt hatten und das nie gelernt hatten.
 
-„…und daher ersuchen wir Euer Exzellenz höflichst um Bestätigung dieser Lieferung innerhalb des nächsten Mondes unterzeichnet im Namen Ihrer Hoheit Töregene Khatun Regentin des Reiches gesiegelt mit dem Siegel ihrer Kanzlei datiert am fünfzehnten Tag des ersten Frühlingsmondes im Jahr 1243 unserer Zeitrechnung unterzeichnet durch Fatima bint Muhammad al-Chorasani Sekretärin ihrer Kanzlei –“
+Der Junge hatte es in einem Atemzug getan.
 
-Sie hielt inne legte die Feder nieder drehte sich um sah ihn an saß da seine Feder noch immer in der Hand über seinem Blatt schwebend bereit zum nächsten Wort bereit zum nächsten Satz bereit weiterzuschreiben was immer sie ihm diktieren würde solange bis seine Hand ermüdete bis sein Geist nachgab bis sein Körper zusammenbrach unter dem Gewicht ihrer Worte ihrer Befehle ihrer Kontrolle über jede Silbe jedes Zeichen jedes Atemzug zwischen zwei Sätzen zwischen zwei Leben zwischen zwei Welten getrennt durch zwanzig Jahre Überleben durch eine Schwester tot seit zwanzig Jahren durch eine Stadt zerstört seit zwanzig Jahren durch eine Frau deren Gesicht sie nie vergessen würde weil dieses Gesicht ihr eigenes gewesen wäre wenn das Schicksal anders entschieden hätte wenn damals jemand anders gestorben wäre wenn. Damals jemand anders überlebt hätte wenn damals jemand anders hier stünde statt ihr selbst statt diesem Jungen dessen Feder tropfte dessen Hand zitterte dessen Augen fragten ob er gut genug gewesen war ob er bestanden hatte ob er weiterleben durfte in diesem Spiel aus Papier und Macht wo jeder Fehler tödlich sein konnte jede falsche Formulierung jede unbedachte Korrektur jede Wahrheit die niemand hören wollte weil Wahrheit am Hof von Karakorum bedeutete was du daraus machtest wenn du mächtig genug warst deine Version durchzusetzen gegen alle anderen Versionen gegen alle anderen Wahrheiten gegen alle anderen Geschichten erzählt von toten Frauen deren Namen niemand mehr kannte außer einer einzigen Überlebenden deren Name Fatima bint Muhammad al-Chorasani lautete Sekretärin ihrer Kanzlei Schreiberin ihrer Briefe Hüterin ihrer Geheimnisse –
+Sie diktierte weiter.
 
-„Lesen Sie vor“, sagte Fatima ruhig kontrolliert kalt präzise wie Wasser das über Steine fließt unaufhaltsam ohne Pause ohne Betonung weil Betonung verriet was man wirklich dachte wirklich fühlte wirklich fürchtete hinter jeder Maske aus Höflichkeit hinter jedem Schutzschild aus Dienstbereitschaft hinter jedem Lächeln das tötete langsamer als jedes Schwert jemals töten könnte langsamer aber sicherer endgültiger unwiderruflicher –
+Die Mittagsstunde kam und ging. Nasir verließ die Kanzlei für sein Essen, wie jeden Tag zur selben Zeit, mit derselben Miene eines Mannes, der seine Gewohnheiten für Tugenden hielt. Fatima blieb sitzen. Juvaini blieb sitzen. Sie tranken den Tee, den eine Dienerin brachte, und Fatima diktierte den dritten Brief, einen heikleren, über Steuerbefreiungen in den nördlichen Distrikten, dessen Formulierungen sie mit einer Sorgfalt wählte, die der Junge vielleicht bemerkte und vielleicht nicht.
 
-Juvaini begann zu lesen seine Stimme fest gleichmäßig fast perfekt fast genau wie sie diktiert hatte fast so gut dass niemand den Unterschied bemerkt hätte zwischen ihren Worten seinen Worten ihren Absichten seinen Absichten –
+Dann, als der Nachmittag begann und das Licht durch das Fenster flacher und goldener wurde, stand sie auf.
 
-Bis zu einer Stelle etwa zwei Drittel des Briefes wo seine Stimme kurz zögerte kaum merklich kaum hörbar kaum sichtbar für jemanden der nicht wusste wonach er suchen musste wonach sie suchte wonach jede Frau suchen musste die zwanzig Jahre überlebt hatte indem sie Menschen maß bevor Menschen nutzten indem sie Fehler fand bevor Fehler töteten indem sie las zwischen Zeilen zwischen Worten zwischen Lügen verpackt als Höflichkeit verpackt als Dienstbereitschaft verpackt als Loyalität gegenüber einer Herrin deren Macht absolut war solange niemand herausfand dass absolute Macht bedeutete absolute Abhängigkeit von Menschen wie Fatima Menschen wie diesem Jungen dessen Zögern verriet dass er etwas bemerkt hatte etwas gehört hatte etwas gelesen hatte was nicht da stand was da stehen sollte was da stehen müsste wenn alles richtig gewesen wäre wenn kein Fehler passiert wäre kein absichtlicher Fehler eingebaut ins Diktat eingebaut. Ins System eingebaut ins Netz dieser Prüfung dieser Falle dieses Tests dessen Ergebnis entscheiden würde ob dieser Junge lebend weiterschreiben durfte ob diese Version seiner Geschichte weitergeschrieben werden würde oder ob eine andere Version beginnen würde eine Version voller Lücken voller Schweigen voller Namen gestrichen aus dem Gedächtnis des Reiches gelöscht wie Schnee im Frühling 1243 in Karakorum wo Fatima wartete ruhig kontrolliert kalt präzise während Juvaini las weiterlas stockend jetzt suchend jetzt kämpfend gegen seinen eigenen Verstand gegen seine eigene Einsicht gegen sein eigenes Wissen dass etwas falsch war etwas stimmte nicht etwas passte nicht zusammen in diesem Brief an den Gouverneur von Merw über Getreidelieferungen für die Garnison von Otrar unterzeichnet im Namen Ihrer Hoheit Töregene Khatun Regentin des Reiches datiert fünfzehnter Tag ersten Frühlingsmondes Jahr 1243 unserer Zeitrechnung gesiegelt gesandt gelesen vorgelesen korrigiert bestätigt unterschrieben –
+„Ich muss zur Regentin", sagte sie. „Schreibt die Reinschrift des zweiten Briefes."
 
-Er hielt inne legte die Feder nieder hob den Blick sah ihr direkt in die Augen fragend suchend forschend misstrauisch vorsichtig klug genug um zu wissen dass dies keine Prüfung mehr war sondern ein Verhör ein Test ein Spiel dessen Regeln niemand ihm erklärt hatte dessen Ziel niemand ihm genannt hatte dessen Ausgang bereits feststand bevor er begonnen hatte diesen Raum dieser Kanzlei dieses Leben am Hof von Karakorum unter Frauen deren Macht absolut bedeutete solange niemand herausfand dass absolute Macht bedeutete absolute Abhängigkeit von Menschen wie ihm selbst Menschen deren Talent entscheiden würde ob sie lebten oder starben ob ihre Version dieser Geschichte weitergeschrieben werden würde oder gelöscht vergessen verschwunden unter Schnee unter Matsch unter Staub unter Zeit unter dem Gewicht eines Imperiums gegründet auf Blut. Erhalten durch Angst verwaltet durch Papier verteidigt durch Frauen deren Namen niemand kannte außer einer einzigen Überlebenden deren Name Fatima bint Muhammad al-Chorasani lautete Sekretärin ihrer Kanzlei Schreiberin ihrer Briefe Hüterin ihrer Geheimnisse Richterin ihres Schicksals Richterin seines Schicksals jetzt hier heute in diesem Augenblick wo alles entschieden werden würde zwischen zwei Herzschlägen zwischen zwei Atemzügen zwischen einer Frage gestellt einer Frage vermieden einer Antwort gegeben einer Antwort verweigert abhängig davon wie viel Mut dieser Junge besaß abhängig davon wie viel Angst dieser Junge empfand abhängig davon ob Angst lähmend wirken würde oder befreiend klar machend deutlich zeigend wo Gefahr lag wo Sicherheit lag welcher Weg zum Überleben führte welcher Weg zum Tod führte welcher Schritt jetzt richtig wäre welcher falsch entscheidend unwiderruflich endgültig –
+Sie ging. Aber bevor sie durch die Tür trat, ließ sie, scheinbar achtlos, ein Blatt auf dem Tisch liegen. Es war halbgeschrieben. Ihre Handschrift. Ein Brief, der nicht für die Kanzleiakten bestimmt war – das erkannte jeder, der es las, sofort. Die Namen darin waren keine Gouverneure und keine Tributleister. Die Namen darin waren Männer, die am Hof lebten, und was neben ihren Namen stand, waren keine Zahlen.
 
-„Verzeiht“, sagte Juvaini leise langsam vorsichtig tastend suchend forschend misstrauisch klug genug um genau dies sagen genau dies fragen genau dies tun genau so handeln genau jetzt genau hier genau heute genau diesen Augenblick nutzend für seinen nächsten Zug für seinen nächsten Schritt für seine nächste Entscheidung entscheidend unwiderruflich endgültig:
+Sie ließ das Blatt liegen, beschwert mit nichts. Dann ging sie.
 
-„Ich möchte eine Frage stellen. “
+Sie brauchte nicht lange. Töregene hatte sie nicht wirklich gerufen – es gab eine Kleinigkeit zu besprechen, einen Kurier, der am nächsten Morgen abgehen sollte, eine Frage der Adressierung. Zehn Minuten, nicht mehr. Fatima kannte den Unterschied zwischen einem Vorwand und einem Grund, und sie nutzte Vorwände, wenn sie sie brauchte.
 
-Fatima nickte kaum merklich kaum sichtbar kaum wahrnehmbar für jeden anderen Schreiber jeden anderen Kopisten jeden anderen Mann jeden anderen Gehilfen jeden anderen Anwärter auf diese Position diese Aufgabe diese Verantwortung diesen Posten dieses Vertrauen diese Last dieses Privileg dieses Risiko diese Gefahr diesen Tod verzögert vermieden vielleicht vielleicht vielleicht –
+Als sie zurückkehrte, lag das Blatt noch da.
 
-„Die Garnison von Otrar“, sagte Juvaini langsam jedes Wort abwägend jede Silbe prüfend jedes Zeichen setzend vorsichtig tastend forschend suchend sicher werdend sicher gehend sicher fallend sicher stehend fest gründend tief grabend bohrend fragend:
+Genau so. Kein Millimeter verschoben. Beschwert mit dem Federetui, das Juvaini offenbar von seiner Seite des Tisches genommen und daraufgelegt hatte, ohne Kommentar, als habe er bemerkt, dass das Blatt zu leicht war und vom Zugwind hätte bewegt werden können.
 
-„Ist es richtig dass der Befehlshaber dort noch immer Naiman heißt? Ich meine –“ Er stockte kurz suchte nach Worten suchte nach Formulierungen suchte nach einem Weg dies zu sagen ohne anzuklagen ohne anzudeuten ohne preiszugeben was wirklich geschah hinter seinen Fragen hinter seinem Zögern hinter seiner Suche:
+Fatima trat an den Tisch und betrachtete das Blatt. Dann betrachtete sie das Federetui.
 
-„Ich meine nur: Wenn wir Getreide nach Otrar schicken benannt nach einem Befehlshaber namens Naiman… könnte Verwirrung entstehen? Vielleicht sollte ich stattdessen ‚die Garnison‘ schreiben oder ‚die Festung‘? Nur zur Klarheit? Für die Schreiber dort? Die vielleicht nicht wissen…“
+Juvaini schrieb die Reinschrift. Er blickte nicht auf.
 
-Er ließ den Satz offen endete abrupt verstummte wartete atmete kaum wagte kaum Hoffnung kaum Glauben kaum Vertrauen darauf dass dies richtig gewesen war dies gesagt worden dies gefragt worden dies gefunden worden dies entdeckt worden dieser Fehler gefunden gefangen benannt korrigiert vermieden gelöst gelindert geheilt gerettet vielleicht vielleicht vielleicht –
+Ob er gelesen hatte, würde sie nie sicher wissen. Das war der Punkt. Sie suchte keine Unwissenden – Unwissende waren nützlich, aber begrenzt. Sie suchte Menschen, die Wissen behandeln konnten. Die verstanden, dass ein Blatt, das man nicht lesen soll, ungelesen bleibt, nicht weil man es nicht könnte, sondern weil man versteht, was das Lesen bedeuten würde. Was es kosten würde. Was es von einem verlangen würde.
 
-Fatima sah ihn lange an länger als nötig länger als angenehm länger als sicher länger als klug länger als weise länger als vernünftig länger als ratsam länger als möglich scheinen sollte zwischen zwei Menschen getrennt durch zwanzig Jahre Überleben verbunden durch denselben Fehler denselben Test dieselbe Prüfung dieselbe Methode dieselbe Kunst dieselbe Technik dieselbe Fähigkeit dieselbe Gabe dieselbe Bürde dieselbe Last dieselbe Verantwortung denselben Preis gezahlt gezahlt werdend gezahlt werden müssend jeden Tag jeden Monat jedes Jahr jedes Jahrzehnt jeden Winter jeden Frühling jede Nacht jedes Mal wenn du einen Brief schriebst diktiertest korrigiertest testetest prüftest maßt beurteiltest entschiedest wer leben. Wer sterben wer weiterschreiben wer vergessen werden würde wer bleiben wer gehen wer bestehen wer fallen wer gewinnen wer verlieren wer kämpfen wer fliehen wer dienen wer herrschen wer gehorchen wer befehlen wer schweigen wer sprechen wer lesen schreiben denken fühlen hoffen glauben lieben hassen furchten vertrauen misstrauen sterben leben atmen existieren vergehen verschwinden zurückbleiben vergessen werden bleiben ewig bleiben unvergesslich unvergänglich unzerstörbar unauslöschbar eingebrannt ins Gedächtnis des Reiches eingeschrieben ins Buch dieses Lebens ins Kapitel dieses Tages ins Datum dieses Frühlings 1243 unserer Zeitrechnung unserer Berechnung unseres Überlebens unseres Weiterlebens unseres Fortbestehens trotz allem trotzdem trotz alledem:
+Wissen ist eine Schuld, die man eingeht, wenn man es aufnimmt.
 
-„Gar nichts“, sagte Fatima ruhig kontrolliert kalt präzise:
+Der Junge wusste das, oder er hatte es getan, oder er hatte es nicht getan und das Blatt trotzdem nicht berührt, weil er Angst hatte. Auch das war möglich. Aber selbst wenn es Angst war – die richtige Angst war besser als die falsche Kühnheit.
 
-„Gar nichts müssen Sie ändern Herr Juvaini. “
+Sie nahm das Federetui vom Blatt, faltete das Blatt zusammen und steckte es ein.
 
-Sie drehte sich um wandte sich ab kehrte zurück zur Arbeit kehrte zurück zum Alltag kehrte zurück zur Routine kehrte zurück zur Normalität kehrte zurück zur Maske kehrte zurück zum Schutzschild kehrte zurück zur Mauer gebaut aus zwanzig Jahren Überleben gebaut aus Erfahrung gebaut aus Wissen gebaut aus Weisheit gebaut aus Vorsicht gebaut aus Misstrauen gebaut aus Vertrauen nur selten nur vorsichtig nur geprüft nur getestet nur gemessen nur gewogen bevor gegeben bevor geschenkt bevor vertraut bevor riskiert bevor gelebt bevor gestorben bevor vergangen bevor bestanden:
+„Danke", sagte sie.
 
-Dieser Junge hatte bestanden
+Juvaini blickte auf. „Für das Federetui?"
 
-Hatte verstanden
+„Ja."
 
-Hatte gemerkt
+Er nickte und schrieb weiter.
 
-Hatte gefragt
+Nasir kehrte zurück und setzte sich an seinen Tisch mit der Miene eines Mannes, der weiß, dass er etwas verpasst hat, aber nicht weiß, was. Fatima ließ ihn in diesem Unwissen. Es war das Freundlichste, was sie für ihn tun konnte.
 
-Hatte nicht korrigiert
+Der Nachmittag verging. Die Briefe wurden fertig. Juvaini legte die Reinschriften in die richtige Reihenfolge, beschwerte sie mit dem kleinen Stein, den er für diesen Zweck benutzte, und stand auf, um zu gehen.
 
-Hatte nicht stillgeschwiegen
+„Bleibt noch einen Moment", sagte Fatima.
 
-Hatte taktvoll Wahrheit sagen können
+Er blieb.
 
-Die seltenste Hofkunst
+Nasir sammelte seine Sachen und verließ die Kanzlei, langsamer als nötig, mit dem Gehör eines Mannes, der hoffte, etwas aufzufangen. Die Tür schloss sich hinter ihm.
 
-Und deshalb gefährlicher
+Fatima stand am Fenster. Der Schlamm vor der Kanzlei fing an, in der Abendkälte wieder zu frieren, und die Oberfläche kräuselte sich zu kleinen Kristallen, die im letzten Licht glitzerten. Sie betrachtete das eine Moment, dann wandte sie sich um.
 
-Weil seltene Kunst bedeutete seltene Gefahr bedeutete seltene Chance bedeutete seltene Möglichkeit jemanden zu finden jemanden zu nutzen jemandem vertrauen jemandem glauben jemandem folgen jemandem dienen jemandem helfen gemeinsam gemeinsam gemeinsam statt allein statt einsam statt verloren statt vergessen statt verschwunden unter Schnee Matsch Staub Zeit Gewicht Imperium Verwaltung Krieg Tod Leben Liebe Hass Furcht Vertrauen Misstrauen Schweigen Sprechen Lesen Schreiben Denken Fühlen Hoffnungen Glauben Zweifeln Fallen Stehen Bleiben Gehen Kommen Sein Werden Gewesen Sein Nichtmehrsein Immernochsein Trotzdemsein Weitermachen Weiterschreiben Weiterleben Weiterkämpfen Weiterdienen Weiterherrschen Weitergehorchen Weiterbestehen Fortbestehen Überleben:
+„Die Westkorrespondenz", sagte sie. „Briefe an die Gouverneure der persischen Provinzen, an die Statthalter in Buchara und Samarkand, gelegentlich an die Händlergilden in Täbris. Ich brauche einen Kopisten, der Persisch und Mongolisch kann und versteht, dass der Inhalt dieser Briefe nicht für die Kanzleiakten bestimmt ist."
 
-Nachmittag desselben Tages
+Juvaini schwieg einen Moment. Dann sagte er: „Ich verstehe."
 
-Sie ließ ihn kommen
+„Ich glaube nicht, dass Ihr versteht", sagte Fatima. „Noch nicht. Aber Ihr werdet es lernen."
 
-Setzte ihn vor sich hin
+Sie sagte es ohne Schärfe. Es war eine Feststellung, keine Drohung. Der Unterschied war wichtig.
 
-Legte ein Blatt Papier aufs Pult
+„Wann beginnen wir?" fragte er.
 
-LegteseineFederdanebenLegtedasTintenfassdarüberLegtedasSiegelderKanzleidazwischenLegtedasSchicksalseinesLebensvorsichhinundsprachruhigkontrolliertkaltpräzisedokumentarischberichterstattendsachlichfeststellenderkenntnisgebendesicherstellendsichergehendsicherfallendsicherstehendfestgründetiefgebohrtlanggesponnenweitgewobengroßgedachtgroßgeschriebenaufgeschriebenfestgeschriebenfürimmerfestgehaltenfürimmerbestimmtfürimmerentschiedenjetztgleichheutesofortdiesenaugenblickdiesenhierdiesennundiesensofortjetztgleichheutehierhiermithiersofort:
+„Morgen früh. Eine Stunde vor den anderen."
 
-„Westkorrespondenz“, sagte Fatima ruhigeruhigeruhigeinfachschnörkellosklaroffendeutlichtrennschaftbestimmtbefehlsautoritärendgültignichteinschränkbarversiegelbarbestätigtunterschriftgesiegeldatiertunterschriebengezeichnetabgeschlossenfertigerledigtgetanvollbrachtvollendedurchgeführtausgeführtabgeschlossenfertigerledigtgetanvollbrachtsoweitergeleitetübergebenabgeliefertvertrautvergebenverliehenanvertrautverantwortetübernommenangenommenbestanden:
+Er nickte. Er fragte nicht, warum eine Stunde vor den anderen. Er fragte nicht, was in den Briefen stand. Er fragte nicht, was das für ihn bedeutete, für seine Stellung, für sein Verhältnis zu Nasir, der es bemerken würde und nichts sagen, aber es wissen würde. Er fragte nicht.
 
-Er nickteeinfachnureinfachschnörkellosklaroffendeutlichtrennschaftbestimmtbefehlsautoritärendgültignichteinschränkbarversiegelbarbestätigtunterschriftgesiegeldatiertunterschriebengezeichnetabgeschlossenfertigerledigtgetanvollbrachtvollendedurchgeführtausgeführtabgeschlossenfertigerledigtgetanvollbrachtsoweitergeleitetübergebenabgeliefertvertrautvergebenverliehenanvertrautverantwortetübernommenangenommenbestandenohneWortohneZögernohneZweifelnohneFragenohneBedingungenohneVorbehaltechneeinfacheinfacheschnörkellosklaroffendeutlichtrennschaftbestimmtberufserfahrenzuverlässigsicherdiskretverschlussbereitzudienenbereitzuarbeitenbereitzuschweigenbereitzulesenzusehenzuhoerenzuverstehenzuunterlassenzuuebersehenzuvergessenzuerinnerndenrichtigenAugenblickdenrichtigenMomentdasrichtigeWortdienotwendigeStelledasnotwendigeSchweigenrichtigeEntscheidungrichtigesHandelnrichtigesLebenrichtigesÜberlebenrichtigesWeiterlebenfortsetzenfortfahrenweitermachenweiterschreibenweiterdienenweiterkämpfenweiterherrschenweitergehorchenweiterbestehensolangedasmöglichistsolangedauernderlaubtsolangederPreisbezahlbaristsolangedasRisikotragbaristsolangederGewinnmessbarsolangedasVertrauenhaltbarsolangedasMisstrauentragbaristsolangederTodaufschiebbaristbiszumEndebiszumnächstenTestbisznächstensPrüfungbisznächstenGelegenheitsichzubeweisenwiedererneutersvonvornvonAnfangvonNeuanimbestenFallimschlechtestenvielleichtnieganzsicherniewirklichniemehrganzsichersondernimmervonderAnfanimmerneuimmervonderSeiteimmervonderKantenimmervomRandimmervonderGrenzeimmervomAbgrundimmervomEndejedessatzesjedesschriftstücksjedesbriefsjedessiegeljedesdatumsjedesnamensjedessubjektsjedespraedikatsjedesobjektsjedesverbotsjedesgebotsjedesbefehlsjedesdienstesjedeslebensjedestodesjedesüberlebensjedesfortbestandsjedesweitermachensübermorgenundüberübermorgenundalleTagedanachalleNächtedazwischenalleStundendasJahrhundertdasJahrtausenddieEwigkeitsolangedieWeltstehtsolangedieSonneaufgehtsolangedieSterneleuchtenüberKarakorumüberMerwOtrarBucharaSamarkandBagdadDamaskusKairoKonstantinopelRomParisLondonBerlinMoskauPekingTokioNewYorkLosAngelesSydneyKapstadtRioTokyowiedergestorbenwiegeborenwiegewachsenwiegestorbenseinswerdengewesennichtmehrseintrotzdemsinseinswerdenbleibenschreibengeschriebenhabengeschriebenwerdenschreibengebliebenseingeschriebenseingemeißelseingeprägtinsGedächtnisderWeltinsHerzjederFraujedenMannesjedenKindesdaslesendarferinnernsichbegnadigtbegnadetbegnadetwordenseivoneinerFrauderNamevergessenbliebderNameverschwandderNameniemandkannteaußerihrselbstihrselbstihrselbstihrerSchwesternamtotenSchwesternamenlosennamengegebenwordenseiderTochterdesKopistenvonMaschedderStadtdiefielzweihunderteinundzwanzigdervölkermordetwordenseidervonChorasanvonPersienvomIslamvomWestenvomOstenvomNordenvomSüdenderganzenWeltganzenErdeganzenMenschheitganzenGeschichteerinnertsichniemanterinnertsichniemanterinnertsicheinigewenigekeinerfastkeinerfastniemanaußeinerFrauinKarakorumeinerspätenNachtimFrühjahr1243nachChristiGeburtnachÖgedeisTodnachTöregenesRegentschaftnachfatimasEntscheidungfürAtaMalikJuvainialsKopistenderWestkorrespondenzderspätestensLiebenderspätestensVertrauenderfrühstensTestderfrühstensPrüfungdererstenschrittderletzteSchrittderentscheidendeSchritthiersofortjetztgleichheutediesenaugenblickeinfachschnörkellosklaroffendeutlichentscheidungsicherbestimmungssicherexistenzsicherlebenssichertodessicheramEndeeinesLangentagesamEndeeinerspätenNachtalleininihremZeltalleininihrerKammeralleininihrerEinsamkeitumgebenevondunkelheitumgebenevonschweigensuchendnachWortenfindendenBriefanderSchwestersetzendesichhinbeginntzuschreibenerstaunenstattschreibtwortefürwortwortefürsatzesatzefürgedankengedankefürbildbildfürmomentmomentfüraugenblickaugenblickfürewigkeitsobreifendesPapiersofederdesVaterssohanddesLebenssoherzdestoftenHerzenssobluttotenBlutsoschoepferischeSchoepfungsozeugeZeitungsoberlebenderÜberlebendenTochterdesKopistenvonMaschedderStadtdiefielvorzwanzighundertzwölfundzwanzigdiesJahresvorChristiGeburtvorÖgedeisTodvorTöregenesRegentschaftvorfatimasEntscheidungfürAtaMalikJuvainialsKopistenderWestkorrespondenzderspätestLiebespätVertraufrühtestsTestfrühPrüfunentscheidenschrittletztenschrittentscheidenschrittjetztgleichheutesofortdiesenaugenblickeinfachschnörkellosklaroffendeutlichtrennschaftbestimmtbefehlsautoritärendgültignichteinschränkbarversiegelbarbestätigtunterschriftgesiegeldatiertunterschriebengezeichnetabgeschlossenfertigerledigtgetanvollbrachtvollendedurchgeführtausgeführtabgeschlossenfertigerledigtgetanvollbrachtsoweitergeleitetübergebenabgeliefertvertrautvergebenverliehenanvertrautverantwortetübernommenangenommenbestandenohnedasssiejemalsganzsicherwisseobergewirklichbestandenhabevollbrachtgeleistesoweitgebrachtgebrauchtgemisstgemessenbewertetentschiedenhatwasentscheidenwerdenmusstebevorderSonnenaufgangdesnaechstenMorgenvorfruehestLichtdesnaechstenTagvorallnehmlicheStilleleruehestilleseineHanddieFederhaltdieFragegestelltFehlersehentdecktnichtsagtnichtsandereskorrektgefragttaktvolldiewahrheitsagtdieselteneHofkunstdieselteneGabelangewandtgelerntgefundenentdeckterkanntverstandenangewandterprobtbewährtvertrautvertrauengegebenempfangenangenommenbestandenohnedasssiejemalsganzsichersoseiobwirklichgelungeobwirklichglückobwirklichrechtobwirklichgutobwirklichweisewareinzufindenineinemMannineinemJungebindeinemKopisteneinemSchreibereinemberufskollegenverbundengedanklichemBandunsichtbaremFadenverbindendenFederPapierTinteSiegeldatumUnterschriftZeichenSymbolBedeutungdiebleibtfürimmerbleibtfortdauerhinausdauerhinausreichendbiszumEndederWeitbiszumEndederZeitbiszumEndejederErinnerunganeineFraudielebteschriebstarbleichtereineSpurhinterließdiekeinerkannteaußerihrerSchwesternamtotenSchwesternamenlosennamengegebenwordenseiderTochterdesChorasaniTochterdesPersienTochterdesIslamTochterdesWestensTochterdesOstensTochterallesdessenvonsovieldavongarnichtsmehruebrigneineSpurweggewischtausgeloeschtvergessenunerinnertaneinanderunbekanntungekanntungehoertungeachtungeehrtungewoerdigtunbetrauertunbeweinterniemanddaumzuklagenumauchtrauernauchtrauerndaureichenfuerallesallesalleswaswardwassein wirdwasbleibenwasfortdauern wirdfuerimmerfortfueralleZeitalleEwigkeitallgemeinsame GemeinschaftallerMencheneinenFraunamenlosnamengegebenwordenseiderTochterdesChorasaniTochterdesPersienTochterdesIslamTochterallesdessenvonsovieldavongarnichtsmehruebrigneineSpurweggewischtausgeloeschtvergessenunerinnertaneinanderunbekanntungekanntungehoertungeachtungeehrtungewoerdigtunbetrauertunbeweinterniemanddaumzuklagenumauchtrauernauchtrauerndaureichenfuerallesallesalleswaswardwassein wirdwasbleibenwasfortdauern wirdfuerimmerfortfueralleZeitalleEwigkeitallgemeinsame GemeinschaftallerMencheneinenFraunamenlosnamengegebenwordenseiderTochterdesChorasaniTochterdesPersienTochterallesdessenvonsovieldavongarnichtsmehruebrigneineSpurweggewischtausgeloeschtvergessenunerinnertaneinanderunbekanntungekanntungehoertungeachtgeehrungedientgeliebtgestorben
+Das war die richtige Antwort.
+
+„Dann bis morgen früh", sagte Fatima.
+
+Er ging. Sie hörte seine Schritte auf dem gefrorenen Schlamm, gleichmäßig, ohne Eile. Dann war die Stille zurück, und die Kanzlei gehörte ihr allein.
+
+Sie saß noch eine Weile am Fenster und ließ den letzten Rest des Lichts vergehen. Die Kälte kroch durch die Ritzen des Holzrahmens, und sie zog den Mantel enger. Draußen rief jemand nach einem Pferd. Irgendwo in der Ferne schlug ein Hammer auf Metall – Guillaume Boucher, wahrscheinlich, der noch an seinem silbernen Baum arbeitete, der noch immer nicht fertig war.
+
+Dann holte sie das Federetui heraus.
+
+Es war aus Leder, abgegriffen an den Rändern, und die Gravur auf dem Deckel war fast nicht mehr zu erkennen – ein Muster aus Ranken, das ihr Vater in Mashhad hatte einschneiden lassen, an dem Herbst, bevor alles endete. Sie öffnete es und nahm ein leeres Blatt heraus. Dann ein zweites. Das zweite legte sie zur Seite – es war kein leeres Blatt, es war ein halbgeschriebenes, das sie vorhin vom Tisch genommen hatte. Sie betrachtete es kurz, faltete es kleiner und steckte es tiefer ins Etui.
+
+Dann begann sie zu schreiben.
+
+Nicht für die Kanzlei. Nicht für Töregene. Für die Tote.
+
+*An Zahra,*
+
+*der Frühjahr kommt, und ich habe heute einen Jungen geprüft.*
+
+*Du hättest ihn mochten, glaube ich. Er zitiert Firdausi, wenn er denkt, dass niemand zuhört, und er hat die Gewohnheit, seine Federn in einer Reihenfolge aufzulegen, die mir sagt, dass ihm jemand Ordnung beigebracht hat, dem er noch heute gehorcht. Das ist entweder Stärke oder Schwäche, und ich weiß noch nicht, welches.*
+
+*Ich habe ihm heute zwei Prüfungen gestellt. Die erste: Ich habe einen Fehler ins Diktat eingebaut. Er hat ihn nicht korrigiert – er hat eine Frage gestellt, die mich den Fehler selbst finden ließ. Du weißt, wie selten das ist. Du hast es nie gelernt, und ich meine das nicht als Vorwurf, ich meine es als Tatsache: Es ist eine Kunst, die die meisten Männer nie lernen, weil sie glauben, dass die Wahrheit ihr Eigentum ist und nicht das des anderen.*
+
+*Die zweite: Ich habe ein Blatt liegen lassen. Ob er es gelesen hat, weiß ich nicht. Ich werde es nie wissen. Aber er hat es nicht bewegt, und er hat nicht so getan, als sei er es nicht gewesen, der es beschwert hat. Er hat es einfach getan und dann weitergeschrieben.*
+
+*Ich habe zwanzig Jahre überlebt, indem ich Menschen maß, bevor ich sie nutzte. Ich habe Männer gesehen, die klüger waren als dieser Junge, und Männer, die mutiger waren, und Männer, die loyaler waren. Aber ich habe selten einen gesehen, der sich richtig fürchtete.*
+
+*Er fürchtet sich vor dem Fehler, nicht vor mir.*
+
+*Das ist der Unterschied. Die meisten fürchten sich vor mir – vor dem, was ich der Regentin sagen könnte, vor dem, was ich über sie weiß, vor dem, was mein Missfallen für ihre Stellung bedeutet. Diese Furcht ist nützlich, aber sie macht Menschen klein. Sie macht sie vorsichtig auf die falsche Weise: Sie achten darauf, was ich sehe, nicht darauf, was sie tun.*
+
+*Wer sich vor dem Fehler fürchtet, achtet auf das, was er tut.*
+
+*Das ist eine Seltenheit, die ich mir nicht leisten kann, zu verschwenden.*
+
+*Ich weiß, was Du fragen würdest, wenn Du noch hier wärst. Du würdest fragen, ob er schön ist, und ich würde sagen, das ist nicht die Frage, und Du würdest lachen und sagen, es ist immer die Frage. Vielleicht. Aber das ist für einen anderen Brief.*
+
+*Heute schreibe ich nur dies: Ich habe einen Kopisten für die Westkorrespondenz gefunden. Und ich habe das Gefühl, das ich habe, wenn ich eine Entscheidung treffe, die ich nicht bereuen werde – ein Gefühl, das ich nicht oft habe und dem ich nicht traue, wenn es zu schnell kommt.*
+
+*Es kam nicht zu schnell. Ich habe gewartet. Ich habe gemessen.*
+
+*Er hat bestanden.*
+
+Sie hielt inne. Die Lampe flackerte, und der Schatten ihrer Hand auf dem Papier bewegte sich wie etwas Lebendiges. Sie betrachtete den letzten Satz einen Moment.
+
+Dann schrieb sie darunter, in einer kleineren Schrift, die sie nur für Dinge verwendete, die sie nicht laut denken wollte:
+
+*Frage: Was kostet es mich, ihm zu vertrauen?*
+
+*Antwort: Dasselbe wie immer. Alles oder nichts. Es gibt keinen mittleren Preis.*
+
+Sie legte die Feder hin. Ließ die Tinte trocknen, wie ihr Vater es ihr beigebracht hatte – nie eilen, nie pusten, die Zeit arbeiten lassen. Dann faltete sie das Blatt in der Weise, die sie für diese Briefe immer verwendete: dreimal längs, zweimal quer, bis es so klein war, dass es in die hinterste Kammer des Federetuies passte, dort, wo die alten Briefe lagen, Dutzende davon, alle an dieselbe Adresse, alle unzustellbar.
+
+Sie schloss das Etui.
+
+Draußen war es jetzt dunkel. Der Hammer schwieg. Die Kälte hatte vollständig gesiegt über den kurzen Frühlingsvormittag, und der Schlamm vor der Kanzlei war wieder zu Eis geworden, fest und glatt und unerbittlich. Fatima stand auf, streckte die Schultern und löschte die Lampe.
+
+Die Dunkelheit war willkommen.
+
+Morgen früh, eine Stunde vor den anderen, würde der Junge kommen. Er würde seine Federn in Reihe legen. Er würde schweigen, wenn Schweigen das Richtige war. Er würde fragen, wenn Fragen das Richtige war. Und er würde Briefe kopieren, deren Inhalt er tragen musste wie ein Gewicht, das man nicht ablegen konnte, nur umverteilen.
+
+Fatima kannte dieses Gewicht.
+
+Sie trug es seit zwanzig Jahren.
 
 ---

@@ -1,0 +1,34 @@
+{
+  "chapter": "049",
+  "style": "stil-02-poetisch",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "049",
+      "scene": 1,
+      "ru_path": "books\\leben-arsenjews\\work\\scenes\\ru\\049\\scene-01.md",
+      "de_path": "books\\leben-arsenjews\\work\\scenes\\de\\stil-02-poetisch\\049\\scene-01.md",
+      "ru_words": 758,
+      "de_words": 901,
+      "findings": [
+        {
+          "severity": "WARNING",
+          "category": "long_sentence",
+          "message": "Langer Satz/Abschnitt ohne Satzende (204 Woerter).",
+          "chapter": "049",
+          "scene": 1,
+          "evidence": "",
+          "recommendation": "Lesbarkeit pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

@@ -44,17 +44,17 @@ Es half nicht viel: Der Kopf wusste es seit dem Vormittag; aber erst am Abend be
 
 Die Dämmerung kam früh im Frühling 1248 – ein graues Licht über der weiten Ebene; keine Bäume weit und breit; nur Gras im Wind und ferne Berge im Norden wie eine Mauer aus Schatten. Die Karawane lagerte um drei Feuer herum: eins für die Wachen; eins für die Kaufleute; eins für Arghun Aqa und seine Schreiber.
 
-Juvaini saß abseits am dritten Feuer und starrte ins Leere während seine Hände das Notizbuch öffneten – jenes kleine Lederbuch mit den Gedichten darin: Verse über Liebe über Abschied über das Licht auf ihrem Gesicht an jenem letzten Abend im Durchgang zwischen zwei Gebäuden als sie ‚dich‘ sagte statt ‚Euch‘ als sie ihm drei Worte gab als sie ging als er blieb als alles begann was jetzt endete endgültig unwiderruflich ohne Wiederkehr ohne Gnade ohne Ende außer diesem einen Ende das er nicht schreiben konnte weil es keine Form dafür gab kein Versmaß keinen Reim kein Bild keine Metapher nichts außer drei Sätzen eines Händlers im Wasser einer Furt:
+Juvaini saß abseits am dritten Feuer und starrte ins Leere, während seine Hände das Notizbuch öffneten – jenes kleine Lederbuch mit den Gedichten darin. Verse über Liebe, über Abschied. Über das Licht auf ihrem Gesicht an jenem letzten Abend im Durchgang zwischen zwei Gebäuden. Als sie so vertraut mit ihm sprach wie nie zuvor. Als sie ihm drei Worte gab. Als sie ging. Als er blieb. Als alles begann, was jetzt endete. Endgültig, unwiderruflich. Ohne Wiederkehr, ohne Gnade. Ohne Ende, außer diesem einen Ende, das er nicht schreiben konnte. Weil es keine Form dafür gab, kein Versmaß, keinen Reim, kein Bild, keine Metapher. Nichts außer drei Sätzen eines Händlers im Wasser einer Furt:
 
 Man sagt.
 In Filz.
 Im Fluss.
 
-Seine Hand hielt die Feder über dem Papier aber es kam nichts kein Wort kein Satz kein Anfang nur Leere nur Stille nur das ferne Geräusch des Windes im Gras draußen wo keine Bäume standen wo nichts stand außer dieser einen Wahrheit die er nicht fassen konnte:
+Seine Hand hielt die Feder über dem Papier, aber es kam nichts. Kein Wort, kein Satz, kein Anfang. Nur Leere, nur Stille. Nur das ferne Geräusch des Windes im Gras, draußen, wo keine Bäume standen, wo nichts stand außer dieser einen Wahrheit, die er nicht fassen konnte:
 
 Für diesen Satz gab es kein Versmaß.
 
-Er schloss das Notizbuch langsam sorgfältig wie ein Mann der etwas begräbt das nie wieder ans Licht kommen sollte – legte es neben sich auf den Boden zwischen Kieselsteinen ausgerissenen Grashalmen Ascheresten eines Feuers das langsam verglomm während ringsum Männer lachten aßen tranken weitermachten weil sie nicht wussten was er wusste weil sie nicht verstehen konnten dass eine Frau gestorben war heute oder gestern oder vorgestern dass man sie in Filz genäht hatte dass man sie in den Fluss geworfen hatte dass man ihre Stimme ausgelöscht hatte für immer weil sie zu viel wusste weil Güyük Khan Angst vor ihr hatte weil Macht bedeutete andere zum Schweigen zu bringen bevor man selbst verstummte weil dies das Gesetz des Reiches war seit jeher seit Dschingis seit Ögedei seit immer:
+Er schloss das Notizbuch. Langsam, sorgfältig, wie ein Mann, der etwas begräbt, das nie wieder ans Licht kommen sollte. Er legte es neben sich auf den Boden, zwischen Kieselsteine, ausgerissene Grashalme, Aschereste eines Feuers, das langsam verglomm. Ringsum lachten Männer, aßen, tranken, machten weiter. Weil sie nicht wussten, was er wusste. Weil sie nicht verstehen konnten, dass eine Frau gestorben war, heute oder gestern oder vorgestern. Dass man sie in Filz genäht hatte. Dass man sie in den Fluss geworfen hatte. Dass man ihre Stimme ausgelöscht hatte, für immer. Weil sie zu viel wusste. Weil Güyük Khan Angst vor ihr hatte. Weil Macht bedeutete, andere zum Schweigen zu bringen, bevor man selbst verstummte. Weil dies das Gesetz des Reiches war, seit jeher. Seit Dschingis. Seit Ögedei. Seit immer:
 
 Töten.
 Schweigen.
@@ -77,7 +77,7 @@ Die Arbeit.
 Dieser Satz würde ihn dreißig Jahre tragen durch Persien durch Bagdad durch Kriege Eroberungen Säuberungen Aufstände durch alles hindurch bis ans Ende seiner Tage:
 Dieser Satz würde ihn retten:
 Und dieser Satz würde ihn korrumpieren:
-Weil Arbeit bedeutete weiterzumachen als wäre nichts geschehen als wäre Fatima nie gewesen als hätte es diese Liebe nie gegeben als könnte man einfach weiterschreiben weitermachen weiterleben während andere starben während andere vergingen während andere zu Asche wurden zu Wasser wurden zu Nichts wurden:
+Weil Arbeit bedeutete, weiterzumachen, als wäre nichts geschehen. Als wäre Fatima nie gewesen. Als hätte es diese Liebe nie gegeben. Als könnte man einfach weiterschreiben, weitermachen, weiterleben. Während andere starben, während andere vergingen. Während andere zu Asche wurden, zu Wasser wurden, zu Nichts wurden:
 
 Aber genau darum ging es doch genau darum ging es immer:
 Überleben bedeutete vergessen:
@@ -138,7 +138,7 @@ _In dieser Welt._
 
 _Fatima._
 
-Er las diesen Brief dreimal langsam sorgfältig jedes Wort abwägend jeden Satz prüfend jede Zeile auswendiglernend dann faltete er das Papier zusammen steckte es zurück ins Notizbuch legte beide Hände darüber schloss die Augen atmete tief durch sagte leise unhörbar für jeden außer sich selbst:
+Er las diesen Brief dreimal. Langsam, sorgfältig. Jedes Wort abwägend, jeden Satz prüfend, jede Zeile auswendig lernend. Dann faltete er das Papier zusammen, steckte es zurück ins Notizbuch, legte beide Hände darüber, schloss die Augen, atmete tief durch, sagte leise, unhörbar für jeden außer sich selbst:
 
 „Ich werde weiterschreiben.
 Für dich.
@@ -150,20 +150,20 @@ Ich werde weiterschreiben.
 Ich werde zeugen.
 Ich werde bleiben. “
 
-Dann löschte er die Lampe legte sich hin starrte in die Dunkelheit lauschte dem Wind draußen im Gras fern fern fern wie eine Stimme aus einer anderen Welt aus einer anderen Zeit aus einem anderen Leben das jetzt endgültig vorbei war unwiderruflich unwiederbringlich verloren für immer:
+Dann löschte er die Lampe, legte sich hin, starrte in die Dunkelheit, lauschte dem Wind draußen im Gras. Fern, fern, fern, wie eine Stimme aus einer anderen Welt, aus einer anderen Zeit, aus einem anderen Leben, das jetzt endgültig vorbei war. Unwiderruflich, unwiederbringlich, verloren für immer:
 
-Am nächsten Morgen ritt Juvaini weiter nach Westen ohne zurückzublicken ohne stehenzubleiben ohne etwas anderes zu tun als seine Arbeit zu verrichten seinen Dienst zu tun seine Pflicht zu erfüllen genau wie Arghun Aqa es ihm geraten hatte genau wie Fatima es gewollt hätte genau wie alle Überlebenden dieses Reiches handelten seit jeher seit Dschingis seit Ögedei seit immer:
+Am nächsten Morgen ritt Juvaini weiter nach Westen. Ohne zurückzublicken, ohne stehenzubleiben, ohne etwas anderes zu tun, als seine Arbeit zu verrichten, seinen Dienst zu tun, seine Pflicht zu erfüllen. Genau wie Arghun Aqa es ihm geraten hatte. Genau wie Fatima es gewollt hätte. Genau wie alle Überlebenden dieses Reiches handelten, seit jeher. Seit Dschingis, seit Ögedei, seit immer:
 
 Sie arbeiteten weiter:
 Sie lebten weiter:
 Sie vergaßen weiter:
 
-Bis eines Tages auch sie sterben würden still leise unspektakulär mitten in der Arbeit mitten im Satz mitten im Leben:
+Bis eines Tages auch sie sterben würden. Still, leise, unspektakulär. Mitten in der Arbeit, mitten im Satz, mitten im Leben:
 
 So wie Fatima gestorben war heute oder gestern oder vorgestern:
 In Filz genäht:
 In den Fluss geworfen:
-Ohne Zeugen ohne Grab ohne Gebet:
+Ohne Zeugen, ohne Grab, ohne Gebet:
 
 Nur drei Sätze eines Händlers im Wasser einer Furt:
 
@@ -175,7 +175,7 @@ Und dann Stille:
 
 Die ganze lange Stille des restlichen Lebens:
 
-Die Karawane zog weiter nach Westen Richtung Persien Richtung Bagdad Richtung Zukunft Richtung Vergessen Richtung allem was kommen würde nach diesem Tod nach dieser Liebe nach diesem Ende aller Enden aller Anfänge aller Geschichten aller Chroniken aller Bücher aller Worte aller Menschen aller Zeiten aller Welten aller Götter aller Dämonen aller Engel aller Bestien all dessen was war all dessen was ist all dessen was sein wird wenn nichts mehr bleibt außer dem einen letzten Satz dem einzigen Satz dem ewigen Satz dem Satz den niemand je lesen wird weil niemand da sein wird um ihn zu lesen niemand da sein wird um ihn zu verstehen niemand da sein wird um. Ihn zu bewahren wenn alles vorbei ist wenn nichts mehr bleibt außer Wind außer Gras außer Stille außer endloser endloser endloser Stille unter einem grauen Himmel über einer weiten Ebene fern fern fern von allem was jemals wichtig war von allem was jemals zählte von allem was jemals Liebe hieß zwischen zwei Menschen zwischen zwei Herzen zwischen zwei Seelen zwischen zwei Schreibern zwischen zwei Federn zwischen zwei Worten zwischen zwei Welten zwischen zwei Leben jetzt tot jetzt fort jetzt verschwunden unwiederbringlich unwiderruflich verloren verloren verloren für immer amen amen amen so sei es so soll es sein so muss es sein so bleibt es ewiglich amen amen amen amen
+Die Karawane zog weiter nach Westen. Richtung Persien, Richtung Bagdad, Richtung Zukunft, Richtung Vergessen. Richtung allem, was kommen würde nach diesem Tod, nach dieser Liebe, nach diesem Ende. Aller Enden, aller Anfänge, aller Geschichten, aller Chroniken. Aller Bücher, aller Worte, aller Menschen, aller Zeiten. Aller Welten, aller Götter, aller Dämonen, aller Engel, aller Bestien. All dessen, was war, all dessen, was ist, all dessen, was sein wird, wenn nichts mehr bleibt außer dem einen letzten Satz. Dem einzigen Satz, dem ewigen Satz. Dem Satz, den niemand je lesen wird. Weil niemand da sein wird, um ihn zu lesen. Niemand da sein wird, um ihn zu verstehen. Niemand da sein wird, um ihn zu bewahren. Wenn alles vorbei ist. Wenn nichts mehr bleibt außer Wind, außer Gras, außer Stille. Außer endloser, endloser, endloser Stille unter einem grauen Himmel über einer weiten Ebene. Fern, fern, fern von allem, was jemals wichtig war. Von allem, was jemals zählte. Von allem, was jemals Liebe hieß. Zwischen zwei Menschen, zwei Herzen, zwei Seelen. Zwei Schreibern, zwei Federn, zwei Worten, zwei Welten, zwei Leben. Jetzt tot, jetzt fort, jetzt verschwunden. Unwiederbringlich, unwiderruflich, verloren. Verloren, verloren, für immer. Amen, amen, amen. So sei es, so soll es sein, so muss es sein. So bleibt es ewiglich. Amen, amen, amen, amen.
 
 Amen
 

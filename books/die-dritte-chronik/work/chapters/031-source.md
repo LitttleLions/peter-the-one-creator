@@ -1,315 +1,301 @@
-## Der Handel
 
-Die Wachen kamen in der Stunde vor Sonnenaufgang, als die Kälte am tiefsten stand.
+Der Morgen war grau, als sie kamen.
 
-Fatima hörte ihre Schritte im Schnee, bevor sie das Zelt erreichten. Vier Männer, vielleicht fünf. Sie hatten nicht versucht, leise zu sein. Das war die einzige Höflichkeit, die sie ihr noch gewährten: die Ankündigung.
+Kein Hufschlag, kein Rufen, kein Klirren von Waffen – nur Schritte auf gefrorenem Lehm, gleichmäßig, abgemessen, wie das Klopfen eines Schreibers, der eine Liste abarbeitet. Fatima hörte sie, bevor sie die Zeltwand berührten, und sie legte die Feder hin, ohne dass ihre Hand zitterte.
 
-Sie saß auf der Matte, die Hände im Schoß gefaltet, und sah zur Zeltöffnung. Der Wind bewegte den Filz, ließ das Licht der Fackeln flackern. Sie hatte seit Stunden nicht geschlafen. Sie hatte gewartet.
+Sie hatte darauf gewartet. Seit dem Tag des Kuriltai. Seit dem Tag, an dem Güyük die Hand seines Vaters auf dem Thron gesehen hatte und begonnen hatte, Blicke zu werfen, die nicht mehr nur kalt waren, sondern berechnend.
 
-Der Vorhang teilte sich.
+Vier Männer traten ein. Der erste trug ein hölzernes Täfelchen mit einem Namen darauf – ihren Namen, in sauberer uighurischer Schrift, wie eine Frachtliste. Der zweite hielt ihre Arme, nicht hart, sondern wie ein Diener den Mantel hält. Der dritte prüfte ihre Hände, ihre Ärmel, ihren Gürtel, mit der beiläufigen Sorgfalt eines Mannes, der keine Waffe erwartete, sondern nur Ordnung. Der vierte blieb am Eingang stehen, den Blick auf die Zeltecke gerichtet, in der das Federetui ihres Vaters lag.
 
-Der Anführer war ein Mann mittleren Alters mit einem Narbengesicht und ruhigen Augen. Er trug keine Rüstung, nur den schweren Mantel der Palastwache und ein kurzes Schwert an der Hüfte. Hinter ihm standen drei weitere Männer, einer mit einer Schriftrolle in der Hand.
+Nein, dachte Fatima, bevor sie es dachte. Das Federetui lag bei Shigi. In der Truhe. Unter dem Siegel.
 
-„Fatima aus Chorasan“, sagte er. Keine Frage. Eine Feststellung.
+Sie ließ sich abführen. Die Straße zwischen den Zelten war menschenleer, so leer, wie Karakorum nur an einem einzigen Tag im Jahr war: am Tag nach einem Kuriltai, wenn die Boten geritten, die Fürsten abgereist, die Fragen gestellt und beantwortet waren. Der Wind trug den Geruch von Schafsfett und kaltem Rauch. Über den Dächern hing eine Sonne, die keine Wärme mehr hatte.
 
-„Ja. “
+Sie ging mit, wie man zu einem Termin geht. Nicht wie eine Gefangene, nicht wie eine Verurteilte, sondern wie eine Frau, die ihrer Arbeit nachgeht.
 
-„Du kommst mit uns. “
+Vor dem Palast standen zwei Wachen, die sie nicht ansahen. Das war ein Zeichen. Wer sie ansah, würde sich später erinnern müssen. Wer sie nicht ansah, würde später sagen können, er habe nichts gesehen.
 
-Sie erhob sich langsam, strich den Rock glatt, griff nach ihrem Umhang. Kein Widerstand. Keine Frage nach dem Grund. Die Männer sahen sie an, als erwarteten sie etwas – einen Fluch, einen Zusammenbruch, eine Flucht.
+Drinnen war es warm und still. Ein langer Gang, mit Filz ausgelegt, an dessen Ende eine Tür mit zwei Riegeln. Die Wachen schoben die Riegel zurück, öffneten die Tür, hielten sie, warteten, bis Fatima eingetreten war, und schlossen sie wieder.
 
-Fatima band den Umhang um die Schultern.
+Der Raum war klein. Ein Tisch. Zwei Hocker. Eine Lampe, die noch nicht brannte, aber bereitstand, mit frischem Öl. An der Wand ein Ständer mit Aktenbündeln, in Leder gewickelt, jedes mit einem Etikett versehen. Es war ein sauberer Raum. Es war ein Raum, in dem gearbeitet wurde, nicht gefoltert.
 
-„Ich bin bereit. “
+Noch nicht, dachte Fatima. Sie hörte ihre eigene Stimme in ihrem Kopf und fand sie trocken, fast amüsiert, und wusste, dass das die Art war, wie Angst sich in ihr verkleidete, seit zwanzig Jahren.
 
-Der Anführer nickte einmal kurz und trat zur Seite. Sie ging an ihm vorbei durch den Vorhang hinaus in die Kälte des Morgens.
+Sie setzte sich nicht. Sie blieb stehen, neben dem Hocker, wie es ihr zustand.
 
-Der Himmel war noch schwarz, aber im Osten zeigte sich ein schmaler Streifen Grau. Der Schnee knirschte unter ihren Füßen. Die Wachen bildeten einen lockeren Kreis um sie, nicht bedrohlich, aber präsent: eine Formation für den Fall einer Flucht.
+Dann öffnete sich die Tür, und Güyük trat ein.
 
-Fatima dachte an ihr Zelt zurück – an das Federetui unter der losen Matte, an das Filzbündel mit den Briefen an die Tote. Sie hatte beides nicht versteckt; sie hatte es liegen lassen, offen sichtbar für jeden Suchenden.
+Er trug keinen Prunk. Er trug einen einfachen Kaftan, dessen Pelzbesatz schlicht war, und an seinem Gürtel hing kein Säbel, sondern nur ein kleines Messer, wie es jeder Reiter trug. Er hätte ein Quartiermeister sein können, ein Verwalter der Weiden, ein Mann, der Wege absteckt. Nichts an ihm war kaiserlich.
 
-Das war ihre letzte Entscheidung gewesen: nichts zu verbergen.
+Er sah sie an. Einmal. Kurz und ganz.
 
-Sie gingen durch das Lager der Diener und Schreiber zwischen den schlafenden Zelten hindurch zum Hauptbezirk des Palastes. Ein Feuer brannte in einer Eisenschale vor dem Verwaltungsgebäude; zwei Wachen wärmten sich die Hände über den Flammen. Als sie Fatima sahen, traten sie zurück und senkten den Blick.
+„Setz dich“, sagte er.
 
-Der Anführer führte sie durch einen Seiteneingang in einen langen Korridor aus Stein und Filzdecken. Die Luft war schwer vom Geruch von ranzigem Fett und altem Rauch. Lampen brannten in Nischen entlang der Wand; ihr Licht war schwach und zögerlich.
+Fatima setzte sich. Nicht, weil sie aufgefordert wurde, sondern weil sie nichts anderes zu tun hatte.
 
-Am Ende des Korridors öffnete sich ein Raum: groß genug für zwanzig Menschen, aber leer bis auf einen Tisch aus lackiertem Holz und drei Hocker davor.
+Güyük blieb stehen. Er ging zu dem Ständer, zog ein Bündel heraus, legte es auf den Tisch, zog ein zweites heraus, legte es daneben. Er tat es nicht schnell, nicht langsam, sondern in der Bewegung eines Mannes, der eine Verteidigung vorbereitet, und Fatima verstand, dass dies kein Verhör war, wie die Geschichten es malten – kein Brüllen, kein Schreien, kein Feuer. Dies war Archivarbeit.
 
-Auf dem Tisch lagen Papierstapel – Aktenbündel mit roten Bändern verschlossen – daneben ein Tintenfass mit getrockneter Tinte am Rand und mehrere Federn in einem Halter aus Bein.
+„Köden“, sagte Güyük, ohne aufzusehen. „Mein Bruder. Er hat in seinem Fieber gesprochen. Zwei Wochen lang, drei Wochen lang. Die Heiler haben es aufgeschrieben. Sein Schreiber hat es aufgeschrieben. Seine Amme hat es aufgeschrieben. Vier Aufzeichnungen.“
 
-Fatima erkannte den Raum nicht wieder; sie war nie hier gewesen. Aber sie erkannte die Methode: ein neutraler Ort ohne persönliche Gegenstände ohne Fenster ohne Ablenkung.
+Er legte ein drittes Bündel daneben.
 
-„Setz dich“, sagte der Anführer.
+„Alle vier“, sagte er, „nennen deinen Namen.“
 
-Sie setzte sich auf den mittleren Hocker und legte die Hände auf die Knie.
+Er hob den Kopf und sah sie an. Sein Blick war nicht feindlich. Er war der Blick eines Mannes, der einen Konvoi mustert und zählt, was fehlt.
 
-Die Wachen blieben an der Tür stehen; der Anführer ging hinaus ohne ein weiteres Wort und ließ sie allein im flackernden Licht der Lampe zurück.
+„Fünf weitere Zeugen“, fuhr er fort, „haben ausgesagt, dass du in den Zelten der Regentin Worte gesprochen hast, die man nicht spricht. Dass du Briefe geschrieben hast, die keine Schrift tragen. Dass du in der Nacht des dreizehnten Tages im Winter des Ochsen am Bett meines Bruders gestanden hast, ohne gerufen worden zu sein.“
 
-Die Stille dauerte lange genug um zu wirken – genau berechnet genau dosiert genau so wie es in den Handbüchern stand die Fatima selbst einmal gelesen hatte als sie Töregenes Bibliothek ordnete: *Lass ihn warten bis seine Angst größer ist als seine Hoffnung. *
+Er tippte mit einem Finger auf das erste Bündel.
 
-Aber Fatima hatte keine Angst mehr und keine Hoffnung mehr; was blieb war nur noch Geduld – eine Geduld die härter war als jeder Verhörraum weil sie nichts mehr zu verlieren hatte außer diesem letzten Satz ihrer Geschichte den niemand haben würde solange sie atmete und wenn sie starb dann starb er mit ihr still wie ein Kind das nie geboren wurde still wie ihre Schwester still wie alles was gut gewesen war in Chorasan bevor die Reiter kamen bevor das Feuer kam bevor das Schweigen kam das seitdem in ihr wohnte still wie ein Grab das nie geöffnet wird weil niemand mehr weiß dass es existiert still wie ihre eigene Stimme wenn sie zu ihrer toten Schwester sprach in Briefen die niemand liest außer ihr selbst außer der Toten außer dem Wind der über die Steppe weht ohne Ziel ohne Erinnerung ohne Ende –
+„Neun Aussagen. Vier Fieberworte. Eine Stadt, die dich kennt. Chorasan. Sie nennen dich dort die Hexe.“
 
-Die Tür öffnete sich wieder.
+Er wartete. Fatima sagte nichts.
 
-Güyük Khan trat ein gefolgt von zwei Schreibern mit leeren Gesichtern und einem großen Mann mit breiten Schultern dessen Hände dick waren von Narbengewebe – einem Henker oder einem Folterknecht oder beidem je nachdem was man brauchte um einen Geständnis zu erzwingen das man bereits geschrieben hatte bevor man begann zu fragen weil Wahrheit im Reich des Khans nie etwas anderes gewesen war als eine Frage wer stärker lügt wenn es darauf ankommt wer lauter schreit wenn es wehtut wer schneller stirbt wenn es Zeit wird zu gehen –
+„Die Anklage lautet auf Verhexung“, sagte Güyük. „Nicht auf Gift. Gift wäre ein Wort, das einen Prozess verlangt. Verhexung ist ein Wort, das einen Urteilsspruch verlangt. Siehst du den Unterschied?“
 
-Güyük setzte sich nicht hin.
+„Ja“, sagte Fatima.
 
-Er blieb stehen vor dem Tisch drehte eine Akte um las einige Zeilen dann sah er auf direkt in ihre Augen ohne Blinzeln ohne Zögern ohne jede Spur von Zweifel:
+Es war das erste Wort, das sie sprach, und es klang ruhig in dem kleinen Raum, ruhig wie ein Stein, der in einen Brunnen fällt.
 
-„Fatima aus Chorasan“, sagte er leise „Tochter eines Kopisten aus Mashhad gefangen 1221 beim Fall deiner Stadt zwanzig Jahre Dienst im Haushalt meiner Mutter seit 1241 erste Schreiberin des Regentschaftsrates unter Töregene Khatun –“
+Güyük nickte, als hätte sie eine Rechnungsfrage beantwortet. Dann ging er zur Tür, öffnete sie, und sagte zwei Sätze zu den Wachen draußen. Die Tür schloss sich. Die Schritte entfernten sich.
 
-Er hielt inne legte eine zweite Akte neben die erste öffnete sie:
+Er kehrte zum Tisch zurück. Er setzte sich jetzt, zum ersten Mal, auf den zweiten Hocker, und er legte die Hände flach auf das Holz.
 
-„Angeklagt wegen Verhexung des Prinzen Köden meines Bruders aufgrund seiner Fieberworte vom Frühjahr 1244 sowie wegen Hochverrats durch Verschwörung mit Feinden des Reiches während deiner Zeit als Schreiberin meiner Mutter –“
+„Die Schreiber sind fort“, sagte er. „Die Akten sind geschlossen. Was jetzt gesprochen wird, bleibt zwischen dir und mir. Ich habe eine Frage. Eine einzige. Danach entscheide ich, was aus dir wird.“
 
-Er legte eine dritte Akte daneben schlug sie auf:
+Fatima sah ihn an. Sie wartete.
 
-„Aussagen von vier Zeugen darunter zwei Dienerinnen deines eigenen Haushalts: du habest mehrfach Blut von Schafen geopfert du habest fremde Namen gerufen bei Neumond du habest Amulette getragen aus Knochen von Feinden des Reiches –“
+„1241“, sagte Güyük. „Der Becher. Du warst im Zelt.“
 
-Er klappte alle drei Akten zu ordnete ihre Ränder parallel zum Tischrand:
+Er sagte es nicht als Frage. Er sagte es als Tatbestand, wie ein Soldat einen Weidegrund nennt.
 
-„Du erkennst diese Anklagepunkte?“
+„Meine Leute haben den Diener verfolgt“, fuhr er fort. „Bis zu einem Haus. Bis zu einem Haus, das ich nicht anfassen kann. Ein Haus, vor dessen Tür ich stehe, wie vor einer Wand, die aus Luft gebaut ist, aber undurchdringlich. Verstehst du, was das bedeutet?“
 
-Fatima sah ihn an ohne zu sprechen ohne Bewegung ohne jedes Zeichen von Furcht oder Trotz oder Unterwerfung einfach nur still wie Wasser das so lange steht dass es nicht mehr weiß ob es jemals fließen wird ob es jemals anders sein wird als diese glatte unbewegliche Oberfläche unter der nichts mehr lebt nichts mehr atmet nichts mehr wartet –
+„Ja“, sagte Fatima.
 
-Güyük wartete ebenfalls.
+„Es bedeutet“, sagte Güyük, „dass dieser Diener nicht der Sohn eines Hirten war. Es bedeutet, dass hinter ihm jemand steht. Und ich habe lange genug in diesem Hof gedient, um zu wissen, wer hinter einem Mann steht, der nicht gefasst werden kann, wenn dieser Mann aus dem Land kommt, aus dem er kommt.“
 
-Ein langer Atemzug verging zwei drei vier –
+Er lehnte sich vor. Der Abstand zwischen ihnen war jetzt kurz, so kurz, dass sie die Linien um seine Augen sah, die feinen Spuren von dreißig Feldzügen und zehn Jahren Warten.
 
-Dann sprach Fatima:
+„Du hast sein Gesicht gesehen“, sagte er. „Du hast ihn gesehen, an dem Abend, an dem mein Vater starb. Du hast ihn gesehen, an anderen Tagen, an denen er kam. Du kennst seinen Namen. Du kennst den Namen dessen, der ihn sandte. Du kennst das Haus, an das ich nicht herankomme.“
 
-„Ja. “
+Er hielt inne. Dann sagte er, langsam, jedes Wort gesetzt wie ein Stein in eine Mauer:
 
-Güyük nickte knapp setzte sich endlich auf den freien Hocker gegenüber legte beide Hände flach auf den Tisch zwischen ihnen:
+„Nenne den Namen. Bezeuge vor den Prinzen, dass Toluis Haus meinen Vater vergiftete. Und du lebst. Reich. Frei. Überall, nur nicht hier. Du kannst nach Buchara gehen. Nach Hamadan. Nach Bagdad, wenn du willst, davonlaufen mit Gold, das dich zeitlebens nährt. Du kannst in einem Garten sitzen, bis du alt bist, und niemand wird je deinen Namen aussprechen. Das ist mein Handel.“
 
-„Gut. “ Seine Stimme wurde ruhiger sachlicher fast wie ein Quartiermeister der Vorräte prüft bevor er marschiert: „Dann können wir sprechen wie Vernünftige Menschen. “
+Fatima hörte das Wort.
 
-Er winkte; einer der Schreiber trat vor stellte einen kleinen Kupferkessel auf den Boden neben dem Tisch entzündete darunter ein Feuer mit einem Stück Zunder dann goß Wasser aus einem Lederbeutel hinein während der andere Schreiber zwei kleine Schalen aus Ton hervorholte:
+Gold. Garten. Überall, nur nicht hier. Die Wörter klangen in ihr nach, wie Wörter manchmal nachklingen, wenn sie in einem Ton gesprochen werden, den man seit langem kennt. Es war derselbe Ton, den Töregene gehabt hatte, an jenem Abend mit dem Armreif und dem Elfenbeinkästchen. Derselbe Ton, in dem die Mächtigen ihre Karten ausbreiteten, offen, ohne Furcht, weil sie wussten, dass sie den Einsatz gewinnen würden.
 
-Teezeremonie mitten im Verhörraum mitten im Morgengrauen mitten in diesem Spiel das längst entschieden war bevor es begann weil Güyük nicht hier war um herauszufinden ob Fatima schuldig war sondern um herauszufinden ob er ihren Tod nutzen konnte um damit etwas Größeres zu erreichen etwas Tieferes etwas das seinen Vater rächen würde seinen Thron sichern würde seinen Namen unsterblich machen würde unter denen die kommen nach ihm –
+Er will die Wahrheit nicht, dachte Fatima. Er will meine Munition.
 
-Fatima nahm die Schale als man sie ihr reichte trank einen Schluck Tee warm bitter dünn wie alles was man am Hofe gab wenn man geben musste aber nichts geben wollte außer dieser Geste dieser Höflichkeit dieser letzten Verbeugung vor den Formen bevor man begann zu töten –
+Sie sprach nicht.
 
-Güyük trank ebenfalls stellte seine Schale ab dann sprach er:
+Güyük wartete. Er kannte das Warten. Er war ein Mann, der drei Jahre auf einen Thron gewartet hatte, und er hatte sich in dieser Zeit nicht verändert, sondern nur geschärft. Er wartete, wie ein Bogenschütze wartet, der weiß, dass die Sehne hält.
 
-„Ich habe deine Akten gelesen Fatima. “ Er betonte ihren Namen langsam absichtlich schwer: „Jeden Brief jede Notiz jedes Protokoll das du je geschrieben hast für meine Mutter für ihren Rat für ihre Boten für ihre Befehle ich habe alles gelesen was meine Leute finden konnten in fünf Jahren deiner Arbeit am Hof meines Vaters am Hof meiner Mutter am Hof dieses Reiches das ich jetzt regiere –“
+Fatima sah auf den Tisch. Auf die Akten. Auf die Schnüre, mit denen sie gebunden waren. Auf die Etiketten, in sauberer Schrift. Wer hatte sie geschrieben? Ein Schreiber in der Nacht, bezahlt, gefüttert, still. Wer hatte die Fieberworte aufgezeichnet? Ein Heiler, der seine eigene Furcht niedergeschrieben hatte, um sie loszuwerden. Wer hatte die Zeugen ausgewählt? Männer, die etwas zu verlieren hatten.
 
-Er hielt inne beugte sich vor über den Tisch seine Stimme senkte sich fast zum Flüstern:
+Die Wahrheit war aus Papier, das wusste sie. Aus Papier, aus Tinte, aus Schnüren, aus Etiketten. Und sie, Fatima, war der letzte Faden, an dem dieses Papier noch hing.
 
-„Und ich sage dir eines: Du bist die beste Schreiberin dieses Reiches seit Yelü Chucai tot ist vielleicht sogar besser weil du verstehst was Macht ist weil du verstehst dass Worte niemals neutral sind niemals unschuldig niemals bloße Werkzeuge sondern immer Waffen immer Fallen immer Kompromisse zwischen dem was gesagt werden muss und dem was gesagt werden darf –“
+„Nein“, sagte sie.
 
-Er lehnte sich zurück lächelnd aber nicht freundlich sondern kalt präzise messend:
+Güyük blinzelte nicht. „Nein, du warst nicht im Zelt?“
 
-„Schade dass du sterben musst. “
+„Nein, ich nenne den Namen nicht.“
 
-Fatima trank noch einen Schluck Tee stellte die Schale ab dann sprach sie zum ersten Mal seit Stunden außerhalb ihres eigenen Kopfes laut klar ruhig wie eine Antwort auf eine Frage deren Antwort längst feststeht:
+Er lehnte sich zurück. Zum ersten Mal bewegte sich etwas in seinem Gesicht, ein kurzer Zug, wie ein Wind über Wasser, den man nicht festhalten kann.
 
-„Warum bin ich hier?“
+„Du hast gut gehört“, sagte er. „Reich. Frei. Überall, nur nicht hier. Das ist mehr, als Töregene dir je gegeben hat. Töregene hat dich gekauft. Ich biete dir an, dich freizukaufen. Was ist der Unterschied?“
 
-Güyük zog eine Augenbraue hoch schien kurz überrascht dann nickte er respektvoll fast unwillkürlich:
+„Töregene hätte mich nie freigelassen“, sagte Fatima. „Du kannst es, weil ich für dich keinen Wert habe, sobald ich gesprochen habe. Ein Zeuge, der gesprochen hat, ist wertlos. Ein Zeuge, der schweigt, ist eine Gefahr. Du weißt das. Du würdest mich töten, sobald das Wort geschrieben steht.“
 
-„Weil ich dir einen Handel anbieten will. “ Er stand auf trat hinter seinen Stuhl legte beide Hände auf dessen Lehne blickend über ihren Kopf hinweg ins Leere während seine Stimme wieder lauter wurde fester bestimmter:
+Güyük sah sie lange an. Dann tat er etwas, das sie nicht erwartet hatte. Er lächelte. Nicht breit, nicht warm, aber echt, das Lächeln eines Mannes, der eine gute Rechnung sieht.
 
-„1241 mein Vater stirbt während eines Trinkgelages du bist im Zelt du hast gesehen was geschah meine Leute haben mich informiert mein Onkel hat mich informiert sogar meine Mutter hat mir angedeutet dass jemand war dass etwas geschah dass mein Vater nicht einfach gestorben ist sondern getötet wurde vergiftet ermordet von jemandem dessen Name noch immer nicht genannt wurde noch immer verschwiegen wird noch immer geschützt wird durch Schweigen durch Lügen durch Tod –“
+„Ja“, sagte er. „Wahrscheinlich würde ich das. Aber die Wahrscheinlichkeit, getötet zu werden, ist geringer als die Gewissheit, getötet zu werden. Du bist eine kluge Frau. Du solltest rechnen können.“
 
-Er sah wieder direkt an diesmal intensiver fordernder drohender:
+Fatima nickte. „Ich rechne“, sagte sie.
 
-„Du hast sein Gesicht gesehen Fatima. “ Keine Frage diesmal keine Möglichkeit zur Ausflucht nur diese Feststellung diese Behauptung dieses Wissen das Güyük besaß seit Jahren besaß seit jenem Tag als Shigi Qutuqu ihm indirekt bestätigt hatte dass Fatima mehr wusste als jeder andere Diener am Hof seines Vaters mehr wusste als seine eigene Mutter vielleicht sogar mehr wusste als all ihre Spione all ihre Agenten all ihre Informanten zusammengenommen –
+„Und du rechnest falsch“, sagte Güyük. Er stand auf, ging zum Ständer, zog ein viertes Bündel heraus, öffnete es, zog ein Blatt heraus und hielt es so, dass sie die Schrift sehen konnte. Es war ihre Schrift. Ihre eigene Hand, aus einem Jahr, dessen Tinte noch frisch gewesen war, als sie es geschrieben hatte.
 
-Güyük kam langsam um den Tisch herum blieb direkt vor ihr stehen so nah dass sein Mantel ihr Knie streifte beugt sich herab seine Stimme kaum noch hörbar kaum noch Atem kaum noch Fleisch sondern Geist Wille Drohung Versprechen alles zugleich gefaltet ineinander verwoben unentwirrbar wie Seile aus Seide deren wahre Festigkeit man erst erkennt wenn man versucht zu reißen daran zu zerreißen daran zu zerbrechen –
+„Ein Brief der Regentin“, sagte er, „an den Gouverneur von Buchara. Über die Wasserrechte eines Dorfes, das nicht existiert. Ein Deckbrief für etwas anderes. Ich habe einen Schreiber, der weiß, wie man Deckbriefe liest. Er hat den zweiten Text gefunden. Zwischen den Zeilen. Er hat ihn abgeschrieben. Willst du wissen, was drinsteht?“
 
-„Nenne mir seinen Namen“ flüsternd jetzt „Bezeuge vor den Prinzen des Reiches dass Toluis Haus meinen Vater vergiftete bezeuge dass Sorkaktani Khatun ihren Schwager töten ließ bezeuge dass Batu mein Cousin mein Feind mein Rivale wusste davon profitierte davon sein Teil fordernde dafür zahlende dafür planende dafür bezahlende dafür sterbende dafür tötende dafür herrschende dafür lachende hinter seinem goldenen Zelt seiner goldenen Armee seiner goldenen Macht über Russland über Bulgarien über all jene Länder deren Namen ich kenne deren Grenzen ich kenne deren Herrscher ich kenne deren Schwäche ich kenne weil mein Vater sie mir zeigte bevor er starb bevor er vergiftet wurde bevor er starb –“
+Fatima schwieg.
 
-Er richtete sich auf trat zurück breitete beide Arme aus fast theatralisch fast feierlich fast lächerlich wäre seine Stimme nicht so ernst so schwer so tödlich gewesen:
+„Es steht“, sagte Güyük, „eine Warnung. An jemanden. Namenlos. Eine Warnung, dass gewisse Dinge nicht weitergegeben werden dürfen. Du hast diese Warnung geschrieben. In wessen Auftrag? Töregenes? Oder in deinem eigenen?“
 
-„Nenne diesen Namen Fatima nenne diesen Namen vor mir vor meinen Prinzen vor meinem Hof nenne ihn einmal laut einmal öffentlich einmal unwiderruflich –“
+Er ließ das Blatt sinken.
 
-Pause länger diesmal tiefer diesmal voller Bedeutung voller Gewicht voller Konsequenz:
+„Das ist der Grund, weshalb ich mit dir rede, statt dich den Schreibern zu geben“, sagte er. „Nicht deinetwegen. Wegen dieser Warnung. Sie zeigt mir, dass du weißt, was gewisse Dinge sind. Und dass du weißt, was passiert, wenn sie ans Licht kommen. Ich brauche einen Zeugen, der weiß, was er bezeugt. Einen, der glaubwürdig ist. Einen, der nicht nur sagt: ich habe gehört, ich habe gesehen, ich habe geglaubt. Einen, der die Namen nennen kann und die Namen kennt.“
 
-„Und du lebst reich frei überall wo du willst nur nicht hier nirgends hier nirgends wo mein Name regiert wo meine Macht gilt wo meine Gnade endet weil ich dich nie wiedersehen werde nach diesem Tag niemals wiedersehen werde niemals wissen werde ob du lebst ob du stirbst ob du glücklich bist ob du leidest weil es mir gleichgültig sein wird weil ich erreicht haben werde was ich brauche was mein Vater verdient was dieses Reich braucht um gerecht zu sein wahrhaftig rein endlich frei von Lüge frei von Betrug frei von jenen Giftmischem denen kein Eid heilig ist kein Wort bindend kein Leben kostbar außer ihrem eigenen –“
+„Und ich“, sagte Fatima.
 
-Er schwieg endlich wartete endlich fordernd endlich bereit zum Empfang ihrer Antwort bereit zum Abschluss ihres Paktes bereit zum Vollzug ihres Handels bereit zur Besiegelung ihres gemeinsamen Sieges über Toluis Haus über Sorkaktani über Batu über alle Feinde seines Vaters seines Thrones seines Namens –
+„Und du“, sagte Güyük.
 
-Fatima sah ihn an lange genug um sicherzustellen dass Güyük begriff dass dies kein Zögern war keine Furcht keine Unsicherheit sondern einfach nur Stille Sammlung Entscheidung bevor sie sprach denn was nun folgte würde unwiderruflich sein würde unvergesslich bleiben würde zwischen ihnen stehen bis einer von ihnen tot wäre oder beide oder niemand weil niemand je erfahren würde was wirklich geschah in dieser Nacht dieses Jahres dieser Ewigkeit namens Karakorum namens Macht namens Überleben namens Tod –
+Er setzte sich wieder. Er sah sie an, jetzt nicht mehr als Quartiermeister, sondern als Mann, der eine Mauer nicht einreißen wollte, sondern durchschreiten.
 
-Sie sprach leise aber klar deutlich unmissverständlich jedes Wort einzeln gesetzt gehauen gemeißelt wie Schriftzeichen in Stein wie Siegelwachs unter Druck wie Blutspuren auf Schnee:
+„Letzte Frage“, sagte er. „Warum nicht? Warum nimmst du das Gold nicht, den Garten nicht, das Leben nicht? Jeder Mensch will etwas. Ich habe mit Mördern gesprochen, mit Heiligen, mit Kaisern, mit Bettlern. Jeder Mensch will etwas. Du willst etwas. Was?“
 
-„Nein. “
+Fatima sah ihn an. Sie sah ihn ganz.
 
-Güyük zuckte nicht zusammen änderte keine Miene blieb unbewegt reglos starr aber etwas veränderte sich hinter seinen Augen etwas Kleines kaum Sichtbares fast Unmerkliches: Enttäuschung vielleicht Überraschung vielleicht Respekt vielleicht Hass vermischt miteinander untrennbar ineinander fließend während seine Stimmlage gleich blieb ruhig kontrolliert gemessen wie bisher bisher weiterhin immerfort scheinbar unbeeindruckt scheinbar ungerührt scheinbar unbesiegt –
+Und dann sagte sie, zum ersten Mal, nicht „nein“, sondern etwas anderes.
 
-Aber Fatima kannte diese Maske denn trug selbst dieselbe seit Jahren Jahrzehnten seit jenem Tag 1221 als ihre Schwester starb unter mongolischen Schwertern während Fatima lebend gefangen genommen weggebracht verkauft verschenkt benutzt verschlissen verwaltet verbraucht vernichtet wiederbelebt weitergeschleppt durch zwanzig Jahre Dienst zwanzig Jahre Schweigen zwanzig Jahre Tod hinter lebenden Augen leben hinter toten Blicken bewegen hinter erstarrtem Herzen atmen hinter erstickender Hoffnung weiteratmen weiterleben weiterschreiben weiterschweigen weitertragen dieses Gewicht dieser Schuld dieser Liebe dieses Hasses dieser Trauer dieser Wut dieser Verzweiflung dieser Einsamkeit dieses endlosen endlosen endlosen Marsches durch Schnee durch Staub durch Blut durch Zeit durch Welt durch Leben hindurch hindurch hindurch bis ans Ende ihrer Kraft ihrer Gnade ihrer Geduld ihrer Menschlichkeit –
+„Mein Vater starb unter euren Mauern“, sagte sie. „Meine Stadt unter euren Schwertern. Meine Schwester unter euren Pferden. Sie war zwölf.“
 
-Güyük sprach langsam gezielt jedes Wort fallend schwer wie Steine ins Wasser Kreise ziehend Wellen werfend Grund berührend tief unten dort wo niemand sieht wo niemand hört wo niemand weiß ob Wahrheit liegt oder Lüge oder beides zugleich vermischt untrennbar eins geworden im Dunkel des Vergessens im Schweigen des Todes im Nichts des Endes aller Dinge aller Fragen aller Antworten aller Handelsangebote zwischen Khansfrau Khansfeind Khansmörder Khansopfer alles zugleich nichts davon wirklich alles möglich nichts wahrnehmbar alles sagbar nichts verständlich alles offenbart nichts bewiesen alles behauptet nichts bekannt alles versprochen nichts gehalten alles verloren nichts gefunden alles gestorben nichts geblieben außer diesem Satz diesem Wort diesem Atemzug diesem Augenblick zwischen Ja Nein Vielleicht Nie Wieder Niemals Immer Fort Immer Weiter Immer Tiefer Immer Dunkler Immer Einsamer Immer. Allein Mit Sich Selbst Mit Seiner Wahl Mit Seinem Schweigen Mit Seinem Wissen Mit Seinem Ende Das Niemand Kennt Außer Ihm Selbst Und Ihr Selbst Und Jenem Dritten Unbekannten Ungesehen Unvergessenen Der In Der Nacht Starb Als Ögedei Khan Starb Als Der Becher Fiel Als Der Wein Verschwand Als Der Diener Floh Als Die Wahrheit Begann Endlos Zu Werden Unaufhaltsam Unausweichlich Unvergänglich Wie Ein Fluch Wie Ein Segen Wie Ein Name Den Man Nicht Aussprechen Darf Weil Er Brennt Weil Er Verbrennt Weil Er Asche Hinterlässt Wo Einmal Leben War Wo Einmal Liebe War Wo Einmal Alles War Was Man Brauchte Zum Atmen Zum Leben Zum Bleiben Zum Gehen Zum Sterben In Frieden In Ruhe In Stille Endlich Endlos Ewig Ohne Wiederkehr Ohne Erlösung Ohne Ende
+Sie hielt inne. Sie hörte ihre eigene Stimme, und sie klang nicht traurig. Sie klang wie eine Aufzählung.
 
-Güyük sagte:
- „Du würdest sterben für diesen Namen?“
- 
-Ohne Bewegung antwortete Fatima:
- „Nein“
- 
-Seine Stirn runzelnd fragend:
- „Was willst du dann? Jeder Mensch will etwas Jeder Mensch hat Preis Jeder Mensch bricht irgendwann früher oder später schneller langsamer härter weicher tiefer flacher –
- 
- Wir brechen alle irgendwann “.
- 
-Ihre Finger ruhten unbewegt nebeneinander gefaltet weiß gegen Braun gegen Blau gegen Schwarz gegen Nichts gegen Alles gegen Dieses Eine Letzte Wort Das Sie Noch Nie Gesprochen Hatweil Es Zu Groß War Zu Schwer Zu Wahr Zu Endgültig Für Diese Welt Für Dieses Leben Für Diese Zeit Zwischen Gestern Morgen Heute Nie Wieder Immer Fort Immer Weiter Immer Einsamer Immer Tiefer In Diesem Brunnen Dieser Stille Dieser Leere Die Sie Füllt Mit Atmen Mit Warten Mit Wissen Mit Dem Letzten Rest Ihrer Selbst Den Sie Noch Besitzt Noch Behüt Noch Bewahrt Vor Ihm Vor Allen Vor Der Welt Vor Dem Ende Das Kommen Wird Früher Oder Später Schneller Oder Langsamer Hart Oder Weich Wie Alles Kommt Wie Alles Geht Wie Alles Endet Irgendwann Irgendwo Irgendwie
+„Ich habe zwanzig Jahre in euren Zelten gelebt“, fuhr sie fort. „Ich habe eure Briefe geschrieben. Ich habe eure Erlasse gesiegelt. Ich habe euren Töchtern beigebracht, ihren Namen zu schreiben, und euren Söhnen gesagt, was sie ihren Vätern sagen sollen. Ich habe gelernt, was euer Reich ist. Es ist ein Reich aus Worten. Nicht aus Pferden. Pferde sind austauschbar. Worte nicht.“
 
-Sie antwortete:
- „Ich wollte einmal “
- 
-Ihre Stimme stockend abbrechend neu beginnend:
- „Ich wollte leben Ich wollte frei sein Ich wollte zurück nach Chorasan zurück in meine Stadt zurück zu dem Ort wo meine Schwester starb wo meine Eltern leben wo meine Kindheit lag wo meine Zukunft wartete ehe alles zerstört wurde ehe alles verbrannte ehe alles verschwand im Rauch jenes Sommers 1221 –
- 
- Ich wollte Rache Ich wollte Gerechtigkeit Ich wolltes Vergessen Ich wolltes Erinnern Ich wolltes Weitergeben Ich wolltes Bewahren Ich wolltes Loslassen Festhalten Loslassen Festhalten Hin Und Her Gerissen Zwischen Diesem Und Jenem Zwischen Damals Und Heute Zwischen Damals Und Nie Wieder Zwischen Lebenden Und Toten Zwischen Mir Und Mir Selbst Die Nicht Mehr Weiß Wer Sie Ist Was Sie Will Ob Sie Noch Lebt Oder Nur Noch Atmet Weiteratmet Weil Es Keinen Grund Gibt Aufzuhören Weil Es Keinen Grund Gibt Weiterzumachen Weil Es Nur Dieses Hier Gibt Dieses Jetzt Dieses Gleichgewicht Zwischen Nichts Und Weniger Als Nichts Zwischen Leere Und Leerer Leere Zwischen Dem Was War Dem Was Ist Dem Was Nie Mehr Sein Wird -
- 
- Aber jetzt “
- Ihre Stimme fest werdend klar werdend endgültig werdend:
- 
- „Jetzt will ich nichts mehr “
- 
- 
-Pause.
- 
-Längere Pause.
- 
-So Lange Dass Güyük Sich Bewegt Fast Unwillkürlich Fast Instinktiv Fast Wie Ein Tier Das Spürt Dass Etwas Nicht Stimmt Dass Etwas Anders Ist Dass Etwas Fehlt In Dieser Gleichung Dieser Rechnung Dieser Logik Die Bisher Funktioniert Hat Bei Allen Die Er Befragt Hat Bei Allen Die Er Gebrochen Hat Bei Allen Die Er Getötet Hat Denn Jeder Mensch Will Wirklich Etwas Jeder Mensch Hat Preis Jeder Mensch Bricht Irgendwann Früher Oder Später Schneller Oder Langsamer Hart Oder Weich Unter Druck Unter Folter Unter Einsamkeit Unter Hoffnungslosigkeit Unter Der Erkenntnis Dass Es Keinen Ausweg Gibt Keine Hilfe Keine Rettung Außer Dieser Einen Wahl Dieser Einen Entscheidung Dieser Einen Antwort Auf Seine Eine Frage -
- 
- Aber Fatima Woll Nichts Mehr
- 
- Überhaupt Nichts
- 
- Gar Nichts
- 
- Absolut Null
- 
- Sie War Fertig Durch Verbraucht Ausgebrannt Leer Gelaufen Ausgeschöpft Am Ende Ihrer Kraft Ihres Willens Ihres Lebens Ihres Alles Ihres Nichts Ihres Letzten Restchens Von Etwas Das Man Noch Menschlichkeit Nennen Konnte Hoffnung Liebe Hass Trauer Freude Schmerz Lust Qual Glück Verzweiflung Gleichgültigkeit -
- 
- Nur Noch Stille
- 
- Nur Noch Leere
- 
- Nur Noch Dieses Warten Auf Das Ende Das Kommen Würde Früher Oder Später Schneller Oder Langsamer Hart Oder Weich Wie Alles Kommt Wie Alles Geht Wie Alles Endet Irgendwann Irgendwo Irgendwie
+Sie sah auf die Aktenbündel auf dem Tisch.
 
-Güyük trat zurück wand Sprache drehte ab ging zur Tür hinaus ließ Sprache fallen liegen vergessen verbrannt vernichtet vernichtet vernichtet -
- 
- Draußen begann Sprache Trommeln Zu Schlagen Rhythmus Sprache Rhythmischer Sprache Regelmäßiger Sprache Bedrohlicher Sprache Näher Kommender Sprache Unausweichlicher Sprache -
- 
+„Wenn ich jetzt spreche“, sagte sie, „fällt ein Name. Wenn ein Name fällt, fällt ein Haus. Wenn ein Haus fällt, fällt eine Stadt. Wenn eine Stadt fällt, fallen Kinder. Wie ich gefallen bin. Wie meine Schwester gefallen ist. Diesmal aber fällt es mit meiner Stimme als Siegel. Auf dem Papier, das deine Schreiber schreiben werden, wird stehen, dass ich es gesagt habe. Ich. Fatima aus Chorasan. Wenn später jemand liest, was in jenem Winter geschah, wird er lesen, dass eine Chorasanerin die Kriege begann, die danach kamen.“
 
-Zwei Wachen traten herein packten Fatimas Oberarme hobens hoch zerrten hinaus aus dem Raum durch Korridore Treppen Gänge Durch Dunkelheit Kälte Hitze Licht Finsternis Durch Zeit Durch Raum Durch Welt Durch Hindurch Hindurch Hindurch Bis Ans Ende Ihres Weges Ihres Lebens Ihrer Geschichte -
+„Du bist klug“, sagte Güyük. „Du weißt, dass es die Kriege so oder so geben wird.“
 
-Hinter Ihr Sprach Eine Tür
+„Nein“, sagte Fatima. „Ich weiß, dass es einen Krieg geben wird. Deinen Krieg. Gegen Batu. Gegen die Toluiden. Ich weiß, dass er kommen wird, ob mit oder ohne mich. Aber ich weiß auch, dass er einen Namen braucht. Einen Urheber. Einen Grund. Ohne Grund ist er Aufstand. Mit Grund ist er Gerechtigkeit. Mit meinem Namen ist er Gerechtigkeit. Ohne meinen Namen ist er Aufstand. Das ist der Unterschied, den du mir anbietest. Es ist kein Garten. Es ist ein Galgen, in den ich euch einen Strick flechte, mit dem ihr einen anderen aufhängt.“
 
-Fiel Ins Schloss
+Sie hörte auf. Der Raum war still. Die Lampe brannte noch nicht, aber die Luft war warm, und das Öl roch schwach, süßlich, wie zu jedem Verhör, das sie als Schreiberin einmal miterlebt hatte.
 
-Und Dann
+Güyük sah sie an. Er sagte lange nichts. Dann sagte er, leise, fast zu sich selbst:
 
-Und Dann
+„Jeder Mensch will etwas. Ich habe es geglaubt.“
 
-Und Dann Kamen Die Minuten Die Stunden Die Tage Die Jahre Die Jahrzehnte Die JahrhunderTE DIE EWIGKEITEN DIE KEINER MISST KEINER ZÄHLT KEINER ERINNERT AUSSER DEM STEIN AUSSER DEM BLUT AUSSER DEM SCHWEISS AUSSER DER STILLE DIE AM ENDE ALLES VERSCHLINGT ALLES VERGISST ALLES AUSLÖSCHT WAS EINMAL WAR WAS EINMAL SEIN SOLLTE WAS EINMAL HÄTTE SEIN KÖNNEN -
+„Ich wollte“, sagte Fatima. „Es ist vorbei.“
 
-Doch
+Er sah sie an. Sie sah ihn an. Der Abstand zwischen ihren Hockern war eine Handbreit. Zwischen zwei Hockern und einem Tisch lagen alle Kriege, alle Städte, alle Papiere der Welt.
 
-Vorher
+Güyük stand auf. Er ging zur Tür, öffnete sie, sagte einen einzigen Satz, und schloss die Tür wieder.
 
-Vor Dem Ende
+Fatima hörte Schritte auf dem Gang. Sie hörte eine Tür weiter hinten aufgehen. Sie hörte die Tür schließen.
 
-Vor Dem Letzten Atemzug
+Dann hörte sie nichts mehr. Die Wände waren aus Filz, aber der Filz war doppelt, wie bei einem Zelt, in dem Khane empfangen werden. Der Gang war aus Stein.
 
-Gab Sprache Etwas
+Sie saß auf dem Hocker. Sie sah auf die Akten. Sie wartete.
 
-Das Niemand Nahm
+Die Lampe brannte nicht.
 
-Das Niemand Brauch te
+Die Stille war voll.
 
-Das Niemand Woll te Außer Ihr Selbst Außer Ihrer Seele Außer Ihrer Letzten Kontrolle Über Diese Wahrheit Diese Lüge Diese Geschichte Diese Chronik Dieses Buch Das Sie Geschrie Ben Hat Te In Still en Näch ten In Heim lich en Blät tern In Ver bor gen en Win kein Des Pa last es Des Her zens Des Ge dächt nis ses Das Nie mand Je Les en Wür de Au ßer Viel leicht Ei ner To ten Viel leicht Ei nem Frem de Viel leicht Nie mand -
+Nach einiger Zeit – wie lange, wusste sie nicht, sie zählte nicht, sie zählte nie mehr, seit dem Kuriltai – kam sie zurück. Nicht als Bild. Nur als ein Ton, der sich nicht mehr aus ihrem Kopf löste, obwohl er gedämpft war, doppelt gedämpft, filzgedämpft, steingedämpft, ein Ton, der eigentlich kein Ton war, sondern nur die Form eines Tons, die an der Wand zwischen zwei Räumen stand.
 
-Sie Unterschrieb
+Sie sah auf ihre Hände. Sie waren ruhig. Sie waren unverletzt.
 
-Mit Zitternder Hand
+Sie sah auf den Tisch. Auf dem Tisch lagen die Akten. Auf den Akten lag nichts mehr. Güyük hatte die vierte Mappe mitgenommen, die mit dem Deckbrief, die mit ihrer Hand.
 
-Mit Brechender Feder
+Auf dem Boden, unter dem Ständer, sah sie etwas, das sie vorher nicht gesehen hatte. Ein Blatt. Ein einzelnes Blatt Papier, das ihm entfallen war, oder das er absichtlich hatte fallen lassen. Sie konnte nicht hinübergehen. Sie konnte nicht hinübergehen, weil man sie sonst hätte sehen können, und es gab kein Fenster, aber der Gang hatte eine Ritze, und eine Wache konnte durch die Ritze sehen.
 
-Mit Sterbender Seele
+Sie saß. Sie wartete.
 
-*Geständnis*
+Der Gang blieb still.
 
-*Ich*
+Dann öffnete sich die Tür.
 
-*Fatima Aus Chorasan*
+Zwei Wachen traten ein. Dann ein Schreiber, mit einer Schreibtafel und einer Feder in der Hand. Er sah sie nicht an. Er setzte sich an einen kleinen Tisch in der Ecke und tauchte die Feder ein.
 
-*Habe Prinz Köden*
+Dann trat Güyük ein. Er hatte die vierte Mappe bei sich und legte sie auf den Tisch. Er sah sie an.
 
-*Verhext*
+„Die Prinzen sind bereit“, sagte er. „Sie warten auf das Geständnis. Wir haben eine Stunde.“
 
-*Durch Blut Opfer*
+Fatima sah ihn an. Sie sah auf den Schreiber. Sie sah auf die Tafel.
 
-*Durch Näch te Des Flu ches*
+„Ich gestehe“, sagte sie.
 
-*Durch Den Wil len*
+Güyük blinzelte. Nur einmal, aber er blinzelte. Der Mann hatte, wie alle Männer seiner Art, alles gerechnet, außer dies.
 
-*Des Bö sen*
+„Du gestehst“, sagte er.
 
-*Des Scha dens*
+„Ich gestehe“, sagte Fatima, „dass ich Köden, den Sohn Ögedeis, durch Zauberkünste gequält habe. Durch Worte, die ich in der Nacht sprach. Durch Tinte, die ich auf Papier strich. Durch Wachs, das ich in Formen goss. Das ist wahr, und das ist mein Geständnis.“
 
-*Des To des*
+Sie sagte es in dem Ton, in dem sie zwanzig Jahre lang Briefe an Gouverneure diktiert hatte. Ruhig. Gegliedert. Angemessen.
 
-*Den Ich Ver diene*
+Güyük sah sie an. Er sah sie durch und durch. Er wusste, was sie tat. Sie wusste, dass er es wusste. Und sie wusste, dass er es nicht ändern konnte, weil er den Prinzen ein Geständnis schuldete, und weil ein Geständnis der Verhexung das einzige war, das er noch haben konnte.
 
-*Den Ich An Neh me*
+Nicht die Wahrheit über Ögedeis Tod.
 
-*Den Ich Trage*
+Nur die Lüge über Ködens Krankheit.
 
-*Als Meine Letz te Wahr heit*
+Er würde verloren haben. Aber er würde nicht zugeben, dass er verloren hatte. Er würde das Falsche nehmen und es als das Wahre vorweisen, weil ein falsches Geständnis mehr wert war als ein wahrer Freispruch. Das war die Rechnung, die er nicht rückgängig machen konnte, weil sie in der Stunde, in der er sie gestellt hatte, bereits veraltet war.
 
-*Als Meine Letz te Lüge*
+„Setz dich“, sagte Güyük zu dem Schreiber. „Schreib.“
 
-*Als Mein Letz tes Werk*
+Der Schreiber setzte sich. Der Schreiber schrieb.
 
-In Diesem Reich
+Fatima diktierte. Sie diktierte langsam, in einem Ton, den sie sich zwanzig Jahre lang angewöhnt hatte, in der Kanzlei, mit dem rechten Maß zwischen Demut und Klarheit.
 
-In Dieser Welt
+„Ich, Fatima, aus Chorasan, derzeit zu Karakorum, gestehe am vierzehnten Tag des Winters des Schafes: dass ich gegen Prinz Köden, den Sohn des Khans, am zehnten Tag des Herbstes des Pferdes durch Zauberei gehandelt habe; dass ich durch Worte, die ich in meiner Zunge sprach, durch Zeichen, die ich auf Papier verbarg, und durch Wachsbildnisse, die ich in meinem Zelt formte, den Dämon der Krankheit auf ihn rief; dass ich dies tat in der Absicht, dem Haus der Toluiden zu schaden; dass ich dies tat, um die Regentin Töregene zu stärken; dass ich dies tat und kein Wort davon bereue.“
 
-In Dieser Stunde
+Sie hielt inne.
 
-In Der Niemand Weiß
+Sie sah auf die Tafel des Schreibers. Sie sah die Feder in seiner Hand. Sie sah die Buchstaben wachsen – uighurische Schrift, saubere Buchstaben, die Buchstaben, die sie mit sechzehn gelernt hatte, die Buchstaben, in denen sie gedacht hatte, halb, wenn sie nachts müde war und die Wörter der Köpfe schwer wurden.
 
-Was Wirk lich Geschah
+Sie dachte an Töregene. An den goldenen Becher in der Truhe. An die Nächte in ihrem Zelt. An die Hand auf ihrer Schulter, die nie gezittert hatte.
 
-Was Wirk lich War
+Sie dachte an Shigi Qutuqu. An das Bündel in der Truhe. An das Siegel. An die Akte.
 
-Was Wirk lich Bleibt
+Sie dachte an Juvaini, an die drei Worte, an das eine kleine Wort, das er einmal gesagt hatte, das nicht mehr nötig war.
 
-Unterschrieben
+Sie dachte an ihre Schwester. An die zwölf Jahre. An die Hand im Staub.
 
-Unterzeichnet
+Sie dachte an ihren Vater. An das Federetui. An das Schreiben, das nicht aufhörte, auch wenn der Schreiber aufhörte.
 
-Besiegelt
+Die Feder des Schreibers kratzte. Kratz. Kratz. Kratz. Sie strich über das Papier, und jedes Mal, wenn sie strich, wurde ein Wort geschrieben, das sie gesagt hatte. Ein Wort, das nicht wahr war. Ein Wort, das deckte, was wahr war.
 
-Endgültig
+Das war ihre letzte Kontrolle. Das falsche Geständnis war nicht ihre Niederlage. Es war ihr letzter Besitz. Es war das letzte Stück Wahrheit, das sie schützen konnte, indem sie es mit einer Lüge zudeckte.
 
-Wahrheitsgemäß
+„Unterschreib“, sagte Güyük.
 
-Freiwillig
+Ein Wachsstock wurde gebracht. Eine Kerze wurde entzündet. Ein Tropfen Wachs fiel auf das untere Ende des Blattes.
 
-Unter Druck
+Güyük nahm die Feder, die der Schreiber benutzt hatte, und hielt sie Fatima hin.
 
-Unter Schmerzen
+Fatima nahm die Feder.
 
-Unter Trännen
+Sie sah auf das Blatt. Sie sah auf die Zeilen. Sie sah auf ihre Hand, die die Feder hielt. Es war ihre eigene Hand, aber die Feder war neu, nicht ihre. Ihre Feder lag bei Shigi, im Bündel, in der Truhe, unter dem Siegel. Diese Feder gehörte dem Hof. Diese Feder würde in eine andere Hand wandern, in ein anderes Geständnis, in eine andere Akte.
 
-Unter Blut
+Sie tauchte die Feder ein.
 
-Unter Schweiss
+Sie setzte die Spitze auf das Wachs.
 
-Unter Stille
+Ihre Hand zitterte. Sie konnte nichts dagegen tun. Sie hatte lange nicht mehr geschrieben. Sie hatte seit dem Kuriltai nichts mehr mit eigener Hand geschrieben, und die Muskeln, die eine Hand zum Schreiben braucht, waren in diesen Monaten weich geworden, wie Muskeln es werden, wenn man sie nicht mehr benutzt.
 
-Unter Einsamkeit
+Das Zittern war nicht Furcht. Sie wusste es. Sie hatte keine Furcht mehr. Aber das Zittern war da, und es würde bleiben, und es würde auf dem Wachs sichtbar sein, und alle, die nach ihr das Blatt ansahen, würden das Zittern sehen und es deuten, wie sie wollten.
 
-Unter Tod
+Sie schrieb ihren Namen.
 
-Fertig
+Fatima.
+
+In uighurischer Schrift. Sauber.
+
+Dann sah sie auf. Sie sah Güyük an. Er sah sie an.
+
+Er sah den Namen an. Er sah das Wachs an. Er sah das Zittern an.
+
+„Die Prinzen warten“, sagte er.
+
+„Ja“, sagte Fatima.
+
+Sie stand auf. Sie ging zur Tür. Sie ging, wie sie gekommen war, ohne dass jemand sie führte, ohne dass jemand sie hielt. Die Wachen öffneten, sie trat hinaus, die Wachen schlossen.
+
+Im Gang brannte Fackellicht. Es war anders als in dem Verhörraum. Es war warm und flackrig, und es warf Schatten an die Wände, die sich bewegten, obwohl der Gang still stand.
+
+Sie ging den Gang hinab. Sie ging mit sich selbst. Sie ging in den Morgen, in dem es noch nichts gab außer dem, was sie selbst hinterließ.
+
+Sie wusste, dass sie das Falsche gestanden hatte. Sie wusste, dass das Falsche das Wahre deckte. Sie wusste, dass niemand dieses Falsche je als Falsches lesen würde, außer einem Schriftsteller in einer brennenden Stadt, zehn Jahre später, im Februar, im Feuer.
+
+Und das war ihr letzter Besitz.
+
+Das war der Handel, den sie gemacht hatte. Nicht mit Güyük. Mit sich selbst. Sie hatte das Falsche gestanden und das Wahre verborgen. Sie hatte den Galgen vorbereitet, aber den Strick konnte niemand knüpfen, den sie nicht geknüpft hatte.
+
+Draußen war der Himmel grau, so grau wie am Anfang, als sie gekommen waren.
+
+Sie blieb stehen.
+
+Einen Atemzug.
+
+Zwei.
+
+Drei.
+
+Dann ging sie weiter, ohne zurückzublicken, in eine Richtung, die sie noch nicht kannte, und die Wahrheit ging mit ihr, ungesehen, ungeschrieben, ungestorben.
 
 ---
+

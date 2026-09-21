@@ -7,28 +7,23 @@
 ## Fortsetzung im gleichen Ordner / neues Chat-Fenster (gleiche LLM)
 
 Kein neues Setup noetig. Im selben Repo-Ordner (`c:\code\peter-the-one`,
-Branch `main`) weiterarbeiten, neues Fenster reicht. Einstieg in dieser
-Reihenfolge (alles lesend, keine Kosten):
+Branch `main`) weiterarbeiten, neues Fenster reicht. Kopiertext:
+[docs/uebergabe-prompt.md](./docs/uebergabe-prompt.md).
+
+Einstieg in dieser Reihenfolge (alles lesend, keine Kosten):
 
 1. `AGENTS.md` (diese Datei) + `README.md` (Schnellstart) lesen.
-2. `docs/HANDOVER.md` (Titel = Stand-Datum; Sektion Chronik-Redaktion =
-   wo wir sind) + `docs/offene-punkte.md` Punkt 6 (Chronik-Tabelle =
-   welche Kapitel noch offen) lesen.
-3. Lage verifizieren: `git --no-pager status --short --branch`,
-   `py -3 tools/status.py --book die-dritte-chronik summary`,
-   `py -3 tools/review_manuscript.py --book die-dritte-chronik --style stil-01-original --all --llm none --fail-on-errors`.
-   Erwartet 2026-09-19 abends: Gate ERROR=0/WARNING=13/INFO=36 (Exit 0),
-   29 von 48 Kapiteln clean 0/0 (19 mit Restbefund), Bilder 48/48,
-   EPUB mit Bebilderung `...-20260919-222611.epub` (50 Bilder, ohne Bypass).
-   Redaktion ist fertig: komplett-Runde 031/033/036 (Neufassungen) +
-   mini 009/018/026/035/041 (Satzzeichen/Gliederung), kein OpenRouter.
-   Release-Einschaetzung 2026-09-19: Text + Bilder fertig (48/48 bebildert),
-   offen nur noch (1) frischer DOCX/PDF-Bau und (2) menschliche Leseprobe
-   (Kindle Previewer + Stichprobe 031/033/036, 009/035/041).
-   Parallel-Session (Working Tree, nicht committet): Top-5-Buch
-   `pissemski-tausend-seelen` hat 9/44 Kapitel in `stil-02-poetisch`
-   (Default-Style bleibt `stil-01-original`).
-4. Review-Details je Kapitel: `books/die-dritte-chronik/work/reviews/stil-01-original/chapters/NNN-review.md`.
+2. `docs/HANDOVER.md` (Titel = Stand-Datum; oben **Letzte Session** =
+   Pharao Print-Optionen 2026-09-21) + `docs/offene-punkte.md` Punkt 11
+   (Print) und Punkt 6 (Chronik-Tabelle).
+3. Lage verifizieren: `git --no-pager status --short --branch`.
+   Print-Vergleich: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`
+   (A 924 / B 788 / C 673 / D 643; Cream 776). Gate Pharao erwartet ERROR=0
+   (`py -3 tools/review_manuscript.py --book pharao --style stil-02-poetisch --all --llm none --fail-on-errors`).
+   Chronik KDP-fertig: Gate ERROR=0/WARNING=13/INFO=36,
+   EPUB `...-20260921-131112.epub`.
+   Unter Windows CLI mit `py -3`, nicht `python`.
+4. Review-Details Chronik: `books/die-dritte-chronik/work/reviews/stil-01-original/chapters/NNN-review.md`.
    Redaktions-Ablauf Chronik: Nutzer liefert neue Fassung nach
    `books/die-dritte-chronik/status/Die dritte Chronik - NN <Titel>.md`
    (oder direkt nach `work/scenes/de/NNN/scene-01.md`) -> KI prueft auf
@@ -60,12 +55,12 @@ Aktuelle Buchpakete (12):
 
 - `books/peter-i-buch-01/` - Alexei Tolstoi, Peter der Erste
 - `books/anna-karenina/` - Lew Tolstoi, Anna Karenina (PARKIERT 09/2026)
-- `books/pharao/` - Bolesław Prus, Der Pharao
+- `books/pharao/` - Bolesław Prus, Der Pharao (LIVE; Print-Optionen 2026-09-21: Trim/Profil/Bilder, A–D 924/788/673/643, Cream 776, Gate ERROR=0, Einleitung 000 restauriert)
 - `books/feuriger-engel/` - Walerij Brjussow, Der feurige Engel
 - `books/aelita/` - Alexei Tolstoi, Aelita (LIVE 09/2026: Regelcheck 0/0, Kapitel-030-Kommentare als Anhang ausgelagert, Buch-EPUB 2026-09-17 nutzergeprueft und veroeffentlicht; 12 Kapitel bewusst ohne Bild; Amazon-Link + Marketing nach Amazon-Freigabe)
 - `books/leben-arsenjews/` - Iwan Bunin, Das Leben Arsenjews (Release-Kandidat 09/2026: Gate ERROR=0/WARNING=8, EPUB 20260917-212334 ohne Bypass)
 - `books/geheime-geschichte-mongolen/` - Anonym, Die Geheime Geschichte der Mongolen
-- `books/die-dritte-chronik/` - Motivatier, Die dritte Chronik (DE-Original; Redaktion 2026-09-19 fertig: komplett 031/033/036 + mini 009/018/026/035/041, 29/48 clean, Gate 0/13/36; Bilder 2026-09-19 komplett 48/48, EPUB 20260919-222611 mit 50 Bildern; offen nur DOCX/PDF-Neubau + Leseprobe)
+- `books/die-dritte-chronik/` - Motivatier, Die dritte Chronik (DE-Original; Redaktion 2026-09-19 fertig, KDP-fertig 2026-09-21: 29/48 clean, Gate 0/13/36, Bilder 48/48, EPUB `...-20260921-131112.epub`; offen Kindle-Preview + KDP-Upload)
 - `books/kuprin-duell/` - Alexander Kuprin, Das Duell (Roh-Anlage 09/2026)
 - `books/kuprin-moloch/` - Alexander Kuprin, Der Moloch (Roh-Anlage 09/2026)
 - `books/grin-wellenlaeuferin/` - Alexander Grin, Die Wellenlaeuferin (Roh-Anlage 09/2026)
@@ -93,6 +88,7 @@ books/<book-id>/
     style-tests/            # Vergleichs- und Referenzdateien
     legacy/                 # alte Dateien/Konflikte fuer dieses Buch
   exports/<style>/<scope>/  # DOCX-/EPUB-/PDF-Ausgaben
+  exports/<style>/<scope>/print/  # KDP-Taschenbuch (interior/complete/wrap)
   exports/marketing/        # Marketingpaket (campaign.json, posts.md, youtube.md, media.json, README.md)
   status/status.json
   status/logs/NNN.log.md
@@ -208,6 +204,10 @@ python tools/assemble_chapter.py --book anna-karenina --chapter 001 --style stil
 # DOCX/EPUB/PDF exportieren
 python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter 001 --style stil-01-original --format all --allow-partial
 python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter 001 --style stil-01-original --format pdf --allow-partial
+python tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback
+python tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback --trim-size 6x9 --layout-profile classic --illustration-mode full_page
+python tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback --trim-size 6x9 --layout-profile long_classic --illustration-mode inline
+python tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback-complete
 
 # Marketingpaket erzeugen (nichts veroeffentlichen; ohne --provider keine Kosten)
 python tools/export_marketing.py --book anna-karenina --dry-run
@@ -251,8 +251,8 @@ python tools/export_manuscript.py --book peter-i-buch-01 --scope book --style st
 
 - Gate-Code: `tools/export_manuscript.py::preflight_review_gate` laeuft vor
   `collect_export` ueber die Scope-Kapitel. `--allow-review-errors` ist der
-  einzige Bypass und wird im Export-Manifest als `review_gate_errors` +
-  `review_gate_bypassed` protokolliert.
+  einzige Bypass (CLI-Flag oder Dashboard-Checkbox) und wird im Export-Manifest
+  als `review_gate_errors` + `review_gate_bypassed` protokolliert.
 - Release-blockierende Kategorien in `tools/lib/review_checks.py`:
   `missing_de_scene`, `cyrillic_in_translation` (inkl. gemischter Tokens wie
   `Pitschuга`), `encoding_garbage`, `mojibake` (`Ã`, `Ð`, `Ñ`, `U+FFFD`),
@@ -390,15 +390,24 @@ damit der Wegzug in den Anhang keine Raffung vortaeuscht. Das Release-Gate
 bleibt scharf. EPUB, DOCX und PDF geben den Anhang aus.
 
 Die Regal-Freigabe steht als **top-level** `website:`-Block in
-`books/<id>/export.yaml` (`enabled`, `amazon_url`, `sort_order`).
+`books/<id>/export.yaml` (`enabled`, `amazon_url`, `sort_order`, optional
+`catalog: false` = nicht im Reihenkatalog am Buchende).
 `tools/build_shelf_website.py` (`website_config()`) und
 `tools/lib/workbench_api.py` (`load_website_settings()`) lesen
 ausschliesslich diesen top-level Block. Ein eingeruecktes `website:` unter
 `book:` ist toter Code; das Dashboard haengt beim Speichern dann einen
 zweiten top-level Block an (`_write_website_settings_preserving_yaml`).
 
-PDF wird explizit mit `--format pdf` erzeugt. `--format all` bleibt
-rueckwaertskompatibel bei DOCX+EPUB.
+PDF wird explizit mit `--format pdf` erzeugt (A5-Vorschau). Das
+KDP-Taschenbuch-Innenleben ist `--format paperback`. Trim (`--trim-size 5.5x8.5|6x9`)
+und Satzprofil (`--layout-profile classic|long_classic`) sind getrennt;
+Kapitelbilder `--illustration-mode full_page|inline`. Default 5,5×8,5 / classic /
+full_page, Cream-Limit 776 (White 828). Ohne Flags bleibt der bisherige Satz.
+Ausgabe unter `exports/<style>/<scope>/print/` mit Varianten-Slug im Dateinamen.
+`--format paperback-complete` haengt Vorderseite (`assets/covers/cover-print.*`,
+sonst ohne Bild), generierte Rueckseite und Wrap-PDF (Ruecken = Seitenzahl ×
+0,0635 mm, creme/SW) an. Reihenkatalog (andere `website.enabled`-Titel) steht in EPUB und
+Paperback. `--format all` bleibt rueckwaertskompatibel bei DOCX+EPUB.
 
 ## Marketingexport
 
@@ -430,11 +439,11 @@ Marketingpaket unter `books/<id>/exports/marketing/` (`campaign.json`,
 ## Aktueller Stand
 
 Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**
-(Stand 2026-09-19). Branch: `main` (= `origin/main`); inhaltlicher Stand `af6873c`,
-danach folgen Fixes und Doku-Nachzuege (Mongolen-Belegpruefung, Handcover,
-V4.1-Flash-Pilot `kuprin-moloch` 001, Peter-I-Abschluss mit Raffungs-Erkennung
-im Regelcheck 2026-09-17, Chronik-Redaktion 2026-09-18/19: 008+012+034,
-komplett 031/033/036, mini 009/018/026/035/041 -> Gate 0/13/36).
+(Stand 2026-09-21). Kopiertext neues Fenster:
+[docs/uebergabe-prompt.md](./docs/uebergabe-prompt.md).
+Branch: `main` (= `origin/main`); Print-Workflow 2026-09-21 (Trim/Profil/Bilder)
+auf main. Davor `1beb55d` Chronik KDP-fertig EPUB `...-20260921-131112.epub`
+plus Tausend Seelen `stil-02-poetisch`; davor Peter-I-Raffung 2026-09-17.
 
 - Buchpakete sind fuehrend; alte zentrale `config/books.yaml` und
   `config/export.yaml` liegen unter `config/legacy/`.
@@ -468,9 +477,10 @@ komplett 031/033/036, mini 009/018/026/035/041 -> Gate 0/13/36).
   Stilmittel). Endstand: Gate ERROR=0/WARNING=13/INFO=36, 29/48 clean.
   Bilder 2026-09-19 komplett: 48/48 Kapitel bebildert (Kapitelbild 001-014,
   Szenenbild 008 + 015-048 = 49 Bilder + Cover), EPUB
-  `...-20260919-222611.epub` (4,99 MB, 50 Bilder, alle JPEGs validiert,
-  ohne Bypass). Rest-Tabelle siehe `docs/offene-punkte.md` Punkt 6.
-  Offen: DOCX/PDF-Neubau, menschliche Leseprobe.
+  `...-20260921-131112.epub` (50 Bilder, ohne Bypass; aelterer Stempel
+  `20260919-222611` ist ueberholt). Rest-Tabelle siehe
+  `docs/offene-punkte.md` Punkt 6 + 12. Offen: Kindle-Preview + Leseprobe,
+  KDP-Upload durch Nutzer.
 - **Higgsfield / Bilder:** `config/higgsfield_models.yaml`, Dashboard-Dropdown,
   Asset-Optimierung `optimize_asset_images.py`. Web-UI-Moodboards nur manuell.
   Details: `docs/higgsfield-integration.md`.
@@ -492,14 +502,14 @@ komplett 031/033/036, mini 009/018/026/035/041 -> Gate 0/13/36).
   (011/03, 002/11, 003/05, 009/08, 010/01, 010/02), Buch-EPUB neu mit Gate
   0 Fehler; offen nur noch Kindle Previewer und eine menschliche Stichprobe
   der drei zuletzt neu uebersetzten Szenen; Mongolen: 14 Monolith-Kapitel abschnittsweise in
-  `stil-04-original-geheim`; Chronik (2026-09-19): Text + Bilder fertig,
-  Gate 0/13/36, 29/48 clean, EPUB 20260919-222611 (50 Bilder) - offen nur
-  DOCX/PDF-Neubau und die
-  menschliche Leseprobe; Top-5: 110 offene Kapitel (Pilot `kuprin-moloch` 001
-  ist fertig; Parallel-Session hat `pissemski-tausend-seelen` 9/44 in
-  `stil-02-poetisch`, nicht committet) und das Stilurteil dazu; Regal Amazon-URLs /
-  Deploy; optional Mint-GLBs. Uebersetzungslaeufe weiterhin nur nach
-  ausdruecklicher Freigabe.
+  `stil-04-original-geheim`; Chronik (2026-09-21): Text + Bilder + KDP-Titelei
+  fertig, Gate 0/13/36, EPUB 20260921-131112 - offen Kindle-Preview, KDP-Upload;
+  Pharao-Taschenbuch 2026-09-21 umgesetzt (Punkt 11, auf `main`),
+  offen Print-Leseprobe + KDP-Creme 776 vs. 924/788 (C/D liegen unter 776);
+  Top-5: Pilot `kuprin-moloch` 001 fertig, Pissemski `stil-02-poetisch`
+  (Gate 0/0/5, `1beb55d`); Stilurteil und Rest-Kapitel nur nach Freigabe;
+  Regal Amazon-URLs / Deploy; optional Mint-GLBs. Uebersetzungslaeufe
+  weiterhin nur nach ausdruecklicher Freigabe.
 - **Marketingexport** (umgesetzt 2026-09-13, X-Clip 2026-09-14): `tools/export_marketing.py`,
   `tools/lib/marketing_campaign.py`, `tools/lib/marketing_prompts.py`,
   `tools/render_x_clip.py`, `tools/lib/x_clip.py`, `config/marketing.yaml`, Dashboard-Karte **Marketingpaket** (+ **X-Clip**-Sektion) auf der

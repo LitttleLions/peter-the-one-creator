@@ -2,7 +2,7 @@
 export_manuscript.py
 ====================
 
-Exportiert fertige DE-Szenen als DOCX und/oder EPUB.
+Exportiert fertige DE-Szenen als DOCX, EPUB, A5-PDF oder Taschenbuch-PDF.
 
 Quelle:
     books/<book-id>/work/scenes/de/<style>/<Kapitel>/scene-XX.md
@@ -13,6 +13,8 @@ Ausgabe:
     books/<book-id>/exports/<style>/chapter/work/
     books/<book-id>/exports/<style>/book/docx/
     books/<book-id>/exports/<style>/book/epub/
+    books/<book-id>/exports/<style>/book/pdf/
+    books/<book-id>/exports/<style>/book/print/
     books/<book-id>/exports/<style>/book/work/
 """
 
@@ -39,6 +41,26 @@ sys.path.insert(0, str(Path(__file__).parent))
 import yaml
 
 from lib.book_project import find_book as find_book_project
+from lib.print_pdf import count_pdf_pages, export_paperback_interior, write_print_report
+from lib.print_spec import (
+    CHAPTER_START_MODES,
+    ILLUSTRATION_MODES,
+    LAYOUT_PROFILES,
+    PAPER_KINDS,
+    TRIM_SIZES,
+    load_print_spec,
+    normalize_illustration_mode,
+    normalize_layout_profile,
+    normalize_paper,
+    normalize_trim_size,
+)
+from lib.print_wrap import (
+    concat_pdfs,
+    export_print_back_page,
+    export_print_cover_page,
+    export_print_wrap,
+)
+from lib.series_catalog import CatalogEntry, catalog_html, catalog_markdown, load_series_catalog
 from lib.output_paths import (
     book_exports_root,
     book_output_root,
@@ -51,7 +73,8 @@ from lib.output_paths import (
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-EXPORT_FORMATS = ("docx", "epub", "pdf", "all")
+EXPORT_FORMATS = ("docx", "epub", "pdf", "paperback", "paperback-complete", "all")
+PRINT_FORMATS = ("paperback", "paperback-complete")
 
 
 @dataclass
@@ -122,6 +145,7 @@ def load_export_config(book: dict[str, Any]) -> dict[str, Any]:
     meta.setdefault("structure_groups", structure.get("groups") or [])
     meta.setdefault("display", book.get("display") or {})
     meta["appendices"] = data.get("appendices") or []
+    meta["print"] = data.get("print") or {}
     meta["_base_dir"] = str(export_path.parent)
     return meta
 
@@ -150,6 +174,7 @@ def export_dirs(exports_root: Path, style: str, scope: str) -> dict[str, Path]:
         "docx": root / "docx",
         "epub": root / "epub",
         "pdf": root / "pdf",
+        "print": root / "print",
         "work": root / "work",
         "manifests": root / "manifests",
     }
@@ -436,6 +461,11 @@ def find_named_image(directory: Path, stem: str) -> Path | None:
         if candidate.is_file():
             return candidate
     return None
+
+
+def find_print_cover(meta: dict[str, Any]) -> Path | None:
+    """Manuelles Druckcover; kein Fallback auf Kindle-cover.jpg."""
+    return find_named_image(book_base_dir(meta) / "assets" / "covers", "cover-print")
 
 
 def chapter_illustration(meta: dict[str, Any], chapter_id: str) -> Illustration | None:
@@ -950,6 +980,7 @@ def render_export_markdown(
     cover_ref: str | None,
     markdown_path: Path | None = None,
     illustrations: list[Illustration] | None = None,
+    catalog_entries: list[CatalogEntry] | None = None,
 ) -> str:
     title = document_title(meta, scope, chapters[0] if chapters else None)
     illustrations_by_key = illustration_map(illustrations or [])
@@ -1041,6 +1072,8 @@ def render_export_markdown(
             lines.append("")
     if scope == "book":
         lines.extend(appendices_markdown(load_editorial_appendices(meta, style)))
+        if markdown_path is not None:
+            lines.extend(catalog_markdown(catalog_entries or [], markdown_path))
     return "\n".join(lines).strip() + "\n"
 
 
@@ -1104,6 +1137,7 @@ def render_pdf_front_matter(
     partial: bool,
     cover_path: Path,
     html_path: Path,
+    include_cover: bool = True,
 ) -> list[str]:
     fm = front_matter_config(meta)
     description = str(meta.get("description") or "").strip()
@@ -1112,7 +1146,7 @@ def render_pdf_front_matter(
     author_bio = str(meta.get("author_bio") or "").strip()
     lines: list[str] = []
 
-    if should_show(meta, "cover_in_body", True):
+    if include_cover and should_show(meta, "cover_in_body", True):
         lines.extend([
             '<section class="frontmatter-page coverpage" aria-label="Cover">',
             render_pdf_image(cover_path, html_path, "cover-image", "Cover"),
@@ -1194,6 +1228,9 @@ def render_pdf_html(
     html_path: Path,
     css_path: Path,
     illustrations: list[Illustration] | None = None,
+    include_cover: bool = True,
+    catalog_entries: list[CatalogEntry] | None = None,
+    illustration_mode: str | None = None,
 ) -> str:
     title = document_title(meta, scope, chapters[0] if chapters else None)
     illustrations_by_key = illustration_map(illustrations or [])
@@ -1210,7 +1247,12 @@ def render_pdf_html(
         "<body>",
         '<main class="book">',
     ]
-    lines.extend(render_pdf_front_matter(meta, title, scope, partial, cover_path, html_path))
+    lines.extend(
+        render_pdf_front_matter(
+            meta, title, scope, partial, cover_path, html_path,
+            include_cover=include_cover,
+        )
+    )
 
     if should_show(meta, "toc_page", False):
         fm = front_matter_config(meta)
@@ -1280,7 +1322,16 @@ def render_pdf_html(
         chapter_image = illustrations_by_key.get(f"chapter:{chapter.chapter_id}")
         if chapter_image:
             css_class = "chapter-illustration"
-            if illustration_cfg.get("chapter_page_break_after_image", True):
+            page_break_after = bool(
+                illustration_cfg.get("chapter_page_break_after_image", True)
+            )
+            if illustration_mode == "inline":
+                css_class += " inline"
+                page_break_after = False
+            elif illustration_mode == "full_page":
+                css_class += " full-page"
+                page_break_after = True
+            if page_break_after:
                 css_class += " page-break-after"
             lines.append(
                 render_pdf_image(
@@ -1330,6 +1381,7 @@ def render_pdf_html(
                 f'<div class="appendix-text">{markdown_fragment_to_html(str(item["text"]))}</div>',
                 "</section>",
             ])
+        lines.extend(catalog_html(catalog_entries or [], html_path))
     lines.extend(["</main>", "</body>", "</html>"])
     return "\n".join(lines) + "\n"
 
@@ -1492,36 +1544,9 @@ def write_pdf_css(path: Path) -> Path:
 
 
 def write_pdf(path: Path, html_path: Path) -> None:
-    try:
-        from playwright.sync_api import sync_playwright
-    except ImportError as exc:
-        raise RuntimeError(
-            "Playwright ist fuer den PDF-Export nicht installiert. "
-            "Bitte `pip install -r requirements.txt` und danach "
-            "`python -m playwright install chromium` ausfuehren."
-        ) from exc
+    from lib.print_pdf import render_html_to_pdf
 
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with sync_playwright() as playwright:
-        browser = playwright.chromium.launch()
-        try:
-            page = browser.new_page()
-            page.goto(html_path.resolve().as_uri(), wait_until="load")
-            page.pdf(
-                path=str(path),
-                print_background=True,
-                prefer_css_page_size=True,
-                outline=True,
-                tagged=True,
-                margin={
-                    "top": "0",
-                    "right": "0",
-                    "bottom": "0",
-                    "left": "0",
-                },
-            )
-        finally:
-            browser.close()
+    render_html_to_pdf(html_path, path)
 
 
 def write_docx(
@@ -1873,6 +1898,22 @@ def write_epub_css(path: Path) -> Path:
         "  height: auto;\n"
         "}\n"
         "\n"
+        ".series-catalog {\n"
+        "  break-before: page;\n"
+        "  page-break-before: always;\n"
+        "}\n"
+        "\n"
+        ".series-entry {\n"
+        "  margin: 0 0 1.4em;\n"
+        "}\n"
+        "\n"
+        ".series-entry img {\n"
+        "  float: left;\n"
+        "  width: 5.5em;\n"
+        "  height: auto;\n"
+        "  margin: 0 0.9em 0.6em 0;\n"
+        "}\n"
+        "\n"
         ".page-break-after {\n"
         "  break-after: page;\n"
         "  page-break-after: always;\n"
@@ -2181,11 +2222,32 @@ def output_basename(
     style: str,
     scope: str,
     chapter: str | None,
+    print_spec: Any | None = None,
 ) -> str:
     title = sanitize_filename(str(meta.get("title", "export")))
     if scope == "chapter":
-        return f"chapter-{chapter}-{title}-{style}"
-    return f"book-{title}-{style}"
+        name = f"chapter-{chapter}-{title}-{style}"
+    else:
+        name = f"book-{title}-{style}"
+    slug = getattr(print_spec, "filename_slug", None) if print_spec is not None else None
+    if slug:
+        return f"{name}-{slug}"
+    return name
+
+
+def print_overlay_from_args(args: argparse.Namespace) -> dict[str, Any]:
+    overlay: dict[str, Any] = {}
+    if getattr(args, "trim_size", None):
+        overlay["trim_size"] = normalize_trim_size(args.trim_size)
+    if getattr(args, "layout_profile", None):
+        overlay["layout_profile"] = normalize_layout_profile(args.layout_profile)
+    if getattr(args, "illustration_mode", None):
+        overlay["illustration_mode"] = normalize_illustration_mode(args.illustration_mode)
+    if getattr(args, "paper", None):
+        overlay["paper"] = normalize_paper(args.paper)
+    if getattr(args, "chapter_start", None):
+        overlay["chapter_start"] = str(args.chapter_start)
+    return overlay
 
 
 def preflight_review_gate(
@@ -2243,7 +2305,9 @@ def main() -> int:
             sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8",
                                           errors="replace")
 
-    ap = argparse.ArgumentParser(description="Exportiert DOCX/EPUB/PDF aus DE-Szenen.")
+    ap = argparse.ArgumentParser(
+        description="Exportiert DOCX/EPUB/A5-PDF/Taschenbuch-Innenleben/Taschenbuch komplett aus DE-Szenen."
+    )
     ap.add_argument("--book", default=None, help="Buch-ID")
     ap.add_argument("--style", required=True, help="Style-Profil/Output-Ordner")
     ap.add_argument("--scope", choices=["chapter", "book"], required=True)
@@ -2256,6 +2320,36 @@ def main() -> int:
         help="Export trotz deterministischer Review-ERRORs (nur bewusst, wird im Manifest vermerkt).",
     )
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument(
+        "--trim-size",
+        choices=list(TRIM_SIZES),
+        default=None,
+        help="Paperback-Trim: 5.5x8.5 oder 6x9 (nur paperback / paperback-complete).",
+    )
+    ap.add_argument(
+        "--layout-profile",
+        choices=list(LAYOUT_PROFILES),
+        default=None,
+        help="Satzprofil: classic oder long_classic (nur Print).",
+    )
+    ap.add_argument(
+        "--illustration-mode",
+        choices=list(ILLUSTRATION_MODES),
+        default=None,
+        help="Kapitelbilder: full_page oder inline (nur Print).",
+    )
+    ap.add_argument(
+        "--paper",
+        choices=list(PAPER_KINDS),
+        default=None,
+        help="KDP-Papier fuer Seitenlimit/Ruecken: cream, white, groundwood.",
+    )
+    ap.add_argument(
+        "--chapter-start",
+        choices=list(CHAPTER_START_MODES),
+        default=None,
+        help="Kapitelbeginn: next_page oder recto (nur Print).",
+    )
     args = ap.parse_args()
 
     book = find_book(args.book)
@@ -2319,12 +2413,29 @@ def main() -> int:
     for path in dirs.values():
         path.mkdir(parents=True, exist_ok=True)
     timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
-    base = output_basename(meta, args.style, args.scope, args.chapter)
+    print_overlay = print_overlay_from_args(args)
+    if print_overlay and args.format not in PRINT_FORMATS:
+        print("HINWEIS: Print-Optionen (--trim-size/--layout-profile/...) gelten nur fuer paperback.")
+        print_overlay = {}
+    print_spec = (
+        load_print_spec(REPO_ROOT, meta, overlay=print_overlay)
+        if args.format in PRINT_FORMATS
+        else None
+    )
+    base = output_basename(
+        meta, args.style, args.scope, args.chapter, print_spec=print_spec
+    )
     base = f"{base}-{timestamp}"
     scope_label = (
         f"Kapitel {args.chapter}" if args.scope == "chapter" else "Gesamtes Buch"
     )
     title = document_title(meta, args.scope, result.chapters[0])
+    catalog_entries = (
+        load_series_catalog(REPO_ROOT, exclude_book_id=str(book.get("id") or ""))
+        if args.scope == "book"
+        else []
+    )
+    print_cover_asset = find_print_cover(meta)
     cover_path = prepare_cover(
         dirs["work"] / base,
         title=title,
@@ -2344,6 +2455,7 @@ def main() -> int:
         cover_ref,
         markdown_path=md_path,
         illustrations=illustrations,
+        catalog_entries=catalog_entries,
     )
     md_path.write_text(md_text, encoding="utf-8")
 
@@ -2375,6 +2487,7 @@ def main() -> int:
         outputs.append(epub_path)
     pdf_html_path: Path | None = None
     pdf_css_path: Path | None = None
+    print_report_path: Path | None = None
     if args.format == "pdf":
         pdf_path = dirs["pdf"] / f"{base}.pdf"
         pdf_html_path = dirs["work"] / f"{base}.pdf.html"
@@ -2393,6 +2506,92 @@ def main() -> int:
         pdf_html_path.write_text(pdf_html, encoding="utf-8")
         write_pdf(pdf_path, pdf_html_path)
         outputs.append(pdf_path)
+    if args.format in PRINT_FORMATS:
+        print_spec = print_spec or load_print_spec(REPO_ROOT, meta, overlay=print_overlay)
+        pdf_html_path = dirs["work"] / f"{base}.paperback.html"
+        pdf_css_path = dirs["work"] / "book-paperback.css"
+        pdf_path = dirs["print"] / f"{base}-paperback-interior.pdf"
+        print_report_path = dirs["print"] / f"{base}-print-report.json"
+        print_cover_path = print_cover_asset
+        pdf_html = render_pdf_html(
+            result.chapters,
+            meta,
+            args.style,
+            args.scope,
+            result.partial,
+            cover_path,
+            pdf_html_path,
+            pdf_css_path,
+            illustrations,
+            include_cover=False,
+            catalog_entries=catalog_entries,
+            illustration_mode=print_spec.illustration_mode,
+        )
+        report = export_paperback_interior(
+            spec=print_spec,
+            chapters=result.chapters,
+            html_text=pdf_html,
+            html_path=pdf_html_path,
+            css_path=pdf_css_path,
+            pdf_path=pdf_path,
+            report_path=print_report_path,
+            author=str(meta.get("author") or book.get("author") or ""),
+            title=str(meta.get("title") or book.get("title") or title),
+            illustrations=illustrations,
+        )
+        outputs.append(pdf_path)
+        outputs.append(print_report_path)
+        print(
+            f"Taschenbuch: {report.get('page_count')} Seiten, "
+            f"{report.get('trim_size')} / {report.get('layout_profile')} / "
+            f"{report.get('illustration_mode')}, "
+            f"Bundsteg {report.get('gutter_mm')} mm, "
+            f"{report.get('iterations')} Satzlauf(e), "
+            f"KDP-max {report.get('kdp_max_pages')}"
+        )
+        for warning in report.get("warnings") or []:
+            print(f"  Hinweis: {warning}")
+        if args.format == "paperback-complete":
+            complete_parts: list[Path] = []
+            if print_cover_path is not None:
+                cover_pdf = export_print_cover_page(
+                    cover_path=print_cover_path,
+                    html_path=dirs["work"] / f"{base}.print-cover.html",
+                    pdf_path=dirs["work"] / f"{base}.print-cover.pdf",
+                    spec=print_spec,
+                )
+                complete_parts.append(cover_pdf)
+                print(f"Druckcover: {rel_label(print_cover_path)}")
+            else:
+                print("Druckcover: keines (cover-print fehlt, PDF ohne Coverbild).")
+            complete_parts.append(pdf_path)
+            back_pdf = export_print_back_page(
+                meta=meta,
+                html_path=dirs["work"] / f"{base}.print-back.html",
+                pdf_path=dirs["work"] / f"{base}.print-back.pdf",
+                spec=print_spec,
+            )
+            complete_parts.append(back_pdf)
+            complete_path = dirs["print"] / f"{base}-paperback-complete.pdf"
+            concat_pdfs(complete_parts, complete_path)
+            outputs.append(complete_path)
+            print(f"Taschenbuch komplett: {count_pdf_pages(complete_path)} Seiten")
+            if print_cover_path is not None:
+                wrap_path = export_print_wrap(
+                    meta=meta,
+                    cover_path=print_cover_path,
+                    html_path=dirs["work"] / f"{base}.paperback-wrap.html",
+                    pdf_path=dirs["print"] / f"{base}-paperback-wrap.pdf",
+                    spec=print_spec,
+                    page_count=int(report.get("page_count") or 1),
+                )
+                outputs.append(wrap_path)
+                print(f"Wrap: {rel_label(wrap_path)}")
+            report["print_cover"] = (
+                rel_label(print_cover_path) if print_cover_path else None
+            )
+            report["complete_pdf"] = rel_label(complete_path)
+            write_print_report(print_report_path, report)
     manifest_path = dirs["manifests"] / f"{base}.json"
     manifest = {
         "book_id": book["id"],
@@ -2417,7 +2616,13 @@ def main() -> int:
         "work_markdown": rel_label(md_path),
         "work_pdf_html": rel_label(pdf_html_path) if pdf_html_path else None,
         "work_pdf_css": rel_label(pdf_css_path) if pdf_css_path else None,
+        "print_report": rel_label(print_report_path) if print_report_path else None,
+        "print_trim_size": getattr(print_spec, "trim_size", None),
+        "print_layout_profile": getattr(print_spec, "layout_profile", None),
+        "print_illustration_mode": getattr(print_spec, "illustration_mode", None),
+        "print_paper": getattr(print_spec, "paper", None),
         "cover": rel_label(cover_path),
+        "print_cover": rel_label(print_cover_asset) if print_cover_asset else None,
         "illustrations": [
             {
                 "kind": item.kind,

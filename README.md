@@ -11,16 +11,24 @@ Dadurch werden fertige Kapitel nicht unnoetig erneut durch ein LLM geschickt.
 
 ## Schnellstart Fuer KI Und Menschen
 
-1. Lies `AGENTS.md` (Sektion Fortsetzung = Einstieg im gleichen Ordner/neuen Fenster), dann `docs/HANDOVER.md` (aktueller Stand), dann diese README.
+1. Neues Chat-Fenster, gleicher Ordner: Kopiertext
+   [docs/uebergabe-prompt.md](docs/uebergabe-prompt.md). Sonst zuerst
+   `AGENTS.md` (Sektion Fortsetzung), dann `docs/HANDOVER.md`, dann diese README.
+   Unter Windows CLI `py -3`, nicht `python`.
 2. Arbeite immer buchbezogen unter `books/<book-id>/`.
 3. Aendere Originalquellen in `books/<book-id>/source/` und Material in
    `logic/` nicht ohne ausdrueckliche Rueckfrage. Ausnahme Chronik 2026-09-18: Nutzer liefert Neufassungen nach `work/scenes/de/NNN/`; `work/chapters/NNN-source.md` wird mitgezogen (Kopfformat `# Titel` + `*Buch/*Kapitel-ID*` + `---`), `source/` bleibt tabu.
-4. Pruefe den Stand mit `python tools/status.py --book <book-id> summary`. Chronik-Lage zusaetzlich: `py -3 tools/review_manuscript.py --book die-dritte-chronik --style stil-01-original --all --llm none --fail-on-errors` (erwartet 2026-09-19 abends: ERROR=0/WARNING=13/INFO=36; Details `docs/offene-punkte.md` Punkt 6).
+4. Pruefe den Stand mit `py -3 tools/status.py --book <book-id> summary`.
+   Chronik-Gate: `py -3 tools/review_manuscript.py --book die-dritte-chronik --style stil-01-original --all --llm none --fail-on-errors`
+   (ERROR=0/WARNING=13/INFO=36; Details `docs/offene-punkte.md` Punkt 6 + 12).
+   Print-Vergleich Pharao: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`
+   (A 924 / B 788 / C 673 / D 643 Seiten; Cream-Limit 776).
 5. Produktive Style-Profile liegen in `books/<book-id>/styles/*.md`.
 
 > **Keine Memory Bank:** Dieses Projekt pflegt bewusst keine Cline Memory Bank
-> (`memory-bank/`). Massgeblicher Kontext sind AGENTS.md, README.md sowie die
-> buchlokalen `book.yaml`- und `export.yaml`-Dateien. Der Ordner `memory-bank/`
+> (`memory-bank/`). Massgeblicher Kontext sind AGENTS.md, README.md,
+> `docs/HANDOVER.md`, `docs/uebergabe-prompt.md` sowie die buchlokalen
+> `book.yaml`- und `export.yaml`-Dateien. Der Ordner `memory-bank/`
 > steht in `.gitignore`.
 
 ## Arbeitsplan / Offene Punkte
@@ -38,16 +46,19 @@ Leben Arsenjews (Release-Kandidat 09/2026): Gate ERROR=0/WARNING=8, Buch-EPUB
 `book-das-leben-arsenjews-stil-02-poetisch-20260917-212334.epub` ohne Bypass.
 Offen: Kindle Previewer + menschliche Stichprobe (029/034/037/040).
 
-Die dritte Chronik (DE-Original, Redaktion 09/2026 abgeschlossen): Gate
-ERROR=0/WARNING=13/INFO=36, 29 von 48 Kapiteln clean 0/0. Buch-EPUB mit
-kompletter Bebilderung `book-die-dritte-chronik-stil-01-original-20260919-222611.epub`
-(48/48 Kapitel, 50 Bilder inkl. Cover, 4,99 MB) ohne Bypass.
-Gelaufen 2026-09-19 (ohne OpenRouter): komplett-Runde 031 (Neufassung,
-0W/1I Stilmittel) / 033 / 036 (je clean 0/0), mini-Runde 009/026/035 clean,
-018 0W/4I, 041 0W/1I. Rest-Tabelle: `docs/offene-punkte.md` Punkt 6.
-**Release-Einschaetzung 2026-09-19: Text + Bilder bereit (48/48 bebildert);
-offen sind nur frischer DOCX/PDF-Bau und eine menschliche Leseprobe
-(Kindle Previewer + Stichprobe 031/033/036, 009/035/041).**
+Die dritte Chronik (DE-Original, Redaktion 09/2026 abgeschlossen, KDP-fertig
+2026-09-21): Gate ERROR=0/WARNING=13/INFO=36, 29 von 48 Kapiteln clean 0/0.
+Aktuelles Buch-EPUB `book-die-dritte-chronik-stil-01-original-20260921-131112.epub`
+(48/48 Kapitel, 50 Bilder inkl. Cover, ohne Bypass; aelterer Stempel
+`20260919-222611` ist ueberholt). Rest-Tabelle: `docs/offene-punkte.md`
+Punkt 6 + 12. Offen: Kindle-Preview + Leseprobe, KDP-Upload durch Nutzer.
+
+Pharao (LIVE): Print-Optionen 2026-09-21 auf `main` (Trim/Profil/Bilder).
+Innenleben A–D: 924 / 788 / 673 / 643 Seiten; Cream-Limit 776. Gate ERROR=0
+nach restaurierter Einleitung 000. Vergleich:
+`books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`.
+Offen: Print-Leseprobe und Entscheidung 788 vs. 776 fuer 6x9 classic
+(`docs/offene-punkte.md` Punkt 11).
 
 ## Voraussetzungen
 
@@ -100,6 +111,7 @@ books/<book-id>/
     style-tests/
     legacy/
   exports/<style>/<chapter|book>/
+  exports/<style>/book/print/   # KDP-Taschenbuch (interior/complete/wrap)
   exports/marketing/
   status/status.json
   status/logs/
@@ -201,6 +213,8 @@ python tools/translate_batch.py --book anna-karenina --from 001 --to 005 --style
 python tools/assemble_chapter.py --book anna-karenina --chapter 001 --style stil-01-original
 python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter 001 --style stil-01-original --format all --allow-partial
 python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter 001 --style stil-01-original --format pdf --allow-partial
+python tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback
+python tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback-complete
 
 # Review-Fixes aus vorhandenen Review-JSONs
 python tools/apply_review_suggestions.py --book anna-karenina --style stil-01-original --plan
@@ -411,10 +425,46 @@ Reader-abhaengige Titel-Fragmente. Langtext-Frontmatter wie Zusammenfassung und
 Autorenleben nutzt nur relative CSS-Groessen, damit Reader-Schriftgroessen
 weiterhin vom Nutzer gesteuert werden koennen.
 
-PDF-Hinweis: PDF wird explizit mit `--format pdf` erzeugt. `--format all`
-bleibt rueckwaertskompatibel bei DOCX+EPUB. Der PDF-Export rendert eine
-eigene HTML-/CSS-Datei mit Playwright/Chromium; Seitenformat und Raender
-kommen aus dem Print-CSS (`A5` als Standard).
+PDF-Hinweis: `--format pdf` bleibt die A5-Vorschau (Playwright/Chromium,
+`book-print.css`). Das druckfertige KDP-Innenleben ist `--format paperback`.
+Trim und Satzprofil sind unabhaengig waehlbar (kein Auto-Wechsel nach
+Seitenzahl). Default bleibt 5,5×8,5 Zoll / `classic` (EB Garamond 10,8/13,6 pt).
+
+```bat
+:: 5.5 x 8.5, classic, Kapitelbilder eigene Seite
+py -3 tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback --trim-size 5.5x8.5 --layout-profile classic --illustration-mode full_page
+
+:: 6 x 9, gleicher Satz wie oben (nur Format wechselt)
+py -3 tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback --trim-size 6x9 --layout-profile classic --illustration-mode full_page
+
+:: 6 x 9, long_classic (10,2/12,5 pt), Bilder inline (oben, Text darunter)
+py -3 tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback --trim-size 6x9 --layout-profile long_classic --illustration-mode inline
+```
+
+`--format paperback-complete` liefert Innenleben plus Rueckseite, Reihenkatalog
+und – wenn `assets/covers/cover-print.jpg` oder `.png` existiert – Vorderseite
+und Wrap-PDF (Rueckenbreite creme/SW = Seitenzahl × 0,0635 mm). Fehlt das
+Druckcover, entsteht das Komplett-PDF ohne Coverbild. Ausgabe unter
+`exports/<style>/book/print/`; Dateiname enthaelt Trim/Profil/Bilder
+(`…-55x85-classic-full-…-paperback-interior.pdf`). Print-Report:
+`*-print-report.json` (Seitenzahl, `kdp_max_pages`, Cream=776, White=828).
+Ohne neue Flags gilt `config/print.yaml` (5.5x8.5 / classic / full_page / cream).
+`--format all` bleibt DOCX+EPUB.
+
+Drei Print-PDFs (nicht verwechseln):
+
+| Datei | Was es ist |
+|---|---|
+| `*-paperback-interior.pdf` | Buchinhalt fuer KDP (ohne Cover) |
+| `*-paperback-complete.pdf` | Zum Blaettern: Coverseite, Text, Rueckseite |
+| `*-paperback-wrap.pdf` | Umschlag **als eine Flaeche** (Rueckseite \| Ruecken \| Vorderseite) fuer den KDP-Cover-Upload |
+
+Druck-Vorderseite: manuell `books/<id>/assets/covers/cover-print.jpg` oder `.png`.
+Kein Fallback auf das Kindle-`cover.jpg`. Fehlt `cover-print`, entsteht das
+Komplett-PDF ohne Coverbild, der Wrap entfaellt.
+
+Reihenkatalog (andere Motivatier-Classics) haengt EPUB und Paperback an.
+Abschalten pro Buch: `website.catalog: false` in `export.yaml`.
 
 Coverpfade sind relativ zum Buchpaket:
 
@@ -429,6 +479,8 @@ Wird keine `image_path` in `export.yaml` gesetzt, erkennt der Export
 automatisch eine Datei `cover.png`, `cover.jpg`, `cover.jpeg` oder
 `cover.webp` in `books/<id>/assets/covers/` (case-insensitive). Erst
 wenn gar kein Bild gefunden wird, entsteht ein Platzhalter-Cover.
+Fuer den Taschenbuch-Umschlag zusaetzlich (optional, manuell)
+`cover-print.jpg` / `cover-print.png` im selben Ordner.
 
 Optionale Kapitel- und Szenenbilder werden beim Export automatisch eingebunden,
 wenn `illustrations.enabled` aktiv ist und passende Dateien im Buchpaket

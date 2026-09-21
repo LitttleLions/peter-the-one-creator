@@ -126,6 +126,57 @@ class WorkbenchApiTests(unittest.TestCase):
         self.assertEqual(fix_cmd[-1], "--stage")
         self.assertEqual(build_shelf_website_command(), ["tools/build_shelf_website.py"])
 
+        paperback_cmd = build_export_command(
+            ExportOptions(
+                book_id="pharao",
+                style="stil",
+                scope="book",
+                export_format="paperback",
+                allow_review_errors=True,
+            )
+        )
+        self.assertEqual(paperback_cmd[-1], "--allow-review-errors")
+        self.assertIn("paperback", paperback_cmd)
+
+        complete_cmd = build_export_command(
+            ExportOptions(
+                book_id="pharao",
+                style="stil",
+                scope="book",
+                export_format="paperback-complete",
+            )
+        )
+        self.assertIn("paperback-complete", complete_cmd)
+
+        flagged = build_export_command(
+            ExportOptions(
+                book_id="pharao",
+                style="stil",
+                scope="book",
+                export_format="paperback",
+                trim_size="6x9",
+                layout_profile="long_classic",
+                illustration_mode="inline",
+            )
+        )
+        self.assertIn("--trim-size", flagged)
+        self.assertIn("6x9", flagged)
+        self.assertIn("--layout-profile", flagged)
+        self.assertIn("long_classic", flagged)
+        self.assertIn("--illustration-mode", flagged)
+        self.assertIn("inline", flagged)
+
+        epub_cmd = build_export_command(
+            ExportOptions(
+                book_id="pharao",
+                style="stil",
+                scope="book",
+                export_format="epub",
+            )
+        )
+        self.assertNotIn("--trim-size", epub_cmd)
+        self.assertNotIn("--layout-profile", epub_cmd)
+
     def test_load_website_settings_and_list(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)

@@ -1,6 +1,6 @@
 # Offene Punkte / Arbeitsplan
 
-Stand: 2026-09-18. Quelle: `AGENTS.md`, `README.md`, `docs/HANDOVER.md`.
+Stand: 2026-09-21. Quelle: `AGENTS.md`, `README.md`, `docs/HANDOVER.md`.
 
 Pflege: Bei Erledigung Status + Datum in der jeweiligen Sektion aktualisieren.
 Dieses Dokument ist die verbindliche Checkliste, auf die aus der `README.md`
@@ -733,6 +733,37 @@ Kontinuitaets-Vorfragen (Fenster, Bericht-vs-arcs,
 Gueyuek-Deutung), (3) KDP-Serie in KDP anlegen (Band 1) +
 KDP-Upload durch Nutzer + Amazon-URL zurueckspielen.
 
+## 11. Taschenbuch: Cover-Wrap, Rueckseite, Reihenkatalog
+
+Status: UMGESETZT und erweitert (2026-09-21, Trim/Profil/Bilder waehlbar).
+
+- Druckcover: manuell `books/<id>/assets/covers/cover-print.{jpg,png,…}`.
+  Kein Fallback auf Kindle-`cover.jpg`, kein Platzhalter.
+- `--format paperback`: KDP-Innenleben ohne Coverseite
+  (`*-paperback-interior.pdf`).
+- `--format paperback-complete`: Lese-PDF (`*-paperback-complete.pdf`) =
+  optionale Vorderseite + Innenleben + generierte Rueckseite
+  (Barcode-Freiflaeche). Wrap-PDF (`*-paperback-wrap.pdf`) nur wenn
+  cover-print vorliegt: Umschlag **als eine Flaeche**
+  (Rueckseite \| Ruecken \| Vorderseite), nicht der Buchtext.
+  Ohne Bild entsteht das Komplett-PDF trotzdem, der Wrap entfaellt.
+- Rueckenbreite cremefarben/SW: `Seitenzahl × 0,0635 mm`.
+- Trim und Satzprofil getrennt: `--trim-size 5.5x8.5|6x9`,
+  `--layout-profile classic|long_classic`. Kein Auto-Trim nach Seitenzahl.
+- Kapitelbilder: `--illustration-mode full_page` (eigene Seite, Ist-Verhalten)
+  oder `inline` (Bild oben, Text darunter, max. 45 % Satzhoehe).
+- KDP-Seitenlimits zentral: cream 776, white 828, groundwood 812.
+  Ueberschreitung warnt, aendert den Satz nicht.
+- Reihenkatalog am Buchende in EPUB und Paperback
+  (`tools/lib/series_catalog.py`, `website.enabled`, `website.catalog: false`
+  schliesst PARKIERT/WIP aus).
+- Dateiname: `…-55x85-classic-full-TIMESTAMP-paperback-interior.pdf`.
+  Report: `*-print-report.json`. Vergleich: `tools/lib/print_compare.py`.
+- Pharao A–D (creme, 2026-09-21): 924 / 788 / 673 / 643 Seiten.
+  Tabelle: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`.
+  A und B liegen ueber 776; C und D sind KDP-creme-tauglich.
+- Kopiertext neues Chat-Fenster: `docs/uebergabe-prompt.md`.
+
 ## Empfohlene Reihenfolge
 
 1. Punkt 0 (Peter-I-Pruefung, vorgezogen) - lesend, ohne Kosten.
@@ -740,4 +771,7 @@ KDP-Upload durch Nutzer + Amazon-URL zurueckspielen.
 3. Punkt 2 + 3 (Top-5 Stilurteil, Cover/Regal-Sync).
 4. Punkt 2-Rest (Moloch -> Duell -> Grin -> Pissemski), je mit Freigabe.
 5. Punkte 5 / 4 / 6 / 7 nach Kapazitaet.
+6. Punkt 11 ist auf `main` (Taschenbuch komplett + Katalog + Trim/Profil/Bilder);
+   offen bleibt die menschliche Print-Leseprobe, 788 vs. 776 bei 6x9 classic,
+   und ein manuelles `cover-print` je Titel.
 

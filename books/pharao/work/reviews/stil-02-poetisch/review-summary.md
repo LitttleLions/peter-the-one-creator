@@ -2,17 +2,17 @@
 
 - Buch-ID: pharao
 - Stil: stil-02-poetisch
-- Erstellt: 2026-09-17T18:56:35
+- Erstellt: 2026-09-21T16:09:17
 - LLM: none
 - Kapitel: 69
-- Kapitel mit Befunden: 2
-- Fehler: 3
+- Kapitel mit Befunden: 3
+- Fehler: 0
 - Warnungen: 2
-- Hinweise: 0
+- Hinweise: 2
 
 ## Kapitel
 
-- 000: Befund (ERROR=3, WARNING=0, INFO=0)
+- 000: OK (ERROR=0, WARNING=0, INFO=0)
 - 001: OK (ERROR=0, WARNING=0, INFO=0)
 - 002: OK (ERROR=0, WARNING=0, INFO=0)
 - 003: OK (ERROR=0, WARNING=0, INFO=0)
@@ -37,7 +37,7 @@
 - 022: OK (ERROR=0, WARNING=0, INFO=0)
 - 023: OK (ERROR=0, WARNING=0, INFO=0)
 - 024: OK (ERROR=0, WARNING=0, INFO=0)
-- 025: OK (ERROR=0, WARNING=0, INFO=0)
+- 025: Befund (ERROR=0, WARNING=0, INFO=1)
 - 026: OK (ERROR=0, WARNING=0, INFO=0)
 - 027: OK (ERROR=0, WARNING=0, INFO=0)
 - 028: OK (ERROR=0, WARNING=0, INFO=0)
@@ -71,7 +71,7 @@
 - 056: OK (ERROR=0, WARNING=0, INFO=0)
 - 057: OK (ERROR=0, WARNING=0, INFO=0)
 - 058: OK (ERROR=0, WARNING=0, INFO=0)
-- 059: OK (ERROR=0, WARNING=0, INFO=0)
+- 059: Befund (ERROR=0, WARNING=0, INFO=1)
 - 060: OK (ERROR=0, WARNING=0, INFO=0)
 - 061: OK (ERROR=0, WARNING=0, INFO=0)
 - 062: OK (ERROR=0, WARNING=0, INFO=0)
@@ -81,9 +81,3 @@
 - 066: OK (ERROR=0, WARNING=0, INFO=0)
 - 067: OK (ERROR=0, WARNING=0, INFO=0)
 - 068: OK (ERROR=0, WARNING=0, INFO=0)
-
-## Release-blockierende Fehler
-
-- 000, Szene 01: length_ratio - DE/PL-Wortverhaeltnis ist stark auffaellig (0.23).
-- 000, Szene 01: paragraph_drop - DE-Szene hat deutlich weniger Absaetze als die PL-Quelle (12 statt 24) und weniger Woerter (0.23 x).
-- 000, Szene 01: length_outlier - DE/PL-Wortverhaeltnis 0.23 weicht stark vom Buch-Median 1.22 ab.

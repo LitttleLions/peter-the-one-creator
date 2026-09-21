@@ -1,19 +1,66 @@
-# Handover – Stand 2026-09-21 nachm. (Chronik KDP-fertig: EPUB 131112, Gate 0/13/36, Timo Verita + Classics + Motivatier Stiftung; Untertitel eingebaut/exportiert, Mongolen-Serie in KDP anzulegen; Aelita LIVE; Anna PARKIERT)
+# Handover – Stand 2026-09-21 abends (Pharao Print-Optionen Trim/Profil/Bilder auf main; Chronik KDP-fertig EPUB 131112; Aelita LIVE; Anna PARKIERT)
 
-> Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei,
-> bei Bedarf [README.md](../README.md) und [webpage/README.md](../webpage/README.md).
+> Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei.
+> Kopierfertiger Einstieg: [uebergabe-prompt.md](./uebergabe-prompt.md).
+
+## Letzte Session (2026-09-21, Print-Optionen Trim/Profil/Bilder)
+
+Paperback-Export waehlt Trim, Satzprofil und Bildmodus pro Job. Default
+bleibt 5.5×8.5 / classic / full_page (kein stiller Satzwechsel). Cream-Limit
+ist 776 (White 828, Groundwood 812). Dashboard: Dropdowns nur bei
+Taschenbuch-Formaten. CLI:
+
+`py -3 tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback --trim-size 6x9 --layout-profile classic --illustration-mode full_page`
+
+Dateiname enthaelt Slug `55x85-classic-full` bzw. `6x9-long_classic-inline`.
+Print-Report: `within_kdp_page_limit`, `kdp_max_pages`. Keine automatische
+Typo-Optimierung. Stale-Jobs koennen ueber Manifest+Report auf completed
+gehoben werden.
+
+Aelterer Komplett-Pilot ohne Varianten-Slug: Stempel `20260921-155209`
+(924 Seiten, Limit damals 828). Neue Varianten 2026-09-21:
+
+- A 5.5x8.5 classic full: **924** Seiten (nicht KDP-creme)
+- B 6x9 classic full: **788** Seiten (–136 / –14,7 % gegen A; noch +12 ueber 776)
+- C 6x9 long_classic full: **673** Seiten
+- D 6x9 long_classic inline: **643** Seiten
+
+Vergleich: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`.
+Code, Tests, Doku, Pharao-000 und `cover-print.png` sind auf `main`.
+Die grossen Interior-/Complete-/Wrap-PDFs bleiben lokal (regenerierbar).
+
+| Datei | Rolle |
+|---|---|
+| `*-paperback-interior.pdf` | KDP-Innenleben (kein Cover, 924 Seiten) |
+| `*-paperback-complete.pdf` | Lese-PDF: Vorderseite + Buch + Rueckseite (~926) |
+| `*-paperback-wrap.pdf` | **Umschlag als eine Flaeche:** Rueckseite \| Ruecken \| Vorderseite (KDP-Cover-Upload) |
+| `*-print-report.json` | Seitenzahl, Bundsteg, Warnungen |
+
+Wrap ist nicht der Buchtext. Rueckenbreite cremefarben/SW = Seitenzahl ×
+0,0635 mm (hier 924 → ~58,7 mm). Vorderseite nur aus manuellem
+`assets/covers/cover-print.png` (kein Fallback auf Kindle-`cover.jpg`).
+KDP-Creme-Maximum 776 Seiten — Report warnt, Satz bleibt unveraendert.
+
+Kapitel **000** (Einleitung): Arbeitsdatei war ein erfundener Essay; Juni-Wstęp
+mit Herodot-Zitat wiederhergestellt. Gate-Abbruch kam, weil das Release-Gate
+erst 16./17.09. scharf wurde. Buch-Gate ERROR=0.
+
+Reihenkatalog am Buchende in EPUB und Print (`tools/lib/series_catalog.py`).
+`website.catalog: false` bei Anna, Grin, Pissemski.
+
+Dashboard: http://127.0.0.1:8000 — Dropdowns Trim/Profil/Bilder nur bei
+Taschenbuch-Formaten. Stale-Jobs: `tasklist`-Encoding plus Manifest+Report
+(`tools/lib/dashboard_jobs.py`). Frontend zuletzt mit `--build` neu gestartet.
 
 ## Git / Branch
 
 | Item | Wert |
 |------|------|
 | Aktiver Branch | `main` (tracking `origin/main`) |
-| Tip (inhaltlich) | `af6873c` Top-5-Buchpakete; danach am 2026-09-13 Fixes: Status-Drift (verlustfrei, 390 Kapitel), `style_mode`-Abgleich, Phantom-Kapitel in `chapter_ids()`, Peter-I-Artefakte nach `work/legacy/`, Doku, Mongolen-Belegpruefung, Handcover, V4.1-Flash-Pilot (`kuprin-moloch` 001) |
-| Davor auf main | `6588800` (Titelsuche + Rangliste-45 als Vorlage); davor `a7c8c34` (Merge: FastAPI-Dashboard, Regal-Website, HANDOVER), `b376f5c`, `de91155` |
+| Tip | Print-Workflow 2026-09-21 (Trim/Profil/Bilder, Pharao A–D, Reihenkatalog, Pharao-000). Davor `1beb55d` Chronik KDP-fertig + Tausend Seelen `stil-02-poetisch` Gate 0/0/5 + Aelita/Arsenjew Amazon |
+| Davor auf main | `15566c0` Chronik Gate-Fixes; `bc5a1c6` / `c293fdc` Peter-I Raffung; `081b1ca` Marketingexport |
 | Feature-Branch | `codex/geheime-geschichte-mongolen-prompts` – Inhalt ist in `main` enthalten; Branch kann später gelöscht werden |
-| Arbeitsbaum (13.09.2026) | clean; ausserhalb der Versionierung nur `staging/` (gitignored: lokale Audit-/Reparaturhelfer `audit_*.py`, `repair_status_v2.py`, `run-*.cmd`, `probe_*.py`), `var/` (Laufzeitlogs) und `books/leben-arsenjews/work/cover.png` (Platzhalter). Cover-Stand: `0162ef9` |
-| Neu 2026-09-13 (nicht committet) | Marketingexport: `tools/export_marketing.py`, `tools/lib/marketing_campaign.py`, `tools/lib/marketing_prompts.py`, `config/marketing.yaml`, `docs/marketing-export.md`, `tests/test_marketing_campaign.py`, `tests/test_marketing_prompts.py`, `tests/test_marketing_api.py`; geaendert: `requirements.txt` (+`tzdata`), `tools/lib/workbench_api.py`, `webapp/backend/main.py`, `webapp/frontend/src/{App.tsx,api.ts,types.ts}`, `books/peter-i-buch-01/export.yaml` (+`marketing:`-Block), `AGENTS.md`, `README.md`, `docs/HANDOVER.md` |
-| Neu 2026-09-17 (nicht committet) | Peter-I-Abschluss: 3 weitere geraffte Szenen (`009/scene-08`, `010/scene-01`, `010/scene-02`) mit `--chunk-char-limit 7000` neu uebersetzt, Kapitel 009/010 neu assembliert, Buch-EPUB `...-20260917-113509.epub` (Gate: 0 Fehler, kein Bypass). Regelcheck nachgeruestet: `tools/lib/review_checks.py` (+`paragraph_drop`, +`length_outlier`), `tools/review_manuscript.py` (buchweite Auswertung **vor** dem KI-Review), `tests/test_review_manuscript.py` (23 Tests gruen), `docs/offene-punkte.md`, `AGENTS.md`, `README.md`. Aufgeraeumt: `var/` (86 Dateien) + `var-*.txt` im Root entfernt |
+| Arbeitsbaum | Print-Code ist versioniert. Lokal bleiben regenerierbare Print-PDFs unter `books/pharao/exports/.../print/` sowie `exports/.../work/`-HTML. `staging/` und `var/` gitignored. |
 
 **Warnung (schon passiert):** Checkout auf ein altes `main` ohne die Codex-Commits ließ Buchordner als leere Hüllen zurück. Nicht blind zwischen Branches wechseln, ohne vorher zu prüfen, ob `books/*/book.yaml` noch da sind.
 
@@ -31,9 +78,9 @@ Buchzentrierte Übersetzungs-/Export-Werkbank (`books/<id>/`). Dashboard = FastA
 | `aelita` | Aëlita | stil-03-branderson | 10 | `cover.png` + `cover.jpg`-Sidecar + `coverII.jpg` | **LIVE 09/2026** (Amazon-Link + Marketing nach Amazon-Freigabe) |
 | `leben-arsenjews` | Das Leben Arsenjews | stil-02-poetisch | 20 | `cover.jpg` / `.png` | **Release-Kandidat 09/2026** (Gate ERROR=0/WARNING=8, EPUB 20260917-212334 ohne Bypass; Kindle-Preview + Stichprobe offen) |
 | `anna-karenina` | Anna Karenina | stil-02-poetisch | 20 | `annakarenina.png` (per `image_path`) + Regal-Kopie | **PARKIERT** (Nutzerentscheidung 09/2026) |
-| `pharao` | Der Pharao | stil-02-poetisch | 30 | `cover.jpg` | **LIVE** |
+| `pharao` | Der Pharao | stil-02-poetisch | 30 | `cover.jpg` + `cover-print.png` | **LIVE**; Print-Optionen 2026-09-21 (A 924 / B 788 / C 673 / D 643; Cream 776) |
 | `feuriger-engel` | Der feurige Engel | stil-02-poetisch | 50 | `cover.jpg` / `.png` | **LIVE** |
-| `die-dritte-chronik` | Die dritte Chronik | stil-01-original | 60 | `cover.jpg` / `.png` | **Redaktion + Bilder fertig 2026-09-19** (Gate 0/13/36, 29/48 clean, 48/48 bebildert, EPUB 20260919-222611 mit 50 Bildern ohne Bypass; offen: DOCX/PDF-Neubau, Leseprobe) |
+| `die-dritte-chronik` | Die dritte Chronik | stil-01-original | 60 | `cover.jpg` / `.png` | **KDP-fertig 2026-09-21** (Gate 0/13/36, 29/48 clean, 48/48 bebildert, EPUB 20260921-131112 mit 50 Bildern ohne Bypass; offen: Kindle-Preview, KDP-Upload) |
 | `geheime-geschichte-mongolen` | Die Geheime Geschichte der Mongolen | stil-01-original | 70 | `cover.png` (neu 09/2026) + `coverII.png` |
 | `kuprin-duell` | Das Duell | stil-01-original | 40 (nicht freigegeben) | `cover.png` |
 | `kuprin-moloch` | Der Moloch | stil-01-original | 40 (nicht freigegeben) | `cover.png` (neu 09/2026) |
@@ -55,6 +102,7 @@ website:
   enabled: true
   amazon_url: ''      # Button nur wenn gesetzt
   sort_order: 10
+  catalog: false      # optional; false = nicht im Reihenkatalog am Buchende
 ```
 
 Katalog neu bauen: `python tools/build_shelf_website.py` → `webpage/public/data/catalog.json` + `webpage/public/covers/`.
@@ -178,24 +226,17 @@ Verifizierter Fortschritt (dateibasiert im Default-Style, `staging/audit_progres
 | `leben-arsenjews` | `stil-02-poetisch` | 104 | 104 | 0 (50 done, 54 review) |
 | `peter-i-buch-01` | `stil-02-poetisch` | 18 | 18 | 0 (11 done, 7 review) |
 | `pharao` | `stil-02-poetisch` | 69 | 69 | 0 |
-| `pissemski-tausend-seelen` | `stil-01-original` | 44 | 0 | 44 |
+| `pissemski-tausend-seelen` | `stil-01-original` | 44 | 0 | 44 (`stil-02-poetisch` komplett, `1beb55d`) |
 
 Status-Drift B (Status `done`, Dateien unvollstaendig) ist in allen Paketen 0; die
 Review-Marker (`aelita` 1, `leben-arsenjews` 54, `peter-i-buch-01` 7) sind gewollt.
 Top-5 im Trockenlauf: 111 Kapitel / 221 Kommandos, 299.226 Quellwoerter (Summe
 `words_source`).
 
-**Parallel-Session 2026-09-19 (Working Tree, nicht committet):** Ein zweites
-Chat-Fenster hat (a) am Top-5-Paket `pissemski-tausend-seelen` 9 von 44
-Kapiteln in `stil-02-poetisch` erzeugt (Szenen + Reviews untracked;
-`status.py` meldet 9/44, default-Style bleibt `stil-01-original`) und
-(b) fuer die Chronik die **Szenenbilder 021-048** generiert
-(`assets/scene/021..048/scene-001.jpg`, 19.09. 18:49-19:12, untracked;
-damit ist die Bebilderung mit 48/48 komplett - Kapitelbild 001-014,
-Szenenbild 008 + 015-048). Ausserdem neu/uncommittet:
-`kuprin-moloch`-Prompts und Regal-Cover
-`webpage/public/covers/{grin-wellenlaeuferin,pissemski-tausend-seelen}.png`.
-Nicht ueberschreiben, nur ergaenzen.
+**Pissemski / Chronik-Bilder:** Seit `1beb55d` auf `main`. Tausend Seelen
+in `stil-02-poetisch` (Gate 0/0/5 + EPUB); Default-Style in `book.yaml`
+bleibt `stil-01-original`. Chronik-Szenenbilder 021–048 sind versioniert
+(Bebilderung 48/48).
 
 ### Geheime Geschichte der Mongolen
 
@@ -217,12 +258,13 @@ Nicht ueberschreiben, nur ergaenzen.
   041 0W/1I. Gate ERROR=0/WARNING=13/INFO=36, 29/48 clean
 - **Bebilderung komplett (2026-09-19):** 48/48 Kapitel bebildert
   (Kapitelbild 001-014, Szenenbild 008 + 015-048 = 49 Bilder + Cover).
-  Buch-EPUB `book-die-dritte-chronik-stil-01-original-20260919-222611.epub`
-  (4,99 MB, 50 Bilder, alle JPEGs validiert, Gate 0 Fehler, ohne Bypass).
-  Die Szenenbilder 021-048 sind noch untracked (Parallel-Session)
-- **Offen (Release-Einschaetzung 2026-09-19: Text + Bilder bereit):**
-  (1) frischer DOCX/PDF-Bau vom aktuellen Stand, (2) menschliche
-  Leseprobe (Kindle Previewer + Stichprobe 031/033/036, 009/035/041)
+  KDP-EPUB `book-die-dritte-chronik-stil-01-original-20260921-131112.epub`
+  (50 Bilder, Gate 0 Fehler, ohne Bypass; aelterer Stempel
+  `20260919-222611` ist ueberholt). Die Szenenbilder 021-048 sind noch
+  untracked (Parallel-Session)
+- **Offen (Release-Einschaetzung 2026-09-21):** Kindle Previewer +
+  Leseprobe dieses EPUBs, KDP-Upload durch Nutzer, Amazon-URL
+  zurueckspielen. Kontinuitaet: `docs/offene-punkte.md` Punkt 12.
 
 ### Leben Arsenjews
 
@@ -478,6 +520,9 @@ mit 7000 nachgezogen), und `names.yaml` vorher fuellen - sonst laeuft
 | `tools/optimize_asset_images.py` | Export-JPGs verkleinern |
 | `tools/generate_illustration.py` | Higgsfield Kapitel/Szenen |
 | `tools/review_manuscript.py` | Deterministischer Regelcheck + Release-Gate (`--llm none --fail-on-errors`); seit 2026-09-17 inkl. `paragraph_drop` + buchweitem `length_outlier`. Im Dashboard = Action `review` (Scope "Ganzes Buch" fuer den Median-Check) |
+| `tools/export_manuscript.py --format paperback` | KDP-Taschenbuch-Innenleben (5,5×8,5, Bundsteg-Iteration, Kolumnentitel). `--format paperback-complete` addiert Cover-Print/Rueckseite/Wrap und Reihenkatalog. A5-Vorschau bleibt `--format pdf`. Wrap = Umschlagbogen, nicht der Buchtext. |
+| `tools/lib/print_{spec,css,pdf,wrap}.py` | Print-Spec, EB-Garamond-CSS, Playwright-PDF, Wrap-Bogen |
+| `tools/lib/series_catalog.py` | Reihenkatalog am Buchende (`website.enabled`, `website.catalog: false`) |
 | `tools/export_marketing.py` | Marketingpaket (Beitraege, YouTube-Materialien, `campaign.json`); siehe [marketing-export.md](marketing-export.md) |
 
 Higgsfield: [docs/higgsfield-integration.md](higgsfield-integration.md). Web-UI-Moodboards sind CLI-seitig nicht wählbar.
@@ -521,11 +566,10 @@ Higgsfield: [docs/higgsfield-integration.md](higgsfield-integration.md). Web-UI-
    echte Originalzitate via `work/review-allowlist.yaml`. Ein Export mit ERROR>0
    hat 2026-09 den live veroeffentlichten Peter-I-Band erreicht – das ist jetzt
    technisch verhindert. Doku: `AGENTS.md` (Abschnitt `Release-Gate`).
-2. Marketingexport im Dashboard live pruefen (Export-Seite → Karte
-   Marketingpaket), danach `git add`/commit der neuen Dateien (die Aenderung ist
-   noch nicht committet). Offen dafuer: Amazon-URLs in den `export.yaml`-Dateien,
-   optional Songdaten, optional `marketing.campaign_start`. Ein echter
-   OpenRouter-Textlauf ist kostenpflichtig und braucht ausdrueckliche Freigabe.
+2. Marketingexport ist auf `main` (seit 2026-09-13/21). Offen: Amazon-URLs
+   in den restlichen `export.yaml`-Dateien, optional Songdaten, optional
+   `marketing.campaign_start`. Ein echter OpenRouter-Textlauf ist
+   kostenpflichtig und braucht ausdrueckliche Freigabe.
 
 3. Top-5-Pakete: Pilot `kuprin-moloch` 001 ist gelaufen (2026-09-13, `needs_review`, 6682 Tokens, EPUB-Kette geprueft) – naechster Schritt ist das Stilurteil anhand dieser Szene; danach je Buch `translate_batch.py --missing --style stil-01-original --auto-status --assemble-after` (batch-seitig kein `--model`/`--reasoning-effort` noetig, beides kommt aus `book.yaml`; ohne `--auto-status` bleibt `status.json` auf `pending` → Status-Drift)
 4. Regal-Freigabe nach der finalen Cover-Wahl (`website.enabled: true`, `sort_order` 41–43; `kuprin-duell` behält 40), danach `python tools/build_shelf_website.py` – die Handcover sind seit `0162ef9` im Repo, die Regal-Kopien fuer aelita/mongolen aber noch alt. Cover entstehen weiter von Hand (kein CLI-Weg: `generate_illustration.py` kennt nur `--kind scene|chapter`)
@@ -559,6 +603,14 @@ Higgsfield: [docs/higgsfield-integration.md](higgsfield-integration.md). Web-UI-
 9. Optional: Feature-Branch `codex/geheime-geschichte-mongolen-prompts` remote löschen, wenn alle Clients auf `main` sind
 10. Anna-Cover: geprueft und erledigt – `export.yaml` setzt `cover.mode: image` mit `image_path: assets/covers/annakarenina.png` (Vorrang vor `find_named_image(..., "cover")`); nur bei geleertem Feld droht der Platzhalter
 11. Aelita Release-Kandidat (2026-09-17): Regelcheck 0/0 ueber alle 30 Kapitel. Kapitel 030: Romantext endet in der DE-Szene, Editionskommentare der RU-Quelle sind vollstaendig in den Anhang „Kommentare“ ausgelagert (`work/appendices/de/stil-03-branderson/kommentare.md`; alte Fassung in `work/legacy/`). Neues `appendices:`-Feature: `tools/lib/editorial_appendices.py`, Export EPUB/DOCX/PDF, Gate-Anrechnung in `review_checks.py` (27 Export-Tests gruen). 16 Kapitelbilder optimiert (Export-JPG q60, max 1600x2400, ~14,8 → ~2,4 MB); 12 Kapitel bleiben bewusst ohne Bild (009, 010, 011, 012, 016-019, 022-027); 11 wiedergefundene Motive fuer 020-030 liegen in `work/image-recovery/20260917-165216/verified/` zur freien Nutzung. Buch-EPUB `...-20260917-180435.epub` (Gate 0 Fehler) von Nutzer geprueft. Offen: Kindle Previewer.
+12. Taschenbuch (2026-09-21, auf `main`): `--format paperback` =
+    Innenleben; `--format paperback-complete` = Lese-PDF plus Wrap.
+    Trim `--trim-size 5.5x8.5|6x9`, Profil `classic|long_classic`, Bilder
+    `full_page|inline` getrennt waehlbar. Cream-Limit 776. Wrap =
+    Umschlagbogen Rueckseite|Ruecken|Vorderseite, nicht der Text.
+    Pharao A–D: 924 / 788 / 673 / 643 Seiten. Offen: menschliche
+    Print-Leseprobe, Entscheidung 788 vs. 776 fuer 6x9 classic,
+    `cover-print` fuer andere Titel.
 
 Covers und Übersetzungsläufe (OpenRouter-Kosten) nur nach ausdrücklicher Freigabe starten.
 

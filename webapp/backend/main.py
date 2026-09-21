@@ -104,6 +104,12 @@ class ActionPlanRequest(BaseModel):
     fail_on_errors: bool = False
     export_format: str | None = None
     allow_partial: bool = False
+    allow_review_errors: bool = False
+    trim_size: str | None = None
+    layout_profile: str | None = None
+    illustration_mode: str | None = None
+    paper: str | None = None
+    chapter_start: str | None = None
     kind: str | None = None
     backend: str | None = None
     moodboard: str | None = None
@@ -703,6 +709,12 @@ def _build_action_command(plan: ActionPlanRequest, repo_root: Path) -> list[str]
                 export_format=_required(plan.export_format, "export_format"),
                 chapter=plan.chapter,
                 allow_partial=plan.allow_partial,
+                allow_review_errors=plan.allow_review_errors,
+                trim_size=plan.trim_size,
+                layout_profile=plan.layout_profile,
+                illustration_mode=plan.illustration_mode,
+                paper=plan.paper,
+                chapter_start=plan.chapter_start,
             )
         )
     if action == "marketing_export":
@@ -794,6 +806,23 @@ def _build_action_command(plan: ActionPlanRequest, repo_root: Path) -> list[str]
             )
         )
     raise HTTPException(status_code=400, detail=f"Nicht geplante Action: {action}")
+
+
+def _job_extra_metadata(plan: ActionPlanRequest) -> dict[str, Any]:
+    extra: dict[str, Any] = {}
+    if plan.action.strip() != "export":
+        return extra
+    for key in (
+        "trim_size",
+        "layout_profile",
+        "illustration_mode",
+        "paper",
+        "chapter_start",
+    ):
+        value = getattr(plan, key, None)
+        if value:
+            extra[key] = value
+    return extra
 
 
 def _background_job_metadata(plan: ActionPlanRequest) -> tuple[str, str, str, str]:
@@ -1386,6 +1415,7 @@ def create_app(repo_root: Path = REPO_ROOT) -> FastAPI:
             provider=provider,
             kind=kind,
             repo_root=root,
+            extra=_job_extra_metadata(plan),
         )
         return {
             "job": jsonable(_job_detail(job, root, log_lines=20), root),

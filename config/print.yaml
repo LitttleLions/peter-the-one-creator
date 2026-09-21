@@ -1,0 +1,67 @@
+# ============================================================
+# Taschenbuch-Innenleben (KDP-Print): Serie-Defaults
+# ============================================================
+# Buchlokale Angaben stehen als top-level Block `print:` in
+# books/<book-id>/export.yaml und werden in diese Struktur gemerged.
+# CLI/Dashboard-Overlay (trim_size, layout_profile, illustration_mode)
+# liegt darueber und gilt nur fuer den jeweiligen Print-Job.
+#
+# `--format paperback` und `--format paperback-complete` lesen diese Datei.
+# `--format pdf` bleibt der A5-Vorschaupfad und ignoriert diesen Block.
+#
+# Cremepapier und Schwarzweiss-Druck sind KDP-Shop-Optionen, nicht PDF-Farbe.
+# Trim und Satzprofil sind unabhaengig: 6x9 aendert nicht die Schrift.
+# Druckcover: manuell `assets/covers/cover-print.jpg|png`. Wrap-Rueckenbreite:
+# Seitenzahl x 0,0635 mm (cremefarben/SW).
+
+enabled: true
+trim_size: "5.5x8.5"
+paper: cream
+ink: black
+bleed: false
+layout_profile: classic
+
+font:
+  family: EB Garamond
+  regular: assets/print-fonts/eb-garamond/EBGaramond.ttf
+  italic: assets/print-fonts/eb-garamond/EBGaramond-Italic.ttf
+
+layout_profiles:
+  classic:
+    font:
+      size_pt: 10.8
+      line_height_pt: 13.6
+    chapter:
+      opening_space_mm: 32
+      start: next_page
+    estimate:
+      words_per_page: 280
+  long_classic:
+    font:
+      size_pt: 10.2
+      line_height_pt: 12.5
+    chapter:
+      opening_space_mm: 32
+      start: next_page
+    estimate:
+      words_per_page: 320
+
+chapter:
+  opening_space_mm: 32
+
+paragraph:
+  first_line_indent_em: 1.2
+
+margins:
+  min_outer_mm: 12.7
+  top_mm: 16
+  bottom_mm: 18
+
+running_header:
+  left: author
+  right: title
+
+illustrations:
+  mode: full_page
+  inline:
+    max_height_ratio: 0.45

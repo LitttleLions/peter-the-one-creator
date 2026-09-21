@@ -2381,6 +2381,10 @@ function ExportPage({ book, settings }: { book?: BookSummary; settings: Workspac
   const [chapter, setChapter] = useState("");
   const [exportFormat, setExportFormat] = useState(settings.export_format);
   const [allowPartial, setAllowPartial] = useState(true);
+  const [allowReviewErrors, setAllowReviewErrors] = useState(false);
+  const [trimSize, setTrimSize] = useState("5.5x8.5");
+  const [layoutProfile, setLayoutProfile] = useState("classic");
+  const [illustrationMode, setIllustrationMode] = useState("full_page");
   const [selectedJobId, setSelectedJobId] = useState<string | null>(null);
 
   const chaptersQuery = useQuery({
@@ -2455,8 +2459,13 @@ function ExportPage({ book, settings }: { book?: BookSummary; settings: Workspac
     scope,
     chapter,
     exportFormat,
-    allowPartial
+    allowPartial,
+    allowReviewErrors,
+    trimSize,
+    layoutProfile,
+    illustrationMode
   });
+  const isPaperback = exportFormat === "paperback" || exportFormat === "paperback-complete";
 
   return (
     <section className="page-stack">
@@ -2466,6 +2475,7 @@ function ExportPage({ book, settings }: { book?: BookSummary; settings: Workspac
       />
       <ContextBar book={book} settings={settings} selectedJob={selectedJob} />
       <div className="workflow-grid">
+        <div className="workflow-main">
         <div className="panel stack-panel">
           <div className="panel-header">
             <div>
@@ -2510,11 +2520,56 @@ function ExportPage({ book, settings }: { book?: BookSummary; settings: Workspac
               <select value={exportFormat} onChange={(event) => setExportFormat(event.target.value)}>
                 <option value="docx">DOCX</option>
                 <option value="epub">EPUB</option>
-                <option value="pdf">PDF</option>
+                <option value="paperback">PDF (Taschenbuch-Innenleben)</option>
+                <option value="paperback-complete">Taschenbuch komplett</option>
+                <option value="pdf">PDF (A5-Vorschau)</option>
                 <option value="all">DOCX + EPUB</option>
               </select>
             </label>
           </div>
+          {isPaperback && (
+            <div className="form-grid">
+              <label className="form-field">
+                <span>Paperback-Format</span>
+                <select value={trimSize} onChange={(event) => setTrimSize(event.target.value)}>
+                  <option value="5.5x8.5">5.5 × 8.5 in — 139,7 × 215,9 mm</option>
+                  <option value="6x9">6 × 9 in — 152,4 × 228,6 mm</option>
+                </select>
+              </label>
+              <label className="form-field">
+                <span>Satzprofil</span>
+                <select value={layoutProfile} onChange={(event) => setLayoutProfile(event.target.value)}>
+                  <option value="classic">classic (10.8 / 13.6 pt)</option>
+                  <option value="long_classic">long_classic (10.2 / 12.5 pt)</option>
+                </select>
+              </label>
+              <label className="form-field">
+                <span>Kapitelbilder</span>
+                <select value={illustrationMode} onChange={(event) => setIllustrationMode(event.target.value)}>
+                  <option value="full_page">Full page (eigene Seite)</option>
+                  <option value="inline">Inline (Bild oben, Text darunter)</option>
+                </select>
+              </label>
+            </div>
+          )}
+          {exportFormat === "paperback" && (
+            <p className="muted-note">
+              Erzeugt die druckfertige KDP-Datei unter <code>exports/…/print/*-paperback-interior.pdf</code>
+              (nicht die A5-Vorschau). Format {trimSize}, Profil {layoutProfile}, Bilder {illustrationMode}.
+              Kein automatischer Wechsel auf 6×9.
+            </p>
+          )}
+          {exportFormat === "paperback-complete" && (
+            <p className="muted-note">
+              Innenleben plus Rueckseite und Reihenkatalog. Liegt <code>assets/covers/cover-print.jpg</code>
+              (oder .png) vor, kommen Vorderseite und Wrap-PDF dazu; sonst ohne Coverbild.
+            </p>
+          )}
+          {exportFormat === "pdf" && (
+            <p className="muted-note">
+              A5-Vorschau unter <code>exports/…/pdf/</code>. Fuer den Taschenbuch-Satz „PDF (Taschenbuch-Innenleben)“ waehlen.
+            </p>
+          )}
 
           {stylesLoadError && (
             <div className="error-box">
@@ -2531,6 +2586,10 @@ function ExportPage({ book, settings }: { book?: BookSummary; settings: Workspac
             <label>
               <input type="checkbox" checked={allowPartial} onChange={(event) => setAllowPartial(event.target.checked)} />
               <span>Teilweise vorhandene Kapitel/Szenen erlauben</span>
+            </label>
+            <label>
+              <input type="checkbox" checked={allowReviewErrors} onChange={(event) => setAllowReviewErrors(event.target.checked)} />
+              <span>Review-ERRORs bewusst erlauben (wird im Manifest vermerkt)</span>
             </label>
           </div>
 
@@ -2574,6 +2633,12 @@ function ExportPage({ book, settings }: { book?: BookSummary; settings: Workspac
             </button>
             <code>{payload.scope}{payload.chapter ? ` / ${payload.chapter}` : ""} / {payload.export_format}</code>
           </div>
+          {selectedJob && (selectedJob.kind === "export" || (selectedJob.provider || "").startsWith("export:")) && (
+            <div className={selectedJob.status === "failed" ? "error-box" : "command-preview"}>
+              <span>Letzter Export-Job: {selectedJob.status}</span>
+              <pre className="log-tail compact">{selectedJob.log_tail || "(noch kein Log)"}</pre>
+            </div>
+          )}
 
           {planMutation.data && (
             <div className="command-preview">
@@ -2612,8 +2677,8 @@ function ExportPage({ book, settings }: { book?: BookSummary; settings: Workspac
             </div>
           )}
         </div>
-
-        <MarketingPanel book={book} style={style} />
+          <MarketingPanel book={book} style={style} />
+        </div>
 
         <JobPanel
           jobs={jobs}
@@ -2944,6 +3009,10 @@ function buildExportPayload(options: {
   chapter: string;
   exportFormat: string;
   allowPartial: boolean;
+  allowReviewErrors: boolean;
+  trimSize?: string;
+  layoutProfile?: string;
+  illustrationMode?: string;
 }): ExportJobRequest {
   const payload: ExportJobRequest = {
     action: "export",
@@ -2951,10 +3020,17 @@ function buildExportPayload(options: {
     style: options.style,
     scope: options.scope,
     export_format: options.exportFormat,
-    allow_partial: options.allowPartial
+    allow_partial: options.allowPartial,
+    allow_review_errors: options.allowReviewErrors
   };
   if (options.scope === "chapter") {
     payload.chapter = options.chapter;
+  }
+  const isPaperback = options.exportFormat === "paperback" || options.exportFormat === "paperback-complete";
+  if (isPaperback) {
+    if (options.trimSize) payload.trim_size = options.trimSize;
+    if (options.layoutProfile) payload.layout_profile = options.layoutProfile;
+    if (options.illustrationMode) payload.illustration_mode = options.illustrationMode;
   }
   return payload;
 }
@@ -4105,7 +4181,9 @@ function SettingsPage({
             <select value={settings.export_format} onChange={(event) => update({ export_format: event.target.value })}>
               <option value="docx">DOCX</option>
               <option value="epub">EPUB</option>
-              <option value="pdf">PDF</option>
+              <option value="paperback">PDF (Taschenbuch-Innenleben)</option>
+              <option value="paperback-complete">Taschenbuch komplett</option>
+              <option value="pdf">PDF (A5-Vorschau)</option>
               <option value="all">DOCX + EPUB</option>
             </select>
           </label>

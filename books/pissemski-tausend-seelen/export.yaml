@@ -120,3 +120,4 @@ website:
   enabled: true
   amazon_url: ''
   sort_order: 40
+  catalog: false

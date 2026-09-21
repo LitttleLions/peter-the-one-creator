@@ -60,6 +60,12 @@ def main() -> int:
     job_file = jobs_dir / f"{args.job_id}.json"
 
     command = [str(part) for part in args.command]
+    extra: dict = {}
+    if job_file.exists():
+        try:
+            extra = json.loads(job_file.read_text(encoding="utf-8"))
+        except Exception:
+            extra = {}
     job = {
         "job_id": args.job_id,
         "pid": os.getpid(),
@@ -72,9 +78,12 @@ def main() -> int:
         "returncode": None,
         "command": command,
         "log_path": str(log_path.relative_to(repo_root)),
-        "started_at": datetime.now().isoformat(timespec="seconds"),
+        "started_at": extra.get("started_at") or datetime.now().isoformat(timespec="seconds"),
         "updated_at": datetime.now().isoformat(timespec="seconds"),
     }
+    for key, value in extra.items():
+        if key not in job:
+            job[key] = value
     write_json(job_file, job)
 
     log_path.parent.mkdir(parents=True, exist_ok=True)
@@ -110,6 +119,8 @@ def main() -> int:
                             cwd=repo_root,
                             capture_output=True,
                             text=True,
+                            encoding="utf-8",
+                            errors="replace",
                         )
                     else:
                         child.terminate()

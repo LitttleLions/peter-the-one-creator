@@ -261,6 +261,12 @@ export type ExportJobRequest = {
   chapter?: string;
   export_format: string;
   allow_partial?: boolean;
+  allow_review_errors?: boolean;
+  trim_size?: string;
+  layout_profile?: string;
+  illustration_mode?: string;
+  paper?: string;
+  chapter_start?: string;
 };
 
 export type ExportContext = {

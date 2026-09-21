@@ -1,0 +1,36 @@
+{
+  "created_at": "2026-09-21T16:30:07",
+  "status": "warning",
+  "trim_size": "5.5x8.5",
+  "trim_in": [
+    5.5,
+    8.5
+  ],
+  "trim_width_mm": 139.7,
+  "trim_height_mm": 215.9,
+  "paper": "cream",
+  "ink": "black",
+  "layout_profile": "classic",
+  "profile": "classic",
+  "illustration_mode": "full_page",
+  "chapter_start": "next_page",
+  "bleed": false,
+  "font_family": "EB Garamond",
+  "font_size_pt": 10.8,
+  "line_height_pt": 13.6,
+  "assumed_pages": 882,
+  "page_count": 924,
+  "kdp_max_pages": 776,
+  "within_kdp_page_limit": false,
+  "gutter_mm": 22.3,
+  "side_margin_mm": 22.3,
+  "iterations": 1,
+  "gutter_rerendered": false,
+  "cover_omitted": true,
+  "frontmatter_sections_unstamped": 5,
+  "word_count": 245628,
+  "warnings": [
+    "Seitenzahl 924 ueber KDP-Maximum cream (776)."
+  ],
+  "output_pdf": "C:\\code\\peter-the-one\\books\\pharao\\exports\\stil-02-poetisch\\book\\print\\book-der-pharao-stil-02-poetisch-55x85-classic-full-20260921-162938-paperback-interior.pdf"
+}

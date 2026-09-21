@@ -85,6 +85,7 @@ class ExportManuscriptTests(unittest.TestCase):
         self.assertEqual(dirs["docx"], root / "stil-test" / "chapter" / "docx")
         self.assertEqual(dirs["epub"], root / "stil-test" / "chapter" / "epub")
         self.assertEqual(dirs["pdf"], root / "stil-test" / "chapter" / "pdf")
+        self.assertEqual(dirs["print"], root / "stil-test" / "chapter" / "print")
         self.assertEqual(dirs["work"], root / "stil-test" / "chapter" / "work")
         self.assertEqual(
             dirs["manifests"],
@@ -92,7 +93,10 @@ class ExportManuscriptTests(unittest.TestCase):
         )
 
     def test_export_formats_include_pdf_and_keep_all_alias(self) -> None:
-        self.assertEqual(export.EXPORT_FORMATS, ("docx", "epub", "pdf", "all"))
+        self.assertEqual(
+            export.EXPORT_FORMATS,
+            ("docx", "epub", "pdf", "paperback", "paperback-complete", "all"),
+        )
 
     def test_prepare_cover_uses_external_image(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:

@@ -2554,14 +2554,50 @@ if section == "Export":
     with control_b:
         export_format_label = st.selectbox(
             "Format",
-            ["DOCX + EPUB", "DOCX", "EPUB", "PDF"],
+            [
+                "DOCX + EPUB",
+                "DOCX",
+                "EPUB",
+                "PDF (Taschenbuch-Innenleben)",
+                "Taschenbuch komplett",
+                "PDF (A5-Vorschau)",
+            ],
         )
         export_format = {
             "DOCX + EPUB": "all",
             "DOCX": "docx",
             "EPUB": "epub",
-            "PDF": "pdf",
+            "PDF (Taschenbuch-Innenleben)": "paperback",
+            "Taschenbuch komplett": "paperback-complete",
+            "PDF (A5-Vorschau)": "pdf",
         }[export_format_label]
+        print_trim_size = "5.5x8.5"
+        print_layout_profile = "classic"
+        print_illustration_mode = "full_page"
+        if export_format in ("paperback", "paperback-complete"):
+            print_trim_size = st.selectbox(
+                "Paperback-Format",
+                ["5.5x8.5", "6x9"],
+                format_func=lambda value: (
+                    "5.5 × 8.5 in — 139,7 × 215,9 mm"
+                    if value == "5.5x8.5"
+                    else "6 × 9 in — 152,4 × 228,6 mm"
+                ),
+            )
+            print_layout_profile = st.selectbox(
+                "Satzprofil",
+                ["classic", "long_classic"],
+            )
+            print_illustration_mode = st.selectbox(
+                "Kapitelbilder",
+                ["full_page", "inline"],
+                format_func=lambda value: (
+                    "Full page (eigene Seite)"
+                    if value == "full_page"
+                    else "Inline (Bild oben, Text darunter)"
+                ),
+            )
+            st.caption("Kein automatischer Formatwechsel nach Seitenzahl.")
     with control_c:
         allow_partial_export = st.checkbox(
             "Teil-Export erlauben",
@@ -2586,7 +2622,7 @@ if section == "Export":
         f"Exportiert wird immer der links ausgewaehlte Stil: {style_label}. "
         "Wenn gerade uebersetzte Dateien fehlen, pruefe zuerst diese Stiltabelle."
     )
-    if export_format == "pdf":
+    if export_format in ("pdf", "paperback", "paperback-complete"):
         st.info(
             "PDF benoetigt Playwright und Chromium: "
             "`pip install -r requirements.txt` und "
@@ -2655,6 +2691,9 @@ if section == "Export":
                 export_format=export_format,
                 chapter=chapter,
                 allow_partial=allow_partial_export,
+                trim_size=print_trim_size if export_format in ("paperback", "paperback-complete") else None,
+                layout_profile=print_layout_profile if export_format in ("paperback", "paperback-complete") else None,
+                illustration_mode=print_illustration_mode if export_format in ("paperback", "paperback-complete") else None,
             )
         )
         with st.spinner("Export wird erzeugt..."):

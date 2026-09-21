@@ -87,6 +87,12 @@ class ExportOptions:
     export_format: str
     chapter: str | None = None
     allow_partial: bool = False
+    allow_review_errors: bool = False
+    trim_size: str | None = None
+    layout_profile: str | None = None
+    illustration_mode: str | None = None
+    paper: str | None = None
+    chapter_start: str | None = None
 
 
 @dataclass(frozen=True)
@@ -316,6 +322,18 @@ def build_export_command(options: ExportOptions) -> list[str]:
         cmd.extend(["--chapter", options.chapter])
     if options.allow_partial:
         cmd.append("--allow-partial")
+    if options.allow_review_errors:
+        cmd.append("--allow-review-errors")
+    if options.trim_size:
+        cmd.extend(["--trim-size", options.trim_size])
+    if options.layout_profile:
+        cmd.extend(["--layout-profile", options.layout_profile])
+    if options.illustration_mode:
+        cmd.extend(["--illustration-mode", options.illustration_mode])
+    if options.paper:
+        cmd.extend(["--paper", options.paper])
+    if options.chapter_start:
+        cmd.extend(["--chapter-start", options.chapter_start])
     return cmd
 
 
@@ -710,6 +728,8 @@ def latest_export_files(book: dict[str, Any], style: str, repo_root: Path) -> li
         "book/docx/*.docx",
         "book/epub/*.epub",
         "book/pdf/*.pdf",
+        "book/print/*.pdf",
+        "chapter/print/*.pdf",
         "docx/*.docx",
         "epub/*.epub",
         "pdf/*.pdf",

@@ -481,6 +481,104 @@ class BackendApiTests(unittest.TestCase):
         self.assertIn("--allow-partial", body["command"])
         self.assertEqual(start_job.call_args.kwargs["kind"], "export")
 
+    def test_job_start_allows_paperback_export(self) -> None:
+        with patch("webapp.backend.main.dashboard_jobs.start_job") as start_job:
+            start_job.return_value = {
+                "job_id": "job-paperback",
+                "status": "completed",
+                "book_id": "sample",
+                "style": "stil",
+                "provider": "export:paperback",
+                "kind": "export",
+                "started_at": "2026-06-23T12:00:00",
+                "log_path": "var/dashboard-jobs/job-paperback.log",
+            }
+
+            response = self.client.post(
+                "/api/jobs",
+                json={
+                    "action": "export",
+                    "book_id": "sample",
+                    "style": "stil",
+                    "scope": "book",
+                    "export_format": "paperback",
+                    "allow_review_errors": True,
+                },
+            )
+
+        self.assertEqual(response.status_code, 200)
+        body = response.json()
+        self.assertEqual(body["job"]["provider"], "export:paperback")
+        self.assertIn("--format", body["command"])
+        self.assertIn("paperback", body["command"])
+        self.assertIn("--allow-review-errors", body["command"])
+
+    def test_job_start_allows_paperback_complete_export(self) -> None:
+        with patch("webapp.backend.main.dashboard_jobs.start_job") as start_job:
+            start_job.return_value = {
+                "job_id": "job-complete",
+                "status": "completed",
+                "book_id": "sample",
+                "style": "stil",
+                "provider": "export:paperback-complete",
+                "kind": "export",
+                "started_at": "2026-06-23T12:00:00",
+                "log_path": "var/dashboard-jobs/job-complete.log",
+            }
+
+            response = self.client.post(
+                "/api/jobs",
+                json={
+                    "action": "export",
+                    "book_id": "sample",
+                    "style": "stil",
+                    "scope": "book",
+                    "export_format": "paperback-complete",
+                },
+            )
+
+        self.assertEqual(response.status_code, 200)
+        body = response.json()
+        self.assertEqual(body["job"]["provider"], "export:paperback-complete")
+        self.assertIn("paperback-complete", body["command"])
+
+    def test_job_start_forwards_print_options(self) -> None:
+        with patch("webapp.backend.main.dashboard_jobs.start_job") as start_job:
+            start_job.return_value = {
+                "job_id": "job-print-opts",
+                "status": "completed",
+                "book_id": "sample",
+                "style": "stil",
+                "provider": "export:paperback",
+                "kind": "export",
+                "started_at": "2026-06-23T12:00:00",
+                "log_path": "var/dashboard-jobs/job-print-opts.log",
+                "trim_size": "6x9",
+                "layout_profile": "classic",
+                "illustration_mode": "inline",
+            }
+
+            response = self.client.post(
+                "/api/jobs",
+                json={
+                    "action": "export",
+                    "book_id": "sample",
+                    "style": "stil",
+                    "scope": "book",
+                    "export_format": "paperback",
+                    "trim_size": "6x9",
+                    "layout_profile": "classic",
+                    "illustration_mode": "inline",
+                },
+            )
+
+        self.assertEqual(response.status_code, 200)
+        body = response.json()
+        self.assertIn("--trim-size", body["command"])
+        self.assertIn("6x9", body["command"])
+        self.assertIn("--illustration-mode", body["command"])
+        self.assertEqual(start_job.call_args.kwargs["extra"]["trim_size"], "6x9")
+
     def test_job_start_allows_build_shelf_website(self) -> None:
         with patch("webapp.backend.main.dashboard_jobs.start_job") as start_job:
             start_job.return_value = {

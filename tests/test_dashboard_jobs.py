@@ -5,6 +5,7 @@ import subprocess
 import sys
 import tempfile
 import unittest
+from datetime import datetime
 from pathlib import Path
 
 
@@ -80,6 +81,98 @@ class DashboardJobsTests(unittest.TestCase):
         self.assertEqual(job["returncode"], 0)
         self.assertIn("updated_at", job)
         self.assertIn("Summary: ok", log_text)
+
+    def test_refresh_job_treats_geschrieben_as_success(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            jobs_dir = dashboard_jobs.jobs_dir(root)
+            jobs_dir.mkdir(parents=True)
+            log_path = jobs_dir / "export.log"
+            log_path.write_text(
+                "Taschenbuch: 922 Seiten\nGeschrieben:\n  foo.pdf\n",
+                encoding="utf-8",
+            )
+            job = {
+                "job_id": "export",
+                "status": "running",
+                "pid": 0,
+                "log_path": str(log_path.relative_to(root)),
+                "started_at": datetime.now().isoformat(timespec="seconds"),
+                "updated_at": datetime.now().isoformat(timespec="seconds"),
+            }
+            dashboard_jobs.write_job(dashboard_jobs.job_file("export", root), job)
+            refreshed, _alive = dashboard_jobs.refresh_job(job, root)
+
+        self.assertEqual(refreshed["status"], "completed")
+        self.assertEqual(refreshed["returncode"], 0)
+
+    def test_refresh_job_recovers_stale_when_print_report_complete(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            jobs_dir = dashboard_jobs.jobs_dir(root)
+            jobs_dir.mkdir(parents=True)
+            print_dir = root / "books" / "pharao" / "exports" / "print"
+            print_dir.mkdir(parents=True)
+            report_path = print_dir / "book-print-report.json"
+            report_path.write_text(
+                '{"page_count": 754, "kdp_max_pages": 776}\n',
+                encoding="utf-8",
+            )
+            manifest_path = print_dir / "book.json"
+            manifest_path.write_text(
+                json.dumps(
+                    {
+                        "outputs": [str(report_path.relative_to(root))],
+                        "print_report": str(report_path.relative_to(root)),
+                    }
+                ),
+                encoding="utf-8",
+            )
+            log_path = jobs_dir / "export.log"
+            log_path.write_text(
+                f"Geschrieben:\n  interior.pdf\nManifest: {manifest_path.relative_to(root)}\n",
+                encoding="utf-8",
+            )
+            job = {
+                "job_id": "stale-export",
+                "status": "stale",
+                "pid": 0,
+                "kind": "export",
+                "provider": "export:paperback",
+                "log_path": str(log_path.relative_to(root)),
+                "started_at": datetime.now().isoformat(timespec="seconds"),
+                "updated_at": datetime.now().isoformat(timespec="seconds"),
+            }
+            dashboard_jobs.write_job(dashboard_jobs.job_file("stale-export", root), job)
+            refreshed, _alive = dashboard_jobs.refresh_job(job, root)
+
+        self.assertEqual(refreshed["status"], "completed")
+        self.assertEqual(refreshed["returncode"], 0)
+
+    def test_refresh_job_does_not_succeed_on_pdf_alone(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            jobs_dir = dashboard_jobs.jobs_dir(root)
+            jobs_dir.mkdir(parents=True)
+            pdf_path = root / "half.pdf"
+            pdf_path.write_bytes(b"%PDF")
+            log_path = jobs_dir / "export.log"
+            log_path.write_text("rendering...\n", encoding="utf-8")
+            job = {
+                "job_id": "half-export",
+                "status": "running",
+                "pid": 0,
+                "kind": "export",
+                "provider": "export:paperback",
+                "log_path": str(log_path.relative_to(root)),
+                "started_at": datetime.now().isoformat(timespec="seconds"),
+                "updated_at": datetime.now().isoformat(timespec="seconds"),
+            }
+            dashboard_jobs.write_job(dashboard_jobs.job_file("half-export", root), job)
+            refreshed, _alive = dashboard_jobs.refresh_job(job, root)
+
+        self.assertEqual(refreshed["status"], "stale")
+        self.assertIsNone(refreshed.get("returncode"))
 
 
 if __name__ == "__main__":

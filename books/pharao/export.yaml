@@ -129,6 +129,9 @@ book:
   cover:
     mode: image
     image_path: assets/covers/cover.jpg
+print:
+  enabled: true
+  profile: classic
 website:
   enabled: true
   amazon_url: ''

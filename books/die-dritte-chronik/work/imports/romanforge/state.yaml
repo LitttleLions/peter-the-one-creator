@@ -1,0 +1,242 @@
+book: ''
+chapters:
+  '001':
+    title: Prolog – Bagdad, Februar 1258
+    rf_base: dcd5e593185ae006593175082e07e6cf537eeee24f8fdee1681aff27c079c0c0
+    peter_base: dcd5e593185ae006593175082e07e6cf537eeee24f8fdee1681aff27c079c0c0
+    base_export: 20261007-201221
+  '002':
+    title: Zwei Sätze
+    rf_base: e1e2e793571a178f2e98d1d92839b4f6ab9a7f5b27da3ca66ff2d6a0cdb0338c
+    peter_base: e1e2e793571a178f2e98d1d92839b4f6ab9a7f5b27da3ca66ff2d6a0cdb0338c
+    base_export: 20261007-201221
+  '003':
+    title: Das Trinkgelage
+    rf_base: 2591582a6d4641823576daa9e951c2fdd1f30081dfd8c6b42e89937875721138
+    peter_base: 2591582a6d4641823576daa9e951c2fdd1f30081dfd8c6b42e89937875721138
+    base_export: 20261007-201221
+  '004':
+    title: Sein Herz
+    rf_base: 916c27171ddb088a2e62cbf9f1941c7fd7cb9823327a3be847d91e5614e80f47
+    peter_base: 916c27171ddb088a2e62cbf9f1941c7fd7cb9823327a3be847d91e5614e80f47
+    base_export: 20261007-201221
+  '005':
+    title: An eine Tote
+    rf_base: 4244d29471712d60cbc66a9081faa1445c96d3512688ea3212e7c86225120a40
+    peter_base: 4244d29471712d60cbc66a9081faa1445c96d3512688ea3212e7c86225120a40
+    base_export: 20261007-201221
+  '006':
+    title: Der Kanzler
+    rf_base: 29c44dee499a6c9e2ba86fe20fe10e4ee57ee5ccb49a3efe1da9147238078d6b
+    peter_base: 29c44dee499a6c9e2ba86fe20fe10e4ee57ee5ccb49a3efe1da9147238078d6b
+    base_export: 20261007-201221
+  '007':
+    title: Die Briefe der Regentin
+    rf_base: c68a251875c093101c7d2f90386a1956ac2b03d3ee7f1dd7651f05dd0f6dd31f
+    peter_base: c68a251875c093101c7d2f90386a1956ac2b03d3ee7f1dd7651f05dd0f6dd31f
+    base_export: 20261007-201221
+  008:
+    title: Der Heimkehrer
+    rf_base: 9411d9585f63449043dde57c16ad427bf979e539bbbfbe7421264d3be09eb67b
+    peter_base: b6358542fe9384b00a0a17bb9b17e27686ce1822692ad77eace196001473b9b1
+    base_export: 20261007-201221
+  009:
+    title: Noch nicht
+    rf_base: 1545b0db857881065ae4fa91476e1c1558dcea0d6891deb4a271cd767b2f552f
+    peter_base: 1545b0db857881065ae4fa91476e1c1558dcea0d6891deb4a271cd767b2f552f
+    base_export: 20261007-201221
+  '010':
+    title: Der Silberbaum
+    rf_base: d7471480b3f646ead97c2ba493631198ea0724292fa7e49a85c9faecc2529804
+    peter_base: d7471480b3f646ead97c2ba493631198ea0724292fa7e49a85c9faecc2529804
+    base_export: 20261007-201221
+  '011':
+    title: Die Kanzlei
+    rf_base: d60e7e95383416d5e56f5c6d0cf6156b6b12ea498411631c515a02f0a704c4da
+    peter_base: d60e7e95383416d5e56f5c6d0cf6156b6b12ea498411631c515a02f0a704c4da
+    base_export: 20261007-201221
+  '012':
+    title: Die Prüfung
+    rf_base: 81c716591373a35eb9c661b8ae8d7b233e6615fb1d6bbec85081a99fd66919fd
+    peter_base: 81c716591373a35eb9c661b8ae8d7b233e6615fb1d6bbec85081a99fd66919fd
+    base_export: 20261007-201221
+  '013':
+    title: Das geheime Buch
+    rf_base: 484ed52649f43c808e44fbef778e1542c0204803ac0d09eff2b8e81fde0be257
+    peter_base: 484ed52649f43c808e44fbef778e1542c0204803ac0d09eff2b8e81fde0be257
+    base_export: 20261007-201221
+  '014':
+    title: Zwei Witwen
+    rf_base: 835d956b1145ec0ddae05ca1494ab8025eeb3794fa0ce1fc43574336d1acc056
+    peter_base: 835d956b1145ec0ddae05ca1494ab8025eeb3794fa0ce1fc43574336d1acc056
+    base_export: 20261007-201221
+  '015':
+    title: Der letzte ehrliche Stift
+    rf_base: c7e70e3d54ed1ae7e645637be148e7875c369131b4923d8af06b7b91e5282a0e
+    peter_base: c7e70e3d54ed1ae7e645637be148e7875c369131b4923d8af06b7b91e5282a0e
+    base_export: 20261007-201221
+  '016':
+    title: Die Schattenkanzlerin
+    rf_base: 565c553b3947ab76710ddbb3a5d2a414ac9e744d18c0e1531a13c762aee716c0
+    peter_base: 565c553b3947ab76710ddbb3a5d2a414ac9e744d18c0e1531a13c762aee716c0
+    base_export: 20261007-201221
+  '017':
+    title: Der Leser
+    rf_base: 3f2323e880cb8c496582d4febe6740ca5195d9b39841d4d5cafc321c89ef6877
+    peter_base: 3f2323e880cb8c496582d4febe6740ca5195d9b39841d4d5cafc321c89ef6877
+    base_export: 20261007-201221
+  018:
+    title: Umgekehrte Welt
+    rf_base: 4445ae67e02b67cebb500378f8bdb0ae62b47de076aea8ebd6e36bbcba1ace74
+    peter_base: 4445ae67e02b67cebb500378f8bdb0ae62b47de076aea8ebd6e36bbcba1ace74
+    base_export: 20261007-201221
+  019:
+    title: Beförderung
+    rf_base: dcda8869e75c2a05413eff2147eaf72ac9831dcd3a506aa8448a19594c20a082
+    peter_base: dcda8869e75c2a05413eff2147eaf72ac9831dcd3a506aa8448a19594c20a082
+    base_export: 20261007-201221
+  '020':
+    title: Der Fluch
+    rf_base: 41bef269dd3700c934bf04dfa721fdfc68e7652d17174d3b214aa3e6f17aed27
+    peter_base: 41bef269dd3700c934bf04dfa721fdfc68e7652d17174d3b214aa3e6f17aed27
+    base_export: 20261007-201221
+  '021':
+    title: Das Kuriltai, das nicht kommt
+    rf_base: 9cb6dc27b39b30bfe89689a64f1ae25ba4ce92e6d6431d15f698bf090f8c75f0
+    peter_base: 9cb6dc27b39b30bfe89689a64f1ae25ba4ce92e6d6431d15f698bf090f8c75f0
+    base_export: 20261007-201221
+  '022':
+    title: Die Rückkehr
+    rf_base: 7b1cdded5dca570840334d42ed520cf1a5bd0f318d60a67b9c3458d21aebabee
+    peter_base: 7b1cdded5dca570840334d42ed520cf1a5bd0f318d60a67b9c3458d21aebabee
+    base_export: 20261007-201221
+  '023':
+    title: Die Übergabe
+    rf_base: 6e9d655fd4fbd1719694d2b94287b4436f44aa15f8b063f6683c107604124f90
+    peter_base: 6e9d655fd4fbd1719694d2b94287b4436f44aa15f8b063f6683c107604124f90
+    base_export: 20261007-201221
+  '024':
+    title: Die Prüfung der Texte
+    rf_base: fe4eff51dc7d477e64a8ada3185a0293368fd29ad7f5f022c58f7fb6b4e2abb3
+    peter_base: fe4eff51dc7d477e64a8ada3185a0293368fd29ad7f5f022c58f7fb6b4e2abb3
+    base_export: 20261007-201221
+  '025':
+    title: Der Onkel
+    rf_base: f8bdc8e9bcd3a19d53d71746122a332c491fc4ac33b139b70ec6af93e3276b02
+    peter_base: f8bdc8e9bcd3a19d53d71746122a332c491fc4ac33b139b70ec6af93e3276b02
+    base_export: 20261007-201221
+  '026':
+    title: Der goldene Becher
+    rf_base: 6d6dd639f2127618bc17251b1a64d0ce4ad0b1b5e7b0a99ef50bf3b36e76b2a8
+    peter_base: 6d6dd639f2127618bc17251b1a64d0ce4ad0b1b5e7b0a99ef50bf3b36e76b2a8
+    base_export: 20261007-201221
+  '027':
+    title: Die Regentin ist tot
+    rf_base: 8a6749006589967fa491b82f10eb7729a993c071796e5239ba9bdf510b8da634
+    peter_base: 8a6749006589967fa491b82f10eb7729a993c071796e5239ba9bdf510b8da634
+    base_export: 20261007-201221
+  028:
+    title: Die Säuberung
+    rf_base: 2d4c9b0d62f90b80bb72f61c80338c6e4ffdddef714fd357f2be6895292ba72f
+    peter_base: 2d4c9b0d62f90b80bb72f61c80338c6e4ffdddef714fd357f2be6895292ba72f
+    base_export: 20261007-201221
+  029:
+    title: Das Bündel
+    rf_base: 7ab77df38d2522fa669cfdcc910fe86cce053191ae53e3cec152e285bc9b4df9
+    peter_base: 7ab77df38d2522fa669cfdcc910fe86cce053191ae53e3cec152e285bc9b4df9
+    base_export: 20261007-201221
+  '030':
+    title: Der Richter und das Bündel
+    rf_base: 514f8ccf359a3929ce28bf11e4f658a0d64f2f6e587128d60acff201e43d9273
+    peter_base: 514f8ccf359a3929ce28bf11e4f658a0d64f2f6e587128d60acff201e43d9273
+    base_export: 20261007-201221
+  '031':
+    title: Der Handel
+    rf_base: 3fbdd1b3b96671152e0a0e12c422b2a10a3bad86fc1377a116367de15c4e9240
+    peter_base: 92c4135c8563f6a54f93cd7b022ef2dbe294b9fac0ce773f28b24d563ce232e4
+    base_export: 20261007-201221
+  '032':
+    title: Rette mich nicht
+    rf_base: dd9e5d4dafe9ee5fe3d7af451969863bc4208a5bed7f2405dd19885ee623c8db
+    peter_base: dd9e5d4dafe9ee5fe3d7af451969863bc4208a5bed7f2405dd19885ee623c8db
+    base_export: 20261007-201221
+  '033':
+    title: Das Siegel
+    rf_base: e8ee82419ce514dd1d111db60bffe52e32983637a9d5d3ccba1d515ba62b8f6f
+    peter_base: ac779917b61b6dd1689674286b1837a3b63d54ac7c091903e40f977faf04cb39
+    base_export: 20261007-201221
+  '034':
+    title: Der letzte Brief
+    rf_base: 67f9ac929bf7ad0e77b3732184b87fa45b65eb67a067c69ea46e5faaefcf7591
+    peter_base: 67f9ac929bf7ad0e77b3732184b87fa45b65eb67a067c69ea46e5faaefcf7591
+    base_export: 20261007-201221
+  '035':
+    title: Drei Sätze auf der Karawanenstraße
+    rf_base: a56fca9eaa71e52817753f345e116424fa3da4700ec471992ce50c93fdc337ee
+    peter_base: a56fca9eaa71e52817753f345e116424fa3da4700ec471992ce50c93fdc337ee
+    base_export: 20261007-201221
+  '036':
+    title: Eingenäht
+    rf_base: f70408f1a5629e4c384d2294cb14045cc430a9fef4b6abd4826ed0de383ceb9d
+    peter_base: 0dc2f30529cdf2e223f71ff10addb1072c43f82f1e70242e8496a9b0157dc743
+    base_export: 20261007-201221
+  '037':
+    title: Der tote Khan (II)
+    rf_base: de4d8d1e7634c54a41f73d752cba198a5a809107fa939207df899f62844e64ed
+    peter_base: de4d8d1e7634c54a41f73d752cba198a5a809107fa939207df899f62844e64ed
+    base_export: 20261007-201221
+  038:
+    title: Zwei Höfe
+    rf_base: dcd4b87d168a8c8e69b910734896f20758f9cde670707df635f566a7a20c91c0
+    peter_base: dcd4b87d168a8c8e69b910734896f20758f9cde670707df635f566a7a20c91c0
+    base_export: 20261007-201221
+  039:
+    title: Das lange Spiel
+    rf_base: f34a5d5b280fc41eb5dc5c80ba3eff8523388589cfb5f3ef2020c9d794308d85
+    peter_base: f34a5d5b280fc41eb5dc5c80ba3eff8523388589cfb5f3ef2020c9d794308d85
+    base_export: 20261007-201221
+  '040':
+    title: Die Rückkehr des Schreibers
+    rf_base: 7ee57b6681eb88fc15e628e0b6aee5e0b0a8116ab4d6d8dce977b5d7d18cd851
+    peter_base: 7ee57b6681eb88fc15e628e0b6aee5e0b0a8116ab4d6d8dce977b5d7d18cd851
+    base_export: 20261007-201221
+  '041':
+    title: Der Königsmacher
+    rf_base: 18e32763c440cacb8c536153eb643161382035aa5127c2c60e5e949a126b4218
+    peter_base: 18e32763c440cacb8c536153eb643161382035aa5127c2c60e5e949a126b4218
+    base_export: 20261007-201221
+  '042':
+    title: Die Protokolle
+    rf_base: 101f675fed9c2997522a050ed67c27b4eadc7ca1170c954095c73fa62fc10b3f
+    peter_base: 101f675fed9c2997522a050ed67c27b4eadc7ca1170c954095c73fa62fc10b3f
+    base_export: 20261007-201221
+  '043':
+    title: Der schwarze Spiegel
+    rf_base: bc4d82a76ed53c96ffedabe11652bea66057ad895e806a7c765974dff0395a5f
+    peter_base: bc4d82a76ed53c96ffedabe11652bea66057ad895e806a7c765974dff0395a5f
+    base_export: 20261007-201221
+  '044':
+    title: Der Adoptivsohn
+    rf_base: a58b293ca60ff83a28765b51f5cc1f908fcc38d6b36160e8a22be156a182cc08
+    peter_base: a58b293ca60ff83a28765b51f5cc1f908fcc38d6b36160e8a22be156a182cc08
+    base_export: 20261007-201221
+  '045':
+    title: Die schönste Lüge
+    rf_base: d70bbf5d5563fc07312bbf205c0a066635d566380a997e60520fee1338c8b03e
+    peter_base: d70bbf5d5563fc07312bbf205c0a066635d566380a997e60520fee1338c8b03e
+    base_export: 20261007-201221
+  '046':
+    title: Die Siegerin
+    rf_base: 6ca97203430989cc7706f7e3ff0ad852986a5dd4635244c73b8ab7cc24feb311
+    peter_base: 6ca97203430989cc7706f7e3ff0ad852986a5dd4635244c73b8ab7cc24feb311
+    base_export: 20261007-201221
+  '047':
+    title: Was rettest du?
+    rf_base: 5e3afacbd2457999463e3544ab3ef7a0d2975bceed6fbc51b65148557c462539
+    peter_base: 5e3afacbd2457999463e3544ab3ef7a0d2975bceed6fbc51b65148557c462539
+    base_export: 20261007-201221
+  048:
+    title: Epilog – Bagdad, 1258
+    rf_base: 74e8af809e5b9d7ddb090d6299792370186560d6616888b626ab3cbc80085e7e
+    peter_base: 74e8af809e5b9d7ddb090d6299792370186560d6616888b626ab3cbc80085e7e
+    base_export: 20261007-201221

@@ -17,7 +17,9 @@ Dadurch werden fertige Kapitel nicht unnoetig erneut durch ein LLM geschickt.
    Unter Windows CLI `py -3`, nicht `python`.
 2. Arbeite immer buchbezogen unter `books/<book-id>/`.
 3. Aendere Originalquellen in `books/<book-id>/source/` und Material in
-   `logic/` nicht ohne ausdrueckliche Rueckfrage. Ausnahme Chronik 2026-09-18: Nutzer liefert Neufassungen nach `work/scenes/de/NNN/`; `work/chapters/NNN-source.md` wird mitgezogen (Kopfformat `# Titel` + `*Buch/*Kapitel-ID*` + `---`), `source/` bleibt tabu.
+   `logic/` nicht ohne ausdrueckliche Rueckfrage. Neufassungen DE-Originale nur
+   ueber RomanForge-Export (`docs/uebernahme-romanforge.md`), nicht mehr als
+   Dateien unter `status/`. `source/` bleibt tabu.
 4. Pruefe den Stand mit `py -3 tools/status.py --book <book-id> summary`.
    Chronik-Gate: `py -3 tools/review_manuscript.py --book die-dritte-chronik --style stil-01-original --all --llm none --fail-on-errors`
    (ERROR=0/WARNING=13/INFO=36; Details `docs/offene-punkte.md` Punkt 6 + 12).

@@ -24,18 +24,16 @@ Einstieg in dieser Reihenfolge (alles lesend, keine Kosten):
    EPUB `...-20260921-131112.epub`.
    Unter Windows CLI mit `py -3`, nicht `python`.
 4. Review-Details Chronik: `books/die-dritte-chronik/work/reviews/stil-01-original/chapters/NNN-review.md`.
-   Redaktions-Ablauf Chronik: Nutzer liefert neue Fassung nach
-   `books/die-dritte-chronik/status/Die dritte Chronik - NN <Titel>.md`
-   (oder direkt nach `work/scenes/de/NNN/scene-01.md`) -> KI prueft auf
-   Textbruch, kopiert nach
-   `work/scenes/de/stil-01-original/NNN/scene-01.md` (+ bei Neuschreibung
-   `work/chapters/NNN-source.md` im Kopfformat synchronisieren) ->
-   `assemble_chapter.py` -> `review_manuscript --chapter NNN --llm none`
-   -> Voll-Review -> Buch-EPUB neu. Kein OpenRouter fuer Redaktion.
-   Bei Textbruch (neue Fassung passt nicht zur Kapitelquelle) STOPP und
-   Rueckfrage statt blind kopieren (Fall 012, 2026-09-18). Die Nutzerdatei
-   unter `status/` bleibt unangetastet. Offene Redaktionskandidaten und
-   ihre Einstufung (C/c/b) stehen in `docs/offene-punkte.md` Punkt 6.
+   Redaktions-Ablauf Chronik (RomanForge-Uebergabe, Stufe 1):
+   Exportdatei nennen -> `import_markdown_original.py --compare`
+   (mit `--baseline`, nur Bericht) -> `--accept` nur fuer freigegebene
+   Kapitel (max. 5 pro Paket; `status/<Titel> - NN ….md` ist ersetzt) ->
+   pro Kapitel `assemble_chapter.py` + `review_manuscript --chapter NNN --llm none`
+   -> Kurzbericht (nur ERROR/WARNING/INFO), naechstes Paket.
+   Kein OpenRouter fuer Redaktion. `status/status.json` und `status/logs/`
+   bleiben unveraendert. Details: `docs/uebernahme-romanforge.md`.
+   Offene Redaktionskandidaten und ihre Einstufung (C/c/b) stehen in
+   `docs/offene-punkte.md` Punkt 6.
 
 ## Was Dieses Projekt Ist
 

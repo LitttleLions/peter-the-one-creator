@@ -40,7 +40,7 @@ fuenf bis sechs Kopien pro Kapitel; zwei Kopfformate in den Szenendateien
 | 5 | Uebergabe | **Ein** Uebergabe-Prompt mit zwei Modi: **NEU** (Buch in peter unbekannt) und **AKTUALISIEREN** (Buch existiert). Ausgeloest in RomanForge ueber die Export-Karte im Tab „Kapitel" („An peter uebergeben"), immer das ganze Buch |
 | 6 | Transport | Stufe 1: Markdown-Export als Datei. Stufe 2: eingefrorener Uebergabe-Stand in RomanForge, Abruf durch peter per HTTPS mit **dauerhaftem persoenlichem API-Schluessel** in `.env` (`ROMANFORGE_URL`, `ROMANFORGE_API_KEY`); kein Geheimnis im Prompt |
 | 7 | Referenz-Instanz | Nur Live-RomanForge. Lokale Kopien nur zum Entwickeln |
-| 8 | Verlagsangaben | Nur in peter (`export.yaml`). peter fragt sie bei NEU ab; RomanForge bekommt keine neuen Felder |
+| 8 | Verlagsangaben | Ab Stufe 2a optional auch in RomanForge (Autor/Pseudonym, Untertitel, Reihe, Band, Verlag), mit der Uebergabe mitgeliefert. Bei NEU uebernimmt peter sie als Vorschlag, fehlende fragt es ab. Danach ist `export.yaml` fuehrend; Abweichungen bei AKTUALISIEREN werden nur gemeldet. Rechte, ISBN, Klappentext, Autorenleben bleiben nur in peter (geaendert 2026-10-07, vorher „nur peter") |
 | 9 | Stilprofile | Nicht synchronisieren (in RomanForge Schreibstimme, in peter Uebersetzungsregeln) |
 | 10 | Datenbank fuer peter | Nein. Git versioniert besser als die RomanForge-Datenbank heute, alle Werkzeuge arbeiten auf Dateien |
 | 11 | Arbeitsweise der KI | Vergleiche nur ueber das Werkzeug; die KI liest nur dessen Tabelle, keine Kapiteltexte. Text nur ausnahmsweise, hoechstens 3–5 Kapitel, nur Anfang. Kleine Schritte mit Kurzbericht |
@@ -125,6 +125,10 @@ Spezifikation: NovelWriter `docs/plan-uebergabe-peter.md`. Kurz:
   Dafuer die interne Kapitelliste um optionale `rf_id` erweitern,
   `match_chapters` ID vor Titel, `state.yaml` speichert `rf_id`.
 - Aufwand: RomanForge ca. 2 Tage plus Deploy, peter ca. ½ Tag.
+- **Stufe 2a (vorziehbar, ca. 1 Tag):** optionale Verlagsangaben am
+  RomanForge-Projekt (Anlage und Uebersicht); Uebergabe liefert sie als
+  `publication`, dazu das Expose als `expose` (Rohmaterial, nie automatisch
+  eingesetzt). peter: Vorschlag bei NEU, Abweichungsmeldung bei AKTUALISIEREN.
 
 ### Stufe 3 – Rueckweg nach RomanForge (vor einem Folgeband, ca. 2 Tage)
 
@@ -155,7 +159,8 @@ Laut RomanForge seit der letzten Uebergabe geaendert: {Kapitelliste | erste Uebe
 
 Quelle: {Stufe 1: Frag mich nach dem Pfad der Exportdatei. | Stufe 2: --handoff {ID}}
 
-NEU: Frag mich nach Autor/Pseudonym, Untertitel, Reihe, Verlag. Dann Buchpaket anlegen,
+NEU: Verlagsangaben aus der Uebergabe vorschlagen (ab Stufe 2), fehlende erfragen
+(Autor/Pseudonym, Untertitel, Reihe, Verlag). Dann Buchpaket anlegen,
 alle Kapitel in einem Lauf importieren, Gate ohne KI, Kurzbericht.
 AKTUALISIEREN: Vergleich, nur die Tabelle zeigen. Uebernahmen (--accept) und Konfliktloesungen
 (--keep) nur nach meiner Freigabe, hoechstens 5 Kapitel pro Paket.

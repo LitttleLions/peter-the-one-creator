@@ -634,82 +634,181 @@ def slugify(value: str) -> str:
     return value or "buch"
 
 
+NEW_STYLE_DEFAULT = "stil-01-original"
+
+
+def export_title_suggestion(export_text: str) -> str | None:
+    """Erste '# '-Zeile des Exports als Titelvorschlag (nicht still uebernehmen)."""
+    match = re.search(r"^#\s+(.+?)\s*$", export_text, re.MULTILINE)
+    return match.group(1).strip() if match else None
+
+
+def _neutral_book_yaml(args: argparse.Namespace, source_name: str, book_id: str) -> dict:
+    """Neutrale book.yaml aus tools/init_book.py (kein Chronik-Klon)."""
+    from init_book import build_book_yaml  # noqa: E402
+
+    ns = argparse.Namespace(
+        title=args.title, author=args.author, source_lang="de", target_lang="de",
+        ruleset_path="", ruleset_apply=False, style=NEW_STYLE_DEFAULT,
+        model="deepseek/deepseek-v4-pro", max_tokens_per_scene=10000,
+        notes="Deutsches Original aus RomanForge (Stufe 1).",
+    )
+    cfg = build_book_yaml(ns, source_name, book_id)
+    # RomanForge-DE-Originale sind kapitelweise (chapter_as_scene), nicht szenig.
+    cfg["structure"] = {
+        "mode": "chapter_as_scene", "label": "Kapitel als Szenen", "groups": [],
+    }
+    return cfg
+
+
+def _neutral_export_yaml(args: argparse.Namespace) -> dict:
+    """Neutrale export.yaml aus tools/init_book.py; buchspezifische Texte leer.
+
+    Kein website:/marketing:-Block. Buchspezifische Texte (rights, translator,
+    translator_label, title_page_extra) bleiben leer und werden im Bericht als
+    'offen' gelistet; der Chronik-Klon faellt weg.
+    """
+    from init_book import build_export_yaml  # noqa: E402
+
+    ns = argparse.Namespace(
+        title=args.title, author=args.author,
+        subtitle=args.subtitle or "", target_lang="de",
+    )
+    cfg = build_export_yaml(ns)
+    book = cfg.setdefault("book", {})
+    for key in ("translator", "translator_label", "publisher", "rights",
+                "description", "imprint_text"):
+        book[key] = ""
+    book["title_page_extra"] = []
+    if args.publisher:
+        book["publisher"] = args.publisher
+    if args.series:
+        book["series"] = args.series
+    return cfg
+
+
 def cmd_new(args: argparse.Namespace) -> int:
-    missing = [f"--{name}" for name in ("id", "title", "author") if not getattr(args, name)]
-    # --id darf aus --title abgeleitet werden; Pflicht bleiben Titel+Autor.
-    if args.id is None and args.title:
-        args.id = slugify(args.title)
-        missing = [m for m in missing if m != "--id"]
     if not args.source:
         print("FEHLER: --source mit RomanForge-Export angeben.", file=sys.stderr)
-        return 2
-    if missing or not args.title or not args.author:
-        print(
-            "FEHLER: --new braucht --title und --author"
-            + (" sowie --id" if not args.id else "")
-            + " (optional: --subtitle, --series, --publisher).",
-            file=sys.stderr,
-        )
         return 2
     source = Path(args.source)
     if not source.exists():
         print(f"FEHLER: Quelle nicht gefunden: {source}", file=sys.stderr)
         return 1
-    book_root = REPO_ROOT / "books" / str(args.id)
-    if book_root.exists():
+    export_text = source.read_text(encoding="utf-8")
+
+    # Titel aus der '# '-Zeile nur vorschlagen, nie still uebernehmen.
+    if not args.title:
+        suggestion = export_title_suggestion(export_text)
+        if suggestion:
+            print(f"Vorschlag aus '# '-Zeile: --title \"{suggestion}\"")
+        print(
+            "FEHLER: --new braucht --title (und --author)."
+            + (" Titelvorschlag siehe oben." if suggestion else ""),
+            file=sys.stderr,
+        )
+        return 2
+    if not args.author:
+        print("FEHLER: --new braucht --author.", file=sys.stderr)
+        return 2
+
+    book_id = args.id or slugify(args.title)
+    if args.book_root:
+        book_root = Path(args.book_root)
+        exists = (book_root / "book.yaml").exists()
+    else:
+        book_root = REPO_ROOT / "books" / str(book_id)
+        exists = book_root.exists()
+    if exists:
         print(f"FEHLER: Buchpaket existiert bereits: {book_root}", file=sys.stderr)
         return 2
+
+    chapters = split_chapters(export_text)
     for sub in ("source", "work/chapters", "work/scenes/de", "styles",
                 "status/logs", "assets/covers", "exports"):
         (book_root / sub).mkdir(parents=True, exist_ok=True)
     target_source = book_root / "source" / source.name
-    shutil.copy2(source, target_source)
-    book_yaml = {
-        "id": args.id, "title": args.title, "author": args.author,
-        "source_path": f"source/{source.name}",
-        "source_lang": "de", "target_lang": "de",
-        "ruleset_path": "", "ruleset_apply": False,
-        "style_mode": "stil-01-original",
-        "work_dir": "work", "exports_dir": "exports",
-        "status_file": "status/status.json", "log_dir": "status/logs",
-        "styles_dir": "styles", "assets_dir": "assets",
-        "names_file": "names.yaml",
-        "structure": {"mode": "chapter_as_scene", "label": "Kapitel als Szenen", "groups": []},
-        "notes": "Deutsches Original aus RomanForge (Stufe 1).",
-        "ai": {"provider": "openrouter", "model": "deepseek/deepseek-v4-pro",
-               "granularity": "scene", "max_tokens_per_scene": 10000},
-    }
+    if source.resolve() != target_source.resolve():
+        shutil.copy2(source, target_source)
+    book_yaml = _neutral_book_yaml(args, source.name, book_id)
     (book_root / "book.yaml").write_text(
         yaml.safe_dump(book_yaml, allow_unicode=True, sort_keys=False), encoding="utf-8")
-    template = (REPO_ROOT / "books" / "die-dritte-chronik" / "export.yaml").read_text(encoding="utf-8")
-    export_cfg = yaml.safe_load(template) or {}
-    export_cfg.setdefault("book", {})["title"] = args.title
-    export_cfg["book"]["author"] = args.author
-    export_cfg["book"]["subtitle"] = args.subtitle or ""
-    export_cfg["book"]["publisher"] = args.publisher or ""
-    if args.series:
-        export_cfg["book"]["title_page_extra"] = [args.series]
-    export_cfg.setdefault("defaults", {}).setdefault("cover", {})["mode"] = "placeholder"
     (book_root / "export.yaml").write_text(
-        yaml.safe_dump(export_cfg, allow_unicode=True, sort_keys=False), encoding="utf-8")
+        yaml.safe_dump(_neutral_export_yaml(args), allow_unicode=True, sort_keys=False),
+        encoding="utf-8")
     (book_root / "names.yaml").write_text(
         yaml.safe_dump({"entries": []}, allow_unicode=True), encoding="utf-8")
-    style_src = REPO_ROOT / "styles" / "stil-01-original.md"
+    style_src = REPO_ROOT / "styles" / f"{NEW_STYLE_DEFAULT}.md"
     if style_src.exists():
-        shutil.copy2(style_src, book_root / "styles" / "stil-01-original.md")
-    open_items = [n for n, v in
-                  (("Untertitel", args.subtitle), ("Reihe", args.series), ("Verlag", args.publisher))
-                  if not v]
-    print(f"Buchpaket angelegt: books/{args.id}/")
-    print(f"Quelle kopiert: books/{args.id}/source/{source.name}")
-    if open_items:
-        print("Offen (nicht erfunden): " + ", ".join(open_items))
-    print("Weiter mit --compare, dann --accept nach Freigabe.")
+        shutil.copy2(style_src, book_root / "styles" / f"{NEW_STYLE_DEFAULT}.md")
+    # Alle Kapitel in einem Lauf importieren (drei Textkopien je Kapitel).
+    style = NEW_STYLE_DEFAULT
+    output_root = _output_root_for(book_root, book_yaml)
+    stamp = stamp_now()
+    state: dict = {"book": book_id, "chapters": {}}
+    rows: list[dict] = []
+    for idx, (title, body) in enumerate(chapters, 1):
+        chapter_id = f"{idx:03d}"
+        write_accepted_chapter(
+            book_root=book_root, output_root=output_root, book_cfg=book_yaml,
+            chapter_id=chapter_id, title=title, body=body, style=style,
+        )
+        chapter_hash = text_hash(canonical_text(body))
+        update_state_chapter(
+            state, chapter_id, title=title,
+            rf_base=chapter_hash, peter_base=chapter_hash, base_export=stamp,
+        )
+        rows.append(build_row(
+            chapter_id=chapter_id, title_export=title, title_peter=title,
+            body_export=body, body_peter=body,
+            rf_base=chapter_hash, peter_base=chapter_hash,
+        ))
+    write_state(state_path_for(book_root), state)
+    run_dir = write_run_artifacts(
+        book_root, stamp, export_text=export_text,
+        report=render_report(str(args.title), rows),
+    )
+
+    # status/status.json wie im Alt-Import: alle Kapitel done.
+    from lib.status_manager import (  # noqa: E402
+        STATUS_DONE, ChapterState, add_chapter, new_book_state, now_iso, save_state,
+    )
+
+    status_state = new_book_state(book_yaml)
+    for idx, (title, body) in enumerate(chapters, 1):
+        words = count_words(body)
+        add_chapter(status_state, ChapterState(
+            id=f"{idx:03d}", title_ru=title, title_de=title,
+            status=STATUS_DONE, words_source=words, words_target=words,
+            completed_at=now_iso(),
+        ))
+    status_path = book_root / str(book_yaml.get("status_file") or "status/status.json")
+    save_state(status_state, status_path)
+
+    open_items: list[str] = []
+    if not args.subtitle:
+        open_items.append("Untertitel")
+    if not args.series:
+        open_items.append("Reihe (title_page_extra)")
+    if not args.publisher:
+        open_items.append("Verlag")
+    open_items += [
+        "Rechte (rights)", "Uebersetzer/Etikett (translator)",
+        "Originaltitel", "Originalautor",
+        "Zusammenfassung (summary)", "Autorenleben (author_bio)",
+    ]
+    print(f"Buchpaket angelegt: {book_root}")
+    print(f"Kapitel importiert: {len(chapters)} (je 3 Textkopien)")
+    print(f"state.yaml: {len(chapters)} Eintraege (rf_base = peter_base = Export-Hash)")
+    print(f"status.json: {len(chapters)} Kapitel, Status done")
+    print(f"lauf: {run_dir}/export.md + report.md")
+    print("Offen (nicht erfunden): " + ", ".join(open_items))
+    print(
+        f"Folge: py -3 tools/assemble_chapter.py --book {book_id} --all --style {style}")
+    print(
+        "Folge: py -3 tools/review_manuscript.py --book "
+        f"{book_id} --style {style} --all --llm none")
     return 0
-
-
-def source_baseline_hashes(book_root: Path, book_cfg: dict) -> dict[str, str]:
-    raise SystemExit("FEHLER: interner Aufruf veraltet; --baseline verwenden.")
 
 
 def baseline_hashes(baseline_path: Path) -> dict[str, str]:

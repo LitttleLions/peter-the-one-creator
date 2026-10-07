@@ -11,11 +11,14 @@ Stil: unittest wie tests/test_book_project.py. Laeuft ohne pytest:
 
 from __future__ import annotations
 
+import json
 import subprocess
 import sys
 import tempfile
 import unittest
 from pathlib import Path
+
+import yaml
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -490,6 +493,122 @@ class CliWriteTests(unittest.TestCase):
             err = str(getattr(proc, "stderr")) + str(getattr(proc, "stdout"))
             self.assertIn("--author", err)
 
+
+
+class NewCommandTests(unittest.TestCase):
+    """--new (Stufe 1b): neutrales Paket, alle Kapitel, state.yaml + status.json.
+
+    Quelle ist die Tempokopie des echt archivierten RomanForge-Exports
+    (runs/20261007-201221/export.md). Geschrieben wird ausschliesslich unter
+    --book-root (Temporarverzeichnis); das echte books/ bleibt unberuehrt.
+    Keine Texte werden gelesen, nur Schluessel/Zahlen geprueft.
+    """
+
+    NEW_STYLE = "stil-01-original"
+
+    def setUp(self) -> None:
+        self._tmpdir = tempfile.TemporaryDirectory()
+        self.tmp = Path(self._tmpdir.name)
+
+    def tearDown(self) -> None:
+        self._tmpdir.cleanup()
+
+    def _export_copy(self) -> Path:
+        return _real_fresh_export(self.tmp)
+
+    def _run_new(self, book_root: Path, source: Path, *extra: str):
+        return _run_tool(
+            "--new", "--book-root", str(book_root), "--source", str(source), *extra)
+
+    def test_new_importiert_alle_kapitel_state_status_export(self) -> None:
+        export = self._export_copy()
+        book_root = self.tmp / "ashkara"
+        proc = self._run_new(
+            book_root, export,
+            "--id", "ashkara", "--title", "Ashkara", "--author", "Testautor")
+        self.assertEqual(
+            getattr(proc, "returncode"), 0,
+            msg=str(getattr(proc, "stderr")))
+        mod = _load_module()
+        chapters = mod.split_chapters(export.read_bytes().decode("utf-8"))
+        self.assertEqual(len(chapters), 48)
+
+        # drei Textkopien je Kapitel (work/chapters, scenes/de/NNN,
+        # scenes/de/<style>/NNN)
+        for idx in range(1, 49):
+            cid = f"{idx:03d}"
+            self.assertTrue(
+                (book_root / "work" / "chapters" / f"{cid}-source.md").is_file(),
+                msg=f"Kapitelquelle fehlt: {cid}")
+            self.assertTrue(
+                (book_root / "work" / "scenes" / "de" / cid / "scene-01.md").is_file(),
+                msg=f"Quellszene fehlt: {cid}")
+            self.assertTrue(
+                (book_root / "work" / "scenes" / "de" / self.NEW_STYLE
+                 / cid / "scene-01.md").is_file(),
+                msg=f"DE-Szene fehlt: {cid}")
+
+        # state.yaml: 48 Eintraege, rf_base == peter_base == Export-Hash
+        state = mod.load_state(mod.state_path_for(book_root))
+        self.assertEqual(len(state["chapters"]), 48)
+        for idx, (_title, body) in enumerate(chapters, 1):
+            cid = f"{idx:03d}"
+            expected = mod.text_hash(mod.canonical_text(body))
+            self.assertEqual(state["chapters"][cid]["rf_base"], expected)
+            self.assertEqual(state["chapters"][cid]["peter_base"], expected)
+
+        # status.json: 48 Kapitel, alle done
+        status = json.loads(
+            (book_root / "status" / "status.json").read_text(encoding="utf-8"))
+        self.assertEqual(len(status["chapters"]), 48)
+        self.assertTrue(all(c["status"] == "done" for c in status["chapters"]))
+        self.assertTrue(all(c["words_target"] > 0 for c in status["chapters"]))
+
+        # export.yaml: neutrale Vorlage, ohne Chronik-Felder, ohne
+        # website:/marketing:-Block (nur Schluessel, keine Texte).
+        export_cfg = yaml.safe_load(
+            (book_root / "export.yaml").read_text(encoding="utf-8"))
+        self.assertNotIn("website", export_cfg)
+        self.assertNotIn("marketing", export_cfg)
+        book = export_cfg.get("book", {})
+        for key in ("original_title", "original_author", "summary", "author_bio"):
+            self.assertNotIn(key, book)
+        self.assertIn(book.get("translator"), ("", None))
+        self.assertIn(book.get("translator_label"), ("", None))
+        self.assertEqual(book.get("title"), "Ashkara")
+        self.assertEqual(book.get("author"), "Testautor")
+
+        # Folge-Compare ohne --baseline: 48 x 'nichts'
+        proc2 = _run_tool(
+            "--book-root", str(book_root), "--source", str(export), "--compare")
+        self.assertEqual(
+            getattr(proc2, "returncode"), 0,
+            msg=str(getattr(proc2, "stderr")))
+        actions = _parse_actions(str(getattr(proc2, "stdout")))
+        self.assertEqual(len(actions), 48)
+        self.assertTrue(all(v == "nichts" for v in actions.values()))
+
+    def test_new_ohne_title_meldet_vorschlag_nicht_still(self) -> None:
+        export = self._export_copy()
+        book_root = self.tmp / "no-title"
+        proc = self._run_new(book_root, export, "--author", "Testautor")
+        self.assertNotEqual(getattr(proc, "returncode"), 0)
+        out = str(getattr(proc, "stdout")) + str(getattr(proc, "stderr"))
+        self.assertIn("Die dritte Chronik", out)  # Vorschlag aus '#'-Zeile
+        self.assertIn("--title", out)
+        self.assertFalse(book_root.exists())  # nichts angelegt
+
+    def test_new_bricht_ab_wenn_paket_existiert(self) -> None:
+        export = self._export_copy()
+        book_root = self.tmp / "existing"
+        book_root.mkdir(parents=True)
+        (book_root / "book.yaml").write_text("id: existing\n", encoding="utf-8")
+        proc = self._run_new(
+            book_root, export, "--id", "existing",
+            "--title", "Existing", "--author", "Testautor")
+        self.assertEqual(getattr(proc, "returncode"), 2)
+        out = str(getattr(proc, "stdout")) + str(getattr(proc, "stderr"))
+        self.assertIn("existiert", out)
 
 
 class FullStateSeedTests(unittest.TestCase):

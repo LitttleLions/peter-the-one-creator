@@ -1,0 +1,59 @@
+{
+  "book": "ashkara",
+  "chapter": "007",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "high",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\work\\scenes\\de\\stil-01-original\\007\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\work\\prompts\\higgsfield\\007-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\assets\\chapter\\chapter-007.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 007. Cinematic literary science-fiction illustration for an ambitious epic about memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of black and amber glass over ancient mineral plains; light refracts through cracks, fractures and edges; dark glass, amber glow, cold electric light. Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and underground human settlements. Sky with electric storms, drifting charged dust and faint auroras of amber and blue. Mood: monumental, intelligent, alien and grave, intellectually serious, atmospheric and dignified. Style: refined painterly realism with cinematic light and deep atmospheric depth, controlled palette of black glass, amber and gold, muted blue, bronze and milky white. Focus on the architecture of glass, distant human figures small before immense structures, harnessed energy, and quiet political tension inside monumental spaces. Premium modern book illustration with a strong central motif and a clear dramatic situation, elegant and restrained. Die Lampe brannte niedrig, und ihr Licht reichte kaum über den Tisch, an dem Ilyan Dheran saß. Das Gemach im Nemet-Hauptquartier war klein und ohne Schmuck, ein Raum für einen Mann, der keine Zeugen brauchte. Auf dem Tisch lagen drei Schriftrollen, eine flache Schale mit Wasser, und daneben, sorgfältig ausgerichtet, ein Stapel loser Blätter, die noch niemand außer ihm gesehen hatte. Die Luft roch nach kaltem Stein und nach dem Öl der Lampe, und unter dem Öl, kaum wahrnehmbar, lag der Geruch von feuchtem Papier, der Geruch der Tiefenspeicher. Dheran las nicht. Er wartete. Und während er wartete, ließ er die Nachricht, die ihm sein Schreiber vor einer Stunde gebracht hatte, noch einmal durch seinen Geist gehen, Wort für Wort, so wie er jede Nachricht durch seinen Geist gehen ließ, bevor er sie beantwortete. Neris Tal hatte einen Befund. Neris Tal bat um eine Unterredung. Neris Tal hatte die Wasserbücher aus dem dritten Gewölbe angefordert, und sie hatte sie erhalten, und sie hatte in ihnen gelesen, und jetzt bat sie um eine Unterredung.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261007_214720_2553d7f9-78a1-43c6-ab90-a70dd5b5f228.png",
+  "job_result": [
+    {
+      "created_at": "2026-10-07T21:47:20.951429Z",
+      "display_name": "GPT Image 2",
+      "id": "2553d7f9-78a1-43c6-ab90-a70dd5b5f228",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261007_214720_2553d7f9-78a1-43c6-ab90-a70dd5b5f228_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 007. Cinematic literary science-fiction illustration for an ambitious epic about memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of black and amber glass over ancient mineral plains; light refracts through cracks, fractures and edges; dark glass, amber glow, cold electric light. Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and underground human settlements. Sky with electric storms, drifting charged dust and faint auroras of amber and blue. Mood: monumental, intelligent, alien and grave, intellectually serious, atmospheric and dignified. Style: refined painterly realism with cinematic light and deep atmospheric depth, controlled palette of black glass, amber and gold, muted blue, bronze and milky white. Focus on the architecture of glass, distant human figures small before immense structures, harnessed energy, and quiet political tension inside monumental spaces. Premium modern book illustration with a strong central motif and a clear dramatic situation, elegant and restrained. Die Lampe brannte niedrig, und ihr Licht reichte kaum über den Tisch, an dem Ilyan Dheran saß. Das Gemach im Nemet-Hauptquartier war klein und ohne Schmuck, ein Raum für einen Mann, der keine Zeugen brauchte. Auf dem Tisch lagen drei Schriftrollen, eine flache Schale mit Wasser, und daneben, sorgfältig ausgerichtet, ein Stapel loser Blätter, die noch niemand außer ihm gesehen hatte. Die Luft roch nach kaltem Stein und nach dem Öl der Lampe, und unter dem Öl, kaum wahrnehmbar, lag der Geruch von feuchtem Papier, der Geruch der Tiefenspeicher. Dheran las nicht. Er wartete. Und während er wartete, ließ er die Nachricht, die ihm sein Schreiber vor einer Stunde gebracht hatte, noch einmal durch seinen Geist gehen, Wort für Wort, so wie er jede Nachricht durch seinen Geist gehen ließ, bevor er sie beantwortete. Neris Tal hatte einen Befund. Neris Tal bat um eine Unterredung. Neris Tal hatte die Wasserbücher aus dem dritten Gewölbe angefordert, und sie hatte sie erhalten, und sie hatte in ihnen gelesen, und jetzt bat sie um eine Unterredung.",
+        "quality": "high",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261007_214720_2553d7f9-78a1-43c6-ab90-a70dd5b5f228.png",
+      "status": "completed"
+    }
+  ]
+}

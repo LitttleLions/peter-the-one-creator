@@ -1,0 +1,34 @@
+{
+  "chapter": "019",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "019",
+      "scene": 1,
+      "ru_path": "books\\ashkara\\work\\scenes\\de\\019\\scene-01.md",
+      "de_path": "books\\ashkara\\work\\scenes\\de\\stil-01-original\\019\\scene-01.md",
+      "ru_words": 3853,
+      "de_words": 3853,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Kapitel-TTR 0.24 bei 3850 Woertern.",
+          "chapter": "019",
+          "scene": 1,
+          "evidence": "TTR=0.24, Woerter=3850",
+          "recommendation": "Wortschatzarmut pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

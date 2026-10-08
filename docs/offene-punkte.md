@@ -1,6 +1,6 @@
 # Offene Punkte / Arbeitsplan
 
-Stand: 2026-09-21. Quelle: `AGENTS.md`, `README.md`, `docs/HANDOVER.md`.
+Stand: 2026-10-08. Quelle: `AGENTS.md`, `README.md`, `docs/HANDOVER.md`.
 
 Pflege: Bei Erledigung Status + Datum in der jeweiligen Sektion aktualisieren.
 Dieses Dokument ist die verbindliche Checkliste, auf die aus der `README.md`
@@ -591,7 +591,17 @@ git branch -a --contains af6873c
 
 Status: OFFEN, optional.
 
-## 9. Bekannte rote Tests (Umgebung, Stand 2026-09-17)
+## 9. Bekannte rote Tests (Umgebung)
+
+**Stand 2026-10-07:** volle Suite `py -3 -m unittest discover -s tests` ergibt
+**319 Tests mit 7 Failures/Errors** ausserhalb der Stufe-1-Arbeit: 5 in
+`tests/test_print_export.py` (Print/PDF-Pipeline) und die 2 bekannten in
+`tests/test_backend_api.py`. Die 5 Print-Fehler sind noch nicht als bekannt
+dokumentiert - vor einem Merge nach `main` pruefen, ob sie von den offenen
+CSS-Aenderungen (`book-print.css`/`epub.css`) kommen. Die Stufe-1-Suite
+(`tests/test_import_markdown_original.py`) ist isoliert 31/31 gruen.
+
+**Stand 2026-09-17 (2 Failures, umgebungsabhaengig):**
 
 `py -3 -m unittest discover -s tests` → **240 Tests, 2 Failures, beide
 vorbestehend und umgebungsabhaengig** (nicht Review/Export):
@@ -764,6 +774,36 @@ Status: UMGESETZT und erweitert (2026-09-21, Trim/Profil/Bilder waehlbar).
   A und B liegen ueber 776; C und D sind KDP-creme-tauglich.
 - Kopiertext neues Chat-Fenster: `docs/uebergabe-prompt.md`.
 
+## 13. RomanForge-Uebernahme Stufe 1 (2026-10-07)
+
+DE-Originale kommen jetzt ueber den RomanForge-Export nach peter, nicht mehr
+ueber `status/<Titel> - NN ....md`. Werkzeug
+`tools/import_markdown_original.py`; Ablauf `docs/uebernahme-romanforge.md`;
+Plan (Stufen 2-4) `docs/plan-uebernahme-romanforge.md`.
+
+- Committet auf Branch `cline/pveejb87` (`e93f4a2`): Tool + 31 Tests
+  (`tests/test_import_markdown_original.py`) + Doku + Chronik-Ausgangsstand
+  (`books/die-dritte-chronik/work/imports/romanforge/`).
+- Erstlauf Chronik: `--keep 008,031,033,036`; Folge-`--compare` ohne `--baseline`
+  ergab nichts 35 / peter-behalten 11 / konflikt 2 (012, 025).
+- Offen: Nutzer liest Chronik 012/025 selbst und entscheidet (`--accept`, dann
+  `assemble_chapter.py` + `review_manuscript --chapter NNN --llm none`).
+- **Ashkara (2026-10-08):** `--new` lief am 2026-10-07 (`20261007-210822`,
+  18 Kapitel, Gate 0/0/12). Die Uebergabe vom 2026-10-08 (`Ashkar I c3.md`,
+  36 Kapitel) ergab 18x `nichts` + 18x `neu` (019-036). Stufe 1c: `neu`-Kapitel
+  per Exportposition freigebbar, Paketgrenze 5 erzwungen.
+  Pakete 019-023 (`20261008-154946`), 024-028 (`20261008-155643`),
+  029-033 (`20261008-155915`) und 034-036 (`20261008-155935`) uebernommen,
+  Assembly 36/36, Gate je Kapitel 0/0. Stand peter: 36/36 Kapitel,
+  Buch-Gate 0/0/18, Abschlussvergleich 36x `nichts` (Exit 0).
+  Offen: `status/status.json` (18 Eintraege; `status.py mark` kennt nur
+  vorhandene Kapitel), Kapitelbilder 026-036, neuer Buch-EPUB.
+  Kapitelbilder 001-025 liegen in `assets/chapter/` (019-025 am 2026-10-08 mit
+  `generate_illustration.py --no-reference`, 31,5 Credits).
+- Offen (Stufe 2): `--handoff <id>` mit `ROMANFORGE_URL`/`ROMANFORGE_API_KEY`
+  (in `.env` vorhanden). Uebergabe-Prompt nennt den Schalter, das Werkzeug hat
+  ihn noch nicht; Abruf laeuft per Exportdatei.
+
 ## Empfohlene Reihenfolge
 
 1. Punkt 0 (Peter-I-Pruefung, vorgezogen) - lesend, ohne Kosten.
@@ -774,4 +814,6 @@ Status: UMGESETZT und erweitert (2026-09-21, Trim/Profil/Bilder waehlbar).
 6. Punkt 11 ist auf `main` (Taschenbuch komplett + Katalog + Trim/Profil/Bilder);
    offen bleibt die menschliche Print-Leseprobe, 788 vs. 776 bei 6x9 classic,
    und ein manuelles `cover-print` je Titel.
+7. Punkt 13 (RomanForge Stufe 1, Branch `cline/pveejb87`): Chronik
+   012/025-Entscheidung und `--new` (Ashkara) nur nach Freigabe.
 

@@ -1,0 +1,59 @@
+{
+  "book": "ashkara",
+  "chapter": "019",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "high",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\work\\scenes\\de\\stil-01-original\\019\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\work\\prompts\\higgsfield\\019-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\assets\\chapter\\chapter-019.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 019. Cinematic literary science-fiction illustration for an ambitious epic about memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of black and amber glass over ancient mineral plains; light refracts through cracks, fractures and edges; dark glass, amber glow, cold electric light. Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and underground human settlements. Sky with electric storms, drifting charged dust and faint auroras of amber and blue. Mood: monumental, intelligent, alien and grave, intellectually serious, atmospheric and dignified. Style: refined painterly realism with cinematic light and deep atmospheric depth, controlled palette of black glass, amber and gold, muted blue, bronze and milky white. Focus on the architecture of glass, distant human figures small before immense structures, harnessed energy, and quiet political tension inside monumental spaces. Premium modern book illustration with a strong central motif and a clear dramatic situation, elegant and restrained. Der Hauptlesesaal des Nemet-Archivs lag unter einer Kuppel aus grauem Glas, durch die das Licht des Vormittags fiel wie durch eine Schicht abgestandenen Wassers. Die Tische waren in langen Reihen angeordnet, und auf jedem Tisch standen die Lesegeräte, schmale Platten aus mattem Metall, an denen die Zeugen ihre Hände auflegen würden, wenn sie gerufen wurden. Es roch nach Staub und nach dem Öl der alten Mechanismen, das sich in die Fugen der Tische gesetzt hatte wie ein zweites Gedächtnis. Neris Tal stand am Kopf des Saales, vor der großen Projektionswand, und wartete. Sie trug die graue Arbeitskleidung der Archivforensiker, doch ohne die Rangabzeichen, die man ihr am Vortag entfernt hatte. Ihre Hände lagen ruhig auf der Ablage des Steuerpults. Sie hatte die Nacht nicht geschlafen, aber sie spürte keine Müdigkeit. Sie spürte nur die Schärfe ihres eigenen Entschlusses, die wie ein dünnes Messer in ihr saß.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261008_160819_f33071c9-38c0-4107-aa03-74532ae4ad3c.png",
+  "job_result": [
+    {
+      "created_at": "2026-10-08T16:08:19.459328Z",
+      "display_name": "GPT Image 2",
+      "id": "f33071c9-38c0-4107-aa03-74532ae4ad3c",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261008_160819_f33071c9-38c0-4107-aa03-74532ae4ad3c_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 019. Cinematic literary science-fiction illustration for an ambitious epic about memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of black and amber glass over ancient mineral plains; light refracts through cracks, fractures and edges; dark glass, amber glow, cold electric light. Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and underground human settlements. Sky with electric storms, drifting charged dust and faint auroras of amber and blue. Mood: monumental, intelligent, alien and grave, intellectually serious, atmospheric and dignified. Style: refined painterly realism with cinematic light and deep atmospheric depth, controlled palette of black glass, amber and gold, muted blue, bronze and milky white. Focus on the architecture of glass, distant human figures small before immense structures, harnessed energy, and quiet political tension inside monumental spaces. Premium modern book illustration with a strong central motif and a clear dramatic situation, elegant and restrained. Der Hauptlesesaal des Nemet-Archivs lag unter einer Kuppel aus grauem Glas, durch die das Licht des Vormittags fiel wie durch eine Schicht abgestandenen Wassers. Die Tische waren in langen Reihen angeordnet, und auf jedem Tisch standen die LesegerÃ¤te, schmale Platten aus mattem Metall, an denen die Zeugen ihre HÃ¤nde auflegen wÃ¼rden, wenn sie gerufen wurden. Es roch nach Staub und nach dem Ã–l der alten Mechanismen, das sich in die Fugen der Tische gesetzt hatte wie ein zweites GedÃ¤chtnis. Neris Tal stand am Kopf des Saales, vor der groÃŸen Projektionswand, und wartete. Sie trug die graue Arbeitskleidung der Archivforensiker, doch ohne die Rangabzeichen, die man ihr am Vortag entfernt hatte. Ihre HÃ¤nde lagen ruhig auf der Ablage des Steuerpults. Sie hatte die Nacht nicht geschlafen, aber sie spÃ¼rte keine MÃ¼digkeit. Sie spÃ¼rte nur die SchÃ¤rfe ihres eigenen Entschlusses, die wie ein dÃ¼nnes Messer in ihr saÃŸ.",
+        "quality": "high",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261008_160819_f33071c9-38c0-4107-aa03-74532ae4ad3c.png",
+      "status": "completed"
+    }
+  ]
+}

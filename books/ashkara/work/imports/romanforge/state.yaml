@@ -1,0 +1,182 @@
+book: ashkara
+chapters:
+  '001':
+    title: Der Tod des Oberhaupts
+    rf_base: 07461b754992b2b466f25c42904b7817eac5f3561a72e08a8738c64098b8064b
+    peter_base: 07461b754992b2b466f25c42904b7817eac5f3561a72e08a8738c64098b8064b
+    base_export: 20261007-210822
+  '002':
+    title: Der Auftrag
+    rf_base: 55fe068d0c05c15ba5b46996aed2668f7dc9b64cda1edcb740ab86b063fe8662
+    peter_base: 55fe068d0c05c15ba5b46996aed2668f7dc9b64cda1edcb740ab86b063fe8662
+    base_export: 20261007-210822
+  '003':
+    title: Die unmögliche Erinnerung
+    rf_base: d40f2292779487a694ff90a1691f7b35675b35812e6fec92f908b0da44841a20
+    peter_base: d40f2292779487a694ff90a1691f7b35675b35812e6fec92f908b0da44841a20
+    base_export: 20261007-210822
+  '004':
+    title: Die Hydrologin
+    rf_base: bf1b9a56b2b2ae4ceeff3708f420ae968225e6cfb776eac7723fdf6270bd7ebb
+    peter_base: bf1b9a56b2b2ae4ceeff3708f420ae968225e6cfb776eac7723fdf6270bd7ebb
+    base_export: 20261007-210822
+  '005':
+    title: Der Erste Schiedsrichter
+    rf_base: 40eb508a8b1ccb9c69a0898b050bc6227f90eb0b8a038834eca1e50f4d963b6e
+    peter_base: 40eb508a8b1ccb9c69a0898b050bc6227f90eb0b8a038834eca1e50f4d963b6e
+    base_export: 20261007-210822
+  '006':
+    title: Die sieben Kontinuitäten
+    rf_base: d177658485b475dc706080d2f8f323af80a5d0d7d0bb2ddce91408e06f433a18
+    peter_base: d177658485b475dc706080d2f8f323af80a5d0d7d0bb2ddce91408e06f433a18
+    base_export: 20261007-210822
+  '007':
+    title: Dherans Schachzug
+    rf_base: 47a5eec4b64e35aa8161a8b5218b99d88dfff56926d9388d75818e65fa9dd687
+    peter_base: 47a5eec4b64e35aa8161a8b5218b99d88dfff56926d9388d75818e65fa9dd687
+    base_export: 20261007-210822
+  008:
+    title: Die erste Kopplung
+    rf_base: 9793abe5e2c8ccfa0de86a3e74839a3718c67781004062607adb28f653dc17b7
+    peter_base: 9793abe5e2c8ccfa0de86a3e74839a3718c67781004062607adb28f653dc17b7
+    base_export: 20261007-210822
+  009:
+    title: Das verborgene Wissen
+    rf_base: fdcd12a43f62e4feac12f3a2fa1bbd192757be45c30e96578d6ef882fc1adc2e
+    peter_base: fdcd12a43f62e4feac12f3a2fa1bbd192757be45c30e96578d6ef882fc1adc2e
+    base_export: 20261007-210822
+  '010':
+    title: Die Veyra-Spur
+    rf_base: 2449f08bc31812f1c1032538a37ee65c704061f4722e14da319cb694e6d26af1
+    peter_base: 2449f08bc31812f1c1032538a37ee65c704061f4722e14da319cb694e6d26af1
+    base_export: 20261007-210822
+  '011':
+    title: Die Wasserbücher
+    rf_base: 1d8c2a8c3f6ae602aba4e38e9e1665994791722be56dc8bcc46f4df632e06d8d
+    peter_base: 1d8c2a8c3f6ae602aba4e38e9e1665994791722be56dc8bcc46f4df632e06d8d
+    base_export: 20261007-210822
+  '012':
+    title: Orens Zweifel
+    rf_base: bb95d2c2189648a7784ceaf53763ac1e3b1307e9dfebff0ac0bed1e699b9a2e9
+    peter_base: bb95d2c2189648a7784ceaf53763ac1e3b1307e9dfebff0ac0bed1e699b9a2e9
+    base_export: 20261007-210822
+  '013':
+    title: Der hohle Forscher
+    rf_base: 31eae160f40e2d9cb4412d65d4f5162e7b06235bf2fb750099f1f23d453b34bc
+    peter_base: 31eae160f40e2d9cb4412d65d4f5162e7b06235bf2fb750099f1f23d453b34bc
+    base_export: 20261007-210822
+  '014':
+    title: Dherans Gegenschlag
+    rf_base: 4ce7c3049fe4288e34bd3a32dea70a1686daa3d74b7bf16974e9b683d66af10b
+    peter_base: 4ce7c3049fe4288e34bd3a32dea70a1686daa3d74b7bf16974e9b683d66af10b
+    base_export: 20261007-210822
+  '015':
+    title: Die Vertragler-Familie
+    rf_base: 53ebff0143c5738d236b088f1948acea092a34a613d060579f01736167f5af3a
+    peter_base: 53ebff0143c5738d236b088f1948acea092a34a613d060579f01736167f5af3a
+    base_export: 20261007-210822
+  '016':
+    title: Tarns Geheimnis
+    rf_base: 373af1ae17ecd1ae8ec5e2c3e90f7cdf8f26e354990ef64f724658042c8aa57e
+    peter_base: 373af1ae17ecd1ae8ec5e2c3e90f7cdf8f26e354990ef64f724658042c8aa57e
+    base_export: 20261007-210822
+  '017':
+    title: Das Muster
+    rf_base: 2315dd0d19578ab20b064695a3b15b8285f59569ade9aea733c6705b5b30dbf7
+    peter_base: 2315dd0d19578ab20b064695a3b15b8285f59569ade9aea733c6705b5b30dbf7
+    base_export: 20261007-210822
+  018:
+    title: Der Riss im Fundament
+    rf_base: 8e631fadad06df887e53b29875d4b4abc3691eb2ced823834103006e5a25b9b8
+    peter_base: 8e631fadad06df887e53b29875d4b4abc3691eb2ced823834103006e5a25b9b8
+    base_export: 20261007-210822
+  019:
+    title: Der Beweis
+    rf_base: f7a100fd8658b6f2c979a00c21651ba814493a2a5f3cd73a00a8f9d2bb75ee00
+    peter_base: f7a100fd8658b6f2c979a00c21651ba814493a2a5f3cd73a00a8f9d2bb75ee00
+    base_export: 20261008-154946
+  '020':
+    title: Nemets Antwort
+    rf_base: 247557e6e54526f9fdd17e3d54b2f100b323d7004fc04b840d194368b2420939
+    peter_base: 247557e6e54526f9fdd17e3d54b2f100b323d7004fc04b840d194368b2420939
+    base_export: 20261008-154946
+  '021':
+    title: Unterglas zerfällt
+    rf_base: 13108613032ae9a1c71adb03f1b2f4c535ea3d0d31cd8ecf442b36a70344306c
+    peter_base: 13108613032ae9a1c71adb03f1b2f4c535ea3d0d31cd8ecf442b36a70344306c
+    base_export: 20261008-154946
+  '022':
+    title: Der Tiefenschnitt
+    rf_base: c325f55a590ef55f6cc29ed7b2101e75d47f60274b64f2b3f6907f7d94e78f6d
+    peter_base: c325f55a590ef55f6cc29ed7b2101e75d47f60274b64f2b3f6907f7d94e78f6d
+    base_export: 20261008-154946
+  '023':
+    title: Orens Verwandlung
+    rf_base: a8f3fad28320b939f5eb33d58292125ca843bba493a5a568f87ed10659592ba4
+    peter_base: a8f3fad28320b939f5eb33d58292125ca843bba493a5a568f87ed10659592ba4
+    base_export: 20261008-154946
+  '024':
+    title: Die öffentliche Kopplung
+    rf_base: 0fdeae9de739d8e01a65245e9c41bc8676e5ee006c0c4e1b065b87fcf9950031
+    peter_base: 0fdeae9de739d8e01a65245e9c41bc8676e5ee006c0c4e1b065b87fcf9950031
+    base_export: 20261008-155643
+  '025':
+    title: Das Angebot an den Schiedsrichter
+    rf_base: 605406810ee9f8b9e73903bd936a9c323a4393d1747c366d828c0546001b5d66
+    peter_base: 605406810ee9f8b9e73903bd936a9c323a4393d1747c366d828c0546001b5d66
+    base_export: 20261008-155643
+  '026':
+    title: Die vollständige Einbindung
+    rf_base: f89e261ef3fc40fd49db657a8671b4eacd938697f57f83f991bba7c2f6e8cc27
+    peter_base: f89e261ef3fc40fd49db657a8671b4eacd938697f57f83f991bba7c2f6e8cc27
+    base_export: 20261008-155643
+  '027':
+    title: Orens Entscheidung
+    rf_base: 31ae414567209049f0d531324d3bda49ffd708e08018840025d5e83046edfee3
+    peter_base: 31ae414567209049f0d531324d3bda49ffd708e08018840025d5e83046edfee3
+    base_export: 20261008-155643
+  028:
+    title: Nemets Argument
+    rf_base: 3be64457a60e8ea91e6686803340541a82085ebf756ece474b3619cdff4c1905
+    peter_base: 3be64457a60e8ea91e6686803340541a82085ebf756ece474b3619cdff4c1905
+    base_export: 20261008-155643
+  029:
+    title: Die Verweigerung
+    rf_base: 5f79279b9b40185a645dbb68598b7ddd198d83603885dd47126013cf7b325ff1
+    peter_base: 5f79279b9b40185a645dbb68598b7ddd198d83603885dd47126013cf7b325ff1
+    base_export: 20261008-155915
+  '030':
+    title: Die Abstimmung
+    rf_base: dbe462a662d2116d87dcaba369077f3589a9c8dd84fcf4ecd784c66c0eebdb79
+    peter_base: dbe462a662d2116d87dcaba369077f3589a9c8dd84fcf4ecd784c66c0eebdb79
+    base_export: 20261008-155915
+  '031':
+    title: Der Entscheid
+    rf_base: 7b7f20d891274559dbb6c98c90f47e8f6655b2a6272ebb57f0a6f65c1e180c97
+    peter_base: 7b7f20d891274559dbb6c98c90f47e8f6655b2a6272ebb57f0a6f65c1e180c97
+    base_export: 20261008-155915
+  '032':
+    title: Avars Vollzug
+    rf_base: 072aa397182b634b221ec1030a195a99514a545307bc2c517416e8eeddb49555
+    peter_base: 072aa397182b634b221ec1030a195a99514a545307bc2c517416e8eeddb49555
+    base_export: 20261008-155915
+  '033':
+    title: Der Fall des Fördersystems
+    rf_base: 37308561b784981f1a3b14c41303f8080d903ea030c7fa1b2b03375da1821622
+    peter_base: 37308561b784981f1a3b14c41303f8080d903ea030c7fa1b2b03375da1821622
+    base_export: 20261008-155915
+  '034':
+    title: Neue Ordnung
+    rf_base: f5f3aeb8c962b0f9274ffc9d8cfa926ac7241c0efaa0a166ca6d1939218e076b
+    peter_base: f5f3aeb8c962b0f9274ffc9d8cfa926ac7241c0efaa0a166ca6d1939218e076b
+    base_export: 20261008-155935
+  '035':
+    title: Orens unmögliche Erinnerung
+    rf_base: e16582ed196a89bfdba4ca9d4539ad20ab8a942fd47bfb6f4874e98ffda3635c
+    peter_base: e16582ed196a89bfdba4ca9d4539ad20ab8a942fd47bfb6f4874e98ffda3635c
+    base_export: 20261008-155935
+  '036':
+    title: Das Netzwerk
+    rf_base: f822b0abaacba06a7e3e05863cc172d8ca865330f9d71ba989b2f9b87919034d
+    peter_base: f822b0abaacba06a7e3e05863cc172d8ca865330f9d71ba989b2f9b87919034d
+    base_export: 20261008-155935

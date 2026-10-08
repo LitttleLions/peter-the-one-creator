@@ -1,0 +1,34 @@
+{
+  "chapter": "021",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "021",
+      "scene": 1,
+      "ru_path": "books\\ashkara\\work\\scenes\\de\\021\\scene-01.md",
+      "de_path": "books\\ashkara\\work\\scenes\\de\\stil-01-original\\021\\scene-01.md",
+      "ru_words": 2893,
+      "de_words": 2893,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Kapitel-TTR 0.22 bei 2890 Woertern.",
+          "chapter": "021",
+          "scene": 1,
+          "evidence": "TTR=0.22, Woerter=2890",
+          "recommendation": "Wortschatzarmut pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

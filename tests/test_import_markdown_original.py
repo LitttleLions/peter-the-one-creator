@@ -495,6 +495,124 @@ class CliWriteTests(unittest.TestCase):
 
 
 
+class AcceptNewChapterTests(unittest.TestCase):
+    """'neu'-Kapitel (Exportkapitel ohne peter-Entsprechung) freigeben.
+
+    Erweiterung 2026-10-08 (Ashkar I): solche Kapitel haben in peter noch
+    keine ID und werden ueber ihre Exportposition angesprochen --accept 019.
+    --keep ist fuer sie nicht moeglich; pro Lauf hoechstens fuenf Kapitel.
+    """
+
+    def test_neu_zeile_traegt_exportposition(self) -> None:
+        # Fall wie Ashkar I: Export hat mehr Kapitel als peter.
+        # Chronik-Tempokopie mit 001-018; Position 019 ff. ist 'neu'.
+        mod = _load_module()
+        with tempfile.TemporaryDirectory() as tmp:
+            baseline = _baseline_to_file(Path(tmp) / "baseline.md")
+            book_root = _temp_book_from_chronik(
+                Path(tmp), [f"{i:03d}" for i in range(1, 19)])
+            chapters = mod.split_chapters(
+                baseline.read_bytes().decode("utf-8"))
+            code, rows = mod.cmd_compare(
+                book_title="Demo", book_root=book_root, style=CHRONIK_STYLE,
+                chapters=chapters, state={"book": "demo", "chapters": {}},
+                source_baseline={})
+        self.assertEqual(len(chapters), 48)
+        self.assertEqual(code, 2)
+        new_rows = [r for r in rows if r["action"] == "neu"]
+        self.assertEqual(len(new_rows), 30)
+        self.assertEqual(new_rows[0]["chapter_id"], "neu")
+        self.assertEqual(new_rows[0]["position"], "019")
+        self.assertEqual(new_rows[-1]["position"], "048")
+
+    def test_accept_warning_nennt_neues_kapitel(self) -> None:
+        mod = _load_module()
+        warning = mod.accept_warning("019", "neu")
+        self.assertIn("019", warning)
+        self.assertIn("neu", warning)
+
+    def test_accept_neu_legt_kapitelquelle_an(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            baseline = _baseline_to_file(Path(tmp) / "baseline.md")
+            book_root = _temp_book_from_chronik(
+                Path(tmp), [f"{i:03d}" for i in range(1, 19)])
+            proc = _run_tool(
+                "--book-root", str(book_root), "--source", str(baseline),
+                "--baseline", str(baseline), "--accept", "019")
+            self.assertEqual(getattr(proc, "returncode"), 0)
+            mod = _load_module()
+            _title, body = mod.split_chapters(
+                baseline.read_bytes().decode("utf-8"))[18]
+            expected = mod.text_hash(mod.canonical_text(body))
+            for rel in (
+                ("work", "chapters", "019-source.md"),
+                ("work", "scenes", "de", "019", "scene-01.md"),
+                ("work", "scenes", "de", CHRONIK_STYLE, "019", "scene-01.md"),
+            ):
+                self.assertTrue(book_root.joinpath(*rel).exists(), msg=str(rel))
+            state = mod.load_state(_state_path(book_root))
+            self.assertEqual(state["chapters"]["019"]["rf_base"], expected)
+            self.assertEqual(state["chapters"]["019"]["peter_base"], expected)
+
+    def test_keep_auf_neuem_kapitel_ist_fehler(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            baseline = _baseline_to_file(Path(tmp) / "baseline.md")
+            book_root = _temp_book_from_chronik(
+                Path(tmp), [f"{i:03d}" for i in range(1, 19)])
+            proc = _run_tool(
+                "--book-root", str(book_root), "--source", str(baseline),
+                "--baseline", str(baseline), "--keep", "019")
+            self.assertEqual(getattr(proc, "returncode"), 2)
+            err = str(getattr(proc, "stderr")) + str(getattr(proc, "stdout"))
+            self.assertIn("neu", err)
+            self.assertFalse(
+                (book_root / "work" / "chapters" / "019-source.md").exists())
+            self.assertFalse(_state_path(book_root).exists())
+
+    def test_paketgrenze_fuenf_kapitel(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            baseline = _baseline_to_file(Path(tmp) / "baseline.md")
+            book_root = _temp_book_from_chronik(
+                Path(tmp), [f"{i:03d}" for i in range(1, 19)])
+            proc = _run_tool(
+                "--book-root", str(book_root), "--source", str(baseline),
+                "--baseline", str(baseline),
+                "--accept", "019,020,021,022,023,024")
+            self.assertEqual(getattr(proc, "returncode"), 2)
+            self.assertIn("hoechstens", str(getattr(proc, "stderr")))
+            self.assertFalse(_state_path(book_root).exists())
+            self.assertFalse(
+                (book_root / "work" / "chapters" / "019-source.md").exists())
+
+
+    def test_output_root_kennt_beide_config_formate(self) -> None:
+        """Regression 2026-10-08: work_dir ist bei --book repo-relativ.
+
+        `book_project.as_tool_config` setzt `work_dir = "books/<id>/work"`,
+        die rohe book.yaml (`--book-root`) nur `"work"`. Beides muss auf
+        denselben Ausgabeordner zeigen (kein doppelter Buchordner).
+        """
+        mod = _load_module()
+        book_root = REPO_ROOT / "books" / "ashkara"
+        self.assertEqual(
+            mod._output_root_for(book_root, {"work_dir": "books/ashkara/work"}),
+            book_root / "work")
+        with tempfile.TemporaryDirectory() as tmp:
+            temp_book = Path(tmp) / "books" / "demo"
+            self.assertEqual(
+                mod._output_root_for(temp_book, {"work_dir": "work"}),
+                temp_book / "work")
+
+    def test_book_modus_loest_quellpfad_repo_relativ_auf(self) -> None:
+        """Regression: --book liefert source_path repo-relativ (schreibt nichts)."""
+        if not (REPO_ROOT / "books" / "ashkara" / "book.yaml").exists():
+            self.skipTest("books/ashkara nicht vorhanden")
+        proc = _run_tool("--book", "ashkara", "--compare")
+        out = str(getattr(proc, "stdout")) + str(getattr(proc, "stderr"))
+        self.assertNotIn("Quelle nicht gefunden", out)
+        self.assertIn("Uebernahmebericht", out)
+
+
 class NewCommandTests(unittest.TestCase):
     """--new (Stufe 1b): neutrales Paket, alle Kapitel, state.yaml + status.json.
 

@@ -1,0 +1,59 @@
+{
+  "book": "ashkara",
+  "chapter": "011",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "high",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\work\\scenes\\de\\stil-01-original\\011\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\work\\prompts\\higgsfield\\011-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\assets\\chapter\\chapter-011.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 011. Cinematic literary science-fiction illustration for an ambitious epic about memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of black and amber glass over ancient mineral plains; light refracts through cracks, fractures and edges; dark glass, amber glow, cold electric light. Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and underground human settlements. Sky with electric storms, drifting charged dust and faint auroras of amber and blue. Mood: monumental, intelligent, alien and grave, intellectually serious, atmospheric and dignified. Style: refined painterly realism with cinematic light and deep atmospheric depth, controlled palette of black glass, amber and gold, muted blue, bronze and milky white. Focus on the architecture of glass, distant human figures small before immense structures, harnessed energy, and quiet political tension inside monumental spaces. Premium modern book illustration with a strong central motif and a clear dramatic situation, elegant and restrained. Der Lesesaal des Unterglas-Archivs lag unter dem dritten Glasgewölbe, und das Licht, das durch die milchigen Scheiben fiel, war kein Tageslicht mehr, sondern ein trüber, wässriger Schein, der von den Beckenrändern zurückgeworfen wurde. Die Luft roch nach feuchtem Papier, nach Leim, nach dem schwachen, metallischen Hauch von stehendem Wasser, das zu lange in Röhren gestanden hatte, und irgendwo, hinter den Regalwänden, fiel ein Tropfen in gleichmäßigem Abstand auf einen Stein, so regelmäßig, daß es wie eine Uhr klang, die niemand gestellt hatte. Neris Tal saß an dem langen Tisch aus geöltem Holz und legte die Hände flach auf die Platte, weil sie nicht wußte, wohin mit ihnen. Vor ihr lagen drei Bände der Wasserbücher, aufgeschlagen, die Seiten gewölbt von Jahrzehnten der Feuchtigkeit, und die Schrift darin war keine Schrift, wie die Archive sie lehrten, sondern eine Kette aus Zeichen, die aussahen wie Rinnsale, Verzweigungen, Knoten. Sie hatte eine Stunde gebraucht, um zu begreifen, daß die Bücher keine Namen verzeichneten, sondern Wege.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261007_222033_0a5102ed-31f7-4565-9ea8-52b821a63ab7.png",
+  "job_result": [
+    {
+      "created_at": "2026-10-07T22:20:33.183332Z",
+      "display_name": "GPT Image 2",
+      "id": "0a5102ed-31f7-4565-9ea8-52b821a63ab7",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261007_222033_0a5102ed-31f7-4565-9ea8-52b821a63ab7_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 011. Cinematic literary science-fiction illustration for an ambitious epic about memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of black and amber glass over ancient mineral plains; light refracts through cracks, fractures and edges; dark glass, amber glow, cold electric light. Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and underground human settlements. Sky with electric storms, drifting charged dust and faint auroras of amber and blue. Mood: monumental, intelligent, alien and grave, intellectually serious, atmospheric and dignified. Style: refined painterly realism with cinematic light and deep atmospheric depth, controlled palette of black glass, amber and gold, muted blue, bronze and milky white. Focus on the architecture of glass, distant human figures small before immense structures, harnessed energy, and quiet political tension inside monumental spaces. Premium modern book illustration with a strong central motif and a clear dramatic situation, elegant and restrained. Der Lesesaal des Unterglas-Archivs lag unter dem dritten Glasgewölbe, und das Licht, das durch die milchigen Scheiben fiel, war kein Tageslicht mehr, sondern ein trüber, wässriger Schein, der von den Beckenrändern zurückgeworfen wurde. Die Luft roch nach feuchtem Papier, nach Leim, nach dem schwachen, metallischen Hauch von stehendem Wasser, das zu lange in Röhren gestanden hatte, und irgendwo, hinter den Regalwänden, fiel ein Tropfen in gleichmäßigem Abstand auf einen Stein, so regelmäßig, daß es wie eine Uhr klang, die niemand gestellt hatte. Neris Tal saß an dem langen Tisch aus geöltem Holz und legte die Hände flach auf die Platte, weil sie nicht wußte, wohin mit ihnen. Vor ihr lagen drei Bände der Wasserbücher, aufgeschlagen, die Seiten gewölbt von Jahrzehnten der Feuchtigkeit, und die Schrift darin war keine Schrift, wie die Archive sie lehrten, sondern eine Kette aus Zeichen, die aussahen wie Rinnsale, Verzweigungen, Knoten. Sie hatte eine Stunde gebraucht, um zu begreifen, daß die Bücher keine Namen verzeichneten, sondern Wege.",
+        "quality": "high",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261007_222033_0a5102ed-31f7-4565-9ea8-52b821a63ab7.png",
+      "status": "completed"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "book": "ashkara",
+  "chapter": "002",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "high",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\work\\scenes\\de\\stil-01-original\\002\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\work\\prompts\\higgsfield\\002-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\assets\\chapter\\chapter-002.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 002. Cinematic literary science-fiction illustration for an ambitious epic about memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of black and amber glass over ancient mineral plains; light refracts through cracks, fractures and edges; dark glass, amber glow, cold electric light. Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and underground human settlements. Sky with electric storms, drifting charged dust and faint auroras of amber and blue. Mood: monumental, intelligent, alien and grave, intellectually serious, atmospheric and dignified. Style: refined painterly realism with cinematic light and deep atmospheric depth, controlled palette of black glass, amber and gold, muted blue, bronze and milky white. Focus on the architecture of glass, distant human figures small before immense structures, harnessed energy, and quiet political tension inside monumental spaces. Premium modern book illustration with a strong central motif and a clear dramatic situation, elegant and restrained. Der Morgen kam in das Nemet-Archiv durch schmale Schächte, die man vor vierhundert Jahren in den Fels getrieben hatte, und das Licht, das durch sie fiel, war altes Licht, gelb und staubig, und es legte sich auf die Arbeitstische wie eine dünne Haut aus Kupfer. Neris Tal trat um die sechste Stunde ein, wie an jedem Tag, und die Luft schlug ihr entgegen, wie sie es immer tat: Zellulose und kaltes Metall, trockener Leim, der Geruch versiegelter Wachssiegel, darunter, kaum merklich, das feine, säuerliche Knistern alter Tinte, die langsam in ihr Papier zurückkehrte. Sie blieb einen Augenblick an der Schwelle stehen und atmete.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261007_212953_ca82c8df-7348-46d0-86ca-a0216d55d342.png",
+  "job_result": [
+    {
+      "created_at": "2026-10-07T21:29:53.364521Z",
+      "display_name": "GPT Image 2",
+      "id": "ca82c8df-7348-46d0-86ca-a0216d55d342",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261007_212953_ca82c8df-7348-46d0-86ca-a0216d55d342_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 002. Cinematic literary science-fiction illustration for an ambitious epic about memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of black and amber glass over ancient mineral plains; light refracts through cracks, fractures and edges; dark glass, amber glow, cold electric light. Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and underground human settlements. Sky with electric storms, drifting charged dust and faint auroras of amber and blue. Mood: monumental, intelligent, alien and grave, intellectually serious, atmospheric and dignified. Style: refined painterly realism with cinematic light and deep atmospheric depth, controlled palette of black glass, amber and gold, muted blue, bronze and milky white. Focus on the architecture of glass, distant human figures small before immense structures, harnessed energy, and quiet political tension inside monumental spaces. Premium modern book illustration with a strong central motif and a clear dramatic situation, elegant and restrained. Der Morgen kam in das Nemet-Archiv durch schmale Schächte, die man vor vierhundert Jahren in den Fels getrieben hatte, und das Licht, das durch sie fiel, war altes Licht, gelb und staubig, und es legte sich auf die Arbeitstische wie eine dünne Haut aus Kupfer. Neris Tal trat um die sechste Stunde ein, wie an jedem Tag, und die Luft schlug ihr entgegen, wie sie es immer tat: Zellulose und kaltes Metall, trockener Leim, der Geruch versiegelter Wachssiegel, darunter, kaum merklich, das feine, säuerliche Knistern alter Tinte, die langsam in ihr Papier zurückkehrte. Sie blieb einen Augenblick an der Schwelle stehen und atmete.",
+        "quality": "high",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261007_212953_ca82c8df-7348-46d0-86ca-a0216d55d342.png",
+      "status": "completed"
+    }
+  ]
+}

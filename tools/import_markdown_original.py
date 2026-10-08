@@ -7,6 +7,12 @@ aktuellen peter-Text, berichtet nach Abgleichtabelle und uebernimmt nur
 ausdruecklich freigegebene Kapitel (--accept) bzw. markiert peter-Staende
 als fuehrend (--keep). Schreibt sonst nichts (--dry-run/--compare nur stdout).
 
+Kapitel, die im Export neu sind ('neu'), haben in peter noch keine ID; sie
+werden ueber ihre Exportposition freigegeben (--accept 019 = 19. Kapitel des
+Exports) und dabei als neue Kapitelquelle angelegt. --keep ist fuer sie nicht
+moeglich. Pro Lauf hoechstens MAX_ACCEPT_PER_RUN Kapitel (--accept/--keep
+zusammen).
+
 Kein OpenRouter-, kein Higgsfield-, kein anderer kostenpflichtiger Aufruf.
 Kein Eingabeprompt (K4). source/ wird nie beschrieben (ausser --new-Erstkopie).
 """
@@ -40,6 +46,11 @@ ACTION_PROPOSE = "uebernahme-vorgeschlagen"
 ACTION_KEEP_PETER = "peter-behalten"
 ACTION_CONFLICT = "konflikt"
 ACTION_NO_BASELINE = "ohne-ausgangsstand"
+ACTION_NEW = "neu"
+# Paketgrenze fuer --accept/--keep (docs/uebernahme-romanforge.md): hoechstens
+# fuenf Kapitel pro Lauf, damit Assembly und Gate pro Kapitel nachvollziehbar
+# bleiben. Gilt fuer uebernommene und behaltene Kapitel zusammen.
+MAX_ACCEPT_PER_RUN = 5
 
 
 def literary_title(raw: str) -> str:
@@ -247,7 +258,7 @@ def match_chapters(
             used.add(chapter_id)
             rows.append({"chapter_id": chapter_id, "title_export": title, "action": "zugeordnet"})
             continue
-        rows.append({"chapter_id": None, "title_export": title, "action": "neu"})
+        rows.append({"chapter_id": None, "title_export": title, "action": ACTION_NEW})
     return rows
 
 
@@ -267,7 +278,7 @@ def find_presumed_renames(
     out: dict[str, str] = {}
     for position, row in enumerate(export_rows, 1):
         chapter_id = f"{position:03d}"
-        if row.get("action") == "neu" and chapter_id in dropped:
+        if row.get("action") == ACTION_NEW and chapter_id in dropped:
             out[chapter_id] = str(row.get("title_export") or "")
     return out
 
@@ -312,6 +323,11 @@ def accept_warning(chapter_id: str, action: str) -> str:
         return (
             f"WARNUNG Kapitel {chapter_id}: Konflikt per --accept uebernommen; "
             "peter-Aenderungen wurden ersetzt (Git hat sie)."
+        )
+    if action == ACTION_NEW:
+        return (
+            f"Kapitel {chapter_id} ist neu (in peter unbekannt); wird per "
+            "--accept als neue Kapitelquelle angelegt."
         )
     return f"Kapitel {chapter_id} per --accept uebernommen."
 
@@ -433,7 +449,7 @@ def seed_state_from_baseline(
     for row in rows:
         chapter_id = str(row.get("chapter_id") or "")
         action = str(row.get("action") or "")
-        if not chapter_id.isdigit() or action in ("neu", "entfallen", ACTION_NO_BASELINE):
+        if not chapter_id.isdigit() or action in (ACTION_NEW, "entfallen", ACTION_NO_BASELINE):
             continue
         base = source_baseline.get(chapter_id)
         if not base:
@@ -542,11 +558,15 @@ def cmd_compare(
                 old_title = scene_titles.get(renamed_from, "")
                 detail += f"; vermutlich umbenannt von {renamed_from} '{old_title}'"
             rows.append({
-                "chapter_id": "neu", "title_export": row["title_export"],
+                "chapter_id": ACTION_NEW, "title_export": row["title_export"],
                 "title_peter": "", "words_export": count_words(
                     next(b for t, b in chapters if t == row["title_export"])),
-                "words_peter": "", "action": "neu",
+                "words_peter": "", "action": ACTION_NEW,
                 "detail": detail,
+                # Position = Reihenfolge im Export. Ein neues Kapitel hat noch
+                # keine peter-ID und ist deshalb ueber seine Position
+                # ansprechbar (--accept 019 = 19. Kapitel des Exports).
+                "position": f"{position:03d}",
             })
             continue
         chapter_id = str(row["chapter_id"])
@@ -592,15 +612,35 @@ def cmd_compare(
     print(report, end="")
     blocked = [
         r for r in rows
-        if r["action"] in (ACTION_CONFLICT, ACTION_NO_BASELINE, "neu", "entfallen")
+        if r["action"] in (ACTION_CONFLICT, ACTION_NO_BASELINE, ACTION_NEW, "entfallen")
     ]
     return (2 if blocked else 0, rows)
 
 
+def _resolve_under_book(book_root: Path, value: str) -> Path:
+    """Pfadangabe aus der Config in einen Pfad unter `book_root` aufloesen.
+
+    Zwei Quellen mit zwei Formaten: `--book` kommt ueber `book_project`
+    (`as_tool_config`) und liefert **repo-relative** Werte
+    (`work_dir = "books/<id>/work"`, `source_path = "books/<id>/source/…"`),
+    `--book-root` liest die rohe `book.yaml` (`work_dir = "work"`). Beides
+    muss am selben Buchordner landen, sonst entsteht ein doppelter Pfad
+    (`books/<id>/books/<id>/work`) - Regression 2026-10-08 (Ashkar I).
+    """
+    path = Path(value)
+    if path.is_absolute():
+        return path
+    if len(path.parts) > 1:
+        repo_candidate = REPO_ROOT / path
+        book_root_abs = book_root if book_root.is_absolute() else REPO_ROOT / book_root
+        if repo_candidate == book_root_abs or repo_candidate.is_relative_to(book_root_abs):
+            return repo_candidate
+    return book_root / path
+
+
 def _output_root_for(book_root: Path, book_cfg: dict) -> Path:
-    work = str(book_cfg.get("work_dir") or "work")
-    path = Path(work)
-    return path if path.is_absolute() else book_root / path
+    work = str(book_cfg.get("work_dir") or book_cfg.get("output_dir") or "work")
+    return _resolve_under_book(book_root, work)
 
 
 def write_accepted_chapter(
@@ -696,6 +736,13 @@ def cmd_new(args: argparse.Namespace) -> int:
         print(f"FEHLER: Quelle nicht gefunden: {source}", file=sys.stderr)
         return 1
     export_text = source.read_text(encoding="utf-8")
+
+    # --dry-run: nur Kapitelliste + Wortzahlen, schreibt nichts.
+    if args.dry_run:
+        chapters = split_chapters(export_text)
+        report_title = (
+            args.title or export_title_suggestion(export_text) or "(ohne Titel)")
+        return cmd_dry_run(report_title, chapters)
 
     # Titel aus der '# '-Zeile nur vorschlagen, nie still uebernehmen.
     if not args.title:
@@ -833,7 +880,8 @@ def main(argv: list[str] | None = None) -> int:
     book_root, book_cfg = resolve_book_root(args.book, args.book_root)
     book_title = str(book_cfg.get("title") or book_cfg.get("id") or book_root.name)
     style = str(book_cfg.get("style_mode") or "stil-01-original")
-    source_arg = args.source or str(book_root / str(book_cfg.get("source_path") or ""))
+    source_arg = args.source or str(
+        _resolve_under_book(book_root, str(book_cfg.get("source_path") or "")))
     source_path = Path(source_arg)
     if not source_path.exists():
         print(f"FEHLER: Quelle nicht gefunden: {source_path}", file=sys.stderr)
@@ -872,11 +920,39 @@ def main(argv: list[str] | None = None) -> int:
         return code
     accept = parse_id_list(args.accept)
     keep = parse_id_list(args.keep)
+    if len(accept) + len(keep) > MAX_ACCEPT_PER_RUN:
+        print(
+            f"FEHLER: {len(accept) + len(keep)} Kapitel in einem Paket; hoechstens "
+            f"{MAX_ACCEPT_PER_RUN} pro Lauf (--accept/--keep). Paket kleiner "
+            "schneiden; es wurde nichts geschrieben.",
+            file=sys.stderr,
+        )
+        return 2
     code, rows = cmd_compare(
         book_title=book_title, book_root=book_root, style=style,
         chapters=chapters, state=state, source_baseline=source_baseline,
     )
-    by_id = {r["chapter_id"]: r for r in rows if r["chapter_id"] != "neu"}
+    by_id = {r["chapter_id"]: r for r in rows if r["chapter_id"] != ACTION_NEW}
+    # Neue Exportkapitel ('neu') haben keine peter-ID. Sie sind ueber ihre
+    # Exportposition ansprechbar (--accept 019 = 19. Kapitel des Exports) und
+    # werden in peter neu angelegt; --keep ist fuer sie nicht moeglich.
+    # Kollidiert eine Position mit einer vorhandenen Kapitel-ID, gewinnt die
+    # vorhandene ID (nur Hinweis, keine stille Zuordnung).
+    for row in rows:
+        if row.get("chapter_id") != ACTION_NEW:
+            continue
+        position = str(row.get("position") or "")
+        if not position:
+            continue
+        if position in by_id:
+            print(
+                f"Hinweis: Exportposition {position} ist mehrdeutig (Kapitel "
+                f"{position} existiert bereits); das neue Kapitel ist nicht "
+                "ueber die Positionsnummer ansprechbar.",
+                file=sys.stderr,
+            )
+            continue
+        by_id[position] = row
     stamp = stamp_now()
     changed = False
     if not has_state and source_baseline:
@@ -888,6 +964,13 @@ def main(argv: list[str] | None = None) -> int:
         row = by_id.get(chapter_id)
         if row is None:
             print(f"FEHLER: --keep {chapter_id} unbekannt.", file=sys.stderr)
+            return 2
+        if row["action"] == ACTION_NEW:
+            print(
+                f"FEHLER: --keep {chapter_id}: Kapitel ist in peter unbekannt "
+                "(neu); --keep nicht moeglich.",
+                file=sys.stderr,
+            )
             return 2
         if "export_hash" not in row:
             print(

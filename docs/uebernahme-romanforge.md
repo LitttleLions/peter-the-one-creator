@@ -1,9 +1,10 @@
 # Uebernahme aus RomanForge (Stufe 1)
 
-Stand: 2026-10-07 (Stufe 1b: `--new` fertig, importiert alle Kapitel, legt
+Stand: 2026-10-08 (Stufe 1c: `neu`-Kapitel per Exportposition, Paketgrenze im
+Werkzeug; Stufe 1b: `--new` fertig, importiert alle Kapitel, legt
 `status.json` an, nutzt die neutrale Vorlage aus `tools/init_book.py`).
 Werkzeug: `tools/import_markdown_original.py`.
-Tests: `tests/test_import_markdown_original.py` (34 Tests, echte
+Tests: `tests/test_import_markdown_original.py` (41 Tests, echte
 Chronik-Daten, gruen). Plan: `docs/plan-uebernahme-romanforge.md`
 (bleibt fuehrend fuer Stufen 2–4; diese Datei beschreibt nur den Ablauf).
 
@@ -116,6 +117,29 @@ entfallen / ohne-ausgangsstand. `neu`+`entfallen` an gleicher Position heisst
 (`find_presumed_renames`, Stufe 1 Schritt 3) ergaenzt genau diesen
 Hinweis in der Berichtsspalte „Hinweis" der beiden betroffenen Zeilen;
 Einstufung und Exit-Code (2 bei neu/entfallen) bleiben unveraendert.
+
+### Neue Kapitel im Export (`neu`, ergaenzt 2026-10-08)
+
+Ein Exportkapitel ohne peter-Entsprechung hat in peter noch keine ID. Es wird
+ueber seine **Exportposition** freigegeben (1-basierte Reihenfolge im Export):
+
+```bash
+py -3 tools/import_markdown_original.py --book <id> --source <export.md> --accept 019
+```
+
+- Angelegt werden `work/chapters/NNN-source.md`, `work/scenes/de/NNN/scene-01.md`
+  und `work/scenes/de/<style>/NNN/scene-01.md` (wie bei jedem `--accept`) plus
+  ein `state.yaml`-Eintrag mit `rf_base = peter_base = Export-Hash`.
+- `--keep` ist fuer `neu` nicht moeglich (kein peter-Text vorhanden, Exit 2).
+- Kollidiert eine Exportposition mit einer vorhandenen Kapitel-ID, gewinnt die
+  vorhandene ID; das Werkzeug meldet die Mehrdeutigkeit auf stderr.
+- Paketgrenze jetzt im Werkzeug: hoechstens **5** Kapitel pro Lauf
+  (`--accept`/`--keep` zusammen), sonst Exit 2 ohne Schreibzugriff.
+- Danach wie ueblich pro Kapitel `assemble_chapter.py` +
+  `review_manuscript --chapter NNN --llm none`.
+- `status/status.json` wird auch hier nicht angefasst; `review --all` und das
+  Dashboard finden die neuen Kapitel ueber `work/chapters/` und die Szenenordner
+  (`workbench_state.chapter_ids`).
 
 ## Arbeitsweise der KI (verbindlich)
 

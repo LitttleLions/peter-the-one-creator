@@ -55,6 +55,11 @@ Aktuelles Buch-EPUB `book-die-dritte-chronik-stil-01-original-20260921-131112.ep
 `20260919-222611` ist ueberholt). Rest-Tabelle: `docs/offene-punkte.md`
 Punkt 6 + 12. Offen: Kindle-Preview + Leseprobe, KDP-Upload durch Nutzer.
 
+Redaktions-/Uebernahme fuer DE-Originale laeuft seit 2026-10-07 ueber RomanForge
+(`docs/uebernahme-romanforge.md`, Stufe 1, commit `e93f4a2`, Branch
+`cline/pveejb87`); Ausgangsstand versioniert unter
+`books/die-dritte-chronik/work/imports/romanforge/`.
+
 Pharao (LIVE): Print-Optionen 2026-09-21 auf `main` (Trim/Profil/Bilder).
 Innenleben A–D: 924 / 788 / 673 / 643 Seiten; Cream-Limit 776. Gate ERROR=0
 nach restaurierter Einleitung 000. Vergleich:

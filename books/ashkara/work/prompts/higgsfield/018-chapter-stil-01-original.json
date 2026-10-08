@@ -1,0 +1,59 @@
+{
+  "book": "ashkara",
+  "chapter": "018",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "high",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\work\\scenes\\de\\stil-01-original\\018\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\work\\prompts\\higgsfield\\018-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\assets\\chapter\\chapter-018.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 018. Cinematic literary science-fiction illustration for an ambitious epic about memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of black and amber glass over ancient mineral plains; light refracts through cracks, fractures and edges; dark glass, amber glow, cold electric light. Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and underground human settlements. Sky with electric storms, drifting charged dust and faint auroras of amber and blue. Mood: monumental, intelligent, alien and grave, intellectually serious, atmospheric and dignified. Style: refined painterly realism with cinematic light and deep atmospheric depth, controlled palette of black glass, amber and gold, muted blue, bronze and milky white. Focus on the architecture of glass, distant human figures small before immense structures, harnessed energy, and quiet political tension inside monumental spaces. Premium modern book illustration with a strong central motif and a clear dramatic situation, elegant and restrained. Das Summen des Beckens drang bis in den Westflügel, ein Ton, der tiefer lag als das Ohr ihn hörte und den man im Brustkorb spürte wie den Schlag einer fernen Maschine. Neris Tal blieb an der Biegung des Ganges stehen, wo das kalte Licht der Wandlampen in die Dunkelheit des Quergangs überging. Sie atmete dreimal. Dann ging sie weiter. Der Forscher folgte ihr in drei Schritten Abstand. Er trug die Schutzhülle nicht mehr; sie hatte sie ihm abgenommen, weil seine Hände zitterten, und er hatte es wortlos hingenommen, wie ein Mann, der wußte, daß seine Hände nicht mehr die seinen waren. Sein Atem ging flach und schnell. Zweimal blieb er stehen, als horche er auf etwas, das sie nicht hörte.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261007_222535_131e34b5-3011-4652-8d70-44a845f78520.png",
+  "job_result": [
+    {
+      "created_at": "2026-10-07T22:25:35.555492Z",
+      "display_name": "GPT Image 2",
+      "id": "131e34b5-3011-4652-8d70-44a845f78520",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261007_222535_131e34b5-3011-4652-8d70-44a845f78520_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 018. Cinematic literary science-fiction illustration for an ambitious epic about memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of black and amber glass over ancient mineral plains; light refracts through cracks, fractures and edges; dark glass, amber glow, cold electric light. Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and underground human settlements. Sky with electric storms, drifting charged dust and faint auroras of amber and blue. Mood: monumental, intelligent, alien and grave, intellectually serious, atmospheric and dignified. Style: refined painterly realism with cinematic light and deep atmospheric depth, controlled palette of black glass, amber and gold, muted blue, bronze and milky white. Focus on the architecture of glass, distant human figures small before immense structures, harnessed energy, and quiet political tension inside monumental spaces. Premium modern book illustration with a strong central motif and a clear dramatic situation, elegant and restrained. Das Summen des Beckens drang bis in den Westflügel, ein Ton, der tiefer lag als das Ohr ihn hörte und den man im Brustkorb spürte wie den Schlag einer fernen Maschine. Neris Tal blieb an der Biegung des Ganges stehen, wo das kalte Licht der Wandlampen in die Dunkelheit des Quergangs überging. Sie atmete dreimal. Dann ging sie weiter. Der Forscher folgte ihr in drei Schritten Abstand. Er trug die Schutzhülle nicht mehr; sie hatte sie ihm abgenommen, weil seine Hände zitterten, und er hatte es wortlos hingenommen, wie ein Mann, der wußte, daß seine Hände nicht mehr die seinen waren. Sein Atem ging flach und schnell. Zweimal blieb er stehen, als horche er auf etwas, das sie nicht hörte.",
+        "quality": "high",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261007_222535_131e34b5-3011-4652-8d70-44a845f78520.png",
+      "status": "completed"
+    }
+  ]
+}

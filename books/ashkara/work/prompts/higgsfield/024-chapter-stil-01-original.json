@@ -1,0 +1,59 @@
+{
+  "book": "ashkara",
+  "chapter": "024",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "high",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\work\\scenes\\de\\stil-01-original\\024\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\work\\prompts\\higgsfield\\024-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\assets\\chapter\\chapter-024.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 024. Cinematic literary science-fiction illustration for an ambitious epic about memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of black and amber glass over ancient mineral plains; light refracts through cracks, fractures and edges; dark glass, amber glow, cold electric light. Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and underground human settlements. Sky with electric storms, drifting charged dust and faint auroras of amber and blue. Mood: monumental, intelligent, alien and grave, intellectually serious, atmospheric and dignified. Style: refined painterly realism with cinematic light and deep atmospheric depth, controlled palette of black glass, amber and gold, muted blue, bronze and milky white. Focus on the architecture of glass, distant human figures small before immense structures, harnessed energy, and quiet political tension inside monumental spaces. Premium modern book illustration with a strong central motif and a clear dramatic situation, elegant and restrained. Der Platz vor dem Ratsgebäude von Ashkar lag unter der Mittagssonne wie ein ausgerolltes Tuch, bleich vom Kalkstaub, der seit dem Einsturz der Unterglas-Mauer in der Luft hing und sich in den Fugen der Steine festsetzte. Seit dem frühen Morgen hatten sich die Menschen gesammelt. Sie kamen aus den Gassen der Altstadt, von den Hängen der nördlichen Becken, aus den Werkstätten und den Schreibstuben, aus den Wohnkammern der Kontinuitätshäuser. Sie kamen, weil man es befohlen, und weil man es nicht verboten hatte. Ein Ratsbeschluß, hieß es, werde verlesen. Eine Untersuchung, sagten andere. Ein Verhör, flüsterten die, die es besser wissen mußten, ohne zu sagen, wovon sie wußten. Neris Tal stand auf der steinernen Estrade neben dem Eingang, die Hände hinter dem Rücken verschränkt, den Blick über die Menge gerichtet, und wartete, daß das Grollen der Stimmen sich legte. Sie hatte die Kopplung in der Nacht vorbereitet, ohne Schlaf, mit dem ehemaligen Forscher neben sich, der die Zuordnungen prüfte und dann schwieg. Sie trug weder Amtstracht noch Kontinuitätszeichen. Nur ein schmales Band um den Hals, an dem ein flaches Metallplättchen hing, auf dem die Nummer der Versuchsreihe eingraviert war: 36-4.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261008_161945_006f877a-abd5-4fbf-98b9-c04a84842703.png",
+  "job_result": [
+    {
+      "created_at": "2026-10-08T16:19:45.307302Z",
+      "display_name": "GPT Image 2",
+      "id": "006f877a-abd5-4fbf-98b9-c04a84842703",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261008_161945_006f877a-abd5-4fbf-98b9-c04a84842703_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 024. Cinematic literary science-fiction illustration for an ambitious epic about memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of black and amber glass over ancient mineral plains; light refracts through cracks, fractures and edges; dark glass, amber glow, cold electric light. Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and underground human settlements. Sky with electric storms, drifting charged dust and faint auroras of amber and blue. Mood: monumental, intelligent, alien and grave, intellectually serious, atmospheric and dignified. Style: refined painterly realism with cinematic light and deep atmospheric depth, controlled palette of black glass, amber and gold, muted blue, bronze and milky white. Focus on the architecture of glass, distant human figures small before immense structures, harnessed energy, and quiet political tension inside monumental spaces. Premium modern book illustration with a strong central motif and a clear dramatic situation, elegant and restrained. Der Platz vor dem Ratsgebäude von Ashkar lag unter der Mittagssonne wie ein ausgerolltes Tuch, bleich vom Kalkstaub, der seit dem Einsturz der Unterglas-Mauer in der Luft hing und sich in den Fugen der Steine festsetzte. Seit dem frühen Morgen hatten sich die Menschen gesammelt. Sie kamen aus den Gassen der Altstadt, von den Hängen der nördlichen Becken, aus den Werkstätten und den Schreibstuben, aus den Wohnkammern der Kontinuitätshäuser. Sie kamen, weil man es befohlen, und weil man es nicht verboten hatte. Ein Ratsbeschluß, hieß es, werde verlesen. Eine Untersuchung, sagten andere. Ein Verhör, flüsterten die, die es besser wissen mußten, ohne zu sagen, wovon sie wußten. Neris Tal stand auf der steinernen Estrade neben dem Eingang, die Hände hinter dem Rücken verschränkt, den Blick über die Menge gerichtet, und wartete, daß das Grollen der Stimmen sich legte. Sie hatte die Kopplung in der Nacht vorbereitet, ohne Schlaf, mit dem ehemaligen Forscher neben sich, der die Zuordnungen prüfte und dann schwieg. Sie trug weder Amtstracht noch Kontinuitätszeichen. Nur ein schmales Band um den Hals, an dem ein flaches Metallplättchen hing, auf dem die Nummer der Versuchsreihe eingraviert war: 36-4.",
+        "quality": "high",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261008_161945_006f877a-abd5-4fbf-98b9-c04a84842703.png",
+      "status": "completed"
+    }
+  ]
+}

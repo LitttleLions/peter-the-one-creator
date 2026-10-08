@@ -1,7 +1,9 @@
 # Plan: Uebernahme von Manuskripten aus RomanForge
 
-Stand: 2026-10-07 · Status: **Stufe 1 umgesetzt und abgenommen (noch nicht
-committet); naechster Schritt `--new` fuer Ashkara** · Gegenstueck: RomanForge AI
+Stand: 2026-10-08 · Status: **Stufe 1 (`e93f4a2`), 1b (`b558d15`) und 1c
+(`neu`-Kapitel per `--accept`, Paketgrenze im Werkzeug) umgesetzt; Ashkara
+18/36 Kapitel in peter; naechster Schritt Stufe 2a/2 in RomanForge
+(`--handoff <id>`)** · Gegenstueck: RomanForge AI
 (`github.com/LitttleLions/NovelWriter`), Spezifikation der RomanForge-Seite dort
 in `docs/plan-uebergabe-peter.md`, Verweis in `docs/plan-buch-ablauf.md`.
 Arbeitsablauf fuer die KI: `docs/uebernahme-romanforge.md`.
@@ -113,6 +115,19 @@ Uebergabe-Prompt Modus NEU, Verlagsangaben erfragen, `--new`, Assemble fuer alle
 Kapitel, `review_manuscript --all --llm none`, Bericht. Cover, Bilder und EPUB
 danach im normalen peter-Weg.
 
+Umgesetzt: Stufe 1b `b558d15` (34/34 Tests). **Ashkara angelegt 2026-10-07**
+(Lauf `20261007-210822`): 18 Kapitel, 57.546 Woerter, `state.yaml` und
+`status.json` je 18 Eintraege, Gate ERROR=0 / WARNING=0 / INFO=12.
+Offen vor dem ersten EPUB:
+- Untertitel (Vorschlag aus dem Expose: „Das Glasmeer"), Zusammenfassung,
+  Beschreibung, Autorenleben.
+- `book.series` wird von keinem Export gelesen; die Reihe erscheint nur, wenn
+  sie z. B. in `title_page_extra` steht (bei KDP ohnehin von Hand).
+- Verhalten des Exports bei `summary_page`/`author_bio_page: true` und leerem
+  Text klaeren (leere Seite oder ueberspringen).
+- Zaehlung „18/19" bei der Kapitelsuche fuer `source_lang: de` (Stil-Ordner
+  unter `scenes/de/` wird mitgezaehlt), kosmetisch, betrifft auch die Chronik.
+
 ### Stufe 2 – Uebergabe aus der RomanForge-Oberflaeche (danach)
 
 Spezifikation: NovelWriter `docs/plan-uebergabe-peter.md`. Kurz:
@@ -200,7 +215,40 @@ Zustand sonst verloren geht. Die Download-Kopie `source/Die dritte Chronik(1).md
 gehoert nicht nach `source/` (identisch mit dem archivierten
 `runs/20261007-201221/export.md`); der Nutzer entfernt sie.
 
+## 6.1 Ashkara-Uebernahme 2026-10-07/08 (18 -> 36 Kapitel)
+
+- 2026-10-07 (`b558d15`, Lauf `20261007-210822`): `--new` legt `books/ashkara/`
+  aus `Ashkar I(1).md` an - 18 Kapitel, 57.546 Woerter, Gate 0/0/12.
+- 2026-10-08 (Uebergabe `5cecce99…`, Datei `Ashkar I c3.md`, byte-identisch mit
+  `Ashkar I(2).md`, 36 Kapitel / 112.304 Woerter): `--compare` gegen
+  `state.yaml` ergab 18x `nichts` (001-018) und 18x `neu` (Exportposition
+  019-036), 0 Konflikte, 0 `entfallen`. Der peter-Ausgangsstand stammt also aus
+  dem 18-Kapitel-Export; die zweiten 18 Kapitel waren nie in peter. Die Angabe
+  „seit der letzten Uebergabe geaendert: keine" gilt nur fuer 001-018.
+- Stufe-1-Luecke geschlossen (Stufe 1c): `neu`-Kapitel sind ueber ihre
+  Exportposition freigebbar (`--accept 019`), `--keep` bleibt fuer sie verboten,
+  die Paketgrenze 5 ist jetzt im Werkzeug erzwungen (Exit 2, kein Schreibzugriff).
+- Pakete 019-023 (`20261008-154946`), 024-028 (`20261008-155643`),
+  029-033 (`20261008-155915`) und 034-036 (`20261008-155935`) uebernommen,
+  Assembly 36/36, Gate je Kapitel ERROR=0/WARNING=0. Stand peter: **36/36
+  Kapitel**, `state.yaml` 36 Eintraege, Buch-Gate `--all` 0/0/18,
+  Abschlussvergleich 36x `nichts` (Exit 0). Offen: `status/status.json`
+  (18 Eintraege), Bilder 019-036, neuer Buch-EPUB.
+- Pfadfehler aus dem ersten Lauf gefixt: `--book` liefert `work_dir` und
+  `source_path` repo-relativ (`book_project.as_tool_config`), der Ausgabeordner
+  wurde dadurch verdoppelt (`books/ashkara/books/ashkara/work/...`). Der
+  Fehllauf liegt unveraendert unter
+  `books/ashkara/work/legacy/import-pfadfehler-20261008/`.
+- `--handoff <id>` gibt es noch nicht (Stufe 2); der Abruf lief per Datei.
+
 ## 7. Festgehalten, ohne Handlung jetzt
+
+- `--compare` betrachtet nur die Exportpositionen 1..N: eine peter-Datei
+  oberhalb der Exportlaenge wird nicht als `entfallen` gemeldet, weil
+  `scene_titles` in `cmd_compare` nur ueber die Exportindizes laeuft.
+  Aufgefallen 2026-10-08: Ashkara mit 23 peter-Kapiteln gegen den
+  18-Kapitel-`source_path` ergibt 18x `nichts`, Exit 0 - kein Hinweis auf
+  019-023. Fuer den Normalweg (Export = ganzes Buch) ohne Wirkung.
 
 - Autor der Chronik uneinheitlich: `book.yaml` „Motivatier", `export.yaml`
   „Timo Verita".

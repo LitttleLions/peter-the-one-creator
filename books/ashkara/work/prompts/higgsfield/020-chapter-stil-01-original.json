@@ -1,0 +1,59 @@
+{
+  "book": "ashkara",
+  "chapter": "020",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "high",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\work\\scenes\\de\\stil-01-original\\020\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\work\\prompts\\higgsfield\\020-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\assets\\chapter\\chapter-020.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 020. Cinematic literary science-fiction illustration for an ambitious epic about memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of black and amber glass over ancient mineral plains; light refracts through cracks, fractures and edges; dark glass, amber glow, cold electric light. Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and underground human settlements. Sky with electric storms, drifting charged dust and faint auroras of amber and blue. Mood: monumental, intelligent, alien and grave, intellectually serious, atmospheric and dignified. Style: refined painterly realism with cinematic light and deep atmospheric depth, controlled palette of black glass, amber and gold, muted blue, bronze and milky white. Focus on the architecture of glass, distant human figures small before immense structures, harnessed energy, and quiet political tension inside monumental spaces. Premium modern book illustration with a strong central motif and a clear dramatic situation, elegant and restrained. Der Konzilssaal von Ashkar lag unter einer Kuppel aus mattem Glas, durch die das Licht des Nachmittags fiel wie durch eine Schicht trüben Wassers. Die Reihen der Fraktionen waren besetzt: links die Vertragler Unterglas', in gedämpften Grautönen gekleidet, rechts die Abgesandten der Kontinuitäten, in den Farben ihrer Häuser, und in der Mitte, auf der erhöhten Bank, die Prüfer des Ersten Schiedsrichters, deren Gesichter so unbewegt waren wie die Steinplatten vor ihnen. Ein Flüstern lief durch die Reihen, ein Rascheln von Gewändern und Papieren, das sich legte, als Ilyan Dheran ans Rednerpult trat. Er trug kein Siegel. Er trug keine Akten. Er trug nur seine Stimme, und die war ein Baß, der den Saal füllte, ohne laut zu werden.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261008_161556_b9c46ff0-4eae-4b53-8994-a8d8e17b5560.png",
+  "job_result": [
+    {
+      "created_at": "2026-10-08T16:15:56.484371Z",
+      "display_name": "GPT Image 2",
+      "id": "b9c46ff0-4eae-4b53-8994-a8d8e17b5560",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261008_161556_b9c46ff0-4eae-4b53-8994-a8d8e17b5560_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 020. Cinematic literary science-fiction illustration for an ambitious epic about memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of black and amber glass over ancient mineral plains; light refracts through cracks, fractures and edges; dark glass, amber glow, cold electric light. Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and underground human settlements. Sky with electric storms, drifting charged dust and faint auroras of amber and blue. Mood: monumental, intelligent, alien and grave, intellectually serious, atmospheric and dignified. Style: refined painterly realism with cinematic light and deep atmospheric depth, controlled palette of black glass, amber and gold, muted blue, bronze and milky white. Focus on the architecture of glass, distant human figures small before immense structures, harnessed energy, and quiet political tension inside monumental spaces. Premium modern book illustration with a strong central motif and a clear dramatic situation, elegant and restrained. Der Konzilssaal von Ashkar lag unter einer Kuppel aus mattem Glas, durch die das Licht des Nachmittags fiel wie durch eine Schicht trüben Wassers. Die Reihen der Fraktionen waren besetzt: links die Vertragler Unterglas', in gedämpften Grautönen gekleidet, rechts die Abgesandten der Kontinuitäten, in den Farben ihrer Häuser, und in der Mitte, auf der erhöhten Bank, die Prüfer des Ersten Schiedsrichters, deren Gesichter so unbewegt waren wie die Steinplatten vor ihnen. Ein Flüstern lief durch die Reihen, ein Rascheln von Gewändern und Papieren, das sich legte, als Ilyan Dheran ans Rednerpult trat. Er trug kein Siegel. Er trug keine Akten. Er trug nur seine Stimme, und die war ein Baß, der den Saal füllte, ohne laut zu werden.",
+        "quality": "high",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261008_161556_b9c46ff0-4eae-4b53-8994-a8d8e17b5560.png",
+      "status": "completed"
+    }
+  ]
+}

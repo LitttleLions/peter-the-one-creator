@@ -1,0 +1,70 @@
+id: ashkara
+title: Ashkar I
+author: Timo Verita
+source_path: source/Ashkar I.md
+source_lang: de
+target_lang: de
+ruleset_path: ''
+ruleset_apply: false
+style_mode: stil-01-original
+work_dir: work
+exports_dir: exports
+status_file: status/status.json
+log_dir: status/logs
+styles_dir: styles
+assets_dir: assets
+names_file: names.yaml
+illustration_setting: >-
+  Cinematic literary science-fiction illustration for an ambitious epic about
+  memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of
+  black and amber glass over ancient mineral plains; light refracts through
+  cracks, fractures and edges; dark glass, amber glow, cold electric light.
+  Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and
+  underground human settlements. Sky with electric storms, drifting charged dust
+  and faint auroras of amber and blue. Mood: monumental, intelligent, alien and
+  grave, intellectually serious, atmospheric and dignified. Style: refined
+  painterly realism with cinematic light and deep atmospheric depth, controlled
+  palette of black glass, amber and gold, muted blue, bronze and milky white.
+  Focus on the architecture of glass, distant human figures small before immense
+  structures, harnessed energy, and quiet political tension inside monumental
+  spaces. Premium modern book illustration with a strong central motif and a
+  clear dramatic situation, elegant and restrained.
+higgsfield:
+  model: gpt_image_2
+  aspect_ratio: "3:4"
+  quality: 1k
+  render_quality: high
+  image_processing:
+    format: JPEG
+    jpeg_quality: 60
+    max_width: 1024
+    max_height: 1024
+    cover:
+      jpeg_quality: 75
+      max_width: 1600
+      max_height: 2400
+structure:
+  mode: chapter_as_scene
+  label: Kapitel als Szenen
+  groups: []
+display:
+  chapters:
+    format: words_de
+    suffix: ' Kapitel'
+    align: center
+    include_source_title: false
+  scenes:
+    show: false
+    format: number
+    align: center
+    page_break: false
+    separator: ''
+naming_convention:
+  style: ''
+  example: []
+notes: Deutsches Original aus RomanForge (Stufe 1).
+ai:
+  provider: openrouter
+  model: deepseek/deepseek-v4-pro
+  granularity: scene
+  max_tokens_per_scene: 10000

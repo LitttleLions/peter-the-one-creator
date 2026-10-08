@@ -1,0 +1,59 @@
+{
+  "book": "ashkara",
+  "chapter": "012",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "high",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\work\\scenes\\de\\stil-01-original\\012\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\work\\prompts\\higgsfield\\012-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\assets\\chapter\\chapter-012.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 012. Cinematic literary science-fiction illustration for an ambitious epic about memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of black and amber glass over ancient mineral plains; light refracts through cracks, fractures and edges; dark glass, amber glow, cold electric light. Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and underground human settlements. Sky with electric storms, drifting charged dust and faint auroras of amber and blue. Mood: monumental, intelligent, alien and grave, intellectually serious, atmospheric and dignified. Style: refined painterly realism with cinematic light and deep atmospheric depth, controlled palette of black glass, amber and gold, muted blue, bronze and milky white. Focus on the architecture of glass, distant human figures small before immense structures, harnessed energy, and quiet political tension inside monumental spaces. Premium modern book illustration with a strong central motif and a clear dramatic situation, elegant and restrained. Die Lampe in Orens Zimmer brannte mit der ruhigen Flamme der Gewürzlampen, die man in den Tarn-Residenzen verwendete, und ihr Licht warf einen gelblichen Schein auf die Wände, der alles vertraut erscheinen ließ und nichts davon war. Oren Kest saß auf dem Rand des Bettes und hielt den Becher in beiden Händen. Es war der Becher, aus dem er seit seiner Ankunft getrunken hatte, ein einfaches Gefäß aus dunklem Unterglas-Ton, glasiert, ohne Ornament bis auf eine dünne Rille, die den Rand umlief. Er kannte diesen Becher. Er hatte ihn hundertmal in der Hand gehalten. Und er fühlte sich falsch an.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261007_222033_77ef6523-402e-421e-9edd-b4ee90f16cd9.png",
+  "job_result": [
+    {
+      "created_at": "2026-10-07T22:20:33.478802Z",
+      "display_name": "GPT Image 2",
+      "id": "77ef6523-402e-421e-9edd-b4ee90f16cd9",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261007_222033_77ef6523-402e-421e-9edd-b4ee90f16cd9_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 012. Cinematic literary science-fiction illustration for an ambitious epic about memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of black and amber glass over ancient mineral plains; light refracts through cracks, fractures and edges; dark glass, amber glow, cold electric light. Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and underground human settlements. Sky with electric storms, drifting charged dust and faint auroras of amber and blue. Mood: monumental, intelligent, alien and grave, intellectually serious, atmospheric and dignified. Style: refined painterly realism with cinematic light and deep atmospheric depth, controlled palette of black glass, amber and gold, muted blue, bronze and milky white. Focus on the architecture of glass, distant human figures small before immense structures, harnessed energy, and quiet political tension inside monumental spaces. Premium modern book illustration with a strong central motif and a clear dramatic situation, elegant and restrained. Die Lampe in Orens Zimmer brannte mit der ruhigen Flamme der Gewürzlampen, die man in den Tarn-Residenzen verwendete, und ihr Licht warf einen gelblichen Schein auf die Wände, der alles vertraut erscheinen ließ und nichts davon war. Oren Kest saß auf dem Rand des Bettes und hielt den Becher in beiden Händen. Es war der Becher, aus dem er seit seiner Ankunft getrunken hatte, ein einfaches Gefäß aus dunklem Unterglas-Ton, glasiert, ohne Ornament bis auf eine dünne Rille, die den Rand umlief. Er kannte diesen Becher. Er hatte ihn hundertmal in der Hand gehalten. Und er fühlte sich falsch an.",
+        "quality": "high",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261007_222033_77ef6523-402e-421e-9edd-b4ee90f16cd9.png",
+      "status": "completed"
+    }
+  ]
+}

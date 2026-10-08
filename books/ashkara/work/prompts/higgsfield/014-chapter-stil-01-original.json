@@ -1,0 +1,59 @@
+{
+  "book": "ashkara",
+  "chapter": "014",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "high",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\work\\scenes\\de\\stil-01-original\\014\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\work\\prompts\\higgsfield\\014-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\ashkara\\assets\\chapter\\chapter-014.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 014. Cinematic literary science-fiction illustration for an ambitious epic about memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of black and amber glass over ancient mineral plains; light refracts through cracks, fractures and edges; dark glass, amber glow, cold electric light. Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and underground human settlements. Sky with electric storms, drifting charged dust and faint auroras of amber and blue. Mood: monumental, intelligent, alien and grave, intellectually serious, atmospheric and dignified. Style: refined painterly realism with cinematic light and deep atmospheric depth, controlled palette of black glass, amber and gold, muted blue, bronze and milky white. Focus on the architecture of glass, distant human figures small before immense structures, harnessed energy, and quiet political tension inside monumental spaces. Premium modern book illustration with a strong central motif and a clear dramatic situation, elegant and restrained. Die Lampe im Vorraum des Nemet-Archivs brannte auch am Morgen, als hätte sie die Nacht über nicht gelöscht werden dürfen. Neris Tal stand vor der inneren Tür, die in den gesicherten Bestand führte, und hielt ihren Ausweis gegen das Lesegerät. Das Gerät gab keinen Laut. Sie hielt ihn noch einmal hin, drehte ihn, strich mit dem Daumen über die Kante, wie man über eine Münze streicht, die kein Gewicht mehr hat. Das Lesegerät blieb stumm. Ein Wächter stand an der Wand, zwei Schritte entfernt, und sah an ihr vorbei auf den Gang hinter ihr.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "high",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261007_222232_fd126f73-8470-4fa0-bba9-f504de7b76aa.png",
+  "job_result": [
+    {
+      "created_at": "2026-10-07T22:22:32.906057Z",
+      "display_name": "GPT Image 2",
+      "id": "fd126f73-8470-4fa0-bba9-f504de7b76aa",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261007_222232_fd126f73-8470-4fa0-bba9-f504de7b76aa_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 014. Cinematic literary science-fiction illustration for an ambitious epic about memory, power and ecology. Setting: the planet Ashkar, a vast Glass Sea of black and amber glass over ancient mineral plains; light refracts through cracks, fractures and edges; dark glass, amber glow, cold electric light. Beneath seemingly dead glass surfaces lie hidden oceans, reservoirs and underground human settlements. Sky with electric storms, drifting charged dust and faint auroras of amber and blue. Mood: monumental, intelligent, alien and grave, intellectually serious, atmospheric and dignified. Style: refined painterly realism with cinematic light and deep atmospheric depth, controlled palette of black glass, amber and gold, muted blue, bronze and milky white. Focus on the architecture of glass, distant human figures small before immense structures, harnessed energy, and quiet political tension inside monumental spaces. Premium modern book illustration with a strong central motif and a clear dramatic situation, elegant and restrained. Die Lampe im Vorraum des Nemet-Archivs brannte auch am Morgen, als hätte sie die Nacht über nicht gelöscht werden dürfen. Neris Tal stand vor der inneren Tür, die in den gesicherten Bestand führte, und hielt ihren Ausweis gegen das Lesegerät. Das Gerät gab keinen Laut. Sie hielt ihn noch einmal hin, drehte ihn, strich mit dem Daumen über die Kante, wie man über eine Münze streicht, die kein Gewicht mehr hat. Das Lesegerät blieb stumm. Ein Wächter stand an der Wand, zwei Schritte entfernt, und sah an ihr vorbei auf den Gang hinter ihr.",
+        "quality": "high",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261007_222232_fd126f73-8470-4fa0-bba9-f504de7b76aa.png",
+      "status": "completed"
+    }
+  ]
+}

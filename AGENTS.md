@@ -6,16 +6,18 @@
 
 ## Fortsetzung im gleichen Ordner / neues Chat-Fenster (gleiche LLM)
 
-Kein neues Setup noetig. Im selben Repo-Ordner (`c:\code\peter-the-one`,
-Branch `main`) weiterarbeiten, neues Fenster reicht. Kopiertext:
+Kein neues Setup noetig. Im selben Repo-Ordner
+(`E:\code\peter-the-one-creator`, Branch `cline/pveejb87`) weiterarbeiten,
+neues Fenster reicht. `main` bleibt unberuehrt. Kopiertext:
 [docs/uebergabe-prompt.md](./docs/uebergabe-prompt.md).
 
 Einstieg in dieser Reihenfolge (alles lesend, keine Kosten):
 
 1. `AGENTS.md` (diese Datei) + `README.md` (Schnellstart) lesen.
 2. `docs/HANDOVER.md` (Titel = Stand-Datum; oben **Letzte Session** =
-   Pharao Print-Optionen 2026-09-21) + `docs/offene-punkte.md` Punkt 11
-   (Print) und Punkt 6 (Chronik-Tabelle).
+   RomanForge-Uebernahme Stufe 1, 2026-10-07) +
+   `docs/uebernahme-romanforge.md` + `docs/offene-punkte.md` Punkt 6
+   (Chronik-Tabelle).
 3. Lage verifizieren: `git --no-pager status --short --branch`.
    Print-Vergleich: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`
    (A 924 / B 788 / C 673 / D 643; Cream 776). Gate Pharao erwartet ERROR=0
@@ -27,7 +29,8 @@ Einstieg in dieser Reihenfolge (alles lesend, keine Kosten):
    Redaktions-Ablauf Chronik (RomanForge-Uebergabe, Stufe 1):
    Exportdatei nennen -> `import_markdown_original.py --compare`
    (mit `--baseline`, nur Bericht) -> `--accept` nur fuer freigegebene
-   Kapitel (max. 5 pro Paket; `status/<Titel> - NN ….md` ist ersetzt) ->
+   Kapitel (max. 5 pro Paket, im Werkzeug erzwungen; auch `neu`-Kapitel per
+   Exportposition, z. B. `--accept 019`; `status/<Titel> - NN ….md` ist ersetzt) ->
    pro Kapitel `assemble_chapter.py` + `review_manuscript --chapter NNN --llm none`
    -> Kurzbericht (nur ERROR/WARNING/INFO), naechstes Paket.
    Kein OpenRouter fuer Redaktion. `status/status.json` und `status/logs/`
@@ -49,7 +52,7 @@ KIs bearbeitet wird und eine lokale Memory Bank dadurch schnell veraltet
 bzw. widerspruechlich waere. Massgeblicher Kontext sind AGENTS.md, README.md,
 `docs/HANDOVER.md` sowie die buchlokalen `book.yaml`- und `export.yaml`-Dateien.
 
-Aktuelle Buchpakete (12):
+Aktuelle Buchpakete (13):
 
 - `books/peter-i-buch-01/` - Alexei Tolstoi, Peter der Erste
 - `books/anna-karenina/` - Lew Tolstoi, Anna Karenina (PARKIERT 09/2026)
@@ -59,6 +62,7 @@ Aktuelle Buchpakete (12):
 - `books/leben-arsenjews/` - Iwan Bunin, Das Leben Arsenjews (Release-Kandidat 09/2026: Gate ERROR=0/WARNING=8, EPUB 20260917-212334 ohne Bypass)
 - `books/geheime-geschichte-mongolen/` - Anonym, Die Geheime Geschichte der Mongolen
 - `books/die-dritte-chronik/` - Motivatier, Die dritte Chronik (DE-Original; Redaktion 2026-09-19 fertig, KDP-fertig 2026-09-21: 29/48 clean, Gate 0/13/36, Bilder 48/48, EPUB `...-20260921-131112.epub`; offen Kindle-Preview + KDP-Upload)
+- `books/ashkara/` - Timo Verita, Ashkar I (Das Glasmeer) (DE-Original; RomanForge-Uebernahme 2026-10-07/08: 36/36 Kapitel, Buch-Gate 0/0/18, Abschlussvergleich 36x `nichts`, Kapitelbilder 001-025; offen Bilder 026-036, `status.json`, Buch-EPUB)
 - `books/kuprin-duell/` - Alexander Kuprin, Das Duell (Roh-Anlage 09/2026)
 - `books/kuprin-moloch/` - Alexander Kuprin, Der Moloch (Roh-Anlage 09/2026)
 - `books/grin-wellenlaeuferin/` - Alexander Grin, Die Wellenlaeuferin (Roh-Anlage 09/2026)
@@ -437,11 +441,13 @@ Marketingpaket unter `books/<id>/exports/marketing/` (`campaign.json`,
 ## Aktueller Stand
 
 Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**
-(Stand 2026-09-21). Kopiertext neues Fenster:
+(Stand 2026-10-07). Kopiertext neues Fenster:
 [docs/uebergabe-prompt.md](./docs/uebergabe-prompt.md).
-Branch: `main` (= `origin/main`); Print-Workflow 2026-09-21 (Trim/Profil/Bilder)
-auf main. Davor `1beb55d` Chronik KDP-fertig EPUB `...-20260921-131112.epub`
-plus Tausend Seelen `stil-02-poetisch`; davor Peter-I-Raffung 2026-09-17.
+Branch: `cline/pveejb87` (nicht `main`); Tip `e93f4a2` RomanForge-Uebernahme
+Stufe 1. `main` traegt weiter den Print-Workflow 2026-09-21
+(Trim/Profil/Bilder), davor `1beb55d` Chronik KDP-fertig EPUB
+`...-20260921-131112.epub` plus Tausend Seelen `stil-02-poetisch`; davor
+Peter-I-Raffung 2026-09-17.
 
 - Buchpakete sind fuehrend; alte zentrale `config/books.yaml` und
   `config/export.yaml` liegen unter `config/legacy/`.
@@ -478,7 +484,10 @@ plus Tausend Seelen `stil-02-poetisch`; davor Peter-I-Raffung 2026-09-17.
   `...-20260921-131112.epub` (50 Bilder, ohne Bypass; aelterer Stempel
   `20260919-222611` ist ueberholt). Rest-Tabelle siehe
   `docs/offene-punkte.md` Punkt 6 + 12. Offen: Kindle-Preview + Leseprobe,
-  KDP-Upload durch Nutzer.
+  KDP-Upload durch Nutzer. Redaktionsweg seit 2026-10-07 ueber RomanForge
+  (`docs/uebernahme-romanforge.md`, Stufe 1, `e93f4a2`); Ausgangsstand unter
+  `books/die-dritte-chronik/work/imports/romanforge/`. Offen: Nutzer liest
+  012/025 selbst, naechster Schritt `--new` (Ashkara).
 - **Higgsfield / Bilder:** `config/higgsfield_models.yaml`, Dashboard-Dropdown,
   Asset-Optimierung `optimize_asset_images.py`. Web-UI-Moodboards nur manuell.
   Details: `docs/higgsfield-integration.md`.
@@ -501,7 +510,8 @@ plus Tausend Seelen `stil-02-poetisch`; davor Peter-I-Raffung 2026-09-17.
   0 Fehler; offen nur noch Kindle Previewer und eine menschliche Stichprobe
   der drei zuletzt neu uebersetzten Szenen; Mongolen: 14 Monolith-Kapitel abschnittsweise in
   `stil-04-original-geheim`; Chronik (2026-09-21): Text + Bilder + KDP-Titelei
-  fertig, Gate 0/13/36, EPUB 20260921-131112 - offen Kindle-Preview, KDP-Upload;
+  fertig, Gate 0/13/36, EPUB 20260921-131112 - offen Kindle-Preview, KDP-Upload,
+  RomanForge-Entscheidung 012/025 (Stufe 1, `e93f4a2`);
   Pharao-Taschenbuch 2026-09-21 umgesetzt (Punkt 11, auf `main`),
   offen Print-Leseprobe + KDP-Creme 776 vs. 924/788 (C/D liegen unter 776);
   Top-5: Pilot `kuprin-moloch` 001 fertig, Pissemski `stil-02-poetisch`

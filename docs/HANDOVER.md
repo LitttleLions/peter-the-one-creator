@@ -1,9 +1,84 @@
-# Handover – Stand 2026-09-21 abends (Pharao Print-Optionen Trim/Profil/Bilder auf main; Chronik KDP-fertig EPUB 131112; Aelita LIVE; Anna PARKIERT)
+# Handover – Stand 2026-10-08 (RomanForge-Übernahme Stufe 1/1c auf Branch `cline/pveejb87`, Ashkar I 18→23 Kapitel; sonst wie 2026-09-21: Pharao Print, Chronik KDP-fertig, Aelita LIVE, Anna PARKIERT)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei.
 > Kopierfertiger Einstieg: [uebergabe-prompt.md](./uebergabe-prompt.md).
 
-## Letzte Session (2026-09-21, Print-Optionen Trim/Profil/Bilder)
+## Letzte Session (2026-10-08, Ashkar I: AKTUALISIEREN + Stufe 1c)
+
+Branch **`cline/pveejb87`**. Übergabe aus RomanForge im Modus AKTUALISIEREN
+(`Ashkar I c3.md`, byte-identisch mit `Ashkar I(2).md`: 36 Kapitel,
+112.304 Wörter). `--compare` gegen
+`books/ashkara/work/imports/romanforge/state.yaml`: 18× `nichts` (001–018),
+18× `neu` (Exportposition 019–036), 0 Konflikte, 0 `entfallen`. Der Modus
+passte (Buch existiert), aber Stufe 1 konnte `neu` nur melden – deshalb
+angehalten und gefragt; auf Freigabe erweitert.
+
+- Werkzeug (Stufe 1c, `tools/import_markdown_original.py`): `neu`-Kapitel sind
+  über ihre **Exportposition** freigebbar (`--accept 019`), `--keep` bleibt für
+  sie verboten (Exit 2), Paketgrenze **5** Kapitel pro Lauf im Werkzeug
+  erzwungen (Exit 2, kein Schreibzugriff). Dazu Pfadfix: `--book` liefert
+  `work_dir`/`source_path` repo-relativ (`book_project.as_tool_config`),
+  `_output_root_for` verdoppelte den Buchordner (`books/<id>/books/<id>/work`).
+- Tests `tests/test_import_markdown_original.py`: **41/41 grün** (34 alt,
+  5 für `neu`/Paketgrenze, 2 Regression Pfadauflösung).
+- Paket 019–023 übernommen (Lauf `20261008-154946`; der erste Versuch
+  `20261008-154530` schrieb wegen der Pfadverdopplung daneben und liegt unter
+  `books/ashkara/work/legacy/import-pfadfehler-20261008/`): drei Textkopien je
+  Kapitel, Assembly 5/5, Gate je Kapitel **ERROR=0/WARNING=0** (INFO 1/0/1/1/0).
+- Paket 024–028 übernommen (Lauf `20261008-155643`): Assembly 5/5, Gate je
+  Kapitel **ERROR=0/WARNING=0** (INFO 0/0/1/0/0).
+- Pakete 029–033 (`20261008-155915`) und 034–036 (`20261008-155935`) übernommen:
+  Assembly je 5/5 bzw. 3/3, Gate je Kapitel **ERROR=0/WARNING=0** (INFO 0/0
+  außer 026/034/036 mit je 1). **Stand: 36/36 Kapitel in peter**, `state.yaml`
+  36 Einträge, Buch-Gate `--all --llm none` **ERROR=0 / WARNING=0 / INFO=18**,
+  Abschlussvergleich **36× `nichts`** (Exit 0).
+- Kapitelbilder **019–025** erzeugt (2026-10-08): `generate_illustration.py --book
+  ashkara --chapter NNN --kind chapter **--no-reference**` mit den Buch-Defaults
+  (`gpt_image_2`, 3:4, `1k`, Render `high`). Ergebnis 772×1024 RGB, 69–103 KB,
+  Verbrauch **31,5 Credits** (1148,94 → 1117,44). Prompts/Metadaten je Kapitel
+  unter `books/ashkara/work/prompts/higgsfield/NNN-chapter-stil-01-original.*`.
+  Zwei Betriebshinweise: ohne `--no-reference` bricht das Werkzeug ab, weil
+  `DEFAULT_MOODBOARD` in `generate_illustration.py` ein reiner Share-Link ist;
+  Higgsfield antwortete zweimal mit HTTP 503 (Service vorübergehend weg),
+  einmaliges Wiederholen half.
+- Offen: Bilder 026–036, `status/status.json` (weiterhin 18 Einträge; `status.py
+  mark` ändert nur vorhandene Kapitel), neuer Buch-EPUB (bisheriger
+  `...-20261008-002805.epub` deckt nur 001–018; die Bilder 019–025 sind dafür
+  aber schon einsatzbereit), Stufe 2 (`--handoff <id>`; der Übergabe-Prompt
+  nennt es, das Werkzeug kennt es nicht).
+
+## Vorige Session (2026-10-07, RomanForge-Übernahme Stufe 1)
+
+Branch **`cline/pveejb87`** (nicht `main`). Neues, allgemeines
+Übernahme-Werkzeug für DE-Originale aus RomanForge ist fertig, getestet und
+committet (`e93f4a2`). Vorgänger `import_die_dritte_chronik.py` bleibt liegen
+(Entfernen nur nach Rückfrage).
+
+- `tools/import_markdown_original.py` – vergleicht einen RomanForge-Markdown-
+  Export per Tabelle (Nummer, Titel, Wörter RF/peter, Einstufung, Hinweis).
+  `--compare`/`--dry-run` schreiben nichts (Exit 2 bei `konflikt`/`neu`/
+  `entfallen`/`ohne-ausgangsstand`); `--accept`/`--keep` schreiben nur die
+  freigegebenen Kapitel (max. 5 pro Paket). `--new` legt ein unbekanntes
+  Buchpaket an (braucht `--id/--title/--author`).
+- Erstlauf (Option B): der erste schreibende Lauf legt `state.yaml` für
+  **alle** Kapitel an (unberührt: `rf_base = peter_base = Hash aus
+  --baseline`). Danach ist `--baseline` nicht mehr nötig; wird sie trotzdem
+  übergeben, kommt nur ein Hinweis. Fehlt ein Kapitel in `state.yaml`, ist es
+  `ohne-ausgangsstand` (Exit 2), **nie** `konflikt` (keine leere Baseline).
+- „vermutlich umbenannt": `neu`+`entfallen` an gleicher Exportposition →
+  Hinweis in der Berichtsspalte, kein Auto-Merge.
+- Tests `tests/test_import_markdown_original.py`: **31/31 grün** (echte
+  Chronik-Daten; der Frisch-Export ist der echt archivierte Export). Doku
+  `docs/uebernahme-romanforge.md`; Plan `docs/plan-uebernahme-romanforge.md`
+  (Stufe 2–4 offen, Stufe 1 „umgesetzt und abgenommen").
+- Chronik-Erstlauf im Buch: `--keep 008,031,033,036 --baseline <150f0c1>`;
+  Folge-`--compare` ohne `--baseline` ergab **nichts 35 / peter-behalten 11 /
+  konflikt 2 (012, 025)**. Ausgangsstand versioniert unter
+  `books/die-dritte-chronik/work/imports/romanforge/` (state.yaml + runs/).
+- Offen: Nutzer liest 012/025 selbst und entscheidet. Nächster Schritt laut
+  Plan: `--new` für Ashkara (neues Buchpaket über den Übernahme-Weg).
+
+## Vorige Session (2026-09-21, Print-Optionen Trim/Profil/Bilder)
 
 Paperback-Export waehlt Trim, Satzprofil und Bildmodus pro Job. Default
 bleibt 5.5×8.5 / classic / full_page (kein stiller Satzwechsel). Cream-Limit
@@ -56,8 +131,9 @@ Taschenbuch-Formaten. Stale-Jobs: `tasklist`-Encoding plus Manifest+Report
 
 | Item | Wert |
 |------|------|
-| Aktiver Branch | `main` (tracking `origin/main`) |
-| Tip | Print-Workflow 2026-09-21 (Trim/Profil/Bilder, Pharao A–D, Reihenkatalog, Pharao-000). Davor `1beb55d` Chronik KDP-fertig + Tausend Seelen `stil-02-poetisch` Gate 0/0/5 + Aelita/Arsenjew Amazon |
+| Aktiver Branch | `cline/pveejb87` (tracking `origin/cline/pveejb87`); `main` bleibt unberührt |
+| Tip | `e93f4a2` RomanForge-Übernahme Stufe 1 (`import_markdown_original.py` + 31 Tests + Doku + Chronik-Ausgangsstand) |
+| Vorher auf diesem Branch | `main`/Print-Workflow 2026-09-21 (Trim/Profil/Bilder, Pharao A–D, Reihenkatalog, Pharao-000). Davor `1beb55d` Chronik KDP-fertig + Tausend Seelen `stil-02-poetisch` Gate 0/0/5 + Aelita/Arsenjew Amazon |
 | Davor auf main | `15566c0` Chronik Gate-Fixes; `bc5a1c6` / `c293fdc` Peter-I Raffung; `081b1ca` Marketingexport |
 | Feature-Branch | `codex/geheime-geschichte-mongolen-prompts` – Inhalt ist in `main` enthalten; Branch kann später gelöscht werden |
 | Arbeitsbaum | Print-Code ist versioniert. Lokal bleiben regenerierbare Print-PDFs unter `books/pharao/exports/.../print/` sowie `exports/.../work/`-HTML. `staging/` und `var/` gitignored. |
@@ -65,6 +141,8 @@ Taschenbuch-Formaten. Stale-Jobs: `tasklist`-Encoding plus Manifest+Report
 **Warnung (schon passiert):** Checkout auf ein altes `main` ohne die Codex-Commits ließ Buchordner als leere Hüllen zurück. Nicht blind zwischen Branches wechseln, ohne vorher zu prüfen, ob `books/*/book.yaml` noch da sind.
 
 Committet (09/2026): 4 Top-5-Buchpakete (s. unten, alle Roh-Anlage 0 %), Tool-Fix Глава-I/X, `website:`-Block der neuen Pakete von `book:` auf top-level korrigiert, Regressionstests, Doku-Sync auf 12 Pakete. Lokal geblieben: `staging/conv5.py + staging/top5-quellen/` (Arbeitsmüll, jetzt via `.gitignore` ausgenommen) und `books/leben-arsenjews/work/cover.png` (Platzhalter).
+
+**Bekannte Fehler (nicht von Stufe 1, Stand 2026-10-07):** volle Suite `py -3 -m unittest discover -s tests` → 319 Tests, 7 Fehler außerhalb des Import-Tools: 5 in `tests/test_print_export.py` (Print/PDF-Pipeline) und 2 in `tests/test_backend_api.py` (Webapp-API). Die 5 Print-Fehler sind nicht als bekannt dokumentiert; vor einem Merge nach `main` prüfen, ob sie von den offenen CSS-Änderungen (`book-print.css`/`epub.css`) kommen. Die Stufe-1-Suite (`tests/test_import_markdown_original.py`) ist isoliert 31/31 grün.
 
 ## Was das Repo ist
 
@@ -80,7 +158,7 @@ Buchzentrierte Übersetzungs-/Export-Werkbank (`books/<id>/`). Dashboard = FastA
 | `anna-karenina` | Anna Karenina | stil-02-poetisch | 20 | `annakarenina.png` (per `image_path`) + Regal-Kopie | **PARKIERT** (Nutzerentscheidung 09/2026) |
 | `pharao` | Der Pharao | stil-02-poetisch | 30 | `cover.jpg` + `cover-print.png` | **LIVE**; Print-Optionen 2026-09-21 (A 924 / B 788 / C 673 / D 643; Cream 776) |
 | `feuriger-engel` | Der feurige Engel | stil-02-poetisch | 50 | `cover.jpg` / `.png` | **LIVE** |
-| `die-dritte-chronik` | Die dritte Chronik | stil-01-original | 60 | `cover.jpg` / `.png` | **KDP-fertig 2026-09-21** (Gate 0/13/36, 29/48 clean, 48/48 bebildert, EPUB 20260921-131112 mit 50 Bildern ohne Bypass; offen: Kindle-Preview, KDP-Upload) |
+| `die-dritte-chronik` | Die dritte Chronik | stil-01-original | 60 | `cover.jpg` / `.png` | **KDP-fertig 2026-09-21** (Gate 0/13/36, 29/48 clean, 48/48 bebildert, EPUB 20260921-131112 mit 50 Bildern ohne Bypass; offen: Kindle-Preview, KDP-Upload). Seit 2026-10-07 Redaktionsweg über RomanForge (Stufe 1, `e93f4a2`); Ausgangsstand `work/imports/romanforge/` versioniert |
 | `geheime-geschichte-mongolen` | Die Geheime Geschichte der Mongolen | stil-01-original | 70 | `cover.png` (neu 09/2026) + `coverII.png` |
 | `kuprin-duell` | Das Duell | stil-01-original | 40 (nicht freigegeben) | `cover.png` |
 | `kuprin-moloch` | Der Moloch | stil-01-original | 40 (nicht freigegeben) | `cover.png` (neu 09/2026) |

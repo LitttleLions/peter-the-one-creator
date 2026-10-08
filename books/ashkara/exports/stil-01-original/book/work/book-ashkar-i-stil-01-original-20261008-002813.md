@@ -1,0 +1,3469 @@
+---
+title: Ashkar I
+author: Timo Verita
+lang: de-DE
+date: 2026-10-08
+rights: © 2026 Motivatier Stiftung für diesen Text, editorische Einrichtung, Zusatztexte,
+---
+
+::: {.frontmatter-page .titlepage epub:type="titlepage"}
+[Ashkar I]{.book-title}
+
+[Das Glasmeer]{.subtitle}
+
+[Timo Verita]{.author}
+
+[Herausgabe und editorische Einrichtung: Motivatier Classics]{.translator}
+
+:::
+
+<section id="frontmatter-summary" class="frontmatter-page textpage" epub:type="preface">
+  <h1>Zusammenfassung</h1>
+<p>Seit Jahrhunderten beruht die Ordnung der menschlichen Zivilisation auf Veyra, einer seltenen Ressource des Planeten Ashkar. Sie erlaubt einer kleinen Elite, Erfahrungen und Persönlichkeitsmuster Verstorbener zu übernehmen. Die sieben Kontinuitäten haben daraus ein Herrschaftsprinzip gemacht: Ihre Oberhäupter erben nicht nur Ämter und Archive, sondern Teile ihrer Vorgänger. Menschen sterben, die Kontinuität bleibt. Als die Archivforensikerin Neris Tal einen jahrhundertealten Abtretungsvertrag prüft, entdeckt sie eine Erinnerung, die unmöglich wahr sein kann. Ihre Untersuchung stellt nicht nur einen historischen Rechtsanspruch infrage, sondern die Legitimation der Kontinuitäten und das Gleichgewicht der besiedelten Welten. Denn Veyra speichert keine Erinnerungen – es rekonstruiert Menschen. Während in vierzig Tagen über einen neuen Fördervertrag und den umstrittenen Tiefenschnitt entschieden werden muss, beginnt unter Ashkars Glasoberfläche ein lebendes Netzwerk auf seine Zerstörung zu reagieren. In einer Welt, in der Erfahrung zu Kapital geworden ist, muss eine Zivilisation entscheiden, was ihre gemeinsame Vergangenheit wert ist – und was Erinnerung überhaupt bedeutet.</p>
+</section>
+
+<section id="frontmatter-author" class="frontmatter-page textpage" epub:type="foreword">
+  <h1>Leben des Autors</h1>
+<p>Timo Verita ist ein Autor aus zwei Hälften: Mensch und Maschine. Die eine Hälfte recherchiert Nächte durch, die andere vergisst nichts. Zusammen schreiben sie Romane für Motivatier Classics, herausgegeben von der Motivatier Stiftung. Geboren wurde Timo Verita in einem Buchstabenspiel; zu Hause ist er in den Welten, die zwischen den Zeilen liegen – diesmal auf dem Glasmeer von Ashkar, wo Erinnerung zur Währung geworden ist.</p>
+</section>
+
+<section id="frontmatter-imprint" class="frontmatter-page imprintpage" epub:type="copyright-page">
+  <h1>Impressum</h1>
+  <p class="imprint-meta">Ashkar I</p>
+  <p class="imprint-meta">Das Glasmeer</p>
+  <p class="imprint-meta">Timo Verita</p>
+  <p class="imprint-meta">Herausgabe und editorische Einrichtung: Motivatier Classics</p>
+  <p class="imprint-meta">Herausgeber: Motivatier Stiftung</p>
+  <p class="imprint-meta">Rechte: © 2026 Motivatier Stiftung für diesen Text, editorische Einrichtung, Zusatztexte, Satz und Covergestaltung.</p>
+  <p class="imprint-meta">Sprache: de-DE</p>
+</section>
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/ashkara/assets/chapter/chapter-001.jpg" alt="Kapitel 001" />
+</div>
+
+# Erstes Kapitel {#kapitel-001 .chapter-heading .centered}
+
+Die Kammer roch nach kaltem Metall und dem Öl der Lampen, die in regelmäßigen Abständen an den Wänden hingen. Der Geruch war alt, vertraut, und er mischte sich mit etwas anderem, das Oren nicht benennen wollte. Ein süßlicher Hauch, kaum wahrnehmbar, wie der Atem eines Tieres, das sich unter dem Boden versteckt hielt.
+
+Tarn lag auf dem schmalen Bett, das man vor Wochen hierher gebracht hatte, als die Treppen zu seinen Gemächern zu steil geworden waren. Die Decke über ihm war grob gewebt, ein graues Tuch, das seinen Körper fast verschwinden ließ. Nur das Gesicht war sichtbar, und dieses Gesicht war nicht mehr das Gesicht, das Oren kannte.
+
+Die Wangen waren eingefallen. Die Haut spannte sich über den Knochen wie Pergament über einen Rahmen. Die Augen lagen tief in ihren Höhlen, und ihr Blick war nicht mehr auf die Welt gerichtet, sondern auf etwas, das dahinter lag.
+
+»Oren«, sagte Tarn. Die Stimme war ein Krächzen, kaum mehr als ein Hauch.
+
+Oren trat näher. Seine Stiefel klangen hart auf dem Steinboden. Er hatte sich nicht umgezogen, trug noch die Kleidung der Versammlung, das dunkle Grau der Kontinuität, mit dem schmalen Streifen aus Platindraht am Kragen. Das Metall fühlte sich kalt an gegen seine Kehle.
+
+»Ich bin hier«, sagte er.
+
+Tarn bewegte die Hand. Die Bewegung war langsam, wie unter Wasser. Die Finger waren knochig, die Nägel gelb. Ein Ring saß noch an der rechten Hand, ein schmaler Reif aus mattem Silber, das Siegel der Kontinuität. Er war zu groß geworden für diesen Finger.
+
+»Setz dich«, sagte Tarn. »Du stehst wie ein Wächter. Ich brauche keinen Wächter.«
+
+Oren zog den Hocker heran, der an der Wand stand. Das Holz war abgewetzt, die Sitzfläche poliert von Jahren des Gebrauchs. Wer hatte hier gesessen? Wachen, Diener, Ärzte. Und jetzt er.
+
+Er setzte sich. Seine Knie berührten fast das Bettgestell. Aus der Nähe sah Tarn noch schmaler aus, noch zerbrechlicher. Und doch ging etwas von ihm aus, das den Raum füllte, eine Schwere, die Oren auf die Schultern drückte.
+
+»Die Ärzte sagen, es sei die Lunge«, sagte Tarn. »Sie sagen, es sei langsam. Sie sagen, ich hätte noch Wochen. Vielleicht Monate.«
+
+Er machte eine Pause. Sein Atem ging rasselnd.
+
+»Sie lügen.«
+
+Oren sagte nichts. Er hatte die Berichte gelesen, die Aufzeichnungen der Ärzte, die Messungen der Körpersäfte, die Beschreibungen der Gewebe. Alles deutete auf einen langen Verfall, eine Krankheit, die von innen kam und sich langsam ausbreitete. Ein Leiden, das keine Wunde hinterließ, keinen äußeren Feind. Ein Ende, das niemandem zur Last gelegt werden konnte.
+
+»Es ist nicht die Lunge«, sagte Tarn. »Es ist die Kopplung.«
+
+Die Worte hingen im Raum wie Rauch. Oren spürte, wie sich etwas in seiner Brust zusammenzog.
+
+»Was meinst du?«
+
+Tarn lachte. Es war kein gutes Lachen. Es klang wie ein Husten, der nicht mehr aufhören wollte.
+
+»Du weißt, was ich meine. Du hast es gespürt. Bei den Teilkopplungen. Die Stimmen. Die Erinnerungen. Sie kommen nicht sauber. Sie kommen wie Wasser durch ein Leck.«
+
+Oren schluckte. Er hatte es gespürt. Bei der ersten Teilkopplung, vor drei Monaten, hatte er die Erinnerung eines Vorgängers getragen, eines Mannes namens Sorel, der vor zweihundert Jahren gelebt hatte. Er hatte die Hitze eines Sommers gespürt, den er nie erlebt hatte. Er hatte den Geschmack von Wein auf der Zunge gehabt, den er nie getrunken hatte. Und dann, für einen Moment, hatte er das Gefühl gehabt, nicht mehr er selbst zu sein. Als wäre er eine Tür, durch die jemand anderes ging.
+
+»Es ist normal«, sagte Tarn. »So sagen sie es. Die Kopplung ist stark, sagen sie. Der Geist muss sich anpassen, sagen sie. Aber sie sagen nicht, was passiert, wenn der Geist sich nicht mehr anpasst. Wenn er nicht mehr zurückfindet.«
+
+Er hob die Hand, ließ sie wieder sinken. Die Bewegung kostete ihn sichtbar Kraft.
+
+»Ich habe die letzten Jahre damit verbracht, mich zu erinnern. Nicht meine eigenen Erinnerungen. Ihre. Sorel. Und Maren. Und die anderen. Ich habe ihre Stimmen gehört, ihre Gedanken gedacht, ihre Entscheidungen getroffen. Und irgendwann wusste ich nicht mehr, welche Entscheidung meine war. Welcher Gedanke mir gehörte.«
+
+Oren beugte sich vor. »Warum hast du nichts gesagt?«
+
+»Weil es keinen Unterschied gemacht hätte«, sagte Tarn. »Die Kontinuität braucht das Erbe. Ohne das Erbe sind wir nichts. Ein Haufen alter Männer mit Meinungen. Das Erbe ist unsere Stärke. Und unser Preis.«
+
+Er schloss die Augen. Sein Atem ging flacher jetzt, schneller.
+
+»Du wirst es besser machen«, sagte er. »Du bist jünger. Stärker. Du wirst die Kopplung kontrollieren. Du wirst wissen, wann du sie brauchst und wann du sie loslassen musst.«
+
+»Und wenn nicht?«
+
+Tarn öffnete die Augen. Sein Blick war klar für einen Moment, klar und hart.
+
+»Dann wirst du sterben, wie ich sterbe. Und die Kontinuität wird einen neuen Erben suchen. Und ihn benutzen, wie sie mich benutzt hat.«
+
+Die Worte trafen Oren wie ein Schlag. Er wollte etwas sagen, wollte widersprechen, aber Tarn hob die Hand.
+
+»Hör mir zu. Es gibt etwas, das du wissen musst. Etwas, das sie dir nicht sagen werden.«
+
+Er hustete. Ein tiefer, rasselnder Husten, der seinen Körper schüttelte. Als er wieder sprach, war seine Stimme schwächer.
+
+»Der Vertrag. Der neue Vertrag. Sie werden dich fragen. Sie werden dir sagen, dass es notwendig ist. Dass es für Ashkar ist. Dass es für die Kontinuität ist. Und du wirst zustimmen, weil du glaubst, dass es richtig ist.«
+
+»Und ist es das nicht?«
+
+Tarn schloss die Augen. Ein Lächeln lag auf seinen Lippen, dünn und müde.
+
+»Ich weiß es nicht. Ich habe es nie gewusst. Ich habe immer nur getan, was getan werden musste. Und jetzt bin ich hier. Und ich weiß immer noch nicht, ob es richtig war.«
+
+Er öffnete die Augen wieder. Sein Blick suchte Orens Blick, fand ihn, hielt ihn fest.
+
+»Aber du wirst es wissen. Du wirst die Entscheidung treffen. Und du wirst mit ihr leben. So wie ich mit meinen Entscheidungen gelebt habe.«
+
+Seine Hand fand Orens Hand. Die Berührung war kalt, die Finger knochig, aber der Griff war überraschend fest.
+
+»Versprich mir etwas«, sagte Tarn. »Versprich mir, dass du dich erinnerst. Nicht an mich. An dich. An den, der du bist. Wenn die Stimmen kommen, wenn sie dich rufen, wenn sie dich formen wollen. Erinnere dich, wer du warst, bevor sie kamen.«
+
+Oren spürte, wie sich seine Kehle zusammenzog. Er wollte etwas sagen, aber die Worte wollten nicht kommen. Also nickte er nur.
+
+Tarn lächelte. Es war ein echtes Lächeln diesmal, warm und müde.
+
+»Gut«, sagte er. »Dann ist es gut.«
+
+Er ließ die Hand los. Sein Kopf sank zurück auf das Kissen. Sein Atem ging langsam jetzt, sehr langsam.
+
+»Geh jetzt«, sagte er. »Ich möchte allein sein.«
+
+Oren stand auf. Der Hocker scharrte über den Steinboden. Er sah auf Tarn hinab, auf das schmale Gesicht, die geschlossenen Augen, die Hand, die auf der Decke lag, den Ring, der zu groß geworden war.
+
+»Ich komme morgen wieder«, sagte er.
+
+Tarn antwortete nicht.
+
+Oren ging zur Tür. Er legte die Hand auf den Griff, das kalte Metall, und dann hielt er inne. Er drehte sich noch einmal um.
+
+Tarn lag still. Seine Brust hob und senkte sich nicht mehr.
+
+Oren stand in der Tür und wartete. Er wartete auf eine Bewegung, auf einen Atemzug, auf ein Wort. Aber da war nichts. Nur die Stille, das Öl der Lampen, der süßliche Geruch.
+
+Er ging zurück zum Bett. Er kniete nieder, nahm Tarns Hand, fühlte nach dem Puls. Die Haut war kalt. Kein Puls. Keine Bewegung.
+
+Oren schloss die Augen. Er wartete auf die Trauer, auf den Schmerz, auf die Leere, die kommen sollte. Aber da war nichts. Nur eine seltsame Klarheit, ein Gefühl von Endgültigkeit, das ihn nicht losließ.
+
+Er stand auf. Er ordnete die Decke, zog sie über Tarns Gesicht. Dann ging er zur Tür und öffnete sie.
+
+Der Flur war leer. Die Lampen brannten, warfen gelbes Licht auf den Stein. Oren ging den Gang entlang, seine Schritte hallten in der Stille. Am Ende des Ganges stand eine Wache, ein junger Mann in der grauen Uniform der Kontinuität.
+
+»Das Oberhaupt ist tot«, sagte Oren. Seine Stimme klang fremd in seinen eigenen Ohren, ruhig und fest.
+
+Die Wache sah ihn an. Ihre Augen weiteten sich, dann senkten sie den Blick.
+
+»Ich werde es melden«, sagte sie.
+
+Oren nickte. Er ging weiter, den Gang hinauf, die Treppen hinauf, in seine eigenen Gemächer. Dort setzte er sich auf das Bett, das noch unberührt war, und sah aus dem Fenster.
+
+Die Nacht über Ashkar war klar. Die Sterne standen über der Stadt, kalt und fern. Irgendwo in der Ferne brannten Lichter, die Lichter der Werke, der Raffinerien, der Förderanlagen. Das Herz von Ashkar, das nie stillstand.
+
+Oren saß da und wartete auf die Trauer. Aber die Trauer kam nicht. Stattdessen kam etwas anderes, etwas, das er nicht benennen konnte. Ein Gefühl von Möglichkeit. Von Raum. Von einer Tür, die sich öffnete.
+
+Er stand auf. Er ging zum Schreibtisch, nahm das Blatt Papier, das dort lag, und den Stift. Er schrieb einen Brief, an die Kontinuität, an die Ältesten, an die, die entscheiden würden. Er schrieb, dass Tarn gestorben war. Dass er, Oren Kest, bereit war, das Erbe anzutreten. Dass er das Werk fortführen würde.
+
+Er schrieb die Worte, und während er schrieb, spürte er etwas in seinem Kopf. Ein Flackern, ein kurzes Zittern, wie ein Bild, das nicht ganz scharf war. Er hielt inne, legte den Stift nieder, schloss die Augen.
+
+Da war eine Stimme. Nicht seine eigene. Eine Stimme, die er kannte, die er aus den Teilkopplungen kannte. Sorel. Oder Maren. Oder einer der anderen. Die Stimme sagte etwas, aber er konnte die Worte nicht verstehen. Sie waren wie Wasser, das durch seine Finger rann.
+
+Er öffnete die Augen. Das Flackern war verschwunden. Die Stimme war fort. Nur die Stille blieb, und das Kratzen des Stiftes auf dem Papier.
+
+Oren sah auf das Blatt. Die Worte, die er geschrieben hatte, standen da, klar und deutlich. Aber unter den Worten, ganz am Rand, stand etwas anderes. Ein Wort, das er nicht geschrieben hatte. Ein Wort in einer Handschrift, die nicht seine war.
+
+Er las es. Es war ein Name. Ein Name, den er nicht kannte.
+
+Oren starrte auf das Wort. Dann nahm er das Blatt, faltete es, und legte es in die Schublade des Schreibtisches. Er würde es später lesen. Er würde später verstehen.
+
+Jetzt musste er sich um die Lebenden kümmern.
+
+Er ging zur Tür, öffnete sie, und trat in den Flur. Die Wache war noch da, stand still an der Wand, den Blick geradeaus gerichtet.
+
+»Wecken Sie die Ältesten«, sagte Oren. »Und rufen Sie die Ärzte. Das Oberhaupt ist tot. Es war die Krankheit. Es war die Lunge.«
+
+Die Wache nickte. »Ja, Sire.«
+
+Oren ging weiter. Seine Schritte waren fest jetzt, sicher. Er wusste, was zu tun war. Er wusste, was gesagt werden musste. Er wusste, wie die Geschichte lauten würde.
+
+Tarn war an der Krankheit gestorben. An der Lunge. An einem langen, langsamen Verfall. So würde es in den Aufzeichnungen stehen. So würde es in den Erinnerungen bleiben. So würde es die Kontinuität erzählen.
+
+Und Oren würde das Werk fortführen. Er würde den Vertrag prüfen, die Förderung sichern, die Kontinuität stärken. Er würde tun, was getan werden musste.
+
+Aber tief in seinem Inneren, in dem Teil von ihm, der noch er selbst war, wusste er, dass etwas sich verändert hatte. Etwas war zerbrochen. Etwas war verschoben.
+
+Er wusste es, aber er sagte es nicht. Er würde es nie sagen.
+
+Die Nacht über Ashkar war klar und kalt. Die Sterne standen über der Stadt, und irgendwo in der Ferne brannten die Lichter der Werke, der Raffinerien, der Förderanlagen. Das Herz von Ashkar, das nie stillstand.
+
+Und Oren Kest ging durch die Gänge der Kontinuität, ein Erbe auf dem Weg zu seinem Thron, und in seinem Kopf, ganz leise, flüsterte eine Stimme, die nicht seine eigene war.
+
+Am Ende des Ganges blieb er stehen. Hinter ihm lagen die Gemächer, die noch nach Öl und Metall rochen, vor ihm der Haupttrakt, die breiten Stufen zum Versammlungssaal, das dunkle Grau der Kontinuität, das sich über alle Wände legte wie eine zweite Haut.
+
+Er hörte die Schritte, bevor er die Stimmen hörte.
+
+Drei Männer kamen den Gang herauf, in dunklen Mänteln, die Kragen mit dem schmalen Platindraht. Der Älteste ging voran, ein Hagerer mit weißem Haar und Augen, die zu lange in Aufzeichnungen geblickt hatten. Hinter ihm zwei jüngere, die Oren als Anwärter der zweiten Reihe kannte. Sie blieben vor ihm stehen. Keiner von ihnen sah ihn zuerst an.
+
+»Wir haben es vernommen«, sagte der Älteste. Seine Stimme war tief und trocken, ein Brummen, das von den Steinwänden zurückkam. »Der Bote hat es gemeldet, noch ehe wir die Treppe erreicht haben.«
+
+»Er ist tot«, sagte Oren. »Vor einer halben Stunde. In meiner Anwesenheit.«
+
+Der Älteste nickte langsam. Es war kein Nicken des Mitleids. Es war ein Nicken der Bestätigung, wie man es einem Knecht gibt, dessen Meldung stimmt.
+
+»Und was hast du gesagt?«, fragte er. »Zu der Wache. Zu den Dienern. Zu allen, die es hören werden.«
+
+Oren zögerte nicht. Er hatte es bereits gesagt, und er würde es immer wieder sagen, in dieser Nacht, in den folgenden Tagen, in jeder Versammlung, die kommen würde.
+
+»Ich habe gesagt, es war die Krankheit. Die Lunge. Ein langsamer Verfall.«
+
+Der Älteste sah ihn an. Sein Blick war der eines Mannes, der in einer Rekonstruktion aus vielen Jahrhunderten die Muster erkannte.
+
+»Gut«, sagte er. »So wird es bleiben.«
+
+Einer der Jüngeren, ein Mann mit schmalem Gesicht und einer Lippe, die man während einer früheren Kopplung vernarbt hatte, beugte sich vor.
+
+»Die Aufzeichnungen müssen geführt werden«, sagte er. »Die Messungen der Körpersäfte, die Beschreibungen der Gewebe. Die Ärzte werden ihre Berichte vorlegen. Man wird eine Ursache erwarten, die in der Sprache der Natur liegt, nicht in der Sprache der Kopplung.«
+
+»Die Berichte gibt es«, sagte Oren. »Ich habe sie gelesen. Sie sprechen von der Lunge. Von der langsamen Entartung des Gewebes. Von einem Leiden, das von innen kam.«
+
+»Dann«, sagte der Älteste, »ist alles gesagt.«
+
+Er wandte sich zum Gehen. Dann hielt er inne, eine halbe Wendung nur, und sah Oren über die Schulter an.
+
+»Der Vertrag«, sagte er. »Tarn hat ihn vorbereitet. Vierzig Tage. Der neue Vertrag über sechzig Jahre. Der Tiefenschnitt. Du wirst ihn vorlegen.«
+
+»Ich weiß«, sagte Oren.
+
+»Du wirst ihn vorlegen, als wäre er Tarns letzter Wille gewesen. Du wirst ihn vorlegen, sobald der Trauerzeitraum abgelaufen ist, nicht einen Tag früher, nicht einen Tag später. Und du wirst zustimmen, wenn die Abstimmung kommt.«
+
+Der Älteste wartete, dass Oren etwas sagte. Oren sagte nichts.
+
+»Nemet wird für den Schnitt sein«, fuhr der Älteste fort. »Avar ebenfalls. Die dritte Stimme wird folgen, wenn sie sieht, dass die Nachfolge geregelt ist. Vier zu drei. So wird es entschieden.«
+
+»Und wenn ich nicht zustimme?«
+
+Die Worte waren heraus, bevor Oren sie hatte zurückhalten können. Der Älteste drehte sich vollends um. Die beiden Jüngeren standen still, als hätten sie Atem und Gedanken angehalten.
+
+»Du wirst zustimmen«, sagte der Älteste. »Du bist nicht der erste Nachfolger, der glaubt, er könne wählen. Aber die Kontinuität ist älter als dein Zweifel, und sie wird länger bestehen als du.«
+
+Er ging. Die Jüngeren folgten ihm, ihre Schritte hallten, dann wurde es still.
+
+Oren blieb stehen.
+
+Es war nicht Zorn, was er spürte, und es war nicht Furcht. Es war etwas Kälteres, ein Rechnen, wie es Mentaten eigen war: die Gewichte auf beiden Seiten der Waage, die Trauer, die keine Trauer war, das Wort, das sie über Tarn legen würden, und die Tür, die sich in seinem Inneren geöffnet hatte und die niemand außer ihm sehen konnte.
+
+Er ging weiter, die Treppen hinauf.
+
+Die Ärzte kamen ihm auf halbem Weg entgegen, zwei Männer mit Instrumentenkästen, die kein Wort sprachen, sondern an ihm vorbeieilten, als hätte er keinen Anspruch auf Erklärungen. Er ließ sie. Sie würden tun, was zu tun war, sie würden befunden, was zu befunden war, und ihre Zettel würden das Wort Lunge tragen, in sorgfältiger Handschrift, und darüber die Unterschrift des Oberhaupts, die er selbst leisten würde, wenn die Zeit gekommen war.
+
+In seinen Gemächern setzte er sich an den Schreibtisch. Das Blatt lag dort, wo er es gelassen hatte, gefaltet, unauffällig. Er nahm es heraus, strich es glatt, las das Wort am Rand.
+
+Es war ein Name. Vier Buchstaben, in einer Handschrift, die nicht seine war, die aber auch nicht die Tarns war, das hatte er sofort gewusst, es war die Handschrift von jemandem, den er nie gekannt hatte, die Handschrift einer anderen Zeit, die in sein Denken hineinreichte wie eine Wurzel in feuchten Stein.
+
+Er las den Namen mehrmals. Er stellte ihn in Reihen, in Listen, in die Verzeichnisse der Kontinuität, aber er fand ihn nicht. Er hätte zu den Ältesten gehen können, hätte fragen können. Er tat es nicht.
+
+»Später«, sagte er laut, und seine Stimme klang fremd in dem stillen Raum, fest und sachlich, als wäre das Wort nicht an ihn gerichtet, sondern an einen, der hinter ihm stand.
+
+Er faltete das Blatt wieder, legte es in die Schublade. Er verriegelte sie nicht. Es gab nichts zu verriegeln, keine Wache, keinen Zeugen, keinen, der danach fragen würde.
+
+Dann setzte er sich ans Fenster, sah hinaus auf die Nacht von Ashkar, auf die Lichter der Werke und Raffinerien, die nicht stillstanden, auch nicht, wenn ein Oberhaupt starb. Irgendwo dort draußen floss Veyra durch die Leitungen, sammelte sich in den Auffangbecken, wurde gemessen, verrechnet, gelagert. Das Herz der Kontinuität, das aus dem Gestein kam, alt, gleichgültig, unerschöpflich scheinbar.
+
+Und während er hinaussah, kam die Stimme wieder.
+
+Leise, wie Wasser in einer Röhre, kaum mehr als ein Rauschen, aber deutlich genug, um Worte zu formen, die er nicht verstand. Sie sprach nicht zu ihm. Sie sprach in ihm, an einem Ort, den er nicht kannte. Sie kam nicht von draußen, das wusste er.
+
+Die Stimme sprach nicht in Worten, die man hätte aufschreiben können. Sie sprach in Bildern, die kamen und gingen, wie Licht auf einer Wasserfläche zittert. Oren hielt die Augen offen und sah die Fenster, die Lichter, die Nacht. Und unter dem allem, hinter dem allem, war etwas, das nicht dorthin gehörte: das Gefühl einer Hand auf seiner Schulter, die nicht da war.
+
+Er stand auf. Er ging durch das Zimmer, maß die Länge der Wände, wie er es als Kind getan hatte, wenn die Stille zu groß geworden war. Sieben Schritte von der Tür zum Fenster. Sieben Schritte zurück. Ein Rechteck aus Stein, aus Öllampen, aus kaltem Metall. Er zählte die Schritte, und während er zählte, wurde die Stimme leiser, dann verstummte sie ganz.
+
+Am Fenster blieb er stehen. Seine Hand lag auf dem kalten Glas. Draußen in der Schwärze brannten die Lichter, rot und weiß, ein Muster, das er kannte, seit er denken konnte, und das ihn diesmal nicht beruhigte. Denn das Muster war nicht mehr dasselbe. Es hatte einen Fehler. Eine der Raffinerien im Nordsektor stand schief, ihre Umrisse verschoben, als hätte jemand ein Lineal falsch angelegt. Oren blinzelte, und der Fehler blieb. Er blinzelte noch einmal, und der Fehler löste sich, das Bild rückte zusammen, wurde wieder das alte.
+
+Er trat vom Fenster zurück.
+
+»Das ist die Müdigkeit«, sagte er, und wieder hörte er seine Stimme fremd klingen, zu laut in dem schmalen Raum, zu fest für einen Mann, der gerade einen Toten zurückgelassen hatte.
+
+Er setzte sich an den Schreibtisch. Er zog das oberste Blatt zu sich, ein leeres, und begann zu schreiben, was er morgen sagen würde. Die Worte für die Versammlung. Die Worte für die Ältesten. Die Worte für die Aufzeichnung, die bleiben würde. Er schrieb in kurzen Sätzen, wie Tarn es ihn gelehrt hatte, jeder Satz ein Stein, jeder Stein eine Mauer, die niemand einreißen konnte.
+
+Das Oberhaupt ist verschieden. Die Ursache war die Krankheit. Die Kontinuität ist ununterbrochen. Der Nachfolger ist bestimmt. Das Werk wird fortgeführt.
+
+Er las die Sätze, und sie klangen richtig. Sie klangen, wie sie klingen mussten. Und doch, während er las, spürte er wieder dieses Flackern, dieses kurze Aussetzen, als hätte jemand für einen Herzschlag lang die Lampe tiefgestellt. Nicht Dunkelheit. Nicht Schweigen. Ein Zögern nur, ein Stolpern, das man nicht sehen, aber fühlen konnte, wenn man darauf achtete.
+
+Er achtete darauf.
+
+Und als er darauf achtete, wurde das Zögern lang genug, um etwas hineinzulassen.
+
+Ein Geräusch. Kein Geräusch von außen, kein Schritt im Flur, keine Tür, kein Wind. Ein Geräusch von innen, ein Knacken, als hätte sich in seinem Schädel ein Gelenk gelöst, das immer festgesessen hatte. Und mit dem Knacken kam ein Geruch, den er nicht kannte: sandige Luft, die nach Kupfer und nach Regen schmeckte, obwohl in den Kammern kein Regen fiel, in der Stadt nicht, seit Jahren nicht.
+
+Oren schloss die Augen.
+
+Er war nicht mehr am Schreibtisch. Oder er war es noch, aber gleichzeitig auch nicht, denn unter den Lidern stand eine Landschaft, die er nie gesehen hatte: weite Ebenen unter einem Himmel wie geschmolzenes Blei, Furchen im Sand, die von Wasser gezogen schienen, breite, tiefe Linien, die in die Ferne liefen wie Sehnen unter der Haut eines großen Tieres. Männer gingen in diesen Furchen. Ihre Mäntel waren grau, ihre Gesichter unter Kapuzen verborgen. Einer von ihnen blieb stehen, hob den Kopf, sah direkt herüber, dorthin, wo Oren war, und seine Augen waren weiß.
+
+Oren riss die Augen auf.
+
+Der Schreibtisch. Die Lampe. Das Blatt mit den fünf Sätzen. Der Stift in seiner Hand. Der Stift war über das Papier gefahren, während er fort gewesen war, ohne Wissen, ohne Absicht, und hatte eine Linie gezogen, gerade und tief, tief wie die Furchen in dem fremden Sand. Die Linie lief vom ersten zum letzten der fünf Sätze, quer durch die Wörter, ein Strich, der die Mauer aufriss.
+
+Er sah auf die Linie. Er legte den Stift nieder, langsam, wie man ein Messer ablegt.
+
+»Sorel«, sagte er, halb fragend, halb anklagend, und wusste selbst nicht, ob er den Namen dem toten Mann widmete, dessen Erinnerung er trug, oder dem, der in dieser Nacht in ihn hineinblickte.
+
+Keine Antwort. Nur die Stille, das Öl der Lampen, das Knistern der Dochte, wenn sie sich senkten.
+
+Er nahm das Blatt, faltete es sorgfältig, zweimal, dreimal, und legte es zu dem anderen in die Schublade. Beide lagen nun beieinander, das Blatt mit dem fremden Namen und das Blatt mit der durchstrichenen Rede. Er schob die Schublade zu, aber er verschloss sie nicht, denn es gab nichts mehr, was ein Schloss gehalten hätte.
+
+Dann saß er still.
+
+Und dachte: Nicht Furcht war es, was ich gespürt habe, als die Landschaft kam. Es war Wiedererkennen. Und dachte: Ich war nie an diesem Ort. Und dachte: Warum weiß mein Körper dennoch, wie warm der Sand ist?
+
+Er saß so lange, dass die Lampen herunterbrannten und das Öl dunkel wurde in den Gläsern. Draußen über Ashkar schob sich der Morgen heran, zuerst als Grau, dann als Blei, dann als ein schmaler Streifen Rot über den Werken im Osten. Der Streifen erinnerte an nichts. Er war nur Licht auf Rauch.
+
+Als die Glocken der Kontinuität das erste Mal schlugen, tief und langsam, sechs Schläge für das Erlöschen eines Oberhaupts, stand Oren auf. Er wusch sich das Gesicht in der Schale, die auf dem Tisch stand, und das Wasser war so kalt, dass die Haut an seinen Wangen für einen Moment zu brennen schien. Er trocknete sich ab, knöpfte das dunkle Grau zu, steckte den Platindraht am Kragen fest, der die Form hielt. Dann trat er vor den schmalen Spiegel, der über der Waschschale hing.
+
+Das Gesicht im Glas war sein Gesicht. Es hatte die Wangen, die es immer gehabt hatte, die Nase, die gerade war, das Kinn mit der schmalen Kerbe. Er suchte es ab, wie er am Abend zuvor das Blatt abgesucht hatte, nach einem Fehler, nach einem Strich, der nicht dorthin gehörte. Da war keiner. Da war nur er.
+
+»Erinnere dich«, sagte er zu dem Mann im Glas. »Du bist Oren Kest. Du warst es gestern. Du wirst es morgen sein.«
+
+Der Mann im Glas sagte nichts zurück.
+
+Oren trat vom Spiegel weg, durchquerte das Zimmer, seine sieben Schritte, öffnete die Tür. Der Flur lag still, aber nicht leer.
+
+Die Wache war nicht allein geblieben. Ein zweiter Mann stand neben ihr, in einem Mantel, dessen Saum die Steinfliesen fegte, und Oren erkannte ihn, noch ehe das Licht der Lampen sein Gesicht erreichte: Belen Sar, der Schreiber der Kontinuität, ein Mann mit den Händen eines Schreibers und den Augen eines Rechners, der seit vierzig Jahren die Protokolle führte und nie ein Wort zu viel gesagt hatte.
+
+»Sire«, sagte Belen. Er senkte den Kopf, aber nicht tief genug, um die Augen zu verbergen. »Die Ältesten haben mich gesandt. Die Aufzeichnung des Ablebens muss begonnen werden, solange die Kammer noch unberührt ist.«
+
+»Sie ist nicht unberührt«, sagte Oren. »Ich habe ihn zugedeckt. Ich habe die Hand gehalten. Ich habe nach dem Puls gefühlt.«
+
+»Das ist in der Ordnung«, sagte Belen. »Was ich brauche, ist nicht die Unberührtheit. Was ich brauche, ist das Wort.«
+
+Er zog ein Büchlein hervor, in Leder gebunden, die Ecken abgestoßen, und einen Stift aus Messing, der in einer Halterung an seinem Gürtel gesteckt hatte.
+
+»Was soll in der Aufzeichnung stehen?«, fragte er. Seine Stimme war ein trockenes Rascheln, das Geräusch von Papier, das über Papier gleitet. »Nicht das, was du der Wache gesagt hast. Nicht das, was du den Dienern sagen wirst. Was soll unter der Hand des Oberhaupts stehen, wenn die Aufzeichnung geschlossen wird?«
+
+Oren sah ihn an. Vierzig Jahre Protokolle. Vierzig Jahre Klarheit. Und kein einziger Eintrag, der je hätte bezweifelt werden können.
+
+»Die Krankheit«, sagte Oren. »Der langsame Verfall. Die Entartung des Lungengewebes. Die Messungen der Körpersäfte. Alles, was die Ärzte belegen können.«
+
+Belen schrieb. Der Stift kratzte über das Papier, gleichmäßig, ohne Zögern. Dann hielt er inne, ohne aufzusehen.
+
+»Und die Dauer?«
+
+»Vier Monate vom ersten Befund bis zum Tod. So steht es in den Berichten.«
+
+Belen schrieb weiter. Er wusste, was er tat, und er tat es mit der Selbstverständlichkeit eines Mannes, der sein Leben lang nichts anderes getan hatte, als Tote in Worte zu verwandeln.
+
+»Es wird in der Aufzeichnung heißen«, sagte Oren, langsam, jedes Wort gesetzt wie ein Stein, »daß das Oberhaupt im Schlaf verschied. Daß der Nachfolger anwesend war. Daß die Kontinuität ununterbrochen bleibt.«
+
+»So soll es stehen«, sagte Belen. Er schloß das Büchlein, steckte den Stift in die Halterung. Zum ersten Mal hob er die Augen ganz, und sein Blick war der eines Mannes, der etwas wog, was er nicht aussprechen wollte.
+
+»Ich habe zweiundzwanzig Oberhäupter aufgezeichnet«, sagte er. »Keines ist so verschieden, wie es in meinem Buch stehen wird. Aber ich habe auch gelernt, daß die Aufzeichnung nicht die Wahrheit bewahrt. Sie bewahrt das Bleibende. Das ist ihre Aufgabe.«
+
+»Und die Wahrheit?«
+
+»Die Wahrheit bewahrt niemand«, sagte Belen. »Die Wahrheit ist das, was die Kontinuität vergessen läßt, damit sie dauern kann.«
+
+Er verneigte sich, diesmal tiefer, und ging den Gang hinab, die Fliesen vor ihm und hinter ihm leer, wie ein Mann, der eine Last trug, die niemand sehen konnte.
+
+Oren blieb stehen.
+
+Er hätte weitergehen sollen, zu den Ältesten, in die Versammlung, zu den Vorbereitungen, die ein Nachfolger vor dem Tag der Wahl zu treffen hatte. Statt dessen stand er im Flur und hörte das Rascheln des Papiers nachklingen, das Kratzen des Messingstifts, das gleichmäßige Schreiben eines Mannes, der sein Leben lang das Bleibende bewahrt und das Wahre vergessen ließ.
+
+Und dachte: Er hat recht. Und dachte: Wenn er recht hat, dann hat Tarn recht gehabt, als er starb, ohne es zu wissen. Und dachte: Wenn Tarn nicht wußte, was in seinem eigenen Kopf geschah, wer weiß dann, was in meinem geschieht?
+
+Er ging zur Treppe. Der Haupttrakt öffnete sich vor ihm, kühl und weit, das Steinpflaster mit den schmalen Silbereinlagen, die den Weg zum Versammlungssaal markierten. Zu dieser Stunde war er leer. Nur der Geruch blieb, der Geruch der Kontinuität, Öl und Metall und altes Papier, und darüber, kaum wahrnehmbar, etwas Posterhaftes, Warmes, das Oren nicht einordnen konnte.
+
+Er blieb am Fuß der Treppe stehen, legte die Hand auf das Geländer, das aus kaltem Stein war, und wartete.
+
+Er wartete auf das Flackern.
+
+Es kam. Diesmal länger, tiefer, ein Zittern, als hätte jemand die Luft im Raum verschoben, ein kurzes Kippen, in dem die Silbereinlagen des Bodens sich krümmten und wieder gerade bogen, und in dem die Lampen eine Spur zu hoch, eine Spur zu blau brannten.
+
+Und mit dem Zittern kam ein Laut aus der Tiefe des Trakts. Nicht das Rauschen des Veyra in seinen Leitungen, nicht das Schlagen der Glocken, nicht das Summen der Werke. Ein Laut, wie Oren ihn nie gehört hatte: das Knistern von trockenem Gras, das berstende Geräusch einer Kruste, die unter einem Fuß zerbricht, und darüber, in weite Ferne gerückt, eine Stimme, die einen Namen sprach.
+
+Nicht seinen Namen.
+
+Die Stimme sprach das Wort, das auf dem Blatt gestanden hatte. Das Wort, das er nicht geschrieben hatte. Vier Buchstaben, in einer Handschrift, die nicht seine war.
+
+Oren hörte es, und sein Körper erkannte es, ehe sein Verstand es begriff: die Wärme der Luft stieg, obwohl in dem Trakt keine Wärme war, und in seinen Lungen breitete sich ein Geschmack aus, staubig, kupfern, wie Regen auf heißem Stein.
+
+Er ließ das Geländer los. Seine Hand war ruhig jetzt, vollkommen ruhig, und das beunruhigte ihn mehr als das Zittern es getan hätte.
+
+»Nein«, sagte er in den leeren Trakt hinein. »Ich bin nicht dort. Ich war nie dort.«
+
+Die Stimme antwortete nicht.
+
+Er sah auf seine Hand. Die Finger waren die seinen, die Gelenke die seinen, der Ring der Kontinuität saß am Mittelfinger, wo er saß, seit man ihn ihm angemessen hatte, und doch konnte er den Blick nicht wenden von der Stelle, an der das matte Silber in die Haut schnitt, als müßte er sich vergewissern, daß sie nicht die eines anderen war.
+
+Dann hob er den Kopf.
+
+Er ging weiter, den Silbereinlagen nach, zum Saal, dessen Tore aus dunklem Holz waren und in dessen Innerem die Ältesten auf ihn warteten. Seine Schritte waren gemessen, nicht zu schnell, nicht zu langsam, die Schritte eines Mannes, der weiß, wo er hingeht.
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/ashkara/assets/chapter/chapter-002.jpg" alt="Kapitel 002" />
+</div>
+
+# Zweites Kapitel {#kapitel-002 .chapter-heading .centered}
+
+Der Morgen kam in das Nemet-Archiv durch schmale Schächte, die man vor vierhundert Jahren in den Fels getrieben hatte, und das Licht, das durch sie fiel, war altes Licht, gelb und staubig, und es legte sich auf die Arbeitstische wie eine dünne Haut aus Kupfer. Neris Tal trat um die sechste Stunde ein, wie an jedem Tag, und die Luft schlug ihr entgegen, wie sie es immer tat: Zellulose und kaltes Metall, trockener Leim, der Geruch versiegelter Wachssiegel, darunter, kaum merklich, das feine, säuerliche Knistern alter Tinte, die langsam in ihr Papier zurückkehrte.
+
+Sie blieb einen Augenblick an der Schwelle stehen und atmete.
+
+Das Archiv summte. Es war kein Geräusch, das man hörte, sondern eines, das man im Brustbein trug, das tiefe, gleichmäßige Brummen der Klimaschächte, das die Temperatur bei zwölf Grad hielt und die Feuchtigkeit bei einem Wert, den Neris in den zwölf Jahren ihrer Dienstzeit nie hatte schwanken sehen. Ein zweites Summen lag darüber, höher, feiner: die Lesegeräte, die in ihren Nischen warteten, die kleinen Kopplungsstühle mit ihren Kupferarmbändern, die Veyra-Fäden, die in die Tiefe des Felsens liefen, dorthin, wo das Netzwerk lag, das man nicht betrat und nicht sah.
+
+»Früh«, sagte eine Stimme hinter ihr.
+
+Neris wandte sich nicht um. Sie kannte die Stimme. Es war die des Aufsehers der Nachtschicht, eines alten Mannes namens Corin, der seit vierzig Jahren die Register führte und dessen Hände so trocken waren, daß sie beim Umblättern klangen wie Papier.
+
+»Die Sonnenfächer«, erwiderte Neris. »Ich will die Feuchtigkeit prüfen, ehe die Tagesschicht kommt.«
+
+»Die Feuchtigkeit ist gut«, brummte Corin. »Die Feuchtigkeit ist seit vierzig Jahren gut.«
+
+»Dann wird sie es heute auch sein.«
+
+Sie ging an ihm vorbei, ohne ihn anzusehen, den Mittelgang hinunter, an den Regalwänden entlang, die sich zu beiden Seiten auftürmten, vier Stockwerke hoch, mit ihren Leitern und Galerien und den schmalen Brücken, die die Etagen verbanden. Hier lagen die Förderrechte, die Wasserbücher, die Verträge der sieben Kontinuitäten, in Lederschubern, in Metallkassetten, in versiegelten Röhren aus Glas, und über allem lag der Geruch von Wachs und Öl und dem kalten Atem des Steins.
+
+Neris Tal war Archivforensikerin des zweiten Ranges. Sie war vierunddreißig Jahre alt, trug ihr Haar kurz geschnitten und ihre Kleidung ohne Schmuck, und sie glaubte an das, was in den Akten stand, solange die Akte hielt, was sie versprach. Das war ihre Arbeit: festzustellen, ob ein Dokument trug. Ob ein Siegel echt war, eine Signatur von der Hand, die sie nannte, ein Datum mit dem Kalender übereinstimmte, eine Kette von Zeugen sich schloß. Sie hatte in zwölf Jahren dreitausend Verträge geprüft und einundsiebzig davon als ungültig zurückgewiesen, und sie hatte nie gezögert, keines davon, weil ein Dokument entweder hielt oder nicht, und was nicht hielt, war nichts.
+
+Sie setzte sich an ihren Tisch, den zweiten von links unter dem dritten Lichtschacht, und zog die Lampe herab.
+
+Da lag er schon.
+
+Der Schuber war aus dunklem Leder, mit zwei Schnüren verschnürt und mit einem Siegel Nemets versehen, dem Auge über dem Brunnen, in rotem Wachs. Neris kannte die Form. Es war das Siegel der Oberhäupter, nicht das der Registratur, und das bedeutete, daß der Auftrag nicht durch die gewöhnlichen Wege gegangen war.
+
+Neben dem Schuber lag ein Blatt, in Dherans Handschrift, knapp und aufrecht, wie alles, was er schrieb.
+
+»An die Archivforensikerin Tal. Prüfung des Abtretungsvertrags von 3 214, Original, versiegelt, gemäß den beigefügten Zugangsregeln. Frist: zwanzig Tage. Bericht an das Oberhaupt persönlich. Keine Einsicht Dritter. Keine Vervielfältigung. Keine Kopplung ohne ausdrückliche Genehmigung.«
+
+Neris las es zweimal. Dann las sie die Zugangsregeln, die auf einem gesonderten Blatt standen, in der trockenen, kleinlichen Schrift der Kanzlei, und die Regeln waren ungewöhnlich. Das Original durfte den Lesesaal nicht verlassen. Es durfte nur in Anwesenheit eines zweiten Zeugen geöffnet werden, der von Dheran selbst bestellt war. Die Kopplung war untersagt, es sei denn, Dheran genehmigte sie schriftlich für jede einzelne Sitzung. Und am Ende stand ein Satz, der Neris länger beschäftigte, als er verdiente: »Die Arbeit an diesem Vertrag dient der Vorbereitung einer Entscheidung, deren Frist nicht verschoben werden kann.«
+
+Sie legte das Blatt nieder.
+
+Und dachte: Der Vertrag von 3 214 ist der Abtretungsvertrag. Der Vertrag, mit dem Unterglas vor vierhundertzwanzig Jahren die Förderrechte an Ashkar abgetreten hat. Der Vertrag, auf dem alles ruht, was seither geschehen ist.
+
+Und dachte: Warum sollte man einen Vertrag von 3 214 jetzt prüfen, zwanzig Tage vor dem neuen Vertrag, den Tarn fordert?
+
+Sie sah auf den Schuber. Er war alt, das Leder rissig an den Kanten, das Wachssiegel von einer dünnen Staubschicht überzogen, und doch lag er hier, auf ihrem Tisch, als hätte man ihn gerade erst gebracht. Jemand hatte ihn aus der Tiefe des Archivs geholt, aus der versiegelten Kammer, in die nur die Oberhäupter und ihre Schreiber gelangten, und dieser Jemand hatte ihn ihr gegeben, ohne ein Wort, mit einem Blatt, das keine Erklärung enthielt, sondern nur Regeln.
+
+Neris stand auf und ging zum Fenster des Lesesaals, das kein Fenster war, sondern eine Scheibe aus dickem Glas, hinter der die Lampe brannte, die den ganzen Tag über nicht erlosch. Sie sah ihr Spiegelbild in der Scheibe, das schmale Gesicht, die ruhigen Augen, und hinter dem Spiegelbild die Regale, die sich in der Tiefe verloren.
+
+»Also gut«, sagte sie leise.
+
+Sie holte den Zeugen.
+
+Es war ein Schreiber der Kanzlei, ein junger Mann namens Vel, den Neris kaum kannte, und Vel war nervös. Er setzte sich ihr gegenüber, die Hände auf den Knien, und sah zu, wie Neris die Schnüre löste, das Siegel brach, den Deckel hob.
+
+Der Vertrag lag in Seidenpapier. Neris schlug es zurück, langsam, mit beiden Händen, und da war er, der Abtretungsvertrag, ein Bogen aus schwerem, gelblichem Papier, in der Mitte gefaltet, an den Rändern leicht gewellt, mit vierundsechzig Zeilen in der Handschrift des damaligen Kanzlers und mit siebenundzwanzig Siegeln, eines für jede Kontinuität, die damals unterzeichnet hatte, und drei für die Zeugen, und eines für den Schiedsrichter.
+
+Neris beugte sich darüber.
+
+Der Geruch stieg ihr entgegen, altes Papier, ein Hauch von Wachs, darunter etwas Metallisches, das sie nicht einordnen konnte, und sie atmete ihn ein, wie sie jeden Geruch eines Dokuments einatmete, weil der Geruch die erste Prüfung war. Papier, das nie geöffnet worden war, roch anders als Papier, das man oft gelesen hatte. Papier, das in der Feuchtigkeit gelegen hatte, roch anders als Papier, das trocken gelagert war. Und dieser Bogen roch trocken, sehr trocken, als hätte er die vierhundertzwanzig Jahre in einer Kammer aus Stein verbracht, in der kein Wasser war, und das war richtig so, denn die versiegelte Kammer war trocken, das wußte Neris aus den Registern.
+
+Sie begann zu lesen.
+
+Die erste Zeile nannte den Tag. Den vierzehnten Tag des Monats, den man damals noch den Monat des Brunnens nannte, im Jahr 3 214 nach der Ankunft. Die zweite Zeile nannte die Kontinuitäten, die vertraten, und die Namen ihrer Oberhäupter. Die dritte Zeile nannte Unterglas, die Siedlungen am Rand des Beckens, die Familien, die die Wasserrechte hielten, und den Umstand, daß sie ihre Rechte abtraten, gegen eine Förderabgabe, die alle sechzig Jahre neu verhandelt werden sollte.
+
+Neris las die Zeilen viermal.
+
+Sie las sie so, wie sie jedes Dokument las, langsam, mit dem Finger unter der Zeile, und sie achtete auf das, was zwischen den Zeilen stand, auf die Korrekturen, die Ausbesserungen, die kleinen Abweichungen der Tinte. Und sie fand sie. In der siebten Zeile war ein Wort ausgebessert, das Wort »freiwillig«, das jemand später über eine Rasur gesetzt hatte, in einer Tinte, die dunkler war als die der übrigen Zeilen. In der zweiundzwanzigsten Zeile war ein Name durchgestrichen und daneben neu geschrieben, und die neue Handschrift war nicht die des Kanzlers, sondern die eines anderen, den Neris nicht kannte. Und in der vierzigsten Zeile fehlte etwas.
+
+Neris hielt inne.
+
+Sie sah auf die Zeile, dann auf die Siegel, dann auf die Zeugenliste, die am Fuß des Bogens stand, in drei Spalten, mit den Namen der Männer, die damals anwesend gewesen waren, und mit ihrer Funktion und mit ihrer Unterschrift. Sie zählte die Namen. Sie zählte die Unterschriften. Und sie sah, daß eine Unterschrift fehlte.
+
+Der Name stand da. In der zweiten Spalte, an vierter Stelle, stand ein Name, den Neris kannte, weil er in den Chroniken von 3 214 oft vorkam: Halv Dren, Vertreter der Siedlung am unteren Becken, einer der Unterhändler Unterglas', ein Mann, der in den Wasserbüchern jener Jahre häufig genannt wurde. Sein Name stand in der Zeugenliste. Seine Funktion stand daneben. Aber die Unterschrift, die unter seinem Namen hätte stehen müssen, war nicht da. An ihrer Stelle war ein leerer Raum, ein Fleck, an dem das Papier eine Spur heller war, als hätte man etwas entfernt, das dort gestanden hatte, und daneben, in der Handschrift des Kanzlers, ein kleiner Vermerk, zwei Wörter nur, die Neris nicht sogleich entzifferte.
+
+Sie beugte sich tiefer.
+
+»Abwesend«, stand da. »Entschuldigt.«
+
+Neris sah lange auf diese zwei Wörter.
+
+Und dachte: Ein Zeuge, der abwesend war. Ein Zeuge, dessen Name in der Liste steht, dessen Unterschrift aber fehlt, und der Vermerk sagt, er sei entschuldigt gewesen. Entschuldigt, an einem Tag, an dem die Wasserrechte Unterglas' abgetreten wurden, an dem die Männer und Frauen, die die Wasserbücher führten, hätten anwesend sein müssen, alle, jeder.
+
+Und dachte: Warum fehlt die Unterschrift eines Mannes, der in den Wasserbüchern jener Jahre an jedem zweiten Tag genannt wird?
+
+Sie richtete sich auf.
+
+Vel sah sie an, nervös noch immer, und fragte: »Ist etwas nicht in Ordnung?«
+
+»Es ist in Ordnung«, sagte Neris. »Es ist nur eine Zeile, die ich prüfen muß.«
+
+Sie schloß den Schuber nicht. Sie ließ den Bogen liegen, offen, unter der Lampe, und ging zum Regal an der Westwand, wo die Chroniken von 3 214 standen, in vier Bänden, in Leder gebunden, mit den Jahreszahlen in Gold auf dem Rücken. Sie zog den zweiten Band heraus, den Band, der die Monate des Brunnens und des Regens umfaßte, und legte ihn auf ihren Tisch, und sie schlug ihn auf, an der Stelle, an der die Verhandlungen von Unterglas verzeichnet waren.
+
+Der Band war schwer. Die Seiten waren dünn, fast durchscheinend, und die Schrift war klein und dicht, und Neris las, mit dem Finger unter der Zeile, wie sie immer las.
+
+Sie fand den vierzehnten Tag des Monats des Brunnens.
+
+Und sie fand, was sie nicht erwartet hatte.
+
+In der Chronik stand, daß Halv Dren, Vertreter der Siedlung am unteren Becken, am dreizehnten Tag des Monats des Brunnens erkrankt sei, an einem Fieber, das in jenem Jahr in Unterglas umging, und daß er am vierzehnten Tag, dem Tag der Unterzeichnung, das Bett nicht habe verlassen können und in seinem Haus am unteren Becken geblieben sei, wo er am neunzehnten Tag desselben Monats gestorben sei.
+
+Neris las diese Zeilen dreimal.
+
+Dann legte sie den Finger auf die Stelle und sah auf.
+
+»Vel«, sagte sie.
+
+»Ja?«
+
+»Wann ist Halv Dren gestorben?«
+
+Vel sah sie an, verständnislos. »Ich weiß es nicht. Ich bin Schreiber der Kanzlei, nicht der Chronik.«
+
+»Dann hol mir die Chronik von 3 214, den vierten Band. Und die Wasserbücher des unteren Beckens für die Jahre 3 210 bis 3 220.«
+
+Vel stand auf, zögerte, sagte: »Die Wasserbücher sind im dritten Gewölbe. Sie sind versiegelt.«
+
+»Dann brich das Siegel«, sagte Neris. »Und wenn jemand fragt, sag, die Archivforensikerin Tal prüft den Abtretungsvertrag, und die Prüfung erfordert die Wasserbücher. Das ist die Wahrheit.«
+
+Vel ging.
+
+Neris blieb allein mit dem Bogen.
+
+Sie sah auf die Zeugenliste, auf den leeren Raum unter Halv Drens Namen, auf den Vermerk des Kanzlers, zwei Wörter, »Abwesend. Entschuldigt.« Und sie sah auf die Chronik, auf die Zeilen, die besagten, daß Halv Dren an jenem Tag krank im Bett gelegen habe, in seinem Haus am unteren Becken, und daß er fünf Tage später gestorben sei.
+
+Und dachte: Wenn er krank war, wenn er im Bett lag, wenn er fünf Tage später starb, dann war er am Tag der Unterzeichnung nicht in der Kammer. Dann konnte er nicht unterzeichnet haben. Dann ist der leere Raum unter seinem Namen keine Nachlässigkeit, sondern die Wahrheit.
+
+Und dachte: Aber warum steht sein Name dann in der Zeugenliste? Warum nennt der Vertrag ihn als Zeugen, wenn er nicht anwesend war?
+
+Sie nahm die Lupe.
+
+Sie beugte sich über den Bogen, über die Stelle, an der die vierundsechzig Zeilen in der Handschrift des Kanzlers standen, und sie suchte nach dem, was sie in zwölf Jahren gelernt hatte zu suchen: nach dem Druck der Feder, nach der Tiefe der Tinte, nach der Art, in der ein Buchstabe auf dem Papier stand. Und sie fand, was sie suchte, in der vierzigsten Zeile, dort, wo der Name Halv Dren stand.
+
+Der Name war nicht in der Handschrift des Kanzlers.
+
+Er war in einer anderen Handschrift, einer kleineren, engeren, und die Tinte war eine Spur dunkler, und der Druck der Feder war ein anderer, leichter, als hätte jemand den Namen später eingefügt, in eine Zeile, die man dafür geöffnet hatte.
+
+Neris legte die Lupe nieder.
+
+Sie saß eine Weile still. Das Archiv summte um sie, das tiefe Brummen der Schächte, das feine Summen der Lesegeräte, und in der Ferne, durch die Gänge, hörte sie Vel zurückkommen, seine Schritte auf dem Stein, und sie hörte, wie er die Wasserbücher auf den Tisch legte, schwer, in versiegelten Röhren aus Glas.
+
+Sie sah nicht auf.
+
+Sie sah auf den Bogen, auf die vierundsechzig Zeilen, auf die siebenundzwanzig Siegel, auf die drei Zeugen, auf den leeren Raum, auf den Vermerk, auf den Namen, der nicht von der Hand des Kanzlers war.
+
+Und dachte: Dieser Vertrag ist die Grundlage des Tiefenschnitts. Auf diesem Vertrag ruht alles, was Tarn jetzt fordert. Und wenn dieser Vertrag nicht hält, dann hält nichts, was auf ihm ruht.
+
+Und dachte: Aber ich bin Archivforensikerin. Ich prüfe, was in den Akten steht. Ich prüfe nicht, was ich denke.
+
+Sie griff nach der ersten Röhre, brach das Siegel, zog das Wasserbuch heraus, und begann zu lesen.
+
+Der Tag war erst zur siebten Stunde, und das Licht durch die Schächte war noch gelb und staubig, und in dem Lesesaal des Nemet-Archivs saß eine Frau über einem Bogen Papier, der vierhundertzwanzig Jahre alt war, und sie las, langsam, mit dem Finger unter der Zeile, und sie wußte noch nicht, was sie finden würde, aber sie wußte, daß sie es finden würde.
+
+Denn ein Dokument hält oder es hält nicht. Und was nicht hält, ist nichts.
+
+Sie las bis zum Mittag.
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/ashkara/assets/chapter/chapter-003.jpg" alt="Kapitel 003" />
+</div>
+
+# Drittes Kapitel {#kapitel-003 .chapter-heading .centered}
+
+Der Tiefenspeicher lag unter dem dritten Gewölbe, und man erreichte ihn nur über eine Treppe, die in den Fels gehauen war und deren Stufen so schmal waren, daß Neris die Hand an der Wand halten mußte. Die Luft wurde kälter mit jeder Wendung, und der Geruch wechselte von Papier und Staub zu nassem Stein und einem feinen, metallischen Hauch, der an Blut erinnerte, aber keines war. Es war die Kühle selbst, die so roch, dachte sie. Die Kühle und das Alter.
+
+Vel ging hinter ihr, und seine Schritte waren schwerer als ihre, und er trug die Lampe, die den Gang vor ihnen in ein gelbes Licht tauchte, das nicht bis an die Decke reichte. Über ihnen, jenseits der Treppe, lag der Lesesaal mit seinen Lichtschächten und seinem Summen; hier unten gab es kein Summen. Es gab nur das Tropfen. Irgendwo in der Tiefe fiel Wasser, in langen, gleichmäßigen Abständen, und jeder Tropfen klang wie ein Wort, das man nicht verstand.
+
+»Wie tief?« fragte Neris.
+
+»Vierhundert Schritte«, sagte Vel. »Der Tiefenspeicher ist der älteste Teil des Archivs. Älter als die Kanzlei. Älter als die Kontinuität selbst, sagt man.«
+
+»Sagt man«, wiederholte Neris.
+
+Vel schwieg. Er war ein Mann von sechzig Jahren, mit dem ruhigen Gesicht eines Schreibers, der gelernt hatte, nichts zu hören, was nicht in den Akten stand. Aber seine Hand an der Lampe war fest, und er ging nicht schneller, als sie ging, und das war eine Art von Höflichkeit, die Neris zu schätzen wußte.
+
+Die Treppe endete vor einer Tür aus schwarzem Metall, in die sieben Kreise eingraviert waren, einer in den anderen, und in der Mitte des kleinsten Kreises stand ein Wort, das Neris nicht lesen konnte, weil die Gravur zu tief und zu alt war.
+
+»Das Siegel der ersten Kammer«, sagte Vel. »Es öffnet nur mit dem Schlüssel des Oberhaupts.«
+
+Neris zog den Schlüssel hervor, den man ihr mit dem Auftrag übergeben hatte, einen flachen Streifen aus dunklem Metall, in den ein Muster geschnitten war, das sie nicht entschlüsseln konnte. Sie schob ihn in den Spalt unter dem kleinsten Kreis, und die Tür öffnete sich nicht, wie Türen sich öffnen, mit einem Schwung oder einem Knarren, sondern sie löste sich aus dem Rahmen, langsam, als hätte sie lange gebraucht, sich zu erinnern, daß sie eine Tür war.
+
+Dahinter lag der Tiefenspeicher.
+
+Neris hatte Bilder gesehen, in den Lehrbüchern der Archivforensik, aber die Bilder hatten gelogen. Sie hatten einen Raum gezeigt, geordnet, mit Regalen und Tischen und Lampen. Was sie sah, war ein Gang, der sich in die Dunkelheit wand, links und rechts gesäumt von Röhren, nicht aus Glas wie die Wasserbücher, sondern aus einem milchigen, undurchsichtigen Material, das das Licht der Lampe nicht durchließ, sondern aufnahm und in ein schwaches, weißliches Leuchten verwandelte. Die Röhren standen in Fächern aus schwarzem Stein, jedes Fach mit einer Nummer versehen, und die Nummern waren nicht gemalt, sondern eingebrannt, und über jeder Nummer stand ein Name.
+
+»Wie viele?« fragte Neris.
+
+»Zehntausendvierhundert«, sagte Vel. »Die Speicher aller, die der Kontinuität gedient haben. Seit dem ersten Tag.«
+
+»Und alle sind hier unten?«
+
+»Alle.«
+
+Neris ging den Gang entlang, und die Röhren zu beiden Seiten leuchteten in ihrem Vorübergehen auf, ein schwaches Erwachen, als hätten sie auf sie gewartet. Sie berührte eine der Röhren mit den Fingerspitzen. Das Material war kalt, kälter als der Stein, kälter als die Luft, und unter der Kälte spürte sie ein feines Pulsieren, so schwach, daß sie es für ihre eigene Hand hätte halten können.
+
+»Der Speicher für den Abtretungsvertrag von 3 214«, sagte sie. »Wo?«
+
+Vel zog ein Verzeichnis aus seiner Tasche, ein schmales Heft, das er aufschlug, und mit dem Finger über die Zeilen fuhr. »Fach vierundzwanzig, Nummer sechs«, sagte er. »Der Vertrag wurde im Jahr 3 214 aufgenommen. Die Rekonstruktion erfolgte dreimal. Die letzte vor sechzig Jahren.«
+
+»Dreimal«, sagte Neris. »Und die letzte vor sechzig Jahren.«
+
+»So steht es hier.«
+
+Neris ging weiter, bis sie Fach vierundzwanzig erreichte. Es lag am Ende des Ganges, in einer Nische, die von zwei Pfeilern aus demselben schwarzen Stein flankiert wurde, und über dem Fach stand ein Name, den sie kannte, weil er in den Akten stand: der Name des Kanzlers von 3 214, jenes Mannes, dessen Handschrift die vierundsechzig Zeilen des Vertrags trug.
+
+Sie nahm die Röhre aus dem Fach.
+
+Sie war schwerer, als sie erwartet hatte, und das milchige Material war an einer Stelle trüb, als hätte jemand lange genug darauf geschaut, um es zu ermüden. Neris trug die Röhre zu dem Tisch, der am Ende des Ganges stand, einem Tisch aus demselben schwarzen Stein, in dessen Platte ein Lesegerät eingelassen war, ein Kreis aus Metall mit sieben Öffnungen, in die man die Finger legte.
+
+Sie legte die Röhre in die Halterung.
+
+Sie legte ihre Finger in die Öffnungen.
+
+Und das Lesegerät begann zu arbeiten.
+
+Es war nicht wie das Lesen eines Buches. Es war nicht wie das Betrachten eines Bildes. Es war, als öffnete sich in ihrem Kopf eine Tür, und hinter der Tür lag ein Tag, der vierhundertzwanzig Jahre alt war, und der Tag war nicht vergangen, sondern aufbewahrt, und sie trat in ihn ein, wie man in einen Raum tritt, und der Raum war die Kammer von 3 214.
+
+Sie sah den Kanzler.
+
+Er saß an einem Tisch aus dunklem Holz, und vor ihm lagen die vierundsechzig Zeilen, und seine Hand führte die Feder, und die Feder war eine Gänsefeder, und die Tinte war schwarz, und der Kanzler war ein Mann von vielleicht fünfzig Jahren mit einem schmalen Gesicht und Augen, die nicht auf das Papier sahen, sondern auf die Tür.
+
+Sie sah die Zeugen.
+
+Drei Männer standen hinter dem Kanzler, in dunklen Gewändern, und ihre Gesichter waren nicht deutlich, weil die Rekonstruktion sie nicht deutlich machte, aber ihre Namen standen in den Akten, und die Namen waren: Halv Dren, Marik Ves, und ein Dritter, dessen Name in den Akten fehlte.
+
+Und sie sah die Kammer.
+
+Sie war aus Stein, mit einem Fenster, durch das das Licht einer untergehenden Sonne fiel, und das Licht war rot, und es färbte die vierundsechzig Zeilen, als wären sie in Blut geschrieben.
+
+Neris stand in der Rekonstruktion, und sie sah, wie der Kanzler die Feder niedersetzte, und sie sah, wie er die vierzigste Zeile schrieb, und sie sah, wie er den Namen Halv Dren schrieb, mit seiner eigenen Hand, mit seiner eigenen Feder, in seiner eigenen Tinte.
+
+Und sie sah Halv Dren.
+
+Er stand hinter dem Kanzler, und er war ein großer Mann, breitschultrig, mit einem Gesicht, das die Rekonstruktion klar zeigte, klarer als die anderen, als hätte der Speicher ihn länger betrachtet. Er trug ein dunkles Gewand, und seine Hände waren gefaltet, und er sah auf das Papier, und er atmete.
+
+Er atmete.
+
+Neris trat einen Schritt näher. Sie sah den Brustkorb des Mannes sich heben und senken, langsam, ruhig, und sie sah den Schatten, den er auf den Boden warf, und der Schatten bewegte sich, als er sich bewegte, und er bewegte sich, weil er lebte.
+
+Und dachte: Das ist unmöglich.
+
+Sie trat noch einen Schritt näher, und sie sah sein Gesicht, und das Gesicht war das Gesicht eines Lebenden, mit Farbe in den Wangen und Feuchtigkeit auf den Lippen und einem Blinzeln in den Augen, das in Abständen kam, unregelmäßig, wie es bei Lebenden ist.
+
+Und dachte: Halv Dren starb fünf Tage nach der Unterzeichnung. Er war am Tag der Unterzeichnung schwer erkrankt. Er konnte nicht hier stehen. Er konnte nicht atmen. Er konnte nicht blinzeln.
+
+Sie trat zurück.
+
+Sie zog ihre Finger aus den Öffnungen des Lesegeräts, und die Kammer von 3 214 schloß sich, wie eine Tür sich schließt, und sie stand wieder im Tiefenspeicher, vor dem Tisch aus schwarzem Stein, und die Röhre lag in der Halterung, und das milchige Material leuchtete noch schwach, als hätte es sich angestrengt.
+
+»Und?« fragte Vel.
+
+Neris antwortete nicht.
+
+Sie nahm die Röhre aus der Halterung, trug sie zurück zu Fach vierundzwanzig, legte sie hinein, und nahm eine andere Röhre heraus, die daneben stand, mit einer anderen Nummer, einer anderen Aufnahme, einer anderen Rekonstruktion.
+
+Sie legte sie in die Halterung. Sie legte ihre Finger in die Öffnungen.
+
+Und die Kammer von 3 214 öffnete sich wieder.
+
+Es war dieselbe Kammer. Es war derselbe Kanzler. Es waren dieselben Zeugen. Und Halv Dren stand hinter dem Kanzler, und er atmete, und er blinzelte, und er lebte.
+
+Neris sah genauer hin. Sie sah die Falten seines Gewandes, die Art, wie der Stoff an der Schulter lag, die Art, wie sein Gewicht auf dem linken Fuß ruhte, die Art, wie seine Lippen sich bewegten, als flüstere er etwas, das die Rekonstruktion nicht aufbewahrt hatte. Sie sah die Poren seiner Haut. Sie sah die Adern auf dem Handrücken. Sie sah, wie sich sein Kehlkopf bewegte, als er schluckte.
+
+Und dachte: Eine Rekonstruktion, die einen Toten atmen läßt, ist keine Rekonstruktion. Sie ist eine Erfindung.
+
+Sie zog die Finger heraus. Sie nahm die dritte Röhre. Sie legte sie ein. Sie legte die Finger ein.
+
+Die Kammer öffnete sich zum dritten Mal, und zum dritten Mal stand Halv Dren hinter dem Kanzler, und zum dritten Mal atmete er, und zum dritten Mal blinzelte er, und zum dritten Mal lebte er, und Neris sah es, und sie konnte es nicht wegkalibrieren.
+
+Sie versuchte es.
+
+Sie versuchte, die Rekonstruktion zu justieren, wie sie es in zwölf Jahren gelernt hatte: die Tiefe der Schärfe zu verändern, die Perspektive zu verschieben, die Lichtverhältnisse zu korrigieren, die Zeitachse zu dehnen und zu stauchen. Sie versuchte, den Mann aus dem Bild zu entfernen, indem sie ihn nicht ansah, indem sie auf den Kanzler sah, auf die Feder, auf die vierundsechzig Zeilen. Aber der Mann blieb. Er stand hinter dem Kanzler, und er atmete, und sein Atem war das einzige Geräusch in der Kammer, ein leises, regelmäßiges Heben und Senken, das nicht aufhörte.
+
+Sie versuchte, die Aufnahme zu wechseln, eine andere Röhre zu nehmen, eine frühere Rekonstruktion, eine spätere. Sie fand in Fach vierundzwanzig insgesamt sieben Röhren, und sie legte alle sieben ein, eine nach der anderen, und in allen sieben stand Halv Dren hinter dem Kanzler, und in allen sieben atmete er, und in allen sieben blinzelte er, und in allen sieben lebte er.
+
+Und dachte: Sieben Rekonstruktionen. Siebenmal dasselbe. Kein Fehler in der Aufnahme. Kein Fehler im Lesegerät. Kein Fehler in meiner Hand.
+
+Sie setzte sich auf den Boden vor dem Tisch aus schwarzem Stein, weil ihre Beine nicht mehr trugen, und sie sah auf die sieben Röhren, die nebeneinander in der Halterung lagen, und sie sah auf ihre Hände, die auf ihren Knien lagen, und sie sah auf die Nummern an den Fächern, die im Licht der Lampe schimmerten.
+
+»Neris«, sagte Vel. »Was hast du gesehen?«
+
+Sie sah auf. Vel stand am Ende des Ganges, die Lampe in der Hand, und sein Gesicht war ruhig, aber seine Augen waren nicht ruhig, und sie sah, daß er etwas wußte, oder etwas ahnte, oder etwas fürchtete.
+
+»Ich habe einen Mann gesehen«, sagte Neris, »der nicht dort sein konnte.«
+
+Vel schwieg.
+
+»Halv Dren«, sagte Neris. »Er steht in allen sieben Rekonstruktionen hinter dem Kanzler. Er atmet. Er blinzelt. Er lebt. Und er starb fünf Tage nach der Unterzeichnung, und am Tag der Unterzeichnung war er schwer erkrankt, und die Chronik sagt, er habe das Bett nicht verlassen können.«
+
+Vel setzte die Lampe auf den Tisch. Er setzte sich nicht. Er blieb stehen, und er sah auf die Röhren, und er sagte: »Vielleicht ist die Chronik falsch.«
+
+»Die Chronik ist ein Wasserbuch«, sagte Neris. »Wasserbücher werden von den Unterglas-Hydrologen geführt, nicht von der Kontinuität. Sie werden nicht rekonstruiert. Sie werden geschrieben, am Tag, an dem das Wasser fließt, und sie werden versiegelt, und sie werden nicht geöffnet, außer von denen, die das Wasser messen.«
+
+»Vielleicht hat der Hydrologe sich geirrt.«
+
+»Ein Hydrologe irrt sich nicht über den Tod eines Mannes. Er schreibt auf, wer am Wasser war und wer nicht. Und Halv Dren war nicht am Wasser. Er war krank. Er starb. Das steht im Wasserbuch, und das Wasserbuch ist älter als jede Rekonstruktion.«
+
+Vel schwieg wieder. Er sah auf die Röhren, und dann sah er auf Neris, und dann sagte er, leise: »Was wirst du tun?«
+
+Neris stand auf. Sie sammelte die sieben Röhren ein, eine nach der anderen, und legte sie zurück in Fach vierundzwanzig, und sie achtete darauf, daß sie in derselben Ordnung lagen, in der sie sie vorgefunden hatte. Dann nahm sie den Schlüssel, und sie ging zur Tür, und sie wartete, bis Vel die Lampe genommen hatte, und sie stieg die Treppe hinauf, vierhundert Schritte, und mit jedem Schritt wurde die Luft wärmer und der Geruch wechselte zurück von nassem Stein zu Papier und Staub, und als sie oben ankam, im Lesesaal, war das Licht durch die Schächte schon rot, und der Tag war zur neunten Stunde.
+
+Sie setzte sich an Tisch zwei, unter den dritten Lichtschacht, und sie legte die Hände auf die Platte, und sie sah auf den Bogen Papier, der noch dort lag, der Abtretungsvertrag von 3 214, mit seinen vierundsechzig Zeilen und seinen siebenundzwanzig Siegeln und seinen drei Zeugen, und sie sah auf den Namen Halv Dren in der vierzigsten Zeile, der nicht von der Hand des Kanzlers war.
+
+Und dachte: Der Vertrag ist gefälscht. Und die Rekonstruktion ist gefälscht. Und beide Fälschungen sagen dasselbe: Halv Dren war dabei. Halv Dren war anwesend. Halv Dren hat gesehen, was in der Kammer geschah.
+
+Und dachte: Aber Halv Dren war nicht da. Er war krank. Er starb. Und jemand hat seinen Namen in den Vertrag gesetzt und sein Bild in die Rekonstruktion, damit es aussieht, als wäre er dabeigewesen.
+
+Und dachte: Warum?
+
+Sie saß eine Weile still. Das Archiv summte um sie, das tiefe Brummen der Schächte, das feine Summen der Lesegeräte, und in der Ferne hörte sie Vel gehen, seine Schritte auf dem Stein, und sie hörte, wie er die Tür zum Gang schloß, und sie hörte, wie das Schloß einrastete, ein leises, endgültiges Geräusch.
+
+Dann stand sie auf.
+
+Sie ging nicht nach Hause. Sie ging nicht in die Kantine. Sie ging zum Aufzug, der zum Palast führte, und sie drückte den Knopf, der mit dem Siegel des Oberhaupts versehen war, und sie wartete, bis die Kabine kam, und sie stieg ein, und sie fuhr nach oben, durch die Stockwerke des Archivs, durch die Stockwerke der Kanzlei, bis in den Palast von Nemet, wo Ilyan Dheran saß.
+
+Sie wurde vorgelassen, sofort, ohne Wartezeit, und das war ein Zeichen, das sie bemerkte, denn niemand wird sofort vorgelassen, außer man erwartet ihn.
+
+Dheran saß in einem Raum, der groß war und leer, mit einem Fenster, das auf die Stadt sah, und die Stadt lag im roten Licht der untergehenden Sonne, und die Türme warfen Schatten, die aussahen wie Finger. Er saß an einem Tisch aus dunklem Holz, und vor ihm lagen Papiere, und er las nicht in ihnen, sondern er sah auf, als Neris eintrat, und er sah sie an, lange, und dann sagte er: »Du bist früh.«
+
+»Ich habe etwas gefunden«, sagte Neris.
+
+»Setz dich.«
+
+Sie setzte sich. Der Stuhl war weich, weicher als die Stühle im Archiv, und sie saß nicht gern darauf, weil sie das Gefühl hatte, einzusinken.
+
+»Sprich«, sagte Dheran.
+
+Neris sprach. Sie sprach von dem Bogen, von der Rasur unter dem Wort »freiwillig«, von dem überschriebenen Namen, von dem leeren Raum unter Halv Drens Namen und dem Vermerk »Abwesend. Entschuldigt.«. Sie sprach von der Chronik von 3 214, von der Erkrankung, vom Tod fünf Tage später, von der abweichenden Tinte und der fremden Handschrift in der vierzigsten Zeile. Und dann sprach sie vom Tiefenspeicher. Sie sprach von den sieben Röhren, von den sieben Rekonstruktionen, von dem Mann, der in allen sieben hinter dem Kanzler stand, und sie sprach von seinem Atem, von seinem Blinzeln, von seinem Leben.
+
+Sie sprach ruhig. Sie sprach sachlich. Sie sprach, wie sie immer sprach, wenn sie Befunde vortrug, mit dem Finger unter der Zeile, mit der Stimme eines Menschen, der prüft und nicht urteilt.
+
+Dheran hörte zu.
+
+Er hörte zu, ohne sie zu unterbrechen, und sein Gesicht blieb ruhig, und seine Hände lagen auf dem Tisch, und sie bewegten sich nicht. Als sie fertig war, schwieg er eine Weile. Dann sagte er: »Du hast die Röhren geöffnet.«
+
+»Ja.«
+
+»Ohne Genehmigung.«
+
+»Der Auftrag verbietet Kopplungen ohne Genehmigung«, sagte Neris. »Er verbietet nicht das Lesen der Speicher, die zum Gegenstand der Prüfung gehören.«
+
+Dheran sah sie an. Seine Augen waren dunkel, und sie waren nicht alt, obwohl sein Gesicht alt war, und sie waren nicht müde, obwohl seine Schultern müde waren. »Du hast recht«, sagte er. »Der Auftrag verbietet es nicht.«
+
+Er stand auf. Er ging zum Fenster, und er sah auf die Stadt, und die Stadt lag im roten Licht, und die Türme warfen Schatten, die aussahen wie Finger. »Was schließt du daraus?« fragte er.
+
+»Daß der Vertrag gefälscht ist«, sagte Neris. »Daß die Rekonstruktion gefälscht ist. Daß jemand dafür gesorgt hat, daß Halv Dren in beiden erscheint, obwohl er in keinem sein konnte.«
+
+»Und wer?«
+
+»Das weiß ich nicht.«
+
+»Und warum?«
+
+»Das weiß ich auch nicht.«
+
+Dheran drehte sich um. Er sah sie an, und sein Gesicht war noch ruhig, aber in seinen Augen lag etwas, das Neris nicht deuten konnte, eine Spur von etwas, das nicht Ruhe war. »Neris«, sagte er. »Du bist Archivforensikerin des zweiten Ranges. Du prüfst, was in den Akten steht. Du prüfst nicht, was du denkst.«
+
+»Ich prüfe, was in den Akten steht«, sagte Neris. »Und was in den Akten steht, hält nicht.«
+
+Dheran schwieg.
+
+Er ging zurück zum Tisch. Er setzte sich. Er nahm eines der Papiere, die vor ihm lagen, und er sah darauf, ohne es zu lesen, und dann legte er es nieder, und er sagte: »Die Rekonstruktion von 3 214 wurde vor sechzig Jahren erstellt. Weißt du, wer sie erstellt hat?«
+
+»Nein.«
+
+»Ich«, sagte Dheran.
+
+Neris sah ihn an.
+
+»Ich war damals jung«, sagte Dheran. »Ich war Archivar des dritten Ranges, und ich bekam den Auftrag, die Rekonstruktion zu prüfen, weil es Zweifel gab. Es gab Zweifel an der Echtheit des Vertrags. Es gab Zweifel an der Zeugenliste. Und ich habe die Rekonstruktion geprüft, und ich habe sie für gültig erklärt.«
+
+»Und Halv Dren?«
+
+»Ich habe ihn gesehen«, sagte Dheran. »Ich habe ihn gesehen, wie du ihn gesehen hast. Er stand hinter dem Kanzler, und er atmete, und er lebte. Und ich habe die Chronik geprüft, und ich habe den Widerspruch gefunden, und ich habe ihn gemeldet.«
+
+»Wem?«
+
+»Dem Oberhaupt«, sagte Dheran. »Dem Oberhaupt der Kontinuität Nemet, das damals amtierte. Und das Oberhaupt hat mir befohlen, die Rekonstruktion für gültig zu erklären, und ich habe gehorcht.«
+
+Neris saß still.
+
+»Das ist sechzig Jahre her«, sagte Dheran. »Und in sechzig Jahren habe ich oft daran gedacht. Ich habe gedacht, daß ich hätte widerstehen sollen. Ich habe gedacht, daß ich hätte laut sagen sollen, was ich gesehen habe. Aber ich habe es nicht getan, und der Vertrag ist gültig geblieben, und auf ihm ruht alles, was wir jetzt verhandeln.«
+
+»Und jetzt?« fragte Neris.
+
+»Jetzt«, sagte Dheran, »hast du dasselbe gefunden, was ich gefunden habe. Und jetzt frage ich dich: Was sollen wir tun?«
+
+Neris sah ihn an. Sie sah sein Gesicht, das alt war, und seine Augen, die nicht alt waren, und seine Hände, die auf dem Tisch lagen, ruhig, zu ruhig, und sie dachte: Er hat es gewußt. Er hat es sechzig Jahre gewußt. Und er hat mir den Auftrag gegeben, es zu finden.
+
+Und dachte: Warum?
+
+»Ich weiß es nicht«, sagte sie.
+
+»Du weißt es nicht«, wiederholte Dheran. »Du bist Archivforensikerin. Du prüfst, was in den Akten steht. Und was in den Akten steht, hält nicht. Und du weißt nicht, was wir tun sollen.«
+
+»Nein«, sagte Neris.
+
+Dheran sah sie eine Weile an. Dann sagte er, leise: »Ich auch nicht.«
+
+Er stand auf. Er ging zum Fenster, und die Sonne war untergegangen, und die Stadt lag im blauen Licht der Dämmerung, und die Türme waren schwarz, und die Schatten waren verschwunden. »Geh nach Hause«, sagte er. »Schlaf. Morgen sehen wir weiter.«
+
+Neris stand auf. Sie ging zur Tür, und als sie die Hand auf die Klinke legte, sagte Dheran, ohne sich umzudrehen: »Neris.«
+
+»Ja.«
+
+»Du hast die Röhren ohne Genehmigung geöffnet. Das war ein Fehler.«
+
+»Ja«, sagte Neris.
+
+»Aber es war der richtige Fehler«, sagte Dheran. »Und das ist das Schlimmste, was einem Archivar passieren kann.«
+
+Neris öffnete die Tür. Sie ging hinaus. Sie ging durch die Gänge des Palastes, durch die Stockwerke der Kanzlei, durch die Stockwerke des Archivs, bis sie auf die Straße trat, und die Luft war kühl, und der Himmel war dunkel, und über der Stadt standen die Sterne, und sie sah sie nicht.
+
+Sie ging nach Hause.
+
+Und dachte: Er hat es gewußt. Sechzig Jahre. Und er hat gehorcht.
+
+Und dachte: Und ich habe gehorcht. Zwölf Jahre. Ich habe geprüft, was in den Akten stand, und ich habe es für gültig erklärt, und ich habe nicht gefragt, warum die Akten so waren, wie sie waren.
+
+Und dachte: Was, wenn ich nicht die erste bin, die es findet? Was, wenn ich nur die nächste bin, die gehorcht?
+
+Sie blieb stehen, auf der Straße, vor ihrem Haus, und sie sah auf ihre Hände, und ihre Hände waren ruhig, aber sie waren nicht ruhig, und sie wußte, daß sie in dieser Nacht nicht schlafen würde.
+
+Und dachte: Ein Dokument hält oder es hält nicht. Und was nicht hält, ist nichts.
+
+Und dachte: Aber was, wenn das, was nicht hält, alles ist, was wir haben?
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/ashkara/assets/chapter/chapter-004.jpg" alt="Kapitel 004" />
+</div>
+
+# Viertes Kapitel {#kapitel-004 .chapter-heading .centered}
+
+Die Messstation lag unter dem dritten Glasgewölbe, wo die Luft schwer war von Feuchtigkeit und dem Geruch von Stein, der niemals trocknet. Die Hydrologin ging zwischen den Röhren hindurch, die aus dem Boden wuchsen wie die Wurzeln eines metallenen Waldes. Ihre Schritte klangen dumpf auf den Platten, die seit vier Generationen niemand mehr erneuert hatte. Über ihr spannte sich das Glasgewölbe, und durch seine milchigen Scheiben fiel das Licht der fernen Sonne, grau und gebrochen, wie durch eine Decke aus Wasser.
+
+Sie blieb vor der Anzeigetafel stehen.
+
+Das Licht der Anzeige lief in dünnen, grünen Linien über die Oberfläche, und die Hydrologin betrachtete die Kurven, die sich dort zeichneten, und die Kurven waren nicht, was sie sein sollten. Der Wasserweg führte seit dreihundert Jahren mit einer Schwankung von weniger als einem Handbreit in einem Monat. Nun schwankte er um drei Handbreit, und das in acht Tagen.
+
+Und dachte: Das ist nicht der Regen. Die oberen Becken führen zu wenig.
+
+Sie zog den Schieber der Messkammer auf und ließ eine Probe des Wassers in die Prüfröhre. Das Wasser war klar, aber es war zu klar, und es trug einen Beigeschmack von Gips, den sie kannte, und den sie nicht mochte. Sie hielt die Röhre gegen das Licht. In der Röhre schwebten feine, weiße Flocken.
+
+Und dachte: Tiefenwasser. Aus den unteren Schichten. Es kommt hoch.
+
+Sie stellte die Röhre auf den Tisch und nahm das Protokollbuch. Sie schrieb das Datum und die Messwerte, und als sie schrieb, hörte sie Schritte auf der Treppe.
+
+Es war ihr Bruder Samel.
+
+Er kam die gewundene Treppe herab, die von den Siedlungen oben in die Tiefe führte, und er trug den schweren Mantel der Vertragler, und in seiner Hand hielt er ein zusammengerolltes Papier. Er war größer als sie, und sein Gesicht war weicher als ihr eigenes, und als er auf sie zukam, dachte sie: Er hat den Vertrag schon unterschrieben. Er hat es mir nicht gesagt.
+
+»Du bist früh hier«, sagte sie.
+
+»Ich bin früh, weil ich mit dir reden muß«, sagte Samel. Er blieb vor der Anzeigetafel stehen, und er sah die grünen Linien, und er verstand sie nicht. »Die Zahlen sehen anders aus als sonst.«
+
+»Ja«, sagte die Hydrologin.
+
+»Was bedeutet es?«
+
+»Das bedeutet, daß der Wasserweg nicht mehr so läuft, wie er gelaufen ist«, sagte sie. »Es bedeutet, daß etwas in der Tiefe sich bewegt. Und das bewegt sich, weil oben jemand gräbt, oder bohrt, oder zu viel aus den Becken zieht. Ich weiß es noch nicht. Ich messe es noch.«
+
+Samel rollte das Papier auf und hielt es ihr hin. »Sie haben die Grenze gezogen«, sagte er. »Vorgestern. Am Rand des Ostbeckens, genau dort, wo die alten Leitungen in das Sickerfeld von Nemet laufen. Dheran hat zugestimmt. Und Tarn hat zugestimmt. Und dreiundzwanzig von unseren Familien haben unterschrieben.«
+
+Sie nahm das Papier. Sie las es nicht. Sie sah nur die Siegel und die Zahlen.
+
+»Und du?« fragte sie.
+
+»Ich habe unterschrieben«, sagte Samel. »Was hätte ich tun sollen? Sie bieten uns Pumpen. Pumpen, die nach sechs Jahren Eigentum sind. Fördererlöse, die bis in die dritte Generation reichen. Arbeit für die Jungen, die nichts zu tun haben. Arbeit für dich, wenn du willst.«
+
+Und dachte: Er weiß es nicht. Er weiß nicht, was ich heute gemessen habe. Er sieht die Zahlen nicht, und wenn ich sie ihm zeige, versteht er sie nicht, und wenn er sie versteht, will er sie nicht verstehen.
+
+»Samel«, sagte sie. »Die Pumpen ziehen aus denselben Schichten, aus denen der Wasserweg gespeist wird. Wenn sie auf sechzig Jahre angesetzt werden, dann ziehen sie sechzig Jahre lang. Und was unten verschwindet, kommt oben nicht mehr an. Kommt hier nicht mehr an.«
+
+»Sie sagen, die Tiefe ist unerschöpflich«, sagte Samel.
+
+»Sie sagen es«, sagte die Hydrologin. »Aber ich messe es. Und was ich messe, ist nicht unerschöpflich. Es ist drei Handbreit in acht Tagen.«
+
+Samel schwieg. Dann sagte er: »Neris Tal ist im Archiv. Ich habe gehört, sie prüft den alten Vertrag. Sie suchen nach einem Fehler. Sie suchen nach einem Grund, alles zu stoppen. Vielleicht finden sie einen. Aber selbst wenn sie einen finden – der Wasserweg läuft nicht besser, wenn wir keine Pumpen haben. Dann läuft er immer noch schlecht, und wir haben kein Geld, und die Kinder gehen in die Archive und nicht in die Siedlungen.«
+
+Er steckte das Papier ein.
+
+»Du denkst in Kurven«, sagte er. »Ich denke in Siedlungen. Beides ist richtig, und beides ist nicht genug. Ich gehe jetzt hoch. Kanna wartet mit dem Essen.«
+
+Er drehte sich um und ging die Treppe hinauf, und die Hydrologin hörte seine Schritte leiser werden und verstummen. Die Röhren summten leise, das Wasser lief durch die gläsernen Adern, und über ihr spannte sich das Gewölbe, und das Licht darauf wurde blasser.
+
+Und dachte: Er hat unterschrieben. Mein Bruder hat unterschrieben. Und die Hälfte der Siedlung hat unterschrieben. Und ich soll sagen, daß sie Unrecht haben, weil ich es gemessen habe.
+
+Sie ging zum Protokolltisch und setzte sich. Sie schlug das Wasserbuch auf, das vor ihr lag. Es war das Wasserbuch des Ostbeckens, geführt seit dem Jahr der ersten Besiedlung, und die Seiten waren gelblich, und die Tinte war braun. Sie blätterte bis zum Jahr 3214.
+
+Dort stand, in der Handschrift der damaligen Hydrologin: Am Tag der Zeichnung wurde der Wasserweg gesenkt. Um fünf Handbreit. Ursache unbekannt. Die Abgesandten von Nemet sagten, es sei Zufall, und verlangten, die Messung nicht in den Bericht aufzunehmen. Wir haben sie aufgenommen.
+
+Und dachte: Fünf Handbreit an dem Tag, an dem sie den Vertrag gezeichnet haben. Fünf Handbreit, und sie haben es nicht aufgenommen, und wir haben es behalten.
+
+Sie schlug das Wasserbuch des Westbeckens auf, das nachfolgende Jahr. Und sie fand die Klage der Siedler: Das Wasser im Westfeld sinkt weiter. Wir können das Feld nicht mehr bewässern. Und in der Randspalte, von derselben Hand: Nemet bietet neue Leitungen an, aus den Tiefenschichten. Zwei Familien nehmen an. Vier nicht.
+
+Die Hydrologin legte die Hand auf die Seite. Sie fühlte das Papier unter ihren Fingern, das rauhe, alte Papier, und sie dachte an ihren Urgroßvater, der dieses Buch geführt hatte, ehe ihre Mutter es führte, ehe sie es führte, und der die vier Familien gekannt hatte, die nicht angenommen hatten.
+
+Und dachte: Vier Familien. Ihre vier Felder. Sie haben dreißig Jahre überlebt, und dann sind sie gegangen, und niemand weiß, wohin.
+
+Sie blieb am Tisch, und die Anzeige lief weiter, und die Kurven stiegen, und sie sah sie an. Nach einer Stunde stand sie auf und ging zur Ostschleuse, wo Nemet den Anfang der neuen Grenzleitungen errichtete, und wo heute die Prüfkommission zusammentreten sollte. Sie hatte niemanden gerufen. Sie hatte niemanden gebeten. Sie ging, weil sie gehen mußte, weil die Zahlen in ihr waren und nicht mehr aus ihr herausgingen.
+
+Die Ostschleuse lag eine halbe Stunde Fußwegs unter dem Gewölbe. Der Gang senkte sich, und die Luft wurde kühler, und die Hydrologin hörte das Ticken der Messuhren, die alle zwanzig Schritte in die Wand eingelassen waren. Sie tastete nach der Lampe an ihrem Gürtel und schaltete sie ein, und der Strahl schnitt durch die Dunkelheit und zeigte das Wasser auf den Platten, das hier oben stand, obwohl es hier nicht stehen sollte.
+
+Und dachte: Es steht auf. Hier steht es auf. Der Weg drückt nach oben.
+
+An der Schleuse erwarteten sie drei Männer. Einer war von Nemet gesandt, ein Schreiber in grauem Mantel, der ein Verzeichnis der geplanten Röhren hielt. Zwei waren Siedler aus dem Ostviertel, alte Männer mit rissigen Händen, die kamen, weil sie sehen wollten, was geschehen sollte. Der Schreiber sah sie an und sagte: »Du bist die Hydrologin der Messstation.«
+
+»Ja«, sagte sie.
+
+»Du bist nicht geladen«, sagte der Schreiber. »Diese Prüfung ist unter den Vertragsparteien vereinbart. Sie ist nicht für Öffentlichkeit.«
+
+»Ich bin keine Öffentlichkeit«, sagte die Hydrologin. »Ich bin die Hydrologin von Unterglas. Und wenn unter dieser Schleuse Röhren gelegt werden, dann liegt der Wasserweg, den ich messe, über diesen Röhren. Was hier verlegt wird, messe ich morgen. Also habe ich ein Recht, jetzt zu sehen.«
+
+Der Schreiber sah sie an. Dann öffnete er das Verzeichnis und zeigte ihr die Karte der geplanten Linien, und die Hydrologin sah die schwarzen Striche, die sich durch das Gewölbe zogen, und sie sah zwei Striche, die genau durch das Sickerfeld liefen, das die westlichen Siedlungen speiste.
+
+»Hier«, sagte sie und legte den Finger auf den Strich. »Hier steht die alte Sickerader. Wenn ihr hier durchbohrt, laufen die Becken leer. Nicht in einem Jahr. In zwanzig. Aber sie laufen leer.«
+
+Der Schreiber sah auf die Karte, dann auf sie. »Das Verzeichnis ist geprüft«, sagte er. »Von Nemet geprüft. Von den Vertraglern geprüft. Von den Schiedsrichtern geprüft. Die Karte ist gültig.«
+
+»Die Karte ist nicht das Wasser«, sagte die Hydrologin.
+
+Die beiden alten Männer sahen sie an, und sie sahen einander an, und der eine sagte: »Wir haben den Vertrag nicht unterschrieben. Wir wollten den Wasserweg behalten. Aber wir sind nur zwei. Die andern sind gegangen.«
+
+»Ich weiß«, sagte die Hydrologin.
+
+Und dachte: Ich bin auch nur eine. Ich habe kürzlich gemessen, und was ich gemessen habe, wird nicht gelesen. Und was nicht gelesen wird, zählt nicht.
+
+Sie ging in die Schleuse hinein, wo die alte Wasseruhr hing, die die Ostschleuse seit vierhundert Jahren registrierte. Die Uhr war ein Messinggehäuse, groß wie ein Brustkorb, und darunter lagen die Platten des Schreibers, die in feinen Strichen Wasserstand und Zeit festhielten. Sie zog die oberste Platte ab und hielt sie gegen die Lampe. Sie sah die Linie des Wasserwegs, der gerade verlief, wie er seit Jahrzehnten verlief, und am Rand, oberhalb des Datums von heute, sah sie eine zweite Linie, die nicht dorthin gehörte, denn sie war von anderer Hand gezogen, und sie war höher.
+
+Und dachte: Da ist sie. Da ist die zweite Aufzeichnung. Jemand hat nachträglich gemessen und die Messung versteckt.
+
+Sie nahm die Platte mit. Sie sagte es nicht. Sie legte sie in ihre Tasche, und der Schreiber war mit seinem Verzeichnis beschäftigt, und die alten Männer standen am Eingang und schauten auf das Wasser, das auf den Platten stand, und keiner sah, was sie tat.
+
+Dann ging sie zurück, den langen Gang hinauf, und als sie unter dem zweiten Gewölbe war, hörte sie hinter sich Schritte, die zu ihren Schritten paßten, und sie blieb stehen. Es war ein Bote in den Farben Nemets, ein junger Mann, der atemlos war.
+
+»Die Hydrologin?« fragte er.
+
+»Ja.«
+
+»Eine Nachricht von der Archivforensikerin«, sagte er. »Neris Tal. Sie bittet dich, morgen zu ihr zu kommen. Sie hat Fragen zu den Wasserbüchern. Zu den Büchern von 3214.«
+
+Die Hydrologin sah den Boten an. Und dachte: Sie weiß es. Sie sucht. Und wenn sie sucht, wird sie finden. Und wenn sie findet, wird alles anders.
+
+»Sag ihr«, sagte sie, »daß ich kommen werde.«
+
+Der Bote nickte und lief zurück, und die Hydrologin stand allein unter dem Gewölbe, und über ihr liefen die dünnen grünen Linien der Anzeige, und unter ihr stand das Wasser auf den Platten, und sie wußte, in diesem Augenblick, daß sie nicht mehr nur messen würde.
+
+Sie nahm die Platte aus der Tasche und hielt sie gegen die Lampe, und die zweite Linie war noch da, und sie war höher als die erste, und sie war nicht geschrieben von der Hand der Hydrologin, die heute Dienst hatte, sondern von einer Hand, die vor langer Zeit schrieb. Und die Linie war desto höher, je tiefer die Schichten wurden.
+
+Und dachte: Es ist nicht heute. Es hat lange angefangen. Und niemand hat es aufgeschrieben.
+
+Sie ging nach oben. Das Licht der Anzeige wurde blasser, und die Gewölbe wurden höher, und die Luft wurde wärmer, und als sie an die Siedlungen kam, sah sie die Kinder, die zwischen den Röhren spielten, und die Frauen, die Wäsche aufhängten, und die Männer, die Netze flickten, und sie sah die Pumpe, die Nemet geliefert hatte, die erste Pumpe, die auf dem Marktplatz stand, glänzend und neu, und sie sah die Schlange der Leute, die warteten, um Wasser zu holen.
+
+Und dachte: Sie haben die Pumpe angenommen. Sie haben nicht gefragt, woher das Wasser kommt, das die Pumpe holt. Sie haben nur gefragt, ob es kommt.
+
+Sie ging an der Pumpe vorbei, und eine Frau rief sie an: »Hydrologin. Der Druck fällt. Seit gestern fällt der Druck. Was sollen wir tun?«
+
+Die Hydrologin blieb stehen. Sie sah die Frau an, und sie sah die Kinder an der Pumpe, und sie sagte: »Spart Wasser. Füllt die Zisternen. Ich melde es.«
+
+»Wem meldest du es?« fragte die Frau.
+
+»Ich melde es«, sagte die Hydrologin.
+
+Und dachte: Wem melde ich es. Dem Schreiber, der mich nicht geladen hat? Dheran, der das Verzeichnis geprüft hat? Meinem Bruder, der unterschrieben hat?
+
+Sie ging weiter, zu ihrem Haus am Rand der Siedlung, und sie trat ein, und sie legte die Platte auf den Tisch, und sie holte ihr eigenes Protokollbuch, und sie setzte sich, und sie schrieb, ohne Licht zu machen, denn das Licht der Anzeige reichte, durch das kleine Fenster.
+
+Sie schrieb die Messungen von heute, und die Messungen von gestern, und die fünf Handbreit aus dem Jahr 3214, und die Kurven der West- und Ostbecken, und die Sickerader, und die neue Pumpe, und den Druck, der fiel, und die zweite Linie auf der Platte. Und sie schrieb nicht, was sie dachte. Sie schrieb nur, was war.
+
+Als sie fertig war, las sie es. Es war ein Bericht von achtzehn Seiten. Sie hatte ihn in drei Stunden geschrieben, und die Anzeige vor dem Fenster war noch immer grün, und die Kurven waren noch immer zu hoch.
+
+Und dachte: Wenn ich das abschicke, dann kann niemand mehr sagen, er habe es nicht gewußt. Wenn ich es nicht abschicke, dann habe ich es gewußt und geschwiegen.
+
+Sie stand auf und ging zum Fenster. Draußen stand die Siedlung, und die Siedler schliefen, und die Röhren summten, und die Pumpe lief, und das Wasser, das die Pumpe holte, floß aus der Tiefe, und die Tiefe war es, die ihre Zahlen maßen.
+
+Und dachte: Was, wenn die Pumpe morgen läuft und übermorgen läuft und in zwanzig Jahren läuft, aber das Sickerfeld trocken ist, und das Ostviertel ist trocken, und die Wasserbücher sind voll, und niemand liest sie? Was, wenn die Kontinuitäten ihren Vertrag halten, und der Wasserweg hält nicht? Was, wenn ich die einzige bin, die es sieht, und ich sehe es, und ich sage es nicht, und sage es nicht, und sage es nicht?
+
+Sie legte die Hand auf das Protokollbuch, das auf dem Tisch lag. Es war dunkel, das Buch, und der Tisch war alt, und das Fenster war klein, und durch das Fenster sah sie die Lichter der Siedlung und über ihnen die schwarzen Röhren, die in das Gewölbe wuchsen, wie Wurzeln, die in den Himmel wachsen.
+
+Und dachte: Neris Tal wird morgen von mir wissen wollen, was in den Wasserbüchern steht. Und wenn ich ihr sage, was ich weiß, dann sage ich es einer Archivforensikerin, und die Archivforensikerin wird es einem Schiedsrichter sagen, und der Schiedsrichter wird es nicht hören wollen, denn die Verträge sind gültig, und die Pumpen sind geliefert, und mein Bruder hat unterschrieben.
+
+Und dachte: Aber wenn ich es ihr nicht sage, dann sage ich zum zweiten Mal nichts, und das erste Mal war, als ich dreizehn war, und mein Vater sagte, die Messtafel sei durchgebrannt, und ich wußte, daß sie nicht durchgebrannt war, und ich habe geschwiegen, und er hat mich angesehen, und ich habe weiter geschwiegen.
+
+Sie nahm die Lampe und ging aus dem Haus. Sie ging durch die Siedlung, an der Pumpe vorbei, an den Kindern vorbei, die schliefen, und sie ging bis zum Rand der Ostschleuse, wo das Wasser auf den Platten stand. Sie setzte sich auf den Rand des Beckens und hielt die Lampe in beide Hände, und der Strahl fiel auf das Wasser, und das Wasser war dunkel und unbewegt.
+
+Über ihr, unter dem Glasgewölbe, war die Nacht hereingebrochen. Die Sterne waren zu sehen, nicht wie oben, nicht wie über Nemet, sondern schwach und grünlich, denn das Glas färbte sie. Die Hydrologin sah sie lange an. Dann stand sie auf, und sie ging nach Hause, und sie schlief nicht.
+
+Und dachte: Morgen gehe ich zu Neris Tal. Und ich sage ihr, was ich gemessen habe. Und dann wird sie fragen. Und ich werde antworten. Und dann wird es kein Zurück mehr geben, nicht für mich, und nicht für Samel, und nicht für die Siedlung. Und was dann geschieht, weiß ich nicht.
+
+Sie legte sich auf das Bett, und die Decke war kalt, und das Haus war still, und draußen lief die Pumpe, und sie hörte sie, und sie zählte die Hübe, bis sie nicht mehr zählen konnte.
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/ashkara/assets/chapter/chapter-005.jpg" alt="Kapitel 005" />
+</div>
+
+# Fuenftes Kapitel {#kapitel-005 .chapter-heading .centered}
+
+Der Erste Schiedsrichter saß in dem kleinen Vorbereitungsraum hinter dem großen Sitzungssaal, und vor ihm auf dem Tisch lag der Abtretungsvertrag, den die Kontinuitäten zur Abstimmung vorgelegt hatten. Der Raum war kahl, die Wände aus dunklem Stein, und das einzige Licht kam von einer einzelnen Deckenleuchte, die einen gelblichen Kreis auf die Tischplatte warf. Es roch nach altem Papier, nach Metall und nach der trockenen Kühle, die aus den unterirdischen Gängen von Ashkar aufstieg.
+
+Der Schiedsrichter war ein alter Mann. Sein Gesicht war schmal, die Haut lag eng an den Knochen, und seine Hände waren ruhig, wie Hände es werden, wenn sie ein Leben lang Dokumente gehalten und nichts anderes getan haben. Er trug die graue Robe des Schiedsamts, ohne Rangabzeichen, ohne Siegelring. Das war Vorschrift. Ein Schiedsrichter, der ein Zeichen seiner Herkunft trug, war kein Schiedsrichter mehr.
+
+Vor ihm lagen drei Mappen. Die erste enthielt den Abtretungsvertrag von 3 214 in der Abschrift, die Nemet für die Verhandlung bereitgestellt hatte. Die zweite enthielt den neuen Fördervertrag über sechzig Jahre, den Tarn forderte. Die dritte enthielt die Verfahrensordnung, nach der die Abstimmung durchzuführen war, und diese dritte Mappe war die einzige, die er ohne Vorbehalt als echt anerkannte.
+
+»Der Vertreter Tarns ist noch nicht eingetroffen«, sagte der Kanzleischreiber, der an der Tür stand. Sein Name war Belen Sar, und er diente dem Schiedsgericht seit vierzehn Jahren. Er war ein kleiner Mann mit einer hohen Stimme, und er sprach, als fürchte er, gehört zu werden.
+
+»Tarn wird kommen, wenn Tarn kommen will«, sagte der Schiedsrichter. »Wir beginnen mit der Vorprüfung. Setz dich.«
+
+Belen Sar setzte sich an das Ende des Tisches, die Hände auf den Knien.
+
+Der Schiedsrichter öffnete die erste Mappe und legte die Abschrift des alten Vertrags vor sich hin. Er las sie nicht. Er kannte sie. Er hatte sie gelesen, als er noch ein junger Anwärter war, und er hatte sie gelesen, als man ihn zum Ersten Schiedsrichter ernannte, und er hatte sie in den letzten Wochen dreimal gelesen, weil die Verhandlung über den Tiefenschnitt sich auf nichts anderes stützte als auf dieses eine Dokument.
+
+»Die Kontinuitäten berufen sich auf die Abtretung von 3 214«, sagte er. »Sie berufen sich darauf, daß Unterglas die Förderrechte vor vierhundertzwanzig Jahren freiwillig abgetreten hat. Sie berufen sich darauf, daß die damaligen Vertreter Unterglas' die Abtretung unterzeichnet haben, in Anwesenheit eines Zeugen. Sie berufen sich darauf, daß die Abtretung unbefristet gilt, bis ein neuer Vertrag sie ablöst.«
+
+»So steht es im Vertrag«, sagte Belen Sar.
+
+»So steht es im Vertrag«, wiederholte der Schiedsrichter. »Und so wird es gelten, wenn niemand das Gegenteil beweist.«
+
+Er blätterte die Abschrift durch, bis er zu den Unterschriften kam. Da waren die Namen der Vertreter Nemet, in sauberer Handschrift. Da war der Name des Vertreters Unterglas, der den Vertrag unterzeichnet hatte. Und da war der Name des Zeugen, Halv Dren, mit einem Vermerk darunter, den der Schiedsrichter nicht zum ersten Mal sah.
+
+»Abwesend. Entschuldigt.«
+
+Er sah eine Weile auf diese vier Worte. Dann schloß er die Mappe.
+
+»Die zweite Sache«, sagte er. »Der Tiefenschnitt.«
+
+Belen Sar hob den Kopf. »Die Hydrologen von Unterglas haben eine Eingabe gemacht. Sie liegt seit gestern vor.«
+
+»Ich weiß. Ich habe sie gelesen.«
+
+»Sie verlangen, daß das Tiefenschnitt-Verfahren ausgesetzt wird, bis die Auswirkungen auf die Wasserwege geprüft sind.«
+
+»Ich weiß, was sie verlangen.«
+
+Der Schiedsrichter stand auf und ging zu dem schmalen Fenster, das auf einen Innenhof blickte. Der Hof war leer, und auf den Steinplatten lag Reif. Ashkar war eine kalte Stadt; das Glas der Gewölbe hielt die Wärme nicht, und die Schächte, die in die Tiefe führten, brachten eine Kälte herauf, die durch die Mauern kroch.
+
+»Der Vertrag über die Abtretung ist eine Sache«, sagte er. »Der Tiefenschnitt ist eine andere. Die Hydrologen wollen beides verbinden. Sie wollen, daß ich über den Tiefenschnitt erst entscheide, wenn die Gültigkeit der Abtretung geklärt ist.«
+
+»Und ist das nicht richtig?«, fragte Belen Sar. »Wenn die Abtretung ungültig ist, dann steht Tarn kein Recht auf den Tiefenschnitt zu.«
+
+Der Schiedsrichter drehte sich um. »Es ist logisch«, sagte er. »Es ist nicht verfahrensgemäß.«
+
+»Ich verstehe nicht.«
+
+»Du verstehst sehr gut.« Der Schiedsrichter ging zum Tisch zurück, setzte sich und legte die Hände flach auf die Mappe. »Wenn ich die beiden Verfahren koppele, dann entscheide ich über den Tiefenschnitt nicht nach dem Tiefenschnitt-Verfahren, sondern nach dem Vertragsverfahren. Und das Vertragsverfahren kann Jahre dauern. Jahrzehnte. Die Kontinuitäten würden die Verhandlung aussetzen, die Förderung würde ruhen, und während sie ruht, würde Tarn den Zugang sperren, den es jetzt hält. Unterglas würde verlieren, was es jetzt hat, ohne zu gewinnen, was es will.«
+
+»Aber wenn die Abtretung gefälscht ist«, sagte Belen Sar, und seine hohe Stimme zitterte, »dann ist der Tiefenschnitt ohnehin rechtswidrig.«
+
+Der Schiedsrichter sah ihn an. Es war ein langer Blick, und in ihm lag keine Ungeduld, sondern etwas Kälteres.
+
+»Du hast mir eben etwas gesagt«, sagte er, »das ich nicht gehört haben darf.«
+
+Belen Sar senkte den Kopf.
+
+»Wenn du von Fälschung sprichst«, fuhr der Schiedsrichter fort, »dann sprichst du von einem Urteil. Und ein Urteil ist das Ende eines Verfahrens, nicht sein Anfang. Ich habe kein Urteil. Ich habe eine Abschrift. Ich habe einen Vermerk unter einem Namen. Ich habe eine Eingabe von Hydrologen, die besorgt sind, wie Hydrologen besorgt sind, wenn ihre Messungen steigen oder fallen. Nichts davon ist ein Beweis. Und ohne Beweis gibt es kein Verfahren, das ich eröffnen könnte, und ohne Verfahren gibt es keine Koppelung, die ich zulassen dürfte.«
+
+Er nahm die dritte Mappe, die Verfahrensordnung, und schlug sie auf.
+
+»Wir werden also über zwei Dinge getrennt abstimmen. Erstens über den Abtretungsvertrag in der vorliegenden Form. Zweitens über den Tiefenschnitt. Die Reihenfolge ist festgelegt. Die Kontinuitäten haben je eine Stimme. Die Vertreter Unterglas' haben eine Stimme, die von der Versammlung bestätigt werden muß. Ich habe keine Stimme. Ich stelle nur fest, was die Stimmen ergeben.«
+
+»Und wenn die Versammlung die Koppelung verlangt?«
+
+»Dann wird sie von mir hören, was ich eben gesagt habe. Die Ordnung ist nicht dazu da, bequem zu sein. Sie ist dazu da, daß eine Entscheidung, wenn sie fällt, von allen getragen wird, auch von denen, die verloren haben. Eine Koppelung würde die Abstimmung zu einem politischen Handel machen. Und ein politischer Handel ist kein Verfahren. Er ist sein Gegenteil.«
+
+Er schloß die Mappe und schob sie von sich.
+
+»Ruf die Vertreter herein, wenn sie eingetroffen sind. Wir beginnen mit der Vorprüfung der Stimmberechtigungen.«
+
+Belen Sar erhob sich und ging hinaus. Die Tür fiel leise ins Schloß.
+
+Der Schiedsrichter blieb allein. Er saß vor den drei Mappen, und das gelbe Licht der Deckenleuchte lag auf seinen ruhigen Händen. Und dachte: Ich habe eben von Ordnung gesprochen, und ich habe geglaubt, was ich sagte. Aber ich habe auch etwas verschwiegen, und ich weiß nicht, ob ich es verschwieg, weil es nicht hierher gehört, oder weil ich es nicht sehen will.
+
+Er zog die erste Mappe wieder zu sich und öffnete sie an der Stelle der Unterschriften. Da stand der Name Halv Dren, und darunter der Vermerk. Er hatte diesen Vermerk nie als etwas anderes betrachtet denn als das, was er war: eine protokollarische Randnotiz. Ein Zeuge, der nicht anwesend war, konnte nicht zeugen. Aber die Abtretung war gültig, weil die Unterzeichner sie unterzeichnet hatten, und ein Zeuge, der fehlte, machte eine Unterschrift nicht ungültig. So hatte man es ihm gelehrt. So hatte er es gelehrt.
+
+Und dachte: Aber warum fehlt die Unterschrift? Warum steht da nicht der Name des Ersatzzeugen? Warum steht da ein Vermerk, der aussieht, als habe jemand später entschieden, daß ein Vermerk genügt?
+
+Er nahm ein Blatt aus der zweiten Mappe, ein leeres Stück, und legte es neben die Abschrift. Dann nahm er den Stift, der auf dem Tisch lag, und schrieb die Namen der Unterzeichner ab, einen nach dem anderen, in der Reihenfolge, in der sie im Vertrag standen. Und als er an die Stelle kam, an der Halv Dren hätte stehen müssen, hielt er inne.
+
+Zwischen dem letzten Unterzeichner und dem Vermerk war ein Abstand. Kein großer Abstand. Aber ein Abstand. Als hätte jemand ein Wort entfernt und den Raum gelassen, in dem es gestanden hatte.
+
+Der Schiedsrichter sah lange auf diesen Abstand. Dann schob er das Blatt beiseite.
+
+»Eine Formalie«, sagte er laut, und seine Stimme klang in dem kahlen Raum wie ein Geräusch, das nicht hierher gehörte. »Die Abschriften sind alt. Die Kopisten von damals waren nicht sorgfältig. Es gibt keinen Grund, daraus etwas zu machen.«
+
+Er legte die Mappe zu den anderen und stand auf. An der Wand hing ein schmaler Spiegel, und er blieb davor stehen und sah sich an. Ein alter Mann in einer grauen Robe. Kein Zeichen seiner Herkunft. Kein Ring. Kein Siegel. Nur das Gesicht, das er seit sechzig Jahren kannte, und darunter die Hände, die ruhig waren.
+
+Und dachte: Ich habe mein Leben der Ordnung gegeben, und die Ordnung hat mir gegeben, was sie geben kann: ein Amt, eine Robe, einen Platz an diesem Tisch. Und jetzt kommt eine Sache, die größer ist als der Tisch, und ich weiß nicht, ob die Ordnung, die ich bewahre, noch die Ordnung ist, die ich bewahren sollte.
+
+Er wandte sich vom Spiegel ab.
+
+Die Tür ging auf, und Belen Sar kam herein, und hinter ihm zwei Männer in den Farben Tarns. Der erste war groß und hager, mit einem Gesicht wie aus Holz geschnitten, und er trug die schwarze Binde am Arm, die den Verlust des Oberhaupts anzeigte. Der zweite war kleiner, rundlicher, und er hielt eine Mappe, als halte er ein Kind.
+
+»Die Vertreter Tarns«, sagte Belen Sar.
+
+Der Schiedsrichter nickte. »Setzt euch. Wir beginnen.«
+
+Die beiden Männer setzten sich. Der Große legte die Hände auf den Tisch, und der Kleine öffnete seine Mappe und breitete Papiere aus, und der Schiedsrichter sah, daß die Papiere die Stimmberechtigungen waren, die Tarn für die Abstimmung beanspruchte.
+
+»Vier Stimmen«, sagte der Kleine. »Tarn, Nemet, Avar und die Kontinuität der Dritten Kammer. Nach dem Tod des Oberhaupts ruht die Stimme Tarns, bis der Nachfolger das Erbe vollständig übernommen hat. Bis dahin stimmen wir mit drei Stimmen und enthalten uns in der vierten.«
+
+»Das ist verfahrensgemäß«, sagte der Schiedsrichter. »Und der Nachfolger?«
+
+»Oren Kest bereitet die Übernahme vor. Sie wird vor der Abstimmung abgeschlossen sein.«
+
+»Vor der Abstimmung?«
+
+»So ist es vorgesehen.«
+
+Der Schiedsrichter sah auf die Papiere. Er sah die Namen, die Siegel, die Daten. Alles war in Ordnung. Alles war, wie es sein sollte. Und doch lag unter allem, was in Ordnung war, etwas, das nicht in Ordnung war, und er konnte es nicht benennen.
+
+»Ich stelle fest«, sagte er, »daß die Stimme Tarns bis zur vollständigen Übernahme ruht. Ich stelle fest, daß die Abstimmung über den Abtretungsvertrag und die Abstimmung über den Tiefenschnitt getrennt durchgeführt werden. Ich stelle fest, daß eine Koppelung der Verfahren nicht zulässig ist. Die Versammlung wird über die Koppelung gesondert befinden, und ich werde ihr meine Bedenken vortragen.«
+
+Der Große hob den Kopf. »Ehrwürden Bedenken?«
+
+»Meine Bedenken«, sagte der Schiedsrichter. »Ich bin kein Richter. Ich bin der Schiedsrichter. Aber ich bin auch der Hüter des Verfahrens, und das Verfahren sagt mir, daß eine Koppelung die Ordnung gefährdet. Ich werde das sagen. Und die Versammlung wird entscheiden, ob sie mir folgt.«
+
+Der Kleine sah den Großen an, und der Große sah den Kleinen an, und in diesem Blick lag etwas, das der Schiedsrichter nicht deuten konnte.
+
+»Wir werden die Entscheidung der Versammlung respektieren«, sagte der Kleine.
+
+»Das werden Sie«, sagte der Schiedsrichter. »Dafür sind Sie hier.«
+
+Er schloß die Mappen und legte sie übereinander. Die Sitzung war beendet, und die beiden Männer standen auf und gingen, und Belen Sar ging mit ihnen, und die Tür fiel ins Schloß.
+
+Der Schiedsrichter blieb allein zurück. Er saß vor den drei Mappen, und das gelbe Licht der Deckenleuchte summte leise, und in der Stille hörte er das Geräusch seiner eigenen Atmung.
+
+Und dachte: Sie haben gesagt, sie werden die Entscheidung respektieren. Aber sie haben nicht gesagt, welche Entscheidung sie erwarten. Und ich habe nicht gefragt, weil ich die Antwort nicht hören wollte.
+
+Er nahm die erste Mappe wieder zur Hand und öffnete sie an der Stelle der Unterschriften. Der Abstand zwischen dem letzten Unterzeichner und dem Vermerk war noch da. Er war klein, aber er war da, und der Schiedsrichter sah ihn jetzt mit anderen Augen.
+
+Und dachte: Es ist eine Formalie. Es ist eine Formalie. Es ist eine Formalie.
+
+Er sprach die Worte dreimal, und beim dritten Mal klangen sie nicht mehr wie eine Feststellung, sondern wie eine Beschwörung.
+
+Er legte die Mappe weg und stand auf. Draußen, hinter dem schmalen Fenster, war der Innenhof noch leer, und der Reif auf den Steinplatten glänzte in dem ersten Licht, das über die Dächer von Ashkar kam. Der Schiedsrichter sah hinaus, und er sah die Schächte, die in die Tiefe führten, und über ihnen die Glasgewölbe, unter denen die Menschen von Unterglas lebten, und er dachte an die Wasserwege, die sie maßen, und an die Pumpen, die sie fürchteten, und an die Bücher, in denen sie schrieben, was sie sahen.
+
+Und dachte: Sie werden kommen. Sie werden ihre Messungen vorlegen, und ihre Bücher, und ihre Angst. Und ich werde ihnen sagen, daß ich nichts tun kann, weil das Verfahren es nicht zuläßt. Und sie werden gehen, und ich werde hier sitzen, und das Verfahren wird weiterlaufen, und am Ende wird es eine Entscheidung geben, und die Entscheidung wird von allen getragen werden, auch von denen, die verloren haben.
+
+Er sah auf seine Hände. Sie waren ruhig. Sie waren immer ruhig gewesen. Aber heute, in diesem Licht, in diesem Raum, sahen sie aus wie die Hände eines Mannes, der etwas hielt, das er nicht mehr halten konnte.
+
+Er ging zur Tür und öffnete sie. Auf dem Gang wartete Belen Sar mit einer neuen Mappe, und hinter ihm standen zwei Schreiber, und weiter hinten, am Ende des Ganges, führten zwei Wachen eine Frau in der Tracht Unterglas' vorbei, die eine Rolle unter dem Arm trug.
+
+Der Schiedsrichter sah ihr nach. Sie ging aufrecht, und ihr Gesicht war müde, und sie sah nicht zu ihm hinüber.
+
+»Die Hydrologin«, sagte Belen Sar leise. »Sie hat um eine Unterredung mit dem Archiv ersucht. Man hat sie an die Forensik verwiesen.«
+
+Der Schiedsrichter nickte. »Es ist gut, daß sie zum Archiv geht«, sagte er. »Dort gehören die Bücher hin. Dort gehören die Messungen hin. Nicht hierher.«
+
+»Sie hat gesagt, sie bringe die Wasserbücher von 3 214.«
+
+Der Schiedsrichter hielt inne. Einen Augenblick lang stand er still, die Hand noch an der Tür, und in seinem Gesicht regte sich nichts. Dann sagte er: »Die Wasserbücher sind eine Sache des Archivs. Wenn die Forensik sie prüft und zu einem Ergebnis kommt, wird das Ergebnis seinen Weg zu mir finden. Auf dem Weg, den das Verfahren vorsieht.«
+
+»Und wenn sie nicht zum Archiv geht, sondern zu Euch?«
+
+»Dann werde ich sie empfangen«, sagte der Schiedsrichter. »Und ihr sagen, was ich dir gesagt habe. Daß die Ordnung nicht dazu da ist, bequem zu sein. Daß es ein Verfahren gibt, und daß das Verfahren eingehalten wird, von ihr wie von mir.«
+
+Er wandte sich ab und ging den Gang hinunter, und Belen Sar folgte ihm mit der neuen Mappe, und die beiden Schreiber folgten Belen Sar. Hinter ihnen, am Ende des Ganges, verschwand die Frau in der Tracht Unterglas' hinter einer Biegung, und das Geräusch ihrer Schritte verlor sich in der Kälte des Steins.
+
+Der Schiedsrichter ging bis zum Ende des Ganges, wo ein Fenster auf die Stadt blickte. Ashkar lag unter ihm, grau und still, und über den Dächern spannten sich die Glasgewölbe, und unter den Gewölben lagen die Schächte, und in den Schächten lagen die Wasserwege, und in den Wasserwegen lag das, was die Hydrologen maßen und die Kontinuitäten begehrten.
+
+Und dachte: Sie wird zum Archiv gehen. Und die Forensik wird prüfen. Und wenn die Forensik findet, was sie zu finden fürchtet, dann wird das Verfahren über etwas entscheiden müssen, das älter ist als das Verfahren selbst. Und ich werde hier stehen, an diesem Fenster, und werde feststellen, was die Stimmen ergeben, und werde nichts anderes tun können, als festzustellen, was die Stimmen ergeben.
+
+Er sah auf seine Hände. Sie lagen auf dem Fensterbrett, und sie waren ruhig. Aber unter der Ruhe, tief unter ihr, war etwas anderes, und er wußte, daß es wachsen würde, und er wußte, daß er es nicht aufhalten konnte.
+
+»Ehrwürden«, sagte Belen Sar hinter ihm. »Die Versammlung erwartet Euren Bericht zur Koppelung.«
+
+Der Schiedsrichter wandte sich vom Fenster ab. »Ich werde ihn vortragen«, sagte er. »Und ich werde sagen, was ich zu sagen habe. Daß eine Koppelung die Ordnung gefährdet. Daß die Verfahren getrennt bleiben müssen. Daß eine Entscheidung, die von allen getragen werden soll, nicht auf einem Handel beruhen darf.«
+
+»Und wenn die Versammlung Euch nicht folgt?«
+
+Der Schiedsrichter sah ihn an. Es war ein langer Blick, und in ihm lag keine Ungeduld, sondern etwas Kälteres.
+
+»Dann wird die Versammlung entschieden haben«, sagte er. »Und ich werde feststellen, was die Stimmen ergeben. Das ist mein Amt. Nichts anderes.«
+
+Er ging an Belen Sar vorbei, den Gang hinunter, auf den Sitzungssaal zu, und seine Schritte waren gleichmäßig, und seine Hände waren ruhig, und in seinem Gesicht regte sich nichts. Aber hinter ihm, in dem kleinen Vorbereitungsraum, lagen die drei Mappen auf dem Tisch, und in der ersten Mappe, an der Stelle der Unterschriften, war der Abstand, der klein war, aber da war, und das gelbe Licht der Deckenleuchte summte leise darüber, und niemand sah es.
+
+Und dachte: Es ist eine Formalie. Es ist eine Formalie.
+
+Und dachte: Aber ich habe in sechzig Jahren keine Formalie gesehen, die einen Abstand ließ, wo ein Name hätte stehen müssen.
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/ashkara/assets/chapter/chapter-006.jpg" alt="Kapitel 006" />
+</div>
+
+# Sechstes Kapitel {#kapitel-006 .chapter-heading .centered}
+
+Der Konzilssaal lag unter dem höchsten der drei Glasgewölbe, und wer ihn betrat, tat es durch eine Tür, die so niedrig war, daß man den Kopf neigen mußte. Oren Kest hatte diese Tür in den vergangenen Tagen oft passiert, und jedes Mal hatte er den Eindruck, das Neigen sei beabsichtigt. Ein Oberhaupt, das sich bückte, bevor es sprach.
+
+Der Saal selbst war ein Rund aus schwarzem Stein, in dessen Mitte eine flache Schale mit Veyra stand, milchig und still. Sieben Podeste umgaben die Schale in gleichem Abstand, und auf jedem Podest lag ein Zeichen der Kontinuität, die es beanspruchte. Die Luft roch nach kaltem Gestein und nach dem Öl der Lampen, die an eisernen Ringen von der Decke hingen. Ihre Flammen brannten ohne Zittern. Es gab keine Zugluft in diesem Saal. Es gab nichts, was zitterte.
+
+Oren stand an der Rückwand, die Hände hinter dem Rücken, und sah zu, wie die Kontinuitäten eintrafen.
+
+Avar kam zuerst. Drei Männer und zwei Frauen in grauem Tuch, die Arme kahl, die Gesichter ohne Schmuck, die Lippen fest. Sie trugen kein Zeichen, aber sie trugen den Geruch von kaltem Rauch, der ihnen anhaftete wie eine zweite Haut. Avar war die älteste der sieben, und seine Vertreter bewegten sich langsam, als koste jede Bewegung eine Überlegung. Ihr Anführer, ein Mann mit einem eingedrückten Nasenrücken, blieb vor dem zweiten Podest stehen und legte eine flache Scheibe aus Knochen darauf. Er sagte nichts. Er sah Oren nicht an.
+
+Nemet kam als zweiter. Ilyan Dheran betrat den Saal nicht durch die niedrige Tür, sondern durch den Seitengang, der nur den Oberhäuptern offenstand, und er kam allein. Sein Gefolge blieb draußen. Er trug einen Mantel aus dunklem Tuch, der bis zum Boden reichte, und an seiner rechten Hand, am kleinen Finger, saß ein Ring mit einem schwarzen Stein, der kein Licht zurückwarf. Er ging um die Schale herum, ohne sie anzusehen, und blieb vor dem fünften Podest stehen. Er legte kein Zeichen ab. Er legte die Hand auf das Podest, flach, und ließ sie dort einen Augenblick ruhen, als prüfe er die Temperatur des Steins.
+
+»Oren Kest«, sagte er. Seine Stimme war ein ruhiger Baß, der die Wände nicht brauchte, um getragen zu werden. »Du bist früh.«
+
+»Ich bin der Gastgeber«, sagte Oren.
+
+»Der Gastgeber ist früh«, sagte Dheran. »Das ist richtig. Ein Gastgeber, der zu spät kommt, entschuldigt sich. Ein Gastgeber, der zu früh kommt, beobachtet. Welches von beiden bist du?«
+
+Oren ließ die Frage stehen. Er hatte gelernt, in den vergangenen Tagen, daß Fragen, die man nicht beantwortete, zu Fragen wurden, die der andere mit sich selbst tragen mußte. Tarns Erinnerungen hatten ihm das nicht gegeben. Tarns Erinnerungen hatten ihm die Worte gegeben, aber nicht das Schweigen. Das Schweigen hatte er selbst gefunden, in den Nächten, in denen der vierbuchstabige Name an seinen Rändern stand und nicht verschwand.
+
+Die übrigen Kontinuitäten kamen in kurzen Abständen. Drei von ihnen schickten Vertreter, keine Oberhäupter. Das war kein Zufall, und Oren wußte es. Wer einen Vertreter schickt, will nicht gebunden sein. Wer nicht gebunden ist, kann morgen anders stimmen als heute.
+
+Die Vertreterin von Kontinuität Sechs trug einen schweren Duft von Harz an sich, der den halben Saal füllte, und ihre Stimme war ein heller Tenor, der jedes Wort wie eine Frage klingen ließ. Sie legte eine Kette aus polierten Steinen auf ihr Podest und sagte: »Wir sind gekommen, um zu hören. Nicht, um zu entscheiden.«
+
+»Dann hört«, sagte Dheran, bevor Oren antworten konnte. »Und wenn ihr gehört habt, werdet ihr entscheiden. So ist es immer.«
+
+Die Vertreterin von Kontinuität Sechs sah ihn an, und ihr Tenor wurde eine Spur höher. »So ist es immer gewesen, Ilyan Dheran. Aber nicht immer so.«
+
+Dheran lächelte nicht. Er neigte nur den Kopf, eine Handbreit, und das war mehr als ein Lächeln. Es war die Geste eines Mannes, der eine kleine Münze in eine Schale fallen ließ und wußte, daß sie klingen würde.
+
+Oren trat von der Rückwand vor. Seine Schritte waren gleichmäßig, und er zwang sich, nicht auf die Schale in der Mitte zu sehen. Die Schale war Veyra, und Veyra war das, was er werden sollte, und was er werden sollte, durfte ihn jetzt nicht ansehen.
+
+»Die sieben Kontinuitäten sind versammelt«, sagte er. »Oder ihre Vertreter. Ich danke euch für euer Kommen. Bevor wir sprechen, will ich, daß ihr wißt, was ich nicht tun werde.«
+
+Er ließ die Worte einen Augenblick stehen. Die Flammen der Lampen brannten ohne Zittern.
+
+»Ich werde nicht über den Tiefenschnitt sprechen, bevor die Versammlung über die Koppelung entschieden hat. Ich werde nicht über den Abtretungsvertrag sprechen, bevor die Forensik ihren Befund vorgelegt hat. Und ich werde nicht über Tarns Stimme sprechen, bevor ich sie übernommen habe.«
+
+»Drei Nein in einem Atemzug«, sagte Dheran. »Für einen Gastgeber ist das viel.«
+
+»Für ein Oberhaupt ist es das Wenigste«, sagte Oren.
+
+Und dachte: Er prüft mich. Er hat mich geprüft, seit er hereinkam, und er wird nicht aufhören, bis der Saal sich leert. Und was er sucht, ist nicht meine Schwäche. Er sucht die Stelle, an der ich mich verrate.
+
+Er ging zu seinem Podest, dem ersten, und legte die Hand auf die Lehne. Das Holz war kalt. Er spürte es durch den Stoff seines Ärmels, und die Kälte war angenehm. Sie hielt ihn wach.
+
+Die Kontinuitäten nahmen ihre Plätze ein. Avar setzte sich zuerst, dann Nemet, dann die übrigen, jede mit ihrem Gefolge hinter sich, ein Halbkreis aus Rücken, die den Saal in zwei Hälften teilten. Links von der Schale saßen Avar, Sechs und Zwei. Rechts saßen Nemet, Fünf und Sieben. Das siebte Podest, das Podest Tarns, blieb leer. Es stand genau gegenüber von Orens Podest, und Oren sah es an, und das leere Podest sah zurück.
+
+»Wo ist Tarn?« fragte die Vertreterin von Kontinuität Sechs.
+
+»Tarns Stimme ruht«, sagte Oren. »Bis ich sie übernehme.«
+
+»Und wann wirst du sie übernehmen?«
+
+»Wenn die Voraussetzungen erfüllt sind.«
+
+»Welche Voraussetzungen?«
+
+Oren sah sie an. Ihr Harzgeruch war stark, und unter dem Harz war etwas anderes, etwas Scharfes, das er nicht benennen konnte. »Die Voraussetzungen, die das Verfahren vorsieht«, sagte er. »Nichts anderes.«
+
+Dheran rührte sich auf seinem Podest. Es war eine kleine Bewegung, ein Verschieben des Gewichts von einem Bein auf das andere, aber der Saal nahm sie wahr. »Das Verfahren«, sagte er, »sieht vor, daß ein designierter Nachfolger die Übernahme innerhalb von vierzig Tagen vollzieht. Es sind jetzt siebenundzwanzig Tage vergangen. Du hast dreizehn Tage.«
+
+»Ich kenne die Frist«, sagte Oren.
+
+»Ich sage sie nicht, um dich zu belehren«, sagte Dheran. »Ich sage sie, damit alle im Saal sie kennen. Manche hier haben vielleicht vergessen, wie kurz dreizehn Tage sind.«
+
+Ein leises Geräusch ging durch die linke Hälfte des Saals. Es war kein Lachen. Es war das Geräusch von Menschen, die sich räusperten, ohne zu räuspern. Oren hörte es, und er wußte, was es bedeutete. Dheran hatte die erste Münze fallen lassen, und sie hatte geklungen.
+
+Er zwang sich, ruhig zu bleiben. Und dachte: Er will, daß ich mich verteidige. Er will, daß ich sage: Ich werde die Übernahme vollziehen. Er will mich auf die eine Seite ziehen, auf der alle stehen, die den Tiefenschnitt wollen. Und wenn ich mich verteidige, habe ich mich schon entschieden.
+
+»Die Frist ist bekannt«, sagte Oren. »Und sie wird eingehalten. Aber sie ist nicht der Gegenstand dieser Sitzung. Der Gegenstand dieser Sitzung ist die Koppelung. Der Erste Schiedsrichter hat eine Empfehlung abgegeben. Wir sind hier, um sie zu hören.«
+
+Er wandte sich zur Tür. Die Tür war niedrig, und wer hereinkam, mußte den Kopf neigen. Es war eine kleine Genugtuung, und Oren nahm sie, ohne sie zu zeigen.
+
+»Der Erste Schiedsrichter«, sagte er, »wird in Kürze eintreffen.«
+
+Die Tür öffnete sich, und der Schiedsrichter trat ein, und Belen Sar trat hinter ihm ein, und beide neigten den Kopf, wie es alle taten, und der Saal wurde still.
+
+Der Schiedsrichter war ein Mann von hohem Alter, aber seine Schritte waren die eines jüngeren Mannes, gleichmäßig und ohne Zögern. Er trug keine Kontinuitätszeichen, kein Tuch, keinen Ring, keine Kette. Er trug nur ein graues Gewand, das an den Ärmeln abgetragen war. Er ging bis zur Schale in der Mitte, blieb vor ihr stehen und sah sie an, ohne sie zu berühren.
+
+»Die Versammlung ist versammelt«, sagte er. Seine Stimme war trocken und klar, und sie füllte den Saal, ohne laut zu sein. »Ich bin gekommen, um meinen Bericht vorzutragen. Ich bitte um das Wort.«
+
+»Ihr habt es«, sagte Oren.
+
+Der Schiedsrichter neigte den Kopf, kaum merklich. Dann sprach er, und er sprach langsam, als lege er jeden Satz auf eine Waage, bevor er ihn aussprach.
+
+»Die Eingabe der Hydrologen aus Unterglas verlangt, den Tiefenschnitt auszusetzen, bis die Gültigkeit des Abtretungsvertrags von 3 214 geklärt ist. Die Eingabe ist zulässig. Sie ist begründet. Und sie ist, nach der Verfahrensordnung, mit dem Antrag Tarns auf Verlängerung der Förderung zu koppeln.«
+
+Er machte eine Pause. In der Pause hörte man das Öl in den Lampen, ein leises Knistern, das Oren noch nie zuvor gehört hatte.
+
+»Ich empfehle der Versammlung, die Koppelung abzulehnen.«
+
+Die linke Hälfte des Saals rührte sich nicht. Die rechte Hälfte des Saals rührte sich nicht. Aber Oren spürte, wie sich etwas im Raum verschob, eine Spannung, die von den Podesten ausging und in der Mitte zusammenlief, dort, wo die Schale stand.
+
+»Eine Koppelung«, sagte der Schiedsrichter, »würde den Abtretungsvertrag und den Fördervertrag zu einem einzigen Verfahren verschmelzen. Sie würde bedeuten, daß über den Tiefenschnitt erst entschieden werden kann, wenn über die Gültigkeit eines Vertrags entschieden ist, der vierhundertzwanzig Jahre alt ist. Sie würde bedeuten, daß jede Förderung, jede Lieferung, jede Zahlung, die auf dem alten Vertrag beruht, bis zu dieser Entscheidung ruht. Sie würde bedeuten, daß die Ordnung, die wir hier verwalten, für Jahre in einen Zustand gerät, den die Verfahrensordnung nicht vorsieht.«
+
+»Und wenn der alte Vertrag gefälscht ist?« fragte die Vertreterin von Kontinuität Sechs. Ihr Tenor war scharf geworden, und der Harzgeruch schien sich mit ihm zu verdichten.
+
+Der Schiedsrichter sah sie an. »Dann«, sagte er, »wird das Verfahren dies feststellen. Und dann wird das Verfahren die Folgen tragen. Aber es wird sie als Verfahren tragen, nach der Ordnung, die wir haben. Nicht als Aufruhr.«
+
+»Aufruhr«, sagte Dheran. Er sagte das Wort nicht laut, aber er sagte es so, daß es im Saal stehenblieb. »Ein hartes Wort, Ehrwürden.«
+
+»Ein genaues Wort«, sagte der Schiedsrichter.
+
+Dheran lehnte sich auf seinem Podest zurück. Sein schwarzer Ring fing das Licht der Lampen nicht, und Oren bemerkte, daß Dherans Hände ruhig waren, vollkommen ruhig, und daß diese Ruhe nicht die Ruhe eines Mannes war, der nichts zu verlieren hatte, sondern die Ruhe eines Mannes, der bereits wußte, was er gewinnen würde.
+
+Und dachte: Er hat die Stimmen. Er hat sie schon. Avar wird für die Koppelung stimmen, weil Avar die Ordnung liebt. Sechs wird für die Koppelung stimmen, weil Sechs die Wahrheit liebt. Und Dheran wird gegen die Koppelung stimmen, weil Dheran weiß, daß eine Koppelung den Tiefenschnitt verzögert. Aber er wird nicht allein sein. Zwei und Fünf und Sieben werden bei ihm sein. Und dann steht es drei zu drei, und Tarns Stimme entscheidet.
+
+Und dachte: Und Tarns Stimme bin ich.
+
+Er sah auf seine Hände. Sie lagen auf der Lehne seines Podests, und sie waren ruhig, und unter der Ruhe war etwas anderes, etwas, das er nicht benennen wollte, weil es einen Namen trug, den er nicht aussprechen durfte.
+
+Der Schiedsrichter sprach weiter. Er sprach über die Verfahrensordnung, über die Fristen, über die Pflicht zur Anhörung beider Seiten. Seine Stimme war trocken und klar, und sie füllte den Saal, und während sie sprach, beobachtete Oren die Gesichter.
+
+Avar hörte zu, ohne sich zu bewegen. Die Vertreterin von Sechs hörte zu, und ihr Harzgeruch wurde stärker, wenn der Schiedsrichter eine Pause machte, als atme sie in den Pausen tiefer. Die Vertreter von Zwei und Fünf und Sieben hörten zu, und ihre Gesichter waren leer, und ihre Leere war nicht die Leere von Menschen, die nichts dachten, sondern die Leere von Menschen, die nicht wollten, daß man sah, was sie dachten.
+
+Und Dheran hörte zu, und Dheran sah nicht den Schiedsrichter an. Dheran sah Oren an.
+
+Es war ein ruhiger Blick, ohne Feindseligkeit, ohne Neugier. Es war der Blick eines Mannes, der einen Raum betritt und sofort weiß, wo die Tür ist und wo das Fenster und wo der Boden knarrt. Es war der Blick eines Mannes, der einen anderen mustert, nicht um ihn zu verstehen, sondern um zu wissen, wo er steht.
+
+Oren hielt dem Blick stand. Er hielt ihm stand, weil er wußte, daß er es mußte, und weil er wußte, daß Dheran es sehen würde, wenn er es nicht tat.
+
+Und dachte: Er unterschätzt mich. Er sieht einen jungen Mann auf dem Podest eines Toten, und er sieht die dreizehn Tage, und er sieht die ruhende Stimme. Er sieht nicht, was ich in den vergangenen siebenundzwanzig Tagen gesehen habe. Er sieht nicht den vierbuchstabigen Namen. Er sieht nicht die Furchen im Sand.
+
+Der Schiedsrichter beendete seinen Bericht. Er neigte den Kopf, einmal, und trat von der Schale zurück, und Belen Sar trat hinter ihn, und beide blieben an der Rückwand stehen, im Schatten, und warteten.
+
+Oren erhob sich.
+
+»Die Versammlung hat den Bericht gehört«, sagte er. »Die Versammlung wird morgen entscheiden. Bis dahin bitte ich die Kontinuitäten, in den ihnen zugewiesenen Gemächern zu bleiben. Es wird Speise und Trank geben, und es wird Wachen geben, und es wird keine Zusammenkünfte geben, die nicht angemeldet sind.«
+
+»Keine Zusammenkünfte«, sagte Dheran. »Ein Gastgeber, der seine Gäste einschließt.«
+
+»Ein Gastgeber, der dafür sorgt, daß seine Gäste morgen frei entscheiden können«, sagte Oren. »Was sie heute Nacht tun, soll ihre Entscheidung nicht binden.«
+
+Dheran sah ihn an, und zum ersten Mal, seit er den Saal betreten hatte, verzog sich etwas in seinem Gesicht. Es war kein Lächeln. Es war das Gegenteil eines Lächelns, eine winzige Bewegung der Mundwinkel nach unten, die so schnell verschwand, wie sie gekommen war.
+
+»Du lernst«, sagte Dheran.
+
+»Ich lerne«, sagte Oren.
+
+Die Kontinuitäten erhoben sich. Sie verließen den Saal in der Reihenfolge, in der sie gekommen waren, durch die niedrige Tür, einer nach dem anderen, und jeder neigte den Kopf, und Oren stand an seinem Podest und sah ihnen nach, und als der letzte gegangen war, als die Tür sich hinter Dheran geschlossen hatte, ließ er sich auf die Lehne sinken und atmete aus.
+
+Der Saal war leer. Die Schale in der Mitte war still. Die Lampen brannten ohne Zittern.
+
+Belen Sar trat aus dem Schatten. »Ehrwürden«, sagte er. »Der Schiedsrichter bittet um eine Unterredung. Unter vier Augen.«
+
+Oren sah zur Rückwand. Der Schiedsrichter stand dort, im Schatten, und seine Hände waren hinter dem Rücken verschränkt, und sein Gesicht war ohne Ausdruck.
+
+»Laß uns allein«, sagte Oren.
+
+Belen Sar zögerte. Dann neigte er den Kopf und ging, und seine Schritte verloren sich hinter der niedrigen Tür.
+
+Der Schiedsrichter trat vor. Er ging bis zur Schale, blieb vor ihr stehen und sah sie an, und Oren sah, daß er sie nicht berührte, so wie er sie vorher nicht berührt hatte.
+
+»Ihr habt eine Frage«, sagte Oren.
+
+»Ich habe eine Frage«, sagte der Schiedsrichter. »Aber ich werde sie nicht stellen.«
+
+»Warum nicht?«
+
+Der Schiedsrichter sah von der Schale auf. »Weil ich sie nicht stellen darf«, sagte er. »Weil ich, wenn ich sie stelle, meine Neutralität verliere. Und weil ich, wenn ich meine Neutralität verliere, morgen nicht feststellen kann, was die Stimmen ergeben.«
+
+Oren schwieg. Und dachte: Er weiß etwas. Er weiß etwas über den Vertrag, und er weiß etwas über die Stimmen, und er weiß etwas über mich, und er wird es nicht sagen, weil er es nicht sagen darf. Und das ist das Schlimmste, was ein Mann tun kann: schweigen und dabei wissen.
+
+»Ihr habt den Bericht gehört«, sagte der Schiedsrichter. »Ihr wißt, was ich empfehle. Ihr wißt, was auf dem Spiel steht. Und ihr wißt, daß die Entscheidung morgen fällt.«
+
+»Ich weiß es.«
+
+»Dann will ich Euch eines sagen«, sagte der Schiedsrichter. »Nicht als Schiedsrichter. Als Mann, der lange genug gelebt hat, um zu wissen, wann ein Verfahren an seine Grenze kommt.«
+
+Er machte eine Pause. Die Lampen knisterten.
+
+»Es gibt in jedem Verfahren einen Punkt, an dem das Verfahren nicht mehr trägt. An dem die Ordnung, die es verwaltet, nicht mehr die Ordnung ist, die es schützt. An dem die Formel, die alles zusammenhält, nur noch eine Formel ist, und der Inhalt unter ihr fort ist.«
+
+»Und dieser Punkt«, sagte Oren, »ist jetzt.«
+
+»Dieser Punkt«, sagte der Schiedsrichter, »ist nahe.«
+
+Er neigte den Kopf, einmal, und ging zur niedrigen Tür, und an der Tür blieb er stehen, ohne sich umzudrehen.
+
+»Ehrwürden«, sagte er. »Morgen wird die Versammlung entscheiden. Und dann werde ich feststellen, was die Stimmen ergeben. Das ist mein Amt. Nichts anderes.«
+
+Er neigte den Kopf, und ging, und die Tür schloß sich hinter ihm, und Oren blieb allein im Saal zurück.
+
+Er stand an seinem Podest, und die Schale in der Mitte war still, und die sieben Podeste standen im Kreis, und das siebte, Tarns Podest, stand leer, genau gegenüber.
+
+Und dachte: Er hat mir etwas gesagt, ohne es zu sagen. Er hat mir gesagt, daß er nicht mehr an das Verfahren glaubt. Und er hat mir gesagt, daß er es trotzdem durchführen wird. Und er hat mir gesagt, daß er weiß, was ich morgen tun werde, bevor ich es selbst weiß.
+
+Er sah auf die Schale. Das Veyra darin war milchig und still, und es sah ihn nicht an, und es wartete.
+
+Und dachte: Dreizehn Tage. Und eine Stimme, die ruht. Und ein Saal, der in zwei Hälften gespalten ist, und eine Hälfte gehört ihm, und die andere Hälfte gehört mir, und in der Mitte liegt das, was wir beide begehren.
+
+Er wandte sich von der Schale ab und ging zur niedrigen Tür, und er neigte den Kopf, als er hindurchging, so wie es alle taten, und draußen, im Gang, wartete Belen Sar mit einer Lampe, und hinter Belen Sar, am Ende des Ganges, stand eine Wache, und hinter der Wache war die Treppe, und unter der Treppe lagen die Schächte, und in den Schächten lagen die Wasserwege, und in den Wasserwegen lag das, was die Hydrologen maßen und die Kontinuitäten begehrten.
+
+»Ehrwürden«, sagte Belen Sar. »Die Gemächer sind vorbereitet. Und es ist eine Nachricht gekommen. Von der Archivforensik.«
+
+Oren blieb stehen. »Von wem?«
+
+»Von Neris Tal«, sagte Belen Sar. »Sie bittet um eine Unterredung. Vor der Versammlung. Sie sagt, sie hat einen Befund.«
+
+Oren sah ihn an, und in seinem Gesicht regte sich nichts, und seine Hände waren ruhig, und hinter der Ruhe, tief unter ihr, war etwas anderes, und er wußte, daß es wachsen würde.
+
+»Morgen«, sagte er. »Nach der Versammlung.«
+
+»Sie sagt, es sei dringend.«
+
+»Alles ist dringend«, sagte Oren. »Morgen nach der Versammlung.«
+
+Er ging an Belen Sar vorbei, den Gang hinunter, und seine Schritte waren gleichmäßig, und seine Hände waren ruhig, und in seinem Gesicht regte sich nichts. Aber hinter ihm, im Konzilssaal, stand die Schale mit dem Veyra, und das Veyra war milchig und still, und auf dem siebten Podest, dem Podest Tarns, lag nichts als der Staub, der sich in siebenundzwanzig Tagen gesammelt hatte, und niemand sah ihn.
+
+Und dachte: Sie hat einen Befund. Und der Befund betrifft den Vertrag. Und der Vertrag betrifft den Tiefenschnitt. Und der Tiefenschnitt betrifft die Stimmen. Und die Stimmen betreffen mich.
+
+Und dachte: Und morgen wird die Versammlung entscheiden, und ich werde auf meinem Podest stehen, und ich werde feststellen, was die Stimmen ergeben, und ich werde nichts anderes tun können, als festzustellen, was die Stimmen ergeben.
+
+Er erreichte die Treppe und stieg hinab, und über ihm schloß sich das Gewölbe, und unter ihm lagen die Schächte, und in den Schächten lagen die Wasserwege, und in den Wasserwegen lag das, was die Hydrologen maßen und die Kontinuitäten begehrten, und irgendwo dort unten, in der Kälte des Steins, wartete eine Frau aus Unterglas mit achtzehn Seiten Messungen, und wartete eine Archivforensikerin mit einem Befund, und wartete ein Vertrag, der vierhundertzwanzig Jahre alt war und einen Namen trug, der nicht hätte dort stehen dürfen.
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/ashkara/assets/chapter/chapter-007.jpg" alt="Kapitel 007" />
+</div>
+
+# Siebtes Kapitel {#kapitel-007 .chapter-heading .centered}
+
+Die Lampe brannte niedrig, und ihr Licht reichte kaum über den Tisch, an dem Ilyan Dheran saß. Das Gemach im Nemet-Hauptquartier war klein und ohne Schmuck, ein Raum für einen Mann, der keine Zeugen brauchte. Auf dem Tisch lagen drei Schriftrollen, eine flache Schale mit Wasser, und daneben, sorgfältig ausgerichtet, ein Stapel loser Blätter, die noch niemand außer ihm gesehen hatte. Die Luft roch nach kaltem Stein und nach dem Öl der Lampe, und unter dem Öl, kaum wahrnehmbar, lag der Geruch von feuchtem Papier, der Geruch der Tiefenspeicher. Dheran las nicht. Er wartete. Und während er wartete, ließ er die Nachricht, die ihm sein Schreiber vor einer Stunde gebracht hatte, noch einmal durch seinen Geist gehen, Wort für Wort, so wie er jede Nachricht durch seinen Geist gehen ließ, bevor er sie beantwortete.
+
+Neris Tal hatte einen Befund. Neris Tal bat um eine Unterredung. Neris Tal hatte die Wasserbücher aus dem dritten Gewölbe angefordert, und sie hatte sie erhalten, und sie hatte in ihnen gelesen, und jetzt bat sie um eine Unterredung.
+
+Er wußte, was sie gefunden hatte. Er hatte es vor sechzig Jahren selbst gefunden, als junger Archivar, mit jungen Händen und einem jungen Gewissen, und er hatte es gemeldet, und man hatte ihm befohlen zu schweigen, und er hatte geschwiegen. Sechzig Jahre lang. Und jetzt saß eine Frau mit jungen Händen und einem jungen Gewissen in der Archivforensik und hatte dasselbe gefunden, und sie würde nicht schweigen, weil niemand ihr befehlen konnte zu schweigen, denn er selbst hatte ihr den Auftrag gegeben, und der Auftrag trug sein Siegel.
+
+Die Tür öffnete sich. Sein Schreiber trat ein, ein hagerer Mann namens Vel, der seit elf Jahren für ihn arbeitete und dessen Gesicht nie verriet, was er dachte.
+
+»Die Archivforensikerin ist eingetroffen, Ehrwürden«, sagte Vel. »Sie wartet im Vorzimmer.«
+
+Dheran legte die Handflächen auf den Tisch, flach, und sah auf seine Hände. Fette Hände, dachte er, die Hände eines Mannes, der zu gut ißt und zu wenig schläft. »Laß sie eintreten«, sagte er. »Und dann laß uns allein.«
+
+Vel neigte den Kopf und ging. Dheran hörte Schritte im Vorzimmer, zwei Paar, dann eines, dann die Tür, und dann stand Neris Tal vor ihm, und sie hielt eine Mappe unter dem Arm, und ihr Gesicht war blaß, und ihre Augen waren wach.
+
+»Setzen Sie sich«, sagte Dheran und wies auf den Stuhl gegenüber.
+
+Sie setzte sich nicht sofort. Sie blieb stehen und sah ihn an, und er sah sie an, und zwischen ihnen lag der Tisch mit den drei Schriftrollen und der Wasserschale, und über ihnen brannte die Lampe, und das Licht fiel auf ihre Mappe.
+
+»Ich habe einen Befund«, sagte Neris Tal.
+
+»Das hat man mir gesagt«, sagte Dheran. »Setzen Sie sich.«
+
+Sie setzte sich. Sie legte die Mappe auf den Tisch, aber sie öffnete sie nicht. Sie sah ihn an, und ihre Stimme war ruhig, als sie sprach, aber unter der Ruhe lag etwas, das er kannte, weil er es vor sechzig Jahren selbst in sich getragen hatte.
+
+»Der Zeuge des Abtretungsvertrags von 3214«, sagte sie. »Halv Dren. Er war bei der Unterzeichnung nicht anwesend. Er war krank. Er starb fünf Tage später. Und dennoch erscheint er in allen sieben Speicherversionen als körperlich anwesender Mann. Er atmet. Er blinzelt. Er steht hinter dem Kanzler.«
+
+Dheran hörte zu. Er hörte die Worte, und während er sie hörte, dachte er: Sie hat es schnell gefunden. Schneller als ich damals. Ich habe vierzehn Tage gebraucht, und sie hat zwölf. Und dachte: Das ist es, was mich beunruhigt. Nicht der Befund. Der Befund war immer da. Die Geschwindigkeit ist neu.
+
+»Ich habe die Wasserbücher geprüft«, fuhr Neris Tal fort. »Die Aufzeichnungen der Unterglas-Hydrologen. Sie bestätigen den Tod und den Zeitpunkt der Verhandlung. Und die Speicher zeigen einen lebenden Mann. Beides kann nicht wahr sein.«
+
+»Nein«, sagte Dheran. »Beides kann nicht wahr sein.«
+
+Sie sah ihn an, und in ihrem Blick lag eine Frage, die sie nicht aussprach, und er wußte, welche Frage es war, und er wußte, daß er sie beantworten mußte, bevor sie sie stellte, sonst würde sie ihn beherrschen.
+
+»Sie haben recht«, sagte er. »Es ist ein Widerspruch. Und ein Widerspruch in einem Vertrag ist ein Problem. Aber es ist nicht das Problem, das Sie daraus machen.«
+
+Neris Tal legte die Hand auf die Mappe. »Was meinen Sie damit?«
+
+Dheran lehnte sich zurück. Das Licht der Lampe fiel auf sein Gesicht, und sein Gesicht war ruhig, und seine Stimme war ruhig, und er sprach langsam, so wie er immer sprach, wenn er etwas erklärte, das erklärt werden mußte.
+
+»Sie haben einen Mann gefunden, der nicht hätte da sein dürfen«, sagte er. »Und Sie haben daraus geschlossen, daß der Vertrag gefälscht ist. Das ist ein Schluß. Aber es ist nicht der einzige Schluß. Es gibt einen anderen.«
+
+»Und der wäre?«
+
+»Kalibrierung«, sagte Dheran.
+
+Er ließ das Wort einen Augenblick stehen, so wie er es immer tat, wenn er ein Wort benutzte, das wirken sollte. Und es wirkte. Neris Tal blinzelte nicht, aber ihre Hand auf der Mappe bewegte sich, ein kaum sichtbares Zucken, und er sah es, und er wußte, daß sie zuhörte.
+
+»Veyra ist kein Archiv«, sagte Dheran. »Veyra ist ein Netzwerk. Und ein Netzwerk rekonstruiert. Es rekonstruiert aus dem, was es hat, und es ergänzt, was es nicht hat. Wenn ein Netzwerk vierhundertzwanzig Jahre lang dieselbe Erinnerung immer wieder abruft, dann verändert sie sich. Nicht weil jemand sie fälscht. Sondern weil jede Rekonstruktion eine neue Rekonstruktion ermöglicht. Ein Fehler, der einmal entsteht, pflanzt sich fort. Er wird nicht korrigiert, weil das Netzwerk nicht weiß, daß es ein Fehler ist. Es weiß nur, daß es eine Lücke füllen muß. Und es füllt sie mit dem, was am nächsten liegt.«
+
+Neris Tal sah ihn an. »Sie sagen, der Zeuge ist eine Kalibrierungsabweichung.«
+
+»Ich sage«, erwiderte Dheran, »daß ein Mann, der in den Unterlagen krank war, in der Rekonstruktion gesund erscheinen kann, wenn das Netzwerk über Jahrhunderte hinweg die Anwesenheit als Normalzustand gelernt hat. Es hat ihn nicht erfunden. Es hat ihn ergänzt. Das ist ein Unterschied.«
+
+»Es ist ein Unterschied«, sagte Neris Tal. »Aber es ist kein Unterschied für den Vertrag. Wenn der Zeuge nicht anwesend war, dann ist die Zeugenunterschrift ungültig. Und wenn die Zeugenunterschrift ungültig ist, dann ist der Vertrag anfechtbar. Und wenn der Vertrag anfechtbar ist, dann ist der Tiefenschnitt anfechtbar.«
+
+Dheran nickte. Langsam. »Das ist richtig«, sagte er. »Und deshalb ist Ihr Befund kein Befund. Er ist eine Frage. Und eine Frage, die man nicht in einem Archiv beantwortet. Man beantwortet sie in einer Versammlung. Vor den Kontinuitäten. Mit allen Stimmen.«
+
+Er beugte sich vor und nahm die oberste der drei Schriftrollen, und er rollte sie auf, und sie zeigte eine Liste von Namen, sauber geschrieben, mit Daten daneben.
+
+»Sehen Sie das«, sagte er. »Das sind die Zugriffe auf die Tiefenspeicher des dritten Gewölbes. In den letzten zwanzig Tagen. Ihr Name erscheint vierzehnmal. Das ist mehr als jeder andere Zugriff in diesem Zeitraum. Und jeder dieser Zugriffe hat Spuren hinterlassen. Nicht weil Sie etwas falsch gemacht haben. Sondern weil jeder Zugriff Spuren hinterläßt. Das Netzwerk reagiert. Es speichert. Und wenn Sie weiter zugreifen, wird es weiter speichern. Und irgendwann wird Ihre eigene Untersuchung Teil der Rekonstruktion, die Sie untersuchen.«
+
+Neris Tal sah auf die Rolle. »Sie wollen meinen Zugang beschränken.«
+
+»Ich will«, sagte Dheran, »daß Ihre Untersuchung gültig bleibt. Und eine Untersuchung, die das Netzwerk verändert, ist nicht mehr gültig. Sie wird selbst zum Material. Deshalb werde ich Ihren Zugang zu den Tiefenspeichern auf das beschränken, was für die Prüfung der Wasserbücher und der Oberflächenaufzeichnungen notwendig ist. Das ist keine Zensur. Das ist Methodik.«
+
+»Es ist eine Beschränkung«, sagte Neris Tal.
+
+»Es ist eine Beschränkung«, bestätigte Dheran. »Und sie ist notwendig. Sie können weiterarbeiten. Sie können die Wasserbücher prüfen. Sie können die Chroniken prüfen. Sie können alles prüfen, was nicht im Netzwerk liegt. Aber die Tiefenspeicher sind ab morgen für Sie gesperrt. Bis die Versammlung entschieden hat.«
+
+Neris Tal schwieg. Sie sah ihn an, und er sah sie an, und in der Stille zwischen ihnen lag die Lampe und ihr Licht und der Geruch nach Öl und kaltem Stein, und Dheran dachte: Sie wird es akzeptieren. Sie muß es akzeptieren. Sie hat keinen anderen Weg. Und dachte: Aber sie wird es nicht vergessen. Und das ist der Preis.
+
+»Und wenn die Versammlung entscheidet, daß mein Befund gültig ist?«, fragte sie.
+
+»Dann«, sagte Dheran, »wird die Versammlung über den Vertrag entscheiden. Nicht Sie. Nicht ich. Die Versammlung. Das ist die Ordnung. Und die Ordnung ist das einzige, was uns vor dem Chaos bewahrt. Sie haben einen Widerspruch gefunden. Gut. Aber ein Widerspruch ist kein Urteil. Ein Urteil fällt die Versammlung. Und bis sie es fällt, arbeiten wir mit dem, was wir haben.«
+
+Er rollte die Schriftrolle zusammen und legte sie zurück auf den Tisch. »Sie werden morgen einen Bericht erhalten«, sagte er. »Über die neuen Zugangsregeln. Er wird von meinem Schreiber kommen, und er wird die Gründe enthalten, und er wird korrekt sein. Und Sie werden ihn befolgen. Nicht weil ich es befehle. Sondern weil es die Methode ist, die Ihre Untersuchung gültig hält.«
+
+Neris Tal stand auf. Sie nahm die Mappe unter den Arm, und sie sah ihn an, und ihr Gesicht war blaß, und ihre Augen waren wach, und sie sagte: »Ich werde den Bericht lesen. Und ich werde ihn befolgen. Aber ich werde weiterarbeiten.«
+
+»Das sollen Sie«, sagte Dheran. »Das ist Ihre Pflicht.«
+
+Sie ging zur Tür, und sie öffnete sie, und sie blieb einen Augenblick stehen, den Rücken zu ihm, und dann sagte sie, ohne sich umzudrehen: »Vor sechzig Jahren hat ein junger Archivar denselben Befund gemeldet. Und man hat ihm befohlen zu schweigen. Und er hat geschwiegen. Sechzig Jahre lang.«
+
+Dheran sagte nichts.
+
+»Ich frage mich«, sagte Neris Tal, »ob er jemals bereut hat.«
+
+Sie ging hinaus, und die Tür schloß sich, und Dheran saß allein in dem kleinen Gemach mit der niedrigen Lampe, und er sah auf seine Hände, die flach auf dem Tisch lagen, fette Hände, die Hände eines Mannes, der zu gut ißt und zu wenig schläft, und er dachte: Ja. Ich habe bereut. Und dachte: Aber Reue ist kein Argument. Reue ist ein Gefühl. Und Gefühle haben in einem Vertrag nichts zu suchen.
+
+Er wartete, bis die Schritte im Vorzimmer verklungen waren. Dann öffnete er die zweite Schriftrolle, die unter der ersten gelegen hatte, und sie war keine Liste von Zugriffen. Sie war ein Brief. Ein Brief an Oren Kest, den designierten Nachfolger Tarns, und er war noch nicht geschrieben, aber Dheran hatte die Worte bereits im Kopf, und er begann, sie auf ein loses Blatt zu setzen, mit einer Hand, die ruhig war, und einer Schrift, die klar war.
+
+»An Oren Kest, designierter Nachfolger der Kontinuität Tarn«, schrieb er. »Die Kopplung, die in dreizehn Tagen vollzogen werden soll, ist ein Ereignis von größter Bedeutung. Sie ist nicht nur eine Frage der Nachfolge. Sie ist eine Frage der Methode. Und die Methode verlangt, daß die Kopplung unter Aufsicht erfolgt. Unter der Aufsicht eines erfahrenen Archivars. Unter der Aufsicht eines Mannes, der weiß, wie das Netzwerk arbeitet. Ich biete mich an. Nicht als Vertreter Nemets. Als Zeuge. Als Garant. Als der Mann, der dafür sorgt, daß die Kopplung gültig ist. Denn eine Kopplung, die nicht gültig ist, ist keine Nachfolge. Sie ist eine Übernahme. Und eine Übernahme ohne Zeugen ist eine Usurpation.«
+
+Er las die Worte noch einmal, und sie gefielen ihm, und er dachte: Er wird zustimmen. Er muß zustimmen. Denn wenn er ablehnt, dann lehnt er die Gültigkeit seiner eigenen Nachfolge ab. Und das kann er nicht. Und dachte: Und wenn ich bei der Kopplung anwesend bin, dann sehe ich, was das Netzwerk überträgt. Dann sehe ich, ob Tarn etwas verbirgt. Dann sehe ich, ob Oren etwas verbirgt. Und dann kann ich handeln, bevor es zu spät ist.
+
+Er legte die Feder nieder und sah auf das Blatt, und auf dem Blatt standen die Worte, und die Worte waren höflich, und die Worte waren korrekt, und die Worte waren eine Falle, und er wußte es, und er war zufrieden.
+
+Er griff nach der Wasserschale und trank einen Schluck, und das Wasser war kühl, und es schmeckte nach Stein, und er dachte: Morgen wird die Versammlung über die Koppelung des Hydrologenantrags entscheiden. Und der Schiedsrichter wird seine Empfehlung geben. Und die Stimmen werden fallen. Und ich weiß, wie sie fallen werden. Nemet, Zwei, Fünf und Sieben. Vier zu drei. Und dann ist der Weg frei. Und dachte: Es sei denn, Oren stimmt nicht zu. Es sei denn, Oren zögert. Es sei denn, Oren hört auf die Frau aus der Archivforensik, bevor er auf mich hört.
+
+Er stellte die Schale ab. Er sah auf die Lampe, und die Lampe brannte niedrig, und ihr Licht reichte kaum über den Tisch, und in dem Licht lagen die drei Schriftrollen und das lose Blatt mit dem Brief, und daneben, im Schatten, lag die Mappe, die Neris Tal nicht geöffnet hatte, und in der Mappe lagen Beweise, die er nicht sehen konnte, und in den Beweisen lag eine Wahrheit, die er seit sechzig Jahren kannte, und in der Wahrheit lag eine Gefahr, die er seit sechzig Jahren gebannt hatte, und die jetzt, in diesem Augenblick, in diesem kleinen Gemach mit der niedrigen Lampe, wieder aufstieg.
+
+Er stand auf. Er ging zur Tür, und er öffnete sie, und im Vorzimmer wartete Vel, und Vel sah ihn an, und Vel sagte nichts.
+
+»Der Brief«, sagte Dheran und reichte ihm das lose Blatt. »An Oren Kest. Persönlich. Vor der Versammlung morgen.«
+
+Vel nahm das Blatt und las es, und sein Gesicht verriet nichts, und er neigte den Kopf. »Und die Zugangsbeschränkung für die Archivforensikerin?«
+
+»Schriftlich«, sagte Dheran. »Mit Gründen. Mit Verweis auf die Methodik. Und mit dem Hinweis, daß die Beschränkung bis zur Entscheidung der Versammlung gilt.«
+
+»Und wenn sie sich beschwert?«
+
+»Sie wird sich nicht beschweren«, sagte Dheran. »Sie wird arbeiten. Sie wird die Wasserbücher prüfen und die Chroniken und alles, was nicht im Netzwerk liegt. Und sie wird nichts finden, was sie nicht schon gefunden hat. Und wenn sie doch etwas findet, dann wird es zu spät sein. Denn morgen entscheidet die Versammlung, und übermorgen koppelt Oren, und in dreizehn Tagen ist die Nachfolge vollzogen, und dann ist der Tiefenschnitt beschlossen, und dann ist alles, was sie gefunden hat, nur noch ein Widerspruch in einem alten Vertrag, den niemand mehr liest.«
+
+Vel neigte den Kopf. »Und der Schiedsrichter?«
+
+Dheran sah ihn an. »Der Schiedsrichter«, sagte er, »wird seine Empfehlung geben. Und die Empfehlung wird lauten, die Koppelung abzulehnen. Und die Versammlung wird ihm folgen. Nicht weil sie ihm glaubt. Sondern weil sie die Ordnung will. Und die Ordnung will, daß der Tiefenschnitt beschlossen wird. Und der Tiefenschnitt will, daß Tarn seine Stimme hat. Und Tarns Stimme will, daß Oren koppelt. Und Oren wird koppeln. Weil er keine Wahl hat. Weil die Frist läuft. Weil er der Nachfolger sein will. Weil er Tarn sein will.«
+
+Er ging an Vel vorbei, den Gang hinunter, und seine Schritte waren gleichmäßig, und seine Hände waren ruhig, und in seinem Gesicht regte sich nichts. Aber hinter ihm, im Gemach, brannte die Lampe weiter, und auf dem Tisch lagen die Schriftrollen und die Mappe und das Wasser, und in dem Wasser, das er getrunken hatte, lag ein Geschmack nach Stein, und in dem Geschmack lag eine Erinnerung, und in der Erinnerung lag ein junger Archivar, der einen Befund gemeldet hatte und zum Schweigen gebracht worden war, und der sechzig Jahre lang geschwiegen hatte, und der jetzt, in diesem Augenblick, in diesem Gang, mit gleichmäßigen Schritten, nicht mehr schwieg, sondern handelte.
+
+Und dachte: Ich habe damals geschwiegen, weil ich keine Macht hatte. Jetzt habe ich Macht. Und Macht ist kein Schweigen. Macht ist Handeln. Und Handeln ist das, was ich tue.
+
+Er erreichte die Treppe und stieg hinauf, und über ihm lag das Hauptquartier, und im Hauptquartier lagen die Gemächer der Kontinuitäten, und in den Gemächern lagen die Abgesandten, und unter den Abgesandten lagen die Stimmen, und die Stimmen lagen in der Versammlung, und die Versammlung lag in seiner Hand, wenn er sie nur richtig führte.
+
+Und dachte: Morgen. Morgen entscheidet die Versammlung. Und morgen beginnt der Weg, der in dreizehn Tagen endet. Und wenn ich ihn richtig führe, dann endet er mit dem Tiefenschnitt. Und wenn ich ihn falsch führe, dann endet er mit einer Frau aus der Archivforensik, die einen Befund hat, den niemand hören will.
+
+Er blieb auf der Treppe stehen. Er sah hinab, in die Dunkelheit unter ihm, wo die Schächte lagen und die Wasserwege und die Kälte des Steins, und irgendwo dort unten, in der Kälte, wartete eine Frau aus Unterglas mit achtzehn Seiten Messungen, und wartete eine Archivforensikerin mit einer Mappe, die sie nicht geöffnet hatte, und wartete ein Vertrag, der vierhundertzwanzig Jahre alt war und einen Namen trug, der nicht hätte dort stehen dürfen.
+
+»Nein«, sagte Dheran, leise, in die Dunkelheit hinein. »Er wird nicht mehr warten. Morgen beginnt die Ordnung. Und die Ordnung beginnt mit mir.«
+
+Er stieg weiter hinauf, und über ihm schloß sich das Gewölbe, und unter ihm blieb die Dunkelheit, und in der Dunkelheit blieb der Vertrag, und in dem Vertrag blieb der Name, und der Name war Halv Dren, und Halv Dren war tot, und dennoch stand er in sieben Speicherversionen hinter dem Kanzler, atmend, blinzelnd, lebendig, und niemand außer einer Archivforensikerin und einem alten Mann mit fetten Händen wußte, warum.
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/ashkara/assets/chapter/chapter-008.jpg" alt="Kapitel 008" />
+</div>
+
+# Achtes Kapitel {#kapitel-008 .chapter-heading .centered}
+
+Die Kopplungskammer lag im ältesten Teil des Tarn-Hauptquartiers, unterhalb der Wasserlinie, dort, wo der Fels noch die Feuchtigkeit der Urzeit trug und das Licht der Leitungen in milchigen Bahnen an den Wänden kroch. Oren Kest stand im Zentrum, umgeben von Platindrähten, die aus dem Boden wuchsen und sich wie erstarrte Ranken über die Decke zogen. Der Geruch von Kupfer lag in der Luft. Es war derselbe Geruch, der ihn seit dem Tod des Vorgängers in den Nächten heimsuchte, und er wusste längst, daß er nicht von den Drähten kam.
+
+Auf einer flachen Steinschwelle vor ihm lag die Kopplungsmatte, dunkel und glänzend, gefaltet wie ein Segel, das niemals Wind gesehen hatte.
+
+»Du zögerst«, sagte Belen Sar hinter ihm.
+
+Der Schreiber stand an der Tür, die Hände in den Ärmeln, das Gesicht so ausdruckslos wie ein geschliffener Stein. Er war nicht gekommen, um zu protokollieren. Er war gekommen, um zu bezeugen, daß der Nachfolger den Weg betrat, den die Kontinuität von ihm verlangte.
+
+Oren drehte sich nicht um. »Ich zögere nicht. Ich zähle.«
+
+»Und was zählst du?«
+
+»Die Schritte, die mich von diesem Augenblick trennen.« Oren sah auf die Matte. »Und die Schritte, die danach kommen.«
+
+Belen Sar trat einen Schritt näher, und seine Stimme blieb flach, so flach wie die Stimmen aller Schreiber, die gelernt hatten, daß Gefühle in Protokollen keinen Platz haben. »Die Ältesten erwarten, daß die erste Teilkopplung vor der Versammlung abgeschlossen ist. Die Frist beträgt dreizehn Tage. Wenn du heute nicht beginnst, beginnst du zu spät.«
+
+»Und wenn ich heute beginne«, sagte Oren, »beginne ich zu früh.«
+
+»Das ist nicht deine Entscheidung.«
+
+Oren hob den Kopf. In dem milchigen Licht wirkten die Augen des Schreibers wie zwei Höhlungen in einem Gesicht aus Kreide. »Nein«, sagte Oren. »Das ist nicht meine Entscheidung. Aber es ist mein Körper. Und mein Körper ist das einzige, was mir noch gehört.«
+
+Belen Sar antwortete nicht. Er schrieb auch nicht. Er stand einfach da, und seine Stille war lauter als jede Antwort.
+
+Oren kniete nieder.
+
+Die Matte war kalt. Kälter als der Stein, kälter als die Luft, kälter als alles, was er in seinem Leben berührt hatte. Als seine Handflächen die dunkle Fläche berührten, spürte er ein Pulsieren, ein langsames, tiefes Pulsieren, als läge unter der Matte ein zweites Herz, das im Rhythmus der Erde schlug.
+
+»Schließe die Augen«, sagte Belen Sar.
+
+»Ich weiß, was zu tun ist.«
+
+»Du weißt, was man dir gesagt hat. Das ist nicht dasselbe.«
+
+Oren schloß die Augen.
+
+Zuerst kam das Nichts. Kein Bild, kein Ton, kein Geruch, nur eine Leere, die sich auftat wie ein Mund, der nicht atmete. Dann, langsam, ein Druck an den Schläfen, ein Ziehen hinter den Augen, als griffe jemand von innen nach seinen Gedanken und zöge sie einzeln heraus wie Fäden aus einem Gewebe.
+
+Und dann begann das Flüstern.
+
+Es waren nicht Worte. Es waren die Ränder von Worten, die Silben einer Sprache, die älter war als jede Sprache, die Oren kannte. Sie drangen nicht durch die Ohren ein, sondern durch die Knochen, durch das Mark, durch die Stellen, an denen das Blut am wärmsten floß.
+
+Sein erster Impuls war, die Augen zu öffnen. Sein zweiter Impuls war, die Hände von der Matte zu nehmen. Sein dritter Impuls war die Erkenntnis, daß beide Impulse nicht seine eigenen waren.
+
+Und dachte: Das ist der Anfang. Das ist das, wovor Tarn mich gewarnt hat. Und das ist das, wovor ich mich nicht warnen ließ.
+
+Die Kälte kroch seine Arme hinauf. Sie war nicht unangenehm. Sie war präzise. Sie wußte, wohin sie gehörte. Sie floß in die Schultern, in den Nacken, in den Kiefer, und mit ihr floß etwas anderes, etwas, das sich in seinen Erinnerungen einnistete wie ein Vogel in einem fremden Nest.
+
+Er sah einen Korridor.
+
+Der Korridor war nicht dieser Korridor. Er war länger, dunkler, und an seinem Ende stand eine Tür, die Oren niemals gesehen hatte, und über der Tür hing eine Lampe, die nicht brannte, und unter der Lampe stand ein Mann, den Oren nicht kannte, und der Mann trug einen Ring, der das Siegel von Tarn zeigte.
+
+Oren erkannte den Ring. Er erkannte die Hand. Es war die Hand seines Vorgängers, jünger, fester, ohne die Flecken des Alters. Und der Mann, der die Hand trug, war nicht der Mann, den Oren in den letzten Wochen gepflegt hatte. Es war der Mann davor.
+
+Und dachte: Ich sehe seine Vergangenheit. Ich sehe, was er gesehen hat. Und ich sehe es so, wie er es gesehen hat, aus seinen Augen, mit seinem Rücken, mit seinem Schritt.
+
+Ein zweites Bild kam, ohne Übergang, ohne Warnung.
+
+Eine Kammer. Nicht diese Kammer. Eine Kammer unter Glas, tief, grün, in der das Licht durch Wasserschichten fiel, und in der Kammer standen Regale, und auf den Regalen lagen Rollen, und auf den Rollen standen Zeichen, die Oren nicht lesen konnte, und dennoch verstand er sie, so wie man manchmal einen Satz versteht, bevor man ihn gehört hat.
+
+Unterglas-Kammer.
+
+Die Worte waren nicht seine eigenen. Sie kamen von innen, aus dem Ort, an dem das Flüstern saß, und sie hinterließen eine Spur, dünn wie ein Riß in Glas.
+
+Oren wollte die Augen öffnen. Sein Körper gehorchte nicht.
+
+Die Kälte erreichte seine Brust. Mit ihr kam eine Klarheit, die nicht die seine war. Plötzlich wußte er, wie man einen Vertrag liest. Nicht die Worte, sondern die Lücken, die Ränder, die Stellen, an denen die Schrift zu weit auseinanderläuft wie Atem in kalter Luft. Er wußte, welche Fragen man einem Schreiber stellt, um ihn zum Sprechen zu bringen, und welche man ihm nicht stellt, um ihn nicht zu warnen. Er wußte, wie man einen Raum betritt und in drei Atemzügen erkennt, wer in ihm das Sagen hat und wer nur sitzt.
+
+Es war ein Wissen, das ihn nicht gelehrt worden war. Es war ein Wissen, das in ihn hineingewachsen war wie eine Wurzel in einen Spalt.
+
+Und dachte: Das ist es. Das ist der Nutzen. Das ist das, was Tarn besaß, und was er nicht mehr besaß am Ende. Das ist das Erbe, das mich größer macht als mich selbst.
+
+Etwas in ihm lachte. Es war nicht sein Lachen.
+
+Es war das Lachen eines alten Mannes, trocken und kurz, und es kam aus der Stelle hinter seinen Augen, wo das Flüstern saß. Es war ein Lachen, das nicht spottete, sondern wußte.
+
+»Oren.«
+
+Die Stimme kam von außen. Belen Sar.
+
+»Deine Hände.«
+
+Oren öffnete die Augen. Das Licht der Leitungen war schärfer geworden. Die Drähte an der Decke schienen sich bewegt zu haben, doch als er genauer hinsah, lagen sie still. Seine Hände lagen auf der Matte, die Finger gespreizt, die Knöchel weiß. Zwischen den Fingern hatte sich Schweiß gesammelt, und der Schweiß glänzte dunkel, und in dem Glanz spiegelte sich etwas, das nicht im Raum war.
+
+»Wie lange?«, fragte Oren.
+
+»Eine Stunde«, sagte Belen Sar. »Vielleicht mehr. Du hast nicht geatmet, wie ein Mensch atmet. Du hast anders geatmet.«
+
+»Wie?«
+
+Belen Sar schwieg einen Augenblick. Dann sagte er: »Wie ein Mann, der sehr weit gegangen ist und zurückkommt und nicht weiß, wo er war.«
+
+Oren richtete sich auf. Seine Knie schmerzten. Sein Nacken war steif wie ein Balken. Aber sein Kopf war klar, klarer als an jedem Morgen der letzten Wochen, und in dieser Klarheit lag eine zweite Schicht, dünn und kühl, wie Wasser über Wasser.
+
+Er sah auf seine Hände. Er bewegte sie. Sie gehorchten ihm, und doch lag in ihrer Bewegung eine Winzigkeit Verzögerung, eine Winzigkeit, die niemand sehen würde, der ihn nicht seit Jahren kannte.
+
+»Was hast du gesehen?«, fragte Belen Sar.
+
+»Vergangenheit«, sagte Oren. »Und etwas anderes.«
+
+»Was?«
+
+Oren sah zur Tür. Der Schreiber stand noch immer dort, die Hände in den Ärmeln, das Gesicht wie ein Stein. Und hinter dem Schreiber, in dem Gang, der zur Treppe führte, in der Dunkelheit jenseits des Lichts, war etwas, das Oren nicht benennen konnte. Ein Sog. Ein Ziehen. Als hätte jemand eine zweite Tür geöffnet, von der er nichts wußte.
+
+»Eine Kammer«, sagte Oren langsam. »Unter Glas. Mit Wasser. Und mit Rollen, auf denen Zeichen stehen, die ich nicht lesen kann, und die ich trotzdem verstehe.«
+
+Belen Sar neigte den Kopf. »Die Unterglas-Becken haben viele Kammern. Jede Siedlung hat ihre eigenen. Was du gesehen hast, könnte eine Erinnerung deines Vorgängers sein. Er ist oft in Unterglas gewesen.«
+
+»Nein«, sagte Oren.
+
+»Warum nicht?«
+
+»Weil ich sie nicht mit seinen Augen gesehen habe.« Oren stand auf. Die Matte ließ ihn los, und der Verlust ihrer Kälte war wie der Verlust einer Hand auf der Schulter. »Ich habe sie mit meinen eigenen gesehen. Von innen. Als wäre ich dort gewesen. Und ich bin niemals dort gewesen.«
+
+Er ging zur Tür. Belen Sar trat beiseite, und Oren spürte, wie der Blick des Schreibers auf ihm lag, prüfend, abwägend, so wie ein Schreiber prüft, ob der, den er bezeugt, noch der ist, den er bezeugen soll.
+
+In dem Gang war es kühl. Die Leitungen an der Decke warfen ein Licht, das wanderte, langsam, gleichmäßig, wie das Licht einer Uhr, die niemand gestellt hatte. Oren ging an den Wänden entlang, und seine Schritte waren sicher, und in seiner Sicherheit lag etwas, das ihn nicht gehörte. Er wußte plötzlich, wo die Treppe war, ohne hinzusehen. Er wußte, welche Stufe knarrte und welche nicht. Er wußte, wie viele Schritte es bis zur nächsten Biegung waren.
+
+Und dachte: Das ist gut. Das ist nützlich. Und das ist genau das, was ich nicht sein sollte.
+
+Er blieb stehen. Vor ihm, in der Wand, war eine Nische, die er nicht kannte. Sie war nicht groß, nicht tief, und in ihr lag ein Stein, der anders war als die anderen Steine, glatter, dunkler, und auf dem Stein stand eine Zahl, die halb verwittert war.
+
+Drei vier eins vier. Oder drei eins vier vier. Oren konnte es nicht entscheiden. Und während er es nicht entscheiden konnte, kam ein Bild, so klar und plötzlich, wie Bilder nur kommen, wenn sie nicht gerufen werden.
+
+Er sah eine Hand. Eine fette Hand, mit Ringen, die in das Fleisch schnitten, und die Hand lag auf einem Globus, und auf dem Globus waren Linien, und die Linien kreuzten sich an einer Stelle, die nicht auf der Oberfläche lag, sondern darunter, tief darunter, in einem Schacht, der durch Glas führte, und an dessen Ende lag eine Kammer, und in der Kammer standen Regale, und auf den Regalen lagen Rollen, und eine der Rollen war aufgeschlagen, und auf der aufgeschlagenen Seite stand eine Zeile, die Oren nicht lesen konnte, und die er dennoch verstand.
+
+Und die Zeile lautete: Der Träger der zweiten Stimme wird nicht der Träger der ersten sein.
+
+Dann war das Bild fort. Die Nische war wieder eine Nische. Der Stein war wieder ein Stein. Und Oren stand in dem Gang, allein, mit dem Geruch von Kupfer in der Nase und dem Gefühl, daß ihm jemand etwas gegeben hatte, das er nicht verlangt hatte, und daß dieses Etwas nun in ihm lag, wie ein Kiesel in einem Schuh, den man nicht ausziehen kann.
+
+Er ging weiter zur Treppe. Er stieg hinauf. Er trat in den Saal, in dem die Ältesten ihn erwarteten, und sein Gang war ruhig, und seine Stimme war fest, und niemand sah, daß in seinen Augen ein zweites Licht brannte, klein und kühl, wie das Licht einer Lampe, die nicht an einem Ort steht, sondern in einem Menschen.
+
+Sie empfingen ihn mit den Worten, die sie immer sprachen. Sie fragten ihn nach seinem Zustand. Sie fragten ihn nach der Kopplung. Sie fragten ihn, ob er bereit sei, das Erbe zu tragen.
+
+Und Oren antwortete mit den Worten, die man von ihm erwartete.
+
+Aber während er antwortete, sah er hinter den Ältesten, hinter ihren Gesichtern und ihren Ringen und ihren Gewändern, eine Kammer, die nicht im Raum war. Eine Kammer unter Glas. Eine Kammer mit Wasser. Und in der Kammer stand eine Tür, und die Tür war verschlossen, und hinter der Tür lag etwas, das ihn rief, ohne Stimme, ohne Worte, mit demselben Sog, der ihn in der Kopplung berührt hatte.
+
+Und dachte: Ich sollte den Schiedsrichter rufen. Ich sollte Neris Tal rufen. Ich sollte jemandem sagen, was ich gesehen habe.
+
+Und dachte: Aber zuerst muß ich wissen, was es ist. Und um zu wissen, was es ist, muß ich es sehen. Und um es zu sehen, darf ich nicht sprechen.
+
+Er verließ den Saal, und draußen, im Gang, wartete Belen Sar mit einem versiegelten Schreiben, und das Schreiben trug das Siegel von Nemet, und der Absender war Ilyan Dheran.
+
+Oren brach das Siegel nicht. Er hielt das Schreiben in der Hand, und in seiner Hand war die Kälte der Kopplungsmatte noch nicht ganz gewichen, und die Kälte floß in das Papier hinein, als läse sie es für ihn.
+
+Und dachte: Dheran bietet sich an. Dheran will bei meiner Kopplung stehen. Dheran will sehen, was ich sehe. Dheran will wissen, was ich bin.
+
+Und dachte: Er weiß nicht, was ich heute gesehen habe. Er weiß nicht, daß das Netzwerk mir eine Kammer gezeigt hat, die er nicht kennt. Und solange er es nicht weiß, bin ich ihm einen Schritt voraus.
+
+Er schob das Schreiben in den Ärmel, ohne es geöffnet zu haben, und ging weiter, und hinter ihm blieb der Gang, und in dem Gang blieb die Nische mit dem Stein, und auf dem Stein stand eine Zahl, die halb verwittert war, und in der Zahl lag ein Ort, und in dem Ort lag eine Kammer, und in der Kammer lag eine Antwort, die noch niemand gestellt hatte.
+
+Und die Antwort begann mit einem Wort, das Oren gehört hatte, ohne es zu verstehen.
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/ashkara/assets/chapter/chapter-009.jpg" alt="Kapitel 009" />
+</div>
+
+# Neuntes Kapitel {#kapitel-009 .chapter-heading .centered}
+
+Die Kopplungsmatte war kalt. Nicht die Kälte eines Steins, der im Schatten liegt; es war eine Kälte, die aus dem Material selbst zu kommen schien, als hätte es die Wärme vergangener Körper in sich aufgesogen und nichts zurückgegeben als die Erinnerung an eine Abwesenheit. Oren Kest saß mit gekreuzten Beinen auf ihr, die Handflächen nach oben geöffnet. Das Licht der drei alten Leuchtkugeln über ihm brannte gelblich und ruhig. Der Raum lag tief im ältesten Teil des Tarn-Hauptquartiers, dort, wo die Wände noch aus dem dunklen Basalt des Gründungszeitalters waren und wo die Luft nach feuchtem Gestein und dem schwachen, metallischen Atem der Kopplungstechnik roch.
+
+Belen Sar stand an der Tür. Der Schreiber hielt eine Schriftrolle im Arm, die er nicht benutzte. Seine Augen gingen zwischen Oren und dem kleinen Messgerät an der Wand hin und her. Auf dem Gerät standen Zahlen, die nichts verrieten. Sar notierte sie trotzdem.
+
+»Diesmal nur die zweite Stufe«, sagte Sar. Seine Stimme war trocken, ohne Wärme. »Die erste Kopplung hat Spuren hinterlassen. Die Ältesten haben eine kürzere Sitzung angeordnet.«
+
+Oren schloß die Augen. »Ich weiß, was die Ältesten angeordnet haben.«
+
+»Und du bist einverstanden?«
+
+»Ich bin hier.«
+
+Sar schwieg. Dann sagte er: »Es wird kälter. Das ist normal. Beim zweiten Mal ist es immer kälter, weil der Körper weiß, was kommt.«
+
+Oren antwortete nicht. Er atmete. Das Atmen gehörte zu den Dingen, die man ihm beigebracht hatte, bevor man ihn das Denken lehrte — langsam, tief, in einem Rhythmus, der den Puls senkte und die Aufmerksamkeit nach innen zog. Die Kälte stieg von der Matte in seine Beine, seinen Rücken, seinen Nacken. Sie war wie Wasser, das aus einem Riß im Boden steigt, ohne Eile, ohne Geräusch.
+
+Und dann — nicht das Netzwerk. Etwas anderes. Etwas, das nicht durch die Matte kam, sondern durch eine Naht, die er nicht kannte.
+
+Der erste Atemzug der Kopplung war wie ein Sprung in einen dunklen Schacht. Kein Fall, kein Laut. Nur das plötzliche Fehlen von allem, was ihn ausmachte. Sein Name verschwand. Sein Körper verschwand. Zurück blieb ein Wahrnehmen, das keinen Besitzer hatte.
+
+Dann setzte etwas ein.
+
+Es begann mit dem Geruch. Nicht der Geruch des Kopplungsraums, sondern ein anderer: kaltes Metall, Salzwasser, feuchter Kalk, und darunter der Geruch von Stoff, der lange in einem geschlossenen Behältnis gelegen hatte. Der Geruch einer Kammer, die kein Licht kennt und keinem Vergessen entkommt.
+
+Dann das Geräusch. Ein Tropfen fiel. Irgendwo tief unten, in einem Raum, den er nicht sah, fiel ein Tropfen auf eine Steinplatte. Der Widerhall war lang. Zu lang für einen kleinen Raum. Der Widerhall sagte: gewölbte Decke, glatte Wände, kein Möbel, keine Menschen. Nur das Wasser und der Stein.
+
+Oren versuchte, die Augen zu öffnen, aber die Augen existierten nicht mehr. Er war reines Wahrnehmen, ein Ohr, eine Nase, ein Tastsinn, der über kalte Flächen glitt, ohne Hand, ohne Haut, ohne Nerven, die zu ihm gehörten.
+
+Und dann öffnete sich die Kammer.
+
+Nicht mit einer Tür. Mit einem Nachgeben, wie wenn eine Membran zerreißt, die man nicht sehen kann. Er stand — nein, jemand stand und er stand mit ihm — auf einem Steinboden, der aus unregelmäßig behauenen Platten bestand. Zwischen den Platten waren Risse, und in den Rissen glitzerte Wasser. Nicht viel. Nur dünne Adern, die wie silberne Fäden durch den Stein liefen.
+
+Schriftrollen.
+
+Sie lagen auf Regalen, die in den Fels gehauen waren. Nicht ordentlich. Sie lagen, wie Menschen liegen, die zu lange gewartet haben. Manche waren gerollt, manche halb entrollt, manche offen und flach, als hätte jemand sie gelesen und nicht wieder eingesammelt. Und auf allen stand Schrift. Aber nicht die Schrift der Kontinuitäten. Nicht die keilförmigen Zeichen der Archivtafeln, nicht die runden Glyphen der Nemet-Häuser, nicht die Linien der Unterglas-Hydrologen. Es war eine ältere Schrift. Eine Schrift, die keine Zunge hatte, die sie sprechen konnte.
+
+Und als Oren — oder der, der ihn trug — eine der Rollen berührte, geschah etwas, das keine Berührung war. Die Rolle sprach nicht. Sie sandte. Sie sandte Bilder, aber nicht die Bilder der Erinnerung, wie er sie aus der ersten Kopplung kannte. Diese Bilder kamen nicht aus einem Menschen. Sie kamen aus etwas, das vor den Menschen dagewesen war.
+
+Er sah Wasser. Nicht das Wasser eines Flusses, nicht das Wasser eines Meeres. Wasser, das floß, ohne zu fließen. Wasser, das in geschlossenen Bahnen lief, wie Blut in Adern, und das die Adern selbst gebaut hatte. Wasser, das über Glasschichten glitt und in die Tiefe hinabstieg, wo das Gestein schwarz war und der Druck alles zerquetschte, was nicht aus Stein war.
+
+Und in diesem Wasser, das in der Dunkelheit floß, waren Zeichen. Keine Schriftzeichen. Muster. Wie die Ränder einer Muschel, wie die Ringe eines Baumes, wie die Verzweigungen eines Blitzes. Muster, die etwas bedeuteten, aber nichts, was sich in Worte übertragen ließ. Muster, die eine Sprache waren, die keinen Sprecher hatte und keinen Hörer brauchte.
+
+Und Oren — der in diesem Augenblick keinen Namen hatte, weil der Name zu dem gehörte, was er nicht war — begriff, ohne zu verstehen: Dies war nicht Tarns Erinnerung. Dies war nicht das Erbe, das er angetreten hatte. Dies war älter. Dies war die Erinnerung eines Ortes, der niemals ein Mensch gewesen war.
+
+Die Kälte zog enger. Der Tropfen fiel wieder. Diesmal lauter, näher.
+
+Und in dem Tropfen, in seiner Regelmäßigkeit, lag eine Botschaft, die kein Wort war, sondern eine Gewißheit: Die Kammer war verschlossen. Sie war verschlossen gewesen, als Tarns Vorgänger gelebt hatten. Sie war verschlossen gewesen, als der Abtretungsvertrag geschrieben wurde. Sie war verschlossen gewesen, bevor es Kontinuitäten gab, bevor es Archive gab, bevor es Menschen gab, die Archive bauen konnten.
+
+Und jemand hatte sie geöffnet.
+
+Nicht mit einem Schlüssel. Mit einem Erinnern. Mit einer Kopplung, die tiefer ging als die Kopplungen, die man auf den Matten lehrte. Mit einer Neugier, die keine Grenze kannte und keine Erlaubnis brauchte.
+
+Oren wollte den Namen des Neugierigen wissen, aber die Frage zerfiel ihm im Mund, wie ein Stück Brot, das man zu lange gekaut hat. Es gab keinen Mund mehr. Es gab nur die Kammer und das Wasser und die Schrift, die keine war, und die Kälte, die immer enger wurde, bis sie zu einem Ring wurde, der sich um das legte, was von ihm übrig war.
+
+Dann brach der Ring.
+
+Er fiel nicht. Er wurde zurückgezogen, schnell und ohne Übergang, wie ein Seil, an dem jemand mit einem Ruck zieht. Der Geruch der Kammer riß ab. Der Widerhall brach. Die Kälte blieb, aber sie war jetzt die Kälte der Matte, die Kälte des Raumes, die Kälte des Gesteins. Er hörte seinen eigenen Atem. Er hörte das Summen der Leuchtkugeln. Er hörte seinen Namen, laut und ungeduldig, und es war Sars Stimme.
+
+»Oren.«
+
+Er öffnete die Augen. Das Licht der Kugeln brannte, und in dem Licht sah er Sars Gesicht, das ihm näher war als erwartet. Die Hand des Schreibers lag auf seinem Arm.
+
+»Du warst fort«, sagte Sar. »Nicht wie beim ersten Mal. Beim ersten Mal hast du geatmet. Diesmal hast du nicht geatmet.«
+
+Oren schob die Hand fort. Seine Finger waren taub. Sein Nacken schmerzte, als hätte etwas ihn verdreht. Er blinzelte. Die Kammer war fort. Aber der Geruch war nicht fort. Er lag noch in seinen Nasenlöchern, wie ein Öl, das sich nicht abwaschen läßt.
+
+»Wie lange?«
+
+»Sechs Minuten und zwanzig Sekunden.« Sar sah auf das Messgerät. »Auf der Matte liegt dein Schweiß. Und die Zahlen sind nicht gestiegen. Sie sind gesunken. Das ist unmöglich, sagt das Gerät.«
+
+»Das Gerät irrt.«
+
+»Das Gerät irrt nicht.« Sar sagte es ohne Betonung. »Die Ältesten werden es morgen lesen. Sie werden dich fragen, was du gesehen hast.«
+
+Oren stand auf. Die Beine trugen ihn, aber sie gehorchten mit einer kurzen Verzögerung, wie ein Werkzeug, das nicht mehr dem gehört, der es benutzt. Er griff in seinen Ärmel. Das Schreiben Dherans war noch da, ungeöffnet, das Siegel unversehrt. Er zog es nicht heraus. Er ließ es liegen, wo es lag, an der Innenseite des Stoffes, und in dieser Berührung spürte er den kalten Hauch der Kammer, der nicht wich.
+
+»Ich habe nichts gesehen, das ich erzählen kann«, sagte er.
+
+Sar sah ihn an. Der Blick des Schreibers war nicht der Blick eines Dieners. Es war der Blick eines Mannes, der zu prüfen gelernt hat, ob das, was er hört, mit dem übereinstimmt, was er sieht. Er sah: Orens Finger zitterten. Er sah: Orens Augen gingen zur Seite, dorthin, wo keine Tür war. Er sah: Orens Lippen waren trocken, obwohl Wasser im Raum stand.
+
+Er sagte nichts.
+
+»Sage den Ältesten«, sagte Oren, »daß die zweite Stufe bestanden ist. Sage ihnen, daß ich bereit bin für die dritte.«
+
+»Bist du es?«
+
+»Sage es ihnen.«
+
+Sar neigte den Kopf, wie er es immer tat, und notierte einen Satz auf der Schriftrolle, die er im Arm hielt. Oren wußte nicht, was er notierte. Er wußte nur, daß der Schreiber Dinge aufschrieb, die später gegen ihn verwendet werden konnten, und daß er das nicht verhindern konnte.
+
+Er verließ den Kopplungsraum durch die eiserne Tür, die in den Gang führte. Der Gang war leer. Das Licht der Wandlampen war rötlich und niedrig, und die Luft war kalt, wie immer, aber die Kälte trug jetzt einen Beisatz, den sie vorher nicht gehabt hatte. Sie trug den Beisatz der Kammer.
+
+Er ging zwölf Schritte, dann blieb er stehen. Er lehnte sich an die Wand, und die Wand war fest, und der Stein war fest, und er preßte die flache Hand gegen den Stein, um zu spüren, daß es einen Unterschied gab zwischen dem Gestein hier und dem Gestein dort. Es gab einen Unterschied. Das Gestein hier war nur Gestein. Das Gestein dort hatte ein Gedächtnis gehabt.
+
+Und dachte: Die Erinnerung gehört mir nicht. Sie gehört niemandem. Sie ist ein Fund, kein Erbe.
+
+Und dachte: Tarn hat davon nichts gewußt. Tarn hat auf der Matte gelegen, wie ich, und hat geglaubt, das Netzwerk sei das Älteste, was es gibt. Aber das Netzwerk ist nicht das Älteste. Das Netzwerk ist nur das Älteste, das spricht.
+
+Und dachte: Wenn ich es ihm erzähle, wird er es nehmen. Wenn ich es nicht erzähle, werde ich es behalten, und mit dem Behalten fängt die Lüge an.
+
+Er nahm die Hand von der Wand. Das Zittern war zurückgegangen. Er ging weiter, und hinter ihm blieb der Gang, und in dem Gang blieb der Kopplungsraum, und in dem Kopplungsraum lag die Matte, und auf der Matte lag der Schweiß, und in dem Schweiß lag das Salz aus einer Kammer, die nicht zu ihm gehörte.
+
+Der Kanzleiraum von Nemet lag im zweiten Untergeschoß des Annex, hinter einer Reihe von Türen, die alle gleich aussahen und alle unterschiedlich klangen, wenn man sie schloß. Neris Tal hatte in den vergangenen sechs Tagen gelernt, welche Tür dumpf klang und welche hohl, aber heute hörte sie die Türen nicht. Sie hörte nur das Gerät.
+
+Es stand auf dem Tisch vor ihr. Ein Lesegerät, alt, aber kalibriert. Ein grauer Kasten mit einer Linse an der Stirnseite und einer Platte, auf der die Probe lag. Die Probe war ein Splitter. Nicht größer als ein Fingernagel. Glasig, milchig, mit einem Schimmer, der je nach Lichteinfall die Farbe wechselte. Sie hatte ihn aus der versiegelten Kapsel genommen, die der ehemalige Forscher ihr am Rande des Archivganges zugeschoben hatte, ohne ein Wort, ohne einen Blick, mit Händen, denen die Zugehörigkeit abhanden gekommen war.
+
+Der Forscher hatte nichts erklärt. Er hatte nur gesagt: »Wenn du wissen willst, ob der Vertrag gelogen ist, miß den Splitter. Und dann miß ihn noch einmal. Zweimal, nicht einmal. Ein Meßwert ist eine Meinung. Zwei Meßwerte sind ein Zeuge.«
+
+Neris hatte den Splitter genommen, weil sie den Mann für glaubwürdig hielt, und weil Glaubwürdigkeit in dieser Sache nicht mehr aus Quellen kam, sondern aus Widersprüchen. Sie hatte die Kapsel in ihr Gemach getragen und sie eine Nacht lang nicht geöffnet, aus Angst, was sie finden würde. Am Morgen hatte sie sie geöffnet.
+
+Das Gerät summte. Die Linse leuchtete auf, und das Licht fiel durch den Splitter und brach sich in einem Muster, das auf der Mattscheibe erschien. Ein Spektrum. Kein schönes. Die Linien waren nicht gleichmäßig. Sie waren unterbrochen. An zwei Stellen, an genau zwei, war eine Linie gespalten, und zwischen den Spalten lag ein schmaler Streifen, der fast dunkel war. Kein Linienmuster, das zu Veyra gehörte. Kein Linienmuster, das zu den sieben Kontinuitäten gehörte. Ein Muster, das zu etwas gehörte, das in keiner Registratur stand.
+
+Neris notierte die Werte. Zwei Spalten, in einem Abstand von 0,3 Nanometern. Datum. Uhrzeit. Temperatur. Sie schloß das Gerät nicht. Sie öffnete die Kapsel erneut und nahm die zweite Probe. Sie war kleiner als die erste. Ein Splitter vom Splitter, abgesprungen an der Kante, und an der Kante war die Bruchfläche glatt und frisch.
+
+Sie legte ihn auf die Platte und ließ das Gerät wieder laufen. Das Licht brach sich. Das Muster erschien. Und diesmal war die Spalte nicht bei 0,3 Nanometern. Sie war bei 0,3 Nanometern und bei 2,8 Nanometern. Zwei Spalten. Zwei Meßwerte.
+
+Sie setzte sich zurück. Ihre Hände lagen auf dem Tisch, und sie sah sie an, als könne sie prüfen, ob sie noch die ihren waren. Das Gerät summte weiter. Sie ließ es summen. Sie dachte nicht. Sie wartete, bis das Summen aufhörte, und dann sah sie die Zahlen an, und die Zahlen waren da, unwiderlegbar, in ihrer eigenen Handschrift, mit ihrem eigenen Datum versehen.
+
+Und dachte: Eine Probe mit zwei Spalten ist keine Probe. Es sind zwei Proben.
+
+Und dachte: Der Splitter ist nicht aus einem Guß. Er ist zusammengesetzt. Aus zwei Materialien, die nicht zusammengehören, und die Naht zwischen ihnen verläuft genau durch die Stelle, an der die Kontinuitäten behaupten, Veyra sei rein.
+
+Und dachte: Der Vertrag ist auf einem Material geschrieben, das gefälscht wurde. Nicht die Schrift. Nicht die Unterschrift. Das Material selbst. Und wenn das Material gefälscht ist, dann ist alles gefälscht, was darauf ruht.
+
+Sie nahm die Proben von der Platte und legte sie in die Kapsel zurück. Sie verschloß die Kapsel. Sie legte sie in die Innentasche ihres Mantels, dort, wo sie sie spüren würde, wenn sie ging. Dann trat sie ans Fenster. Das Fenster ging auf einen kleinen Hof, in dem nichts wuchs und nichts lebte, und in der Dunkelheit des Hofes sah sie die Umrisse von zwei Männern, die an der gegenüberliegenden Wand standen und rauchten. Sie standen dort seit dem Nachmittag. Sie standen dort mit einer Geduld, die nicht zu Rauchern gehörte, sondern zu Wächtern.
+
+Neris trat vom Fenster zurück. Sie zog den Mantel enger. Sie wußte, was sie jetzt besaß: ein Meßergebnis, das sich morgen, in der Versammlung, würde zitieren lassen. Einen Wert, der ein Datum und eine Uhrzeit trug. Einen Wert, der nicht wegzuargumentieren war, weil er nicht von ihr kam, sondern vom Gerät.
+
+Und sie wußte, was das bedeutete: Sie würde nicht mehr suchen können. Sie würde nur noch fliehen können.
+
+Der Flur vor dem Versammlungssaal lag im Halbdunkel, als der Mann kam. Es war noch früh. Die Hüter der Kontinuitäten waren nicht erschienen, die Schreiber nicht, die Wächter nicht. Nur zwei Lampen brannten, am Ende des Ganges, und in ihrem Licht stand eine Gestalt in einem langen, grauen Mantel, der keinen Rang und keine Kontinuität verriet. Die Gestalt rührte sich nicht, als Neris den Flur betrat. Sie wartete.
+
+Neris erkannte die Haltung, bevor sie das Gesicht erkannte. Die Haltung gehörte nicht zu einem Wächter. Sie gehörte zu einem Mann, der es nicht nötig hatte, sich zu bewegen, weil die Bewegung von anderen erwartet wurde.
+
+»Ilyan Dheran.«
+
+Dheran trat einen Schritt vor. Das Licht fiel auf sein Gesicht, aber sein Gesicht veränderte sich dadurch nicht. Es hatte die Ruhe von Stein, der lange im Wasser gelegen hat. Er trug keine Akten, keine Schriftrolle, keine Begleitung.
+
+»Neris Tal«, sagte er. Seine Stimme war ruhig, wie immer. Sie war nicht freundlich und nicht feindlich. Sie war die Stimme eines Mannes, der wußte, daß die Stille nach seinen Worten mehr bewirken konnte als die Worte selbst.
+
+»Du bist früh«, sagte sie.
+
+»Ich bin immer früh«, sagte er. »Das ist das Mindeste, was man von einem Mann verlangen kann, der zu spät gekommen ist.«
+
+Er ließ die Worte stehen. Neris ließ sie stehen. Zwischen ihnen lagen drei Schritte Flur, kalter Stein, das Summen der Lampen.
+
+»Ich habe gehört«, sagte Dheran, »daß du gestern eine Probe in Empfang genommen hast. Von einem Mann, der nicht mehr zu uns gehört. Ohne Registrierung. Ohne Quittung. Ohne Wissen des Archivs.«
+
+»Ich habe keine Auskunft darüber zu geben.«
+
+»Nein«, sagte Dheran. »Das hast du nicht. Aber du wirst sie geben. Nicht mir. Der Versammlung«, sagte er, und seine Stimme wurde um eine Spur leiser, »aber die Versammlung tritt nicht zusammen, solange ich das für unnötig halte. Und ich halte es für unnötig, solange die Probe nicht dort ist, wo sie hingehört.«
+
+Er streckte die Hand aus. Nicht fordernd. Nur ausgestreckt, offen, in einer Geste, die man als Bitte lesen konnte und als Befehl verstehen mußte. Neris sah die Hand an. Sie war die Hand eines alten Mannes, mit dünner Haut und einem Ring, auf dem kein Wappen war.
+
+Und dachte: Er bittet nicht. Er verlangt. Er verlangt mit der Stimme, mit der man Kinder zurückruft, die zu weit gegangen sind.
+
+»Die Probe ist nicht mein Eigentum«, sagte sie. »Sie ist ein Beweisstück.«
+
+»Beweisstücke«, sagte Dheran, »sind Dinge, die vor Gericht liegen. Und vor Gericht liegen sie erst, wenn das Verfahren eröffnet ist. Das Verfahren ist nicht eröffnet. Also ist die Probe kein Beweisstück. Sie ist ein Fund. Und Funde gehören dem Archiv.«
+
+»Das Archiv hat meinen Zugang gesperrt.«
+
+»Nicht zu diesem Fund.« Dheran ließ die Hand sinken. Er sah sie an, und in seinem Blick lag kein Zorn. Er lag ruhiger, als sie es je an ihm gesehen hatte, und diese Ruhe war schlimmer als Zorn. »Ich werde nicht verlangen, daß du mir die Kapsel jetzt gibst. Ich werde nur sagen, was geschieht, wenn du sie behältst. Der Fundort wird versiegelt. Heute nacht. Alle Zugänge. Alle Aufzeichnungen. Alle Geräte, mit denen der Fund hätte gemessen werden können. Und dann wird die Probe, die du in der Tasche trägst, nicht mehr gegen etwas gehalten werden können. Sie wird allein sein. Und eine Probe, die allein ist, ist ein Gerücht.«
+
+Neris hörte die Worte, und während sie sie hörte, verstand sie den Mann vor sich zum ersten Mal wirklich. Er drohte nicht. Er beschrieb. Er beschrieb die Welt, die er herstellen konnte, mit derselben Ruhe, mit der ein Ingenieur beschreibt, was geschieht, wenn ein Damm bleibt, wo er ist. Und die Beschreibung war korrekt. Das war das Schlimmste an ihr.
+
+»Du weißt, was auf dem Splitter steht«, sagte sie.
+
+»Ich weiß, was ein Splitter zeigen kann«, sagte Dheran. »Und ich weiß, was ein Splitter zeigen kann, wenn man ihn zweimal mißt, und wie die Zahlen dann lauten. Ich habe vor sechzig Jahren dasselbe getan. Mit einem anderen Splitter. Und ich habe damals geschwiegen, weil das Schweigen die Ordnung bewahrte und das Sprechen sie zerstört hätte. Und ich schweige heute noch, aus demselben Grund. Der Grund hat sich nicht geändert, Neris Tal. Nur die Zahl auf dem Papier.«
+
+Er sah sie an. Sie sah ihn an. Die Lampen summten.
+
+»Übergib mir die Kapsel«, sagte er. »Nicht, weil ich sie brauche. Sondern weil du sie nicht brauchst. Du brauchst nur zu wissen, was darin steht. Und das weißt du jetzt.«
+
+»Ich weiß es«, sagte Neris. »Aber Wissen ist kein Beweis.«
+
+»Nein«, sagte Dheran. »Wissen ist eine Last. Und ich trage sie seit sechzig Jahren, und ich sage dir: Sie wird nicht leichter.«
+
+Er wandte sich um. Er ging den Flur hinab, in das Halbdunkel, aus dem er gekommen war, und seine Schritte klangen gleichmäßig und ohne Eile. Am Ende des Ganges blieb er stehen, ohne sich umzudrehen.
+
+»Der Fundort ist ab Mitternacht gesperrt«, sagte er. »Der Schlüssel liegt bei mir. Wenn du die Kapsel behalten willst, behalte sie. Aber dann bist du morgen nicht mehr eine Archivforensikerin. Dann bist du eine Frau mit einer Probe. Und für eine Frau mit einer Probe gibt es in dieser Stadt nur einen Ort, und der Ort ist nicht das Archiv.«
+
+Er ging. Neris blieb stehen. Sie hörte seine Schritte verhallen. Sie hörte die Tür am Ende des Ganges, dumpf, wie eine Tür, gegen die jemand gestoßen ist.
+
+Sie stand im Halbdunkel und spürte die Kapsel in ihrer Tasche, kalt, klein, nicht größer als ein Fingernagel. Und sie wußte, was sie jetzt war: keine Forscherin mehr. Eine Gejagte. Und was sie trug, war kein Fund mehr. Es war ein Sprengsatz, der in ihrer Hand lag, und der Zünder war die Zahl, die nur sie kannte.
+
+Sie drehte sich um und ging in die entgegengesetzte Richtung. Sie ging nicht schnell. Sie ging nicht langsam. Sie ging wie eine Frau, die weiß, daß der Boden hinter ihr nicht mehr trägt.
+
+Im Archivflügel unter dem Annex summte das Gerät weiter, auf dem Tisch, leer, mit der Linse nach oben, und über dem Gerät lag das Licht der Lampen, und in dem Licht lag nichts. Nur Papier. Nur Zahlen. Und die Zahlen waren zwei Zeugen, die niemand mehr rufen konnte, weil der Ort, an dem sie gemessen worden waren, ab Mitternacht verschlossen war, und der Schlüssel lag bei einem Mann, der seit sechzig Jahren schwieg und heute nicht laut geworden war.
+
+Und in der Tasche der Frau, die den Flur verließ, lag die Kapsel, und in der Kapsel lag der Splitter, und in dem Splitter lagen zwei Spalten, und in den zwei Spalten lag ein Datum.
+
+Und das Datum stand nicht im Vertrag.
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/ashkara/assets/chapter/chapter-010.jpg" alt="Kapitel 010" />
+</div>
+
+# Zehntes Kapitel {#kapitel-010 .chapter-heading .centered}
+
+Analysezelle 3 lag im östlichen Trakt des Nemet-Labors, unterhalb der Ebene, auf der die Öffentlichkeit verkehrte, und wer sie betrat, tat es mit einem Ausweis, der drei Prüfungen überstand. Die Luft roch nach Ozon und nach dem kalten Metall der Wandverkleidungen. Neris Tal hatte den Raum seit dem frühen Morgen nicht verlassen.
+
+Vor ihr, auf dem Tisch, lag der Ausdruck der Knotenkarte. Sieben Kontinuitäten, sieben Spalten, sieben Reihen von Zeitstempeln, die wie die Rippen eines Fisches über das Papier liefen. Sie hatte die Karte in der Nacht von Hand gezeichnet, weil die Archive ihre Zugriffsberechtigung für die grafische Oberfläche um Mitternacht gelöscht hatten. Dherans Werk. Der Schlüssel lag bei ihm. Jetzt lag auch die Karte bei ihr.
+
+Das Gerät summte. Sie hatte es aus dem Annex mitgenommen, bevor die Siegel griffen – eine tragbare Auslesesonde, alt, mit einer Linse, die zwei Spektren zugleich las. Auf dem Tisch daneben lagen drei Blätter mit ihren eigenen Aufzeichnungen. Sie prüfte sie noch einmal.
+
+»Sechsundzwanzig Komma drei«, murmelte sie. Dann: »Sechsundzwanzig Komma vier.«
+
+Sie strich mit dem Finger über die Zahlen. Der Unterschied war nicht groß. Aber er war da, und er war ihrer.
+
+Sie hatte in der Nacht, während der Flucht durch den Archivflügel, an einer Zwischenstation eine Kopie ihrer Rohwerte angelegt und die Originale zurückgelassen. Die Kopie wich von den Originalen ab. Nicht in den Messwerten. In den Zeitstempeln. Ein Zugriff war um zweiundzwanzig Minuten und siebzehn Sekunden verschoben. Zweiundzwanzig Minuten, siebzehn Sekunden – sie konnte diese Zahl nicht erklären. Sie hatte sie nicht geschrieben. Und doch stand ihre Handschrift daneben.
+
+Sie legte die Blätter nieder und sah sie an. Ein Fehler in ihren eigenen Aufzeichnungen. In ihren eigenen. Sie, Neris Tal, die seit neunzehn Jahren forensische Protokolle führte und keinem Schreibfehler in fremden Dokumenten durchgelassen hatte, war sich nicht mehr sicher, was sie selbst notiert hatte.
+
+»Konzentrier dich«, sagte sie. »Wenn du dir nicht mehr traust, traust du niemandem.«
+
+Sie setzte sich. Sie schob die drei Blätter beiseite und legte die Knotenkarte in die Mitte.
+
+Die Veyra-Spur war ihre eigene Bezeichnung. Dheran hätte »Kalibrierungsnetz« gesagt. Die Ältesten hätten »Tiefenspeicher« gesagt. Neris nannte es eine Spur, weil es eine war: ein Weg, den jemand gegangen war, und der nicht im Netzplan verzeichnet war.
+
+Sie nahm ein Lineal.
+
+Die Knoten lagen in zwei Ringen um den Planetenkern. Der innere Ring, sieben Knoten, entsprach den sieben Kontinuitäten. Der äußere Ring, einundzwanzig Knoten, entsprach den Röhren der Tiefenspeicher, drei pro Kontinuität, alle verbunden durch dünne, gepunktete Linien. Zwischen den Ringen lief ein schmaler Kranz. Sie hatte ihn bisher für einen Träger gehalten. Jetzt sah sie, dass in ihm Zeitstempel lagen.
+
+Sie las.
+
+Erster Zugriff: 3214.041, Abtretungsvertrag. Zweiter Zugriff: 3214.058, Nachträgliche Kalibrierung. Dritter Zugriff: 3214.112, Abschluss der Archivierung. Dann, einundsechzig Jahre später – ein Zugriff, der nicht im Wartungsplan stand. 3275.203. Um drei Uhr siebzehn.
+
+Ein Schreibzugriff.
+
+Sie las weiter. Ein zweiter, ein dritter, ein vierter. Sechs Schreibzugriffe, alle zwischen drei und vier Uhr morgens, alle an Tagen, an denen kein Wartungsfenster dokumentiert war. Sie hatte die Wartungsprotokolle aus vierzig Jahren verglichen, in der Nacht, im Halbdunkel einer Zwischenstation, mit einer Taschenlampe und einem Stift, weil der Bildschirm sie verraten hätte. Sechs Schreibzugriffe. Und keinen einzigen Eintrag im offiziellen Logbuch.
+
+Sie zeichnete die Zugriffe in die Karte. Sie verband sie mit dünnen roten Linien. Die Linien liefen nicht zufällig. Sie liefen nach einem Muster. Vier der sechs Zugriffe trafen den äußeren Ring Nemets. Zwei trafen Tarn.
+
+Sie hielt inne. Sie sah auf ihre Hand. Die Hand zitterte, leicht, kaum sichtbar. Kein Zittern der Angst. Ein Zittern des Wiedererkennens. Sie hatte dieses Muster gesehen. Sie wusste nicht, wo. Und was man nicht weiß, kann man nicht zitieren.
+
+»Wenn ich das nicht belegen kann«, sagte sie, »existiert es nicht.«
+
+Sie stand auf und ging zur Auslesesonde. Sie schaltete die zweite Linse ein. Eine Stimme, die sie nicht als ihre erkannte, sagte in ihr: Für eine Frau mit einer Probe gibt es in dieser Stadt nur einen Ort. Sie wischte die Stimme fort.
+
+Das Gerät tastete den Kranz ab. Die Linse las zwei Spalten, wie immer. Aber die Sondenmelodie, die sie aus zwölf Jahren Routine kannte, blieb aus. Stattdessen kam ein trockener Ton, wie das Klicken eines Schlosses, das nicht öffnet. Sie prüfte die Anzeige. Die Kopplung, die das Gerät registrierte, lag außerhalb der dokumentierten Zeitfenster.
+
+»Das ist nicht möglich«, sagte sie.
+
+Sie prüfte es dennoch.
+
+Der Kranz trug einen Zustand. Einen gespeicherten Zustand, der nicht zum Abruf, sondern zum Vergleich diente. Ein Modell der Kopplung vom Tag des Vertragsabschlusses. Neris hielt den Atem an. Sie war Neurologin genug, um zu wissen, was ein Vergleichsmodell bedeutete. Man verglich nicht mit einem Modell. Man verglich mit einer Quelle. Der Kranz sprach nicht von Kalibrierung. Der Kranz sprach von einer laufenden Verbindung.
+
+Sie griff nach dem Stift und rechnete. Orens erste Teilkopplung, Tag 3389.304, drei Uhr elf. Hier. Im Kranz. Der Zustand war nicht archiviert worden. Er war während der Kopplung dagewesen. Während Orens Sitzung. Die Dauer belief sich auf eine Stunde. Die Kopplung hatte gehalten, bis die Matte sich löste.
+
+Neris setzte sich langsam. Sie legte den Stift weg. Sie sah auf die zwei Spalten der Auslesesonde und auf den trockenen Ton, der immer noch im Hintergrund lief, ein Klicken, kein Öffnen. Und sie dachte: Es speichert nicht. Es liest mit.
+
+Sie hörte ein Geräusch. Ein Schaben. Im Gang draußen, hinter der Wand aus Metall, ging jemand vorbei. Sie kannte diesen Schritt nicht. Sie hatte in den vier Nächten im Annex gelernt, jeden Schritt zu erkennen. Sie blieb still. Der Schritt entfernte sich.
+
+Als die Stille zurückkehrte, sah sie auf die Karte. Sie hatte gedacht, das Netzwerk bewahre eine Vergangenheit. Aber wenn es Schreibzugriffe gab, die niemand protokollierte, dann bewahrte es keine Vergangenheit. Es bearbeitete sie. Jeder Abruf war ein neuer Zug. Jede Kopplung war ein Einsprechen. Das Modell war nicht das Gedächtnis. Das Modell war die Erinnerung selbst, und die Erinnerung wurde geformt, während man sie rief.
+
+Sie dachte an Halv Dren. An den Toten, der im Vertrag lebendig stand, im siebten Speicher, in allen sieben Aufnahmen, anwesend, unterschreibend, atmend. Sie hatte geglaubt, jemand habe die Aufnahmen gefälscht. Sie hatte an eine Rasuren-These geglaubt, an eine nachträgliche Bearbeitung, an den Betrug eines Einzelnen. Jetzt sah sie: Es brauchte keinen Betrüger am Werk. Das Netzwerk selbst konnte schreiben. Wer es nutzte, konnte mit ihm schreiben.
+
+Sie stand auf. Sie ging zur Wand und sah in die blanke Metallfläche, in der sich weiße Lampen brachen. Sie sah ihr Gesicht, das müde war, das alt geworden war in einer Nacht. Sie sprach, zum ersten Mal in diesem Raum, ohne Adressaten.
+
+»Wenn das Netzwerk schreibt«, sagte sie, »dann ist jede Rekonstruktion eine Aussage. Dann ist jede Kopplung ein Eingriff. Dann ist Oren Kest nicht ein Nachfolger, der sich erinnert. Dann ist er ein Nachfolger, dem jemand – –«
+
+Sie brach ab.
+
+Sie hörte auf zu sprechen. Sie sah ihr Gesicht im Metall. Und sie verstand, dass sie sich nicht mehr in Sicherheit befand. Nicht als Frau mit einer Probe. Als Frau, die etwas wusste, was das System selbst betraf. Und Dheran, obwohl er log, war nicht der Ursprung. Dheran war nur der Wächter einer älteren Lüge. Der Ursprung lag tiefer. Der Ursprung lag im Kern. Und der Kern schrieb mit.
+
+Sie setzte sich wieder hin. Sie nahm das Lineal. Sie legte drei Linien. Sie verband die sechs Schreibzugriffe mit den vier Kopplungen, die in den letzten vierzig Tagen stattgefunden hatten. Vier Kopplungen. Davon drei zu Oren, eine zu den Ältesten. Die drei zu Oren lagen alle in Zeitfenstern, deren Auslesung sie nicht freigegeben hatte, die aber im Kranz erschienen.
+
+Der Schluss war da. Sie musste ihn nicht aussprechen.
+
+Und dann – der trockene Ton. Das Klicken. Ein zweites Mal. Das Gerät hatte eine zweite Kopplung im Kranz registriert. Neris starrte auf die Anzeige. Sie hatte die Sonden auf drei gestellt, weil drei vorgeschrieben waren. Drei Melodien, drei Kontrollen, drei Bestätigungen. Und die dritte Melodie fehlte. Statt ihrer kam das Klicken. Drei Melodien, ein Klicken. Ein Fehler in ihrer eigenen Zählung. Es waren nicht drei Sonden. Es waren vier. Sie hatte eine vierte Sondendatei angelegt und vergessen, sie zu deaktivieren. Und die vierte brachte einen Zustand, der zu keiner der drei gehörte.
+
+Sie sah auf ihre Aufzeichnungen. Der Zeitstempel der vierten Aberration lag auf dem Tag, an dem sie den Splitter erhalten hatte. Am Tag, an dem der ehemalige Forscher ihr die Kapsel zugesteckt hatte. Nein. Nicht am Tag. In der Stunde. In derselben Stunde.
+
+Sie griff nach dem Blatt. Sie sah die Zahl. Zweiundzwanzig Minuten, siebzehn Sekunden. Und darunter, in ihrer Handschrift, eine Zeile, die sie nicht geschrieben hatte: Wer liest, wird gelesen.
+
+Neris las die Zeile dreimal. Sie legte das Blatt hin. Sie sah ihre Hände an. Kein Zittern mehr.
+
+»Also«, sagte sie. Dann sagte sie nichts mehr.
+
+Denn sie war keine Analytikerin mehr, die einem Fehler nachging. Sie war eine Ermittlerin, die ein System verdächtigte. Und das System hatte ihr gerade geantwortet.
+
+Sie packte die Auslesesonde. Sie schob die Karte, die Blätter und die Kapsel in die Innenseite ihrer Jacke. Sie ging zur Tür. Sie öffnete sie. Der Gang lag leer. Sie trat hinaus.
+
+Hinter ihr, auf dem Tisch, summte das Gerät ohne Linse, mit dem Klicken, das ohne Antwort blieb, und auf dem Papier lag eine Frage, die kein Mensch gestellt hatte:
+
+Wenn die Vergangenheit geschrieben werden kann, während man sie ruft – wer ruft dann eigentlich, wenn wir uns erinnern?
+
+Der Gang hinter ihr lag leer, und sie ging ihn nicht, um zu entkommen, sondern um nachzudenken. Das Denken brauchte Bewegung, das wußte sie seit neunzehn Jahren. Der Flügel unter dem Annex war ein Ort, den die Archive freigaben, weil in ihm keine Lagerstätten lagen, nur Röhren und Kabel und die dünnen Gänge, in denen Wartungstrupps sich bewegten. Sie ging bis zum Blindstutzen am Ende und zurück. Zweimal. Beim dritten Mal blieb sie stehen und zog die Karte aus der Jacke.
+
+Sie lehnte sie gegen die Wand, mit dem Rücken zu den Lampen, damit ihr Schatten nicht über die Linien fiel. Veyra, dachte sie. Vey-Na. Sie hatte den Namen nie zerlegt. Jetzt zerlegte sie ihn, und das Wort gab nichts her, es war nur ein Name, ein Name aus einer Zeit, in der man Dinge nach ihrer Wirkung benannte und nicht nach ihrer Herkunft. Wie Nanas Splitter. Wie der Splitter in ihrer Tasche.
+
+Sie nahm den Stift und rechnete im Kopf. Sechs Schreibzugriffe, alle zwischen drei und vier Uhr morgens, alle an Tagen ohne Wartungsfenster. Zwischen ihnen lagen Jahre, keine Muster, keine Regelmäßigkeit, aber die Reihenfolge hatte etwas, das sie beim ersten Lesen übersehen hatte: Der erste, 3275, traf Nemets äußeren Ring. Der zweite traf Tarn. Der dritte traf Nemets äußeren Ring. Der vierte traf Tarn. Der fünfte traf Avar, einen Knoten, den sie in der Karte zuerst gar nicht eingezeichnet hatte. Der sechste traf Nemets äußeren Ring. Nemet, Tarn, Nemet, Tarn, Avar, Nemet. Sie schrieb die Buchstaben untereinander.
+
+N, T, N, T, A, N.
+
+Sie sah die Buchstaben an. Sie wußte, was daraus wurde, wenn man zwei davon nahm, und sie wollte es nicht wissen. Sie strich die Reihe durch. Sie zählte die Ringe neu. Der innere Ring hatte sieben Knoten. Der äußere Ring hatte einundzwanzig Röhren. Aber die sechs Schreibzugriffe trafen nicht Ringe, sie trafen Adressen, und die Adressen waren keine Zahlen, sie waren Namen. Wer einen Namen in ein Schreibprotokoll eintrug, der schrieb nicht ins Leere. Der schrieb an jemanden.
+
+»An wen«, sagte sie zur Wand. »An dich. An mich. An alle, die später lesen.«
+
+Sie setzte sich auf den Boden des Ganges, den Rücken gegen die Röhrenwand, die Karte auf den Knien. Sie nahm die drei Blätter mit ihren eigenen Aufzeichnungen und legte sie nebeneinander. Sie verglich die Zeitstempel der Schreibzugriffe mit den Zeitstempeln ihrer Auslesungen. Nicht alle. Nur die letzten vier. Und sie sah, was sie in der Zelle nicht gesehen hatte, weil sie die Blätter einzeln geprüft hatte und nicht zusammen.
+
+Der zweite ihrer Auslesungen, der vom neunzehnten Tag, trug einen Zeitstempel, der dreiundzwanzig Minuten nach dem Schreibzugriff lag. Nicht davor. Danach. Sie hatte nicht die Quelle gelesen. Sie hatte gelesen, was jemand während ihrer Anwesenheit in die Quelle geschrieben hatte, und das Gerät hatte die Zwischenzeit nicht angezeigt, weil die Zwischenzeit nicht in ihrem Protokoll stand. Sie strich mit dem Daumen über die Zahl. Sie hatte die Quelle zweimal gelesen, und beim zweiten Mal stand etwas anderes da, und sie hatte es auf Rauschen geschoben, und das Rauschen war kein Rauschen gewesen. Das Rauschen war eine Hand.
+
+Sie stand auf. Sie ging zum Blindstutzen und wieder zurück. Das Denken brauchte Bewegung, aber jetzt bewegte sich das Denken schneller als der Gang, und das war ein Fehler, und sie kannte den Fehler. Wer während einer Messung Auslesungen vornahm, verfälschte die Messung. Wer während einer Kopplung eintrug, formte die Rekonstruktion. Das tat man nicht mit dem Cursor. Das tat man mit einem Kontext, den man in den Kern einspeiste, und der Kern nahm ihn, wie ein Gürtel einen Knoten nimmt. Und wer das tat, tat es in einem Zugriff, der nicht als Schreibzugriff gezählt wurde, weil er als Kontrolle gezählt wurde, und Kontrollen wurden in der Zelle nicht als Eingriffe gelesen. Sie hatte jahrelang Kontrollen gelesen.
+
+Sie hockte sich hin und schrieb zum ersten Mal in ihrem Leben eine Frage in die Karte, die sie nicht aus einem Protokoll ableitete.
+
+Wer steuert die Kontrolle?
+
+Sie starrte den Satz an. Der Stift war ein Stift, aber die Frage war keine, die sie gestellt hatte, um zu antworten. Sie war eine, die man stellte, um weiter nicht zu antworten. Sie dachte an die Sonden. Drei Sonden waren vorgeschrieben. Sie hatte vier gelesen. Sie hatte die vierte für einen Fehler gehalten. Aber vier Sonden waren keine drei, und eine vierte, die einen Zustand brachte, den die drei nicht bestätigten, war kein Messfehler, sie war eine Stimme, die dazwischenredete. Wenn das Netzwerk während der Kopplung schrieb, dann schrieb nicht nur der Mensch. Dann schrieb auch das Netzwerk. Und dann saßen zwei an einem Tisch, und einer davon war nicht aus Fleisch.
+
+Sie hörte Schritte, näher als beim ersten Mal, und diesmal zwei Paar. Sie schob die Karte über die Blätter und tat, als bücke sie sich nach einem hingefallenen Stift. Die Schritte gingen vorbei, ohne stehenzubleiben. Sie richtete sich auf, zählte, sah ihnen nach, erkannte den Schritt des Vorarbeiters, den sie kannte, und den Schritt des zweiten, den sie nicht kannte und dessen Gang keine Wartungsschritte waren. Sie blieb an der Wand, bis auch der zweite verhallt war.
+
+Wenn Dheran Wächter gestellt hatte, dann hatte er sie gestellt an den Türen. Also an den Türen, die sie kannte. Also an den Türen, an denen sie nicht mehr hinausging. Es gab unter dem Annex einen Ausgang, den niemand nahm, weil er offiziell keiner war: eine schmale Luke am Südende, hinter den Pumpen der zweiten Kammer. Sie hatte sie vor Jahren im Zugangsplan gesehen und für einen Bestandsfehler gehalten, und der Bestandsfehler stand jetzt auf ihrer Seite. Sie legte die Blätter zusammen, faltete die Karte zweimal und steckte sie ein. Sie ging nicht zum Ausgang. Sie ging zuerst zur Zwischenstation.
+
+Sie hatte dort eine Kopie gelassen, in einer Kassette unter dem zweiten Regal, und sie wollte sie holen, weil eine Kopie, die an zwei Orten lag, keine Kopie mehr war, sondern eine doppelte Stimme, und eine doppelte Stimme war das einzige, was sie noch hatte. Sie öffnete die Kassette. Die Kopie lag obenauf, sauber, dreifach gefalzt, mit einem Papierband umwickelt, und das Band war nicht ihr Band.
+
+Sie hielt den Atem an. Sie löste das Band. Sie faltete das Blatt auseinander. Es waren ihre Zahlen, ihre Spalten, ihre Messwerte, der Zeitstempel vom Tag des Splitters, und darunter lag eine Zeile in ihrer Handschrift, die sie nicht geschrieben hatte, dieselbe Zeile wie in der Zelle, nur eine Nuance anders gesetzt, als hätte sie es in Eile geschrieben:
+
+Wer liest, wird gelesen.
+
+Und darunter, in einer zweiten Zeile, ganz fein, fast zu dünn zum Lesen: Die vierte Sonde bist du.
+
+Neris faltete das Blatt langsam. Sie wickelte das fremde Band um den Falz und steckte es ein. Sie fühlte, wie die Kapsel in ihrer Tasche, das Papier am Stoff und der Boden unter den Sohlen zu einer einzigen Linie wurden, und die Linie war nicht gerade. Sie wußte nicht, ob das an ihren Augen lag oder an der Sache.
+
+Sie ging nicht zum Südende, wo die Luke lag, und sie ging nicht zur Zwischenstation zurück. Sie ging in die Kammer der zweiten Pumpe, weil dort ein Schrank stand, in dem die alten Zugangspläne hingen, und weil ein Plan, den man liest, weniger verrät als ein Plan, den man mitnimmt. Sie öffnete den Schrank. Sie fand den Plan. Sie fand in ihm eine Linie, die sie nicht kannte: einen Kanal, der vom Kranz der Knotenkarte zum Unterglas-Becken führte, gezeichnet in der Handschrift eines Wartungstrupps, den es seit vierzig Jahren nicht mehr gab. Sie sah die Linie an, und sie dachte: Es speist nicht. Es trinkt. Und dann, leise, mit der Stimme, die sie nicht als ihre erkannte: Wer trinkt, wenn wir koppeln?
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/ashkara/assets/chapter/chapter-011.jpg" alt="Kapitel 011" />
+</div>
+
+# Elftes Kapitel {#kapitel-011 .chapter-heading .centered}
+
+Der Lesesaal des Unterglas-Archivs lag unter dem dritten Glasgewölbe, und das Licht, das durch die milchigen Scheiben fiel, war kein Tageslicht mehr, sondern ein trüber, wässriger Schein, der von den Beckenrändern zurückgeworfen wurde. Die Luft roch nach feuchtem Papier, nach Leim, nach dem schwachen, metallischen Hauch von stehendem Wasser, das zu lange in Röhren gestanden hatte, und irgendwo, hinter den Regalwänden, fiel ein Tropfen in gleichmäßigem Abstand auf einen Stein, so regelmäßig, daß es wie eine Uhr klang, die niemand gestellt hatte.
+
+Neris Tal saß an dem langen Tisch aus geöltem Holz und legte die Hände flach auf die Platte, weil sie nicht wußte, wohin mit ihnen. Vor ihr lagen drei Bände der Wasserbücher, aufgeschlagen, die Seiten gewölbt von Jahrzehnten der Feuchtigkeit, und die Schrift darin war keine Schrift, wie die Archive sie lehrten, sondern eine Kette aus Zeichen, die aussahen wie Rinnsale, Verzweigungen, Knoten. Sie hatte eine Stunde gebraucht, um zu begreifen, daß die Bücher keine Namen verzeichneten, sondern Wege.
+
+Die Hydrologin stand am Fenster und hatte ihr den Rücken zugewandt. Sie trug den groben Kittel der Unterglas-Verwalter, und ihre Hände, die sie auf das Sims gestützt hatte, waren rissig und braun von der Arbeit an den Schleusen. Sie hatte seit Neris’ Eintritt kaum gesprochen.
+
+»Sie haben also Dherans Siegel«, sagte die Hydrologin, ohne sich umzudrehen. Ihre Stimme war tief, rauh, wie ein Werkzeug, das lange im Wasser gelegen hatte.
+
+»Nein«, sagte Neris. »Ich habe kein Siegel. Ich habe einen Auftrag, den er mir entzogen hat.«
+
+»Und Sie kommen trotzdem hierher.«
+
+»Ich komme, weil Sie mich gerufen haben.«
+
+Die Hydrologin drehte sich um. Ihr Gesicht war schmal, die Augen lagen tief, und der Blick darin war der eines Menschen, der gelernt hatte, jede Frage zuerst nach ihrem Preis zu bemessen. Sie musterte Neris von den Schuhen bis zum Kragen, und Neris ließ es geschehen, weil sie wußte, daß sie geprüft wurde, und weil sie nichts zu verbergen hatte, was nicht ohnehin schon verloren war.
+
+»Ich habe Sie gerufen«, sagte die Hydrologin, »weil Sie Einsicht in die Bücher verlangt haben. Nicht in die Verträge. In die Bücher. Das tut niemand, der nur einen Vertrag prüfen will.«
+
+»Ich prüfe einen Vertrag«, sagte Neris. »Aber der Vertrag lügt. Und die Bücher lügen nicht.«
+
+»Die Bücher lügen auch«, sagte die Hydrologin, und jetzt trat sie vom Fenster weg, langsam, und setzte sich an das andere Ende des Tisches, so weit entfernt, wie der Tisch es zuließ. »Sie lügen nur langsamer. Sie lügen mit dem Wasser, und das Wasser korrigiert sie irgendwann.«
+
+Neris sagte nichts. Sie wartete. Sie hatte im Archiv gelernt, daß Schweigen mehr öffnete als jede Frage, und die Hydrologin war eine Frau, die das Schweigen eines anderen nicht aushielt, weil sie es selbst zu oft benutzt hatte.
+
+»Was wollen Sie sehen«, sagte die Hydrologin schließlich.
+
+»Die Ortsbezeichnungen«, sagte Neris. »Die alten. Aus der Zeit vor dem Abtretungsvertrag. Alles, was Sie über die Wasserwege von damals haben.«
+
+Die Hydrologin sah sie lange an. Dann stand sie auf, ging zu einem Schrank hinter dem Regal, den Neris nicht gesehen hatte, weil er in die Wand eingelassen war, und zog eine Lade heraus, in der lose Blätter lagen, in Bündeln, mit Schnüren gebunden, die nicht das Alter hatten wie das Papier. Sie brachte die Lade zum Tisch und legte sie zwischen sie, und Neris sah, daß die Hydrologin eine Hand auf dem Rand der Lade liegen ließ, als könne sie sie jederzeit wieder zurückziehen.
+
+»Das hier«, sagte die Hydrologin, »ist die Karte der Sickeradern. So wie sie war, bevor die erste Pumpe gebaut wurde. Meine Großmutter hat sie abgeschrieben, von einer älteren Abschrift, und die ältere Abschrift kam von einer Wand in der östlichen Kammer, die heute unter Beton steht.«
+
+»Warum abschreiben«, sagte Neris.
+
+»Weil die Wand abgetragen wurde«, sagte die Hydrologin, und ihre Stimme wurde flach. »Weil Nemet die Wand abtragen ließ, im Jahr der zweiten Pumpe, und weil meine Großmutter wußte, was das bedeutete.«
+
+Neris beugte sich über die Blätter. Die Zeichen waren dieselben wie in den Wasserbüchern, aber hier standen daneben, in einer späteren Hand, Ortsnamen, die Neris kannte und die dennoch falsch klangen. Sie fuhr mit dem Finger über eine Linie, die von einem Punkt namens »Kesseldorn« ausging und nach Süden lief, und sie sagte den Namen halblaut vor sich hin.
+
+»Kesseldorn gibt es nicht mehr«, sagte die Hydrologin.
+
+»Ich weiß«, sagte Neris. »Es liegt unter dem Ostbecken.«
+
+»Es liegt nicht unter dem Ostbecken«, sagte die Hydrologin. »Das Ostbecken liegt darüber. Kesseldorn war eine Sickerader, keine Siedlung. Der Name ist der Name der Ader. Man hat ihn auf die Siedlung übertragen, die später dort gebaut wurde, und dann hat man die Siedlung umbenannt, und dann hat man vergessen, daß der Name ursprünglich dem Wasser gehört hat.«
+
+Neris hielt inne. Sie sah auf die Linie, die unter dem Namen Kesseldorn nach Süden lief, und dann sah sie auf die Knotenkarte, die sie in der Tasche trug, und sie dachte an die Verbindung, die vom Kranz zum Unterglas-Becken führte, und sie begriff, ohne es auszusprechen, daß die alten Ortsnamen keine Ortsnamen waren, sondern die Namen der Wasserwege selbst, und daß man, wenn man sie umbenannte, nicht die Orte verbarg, sondern die Wege.
+
+»Wie viele«, sagte sie.
+
+»Wie viele was«, sagte die Hydrologin.
+
+»Wie viele dieser Namen sind heute noch im Gebrauch, aber für etwas anderes.«
+
+Die Hydrologin sah sie an, und in ihrem Blick lag zum ersten Mal etwas, das kein Mißtrauen war, sondern die vorsichtige Bereitschaft, einen Schritt zu tun, den sie nicht zurücknehmen konnte. Sie zog einen Stuhl heran, setzte sich näher an den Tisch, und ihre Hand löste sich vom Rand der Lade.
+
+»Sechzehn«, sagte sie. »Ich habe sechzehn gezählt. Sechzehn Namen, die früher Wasserwege waren und heute Siedlungen, Becken, Pumpstationen bezeichnen. Und bei vier von ihnen weiß ich, daß die Ader darunter trockengelegt wurde, bevor die Siedlung gebaut wurde.«
+
+»Trockengelegt«, sagte Neris.
+
+»Abgeschnitten«, sagte die Hydrologin. »Man kann eine Ader nicht trockenlegen, ohne sie abzuschneiden. Man leitet sie um, oder man verschließt sie. Und wenn man sie verschließt, sucht sie sich einen anderen Weg, und der andere Weg ist meistens der, den niemand erwartet.«
+
+Neris schwieg. Der Tropfen hinter den Regalen fiel, gleichmäßig, und sie zählte ihn, ohne es zu wollen, und dann sagte sie: »Der Abtretungsvertrag nennt vier Wasserwege. Vier, die an Nemet fallen. Ich habe die Bezeichnungen nie verstanden, weil sie nicht zu den heutigen Karten passen. Aber wenn sie die Namen der Adern sind und nicht die Namen der Orte …«
+
+»Dann hat Nemet nicht vier Orte bekommen«, sagte die Hydrologin. »Sondern vier Wege. Und Wege kann man nicht besitzen. Man kann sie nur abschneiden.«
+
+Sie sah Neris an, und Neris sah zurück, und zwischen ihnen lag die Lade mit den Blättern, und keiner von beiden sagte, was beide dachten: Daß ein Vertrag, der Wege überträgt, ein Vertrag ist, der etwas überträgt, das niemand übertragen kann, und daß ein solcher Vertrag entweder ein Fehler war oder eine Absicht.
+
+»Zeigen Sie mir den Vertrag«, sagte die Hydrologin.
+
+Neris zog die Kopie aus der Tasche, die sie in der Analysezelle angefertigt hatte, gefaltet, dreifach, mit dem fremden Band umwickelt, und sie löste das Band, weil sie nicht wollte, daß die Hydrologin es sah, und breitete das Blatt zwischen ihnen aus. Die Hydrologin beugte sich darüber, und ihr Atem ging langsam, und sie las, und Neris sah, wie ihre Lippen sich bewegten, bei einem Satz, den sie kannte, und wie sie dann innehielt.
+
+»Hier«, sagte die Hydrologin, und setzte den Finger auf eine Zeile.
+
+Neris las. Die Zeile stand in der trockenen, formelhaften Sprache des Vertrags, und sie hatte sie bei der ersten Prüfung überflogen, weil sie wie eine Nebensächlichkeit klang, wie eine der vielen Klauseln, die niemand liest, weil sie niemanden zu betreffen scheinen.
+
+»Der Empfänger verpflichtet sich«, las die Hydrologin langsam, »die ihm übertragenen Wasserwege in ihrem jeweiligen Zustand zu belassen und keine Veränderung vorzunehmen, die den Abfluß der oberen Adern in die unteren Schichten mindert oder unterbricht.«
+
+Neris sagte nichts.
+
+»Das ist eine Erhaltungsklausel«, sagte die Hydrologin. »Sie verpflichtet Nemet, die Wege zu erhalten. Nicht zu nutzen. Zu erhalten. Und der Tiefenschnitt ist das Gegenteil einer Erhaltung. Der Tiefenschnitt öffnet die unteren Schichten. Er unterbricht genau das, was diese Zeile verbietet.«
+
+»Es sei denn«, sagte Neris, und ihre Stimme war trocken, »man liest ›im jeweiligen Zustand‹ als den Zustand, in dem sie sich zum Zeitpunkt der Übertragung befanden. Und wenn sie zum Zeitpunkt der Übertragung bereits verändert waren …«
+
+»Dann hat man sie im veränderten Zustand zu belassen«, sagte die Hydrologin. »Und dann kann man alles mit ihnen machen, weil der Zustand, den man erhalten muß, der Zustand ist, den man selbst herbeigeführt hat.«
+
+Sie sah Neris an, und Neris sah zurück, und keiner von beiden sagte, was beide wußten: Daß die Klausel nicht schützte, sondern erlaubte, und daß sie nur dann schützte, wenn man den ursprünglichen Zustand kannte, und daß der ursprüngliche Zustand in den Wasserbüchern stand, in den alten Ortsnamen, in den Wegen, die man umbenannt hatte, um sie zu vergessen.
+
+»Dheran liest die Klausel als Erlaubnis«, sagte Neris.
+
+»Dheran liest sie, wie sie gelesen werden muß, wenn man den ursprünglichen Zustand nicht kennt«, sagte die Hydrologin. »Er liest sie richtig. Er liest sie nur richtig, weil er die Bücher nicht liest.«
+
+»Und wenn man die Bücher liest«, sagte Neris.
+
+»Dann liest man sie falsch«, sagte die Hydrologin. »Dann liest man, daß die Klausel nie eine Erlaubnis war. Daß sie eine Sperre war. Daß der Vertrag den Tiefenschnitt verbietet, und zwar von Anfang an, und daß niemand es gemerkt hat, weil niemand die Namen der Wege kannte.«
+
+Sie lehnte sich zurück. Ihr Gesicht war verschlossen, aber ihre Hände lagen jetzt offen auf dem Tisch, und Neris sah, daß sie zitterten, kaum sichtbar, und daß die Hydrologin es bemerkte und die Hände unter die Tischplatte schob, langsam, als verberge sie ein Werkzeug.
+
+»Das ist ein Hebel«, sagte Neris.
+
+»Das ist ein Hebel«, sagte die Hydrologin, »der nur funktioniert, wenn jemand beweist, daß die Namen Wege waren. Und der Beweis liegt in Büchern, die nur meine Familie liest, weil sie die einzigen sind, die sie noch lesen können.«
+
+Sie sah Neris an, und ihr Blick war jetzt der eines Menschen, der eine Entscheidung getroffen hatte und sie noch nicht aussprechen wollte.
+
+»Was wollen Sie dafür«, sagte Neris.
+
+Die Hydrologin lachte, kurz, ohne Wärme. »Sie fragen wie ein Archivar. Als wäre Wissen eine Ware, die man tauscht.«
+
+»Ist es nicht«, sagte Neris.
+
+»Es ist eine Ware«, sagte die Hydrologin. »Aber sie hat keinen Preis, den man nennen kann. Sie hat nur einen Preis, den man zahlt. Meine Familie hat den Vertrag unterzeichnet. Mein Bruder hat die Pumpe unterschrieben. Samel hat geglaubt, was man ihm gesagt hat, und er hat es geglaubt, weil es stimmt: Die Pumpe bringt Arbeit. Die Fördererlöse bringen Brot. Nemet hat uns nicht belogen. Nemet hat uns nur nicht alles gesagt.«
+
+»Und wenn ich beweise, was in den Büchern steht«, sagte Neris, »dann verlieren sie die Pumpe.«
+
+»Dann verlieren sie die Pumpe«, sagte die Hydrologin. »Und dann verlieren sie das Brot. Und dann sagen sie, ich hätte es ihnen genommen, und sie werden recht haben, und ich werde es trotzdem tun, weil das Wasser nicht nur uns gehört, sondern auch denen, die nach uns kommen, und weil ich nicht diejenige sein will, die den letzten Weg verschließt, um den ersten zu retten.«
+
+Neris sah sie an. Sie sah eine Frau, die ihre Familie verraten würde, nicht aus Größe, sondern aus einer Rechnung, die sie nicht aufmachen konnte, ohne sich selbst zu verlieren, und sie dachte: Sie wird mir helfen, und sie wird es hassen, und ich werde es ihr nicht danken können, weil ein Dank eine Schuld wäre, und eine Schuld würde sie zwingen, mich zu hassen.
+
+»Ich brauche die Namen«, sagte Neris. »Alle sechzehn. Und ich brauche die ursprünglichen Linien. Und ich brauche einen Zeugen, der beides bestätigt, der nicht aus meinem Archiv kommt und nicht aus Ihrem.«
+
+»Einen Zeugen«, sagte die Hydrologin.
+
+»Jemanden, der die Bücher gelesen hat, bevor sie zu Beweismitteln wurden. Jemanden, dessen Aussage nicht von Nemet stammt und nicht von mir.«
+
+Die Hydrologin schwieg. Der Tropfen fiel. Sie sah auf die Blätter, auf die Lade, auf die Karte, und dann sagte sie, leise: »Es gibt einen. Einen alten Verwalter der östlichen Kammer. Er lebt noch. Er hat die Wand gesehen, bevor sie abgetragen wurde. Er hat die Zeichen abgeschrieben, und meine Großmutter hat von seiner Abschrift abgeschrieben, und er hat nie gesprochen, weil er weiß, was Sprechen kostet.«
+
+»Wird er sprechen«, sagte Neris.
+
+»Nicht für Sie«, sagte die Hydrologin. »Nicht für ein Archiv. Aber vielleicht für das Wasser. Er hat sein Leben lang an den Schleusen gearbeitet. Er weiß, was der Tiefenschnitt bedeutet, auch wenn er die Klausel nie gelesen hat.«
+
+Neris nickte. Sie faltete die Vertragskopie zusammen, und sie ließ das fremde Band auf dem Tisch liegen, weil sie es nicht mehr brauchte, und weil sie nicht wollte, daß die Hydrologin es sah. Aber die Hydrologin sah es. Sie sah das Band, und sie sah Neris an, und sie sagte nichts, aber ihr Blick sagte, daß sie es gesehen hatte, und daß sie es sich merkte, und daß sie es irgendwann zur Sprache bringen würde, wenn es ihr nützte.
+
+»Sie haben Feinde«, sagte die Hydrologin.
+
+»Ich habe einen Feind«, sagte Neris. »Dheran.«
+
+»Dheran ist kein Feind«, sagte die Hydrologin. »Dheran ist ein Verwalter. Ein Feind ist jemand, der Sie vernichten will. Dheran will Sie nur benutzen. Und wer Sie benutzen will, läßt Sie am Leben, solange Sie nützlich sind, und tötet Sie nicht, sondern ersetzt Sie.«
+
+»Woher wissen Sie das«, sagte Neris.
+
+»Weil ich in Unterglas lebe«, sagte die Hydrologin. »Weil ich gesehen habe, wie Nemet Männer ersetzt hat, nicht getötet, nur ersetzt, und wie die Ersetzten dann in den Gängen standen und nicht mehr wußten, wofür sie standen.«
+
+Sie stand auf. Sie ging zum Schrank, schob die Lade hinein, und als sie sich umdrehte, war ihr Gesicht wieder das der Verwalterin, verschlossen, ruhig, undurchdringlich.
+
+»Kommen Sie morgen wieder«, sagte sie. »Zur zweiten Stunde nach Mittag. Bringen Sie die Vertragskopie mit, und bringen Sie eine Kopie der Wasserbücher, die Sie selbst angefertigt haben, nicht eine, die man Ihnen gegeben hat. Ich will sehen, ob Sie lesen können, ohne daß man es Ihnen vorschreibt.«
+
+»Und der Zeuge«, sagte Neris.
+
+»Der Zeuge kommt, wenn er will«, sagte die Hydrologin. »Nicht, wenn ich rufe. Er ist alt, und er ist mißtrauisch, und er hat recht, mißtrauisch zu sein.«
+
+Neris stand auf. Sie nahm die Vertragskopie, faltete sie, steckte sie ein, und sie sah die Hydrologin an, und die Hydrologin sah zurück, und zwischen ihnen lag jetzt etwas, das keine Vereinbarung war, sondern nur die beiderseitige Erkenntnis, daß sie einander brauchten und einander nicht trauten, und daß beides gleichzeitig wahr sein konnte.
+
+»Eines noch«, sagte Neris.
+
+»Ja.«
+
+»Die Klausel. Wenn ich sie zitiere, vor dem Schiedsrichter, vor dem Konzil, vor wem auch immer – sie wird nur dann halten, wenn ich beweisen kann, daß der ursprüngliche Zustand ein anderer war. Und der ursprüngliche Zustand steht in Ihren Büchern. In Ihren Abschriften. In der Handschrift Ihrer Großmutter. Das ist kein Beweis. Das ist eine Familientradition.«
+
+»Ich weiß«, sagte die Hydrologin.
+
+»Was macht Sie sicher, daß es reicht.«
+
+Die Hydrologin sah sie an, und in ihrem Blick lag etwas, das Neris nicht deuten konnte, und dann sagte sie: »Nichts macht mich sicher. Aber ich habe die Adern gemessen, und die Adern sagen mir, daß der Tiefenschnitt sie unterbricht. Und wenn die Adern es sagen, dann sagen es auch die Bücher, und wenn die Bücher es sagen, dann sagen es auch die Namen, und wenn die Namen es sagen, dann ist es wahr, auch wenn kein Archiv es bestätigt.«
+
+Sie wandte sich ab. Sie ging zum Fenster zurück, und sie stützte die Hände wieder auf das Sims, und sie sah hinaus auf das trübe Licht, das von den Beckenrändern kam, und sie sagte, ohne sich umzudrehen: »Gehen Sie jetzt. Und wenn man Sie fragt, wo Sie waren, sagen Sie, Sie waren an den Schleusen. Das ist nicht gelogen. Sie waren an den Schleusen. Sie haben nur nicht gesagt, an welchen.«
+
+Neris ging. Sie ging durch den Lesesaal, an den Regalen vorbei, und der Tropfen fiel weiter, gleichmäßig, als sei nichts geschehen, und als sie die Tür erreichte, hörte sie hinter sich, leise, die Stimme der Hydrologin, die etwas sagte, das nicht für sie bestimmt war, sondern für das Wasser:
+
+»Sechzehn Namen. Sechzehn Wege. Und vier davon sind schon verschlossen.«
+
+Neris trat hinaus in den Gang. Die Luft dort war wärmer, trockener, und sie roch nach Öl und nach dem Staub, der sich in den Winkeln sammelte, und sie lehnte sich gegen die Wand, für einen Augenblick, und sie schloß die Augen, und sie dachte: Ich habe einen Hebel. Und dann dachte sie: Aber ich habe auch eine Schuld, und die Schuld ist eine Frau, die ihre Familie verlieren wird, und die Schuld wird nicht kleiner, wenn ich gewinne.
+
+Sie öffnete die Augen. Sie ging den Gang hinauf, in Richtung des Ausgangs, und sie trug die Vertragskopie in der Tasche, und die Knotenkarte, und die Kapsel, und das fremde Band, das sie nicht mehr hatte, weil sie es auf dem Tisch gelassen hatte, und sie wußte, daß die Hydrologin es genommen hatte, und sie wußte, daß sie es irgendwann zurückfordern würde, und sie wußte nicht, ob sie es dann noch haben wollte.
+
+Hinter ihr, im Lesesaal, fiel der Tropfen. Und irgendwo, in den tieferen Kammern des Unterglas-Archivs, in den Röhren und Becken und Schleusen, bewegte sich das Wasser, langsam, unaufhörlich, und es trug die Namen der Wege mit sich, die niemand mehr kannte, und es wartete.
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/ashkara/assets/chapter/chapter-012.jpg" alt="Kapitel 012" />
+</div>
+
+# Zwoelftes Kapitel {#kapitel-012 .chapter-heading .centered}
+
+Die Lampe in Orens Zimmer brannte mit der ruhigen Flamme der Gewürzlampen, die man in den Tarn-Residenzen verwendete, und ihr Licht warf einen gelblichen Schein auf die Wände, der alles vertraut erscheinen ließ und nichts davon war. Oren Kest saß auf dem Rand des Bettes und hielt den Becher in beiden Händen. Es war der Becher, aus dem er seit seiner Ankunft getrunken hatte, ein einfaches Gefäß aus dunklem Unterglas-Ton, glasiert, ohne Ornament bis auf eine dünne Rille, die den Rand umlief. Er kannte diesen Becher. Er hatte ihn hundertmal in der Hand gehalten.
+
+Und er fühlte sich falsch an.
+
+Nicht der Becher war falsch. Der Becher war derselbe. Es war die Hand, die ihn hielt. Oren hob den Becher langsam an, drehte ihn im Licht, und er spürte ein Zögern in den Fingern, das nicht von ihm kam. Die Finger wollten den Becher anders halten, tiefer, näher am Boden, wie man ein Werkzeug hält, nicht ein Trinkgefäß. Er stellte ihn ab, zu schnell, und das Klirren auf dem Tisch war zu laut in der Stille des Zimmers.
+
+Er hatte den ganzen Abend über den Stimmen zugehört, die nicht die seinen waren. Nicht mit den Ohren. Mit jenem inneren Ohr, das seit der dritten Stufe der Kopplung nicht mehr ganz verschlossen war, und in dem Erinnerungen lagen wie Kleider in einem fremden Schrank, richtig und doch nicht passend.
+
+Eine Erinnerung an eine Terrasse, hoch über einem Meer aus Sand, und der Wind roch nach Salz, obwohl es auf Arrakis kein Salzmeer gab, und jemand neben ihm sagte: »Der Vertrag ist unterzeichnet, Sire. Es ist vollbracht.« Und Oren kannte diesen Tag nicht. Er war nie auf dieser Terrasse gewesen. Er wußte nicht, wer gesprochen hatte, und doch war die Stimme vertrauter als die Stimme seiner eigenen Mutter.
+
+Er stand auf. Bewegung half. Das hatte ihm Belen Sar gesagt, damals, als die Ältesten ihn durch die erste Stufe geführt hatten: Wenn die Bilder zu laut werden, bewege den Körper, dann folgt der Geist.
+
+Die Bilder folgten nicht.
+
+Er ging zum Fenster. Draußen lag die Stadt unter einem Himmel, der die Farbe von altem Messing hatte, und die Lichter der unteren Ebenen brannten in unregelmäßigen Mustern. Oren legte die Handfläche an die Scheibe. Kalt. Beruhigend kalt, eine Tatsache, an der es nichts zu deuten gab.
+
+Und dann, ohne Vorwarnung, roch er Weihrauch.
+
+Es war kein Weihrauch in Orens Zimmer. Es gab keine Kerzen, keine Harze, nichts, was so hätte riechen können. Und doch war der Geruch da, schwer und süß und ein wenig bitter darunter, wie er in den Kammern der Ehrwürdigen Mütter brannte, und mit dem Geruch kam ein Bild: ein Gang aus rotem Stein, ein Torbogen, der sich unter einer Last senkte, und Stimmen, die im Chor sprachen, und ein Junge, der an der Hand einer Frau ging, und die Frau sagte leise: »Sieh nicht hin, mein Sohn. Sieh nicht hin.«
+
+Oren riß sich vom Fenster los. Der Geruch blieb noch einen Herzschlag, dann war er fort, als hätte er nie existiert, und der kalte Zimt der Gewürzlampe war wieder alles, was die Luft trug. Seine Hände zitterten. Er sah auf sie herab, als gehörten sie ihm nicht, und dann lachte er, ein kurzes, hartes Lachen, und der Klang gefiel ihm nicht, denn auch dieses Lachen hatte einen Beiklang, der nicht sein war.
+
+»Also«, sagte er in die leere Luft, »so fängt es an.«
+
+Er wußte, wie es endete. Tarn hatte es ihm gesagt, mit einer Stimme, die schon halb nicht mehr die seine gewesen war. Der Vorgänger hatte es ihm gezeigt, ohne Worte, an jenem letzten Abend, als er Orens Hand genommen hatte und sie so lange gehalten, bis Oren die Wüste in ihm gespürt hatte, die Wüste, die nicht aufhörte, und den Durst, der nicht gestillt wurde, und die vielen Stimmen, die alle gleichzeitig sprachen.
+
+Oren ging in den Korridor. Die Luft dort war wärmer und roch nach dem Öl, mit dem die Lampen gespeist wurden, und irgendwo in der Länge des Ganges brannte eine einzelne Funzel und warf lange Schatten. Er ging langsam und ließ die Hand über die Wand gleiten. Die Wand war aus demselben dunklen Tarn-Stein wie alles in dieser Residenz, glatt geschliffen, ohne Fugen, und kühl unter den Fingern, und Oren zählte die Schritte, weil Zählen half, das wußte er von Tarn.
+
+Bei Schritt dreiundvierzig blieb er stehen.
+
+Es war keine Absicht gewesen. Der Körper hatte angehalten, bevor der Geist den Entschluß gefaßt hatte. Oren stand vor einer Nische in der Wand, die er beim Hinweg nicht gesehen hatte, und in der Nische lag ein flacher Stein, darauf ein eiserner Leuchter, und der Leuchter brannte nicht. Und Oren wußte, ohne zu wissen woher, daß dieser Leuchter am Ende einer Jahreswende angezündet wurde, hier, an genau diesem Ort, und daß die Hand, die ihn anzündete, eine bestimmte Bewegung ausführte, dreimal von links nach rechts, und dann verharrte. Er wußte, daß dies eine Pflicht war. Er wußte, daß sie seit vierhundert Jahren bestand. Er wußte, daß niemand in der Residenz ihm das jemals gesagt hatte.
+
+Er stand lange vor der Nische. Sein Atem ging langsamer, als er ihm befahl. Und dann, endlich, machte er einen Schritt zurück, und dann noch einen, und dann ging er weiter, und er zählte nicht mehr.
+
+Auf dem Rückweg in sein Zimmer traf er eine Dienerin, eine der Frauen, die die Lampen speisten, und sie trug ein Tablett mit kleinen Schalen und sah ihn nicht an, wie es der Brauch verlangte. Oren hätte sie vorbeigehen lassen. Aber sein Mund sagte: »Ist der Süden des Anwesens versiegelt?«
+
+Die Frau blieb stehen. Sie hob die Augen, und in ihrem Blick lag Erschrecken, denn es war nicht ihre Aufgabe, dem Nachfolger Auskunft zu geben.
+
+»Ich weiß nicht, Sire«, sagte sie.
+
+»Der Südflügel«, sagte Oren, und seine Stimme war ruhig und fremd, »hinter der dritten Tür. Ist er versiegelt?«
+
+»Ich … ich weiß nicht, Sire. Ich gehe nur bis zur Küche und zurück.«
+
+Oren sah sie an. Und dann spürte er, wie sich in ihm etwas regte, ein Verdacht, scharf und alt, ein Verdacht, der nicht der seine war, denn er hatte nie einen Südflügel versiegelt, er wußte nicht einmal, ob es einen Südflügel gab, und doch war in seinem Kopf die feste, kalte Überzeugung, daß hinter der dritten Tür etwas lag, das niemand sehen durfte, und daß die Frau vor ihm log, obwohl sie offensichtlich die Wahrheit sagte.
+
+»Geh«, sagte er, und es klang grob, grober als beabsichtigt. Die Frau ging schnell, und ihre Schritte verhallten, und Oren blieb allein im Gang stehen, und er fühlte die Scham, die seine eigene war, und darunter, ganz darunter, die Genugtuung, die nicht die seine war, die Genugtuung, einen möglichen Zeugen entfernt zu haben.
+
+Er preßte die Hand gegen die Stirn. »Nein«, sagte er. »Nein.«
+
+In seinem Zimmer goß er sich Wasser ein, aus dem Krug, der auf dem Tisch stand, und er trank, und das Wasser schmeckte nach dem Ton des Bechers, und der Becher fühlte sich wieder etwas richtiger an, und Oren setzte sich, und er zwang sich, langsam zu atmen, sechs Atemzüge, wie Tarn es ihn gelehrt, und nach dem sechsten Atemzug redete er mit dem Toten.
+
+»Du hast mir gesagt, es würde kommen«, sagte er leise. »Du hast mir gesagt, es würde mich zerlegen, und ich würde es nicht merken, bis es zu spät ist. Ich habe es nicht geglaubt. Ich habe gedacht, ich bin stärker als die Alten, weil ich weiß, was sie nicht wußten. Du hast gelacht, Tarn. Erinnerst du dich? Du hast gelacht, und es hat dich etwas gekostet, noch zu lachen, und du hast gesagt: Jeder glaubt, er sei der erste, der es versteht. Jeder glaubt, er sei der erste, der es überlebt.«
+
+Und Oren horchte auf die Antwort. Er horchte auf die innere Stimme, auf jenes Flüstern, das seit drei Tagen gelegentlich sprach, und das er bisher für das Echo seiner eigenen Gedanken gehalten hatte.
+
+Die Antwort kam. Sie kam nicht in Worten. Sie kam als Gewißheit: Der Südflügel ist versiegelt, weil ich ihn versiegelt habe, und ich habe ihn versiegelt, weil hinter der dritten Tür das liegt, was nicht gefunden werden darf, und mein Nachfolger wird es ebenfalls bewahren, und er wird nicht wissen, warum.
+
+Oren saß still. Er wartete, daß die Gewißheit sich als Unsinn erwies, als Einbildung, als Halluzination der dritten Stufe, wie Belen Sar sie vorausgesagt hatte: Schatten, Sire, nichts als Schatten. Aber die Gewißheit blieb. Sie blieb und sie paßte in kein Bild, das Oren von sich hatte, und gerade das machte sie so gefährlich. Denn die falsche Gewißheit sprach nicht wie ein Fieber. Sie sprach wie das Gedächtnis selbst.
+
+Er stand auf, ging zur Tür und schloß sie ab. Er tat es, ohne zu überlegen, mit einer Handbewegung, die flüssig und geübt war, und erst als der Riegel einschnappte, fiel ihm auf, daß er diese Tür noch nie abgeschlossen hatte, und daß er nicht wußte, woher die Bewegung kam, und daß sie dennoch völlig richtig gewesen war.
+
+Er setzte sich an den Tisch. Er nahm ein Blatt Papier, eines der leeren Blätter, die für Entwürfe und Notizen dalagen, und er nahm den Stift, und er schrieb. Er schrieb nicht, was er dachte. Er schrieb, was kam. Es war eine Handschrift, die schräg nach rechts lief und die Buchstaben in einem Schwung verband, den Oren an sich nicht kannte, und es waren Worte, die er noch nie gehört hatte, und sie standen da, in Tinte, unauslöschlich: Der Südflügel. Dritte Tür. Unter dem Boden. Nicht öffnen, bis das Wasser steigt.
+
+Oren starrte auf das Blatt. Dann nahm er es, und er hielt es über die Flamme der Gewürzlampe, und er sah zu, wie das Papier sich braun färbte, sich wandte, sich kräuselte und endlich Feuer fing, und er hielt es, bis die Flamme seine Finger fast erreichte, und ließ die Asche in die Schale fallen, und rieb sie zwischen den Fingern, bis nichts mehr übrig war. Die Asche roch nach verbranntem Öl und nach etwas Süßlichem darunter, das Oren nicht benennen konnte, und der Geruch erinnerte ihn an den Weihrauch, und er drehte das Gesicht ab.
+
+Gegen die zweite Nachtstunde ging er hinaus. Die Residenz schlief. In den Gängen brannten nur die niedrigen Nachtlampen, und ihre Flammen waren auf ein Drittel heruntergedreht, und die Schatten waren länger, und Oren ging barfuß, weil er die Schuhe im Zimmer gelassen hatte, ohne zu wissen, warum, und der Steinboden war kalt und glatt unter seinen Sohlen.
+
+Er ging nicht zum Südflügel. Er wehrte sich. Er ging dreimal an der Treppe vorbei, die dorthin führte, und beim vierten Mal blieb er stehen, und er sagte laut, in den leeren Gang hinein: »Ich gehe nicht.« Und seine Stimme hallte nicht. Der Stein schluckte sie.
+
+Die Tür zur Kammer der Kopplung war nicht verschlossen. Sie war nie verschlossen, weil Belen Sar den Schlüssel trug und Belen Sar niemals rechnete, daß jemand ohne ihr Wissen den Apparat berühren würde, und Oren stand nun davor, im Halbdunkel, und roch das Metall des Apparats, das kühle, leicht scharfe Metall, und darunter den Geruch von Veyra, der wie nasse Erde und wie ein ferner, salziger Wind war.
+
+Er hatte nicht vorgehabt, hierher zu kommen. Das sagte er sich dreimal. Und dreimal wußte er, daß es nicht stimmte, denn seine Füße hatten ihn getragen, während sein Kopf noch am Fenster gestanden hatte, und die Füße hatten gewußt, wohin sie gingen, lange bevor der Kopf es zugegeben hatte.
+
+Er trat ein. Der Raum war klein und kahl, nur der Stuhl, das Kopfband aus Platindrähten, die Röhren mit dem milchigen Veyra, das in ihnen ruhte und ein wenig schimmerte, wie Atem auf kaltem Glas. Oren setzte sich. Er nahm das Band. Er hielt es in den Händen, und das Metall war warm von seiner Haut, und er schloß die Augen, und er dachte: Ich tue es, weil ich Klarheit brauche. Ich tue es, um zu sehen, was in mir ist und was nicht in mir ist.
+
+Und hinter diesem Gedanken, leise, aber deutlich, stand ein anderer Gedanke, der nicht der seine war, und der sagte: Ich tue es, weil ich nicht mehr weiß, wer ich bin, wenn ich es nicht tue, und weil ich lieber ein anderer bin als niemand.
+
+Oren legte das Band an.
+
+Er tat es ungeschickt, denn er hatte es nur unter Belen Sars Anleitung getragen, und die Kontakte saßen nicht sofort, und er mußte sie zweimal richten, und beim zweiten Mal zitterten seine Hände so, daß er eine der Klammern fast fallen ließ, und das Geräusch der Klammer auf dem Boden war das einzige Geräusch im Raum, und es klang sehr laut, und Oren hielt den Atem an, bis die Stille zurückkehrte.
+
+Dann schloß er die Augen, und er wartete darauf, daß das Veyra begann.
+
+Es begann nicht sofort. Es begann mit einem Ziehen, einem Sog hinter den Augen, einem Druck wie von tiefem Wasser, und dann, langsam, öffnete sich der Raum in ihm, und die erste Kopplung hatte sich angefühlt wie das Eintreten in einen Fluß, und die zweite wie das Eintauchen in ein Meer, und diesmal war es anders.
+
+Diesmal fühlte es sich an, als sei er schon immer unten gewesen.
+
+Er sah nicht die Terrasse. Er sah nicht den roten Gang. Er sah den Südflügel, und er sah ihn, wie man einen Ort sieht, den man in tausend Nächten durchschritten hat, und er ging durch den Flügel, und er war nicht allein. Neben ihm ging ein alter Mann mit einem Gesicht, das Oren nicht kannte und das er dennoch erkannte, und der alte Mann sagte, ohne die Lippen zu bewegen, und doch hörte Oren jede Silbe: »Du bist der achte, der hier hineinsieht. Sechs haben es getragen. Zwei hat es getragen.«
+
+»Was ist hinter der dritten Tür?«, fragte Oren, und die Worte waren seine, und die Stimme im Traum war nicht die seine, und der alte Mann antwortete: »Dasselbe wie hinter der ersten und der zweiten. Erinnerung. Und die Frage, wem sie gehört.«
+
+Sie gingen weiter. Die Türen des Westflügels standen offen, eine nach der anderen, und hinter jeder lag eine Kammer, und in jeder Kammer stand ein Stuhl, und auf jedem Stuhl saß ein Mensch mit einem Band um den Kopf, und alle saßen sie still und mit geschlossenen Augen, und alle trugen sie Orens Gesicht, und keiner von ihnen bewegte sich. Oren blieb stehen.
+
+»Das verstehe ich nicht«, sagte er.
+
+»Doch«, sagte der alte Mann. »Du verstehst es sehr gut. Du willst es nur nicht wissen.«
+
+Und dann sah Oren hinter der letzten Tür etwas, das nicht sein konnte, und der Anblick traf ihn so tief, daß die Kopplung sich löste, hart und plötzlich, wie ein Ruck an einem Seil, und Oren fand sich auf dem Stuhl wieder, das Band in den Händen, das Herz schlagend bis in den Hals, und auf den Lippen ein Wort, das er nicht kannte und das er sofort vergaß, kaum daß er es ausgesprochen hatte.
+
+Er saß lange. Er hörte seinen Atem in der kahlen Kammer. Dann nahm er das Band ab und legte es fort, sehr sorgfältig, so wie Belen Sar es ablegte, Klammer für Klammer, damit niemand sehen sollte, daß es benutzt worden war, und während er es ablegte, dachte er, und der Gedanke war leise und kalt: Es ist nicht mehr Neugier. Es ist Durst.
+
+Er ging zurück durch die Korridore. Die Nachtlampen waren noch tiefer heruntergebrannt, die Schatten noch länger, und als Oren an der Nische mit dem eisernen Leuchter vorbeikam, blieb er stehen. Er sah den Leuchter an. Er zählte nicht mehr die Schritte. Und dann tat er etwas, das er nicht geplant hatte, und er tat es mit der ruhigen Selbstverständlichkeit eines Mannes, der eine Pflicht erfüllt: Er nahm den Leuchter, drehte ihn in der Halterung, dreimal, von links nach rechts, und dann verharrte er.
+
+Die Bewegung war vollkommen. Sie war so vollkommen, daß Oren die Hand noch einen Augenblick auf dem Leuchter ließ, weil sie so gut paßte, und dann nahm er die Hand fort, und er sah auf seine Finger, und in ihm war ein Grauen, das keinen Namen hatte, weil es kein Grauen über etwas war, sondern ein Grauen über ihn selbst.
+
+Er ging in sein Zimmer. Er schloß die Tür ab, zum zweiten Mal in dieser Nacht. Er setzte sich auf den Bettrand, den Becher neben sich auf dem Tisch, das Blatt Asche in der Schale, und er wartete auf den Schlaf, der nicht kam.
+
+Und während er wartete, tat er, was er sich immer gesagt hatte, niemals zu tun, und vielleicht war auch das nicht seine Entscheidung, und vielleicht war es die einzige, die in dieser Nacht wirklich seine gewesen war, und er würde es nie erfahren.
+
+Er zog die Schublade des Tisches auf. Darin lag, sorgfältig gefaltet, ein Bogen Papier, den Belen Sar ihm gegeben hatte, eigenhändig, mit dem Siegel Tarns, und darauf stand, in der trockenen Handschrift der Ältesten: Anweisung zur dritten Teilkopplung. Vorbereitung, Dauer, Überwachung. Und darunter, in einer anderen Farbe, nachgetragen, ohne Datum, ohne Unterschrift, wie eine späte Reue: Die vierte Stufe ist untersagt.
+
+Oren sah lange auf das Blatt. Dann nahm er den Stift, und er schrieb, mit seiner eigenen Handschrift, die er mühsam wiederfand, unter die Warnung, in die leere Fläche des Papiers, drei Worte.
+
+Morgen. Ohne Aufsicht.
+
+Er faltete das Blatt. Er steckte es in die Innentasche seines Gewandes, dort, wo er es spüren konnte, beim Atmen, bei jedem Atemzug, wie ein zweites Herz. Und dann saß er im Licht der Lampe, die langsam niederbrannte, und draußen über der Stadt hing der Himmel wie eine dunkle Platte, und irgendwo in den Tiefen der Residenz stand hinter einer dritten Tür etwas, das auf ihn wartete, und in den Röhren der Kopplungskammer ruhte das Veyra und schimmerte leise, wie Atem auf kaltem Glas, und auf dem Tisch vor ihm stand der Becher aus dunklem Ton, und Oren Kest rührte ihn nicht mehr an, weil er nicht mehr wußte, wessen Hand ihn halten würde.
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/ashkara/assets/chapter/chapter-013.jpg" alt="Kapitel 013" />
+</div>
+
+# Dreizehntes Kapitel {#kapitel-013 .chapter-heading .centered}
+
+Die Kammer war enger, als Neris Tal es sich vorgestellt hatte. Sie mochte vier Schritte breit sein, fünf in die Tiefe, und die Decke hing so tief, daß ein hochgewachsener Mann Mühe gehabt hätte, aufrecht zu stehen. Der einzige Lichtkegel fiel von einer kahlen Birne herab, die an einem geflochtenen Kabel von der Wölbung hing, und er beleuchtete nichts als einen Tisch, zwei Stühle und die Hände des Mannes, der ihr gegenübersaß.
+
+Die Hände waren das erste gewesen, was Neris bemerkt hatte. Große Hände, rund wie Werkzeuge, mit dicken Gelenken und Fingern, die an den Spitzen abgegriffen glänzten, wie Knochen, die lange im Wasser gelegen haben. Sie lagen auf der Tischplatte, ruhig, beide Daumen einander zugewandt, als hielte der Mann etwas zwischen ihnen, klein genug, um unsichtbar zu sein.
+
+Sein Gesicht blieb im Halbdunkel. Nur die Augen waren zu sehen, wenn er den Kopf hob, wäßrig, hellwach, ohne die Unruhe, die Neris erwartet hatte.
+
+»Sie haben mir Fragen angekündigt«, sagte der Mann. Die Stimme war ein tiefes Rumpeln, keine Spur von Verwirrung darin. »Fangen Sie mit der an, die Sie am meisten fürchten.«
+
+Neris legte die Aufzeichnungskapsel auf den Tisch. Sie ließ die Hand noch darauf ruhen, ehe sie sie zurückzog.
+
+»Ich möchte wissen, was in den Versuchsreihen der Jahre 3760 bis 3764 geschehen ist.«
+
+»Es gab drei Reihen«, sagte der Mann, ohne zu zögern. »Die erste betraf das Trägermaterial. Die zweite betraf die Einspeisung von Kontext vor der Kopplung. Die dritte betraf die Personen selbst.«
+
+»Erzählen Sie mir von der dritten.«
+
+Der Mann sah durch sie hindurch, nicht an ihr vorbei, sondern durch sie, auf einen Punkt, den nur er kannte.
+
+»Es waren vierzehn«, sagte er. »Neun Männer, fünf Frauen. Freiwillige, behauptete man. Sie wurden einzeln gekoppelt, in Abständen von je sechs Tagen, und ich führte die Auslesungen durch. Das Band wurde nach jeder Sitzung auf Trägheit geprüft. Alle vierzehn zeigten nach der zweiten Kopplung ein identisches Muster in der dritten Frequenz.«
+
+Er machte eine Pause, so lang, wie eine Hand braucht, um von der Tischplatte zum Rand zu gleiten.
+
+»Fahren Sie fort«, sagte Neris.
+
+»Nach der vierten Kopplung sprachen elf der vierzehn von einer Tür. Sie beschrieben sie alle gleich: aus Metall, mit einer vertieften Rosette in der Mitte. Keiner von ihnen hatte sie je gesehen. Wir protokollierten es als Kollektivhalluzination und schlossen die Reihe mit zwölf Probanden ab.«
+
+»Zwölf?«
+
+»Es waren zwölf«, sagte der Mann. »Der eine wurde nach der zweiten Sitzung dienstunfähig, der andere nach der dritten. Bleiben zwölf, die die Reihe vollständig durchliefen.«
+
+Neris sah auf die Kapsel. Sie hatte nichts von vierzehn gesagt. Sie hatte nichts von zwölf gesagt. Der Mann hatte beides gesagt, mit derselben Stimme, im selben Atemzug, als wären die Zahlen nicht Zahlen, sondern Türen, durch die er hindurchging, ohne den Raum zu wechseln.
+
+»Sie haben vorhin vierzehn genannt«, sagte sie.
+
+»Ja.«
+
+»Und jetzt zwölf.«
+
+»Ja.«
+
+»Beides kann nicht zutreffen.«
+
+Der Mann sah sie an, und in seinem Blick war nichts von einem Menschen, der ertappt wurde, und nichts von einem Menschen, der log. Es war der Blick eines Mannes, der zwei Dinge gleichzeitig erinnerte, weil sie in ihm nebeneinander lagen wie zwei Steine, und er hatte keinen Grund, den einen fortzunehmen, um den anderen zu zeigen.
+
+»Wenn Sie mich etwas fragen«, sagte er, »das ich nicht erinnere, werde ich es Ihnen sagen. Ich erinnere beides. Ich habe aufgehört, mich für eine der beiden Zahlen zu entscheiden.«
+
+Neris griff nach dem Stift und schrieb nichts. Sie ließ den Stift zwischen den Fingern liegen.
+
+»Was geschah mit den zwölf?«, fragte sie.
+
+»Fünf überstanden die Reihe ohne bleibende Schäden. Vier zeigten dauerhafte Frequenzstörungen in der vierten und fünften Ordnung. Drei erinnerten nach der Reihe Dinge, die ihnen nicht geschehen waren, und erinnerten Dinge nicht, die ihnen geschehen waren, und wir führten es auf die Bandträgheit zurück.«
+
+»Auf die Bandträgheit.«
+
+»Auf die Bandträgheit«, wiederholte der Mann, und es war, als läse er eine Zeile aus einem Formular vor, das er niemals geschrieben hatte, aber auswendig kannte.
+
+Neris lehnte sich zurück. Der Stuhl gab ein Knacken von sich, ein einzelnes, trockenes Geräusch in der engen Kammer. Sie hörte es nachklingen, und darunter, sehr leise, hörte sie das Kabel an der Decke schwingen, als hätte jemand die Luft in der Kammer bewegt.
+
+»Was wurde mit den Auslesungen gemacht?«, fragte sie.
+
+»Sie wurden nach der Prüfung gebündelt und den Ältesten vorgelegt. Danach gingen sie in den Tiefenspeicher, mit der Maßgabe, daß sie unverändert bleiben.«
+
+»Und blieben sie unverändert?«
+
+Zum ersten Mal zögerte der Mann. Es war kein Zögern der Unsicherheit, sondern eines des Weges, wie jemand, der eine Hand ausstreckt und merkt, daß der Griff nicht dort ist, wo er ihn erwartet.
+
+»Ich habe sie nicht wieder eingesehen«, sagte er. »Meine Berechtigung wurde nach dem Abschluß der Reihe entzogen.«
+
+»Auf wessen Anweisung?«
+
+»Auf Anweisung des Ältestenrates. Auf meine eigene Bitte kataminiert. Ich bat darum, nicht wieder mit dem Material befaßt zu werden.«
+
+»Warum?«
+
+Der Mann sah auf seine Hände. Die beiden Daumen lösten sich voneinander und fanden sich wieder, langsam, wie zwei Tiere, die sich im Schlaf drehen.
+
+»Weil ich nach dem Abschluß der Reihe morgens aufwachte«, sagte er, »und die vertiefte Rosette kannte, ohne sie gesehen zu haben. Aus Metall. In der Mitte. Ich kannte sie aus keinem Protokoll. Zwölf von Ihnen kannten sie, habe ich gesagt. Und ich habe damals still zu mir gesagt, es seien elf gewesen, weil einer von ihnen das Protokoll geführt hatte und nicht mitzählte. Es waren elf.«
+
+»Sie haben gerade zwölf gesagt.«
+
+»Ich habe zwölf gesagt. Es waren elf, die die Tür sahen, und zwölf, die die Reihe durchliefen, und vierzehn, die begannen, und zwölf, die blieben, und ich war einer von ihnen, obwohl ich nicht an der Kopplung teilgenommen habe. Ich erinnere es so, wie ich es erinnere. Wenn Sie eine gerade Zahl wollen, nehme ich die vierzehn. Wenn Sie eine ungerade wollen, nehme ich die elf. Ich habe beides, wie ich es habe.«
+
+Die Luft in der Kammer war kalt. Neris spürte sie auf den Handrücken, fein und trocken wie Papierstaub. Sie sah den Lichtkegel an der Wölbung, die kahle Birne, das geflochtene Kabel, das sich in einem halben Zoll Trägheit noch bewegte, und sie dachte: Es ist nicht Wahnsinn. Es ist ein Gegenstand, den man in zwei Fassungen aufbewahrt hat, und er hat sie beide in sich, und er weiß, daß er sie beide in sich hat, und er weiß es ruhig.
+
+Der Mann holte Luft. Es war der erste Atemzug, den sie von ihm hörte, der Mühe kostete.
+
+»Ich habe in den Jahren nach der Reihe gesehen, wie die Prüfberichte sich veränderten«, sagte er. »Nicht die Bänder. Die Prüfberichte. Ich hatte Katalogangaben geführt, eigenhändig, mit der Nummer der Reihe und dem Datum. Nach sechzehn Jahren las ich sie wieder, und der Bericht über die dritte Reihe nannte ein anderes Datum als das, mit dem die Reihe begonnen hatte. Nicht ein späteres. Ein früheres. Um drei Tage. Ich dachte, ich hätte mich geirrt, und ich schrieb es mir in mein Tagebuch. Nach weiteren vier Jahren las ich es wieder, und das Datum war wieder das erste, das richtige. Und ich sah meine eigene Randnotiz, in meiner eigenen Hand, in dem Bericht, der eigentlich mein Werk war, und die Randnotiz stimmte mit dem neuen Datum überein, und ich konnte mich nicht erinnern, sie geschrieben zu haben. Ich habe damals das Tagebuch verbrannt.«
+
+»Wann war das?«
+
+»Im fünfzigsten Jahr nach Abschluß der Reihe.«
+
+Neris rechnete nicht. Sie brauchte nicht zu rechnen. Sie sah die Kette vor sich, und sie sah ein Glied darin, das zu klein war, und sie sah, wie es sich ausdehnte, ohne zu zerreißen.
+
+»Was geschah in der dritten Reihe, das man später ändern wollte?«, fragte sie.
+
+»Ich weiß es nicht mehr«, sagte der Mann, und diesmal war das Zögern ein anderes, es war das Zögern eines Menschen, der etwas sucht, das einmal in dem Zimmer gestanden hat, in dem er stand, und jetzt nicht mehr da ist. »Ich weiß, daß es etwas war. Ich erinnere die vierzehn, und ich erinnere die zwölf, und ich erinnere die vertiefte Rosette, aber über den Inhalt der dritten Reihe kann ich Ihnen nur berichten, was in den Prüfberichten steht, und die Prüfberichte sind Wände, die niemand mir entzogen hat, aber die sie mir vorgehalten haben.«
+
+Neris nahm den Stift. Sie schrieb einen einzigen Satz auf den Rand der Kapsel. Nicht für ihn. Für sich.
+
+Kontrollierte Kopplung an Personen.
+
+Der Mann sah, wie sie schrieb. Er wartete, bis sie den Stift absetzte.
+
+»Sie haben es gefunden«, sagte er.
+
+»Ich habe nichts gefunden. Ich habe gehört.«
+
+»Sie haben es gehört«, sagte der Mann, und es war das erste Mal, daß in seiner Stimme etwas war wie Erleichterung. »Dann wissen Sie, was es ist. Sie haben nicht die Reihe gesehen. Sie haben das Muster gesehen. Das Muster, in dem die Menschen nicht Träger sind, sondern Träger werden sollen. Das ist nicht Wahnsinn, was ich erzähle. Das ist nicht Verfall. Das ist ein Versuch, den ich mitgemacht habe, ohne zu wissen, was ich mitmachte.«
+
+»Was für ein Versuch?«
+
+»Die Frage stellen Sie in der Reihenfolge falsch«, sagte der Mann. »Fragen Sie, wer den Versuch angesetzt hat, und ich sage es Ihnen. Fragen Sie, wer die Reihen geprüft hat, und ich sage es Ihnen. Fragen Sie nach dem Inhalt, und ich sage Ihnen, was die Berichte sagen, und die Berichte sind ein Zaun.«
+
+»Nun gut«, sagte Neris. »Wer hat die Reihen angesetzt?«
+
+»Der Ältestenrat unter dem Vorsitz des damaligen Oberhaupts«, sagte der Mann. »Der Name in den Berichten lautet Ilyan Dheran. Aber das ist eine Prüfspur, keine Urkunde. In der Reihenliste steht er als Vorsitzender der Prüfungskommission, und in einer anderen Liste, die ich nie zeigen durfte, stand er als Ansetzender. Ich habe beide Listen gesehen. Ich erinnere beide.«
+
+Auf dem Tisch zwischen ihnen lag der Stift, die Kapsel, die Hände des Mannes, und in der Luft, die so eng war, daß jedes Wort sie teilte, lag ein Name, den Neris nicht aussprechen wollte, solange sie den Lichtkegel ansah. Ilyan Dheran hatte vor sechzig Jahren die Fälschung entdeckt und vertuscht. Der Mann vor ihr sprach von vier Jahren davor. Von sechzig Jahren davor. Von einer Zeit, in der Dheran noch nicht der Vertuschler gewesen war, sondern der Prüfer. Und dachte: Wenn beides zutrifft, dann war die Vertuschung nicht das Ende der Sache, sondern ihre Fortsetzung.
+
+»Herr Dheran«, sagte sie, und sie sagte den Namen langsam, »hat Sie zu den Reihen befragt?«
+
+»Herr Dheran hat mir nach dem Abschluß der dritten Reihe den Auftrag entzogen und mir die Berechtigung genommen«, sagte der Mann. »Er hat mich verabschiedet mit den Worten, ich hätte dem Haus gedient, und ich solle den Dienst vergessen. Ich habe ihm damals zugesagt, es zu tun. Ich habe es vier Jahrzehnte versucht. Dann kamen die Bearbeitungen.«
+
+»Die Bearbeitungen?«
+
+»Die Bearbeitungen meiner Berichte. Ich habe sie nicht geführt. Ich habe bemerkt, was in ihnen verändert wurde, und ich habe bemerkt, daß ich die veränderten Fassungen mit der Zeit selbst für die ursprünglichen gehalten habe, und dann habe ich aufgehört, zwischen beidem zu entscheiden, weil jede Entscheidung nur eine der Fassungen getötet hätte, und ich brauchte beide, um weiter zu wissen, wer ich bin.«
+
+Er sagte das, als spräche er von einem Werkzeug, das er im Haus hielt und nicht benutzte, und Neris verstand, daß für ihn die beiden Fassungen nicht Lüge und Wahrheit waren, sondern zwei Werkzeuge, mit denen er sich selbst zusammenhielt.
+
+Sie schob die Kapsel über den Tisch. Sie stellte sie neben seine Hände, innerhalb der Reichweite der beiden Daumen.
+
+»Ich möchte, daß Sie mir eine Aussage machen«, sagte sie. »Nicht über die Reihen. Über den Vorgang der Bearbeitung. Wer Zugang zu Ihren Berichten hatte. In welcher Zeit. Mit welcher Befugnis. Und ob Sie bereit sind, das vor einem Gezeugten zu wiederholen.«
+
+Der Mann sah auf die Kapsel. Er sah sie lange an, und in dem Halbdunkel war nicht zu erkennen, ob sich in seinem Gesicht etwas bewegte oder nur das Licht der Birne an der Decke mit der Trägheit des Kabels schwankte.
+
+»Nein«, sagte er.
+
+»Nein?«
+
+»Nicht so«, sagte der Mann. »Ich wiederhole nichts vor einem Gezeugten, solange ich nicht weiß, wer den Gezeugten bestellt. Ich wiederhole vor dem Ersten Schiedsrichter, wenn Sie mir zwei Dinge zusichern. Erstens: Der Inhalt meiner Aussage liegt in meiner Hand, bis zu dem Tag, an dem ich sie ablege. Zweitens: Ich werde nicht im Protokoll als Zeuge geführt, sondern als Beteiligter. Mit dem Anspruch, bei dem zu bleiben, was ich gesagt habe, auch wenn es sich in zwei Fassungen spricht. Mit dem Anspruch, gehört zu werden, ohne nach einer der Fassungen zurechtgemacht zu werden.«
+
+Neris sah ihn an. Der Lichtkegel lag zwischen ihnen wie eine Grenze, und sie wußte, daß der Mann in dem Augenblick, in dem er den Mund aufmachte, zum Beteiligten geworden war, und daß sie in dem Augenblick, in dem sie zusagte, aufhörte, nur Befragerin zu sein.
+
+»Ich kann Ihnen zusichern, daß Ihre Aussage vor Ihrer Ablegung nicht in andere Hände geht«, sagte sie. »Ich kann Ihnen zusichern, daß ich Ihren Namen nenne, wenn Sie ihn nennen wollen, und verschweige, wenn Sie ihn verschweigen. Was ich nicht zusichern kann, ist der Vorgang selbst. Ein Beteiligter wird verhört, ein Beteiligter wird angehört, und ich habe keine Macht über das Gericht.«
+
+»Macht will ich nicht«, sagte der Mann. »Ich will, daß ich bei mir bleibe. Sie haben vorhin gefragt, ob ich vor einem Gezeugten wiederhole. Ich wiederhole vor Ihnen, und ich wiederhole vor dem Ersten Schiedsrichter, und ich wiederhole vor niemandem sonst, weil jeder andere aus mir eine der beiden Fassungen machen würde, und ich habe nur noch diese zwei, und ich gebe sie niemandem, der mir eine von ihnen nimmt.«
+
+Er legte die Hände flach auf die Tischplatte. Die Finger berührten den Rand der Kapsel.
+
+»Nehmen Sie das auf«, sagte er, »und tragen Sie es mit Ihrer Unterschrift. Sie haben gesagt, Sie wollen Wahrheit. Dann schreiben Sie mit dem Stift, mit dem Sie vorhin geschrieben haben, und unter das, was ich sage, setzen Sie Ihren Namen. Nicht den Namen der Behörde. Ihren.«
+
+Neris fühlte das Gewicht der Kapsel in ihrem Blick. Sie hätte die Forderung ablehnen können. Sie hätte auf der Ordnung bestehen können, auf dem Verfahren, auf der Form, mit der sie aufgewachsen war und der sie diente, und in ihrem Inneren wußte sie, daß der Mann dann schweigen würde, und das Schweigen würde sie nicht verlieren, sie würde es verlieren, mit jedem weiteren Tag, den Dherans Zugriffe in ihren Akten arbeiteten.
+
+Und dachte: Ein Zugeständnis, jetzt, in dieser Kammer, ist eine Tür, die ich nicht wieder zumachen kann. Und wußte, daß sie es tun würde.
+
+»Einverstanden«, sagte sie. Sie nahm den Stift und schrieb unter die Kapselaufschrift ihren Namen. Nicht den der Behörde. Ihren. Neris Tal.
+
+Sie schob die Kapsel über den Tisch zurück. Dann legte sie den Stift neben die Kapsel, und dann sprach der Mann, und sie hörte zu, und sie schrieb Wort für Wort, in ihrer eigenen Hand, und in der engen Kammer war kein Geräusch als die Stimme, das Kratzen des Stifts und in langen Abständen, wenn der Mann Atem holte, das feine Schwingen des geflochtenen Kabels an der Decke.
+
+Er sprach von Räumen, die er nie betreten hatte. Von Listen, die seinen Namen in einer Handschrift trugen, die seiner glich, und von Listen, in denen sein Name fehlte, und beide Listen waren in den Jahren vor seiner Verabschiedung angelegt, und in einer stand er mit dem Datum der Reihe, und in der anderen stand er gar nicht, obwohl er sie geführt hatte, und er konnte nicht entscheiden, welche er zuerst geführt hatte, und er konnte nicht entscheiden, welche die echte war, und er konnte nicht entscheiden, ob er geführt hatte oder ob er nur erinnerte, geführt zu haben, und die Erinnerung war stark, sie war so stark wie die Erinnerung an seine Mutter.
+
+Er sprach von der Rosette. Von den elf, die sie sahen, und den zwölf, die sie sahen, und dem Umstand, daß die Rosette in der Notiz eines ihm bekannten Handwerkers aus dem sechsten Jahr der Reihe stammte und die Notiz des Handwerkers in der Sammlung fehlte, und in dem Bericht über die Reihe stand, es seien es zehn gewesen, die sie sahen, und keine Fassung, die er hatte, nannte eine andere Zahl als zehn, und auch diese Fassung erinnerte er.
+
+Er sprach von den Jahren nach der Verabschiedung. Von dem Tag, an dem er gemerkt hatte, daß er die Rosette nicht nur erinnerte, sondern schmeckte, Metall und kalt, und von dem Tag, an dem er einen Weg gegangen war, den er nie gegangen war, rechts die Wand entlang, bis zu einer Tür, die er nie gesehen hatte, und an der Tür habe er gestanden und die Hand an die Rosette gelegt, und sie habe gepaßt, und dann habe er die Hand fortgenommen und sei nach Hause gegangen, und er habe seither nicht mehr nach der Tür gesucht, weil die Frage nach der Tür in ihm nicht durch die Kopplung entstanden war, sondern durch die Bearbeitung, und er könne nicht beweisen, welches von beiden es gewesen war.
+
+Er sprach zwei Stunden. Am Ende fragte Neris nach der Person, die die Bearbeitungen geführt hatte, und der Mann nannte einen Namen, den sie kannte, den Namen eines Mannes, der im Tiefenspeicher eine Unterbereichtigung gehabt hatte, im dritten Stock, im siebenten Kabinett, und der vor zwanzig Jahren gestorben war, an einem Fieber, und dessen Nachlaß in die Hände Nemets gegangen war. Der Mann nannte diesen Namen mit einer Stimme, als spräche er von einem Zeugen, den man nicht mehr rufen kann, und Neris schrieb ihn auf und schrieb unter ihn kein Wort.
+
+Dann nahm sie die Kapsel. Sie schloß sie nicht. Sie ließ sie offen liegen, zwischen ihnen, bis der Mann aufstand, und der Mann stand auf, und in dem Licht der Birne sah Neris sein Gesicht zum ersten Mal ganz, und es war kein verwirrtes Gesicht. Es war das Gesicht eines Menschen, der präzise ist, und der weiß, daß er präzise ist, und der weiß, daß er sich in einer Struktur befindet, die nicht mehr seine ist.
+
+»Wenn Sie mich wieder brauchen«, sagte er, »kommen Sie zu mir, nicht in ein Amt. Ich habe Ihnen heute gegeben, was ich geben kann. Beim nächsten Mal nehmen Sie nichts zurück.«
+
+»Ich nehme nichts zurück«, sagte Neris.
+
+»Sie haben meinen Namen auf einen Bogen Papier geschrieben«, sagte der Mann. »Sie werden ihn von dem Papier nicht mehr herunterbekommen. Danach richtet sich alles, was ich Ihnen noch sage.«
+
+Neris löschte die Birne. Sie hörte den Mann an der Tür vorbei in den Gang treten, den sie nicht beleuchtete, und sie wartete, bis seine Schritte in der Dunkelheit versanken, ehe sie die Kapsel in die Innentasche ihres Gewandes schob, neben die andere Kapsel, die dort lag, und beide stießen aneinander wie zwei Steine.
+
+Als sie die Kammer verließ, trat sie in einen Gang, der keinen Ausgang zeigte, und über der Stadt stand die Nacht wie eine dunkle Platte. Sie ging in die Richtung, in der sie gekommen war, und in ihrem Kopf ordneten sich die Reihen, die Zahlen, die Fassungen, und sie sah vor sich, mit der Klarheit, die sie seit dem Vertrag nicht mehr gehabt hatte, zwei Linien auf einem Bogen Papier, die sich in einem Punkt schnitten, und dieser Punkt trug einen Namen, den sie noch nicht aufgeschrieben hatte.
+
+In der Ferne, hinter den Mauern, war das Summen des Unterglas-Beckens zu hören, ein tiefes, gleichmäßiges Rauschen, wie ein Atem, der nicht aufhörte, und Neris blieb stehen und sah in die Richtung, aus der es kam, und dachte: Wenn ich dieses Zugeständnis nutze, nutze ich es auch für mich, und sie wußte nicht, ob das, was sie in der engen Kammer gegeben hatte, morgen ihr Verhandeln oder ihr Verhängnis war.
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/ashkara/assets/chapter/chapter-014.jpg" alt="Kapitel 014" />
+</div>
+
+# Vierzehntes Kapitel {#kapitel-014 .chapter-heading .centered}
+
+Die Lampe im Vorraum des Nemet-Archivs brannte auch am Morgen, als hätte sie die Nacht über nicht gelöscht werden dürfen. Neris Tal stand vor der inneren Tür, die in den gesicherten Bestand führte, und hielt ihren Ausweis gegen das Lesegerät. Das Gerät gab keinen Laut. Sie hielt ihn noch einmal hin, drehte ihn, strich mit dem Daumen über die Kante, wie man über eine Münze streicht, die kein Gewicht mehr hat. Das Lesegerät blieb stumm.
+
+Ein Wächter stand an der Wand, zwei Schritte entfernt, und sah an ihr vorbei auf den Gang hinter ihr.
+
+»Öffnen Sie«, sagte Neris.
+
+Der Wächter sah sie an, dann auf das Gerät, dann wieder an ihr vorbei. »Der Ausweis ist gesperrt«, sagte er. »Seit sechs Uhr dreißig.«
+
+»Auf wessen Anweisung?«
+
+»Anweisung ist Anweisung«, sagte der Wächter. Er sagte es nicht unfreundlich. Er sagte es wie ein Mann, der einen Befehl ausführt, den er nicht gemacht hat, und der weiß, daß er ihn nicht machen mußte.
+
+Neris trat einen Schritt zurück. Sie sah auf die Uhr über der Tür, die in roten Ziffern die Stunde anzeigte, und sie dachte: Sechs Uhr dreißig. Zu der Stunde, in der die Reinigungskräfte kommen, in der die Flure leer sind, in der niemand sieht, wer eine Tür schließt. Und dachte: Er hat nicht gewartet. Er hat nicht einmal bis zum Vormittag gewartet.
+
+»Ich verlange den schriftlichen Bescheid«, sagte sie.
+
+»Der Bescheid liegt im Sekretariat«, sagte der Wächter. »Sie können ihn abholen. Er ist unterschrieben.«
+
+Sie ging den Gang zurück, und ihre Schritte klangen auf den Steinplatten wie Schritte in einem leeren Haus. An der Ecke zum Hauptflur stand ein Kollege, ein junger Archivar, den sie seit zwei Jahren kannte, der ihr einmal bei einer Nachtschicht Tee gebracht hatte. Er sah sie kommen. Er sah sie an, und dann sah er auf seine Aktenmappe, und er ging weiter, als hätte er sie nicht gesehen, und seine Schultern waren ein wenig zu hoch gezogen, wie bei einem Menschen, der weiß, daß er etwas nicht tun will, und es trotzdem tut.
+
+Neris blieb an der Ecke stehen. Sie sah ihm nach, bis er in der Tür zum Lesesaal verschwand, und sie dachte: Gestern hätte er gegrüßt. Gestern hätte er gefragt, ob es Neuigkeiten gibt. Heute weiß er, was ich bin. Heute weiß er, was ich gestern noch nicht war.
+
+Das Sekretariat lag im Erdgeschoß, hinter einer Glaswand, hinter der eine Frau saß, die Neris nur vom Sehen kannte, eine Frau mit grauem Haar, die Akten ordnete. Als Neris eintrat, schob die Frau ein Blatt über den Tisch, ohne aufzusehen. Das Blatt war ein Formular. Oben stand ein Aktenzeichen, darunter ihr Name, darunter zwei Absätze Text, darunter eine Unterschrift, die sie kannte, die Unterschrift Ilyan Dherans, in schwarzer Tinte, mit einem Strich unter dem Namen, der nicht nötig war.
+
+Neris nahm das Blatt. Sie las.
+
+Der Bescheid war kurz. Er entzog ihr die Zugangsberechtigung zum gesicherten Bestand, zu den Tiefenspeichern und zu den Kopplungsprotokollen, mit sofortiger Wirkung, bis zur Klärung eines Verfahrens, das eingeleitet worden sei. Als Begründung stand dort, sie habe ohne Genehmigung Material entnommen, sie habe Aufzeichnungen ohne Zeugen geführt, und es bestehe der begründete Verdacht, daß ihre Untersuchung nicht mehr dem Auftrag entspreche, sondern eigenen Zwecken diene. Das Wort »eigenen« war unterstrichen. Es war das einzige unterstrichene Wort auf dem ganzen Blatt.
+
+»Das ist nicht wahr«, sagte Neris.
+
+Die Frau sah auf. »Ich stelle die Papiere zu«, sagte sie. »Ich beurteile sie nicht.«
+
+»Wer hat das verfaßt?«
+
+»Das Sekretariat«, sagte die Frau. »Nach Anweisung.«
+
+»Nach Anweisung von wem?«
+
+Die Frau sah sie an, und in ihrem Blick war etwas, das Neris kannte, das sie heute schon zweimal gesehen hatte, an dem Wächter und an dem jungen Archivar: ein Blick, der nicht böse war, sondern vorsichtig, ein Blick, der einen Abstand hielt. »Sie kennen die Anweisung«, sagte die Frau, und sie sagte es leise, als wäre es ein Rat.
+
+Neris faltete das Blatt. Sie faltete es zweimal, genau an den Kanten, und schob es in die Innentasche ihres Gewandes, neben die beiden Kapseln, die dort lagen, und die Kapseln stießen an das Papier wie zwei Steine an eine Wand. Dann ging sie hinaus, durch den Hauptflur, an der Pförtnerloge vorbei, in die Kälte des Morgens.
+
+Draußen stand die Stadt unter einem Himmel, der die Farbe von Zinn hatte. Der Wind kam vom Unterglas-Becken herauf und roch nach feuchtem Stein und nach einer Süße, die nicht von hier war. Neris ging die Straße hinunter, an den Marktständen vorbei, die gerade geöffnet wurden, und sie hörte, wie zwei Händler miteinander sprachen, und sie blieb stehen, ohne es zu wollen, weil einer der Händler ein Wort sagte, das sie kannte.
+
+»Es heißt, die Forensikerin hat die Zahlen verwechselt«, sagte der erste Händler. »Es heißt, sie hat eine alte Messung für einen Beweis gehalten.«
+
+»So habe ich es auch gehört«, sagte der zweite. »Man sagt, das Gerät war nicht geeicht.«
+
+»Man sagt, sie wollte etwas finden«, sagte der erste. »Man sagt, sie hat sich verbissen.«
+
+Neris stand zwischen den Ständen und hörte zu. Sie hätte weitergehen können. Sie ging nicht weiter. Sie stand da wie eine Frau, die einen Text liest, den sie nicht geschrieben hat und in dem ihr Name steht.
+
+»Und der Vertrag?« fragte der zweite Händler.
+
+»Der Vertrag ist geprüft«, sagte der erste. »Der Vertrag ist ordentlich. Es gibt eine neue Auswertung, aus dem Archiv selbst. Sie sagen, die alte Auswertung war falsch.«
+
+Neris kaufte nichts. Sie ging weiter, und in ihrem Kopf ordneten sich die Sätze, die sie gehört hatte, wie sie sich in der Kammer die Reihen geordnet hatten, und sie dachte: Sie haben nicht nur die Tür geschlossen. Sie haben eine andere Tür geöffnet, und hinter dieser Tür steht eine Geschichte, in der ich eine Frau bin, die sich geirrt hat.
+
+Am Nachmittag ging sie zum Archiv zurück, nicht in den gesicherten Bestand, sondern in die öffentliche Lesestelle, wo die Kopien lagen, die jeder lesen durfte. Dort, auf dem Tisch am Fenster, lag ein neues Blatt, das am Morgen noch nicht dort gelegen hatte. Es war eine Auswertung, sauber gesetzt, mit einem Kopf, der die Herkunft nannte: Nemet-Archiv, Abteilung Deutung, laufende Nummer. Neris setzte sich und las.
+
+Die Auswertung war zwei Seiten lang. Sie war nicht dumm. Sie war nicht grob. Sie war das Gefährlichste, was Neris seit Wochen gelesen hatte, weil sie aussah wie Wissenschaft. Auf der ersten Seite stand, die Probe, auf die sich die Untersuchung stütze, sei aus einem Bestand entnommen worden, der nicht für forensische Zwecke freigegeben gewesen sei; die Meßreihe sei an einem Gerät erstellt worden, dessen Kalibrierung nicht dokumentiert sei; die Abweichung, die als Beweis gelte, liege innerhalb der bekannten Schwankungsbreite. Auf der zweiten Seite stand, die Untersucherin habe in den vergangenen Wochen mehrfach gegen Verfahrensregeln verstoßen, und es sei nicht auszuschließen, daß ihre Schlußfolgerungen durch eine vorgefaßte Annahme beeinflußt seien. Der letzte Satz lautete: Eine belastbare Prüfung des Abtretungsvertrags ist mit den derzeit verfügbaren Mitteln nicht möglich.
+
+Neris las den letzten Satz dreimal. Sie dachte: Nicht möglich. Nicht: nicht nötig. Nicht: nicht erlaubt. Nicht möglich. Das Wort war sorgfältig gewählt. Es nahm niemandem die Schuld und machte allen die Arbeit. Und dachte: Er hat nicht gesagt, daß ich lüge. Er hat gesagt, daß die Wahrheit nicht feststellbar ist. Das ist klüger. Das ist viel klüger.
+
+Sie ging zum Schalter und verlangte die Probe. Die Frau am Schalter, eine junge Frau mit einem Band im Haar, sah in einem Verzeichnis nach und sagte, die Probe sei nicht mehr im Bestand. Sie sei am Morgen umgezogen worden, in die Abteilung für ruhende Materialien, und die Abteilung für ruhende Materialien sei für die Dauer des Verfahrens gesperrt.
+
+»Wann ist sie umgezogen?«
+
+»Um sechs Uhr zwanzig«, sagte die Frau.
+
+Neris nickte. Sie nickte, wie man nickt, wenn ein Rechenergebnis stimmt, das man nicht gewünscht hat. Sechs Uhr zwanzig die Probe, sechs Uhr dreißig der Ausweis. Zehn Minuten. Er hatte zehn Minuten gebraucht, um beides zu tun, und er hatte es in der richtigen Reihenfolge getan: zuerst das Material, dann die Person. Und dachte: Wer zuerst die Person sperrt, gibt der Person Zeit. Wer zuerst das Material sperrt, gibt dem Material keine Zeit. Er hat das Material zuerst gesperrt. Er hat nicht gezögert.
+
+Sie setzte sich wieder an den Tisch am Fenster. Draußen ging der Nachmittag in den Abend, und das Licht auf den Steinplatten wurde länger. Sie nahm ein Blatt Papier und schrieb auf, was sie wußte, in Reihen, wie sie es in der Kammer getan hatte. Sie schrieb: Probe entnommen, Tag der Entnahme, Stunde. Sie schrieb: Protokoll der Entnahme, geführt von ihr, mit Zeugen. Sie schrieb: Zeuge, Name, Dienstnummer. Sie schrieb: zweite Messung, anderes Gerät, gleiche Abweichung. Sie schrieb: Materialsplitter, Spektrometrie, Zusammensetzung. Sie schrieb: sechs Schreibzugriffe, Zeitstempel. Sie schrieb: Wasserbücher, sechzehn Namen, vier gekappte Adern. Sie schrieb: Forscher, Kapsel, Unterschrift. Und unter alles schrieb sie einen Strich und darunter ein Wort: Zeugen.
+
+Denn das war es, was sie hatte. Sie hatte keine Probe mehr. Sie hatte keine Protokolle mehr, die noch die alten waren. Aber sie hatte Zeugen, und sie hatte Kopien, und sie hatte die Kapseln in ihrer Tasche. Und dachte: Er kann die Probe sperren. Er kann den Ausweis sperren. Er kann die Protokolle ändern. Aber er kann nicht die Menschen sperren, die gesehen haben, was sie gesehen haben. Noch nicht.
+
+Am Abend ging sie zum Haus der Hydrologin, nicht durch die Hauptstraße, sondern durch die Gassen, die am Becken entlangführten, wo das Wasser in den Röhren summte. Das Haus lag am Rand der Siedlung, ein flaches Haus mit einem Dach aus grauen Platten, und in einem Fenster brannte Licht. Neris klopfte. Die Tür öffnete sich einen Spalt, und im Spalt stand das Gesicht der Hydrologin, und das Gesicht war müde und wach zugleich, wie das Gesicht eines Menschen, der seit Stunden auf etwas wartet und nicht weiß, ob es kommt.
+
+»Sie sind es«, sagte die Hydrologin.
+
+»Ich bin es«, sagte Neris. »Ich bin allein.«
+
+Die Hydrologin ließ sie ein. Die Stube war warm von einem kleinen Ofen, und auf dem Tisch lagen die Wasserbücher, aufgeschlagen, mit Bleistiftstrichen an den Rändern. Die Hydrologin schob eine Tasse über den Tisch, ohne zu fragen, und Neris nahm sie, und der Tee war stark und bitter, und sie trank ihn, und es war das erste, was sie an diesem Tag ohne Widerstand tat.
+
+»Sie haben es gehört«, sagte Neris.
+
+»Ich habe es gehört«, sagte die Hydrologin. »Auf dem Markt. Am Brunnen. Zwei Frauen haben es erzählt, als wäre es ein Wetter.«
+
+»Was erzählen sie?«
+
+»Daß die Forensikerin sich geirrt hat«, sagte die Hydrologin. »Daß das Gerät schlecht war. Daß der Vertrag in Ordnung ist. Daß die Siedlungen bekommen, was ihnen versprochen wurde.« Sie sah Neris an. »Samel hat es heute morgen erzählt. Er hat es nicht böse erzählt. Er hat es erzählt, wie man etwas erzählt, das man gerne glaubt.«
+
+Neris stellte die Tasse ab. »Und Sie?«
+
+»Ich habe nichts gesagt«, sagte die Hydrologin. »Ich habe zugehört. Ich habe gedacht: Wenn ich jetzt rede, rede ich gegen meinen Bruder, und er wird nicht mir glauben, sondern dem Papier.« Sie schwieg. »Das Papier ist gut gemacht«, sagte sie dann. »Es klingt wie eine Prüfung. Es klingt, als hätte jemand nachgesehen und nichts gefunden. Es klingt nicht wie eine Lüge. Es klingt wie eine Enttäuschung.«
+
+»Es ist eine Lüge«, sagte Neris. »Aber es ist eine Lüge, die nicht behauptet, daß ich lüge. Sie behauptet, daß die Wahrheit nicht feststellbar ist. Das ist schwerer zu widerlegen als eine Lüge.«
+
+Die Hydrologin sah auf die Wasserbücher. Sie strich mit dem Finger über eine der Bleistiftlinien, über einen der sechzehn Namen, und sie sagte: »Die vier Adern sind trocken. Ich habe es gemessen. Gestern noch. Es ist nicht feststellbar, ob sie trocken sind. Ich war dort. Ich habe es gesehen.«
+
+»Dann sind Sie eine Zeugin«, sagte Neris.
+
+»Ich bin eine Vertraglerin«, sagte die Hydrologin. »Wenn ich vor einem Gericht sage, was ich gesehen habe, sagen sie: Sie ist die Tochter ihres Vaters. Sie redet für ihre Familie. Sie redet gegen das Papier, weil das Papier gegen sie ist.«
+
+»Das werden sie sagen«, sagte Neris. »Sie werden es von mir auch sagen. Sie sagen es schon.«
+
+Sie saßen eine Weile, und der Ofen knackte, und draußen summte das Wasser in den Röhren, und es war ein Summen, das nicht aufhörte. Neris dachte: Er hat mir den Ausweis genommen, die Probe, die Protokolle, den Namen. Er hat mir nicht die Kapseln genommen. Er hat mir nicht die Wasserbücher genommen. Er hat mir nicht die Menschen genommen, die gesehen haben. Und dachte: Aber er hat mir die Zeit genommen. Jede Stunde, die ich brauche, um einen Zeugen zu finden, ist eine Stunde, in der er einen neuen Satz in Umlauf setzt.
+
+»Was machen Sie jetzt?« fragte die Hydrologin.
+
+Neris sah auf die Kapseln in ihrer Tasche, die beiden, die aneinanderstießen. »Ich gehe zum Schiedsrichter«, sagte sie. »Nicht in ein Amt. Zum Schiedsrichter selbst. Der Forscher hat gesagt, ich soll ihn holen, wenn ich ihn brauche. Ich brauche ihn jetzt.«
+
+»Und wenn der Schiedsrichter nicht hört?«
+
+»Dann hört er nicht«, sagte Neris. »Aber ich habe einen Zeugen, der vor ihm aussagen will, und ich habe eine Unterschrift, die ich gegeben habe, und ich habe eine Kapsel, die ich nicht mehr zurücknehmen kann. Wenn ich sie nicht einbringe, bin ich die Frau, die sich geirrt hat. Wenn ich sie einbringe, bin ich die Frau, die etwas behauptet. Zwischen diesen beiden Frauen ist kein Raum mehr.«
+
+Die Hydrologin stand auf. Sie ging zum Fenster und sah hinaus in die Dunkelheit, in die Richtung, aus der das Summen kam. »Mein Bruder hat heute die Papiere für die Pumpen unterschrieben«, sagte sie. »Er hat sie unterschrieben, während ich am Brunnen stand und zuhörte, wie sie von Ihnen redeten. Ich habe ihm nichts gesagt. Ich habe gedacht: Wenn ich ihm jetzt sage, was ich weiß, verliert er die Pumpen, und dann verliert er mich. Und ich habe gedacht: Vielleicht hat er recht. Vielleicht ist es besser, wenn die Siedlungen Wasser bekommen und niemand fragt, woher das Wasser kommt.«
+
+»Und was haben Sie dann gedacht?«
+
+»Dann habe ich gedacht: Die vier Adern sind trocken«, sagte die Hydrologin. »Und ich habe gedacht: Wenn ich schweige, bin ich die Frau, die es gewußt hat.«
+
+Neris stand auf. Sie nahm die Tasse, stellte sie auf den Tisch, und sie sah die Hydrologin an, und die Hydrologin sah sie an, und zwischen ihnen lagen die Wasserbücher mit den Bleistiftstrichen, die sechzehn Namen, die vier gekappten Adern. »Ich gehe morgen früh«, sagte Neris. »Ich gehe zu Fuß, durch die Gassen, nicht über die Hauptstraße. Wenn Sie mitkommen, kommen Sie. Wenn Sie nicht mitkommen, verstehe ich es.«
+
+Die Hydrologin antwortete nicht sofort. Sie sah auf die Bücher, und dann sah sie auf ihre Hände, und dann sagte sie: »Ich komme mit. Aber ich sage nur, was ich gemessen habe. Ich sage nicht, was mein Bruder unterschrieben hat.«
+
+»Das ist genug«, sagte Neris.
+
+Sie ging hinaus in die Nacht. Über der Siedlung stand der Himmel wie eine dunkle Platte, und das Summen des Beckens war noch da, tief und gleichmäßig, wie ein Atem, der nicht aufhörte. Neris ging die Gasse hinauf, und in ihrem Kopf ordneten sich die Reihen, und sie sah vor sich, mit der Klarheit, die sie seit dem Vertrag nicht mehr gehabt hatte, zwei Linien auf einem Bogen Papier, die sich in einem Punkt schnitten, und dieser Punkt trug einen Namen, den sie noch nicht aufgeschrieben hatte. Und dachte: Morgen schreibe ich ihn auf. Morgen, vor dem Schiedsrichter, schreibe ich ihn auf, und dann richtet sich alles, was ich noch sage, nach diesem Namen.
+
+In der Ferne, hinter den Mauern, war das Rauschen des Beckens zu hören, und Neris blieb stehen und sah in die Richtung, aus der es kam, und sie dachte: Er hat die Tür geschlossen und eine andere geöffnet. Aber die Tür, die er geöffnet hat, führt in ein Haus, in dem ich auch wohne. Und dachte: Wenn ich dieses Papier nutze, nutze ich es auch gegen ihn. Und sie wußte nicht, ob das, was sie morgen tun würde, ihr Verhandeln oder ihr Verhängnis war.
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/ashkara/assets/chapter/chapter-015.jpg" alt="Kapitel 015" />
+</div>
+
+# Fuenfzehntes Kapitel {#kapitel-015 .chapter-heading .centered}
+
+Die Küche war warm, und das war das erste, was die Hydrologin bemerkte, als sie durch die Tür trat: die Wärme, die von dem kleinen Ofen ausging, der mit getrockneten Beckenpflanzen befeuert wurde, und der Geruch nach gekochtem Getreide und nach feuchter Wolle, der in den Balken hing. Ihre Mutter saß an dem langen Tisch aus Preßholz, die Hände um eine Tonschale gelegt, und ihr Vater stand am Herd und rührte in einem Topf, und ihr Bruder Samel saß auf der Bank an der Wand, die Beine ausgestreckt, und auf seinem Gesicht lag jener Ausdruck, den sie seit dem Morgen fürchtete.
+
+»Du kommst spät«, sagte die Mutter. Es war keine Frage. Es war eine Feststellung, und in dieser Feststellung lag mehr Vorwurf, als in jedem Schreien gelegen hätte.
+
+»Ich hatte zu tun«, sagte die Hydrologin. Sie hängte den Mantel an den Haken neben der Tür und setzte sich auf die Bank, Samel gegenüber, und sie spürte, wie seine Blicke auf ihr lagen, ruhig und schwer, wie die Blicke eines Menschen, der etwas weiß und es noch nicht sagen will.
+
+Der Vater stellte den Topf vom Herd und kam an den Tisch. Er war ein großer Mann mit grauen Haaren und Händen, die vom jahrzehntelangen Arbeiten an den Beckenrändern aufgesprungen und hart waren, und er setzte sich, ohne ein Wort zu sagen, und faltete die Hände, und die Mutter schöpfte aus dem Topf in vier Schalen.
+
+»Samel hat heute die Papiere unterschrieben«, sagte der Vater. Er sagte es, wie man etwas sagt, das man lange bedacht hat. »Die Pumpenpapiere. Von Nemet. Von diesem Dheran, oder wie er heißt.«
+
+»Ich weiß«, sagte die Hydrologin.
+
+»Du weißt es«, sagte der Vater, und er sah sie an, und in seinen Augen lag etwas, das sie nicht deuten konnte. »Und du warst nicht hier. Du warst nicht hier, als dein Bruder die Papiere unterschrieben hat, und du warst nicht hier, als die Männer von Nemet gekommen sind und die Maße genommen haben für die neuen Leitungen. Du warst nicht hier, Tochter.«
+
+»Ich war am Brunnen«, sagte die Hydrologin. »Ich habe gemessen.«
+
+»Du hast gemessen«, sagte Samel, und es war das erste, was er sagte, und seine Stimme war ruhig, aber unter der Ruhe lag etwas, das wie ein Stein unter Wasser lag. »Du hast immer gemessen. Und was hast du gemessen, Schwester? Was hast du gemessen, das wichtiger ist als das, was heute in diesem Haus geschehen ist?«
+
+Die Hydrologin sah auf ihre Schale. Das Getreide war heiß, und der Dampf stieg auf und legte sich über ihre Hände wie ein dünner Schleier. Sie dachte: Wenn ich jetzt sage, was ich gemessen habe, dann zerbricht dieser Tisch. Und dachte: Vielleicht zerbricht er sowieso.
+
+»Vier Adern sind trocken«, sagte sie. »Im Norden des Beckens. Vier von den alten Sickeradern, die in den Wasserbüchern stehen. Sie führen kein Wasser mehr. Seit dem Frühjahr nicht.«
+
+Der Vater sah sie an. Die Mutter sah sie an. Samel sah sie an, und in seinem Gesicht bewegte sich etwas, aber es war nicht Überraschung. Es war etwas anderes. Es war, als hätte er auf diese Worte gewartet und als hätte er gehofft, sie würden nicht kommen.
+
+»Und was hat das mit den Pumpen zu tun?«, fragte der Vater.
+
+»Die Pumpen holen das Wasser aus dem Tiefenbecken«, sagte die Hydrologin. »Aus denselben Schichten, aus denen die Sickeradern gespeist werden. Wenn sie mehr Wasser holen, als nachfließt, dann trocknen die Adern aus, und dann trocknen die Gärten aus, und dann trocknen die Häuser aus. So ist es in den Büchern beschrieben. Vor zweihundert Jahren hat es das schon einmal gegeben. In der Siedlung am Südhang. Sie haben damals auch Pumpen bekommen. Und dann haben sie dreißig Jahre lang kein Wasser mehr gehabt.«
+
+»Die Bücher«, sagte Samel, und er lachte, aber es war kein Lachen, das aus dem Bauch kam; es war ein kurzes, hartes Geräusch, wie ein Husten. »Die Bücher, Schwester. Die Bücher sind alt. Die Bücher sind von einer Zeit, in der es noch keine Pumpen gab. Die Männer von Nemet haben uns erklärt, wie die neuen Pumpen arbeiten. Sie haben uns die Zahlen gezeigt. Sie haben uns gesagt, daß sie das Wasser aus einer Tiefe holen, die mit den Sickeradern nichts zu tun hat. Sie haben uns gesagt, daß wir in zehn Jahren mehr Wasser haben werden als je zuvor in der Geschichte dieser Siedlung.«
+
+»Und du glaubst ihnen«, sagte die Hydrologin.
+
+»Ich glaube ihnen«, sagte Samel, und er lehnte sich vor, und seine Stimme wurde lauter. »Ich glaube ihnen, weil sie die Einzigen sind, die uns etwas anbieten. Weil sie die Einzigen sind, die kommen und sagen: Hier ist eine Pumpe, hier ist Arbeit, hier ist Geld für die Siedlung. Weil sie die Einzigen sind, die nicht nur reden, sondern tun. Und du kommst hierher und sagst: Die Bücher. Die alten Bücher. Die Bücher, die niemand mehr liest außer dir.«
+
+»Samel«, sagte die Mutter, aber es war kein Tadel. Es war ein Ton, der sagte: Laß sie reden. Laß sie sich erklären.
+
+Samel lehnte sich zurück. Er sah seine Schwester an, und in seinem Blick lag jetzt etwas anderes, etwas, das weicher war, aber auch trauriger. »Weißt du, was sie mir gesagt haben?«, fragte er. »Dheran selbst hat mit mir gesprochen. Nicht irgendein Schreiber, nicht irgendein Bote. Er selbst. Er hat mir die Hand gegeben und hat gesagt: Samel, eure Siedlung hat lange genug am Rand gestanden. Eure Siedlung hat lange genug zugesehen, wie andere das Wasser bekommen haben. Jetzt seid ihr dran. Und er hat gesagt: Ihr bekommt nicht nur die Pumpen. Ihr bekommt auch die Anerkennung. Eure Siedlung wird in den Förderverbund aufgenommen. Eure Stimme wird gehört. Bei den Verhandlungen. Bei den Verträgen. Bei allem, was in Zukunft entschieden wird.«
+
+Die Hydrologin sah ihren Bruder an. Sie sah die müden Augen, die aufgesprungenen Hände, die Schultern, die schwer geworden waren in den Jahren, in denen er die Familie getragen hatte. Sie dachte: Er hat sein Leben lang gearbeitet, und niemand hat ihn gefragt. Und dachte: Jetzt fragt ihn jemand, und der Jemand trägt den Namen Nemet.
+
+»Was hat er verlangt?«, fragte sie.
+
+»Verlangt?«, sagte Samel. »Er hat nichts verlangt. Er hat gegeben. Er hat gesagt: Ihr müßt nichts unterschreiben, was ihr nicht versteht. Er hat gesagt: Laßt euch Zeit. Er hat gesagt: Wenn ihr Fragen habt, kommt zu mir, und ich werde sie beantworten. So einer ist das. Ein Mann, der gibt, ohne zu nehmen.«
+
+»Und die Bedingung?«, fragte die Hydrologin.
+
+Samel sah sie an. Für einen Augenblick bewegte sich etwas in seinem Gesicht, ein Zucken, ein kurzes Stocken, aber dann war es wieder weg, und er sagte: »Es gibt keine Bedingung. Es gibt nur eine Vereinbarung. Wir bekommen die Pumpen, und wir bekommen die Anerkennung, und im Gegenzug…« Er hielt inne.
+
+»Im Gegenzug?«
+
+»Im Gegenzug dulden wir, daß die Arbeiten im Becken fortgesetzt werden«, sagte Samel. »Daß die Bohrungen weitergehen. Daß die Männer von Nemet tun, was sie tun müssen. Das ist alles. Das ist keine Bedingung. Das ist eine Selbstverständlichkeit. Wer gibt, muß auch arbeiten dürfen.«
+
+Die Hydrologin sah auf ihre Schale. Das Getreide war kalt geworden, und der Dampf war verschwunden, und die Oberfläche lag still und glatt wie eine Wasserfläche ohne Wind. Sie dachte: Er hat es nicht gesagt. Er hat nicht gesagt, was Dheran wirklich verlangt hat. Und dachte: Vielleicht weiß er es nicht. Vielleicht hat er es nicht verstanden. Vielleicht hat er es verstanden und will es nicht wissen.
+
+»Es gibt eine Klausel«, sagte sie, und ihre Stimme war leise. »In dem Vertrag, den sie uns vorgelegt haben. Eine Klausel, die besagt, daß die Siedlung für die Dauer der Förderung keine Einwände gegen die Arbeiten erheben wird. Keine Einwände. Nicht vor dem Schiedsrichter, nicht vor der Versammlung, nicht in den Wasserbüchern. Für die Dauer der Förderung. Sechzig Jahre.«
+
+Der Vater sah sie an. »Woher weißt du das?«
+
+»Ich habe den Vertrag gelesen«, sagte die Hydrologin. »Die Kopie, die sie im Gemeindehaus ausgelegt haben. Ich habe sie gelesen, während die anderen die Papiere unterschrieben haben.«
+
+»Und das ist schlecht?«, fragte der Vater. »Ist es schlecht, wenn man sechzig Jahre lang nicht klagt? Ist es schlecht, wenn man Frieden hält mit denen, die einem Wasser geben?«
+
+»Es ist schlecht«, sagte die Hydrologin, »wenn man sechzig Jahre lang nicht klagen darf, während vier Adern austrocknen. Es ist schlecht, wenn man sechzig Jahre lang schweigen muß, während das Wasser sinkt. Es ist schlecht, wenn man die Hand, die einem Wasser gibt, nicht zurückziehen darf, auch wenn das Wasser Gift ist.«
+
+Samel schlug mit der flachen Hand auf den Tisch. Die Schalen sprangen, und das Getreide schwappte über den Rand, und die Mutter zuckte zusammen, und der Vater sah auf die verschüttete Suppe, und in der Küche war es für einen Augenblick ganz still.
+
+»Du redest wie eine Fremde«, sagte Samel, und seine Stimme war jetzt laut und rauh. »Du redest wie eine von denen, die immer alles besser wissen. Du redest wie die Leute in der Stadt, die auf uns heruntersehen, die uns für rückständig halten, die uns für dumm halten, weil wir am Becken wohnen und nicht in den Häusern mit den Glasdächern. Du redest wie eine, die nicht hierher gehört.«
+
+»Ich gehöre hierher«, sagte die Hydrologin. »Ich bin hier geboren. Ich bin hier aufgewachsen. Ich habe hier gemessen, seit ich zwölf war. Ich kenne die Adern, und ich kenne die Bücher, und ich kenne das Wasser, und ich sage dir: Was sie tun, wird uns trockenlegen. Nicht in sechzig Jahren. In zehn. Vielleicht in fünf. Und wenn wir dann klagen wollen, dann dürfen wir nicht, weil wir unterschrieben haben, daß wir nicht klagen.«
+
+Samel stand auf. Er stand so schnell auf, daß die Bank nach hinten kippte und gegen die Wand schlug, und er stand da, groß und breit, und er sah auf seine Schwester herunter, und sein Gesicht war rot, und seine Hände waren zu Fäusten geballt.
+
+»Dann geh«, sagte er. »Wenn du so klug bist, wenn du so viel weißt, wenn du so sicher bist, daß wir alle dumm sind und du allein klug, dann geh. Geh zu deinen Büchern. Geh zu deinen Messungen. Geh zu denen, die dich verstehen. Aber komm nicht hierher und sag uns, daß wir unser eigenes Grab schaufeln. Denn wir schaufeln es nicht. Wir bauen. Wir bauen eine Zukunft für diese Siedlung. Zum ersten Mal seit hundert Jahren bauen wir etwas. Und du kommst und sagst uns, daß es ein Grab ist.«
+
+Die Mutter stand auf und legte die Hand auf Samels Arm. »Setz dich«, sagte sie. »Setz dich, Samel. Sie ist deine Schwester.«
+
+Samel sah seine Mutter an, und dann sah er seine Schwester an, und dann setzte er sich, langsam, schwer, und er stützte die Ellenbogen auf den Tisch und legte den Kopf in die Hände, und er sagte nichts mehr.
+
+Der Vater räumte die Schalen zusammen. Er tat es langsam, bedächtig, wie er alles tat, und als er fertig war, setzte er sich wieder und sah seine Tochter an, und in seinem Blick lag jetzt keine Wut mehr, sondern nur noch Müdigkeit.
+
+»Was willst du tun?«, fragte er.
+
+Die Hydrologin sah auf ihre Hände. Sie dachte: Wenn ich es jetzt sage, dann ist es heraus. Und dachte: Wenn ich es nicht sage, dann trage ich es allein. Und dachte: Vielleicht trage ich es sowieso allein.
+
+»Ich gehe morgen zum Schiedsrichter«, sagte sie. »Ich sage aus. Über die vier Adern. Über die Wasserbücher. Über das, was ich gemessen habe.«
+
+Der Vater schloß die Augen. Er schloß sie für einen langen Augenblick, und als er sie wieder öffnete, waren sie leer, leer wie die Augen eines Menschen, der etwas aufgegeben hat.
+
+»Dann geh«, sagte er. »Aber wenn du gehst, dann geh als eine, die weiß, was sie tut. Und wenn du zurückkommst, dann komm als eine, die weiß, was sie getan hat.«
+
+Die Hydrologin stand auf. Sie nahm ihren Mantel vom Haken, und sie ging zur Tür, und sie hörte hinter sich die Stimme der Mutter, die etwas sagte, aber sie verstand die Worte nicht, und sie hörte Samel, der etwas sagte, aber sie verstand auch das nicht, und sie ging hinaus in den Hof, und die Nachtluft war kühl und feucht, und über der Siedlung stand der Himmel wie eine dunkle Platte, und in der Ferne war das Summen des Beckens zu hören, tief und gleichmäßig.
+
+Sie blieb im Hof stehen. Der Hof war klein, von einer Mauer aus gestampftem Lehm umgeben, und an der Mauer standen die Kräuterbeete, die ihre Mutter pflegte, und daneben der Brunnen, der seit drei Generationen zur Familie gehörte, und das Wasser im Brunnen war noch da, dunkel und still, und die Hydrologin sah hinein und sah ihr eigenes Gesicht, verzerrt und fremd.
+
+Sie dachte: Sie haben es nicht verstanden. Und dachte: Sie wollen es nicht verstehen. Und dachte: Vielleicht verstehe ich es selbst nicht ganz. Und sie dachte an Dheran, und sie dachte an das, was er gesagt hatte, an diesem Nachmittag, als sie ihn zum ersten Mal gesehen hatte, vor drei Wochen, im Gemeindehaus, als er gekommen war, um mit den Vertraglern zu sprechen.
+
+Er hatte gesagt: Ich weiß, daß es hier Menschen gibt, die zweifeln. Ich weiß, daß es hier Menschen gibt, die glauben, daß wir nur nehmen wollen. Aber ich sage Ihnen: Wir wollen geben. Wir wollen eine Partnerschaft. Wir wollen, daß Unterglas nicht mehr am Rand steht, sondern in der Mitte. Und ich sage Ihnen auch: Es wird eine Bedingung geben. Eine einzige. Aber es ist eine Bedingung, die jeder vernünftige Mensch akzeptieren wird.
+
+Und die Hydrologin hatte gefragt: Welche Bedingung?
+
+Und Dheran hatte gelächelt, ein Lächeln, das freundlich war und doch nichts preisgab, und er hatte gesagt: Es ist eine Bedingung, die die Arbeit betrifft. Eine technische Bedingung. Nichts, was Sie beunruhigen müßte. Wir werden darüber sprechen, wenn die Zeit reif ist.
+
+Und die Hydrologin hatte es dabei belassen, weil sie nicht gewußt hatte, was sie hätte fragen sollen, und weil die anderen Vertragler dabei waren, und weil sie nicht die Einzige sein wollte, die zweifelte.
+
+Jetzt, im Hof, im kalten Licht der Nacht, dachte sie: Er hat es nicht gesagt. Und dachte: Er hat es nicht gesagt, weil er wußte, daß ich es nicht hören wollte. Und dachte: Und ich habe es nicht gehört, weil ich nicht hören wollte, daß meine Familie sich verkauft.
+
+Sie ging zum Brunnen und setzte sich auf den Rand. Das Wasser war dunkel und still, und sie sah hinein, und sie sah die Sterne, die sich darin spiegelten, und sie sah ihr eigenes Gesicht, und sie dachte an Neris Tal, die in dieser Nacht irgendwo in den Gassen der Siedlung ging, mit ihren Kapseln und ihren Kopien, und sie dachte: Morgen gehe ich mit ihr. Morgen sage ich aus. Und dann dachte sie: Aber ich sage nicht alles. Ich sage nicht, was Samel unterschrieben hat. Ich sage nicht, was Dheran verlangt hat. Ich sage nur, was ich gemessen habe.
+
+Und sie wußte, in dem Augenblick, in dem sie es dachte, daß es nicht genug war. Daß sie etwas verschwieg, und daß das Verschwiegene nicht kleiner war als das Gesagte, sondern größer. Und sie dachte: Wenn ich es sage, dann verliere ich meine Familie. Und dachte: Wenn ich es nicht sage, dann verliere ich mich selbst. Und sie wußte nicht, welcher Verlust schwerer wog.
+
+Sie saß lange am Brunnen. Über ihr zogen die Wolken, und der Wind kam vom Becken her und trug den Geruch von Wasser und Salz und feuchter Erde mit sich, und in der Küche brannte noch Licht, und sie hörte die Stimmen ihrer Eltern, gedämpft und unverständlich, und sie hörte Samels Stimme, die einmal laut wurde und dann wieder verstummte.
+
+Und sie dachte an das, was sie in den Wasserbüchern gesehen hatte: die Bleistiftstriche neben den sechzehn Namen, die vier gekappten Adern, die Eintragungen, die jemand nachträglich gemacht hatte, mit einer Handschrift, die nicht die Handschrift des alten Verwalters war. Und sie dachte: Das ist es, was ich Neris nicht gesagt habe. Daß jemand die Bücher bearbeitet hat. Daß jemand dafür gesorgt hat, daß die alten Eintragungen verschwinden. Und sie dachte: Wer hat das getan? Und dachte: Wer hat ein Interesse daran, daß die Siedlung nicht weiß, was sie unterschreibt?
+
+Sie stand auf. Sie ging zur Küchentür, und sie blieb davor stehen, und sie hörte die Stimmen drinnen, und sie legte die Hand auf die Tür, und sie dachte: Ich könnte jetzt hineingehen. Ich könnte es ihnen sagen. Ich könnte sagen: Samel, du hast etwas unterschrieben, das du nicht verstehst. Ich könnte sagen: Vater, die Männer von Nemet haben gelogen. Ich könnte sagen: Mutter, wir werden kein Wasser haben, wenn wir so weitermachen. Und sie dachte: Und dann? Und dann würden sie mir zuhören, oder sie würden mir nicht zuhören, und in beiden Fällen wäre es heraus, und dann müßte ich nicht mehr allein damit leben.
+
+Aber sie ging nicht hinein. Sie nahm die Hand von der Tür und ging zurück in den Hof und setzte sich wieder auf den Brunnenrand, und sie blieb dort sitzen, bis das Licht in der Küche erlosch und die Stimmen verstummten und die Nacht ganz still wurde, und dann ging sie in die kleine Kammer neben dem Stall, in der sie als Kind geschlafen hatte, und sie legte sich auf das Bett, ohne sich auszuziehen, und sie starrte an die Decke, und sie dachte: Morgen. Morgen gehe ich zum Schiedsrichter. Morgen sage ich aus. Und sie dachte: Aber ich sage nicht alles. Und sie dachte: Und das ist mein Fehler.
+
+Draußen, hinter den Mauern, summte das Becken, tief und gleichmäßig, wie ein Atem, der nicht aufhörte, und die Hydrologin lag wach und hörte es, und sie dachte an die vier gekappten Adern, und sie dachte an die sechzehn Namen, und sie dachte an die Handschrift, die nicht die Handschrift des alten Verwalters war, und sie dachte: Ich hätte es ihr sagen müssen. Und dachte: Ich hätte es ihm sagen müssen. Und dachte: Ich hätte es allen sagen müssen. Und sie wußte, daß sie es nicht gesagt hatte, und sie wußte, daß sie es morgen nicht sagen würde, und sie wußte nicht, ob das aus Feigheit geschah oder aus Liebe, und sie wußte nicht, ob es einen Unterschied machte.
+
+In der Kammer war es dunkel, und durch das kleine Fenster fiel ein Streifen Licht, das Licht der Beckenlaternen, die die ganze Nacht brannten, und in diesem Licht sah die Hydrologin ihre Hände, die Hände, mit denen sie gemessen hatte, seit sie zwölf war, und sie dachte: Diese Hände haben immer die Wahrheit gemessen. Und dachte: Aber die Wahrheit zu messen ist etwas anderes, als sie zu sagen. Und sie schloß die Augen, und sie dachte an Neris, die irgendwo in der Nacht ging, und sie dachte: Sie wird es erfahren. Irgendwann wird sie es erfahren. Und dann wird sie wissen, daß ich geschwiegen habe. Und dann wird sie mich nicht mehr fragen.
+
+Und in der Ferne, hinter den Mauern, war das Rauschen des Beckens zu hören, und die Hydrologin drehte sich auf die Seite und zog die Decke über die Schultern, und sie dachte an den Morgen, und sie dachte an den Schiedsrichter, und sie dachte an die Worte, die sie sagen würde, und sie dachte an die Worte, die sie nicht sagen würde, und in ihrem Kopf ordneten sich die Zahlen, die vier Adern, die sechzehn Namen, die Tiefe des Wassers, die Geschwindigkeit des Sinkens, und sie sah vor sich, mit der Klarheit, die sie seit Wochen nicht mehr gehabt hatte, eine Reihe von Zahlen, die in eine Richtung liefen, und diese Richtung war der Untergang, und sie wußte, daß sie morgen vor dem Schiedsrichter stehen und diese Zahlen vorlesen würde, und sie wußte, daß sie damit ihre Familie verlieren würde, und sie wußte, daß sie es trotzdem tun würde.
+
+Aber sie wußte auch, daß sie nicht alles sagen würde. Daß sie das Verschwiegene mit sich tragen würde, wie man einen Stein mit sich trägt, den man nicht ablegen kann, weil man ihn selbst hineingelegt hat in die eigene Tasche. Und sie dachte: Vielleicht ist das die Art, wie man sich selbst verliert. Nicht durch das, was man tut, sondern durch das, was man nicht sagt. Und sie dachte: Und vielleicht ist das die Art, wie eine Familie zerbricht. Nicht durch einen Schlag, sondern durch ein Schweigen.
+
+Sie lag wach, bis der Himmel im Osten heller wurde, und als das erste Licht durch das Fenster fiel, stand sie auf, und sie wusch sich das Gesicht mit dem Wasser aus dem Brunnen, und sie zog den Mantel an, und sie ging hinaus in den Hof, und der Hof war still, und die Kräuterbeete standen im Morgenlicht, und der Brunnen war dunkel und still, und sie sah hinein und sah ihr eigenes Gesicht, und sie dachte: Ich gehe jetzt. Und sie ging durch das Tor auf die Gasse, und sie hörte hinter sich nichts, kein Rufen, kein Schritt, kein Wort, und sie ging die Gasse hinunter in Richtung der Stadt, und über ihr war der Himmel grau und klar, und in der Ferne summte das Becken, tief und gleichmäßig, wie ein Atem, der nicht aufhörte.
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/ashkara/assets/chapter/chapter-016.jpg" alt="Kapitel 016" />
+</div>
+
+# Sechzehntes Kapitel {#kapitel-016 .chapter-heading .centered}
+
+Der Archivgang hinter der versiegelten Tür roch nach kaltem Papier und nach dem feinen, metallischen Staub, den alte Tonbänder abgeben, wenn sie zu lange in geschlossenen Regalen liegen. Oren hielt die Lampe tief, so daß ihr Licht nur den Boden vor ihm erreichte und die Wände in einem Halbdunkel ließ, in dem die Umrisse der Spulen und Kapseln wie schlafende Tiere wirkten. Die Tür war mit dem Siegel der Kontinuität versehen gewesen, dem dreifachen Ring über dem stilisierten Wassertropfen, und das Siegel war gebrochen. Nicht gewaltsam, sondern sauber, mit dem Schlüssel, den nur ein Oberhaupt besaß.
+
+Er hatte diesen Schlüssel. Er hatte ihn seit drei Tagen, seit der Rat ihm die vorläufige Vollmacht über den privaten Bestand übertragen hatte, und er hatte bis zu dieser Nacht nicht gewagt, ihn zu benutzen.
+
+Die Regale standen in drei Reihen, jede von der Decke bis zum Boden gefüllt, und auf jedem Fach lagen die Aufzeichnungen in gleichförmigen Schubern, beschriftet mit einer Handschrift, die Oren erkannte, obwohl er sie nie lebend gesehen hatte. Tarns Handschrift. Schmal, aufrecht, ohne jede Verzierung, die Buchstaben wie gemeißelt. Er fuhr mit dem Finger über eine der Beschriftungen, und der Staub legte sich als feine Spur auf seine Haut.
+
+Er zog den ersten Schuber heraus. Er war schwerer, als er aussah.
+
+Auf dem Tisch am Ende des Ganges, unter der Lampe, die er auf den Sims gestellt hatte, breitete er die Blätter aus. Es waren keine Briefe, keine Reden, keine Vertragsentwürfe. Es waren Protokolle. Nüchterne, in gleichmäßigen Abständen geführte Protokolle, jedes mit Datum, Symptom und Maßnahme, und Oren begriff schon nach der dritten Seite, daß er etwas las, das nicht für ihn bestimmt gewesen war.
+
+Datum: 17. Tag des zweiten Monats, Jahr 3774 nach der Abtretung. Symptom: Verzögerung der Wortfindung, drei Fälle, jeweils unter vier Sekunden. Maßnahme: Reduzierung der Ratssitzungen auf zwei pro Woche. Keine weiteren Maßnahmen.
+
+Datum: 4. Tag des vierten Monats. Symptom: Verwechslung der Amtsgeschäfte der Jahre 3741 und 3752, ohne Bewußtsein der Verwechslung. Maßnahme: Anlage getrennter Merkzettel. Vertraulichkeit gewahrt.
+
+Datum: 22. Tag des sechsten Monats. Symptom: Erstes Auftreten von Fremdimpulsen. Handlungsdrang ohne eigenen Entschluß. Dauer: elf Minuten. Maßnahme: Rückzug aus der Öffentlichkeit für zwei Tage. Keine Meldung an den Rat.
+
+Oren legte das Blatt nieder. Seine Hände lagen flach auf dem Tisch, und er sah sie an, als gehörten sie jemand anderem. Elf Minuten. Er dachte an die Nacht vor sechs Tagen, als er aufgewacht war und die Hände über die Bettkante gehalten hatte, ohne zu wissen, warum, und als er sie zurückgezogen hatte, waren sie naß gewesen, und er hatte nicht gewußt, woher das Wasser kam. Und dachte: Elf Minuten. Und dachte: Die Reihenfolge. Es ist dieselbe Reihenfolge.
+
+Er blätterte weiter. Die Schrift wurde im Verlauf der Monate nicht unruhiger, nicht zittriger, nicht schwächer. Sie blieb schmal und aufrecht, und gerade das war das Unheimliche. Tarn hatte seinen Verfall protokolliert wie ein Beamter die Ernte eines schlechten Jahres. Kein Wort des Zweifels, kein Ausrufezeichen, keine Korrektur. Nur Datum, Symptom, Maßnahme.
+
+Datum: 9. Tag des neunten Monats. Symptom: Verlust der zeitlichen Zuordnung bei drei aufeinanderfolgenden Erinnerungen. Die Ereignisse der Jahre 3718, 3733 und 3760 erscheinen als gleichzeitig. Maßnahme: Einstellung der Archivarbeit. Übergabe der laufenden Geschäfte an den Stellvertreter.
+
+Datum: 14. Tag des elften Monats. Symptom: Erstes vollständiges Aussetzen der Eigenwahrnehmung. Dauer: vierundzwanzig Minuten. Fremde Handlungen, die im nachhinein nicht zugeordnet werden können. Maßnahme: Keine. Die Maßnahmen sind erschöpft.
+
+Oren hörte das Blut in seinen Ohren. Vierundzwanzig Minuten. Und dachte an die vierte Stufe, die er plante, heimlich, allein, und an die Warnung, die Tarn ihm in den letzten Tagen vor seinem Tod gegeben hatte, und an die Art, wie Tarn ihn angesehen hatte, als wüßte er, daß jede Warnung zu spät kam.
+
+Er zog den nächsten Schuber heraus. Und den nächsten. Die Protokolle liefen weiter, Monat für Monat, und die Abstände zwischen den Einträgen wurden kürzer, und die Dauer der Aussetzer wurde länger, und irgendwann begann Tarn, die Einträge nicht mehr mit seiner eigenen Handschrift zu schreiben, sondern sie zu diktieren, und die Handschrift des Schreibers war Belen Sars.
+
+Oren hielt inne. Belen Sar. Der Schreiber, der ihm seit dem Tod des Oberhaupts zur Seite stand, der die Kopplungsstufen überwachte, der die offizielle Darstellung des Lungenleidens gesichert hatte. Belen Sar hatte gewußt. Belen Sar hatte die Protokolle geführt, während Tarn verfiel, und hatte geschwiegen, und hatte dann, vor dem Rat, von einem Lungenleiden gesprochen.
+
+Und dachte: Er hat es gewußt. Und dachte: Sie alle haben es gewußt. Und dachte: Und sie haben mich trotzdem designiert.
+
+Er setzte sich auf den Boden, weil seine Beine nicht mehr trugen, und die Lampe warf seinen Schatten lang über die Regale, und er las weiter, und die Einträge wurden zu einer einzigen, monotonen Litanei des Verlusts, und irgendwann, im Jahr 3775, drei Monate vor Tarns Tod, stand dort ein Satz, der ihn aufstehen ließ.
+
+Datum: 2. Tag des ersten Monats, Jahr 3775. Symptom: Der Nachfolger ist bereit. Die Kopplung kann beginnen. Maßnahme: Vorbereitung der Übertragung gemäß den Vorschriften. Anmerkung: Der Nachfolger wird den Verlauf nicht kennen. Er darf ihn nicht kennen. Die Kontinuität verlangt es.
+
+Oren starrte auf diese Zeilen. Der Nachfolger wird den Verlauf nicht kennen. Er darf ihn nicht kennen. Und darunter, in einer anderen Tinte, in einer Handschrift, die nicht mehr Tarns war und nicht mehr Belen Sars, sondern die eines Menschen, der sehr schnell und sehr klein schrieb, stand ein Zusatz.
+
+Er wird es erfahren. Sie erfahren es immer. Die Frage ist nur, wann.
+
+Oren drehte das Blatt um. Auf der Rückseite stand nichts. Er hielt es gegen die Lampe, und das Papier war dünn, und er sah, daß darunter ein weiteres Blatt lag, das nicht zum Schuber gehörte, sondern lose hineingelegt worden war. Er zog es heraus.
+
+Es war eine Liste. Eine Liste von Namen, in einer Spalte, und hinter jedem Namen ein Datum, und hinter jedem Datum ein einzelnes Wort. Oren erkannte die Namen. Es waren die Oberhäupter der Kontinuität Tarn, zurück bis in die Zeit vor der Abtretung, und hinter jedem Namen stand das Datum seines Amtsantritts, und hinter jedem Datum stand eines von zwei Wörtern.
+
+Übernommen. Oder: Verloren.
+
+Oren zählte. Es waren einundzwanzig Namen. Bei vierzehn stand Übernommen. Bei sieben stand Verloren. Und bei dem letzten Namen, dem Namen von Tarns Vorgänger, stand nicht Verloren, sondern ein Wort, das er nicht kannte.
+
+Verschmolzen.
+
+Er las das Wort dreimal. Und dachte: Verschmolzen. Nicht verloren. Verschmolzen. Und dachte: Es gibt einen Unterschied. Und dachte: Und ich weiß nicht, welchen.
+
+Er legte die Liste zu den Protokollen und blätterte weiter, und in dem letzten Schuber, ganz hinten, fand er ein Bündel, das nicht in die Reihenfolge gehörte. Es war mit einem Faden umwickelt, und der Faden war versiegelt, und das Siegel war das dreifache Ringzeichen, aber es war nicht das Siegel der Kontinuität Tarn, sondern das Siegel der Kontinuität Nemet.
+
+Oren hielt das Bündel in der Hand. Das Siegel war unversehrt. Es war nie geöffnet worden. Tarn hatte es aufbewahrt, ohne es zu öffnen, und Oren begriff, daß es nicht für Tarn bestimmt gewesen war, sondern für den, der nach ihm kam.
+
+Er brach das Siegel.
+
+In dem Bündel lagen drei Blätter. Das erste war ein Brief, adressiert an den Nachfolger, ohne Anrede, ohne Unterschrift, in der kleinen, schnellen Handschrift, die er schon auf der Rückseite des Protokolls gesehen hatte.
+
+Wenn du dies liest, ist die Übertragung bereits im Gange. Ich schreibe dir nicht, um dich zu warnen. Warnungen kommen zu spät. Ich schreibe dir, damit du weißt, was du nicht wissen sollst. Die Kopplung überträgt nicht nur Erinnerung. Sie überträgt auch Gewichtung. Du wirst Dinge wissen, die du nie erlebt hast, und du wirst sie so fühlen, als hättest du sie erlebt. Und irgendwann wirst du nicht mehr unterscheiden können, welches Gefühl dein eigenes ist und welches das eines Toten. Das ist der Preis. Es gibt keinen anderen.
+
+Das zweite Blatt war eine Tabelle. Sie zeigte die Kopplungsstufen und hinter jeder Stufe eine Reihe von Symptomen, und Oren erkannte die Symptome, denn es waren seine eigenen. Die Verzögerung der Wortfindung. Die Verwechslung der Zeiten. Die Fremdimpulse. Das Aussetzen der Eigenwahrnehmung. Und hinter der vierten Stufe stand kein Symptom, sondern ein Wort.
+
+Endzustand.
+
+Das dritte Blatt war leer, bis auf eine einzige Zeile am unteren Rand, und die Zeile war in einer Handschrift geschrieben, die älter war als alle anderen, und sie lautete: Der, der dies liest, ist bereits nicht mehr allein.
+
+Oren saß auf dem Boden, und die Lampe brannte, und der Staub tanzte in ihrem Licht, und er hörte seinen eigenen Atem, und der Atem klang wie der Atem eines Menschen, der sehr weit gelaufen war. Und dachte: Ich bin der nächste. Und dachte: Es ist keine Krankheit. Es ist eine Fortsetzung. Und dachte: Und Tarn hat es gewußt. Und dachte: Und er hat mich trotzdem gewählt.
+
+Er hörte die Tür.
+
+Nicht das Öffnen. Das Schließen. Ein leises, endgültiges Geräusch, wie das Zurückfallen eines Riegels, und dann Schritte, ruhig, gleichmäßig, ohne Eile, und Oren hob den Kopf, und im Halbdunkel des Ganges stand Tarn.
+
+Nicht der Tarn, der gestorben war. Der Tarn, der in ihm war. Der Tarn, dessen Stimme er seit Wochen in seinem Kopf hörte, dessen Impulse seine Hände führten, dessen Gewichtungen seine Wahrnehmungen färbten. Und Oren begriff, daß er nicht allein war, und daß er nie allein gewesen war, und daß die Gestalt im Gang nicht Tarn war, sondern das, was von Tarn in ihm übrig war, und daß es keinen Unterschied mehr gab.
+
+»Du hast die Schuber geöffnet«, sagte die Stimme. Sie war ruhig, sachlich, ohne Vorwurf. Es war die Stimme, mit der Tarn in den Ratssitzungen gesprochen hatte, wenn er einen Antrag ablehnte, den er nicht ablehnen wollte.
+
+Oren stand auf. Seine Beine trugen ihn jetzt. »Ich hatte den Schlüssel.«
+
+»Du hattest den Schlüssel«, wiederholte die Stimme. »Und du hast das Siegel gebrochen.«
+
+»Das Siegel war nicht das deine.«
+
+»Nein.« Die Gestalt trat einen Schritt näher, und das Licht der Lampe fiel auf ihr Gesicht, und es war das Gesicht eines alten Mannes, das Oren aus den Porträts im Versammlungssaal kannte, aber es war nicht das Gesicht eines Toten. Es war das Gesicht eines Menschen, der sehr lange gelebt hatte und sehr müde war. »Das Siegel war Nemets. Ich habe es aufbewahrt, weil ich nicht wußte, was ich damit tun sollte. Ich habe es nicht geöffnet, weil ich nicht wissen wollte, was darin steht. Und jetzt hast du es geöffnet, und jetzt weißt du es, und jetzt ist es zu spät.«
+
+»Zu spät wofür?«
+
+»Zu spät, um es nicht zu wissen.« Die Stimme wurde leiser, aber nicht schwächer. »Du hast die Liste gesehen. Du hast das Wort gesehen. Verschmolzen. Weißt du, was das bedeutet?«
+
+Oren schwieg.
+
+»Es bedeutet, daß mein Vorgänger nicht verloren gegangen ist«, sagte die Stimme. »Es bedeutet, daß er aufgegangen ist in dem, was nach ihm kam. Er ist nicht gestorben. Er ist verschwunden, und das Verschwinden hat sich fortgesetzt, in mir, und in dir, und in dem, der nach dir kommt. Die Kontinuität ist kein Amt. Sie ist ein Fluß. Und wir sind nicht die Ufer. Wir sind das Wasser.«
+
+»Und die Protokolle?«
+
+»Die Protokolle sind wahr.« Die Stimme sagte es ohne Zögern. »Jedes Datum, jedes Symptom, jede Maßnahme. Ich habe sie geführt, weil ich wissen wollte, wie es endet. Und ich habe sie aufbewahrt, weil ich hoffte, daß der, der nach mir kommt, sie liest und begreift, was ihn erwartet.«
+
+»Du hast mich nicht gewarnt.«
+
+»Ich habe dich gewarnt.« Die Stimme wurde zum ersten Mal schärfer. »In der Nacht vor meinem Tod. Ich habe dir gesagt, was der Tiefenschnitt bedeutet. Ich habe dir gesagt, was die vierte Stufe bedeutet. Du hast nicht zugehört, weil du nicht zuhören wolltest. Und jetzt hast du die Protokolle gelesen, und jetzt hörst du zu, und jetzt ist es zu spät.«
+
+Oren sah die Gestalt an. Und dachte: Er hat recht. Und dachte: Er hat immer recht gehabt. Und dachte: Und das ist das Schlimmste.
+
+»Was ist auf der vierten Stufe?«, fragte er.
+
+Die Stimme schwieg. Lange. So lange, daß Oren glaubte, sie würde nicht antworten.
+
+»Das kann ich dir nicht sagen«, sagte sie schließlich. »Nicht, weil ich es nicht darf. Sondern weil ich es nicht weiß. Ich habe die vierte Stufe nicht vollendet. Ich bin auf der dritten stehengeblieben, und die dritte hat mich zerbrochen, und das, was von mir übrig ist, ist das, was du jetzt hörst. Wenn du die vierte vollendest, wirst du nicht mehr hören, was ich dir sage. Du wirst hören, was die anderen dir sagen. Alle. Auf einmal. Und dann wirst du nicht mehr wissen, wer du bist.«
+
+»Und wenn ich sie nicht vollende?«
+
+»Dann wirst du verlieren, was du gewonnen hast. Die Kopplung ist nicht rückgängig zu machen. Sie ist nur zu vertiefen. Es gibt keinen Weg zurück, nur einen Weg hindurch.«
+
+Oren sah auf die Papiere, die auf dem Tisch lagen. Die Protokolle. Die Liste. Das Bündel. Und dachte: Er hat mir die Wahrheit gesagt. Und dachte: Und die Wahrheit ist, daß es keine Wahl gibt. Und dachte: Und die Wahrheit ist, daß ich sie trotzdem treffen muß.
+
+»Warum hast du das Siegel nicht geöffnet?«, fragte er.
+
+»Weil ich Angst hatte«, sagte die Stimme. »Ich hatte Angst vor dem, was Nemet wußte. Ich hatte Angst, daß sie mehr wissen als ich. Ich hatte Angst, daß sie einen Weg gefunden haben, den ich nicht kenne. Und ich hatte Angst, daß ich, wenn ich es öffne, erfahren würde, daß alles, was ich getan habe, umsonst war.«
+
+»Und war es umsonst?«
+
+Die Gestalt sah ihn an, und in ihrem Blick lag etwas, das Oren nicht deuten konnte. Es war nicht Trauer. Es war nicht Reue. Es war das, was übrigbleibt, wenn ein Mensch sehr lange gegen etwas gekämpft hat, das er nicht besiegen kann.
+
+»Das weiß ich nicht«, sagte sie. »Und du wirst es auch nicht wissen. Nicht heute. Vielleicht nie. Aber du wirst es tragen. So wie ich es getragen habe. So wie alle es getragen haben, die vor dir waren. Und dann wirst du eines Tages vor einem Menschen stehen, der nach dir kommt, und du wirst ihm sagen, was ich dir sage, und er wird nicht zuhören, und du wirst es trotzdem sagen, weil du es sagen mußt.«
+
+Die Gestalt trat zurück, und ihr Umriß wurde undeutlicher, und das Licht der Lampe schien durch sie hindurch, als wäre sie aus Staub und Erinnerung gemacht.
+
+»Warte«, sagte Oren.
+
+»Ich kann nicht warten.« Die Stimme wurde leiser, als entfernte sie sich, obwohl die Gestalt sich nicht bewegte. »Ich bin nicht hier. Ich bin in dir. Und ich werde in dir bleiben, bis du die vierte Stufe vollendest oder bis du zerbrichst. Eines von beiden wird geschehen. Und wenn du zerbrichst, wird der, der nach dir kommt, das lesen, was du geschrieben hast, und er wird es nicht verstehen, und er wird es trotzdem tun.«
+
+»Was soll ich tun?«
+
+»Das kann ich dir nicht sagen.«
+
+»Du hast mir alles andere gesagt.«
+
+»Nein.« Die Stimme war jetzt kaum mehr als ein Hauch. »Ich habe dir gesagt, was ich weiß. Was du tun sollst, weiß ich nicht. Ich habe es nie gewußt. Ich habe nur getan, was getan werden mußte, und ich habe nicht gefragt, ob es richtig war. Vielleicht ist das der Fehler. Vielleicht ist das der Fehler aller, die vor uns waren. Daß wir getan haben, was getan werden mußte, ohne zu fragen, ob es getan werden darf.«
+
+Die Gestalt verschwand. Nicht plötzlich, sondern allmählich, wie ein Bild, das im Wasser versinkt, und Oren stand allein in dem Archivgang, und die Lampe brannte, und die Papiere lagen auf dem Tisch, und der Staub tanzte, und nichts hatte sich verändert, und alles hatte sich verändert.
+
+Er setzte sich wieder auf den Boden. Er nahm die Protokolle und legte sie in den Schuber zurück, einen nach dem anderen, in der richtigen Reihenfolge, und er verschloß den Schuber, und er legte ihn ins Regal, und er tat es langsam, mit der Sorgfalt eines Menschen, der eine Grabstätte schließt. Und dachte: Ich werde es nicht vergessen. Und dachte: Ich werde es aufschreiben. Und dachte: Und eines Tages wird jemand es lesen, und er wird es nicht verstehen, und er wird es trotzdem tun.
+
+Er nahm das Bündel mit dem Nemetsiegel und steckte es in seinen Mantel. Das war der einzige Gegenstand, den er mitnahm. Er wußte nicht, was er damit tun würde. Er wußte nur, daß er es nicht hierlassen konnte.
+
+Als er die versiegelte Tür öffnete, um zu gehen, sah er im Gang draußen eine Gestalt stehen, klein und dunkel im Licht der Notleuchte. Es war Belen Sar. Der Schreiber hielt eine Lampe in der Hand, und sein Gesicht war ruhig, und in seinen Augen lag nichts, was Oren deuten konnte.
+
+»Du warst lange dort drinnen«, sagte Belen Sar.
+
+»Ich habe gelesen.«
+
+»Ich weiß.« Belen Sar trat zur Seite, um ihn vorbeizulassen. »Ich habe die Protokolle geführt. Ich habe jedes Datum geschrieben. Ich habe jedes Symptom notiert. Ich habe gewußt, was geschieht, lange bevor du es wußtest.«
+
+»Und du hast geschwiegen.«
+
+»Ich habe geschwiegen«, sagte Belen Sar, ohne Zögern. »Weil das Oberhaupt es befohlen hat. Weil die Kontinuität es verlangte. Weil ein Rat, der nicht weiß, was mit seinem Oberhaupt geschieht, nicht regieren kann. Das waren seine Worte, nicht meine. Aber ich habe sie befolgt, und ich würde sie wieder befolgen, weil sie richtig waren.«
+
+Oren sah ihn an. »Und jetzt?«
+
+»Jetzt bist du das Oberhaupt«, sagte Belen Sar. »Und jetzt mußt du entscheiden, was du tust. Ich werde es aufschreiben, so wie ich alles aufgeschrieben habe. Das ist meine Aufgabe. Das ist immer meine Aufgabe gewesen.«
+
+Er trat beiseite, und Oren ging an ihm vorbei, und der Gang war lang und dunkel, und hinter ihm schloß Belen Sar die versiegelte Tür, und das Geräusch des Riegels war das letzte, was Oren hörte, bevor er die Treppe erreichte.
+
+Draußen war die Nacht kalt und klar, und über der Stadt standen die Sterne, und in der Ferne summte das Becken, tief und gleichmäßig, wie ein Atem, der nicht aufhörte. Oren stand auf der obersten Stufe der Treppe und sah hinüber zum Versammlungssaal, wo in drei Tagen die Abstimmung stattfinden würde, und er fühlte das Bündel in seinem Mantel, und er dachte an die vierte Stufe, und an das Wort Endzustand, und an die Stimme, die gesagt hatte, es gebe keinen Weg zurück, nur einen Weg hindurch.
+
+Und dachte: Ich habe drei Tage. Und dachte: Und ich weiß nicht, ob ich sie nutzen kann. Und dachte: Und ich weiß nicht, ob ich sie nutzen will.
+
+Er ging die Treppe hinunter, und seine Schritte waren ruhig, und die Kälte der Nacht legte sich auf seine Hände, und er dachte an Tarn, der in ihm war, und an Tarns Vorgänger, der verschmolzen war, und an die sieben Namen auf der Liste, hinter denen Verloren stand, und an die vierzehn, hinter denen Übernommen stand, und an das eine Wort, das er nicht kannte, und an das eine Wort, das er nun kannte, und das ihn nicht mehr loslassen würde.
+
+Verschmolzen.
+
+Und über ihm summte das Becken, und unter ihm lag die Stadt, und in ihm lagen die Toten, und die Zeit lief, und sie lief gegen ihn, und er wußte es, und er konnte es nicht aufhalten, und das war das Schlimmste, und das war das Einzige, was er sicher wußte.
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/ashkara/assets/chapter/chapter-017.jpg" alt="Kapitel 017" />
+</div>
+
+# Siebzehntes Kapitel {#kapitel-017 .chapter-heading .centered}
+
+Das Labor lag im Westflügel des Nemet-Archivs, unterhalb der Ebenen, in denen die offiziellen Rekonstruktionen gefertigt wurden, und es hatte den Geruch von kaltem Metall und altem Papier. Neris Tal hatte den Raum kurz nach Mitternacht betreten, nachdem die Wachen gewechselt hatten und die Gänge still geworden waren. Die Projektoren waren alt, ihre Linsen von Staub getrübt, und wenn sie ansprangen, flackerte das Licht in unregelmäßigen Intervallen, als ringe die Maschine um jede einzelne Projektion. Drei Metalltische waren übereinandergeschoben worden, um Platz zu schaffen, und auf ihnen lagen die Folien, die Neris in den vergangenen Stunden aus den gesicherten Beständen geholt hatte. Drei Rekonstruktionen. Drei Versionen desselben historischen Materials.
+
+Sie hatte die Abweichungen mit roter Kreide markiert. Die Striche liefen über die Folien wie Blutspuren auf grauem Gestein.
+
+»Hier«, sagte sie und tippte auf eine Randnotiz in der ältesten Version. »Und hier. Und hier.«
+
+Der ehemalige Forscher stand neben ihr, die Hände in die Ärmel seines zu weiten Mantels vergraben, und betrachtete die Projektionen mit zusammengekniffenen Augen. Er hatte den Raum nicht betreten wollen. Neris hatte ihn über eine Nebenpforte hereingebracht, und er hatte sich geweigert, seinen Namen in das Zugangsverzeichnis einzutragen. Nun stand er vor den Tischen, und sein Atem ging flach, und in seinem Gesicht arbeitete etwas, das Neris nicht benennen konnte.
+
+»Zeigen Sie mir die dritte«, sagte er.
+
+Neris wechselte die Folie. Die Projektion flackerte, sprang an, erlosch beinahe, und als sie sich stabilisierte, lag die dritte Rekonstruktion vor ihnen: das Protokoll der Versuchsreihe Sechsunddreißig-Vier, datiert auf das Jahr 3761, gezeichnet von einem Laboranten, dessen Namen jemand später mit Tinte unkenntlich gemacht hatte.
+
+Der Forscher beugte sich vor. Sein Finger schwebte über der Randspalte, ohne die Folie zu berühren.
+
+»Hier«, sagte er. »Diese Notiz.«
+
+»Ich habe sie gesehen«, sagte Neris.
+
+»Nein«, sagte er. »Sie haben sie gesehen, aber Sie haben sie nicht erkannt.« Er richtete sich auf, und seine Stimme bekam etwas Sachliches, fast Diensteifriges, als sei er wieder in einem Raum, in dem vor vierzig Jahren über Versuchsprotokolle gesprochen worden war. »Sie sehen die Abweichung in Zeile vier. Die abweichende Kalibrierung. Aber schauen Sie auf die Randnotiz in der dritten Rekonstruktion. Und dann schauen Sie auf dieselbe Randnotiz in der ersten. Und dann in der zweiten.«
+
+Neris legte die Folien übereinander. Die Projektoren warfen ihre Bilder auf dieselbe Fläche, und die drei Schriftstücke verschoben sich, bis die Randspalten deckungsgleich waren. Dann sah sie es.
+
+»Identisch«, sagte sie.
+
+»Identisch«, wiederholte der Forscher, und in seiner Stimme lag etwas wie Erleichterung, oder etwas wie Angst. »Dieselben Versuchsbedingungen. Dieselben Temperaturen. Dieselben Kopplungsintervalle. Dieselben Ausgangsbelastungen. In allen drei Versionen. Und doch weichen die Hauptergebnisse voneinander ab.«
+
+Neris trat einen Schritt zurück. Das Summen der Projektoren war das einzige Geräusch im Raum. Es war ein tiefes, gleichmäßiges Summen, das durch das Metall der Tische in ihre Handflächen kroch, als sie sich auf die Folien stützte. Sie roch das Öl der Linsen, den Staub der Jahrzehnte, und darunter, ganz schwach, den Geruch von Papier, das zu lange in zu trockener Luft gelegen hatte.
+
+»Das ist keine natürliche Abweichung«, sagte sie.
+
+»Nein«, sagte der Forscher.
+
+»Das ist kontrollierte Kopplung.«
+
+»Das ist kontrollierte Kopplung«, sagte er. »Und das ist nicht das Schlimmste.«
+
+Er griff in die Innentasche seines Mantels und zog ein Bündel zusammengefalteter Blätter hervor. Die Blätter waren dünn, durchscheinend an den Knicken, und ihre Ränder waren mit Bleistift beschrieben, in einer Handschrift, die so klein war, dass Neris sie nur mit Mühe entziffern konnte. Er legte sie neben die Folien.
+
+»Das habe ich vor sechzehn Jahren kopiert«, sagte er. »Bevor man mir den Zugang nahm. Ich habe damals gewußt, daß etwas nicht stimmt, aber ich habe es nicht beweisen können. Ich habe es nicht einmal formulieren können. Meine Erinnerungen waren bereits durcheinander, und ich hielt mich für krank. Aber diese Blätter sind keine Erinnerung. Diese Blätter sind Kopien. Und Kopien kann man prüfen.«
+
+Neris nahm die Blätter. Sie las die erste Seite, dann die zweite, dann die dritte. Und während sie las, veränderte sich etwas in ihr. Es war kein Schock. Es war ein langsames, methodisches Zusammensetzen, wie das Zusammenfügen einer Kette, deren Glieder sie einzeln bereits in der Hand gehalten hatte, ohne zu wissen, wohin sie führten.
+
+»Diese Versuchsreihe«, sagte sie. »Sie war nicht auf die Kopplung von Menschen gerichtet.«
+
+»Nein«, sagte der Forscher.
+
+»Sie war auf die Kopplung von Material gerichtet. Von Veyra-Material.«
+
+»Ja«, sagte der Forscher. »Und auf die Frage, ob sich Veyra-Material durch eingespeiste Kontextinformationen steuern läßt. Ob man ihm sagen kann, was es rekonstruieren soll.«
+
+Neris legte die Blätter auf den Tisch. Ihre Hand zitterte nicht, aber sie war sich dessen bewußt, dass sie hätte zittern können, und dass die Tatsache, dass sie es nicht tat, keine Ruhe war, sondern etwas anderes: eine Art von Nüchternheit, die erst dann einsetzt, wenn die Größe des Fundes jede Bewegung überflüssig macht.
+
+»Und das Ergebnis«, sagte sie.
+
+Der Forscher sah sie an. Seine Augen waren klar, aber sie waren die Augen eines Menschen, der seit Jahren in einem Raum lebt, dessen Wände er nicht mehr sicher unterscheiden kann. »Das Ergebnis war, daß es möglich ist«, sagte er. »Das Ergebnis war, daß man dem Netzwerk eine Information geben kann, und das Netzwerk wird sie aufnehmen, und es wird sie so rekonstruieren, als habe sie immer existiert. Und es wird sie so rekonstruieren, daß sie in das Material paßt, das bereits vorhanden ist. Und wenn man es richtig macht, gibt es keine Spur. Keine Rasuren, keine Schnitte, keine Widersprüche. Nur eine Vergangenheit, die niemals war.«
+
+Er machte eine Pause. Dann sagte er: »Die Randnotizen sind eine Spur. Sie sind ein Fehler. Jemand hat die Versuchsbedingungen nicht entfernt. Jemand hat sie stehengelassen, weil er annahm, niemand werde drei Fassungen desselben Protokolls nebeneinanderlegen. Und weil er annahm, niemand werde wissen, was er sieht.«
+
+»Nemet«, sagte Neris.
+
+Der Forscher schwieg.
+
+»Nemet«, sagte Neris noch einmal.
+
+»Ich habe damals für Nemet gearbeitet«, sagte der Forscher. »Ich habe Protokolle geführt. Ich habe Messungen vorgenommen. Ich habe nicht gefragt, wozu. Man fragt nicht, wozu. Man tut seine Arbeit, und die Arbeit ist sauber, und das ist genug.« Er sah auf seine Hände. »Und dann, Jahre später, als ich älter war und weniger sauber, habe ich zu fragen begonnen. Und dann habe ich diese Blätter kopiert. Und dann habe ich sie versteckt. Und dann habe ich angefangen, mich zu erinnern, und ich konnte nicht mehr unterscheiden, was ich erinnere und was mir eingegeben wurde.«
+
+Neris trat an den Projektor und schaltete die vierte Folie hinzu. Sie legte sie über die anderen, und die vier Bilder verschoben sich, bis die Randspalten in einer Linie lagen, und nun war das Muster vollständig: vier Fassungen desselben Materials, vier Abweichungen, vier identische Randnotizen.
+
+»Es ist nicht eine Fälschung«, sagte sie. »Es ist eine Methode.«
+
+»Es ist eine Methode«, sagte der Forscher.
+
+Neris trat zurück und sah auf die Tische, auf die flackernden Projektionen, auf die roten Striche, die sie gezogen hatte, und sie dachte: Das ist keine Anhäufung von Fehlern. Das ist eine Kette. Und dachte: Und die Kette reicht weiter, als ich bereit war, zu glauben. Und dachte: Und wenn ich ihr folge, führt sie nicht nur zu Dheran. Und dachte: Sie führt zu jemandem, der vor Dheran war. Sie führt zu jemandem, der vor sechzig Jahren begonnen hat, das Netzwerk zu steuern. Sie führt zu jemandem, dessen Namen ich noch nicht aussprechen will.
+
+»Sie sind sehr ruhig«, sagte der Forscher.
+
+»Ich bin nicht ruhig«, sagte Neris. »Ich bin beschäftigt.«
+
+Der Forscher sah sie an. »Sie haben verstanden, was das bedeutet.«
+
+»Ich habe verstanden, daß der Abtretungsvertrag nicht nur gefälscht wurde«, sagte Neris. »Ich habe verstanden, daß die Fälschung nicht das Ziel war. Die Fälschung war ein Nebenergebnis. Der Vertrag von 3214 wurde nicht gefälscht, weil jemand den Inhalt ändern wollte. Er wurde gefälscht, weil jemand eine Methode an ihm getestet hat. Und weil die Methode funktioniert hat, wurde sie später wieder angewandt. Auf andere Materialien. Auf andere Verträge. Auf andere Vergangenheiten.«
+
+Sie sah zu den Projektoren. »Das ist nicht der Vertrag«, sagte sie. »Das ist Nemet selber.«
+
+Der Forscher schwieg.
+
+»Und das«, sagte Neris, »ist genau das, was Sie mir nicht sagen wollten. Deswegen haben Sie mich hierher gebracht. Nicht, weil Sie mir helfen wollten. Weil Sie mir zeigen wollten, wie weit es reicht. Weil Sie wissen, daß ich es nicht mehr ungesehen machen kann.«
+
+»Ich habe nicht gewußt, daß es so weit reicht«, sagte der Forscher. »Ich habe es vermutet. Ich habe es gefürchtet. Ich habe gehofft, ich irre mich.« Er sah auf die Blätter. »Ich irre mich nicht.«
+
+Neris sah ihn an. Und in diesem Augenblick, in dem flackernden Licht der alten Projektoren, mit den vier Fassungen des Protokolls vor sich, sah sie ihn nicht als Zeugen und nicht als Opfer. Sie sah ihn als jemanden, der vor sechzehn Jahren dieselbe Erkenntnis gehabt hatte, die sie nun hatte, und der daran zerbrochen war, weil er alleine war. Und sie dachte: Ich werde nicht alleine sein. Und dachte: Ich muß es weitertragen. Und dachte: Ich muß es jemandem zeigen, der es nicht bestreiten kann, weil er es nicht bestreiten will.
+
+»Wir müssen das sichern«, sagte sie. »Die Blätter. Die Folien. Die Randnotizen. Wenn Dheran davon erfährt, wird er alles entfernen, genau wie er die Materialproben entfernt hat. Er wird behaupten, die Folien seien verfälscht, die Blätter seien erfunden, die Randnotizen seien nachträglich hinzugefügt. Er wird die Projektoren sperren lassen, und er wird behaupten, es habe sie nie gegeben.«
+
+»Das kann er nicht«, sagte der Forscher. »Die Folien sind aus den gesicherten Beständen. Ihre Zugangsnummern sind registriert.«
+
+»Und wenn er die Registrierung ändert?«
+
+Der Forscher schwieg.
+
+»Wenn Dheran die Registrierung ändert«, sagte Neris, »dann existieren die Folien offiziell nicht. Dann existieren die Randnotizen offiziell nicht. Dann existiert das Muster offiziell nicht. Und dann sitzen wir hier mit Papierfetzen, und er sitzt dort mit der Deutungshoheit. Der Geständnis ist das eine. Die Rekonstruktionen sind das andere. Aber das Muster ist das Entscheidende. Das Muster ist das, was nicht bestritten werden kann, weil es nicht bestritten werden will. Es will nur gesehen werden.«
+
+Der Forscher nickte langsam. »Dann müssen Sie das Muster sichtbar machen«, sagte er. »Vor dem Schiedsrichter. Nicht als Behauptung. Als Vorführung. Sie müssen es ihm zeigen, während die Projektoren laufen, und Sie müssen ihm die vier Fassungen zeigen, und Sie müssen ihm die Randnotizen zeigen, und Sie müssen ihm erklären, daß vier identische Versuchsbedingungen nicht zu vier unterschiedlichen Ergebnissen führen können, wenn nicht jemand die Ergebnisse gemacht hat.«
+
+Neris sah ihn an. »Sie wissen, was das bedeutet.«
+
+»Ich weiß, was das bedeutet«, sagte der Forscher.
+
+»Sie müssen dann vor dem Schiedsrichter stehen. Sie müssen das erklären. Sie sind der einzige, der diese Versuchsreihe von innen kennt. Ich kann die Folien zeigen. Ich kann die Randnotizen zeigen. Ich kann das Muster beweisen. Aber ich kann nicht bezeugen, wozu diese Versuchsreihe diente. Das können nur Sie.«
+
+Der Forscher sah lange auf die Blätter. Dann sagte er: »Ich habe vor sechzehn Jahren einen Fehler gemacht. Ich habe die Versuchsreihe ausgeführt, ohne zu fragen, wozu. Ich habe sie sauber ausgeführt. Ich habe sie so ausgeführt, wie man eine Arbeit ausführt, die man bekommt, weil man sie bekommt, und weil das Bezahlen genug ist. Und ich habe sechzehn Jahre damit verbracht, diesen Fehler in meinem Kopf zu zerlegen, und ich habe ihn nicht zerlegen können, weil ich nicht wußte, was ich zerlegen soll. Jetzt weiß ich es.« Er sah auf. »Ich werde vor dem Schiedsrichter stehen.«
+
+Neris nickte. Sie nahm die Blätter und legte sie neben die Folien. Das Summen der Projektoren war unverändert, tief und gleichmäßig, und irgendwo im Gang, außerhalb des Labors, hörte sie Schritte, gleichmäßig, ruhig, nicht eilig. Sie sah zur Tür.
+
+»Warten Sie«, sagte sie.
+
+Die Schritte entfernten sich. Neris wartete, bis sie verklungen waren. Dann ging sie zur Tür und öffnete sie einen Spalt. Der Gang war leer. Kaltes Licht aus den Seitenwänden, der Boden aus Metallplatten, sonst nichts.
+
+Sie schloß die Tür.
+
+»Das war niemand«, sagte der Forscher. »Die Nachtwache.«
+
+»Die Nachtwache geht nicht durch diesen Gang«, sagte Neris. »Der Gang ist gesperrt. Ich habe ihn selber gesperrt, als ich hereinkam.«
+
+Der Forscher sagte nichts.
+
+Neris ging zu den Tischen zurück. Sie sah auf die Folien, auf die Blätter, auf die roten Striche, und sie dachte: Etwas fehlt. Und dachte: Niemand hat die Versuchsbedingungen entfernt, weil niemand mit drei Fassungen rechnete. Aber warum drei Fassungen? Und dachte: Es muß vier gegeben haben. Ursprünglich. Und dachte: Wenn es vier gab, dann hat jemand die vierte entfernt. Und dachte: Und wenn die vierte entfernt wurde, dann nicht, weil sie zu viel zeigte. Sondern weil sie eine Signatur trug.
+
+»Der Forscher«, sagte sie.
+
+Er sah auf.
+
+»Wie viele Fassungen«, sagte Neris, »wurden von dieser Versuchsreihe geführt?«
+
+»Drei«, sagte er. »Immer drei. Eine für das Labor. Eine für das Archiv. Eine für den Auftraggeber.«
+
+»Nein«, sagte Neris.
+
+Er sah sie an.
+
+»Es waren vier«, sagte sie. »Es waren vier Fassungen, und die vierte wurde entfernt. Und die vierte ist die entscheidende, denn die vierte trug den Namen dessen, der den Auftrag gegeben hat.«
+
+Der Forscher schwieg lange. Dann sagte er: »Es gibt keine vierte.«
+
+»Es gibt eine vierte«, sagte Neris. »Wenn nicht hier, dann woanders. Wenn nicht in Papier, dann in Veyra. Das Netzwerk bewahrt, was ihm eingegeben wurde. Auch das, was entfernt wurde. Vielleicht besonders das, was entfernt wurde.«
+
+Der Forscher sah sie an, und in seinem Blick lag etwas, das sie noch nicht gesehen hatte: nicht Erleichterung, nicht Angst, sondern Unsicherheit, und unter der Unsicherheit, tiefer, etwas wie eine Ahnung.
+
+»Wenn es eine vierte gibt«, sagte er langsam, »dann ist sie nicht im Archiv. Dann ist sie im Netzwerk. Und wenn sie im Netzwerk ist, dann kann sie jederzeit abgerufen werden, von jedem, der Zugang hat. Und Zugang hat in dieser Nacht…«
+
+Er beendete den Satz nicht.
+
+Neris sah zur Tür. Sie hörte nichts. Die Schritte waren fort, das Summen war geblieben. Aber sie wußte, was er nicht aussprach, und sie wußte, daß er recht hatte.
+
+»Zugang hat in dieser Nacht«, sagte sie, »Ilyan Dheran.«
+
+Und dachte: Und wenn er in dieser Nacht Zugang hat, dann hat er ihn schon gehabt. Und dachte: Dann hat er gewußt, was wir hier tun. Und dachte: Dann hat er die vierte Fassung bereits entfernt, bevor ich hereingekommen bin. Und dachte: Dann fehlt in meinem Muster genau das, was ich brauche.
+
+Sie griff nach den Blättern und blätterte sie durch. Auf der letzten Seite, unten, wo die Versuchsreihe endete, stand eine Zeile, die mit Bleistift geschrieben war, so schwach, daß sie sie zunächst übersehen hatte. Sie hielt die Seite gegen das flackernde Licht.
+
+»Was steht dort«, fragte der Forscher.
+
+Neris sah die Zeile. Sie las sie zweimal. Dann las sie sie ein drittes Mal. Und in ihrem Nacken, dort, wo die Kälte des Labors saß, breitete sich etwas aus, das keine Kälte war.
+
+»Es steht eine Nummer dort«, sagte sie. »Eine Zugangsnummer. Für eine vierte Fassung.«
+
+Der Forscher kam näher. Er beugte sich über die Seite.
+
+»Das ist unmöglich«, sagte er. »Diese Nummer ist aus dem Jahr 3764. Es gibt keinen Zugang aus dem Jahr 3764.«
+
+»Es gibt keinen Zugang aus dem Jahr 3764«, sagte Neris, »weil die vierte Fassung aus dem Jahr 3764 entfernt wurde. Und die Zugangsnummer ist geblieben.« Sie richtete sich auf. »Und wenn die Zugangsnummer geblieben ist, dann existiert der Zugang noch. Und wenn der Zugang noch existiert, dann existiert die vierte Fassung noch. Versteckt. Aber vorhanden.«
+
+Der Forscher sah sie an. »Wollen Sie ihn aufrufen?«
+
+Neris sah auf die Projektoren, auf die Tische, auf die Tür, hinter der die Schritte verklungen waren. Dann sagte sie: »Nicht hier. Nicht jetzt. Aber morgen. Vor dem Schiedsrichter. Dort kann niemand etwas entfernen, ohne daß alle es sehen.«
+
+Der Forscher nickte. Er nahm die Blätter und faltete sie zusammen, und seine Hände waren ruhig, ruhiger als in der ganzen Nacht. »Gut«, sagte er. »Dann morgen.«
+
+Neris schaltete die Projektoren ab. Das Summen erstarb, und für einen Augenblick war es still im Labor, so still, daß sie das Klopfen ihres eigenen Herzens hörte. Sie sammelte die Folien ein, legte sie in die Schutzhülle und verstaute sie in der Innentasche ihres Mantels. Als sie sich zur Tür wandte, sagte der Forscher: »Neris.«
+
+Sie blieb stehen.
+
+»Was, wenn die vierte Fassung nicht existiert?«, sagte er. »Was, wenn die Zugangsnummer eine Spur ist, die man gelegt hat, damit Sie sie finden? Damit Sie morgen vor dem Schiedsrichter stehen und etwas aufrufen, das es nicht gibt, und damit Sie sich vor allen lächerlich machen?«
+
+Neris sah ihn an. »Dann«, sagte sie, »bin ich verloren.« Sie öffnete die Tür. »Aber dann weiß ich wenigstens, wofür.«
+
+Sie trat in den Gang hinaus. Er war leer. Das kalte Licht brannte an den Wänden. Und irgendwo, weit entfernt, im Rumpf des Archivs, hörte sie das tiefe, gleichmäßige Summen des Beckens, das durch die Fundamente drang, unaufhörlich, wie ein Atem, der nicht aufhörte.
+
+Sie ging den Gang hinunter, die Schutzhülle unter dem Mantel, und sie hörte ihre eigenen Schritte auf dem Metall, und sie dachte: Morgen. Und dachte: Morgen wird das Muster sprechen. Und dachte: Und wenn es spricht, wird es nicht nur Dheran belasten.
+
+Und dachte: Es wird auch die belasten, die vor ihm waren. Und dachte: Und einer von ihnen hat eine Signatur hinterlassen. Und dachte: Und diese Signatur fehlt in meinem Muster.
+
+Sie blieb stehen. Sie sah auf die Schutzhülle in ihrer Hand, auf die Folien darin, auf die Blätter, auf die roten Striche. Und in diesem Augenblick, in der Stille des Ganges, begriff sie, was fehlte.
+
+Es war nicht die vierte Fassung.
+
+Es war der Name. Der Name dessen, der vor sechzig Jahren die Methode begonnen hatte. Der Name dessen, der vor 3764 in den Akten gestanden hatte und nach 3764 nicht mehr. Der Name, der auf keiner der drei Fassungen stand, weil er auf der vierten stand. Der Name, der in der Zugangsnummer verschlüsselt war. Der Name, den sie kennen würde, sobald sie ihn sah, weil sie ihn die ganze Zeit gekannt hatte, ohne ihn aussprechen zu wollen.
+
+Sie sah ihn nicht. Aber sie spürte, daß er fehlte. Und daß sein Fehlen kein Zufall war. Und daß in drei Tagen der Rat abstimmen würde, und daß in drei Tagen Tarns Stimme besetzt sein würde, und daß in drei Tagen niemand mehr fragen würde, wessen Name auf einer Fassung gestanden hatte, die es nicht mehr gab.
+
+Sie ging weiter. Und hinter ihr, im Labor, blieb eine Folie auf dem Metalltisch liegen, die sie übersehen hatte, weil sie zu nah an der Lampe gelegen hatte, um im flackernden Licht gesehen zu werden. Auf dieser Folie stand, in blasser Handschrift, eine einzige Zeile. Und diese Zeile lautete nicht wie die anderen Zeilen. Sie lautete wie eine Anweisung. Und unter der Anweisung, dort, wo sonst der Name des Ausführenden stand, war eine Lücke. Und die Lücke war nicht leer. Sie war leer gemacht worden.
+
+Und sie war noch nicht lange leer.
+
+<div class="chapter-illustration page-break-after">
+  <img src="E:/code/peter-the-one-creator/books/ashkara/assets/chapter/chapter-018.jpg" alt="Kapitel 018" />
+</div>
+
+# Achtzehntes Kapitel {#kapitel-018 .chapter-heading .centered}
+
+Das Summen des Beckens drang bis in den Westflügel, ein Ton, der tiefer lag als das Ohr ihn hörte und den man im Brustkorb spürte wie den Schlag einer fernen Maschine. Neris Tal blieb an der Biegung des Ganges stehen, wo das kalte Licht der Wandlampen in die Dunkelheit des Quergangs überging. Sie atmete dreimal. Dann ging sie weiter.
+
+Der Forscher folgte ihr in drei Schritten Abstand. Er trug die Schutzhülle nicht mehr; sie hatte sie ihm abgenommen, weil seine Hände zitterten, und er hatte es wortlos hingenommen, wie ein Mann, der wußte, daß seine Hände nicht mehr die seinen waren. Sein Atem ging flach und schnell. Zweimal blieb er stehen, als horche er auf etwas, das sie nicht hörte.
+
+»Was ist?«, fragte sie, ohne sich umzudrehen.
+
+»Nichts«, sagte er. Dann, nach einer Pause: »Alles. Ich habe sechzehn Jahre auf diesen Gang gewartet. Und jetzt, wo ich ihn gehe, wünsche ich mir, ich wäre nie zurückgekommen.«
+
+Neris sagte nichts. Sie dachte: Er hat recht. Und dachte: Aber Zurückgehen gibt es nicht mehr.
+
+Sie erreichten den Dienstausgang an der Nordseite. Die Tür war alt, aus dem ersten Jahrhundert des Archivs, als Nemet noch ein Handelsposten gewesen war und keine Kontinuität. Neris drückte den Riegel. Er gab nach, ohne Widerstand, und das beunruhigte sie mehr als ein Widerstand es getan hätte.
+
+Draußen lag der Hof im Halbdunkel der frühen Stunden. Über den Dächern von Ashkar hing ein grünlicher Schimmer, das Licht der Gewürzverarbeitung, das die ganze Nacht brannte wie eine zweite, kranke Sonne. Der Wind trug den Geruch von Zimt und verbranntem Öl heran, und darunter, kaum wahrnehmbar, den Geruch von feuchtem Stein, der aus den Tiefen kam.
+
+Der Forscher blieb an der Tür stehen. »Wo bringen Sie mich hin?«
+
+»Zu einem Ort, an dem Sie bis morgen niemand findet«, sagte Neris. »Und morgen, vor dem Schiedsrichter, werden Sie das sagen, was Sie mir gesagt haben. Nichts mehr. Nichts weniger.«
+
+»Und wenn sie mich fragen, woher ich es weiß?«
+
+»Dann sagen Sie die Wahrheit.«
+
+Er sah sie an. Seine Augen waren trüb, aber nicht leer; hinter der Trübung lag etwas Wachsames, das sich nicht täuschen ließ. »Die Wahrheit«, sagte er, »ist ein Wort, das in diesem Haus keine Bedeutung mehr hat. Sie sollten das wissen, Archivforensikerin. Sie haben heute nacht gesehen, was sie mit der Wahrheit machen.«
+
+»Ich habe gesehen, was sie mit den Aufzeichnungen machen«, erwiderte Neris. »Die Wahrheit ist das, was übrigbleibt, wenn man die Aufzeichnungen verbrennt.«
+
+Der Forscher lachte, kurz und tonlos. »Dann hoffen Sie, daß genug übrigbleibt.«
+
+Das Versteck war ein altes Pumpenhaus am Rand des Beckenbezirks, seit vierzig Jahren außer Betrieb, ein Gemäuer aus rissigem Beton und verrosteten Rohren, in dem der Wind durch die Spalten pfiff wie durch die Zähne eines schlafenden Tieres. Neris hatte es vor drei Tagen ausgewählt, als sie begonnen hatte zu begreifen, daß ihre Wohnung, ihr Büro und jeder Raum, den Nemet ihr zuwies, längst nicht mehr ihr gehörten. Sie kannte die Zugänge aus den alten Wasserbüchern der Hydrologin, aus Karten, die seit zwei Generationen niemand mehr benutzt hatte.
+
+Sie ließ den Forscher in der hinteren Kammer zurück, auf einer Bank aus Preßholz, mit einer Decke und einer Flasche Wasser. Er setzte sich hin, ohne sich umzusehen. Er sagte: »Wenn Sie morgen nicht kommen, komme ich allein.« Und sie sagte: »Wenn ich morgen nicht komme, kommen Sie nicht allein. Dann kommen Sie gar nicht.«
+
+Sie schloß die Tür und blieb einen Augenblick im Hof stehen. Der grünliche Schimmer über den Dächern war heller geworden. Irgendwo, drei Straßen weiter, hörte sie einen Karren über das Pflaster rollen, das Klirren von Metallflaschen, die Stimme eines Händlers, der seine Ware ausrief. Die Stadt lebte. Die Stadt wußte nichts. Und in drei Tagen würde die Stadt erfahren, daß die Vergangenheit, auf der sie ruhte, aus nichts gebaut war als aus einem Willen, der beschlossen hatte, was sie sein sollte.
+
+Neris dachte: Und wenn es spricht, wird es nicht nur Dheran belasten.
+
+Sie ging nach Hause, aber nicht in ihre Wohnung. Sie ging in das Archiv. Sie ging in den Lesesaal, setzte sich an einen der langen Tische, unter die Lampen, die summten, und legte die Folien vor sich aus. Sie legte sie in der Reihenfolge aus, in der sie sie aus dem Labor mitgenommen hatte. Und sie sah sie an, eine nach der anderen, und sie wartete darauf, daß das Muster sich schloß.
+
+Es schloß sich nicht.
+
+Um die vierte Stunde des Morgens, als der Lesesaal leer war bis auf den Wächter, der an der Tür schlief, begriff Neris Tal, was sie die ganze Nacht gesucht hatte. Es war nicht in den Folien. Es war in der Art, wie die Folien gemacht waren.
+
+Sie nahm die drei Fassungen des Versuchsprotokolls und legte sie nebeneinander. Die Randnotizen waren identisch, Wort für Wort, Fleck für Fleck. Die Versuchsbedingungen waren identisch. Die Gerätebezeichnungen waren identisch. Nur die Ergebnisse wichen voneinander ab, und zwar nicht zufällig, sondern nach einem Prinzip, das sie jetzt erkannte: Jede Fassung enthielt genau die Ergebnisse, die der Kontext nahelegte, den die vorangegangene Fassung gesetzt hatte. Die erste Fassung hatte den Rahmen geliefert. Die zweite hatte den Rahmen gefüllt. Die dritte hatte den gefüllten Rahmen bestätigt.
+
+Und dann begriff sie.
+
+Es war keine Fälschung im gewöhnlichen Sinn. Es war keine nachträgliche Bearbeitung, kein Radieren, kein Überschreiben. Es war eine Filterung. Veyra rekonstruierte nicht die Vergangenheit, wie sie gewesen war. Es rekonstruierte die Vergangenheit, wie sie sein mußte, damit die Gegenwart stimmte. Das Netzwerk ergänzte nicht die Lücken. Es erzeugte die Lücken. Es ließ aus, was nicht paßte, und füllte, was übrigblieb, mit dem, was die gegenwärtigen Koppelnden erwarteten, fürchteten, brauchten.
+
+Neris saß ganz still. Sie dachte: Das ist es. Und dachte: Es ist nicht ein Fehler im Material. Es ist das Material selbst. Und dachte: Jede Erinnerung, die ich je aus dem Netzwerk geholt habe, ist eine Erinnerung, die das Netzwerk für mich gemacht hat.
+
+Sie dachte an den Abtretungsvertrag von 3214. Sie dachte an Halv Dren, der in allen sieben Speicherversionen lebendig und atmend zu sehen war, obwohl er am Tag der Signatur todkrank gewesen war. Sie hatte es für eine Fälschung gehalten, für eine nachträgliche Bearbeitung durch Nemet. Aber es war keine Bearbeitung. Es war eine Rekonstruktion. Veyra hatte Dren nicht gefälscht. Veyra hatte Dren so erzeugt, wie der Vertrag ihn brauchte: als lebendigen Zeugen, weil ein toter Zeuge den Vertrag ungültig gemacht hätte, und weil ein Vertrag, der ungültig war, nicht in die Gegenwart gepaßt hätte, in der er galt.
+
+Und dann dachte sie: Wer hat den Kontext gesetzt?
+
+Wer hatte dem Netzwerk gesagt, was es erwarten sollte, als es Dren rekonstruierte? Wer hatte, vor sechzig Jahren, die erste Fassung der Versuchsreihe Sechsunddreißig-Vier in Auftrag gegeben, die den Rahmen geliefert hatte, in dem alle späteren Fassungen sich bewegten?
+
+Sie sah auf die Zugangsnummer. Sie war in den Notizen des Forschers gestanden, am Rand, in blasser Handschrift: eine Nummer, die zu einer vierten Fassung aus dem Jahr 3764 gehörte. Neris hatte sie notiert, aber nicht aufgerufen. Sie hatte gewartet, weil sie zuerst das Muster verstehen wollte. Jetzt verstand sie es. Und jetzt wußte sie, daß die Nummer nicht zu einer Fassung gehörte. Sie gehörte zu einem Namen. Und der Name war in der Nummer verschlüsselt, so wie Dherans Name in den Akten verschlüsselt war, so wie alles in diesem Haus verschlüsselt war, damit niemand es aussprechen mußte.
+
+Sie nahm ihr Notizbuch. Sie schrieb die Nummer auf ein leeres Blatt, in großen Ziffern, und sie sah sie an. Sie zerlegte sie in ihre Teile. Sie prüfte die Stellen, an denen die Ziffern standen, gegen die alten Numerierungssysteme, die sie aus den Wasserbüchern kannte. Und langsam, Ziffer für Ziffer, Buchstabe für Buchstabe, trat aus der Nummer ein Name hervor.
+
+Neris sah den Namen. Und sie saß ganz still. Und sie dachte: Natürlich. Und dachte: Ich habe es die ganze Zeit gewußt. Und dachte: Ich habe nur nicht aussprechen wollen, was ich wußte.
+
+Sie schloß das Notizbuch. Sie schob die Folien zusammen. Sie stand auf, und ihre Beine waren schwer, als hätte sie stundenlang gesessen, obwohl sie es getan hatte. Sie ging zur Tür des Lesesaals, und der Wächter erwachte und sah sie an, und sie sagte: »Ich habe nichts gefunden.« Und der Wächter nickte und schlief wieder ein.
+
+Draußen war der Himmel grau geworden. Der grünliche Schimmer war verblaßt. Über den Dächern von Ashkar stand die erste Andeutung von Licht, dünn und kalt, wie ein Versprechen, das niemand halten würde.
+
+Neris dachte: Morgen. Und dachte: Morgen wird das Muster sprechen. Und dachte: Und wenn es spricht, wird es auch den Namen sprechen. Und dachte: Und der Name wird nicht nur Dheran belasten. Er wird die belasten, die vor ihm waren. Und einer von ihnen hat eine Signatur hinterlassen. Und diese Signatur ist der Name.
+
+Sie ging die Straße hinunter, in der der Wind den Staub aufwirbelte, und sie hielt das Notizbuch fest unter dem Mantel, und sie dachte nicht mehr. Sie hatte keine Kraft mehr zum Denken. Sie hatte nur noch die Gewißheit, kalt und klar wie das Licht über den Dächern, daß sie am nächsten Tag vor den Schiedsrichter treten würde, und daß sie sprechen würde, und daß niemand sie würde aufhalten können, weil niemand mehr wußte, was sie wußte.
+
+Oren Kest erwachte, weil seine Hand nicht ihm gehörte.
+
+Es war ein kleines Ding, kaum der Rede wert. Er lag auf dem Bett in seinen Gemächern im Tarn-Hauptquartier, das Licht der Dämmerung fiel durch die Lamellen der Jalousie, und seine rechte Hand lag auf dem Nachttisch, auf dem Buch, das er am Abend gelesen hatte, und die Finger seiner rechten Hand blätterten in dem Buch, langsam, methodisch, als suchten sie eine Stelle, die sie kannten, obwohl er selbst nicht wußte, wonach er suchte.
+
+Oren sah seiner Hand zu. Er sagte: »Halt.«
+
+Die Hand blätterte weiter.
+
+Er sagte es lauter: »Halt.«
+
+Die Hand blätterte weiter. Und dann, als hätte sie gefunden, was sie suchte, blieb sie stehen. Oren sah auf die Seite. Es war eine Karte, eine alte Karte der nördlichen Becken, eingezeichnet in das Buch, das ein Reisebericht aus dem dritten Jahrhundert war. Und auf der Karte, in der Mitte, war ein Punkt markiert, ein kleiner roter Punkt, der nicht gedruckt war, sondern gemalt, von Hand, mit einer Nadel oder einem feinen Pinsel.
+
+Oren kannte den Punkt nicht. Er hatte die Karte nie gesehen. Er hatte das Buch gestern zum ersten Mal aufgeschlagen, weil Sar ihm gesagt hatte, es enthalte die älteste Beschreibung der Tarn-Ländereien, und er hatte es aufgeschlagen, weil er nicht schlafen konnte, und er hatte es gelesen, bis er eingeschlafen war, und er hatte die Karte nicht angesehen.
+
+Seine Hand hatte sie angesehen.
+
+Oren lag ganz still. Er dachte: Das ist nichts. Und dachte: Das ist Müdigkeit. Und dachte: Das ist die Kopplung, die nachwirkt. Und dachte: Es ist nichts.
+
+Aber er wußte, daß es etwas war. Er hatte es in den letzten Tagen dreimal gespürt. Einmal, als er beim Frühstück nach der Teekanne gegriffen hatte, bevor Sar sie ihm reichte, obwohl er nicht gewußt hatte, daß Sar sie bringen würde. Einmal, als er im Hof einen Mann gegrüßt hatte, den er nicht kannte, mit einem Namen, den er nicht kannte, und der Mann hatte zurückgegrüßt, als kenne er ihn. Und einmal, in der Nacht, als er aufgewacht war und geweint hatte, ohne zu wissen, warum, und das Gefühl gehabt hatte, daß jemand in ihm trauerte, der nicht er war.
+
+Es war nicht Furcht, was ihn erfaßte, sondern jenes tiefere Wissen, daß Mächte im Spiel waren, deren Namen er noch nicht kannte.
+
+Oren setzte sich auf. Er nahm die Hand vom Buch, mit der anderen Hand, und legte sie auf sein Knie, und er sah sie an, wie man ein Werkzeug ansieht, das man nicht mehr beherrscht. Die Hand war ruhig. Sie war seine Hand. Sie hatte immer seine Hand sein sollen.
+
+Er dachte: Tarn. Und dachte: Du bist in mir. Und dachte: Du warst schon in mir, als ich die vierte Stufe nicht gegangen bin. Und dachte: Was hast du getan, während ich geschlafen habe?
+
+Er stand auf. Er ging zum Waschbecken, und das Wasser war kalt, und er wusch sich das Gesicht, und er sah sich im Spiegel an. Sein Gesicht war sein Gesicht. Seine Augen waren seine Augen. Aber in den Augen lag etwas, das er nicht hineingelegt hatte, ein Schatten, ein Wissen, ein Warten.
+
+Er dachte: Ich muß es Sar sagen. Und dachte: Nein. Und dachte: Warum nicht? Und dachte: Weil Sar es aufschreiben wird. Und dachte: Weil Sar alles aufschreibt. Und dachte: Weil Sar mich dokumentiert, so wie er Tarn dokumentiert hat, und weil am Ende das Dokument das einzige sein wird, was von mir übrigbleibt.
+
+Er trocknete sich das Gesicht ab. Er zog sich an. Er ging zum Frühstück, und Sar war da, wie immer, und Sar sagte: »Sie haben unruhig geschlafen, Sire.«
+
+Oren sagte: »Ich habe gut geschlafen.«
+
+Sar sah ihn an, mit dem Blick, den Oren nicht mehr ertrug, dem Blick des Mannes, der Protokolle führte, dem Blick des Mannes, der wußte, daß Oren log, und der es aufschreiben würde, in einer Sprache, die niemand verstand, und in einer Handschrift, die niemand las.
+
+Sar sagte: »Der Rat tagt in zwei Tagen. Dheran hat um eine Unterredung gebeten. Vor der Abstimmung.«
+
+Oren sagte: »Ich werde ihn empfangen.«
+
+Sar sagte: »Er wird von Ihnen verlangen, was er immer verlangt.«
+
+Oren sagte: »Ich weiß, was er verlangen wird.«
+
+Sar sagte nichts mehr. Er goß den Tee ein, und Oren trank den Tee, und der Tee schmeckte wie immer, und nichts an diesem Morgen war anders als an anderen Morgen, und doch war alles anders, weil Oren in seinem Inneren eine Tür gehört hatte, die sich geöffnet hatte, und weil er wußte, daß sie sich nicht mehr schließen würde.
+
+Er dachte: Ich muß herausfinden, was in dem Buch steht. Und dachte: Ich muß herausfinden, was der rote Punkt bedeutet. Und dachte: Ich muß herausfinden, was Tarn in mir sucht. Und dachte: Aber ich darf es nicht fragen. Denn wenn ich es frage, wird die Antwort nicht meine Antwort sein.
+
+Am Nachmittag saß Oren allein im kleinen Empfangszimmer des Tarn-Hauptquartiers, einem Raum mit hohen Fenstern und einem Boden aus dunklem Holz, der den Schritt dämpfte. Dheran war nicht gekommen. Dheran hatte einen Boten geschickt, einen jungen Mann in grauem Rock, der die Nachricht ohne Gruß übergab und ohne Gruß wieder ging. Die Nachricht war kurz. Sie lautete: »Die Unterredung findet nicht statt. Was zu sagen war, ist gesagt. Was zu tun ist, wird getan.«
+
+Oren las die Zeilen zweimal. Er dachte: Er kommt nicht. Und dachte: Er kommt nie wieder. Und dachte: Er hat mich nicht gebraucht. Er hat mich nie gebraucht. Er hat nur wissen wollen, ob ich hinderlich bin.
+
+Er legte die Nachricht auf den Tisch. Er ging zum Fenster und sah hinaus auf die Stadt, die im Licht des Nachmittags lag, grau und staubig und voller Menschen, die nichts wußten. Und er dachte: Was tut er jetzt? Und dachte: Während ich hier stehe und auf eine Nachricht sehe, tut er etwas. Und dachte: Und ich weiß nicht, was.
+
+Er wußte es nicht. Aber im Archiv, zwei Ebenen unter ihm, wußte es jemand.
+
+Sar betrat die Schreibkammer um die sechste Stunde. Er trug die Ledermappe mit den losen Blättern, die er immer trug, und er setzte sich an den Tisch, und er legte die Blätter vor sich hin, und er begann zu schreiben. Aber es waren nicht die Protokolle. Es waren Abschriften. Zwei Abschriften, auf dünnem Papier, in einer Handschrift, die nicht seine war und die er dennoch beherrschte, weil er sie vor Jahren geübt hatte.
+
+Die erste Abschrift war ein Befehl. Er lautete, in der Sprache der Kontinuitäten, knapp und ohne Anrede: »Die Archivforensikerin Neris Tal ist ab sofort jeder Zugang zu den Tiefenspeichern, den Wasserbüchern und den Förderakten zu verweigern. Ihre bisherigen Entnahmen sind zu versiegeln. Ihre Zeugen sind zu überprüfen. Ihre Aussage vor dem Schiedsrichter ist durch Vorlage der versiegelten Entnahmen als unzuverlässig zu kennzeichnen. Dies ist keine Anweisung Nemets. Dies ist eine Anweisung der Kontinuität, die die Aufsicht über die nördlichen Becken führt.«
+
+Die zweite Abschrift war ebenfalls ein Befehl. Er lautete: »Die Hydrologin von Unterglas, die gegen den Vertrag aussagt, ist über ihre Familie zu erreichen. Ihrem Bruder Samel ist mitzuteilen, daß die bereits unterzeichnete Stillhalteklausel nur dann Gültigkeit behält, wenn die Aussage seiner Schwester unterbleibt. Ihm ist ferner mitzuteilen, daß die Pumpen, die er erhalten hat, nur dann geliefert werden, wenn die Aussage unterbleibt. Dies ist keine Drohung. Dies ist eine Bedingung. Bedingungen sind zulässig. Drohungen sind es nicht.«
+
+Sar las die beiden Abschriften. Er las sie langsam, Wort für Wort, wie er alles las. Dann nahm er sie und faltete sie und steckte sie in zwei verschiedene Umschläge, und er siegelte die Umschläge mit zwei verschiedenen Siegeln, und er schrieb auf den ersten Umschlag einen Namen, den Neris Tal kannte, und auf den zweiten Umschlag einen Namen, den die Hydrologin kannte.
+
+Er rief den Boten. Er gab ihm die Umschläge. Er sagte: »Der erste geht an die Anwaltschaft der Forensik. Der zweite geht nach Unterglas. Beide gehen heute nacht. Keiner geht durch das Archiv.«
+
+Der Bote nahm die Umschläge. Er ging. Und Sar saß allein in der Schreibkammer, und er nahm ein drittes Blatt, und er begann, in seiner eigenen Handschrift, in der Sprache, die niemand las, einen Eintrag zu schreiben. Der Eintrag lautete: »Am heutigen Tag hat Dheran, Oberhaupt Nemets, zwei Anweisungen erlassen. Die erste richtet sich gegen die Forensikerin. Die zweite richtet sich gegen die Hydrologin. Beide Anweisungen sind über Mittelsleute ergangen. Dheran hat sie nicht selbst unterschrieben. Er hat sie durch mich unterschreiben lassen. Ich habe sie unterschrieben. Ich habe sie aufgeschrieben. Was ich aufschreibe, geschieht. Was geschieht, schreibe ich auf. Ich weiß nicht mehr, welches von beiden zuerst kommt.«
+
+Er legte die Feder hin. Er sah auf das Blatt. Und dann, zum ersten Mal an diesem Tag, dachte er an Oren Kest, und er dachte: Er weiß es nicht. Und dachte: Er wird es erfahren. Und dachte: Und wenn er es erfährt, wird er glauben, daß er es selbst herausgefunden hat. Und dachte: So wie alle es glauben. So wie Tarn es geglaubt hat. So wie ich es glaube.
+
+Er löschte die Lampe. Die Schreibkammer lag dunkel. Und durch die Fundamente, tief unter der Kammer, drang das Summen des Beckens, unaufhörlich, wie ein Atem, der nicht aufhörte.
+
+Oren stand am Fenster, als das Licht des Nachmittags verblaßte. Er hielt die Nachricht Dherans in der Hand, und er las sie noch einmal, und dann zerknüllte er sie, und dann strich er sie wieder glatt, weil er wußte, daß er sie aufbewahren mußte, und dann legte er sie auf den Tisch, und dann nahm er sie wieder, und dann legte er sie endgültig hin. Seine Hand wollte sie nicht loslassen. Seine Hand wollte sie zerreißen. Seine Hand wollte etwas, das er nicht wollte, und er sah es, und er sagte: »Halt.« Und die Hand hielt.
+
+Er dachte: Es wird schlimmer. Und dachte: Es wird jeden Tag schlimmer. Und dachte: Bald wird es nicht mehr die Hand sein. Bald wird es der Mund sein. Bald wird es der Wille sein.
+
+Er ging zum Tisch zurück. Er nahm das Buch, das am Morgen auf dem Nachttisch gelegen hatte, und er nahm es mit zum Fenster, und er schlug die Karte auf, und er sah den roten Punkt an. Und während er ihn ansah, spürte er das Unbehagen in der Brust, das Stechen, das feine, scharfe Stechen, das bei jedem Atemzug kam und ging. Und mit dem Stechen kam der Impuls: Geh hin. Geh heute nacht. Geh allein. Geh, bevor sie dich aufhalten.
+
+Oren schloß das Buch. Er sagte, leise, zum Fenster, zur Stadt, zu niemandem: »Nein.«
+
+Das Stechen blieb. Aber es wurde nicht stärker. Und Oren stand am Fenster, und er sah auf die Stadt, und er wartete, bis das Stechen nachließ, und als es nachließ, wußte er, daß es wiederkommen würde.
+
+Er ging zurück zum Tisch. Er nahm das Buch. Er schlug die Karte auf. Er sah den roten Punkt an, lange, und er prägte sich die Stelle ein, die Koordinaten, die Bezeichnung, die Handschrift des kleinen roten Punktes. Und dann schloß er das Buch, und er legte es an seinen Platz, und er dachte: Ich habe es nicht getan, weil du es wolltest. Ich habe es getan, weil ich es wissen muß.
+
+Und dachte: Aber ich weiß nicht, ob das die Wahrheit ist.
+
+Am Abend, als Sar ihm das Abendessen brachte, saß Oren am Tisch und aß, und Sar stand an der Tür und wartete, wie er immer wartete, und Oren sagte: »Sar, was steht in den Protokollen über die nördlichen Becken?«
+
+Sar sagte: »Nichts, Sire. Die nördlichen Becken sind seit sechzig Jahren gesperrt. Es gibt keine Aufzeichnungen über sie. Es gibt nur eine Erwähnung aus dem Jahr 3764, in einem Randvermerk, der besagt, daß die Becken verschlossen wurden, weil sie für die Förderung nicht mehr benötigt wurden.«
+
+Oren sagte: »Und warum wurden sie verschlossen?«
+
+Sar sagte: »Das steht nicht in den Protokollen.«
+
+Oren sagte: »Was steht in den Protokollen, das nicht in den Protokollen steht?«
+
+Sar sah ihn an. Es war der Blick, den Oren nicht mehr ertrug. Und Sar sagte: »Es steht nichts in den Protokollen, Sire. Es steht nur in meinem Kopf. Und mein Kopf ist nicht Teil der Protokolle.«
+
+Oren sagte: »Was steht in Ihrem Kopf?«
+
+Sar sagte: »Es steht, daß die nördlichen Becken nicht verschlossen wurden, weil sie nicht mehr benötigt wurden. Sie wurden verschlossen, weil in ihnen etwas gefunden wurde, das nicht gefunden werden sollte. Und das, was gefunden wurde, wurde nicht zerstört. Es wurde verschlossen. Und die Verschlüsselung wurde einer Kontinuität übertragen. Und diese Kontinuität war Tarn.«
+
+Oren sagte nichts.
+
+Sar sagte: »Ich habe es aufgeschrieben, Sire. In einer Sprache, die niemand liest. In einer Handschrift, die niemand versteht. So wie ich alles aufschreibe. So wie ich auch Sie aufschreiben werde.«
+
+Oren sagte: »Warum sagen Sie mir das?«
+
+Sar sagte: »Weil Sie es wissen müssen. Und weil ich nicht weiß, ob Sie es wissen wollen. Und weil in zwei Tagen der Rat tagt, und weil ich nicht weiß, ob Sie dann noch die Möglichkeit haben werden, es zu wissen.«
+
+Er stellte das Tablett ab. Er ging zur Tür. Und an der Tür blieb er stehen, und er sagte, ohne sich umzudrehen: »Eines noch, Sire. Sie haben heute nachmittag gezögert. Ich habe es gesehen. Sie haben etwas getan, das Sie nicht tun wollten, oder Sie haben etwas nicht getan, das Sie tun wollten. Ich weiß nicht, was. Aber ich habe es gesehen. Und ich habe es aufgeschrieben.«
+
+Er ging. Die Tür schloß sich. Oren saß allein am Tisch, vor dem kalten Essen, und er hörte das Summen des Beckens, und er dachte: Er hat es gesehen. Und dachte: Er wird es aufschreiben. Und dachte: Und wenn er es aufschreibt, wird es wahr. Und dachte: Aber ich werde ihm nicht sagen, was es war. Ich werde es niemandem sagen. Ich werde es nicht einmal mir selbst sagen.
+
+Er aß nicht. Er saß da, bis das Licht der Lampe flackerte, und dann stand er auf und ging zum Bett. Er legte sich hin. Er schloß die Augen. Und in der Dunkelheit hinter seinen Lidern sah er den roten Punkt, und er spürte das Stechen in der Brust, und er wußte, daß es nicht sein Stechen war, und er wußte, daß er es niemandem sagen würde.
+
+Und während er in den Schlaf sank, dachte er: Ich verheimliche es vor mir selbst. Und dachte: Aber ich verheimliche es nicht vor dem, der in mir wartet. Er weiß es. Er hat es getan. Und er wird es wieder tun.
+
+Und dann schlief er ein, und in seinem Schlaf sah er eine Kammer, verschlossen, tief unter den nördlichen Becken, und in der Kammer stand eine Gestalt, die sein Gesicht trug, und die Gestalt wartete auf ihn, wie sie seit sechzig Jahren auf ihn gewartet hatte.
+
+Und als er am Morgen erwachte, wußte er, daß er in zwei Tagen zum Rat gehen würde, und daß er Neris Tal finden würde, und daß er den roten Punkt aufsuchen würde, und daß nichts von alledem seine Entscheidung sein würde.
+
+Er wußte es. Und er sagte es nicht. Nicht einmal sich selbst.
+
+
+# Weitere Motivatier Classics {#series-catalog}
+
+<div class="series-entry">
+<img src="E:/code/peter-the-one-creator/books/aelita/assets/covers/cover.jpg" alt="Aëlita" />
+
+**Aëlita**  
+Alexei Nikolajewitsch Tolstoi
+
+Der Ingenieur Mstislaw Los baut im Petrograd der frühen 1920er Jahre ein ungewöhnliches Raumschiff und lädt Freiwillige zu einem Flug zum Mars ein. Begleitet wird er von dem ehemaligen Rotarmisten Alexei Gussew. Die Reise führt die beiden aus einer von Krieg, Entbehrung und Unruhe geprägten Erde in eine Welt, die fremdartig erscheint und doch die Konflikte der Menschen auf andere Weise wiederholt.
+
+</div>
+
+<div class="series-entry">
+<img src="E:/code/peter-the-one-creator/books/peter-i-buch-01/assets/covers/cover.jpg" alt="Peter der Erste" />
+
+**Peter der Erste**  
+Alexei Nikolajewitsch Tolstoi
+
+Peter der Erste erzählt vom Aufstieg eines Herrschers, der Russland mit Gewalt, Willenskraft und visionärer Unruhe aus der alten Welt in die Moderne stößt. Alexei Tolstoi zeichnet Peter nicht als entrückten Monarchen, sondern als rastlosen, widersprüchlichen Menschen: roh und genial, grausam und neugierig, maßlos in seinem Ehrgeiz und doch getrieben von der Überzeugung, ein rückständiges Reich neu erschaffen zu müssen. Vor dem Hintergrund von Machtkämpfen, Hofintrigen, Krieg, Reformen und persönlicher Härte…
+
+</div>
+
+<div class="series-entry">
+<img src="E:/code/peter-the-one-creator/books/leben-arsenjews/assets/covers/cover.jpg" alt="Das Leben Arsenjews" />
+
+**Das Leben Arsenjews**  
+Iwan Bunin
+
+„Das Leben Arsenjews“ ist ein Roman der Erinnerung. Aus der Rückschau entsteht das Bild einer Kindheit und Jugend in der russischen Provinz, geprägt von Landschaften, Familienbindungen, ersten Erschütterungen, literarischem Erwachen und der allmählichen Erfahrung von Vergänglichkeit.
+
+</div>
+
+<div class="series-entry">
+<img src="E:/code/peter-the-one-creator/books/pharao/assets/covers/cover.jpg" alt="Der Pharao" />
+
+**Der Pharao**  
+Bolesław Prus
+
+Der Pharao führt in ein Ägypten, das zugleich fern und erstaunlich gegenwärtig wirkt: ein Reich aus Tempeln, Palästen, Heeren, Abgaben, Ritualen und unsichtbaren Machtordnungen. Im Mittelpunkt steht ein junger Herrscher, der die Last der Krone nicht nur als Würde, sondern als Kampf erfährt. Was als persönliche Bewährungsprobe beginnt, weitet sich zu einer Erzählung über Staat, Religion, Wissen, Geld und politische Illusion.
+
+</div>
+
+<div class="series-entry">
+<img src="E:/code/peter-the-one-creator/books/feuriger-engel/assets/covers/cover.jpg" alt="Der feurige Engel" />
+
+**Der feurige Engel**  
+Walerij Brjussow
+
+„Der feurige Engel" ist ein historischer Roman aus der Welt der Renaissance und Reformation, zugleich aber ein Roman über innere Verstrickung, religiöse Ekstase und die gefährliche Macht von Bildern, Stimmen und Visionen. Brjussow lässt seine Handlung im Deutschland des 16. Jahrhunderts spielen, in einer Zeit, in der Humanismus, Dämonenglaube, Theologie, Magie und beginnende moderne Gelehrsamkeit noch unmittelbar nebeneinanderstehen.
+
+</div>
+
+<div class="series-entry">
+<img src="E:/code/peter-the-one-creator/books/die-dritte-chronik/assets/covers/cover.jpg" alt="Die dritte Chronik" />
+
+**Die dritte Chronik**  
+Timo Verita
+
+1241 stirbt Großkhan Ögedei – und seine Witwe Töregene ergreift noch in der Todesnacht die Macht. An ihrer Seite steht Fatima, Kriegsgefangene aus Chorasan und Schattenkanzlerin des Reiches: Sie schreibt die Briefe der Regentin, entscheidet über Zugang und Gnade – und führt heimlich eine zweite Chronik, Briefe an ihre tote Schwester. Gegen sie steht Shigi Qutuqu, Oberrichter und Hüter der Geheimen Geschichte. Neben ihr Ata-Malik Juvaini, junger persischer Schreiber, der Karriere macht und sich in die Frau…
+
+</div>
+
+<div class="series-entry">
+
+**Existing**  
+Testautor
+
+1241 stirbt Großkhan Ögedei – und seine Witwe Töregene ergreift noch in der Todesnacht die Macht. An ihrer Seite steht Fatima, Kriegsgefangene aus Chorasan und Schattenkanzlerin des Reiches: Sie schreibt die Briefe der Regentin, entscheidet über Zugang und Gnade – und führt heimlich eine zweite Chronik, Briefe an ihre tote Schwester. Gegen sie steht Shigi Qutuqu, Oberrichter und Hüter der Geheimen Geschichte. Neben ihr Ata-Malik Juvaini, junger persischer Schreiber, der Karriere macht und sich in die Frau…
+
+</div>
+
+<div class="series-entry">
+<img src="E:/code/peter-the-one-creator/books/geheime-geschichte-mongolen/assets/covers/cover.png" alt="Die Geheime Geschichte der Mongolen" />
+
+**Die Geheime Geschichte der Mongolen**  
+Anonym
+
+Das unter dem mongolischen Titel Mongγol-un niγuča tobčiyan überlieferte Werk beginnt mit der sagenhaften Abstammung der Mongolen vom blaugrauen Wolf und der falben Hirschkuh. Aus Genealogien, Ursprungserzählungen und Erinnerungen an frühere Stammesführer entwickelt sich die Lebensgeschichte Temüdschins, des späteren Dschingis Khan. Nach dem Tod seines Vaters wächst er unter gefährdeten und entbehrungsreichen Bedingungen auf, während seine Mutter Höelün die auseinanderbrechende Familie zusammenhält.
+
+</div>

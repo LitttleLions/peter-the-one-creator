@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "litttlelions-peter-the-one-creator",
+  "name": "peter-the-one",
+  "summary": "Buchwerkbank für Übersetzung, Redaktion und Export literarischer Werke als EPUB, DOCX, PDF und KDP-Taschenbuch.",
+  "tags": ["software", "uebersetzung", "verlag", "epub", "kdp", "taschenbuch", "review-gate", "romanforge"],
+  "repo_url": "https://github.com/LitttleLions/peter-the-one-creator",
+  "source_commit": "d89376719f325a4b9974752d2b779bb82fd4f06b",
+  "reviewed_at": "2026-10-13",
+  "working_tree": "modified",
+  "working_tree_note": "Nicht allein durch source_commit reproduzierbar. Der Prüfcommit d893767 ist auf origin/main (Fast-Forward von cline/pveejb87, c0ebef7..d893767). Zusätzlich uncommittet: PDF-Leerseitenmessung, Bildstufen assets/master und assets/chapter, Gitignore-Schalter, Buchpaket books/der-lotse, Dokuangleich nach dem Fast-Forward sowie lokale Export- und Review-Artefakte. Ein KDP-Upload-Adapter ist nicht implementiert.",
+  "capabilities": ["scene-translation", "deterministic-review-gate", "epub-docx-pdf-export", "kdp-paperback", "romanforge-import", "marketing-pack", "shelf-website"],
+  "integrations": ["OpenRouter", "Ollama", "Pandoc", "Playwright", "Higgsfield CLI", "FastAPI", "React"],
+  "source_docs": {
+    "brief": "docs/project-brief.md",
+    "reuse": "docs/reuse.md"
+  }
+}

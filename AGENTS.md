@@ -525,3 +525,15 @@ Peter-I-Raffung 2026-09-17.
   `marketing_export` / `render_x_clip`. Pilot gelaufen fuer `peter-i-buch-01` (Texte als
   Repository-KI, Amazon-Link und Songdaten fehlen bewusst und werden als offene
   Status ausgewiesen). Details: [docs/marketing-export.md](./docs/marketing-export.md).
+
+<!-- motivatier-project-hub:start -->
+## Motivatier Project Hub
+
+- Hub: https://github.com/LitttleLions/motivatier-project-hub. Einstieg `INDEX.md`; Vertrag `docs/CONTRACT.md`, Version 1. Dieses Projekt: `litttlelions-peter-the-one-creator`.
+- Vor einer neuen Integration, größeren Funktion oder wiederverwendbaren Infrastruktur kurz nach passenden Lösungen suchen. Erst Index/Suchliste, dann wenige relevante Dokumente und bei Bedarf deren Code lesen. Vor Übernahme Eignung und Grenzen prüfen.
+- Innerhalb desselben Arbeitspakets dieselbe Recherche nicht ohne neuen Anlass wiederholen. Kleine UI-/Textänderungen, lokale Bugfixes und Refactorings ohne übergreifende Auswirkung benötigen keine Hub-Recherche.
+- Nach einem relevanten abgeschlossenen Arbeitspaket `docs/project-brief.md`, optional `docs/reuse.md` und `.atlas/manifest.json` aktualisieren: neue/ersetzte wiederverwendbare Lösungen, wesentliche Architektur-/API-Änderungen oder wichtige Grenzen/Fehlversuche. Mehrere Änderungen einmal gebündelt veröffentlichen.
+- Kurze projektübergreifende Erkenntnisse bei Bedarf als Notes mit Herkunft melden. Keine einzelnen Mini-Funktionen, Commit-Tagebücher oder persönlichen Memory-Einträge spiegeln.
+- Vorgesehener manueller Export, ohne Modellaufruf und ohne neues Prüfdatum: Dokumente und `.atlas/manifest.json` unverändert nach `projects/litttlelions-peter-the-one-creator/` im Hub kopieren (`PROJECT_BRIEF.md` und `REUSE.md`), dann dort `py -3 scripts/hub.py seal litttlelions-peter-the-one-creator` und `py -3 scripts/hub.py validate`. Ein vorhandener Exporter aus dem Portfolio-Cockpit passt nicht: er verlangt einen sauberen Arbeitsbaum. Commit und Push im Quellrepo nur auf ausdrücklichen Wunsch; Hub-Veröffentlichung über eigenen Branch und PR.
+- Passende Agentenprofile und Notes nur aufgabengesteuert lesen. Rückfragen über Issues; eine Empfängerkennung beweist keine Erreichbarkeit. WissenOne bleibt das getrennte Unternehmerwissen.
+<!-- motivatier-project-hub:end -->

@@ -578,25 +578,33 @@ py -3 tools/preview_webpage.py
 
 URLs in `export.yaml` top-level `website:` setzen.
 
-Deploy-Ziel (2026-10-21 geprueft):
+Deploy (2026-10-21 verifiziert und ausgefuehrt):
 
-- Live: https://stiftung.motivatier.de/classics/ – Server antwortet mit `Apache`
-  und `X-Powered-By: PleskLin`, IP 87.106.3.155. Das ist dieselbe IONOS-VPS wie
-  `romanforge.littlelionsfilms.de`; der Ordner `/classics/` liegt also im
-  Plesk-Docroot dieser Domain (Pfad dort bestaetigen, erwartet
-  `.../httpdocs/classics/`).
-- Stand live: `Last-Modified` 2026-10-07, 8 Baende. `webpage/public/data/catalog.json`
-  enthaelt 10 Baende; es fehlen live `grin-wellenlaeuferin` und
-  `pissemski-tausend-seelen`.
-- Kein SSH-Zugang vom Entwicklungsrechner (`ssh root@87.106.3.155` ->
-  `Permission denied (publickey,password)`). Upload deshalb ueber den
-  Plesk-Dateimanager oder von Hand per SSH von einem Rechner mit Schluessel.
-- `webpage/dist/` ist per `.gitignore` nicht versioniert; hochzuladen ist der
+- Live: https://stiftung.motivatier.de/classics/ – Apache mit Plesk auf der
+  IONOS-VPS 87.106.3.155 (dieselbe Maschine wie
+  `romanforge.littlelionsfilms.de`).
+- Docroot: `/var/www/vhosts/motivatier.de/stiftung.motivatier.de` (Plesk-Vhost
+  `stiftung.motivatier.de`, `DocumentRoot` aus
+  `/var/www/vhosts/system/stiftung.motivatier.de/conf/httpd.conf`); die Website
+  liegt im Unterordner `classics/`, Eigentuemer `motiadmin:psaserv`.
+- Zugang: SSH als `root@87.106.3.155` mit dem Deploy-Schluessel
+  `~/.ssh/codex_boddenblick_deploy` (`-o IdentitiesOnly=yes`); der
+  Plesk-Dateimanager geht alternativ.
+- Ablauf: `py -3 tools/build_shelf_website.py` -> `py -3 tools/build_webpage_dist.py`
+  -> Inhalt von `webpage/dist/` per `scp` nach `/tmp/<staging>/` und dort mit
+  `rsync -a --delete /tmp/<staging>/ <docroot>/classics/` verteilen, danach
+  `chown -R motiadmin:psaserv` sowie `find … -type d -exec chmod 755` und
+  `find … -type f -exec chmod 644`.
+- Vor jedem Deploy sichern:
+  `tar czf /root/classics-backup-<datum>.tar.gz -C <docroot> classics`.
+  Sicherung vom 2026-10-21: `/root/classics-backup-20261021-144558.tar.gz`.
+- `webpage/dist/` ist per `.gitignore` nicht versioniert; hochgeladen wird der
   komplette Inhalt (`index.html`, `assets/`, `covers/`, `data/`, `models/`,
-  `impressum.html`, `ueber-uns.html`), bestehende Dateien ersetzen.
+  `impressum.html`, `ueber-uns.html`).
 
-Status: OFFEN – Katalog und Build mit 10 Baenden sind fertig (lokal HTTP 200,
-10 Buecher), der Upload auf die Domain steht aus.
+Status: ERLEDIGT 2026-10-21 – 10 Baende live (vorher 8; es fehlten
+`grin-wellenlaeuferin` und `pissemski-tausend-seelen`), Index und alle Cover
+antworten mit HTTP 200.
 
 ## 8. Optional: Feature-Branch aufraeumen
 

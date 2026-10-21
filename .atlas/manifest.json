@@ -11,6 +11,11 @@
   "working_tree_note": "Nicht allein durch source_commit reproduzierbar. Der Prüfcommit d893767 ist auf origin/main (Fast-Forward von cline/pveejb87, c0ebef7..d893767). Zusätzlich uncommittet und nicht geprüft: PDF-Leerseitenmessung, Bildstufen assets/master und assets/chapter, Gitignore-Schalter, Buchpaket books/der-lotse, Dokuangleich nach dem Fast-Forward, lokale Export- und Review-Artefakte und ein KDP-Adapter unter tools/kdp_sync.py. Dieser Adapter ist nicht Teil von source_commit.",
   "capabilities": ["scene-translation", "deterministic-review-gate", "epub-docx-pdf-export", "kdp-paperback", "romanforge-import", "marketing-pack", "shelf-website"],
   "integrations": ["OpenRouter", "Ollama", "Pandoc", "Playwright", "Higgsfield CLI", "FastAPI", "React"],
+  "logo": {
+    "file": "logo.svg",
+    "source_path": "webapp/frontend/public/assets/logo.svg",
+    "source_commit": "f3d3de8"
+  },
   "source_docs": {
     "brief": "docs/project-brief.md",
     "reuse": "docs/reuse.md"

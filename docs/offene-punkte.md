@@ -576,9 +576,27 @@ py -3 tools/build_webpage_dist.py
 py -3 tools/preview_webpage.py
 ```
 
-URLs in `export.yaml` top-level `website:` setzen. Deploy-Ziel klaeren.
+URLs in `export.yaml` top-level `website:` setzen.
 
-Status: OFFEN.
+Deploy-Ziel (2026-10-21 geprueft):
+
+- Live: https://stiftung.motivatier.de/classics/ – Server antwortet mit `Apache`
+  und `X-Powered-By: PleskLin`, IP 87.106.3.155. Das ist dieselbe IONOS-VPS wie
+  `romanforge.littlelionsfilms.de`; der Ordner `/classics/` liegt also im
+  Plesk-Docroot dieser Domain (Pfad dort bestaetigen, erwartet
+  `.../httpdocs/classics/`).
+- Stand live: `Last-Modified` 2026-10-07, 8 Baende. `webpage/public/data/catalog.json`
+  enthaelt 10 Baende; es fehlen live `grin-wellenlaeuferin` und
+  `pissemski-tausend-seelen`.
+- Kein SSH-Zugang vom Entwicklungsrechner (`ssh root@87.106.3.155` ->
+  `Permission denied (publickey,password)`). Upload deshalb ueber den
+  Plesk-Dateimanager oder von Hand per SSH von einem Rechner mit Schluessel.
+- `webpage/dist/` ist per `.gitignore` nicht versioniert; hochzuladen ist der
+  komplette Inhalt (`index.html`, `assets/`, `covers/`, `data/`, `models/`,
+  `impressum.html`, `ueber-uns.html`), bestehende Dateien ersetzen.
+
+Status: OFFEN – Katalog und Build mit 10 Baenden sind fertig (lokal HTTP 200,
+10 Buecher), der Upload auf die Domain steht aus.
 
 ## 8. Optional: Feature-Branch aufraeumen
 

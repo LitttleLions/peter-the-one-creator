@@ -1,0 +1,59 @@
+{
+  "book": "der-lotse",
+  "chapter": "026",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\scenes\\de\\stil-01-original\\026\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\prompts\\higgsfield\\026-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-lotse\\assets\\chapter\\chapter-026.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 026. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Das Wasser kam nicht von einer Seite. Es kam von allen Seiten zugleich, durch die Fugen, durch die Plankenstöße, durch das Leck, das die Granate in die Backbordseite gerissen hatte, und Thies Arndt begriff in dem Augenblick, in dem er die Hand auf die Innenseite der Bordwand legte, dass die *Hoffnung* nicht mehr zu halten war. Es war kein dumpfes Gefühl, kein vages Ahnen. Es war eine Rechnung, die er nicht zum ersten Mal aufstellte. Ein Boot, das Wasser zog, verlor Auftrieb, verlor Geschwindigkeit, verlor Zeit. Und Zeit war das Einzige, was zwischen den neun Menschen auf der *Grete* und dem sicheren Flachwasser lag. Er hätte es wissen müssen, als er die *Hoffnung* bestieg, als er die anderen vorausschickte, als er die Leine warf und sich absetzte. Er hatte es gewusst. Er hatte es gewusst und war trotzdem gegangen, weil ein Boot nicht das war, was auf dem Spiel stand.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_214821_3b68010d-2fee-4977-a5b5-807d95e8751c.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-27T21:48:21.276098Z",
+      "display_name": "GPT Image 2",
+      "id": "3b68010d-2fee-4977-a5b5-807d95e8751c",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_214821_3b68010d-2fee-4977-a5b5-807d95e8751c_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 2336,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 026. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Das Wasser kam nicht von einer Seite. Es kam von allen Seiten zugleich, durch die Fugen, durch die Plankenstöße, durch das Leck, das die Granate in die Backbordseite gerissen hatte, und Thies Arndt begriff in dem Augenblick, in dem er die Hand auf die Innenseite der Bordwand legte, dass die *Hoffnung* nicht mehr zu halten war. Es war kein dumpfes Gefühl, kein vages Ahnen. Es war eine Rechnung, die er nicht zum ersten Mal aufstellte. Ein Boot, das Wasser zog, verlor Auftrieb, verlor Geschwindigkeit, verlor Zeit. Und Zeit war das Einzige, was zwischen den neun Menschen auf der *Grete* und dem sicheren Flachwasser lag. Er hätte es wissen müssen, als er die *Hoffnung* bestieg, als er die anderen vorausschickte, als er die Leine warf und sich absetzte. Er hatte es gewusst. Er hatte es gewusst und war trotzdem gegangen, weil ein Boot nicht das war, was auf dem Spiel stand.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "2k",
+        "width": 1744
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_214821_3b68010d-2fee-4977-a5b5-807d95e8751c.png",
+      "status": "completed"
+    }
+  ]
+}

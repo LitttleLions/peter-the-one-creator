@@ -1,0 +1,59 @@
+{
+  "book": "der-lotse",
+  "chapter": "009",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\scenes\\de\\stil-01-original\\009\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\prompts\\higgsfield\\009-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-lotse\\assets\\chapter\\chapter-009.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 009. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Vormittag lag grau über Middelhagen, und der Wind kam aus Nordwest, feucht und ohne Wärme, wie er im Herbst kam, wenn die See noch nicht stürmte, aber schon drohte. Joren Voss stand im Pfarramt vor dem Tisch, auf dem die Karte des Boddens ausgebreitet lag, und hörte, wie draußen ein Wagen über das Kopfsteinpflaster rumpelte. Er hatte die Karte nicht selbst aufgelegt. Leutnant Nils Rask hatte sie aufgelegt, mit einer Handbewegung, die keinen Widerspruch duldete, und Joren stand davor wie vor einem Dokument, das ihn verurteilte. Rask saß nicht. Er stand am Fenster, die Hände hinter dem Rücken verschränkt, und betrachtete den Hof, als sei der Hof eine Karte, die er bereits vermessen hatte. Sein Deutsch war gut, zu gut für einen Mann, der es nur für den Dienst gelernt hatte, und das machte die Sache nicht einfacher.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_142809_657be481-8802-445b-b18c-6f5d37440393.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-27T14:28:09.011569Z",
+      "display_name": "GPT Image 2",
+      "id": "657be481-8802-445b-b18c-6f5d37440393",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_142809_657be481-8802-445b-b18c-6f5d37440393_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 009. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Vormittag lag grau über Middelhagen, und der Wind kam aus Nordwest, feucht und ohne Wärme, wie er im Herbst kam, wenn die See noch nicht stürmte, aber schon drohte. Joren Voss stand im Pfarramt vor dem Tisch, auf dem die Karte des Boddens ausgebreitet lag, und hörte, wie draußen ein Wagen über das Kopfsteinpflaster rumpelte. Er hatte die Karte nicht selbst aufgelegt. Leutnant Nils Rask hatte sie aufgelegt, mit einer Handbewegung, die keinen Widerspruch duldete, und Joren stand davor wie vor einem Dokument, das ihn verurteilte. Rask saß nicht. Er stand am Fenster, die Hände hinter dem Rücken verschränkt, und betrachtete den Hof, als sei der Hof eine Karte, die er bereits vermessen hatte. Sein Deutsch war gut, zu gut für einen Mann, der es nur für den Dienst gelernt hatte, und das machte die Sache nicht einfacher.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_142809_657be481-8802-445b-b18c-6f5d37440393.png",
+      "status": "completed"
+    }
+  ]
+}

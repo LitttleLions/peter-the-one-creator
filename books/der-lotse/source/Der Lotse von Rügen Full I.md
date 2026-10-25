@@ -1,0 +1,5828 @@
+# Der Lotse von Rügen
+
+*Genre: Historischer Roman*
+
+---
+
+## Im falschen Wasser
+
+> „Ein Lot zeigt den Grund nur dort, wo es niedergeht; die Gefahr beginnt oft daneben.“
+
+Das Arbeitsfahrzeug lag schräg im grauen Wasser, als hätte der Haken es mit einer Hand gepackt. Der Herbstwind trieb flache Wellen über das Deck und presste den Regen gegen die Männer, die an den Tauen standen. Vor ihnen, kaum sichtbar unter der bleichen Oberfläche, begann das falsche Wasser des Thiessower Hakens: nicht tief genug für ein beladenes Fahrzeug, nicht fest genug für einen sicheren Stand, nicht offen genug, um den Irrtum rasch zu verlassen.
+
+Joren Voss erkannte die Lage, bevor er die rote Mütze des schwedischen Leutnants sah. Das Fahrzeug hatte Steuerbord zu weit herausgenommen. Unter seinem Boden lag eine Sandzunge, die bei ruhigem Wetter wie ein harmloser Streifen erschien und nach jedem stärkeren Wind ihre Gestalt veränderte. Das Heck hob und senkte sich, der Bug lag schwer im Wasser. Bei jeder Bewegung arbeitete sich der Kiel tiefer ein.
+
+„Das Tau nach vorn!“, rief der Leutnant. „Löst es am Pfahl und zieht von der Landseite!“
+
+Joren sprang vom flachbordigen Boot auf das Arbeitsfahrzeug. Seine Stiefel rutschten auf dem nassen Holz, doch seine Hände fanden das Tauwerk, bevor sein Körper den Halt verlor. Ein junger Matrose griff nach dem belasteten Strang.
+
+„Nicht lösen“, sagte Joren.
+
+Der Matrose sah ihn an. „Der Leutnant hat es befohlen.“
+
+„Der Leutnant steht auf festem Grund.“
+
+Das Fahrzeug neigte sich erneut. Ein Stapel langer, entrindeter Pfähle rutschte über das Deck und blieb an der niedrigen Bordwand liegen. Darunter brach das Wasser weiß. Joren sah, wie das vordere Ende des Fahrzeugs nach Steuerbord sank. Noch war es kein Kentern. Aber der Unterschied zwischen einer gefährlichen Lage und einem Unglück bestand manchmal nur darin, ob jemand den falschen Knoten zur richtigen Zeit löste.
+
+„Haltet das vordere Tau!“, rief er. „Alle Mann nach Backbord. Nicht springen. Gehen!“
+
+Die Männer gehorchten nicht aus Loyalität, sondern weil Joren sprach, als sei der nächste Schritt bereits geprüft. Das war auf dem Wasser mehr wert als Rang. Der Matrose ließ den Strang nicht los. Rask, der Leutnant, trat näher und packte selbst mit an. Er war ein breitschultriger Mann mit einem nassen Mantel, dessen Kragen ihm gegen den Hals schlug.
+
+„Voss“, sagte er. „Wenn wir dort festbleiben, verlieren wir die Ladung.“
+
+„Wenn Ihr das Tau löst, verliert Ihr das Fahrzeug.“
+
+„Ich brauche es frei.“
+
+„Dann müsst Ihr zuerst verhindern, dass es sich querstellt.“
+
+Rask blickte zum Ufer. Dort standen drei schwedische Soldaten neben einem Handkarren, dessen Räder bis zu den Achsen im Schlamm steckten. Hinter ihnen ragten bereits eingerammte Pfähle aus dem Wasser. Sie bildeten keine geschlossene Linie, eher eine Folge dunkler Unterbrechungen, die man erst erkannte, wenn man zwischen ihnen hindurchfahren wollte.
+
+Joren hatte die Pfähle vorher gesehen. Er hatte sie für eine vorläufige Markierung gehalten, wie sie bei jeder größeren Arbeit im flachen Wasser gebraucht wurde. Nun lag ein Teil der Ladung auf dem Deck, und die Form der Sache trat deutlicher hervor.
+
+„Bringt das zweite Tau zum achteren Pfahl“, sagte Joren. „Nicht über die Klampe. Um den Poller. Dann den Flaschenzug aus dem Boot.“
+
+„Der Flaschenzug ist für die Pfähle“, erwiderte Rask.
+
+„Dann leiht Ihr ihn dem Fahrzeug.“
+
+Rask sah ihn an. Ein kurzer Ausdruck von Ärger ging über sein Gesicht, verschwand aber wieder. Er war kein Mann, der sich an einem Widerspruch erfreute; er war ein Mann, der Entscheidungen nach ihrer Brauchbarkeit sortierte.
+
+„Macht es“, befahl er.
+
+Die Soldaten zogen den Flaschenzug aus dem Boot. Zwei Fischer, die Joren aus Thiessow kannte, sprangen auf das Arbeitsfahrzeug und halfen beim Sichern der Ladung. Einer von ihnen, Kruse, hatte die Finger um einen nassen Pfahl gelegt und fluchte leise, weil das Holz ihm aus den Händen glitt.
+
+„Nicht darunter greifen“, sagte Joren. „Wenn er rutscht, nimmt er Euch die Hand mit.“
+
+„Ich hatte nicht vor, sie ihm zu schenken.“
+
+„Das Wasser nimmt Geschenke an.“
+
+Kruse verzog den Mund, doch er rückte zurück. Der Pfahl rollte gegen die Bordwand, blieb dort liegen und drückte das Fahrzeug noch tiefer. Joren legte sich auf die Knie, schob eine kurze Hebelstange unter das Holz und winkte zwei Männern heran.
+
+„Auf drei. Eins. Zwei. Jetzt.“
+
+Sie hoben. Nicht viel, aber genug, dass Kruse den Pfahl mit einer Leine umschlingen konnte. Das Tau schnitt in das Holz, der Wind trieb Regen in Jorens Augen, und der Flaschenzug knarrte, als würde auch er die Entscheidung missbilligen. Nach und nach wurde die Ladung gegen die Mitte des Decks gebracht.
+
+Das Fahrzeug richtete sich nicht auf. Es blieb schräg.
+
+„Der Boden hält das Heck“, sagte Joren. „Wir müssen den Bug entlasten.“
+
+„Die Pfähle müssen an Land“, sagte Rask.
+
+„Die Pfähle können warten.“
+
+„Nein.“
+
+Joren blickte auf. Rask stand neben dem vorderen Mast und hielt sich mit einer Hand am Tau fest. Sein Gesicht war unbewegt, aber sein Blick ruhte nicht auf der Ladung, sondern auf den Soldaten am Ufer. Sie warteten auf seine Befehle, und er wusste, dass jeder Aufschub als Schwäche gelesen werden konnte.
+
+„Ihr habt Männer auf dem Fahrzeug“, sagte Joren. „Und Ihr habt ein Fahrzeug, das im nächsten Wellenschlag weiter nach Steuerbord fällt. Wenn Ihr die Ladung jetzt übernehmt, habt Ihr beides nicht mehr.“
+
+„Ich muss die Sperre fertigstellen.“
+
+„Dann müsst Ihr schwimmen lernen.“
+
+Rask antwortete nicht. Er hob die Hand.
+
+„Die Ladung bleibt an Bord. Zuerst bringen wir das Fahrzeug frei.“
+
+Das war vernünftig, und Joren empfand darüber keinen Triumph. Vernunft, die zu spät kam, war nur eine höfliche Form des Schadens.
+
+Die Männer setzten das hintere Tau. Joren ließ es nicht straff ziehen, sondern gab dem Fahrzeug zunächst Raum. Der Wind drückte gegen die Backbordseite; die Strömung lief unter dem Kiel nach Norden und schob den Sand an die falsche Stelle. Joren kniete am Rand des Decks und ließ das Lot hinab. Die Leine glitt durch seine kräftigen Finger. Er spürte den Grund, bevor er ihn sah, hob die Hand und wartete auf das Zeichen des jungen Matrosen.
+
+„Vier Fuß“, sagte der Junge.
+
+„Noch einmal.“
+
+Das Lot ging nieder.
+
+„Drei und ein halber.“
+
+„Und achtern?“
+
+Ein anderer Mann maß. „Zwei.“
+
+Joren sah zum Heck. Dort war das Wasser dunkler, doch Dunkelheit bedeutete keine Tiefe. Ein Wrackstück konnte den Eindruck verändern, ebenso ein Absatz im Sand. Er hatte gelernt, Zahlen nicht zu bewundern. Sie mussten zusammenpassen.
+
+„Wir ziehen vorn zwei Handbreit an“, sagte er. „Dann achteraus. Langsam.“
+
+Rask wandte sich an die Männer. „Ihr habt ihn gehört.“
+
+Der Matrose am belasteten Tau blickte zu Joren. Es war eine kleine, beinahe unmerkliche Frage. Joren nickte.
+
+„Jetzt.“
+
+Der Flaschenzug spannte sich. Das Holz ächzte, die Pfähle verschoben sich, und der Bug des Fahrzeugs hob sich um den geringsten möglichen Betrag. Die nächste Welle traf die Seite. Ein Tau sprang aus einer Führung. Der junge Matrose stolperte, fing sich aber mit beiden Händen am Mast.
+
+„Nicht loslassen!“, rief Joren.
+
+„Ich halte!“
+
+„Das genügt nicht. Wickel es um den Poller.“
+
+Der Junge gehorchte. Seine Finger waren bereits weiß vor Kälte. Joren ging zu ihm, nahm den Strang und führte ihn um den Poller, während das Tau unter der Last vibrierte. Es war kein Augenblick für Mut, sondern für die richtige Bewegung. Mut kam häufig erst danach und beanspruchte die Erinnerung für sich.
+
+„Wenn ich sage, lösen“, sagte Joren, „dann lösen. Nicht vorher.“
+
+Der Junge nickte.
+
+„Verstanden?“
+
+„Ja.“
+
+„Sag es.“
+
+„Verstanden.“
+
+Das Fahrzeug rutschte. Zunächst nur ein wenig, dann plötzlich. Der Sand gab unter dem Heck nach. Die Pfähle polterten über das Deck, einer schlug gegen den Mastfuß. Joren duckte sich, zog den jungen Matrosen mit sich und hörte Rask fluchen, weil sein Mantel an einem Nagel hängen blieb. Das Arbeitsfahrzeug schwang herum, nahm Wasser über die niedrige Seite und richtete sich auf.
+
+„Achteraus!“, rief Joren.
+
+Der Matrose löste das Tau nicht.
+
+Joren sah zu ihm. „Jetzt!“
+
+Der Junge zog. Der Strang sprang frei, schlug über das Deck und glitt ins Wasser. Das Fahrzeug bewegte sich rückwärts, langsam, aber ohne die gefährliche Querstellung. Rask brüllte den Männern am Ufer einen Befehl zu. Der Flaschenzug wurde gelockert, das vordere Tau eingeholt, und zwei Soldaten stemmten sich gegen die Pfähle, als könnten ihre Schultern eine Sandbank überzeugen.
+
+Joren blieb an der Seite, bis der Kiel wieder schwamm. Dann erst ließ er die Hebelstange fallen.
+
+Das Wasser war nicht tiefer geworden. Das Fahrzeug hatte lediglich aufgehört, sich selbst in den Grund zu drücken.
+
+„Es ist frei“, sagte Kruse.
+
+„Noch nicht“, erwiderte Joren.
+
+Er ließ erneut loten. Vier Fuß am Bug, drei am Heck. Der Boden blieb unter ihnen, aber er hielt nicht mehr fest. Joren gab Rask ein Zeichen.
+
+„Nun könnt Ihr die Pfähle an Land bringen.“
+
+Rask atmete aus. „Ihr habt einen eigenartigen Begriff von Reihenfolge.“
+
+„Ich habe einen üblichen Begriff von Schwimmen.“
+
+Der Leutnant wandte sich zu den Männern. Diesmal widersprach er nicht. Die Pfähle wurden mit Winden und Tauen an den Uferstreifen gezogen. Jeder einzelne war schwer genug, um mehrere Männer zum Fluchen zu bringen. Sie legten die Hölzer auf den Schlamm, setzten Rundhölzer darunter und rollten sie unter Mühe zu den bereits vorbereiteten Löchern.
+
+Joren half, obwohl seine Aufgabe beendet war. Er konnte ein auf Grund gelaufenes Fahrzeug nicht ansehen, ohne sich einzumischen; darin lag seine Stärke und zugleich eine Bindung, die er selten als solche bezeichnete. Das Handwerk verlangte Hilfe, bevor man über ihren Zweck nachdachte. Ein Mensch über Bord war zunächst ein Mensch über Bord. Erst später durfte man fragen, wer ihn geschickt hatte.
+
+Der Regen wurde dichter. Von der Küste her war das Land nur als fahle Linie zu erkennen. Zwischen den Pfählen hing Schaum. Je mehr Hölzer die Soldaten in den Schlamm brachten, desto deutlicher wurde die Absicht der Arbeit.
+
+Rask trat neben Joren. Sein Mantel war an der Schulter aufgerissen, und an seinem Handrücken klebte Blut von dem Nagel, der ihn festgehalten hatte.
+
+„Ihr seid noch immer derselbe“, sagte er.
+
+„Das bezweifle ich.“
+
+„Ihr seht zuerst auf das Fahrzeug und danach auf den Befehl.“
+
+„Ein Fahrzeug, das sinkt, befolgt keinen Befehl mehr.“
+
+„Ihr wisst, was ich meine.“
+
+Joren hob den Blick zu den Pfählen. „Ich weiß, was Ihr meint.“
+
+Rask ließ den Satz zwischen ihnen liegen. Seine Männer arbeiteten weiter. Einige waren Schweden, andere stammten offenbar aus den umliegenden Dörfern. Sie trugen dieselben nassen Mäntel, dieselben schweren Stiefel, dieselbe Erschöpfung. Nur die Art, wie sie auf Rasks Stimme reagierten, unterschied sie.
+
+„Die Sperre wird bis zum Abend geschlossen“, sagte Rask.
+
+Joren schwieg.
+
+„Nicht vollständig. Der tiefe Durchlass bleibt für die Kriegsschiffe offen. Die flachen Zufahrten werden mit Pfählen, Ketten und versenkten Balken unbrauchbar gemacht.“
+
+„Für wen?“
+
+Rask sah ihn ruhig an. „Für Fahrzeuge, die dort nichts zu suchen haben.“
+
+„Das waren bisher viele.“
+
+„Es sind Kriegszeiten.“
+
+„Das erklärt vieles. Es rechtfertigt nicht jedes Maß.“
+
+Rask wischte sich das Blut mit dem Daumen ab. „Ich bin nicht hier, um Rechtfertigungen zu verteilen. Ich habe einen Auftrag. Die schwedischen Fahrzeuge müssen geschützt werden, die dänischen dürfen nicht unbemerkt durch die Bodden kommen, und die Männer unter meinem Kommando müssen am Abend noch stehen können. Das ist der Umfang meiner Verantwortung.“
+
+Er sprach ohne Zorn. Gerade deshalb war es schwer, ihn als bloßen Schurken abzutun. Joren wusste, dass Rask die Namen seiner Soldaten kannte, ihre Stiefelgrößen vermutlich besser als ihre Herkunft. Er wusste auch, dass derselbe Mann die Fischer als Fähigkeiten betrachtete, die man anfordern konnte, sobald ein Engpass entstand.
+
+„Und die Leute hier?“, fragte Joren.
+
+„Sie leben an einer Küste, an der Krieg geführt wird.“
+
+„Das ist keine Antwort.“
+
+„Nein. Es ist eine Lage.“
+
+Die Arbeiter schleppten den nächsten Pfahl heran. Dierk Arndt, der am hinteren Ende angefasst hatte, rutschte im Schlamm aus und blieb auf einem Knie. Er lachte kurz, während Kruse ihm unter den Arm griff.
+
+„Der Boden hat mich nur begrüßt“, sagte Dierk.
+
+„Er wollte Euch behalten“, erwiderte Joren.
+
+„Dann hätte er wenigstens ein Dach anbieten müssen.“
+
+Rask sah zu Dierk. „Arndt. Ihr führt das Fahrzeug?“
+
+„Wenn es schwimmt.“
+
+„Es schwimmt wieder.“
+
+„Dann führe ich es.“
+
+Joren bemerkte, wie Dierk die Schulter ein wenig zurücknahm. Die Frage klang nebensächlich, doch sie war keine. Rask ordnete bereits zu, wer brauchbar war.
+
+„Ihr werdet heute noch mehrere Pfähle setzen“, sagte Rask.
+
+Dierk blickte zu Joren. Es war nur ein kurzer Blick, aber er enthielt die alte Gewohnheit, eine Einschätzung einzuholen. Joren hätte sagen können, dass Dierk gebraucht werde, dass die Arbeit gefährlich sei, dass die Ernte der Familien vom nächsten Fang abhänge. Er hätte ebenso sagen können, dass Rask niemanden fragte, ob eine Anforderung passend kam.
+
+„Wie lange?“, fragte Dierk.
+
+„Bis die Arbeit abgeschlossen ist.“
+
+„Das war nicht meine Frage.“
+
+Rask straffte den Mund. „Einige Tage.“
+
+„Einige?“
+
+„Wenige.“
+
+Dierk sah wieder zu Joren. Dieser spürte, wie sich in ihm etwas verschob, nicht dramatisch, eher wie ein Stein, der in einem Netz an einer neuen Stelle lag. Er hätte die Ungenauigkeit benennen müssen. Stattdessen sagte er:
+
+„Wenn Ihr die Leute ordentlich einteilt, kann es in wenigen Tagen getan sein.“
+
+Rask nickte, als hätte Joren die gewünschte Zahl bestätigt. „Das ist mein Plan.“
+
+Der Wind drehte. Das Fahrzeug stieß leicht gegen den Grund, kam aber wieder frei. Unter dem grauen Himmel sahen die Pfähle nun wie Zähne aus, die der Küste aus dem Wasser wuchsen.
+
+Joren kehrte an Bord zurück und überprüfte die Taue. Die Mannschaft wartete auf seine Anweisungen, obwohl Rask der Befehlshaber war. Joren löste die Leinen, brachte das Fahrzeug in einen tieferen Streifen und hielt es dort mit einem langen Staken. Die Arbeit ging weiter. Ein Pfahl nach dem anderen wurde herangeschafft, vermessen, angeschärft und über die Kante des Decks geschoben.
+
+„Hier ist der Grund weich“, sagte der junge Matrose.
+
+„Dann setzt den Pfahl nicht dort.“
+
+„Der Leutnant sagte—“
+
+„Der Leutnant braucht eine Sperre, keinen sinkenden Pfahl.“
+
+Der Junge sah zu Rask. Dieser war zu weit entfernt, um die Worte gehört zu haben, oder er tat so. Joren zeigte auf eine Stelle, an der das Wasser unruhiger lief.
+
+„Dort fällt der Grund ab. Zwei Fuß weiter westlich hält er besser.“
+
+„Woher wisst Ihr das?“
+
+„Weil das Wasser dort nicht lügt.“
+
+Der Matrose betrachtete die Oberfläche. „Das Wasser lügt?“
+
+„Nein. Die Menschen tun es. Das Wasser ist nur ungenau.“
+
+Der Junge lächelte trotz der Kälte. Joren wandte sich ab. Er hörte, wie die ersten Schläge des schweren Hammers einsetzten. Metall traf Holz, Holz traf Grund. Jeder Schlag trieb nicht nur einen Pfahl hinab, sondern verringerte die Zahl der Wege, auf denen die Küstenbewohner ihre Arbeit verrichten konnten.
+
+Er sagte sich, dass die Sperre nicht gegen sie gerichtet war. Sie war gegen feindliche Fahrzeuge bestimmt, gegen Landungen, gegen nächtliche Fahrten, gegen die Unordnung, die ein Krieg aus allen Richtungen brachte. Er sagte sich, dass offene Zufahrten noch vorhanden blieben. Er sagte sich, dass ein Mann wie Rask den Umfang seines Auftrags nicht überschreiten durfte.
+
+Doch die Pfähle standen dort, wo die Fischer ihre Netze ausbrachten.
+
+„Voss.“
+
+Rask kam über das Deck. Der Leutnant hatte den Mantel geschlossen und die Hand verbunden. In seiner Stimme lag nun die sachliche Ruhe eines Mannes, der zu einem zweiten Punkt seiner Liste gelangt war.
+
+„Ihr kennt den Haken besser als die Männer, die ich habe.“
+
+„Das ist möglich.“
+
+„Ich brauche eine Führung durch den äußeren flachen Bereich. Die Pfähle müssen so gesetzt werden, dass unsere eigenen Fahrzeuge noch passieren können.“
+
+Joren sah zu dem jungen Matrosen, der die nächste Lotung vorbereitete. „Ihr habt Karten.“
+
+„Karten zeigen den Grund von gestern. Ihr kennt den Grund von heute.“
+
+„Ich bin Lotse für die Küste, nicht für Eure Sperre.“
+
+„Ihr seid Lotse für das Wasser, auf dem mein Auftrag liegt.“
+
+Joren wischte sich mit dem Ärmel über das Gesicht. Der Stoff war bereits vollständig durchnässt. „Ihr wollt, dass ich Euch sage, wo Ihr den Zugang schließen müsst.“
+
+„Ich will, dass Ihr verhindert, dass wir uns selbst einschließen.“
+
+„Das ist ein Unterschied, den Ihr später bequem vergessen könnt.“
+
+Rask blickte nicht weg. „Dann schreibt ihn auf.“
+
+„Ihr habt keine Vollmacht, mir eine Anstellung zu geben.“
+
+„Ich gebe Euch keine Anstellung. Ich erbitte eine Leistung.“
+
+„Von wem?“
+
+„Von einem Mann, dessen Fahrzeug ich gerade vor dem Kentern bewahrt habe.“
+
+Joren spürte, wie der Satz auf die falsche Seite der Pflicht fiel. Rask sprach nicht drohend. Er erinnerte ihn an eine tatsächliche Abhängigkeit, und gerade diese Sachlichkeit machte die Sache unangenehm. Die Männer auf dem Arbeitsfahrzeug waren noch immer dort. Dierk führte das Fahrzeug. Kruse zog den nächsten Pfahl. Der junge Matrose wartete auf das Lot.
+
+„Wie lange?“, fragte Joren.
+
+„Bis die Sperre steht.“
+
+„Das war nicht meine Frage.“
+
+Rask verstand die Anspielung. „Zwei Tage. Vielleicht drei.“
+
+„Und danach?“
+
+„Danach seid Ihr frei.“
+
+„Schriftlich?“
+
+„Wenn Ihr das verlangt.“
+
+Joren sah über die Seite. Das Wasser bewegte sich um die Pfähle, teilte sich, vereinigte sich wieder. Eine Sperre war kein einzelnes Hindernis, sondern eine Behauptung über die Zukunft: Hier soll niemand hindurch, dort sollen die Eigenen passieren, und diese Unterscheidung müsse der Grund gefälligst bewahren.
+
+„Ihr habt die Männer aus den Dörfern bereits eingeteilt“, sagte Joren.
+
+„Noch nicht.“
+
+„Ihr habt Dierk gefragt.“
+
+„Ich habe geprüft, ob er brauchbar ist.“
+
+„Er ist kein Werkzeug.“
+
+Rasks Gesicht veränderte sich kaum. „Für diesen Auftrag ist seine Kenntnis eines Werkzeugs ähnlich.“
+
+„Das ist der Grund, weshalb Ihr mich braucht.“
+
+„Ja.“
+
+Der Wind trieb eine Böe über das Deck. Für einen Augenblick konnten beide Männer nichts sehen. Joren hörte nur das Schlagen der Taue, das Knarren des Holzes und den stumpfen Aufprall des Hammers. Als der Regen nachließ, standen die Pfähle noch immer da.
+
+Rask holte ein gefaltetes Blatt aus seinem Mantel. Das Papier war an den Kanten feucht, aber die Schrift blieb lesbar.
+
+„Hier ist die Anforderung“, sagte er. „Vier ortskundige Männer, ein Fahrzeug, Unterstützung bei der Setzung. Ihr könnt die geeigneten Männer benennen.“
+
+Joren nahm das Blatt nicht.
+
+„Und wenn ich keinen benenne?“
+
+„Dann benenne ich sie.“
+
+„Nach welchem Maß?“
+
+„Nach dem Maß, das mir zur Verfügung steht.“
+
+„Das ist kein Maß. Das ist ein Zugriff.“
+
+Rask ließ den Arm sinken. „Ihr verwechselt die Benennung mit der Verantwortung. Wenn Ihr die Männer auswählt, könnt Ihr verhindern, dass jemand mit schlechterem Wissen geschickt wird. Wenn ich auswähle, nehme ich die Namen, die mir zuerst genannt werden.“
+
+Joren wusste, dass dies stimmte. Er wusste ebenso, dass eine begrenzte Mitwirkung den Zugriff nicht aufhob. Sie machte ihn nur ordentlicher. Das war sein beruflicher Reflex: eine Gefahr verkleinern, auch wenn man sie nicht beseitigen konnte. Er hatte damit Fahrzeuge gerettet, Männer beruhigt und manche Entscheidung zu lange für vertretbar gehalten.
+
+„Welche Fahrzeuge bleiben Euch?“, fragte er.
+
+„Das Arbeitsfahrzeug und die Boote, die angefordert werden.“
+
+„Wie viele?“
+
+„So viele, wie notwendig sind.“
+
+„Notwendigkeit wächst, wenn man sie nicht begrenzt.“
+
+Rask sah ihn an. „Ihr seid nicht nur Lotse.“
+
+„Heute bin ich vor allem nass.“
+
+Zum ersten Mal zeigte sich in Rasks Gesicht etwas, das beinahe einem Lächeln glich. Es verschwand sofort.
+
+„Benennen Sie mir vier Männer.“
+
+Joren blickte zum Ufer. Dierk stand dort mit dem Hammer, Lene Arndt war nicht zu sehen, aber Joren dachte an den Haushalt, den sie führte, an das Boot, an die Netze, an Fiete, der alt genug war, um eine ausbleibende Rückkehr zu bemerken, aber zu jung, um ihre Gründe zu verstehen. Kruse konnte mit dem Fahrzeug umgehen. Ein weiterer Mann musste Erfahrung mit flachem Grund haben. Die Auswahl war eine Rechnung, bei der jede Zahl ein Gesicht trug.
+
+„Dierk Arndt“, sagte Joren schließlich. „Kruse. Den alten Möller nicht, er kann den Fuß nicht mehr lange belasten. Nehmt stattdessen Hannes Tamm. Und für das vierte Boot—“
+
+„Es gibt nur ein Fahrzeug.“
+
+„Noch.“
+
+Rask faltete das Blatt wieder. „Ihr habt zwei Tage.“
+
+„Ihr habt zwei Tage versprochen.“
+
+„Ich habe gesagt, dass der Bedarf voraussichtlich zwei oder drei Tage dauert.“
+
+„Nein. Ihr habt gesagt, wenige Tage.“
+
+„Das ist dasselbe.“
+
+„Nur für den, der nicht warten muss.“
+
+Rask steckte das Papier ein. „Ihr kommt morgen bei Tagesanbruch. Ihr führt die Pfähle an den tiefen Stellen vorbei und zeigt, wo die Sperre geschlossen werden kann, ohne unsere Fahrzeuge festzusetzen.“
+
+„Und wenn ich nicht komme?“
+
+„Dann wird jemand anderes loten.“
+
+„Mit welchem Ergebnis?“
+
+„Mit einem schlechteren, möglicherweise.“
+
+Joren wandte sich ab. Er hätte das Blatt nehmen sollen. Eine schriftliche Anforderung war wenigstens ein Gegenstand, den man später vorzeigen konnte. Doch Papier bewies nicht, dass ein Boot zurückkehrte. Es bewies nur, dass jemand einen Namen eingetragen hatte.
+
+Rask ging zum Ufer zurück. Die Soldaten schleppten den letzten Pfahl. Dierk setzte den Hammer an und sah zu Joren herüber. Joren hob die Hand, eine knappe Bewegung, die beruhigen sollte. Dierk nickte.
+
+Er glaubte ihm.
+
+Das war der Teil, den Joren am wenigsten mochte. Nicht, dass Dierk ihm vertraute, sondern dass Joren wusste, wie leicht dieses Vertrauen in eine Zusage überging, die er selbst nicht geben konnte.
+
+Am späten Nachmittag war der erste Abschnitt der Sperre gesetzt. Die Pfähle standen in einer schiefen Reihe, zwischen ihnen hingen Ketten, und unter der Wasseroberfläche lagen die schweren Balken, die das Arbeitsfahrzeug gebracht hatte. Der Zugang war nicht vollständig versperrt. Er war lediglich so verändert, dass jeder, der ihn kannte, zweimal überlegen musste.
+
+Joren blieb am Rand des Hakens stehen. Sein eigenes Fahrzeug lag weiter draußen, dort, wo der Grund zuverlässig genug war. Er konnte zurückfahren, zu Else, zu Maren, zum warmen Herd und den nassen Kleidern, die sie ihm mit einem Blick vorwerfen würde. Er konnte sagen, er habe geholfen, weil Männer in Gefahr gewesen seien. Das war wahr.
+
+Er konnte auch sagen, dass die Arbeit notwendig gewesen sei. Das war eine Meinung, keine Wahrheit.
+
+Rask trat neben ihn. „Morgen früh.“
+
+„Ich habe es gehört.“
+
+„Ihr werdet gebraucht.“
+
+Joren betrachtete die Pfähle. „Das ist nicht immer ein gutes Zeichen.“
+
+„Für mich schon.“
+
+„Für Euch vielleicht.“
+
+Rask sah hinaus auf das Wasser. „Wir können nicht wählen, welche Mittel uns zur Verfügung stehen.“
+
+„Nein.“
+
+„Wir können nur entscheiden, ob wir sie brauchbar einsetzen.“
+
+Joren dachte an das Tau, das der junge Matrose im falschen Augenblick hätte lösen können. An den Sand unter dem Heck. An die Pfähle, die nun fest im Grund standen. Ein einziger Handgriff hatte das Kentern verhindert, ein anderer hätte es herbeigeführt. So einfach war die Seemannschaft, wenn man sie auf den Augenblick verkürzte. Schwieriger wurde sie, sobald man fragte, wohin das gerettete Fahrzeug danach fuhr.
+
+„Morgen“, sagte Joren.
+
+Rask nickte und ging.
+
+Joren stieg in sein Boot. Der Wind hatte nachgelassen, doch das Wasser blieb unruhig. Als er ablegte, glitt der Kiel an der neuen Pfahlreihe vorbei, nur eine Bootslänge entfernt. Er musste den Kurs korrigieren, um nicht an der Kette entlangzuschrammen.
+
+Am Ufer standen die Arbeiter noch immer. Dierk hob den Arm. Joren erwiderte den Gruß.
+
+Dann fuhr er in Richtung Thiessow, während hinter ihm die Sperre im grauen Wasser wuchs, Pfahl um Pfahl, und jeder neue Widerstand aussah wie eine Hilfe für den, der ihn setzte.
+
+---
+
+## Drei Hände auf einem Blatt
+
+> „Was dem einen sein Recht, ist dem andern sein Unrecht.“  
+> — Sprichwort der Insel Rügen, aufgezeichnet um 1700
+
+Der Morgen lag grau über Middelhagen, als hätte jemand die Farbe aus dem Himmel gewaschen. Maren Voss trat aus dem Küsterhaus und blinzelte in das fahle Licht, das durch die Wolken drang wie durch ein altes Tuch. Der Geruch von nassem Holz und Tang hing in der Luft, vermischt mit dem süßlichen Rauch der Torffeuer, die aus den Kaminen der niedrigen Häuser aufstiegen. Sie trug einen Stapel loser Blätter unter dem Arm, die sie sorgfältig gegen den Wind abschirmte, und ihr Atem stand in kleinen Wolken vor ihrem Gesicht.
+
+Am Ende des Weges, dort, wo die Wiese in den flachen Uferstreifen überging, standen bereits sechs oder sieben Männer beieinander. Ihre Stimmen waren nicht laut, aber sie trugen über die Entfernung, und Maren hörte die Schärfe darin, bevor sie die Worte verstand. Sie kannte diesen Ton. Es war der Ton, der entstand, wenn zwei Haushalte glaubten, dasselbe Stück Land zu besitzen, und keiner bereit war, die eigene Erinnerung gegen ein Stück Papier einzutauschen.
+
+„Es ist mein Platz“, sagte Jürgen Klook, ein hagerer Mann mit einem Gesicht wie aus getrocknetem Leder. Er stand breitbeinig auf dem schmalen Streifen zwischen Wasser und Gras, die Arme verschränkt, als könnte sein Körper allein den Anspruch beweisen. „Mein Vater hat hier seine Netze getrocknet, sein Vater davor, und dessen Vater. Das weiß jeder.“
+
+„Jeder weiß es, aber keiner hat es aufgeschrieben“, erwiderte Hannes Tamm, der jüngere der beiden Brüder, die den Hof am südlichen Ende des Dorfes bewirtschafteten. Er war größer als Klook, aber schmaler, und seine Hände steckten tief in den Taschen seines Rockes, als müsse er sie zurückhalten. „Und weil keiner es aufgeschrieben hat, kann jeder behaupten, was er will. Meine Familie hat hier gelegen, als Euer Vater noch in Göhren auf dem Markt stand und Fische verkaufte, die er nicht gefangen hatte.“
+
+Die Männer murmelten. Einer lachte, aber es war kein fröhliches Lachen. Es war das Lachen, das entsteht, wenn jemand etwas Wahres gesagt hat, das besser ungesagt geblieben wäre.
+
+Maren blieb am Rand der Gruppe stehen. Sie kannte diese Männer seit ihrer Kindheit. Sie hatte mit ihren Söhnen im flachen Wasser gestanden und Muscheln gesammelt, sie hatte ihnen Brot gebracht, wenn sie im Winter mit steifen Fingern ihre Netze flickten, und sie hatte für einige von ihnen Briefe geschrieben, die sie nicht selbst verfassen konnten. Aber in diesem Augenblick waren sie Fremde, jeder für sich, und sie sprachen über einen Streifen Sand und Schlick, als ginge es um ihr Seelenheil.
+
+„Es gibt eine Abschrift“, sagte Maren.
+
+Die Männer drehten sich zu ihr um. Klooks Augenbraue hob sich, eine langsame, verächtliche Bewegung. „Eine Abschrift“, wiederholte er. „Was für eine Abschrift?“
+
+„Aus dem alten Ufervermerk“, sagte Maren. Sie hielt die Blätter hoch, aber niemand trat näher, um sie zu lesen. „Er liegt im Küsterhaus. Er beschreibt, welche Haushalte den Streifen traditionell genutzt haben. Nicht als Eigentum, sondern als Gewohnheit.“
+
+„Gewohnheit“, sagte Klook, und das Wort klang in seinem Mund wie ein Fluch. „Wir haben hier gearbeitet, bevor Euer Küster das Lesen gelernt hat, Mädchen. Und Ihr wollt mir erzählen, dass ein Stück Papier mehr zählt als drei Generationen Arbeit?“
+
+Maren spürte, wie die Hitze in ihre Wangen stieg. Sie war es gewohnt, dass man ihre Lesekunst bewunderte, solange sie Briefe verfasste oder Rechnungen prüfte. Aber sobald sie mit dem Ergebnis dieser Kunst die Überzeugungen der Männer in Frage stellte, wurde aus Bewunderung Misstrauen, und aus Misstrauen wurde etwas, das sie nicht benennen wollte.
+
+„Ich erzähle Euch gar nichts“, sagte sie, und ihre Stimme war ruhiger, als sie sich fühlte. „Ich sage nur, was in dem Vermerk steht. Wenn Ihr glaubt, dass Eure Erinnerung genauer ist, dann müsst Ihr das beweisen. Vor Gericht. Oder gegenüber dem Landvogt. Nicht gegenüber mir.“
+
+Tamm sah sie an, und in seinem Blick lag etwas wie Erleichterung. „Das ist es ja“, sagte er. „Wir können nicht zum Landvogt gehen. Wir können nicht vor Gericht. Wir haben nichts als unsere Erinnerung. Und jetzt kommt eine Abschrift, die sagt, dass unsere Erinnerung nicht genug ist.“
+
+Maren wollte antworten, aber sie wusste, dass er recht hatte. Die Abschrift war kein Beweis. Sie war ein Schatten eines Beweises, eine Kopie einer Kopie, angefertigt von einem Schreiber, der die Verhältnisse vor Ort nicht gekannt hatte. Und dennoch war sie das Einzige, was sie hatte.
+
+„Ich werde den Vermerk noch einmal prüfen“, sagte sie. „Vielleicht gibt es eine zweite Abschrift. Vielleicht steht mehr darin, als ich beim ersten Lesen gesehen habe.“
+
+Klook schnaubte. „Prüfen“, sagte er. „Ihr könnt prüfen, soviel Ihr wollt. Der Platz bleibt mein.“
+
+Er drehte sich um und ging, ohne sich noch einmal umzusehen. Die anderen Männer zerstreuten sich langsam, einer nach dem anderen, bis nur noch Tamm stehen blieb. Er sah Maren an, und in seinem Gesicht lag keine Feindseligkeit mehr, sondern etwas Müdes.
+
+„Ihr habt es gut gemeint“, sagte er. „Aber gut gemeint ist nicht dasselbe wie gut gemacht.“
+
+„Das weiß ich“, sagte Maren.
+
+„Und was werdet Ihr tun?“
+
+Sie sah auf die Blätter in ihrer Hand. Die Tinte war verblasst, die Ränder ausgefranst, und an einer Stelle war ein Wasserfleck, der die Buchstaben verwischt hatte. Ein Dokument, das älter war als jeder der Männer, die eben gestritten hatten, und dennoch so zerbrechlich, dass ein einziger Tropfen es hätte auslöschen können.
+
+„Ich werde es herausfinden“, sagte sie.
+
+---
+
+Das Küsterhaus lag am östlichen Rand des Dorfes, halb versteckt hinter einer Hecke aus wildem Holunder, deren Beeren noch grün und hart an den Zweigen hingen. Es war ein niedriges Gebäude mit einem Reetdach, das an einer Stelle notdürftig mit Torf ausgebessert war, und einem einzigen Fenster, das auf die Straße hinausging. Im Inneren war es immer kühl, selbst im Sommer, und roch nach altem Papier, Wachs und dem trockenen Staub, der sich in den Ritzen der Regale sammelte.
+
+Laurenz Benthin saß an seinem Tisch, den Rücken zum Fenster, und hielt ein Pergament gegen das Licht, das durch die Butzenscheiben fiel. Er war ein kleiner Mann mit runden Schultern und einem Gesicht, das aussah, als hätte es zu viele Winter gesehen, ohne sich jemals ganz zu erwärmen. Seine Finger waren sauber, aber die Nägel abgenutzt, und wenn er las, bewegten sich seine Lippen lautlos mit.
+
+„Da bist du ja“, sagte er, ohne aufzusehen. „Ich habe gehört, was am Ufer geschehen ist.“
+
+„Ihr habt es gehört.“ Maren trat näher und legte die Blätter auf den Tisch. „Klook will nicht einmal zuhören. Er sagt, sein Vater und sein Großvater hätten dort gearbeitet, und damit sei die Sache entschieden.“
+
+Benthin legte das Pergament beiseite, langsam, mit der Sorgfalt eines Mannes, der wusste, dass jede unbedachte Bewegung ein Stück Geschichte zerstören konnte. „Klooks Vater hat dort gearbeitet“, sagte er. „Das ist wahr. Aber Tamm hat auch dort gearbeitet. Und die Familie Kruse. Und die Familie Rieck, bevor sie nach Göhren gezogen ist. Der Uferstreifen war nie Eigentum eines Einzelnen. Er war Gemeinschaftsland, das nach Gewohnheit genutzt wurde.“
+
+„Und was bedeutet das?“
+
+„Dass niemand ihn besitzt“, sagte Benthin. „Und dass jeder ihn nutzen darf, solange er die anderen nicht daran hindert, es ihm gleichzutun. Das ist der alte Brauch. Aber der alte Brauch steht nicht im Vermerk. Der Vermerk beschreibt nur, wer den Streifen wann genutzt hat. Er beschreibt nicht, was daraus folgt.“
+
+Maren setzte sich auf den Hocker, der neben dem Tisch stand, und zog die Blätter zu sich heran. Sie kannte sie auswendig. Sie hatte sie abgeschrieben, dreimal, weil Benthin darauf bestanden hatte, dass jede Kopie mit der Vorlage verglichen wurde, und weil sie selbst nicht ruhen konnte, solange ein Buchstabe nicht stimmte. Aber jetzt las sie sie noch einmal, langsamer, und suchte nach dem, was sie beim ersten Mal übersehen hatte.
+
+Der Ufervermerk war in einer alten Kanzleischrift verfasst, die Mühe machte, sie zu entziffern. Er beschrieb die Grenzen des Dorfes, die Rechte der Bewohner, die Pflichten gegenüber dem Landesherrn. Und dann, in einem Absatz, der fast versteckt zwischen zwei längeren Passagen stand, fand sie den Satz, den sie gesucht hatte.
+
+„Die Bewohner von Middelhagen haben den Streifen am Wasser, genannt der flache Ort, seit unvordenklichen Zeiten genutzt, um ihre Netze zu trocknen, ihre Boote auszubessern und ihre Fänge zu teilen. Dies ist ihnen nicht zu verwehren, solange sie den Frieden untereinander wahren und die Abgaben an die Herrschaft entrichten.“
+
+Sie las den Satz zweimal. Dann sah sie Benthin an.
+
+„Solange sie den Frieden untereinander wahren“, wiederholte sie. „Das bedeutet, dass der Streifen ihnen gehört, solange sie sich einig sind. Aber wenn sie sich streiten, dann...“
+
+„Dann fällt das Recht an den zurück, der es verleiht“, sagte Benthin. „An die Herrschaft. An den Landesherrn. An den, der die Abgaben empfängt.“
+
+Maren legte die Blätter hin. „Das ist kein Recht“, sagte sie. „Das ist eine Falle.“
+
+Benthin nickte, langsam, und in seinem Gesicht lag etwas wie Erschöpfung. „So ist es mit vielen alten Dokumenten“, sagte er. „Sie sehen aus wie ein Geschenk, aber wenn man genauer hinsieht, sind sie ein Vertrag, den jemand anderes geschrieben hat. Die Mönche, die den Vermerk angelegt haben, wollten die Nutzung ordnen. Aber sie wollten auch sicherstellen, dass die Ordnung ihnen nicht entglitt. Deshalb haben sie den Frieden zur Bedingung gemacht. Denn Frieden kann jederzeit gebrochen werden, und wer ihn bricht, verliert sein Recht.“
+
+„Und wer entscheidet, ob der Frieden gebrochen ist?“
+
+„Der, der die Abgaben empfängt.“
+
+Maren schwieg. Sie dachte an Klook, der auf dem Uferstreifen stand und seine Arme verschränkte, als könnte er die Zeit aufhalten. Sie dachte an Tamm, der nicht zum Landvogt gehen konnte, weil er nichts als seine Erinnerung hatte. Und sie dachte an die Männer, die schweigend zugesehen hatten, jeder in der stillen Hoffnung, dass der Streit der anderen ihm selbst einen Vorteil bringen würde.
+
+„Ich muss nach Eldena“, sagte sie.
+
+Benthin sah auf. „Eldena?“
+
+„Das Kloster. Die Abschrift, die wir haben, ist unvollständig. Vielleicht gibt es dort eine ältere Version. Eine, die den Frieden nicht zur Bedingung macht. Oder eine, die genauer beschreibt, was mit dem Streifen geschehen soll, wenn die Bewohner sich nicht einig sind.“
+
+Benthin strich mit der Hand über das Pergament auf dem Tisch, eine langsame, fast zärtliche Bewegung. „Eldena ist weit“, sagte er. „Und die Zeiten sind nicht gut für Reisen. Die Schweden kontrollieren die Küste, die Dänen das Wasser, und dazwischen liegen die, die nichts kontrollieren und alles verlieren.“
+
+„Ich weiß“, sagte Maren. „Aber wenn ich nichts tue, dann wird Klook den Streifen für sich beanspruchen, und Tamm wird es nicht hinnehmen, und am Ende werden sie sich vor dem Landvogt streiten, und der Landvogt wird entscheiden, dass der Streifen der Herrschaft gehört, weil die Bewohner den Frieden gebrochen haben. Und dann haben sie alle verloren.“
+
+Benthin sah sie lange an. Dann seufzte er, ein leises, trockenes Geräusch, das klang wie das Rascheln eines alten Blattes.
+
+„Du klingst wie dein Vater“, sagte er.
+
+„Ist das ein Vorwurf?“
+
+„Nein“, sagte Benthin. „Es ist eine Feststellung. Dein Vater geht aufs Wasser, wenn andere zögern. Du gehst in die Archive, wenn andere aufgeben. Das ist dieselbe Ungeduld, nur mit anderen Mitteln.“
+
+Maren stand auf. „Ich werde mit ihm sprechen“, sagte sie. „Er kennt die Route nach Eldena. Er kann mich begleiten.“
+
+„Und wer kümmert sich um das Küsterhaus, während du fort bist?“
+
+„Ihr“, sagte Maren, und zum ersten Mal an diesem Morgen lächelte sie. „Ihr habt es schließlich auch ohne mich gekonnt, bevor ich geboren wurde.“
+
+Benthin schüttelte den Kopf, aber in seinen Augen lag etwas wie Wärme. „Geh“, sagte er. „Aber nimm die Abschrift mit. Und eine zweite Kopie. Für den Fall, dass die erste verloren geht.“
+
+„Für den Fall, dass die erste verloren geht“, wiederholte Maren. Sie wusste, dass er nicht von Wasser oder Wind sprach. Er sprach von Feuer, von Diebstahl, von den kleinen Katastrophen, die ein einzelnes Blatt Papier vernichten konnten, während die Erinnerung der Männer weiterlebte, ungenau und unzerstörbar.
+
+Sie rollte die Blätter zusammen und steckte sie in die Tasche ihres Rockes. Dann trat sie hinaus in den grauen Morgen, der noch immer nicht beschlossen hatte, ob er Regen oder Sonne bringen sollte.
+
+---
+
+Der Strand lag still unter dem hohen Himmel, das Wasser grau und glatt wie Zinn. Thies Arndt stand neben der „Hoffnung“, die auf dem flachen Sand lag, Kiel nach oben, und strich mit der Hand über die Planken, als könnte er fühlen, wo das Holz müde war. Sein Werkzeug lag neben ihm im Sand, ordentlich aufgereiht: ein Beil, ein Stemmeisen, ein Hammer, eine Handvoll Nägel in einem Lederbeutel. Er trug ein Hemd, dessen Ärmel er hochgerollt hatte, und seine Unterarme waren braun von der Sonne, die in den letzten Wochen selten geworden war.
+
+Maren blieb am Rand der Düne stehen und sah ihm eine Weile zu. Sie kannte die Art, wie er arbeitete. Er sprach nicht viel dabei, aber seine Hände sprachen für ihn, und wenn er ein Stück Holz prüfte, dann tat er es mit einer Aufmerksamkeit, die sie an Benthin erinnerte, wenn er ein Pergament las. Es war dieselbe Sorgfalt, nur auf ein anderes Material gerichtet.
+
+„Du stehst schon eine Weile dort“, sagte Thies, ohne aufzusehen. „Willst du mir beim Kiel helfen, oder willst du nur zusehen?“
+
+Maren ging die Düne hinunter, und der Sand war kalt unter ihren Schuhen. „Ich wollte mit dir sprechen“, sagte sie.
+
+„Das tust du ja.“ Er richtete sich auf und wischte sich die Hände an der Hose ab. Sein Gesicht war schmal, die Augenbrauen dunkel, und um die Augen hatte er feine Linien, die vom Lachen kamen, nicht vom Alter. „Was gibt es?“
+
+„Ich muss nach Eldena“, sagte Maren. „Wegen des Ufervermerks. Es gibt eine Unklarheit, und ich muss sie klären, bevor die Männer sich gegenseitig die Köpfe einschlagen.“
+
+Thies sah sie an, und in seinem Blick lag etwas, das sie nicht sofort einordnen konnte. Es war nicht Überraschung, nicht Ablehnung. Es war eher das, was man in den Augen eines Mannes sieht, der weiß, dass eine Reise gefährlich ist, und der dennoch weiß, dass er sie nicht verhindern kann.
+
+„Eldena“, sagte er. „Das ist weit.“
+
+„Das hat Benthin auch gesagt.“
+
+„Benthin hat recht.“ Thies bückte sich und hob einen Nagel auf, der ihm aus dem Beutel gefallen war. Er drehte ihn zwischen den Fingern, als könnte er darin eine Antwort finden. „Und wer begleitet dich?“
+
+„Mein Vater“, sagte Maren. „Er kennt die Route. Er hat die Erlaubnis für die Durchfahrt.“
+
+Thies nickte, langsam. „Joren“, sagte er. „Natürlich.“ Er steckte den Nagel zurück in den Beutel und richtete sich wieder auf. „Und was soll ich tun, während du fort bist?“
+
+„Du sollst die ‚Hoffnung‘ fertig machen“, sagte Maren. „Und ein Auge auf Lene haben. Sie ist wegen Dierk besorgt. Er ist seit zwei Tagen fort, und sie hat keine Nachricht von ihm.“
+
+Thies' Gesicht veränderte sich kaum, aber Maren sah, wie sich seine Kiefermuskeln spannten. „Dierk ist bei der Sperre“, sagte er. „Das hat Joren arrangiert.“
+
+„Ja“, sagte Maren. „Und Joren sagt, es sei eine kurze Sache. Ein paar Tage Arbeit, dann kommen sie zurück.“
+
+„Joren sagt viel“, sagte Thies, und in seiner Stimme lag etwas, das Maren nicht gefiel. Es war nicht Zorn, nicht Vorwurf. Es war eher eine leise Resignation, die Art von Resignation, die entsteht, wenn man jemanden kennt und weiß, dass er es gut meint, und dennoch weiß, dass gut meinen nicht immer gut machen bedeutet.
+
+„Was willst du damit sagen?“, fragte Maren.
+
+Thies sah auf das Wasser hinaus, das grau und still lag, als hätte es keine Geheimnisse. „Ich sage nur, dass Joren dazu neigt, die Dinge in die Hand zu nehmen“, sagte er. „Und dass er dabei manchmal vergisst, dass andere Hände auch etwas halten wollen.“
+
+Maren wollte antworten, aber in diesem Moment hörten sie Schritte auf der Düne. Lene kam den Pfad herunter, einen Korb am Arm, in dem ein Fisch lag, silbern und steif, und ihr Gesicht war blasser als sonst. Sie ging langsamer als gewöhnlich, als trüge sie etwas Schweres, und als sie näher kam, sah Maren, dass ihre Augen gerötet waren.
+
+„Lene“, sagte Maren. „Was ist geschehen?“
+
+Lene blieb stehen, zwei Schritte von ihnen entfernt, und sah erst Maren an, dann Thies, dann wieder Maren. Sie öffnete den Mund, aber es dauerte einen Moment, bis sie sprach.
+
+„Ein Bote war da“, sagte sie. „Von der Sperre. Von Dierk.“ Sie hielt inne und schluckte. „Er hat sich den Fuß verletzt. Eine Last ist verrutscht. Sie haben ihn nicht zurückgebracht. Sie sagen, er kann nicht laufen, und sie brauchen ihn dort.“
+
+Thies trat einen Schritt vor. „Was heißt, sie brauchen ihn dort? Er kann nicht laufen.“
+
+„Sie sagen, sie haben zu wenige Männer“, sagte Lene, und ihre Stimme zitterte, aber sie weinte nicht. „Sie sagen, er kann sitzen und die Taue halten. Sie sagen, es sei nicht so schlimm. Aber sie sagen auch, sie wissen nicht, wann er zurückkommt.“
+
+Maren spürte, wie ihr kalt wurde. Sie dachte an Joren, der am Abend zuvor zurückgekehrt war, erschöpft und schweigsam, und der gesagt hatte, alles sei in Ordnung. Sie dachte an die Zusage, die er gegeben hatte, die Zusage, dass die Männer in wenigen Tagen zurück sein würden. Und sie dachte an Rask, an den Mann mit dem ruhigen Gesicht und der kühlen Stimme, der nicht gelogen hatte, aber auch nicht die ganze Wahrheit gesagt hatte.
+
+„Ich gehe zu ihm“, sagte Thies. „Ich fahre zur Sperre und sehe nach, was mit Dierk ist.“
+
+„Das kannst du nicht“, sagte Lene. „Die Durchfahrt ist gesperrt. Du brauchst eine Erlaubnis.“
+
+„Dann hole ich eine Erlaubnis“, sagte Thies. „Joren kann sie besorgen. Er kennt Rask.“
+
+Lene sah ihn an, und in ihrem Blick lag etwas wie Hoffnung, aber auch etwas wie Misstrauen. „Joren“, sagte sie. „Joren hat Dierk ausgewählt. Er hat gesagt, es sei eine kurze Sache.“
+
+„Das hat er gesagt“, sagte Thies. „Und vielleicht hat er es geglaubt.“
+
+Maren trat zwischen die beiden. „Hört auf“, sagte sie. „Es hilft Dierk nicht, wenn wir uns gegenseitig Vorwürfe machen. Wir müssen handeln.“
+
+Lene sah sie an. „Handeln“, sagte sie. „Was willst du tun? Zum Landvogt gehen? Zum Kloster? Die Männer am Ufer streiten über einen Streifen Sand, während mein Mann mit einem verletzten Fuß auf einem fremden Fahrzeug liegt und nicht weiß, ob er jemals zurückkommt.“
+
+Maren spürte, wie die Worte sie trafen, aber sie ließ sich nicht beirren. „Ich gehe nach Eldena“, sagte sie. „Ich kläre den Ufervermerk. Und wenn ich zurückkomme, dann klären wir, was mit Dierk geschehen ist.“
+
+Lene sah sie lange an. Dann nickte sie, langsam, und in ihrem Gesicht lag etwas wie Erschöpfung, aber auch etwas wie Entschlossenheit. „Dann geh“, sagte sie. „Aber geh schnell. Denn wenn du zu lange fort bist, dann wird Klook den Streifen für sich beanspruchen, und Tamm wird es nicht hinnehmen, und wenn sie sich streiten, dann wird der Landvogt entscheiden, dass der Streifen der Herrschaft gehört. Und dann haben wir alle verloren.“
+
+Maren sah sie an, und in diesem Augenblick wusste sie, dass Lene recht hatte. Die Reise nach Eldena war nicht nur eine Reise zu einem alten Kloster. Sie war eine Reise zu einem alten Versprechen, das niemand mehr halten konnte, und zu einer Wahrheit, die vielleicht nie existiert hatte.
+
+„Ich gehe morgen früh“, sagte sie. „Mit meinem Vater.“
+
+Thies sah sie an, und in seinem Blick lag etwas, das sie nicht benennen wollte. Es war nicht Liebe, nicht Zorn, nicht Sorge. Es war eher das, was man in den Augen eines Mannes sieht, der weiß, dass eine Frau fortgeht, und der dennoch weiß, dass er sie nicht halten kann.
+
+„Dann geh“, sagte er. „Aber nimm die Abschrift mit. Und eine zweite Kopie. Für den Fall, dass die erste verloren geht.“
+
+Maren sah ihn an, und zum ersten Mal an diesem Tag lächelte sie. „Das hat Benthin auch gesagt“, sagte sie.
+
+„Dann hat Benthin recht“, sagte Thies, und in seiner Stimme lag etwas wie Wärme, das sie nicht erwartet hatte. „Und du solltest auf ihn hören. Wenigstens einer von uns sollte das tun.“
+
+Lene sah zwischen den beiden hin und her, und in ihrem Gesicht lag etwas wie Verständnis, aber auch etwas wie Trauer. Sie wusste, was zwischen Maren und Thies stand, auch wenn es nie ausgesprochen worden war. Sie wusste, dass es eine Vertrautheit gab, die älter war als die Worte, und eine Nähe, die noch nicht eingelöst war. Und sie wusste, dass eine Reise nach Eldena diese Nähe auf eine Probe stellen würde, die niemand vorhersehen konnte.
+
+„Ich gehe zurück zum Haus“, sagte Lene. „Fiete wartet. Und der Fisch muss ausgenommen werden.“
+
+Sie drehte sich um und ging den Pfad hinauf, langsamer als gewöhnlich, als trüge sie etwas Schweres. Maren sah ihr nach, und in ihrem Inneren regte sich etwas, das sie nicht benennen wollte. Es war nicht Schuld, nicht Mitleid. Es war eher das, was man fühlt, wenn man weiß, dass eine Entscheidung gefallen ist, und dass sie nicht mehr rückgängig gemacht werden kann.
+
+Thies trat neben sie. „Sie hat recht“, sagte er. „Du musst schnell gehen.“
+
+„Ich weiß“, sagte Maren.
+
+„Und du musst vorsichtig sein“, sagte Thies. „Die Zeiten sind nicht gut für Reisen. Die Schweden kontrollieren die Küste, die Dänen das Wasser, und dazwischen liegen die, die nichts kontrollieren und alles verlieren.“
+
+Maren sah ihn an. „Das hat Benthin auch gesagt“, sagte sie.
+
+„Dann hat Benthin recht“, sagte Thies, und in seiner Stimme lag etwas wie Wärme, das sie nicht erwartet hatte. „Und du solltest auf ihn hören. Wenigstens einer von uns sollte das tun.“
+
+Maren lächelte, aber es war kein fröhliches Lächeln. Es war das Lächeln, das entsteht, wenn man weiß, dass jemand recht hat, und dass es dennoch nichts ändert.
+
+„Ich gehe morgen früh“, sagte sie. „Mit meinem Vater.“
+
+Thies nickte. Dann bückte er sich und hob den Hammer auf, der neben der „Hoffnung“ im Sand lag. Er wog ihn in der Hand, als könnte er darin eine Antwort finden. Aber der Hammer war nur ein Hammer, und die Antwort lag nicht in ihm.
+
+„Dann geh“, sagte er. „Aber nimm die Abschrift mit. Und eine zweite Kopie. Für den Fall, dass die erste verloren geht.“
+
+Maren sah ihn an, und in diesem Augenblick wusste sie, dass sie ihn verlassen würde, und dass sie dennoch bleiben würde, auf eine Weise, die sie nicht erklären konnte. Sie wusste, dass die Reise nach Eldena nicht nur eine Reise zu einem alten Kloster war. Sie war eine Reise zu einem alten Versprechen, das niemand mehr halten konnte, und zu einer Wahrheit, die vielleicht nie existiert hatte.
+
+Sie drehte sich um und ging den Pfad hinauf, ohne sich noch einmal umzusehen. Der Wind hatte nachgelassen, und das Wasser lag still unter dem grauen Himmel, als hätte es keine Geheimnisse. Aber Maren wusste, dass das Wasser Geheimnisse hatte, und dass sie tiefer lagen als der Grund, den die Fischer kannten.
+
+---
+
+## Hinüber
+
+> »Der Bodden ist kein Meer«, pflegte der alte Lotsenmeister zu sagen. »Ein Meer vergisst dich. Der Bodden nicht. Der Bodden behält jeden Kiel, jedes Ruderblatt, jede Hand, die ihn berührt hat.« – Mündliche Überlieferung der Lotsen von Thiessow, aufgezeichnet 1714.
+
+Der Wind kam aus Nordwest, frisch und ohne Wärme, ein Wind, der die Haut unter dem Kragen kalt werden ließ, bevor er überhaupt richtig ankam. Joren Voss saß am Ruder der Möwe und hielt den Blick auf das Wasser gerichtet, das in kurzen, harten Stößen gegen den Bug schlug. Die Jolle hob sich, fiel, hob sich wieder, und jedes Mal ging ein feiner Sprühregen über das Dollbord, der die Hände nach kurzer Zeit salzig und steif machte.
+
+Maren saß vorn, das Gesicht halb abgewandt, den Kragen hochgeschlagen. Sie hatte die Abschrift in ein geöltes Tuch gewickelt und unter die Bank geschoben, wo das Wasser sie nicht erreichen konnte. Sie sprach nicht, und Joren war dankbar dafür, denn das Sprechen auf dem Wasser war mühsam, und das Schweigen hatte seine eigene Ordnung. Der Dunst lag in langen Streifen über dem Bodden, als hätte jemand graue Tücher über das Wasser gelegt und vergessen, sie wieder fortzunehmen. Die Küste von Mönchgut war schon nach wenigen Minuten verschwunden, nicht weil sie weit entfernt war, sondern weil die Sicht sie verschluckte, lautlos und vollständig.
+
+»Du bist zu weit westlich«, sagte Maren.
+
+Joren sah sie an. Sie hatte sich nicht umgedreht, aber ihre Stimme war klar und ruhig, als hätte sie den Kurs nicht geschätzt, sondern gewusst. Sie hatte recht. Er war ein wenig zu weit westlich, vielleicht zehn Grad, und die Strömung vor dem Zickerschen Ufer würde ihn weiter abtreiben, wenn er nicht korrigierte.
+
+»Ich weiß«, sagte er und legte das Ruder ein wenig nach Steuerbord. »Ich wollte die Sandbank umfahren, nicht auf ihr reiten.«
+
+»Die Sandbank liegt weiter östlich«, sagte Maren. »Du fährst auf die Untiefe bei Lobbe zu.«
+
+Joren schwieg. Sie hatte recht, und er wusste es, aber er sagte es nicht. Es war nicht Stolz, was ihn davon abhielt. Es war eher die Gewohnheit, auf dem Wasser das letzte Wort zu behalten, auch wenn das letzte Wort falsch war. Er korrigierte den Kurs, ohne es zuzugeben, und Maren sagte nichts mehr. Das war ihre Art, und es war seine.
+
+Sie fuhren eine Weile schweigend. Der Wind nahm ein wenig zu, und die Möwe begann, sich schwerer zu heben, als hätte sie Mühe, sich aus dem Wasser zu lösen. Joren spürte es an den Schoten, an dem veränderten Zug in den Blöcken, an dem leisen Knarren des Mastes, das tiefer klang als am Morgen. Ein Boot erzählte seinem Lotsen, was es fühlte, lange bevor der Lotse es benennen konnte. Joren hatte diese Sprache gelernt, wie man eine zweite Muttersprache lernt, langsam und ohne Wörterbuch, durch Fehler und Wiederholung.
+
+»Vater«, sagte Maren.
+
+»Ja.«
+
+»Was hast du Rask versprochen?«
+
+Die Frage kam nicht unerwartet. Joren hatte gewusst, dass sie kommen würde, vielleicht schon am Abend zuvor, als Maren mit dieser Miene nach Hause gekommen war, die er an ihr kannte, seit sie laufen konnte. Es war die Miene, die sie aufsetzte, wenn sie etwas wusste, das sie noch nicht sagen wollte, und wenn sie wartete, bis der andere den ersten Schritt tat.
+
+»Ich habe ihm nichts versprochen«, sagte Joren. »Ich habe ihm eine Einschätzung gegeben.«
+
+»Eine Einschätzung«, wiederholte Maren.
+
+»Ja.«
+
+»Und diese Einschätzung hat dazu geführt, dass Dierk und drei andere Männer auf einem schwedischen Fahrzeug liegen, und dass Dierks Fuß verletzt ist, und dass Lene nicht weiß, ob ihr Mann zurückkommt.«
+
+Joren hielt den Blick auf das Wasser gerichtet. Der Dunst war dichter geworden, und die Wellen hatten eine kurze, steile Form angenommen, die das Rudern erschwerte, obwohl sie nicht ruderten. Es war die Art von See, die einem Boot zusetzte, ohne dass man sagen konnte, woher der Druck kam.
+
+»Ich habe nicht gewusst, dass es so lange dauern würde«, sagte er.
+
+»Hast du es geahnt?«
+
+»Ich habe es befürchtet.«
+
+Maren drehte sich um. Ihr Gesicht war blass von der Kälte, und die Haare, die unter der Kappe hervorkamen, klebten ihr an den Schläfen. Sie sah ihn an, nicht vorwurfsvoll, sondern prüfend, als versuchte sie, in seinem Gesicht etwas zu lesen, das er selbst nicht aussprach.
+
+»Du hast es befürchtet und nichts gesagt«, sagte sie.
+
+»Ich habe gehofft, dass es nicht eintritt.«
+
+»Und als es eintrat?«
+
+Joren schwieg. Die Möwe hob sich über eine Welle, die höher war als die vorherigen, und das Wasser schlug gegen die Planken mit einem Geräusch, das trocken klang, fast wie ein Schlag. Er hätte sagen können, dass er zu Rask gefahren war, dass er verhandelt hatte, dass er alles versucht hatte, um die Männer zurückzuholen. Aber er wusste, dass Maren das nicht hören wollte. Sie wollte hören, dass er es früher gesagt hätte. Und das konnte er nicht sagen, weil es nicht stimmte.
+
+»Ich habe getan, was ich konnte«, sagte er schließlich.
+
+Maren sah ihn noch einen Augenblick an. Dann drehte sie sich wieder nach vorn, und ihre Schultern waren angespannt, und Joren wusste, dass das Gespräch nicht beendet war, sondern nur unterbrochen.
+
+Der Dunst lichtete sich ein wenig, als sie sich der Mitte des Boddens näherten, und für einen Moment wurde die Küste sichtbar, ein dunkler Streifen am Horizont, kaum mehr als eine Andeutung. Joren erkannte die Umrisse des Festlandes, die flache Linie bei Eldena, und dahinter, kaum sichtbar, die Hügel, die sich ins Landesinnere zogen. Es war eine Küste, die er seit dreißig Jahren kannte, und die sich dennoch verändert hatte, nicht in ihrer Form, sondern in ihrer Bedeutung. Früher war sie das andere Ufer gewesen, ein Ziel, eine Gelegenheit, ein Ort, an dem man Vorräte kaufte oder einen Auftrag erledigte. Jetzt war sie eine Grenze, und Grenzen waren keine Orte mehr, sondern Linien, die man nicht überschreiten durfte, ohne sich zu erklären.
+
+»Da vorn«, sagte Maren.
+
+Joren sah es gleichzeitig mit ihr. Ein Fahrzeug, das aus dem Dunst auftauchte, klein und schnell, mit einem Segel, das nicht die Form eines Fischersegels hatte. Es war ein Patrouillenboot, und es kam direkt auf sie zu, ohne Zögern, ohne Umweg, als hätte es sie die ganze Zeit beobachtet und nur gewartet, bis sie nahe genug waren.
+
+Joren ließ die Schot ein wenig fieren und nahm Fahrt aus dem Boot. Es hatte keinen Sinn, zu fliehen oder auszuweichen. Die Patrouille war schneller, und sie war bewaffnet, und sie hatte das Recht, ihn zu stoppen. Er hatte die Papiere, er hatte die Erlaubnis, er hatte nichts zu verbergen. Aber das Gefühl, das sich in seiner Brust ausbreitete, als das Boot näher kam, war nicht das Gefühl eines Mannes, der nichts zu verbergen hatte. Es war das Gefühl eines Mannes, der wusste, dass das Recht auf seiner Seite war, und dass das nichts bedeutete.
+
+Das Patrouillenboot kam längsseits, und Joren sah die Männer an Deck, vier oder fünf, in blauen Röcken, mit Musketen, die nicht auf sie gerichtet waren, aber auch nicht fortgelegt. Ein junger Offizier stand am Bug, die Hand am Dollbord, und rief etwas auf Schwedisch, das Joren nicht verstand, aber dessen Bedeutung klar war.
+
+»Anhalten«, sagte Maren leise. »Sie sagen, wir sollen anhalten.«
+
+»Ich weiß«, sagte Joren.
+
+Er ließ die Möwe in den Wind drehen, sodass sie beinahe still lag, und wartete. Das Patrouillenboot legte sich längsseits, und die Männer griffen mit Enterhaken nach dem Dollbord der Möwe, ohne zu fragen, ohne zu warten, bis Joren die Leine warf. Es war eine Geste, die alles sagte: Wir fragen nicht, wir nehmen.
+
+Der Offizier sprang auf die Möwe, und das Boot schwankte unter seinem Gewicht. Er war jung, vielleicht fünfundzwanzig, mit einem Gesicht, das noch nicht gelernt hatte, hart zu sein, und Augen, die es bereits versuchten.
+
+»Passierschein«, sagte er auf Deutsch, mit einem Akzent, der die Wörter schwer machte.
+
+Joren nahm die Papiere aus der Ledertasche, die er unter dem Sitz verwahrte, und reichte sie ihm. Der Offizier nahm sie, ohne zu danken, und begann, sie zu lesen. Er las langsam, mit zusammengezogenen Brauen, als wäre jedes Wort eine Prüfung, die er nicht bestehen wollte.
+
+»Joren Voss«, sagte er. »Lotse. Thiessow.«
+
+»Ja.«
+
+»Und die Frau?«
+
+»Meine Tochter.«
+
+Der Offizier sah Maren an. Sein Blick war nicht unfreundlich, aber er war auch nicht freundlich. Es war der Blick eines Mannes, der gelernt hatte, Menschen nach ihrer Nützlichkeit zu beurteilen, und der noch nicht wusste, wie er eine Frau einordnen sollte, die weder Passagier noch Besatzung war.
+
+»Zweck der Reise?«
+
+»Besorgung«, sagte Joren. »Wir bringen Schriftstücke nach Eldena und holen Vorräte.«
+
+»Schriftstücke«, wiederholte der Offizier. Er sah Maren an. »Welche Schriftstücke?«
+
+Maren öffnete den Mund, aber Joren kam ihr zuvor.
+
+»Abschriften«, sagte er. »Für die Kirche. Nichts, was Sie interessieren würde.«
+
+Der Offizier sah ihn an, und für einen Moment lag etwas in seinem Blick, das Joren nicht einordnen konnte. Es war nicht Misstrauen, sondern etwas Älteres, etwas Müdes, als hätte der junge Mann schon zu viele Papiere gesehen, die niemanden interessierten, und als wüsste er, dass die Papiere, die niemanden interessierten, oft die wichtigsten waren.
+
+»Ich entscheide, was mich interessiert«, sagte er.
+
+Er ging zum Dollbord und rief etwas zu dem Patrouillenboot hinüber. Ein älterer Mann, ebenfalls in Blau, aber ohne Waffe, stieg herüber, schwerfällig und mit der Miene eines Menschen, der diese Arbeit schon zu oft getan hatte. Er nahm die Papiere, las sie, nickte, las sie erneut, nickte wieder, und gab sie dem Offizier zurück.
+
+»In Ordnung«, sagte der ältere Mann auf Deutsch, mit einem Akzent, der weicher war als der des Offiziers. »Alles korrekt.«
+
+Der Offizier sah ihn an, und für einen Moment schien er zu zögern. Dann nickte er, faltete die Papiere zusammen und reichte sie Joren zurück. Aber er ließ ihn nicht gehen. Er blieb stehen, die Hand am Mast, und sah Maren an.
+
+»Sie haben eine Abschrift erwähnt«, sagte er. »Zeigen Sie sie mir.«
+
+Maren sah Joren an. Joren spürte, wie sich etwas in seinem Nacken zusammenzog, ein alter Reflex, der nichts mit Angst zu tun hatte, sondern mit dem Wissen, dass eine Situation kippen konnte, ohne dass man sagen konnte, wann.
+
+»Es ist eine Abschrift des Ufervermerks«, sagte Maren. Ihre Stimme war ruhig, aber Joren hörte die Anspannung darin, die nur er hören konnte. »Ein altes Dokument. Es betrifft die Nutzung eines Uferstreifens in Middelhagen.«
+
+»Zeigen Sie es mir«, sagte der Offizier erneut.
+
+Maren bückte sich, nahm das geölte Tuch unter der Bank hervor und wickelte die Abschrift aus. Sie reichte sie dem Offizier, ohne zu zittern, ohne zu zögern. Joren sah, wie ihre Finger die Ränder des Papiers hielten, als wollte sie es nicht loslassen, und wie sie es dann doch tat.
+
+Der Offizier nahm die Abschrift und las sie. Er las sie länger, als nötig war, und Joren wusste, dass er nicht las, um zu verstehen, sondern um zu prüfen. Er suchte nach etwas, nach einem Wort, nach einer Formulierung, die ihm das Recht gab, sie festzuhalten, oder die ihm die Pflicht auferlegte, sie gehen zu lassen.
+
+»Ufervermerk«, sagte er schließlich. »Von wann?«
+
+»Von 1687«, sagte Maren.
+
+»Und was steht darin?«
+
+»Dass mehrere Haushalte den Uferstreifen gemeinsam nutzen dürfen. Unter der Bedingung des Friedens.«
+
+Der Offizier sah sie an. »Unter der Bedingung des Friedens«, wiederholte er. »Und ist Frieden?«
+
+Maren schwieg. Es war eine Frage, die keine Antwort hatte, oder deren Antwort so offensichtlich war, dass sie nicht ausgesprochen werden musste.
+
+Der Offizier gab ihr die Abschrift zurück. »Fahren Sie weiter«, sagte er. »Aber bleiben Sie im Fahrwasser. Und halten Sie sich von der Sperre fern.«
+
+Er sprang zurück auf das Patrouillenboot, und die Männer lösten die Enterhaken, und das Boot drehte ab, schnell und lautlos, und verschwand im Dunst, als hätte es nie existiert.
+
+Joren atmete aus. Es war ein Atemzug, der länger dauerte als nötig, und er hörte selbst, wie er klang, und er wusste, dass Maren es auch hörte.
+
+»Sie hätten die Abschrift behalten können«, sagte Maren.
+
+»Ja.«
+
+»Warum haben sie es nicht getan?«
+
+Joren sah in die Richtung, in der das Patrouillenboot verschwunden war. Der Dunst hatte sich wieder geschlossen, und das Wasser lag still, als wäre nichts geschehen.
+
+»Weil sie nicht wissen, was sie damit anfangen sollen«, sagte er. »Noch nicht.«
+
+Sie fuhren weiter. Der Wind hatte nachgelassen, und die Möwe glitt ruhiger über das Wasser, das jetzt eine graue, glatte Oberfläche hatte, auf der sich die Dunstschwaden spiegelten. Joren hielt den Kurs, und Maren saß wieder vorn, die Abschrift im Schoß, die Hände darum gelegt, als wollte sie sie wärmen.
+
+»Maren«, sagte Joren.
+
+»Ja.«
+
+»Was ist zwischen dir und Thies?«
+
+Die Frage kam heraus, bevor er sie zurückhalten konnte, und er bereute sie im selben Augenblick. Es war nicht die richtige Zeit, es war nicht der richtige Ort, und es war nicht seine Frage. Aber sie war heraus, und nun lag sie zwischen ihnen, wie ein dritter Passagier, den keiner eingeladen hatte.
+
+Maren drehte sich nicht um. Sie sah nach vorn, auf das Wasser, auf die Küste, die langsam näher kam.
+
+»Was soll zwischen uns sein?«, sagte sie.
+
+»Ich frage nur.«
+
+»Du fragst nie nur.«
+
+Joren schwieg. Sie hatte recht, wie so oft, und er wusste es, und er wusste auch, dass er trotzdem weitermachen würde, weil er nicht anders konnte.
+
+»Er ist ein guter Mann«, sagte Joren. »Ein guter Handwerker. Er hat sich sein Boot selbst aufgebaut.«
+
+»Ich weiß.«
+
+»Und er hat Aussichten. Auf der Festlandseite. Wenn der Krieg vorbei ist.«
+
+Maren drehte sich um. Ihr Gesicht war ruhig, aber ihre Augen waren es nicht. Sie sah ihn an, und in ihrem Blick lag etwas, das er nicht benennen konnte, weder als Zorn noch als Trauer, sondern als etwas Drittes, das zwischen beiden lag und keines von beiden war.
+
+»Vater«, sagte sie. »Willst du wissen, was ich für Thies fühle, oder willst du wissen, ob ich bleibe?«
+
+Joren sah sie an. Die Frage traf ihn, weil sie genau war, und weil sie etwas aussprach, das er selbst nicht ausgesprochen hatte.
+
+»Ich will wissen, ob du bleibst«, sagte er.
+
+Maren sah ihn noch einen Augenblick an. Dann drehte sie sich wieder um, und ihre Stimme, als sie sprach, war leiser als vorher.
+
+»Ich weiß es nicht«, sagte sie. »Und ich glaube nicht, dass du es wissen musst.«
+
+Sie fuhren schweigend weiter. Die Küste kam näher, langsam und unaufhaltsam, und Joren sah die Umrisse der Bäume, die sich über dem Ufer erhoben, und die Dächer von Eldena, die im Dunst verschwammen. Er hätte noch etwas sagen können, aber er tat es nicht. Es war nicht die richtige Zeit, und es war nicht der richtige Ort, und vielleicht würde es nie die richtige Zeit sein.
+
+Die Möwe glitt in flacheres Wasser, und Joren nahm die Segel herunter, und sie ruderten die letzten hundert Meter zum Ufer, wo ein kleiner Anleger aus morschen Planken in das Wasser ragte. Maren sprang als Erste an Land, das Seil in der Hand, und zog das Boot heran, ohne auf Jorens Hilfe zu warten. Es war eine kleine Geste, aber sie sagte mehr als alle Worte, die sie hätten wechseln können.
+
+Joren stieg aus, das Ruder in der Hand, und sah sich um. Der Anleger war leer, die Hütten am Ufer waren geschlossen, und die Straße, die ins Dorf führte, lag still unter dem grauen Himmel. Es war kein Ort, an dem etwas geschah, und doch spürte Joren, dass etwas geschehen war, oder dass etwas geschehen würde, und dass er nicht wusste, was.
+
+»Komm«, sagte Maren. »Wir haben nicht viel Zeit.«
+
+Sie ging voraus, die Abschrift unter dem Arm, und Joren folgte ihr, langsamer, mit dem Ruder über der Schulter, wie ein Mann, der nicht wusste, ob er noch gebraucht wurde oder ob er nur noch mitkam.
+
+Am Ende des Anlegers blieb er stehen und sah zurück auf das Wasser. Der Dunst hatte sich ein wenig gehoben, und für einen Moment wurde der Bodden sichtbar, weit und grau, mit den dunklen Linien der Sperre am Horizont, die wie ein Riss in der Wasseroberfläche lagen. Joren sah sie an, und er dachte an Dierk, und an die drei anderen Männer, und an das, was er gesagt hatte, und an das, was er nicht gesagt hatte. Und er wusste, dass er nicht zurückkonnte, nicht wirklich, nicht auf die Weise, die zählte.
+
+Dann drehte er sich um und folgte seiner Tochter ins Dorf.
+
+---
+
+## Die Steine von Eldena
+
+> „Die Klöster sind gefallen, die Mauern zerbrochen, die Glocken verstummt – und doch steht die Frage, die sie einst beantworteten, unbeantwortet im Raum: Wem gehört die Küste, und wer darf sie nutzen?“
+> — Aus einer Predigt des Pastors Johann Christoph Balthasar, Greifswald, um 1710
+
+Der Weg von Eldena zum Kloster war kürzer, als Maren ihn in Erinnerung hatte. Vielleicht lag es daran, dass sie ihn diesmal zu Fuß ging, ohne die Ablenkung des Wassers unter dem Kiel, ohne das Knarren der Möwe und ohne die stille Anwesenheit ihres Vaters, der hinter ihr herging wie ein Mann, der nicht wusste, ob sein Platz noch an ihrer Seite war.
+
+Die Straße war nicht mehr als ein Pfad, der sich durch karge Wiesen wand, vorbei an vereinzelten Hütten, deren Dächer aus Torf und Reet den Regen der letzten Tage gespeichert hatten. Ein Hund lief ihnen eine Weile nach, blieb dann stehen und kehrte um. Maren hörte Jorens Schritte hinter sich, gleichmäßig, bedächtig, und sie wusste, dass er den Abstand hielt, weil er ihn für angemessen hielt, nicht weil er ihr auswich. Das war schlimmer. Sie hätte es vorgezogen, wenn er sie bedrängt hätte, wenn er etwas gesagt hätte, das sie hätte zurückweisen können. Stattdessen schwieg er, und sein Schweigen war so sorgfältig, dass es fast eine Entschuldigung war.
+
+Die Klosterruine lag vor ihnen, als der Weg sich teilte. Maren blieb stehen. Sie hatte Abbildungen gesehen, in Benthins Büchern, und sie hatte sich eingebildet, zu wissen, was sie erwarten würde. Aber die Zeichnungen logen. Sie zeigten Mauern, die noch standen, Fenster, die noch Öffnungen waren, und einen Grundriss, der sich in die Fläche fügte wie ein Versprechen. Was sie sah, war etwas anderes.
+
+Die Kirche hatte kein Dach mehr. Der Himmel stand in ihr wie ein zweites Gewölbe, grau und fern. Die Mauern waren aus Backstein, rot und verwittert, und an manchen Stellen so dünn, dass das Licht durch die Ritzen fiel und Muster auf den Boden zeichnete, die niemand entworfen hatte. Der Boden selbst war Gras, ungleichmäßig, mit Steinen übersät, die aus dem Mauerwerk gefallen waren und nun lagen, wo sie lagen. Es war kein Ort, an dem etwas geschah. Es war ein Ort, an dem etwas aufgehört hatte.
+
+Maren ging durch das, was einmal das Mittelschiff gewesen war, und legte die Hand auf einen Pfeiler, der noch stand. Der Stein war kalt, aber nicht so kalt wie das Wasser an einem Wintermorgen, und er fühlte sich rau an, porös, wie etwas, das lange dem Wind ausgesetzt gewesen war. Sie versuchte sich vorzustellen, wie es gewesen war, als die Mauern noch ein Dach getragen hatten, als Mönche hier gesungen hatten, als der Raum erfüllt gewesen war von Stimmen und Weihrauch und dem Klang von Glocken, die längst eingeschmolzen waren.
+
+Joren war neben sie getreten. Er sagte nichts, aber sie spürte seinen Blick auf den Mauern, auf den Steinen, auf dem Boden, und sie wusste, dass er etwas anderes sah als sie. Er sah nicht den Raum, der gewesen war. Er sah die Arbeit, die ihn errichtet hatte.
+
+»Wie viele Steine«, sagte er schließlich, mehr zu sich selbst als zu ihr.
+
+Maren sah ihn an.
+
+»Was?«
+
+»Wie viele Steine ein Mann tragen muss, um eine Mauer zu bauen, die den Himmel hält.« Er deutete auf die Pfeiler. »Die sind aus Backstein. Jeder einzelne geformt, gebrannt, getragen. Von wo? Von wem?« Er schwieg einen Moment. »Wer hat sie bezahlt?«
+
+Maren sagte nichts. Sie wusste, worauf er hinauswollte, und sie wollte es nicht hören.
+
+»Die Mönche haben nicht selbst gebaut«, sagte Joren. »Sie haben bauen lassen. Und wer bauen lässt, erhebt Abgaben. Wer Abgaben erhebt, nimmt sie von denen, die arbeiten.« Er sah sie an, ruhig, ohne Schärfe. »Ich sage das nicht, um dir den Ort zu verderben. Ich sage es, weil du wissen solltest, was du siehst.«
+
+»Ich sehe eine Ruine«, sagte Maren. »Ich sehe einen Ort, der einmal Schutz geboten hat. Den Menschen hier. Den Fischern. Denen, die keine Ländereien hatten und keinen Herrn, der sie schützte.«
+
+»Schutz«, sagte Joren, und das Wort klang in seinem Mund wie etwas, das er lange nicht mehr gehört hatte. »Schutz kostet. Immer. Die Frage ist nur, wer ihn bezahlt und wer ihn bekommt.«
+
+Maren spürte, wie sich etwas in ihr zusammenzog. Sie hatte diesen Ort sehen wollen, weil er ihr etwas bedeutete, weil er ein Versprechen war, das älter war als die Sperre, älter als die Schweden, älter als alles, was ihr Leben gerade bestimmte. Und Joren nahm ihr das Versprechen, indem er es zerlegte, Stein für Stein, bis nichts übrig blieb als Arbeit und Abgabe und die Frage, wer am Ende die Zeche bezahlte.
+
+»Du machst alles kaputt«, sagte sie.
+
+Joren sah sie an. Sein Gesicht war ruhig, aber in seinen Augen lag etwas, das sie nicht einordnen konnte – weder Kränkung noch Zorn, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war.
+
+»Nein«, sagte er. »Ich mache nichts kaputt. Es war schon kaputt, bevor wir kamen. Ich zeige dir nur die Risse.«
+
+Er wandte sich ab und ging zu einer der seitlichen Kapellen, wo das Mauerwerk noch höher stand und ein Stück des Gewölbes erhalten war. Maren blieb zurück. Sie sah auf die Abschrift in ihrer Hand, die sie immer noch trug, obwohl sie hier nichts zu suchen hatte, und sie dachte an den Ufervermerk, an die Bedingung des Friedens, an die Falle, die Benthin entdeckt hatte. War es nicht dasselbe? Ein Versprechen, das nur galt, solange die Umstände es erlaubten? Ein Schutz, der an Bedingungen geknüpft war, die niemand kontrollierte?
+
+Sie ging zu Joren hinüber. Er stand vor einer Wand, auf der Reste von Malerei zu sehen waren – ein Heiliger, halb verblasst, mit einem Gesicht, das der Zeit nicht standgehalten hatte. Die Farben waren verblichen zu einem Braun und Grau, das kaum noch etwas erkennen ließ. Nur die Umrisse waren geblieben, und die Hände, die zum Segen erhoben waren, waren noch zu sehen, obwohl die Finger fehlten.
+
+»Sie haben gemalt«, sagte Maren.
+
+»Ja«, sagte Joren. »Und sie haben geschrieben. Und sie haben gerechnet. Und sie haben ihre Abgaben eingezogen, von denen, die hier lebten, bevor sie kamen.«
+
+»Du weißt nicht, ob sie es getan haben.«
+
+»Doch«, sagte Joren. »Ich weiß es. Weil es immer so war. Die einen kommen, bauen Mauern, und die anderen arbeiten, um die Mauern zu erhalten. Und wenn die Mauern fallen, dann fallen sie für alle. Für die, die gebaut haben, und für die, die bezahlt haben.«
+
+Maren sah ihn an. Sie wollte widersprechen, aber sie wusste nicht, was sie sagen sollte. Es war nicht so, dass sie ihm nicht glaubte. Es war, dass sie nicht wollte, dass er recht hatte.
+
+»Und was bleibt dann?«, fragte sie. »Wenn alles nur Abgabe ist und Arbeit und Schutz, den man bezahlen muss – was bleibt dann von dem, was sie hier gewollt haben?«
+
+Joren sah auf die Wand, auf den Heiligen ohne Finger, auf die Farben, die kaum noch zu sehen waren.
+
+»Das«, sagte er. »Das bleibt. Dass jemand etwas gewollt hat. Dass jemand geglaubt hat, es lohne sich, Steine zu tragen, Mauern zu bauen, ein Dach zu errichten, das den Himmel hält. Ob es stimmt oder nicht, ist eine andere Frage. Aber dass jemand es geglaubt hat, das bleibt.«
+
+Maren schwieg. Es war das erste Mal, dass sie das Gefühl hatte, ihr Vater hätte etwas gesagt, das sie nicht sofort widerlegen konnte. Sie sah auf die Malerei, auf die Hände ohne Finger, und sie dachte an die Männer auf dem Arbeitsfahrzeug, an Dierk, an die vier Fischer, die irgendwo hinter der Sperre waren und nicht zurückkamen. Sie dachte an die Abschrift in ihrer Hand, an den Ufervermerk, an die Bedingung des Friedens. Und sie dachte an Thies, an sein Boot, an seine Hände, die sie kannte, seit sie ein Kind gewesen war.
+
+»Wir sollten gehen«, sagte sie. »Wir haben noch etwas zu erledigen.«
+
+Joren nickte. Aber bevor sie sich abwandte, sah er sie an, und in seinem Blick lag etwas, das sie nicht deuten konnte – weder Zustimmung noch Widerspruch, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war.
+
+Der Archivar von Eldena hieß Martin Sasse und wohnte in einem Haus, das kleiner war als das Küsterhaus in Middelhagen und voller Bücher, die niemand mehr las. Er war ein alter Mann mit dünnem Haar und Händen, die zitterten, wenn er eine Seite umblätterte, aber seine Augen waren klar, und seine Stimme war fest, als er Maren und Joren in seine Stube bat.
+
+»Ihr kommt wegen des Ufervermerks«, sagte er, ohne dass sie es gesagt hatten. »Ihr seid nicht die Ersten. Und ihr werdet nicht die Letzten sein.«
+
+Er setzte sich an einen Tisch, auf dem bereits eine Abschrift lag, die Maren kannte. Es war dieselbe, die Benthin aufbewahrte, dieselbe, die sie bei sich trug, dieselbe, die der schwedische Offizier auf dem Patrouillenboot geprüft hatte. Sasse schob sie beiseite.
+
+»Die Abschrift ist richtig«, sagte er. »Aber sie ist nicht vollständig. Es gibt eine ältere Version. Von 1621. Sie ist in schlechtem Zustand, aber sie ist lesbar.«
+
+Er stand auf, ging zu einem Schrank, öffnete ihn mit einem Schlüssel, den er um den Hals trug, und nahm ein Bündel Papier heraus, das in Ölleinen gewickelt war. Er legte es auf den Tisch und wickelte es aus, vorsichtig, als wäre es aus Glas.
+
+Maren beugte sich vor. Die Schrift war anders als die der jüngeren Abschrift – enger, spitzer, mit Buchstaben, die sie kaum entziffern konnte. Sasse deutete auf eine Stelle.
+
+»Hier«, sagte er. »Das ist der entscheidende Satz. Er lautet: ›Die Nutzung des Ufers steht den Haushalten zu, die sie herkömmlich ausüben, solange Frieden herrscht und die Abgaben entrichtet werden.‹«
+
+Maren sah ihn an.
+
+»Solange Frieden herrscht«, wiederholte sie. »Und die Abgaben entrichtet werden.«
+
+»Ja«, sagte Sasse. »Und hier – «, er deutete auf eine andere Stelle, » – hier steht, was geschieht, wenn der Frieden nicht herrscht. Dann fällt das Recht an die Herrschaft zurück. An wen genau, ist nicht gesagt. Das war damals schon unklar, und es ist heute nicht klarer geworden.«
+
+Maren spürte, wie sich etwas in ihr zusammenzog. Sie hatte gehofft, die ältere Version würde eindeutiger sein, würde den Anspruch der Haushalte stärken, würde etwas belegen, das sie gegen die Sperre, gegen die Schweden, gegen die Willkür verwenden konnte. Stattdessen war es dasselbe: ein Versprechen, das an Bedingungen geknüpft war, die niemand kontrollierte.
+
+»Und die Abgaben?«, fragte Joren. »Wer hat sie erhoben?«
+
+Sasse sah ihn an. »Das Kloster«, sagte er. »Bis zur Reformation. Danach der Herzog. Danach der König. Es hat sich nicht viel geändert, nur der Name.«
+
+Joren nickte, als hätte er nichts anderes erwartet. Maren sah auf die Abschrift, auf die enge, spitze Schrift, auf die Worte, die sie kaum entziffern konnte, und sie dachte an die Männer in Middelhagen, an Klook, an Tamm, an die anderen, die über den Uferstreifen gestritten hatten, als ginge es um Leben und Tod. Sie dachte an Benthin, der die Abschrift aufbewahrte, weil jemand es tun musste, und an den schwedischen Offizier, der sie geprüft und zurückgegeben hatte, ohne etwas zu sagen.
+
+»Es gibt Lücken«, sagte sie. »In der jüngeren Abschrift. Ich habe sie mit den Ufervermerken verglichen, die wir in Middelhagen haben. Es fehlen Stellen. Ganze Sätze. Ich weiß nicht, ob sie absichtlich weggelassen wurden oder ob sie verloren gegangen sind.«
+
+Sasse sah sie an, und in seinem Blick lag etwas, das sie nicht deuten konnte – weder Überraschung noch Zustimmung, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war.
+
+»Ihr habt gut gearbeitet«, sagte er. »Besser als die meisten, die hierherkommen. Aber ich muss euch enttäuschen. Die Lücken sind nicht das Entscheidende. Das Entscheidende ist, dass der Vermerk nie mehr war als ein Versprechen. Und Versprechen halten nur, solange die, die sie gegeben haben, die Macht haben, sie zu halten.«
+
+Er wickelte das Bündel wieder in Ölleinen und legte es zurück in den Schrank. Maren sah ihm zu, und sie spürte, wie etwas in ihr zerbrach – nicht laut, nicht plötzlich, sondern leise, wie eine Mauer, die lange dem Wind ausgesetzt gewesen war und nun nachgab.
+
+»Was sollen wir dann tun?«, fragte sie.
+
+Sasse sah sie an. »Das kann ich euch nicht sagen«, sagte er. »Ich bin Archivar. Ich bewahre auf, was andere geschrieben haben. Was ihr daraus macht, ist eure Sache.«
+
+Er begleitete sie zur Tür. Als sie schon draußen waren, rief er ihnen nach: »Eines noch. Die Schweden haben vorgestern Boten durch Eldena geschickt. Sie bringen Nachrichten nach Süden. Ich weiß nicht, was sie enthalten. Aber ich habe gehört, dass neue Truppen unterwegs sind. Ihr solltet nicht bleiben.«
+
+Joren und Maren gingen schweigend zurück zum Anleger. Der Wind hatte zugenommen, und der Himmel war dunkler geworden, als hätte jemand ein Tuch über die Sonne gelegt. Die Möwe lag still im Wasser, und Joren begann, die Segel zu setzen, während Maren die Abschrift in ihre Tasche steckte und auf das Wasser sah.
+
+»Er hat recht«, sagte Joren. »Wir sollten nicht bleiben.«
+
+Maren sah ihn an. »Und was ist mit dem Vermerk? Was ist mit den Männern? Was ist mit Dierk?«
+
+Joren hielt inne. Er sah sie an, und in seinem Blick lag etwas, das sie nicht deuten konnte – weder Zustimmung noch Widerspruch, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war.
+
+»Ich weiß es nicht«, sagte er. »Aber ich weiß, dass wir hier nicht warten können. Nicht jetzt.«
+
+Maren sah ihn an, und sie spürte, wie sich etwas in ihr zusammenzog – nicht Wut, nicht Enttäuschung, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war. Sie wollte widersprechen, aber sie wusste, dass er recht hatte. Sie wollte bleiben, aber sie wusste, dass es keinen Sinn hatte. Sie wollte etwas tun, aber sie wusste nicht, was.
+
+»Also fahren wir zurück«, sagte sie.
+
+»Ja«, sagte Joren. »Wir fahren zurück.«
+
+Sie stiegen in die Möwe, und Joren setzte die Segel, und der Wind trieb sie hinaus auf den Bodden, der grau und still vor ihnen lag. Maren sah zurück auf Eldena, auf die Ruine, auf die Mauern, die den Himmel hielten, obwohl sie kein Dach mehr hatten, und sie dachte an die Mönche, an die Abgaben, an die Versprechen, die nie gehalten worden waren. Sie dachte an die Lücken in der Abschrift, an die Sätze, die fehlten, an die Worte, die niemand mehr lesen konnte. Und sie dachte an Dierk, an die vier Fischer, an die Männer, die hinter der Sperre waren und nicht zurückkamen.
+
+Der Wind frischte auf, und die Möwe legte sich auf die Seite, und Joren hielt das Ruder, ruhig, konzentriert, wie er es immer tat. Maren sah ihn an, und sie dachte an das, was er gesagt hatte, an die Steine, an die Arbeit, an die Abgaben. Und sie dachte an das, was er nicht gesagt hatte, an das, was zwischen ihnen stand, an die Worte, die sie nicht wechselten, weil sie nicht wussten, wie.
+
+»Vater«, sagte sie.
+
+Joren sah sie an.
+
+»Ja?«
+
+»Was hast du geglaubt, als du die Männer ausgewählt hast? Hast du geglaubt, dass sie zurückkommen?«
+
+Joren schwieg einen Moment. Der Wind trieb sie weiter, und die Küste von Eldena verschwand hinter ihnen, langsam, unaufhaltsam, wie etwas, das man nicht festhalten konnte.
+
+»Ja«, sagte er. »Ich habe es geglaubt. Und ich habe es gehofft. Und ich habe es gewusst, dass es nicht sicher ist.« Er sah sie an. »Ich habe es gewusst, und ich habe es nicht gesagt. Das ist mein Fehler. Nicht dass ich es geglaubt habe. Dass ich es nicht gesagt habe.«
+
+Maren sah ihn an, und sie spürte, wie etwas in ihr nachgab – nicht die Mauer, nicht die Ruine, sondern etwas anderes, etwas, das sie nicht benennen konnte. Sie wollte etwas sagen, aber sie wusste nicht, was. Sie wollte ihn fragen, ob er es wiedergutmachen konnte, aber sie wusste, dass die Frage falsch war. Sie wollte ihm sagen, dass sie ihm nicht mehr vertraute, aber sie wusste, dass es nicht stimmte.
+
+»Wir müssen einen Plan machen«, sagte sie schließlich. »Für Dierk. Für die Männer. Für alles.«
+
+Joren sah sie an, und in seinem Blick lag etwas, das sie nicht deuten konnte – weder Zustimmung noch Widerspruch, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war.
+
+»Ja«, sagte er. »Wir müssen einen Plan machen.«
+
+Er hielt das Ruder, und die Möwe glitt durch das graue Wasser, und Maren sah auf die Sperre am Horizont, auf die dunklen Linien, die wie ein Riss in der Wasseroberfläche lagen. Sie dachte an die Männer, an die Boote, an die Listen, an die Abschriften, an die Versprechen, die nie gehalten worden waren. Und sie dachte an Thies, an seine Hände, an sein Boot, an die Hoffnung, die er gebaut hatte, Stein für Stein, Arbeit für Arbeit, Schulden für Schulden.
+
+Der Wind drehte, und Joren korrigierte den Kurs, und die Möwe nahm Fahrt auf, als hätte sie etwas zu erledigen, als hätte sie ein Ziel, das sie nicht kannte. Maren sah nach vorn, auf das Wasser, auf die Küste, die vor ihnen lag, und sie wusste, dass sie nicht zurückkonnte, nicht wirklich, nicht auf die Weise, die zählte. Aber sie wusste auch, dass sie nicht stehen bleiben konnte. Nicht jetzt. Nicht hier.
+
+»Vater«, sagte sie noch einmal.
+
+Joren sah sie an.
+
+»Ja?«
+
+»Danke«, sagte sie. »Dass du mir die Risse gezeigt hast.«
+
+Joren sah sie an, und in seinem Blick lag etwas, das sie nicht deuten konnte – weder Zustimmung noch Widerspruch, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war. Dann nickte er, kaum sichtbar, und wandte sich wieder dem Ruder zu.
+
+Sie fuhren schweigend weiter, und der Bodden lag grau und still um sie herum, und die Sperre am Horizont wurde kleiner, aber sie verschwand nicht.
+
+---
+
+## Für wenige Tage
+
+> »Die Requisition ist kein Raub, sondern eine zeitweilige Überlassung zum Nutzen des Reiches. Sie setzt das Vertrauen der Untertanen voraus, dass die Rückgabe erfolgen wird, sobald der Zweck erfüllt ist.«
+> — Aus: Königlich Schwedische Instruktion für die Quartiermeister der Pommerschen Armee, Stralsund, 1712
+
+Am Morgen kam der Wind von Südwest, und mit ihm kam das Geräusch, das die Fischer von Thiessow seit dem Winter kannten und fürchteten: das gleichmäßige Schlagen von Rudern, das Klirren von Ausrüstung, das Knirschen eines Bootsrumpfs auf dem Kies des Strandes. Joren hörte es, während er die Möwe vertäute, und er wusste, noch bevor er sich umdrehte, wer dort landete. Er kannte den Takt dieser Ruder. Er kannte das Gewicht dieser Stiefel auf dem Grund. Er kannte die Stimme, die jetzt Befehle gab, knapp und ohne Hebung, als wäre der Strand ein Exerzierplatz.
+
+Leutnant Rask kam mit acht Soldaten. Zwei trugen Musketen, die anderen Werkzeug: Äxte, Brecheisen, Kisten mit Nägeln. Sie stellten sich am oberen Rand des Strandes auf, wo der Sand in die Dünen überging, und warteten. Rask selbst ging auf Joren zu, langsam, die Hände hinter dem Rücken, und blieb zwei Schritte vor ihm stehen. Er trug denselben Rock wie bei der ersten Begegnung, dieselben Stiefel, dieselbe Miene, die weder Feindseligkeit noch Freundlichkeit erkennen ließ. Es war die Miene eines Mannes, der eine Aufgabe erledigte und sie erledigen wollte, ohne Umwege.
+
+»Herr Voss«, sagte er. »Ich benötige das größte Fischerfahrzeug dieses Strandes. Die ‚Grete‘. Dazu vier ortskundige Männer, die sie führen und die Arbeiten ausführen können. Für wenige Tage.«
+
+Joren sah ihn an, und in seinem Kopf bewegten sich die Zahlen, die er nicht aussprechen wollte. Vier Männer. Die Grete. Für wenige Tage. Er kannte diese Formel. Er hatte sie im Winter gehört, als die ersten Pfähle gesetzt worden waren, und damals hatte sie gestimmt. Die Männer waren zurückgekommen. Aber damals war der Bedarf kleiner gewesen, die Sperre kürzer, die Jahreszeit günstiger.
+
+»Für wenige Tage«, wiederholte Joren, und es klang nicht wie eine Frage, sondern wie ein Nachdenken, das sich selbst überprüfte.
+
+»Für wenige Tage«, bestätigte Rask. »Der Befehl ist eindeutig. Wir benötigen das Boot für den Transport von Material an den westlichen Abschnitt. Die Männer für die Arbeit am Ufer. Danach werden beide zurückgegeben.«
+
+Joren sah auf die Soldaten, die am Dünenrand standen, und er sah auf die Grete, die am östlichen Ende des Strandes lag, breit und schwer und seetüchtig, das beste Boot, das die Arndts besaßen, gebaut von Dierks Vater, ausgebessert von Dierk selbst, Jahr für Jahr, Planke für Planke. Er sah auf das Lotsenhaus, wo Else wahrscheinlich am Fenster stand und die Soldaten zählte. Er sah auf die Möwe, sein eigenes Boot, kleiner und schneller, aber nicht geeignet für den Transport von schwerem Material.
+
+»Ich muss mit den Eigentümern sprechen«, sagte Joren.
+
+»Das können Sie«, sagte Rask. »Sie haben eine Stunde.«
+
+Es war keine Großzügigkeit. Es war eine Frist. Joren erkannte den Unterschied, und er erkannte auch, dass Rask ihn erkannte. Der Leutnant wusste, dass die Fischer Zeit brauchten, um sich zu beraten, und er wusste, dass diese Zeit ihre Angst nur vergrößern würde. Eine Stunde war lang genug, um sich zu fürchten, und kurz genug, um keine Alternative zu finden.
+
+Joren ging den Strand hinauf, an den Soldaten vorbei, die ihn nicht ansahen, und dann den Weg hinauf zum Dorf, wo die Häuser im Morgenlicht standen, still und weiß und wie aus einer anderen Zeit. Er ging schnell, aber nicht hastig, und während er ging, dachte er an die Worte, die er sagen würde, und an die Worte, die er nicht sagen würde. Er dachte an Dierk, der ihm seit Jahren vertraute, und an Lene, die ihm seit dem Winter misstraute, und an die vier Männer, die er benennen würde, weil er sie für geeignet hielt, und die er nicht benennen wollte, weil er sie für unentbehrlich hielt. Er dachte an die Liste, die Benthin angelegt hatte, und an die Zahlen, die darin standen, und an die Lücken, die sie ließ.
+
+Als er das Haus der Arndts erreichte, stand Lene schon in der Tür. Sie musste die Soldaten gesehen haben, oder sie musste es gespürt haben, so wie sie alles spürte, was das Wasser und die Boote betraf. Sie trug die Schürze, die sie beim Fischausnehmen trug, und ihre Hände waren rot von der Arbeit, und ihr Gesicht war weiß.
+
+»Sie wollen die Grete«, sagte sie.
+
+Es war keine Frage.
+
+»Sie wollen die Grete«, sagte Joren. »Und vier Männer. Für wenige Tage.«
+
+Lene sah ihn an, und in ihrem Blick lag etwas, das er nicht deuten konnte – weder Angst noch Wut, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war. Sie trat zur Seite, ohne ein Wort, und ließ ihn ins Haus.
+
+Dierk saß am Tisch und aß Brot mit Speck. Er sah auf, als Joren eintrat, und sein Gesicht hellte sich auf, wie es sich immer aufhellte, wenn er Joren sah. Dann sah er Lenes Gesicht, und die Aufhellung verschwand.
+
+»Was ist passiert?«, fragte er.
+
+Joren setzte sich ihm gegenüber. Er legte die Hände auf den Tisch, und er sah auf seine Hände, während er sprach, weil es einfacher war, auf seine Hände zu sehen als auf Dierks Gesicht.
+
+»Der Leutnant ist da. Mit Soldaten. Er fordert die Grete und vier Männer. Für wenige Tage. Ich habe eine Stunde, um ihm die Namen zu geben.«
+
+Dierk legte das Brot hin. Er sah Joren an, lange, ohne zu blinzeln, und in seinem Blick lag etwas, das Joren nicht deuten konnte – weder Vertrauen noch Misstrauen, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war.
+
+»Wen willst du benennen?«, fragte Dierk.
+
+»Dich«, sagte Joren. »Du kennst die Grete. Du kennst das Wasser. Du kennst die Arbeit.«
+
+Dierk sah ihn an, und dann lachte er, kurz und ohne Freude, das Lachen eines Mannes, der eine schlechte Nachricht gehört hatte und sie mit einem Scherz abmildern wollte, so wie er es immer tat.
+
+»Das ist die beste Begründung, die ich je gehört habe«, sagte er. »Du willst mich, weil ich nützlich bin. Das ist ehrlich. Das ist wenigstens ehrlich.«
+
+»Dierk«, sagte Lene. Sie stand an der Tür, die Hände in die Schürze gekrallt. »Du wirst nicht gehen.«
+
+»Er hat eine Stunde«, sagte Dierk. »Was soll er tun?«
+
+»Er soll Nein sagen«, sagte Lene. »Er soll sagen, dass die Grete nicht zur Verfügung steht. Er soll sagen, dass wir sie brauchen. Er soll sagen, dass wir nicht sein Eigentum sind.«
+
+Sie sah Joren an, und in ihrem Blick lag jetzt nichts Drittes mehr, sondern etwas sehr Deutliches, etwas, das Joren kannte und fürchtete: die offene Angst einer Frau, die wusste, was Männer mit Macht tun konnten, und die wusste, dass sie nichts dagegen tun konnte.
+
+»Herr Voss«, sagte sie. »Ich bitte Sie. Sagen Sie Nein.«
+
+Joren sah auf seine Hände. Er dachte an die Sperre, an die Pfähle, an die Ketten, an die versenkten Balken, an die Soldaten, die sie bewachten, an die Kanonen, die auf den Festungsinseln standen. Er dachte an die Alternative: Wenn er Nein sagte, würde Rask die Grete nehmen, mit oder ohne Zustimmung. Er würde die Männer nehmen, mit oder ohne Namen. Er würde kommen, wenn es ihm passte, und er würde nehmen, was er brauchte, und die Fischer würden nichts tun können, außer zusehen.
+
+»Wenn ich Nein sage«, sagte Joren langsam, »dann nimmt er das Boot trotzdem. Dann nimmt er die Männer trotzdem. Aber dann nimmt er vielleicht mehr. Dann nimmt er vielleicht die Möwe. Dann nimmt er vielleicht die Jolle von Kruse. Dann nimmt er vielleicht alles, was schwimmt, und dann gibt es keine Ordnung mehr, sondern nur noch Willkür.«
+
+Er sah Lene an.
+
+»Ich versuche, das Schlimmste zu verhindern«, sagte er. »Ich versuche, es zu begrenzen. Vier Männer. Ein Boot. Für wenige Tage. Das ist weniger, als er nehmen könnte.«
+
+Lene sah ihn an, und in ihrem Blick lag etwas, das er nicht deuten konnte – weder Zustimmung noch Widerspruch, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war. Dann wandte sie sich ab und ging hinaus.
+
+Dierk sah Joren an. »Sie hat Angst«, sagte er. »Sie hat recht, Angst zu haben.«
+
+»Ja«, sagte Joren. »Sie hat recht.«
+
+Sie saßen schweigend da, und draußen hörte man Lene mit Fiete sprechen, leise und eindringlich, und man hörte die Soldaten am Strand, die lachten, weil einer von ihnen eine Geschichte erzählte, die Joren nicht verstand.
+
+»Wen noch?«, fragte Dierk schließlich.
+
+»Kruse«, sagte Joren. »Hannes Tamm. Und Jens Paye.«
+
+Dierk nickte. »Kruse ist stark. Tamm kennt das westliche Ufer. Paye ist jung, aber er kann arbeiten.«
+
+»Ja«, sagte Joren.
+
+»Du hast sie ausgewählt, weil sie geeignet sind«, sagte Dierk. »Nicht weil du sie loswerden willst. Ich kenne dich. Du hast sie ausgewählt, weil du glaubst, dass es besser ist, geeignete Männer zu schicken, als ungeeignete. Weil geeignete Männer schneller fertig sind. Weil sie eher zurückkommen.«
+
+»Ja«, sagte Joren.
+
+Dierk sah ihn an, und in seinem Blick lag etwas, das Joren nicht deuten konnte – weder Vertrauen noch Misstrauen, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war. Dann stand er auf und griff nach seiner Jacke.
+
+»Ich gehe mit dir«, sagte er. »Ich unterschreibe, was zu unterschreiben ist. Aber ich sage dir eines, Joren: Wenn du dich irrst, wenn sie uns nicht zurückbringen, dann werde ich es dir nicht verzeihen. Nicht sofort. Vielleicht nie.«
+
+»Das weiß ich«, sagte Joren.
+
+Sie gingen zusammen den Weg hinunter zum Strand. Die Soldaten standen noch am Dünenrand, und Rask stand noch am Wasser, und die Grete lag noch am östlichen Ende, breit und schwer und seetüchtig. Lene kam hinter ihnen, mit Fiete an der Hand, und Maren kam vom Küsterhaus, wo sie gewesen war, um Benthin zu sprechen, und Else kam vom Lotsenhaus, wo sie die ganze Zeit am Fenster gestanden hatte. Sie versammelten sich am Strand, die Fischer und ihre Frauen, und sie sahen auf Rask, und Rask sah auf sie.
+
+»Herr Voss«, sagte Rask. »Haben Sie die Männer?«
+
+»Ich habe sie«, sagte Joren. »Dierk Arndt. Kruse. Hannes Tamm. Jens Paye.«
+
+Rask nickte. Er zog ein Papier aus der Tasche, ein Formular, das schon vorbereitet war, mit Zeilen für Namen und Unterschriften, und er hielt es Joren hin.
+
+»Das ist der Requisitionsschein«, sagte er. »Die Männer unterschreiben, dass sie das Boot und ihre Arbeitskraft zeitweilig zur Verfügung stellen. Danach erfolgt die Rückgabe.«
+
+Joren nahm das Papier. Er las es, langsam, und während er las, veränderte sich sein Gesicht. Es war kein deutliches Zeichen, kein Zucken, kein Erschrecken, aber Maren sah es, weil sie ihn kannte, und Lene sah es, weil sie ihn fürchtete.
+
+»Hier steht kein Datum«, sagte Joren.
+
+»Nein«, sagte Rask.
+
+»Hier steht keine Frist«, sagte Joren. »Hier steht nur, dass die Rückgabe erfolgt, sobald der Zweck erfüllt ist. Aber es steht nicht, wann der Zweck erfüllt ist.«
+
+»Der Zweck wird erfüllt sein«, sagte Rask. »In wenigen Tagen.«
+
+»Aber es steht nicht hier«, sagte Joren.
+
+»Nein«, sagte Rask. »Es steht nicht hier.«
+
+Joren sah auf das Papier, und er sah auf die Zeilen, die leer waren, und er sah auf den Platz, wo ein Datum hätte stehen können, und er sah, dass dieser Platz leer war, und er wusste, was das bedeutete. Er wusste, dass ein Papier ohne Datum ein Papier ohne Ende war. Er wusste, dass ein Versprechen ohne Frist kein Versprechen war, sondern eine Möglichkeit. Er wusste, dass Rask ihm die Wahrheit sagte, wenn er sagte, dass der Zweck erfüllt sein würde, und dass er ihm nicht die Wahrheit sagte, wenn er sagte, dass es in wenigen Tagen sein würde. Beides war wahr. Beides war falsch. Es kam darauf an, wer das Papier las.
+
+»Dierk«, sagte Lene. »Unterschreib das nicht.«
+
+Dierk sah auf das Papier. Er sah auf Joren, der es hielt, und auf Rask, der wartete, und auf Lene, die ihn ansah, und auf Fiete, der ihn ansah, und auf die anderen Fischer, die ihn ansahen. Er sah auf die Grete, die am östlichen Ende lag, breit und schwer und seetüchtig, gebaut von seinem Vater, ausgebessert von ihm selbst, Jahr für Jahr, Planke für Planke.
+
+»Herr Voss«, sagte er. »Ist es wahr, dass sie uns zurückbringen?«
+
+Joren sah ihn an. Er hätte Ja sagen können. Er hätte sagen können, dass Rask es versprochen hatte, dass der Zweck erfüllt sein würde, dass wenige Tage wenige Tage waren. Er hätte sagen können, was alle sagen, wenn sie ein Papier unterschreiben, das sie nicht verstehen. Aber er sah auf das Papier, und er sah auf die leere Stelle, wo ein Datum hätte stehen können, und er wusste, dass er nicht lügen konnte. Nicht hier. Nicht jetzt. Nicht vor Dierk.
+
+»Ich weiß es nicht«, sagte er. »Ich glaube es. Aber ich weiß es nicht.«
+
+Dierk sah ihn an, lange, ohne zu blinzeln, und in seinem Blick lag etwas, das Joren nicht deuten konnte – weder Vertrauen noch Misstrauen, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war. Dann nahm er das Papier, und er nahm die Feder, die Rask ihm hinhielt, und er unterschrieb.
+
+»Dierk«, sagte Lene.
+
+»Es ist besser so«, sagte Dierk. »Wenn ich nicht unterschreibe, nehmen sie das Boot trotzdem. Und dann haben wir nichts. Dann haben wir nicht einmal das Papier.«
+
+Er sah Lene an, und in seinem Blick lag jetzt nichts Drittes mehr, sondern etwas sehr Deutliches, etwas, das sie kannte und fürchtete: die ruhige Entschlossenheit eines Mannes, der eine Entscheidung getroffen hatte und sie nicht mehr ändern würde.
+
+»Ich komme zurück«, sagte er. »In wenigen Tagen.«
+
+Lene sah ihn an, und dann sah sie Joren an, und in ihrem Blick lag etwas, das Joren nicht deuten konnte – weder Angst noch Wut, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war. Dann wandte sie sich ab und ging den Strand hinauf, mit Fiete an der Hand, und sie ging schnell, aber nicht hastig, und sie sah sich nicht um.
+
+Kruse unterschrieb. Tamm unterschrieb. Paye unterschrieb. Sie unterschrieben alle, einer nach dem anderen, und Joren sah zu, und er sah auf die leeren Stellen, wo Daten hätten stehen können, und er wusste, dass er etwas getan hatte, das nicht rückgängig zu machen war. Er wusste es, während er es sah, und er wusste es, während er es nicht wahrhaben wollte.
+
+Rask nahm das Papier, faltete es, steckte es in die Tasche. Er sah Joren an, und in seinem Blick lag etwas, das Joren nicht deuten konnte – weder Dankbarkeit noch Verachtung, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war.
+
+»Die Männer werden in einer Stunde an Bord gehen«, sagte er. »Das Boot wird morgen früh abgeholt.«
+
+Er wandte sich ab und ging zu seinen Soldaten, und die Soldaten standen auf, und sie gingen den Strand hinauf, und sie verschwanden hinter den Dünen, und der Strand lag wieder still, als wäre nichts geschehen.
+
+Joren stand am Wasser und sah auf die Grete, die am östlichen Ende lag, breit und schwer und seetüchtig, und er dachte an die leeren Stellen auf dem Papier, und er dachte an Dierks Worte, und er dachte an Lenes Blick, und er wusste, dass er etwas getan hatte, das nicht rückgängig zu machen war.
+
+Maren kam zu ihm. Sie stand neben ihm, ohne ein Wort, und sie sah auf die Grete, und sie sah auf die Männer, die am Strand standen und sich leise unterhielten, und sie sah auf Lene, die den Weg hinaufging, mit Fiete an der Hand, und sie wusste, dass sie nichts sagen konnte, was die leeren Stellen auf dem Papier füllen würde.
+
+»Vater«, sagte sie schließlich.
+
+Joren sah sie an.
+
+»Ja?«
+
+»Du hast es nicht gewusst«, sagte sie. »Aber du hast es befürchtet. Du hast es befürchtet, und du hast es nicht gesagt. Nicht vorher. Nicht bevor sie unterschrieben haben.«
+
+Joren sah sie an, und in seinem Blick lag etwas, das sie nicht deuten konnte – weder Zustimmung noch Widerspruch, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war.
+
+»Ja«, sagte er. »Ich habe es befürchtet. Und ich habe es nicht gesagt.«
+
+»Warum nicht?«
+
+»Weil ich gehofft habe«, sagte Joren. »Weil ich gehofft habe, dass es diesmal anders ist. Weil ich gehofft habe, dass wenige Tage wenige Tage sind. Weil ich gehofft habe, dass ein Mann, der ein Papier unterschreibt, auch ein Wort hält.«
+
+Er sah auf die Grete.
+
+»Ich habe gehofft«, sagte er. »Und ich habe mich geirrt.«
+
+Maren sah ihn an, und sie spürte, wie etwas in ihr nachgab – nicht die Mauer, nicht die Ruine, sondern etwas anderes, etwas, das sie nicht benennen konnte. Sie wollte etwas sagen, aber sie wusste nicht, was. Sie wollte ihm sagen, dass er es hätte wissen müssen, aber sie wusste, dass es nicht stimmte. Sie wollte ihm sagen, dass es nicht seine Schuld war, aber sie wusste, dass es stimmte.
+
+»Wir müssen einen Plan machen«, sagte sie schließlich. »Für Dierk. Für die Männer. Für alles.«
+
+Joren sah sie an, und in seinem Blick lag etwas, das sie nicht deuten konnte – weder Zustimmung noch Widerspruch, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war.
+
+»Ja«, sagte er. »Wir müssen einen Plan machen.«
+
+Er wandte sich ab und ging den Strand hinauf, zum Lotsenhaus, wo Else am Fenster stand und wartete, und Maren sah ihm nach, und sie sah auf die Grete, die am östlichen Ende lag, und sie sah auf die Männer, die am Strand standen und sich leise unterhielten, und sie wusste, dass sie nicht stehen bleiben konnte. Nicht jetzt. Nicht hier.
+
+Sie ging zum Haus der Arndts, wo Lene am Tisch saß und Fiete an sich drückte, und sie setzte sich zu ihr, ohne ein Wort, und sie wartete, bis Lene sprach.
+
+»Er hat unterschrieben«, sagte Lene. »Er hat unterschrieben, und ich habe es gesehen, und ich habe nichts getan.«
+
+»Du hast ihn gewarnt«, sagte Maren.
+
+»Ich habe ihn gewarnt«, sagte Lene. »Aber ich habe ihn nicht aufgehalten. Ich hätte ihn aufhalten können. Ich hätte das Papier zerreißen können. Ich hätte schreien können. Aber ich habe nichts getan. Ich habe nur zugesehen.«
+
+Sie sah Maren an, und in ihrem Blick lag etwas, das Maren nicht deuten konnte – weder Angst noch Wut, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war.
+
+»Was machen wir jetzt?«, fragte Lene.
+
+Maren sah sie an, und sie dachte an die leeren Stellen auf dem Papier, und sie dachte an die Sperre, und sie dachte an die Männer, die dort arbeiteten, und sie dachte an die Boote, die noch am Strand lagen, und sie dachte an die Liste, die Benthin angelegt hatte, und sie wusste, dass sie etwas tun musste, aber sie wusste nicht, was.
+
+»Wir warten«, sagte sie. »Wir warten, bis die wenigen Tage vorbei sind. Und wenn sie nicht vorbei sind, dann machen wir einen Plan.«
+
+Lene sah sie an, und in ihrem Blick lag etwas, das Maren nicht deuten konnte – weder Zustimmung noch Widerspruch, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war.
+
+»Und wenn sie nie vorbei sind?«, fragte Lene.
+
+Maren sah sie an. Sie dachte an die leeren Stellen auf dem Papier, und sie dachte an die Sperre, und sie dachte an die Männer, die dort arbeiteten, und sie wusste, dass sie keine Antwort hatte. Sie wusste, dass niemand eine Antwort hatte. Sie wusste, dass sie warten mussten, und dass Warten das Schlimmste war, was sie tun konnten, und dass es das Einzige war, was sie tun konnten.
+
+»Dann machen wir einen Plan«, sagte sie. »Dann machen wir einen Plan, der funktioniert.«
+
+Draußen ging die Sonne unter, und der Strand lag still, und die Grete lag am östlichen Ende, breit und schwer und seetüchtig, und die Männer standen an Bord, und sie sprachen nicht mehr, und sie sahen auf das Wasser, auf die Sperre am Horizont, auf die dunklen Linien, die wie ein Riss in der Wasseroberfläche lagen. Sie wussten nicht, was sie erwartete. Sie wussten nur, dass sie nicht zurückkonnten. Nicht jetzt. Nicht hier.
+
+Am nächsten Morgen, als die Sonne aufging, war die Grete fort. Sie war nicht am östlichen Ende des Strandes, wo sie gelegen hatte, und sie war nicht am westlichen Ende, wo die anderen Boote lagen, und sie war nicht auf dem Wasser, wo sie hätte sein können. Sie war einfach fort, als hätte sie nie existiert. An ihrer Stelle lag ein Zettel, den der Wind an einen Stein gedrückt hatte, und auf dem Zettel standen vier Namen, und unter den Namen stand ein Datum, das noch nicht gekommen war, und unter dem Datum stand nichts.
+
+Joren fand den Zettel, als er am Morgen zum Strand ging. Er las ihn, langsam, und während er las, veränderte sich sein Gesicht. Es war kein deutliches Zeichen, kein Zucken, kein Erschrecken, aber Maren sah es, weil sie ihm gefolgt war, und Lene sah es, weil sie am Fenster stand, und Else sah es, weil sie ihn kannte.
+
+»Was steht drauf?«, fragte Maren.
+
+Joren sah auf den Zettel. Er sah auf die vier Namen, und er sah auf das Datum, das noch nicht gekommen war, und er sah auf die leere Stelle darunter, wo hätte stehen können, wann sie zurückkamen, und er wusste, dass die leere Stelle das Wichtigste war. Er wusste, dass sie das Einzige war, was zählte.
+
+»Sie sind fort«, sagte er. »Für wenige Tage.«
+
+Er faltete den Zettel und steckte ihn in die Tasche, und er ging den Strand hinauf, zum Lotsenhaus, wo Else am Fenster stand und wartete, und Maren sah ihm nach, und sie sah auf die leere Stelle am östlichen Ende des Strandes, wo die Grete gelegen hatte, und sie wusste, dass die wenigen Tage begonnen hatten. Sie wusste, dass sie nicht wusste, wann sie enden würden. Sie wusste, dass sie warten musste, und dass Warten das Schlimmste war, was sie tun konnte, und dass es das Einzige war, was sie tun konnte.
+
+Sie ging zum Haus der Arndts, wo Lene am Tisch saß und auf den Zettel sah, den Joren dagelassen hatte, und sie setzte sich zu ihr, ohne ein Wort, und sie wartete, bis Lene sprach.
+
+»Wenige Tage«, sagte Lene. »Wenige Tage.«
+
+Sie sah Maren an, und in ihrem Blick lag etwas, das Maren nicht deuten konnte – weder Angst noch Wut, sondern etwas Drittes, das zwischen beiden lag und keines von beiden war.
+
+»Wenige Tage«, wiederholte Maren. »Wie die der Römer.«
+
+Lene sah sie an, und dann lachte sie, kurz und ohne Freude, das Lachen einer Frau, die eine schlechte Nachricht gehört hatte und sie mit einem Scherz abmildern wollte, so wie ihr Mann es immer getan hatte.
+
+»Wie die der Römer«, sagte sie. »Ja. Wie die der Römer.«
+
+Sie saßen schweigend da, und draußen ging die Sonne auf, und der Strand lag still, und die leere Stelle am östlichen Ende war das Einzige, was sie sahen.
+
+---
+
+## Der leere Platz
+
+> „Der dritte Tag ist der Tag, an dem die Hoffnung zu rechnen beginnt. Der vierte ist der Tag, an dem sie aufhört.“
+> — Sprichwort der Küstenfahrer des Greifswalder Boddens, aufgezeichnet von Laurenz Benthin, Küster zu Middelhagen, 1714
+
+Der Morgen des dritten Tages begann mit Nebel, der über dem Bodden lag wie ein Atem, der nicht weichen wollte. Lene Arndt stand vor der Scheune und sah auf die Stellnetze, die über dem Bock hingen, und sie wusste, dass sie sie allein würde flicken müssen, weil Dierk fort war, und dass sie das schon seit zwei Tagen wusste, und dass es keinen Unterschied machte, ob sie es wusste oder nicht.
+
+Sie ging zum Bock und nahm das erste Netz herunter, und ihre Hände fanden die Risse, ohne dass sie hinsehen musste. Die Maschen waren an drei Stellen aufgerissen, dort, wo die Steine des Grundes sie aufgeschlitzt hatten, und die Reparatur würde den halben Vormittag kosten, und der Vormittag war das Wenigste, was sie hatte.
+
+Sie setzte sich auf den umgestürzten Kahn neben der Scheune und begann zu knüpfen.
+
+Das Garn war rau, und es schnitt in die Fingerkuppen, die schon Schwielen trugen von Jahren derselben Arbeit, aber die Schwielen waren dünn geworden an den Stellen, die das Messer berührte, und die Stellen, die das Messer berührte, waren genau die Stellen, die das Garn brauchte. Sie knüpfte, und sie zählte die Maschen nicht, weil sie die Maschen im Gefühl hatte, und sie dachte an Dierk, weil sie nicht anders konnte, und sie dachte an die Art, wie er die Netze geflickt hatte, mit einem kleinen Scherz auf den Lippen, der nie einer war, sondern nur die Art, wie er sagte, dass es Arbeit war und dass Arbeit getan werden musste.
+
+»Sie kommen heute«, sagte Fiete hinter ihr.
+
+Sie hatte ihn nicht kommen hören. Er stand im Tor der Scheune und hielt einen Eimer mit Wasser, und er sah sie an mit einer Zuversicht, die sie nicht teilte und nicht zerstören wollte.
+
+»Vielleicht«, sagte sie.
+
+»Der dritte Tag ist heute«, sagte Fiete. »Sie haben gesagt, wenige Tage. Drei sind wenige.«
+
+Lene knüpfte eine Masche und zog den Knoten fest, und sie spürte, wie das Garn sich in ihre Haut grub, und sie ließ es nicht los, weil das der Punkt war, an dem man nicht losließ.
+
+»Drei sind wenige«, sagte sie. »Ja.«
+
+Fiete stellte den Eimer ab und ging zum Strand, weil er zwölf war und weil zwölf bedeutete, dass man nachsehen konnte, ob das Boot am Horizont war, und dass man es nicht finden würde, aber dass man es versuchen musste. Lene sah ihm nach, und sie dachte, dass sie ihn hätte zurückrufen sollen, aber sie wusste nicht, was sie ihm hätte sagen sollen, und sie knüpfte weiter.
+
+Der Teer war kalt geworden in dem Eimer neben ihr, und sie hatte ihn am Abend zuvor angerührt, weil sie geglaubt hatte, dass Dierk am Morgen zurück sein würde und dass sie die Netze gemeinsam teeren würden, so wie sie es immer taten, im Frühjahr und im Herbst, mit dem Geruch, der in die Kleidung kroch und wochenlang blieb. Sie hatte den Teer angerührt, und Dierk war nicht gekommen, und der Teer war kalt geworden, und sie würde ihn allein verwenden müssen, und das war keine große Sache. Es war eine kleine Sache. Aber es war die Summe der kleinen Sachen, die sich in ihr zu etwas Großem zusammensetzte, und das Große hatte keinen Namen.
+
+Gegen Mittag kam Thies.
+
+Er kam über den Deich, mit einem Bündel Werkzeug über der Schulter, und er sah die Netze und sah sie und blieb stehen.
+
+»Du flicks allein«, sagte er.
+
+»Ich flicks allein«, sagte Lene.
+
+»Ich kann helfen.«
+
+»Du hast dein eigenes Boot.«
+
+»Das Boot läuft nicht weg.«
+
+Er sagte es, und sie sah ihn an, und für einen Moment lag zwischen ihnen das, was zwischen Geschwistern lag, wenn eines dem anderen etwas anbot und beide wussten, dass das Angebot mehr war als die Arbeit. Thies setzte sich auf den umgestürzten Kahn, nahm das zweite Netz vom Bock, und begann zu knüpfen, ohne ein weiteres Wort, und Lene ließ ihn, weil sie müde war und weil Müdigkeit keine Schande war und weil sie es nicht mehr schaffte, die Schande zu spielen.
+
+Sie arbeiteten schweigend.
+
+Das Garn ging durch ihre Hände, und die Sonne stieg, und der Nebel löste sich auf, und der Bodden lag klar und leer, und auf dem Wasser war kein Boot, das die Form der Grete hatte, und Lene sah nicht hin, weil Hinsehen nichts änderte, und weil sie es satt hatte, dass Hinsehen nichts änderte.
+
+»Maren war gestern am Strand«, sagte Thies nach einer Weile.
+
+»Ich weiß.«
+
+»Sie hat gewartet, bis es dunkel war.«
+
+»Ich weiß.«
+
+»Sie macht sich Vorwürfe.«
+
+Lene knüpfte eine Masche und zog sie fest, und sie spürte, wie das Garn sich straffte, und sie ließ es nicht los.
+
+»Sie soll sich keine Vorwürfe machen«, sagte sie. »Das hilft Dierk nicht.«
+
+»Das habe ich ihr auch gesagt.«
+
+»Und?«
+
+»Sie hat gesagt, dass es trotzdem stimmt.«
+
+Lene sah auf. Sie sah Thies an, und Thies sah sie an, und zwischen ihnen lag das, was immer zwischen ihnen lag, wenn sie über Maren sprachen, und es war ein altes, vertrautes Etwas, das sie nicht benennen mussten.
+
+»Sie ist wie Joren«, sagte Lene. »Sie glaubt, dass sie es besser weiß.«
+
+»Sie weiß es oft besser.«
+
+»Das macht es nicht besser.«
+
+Thies lachte, kurz und ohne Freude, und Lene lachte nicht, aber etwas in ihrem Gesicht wurde weicher, und sie knüpfte weiter, und sie arbeiteten, bis die Netze fertig waren, und es war Nachmittag, und der dritte Tag war noch nicht vorbei.
+
+Am Abend ging Lene zum Strand.
+
+Sie ging nicht, weil sie hoffte, sondern weil sie es nicht ertrug, im Haus zu sitzen und auf die Tür zu sehen, und weil der Strand der Ort war, an dem sie sein konnte, ohne zu warten, und weil das Warten am Strand ein anderes Warten war als das Warten am Tisch. Sie ging bis zum östlichen Ende, wo die Grete gelegen hatte, und sie stand auf der leeren Stelle, und sie sah auf das Wasser, und das Wasser war leer.
+
+Thies kam hinter ihr.
+
+Er sagte nichts, und sie sagte nichts, und sie standen nebeneinander, und der Wind kam von Nordwest, und er war kalt, und er roch nach Salz und nach dem, was jenseits des Boddens lag, und Lene zog den Mantel enger, und Thies tat es ihr gleich, und sie standen, bis die Sonne unterging.
+
+»Dierk hätte nicht gehen sollen«, sagte Lene.
+
+»Er ist gegangen, weil Joren es gesagt hat.«
+
+»Er ist gegangen, weil er geglaubt hat, dass es richtig ist.«
+
+»Und weil er dir nicht sagen wollte, dass er Angst hat.«
+
+Lene sah ihn an. Sie sah ihn an, und in ihrem Blick lag das, was sie nicht aussprach, und Thies sah es und sah weg, weil er es nicht aushielt.
+
+»Er hat keine Angst«, sagte Lene.
+
+»Er hat Angst«, sagte Thies. »Er hat nur keine Angst davor, es zuzugeben.«
+
+Sie standen wieder schweigend da, und das Wasser war leer, und der dritte Tag ging zu Ende, und als die Dunkelheit kam, gingen sie zurück, und auf dem Weg sagte keiner von ihnen ein Wort.
+
+Am vierten Tag kam Maren.
+
+Sie kam am Morgen, mit einem Korb, in dem Brot und Käse lagen, und sie stellte den Korb auf den Tisch, und sie sah Lene an, und Lene sah sie an, und zwischen ihnen lag das, was seit dem Tag der Abfahrt zwischen ihnen lag, und es war größer geworden.
+
+»Sie sind nicht gekommen«, sagte Maren.
+
+»Nein.«
+
+»Ich habe am Strand gewartet, bis es dunkel war.«
+
+»Ich weiß.«
+
+»Ich habe nichts gesehen.«
+
+»Nein.«
+
+Maren setzte sich. Sie setzte sich, ohne gefragt zu haben, und sie sah auf den Tisch, auf dem der Zettel lag, den Joren am ersten Tag gefunden hatte, und sie sah die vier Namen, und sie sah das Datum, das noch nicht gekommen war, und sie sah die leere Stelle darunter.
+
+»Wenige Tage«, sagte sie.
+
+»Wenige Tage«, sagte Lene.
+
+»Wie die der Römer.«
+
+Lene sah sie an, und Maren sah zurück, und für einen Moment lag zwischen ihnen das Lachen von damals, das kurze, freudlose Lachen, und dann war es fort, und was blieb, war die leere Stelle.
+
+»Was machen wir?«, fragte Maren.
+
+»Wir warten.«
+
+»Und wenn sie nicht kommen?«
+
+Lene stand auf. Sie ging zum Fenster und sah hinaus, auf den Strand, auf die leere Stelle, auf das Wasser, das den Horizont berührte, und sie sagte nichts, und Maren wartete, und das Warten war das, was sie beide taten, und es war das Einzige, was sie tun konnten.
+
+»Dann gehen wir hin«, sagte Lene schließlich.
+
+»Wie?«
+
+»Ich weiß es nicht.«
+
+Sie drehte sich um. Sie sah Maren an, und in ihrem Gesicht lag das, was sich in den vier Tagen in ihr zusammengesetzt hatte, und es war hart geworden, und es war klar, und es war das Gesicht einer Frau, die aufgehört hatte zu hoffen, ohne aufgehört zu haben zu handeln.
+
+»Joren hat sie ausgewählt«, sagte Lene. »Joren hat Dierk gesagt, dass er gehen soll. Joren hat gesagt, dass es wenige Tage sind.«
+
+»Joren hat geglaubt, dass es stimmt.«
+
+»Geglaubt.«
+
+Maren sagte nichts. Sie sah auf ihre Hände, auf die Fingerkuppe, die vom Schreiben verfärbt war, und sie dachte an die Abschrift, die sie angefertigt hatte, an die Liste, an die Namen, die sie geschrieben hatte, und sie dachte, dass sie vielleicht mehr getan hatte, als sie zugeben wollte, und sie sagte es nicht, weil es jetzt nicht half.
+
+»Ich gehe zu Joren«, sagte sie.
+
+»Was willst du ihm sagen?«
+
+»Dass er etwas tun muss.«
+
+»Er kann nichts tun.«
+
+»Dann muss er es sagen.«
+
+Lene sah sie an, und dann nickte sie, langsam, und es war kein Nicken der Zustimmung, sondern ein Nicken des Erkennens, und Maren stand auf und ging, und Lene blieb am Fenster stehen, und draußen lag der Strand, und der vierte Tag ging zu Ende, und auf dem Wasser war kein Boot.
+
+Die Nachricht verbreitete sich im Dorf wie Wasser in einem Tuch.
+
+Am fünften Tag wusste es jeder. Am fünften Tag standen die Frauen am Brunnen und sprachen nicht mehr über das Wetter, und die Männer, die geblieben waren, die Alten und die Jungen, die nicht gebraucht worden waren, standen am Hafen und sahen auf das Wasser, und es war kein Wasser mehr, sondern eine Fläche, auf der etwas fehlte.
+
+Jürgen Klook sagte es zuerst.
+
+Er sagte es am Brunnen, laut genug, dass es alle hörten, und er sagte es nicht zu jemandem, sondern in die Runde, und es war die Art von Satz, die man nicht zurücknehmen konnte, wenn man sie einmal gesagt hatte.
+
+»Joren hat sie ausgewählt«, sagte er. »Er hat Dierk gesagt, dass er gehen soll.«
+
+»Er hat getan, was er konnte«, sagte Hannes Tamms Frau.
+
+»Er hat getan, was Rask wollte.«
+
+»Das ist dasselbe.«
+
+»Nein«, sagte Klook. »Das ist nicht dasselbe.«
+
+Er sah in die Runde, und die Frauen sahen weg, und die Männer sahen auf ihre Hände, und niemand widersprach ihm, weil niemand es konnte, und weil das, was er sagte, nicht falsch war, auch wenn es nicht die ganze Wahrheit war.
+
+Else Voss stand am Rand.
+
+Sie hatte zugehört, wie sie immer zuhörte, mit einem Korb am Arm und einem Gesicht, das nichts verriet, und sie sagte nichts, weil sie wusste, dass jedes Wort jetzt ein Wort zu viel war, und weil sie Joren kannte und wusste, dass er es hören würde, und weil sie wusste, dass er es nicht ertragen würde.
+
+Sie ging nach Hause und sagte es ihm nicht.
+
+Aber Joren wusste es.
+
+Er wusste es, weil er am Brunnen vorbeigekommen war, bevor Klook gesprochen hatte, und weil er die Blicke gesehen hatte, die ihm gefolgt waren, und weil er die Blicke kannte, die Blicke derer, die noch hofften, und die Blicke derer, die zu rechnen begonnen hatten, und er wusste, dass die Rechnung nicht zu seinen Gunsten ausging.
+
+Er saß am Tisch, als Maren kam.
+
+Sie kam herein, ohne anzuklopfen, und sie blieb vor ihm stehen, und sie sah ihn an, und in ihrem Blick lag das, was sie in den vier Tagen gesammelt hatte, und es war nicht Wut, sondern etwas Kälteres, etwas, das sich nicht mehr auflösen ließ.
+
+»Sie sind nicht gekommen«, sagte sie.
+
+»Ich weiß.«
+
+»Der dritte Tag ist vorbei. Der vierte auch.«
+
+»Ich weiß.«
+
+»Was willst du tun?«
+
+Joren sah auf. Er sah seine Tochter an, und er sah in ihrem Gesicht das, was er in seinem eigenen Gesicht nicht sehen konnte, und er sagte die Wahrheit, weil er zu müde war, um sie zu verbergen.
+
+»Ich weiß es nicht.«
+
+»Du weißt es nicht.«
+
+»Nein.«
+
+Maren sah ihn an, und dann setzte sie sich, langsam, auf den Stuhl ihm gegenüber, und sie legte die Hände auf den Tisch, und sie sah auf ihre Hände, und sie sagte, was sie gekommen war zu sagen.
+
+»Du hast sie ausgewählt. Du hast Dierk gesagt, dass er gehen soll. Du hast gesagt, dass es wenige Tage sind.«
+
+»Ich habe geglaubt, dass es stimmt.«
+
+»Du hast geglaubt.«
+
+»Ja.«
+
+»Und jetzt?«
+
+Joren sagte nichts. Er sah auf den Tisch, auf die Kerbe im Holz, die von einem Messer stammte, das er vor Jahren dort vergessen hatte, und er dachte an Dierk, an die Art, wie Dierk gelacht hatte, als er den Schein unterschrieb, und er dachte an die Art, wie er selbst dagestanden hatte, mit dem Gefühl, das Richtige zu tun, und er wusste, dass das Gefühl das Falsche gewesen war.
+
+»Ich fahre zu Rask«, sagte er.
+
+»Wann?«
+
+»Morgen.«
+
+»Und was willst du ihm sagen?«
+
+»Dass ich die Männer zurückhaben will.«
+
+»Und wenn er nein sagt?«
+
+Joren sah auf. Er sah Maren an, und in seinem Blick lag das, was er selbst nicht aussprechen konnte, und er sagte es trotzdem, weil es die Wahrheit war.
+
+»Dann sage ich es Lene.«
+
+Maren sah ihn an, lange, und dann nickte sie, langsam, und es war kein Nicken der Zustimmung, sondern ein Nicken des Erkennens, und sie stand auf und ging zur Tür, und an der Tür blieb sie stehen.
+
+»Vater.«
+
+»Ja.«
+
+»Wenn du zu Rask fährst, fahre ich mit.«
+
+Joren sah sie an, und er wollte widersprechen, und er wusste, dass es keinen Sinn hatte, und er sagte nichts, und Maren ging hinaus, und die Tür schloss sich hinter ihr, und Joren blieb am Tisch sitzen, und draußen ging der fünfte Tag zu Ende, und auf dem Wasser war kein Boot.
+
+Am Abend ging Lene zum Strand.
+
+Sie ging allein, weil Thies bei einem Boot war, das repariert werden musste, und weil Fiete schlief, und weil sie allein sein wollte mit dem Wasser, das leer war. Sie ging bis zum östlichen Ende, wo die Grete gelegen hatte, und sie stand auf der leeren Stelle, und sie sah auf den Bodden, und der Bodden sah zurück, und es war kein Trost darin.
+
+Sie dachte an Dierk.
+
+Sie dachte an die Art, wie er am Morgen der Abfahrt dagestanden hatte, mit dem Bündel über der Schulter, und wie er gesagt hatte, dass es wenige Tage seien, und wie er es gesagt hatte, als glaubte er es, und sie dachte an die Art, wie sie ihn angesehen hatte, mit dem Wissen, dass es nicht stimmte, und wie sie ihn hatte gehen lassen, weil sie ihn nicht hatte aufhalten können, und weil Aufhalten nicht ihre Art war.
+
+Sie dachte an die vier Namen auf dem Zettel, und sie dachte an das Datum, das noch nicht gekommen war, und sie dachte an die leere Stelle darunter, und sie wusste, dass die leere Stelle das war, was blieb.
+
+Der Wind kam von Nordwest, und er war kalt, und er roch nach Salz und nach Regen, und Lene stand auf der leeren Stelle, und sie weinte nicht, weil sie nicht mehr weinen konnte, und sie wartete nicht, weil Warten keinen Sinn mehr hatte, und sie stand einfach da, und das Stehen war das Einzige, was sie tun konnte.
+
+Hinter ihr kam jemand.
+
+Sie drehte sich um, und es war Maren, und Maren sagte nichts, und sie stellte sich neben Lene, und sie standen beide auf der leeren Stelle, und sie sahen auf das Wasser, und das Wasser war leer, und der Abend ging zu Ende.
+
+»Morgen fahre ich mit Joren zu Rask«, sagte Maren.
+
+Lene sah sie an.
+
+»Warum?«
+
+»Weil ich es wissen will.«
+
+»Du willst es wissen.«
+
+»Ja.«
+
+Lene sah wieder auf das Wasser. Sie sah auf die leere Stelle, auf der die Grete gelegen hatte, und sie dachte an Dierk, und sie dachte an die Art, wie er gesagt hatte, dass es wenige Tage seien, und sie dachte an die leere Stelle darunter, und sie sagte, was sie dachte.
+
+»Sie werden nicht zurückkommen«, sagte sie. »Nicht nach wenigen Tagen.«
+
+Maren sagte nichts.
+
+»Sie werden nicht zurückkommen, weil Rask sie nicht zurückkommen lässt. Sie werden nicht zurückkommen, weil sie gebraucht werden. Sie werden nicht zurückkommen, weil der Krieg sie gebraucht hat, und weil der Krieg sie weiter brauchen wird, und weil wir nichts dagegen tun können.«
+
+Sie sah Maren an.
+
+»Und Joren wird zu Rask fahren, und Rask wird nein sagen, und Joren wird zurückkommen, und er wird sagen, dass er es versucht hat, und wir werden warten, und das Warten wird das Einzige sein, was wir tun.«
+
+Maren sah sie an, und in ihrem Blick lag das, was sie nicht aussprach, und Lene sah es und sah weg, weil sie es nicht aushielt.
+
+»Ich fahre trotzdem«, sagte Maren.
+
+»Ich weiß.«
+
+Sie standen wieder schweigend da, und der Wind kam von Nordwest, und er war kalt, und die Dunkelheit kam, und auf dem Wasser war kein Boot, und der fünfte Tag ging zu Ende, und es war der letzte Tag, an dem sie hätten kommen können, um noch als wenige Tage zu gelten, und sie waren nicht gekommen.
+
+Am nächsten Morgen fuhren Joren und Maren.
+
+Sie fuhren in der Möwe, weil die Möwe Jorens Boot war und weil Joren das Boot war, das er kannte, und sie fuhren nach Norden, zur Sperre, wo Rask war, und sie fuhren schweigend, weil es nichts zu sagen gab.
+
+Der Bodden lag still, und der Wind war schwach, und die Möwe glitt über das Wasser, und Joren stand am Ruder, und Maren saß im Bug, und sie sahen auf die Sperre, die in der Ferne wuchs, und sie sahen auf die Pfähle, die aus dem Wasser ragten, und sie sahen auf das, was gebaut worden war, um sie zu schützen, und sie wussten, dass es sie nicht schützte.
+
+»Vater«, sagte Maren.
+
+»Ja.«
+
+»Was, wenn Rask die Männer nicht zurückgibt?«
+
+Joren sah auf das Wasser. Er sah auf die Sperre, auf die Pfähle, auf die Ketten, auf das, was er selbst mitgebaut hatte, und er sagte die Wahrheit, weil er zu müde war, um sie zu verbergen.
+
+»Dann müssen wir einen anderen Weg finden.«
+
+»Welchen?«
+
+»Ich weiß es nicht.«
+
+Er sagte es, und Maren sah ihn an, und in ihrem Blick lag das, was sie nicht aussprach, und Joren sah es und sagte nichts, und die Möwe glitt weiter, und die Sperre wuchs, und auf dem Wasser war kein Boot, das die Form der Grete hatte, und die Männer waren nicht gekommen, und der dritte Tag war vorbei, und der vierte, und der fünfte, und die leere Stelle am östlichen Ende des Strandes war das Einzige, was geblieben war.
+
+Und über dem Dorf lag ein Schweigen, das nicht das Schweigen des Friedens war, sondern das Schweigen derer, die zu rechnen begonnen hatten, und die Rechnung ging nicht auf.
+
+---
+
+## Noch eine Arbeit
+
+> »Es ist eine bekannte Erfahrung, daß die Festungswerke, welche man in Eile aufführet, mehr kosten, als sie nützen, und daß die Arbeit, so man daran wendet, gemeiniglich denen am sauersten wird, so am wenigsten davon haben.«
+> — Aus einer Denkschrift über die Küstenverteidigung, 1714
+
+Der Wind stand aus Südost, als Joren die Möwe vom Strand von Thiessow abstieß, und er trug den Geruch von nassem Holz und altem Rauch über das Wasser. Maren saß im Bug und schwieg, weil sie seit dem Aufbruch kaum ein Wort gesprochen hatte, und Joren ließ ihr das Schweigen, denn er hatte selbst keines, das er hätte anbieten können. Sie fuhren nicht zur Sperre, um zu verhandeln. Sie fuhren, um zu sehen, was aus den Männern geworden war, und es war ein Unterschied, ob man sich das Unglück vorstellte oder ob man es vor sich hatte.
+
+Die Pfähle waren schon von Weitem zu erkennen, eine Reihe dunkler Striche im Grau des Wassers, die sich nach Norden fortsetzte, bis der Dunst sie verschluckte. Dazwischen lagen Fahrzeuge, flach und schwer beladen, und als die Möwe näher kam, sah Joren, dass es mehr waren als die, die er kannte. Ein flaches Prahmfahrzeug lag quer zur Strömung, halb gekentert, mit den Planken nach oben wie ein toter Fisch. Zwei Männer standen darauf und schlugen mit Äxten auf das Wrack ein, um es zu zerlegen, und ihre Bewegungen waren langsam, als hätten sie schon zu viele Stunden so gestanden.
+
+»Vater«, sagte Maren.
+
+»Ich sehe es.«
+
+Er sah die Ketten, die zwischen den Pfählen gespannt waren, tief genug, um ein Boot zu greifen, aber nicht tief genug, um ein Schiff aufzuhalten. Er sah die versenkten Balken, die im trüben Wasser als dunkle Schatten lagen, und er sah, dass sie nicht in gerader Linie lagen, sondern verworfen, als hätte man sie im Eifer des Gefechts hinabgelassen. Das war keine Sperre, die ein Ingenieur gebaut hätte. Das war eine Sperre, die aus Angst gebaut worden war, aus Zeitnot und aus dem Willen, irgendetwas zu tun, damit man nicht nichts getan hätte.
+
+Am Ufer stand ein Zelt, und daneben brannte ein Feuer, und um das Feuer lagen Männer, die nicht aussahen, als wären sie bei der Arbeit. Einige schliefen, andere starrten ins Leere, und einer von ihnen hielt seinen Fuß in den Händen, und der Fuß war dick und rot, und der Mann sah nicht auf, als die Möwe anlegte.
+
+Joren sprang an Land und zog das Boot auf den Kies, und Maren folgte ihm, und sie gingen auf das Zelt zu, und niemand hielt sie auf. Ein Soldat saß auf einem umgestürzten Fass und schnitzte an einem Stock, und er hob den Blick, als sie vorbeikamen, und senkte ihn wieder, als hätte er schon zu viele Fremde gesehen, um sich für einen weiteren zu interessieren.
+
+Rask stand am Wasser, die Hände auf dem Rücken, und sah auf die Pfähle hinaus, als zählte er sie. Er trug denselben Mantel wie in Thiessow, und derselbe Dreck saß an seinen Stiefeln, aber sein Gesicht war schmaler geworden, und um die Augen lagen Schatten, die nicht vom Schlafmangel allein kamen.
+
+»Voss«, sagte er, ohne sich umzudrehen. »Ihr kommt spät.«
+
+»Ich komme, wann ich kann.«
+
+»Ihr kommt, wann Ihr wollt. Das ist ein Unterschied.«
+
+Joren blieb zwei Schritte hinter ihm stehen und sah ebenfalls auf die Pfähle. Sie ragten schief aus dem Wasser, und an einem hing ein Stück Tau, das im Wind schlug, und das Schlagen war das einzige Geräusch weit und breit.
+
+»Ihr habt mehr Pfähle gesetzt, als Ihr gesagt habt.«
+
+»Der Bedarf ist gewachsen.«
+
+»Der Bedarf oder der Befehl?«
+
+Rask drehte sich um, und sein Blick war kalt, aber nicht feindselig, eher der Blick eines Mannes, der keine Zeit für Höflichkeiten hatte und auch keine für Streit.
+
+»Beides. Die Durchfahrt muss enger werden. Der Feind hat flache Fahrzeuge, mit denen er zwischen den Pfählen hindurchkommt, wenn wir ihm die Breite lassen. Also lassen wir sie ihm nicht.«
+
+»Und die Männer?«
+
+»Welche Männer?«
+
+Joren sah ihn an, und Rask sah zurück, und für einen Augenblick war es still zwischen ihnen, und das Schlagen des Taus war lauter als alles andere.
+
+»Dierk Arndt«, sagte Joren. »Kruse. Hannes Tamm. Jens Paye. Vier Männer aus Thiessow, die Ihr für wenige Tage angefordert habt, und das ist jetzt der sechste Tag.«
+
+Rask wandte sich wieder dem Wasser zu und sah auf die Pfähle, als wären sie das, was ihn anging, und nicht die Männer hinter ihm.
+
+»Sie arbeiten.«
+
+»Sie arbeiten nicht. Sie liegen am Feuer, und einer hat einen Fuß, der aussieht, als müsste er geschnitten werden.«
+
+»Dann wird er geschnitten.«
+
+»Rask.«
+
+Zum ersten Mal klang etwas in Jorens Stimme, das nicht Bitte war und nicht Vorwurf, sondern etwas Drittes, das zwischen beiden lag und keiner von ihnen benennen wollte. Rask hörte es und drehte sich um, und sein Gesicht war nicht mehr kalt, sondern müde.
+
+»Voss, ich habe keine Männer. Ich habe acht Soldaten, von denen drei krank sind, und ich habe vier Fischer, von denen einer nicht mehr laufen kann. Ich habe einen Befehl, die Sperre bis zum Monatsende zu schließen, und ich habe kein Material, um sie zu schließen, und ich habe keine Zeit, um Euch zu erklären, warum ich Euch die Männer nicht zurückgeben kann.«
+
+»Ihr habt sie für wenige Tage angefordert.«
+
+»Ich habe sie angefordert, weil ich sie brauchte. Ich brauche sie noch.«
+
+»Und was sagt Euer Befehl über die Dauer?«
+
+Rask sah ihn an, und in seinem Blick lag das, was Joren schon wusste, bevor er es hörte.
+
+»Mein Befehl sagt nichts über die Dauer. Mein Befehl sagt, dass die Sperre geschlossen werden muss. Wie lange das dauert, entscheidet nicht mein Befehl, sondern das Wetter und der Feind und die Zahl der Männer, die ich habe. Und die Zahl der Männer, die ich habe, ist zu klein.«
+
+Joren sah auf die Pfähle, auf die versenkten Balken, auf das halb gekenterte Prahmfahrzeug, auf die Männer am Feuer, die nicht arbeiteten, weil sie nicht mehr arbeiten konnten. Er sah das Chaos, und er sah, dass es kein Chaos war, sondern das Ergebnis einer Rechnung, die nicht aufging, und dass Rask die Rechnung kannte und trotzdem weiterrechnete.
+
+»Ihr könnt sie nicht entlassen«, sagte Joren.
+
+»Ich kann sie nicht entlassen.«
+
+»Bevor die Rammarbeiten fertig sind.«
+
+»Bevor die Rammarbeiten fertig sind.«
+
+Joren nickte, langsam, als hätte er eine Lotung vorgenommen und den Grund gefunden, den er erwartet hatte, und als wäre der Grund nicht das, was er gehofft hatte.
+
+»Und wann sind die Rammarbeiten fertig?«
+
+Rask sah auf das Wasser, auf die Pfähle, auf den Dunst, der im Norden die nächste Reihe verschluckte, und er sagte nichts, und sein Schweigen war die Antwort.
+
+Maren war während des Gesprächs am Zelt stehen geblieben, und sie hatte zugehört, und ihr Gesicht war blass, aber sie sagte nichts, und Joren war dankbar dafür, weil er nicht wusste, was er hätte sagen sollen, wenn sie etwas gesagt hätte. Sie ging zu dem Mann mit dem dicken Fuß und kniete sich neben ihn, und der Mann sah auf, und es war Jens Paye, und Paye erkannte sie und versuchte zu lächeln, aber das Lächeln wurde nichts.
+
+»Maren«, sagte er. »Du bist gekommen.«
+
+»Ich bin gekommen.«
+
+»Sie lassen uns nicht gehen.«
+
+»Ich weiß.«
+
+»Sie lassen uns nicht gehen, weil sie uns brauchen, und sie brauchen uns, weil sie zu wenig Männer haben, und sie haben zu wenig Männer, weil sie zu viele Pfähle setzen, und sie setzen zu viele Pfähle, weil der Feind kommt, und der Feind kommt, weil wir hier sind, und wir sind hier, weil wir gekommen sind, und wir sind gekommen, weil wir geglaubt haben, dass es wenige Tage sind.«
+
+Paye lachte, aber es war kein Lachen, und dann hustete er, und dann sagte er nichts mehr, und Maren legte ihm die Hand auf die Schulter, und Paye schloss die Augen.
+
+Joren stand bei Rask und sah auf die beiden, und er dachte an Thiessow, an den leeren Platz am Strand, an Lene, die Netze flickte, an Fiete, der wartete, und er dachte an das, was er sagen würde, wenn er zurückkäme, und er wusste es nicht.
+
+»Ich muss zurück«, sagte er.
+
+»Ihr müsst zurück.«
+
+»Ich muss den Frauen sagen, was ich gesehen habe.«
+
+Rask sah ihn an, und in seinem Blick lag etwas, das beinahe Mitleid war, aber nicht ganz, weil Mitleid eine Zeit voraussetzt, die Rask nicht hatte.
+
+»Sagt ihnen, dass die Männer arbeiten. Sagt ihnen, dass sie in wenigen Tagen zurückkommen, sobald die Rammarbeiten fertig sind. Sagt ihnen, was sie hören wollen.«
+
+»Und wenn es nicht wahr ist?«
+
+»Dann ist es nicht wahr. Aber es ist das, was sie hören wollen, und es ist das, was ich Euch sage, und es ist das Einzige, was ich Euch sagen kann.«
+
+Joren sah ihn an, und er sah, dass Rask nicht log, sondern dass Rask die Wahrheit so weit verschob, bis sie in die Form passte, die er brauchte, und dass er selbst genau dasselbe tun würde, wenn er zurückkäme, weil er nicht wusste, was er sonst tun sollte.
+
+»Ich sage ihnen, dass die Männer in wenigen Tagen zurückkommen«, sagte Joren.
+
+»Das ist gut.«
+
+»Ich sage ihnen, dass die Rammarbeiten fast fertig sind.«
+
+»Das ist auch gut.«
+
+»Ich sage ihnen, dass Ihr mir versprochen habt, sie zu entlassen, sobald die Arbeiten abgeschlossen sind.«
+
+Rask sah ihn an, und für einen Moment war sein Gesicht nicht müde, sondern hart, und dann wurde es wieder müde, und er nickte.
+
+»Sagt es ihnen.«
+
+Joren wandte sich um und ging zu Maren, und Maren stand auf, und sie sah ihn an, und in ihrem Blick lag das, was sie nicht aussprach, und Joren sah es und sagte nichts, weil er wusste, dass sie es wusste, und weil er wusste, dass sie es trotzdem hören wollte.
+
+»Komm«, sagte er. »Wir fahren zurück.«
+
+Sie fuhren zurück, und das Wasser war still, und der Wind war schwach, und die Möwe glitt über den Bodden, und Maren saß im Bug und sah auf die Sperre, die hinter ihnen kleiner wurde, und Joren stand am Ruder und sah nach vorn, auf Thiessow, auf den Strand, auf den leeren Platz, an dem die Grete gefehlt hatte, und er dachte an das, was er sagen würde, und er wusste es immer noch nicht.
+
+Als sie anlegten, standen Else und Lene am Ufer, und Else hielt die Hände vor dem Bauch gefaltet, und Lene stand neben ihr, und Lene sah nicht auf das Boot, sondern auf das Wasser dahinter, als könnte dort noch etwas kommen, das sie nicht mehr erwartete.
+
+»Und?«, sagte Lene.
+
+Joren zog das Boot auf den Kies und band es fest, und er sah nicht auf, als er sprach, weil er nicht wusste, ob er es aushielt, in ihr Gesicht zu sehen.
+
+»Sie arbeiten«, sagte er. »Sie sind wohlauf. Der Fuß von Dierk ist nicht so schlimm, wie es aussah. Sie kommen zurück, sobald die Rammarbeiten fertig sind.«
+
+»Wann sind die Rammarbeiten fertig?«
+
+»In wenigen Tagen.«
+
+»Das hast du beim letzten Mal auch gesagt.«
+
+»Beim letzten Mal war es eine Aussicht. Jetzt ist es eine Zusage.«
+
+Lene sah ihn an, und in ihrem Blick lag das, was sie nicht aussprach, und Joren sah es und hielt es aus, weil er es aushalten musste, und weil er wusste, dass er es nicht aushalten würde, wenn er es nicht aushielt.
+
+»Eine Zusage von wem?«
+
+»Von Rask.«
+
+»Rask hat auch beim letzten Mal eine Zusage gemacht, und die Männer sind nicht gekommen.«
+
+»Rask hat beim letzten Mal gesagt, dass sie für wenige Tage gehen, und sie sind für wenige Tage gegangen, und die wenigen Tage sind noch nicht vorbei.«
+
+»Sie sind vorbei. Der sechste Tag ist vorbei.«
+
+»Dann sind sie morgen vorbei.«
+
+Lene sah ihn an, und dann sah sie weg, und dann sah sie auf das Wasser, und dann sagte sie nichts mehr, und Else trat vor und legte die Hand auf Jorens Arm, und ihre Hand war warm, und Joren spürte sie und wusste, dass Else es wusste, und dass sie es trotzdem zuließ, weil sie wusste, dass er es brauchte.
+
+Maren stand am Boot und sagte nichts, und sie sah auf ihren Vater, und in ihrem Blick lag das, was sie nicht aussprach, und Joren sah es und wusste, dass sie es wusste, und dass sie es trotzdem nicht sagen würde, weil sie wusste, dass er es wusste.
+
+Am Abend saßen sie am Tisch, und Else hatte Fisch gekocht, und der Fisch war gut, und niemand aß viel davon, und Joren sagte, dass die Männer wohlauf seien, und Else sagte, dass es gut sei, und Maren sagte nichts, und Lene war nicht gekommen, weil Lene am Strand stand und auf das Wasser sah, als könnte dort noch etwas kommen, das sie nicht mehr erwartete.
+
+Joren ging hinaus, als es dunkel war, und er stand am Zaun und sah auf das Wasser, und hinter ihm brannte das Licht in der Stube, und vor ihm lag die Nacht, und irgendwo dort draußen lagen die Pfähle und die Ketten und die versenkten Balken, und irgendwo dort draußen lagen die Männer, und irgendwo dort draußen lag das, was er gesagt hatte, und das, was er nicht gesagt hatte, und er wusste nicht, welches von beiden schwerer wog.
+
+Maren kam heraus und stellte sich neben ihn, und sie standen schweigend da, und der Wind kam von Nordwest, und er war kalt, und die Dunkelheit war vollständig, und auf dem Wasser war kein Boot.
+
+»Du hast gelogen«, sagte Maren.
+
+»Ich habe gesagt, was ich gesehen habe.«
+
+»Du hast gesagt, dass die Männer wohlauf sind, und du hast gesagt, dass Dierks Fuß nicht so schlimm ist, und du hast gesagt, dass sie in wenigen Tagen zurückkommen, und du weißt, dass es nicht wahr ist.«
+
+»Ich weiß, dass es nicht sicher ist.«
+
+»Du weißt, dass es nicht wahr ist.«
+
+Joren sah auf das Wasser, und er sah auf die Nacht, und er sah auf das, was er nicht sagen konnte, und er sagte es trotzdem, weil Maren es war, und weil Maren es wusste, und weil es keinen Sinn hatte, es vor ihr zu verbergen.
+
+»Ich weiß, dass es nicht wahr ist.«
+
+»Warum hast du es gesagt?«
+
+»Weil sie es hören wollten.«
+
+»Lene wollte die Wahrheit hören.«
+
+»Lene wollte hören, dass Dierk zurückkommt. Das ist nicht dasselbe.«
+
+Maren sah ihn an, und in ihrem Blick lag das, was sie nicht aussprach, und Joren sah es und wusste, dass sie recht hatte, und dass er trotzdem nicht anders gekonnt hätte, und dass das keine Entschuldigung war, sondern nur eine Erklärung, und dass Erklärungen nichts änderten.
+
+»Ich fahre morgen wieder hin«, sagte Maren.
+
+»Du fährst nicht.«
+
+»Ich fahre.«
+
+»Du fährst nicht allein.«
+
+»Dann fahren wir zusammen.«
+
+Joren sah sie an, und er sah, dass sie es ernst meinte, und er sah, dass sie es tun würde, ob er es erlaubte oder nicht, und er wusste, dass er es nicht verhindern konnte, weil er es nie hatte verhindern können, und weil er es vielleicht auch nicht wollte.
+
+»Wir fahren zusammen«, sagte er.
+
+Sie standen schweigend da, und der Wind kam von Nordwest, und er war kalt, und die Dunkelheit war vollständig, und auf dem Wasser war kein Boot, und über dem Dorf lag ein Schweigen, das nicht das Schweigen des Friedens war, sondern das Schweigen derer, die zu rechnen begonnen hatten, und die Rechnung ging nicht auf, und Joren wusste, dass sie nicht aufgehen würde, und dass er es wusste und trotzdem gesagt hatte, dass sie aufginge, und dass das der Anfang von etwas war, das er nicht mehr rückgängig machen konnte.
+
+Am nächsten Morgen stand er früh auf, und er ging zum Strand, und er sah auf das Wasser, und auf dem Wasser war kein Boot, und am östlichen Ende des Strandes war die leere Stelle, an der die Grete gelegen hatte, und die leere Stelle war noch leer, und sie würde leer bleiben, und Joren wusste es, und er sagte es nicht, weil er es nicht sagen konnte, und weil er wusste, dass Maren es wusste, und dass sie es trotzdem hören wollte, und dass er es ihr nicht sagen würde, und dass das der Riss war, der sich auftat, und dass er sich nicht mehr schließen würde.
+
+---
+
+## Was Thies gesehen hat
+
+> »Der Krieg verschlingt die Söhne der Armen und gibt den Reichen ihre Töchter zurück.«
+> — Sprichwort unter den Küstenfischern des Greifswalder Boddens, aufgezeichnet um 1715
+
+Der Regen hatte aufgehört, aber die Luft stand noch schwer zwischen den Häusern, als Thies Arndt über die Dorfstraße von Thiessow kam. Er ging nicht wie einer, der von einer Fahrt zurückkehrt. Er ging wie einer, der etwas hinter sich herzog, das er nicht ablegen konnte. Seine Stiefel waren bis über die Knöchel mit Schlamm verkrustet, und an der linken Hand, die er fest um den Riemen seines Beutels geschlossen hielt, war getrocknetes Blut. Maren sah ihn durch das Fenster des Küsterhauses, wo sie über Benthins Abschriften gesessen hatte, ohne eine Zeile zu lesen. Sie sah ihn und wusste, bevor er die Tür erreichte, dass etwas geschehen war, das sich nicht mehr rückgängig machen ließ.
+
+Sie trat auf die Schwelle, und Thies blieb zwei Schritte vor ihr stehen, als hätte er vergessen, wie man einen Fuß vor den anderen setzt. Sein Gesicht war grau unter dem Wetterbrand, und die Augen lagen tiefer, als sie es von ihm kannte. Er sagte nichts. Er sah sie an, und in seinem Blick lag etwas, das Maren nicht kannte — nicht Furcht, nicht Zorn, sondern eine Art von Ratlosigkeit, die nur entsteht, wenn ein Mensch etwas gesehen hat, das in seine Vorstellung von der Welt nicht mehr hineinpasst.
+
+»Du bist zurück«, sagte Maren. Es klang nicht wie eine Feststellung. Es klang wie eine Frage, die sie nicht stellen wollte.
+
+»Ich bin zurück«, sagte Thies. Seine Stimme war heiser, als hätte er lange geschwiegen oder viel geschrien. »Ich bin zurück, und ich wünschte, ich wäre es nicht.«
+
+Er trat über die Schwelle, und sie ließ ihn ein, weil es nichts anderes gab, was sie hätte tun können. In der Stube war es warm und stickig. Auf dem Tisch lagen die Papiere, die Benthin am Morgen gebracht hatte — Abschriften der Bootsliste, saubere Zeilen in Marens eigener Handschrift, die Namen von Männern und Fahrzeugen, die vor Wochen noch bloße Nachbarschaft gewesen waren. Thies sah sie, und etwas in seinem Gesicht veränderte sich, als erkenne er in den Buchstaben etwas, das er bisher nur geahnt hatte.
+
+»Setz dich«, sagte Maren.
+
+»Ich kann nicht sitzen.«
+
+»Dann steh. Aber sag es mir.«
+
+Thies ging zum Fenster, und er blieb dort stehen, den Rücken zu ihr, und er sprach zu den Scheiben, als könne er es nur so aussprechen. »Ich bin mit der Versorgung rübergefahren, wie es abgesprochen war. Zwei Fuhren Mehl, ein Fass Salzfisch, Werkzeug für die Rammarbeiten. Rask hatte es genehmigt, es war ordentlich eingetragen, es war eine erlaubte Fahrt.« Er machte eine Pause, und seine Schultern hoben sich, als atme er gegen etwas an. »Als ich ankam, war der halbe Steg weggerissen. Sie hatten einen Pfahl gesetzt, und der Pfahl ist gerutscht, weil der Grund nachgegeben hat. Sie hatten nicht genug Leute, um ihn zu halten, und nicht genug Zeit, um ihn neu zu setzen, und der Pfahl ist gefallen.«
+
+Maren sagte nichts. Sie wartete.
+
+»Dierk stand darunter«, sagte Thies. »Er stand darunter, weil er derjenige war, der die Leine hielt, weil er derjenige war, der immer die Leine hält, weil er derjenige ist, der nicht loslässt.« Seine Stimme brach nicht, aber sie wurde dünner, als käme sie aus größerer Entfernung. »Der Pfahl hat seinen Fuß getroffen. Nicht gestreift. Getroffen. Ich habe es gesehen, Maren. Ich habe es gesehen, und ich habe gehört, wie er geschrien hat, und ich habe gesehen, wie sie ihn weggetragen haben, und ich habe gesehen, wo sie ihn hingetragen haben.«
+
+Er drehte sich um. Sein Gesicht war jetzt offen, und was darin lag, war nicht mehr Ratlosigkeit, sondern etwas Kälteres, etwas, das sich in den letzten Stunden in ihm festgesetzt hatte wie Salz in einer Wunde.
+
+»Sie haben ihn in den Schuppen gelegt. Auf den Boden. Auf eine Decke, die nass war. Kein Arzt. Kein Verband außer einem Stück Leinen, das einer der Soldaten abgerissen hat. Und Rask hat gesagt, es sei ein Versorgungsproblem. Er hat es so genannt. Ein Versorgungsproblem.«
+
+Maren spürte, wie sich etwas in ihrer Brust zusammenzog, langsam und fest, wie eine Faust, die sich schließt. Sie dachte an Dierk, wie er am Strand gestanden hatte, den Requisitionsschein in der Hand, den Kopf leicht zur Seite geneigt, als prüfe er, ob das Papier echt sei. Sie dachte an Lene, wie sie gesagt hatte, sie werden nicht zurückkommen. Sie dachte an ihren Vater, wie er am Abend zuvor gesagt hatte, es sei nicht wahr, und wie er es trotzdem gesagt hatte, weil sie es hören wollten.
+
+»Ist er am Leben?«, fragte sie.
+
+»Er ist am Leben«, sagte Thies. »Er ist am Leben, und er ist bei Bewusstsein, und er hat mich erkannt. Er hat gesagt, ich soll es Lene nicht sagen. Er hat gesagt, ich soll sagen, es sei nichts. Er hat gesagt, ich soll sagen, es sei bald vorbei.« Er lachte, und es war kein Lachen. »Er hat gelogen, Maren. Er hat gelogen, weil er sie schonen wollte, und ich habe genickt, weil ich nicht wusste, was ich sonst tun sollte.«
+
+Maren stand auf. Sie tat es langsam, und sie tat es ohne Hast, und in ihren Bewegungen lag eine Ruhe, die Thies nicht kannte und die ihn beunruhigte. Sie ging zum Tisch und nahm die Abschriften, die dort lagen, und sie faltete sie, und sie legte sie in die Schublade, und sie schloss die Schublade, und sie sah Thies an.
+
+»Wo ist mein Vater?«
+
+»Am Strand. Er hat die Möwe klar gemacht für morgen.«
+
+»Dann geh nach Hause«, sagte Maren. »Wasch dich. Iss etwas. Und komm morgen nicht zum Strand.«
+
+»Maren —«
+
+»Komm morgen nicht zum Strand«, sagte sie erneut, und ihre Stimme war jetzt nicht mehr ruhig, sondern fest, und Thies erkannte in ihr etwas, das er bei ihr noch nie gehört hatte. »Was du gesehen hast, hast du gesehen. Aber was jetzt kommt, ist nicht deine Sache. Es ist meine.«
+
+Thies sah sie an, und er wollte etwas sagen, und er sagte es nicht, weil er wusste, dass sie recht hatte, und weil er wusste, dass jede weitere Silbe sie nur weiter von ihm entfernen würde. Er nahm seinen Beutel, und er ging zur Tür, und auf der Schwelle blieb er stehen.
+
+»Er hat geschrien«, sagte er, ohne sich umzudrehen. »Als der Pfahl ihn traf. Er hat nicht um Hilfe geschrien. Er hat nach Lene geschrien. Nach Lene und nach Fiete. Und dann hat er aufgehört, und dann haben sie ihn weggetragen.«
+
+Er ging hinaus. Die Tür fiel ins Schloss, und Maren blieb allein in der Stube, und sie hörte, wie seine Schritte auf der Straße leiser wurden, und sie hörte, wie der Wind gegen die Scheiben stieß, und sie hörte nichts anderes. Dann nahm sie ihren Mantel, und sie ging hinaus, und sie ging nicht zum Strand, sondern zum Haus ihres Vaters.
+
+Joren saß am Tisch, als sie eintrat, und vor ihm lag eine Karte der Boddensperre, die er selbst gezeichnet hatte, mit Bleistiftstrichen und Korrekturen, mit Tiefenangaben und Peilungen, mit allem, was ein Lotse braucht, um ein Fahrzeug durch schwieriges Wasser zu bringen. Er sah auf, als sie eintrat, und in seinem Gesicht lag das, was Maren in den letzten Wochen oft gesehen hatte — die Müdigkeit eines Mannes, der zu viele Entscheidungen allein getragen hatte, und die Hartnäckigkeit eines Mannes, der nicht aufhören konnte, sie zu tragen.
+
+»Thies war hier«, sagte Maren.
+
+»Ich weiß.«
+
+»Du weißt es.«
+
+»Ich habe ihn gesehen, als er vom Steg kam. Er ist nicht zu mir gekommen. Er ist zu dir gekommen. Das sagt mir genug.«
+
+Maren setzte sich ihm gegenüber. Sie tat es ohne Eile, und sie tat es ohne Zorn, und gerade das machte Joren unruhig, denn er kannte seine Tochter, und er wusste, dass ihr Zorn laut war und ihr Schweigen gefährlich.
+
+»Erzähl mir, was du weißt«, sagte sie.
+
+»Maren —«
+
+»Erzähl mir, was du weißt, Vater. Nicht, was du vermutest. Nicht, was du hoffst. Was du weißt.«
+
+Joren sah auf die Karte, und er sah auf die Striche, die er gezogen hatte, und er sah auf die Stelle, an der die Sperre verlief, und er wusste, dass er nicht länger ausweichen konnte, weil Maren nicht die war, der man auswich, und weil sie es nicht verdiente, und weil er es nicht mehr konnte.
+
+»Ich habe es befürchtet«, sagte er. »Als Rask sagte, der Einsatz dauere länger, habe ich befürchtet, dass sie nicht zurückkommen. Als er sagte, es sei ein Versorgungsproblem, habe ich befürchtet, dass einer von ihnen verletzt ist. Als Thies heute Morgen losfuhr, habe ich befürchtet, dass er etwas sieht, das ich nicht sehen will.« Er machte eine Pause. »Ich habe es befürchtet, Maren. Und ich habe es nicht gesagt.«
+
+»Warum nicht?«
+
+»Weil Befürchtungen keine Gewissheiten sind.«
+
+»Aber du hast es gewusst.«
+
+»Ich habe es befürchtet.«
+
+»Du hast es gewusst«, sagte Maren, und ihre Stimme war jetzt nicht mehr ruhig, sondern kalt, und die Kälte war schlimmer als jeder Zorn. »Du hast es gewusst, als du zu Lene gesagt hast, Dierk sei wohlauf. Du hast es gewusst, als du zu Else gesagt hast, es sei nichts. Du hast es gewusst, als du gestern Abend hier gesessen hast und mir gesagt hast, es sei nicht wahr, was ich sage, und es sei nicht sicher, was du sagst. Du hast es gewusst, und du hast es gesagt, und du hast es gesagt, weil du es nicht ertragen hast, es nicht zu sagen.«
+
+»Ja«, sagte Joren.
+
+»Ja?«
+
+»Ja. Ich habe es gewusst. Ich habe es gewusst, und ich habe es gesagt, weil ich nicht wusste, was ich sonst tun sollte. Weil ich nicht wusste, wie ich Lene ansehen sollte, wenn ich es sage. Weil ich nicht wusste, wie ich Else ansehen sollte. Weil ich nicht wusste, wie ich dich ansehen sollte.«
+
+»Und jetzt?«
+
+»Jetzt weiß ich es immer noch nicht.«
+
+Maren lehnte sich zurück. Sie sah ihren Vater an, und sie sah den Mann, der sie das Lesen gelehrt hatte, der sie mitgenommen hatte auf das Wasser, als sie sechs war, der ihr gezeigt hatte, wie man eine Peilung nimmt und wie man einen Grund liest und wie man ein Fahrzeug hält, wenn der Wind dreht. Sie sah den Mann, der immer gewusst hatte, was zu tun war, und der jetzt nicht mehr wusste, was zu tun war, und der es nicht zugab, weil er es nicht zugeben konnte, und der es nicht zugeben konnte, weil er nie gelernt hatte, es zuzugeben.
+
+»Dierks Fuß ist zerschmettert«, sagte sie. »Er liegt in einem Schuppen auf einer nassen Decke. Er hat kein Bett, keinen Arzt, keinen Verband außer einem Stück Leinen. Er hat nach Lene geschrien, als der Pfahl ihn traf. Er hat nach Fiete geschrien. Und Rask nennt es ein Versorgungsproblem.«
+
+Joren sagte nichts.
+
+»Du hast ihn ausgewählt«, sagte Maren. »Du hast Rask gesagt, welche Männer geeignet sind. Du hast Dierk genannt, weil er das Fahrzeug führen kann. Du hast geglaubt, es sei ein kurzer Einsatz, und du hast geglaubt, es sei besser, wenn du die Auswahl triffst, als wenn Rask sie trifft. Und vielleicht war das sogar richtig. Vielleicht hätte Rask schlimmere gewählt. Vielleicht hätte er Männer gewählt, die nicht zurückkommen können. Aber du hast geglaubt, und du hast gehofft, und du hast geschwiegen, und jetzt liegt Dierk in einem Schuppen, und du sitzt hier und zeichnest Karten.«
+
+»Was hätte ich tun sollen?«
+
+»Du hättest es sagen sollen.«
+
+»Und dann?«
+
+»Und dann hätten wir entschieden, was zu tun ist. Zusammen. Nicht du allein. Nicht du, der alles trägt, weil er es tragen kann. Nicht du, der alles weiß, weil er es weiß. Zusammen.«
+
+Joren sah auf seine Hände. Sie lagen auf der Karte, und sie waren ruhig, und sie waren es nicht. »Ich habe immer gedacht, dass es besser ist, wenn einer entscheidet«, sagte er. »Auf einem Schiff, in einem Sturm, bei einer Bergung — wenn alle entscheiden, entscheidet keiner. Wenn alle reden, hört keiner. Ich habe immer gedacht, dass es meine Aufgabe sei, die Entscheidung zu tragen, damit die anderen sie nicht tragen müssen.«
+
+»Das ist keine Aufgabe«, sagte Maren. »Das ist eine Ausrede.«
+
+Joren sah auf. »Was?«
+
+»Du hast es nicht getragen, damit wir es nicht tragen müssen. Du hast es getragen, damit du es tragen kannst. Damit du der bist, der trägt. Damit du der bist, der weiß. Damit du der bist, der nötig ist.« Sie sah ihn an, und in ihrem Blick lag jetzt nicht mehr nur Kälte, sondern etwas anderes, etwas Älteres, etwas, das sie selbst überraschte. »Du willst gebraucht werden, Vater. Das ist es. Du willst gebraucht werden, und du hast Angst, dass niemand dich braucht, wenn du nicht der bist, der alles weiß.«
+
+Joren sagte nichts, weil sie recht hatte, und weil er es wusste, und weil er es zum ersten Mal hörte, und weil es weh tat, und weil es wahr war.
+
+»Ich fahre morgen zur Sperre«, sagte Maren. »Ich fahre nicht, um zu verhandeln. Ich fahre nicht, um zu bitten. Ich fahre, um Dierk zu holen. Wenn Rask ihn nicht herausgibt, hole ich ihn so. Wenn ich ein Boot brauche, nehme ich ein Boot. Wenn ich Hilfe brauche, suche ich Hilfe. Aber ich fahre, und ich fahre nicht allein, weil du mitkommst, oder weil ich allein fahre, und du weißt, dass ich allein fahre, wenn du nicht mitkommst.«
+
+»Maren —«
+
+»Das ist keine Bitte«, sagte sie. »Das ist eine Feststellung.«
+
+Joren sah sie an, und er sah die Tochter, die er großgezogen hatte, und er sah die Frau, die sie geworden war, und er sah, dass sie nicht mehr die war, die sie gewesen war, als er sie das Lesen gelehrt hatte, und dass er es nicht bemerkt hatte, und dass er es jetzt bemerkte, und dass es zu spät war, um es zu ändern, und dass es vielleicht nicht zu spät war, um es anzuerkennen.
+
+»Wir fahren zusammen«, sagte er.
+
+»Gut.«
+
+»Aber nicht so. Nicht ohne Plan. Nicht ohne zu wissen, was wir tun, wenn Rask nein sagt. Nicht ohne zu wissen, was wir tun, wenn er ja sagt und Dierk nicht transportfähig ist. Nicht ohne zu wissen, was wir tun, wenn uns jemand aufhält.«
+
+»Dann lass uns planen«, sagte Maren, und sie zog die Karte zu sich heran, und sie sah auf die Striche, die ihr Vater gezogen hatte, und sie sah auf die Stelle, an der die Sperre verlief, und sie sah auf die Stelle, an der das Arbeitsfahrzeug lag, und sie sah auf die Stelle, an der die Grete liegen musste, und sie wusste, dass sie nicht wusste, was sie tun würde, und dass sie es trotzdem tun würde, und dass das der Unterschied war zwischen ihr und ihrem Vater.
+
+Sie saßen bis tief in die Nacht über der Karte. Else kam herein, sah die beiden, sagte nichts und ging wieder. Draußen wurde es dunkel, und drinnen wurde es still, und zwischen Vater und Tochter entstand etwas, das kein Einverständnis war, aber auch kein Streit, sondern etwas Drittes — eine Übereinkunft über das Nötigste, und die Erkenntnis, dass das Nötigste nicht reichte, aber dass es das war, was sie hatten.
+
+Als Maren ging, war es nach Mitternacht. Sie trat auf die Straße, und die Luft war kalt, und über dem Wasser lag kein Licht, und sie dachte an Dierk, wie er im Schuppen lag, und an Lene, die es nicht wusste, und an Thies, der es gesehen hatte, und an ihren Vater, der es gewusst und geschwiegen hatte. Sie dachte an die Liste, die sie geschrieben hatte, an die Namen, die sie eingetragen hatte, an die Buchstaben, die ihre eigene Handschrift trugen, und sie wusste, dass sie nicht unschuldig war, und dass sie es nie gewesen war, und dass sie es jetzt wusste, und dass das Wissen nichts änderte und alles änderte.
+
+Am nächsten Morgen stand sie vor Sonnenaufgang auf. Sie ging zum Strand, und Thies war nicht da, wie sie gesagt hatte, und ihr Vater war da, wie er gesagt hatte, und die Möwe lag im flachen Wasser, und der Wind kam von Nordwest, und es war kein guter Wind für die Überfahrt, aber es war der Wind, den sie hatten. Sie stießen ab, und das Dorf blieb hinter ihnen, und die leere Stelle am östlichen Ende des Strandes blieb leer, und Maren sah nicht zurück, weil sie wusste, dass Zurücksehen nichts änderte, und weil sie wusste, dass sie es trotzdem tun würde, wenn sie es täte, und weil sie es nicht tun wollte.
+
+Auf dem Wasser war es still. Joren saß am Ruder, und Maren saß am Bug, und zwischen ihnen lag die Karte, und auf der Karte lagen die Striche, und die Striche führten zur Sperre, und an der Sperre lag Dierk, und über Dierk lag der Himmel, und der Himmel war grau, und das Grau war das Licht, das über allem lag, was sie nicht ändern konnten, und über allem, was sie ändern würden.
+
+»Vater«, sagte Maren.
+
+»Ja.«
+
+»Wenn Rask nein sagt —«
+
+»Dann sage ich es dir«, sagte Joren. »Dann sage ich es dir, bevor ich etwas tue, und dann entscheiden wir zusammen, und wenn wir uns nicht einig sind, dann entscheidest du, weil du es bist, die es tun wird, und weil ich es bin, der es zugelassen hat, dass es so weit gekommen ist.«
+
+Maren sah ihn an, und sie sah, dass er es ernst meinte, und sie sah, dass es ihm schwerfiel, und sie sah, dass er es trotzdem sagte, und sie wusste, dass das nicht genug war, und dass es mehr war, als er je gesagt hatte.
+
+»Gut«, sagte sie.
+
+Sie fuhren weiter. Der Wind drehte leicht, und Joren korrigierte den Kurs, und Maren sah auf das Wasser, und auf dem Wasser trieben kleine Wellen, und die Wellen trugen nichts, und über ihnen war der Himmel, und unter ihnen war der Grund, und zwischen Himmel und Grund lagen sie, und sie wussten nicht, was sie erwartete, und sie wussten, dass sie es nicht wissen konnten, und sie wussten, dass sie es trotzdem versuchen würden.
+
+Am Horizont erschien die Sperre. Erst als Linie, dann als Reihe von Pfählen, dann als das, was sie war — eine Mauer im Wasser, gezogen von Menschen, die nicht gefragt worden waren, und gehalten von Menschen, die nicht gefragt wurden, und verteidigt von Menschen, die nicht wussten, wogegen sie verteidigten. Joren sah sie, und er sah die Lücke, die er selbst vermessen hatte, und er sah die Stelle, an der die Grete liegen musste, und er sah die Stelle, an der Dierk lag, und er sagte nichts, weil es nichts zu sagen gab, und weil Maren es sah, und weil sie es wusste.
+
+Maren sah die Sperre, und sie sah die Pfähle, und sie sah das Wasser, und sie dachte an das, was Thies gesagt hatte — er hat nach Lene geschrien, nach Lene und nach Fiete — und sie wusste, dass sie nicht mehr die war, die sie gewesen war, als sie die Liste geschrieben hatte, und dass sie es nie wieder sein würde, und dass das der Preis war, und dass sie ihn zahlen würde.
+
+Das Boot glitt weiter. Die Sperre wurde größer. Und irgendwo dahinter, in einem Schuppen auf einer nassen Decke, lag ein Mann, der nach seiner Frau geschrien hatte, und der jetzt schwieg, weil er nicht mehr schreien konnte, und der nicht wusste, dass zwei Menschen über das Wasser kamen, die ihn holen würden, ob es erlaubt war oder nicht.
+
+---
+
+## Die fehlenden Fahrzeuge
+
+> »Es ist nicht die Aufgabe des Lotsen, das Schiff zu retten. Es ist seine Aufgabe, den Grund zu kennen, auf dem es fährt. Wer mehr verspricht, verspricht, was er nicht halten kann.«
+> — Aus den Randnotizen eines Greifswalder Lotsen, 1704
+
+Der Vormittag lag grau über Middelhagen, und der Wind kam aus Nordwest, feucht und ohne Wärme, wie er im Herbst kam, wenn die See noch nicht stürmte, aber schon drohte. Joren Voss stand im Pfarramt vor dem Tisch, auf dem die Karte des Boddens ausgebreitet lag, und hörte, wie draußen ein Wagen über das Kopfsteinpflaster rumpelte. Er hatte die Karte nicht selbst aufgelegt. Leutnant Nils Rask hatte sie aufgelegt, mit einer Handbewegung, die keinen Widerspruch duldete, und Joren stand davor wie vor einem Dokument, das ihn verurteilte.
+
+Rask saß nicht. Er stand am Fenster, die Hände hinter dem Rücken verschränkt, und betrachtete den Hof, als sei der Hof eine Karte, die er bereits vermessen hatte. Sein Deutsch war gut, zu gut für einen Mann, der es nur für den Dienst gelernt hatte, und das machte die Sache nicht einfacher.
+
+»Ich brauche fünf Fahrzeuge«, sagte Rask, ohne sich umzudrehen. »Nicht vier. Fünf. Die Grete ist nur noch bedingt einsatzfähig, und zwei der Prahme haben Schäden, die ich nicht selbst beheben kann. Sie kennen die Boote hier. Sie kennen die Männer. Sie werden mir sagen, welche in Frage kommen.«
+
+Joren sah auf die Karte. Er sah die Linien, die Rask gezogen hatte, dünne Bleistiftstriche, die den Bodden in Abschnitte teilten, als sei das Wasser ein Feld, das man bestellen konnte. Er sah die Stelle, an der die Sperre lag, und die Stelle, an der die Grete lag, und die Stelle, an der Dierk lag, irgendwo zwischen den Strichen, in einem Schuppen, auf einer nassen Decke.
+
+»Fünf Fahrzeuge sind mehr, als das Dorf entbehren kann«, sagte Joren. »Wenn ich fünf Boote abgebe, kann ich im Frühjahr nicht fischen, und wenn ich nicht fische, kann ich nicht abgeben, was Sie im Winter brauchen.«
+
+»Der Winter ist nicht meine Sorge«, sagte Rask. Er drehte sich um. Sein Gesicht war schmal, die Augen lagen tief, und er sah Joren an, wie man ein Werkzeug ansieht, dessen Grenzen man kennt. »Meine Sorge ist die Sperre. Sie wird bis zum Monatsende fertig sein. Dafür brauche ich Arbeitsfahrzeuge, und ich brauche sie jetzt. Nicht in drei Tagen. Nicht nächste Woche. Jetzt.«
+
+»Und die Männer?«, fragte Joren. »Die vier, die Sie bereits haben. Dierk Arndt liegt mit einem zerschmetterten Fuß in Ihrem Schuppen. Er kann nicht arbeiten. Er braucht einen Arzt, und er braucht seine Frau, und er braucht —«
+
+»Er braucht nichts von dem«, sagte Rask, und seine Stimme wurde nicht lauter, sie wurde leiser, und das war schlimmer. »Er braucht einen Ersatz. So wie die anderen drei einen Ersatz brauchen, wenn sie nicht mehr arbeiten können. Ich habe keine Männer, die ich abstellen kann, um sie zu pflegen. Ich habe eine Sperre, die gebaut werden muss, und ich habe einen Befehl, der keine Rücksicht auf einzelne Füße nimmt.«
+
+Joren legte die Hand auf den Tisch. Die Karte raschelte unter seinen Fingern. Er spürte, wie die Worte in ihm hochstiegen, die er nicht sagen durfte, und er spürte, wie die Worte, die er sagen konnte, nicht ausreichten. Er dachte an Maren, die neben ihm gestanden hatte, als sie die Sperre am Horizont gesehen hatten, und er dachte an das Versprechen, das er ihr gegeben hatte, bevor er etwas tat, würde er es ihr sagen.
+
+»Ich kann Ihnen die Liegeplätze nennen«, sagte Joren, und es klang wie eine Niederlage, weil es eine war. »Aber ich kann Ihnen nicht sagen, dass die Männer freiwillig kommen. Und ich kann Ihnen nicht sagen, dass die Boote heil bleiben, wenn Sie sie nehmen.«
+
+»Das habe ich auch nicht verlangt«, sagte Rask. Er trat an den Tisch und legte den Finger auf die Karte, auf eine Stelle südlich der Sperre, wo die Küste sich krümmte und ein kleiner Einschnitt ins Land schnitt. »Hier. Was liegt hier?«
+
+Joren sah auf die Stelle. Er kannte sie. Es war der alte Anlandeplatz, der Platz, den die Familien seit Generationen nutzten, wenn der Wind aus Nordwest kam und die offene See zu unruhig war. Es war der Platz, an dem Klook und Tamm sich gestritten hatten, und es war der Platz, an dem Maren die Boote verstecken wollte, wenn es so weit kam.
+
+»Nichts«, sagte Joren. »Ein flacher Streifen. Bei Niedrigwasser fällt er trocken. Kein Liegeplatz für größere Fahrzeuge.«
+
+Rask sah ihn an. Es war ein Blick, der nicht zweifelte, sondern prüfte, und Joren hielt ihm stand, weil er wusste, dass ein Ausweichen jetzt alles verraten würde.
+
+»Gut«, sagte Rask. »Dann werde ich ihn mir selbst ansehen. Morgen. Mit zwei Männern. Ich möchte wissen, was dort liegt, bevor ich entscheide, welche Boote ich nehme.«
+
+Joren sagte nichts. Er sah auf die Karte, und er sah die dünnen Bleistiftstriche, und er sah die Stelle, an der der alte Anlandeplatz lag, und er wusste, dass er gerade etwas getan hatte, das er nicht rückgängig machen konnte. Er hatte nicht gelogen. Er hatte nur nicht alles gesagt. Und das war, wie er wusste, der Unterschied, der zählte.
+
+»Ich werde Sie begleiten«, sagte Joren. »Wenn Sie den Platz sehen wollen, zeige ich ihn Ihnen. Aber ich sage Ihnen jetzt, was Sie dort finden werden: Sand, Steine, ein paar alte Pflöcke. Nichts, was Ihnen nützt.«
+
+Rask lächelte. Es war kein freundliches Lächeln. Es war das Lächeln eines Mannes, der wusste, dass er etwas bekommen hatte, ohne es zu verlangen, und der nicht wusste, was es war, und der es trotzdem behalten würde.
+
+»Das werden wir sehen«, sagte er.
+
+---
+
+Else Voss stand in der Küche, als Joren zurückkam. Sie hatte die Ärmel hochgekrempelt und die Hände im Teig, und sie sah nicht auf, als er eintrat, und das war ihre Art, ihm zu zeigen, dass sie wartete. Der Teig lag auf dem Tisch wie ein weißer Hügel, und daneben stand ein Krug Wasser, und daneben lag ein Messer, und alles war an seinem Platz, nur Joren nicht.
+
+»Du warst beim Leutnant«, sagte Else. Es war keine Frage.
+
+»Ja.«
+
+»Und?«
+
+Joren setzte sich auf die Bank an der Wand. Er sah auf seine Hände, die rissig waren von der Arbeit, und er sah auf den Teig, der aufging, und er dachte an Maren, die irgendwo draußen war, am Strand vielleicht, oder im Küsterhaus, oder auf dem Weg zu Lene, um ihr zu sagen, was sie nicht sagen konnte.
+
+»Er will fünf Boote«, sagte Joren. »Nicht vier. Fünf. Und er will den alten Anlandeplatz sehen. Morgen.«
+
+Else hörte auf zu kneten. Sie wischte die Hände an der Schürze ab, langsam, sorgfältig, als hätte sie Zeit, und dann sah sie ihn an, und ihr Blick war nicht warm, wie er sonst war, sondern kalt, und das war schlimmer als jeder Vorwurf.
+
+»Fünf Boote«, sagte sie. »Und was hast du ihm gesagt?«
+
+»Ich habe ihm gesagt, dass ich ihn begleiten werde. Dass ich ihm den Platz zeige. Dass er nichts finden wird.«
+
+»Und das hast du ihm gesagt, weil es wahr ist?« Else trat einen Schritt näher. »Oder weil du gehofft hast, dass es wahr ist?«
+
+Joren sah auf. »Else —«
+
+»Nein.« Sie hob die Hand, und es war eine Geste, die er kannte, eine Geste, die bedeutete, dass sie nicht unterbrochen werden wollte. »Du hast mir erzählt, dass die Männer für wenige Tage fortgehen. Du hast mir erzählt, dass Dierks Fuß nicht schlimm ist. Du hast mir erzählt, dass alles in Ordnung ist, und dann kommt Thies, und dann kommt Maren, und dann kommt die Wahrheit, und die Wahrheit ist, dass du es gewusst hast. Du hast es gewusst, Joren. Du hast es gewusst, und du hast geschwiegen, und jetzt willst du mir erzählen, dass du dem Leutnant die Wahrheit sagst?«
+
+»Ich habe ihm gesagt, was er wissen muss«, sagte Joren, und er hörte selbst, wie hohl das klang.
+
+»Was er wissen muss.« Else lachte, aber es war kein Lachen, es war ein Geräusch, das aus der Tiefe kam, aus einer Tiefe, die Joren nicht kannte. »Du hast ihm gesagt, was du ihm sagen kannst, ohne dass er dich für einen Lügner hält. Du hast ihm gesagt, was du ihm sagen kannst, ohne dass er dich für einen Verräter hält. Und du hast ihm nicht gesagt, dass der Platz der Platz ist, an dem Maren die Boote verstecken will. Du hast ihm nicht gesagt, dass deine Tochter einen Plan hat, der sie ins Gefängnis bringen kann. Du hast ihm nicht gesagt, dass du weißt, was sie tut, und dass du es zulässt, weil du nicht weißt, was du sonst tun sollst.«
+
+Joren stand auf. »Woher weißt du —«
+
+»Weil ich deine Frau bin«, sagte Else. »Weil ich dich seit dreißig Jahren kenne. Weil ich weiß, wann du lügst, und weil ich weiß, wann du die Wahrheit sagst, und weil ich weiß, dass du gerade die Wahrheit sagst, und dass sie nicht reicht.«
+
+Sie trat ans Fenster. Draußen zog eine Möwe ihre Kreise, und der Wind drückte gegen die Scheiben, und irgendwo schlug eine Tür, und dann war es wieder still.
+
+»Rask ist nicht wie die anderen Offiziere, die wir gehabt haben«, sagte Else, ohne sich umzudrehen. »Er ist nicht grausam, weil er es genießt. Er ist grausam, weil er es muss. Er hat einen Befehl, und er wird ihn erfüllen, und wenn er dafür fünf Boote braucht, dann nimmt er fünf Boote, und wenn er dafür fünf Männer braucht, dann nimmt er fünf Männer, und wenn er dafür einen alten Lotsen braucht, der ihm sagt, wo die Boote liegen, dann nimmt er den alten Lotsen, und der alte Lotse wird ihm sagen, wo die Boote liegen, weil er glaubt, dass er damit Schlimmeres verhindert.«
+
+Sie drehte sich um. Ihr Gesicht war ruhig, aber ihre Augen waren es nicht.
+
+»Und das Schlimmste ist«, sagte sie, »dass du recht haben könntest. Dass es wirklich Schlimmeres gibt. Dass Rask wirklich mehr nehmen würde, wenn du ihm nicht gibst, was er verlangt. Aber du weißt es nicht. Du weißt es nicht, Joren. Und du tust so, als wüsstest du es. Und das ist das, was ich dir nicht verzeihen kann. Nicht dass du dich irrst. Dass du tust, als irrtest du dich nicht.«
+
+Joren sah sie an. Er wollte etwas sagen. Er wollte sagen, dass er es nicht besser wusste. Er wollte sagen, dass er versuchte, das Beste zu tun. Er wollte sagen, dass er nicht schlafen konnte, weil er an Dierk dachte, und dass er nicht essen konnte, weil er an Maren dachte, und dass er nicht atmen konnte, weil er an all die Dinge dachte, die er nicht getan hatte, und die er nicht tun würde, und die er trotzdem tun musste.
+
+Aber er sagte nichts. Weil er wusste, dass sie recht hatte. Und weil er wusste, dass sie es wusste.
+
+»Ich fahre morgen mit ihm raus«, sagte Joren schließlich. »Zum alten Anlandeplatz. Und ich werde ihn so führen, dass er nichts findet. Das ist alles, was ich tun kann.«
+
+»Das ist alles, was du tun willst«, sagte Else. Sie wandte sich wieder dem Teig zu. »Es gibt einen Unterschied, Joren. Du hast ihn früher gekannt. Ich weiß nicht, wann du ihn vergessen hast.«
+
+---
+
+Der Strand lag still unter dem grauen Himmel, und das Wasser war flach und ohne Farbe, wie es im Herbst war, wenn die Sonne nicht durchkam und der Wind nicht wehte und alles zu warten schien. Joren ging langsam, die Hände in den Taschen, den Blick auf den Sand gerichtet, der feucht war und fest, und er dachte an nichts, weil Denken nicht half.
+
+Er sah die Boote erst, als er fast bei ihnen war. Zwei lagen im Schilf, halb verdeckt, mit Netzen überzogen, die aussahen, als wären sie zum Trocknen ausgelegt. Ein drittes lag weiter hinten, am Rand des Einschnitts, wo das Wasser tiefer war und das Schilf dichter, und es war so gut versteckt, dass Joren es nur erkannte, weil er wusste, wo er suchen musste.
+
+Und dann sah er Maren.
+
+Sie stand am dritten Boot, knietief im Wasser, und sie hantierte an der Reling, und ihre Bewegungen waren schnell und sicher, wie die Bewegungen einer Frau, die wusste, was sie tat, und die nicht wollte, dass jemand sie dabei sah. Sie trug ein Tuch um den Kopf, das ihr Gesicht halb verdeckte, aber Joren erkannte sie an der Haltung, an der Art, wie sie sich bewegte, an der Art, wie sie nicht aufsah, obwohl sie ihn hören musste.
+
+Er blieb stehen. Er hätte sie rufen können. Er hätte hingehen können. Er hätte sie fragen können, was sie tat, und warum sie es tat, und ob sie wusste, was sie riskierte. Aber er tat nichts von alledem. Er stand am Rand des Schilfs und sah ihr zu, und er sah, wie sie ein Tau löste, und wie sie es neu befestigte, und wie sie einen Knoten prüfte, den sie selbst gemacht hatte, und wie sie dann innehielt und auf das Wasser sah, auf das offene Wasser, auf die Stelle, an der die Sperre lag, unsichtbar von hier, aber gegenwärtig, immer gegenwärtig.
+
+Sie wusste, dass er da war. Sie musste es wissen. Sie hatte ihn kommen hören, oder sie hatte ihn gespürt, oder sie hatte einfach gewusst, dass er kommen würde, weil sie wusste, wie er dachte, und weil sie wusste, dass er früher oder später hier sein würde, am Strand, bei den Booten, bei ihr.
+
+Aber sie drehte sich nicht um. Sie arbeitete weiter, ruhig, konzentriert, als wäre er nicht da, als wäre nichts geschehen, als wäre die Welt noch die Welt, die sie gewesen war, bevor die Grete verschwunden war und Dierk verletzt und alles auseinandergefallen war.
+
+Joren sah sie an, und er dachte an das, was Else gesagt hatte. Er dachte an das, was Maren gesagt hatte. Er dachte an das, was er selbst gesagt hatte, vor langer Zeit, als die Dinge noch einfach gewesen waren. Und er wusste, dass er nichts sagen konnte. Nicht jetzt. Nicht hier. Nicht so.
+
+Er trat einen Schritt zurück. Das Schilf raschelte, und Maren hielt inne, nur für einen Augenblick, nur für einen Herzschlag, und dann arbeitete sie weiter, als hätte sie nichts gehört.
+
+Joren wandte sich um. Er ging den Strand zurück, langsam, die Hände in den Taschen, den Blick auf den Sand gerichtet, und er dachte an das Boot, das im Schilf lag, und an die Knoten, die Maren gemacht hatte, und an die Stelle, an der die Sperre lag, und an den Leutnant, der morgen kommen würde, um den Platz zu sehen, und an die Lüge, die er ihm erzählen würde, und an die Wahrheit, die er verschwieg.
+
+Er wusste, dass Maren etwas vorbereitete. Er wusste nicht, was. Er wusste nur, dass es geschehen würde, ob er es wollte oder nicht, und dass er nichts tun konnte, um es zu verhindern, und dass er vielleicht nicht einmal wollte, dass es verhindert wurde.
+
+Als er den Pfad erreichte, der vom Strand zum Dorf führte, blieb er stehen. Er sah zurück. Maren war immer noch da, immer noch am Boot, immer noch mit dem Rücken zu ihm, und sie arbeitete, als gäbe es nichts anderes auf der Welt, als gäbe es keinen Leutnant und keine Sperre und keinen Krieg, als gäbe es nur das Boot und das Wasser und den Knoten, den sie gerade machte.
+
+Und Joren begriff, dass sie nicht wartete. Sie wartete nicht auf ihn. Sie wartete auf nichts. Sie tat einfach, was getan werden musste, und sie tat es allein, weil sie wusste, dass sie es allein tun musste, und weil sie wusste, dass er nicht helfen konnte, und weil sie wusste, dass er es trotzdem versuchen würde, und weil sie ihn nicht davon abhalten konnte, und weil sie es auch nicht wollte.
+
+Er drehte sich um und ging weiter. Der Wind kam vom Wasser, und er trug den Geruch von Salz und Algen und kaltem Herbst, und Joren atmete ihn ein, und er dachte an Dierk, der in einem Schuppen lag, und an Lene, die es noch nicht wusste, und an Fiete, der zu jung war, um zu verstehen, und an all die Menschen, die auf ihn warteten, und an all die Dinge, die er ihnen nicht sagen konnte.
+
+Und irgendwo hinter ihm, am Strand, im Schilf, arbeitete Maren weiter an einem Boot, das sie versteckte, und sie tat es nicht für sich, und sie tat es nicht für ihn, und sie tat es nicht für Rask, und sie tat es für einen Mann, der nicht mehr schreien konnte, und für eine Frau, die noch nicht wusste, dass sie allein war, und für ein Kind, das seinen Vater verloren hatte, ohne es zu wissen.
+
+Joren ging weiter. Der Pfad führte bergauf, und das Dorf lag vor ihm, und die Dächer waren grau wie der Himmel, und der Rauch stieg aus den Schornsteinen, dünn und gerade, als wäre nichts geschehen, als wäre alles in Ordnung, als wäre die Welt noch die Welt, die sie gewesen war.
+
+Aber sie war es nicht. Und Joren wusste es. Und er wusste, dass Maren es wusste. Und er wusste, dass sie beide allein waren, jeder auf seine Art, und dass sie es bleiben würden, bis einer von ihnen etwas tat, das nicht mehr rückgängig zu machen war.
+
+Am Abend saß Joren im Pfarramt und zeichnete die Karte neu. Er zeichnete den alten Anlandeplatz ein, und er zeichnete die Stelle, an der die Boote lagen, und er zeichnete die Stelle, an der Maren gestanden hatte, und er zeichnete die Stelle, an der er stehen würde, wenn Rask morgen kam, und er zeichnete die Lüge, die er erzählen würde, und die Wahrheit, die er verschwieg, und alles lag auf dem Papier, dünn und schwarz und ohne Farbe, wie die Linien, die Rask gezogen hatte.
+
+Er sah auf die Karte, und er sah, dass sie nicht stimmte. Er sah, dass sie nie gestimmt hatte. Er sah, dass sie eine Zeichnung war, eine Annäherung, ein Versuch, das Wasser zu ordnen, das sich nicht ordnen ließ.
+
+Und dann dachte er an Maren, wie sie am Boot gestanden hatte, knietief im Wasser, mit dem Rücken zu ihm, und wie sie nicht aufgesehen hatte, und wie sie trotzdem gewusst hatte, dass er da war, und wie sie trotzdem gewusst hatte, dass er gehen würde, und wie sie trotzdem geblieben war.
+
+Er legte den Stift hin. Er sah aus dem Fenster. Draußen war es dunkel, und der Wind hatte sich gelegt, und die Sterne waren nicht zu sehen, weil der Himmel zu tief hing, und irgendwo draußen, am Strand, lagen die Boote im Schilf, und warteten auf das, was kommen würde.
+
+Joren wusste, dass er morgen mit Rask zum alten Anlandeplatz fahren würde. Er wusste, dass er ihm zeigen würde, was er zeigen konnte, und verschweigen, was er verschweigen musste. Er wusste, dass er Maren damit nicht schützte, und dass er sie nicht verriet, und dass es keinen Unterschied machte, weil sie ihn nicht mehr brauchte, um zu wissen, was sie tat.
+
+Er wusste, dass die Boote fehlten, und dass sie fehlen würden, bis jemand sie fand, und dass Rask sie finden würde, früher oder später, weil Rask alles fand, was er finden wollte, und weil Joren ihm dabei half, ob er wollte oder nicht.
+
+Und er wusste, dass Maren es wusste.
+
+Er löschte die Lampe. Er ging nach oben. Else schlief schon, oder sie tat, als ob sie schlief, und Joren legte sich neben sie, und er starrte an die Decke, und er dachte an das Meer, das draußen lag, dunkel und still und ohne Ende, und an die Boote, die darin warteten, und an die Menschen, die sie fuhren, und an die Menschen, die sie verloren, und an die Menschen, die sie zurückholen wollten, ob es erlaubt war oder nicht.
+
+Am Morgen würde er mit Rask fahren. Am Morgen würde er ihm den Platz zeigen. Am Morgen würde er ihm sagen, dass dort nichts war, und er würde es sagen, ohne zu lügen, weil er es glaubte, weil er glauben musste, weil er nicht anders konnte.
+
+Aber er wusste, dass es nicht stimmte. Er wusste, dass dort etwas war. Er wusste, dass Maren es dort hingelegt hatte, und dass sie es dort lassen würde, bis es Zeit war, und dass es Zeit sein würde, wenn er nicht hinsah, und dass er nicht hinsehen würde, weil er nicht hinsehen konnte, und weil er nicht hinsehen wollte.
+
+Und irgendwo im Dunkeln, am Strand, im Schilf, lag ein Boot, und wartete, und Maren hatte es vorbereitet, und Joren wusste es, und er sagte nichts, und das war das Einzige, was er noch tun konnte.
+
+Er schloss die Augen. Der Wind strich um das Haus, leise, wie ein Atem, und dann war es still, und Joren schlief nicht, und er wusste, dass er nicht schlafen würde, und er wusste, dass es nicht darauf ankam.
+
+Am Morgen würde er fahren. Am Morgen würde er sehen, was er sehen musste. Am Morgen würde er wissen, was er wusste.
+
+Aber heute Nacht lag er im Dunkeln, und über ihm war das Dach, und unter ihm war das Haus, und um ihn war die Stille, und in der Stille war das Meer, und auf dem Meer waren die Boote, und in den Booten war das, was Maren vorbereitet hatte, und Joren wusste es, und er wusste, dass sie wusste, dass er es wusste, und dass sie trotzdem weitermachen würde, weil sie nicht anders konnte, und weil sie nicht anders wollte.
+
+Und das war der Punkt, an dem sie sich getrennt hatten. Nicht heute. Nicht gestern. Vor langer Zeit, als er angefangen hatte, für sie zu entscheiden, und als sie angefangen hatte, es zu merken. Und jetzt lagen sie im Dunkeln, getrennt durch eine Wand aus Schweigen, und jedes Wort, das er hätte sagen können, war zu spät, und jedes Wort, das sie hätte sagen können, war zu viel, und so blieb nur die Stille, und die Stille blieb, und draußen wartete das Meer.
+
+---
+
+## Das alte Ufer
+
+> *„Anno 1715, den 14. Junii, ist bei nächtlicher Ebbe ein Prahm der Kronen mit drei Lasten Rammholz im flachen Wasser vor dem Haken festgekommen, und hat man denselben erst am folgenden Mittag wieder flottgemacht, da der Grund sich stetig verändert und die Einfahrt keinem Fahrzeug zweimal dieselbe ist."*
+>
+> Aus: Küstenprotokoll des Strandvogts zu Middelhagen, Eintrag vom Sommer 1715.
+
+Das Schilf raschelte trocken, als hätte jemand Papier zwischen den Halmen zerrieben. Maren stand bis zu den Knöcheln im Schlamm und spürte, wie die Kälte durch die Lederstiefel kroch, langsam, unaufhaltsam, wie ein zweiter Puls. Vor ihr lag der alte Anlandeplatz, eine flache Bucht, die das Meer seit Jahrzehnten nicht mehr richtig ausgespült hatte, sodass der Grund sich mit Schlick gefüllt hatte und nur bei Hochwasser eine Handbreit Wasser über den Steinen stand. Ein Ort, den die Karten nicht führten, weil die Karten ihn nicht führen wollten. Ein Ort, an dem Boote verschwanden, wenn man sie verschwinden lassen wollte.
+
+Sie zog den linken Fuß aus dem Schlamm. Es machte ein Geräusch wie ein Kuss.
+
+»Du bist zu früh«, sagte Thies hinter ihr.
+
+Sie drehte sich nicht um. Sie hatte ihn kommen hören, das Knacken der Zweige, das Schmatzen seiner Stiefel, das gleichmäßige Atmen eines Mannes, der eine Last trug und sie nicht ablegen wollte. »Ich bin nie zu früh«, sagte sie. »Ich bin nur früher als die anderen.«
+
+Er trat neben sie. Er trug ein Bündel Segeltuch über der Schulter, schwer, dunkel, nass vom Abendtau. »Hannes kommt nicht«, sagte er.
+
+Maren schwieg. Sie hatte es gewusst, seit sie am Nachmittag an seiner Tür gestanden und durch die Ritze gesehen hatte, wie er den Riegel vorschob. Nicht aus Feigheit, hatte sie gedacht. Aus Angst um sein eigenes Boot. Aus Angst um das, was er besaß. Aus Angst um das, was er verlieren konnte.
+
+»Er hat gesagt, sein Kahn sei nicht seetüchtig«, fuhr Thies fort. »Er hat gesagt, die Planken seien morsch, und er könne nicht riskieren, dass er sinkt.«
+
+»Seine Planken sind nicht morsch«, sagte Maren. »Ich habe sie im Frühjahr gesehen, als er sie kalfatert hat. Er hat das Werg selbst gekauft, in Greifswald, für drei Taler, und er hat mir erzählt, wie stolz er darauf war.«
+
+»Dann hat er gelogen.«
+
+»Natürlich hat er gelogen.« Sie sah auf das Wasser hinaus, das im letzten Licht des Tages wie Blei lag, schwer und träge. »Er hat Angst. Das ist keine Lüge. Das ist nur eine andere Art, die Wahrheit zu sagen.«
+
+Thies ließ das Bündel Segeltuch zu Boden sinken. Es klatschte leise in den Schlamm. »Und Kruse?«
+
+»Kruse kommt.«
+
+»Bist du sicher?«
+
+»Er hat gesagt, er kommt. Aber er hat es so gesagt, wie man etwas sagt, das man nicht halten will. Er hat mich nicht angesehen, als er es sagte.«
+
+Thies nickte langsam. Er wusste, was das bedeutete. Er kannte die Männer des Dorfes, er kannte ihre Art, Zusagen zu geben, die keine waren. »Also zwei Boote«, sagte er. »Deins und meins. Und Kruse, wenn er kommt.«
+
+»Drei«, sagte Maren. »Wir brauchen drei. Der Plan sieht drei vor.«
+
+»Der Plan sieht vor, dass wir die Boote im Schilf verstecken, bis Rask sie nicht mehr findet. Der Plan sieht nicht vor, dass wir sie durch das Flachwasser ziehen, im Dunkeln, mit einer Patrouille im Rücken.«
+
+Sie sah ihn an. Sein Gesicht war halb im Schatten, die Konturen weich, die Augen dunkel. Er sah müde aus, nicht verängstigt, und das war schlimmer. »Du willst nicht«, sagte sie.
+
+»Ich will«, sagte er. »Aber ich will auch, dass du weißt, was du verlangst.«
+
+»Ich weiß es.«
+
+»Weißt du es wirklich?« Er trat einen Schritt näher. »Wenn sie uns erwischen, Maren, dann ist es nicht mehr dein Plan und meine Schuld. Dann ist es Diebstahl an der Krone. Dann ist es Sabotage. Dann hängen wir beide, oder wir werden eingesperrt, oder wir werden nach Stralsund gebracht, und niemand wird uns holen, weil niemand es wagen wird.«
+
+»Ich weiß es«, sagte sie wieder, und diesmal klang es nicht wie eine Antwort, sondern wie eine Feststellung. »Ich weiß es, seit ich das erste Boot ins Schilf gezogen habe. Ich habe es gewusst, als ich den Schlamm von den Planken gekratzt habe. Ich habe es gewusst, als ich die Leine befestigt habe, damit es nicht abtreibt. Ich habe es gewusst, als ich nachts wach lag und mir vorgestellt habe, wie sie uns finden, und wie sie uns fragen, und wie wir antworten.«
+
+»Und was hast du geantwortet?«
+
+»Nichts.« Sie sah ihn an. »Ich habe nichts geantwortet. Ich habe nur dagestanden und geschwiegen, und dann habe ich mir vorgestellt, wie sie Dierk abführen, und wie Lene am Strand steht, und wie Fiete fragt, wann der Vater zurückkommt, und dann habe ich aufgehört, mir vorzustellen, und ich habe angefangen, zu handeln.«
+
+Thies schwieg. Das Schilf raschelte wieder, stärker jetzt, der Wind frischte auf, und über dem Wasser lag der Geruch von Moder und Salz und altem Holz. Irgendwo weit draußen rief ein Vogel, einmal, zweimal, dann war es still.
+
+»Also gut«, sagte er. »Drei Boote. Aber wir warten, bis es dunkel ist. Vollständig dunkel. Kein Mond, keine Sterne, nur das Wasser und wir.«
+
+»Einverstanden.«
+
+Sie gingen zum ersten Boot, das sie am Nachmittag im Schilf versteckt hatten, eine flache Jolle, kaum größer als die Möwe, mit einem Riss im Steven, der notdürftig mit Teer und Werg abgedichtet war. Maren hatte ihn selbst geflickt, in der Nacht zuvor, mit zitternden Händen und zusammengebissenen Zähnen. Sie hatte nicht gewusst, ob es halten würde. Sie wusste es immer noch nicht.
+
+Thies kniete sich hin und prüfte die Naht mit den Fingern. »Das hält«, sagte er. »Bis zum Morgen. Vielleicht länger.«
+
+»Es muss länger halten.«
+
+»Es muss gar nichts.« Er stand auf und wischte sich die Hände an der Hose ab. »Es muss nur heute Nacht halten. Alles andere ist Zukunft.«
+
+Sie sah ihn an, und für einen Moment, einen einzigen, wollte sie ihm widersprechen. Sie wollte ihm sagen, dass es nicht um heute Nacht ging, dass es nie um heute Nacht gegangen war, dass es um Dierk ging und um Lene und um Fiete und um alle, die nicht hier waren und nicht hier sein konnten. Aber sie sagte nichts. Sie wusste, dass er es wusste. Sie wusste, dass er es wusste und trotzdem mitkam, und das war mehr, als sie verlangen konnte.
+
+Sie packten das Segeltuch und legten es über die Jolle, sorgfältig, Falte für Falte, damit kein Licht hindurchschien und kein Regen eindrang. Dann gingen sie zum zweiten Boot, der Hoffnung, die Thies selbst gebaut hatte, vor drei Jahren, mit Geld, das er sich geliehen hatte, und mit Händen, die noch die Schwielen von der Arbeit trugen. Die Hoffnung lag tiefer im Wasser, sie war größer, schwerer, und sie würde mehr Mühe kosten.
+
+Maren blieb am Ufer stehen, während Thies hineinstieg und die Leine löste. »Warte«, sagte sie.
+
+Er hielt inne. »Was?«
+
+»Hörst du das?«
+
+Er lauschte. Der Wind, das Schilf, das Wasser. Und darunter, kaum hörbar, ein regelmäßiges Geräusch, das nicht dorthin gehörte. Ein Ruderschlag. Nein, zwei. Nein, mehr.
+
+»Patrouille«, sagte Thies leise.
+
+Maren sagte nichts. Sie ging in die Hocke, langsam, ohne das Wasser aufzuwühlen, und zog Thies am Ärmel mit hinunter. Sie lagen im Schilf, das Wasser bis zur Brust, und über ihnen schlossen sich die Halme wie ein Vorhang. Es war kalt. Es war so kalt, dass Maren die Zähne zusammenbeißen musste, um nicht zu zittern.
+
+Das Geräusch kam näher. Ein Boot, dunkel, mit einem Laternenlicht am Heck, das wie ein glühender Punkt über das Wasser glitt. Maren zählte die Ruder: vier. Ein Beiboot der Sperre, besetzt mit sechs oder acht Männern. Sie konnte die Stimmen hören, schwedische Worte, die sie nicht verstand, aber deren Tonfall sie kannte. Gleichgültig. Gelangweilt. Männer, die taten, was ihnen befohlen war, und dabei an etwas anderes dachten.
+
+Das Boot glitt vorbei, zwanzig Schritt entfernt, vielleicht fünfzehn. Maren presste die Lippen zusammen und atmete durch die Nase, flach, kaum merklich. Sie spürte Thies neben sich, seine Schulter an ihrer, seinen Atem, der genauso flach war wie ihrer. Sie spürte das Wasser, das an ihr zog, kalt und träge, und den Schlamm unter ihren Füßen, weich und nachgebend, und die Angst, die in ihrem Nacken saß wie eine Hand.
+
+Die Laterne entfernte sich. Das Rudergeräusch wurde leiser. Dann war es verschwunden, so plötzlich, wie es gekommen war, und Maren wartete, bis sie zwanzig Atemzüge gezählt hatte, dreißig, vierzig, bevor sie sich rührte.
+
+»Sie sind weg«, flüsterte Thies.
+
+»Sie kommen wieder«, flüsterte Maren. »Sie patrouillieren den ganzen Haken. Wir haben vielleicht eine Stunde.«
+
+Sie standen auf, langsam, das Wasser lief ihnen aus den Kleidern, und Thies fluchte leise, weil seine Stiefel vollgelaufen waren. »Eine Stunde«, sagte er. »Für drei Boote.«
+
+»Für zwei«, sagte Maren. »Kruse kommt nicht.«
+
+Sie hatte es gewusst, bevor sie es sagte. Sie hatte es an der Art gewusst, wie er am Nachmittag den Blick gesenkt hatte, wie er die Schultern hochgezogen hatte, wie er gemurmelt hatte, er werde sehen, was sich machen lasse. Sie hatte es gewusst und trotzdem gehofft, und jetzt wusste sie, dass sie sich getäuscht hatte.
+
+»Dann zwei«, sagte Thies. »Zwei Boote. Und die Hoffnung.«
+
+»Die Hoffnung bleibt hier«, sagte Maren. »Sie ist zu groß. Sie ist zu bekannt. Wenn sie sie finden, wissen sie sofort, wem sie gehört.«
+
+Thies sah sie an, und in seinem Blick lag etwas, das sie nicht deuten konnte. Es war nicht Zorn, nicht Trauer, nicht Angst. Es war etwas dazwischen, etwas Leises, etwas, das sie erst später verstehen würde.
+
+»Also gut«, sagte er. »Dann nur die Jolle und Kruses Kahn. Wenn er kommt.«
+
+»Er kommt nicht.«
+
+»Dann nur die Jolle.«
+
+Sie arbeiteten schweigend. Sie zogen die Jolle aus dem Schilf, Meter für Meter, durch das flache Wasser, das ihnen bis zu den Knien reichte. Der Grund war tückisch, voller Steine und Löcher, und zweimal stolperte Maren und fiel auf die Hände, und zweimal stand sie auf, ohne ein Wort zu sagen. Thies zog vorne, sie schob hinten, und das Boot glitt durch das Wasser wie ein Schatten, lautlos, kaum sichtbar.
+
+Sie brachten es hundert Schritt weiter, in eine kleine Bucht, die von einem alten Weidendickicht verdeckt war, und dort vertäuten sie es an einem Pfahl, den Maren am Nachmittag in den Grund gerammt hatte. Dann gingen sie zurück, um Kruses Kahn zu holen. Er lag am alten Anlandeplatz, halb im Schlick, halb im Wasser, und er war schwerer als die Jolle, viel schwerer, und sie brauchten länger, viel länger.
+
+Als sie ihn endlich in der Bucht vertäut hatten, war die Nacht vollständig hereingebrochen. Kein Mond, keine Sterne, nur das Wasser und der Wind und das Schilf, das unablässig raschelte. Maren stand am Ufer und sah auf die Boote hinaus, die im Dunkeln lagen wie schlafende Tiere, und sie spürte eine Müdigkeit, die tiefer ging als der Schlaf.
+
+»Wir müssen zurück«, sagte Thies. »Bevor es hell wird.«
+
+»Ich weiß.«
+
+Sie gingen den Weg zurück, den sie gekommen waren, am Ufer entlang, durch das Schilf, über die Steine. Das Wasser leckte an ihren Stiefeln, der Wind strich durch ihre nassen Kleider, und Maren fröstelte, aber sie sagte nichts. Sie dachte an Dierk, der in einem Schuppen lag, mit zerschmettertem Fuß, und an Lene, die am Strand stand und wartete, und an Fiete, der fragte, wann der Vater zurückkommt. Sie dachte an Joren, der morgen mit Rask zum Anlandeplatz fahren würde, und sie wusste, dass er nichts finden würde, weil sie es nicht wollte, und sie wusste, dass er es wusste, und sie wusste, dass er es wissen würde, und dass er trotzdem nichts sagen würde.
+
+»Maren«, sagte Thies.
+
+Sie blieb stehen. »Was?«
+
+Er stand hinter ihr, im Dunkeln, und sie konnte sein Gesicht nicht sehen, nur die Umrisse seiner Schultern und die Art, wie er den Kopf hielt. »Ich muss dir etwas sagen.«
+
+Sie wartete.
+
+»Ich habe mit Benthin gesprochen«, sagte er. »Vor drei Tagen. Über die Fähre nach Stralsund. Über die Arbeit auf dem Festland.«
+
+Maren sagte nichts. Sie spürte, wie die Kälte in ihr aufstieg, langsam, wie Wasser in einem lecken Boot.
+
+»Es gibt Arbeit in Greifswald«, fuhr er fort. »Im Hafen. Bootsbau, Reparaturen, das ganze Jahr. Sie suchen Leute, die etwas verstehen. Sie zahlen besser als hier. Viel besser.«
+
+»Und?«
+
+»Und ich habe überlegt, ob ich gehe.«
+
+Sie sah ihn an, und in der Dunkelheit sah sie nichts, und das war schlimmer, als wenn sie etwas gesehen hätte. »Wann?«
+
+»Nicht jetzt«, sagte er. »Nicht heute. Nicht morgen. Aber im Herbst. Wenn die Fischerei zu Ende ist. Wenn die Sperre fertig ist. Wenn es hier nichts mehr zu tun gibt.«
+
+»Es gibt immer etwas zu tun.«
+
+»Es gibt immer etwas zu tun, aber nicht immer etwas zu verdienen.« Er sprach ruhig, sachlich, ohne Bitterkeit. »Ich habe Schulden, Maren. Für die Hoffnung. Für das Werkzeug. Für das Holz. Ich habe sie abbezahlt, aber es hat Jahre gedauert, und ich will nicht wieder von vorne anfangen. Ich will nicht wieder betteln müssen. Ich will nicht wieder zusehen, wie andere entscheiden, was ich tun darf und was nicht.«
+
+»Und ich?«
+
+Er schwieg. Das Schilf raschelte. Der Wind strich über das Wasser. Irgendwo rief ein Vogel, einmal, zweimal, dann war es still.
+
+»Du weißt, dass ich dich nicht zurücklasse«, sagte er schließlich. »Du weißt, dass ich nicht gehe, um dich zu verlassen. Du weißt, dass ich gehe, weil ich nicht bleiben kann.«
+
+»Nein«, sagte sie. »Ich weiß es nicht.«
+
+»Maren –«
+
+»Ich weiß, dass du gehst«, sagte sie. »Ich weiß, dass du gehst, weil du nicht bleiben willst. Ich weiß, dass du gehst, weil du Angst hast, dass es hier nie besser wird. Ich weiß, dass du gehst, weil du glaubst, dass du auf dem Festland ein anderer sein kannst. Aber ich weiß nicht, ob du zurückkommst. Ich weiß nicht, ob du mich mitnimmst. Ich weiß nicht, ob du mich überhaupt gefragt hast.«
+
+Er trat einen Schritt näher. »Ich frage dich jetzt.«
+
+»Jetzt ist zu spät.«
+
+»Es ist nie zu spät.«
+
+»Doch«, sagte sie. »Es ist zu spät, wenn man es erst sagt, nachdem man drei Boote im Schilf versteckt hat. Es ist zu spät, wenn man es erst sagt, nachdem man weiß, dass die andere Person nicht wegkann. Es ist zu spät, wenn man es erst sagt, wenn man schon entschieden hat.«
+
+Thies schwieg. Sie hörte, wie er atmete, langsam, gleichmäßig, und sie wusste, dass er nicht wütend war, und das machte es schlimmer. Sie wusste, dass er nicht log, und das machte es schlimmer. Sie wusste, dass er sie liebte, auf seine Art, auf eine Art, die nicht reichte, und das machte es am schlimmsten.
+
+»Ich gehe nicht morgen«, sagte er. »Ich gehe nicht übermorgen. Ich gehe im Herbst. Und bis dahin –«
+
+»Bis dahin«, sagte sie, »bis dahin tun wir, was getan werden muss. Bis dahin holen wir Dierk zurück. Bis dahin halten wir die Boote versteckt. Bis dahin lügen wir Rask an und betrügen die Krone und riskieren unseren Hals. Und dann gehst du.«
+
+»Und du?«
+
+»Ich bleibe.«
+
+Er sagte nichts. Sie hörte, wie er die Luft einsog, wie er sie wieder ausstieß, wie er etwas sagen wollte und es nicht tat. Dann drehte er sich um und ging, den Weg zurück, den sie gekommen waren, und sie stand am Ufer und sah ihm nach, bis er im Dunkeln verschwunden war.
+
+Sie blieb noch eine Weile stehen. Der Wind wurde kälter, das Schilf raschelte lauter, und über dem Wasser lag der Geruch von Moder und Salz und altem Holz. Sie dachte an die Boote, die im Schilf lagen, und an die Männer, die sie fahren würden, und an die Männer, die nicht gekommen waren, weil sie Angst hatten. Sie dachte an Hannes, der den Riegel vorgeschoben hatte, und an Kruse, der den Blick gesenkt hatte, und an Jürgen Klook, der laut geschrien hatte, als es nichts zu verlieren gab, und der jetzt schwieg, wo es etwas zu verlieren gab.
+
+Sie dachte an das Dorf, das sie zurücklassen würden, wenn es darauf ankam. Sie dachte an die Solidarität, von der Benthin immer sprach, an die Gemeinschaft, von der der Pastor predigte, an das Band, das alle verband. Sie dachte daran, und sie wusste, dass es nicht existierte. Es existierte nur, solange es nichts kostete. Es existierte nur, solange man nichts verlangte. Es existierte nur, solange der Wind aus der richtigen Richtung kam.
+
+Und dann ging sie. Sie ging den Weg zurück, durch das Schilf, über die Steine, am Ufer entlang, und sie ging langsam, weil sie müde war, und sie ging allein, weil sie allein war. Sie ging an der Stelle vorbei, wo Dierk immer seine Netze getrocknet hatte, und an der Stelle, wo Lene immer die Körbe geflochten hatte, und an der Stelle, wo Fiete immer gespielt hatte, und sie sah nichts davon, weil es dunkel war, und sie fühlte nichts davon, weil sie zu müde war.
+
+Als sie das Dorf erreichte, brannte in keinem Haus mehr Licht. Die Fenster waren schwarz, die Türen geschlossen, die Gassen leer. Sie ging an der Kirche vorbei, an der Schule, an Benthins Haus, und sie hörte nichts, außer dem Wind und dem Meer und ihrem eigenen Atem.
+
+Vor ihrer Tür blieb sie stehen. Sie legte die Hand auf das Holz, kalt und rau, und sie spürte, wie ihre Finger zitterten, nicht vor Kälte, sondern vor etwas anderem, etwas, das sie nicht benennen konnte. Sie drückte die Tür auf, leise, und trat ein.
+
+Im Haus war es warm. Das Feuer im Herd war heruntergebrannt, aber die Glut glühte noch, rot und ruhig, und in ihrem Schein sah Maren die Umrisse der Möbel, den Tisch, die Bänke, die Truhe, die Wiege, die leer war. Sie zog die nassen Stiefel aus und stellte sie neben die Tür. Sie hängte den Mantel an den Haken. Sie ging zum Herd und legte ein Stück Torf nach, und die Glut flammte kurz auf, und für einen Moment war das ganze Zimmer hell.
+
+Dann setzte sie sich an den Tisch. Sie legte die Hände flach auf die Platte, und sie sah auf die Finger, die vom Schreiben verfärbt waren, und auf die Schwielen, die vom Rudern kamen, und auf die kleinen Narben, die sie sich beim Flicken der Netze zugezogen hatte. Sie sah ihre Hände an, wie sie sie noch nie angesehen hatte, und sie dachte, dass es die Hände einer Frau waren, die tat, was getan werden musste, und dass sie nicht wusste, ob das reichte.
+
+Draußen, hinter dem Fenster, lag das Meer. Sie hörte es, das leise Schlagen der Wellen, das unablässige Rauschen, das nie aufhörte, und sie wusste, dass es da war, ob sie es hörte oder nicht, und dass es bleiben würde, ob sie blieb oder nicht. Sie wusste, dass die Boote im Schilf lagen und auf sie warteten, und dass die Männer im Dorf in ihren Betten lagen und auf den Morgen warteten, und dass Rask in seinem Quartier lag und auf den Befehl wartete, und dass Joren im Pfarrhaus lag und auf den Tag wartete, an dem er nicht mehr lügen musste.
+
+Und sie wusste, dass sie allein war. Nicht weil niemand da war, sondern weil niemand da sein konnte. Nicht weil niemand sie liebte, sondern weil Liebe nicht reichte. Nicht weil niemand helfen wollte, sondern weil Helfen zu viel kostete.
+
+Sie stand auf. Sie ging zur Truhe und holte das Buch heraus, das Benthin ihr gegeben hatte, das Register, in dem sie die Boote verzeichnet hatte, die Namen, die Zahlen, die Daten. Sie legte es auf den Tisch und schlug es auf, und sie sah die Seiten an, die sie selbst beschrieben hatte, mit sorgfältiger Hand, mit schwarzer Tinte, mit dem Wissen, dass jedes Wort stimmte.
+
+Und dann nahm sie die Feder und tauchte sie ein und schrieb, ganz unten, auf die letzte Seite, ein Datum und drei Worte: *Drei Boote versteckt.*
+
+Sie sah die Worte an. Sie waren klein, unscheinbar, kaum sichtbar. Sie würden niemandem auffallen, der nicht wusste, was sie bedeuteten. Aber sie bedeuteten etwas. Sie bedeuteten, dass es geschehen war. Sie bedeuteten, dass es nicht rückgängig gemacht werden konnte. Sie bedeuteten, dass sie es getan hatte, und dass sie es wieder tun würde, wenn es sein musste.
+
+Sie klappte das Buch zu. Sie löschte die Lampe. Sie ging nach oben, in ihre Kammer, und sie legte sich auf das Bett, ohne sich auszuziehen, und sie starrte an die Decke, und sie dachte an Thies, der im Herbst gehen würde, und an Dierk, der in einem Schuppen lag, und an Lene, die am Strand stand, und an Fiete, der fragte, wann der Vater zurückkommt.
+
+Und irgendwo im Dunkeln, draußen, am Ufer, lagen zwei Boote im Schilf und warteten.
+
+Sie warteten auf den Tag, an dem sie gebraucht wurden.
+
+Sie warteten auf den Tag, an dem jemand sie fuhr.
+
+Sie warteten auf den Tag, an dem alles anders wurde.
+
+Und Maren wartete mit ihnen. Sie wartete, bis der Schlaf kam, und als er kam, war er nicht tief, und als sie träumte, träumte sie von Wasser, das stieg, und von Booten, die sanken, und von Menschen, die riefen, und von niemandem, der antwortete.
+
+Am Morgen, als das Licht durch das Fenster fiel, grau und kalt, stand sie auf. Sie wusch sich das Gesicht, sie zog trockene Kleider an, sie band die Haare zurück. Sie ging nach unten, sie machte Feuer, sie setzte Wasser auf. Sie tat, was sie immer tat, weil sie wusste, dass es getan werden musste, und weil sie wusste, dass niemand es für sie tun würde.
+
+Und als sie zur Tür ging und hinaustrat, in den Morgen, in den Wind, in das Licht, sah sie in der Ferne, am Horizont, die Segel der schwedischen Patrouille, die langsam über das Wasser glitten, und sie wusste, dass sie nicht das letzte Mal hier gestanden hatte, und dass sie nicht das letzte Mal würde warten müssen, und dass es nicht darauf ankam, ob sie wartete oder handelte, sondern nur darauf, dass sie nicht vergaß, warum sie es tat.
+
+Sie schloss die Tür hinter sich. Sie ging zum Strand. Sie ging zu Lene.
+
+---
+
+## Ohne Ersatz
+
+> »Ein Befehl verlangt keinen Konsens, er verlangt Vollzug; wo dieser durch Entzug der Mittel vereitelt wird, tritt die Strafe an die Stelle des Nutzens.«
+> — Aus den Dienstinstruktionen der schwedischen Generalgouvernements-Kanzlei zu Stralsund, 1712
+
+Maren spürte die Feuchtigkeit des Schilfs noch in den Säumen ihres Rocks, als der Morgen über Thiessow heraufzog. Es war ein fahles, kaltes Licht, das keine Wärme spendete, sondern die Konturen des Ufers mit einer schonungslosen Schärfe zeichnete. Das Wasser im Bodden lag reglos wie Blei, und der Nebel, der in den frühen Stunden wie ein schützender Schleier über den Buchten gelegen hatte, zerrann vor dem aufkommenden Landwind.
+
+Am Lotsensteg stand Leutnant Nils Rask. Er stand dort nicht wie ein Mann, der suchte, sondern wie einer, der längst gezählt hatte. Neben ihm hielten zwei Musketiere die Gewehre auf den Boden gestützt, reglos, das Schlossleder festgezurrt gegen das Salzwasser. Auf dem Holzsteg lagen ausgebreitet die Schreibtafel des Quartiermeisters und das Verzeichnis, das Laurenz Benthin mit so viel pedantischer Tinte angelegt hatte.
+
+Maren blieb zwanzig Schritte entfernt am Saum der Uferweiden stehen. Sie sah die Lücken. Wo gestern noch drei offene Kähne vertäut gelegen hatten – Fahrzeuge, die den Familien zum Ausbringen der Stellnetze dienten –, gluckste nun bloß noch schmutziger Schaum an den nackten Pfählen. Die leeren Taue hingen schlaff ins Wasser, sauber gelöst, nicht gekappt. Das war ihr eigener Fehler gewesen: Sie hatten die Taue mitgenommen, um keine Spuren zu hinterlassen, und genau diese Sorgfalt verriet nun den Vorsatz.
+
+Joren kam vom Bootsschuppen herüber. Sein Schritt war gewohnt ruhig, der Körper leicht nach vorn geneigt, als berechne er mit jedem Tritt die Neigung der Bohlen. Doch sein Blick ging nicht zu Rask. Er sah auf die freien Plätze im Wasser, sah die fehlenden Rümpfe, und für den Bruchteil eines Augenblicks versteifte sich seine Schulterpartie. Er wusste es. Er hatte es gewusst, seit er Rask am Vortag zum alten Anlandeplatz geführt hatte, doch die Wirklichkeit des leeren Wassers war etwas anderes als die Ahnung im Schilf.
+
+»Guten Morgen, Voss«, sagte Rask. Seine Stimme klang nicht laut, nicht zornig. Sie hatte jenen sachlichen, militärischen Klang, der gefährlicher war als jedes Brüllen. Er sprach Deutsch mit dem harten, schleifenden Akzent der småländischen Regimenter. »Ihr habt einen schnellen Schwund an Bordwänden in diesem Nest.«
+
+Joren blieb drei Schritte vor dem Offizier stehen. Er nahm die Mütze nicht ab, strich sie nur zurecht. »Das Wasser steigt mit dem Westwind, Herr Leutnant. Wer sein Boot nicht verholt, riskiert, dass es leck schlägt.«
+
+»Sie sind nicht verholt«, entgegnete Rask gelassen. Er tippte mit der Spitze seines Reitstocks auf die Liste. »Ein verholtes Boot liegt an einer anderen Boje. Diese hier sind fort. Drei Stück. Die Fahrzeuge von Kruse, Tamm und das zweite Fahrzeug der Familie Arndt.« Der Leutnant hob den Kopf und fixierte Joren. Seine Augen waren hell, fast ohne Farbe im grauen Morgen. »Wir brauchen sie heute. Für den Transport der schweren Schwellen an den Mittelgrund.«
+
+Maren trat aus dem Schatten der Weiden hervor. Der Kies knirschte unter ihren Sohlen. Sie wollte nicht, dass ihr Vater allein sprach; sie traute seinen Worten nicht mehr, seit er den ersten Requisitionsschein mit einem Kopfnicken gebilligt hatte.
+
+»Die Boote sind alt, Herr Leutnant«, sagte sie fest. Sie achtete darauf, die Hände in den Taschen ihrer Schürze zu verbergen, damit das Zittern der Kälte nicht sichtbar wurde. »Sie tragen keine Schwellen. Sie schöpfen Wasser, sobald mehr als drei Zentner Last im Raum liegen. Mein Vater wollte bloß verhüten, dass Eure Leute mit untauglichem Zeug absaufen.«
+
+Rask sah sie an. Sein Blick glitt über ihren feuchten Rocksaum, über ihre vom Hantieren mit nassen Tauen rot gescheuerten Fingerknöchel. Ein dünnes Lächeln zog über seine Lippen, ohne seine Augen zu erreichen. »Die Tochter des Küsters. Diejenige, die so hübsch die Namen einträgt.« Er wandte sich wieder an Joren, als existiere sie nicht mehr. »Ich führe keinen Disput über die Tragfähigkeit pommerscher Fischerboote, Voss. Ich führe ein Kommando. Ein Kommando baut eine Sperre. Und wer die Mittel entzieht, sabotiert das Werk.«
+
+»Es ist kein böser Wille im Dorf«, sagte Joren. Seine Stimme blieb tief, maßvoll, doch Maren hörte das feine Knarren in seinem Tonfall – die Anstrengung, nicht aufzubegehren, um das Schlimmste abzuwenden. »Die Leute haben Angst um ihre Existenz. Ohne Boote kein Fang. Ohne Fang kein Brot für den Winter. Wenn Ihr ihnen alles nehmt, sterben sie im März.«
+
+»Im März«, wiederholte Rask leise. »Ein weiter Horizont für einen Krieg. Mein Horizont reicht bis heute Mittag.« Er drehte sich zu seinem Korporal um. »Der Arbeitstrupp auf dem Prahm. Dierk Arndt und die drei anderen.«
+
+Maren hielt den Atem an. Die Kälte schien plötzlich durch ihre Kleidung bis auf die Rippen zu greifen.
+
+»Der Mann Arndt hat einen verletzten Fuß«, sagte Rask mit bürokratischer Präzision. »Er beansprucht Pflege und verbraucht Grütze, ohne volles Tagewerk zu tun. Bisher duldete ich das, weil wir auf die Fertigstellung warteten und seine Leute nützlich waren. Da nun aber der Ersatz fehlt – weder neues Holz noch frische Hände am Steg sind –, wird die Ordnung angepasst.«
+
+»Was heißt das?«, stieß Maren hervor.
+
+Rask blickte auf seine Papiere, strich einen Vermerk mit einem Rötelstift durch. »Arrest auf dem Wachfahrzeug. Keine Verpflegung aus den Magazinen, bis die drei Kähne an diesem Steg festgemacht sind. Volle Arbeitseinstellung der Zivilisten, Verwahrung unter Deck. Wer nicht für den König baut, isst nicht auf Kosten der Krone.«
+
+»Das ist Dierks Tod!«, rief Maren, und der Zorn brach durch ihre sorgsam gewahrte Haltung. »Er liegt im Wundfieber, Thies hat es gesehen! Ohne sauberes Wasser und Verband übersteht er keine zwei Tage in einem nassen Schiffsbauch!«
+
+»Dann liegt es an Ihnen, Jungfer Voss«, sagte Rask kühl, rollte das Papier zusammen und steckte es unter den Arm. »Oder an Ihrem Vater. Bringen Sie die Kähne. Bis heute Mittag. Stehen sie hier, wird die Ration ausgegeben und der Bader sieht nach dem Fuß. Stehen sie nicht hier, verlegen wir die Gefangenen heute Abend auf die Reede nach Peenemünde. Dort fragt niemand nach geschwollenen Knöcheln.«
+
+Der Leutnant wandte sich ab. Die beiden Musketiere traten hinter ihm in Tritt, das Klacken ihrer Absätze auf den nassen Stegplanken klang wie das Schlagen eines Richtbeils.
+
+Joren wartete, bis die Soldaten die Biegung des Dünenwegs erreicht hatten. Dann fuhr er herum. Seine Augen, sonst ruhig und vorausschauend wie die eines Mannes, der auf eine brechende Brandung blickt, brannten vor unterdrückter Wut.
+
+»Bist du nun zufrieden?«, zischte er. Er sprach leise, aber jedes Wort traf wie ein Hieb. »Hast du dein Recht bekommen? Hast du deine Boote gerettet?«
+
+Maren wich nicht zurück. Sie hob das Kinn, obwohl ihr das Herz bis zum Halse schlug. »Ich habe getan, was getan werden musste! Du hättest sie ihm ausgeliefert, so wie du Dierk ausgeliefert hast! Einen nach dem anderen hättest du an den Steg geführt, nur um deinen Schein von Frieden zu wahren!«
+
+»Einen Schein von Frieden?«, brauste Joren auf. Seine Hände ballten sich zu Fäusten. »Ich habe Zeit gekauft! Jeden Tag habe ich abgerungen, damit nicht die ganze Kompanie hier einfällt und das Dorf kahlfrisst wie die Heuschrecken! Glaubst du, dieser Schwede lässt sich von einem Mädchen belehren, das ein paar Buchstaben setzen kann? Er hat die Macht, Maren! Er hat das Eisen, er hat das Pulver, und er hat Dierk!«
+
+»Und du hast ihm geholfen!«, schrie sie nun, und Tränen des Zorns traten ihr in die Augen. »Du hast ihm gesagt, wer entbehrlich ist! Du hast Dierks Namen aufgeschrieben, weil du dachtest, ein besonnener Mann macht keinen Ärger! Du hast ihn geopfert, Vater, um deine eigene Haut und deine Lotsenpatente nicht zu gefährden!«
+
+»Schweig!«, herrschte Joren sie an. Er trat einen Schritt auf sie zu, die Gestalt dunkel gegen den grauen Himmel. »Du weißt nichts von Verantwortung. Nichts! Ein Boot im Schilf zu versenken ist leicht. Aber hierzustehen und einem Mann mit zwanzig Bajonetten im Rücken ins Gesicht zu sehen und das kleinere Übel zu wählen – das verlangt mehr, als nachts im Schlamm herumzukriechen! Du hast Dierk das Urteil gesprochen mit deinem Hochmut! ›Wir verteidigen, was uns gehört‹ – schau dir an, was du verteidigt hast! Drei verfaulte Planken, und dafür verhungert Lenes Mann im Kielraum!«
+
+»Weil deine Verhandlungen eine Farce sind!«, hielt sie dagegen, die Stimme heiser. »Er hat dich angelogen, von der ersten Stunde an! ›Für wenige Tage‹, hat er gesagt, und du hast genickt, weil du glauben wolltest, dass ein Offizier dein Wort achtet! Du bist eitel, Vater. Du wolltest der unentbehrliche Lotse sein, der Mann, ohne den es nicht geht, und darüber hast du vergessen, dass wir für sie nichts weiter sind als Schaufeln und Stricke, die man wegwirft, wenn sie reißen!«
+
+Sie standen einander gegenüber, keuchend, getrennt durch eine Kluft, die tiefer war als das Fahrwasser zwischen den Sandbänken. Es war die alte, schwelende Bitterkeit – Marens Zorn über seine väterliche Bevormundung, sein stilles Schweigen, das sie von jeher von seinen Entschlüssen ausschloss; und Jorens Verbitterung darüber, dass seine Tochter seine Lasten nicht als Schutz, sondern als Verrat begriff.
+
+»Hört auf.«
+
+Die Stimme war nicht laut, aber sie schnitt durch ihren Streit wie ein scharfes Messer durch nasses Tauwerk.
+
+Lene stand auf dem Pfad hinter ihnen. Sie trug einen groben Wollschal um den Kopf, das Gesicht grau vor Erschöpfung, die Hände rot und aufgesprungen von der Arbeit an den Netzen. Sie hatte einen Henkelkorb am Arm, der leer war. Sie war auf dem Weg zum Steg gewesen, um die tägliche Schale Brei für Dierk abzugeben, die man ihr nun verweigern würde.
+
+»Lene…«, begann Maren, und die Scham ließ ihr das Blut ins Gesicht steigen.
+
+»Hört auf«, wiederholte Lene. Sie trat zwischen die beiden, sah weder Joren noch Maren an, sondern starrte auf das leere Wasser hinaus, wo die Boote hätten liegen sollen. »Ihr steht hier und teilt die Schuld auf wie den Hering nach dem Fang. Wer hat mehr gefehlt? Wer war dümmer? Wer war stolzer?«
+
+Sie wandte sich langsam zu Joren um. Ihr Blick war trocken, ohne Tränen. »Du, Joren, hast geglaubt, du könntest mit dem Wolf handeln, wenn du ihm nur ein Schaf freiwillig hinwirfst. Und nun wunderst du dich, dass er das nächste fordert.«
+
+Joren senkte den Blick. Seine Lippen pressten sich aufeinander, doch er schwieg. Er nahm die Zurechtweisung an, wie er eine Welle an Deck annahm – mit festen Beinen und gebeugtem Kopf.
+
+Dann sah Lene Maren an. In ihren Zügen lag kein Vorwurf, nur eine unendliche, zermürbende Müdigkeit. »Und du, Maren. Du hast gedacht, du könntest den Wolf aushungern, indem du das Schaf versteckst. Aber du hast vergessen, wer die Zähne an der Kehle hat. Dierk hat sie. Nicht du. Nicht dein Vater. Dierk liegt auf den nassen Bilgenbrettern und spuckt Blut, während ihr euch gegenseitig beweist, wer von euch klüger gedacht hat.«
+
+Maren schluckte. Die Worte brannten mehr als der Wind. »Ich wollte… ich wollte verhindern, dass sie noch mehr holen.«
+
+»Was nützt mir das Boot im Schilf, wenn mein Mann krepiert?«, fragte Lene schlicht. Die Härte in ihrer Stimme brach für einen Herzschlag, gab den Blick frei auf das bodenlose Entsetzen einer Frau, die alles verlieren konnte. »Glaubt ihr, ich flechte Netze für die Geister? Wenn Dierk stirbt, ist mir gleich, wer Mönchgut regiert. Ob der Däne kommt oder der Schwede bleibt. Mir ist alles gleich.«
+
+Sie stellte den Korb auf den nassen Sand.
+
+»Rask gibt uns Zeit bis Mittag«, sagte Lene, und ihre Stimme war wieder die der praktischen Fischerin, die das Unabwendbare anpackte. »Drei Boote. Wir holen sie zurück.«
+
+»Nein!«, entfuhr es Maren unwillkürlich. Der Gedanke, das nächtliche Wagnis ungeschehen zu machen, vor Rask zu kriezen und die Boote an den Steg zu liefern, schmerzte wie eine offene Wunde. »Wenn wir sie ihm jetzt geben, weiß er, dass er uns brechen kann. Er wird jedes Mal Dierk als Geisel nehmen!«
+
+»Er nimmt ihn nicht als Geisel, er hat ihn schon«, erwiderte Lene kalt. »Und du wirst jetzt mit mir zum Schilf gehen, Maren Voss. Du wirst die Taue lösen, die du gestern vertäut hast. Und du, Joren, wirst die 'Möwe' klarmachen, damit wir die Kähne herüberholen können, bevor der Leutnant Ernst macht.«
+
+Joren blickte auf. »Lene hat recht. Wenn wir Dierk retten wollen, haben wir heute keine andere Wahl.«
+
+Maren sah ihren Vater an. Da war kein Triumph in seinem Gesicht, kein rechthaberisches Lächeln. Er sah alt aus, gezeichnet von den schlaflosen Nächten und dem Wissen, dass jeder seiner Schritte ihn tiefer in die Abhängigkeit führte. Und in diesem Augenblick begriff sie das ganze Ausmaß ihrer beider Niederlage: Weder sein Nachgeben noch ihr Widerstand hatten die Fischer geschützt. Sie hatten die Schlinge nur enger gezogen.
+
+»Sie werden ihn trotzdem nicht freilassen«, flüsterte Maren. Es war keine Widerrede mehr, nur die bittere Gewissheit. »Rask wird ein neues Pfand verlangen. Für jedes Boot, das wir bringen, verlangt er die Mannschaft.«
+
+»Möglich«, sagte Lene und griff nach Marens Handgelenk. Ihr Griff war hart, knochig, unerbittlich. »Aber bis heute Mittag bekommt er die Boote. Und Dierk bekommt seine Grütze und einen Verband. Um den Rest kümmern wir uns, wenn mein Mann noch atmet.«
+
+Sie zog Maren mit sich, fort vom Steg, hinein in den Dünenweg. Joren blieb zurück. Er stand allein zwischen den nackten Pfählen, den Blick auf den Horizont gerichtet, wo weit draußen, kaum erkennbar im Dunst, die schwedischen Kriegsschiffe wie dunkle Mahnmale auf der Reede lagen. Er wandte sich langsam um und ging zum Schuppen, um das Schlepptau für die Rückholung der Kähne zu holen. Sein Schritt war schwer, ohne Eile, der Gang eines Mannes, der weiß, dass die Zeit gegen ihn arbeitet und dass jede Rettung ihren Preis forderte – einen Preis, den bisher immer die anderen bezahlt hatten.
+
+Die Schuppentür knarrte in den rostigen Angeln, als er sie aufstieß, und der vertraute Geruch nach Teer, totem Seegras und feuchtem Hanf schlug ihm entgegen. Joren griff nach dem schweren Wergtau, wog die starre Last in den Händen und prüfte mit Daumen und Zeigefinger die Festigkeit der Kardeele. Dreilitzig, zäh, aber von Salz und Frost gezeichnet. Man konnte ein Boot damit durch die Brandung schleppen, doch man konnte damit keinen Fehler ungeschehen machen. Draußen verlor sich das dumpfe Pochen der schwedischen Beibhölzer im aufkommenden Seewind, ein gleichförmiger Takt militärischer Verwaltung, der keinen Widerspruch duldete und kein Erbarmen kannte. Rask hatte seine Drohung nicht geschrien, er hatte sie diktiert, silbenrein und ohne Hast, wie man einen Frachtzettel abzeichnet. Wer ein Fahrzeug entzog, entzog der Krone Arbeitskraft; wer sich widersetzte, hungerte. Vier Tage ohne Brot in der nassen Bilge der Schute waren für gesunde Männer eine schwere Prüfung, für Dierk Arndt mit dem zerschundenen Fuß bedeuteten sie Brand, Fieber und das Ende. Joren schlang die Bucht über die Schulter, trat hinaus in das fahle Licht und zog die Tür hinter sich zu. Der Riegel fiel mit einem harten, metallischen Laut ins Schloss.
+
+Die Zeit lief ihnen davon.
+
+---
+
+## Der Mann im Boot
+
+> »Was der Stärkere nimmt, das nennt der Krieg Notdurft; was er zurückgibt, das nennt der Frieden Gnade. Zwischen beiden liegt kein Recht, sondern nur die Zeit.«
+> — Hugo Grotius, De jure belli ac pacis, sinngemäß ins Deutsche übertragen
+
+Der Nebel stand an diesem Nachmittag so dicht über dem Bodden, dass die Ufer verschwanden, sobald man das Ruder an sich nahm. Lene saß an den Riemen, Maren am Steuer, und zwischen ihnen lag ein Korb mit Brot, Leinenwand und einem Topf Salbe, den Else aus Fett und Asche und irgendetwas gekocht hatte, das nach Wiese roch. Die kleine Schute, die Lene von Kruses Frau geliehen hatte, zog schwer. Das Wasser war grau und träge, und der Nebel hing darin wie Werg in nasser Wolle.
+
+Maren hatte den Passierschein in der Tasche, gefaltet, so klein, dass er kaum auffiel. Rasks Schreiber hatte ihn ausgestellt, zwei Zeilen, ein Siegel, eine Bedingung: eine Fahrt, zwei Personen, Verpflegung, Rückkehr vor Einbruch der Dunkelheit. Sie kannte jede Silbe des Zettels, so wie man einen Text kennt, den man zehnmal gelesen hat, ohne dass er dadurch begreiflicher wird. Papier, hatte sie in den letzten Wochen gelernt, war ein Versprechen, das so lange galt, wie derjenige es wollte, der es nicht gebraucht hat. Sobald er es brauchte, war es Makulatur, und der, der es in der Tasche trug, war es ebenfalls.
+
+Sie fuhren an der Sperre vorbei, soweit man von einer Sperre sprechen konnte, wenn man nichts sah. Aber man hörte sie. Das Pochen der Bärme drang durch den Nebel, gedämpft und gleichmäßig, ein Takt, der nicht müde wurde, weil Maschinen nicht müde werden, sondern nur Menschen. Und zwischen den Pfählen, in einer Lücke, die der Wache offen bleiben musste, sah Maren die drei Kähne liegen, die sie vor vier Nächten noch im Schilf versenkt hatten. Sie lagen jetzt an der Sperre, dicht an der Arbeit, mit Pfählen beladen. Einer hatte schon Wasser über die Planken genommen; ein Soldat schöpfte ihn mit einem Eimer aus, ohne Eile, wie eine Arbeit unter anderen. So sah also die Gegenleistung aus, die Lene mit der Rückgabe der Boote erkauft hatte: drei Fahrzeuge, die nun der Krone dienten, und ein Mann, der immer noch nicht heimgekommen war.
+
+»Sie arbeiten sie zu Tode, die Kähne«, sagte Lene. Sie sprach zu den Riemen, nicht zu Maren. »In einem Monat sind es Wracks.«
+
+»Dann sind sie Wracks«, sagte Maren.
+
+Mehr sagten sie nicht. Es gab ein Schweigen zwischen ihnen, das nicht feindselig war, sondern gemeinschaftlich, das Schweigen zweier Frauen, die dieselbe Rechnung gemacht hatten und beide dasselbe Ergebnis erhalten hatten, das keiner aussprechen wollte.
+
+Die Wacht kam schneller aus dem Nebel, als Maren sie erwartet hätte: ein flaches Fahrzeug, ein Soldat mit vorgehaltener Muskete, ein Unteroffizier, der die Papiere verlangte, bevor das Boot auch nur gestoppt war. Er war jung, der Soldat, kaum älter als sie, und er las den Passierschein laut, halblaut, Wort für Wort, wie ein Schulknabe, der nicht übertreten darf, weil er sonst Schläge bekommt. Maren beobachtete ihn, wie er las. Er hielt den Zettel nahe ans Gesicht. Der Nebel hatte die Tinte nicht verwischt, aber er prüfte es trotzdem, mit dem Daumen, ob die Unterschrift verlief. Was in einem Menschen vorgeht, der einen Zettel prüft, der ihn nicht ernährt, war ihr eine Frage, die sie sich stellte, ohne eine Antwort zu erwarten.
+
+»Verpflegung«, sagte der Unteroffizier und wies auf den Korb. »Öffnen.«
+
+Lene hob das Tuch. Er sah hinein, Brot, Leinen, einen Topf, und nickte, und das Nicken galt nicht den Sachen, sondern der Ordnung, dass da Sachen waren, die man hatte anzeigen müssen.
+
+»Zurück vor Dunkelheit«, sagte er. »Der Leutnant hat es geschrieben.«
+
+»Der Leutnant hat es geschrieben«, sagte Maren. Es war keine Nachahmung, es war eine Bestätigung, aber der Unteroffizier sah sie an, einen Herzschlag zu lang, und ließ sie dann fahren.
+
+Der Prahm lag vor Palmer Ort im flachen Wasser, breit und niedrig, ein schwimmender Speicher mit einer Planke drumherum und einer Wache, die nicht schlief, weil sie nicht durfte. Man roch ihn, bevor man ihn sah: Teer, fauliges Bilgewasser, nasse Wolle, der süßliche Beigeschmack von Fleisch, das zu lange an der Luft gelegen hatte. Und unter allem, gedämpft, das Rasseln von Ketten, wenn der Prahm sich im Takt der Dünung hob, ein Geräusch wie von Geld, das jemand in einer anderen Welt zählt.
+
+Ein Unteroffizier mit einem Gesicht wie nasses Leder nahm den Passierschein entgegen, prüfte das Siegel, winkte sie an die Planke. »Warten«, sagte er. »Ich melde.«
+
+Sie standen an der Reling und warteten. Maren zählte, ohne es zu wollen, die sichtbaren Männer: vier auf dem Vordeck, einer am Steuerruder, einer an der Bordwand mit einer Hellebarde, die ihm zu lang war. Alle hatten die gleiche Erschöpfung, nicht die der Arbeit, sondern die des Wartens auf eine Arbeit, die keinen Lohn hat. Das Schiff war sauber geführt, soweit Schiffe sauber sind, aber die Sauberkeit war die der Verwaltung, nicht die der Sorgfalt: alles gezählt, alles verzeichnet, nichts geliebt.
+
+Rask kam über das Vordeck, und Maren sah ihm an, dass er sie erwartet hatte, nicht mit Ungeduld, sondern mit der Vorbereitung dessen, der einen Verwaltungsakt erledigt, den er hundertmal erledigt hat. Er grüßte, knapp, militärisch, ohne Wärme, aber auch ohne Verachtung, und das war, das wusste Maren inzwischen, keine Gnade, sondern nur die Abwesenheit eines Gefühls, das er für überflüssig hielt.
+
+»Frau Arndt«, sagte er. »Fräulein Voss. Sie bringen Verpflegung.«
+
+»Wir bringen Verband und Brot«, sagte Lene. »Für meinen Mann.«
+
+»Das ist erlaubt.« Er deutete dem Unteroffizier mit zwei Fingern, den Korb zu nehmen, und der Unteroffizer nahm ihn, und niemand sagte danke, weil niemand etwas geschenkt hatte. »Sie wollen ihn sehen.«
+
+Es war keine Frage. Maren hörte, dass er den Satz so gebaut hatte, dass er darauf keine Antwort brauchte. Sie hatte in den letzten Wochen gelernt, auf das zu achten, was in einer Aussage fehlte: In seiner fehlte die Frage, ob sie ihn sehen wollten, und es fehlte das Wort »freilassen«.
+
+»Wir wollen mehr als das, Herr Leutnant«, sagte sie. »Dierk Arndt kann nicht mehr arbeiten. Der Fuß ist offen. Er hat Fieber. Sie selbst haben es einen Versorgungsfall genannt. Ein Kranker ist für Sie Last, kein Nutzen. Lassen Sie ihn heim, und die Last geht an uns über. Sie verlieren nichts.«
+
+Rask betrachtete sie, und sein Blick war der Blick eines Mannes, der eine Rechnung prüft, die er bereits geprüft hat.
+
+»Sie rechnen gut, Fräulein Voss«, sagte er. »Ich will Ihnen eine Rechnung anbieten, die Sie verstehen können. Die Sperre braucht Fahrzeuge. Die drei Kähne, die man mir zurückgebracht hat, sind flachgängig. Für die Pfahlarbeit taugen sie. Über den Bodden im Herbstwetter, beladen, hinaus bis zur Versorgungsstation: nein. Ich brauche zwei seetaugliche Kähne. Stellen Sie die, sofort, und ich prüfe den Fall Arndt neu.«
+
+»Prüfen«, sagte Maren. »Nicht entlassen.«
+
+»Ich unterschreibe keine Freigaben mehr, die ich nicht halten kann.« Er sagte es ohne Schärfe, wie einer, der eine alte Wahrheit wiederholt, die er sich selbst mühsam beigebracht hat. »Eine Freigabe, die ich heute unterschreibe, ist morgen hinfällig, wenn der Kommandant anders verfügt. Ich habe eine Freigabe einmal unterschrieben, in einem anderen Jahr, für andere Männer. Sie ist nicht gehalten worden, und ich habe die Verantwortung getragen, nicht der Kommandant. Eine Prüfung kann ich versprechen. Die Prüfung steht in meiner Gewalt.«
+
+»Und wenn die Prüfung ergibt, dass er gehen kann?«
+
+»Dann geht er.«
+
+»Schreiben Sie das auf.«
+
+»Ich schreibe Empfangsscheine«, sagte Rask. »Ich schreibe Requisitionen. Ich schreibe keine Versprechungen, weil Versprechen von Männern gehalten werden müssen, die über den Tag hinaus etwas zu verlieren haben. Ich habe über den Tag hinaus nichts zu verlieren außer meinem Auftrag.«
+
+Maren stand still. Es war die Art von Stille, die nach einem Befehl entsteht, wenn alle darauf warten, dass sich etwas bewegt, und nichts sich bewegt. Hinter ihr klatschte das Wasser gegen die Planke, und irgendwo unten im Schiff rasselte eine Kette, und das Rasseln war geduldiger als alles, was sie sagen konnte.
+
+»Wir haben die Grete gegeben«, sagte sie langsam. »Wir haben vier Männer gestellt. Wir haben drei Kähne zurückgebracht, die Sie jetzt zu Wracks arbeiten. Wir bringen Brot und Verband, weil Sie ihn hungern ließen. Und für jedes, was wir geben, verlangen Sie das Nächste. Wo endet das, Herr Leutnant?«
+
+»Es endet, wenn die Sperre steht«, sagte Rask. »Sie verwechseln Ursache und Folge. Ich verlange nicht, weil Sie geben. Sie geben, weil ich verlange. Das Erste wäre Grausamkeit. Das Zweite ist Krieg.« Er machte eine Pause, klein, abgemessen. »Ich weiß, wie das klingt. Es klingt nicht besser, wenn man es öfter hört. Aber es wird nicht falscher.«
+
+»Es gibt im Dorf keine zwei seetauglichen Kähne mehr, die Sie nicht haben.«
+
+»Es gibt mehr, als Sie mir nennen«, sagte Rask. »Ich habe die Erfassung. Ihre eigene Hand hat sie geschrieben, wenn mich mein Gedächtnis nicht täuscht, Fräulein Voss. Elf Fahrzeuge standen darauf, zuletzt. Drei sind mir zurückgebracht. Eines, die Grete, ist in meinem Gewahrsam. Rechnen Sie nach.«
+
+Sie rechnete nach, dort, auf der Planke, im Nebel, und die Rechnung war einfach und schmählich: Er nannte ihr ihre eigene Liste, Zeile für Zeile, die sie für Benthin sauber und genau geschrieben hatte, damit Eigentum belegt würde, und jede Zeile, die sie geschrieben hatte, war jetzt ein Griff, den er schließen konnte. Sie hatte die Namen der Boote geschrieben, die Namen der Eigner, den Zustand, die Tiefgänge. Sie hatte geglaubt, Nachweis sei Schutz. Nachweis war Inventar.
+
+»Die Hoffnung«, sagte sie. »Sie meinen die Hoffnung.«
+
+»Ich meine Fahrzeuge, nicht Namen«, sagte Rask. »Aber wenn die Hoffnung seetauglich ist, dann ist sie ein Fahrzeug.«
+
+»Das ist das Boot, mit dem man ihn holen könnte«, sagte Maren. »Wissen Sie das?«
+
+»Ich weiß, dass man mit jedem seetauglichen Fahrzeug alles Mögliche tun kann«, sagte Rask. »Das ist der Grund, warum ich es brauche.«
+
+Es war, das begriff Maren in diesem Augenblick mit einer Klarheit, die kalt war wie das Wasser unter dem Prahm, kein Verhandeln. Verhandeln tat, wer Gleiches mit Gleichem halten konnte, wer eine Forderung durch eine Forderung begrenzen konnte. Sie hatten nichts. Sie hatten Papier, Brot, Verband und die Wahrheit, und die Wahrheit war die schwächste Währung, die es gab, weil jeder sie besaß und niemand sie brauchte. Auf Augenhöhe – sie hatte das Wort oft genug gehört, von ihrem Vater, von Benthin, von sich selbst. Augenhöhe war ein Platz, den man nur betrat, wenn man die Treppen beiderseits bezahlen konnte. Sie stand auf einer Planke, die einem fremden Schiff gehörte, und die Höhe war die des Wassers, das jeden gleichmütig aufnimmt.
+
+»Ich will ihn sehen«, sagte Lene. Sie hatte die ganze Zeit geschwiegen, und ihre Stimme war dünn geworden von diesem Schweigen. »Ich habe nichts zu verhandeln. Ich will meinen Mann sehen.«
+
+Rask betrachtete sie, und etwas in seinem Gesicht veränderte sich, nicht Erweichung, eher ein Umweg, den eine Rechnung nimmt, wenn sie durch eine Größe läuft, die nicht vorkommt.
+
+»Fünf Minuten«, sagte er. »Sergeant, führen Sie die Frauen hinunter. Der Korb geht mit.«
+
+Der Niedergang war eine Leiter, steil und nass, und der Laderaum darunter war ein Raum, in dem das Licht nicht wohnte, sondern nur eintraf, durch zwei Luken, gelb und schräg, wie Licht, das sich entschuldigt. Es roch nach Bilgewasser, das zu lange gestanden hatte, nach Teer, nach altem Fisch, und unter allem, süßlich und geduldig, nach Wunde. Ketten lagen an der Backbordwand, aufgerollt, schwer, und sie rasselten, wenn das Schiff sich hob, ein leiser, gleichmäßiger Laut, als zählte jemand sehr langsam Geld, das einem nicht gehörte.
+
+Dierk lag zwischen Pfählen und Bohlen auf einer Decke, halb aufgerichtet gegen eine Kiste, und das erste, was Maren sah, war nicht sein Gesicht, sondern die Fußstelle: ein Klumpen aus schmutziger Leinwand, größer als ein Fuß sein durfte, dunkel an den Rändern, und der Geruch kam von dort, gedämpft, aber unüberhörbar, wie eine Stimme, die man nicht zum Schweigen bringen kann, weil sie die eigene ist. Sein Gesicht war grau, die Lippen aufgesprungen, die Augen groß und glänzend in dem halben Licht, und er hatte den Blick von Fiebernden, der zu den Dingen gehört, die man nicht lange ansieht, weil man sonst nicht mehr wegsehen kann.
+
+Am Knöchel des gesunden Beins lag eine leichte Kette, an einer Klampe befestigt. Sie war kurz. Sie reichte nicht zum Aufstehen, nicht zum Aufdeck, nur zum Wenden. Das Rasseln, das sie von oben gehört hatten, war diese Kette gewesen, die bei jeder Dünung ein wenig spielte.
+
+Lene kniete sich nieder, ohne etwas zu sagen, und nahm sein Gesicht in beide Hände, und Dierk schloss die Augen, als wäre die Berührung ein Geräusch, das zu laut für ihn war.
+
+»Keine Grüße«, sagte er. Die Stimme war heiser und zu schnell, die Stimme eines Mannes, der gegen die Zeit spricht, die ihm bleibt. »Keine Worte. Bringt mir keine Worte mit.«
+
+»Ich bringe Verband«, sagte Lene. »Und Brot. Und Salbe.«
+
+»Dann verbindet.« Er sagte es mit einem Ansatz von dem alten Scherzton, der ihm eigen war, aber der Ton kam nicht durch, er blieb in der Kehle liegen. »Aber redet nicht gut. Mir ist gleich, was ihr sagt, wenn ihr nur nicht sagt, es wird gut.«
+
+Lene wickelte die alte Leinwand ab, und Maren sah den Fuß nur einen Augenblick, dann wandte sie den Blick, nicht aus Feigheit, sondern weil sie begriff, dass das Hinsehen nichts änderte und der Fuß nicht kleiner wurde durch Betrachtung. Sie hörte Lenes Atem, einen einzigen, tiefen, der nicht klagte, sondern nur Luft holte für die nächsten fünf Minuten. Dann kam die Salbe, die nach Wiese roch, in einem Raum, in dem keine Wiese war, und die neue Leinwand, sauber, die Else abends am Tisch gerollt hatte, und die Hände von Lene, die das taten, was Hände tun können, wenn Worte und Papier versagt haben.
+
+»Wie ist Fiete«, sagte Dierk.
+
+»Er flickt Netze«, sagte Lene. »Er ist bei der Voss. Er isst.«
+
+»Gut.« Er schloss die Augen. »Das ist gut. Fragt nicht nach mir.«
+
+»Ich frage nach dir«, sagte Lene, »jede Stunde, seit du fort bist.«
+
+»Dann frag leiser«, sagte Dierk. »Es hilft ihm nicht, wenn du heiser bist.«
+
+Der Sergeant stand an der Leiter und sah auf eine Sanduhr in seiner Hand, oder es war eine kleine Uhr, Maren konnte es in dem Licht nicht erkennen, und es war auch gleichgültig: Die Zeit wurde hier von einem Gerät verwaltet, nicht von einem Gefühl, und das Gerät war geduldig und genau und kannte weder Lene noch Dierk noch den Fuß.
+
+»Zwei Boote«, sagte Dierk plötzlich, die Augen noch zu. »Hat er zwei Boote verlangt.«
+
+»Ja«, sagte Maren.
+
+»Rechne, Maren.« Er öffnete die Augen und sah sie an, und in dem Blick war der alte, handwerkliche Ernst, mit dem er sonst ein Boot vermessen hatte, als ginge es um eine Plankenbreite. »Rechne aus, was er verlangt und was er gibt. Er gibt eine Prüfung. Rechne, was eine Prüfung wiegt.«
+
+»Ich habe gerechnet.«
+
+»Dann rechne noch einmal. Und wenn du fertig bist, dann komm nicht wieder mit einem Korb.« Er sagte es ohne Härte, müde, wie einer, der eine Wahrheit abgibt, die er selbst bezahlt hat. »Komm wieder, wenn du mehr als Brot hast. Oder komm nicht.«
+
+Der Sergeant schüttelte die Sanduhr, oder die Uhr schlug, oder er sagte nur: »Zeit.« Lene legte die Decke zurecht, so dass sie besser lag, einen Handgriff, der nichts veränderte und alles bedeutete, und Dierk griff nach ihrem Handgelenk und hielt es einen Atemzug lang und ließ es dann los, und das Loslassen war der schlimmste Vorgang in diesem Raum, schlimmer als der Geruch und die Kette, weil man sah, dass er es sich abgewöhnte, festzuhalten, und dass ihm das Abgewöhnen nicht leichter wurde, sondern nur geübter.
+
+Sie stiegen die Leiter hinauf, in das gelbe Nachmittagslicht des Decks, das schon Abend war, ohne es zu sein. Rask stand an der Reling, wohin er sich gestellt hatte, um den Abschied zu verwalten, und er sah sie an, beide, der Reihe nach, wie ein Beamter, der zwei Unterschriften nachprüft.
+
+»Der Fall Arndt wird neu geprüft, sobald zwei seetaugliche Fahrzeuge gestellt sind«, sagte er. »Sofort gestellt«, fügte er hinzu, und das Wort »sofort« war das einzige in dem Satz, das einen Inhalt hatte, und der Inhalt war: heute, morgen, oder nie.
+
+»Herr Leutnant«, sagte Maren. Sie hörte selbst, wie müde ihre Stimme war, aber sie sprach weiter, weil der Satz noch nicht fertig war und weil Sätze die einzige Macht waren, die ihr geblieben war, wenn auch die geringste. »Wenn wir die zwei Boote stellen, und Ihre Prüfung ergibt, dass er bleiben kann: Was verlangen Sie dann?«
+
+Rask antwortete nicht sofort. Der Nebel veringerte sich über dem Wasser, und irgendwo hinter ihm, unsichtbar, pochte die Bärme weiter, der Takt, der nicht müde wurde.
+
+»Das ist eine gute Frage, Fräulein Voss«, sagte er dann. »Ich habe sie mir selbst gestellt, in anderen Jahren, in anderen Fällen. Ich habe keine Antwort gefunden, die mich geschont hätte.« Er deutete die Planke hinab, zu ihrer Schute. »Fahren Sie heim, vor Einbruch der Dunkelheit. Das steht auf dem Schein.«
+
+Sie stiegen hinab, und der Unteroffizier mit dem nassen Ledergesicht hielt das Boot fest, bis beide saßen, und ließ es dann los, ohne ein Wort, und das Loslassen war genau so gleichmütig wie das Festhalten gewesen war. Nichts an diesem Schiff war grausam aus Lust. Alles war grausam aus Ordnung, und das war, das begriff Maren, während die Planke sich von der Schute löste, das eigentlich Unerträgliche: dass man sich nicht einmal auf einen Hass verlassen konnte, weil der Hass einen Gegner gebraucht hätte und hier nur ein Amt saß.
+
+Lene nahm die Riemen, und Maren nahm das Steuer, und sie fuhren in den Nebel hinein, und der Nebel schloss sich hinter ihnen über dem Prahm, gleichmütig wie eine Behörde, die eine Akte zudrückt.
+
+Eine lange Zeit sagte niemand etwas. Das Wasser war grau, die Ruder gingen, der Takt der Bärme wurde leiser, dann unhörbar, und an seiner Stelle kamen die gewohnten Laute des Boddens: das Klatschen an der Bordwand, das Knarren der Dollbord, einmal der Ruf eines Vogels, der sich in dem Nebel verflogen hatte. Maren steuerte auf den Punkt zu, an dem die Sperre eine Lücke ließ, und dann, in der Lücke, an den Pfählen vorbei, und die Pfähle standen im Nebel wie schwarze Zähne, und zwischen ihnen lag einer der drei Kähne, der ihre war, leer jetzt, festgemacht, ein Pfand, das geparkt war.
+
+»Zwei Boote«, sagte Lene irgendwann. Sie sprach zu den Riemen, wie zuvor, und die Riemen antworteten ihr mit dem nächsten Zug. »Er will zwei Boote. Und wenn er sie hat, prüft er. Und wenn er geprüft hat, will er vier Männer.«
+
+»Ja.«
+
+»Das ist keine Rechnung mehr«, sagte Lene. »Das ist ein Brunnen. Man schüttet Wasser hinein, und es wird nicht voller.«
+
+Maren sagte nichts. In ihr war etwas hart geworden, in dieser Stunde, auf der Planke und im Laderaum, und das Harte war keine Wut, auch kein Entschluss, sondern etwas, das einem Entschluss vorausging: das Ende einer Hoffnung, die sie lange getragen hatte, so wie man einen Stein trägt, von dem man glaubt, er sei Brot, bis man einmal hineinbeißt. Man konnte mit Besatzern nicht reden. Man konnte mit ihnen nur tauschen, und tauschen konnte man nur mit dem, was man hatte: Boote, Brot, Männer, Worte. Sie hatten alles angeboten bis auf das Letzte, und das Letzte war nicht ihr Angebot gewesen, sondern seins: die Passage durch die Sperre, das Wissen ihres Vaters, der Kurs, den nur ein Lotse kannte. Sie verbot sich, den Gedanken zu Ende zu denken, und wusste dabei, dass das Verbot nur die Tür war, durch die er später wiederkommen würde.
+
+»Die Hoffnung«, sagte Lene. »Und dann noch eins. Und wenn er die Hoffnung hat, dann hat er Thies auch.«
+
+»Nein«, sagte Maren. »Nein, die Hoffnung nicht.«
+
+»Welche dann?«
+
+»Ich weiß es nicht.« Es war die Wahrheit, und die Wahrheit klang in diesem Nebel wie alles andere: leise, gleichgültig, ohne Gewicht. »Ich weiß es nicht, Lene. Ich weiß nur, was wir nicht geben.«
+
+»Das ist wenig«, sagte Lene.
+
+»Das ist alles«, sagte Maren.
+
+Lene ruderte weiter. Der Nebel wurde dichter, oder es wurde dunkler, oder beides, und die Ufer tauchten aus dem Grau auf, erst als Schatten, dann als Umriss, dann als das, was sie waren: Dünen, Schilf, der alte Anlandeplatz, der Lotsensteg. Auf dem Steg stand niemand. Auf dem Steg hatte seit Tagen niemand gestanden, außer denen, die warteten, und die Wartenden waren inzwischen drinnen, in den Häusern, weil Warten am Steg nichts geändert hatte und Kälte auch nicht hilft, wenn es um einen Fuß geht, der in einem fremden Schiff liegt.
+
+Sie legten an. Lene machte das Boot fest, einen Knoten, den sie mit geschlossenen Augen hätte machen können, und Maren nahm den leeren Korb heraus, den die Salbe und das Brot und die Leinwand fortgetragen hatten, und der Korb war leichter als auf der Hinfahrt, und das war die ganze Bilanz des Tages: Sie hatten abgegeben, was sie hatten, und zurückgebracht eine Bestätigung, dass es nicht reichte.
+
+Der Passierschein lag noch in ihrer Tasche. Er war vom Nebel weich geworden, und die Kante des Siegels hatte sich abgedrückt durch den Stoff. Sie würde ihn Benthin geben, wenn er ihn haben wollte, für seine Mappe, für die Ordnung, für den Nachweis. Er bewies nichts mehr, außer dass man sie hatten herüberfahren lassen und hadem wieder zurückfahren lassen, innerhalb der Frist, vor Einbruch der Dunkelheit, wie es stand. Papier, dachte sie, so wie man einen Namen denkt, den man begraben hat. Dann ging sie den Dünenweg hinauf, neben Lene, ohne ein Wort, und hinter ihnen schloss sich der Nebel über dem Wasser, und das Pochen der Bärme war längst nicht mehr zu hören, aber sie hörte es trotzdem, den ganzen Weg, gleichmäßig, geduldig, den Takt einer Ordnung, die nicht müde wurde, weil Maschinen nicht müde werden, sondern nur Menschen.
+
+---
+
+## Die andere Flagge
+
+> *Auszug aus dem Logbuch der dänischen Fregatte »Prins Christian«, Eintrag vom 14. Oktober 1715: »Wind aus Westsüdwest, steif, zeitweise Sturm. Grundsee vor Ruden. Anker hält auf sieben Faden, Sand über Schlick. Keine Sichtung feindlicher Segel seit Ablauf der Hundewache. Lotsen an Bord: keiner.«*
+
+Die Bootsdielen waren feucht, und das Wasser, das durch die Fugen drang, war kälter als das Wasser des Boddens, salziger, schwerer. Joren Voss spürte es durch die Sohlen seiner Stiefel, während er sich an der Reling der dänischen Schaluppe festhielt und die Fregatte näher kommen sah: kein Umriss zunächst, nur ein dunklerer Fleck im Schwarz der Neumondnacht, dann eine Linie, dann die Silhouette eines Schiffs, das größer war als alles, was er in seinem Leben auf diesem Wasser gesehen hatte. Die Segel waren geborgen; nur die Takelage zeichnete sich gegen die Wolken ab, und die Wolken waren schneller als das Schiff, das vor Anker lag und arbeitete, stampfend, rollend, mit einem Knarren in den Planken, das Joren durch die Luft hörte, bevor er es durch die Schaluppe hörte.
+
+Vier Ruderer saßen hinter ihm, dänische Matrosen, die auf das Kommando eines Bootsmanns die Riemen hielten und nicht sprachen. Sie hatten ihn aufgenommen, als er zwei Stunden zuvor mit der *Möwe* den Kurs gewechselt und die eigene Flagge eingeholt hatte, und sie hatten ihn nicht nach seinem Namen gefragt. Das war Holms Anweisung gewesen, vermutete Joren, oder es war die Gewohnheit einer Marine, die keine Fragen stellte, solange der Mann an Bord kam, ohne ein Gewehr zu tragen.
+
+Die Schaluppe legte an. Ein Tau fiel herab, Joren griff danach, die Hände kannten das, und dann stand er auf dem Deck der Fregatte, auf einem Deck, das unter ihm arbeitete wie ein lebendiges Tier, und über ihm hing die Nacht, und um ihn herum war das Wasser, das er seit vierzig Jahren befuhr, und das er in dieser Stunde zum ersten Mal als ein feindliches Gewässer begriff, weil er es in dieser Stunde zum ersten Mal für die andere Seite befuhr.
+
+Ein Offizier erwartete ihn an der Fallreep. Er trug keinen Degen, nur einen Mantel, der durchnässt war, und in der Hand hielt er eine Laterne, die er tief genug senkte, um Jorens Gesicht zu beleuchten, ohne ihn zu blenden.
+
+»Voss?«, fragte er.
+
+»Ja.«
+
+»Kapitän Holm erwartet Sie auf der Batterie. Folgen Sie mir. Und sprechen Sie nicht mit der Mannschaft.«
+
+Sie gingen über das Deck, an Geschützen vorbei, die in der Dunkelheit lagen wie schlafende Tiere, an Luken vorbei, aus denen Licht drang und Stimmen, an einem Niedergang vorbei, aus dem der Geruch von Pech und nassem Holz kam. Joren registrierte die Position der Masten, die Länge des Decks, die Höhe der Reling, die Zahl der Stückpforten. Er tat es nicht, weil er es wollte. Er tat es, weil er es nicht lassen konnte, und weil er in dieser Stunde alles wissen musste, was er wissen konnte.
+
+Kapitän Frederik Holm stand an der Steuerbordreling und sah auf das Wasser hinaus. Er drehte sich nicht um, als Joren kam, sondern wartete, bis der Offizier sich zurückgezogen hatte und die beiden Männer allein waren, allein im Sinne einer Marine, die überall Ohren hatte, aber niemanden in Rufweite.
+
+»Sie sind gekommen«, sagte Holm. Es war keine Feststellung des Erstaunens. Es war die Bestätigung eines Ergebnisses, das er für wahrscheinlich gehalten hatte.
+
+»Ich bin gekommen«, sagte Joren.
+
+»Setzen Sie sich nicht. Ich habe Fragen.«
+
+Holm wandte sich um. Er war jünger als Joren, vielleicht vierzig, mit einem Gesicht, das die Sonne vieler Sommer gesehen hatte und die Kälte vieler Winter, und mit Augen, die nicht müde wirkten, sondern wach, auf eine Weise wach, die Joren von Rask kannte, aber ohne dessen Schärfe. Rask hatte ihn angesehen wie ein Werkzeug, das man prüft. Holm sah ihn an wie ein Problem, das man lösen musste, und Joren wusste nicht, welches von beiden ihm lieber war.
+
+»Sie sind Lotse in Thiessow«, sagte Holm. »Das heißt, Sie kennen den Bodden. Aber der Bodden ist nicht die offene See. Was kennen Sie von der Rinne vor Ruden?«
+
+»Die Rinne kenne ich nicht aus eigener Fahrt«, sagte Joren. »Ich kenne die Untiefen am Palmer Ort, den Thiessower Haken, den Lobber Ort, den Kurs nach Göhren. Die Rinne vor Ruden kenne ich aus Beschreibungen, aus Lotungen, die andere gemacht haben, und aus dem, was ich von den Fischern gehört habe, die dort draußen gearbeitet haben, bevor der Krieg kam.«
+
+»Beschreibungen«, wiederholte Holm. »Von wem?«
+
+»Von meinem Vater. Von einem Lotsen aus Sassnitz, der vor zwanzig Jahren dort gefahren ist. Von einem Mann, der 1704 mit einem Prahm auf der Sandbank saß und drei Tage wartete, bis der Wind drehte, und der mir danach die Tiefen genannt hat, die er gelotet hatte.«
+
+»Nennen Sie sie.«
+
+Joren nannte sie. Er nannte die Tiefen bei Hochwasser und bei Niedrigwasser, die Strömung bei Westwind und bei Ostwind, die Landmarken, die man ansteuern musste, wenn die Sicht schlecht war: den Kirchturm von Bobbin, die Klippe am Arkona, die drei Kiefern auf der Höhe von Sagard, die nur bei klarer Luft zu sehen waren und die man deshalb nicht als Landmarke nehmen durfte, wenn man nicht sicher war, dass die Luft klar blieb. Er nannte die Sandbänke, die wanderten, und die Rinnen, die sich schlossen, und die Stelle, an der die Strömung so lief, dass ein Schiff, das den Kurs um einen Strich verfehlte, auf den Grund lief, ohne es zu merken, weil der Grund weich war und das Lot ihn nicht zeigte.
+
+Holm hörte zu, ohne ihn zu unterbrechen. Er stellte keine Zwischenfragen. Er wartete, bis Joren fertig war, und dann stellte er die erste Frage.
+
+»Sie sagen, die Rinne vor Ruden sei bei Niedrigwasser nicht passierbar für ein Schiff mit einem Tiefgang von mehr als zwölf Fuß. Nennen Sie mir die Stelle, an der sie am flachsten ist.«
+
+»Südlich der Untiefe, die sie den Krummen Grund nennen. Bei Niedrigwasser sieben Fuß, bei Hochwasser elf, bei Westwind noch weniger, weil der Wind das Wasser aus der Bucht drückt.«
+
+»Und wenn man bei Hochwasser fährt und der Wind dreht?«
+
+»Dann läuft man auf. Deshalb muss man bei auflaufendem Wasser fahren und den Wind im Rücken haben. Bei ablaufendem Wasser und Westwind ist die Rinne eine Falle.«
+
+»Wie lange braucht ein Schiff von der Sperre bis zur Rinne?«
+
+Joren überlegte. Er rechnete nicht in Stunden, er rechnete in Strecken und in der Geschwindigkeit, die ein Schiff bei diesem Wind und dieser See machen konnte, und er rechnete mit dem, was er nicht wusste, dem Tiefgang der dänischen Schiffe, ihrer Zahl, ihrer Ordnung.
+
+»Bei diesem Wind, mit einem guten Steuermann, vier Stunden. Mit einem Verband, sechs. Mit einem Verband, der sich nicht kennt, acht.«
+
+»Und wie lange, wenn der Feind schießt?«
+
+»Das hängt davon ab, wie der Feind schießt.«
+
+Holm sah ihn an, und zum ersten Mal zeigte sein Gesicht etwas, das nicht Frage war und nicht Prüfung. Es war die Anerkennung einer Antwort, die nicht auswich.
+
+»Sie haben die Wahrheit gesagt«, sagte Holm. »Das ist gut. Ich habe keine Verwendung für Männer, die mir sagen, was ich hören will. Ich habe Verwendung für Männer, die mir sagen, was sie wissen, und die zugeben, was sie nicht wissen. Sie wissen nicht, wie der Feind schießen wird. Ich auch nicht. Das ist die einzige ehrliche Grundlage, auf der wir sprechen können.«
+
+Er trat einen Schritt näher, und die Laterne des Offiziers, der in einiger Entfernung wartete, warf sein Gesicht halb ins Licht, halb in den Schatten.
+
+»Jetzt zu dem, weswegen Sie gekommen sind. Sie wollen Schutz für Ihre Dörfer. Sagen Sie mir, was Sie unter Schutz verstehen.«
+
+»Dass die Dörfer nicht beschossen werden. Dass die Menschen, die dort wohnen, nicht zwischen die Fronten geraten. Dass die Fischer, die zwangsverpflichtet sind, freikommen.«
+
+Holm schwieg einen Augenblick. Das Schiff rollte, und er hielt sich nicht fest, er stand mit der Selbstverständlichkeit eines Mannes, der sein Leben auf einem Deck verbracht hatte.
+
+»Ich kann Ihnen nicht versprechen, dass Ihre Dörfer nicht beschossen werden«, sagte er. »Ich kann Ihnen nicht versprechen, dass keine Menschen zwischen die Fronten geraten. Ich kann Ihnen nicht versprechen, dass Ihre Fischer freikommen. Was ich Ihnen versprechen kann, ist etwas anderes, und ich sage Ihnen jetzt, was es ist, damit Sie später nicht behaupten können, ich hätte es verschwiegen.«
+
+Er hob die Hand und zählte an den Fingern ab, langsam, ohne Pathos.
+
+»Erstens: Wenn Sie uns durch die Sperre führen, dann führen Sie uns durch die Sperre. Sie führen nicht ein Schiff, Sie führen einen Verband. Sie führen ihn auf dem Kurs, den Sie für richtig halten, und Sie führen ihn so, dass wir durchkommen. Wenn wir durchkommen, dann kommen wir durch, weil Sie Ihr Handwerk verstehen. Wenn wir nicht durchkommen, dann kommen wir nicht durch, weil Sie Ihr Handwerk nicht verstanden haben, und dann werden Sie dafür geradestehen, wie ein Lotse geradesteht, der ein Schiff auf den Grund gesetzt hat.«
+
+»Das ist klar«, sagte Joren.
+
+»Zweitens: Ich kann Ihnen keine allgemeine Verschonung Ihrer Dörfer zusagen. Ich habe Befehl, die feindliche Sperre zu durchbrechen und die feindlichen Seestreitkräfte zu stellen. Ich habe keinen Befehl, Dörfer zu verschonen, und ich habe keinen Befehl, Dörfer zu beschießen. Was ich habe, ist die Möglichkeit, innerhalb meines Auftrags Entscheidungen zu treffen. Eine dieser Entscheidungen kann sein, ein bestimmtes Feuer aus einem bestimmten Sektor zurückzuhalten. Eine andere kann sein, ein bestimmtes Fahrzeug zu einem bestimmten Zeitpunkt nicht zu nehmen. Das ist keine Verschonung. Das ist eine Handlung innerhalb eines Auftrags, und sie ist begrenzt, und sie ist widerruflich, wenn der Auftrag es verlangt.«
+
+»Und was verlangen Sie dafür?«
+
+»Drittens: Sie lotsen nicht ein Schiff. Sie lotsen die Vorhut. Sie lotsen die Schaluppen, die den Weg für die Fregatten freimachen, und Sie lotsen sie so, dass sie an der Stelle stehen, an der sie stehen müssen, wenn die Fregatten kommen. Das ist mehr als ein Kurs. Das ist ein Zeitplan. Sie müssen mir sagen, wann die Schaluppen wo sein müssen, und Sie müssen dafür sorgen, dass sie dort sind, und Sie müssen dafür sorgen, dass sie dort sind, ohne dass der Feind sie vorher sieht.«
+
+Joren sah auf das Wasser hinaus. Die Fregatte rollte, und hinter ihr, im Schwarz, lag die Küste, die er kannte, und zwischen ihm und der Küste lag die Sperre, die er mitgebaut hatte, und zwischen ihm und der Sperre lagen die Männer, die er ausgewählt hatte.
+
+»Und die Gefangenen?«, fragte er.
+
+»Welche Gefangenen?«
+
+»Die Fischer aus meinem Dorf. Vier Männer. Einer von ihnen ist verletzt, sein Fuß ist zerschmettert. Sie werden auf einem Versorgungsprahm festgehalten, südlich der Sperre, bei Palmer Ort. Wenn ich Sie durch die Sperre führe, dann müssen sie frei sein, bevor die Fregatten kommen. Sonst sind sie zwischen den Fronten, und dann sind sie tot.«
+
+Holm sah ihn an, und Joren sah, dass er nachdachte, nicht über die Menschlichkeit der Forderung, sondern über ihre Durchführbarkeit.
+
+»Ein Prahm bei Palmer Ort«, sagte Holm. »Das ist innerhalb der Sperre. Das ist ein militärisches Ziel. Wenn ich eine Schaluppe dorthin schicke, dann ist das ein Angriff, und ein Angriff kostet Zeit, und Zeit ist das, was ich nicht habe. Was ich habe, ist eine Vorhut, die durch die Sperre muss, und eine Fregatte, die nachkommt, und ein Zeitfenster, das sich schließt, wenn der Feind merkt, was wir vorhaben.«
+
+»Ich weiß«, sagte Joren.
+
+»Sie wissen es, und Sie fragen trotzdem.«
+
+»Ich frage trotzdem.«
+
+Holm schwieg. Dann tat er etwas, das Joren nicht erwartet hatte: Er lachte, kurz, ohne Freude, ein Laut, der eher ein Ausatmen war.
+
+»Sie sind ein hartnäckiger Mann«, sagte er. »Das gefällt mir. Ich sage Ihnen, was ich tun kann, und ich sage Ihnen, was ich nicht tun kann, und dann entscheiden Sie, ob es Ihnen reicht. Ich kann eine Schaluppe abstellen, die nach dem Durchbruch der Vorhut den Prahm anläuft und die Gefangenen holt. Ich kann nicht garantieren, dass die Schaluppe durchkommt. Ich kann nicht garantieren, dass die Gefangenen noch am Leben sind, wenn sie ankommt. Ich kann nicht garantieren, dass der Feind den Prahm nicht vorher verlegt. Ich kann Ihnen nur garantieren, dass ich es versuchen lasse, wenn Sie Ihre Aufgabe erfüllen, und dass ich es nicht versuchen lasse, wenn Sie sie nicht erfüllen.«
+
+»Das ist ein Tausch«, sagte Joren.
+
+»Das ist ein Tausch«, sagte Holm. »Sie geben mir einen Kurs, ich gebe Ihnen eine Schaluppe. Sie geben mir einen Zeitplan, ich gebe Ihnen eine Chance. Sie geben mir keinen Kurs, ich gebe Ihnen keine Chance. So einfach ist es, und ich mache Ihnen nichts vor, und Sie machen mir nichts vor. Wir sind keine Freunde, Voss. Wir sind zwei Männer, die ein Geschäft machen, das beide brauchen, und das keiner von uns sich ausgesucht hat.«
+
+Joren nickte. Er wusste, dass Holm recht hatte, und er wusste, dass die Nüchternheit des Mannes ihn nicht täuschte. Holm war nicht kalt, weil er kein Mitleid hatte. Holm war kalt, weil er wusste, dass Mitleid ein Schiff nicht durch eine Untiefe brachte, und weil er in einem Geschäft, in dem es um Leben ging, keine Worte verschwenden wollte, die er nicht halten konnte.
+
+»Ich muss Ihnen noch etwas sagen«, sagte Joren.
+
+»Sagen Sie es.«
+
+»Wenn ich Sie durch die Sperre führe, dann bin ich ein Verräter. Ich bin ein Untertan der Krone Schwedens, und ich führe die Flotte eines Feindes durch eine Sperre, die mein eigenes Land schützt. Dafür gibt es nur eine Strafe, und ich kenne sie. Ich sage Ihnen das nicht, weil ich Mitleid will. Ich sage Ihnen das, weil Sie wissen sollen, was ich riskiere, und weil ich wissen will, ob Sie es wissen.«
+
+Holm sah ihn an, lange, und in seinem Blick war etwas, das Joren nicht deuten konnte, vielleicht Respekt, vielleicht nur die Registrierung einer Information.
+
+»Ich weiß es«, sagte Holm. »Und ich sage Ihnen etwas, das ich nicht sagen müsste. Ich habe einen Bruder, der in schwedischen Diensten steht. Er ist Offizier, er ist in Stralsund, und wenn dieser Krieg noch ein Jahr dauert, dann stehen wir uns vielleicht gegenüber, und dann wird einer von uns auf den anderen schießen, und keiner von uns wird es wollen, und beide werden es tun. Das ist der Krieg. Er macht aus Brüdern Feinde und aus Feinden Geschäftspartner. Ich verurteile Sie nicht, Voss. Ich habe kein Recht, Sie zu verurteilen. Ich habe nur ein Schiff und einen Auftrag und die Pflicht, beides zu gebrauchen, so gut ich kann.«
+
+Er wandte sich ab und sah auf das Wasser hinaus, und Joren stand neben ihm, und für einen Augenblick sprachen sie nicht, und das Schiff arbeitete unter ihnen, und die Nacht war schwarz, und irgendwo hinter ihnen lag die Küste, die Joren kannte, und vor ihnen lag die Küste, die er nicht kannte.
+
+»Wann?«, fragte Holm.
+
+»Bei Neumond«, sagte Joren. »In drei Nächten. Bei Neumond ist die Nacht am dunkelsten, und die Strömung läuft dann so, dass die Rinne passierbar ist, wenn man bei auflaufendem Wasser fährt. Bei Vollmond wäre der Himmel zu hell, und die Schaluppen wären zu sehen. Bei Neumond nicht.«
+
+»Wo?«
+
+»Nördlich der Sperre. Es gibt eine Rinne, die zwischen der Sperre und dem Lobber Ort durchführt, eine Rinne, die auf keiner Karte steht, weil sie sich erst vor zehn Jahren gebildet hat, als der Sturm die Sandbank verlegte. Sie ist schmal, sie ist tückisch, und sie ist der einzige Weg, auf dem ein Verband durchkommt, ohne dass der Feind ihn vorher sieht.«
+
+»Und wenn der Feind sie sieht?«
+
+»Dann sieht er sie, weil er sie kennt, und dann ist es kein Durchbruch, sondern ein Gefecht. Aber ich kenne sie, und ich kenne die Stelle, an der man wenden muss, wenn man sie nicht durchfahren kann, und ich kenne die Stelle, an der man sich verstecken kann, wenn man warten muss. Das ist alles, was ich habe. Es ist nicht viel. Es ist mehr, als Sie ohne mich haben.«
+
+Holm nickte. Er streckte die Hand aus, und Joren nahm sie, und der Händedruck war kurz und fest, und dann ließ Holm ihn los und rief den Offizier.
+
+»Bringen Sie ihn zurück. Und geben Sie ihm das, was wir besprochen haben.«
+
+Der Offizier führte Joren zum Niedergang. Bevor er hinabstieg, wandte Joren sich noch einmal um.
+
+»Kapitän.«
+
+Holm sah auf.
+
+»Wenn Sie die Schaluppe schicken, dann schicken Sie einen Mann, der nicht schießt, bevor er sieht, was er vor sich hat. Auf dem Prahm sind Fischer aus meinem Dorf. Wenn einer von ihnen erschossen wird, weil ein Matrose nervös ist, dann ist das Geschäft geplatzt, und dann komme ich nicht wieder.«
+
+Holm sah ihn an, und in seinem Gesicht war keine Bewegung.
+
+»Ich schicke einen Mann, der weiß, was er tut«, sagte er. »Das ist alles, was ich versprechen kann.«
+
+Joren stieg hinab. Die Schaluppe wartete, die Ruderer warteten, der Bootsmann wartete, und als Joren an Bord stieg, spürte er die Kälte des Wassers durch die Planken, und er spürte etwas anderes, das er nicht benennen konnte, ein Gefühl, das nicht Angst war und nicht Erleichterung, sondern die Leere nach einer Entscheidung, die man getroffen hat und die nicht mehr rückgängig zu machen ist.
+
+Die Ruderer legten ab. Die Fregatte wurde kleiner, dann ein Schatten, dann ein Fleck, dann nichts. Joren saß im Heck und sah auf das Wasser, und das Wasser war schwarz, und über ihm war der Himmel schwarz, und zwischen beiden lag die Rinne, die er in drei Nächten befahren würde, mit einem Verband dänischer Schaluppen hinter sich und der eigenen Küste vor sich, und er wusste, dass er in dieser Nacht etwas getan hatte, das sein Leben teilte in ein Davor und ein Danach, und dass das Danach bereits begonnen hatte, in dem Augenblick, in dem er die Hand ausgestreckt und die andere ergriffen hatte.
+
+Er dachte an Maren. Er dachte an ihr Gesicht, als sie ihn gefragt hatte, ob er ihr alles sagen würde, und er dachte an seine Antwort, die keine gewesen war. Er würde es ihr sagen müssen, wenn er zurückkam, und er wusste nicht, ob sie es verstehen würde, und er wusste nicht, ob er es verstand. Er wusste nur, dass Dierk Arndt auf einem Prahm lag, mit einem zerschmetterten Fuß und ohne Hoffnung, und dass die einzige Hoffnung, die er hatte, ein Verräter war, der in einer Neumondnacht mit einer anderen Flagge zurückkam.
+
+Die Schaluppe erreichte die *Möwe*. Joren stieg um, setzte die Segel, nahm den Kurs auf, und der Wind war frisch, und die *Möwe* lief, wie sie immer gelaufen war, und Joren saß am Ruder und sah auf die Küste zu, und über ihm hing der Himmel, und in ihm war das Schweigen, das kein Frieden war, sondern die Stille vor dem Sturm, den er selbst entfesselt hatte.
+
+Als er am Lotsensteg anlegte, war es noch dunkel. Er machte das Boot fest, einen Knoten, den er mit geschlossenen Augen hätte machen können, und dann stand er auf dem Steg und sah zum Dorf hinüber, wo die Häuser lagen, dunkel, still, und wo hinter einem der Fenster Maren schlief oder wachte, und er wusste, dass er sie in wenigen Stunden würde ansehen müssen, und dass sie in seinen Augen lesen würde, was er getan hatte, bevor er es ihr sagte.
+
+Er ging den Dünenweg hinauf. Der Wind kam von Westen, und er trug den Geruch von Salz und von Regen, und über dem Wasser, weit draußen, war der Horizont noch nicht zu sehen, aber Joren sah ihn trotzdem, weil er ihn kannte, und weil er wusste, dass hinter ihm die Fregatte lag, und hinter der Fregatte die Flotte, und hinter der Flotte der Krieg, der nun auch sein Krieg war.
+
+Er blieb stehen, einmal, und sah auf das Wasser zurück, und dann tat er etwas, das er seit vierzig Jahren nicht getan hatte: Er zog die Mütze, die er trug, vom Kopf, und hielt sie in der Hand, und sah auf das Wasser hinaus, als nehme er Abschied von etwas, das er nicht benennen konnte und das er nicht verlieren wollte.
+
+Dann setzte er die Mütze wieder auf und ging weiter, dem Dorf entgegen, dem Haus entgegen, dem Gespräch entgegen, das er fürchten musste und das er nicht mehr umgehen konnte.
+
+---
+
+## Was auf dem Papier bleibt
+
+> *„Was schriftlich niedergelegt ist, hat Bestand; was im Gedächtnis bleibt, vergeht mit dem, der sich erinnert. Darum soll ein jeder Kauf, Tausch und Vertrag vor zwei Zeugen und dem Schreiber verzeichnet werden, auf dass es gelte vor Gericht und vor der Obrigkeit."*
+>
+> — Aus der Kirchen- und Gerichtsordnung des Kirchspiels Middelhagen, 1662, in der Abschrift des Küsters Laurenz Benthin
+
+Der Staub lag auf den Bündeln wie ein zweiter Einband. Benthin fuhr mit dem Handrücken über das oberste Blatt, und die feine Schicht hob sich, wirbelte in dem schmalen Lichtstreifen, den der graue Vormittag durch das Butzenscheibenfenster warf, und senkte sich langsam auf die Dielen zurück. Das Küsterhaus roch nach Papier und nach kaltem Rauch; der Ofen war seit dem frühen Morgen nicht geheizt worden, weil Benthin das Holz sparte und weil er, wie er sich sagte, beim Ordnen nicht fror. Er fror doch. Er trug den Rock über dem Wams und die Mütze auf dem Kopf, und seine Finger waren steif, als er die Schnur löste, die das Bündel der Requisitionslisten zusammenhielt.
+
+Es war ein schmales Bündel. Sechzehn Blätter, sauber beschrieben, in Marens Hand und in seiner, jedes mit Datum, Namen, Fahrzeug, Tonnage, Verwendungszweck, Gegenzeichnung. Er legte sie nebeneinander auf die lange Tischplatte, und sie bedeckten die Platte nicht. Sechzehn Blätter für fünf Dörfer. Er hatte mehr erwartet, als er sie angelegt hatte, und weniger gefürchtet, als er sie nun ansah.
+
+Die Tür ging, ohne dass angeklopft wurde.
+
+Maren Voss trat ein, und sie brachte die Kälte mit. Ihr Umschlagetuch war feucht an den Schultern, das Haar unter der Haube wirr, als sei sie gelaufen statt gegangen. Sie sah die Blätter auf dem Tisch, bevor sie ihn sah, und sie blieb stehen, zwei Schritte von der Tür, und ihr Blick ging über die Reihen der Namen wie über ein Feld, das man abernten will.
+
+»Du hast sie noch«, sagte sie.
+
+»Ich habe sie«, sagte Benthin. Er schob die Mütze ein wenig zurück. »Guten Morgen, Maren.«
+
+»Guten Morgen.« Sie sagte es wie eine Höflichkeit, die ihr im Mund lag wie ein Stein. »Du weißt, warum ich komme.«
+
+»Ich weiß es nicht.« Er setzte sich nicht. Er blieb hinter dem Tisch stehen, die Hände auf die Platte gestützt, und sah sie an. »Ich kann es mir denken. Aber ich weiß es nicht.«
+
+»Die Dänen liegen vor Ruden«, sagte Maren. »Jeden Tag können sie kommen. Und wenn sie kommen, dann kommen sie nicht, um unsere Listen zu lesen. Sie kommen, um zu nehmen, was sie brauchen, und dann ziehen sie weiter, und was sie nicht mitnehmen können, das verbrennen sie, und was sie nicht verbrennen können, das versenken sie. Und dann kommen die Schweden zurück, und die Schweden haben unsere Listen, und die Schweden werden sagen: Ihr habt dem Feind Vorschub geleistet, wir haben es hier schwarz auf weiß, wer welche Fahrzeuge besaß, wer sie versteckt hat, wer sie hätte abliefern müssen und nicht abgeliefert hat.« Sie atmete. »Verbrenn sie, Laurenz. Verbrenn sie jetzt, alle sechzehn, und dann verbrennen wir noch die Abschriften, und dann ist nichts mehr da, was uns verraten kann.«
+
+Benthin sah auf die Blätter. Auf das oberste, wo sein eigener Name stand, als Zeuge, und Marens Name, als Schreiberin, und die Namen der Eigentümer: Arndt, Grete, zweiundzwanzig Lasten. Tamm, Anna, neunzehn Lasten. Paye, Jens, elf Lasten. Klook, Jürgen, sechzehn Lasten. Er las sie nicht, er sah sie nur, und er sah sie so, wie er sie vor drei Wochen gesehen hatte, als er sie geschrieben hatte, und so, wie er sie in drei Jahren sehen würde, wenn niemand sie mehr hätte außer dem, der sie geschrieben hatte.
+
+»Nein«, sagte er.
+
+Maren trat einen Schritt näher. »Nein?«
+
+»Nein.« Er nahm das oberste Blatt in die Hand, hielt es hoch, so dass sie die Schrift sehen konnte, seine eigene, die krakelige des Küsters, und darunter die ihre, die saubere, die er ihr beigebracht hatte. »Weißt du, was das ist?«
+
+»Ein Verzeichnis unserer Fahrzeuge. Ein Verzeichnis für Rask. Ein Verzeichnis, mit dem er uns beim Wickel hat.«
+
+»Es ist ein Nachweis«, sagte Benthin. »Es ist der einzige Nachweis, den wir haben.«
+
+»Nachweis wofür?«
+
+»Nachweis dessen, was uns genommen wurde.« Er legte das Blatt zurück, sorgfältig, an seinen Platz. »Wenn dieser Krieg vorbei ist – und er wird vorbeigehen, Maren, Kriege gehen vorbei, das ist das Einzige, was sie zuverlässig tun –, dann wird jemand kommen und fragen: Was habt ihr verloren? Und dann werden wir sagen: Dierk Arndts Grete, zweiundzwanzig Lasten. Und dann wird der Mann fragen: Woher weißt du das? Und dann müssen wir ein Blatt vorlegen, oder wir haben nichts, und dann haben wir nichts.«
+
+»Wenn dieser Krieg vorbeigeht«, sagte Maren, und ihre Stimme war jetzt leiser, aber nicht weicher, »dann werden wir nicht mehr da sein, um etwas vorzulegen. Oder wir werden da sein, aber wir werden nicht gefragt werden. Wer fragt denn die Fischer von Middelhagen, was sie verloren haben? Wer hat sie je gefragt?«
+
+»Die Krone fragt«, sagte Benthin. »Die Krone fragt immer, wenn sie zahlen soll. Und sie zahlt nur, wenn sie muss. Und sie muss nur, wenn einer ein Blatt vorlegt.«
+
+»Die Krone zahlt nicht«, sagte Maren. »Die Krone nimmt. Das ist der ganze Unterschied zwischen deinen sechzehn Blättern und meinem Brennholz.«
+
+Benthin sah sie an. Sie stand jetzt am Tisch, die Hände flach auf die Platte gelegt, wie er, und sie sahen einander über die Blätter hinweg an, über die Namen, über die Zahlen, über die Unterschriften, und zwischen ihnen lag das, was sie beide wussten und was keiner aussprach: dass sie recht haben konnte und dass er recht haben konnte, und dass die beiden Rechte einander ausschlossen.
+
+»Ich habe diese Blätter nicht für Rask geschrieben«, sagte Benthin. »Ich habe sie geschrieben, weil er es befahl, ja. Aber ich habe sie so geschrieben, dass sie auch für uns zeugen. Für jeden Eintrag habe ich eine Gegenzeichnung. Für jede Tonnage eine zweite Hand. Für jedes Datum einen Zeugen. Wenn ich sie verbrenne, dann verbrenne ich nicht Rasks Papier, dann verbrenne ich unseres.«
+
+»Wenn du sie behältst«, sagte Maren, »dann behältst du Rasks Papier, und unseres ist gleich mit verloren.«
+
+»Du hast eine Feder in der Hand gehabt«, sagte Benthin. »Du hast sie geführt, so gut wie ich. Du weißt, was ein Blatt wert ist.«
+
+»Ich weiß, was ein Blatt wert ist«, sagte Maren, »wenn man es verbrennen kann, bevor der Feind es liest.« Sie richtete sich auf. »Ich habe nicht gesagt, dass du sie für Rask geschrieben hast. Ich habe gesagt, dass du sie für Rask behältst. Das ist nicht dasselbe. Aber es kommt auf dasselbe hinaus.«
+
+Benthin schwieg. Draußen ging jemand über den Kirchenweg, ein langsamer Schritt, ein Stock, der auf das Pflaster stieß, dann wieder Stille. Der graue Vormittag stand im Fenster wie ein Gast, der nicht gehen will. Benthin dachte an das, was er nicht sagte: dass er Angst hatte. Nicht vor Rask. Vor dem Tag danach. Vor dem Tag, an dem die Schweden fort wären und die Dänen fort wären und niemand mehr da wäre, der sagte, was rechtens war, und alle nur noch das behielten, was sie mit den Händen festhielten. Er hatte sein Leben lang geschrieben, weil das Geschriebene blieb, wenn die Männer gingen. Wenn er die Blätter verbrannte, dann blieb nichts. Dann war er kein Küster mehr, sondern ein alter Mann mit einem leeren Tisch.
+
+»Du nennst mich feige«, sagte er.
+
+»Ich habe es nicht gesagt.«
+
+»Du hast es gedacht.«
+
+»Ich habe gedacht, dass du dich hinter deinen Blättern versteckst«, sagte Maren. »Und dass du es Ordnung nennst. Und dass du weißt, dass es keine Ordnung ist, sondern nur das, was von der Ordnung übrig bleibt, wenn die Ordnung längst tot ist.«
+
+Benthin nahm die Mütze ab. Er legte sie neben die Blätter, und er sah auf seine Hände, die alten Hände, die so viel geschrieben hatten, dass die Finger nicht mehr gerade waren. »Vielleicht«, sagte er. »Vielleicht ist es das. Vielleicht ist es auch das andere. Vielleicht ist es beides. Ich kann es nicht auseinanderhalten, und ich will es nicht auseinanderhalten, weil ich sonst nichts mehr hätte, woran ich mich halten kann.«
+
+Maren sah ihn an, und für einen Augenblick, einen einzigen, wurde ihr Blick weicher, so wie Wasser weicher wird, wenn der Wind dreht, ohne dass es wärmer wird. Dann ging die Tür zum zweiten Mal.
+
+Lene Arndt kam herein, und sie kam nicht wie jemand, der zu Besuch kommt. Sie kam wie jemand, der ein Haus betritt, in dem gearbeitet wird, und sie sah die beiden am Tisch stehen, die Blätter zwischen sich, und sie sah die Mienen, und sie sagte, noch bevor sie die Tür hinter sich geschlossen hatte:
+
+»Ihr steht hier und redet. Dierk liegt auf einem Prahm und kann nicht stehen.«
+
+Sie sagte es nicht laut. Sie sagte es so, wie man eine Tatsache sagt, die man nicht mehr erträgt, und gerade darum traf es. Benthin setzte sich, endlich, auf die Bank hinter dem Tisch, und Maren wandte sich halb ab, zur Seite, wo das Kruzifix hing, das alte, geschnitzte, mit dem abgegriffenen Fuß.
+
+»Lene«, sagte Maren.
+
+»Nein«, sagte Lene. »Nicht Lene. Ich bin nicht hier, um Lene zu sein. Ich bin hier, um zu hören, was ihr beschlossen habt, und dann gehe ich wieder an den Strand, wo die Netze liegen, die ich flicken muss, weil Dierk sie nicht flicken kann, weil Dierk nicht da ist.« Sie sah von einem zum anderen. »Also. Was habt ihr beschlossen?«
+
+»Nichts«, sagte Benthin.
+
+»Nichts«, wiederholte Lene. »Ihr steht hier und redet über Blätter, und dabei habt ihr nichts beschlossen.«
+
+»Wir haben nicht über Blätter geredet«, sagte Maren. »Wir haben über das geredet, was auf ihnen steht.«
+
+»Und was steht auf ihnen?«
+
+»Unsere Namen«, sagte Maren. »Unsere Fahrzeuge. Alles, was uns gehört, und alles, was uns genommen werden kann.«
+
+»Das weiß ich«, sagte Lene. »Das weiß ich seit dem Tag, an dem dein Vater mit Rask am Strand stand und Dierk sagte, es sei nur für wenige Tage. Ich brauche kein Blatt, um zu wissen, was mir genommen wurde. Ich brauche nur in den Schuppen zu gehen und den leeren Platz anzusehen.« Sie trat an den Tisch, und sie sah auf die Blätter, und sie las nicht, sie sah nur, wie Benthin sie angesehen hatte, als seien sie nicht Papier, sondern etwas, das man anfassen kann. »Und jetzt sagt mir: Was wollt ihr tun?«
+
+»Verbrennen«, sagte Maren. »Ich will sie verbrennen, damit sie niemandem mehr nützen, wenn die Dänen kommen oder die Schweden zurückkommen oder beide.«
+
+»Behalten«, sagte Benthin. »Ich will sie behalten, damit wir später beweisen können, was uns genommen wurde.«
+
+Lene sah beide an. Sie war Fischerin, sie war siebenunddreißig, sie hatte zwei Kinder geboren und eines begraben, sie hatte Netze geflickt, die andere zerrissen hatten, und sie hatte gelernt, dass ein Streit über Prinzipien ein Luxus ist, den man sich leisten kann, wenn das Boot im Hafen liegt. Ihr Boot lag nicht im Hafen. Ihr Mann lag auf einem Prahm.
+
+»Ihr seid beide närrisch«, sagte sie. »Du«, sie sah Benthin an, »willst ein Blatt behalten, das dir niemand abnehmen wird, weil du es versteckt hältst, und das dir niemand danken wird, weil niemand mehr da sein wird, der danken kann. Und du«, sie sah Maren an, »willst ein Blatt verbrennen, das dir niemand wegnimmt, wenn du es behältst, und das dir niemand zurückgibt, wenn du es verbrennst. Und beide redet ihr, als hinge Dierks Leben an euren Blättern. Es hängt nicht an euren Blättern. Es hängt daran, dass jemand etwas tut.«
+
+»Ich tue etwas«, sagte Maren.
+
+»Was?«
+
+Maren schwieg. Sie konnte nicht sagen, was sie tat, weil sie es selbst nicht wusste, oder weil sie es wusste und nicht sagen wollte, oder weil sie es vor Lene nicht sagen konnte, die ein Recht darauf hatte, es zu wissen, und der sie es dennoch nicht sagte. Benthin sah sie an, und er sah, dass sie etwas verbarg, und er sagte nichts. Er war Küster, er war daran gewöhnt, dass Menschen ihm Dinge verbargen und ihm andere Dinge brachten, damit er sie aufschrieb.
+
+»Ich weiß, was du tust«, sagte Lene. »Du wartest auf deinen Vater. Und dein Vater wartet auf etwas, das er nicht sagt. Und ich warte auf Dierk. Und wir alle warten, und während wir warten, verfault Dierks Fuß.« Sie atmete aus, langsam, und ihre Schultern sanken ein wenig. »Ich will nicht, dass ihr euch einig werdet. Ich will, dass ihr aufhört, euch uneinig zu sein. Das ist nicht dasselbe. Einigkeit ist, wenn zwei dasselbe wollen. Das bekommt ihr nicht hin. Aber aufhören, einander im Weg zu stehen, das könntet ihr hinbekommen. Und das wäre schon mehr, als wir in den letzten Wochen gehabt haben.«
+
+Benthin sah auf seine Hände. Dann sah er auf die Blätter. Dann sah er Maren an, und Maren sah ihn an, und in dem Blick lag etwas, das keine Versöhnung war und keine Niederlage, sondern nur die nüchterne Feststellung, dass Lene recht hatte und dass es nichts half, dass sie recht hatte.
+
+»Ich verbrenne sie nicht«, sagte Benthin.
+
+Maren öffnete den Mund, aber Lene hob die Hand, und Maren schwieg.
+
+»Aber«, sagte Benthin, und er sagte es langsam, als taste er die Worte ab, bevor er sie aussprach, »ich kann sie abschreiben. Nicht alle. Nicht die, die Rask schon hat. Aber die, die ich noch habe, die kann ich abschreiben, und die Abschriften kann ich den Eigentümern geben. Beglaubigt. Mit meiner Hand und meinem Siegel. Dann hat jeder seinen eigenen Nachweis, und wenn die Dänen kommen und die Schweden zurückkommen und alles drunter und drüber geht, dann kann niemand sagen, wir hätten nichts gehabt. Und wenn sie die Listen finden, dann finden sie nur die Listen, und die Abschriften sind da, wo sie hingehören: bei denen, denen es gehört.«
+
+Maren sah ihn an. »Du willst Abschriften machen.«
+
+»Ich will Abschriften machen.«
+
+»Heimlich.«
+
+»Heimlich«, sagte Benthin. »Heute Nacht. Morgen früh. Bis es fertig ist.«
+
+»Und wenn Rask es merkt?«
+
+»Dann habe ich Abschriften gemacht«, sagte Benthin. »Das ist kein Verbrechen. Das ist Küsterarbeit.«
+
+Lene sah von einem zum anderen. Sie sagte nichts. Aber sie setzte sich, zum ersten Mal, auf die Bank an der Wand, und sie nahm die Haube ab und legte sie auf die Knie, und das war, in diesem Haus, mehr Zustimmung, als Worte hätten ausdrücken können.
+
+Der Vormittag verging über dem Tisch. Benthin holte das gute Papier aus dem Schrank, das Bütten, das er für Kirchenbücher aufhob, und er schnitt es zurecht, und er setzte sich, und er begann zu schreiben. Maren stand neben ihm und las die Vorlagen, und sie nannte die Namen, und er schrieb sie, und die Feder kratzte, und der graue Vormittag wurde ein grauer Mittag, und das Licht im Fenster wanderte langsam über die Dielen, als wolle es zusehen.
+
+Es war eine stille Arbeit. Es war die stillste Arbeit, die Benthin seit Wochen getan hatte. Er schrieb, und während er schrieb, dachte er an das, was er Maren nicht gesagt hatte: dass er nicht wusste, ob die Abschriften je etwas nützen würden, dass er nicht wusste, ob es je einen Tag geben würde, an dem ein Fischer vor eine Obrigkeit treten und sagen konnte, hier ist mein Blatt, gebt mir mein Boot zurück, und dass diese Obrigkeit dann sagte, ja, hier ist dein Boot, es ist zwar versenkt und verbrannt und fort, aber hier ist dein Blatt, und das Blatt ist dein Boot. Er wusste es nicht. Aber er wusste, dass er es tun musste, nicht weil es half, sondern weil es das Einzige war, was er tun konnte, und weil ein Mann, der nichts tun kann, wenigstens das tun muss, was er kann.
+
+Maren sah ihm zu. Sie sah seine Hand, die über das Papier ging, langsam, gleichmäßig, und sie sah, dass die Hand zitterte, ein wenig, nicht viel, und sie sah, dass er es nicht bemerkte, und sie sagte nichts. Sie dachte an das, was sie ihm nicht gesagt hatte: dass sie in der Nacht Boote versteckt hatte, dass sie es wieder tun würde, dass sie auf ihren Vater wartete, der etwas tat, das sie nicht kannte, und dass sie, wenn sie ehrlich war, nicht wusste, ob sie noch die war, die vor drei Wochen am Tisch gesessen und Listen geschrieben hatte. Sie war eine andere geworden, und die andere war nicht besser, nur härter, und sie wusste nicht, ob das gut war.
+
+Lene saß an der Wand und sagte nichts. Sie hatte die Augen halb geschlossen, und sie dachte an Dierk, wie sie immer an Dierk dachte, wenn sie nicht arbeitete, und sie dachte an seinen Fuß, und sie dachte an seine Stimme, die immer ein Scherz gewesen war, auch wenn es nichts zu scherzen gab, und sie fragte sich, ob die Stimme noch so war, und sie wusste, dass sie es nicht wusste, und sie hörte auf, sich zu fragen, weil das Fragen nichts änderte.
+
+Gegen Mittag legte Benthin die Feder hin. Vier Abschriften waren fertig, sauber, beglaubigt, mit Siegel. Er blies auf die Tinte, und er faltete die Blätter, und er reichte sie Maren, und Maren nahm sie, und sie sah sie an, und sie waren nur Papier, aber sie waren mehr als Papier, sie waren das, was von einem Boot bleibt, wenn das Boot fort ist.
+
+»Für Arndt«, sagte Benthin. »Für Tamm. Für Paye. Für Klook.«
+
+»Klook wird es nicht annehmen«, sagte Maren.
+
+»Dann nimm es für ihn«, sagte Benthin. »Und wenn er es nicht will, dann behalte es. Es ist sein Blatt. Es gehört ihm. Auch wenn er es nicht weiß.«
+
+Maren steckte die Blätter unter das Tuch, an die Brust, wo sie das Register trug, und sie spürte sie dort, vier gefaltete Bögen, und sie dachte, dass sie nun etwas bei sich trug, das schwerer war als sein Gewicht.
+
+»Ich gehe«, sagte Lene. Sie stand auf, setzte die Haube auf, und sie sah die beiden an, den alten Mann am Tisch und die junge Frau mit den Blättern am Herzen, und sie sagte: »Ihr habt getan, was ihr tun konntet. Das ist mehr, als die meisten tun. Aber es ist nicht genug.«
+
+»Ich weiß«, sagte Maren.
+
+»Du weißt es«, sagte Lene. »Und du wirst es tun. Was immer du tun wirst. Ich kenne dich. Du wirst es tun, und es wird jemanden kosten, und ich hoffe, dass es nicht Dierk ist.« Sie ging zur Tür, und sie blieb stehen, die Hand am Griff, und sie sagte, ohne sich umzudrehen: »Wenn dein Vater zurückkommt, dann sag ihm, dass ich nicht mehr warte. Sag ihm, dass ich anfange zu rechnen. Sag ihm, dass ich wissen will, was er tut, und dass ich es wissen will, bevor er es getan hat, nicht danach.«
+
+Dann ging sie, und die Tür fiel zu, und es blieb der Staub, der im Licht stand, und die vier Abschriften, die unter Marens Tuch lagen, und der alte Mann am Tisch, der die Feder wieder in die Hand nahm, um weiterzuschreiben, weil es das Einzige war, was er noch konnte.
+
+Maren ging nicht sofort. Sie stand noch einen Augenblick an der Tür, und sie sah auf den Tisch, auf die sechzehn Blätter, die dort lagen, auf die Namen, die sie kannte, auf die Zahlen, die sie geschrieben hatte, und sie dachte an das, was Lene gesagt hatte: dass sie wusste, was Maren tun würde, und dass es jemanden kosten würde. Sie wusste es auch. Sie wusste nur nicht, wen.
+
+Draußen war der Vormittag in einen Nachmittag übergegangen, ohne dass es heller geworden wäre. Der Wind kam von Westen, und er trug den Geruch von Regen, und über dem Bodden hing eine graue Wand, die kein Land und kein Wasser war, sondern nur das, was dazwischen liegt. Maren ging den Weg hinunter, die vier Blätter an der Brust, und sie dachte an ihren Vater, der irgendwo war, auf dem Wasser oder am Strand oder in einem Haus, das sie nicht kannte, und sie dachte, dass sie ihn sehen musste, heute, bevor es Nacht wurde, und dass sie ihn fragen musste, was er tat, und dass sie, wenn er es ihr nicht sagte, es selbst herausfinden würde.
+
+Am Ende des Weges, wo der Pfad zum Strand abbog, blieb sie stehen. Sie sah auf das Wasser hinaus, auf die graue Fläche, auf der die Sperre lag, unsichtbar in der Ferne, und auf der dahinter, noch weiter, die Dänen lagen, und auf der dahinter, noch weiter, die Schweden lagen, und sie dachte, dass sie in einem Land lebte, das von allen Seiten besetzt war, und dass es keinen Ort mehr gab, an dem man stand und sagte, hier bin ich, und niemand widersprach.
+
+Sie griff unter das Tuch und berührte die Blätter. Sie waren warm von ihrem Körper, und sie waren schwer, und sie waren das, was von den Booten blieb. Sie dachte an Dierk, der auf einem Prahm lag, und an Lene, die anfing zu rechnen, und an Benthin, der Abschriften machte, und an ihren Vater, der etwas tat, das niemand wusste, und sie dachte, dass sie alle dasselbe taten, nur jeder auf seine Weise: Sie hielten fest, was sie hatten, und warteten darauf, dass der Krieg entschied, was ihnen blieb.
+
+Dann ging sie weiter, den Pfad hinunter, dem Strand entgegen, wo die Netze lagen, die geflickt werden mussten, und wo Lene war, die nicht mehr wartete, sondern rechnete, und wo die Boote fehlten, die Namen aber geblieben waren, auf Papier, in vier Abschriften, an ihrem Herzen.
+
+Über dem Wasser, weit draußen, wo die Möwen kreisten, die immer kreisten, gleichviel ob Krieg war oder Frieden, ging ein Licht auf, ein schmales, kaltes, das den Horizont entlanglief wie ein Riss in einer Wand. Maren sah es, und sie blieb nicht stehen, um es anzusehen. Sie ging weiter, und das Licht ging mit, und hinter ihr, im Küsterhaus, kratzte eine Feder über Papier, und schrieb Namen auf, die niemand mehr lesen würde, wenn die Zeit es anders wollte, und die jemand lesen würde, wenn sie es anders wollte, und niemand konnte sagen, welche von beiden es sein würde.
+
+---
+
+## Eine geringere Tiefe
+
+> *„Das Neue Tief zwischen Mönchgut und dem Ruden ist eine Rinne von geringer Breite und noch geringerer Tiefe; wer sie bei halber Ebbe ohne Lot und ohne kundigen Mann befährt, der befährt sie zum letzten Mal."*
+>
+> Aus: *Anmerkungen zur Küstenbeschaffenheit des Rügischen Boddens*, handschriftlich, Verfasser unbekannt, um 1700.
+
+Der Nebel kam von Südwesten, und er kam nicht wie Wetter, sondern wie eine Mauer, die jemand über das Wasser geschoben hatte. Joren Voss stand im Vorschiff der *Möwe*, die Hände am Want, und sah zu, wie die Konturen des Ruden darin verschwanden, erst die höheren Kuppen, dann die Silhouette der Bäume, zuletzt die bloße Ahnung von Land, bis nichts blieb als ein weißgraues Atmen, das keine Richtung hatte und keine Entfernung. Das Ruderblatt knarrte in der Ducht, das Wasser klatschte dumpf gegen die Planken, und irgendwo, sehr weit weg oder sehr nah, das war nicht zu unterscheiden, schlug eine Brandung mit dem Geräusch eines Atems, der zwischen den Zähnen entweicht.
+
+Er hatte die *Möwe* vor der dritten Stunde nach Mitternacht aus der Boje gelöst, ohne Laterne, ohne Geräusch, und Else hatte im Halbschlaf den Kopf gehoben und gefragt, wohin. Auf Lotsenfahrt, hatte er gesagt, und es war keine Lüge gewesen, aber auch nicht die Wahrheit, und Else hatte ihn angesehen mit dem Blick, den sie für seine Ausflüchte reservierte, und sich wieder umgedreht, ohne ein Wort. Das war schlimmer gewesen als jeder Vorwurf.
+
+Neben ihm, auf der zweiten Ducht, saß der junge Bootsgehilfe, den er sich für diese Fahrt genommen hatte, weil er allein nicht fahren konnte und weil er keinen von den Männern mitnehmen wollte, die Rask kannte. Er hieß Ole, war neunzehn, aus dem Fischerhaushalt der Payes, und er hatte den Auftrag angenommen, ohne zu fragen, was sie loten sollten und warum bei Nacht und Nebel. Das war entweder Dummheit oder Vertrauen, und Joren wusste nicht, welches von beidem ihm lieber war. Ole hielt das Lot in der Hand, eine Bleikugel an geteerter Leine, und wartete.
+
+»Fieren«, sagte Joren.
+
+Ole ließ die Leine durch die Hand gleiten. Sie lief aus, Meter um Meter, und Joren zählte die Knoten, die er selbst vor Jahren hineingeknüpft hatte, in einer Zeit, in der das Lot nur ihm gedient hatte und keinem Krieg. Die Leine wurde schlaff. Ole las ab.
+
+»Vier«, sagte er. »Vielleicht viereinhalb.«
+
+Vier Faden. Das war zu wenig. Joren kannte die Rinne seit dreißig Jahren, und an dieser Stelle, so nahe am östlichen Rand, hätte es fünf sein müssen, fünf mindestens, bei Niedrigwasser sechs. Der Grund wanderte. Das tat er immer, aber er wanderte schneller als sonst, und Joren wusste, wer ihn wanderte. Die Herbststürme des vergangenen Jahres, drei in vier Wochen, jeder aus Nordwest, jeder mit einer See, die über die Haken strich und den Sand vor sich hertrieb wie ein Besen den Kehricht. Und dann die Schiffe.
+
+»Aufholen«, sagte er. »Wir gehen weiter nach Backbord.«
+
+Ole zog die Leine ein, Hand über Hand, und die nasse Litze schlug kleine dunkle Flecken auf seine Ärmel. Joren legte das Ruder herum, langsam, ohne Hast, denn im Nebel war jede hastige Bewegung ein Fehler, und die *Möwe* drehte träge, als überlege sie es sich, und nahm dann den neuen Kurs an. Joren hielt den Blick auf den Kompass, der in seinem Kasten schwach leuchtete, und auf die Uhr, die er aus der Tasche gezogen und neben sich auf die Ducht gelegt hatte, und er rechnete, wie er seit dreißig Jahren rechnete: Fahrt, Zeit, Kurs, Grund. Die Rechnung war das einzige, was im Nebel Bestand hatte.
+
+Die Rinne des Neuen Tiefs war ein schmales Band, das sich zwischen dem Mönchguter Ufer und dem Ruden hindurchwand, ein alter Strom, der vor Jahrhunderten mehr Wasser geführt hatte und nun nur noch ein Bett besaß, in dem sich bei Hochwasser sechs, bei Niedrigwasser vier Faden fanden, an den Rändern weniger, an den Rändern oft nur zwei, und dann der blanke Sand. Wer sie bei klarem Wetter befuhr, sah die Verfärbungen des Wassers, die grünen Streifen über den Bänken, die dunklen über den Rinnen, und konnte sie lesen wie eine Schrift. Im Nebel gab es keine Schrift. Im Nebel gab es nur das Lot, die Uhr, den Kompass und das Gedächtnis.
+
+Und das Gedächtnis, dachte Joren, war das unzuverlässigste von allen.
+
+Er hatte die Rinne zum letzten Mal vor vierzehn Tagen befahren, mit Holm an der Seite und der *Prins Christian* im Rücken, und damals war sie noch gewesen, wie er sie kannte. Vierzehn Tage waren nichts. Vierzehn Tage waren ein Atemzug. Aber zwischen damals und heute lagen drei Stürme, und zwischen damals und heute lagen die Schiffe, die er selbst hatte sinken sehen, vor Jahren, als er noch jung gewesen war und geglaubt hatte, ein versenktes Schiff bleibe liegen, wo man es versenkt.
+
+»Loten«, sagte er.
+
+Ole fierte. Die Leine lief aus, stockte, lief weiter. »Fünf«, sagte Ole. »Fünf, würde ich meinen.«
+
+Fünf. Besser. Joren nickte, ohne dass Ole es sehen konnte, und hielt den Kurs. Die *Möwe* glitt durch das Wasser, das im Nebel keine Farbe hatte, nur eine Dichte, und Joren hörte das Klatschen der Wellen an der Bordwand und unterschied daran, ob der Grund stieg oder fiel. Ein erfahrenes Ohr hörte den Grund. Ein unerfahrenes hörte nichts. Ole hörte den Grund noch nicht, aber er hörte das Lot, und das war ein Anfang.
+
+Sie fuhren eine halbe Stunde, dann eine ganze. Die Nebelmauer blieb, und sie blieb dicht, und sie blieb reglos, als sei sie nicht Wetter, sondern Zustand. Joren lotete im Rhythmus von zwanzig Ruderschlägen, und Ole las ab, und Joren trug die Zahlen in ein kleines Wachstuchheft ein, das er am Gürtel trug, mit einem Bleistiftstummel, den er zwischen den Fingern wärmte, wenn er schreiben musste. Die Zahlen ergaben eine Linie, und die Linie ergab ein Bild, und das Bild ergab das, was er befürchtet hatte: Die Rinne hatte sich verschoben. Nicht viel, aber genug. Die tiefe Linie, die früher in der Mitte des Bettes gelaufen war, lief nun dichter am östlichen Rand, und an ihrer alten Stelle stand eine Bank, eine flache, breite, tückische Bank aus Sand, die im Nebel nicht zu sehen und mit dem Lot nur zu finden war, wenn man genau an der richtigen Stelle lotete, und die ein Schiff, das sie mit Fahrt und Tiefgang nahm, festhielt wie eine Hand.
+
+Und dann waren da die Schiffe.
+
+Joren hatte sie gekannt, seit er denken konnte. Zwei alte Prahme, vor fünfzehn Jahren versenkt, um die Rinne zu sperren, damals, im vorigen Krieg, als die Dänen schon einmal gekommen waren und die Schweden die Durchfahrt hatten schließen wollen, ohne sie ganz zu schließen. Zwei Rümpfe, mit Steinen gefüllt, an einer Stelle versenkt, die die Karten als das Nadelöhr auswiesen, die engste Stelle der Rinne, wo das Fahrwasser zwischen dem Ruden und der Sandbank hindurchlief, kaum vierzig Meter breit. Joren hatte sie damals gesehen, die Rümpfe, die aus dem Wasser ragten wie die Rücken zweier ertrunkener Tiere, und er hatte gewusst, dass sie mit der Zeit sinken würden, Stück um Stück, bis sie verschwanden, und dass sie dann nicht mehr sichtbar, aber noch da sein würden, unter Wasser, als Hindernisse, die kein Lot und kein Auge mehr verriet.
+
+Er lotete. Ole fierte. Die Leine lief aus, stockte, lief weiter, und dann stockte sie wieder, und diesmal nicht, weil das Lot den Grund berührt hatte, sondern weil es auf etwas gestoßen war, das nicht Grund war.
+
+»Da ist was«, sagte Ole. Seine Stimme war eine Spur höher als sonst.
+
+»Ich weiß«, sagte Joren. »Aufholen. Noch mal.«
+
+Ole holte auf, warf erneut. Wieder stockte die Leine, an derselben Stelle, und Joren ließ das Ruder halten und griff selbst nach der Leine, zog sie an, langsam, und fühlte den Widerstand, der kein Sand war, sondern Holz, altes, morsches, mit Steinen gefülltes Holz. Er ließ die Leine wieder sinken, ließ sie schleifen, und fühlte, wie sie über eine Kante glitt, über eine Fläche, über etwas, das einmal ein Deck gewesen war und nun ein Grund war.
+
+Er richtete sich auf und sah in den Nebel, dorthin, wo das Nadelöhr lag, und er sah es nicht, aber er wusste, dass es dort war, und er wusste, dass die Rümpfe gewandert waren. Die Stürme hatten sie nicht verschwinden lassen. Die Stürme hatten sie bewegt. Sie lagen nicht mehr dort, wo sie versenkt worden waren, sie lagen nicht mehr an der engsten Stelle, sondern sie hatten sich verschoben, mit dem Sand, mit dem Strom, mit der Zeit, und sie lagen nun dort, wo die Rinne am tiefsten war, wo jedes Schiff hindurchmusste, und wo sie im Nebel nicht zu sehen und mit dem Lot nur zu finden waren, wenn man wusste, dass sie da waren, und wenn man genau an der Stelle lotete, an der sie lagen.
+
+Joren holte das Heft heraus und zeichnete, im schwachen Licht, mit dem Bleistift, der kaum schrieb. Er zeichnete die Rinne, wie sie gewesen war, und die Rinne, wie sie nun war, und die Stelle, an der die Rümpfe lagen, und die Stelle, an der die neue Bank lag, und er sah, dass zwischen ihnen ein Durchlass geblieben war, ein schmaler, gewundener, kaum zwanzig Meter breit, der sich zwischen der Bank und den Rümpfen hindurchwand, wie ein Faden durch ein Nadelöhr, das jemand enger gemacht hatte, als es sein sollte.
+
+Zwanzig Meter. Bei Nebel. Bei Nacht. Mit einer Vorhut von Schaluppen, die keine Lotungen kannten und keine Uhr und keinen Kompass, die nur wussten, dass sie einem Lotsen folgen mussten, und die, wenn sie ihm folgten, ihm folgen mussten wie Blinde einem Blinden.
+
+Joren klappte das Heft zu und steckte es weg. Er sah auf Ole, der ihn ansah, mit einem Gesicht, das nicht mehr neunzehn war, sondern älter, und der nichts fragte, weil er wusste, dass man auf einem Boot nicht fragt, was der Lotse nicht sagt.
+
+»Wir gehen zurück«, sagte Joren. »Aber nicht denselben Weg.«
+
+Ole nickte. Er nahm das Lot auf, und Joren legte das Ruder herum, und die *Möwe* drehte, langsam, und nahm den neuen Kurs an, südwärts, dorthin, wo die Rinne sich weitete, und wo, nach Jorens Erinnerung, eine Bucht lag, eine kleine, versteckte, zwischen dem Ruden und der Sandbank, die bei Hochwasser zwei Faden führte und bei Niedrigwasser trockenfiel, und die kein Mensch befuhr, weil kein Mensch einen Grund hatte, sie zu befahren.
+
+Er hatte einen Grund. Er hatte einen Grund, seit Holm ihm von der Vorhut gesprochen hatte, und der Grund war einfach: Wenn er die Schaluppen durch das Nadelöhr führen sollte, dann musste er vorher wissen, wo er sie warten ließ, bevor er sie hindurchführte. Ein Hinterhalt brauchte einen Ort, an dem die Schiffe lagen, ohne gesehen zu werden, und einen Moment, in dem sie losfuhren, ohne gehört zu werden, und beides musste nahe genug am Nadelöhr sein, dass die Vorhut es in kurzer Zeit erreichte, und weit genug, dass die Schweden es nicht bemerkten.
+
+Er lotete, während sie fuhren, und Ole las ab, und die Zahlen ergaben eine Linie, und die Linie ergab, was Joren gehofft hatte: Die Bucht war da. Sie war flach, sie war eng, sie war von der Rinne durch einen Rücken getrennt, der bei Niedrigwasser trockenfiel und bei Hochwasser zwei Faden führte, und sie lag im Windschatten des Ruden, und im Nebel lag sie im Nichts. Ein Schiff, das dort wartete, wartete unsichtbar. Ein Schiff, das dort wartete, konnte in einer halben Stunde vor dem Nadelöhr sein, wenn der Wind mitspielte, und in einer Stunde, wenn er nicht mitspielte. Und ein Schiff, das dort wartete, wartete auf einem Grund, der tief genug war für einen Schaluppenkiel und flach genug, dass kein größeres Schiff folgen konnte.
+
+Joren ließ das Lot noch einmal fallen, an der engsten Stelle der Bucht, und Ole las drei Faden ab, und Joren zeichnete es ein, und dann ließ er das Ruder halten und sah in den Nebel, und für einen Augenblick, nur für einen, war der Nebel nicht mehr Feind, sondern Verbündeter, nicht mehr Mauer, sondern Vorhang, und er dachte, dass es einen Ort gab, an dem man warten konnte, und einen Weg, den man fahren konnte, und dass das, was Holm verlangte, möglich war, wenn man den Nebel hatte und die Nacht und die Kenntnis, und wenn man bereit war, das Risiko zu tragen.
+
+Dann dachte er an die Rümpfe, an die zwanzig Meter, an die Bank, und er dachte, dass das, was Holm verlangte, auch unmöglich war, wenn der Nebel sich hob oder der Wind drehte oder ein einziges Schiff die Linie verlor, und dass er dann der Mann sein würde, der die Vorhut auf den Sand gesetzt hatte, und dass die Männer auf den Schaluppen ertrinken würden, weil ein Lotse geglaubt hatte, er kenne den Grund.
+
+»Ole«, sagte er. »Du bleibst am Lot. Ich brauche die Hand frei.«
+
+Ole nickte. Joren zog das Ruder an, und die *Möwe* drehte wieder, und sie fuhren nun den Weg zurück, den sie gekommen waren, aber auf der anderen Seite der Rinne, dichter am Ufer, wo das Wasser flacher war und der Grund näher, und Joren zählte die Ruderschläge und die Minuten und die Lotungen, und er verglich sie mit dem, was er im Heft hatte, und er sah, dass die Rechnung aufging, und dass der Weg, den er für die Vorhut plante, an der Bank vorbeiführte, wenn man ihn genau fuhr, und dass er an der Bank auflaufen würde, wenn man ihn auch nur um zehn Grad verfehlte.
+
+Zehn Grad. Das war nichts. Zehn Grad waren ein Ruck am Ruder, ein Windstoß, ein Mann, der zu spät reagierte.
+
+Die *Möwe* glitt durch den Nebel, und der Nebel glitt durch sie, und Joren hörte das Wasser und das Holz und das eigene Atmen, und dann hörte er etwas anderes, ein Geräusch, das nicht zum Wasser gehörte und nicht zum Holz, ein Kratzen, ein Schaben, ein Schleifen, das von vorn kam, von der Stelle, an der sie in wenigen Minuten sein würden, und das nicht das Geräusch von Wellen war und nicht das Geräusch von Wind.
+
+Er hob die Hand. Ole erstarrte. Sie lauschten.
+
+Das Geräusch kam wieder, und diesmal war es deutlicher, ein regelmäßiges, dumpfes Schlagen, wie ein Ruder, das in eine Ducht fällt, oder wie eine Leine, die gegen einen Rumpf schlägt. Es kam von vorn, und es kam von Backbord, und es war zu nah, um noch ausweichen zu können, und Joren begriff, dass ein anderes Fahrzeug dort war, im Nebel, auf demselben Kurs, in derselben Rinne, und dass es ihn nicht sehen konnte und er es nicht sehen konnte und dass sie aufeinander zuliefen wie zwei Blinde in einem engen Gang.
+
+»Ruder backbord«, sagte er, leise, sehr leise. »Und dann still.«
+
+Ole griff nach dem Ruder, zog es an, und die *Möwe* drehte, langsam, und Joren ließ sich auf die Ducht sinken und hielt den Atem an, und sie trieben, ohne Fahrt, während das Geräusch näher kam, und dann, im Nebel, zehn Meter entfernt oder fünfzehn, tauchte eine Kontur auf, ein Schatten, ein Umriss, ein Boot, ein schwedisches Boot, ein Ruderboot mit zwei Männern, die leise sprachen, und Joren hörte die Worte, ohne sie zu verstehen, und er sah die Umrisse der Männer, ohne sie zu erkennen, und er wusste, dass es eine Patrouille war, eine der Patrouillen, die Rask seit dem Verschwinden der Boote hatte fahren lassen, und dass sie ihn, wenn sie ihn fanden, nach seinem Passierschein fragen würden, und dass er keinen hatte, und dass er dann erklären müsste, was er bei Nacht und Nebel im Neuen Tief lotete.
+
+Das Ruderboot glitt vorbei, zehn Meter entfernt, fünfzehn, und die Männer sprachen weiter, und einer lachte, leise, und dann war das Geräusch hinter ihnen, und dann war es weg, und der Nebel schloss sich, und Joren atmete aus, langsam, und merkte, dass seine Hände feucht waren, nicht vom Nebel.
+
+»Weiter«, sagte er. »Aber leise. Und schnell.«
+
+Ole nahm das Ruder, und die *Möwe* nahm Fahrt auf, und sie fuhren, ohne zu sprechen, und Joren lotete nicht mehr, weil er das Lot nicht mehr brauchte, weil er wusste, wo sie waren, und weil er nur noch weg wollte von der Stelle, an der die Patrouille fuhr, und zurück nach Thiessow, und in ein Haus, in dem Else schlief und in dem niemand wusste, was er tat.
+
+Sie fuhren eine halbe Stunde, dann eine ganze, und der Nebel blieb, und dann, ganz langsam, begann er zu heben, nicht zu weichen, nur zu heben, und die Konturen kamen zurück, erst die Ahnung von Wasser, dann die Ahnung von Land, dann die Dünen von Thiessow, grau und niedrig, und Joren sah sie und fühlte nichts, keine Erleichterung, keine Freude, nur die Müdigkeit, die kam, wenn die Anspannung ging.
+
+Er steuerte die *Möwe* an den Lotsensteg, und Ole sprang an Land und machte fest, und Joren stieg aus, mit dem Heft in der Hand, und blieb einen Augenblick stehen, und sah auf das Wasser zurück, auf den Nebel, der die Rinne verdeckte, und auf die Stelle, an der die Rümpfe lagen, und auf die Stelle, an der die Bank lag, und auf die Bucht, in der die Vorhut warten würde.
+
+Er hatte, was er brauchte. Er hatte die Lotungen, die Positionen, die Wartezone, den Weg. Er hatte die Kenntnis, die Holm verlangte, und er hatte sie allein, ohne Rask, ohne Maren, ohne jemanden, der ihn hätte fragen können, ob er sie haben wollte.
+
+Und dann, als er die Hand auf das Heft legte und es in die Tasche schob, hörte er Schritte, und er drehte sich um, und im ersten Licht des Morgens, das durch den Nebel brach wie durch ein Sieb, sah er Ole, der am Steg stand und ihn ansah, und der etwas sagen wollte und es nicht sagte, und Joren begriff, dass der Junge nicht dumm war, sondern vertrauensvoll, und dass Vertrauen gefährlicher war als Dummheit, weil es nicht fragte und nicht zweifelte und am Ende mitging, wohin man es führte.
+
+»Du gehst nach Hause«, sagte Joren. »Und du sprichst mit niemandem über diese Fahrt.«
+
+Ole nickte. Er ging. Joren blieb am Steg stehen, und der Nebel hob sich weiter, und über dem Bodden, weit draußen, wo die Sperre lag, ging ein Licht auf, ein schmales, kaltes, das den Horizont entlanglief, und Joren sah es und dachte, dass er nun der Mann war, der einen Verrat vorbereitete, und dass er es allein tat, und dass er niemanden mehr fragen konnte, weil er niemanden mehr fragen wollte.
+
+Er ging den Steg hinauf, und hinter ihm, im Wasser, das im Nebel keine Farbe hatte, lag die *Möwe* und wartete, wie sie immer wartete, und über ihr, in der Luft, die kalt war und feucht, hing das, was von der Nacht geblieben war: der Geruch von Tang und Teer und das leise, regelmäßige Klatschen der Wellen gegen die Pfähle, das nicht aufhörte, gleichviel, was die Menschen taten.
+
+---
+
+## Die Hoffnung
+
+> *„Und also blieb die Hoffnung, die da heißt: daß der Mensch nicht besser sei als sein Werk, und daß er es dennoch wagen müsse, es zu beginnen.“*
+> — Aus dem Tagebuch des Laurenz Benthin, Küster zu Middelhagen, Eintrag vom 14. Oktober 1715.
+
+Der Regen kam von der See her, nicht als Sturz, sondern als ein langsames, beharrliches Rieseln, das den Sand vor der Werkstatt in eine graue Paste verwandelte und den Geruch von Teer und nassem Holz aus den Fugen des Gebäudes trieb, als atme das alte Bauwerk selbst. Thies Arndt stand an der Hobelbank und ließ die Hand über die frisch gehobelten Planken des Dollbords gleiten, ein letztes Mal, mit flacher Handfläche, so wie man über den Rücken eines Tieres fährt, das man fortschickt. Die Späne lagen in langen, gedrehten Locken auf dem Boden, und der Regen trommelte auf das Schindeldach in einem Rhythmus, der keine Pause kannte und keine Eile.
+
+Auf der Bank neben der Tür lag das Bündel, in Ölleinen gewickelt und mit einem Strick verschnürt, den er dreimal um die eigene Hand geprüft hatte. Dechsel, Stemmeisen, der schmale Ziehmesser, die Feile mit dem abgegriffenen Heft, der hölzerne Schlegel, dessen Kopf er im vorigen Winter aus einem Stück Eiche neu gedrechselt hatte. Es war nicht viel, wenn man es so liegen sah, ein Bündel, das ein Mann unter den Arm nehmen konnte. Es war alles, was er besaß, das Werkzeug ausgenommen, das er nicht besaß, weil es noch in der Werkstatt des Meisters in Stralsund lag, auf den er nun wartete, oder vielmehr auf das, was dieser Meister ihm geschrieben hatte.
+
+Der Brief lag auf der Hobelbank, unter einem Stein beschwert, damit der Wind, der durch die offene Tür strich, ihn nicht fortnahm. Thies hatte ihn dreimal gelesen, und beim dritten Mal hatte er die Worte bereits gekannt und dennoch weitergelesen, als könne sich die Tinte noch ändern, wenn er nur lange genug hinsah. „Auf Grund der vorgewiesenen Arbeit an der *Hoffnung* und des Zeugnisses des Herrn Benthin“, so stand da, in einer Handschrift, die fest und ohne Schnörkel war, „soll Er, Thies Arndt, zu Johannis des kommenden Jahres in Meiner Werkstatt zu Stralsund als Geselle eintreten, bei freier Kost und Logis und einem Lohn, der sich nach der Arbeit bemesse.“ Kein Wort von Krieg, kein Wort von der Insel, kein Wort von dem, was zwischen ihm und diesem Brief lag. Nur eine Zusage, schwarz auf weiß, und darunter ein Siegel, das er mit dem Daumen geprüft hatte, wie er es bei den Ladungspapieren tat, ob es echt sei oder nachgemacht.
+
+Er hatte den Boten am Mittag getroffen, an der Fähre, wo der Mann von einem Kahn gestiegen war, durchnässt bis auf die Haut und mit einem ledernen Felleisen über der Schulter, aus dem er den Brief gezogen hatte, als ziehe er einen Fisch aus dem Netz. Der Bote hatte nichts weiter gesagt als: „Von der Werft. Der Meister läßt ausrichten, Er solle kommen, sobald Er könne.“ Und Thies hatte genickt und den Brief genommen und war mit ihm zur Werkstatt gegangen, ohne ein Wort zu sagen, und hatte ihn auf die Hobelbank gelegt und den Stein darauf, und dann hatte er zu hobeln begonnen, als müsse er sich die Hände beschäftigen, damit sie nicht zitterten.
+
+Es war die Rettung. Es war die Rettung, und er wußte es, und dennoch war da dieser andere Gedanke, der sich nicht fortdrängen ließ, der Gedanke an den Strand, an die *Hoffnung*, die draußen auf dem Wasser lag, halb fertig, mit dem neuen Steven, den er im Sommer eingesetzt hatte, und an Maren, die in diesem Augenblick vielleicht im Küsterhaus saß und Registerzeilen zog, oder bei Lene am Strand stand und Netze flickte, oder mit ihrem Vater sprach, der seit Wochen ein Gesicht machte wie ein Mann, der etwas verschluckt hatte, das nicht hinunterwollte.
+
+Thies legte den Hobel hin. Er ging zur Tür und sah hinaus in den Regen. Der Strand war leer, das Wasser grau, die Sperre in der Ferne nur eine dunkle Linie, die der Nebel halb verschluckte. Irgendwo dort draußen saß Dierk auf einem Prahm und wartete auf eine Rückkehr, die niemand ihm versprochen hatte, und Lene wartete zu Hause und tat, als wartete sie nicht, und Maren wartete auf etwas, das sie nicht benennen konnte, und er selbst, Thies, hatte aufgehört zu warten. Das war es. Das war der Unterschied, der ihn von ihnen trennte, und er spürte ihn wie einen Splitter unter dem Nagel.
+
+Er ging zurück zur Bank und begann, das Bündel zu schnüren. Der Strick lief durch seine Hände, fest und gleichmäßig, und während er zog, hörte er draußen Schritte im nassen Sand, schnell und ohne Zögern, und er wußte, bevor er die Gestalt sah, wer es war, weil er diesen Gang kannte, seit er ihn zum ersten Mal gehört hatte, vor Jahren, auf dem Weg zum Strand, wenn sie mit bloßen Füßen gelaufen war und die Schuhe in der Hand getragen hatte.
+
+Maren blieb in der Tür stehen. Das Haar hing ihr naß am Kopf, und der Regen lief ihr über das Gesicht, und sie wischte ihn nicht fort. Sie sah das Bündel auf der Bank, und sie sah den Brief unter dem Stein, und sie sah die Hobelbank, auf der kein Werkstück mehr lag, und ihr Gesicht veränderte sich nicht, aber ihre Hände, die sie sonst ruhig hielt, schlossen sich um den Türrahmen, als müsse sie sich festhalten.
+
+»Du gehst«, sagte sie.
+
+Es war keine Frage. Thies band den letzten Knoten und zog ihn fest.
+
+»Ich gehe«, sagte er. »Übermorgen. Mit der Fähre nach Stralsund, so der Wind es zuläßt.«
+
+Maren trat ein. Sie ging nicht zu ihm, sie ging zur Bank, und sie nahm den Brief und las ihn, langsam, Wort für Wort, und Thies sah, wie ihre Lippen sich bewegten, ohne daß ein Laut kam, und wie ihre Finger die Stelle berührten, an der das Siegel saß, so wie er es getan hatte, prüfend, ob es echt sei.
+
+»Johannis«, sagte sie. »Das ist im Juni. Das ist ein halbes Jahr.«
+
+»Ein halbes Jahr«, sagte Thies. »Und dann ein Lohn, und dann keine Schulden mehr, und dann —«
+
+»Und dann bist du fort.«
+
+Sie legte den Brief hin, nicht unsanft, aber ohne Sorgfalt, so daß der Stein verrutschte und das Papier sich unter dem Zug des Windes bog. Sie sah ihn an, und in ihrem Blick war etwas, das er kannte, aber nicht benennen konnte, eine Mischung aus Vorwurf und Furcht und etwas Drittem, das tiefer lag und älter war als dieser Augenblick.
+
+»Du gehst fort, und Dierk liegt auf einem Prahm, und Lene flick Netze, die sie nicht mehr braucht, weil niemand mehr fischt, und mein Vater führt Buch über Fahrwasser, die er nicht nennen darf, und du —« Sie brach ab. Sie atmete. »Du packst deine Werkzeuge.«
+
+»Ja«, sagte Thies. »Ich packe meine Werkzeuge. Weil ich sie brauche, wo ich hingehe. Weil ein Mann ohne Werkzeug kein Mann ist, sondern ein Bettler.«
+
+»Und was bin ich dann?«
+
+Die Frage kam schnell, schneller, als er antworten konnte, und sie stand im Raum wie ein Stein, der ins Wasser fällt, und die Ringe breiteten sich aus, und Thies spürte, wie sie ihn erreichten, und wie er sich dagegen wehren wollte und es nicht tat.
+
+»Du bist nicht mein Werkzeug«, sagte er.
+
+»Nein«, sagte Maren. »Ich bin deine Ausrede. Ich bin die, die hierbleibt, weil sie hierbleiben muß, und du gehst, weil du gehen kannst, und dann sagst du dir, daß du es für uns tust, für die Zukunft, für das Haus, das wir einmal haben werden. Aber das ist nicht wahr. Du gehst für dich. Und ich soll dir dafür danken.«
+
+Thies hob die Hand, nicht drohend, sondern abwehrend, als müsse er einen Schlag parieren. »Ich habe dir angeboten mitzukommen. Im Herbst, im Schilf, als wir die Boote versteckt haben. Ich habe es dir angeboten, und du hast nein gesagt.«
+
+»Weil ich nicht konnte. Weil Lene nicht konnte. Weil Dierk im Arrest saß und weil mein Vater —«
+
+»Weil du nicht wolltest«, sagte Thies, und seine Stimme wurde härter, und er hörte es selbst und ließ es geschehen. »Weil du hier eine Aufgabe hast, eine Rolle, eine Pflicht, und weil du nicht weißt, wer du bist, wenn du sie aufgibst. Das ist es doch. Du hast dich eingerichtet in diesem Krieg, Maren. Du hast dir ein Register angelegt und eine Liste und einen Plan, und du führst Buch über alles, über die Boote und die Männer und die Schuld, und du glaubst, wenn du nur genau genug schreibst, dann bleibt die Welt stehen.«
+
+Maren wurde bleich. Nicht langsam, sondern in einem Zug, als laufe das Blut aus ihrem Gesicht, und sie trat einen Schritt zurück, und ihre Hand fand den Rand der Hobelbank, und sie hielt sich daran fest, und Thies sah, daß er getroffen hatte, und es tat ihm nicht leid, und das erschreckte ihn mehr als alles andere.
+
+»Ich führe Buch«, sagte Maren leise, »damit es später jemanden gibt, der bezeugen kann, was geschehen ist. Damit die Männer nicht verschwinden, ohne daß jemand es aufgeschrieben hat. Damit —«
+
+»Damit du recht behältst«, sagte Thies. »Damit am Ende dasteht, daß du es gewußt hast, daß du es vorhergesehen hast, daß du die einzige warst, die den Überblick behielt. Und alle anderen, die nicht so genau geschrieben haben wie du, die sind dann die, die versagt haben. Dein Vater, der gelogen hat. Lene, die zugestimmt hat. Dierk, der unterschrieben hat. Und ich, der ich weggehe. Wir alle sind dann Figuren in deinem Register, und du bist die, die es geführt hat.«
+
+Er hörte sich selbst und wußte, daß es zu weit ging, und dennoch: Es war die Wahrheit, oder ein Teil davon, und der Teil, der fehlte, war der, der ihn selbst betraf, und der war nicht schmeichelhaft. Er hatte sich an Marens Entschlossenheit gewärmt wie an einem Feuer, und er hatte sie bewundert, und er hatte sie gebraucht, und er hatte ihr nie gesagt, daß er sie auch fürchtete, weil sie von ihm verlangte, was er nicht geben konnte, eine Treue, die keine Grenze kannte, eine Hingabe an eine Sache, die größer war als er selbst.
+
+Maren sagte nichts. Sie sah ihn an, und in ihrem Blick war jetzt keine Anklage mehr, sondern etwas Kälteres, etwas, das sich schloß, wie eine Tür, die man von innen verriegelt, und Thies begriff, daß er mehr gesagt hatte, als er hatte sagen wollen, und daß es dennoch nicht mehr zurückzunehmen war, weil Worte, einmal gesprochen, nicht wieder in den Mund zurückkehren, sondern draußen bleiben, in der Luft, im Regen, im Raum, und dort warten, bis jemand sie aufnimmt und aufbewahrt.
+
+»Du hast recht«, sagte Maren. »Ich habe es gewußt. Ich habe gewußt, daß Dierk verletzt ist, bevor ich es zugab. Ich habe gewußt, daß die Boote nicht wiederkommen, als ich sie versteckte. Ich habe gewußt, was Rask tun würde, als ich ihm die Liste gab. Ich habe alles gewußt, und ich habe es getan, und ich habe es aufgeschrieben, und wenn du mich dafür verachtest, dann ist das dein Recht. Aber du sollst nicht sagen, daß ich es für mich getan habe. Ich habe es für sie getan. Für Lene. Für Dierk. Für Fiete. Für die, die nicht schreiben können und nicht lesen und nicht verhandeln und nicht —«
+
+»Und für dich«, sagte Thies. »Auch für dich. Weil du nicht erträgst, daß die Welt ohne dich geschieht.«
+
+Es war still im Raum, bis auf den Regen, der auf das Dach schlug, und das Klatschen der Wellen gegen die Pfähle draußen, und irgendwo, weit entfernt, das Rufen eines Vogels, der sich im Nebel verirrt hatte. Thies sah Maren an, und Maren sah ihn an, und zwischen ihnen lag die Bank mit dem Bündel und der Brief, und es war, als hätte jemand einen Strich in den Sand gezogen, den keiner von beiden überschreiten wollte.
+
+»Ich habe nie verlangt, daß du bleibst«, sagte Maren schließlich, und ihre Stimme war wieder ruhig, zu ruhig, und Thies erkannte daran, daß sie sich beherrschte, mit aller Kraft, die sie aufbringen konnte. »Ich habe nur verlangt, daß du ehrlich bist. Daß du sagst, was du tust, bevor du es tust. Daß du mich nicht vor vollendete Tatsachen stellst wie alle anderen.«
+
+»Ich habe es dir gesagt«, sagte Thies. »Im Schilf. Im Herbst. Ich habe gesagt, daß ich fortgehen will, und ich habe dich gefragt, ob du mitkommst.«
+
+»Und ich habe nein gesagt.«
+
+»Ja. Du hast nein gesagt. Und ich bin geblieben. Den ganzen Winter. Ich bin geblieben, und ich habe die *Hoffnung* repariert, und ich habe auf dich gewartet, und du bist nicht gekommen. Du bist zu Lene gegangen und zu deinem Vater und zu Benthin, und du hast Pläne gemacht und Listen geführt und Boote versteckt, und ich habe hier gesessen und gehobelt und gewartet, und irgendwann habe ich begriffen, daß Warten keine Antwort ist. Daß ich mir selbst keine Antwort geben kann, indem ich warte. Daß ich gehen muß, wenn ich wissen will, wer ich bin.«
+
+Er nahm das Bündel von der Bank und schob es unter den Arm, und es war schwerer, als es aussah, und er spürte das Gewicht an der Schulter und war froh darüber, weil es ihn erdete.
+
+»Ich gehe nicht fort, weil ich dich nicht liebe«, sagte er. »Ich gehe fort, weil ich nicht mehr der sein will, der ich hier bin. Weil ich nicht mehr der Mann sein will, der wartet und zusieht und die Werkzeuge in der Hand hält und nichts tut. Weil ich —«
+
+Er brach ab. Er wußte nicht, wie er es sagen sollte, und vielleicht gab es keine Worte dafür, oder er hatte sie noch nicht gefunden, und es war nicht der Augenblick, sie zu suchen. Er sah Maren an, und Maren sah ihn an, und dann, ganz langsam, trat sie einen Schritt zur Seite, von der Bank weg, zur Tür hin, und es war eine kleine Bewegung, aber sie bedeutete etwas, und Thies wußte nicht, was, und würde es vielleicht nie erfahren.
+
+»Dann geh«, sagte Maren.
+
+Es war kein Befehl und keine Bitte. Es war eine Feststellung, kühl und klar, wie eine Peilung, und Thies nickte, und er ging, an ihr vorbei, durch die Tür, in den Regen, und der Regen nahm ihn auf, und er ging den Strand hinauf, ohne sich umzusehen, weil er wußte, daß er, wenn er sich umsähe, stehenbleiben würde, und Stehenbleiben war keine Antwort, sondern nur ein Aufschub, und Aufschub hatte er genug gehabt, ein ganzes Jahr lang.
+
+Er war zwanzig Schritte gegangen, als er die Stimme hörte, nicht Marens Stimme, sondern eine andere, laut und atemlos, und er drehte sich um, und da kam Ole Paye den Strand heruntergerannt, mit wehenden Armen, und der Junge war naß bis auf die Knochen und hatte den Mund offen und rief etwas, das der Wind zerriß, und Thies blieb stehen und wartete, und Ole kam näher, und dann hörte er es, deutlich, dreimal, viermal, und es war ein Satz, der sich in ihn hineinschnitt wie ein Messer in weiches Holz.
+
+»Sie verlegen ihn! Sie verlegen ihn übermorgen! Dierk und die anderen, sie kommen auf ein anderes Schiff, nach Norden, übermorgen früh!«
+
+Thies stand im Regen und hielt das Bündel unter dem Arm, und der Regen lief ihm über das Gesicht, und er spürte es nicht. Er sah Ole an, der nach Luft rang, und er sah an Ole vorbei zur Werkstatt, wo Maren in der Tür stand, reglos, und er wußte, ohne es zu sehen, daß sie es gehört hatte, und daß in ihrem Gesicht jetzt etwas anderes war als Kälte, und daß der Streit, den sie eben geführt hatten, mit einem Mal bedeutungslos geworden war, so bedeutungslos wie ein Streit über den Preis eines Kahns, wenn das Haus brennt.
+
+»Übermorgen«, sagte Thies.
+
+»Übermorgen früh«, keuchte Ole. »Der Bote kam ans Pfarrhaus, ein Bursche von der Sperre, er hat es Benthin gesagt, und Benthin hat mich geschickt, weil er weiß, wo ich dich finde, und weil —«
+
+Er brach ab. Er sah von Thies zu Maren, und er begriff, ohne die Einzelheiten zu kennen, daß er in etwas hineingeplatzt war, und er trat einen Schritt zurück, wie ein Hund, der merkt, daß er an einen Tisch geraten ist, an dem gestritten wird.
+
+Maren trat aus der Tür. Sie ging an Ole vorbei, ohne ihn anzusehen, und sie ging auf Thies zu, und sie blieb vor ihm stehen, und ihr Gesicht war naß vom Regen, und ihre Augen waren es auch, aber das konnte auch der Regen sein, und Thies wußte es nicht, und würde es nicht fragen.
+
+»Übermorgen«, sagte sie. »Dann bleibt uns ein Tag. Ein Tag, um zu tun, was wir seit Wochen hätten tun sollen.«
+
+Thies sah sie an. Er hielt das Bündel unter dem Arm, und in dem Bündel lagen seine Werkzeuge, und in seiner Tasche lag der Brief, der ihn nach Stralsund rief, und vor ihm stand Maren, und hinter ihr lag der Strand und die Werkstatt und die *Hoffnung*, und über allem lag der Regen, der nicht aufhörte und nicht nachließ und keine Antwort gab.
+
+»Ich gehe nicht«, sagte er.
+
+Es kam heraus, bevor er es denken konnte, und als er es hörte, wußte er, daß es wahr war, und daß es ihn mehr kostete, als er zugeben wollte, und daß es dennoch keine Großmut war, sondern nur die Erkenntnis, daß es Dinge gab, die man nicht aufschieben konnte, und daß Dierk Arndt zu diesen Dingen gehörte.
+
+Maren sah ihn an, lange, und dann nickte sie, einmal, knapp, und in ihrem Nicken lag etwas, das Thies nicht deuten konnte, Dankbarkeit vielleicht, oder Erleichterung, oder auch nur die nüchterne Feststellung, daß nun wieder gerechnet werden mußte, und daß das Rechnen ihre Sprache war, die einzige, die sie beide beherrschten.
+
+»Dann komm«, sagte sie. »Wir müssen mit Lene sprechen. Und mit meinem Vater. Und wir müssen einen Plan machen, einen richtigen, einen, der nicht davon abhängt, daß jemand Gnade hat.«
+
+Sie ging los, den Strand hinauf, und Thies folgte ihr, und hinter ihnen blieb die Werkstatt zurück, mit der offenen Tür und der Hobelbank und dem Brief unter dem Stein, und der Regen fiel weiter, gleichmäßig und ohne Eile, als habe er Zeit, mehr Zeit als die Menschen, die unter ihm gingen und rechneten und hofften und fürchteten, und als wisse er, daß am Ende nur das Wasser blieb und das Holz und der Wind, und alles andere war Zwischenzeit, war Aufschub, war das, was Menschen taten, während sie warteten, daß die Welt sich entschied.
+
+Am Abend saßen sie in Lenes Haus, um den Tisch, auf dem eine Lampe brannte und eine Karte lag, und Fiete war zu Bett geschickt worden, und Lene hatte die Hände auf den Tisch gelegt und sah von einem zum anderen, und Joren war da, mit einem Gesicht, das älter war als am Morgen, und draußen rauschte der Regen, und drinnen war es still, bis auf die Stimmen, die leise sprachen, und die Worte, die fielen, waren nicht mehr die Worte von Menschen, die stritten, sondern die Worte von Menschen, die begriffen hatten, daß die Zeit nicht mehr für sie arbeitete, sondern gegen sie, und daß jeder Tag, der verging, ein Tag war, den Dierk nicht mehr hatte.
+
+Und als sie zu rechnen begannen, mit Fingern auf der Karte, mit Stunden und Wegen und Winden, da wußte Maren, ohne es auszusprechen, daß dies die letzte Nacht war, in der sie noch entscheiden konnten, und daß von morgen an nur noch gehandelt wurde, und daß Handeln, wenn es zu spät kam, kein Handeln mehr war, sondern nur noch das Nachräumen eines Unglücks, das man hätte verhindern können, wenn man früher begriffen hätte, was man längst wußte.
+
+Sie sah Thies an, der neben ihr saß, das Bündel neben sich auf dem Boden, unausgepackt, und sie sah, daß er blieb, und sie wußte, daß Bleiben keine Antwort war, sondern nur ein Anfang, und daß der Anfang das Schwerste war, und daß sie beide es wußten und dennoch hier saßen, um den Anfang zu machen, weil es keine andere Wahl gab, und weil die Hoffnung, wenn sie überhaupt etwas war, nicht darin bestand, daß es gut ausging, sondern darin, daß man es versuchte, gleichviel, wie es ausging.
+
+---
+
+## Keine sichere Seite
+
+> »Die Neutralität ist eine Fiktion, die nur solange Bestand hat, wie beide Parteien sie respektieren. Sobald eine Seite sie bricht, wird der Neutrale zum Komplizen.«
+> — Aus den Randnotizen des Lotsen Joren Voss, ohne Datum
+
+Der Wind kam aus Nordwest und trug den Geruch von Salz und Moder über den Strand von Thiessow, wo das Wasser grau und schwer gegen die Pfähle des Lotsenstegs schlug. Joren Voss stand am Ende des Stegs und sah auf die Sperre hinaus, deren Umrisse im Dunst verschwammen wie die Zähne eines schlafenden Tieres. Hinter ihm lagen die Boote, die sie zurückgeholt hatten, die drei Kähne, die nun der Krone dienten, und die Möwe, sein eigenes Fahrzeug, das er seit drei Tagen nicht mehr bewegt hatte. Er wusste, dass er heute würde sprechen müssen, und er wusste, dass Worte nicht mehr reichten.
+
+Er ging den Steg hinauf, vorbei an den leeren Rungen, an denen sonst die Netze hingen, und weiter die Uferstraße entlang, wo der Schlamm der letzten Flut noch in den Fugen der Steine stand. Die Häuser lagen still, die Türen geschlossen, und aus keinem Schornstein stieg Rauch. Es war, als habe das Dorf den Atem angehalten, um nichts zu verraten. Joren spürte die Blicke durch die Ritzen der Läden, die stummen Fragen, die niemand mehr laut stellte, weil die Antworten zu oft ausgeblieben waren. Er ging schneller, als ihm lieb war, und zwang sich dann zur Ruhe, denn wer rannte, hatte etwas zu verbergen.
+
+Am Ausgang des Dorfes, wo der Weg sich gabelte, stand Else vor dem Haus und hängte Fischernetze zum Trocknen auf. Sie sah ihn kommen und ließ die Hände sinken, ohne ein Wort zu sagen. Ihre Augen waren klar und ohne Vorwurf, und gerade das machte es schwerer. Sie wusste, dass er ging, und sie wusste, dass er nicht sagen würde, wohin. Das war die Übereinkunft, die sie in den letzten Wochen stillschweigend getroffen hatten: Er log nicht mehr, aber er sagte auch nicht alles, und sie fragte nicht mehr, weil sie die Antworten fürchtete.
+
+»Du nimmst die Möwe«, sagte sie.
+
+»Ich nehme die Möwe.«
+
+»Und du kommst zurück.«
+
+Es war keine Frage, und Joren wusste, dass er nicht antworten konnte, ohne zu lügen. Er trat näher und legte die Hand auf ihre Schulter, eine kurze, trockene Geste, die mehr sagte als jedes Versprechen. Dann ging er weiter, den Weg hinunter zum Wasser, wo die Möwe lag, vertäut und wartend, und wo Ole Paye bereits die Segel bereitmachte, mit der stummen Emsigkeit eines Jungen, der begriffen hatte, dass Fragen gefährlich waren.
+
+Sie stachen ab, als die Sonne im Südwesten stand und die Schatten lang über das Wasser krochen. Der Wind war günstig, und Joren setzte die Segel mit einer Routine, die seine Hände längst nicht mehr verlassen hatte, während sein Kopf bei anderen Dingen war. Er musste zu Rask, zum letzten Mal, und er musste es so tun, dass es nicht wie eine Bitte aussah. Denn eine Bitte würde Rask als Schwäche lesen, und Schwäche war das einzige, was der Leutnant verachtete. Was Joren brauchte, war eine Formel, die Rask erlaubte, seine Entscheidung als seine eigene zu betrachten, während sie in Wahrheit das Letzte war, was Joren noch zu bieten hatte.
+
+Sie fuhren an der Sperre vorbei, deren Pfähle im trüben Licht wie Grabsteine standen, und Joren zählte sie, wie er immer zählte, um das Bild der Rinne im Kopf zu behalten, jener schmalen Durchfahrt, die er in drei Nächten würde navigieren müssen. Zwanzig Meter, hatte er gemessen, zwischen einer neuen Sandbank und den Wracks der versenkten Blockadeschiffe. Zwanzig Meter bei Neumond, bei auflaufendem Wasser, mit dänischen Schaluppen im Kielwasser. Er hatte es getan, er hatte zugesagt, und nun gab es kein Zurück mehr, nur noch die Frage, wie viele Menschen er mit hineinziehen würde.
+
+Der Prahm lag vor Palmer Ort, ein flacher, schwerfälliger Rumpf mit einem Aufbau aus rohem Kiefernholz, an dem die Nägel noch blank standen. Zwei Wachsoldaten standen am Bug, die Musketen über die Schulter gehängt, und sahen dem Boot entgegen, ohne sich zu rühren. Joren legte an der Steuerbordseite an, wo eine Strickleiter über die Bordwand hing, und stieg hinauf, langsam, mit der Würde eines Mannes, der wusste, dass er beobachtet wurde. Ole blieb im Boot, wie befohlen, die Hand am Tau, den Blick auf den Prahm gerichtet.
+
+Rask erwartete ihn auf dem Achterdeck, wo ein Tisch mit Karten und Kompass stand und ein Windschutz aus Segeltuch die Papiere vor dem Zugriff des Windes bewahrte. Der Leutnant war bleicher als beim letzten Mal, die Augen tiefer in den Höhlen, und er hatte die Angewohnheit entwickelt, mit dem Zeigefinger auf die Karte zu klopfen, als müsse er sich vergewissern, dass sie noch da war. Neben ihm stand ein Korporal, den Joren nicht kannte, ein junger Mann mit einem schmalen Gesicht und den Händen eines Schreibers. Rask bedeutete ihm, sich zu entfernen, und der Korporal verschwand hinter dem Aufbau, ohne eine Miene zu verziehen.
+
+»Sie kommen spät, Voss«, sagte Rask, ohne aufzusehen.
+
+»Der Wind war günstig, aber die Strömung nicht.«
+
+»Sie lügen schlecht. Sie sind spät, weil Sie nicht kommen wollten.« Rask hob den Kopf, und sein Blick war nüchtern, ohne Bosheit, die eines Mannes, der die Dinge beim Namen nannte, weil er keine Zeit für Höflichkeiten hatte. »Was wollen Sie?«
+
+Joren trat an den Tisch und legte die Hand auf die Karte, nicht auf die Stelle, die er markiert hatte, sondern daneben, auf die offene See. »Ich will über die Männer sprechen. Arndt und die anderen. Sie sind keine Kriegsgefangenen, sie sind Fischer, die man für eine Arbeit angefordert hat, die längst getan ist. Sie haben ihren Teil erfüllt. Sie haben ein Recht darauf, nach Hause zu gehen.«
+
+»Rechte«, sagte Rask, und das Wort kam ihm langsam über die Lippen, als koste es ihn Mühe, es auszusprechen. »Sie sprechen von Rechten, als gäbe es sie unabhängig von dem, der sie durchsetzt. Wer sollte sie durchsetzen? Sie? Die Krone? Ich?« Er tippte auf die Karte, dreimal, mit dem Zeigefinger, und jede Berührung war wie ein Hammerschlag auf das Papier. »Die Männer werden morgen früh verlegt. Befehl von oben. Sie kommen nach Norden, zum Neuen Tief, wo die Batterien stehen. Dort braucht man Arbeitskräfte für die Feuerstellung.«
+
+Joren spürte, wie sich etwas in seiner Brust zusammenzog, ein kalter, harter Knoten, der ihm den Atem nahm. Das Neue Tief. Das vorolympische Feuerfeld, die Stellung, die die Schweden seit Wochen ausbauten, mit Geschützen und Pulvermagazinen und einem Halbkreis aus Schanzen, die den Zugang zum Hafen von Stralsund kontrollieren sollten. Wer dort arbeitete, arbeitete im Feuerbereich, und wer im Feuerbereich arbeitete, war kein Arbeiter mehr, sondern ein Schild, ein lebendes Hindernis, das die dänischen Kanonen aufhalten sollte, bevor sie die Batterien erreichten.
+
+»Das Neue Tief«, wiederholte Joren, und seine Stimme klang fremd in seinen eigenen Ohren, flach und ohne Farbe. »Sie schicken sie in die Feuerstellung.«
+
+»Sie schicken sie dorthin, wo sie gebraucht werden«, erwiderte Rask, und zum ersten Mal an diesem Nachmittag sah er Joren direkt an, mit einem Blick, in dem nichts Persönliches lag, keine Grausamkeit, keine Schadenfreude, nur die nüchterne Feststellung eines Mannes, der einen Befehl ausführte, den er nicht gemacht hatte und nicht ändern konnte. »Ich habe keine Männer, um sie zu bewachen, und keine Zeit, um sie zu verpflegen. Sie werden verlegt, weil die Stellung sie braucht. Das ist alles.«
+
+»Das ist alles«, sagte Joren.
+
+»Ja. Das ist alles.« Rask wandte sich wieder der Karte zu, und seine Hand fuhr über die Linien der Küste, als könne er sie glätten. »Sie können jetzt gehen, Voss. Es gibt nichts mehr zu verhandeln.«
+
+Joren blieb stehen. Er hätte gehen können, hätte den Prahm verlassen und die Möwe besteigen und nach Thiessow zurückfahren und die Nacht über schweigen und am Morgen die Dinge geschehen lassen, wie sie geschehen würden. Es wäre der Weg der geringsten Schuld gewesen, der Weg, den er sein Leben lang gegangen war, der Weg der leisen Kompromisse und der kleinen Lügen, der Weg, der niemanden rettete, aber auch niemanden verriet. Er sah die Karte vor sich, die Linien der Küste, die Untiefen, die Rinne, die er kannte wie seine eigene Hand, und er begriff, dass dieser Weg zu Ende war. Es gab keine sichere Seite mehr, es hatte sie nie gegeben, es hatte nur die Illusion gegeben, man könne am Rand stehen und zusehen, ohne mitgerissen zu werden.
+
+»Ich werde sie führen«, sagte er.
+
+Rask hielt inne, die Hand über der Karte, und sah auf. »Was haben Sie gesagt?«
+
+»Ich werde die dänischen Schaluppen durch die Rinne führen. Bei Neumond. Ich habe es Kapitän Holm zugesagt, und ich werde es tun.«
+
+Es war das erste Mal, dass er es aussprach, außerhalb seiner eigenen vier Wände, außerhalb der Nacht, in der er den Pakt geschlossen hatte. Die Worte hingen in der Luft wie Rauch, und Joren wartete auf die Reaktion, auf den Zorn, auf die Verachtung, auf das, was kommen musste. Aber Rask tat nichts dergleichen. Er sah Joren an, lange, mit einem Ausdruck, der schwer zu deuten war, und dann tat er etwas, das Joren nicht erwartet hatte. Er lachte. Es war kein lautes Lachen, kein spöttisches, es war ein kurzes, trockenes Auflachen, das sofort wieder erstarb, als habe er sich selbst dabei ertappt.
+
+»Sie sagen mir das«, sagte Rask, »Sie sagen mir, dem schwedischen Offizier, dass Sie die dänische Flotte durch unsere Sperre führen werden. Warum?«
+
+»Weil ich will, dass Sie es wissen. Weil ich nicht mehr im Verborgenen handeln will. Weil ich will, dass einer es weiß, der es verstehen kann.« Joren sprach langsam, jedes Wort einzeln gesetzt, wie Pflöcke in weichen Grund. »Und weil ich will, dass Sie die Männer freigeben. Nicht als Gnade. Als Handel. Ich führe die Dänen durch die Rinne, und Sie lassen die Fischer nach Hause gehen. Sie können sie nicht mehr brauchen, wenn die Stellung fällt, und sie wird fallen, ob mit oder ohne mich. Aber wenn Sie sie freigeben, werden sie leben, und Sie werden nicht der Mann sein, der sie in den Tod geschickt hat.«
+
+Rask sah ihn an, und in seinem Blick lag etwas Neues, etwas, das Joren nicht kannte, eine Mischung aus Respekt und Bitterkeit, aus Anerkennung und Verachtung, die sich nicht trennen ließen. »Sie glauben, ich hätte Angst davor, der Mann zu sein, der sie in den Tod geschickt hat?«
+
+»Ich glaube, Sie sind ein Offizier, der seine Pflicht tut«, sagte Joren. »Und ich glaube, Sie wissen, dass diese Pflicht nicht verlangt, Fischer in ein Feuerfeld zu schicken, das sie nicht verteidigen können. Sie haben keine Männer, um sie zu bewachen, haben Sie gesagt. Dann geben Sie sie frei. Es kostet Sie nichts, was Sie nicht schon verloren haben.«
+
+Rask schwieg. Er sah auf die Karte, dann auf das Wasser, dann auf seine eigenen Hände, die auf dem Tisch lagen, und Joren begriff, dass er nicht mit einem Feind sprach, sondern mit einem Mann, der gefangen war in einem System, das er nicht gemacht hatte und nicht verlassen konnte, und dass dieser Mann die einzige Chance war, die Dierk und die anderen noch hatten. Es war ein Handel, den keiner von beiden gewinnen würde, und beide wussten es.
+
+»Ich kann sie nicht freigeben«, sagte Rask schließlich, und seine Stimme war leiser als zuvor. »Nicht offiziell. Der Befehl ist unterschrieben, und ich bin nicht der Mann, der Befehle bricht. Aber ich kann sie verlegen. Nach Süden, zur Sperre, wo sie arbeiten, bis die Sache geklärt ist. Wenn die Dänen kommen, werden sie nicht im Feuerfeld stehen. Das ist alles, was ich tun kann.«
+
+»Das ist mehr, als ich erwartet habe«, sagte Joren.
+
+»Erwarten Sie nichts«, erwiderte Rask, und der kalte Ton war wieder da, die Mauer, die er um sich errichtet hatte, um nicht zu fühlen, was er nicht fühlen durfte. »Ich tue es nicht für Sie, und ich tue es nicht für die Männer. Ich tue es, weil ich keine Verwendung für Tote habe. Und weil ich nicht will, dass man mir vorwirft, ich hätte sie unnötig verheizt. Das ist alles.«
+
+Joren nickte. Es gab nichts mehr zu sagen, und er wusste, dass jede weitere Frage das fragile Zugeständnis zerstören würde. Er wandte sich zum Gehen, und als er die Strickleiter erreichte, hörte er Rasks Stimme hinter sich, leise, fast unhörbar.
+
+»Voss.«
+
+Er drehte sich um.
+
+»Wenn Sie die Dänen durchführen, werden Sie ein Verräter sein. Vor dem Gesetz, vor der Krone, vor jedem, der es sehen will. Wissen Sie das?«
+
+»Ja«, sagte Joren.
+
+»Und Sie tun es trotzdem.«
+
+»Ja.«
+
+Rask sah ihn an, und für einen Augenblick, einen einzigen, war da etwas in seinem Gesicht, das wie Bedauern aussah, oder wie das, was von Bedauern übrig blieb, wenn man es lange genug unterdrückt hatte. Dann verschwand es, und der Offizier war wieder da, kühl und undurchdringlich.
+
+»Dann gehen Sie«, sagte er. »Und kommen Sie nicht wieder.«
+
+Joren stieg in die Möwe, und Ole löste das Tau, und sie fuhren hinaus auf das graue Wasser, während der Prahm hinter ihnen kleiner wurde und schließlich im Dunst verschwand. Joren sagte nichts, und Ole fragte nichts, und der Wind trieb sie nach Süden, zurück nach Thiessow, wo die Lichter noch nicht brannten und die Menschen warteten, ohne zu wissen, worauf.
+
+Er erreichte Palmer Ort, als die Sonne den Horizont berührte und das Wasser in ein mattes Kupfer tauchte. Der Ort war eine schmale Landzunge, die sich in den Bodden schob wie ein Finger, der etwas festhalten wollte, und am Ende, wo die Wellen gegen die Steine schlugen, wartete bereits ein Mann. Frederik Holm stand am Ufer, die Hände in den Manteltaschen, den Blick auf das Wasser gerichtet, und neben ihm lag ein kleines Beiboot, das an einem Pflock vertäut war. Er trug keinen Degen, keine Uniform, nur einen dunklen Rock und Stiefel, die vom Salzwasser fleckig waren, und als Joren die Möwe an den Steinen festmachte und an Land sprang, wandte Holm sich um, ohne Eile.
+
+»Voss«, sagte er.
+
+»Kapitän.«
+
+»Sie haben Rask gesprochen.«
+
+Es war keine Frage, und Joren fragte sich, woher Holm es wusste, ob er Späher hatte, ob er die Zeichen las, ob er einfach die Logik der Dinge begriff, die sich bewegten, während die Menschen noch glaubten, sie stünden still. »Ich habe ihn gesprochen«, sagte Joren. »Er verlegt die Männer nach Süden, zur Sperre. Nicht frei, aber nicht ins Feuerfeld.«
+
+Holm nickte, langsam, und in seinem Gesicht regte sich nichts. »Das ist besser, als ich erwartet habe. Aber es ändert nichts an unserem Plan.«
+
+»Nein«, sagte Joren. »Es ändert nichts.«
+
+Sie gingen ein Stück die Landzunge entlang, bis zu einer Stelle, wo das Ufer flach wurde und das Wasser klar, und Holm blieb stehen und sah hinaus auf die Rinne, die im Abendlicht als dunkler Streifen sichtbar wurde, dort, wo die Strömung den Grund aufwühlte und die Sandbänke umspülte. »Zeigen Sie mir«, sagte er.
+
+Joren kniete nieder und zeichnete mit dem Finger in den feuchten Sand: die Sperre, die Rinne, die Wracks, die Sandbank, die sich in den letzten Wochen gebildet hatte, den schmalen Durchlass, der blieb. Er sprach dabei, leise und sachlich, wie er es hundert Mal getan hatte, wenn er einem jungen Lotsen das Revier erklärte, und Holm hörte zu, ohne ihn zu unterbrechen, die Augen auf die Zeichnung gerichtet, die Arme verschränkt.
+
+»Zwanzig Meter«, sagte Holm, als Joren geendet hatte. »Bei Neumond, bei auflaufendem Wasser, mit Schaluppen im Kielwasser.«
+
+»Ja.«
+
+»Und wenn der Wind dreht?«
+
+»Dann wird es eng. Aber es geht. Ich habe es bei jedem Wetter befahren, seit ich zwölf war. Ich kenne jede Sandbank, jede Rippe, jede Strömung. Wenn einer es schafft, dann ich.«
+
+Holm sah ihn an, und sein Blick war nüchtern, prüfend, ohne Wärme. »Sie sind sich sehr sicher.«
+
+»Nein«, sagte Joren. »Ich bin mir nicht sicher. Ich bin nur der Einzige, der es kann.«
+
+Holm schwieg eine Weile. Das Wasser schlug gegen die Steine, gleichmäßig und ohne Eile, und über ihnen zogen die ersten Möwen ihre Kreise, lautlos, als wollten sie nichts verraten. »Ich habe drei Schaluppen«, sagte Holm schließlich. »Leicht bewaffnet, schnell, mit je zwanzig Mann. Sie werden bei Einbruch der Dunkelheit auslaufen und sich in der Bucht südlich von Ruden sammeln. Von dort führen Sie sie durch die Rinne, bis zur Sperre. Wenn wir durch sind, werden wir die Batterien am Neuen Tief beschießen und die Sperre durchbrechen. Was danach geschieht, liegt nicht in meiner Hand.«
+
+»Und die Fischer?«
+
+»Eine Schaluppe wird sich absetzen und den Prahm bei Palmer Ort anlaufen. Wenn die Männer dort sind, werden sie an Bord genommen. Wenn nicht, können wir nichts tun.« Holm sah ihn an, und sein Blick war fest, ohne Mitleid, aber ohne Härte. »Das ist der Handel, den wir geschlossen haben. Ich werde ihn einhalten, so weit ich kann. Aber ich verspreche Ihnen nichts, was ich nicht halten kann.«
+
+»Das ist mehr, als Rask je getan hat«, sagte Joren.
+
+»Rask ist ein Offizier, der Befehle ausführt«, erwiderte Holm. »Ich bin ein Offizier, der einen Auftrag hat. Das ist ein Unterschied.« Er wandte sich ab und ging ein paar Schritte, dann blieb er stehen und sah zurück. »Sie werden morgen Abend an Bord der Prins Christian erwartet. Bringen Sie nichts mit, was Sie nicht brauchen. Und sagen Sie niemandem, wohin Sie gehen. Nicht Ihrer Frau, nicht Ihrer Tochter, niemandem.«
+
+»Meine Tochter weiß es«, sagte Joren.
+
+Holm hielt inne. »Sie wissen es.«
+
+»Sie weiß, dass ich mit Ihnen gesprochen habe. Sie weiß nicht, wann. Aber sie weiß, dass es geschehen wird.«
+
+Holm sah ihn lange an, und in seinem Blick lag etwas, das Joren nicht deuten konnte, eine Mischung aus Missbilligung und Verständnis, aus Vorsicht und Respekt. »Sie hätten es ihr nicht sagen dürfen.«
+
+»Ich habe es ihr nicht gesagt. Sie hat es begriffen. Es gibt einen Unterschied.«
+
+»Für Sie vielleicht«, sagte Holm. »Für mich nicht.« Er wandte sich wieder dem Wasser zu und sah hinaus auf die Rinne, die im letzten Licht des Tages kaum noch zu erkennen war. »Morgen Abend, Voss. Am Südufer der Bucht, bei der roten Boje. Ich werde ein Boot schicken, das Sie abholt. Und Voss« – er drehte sich noch einmal um, und sein Blick war jetzt anders, offener, beinahe menschlich – »wenn Sie es sich anders überlegen, kommen Sie nicht. Es wird niemand Sie zwingen. Aber wenn Sie kommen, dann kommen Sie ganz. Es gibt keine halben Lotsen.«
+
+»Ich weiß«, sagte Joren.
+
+Holm nickte, einmal, kurz, und dann ging er zu seinem Beiboot und stieß ab, ohne sich noch einmal umzusehen. Joren blieb am Ufer stehen und sah ihm nach, wie er über das dunkle Wasser ruderte, ein schwarzer Umriss gegen den erlöschenden Himmel, und er dachte an nichts, gar nichts, nur an das Wasser und die Rinne und die zwanzig Meter, die zwischen ihm und dem Morgen lagen.
+
+Als er zurückkehrte, war es dunkel, und die Möwe lag still am Lotsensteg, und Ole war bereits gegangen, ohne ein Wort, wie es seine Art war. Joren blieb an Deck sitzen, die Hände auf den Knien, und sah auf das Wasser hinaus, auf dem die Sterne sich spiegelten, kalt und fern. Er dachte an Else, die am Fenster stand und wartete, und an Maren, die in Lenes Haus saß und rechnete, und an Dierk, der auf dem Prahm lag und nicht wusste, dass morgen alles anders sein würde. Er dachte an Rask, der Befehle ausführte, und an Holm, der einen Auftrag hatte, und an sich selbst, der zwischen ihnen stand wie ein Pfahl im Strom, der das Wasser teilte, ohne es aufhalten zu können.
+
+Er wusste, dass er am nächsten Abend nicht zurückkehren würde, nicht in dieser Nacht, und vielleicht in keiner. Er wusste, dass die Menschen in Thiessow ihn verfluchen würden, wenn sie erfuhren, was er getan hatte, und dass die Schweden ihn hängen würden, wenn sie ihn bekamen, und dass die Dänen ihn vergessen würden, sobald der Krieg vorbei war. Er wusste, dass es keine sichere Seite gab, nicht für ihn, nicht für Maren, nicht für die Fischer, die in ihren Häusern saßen und warteten, und dass die einzige Wahl, die blieb, die Wahl zwischen einem Verrat und einem anderen war.
+
+Und dennoch, als er die Hände von den Knien nahm und sich erhob, um nach Hause zu gehen, spürte er etwas in sich, das er lange nicht mehr gespürt hatte, ein Gefühl, das er nicht benennen konnte, das aber nichts mit Hoffnung zu tun hatte und nichts mit Furcht, sondern mit dem einfachen, klaren Wissen, dass er nun handeln würde, und dass Handeln, selbst wenn es zu spät kam, besser war als das Warten auf das, was kommen musste.
+
+Er ging den Steg hinauf, vorbei an den leeren Rungen und den stillen Booten, und über ihm stand der Mond als schmale Sichel am Himmel, und in drei Nächten würde er erloschen sein, und dann würde Joren Voss die Möwe besteigen und hinausfahren in die Dunkelheit, aus der es keine Rückkehr gab, außer der einen, die er selbst sich bahnen würde, Meter für Meter, durch eine Rinne von zwanzig Metern, zwischen Wracks und Sandbänken, hindurch.
+
+---
+
+## Alle Angaben
+
+> *„Item, so soll der Lotse bei Strafe des Verlustes seiner Gerechtsame verpflichtet sein, alle Fahrwasser, Rinnen und Untiefen, so ihm bekannt, ohne Rückhalt und Arglist anzuzeigen, bei Tag und bei Nacht, und soll ihm dafür der halbe Tonnengeld-Anteil zukommen, wie von Alters her üblich.“*
+> — Aus der Lotsenordnung für das Herzogtum Pommern, erneuert 1698
+
+Die Kerze auf dem Tisch brannte bereits zur Hälfte herunter, als Joren die Tür hinter sich schloss. Das Wachs lief in einer schmalen Rinne über den Zinnteller und erstarrte dort zu einer Perle, die im Licht glänzte wie ein Tropfen Bernstein. Der Wind hatte sich gelegt; nur das Holz des Hauses arbeitete noch, mit jenem Knarren, das Joren seit dreißig Jahren kannte, das ihn nachts nicht mehr weckte, das aber jetzt, in dieser Stunde, lauter schien als sonst. Maren saß am Tisch. Vor ihr lagen die Seekarten ausgebreitet, die er selbst vor Jahren gezeichnet hatte — mit Bleistift korrigiert, mit Tinte nachgezogen, an den Rändern abgegriffen von nassen Fingern. Sie hatte die Hände flach auf das Papier gelegt, als wolle sie verhindern, dass es sich unter ihr bewegte.
+
+Else war nicht da. Sie schlief, oder sie tat, als schliefe sie, oben in der Kammer, wo sie seit Tagen kaum noch ein Wort sprach, die Mahlzeiten zubereitete, die Netze flickte und jeden Abend länger am Fenster stand, als es die Arbeit erforderte. Joren blieb an der Tür stehen. Er sah seine Tochter an, und er dachte, dass sie in diesem Licht älter aussah, als sie war, und zugleich jünger, wie ein Mädchen, das über einer Rechenaufgabe sitzt, die es nicht lösen kann, weil ihm eine Zahl fehlt.
+
+»Setz dich«, sagte Maren, ohne aufzusehen. »Du stehst wie ein Gast.«
+
+Er setzte sich. Der Stuhl knarrte unter ihm, und er legte die Hände auf die Tischplatte, neben die Karten, nicht darauf. Zwischen ihnen stand die Kerze, und ihr Licht warf die Schatten ihrer beiden Köpfe an die Wand, wo sie sich überlappten, ohne sich zu berühren.
+
+»Du warst bei Holm«, sagte Maren. Es war keine Frage. Sie hatte es gewusst, seit er am Mittag das Haus verlassen hatte, ohne zu sagen, wohin, und sie hatte es gewusst, weil Ole Paye am Nachmittag mit einem Boot zurückgekommen war, das er nicht hätte führen sollen, und weil Thies am Strand einen Mann gesehen hatte, der wie Joren Voss aussah, aber nicht wie Joren Voss ging.
+
+»Ja«, sagte Joren.
+
+»Und bei Rask.«
+
+»Ja.«
+
+Maren nahm die Hände von den Karten und legte sie in den Schoß. Sie wartete. Das war es, was sie von ihm gelernt hatte, in all den Jahren, in denen sie an seinem Tisch gesessen und ihm beim Rechnen zugesehen hatte: das Warten, das kein Warten war, sondern ein Vorhalten, ein stummes Ausstrecken der Hand, in die der andere etwas legen musste, wenn er es nicht selbst behalten wollte.
+
+Joren sah auf die Karte. Es war die Karte des Neuen Tiefs, die er im Herbst angelegt hatte, nach den Stürmen, mit den neuen Sandbänken, eingezeichnet in dünnen, zittrigen Linien, weil er sie bei starkem Seegang aufgenommen hatte. Zwischen der Sandbank und den beiden Wracks hatte er einen Kanal gelassen, kaum eine Fingerbreite auf dem Papier, und daneben, in seiner kleinen, kantigen Handschrift, die Zahl: *20 Meter*.
+
+»Rask verlegt die Männer nicht nach Norden«, sagte er. »Sie kommen zur Sperre, nach Süden. Nicht ins Feuer.«
+
+Marens Blick blieb auf seinem Gesicht. »Das ist keine Antwort auf meine Frage.«
+
+»Nein.«
+
+»Was hast du ihm gegeben, damit er das tut?«
+
+Joren schwieg. Das Knarren des Hauses war wieder da, und darunter, ganz leise, das Klopfen des Wassers gegen die Pfähle am Steg, ein Geräusch, das nie aufhörte und das er manchmal, wenn er weit draußen war, in seinen Träumen hörte, obwohl er nicht träumte.
+
+»Du hast ihm gesagt, was du Holm versprochen hast«, sagte Maren. Ihre Stimme war ruhig, aber sie hatte einen Klang darin, den er nicht kannte, einen Ton, der nicht vorwurfsvoll war und nicht verletzt, sondern feststellend, als lese sie aus einem Dokument vor, das sie selbst geschrieben hatte. »Du hast ihm gesagt, dass du die Dänen durch die Rinne führen wirst. Damit er weiß, dass sein Prahm in Gefahr ist. Damit er die Männer wegschafft, bevor es losgeht.«
+
+Joren hob den Kopf. »Woher weißt du das?«
+
+»Weil es das Einzige ist, was du anzubieten hast«, sagte Maren. »Und weil du es getan hättest, egal, ob ich es billige. Du hast es getan, ohne mich zu fragen. Wieder.«
+
+Das Wort traf ihn, obwohl er es erwartet hatte. *Wieder.* Es war das Wort, das sie seit dem Tag am Strand, seit dem Tag der drei Kähne, zwischen sich trugen wie einen Stein, den keiner wegwerfen wollte, weil er zu schwer war, um ihn zu heben, und zu schwer, um ihn zu vergessen.
+
+»Ja«, sagte Joren. »Ich habe es getan.«
+
+»Und was hast du Holm gegeben?«
+
+»Dasselbe.«
+
+»Dasselbe.« Maren wiederholte das Wort, langsam, als prüfe sie es auf einer Zunge, die es nicht kannte. »Du hast beiden dasselbe gesagt. Du hast beiden gesagt, dass du sie führen wirst. Und keiner von ihnen weiß, dass du es dem anderen gesagt hast.«
+
+»Doch«, sagte Joren. »Rask weiß es. Ich habe es ihm gesagt. Ich habe ihm gesagt, dass ich mit den Dänen gesprochen habe, und dass sie kommen werden, und dass er seine Männer in Sicherheit bringen soll, wenn er sie nicht verlieren will.«
+
+Maren sah ihn an, und in ihrem Blick lag etwas, das zwischen Bewunderung und Entsetzen schwankte, ohne sich zu entscheiden. »Du hast dem schwedischen Leutnant gesagt, dass du ein Verräter bist.«
+
+»Ich habe ihm gesagt, was er wissen muss, um seine Leute zu retten«, sagte Joren. »Was er daraus macht, ist seine Sache.«
+
+»Und wenn er dich hängt?«
+
+»Dann hängt er mich.«
+
+Maren stand auf. Sie ging zum Fenster, das zur See hinausging, und legte die Stirn an das kalte Glas. Draußen war nichts zu sehen als die Schwärze des Wassers und darüber die Schwärze des Himmels, getrennt durch eine Linie, die man nur ahnte.
+
+»Ich habe die Boote versteckt«, sagte sie, ohne sich umzudrehen. »Drei. Im Schilf am alten Anlandeplatz. Die Jolle, Kruses Kahn, und die Grete hätte ich auch versteckt, wenn Thies nicht zu langsam gewesen wäre.«
+
+Joren sagte nichts. Er wusste es. Er hatte es gewusst, seit er sie am Strand gesehen hatte, im Schilf, mit dem Tau in der Hand, und er hatte es gewusst, als Rask von den fehlenden Fahrzeugen sprach, und er hatte es gewusst, als Dierk in Arrest gesteckt wurde. Aber gehört hatte er es nie, nicht von ihr, nicht mit diesen Worten, ausgesprochen in der Stube, bei Kerzenlicht, während Else oben schlief oder tat, als schliefe sie.
+
+»Ich habe die Liste geführt«, sagte Maren. »Ich habe Benthin geholfen, die Requisitionsliste zu erstellen. Ich habe die Namen eingetragen, die Boote, die Tonnagen, die Liegeplätze. Ich habe gewusst, welche Kähne Rask bekommen würde, bevor er es wusste. Und ich habe nicht verhindert, dass er sie bekommt. Ich habe gehofft, dass es reicht, wenn ich die Liste führe — dass ich damit kontrollieren kann, was er sieht und was nicht. Und dann habe ich drei Boote versteckt, und er hat gemerkt, dass drei fehlen, und er hat Dierk in Arrest gesteckt, und ich habe es nicht kommen sehen, weil ich geglaubt habe, ich könnte beides: das Register führen und die Boote retten. Ich konnte nicht beides.«
+
+Sie drehte sich um. Ihr Gesicht war halb im Schatten, die eine Hälfte von der Kerze beleuchtet, die andere von der Dunkelheit verschluckt.
+
+»Ich habe Dierk in diese Lage gebracht«, sagte sie. »Nicht du. Ich. Du hast ihn ausgewählt, ja. Aber ich habe die Liste geschrieben, auf der er stand. Ich habe gewusst, was mit den Männern passiert, die auf dieser Liste stehen. Ich habe es gewusst, und ich habe es getan, weil ich geglaubt habe, dass Ordnung besser ist als Chaos, und weil ich geglaubt habe, dass ich klüger bin als die, die keine Ordnung haben. Und dann habe ich die Boote versteckt, weil ich plötzlich geglaubt habe, dass Ordnung doch nicht besser ist. Ich habe beides getan. Ich habe die Männer auf die Liste gesetzt und die Boote versteckt. Ich habe die eine Hand gegeben und mit der anderen genommen. Und ich habe dir die Schuld gegeben, weil du es nicht gesehen hast, obwohl ich selbst es nicht gesehen habe.«
+
+Joren saß still. Die Kerze flackerte, einmal, zweimal, und er sah, dass Marens Augen glänzten, aber nicht von Tränen — von dem Licht, das sich in ihnen brach, und von etwas anderem, das tiefer lag.
+
+»Ich habe dich für einen Feigling gehalten«, sagte Maren. »Weil du geschwiegen hast. Weil du nicht gesagt hast, was du weißt. Weil du Dierk ausgewählt hast und dann so getan hast, als wäre es nicht deine Entscheidung gewesen. Aber ich habe geschwiegen wie du. Ich habe die Liste geführt und nicht gesagt, was ich wusste. Ich habe die Boote versteckt und nicht gesagt, wo. Ich habe mit Rask verhandelt und nicht gesagt, was ich dabei gedacht habe. Ich habe dir vorgeworfen, dass du allein entscheidest, und ich habe allein entschieden. Ich habe dich für etwas verurteilt, das ich selbst getan habe.«
+
+Sie setzte sich wieder. Langsam, als sei der Weg zum Stuhl weit. Sie legte die Hände auf die Karte, auf die Stelle mit den zwanzig Metern, und sah nicht ihn an, sondern das Papier.
+
+»Jetzt weißt du es«, sagte sie. »Alles, was ich getan habe. Alles, was ich verschwiegen habe. Und wenn du mich jetzt für eine Verräterin hältst, dann hast du recht, und ich werde es tragen.«
+
+Joren sah auf ihre Hände. Sie waren klein, die Nägel kurz und an den Rändern abgebrochen vom Waschen und Schreiben, und auf dem Handrücken, dort, wo die Äderchen sich kreuzten, lag ein feiner Kratzer, den sie sich beim Verstecken der Boote geholt haben musste, im Schilf, an einem Halm, der schärfer war als die anderen. Er sah diesen Kratzer, und er sah die zwanzig Meter auf der Karte, und er sah das Gesicht seiner Tochter, das nicht das Gesicht einer Verräterin war und nicht das Gesicht eines Kindes, sondern das Gesicht einer Frau, die zu viele Dinge allein getragen hatte.
+
+»Ich habe Else belogen«, sagte Joren. »Nicht einmal. Seit Wochen. Ich habe ihr gesagt, die Männer seien wohlauf, als ich wusste, dass Dierks Fuß zerschmettert war. Ich habe ihr gesagt, ich führe nur Erkundungen aus, als ich schon mit Holm gesprochen hatte. Ich habe ihr gesagt, es sei alles unter Kontrolle, als ich wusste, dass nichts unter Kontrolle ist. Ich habe sie belogen, weil ich sie nicht beunruhigen wollte, und weil ich geglaubt habe, dass ich es allein tragen kann, und weil ich nicht zugeben wollte, dass ich es nicht allein tragen kann. Ich habe sie belogen, wie ich dich belogen habe. Und ich habe geglaubt, dass Lügen dasselbe ist wie Schützen.«
+
+Er nahm die Kerze und stellte sie zur Seite, damit sie einander sehen konnten, ohne dass das Licht zwischen ihnen stand. Dann zog er die Karte zu sich heran, drehte sie so, dass sie beide darauf sehen konnten, und legte den Finger auf die schmale Rinne.
+
+»Ich fahre morgen Abend«, sagte er. »Bei Einbruch der Dunkelheit. Mit der Möwe zur roten Boje, wo Holm mich abholt. Von dort aus führe ich die Schaluppen durch die Rinne. Drei Schaluppen, mit je zwanzig Mann und einem Geschütz. Sie werden die Batterien am Neuen Tief angreifen, während die Schweden noch glauben, die Dänen kämen von Norden.«
+
+»Und die Fischer?«
+
+»Holm stellt eine Schaluppe ab, die den Prahm entern soll. Wenn alles gutgeht, holen sie Dierk und die anderen raus, bevor das Feuer eröffnet wird. Wenn nicht, werden sie es nicht schaffen.«
+
+»Wenn nicht«, sagte Maren, und es war keine Frage.
+
+»Wenn nicht«, sagte Joren, »dann werden sie die Männer nicht retten, und die Männer werden sterben, und ich werde es nicht ändern können, weil ich dann schon in der Rinne bin und nicht zurückkann.«
+
+Maren sah auf die Karte. Sie fuhr mit dem Finger die Rinne nach, langsam, von der offenen See bis zur Sperre, und dann weiter, bis zu dem Punkt, wo die Sandbank sie fast berührte, und dann noch weiter, bis zu den Wracks, die er als kleine Kreuze eingezeichnet hatte.
+
+»Zwanzig Meter«, sagte sie. »Bei Nacht. Bei Neumond.«
+
+»Bei Neumond.«
+
+»Und die Strömung?«
+
+»Läuft nach Nordost. Mit etwa zwei Knoten. Wenn man sie nicht kennt, treibt sie einen auf die Sandbank. Wenn man sie kennt, kann man sie nutzen.«
+
+»Zwei Knoten«, sagte Maren. »Das heißt, du hast bei einer Fahrt von einer halben Stunde etwa eine Meile Versatz. Wenn du den nicht ausgleichst, sitzt du auf.«
+
+Joren sah sie an. »Du rechnest.«
+
+»Ich rechne immer«, sagte Maren. »Ich habe es von dir gelernt.«
+
+Sie nahm den Bleistift, der neben der Karte lag, und begann, kleine Zahlen an den Rand zu schreiben, Zahlen, die Joren nicht sofort verstand, die aber, als er sie ansah, Sinn ergaben: Geschwindigkeit, Winkel, Entfernung, Zeit. Sie rechnete mit einer Sicherheit, die ihn erschreckte und zugleich erleichterte, weil sie nicht zögerte, und weil sie nicht fragte, ob sie rechnen durfte, sondern es einfach tat, als sei es ihr Recht.
+
+»Wenn die Schaluppen sechs Knoten laufen«, sagte sie, »brauchen sie von der roten Boje bis zur Sperre etwa eine Stunde. Wenn du sie um Mitternacht durch die Rinne führst, sind sie um ein Uhr an den Batterien. Zu dieser Zeit ist die Flut fast voll, das heißt, der Wasserstand ist am höchsten, und die Rinne ist am tiefsten. Das ist gut für dich. Aber es ist auch gut für die Schweden, weil ihre Geschütze dann höher stehen und weiter schießen können.«
+
+»Deshalb müssen wir vorher rein«, sagte Joren. »Bevor sie uns sehen.«
+
+»Und die Kanonen?«
+
+»Die schweren Batterien am Neuen Tief haben eine Reichweite von etwa tausend Schritt. Wenn wir in der Rinne bleiben, sind wir außerhalb. Wenn wir sie verlassen, sind wir im Feuer.«
+
+»Und die Schaluppe, die den Prahm entern soll?«
+
+»Die muss früher los. Eine halbe Stunde vor der Vorhut. Damit sie die Männer raus hat, bevor das Feuer eröffnet wird.«
+
+Maren nickte. Sie zeichnete einen kleinen Kreis auf die Karte, dort, wo der Prahm lag, und einen Pfeil, der von diesem Kreis zum offenen Wasser führte, und dann einen zweiten Pfeil, der von der roten Boje zur Rinne führte, und dann einen dritten, der von der Rinne zu den Batterien führte. Drei Linien, die sich kreuzten, ohne sich zu berühren, und in der Mitte, zwischen ihnen, lag die Sperre mit ihren Pfählen und Ketten und versenkten Balken.
+
+»Es könnte gehen«, sagte sie. »Wenn der Wind nicht dreht. Wenn die Strömung nicht stärker wird. Wenn die Schweden nicht früher schießen. Wenn Holm hält, was er verspricht.«
+
+»Er hält es«, sagte Joren. »Er ist kein Rask.«
+
+»Rask hält auch, was er verspricht«, sagte Maren. »Nur verspricht er weniger. Das ist der Unterschied.«
+
+Joren sah sie an, und für einen Moment, einen kurzen, hellen Moment, war etwas zwischen ihnen, das keine Schuld war und keine Anklage, sondern nur die gemeinsame Arbeit an einem Problem, das größer war als beide. Er spürte es, und er wusste, dass sie es spürte, und keiner von beiden sagte es.
+
+»Ich fahre mit«, sagte Maren.
+
+»Nein.«
+
+»Ich fahre mit.«
+
+»Maren.«
+
+»Ich fahre mit, und zwar nicht als Passagier. Ich fahre mit, weil du jemanden brauchst, der rechnet, während du steuerst. Weil du nicht gleichzeitig die Strömung peilen und die Zeit im Kopf behalten kannst. Weil du zwei Hände am Ruder brauchst und ich zwei Hände frei habe. Weil ich die Karte kenne, weil ich weiß, wo die Untiefen sind, weil ich weiß, was Holm versprochen hat und was nicht. Ich fahre mit, oder ich fahre allein zur Sperre und hole Dierk selbst raus, und dann ist alles, was wir hier geplant haben, umsonst.«
+
+Joren schwieg. Er sah auf ihre Hände, die auf der Karte lagen, und auf die Zahlen, die sie geschrieben hatte, und auf den Kratzer, den sie sich im Schilf geholt hatte, und er dachte an Else, die oben lag und wartete, und an den Morgen, an dem er würde gehen müssen, ohne zu wissen, ob er zurückkäme.
+
+»Wenn du mitfährst«, sagte er langsam, »dann fährst du nicht als meine Tochter. Dann fährst du als Lotsengehilfin. Du tust, was ich sage, ohne Diskussion, in dem Moment, in dem ich es sage. Wenn ich sage, du bleibst unter Deck, bleibst du unter Deck. Wenn ich sage, du wirfst das Lot, wirfst du das Lot. Wenn ich sage, du springst, springst du. Nicht weil ich dich bevormunden will, sondern weil in der Rinne keine Zeit ist für Erklärungen. Verstehst du?«
+
+»Ich verstehe.«
+
+»Und wenn ich sage, du bleibst auf der Möwe, während ich auf die Schaluppe gehe, dann bleibst du auf der Möwe.«
+
+Maren sah ihn an. »Das hast du dir gerade ausgedacht.«
+
+»Ja«, sagte Joren. »Weil ich nicht will, dass du mit auf die Schaluppe gehst. Weil ich nicht will, dass du in der Rinne bist, wenn es schiefgeht. Weil ich nicht will, dass Else beide verliert.«
+
+»Else verliert beide, wenn du fährst und ich nicht«, sagte Maren. »Weil du dann allein bist, und weil du dann keine Zeit hast, und weil du dann einen Fehler machst, den ich verhindert hätte. Ich fahre mit, Vater. Nicht als Tochter. Als Gehilfin. Und wenn du mich auf der Möwe lässt, während du auf die Schaluppe gehst, dann fahre ich mit der Möwe hinterher, und dann ist alles umsonst.«
+
+Joren sah sie lange an. Dann, langsam, nickte er. Es war kein Nicken der Zustimmung, sondern eines der Anerkennung, und es tat weh, weil es bedeutete, dass er sie nicht mehr schützen konnte, nicht so, wie er es immer getan hatte, indem er sie aus den Entscheidungen heraushielt. Von nun an würde sie in den Entscheidungen sein, und das war gefährlicher, aber es war auch ehrlicher.
+
+»Also gut«, sagte er. »Lotsengehilfin. Du rechnest, ich steuere. Du hältst die Zeit, ich halte den Kurs. Und wenn wir durch sind, dann reden wir über alles, was wir einander verschwiegen haben, und dann werden wir sehen, ob wir es einander verzeihen können.«
+
+»Ich habe schon alles gesagt«, sagte Maren. »Du hast alles gesagt. Es gibt nichts mehr zu verzeihen. Es gibt nur noch zu tun.«
+
+Sie beugte sich über die Karte, und er beugte sich neben sie, und sie begannen, die Fahrt zu berechnen: die Gezeiten, die Strömungswinkel, die Kanonenreichweiten, die Zeitfenster. Sie sprachen leise, in kurzen Sätzen, wie zwei Handwerker, die ein Werkstück bearbeiten, das keine Fehler verzeiht. Die Kerze brannte weiter herunter, und das Wachs lief über den Teller, und draußen, über dem Wasser, stand der Mond als schmale Sichel, und in drei Nächten würde er erloschen sein.
+
+Als sie fertig waren, war es nach Mitternacht. Maren rollte die Karte zusammen und band sie mit einem Lederriemen, den sie aus ihrer Schürzentasche nahm. Sie stand auf und sah ihren Vater an, der noch am Tisch saß, die Hände auf den Knien, den Blick auf die erloschene Kerze gerichtet.
+
+»Ich gehe zu Lene«, sagte sie. »Sie muss es wissen. Sie muss wissen, wann wir fahren, und was wir tun, und was sie tun soll, wenn wir nicht zurückkommen.«
+
+»Und was soll sie tun?«
+
+»Sie soll die Grete bereithalten«, sagte Maren. »Und Thies. Und wenn wir nicht bis zum Morgengrauen zurück sind, soll sie mit der Grete zur Sperre fahren und die Männer holen, die dann vielleicht frei sind. Und wenn sie nicht frei sind, soll sie tun, was sie für richtig hält. Aber sie soll nicht warten. Warten ist das Einzige, was wir nicht mehr tun dürfen.«
+
+Joren nickte. Maren ging zur Tür, blieb dort stehen und sah sich noch einmal um. Das Haus war still, das Feuer im Herd war erloschen, und in der Kammer oben lag Else und schlief oder tat, als schliefe sie.
+
+»Vater«, sagte Maren.
+
+»Ja.«
+
+»Ich habe dir vorhin gesagt, dass ich dich für einen Feigling gehalten habe. Das war nicht wahr. Ich habe dich für einen Mann gehalten, der zu viel allein trägt. Das ist etwas anderes. Das ist schlimmer.«
+
+Joren sah sie an. »Ich weiß«, sagte er. »Ich habe es auch von dir gedacht.«
+
+Maren lächelte, kurz, ohne Freude, aber ohne Bitterkeit. Dann öffnete sie die Tür und ging hinaus in die Dunkelheit, und die Tür fiel leise ins Schloss, und Joren blieb allein am Tisch sitzen, vor der erloschenen Kerze und der erkalteten Wachsperle, und dachte an nichts, gar nichts, nur an das Wasser und die Rinne und die zwanzig Meter, die zwischen ihm und dem Morgen lagen.
+
+Er saß lange so. Dann stand er auf, löschte den Kerzenstummel, und ging nach oben, wo Else lag, wach, mit offenen Augen, und ihn ansah, als wüsste sie alles, ohne dass er es sagen musste.
+
+»Du fährst morgen«, sagte sie.
+
+»Ja«, sagte Joren.
+
+»Und Maren fährt mit.«
+
+»Ja.«
+
+Else schwieg. Dann drehte sie sich zur Wand, und Joren legte sich neben sie, und sie lagen da, ohne sich zu berühren, und über ihnen knarrte das Dach, und unter ihnen klopfte das Wasser, und irgendwo draußen, im Dunkeln, warteten die Schaluppen und die Rinne und der Morgen.
+
+---
+
+## Nur das eigene Schiff
+
+> »Was die Flotte betrifft«, so hieß es in der dänischen Instruktion für die Nordsee-Station jenes Jahres, »so ist jede Unterstützung der Küstenbevölkerung feindlicher Gebiete untersagt, solange sie nicht dem Zweck des Unternehmens unmittelbar dient.«
+
+Das Deck der Fregatte war um die Mittagsstunde eine einzige geordnete Werkstatt. Tauwerk lag in Ringen, die einander in gleichem Abstand berührten, die Geschütze standen in ihren Lafetten wie Soldaten in Reih und Glied, und die Planken waren so trocken geschrubbt, dass das Sonnenlicht in langen, weißen Streifen über sie hinweglief. Joren Voss stand an der Reling und wartete, und während er wartete, betrachtete er die Füße der Männer, die vorübergingen. Keiner hob den Blick. Keiner sprach. Es war eine Stille, die nicht aus Ruhe kam, sondern aus Übung, und sie gefiel ihm und machte ihn zugleich kleiner, als er war.
+
+Er hatte die Möwe am Abend zuvor an der roten Boje vertäut, wie vereinbart, und war von einer Schaluppe abgeholt worden. Ole Paye hatte er zurückgeschickt, mit der Anweisung, am Lotsensteg zu warten und niemandem etwas zu sagen. Die Nacht an Bord hatte er in einer Hängematte zwischen zwei Geschützpforten verbracht, und die ganze Nacht hatte er die Schiffsbewegung gespürt, das Knarren der Spanten, das ferne Klirren eines Kettenzugs, und er hatte kein Auge zugemacht. Nun stand er hier, im hellen Vormittag, und wartete auf einen Mann, dem er sich verkauft hatte.
+
+»Herr Voss.«
+
+Der Leutnant, der ihn rief, war jung und höflich und sah aus, als hätte er seit drei Tagen nicht geschlafen. Er führte ihn über das Deck, an einem Wachposten vorbei, unter einer niedrigen Balkendecke hindurch, bis zu einer Kajütentür, die offenstand. Frederik Holm saß an einem Tisch, der an der Wand verschraubt war, und über ihm hing eine Karte, die von Stecknadeln gehalten wurde. Auf dem Tisch lagen drei Bleistifte, ein Zirkel und eine flache Messingschale, in der ein Rest erkalteter Grütze stand. Holm sah auf, als Joren eintrat, und wies mit einer knappen Kopfbewegung auf einen Schemel.
+
+»Setzen Sie sich. Sie haben bis zum Abend Zeit. Danach gibt es nichts mehr zu besprechen.«
+
+Joren setzte sich. Die Kajüte war eng, und die Enge war nicht zufällig; sie war der Ausdruck eines Systems, in dem jeder Handgriff einen Platz hatte und jeder Platz einen Zweck. Holm schob die Messingschale beiseite, ohne sie zu leeren, und legte ein leeres Blatt vor sich hin.
+
+»Sie kennen die Fahrzeuge«, sagte er. »Nicht die dänischen. Die anderen.«
+
+»Ja.«
+
+»Dann beschreiben Sie sie mir. Nicht die Namen. Die Bauart. Was ich von hier aus sehe, wenn ich durch das Glas schaue.«
+
+Joren begriff, worauf Holm hinauswollte, und begriff zugleich, dass dies keine Frage war, sondern eine Prüfung. Er beugte sich vor und begann zu sprechen, ruhig, ohne Gesten, wie er es auf See tat, wenn er einem Steuermann etwas erklärte, das dieser nicht sehen konnte.
+
+»Die Grete«, sagte er, »ist ein offenes Fahrzeug von etwa siebenundzwanzig Fuß Länge, mit einem breiten Spiegel und einem flachen Vorsteven. Der Rumpf ist klinkergebaut, sechs Plankengänge bis zum Dollbord, die Beplankung aus Kiefer, die Spanten aus Eiche. Sie führt einen einzigen Mast, etwa auf halber Länge, mit einem Gaffelsegel, das an einer losen Gaffel hängt und bei achterlichem Wind gefahren wird. Die Farbe ist abgewittert, ein graues Blau, das an den Wanten und am Steven fast weiß ist. Am Bug trägt sie eine eiserne Klampe, die einmal zu einem Anker gehört hat, und achtern eine Ruderpinne aus Eschenholz, die auf der Steuerbordseite eine Kerbe hat, wo das Holz gesprungen und wieder verleimt worden ist. Wenn sie segelt, liegt sie tief, weil sie meistens Ladung führt, und ihr Kielwasser ist kurz und breit. Von achtern gesehen, ist sie an dem hellen Streifen unter dem Spiegel zu erkennen, wo das Wasser die Farbe abgewaschen hat.«
+
+Holm hörte zu, ohne sich zu bewegen. Er machte keine Notizen. Das war, wie Joren allmählich begriff, kein Mann, der Notizen brauchte; er behielt, was er hörte, und prüfte es später gegen das, was er sah.
+
+»Und die andere«, sagte Holm.
+
+»Die Hoffnung. Ein kleineres Fahrzeug, etwa einundzwanzig Fuß, ebenfalls klinkergebaut, aber schmaler im Verhältnis zur Länge, mit einem schärferen Vorsteven. Sie gehört Thies Arndt, einem Bootsbauer aus Thiessow, und sie ist sauber gearbeitet, weil er sie selbst gebaut hat. Der Rumpf ist aus Kiefer, aber die Spanten sind enger gesetzt als bei der Grete, und die Plankengänge sind sauber verstemmt. Sie führt ebenfalls einen Mast, weiter vorn, mit einem Luggersegel, das an einer kurzen Rute gefahren wird. Die Farbe ist ein dunkles Grün, das an den Decksbalken abgestoßen ist. Achtern trägt sie kein Ruder, sondern ein Stechpaddel, weil Arndt sie allein fährt und keine zweite Hand für die Pinne hat. Wenn sie unter Segel liegt, krängt sie stärker als die Grete, weil sie weniger Ballast führt, und ihr Kielwasser ist schmal und lang. Von achtern gesehen, ist sie an dem schmalen, dunklen Streifen unter dem Spiegel zu erkennen und an dem Grün, das an der Wasserlinie fast schwarz wirkt.«
+
+Holm schwieg einen Augenblick. Dann nahm er einen der Bleistifte und zeichnete zwei kurze Striche auf das Blatt, ohne hinzusehen.
+
+»Sie beschreiben sie, als wären sie Menschen«, sagte er.
+
+»Sie sind aus Holz«, sagte Joren. »Aber sie tragen Menschen. Das ist ein Unterschied, wenn man sie im Wasser sieht.«
+
+Holm sah ihn an, und für einen Moment lag etwas in seinem Blick, das nicht Prüfung war, sondern etwas Kühleres und Genaueres. Dann legte er den Bleistift hin.
+
+»Sie haben mir gestern Abend gesagt«, begann er, »dass diese beiden Fahrzeuge während des Vorstoßes im Bereich der Sperre liegen werden. Dass die Grete mit vier Fischern bemannt ist, die von den Schweden festgehalten werden, und die Hoffnung mit drei Personen, die sie befreien wollen. Und Sie haben mich gebeten, dafür zu sorgen, dass ihnen nichts geschieht.«
+
+»Ich habe Sie nicht darum gebeten«, sagte Joren. »Ich habe Ihnen gesagt, dass sie dort sein werden. Was Sie daraus machen, ist Ihre Sache.«
+
+»Gut«, sagte Holm. »Dann will ich Ihnen sagen, was ich daraus mache. Sie führen meine Schaluppen durch die Rinne. Das ist Ihre Aufgabe. Alles andere ist nicht Ihre Aufgabe und nicht meine.«
+
+Joren hatte mit dieser Antwort gerechnet. Er hatte sie die ganze Nacht vorausgeahnt, in dem Knarren der Spanten, in dem Klirren der Kette. Und dennoch traf sie ihn, als er sie hörte, mit einer Härte, die er sich nicht eingestanden hatte.
+
+»Es sind Menschen«, sagte er.
+
+»Es sind Menschen auf einem feindlichen Fahrzeug«, sagte Holm, »in einem Feuerkorridor, den ich nicht beherrsche. Ich habe keine Möglichkeit, sie zu schonen, ohne das Unternehmen zu gefährden. Und ich habe keine Möglichkeit, das Unternehmen zu gefährden, ohne den Auftrag zu verfehlen. Der Auftrag aber ist der Grund, weshalb ich hier bin, und nicht die Rettung von vier Fischern aus Thiessow.«
+
+»Und wenn ich Sie bitte«, sagte Joren, »das Feuer für eine halbe Stunde zu halten?«
+
+»Dann bitte ich Sie, mir zu sagen, woher Sie das Recht nehmen, über meine Geschütze zu verfügen.«
+
+Joren schwieg. Die Kajüte war eng, und die Enge war jetzt nicht mehr nur eine Sache der Wände; sie war eine Sache der Worte, die hier nicht mehr gesagt werden konnten. Holm sah ihn an, ohne Härte, aber ohne Nachgiebigkeit, und in seinem Gesicht lag nichts von dem, was Joren bei Rask gesehen hatte. Rask hatte die Wahrheit gedehnt, um handlungsfähig zu bleiben; Holm dehnte nichts. Er sagte, was war, und ließ es dann stehen.
+
+»Ich will Ihnen etwas erklären«, sagte Holm nach einer Weile. »Nicht, weil ich Sie überzeugen will, sondern weil Sie es wissen sollen, wenn Sie heute Abend an meiner Seite stehen. Ich habe zwei Schaluppen und eine Fregatte. Die Fregatte bleibt außerhalb der Sperre, weil sie zu tief geht, um durch die Rinne zu kommen. Die Schaluppen fahren hinein. Sie haben sechs Geschütze an Bord, drei auf jeder Seite, und sie haben kein Deck, das einem Treffer standhält. Wenn die schwedischen Batterien sie erfassen, sind sie in einer halben Stunde Wrack. Wenn ich das Feuer halte, um ein ziviles Fahrzeug durchzulassen, erfassen die Batterien sie in fünf Minuten. Das ist keine Frage des Wollens. Das ist eine Frage der Arithmetik.«
+
+»Ich verstehe die Arithmetik«, sagte Joren.
+
+»Dann verstehen Sie auch, dass ich Ihnen nichts versprechen kann. Keine Feuerpause. Keine Garantie. Keinen Schutz für die Grete oder die Hoffnung oder die Menschen darauf. Was ich Ihnen geben kann, ist ein Fenster. Ein einziges. Und es ist nicht groß.«
+
+Joren hob den Blick.
+
+»Ein Fenster«, wiederholte er.
+
+Holm nahm den Bleistift wieder auf und zog das Blatt zu sich heran. Er zeichnete eine Linie, dann eine zweite, dann einen Winkel dazwischen. Es war eine Skizze, grob, aber nicht ungenau.
+
+»Hier ist die Sperre«, sagte er. »Hier ist die Batterie am Neuen Tief. Hier ist der Feuerkorridor, den sie bestreichen. Er ist breit, etwa dreihundert Schritt, und er deckt die gesamte Durchfahrt ab, mit Ausnahme eines Streifens an der Südseite. Dieser Streifen liegt hinter einem versenkten Blockadeschiff, das die Schweden selbst dort versenkt haben, und es ist ein toter Winkel. Die Batterie kann nicht hineinschießen, ohne das eigene Wrack zu treffen. Der Streifen ist etwa vierzig Schritt breit und zweihundert Schritt lang. Wenn ein Fahrzeug dort liegt, wird es nicht beschossen. Aber es liegt dann auch im Flachwasser, und es kann nicht manövrieren, und es kann nicht fliehen. Es liegt wie in einer Grube.«
+
+»Und wie lange liegt es dort sicher?«
+
+»Solange die Batterie nicht das Wrack beseitigt. Und sie wird es nicht beseitigen, weil sie es braucht. Es ist ihre eigene Deckung.«
+
+Joren betrachtete die Skizze. Der tote Winkel war nicht groß, aber er war da, und er war, wenn die Skizze stimmte, genau dort, wo die Grete und die Hoffnung während des Angriffs liegen würden, wenn sie zur Sperre fuhren. Er begriff, was Holm ihm anbot, und begriff zugleich, dass es kein Angebot war, sondern eine Mitteilung.
+
+»Sie sagen mir das«, sagte er, »damit ich es an die Frauen weitergebe. Damit sie wissen, wo sie liegen müssen, wenn es losgeht.«
+
+»Ich sage es Ihnen«, sagte Holm, »damit Sie wissen, dass ich Ihnen nichts verweigere, was ich geben kann. Und damit Sie wissen, dass ich Ihnen nichts gebe, was ich nicht geben kann. Das ist der Unterschied zwischen mir und Ihrem schwedischen Leutnant. Er hat Ihnen eine Aussicht gemacht. Ich mache Ihnen eine Rechnung.«
+
+Joren sah ihn an. Es war, dachte er, die einzige Art von Zusage, die ein Mann wie Holm geben konnte, und es war vielleicht die einzige, die etwas wert war. Er nickte langsam.
+
+»Vierzig Schritt«, sagte er. »Und zweihundert lang.«
+
+»Vierzig Schritt«, bestätigte Holm. »Und zweihundert lang. Wenn sie dort liegen und sich nicht bewegen, werden sie nicht beschossen. Wenn sie sich bewegen, kann ich für nichts garantieren. Wenn sie das Fenster verlassen, bevor ich es ihnen sage, kann ich für nichts garantieren. Und wenn sie es verlassen, nachdem ich es ihnen gesagt habe, kann ich auch für nichts garantieren, weil ich dann bereits im Gefecht bin und keine Befehle mehr gebe, die nicht das Gefecht betreffen.«
+
+Er legte den Bleistift hin.
+
+»Das ist alles«, sagte er. »Mehr habe ich nicht.«
+
+Joren stand auf. Die Kajüte war eng, und er stieß mit der Schulter an einen Balken, als er sich erhob, und der Stoß tat weh, und er nahm ihn hin, ohne sich zu entschuldigen. Holm blieb sitzen und sah ihn an.
+
+»Herr Voss«, sagte er, als Joren schon an der Tür war.
+
+Joren blieb stehen.
+
+»Sie haben mir gestern gesagt, dass Sie als Verräter gebrandmarkt werden, wenn Sie das tun, was Sie tun. Ich habe Ihnen nicht widersprochen. Ich widerspreche Ihnen auch jetzt nicht. Aber ich will, dass Sie eines wissen: Wenn Sie heute Abend die Rinne führen und dabei sterben, sterben Sie nicht als Verräter. Sie sterben als Lotse. Das ist ein Unterschied, den die Leute an Land vielleicht nicht verstehen. Aber ich verstehe ihn, und meine Männer verstehen ihn, und das ist alles, was ich Ihnen sagen kann.«
+
+Joren sah ihn einen Augenblick an. Dann nickte er, und ging hinaus, und die Tür fiel hinter ihm zu, und er stand auf dem Deck, in dem hellen Vormittag, und atmete die Luft, die nach Teer und Salz roch und nach nichts, was ihm gehörte.
+
+Er ging an der Reling entlang, langsam, und betrachtete die Männer, die arbeiteten. Sie waren jung, viele von ihnen, und sie bewegten sich mit einer Selbstverständlichkeit, die ihm fremd war. Ein Mann zog ein Tau durch eine Kausch und achtete darauf, dass die Spleißung sauber lag. Ein anderer wischte das Deck mit einem Scheuerstein, in langen, gleichmäßigen Zügen, und ließ keine Stelle aus. Ein dritter stand an einem Geschütz und prüfte mit dem Daumen die Mündung, und seine Hand war ruhig, als läge sie auf einem Tisch. Keiner von ihnen sah ihn an. Keiner fragte, wer er war. Er war ein Fremder an Bord, ein Lotse aus einem Dorf, das sie nicht kannten, und sie behandelten ihn mit der Gleichgültigkeit, die sie jedem entgegenbrachten, der nicht zur Besatzung gehörte. Es war eine Gleichgültigkeit, die ihn nicht kränkte, sondern ernüchterte. Er war nicht ihr Verbündeter. Er war ein Werkzeug, das man benutzte, und Werkzeuge werden nicht geliebt.
+
+Er blieb an der Steuerbordseite stehen und sah über das Wasser. Die Küste lag als schmaler Streifen am Horizont, grau und flach, und irgendwo dort, hinter dem Dunst, lag Ruden, und hinter Ruden lag die Sperre, und hinter der Sperre lagen die Fischer und die Frauen und die Boote. Er dachte an die Grete, wie er sie beschrieben hatte, mit ihrer abgewitterten blauen Farbe und der eisernen Klampe am Bug und der Kerbe in der Pinne, und er dachte an die Hoffnung, mit ihrem dunklen Grün und dem Luggersegel und dem Stechpaddel achtern. Zwei Fahrzeuge aus Holz, dünn wie Papier gegen die Geschütze, die hier an Deck standen, und in ihnen Menschen, die er kannte, deren Hände er kannte, deren Stimmen er kannte. Er hatte sie beschrieben, als wären sie Menschen, hatte Holm gesagt. Vielleicht war das die einzige Sprache, in der er sie noch verteidigen konnte.
+
+Ein junger Offizier trat neben ihn, ohne ein Wort, und blieb stehen. Es war derselbe, der ihn hereingeführt hatte, und er sah noch müder aus als am Morgen. Er blickte ebenfalls über das Wasser, und eine Weile sprachen sie nicht.
+
+»Sie sind Lotse«, sagte der Offizier schließlich.
+
+»Ja.«
+
+»Aus Thiessow.«
+
+»Ja.«
+
+»Ich bin aus Kopenhagen«, sagte der Offizier. »Ich habe vorher nie ein Dorf gesehen, das so flach am Wasser liegt. Bei uns ist alles höher. Die Häuser, die Kirchen, die Menschen. Hier ist alles flach, und das Wasser ist überall, und man weiß nie, wo das Land aufhört.«
+
+Joren sah ihn an. Der Offizier war vielleicht fünfundzwanzig, mit einem schmalen Gesicht und Händen, die noch nicht die Schwielen eines alten Seemanns trugen. Er sprach nicht wie ein Feind. Er sprach wie jemand, der müde war und nicht wusste, wohin mit seiner Müdigkeit.
+
+»Das Land hört da auf, wo das Wasser anfängt«, sagte Joren. »Und das Wasser hört da auf, wo das Land anfängt. Dazwischen ist der Grund. Und der Grund ändert sich. Jedes Jahr. Jeden Sturm. Manchmal jede Woche.«
+
+Der Offizier nickte, als hätte er etwas Wichtiges gehört. Dann sagte er: »Der Kapitän hat mir gesagt, dass Sie die Rinne kennen. Dass Sie sie mit geschlossenen Augen fahren könnten.«
+
+»Mit geschlossenen Augen nicht«, sagte Joren. »Aber mit offenen.«
+
+Der Offizier lächelte, kurz und ohne Freude. Dann ging er weg, und Joren blieb allein an der Reling stehen, und sah zu, wie die Küste langsam im Dunst verschwand.
+
+Am Nachmittag kam Holm an Deck, in Begleitung zweier Offiziere, und ließ die Schaluppen klarmachen. Joren stand abseits und sah zu, wie die Boote zu Wasser gelassen wurden, wie die Männer hineinstiegen, wie die Riemen eingelegt und die Segel gesetzt wurden. Es war eine Bewegung, die er kannte, aber in größerem Maßstab, mit mehr Händen, mit mehr Ordnung. Die Schaluppen waren schmal und tief, mit sechs Geschützen an Bord, und sie lagen im Wasser wie Raubtiere, die auf einen Befehl warteten. Holm ging an der Reling entlang und sprach mit jedem Bootsführer, kurz, knapp, ohne Gesten. Dann wandte er sich an Joren.
+
+»Sie fahren in der ersten Schaluppe«, sagte er. »Ich in der zweiten. Wenn Sie ein Signal geben, folge ich. Wenn ich ein Signal gebe, folgen Sie. Es gibt keine Diskussion auf dem Wasser. Es gibt nur Handgriffe.«
+
+»Ich verstehe«, sagte Joren.
+
+»Sie verstehen es jetzt«, sagte Holm. »Aber Sie werden es erst verstehen, wenn Sie in der Rinne sind und die zwanzig Meter vor sich sehen und die Batterie hinter sich hören. Dann werden Sie wissen, was es bedeutet, keine Diskussion zu haben.«
+
+Joren nickte. Er dachte an Maren, die in diesem Augenblick irgendwo an Land war, mit Lene und Thies, und die Karte rollte und die Zeiten rechnete und die Boote bereithielt. Er dachte an Else, die in der Kammer lag, das Gesicht zur Wand, und ihn nicht ansah. Er dachte an die Grete und die Hoffnung, die irgendwo hinter dem Dunst lagen, im toten Winkel, in der Grube, und er dachte an die vierzig Schritt und die zweihundert lang, die Holm ihm genannt hatte, und er wusste, dass er sie weitergeben musste, so schnell wie möglich, an Menschen, die sie vielleicht nicht mehr erreichen würden.
+
+»Herr Holm«, sagte er.
+
+Holm blieb stehen.
+
+»Wenn ich heute Abend fahre«, sagte Joren, »und wenn es schiefgeht, und wenn die Grete und die Hoffnung im Feuer liegen, dann will ich, dass Sie eines wissen. Ich habe Sie nicht um Schutz gebeten. Ich habe Ihnen nur gesagt, wo sie liegen. Was Sie daraus machen, ist Ihre Sache. Aber wenn Sie die Möglichkeit haben, ohne Ihr Unternehmen zu gefährden, und wenn es in Ihrer Macht steht, dann tun Sie es. Nicht für mich. Für die Menschen, die dort liegen. Sie sind keine Soldaten. Sie sind Fischer und eine Frau, die schreiben kann, und ein Bootsbauer, der sein eigenes Fahrzeug gebaut hat. Sie haben nichts mit diesem Krieg zu tun, außer dass er über sie gekommen ist.«
+
+Holm sah ihn lange an. Dann sagte er: »Ich habe Ihnen gesagt, was ich geben kann. Ich habe Ihnen nicht gesagt, was ich tun werde. Aber ich habe Ihnen zugehört. Und ich habe die Fahrzeuge beschrieben bekommen. Wenn ich sie sehe, werde ich wissen, welche es sind.«
+
+Das war kein Versprechen. Es war mehr, als Joren erwartet hatte, und weniger, als er brauchte. Er nickte, und Holm ging weiter, und die Männer arbeiteten, und die Schaluppen lagen im Wasser, und der Nachmittag verging, und der Abend kam, und mit dem Abend kam die Dunkelheit, und mit der Dunkelheit kam der Neumond, der keiner war, sondern nur ein erloschener Rest am Himmel.
+
+Joren stand an der Reling und sah zu, wie die Sonne unterging. Sie ging hinter der Küste unter, hinter dem flachen grauen Streifen, der Ruden war, und für einen Augenblick lag ein rotes Licht auf dem Wasser, das aussah wie eine Wunde. Dann erlosch es, und das Wasser wurde dunkel, und die Schaluppen wurden zu Schatten, und die Männer an Bord wurden zu Stimmen, die leise sprachen und dann verstummten. Joren holte tief Luft. Er dachte an die zwanzig Meter, die zwischen ihm und dem Morgen lagen, und an die vierzig Schritt und die zweihundert lang, die er weitergeben musste, und an die Menschen, die dort lagen, in der Grube, im toten Winkel, und darauf warteten, dass jemand kam und sie holte. Er dachte an Maren. Er dachte an Else. Er dachte an Dierk, der auf dem Prahm lag, mit einem zerschmetterten Fuß, und an Lene, die am Strand stand und auf ihn wartete. Und dann dachte er an nichts mehr, gar nichts, nur an das Wasser und die Rinne und die zwanzig Meter, die zwischen ihm und dem Morgen lagen.
+
+Er ging zur ersten Schaluppe, stieg ein, und setzte sich achtern auf die Ducht. Die Männer legten die Riemen ein. Holm stand in der zweiten Schaluppe, die Hand am Ruder, und sah zu ihm herüber. Joren hob die Hand, kurz, ohne Worte. Holm nickte. Dann fielen die Riemen ins Wasser, und die Schaluppen setzten sich in Bewegung, lautlos, in der Dunkelheit, auf die Rinne zu, und Joren Voss saß achtern und sah nach vorn, in das Schwarze, das vor ihm lag.
+
+---
+
+## Was wir mitnehmen
+
+> »Was ein Hausstand zusammenbringt, wenn er aufbricht, ist selten das, was er für wertvoll hält, sondern das, was sich tragen lässt.«
+> — Randnotiz aus dem Rechnungsbuch des Küsterhauses Middelhagen, ohne Datum
+
+Der Talg roch nach Schaf und Rauch, als Maren ihn in das zusammengefaltete Stück Segeltuch einschlug, das ihn auf der Fahrt vor Nässe schützen sollte. Else stand am Herd und schnitt Brot, nicht in Scheiben, sondern in dicke, handliche Blöcke, die sie in ein sauberes Tuch schlug und mit einer Schnur verschnürte, als gälte es, einen Weg zu verpacken und nicht eine Mahlzeit. Auf der Bank lagen die Taue, die Thies am Morgen gebracht hatte, drei an der Zahl, gelegt, nicht gewickelt, damit sie sich beim Auswerfen nicht verhedderten. Maren prüfte jede Bucht mit der Hand, Strang für Strang, und fand an der zweiten Stelle eine weiche Faser, die sie mit dem Messer abschnitt und verwarf.
+
+»Du zählst die Fäden«, sagte Else, ohne sich umzudrehen.
+
+»Ich prüfe sie.«
+
+»Das ist dasselbe, wenn man es ernst meint.«
+
+Maren ließ das Messer sinken und sah ihre Mutter an. Else hatte den Rücken zu ihr, die Schultern hochgezogen, die Arme im Teig der letzten Arbeit. Sie hatte seit dem Morgen kaum gesprochen, aber sie hatte gearbeitet, ohne Pause, mit einer Verbissenheit, die Maren an die Art erinnerte, wie Fischer bei aufziehendem Wetter die Netze einholten: nicht aus Angst, sondern aus Ordnung. Was man nicht mehr retten kann, rettet man nicht durch Reden.
+
+»Mutter.«
+
+»Nicht jetzt.« Else wischte die Hände an der Schürze ab und griff nach dem Verbandszeug, das Lene am Vortag aus ihrem eigenen Vorrat gebracht hatte, Leinenbinden, ein Töpfchen Salbe, ein Stück trockenes Moos für Wunden, die nicht mehr bluten durften. Sie legte alles nebeneinander auf die Tischplatte und betrachtete es, als müsse sie eine Rechnung prüfen. »Zwei Verbände für einen Fuß. Einer für einen Arm. Einer zum Wechseln. Vier. Wenn mehr gebraucht wird, wird mehr gebraucht, dann ist es zu spät, um zu zählen.«
+
+»Du hast es dreimal gezählt.«
+
+»Dann habe ich es dreimal richtig gezählt.«
+
+Draußen ging der Nachmittag ins Letzte. Das Licht, das durch das kleine Fenster fiel, hatte die Farbe alten Messings angenommen, und der Staub, den die Arbeit aufgewirbelt hatte, stand darin wie feiner Sand in flachem Wasser. Maren band das Segeltuch zu einem straffen Paket und legte es zu den Tauen. Sie dachte an das, was sie nicht einpacken konnte: die Karte, die auf dem Tisch der Lotsenstube lag, die Zahlen, die sie in der Nacht gerechnet hatten, die zwanzig Meter, die sie nur aus ihres Vaters Mund kannte und die sie nie gesehen hatte. Was man nicht mitnehmen kann, muss man wissen. Sie wusste es. Sie hoffte, dass es genügte.
+
+Lene kam kurz vor dem Abend, mit einem Bündel Ölzeug über dem Arm und dem Geruch von Salz und kaltem Rauch an sich, der ihr anhaftete wie eine zweite Haut. Sie legte das Ölzeug auf die Bank, entfaltete es, prüfte die Nähte mit Daumen und Zeigefinger, fand eine Naht, die aufging, und setzte sich ohne ein Wort an den Tisch, um sie zu schließen. Else brachte ihr Nadel und Zwirn, ohne zu fragen. Die beiden Frauen arbeiteten einander zu, wie sie es seit Jahren taten, mit einer Vertrautheit, die keine Erklärung brauchte und keine Zärtlichkeit zeigte.
+
+»Dierk hat das Ölzeug im Frühjahr geflickt«, sagte Lene, den Faden durch das Wachs ziehend. »Er hat gesagt, es hält bis zum Herbst. Er hat nicht gesagt, welchen Herbst.«
+
+Niemand antwortete. Es gab nichts zu antworten, was nicht wie Trost geklungen hätte, und Trost war an diesem Tisch nicht vorgesehen.
+
+Maren setzte sich zu ihr und nahm die zweite Naht, die noch offen war. Sie nähten schweigend, im gleichen Rhythmus, und das Geräusch der Nadeln, die durch das geölte Tuch stachen, war das einzige, was den Raum füllte. Maren dachte an die Nacht im Schilf, an das eiskalte Wasser unter dem Segeltuch, an Thies’ Atem neben ihrem, und daran, wie sie damals geglaubt hatte, das Schlimmste sei, entdeckt zu werden. Sie hatte sich geirrt. Das Schlimmste war, entdeckt zu werden und trotzdem weitermachen zu müssen, mit dem Wissen, dass jede Bewegung, die man tat, jemand anderen traf.
+
+»Was nimmst du mit?«, fragte Lene, ohne aufzusehen.
+
+»Tau. Segeltuch. Verbandszeug. Brot. Wasser.« Maren zählte an den Fingern ab, wie sie es von Benthin gelernt hatte, ohne es zu merken. »Die Peilungen im Kopf. Was ich rechnen kann. Was ich weiß.«
+
+»Und was du nicht weißt?«
+
+»Das nehme ich auch mit.«
+
+Lene sah auf, einen Augenblick lang, und in ihrem Blick lag etwas, das weder Wärme noch Kälte war, sondern eine Art von Anerkennung, die sich nicht in Worte kleiden ließ. Dann nähte sie weiter.
+
+Else stellte den Kessel auf den Herd und machte Tee aus dem letzten Rest getrockneter Kräuter, den sie im Sommer gesammelt hatte. Sie stellte drei Becher auf den Tisch, ohne zu fragen, wer trinken wollte. Sie tranken alle drei. Der Tee schmeckte nach Minze und nach Staub, und Maren musste an den Nachmittag denken, an dem sie als Kind mit ihrem Vater über die Wiesen gegangen war und er ihr die Kräuter gezeigt hatte, die man sammeln konnte, und die, die man liegen ließ. Sie erinnerte sich nicht mehr, welche welche waren. Sie erinnerte sich nur an seine Hand, die auf ihre Schulter gezeigt hatte, ruhig, sicher, als gäbe es nichts auf der Welt, was nicht benannt werden konnte.
+
+Ein Klopfen an der Tür. Nicht das Klopfen eines Fremden, der Einlass begehrte, sondern das kurze, feste Klopfen eines Menschen, der wusste, dass er erwartet wurde. Thies trat ein, ohne zu warten, und brachte die Kälte des Abends mit, den Geruch von Teer und Spänen, und einen Sack über der Schulter, den er neben der Bank absetzte.
+
+»Werkzeug«, sagte er. »Zwei Beile, ein Stemmeisen, Werg, Pech. Falls etwas leckschlägt.«
+
+Er sah die Pakete auf dem Tisch, das Ölzeug, die Taue, das Verbandszeug, und nickte, als hätte er eine Liste geprüft und für richtig befunden. Dann blieb er stehen, mitten im Raum, und Maren sah, dass er etwas sagen wollte und nicht wusste, wie er es anfangen sollte. Sie kannte ihn lange genug, um zu wissen, dass er in solchen Augenblicken entweder einen Scherz machte oder schwieg. Er machte keinen Scherz.
+
+»Ich habe mit Lene gesprochen«, sagte er. »Über die Hoffnung.«
+
+Lene legte die Nadel hin, ohne Hast, und sah ihren Bruder an. Es war ein Blick, den Maren nicht ganz deuten konnte: nicht Zustimmung, nicht Ablehnung, sondern etwas Drittes, das zwischen beiden seit Jahren bestand und das sie nie ganz verstanden hatte.
+
+»Sie ist mein Boot«, sagte Thies. »Ich habe sie gebaut. Ich habe die Planken gebogen, ich habe die Spanten gesetzt, ich habe sie geteert, bis mir die Hände geblutet haben. Sie ist das Einzige, was mir gehört.« Er hielt inne. »Und sie ist das Einzige, was ich geben kann.«
+
+Maren sah ihn an. Sie hatte in den vergangenen Wochen viel über ihn gedacht, nicht immer freundlich, und sie hatte ihm Dinge vorgeworfen, die sie jetzt nicht mehr zurücknehmen konnte, weil sie wahr gewesen waren, auch wenn sie ungerecht gewesen waren. Sie hatte ihm Fahnenflucht vorgeworfen, und er hatte ihr Kontrollzwang vorgeworfen, und beides war richtig gewesen, und beides hatte wehgetan. Was zwischen ihnen stand, war nicht mehr die Frage, ob sie einander liebten. Es war die Frage, ob sie einander trauen konnten, nach allem, was sie einander angetan hatten.
+
+»Thies.« Sie stand auf. »Ich muss dir etwas sagen, und ich will es sagen, bevor wir losfahren, weil ich nicht weiß, ob ich danach noch Gelegenheit habe, und weil ich nicht will, dass es ungesagt bleibt.«
+
+Er sah sie an, ruhig, ohne Ausweichen. »Dann sag es.«
+
+»Ich habe dich belogen.«
+
+Das Wort stand im Raum, hart und klar, und Maren spürte, wie Else und Lene sich nicht bewegten, wie sie zuhörten, ohne zuzuhören, wie sie taten, was Frauen in solchen Häusern immer taten: weiterarbeiten und zuhören. Maren trat einen Schritt auf Thies zu, nicht um ihn zu berühren, sondern um ihm nicht ausweichen zu können.
+
+»Ich habe die Boote versteckt, ohne es dir zu sagen, vollständig zu sagen. Ich habe dich mitgenommen in der Nacht, aber ich habe dir nicht gesagt, was ich wirklich vorhatte. Ich habe gedacht, wenn ich es dir sage, hältst du mich zurück. Ich habe dich benutzt, weil du stärker bist als ich und weil ich einen brauchte, der die Kähne zieht, und ich habe es so aussehen lassen, als wäre es unser gemeinsamer Plan. Es war nicht unser gemeinsamer Plan. Es war mein Plan, und du warst das Werkzeug, das ich brauchte.«
+
+Thies sagte nichts. Sein Gesicht veränderte sich kaum. Aber Maren sah, wie seine Hände, die eben noch locker an den Seiten gehangen hatten, sich langsam schlossen, nicht zu Fäusten, sondern zu etwas, das sich festhalten wollte.
+
+»Ich habe dich nicht gefragt, ob du es willst«, fuhr sie fort. »Ich habe dich nicht gefragt, ob du es für richtig hältst. Ich habe dich nicht gefragt, ob du bereit bist, dafür zu bezahlen. Ich habe entschieden, dass du es mitmachst, weil ich entschieden habe, dass ich es nicht allein kann. Das war falsch. Nicht die Tat. Die Tat war richtig, ich würde sie wieder tun, aber ich hätte dich fragen müssen. Ich hätte dich fragen müssen, bevor ich dich mitnahm, und ich hätte dich fragen müssen, als du mir gesagt hast, dass du fortgehen willst. Ich habe dir nicht zugehört. Ich habe dich behandelt wie einen, der nicht weiß, was er tut, weil ich nicht wollte, dass du weißt, was ich tue.«
+
+Sie hielt inne. Ihre Stimme war leiser geworden, aber nicht unsicher. »Ich entschuldige mich nicht, dass ich die Boote versteckt habe. Ich entschuldige mich, dass ich dich belogen habe. Das eine ist meine Entscheidung, das andere ist mein Fehler. Ich bitte dich um Verzeihung für das zweite, nicht für das erste.«
+
+Thies sah sie lange an. In der Stille hörte man das Knistern des Feuers im Herd und draußen, weit weg, das Rauschen des Windes, der vom Wasser kam und an den Wänden zog. Lene nähte nicht mehr. Else stand am Herd und rührte in einem Topf, der leer war.
+
+»Du hast mir gesagt, ich sei das Werkzeug«, sagte Thies schließlich. »Das war das Schlimmste, was du hättest sagen können, und ich glaube dir, dass du es so gemeint hast. Ich habe auch gelogen. Ich habe dir gesagt, ich fahre nach Stralsund, und ich habe es so gesagt, als wäre es eine Entscheidung, die ich für mich treffe. Aber ich habe es gesagt, um dich zu treffen. Ich habe gewusst, dass es dich trifft, und ich habe es gewollt. Ich habe dich verletzen wollen, weil du mich vorher verletzt hattest, und ich habe mir eingeredet, es sei nur die Wahrheit. Es war die Wahrheit. Aber ich habe sie gesagt, um zu treffen, nicht um zu klären.«
+
+Er trat einen Schritt auf sie zu, nicht näher, aber so, dass zwischen ihnen kein Tisch und kein Paket mehr stand.
+
+»Ich nehme die Entschuldigung an«, sagte er. »Nicht, weil ich großmütig bin. Sondern weil ich sie brauche. Ich brauche, dass du mir etwas schuldig bist, und ich brauche, dass du es zugibst, weil ich dir sonst nicht trauen kann, wenn es darauf ankommt. Und es kommt darauf an. Morgen. Heute Nacht. Ich weiß nicht, wann. Aber bald.«
+
+Maren nickte. Sie sagte nichts weiter, weil es nichts weiter zu sagen gab, und weil sie wusste, dass Thies keine Worte mehr brauchte, sondern Taten, und dass sie ihm keine Taten versprechen konnte, nur Arbeit. Sie griff nach dem Ölzeug, das Lene geflickt hatte, und reichte es ihm. Er nahm es, prüfte die Naht mit dem Daumen, fand sie gut, und legte es über die Bank.
+
+»Die Hoffnung ist klar zum Auslaufen«, sagte er. »Ich habe heute Nachmittag den Mast geprüft und die Schoten neu geschoren. Sie ist nicht schnell, aber sie ist dicht, und sie läuft flach. Wenn wir in flaches Wasser müssen, ist sie besser als die Grete.« Er sah Lene an. »Die Grete ist voller. Sie kann mehr tragen. Wenn wir Menschen holen, brauchen wir beide.«
+
+Lene nickte langsam. Sie hatte die Arme verschränkt und sah ihren Bruder an, und in ihrem Blick lag etwas, das Maren erst jetzt verstand: Es war nicht Bewunderung und nicht Dankbarkeit, es war die nüchterne Anerkennung einer Schuld, die beide füreinander trugen und die keiner von beiden jemals ganz begleichen würde. Lene hatte Dierk verloren an eine Entscheidung, die Thies nicht getroffen hatte, und Thies hatte seine Schwester verloren an einen Mann, den er nicht hatte retten können. Was zwischen ihnen stand, war nicht Liebe, sondern die Bereitschaft, füreinander zu arbeiten, auch wenn keiner dem anderen etwas schuldig war.
+
+»Dann fahren wir mit beiden«, sagte Lene. »Ich führe die Grete. Du die Hoffnung. Maren geht mit dir, weil sie rechnen muss, und ich nehme Fiete mit, weil er stark genug ist, um ein Tau zu halten, und weil er nicht an Land bleiben soll, wenn sein Vater vielleicht zurückkommt.«
+
+»Fiete ist zwölf«, sagte Else vom Herd, ohne sich umzudrehen.
+
+»Er ist zwölf und er kann rudern«, erwiderte Lene. »Er hat im Frühjahr den Kahn allein von Middelhagen nach Thiessow gebracht, bei halbem Wind. Er weiß, was ein Boot tut, wenn man es falsch belädt. Er ist kein Kind mehr, Else. Er ist der Sohn eines Fischers, und sein Vater liegt auf einem Prahm mit einem zerschmetterten Fuß. Er soll dabei sein, wenn wir ihn holen. Sonst versteht er es nie.«
+
+Else drehte sich um. Ihr Gesicht war ruhig, aber Maren sah, dass ihre Augen glänzten, nicht von Tränen, sondern von dem Licht des Feuers, das in ihnen stand wie in zwei kleinen Fenstern. Sie sah Lene an, lange, und dann nickte sie, einmal.
+
+»Dann nimm ihm das Ölzeug mit, das Dierk im Schuppen hängen hat«, sagte sie. »Es ist zu groß, aber es ist seins, und wenn der Junge es trägt, weiß er, wofür er rudert.«
+
+Maren ging in die Kammer, um die Karte zu holen, die sie in der Nacht gezeichnet hatte, nicht die große Seekarte, sondern das Blatt mit den Zahlen, den Gezeiten, den Peilungen, das sie in der Lotsenstube angefertigt hatte und das sie nicht zurücklassen wollte, weil es das Einzige war, was sie mitnehmen konnte, das nicht wog. Auf dem Weg durch den Flur blieb sie vor der Tür zur Lotsenstube stehen. Sie war angelehnt, und durch den Spalt sah sie den Tisch, auf dem die Karten lagen, die Zirkel, das Lineal, das Tintenfass, alles an seinem Platz, als hätte jemand nur kurz die Hand aufgehoben und würde gleich zurückkommen. Sie dachte an ihren Vater, der in diesem Augenblick auf einer dänischen Schaluppe saß und in die Dunkelheit sah, und sie dachte an die zwanzig Meter, die zwischen ihm und dem Morgen lagen, und an die vierzig Schritt und zweihundert lang, die er ihr nicht gesagt hatte, weil er es selbst nicht wusste.
+
+Sie nahm das Blatt, faltete es, steckte es unter das Hemd, an die Brust, wo Benthins Abschriften gelegen hatten, und ging zurück in die Küche. Thies stand am Fenster und sah hinaus. Draußen war es fast dunkel geworden. Über dem Wasser hing eine dünne Schicht Nebel, die sich langsam hob, und in der Ferne, am Horizont, lag ein Streifen Licht, der nicht von der Sonne kam, sondern vom Wasser, das den letzten Rest des Tages zurückwarf.
+
+»Es ist Zeit«, sagte Thies, ohne sich umzudrehen.
+
+»Noch nicht«, sagte Else. Sie stellte den Topf vom Herd, den leeren, und ging zum Schrank. Sie holte eine Flasche hervor, nicht Branntwein, sondern den Kräuteraufguss, den sie im Sommer angesetzt hatte, und goss in jeden Becher einen Schluck. »Bevor ihr geht. Nicht für den Mut. Für die Kälte.«
+
+Sie tranken. Der Aufguss schmeckte bitter und warm, und Maren spürte, wie er ihr den Hals hinunterlief und sich in der Brust ausbreitete, als hätte jemand ein kleines Feuer angezündet. Else nahm ihr den Becher ab, als sie ihn absetzte, und hielt ihre Hand einen Augenblick fest, nicht lange, nur so lange, wie es dauerte, einen Becher abzunehmen.
+
+»Dein Vater hat gesagt, er kommt zurück«, sagte Else leise. »Er hat es gesagt, als wäre es sicher. Ich habe ihm nicht geglaubt. Aber ich habe es behalten. Wenn du ihn siehst, sag ihm, ich habe es behalten.«
+
+»Ich sage es ihm.«
+
+»Sag es ihm nicht, als wäre es ein Vorwurf. Sag es ihm, als wäre es eine Nachricht.«
+
+Maren nickte. Sie nahm das Paket mit dem Segeltuch, das Verbandszeug, das Brot, und ging zur Tür. Thies nahm den Sack mit dem Werkzeug und die Taue, Lene das Ölzeug und die Salbe. Sie traten hinaus in die Kälte, und der Nebel, der über dem Hof hing, nahm sie auf wie ein Tuch, das über einen Tisch geworfen wird.
+
+Sie gingen den Weg zum Strand hinunter, ohne zu sprechen. Der Weg war schmal und von Wurzeln durchzogen, und Maren kannte ihn seit ihrer Kindheit, jede Biegung, jede Senke, jeden Stein, der aus dem Boden trat. Sie ging ihn zum ersten Mal als eine, die nicht wusste, ob sie ihn zurückgehen würde. Sie dachte an das, was sie mitnahm: das Tau, das Segeltuch, das Verbandszeug, das Brot, das Wasser, die Zahlen, die Karte, die Entschuldigung, die angenommen worden war, und die Nachricht, die sie ihrem Vater ausrichten sollte. Sie dachte an das, was sie nicht mitnahm: die Angst, die sie nicht loswurde, die Zweifel, die sie nicht aussprechen konnte, und die Frage, die sie sich nicht zu stellen wagte, ob zwanzig Meter genug waren und vierzig Schritt genug und zweihundert lang genug, um Menschen zu holen, die in einer Grube lagen, die sie nie gesehen hatte.
+
+Am Strand lagen die Boote im flachen Wasser, die Hoffnung und die Grete, schwarz im letzten Licht, und hinter ihnen, weiter draußen, lag die Sperre, ein dunkler Strich, der die Grenze zwischen dem Wasser, das sie kannten, und dem Wasser, das sie nicht kannten, bezeichnete. Fiete stand am Rand des Wassers, im zu großen Ölzeug seines Vaters, und hielt ein Tau, als hätte er es schon immer gehalten. Er sah sie kommen, und er sagte nichts, und Maren sah, dass er nicht weinte, und sie wusste, dass er es sich verboten hatte.
+
+Thies ging zu seinem Boot, legte den Sack ab und stieg ein. Er prüfte die Ducht, die Riemen, die Schoten, mit den Händen, ohne hinzusehen, wie ein Mann, der sein Werkzeug kennt, weil er es selbst gemacht hat. Dann stand er auf, sah zu Maren hinüber und sagte, ruhig, ohne Pathos, ohne eine Spur von dem, was zwischen ihnen lag:
+
+»Komm. Wir fahren.«
+
+Maren ging zum Boot. Sie stieg ein, setzte sich achtern, legte das Paket neben sich und die Karte auf die Knie. Thies löste die Leine. Lene stieß die Grete ab und setzte das Ruder. Fiete sprang in die Grete und nahm die zweite Riemenbank. Der Wind stand aus Südwest, schwach, und das Wasser war ruhig, und die Boote glitten lautlos aus dem flachen Uferwasser in den dunklen Kanal, der zur Sperre führte.
+
+Maren sah zurück. Am Ufer stand Else, klein im Nebel, die Arme um den Körper geschlagen, und sie hob nicht die Hand, und Maren hob auch nicht die Hand, weil sie wusste, dass ihre Mutter es nicht wollte. Sie sah nach vorn. Vor ihr lag das Wasser, das sie kannte, und dahinter das Wasser, das sie nicht kannte, und dazwischen, irgendwo, die zwanzig Meter, die ihr Vater in der Dunkelheit suchte. Sie legte die Hand auf die Karte auf ihren Knien und fühlte das Papier, dünn und kalt, und darunter, durch das Hemd, ihren eigenen Herzschlag, ruhig, gleichmäßig, wie eine Peilung, die man nicht mehr korrigieren kann.
+
+Die Boote fuhren in die Dunkelheit, und der Nebel schloss sich hinter ihnen, und am Ufer blieb nur Else, die stand und sah, bis nichts mehr zu sehen war, und dann ins Haus ging, um zu warten, wie sie immer gewartet hatte, und wie sie es diesmal nicht anders tun konnte.
+
+---
+
+## Vor der Fahrt
+
+> *„Der Lotse ist das Auge des Schiffes, doch das Auge schläft, wenn der Geist nicht wacht. Wer die See kennt, kennt ihre Launen; wer sie liebt, kennt ihre Tücken. Zwischen Wasser und Wand liegt der Tod, und nur der Blick, der beide misst, findet den Weg.“*
+> — Aus den Randnotizen eines dänischen Lotsenmeisters, 1709
+
+Die Kälte kam nicht plötzlich. Sie kam, wie sie immer kam, als hätte sie sich über Nacht in das Holz der Boote gesetzt, in die Fugen der Planken, in die Fasern des Tauwerks, das an den Pollern hing. Joren Voss spürte sie durch die Sohlen seiner Stiefel, als er über den Steg ging, und er spürte sie in den Fingern, die den Griff der Bleilot-Tasche umschlossen. Die Luft war grau, nicht blau, nicht schwarz, ein Grau, das kein Licht durchließ und keines zurückwarf. Über dem Wasser standen Nebelbänke, dicht und träge, als hätte jemand Segeltuch über die Bucht gespannt und vergessen, es wieder einzuholen.
+
+Er blieb stehen. Der Steg unter ihm war alt, die Planken hatten sich verzogen, und das Wasser darunter war so still, dass es aussah, als läge eine Haut aus Blei über dem Grund. Er atmete ein, langsam, und die Luft schmeckte nach Salz und nach dem Moder der Pfähle, nach Teer und nach dem kalten Rauch, der aus den Schornsteinen der Häuser am Ufer aufstieg und sofort im Nebel verschwand. Er kannte diesen Geruch. Er kannte ihn seit vierzig Jahren, seit er zum ersten Mal mit seinem Vater auf die Möwe gestiegen war, und er hatte nie aufgehört, ihn zu bemerken, weil er wusste, dass der Tag kommen würde, an dem er ihn zum letzten Mal riechen würde.
+
+Er ging weiter. Am Ende des Stegs lag die Möwe, sein Boot, das er vor siebzehn Jahren gekauft und seitdem dreimal neu gekalfatert hatte. Sie lag tief im Wasser, weil er sie beladen hatte, wie er sie noch nie beladen hatte: mit Bleiloten, Peilscheiben, zwei Signallaternen, Ölzeug, Proviant für drei Tage, einer Kiste mit Werkzeug und einem Bündel Segeltuch, das er nicht brauchte, aber nicht zurücklassen wollte. Er hatte die Nacht über gepackt, allein, in der Kammer, während Else im Nebenzimmer lag und nicht schlief. Er hatte gehört, wie sie sich drehte, wie das Stroh raschelte, wie sie einmal aufstand und ans Fenster trat und wieder zurück ins Bett ging. Sie hatten nicht gesprochen. Es gab nichts zu sprechen, was nicht schon gesagt war, und was gesagt war, war nicht das, was hätte gesagt werden müssen.
+
+Er stieg in die Möwe. Das Boot schaukelte leicht, als sein Gewicht auf die Ducht kam, und er setzte sich achtern, legte die Bleilot-Tasche neben sich und sah zum Ufer zurück. Das Lotsenhaus stand hinter den Nebelschwaden, grau und unbeweglich, ein Schattenriss, der nur zu ahnen war. In der Kammer brannte kein Licht. In der Küche brannte kein Licht. Nur der Schornstein stand über dem Dach, und aus ihm stieg kein Rauch. Else hatte das Feuer ausgehen lassen, weil sie wusste, dass er fortging, und weil sie nicht wollte, dass das Haus ihn mit Wärme zurückrief.
+
+Er sah eine Bewegung am Ufer. Eine Gestalt löste sich aus dem Nebel, klein, gedrungen, in einen Mantel gehüllt, der zu groß für sie war. Else. Sie ging nicht zum Steg. Sie blieb am Rand des Wassers stehen, dort, wo die Steine den Sand berührten, und sie sah zu ihm hinüber, ohne die Hand zu heben, ohne zu rufen, ohne ein Zeichen zu geben. Joren hob auch nicht die Hand. Er sah sie an, und sie sahen einander an, und die Entfernung zwischen ihnen war nicht groß, vielleicht dreißig Schritt, aber sie war so groß wie das Wasser, das er befahren würde, und so groß wie das, was er ihr nicht gesagt hatte.
+
+Er hätte sagen können: Ich komme wieder. Er hätte sagen können: Es ist nur eine Fahrt. Er hätte sagen können: Holm hat es versprochen. Aber er wusste, dass es nicht stimmte, und er wusste, dass sie es wusste, und er wusste, dass sie ihm nicht glauben würde, wenn er es sagte. Also schwieg er. Er sah sie an, und sie sah ihn an, und dann wandte sie sich ab, langsam, und ging zurück zum Haus, ohne sich noch einmal umzudrehen. Der Nebel schloss sich hinter ihr, als hätte er nur auf diesen Moment gewartet.
+
+Joren saß still. Er hörte das Wasser an die Planken klopfen, leise, gleichmäßig, wie ein Herzschlag, der nicht ihm gehörte. Er dachte an das, was er nicht gesagt hatte: dass er Angst hatte, nicht vor dem Gefecht, nicht vor den Schanzen, nicht vor dem Feuer, sondern davor, dass er einen Fehler machen würde, einen einzigen, kleinen, und dass der Fehler das Leben derer kosten würde, die ihm vertrauten. Er dachte an Dierk, an den Fuß, an das Fieber, an die fünf Minuten im Laderaum, die er nicht gesehen hatte, aber die er sich vorstellte, jede Nacht, seit Maren ihm davon erzählt hatte. Er dachte an Maren, an die Karte, an die zwanzig Meter, an die vierzig Schritt, an die zweihundert Längen, an die Zahlen, die sie berechnet hatte, und an die Tatsache, dass Zahlen auf dem Papier sich anders verhielten als Wasser unter dem Kiel.
+
+Er dachte an Else. Er dachte daran, dass sie recht gehabt hatte, in jener Nacht, als sie ihm gesagt hatte, dass Rask nicht grausam aus Lust handelte, sondern aus Pflicht. Er dachte daran, dass er selbst nicht anders handelte. Er tat, was er für richtig hielt, und er tat es allein, weil er nicht ertrug, dass andere ihn aufhielten, dass andere zweifelten, dass andere ihm die Entscheidung aus der Hand nahmen. Er hatte es immer so gemacht. Er hatte es mit Dierk so gemacht, mit Kruse, mit Hannes, mit Jens, mit Maren, mit Else, mit sich selbst. Er hatte geglaubt, dass es seine Stärke war. Jetzt, in der Kälte der ersten Morgendämmerung, in der Stille des Nebels, in der Leere des Stegs, wusste er, dass es seine Schwäche war.
+
+Er griff nach der Bleilot-Tasche. Das Leder war kalt und hart, und die Schnalle ließ sich schwer öffnen, weil die Feuchtigkeit in das Metall gekrochen war. Er nahm das erste Lot heraus, ein Bleigewicht, das er selbst gegossen hatte, vor Jahren, in einer Form, die noch sein Vater gemacht hatte. Es war schwer, schwerer als nötig, weil er es so wollte, weil er wollte, dass das Lot den Grund spürte, nicht nur berührte. Er wog es in der Hand, spürte die Kälte, die in das Blei gekrochen war, und legte es neben sich auf die Ducht. Dann nahm er das zweite Lot heraus, dann das dritte, dann die Leine, dann die Markierungen, die er aus Lederstreifen geschnitten hatte, jede mit einem Knoten, jede mit einer Zahl, die er mit einem glühenden Eisen eingebrannt hatte.
+
+Er prüfte die Leine. Sie war neu, er hatte sie gestern Abend geflochten, aus Hanf, den er im Herbst gekauft hatte, und er hatte sie dreimal durch die Hände gezogen, um sicherzugehen, dass keine Schwachstelle darin war. Er tat es jetzt noch einmal. Er ließ sie durch die Finger gleiten, langsam, von der ersten Markierung bis zur letzten, und er spürte jede Unebenheit, jeden Knoten, jede Stelle, an der die Fasern sich verdrehten. Er fand nichts. Er hatte nichts erwartet. Aber er musste es tun, weil er es immer tat, weil die Prüfung der Instrumente das war, was ihn beruhigte, was ihn erdete, was ihn davon abhielt, an das zu denken, was vor ihm lag.
+
+Er nahm die Peilscheiben. Zwei Scheiben aus Holz, bemalt mit schwarzen und weißen Feldern, die er selbst geschnitten und gestrichen hatte, vor drei Wochen, als er wusste, dass er sie brauchen würde. Er prüfte die Farbe, ob sie hielt, ob sie riss, ob sie in der Feuchtigkeit aufquoll. Sie hielt. Sie riss nicht. Sie quoll nicht. Er legte sie neben die Lote, ordentlich, in einer Reihe, wie er es immer tat, und dann nahm er die Signallaternen. Zwei Laternen, aus Blech, mit Glasscheiben, die er mit einem Lappen aus Werg umwickelt hatte, damit sie nicht klirrten. Er öffnete die erste, prüfte den Docht, prüfte das Öl, prüfte den Spiegel, der das Licht zurückwarf. Er tat es langsam, mit den Fingerspitzen, ohne hinzusehen, weil er es tausendmal getan hatte und weil seine Hände es besser wussten als seine Augen.
+
+Er dachte an Holm. Er dachte an die Fregatte, an die Kajüte, an das Gespräch, an die Worte, die Holm gesagt hatte: *Ich kann keine Feuerpause garantieren. Ich kann keinen Schutz garantieren. Ich kann nur eines garantieren: dass ich tue, was ich tun muss, und dass ich Sie nicht anlüge.* Er dachte an die Art, wie Holm ihn angesehen hatte, nicht kalt, nicht warm, sondern prüfend, als hätte er in Jorens Gesicht lesen wollen, ob er log. Er dachte an die Hand, die Holm ihm gereicht hatte, fest, trocken, ohne Zögern, und an die Worte, die er dabei gesagt hatte: *Wenn Sie durchkommen, kommen wir durch. Wenn nicht, kommen wir nicht durch. So einfach ist das.* Er dachte an die Einfachheit, die keine war, und an die Tatsache, dass er, Joren Voss, der Lotse von Thiessow, der Mann, der die Gründe des Bodden seit vierzig Jahren kannte, der Mann, der jede Sandbank, jede Untiefe, jede Strömung im Kopf hatte, dass er der Einzige war, der diese Einfachheit in Wirklichkeit verwandeln konnte.
+
+Er schloss die Laterne. Er legte sie neben die Peilscheiben. Er sah auf die Reihe der Instrumente, die vor ihm auf der Ducht lag, und er spürte, wie die Kälte in seine Hände kroch, in seine Finger, in seine Gelenke, und wie sie sich in seinem Nacken festsetzte, dort, wo die Wirbel sich trafen, und wie sie langsam, unaufhaltsam, in seine Brust wanderte, dorthin, wo die Angst saß, die er nicht zulassen wollte, die er nicht zulassen durfte, weil Angst auf einem Schiff nichts zu suchen hatte, weil Angst das Auge trübte und die Hand zittern ließ und den Geist langsam machte.
+
+Er atmete aus. Er atmete ein. Er zählte die Atemzüge, wie er es immer tat, wenn er merkte, dass die Angst kam: eins, zwei, drei, vier. Er zählte bis zehn, und dann noch einmal bis zehn, und dann hörte er auf zu zählen, weil er wusste, dass es nichts half, weil die Angst nicht verschwand, weil sie nur wartete, bis er nicht mehr hinsah.
+
+Er sah zum Ufer. Der Nebel war dichter geworden. Das Lotsenhaus war verschwunden. Der Steg war verschwunden. Die Bäume, die Häuser, die Dünen, alles war verschwunden, und es blieb nur das Wasser, grau und still, und die Möwe, die leise schaukelte, und die Instrumente, die vor ihm lagen, und die Kälte, die in ihm saß.
+
+Er hörte ein Geräusch. Nicht das Wasser. Nicht der Wind. Ein Ruder, das ins Wasser tauchte, leise, gleichmäßig, und dann wieder, und dann wieder. Er drehte sich um, langsam, und sah ein Boot aus dem Nebel kommen, klein, dunkel, mit einer Gestalt am Ruder, die er kannte, bevor er das Gesicht sah. Maren. Sie saß achtern, die Karte auf den Knien, das Paket neben sich, und sie ruderte nicht, sie steuerte nur, während Thies die Riemen hielt und das Boot vorwärtstrieb, und Lene hinter ihnen, in der Grete, mit Fiete an der zweiten Bank, ein zweites Boot, das lautlos aus dem Nichts auftauchte.
+
+Maren sah ihn. Sie sagte nichts. Sie ließ das Boot an die Möwe herangleiten, bis die Planken sich berührten, und dann stand sie auf, vorsichtig, und stieg zu ihm über, ohne ein Wort, ohne eine Geste, als wäre es das Selbstverständlichste von der Welt, dass sie auf sein Boot kam, dass sie neben ihm saß, dass sie die Karte auf die Ducht legte, neben die Lote, neben die Peilscheiben, neben die Laternen, als gehörte sie dorthin, als hätte sie immer dorthin gehört.
+
+Thies hielt die Boote zusammen. Er sah Joren an, ruhig, ohne Vorwurf, ohne Frage, und dann sagte er, leise, mit einer Stimme, die nicht lauter war als das Wasser:
+
+»Wir sind da.«
+
+Joren sah ihn an. Er sah Maren an. Er sah Lene an, die in der Grete saß, das Ruder in der Hand, das Gesicht hart, die Augen wach, und er sah Fiete, der zu ihm herübersah, mit einem Blick, der zu alt war für sein Alter, und der nichts verlangte, nichts erwartete, nichts fürchtete, weil er nicht wusste, was es zu fürchten gab.
+
+Joren nickte. Er sagte nichts. Er legte die Hand auf die Karte, die Maren neben ihn gelegt hatte, und er spürte das Papier, dünn und kalt, und darunter, durch das Papier, durch die Ducht, durch die Planken, das Wasser, das ihn trug, und er wusste, dass es keinen Weg zurück gab, dass es keinen Weg zurück gegeben hatte, seit er in jener Nacht auf die Prins Christian gestiegen war, seit er Holm die Hand gegeben hatte, seit er Rask die Wahrheit gesagt hatte, seit er Else am Ufer stehen gelassen hatte, ohne ein Wort, ohne einen Blick, der genügte.
+
+Er sah auf die Karte. Maren hatte sie gezeichnet, in der Nacht, mit Tusche und Feder, auf einem Bogen, den sie aus dem Küsterhaus mitgenommen hatte. Sie hatte die Rinne eingezeichnet, die zwanzig Meter, die Sandbank, die Wracks, die vierzig Schritt, die zweihundert Längen, den toten Winkel, die Peilungen, die Zeiten, die Gezeiten, die Strömungen, alles, was sie berechnet hatten, alles, was sie wussten, alles, was sie hofften. Es war eine Karte, wie er sie noch nie gesehen hatte, nicht weil sie schöner war als andere, sondern weil sie genauer war, weil sie ehrlicher war, weil sie nichts verschwieg, weil sie die Lücken zeigte, die Unsicherheiten, die Stellen, an denen das Wissen aufhörte und das Vertrauen begann.
+
+Er sah Maren an. Sie sah ihn an. Sie sagte nichts. Sie wartete. Sie wartete auf ihn, auf sein Wort, auf seine Entscheidung, auf das, was er sagen würde, und er wusste, dass sie nicht mehr das Mädchen war, das er vor Jahren auf seinem Boot hatte sitzen sehen, dass sie nicht mehr die Tochter war, die er belehrt hatte, dass sie nicht mehr das Kind war, das er beschützt hatte, sondern dass sie die Frau war, die neben ihm saß, die mit ihm fuhr, die mit ihm rechnete, die mit ihm sterben konnte, wenn er versagte.
+
+Er sagte: »Die Grete bleibt zurück. Bis zum Signal. Dann kommt sie.«
+
+Lene nickte. Sie sagte nichts. Sie wusste, was das bedeutete. Sie wusste, dass sie warten musste, dass sie im Nebel liegen musste, dass sie auf ein Licht warten musste, auf ein Zeichen, auf eine Laterne, die zweimal aufleuchtete, und dann musste sie fahren, schnell, ohne Zögern, ohne Frage, in das Wasser, das ihr Mann nicht kannte, das sie nicht kannte, das niemand kannte außer ihm, der vor ihr saß, der die Karte vor sich hatte, der die Lote vor sich hatte, der die Peilscheiben vor sich hatte, der die Laternen vor sich hatte, der alles vor sich hatte, was er brauchte, und der nichts hatte, was ihn retten konnte, wenn er sich irrte.
+
+Thies löste die Leine. Er ließ die Möwe los, und dann ließ er die Grete los, und dann nahm er die Riemen und hielt das Boot, die Hoffnung, neben der Möwe, und er sah zu Maren hinüber, und Maren sah zu ihm hinüber, und zwischen ihnen lag das Wasser, das sie trennte, und die Luft, die sie verband, und die Worte, die sie nicht sagten, weil sie sie nicht sagen mussten.
+
+Joren griff nach den Riemen. Er setzte sie in die Dollen, langsam, mit den Händen, die die Kälte nicht mehr spürten, weil sie zu kalt war, um noch zu spüren, und er tauchte die Blätter ins Wasser, und er zog, und die Möwe glitt vorwärts, lautlos, in den Nebel hinein, und hinter ihm, leise, gleichmäßig, folgte die Hoffnung, und hinter ihr, im Nebel verschwindend, blieb die Grete, ein Schatten, der wartete.
+
+Er ruderte. Er zählte die Schläge, nicht weil er musste, sondern weil er wollte, weil das Zählen ihn beruhigte, weil das Zählen ihn davon abhielt, an Else zu denken, an das Haus, an das Feuer, das ausgegangen war, an die Wärme, die er zurückließ, an die Kälte, die vor ihm lag. Er ruderte, und der Nebel wurde dichter, und das Wasser wurde stiller, und die Luft wurde kälter, und dann, nach einer Stunde, nach zwei Stunden, nach einer Zeit, die er nicht maß, weil er sie nicht messen wollte, sah er vor sich, im Grau, das kein Ende hatte, einen Schatten, der größer war als ein Boot, größer als ein Haus, größer als alles, was er kannte, und er wusste, dass es die Prins Christian war, dass es das Schiff war, das ihn erwartete, dass es der Anfang war, nicht das Ende.
+
+Er hörte ein Rufen. Leise, gedämpft, vom Nebel verschluckt, aber deutlich genug, um zu wissen, dass es ihm galt. Er hörte das Klirren von Ketten, das Knarren von Tauen, das Schlagen von Segeln, die im Wind standen, und dann, langsam, tauchte der Rumpf aus dem Nebel auf, schwarz, massiv, mit einer Reihe von Luken, aus denen Licht fiel, gelbes, flackerndes Licht, das sich im Wasser brach, und er sah die Flagge, die Flagge Dänemarks, die im Wind hing, und er sah die Männer, die an der Reling standen, und er sah Holm, der am Fallreep stand, in einem Mantel, mit einem Fernglas in der Hand, und der ihn ansah, ohne zu winken, ohne zu rufen, nur mit dem Blick, der sagte: Du bist da.
+
+Joren legte die Riemen ein. Er ließ die Möwe an das Fallreep gleiten, und er spürte, wie das Boot sich hob, wie das Wasser sich teilte, wie die Fregatte ihn aufnahm, wie ein Tier, das ein anderes aufnimmt, nicht aus Güte, sondern aus Notwendigkeit. Er stand auf. Er nahm die Bleilot-Tasche, die Peilscheiben, die Laternen, die Karte, das Paket, und er reichte sie hinauf, einem Matrosen, der sie nahm, ohne ein Wort, und dann stieg er selbst hinauf, langsam, mit den Händen, die zitterten, nicht vor Angst, sondern vor Kälte, und er stand auf dem Deck, und er sah Holm an, und Holm sah ihn an, und dann sagte Holm, ruhig, sachlich, ohne Pathos:
+
+»Willkommen an Bord, Lotse. Wir haben auf Sie gewartet.«
+
+Joren nickte. Er sagte: »Ich bin bereit.«
+
+Er wusste, dass es nicht stimmte. Er wusste, dass er nicht bereit war, dass er nie bereit sein würde, dass niemand bereit war, der wusste, was vor ihm lag. Aber er wusste auch, dass es nicht darauf ankam, ob er bereit war. Es kam darauf an, dass er da war. Dass er die Lote hatte, die Peilscheiben, die Laternen, die Karte, die Maren gezeichnet hatte, mit Tusche und Feder, in einer Nacht, in der sie nicht geschlafen hatte, weil sie wusste, dass er sie brauchen würde.
+
+Er sah zum Wasser zurück. Der Nebel hatte sich geschlossen. Die Möwe war verschwunden. Die Hoffnung war verschwunden. Die Grete war verschwunden. Es gab nur noch das Schiff, das Deck, die Männer, die Stille, die Kälte, und die Rinne, die vor ihm lag, die zwanzig Meter, die vierzig Schritt, die zweihundert Längen, und die Zeit, die nicht wartete, weil die Zeit nie wartete, weil die Zeit nicht wusste, was Mitleid war.
+
+Er ging zur Reling. Er sah nach vorn, in den Nebel, in das Grau, in das Nichts, und er dachte an Else, an das Haus, an das Feuer, das ausgegangen war, an die Wärme, die er zurückließ, an die Kälte, die vor ihm lag, und er dachte an Maren, die jetzt auf der Hoffnung saß, die Karte auf den Knien, das Paket neben sich, und die auf ihn wartete, auf sein Signal, auf sein Licht, auf seine Entscheidung, und er wusste, dass er sie nicht enttäuschen durfte, dass er niemanden enttäuschen durfte, dass er die Fahrt machen musste, die Fahrt, die ihn für immer verändern würde, die Fahrt, die ihn für immer von dem trennen würde, was er gewesen war, und die ihn für immer mit dem verbinden würde, was er sein würde: ein Lotse, der sein Wissen verkauft hatte, ein Vater, der seine Tochter mitgenommen hatte, ein Mann, der sein Dorf verraten hatte, um es zu retten.
+
+Er hörte Holms Stimme. »Lotse, wir müssen. Die Gezeiten.«
+
+Joren drehte sich um. Er sah Holm an. Er sagte: »Ja.«
+
+Er ging zur Ruderpinne. Er legte die Hände auf das Holz, das kalt war, kälter als alles, was er kannte, und er spürte, wie das Schiff sich bewegte, wie es sich drehte, wie es in die Rinne glitt, die er nicht sah, aber kannte, und er dachte an die Karte, an die Zahlen, an die Lote, an die Peilscheiben, an die Laternen, an alles, was er vorbereitet hatte, und er wusste, dass es nicht genug war, dass nichts genug war, dass nur der Augenblick zählte, der nächste, der übernächste, und dass er jeden Augenblick einzeln nehmen musste, wie er es immer getan hatte, wie er es immer tun würde, bis es keinen nächsten mehr gab.
+
+Er sah nach vorn. Der Nebel war grau und dicht und endlos. Das Wasser war still und schwarz und tief. Das Schiff war groß und schwer und langsam. Und die Rinne war zwanzig Meter breit, vierzig Schritt lang, zweihundert Längen tief, und sie wartete auf ihn, wie sie immer gewartet hatte, seit der erste Lotse sie gefunden hatte, vor hundert Jahren, vor tausend Jahren, vor einer Zeit, die niemand mehr maß, weil die Zeit auf dem Wasser nicht zählte, weil das Wasser keine Zeit kannte, weil das Wasser nur den Augenblick kannte, den einen, den einzigen, den letzten.
+
+Joren atmete aus. Er atmete ein. Er zählte nicht mehr. Er sah nur noch nach vorn, in das Grau, in das Nichts, in die Rinne, und dann sagte er, leise, zu sich selbst, zu dem Wasser, zu der Karte, zu der Tochter, zu der Frau, zu dem Dorf, zu allem, was er zurückließ, und zu allem, was vor ihm lag:
+
+»Jetzt.«
+
+---
+
+## Vom Bodden her
+
+> »Der Bodden ist ein falscher Freund. Er sieht aus wie ein Feld, das man pflügen kann, und benimmt sich wie ein Tier, das einen nicht kennt.«
+> — Lotsenhandbuch, handschriftlich, Verfasser unbekannt, um 1690
+
+Das Erste, was von der *Hoffnung* zu sehen war, war gar nicht das Boot, sondern der Atem der Rudernden: drei kurze, weiße Wolken, die im Frühdunst vor Marens Gesicht aufstiegen, sich auflösten und wiederkehrten, im Takt der Riemen, im Takt ihres eigenen Blutes. Thies saß vorn, die Schultern breit gegen das Grau, und zog, ohne ein Wort zu sagen. Maren saß am Steuer, das Ruderblatt in der Hand, die Karte auf den Knien, das Paket neben sich, und sie zählte die Schläge nicht, weil Zählen nichts änderte. Hinter ihnen, im Nebel verschwunden, lag die *Prins Christian* mit Joren an Bord. Vor ihnen lag das flache Wasser, das kein Ende zu haben schien.
+
+Sie hatten die Fregatte verlassen, als Holms Männer begonnen hatten, die Riemen auszubringen. Es war eine stumme Verabschiedung gewesen, ohne Hände, ohne Blicke, ein bloßes Auseinandergleiten zweier Fahrzeuge im Halbdunkel, und Maren hatte in dem Moment begriffen, dass sie jetzt allein waren, sie, Thies, das Boot und das Wasser, und dass von hier an nichts mehr zählte als der nächste Meter und der nächste und der nächste.
+
+»Links halten«, sagte sie leise.
+
+Thies zog den rechten Riemen kürzer. Das Boot drehte träge, und der Kiel strich über etwas Weiches, Nachgiebiges, das kein Grund war und noch keine Bank, sondern das Dazwischen, der Schlick, der sich an das Holz legte wie ein nasser Lappen. Maren spürte es durch die Sohlen, ein feines Mahlen, ein Zittern, das nicht vom Rudern kam. Sie kannte das Geräusch von Kindheit an. Es war das Geräusch des Bodden, das Geräusch der Grenze zwischen Wasser und Land, die keine Grenze war, sondern ein Übergang, ein Zustand, ein Drittes.
+
+Sie hatten die *Grete* im Nebel zurückgelassen, wie verabredet. Lene wartete mit Fiete, das Laternenlicht verhüllt, die Hand am Riemen, bereit, dem Signal zu folgen. Maren hatte ihr die Karte gezeigt, den Weg, die Haltepunkte, und Lene hatte genickt, ohne zu fragen, und Maren hatte in diesem Nicken mehr Vertrauen gefunden als in jedem Schwur. Jetzt war diese Stille hinter ihnen, und die Stille vor ihnen war größer.
+
+»Schilf«, sagte Thies.
+
+Maren hob den Kopf. Vor ihnen, im Grau, zeichneten sich Halme ab, dicht, hoch, ein grüner Wall, der im Nebel wie eine Mauer wirkte. Sie waren zu weit westlich geraten, in den Gürtel hinein, der sich zwischen den untiefen Zonen hinzog, und sie wusste, dass sie hier nicht durchkonnten. Das Schilf war kein Hindernis, das man einfach durchfuhr. Es war ein Labyrinth, in dem man sich verlor, in dem der Kiel sich festsetzte, in dem die Riemen sich verfingen, in dem man stundenlang im Kreis rudern konnte, ohne einen Fuß voranzukommen.
+
+»Ruder einholen«, sagte sie. »Wir treiben lassen.«
+
+Thies gehorchte. Die Riemen kamen herein, das Boot wurde langsamer, und dann hörten sie es: das Reiben, das feine, unablässige Reiben der Halme an der Bordwand, ein Geräusch wie ein Flüstern, wie ein Gespräch, das andere über sie führten. Maren griff nach dem Lot, ließ es sinken, fühlte das Gewicht, das auf dem Grund aufsetzte, und zog es wieder hoch. Zwei Fuß. Vielleicht weniger. Der Schlick begann.
+
+Sie sah auf die Karte. Sie hatte die Ränder des Schilfgürtels eingezeichnet, die Durchfahrten, die schmalen Rinnen, die sich zwischen den Inseln des Grases hindurchzogen, aber sie hatte sie mit Bleistift gezeichnet, nach Erinnerung, nach dem, was ihr Vater ihr erzählt hatte, und sie wusste, dass Erinnerung kein Lot war. Sie wusste auch, dass sie keine Wahl hatte.
+
+»Da vorn«, sagte Thies und deutete mit dem Kinn.
+
+Maren sah es. Eine Lücke, eine Rinne, kaum breiter als das Boot, ein dunkler Spalt zwischen den Halmen, der sich nach Nordosten öffnete und in der Ferne, im Grau, verschwand. Es war der Weg, den sie nehmen mussten, wenn sie nicht umkehren wollten, und Umkehren war kein Wort, das in ihrem Mund noch Bedeutung hatte.
+
+»Durch«, sagte sie.
+
+Thies nahm die Riemen wieder auf. Er stieß das Boot vorwärts, langsam, vorsichtig, und Maren steuerte mit dem Ruder, mit dem ganzen Körper, mit den Augen, die den Spalt fixierten, der sich vor ihnen öffnete und wieder schloss, als atmete er. Das Schilf strich an beiden Seiten entlang, feucht, kühl, und dann, mit einem Mal, hörten sie es: ein Geräusch, das nicht das Schilf war, ein regelmäßiges, dumpfes Schlagen, das aus dem Nebel kam, von Osten, von der Seite, von wo sie nicht kommen sollten.
+
+Ruder.
+
+Maren erstarrte. Sie kannte das Geräusch. Sie hatte es in der Nacht gehört, als sie sich mit Thies im Schilf versteckt hatte, in dem eiskalten Wasser, unter dem Segeltuch, und sie wusste, dass es schwedische Ruder waren, eine Patrouille, ein Wachboot, das den Bodden absuchte, weil die Schweden wussten, dass etwas kam, weil sie es immer wussten, weil Kriege keine Geheimnisse duldeten.
+
+»Runter«, flüsterte sie.
+
+Thies ließ sich auf die Ducht sinken. Maren beugte sich vor, das Ruder fest, den Kopf unter der Bordwand. Das Schlagen kam näher, wurde lauter, und dann sahen sie es, im Nebel, dreißig Schritt entfernt, ein dunkler Umriss, ein Ruderboot mit sechs, acht, zehn Männern, die im Takt zogen, die Köpfe gesenkt, die Riemen tief. Ein Offizier stand am Heck, das Sprachrohr in der Hand, und Maren hörte, wie er etwas rief, ein Wort, das sie nicht verstand, einen Befehl, eine Frage, und dann sah sie, wie das Boot sich drehte, wie es den Kurs änderte, wie es direkt auf den Schilfgürtel zukam, auf die Rinne, auf sie.
+
+»Sie haben uns nicht gesehen«, flüsterte Thies. »Noch nicht.«
+
+Maren wusste, dass er recht hatte, und sie wusste auch, dass es nicht lange so bleiben würde. Die Patrouille suchte. Sie fuhr die Ränder ab, die Buchten, die Verstecke, und wenn sie die Rinne fand, wenn sie das Boot fand, dann war alles vorbei, dann war die Fahrt vorbei, dann war Joren allein auf der Fregatte, dann war die *Grete* allein im Nebel, dann waren Dierk und die Männer allein auf dem Prahm, und dann würde niemand mehr kommen.
+
+Sie musste entscheiden. Jetzt. Sofort.
+
+»Wir können nicht bleiben«, sagte sie. »Wir müssen zurück, in den Gürtel, tiefer hinein. Sie werden die Rinne nicht befahren, sie ist zu flach für ihr Boot.«
+
+Thies sah sie an. »Und wenn sie uns folgen?«
+
+»Dann sitzen wir fest. Aber wenn wir hier bleiben, sitzen wir auch fest. Nur kürzer.«
+
+Es war keine gute Entscheidung. Es war eine Entscheidung, die nur deshalb richtig war, weil die andere schlechter war. Maren hatte das Gefühl, das sie aus der Schreibstube kannte, wenn zwei Zahlen nicht aufgingen und sie trotzdem eine wählen musste, und sie wusste, dass sie es nicht besser konnte, als sie konnte.
+
+Thies griff nach den Riemen. Er stieß das Boot zurück, in den Gürtel hinein, in das Schilf, das sich hinter ihnen wieder schloss, und Maren steuerte, so leise sie konnte, so tief sie konnte, und dann, als das Wachboot an der Rinne vorbeizog, ohne anzuhalten, ohne zu wenden, ohne sie zu sehen, begriff sie, dass sie Glück gehabt hatten, nichts als Glück, und dass Glück keine Reserve war, auf die man bauen konnte.
+
+Sie brauchten eine Stunde, um durch den Gürtel zu kommen. Eine Stunde, in der sie dreimal den Kurs korrigieren mussten, in der der Kiel zweimal aufsetzte, in der Thies einmal bis zur Hüfte ins Wasser stieg, um das Boot über eine Schlickbank zu schieben, in der Maren die Karte nicht mehr ansah, weil die Karte nicht mehr stimmte. Als sie wieder offenes Wasser erreichten, war der Nebel dünner geworden, und über dem Horizont, im Osten, stand ein Streifen Licht, grau und kalt und ohne Wärme.
+
+Sie hatten Zeit verloren. Maren wusste es, ohne die Uhr zu sehen, ohne die Sonne zu sehen, ohne die Gezeiten zu berechnen. Sie hatte die Fahrt durchgerechnet, in der Nacht, an Lenes Tisch, mit Jorens Zahlen und ihren eigenen, und sie wusste, dass sie eineinhalb Stunden hinter dem Plan lagen, vielleicht zwei, und dass zwei Stunden auf dem Bodden so viel waren wie zwei Tage auf dem Land.
+
+»Wie weit?«, fragte Thies.
+
+»Zwei Meilen. Vielleicht drei.«
+
+»Und die Strömung?«
+
+Maren sah auf das Wasser. Es bewegte sich, kaum sichtbar, aber sie sah es an den Halmen, an den Blasen, an dem feinen Strich, der sich an der Oberfläche bildete, und sie wusste, dass die Strömung gegen sie lief, dass sie gegen die Gezeiten ruderten, gegen den Strom, der aus dem Tief kam und in den Bodden floss, und dass jede Meile jetzt zwei kostete.
+
+»Gegen uns«, sagte sie. »Wir müssen näher an die Bank. Wo das Wasser flacher ist, läuft die Strömung langsamer.«
+
+Thies nickte. Er zog die Riemen fester, und Maren sah, wie sich die Muskeln in seinem Rücken spannten, wie sich sein Atem beschleunigte, wie er die Zähne zusammenbiss, und sie wusste, dass er nicht klagte, weil Klagen nichts änderte, und dass er trotzdem litt, weil Rudern gegen die Strömung kein Handwerk war, sondern eine Strafe.
+
+Sie fuhren. Sie fuhren, und die Zeit verging, und die Zeit war kein Fluss, sondern ein Gegner, ein Gegner, der nicht müde wurde, der nicht nachließ, der immer schneller wurde, je langsamer sie wurden. Maren sah auf die Karte, auf die Peilungen, auf die Landmarken, die im Dunst auftauchten und wieder verschwanden, und sie rechnete, im Kopf, mit den Zahlen, die sie kannte, und sie kam zu einem Ergebnis, das sie nicht aussprechen wollte.
+
+»Wir haben eine Stunde«, sagte sie schließlich. »Vielleicht weniger. Dann muss das Signal kommen, sonst verpassen wir das Fenster.«
+
+Thies sagte nichts. Er ruderte.
+
+Es war Thies, der die Bank sah, nicht Maren. Sie hatte die Karte vor Augen, die Zahlen, die Peilungen, und sie hatte nicht nach vorn gesehen, nicht richtig, und dann hörte sie es: ein Geräusch, das kein Schilf war, kein Wasser, kein Ruder, ein Geräusch wie ein Messer, das über Holz fuhr, ein langes, kratzendes, bösartiges Geräusch, und dann spürte sie es, den Stoß, den Ruck, das Stocken, und das Boot hielt an, als hätte eine Hand es gepackt.
+
+Schlick.
+
+»Fest«, sagte Thies.
+
+Maren ließ das Ruder los. Sie sah nach vorn. Vor ihnen, im flachen Wasser, lag eine Bank, eine breite, braune Fläche, die im Licht des Morgens wie ein Fell wirkte, wie ein Tier, das sich im Wasser sonnte, und sie wusste, dass sie nicht durchkonnten, dass die Bank zu breit war, zu lang, zu tief, und dass sie umfahren mussten, wenn sie umfahren konnten.
+
+»Ruder einholen«, sagte sie. »Wir müssen schieben.«
+
+Thies war schon im Wasser. Er stand bis zur Hüfte in der Brühe, die Stiefel voller Schlick, die Hände an der Bordwand, und er schob, und Maren stieß mit dem Ruder, und das Boot bewegte sich, zentimeterweise, zäh, wie ein Tier, das nicht wollte, und dann, nach einer Ewigkeit, die vielleicht zehn Minuten dauerte, glitt es frei, und Thies kletterte wieder hinein, durchnässt, zitternd, und Maren sah, dass seine Lippen blau waren, und sie sagte nichts, weil es nichts zu sagen gab.
+
+»Die Bank geht weiter«, sagte er. »Wir müssen außen herum.«
+
+Maren sah auf die Karte. Außen herum bedeutete: ein Umweg von einer halben Meile, vielleicht mehr, und eine halbe Meile gegen die Strömung war eine Stunde, und eine Stunde war alles, was sie hatten. Sie sah auf das Wasser, auf die Bank, auf die Rinne, die sich in der Ferne abzeichnete, und sie wusste, dass sie es nicht schaffen würden, dass sie das Fenster verpassen würden, dass Joren allein auf der Fregatte stand und auf ein Signal wartete, das nicht kommen würde.
+
+»Wir schaffen es nicht«, sagte sie.
+
+Thies sah sie an. »Was?«
+
+»Das Fenster. Wir schaffen es nicht. Wir sind zu langsam. Wir sind zu weit. Die Strömung, die Bank, die Patrouille – alles hat uns Zeit gekostet, und die Zeit kommt nicht wieder. Wenn wir jetzt weiterfahren, kommen wir zu spät. Dann ist Joren allein, dann ist die *Grete* allein, dann ist alles umsonst.«
+
+Sie hörte sich selbst, wie sie es sagte, und sie hörte, dass es wahr war, und sie hasste es, weil es wahr war. Sie hatte die Fahrt geplant. Sie hatte die Zahlen gerechnet. Sie hatte die Karte gezeichnet. Und jetzt, auf dem Wasser, im Morgengrauen, mit dem Schlick an den Stiefeln und der Kälte in den Knochen, war alles anders, und sie wusste, dass sie versagt hatte.
+
+Thies sagte nichts. Er sah sie an, mit einem Blick, den sie nicht deuten konnte, und dann, nach einer Weile, sagte er: »Und wenn wir trotzdem fahren?«
+
+»Dann kommen wir zu spät. Dann sind wir zu spät.«
+
+»Und wenn wir umkehren?«
+
+»Dann kommen wir auch zu spät. Dann sind wir früher zu spät.«
+
+Thies lachte. Es war kein fröhliches Lachen. Es war ein kurzes, raues Geräusch, das aus der Kälte kam, und es tat Maren weh, weil sie wusste, dass er recht hatte, dass es komisch war, dass es immer komisch war, wenn zwei Menschen vor einer Wand standen und sich fragten, ob sie links oder rechts daran vorbeigehen sollten, obwohl die Wand kein Ende hatte.
+
+»Dann fahren wir«, sagte er.
+
+Maren sah ihn an. »Warum?«
+
+»Weil Fahren besser ist als Stehen. Weil wir nicht wissen, was kommt. Weil Joren vielleicht wartet, weil die *Grete* vielleicht wartet, weil Dierk vielleicht wartet. Weil wir es nicht wissen, und weil Nichtwissen kein Grund ist, es nicht zu versuchen.«
+
+Er nahm die Riemen. Er setzte sie ins Wasser. Er zog, und das Boot bewegte sich, langsam, schwer, gegen die Strömung, gegen die Zeit, gegen alles, und Maren sah ihm zu, und dann griff sie nach dem Ruder, und dann steuerte sie, und dann fuhren sie.
+
+Sie fuhren um die Bank herum. Sie fuhren durch eine Rinne, die auf der Karte nicht verzeichnet war, weil die Karte alt war und das Wasser neu, und sie fuhren an einem Schilfgürtel vorbei, in dem ein Reiher stand, reglos, wie aus Holz, und sie fuhren, und sie fuhren, und die Sonne stieg höher, und der Nebel löste sich auf, und dann, endlich, sahen sie es: die Sperre. Die Pfähle, die Ketten, die versenkten Balken, das dunkle Band, das den Bodden durchschnitt, und dahinter, im Grau, die Masten der schwedischen Fahrzeuge.
+
+Und davor, im flachen Wasser, im Windschatten einer Landzunge, lag ein Boot. Es war klein, es war dunkel, es war die *Grete*, und Lene stand am Heck, die Laterne in der Hand, und sie sah sie, und sie winkte nicht, sie rief nicht, sie stand nur da und sah sie an, und Maren wusste, dass sie zu spät kamen, dass sie viel zu spät kamen, und dass Lene trotzdem gewartet hatte.
+
+»Sie ist noch da«, sagte Thies.
+
+»Ja«, sagte Maren. »Sie ist noch da.«
+
+Sie ruderten auf die *Grete* zu. Als sie nahe genug waren, um zu sprechen, ohne zu schreien, sah Maren, dass Fiete im Boot saß, das Gesicht blass, die Hände um ein Tau gelegt, und dass Lene die Laterne nicht angezündet hatte, weil es hell war, weil das Signal nicht mehr gebraucht wurde, weil der Morgen gekommen war.
+
+»Ihr seid spät«, sagte Lene.
+
+»Wir wissen«, sagte Maren.
+
+»Die Fregatte ist durch. Vor einer halben Stunde. Wir haben die Masten gesehen, im Nebel, und dann das Feuer, weit hinten, am Neuen Tief. Sie sind durch.«
+
+Maren sagte nichts. Sie sah auf das Wasser, auf die Sperre, auf die Masten, und sie wusste, dass Joren es geschafft hatte, dass er die Rinne gefunden hatte, dass er die Fregatte durchgebracht hatte, und sie wusste auch, dass sie es nicht geschafft hatte, dass sie nicht dabei gewesen war, dass sie zu spät gekommen war, um zu helfen, und dass sie jetzt hier stand, auf einem flachen Boot, mit nassen Stiefeln und leeren Händen.
+
+»Was jetzt?«, fragte Thies.
+
+Lene sah ihn an. »Jetzt holen wir Dierk. Das war der Plan. Das ist immer noch der Plan.«
+
+»Und die Fregatte?«
+
+»Die Fregatte ist nicht unser Problem. Die Fischer sind unser Problem. Die Männer sind unser Problem. Dierk ist unser Problem.«
+
+Sie sagte es ruhig, ohne Vorwurf, ohne Zorn, und Maren hörte, dass sie recht hatte, dass es immer so gewesen war, dass die Großen ihren Krieg führten und die Kleinen ihre Toten zählten, und dass es keinen Sinn hatte, darüber zu klagen, weil Klagen nichts änderte.
+
+»Wir müssen an der Sperre vorbei«, sagte Maren. »Der Prahm liegt dahinter, bei Palmer Ort. Wenn wir durch die Rinne fahren, wo Joren durchgefahren ist, kommen wir hin.«
+
+Lene sah sie an. »Und wenn die Schweden uns sehen?«
+
+»Dann sehen sie uns. Wir haben keine Wahl.«
+
+Lene schwieg. Sie sah auf die Sperre, auf die Masten, auf das Wasser, und dann, nach einer Weile, sagte sie: »Gut. Dann fahren wir.«
+
+Sie wandte sich um, ging zum Ruder, und Maren sah, dass sie die Laterne löschte, nicht weil sie nicht mehr gebraucht wurde, sondern weil sie nicht mehr gebraucht werden sollte, und dass sie das Tau löste, mit ruhigen, kräftigen Händen, und dass sie das Boot drehte, ohne zu zögern, ohne zu fragen, ohne ein Wort.
+
+Maren sah zu Thies. Er sah zurück. Sie sagten nichts. Sie mussten nichts sagen. Sie wussten beide, dass sie nicht mehr umkehren konnten, dass sie nie hatten umkehren können, dass die Fahrt kein Weg war, den man ging, sondern ein Zustand, in dem man sich befand, und dass sie jetzt darin waren, bis zum Ende, bis zu dem Ende, das niemand kannte.
+
+Thies nahm die Riemen. Er zog. Das Boot bewegte sich. Und dann, als sie an der Landzunge vorbeiglitten, sah Maren im Osten, über der Sperre, über den Masten, über dem Wasser, einen Rauch aufsteigen, dünn und grau und fern, und sie wusste, dass es das Feuer war, von dem Lene gesprochen hatte, das Feuer der Fregatte, das Feuer des Gefechts, und dass es begonnen hatte, ohne sie, und dass es weitergehen würde, mit ihnen oder ohne sie, und dass sie jetzt nur noch eines tun konnten: rudern.
+
+Sie ruderten. Sie ruderten in den Morgen hinein, in den Rauch, in das Grau, das kein Grau mehr war, sondern ein Vorhang, hinter dem die Welt lag, die sie nicht kannten, und Maren hielt das Ruder, und sie sah nach vorn, und sie zählte nicht mehr, weil Zählen nichts änderte, und sie dachte nicht mehr, weil Denken nichts änderte, und sie wartete nicht mehr, weil Warten nichts änderte, und dann, als die Sperre näher kam, als die Pfähle größer wurden, als das Wasser enger wurde, sagte sie, leise, zu sich selbst, zu Thies, zu Lene, zu dem Boot, zu dem Tag, der begann, und zu allem, was vor ihnen lag:
+
+»Durch.«
+
+---
+
+## Vor den Wracks
+
+> »Die See ist eine Herrin, die keinem dienet. Wer ihr folgen will, muß rechnen, und wer nicht rechnen kann, den lehret sie es mit dem Leben.«
+> — Aus dem Handbuch eines Lotsen, 1698
+
+Das erste Geschütz sprach, als die Fregatte noch nicht ganz aus der Rinne getreten war, und Joren Voss spürte den Druck des Schusses nicht als Laut, sondern als Sturz im Bauch, als hätte jemand unter ihm den Boden weggezogen.
+
+Dann kam der Rauch.
+
+Er quoll aus der Backbordseite der Prins Christian, dick und beißend und gelbgrau, wälzte sich über das Deck, fraß das Licht, fraß die Sicht, fraß die Wasserlinie, und für drei Herzschläge war die Welt nur noch ein einziger, schwefeliger Atem. Joren stand am Ruder, die Hände um die Speichen gekrallt, und in der weißen Wand vor ihm gab es kein Oben und kein Unten, kein Land und kein Wasser, nur den beißenden Gestank und das ferne, dumpfe Brüllen, mit dem die schwedischen Batterien antworteten.
+
+»Kurs halten!«, rief Holm irgendwo rechts von ihm, und seine Stimme klang, als käme sie durch nasse Wolle.
+
+Joren hielt den Kurs. Er hielt ihn, weil er ihn in den vergangenen Wochen hundertmal durchgerechnet hatte, weil er ihn in den Sand gezeichnet hatte, weil er ihn Maren auf der Karte gezeigt hatte, und weil ein Kurs, den man einmal berechnet hat, nicht davonläuft, auch wenn die Welt ringsum in Rauch und Donner zerfällt. Das war die eine Wahrheit, die er noch besaß: Die Tiefe unter dem Kiel änderte sich nicht, weil Menschen aufeinander schossen. Der Grund blieb, wo er war. Die Wracks blieben, wo sie waren. Und die Rinne blieb eine Rinne, zwanzig Meter breit, zwischen einer wandernden Sandbank und dem rostigen Rumpf eines versenkten Blockadeschiffs, das der Herbststurm vor zwei Wochen in die Fahrrinne geschoben hatte wie eine Faust auf einen Tisch.
+
+Er tastete nach dem Lot, das neben ihm lag, ließ es nicht los, aber er hielt es bereit. Noch war kein Grund da, es zu werfen. Noch war die Peilung klar. Vorn, halb rechts, ragte der schwarze Stumpf des Wracks aus dem Wasser, und dahinter, hinter dem Rauchvorhang, den der Wind in Fetzen zerriß, sah er für einen Augenblick die drei Bake, die er vor Tagen selbst gesetzt hatte: eine alte Tonne, ein Pfahl mit einem weißen Lappen, ein umgestürzter Mast, der schräg aus dem Schlick stand.
+
+Drei Marken. Drei Punkte. Eine Linie.
+
+Er atmete. Der Rauch verzog sich ein wenig, gab die Sicht auf zwanzig, dreißig Klafter Wasser frei, und da war sie, die Rinne, dunkel und ölig zwischen den Sandbänken, und Joren legte das Ruder zwei Fingerbreit nach Steuerbord, weil die Strömung an der Wrackkante nach Backbord zog, und er wußte das, nicht weil er es sah, sondern weil er es in den Knochen hatte, weil er die Strömung hier seit dreißig Jahren kannte, weil sie immer an der Wrackkante nach Backbord zog, wenn die Flut kam, und die Flut kam jetzt.
+
+»Lotung!«, rief er, und Ole Paye, der junge Gehilfe, der neben ihm am Schanzkleid stand und mit weißem Gesicht auf das Wasser starrte, schreckte zusammen, als hätte man ihn aus einem Traum gerissen.
+
+»Lotung, Junge!«, rief Joren noch einmal, schärfer. »Sechs Klafter, voraus, schnell!«
+
+Ole riß sich zusammen. Er warf das Lot, ließ die Leine durch die Hand laufen, las die Marken ab, und seine Stimme kippte, als er rief: »Fünf und eine halbe!«
+
+Fünf und eine halbe Klafter. Tiefer als berechnet. Gut. Die Sandbank wanderte nach Nordosten, nicht nach Süden, wie er befürchtet hatte. Joren nahm das Ruder eine Handbreit zurück, ließ das Schiff den Bogen der Rinne nachfahren, und in diesem Augenblick schlug die erste Granate ein.
+
+Sie traf nicht das Schiff. Sie traf das Wasser dreißig Klafter voraus, riß eine Säule aus Gischt und Schlamm empor, hoch wie ein Mast, und die Prins Christian bäumte sich auf wie ein Pferd, das die Peitsche hört, und Joren wurde gegen das Ruder geworfen, und für einen Moment war alles nur Wasser, das von oben kam, kalt und schwer und salzig, und er hörte jemanden schreien, einen dänischen Matrosen, der über Deck rutschte, und dann das dumpfe Krachen von Holz auf Holz, als irgendwo unter Deck eine Ladung verrutschte.
+
+Er spuckte Wasser. Er richtete sich auf. Er suchte die Bake.
+
+Die erste Bake war weg. Die Tonne, die alte, verrottete Tonne, die er vor drei Tagen dort verankert hatte, war nicht mehr da. Weggeschlagen, versenkt, fortgespült von der Granate, und mit ihr die halbe Peillinie, auf der sein Kurs beruhte.
+
+Joren spürte, wie ihm das Blut aus dem Gesicht wich. Nicht die Angst um sich selbst. Nicht die Angst vor dem nächsten Schuß. Etwas Kälteres, Schlimmeres: die Angst dessen, der plötzlich blind ist in einem Raum, den er mit geschlossenen Augen zu kennen glaubte.
+
+Zwei Marken blieben. Der Pfahl mit dem weißen Lappen. Der umgestürzte Mast.
+
+Zwei Punkte. Eine Linie.
+
+Er konnte es schaffen. Zwei Punkte reichten, wenn er die Strömung richtig schätzte, wenn die Flut nicht schneller stieg als berechnet, wenn der Wind nicht drehte. Zu viele Wenn. Aber es waren die einzigen, die er hatte.
+
+»Backbord zehn!«, rief Holm, und Joren begriff im selben Augenblick, daß der Kapitän recht hatte, daß die Fregatte nach Backbord versetzt werden mußte, weil voraus, halb rechts, eine zweite Gischtfontäne aufstieg, näher diesmal, und der schwedische Schütze, der sie setzte, hatte begonnen, sich einzuschießen.
+
+Joren legte das Ruder nach Backbord. Das Schiff gehorchte träge, schwerfällig, wie ein Ochse im Schlamm, und die Sekunden, die es brauchte, um den Bug zu drehen, waren die längsten, die er je gezählt hatte. Der Rauch wurde dichter. Die Sicht schrumpfte auf zehn Klafter. Irgendwo rechts, hinter der weißen Wand, hörte er das Krachen weiterer Schüsse, das Splittern von Holz, das Peitschen von Wasser, und dazwischen, immer wieder, die Stimmen der dänischen Matrosen, Flüche, Befehle, ein Gebet.
+
+»Fünf Klafter!«, rief Ole.
+
+Fünf Klafter. Die Sandbank kam näher. Joren nahm das Ruder zwei Handbreit nach Steuerbord, korrigierte, spürte den Widerstand, mit dem das Schiff sich wehrte, und dachte, ganz kurz, an Maren.
+
+Nicht an die Karte. Nicht an die Peilungen. An Maren. An das Mädchen, das am Tisch gesessen hatte, den Federkiel in der Hand, und die Zahlen in die Spalten geschrieben hatte, ohne zu zögern, ohne zu klagen, mit dieser verbissenen Genauigkeit, die sie von ihm hatte, ob er es wollte oder nicht. Maren, die jetzt irgendwo da draußen war, hinter dem Rauch, hinter der Sperre, auf einem Boot, das er nicht sah, in einem Wasser, das er nicht kontrollierte.
+
+Er verlor sie. Er verlor das Bild, so wie er die Bake verloren hatte, und es tat mehr weh, und er schob es weg, weil er es schieben mußte, weil ein Lotse, der an seine Tochter denkt, während er ein Kriegsschiff durch eine zwanzig Meter breite Rinne führt, kein Lotse mehr ist, sondern ein Trauernder, und Trauernde laufen auf Grund.
+
+»Fünf und eine halbe!«
+
+Die Rinne öffnete sich. Joren sah es an der Farbe des Wassers, an dem Streifen, der dunkler wurde, tiefer, und er sah es an dem umgestürzten Mast, der jetzt, von hier aus, genau voraus lag, genau auf der Linie, die er brauchte. Der weiße Lappen am Pfahl flatterte nach Steuerbord, der Wind drehte, wie er es befürchtet hatte, und Joren korrigierte, hielt die Linie, hielt sie, hielt sie.
+
+Hinter ihm schlug eine Granate in die Bordwand.
+
+Er hörte es, bevor er es spürte: ein Krachen, trocken und splitternd, ganz anders als das dumpfe Brüllen der Geschütze, das Krachen von Holz, das zerbricht, und dann kam der Stoß, ein Ruck, der durch das ganze Schiff lief, durch die Planken, durch das Deck, durch die Sohlen seiner Stiefel, und Joren wurde nach vorn geworfen, gegen das Ruder, und die Speiche schnitt ihm in die Handfläche, und er hörte das Schreien, das jetzt näher war, das Schreien von Männern, die getroffen waren.
+
+»Mann über Bord!«
+
+Er drehte sich nicht um. Er durfte sich nicht umdrehen. Aber er hörte es, das Platschen, das Rufen, das Klatschen der Riemen, mit denen die anderen versuchten, den Mann zu erreichen, und er hörte Holms Stimme, ruhig, eisig, befehlend: »Weiter! Weiter! Ruder halten!«
+
+Ruder halten. Joren hielt das Ruder. Das Blut lief ihm über die Hand, warm und klebrig, und er sah es nicht, er fühlte es nur, und er hielt das Ruder, und er hielt die Linie, und die Linie hielt ihn.
+
+Sie kamen durch. Er wußte es, als der umgestürzte Mast backbord an ihnen vorbeiglitt, so nah, daß er die Algen auf dem Holz sehen konnte, und als das Wasser unter dem Kiel wieder dunkel wurde, tief und ruhig, und als Ole mit einer Stimme, die vor Erleichterung zitterte, rief: »Sechs Klafter! Sechs und eine halbe!«
+
+Die Rinne lag hinter ihnen. Vor ihnen lag das offene Wasser des Neuen Tiefs, und der Rauch lichtete sich, und Joren sah, für einen Augenblick, klar: die schwedischen Batterien am Ufer, drei Schanzen, aus denen die Feuerblitze stachen wie Zungen; die dänischen Schaluppen, die hinter ihnen aus der Rinne traten, eine nach der anderen, in loser Linie; und ganz fern, am Horizont, die Masten.
+
+Er suchte sie. Er suchte sie mit einem Blick, der nicht mehr dem Ruder galt, nicht mehr der Tiefe, nicht mehr dem Kurs, sondern nur noch dem Horizont, und er fand sie nicht, und er suchte weiter, und sein Herz schlug nicht schneller, es schlug langsamer, es schlug wie ein Hammer, der zu Boden fällt.
+
+»Zwei Strich Backbord!«, rief Holm. »Wir gehen längs der Batterie!«
+
+Joren gehorchte. Aber während er das Ruder legte, während er die Fregatte auf den neuen Kurs brachte, suchte er weiter. Zwischen den Rauchfetzen, zwischen den Gischtfontänen, zwischen den Masten der Kriegsschiffe, die dort draußen lagen wie ein Wald aus Speeren. Fischerboote. Zwei Boote. Die Grete und die Hoffnung. Er suchte sie, wie ein Ertrinkender das Ufer sucht, und er fand sie nicht, und dann, als der Rauch sich für einen langen, gnädigen Augenblick teilte, sah er sie.
+
+Zwei kleine Rümpfe, tief im Wasser, dicht an der Landzunge, halb verdeckt von den Pfählen der Sperre. Sie bewegten sich. Sie bewegten sich auf die Sperre zu, auf den Durchlaß, den er selbst vermessen hatte, und Joren begriff, was sie taten, und in diesem Augenblick, in dem er es begriff, vergaß er für einen Herzschlag, wo er stand, und wo das Schiff war, und was von ihm verlangt wurde.
+
+»Herr!«, rief Ole. »Herr Voss! Die Tiefe!«
+
+Joren riß den Blick vom Horizont. Er sah das Lot in Oles Hand, sah die Leine, sah die Marken, und er sah, an der Farbe des Wassers voraus, die Sandbank, die er fast zu spät gesehen hätte, und er legte das Ruder hart nach Steuerbord, und die Prins Christian drehte, schwerfällig, knarrend, und die Sandbank glitt backbord an ihnen vorbei, so nah, daß das Kielwasser über sie hinweglief wie über einen Rücken.
+
+»Vier Klafter«, sagte Ole mit erstickter Stimme. »Vier.«
+
+Vier Klafter. Es war genug gewesen. Es war immer gerade genug gewesen, und Joren wußte, daß es nicht immer so bleiben würde, daß das Glück keine Rechengröße war, die man einplanen konnte, und daß er, wenn er jetzt einen Fehler machte, nicht nur das Schiff, sondern alles verlieren würde, was er zu retten versucht hatte.
+
+Er atmete. Er zählte. Er hielt den Kurs.
+
+Und dann, als die Fregatte sich in die Schlachtlinie einfügte, als die Geschütze zu beiden Seiten zu reden begannen, als das Wasser um sie herum zu einem einzigen, zerrissenen Feld aus Gischt und Rauch und splitterndem Holz wurde, tat Joren Voss das einzige, was er noch tun konnte. Er stand am Ruder, die blutige Hand um die Speiche, und er navigierte.
+
+Er navigierte durch das Inferno, das er mit heraufbeschworen hatte, und er suchte, bei jedem Atemzug, den er nahm, den Horizont ab, und er fand die Boote nicht mehr, und er wußte, daß sie dort draußen waren, irgendwo zwischen den Pfählen und dem Feuer, und daß er nichts, gar nichts mehr für sie tun konnte, außer das zu tun, was er tat: das Schiff halten, den Kurs halten, die Linie halten, bis das Ende kam, das niemand kannte.
+
+Der Rauch schloß sich über dem Wasser.
+
+Und irgendwo darin, hinter der weißen Wand, hörte er das Krachen von Holz, das nicht sein Holz war, und er wußte nicht, ob es die Schweden waren oder die Seinen, und er würde es nicht erfahren, nicht jetzt, nicht hier, nicht in diesem Augenblick, in dem es nur noch die Tiefe gab und den Kurs und die zwei Punkte, die ihm geblieben waren.
+
+Er hielt das Ruder.
+
+Er hielt es, wie er alles gehalten hatte, was ihm anvertraut worden war, und er wußte, daß es nicht genug sein würde, daß es nie genug gewesen war, und daß er trotzdem weitermachte, weil Weitermachen das einzige war, was ein Lotse tun konnte, wenn die See über ihm zusammenschlug.
+
+Voraus, im Rauch, blitzte es auf.
+
+Er hielt den Kurs.
+
+Die Lotleine lief durch seine Hände, naß und schwer, und alle dreißig Faden fand der Grund eine andere Tiefe, als sie haben sollte. Joren zählte nicht mehr, er fühlte. Das Seil erzählte ihm von Sand, von Schlick, von dem harten Rücken der Wrackbank, die unter dem Kiel lag wie ein schlafendes Tier, und er hielt den Kurs, den er hielt, weil jede Korrektur um einen halben Strich das Führungsschiff auf die Barre setzen würde. Über ihm, hinter ihm, neben ihm schlug die Luft in Stücke. Die schwedischen Batterien hatten das Feuer eröffnet, nicht in Salven, sondern in einem einzigen, anhaltenden Donner, der die Planken unter seinen Sohlen zittern ließ, und der Rauch, der aus den Geschützmündungen quoll, war nicht der graue Rauch von brennendem Holz, sondern ein beißendes, gelbliches Weiß, das sich über das Wasser legte wie ein Tuch, das jemand über die Fahrrinne geworfen hatte.
+
+Er sah die Peilmarken nicht mehr. Die Bake auf der Nordspitze, die er in der Nacht noch als schwarzen Strich gegen den Himmel erkannt hatte, war verschwunden, und mit ihr die zwei Kiefern, die ihm als Richtlinie gedient hatten, und was blieb, war die Lotung und das Gedächtnis, und das Gedächtnis war ein schlechter Lotse, wenn die See sich verlagerte.
+
+»Wir müssen schneller werden«, sagte Holm hinter ihm. Seine Stimme kam durch den Lärm wie durch Watte. »Die Vorhut liegt zu weit zurück. Wenn wir die Rinne nicht in einer halben Stunde passiert haben, sitzen wir im Kreuzfeuer.«
+
+Joren antwortete nicht. Er ließ die Leine wieder auslaufen, zählte die Knoten, fühlte den Grund, zog ein. Achtzehn Faden. Sand. Dann sechzehn. Schlick. Dann vierzehn. Und dann, plötzlich, zwischen zwei Lotungen, ein Ruck, ein hartes Anschlagen, das durch das Seil in seine Arme fuhr wie ein Schlag: die Wrackbank. Sie war näher, als sie sein sollte. Sie war gewandert, in den Jahren, in den Stürmen, in den Wintern, und sie lag jetzt dort, wo sie nicht lag, und er hatte keine Bake, keine Kiefer, keinen Anhaltspunkt außer dem Seil und dem Klang, den der Grund machte, wenn der Kiel ihn streifte.
+
+»Backbord zwei Strich«, sagte er, ruhig, ohne die Stimme zu heben. Der Steuermann hinter ihm wiederholte den Befehl. Das Schiff drehte sich, langsam, schwer, und Joren ließ die Leine wieder auslaufen, fühlte, zog ein, und der Grund war wieder Sand, weicher Sand, und er atmete nicht aus, weil Ausatmen Zeit kostete, und er hatte keine Zeit.
+
+Ein Einschlag traf das Wasser drei Kabelbreiten voraus. Die Fontäne stieg höher als die Marsen, eine Säule aus Wasser und Holz und schwarzem Rauch, und als sie niederging, ging sie über dem Backbordbug nieder und wusch zwei Männer von der Reling, nicht fort, nur nieder, und ihre Flüche kamen durch den Donner wie das Kreischen von Möwen. Joren sah es nicht.
+
+Der Pulverrauch kam nicht als Wolke, er kam als Wand. Sie stand zwischen den Schiffen und dem Land, grauweiß, mit gelben Rändern dort, wo die Sonne hineinschnitt, und sie roch nach Schwefel und verbranntem Papier, nach etwas, das Joren nicht benennen konnte und nicht benennen wollte. Die erste Salve der Schweden hatte die Vorhut in drei Kabelbreiten Abstand getroffen, zu kurz, zu tief, und die Fontänen, die aus dem Wasser stiegen, waren noch nicht niedergegangen, da rollte der Donner schon über das Deck hinweg wie ein Karren über Kopfsteinpflaster.
+
+»Lotung!«, rief er nach achtern, und der Matrose am Handlot wiederholte den Ruf, und das Lot fiel, und die Schnur lief durch die Hand des Mannes, und Joren zählte nicht, er wartete auf den Klang. Sand. Sand, weich, vier Faden. Er hatte vier Faden erwartet, nicht mehr, und die vier Faden waren da, und das war alles, was er brauchte, um zu wissen, dass die Rinne noch unter ihm lag, dass das Schiff noch nicht dort war, wo die Wracks lagen, dass er noch einen Fehler machen durfte, einen einzigen, und dass er ihn nicht machen würde.
+
+Die zweite Salve ging hoch, und diesmal war sie zu weit, und die Fontäne stand achteraus, hoch und weiß, und das Wasser, das niederkam, war kalt und schwer und traf die Männer am Ruder wie eine Hand. Joren spürte es nicht. Er stand an der Steuerbordseite, die Hand am Geländer, die Augen auf die Rinne gerichtet, und die Rinne war noch da, ein Streifen dunkleren Wassers zwischen den Sandbänken, und er sah sie nicht mit den Augen, er sah sie mit dem, was er in dreißig Jahren gelernt hatte, mit dem Gefühl für die Neigung des Grundes, für die Art, wie das Schiff sich hob und senkte, für das feine Zittern im Ruder, das ihm sagte, wo das Wasser tief war und wo nicht.
+
+»Lotung!«, rief er wieder, und wieder fiel das Lot, und wieder wartete er auf den Klang, und wieder war es Sand, weich, vier Faden, und er wusste, dass er noch eine Kabellänge hatte, vielleicht anderthalb, bevor die Bank begann, die die Schweden nicht kannten, die niemand kannte außer ihm und den Männern, die hier fischten, und die Männer, die hier fischten, waren nicht hier, sie waren hinter der Sperre, oder sie waren tot, oder sie waren auf dem Prahm, und er wusste es nicht, und er durfte es nicht wissen, weil Wissen jetzt nichts nützte.
+
+»Führungsschiff meldet vier Faden!
+
+---
+
+## Die Männer gehören heim
+
+> *»Die Männer gehören heim. Was auch immer geschieht, sie gehören heim.«*
+> — Lene Arndt, Thiessow, im Herbst 1715
+
+Das Deck des Prahms war kein Deck mehr, sondern ein schwimmender Trümmerplatz, und Maren begriff in dem Augenblick, als die *Hoffnung* längsseits ging, dass sie auf einem Pulverfass anlegten. Vor ihr, keine zwanzig Schritt entfernt, stand ein Stapel Fässer, notdürftig mit Segeltuch abgedeckt, und daneben ein umgestürzter Karren, dessen Rad noch langsam kreiste, als hätte jemand eben erst versucht, ihn zu bewegen. Der Geruch war das Erste, was sie überfiel: Pech, nasses Holz, Erbrochenes und darunter, süßlich und scharf zugleich, der Brandgeruch, der von der Landseite herüberwehte, wo die Schanzen lagen.
+
+Sie hielt sich am Mast der *Hoffnung* fest, während Thies mit dem Bootshaken die Plattform suchte, und sie sah, was sie nicht sehen wollte: Auf dem Prahm liefen Männer durcheinander, Soldaten und Fischer unterschiedslos, und keiner von ihnen tat etwas, das einem Befehl glich. Ein Fass rollte über die Planken, stieß gegen die Reling, blieb liegen. Ein junger Soldat kniete an der Bordwand und hielt sich die Hände vor das Gesicht. Ein anderer schrie etwas, das im Donner der Geschütze unterging.
+
+»Dort!«, rief Thies, und Maren folgte seinem Arm, und sie sah die Stelle an der Steuerbordseite, wo die Plattform am niedrigsten war, wo die Pfähle, die sie trugen, sich im Wasser kreuzten, und wo ein Tau hing, das jemand dort befestigt hatte, vielleicht für ein Beiboot, vielleicht für die Flucht.
+
+Die erste Granate schlug ein, als sie noch zehn Schritt entfernt waren.
+
+Maren sah sie nicht kommen. Sie hörte nur das Heulen, das durch die Luft schnitt wie ein Messer durch nasses Tuch, und dann brach die Welt auseinander. Die Druckwelle traf die *Hoffnung* an der Backbordseite, hob sie an, ließ sie fallen, und Maren wurde gegen die Ducht geschleudert, dass ihr die Luft aus den Lungen wich. Wasser kam über die Bordwand, eiskalt, und mit ihm ein Regen aus Holzsplittern und etwas, das sie zuerst für Hagel hielt und dann als Kies erkannte, als Schotter, den die Granate aus dem Prahm gerissen hatte.
+
+Thies hatte den Bootshaken verloren. Er lag auf den Knien, tastete nach dem Riemen, und sein Gesicht war grau, aber seine Hände arbeiteten weiter, suchten, fanden, und er stieß das Boot ab, bevor es gegen die Plattform schlug.
+
+»Festmachen!«, rief Maren, und ihre Stimme war ruhiger, als sie hätte sein dürfen, und sie wusste nicht, woher sie diese Ruhe nahm, aber sie nahm sie, und sie griff nach dem Tau, das von der Plattform hing, und zog es zu sich heran, und ihre Hände bluteten, weil das Tau alt war und voller Splitter, und sie spürte es nicht.
+
+Zweiter Einschlag. Weiter achteraus, aber der Prahm bäumte sich auf wie ein Pferd, und die Männer auf dem Deck wurden durcheinandergeworfen wie Figuren auf einem Brett. Maren sah einen von ihnen über die Reling gehen, lautlos, mit ausgebreiteten Armen, und sie sah ihn nicht wieder auftauchen. Sie sah, wie das Wasser neben der Plattform sich färbte, nicht rot, sondern trüb, als hätte jemand Asche hineingeschüttet.
+
+»Maren!«
+
+Thies’ Stimme. Sie drehte sich um, und er zeigte nach achtern, und dort, hinter dem Qualmvorhang, der über dem Wasser hing wie ein nasses Tuch, sah sie die Umrisse eines zweiten Bootes. Die *Grete*. Lene stand am Ruder, breitbeinig, das Gesicht nach vorn gerichtet, und Fiete kauerte neben ihr im Boot, klein und zusammengedrückt, und Lene brachte die *Grete* längsseits an der Plattform zum Liegen, ohne ein Wort, ohne Zögern, als hätte sie nie etwas anderes getan.
+
+Dann war Maren auf der Plattform.
+
+Sie wusste nicht, wie sie hinaufgekommen war. Ihre Hände hatten das Tau gefunden, ihre Füße hatten die Pfähle gefunden, und dann stand sie auf den nassen Planken, und um sie herum war das Chaos, das die Männer verschlang. Ein Soldat rannte an ihr vorbei, ohne sie zu sehen. Ein Fischer, den sie als Jens Paye erkannte, hockte an der Reling und starrte auf das Wasser. Die Fässer waren verrutscht, eines war aufgeplatzt, und der Inhalt, gesalzener Fisch, lag über das Deck verteilt wie etwas, das niemand mehr haben wollte.
+
+»Wo ist Rask?«, fragte sie, und niemand antwortete, und sie fragte wieder, und diesmal packte sie den Soldaten, der an ihr vorbeirannte, am Ärmel, und der Mann blieb stehen, nicht weil er wollte, sondern weil ihr Griff fester war, als er erwartet hatte.
+
+»Rask!«, sagte sie. »Der Leutnant! Wo?«
+
+Der Soldat deutete nach achtern, zum Heck, wo eine niedrige Kajüte in die Planken eingelassen war, und dann riss er sich los und lief weiter, und Maren ging in die Richtung, die er gewiesen hatte, und sie ging nicht schnell, sie ging ruhig, weil sie wusste, dass rennen jetzt nichts nützte.
+
+Die Kajütentür stand offen. Drinnen war es dunkel, und der Geruch von Pulver und Schweiß war so dick, dass Maren würgen musste, bevor sie sich fing. Rask saß auf einer Bank an der Wand, den Oberkörper gegen die Planken gelehnt, und sein linker Arm hing herab, und die Hand, die daran hing, war nicht mehr die Hand eines Mannes, der Befehle gab. Sie war rot, und das Blut lief über seine Finger, tropfte auf den Boden, bildete eine kleine Lache, die in den Fugen des Holzes verschwand.
+
+Er sah sie, und seine Augen waren klar.
+
+»Sie«, sagte er, und es war kein Gruß, es war eine Feststellung.
+
+»Sie müssen die Männer freigeben«, sagte Maren.
+
+Rask lachte, und das Lachen ging in ein Husten über, und als er die Hand vom Mund nahm, war Blut daran, aber nicht viel, und er sah es nicht an. »Freigeben«, wiederholte er. »Sie stehen auf meinem Deck, weil ich sie brauche, und Sie stehen auf meinem Deck, weil Sie etwas wollen, und ich habe keine Männer, um Sie beide zu bewachen, und keine Zeit, um mit Ihnen zu verhandeln.«
+
+»Die Dänen schießen auf dieses Fahrzeug«, sagte Maren. »In einer Stunde ist es ein Wrack. Sie können Ihre Männer retten, wenn Sie jetzt handeln.«
+
+»Meine Männer«, sagte Rask, und seine Stimme war leise, und er sah an ihr vorbei, zur offenen Tür, wo der Rauch vorbeizog wie ein grauer Vorhang. »Meine Männer sind tot oder verwundet, und die, die noch stehen, haben keine Befehle mehr, weil ich keine Befehle mehr geben kann.« Er hob die verletzte Hand, nicht viel, nur ein Stück, und ließ sie wieder sinken. »Sehen Sie das? Das ist kein Arm mehr. Das ist ein Klumpen Fleisch, der mir nicht mehr gehört.«
+
+Maren trat näher. Sie trat so nah, dass sie den Geruch seines Atems roch, alt und metallisch, und sie sah die Wunde, die nicht sauber war, die voller Splitter war und voller Stofffetzen, und sie wusste, dass der Mann nicht mehr lange stehen würde, wenn er überhaupt noch stehen konnte.
+
+»Ich kann Ihre Verwundeten mitnehmen«, sagte sie. »In meinem Boot ist Platz für zwei, vielleicht drei. Wenn Sie die Fischer freigeben, nehme ich sie mit.«
+
+Rask sah sie an, und in seinem Blick war etwas, das sie nicht deuten konnte, nicht Dankbarkeit, nicht Wut, sondern etwas Drittes, etwas, das zwischen beidem lag und keinen Namen hatte.
+
+»Sie verhandeln«, sagte er. »Wie Ihr Vater.«
+
+»Mein Vater ist nicht hier«, sagte Maren. »Ich bin hier.«
+
+Draußen schlug eine weitere Granate ein, näher diesmal, und der Prahm erzitterte so heftig, dass Maren sich an der Kajütenwand abstützen musste, und Rask wurde von der Bank geworfen, fiel auf die Seite, und sein verletzter Arm schlug gegen den Boden, und er schrie, kurz und scharf, wie ein Tier, und dann war er still.
+
+Maren kniete sich neben ihn. Sie wusste nicht, was sie tat, als sie nach seinem Arm griff, aber sie tat es, und sie hob ihn an, vorsichtig, und sie legte ihn auf die Bank zurück, und sie sah, dass die Wunde noch blutete, aber langsamer jetzt, und sie zog ihr Halstuch ab und wickelte es um seinen Arm, fest, so fest sie konnte, und Rask sah sie dabei an, ohne ein Wort.
+
+»Die Fischer«, sagte sie, als sie fertig war. »Dierk Arndt und die anderen. Wo sind sie?«
+
+Rask schloss die Augen. Einen Moment lang dachte sie, er sei ohnmächtig geworden, aber dann öffnete er sie wieder, und sie waren noch klar.
+
+»Im Laderaum«, sagte er. »Vorn, unter der Plattform. Sie sind angekettet, weil ich sie angekettet habe, weil ich keine Männer hatte, um sie zu bewachen, und weil ich nicht wusste, was ich sonst tun sollte.«
+
+»Der Schlüssel«, sagte Maren.
+
+Rask sah sie an. »In meiner Tasche«, sagte er. »Rechte Seite.«
+
+Maren griff in seine Tasche. Es war ein seltsamer Augenblick, ihre Hand an der Hüfte eines Mannes, der sie verachtete, und sie spürte die Wärme seines Körpers durch den Stoff, und sie spürte etwas anderes, etwas Hartes, das der Schlüssel war, und sie zog ihn heraus, und er war kalt und schwer in ihrer Hand.
+
+»Ich komme zurück«, sagte sie. »Mit einem Boot. Für Sie und Ihre Verwundeten.«
+
+Rask sagte nichts. Er sah sie nur an, und in seinem Blick war etwas, das sie nicht verstand, und sie hatte keine Zeit, es zu verstehen.
+
+Sie lief.
+
+Der Weg zum Laderaum war ein Weg durch Trümmer. Die Plattform war an zwei Stellen aufgebrochen, und durch die Spalten sah Maren das Wasser, dunkel und ölig, und darin trieben Dinge, die sie nicht ansehen wollte. Ein Soldat lag an der Reling, das Gesicht nach oben, und über ihm stand ein Kamerad und rüttelte ihn, als könnte er ihn wecken. Der Rauch war dichter geworden, und Marens Augen brannten, und sie hustete, während sie lief, und sie stolperte über ein Tau, fing sich, lief weiter.
+
+Die Luke zum Laderaum war ein dunkles Viereck im Boden, und daneben stand ein Soldat, jung, kaum älter als Fiete, und er hielt ein Gewehr, und das Gewehr zitterte in seinen Händen.
+
+»Nicht weiter«, sagte er, und seine Stimme überschlug sich.
+
+»Ich habe den Schlüssel«, sagte Maren, und sie hielt ihn hoch, und der Soldat sah ihn an, und sie sah, dass er nicht wusste, was er tun sollte.
+
+»Ich habe Befehl«, sagte er.
+
+»Dein Leutnant liegt in der Kajüte und blutet aus«, sagte Maren. »Er hat mir den Schlüssel gegeben. Willst du ihn fragen?«
+
+Der Soldat sah zur Kajüte, und dann sah er wieder Maren an, und dann ließ er das Gewehr sinken, nicht viel, nur ein Stück, aber es war genug.
+
+Maren stieg die Leiter hinab. Der Laderaum war dunkel, und es stank nach Urin und nach Angst, und dann hörte sie eine Stimme, die sie kannte.
+
+»Maren?«
+
+Dierk. Sie fand ihn an der Wand, angekettet wie die anderen, und sein Gesicht war grau, und sein Fuß, der Fuß, den der Pfahl zerschmettert hatte, war in einen schmutzigen Verband gewickelt, und der Verband war durchgeblutet, aber Dierk lebte, und er sah sie an, und in seinen Augen war etwas, das sie fast umwarf.
+
+»Du bist gekommen«, sagte er.
+
+»Ich bin gekommen«, sagte Maren, und sie kniete sich neben ihn und schloss die Kette auf, und ihre Hände zitterten jetzt, wo sie es nicht mehr brauchte, und sie fluchte leise, weil das Schloss nicht aufging, und dann ging es auf, und Dierk war frei.
+
+Sie befreite die anderen. Hannes Tamm, der nicht sprechen konnte, weil seine Zunge vor Durst angewachsen war. Kruse, der weinte, ohne es zu merken. Jens Paye, der schon oben gewesen war und wieder heruntergekommen war, um zu helfen. Vier Männer, die aussahen wie Greise, und einer von ihnen war dreißig.
+
+Als sie wieder an Deck kamen, war die Welt noch lauter geworden. Die dänischen Schiffe hatten die Sperre durchbrochen, und Maren sah sie jetzt, drei, vier dunkle Rümpfe im Rauch, und zwischen ihnen die Fontänen der schwedischen Geschosse, und es war wie ein Bild, das jemand gemalt hatte, um zu zeigen, wie die Hölle aussah.
+
+Die *Grete* lag noch längsseits. Lene stand am Ruder, und ihr Gesicht war ruhig, und sie hatte die *Grete* nicht verlassen, weil sie wusste, dass sie gebraucht wurde. Fiete hockte neben ihr, und er sah die Männer, die aus dem Laderaum kamen, und sein Gesicht hellte sich auf, und dann sah er seinen Vater, und er schrie, und Dierk hörte ihn, und Dierk weinte jetzt auch, aber er weinte, während er ging.
+
+»Einsteigen!«, rief Lene. »Schnell!«
+
+Maren half Dierk über die Reling, und Thies fing ihn auf, und die anderen folgten, einer nach dem anderen, und die *Grete* sank tiefer ins Wasser, und Lene fluchte, weil sie wusste, was das bedeutete.
+
+»Rask«, sagte Maren. »Ich habe ihm gesagt, ich komme zurück.«
+
+Thies sah sie an. »Du hast was?«
+
+»Er hat den Schlüssel gegeben«, sagte Maren. »Und ich habe gesagt, ich nehme seine Verwundeten mit.«
+
+Thies sagte nichts. Er sah sie an, und in seinem Blick war etwas, das sie nicht deuten konnte, und dann nickte er, nur einmal, und er ging zur Kajüte.
+
+Sie brachten Rask heraus. Er konnte nicht mehr gehen, und sie trugen ihn, Thies und Maren, und der junge Soldat, der an der Luke gestanden hatte, half, und sie legten Rask in die *Grete*, wo er zwischen den Fischern lag, die er festgehalten hatte, und keiner von ihnen sagte ein Wort.
+
+Dann kam der Einschlag.
+
+Maren hörte ihn nicht. Sie spürte ihn. Die Welt wurde zu einem einzigen Stoß, der sie von den Füßen hob und gegen die Reling warf, und als sie wieder sehen konnte, war die *Hoffnung* nicht mehr da, wo sie gewesen war. Sie war zehn Schritt entfernt, und sie war leck, und das Wasser kam über die Bordwand, und Thies stand an der Reling der *Grete* und sah sein Boot sinken, und sein Gesicht war leer.
+
+»Thies!«, rief Maren.
+
+Er drehte sich um. Er sah sie an, und dann sah er die *Grete* an, die voll war, voller Menschen, voller Verwundeter, voller Angst, und er sah, dass kein Platz mehr war für ihn, wenn er nicht jemanden hinauswarf.
+
+»Los!«, rief er. »Bringt sie weg!«
+
+»Komm!«, rief Maren zurück.
+
+Thies schüttelte den Kopf. Er zeigte auf die *Grete*, auf die Menschen darin, auf Dierk, auf Rask, auf Fiete, und dann zeigte er auf die *Hoffnung*, die noch nicht ganz gesunken war, die noch schwamm, aber nicht mehr lange.
+
+»Ich komme nach!«, rief er. »Auf der *Hoffnung* ist Platz für einen!«
+
+Maren wollte widersprechen. Sie wollte schreien, dass er ein Narr sei, dass die *Hoffnung* sinke, dass er ertrinken würde, aber Lene war schneller.
+
+»Er hat recht«, sagte Lene. »Wir können nicht alle mitnehmen. Er kommt nach.«
+
+Und dann legte Lene das Ruder um, und die *Grete* drehte ab, und Maren sah Thies, wie er über die Reling der *Hoffnung* stieg, wie er das Tau löste, wie er das Boot drehte, langsam, mühsam, und sie sah, dass es tiefer lag als vorher, und sie wusste, dass es nicht mehr lange schwimmen würde.
+
+Sie sah es, bis der Rauch es verschluckte.
+
+Die *Grete* war schwer beladen. Neun Menschen lagen und saßen und knieten auf einem Boot, das für vier gebaut war, und das Wasser stand bis zur obersten Planke, und Lene stand am Ruder und hielt den Kurs, und Maren kniete neben Dierk und hielt seinen Fuß, weil er sonst gegen die Ducht schlug, und Rask lag zwischen den Fischern, die er festgehalten hatte, und der junge Soldat saß neben ihm und hielt seine Hand.
+
+Keiner sprach. Es gab nichts zu sagen.
+
+Dann, als sie die Sperre passiert hatten, als das Feuer hinter ihnen leiser wurde, als der Rauch sich lichtete und der Himmel wieder sichtbar wurde, grau und kalt und gleichgültig, sagte Dierk: »Ihr habt mich geholt.«
+
+»Ja«, sagte Maren.
+
+»Ihr hättet es nicht tun sollen«, sagte Dierk. »Nicht so.«
+
+Maren sah ihn an. »Wie denn sonst?«
+
+Dierk antwortete nicht. Er sah auf das Wasser, auf die Wellen, die gegen die Bordwand schlugen, und dann sah er seine Frau an, die am Ruder stand, und seine Augen wurden weich.
+
+»Lene«, sagte er.
+
+»Später«, sagte Lene. »Erst heim.«
+
+Und Maren sah, wie Dierk nickte, und wie er die Augen schloss, und wie sein Atem ruhiger wurde, und sie wusste, dass er nicht schlief, sondern dass er die Augen schloss, weil er nicht sehen wollte, was aus ihm geworden war.
+
+Am Horizont, hinter ihnen, brannte die Sperre. Die dänischen Schiffe hatten sie durchbrochen, und die schwedischen Schanzen antworteten noch, aber es war ein Nachhutgefecht, kein Angriff mehr, und Maren wusste, dass die Schlacht entschieden war, ohne zu wissen, wer sie gewonnen hatte.
+
+Sie sah nach vorn. Vor ihnen lag der Bodden, grau und still, und dahinter, kaum sichtbar im Dunst, die Küste von Mönchgut, und irgendwo dort war Thiessow, und irgendwo dort war ihr Vater, und irgendwo dort war Thies, der auf einem lecken Boot hinter ihnen herkam oder nicht.
+
+Sie wusste es nicht. Sie konnte es nicht wissen. Sie konnte nur rudern, nur steuern, nur dafür sorgen, dass die *Grete* nicht sank, dass die Menschen an Bord lebten, dass sie heimkamen.
+
+»Die Männer gehören heim«, sagte Lene, und es war kein Satz an jemanden gerichtet, es war ein Satz an das Wasser, an den Wind, an die Gleichgültigkeit der Welt.
+
+Maren nickte. Sie nahm den Riemen, den Lene ihr reichte, und sie ruderte, und ihre Hände bluteten, und sie spürte es nicht, und sie dachte an Thies, an seinen Rücken, an seine Hände, an die Art, wie er gesagt hatte, er komme nach, und sie wusste, dass er log, und sie wusste, dass er es tat, um sie zu schonen, und sie hasste ihn dafür und liebte ihn dafür, und sie ruderte weiter.
+
+Der Rauch stand hinter ihnen wie eine Wand, und über der Wand, hoch und fern, stand ein Streifen Himmel, blau und klar, und Maren sah ihn, und sie dachte, dass sie diesen Himmel nie vergessen würde, und dass sie ihn nie wieder so sehen würde wie jetzt, auf einem Boot, das zu schwer beladen war, zwischen Menschen, die einander gerettet hatten, ohne es zu wollen.
+
+---
+
+## Der letzte Wartepunkt
+
+> »Ein Lotse, der sein Fahrwasser kennt, wartet nicht auf günstigen Wind. Er wartet auf den richtigen Augenblick.«
+> – Merksatz der Lotsenbruderschaft von Rügen, mündlich überliefert
+
+Das Wasser vor der Riff-Engstelle war trüb, ein Gemisch aus aufgewühltem Schlick und dem Rauch, der von Süden herüberwehte. Joren Voss stand an der Reling der Führungsschaluppe, das Fernrohr in der bandagierten Hand, und spürte, wie das Schiff unter ihm träge in der Strömung arbeitete. Sie hatten den vorbereiteten Haltepunkt erreicht, jene flache Bucht im Windschatten des Ruden, die er Holm vor Wochen beschrieben hatte. Die dänischen Schaluppen lagen hier geduckt wie schlafende Tiere, die Boote dicht an dicht, die Riemen eingelegt, die Segel geborgen. Nur das Knarren des Tauwerks und das ferne, dumpfe Rollen der Geschütze durchbrachen die Stille.
+
+Er setzte das Fernrohr an. Die Sicht war schlecht, der Dunst hing in Fetzen über dem Wasser, aber er kannte die Umrisse der Sperre, er kannte die Silhouette der Wracks, er kannte die Stelle, an der die *Grete* hätte sein müssen.
+
+Es war eine Weile her, seit er sie zum letzten Mal gesehen hatte, im Inferno vor den Wracks, ein flüchtiger Blick nur, ein Schatten zwischen Rauch und Gischt. Seitdem hatte er navigiert, hatte die *Prins Christian* durch die Rinne gebracht, hatte seine Peilmarken verloren und neu gesetzt und schließlich das Schiff in tiefes Wasser geführt. Holm hatte ihn nicht gehen lassen. Holm hatte gesagt: *Ihr bleibt an Bord, bis wir den Anker werfen.* Und Joren war geblieben, weil es keinen anderen Weg gab, weil ein Lotse sein Schiff nicht verlässt, solange es Fahrt macht.
+
+Jetzt aber lag die Schaluppe still, und das Fernrohr zeigte ihm, was er befürchtet hatte.
+
+Die *Grete* war da. Sie trieb schwerfällig im trüben Wasser diesseits der Riff-Engstelle, tief beladen, so tief, dass die Freibordkante kaum eine Handbreit über dem Wasser stand. Er erkannte die Umrisse, erkannte die überladene Form, erkannte die Art, wie das Boot im Strom hing, nicht steuernd, sondern getrieben. Sie war nicht gesunken. Aber sie war auch nicht in Sicherheit.
+
+Und daneben – nichts.
+
+Das zweite Boot fehlte.
+
+Joren hielt den Atem an. Er suchte das Wasser ab, suchte die Rauchfahnen, suchte den Streifen zwischen den Wracks und der Sandbank, wo die *Hoffnung* hätte sein müssen. Nichts. Kein Boot, kein Wrack, kein Zeichen. Nur Wasser und Dunst und die Gleichgültigkeit der Strömung.
+
+Er ließ das Fernrohr sinken. Seine bandagierte Hand schmerzte, aber er spürte es kaum. In seinem Kopf rechnete es bereits, ratterte es, fügte es zusammen, was er sah und was er nicht sah. Die *Grete* war überladen. Die *Grete* trieb. Die *Grete* hatte kein zweites Boot neben sich, das hätte helfen können, das hätte Menschen aufnehmen können, das hätte – Thies.
+
+Er schloss die Augen für einen Lidschlag. Dann öffnete er sie wieder, und sein Gesicht war ruhig, und seine Stimme, als er sprach, war die Stimme eines Lotsen, nicht die eines Vaters.
+
+»Herr Holm«, sagte er.
+
+Frederik Holm stand am Heck der Schaluppe, die Karte vor sich auf einem Brett, den Zirkel in der Hand. Er sah auf. Sein Gesicht war grau vom Pulverdampf, die Uniformflecken dunkel von Nässe, aber seine Augen waren wach, präzise, unbestechlich.
+
+»Was gibt es?«
+
+»Wir müssen halten«, sagte Joren.
+
+Holm sah ihn an, eine Sekunde zu lang. »Wir sind am Haltepunkt. Wir halten bereits.«
+
+»Länger«, sagte Joren. »Wir müssen länger halten.«
+
+Holm legte den Zirkel hin. Er trat näher, und seine Stimme blieb ruhig, aber sie bekam eine Schärfe, die Joren kannte, die er respektierte und fürchtete. »Erklären Sie das.«
+
+Joren deutete mit dem Fernrohr nach vorn, auf die trübe Rinne, auf die Stelle, wo das Wasser zwischen den versenkten Wracks und der wandernden Sandbank hindurchfloss. »Die Strömung hat gedreht«, sagte er. »Sie läuft jetzt aus Nordwest, und sie schiebt Sand in die Rinne. Wenn wir jetzt durchgehen, laufen wir auf. Das Wasser fällt noch eine halbe Stunde, dann steigt es wieder, aber in der Zwischenzeit wird die Rinne zu flach für die Schaluppen.«
+
+Holm sah ihn an. »Sie haben diese Rinne vermessen. Sie haben gesagt, sie sei passierbar.«
+
+»Sie war passierbar«, sagte Joren. »Vor zwei Stunden. Vor dem Gefecht. Aber die Strömung arbeitet, und die Wracks arbeiten, und der Sand arbeitet. Ich kann nicht durch eine Rinne lotsen, die sich unter mir verändert, ohne sie neu zu peilen.«
+
+Er sprach ruhig. Er sprach sachlich. Er sprach wie ein Mann, der Fakten vorträgt, nicht wie ein Mann, der Zeit gewinnen will. Aber während er sprach, sah er das Boot vor sich, die überladene *Grete*, die kaum noch über dem Wasser stand, und er wusste, dass jede Minute, die er hier gewann, eine Minute war, in der Lene und Maren und Dierk und die anderen vielleicht das flache Wasser erreichten, vielleicht die Riff-Engstelle passierten, vielleicht in Sicherheit kamen.
+
+Holm schwieg. Er sah Joren an, und Joren spürte, wie dieser Blick ihn durchleuchtete, wie er suchte und prüfte und abwog. Holm war kein Rask. Holm war nicht grausam aus Pflicht, nicht unnachgiebig aus Angst. Holm war ein Offizier, der Zusagen einhielt und Lügen erkannte, und Joren wusste, dass er auf dünnem Eis stand.
+
+»Sie wollen Zeit gewinnen«, sagte Holm.
+
+Es war keine Frage.
+
+Joren hielt seinem Blick stand. »Ja«, sagte er.
+
+Holm sah ihn an, und etwas in seinem Gesicht verschob sich, eine Spur von Müdigkeit, eine Spur von Verständnis. »Für wen?«
+
+»Für die Menschen auf der *Grete*«, sagte Joren. »Für meinen Schwiegersohn, der auf einem lecken Boot hinter uns liegt. Für die Fischer, die ich in diese Sache hineingezogen habe. Für alle, die ich nicht retten kann, wenn wir jetzt durchbrechen.«
+
+Er sagte es ohne Pathos. Er sagte es, weil es die Wahrheit war, und weil Holm die Wahrheit verlangte, und weil er zu müde war, um zu lügen.
+
+Holm schwieg lange. Das Geschützfeuer in der Ferne war lauter geworden, ein dumpfes, regelmäßiges Rollen, das die Luft erzittern ließ. Irgendwo im Dunst, hinter der Sperre, kämpften schwedische Nachhuten gegen dänische Vorhuten, und irgendwo dort trieb ein Boot, das Joren nicht sehen konnte, und ein Mann, den er nicht retten konnte.
+
+»Wie lange?«, fragte Holm.
+
+»Eine halbe Stunde«, sagte Joren. »Vielleicht weniger. Ich muss die Rinne neu peilen, ich muss die Tonnen setzen, ich muss wissen, wo der Sand liegt und wo das Wasser tief genug ist. Wenn ich das nicht tue, laufen wir auf, und dann verlieren wir nicht eine halbe Stunde, sondern den ganzen Tag.«
+
+Holm sah ihn an. »Und wenn die schwedischen Schanzen in der Zwischenzeit Verstärkung erhalten? Wenn die Nachhut sich neu formiert?«
+
+»Dann haben wir ein Problem«, sagte Joren. »Aber wenn wir jetzt durchbrechen und auflaufen, haben wir ein größeres.«
+
+Holm nickte langsam. Er trat an die Reling, sah hinaus in den Dunst, auf die Rinne, auf das trübe Wasser, das sich unter der Strömung kräuselte. Dann drehte er sich um, und seine Stimme war die eines Befehlshabers.
+
+»Wir halten«, sagte er. »Eine halbe Stunde. Keine Minute länger.«
+
+Joren atmete aus. »Danke«, sagte er.
+
+Holm sah ihn an, und in seinem Blick lag etwas, das Joren nicht deuten konnte. »Danken Sie mir nicht«, sagte er. »Ich tue es nicht für Sie. Ich tue es, weil ein aufgelaufenes Schiff mir mehr schadet als eine halbe Stunde Verzögerung. Und weil ich wissen will, ob Sie recht haben.«
+
+Er wandte sich ab, ging zum Rudergänger, gab Befehle. Die Schaluppe drehte langsam bei, die Riemen wurden eingelegt, das Boot kam zum Stehen. Joren blieb an der Reling, das Fernrohr in der Hand, und sah hinaus auf das Wasser.
+
+Die *Grete* trieb noch immer diesseits der Riff-Engstelle. Sie bewegte sich kaum, sie hing im Strom wie ein Blatt, das nicht wusste, wohin. Er konnte die Umrisse der Menschen an Bord erkennen, kleine dunkle Flecken, die sich bewegten, die arbeiteten, die ruderten. Er konnte nicht erkennen, wer es war. Er konnte nicht erkennen, ob Maren dort stand oder Lene oder Dierk oder alle. Er konnte nur sehen, dass das Boot noch schwamm, dass es noch trieb, dass es noch nicht gesunken war.
+
+Und daneben – nichts.
+
+Das zweite Boot fehlte.
+
+Er senkte das Fernrohr. Sein Blick fiel auf die bandagierte Hand, auf das Blut, das durch den Stoff drang, auf die Wunde, die er nicht spürte. Er dachte an Thies, an den Jungen, der immer zu spät gekommen war, der immer das Falsche gesagt hatte, der immer gegangen war, wenn er hätte bleiben sollen. Er dachte an die *Hoffnung*, an das Boot, das Thies mit seinen eigenen Händen gebaut hatte, an die Planken, die er gekrümmt, an die Nägel, die er geschlagen, an die Stunden, die er in der Werkstatt verbracht hatte, um sich etwas zu schaffen, das ihm gehörte.
+
+Und er dachte an Maren, an seine Tochter, die auf der *Grete* stand oder nicht stand, die ruderte oder nicht ruderte, die lebte oder nicht lebte. Er wusste es nicht. Er konnte es nicht wissen. Er konnte nur warten, nur peilen, nur das tun, was ein Lotse tut: die Rinne vermessen, die Tonnen setzen, den Weg bereiten.
+
+Er ging zum Bug der Schaluppe, wo Ole Paye stand, das Lot in der Hand, das Gesicht blass vor Erschöpfung. Der Junge sah ihn an, und in seinen Augen lag die gleiche Frage, die Joren nicht beantworten konnte.
+
+»Wir peilen neu«, sagte Joren. »Von vorn. Die Rinne hat sich verändert.«
+
+Ole nickte. Er sagte nichts. Er wusste, dass es nicht um die Rinne ging. Er wusste, dass es um das Boot ging, das dort draußen trieb, und um das Boot, das fehlte, und um den Mann, der auf ihm gewesen war. Aber er sagte nichts, weil es nichts zu sagen gab, weil Worte nicht halfen, weil das Wasser keine Antwort gab.
+
+Joren nahm das Lot, ließ es sinken, spürte, wie es den Grund berührte, zählte die Faden, notierte die Tiefe. Das Wasser war trüb, aber das Lot war ehrlich, und der Grund war ehrlich, und die Strömung war ehrlich, und das war alles, worauf er sich verlassen konnte.
+
+Er peilte die Rinne neu, Marke für Marke, Lotung für Lotung. Er ließ Ole die Tonnen setzen, dort, wo das Wasser tief genug war, dort, wo die Schaluppen passieren konnten, ohne aufzulaufen. Er arbeitete schnell, aber ohne Hast, weil Hast der Tod des Lotsen ist, weil ein Fehler jetzt nicht nur ihn, sondern alle an Bord in den Grund bohren würde.
+
+Während er arbeitete, hörte er das Geschützfeuer. Es war lauter geworden, näher, ein dumpfes, unregelmäßiges Rollen, das die Luft erzittern ließ und die Planken der Schaluppe vibrieren. Irgendwo dort draußen, hinter der Sperre, kämpften Menschen, die er nicht kannte, um Dinge, die er nicht verstand. Und irgendwo dort draußen, auf einem Boot, das er nicht sehen konnte, kämpfte ein Mann, den er kannte, um sein Leben.
+
+Er peilte weiter. Er ließ das Lot sinken, zählte die Faden, notierte die Tiefe. Er sah die Strömung, sah die Wirbel, sah die Stellen, an denen der Sand wanderte. Er kannte dieses Wasser. Er hatte es sein Leben lang befahren, hatte es bei Sturm und bei Flaute gesehen, hatte es bei Hochwasser und bei Niedrigwasser vermessen. Aber es war nie dasselbe. Es veränderte sich, es arbeitete, es lebte.
+
+Wie die Menschen. Wie die Boote. Wie die Zeit.
+
+Er dachte an Holm, an den Mann, der ihm eine halbe Stunde gegeben hatte, nicht aus Güte, sondern aus Kalkül. Er dachte an Rask, an den Offizier, der grausam gewesen war aus Pflicht, nicht aus Lust. Er dachte an Maren, an seine Tochter, die ihn gezwungen hatte, ehrlich zu sein, die ihn gezwungen hatte, sie mitzunehmen, die ihn gezwungen hatte, sie als ebenbürtig anzuerkennen.
+
+Und er dachte an sich selbst, an den Mann, der immer geglaubt hatte, allein entscheiden zu müssen, der immer geglaubt hatte, die Verantwortung allein tragen zu können, der immer geglaubt hatte, dass Schweigen Schutz sei.
+
+Er hatte sich geirrt.
+
+Er hatte sich in vielem geirrt.
+
+Er ließ das Lot sinken, zählte die Faden, notierte die Tiefe. Die Rinne war passierbar. Sie war schmal, sie war tückisch, sie war gefährlich, aber sie war passierbar. Er würde die Schaluppen durchbringen, wenn die Zeit gekommen war. Er würde sie durchbringen, weil er es versprochen hatte, weil Holm ihm vertraute, weil die Männer an Bord ihm vertrauten.
+
+Aber zuerst würde er warten. Er würde warten, bis die *Grete* das flache Wasser erreicht hatte, bis sie die Riff-Engstelle passiert hatte, bis sie in Sicherheit war. Er würde warten, auch wenn es ihn das Vertrauen kostete, das er sich erworben hatte. Er würde warten, weil es das Einzige war, was er noch tun konnte.
+
+Er richtete sich auf. Sein Rücken schmerzte, seine Hand pochte, seine Augen brannten vom Dunst und vom Rauch. Er sah zum Heck der Schaluppe, wo Holm stand, die Karte vor sich, den Zirkel in der Hand, das Gesicht ruhig und wach.
+
+Holm sah auf. Ihre Blicke trafen sich über das Deck, über das trübe Wasser, über die Gleichgültigkeit der Welt.
+
+Joren nickte.
+
+Holm nickte zurück.
+
+Es war keine Freundschaft. Es war kein Vertrauen. Es war eine Übereinkunft, ein Handel, ein Pakt zwischen zwei Männern, die sich nicht mochten, die sich nicht verstanden, die aber wussten, dass sie einander brauchten.
+
+Joren wandte sich ab. Er sah hinaus auf das Wasser, auf die *Grete*, die noch immer trieb, auf die Rinne, die noch immer wartete, auf den Dunst, der sich langsam lichtete und einen Streifen Himmel freigab, grau und kalt und gleichgültig.
+
+Er dachte an Thies. Er dachte an das Boot, das fehlte. Er dachte an die *Hoffnung*, an die Planken, an die Nägel, an die Stunden in der Werkstatt.
+
+Und er dachte an Maren, an seine Tochter, die auf der *Grete* stand oder nicht stand, die ruderte oder nicht ruderte, die lebte oder nicht lebte.
+
+Er wusste es nicht. Er konnte es nicht wissen. Er konnte nur warten, nur peilen, nur das tun, was ein Lotse tut: den Weg bereiten, die Rinne vermessen, die Tonnen setzen.
+
+Er nahm das Lot wieder auf. Er ließ es sinken, zählte die Faden, notierte die Tiefe. Das Wasser war trüb, aber das Lot war ehrlich, und der Grund war ehrlich, und die Strömung war ehrlich, und das war alles, worauf er sich verlassen konnte.
+
+Über ihm, hoch und fern, stand ein Streifen Himmel, blau und klar, und Joren sah ihn, und er dachte, dass er diesen Himmel nie vergessen würde, und dass er ihn nie wieder so sehen würde wie jetzt, auf einem fremden Schiff, zwischen Menschen, die er nicht kannte, im Angesicht einer Rinne, die er vermessen musste, während draußen auf dem Wasser ein Boot trieb, das er nicht retten konnte.
+
+Er peilte weiter. Er zählte die Faden. Er notierte die Tiefe.
+
+Und er wartete.
+
+Er würde diesen Himmel nicht vergessen, und er würde ihn nicht deuten, und er würde ihn nicht für ein Zeichen halten, und er würde weiterpeilen, bis Holm ihn ablöste oder bis die Rinne passiert war, und dann würde er tun, was ein Lotse tat: schweigen, notieren, warten.
+
+---
+
+## Neun Menschen
+
+> »Es ist ein elend Unglück, wenn ein Schiff sinkt, und die See nimmt alles, was der Mensch mit Mühe gebaut. Aber es ist ein größer Unglück, wenn ein Mensch sein Herz an ein Schiff hängt und vergisst, dass er selbst aus Fleisch und Blut gemacht ist und nicht aus Eichenholz.«
+> — Aus dem Tagebuch des Lotsen Peter Janssen, Thiessow, 1703
+
+Das Wasser kam nicht von einer Seite. Es kam von allen Seiten zugleich, durch die Fugen, durch die Plankenstöße, durch das Leck, das die Granate in die Backbordseite gerissen hatte, und Thies Arndt begriff in dem Augenblick, in dem er die Hand auf die Innenseite der Bordwand legte, dass die *Hoffnung* nicht mehr zu halten war.
+
+Es war kein dumpfes Gefühl, kein vages Ahnen. Es war eine Rechnung, die er nicht zum ersten Mal aufstellte. Ein Boot, das Wasser zog, verlor Auftrieb, verlor Geschwindigkeit, verlor Zeit. Und Zeit war das Einzige, was zwischen den neun Menschen auf der *Grete* und dem sicheren Flachwasser lag. Er hätte es wissen müssen, als er die *Hoffnung* bestieg, als er die anderen vorausschickte, als er die Leine warf und sich absetzte. Er hatte es gewusst. Er hatte es gewusst und war trotzdem gegangen, weil ein Boot nicht das war, was auf dem Spiel stand.
+
+Der Wind stand aus Nordwest, böig und kalt, und trieb den Pulverrauch in Schwaden über den Bodden, sodass die Sicht bald dreißig Schritt, bald dreihundert Schritt betrug. In den klaren Momenten sah Thies die *Grete* achteraus, tief im Wasser, überladen bis an die Ruderpforten, und auf ihrem Deck die zusammengedrängten Gestalten, die er nicht mehr einzeln unterschied. In den trüben Momenten sah er nur Grau, und das Grau war schlimmer als das Feuer, weil es nichts verhieß.
+
+Er war allein auf der *Hoffnung*. Das war die eine Entscheidung, die er nicht bereute. Die Fischer lagen auf der *Grete*, der verwundete Rask lag auf der *Grete*, der junge dänische Soldat lag auf der *Grete*, und Maren stand am Ruder der *Grete*, und Lene zog die Schoten der *Grete*, und Fiete lenzte das Wasser aus der *Grete*, das über die Bordwand schwappte. Neun Menschen. Er hatte sie gezählt, als sie überstiegen, einer nach dem anderen, und er hatte gewusst, dass die *Grete* für sechs gebaut war und für vier beladen, und dass neun auf einem solchen Boot nicht fahren, sondern treiben.
+
+Er zog das Ruder an, um die *Hoffnung* achteraus zu halten, und spürte, wie das Boot unter ihm nachgab, wie es sich schwerfällig drehte, wie das Wasser in der Bilge gegen die Planken schlug. Er hatte die *Hoffnung* vor zwei Jahren gekauft, mit Erspartem und mit Schulden, und sie war das Beste, was er besaß, und sie war das Einzige, was er besaß, was zählte. Er hatte die Planken selbst gekalfatert, die Riemen selbst geschnitzt, die Segel selbst genäht, und er kannte jede Fuge, jede Naht, jeden Nagel. Er wusste, wo sie hielt. Er wusste, wo sie nachgeben würde. Er wusste, dass sie nicht mehr lange nachgeben musste.
+
+Ein Kanonenschlag, nah und dumpf, ließ das Wasser erzittern. Die *Hoffnung* schlingerte, nahm eine Böe über den Bug, und Thies ging in die Knie, um nicht über Bord zu gehen. Als er sich aufrichtete, sah er die *Grete* wieder, klarer jetzt, und er sah, dass sie nicht mehr achteraus war. Sie war abgetrieben, seitwärts, in die Richtung der Untiefe, die er selbst in der Karte eingezeichnet hatte, die flache Bank, die bei Niedrigwasser trockenfiel und bei Hochwasser zwei Faden stand. Es war nicht mehr weit bis dorthin. Es war nicht mehr weit bis zum Flachwasser, bis zu der Stelle, an der ein Boot wie die *Grete* Grund berühren und Menschen von Bord lassen konnte, ohne dass sie ertranken.
+
+Er musste die *Grete* erreichen. Er musste ihr sagen, dass sie zu schwer war, dass sie Ballast werfen mussten, dass sie die Netze kappen mussten, dass sie alles über Bord werfen mussten, was nicht atmete. Er zog das Ruder hart an, um die *Hoffnung* auf die *Grete* zuzudrehen, und in diesem Augenblick hörte er das Geräusch, das er sein Leben lang nicht vergessen würde.
+
+Es war kein Krachen. Es war ein Seufzen. Ein tiefes, langsames Seufzen, als ob das Holz selbst den Atem anhielte, und dann ein Bersten, das von unten kam, von der Wasserlinie, von der Stelle, an der die Granate das Leck gerissen hatte, und Thies spürte, wie die *Hoffnung* unter ihm wegsackte, wie der Bug sich hob und das Heck sich senkte, wie das Wasser über die Achterbank stieg und seine Stiefel füllte.
+
+Er hatte keine Zeit mehr.
+
+Er blickte über die Schulter. Die *Grete* war noch da, hundert Schritt entfernt, vielleicht achtzig, und er sah Maren am Ruder, er sah ihr Gesicht, klein und blass, und er sah, dass sie zu ihm herüberschaute, und er wusste, dass sie begriff, was geschah. Er hob die Hand. Er winkte nicht. Er hob die Hand, als ob er etwas festhielte, was nicht mehr zu halten war, und dann ließ er sie sinken.
+
+Er ging nach vorn, watete durch das Wasser, das ihm bis an die Knie stand, und erreichte die Klampe, an der die Schleppleine befestigt war. Es war die Leine, mit der er die *Hoffnung* achteraus hielt, die Leine, die sie mit der *Grete* verband, die Leine, die ihn hielt. Er legte die Hand auf den Tampen, und er zögerte.
+
+Es war ein Boot. Es war Holz und Pech und Segeltuch. Es war zwei Jahre Arbeit und ein Leben lang Schulden. Es war die *Hoffnung*, und sie war der einzige Beweis, dass er etwas konnte, dass er etwas war, dass er nicht bloß der jüngere Bruder seiner Schwester war und der Mann, der Maren Voss nicht heiraten konnte, weil er nichts besaß. Er hatte sie gekauft, um zu bleiben. Er hatte sie gekauft, um zu beweisen, dass er bleiben konnte. Und jetzt musste er sie loslassen, um zu bleiben.
+
+Er zog das Messer aus dem Gürtel. Er setzte die Klinge an den Tampen, und er schnitt.
+
+Das Tau fiel ins Wasser, und die *Hoffnung* war frei, und sie sackte sofort tiefer, als ob sie auf das Loslassen gewartet hätte. Thies stieg auf die Bank, die noch über Wasser lag, und sah zu, wie das Boot sich drehte, wie es sich auf die Seite legte, wie das Wasser über die Bordwand strömte und die Ducht füllte. Es ging schnell. Schneller, als er gedacht hatte. Ein Boot, das sinkt, sinkt nicht langsam. Es sinkt in dem Augenblick, in dem es aufhört, ein Boot zu sein, und anfängt, Holz zu sein.
+
+Er sah die Werkzeugkiste, die er vor Jahren gezimmert hatte, aus dem Wasser ragen und wieder versinken. Er sah den Riemen, den er selbst geschnitzt hatte, davontreiben. Er sah den Namen, den er mit weißer Farbe auf den Bug gemalt hatte, *Hoffnung*, und er sah, wie die Buchstaben verschwanden, einer nach dem anderen, das H, das O, das F, und dann war der Bug unter Wasser, und dann war das ganze Boot unter Wasser, und dann war da nur noch eine Strudel, eine Blase, ein Stück Treibholz, das auf der Oberfläche tanzte.
+
+Thies stand auf der Bank, bis das Wasser ihm bis an die Brust reichte. Er konnte nicht schwimmen. Er hatte nie schwimmen gelernt, weil ein Bootsmann nicht schwimmt, weil ein Bootsmann auf dem Boot bleibt, bis das Boot ihn verlässt. Aber das Boot hatte ihn verlassen, und jetzt war da nur noch das Wasser, kalt und schwarz und gleichgültig, und er dachte an Maren, und er dachte an den Himmel, und er dachte an nichts.
+
+Dann hörte er die Stimme.
+
+»Thies!«
+
+Es war Maren. Sie stand am Heck der *Grete*, die jetzt ganz nah war, zwanzig Schritt, zehn Schritt, und sie hielt eine Leine in der Hand, und sie warf sie ihm zu, und die Leine fiel ins Wasser, und Thies griff danach, und seine Hand schloss sich um das Tau, und er spürte, wie es sich straffte, wie es ihn zog, wie er durch das Wasser gezogen wurde, und dann war da die Bordwand der *Grete*, und dann waren da Hände, viele Hände, die ihn packten, die ihn zogen, die ihn über die Reling hoben, und dann lag er auf dem Deck der *Grete*, und das Deck war voller Menschen, und die Menschen waren nass und zitterten, und er war einer von ihnen.
+
+Er richtete sich auf. Er sah Maren. Sie stand am Ruder, das Gesicht starr, die Hände fest um die Pinne, und sie sah ihn an, und in ihrem Blick war keine Erleichterung, keine Freude, kein Triumph. Da war nur die nackte, kalte Rechnung, die sie beide kannten: neun Menschen auf einem Boot, das für sechs gebaut war, und ein Boot, das sank, und ein Flachwasser, das noch nicht erreicht war.
+
+»Ballast«, sagte Thies. Seine Stimme war heiser. »Wir müssen Ballast werfen.«
+
+Lene hörte ihn. Sie stand am Bug, das Beil in der Hand, und sie sah ihn an, und sie nickte. Sie hatte das Beil schon bereit, bevor er es gesagt hatte. Sie hatte es bereit, seit sie die *Grete* überladen hatten, seit sie die Fischer aus dem Laderaum geholt hatten, seit sie den verwundeten Rask an Bord gezogen hatten, seit sie den jungen dänischen Soldaten an Bord gezogen hatten, der jetzt an der Reling lag, das Bein zerschmettert, das Gesicht grau, und der nicht schrie, weil er zu schwach war zum Schreien.
+
+Lene ging nach vorn. Sie setzte das Beil an die Steine, die sie als Ballast geladen hatten, an die schweren Feldsteine, die in der Bilge lagen, und sie hackte die Taue durch, mit denen sie festgezurrt waren, und sie rollten über Bord, einer nach dem anderen, und das Boot hob sich, ein Fingerbreit, zwei Fingerbreit, und Thies spürte, wie es atmete, wie es sich leichter machte, wie es wieder ein Boot wurde.
+
+»Die Netze«, sagte Lene. »Die Netze müssen auch weg.«
+
+Sie waren Dierks Netze. Sie waren das, was Dierk und Lene besaßen, das, was sie im Winter flickten und im Sommer auswarfen, das, was sie ernährte, das, was ihre Existenz war. Lene zögerte nicht. Sie schnitt die Taue durch, mit denen die Netze an der Reling festgemacht waren, und die Netze rutschten über Bord, graue Knäuel, die im Wasser trieben und sanken. Sie schnitt die Taue durch, mit denen die Körbe befestigt waren, die Körbe mit dem Fang, den sie in den letzten Tagen gemacht hatten, und die Körbe trieben davon. Sie schnitt die Taue durch, mit denen die Fässer festgemacht waren, die Fässer mit Wasser und Brot, und die Fässer rollten über Bord, und das Wasser, das sie enthielten, war verloren, und das Brot war verloren, und es war egal, weil sie das Flachwasser erreichen mussten, und das Flachwasser war nah.
+
+Thies stand auf. Er ging nach achtern, zu Maren, und er nahm ihr das Ruder nicht aus der Hand, weil sie es hielt, weil sie es halten musste, weil sie es besser hielt als er. Er stellte sich neben sie, und er sah nach vorn, und er sah die Untiefe, die jetzt sichtbar war, eine dunkle Linie im trüben Wasser, eine Stelle, an der die Wellen sich brachen und weiß schäumten, und hinter der Untiefe war das Flachwasser, und hinter dem Flachwasser war das Land.
+
+»Wie viel Zeit?«, fragte er.
+
+»Nicht genug«, sagte Maren. »Aber mehr als vorhin.«
+
+Sie sagte es ruhig. Sie sagte es, wie sie alles sagte, mit einer Ruhe, die nicht die ihre war, die sie sich angewöhnt hatte, die sie sich antrainiert hatte, weil sie wusste, dass Panik tötete. Thies sah sie an, und er sah die Fingerkuppe, die vom Schreiben verfärbt war, und er sah den Ärmel, der sorgfältig ausgebessert war, und er sah das Haar, das nach der Fahrt nicht mehr ordentlich saß, und er dachte, dass er sie liebte, und dass er es ihr nie gesagt hatte, und dass es jetzt vielleicht zu spät war.
+
+»Maren«, sagte er.
+
+»Nicht jetzt«, sagte sie. »Ruder.«
+
+Er gehorchte. Er griff nach dem zweiten Riemen, der an der Reling lehnte, und er setzte sich auf die Bank, und er ruderte, und Lene ruderte auf der anderen Seite, und Fiete lenzte das Wasser aus der Bilge, und die Fischer ruderten, soweit sie konnten, mit den Händen, mit den Stücken von Planken, mit allem, was sie fanden, und das Boot bewegte sich, langsam, schwerfällig, aber es bewegte sich, und die Untiefe kam näher, und das Flachwasser kam näher, und das Land kam näher.
+
+Dierk lag an der Reling, das Bein ausgestreckt, das Gesicht schweißbedeckt, und er sah Thies an, und er sagte nichts, aber er sah ihn an, und in seinem Blick war etwas, das Thies nicht deuten konnte. Es war kein Dank. Es war kein Vorwurf. Es war die nüchterne Feststellung, dass sie alle noch lebten, und dass sie alle noch sterben konnten, und dass zwischen dem einen und dem anderen nur das Flachwasser lag.
+
+Rask lag auf der Achterbank, den verbundenen Arm an die Brust gedrückt, und er sah zum Himmel, und sein Gesicht war leer. Der junge dänische Soldat lag neben ihm, und er atmete, aber flach, und das Blut, das aus seinem Bein sickerte, war dunkel und dick, und Thies wusste, dass er nicht mehr lange atmen würde, wenn sie nicht bald Land erreichten.
+
+Ein Kanonenschlag, fern und dumpf. Die *Grete* schlingerte, nahm Wasser über die Bordwand, und für einen Augenblick war das Deck knietief überflutet, und die Menschen schrien, und die Menschen klammerten sich fest, und dann lief das Wasser ab, durch die Speigatten, durch die Lecks, durch die Ritzen, und das Boot hob sich wieder, und sie ruderten weiter.
+
+Thies ruderte. Er ruderte, bis seine Arme brannten, bis seine Hände rissig waren, bis sein Rücken schrie, und er ruderte weiter, und er sah nach vorn, und er sah die Untiefe, und er sah, dass sie näher kam, und er sah, dass sie es schaffen konnten, wenn sie nur weiterruderten, wenn sie nur nicht nachließen, wenn sie nur nicht stehenblieben.
+
+»Da«, sagte Maren. »Da ist es.«
+
+Sie zeigte nach vorn, und Thies sah es. Das Flachwasser. Eine weite, flache Fläche, grau und still, in der die Wellen sich nicht mehr brachen, in der das Wasser nur noch kräuselte, in der der Grund nur noch zwei, drei Fuß tief war. Es war die Stelle, die Joren in der Karte eingezeichnet hatte, die Stelle, an der ein Boot wie die *Grete* Grund berühren konnte, ohne zu sinken, die Stelle, an der Menschen von Bord gehen konnten, ohne zu ertrinken.
+
+Sie ruderten. Sie ruderten, bis der Kiel den Grund berührte, bis das Boot knirschte und sich festlief, bis sie nicht mehr weiterkamen. Und dann standen sie auf, einer nach dem anderen, und sie stiegen über die Reling, und sie wateten durch das Wasser, das ihnen bis an die Hüften, bis an die Brust, bis an die Schultern reichte, und sie hielten sich an den Händen, und sie bildeten eine Kette, und sie zogen die Verwundeten mit sich, den jungen Soldaten, den verwundeten Rask, den hinkenden Dierk, und sie wateten weiter, bis das Wasser nur noch knietief war, bis das Wasser nur noch knöcheltief war, bis sie auf dem festen Grund standen, auf dem Schlick, auf dem Sand, auf dem Land.
+
+Thies stand am Ufer. Er sah zurück. Die *Grete* lag im Flachwasser, festgelaufen, halb voll Wasser, ein Wrack. Die *Hoffnung* war fort. Sie war irgendwo da draußen, im tiefen Wasser, auf dem Grund, und sie würde dort bleiben, und niemand würde sie finden, und niemand würde sie bergen, und sie würde verrotten, und das war in Ordnung. Es war in Ordnung, weil die Menschen lebten.
+
+Er zählte. Er zählte die Menschen, die am Ufer standen, die nassen, zitternden, erschöpften Menschen, und er zählte neun. Maren. Lene. Fiete. Dierk. Rask. Der junge Soldat. Die drei Fischer, Tamm, Kruse, Paye. Neun Menschen. Neun Menschen, die lebten, weil ein Boot gesunken war, weil ein Mann sein Lebenswerk aufgegeben hatte, weil sie alle Ballast geworfen hatten, weil sie alle gerudert hatten, weil sie alle nicht aufgegeben hatten.
+
+Maren kam zu ihm. Sie stand neben ihm, und sie sah ihn an, und sie sagte nichts. Sie nahm seine Hand. Ihre Hand war kalt und nass und rissig, und sie hielt seine Hand, und sie sagte nichts, und das war genug.
+
+Hinter ihnen, auf dem Wasser, lag die *Grete*, und hinter der *Grete* lag das Neue Tief, und hinter dem Neuen Tief lagen die dänischen Schaluppen, und hinter den dänischen Schaluppen lag die *Prins Christian*, und auf der *Prins Christian* stand Joren Voss am Ruder, und er wusste nicht, dass seine Tochter lebte, und er wusste nicht, dass sein Schwiegersohn lebte, und er wusste nicht, dass neun Menschen am Ufer standen und atmeten. Er wusste nur, dass die Rinne vermessen war, und dass die Tonnen gesetzt waren, und dass die Zeit ablief.
+
+Thies sah zum Himmel. Der Streifen Blau war verschwunden. Über dem Bodden hing grauer Dunst, und der Dunst war kalt, und der Dunst war gleichgültig, und der Dunst war alles, was blieb. Er dachte an die *Hoffnung*, an die Planken, an die Nägel, an die Stunden in der Werkstatt, an den Namen, den er mit weißer Farbe auf den Bug gemalt hatte, und er dachte, dass ein Name nicht viel war, und dass ein Boot nicht viel war, und dass ein Mensch nicht viel war, und dass es trotzdem darauf ankam, dass man das Wenige, das man hatte, nicht festhielt, wenn es Zeit war, es loszulassen.
+
+Er ließ Marens Hand nicht los. Er stand am Ufer, und er sah auf das Wasser, und er wartete auf das, was kommen würde, auf die dänischen Boote, auf die schwedischen Boote, auf die Männer, die kamen, um zu kämpfen, auf die Männer, die kamen, um zu bergen, auf die Männer, die kamen, um zu richten. Er wusste nicht, was kommen würde. Er wusste nur, dass er hier stand, dass er atmete, dass er lebte, und dass das Boot, das er gebaut hatte, auf dem Grund des Boddens lag, und dass es dort bleiben würde, und dass er es nicht bereute.
+
+Lene kam zu ihnen. Sie stand neben ihnen, das Beil noch in der Hand, das Gesicht schmutzig, die Kleider nass, und sie sah auf das Wasser, auf die *Grete*, auf das, was von ihrem Besitz übrig war, und sie sagte nichts. Sie sagte lange nichts. Dann sagte sie: »Die Netze sind weg.«
+
+»Ja«, sagte Thies.
+
+»Die Körbe. Die Fässer. Die Steine.«
+
+»Ja.«
+
+Lene schwieg. Sie sah auf die *Grete*, und sie sah auf die Menschen am Ufer, und sie sah auf ihren Mann, der im Schlick saß, das verletzte Bein ausgestreckt, und auf ihren Sohn, der neben ihm kniete, und sie sagte: »Es ist gut.«
+
+Sie sagte es nicht, als ob sie es glaubte. Sie sagte es, als ob sie es feststellte, als ob sie eine Rechnung abschloss, als ob sie eine Bilanz zog, die sie nicht gezogen hatte, die aber gezogen werden musste. Sie sagte es, und dann ging sie zu Dierk, und sie setzte sich neben ihn in den Schlick, und sie nahm seine Hand, und sie sagte nichts mehr.
+
+Thies stand am Ufer. Er sah auf das Wasser. Er sah die *Grete*, die im Flachwasser lag, ein Wrack, ein Haufen Planken, ein Beweis, dass sie gelebt hatten. Er sah die Stelle, an der die *Hoffnung* gesunken war, und er sah nichts, weil da nichts zu sehen war, nur Wasser und Dunst und Gleichgültigkeit. Er sah Maren, die neben ihm stand, und er sah ihre Hand, die seine Hand hielt, und er wusste, dass sie beide nichts besaßen, dass sie beide alles verloren hatten, dass sie beide nichts hatten, worauf sie bauen konnten, und dass sie beide trotzdem hier standen, auf festem Grund, auf dem Land, am Anfang von etwas, das noch keinen Namen hatte.
+
+Er wartete. Er wartete auf die Boote, auf die Männer, auf das, was kommen würde. Er wartete, und er hielt Marens Hand, und er dachte an die *Hoffnung*, und er dachte, dass ein Boot nicht das war, was zählte, und dass ein Mensch nicht das war, was er besaß, und dass er das vielleicht immer gewusst hatte, und dass er es jetzt wusste.
+
+Der Dunst hob sich nicht. Das Wasser blieb grau. Und irgendwo draußen, hinter dem Dunst, hinter dem Wasser, hinter der Rinne, wartete ein Lotse auf ein Signal, das nicht kam, und peilte eine Tiefe, die sich änderte, und zählte die Faden, die nicht logen, und wusste nicht, dass seine Tochter lebte.
+
+---
+
+## Noch nicht drehen
+
+> »Zwei Minuten«, sagte der Steuermann. »Dann ist der Korridor zu.«
+
+Das Deck der *Prins Christian* war glatt von Nässe und Pulverschmauch, und Joren Voss stand am Ruder, die Hände um das Holz gelegt, das sich unter seinen Fingern warm anfühlte, obwohl das Wasser kalt war. Vor ihm, hinter ihm, über ihm: Rauch. Der Rauch der eigenen Geschütze, der in Schwaden über das Deck trieb und die Sicht zerfraß, und dahinter, fern und unregelmäßig, die weißen Wölkchen der schwedischen Batterien am Neuen Tief, die nicht aufhörten, weil sie nicht aufhören konnten, und die in einem Takt feuerten, den Joren längst nicht mehr zählte, weil Zählen nichts half.
+
+Er sah das Wasser. Er sah es so, wie er es immer gesehen hatte: als eine Fläche, die log, und darunter als einen Grund, der die Wahrheit sprach. Zwischen den versenkten Blockadeschiffen, deren Masten wie abgebrochene Finger aus dem Wasser ragten, und der wandernden Sandbank, die der Herbststurm in die Rinne geschoben hatte, lag der Durchlass. Zwanzig Meter. Vielleicht weniger, seit der letzten Lotung. Ole Paye hatte vor einer halben Stunde zwei Faden gemeldet, wo gestern noch drei gewesen waren. Der Grund wanderte. Der Grund wanderte immer.
+
+»Herr Voss.«
+
+Holms Stimme, knapp, ohne Schärfe. Joren drehte den Kopf nicht.
+
+»Die Breitseite liegt klar«, sagte Holm. »Ich brauche den Kurs. Jetzt.«
+
+Joren sah die Rinne. Er sah das trübe Wasser, das über der Sandbank stand, eine Spur heller als das tiefe Wasser daneben, kaum sichtbar, ein Unterschied, den nur ein Auge sah, das ihn zu sehen gelernt hatte. Und er sah, viel weiter rechts, im Windschatten des versenkten Blockadeschiffs, im toten Winkel, von dem Holm gesprochen hatte, eine Bewegung. Klein. Kaum mehr als ein dunkler Fleck im Dunst. Ein Boot. Ein überladenes Boot mit einem einzigen, schlecht gesetzten Segel, das sich mühsam durch das flache Wasser schob, so langsam, dass es kaum vorwärtskam.
+
+Er wusste nicht, ob es die *Grete* war. Er konnte es nicht wissen. Aber er wusste, dass es kein dänisches Boot war, und er wusste, dass es kein schwedisches Boot war, und es blieb nur eines.
+
+»Herr Voss«, sagte Holm wieder. »Ich habe gefragt.«
+
+Joren hielt das Ruder. Er hielt es mit beiden Händen, und er hielt es still, und er sagte nichts.
+
+Das war das Einzige, was er tun konnte. Nicht drehen. Nicht wenden. Keine Richtungsangabe. Denn jede Richtungsangabe, jedes Wort, jeder Kurs, den er jetzt aussprach, würde das Schiff in Bewegung setzen, in die Breitseite, in den Feuerkorridor, und der Feuerkorridor lag genau dort, wo das kleine Boot sich quälte. Zwei Minuten. Der Steuermann hatte zwei Minuten gesagt. Zwei Minuten, in denen das Flachwasser tief genug blieb, in denen die *Grete* – wenn es die *Grete* war – den Korridor passieren konnte, in denen neun Menschen, die er nicht sah, aber deren Namen er kannte, aus der Reichweite der Geschütze krochen.
+
+Zwei Minuten. Er musste sie halten. Er musste das Schiff halten. Er musste nichts tun, und nichts zu tun war das Schwerste, was es gab.
+
+»Verdammt«, sagte Holm, leise, zwischen den Zähnen.
+
+Joren hörte, wie der Kapitän einen Schritt näher kam. Er hörte das Knirschen der Stiefelsohlen auf dem nassen Plankengang, er hörte das Klirren eines Karabiners, er hörte die Stimmen der Geschützbedienungen, die warteten, die auf ein Kommando warteten, das nicht kam. Er hörte alles, und er sah nur das Wasser und den kleinen dunklen Fleck, der sich bewegte, langsam, so langsam, und der noch nicht weit genug war.
+
+Ein Einschlag, dreißig Schritt voraus. Die Granate schlug ins Wasser, warf eine Säule aus Gischt und Schlamm empor, und die Gischt kam als Regen über das Vordeck zurück, kalt, salzig, und Joren spürte sie auf dem Gesicht, und er blinzelte nicht. Ein zweiter Einschlag, näher, achteraus. Die *Prins Christian* rollte träge in der Dünung, und irgendwo im Rumpf knackte etwas, ein Geräusch, das nicht dorthin gehörte, ein Geräusch, das Joren kannte, das Geräusch von Holz, das nachgab, und er registrierte es, wie er alles registrierte, und er ließ das Ruder nicht los.
+
+»Herr Voss.« Holms Stimme war jetzt direkt hinter ihm, ruhig noch, aber mit einem Riss darin, einem feinen Riss, den Joren hörte, weil er sein Leben lang gelernt hatte, Risse in Stimmen zu hören. »Wenn Sie jetzt nicht drehen, gehen wir in die Sandbank. Und dann gehen wir alle unter. Ihre Familie eingeschlossen.«
+
+Joren sagte nichts.
+
+Er sah den Fleck. Er war größer geworden. Er war aus dem toten Winkel heraus, und er bewegte sich auf die Rinne zu, und Joren konnte jetzt, wenn er die Augen zusammenkniff, die Umrisse erkennen: ein breites, plumpes Boot, tief im Wasser liegend, überladen, mit einem Segel, das flatterte, weil der Wind drehte, und mit Menschen darin, zu viele Menschen, und mit einem Ruder, das jemand führte, jemand, der nicht wusste, wo die Sandbank lag, jemand, der nur wusste, dass er nach Süden musste, ins Flachwasser, ins Rettende.
+
+Zwei Minuten. Es waren vielleicht neunzig Sekunden vergangen. Vielleicht hundert. Er wusste es nicht. Er wusste nur, dass das Boot noch nicht weit genug war, dass es noch im Feuerkorridor lag, dass ein einziges dänisches Geschütz, das jetzt feuerte, es zerreißen würde, und dass Holm das Feuer nicht länger würde zurückhalten können, wenn er den Kurs nicht bekam.
+
+»Herr Kapitän«, sagte der Steuermann, »die Batterie hat uns. Sie schießen auf uns. Wir müssen antworten.«
+
+Joren hörte das Wort »antworten«, und er wusste, was es bedeutete. Es bedeutete Breitseite. Es bedeutete Kurswechsel. Es bedeutete, dass die Geschütze der *Prins Christian* ihre Mündungen drehten, und dass jede Kugel, die sie ausstießen, über das Wasser flog, dorthin, wo das kleine Boot sich quälte.
+
+»Noch nicht«, sagte Joren.
+
+Es war das erste Wort, das er seit zwei Minuten sprach. Er sagte es leise, so leise, dass er nicht sicher war, ob Holm es hörte, und er sagte es, ohne sich umzudrehen, ohne die Hände vom Ruder zu nehmen, und er sagte es so, wie er immer sprach, wenn er einem Schiff sagte, was es tun sollte: ruhig, kurz, ohne Erklärung.
+
+»Was?«, sagte Holm.
+
+»Noch nicht drehen«, sagte Joren. »Zwei Minuten. Dann drehen Sie.«
+
+»Zwei Minuten«, wiederholte Holm, und in seiner Stimme lag jetzt etwas, das Joren nicht sofort benennen konnte, etwas zwischen Zorn und Verstehen, und dann sagte Holm nichts mehr, und Joren wusste, dass der Kapitän verstanden hatte, weil Holm ein Mann war, der Karten las und Zeitfenster berechnete und wusste, was ein toter Winkel war, und weil Holm begriff, dass der Lotse nicht aus Angst zögerte, sondern aus einem Grund, den er nicht erfragen konnte, weil ein Lotse, der einem Kapitän den Grund erklärte, während er das Ruder hielt, ein Lotse war, der das Ruder nicht mehr hielt.
+
+Und dann geschah es.
+
+Ein Schuss. Nicht aus einem der schweren Geschütze, sondern aus einer der Drehbassen auf dem Vordeck, eine der kleinen Kanonen, die auf Gabeln montiert waren und die ein einzelner Mann bediente. Joren hörte den Knall, und er hörte das Pfeifen, das danach kam, dieses hohe, bösartige Pfeifen, das Splitterflug bedeutete, und er sah, wie neben ihm, zwei Schritt entfernt, der Matrose am Besanmast zusammensackte.
+
+Der Mann hieß Nils. Joren wusste es, weil er ihn am Morgen hatte Wasser fassen sehen. Der Mann war jung, vielleicht neunzehn, und er lag jetzt auf dem Deck, und aus seiner Schulter, aus dem Fleisch zwischen Hals und Arm, kam Blut, viel Blut, und der Mann schrie, und der Schrei war kein Schrei des Schmerzes, sondern ein Schrei der Überraschung, weil er nicht begriff, was geschehen war, weil er nicht begriff, dass ein Stück Holz, ein Splitter, der von der Reling gerissen worden war, in ihm steckte.
+
+»Mann über Bord!«, rief jemand. Falsch. Der Mann war nicht über Bord. Der Mann lag auf dem Deck, und das Deck war voller Blut, und zwei Kameraden liefen zu ihm, und einer von ihnen rutschte auf dem Blut aus und fiel, und dann brach auf dem Vordeck Panik aus.
+
+Joren sah es. Er sah, wie die Männer vom Vordeck zurückwichen, wie sie von der Reling wegdrängten, wie sie sich duckten, weil sie nicht wussten, woher der nächste Splitter kam, und er sah, wie einer von ihnen, ein älterer Mann mit grauem Bart, die Drehbase losließ, die er bediente, und wie die Drehbase auf ihrer Gabel schwenkte, unkontrolliert, und wie der Mann neben ihm, der sie festhalten wollte, das Gleichgewicht verlor.
+
+Er sah es, und er tat nichts. Er konnte nichts tun. Er hielt das Ruder, und er hielt den Kurs, und er hielt die zwei Minuten, die jetzt vielleicht noch dreißig Sekunden dauerten, vielleicht zwanzig, vielleicht zehn, und das kleine Boot im Dunst bewegte sich, und Joren sah, wie es den Rand des Korridors erreichte, wie es sich in das hellere Wasser der Sandbank schob, langsam, schwerfällig, wie ein Käfer, der durch Schlamm kroch.
+
+»Herr Voss«, sagte Holm. Seine Stimme war jetzt ganz ruhig. Sie war so ruhig, dass Joren begriff, dass der Kapitän den Befehl zum Drehen bereits gegeben hatte, innerlich, in seinem Kopf, und dass er nur noch auf den Mann am Ruder wartete, der den Befehl ausführte.
+
+Joren drehte den Kopf. Zum ersten Mal seit zwei Minuten drehte er den Kopf, und er sah Frederik Holm an, der einen Schritt hinter ihm stand, die Hände auf dem Rücken, den Degen an der Seite, das Gesicht vom Pulverrauch geschwärzt, und der ihn ansah, und in Holms Augen stand keine Wut, sondern etwas anderes, etwas Kälteres und Genaueres: die Erkenntnis.
+
+»Sie haben gewartet«, sagte Holm. »Sie haben gewartet, weil dort draußen ein Boot ist.«
+
+Joren sagte nichts.
+
+»Sie haben das Schiff im Feuer gehalten«, sagte Holm, und seine Stimme wurde nicht lauter, sie wurde leiser, »für ein Boot. Für ein Fischerboot. Für Ihre Familie.«
+
+»Ja«, sagte Joren.
+
+Er sagte es einfach. Er sagte es, wie er alles sagte, was wahr war: ohne Ausschmückung, ohne Entschuldigung, ohne die Hoffnung, dass ein Wort es besser machte. Er sagte es, und er sah Holm an, und Holm sah ihn an, und zwischen ihnen stand das Ruder, und hinter ihnen schrie der verwundete Matrose, und über ihnen pfiffen die Geschosse der schwedischen Batterie, und irgendwo im Dunst, im flachen Wasser, kroch ein überladenes Boot aus dem Feuerkorridor.
+
+Holm schwieg. Er schwieg lange, länger, als Joren erwartet hatte, und in diesem Schweigen hörte Joren alles, was er hören musste: das Knistern des Feuers an der Reling, wo eine Brandkugel eingeschlagen war, das Rufen der Männer, die den Verwundeten forttrugen, das Knarren des Rumpfes, das nicht aufhörte, und das ferne, regelmäßige Donnern der Batterien, das weiterging, weil es immer weiterging.
+
+»Jetzt drehen«, sagte Holm.
+
+Joren drehte. Er legte das Ruder hart nach Steuerbord, und die *Prins Christian* gehorchte, langsam, wie ein schweres Tier, das sich wendet, und die Segel fielen in den Wind, und die Breitseite kam herum, und dann, endlich, donnerte das Schiff seine eigene Antwort über das Wasser, und Joren spürte den Rückstoß in den Planken, in den Sohlen, in den Knochen, und er hielt das Ruder und sah nach vorn, in den Rauch, in den Dunst, in das Nichts, in dem das kleine Boot verschwunden war.
+
+Er wusste nicht, ob es durchgekommen war. Er wusste nur, dass er es nicht mehr sah, und dass er es nicht mehr sah, weil es hinter der Sandbank lag, im Flachwasser, außer Reichweite, oder weil es gesunken war, oder weil der Dunst es verschluckt hatte. Er wusste es nicht, und er würde es nicht erfahren, nicht jetzt, nicht in dieser Minute, nicht in der nächsten.
+
+»Herr Voss«, sagte Holm. »Sie werden nach der Fahrt Rechenschaft ablegen. Vor mir. Und vor dem Gericht, wenn es eines gibt.«
+
+»Ja«, sagte Joren.
+
+»Sie wissen, was das bedeutet.«
+
+»Ja.«
+
+Holm sah ihn an. Dann wandte er sich ab, ging zum Vorschiff, wo die Geschützbedienungen arbeiteten, und ließ Joren allein am Ruder.
+
+Joren hielt das Ruder. Er hielt es, weil er es halten musste, weil das Schiff noch fuhr, weil die Rinne noch vor ihm lag, weil die Sandbank noch wanderte und der Grund noch log und die Faden noch gezählt werden mussten. Er hielt es, und er sah nach vorn, und er dachte an das kleine Boot, an das überladene, plumpe, langsame Boot, und er dachte an die Menschen darin, an Lene, die das Ruder führte, an Maren, die rechnete, an Thies, an Dierk, an den Jungen, an die Verwundeten, an alle neun, und er dachte, dass er nichts wissen konnte, dass er nichts wissen durfte, dass er nur tun konnte, was er tat, und dass er es getan hatte.
+
+Vor ihm, im Rauch, tauchte die Rinne auf. Er sah die Wracks, die Masten, die abgebrochenen Finger, und er sah das hellere Wasser der Sandbank, und er sah, dass der Durchlass noch schmaler war als am Morgen, weil der Grund gewandert war, und er sah, dass er hindurch musste, jetzt, sofort, mit diesem Schiff, mit dieser Besatzung, mit dieser einen Chance.
+
+Er atmete. Er legte die Hand an das Ruder, und er fühlte den Widerstand des Wassers, und er fühlte die Strömung, die von Steuerbord kam, die Strömung, die immer von Steuerbord kam, wenn die Tide drehte, und er wusste, dass er sie nutzen musste, nicht bekämpfen, dass er sie lassen musste, wie sie war, und dass er nur das Kleinste tun durfte, das Nötigste, nichts mehr.
+
+»Faden zwei«, rief Ole Paye von der Lotleine.
+
+Joren nickte. Zwei Faden. Es reichte. Es reichte knapp, aber es reichte.
+
+Er führte das Schiff durch die Rinne, und hinter ihm brannte das Vordeck, und neben ihm lag das Blut des Matrosen auf den Planken, und über ihm schlug die schwedische Batterie weiter, und in ihm, tief, dort, wo er nichts mehr fühlte, weil er nichts mehr fühlen durfte, saß die Frage, ob das kleine Boot durchgekommen war, und ob seine Tochter lebte, und ob er, wenn er sie wiedersah, ihr würde sagen können, was er getan hatte, und ob sie es verstehen würde, und ob Verstehen genug war.
+
+Er wusste es nicht. Er wusste nur, dass er das Ruder hielt, dass das Schiff fuhr, dass die Faden nicht logen, und dass er noch atmete.
+
+Und dann, als die *Prins Christian* die Wracks passierte, als das tiefe Wasser unter dem Kiel lag und die Rinne hinter ihm versank, sah er, ganz kurz, im Dunst, am Rand des Flachwassers, eine Bewegung: ein Boot, das am Ufer lag, ein Boot, das nicht mehr fuhr, sondern lag, und daneben, klein und schwarz vor dem grauen Wasser, Menschen, die standen, die wateten, die lebten.
+
+Er sah es für eine Sekunde. Dann nahm der Rauch es ihm.
+
+Er hielt das Ruder. Er hielt den Kurs. Er sagte nichts, weil es nichts zu sagen gab, und weil ein Lotse, der am Ruder stand, nicht sprach, und weil die Fahrt noch nicht zu Ende war, und weil er erst nach der Fahrt würde Rechenschaft ablegen können, vor Holm, vor dem Gericht, vor sich selbst.
+
+Aber in dieser Sekunde, in dieser einen Sekunde, in der er die Menschen am Ufer sah, wusste er, dass er richtig gewartet hatte. Und dass er es wieder tun würde. Und dass er dafür bezahlen würde, und dass der Preis hoch war, und dass er ihn bezahlen würde, weil er ihn bezahlen musste, weil es keinen anderen Weg gab, und weil ein Lotse, der Menschen auf einem Schiff absichtlich auflaufen ließ, kein Lotse war.
+
+Er drehte den Kopf nicht mehr. Er sah nach vorn, in die Rinne, in das tiefe Wasser, in die nächste Minute, in die nächste Stunde, in das, was kommen würde.
+
+Hinter ihm, am Ufer, im flachen Wasser, stand Maren Voss und sah das große Schiff, das durch die Rinne fuhr, und sie sah den Mann am Ruder, klein, kaum zu erkennen, und sie wusste nicht, ob er sie gesehen hatte, und sie wusste nicht, ob er wusste, dass sie lebte, und sie wusste nur, dass das Schiff fuhr, dass es durchkam, dass ihr Vater am Ruder stand und den Kurs hielt, und dass er es für sie getan hatte, für alle neun, und dass sie ihm das nie sagen würde, weil es nichts zu sagen gab, was größer war als das.
+
+Sie stand im Schlick, und sie sah das Schiff, und sie wartete.
+
+---
+
+## Ein Boot muss reichen
+
+> »Ein Boot, das Wasser macht, ist kein Boot mehr. Es ist ein Sarg, der noch schwimmt.«
+> — Merkspruch der Mönchguter Fischer, mündlich überliefert
+
+Die Pinne bäumte sich auf wie ein Tier, das nicht sterben wollte.
+
+Lene Arndt stemmte beide Füße gegen die Dollbordplanke, und der Druck fuhr ihr durch die Schultern, durch den Rücken, bis in die Zähne, die sie zusammenbiss, ohne es zu merken. Das Ruderblatt grub sich in den Grund, die Strömung drehte das Heck, und für einen Herzschlag lang kippte die *Grete* so tief nach Backbord, dass das Wasser gierig über die Reling leckte und schäumend im Bootsinneren verschwand. Sie riss die Pinne zurück, mit dem ganzen Gewicht ihres Körpers, und spürte, wie das Holz in ihren aufgeschürften Handflächen brannte.
+
+»Backbord!«, rief sie nach vorn, ohne den Kopf zu drehen.
+
+Thies verstand. Er hatte das Steuer nicht, aber er hatte die Ruderpinne gehört, das Ächzen des Rumpfes, das Schlagen des Wassers gegen die Planken, und er wusste, was es bedeutete. Er warf sich gegen die vordere Ducht, griff nach dem zweiten Riemen, der lose im Boot lag, und stemmte ihn ins Wasser. Das Blatt fand keinen Halt im schlammigen Grund, rutschte ab, fand ihn beim zweiten Versuch. Das Boot drehte sich, langsam, quälend, wie ein beladenes Tier, das sich gegen den Strick stemmt.
+
+Vor ihnen, im grauen Wellenschlag, lag die Flachwasserzone wie ein trügerisches Versprechen. Kein Wind, der sie trug. Keine Strömung, die sie schob. Nur der Bodden, der nach dem Rückzug des Gefechtslärmes wieder seinen eigenen Rhythmus gefunden hatte, ein müdes, kurzes Auf und Ab, das jede Bewegung des Bootes zur Arbeit machte.
+
+Maren kniete achteraus, das Gesicht aschfahl, die Hände im Bilgewasser, und schöpfte. Sie schöpfte mit einem Eimer, dessen Boden durchgerostet war, sodass die Hälfte des Wassers zurücklief, ehe sie es über die Reling hob. Sie schöpfte mit einem zweiten Eimer, einem aus Holz, der schwerer war, aber dicht. Sie schöpfte mit einem Stiefel, den sie ausgezogen hatte, weil der Lederstiefel mehr Wasser hielt als ein halber Eimer, und sie schöpfte mit den Händen, wenn nichts anderes mehr half, und warf das Wasser in hohem Bogen über Bord, wo es im grauen Wellenschlag verschwand, als hätte es nie existiert.
+
+»Es kommt schneller nach, als ich werfen kann«, sagte sie. Keine Klage. Eine Feststellung. Ihre Stimme klang fremd in ihren eigenen Ohren, flach und sachlich, als spräche sie über das Wetter.
+
+Lene hörte es, ohne zu antworten. Sie hatte keine Worte übrig. Die Pinne verlangte alles: die Arme, den Rücken, die Beine, den Blick, der zwischen dem Wasser vor dem Bug und dem Wasser hinter dem Heck hin und her sprang, zwischen der Strömung, die das Boot nach Steuerbord drückte, und dem Grund, der unter dem Kiel lauerte, unsichtbar, tückisch, bereit, sie aufzuspießen wie einst die *Hoffnung*. Sie kannte diesen Grund. Sie war ihr Leben lang darüber gefahren. Aber sie kannte ihn nur mit einem leeren Boot, mit einem Boot, das aufrecht lag, mit einem Boot, das nicht bis zur Reling voller Menschen und Wasser und Angst war.
+
+Die *Grete* lag tief. Zu tief. Neun Menschen, zwei Verwundete, ein halbes Dutzend nasser Kleidungsstücke, Werkzeug, das niemand mehr brauchte, ein Beil, ein paar Taue, ein Fass, das Lene nicht über Bord geworfen hatte, weil sie im ersten Schrecken nicht daran gedacht hatte. Das Boot hatte Ballast abgeworfen, Netze, Steine, Proviant, aber es war noch immer zu schwer, und das Wasser, das durch die lecken Planken drang, machte es schwerer mit jeder Minute.
+
+Lene wusste, was das bedeutete. Sie hatte es gesehen, als Kind, an der Küste bei Sassnitz, ein Boot, das volllief, und die Männer, die darin saßen, und wie schnell es ging. Schneller als ein Mensch rennen konnte. Schneller als ein Gebet. Das Boot war gesunken, ehe jemand am Ufer begriffen hatte, was geschah. Drei Männer waren ertrunken, und einer davon war ein Vetter ihres Vaters gewesen.
+
+Sie würde nicht zusehen, wie das noch einmal geschah. Nicht mit Dierk an Bord. Nicht mit Fiete.
+
+»Maren«, sagte sie, ohne den Blick vom Wasser zu nehmen. »Nimm den Stiefel. Und den Eimer. Und wirf im Takt. Immer wenn ich rufe.«
+
+»Im Takt?«
+
+»Im Takt.«
+
+Lene atmete aus, durch die Nase, langsam, wie sie es beim Netzflicken tat, wenn die Maschen eng wurden und die Finger müde, und sie begann zu zählen. Nicht laut. In ihrem Kopf. Eins, zwei, drei, vier. Eins, zwei, drei, vier. Der Rhythmus eines Ruderschlags, eines Herzschlags, eines Atemzugs. Sie zählte, und bei jedem vierten Schlag riss sie die Pinne herum, korrigierte den Kurs um eine Handbreit, hielt das Boot in der Rinne, die zwischen den Untiefen verlief, schmal wie ein Faden, unsichtbar für jeden, der sie nicht kannte.
+
+Bei jedem vierten Schlag rief sie: »Jetzt.«
+
+Und Maren warf. Stiefel, Eimer, Stiefel, Eimer. Das Wasser flog über Bord, und das Boot stieg, eine Handbreit, zwei Handbreit, und sank wieder, weil neues Wasser nachlief, und Maren warf wieder, und Lene hielt die Pinne, und Thies ruderte, und das Boot kroch vorwärts, Fuß um Fuß, durch den grauen Wellenschlag, der nicht enden wollte.
+
+Unter Deck, im engen Raum zwischen den Duchten, wo das Wasser knöcheltief stand und die Luft nach Schweiß und Blut und nassem Holz roch, arbeitete Maren mit den Händen, die ihr gehorchten, obwohl sie ihr nicht mehr gehörten. Sie kniete neben Dierk, dessen Bein sie auf eine zusammengerollte Decke gebettet hatte, und sie wickelte den Stoff um die Wunde, ein Hemd, das sie zerrissen hatte, ohne zu wissen, wessen Hemd es war, und sie zog den Knoten fest, so fest sie konnte, und sie sah, wie das Blut durch den Stoff drang, langsam, dunkel, unaufhaltsam.
+
+»Zu fest«, sagte Dierk. Seine Stimme war ein Krächzen. »Du schnürst mir das Bein ab.«
+
+»Dann blutest du nicht aus.«
+
+»Dann verliere ich das Bein.«
+
+»Dann verlierst du das Bein.«
+
+Dierk lachte. Es klang wie ein Husten. »Du bist wie Lene«, sagte er. »Nur jünger. Und schöner.«
+
+»Und du hast Fieber.«
+
+»Das auch.«
+
+Maren band den Knoten, prüfte ihn, band ihn neu. Sie hatte kein sauberes Wasser, um die Wunde zu spülen, kein reines Tuch, um sie zu bedecken, keine Arznei, um die Entzündung zu hemmen. Sie hatte zerrissene Hemden und einen Eimer Bilgewasser und die Hände einer Frau, die nie gelernt hatte, Wunden zu versorgen. Sie tat, was sie konnte. Es war nicht genug. Es war alles, was sie hatte.
+
+Neben Dierk lag der dänische Soldat, der Junge, den sie aus dem Wasser gezogen hatten, ohne seinen Namen zu kennen. Sein Atem ging flach und schnell, und aus einer Wunde an seiner Seite, die ein Splitter gerissen hatte, quoll Blut, dunkel und schaumig. Maren wusste, was schaumiges Blut bedeutete. Sie hatte es einmal gesehen, bei einem Mann, der von einem Pfahl durchbohrt worden war. Der Mann war am nächsten Tag gestorben.
+
+Sie wusste es. Sie sagte es nicht. Sie wickelte den Stoff um die Wunde, und sie hielt die Hand des Jungen, während sie es tat, und sie spürte, wie seine Finger sich um ihre schlossen, schwach, aber fest, und sie spürte, wie ihre eigenen Hände zitterten, und sie zwang sie, ruhig zu sein, weil Zittern nichts half, weil Zittern nur Zeit kostete, und weil die Zeit das Einzige war, was sie noch hatten.
+
+Über ihr, an Deck, rief Lene: »Jetzt.«
+
+Maren warf den Stiefel über Bord, ohne aufzustehen, ohne den Jungen loszulassen, und das Wasser schwappte zurück, und sie warf wieder, und sie hörte, wie das Boot ächzte, wie die Planken knarrten, wie das Wasser gegen den Rumpf schlug, und sie dachte, nicht zum ersten Mal an diesem Tag, dass sie alle sterben würden, hier, in diesem Boot, in diesem grauen Wasser, unter diesem grauen Himmel, und dass es niemand erfahren würde, und dass es niemanden kümmerte, und dass das der eigentliche Skandal war, nicht der Tod, sondern die Gleichgültigkeit, mit der er eintrat.
+
+Dann dachte sie an Thies. An seinen Rücken, der sich vor ihr bog, an seine Hände, die die Riemen hielten, an sein Gesicht, das sie nicht sehen konnte, weil er nach vorn blickte, in die Richtung, in die sie fuhren. Sie dachte an ihn, und sie dachte, dass sie ihm noch etwas sagen wollte, etwas Wichtiges, etwas, das sie nie gesagt hatte, und dass sie es jetzt sagen müsste, weil später vielleicht zu spät war.
+
+Aber sie sagte nichts. Sie warf den Eimer über Bord, und sie band den Knoten fester, und sie hielt die Hand des Jungen, und sie wartete auf das nächste »Jetzt«.
+
+Thies ruderte, als wäre der Riemen ein Teil seines Körpers, ein verlängerter Arm, ein Knochen aus Holz. Er spürte jeden Schlag in den Schultern, in den Lenden, in den Fußsohlen, die gegen die Planken gestemmt waren. Er spürte das Wasser, das durch die Leckage drang und seine Knöchel umspülte, kalt und steigend. Er spürte das Boot, das unter ihm arbeitete, das sich wand, das stöhnte, das lebte, wie ein verwundetes Tier lebt, und er wusste, dass es nicht mehr lange leben würde.
+
+Er hatte die *Hoffnung* verloren. Sein Boot, sein Werk, seine Schulden, seine Zukunft. Er hatte es gekappt, mit eigener Hand, und er hatte zugesehen, wie es sank, und er hatte nicht geweint, weil keine Zeit zum Weinen war, und weil Weinen nichts geändert hätte, und weil ein Boot, das sinkt, kein Boot mehr ist, sondern ein Sarg, der noch schwimmt, und wer um einen Sarg weint, hat den Verstand verloren.
+
+Aber jetzt, im Rhythmus des Ruderns, im Takt von Lenes Rufen, im Ächzen der *Grete*, die auch nicht mehr lange machen würde, spürte er etwas anderes. Nicht Trauer. Nicht Angst. Etwas Kälteres, Klareres, Gefährlicheres: Zorn. Zorn auf die Schweden, die gekommen waren, um zu nehmen. Zorn auf die Dänen, die gekommen waren, um zu zerstören. Zorn auf Joren Voss, der verhandelt hatte, als hätte er etwas zu verhandeln. Zorn auf sich selbst, weil er gegangen war, weil er geblieben war, weil er nicht stark genug gewesen war, um beides zu tun.
+
+Und unter dem Zorn, tiefer, dunkler, etwas, das er nicht benennen konnte: die Ahnung, dass er dieses Boot nicht überleben würde, und dass es nicht darauf ankam, ob er es überlebte, sondern nur darauf, dass die anderen es taten.
+
+Er ruderte. Der Riemen tauchte ein, zog durch, hob sich, tauchte wieder ein. Das Wasser wirbelte, und das Boot kroch vorwärts, und Thies zählte die Schläge, wie Lene sie zählte, und er wartete auf das nächste »Jetzt«, und er war bereit, noch hundert Schläge zu rudern, noch tausend, bis die Arme ihm abfielen, bis das Herz ihm barst, bis nichts mehr übrig war von ihm als der Rhythmus.
+
+Denn der Rhythmus war das Einzige, was noch zählte. Der Rhythmus hielt das Boot zusammen. Der Rhythmus hielt sie am Leben.
+
+Lene sah die Untiefe, ehe sie sie spürte. Ein Schimmer im Wasser, eine Veränderung der Farbe, ein Grün, das ins Bräunliche spielte, dort, wo der Grund aufstieg. Sie riss die Pinne herum, hart, und das Boot drehte sich, und die Strömung packte das Heck, und für einen Moment lag die *Grete* quer, und das Wasser schlug über die Reling, und Maren schrie etwas, das Lene nicht verstand, und Thies ruderte gegen, und dann, langsam, quälend, kam das Boot wieder herum, und die Untiefe glitt vorbei, eine Handbreit unter dem Kiel, und Lene atmete aus, und ihr Atem zitterte, und sie merkte, dass sie die Pinne so fest umklammert hielt, dass ihre Finger weiß waren.
+
+Sie hatte Angst. Sie gab es nicht zu, nicht einmal sich selbst, aber sie hatte Angst, und die Angst saß nicht im Kopf, sondern in den Händen, in den Armen, in der Brust, ein kalter, harter Knoten, der sich nicht lösen wollte. Sie hatte Angst um Dierk, der unter Deck lag und blutete. Sie hatte Angst um Fiete, der neben ihr kauerte, still, blass, mit großen Augen, und der nicht weinte, weil er ein Fischersohn war und weil Fischerssöhne nicht weinten, aber dessen Hände zitterten, und Lene sah es, und sie konnte nichts dagegen tun, weil sie die Pinne halten musste, weil sie das Boot halten musste, weil sie alles halten musste, und weil sie wusste, dass sie es nicht konnte.
+
+Sie war eine Fischerin. Sie hatte Netze geflickt, Fische ausgenommen, Boote beladen, Stürme überstanden. Aber sie war keine Lotsin. Sie kannte das Wasser, aber sie kannte es nur bei Tag, bei ruhiger See, mit einem Boot, das leer war und leicht, und jetzt war es Nacht, und die See war nicht ruhig, und das Boot war voll, und sie war allein am Ruder, und wenn sie einen Fehler machte, starben neun Menschen.
+
+Sie dachte an Joren. Sie dachte an den alten Mann, der am Ruder der *Prins Christian* stand, irgendwo dort draußen, im Dunst, hinter dem Feuer, und sie dachte, dass er es leichter hatte, weil er ein Kriegsschiff führte, weil er Männer hatte, weil er wusste, was er tat. Und dann dachte sie, dass sie ihm Unrecht tat, weil er es nicht leichter hatte, weil er es nie leicht gehabt hatte, weil er derjenige war, der die Entscheidungen traf, die niemand treffen wollte, und weil er dafür bezahlen würde, so oder so.
+
+Sie dachte an Maren. Sie dachte an das Mädchen, das sie seit Jahren kannte, das sie gehasst hatte, in jenem Winter, als Dierk nicht zurückkam, und das sie jetzt liebte, auf eine Art, die sie nicht erklären konnte, weil Liebe und Hass oft dasselbe waren, nur von verschiedenen Seiten betrachtet.
+
+Sie dachte an Fiete. Sie dachte an ihren Sohn, der neben ihr kauerte, und sie dachte, dass sie ihn nicht beschützen konnte, nicht wirklich, nicht vor dem, was kam, und dass das der schlimmste Gedanke war, den sie je gedacht hatte.
+
+Dann rief sie: »Jetzt.«
+
+Und Maren warf. Und Thies ruderte. Und das Boot kroch vorwärts, Fuß um Fuß, durch den grauen Wellenschlag, der nicht enden wollte.
+
+Der Wind drehte, kurz vor der zweiten Stunde. Lene spürte es, ehe sie es sah: ein Ziehen an der Backe, ein Kräuseln auf dem Wasser, ein Geräusch, das nicht zum Wellenschlag gehörte. Der Wind kam von Steuerbord, aus Nordwest, schwach, aber beständig, und mit dem Wind kam die Strömung, und mit der Strömung kam die Gefahr.
+
+Denn die Strömung drückte das Boot nach Backbord, in die Untiefen hinein, dorthin, wo der Grund aufstieg und die Wracks lagen und das Wasser nur noch eine Handbreit tief war. Lene kannte diese Strömung. Sie hatte sie oft genug erlebt, wenn sie mit Dierk zum Fang gefahren war, und sie wusste, was sie tat: Sie zog das Boot nach Steuerbord, in die Mitte der Rinne, und sie hielt es dort, mit aller Kraft, die sie hatte.
+
+Aber die Rinne war schmal. Schmaler als bei Tag, schmaler als bei ruhiger See, schmaler als in ihrer Erinnerung. Und das Boot war schwer. Und die Strömung war stark. Und Lene spürte, wie die Pinne in ihren Händen lebte, wie sie zog und zerrte, wie sie sich wehrte, wie sie nicht gehorchen wollte.
+
+»Thies«, rief sie. »Mehr Steuerbord. Mehr.«
+
+Thies ruderte, was er konnte. Aber er ruderte gegen die Strömung, und die Strömung war stärker, und das Boot drehte sich, langsam, unaufhaltsam, nach Backbord, in die Untiefen hinein, und Lene sah, wie das Wasser vor dem Bug flacher wurde, wie die Farbe sich änderte, wie der Grund aufstieg, und sie wusste, was in wenigen Sekunden geschehen würde.
+
+Sie würde auflaufen. Mit neun Menschen an Bord. Mit einem lecken Boot. In einer Rinne, die kein Mensch kannte, und in einer Nacht, in der niemand sie finden würde.
+
+Sie riss die Pinne herum, mit dem ganzen Gewicht ihres Körpers, und sie schrie, nicht in Worten, sondern in einem Laut, der aus ihrem Bauch kam, aus ihrer Kehle, aus ihrer Seele, und sie spürte, wie das Ruderblatt sich in den Grund grub, wie das Boot sich drehte, wie das Wasser über die Reling schlug, und sie hielt, sie hielt, sie hielt, und dann, endlich, kam das Boot herum, und die Untiefe glitt vorbei, und die Rinne lag wieder offen vor ihnen, und Lene atmete aus, und ihr Atem kam in Stößen, und sie merkte, dass sie weinte, ohne es zu wollen, ohne es zu können, und dass die Tränen salzig waren auf ihren Lippen.
+
+Fiete sah sie an. Er sagte nichts. Er legte seine Hand auf ihre Hand, die die Pinne hielt, und er ließ sie dort, und Lene spürte die Wärme seiner kleinen Hand, und sie spürte, wie die Angst in ihr kleiner wurde, ein wenig, gerade genug, um weiterzumachen.
+
+»Jetzt«, rief sie. Und Maren warf. Und Thies ruderte. Und das Boot kroch vorwärts.
+
+Das Wasser kam schneller, als sie werfen konnten. Maren spürte es an ihren Knien, an ihren Schenkeln, an ihrem Bauch, das kalte, steigende Wasser, das durch die Leckage drang und nicht mehr aufhörte. Sie warf den Stiefel, den Eimer, den Stiefel, den Eimer, und sie warf mit einer Verbissenheit, die sie nicht kannte, einer Verbissenheit, die aus der Angst geboren war, und die Angst war stärker als die Erschöpfung, stärker als der Schmerz, stärker als alles, was sie je gefühlt hatte.
+
+Sie warf, und sie zählte, und sie wartete auf Lenes Ruf, und sie spürte, wie ihre Arme schwer wurden, wie ihre Schultern brannten, wie ihre Hände aufgeschürft waren von dem groben Holz des Eimers, von dem Leder des Stiefels, von dem Wasser, das sie warf, und sie wusste, dass sie nicht mehr lange konnte, und sie wusste, dass sie weitermachen musste, weil Aufhören Sterben bedeutete.
+
+»Lene«, rief sie nach vorn. »Ich schaffe es nicht mehr lange.«
+
+»Du schaffst es«, rief Lene zurück. »Du schaffst es, weil du es musst.«
+
+»Ich kann nicht.«
+
+»Du kannst.«
+
+Maren biss die Zähne zusammen, und sie warf den Eimer, und sie warf den Stiefel, und sie dachte an ihren Vater, der am Ruder der *Prins Christian* stand, und sie dachte, dass er es auch nicht konnte, und dass er es trotzdem tat, und dass sie seine Tochter war, und dass sie es auch tun würde, bis zum Ende, bis zum letzten Schlag, bis zum letzten Atemzug.
+
+Sie warf. Der Eimer flog über Bord. Das Wasser schwappte zurück. Sie warf wieder.
+
+Und dann, endlich, hörte sie Lene rufen: »Flachwasser. Wir haben es.«
+
+Das Boot schrammte über den Grund, ein Geräusch wie ein Messer auf Stein, und Maren spürte, wie es sich neigte, wie es langsamer wurde, wie es stehen blieb. Sie ließ den Eimer fallen, und sie richtete sich auf, und sie sah über die Reling, und sie sah das Ufer, grau und dunstig, kaum zwanzig Schritt entfernt, und sie sah den Schlick, der glänzte, und sie sah das Wasser, das nur noch knietief war, und sie lachte, kurz, schrill, ungläubig, und dann weinte sie, und dann lachte sie wieder, und dann wusste sie nicht mehr, was sie tat.
+
+Thies war schon über Bord, im Wasser, das ihm bis zur Hüfte ging, und er zog das Boot näher an das Ufer, und Lene sprang hinterher, und Fiete, und dann hoben sie Dierk heraus, der stöhnte, als sie ihn bewegten, und den dänischen Jungen, der nicht mehr stöhnte, weil er nicht mehr bei Bewusstsein war, und Rask, der mit zusammengebissenen Zähnen die Zähne zusammenbiss und keinen Laut von sich gab, und dann die anderen, einen nach dem anderen, bis alle neun an Land standen, im Schlick, im grauen Morgenlicht, das eben erst zu dämmern begann.
+
+Maren stand im Wasser, das ihr bis zu den Knien ging, und sie sah das Boot, das hinter ihr lag, schief, halb voll Wasser, ein Wrack, das nicht mehr fahren würde. Sie sah die Männer und Frauen, die sich am Ufer sammelten, erschöpft, blutig, lebendig. Sie sah Thies, der zu ihr herüberblickte, und sie sah in seinen Augen etwas, das sie nicht deuten konnte, und sie ging zu ihm, durch den Schlick, durch das Wasser, und sie blieb vor ihm stehen, und sie sagte nichts, weil es nichts zu sagen gab.
+
+Thies nahm ihre Hand. Seine Hand war kalt, und sie war rau, und sie war die Hand eines Mannes, der sein Boot verloren hatte, und der es trotzdem tat, sie zu halten. Maren spürte die Wärme, die davon ausging, eine Wärme, die nicht von der Haut kam, sondern von woanders, von tiefer, und sie hielt die Hand fest, und sie sah ihn an, und sie wusste, dass sie ihm alles sagen müsste, irgendwann, später, wenn die Zeit dafür war.
+
+Aber jetzt war nicht die Zeit. Jetzt war die Zeit, die Verwundeten zu versorgen, die Gruppe zu sammeln, einen Weg nach Hause zu finden. Jetzt war die Zeit, weiterzugehen.
+
+Sie ließ Thies' Hand los, und sie ging zu Lene, die über Dierk gebeugt stand, und sie half ihr, den Verband zu wechseln, und sie tat, was getan werden musste, ohne zu fragen, ohne zu zögern, ohne zu klagen.
+
+Hinter ihnen, im Dunst, lag die *Grete*, ein dunkler Fleck im grauen Wasser, ein Wrack, das nicht mehr fahren würde. Aber die Menschen, die sie getragen hatte, lebten. Und das war alles, was zählte.
+
+Lene stand auf, als der Verband gewechselt war, und sie sah auf das Boot zurück, das im Flachwasser lag, und sie sah es lange an, ohne ein Wort zu sagen. Sie hatte die *Grete* gekannt, seit sie ein Mädchen gewesen war. Sie hatte sie beladen, geflickt, gestrichen, getauft, mit Dierk darauf gefeiert, mit Fiete darauf gefahren. Sie hatte ihr vertraut. Sie hatte ihr Leben anvertraut.
+
+Jetzt lag sie da, ein Wrack, ein Haufen Holz, das nicht mehr fahren würde. Und Lene spürte, wie etwas in ihr zerbrach, leise, endgültig, ein Riss, der nicht mehr zu kitten war.
+
+»Wir hätten sie nicht überladen dürfen«, sagte sie. Ihre Stimme war flach, tonlos.
+
+»Wir hatten keine Wahl«, sagte Maren.
+
+»Wir hatten immer eine Wahl.«
+
+Lene drehte sich um, und sie ging zu Fiete, der am Ufer stand und auf das Wasser sah, und sie kniete sich neben ihn, und sie nahm ihn in die Arme, und sie hielt ihn fest, fester als nötig, und sie sagte nichts, weil es nichts zu sagen gab.
+
+Maren sah ihnen zu, und sie spürte, wie die Erschöpfung über sie kam, wie eine Welle, die sie umwarf, und sie setzte sich in den Schlick, ohne es zu wollen, ohne es zu können, und sie sah auf das Wasser hinaus, in den Dunst, in die Richtung, in der die *Prins Christian* verschwunden war, und sie dachte an ihren Vater, und sie dachte, dass sie ihm nie sagen würde, was sie in dieser Nacht gesehen hatte, weil es keine Worte dafür gab, und weil Worte zu klein waren für das, was sie fühlte.
+
+Sie saß im Schlick, und sie wartete, und sie wusste nicht, worauf.
+
+---
+
+## Durch das Tief
+
+> *„Das Lot ist die Zunge des Meeres. Wer sie nicht hört, den verschlingt der Grund.“*
+> — Lotsenspruch, mündlich überliefert in Thiessow
+
+Die Rinne war ein Atemzug aus schwarzem Wasser, und Joren Voss stand an ihrem Rand wie ein Mann, der wusste, dass dieser Atem der letzte sein konnte.
+
+Hinter ihm lag die Führungsschaluppe der dänischen Vorhut, eine dunkle Masse aus Planken und Geschützen, deren Rumpf im trüben Licht der Neumondnacht kaum mehr als ein Schatten war. Vor ihm lag die engste Passage des Neuen Tiefs, jener Abschnitt, den die Herbststürme in den vergangenen Wochen so gründlich umgestaltet hatten, dass selbst seine alten Peilungen nur noch als grobe Wegweiser taugten. Zwischen der gewanderten Sandbank im Norden und den versenkten Blockadeschiffen im Süden blieb ein Durchlass von kaum mehr als zwanzig Metern Breite, und in diesem Durchlass arbeitete eine Strömung, die bei auflaufendem Wasser in einem Winkel von fast vierzig Grad gegen die Fahrrinne drückte.
+
+Joren wusste es, weil er es gemessen hatte. Er wusste es, weil er in den vergangenen Tagen dreimal mit der Möwe durch diese Passage gefahren war und jedes Mal andere Verhältnisse vorgefunden hatte. Er wusste es, weil er die Strömung an den Wirbeln erkannte, die sie an der Oberfläche zog, an dem stumpfen, kreisenden Mahlen, das kein Wind verursachte, sondern der Grund selbst.
+
+Was er nicht wusste, war, wie stark der Versatz in dieser Nacht sein würde.
+
+»Lotung!«, rief er nach achtern, und seine Stimme klang ruhiger, als er sich fühlte.
+
+Ole Paye, der junge Gehilfe, der seit der Überfahrt von Ruden kein Wort gesprochen hatte, ließ die Lotleine ins Wasser. Die Bleikugel tauchte ein, das Tau lief durch seine Hände, und Joren hörte das Geräusch, das er sein Leben lang gehört hatte: das trockene, knirschende Schleifen des Taus an der Reling, das Aufprallen des Bleis auf dem Grund, das kurze, harte Zittern, wenn es sich in Sand oder Schlick festbiss.
+
+Dann kam der Ruf.
+
+»Drei Faden!«
+
+Drei Faden. Das waren achtzehn Fuß. Genug Wasser für die Schaluppe, die nicht mehr als zehn Fuß Tiefgang hatte. Genug, um durchzukommen, wenn der Kurs stimmte. Zu wenig, um einen Fehler zu verzeihen.
+
+Joren atmete aus. Die Luft schmeckte nach Salz und nach dem modrigen Geruch des Schlicks, der bei Niedrigwasser auf den Bänken freilag. Er spürte das Ruder in seinen Händen, das leichte Zittern, das durch die Pinne lief, wenn die Strömung gegen das Blatt drückte. Es war ein gutes Ruder, aus Eichenholz, mit Messingbeschlag, und es antwortete präzise auf jede Bewegung seiner Hände. Aber es vibrirte. Ein feines, kaum merkliches Beben, das nicht von der See kam, sondern von der Untiefe, die unter ihnen lag.
+
+Er kannte dieses Beben. Es war die Sprache des Grundes, der sagte: *Ich bin nah. Ich bin näher, als du denkst.*
+
+»Führungsschaluppe an Lotse!«, rief eine Stimme von achtern. Es war Frederik Holm, dessen Silhouette im Halbdunkel an der Reling stand, die Arme verschränkt, den Blick nach vorn gerichtet. »Wir laufen mit halber Fahrt. Wie lange noch bis zur Passage?«
+
+Joren antwortete nicht sofort. Er zählte die Sekunden zwischen den Wellen, die gegen den Rumpf schlugen, und achtete auf den Rhythmus, in dem sie sich brachen. Die Strömung drehte. Er spürte es an der Art, wie das Ruder zog, an dem veränderten Druck gegen das Blatt, an dem leisen, singenden Geräusch, das das Wasser an der Bordwand erzeugte, wenn es schneller vorbeiströmte.
+
+»Eine halbe Stunde«, sagte er. »Vielleicht weniger. Es kommt auf das Wasser an.«
+
+»Auf das Wasser?«
+
+»Auf den Gezeitenstrom. Er hat sich verändert seit dem letzten Mal. Er drückt stärker nach Süden als vor drei Tagen. Wenn wir die Passage bei auflaufendem Wasser erreichen, müssen wir den Kurs um zwei Strich nach Backbord versetzen, sonst treiben wir auf die Wracks.«
+
+Eine Pause. Dann: »Zwei Strich. Verstanden.«
+
+Holm sagte es ohne Zögern, ohne Nachfrage, und Joren wusste, dass der Däne ihm vertraute, soweit ein Offizier einem Lotsen überhaupt vertrauen konnte. Das war mehr, als er erwarten durfte. Es war nicht Freundschaft, nicht einmal Sympathie. Es war die nüchterne Anerkennung von Fachkenntnis, die Holm in den vergangenen Tagen wiederholt unter Beweis gestellt hatte, und Joren nahm sie an, ohne Dank, ohne Erleichterung, als das, was sie war: eine Arbeitsgrundlage.
+
+Er blickte nach vorn, in die Dunkelheit, die vor der Schaluppe lag. Die Wracks waren nicht zu sehen, aber er wusste, wo sie lagen. Er hatte ihre Positionen in den vergangenen Nächten dreimal angefahren, hatte die Peilungen von den Landmarken genommen, die Maren auf ihrer Karte verzeichnet hatte, hatte die Wassertiefe über den versenkten Rümpfen gemessen und die Strömungsrichtung an den Wirbeln abgelesen, die sie an der Oberfläche zogen. Die Wracks waren alt, ihre Aufbauten längst verrottet, aber ihre Rümpfe lagen noch dort, schwere Eichenbalken, die den Grund überragten wie die Rippen eines gestrandeten Tieres. Bei Niedrigwasser ragten sie teilweise aus dem Wasser; bei Hochwasser lagen sie knapp unter der Oberfläche, unsichtbar, tödlich.
+
+Joren hatte die Peilungen im Kopf. Er hatte sie so oft wiederholt, dass sie zu einem Teil seines Körpers geworden waren, zu einem Wissen, das nicht mehr dachte, sondern fühlte. Er wusste, dass die nördliche Wrackbank bei einer Peilung von vier Strich an der alten Tonne begann und sich über eine Länge von etwa sechzig Metern nach Südwesten erstreckte. Er wusste, dass die südliche Wrackbank, die aus zwei versenkten Prahmen bestand, bei einer Peilung von sieben Strich an der Landspitze von Palmer Ort lag und sich nach Nordwesten zog. Und er wusste, dass zwischen ihnen ein Durchlass blieb, der bei Hochwasser kaum zwanzig Meter breit war und dessen tiefste Stelle etwa drei Faden maß.
+
+Aber die Strömung. Die Strömung war das Problem.
+
+Sie kam von Nordosten, vom offenen Wasser her, und sie traf auf die Wracks, die wie ein Wehr wirkten. Das Wasser staute sich an ihren Rümpfen, wurde abgelenkt, beschleunigt, und schoss dann durch den Durchlass zwischen ihnen hindurch mit einer Geschwindigkeit, die ein Boot von der Größe der Schaluppe in wenigen Sekunden um mehrere Meter versetzen konnte. Joren hatte es bei seinen Peilfahrten erlebt. Er hatte gesehen, wie die Möwe, ein kleines, wendiges Boot, bei der Durchfahrt um fast fünf Meter nach Süden gedrückt worden war, obwohl er das Ruder hart nach Backbord gelegt hatte. Bei der Schaluppe, die dreimal so schwer war und einen Tiefgang von zehn Fuß hatte, würde der Versatz größer sein. Viel größer.
+
+»Lotung!«, rief er wieder.
+
+»Drei Faden!«
+
+Gleich. Sie waren fast an der Passage. Joren spürte es an dem veränderten Wellenbild, an dem kürzeren, härteren Schlagen gegen den Bug, an dem Zug am Ruder, der stärker wurde, je näher sie der Engstelle kamen. Er spürte es an der Luft, die plötzlich kälter wirkte, obwohl sie es nicht war, und an dem Geräusch, das die Strömung erzeugte, wenn sie durch den Durchlass schoss: ein tiefes, dumpfes Rauschen, das nicht von den Wellen kam, sondern von der Bewegung des Wassers selbst.
+
+»Ruder backbord!«, befahl er, und der Steuermann, ein kräftiger Mann mit grauem Bart, legte das Ruder um. Die Schaluppe drehte langsam nach Backbord, träge, wie ein schwerfälliges Tier, das sich nur widerwillig bewegt.
+
+Joren zählte die Sekunden. Eins. Zwei. Drei. Er spürte, wie die Strömung gegen den Rumpf drückte, wie sie das Boot nach Steuerbord versetzte, wie sie es von der Ideallinie abtrieb, die er im Kopf hatte. Er korrigierte, ließ das Ruder leicht nach Steuerbord gehen, dann wieder nach Backbord, ein feines, ständiges Spiel, ein Ausgleich zwischen dem Druck des Wassers und dem Widerstand des Ruders.
+
+»Lotung!«
+
+»Zwei Faden!«
+
+Zwei Faden. Das waren zwölf Fuß. Die Schaluppe hatte zehn Fuß Tiefgang. Es blieben zwei Fuß Wasser unter dem Kiel. Zwei Fuß, das war weniger als eine Handbreit, wenn man es in der Sprache der Seeleute ausdrückte, die seit Jahrhunderten mit dem Lot maßen. Zwei Fuß, das war der Unterschied zwischen Fahrt und Grundberührung, zwischen Leben und Tod.
+
+Joren spürte, wie sich seine Nackenmuskeln anspannten. Er spürte, wie sein Atem flacher wurde, wie sich sein Blick verengte, wie die Welt um ihn herum auf den schmalen Streifen Wasser zusammenschrumpfte, der vor dem Bug lag. Der Rest verschwand: die Schaluppe, die Mannschaft, Holm, die Nacht, der Krieg. Es blieb nur die Rinne, das Ruder, die Lotung, der Grund.
+
+»Zwei Faden!«
+
+Die Stimme von Ole Paye klang jetzt höher, angespannter. Der Junge wusste, was zwei Faden bedeuteten. Er wusste, dass sie am Rand der Passage waren, dort, wo der Grund anstieg, wo die Sandbank begann, die sich in den vergangenen Wochen nach Süden verschoben hatte. Er wusste, dass ein Fehler von wenigen Metern sie aufsetzen lassen würde.
+
+Joren wusste es auch. Er wusste es mit einer Klarheit, die keine Angst zuließ, sondern nur Konzentration. Er sah die Rinne vor sich, nicht als Wasser, sondern als ein Bild aus Tiefen, Strömungen und Winkeln, ein dreidimensionales Geflecht aus Zahlen und Richtungen, das er in den vergangenen Tagen in seinem Kopf aufgebaut hatte. Er sah die Sandbank im Norden, die Wracks im Süden, den Durchlass zwischen ihnen, und er sah die Strömung, die durch diesen Durchlass schoss wie ein Fluss durch eine Schlucht.
+
+Und er sah, dass sie zu weit nördlich waren.
+
+»Ruder backbord! Hart!«
+
+Der Steuermann gehorchte. Die Schaluppe drehte, langsam, schwerfällig, und Joren spürte, wie der Bug nach Backbord schwenkte, wie das Boot der Strömung entgegenhielt, wie es sich in die Ideallinie zwang, die er im Kopf hatte. Er spürte das Ruder in seinen Händen, das jetzt stärker vibrierte, ein hartes, schnelles Zittern, das durch die Pinne bis in seine Arme lief.
+
+Das Ruder vibrierte. Das war kein gutes Zeichen. Es bedeutete, dass das Blatt Grund berührte, dass es über Sand oder Schlick strich, dass der Kiel des Bootes nur noch Zentimeter über dem Boden lag. Joren kannte dieses Zittern. Er hatte es einmal erlebt, vor vielen Jahren, als er mit einem beladenen Prahm durch eine Untiefe bei Hiddensee gefahren war und der Grund so nah gewesen war, dass das Ruder den Schlick aufgewühlt hatte wie ein Pflug die Erde. Damals war es gut gegangen. Damals hatte er Glück gehabt.
+
+Jetzt würde er kein Glück brauchen. Jetzt würde er Können brauchen.
+
+»Lotung!«
+
+»Eineinhalb Faden!«
+
+Eineinhalb Faden. Neun Fuß. Die Schaluppe hatte zehn Fuß Tiefgang. Das Wasser reichte nicht mehr. Der Kiel musste den Grund berühren, musste durch den Schlick schleifen, musste sich in den weichen Boden graben, der die Passage an dieser Stelle füllte. Joren hörte das Geräusch, das er gefürchtet hatte: ein tiefes, dumpfes Schleifen, das durch den Rumpf lief wie ein Beben, das nicht von außen kam, sondern von innen, von der Verbindung zwischen Boot und Grund.
+
+Sie saßen auf. Nicht fest, noch nicht. Aber sie berührten den Grund, und das war der Anfang vom Ende, wenn er nicht sofort handelte.
+
+»Ruder steuerbord! Hart steuerbord!«
+
+Der Steuermann riss das Ruder herum. Die Schaluppe drehte, und Joren spürte, wie der Kiel sich aus dem Schlick löste, wie das Schleifen aufhörte, wie das Boot wieder freikam, für einen Moment, für einen Atemzug, für die kurze Spanne zwischen zwei Wellen.
+
+Er nutzte sie. Er ließ das Ruder leicht nach Backbord gehen, korrigierte den Kurs um zwei Grad, dann um drei, dann um einen halben, ein feines, präzises Spiel, das kein Zögern kannte und keinen Fehler verzieh. Er spürte die Strömung, die gegen den Rumpf drückte, und er glich sie aus, nicht durch Kraft, sondern durch Richtung, durch die Wahl des Winkels, mit dem er das Boot durch die Passage führte.
+
+»Lotung!«
+
+»Zwei Faden!«
+
+Zwei Faden. Zwölf Fuß. Die Schaluppe hatte zehn. Es blieben zwei Fuß Wasser unter dem Kiel. Zwei Fuß, das war eine Handbreit, das war der schmale Grat zwischen Fahrt und Grund, zwischen dem Auftrag und dem Scheitern.
+
+Joren atmete aus. Er spürte, wie sich die Anspannung in seinen Schultern löste, langsam, zentimeterweise, wie das Ruder ruhiger wurde, wie das Zittern nachließ, wie die Strömung an Kraft verlor, je weiter sie sich von der Engstelle entfernten.
+
+Sie waren durch.
+
+Er blickte nach vorn, in die Dunkelheit, die jetzt offener wirkte, weiter, leerer. Vor ihnen lag der Bodden, das flache, weite Wasser, das sich bis nach Mönchgut erstreckte, das Wasser, das er kannte, seit er ein Kind gewesen war, das Wasser, das ihn nach Hause bringen würde.
+
+Er blickte nach achtern. Die Führungsschaluppe folgte in sicherem Abstand, ihre Laternen brannten ruhig, ihr Kurs war gerade. Holm stand noch immer an der Reling, die Arme verschränkt, den Blick nach vorn gerichtet. Er sagte nichts. Er nickte nicht. Er machte keine Bewegung, die Jorens Leistung anerkannte oder auch nur bemerkte.
+
+Aber er war durchgekommen. Die ganze Vorhut war durchgekommen. Der Durchbruch war gelungen.
+
+Joren spürte nichts. Keine Erleichterung, keinen Stolz, keine Befriedigung. Er spürte nur die Müdigkeit, die in seinen Knochen saß wie Blei, und die Kälte, die von seinen nassen Händen in seine Arme kroch, und die Leere, die in ihm zurückblieb, wenn eine Aufgabe erfüllt war, die keine Freude kannte.
+
+Er hatte seinen Auftrag erfüllt. Das war alles. Das war genug.
+
+»Lotse!«
+
+Die Stimme kam von achtern, von Holm. Joren drehte sich um.
+
+»Wir haben die Passage passiert. Der Weg zum Bodden ist frei.«
+
+»Ja«, sagte Joren.
+
+»Ihre Peilungen waren korrekt. Die Strömung hat uns um fast vier Meter versetzt. Ohne Ihre Korrektur wären wir auf den Wracks gelandet.«
+
+Joren nickte. Er sagte nichts. Es gab nichts zu sagen. Die Peilungen waren korrekt gewesen, weil er sie gemessen hatte. Die Korrektur war präzise gewesen, weil er sie berechnet hatte. Das war seine Arbeit. Das war, was er tat.
+
+Holm sah ihn an, lange, prüfend, mit einem Blick, der mehr sagte als Worte. Dann wandte er sich ab und gab Befehle an seine Offiziere, ruhig, knapp, sachlich, als wäre nichts geschehen, als hätte es keine Gefahr gegeben, als wäre die Durchfahrt durch die engste Passage des Neuen Tiefs nicht mehr als eine Routinesache gewesen.
+
+Joren blieb am Ruder stehen. Er spürte das Boot unter sich, das leichte Schwingen, das durch den Rumpf lief, wenn die Wellen gegen die Bordwand schlugen. Er spürte die Kälte der Nacht, die jetzt, da die Anspannung nachließ, in seine Glieder kroch wie Wasser in ein leckes Boot. Er spürte die Müdigkeit, die ihn schwer machte, langsam, träge, wie ein Mann, der zu lange auf den Beinen gewesen war.
+
+Und er spürte die Leere. Die Leere, die zurückblieb, wenn eine Aufgabe erfüllt war, die keine Freude kannte. Die Leere, die ihn begleitete, seit er begonnen hatte, diese Fahrt vorzubereiten, seit er den Pakt mit Holm geschlossen hatte, seit er seine Tochter in Gefahr gebracht hatte, seit er seine Frau belogen hatte, seit er Dierk Arndt in den Einsatz geschickt hatte, seit er die Verantwortung für alles übernommen hatte, was geschehen war.
+
+Er hatte den Durchbruch ermöglicht. Er hatte die dänische Vorhut durch die Passage geführt. Er hatte seinen Auftrag erfüllt.
+
+Aber der Preis. Der Preis war noch nicht bezahlt.
+
+Er dachte an Maren. Er dachte an die Grete, die er im Dunst gesehen hatte, überladen, kaum manövrierfähig, mit neun Menschen an Bord. Er dachte an Thies, dessen Hoffnung er nicht gesehen hatte, dessen Schicksal ungewiss war. Er dachte an Lene, die ihr Boot verloren hatte, an Dierk, der verwundet war, an Fiete, der ein Kind war, das den Krieg nicht verstand.
+
+Er dachte an Else, die am Ufer gestanden hatte, als er aufgebrochen war, die ihm nachgeblickt hatte, ohne ein Wort zu sagen, ohne einen Vorwurf, ohne eine Bitte.
+
+Er dachte an all das, und er spürte nichts. Keine Schuld, keine Reue, keine Angst. Nur die Leere, die ihn erfüllte wie Wasser ein leckes Boot, langsam, unaufhaltsam, bis nichts anderes mehr blieb.
+
+»Lotse.«
+
+Ole Paye stand neben ihm. Der Junge war blass, seine Hände zitterten, seine Augen waren weit. Er hatte die Passage zum ersten Mal durchfahren, und er hatte gesehen, wie nah sie dem Grund gewesen waren, wie knapp sie dem Scheitern entgangen waren.
+
+»Wir sind durch«, sagte Joren. »Du hast gut gelotet.«
+
+»Ich habe Angst gehabt«, sagte Ole. Seine Stimme war leise, fast ein Flüstern.
+
+»Das ist gut. Angst hält dich wach.«
+
+»Und Sie?«
+
+Joren sah ihn an. Der Junge wartete auf eine Antwort, auf ein Wort, auf eine Bestätigung, dass alles gut werden würde, dass die Gefahr vorüber war, dass sie nach Hause fahren würden, dass der Krieg sie verschonen würde.
+
+Joren hatte keine Antwort. Er hatte keine Bestätigung. Er hatte nur die Wahrheit, die er nicht aussprechen konnte, weil sie zu schwer war für einen Jungen, der noch nie einen Krieg gesehen hatte.
+
+»Ich habe auch Angst gehabt«, sagte er. »Aber die Angst ist nicht das Problem. Das Problem ist, wenn du aufhörst, sie zu spüren.«
+
+Ole sah ihn an, verständnislos, und Joren wusste, dass der Junge nicht begriff, was er meinte. Vielleicht würde er es nie begreifen. Vielleicht war das gut.
+
+»Geh nach unten«, sagte Joren. »Ruh dich aus. Wir haben noch eine Stunde bis zum Bodden.«
+
+Ole nickte und ging. Joren blieb am Ruder stehen, allein, und sah nach vorn, in die Dunkelheit, die vor ihm lag.
+
+Der Bodden. Das flache, weite Wasser, das sich bis nach Mönchgut erstreckte. Das Wasser, das er kannte, seit er ein Kind gewesen war. Das Wasser, das ihn nach Hause bringen würde.
+
+Aber was war ein Zuhause, wenn die Menschen, die es ausmachten, in Gefahr waren? Was war ein Zuhause, wenn die Tochter verschwunden war, der Schwiegersohn im Kampf, die Frau am Ufer zurückgeblieben, ohne zu wissen, ob er lebte oder tot war?
+
+Joren wusste es nicht. Er wusste nur, dass er weiterfahren musste, dass er das Boot steuern musste, dass er die Passage hinter sich lassen musste, dass er nach Hause fahren musste, weil es nichts anderes gab, was er tun konnte.
+
+Er blickte nach achtern, zu der Schaluppe, die ihm folgte, und er sah Holm an der Reling stehen, die Arme verschränkt, den Blick nach vorn gerichtet. Der Däne sah ihn nicht an. Er sah durch ihn hindurch, als wäre er nicht vorhanden.
+
+Joren wandte sich ab. Er legte das Ruder leicht nach Steuerbord, korrigierte den Kurs um einen halben Strich, und führte die Schaluppe durch die Dunkelheit, in der die Küste von Mönchgut lag, unsichtbar, aber gegenwärtig, ein Schatten am Horizont, ein Versprechen, das er nicht einlösen konnte.
+
+Er hatte den Durchbruch geschafft. Er hatte die Passage gemeistert. Er hatte getan, was getan werden musste.
+
+Aber er wusste, dass er nichts gewonnen hatte. Er wusste, dass der Preis noch nicht bezahlt war. Er wusste, dass die Leere, die ihn erfüllte, nicht verschwinden würde, wenn er nach Hause kam, sondern bleiben würde, wachsen würde, ihn begleiten würde, bis er nichts mehr spürte, bis er nichts mehr war als ein Lotse, der seine Pflicht erfüllt hatte.
+
+Er blickte nach vorn, in die Dunkelheit, und er sah die Küste. Sie war da, ein schwarzer Streifen am Horizont, kaum sichtbar, aber vorhanden. Sie war das Ziel, das Ende der Fahrt, der Ort, an dem er erfahren würde, was geschehen war.
+
+Er wusste, dass er es nicht wissen wollte. Er wusste, dass er es wissen musste.
+
+Er atmete aus, langsam, tief, und er spürte die Kälte in seinen Lungen, und er spürte das Ruder in seinen Händen, und er spürte das Boot unter sich, das ihn trug, das ihn nach Hause brachte, das ihn zu dem führte, was er fürchtete.
+
+Die Passage lag hinter ihm. Der Durchbruch war gelungen. Der Auftrag war erfüllt.
+
+Aber was danach kam, wusste er nicht. Und das war das Schlimmste.
+
+Die Schaluppe glitt durch das dunkle Wasser, lautlos, wie ein Schatten, der über die Oberfläche huschte. Hinter ihr lag die Passage, die Wracks, die Strömung, die Gefahr. Vor ihr lag der Bodden, das flache Wasser, die Küste, das Zuhause.
+
+Joren stand am Ruder und sah nach vorn, und er wartete, und er wusste nicht, worauf.
+
+---
+
+## An fremden Tauen
+
+> »Die Fischer von Mönchgut haben ihre Fahrzeuge und Netze verloren, ihre Häuser sind zum Teil beschädigt, ihre Männer verwundet. Was sie nicht verloren haben, ist der Anspruch auf das, was ihnen gehört. Dieser Anspruch muss schriftlich erhoben werden, bevor die Erinnerung verblasst und die Mächtigen die Ereignisse umdeuten.«
+> — Aus den Aufzeichnungen der Kirchenchronik von Middelhagen, Eintrag vom Michaelistag 1715, nachgetragen von unbekannter Hand
+
+Der Wind trug Asche heran, fein und beißend, vermischt mit dem süßlichen Geruch von nassem Verbandszeug und kaltem Tabaksqualm, der aus den Zelten der dänischen Vorposten drang. Maren Voss stand am Rande des behelfsmäßigen Ankerplatzes von Palmer Ort, die Füße im schlickigen Sand, und sah zu, wie die dänischen Soldaten die Überreste der Grete an Land zogen. Das Boot war ein Wrack, die Planken gesplittert, der Kiel gebrochen, das Ruder fort. Zwei Männer wateten knietief im Wasser und zerrten an einem Tau, das sich straff spannte, während ein dritter am Ufer die Winde bediente. Das Knarren des Holzes klang wie ein Stöhnen.
+
+Sie zählte die Zelte. Sieben. Dazu zwei Feuerstellen, eine davon erloschen, die andere mit einem Kessel, über dem grauer Dampf aufstieg. Ein Pferd stand angebunden neben einem Karren, den Kopf gesenkt, die Rippen sichtbar. Dänische Feldwachen patrouillierten in langsamen, gleichmäßigen Schritten zwischen den Zeltreihen und dem Wasser. Ihre Uniformen waren durchnässt, die Rockschöße schwer vom Schlamm. Sie sprachen wenig. Wenn sie sprachen, dann in kurzen, abgehackten Sätzen, die Maren nicht verstand, weil der Wind sie zerteilte, bevor sie ihr Ohr erreichten.
+
+Lene Arndt kniete neben Dierk im Sand. Sie hatte den Verband an seinem Fuß gelöst und betrachtete die Wunde mit der Miene einer Frau, die Schlimmeres gesehen hatte und deshalb wusste, was sie vor sich hatte. Dierks Gesicht war grau, die Lippen aufgesprungen, aber er war bei Bewusstsein. Er hielt die Hand seines Sohnes Fiete, der neben ihm hockte und mit der freien Hand kleine Gruben in den Sand grub, immer wieder, als könnte er damit etwas ordnen.
+
+»Es ist nicht gut«, sagte Lene leise, ohne aufzusehen. »Das Fleisch ist tot. Es riecht.«
+
+Maren kniete sich neben sie. Sie roch es ebenfalls: den süßlichen Geruch von abgestorbenem Gewebe, der sich mit dem Salz und dem Aschegeruch vermischte. Sie hatte keine Worte dafür, keine Handlung, keinen Trost. Sie hatte nur die Beobachtung, dass Lene den Verband wieder anlegte, sauber und fest, mit einer Ruhe, die nichts mit Gleichgültigkeit zu tun hatte, sondern mit der Entschlossenheit, das Wenige zu tun, was getan werden konnte.
+
+»Wo ist der Junge?«, fragte Dierk. Seine Stimme war rau, kaum mehr als ein Krächzen.
+
+Maren wusste, wen er meinte. Den jungen dänischen Soldaten, den sie aus dem Prahm geholt hatten, den Jungen mit dem zerrissenen Hemd und der Wunde am Bauch, die sie notdürftig versorgt hatte. Er lag unter einem Segeltuch, drei Schritt entfernt, das Gesicht wachsbleich, die Augen geschlossen. Rask saß neben ihm, den verbundenen Arm in einer Schlinge aus seinem eigenen Hemd, den Rücken gegen einen umgestürzten Balken gelehnt. Der schwedische Korporal hatte seit der Strandung kaum ein Wort gesprochen. Er hatte den Jungen nicht aus den Augen gelassen.
+
+»Er lebt«, sagte Maren. »Noch.«
+
+Dierk nickte langsam, dann schloss er die Augen. Fiete hörte auf, Gruben zu graben, und lehnte den Kopf an die Schulter seines Vaters. Lene legte die Hand auf den Nacken des Jungen, eine kurze, feste Geste, dann stand sie auf und blickte zum Wasser hinaus, wo die dänischen Boote lagen, dunkle Silhouetten im trüben Licht des Vormittags.
+
+Maren folgte ihrem Blick. Die Schaluppen hatten am Ankerplatz festgemacht, zwei von ihnen, dazu ein Beiboot, das zwischen ihnen hin und her fuhr. Auf der größeren Schaluppe war Bewegung: Männer liefen über Deck, Taue wurden geworfen, ein Offizier stand am Heck und sprach mit einem Mann, den Maren nicht kannte. Von ihrem Vater keine Spur. Joren war nicht unter den Männern, die sie sehen konnte. Vielleicht war er an Bord, vielleicht unter Deck, vielleicht tot. Sie wusste es nicht. Sie hatte seit der Strandung nichts gehört, keine Nachricht, keine Andeutung, kein Zeichen.
+
+»Sie kommen«, sagte Lene.
+
+Maren drehte sich um. Vom südlichen Ende des Ankerplatzes näherten sich drei dänische Soldaten, angeführt von einem Korporal mit rotem Gesicht und einer Stimme, die schon von weitem zu hören war. Sie trugen Musketen über den Schultern und gingen in einer Linie, die keinen Zweifel daran ließ, dass sie nicht kamen, um zu helfen.
+
+»Papiere«, sagte der Korporal, als er vor ihnen stand. Er sprach Deutsch mit einem Akzent, der die Wörter hart machte. »Alle. Namen. Herkunft. Grund der Anwesenheit.«
+
+Lene stand auf, langsam, ohne Hast. Sie wischte die Hände an ihrem Rock ab und sah dem Korporal ins Gesicht. »Wir sind Fischer von Mönchgut. Unsere Männer wurden von den Schweden zwangsverpflichtet. Wir haben sie geholt. Das ist alles.«
+
+»Das ist nicht alles«, sagte der Korporal. »Das ist eine Aussage. Ich brauche Papiere.«
+
+Maren trat vor. Sie zog die Mappe unter ihrem Mantel hervor, die sie seit der Abfahrt bei sich getragen hatte, durchnässt, aber lesbar. Sie öffnete sie und hielt dem Korporal die Abschriften hin, die Benthin ausgestellt hatte: die Requisitionsscheine, die Namen der Männer, die Daten, die Siegel. Der Korporal nahm die Blätter, drehte sie ins Licht, studierte sie mit der Miene eines Mannes, der lesen konnte, aber nicht gewohnt war, es zu tun.
+
+»Arndt«, sagte er. »Dierk Arndt. Verzeichnet.« Er blätterte weiter. »Tamm. Kruse. Paye. Verzeichnet.« Er sah auf. »Und die Schweden? Der Korporal? Der Soldat?«
+
+»Verwundet«, sagte Maren. »Wir haben sie geborgen. Sie liegen dort.« Sie deutete auf Rask und den Jungen. »Der Korporal hat einen zerschmetterten Arm. Der Soldat eine Bauchwunde. Sie brauchen einen Arzt.«
+
+Der Korporal sah zu Rask hinüber, dann wieder auf die Papiere. Sein Gesicht veränderte sich nicht, aber seine Stimme wurde eine Spur leiser. »Das ist nicht meine Entscheidung. Ich melde es weiter.« Er gab Maren die Blätter zurück. »Bleiben Sie hier. Keiner verlässt den Ankerplatz. Keiner geht zum Wasser. Verstanden?«
+
+Lene nickte. Maren nickte. Der Korporal drehte sich um und ging mit seinen Männern davon, in derselben Linie, in derselben Ordnung, in der er gekommen war.
+
+Sie warteten. Die Sonne stand hoch, aber sie wärmte nicht. Der Wind drehte auf Nordwest und brachte den Geruch von verbranntem Holz und Pulver mit, der von der Sperre herüberwehte, wo die Kämpfe noch immer nicht ganz abgeklungen waren. In der Ferne, hinter den Boddengewässern, lag Mönchgut, ein flacher Streifen Land, kaum sichtbar im Dunst. Maren sah hinüber, und sie dachte an Else, die am Ufer stand und wartete, und an Joren, der irgendwo dort draußen war, und an Thies, der neben ihr im Sand saß und die Augen geschlossen hatte, erschöpft bis zur Bewusstlosigkeit.
+
+»Was machen sie mit uns?«, fragte Fiete. Er hatte die Stimme erhoben, zum ersten Mal seit der Strandung.
+
+Lene sah ihn an. »Sie prüfen. Das dauert. Wir warten.«
+
+»Und dann?«
+
+»Dann gehen wir nach Hause«, sagte Lene. Sie sagte es ohne Zögern, ohne Zweifel, mit der Selbstverständlichkeit einer Frau, die wusste, dass Warten eine Handlung war und keine Ohnmacht.
+
+Maren beneidete sie um diese Gewissheit. Sie selbst wusste nicht, was sie erwartete. Sie wusste nur, dass sie die Papiere in der Hand hielt, die Abschriften, die Benthin ausgestellt hatte, und dass diese Papiere mehr waren als nur Schriftstücke. Sie waren der Beweis, dass die Männer nicht freiwillig gegangen waren, dass sie geholt worden waren, dass sie ein Recht auf Rückkehr hatten. Sie waren der Anfang von etwas, das noch nicht fertig war.
+
+Der Nachmittag verging in langsamen, zähen Stunden. Die dänischen Soldaten wechselten die Wachen, die Pferde wurden gefüttert, der Kessel über dem Feuer wurde nachgefüllt. Ein Arzt kam, ein älterer Mann mit Brille und einer Ledertasche, und untersuchte den jungen Soldaten. Er sprach kein Deutsch, aber er schüttelte den Kopf, als er die Wunde sah, und sagte etwas zu Rask, das Maren nicht verstand. Rask nickte. Sein Gesicht blieb unbewegt.
+
+Gegen Abend kam der Korporal zurück. Diesmal begleitete ihn ein Offizier, ein Mann in den Vierzigern mit grauen Schläfen und einem Gesicht, das Maren an einen Lehrer erinnerte, den sie als Kind gehabt hatte: freundlich, aber nicht weich. Der Offizier trug eine Mappe unter dem Arm und sah sich um, bevor er sprach.
+
+»Kapitän Holm lässt ausrichten«, sagte er, »dass die Papiere geprüft wurden. Die Angaben stimmen. Die Fischer sind frei, den Ankerplatz zu verlassen, sobald die Verwundeten transportfähig sind.« Er sah Maren an. »Sie sind die Tochter des Lotsen?«
+
+»Ja.«
+
+»Kapitän Holm lässt ausrichten, dass Ihr Vater wohlauf ist. Er ist an Bord der Führungsschaluppe. Er wird später an Land kommen.«
+
+Maren spürte, wie sich etwas in ihrer Brust löste, ein Knoten, der so lange gesessen hatte, dass sie ihn kaum noch bemerkt hatte. Sie atmete aus, langsam, und nickte. »Danke.«
+
+Der Offizier nickte zurück, dann wandte er sich an Lene. »Die Verwundeten werden in das Lazarett nach Sassnitz gebracht. Der Schwede und der Junge. Der Fischer mit der Fußwunde kann bei Ihnen bleiben, wenn Sie ihn transportieren können. Der Arzt sagt, es sei nicht mehr viel zu tun.«
+
+Lene sah ihn an, ohne zu blinzeln. »Was heißt das?«
+
+»Es heißt, dass sein Fuß verloren ist«, sagte der Offizier. »Aber sein Leben nicht.«
+
+Lene schwieg. Sie sah zu Dierk hinüber, der die Augen geschlossen hatte und dessen Atem flach und schnell ging. Dann sah sie wieder den Offizier an. »Wir nehmen ihn mit. Auf einem Karren. Wir brauchen einen Karren.«
+
+»Sie bekommen einen Karren«, sagte der Offizier. »Morgen früh. Vor Sonnenaufgang.«
+
+Er ging. Der Korporal folgte ihm, und die Soldaten zogen sich zurück, nicht weit, aber weit genug, um den Eindruck zu erwecken, dass sie nicht mehr bewachten, sondern nur noch anwesend waren.
+
+Maren setzte sich neben Thies in den Sand. Er öffnete die Augen, sah sie an, und sie sah, dass er wach war, dass er gehört hatte, was gesagt worden war. »Morgen«, sagte er. »Wir gehen morgen.«
+
+»Ja.«
+
+»Und dein Vater?«
+
+»Er kommt später.«
+
+Thies nickte. Er sagte nichts weiter. Er legte den Kopf zurück gegen den Balken und schloss die Augen wieder, und Maren blieb neben ihm sitzen, während die Dunkelheit hereinbrach und die Feuer der dänischen Zelte zu kleinen, flackernden Punkten wurden, die den Ankerplatz in ein unruhiges Halbdunkel tauchten.
+
+Am nächsten Morgen, vor Sonnenaufgang, wurde der Karren gebracht. Zwei dänische Soldaten schoben ihn über den Sand, ein einfaches Gefährt mit hölzernen Rädern und einer Ladefläche aus groben Brettern. Lene und Maren hoben Dierk hinauf, so behutsam sie konnten, während Fiete den Kopf seines Vaters stützte. Dierk stöhnte einmal, als sein Fuß aufstieß, dann biss er die Zähne zusammen und sagte kein Wort mehr.
+
+Rask wurde von zwei Soldaten auf einer Trage weggebracht, zum Lazarett, das irgendwo im Hinterland lag. Der junge Soldat folgte auf einer zweiten Trage, das Gesicht noch immer wachsbleich, die Augen geschlossen. Rask drehte den Kopf, als er an Maren vorbeikam. Er sah sie an, und Maren sah ihn an, und in diesem Blick lag etwas, das sie nicht benennen konnte: keine Dankbarkeit, keine Feindschaft, keine Bitte. Es war der Blick eines Mannes, der wusste, dass er nichts mehr zu sagen hatte, und der trotzdem etwas sagen wollte. Dann wandte er den Kopf ab, und die Träger trugen ihn davon.
+
+Maren stand am Rand des Ankerplatzes und sah ihnen nach, bis sie hinter einer Bodenwelle verschwunden waren. Sie dachte an das, was Rask getan hatte, und an das, was er nicht getan hatte. Sie dachte an den Schlüssel, den er ihr ausgehändigt hatte, an die Fischer, die sie befreit hatte, an den verwundeten Jungen, den sie geborgen hatten. Sie dachte an die Worte, die er gesagt hatte, als sie ihn verband: »Sie hätten mich sterben lassen können. Warum haben Sie es nicht getan?« Und sie hatte geantwortet: »Weil ich nicht wie Sie sein will.«
+
+Es war keine großzügige Antwort gewesen. Es war eine ehrliche Antwort gewesen. Und vielleicht, dachte Maren, war das dasselbe.
+
+Der Fußmarsch begann. Sie gingen zu viert: Lene schob den Karren, Maren ging neben ihr, Fiete lief voraus, blieb stehen, wartete, lief wieder voraus. Thies folgte in einigem Abstand, das Werkzeug über der Schulter, das er aus der Hoffnung gerettet hatte, bevor das Boot gesunken war. Der Weg führte über einen schmalen Pfad, der sich durch das flache Küstenland wand, vorbei an kahlen Weiden und umgestürzten Zäunen, an verlassenen Gehöften und Feldern, die niemand bestellt hatte. Der Himmel war grau, die Luft kalt, der Boden aufgeweicht vom Regen der vergangenen Tage.
+
+Sie sprachen wenig. Es gab nichts zu sagen, was nicht schon gesagt worden war. Lene ging mit zusammengebissenen Zähnen und einem Blick, der geradeaus gerichtet war, auf das Ziel, auf das Haus, auf das, was von ihrem Leben übrig war. Maren ging neben ihr und dachte an die Papiere in ihrer Mappe, an die Abschriften, an die Siegel, an das, was sie noch tun musste, wenn sie nach Hause kam. Sie dachte an Benthin, an die Register, an die Ansprüche, die erhoben werden mussten, bevor die Erinnerung verblasste. Sie dachte an die Schulden, die sie machen würde, an den Wiederaufbau, an die Netze, die ersetzt werden mussten, an das Boot, das verloren war. Sie dachte an all das, und sie wusste, dass es nicht morgen begann, sondern heute, jetzt, mit jedem Schritt, den sie tat.
+
+Gegen Mittag erreichten sie die erste Weggabelung. Der Pfad teilte sich: nach links führte er nach Thiessow, nach rechts nach Middelhagen. Lene blieb stehen und sah Maren an.
+
+»Du gehst nach Middelhagen«, sagte sie. Es war keine Frage.
+
+»Ja. Benthin muss die Abschriften beglaubigen. Und ich muss die Ansprüche anmelden. Bevor die Dänen ihre eigene Ordnung aufrichten.«
+
+Lene nickte. »Und dann?«
+
+»Dann komme ich nach. Mit den Papieren. Mit allem, was nötig ist.«
+
+Lene sah sie an, lange, prüfend. Dann sagte sie: »Du hast deinen Anteil an dem, was geschehen ist. Vergiss das nicht. Aber du hast auch deinen Anteil an dem, was noch kommt. Ich erwarte, dass du ihn trägst.«
+
+»Ich weiß«, sagte Maren.
+
+Sie trennten sich. Lene schob den Karren nach links, in Richtung Thiessow, Fiete neben ihr, Thies hinter ihr. Maren sah ihnen nach, bis sie hinter einer Biegung verschwunden waren, dann wandte sie sich nach rechts und ging allein weiter, den Pfad entlang, der nach Middelhagen führte.
+
+Der Weg war leer. Keine Menschenseele, kein Vieh, kein Fuhrwerk. Nur der Wind, der über die Felder strich, und das Geräusch ihrer eigenen Schritte auf dem feuchten Boden. Sie ging schnell, ohne zu rasten, die Mappe fest an die Brust gedrückt, und sie dachte an ihren Vater, der irgendwo hinter ihr war, auf einem dänischen Schiff, auf dem Weg nach Hause, und sie dachte an das, was sie ihm sagen würde, wenn sie ihn wiedersah, und sie wusste es nicht.
+
+Am späten Nachmittag erreichte sie Middelhagen. Das Dorf lag still, die Häuser geschlossen, die Türen verriegelt, die Fenster mit Läden versehen. Ein Hund lief über den Weg, blieb stehen, sah sie an, lief weiter. Maren ging zum Küsterhaus, klopfte, wartete, klopfte wieder. Nach einer Weile öffnete Benthin. Sein Gesicht war blass, die Augen gerötet, die Kleidung zerknittert, als hätte er seit Tagen nicht geschlafen.
+
+»Maren«, sagte er. »Du lebst.«
+
+»Ja«, sagte sie. »Ich lebe. Und ich brauche deine Hilfe.«
+
+Sie trat ein, ohne zu warten, und legte die Mappe auf den Tisch. Sie öffnete sie, breitete die Abschriften aus, die durchnässten, die zerknitterten, die kaum noch lesbaren. Benthin sah sie an, und sein Gesicht veränderte sich, als er begriff, was sie vorhatte.
+
+»Du willst die Ansprüche anmelden«, sagte er.
+
+»Ja. Bevor die Dänen ihre eigene Ordnung aufrichten. Bevor die Schweden zurückkommen. Bevor niemand mehr weiß, was geschehen ist.«
+
+Benthin schwieg. Er sah die Papiere an, dann Maren, dann wieder die Papiere. Dann setzte er sich, nahm eine Feder, tauchte sie ein, und begann zu schreiben.
+
+Maren stand am Fenster und sah hinaus. Der Himmel war grau, die Straße leer, das Dorf still. Sie dachte an Lene, die den Karren nach Thiessow schob, an Dierk, der seinen Fuß verloren hatte, an Thies, der sein Boot verloren hatte, an ihren Vater, der irgendwo auf dem Wasser war, und an Else, die am Ufer stand und wartete. Sie dachte an all das, und sie wusste, dass sie nichts davon ändern konnte. Sie konnte nur das tun, was vor ihr lag: die Papiere ordnen, die Ansprüche anmelden, die Rechte der Familie sichern, bevor es zu spät war.
+
+Sie setzte sich neben Benthin und begann zu diktieren.
+
+---
+
+## Die offene Rechnung
+
+> Aus dem Verlustregister der Kirchgemeinde Middelhagen, angelegt im Spätjahr 1715: »Dreizehn Fahrzeuge beschädigt oder verloren. Vierundzwanzig Netze zerrissen. Zwei Schuppen niedergebrannt. Ein Mann tot, neun verwundet, einer versehrt für Lebenszeit. An Ansprüchen angemeldet: nichts.«
+
+Der Geruch von feuchtem Kalk und Heringstran hing über dem Kirchplatz, als Joren Voss am frühen Nachmittag durch das Tor der Friedhofsmauer trat. Man hatte die Toten des Herbstes in einer Reihe gebettet, ohne Sarg, in Tücher geschlagen, weil das Holz für die Lebenden gebraucht wurde. Er blieb stehen, zählte die Hügel, kam auf sieben, und einer davon war zu klein für einen Erwachsenen. Der Wind strich über das Gras, das noch nicht angewachsen war, und Joren zog den Kragen enger, obwohl ihm nicht kalt war.
+
+Die Dorfleute standen in Gruppen vor der Kirche. Sie redeten nicht laut. Sie sahen ihn kommen, einer nach dem anderen, und das Reden hörte auf, wie ein Feuer, dem man das Öl entzieht. Jürgen Klook stand am nächsten, die Arme verschränkt, das Gesicht verschlossen. Hannes Tamm hielt den Hut in beiden Händen und drehte ihn. Kruse spuckte aus, langsam, ohne Eile, und traf genau die Fuge zwischen zwei Pflastersteinen.
+
+»Da ist er«, sagte Klook. Nicht laut. Nur so, dass es alle hörten.
+
+Joren ging weiter, bis er vor ihnen stand. Er trug sein Ölzeug, das noch salzig war, und in der rechten Hand hielt er die Mappe, die Maren ihm am Morgen am Strand von Palmer Ort gegeben hatte, als sie sich getrennt hatten. Er hatte sie auf der Fahrt über den Bodden nicht geöffnet. Er wusste, was darin war.
+
+»Ich hab nichts zu meiner Entschuldigung zu sagen«, begann er. Seine Stimme war rau vom Salzwasser. »Ich hab Dierk benannt. Ich hab die Männer ausgewählt. Ich hab gesagt, es wären wenige Tage, und ich hab gewusst, dass ich das nicht weiß. Ich hab gelogen, als sie nicht zurückkamen. Ich hab euch allen gesagt, es stünde gut, als es längst nicht mehr gut stand.«
+
+Er machte eine Pause. Niemand unterbrach ihn. Das war das Schlimmste.
+
+»Dierk hat seinen Fuß verloren. Hannes, dein Kahn liegt als Wrack vor Palmer Ort. Kruse, deine Netze sind weg. Paye, dein Sohn ist zweimal mit mir auf See gewesen, ohne dass du es wusstest, und beim zweiten Mal wär er fast ertrunken. Das ist meine Rechnung, und ich steh dazu.«
+
+Er legte die Mappe auf den Brunnenrand, öffnete sie, nahm die Blätter heraus und hielt sie hoch. Es waren die Abschriften, die Benthin gefertigt hatte, die Listen mit den Namen, den Fahrzeugen, den Forderungen.
+
+»Das hier ist, was die Krone verlangt hat, und das hier ist, was sie dafür gegeben hat. Nichts. Kein Rückgabedatum, keine Entschädigung, kein Wort, das vor Gericht hält. Ich hab das gewusst, als ich unterschrieben habe. Ich hab es gewusst und hab es euch verschwiegen, weil ich geglaubt habe, ich könnte es besser lenken als ihr. Das war Hochmut, und Hochmut kostet mehr als ein Boot.«
+
+Klook trat einen Schritt vor. Sein Gesicht war rot, die Adern an den Schläfen traten hervor.
+
+»Und jetzt?«, fragte er. »Jetzt kommst du her und sagst uns das, und dann? Sollen wir dir danken, dass du es zugibst? Soll Dierk auf seinem Stumpf stehen und dir die Hand geben?«
+
+»Nein«, sagte Joren.
+
+»Was dann?«
+
+Joren sah ihn an, lange, ohne Ausweichen. »Ich verkaufe die Möwe«, sagte er.
+
+Es wurde still. Nicht das Schweigen der Betroffenheit, sondern das andere, das der Rechnung. Hannes hörte auf, den Hut zu drehen. Kruse richtete sich auf.
+
+»Die Möwe ist mein Boot«, fuhr Joren fort. »Sie ist das Einzige, was mir geblieben ist, und sie ist mehr wert als das, was ich euch schulde. Ich verkaufe sie, und der Erlös geht an die, die durch meine Hand verloren haben. An Dierk für die Grete. An Kruse für die Netze. An Hannes für den Kahn. An die Familien derer, die nicht mehr da sind. Ich behalte nichts davon. Nicht einen Schilling.«
+
+»Und wovon willst du leben?«, fragte Hannes, leise.
+
+»Von dem, was übrig bleibt«, sagte Joren. »Von fremden Booten. Von der Arbeit, die mir bleibt. Ich bin zweiundfünfzig. Ich kann noch rudern.«
+
+Er sah sie an, einen nach dem anderen. Er wartete nicht auf Dank. Er wusste, dass keiner kommen würde, und er wollte keinen. Was er wollte, war, dass sie es hörten, dass es gesagt war, vor allen, un widerruflich. Was gesagt ist, kann nicht mehr verschwiegen werden.
+
+Klook sah ihn an, und in seinem Gesicht arbeitete etwas. Dann wandte er sich ab und ging. Die anderen blieben. Kruse spuckte noch einmal aus, aber diesmal traf er daneben. Hannes setzte den Hut auf. Keiner sagte ein Wort des Einverständnisses, keiner des Widerspruchs. Sie standen da, und das war mehr, als Joren erwartet hatte.
+
+Er nahm die Blätter, legte sie zurück in die Mappe, und ging zur Kirche, um mit dem Pastor über die Verteilung zu sprechen.
+
+---
+
+Am Strand von Thiessow lag die Grete auf der Seite, den Kiel zum Land, die Planken aufgebrochen, das Ruder fort. Sie war nicht mehr zu retten. Lene stand daneben, die Hände in die Hüften gestemmt, und sah das Wrack an, wie man einen Toten ansieht, den man nicht mehr waschen kann.
+
+Maren kam am späten Nachmittag den Pfad herunter. Sie hatte den Weg von Middelhagen in einem Zug gemacht, ohne Rast, die Mappe unter dem Arm, und als sie Lene sah, blieb sie stehen. Zwischen ihnen lagen zwanzig Schritt Sand und das, was geschehen war.
+
+Lene drehte sich um. Ihr Gesicht war grau vor Müdigkeit, die Augen lagen tief, die Lippen rissig. Sie sagte nichts.
+
+»Ich hab die Ansprüche angemeldet«, sagte Maren. »Bei Benthin. Alles, was wir belegen können. Die Grete, die Netze, Dierks Fuß. Es ist aufgeschrieben, mit Siegel, und die Dänen haben es angenommen.«
+
+Lene sah sie an. »Und was ist es wert?«
+
+»Ich weiß es nicht«, sagte Maren. »Vielleicht nichts. Vielleicht ein Teil. Aber es steht.«
+
+Lene nickte, langsam, ohne Freude. Sie wandte sich wieder dem Boot zu. »Dierk liegt im Haus«, sagte sie. »Der Arzt war da. Er hat den Fuß abgenommen, unterhalb des Knöchels. Dierk hat es überlebt. Er schläft jetzt.«
+
+Maren schloss die Augen, einen Moment, dann öffnete sie sie wieder. »Thies?«
+
+»Am Schuppen«, sagte Lene. »Er hat seit gestern nichts gesagt. Er sitzt da und sieht das Wasser an. Ich hab ihm Essen gebracht, er hat es nicht angerührt.«
+
+Maren ging den Strand hinauf, zum Schuppen. Die Tür stand offen. Thies saß auf einer umgestürzten Kiste, den Rücken gegen die Wand, die Hände im Schoß. Vor ihm lagen Hobel, Stemmeisen, Werg, Pech, sein ganzes Werkzeug, sauber, geordnet, unberührt. Er sah nicht auf, als sie eintrat.
+
+Sie setzte sich neben ihn, auf den Boden, mit dem Rücken gegen dieselbe Wand. Sie sagte nichts. Der Schuppen roch nach Holz und Teer und altem Salz. Draußen schlug die Brandung, gleichmäßig, gleichgültig.
+
+Nach einer langen Weile sagte Thies: »Ich hab sie gekappt.«
+
+»Ich weiß«, sagte Maren.
+
+»Das Tau. Ich hab es selbst durchgeschnitten. Sie ist gesunken, weil ich sie gekappt hab.«
+
+»Sie ist gesunken, weil sie leck war«, sagte Maren. »Du hast neun Menschen gerettet.«
+
+Thies schwieg. Dann sagte er, ohne die Stimme zu heben: »Sie war meine. Ich hab sie gebaut. Ich hab sieben Jahre für sie geschuftet. Und ich hab sie mit einem einzigen Schnitt weggeworfen.«
+
+»Ja«, sagte Maren.
+
+Sie legte ihre Hand auf seine. Er zog sie nicht weg. Sie saßen so, bis das Licht aus dem Schuppen ging und die Dämmerung kam, und keiner von beiden sagte mehr ein Wort.
+
+---
+
+Am Abend saßen sie in der Küche des Lotsenhauses. Else hatte Brot und Fisch aufgetragen, karg, aber warm, und sie aßen schweigend. Joren war noch nicht zurück; er war in Middelhagen geblieben, um mit dem Pastor die Verteilung der Mittel zu ordnen. Lene war gegangen, um nach Dierk zu sehen. Fiete schlief auf der Bank, den Kopf auf den Armen.
+
+Maren saß am Tisch und sah in die Flamme der Lampe. Thies saß ihr gegenüber, die Hände um einen Becher, den er nicht leerte. Else ging zwischen Herd und Tisch hin und her, ordnete, wischte, tat, was sie immer tat, und ihre Ruhe war keine Gleichgültigkeit, sondern die Art, wie sie die Dinge zusammenhielt, die auseinanderzufallen drohten.
+
+»Er hat die Möwe verkauft«, sagte Else, ohne sich umzudrehen.
+
+Maren sah auf. »Was?«
+
+»Dein Vater. Heute Nachmittag, auf dem Kirchplatz, vor allen. Er hat gesagt, der Erlös geht an die Geschädigten. An Dierk, an Kruse, an Hannes, an die Familien. Er behält nichts.«
+
+Maren schwieg. Sie dachte an die Möwe, an das Boot, mit dem sie als Kind hinausgefahren war, an die Bank, auf der sie gesessen hatte, während ihr Vater das Ruder hielt, an das Gefühl, getragen zu sein. Sie dachte an all das, und sie sagte nichts.
+
+»Er hat es nicht mit mir besprochen«, sagte Else. Ihre Stimme war ruhig, aber es lag etwas darin, das Maren kannte, das alte, das harte. »Er hat es getan, und dann hat er es mir gesagt. Wie immer.«
+
+»Mutter«, begann Maren.
+
+»Nein«, sagte Else. Sie drehte sich um, die Hände am Schürzenband. »Ich sag es nicht, um ihn zu verurteilen. Ich sag es, weil es wahr ist. Er tut das Richtige auf die Art, die ihm bleibt, und die Art, die ihm bleibt, ist die, die allein entscheidet. Er wird es nie anders lernen. Aber das Boot ist weg, und wir werden es spüren, im Winter, im Frühjahr, in jedem Monat, in dem das Geld fehlt.«
+
+Sie setzte sich, endlich, auf den Stuhl am Ende des Tisches, und für einen Moment sah sie alt aus, älter als sonst, die Hände im Schoß, die Schultern gesenkt.
+
+»Ich hab es gewusst«, sagte sie. »Ich hab gewusst, dass er es tun würde, seit er in der ersten Nacht von der dänischen Fregatte zurückkam. Es war nur eine Frage der Zeit.«
+
+Maren sah sie an. »Bist du ihm böse?«
+
+Else lachte, kurz, ohne Freude. »Böse. Was ist das für ein Wort. Ich bin nicht böse. Ich bin müde. Ich bin zweiundvierzig Jahre mit diesem Mann verheiratet, und ich hab ihn nie ganz gekannt, und ich hab ihn nie ganz verloren. Das ist keine Ehe, das ist ein Wetter. Man lernt, sich danach zu richten.«
+
+Sie stand auf, ging zum Herd, nahm den Kessel, goss Wasser in die Becher. »Esst«, sagte sie. »Morgen ist auch ein Tag, und er wird nicht besser, wenn wir heute hungern.«
+
+---
+
+Joren kam in der Nacht zurück. Maren hörte die Tür, hörte seine Schritte im Flur, hörte, wie er stehenblieb, bevor er die Kammer betrat. Sie lag wach, die Decke bis zum Kinn, und wartete. Nach einer Weile hörte sie die Tür zur Kammer, leise, dann Stille.
+
+Am Morgen stand er am Strand, vor dem Wrack der Grete, und sah aufs Wasser. Maren ging zu ihm, ohne Mantel, obwohl der Wind kalt war.
+
+»Vater«, sagte sie.
+
+Er drehte sich nicht um. »Ich hab es getan«, sagte er. »Die Möwe. Ich hab den Käufer gefunden, einen aus Lauterbach. Er zahlt in drei Wochen, in barem Geld. Ich hab es aufgeschrieben, mit Benthins Hilfe, damit es gilt.«
+
+»Ich weiß«, sagte Maren. »Mutter hat es mir gesagt.«
+
+Joren nickte. Er sah auf die Grete, auf die aufgebrochenen Planken, auf das, was von dem Boot übrig war, das Dierk und Lene durch so viele Jahre getragen hatte.
+
+»Ich hab geglaubt, ich könnte es lenken«, sagte er. »Die Sperre, die Listen, die Männer, den Krieg. Ich hab geglaubt, wenn ich nur laut genug sage, was zu tun ist, dann tun es alle, und dann wird es gut. Ich hab nicht gesehen, dass ich dabei immer nur mein eigenes Gewissen gerettet habe.«
+
+Maren stand neben ihm. Der Wind trieb Sand über ihre Füße.
+
+»Was wirst du jetzt tun?«, fragte sie.
+
+»Arbeiten«, sagte Joren. »Was mir bleibt. Fremde Boote lotsen, bis ich es nicht mehr kann. Und die Rechnungen bezahlen, eine nach der anderen, bis keine mehr übrig ist.«
+
+»Und wenn sie nie alle bezahlt sind?«
+
+Joren sah sie an. Sein Gesicht war müde, die Haut um die Augen heller als sonst, aber es lag etwas darin, das Maren lange nicht gesehen hatte: keine Selbstsicherheit, keine Bevormundung, nur die nackte, ungeschmückte Anerkennung dessen, was war.
+
+»Dann sind sie nie alle bezahlt«, sagte er. »Und ich hör trotzdem nicht auf.«
+
+Sie standen eine Weile, ohne zu sprechen. Über dem Bodden lag grauer Dunst, und irgendwo dahinter, unsichtbar, lagen die Sperre, die Wracks, die Gräber. Das Dorf hinter ihnen erwachte langsam, Rauch stieg aus den Schornsteinen, eine Tür schlug, ein Hund bellte.
+
+»Ich hab mit Benthin gesprochen«, sagte Maren. »Wegen der Ansprüche. Er hat die Abschriften angenommen, und die Dänen haben sie registriert. Es wird geprüft. Vielleicht kommt etwas dabei heraus. Vielleicht nicht.«
+
+»Und wenn nichts kommt?«
+
+»Dann haben wir es wenigstens versucht«, sagte Maren. »Und es steht geschrieben. Das ist mehr, als die meisten haben.«
+
+Joren sah sie an, und für einen Moment lag etwas in seinem Blick, das sie nicht benennen konnte. Nicht Stolz, nicht Dankbarkeit, etwas Drittes, Ruhigeres. Er nickte, einmal, und wandte sich wieder dem Wasser zu.
+
+---
+
+In den folgenden Wochen wurde der Kirchplatz zum Zentrum der Abrechnung. Benthin saß jeden Vormittag im Küsterhaus, die Feder in der Hand, und schrieb auf, was die Leute ihm brachten: Verluste, Forderungen, Zeugenaussagen, Namen, Daten, Beträge. Maren half ihm, ordnete, prüfte, rechnete, und was sie aufschrieben, war nicht das, was in den Chroniken stehen würde. Es waren keine Heldentaten. Es waren Zahlen.
+
+Kruse kam und meldete den Verlust seiner Netze, sechs Stück, dazu zwei Reusen und ein Ruder. Hannes kam und meldete den Kahn, den er vor Palmer Ort verloren hatte, und er weinte nicht, als er es sagte, aber seine Hände zitterten. Klook kam und meldete nichts, weil er nichts verloren hatte, und er stand eine Weile am Rand und sah zu, wie die anderen ihre Verluste zu Protokoll gaben, und dann ging er, ohne ein Wort.
+
+Lene kam am dritten Tag. Sie brachte die Papiere der Grete, den Kaufvertrag von vor zwölf Jahren, die Schuldverschreibung, die noch offen war, die Liste der Ausrüstung, die an Bord gewesen war, als das Boot sank. Sie legte alles auf den Tisch, ordentlich, und sagte: »Das ist alles. Mehr haben wir nicht.«
+
+Benthin sah die Papiere durch, langsam, sorgfältig. Dann sagte er: »Die Schuldverschreibung läuft noch auf sechs Jahre. Wenn die Entschädigung kommt, muss sie zuerst bedient werden.«
+
+»Ich weiß«, sagte Lene. »Aber Dierk kann nicht mehr fischen. Nicht mit einem Fuß. Er kann am Ufer arbeiten, Netze flicken, aber nicht hinausfahren. Und Fiete ist zwölf. Er kann noch nicht die Familie ernähren.«
+
+Sie sagte es ohne Klage, ohne Bitterkeit, nur als Tatsache. Benthin nickte und schrieb es auf.
+
+Als Lene gehen wollte, hielt Maren sie am Arm fest. »Lene«, sagte sie. »Die Pachtschulden. Ich hab mit Benthin gesprochen. Er kann die Frist strecken, wenn die Gemeinde bürgt. Ich bürge.«
+
+Lene sah sie an, lange. »Du bürgst?«
+
+»Ja.«
+
+»Mit was? Du hast nichts.«
+
+»Mit dem, was ich habe«, sagte Maren. »Mit meiner Arbeit, mit meiner Zeit, mit meinem Namen. Wenn es nicht reicht, verkaufe ich, was ich besitze. Es ist nicht viel, aber es ist etwas.«
+
+Lene sah sie an, und in ihrem Gesicht arbeitete etwas, das Maren nicht deuten konnte. Dann nickte sie, einmal, knapp. »Gut«, sagte sie. »Dann bürgst du. Aber ich will es schriftlich, mit Siegel, und ich will es lesen können, bevor ich es annehme.«
+
+»Du wirst es lesen«, sagte Maren.
+
+Lene ging. Benthin sah Maren an, über die Brille hinweg. »Du weißt, was du tust?«
+
+»Ja«, sagte Maren.
+
+»Du bindest dich an eine Schuld, die du vielleicht nie abtragen kannst.«
+
+»Ich weiß.«
+
+Benthin schwieg. Dann tauchte er die Feder ein und begann, die Bürgschaft aufzusetzen.
+
+---
+
+Am Ende der Woche kam Joren mit dem Geld. Der Käufer aus Lauterbach hatte die Möwe abgeholt, am Morgen, bei Ebbe, und Joren hatte zugesehen, wie sie hinausgeschleppt wurde, ohne ein Wort. Er brachte den Beutel ins Küsterhaus, leerte ihn auf den Tisch, zählte die Münzen, und Benthin schrieb jede einzelne auf.
+
+»Das ist alles«, sagte Joren. »Mehr hab ich nicht.«
+
+Benthin rechnete. Es war nicht genug, um alle Verluste zu decken. Es war nicht einmal genug, um die Hälfte zu decken. Aber es war etwas, und etwas war mehr als nichts.
+
+»Ich verteile es«, sagte Benthin. »Nach dem, was aufgeschrieben ist. Dierk bekommt den größten Teil, für die Grete und den Fuß. Kruse bekommt für die Netze. Hannes für den Kahn. Der Rest geht an die Familien der Toten.«
+
+»Und was bleibt für dich?«, fragte Joren.
+
+»Nichts«, sagte Benthin. »Ich hab meine Arbeit. Das reicht.«
+
+Joren sah ihn an, und für einen Moment lag etwas in seinem Blick, das wie Dankbarkeit aussah, aber nicht ganz. »Du hättest die Listen vernichten können«, sagte er. »Damals, als Maren es verlangt hat. Du hättest sie verbrennen können, und niemand hätte es je erfahren.«
+
+»Ja«, sagte Benthin. »Ich hätte es tun können.«
+
+»Warum hast du es nicht getan?«
+
+Benthin legte die Feder hin. Er sah aus dem Fenster, auf die Straße, auf das Dorf, das noch stand, obwohl so vieles nicht mehr stand.
+
+»Weil ich Küster bin«, sagte er. »Weil ich aufschreibe, was ist, nicht was sein sollte. Weil ich gelernt habe, dass die Wahrheit, wenn sie aufgeschrieben ist, wenigstens eine Chance hat, später gehört zu werden. Und weil ich zu alt bin, um noch etwas anderes zu lernen.«
+
+Joren nickte. Er nahm den leeren Beutel, faltete ihn zusammen, steckte ihn ein. An der Tür blieb er stehen.
+
+»Danke«, sagte er.
+
+Benthin sah auf. »Wofür?«
+
+»Dafür, dass du es aufgeschrieben hast«, sagte Joren. »Alles. Auch das, was ich lieber nicht gelesen hätte.«
+
+Er ging. Benthin sah ihm nach, dann wandte er sich wieder den Papieren zu.
+
+---
+
+Der Wiederaufbau begann nicht mit einem Fest, nicht mit einem Dankgottesdienst, nicht mit einer Rede. Er begann mit einer Liste. Wer konnte was, wer hatte was, wer brauchte was. Benthin schrieb sie auf, und Maren half ihm, und was dabei herauskam, war keine Chronik des Ruhms, sondern eine Inventur der Not.
+
+Kruse hatte noch ein Ruder. Hannes hatte noch Segeltuch. Dierk hatte noch Werkzeug, obwohl er es nicht mehr führen konnte. Lene hatte noch ihre Hände, ihre Kraft, ihren Willen. Thies hatte nichts, außer dem, was er wusste, und dem, was er konnte. Er meldete sich zum Wiederaufbau des Schuppens, der im Herbst niedergebrannt war, und er arbeitete vom ersten Tag an, ohne Lohn, ohne Auftrag, nur weil es zu tun war.
+
+Maren sah ihn am vierten Tag, als sie vom Küsterhaus kam. Er stand auf dem Gerüst, das er selbst gezimmert hatte, und setzte einen Balken, und sein Gesicht war ruhig, konzentriert, fast wie früher. Sie blieb stehen und sah ihm zu, und für einen Moment war es, als wäre nichts geschehen, als wäre die Hoffnung nicht gesunken, als wäre Dierk nicht versehrt, als wären die Toten nicht tot.
+
+Dann sah Thies sie, und er nickte, knapp, und wandte sich wieder der Arbeit zu. Und Maren ging weiter, weil es zu tun gab, weil die Liste noch nicht abgearbeitet war, weil der Winter kam und die Vorräte nicht reichten.
+
+---
+
+Am letzten Tag des Monats kam Frederik Holm nach Middelhagen. Er kam nicht mit Soldaten, sondern mit zwei Männern und einem Schreiber, und er ließ sich im Küsterhaus nieder, um die Ansprüche der Gemeinde zu prüfen. Er blieb drei Stunden, sah jede Liste an, jede Abschrift, jede Zeugenaussage, und stellte Fragen, die präzise waren und kalt, aber nicht feindselig.
+
+»Die Entschädigung wird nicht vollständig sein«, sagte er am Ende, zu Maren und Benthin. »Das kann ich nicht versprechen. Aber was anerkannt ist, wird gezahlt. In Raten. Über Jahre. Das ist mehr, als die Schweden je getan hätten.«
+
+»Das ist nicht viel«, sagte Maren.
+
+»Nein«, sagte Holm. »Aber es ist etwas. Und es steht geschrieben.«
+
+Er sah Maren an, und für einen Moment lag etwas in seinem Blick, das sie nicht benennen konnte. Nicht Mitleid, nicht Bewunderung, etwas Drittes, Ruhigeres.
+
+»Ihr Vater hat mir gesagt, was er getan hat«, sagte Holm. »Das Boot. Die Verteilung. Ich hab es nicht verlangt. Ich hab es nicht erwartet. Aber ich hab es gesehen.«
+
+»Und?«, fragte Maren.
+
+»Und nichts«, sagte Holm. »Es war seine Entscheidung. Ich hab keine Meinung dazu. Ich hab nur die Papiere.«
+
+Er stand auf, nahm seinen Hut, und ging. An der Tür blieb er stehen.
+
+»Die Grete wird nicht zurückgegeben«, sagte er. »Sie liegt als Wrack vor Palmer Ort, und sie bleibt dort. Das ist der Preis, den ich nicht verhandeln kann. Aber die Fischer sind frei, und sie bleiben frei. Das ist der Teil, den ich halten kann.«
+
+Er ging. Maren sah ihm nach, bis er hinter der Biegung verschwunden war, dann wandte sie sich wieder den Papieren zu.
+
+---
+
+Am Abend saß sie mit Thies am Strand. Die Sonne war untergegangen, der Himmel grau, das Wasser still. Die Grete lag noch da, ein dunkler Umriss im Zwielicht, und daneben, unsichtbar, die Stelle, wo die Hoffnung gesunken war.
+
+»Ich hab mit Lene gesprochen«, sagte Maren. »Wegen der Bürgschaft. Sie hat sie angenommen. Mit Siegel, wie sie es verlangt hat.«
+
+Thies nickte. Er sah aufs Wasser, ohne zu sprechen.
+
+»Und ich hab mit Benthin gesprochen«, fuhr Maren fort. »Wegen des Schuppens. Er wird wieder aufgebaut, im Frühjahr, mit dem Geld aus der Entschädigung. Du kannst ihn pachten, wenn du willst. Für die Reparaturen. Für die Arbeit, die du kannst.«
+
+Thies sah sie an. »Du bietest mir einen Schuppen an.«
+
+»Ja.«
+
+»Nach allem, was ich gesagt habe. Nach allem, was ich getan habe. Nach Stralsund, nach dem Weggang, nach dem Streit.«
+
+»Ja«, sagte Maren.
+
+Thies schwieg. Er sah wieder aufs Wasser, und für eine lange Zeit sagte keiner von beiden ein Wort. Dann sagte er, leise: »Ich hab die Hoffnung gekappt, weil ich geglaubt hab, ich könnte es nicht ertragen, sie zu verlieren. Und dann hab ich sie verloren, und ich hab es ertragen, und ich hab neun Menschen gerettet. Ich weiß nicht, was das bedeutet. Ich weiß nur, dass ich es getan hab.«
+
+»Ich weiß«, sagte Maren.
+
+»Und du bürgst für Lene, und du bietest mir einen Schuppen an, und du sitzt hier, am Strand, und siehst auf das Wasser, als wäre nichts geschehen.«
+
+»Es ist geschehen«, sagte Maren. »Alles ist geschehen. Aber es ist vorbei, und wir sind noch da, und das ist mehr, als die meisten haben.«
+
+Thies sah sie an, lange. Dann sagte er: »Ich bleib.«
+
+Maren sah auf. »Was?«
+
+»Ich bleib hier«, sagte Thies. »Ich geh nicht nach Stralsund. Ich bleib in Thiessow, und ich bau den Schuppen auf, und ich arbeite, und ich seh, was daraus wird.«
+
+Maren schwieg. Sie sah ihn an, und in ihrem Gesicht arbeitete etwas, das sie nicht benennen konnte. Dann nickte sie, einmal, knapp.
+
+»Gut«, sagte sie.
+
+Sie saßen weiter am Strand, bis es dunkel war, und keiner von beiden sagte mehr ein Wort. Über dem Bodden lag der Wind, und irgendwo dahinter, unsichtbar, lagen die Sperre, die Wracks, die Gräber. Aber hier, am Strand von Thiessow, war nur das Wasser, und das Wasser war still.
+
+---
+
+Später, als Maren ins Haus kam, saß Joren am Tisch, über einer Karte, die er mit Bleistift beschriftet hatte. Er sah auf, als sie eintrat.
+
+»Ich hab Arbeit«, sagte er. »Ein Kaufmann aus Greifswald braucht einen Lotsen für die Fahrt nach Stralsund. Es ist nicht viel, aber es ist etwas.«
+
+»Gut«, sagte Maren.
+
+Joren sah sie an. »Ich hab mit Lene gesprochen. Wegen der Möwe. Sie hat gesagt, ich hätte es nicht tun müssen.«
+
+»Und was hast du gesagt?«
+
+»Ich hab gesagt, dass ich es tun musste«, sagte Joren. »Nicht für sie. Für mich. Weil ich nicht mehr der sein will, der alles allein entscheidet und dann behauptet, es wäre für die anderen gewesen.«
+
+Maren setzte sich ihm gegenüber. Die Lampe brannte zwischen ihnen, klein, gelb, ruhig.
+
+»Vater«, sagte sie. »Ich hab dir vor einem Jahr gesagt, dass du mir nichts schuldig bist. Das war falsch. Du bist mir etwas schuldig. Nicht das Boot, nicht das Geld, nicht die Entschuldigung. Nur die Wahrheit. Immer. Auch wenn sie weh tut.«
+
+Joren sah sie an, lange. Dann sagte er: »Ich weiß.«
+
+Er faltete die Karte zusammen, legte sie beiseite, und sah aus dem Fenster, auf den dunklen Strand, auf das Wasser, auf das, was übrig war.
+
+»Es ist nicht genug«, sagte er.
+
+»Nein«, sagte Maren. »Aber es ist ein Anfang.«
+
+Sie saßen noch eine Weile, schweigend, und draußen ging der Wind über den Bodden, und irgendwo, weit hinter dem Horizont, lag die offene See.
+
+---
+
+## Der Vermerk von Eldena
+
+> Anno 1725, im Juli. Verzeichnet im Rechnungsbuch des Küsters zu Middelhagen: *Ausgegeben für Botenlohn und Zehrung eines fremden Schreibers, der sich nach den Begebenheiten des Jahres 1715 auf dem Sunde erkundigt – zwei Schillinge sechs Pfennige. Eingenommen: nichts.*
+
+Der Staub auf der Landstraße stand in einer weißen, zähen Wolke, die sich nicht setzen wollte, und der Mann, der daraus hervorkam, trug einen Rock, der in Greifswald geschnitten war und für Rügen zu warm. Er stellte seinen Stock neben die Tür, zog den Hut und hielt ihn vor den Bauch wie einen Beichtspiegel. Maren Voss sah vom Fenster des Küsterhauses, wie er den Weg heraufkam, und noch ehe er klopfte, wusste sie, was er wollte; sie hatte es in den vergangenen Jahren oft genug gehört, immer im Sommer, wenn die Wege trocken waren und die Herren aus der Stadt glaubten, das Meer habe ein Gedächtnis, das man abfragen könne wie ein Kirchenbuch.
+
+»Ich suche den Lotsen Joren Voss«, sagte der Fremde, als sie ihm öffnete. »Man sagt, er lebt hier. Man sagt, er sei der Mann, der die dänische Flotte durch die Sperre geführt hat.«
+
+»Er lebt«, sagte Maren. »Und er ist nicht hier.«
+
+»Und die Tochter? Man sagt, es habe eine Tochter gegeben, die mit dem Boot gefahren ist, mitten durch das Gefecht, und neun Menschen gerettet hat, darunter einen feindlichen Offizier.«
+
+Maren sah ihn an. Er war jung, nicht älter als dreißig, mit weichen Händen und einer Tasche voller Papier, und in seinen Augen lag jener Glanz, den sie an den Schreibenden der Städte kannte: die Sucht nach der großen Zeile, nach dem Satz, der sich gut abschreiben ließ.
+
+»Es hat eine Tochter gegeben«, sagte sie. »Sie steht vor Ihnen.«
+
+Der Schreiber machte ein Gesicht, als hätte er einen Schatz gefunden. Er griff nach der Tasche, zog ein Heft heraus, das schon halb voll war mit einer Handschrift, die in die Breite lief und nicht in die Tiefe, und begann zu fragen. Ob es wahr sei, dass der Lotse die Schiffe in einer Neumondnacht durch eine Rinne geführt habe, die kein anderer kannte. Ob es wahr sei, dass die Tochter dem schwedischen Offizier das Leben gerettet und ihn entwaffnet habe. Ob es wahr sei, dass sie das eigene Boot geopfert hätten, um die Flotte zu retten.
+
+Maren hörte zu, mit gefalteten Händen, und ließ ihn reden. Sie kannte jede dieser Geschichten. Sie waren im Dorf gewachsen wie Schilf, und wie Schilf waren sie hohl. In den Wirtshäusern von Göhren und Middelhagen hatte man sie ausgeschmückt, in Greifswald und Stralsund hatte man sie gedruckt, in einer Flugschrift, die von »der Heldentat der Mönchguter Fischer« sprach und von »dem kühnen Lotsen, der dem Feind die Tore öffnete«, als wäre der Krieg ein Schachspiel gewesen und nicht ein Geschäft, in dem die Bauern die Figuren stellten.
+
+»Sie wollen eine Heldengeschichte«, sagte sie.
+
+»Ich will die Wahrheit«, sagte der Schreiber und lächelte, und sie sah, dass er es glaubte.
+
+»Dann kommen Sie mit«, sagte Maren.
+
+Sie führte ihn nicht in die Stube, nicht an den Tisch, an dem die Flugschriften lagen, sondern über den Hof, an der Kate vorbei, in den kleinen Anbau hinter dem Haus, in dem die Vorräte standen und, in einer Lade unter dem Fenster, die Bücher. Es roch nach Salz und nach altem Papier, und das Licht fiel schräg durch die Luke und lag auf dem Tisch wie ein Lineal. Maren hob den Deckel der Lade und nahm ein Buch heraus, in Leinen gebunden, an den Ecken abgestoßen, mit einem Rücken, der mehrfach geflickt war.
+
+»Das ist das Rechnungsbuch«, sagte sie. »Von der Zeit, die Sie meinen. Ich habe es geführt, weil der Küster es nicht führen konnte, damals, und weil jemand es führen musste.«
+
+Sie legte es auf den Tisch und schlug es auf, und der Schreiber beugte sich vor, die Feder schon in der Hand, bereit, das Große zu notieren.
+
+Auf der ersten Seite standen keine Taten. Da standen Zahlen. *Anno 1715, im Herbst. Verloren: drei Fahrzeuge, geführt von Arndt, Tamm, Paye, Kruse – zwei Kähne, eine Jolle. Verloren: Netze, neun Stück, davon vier neu gestellt im Frühjahr. Verloren: ein Boot, die Hoffnung, eigenhändig gebaut von Thies Arndt, gesunken vor Palmer Ort. Verloren: ein Fuß, Dierk Arndt, abgenommen am zwölften Tag nach der Strandung. Verloren: ein Ruder, zwei Riemen, ein Fass Branntwein, vierzehn Pfund Salzfisch. Verloren: die Möwe, Lotsenboot, verkauft in Stralsund, Erlös siebenundvierzig Reichstaler, verteilt an die Geschädigten, nichts behalten.*
+
+Der Schreiber las, und seine Feder blieb stehen. Er blätterte weiter, und es wurde nicht besser. *Ausgegeben für den Arzt, der den Fuß abnahm – drei Taler. Ausgegeben für die Frau, die Dierk Arndt pflegte – ein halber Taler die Woche, sechs Wochen. Ausgegeben für die Wiederherstellung des Schuppens, abgebrannt, gepachtet von Thies Arndt – vier Taler, geliehen, zurückzuzahlen in Raten. Eingenommen: nichts. Eingenommen: nichts. Eingenommen: nichts.*
+
+»Das ist keine Geschichte«, sagte der Schreiber.
+
+»Das ist die Geschichte«, sagte Maren. »Alles andere ist Zierrat.«
+
+Sie schlug eine Seite auf, auf der die Namen derer standen, die nicht zurückgekommen waren, und daneben, in kleiner Schrift, das, was sie hinterlassen hatten: eine Frau, zwei Kinder, ein Haus mit undichtem Dach; eine Mutter, alt, die den Winter nicht überstand; ein Boot, das verfiel, weil niemand es mehr führte. Sie zeigte ihm die Seite, auf der Dierk Arndts Fuß verzeichnet war, mit dem Tag, an dem er abgenommen wurde, und dem Tag, an dem er zum ersten Mal wieder aufstand, auf Krücken, und dem Tag, an dem er zum ersten Mal wieder einen Netzpfahl setzte, sitzend, weil er nicht stehen konnte. Sie zeigte ihm die Seite, auf der die Entschädigung der dänischen Krone verzeichnet war, in Raten, die nie vollständig kamen, und die Seite, auf der die Forderungen der Dorfleute standen, die nie gestellt wurden, weil man nicht klagen konnte gegen eine Krone, die gesiegt hatte.
+
+»Sie wollen wissen, was aus uns geworden ist«, sagte Maren. »Da steht es. Wir haben überlebt. Das ist alles. Wir haben nicht gesiegt, wir haben nicht verloren, wir haben überlebt, und das Überleben ist keine Heldentat, es ist eine Rechnung, die jeden Tag neu aufgeht.«
+
+Der Schreiber sah sie an, und in seinem Gesicht arbeitete etwas, das sie nicht deuten konnte. Vielleicht Enttäuschung. Vielleicht Scham. »Aber Sie haben doch gekämpft«, sagte er. »Sie haben doch verhandelt, mit dem Feind, mit dem Offizier, mit dem Kapitän. Sie haben doch das Boot geführt, mitten im Feuer.«
+
+»Ich habe geschöpft«, sagte Maren. »Mit einem Eimer und einem Stiefel. Ich habe Wasser aus einem lecken Boot geworfen, während meine Schwägerin am Ruder stand und mein Mann an den Riemen saß und ein zwölfjähriger Junge neben mir lag und betete. Das ist kein Kampf. Das ist Arbeit. Und die Arbeit hat keine Helden, sie hat nur Hände.«
+
+Draußen, auf dem Hof, hörte man Schritte, und dann die Stimme von Joren, der vom Steg heraufkam und mit jemandem sprach, ruhig, knapp, in dem Ton, in dem er seit dem Krieg mit Fremden sprach, ohne Unterwürfigkeit und ohne Wärme. Maren ging zur Tür und rief ihn herein, und der Schreiber stand auf, den Hut in der Hand, und musterte den Mann, den er suchte, mit dem Blick dessen, der ein Denkmal erwartet und einen alten Fischer findet.
+
+Joren war zweiundsechzig in diesem Jahr, sehnig noch, aber die Haut um die Augen war heller geworden, und die Hände, die auf dem Tisch lagen, waren knochig und voller Narben. Er sah den Schreiber an, dann das aufgeschlagene Buch, dann Maren, und begriff sofort.
+
+»Wieder einer«, sagte er.
+
+»Aus Greifswald«, sagte Maren. »Er will die Heldengeschichte.«
+
+Joren nickte, langsam, und setzte sich, ohne den Fremden aufzufordern, es ihm gleichzutun. Er zog das Buch zu sich heran, blätterte, ohne zu lesen, wie man ein Werkzeug prüft, das man lange nicht gebraucht hat, und schob es dann zurück.
+
+»Was wollen Sie hören«, sagte er. »Die Nacht im Neuen Tief? Die habe ich hundertmal erzählt, und jede Erzählung war ein wenig falsch, weil ich mich an das eine erinnere und das andere vergesse, und weil die Leute das hören wollen, was sie schon kennen. Die Wahrheit ist: Ich habe das Ruder gehalten, und ich hatte Glück, und zwei Fuß Wasser unter dem Kiel, und wenn der Strom um einen Strich anders gelaufen wäre, läge das Schiff heute noch dort und ich mit ihm. Das ist keine Geschichte, für die man einen Schreiber bezahlt.«
+
+»Man sagt, Sie hätten die Flotte gerettet«, sagte der Fremde.
+
+»Man sagt viel«, sagte Joren. »Ich habe ein Schiff durch eine Rinne geführt, die ich kannte. Das haben Lotsen immer getan. Die einen bringen Salzfisch nach Stralsund, die anderen bringen Kriegsschiffe ins Gefecht. Es ist dieselbe Arbeit. Nur die Ladung ist anders, und die Ladung ist nicht mein Geschäft.«
+
+Der Schreiber blätterte in seinem Heft, suchte eine Stelle, fand sie und las vor: *»Und der Lotse sprach: Fahret hindurch, und fürchtet nichts, denn ich kenne den Grund.«*
+
+Joren sah ihn an, und in seinem Gesicht bewegte sich etwas, das zwischen Spott und Müdigkeit lag. »Das habe ich nicht gesagt«, sagte er. »Ich habe gesagt: *Noch nicht drehen.* Und dann habe ich zwei Minuten gewartet, weil ich das Boot meiner Tochter nicht im Feuer lassen wollte. Das ist der ganze Heldentum. Zwei Minuten Warten. Dafür hat man mir ein Kriegsgericht angedroht, und dafür hat man mir später eine Medaille angeboten, und beides war gleich falsch.«
+
+Er nahm die Feder, die der Schreiber auf den Tisch gelegt hatte, ohne zu fragen, und strich in dem Heft die Zeile durch, mit zwei kräftigen Strichen, so wie er einst in den Listen gestrichen hatte, wenn eine Zahl nicht stimmte. *Fahret hindurch, und fürchtet nichts* – durchgestrichen, unleserlich gemacht, tot.
+
+»Schreiben Sie«, sagte er, »was Sie wollen. Aber schreiben Sie nicht, dass wir keine Angst gehabt hätten. Wir hatten Angst, jeden Tag, und wir haben gearbeitet, jeden Tag, und das eine hat das andere nicht aufgehoben. Wer das nicht auseinanderhält, der versteht nichts von uns.«
+
+Der Schreiber sah auf die durchgestrichene Zeile, und dann auf Maren, als erwarte er, dass sie dem Vater widerspreche. Sie tat es nicht. Sie stand am Fenster, die Hände im Schoß, und sah hinaus auf den Steg, wo zwei Männer dabei waren, einen Karren mit Netzen zu beladen, und wo das Wasser in der Nachmittagssonne lag, flach und klar und ohne Geheimnis.
+
+»Es gibt noch eine andere Geschichte«, sagte der Schreiber leise, und es klang wie ein letzter Versuch. »Man sagt, es habe in diesem Dorf einen Mann gegeben, der die eigenen Leute verraten hat. Der den Feind hereingeführt hat. Man sagt, er sei nie bestraft worden.«
+
+Joren schwieg. Maren schwieg. Draußen rief einer der Männer am Steg etwas herüber, ein Scherzwort, das man nicht verstand, und ein anderer lachte, und das Lachen klang wie das Lachen von Leuten, die eine Last abgesetzt haben.
+
+»Es hat ihn gegeben«, sagte Joren schließlich. »Er steht vor Ihnen. Ich habe die Dänen hereingeführt, und ich habe die Schweden gewarnt, und ich habe beides getan, weil ich nicht wusste, was richtig war, und weil ich zu alt war, um noch zu lernen, dass es keine richtige Seite gibt, wenn man zwischen zwei Armeen wohnt. Man hat mich dafür nicht bestraft, weil man mich gebraucht hat. Das ist keine Gerechtigkeit. Das ist Glück.«
+
+Der Schreiber sah ihn an, und für einen Augenblick, einen einzigen, verlor sein Gesicht den Glanz, und darunter kam etwas hervor, das Maren kannte: die Ratlosigkeit dessen, der begreift, dass die Geschichte, die er schreiben wollte, nicht existiert.
+
+»Und die Tochter«, sagte er. »Hat sie verziehen?«
+
+Maren wandte sich vom Fenster ab. »Es gibt nichts zu verzeihen«, sagte sie. »Er hat mir die Wahrheit gesagt, spät, aber er hat sie gesagt. Das ist mehr, als die meisten Väter tun. Und ich habe ihm die meine gesagt. Danach haben wir weiter gearbeitet, weil die Arbeit nicht aufhört, nur weil man einander versteht.«
+
+Der Schreiber packte sein Heft zusammen, langsam, und Maren sah, dass er die durchgestrichene Zeile nicht wieder herstellen würde, nicht aus Einsicht, sondern weil er nicht wusste, was er an ihre Stelle setzen sollte. Er bedankte sich, höflich, und ging, und auf dem Weg über den Hof blieb er einmal stehen und sah zurück, auf das Haus, auf den Steg, auf das Wasser, als suche er noch etwas, einen letzten Satz, ein versöhnliches Bild.
+
+Er fand es nicht. Er ging weiter, die Landstraße hinab, und der Staub, den er aufgewirbelt hatte, setzte sich langsam wieder.
+
+Maren und Joren blieben allein in der Kammer. Sie sahen einander an, ohne etwas zu sagen, und dann, gleichzeitig, hörten sie es: vom Steg herauf, die Stimme von Lene, die nach ihnen rief, ungeduldig, praktisch, in dem Ton, der keine Widerrede duldete. Das Boot war zu beladen, der Wind drehte, und wer jetzt nicht kam, der kam zu spät.
+
+Joren stand auf. Er nahm seinen Hut vom Haken, prüfte mit dem Daumen die Krempe, wie er es immer tat, und ging zur Tür. Maren folgte ihm, und auf der Schwelle blieb sie einen Augenblick stehen und sah zurück, auf das aufgeschlagene Rechnungsbuch, auf die durchgestrichene Zeile, auf die Zahlen, die nichts versprachen und nichts verschwiegen.
+
+Dann schloss sie die Lade, und ging hinaus, und der Wind vom Bodden kam ihnen entgegen, klar und trocken, und roch nach Salz und nach Arbeit, und weiter nichts.
+
+Der Chronist kam an einem Mittwoch, mit einer Mappe unter dem Arm und dem Geruch von Druckerschwärze und fernen Städten an den Kleidern. Er stellte sich als Sebastian Wieland vor, Verfasser einer Chronik der nordischen Kriege, und er sprach von seinem Werk wie von einem Gebäude, das nur noch der Ecksteine bedurfte. Maren sah ihn auf der Bank vor dem Haus sitzen, die Beine übereinandergeschlagen, den Blick auf den Bodden gerichtet, als sei die Landschaft eine Kulisse, die man nach Belieben auswechseln konnte.
+
+»Ich sammle«, sagte er, »die Taten derer, die den Sund nahmen. Nicht die Befehle der Admiräle, nein. Die Handgriffe der kleinen Leute. Der Lotse, der die Durchfahrt fand. Die Fischerin, die ihr Boot in den Beschuss führte. Solche Geschichten.«
+
+Joren, der am Türrahmen lehnte, sagte nichts. Maren ging ins Haus und kam mit dem Rechnungsbuch zurück, das sie auf den Tisch legte, vor den Chronisten, aufgeschlagen bei der Seite, die sie beide kannten. Verlorene Netze. Ertrunkene Tiere. Ein Kahn, der nicht zurückgekehrt war. Zahlen, in ihrer Handschrift, ohne Schmuck.
+
+»Das ist die Geschichte«, sagte sie. »Nichts weiter.«
+
+Wieland blätterte, und sein Gesicht verlor etwas von seiner Zuversicht. Er suchte nach der Zeile, die er brauchte, und fand sie nicht, weil es sie nicht gab. Joren trat näher, nahm den Bleistift, den der Chronist auf die Mappe gelegt hatte, und strich eine Zeile durch, die Wieland in sein Heft geschrieben hatte: Von Heldenmut getragen, ging das Boot voran. Er strich sie langsam durch, so wie er früher Lotungen auf der Karte berichtigt hatte, und setzte nichts an ihre Stelle.
+
+Dann rief Lene vom Steg herauf, ungeduldig, praktisch, in dem Ton, der keine Widerrede duldete. Das Boot war zu beladen, der Wind drehte, und wer jetzt nicht kam, der kam zu spät. Joren legte den Bleistift hin, nahm seinen Hut, und Maren klappte das Rechnungsbuch zu, und sie gingen hinaus, zum Wasser, zur Arbeit, die liegen blieb, wenn man sie liegen ließ.
+
+---
+

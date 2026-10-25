@@ -1,0 +1,79 @@
+{
+  "chapter": "006",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "006",
+      "scene": 1,
+      "ru_path": "books\\der-lotse\\work\\scenes\\de\\006\\scene-01.md",
+      "de_path": "books\\der-lotse\\work\\scenes\\de\\stil-01-original\\006\\scene-01.md",
+      "ru_words": 3265,
+      "de_words": 3265,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (8x: weil 2x, wie 2x, dass 2x) in 65 Woertern ohne Satzende.",
+          "chapter": "006",
+          "scene": 1,
+          "evidence": "Sie knüpfte, und sie zählte die Maschen nicht, weil sie die Maschen im Gefühl hatte, und sie dachte an Dierk, weil sie nicht anders konnte, und sie dachte an die Art, wie er die Netze geflickt hatte, mit einem kleinen Scherz auf den Lippen, der nie einer war, sondern nur die Art, wie er sagte, dass es Arbeit war und dass Arbeit getan werden musste",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (11x: weil 3x, dass 3x, nichts 2x) in 56 Woertern ohne Satzende.",
+          "chapter": "006",
+          "scene": 1,
+          "evidence": "Sie hatte zugehört, wie sie immer zuhörte, mit einem Korb am Arm und einem Gesicht, das nichts verriet, und sie sagte nichts, weil sie wusste, dass jedes Wort jetzt ein Wort zu viel war, und weil sie Joren kannte und wusste, dass er es hören würde, und weil sie wusste, dass er es nicht ertragen würde",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (10x: wie 5x, dass 2x, weil 2x) in 78 Woertern ohne Satzende.",
+          "chapter": "006",
+          "scene": 1,
+          "evidence": "Sie dachte an die Art, wie er am Morgen der Abfahrt dagestanden hatte, mit dem Bündel über der Schulter, und wie er gesagt hatte, dass es wenige Tage seien, und wie er es gesagt hatte, als glaubte er es, und sie dachte an die Art, wie sie ihn angesehen hatte, mit dem Wissen, dass es nicht stimmte, und wie sie ihn hatte gehen lassen, weil sie ihn nicht hatte aufhalten können, und weil Aufhalten nicht ihre Art war",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Kapitel-TTR 0.18 bei 3256 Woertern.",
+          "chapter": "006",
+          "scene": 1,
+          "evidence": "TTR=0.18, Woerter=3256",
+          "recommendation": "Wortschatzarmut pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

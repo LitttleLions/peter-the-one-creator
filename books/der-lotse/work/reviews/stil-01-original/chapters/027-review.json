@@ -1,0 +1,49 @@
+{
+  "chapter": "027",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "027",
+      "scene": 1,
+      "ru_path": "books\\der-lotse\\work\\scenes\\de\\027\\scene-01.md",
+      "de_path": "books\\der-lotse\\work\\scenes\\de\\stil-01-original\\027\\scene-01.md",
+      "ru_words": 2685,
+      "de_words": 2685,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (10x: dass 6x, nie 1x, weil 1x) in 101 Woertern ohne Satzende.",
+          "chapter": "027",
+          "scene": 1,
+          "evidence": "Hinter ihm, am Ufer, im flachen Wasser, stand Maren Voss und sah das große Schiff, das durch die Rinne fuhr, und sie sah den Mann am Ruder, klein, kaum zu erkennen, und sie wusste nicht, ob er sie gesehen hatte, und sie wusste nicht, ob er wusste, dass sie lebte, und sie wusste nur, dass das Schiff fuhr, dass es durchkam, dass ihr Vater am Ruder stand und den Kurs hielt, und dass er es für sie getan hatte, für alle neun, und dass sie ihm das nie sagen würde, weil es nichts zu sagen gab, was größ",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Kapitel-TTR 0.25 bei 2677 Woertern.",
+          "chapter": "027",
+          "scene": 1,
+          "evidence": "TTR=0.25, Woerter=2677",
+          "recommendation": "Wortschatzarmut pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# >>> motivatier:large-assets >>>
+# Grosse, regenerierbare Medien (nicht im Repo).
+# Buch-Schalter: book.yaml -> gitignore.large_assets
+# Erzeugt von tools/sync_book_gitignore.py
+/assets/master/
+/assets/audio/
+/assets/video/
+/assets/scene/*/originals/
+/work/media-originals/
+/exports/**/audio/
+/exports/**/video/
+/exports/marketing/clips/
+# <<< motivatier:large-assets <<<

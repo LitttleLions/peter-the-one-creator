@@ -1,0 +1,59 @@
+{
+  "book": "der-lotse",
+  "chapter": "013",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\scenes\\de\\stil-01-original\\013\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\prompts\\higgsfield\\013-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-lotse\\assets\\chapter\\chapter-013.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 013. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Die Bootsdielen waren feucht, und das Wasser, das durch die Fugen drang, war kälter als das Wasser des Boddens, salziger, schwerer. Joren Voss spürte es durch die Sohlen seiner Stiefel, während er sich an der Reling der dänischen Schaluppe festhielt und die Fregatte näher kommen sah: kein Umriss zunächst, nur ein dunklerer Fleck im Schwarz der Neumondnacht, dann eine Linie, dann die Silhouette eines Schiffs, das größer war als alles, was er in seinem Leben auf diesem Wasser gesehen hatte. Die Segel waren geborgen; nur die Takelage zeichnete sich gegen die Wolken ab, und die Wolken waren schneller als das Schiff, das vor Anker lag und arbeitete, stampfend, rollend, mit einem Knarren in den Planken, das Joren durch die Luft hörte, bevor er es durch die Schaluppe hörte. Vier Ruderer saßen hinter ihm, dänische Matrosen, die auf das Kommando eines Bootsmanns die Riemen hielten und nicht sprachen. Sie hatten ihn aufgenommen, als er zwei Stunden zuvor mit der *Möwe* den Kurs gewechselt und die eigene Flagge eingeholt hatte, und sie hatten ihn nicht nach seinem Namen gefragt. Das war Holms Anweisung gewesen, vermutete Joren, oder es war die Gewohnheit einer Marine, die keine Fragen stellte, solange der Mann an Bord kam, ohne ein Gewehr zu tragen.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_213656_9e4fd1f9-d586-41e2-963e-7dd33384c9d8.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-27T21:36:56.613342Z",
+      "display_name": "GPT Image 2",
+      "id": "9e4fd1f9-d586-41e2-963e-7dd33384c9d8",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_213656_9e4fd1f9-d586-41e2-963e-7dd33384c9d8_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 2336,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 013. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Die Bootsdielen waren feucht, und das Wasser, das durch die Fugen drang, war kälter als das Wasser des Boddens, salziger, schwerer. Joren Voss spürte es durch die Sohlen seiner Stiefel, während er sich an der Reling der dänischen Schaluppe festhielt und die Fregatte näher kommen sah: kein Umriss zunächst, nur ein dunklerer Fleck im Schwarz der Neumondnacht, dann eine Linie, dann die Silhouette eines Schiffs, das größer war als alles, was er in seinem Leben auf diesem Wasser gesehen hatte. Die Segel waren geborgen; nur die Takelage zeichnete sich gegen die Wolken ab, und die Wolken waren schneller als das Schiff, das vor Anker lag und arbeitete, stampfend, rollend, mit einem Knarren in den Planken, das Joren durch die Luft hörte, bevor er es durch die Schaluppe hörte. Vier Ruderer saßen hinter ihm, dänische Matrosen, die auf das Kommando eines Bootsmanns die Riemen hielten und nicht sprachen. Sie hatten ihn aufgenommen, als er zwei Stunden zuvor mit der *Möwe* den Kurs gewechselt und die eigene Flagge eingeholt hatte, und sie hatten ihn nicht nach seinem Namen gefragt. Das war Holms Anweisung gewesen, vermutete Joren, oder es war die Gewohnheit einer Marine, die keine Fragen stellte, solange der Mann an Bord kam, ohne ein Gewehr zu tragen.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "2k",
+        "width": 1744
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_213656_9e4fd1f9-d586-41e2-963e-7dd33384c9d8.png",
+      "status": "completed"
+    }
+  ]
+}

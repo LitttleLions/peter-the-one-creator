@@ -1,0 +1,34 @@
+{
+  "chapter": "017",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "017",
+      "scene": 1,
+      "ru_path": "books\\der-lotse\\work\\scenes\\de\\017\\scene-01.md",
+      "de_path": "books\\der-lotse\\work\\scenes\\de\\stil-01-original\\017\\scene-01.md",
+      "ru_words": 3486,
+      "de_words": 3486,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (8x: als 2x, nichts 2x, dass 2x) in 79 Woertern ohne Satzende.",
+          "chapter": "017",
+          "scene": 1,
+          "evidence": "Und dennoch, als er die Hände von den Knien nahm und sich erhob, um nach Hause zu gehen, spürte er etwas in sich, das er lange nicht mehr gespürt hatte, ein Gefühl, das er nicht benennen konnte, das aber nichts mit Hoffnung zu tun hatte und nichts mit Furcht, sondern mit dem einfachen, klaren Wissen, dass er nun handeln würde, und dass Handeln, selbst wenn es zu spät kam, besser war als das Warten auf das, was kommen musste",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

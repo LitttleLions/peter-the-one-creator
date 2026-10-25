@@ -1,0 +1,98 @@
+{
+  "book_id": "der-lotse",
+  "book_title": "Der Lotse von Rügen",
+  "style": "stil-01-original",
+  "scope": "book",
+  "chapter": null,
+  "format": "paperback",
+  "partial": false,
+  "review_gate_errors": 0,
+  "review_gate_bypassed": false,
+  "created_at": "2026-09-27T16:15:19",
+  "chapters": [
+    {
+      "id": "001",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "002",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "003",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "004",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "005",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "006",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "007",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "008",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "009",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "010",
+      "scenes": 1,
+      "missing": []
+    }
+  ],
+  "outputs": [
+    "books\\der-lotse\\exports\\stil-01-original\\book\\print\\book-der-lotse-von-r-gen-stil-01-original-55x85-classic-full-20260927-161514-paperback-interior.pdf",
+    "books\\der-lotse\\exports\\stil-01-original\\book\\print\\book-der-lotse-von-r-gen-stil-01-original-55x85-classic-full-20260927-161514-print-report.json"
+  ],
+  "work_markdown": "books\\der-lotse\\exports\\stil-01-original\\book\\work\\book-der-lotse-von-r-gen-stil-01-original-55x85-classic-full-20260927-161514.md",
+  "work_pdf_html": "books\\der-lotse\\exports\\stil-01-original\\book\\work\\book-der-lotse-von-r-gen-stil-01-original-55x85-classic-full-20260927-161514.paperback.html",
+  "work_pdf_css": "books\\der-lotse\\exports\\stil-01-original\\book\\work\\book-paperback.css",
+  "print_report": "books\\der-lotse\\exports\\stil-01-original\\book\\print\\book-der-lotse-von-r-gen-stil-01-original-55x85-classic-full-20260927-161514-print-report.json",
+  "print_trim_size": "5.5x8.5",
+  "print_layout_profile": "classic",
+  "print_illustration_mode": "full_page",
+  "print_paper": "cream",
+  "cover": "books\\der-lotse\\assets\\covers\\cover.png",
+  "print_cover": null,
+  "illustrations": [
+    {
+      "kind": "chapter",
+      "chapter": "001",
+      "scene": null,
+      "path": "books\\der-lotse\\assets\\chapter\\chapter-001.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "002",
+      "scene": null,
+      "path": "books\\der-lotse\\assets\\chapter\\chapter-002.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "003",
+      "scene": null,
+      "path": "books\\der-lotse\\assets\\chapter\\chapter-003.jpg"
+    }
+  ]
+}

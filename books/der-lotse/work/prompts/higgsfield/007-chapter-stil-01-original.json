@@ -1,0 +1,59 @@
+{
+  "book": "der-lotse",
+  "chapter": "007",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\scenes\\de\\stil-01-original\\007\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\prompts\\higgsfield\\007-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-lotse\\assets\\chapter\\chapter-007.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 007. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Wind stand aus Südost, als Joren die Möwe vom Strand von Thiessow abstieß, und er trug den Geruch von nassem Holz und altem Rauch über das Wasser. Maren saß im Bug und schwieg, weil sie seit dem Aufbruch kaum ein Wort gesprochen hatte, und Joren ließ ihr das Schweigen, denn er hatte selbst keines, das er hätte anbieten können. Sie fuhren nicht zur Sperre, um zu verhandeln. Sie fuhren, um zu sehen, was aus den Männern geworden war, und es war ein Unterschied, ob man sich das Unglück vorstellte oder ob man es vor sich hatte. Die Pfähle waren schon von Weitem zu erkennen, eine Reihe dunkler Striche im Grau des Wassers, die sich nach Norden fortsetzte, bis der Dunst sie verschluckte. Dazwischen lagen Fahrzeuge, flach und schwer beladen, und als die Möwe näher kam, sah Joren, dass es mehr waren als die, die er kannte. Ein flaches Prahmfahrzeug lag quer zur Strömung, halb gekentert, mit den Planken nach oben wie ein toter Fisch. Zwei Männer standen darauf und schlugen mit Äxten auf das Wrack ein, um es zu zerlegen, und ihre Bewegungen waren langsam, als hätten sie schon zu viele Stunden so gestanden.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_142640_773f64c6-414a-4056-b476-f100bb322e88.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-27T14:26:40.5475Z",
+      "display_name": "GPT Image 2",
+      "id": "773f64c6-414a-4056-b476-f100bb322e88",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_142640_773f64c6-414a-4056-b476-f100bb322e88_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 007. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Wind stand aus Südost, als Joren die Möwe vom Strand von Thiessow abstieß, und er trug den Geruch von nassem Holz und altem Rauch über das Wasser. Maren saß im Bug und schwieg, weil sie seit dem Aufbruch kaum ein Wort gesprochen hatte, und Joren ließ ihr das Schweigen, denn er hatte selbst keines, das er hätte anbieten können. Sie fuhren nicht zur Sperre, um zu verhandeln. Sie fuhren, um zu sehen, was aus den Männern geworden war, und es war ein Unterschied, ob man sich das Unglück vorstellte oder ob man es vor sich hatte. Die Pfähle waren schon von Weitem zu erkennen, eine Reihe dunkler Striche im Grau des Wassers, die sich nach Norden fortsetzte, bis der Dunst sie verschluckte. Dazwischen lagen Fahrzeuge, flach und schwer beladen, und als die Möwe näher kam, sah Joren, dass es mehr waren als die, die er kannte. Ein flaches Prahmfahrzeug lag quer zur Strömung, halb gekentert, mit den Planken nach oben wie ein toter Fisch. Zwei Männer standen darauf und schlugen mit Äxten auf das Wrack ein, um es zu zerlegen, und ihre Bewegungen waren langsam, als hätten sie schon zu viele Stunden so gestanden.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_142640_773f64c6-414a-4056-b476-f100bb322e88.png",
+      "status": "completed"
+    }
+  ]
+}

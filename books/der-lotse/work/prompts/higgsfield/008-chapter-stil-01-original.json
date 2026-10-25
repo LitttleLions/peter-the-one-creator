@@ -1,0 +1,59 @@
+{
+  "book": "der-lotse",
+  "chapter": "008",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\scenes\\de\\stil-01-original\\008\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\prompts\\higgsfield\\008-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-lotse\\assets\\chapter\\chapter-008.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 008. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Regen hatte aufgehört, aber die Luft stand noch schwer zwischen den Häusern, als Thies Arndt über die Dorfstraße von Thiessow kam. Er ging nicht wie einer, der von einer Fahrt zurückkehrt. Er ging wie einer, der etwas hinter sich herzog, das er nicht ablegen konnte. Seine Stiefel waren bis über die Knöchel mit Schlamm verkrustet, und an der linken Hand, die er fest um den Riemen seines Beutels geschlossen hielt, war getrocknetes Blut. Maren sah ihn durch das Fenster des Küsterhauses, wo sie über Benthins Abschriften gesessen hatte, ohne eine Zeile zu lesen. Sie sah ihn und wusste, bevor er die Tür erreichte, dass etwas geschehen war, das sich nicht mehr rückgängig machen ließ. Sie trat auf die Schwelle, und Thies blieb zwei Schritte vor ihr stehen, als hätte er vergessen, wie man einen Fuß vor den anderen setzt. Sein Gesicht war grau unter dem Wetterbrand, und die Augen lagen tiefer, als sie es von ihm kannte. Er sagte nichts. Er sah sie an, und in seinem Blick lag etwas, das Maren nicht kannte — nicht Furcht, nicht Zorn, sondern eine Art von Ratlosigkeit, die nur entsteht, wenn ein Mensch etwas gesehen hat, das in seine Vorstellung von der Welt nicht mehr hineinpasst.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_142727_5d125ac5-63ed-411a-9bf2-1b657a209482.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-27T14:27:27.796612Z",
+      "display_name": "GPT Image 2",
+      "id": "5d125ac5-63ed-411a-9bf2-1b657a209482",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_142727_5d125ac5-63ed-411a-9bf2-1b657a209482_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 008. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Regen hatte aufgehört, aber die Luft stand noch schwer zwischen den Häusern, als Thies Arndt über die Dorfstraße von Thiessow kam. Er ging nicht wie einer, der von einer Fahrt zurückkehrt. Er ging wie einer, der etwas hinter sich herzog, das er nicht ablegen konnte. Seine Stiefel waren bis über die Knöchel mit Schlamm verkrustet, und an der linken Hand, die er fest um den Riemen seines Beutels geschlossen hielt, war getrocknetes Blut. Maren sah ihn durch das Fenster des Küsterhauses, wo sie über Benthins Abschriften gesessen hatte, ohne eine Zeile zu lesen. Sie sah ihn und wusste, bevor er die Tür erreichte, dass etwas geschehen war, das sich nicht mehr rückgängig machen ließ. Sie trat auf die Schwelle, und Thies blieb zwei Schritte vor ihr stehen, als hätte er vergessen, wie man einen Fuß vor den anderen setzt. Sein Gesicht war grau unter dem Wetterbrand, und die Augen lagen tiefer, als sie es von ihm kannte. Er sagte nichts. Er sah sie an, und in seinem Blick lag etwas, das Maren nicht kannte — nicht Furcht, nicht Zorn, sondern eine Art von Ratlosigkeit, die nur entsteht, wenn ein Mensch etwas gesehen hat, das in seine Vorstellung von der Welt nicht mehr hineinpasst.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_142727_5d125ac5-63ed-411a-9bf2-1b657a209482.png",
+      "status": "completed"
+    }
+  ]
+}

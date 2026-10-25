@@ -1,0 +1,59 @@
+{
+  "book": "der-lotse",
+  "chapter": "032",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\scenes\\de\\stil-01-original\\032\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\prompts\\higgsfield\\032-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-lotse\\assets\\chapter\\chapter-032.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 032. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Staub auf der Landstraße stand in einer weißen, zähen Wolke, die sich nicht setzen wollte, und der Mann, der daraus hervorkam, trug einen Rock, der in Greifswald geschnitten war und für Rügen zu warm. Er stellte seinen Stock neben die Tür, zog den Hut und hielt ihn vor den Bauch wie einen Beichtspiegel. Maren Voss sah vom Fenster des Küsterhauses, wie er den Weg heraufkam, und noch ehe er klopfte, wusste sie, was er wollte; sie hatte es in den vergangenen Jahren oft genug gehört, immer im Sommer, wenn die Wege trocken waren und die Herren aus der Stadt glaubten, das Meer habe ein Gedächtnis, das man abfragen könne wie ein Kirchenbuch. Maren sah ihn an. Er war jung, nicht älter als dreißig, mit weichen Händen und einer Tasche voller Papier, und in seinen Augen lag jener Glanz, den sie an den Schreibenden der Städte kannte: die Sucht nach der großen Zeile, nach dem Satz, der sich gut abschreiben ließ.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_215336_d9589ca1-0c77-472d-b4eb-5b8f036cb017.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-27T21:53:36.955896Z",
+      "display_name": "GPT Image 2",
+      "id": "d9589ca1-0c77-472d-b4eb-5b8f036cb017",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_215336_d9589ca1-0c77-472d-b4eb-5b8f036cb017_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 2336,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 032. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Staub auf der Landstraße stand in einer weißen, zähen Wolke, die sich nicht setzen wollte, und der Mann, der daraus hervorkam, trug einen Rock, der in Greifswald geschnitten war und für Rügen zu warm. Er stellte seinen Stock neben die Tür, zog den Hut und hielt ihn vor den Bauch wie einen Beichtspiegel. Maren Voss sah vom Fenster des Küsterhauses, wie er den Weg heraufkam, und noch ehe er klopfte, wusste sie, was er wollte; sie hatte es in den vergangenen Jahren oft genug gehört, immer im Sommer, wenn die Wege trocken waren und die Herren aus der Stadt glaubten, das Meer habe ein Gedächtnis, das man abfragen könne wie ein Kirchenbuch. Maren sah ihn an. Er war jung, nicht älter als dreißig, mit weichen Händen und einer Tasche voller Papier, und in seinen Augen lag jener Glanz, den sie an den Schreibenden der Städte kannte: die Sucht nach der großen Zeile, nach dem Satz, der sich gut abschreiben ließ.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "2k",
+        "width": 1744
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_215336_d9589ca1-0c77-472d-b4eb-5b8f036cb017.png",
+      "status": "completed"
+    }
+  ]
+}

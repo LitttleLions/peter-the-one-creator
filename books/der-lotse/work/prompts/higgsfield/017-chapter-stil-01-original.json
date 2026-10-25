@@ -1,0 +1,59 @@
+{
+  "book": "der-lotse",
+  "chapter": "017",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\scenes\\de\\stil-01-original\\017\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\prompts\\higgsfield\\017-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-lotse\\assets\\chapter\\chapter-017.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 017. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Wind kam aus Nordwest und trug den Geruch von Salz und Moder über den Strand von Thiessow, wo das Wasser grau und schwer gegen die Pfähle des Lotsenstegs schlug. Joren Voss stand am Ende des Stegs und sah auf die Sperre hinaus, deren Umrisse im Dunst verschwammen wie die Zähne eines schlafenden Tieres. Hinter ihm lagen die Boote, die sie zurückgeholt hatten, die drei Kähne, die nun der Krone dienten, und die Möwe, sein eigenes Fahrzeug, das er seit drei Tagen nicht mehr bewegt hatte. Er wusste, dass er heute würde sprechen müssen, und er wusste, dass Worte nicht mehr reichten. Er ging den Steg hinauf, vorbei an den leeren Rungen, an denen sonst die Netze hingen, und weiter die Uferstraße entlang, wo der Schlamm der letzten Flut noch in den Fugen der Steine stand. Die Häuser lagen still, die Türen geschlossen, und aus keinem Schornstein stieg Rauch. Es war, als habe das Dorf den Atem angehalten, um nichts zu verraten. Joren spürte die Blicke durch die Ritzen der Läden, die stummen Fragen, die niemand mehr laut stellte, weil die Antworten zu oft ausgeblieben waren. Er ging schneller, als ihm lieb war, und zwang sich dann zur Ruhe, denn wer rannte, hatte etwas zu verbergen.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_214019_27c9fff9-69c8-434d-9c87-e97d6067ac05.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-27T21:40:19.200076Z",
+      "display_name": "GPT Image 2",
+      "id": "27c9fff9-69c8-434d-9c87-e97d6067ac05",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_214019_27c9fff9-69c8-434d-9c87-e97d6067ac05_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 2336,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 017. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Wind kam aus Nordwest und trug den Geruch von Salz und Moder über den Strand von Thiessow, wo das Wasser grau und schwer gegen die Pfähle des Lotsenstegs schlug. Joren Voss stand am Ende des Stegs und sah auf die Sperre hinaus, deren Umrisse im Dunst verschwammen wie die Zähne eines schlafenden Tieres. Hinter ihm lagen die Boote, die sie zurückgeholt hatten, die drei Kähne, die nun der Krone dienten, und die Möwe, sein eigenes Fahrzeug, das er seit drei Tagen nicht mehr bewegt hatte. Er wusste, dass er heute würde sprechen müssen, und er wusste, dass Worte nicht mehr reichten. Er ging den Steg hinauf, vorbei an den leeren Rungen, an denen sonst die Netze hingen, und weiter die Uferstraße entlang, wo der Schlamm der letzten Flut noch in den Fugen der Steine stand. Die Häuser lagen still, die Türen geschlossen, und aus keinem Schornstein stieg Rauch. Es war, als habe das Dorf den Atem angehalten, um nichts zu verraten. Joren spürte die Blicke durch die Ritzen der Läden, die stummen Fragen, die niemand mehr laut stellte, weil die Antworten zu oft ausgeblieben waren. Er ging schneller, als ihm lieb war, und zwang sich dann zur Ruhe, denn wer rannte, hatte etwas zu verbergen.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "2k",
+        "width": 1744
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_214019_27c9fff9-69c8-434d-9c87-e97d6067ac05.png",
+      "status": "completed"
+    }
+  ]
+}

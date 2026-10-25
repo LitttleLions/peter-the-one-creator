@@ -1,0 +1,268 @@
+
+=== peter-i-buch-01 start 18:58:14 ===
+=== Export: Peter der Erste ===
+Scope: book
+Style: stil-02-poetisch
+Format: pdf
+Kapitel 001: 19 Szenen exportierbar (RU=19, DE=19)
+Kapitel 002: 11 Szenen exportierbar (RU=11, DE=11)
+Kapitel 003: 8 Szenen exportierbar (RU=8, DE=8)
+Kapitel 004: 23 Szenen exportierbar (RU=23, DE=23)
+Kapitel 005: 22 Szenen exportierbar (RU=22, DE=22)
+Kapitel 006: 1 Szenen exportierbar (RU=1, DE=1)
+Kapitel 007: 21 Szenen exportierbar (RU=21, DE=21)
+Kapitel 008: 12 Szenen exportierbar (RU=12, DE=12)
+Kapitel 009: 9 Szenen exportierbar (RU=9, DE=9)
+Kapitel 010: 4 Szenen exportierbar (RU=4, DE=4)
+Kapitel 011: 5 Szenen exportierbar (RU=5, DE=5)
+Kapitel 012: 7 Szenen exportierbar (RU=7, DE=7)
+Kapitel 013: 5 Szenen exportierbar (RU=5, DE=5)
+Kapitel 014: 6 Szenen exportierbar (RU=6, DE=6)
+Kapitel 015: 3 Szenen exportierbar (RU=3, DE=3)
+Kapitel 016: 6 Szenen exportierbar (RU=6, DE=6)
+Kapitel 017: 6 Szenen exportierbar (RU=6, DE=6)
+Kapitel 018: 7 Szenen exportierbar (RU=7, DE=7)
+Illustrationen: 18 gefunden
+  Kapitel 001: books\peter-i-buch-01\assets\chapter\chapter-001.jpg
+  Kapitel 002: books\peter-i-buch-01\assets\chapter\chapter-002.jpg
+  Kapitel 003: books\peter-i-buch-01\assets\chapter\chapter-003.jpg
+  Kapitel 004: books\peter-i-buch-01\assets\chapter\chapter-004.jpg
+  Kapitel 005: books\peter-i-buch-01\assets\chapter\chapter-005.jpg
+  Kapitel 006: books\peter-i-buch-01\assets\chapter\chapter-006.jpg
+  Kapitel 007: books\peter-i-buch-01\assets\chapter\chapter-007.jpg
+  Kapitel 008: books\peter-i-buch-01\assets\chapter\chapter-008.jpg
+  Kapitel 009: books\peter-i-buch-01\assets\chapter\chapter-009.jpg
+  Kapitel 010: books\peter-i-buch-01\assets\chapter\chapter-010.jpg
+  Kapitel 011: books\peter-i-buch-01\assets\chapter\chapter-011.jpg
+  Kapitel 012: books\peter-i-buch-01\assets\chapter\chapter-012.jpg
+  Kapitel 013: books\peter-i-buch-01\assets\chapter\chapter-013.jpg
+  Kapitel 014: books\peter-i-buch-01\assets\chapter\chapter-014.jpg
+  Kapitel 015: books\peter-i-buch-01\assets\chapter\chapter-015.jpg
+  Kapitel 016: books\peter-i-buch-01\assets\chapter\chapter-016.jpg
+  Kapitel 017: books\peter-i-buch-01\assets\chapter\chapter-017.jpg
+  Kapitel 018: books\peter-i-buch-01\assets\chapter\chapter-018.jpg
+Geschrieben:
+  books\peter-i-buch-01\exports\stil-02-poetisch\book\pdf\book-peter-der-erste-stil-02-poetisch-20260927-185819.pdf
+Arbeitsdatei: books\peter-i-buch-01\exports\stil-02-poetisch\book\work\book-peter-der-erste-stil-02-poetisch-20260927-185819.md
+Manifest: books\peter-i-buch-01\exports\stil-02-poetisch\book\manifests\book-peter-der-erste-stil-02-poetisch-20260927-185819.json
+Cover: books\peter-i-buch-01\assets\covers\peteri.png
+=== exit=0 18:58:34 ===
+=== feuriger-engel start 18:58:34 ===
+=== Export: Der feurige Engel ===
+Scope: book
+Style: stil-02-poetisch
+Format: pdf
+Kapitel 001: 1 Szenen exportierbar (RU=1, DE=1)
+Kapitel 002: 1 Szenen exportierbar (RU=1, DE=1)
+Kapitel 003: 1 Szenen exportierbar (RU=1, DE=1)
+Kapitel 004: 1 Szenen exportierbar (RU=1, DE=1)
+Kapitel 005: 1 Szenen exportierbar (RU=1, DE=1)
+Kapitel 006: 1 Szenen exportierbar (RU=1, DE=1)
+Kapitel 007: 1 Szenen exportierbar (RU=1, DE=1)
+Kapitel 008: 1 Szenen exportierbar (RU=1, DE=1)
+Kapitel 009: 1 Szenen exportierbar (RU=1, DE=1)
+Kapitel 010: 1 Szenen exportierbar (RU=1, DE=1)
+Kapitel 011: 1 Szenen exportierbar (RU=1, DE=1)
+Kapitel 012: 1 Szenen exportierbar (RU=1, DE=1)
+Kapitel 013: 1 Szenen exportierbar (RU=1, DE=1)
+Kapitel 014: 1 Szenen exportierbar (RU=1, DE=1)
+Kapitel 015: 1 Szenen exportierbar (RU=1, DE=1)
+Kapitel 016: 1 Szenen exportierbar (RU=1, DE=1)
+Illustrationen: 16 gefunden
+  Kapitel 001: books\feuriger-engel\assets\chapter\chapter-001.png
+  Kapitel 002: books\feuriger-engel\assets\chapter\chapter-002.jpg
+  Kapitel 003: books\feuriger-engel\assets\chapter\chapter-003.jpg
+  Kapitel 004: books\feuriger-engel\assets\chapter\chapter-004.jpg
+  Kapitel 005: books\feuriger-engel\assets\chapter\chapter-005.jpg
+  Kapitel 006: books\feuriger-engel\assets\chapter\chapter-006.jpg
+  Kapitel 007: books\feuriger-engel\assets\chapter\chapter-007.jpg
+  Kapitel 008: books\feuriger-engel\assets\chapter\chapter-008.jpg
+  Kapitel 009: books\feuriger-engel\assets\chapter\chapter-009.jpg
+  Kapitel 010: books\feuriger-engel\assets\chapter\chapter-010.jpg
+  Kapitel 011: books\feuriger-engel\assets\chapter\chapter-011.jpg
+  Kapitel 012: books\feuriger-engel\assets\chapter\chapter-012.jpg
+  Kapitel 013: books\feuriger-engel\assets\chapter\chapter-013.jpg
+  Kapitel 014: books\feuriger-engel\assets\chapter\chapter-014.jpg
+  Kapitel 015: books\feuriger-engel\assets\chapter\chapter-015.jpg
+  Kapitel 016: books\feuriger-engel\assets\chapter\chapter-016.jpg
+Geschrieben:
+  books\feuriger-engel\exports\stil-02-poetisch\book\pdf\book-der-feurige-engel-stil-02-poetisch-20260927-185836.pdf
+Arbeitsdatei: books\feuriger-engel\exports\stil-02-poetisch\book\work\book-der-feurige-engel-stil-02-poetisch-20260927-185836.md
+Manifest: books\feuriger-engel\exports\stil-02-poetisch\book\manifests\book-der-feurige-engel-stil-02-poetisch-20260927-185836.json
+Cover: books\feuriger-engel\assets\covers\cover.jpg
+=== exit=0 18:58:41 ===
+=== geheime-geschichte-mongolen start 18:58:41 ===
+ABBRUCH: deterministische Review-ERRORs vor Export:
+  001/02: missing_de_scene - DE-Szene 02 fehlt.
+  001/03: missing_de_scene - DE-Szene 03 fehlt.
+  001/04: missing_de_scene - DE-Szene 04 fehlt.
+  001/05: missing_de_scene - DE-Szene 05 fehlt.
+  001/06: missing_de_scene - DE-Szene 06 fehlt.
+  001/07: missing_de_scene - DE-Szene 07 fehlt.
+  001/08: missing_de_scene - DE-Szene 08 fehlt.
+  001/09: missing_de_scene - DE-Szene 09 fehlt.
+  001/10: missing_de_scene - DE-Szene 10 fehlt.
+  001/11: missing_de_scene - DE-Szene 11 fehlt.
+  001/12: missing_de_scene - DE-Szene 12 fehlt.
+  001/13: missing_de_scene - DE-Szene 13 fehlt.
+  001/14: missing_de_scene - DE-Szene 14 fehlt.
+  001/15: missing_de_scene - DE-Szene 15 fehlt.
+  001/16: missing_de_scene - DE-Szene 16 fehlt.
+  001/17: missing_de_scene - DE-Szene 17 fehlt.
+  001/18: missing_de_scene - DE-Szene 18 fehlt.
+  001/19: missing_de_scene - DE-Szene 19 fehlt.
+  001/20: missing_de_scene - DE-Szene 20 fehlt.
+  001/21: missing_de_scene - DE-Szene 21 fehlt.
+  ... und 283 weitere
+Nutze --allow-review-errors nur bewusst (wird im Manifest vermerkt).
+=== exit=2 18:58:42 ===
+=== pharao start 18:58:42 ===
+=== Export: Der Pharao ===
+Scope: book
+Style: stil-02-poetisch
+Format: pdf
+Kapitel 000: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 001: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 002: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 003: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 004: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 005: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 006: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 007: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 008: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 009: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 010: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 011: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 012: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 013: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 014: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 015: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 016: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 017: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 018: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 019: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 020: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 021: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 022: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 023: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 024: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 025: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 026: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 027: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 028: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 029: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 030: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 031: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 032: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 033: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 034: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 035: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 036: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 037: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 038: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 039: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 040: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 041: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 042: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 043: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 044: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 045: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 046: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 047: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 048: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 049: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 050: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 051: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 052: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 053: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 054: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 055: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 056: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 057: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 058: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 059: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 060: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 061: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 062: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 063: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 064: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 065: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 066: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 067: 1 Szenen exportierbar (PL=1, DE=1)
+Kapitel 068: 1 Szenen exportierbar (PL=1, DE=1)
+Illustrationen: 68 gefunden
+  Kapitel 000: books\pharao\assets\chapter\chapter-000.jpg
+  Kapitel 001: books\pharao\assets\chapter\chapter-001.jpg
+  Kapitel 002: books\pharao\assets\chapter\chapter-002.jpg
+  Kapitel 003: books\pharao\assets\chapter\chapter-003.jpg
+  Kapitel 004: books\pharao\assets\chapter\chapter-004.jpg
+  Kapitel 005: books\pharao\assets\chapter\chapter-005.jpg
+  Kapitel 006: books\pharao\assets\chapter\chapter-006.jpg
+  Kapitel 007: books\pharao\assets\chapter\chapter-007.jpg
+  Kapitel 008: books\pharao\assets\chapter\chapter-008.jpg
+  Kapitel 009: books\pharao\assets\chapter\chapter-009.jpg
+  Kapitel 010: books\pharao\assets\chapter\chapter-010.jpg
+  Kapitel 011: books\pharao\assets\chapter\chapter-011.jpg
+  Kapitel 012: books\pharao\assets\chapter\chapter-012.jpg
+  Kapitel 013: books\pharao\assets\chapter\chapter-013.jpg
+  Kapitel 014: books\pharao\assets\chapter\chapter-014.jpg
+  Kapitel 015: books\pharao\assets\chapter\chapter-015.jpg
+  Kapitel 016: books\pharao\assets\chapter\chapter-016.jpg
+  Kapitel 017: books\pharao\assets\chapter\chapter-017.jpg
+  Kapitel 018: books\pharao\assets\chapter\chapter-018.jpg
+  Kapitel 019: books\pharao\assets\chapter\chapter-019.jpg
+  Kapitel 020: books\pharao\assets\chapter\chapter-020.jpg
+  Kapitel 021: books\pharao\assets\chapter\chapter-021.jpg
+  Kapitel 022: books\pharao\assets\chapter\chapter-022.jpg
+  Kapitel 023: books\pharao\assets\chapter\chapter-023.jpg
+  Kapitel 024: books\pharao\assets\chapter\chapter-024.jpg
+  Kapitel 025: books\pharao\assets\chapter\chapter-025.jpg
+  Kapitel 026: books\pharao\assets\chapter\chapter-026.jpg
+  Kapitel 027: books\pharao\assets\chapter\chapter-027.jpg
+  Kapitel 028: books\pharao\assets\chapter\chapter-028.jpg
+  Kapitel 030: books\pharao\assets\chapter\chapter-030.jpg
+  Kapitel 031: books\pharao\assets\chapter\chapter-031.jpg
+  Kapitel 032: books\pharao\assets\chapter\chapter-032.jpg
+  Kapitel 033: books\pharao\assets\chapter\chapter-033.jpg
+  Kapitel 034: books\pharao\assets\chapter\chapter-034.jpg
+  Kapitel 035: books\pharao\assets\chapter\chapter-035.jpg
+  Kapitel 036: books\pharao\assets\chapter\chapter-036.jpg
+  Kapitel 037: books\pharao\assets\chapter\chapter-037.jpg
+  Kapitel 038: books\pharao\assets\chapter\chapter-038.jpg
+  Kapitel 039: books\pharao\assets\chapter\chapter-039.jpg
+  Kapitel 040: books\pharao\assets\chapter\chapter-040.jpg
+  Kapitel 041: books\pharao\assets\chapter\chapter-041.jpg
+  Kapitel 042: books\pharao\assets\chapter\chapter-042.jpg
+  Kapitel 043: books\pharao\assets\chapter\chapter-043.jpg
+  Kapitel 044: books\pharao\assets\chapter\chapter-044.jpg
+  Kapitel 045: books\pharao\assets\chapter\chapter-045.jpg
+  Kapitel 046: books\pharao\assets\chapter\chapter-046.jpg
+  Kapitel 047: books\pharao\assets\chapter\chapter-047.jpg
+  Kapitel 048: books\pharao\assets\chapter\chapter-048.jpg
+  Kapitel 049: books\pharao\assets\chapter\chapter-049.jpg
+  Kapitel 050: books\pharao\assets\chapter\chapter-050.jpg
+  Kapitel 051: books\pharao\assets\chapter\chapter-051.jpg
+  Kapitel 052: books\pharao\assets\chapter\chapter-052.jpg
+  Kapitel 053: books\pharao\assets\chapter\chapter-053.jpg
+  Kapitel 054: books\pharao\assets\chapter\chapter-054.jpg
+  Kapitel 055: books\pharao\assets\chapter\chapter-055.jpg
+  Kapitel 056: books\pharao\assets\chapter\chapter-056.jpg
+  Kapitel 057: books\pharao\assets\chapter\chapter-057.jpg
+  Kapitel 058: books\pharao\assets\chapter\chapter-058.jpg
+  Kapitel 059: books\pharao\assets\chapter\chapter-059.jpg
+  Kapitel 060: books\pharao\assets\chapter\chapter-060.jpg
+  Kapitel 061: books\pharao\assets\chapter\chapter-061.jpg
+  Kapitel 062: books\pharao\assets\chapter\chapter-062.jpg
+  Kapitel 063: books\pharao\assets\chapter\chapter-063.jpg
+  Kapitel 064: books\pharao\assets\chapter\chapter-064.jpg
+  Kapitel 065: books\pharao\assets\chapter\chapter-065.jpg
+  Kapitel 066: books\pharao\assets\chapter\chapter-066.jpg
+  Kapitel 067: books\pharao\assets\chapter\chapter-067.jpg
+  Kapitel 068: books\pharao\assets\chapter\chapter-068.jpg
+Geschrieben:
+  books\pharao\exports\stil-02-poetisch\book\pdf\book-der-pharao-stil-02-poetisch-20260927-185845.pdf
+Arbeitsdatei: books\pharao\exports\stil-02-poetisch\book\work\book-der-pharao-stil-02-poetisch-20260927-185845.md
+Manifest: books\pharao\exports\stil-02-poetisch\book\manifests\book-der-pharao-stil-02-poetisch-20260927-185845.json
+Cover: books\pharao\assets\covers\cover.jpg
+=== exit=0 18:58:59 ===
+=== ALLE FERTIG ===

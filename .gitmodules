@@ -1,0 +1,3 @@
+[submodule "tools/vendor/amazon-kdp-skill"]
+	path = tools/vendor/amazon-kdp-skill
+	url = https://github.com/joshyattridge/amazon-kdp-skill.git

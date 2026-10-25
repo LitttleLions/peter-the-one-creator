@@ -1,0 +1,59 @@
+{
+  "book": "der-lotse",
+  "chapter": "025",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\scenes\\de\\stil-01-original\\025\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\prompts\\higgsfield\\025-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-lotse\\assets\\chapter\\chapter-025.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 025. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Das Wasser vor der Riff-Engstelle war trüb, ein Gemisch aus aufgewühltem Schlick und dem Rauch, der von Süden herüberwehte. Joren Voss stand an der Reling der Führungsschaluppe, das Fernrohr in der bandagierten Hand, und spürte, wie das Schiff unter ihm träge in der Strömung arbeitete. Sie hatten den vorbereiteten Haltepunkt erreicht, jene flache Bucht im Windschatten des Ruden, die er Holm vor Wochen beschrieben hatte. Die dänischen Schaluppen lagen hier geduckt wie schlafende Tiere, die Boote dicht an dicht, die Riemen eingelegt, die Segel geborgen. Nur das Knarren des Tauwerks und das ferne, dumpfe Rollen der Geschütze durchbrachen die Stille. Er setzte das Fernrohr an. Die Sicht war schlecht, der Dunst hing in Fetzen über dem Wasser, aber er kannte die Umrisse der Sperre, er kannte die Silhouette der Wracks, er kannte die Stelle, an der die *Grete* hätte sein müssen.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_214721_beafcc05-d4ed-4fc9-a199-e7ccf77df860.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-27T21:47:21.707378Z",
+      "display_name": "GPT Image 2",
+      "id": "beafcc05-d4ed-4fc9-a199-e7ccf77df860",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_214721_beafcc05-d4ed-4fc9-a199-e7ccf77df860_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 2336,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 025. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Das Wasser vor der Riff-Engstelle war trüb, ein Gemisch aus aufgewühltem Schlick und dem Rauch, der von Süden herüberwehte. Joren Voss stand an der Reling der Führungsschaluppe, das Fernrohr in der bandagierten Hand, und spürte, wie das Schiff unter ihm träge in der Strömung arbeitete. Sie hatten den vorbereiteten Haltepunkt erreicht, jene flache Bucht im Windschatten des Ruden, die er Holm vor Wochen beschrieben hatte. Die dänischen Schaluppen lagen hier geduckt wie schlafende Tiere, die Boote dicht an dicht, die Riemen eingelegt, die Segel geborgen. Nur das Knarren des Tauwerks und das ferne, dumpfe Rollen der Geschütze durchbrachen die Stille. Er setzte das Fernrohr an. Die Sicht war schlecht, der Dunst hing in Fetzen über dem Wasser, aber er kannte die Umrisse der Sperre, er kannte die Silhouette der Wracks, er kannte die Stelle, an der die *Grete* hätte sein müssen.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "2k",
+        "width": 1744
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_214721_beafcc05-d4ed-4fc9-a199-e7ccf77df860.png",
+      "status": "completed"
+    }
+  ]
+}

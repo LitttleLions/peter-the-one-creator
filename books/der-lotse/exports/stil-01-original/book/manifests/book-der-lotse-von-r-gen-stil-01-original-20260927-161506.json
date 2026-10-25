@@ -1,0 +1,97 @@
+{
+  "book_id": "der-lotse",
+  "book_title": "Der Lotse von Rügen",
+  "style": "stil-01-original",
+  "scope": "book",
+  "chapter": null,
+  "format": "pdf",
+  "partial": false,
+  "review_gate_errors": 0,
+  "review_gate_bypassed": false,
+  "created_at": "2026-09-27T16:15:09",
+  "chapters": [
+    {
+      "id": "001",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "002",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "003",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "004",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "005",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "006",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "007",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "008",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "009",
+      "scenes": 1,
+      "missing": []
+    },
+    {
+      "id": "010",
+      "scenes": 1,
+      "missing": []
+    }
+  ],
+  "outputs": [
+    "books\\der-lotse\\exports\\stil-01-original\\book\\pdf\\book-der-lotse-von-r-gen-stil-01-original-20260927-161506.pdf"
+  ],
+  "work_markdown": "books\\der-lotse\\exports\\stil-01-original\\book\\work\\book-der-lotse-von-r-gen-stil-01-original-20260927-161506.md",
+  "work_pdf_html": "books\\der-lotse\\exports\\stil-01-original\\book\\work\\book-der-lotse-von-r-gen-stil-01-original-20260927-161506.pdf.html",
+  "work_pdf_css": "books\\der-lotse\\exports\\stil-01-original\\book\\work\\book-print.css",
+  "print_report": null,
+  "print_trim_size": null,
+  "print_layout_profile": null,
+  "print_illustration_mode": null,
+  "print_paper": null,
+  "cover": "books\\der-lotse\\assets\\covers\\cover.png",
+  "print_cover": null,
+  "illustrations": [
+    {
+      "kind": "chapter",
+      "chapter": "001",
+      "scene": null,
+      "path": "books\\der-lotse\\assets\\chapter\\chapter-001.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "002",
+      "scene": null,
+      "path": "books\\der-lotse\\assets\\chapter\\chapter-002.jpg"
+    },
+    {
+      "kind": "chapter",
+      "chapter": "003",
+      "scene": null,
+      "path": "books\\der-lotse\\assets\\chapter\\chapter-003.jpg"
+    }
+  ]
+}

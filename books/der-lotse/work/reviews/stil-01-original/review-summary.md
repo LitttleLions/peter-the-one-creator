@@ -1,0 +1,46 @@
+# Review Summary: Der Lotse von Rügen
+
+- Buch-ID: der-lotse
+- Stil: stil-01-original
+- Erstellt: 2026-09-27T23:33:39
+- LLM: none
+- Kapitel: 32
+- Kapitel mit Befunden: 22
+- Fehler: 0
+- Warnungen: 1
+- Hinweise: 42
+
+## Kapitel
+
+- 001: OK (ERROR=0, WARNING=0, INFO=0)
+- 002: OK (ERROR=0, WARNING=0, INFO=0)
+- 003: OK (ERROR=0, WARNING=0, INFO=0)
+- 004: Befund (ERROR=0, WARNING=0, INFO=1)
+- 005: Befund (ERROR=0, WARNING=0, INFO=1)
+- 006: Befund (ERROR=0, WARNING=0, INFO=4)
+- 007: Befund (ERROR=0, WARNING=0, INFO=2)
+- 008: Befund (ERROR=0, WARNING=0, INFO=1)
+- 009: Befund (ERROR=0, WARNING=0, INFO=4)
+- 010: Befund (ERROR=0, WARNING=0, INFO=1)
+- 011: OK (ERROR=0, WARNING=0, INFO=0)
+- 012: Befund (ERROR=0, WARNING=0, INFO=1)
+- 013: Befund (ERROR=0, WARNING=0, INFO=1)
+- 014: Befund (ERROR=0, WARNING=0, INFO=2)
+- 015: Befund (ERROR=0, WARNING=0, INFO=2)
+- 016: OK (ERROR=0, WARNING=0, INFO=0)
+- 017: Befund (ERROR=0, WARNING=0, INFO=1)
+- 018: Befund (ERROR=0, WARNING=0, INFO=1)
+- 019: OK (ERROR=0, WARNING=0, INFO=0)
+- 020: OK (ERROR=0, WARNING=0, INFO=0)
+- 021: Befund (ERROR=0, WARNING=1, INFO=3)
+- 022: Befund (ERROR=0, WARNING=0, INFO=4)
+- 023: Befund (ERROR=0, WARNING=0, INFO=2)
+- 024: Befund (ERROR=0, WARNING=0, INFO=1)
+- 025: OK (ERROR=0, WARNING=0, INFO=0)
+- 026: Befund (ERROR=0, WARNING=0, INFO=2)
+- 027: Befund (ERROR=0, WARNING=0, INFO=2)
+- 028: Befund (ERROR=0, WARNING=0, INFO=4)
+- 029: Befund (ERROR=0, WARNING=0, INFO=1)
+- 030: OK (ERROR=0, WARNING=0, INFO=0)
+- 031: Befund (ERROR=0, WARNING=0, INFO=1)
+- 032: OK (ERROR=0, WARNING=0, INFO=0)

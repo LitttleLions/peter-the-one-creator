@@ -1,0 +1,59 @@
+{
+  "book": "der-lotse",
+  "chapter": "012",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\scenes\\de\\stil-01-original\\012\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\prompts\\higgsfield\\012-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-lotse\\assets\\chapter\\chapter-012.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 012. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Nebel stand an diesem Nachmittag so dicht über dem Bodden, dass die Ufer verschwanden, sobald man das Ruder an sich nahm. Lene saß an den Riemen, Maren am Steuer, und zwischen ihnen lag ein Korb mit Brot, Leinenwand und einem Topf Salbe, den Else aus Fett und Asche und irgendetwas gekocht hatte, das nach Wiese roch. Die kleine Schute, die Lene von Kruses Frau geliehen hatte, zog schwer. Das Wasser war grau und träge, und der Nebel hing darin wie Werg in nasser Wolle. Maren hatte den Passierschein in der Tasche, gefaltet, so klein, dass er kaum auffiel. Rasks Schreiber hatte ihn ausgestellt, zwei Zeilen, ein Siegel, eine Bedingung: eine Fahrt, zwei Personen, Verpflegung, Rückkehr vor Einbruch der Dunkelheit. Sie kannte jede Silbe des Zettels, so wie man einen Text kennt, den man zehnmal gelesen hat, ohne dass er dadurch begreiflicher wird. Papier, hatte sie in den letzten Wochen gelernt, war ein Versprechen, das so lange galt, wie derjenige es wollte, der es nicht gebraucht hat. Sobald er es brauchte, war es Makulatur, und der, der es in der Tasche trug, war es ebenfalls.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_213609_5ef8d471-e012-4ca1-a95d-7f977e207502.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-27T21:36:09.517007Z",
+      "display_name": "GPT Image 2",
+      "id": "5ef8d471-e012-4ca1-a95d-7f977e207502",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_213609_5ef8d471-e012-4ca1-a95d-7f977e207502_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 2336,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 012. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Nebel stand an diesem Nachmittag so dicht über dem Bodden, dass die Ufer verschwanden, sobald man das Ruder an sich nahm. Lene saß an den Riemen, Maren am Steuer, und zwischen ihnen lag ein Korb mit Brot, Leinenwand und einem Topf Salbe, den Else aus Fett und Asche und irgendetwas gekocht hatte, das nach Wiese roch. Die kleine Schute, die Lene von Kruses Frau geliehen hatte, zog schwer. Das Wasser war grau und träge, und der Nebel hing darin wie Werg in nasser Wolle. Maren hatte den Passierschein in der Tasche, gefaltet, so klein, dass er kaum auffiel. Rasks Schreiber hatte ihn ausgestellt, zwei Zeilen, ein Siegel, eine Bedingung: eine Fahrt, zwei Personen, Verpflegung, Rückkehr vor Einbruch der Dunkelheit. Sie kannte jede Silbe des Zettels, so wie man einen Text kennt, den man zehnmal gelesen hat, ohne dass er dadurch begreiflicher wird. Papier, hatte sie in den letzten Wochen gelernt, war ein Versprechen, das so lange galt, wie derjenige es wollte, der es nicht gebraucht hat. Sobald er es brauchte, war es Makulatur, und der, der es in der Tasche trug, war es ebenfalls.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "2k",
+        "width": 1744
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_213609_5ef8d471-e012-4ca1-a95d-7f977e207502.png",
+      "status": "completed"
+    }
+  ]
+}

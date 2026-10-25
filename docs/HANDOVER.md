@@ -222,6 +222,16 @@ Katalog neu bauen: `python tools/build_shelf_website.py` → `webpage/public/dat
 - Details: [webpage/README.md](../webpage/README.md)
 - Preview (nicht `file://`): `python tools/preview_webpage.py` oder `Dev-Start-Webpage.cmd` → http://127.0.0.1:4173
 - Production: `python tools/build_webpage_dist.py` → Inhalt von `webpage/dist/` deployen
+- Live: https://stiftung.motivatier.de/classics/ auf der IONOS-VPS 87.106.3.155
+  (Apache mit Plesk, dieselbe Maschine wie RomanForge). Docroot
+  `/var/www/vhosts/motivatier.de/stiftung.motivatier.de`, Unterordner `classics/`,
+  Eigentümer `motiadmin:psaserv`.
+- Deploy 2026-10-21: `build_shelf_website.py` + `build_webpage_dist.py`, Upload per
+  `scp` nach `/tmp/` und `rsync -a --delete` in den Docroot → **10 Bände live**
+  (vorher 8). SSH als `root` mit `~/.ssh/codex_boddenblick_deploy`
+  (`-o IdentitiesOnly=yes`), kein Standard-Key. Sicherung davor:
+  `/root/classics-backup-20261021-144558.tar.gz`. Details:
+  [offene-punkte.md](offene-punkte.md) Punkt 7.
 - Branding: Motivatier Klassiks; Seiten Über uns / Impressum unter `webpage/public/`
 - Mint-GLB-Hardcover: noch nicht eingebunden (Fallback-Boxen + Cover-Texturen)
 

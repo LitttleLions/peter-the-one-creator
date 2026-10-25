@@ -576,9 +576,35 @@ py -3 tools/build_webpage_dist.py
 py -3 tools/preview_webpage.py
 ```
 
-URLs in `export.yaml` top-level `website:` setzen. Deploy-Ziel klaeren.
+URLs in `export.yaml` top-level `website:` setzen.
 
-Status: OFFEN.
+Deploy (2026-10-21 verifiziert und ausgefuehrt):
+
+- Live: https://stiftung.motivatier.de/classics/ – Apache mit Plesk auf der
+  IONOS-VPS 87.106.3.155 (dieselbe Maschine wie
+  `romanforge.littlelionsfilms.de`).
+- Docroot: `/var/www/vhosts/motivatier.de/stiftung.motivatier.de` (Plesk-Vhost
+  `stiftung.motivatier.de`, `DocumentRoot` aus
+  `/var/www/vhosts/system/stiftung.motivatier.de/conf/httpd.conf`); die Website
+  liegt im Unterordner `classics/`, Eigentuemer `motiadmin:psaserv`.
+- Zugang: SSH als `root@87.106.3.155` mit dem Deploy-Schluessel
+  `~/.ssh/codex_boddenblick_deploy` (`-o IdentitiesOnly=yes`); der
+  Plesk-Dateimanager geht alternativ.
+- Ablauf: `py -3 tools/build_shelf_website.py` -> `py -3 tools/build_webpage_dist.py`
+  -> Inhalt von `webpage/dist/` per `scp` nach `/tmp/<staging>/` und dort mit
+  `rsync -a --delete /tmp/<staging>/ <docroot>/classics/` verteilen, danach
+  `chown -R motiadmin:psaserv` sowie `find … -type d -exec chmod 755` und
+  `find … -type f -exec chmod 644`.
+- Vor jedem Deploy sichern:
+  `tar czf /root/classics-backup-<datum>.tar.gz -C <docroot> classics`.
+  Sicherung vom 2026-10-21: `/root/classics-backup-20261021-144558.tar.gz`.
+- `webpage/dist/` ist per `.gitignore` nicht versioniert; hochgeladen wird der
+  komplette Inhalt (`index.html`, `assets/`, `covers/`, `data/`, `models/`,
+  `impressum.html`, `ueber-uns.html`).
+
+Status: ERLEDIGT 2026-10-21 – 10 Baende live (vorher 8; es fehlten
+`grin-wellenlaeuferin` und `pissemski-tausend-seelen`), Index und alle Cover
+antworten mit HTTP 200.
 
 ## 8. Optional: Feature-Branch aufraeumen
 

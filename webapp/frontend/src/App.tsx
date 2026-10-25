@@ -791,7 +791,7 @@ function Sidebar({
       <aside className={`sidebar ${mobileOpen ? "open" : ""}`}>
         <div className="sidebar-head">
           <div>
-            <div className="brand">Buch-Werkbank</div>
+            <div className="brand"><img src="/assets/logo.svg" alt="Logo" className="logo-img" />Buch-Werkbank</div>
             <div className="brand-subtitle">FastAPI + React</div>
           </div>
           <button className="icon-button mobile-only" type="button" onClick={onMobileClose} aria-label="Navigation schliessen">

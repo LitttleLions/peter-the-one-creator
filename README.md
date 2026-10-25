@@ -13,14 +13,18 @@ Dadurch werden fertige Kapitel nicht unnoetig erneut durch ein LLM geschickt.
 
 1. Neues Chat-Fenster, gleicher Ordner: Kopiertext
    [docs/uebergabe-prompt.md](docs/uebergabe-prompt.md). Sonst zuerst
-   `AGENTS.md` (Sektion Fortsetzung), dann `docs/HANDOVER.md`, dann diese README.
-   Unter Windows CLI `py -3`, nicht `python`.
+   `AGENTS.md` (Sektion „Einstieg fuer neue KI-Sitzung“), dann
+   `docs/HANDOVER.md`, dann diese README. Unter Windows CLI `py -3`, nicht `python`.
 2. Arbeite immer buchbezogen unter `books/<book-id>/`.
 3. Aendere Originalquellen in `books/<book-id>/source/` und Material in
    `logic/` nicht ohne ausdrueckliche Rueckfrage. Neufassungen DE-Originale nur
    ueber RomanForge-Export (`docs/uebernahme-romanforge.md`), nicht mehr als
    Dateien unter `status/`. `source/` bleibt tabu.
 4. Pruefe den Stand mit `py -3 tools/status.py --book <book-id> summary`.
+5. Baue keine eigenen Pruef-Skripte oder Datei-Listen. Nutze die vorhandenen
+   CLIs unter `tools/` (z. B. `review_manuscript.py`, `status.py`,
+   `assemble_chapter.py`, `export_manuscript.py`). Alles andere ist unnoetiger
+   Eigenbau.
    Chronik-Gate: `py -3 tools/review_manuscript.py --book die-dritte-chronik --style stil-01-original --all --llm none --fail-on-errors`
    (ERROR=0/WARNING=13/INFO=36; Details `docs/offene-punkte.md` Punkt 6 + 12).
    Print-Vergleich Pharao: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`

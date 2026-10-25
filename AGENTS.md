@@ -4,6 +4,18 @@
 > Lies zuerst diese Datei und die README, dann beginne mit der Arbeit.
 > Aktueller Arbeitsstand und naechste Schritte: [docs/HANDOVER.md](./docs/HANDOVER.md).
 
+## Einstieg fuer neue KI-Sitzung (verbindlich, vor allem anderen lesen)
+
+Wenn du in diesem Repo arbeitest – ob als Mensch oder als KI – gilt folgende Reihenfolge. Alles andere ist Eigenbau und vermeidbar.
+
+1. Lies `AGENTS.md` (diese Datei), dann `README.md`, dann `docs/HANDOVER.md`. Stoppe dort, wenn du den Stand verstanden hast.
+2. Frage nie den Status ab, den `py -3 tools/status.py --book <buch-id> summary` schon liefert.
+3. Baue keine eigenen Pruef-Skripte oder Datei-Listen. Nutze die vorhandenen CLIs unter `tools/` (siehe Schnellstart in `README.md`).
+4. Arbeite immer buchbezogen unter `books/<buch-id>/`. Nie eigenmaechtig in `source/` eingreifen.
+5. Unter Windows ist `py -3` der Python-Befehl, nicht `python`.
+6. EPUB-/ZIP-/Artifact-Probleme werden separat nach Absprache gelöst – sie sind kein Grund, den Einstieg zu verlassen.
+7. Im Zweifel: erst fragen, dann schreiben. Keine Spekulation, keine Massendatei-Lesung, kein `tmp_*.py` im Repo-Root.
+
 ## Fortsetzung im gleichen Ordner / neues Chat-Fenster (gleiche LLM)
 
 Kein neues Setup noetig. Im selben Repo-Ordner
@@ -527,13 +539,19 @@ Peter-I-Raffung 2026-09-17.
   Status ausgewiesen). Details: [docs/marketing-export.md](./docs/marketing-export.md).
 
 <!-- motivatier-project-hub:start -->
-## Motivatier Project Hub
+## Motivatier Project Hub - Anbindung
 
 - Hub: https://github.com/LitttleLions/motivatier-project-hub. Einstieg `INDEX.md`; Vertrag `docs/CONTRACT.md`, Version 1. Dieses Projekt: `litttlelions-peter-the-one-creator`.
-- Vor einer neuen Integration, größeren Funktion oder wiederverwendbaren Infrastruktur kurz nach passenden Lösungen suchen. Erst Index/Suchliste, dann wenige relevante Dokumente und bei Bedarf deren Code lesen. Vor Übernahme Eignung und Grenzen prüfen.
-- Innerhalb desselben Arbeitspakets dieselbe Recherche nicht ohne neuen Anlass wiederholen. Kleine UI-/Textänderungen, lokale Bugfixes und Refactorings ohne übergreifende Auswirkung benötigen keine Hub-Recherche.
+- Der Hub ist privat. Zugriff prüfen über die vorhandene authentifizierte GitHub-Integration oder `gh`/Git (z. B. `gh auth status`). Ein 404 beim unauthentifizierten Web-/Raw-Zugriff belegt nicht, dass Hub-Dateien fehlen.
+- Bestehende Anbindung aktualisieren – keine Neuanmeldung, keine neue Projektkennung.
+- Vor neuer API, größerer Funktion oder gemeinsamer Infrastruktur nach Vorhandenem suchen (Hub-Metadaten, REUSE, Quellpfade). Relevante Ergebnisse/Änderungen/Grenzen gebündelt am Abschluss melden.
+- Kleine UI-/Textänderungen, lokale Bugfixes und Refactorings ohne übergreifenden Nutzen benötigen keine zusätzliche Hubarbeit.
+- Keine erneute Projektanalyse ohne Anlass. `source_commit` und `reviewed_at` bleiben unverändert, solange keine neue inhaltliche Prüfung stattgefunden hat.
 - Nach einem relevanten abgeschlossenen Arbeitspaket `docs/project-brief.md`, optional `docs/reuse.md` und `.atlas/manifest.json` aktualisieren: neue/ersetzte wiederverwendbare Lösungen, wesentliche Architektur-/API-Änderungen oder wichtige Grenzen/Fehlversuche. Mehrere Änderungen einmal gebündelt veröffentlichen.
-- Kurze projektübergreifende Erkenntnisse bei Bedarf als Notes mit Herkunft melden. Keine einzelnen Mini-Funktionen, Commit-Tagebücher oder persönlichen Memory-Einträge spiegeln.
 - Standardexport: die gepflegten Dokumente und `.atlas/manifest.json` unverändert nach `projects/litttlelions-peter-the-one-creator/` im Hub kopieren (`PROJECT_BRIEF.md` und `REUSE.md`), dann dort mit dem aktuellen zentralen Werkzeug `py -3 scripts/hub.py seal litttlelions-peter-the-one-creator` und `py -3 scripts/hub.py validate` prüfen. Ein eigener Exporter ist optional. Ein vorhandener Exporter aus dem Portfolio-Cockpit passt nicht: er verlangt einen sauberen Arbeitsbaum. Quellrepo-Freigaben beachten; Hub-Veröffentlichung über denselben offenen Projekt-PR. Transport ist keine neue inhaltliche Prüfung und verändert deren Datum nicht.
+- Committe gezielt den eigenen Anweisungs-/Dokumentationszusatz und pushe nur die freigegebene Commitkette. Erhalte fremde Änderungen, auch innerhalb derselben AGENTS-Datei. Zusätzliche vorausliegende Produktcommits nicht ungefragt veröffentlichen.
+- Ein reines lokales Regelupdate benötigt keinen neuen Hub-Export-PR. Falls sich die veröffentlichten Projektbeschreibungen oder der Logo-Export tatsächlich ändern, aktualisiere den bestehenden Projekt-PR oder eröffne genau einen Update-PR; Quelle, Export und CONTEXT.md abgleichen.
+- Am Ende kurz nennen: lokale Regel aktualisiert, veröffentlichter Stand und eventuell konkrete Blockade. Keine vermeintlich neue Agentenverbindung melden.
 - Passende Agentenprofile und Notes nur aufgabengesteuert lesen. Rückfragen über Issues; eine Empfängerkennung beweist keine Erreichbarkeit. WissenOne bleibt das getrennte Unternehmerwissen.
+- Ein optionales echtes App-Logo kann beim Hub-Export bytegetreu mit relativem Quellpfad ergänzt werden. Kein Logo generieren oder ersetzen; fehlendes/unklares Logo blockiert die Aufnahme nicht. Ein Logo allein ändert den Code-Prüfstand nicht.
 <!-- motivatier-project-hub:end -->

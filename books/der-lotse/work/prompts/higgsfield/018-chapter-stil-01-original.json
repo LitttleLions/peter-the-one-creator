@@ -1,0 +1,59 @@
+{
+  "book": "der-lotse",
+  "chapter": "018",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\scenes\\de\\stil-01-original\\018\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\prompts\\higgsfield\\018-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-lotse\\assets\\chapter\\chapter-018.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 018. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Die Kerze auf dem Tisch brannte bereits zur Hälfte herunter, als Joren die Tür hinter sich schloss. Das Wachs lief in einer schmalen Rinne über den Zinnteller und erstarrte dort zu einer Perle, die im Licht glänzte wie ein Tropfen Bernstein. Der Wind hatte sich gelegt; nur das Holz des Hauses arbeitete noch, mit jenem Knarren, das Joren seit dreißig Jahren kannte, das ihn nachts nicht mehr weckte, das aber jetzt, in dieser Stunde, lauter schien als sonst. Maren saß am Tisch. Vor ihr lagen die Seekarten ausgebreitet, die er selbst vor Jahren gezeichnet hatte — mit Bleistift korrigiert, mit Tinte nachgezogen, an den Rändern abgegriffen von nassen Fingern. Sie hatte die Hände flach auf das Papier gelegt, als wolle sie verhindern, dass es sich unter ihr bewegte. Else war nicht da. Sie schlief, oder sie tat, als schliefe sie, oben in der Kammer, wo sie seit Tagen kaum noch ein Wort sprach, die Mahlzeiten zubereitete, die Netze flickte und jeden Abend länger am Fenster stand, als es die Arbeit erforderte. Joren blieb an der Tür stehen. Er sah seine Tochter an, und er dachte, dass sie in diesem Licht älter aussah, als sie war, und zugleich jünger, wie ein Mädchen, das über einer Rechenaufgabe sitzt, die es nicht lösen kann, weil ihm eine Zahl fehlt.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_214112_48b8b852-beab-4267-9c8d-d4eaa9f9bb88.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-27T21:41:12.986911Z",
+      "display_name": "GPT Image 2",
+      "id": "48b8b852-beab-4267-9c8d-d4eaa9f9bb88",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_214112_48b8b852-beab-4267-9c8d-d4eaa9f9bb88_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 2336,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 018. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Die Kerze auf dem Tisch brannte bereits zur Hälfte herunter, als Joren die Tür hinter sich schloss. Das Wachs lief in einer schmalen Rinne über den Zinnteller und erstarrte dort zu einer Perle, die im Licht glänzte wie ein Tropfen Bernstein. Der Wind hatte sich gelegt; nur das Holz des Hauses arbeitete noch, mit jenem Knarren, das Joren seit dreißig Jahren kannte, das ihn nachts nicht mehr weckte, das aber jetzt, in dieser Stunde, lauter schien als sonst. Maren saß am Tisch. Vor ihr lagen die Seekarten ausgebreitet, die er selbst vor Jahren gezeichnet hatte — mit Bleistift korrigiert, mit Tinte nachgezogen, an den Rändern abgegriffen von nassen Fingern. Sie hatte die Hände flach auf das Papier gelegt, als wolle sie verhindern, dass es sich unter ihr bewegte. Else war nicht da. Sie schlief, oder sie tat, als schliefe sie, oben in der Kammer, wo sie seit Tagen kaum noch ein Wort sprach, die Mahlzeiten zubereitete, die Netze flickte und jeden Abend länger am Fenster stand, als es die Arbeit erforderte. Joren blieb an der Tür stehen. Er sah seine Tochter an, und er dachte, dass sie in diesem Licht älter aussah, als sie war, und zugleich jünger, wie ein Mädchen, das über einer Rechenaufgabe sitzt, die es nicht lösen kann, weil ihm eine Zahl fehlt.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "2k",
+        "width": 1744
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_214112_48b8b852-beab-4267-9c8d-d4eaa9f9bb88.png",
+      "status": "completed"
+    }
+  ]
+}

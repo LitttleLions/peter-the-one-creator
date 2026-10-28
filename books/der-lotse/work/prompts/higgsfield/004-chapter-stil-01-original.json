@@ -1,0 +1,59 @@
+{
+  "book": "der-lotse",
+  "chapter": "004",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\scenes\\de\\stil-01-original\\004\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\prompts\\higgsfield\\004-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-lotse\\assets\\chapter\\chapter-004.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 004. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Weg von Eldena zum Kloster war kürzer, als Maren ihn in Erinnerung hatte. Vielleicht lag es daran, dass sie ihn diesmal zu Fuß ging, ohne die Ablenkung des Wassers unter dem Kiel, ohne das Knarren der Möwe und ohne die stille Anwesenheit ihres Vaters, der hinter ihr herging wie ein Mann, der nicht wusste, ob sein Platz noch an ihrer Seite war. Die Straße war nicht mehr als ein Pfad, der sich durch karge Wiesen wand, vorbei an vereinzelten Hütten, deren Dächer aus Torf und Reet den Regen der letzten Tage gespeichert hatten. Ein Hund lief ihnen eine Weile nach, blieb dann stehen und kehrte um. Maren hörte Jorens Schritte hinter sich, gleichmäßig, bedächtig, und sie wusste, dass er den Abstand hielt, weil er ihn für angemessen hielt, nicht weil er ihr auswich. Das war schlimmer. Sie hätte es vorgezogen, wenn er sie bedrängt hätte, wenn er etwas gesagt hätte, das sie hätte zurückweisen können. Stattdessen schwieg er, und sein Schweigen war so sorgfältig, dass es fast eine Entschuldigung war.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_142431_a30b7e28-5824-4e78-8be7-dd563a187cad.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-27T14:24:31.377521Z",
+      "display_name": "GPT Image 2",
+      "id": "a30b7e28-5824-4e78-8be7-dd563a187cad",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_142431_a30b7e28-5824-4e78-8be7-dd563a187cad_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 004. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Weg von Eldena zum Kloster war kürzer, als Maren ihn in Erinnerung hatte. Vielleicht lag es daran, dass sie ihn diesmal zu Fuß ging, ohne die Ablenkung des Wassers unter dem Kiel, ohne das Knarren der Möwe und ohne die stille Anwesenheit ihres Vaters, der hinter ihr herging wie ein Mann, der nicht wusste, ob sein Platz noch an ihrer Seite war. Die Straße war nicht mehr als ein Pfad, der sich durch karge Wiesen wand, vorbei an vereinzelten Hütten, deren Dächer aus Torf und Reet den Regen der letzten Tage gespeichert hatten. Ein Hund lief ihnen eine Weile nach, blieb dann stehen und kehrte um. Maren hörte Jorens Schritte hinter sich, gleichmäßig, bedächtig, und sie wusste, dass er den Abstand hielt, weil er ihn für angemessen hielt, nicht weil er ihr auswich. Das war schlimmer. Sie hätte es vorgezogen, wenn er sie bedrängt hätte, wenn er etwas gesagt hätte, das sie hätte zurückweisen können. Stattdessen schwieg er, und sein Schweigen war so sorgfältig, dass es fast eine Entschuldigung war.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_142431_a30b7e28-5824-4e78-8be7-dd563a187cad.png",
+      "status": "completed"
+    }
+  ]
+}

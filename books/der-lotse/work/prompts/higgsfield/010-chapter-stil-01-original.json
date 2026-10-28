@@ -1,0 +1,59 @@
+{
+  "book": "der-lotse",
+  "chapter": "010",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\scenes\\de\\stil-01-original\\010\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\prompts\\higgsfield\\010-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-lotse\\assets\\chapter\\chapter-010.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 010. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Das Schilf raschelte trocken, als hätte jemand Papier zwischen den Halmen zerrieben. Maren stand bis zu den Knöcheln im Schlamm und spürte, wie die Kälte durch die Lederstiefel kroch, langsam, unaufhaltsam, wie ein zweiter Puls. Vor ihr lag der alte Anlandeplatz, eine flache Bucht, die das Meer seit Jahrzehnten nicht mehr richtig ausgespült hatte, sodass der Grund sich mit Schlick gefüllt hatte und nur bei Hochwasser eine Handbreit Wasser über den Steinen stand. Ein Ort, den die Karten nicht führten, weil die Karten ihn nicht führen wollten. Ein Ort, an dem Boote verschwanden, wenn man sie verschwinden lassen wollte. Sie zog den linken Fuß aus dem Schlamm. Es machte ein Geräusch wie ein Kuss.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_213418_f5777c23-d61d-4aac-ac8a-2a2c57cc70e5.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-27T21:34:18.369922Z",
+      "display_name": "GPT Image 2",
+      "id": "f5777c23-d61d-4aac-ac8a-2a2c57cc70e5",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_213418_f5777c23-d61d-4aac-ac8a-2a2c57cc70e5_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 2336,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 010. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Das Schilf raschelte trocken, als hätte jemand Papier zwischen den Halmen zerrieben. Maren stand bis zu den Knöcheln im Schlamm und spürte, wie die Kälte durch die Lederstiefel kroch, langsam, unaufhaltsam, wie ein zweiter Puls. Vor ihr lag der alte Anlandeplatz, eine flache Bucht, die das Meer seit Jahrzehnten nicht mehr richtig ausgespült hatte, sodass der Grund sich mit Schlick gefüllt hatte und nur bei Hochwasser eine Handbreit Wasser über den Steinen stand. Ein Ort, den die Karten nicht führten, weil die Karten ihn nicht führen wollten. Ein Ort, an dem Boote verschwanden, wenn man sie verschwinden lassen wollte. Sie zog den linken Fuß aus dem Schlamm. Es machte ein Geräusch wie ein Kuss.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "2k",
+        "width": 1744
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_213418_f5777c23-d61d-4aac-ac8a-2a2c57cc70e5.png",
+      "status": "completed"
+    }
+  ]
+}

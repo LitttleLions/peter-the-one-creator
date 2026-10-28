@@ -1,0 +1,59 @@
+{
+  "book": "der-lotse",
+  "chapter": "015",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\scenes\\de\\stil-01-original\\015\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\prompts\\higgsfield\\015-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-lotse\\assets\\chapter\\chapter-015.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 015. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Nebel kam von Südwesten, und er kam nicht wie Wetter, sondern wie eine Mauer, die jemand über das Wasser geschoben hatte. Joren Voss stand im Vorschiff der *Möwe*, die Hände am Want, und sah zu, wie die Konturen des Ruden darin verschwanden, erst die höheren Kuppen, dann die Silhouette der Bäume, zuletzt die bloße Ahnung von Land, bis nichts blieb als ein weißgraues Atmen, das keine Richtung hatte und keine Entfernung. Das Ruderblatt knarrte in der Ducht, das Wasser klatschte dumpf gegen die Planken, und irgendwo, sehr weit weg oder sehr nah, das war nicht zu unterscheiden, schlug eine Brandung mit dem Geräusch eines Atems, der zwischen den Zähnen entweicht. Er hatte die *Möwe* vor der dritten Stunde nach Mitternacht aus der Boje gelöst, ohne Laterne, ohne Geräusch, und Else hatte im Halbschlaf den Kopf gehoben und gefragt, wohin. Auf Lotsenfahrt, hatte er gesagt, und es war keine Lüge gewesen, aber auch nicht die Wahrheit, und Else hatte ihn angesehen mit dem Blick, den sie für seine Ausflüchte reservierte, und sich wieder umgedreht, ohne ein Wort. Das war schlimmer gewesen als jeder Vorwurf.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_213841_792e0c6a-31cc-4d28-b9e8-ba2cea99afaa.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-27T21:38:41.527705Z",
+      "display_name": "GPT Image 2",
+      "id": "792e0c6a-31cc-4d28-b9e8-ba2cea99afaa",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_213841_792e0c6a-31cc-4d28-b9e8-ba2cea99afaa_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 2336,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 015. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Nebel kam von Südwesten, und er kam nicht wie Wetter, sondern wie eine Mauer, die jemand über das Wasser geschoben hatte. Joren Voss stand im Vorschiff der *Möwe*, die Hände am Want, und sah zu, wie die Konturen des Ruden darin verschwanden, erst die höheren Kuppen, dann die Silhouette der Bäume, zuletzt die bloße Ahnung von Land, bis nichts blieb als ein weißgraues Atmen, das keine Richtung hatte und keine Entfernung. Das Ruderblatt knarrte in der Ducht, das Wasser klatschte dumpf gegen die Planken, und irgendwo, sehr weit weg oder sehr nah, das war nicht zu unterscheiden, schlug eine Brandung mit dem Geräusch eines Atems, der zwischen den Zähnen entweicht. Er hatte die *Möwe* vor der dritten Stunde nach Mitternacht aus der Boje gelöst, ohne Laterne, ohne Geräusch, und Else hatte im Halbschlaf den Kopf gehoben und gefragt, wohin. Auf Lotsenfahrt, hatte er gesagt, und es war keine Lüge gewesen, aber auch nicht die Wahrheit, und Else hatte ihn angesehen mit dem Blick, den sie für seine Ausflüchte reservierte, und sich wieder umgedreht, ohne ein Wort. Das war schlimmer gewesen als jeder Vorwurf.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "2k",
+        "width": 1744
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_213841_792e0c6a-31cc-4d28-b9e8-ba2cea99afaa.png",
+      "status": "completed"
+    }
+  ]
+}

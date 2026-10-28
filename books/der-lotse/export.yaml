@@ -1,0 +1,128 @@
+defaults:
+  language: de-DE
+  publisher: Motivatier Stiftung
+  rights: >-
+    © 2026 Motivatier Stiftung für diesen Text, editorische Einrichtung,
+    Zusatztexte, Satz und Covergestaltung.
+  description: ''
+  cover:
+    mode: placeholder
+    image_path: ''
+    background: '#1b2426'
+    foreground: '#dfe6e4'
+  front_matter:
+    cover_in_body: true
+    title_page: true
+    summary_page: true
+    author_bio_page: true
+    description_page: false
+    imprint_page: true
+    toc_page: false
+    combined_epub_front_matter: false
+    combined_heading: Titelei
+    cover_heading: Cover
+    title_heading: Titelseite
+    summary_heading: Zusammenfassung
+    author_bio_heading: Leben des Autors
+    description_heading: Zu dieser Ausgabe
+    imprint_heading: Impressum
+    toc_heading: Inhalt
+  output:
+    page_break_before_chapter: true
+    chapter_headings: true
+    scene_numbers: false
+    strip_control_metadata: true
+    scene_separator: '* * *'
+  illustrations:
+    enabled: true
+    chapter_images: true
+    scene_images: true
+    chapter_page_break_after_image: true
+    scene_page_break_after_image: false
+book:
+  title: Der Lotse von Rügen
+  subtitle: Roman
+  author: Timo Verita
+  translator: Motivatier Classics
+  translator_label: Herausgabe und editorische Einrichtung
+  language: de-DE
+  publisher: Motivatier Stiftung
+  rights: >-
+    © 2026 Motivatier Stiftung für diesen Text, editorische Einrichtung,
+    Zusatztexte, Satz und Covergestaltung.
+  original_title: Der Lotse von Rügen
+  original_author: Timo Verita
+  title_page_extra:
+  - Motivatier Classics
+  - Historischer Abenteuer- und Familienroman
+  - Thiessow und Middelhagen auf Mönchgut, Greifswalder Bodden · September 1715
+  - >-
+    Diese Ausgabe folgt dem deutschen Originaltext. Satz und editorische
+    Einrichtung durch Motivatier Classics im Auftrag der Motivatier
+    Stiftung.
+  imprint_text: |
+    Der Lotse von Rügen
+
+    Timo Verita
+
+    Historischer Abenteuer- und Familienroman
+
+    Thiessow und Middelhagen auf Mönchgut, Greifswalder Bodden
+    September 1715
+
+    Motivatier Classics
+
+    Herausgabe und editorische Einrichtung: Motivatier Classics
+
+    Herausgegeben von der Motivatier Stiftung
+
+    © 2026 Motivatier Stiftung für diesen Text, editorische Einrichtung,
+    Zusatztexte, Satz und Covergestaltung.
+
+    Der Roman enthält bewusste fiktionale Entscheidungen und rekonstruiert
+    kein dokumentiertes Einzelschicksal.
+
+    Alle Rechte an dieser Ausgabe vorbehalten.
+  description: >-
+    September 1715, drei Wochen auf dem südöstlichen Rügen. Die Schweden
+    bauen eine Schiffssperre in den Greifswalder Bodden, und aus dem
+    Arbeitseinsatz, der nur wenige Wochen dauern sollte, kehren vier Fischer
+    nicht zurück. Joren Voss ist Lotse aus Thiessow und kennt den Weg durch
+    die Sperre wie kaum jemand sonst. Seine Tochter Maren kennt die Menschen,
+    denen dieser Weg nützt, und die er dabei ruiniert. Er verhandelt mit der
+    gegnerischen Flotte, sie entzieht den Soldaten die Boote. Als die
+    Rechnungen der Herrschaft auf den Tischen der Dörfer liegen, brauchen
+    beide genau das, was der andere aufs Spiel gesetzt hat. Ein historischer
+    Roman über Pfahl, Protokoll und das Recht der Küstenfischer – und über
+    einen Vater und eine Tochter, die einander retten und dabei
+    voneinander getrennt werden.
+  summary: >-
+    September 1715: An der schwedischen Schiffssperre im Greifswalder Bodden
+    werden Boote requiriert, Fischer auf Listen gesetzt und Arbeitskommandos
+    an die Ufer geschickt. Vier Männer aus Thiessow und Middelhagen kommen
+    nicht zurück. Joren Voss, Lotse auf der Möwe, fährt durch das
+    Fahrwasser, das jetzt Arbeit fordert statt Fisch, und verhandelt mit dem
+    schwedischen Leutnant Rask um Boote, Listen und eine Ausnahme für seine
+    Tochter. Maren Voss fährt in Öltuch verpackte Abschriften alter
+    Ufervermerke nach Eldena, vergleicht alte und junge Fassung eines
+    Vertrags, der den Frieden an eine Bedingung knüpft, die niemand
+    kontrollieren kann – und schreibt Listen ab, die Namen und Fahrzeuge
+    gleichzeitig festhalten. Während die Sperre wächst, verlieren beide
+    Menschen, denen sie helfen wollen, und gewinnen genau das, was der
+    andere riskiert hat. Der Roman erzählt von einem Vater, der beruflich
+    beweisen kann, was er moralisch nicht verantworten darf, und von einer
+    Tochter, die zu früh erkennt, wie die Dörfer benutzt werden, und
+    überschätzt, wie weit ihre Heimlichkeit reicht.
+  author_bio: >-
+    Timo Verita ist ein Autor aus zwei Hälften: Mensch und Maschine. Die eine
+    Hälfte recherchiert Nächte durch, die andere vergisst nichts. Zusammen
+    schreiben sie historische Romane für Motivatier Classics, herausgegeben
+    von der Motivatier Stiftung.
+  cover:
+    mode: image
+    image_path: assets/covers/cover.png
+
+website:
+  enabled: false
+  amazon_url: ''
+  sort_order: 70

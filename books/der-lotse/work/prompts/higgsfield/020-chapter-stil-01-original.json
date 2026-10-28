@@ -1,0 +1,59 @@
+{
+  "book": "der-lotse",
+  "chapter": "020",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\scenes\\de\\stil-01-original\\020\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\prompts\\higgsfield\\020-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-lotse\\assets\\chapter\\chapter-020.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 020. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Talg roch nach Schaf und Rauch, als Maren ihn in das zusammengefaltete Stück Segeltuch einschlug, das ihn auf der Fahrt vor Nässe schützen sollte. Else stand am Herd und schnitt Brot, nicht in Scheiben, sondern in dicke, handliche Blöcke, die sie in ein sauberes Tuch schlug und mit einer Schnur verschnürte, als gälte es, einen Weg zu verpacken und nicht eine Mahlzeit. Auf der Bank lagen die Taue, die Thies am Morgen gebracht hatte, drei an der Zahl, gelegt, nicht gewickelt, damit sie sich beim Auswerfen nicht verhedderten. Maren prüfte jede Bucht mit der Hand, Strang für Strang, und fand an der zweiten Stelle eine weiche Faser, die sie mit dem Messer abschnitt und verwarf. Maren ließ das Messer sinken und sah ihre Mutter an. Else hatte den Rücken zu ihr, die Schultern hochgezogen, die Arme im Teig der letzten Arbeit. Sie hatte seit dem Morgen kaum gesprochen, aber sie hatte gearbeitet, ohne Pause, mit einer Verbissenheit, die Maren an die Art erinnerte, wie Fischer bei aufziehendem Wetter die Netze einholten: nicht aus Angst, sondern aus Ordnung. Was man nicht mehr retten kann, rettet man nicht durch Reden.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_214254_1d9d4024-947c-4f80-82b3-d8327c260b62.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-27T21:42:54.129257Z",
+      "display_name": "GPT Image 2",
+      "id": "1d9d4024-947c-4f80-82b3-d8327c260b62",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_214254_1d9d4024-947c-4f80-82b3-d8327c260b62_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 2336,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 020. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Talg roch nach Schaf und Rauch, als Maren ihn in das zusammengefaltete Stück Segeltuch einschlug, das ihn auf der Fahrt vor Nässe schützen sollte. Else stand am Herd und schnitt Brot, nicht in Scheiben, sondern in dicke, handliche Blöcke, die sie in ein sauberes Tuch schlug und mit einer Schnur verschnürte, als gälte es, einen Weg zu verpacken und nicht eine Mahlzeit. Auf der Bank lagen die Taue, die Thies am Morgen gebracht hatte, drei an der Zahl, gelegt, nicht gewickelt, damit sie sich beim Auswerfen nicht verhedderten. Maren prüfte jede Bucht mit der Hand, Strang für Strang, und fand an der zweiten Stelle eine weiche Faser, die sie mit dem Messer abschnitt und verwarf. Maren ließ das Messer sinken und sah ihre Mutter an. Else hatte den Rücken zu ihr, die Schultern hochgezogen, die Arme im Teig der letzten Arbeit. Sie hatte seit dem Morgen kaum gesprochen, aber sie hatte gearbeitet, ohne Pause, mit einer Verbissenheit, die Maren an die Art erinnerte, wie Fischer bei aufziehendem Wetter die Netze einholten: nicht aus Angst, sondern aus Ordnung. Was man nicht mehr retten kann, rettet man nicht durch Reden.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "2k",
+        "width": 1744
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_214254_1d9d4024-947c-4f80-82b3-d8327c260b62.png",
+      "status": "completed"
+    }
+  ]
+}

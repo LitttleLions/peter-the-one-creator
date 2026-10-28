@@ -1,0 +1,59 @@
+{
+  "book": "der-lotse",
+  "chapter": "014",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "2k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\scenes\\de\\stil-01-original\\014\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\prompts\\higgsfield\\014-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-lotse\\assets\\chapter\\chapter-014.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 014. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Staub lag auf den Bündeln wie ein zweiter Einband. Benthin fuhr mit dem Handrücken über das oberste Blatt, und die feine Schicht hob sich, wirbelte in dem schmalen Lichtstreifen, den der graue Vormittag durch das Butzenscheibenfenster warf, und senkte sich langsam auf die Dielen zurück. Das Küsterhaus roch nach Papier und nach kaltem Rauch; der Ofen war seit dem frühen Morgen nicht geheizt worden, weil Benthin das Holz sparte und weil er, wie er sich sagte, beim Ordnen nicht fror. Er fror doch. Er trug den Rock über dem Wams und die Mütze auf dem Kopf, und seine Finger waren steif, als er die Schnur löste, die das Bündel der Requisitionslisten zusammenhielt. Es war ein schmales Bündel. Sechzehn Blätter, sauber beschrieben, in Marens Hand und in seiner, jedes mit Datum, Namen, Fahrzeug, Tonnage, Verwendungszweck, Gegenzeichnung. Er legte sie nebeneinander auf die lange Tischplatte, und sie bedeckten die Platte nicht. Sechzehn Blätter für fünf Dörfer. Er hatte mehr erwartet, als er sie angelegt hatte, und weniger gefürchtet, als er sie nun ansah.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "2k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_213750_b62a524c-e5a8-4c8a-921a-6e078cb4b756.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-27T21:37:50.673528Z",
+      "display_name": "GPT Image 2",
+      "id": "b62a524c-e5a8-4c8a-921a-6e078cb4b756",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_213750_b62a524c-e5a8-4c8a-921a-6e078cb4b756_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 2336,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 014. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Staub lag auf den Bündeln wie ein zweiter Einband. Benthin fuhr mit dem Handrücken über das oberste Blatt, und die feine Schicht hob sich, wirbelte in dem schmalen Lichtstreifen, den der graue Vormittag durch das Butzenscheibenfenster warf, und senkte sich langsam auf die Dielen zurück. Das Küsterhaus roch nach Papier und nach kaltem Rauch; der Ofen war seit dem frühen Morgen nicht geheizt worden, weil Benthin das Holz sparte und weil er, wie er sich sagte, beim Ordnen nicht fror. Er fror doch. Er trug den Rock über dem Wams und die Mütze auf dem Kopf, und seine Finger waren steif, als er die Schnur löste, die das Bündel der Requisitionslisten zusammenhielt. Es war ein schmales Bündel. Sechzehn Blätter, sauber beschrieben, in Marens Hand und in seiner, jedes mit Datum, Namen, Fahrzeug, Tonnage, Verwendungszweck, Gegenzeichnung. Er legte sie nebeneinander auf die lange Tischplatte, und sie bedeckten die Platte nicht. Sechzehn Blätter für fünf Dörfer. Er hatte mehr erwartet, als er sie angelegt hatte, und weniger gefürchtet, als er sie nun ansah.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "2k",
+        "width": 1744
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_213750_b62a524c-e5a8-4c8a-921a-6e078cb4b756.png",
+      "status": "completed"
+    }
+  ]
+}

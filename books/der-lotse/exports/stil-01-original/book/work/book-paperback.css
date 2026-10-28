@@ -1,0 +1,261 @@
+@font-face {
+  font-family: "EB Garamond";
+  src: url("file:///C:/code/peter-the-one/assets/print-fonts/eb-garamond/EBGaramond.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+}
+@font-face {
+  font-family: "EB Garamond";
+  src: url("file:///C:/code/peter-the-one/assets/print-fonts/eb-garamond/EBGaramond-Italic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 400 800;
+  font-display: swap;
+}
+
+@page {
+  size: 5.5in 8.5in;
+  margin: 16mm 15.9mm 18mm 15.9mm;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "EB Garamond", "Times New Roman", serif;
+  font-size: 10.8pt;
+  line-height: 13.6pt;
+  color: #111;
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphenate-language: de;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+a { color: inherit; text-decoration: none; }
+
+.frontmatter-page,
+.group-heading,
+.appendix {
+  break-before: page;
+  page-break-before: always;
+}
+
+.chapter {
+  break-before: page;
+  page-break-before: always;
+}
+
+.titlepage {
+  min-height: 180.9mm;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  hyphens: none;
+}
+
+.book-title {
+  margin: 0 0 0.7em;
+  font-size: 22pt;
+  font-weight: normal;
+  line-height: 1.12;
+  text-align: center;
+  text-indent: 0;
+}
+
+.subtitle { margin: 0.3em 0 2em; font-size: 12pt; text-align: center; }
+.author { margin: 1.8em 0 0.5em; font-size: 13pt; text-align: center; }
+.translator, .title-extra, .partial-note {
+  margin: 0.55em 0 0;
+  font-size: 9.5pt;
+  text-align: center;
+  text-indent: 0;
+}
+
+.textpage h1, .imprintpage h1, .tocpage h1 {
+  margin: 0 0 12mm;
+  font-size: 14pt;
+  font-weight: normal;
+  text-align: center;
+  text-indent: 0;
+}
+
+.imprintpage { padding-top: 12mm; text-align: left; hyphens: none; }
+.imprintpage p { margin: 0 0 0.8em; text-indent: 0; text-align: left; }
+.imprint-title { font-size: 16pt; }
+.imprint-author { font-size: 12pt; margin-bottom: 1.5em; }
+.imprint-subtitle { font-size: 10.5pt; margin-bottom: 1.8em; }
+.imprint-meta { font-size: 9.2pt; }
+.imprint-rights { font-size: 8.4pt; color: #444; }
+
+.tocpage { text-align: left; hyphens: none; }
+.tocpage ol { margin: 0; padding-left: 1.4em; }
+.tocpage li { margin: 0 0 0.45em; text-align: left; }
+
+.group-heading h1 {
+  margin-top: 48mm;
+  text-align: center;
+  font-size: 16pt;
+  font-weight: normal;
+  text-indent: 0;
+}
+
+.chapter-heading {
+  margin: 32mm 0 13mm;
+  text-align: center;
+  font-size: 14pt;
+  font-weight: normal;
+  line-height: 1.25;
+  text-indent: 0;
+  hyphens: none;
+}
+
+.chapter-illustration,
+.scene-illustration {
+  margin: 6mm auto 11mm;
+  padding: 4mm;
+  max-width: 72%;
+  text-align: center;
+  break-inside: avoid;
+  page-break-inside: avoid;
+  border: 1.15pt double #2a2a2a;
+  background: #fff;
+}
+
+.chapter-illustration img,
+.scene-illustration img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  max-height: 90mm;
+  height: auto;
+  object-fit: contain;
+}
+
+.series-catalog {
+  break-before: page;
+  page-break-before: always;
+  text-align: left;
+  hyphens: none;
+}
+
+.series-catalog h1 {
+  margin: 0 0 10mm;
+  font-size: 14pt;
+  font-weight: normal;
+  text-align: center;
+  text-indent: 0;
+}
+
+.series-entry {
+  display: flex;
+  gap: 6mm;
+  margin: 0 0 8mm;
+  break-inside: avoid;
+  page-break-inside: avoid;
+  text-indent: 0;
+}
+
+.series-entry img {
+  width: 28mm;
+  height: auto;
+  max-height: 42mm;
+  object-fit: cover;
+  border: 0.6pt solid #333;
+}
+
+.series-copy h2 {
+  margin: 0 0 1.5mm;
+  font-size: 11pt;
+  font-weight: normal;
+  text-align: left;
+  text-indent: 0;
+}
+
+.series-author {
+  margin: 0 0 2mm;
+  font-size: 9.2pt;
+  font-style: italic;
+  text-indent: 0;
+}
+
+.series-copy p {
+  margin: 0;
+  font-size: 8.8pt;
+  line-height: 1.28;
+  text-align: left;
+  text-indent: 0;
+}
+
+.page-break-after {
+  break-after: page;
+  page-break-after: always;
+}
+
+.scene-marker {
+  margin: 1.15em 0 0.95em;
+  text-align: center;
+  font-size: 10pt;
+  text-indent: 0;
+}
+
+.scene-separator {
+  margin: 1.6em 0;
+  text-align: center;
+  letter-spacing: 0.08em;
+  text-indent: 0;
+}
+
+.scene-text p,
+.textpage p,
+.appendix-text p {
+  margin: 0;
+  text-indent: 1.2em;
+  orphans: 2;
+  widows: 2;
+}
+
+.scene-text > p:first-child,
+.scene-text > blockquote + p,
+.scene-text > .scene-marker + p,
+.scene-text > .scene-separator + p,
+.textpage p:first-of-type,
+.appendix-text > p:first-child {
+  text-indent: 0;
+}
+
+.scene-text blockquote {
+  margin: 0 6mm 8mm;
+  font-size: 10.8pt;
+  font-style: italic;
+  text-align: center;
+  hyphens: none;
+  color: #222;
+}
+
+.scene-text blockquote p {
+  margin: 0 0 0.35em;
+  text-indent: 0;
+  text-align: center;
+}
+
+.scene-text h2,
+.scene-text h3,
+.scene-text h4 {
+  margin: 1.25em 0 0.7em;
+  font-size: 11.5pt;
+  font-weight: normal;
+  text-align: center;
+  text-indent: 0;
+}
+
+figure, img { break-inside: avoid; page-break-inside: avoid; }
+

@@ -1,0 +1,34 @@
+{
+  "chapter": "029",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "029",
+      "scene": 1,
+      "ru_path": "books\\der-lotse\\work\\scenes\\de\\029\\scene-01.md",
+      "de_path": "books\\der-lotse\\work\\scenes\\de\\stil-01-original\\029\\scene-01.md",
+      "ru_words": 3263,
+      "de_words": 3263,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (8x: bis 2x, nichts 2x, dass 1x) in 42 Woertern ohne Satzende.",
+          "chapter": "029",
+          "scene": 1,
+          "evidence": "Er wusste, dass die Leere, die ihn erfüllte, nicht verschwinden würde, wenn er nach Hause kam, sondern bleiben würde, wachsen würde, ihn begleiten würde, bis er nichts mehr spürte, bis er nichts mehr war als ein Lotse, der seine Pflicht erfüllt hatte",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

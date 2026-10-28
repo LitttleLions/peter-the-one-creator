@@ -1,0 +1,34 @@
+{
+  "chapter": "008",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "008",
+      "scene": 1,
+      "ru_path": "books\\der-lotse\\work\\scenes\\de\\008\\scene-01.md",
+      "de_path": "books\\der-lotse\\work\\scenes\\de\\stil-01-original\\008\\scene-01.md",
+      "ru_words": 3238,
+      "de_words": 3238,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Kapitel-TTR 0.22 bei 3216 Woertern.",
+          "chapter": "008",
+          "scene": 1,
+          "evidence": "TTR=0.22, Woerter=3216",
+          "recommendation": "Wortschatzarmut pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

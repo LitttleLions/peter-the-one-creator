@@ -1,0 +1,59 @@
+{
+  "book": "der-lotse",
+  "chapter": "002",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\scenes\\de\\stil-01-original\\002\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\der-lotse\\work\\prompts\\higgsfield\\002-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\der-lotse\\assets\\chapter\\chapter-002.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2",
+    "--prompt",
+    "Chapter 002. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Morgen lag grau über Middelhagen, als hätte jemand die Farbe aus dem Himmel gewaschen. Maren Voss trat aus dem Küsterhaus und blinzelte in das fahle Licht, das durch die Wolken drang wie durch ein altes Tuch. Der Geruch von nassem Holz und Tang hing in der Luft, vermischt mit dem süßlichen Rauch der Torffeuer, die aus den Kaminen der niedrigen Häuser aufstiegen. Sie trug einen Stapel loser Blätter unter dem Arm, die sie sorgfältig gegen den Wind abschirmte, und ihr Atem stand in kleinen Wolken vor ihrem Gesicht. Am Ende des Weges, dort, wo die Wiese in den flachen Uferstreifen überging, standen bereits sechs oder sieben Männer beieinander. Ihre Stimmen waren nicht laut, aber sie trugen über die Entfernung, und Maren hörte die Schärfe darin, bevor sie die Worte verstand. Sie kannte diesen Ton. Es war der Ton, der entstand, wenn zwei Haushalte glaubten, dasselbe Stück Land zu besitzen, und keiner bereit war, die eigene Erinnerung gegen ein Stück Papier einzutauschen.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_141234_a45c4fd9-23c1-4ba2-804f-e6a032d9bc90.png",
+  "job_result": [
+    {
+      "created_at": "2026-09-27T14:12:34.654952Z",
+      "display_name": "GPT Image 2",
+      "id": "a45c4fd9-23c1-4ba2-804f-e6a032d9bc90",
+      "job_type": "gpt_image_2",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_141234_a45c4fd9-23c1-4ba2-804f-e6a032d9bc90_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "videotape-alpha",
+        "prompt": "Chapter 002. High-quality chapter illustration for a historical adventure and family novel set on the south-eastern island of Ruegen in September 1715, during the Swedish occupation. Style: cinematic literary historical illustration, painterly detail, atmospheric light, historically grounded, emotionally intelligent. Premium modern book illustration. Motifs: the coastal pilot and his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition of boats, the Swedish pile fence in the shallow water of the Greifswalder Bodden, the drowned shoreline between the islets, the monastery ruins of Eldena, and a restrained romance kept in the background. Historically grounded early 18th-century dress, wooden sailing boats, ropes, fish traps, reed shore and northern German coastal landscape. Visually striking, readable, emotionally resonant image with a clear central figure or central dramatic situation. Color palette: cold grey-green water, wet wood, faded sailcloth, muted heath, soft overcast light, deep ink tones, restrained ochre. No frame, no canvas edge, no border, no mat, no signature, no lettering, no watermark, no caption. Full-bleed illustration that fills the whole image edge to edge, cropped like a film still. Der Morgen lag grau über Middelhagen, als hätte jemand die Farbe aus dem Himmel gewaschen. Maren Voss trat aus dem Küsterhaus und blinzelte in das fahle Licht, das durch die Wolken drang wie durch ein altes Tuch. Der Geruch von nassem Holz und Tang hing in der Luft, vermischt mit dem süßlichen Rauch der Torffeuer, die aus den Kaminen der niedrigen Häuser aufstiegen. Sie trug einen Stapel loser Blätter unter dem Arm, die sie sorgfältig gegen den Wind abschirmte, und ihr Atem stand in kleinen Wolken vor ihrem Gesicht. Am Ende des Weges, dort, wo die Wiese in den flachen Uferstreifen überging, standen bereits sechs oder sieben Männer beieinander. Ihre Stimmen waren nicht laut, aber sie trugen über die Entfernung, und Maren hörte die Schärfe darin, bevor sie die Worte verstand. Sie kannte diesen Ton. Es war der Ton, der entstand, wenn zwei Haushalte glaubten, dasselbe Stück Land zu besitzen, und keiner bereit war, die eigene Erinnerung gegen ein Stück Papier einzutauschen.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20260927_141234_a45c4fd9-23c1-4ba2-804f-e6a032d9bc90.png",
+      "status": "completed"
+    }
+  ]
+}

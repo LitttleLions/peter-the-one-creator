@@ -1,0 +1,110 @@
+﻿=== START all 16:30:20 ===
+=== Export: Der Lotse von R├╝gen ===
+Scope: book
+Style: stil-01-original
+Format: all
+Kapitel 001: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 002: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 003: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 004: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 005: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 006: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 007: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 008: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 009: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 010: 1 Szenen exportierbar (DE=1, DE=1)
+Illustrationen: 10 gefunden
+  Kapitel 001: books\der-lotse\assets\chapter\chapter-001.jpg
+  Kapitel 002: books\der-lotse\assets\chapter\chapter-002.jpg
+  Kapitel 003: books\der-lotse\assets\chapter\chapter-003.jpg
+  Kapitel 004: books\der-lotse\assets\chapter\chapter-004.jpg
+  Kapitel 005: books\der-lotse\assets\chapter\chapter-005.jpg
+  Kapitel 006: books\der-lotse\assets\chapter\chapter-006.jpg
+  Kapitel 007: books\der-lotse\assets\chapter\chapter-007.jpg
+  Kapitel 008: books\der-lotse\assets\chapter\chapter-008.jpg
+  Kapitel 009: books\der-lotse\assets\chapter\chapter-009.jpg
+  Kapitel 010: books\der-lotse\assets\chapter\chapter-010.jpg
+Geschrieben:
+  books\der-lotse\exports\stil-01-original\book\docx\book-der-lotse-von-r-gen-stil-01-original-20260927-163021.docx
+  books\der-lotse\exports\stil-01-original\book\epub\book-der-lotse-von-r-gen-stil-01-original-20260927-163021.epub
+Arbeitsdatei: books\der-lotse\exports\stil-01-original\book\work\book-der-lotse-von-r-gen-stil-01-original-20260927-163021.md
+Manifest: books\der-lotse\exports\stil-01-original\book\manifests\book-der-lotse-von-r-gen-stil-01-original-20260927-163021.json
+Cover: books\der-lotse\assets\covers\cover.png
+=== END all exit=0 16:30:23 ===
+=== START pdf 16:30:23 ===
+=== Export: Der Lotse von R├╝gen ===
+Scope: book
+Style: stil-01-original
+Format: pdf
+Kapitel 001: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 002: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 003: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 004: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 005: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 006: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 007: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 008: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 009: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 010: 1 Szenen exportierbar (DE=1, DE=1)
+Illustrationen: 10 gefunden
+  Kapitel 001: books\der-lotse\assets\chapter\chapter-001.jpg
+  Kapitel 002: books\der-lotse\assets\chapter\chapter-002.jpg
+  Kapitel 003: books\der-lotse\assets\chapter\chapter-003.jpg
+  Kapitel 004: books\der-lotse\assets\chapter\chapter-004.jpg
+  Kapitel 005: books\der-lotse\assets\chapter\chapter-005.jpg
+  Kapitel 006: books\der-lotse\assets\chapter\chapter-006.jpg
+  Kapitel 007: books\der-lotse\assets\chapter\chapter-007.jpg
+  Kapitel 008: books\der-lotse\assets\chapter\chapter-008.jpg
+  Kapitel 009: books\der-lotse\assets\chapter\chapter-009.jpg
+  Kapitel 010: books\der-lotse\assets\chapter\chapter-010.jpg
+Geschrieben:
+  books\der-lotse\exports\stil-01-original\book\pdf\book-der-lotse-von-r-gen-stil-01-original-20260927-163024.pdf
+Arbeitsdatei: books\der-lotse\exports\stil-01-original\book\work\book-der-lotse-von-r-gen-stil-01-original-20260927-163024.md
+Manifest: books\der-lotse\exports\stil-01-original\book\manifests\book-der-lotse-von-r-gen-stil-01-original-20260927-163024.json
+Cover: books\der-lotse\assets\covers\cover.png
+=== END pdf exit=0 16:30:27 ===
+=== START paperback 16:30:27 ===
+=== Export: Der Lotse von R├╝gen ===
+Scope: book
+Style: stil-01-original
+Format: paperback
+Kapitel 001: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 002: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 003: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 004: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 005: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 006: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 007: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 008: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 009: 1 Szenen exportierbar (DE=1, DE=1)
+Kapitel 010: 1 Szenen exportierbar (DE=1, DE=1)
+Illustrationen: 10 gefunden
+  Kapitel 001: books\der-lotse\assets\chapter\chapter-001.jpg
+  Kapitel 002: books\der-lotse\assets\chapter\chapter-002.jpg
+  Kapitel 003: books\der-lotse\assets\chapter\chapter-003.jpg
+  Kapitel 004: books\der-lotse\assets\chapter\chapter-004.jpg
+  Kapitel 005: books\der-lotse\assets\chapter\chapter-005.jpg
+  Kapitel 006: books\der-lotse\assets\chapter\chapter-006.jpg
+  Kapitel 007: books\der-lotse\assets\chapter\chapter-007.jpg
+  Kapitel 008: books\der-lotse\assets\chapter\chapter-008.jpg
+  Kapitel 009: books\der-lotse\assets\chapter\chapter-009.jpg
+  Kapitel 010: books\der-lotse\assets\chapter\chapter-010.jpg
+Taschenbuch: 112 Seiten, 5.5x8.5 / classic / full_page, Bundsteg 9.6 mm, 1 Satzlauf(e), KDP-max 776
+  Hinweis: chapter 001: 764px bei Anzeigebreite 3.24in ergibt 236 dpi (< 300)
+  Hinweis: chapter 002: 772px bei Anzeigebreite 3.24in ergibt 238 dpi (< 300)
+  Hinweis: chapter 003: 772px bei Anzeigebreite 3.24in ergibt 238 dpi (< 300)
+  Hinweis: chapter 004: 772px bei Anzeigebreite 3.24in ergibt 238 dpi (< 300)
+  Hinweis: chapter 005: 772px bei Anzeigebreite 3.24in ergibt 238 dpi (< 300)
+  Hinweis: chapter 006: 772px bei Anzeigebreite 3.24in ergibt 238 dpi (< 300)
+  Hinweis: chapter 007: 772px bei Anzeigebreite 3.24in ergibt 238 dpi (< 300)
+  Hinweis: chapter 008: 772px bei Anzeigebreite 3.24in ergibt 238 dpi (< 300)
+  Hinweis: chapter 009: 772px bei Anzeigebreite 3.24in ergibt 238 dpi (< 300)
+  Hinweis: chapter 010: 772px bei Anzeigebreite 3.24in ergibt 238 dpi (< 300)
+Geschrieben:
+  books\der-lotse\exports\stil-01-original\book\print\book-der-lotse-von-r-gen-stil-01-original-55x85-classic-full-20260927-163028-paperback-interior.pdf
+  books\der-lotse\exports\stil-01-original\book\print\book-der-lotse-von-r-gen-stil-01-original-55x85-classic-full-20260927-163028-print-report.json
+Arbeitsdatei: books\der-lotse\exports\stil-01-original\book\work\book-der-lotse-von-r-gen-stil-01-original-55x85-classic-full-20260927-163028.md
+Manifest: books\der-lotse\exports\stil-01-original\book\manifests\book-der-lotse-von-r-gen-stil-01-original-55x85-classic-full-20260927-163028.json
+Cover: books\der-lotse\assets\covers\cover.png
+=== END paperback exit=0 16:30:33 ===
+=== ALLE FERTIG ===

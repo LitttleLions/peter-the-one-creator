@@ -1,0 +1,49 @@
+{
+  "chapter": "007",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "007",
+      "scene": 1,
+      "ru_path": "books\\der-lotse\\work\\scenes\\de\\007\\scene-01.md",
+      "de_path": "books\\der-lotse\\work\\scenes\\de\\stil-01-original\\007\\scene-01.md",
+      "ru_words": 2696,
+      "de_words": 2696,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (8x: weil 7x, dass 1x) in 70 Woertern ohne Satzende.",
+          "chapter": "007",
+          "scene": 1,
+          "evidence": "»Sie lassen uns nicht gehen, weil sie uns brauchen, und sie brauchen uns, weil sie zu wenig Männer haben, und sie haben zu wenig Männer, weil sie zu viele Pfähle setzen, und sie setzen zu viele Pfähle, weil der Feind kommt, und der Feind kommt, weil wir hier sind, und wir sind hier, weil wir gekommen sind, und wir sind gekommen, weil wir geglaubt haben, dass es wenige Tage sind",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Kapitel-TTR 0.23 bei 2687 Woertern.",
+          "chapter": "007",
+          "scene": 1,
+          "evidence": "TTR=0.23, Woerter=2687",
+          "recommendation": "Wortschatzarmut pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

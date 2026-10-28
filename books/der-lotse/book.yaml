@@ -1,0 +1,92 @@
+id: der-lotse
+title: Der Lotse von Rügen
+author: Timo Verita
+source_path: source/Der Lotse von Rügen Full I.md
+source_lang: de
+target_lang: de
+ruleset_path: ''
+ruleset_apply: false
+style_mode: stil-01-original
+work_dir: work
+exports_dir: exports
+status_file: status/status.json
+log_dir: status/logs
+styles_dir: styles
+assets_dir: assets
+names_file: names.yaml
+illustration_setting: >-
+  High-quality chapter illustration for a historical adventure and family novel
+  set on the south-eastern island of Ruegen in September 1715, during the
+  Swedish occupation. Style: cinematic literary historical illustration,
+  painterly detail, atmospheric light, historically grounded, emotionally
+  intelligent. Premium modern book illustration. Motifs: the coastal pilot and
+  his daughter, fisherfolk of Thiessow and Middelhagen on Moenchgut, requisition
+  of boats, the Swedish pile fence in the shallow water of the Greifswalder
+  Bodden, the drowned shoreline between the islets, the monastery ruins of
+  Eldena, and a restrained romance kept in the background. Historically
+  grounded early 18th-century dress, wooden sailing boats, ropes, fish traps,
+  reed shore and northern German coastal landscape. Visually striking,
+  readable, emotionally resonant image with a clear central figure or central
+  dramatic situation. Color palette: cold grey-green water, wet wood, faded
+  sailcloth, muted heath, soft overcast light, deep ink tones, restrained
+  ochre.
+  No frame, no canvas edge, no border, no mat, no signature, no lettering,
+  no watermark, no caption. Full-bleed illustration that fills the whole
+  image edge to edge, cropped like a film still.
+higgsfield:
+  model: gpt_image_2
+  aspect_ratio: "3:4"
+  quality: 2k
+  render_quality: medium
+  # Druckoriginal nach assets/master/ (2k = ca. 1536x2048px, ~470 dpi im
+  # 5.5x8.5-Taschenbuchsatz). EPUB/DOCX/A5 behalten die 1024px-Fassung
+  # darunter in assets/chapter/. Beide Ordner bleiben per .gitignore draussen.
+  keep_master: true
+  image_processing:
+    format: JPEG
+    jpeg_quality: 60
+    max_width: 1024
+    max_height: 1024
+    cover:
+      jpeg_quality: 75
+      max_width: 1600
+      max_height: 2400
+    master:
+      format: JPEG
+      jpeg_quality: 92
+      max_width: 2048
+      max_height: 2048
+structure:
+  mode: chapter_as_scene
+  label: Kapitel als Szenen
+  groups: []
+display:
+  chapters:
+    format: literary
+    suffix: ''
+    align: center
+    include_source_title: false
+  scenes:
+    show: false
+naming_convention:
+  style: ''
+  example: []
+notes: >-
+  Deutsches Original (kein Uebersetzungsprojekt) von Timo Verita, wie Die
+  dritte Chronik. Verbindliche Romanvorlage: Entwicklungsfassung 1.0 vom
+  26.09.2026, historischer Abenteuer- und Familienroman, September 1715
+  (Spaetens) ueber ca. drei Wochen plus kurzer Nachklang 1725. Schauplaetze:
+  Thiesow und Middelhagen auf Moenchgut, Greifswalder Bodden, Fahrwasser an
+  der schwedischen Schiffssperre, Eldena. Perspektive: ausschliesslich Joren
+  und Maren Voss, personale dritte Person, Vergangenheit. Umfangsziel des
+  Gesamtwerks: ca. 100.000-115.000 Woerter. Stand 2026-09-27: Roman
+  vollstaendig, 32 Kapitel mit 104.080 Woertern, keine Luecke; Kapitel 032
+  "Der Vermerk von Eldena" ist der Epilog (Anno 1725). Quelle: die
+  Vollfassung source/Der Lotse von Ruegen Full I.md; die aeltere Datei
+  source/Der Lotse von Ruegen.md (10 Kapitel, Entwicklungsstand) bleibt als
+  Backup im Ordner, DOCX nur Backup.
+ai:
+  provider: openrouter
+  model: deepseek/deepseek-v4-pro
+  granularity: scene
+  max_tokens_per_scene: 10000

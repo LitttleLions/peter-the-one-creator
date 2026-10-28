@@ -1,0 +1,1 @@
+Bei vielen Tieren, insbesondere bei Kaninchen, sind die inneren und äußeren geraden Augenmuskeln entweder nicht vorhanden oder nur rudimentär ausgebildet, so dass es in solchen Fällen praktisch nur zwei gerade Muskeln gibt, ebenso wie es nur zwei schräge Muskeln gibt. Bei anderen, wie bei vielen Fischen, ist der innere gerade Augenmuskel vernachlässigbar.

@@ -1,0 +1,79 @@
+{
+  "chapter": "009",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "009",
+      "scene": 1,
+      "ru_path": "books\\der-lotse-von-ruegen\\work\\scenes\\de\\009\\scene-01.md",
+      "de_path": "books\\der-lotse-von-ruegen\\work\\scenes\\de\\stil-01-original\\009\\scene-01.md",
+      "ru_words": 3363,
+      "de_words": 3363,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (8x: dass 3x, nichts 2x, weil 2x) in 42 Woertern ohne Satzende.",
+          "chapter": "009",
+          "scene": 1,
+          "evidence": "Joren hätte etwas entgegnen können, hätte sagen können, dass Notwendigkeit ein Wort war, das man auf alles legen konnte, aber er sagte nichts, weil er wusste, dass es nichts änderte, und weil ein Teil von ihm nicht wollte, dass es etwas änderte",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (8x: weil 3x, dass 2x, wenn 2x) in 78 Woertern ohne Satzende.",
+          "chapter": "009",
+          "scene": 1,
+          "evidence": "Und während sie den Weg hinaufging, dachte sie nicht daran, dass Thies am Anlandeplatz gewesen war, um nach dem Boot zu sehen, sondern sie dachte daran, dass er gesagt hatte, er wolle mit ihr reden, wenn sie Zeit habe, und sie wusste nicht, worüber, und sie würde es erfahren, wenn sie Zeit hatte, und im Moment hatte sie keine Zeit, weil sie zur Arbeit ging, und weil der Küster wartete, und weil die Erfassung noch nicht fertig war",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (9x: weil 3x, wer 2x, wie 1x) in 94 Woertern ohne Satzende.",
+          "chapter": "009",
+          "scene": 1,
+          "evidence": "Es war September, und der Herbst kam, und mit ihm der Wind, und mit dem Wind die Kälte, und niemand wusste, wie lange der Krieg dauern würde, und niemand wusste, wer am Ende zurückkehren würde und wer nicht, und Joren Voss ruderte in die Bucht hinaus, in die Richtung der Sperre, und er wusste, dass er nichts erreichen würde, und er fuhr trotzdem, weil er nicht wusste, was er sonst tun sollte, und weil Fahren besser war als Warten, und weil er ein Lotse war und kein Mann, der am Ufer stand und zu",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Kapitel-TTR 0.21 bei 3355 Woertern.",
+          "chapter": "009",
+          "scene": 1,
+          "evidence": "TTR=0.21, Woerter=3355",
+          "recommendation": "Wortschatzarmut pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

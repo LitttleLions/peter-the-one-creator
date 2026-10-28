@@ -1,0 +1,81 @@
+id: der-lotse-von-ruegen
+title: Der Lotse von Rügen
+author: Timo Verita
+source_path: source/lotse-von-rugen-export.md
+source_lang: de
+target_lang: de
+ruleset_path: ''
+ruleset_apply: false
+style_mode: stil-01-original
+work_dir: work
+exports_dir: exports
+status_file: status/status.json
+log_dir: status/logs
+styles_dir: styles
+assets_dir: assets
+names_file: names.yaml
+illustration_setting: >-
+  High-quality chapter illustration for a literary historical novel set in
+  September 1715 on the Baltic coast of Rügen, southern Mönchgut. Style:
+  cinematic literary historical illustration, restrained painterly realism,
+  fine detail, atmospheric light, emotionally intelligent, premium modern book
+  illustration for an ambitious historical adventure and family novel. Setting:
+  the lagoon of the Greifswalder Bodden with a shipping barrier of sunken hulls,
+  ballast stones and shifting shallow channels; small wooden craft, open fishing
+  boats and a gaff-rigged cutter; a low floating work platform with tools and
+  timber; thatched and gabled village houses, a small late-medieval church on a
+  rise, chalk cliffs, reeds, harbour mud, nets, ropes, casks and salt. Figures in
+  plain north German coastal dress of the early eighteenth century: wool coats,
+  waistcoats, linen shirts, headscarves, tarred jackets, sturdy boots and bare
+  working hands. Light: low September sun, bright haze, metallic grey-green
+  water, hard shadows on clear days, sudden squalls and rain drifting over the
+  bodden. Colour palette: Baltic grey and green, chalk white, wet sand, tar
+  black, weathered ochre and dark red, muted blue, brass and pale gold light.
+  Mood: grave, taut, human and concrete, with work, family, obligation and quiet
+  danger rather than heroic spectacle; figures small against water and weather,
+  close attention to hands, faces and boats. Clear central figure or central
+  dramatic situation, strong readable composition.
+higgsfield:
+  model: gpt_image_2_5
+  aspect_ratio: "3:4"
+  quality: 1k
+  render_quality: medium
+  image_processing:
+    format: JPEG
+    jpeg_quality: 60
+    max_width: 1024
+    max_height: 1024
+    cover:
+      jpeg_quality: 75
+      max_width: 1600
+      max_height: 2400
+structure:
+  mode: chapter_as_scene
+  label: Kapitel als Szenen
+  groups: []
+display:
+  chapters:
+    format: words_de
+    suffix: ' Kapitel'
+    align: center
+    include_source_title: false
+  scenes:
+    show: false
+    format: number
+    align: center
+    page_break: false
+    separator: ''
+naming_convention:
+  style: ''
+  example: []
+notes: >-
+  Deutsches Original aus RomanForge (Stufe 1). Historischer Abenteuer- und
+  Familienroman mit maritimer Spannung, suedliches Moenchgut (Thiessow,
+  Middelhagen, Greifswalder Bodden) im September 1715, kurzer Epilog 1725.
+  33 Kapitel (32 Kapitel und Epilog), rund 104.500 Woerter. Quelle: Markdown
+  unter source/.
+ai:
+  provider: openrouter
+  model: deepseek/deepseek-v4-pro
+  granularity: scene
+  max_tokens_per_scene: 10000

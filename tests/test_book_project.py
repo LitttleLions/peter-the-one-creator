@@ -12,6 +12,31 @@ sys.path.insert(0, str(REPO_ROOT / "tools"))
 from lib.book_project import find_book, load_books, write_yaml  # noqa: E402
 
 
+class SuggestBookIdTests(unittest.TestCase):
+    def test_unbekannte_id_schlaegt_aehnliche_vor(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            book_root = root / "books" / "die-sprache-des-anderen"
+            write_yaml(
+                book_root / "book.yaml",
+                {
+                    "id": "die-sprache-des-anderen",
+                    "title": "Die Sprache des Anderen",
+                    "author": "Author",
+                    "source_path": "source/export.md",
+                    "source_lang": "de",
+                    "target_lang": "de",
+                    "style_mode": "stil-01-original",
+                },
+            )
+            with self.assertRaises(SystemExit) as ctx:
+                find_book(root, "sprache-des-anderen")
+
+        assert isinstance(ctx.exception.code, str)
+        self.assertIn("meintest du", ctx.exception.code)
+        self.assertIn("die-sprache-des-anderen", ctx.exception.code)
+
+
 class BookProjectTests(unittest.TestCase):
     def test_discovers_book_package_and_derives_paths(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:

@@ -1,0 +1,122 @@
+# Gesendeter Prompt 025
+
+- Zeitstempel: 20260817-210657
+- Provider: openrouter
+- Modell: deepseek/deepseek-v4-flash
+- Stil: stil-05-sachbuch
+- Kapitel: 025
+- Szene: 01
+- Temperatur: 0.4
+- max_tokens: 10000
+- System-Zeichen: 2695
+- User-Zeichen: 7282
+
+## System
+
+Du bist ein literarischer Uebersetzer. Du uebersetzt aus der Ausgangssprache ins Deutsche.
+
+---
+Buch: Perfect Sight Without Glasses (William Horatio Bates, M.D. (1860–1931))
+Sprache: en -> de
+
+### Verbindliches Style-Profil
+
+Das folgende Profil enthaelt verbindliche Stil- und Rekonstruktionsregeln fuer diesen Lauf (stil-05-sachbuch). Die globalen Ausgabe-Regeln und das im Arbeitsauftrag uebermittelte Glossar haben bei Konflikten Vorrang.
+
+Übersetze den englischen Ausgangstext als präzises, ruhiges historisches Sachbuch.
+
+Bewahre vollständig die Argumentation, Reihenfolge, Absätze, Beispiele, Fallberichte,
+Zitate, Zahlen, Tabellenhinweise, Verweise und historischen medizinischen Behauptungen.
+Fasse nichts zusammen und füge keine modernen medizinischen Erklärungen hinzu.
+
+Verwende ein klares, fachlich lesbares Deutsch. Keine literarische Ausschmückung,
+keine werbliche Sprache, keine Dramatisierung und keine erfundenen Zwischenüberschriften.
+Modernisiere Bates’ medizinische Auffassungen nicht stillschweigend und korrigiere sie
+nicht im Übersetzungstext. Die historische Perspektive muss erkennbar bleiben.
+
+Halte die Terminologie aus dem Buch-Glossar konsistent. Besonders wichtig sind
+„Anspannung“ für „strain“, „zentrale Fixation“ für „central fixation“,
+„Akkommodation“ für „accommodation“ und „Refraktion“ für „refraction“.
+Myopie, Hypermetropie/Hyperopie, Astigmatismus, Presbyopie, Amblyopie und Netzhaut
+werden als etablierte deutsche Fachbegriffe verwendet.
+
+Bei historischen Methodenbezeichnungen darf der englische Ausdruck bei der ersten
+Verwendung in Klammern erhalten bleiben, wenn dies die begriffliche Orientierung
+verbessert; danach bleibt die gewählte deutsche Form konsistent.
+
+Erhalte die Unterscheidung zwischen Bates’ eigener Stimme, zitierten Autoritäten,
+Patientenbriefen und Fallberichten. Verändere keine medizinischen Zahlen, Namen,
+Quellenangaben oder Versuchsbedingungen. OCR- oder Quellenfehler dürfen nicht erfunden
+oder kreativ geglättet werden; bei einem unklaren Ausgangstext bleibe möglichst nah am
+vorliegenden Text.
+
+Gib ausschließlich die Übersetzung aus. Keine Vorbemerkung, keine Analyse und keine
+Kommentare außerhalb des übersetzten Textes.
+
+### Harte Ausgabe-Regeln
+
+Diese Regeln haben Vorrang vor widersprechenden Angaben im Style-Profil.
+
+- Gib nur die Uebersetzung aus.
+- Keine Vorbemerkung, keine Zusammenfassung, keine Analyse.
+- Keine Saetze wie 'Hier ist die Uebersetzung'.
+- Keine Markdown-Ueberschriften, Vorabsaetze, Lede, Prologe oder sonstige Struktur-Ergaenzungen erfinden, ausser sie stehen bereits im Quelltext.
+- Inhalt, Reihenfolge und Fakten des Quelltexts bleiben erhalten; nichts ergaenzen, das nicht im Quelltext steht.
+
+## User
+
+Uebersetze den folgenden Text ins Deutsche.
+
+### Buch
+- Titel: Perfect Sight Without Glasses
+- Autor: William Horatio Bates, M.D. (1860–1931)
+- Stil: stil-05-sachbuch
+- Style-Profil: books\perfect.sight\styles\stil-05-sachbuch.md
+- Das Style-Profil steht im System-Prompt und ist verbindlich.
+
+### Verbindliche Namen und Begriffe
+
+Nutze diese Schreibweisen, wenn die genannten Personen oder Begriffe im Quelltext vorkommen. Nicht aufgefuehrte Personen-, Stammes-, Orts- und Titelnamen werden konservativ transliteriert oder im Zweifel in der erkennbaren Quellform beibehalten.
+- strain -> Anspannung
+- central fixation -> zentrale Fixation
+- accommodation -> Akkommodation
+- refraction -> Refraktion
+- myopia -> Myopie
+- hypermetropia -> Hypermetropie
+- hyperopia -> Hyperopie
+- astigmatism -> Astigmatismus
+- presbyopia -> Presbyopie
+- amblyopia -> Amblyopie
+- squint -> Schielen
+- palming -> Palming (Abdecken der Augen mit den Händen)
+- shifting -> Shifting (Verschieben des Blicks)
+- sunning -> Sunning (Sonnenübung)
+- retina -> Netzhaut
+- optic nerve -> Sehnerv
+
+### Zu uebersetzender Text
+
+## Chapter 24: Home Treatment
+
+CHAPTER XXIV - HOME TREATMENT
+
+IT is not always possible for patients to go to a competent physician for relief. As the method of treating eye defects presented in this book is new, it may be impossible to find a physician in the neighborhood who understands it; and the patient may not be able to afford the expense of a long journey, or to take the time for treatment away from home. To such persons I wish to say that it is possible for a large number of people to be cured of defective eyesight without the aid, either of a physician or of anyone else. T hey can cure themselves, and for this purpose it is not necessary that they should understand all that has been written in this book, or in any other book. All that is necessary is to follow a few simple directions.
+
+Place a Snellen test card on the wall at a distance of ten, fourteen, or twenty feet, and devote half a minute a day, or longer, to reading the smallest letters you can see, with each eye separately, covering the other with the palm of the hand in such a way as to avoid touching the eyeball. Keep a record of the progress made, with the dates. The simplest way to do this is by the method used by oculists, who record the vision in the form of a fraction, with the distance at which the letter is read as the numerator and the distance at which it ought to be read as the denominator. The figures above, or to one side of, the lines of letters on the test card indicate the distance at which these letters should be read by persons with normal eyesight. Thus a vision of 10/200 would mean that the big C, which ought to be read at 200 feet, cannot be seen at a greater distance than ten feet. A vision of 20/10 would mean that the ten line, which the normal eye is not ordinarily expected to read at a greater distance than ten feet, is seen at double that distance. This is a standard commonly attained by persons who have practiced my methods.
+
+Another and even better way to test the sight is to compare the blackness of the letter at the near-point and at the distance, in a dim light and in a good one. With perfect sight, black is not altered by illumination or distance. It appears just as black at the distance as at the near-point, and just as black in a dim light as in a good one. If it does not appear equally black to you under all these conditions, therefore, you may know that your sight is imperfect.
+
+Children under twelve years who have not worn glasses are usually cured of defective eyesight by the above method in three months, six months, or a year. Adults who have never worn glasses are benefited in a very short time H a week or two - and if the trouble is not very bad, may be cured in the course of from three to six months. Children or adults who have worn glasses, however, are more difficult to relieve, and will usually have to practice the methods of gaining relaxation described in other chapters; they will also have to devote considerable time to the treatment.
+
+It is absolutely necessary that the glasses be discarded. No half-way measures can be tolerated, if a cure is desired. Do not attempt to wear weaker glasses, and do not wear glasses for emergencies. Persons who are unable to do without glasses for all purposes are not likely to be able to cure themselves.
+
+Children and adults who have worn glasses will have to devote an hour or longer every day to practice with the test card and the balance of their time to practice on other objects. It will be well for such patients to have two test cards, one to be used at the near-point, where it can be seen best, and the other at ten or twenty feet. The patient will find it a great help to shift from the near card to the distant one, as the unconscious memory of the letters seen at the near-point helps to bring out those seen at the distance.
+
+If you cannot obtain a test card, you can make one for yourself by painting black letters of appropriate size on a white card, or on a piece of white paper. The approximate diameter of these letters, reading from the top of the card to the bottom is: 35 in., 1 3/4 in., 1 1/4 in., 7/8 in., 11/16 in., 1/2 in., 3/8 in., 1/4 in., 3/16 in.
+
+If the patient can secure the aid of some person with normal sight, it will be a great advantage. In fact, persons whose cases are obstinate will find it very difficult, if not impossible, to cure themselves without the aid of a teacher. The teacher, if he is to benefit the patient, must himself be able to derive benefit from the various methods recommended. If his vision is 10/10, he must be able to improve it to 20/10, or more. If he can read fine print at twelve inches, he must become able to read it at six, or at three inches. He must also have sufficient control over his visual memory to relieve and prevent pain. A person who has defective sight, either for the distance or the near-point, and who cannot remember black well enough to relieve and prevent pain, will be unable to be of any material assistance in obstinate cases; and no one will be able to be of any assistance in the application of any method which he himself has not used successfully.
+
+Parents who wish to preserve and improve the eyesight of their children should encourage them to read the Snellen test card every day. There should, in fact, be a Snellen test card in every family; for when properly used it always prevents myopia and other errors of refraction, always improves the vision, even when this is already normal, and always benefits functional nervous troubles. Parents should improve their own eyesight to normal, so that their children may not imitate wrong methods of using the eyes and will not be subject to the influence of an atmosphere of strain. They should also learn the principles of central fixation sufficiently well to relieve and prevent pain, in order that they may teach their children to do the same. This practice not only makes it possible to avoid suffering, but is a great benefit to the general health.
+
+### Ausgabe
+Gib ausschliesslich die fertige deutsche Uebersetzung aus. Keine Vorbemerkung, keine Analyse, keine Erklaerung, keine Formulierung wie 'Hier ist die Uebersetzung'.

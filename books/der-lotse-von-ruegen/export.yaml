@@ -1,0 +1,138 @@
+defaults:
+  language: de-DE
+  publisher: ''
+  rights: ''
+  description: ''
+  cover:
+    mode: placeholder
+    image_path: ''
+    background: '#16323c'
+    foreground: '#e8dcc8'
+  front_matter:
+    cover_in_body: true
+    title_page: true
+    summary_page: true
+    author_bio_page: true
+    description_page: false
+    imprint_page: true
+    toc_page: false
+    combined_epub_front_matter: false
+    combined_heading: Titelei
+    title_heading: Titelseite
+    summary_heading: Zusammenfassung
+    author_bio_heading: Leben des Autors
+    description_heading: Zu dieser Ausgabe
+    imprint_heading: Impressum
+    toc_heading: Inhalt
+  output:
+    page_break_before_chapter: true
+    chapter_headings: true
+    scene_numbers: false
+    strip_control_metadata: true
+    scene_separator: '* * *'
+  illustrations:
+    enabled: true
+    chapter_images: true
+    scene_images: true
+    chapter_page_break_after_image: true
+    scene_page_break_after_image: false
+book:
+  title: Der Lotse von Rügen
+  subtitle: Ein Rügen-Roman aus dem September 1715
+  author: Timo Verita
+  translator: Motivatier Classics
+  translator_label: Herausgabe und editorische Einrichtung
+  language: de-DE
+  publisher: Motivatier Stiftung
+  rights: >-
+    © 2026 Motivatier Stiftung für diesen Text, editorische Einrichtung,
+    Zusatztexte, Satz und Covergestaltung.
+  original_title: Der Lotse von Rügen
+  original_author: Timo Verita
+  title_page_extra:
+  - Motivatier Classics
+  - Historischer Roman
+  - Thiessow · Middelhagen · Greifswalder Bodden · September 1715
+  - >-
+    Diese Ausgabe folgt dem deutschen Originaltext. Satz und editorische
+    Einrichtung durch Motivatier Classics im Auftrag der Motivatier Stiftung.
+  imprint_text: |
+    Der Lotse von Rügen
+
+    Timo Verita
+
+    Historischer Roman
+
+    Thiessow · Middelhagen · Greifswalder Bodden · September 1715
+
+    Motivatier Classics
+
+    Herausgabe und editorische Einrichtung: Motivatier Classics
+
+    Herausgegeben von der Motivatier Stiftung
+
+    © 2026 Motivatier Stiftung für diesen Text, editorische
+    Einrichtung, Zusatztexte, Satz und Covergestaltung.
+
+    Alle Rechte an dieser Ausgabe vorbehalten.
+  description: >-
+    September 1715. Der Große Nordische Krieg hat Rügen erreicht. Vor der
+    Küste liegen versenkte Schiffe als Sperre im Fahrwasser, und jeden Tag
+    entscheiden Offiziere, welche Boote und welche Männer sie noch brauchen.
+
+    Joren Voss kennt dieses Wasser, seit er denken kann. Er ist Lotse, kein
+    Soldat, und glaubt, mit einer klaren Absprache sei alles zu regeln: Vier
+    Fischer sollen für wenige Tage arbeiten, dann zurück sein. Seine Tochter
+    Maren glaubt ihm – bis die Männer nicht kommen und niemand ihr sagt,
+    warum.
+
+    Während Joren verhandelt, verschafft Maren sich selbst Gehör. Beide
+    wollen dasselbe. Und beide werden für ihren Weg bezahlen.
+
+    Ein historischer Roman über eine Küste im Krieg, über vier Boote, die zu
+    wenige sind, und über die Frage, wem ein Leben gehört, wenn es auf einer
+    Liste nur noch als Arbeitskraft steht.
+  summary: >-
+    September 1715, südöstliches Rügen. Im Greifswalder Bodden halten die
+    Schweden eine Sperre aus versenkten Schiffen, Ballaststeinen und
+    wechselnden Wassertiefen. Wer durch das Neue Tief will, braucht einen
+    Mann wie Joren Voss.
+
+    Joren ist zweiundfünfzig, Lotse aus Thiessow, Ehemann und Vater. Als der
+    schwedische Leutnant Nils Rask örtliche Boote und Hände für Arbeiten an
+    der Sperre verlangt, empfiehlt Joren einen kurzen, begrenzten Einsatz –
+    und nennt den Fischer Dierk Arndt, weil der ein Fahrzeug führen kann.
+    Rask stellt wenige Tage in Aussicht. Vier Fischer gehen an Bord. Sie
+    kommen nicht zurück.
+
+    Maren, sechsundzwanzig, liest, kopiert und rechnet im Haushalt des
+    Küsters von Middelhagen. Sie kennt die Haushalte, Verwandtschaften,
+    Besitzanteile und Ansprüche, die hinter den Namen auf den Listen stehen.
+    Während ihr Vater zwischen schwedischen und dänischen Offizieren zu
+    vermitteln versucht, bringt sie Boote in Sicherheit, um weiteren
+    Zugriffen zuvorzukommen – und löst damit Folgen aus, die auch die bereits
+    festgehaltenen Männer treffen.
+
+    Vater und Tochter handeln auf getrennten Wegen für dasselbe Ziel. Erst
+    unmittelbar vor der Durchfahrt sagen sie einander, was sie versprochen
+    haben und was nicht. Was folgt, ist keine triumphale Befreiung: eine
+    Fahrt zwischen Wracks und Beschuss, der Verlust eines Bootes, die Frage
+    nach Schuld, verletzte Männer und ein wiedergefundenes Maß an Zutrauen.
+    Ein kurzer Epilog zehn Jahre später hält fest, was daraus geworden ist.
+  author_bio: >-
+    Timo Verita ist ein Autor aus zwei Hälften: Mensch und Maschine.
+    Die eine Hälfte recherchiert Nächte durch, die andere vergisst
+    nichts. Zusammen schreiben sie historische Romane für Motivatier
+    Classics, herausgegeben von der Motivatier Stiftung. Geboren wurde
+    Timo Verita in einem Buchstabenspiel; zu Hause ist er in der Welt
+    von gestern – diesmal auf Mönchgut, zwischen Thiessow, Middelhagen
+    und dem Greifswalder Bodden im September 1715.
+  cover:
+    mode: placeholder
+    image_path: ''
+
+website:
+  enabled: true
+  amazon_url: ''
+  sort_order: 90
+

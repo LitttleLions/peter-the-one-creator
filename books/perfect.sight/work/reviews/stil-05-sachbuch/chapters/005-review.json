@@ -1,0 +1,34 @@
+{
+  "chapter": "005",
+  "style": "stil-05-sachbuch",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "005",
+      "scene": 1,
+      "ru_path": "books\\perfect.sight\\work\\scenes\\en\\005\\scene-01.md",
+      "de_path": "books\\perfect.sight\\work\\scenes\\de\\stil-05-sachbuch\\005\\scene-01.md",
+      "ru_words": 2851,
+      "de_words": 2670,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Leitmotiv-Tripel 'normalen kochsalzlösung getränkt' 6x in einem Absatz.",
+          "chapter": "005",
+          "scene": 1,
+          "evidence": "'normalen kochsalzlösung getränkt' 6x",
+          "recommendation": "Formulierung streuen oder als Leitmotiv markieren.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

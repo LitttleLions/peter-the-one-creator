@@ -1,0 +1,1091 @@
+figures:
+- id: figure-001
+  source_file: EPUB/image_0001_00.jpeg
+  source_page: 1
+  path: assets/figures/figure-001.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1912
+    height: 2968
+  kind: review
+  original_path: assets/figures/figure-001.jpeg
+  active_path: assets/figures/figure-001.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-002
+  source_file: EPUB/image_0002_00.jpeg
+  source_page: 2
+  path: assets/figures/figure-002.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1064
+    height: 896
+  kind: review
+  original_path: assets/figures/figure-002.jpeg
+  active_path: assets/figures/figure-002.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-003
+  source_file: EPUB/image_0008_00.jpeg
+  source_page: 8
+  path: assets/figures/figure-003.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1472
+    height: 1714
+  kind: review
+  original_path: assets/figures/figure-003.jpeg
+  active_path: assets/figures/figure-003.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-004
+  source_file: EPUB/image_0029_00.jpeg
+  source_page: 29
+  path: assets/figures/figure-004.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: candidate
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1498
+    height: 1214
+  kind: review
+  original_path: assets/figures/figure-004.jpeg
+  active_path: assets/figures/figure-004.jpeg
+  candidate_paths:
+  - assets/figures/candidates/technical/figure-004-v01.jpg
+  approved_path: ''
+  technical_candidate: assets/figures/candidates/technical/figure-004-v01.jpg
+- id: figure-005
+  source_file: EPUB/image_0032_00.jpeg
+  source_page: 32
+  path: assets/figures/figure-005.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1512
+    height: 934
+  kind: review
+  original_path: assets/figures/figure-005.jpeg
+  active_path: assets/figures/figure-005.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-006
+  source_file: EPUB/image_0037_00.jpeg
+  source_page: 37
+  path: assets/figures/figure-006.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1450
+    height: 1210
+  kind: review
+  original_path: assets/figures/figure-006.jpeg
+  active_path: assets/figures/figure-006.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-007
+  source_file: EPUB/image_0039_00.jpeg
+  source_page: 39
+  path: assets/figures/figure-007.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1478
+    height: 1200
+  kind: review
+  original_path: assets/figures/figure-007.jpeg
+  active_path: assets/figures/figure-007.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-008
+  source_file: EPUB/image_0041_00.jpeg
+  source_page: 41
+  path: assets/figures/figure-008.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1486
+    height: 1212
+  kind: review
+  original_path: assets/figures/figure-008.jpeg
+  active_path: assets/figures/figure-008.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-009
+  source_file: EPUB/image_0042_00.jpeg
+  source_page: 42
+  path: assets/figures/figure-009.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1514
+    height: 1156
+  kind: review
+  original_path: assets/figures/figure-009.jpeg
+  active_path: assets/figures/figure-009.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-010
+  source_file: EPUB/image_0044_00.jpeg
+  source_page: 44
+  path: assets/figures/figure-010.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1316
+    height: 1102
+  kind: review
+  original_path: assets/figures/figure-010.jpeg
+  active_path: assets/figures/figure-010.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-011
+  source_file: EPUB/image_0050_00.jpeg
+  source_page: 50
+  path: assets/figures/figure-011.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1514
+    height: 680
+  kind: review
+  original_path: assets/figures/figure-011.jpeg
+  active_path: assets/figures/figure-011.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-012
+  source_file: EPUB/image_0053_00.jpeg
+  source_page: 53
+  path: assets/figures/figure-012.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1512
+    height: 658
+  kind: review
+  original_path: assets/figures/figure-012.jpeg
+  active_path: assets/figures/figure-012.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-013
+  source_file: EPUB/image_0054_00.jpeg
+  source_page: 54
+  path: assets/figures/figure-013.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1516
+    height: 2048
+  kind: review
+  original_path: assets/figures/figure-013.jpeg
+  active_path: assets/figures/figure-013.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-014
+  source_file: EPUB/image_0057_00.jpeg
+  source_page: 57
+  path: assets/figures/figure-014.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1378
+    height: 1978
+  kind: review
+  original_path: assets/figures/figure-014.jpeg
+  active_path: assets/figures/figure-014.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-015
+  source_file: EPUB/image_0066_00.jpeg
+  source_page: 66
+  path: assets/figures/figure-015.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1590
+    height: 766
+  kind: review
+  original_path: assets/figures/figure-015.jpeg
+  active_path: assets/figures/figure-015.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-016
+  source_file: EPUB/image_0066_01.jpeg
+  source_page: 66
+  path: assets/figures/figure-016.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 814
+    height: 758
+  kind: review
+  original_path: assets/figures/figure-016.jpeg
+  active_path: assets/figures/figure-016.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-017
+  source_file: EPUB/image_0067_00.jpeg
+  source_page: 67
+  path: assets/figures/figure-017.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1486
+    height: 1722
+  kind: review
+  original_path: assets/figures/figure-017.jpeg
+  active_path: assets/figures/figure-017.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-018
+  source_file: EPUB/image_0068_00.jpeg
+  source_page: 68
+  path: assets/figures/figure-018.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1608
+    height: 708
+  kind: review
+  original_path: assets/figures/figure-018.jpeg
+  active_path: assets/figures/figure-018.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-019
+  source_file: EPUB/image_0068_01.jpeg
+  source_page: 68
+  path: assets/figures/figure-019.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 808
+    height: 712
+  kind: review
+  original_path: assets/figures/figure-019.jpeg
+  active_path: assets/figures/figure-019.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-020
+  source_file: EPUB/image_0071_00.jpeg
+  source_page: 71
+  path: assets/figures/figure-020.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1488
+    height: 1546
+  kind: review
+  original_path: assets/figures/figure-020.jpeg
+  active_path: assets/figures/figure-020.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-021
+  source_file: EPUB/image_0072_00.jpeg
+  source_page: 72
+  path: assets/figures/figure-021.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1514
+    height: 1106
+  kind: review
+  original_path: assets/figures/figure-021.jpeg
+  active_path: assets/figures/figure-021.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-022
+  source_file: EPUB/image_0073_00.jpeg
+  source_page: 73
+  path: assets/figures/figure-022.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1492
+    height: 1032
+  kind: review
+  original_path: assets/figures/figure-022.jpeg
+  active_path: assets/figures/figure-022.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-023
+  source_file: EPUB/image_0074_00.jpeg
+  source_page: 74
+  path: assets/figures/figure-023.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1506
+    height: 1350
+  kind: review
+  original_path: assets/figures/figure-023.jpeg
+  active_path: assets/figures/figure-023.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-024
+  source_file: EPUB/image_0075_00.jpeg
+  source_page: 75
+  path: assets/figures/figure-024.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1490
+    height: 1302
+  kind: review
+  original_path: assets/figures/figure-024.jpeg
+  active_path: assets/figures/figure-024.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-025
+  source_file: EPUB/image_0076_00.jpeg
+  source_page: 76
+  path: assets/figures/figure-025.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1508
+    height: 560
+  kind: review
+  original_path: assets/figures/figure-025.jpeg
+  active_path: assets/figures/figure-025.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-026
+  source_file: EPUB/image_0077_00.jpeg
+  source_page: 77
+  path: assets/figures/figure-026.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1482
+    height: 544
+  kind: review
+  original_path: assets/figures/figure-026.jpeg
+  active_path: assets/figures/figure-026.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-027
+  source_file: EPUB/image_0078_00.jpeg
+  source_page: 78
+  path: assets/figures/figure-027.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1514
+    height: 1276
+  kind: review
+  original_path: assets/figures/figure-027.jpeg
+  active_path: assets/figures/figure-027.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-028
+  source_file: EPUB/image_0081_00.jpeg
+  source_page: 81
+  path: assets/figures/figure-028.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1488
+    height: 1388
+  kind: review
+  original_path: assets/figures/figure-028.jpeg
+  active_path: assets/figures/figure-028.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-029
+  source_file: EPUB/image_0082_00.jpeg
+  source_page: 82
+  path: assets/figures/figure-029.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1502
+    height: 1628
+  kind: review
+  original_path: assets/figures/figure-029.jpeg
+  active_path: assets/figures/figure-029.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-030
+  source_file: EPUB/image_0083_00.jpeg
+  source_page: 83
+  path: assets/figures/figure-030.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1502
+    height: 582
+  kind: review
+  original_path: assets/figures/figure-030.jpeg
+  active_path: assets/figures/figure-030.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-031
+  source_file: EPUB/image_0084_00.jpeg
+  source_page: 84
+  path: assets/figures/figure-031.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1536
+    height: 582
+  kind: review
+  original_path: assets/figures/figure-031.jpeg
+  active_path: assets/figures/figure-031.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-032
+  source_file: EPUB/image_0086_00.jpeg
+  source_page: 86
+  path: assets/figures/figure-032.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1272
+    height: 876
+  kind: review
+  original_path: assets/figures/figure-032.jpeg
+  active_path: assets/figures/figure-032.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-033
+  source_file: EPUB/image_0088_00.jpeg
+  source_page: 88
+  path: assets/figures/figure-033.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1276
+    height: 482
+  kind: review
+  original_path: assets/figures/figure-033.jpeg
+  active_path: assets/figures/figure-033.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-034
+  source_file: EPUB/image_0089_00.jpeg
+  source_page: 89
+  path: assets/figures/figure-034.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1498
+    height: 1204
+  kind: review
+  original_path: assets/figures/figure-034.jpeg
+  active_path: assets/figures/figure-034.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-035
+  source_file: EPUB/image_0090_00.jpeg
+  source_page: 90
+  path: assets/figures/figure-035.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1250
+    height: 840
+  kind: review
+  original_path: assets/figures/figure-035.jpeg
+  active_path: assets/figures/figure-035.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-036
+  source_file: EPUB/image_0093_00.jpeg
+  source_page: 93
+  path: assets/figures/figure-036.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1516
+    height: 1304
+  kind: review
+  original_path: assets/figures/figure-036.jpeg
+  active_path: assets/figures/figure-036.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-037
+  source_file: EPUB/image_0116_00.jpeg
+  source_page: 116
+  path: assets/figures/figure-037.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 900
+    height: 860
+  kind: review
+  original_path: assets/figures/figure-037.jpeg
+  active_path: assets/figures/figure-037.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-038
+  source_file: EPUB/image_0116_01.jpeg
+  source_page: 116
+  path: assets/figures/figure-038.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 894
+    height: 924
+  kind: review
+  original_path: assets/figures/figure-038.jpeg
+  active_path: assets/figures/figure-038.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-039
+  source_file: EPUB/image_0117_00.jpeg
+  source_page: 117
+  path: assets/figures/figure-039.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 580
+    height: 954
+  kind: review
+  original_path: assets/figures/figure-039.jpeg
+  active_path: assets/figures/figure-039.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-040
+  source_file: EPUB/image_0117_01.jpeg
+  source_page: 117
+  path: assets/figures/figure-040.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 678
+    height: 962
+  kind: review
+  original_path: assets/figures/figure-040.jpeg
+  active_path: assets/figures/figure-040.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-041
+  source_file: EPUB/image_0117_02.jpeg
+  source_page: 117
+  path: assets/figures/figure-041.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 650
+    height: 960
+  kind: review
+  original_path: assets/figures/figure-041.jpeg
+  active_path: assets/figures/figure-041.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-042
+  source_file: EPUB/image_0118_00.jpeg
+  source_page: 118
+  path: assets/figures/figure-042.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 776
+    height: 1028
+  kind: review
+  original_path: assets/figures/figure-042.jpeg
+  active_path: assets/figures/figure-042.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-043
+  source_file: EPUB/image_0118_01.jpeg
+  source_page: 118
+  path: assets/figures/figure-043.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 738
+    height: 1026
+  kind: review
+  original_path: assets/figures/figure-043.jpeg
+  active_path: assets/figures/figure-043.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-044
+  source_file: EPUB/image_0119_00.jpeg
+  source_page: 119
+  path: assets/figures/figure-044.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 734
+    height: 1016
+  kind: review
+  original_path: assets/figures/figure-044.jpeg
+  active_path: assets/figures/figure-044.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-045
+  source_file: EPUB/image_0120_00.jpeg
+  source_page: 120
+  path: assets/figures/figure-045.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 584
+    height: 1002
+  kind: review
+  original_path: assets/figures/figure-045.jpeg
+  active_path: assets/figures/figure-045.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-046
+  source_file: EPUB/image_0120_01.jpeg
+  source_page: 120
+  path: assets/figures/figure-046.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 572
+    height: 1008
+  kind: review
+  original_path: assets/figures/figure-046.jpeg
+  active_path: assets/figures/figure-046.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-047
+  source_file: EPUB/image_0122_00.jpeg
+  source_page: 122
+  path: assets/figures/figure-047.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1480
+    height: 898
+  kind: review
+  original_path: assets/figures/figure-047.jpeg
+  active_path: assets/figures/figure-047.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-048
+  source_file: EPUB/image_0122_01.jpeg
+  source_page: 122
+  path: assets/figures/figure-048.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1476
+    height: 906
+  kind: review
+  original_path: assets/figures/figure-048.jpeg
+  active_path: assets/figures/figure-048.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-049
+  source_file: EPUB/image_0125_00.jpeg
+  source_page: 125
+  path: assets/figures/figure-049.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1498
+    height: 1012
+  kind: review
+  original_path: assets/figures/figure-049.jpeg
+  active_path: assets/figures/figure-049.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-050
+  source_file: EPUB/image_0126_00.jpeg
+  source_page: 126
+  path: assets/figures/figure-050.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1514
+    height: 1454
+  kind: review
+  original_path: assets/figures/figure-050.jpeg
+  active_path: assets/figures/figure-050.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-051
+  source_file: EPUB/image_0151_00.jpeg
+  source_page: 151
+  path: assets/figures/figure-051.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1026
+    height: 1246
+  kind: review
+  original_path: assets/figures/figure-051.jpeg
+  active_path: assets/figures/figure-051.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-052
+  source_file: EPUB/image_0153_00.jpeg
+  source_page: 153
+  path: assets/figures/figure-052.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1500
+    height: 1018
+  kind: review
+  original_path: assets/figures/figure-052.jpeg
+  active_path: assets/figures/figure-052.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-053
+  source_file: EPUB/image_0157_00.jpeg
+  source_page: 157
+  path: assets/figures/figure-053.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1508
+    height: 1212
+  kind: review
+  original_path: assets/figures/figure-053.jpeg
+  active_path: assets/figures/figure-053.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-054
+  source_file: EPUB/image_0159_00.jpeg
+  source_page: 159
+  path: assets/figures/figure-054.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1482
+    height: 882
+  kind: review
+  original_path: assets/figures/figure-054.jpeg
+  active_path: assets/figures/figure-054.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-055
+  source_file: EPUB/image_0213_00.jpeg
+  source_page: 213
+  path: assets/figures/figure-055.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1510
+    height: 896
+  kind: review
+  original_path: assets/figures/figure-055.jpeg
+  active_path: assets/figures/figure-055.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-056
+  source_file: EPUB/image_0215_00.jpeg
+  source_page: 215
+  path: assets/figures/figure-056.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1484
+    height: 1170
+  kind: review
+  original_path: assets/figures/figure-056.jpeg
+  active_path: assets/figures/figure-056.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-057
+  source_file: EPUB/image_0230_00.jpeg
+  source_page: 230
+  path: assets/figures/figure-057.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1524
+    height: 800
+  kind: review
+  original_path: assets/figures/figure-057.jpeg
+  active_path: assets/figures/figure-057.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-058
+  source_file: EPUB/image_0233_00.jpeg
+  source_page: 233
+  path: assets/figures/figure-058.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1296
+    height: 2392
+  kind: review
+  original_path: assets/figures/figure-058.jpeg
+  active_path: assets/figures/figure-058.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-059
+  source_file: EPUB/image_0249_00.jpeg
+  source_page: 249
+  path: assets/figures/figure-059.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1208
+    height: 958
+  kind: review
+  original_path: assets/figures/figure-059.jpeg
+  active_path: assets/figures/figure-059.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-060
+  source_file: EPUB/image_0256_00.jpeg
+  source_page: 256
+  path: assets/figures/figure-060.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1506
+    height: 1736
+  kind: review
+  original_path: assets/figures/figure-060.jpeg
+  active_path: assets/figures/figure-060.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-061
+  source_file: EPUB/image_0258_00.jpeg
+  source_page: 258
+  path: assets/figures/figure-061.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1520
+    height: 1212
+  kind: review
+  original_path: assets/figures/figure-061.jpeg
+  active_path: assets/figures/figure-061.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-062
+  source_file: EPUB/image_0280_00.jpeg
+  source_page: 280
+  path: assets/figures/figure-062.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1166
+    height: 1070
+  kind: review
+  original_path: assets/figures/figure-062.jpeg
+  active_path: assets/figures/figure-062.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-063
+  source_file: EPUB/image_0344_00.jpeg
+  source_page: 344
+  path: assets/figures/figure-063.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1656
+    height: 2412
+  kind: review
+  original_path: assets/figures/figure-063.jpeg
+  active_path: assets/figures/figure-063.jpeg
+  candidate_paths: []
+  approved_path: ''
+- id: figure-064
+  source_file: EPUB/image_0346_00.jpeg
+  source_page: 346
+  path: assets/figures/figure-064.jpeg
+  chapter_id: ''
+  figure_label: ''
+  placement: review
+  status: review
+  note: Original scan asset; page/caption/chapter placement requires editorial matching.
+  dimensions:
+    width: 1863
+    height: 2978
+  kind: review
+  original_path: assets/figures/figure-064.jpeg
+  active_path: assets/figures/figure-064.jpeg
+  candidate_paths: []
+  approved_path: ''

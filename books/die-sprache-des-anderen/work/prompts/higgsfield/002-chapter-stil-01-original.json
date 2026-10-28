@@ -1,0 +1,59 @@
+{
+  "book": "die-sprache-des-anderen",
+  "chapter": "002",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\die-sprache-des-anderen\\work\\scenes\\de\\stil-01-original\\002\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\002-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\die-sprache-des-anderen\\assets\\chapter\\chapter-002.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Chapter 002. High-quality chapter illustration for a literary historical novel set in the mid-9th century, in and around Strasbourg on the Rhine, in the winter of a war between two kings. Style: cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light, emotionally intelligent, premium modern book illustration for an ambitious historical family novel. Setting: a river town in the Carolingian empire, muddy streets of snow and manure, the Roman brick walls and a timber gatehouse, the river Ill with flat-bottomed oak cargo barges moored at wooden jetties, salt stores, tanneries, warehouses, the vast tented campaign camp of an army on the meadows outside the walls, campfires and smoke in the fog, frozen mud, horses, wagons, oxen, snow and sleet. Figures in early medieval Frankish dress: wool cloaks and tunics, leather belts and shoes, coarse linen shirts, headscarves and felt caps, mail skirts and conical helmets on warriors, wax tablets and parchment scrolls with quills on clerks, heavy boots and bare working hands. Light: low winter sun through sleet and haze, cold grey-blue daylight, warm firelight at the camp fires, hard shadows on clear days. Colour palette: wet slate grey, cold blue, mud brown, oak dark, iron black, snow white, tarred rope, dull ochre and dark red, brass and pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle; figures small against weather and war, close attention to hands, faces, boats and parchment. Clear central figure or central dramatic situation, strong readable composition. Characters present: Alda: 40-jährige Frau, kräftig und wetterhart, dunkles Haar unter grober Wollkappe, gefettete Rindslederstiefel, fleckiger Wollmantel mit Schafsfellfutter, aufmerksamer und zäher Blick, kräftige Hände; Berto: 60-jähriger Knecht, gebückt und hinkend, strubbeliges Grauhaar, zerschlissene Kappe, grobe Holzschuhe mit Stroh, wettergegerbtes Gesicht; Raginbert: 50-jähriger geistlicher Grundherr, glatt rasiert, volle von Kaelte geroetete Wangen, wässrig graue Augen, schwerer blauer Mantel mit Fuchspelzfutter, Silberbeschlaege an der Zaumzeug, kalter Blick. Der Morast fraß an Aldas Bundschuhen. Mit jedem Schritt saugte der lehmige Grund des Rheintals an den Sohlen, gab schmatzende Laute von sich und drohte, das Leder von ihren Füßen zu reißen. Um sie her wälzte sich das Heer wie ein vielköpfiges Ungeheuer durch den Nebel. Es roch nach verbranntem Talg, nach feuchter Wolle, dem sauren Schweiß ungezählter Leiber und dem stechenden Dunst von Pferdepisse. Trossknechte schleppten halbe Rinderhälften an Stangen vorbei; das geronnene Blut tropfte dunkel in den grauen Altschnee. An einer Weggabelung fluchten Fuhrmänner aus dem Elsass auf zwei Kriegsknechte ein, deren bepacktes Maultier quer auf dem Knüppeldamm verendet war. Das Tier lag auf der Seite, die Augen gebrochen, weißer Schaum vor den Nüstern gefroren. Niemand hielt an. Man stieg darüber hinweg. Alda schlang die Arme um den Leib und zog die grobe Wollkappe tiefer in die Stirn. Das Schindertor lag hinter ihr, eine dunkle Scharte in den römischen Ziegelmauern der Stadt. Ihr Blick wanderte suchend über das Gewirr von Hütten aus Weidengeflecht, die man eilig mit Strohmatten gedeckt hatte, hinüber zu den höheren Zelten aus geöltem Tuch. Dort, wo die Standarten der Großen im feuchten Ostwind schlugen, musste das Zelt der Notare stehen. Jeder Graf führte Schreiber mit sich, magere Männer mit geschorenen Schädeln und klammen Fingern, die Zehntenlisten und Heeresbannrollen führten. Sie brauchte ein solches Paar Augen. Augen, die das Latein verstanden, mit dem Folker ihr das Haus über dem Kopf zerschlagen wollte.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261028_185008_1dda751f-7d39-4e6f-a0f0-eaf6852a17e4.png",
+  "job_result": [
+    {
+      "created_at": "2026-10-28T18:50:08.646539Z",
+      "display_name": "GPT Image 2.5",
+      "id": "1dda751f-7d39-4e6f-a0f0-eaf6852a17e4",
+      "job_type": "gpt_image_2_5",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261028_185008_1dda751f-7d39-4e6f-a0f0-eaf6852a17e4_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "flare",
+        "prompt": "Chapter 002. High-quality chapter illustration for a literary historical novel set in the mid-9th century, in and around Strasbourg on the Rhine, in the winter of a war between two kings. Style: cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light, emotionally intelligent, premium modern book illustration for an ambitious historical family novel. Setting: a river town in the Carolingian empire, muddy streets of snow and manure, the Roman brick walls and a timber gatehouse, the river Ill with flat-bottomed oak cargo barges moored at wooden jetties, salt stores, tanneries, warehouses, the vast tented campaign camp of an army on the meadows outside the walls, campfires and smoke in the fog, frozen mud, horses, wagons, oxen, snow and sleet. Figures in early medieval Frankish dress: wool cloaks and tunics, leather belts and shoes, coarse linen shirts, headscarves and felt caps, mail skirts and conical helmets on warriors, wax tablets and parchment scrolls with quills on clerks, heavy boots and bare working hands. Light: low winter sun through sleet and haze, cold grey-blue daylight, warm firelight at the camp fires, hard shadows on clear days. Colour palette: wet slate grey, cold blue, mud brown, oak dark, iron black, snow white, tarred rope, dull ochre and dark red, brass and pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle; figures small against weather and war, close attention to hands, faces, boats and parchment. Clear central figure or central dramatic situation, strong readable composition. Characters present: Alda: 40-jährige Frau, kräftig und wetterhart, dunkles Haar unter grober Wollkappe, gefettete Rindslederstiefel, fleckiger Wollmantel mit Schafsfellfutter, aufmerksamer und zäher Blick, kräftige Hände; Berto: 60-jähriger Knecht, gebückt und hinkend, strubbeliges Grauhaar, zerschlissene Kappe, grobe Holzschuhe mit Stroh, wettergegerbtes Gesicht; Raginbert: 50-jähriger geistlicher Grundherr, glatt rasiert, volle von Kaelte geroetete Wangen, wässrig graue Augen, schwerer blauer Mantel mit Fuchspelzfutter, Silberbeschlaege an der Zaumzeug, kalter Blick. Der Morast fraß an Aldas Bundschuhen. Mit jedem Schritt saugte der lehmige Grund des Rheintals an den Sohlen, gab schmatzende Laute von sich und drohte, das Leder von ihren Füßen zu reißen. Um sie her wälzte sich das Heer wie ein vielköpfiges Ungeheuer durch den Nebel. Es roch nach verbranntem Talg, nach feuchter Wolle, dem sauren Schweiß ungezählter Leiber und dem stechenden Dunst von Pferdepisse. Trossknechte schleppten halbe Rinderhälften an Stangen vorbei; das geronnene Blut tropfte dunkel in den grauen Altschnee. An einer Weggabelung fluchten Fuhrmänner aus dem Elsass auf zwei Kriegsknechte ein, deren bepacktes Maultier quer auf dem Knüppeldamm verendet war. Das Tier lag auf der Seite, die Augen gebrochen, weißer Schaum vor den Nüstern gefroren. Niemand hielt an. Man stieg darüber hinweg. Alda schlang die Arme um den Leib und zog die grobe Wollkappe tiefer in die Stirn. Das Schindertor lag hinter ihr, eine dunkle Scharte in den römischen Ziegelmauern der Stadt. Ihr Blick wanderte suchend über das Gewirr von Hütten aus Weidengeflecht, die man eilig mit Strohmatten gedeckt hatte, hinüber zu den höheren Zelten aus geöltem Tuch. Dort, wo die Standarten der Großen im feuchten Ostwind schlugen, musste das Zelt der Notare stehen. Jeder Graf führte Schreiber mit sich, magere Männer mit geschorenen Schädeln und klammen Fingern, die Zehntenlisten und Heeresbannrollen führten. Sie brauchte ein solches Paar Augen. Augen, die das Latein verstanden, mit dem Folker ihr das Haus über dem Kopf zerschlagen wollte.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261028_185008_1dda751f-7d39-4e6f-a0f0-eaf6852a17e4.png",
+      "status": "completed"
+    }
+  ]
+}

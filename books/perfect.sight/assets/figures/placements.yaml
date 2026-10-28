@@ -1,0 +1,60 @@
+version: 1
+book: perfect.sight
+status: draft
+placements:
+- chapter_id: '002'
+  source_figure: figure-004
+  source_page: 29
+  source_path: assets/figures/figure-004.jpeg
+  export_path: assets/chapter/chapter-002.jpeg
+  mode: copied_original
+  status: active_for_review
+  note: Patagonian pair; documentary photograph referenced in Chapter 1
+- chapter_id: '003'
+  source_figure: figure-010
+  source_page: 44
+  source_path: assets/figures/figure-010.jpeg
+  export_path: assets/chapter/chapter-003.jpeg
+  mode: copied_original
+  status: active_for_review
+  note: Retinoscope examination scene; figure caption in Chapter 2
+- chapter_id: '004'
+  source_figure: figure-013
+  source_page: 54
+  source_path: assets/figures/figure-013.jpeg
+  export_path: assets/chapter/chapter-004.jpeg
+  mode: copied_original
+  status: active_for_review
+  note: Portrait of Thomas Young; figure caption in Chapter 3
+- chapter_id: '007'
+  source_figure: figure-023
+  source_page: 74
+  source_path: assets/figures/figure-023.jpeg
+  export_path: assets/chapter/chapter-007.jpeg
+  mode: copied_original
+  status: active_for_review
+  note: Clinical animal experiment photograph; Chapter 6 context
+- chapter_id: '028'
+  source_figure: figure-049
+  source_page: 125
+  source_path: assets/figures/figure-049.jpeg
+  export_path: assets/chapter/chapter-028.jpeg
+  mode: copied_original
+  status: active_for_review
+  note: Schoolchildren portrait plate; school myopia discussion
+- chapter_id: '031'
+  source_figure: figure-052
+  source_page: 153
+  source_path: assets/figures/figure-052.jpeg
+  export_path: assets/chapter/chapter-031.jpeg
+  mode: copied_original
+  status: active_for_review
+  note: Visual-acuity test scene; soldiers and sailors discussion
+- chapter_id: '032'
+  source_figure: figure-060
+  source_page: 256
+  source_path: assets/figures/figure-060.jpeg
+  export_path: assets/chapter/chapter-032.jpeg
+  mode: copied_original
+  status: active_for_review
+  note: Historical patient portrait plate; letters/case material

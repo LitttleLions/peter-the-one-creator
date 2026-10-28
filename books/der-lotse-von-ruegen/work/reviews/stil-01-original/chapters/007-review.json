@@ -1,0 +1,79 @@
+{
+  "chapter": "007",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "007",
+      "scene": 1,
+      "ru_path": "books\\der-lotse-von-ruegen\\work\\scenes\\de\\007\\scene-01.md",
+      "de_path": "books\\der-lotse-von-ruegen\\work\\scenes\\de\\stil-01-original\\007\\scene-01.md",
+      "ru_words": 4080,
+      "de_words": 4080,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (8x: dass 3x, als 2x, sondern 1x) in 41 Woertern ohne Satzende.",
+          "chapter": "007",
+          "scene": 1,
+          "evidence": "ein Mann, der ihm ruhig und sachlich erklärte, dass der Auftrag kein Ende hatte, und der das nicht als Bösartigkeit sagte, sondern als Sachverhalt, so wie man sagt, dass das Wasser tief ist oder dass die See im Oktober rau wird",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (8x: weil 4x, wenn 2x, bis 1x) in 68 Woertern ohne Satzende.",
+          "chapter": "007",
+          "scene": 1,
+          "evidence": "Die Männer blieben, bis die Sperre stand, und die Sperre stand, wenn sie stand, und Rask würde sie nicht gehen lassen, nicht weil er hart war, sondern weil er nicht konnte, weil er innerhalb eines Systems arbeitete, das ihn selbst in Anspruch nahm, und weil er, wenn er einen Mann freigäbe, den Nächsten freigeben müsste und den Nächsten danach, und dann wäre die Arbeit nicht mehr zu tun",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (11x: dass 6x, weil 3x, oder 2x) in 52 Woertern ohne Satzende.",
+          "chapter": "007",
+          "scene": 1,
+          "evidence": "Er stand auf der Plattform, und er sah dem Kahn nach, und er begriff, dass Ewald ihn gesehen hatte, und dass Ewald weiterruderte, weil er nicht wollte, dass Joren ihn sah, oder weil er nicht wollte, dass Joren wusste, dass er wusste, oder weil er nicht wollte, dass seine Aufmerksamkeit bemerkt wurde",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Kapitel-TTR 0.22 bei 4072 Woertern.",
+          "chapter": "007",
+          "scene": 1,
+          "evidence": "TTR=0.22, Woerter=4072",
+          "recommendation": "Wortschatzarmut pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

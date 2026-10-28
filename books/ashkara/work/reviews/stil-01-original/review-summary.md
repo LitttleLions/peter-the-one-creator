@@ -2,7 +2,7 @@
 
 - Buch-ID: ashkara
 - Stil: stil-01-original
-- Erstellt: 2026-10-08T17:59:57
+- Erstellt: 2026-10-21T12:28:53
 - LLM: none
 - Kapitel: 36
 - Kapitel mit Befunden: 17

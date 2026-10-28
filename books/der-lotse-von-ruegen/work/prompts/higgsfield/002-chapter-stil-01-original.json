@@ -1,0 +1,59 @@
+{
+  "book": "der-lotse-von-ruegen",
+  "chapter": "002",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\der-lotse-von-ruegen\\work\\scenes\\de\\stil-01-original\\002\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\der-lotse-von-ruegen\\work\\prompts\\higgsfield\\002-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\der-lotse-von-ruegen\\assets\\chapter\\chapter-002.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Chapter 002. High-quality chapter illustration for a literary historical novel set in September 1715 on the Baltic coast of Rügen, southern Mönchgut. Style: cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light, emotionally intelligent, premium modern book illustration for an ambitious historical adventure and family novel. Setting: the lagoon of the Greifswalder Bodden with a shipping barrier of sunken hulls, ballast stones and shifting shallow channels; small wooden craft, open fishing boats and a gaff-rigged cutter; a low floating work platform with tools and timber; thatched and gabled village houses, a small late-medieval church on a rise, chalk cliffs, reeds, harbour mud, nets, ropes, casks and salt. Figures in plain north German coastal dress of the early eighteenth century: wool coats, waistcoats, linen shirts, headscarves, tarred jackets, sturdy boots and bare working hands. Light: low September sun, bright haze, metallic grey-green water, hard shadows on clear days, sudden squalls and rain drifting over the bodden. Colour palette: Baltic grey and green, chalk white, wet sand, tar black, weathered ochre and dark red, muted blue, brass and pale gold light. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle; figures small against water and weather, close attention to hands, faces and boats. Clear central figure or central dramatic situation, strong readable composition. Characters present: Joren Voss: 52-jähriger Lotse, sehnig und drahtig, wettergegerbtes Gesicht mit hellerer Augenpartie, kurzes graues Haar, wollene Jacke, derbe Hände; Maren Voss: 26-jährige Frau, kräftig und beweglich, dunkles Haar unter Kopftuch, schlichtes Wollkleid, aufmerksamer Blick, Tintenfinger; Nils Rask: 43-jähriger schwedischer Leutnant, Uniformrock in Blau mit gelben Aufschlägen, Dreispitz, strenger prüfender Blick. Maren hielt die Feder senkrecht über dem Pergament und wartete auf das Wort, das Benthin nicht fand. Draußen klopfte die Kastanie am Küsterhaus gegen die Fensterläden, ein rhythmisches Geräusch, das seit einer Stunde stärker geworden war. Der Wind drehte sich, und mit ihm die Stimmung des Nachmittags. Maren schrieb das Wort »Zugang« und hielt inne. Gemeinsam genutzt war nicht dasselbe wie gemeinsam beschlossen, und beides war wieder etwas anderes als gemeinsam bezahlt. Sie kannte den Streit, ohne dass Benthin ihn ihr erklären musste. Seit drei Generationen stritten die Haushalte Kossow und Witt über den schmalen Pfad zum Ufer der Hagenschen Wiek, wo sich bei niedrigem Wasser eine Sandbank zeigte, die zum Anlanden kleinerer Fahrzeuge taugte. Der Küster hatte die alten Vermerke in seiner Obhut, Abschriften von Abschriften, die auf Klosterzeiten zurückgingen, als der Zugang noch eindeutig hieß: Zum Nutzen des Gutes Reddevitz, verliehen von Eldena. Was nach der Aufhebung 1535 aus diesem Recht geworden war, darüber schwiegen die Pergamente beharrlich.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261021_213701_d0d08a50-c543-4f65-b93c-ddb813d3d1ff.png",
+  "job_result": [
+    {
+      "created_at": "2026-10-21T21:37:01.177948Z",
+      "display_name": "GPT Image 2.5",
+      "id": "d0d08a50-c543-4f65-b93c-ddb813d3d1ff",
+      "job_type": "gpt_image_2_5",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261021_213701_d0d08a50-c543-4f65-b93c-ddb813d3d1ff_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "flare",
+        "prompt": "Chapter 002. High-quality chapter illustration for a literary historical novel set in September 1715 on the Baltic coast of Rügen, southern Mönchgut. Style: cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light, emotionally intelligent, premium modern book illustration for an ambitious historical adventure and family novel. Setting: the lagoon of the Greifswalder Bodden with a shipping barrier of sunken hulls, ballast stones and shifting shallow channels; small wooden craft, open fishing boats and a gaff-rigged cutter; a low floating work platform with tools and timber; thatched and gabled village houses, a small late-medieval church on a rise, chalk cliffs, reeds, harbour mud, nets, ropes, casks and salt. Figures in plain north German coastal dress of the early eighteenth century: wool coats, waistcoats, linen shirts, headscarves, tarred jackets, sturdy boots and bare working hands. Light: low September sun, bright haze, metallic grey-green water, hard shadows on clear days, sudden squalls and rain drifting over the bodden. Colour palette: Baltic grey and green, chalk white, wet sand, tar black, weathered ochre and dark red, muted blue, brass and pale gold light. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle; figures small against water and weather, close attention to hands, faces and boats. Clear central figure or central dramatic situation, strong readable composition. Characters present: Joren Voss: 52-jähriger Lotse, sehnig und drahtig, wettergegerbtes Gesicht mit hellerer Augenpartie, kurzes graues Haar, wollene Jacke, derbe Hände; Maren Voss: 26-jährige Frau, kräftig und beweglich, dunkles Haar unter Kopftuch, schlichtes Wollkleid, aufmerksamer Blick, Tintenfinger; Nils Rask: 43-jähriger schwedischer Leutnant, Uniformrock in Blau mit gelben Aufschlägen, Dreispitz, strenger prüfender Blick. Maren hielt die Feder senkrecht über dem Pergament und wartete auf das Wort, das Benthin nicht fand. Draußen klopfte die Kastanie am Küsterhaus gegen die Fensterläden, ein rhythmisches Geräusch, das seit einer Stunde stärker geworden war. Der Wind drehte sich, und mit ihm die Stimmung des Nachmittags. Maren schrieb das Wort »Zugang« und hielt inne. Gemeinsam genutzt war nicht dasselbe wie gemeinsam beschlossen, und beides war wieder etwas anderes als gemeinsam bezahlt. Sie kannte den Streit, ohne dass Benthin ihn ihr erklären musste. Seit drei Generationen stritten die Haushalte Kossow und Witt über den schmalen Pfad zum Ufer der Hagenschen Wiek, wo sich bei niedrigem Wasser eine Sandbank zeigte, die zum Anlanden kleinerer Fahrzeuge taugte. Der Küster hatte die alten Vermerke in seiner Obhut, Abschriften von Abschriften, die auf Klosterzeiten zurückgingen, als der Zugang noch eindeutig hieß: Zum Nutzen des Gutes Reddevitz, verliehen von Eldena. Was nach der Aufhebung 1535 aus diesem Recht geworden war, darüber schwiegen die Pergamente beharrlich.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261021_213701_d0d08a50-c543-4f65-b93c-ddb813d3d1ff.png",
+      "status": "completed"
+    }
+  ]
+}

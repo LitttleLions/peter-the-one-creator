@@ -24,6 +24,14 @@ models:
     render_quality_param: quality
     render_quality_options: ["low", "medium", "high"]
     default_render_quality: high
+  - id: gpt_image_2_5
+    label: GPT Image 2.5
+    size_param: resolution
+    size_options: ["1k", "2k", "4k"]
+    default_size: "1k"
+    render_quality_param: quality
+    render_quality_options: ["low", "medium", "high", "xhigh", "max"]
+    default_render_quality: high
   - id: seedream_v5_pro
     label: Seedream 5.0 Pro
     size_param: resolution

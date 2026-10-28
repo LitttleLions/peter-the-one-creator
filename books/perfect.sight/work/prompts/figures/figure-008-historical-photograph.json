@@ -1,0 +1,29 @@
+{
+  "figure": "figure-008",
+  "profile": "historical-photograph",
+  "model": "nano_banana_2",
+  "resolution": "2k",
+  "source": "assets\\figures\\figure-008.jpeg",
+  "candidate": "assets\\figures\\candidates\\higgsfield\\figure-008-v01.png",
+  "prompt_path": "work\\prompts\\figures\\figure-008-historical-photograph.md",
+  "command": [
+    "E:\\code\\peter-the-one-creator\\.venv\\Scripts\\python.exe",
+    "tools/generate_illustration.py",
+    "--book",
+    "perfect.sight",
+    "--chapter",
+    "000",
+    "--kind",
+    "chapter",
+    "--model",
+    "nano_banana_2",
+    "--quality",
+    "2k",
+    "--image",
+    "E:\\code\\peter-the-one-creator\\books\\perfect.sight\\assets\\figures\\figure-008.jpeg",
+    "--no-reference",
+    "--dry-run"
+  ],
+  "status": "planned",
+  "paid_generation_explicit": false
+}

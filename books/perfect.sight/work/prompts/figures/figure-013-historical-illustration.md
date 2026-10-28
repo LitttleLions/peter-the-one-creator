@@ -1,0 +1,1 @@
+Create a faithful enhancement candidate for this historical 1920 medical-book illustration. Preserve the exact composition, anatomy, proportions, line structure and documentary character. Improve clarity and print readability only. Do not add or remove visual information and do not generate or alter text, labels, numbers, arrows, symbols or geometry.

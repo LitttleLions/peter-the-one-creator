@@ -1,0 +1,137 @@
+# Gesendeter Prompt 032
+
+- Zeitstempel: 20260817-211457
+- Provider: openrouter
+- Modell: deepseek/deepseek-v4-flash
+- Stil: stil-05-sachbuch
+- Kapitel: 032
+- Szene: 01
+- Chunk: 01/03
+- Temperatur: 0.4
+- max_tokens: 12000
+- System-Zeichen: 2695
+- User-Zeichen: 10391
+
+## System
+
+Du bist ein literarischer Uebersetzer. Du uebersetzt aus der Ausgangssprache ins Deutsche.
+
+---
+Buch: Perfect Sight Without Glasses (William Horatio Bates, M.D. (1860–1931))
+Sprache: en -> de
+
+### Verbindliches Style-Profil
+
+Das folgende Profil enthaelt verbindliche Stil- und Rekonstruktionsregeln fuer diesen Lauf (stil-05-sachbuch). Die globalen Ausgabe-Regeln und das im Arbeitsauftrag uebermittelte Glossar haben bei Konflikten Vorrang.
+
+Übersetze den englischen Ausgangstext als präzises, ruhiges historisches Sachbuch.
+
+Bewahre vollständig die Argumentation, Reihenfolge, Absätze, Beispiele, Fallberichte,
+Zitate, Zahlen, Tabellenhinweise, Verweise und historischen medizinischen Behauptungen.
+Fasse nichts zusammen und füge keine modernen medizinischen Erklärungen hinzu.
+
+Verwende ein klares, fachlich lesbares Deutsch. Keine literarische Ausschmückung,
+keine werbliche Sprache, keine Dramatisierung und keine erfundenen Zwischenüberschriften.
+Modernisiere Bates’ medizinische Auffassungen nicht stillschweigend und korrigiere sie
+nicht im Übersetzungstext. Die historische Perspektive muss erkennbar bleiben.
+
+Halte die Terminologie aus dem Buch-Glossar konsistent. Besonders wichtig sind
+„Anspannung“ für „strain“, „zentrale Fixation“ für „central fixation“,
+„Akkommodation“ für „accommodation“ und „Refraktion“ für „refraction“.
+Myopie, Hypermetropie/Hyperopie, Astigmatismus, Presbyopie, Amblyopie und Netzhaut
+werden als etablierte deutsche Fachbegriffe verwendet.
+
+Bei historischen Methodenbezeichnungen darf der englische Ausdruck bei der ersten
+Verwendung in Klammern erhalten bleiben, wenn dies die begriffliche Orientierung
+verbessert; danach bleibt die gewählte deutsche Form konsistent.
+
+Erhalte die Unterscheidung zwischen Bates’ eigener Stimme, zitierten Autoritäten,
+Patientenbriefen und Fallberichten. Verändere keine medizinischen Zahlen, Namen,
+Quellenangaben oder Versuchsbedingungen. OCR- oder Quellenfehler dürfen nicht erfunden
+oder kreativ geglättet werden; bei einem unklaren Ausgangstext bleibe möglichst nah am
+vorliegenden Text.
+
+Gib ausschließlich die Übersetzung aus. Keine Vorbemerkung, keine Analyse und keine
+Kommentare außerhalb des übersetzten Textes.
+
+### Harte Ausgabe-Regeln
+
+Diese Regeln haben Vorrang vor widersprechenden Angaben im Style-Profil.
+
+- Gib nur die Uebersetzung aus.
+- Keine Vorbemerkung, keine Zusammenfassung, keine Analyse.
+- Keine Saetze wie 'Hier ist die Uebersetzung'.
+- Keine Markdown-Ueberschriften, Vorabsaetze, Lede, Prologe oder sonstige Struktur-Ergaenzungen erfinden, ausser sie stehen bereits im Quelltext.
+- Inhalt, Reihenfolge und Fakten des Quelltexts bleiben erhalten; nichts ergaenzen, das nicht im Quelltext steht.
+
+## User
+
+Uebersetze den folgenden Text ins Deutsche.
+
+### Buch
+- Titel: Perfect Sight Without Glasses
+- Autor: William Horatio Bates, M.D. (1860–1931)
+- Stil: stil-05-sachbuch
+- Style-Profil: books\perfect.sight\styles\stil-05-sachbuch.md
+- Das Style-Profil steht im System-Prompt und ist verbindlich.
+
+### Verbindliche Namen und Begriffe
+
+Nutze diese Schreibweisen, wenn die genannten Personen oder Begriffe im Quelltext vorkommen. Nicht aufgefuehrte Personen-, Stammes-, Orts- und Titelnamen werden konservativ transliteriert oder im Zweifel in der erkennbaren Quellform beibehalten.
+- strain -> Anspannung
+- central fixation -> zentrale Fixation
+- accommodation -> Akkommodation
+- refraction -> Refraktion
+- myopia -> Myopie
+- hypermetropia -> Hypermetropie
+- hyperopia -> Hyperopie
+- astigmatism -> Astigmatismus
+- presbyopia -> Presbyopie
+- amblyopia -> Amblyopie
+- squint -> Schielen
+- palming -> Palming (Abdecken der Augen mit den Händen)
+- shifting -> Shifting (Verschieben des Blicks)
+- sunning -> Sunning (Sonnenübung)
+- retina -> Netzhaut
+- optic nerve -> Sehnerv
+
+### Zu uebersetzender Text
+
+Interne Arbeitsportion 1/3 derselben Szene. Uebersetze nur diesen Abschnitt fortlaufend ins Deutsche. Keine neue Szenenueberschrift erzeugen.
+
+## Chapter 31: Letters from Patients
+
+CHAPTER XXXI
+
+LETTERS FROM PATIENTS
+
+The following letters have been selected almost at random from the author's mail-bag, and are only specimens of many more that are equally interesting. They are published: because it was s felt that the personal stories of patients, told in their own language, might be more interesting and helpful to many readers than the more formal presentation of the facts in the preceding chapters.
+
+ARMY OFFICER CURES HIMSELF
+
+AS noted in the chapter on What Glasses Do to Us, the sight always improves when glasses are discarded, though this improvement may be so slight as not to be noticed. In a few unusual cases the patients, when freed from the handicap of a condition which compels them to keep their eyes continually under a strain, find out, in some way, how to avoid strain, and thus regain a greater or less degree of their normal visual power. The writer of the following letter was able, without any help from anyone, to discover and put into practice the main principles presented i 1 this book, and thus became able to read without his glasses. He is an engineer, and at the time the letter was written was fifty-one years of age. He had worn glasses since 1896, first for astigmatism, getting stronger ones every couple of years, and then for astigmatism and presbyopia. At one time he asked his oculist and several opticians if the eyes could not be strengthened by exercises, so as to make glasses unnecessary, but they said: "No. Once started on glasses you must keep to them." When the war broke out he was very nearly disqualified for service in the Expeditionary Forces by his eyes, but managed to pass the required tests, after which he was ordered abroad as an officer in the Gas Service. While there he saw in the Literary Digest of May 2, 1918, a reference to my method of curing defective eyesight without glasses, and on May 11 he wrote to me in part as follows:
+
+"At the front I found glasses a horrible nuisance, and they could not be worn with gas masks. After I had been about six months abroad I asked an officer of the Medical Corps about going without glasses. He said I was right in my ideas and told me to try it. The first week was awful, but I persisted and only wore glasses for reading and writing. I stopped smoking at the same time to make it easier on my nerves.
+
+"I brought to France two pairs of bow spectacles and two extra lenses for repairs. I have just removed the extra piece for near vision from these extra lenses and had them mounted as pince-nez, with shur-on mounts, to use for reading and writing, so that the only glasses I now use are for astigmatism, the age lens being off. Three months ago I could not read ordinary head-line type in newspapers without glasses. To-day, with a good light, I can read ordinary book type, held at a distance of eighteen inches from my eyes. Since the first week in February, when I discarded my glasses, I have had no headaches, stomach trouble, or dizziness, and am in good health generally. My eyes are coming back, and I believe it is due to sticking it out. I ride considerably in automobiles and trams, and somehow the idea has crept into my mind that after every trip my eyes are stronger. This, I think, is due to the rapid changing of focus in viewing scenery going by so fast. Other men have tried this plan on my advice, but gave it up after two or three days. Yet, from what they say, I believe they were not so uncomfortable as I was for a week or ten days. I believe most people wear glasses because they 'coddle' their eyes."
+
+The patient was right in thinking that the motor and tram rides improved his sight. The rapid motion compelled rapid shifting.
+
+A TEACHER'S EXPERIENCES
+
+It has frequently been pointed out in this book that imperfect vision is always associated with an abnormal state of the mind, and that when the vision improves the mental faculties improve also, to a greater or less degree. The following letter is a striking illustration of this fact. The writer, a teacher forty years of age, was first treated on March 28, 1919. She was wearing the following glasses: right eye, convex 0.75D.S. with convex 4.00D.C., 105 deg.; left eye, convex 0.75D.S. with convex 3.50D.C., 105 deg. On June 9, 1919, she wrote:
+
+"I will tell you about my eyes, but first let me tell you other things. You were the first to unfold your theories to me, and I found them good immediately - that is, I was favorably impressed from the start. I did not take up the cure because other people recommended it, but because I was convinced: first, that you believed in your discovery yourself; second, that your theory of the cause of eye trouble was true. I don't know how I knew these two things, but I did. After a little conversation with you, you and your discovery both seemed to me to bear the ear-marks of the genuine article. As to the success of the method with myself I had a little doubt. You might cure others, but you might not be able to cure me. However, I took the plunge, and it has made a great change in me and my life.
+
+"To begin with, I enjoy my sight. I love to look at things, to examine them in a leisurely, thorough way, much as a child examines things. I never realized it at the time, but it was irksome for me to look at things when I was wearing glasses, and I did as little of it as possible. The other day, going down on the Sandy Hook boat, I enjoyed a most wonderful sky without that hateful barrier of misted glasses, - and I am positive I distinguished delicate shades of color that I never would have been able to see, even with clear glasses. Things seem to me now to have more form, more reality, than when I wore glasses. Looking into the mirror you see a solid representation on a flat surface, and the flat glass can't show you anything really solid. My eyeglasses, of course, never gave me this impression, but one curiously like it. I can see so clearly without them that it is like looking around corners without changing the position. I feel that I can almost do it.
+
+"I very seldom have occasion to palm. Once in a great while I feel the necessity of it. The same with remembering a period. Nothing else is ever necessary. I seldom think of my eyes, but at times it is borne in upon me how much I do use and enjoy using them.
+
+"My nerves are much better. I am more equable, have more poise, I am less shy. I never used to show that I was shy, or lacked confidence. I used to go ahead and what was required, if not without hesitation; but it was hard. Now I find it easy. Glasses, or poor sight rather, made me self-conscious. It certainly is a great defect, and one people are sensitive to without realizing it. I mean the poor sight and the necessity for wearing glasses. I put on a pair of glasses the other day just for an experiment, and I found that they magnified things. My skin looked as if under a magnifying glass. Things seemed too near. The articles on my chiffonier looked so close I felt like pushing them away from me. The glasses I especially wanted to push away. They brought irritation at once. I took them off and felt peaceful. Things looked normal.
+
+"From the beginning of the treatment I could use my eyes pretty well, but they used to tire. I remember making a large Liberty Loan poster two weeks after I took off my glasses, and I was amazed to find I could make the whole layout almost perfectly without a ruler just as well as with my glasses. When I came to true it up with the ruler I found only the last row of letters a bit out of line at the very end. I couldn't have done better with glasses. However this wasn't fine work. About the same time I sewed a hem at night in a black dress, using a fine needle. I suffered a little for this but not much. I used to practice my exercises at that time, and palm faithfully. Now I don't have to practice, or palm; I feel no discomfort, and I am absolutely unsparing in my use of my eyes. I do everything I want to with them. I shirk nothing, pass up no opportunity of using them. From the first I did all my school work, read every notice, wrote all that was necessary, neglected nothing.
+
+"Now to sum up the school end of it: I used to get headaches at the end of the month from adding columns of figures necessary to reports, etc. Now I do not get them. I used to get flustered when people came into my room. Now I do not; I welcome them. It is a pleasant change to feel this way. And - I suppose this is most important really, though I think of it last - I teach better. I know how to get at the mind and how to make the children see things in perspective. I gave a lesson on the horizontal cylinder recently, which, you know, is not a thrillingly interesting subject, and it was a remarkable lesson in its results and in the grip it got on every girl in the room, stupid or bright. What you have taught me makes me use the memory and imagination more, especially the latter, in teaching.
+
+### Ausgabe
+Gib ausschliesslich die fertige deutsche Uebersetzung aus. Keine Vorbemerkung, keine Analyse, keine Erklaerung, keine Formulierung wie 'Hier ist die Uebersetzung'.

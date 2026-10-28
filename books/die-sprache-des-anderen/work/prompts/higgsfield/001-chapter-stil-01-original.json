@@ -1,0 +1,59 @@
+{
+  "book": "die-sprache-des-anderen",
+  "chapter": "001",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "E:\\code\\peter-the-one-creator\\books\\die-sprache-des-anderen\\work\\scenes\\de\\stil-01-original\\001\\scene-01.md",
+  "prompt_path": "E:\\code\\peter-the-one-creator\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\001-chapter-stil-01-original.md",
+  "output_path": "E:\\code\\peter-the-one-creator\\books\\die-sprache-des-anderen\\assets\\chapter\\chapter-001.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\jshermann\\AppData\\Roaming\\npm\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Chapter 001. High-quality chapter illustration for a literary historical novel set in the mid-9th century, in and around Strasbourg on the Rhine, in the winter of a war between two kings. Style: cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light, emotionally intelligent, premium modern book illustration for an ambitious historical family novel. Setting: a river town in the Carolingian empire, muddy streets of snow and manure, the Roman brick walls and a timber gatehouse, the river Ill with flat-bottomed oak cargo barges moored at wooden jetties, salt stores, tanneries, warehouses, the vast tented campaign camp of an army on the meadows outside the walls, campfires and smoke in the fog, frozen mud, horses, wagons, oxen, snow and sleet. Figures in early medieval Frankish dress: wool cloaks and tunics, leather belts and shoes, coarse linen shirts, headscarves and felt caps, mail skirts and conical helmets on warriors, wax tablets and parchment scrolls with quills on clerks, heavy boots and bare working hands. Light: low winter sun through sleet and haze, cold grey-blue daylight, warm firelight at the camp fires, hard shadows on clear days. Colour palette: wet slate grey, cold blue, mud brown, oak dark, iron black, snow white, tarred rope, dull ochre and dark red, brass and pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle; figures small against weather and war, close attention to hands, faces, boats and parchment. Clear central figure or central dramatic situation, strong readable composition. Characters present: Alda: 40-jährige Frau, kräftig und wetterhart, dunkles Haar unter grober Wollkappe, gefettete Rindslederstiefel, fleckiger Wollmantel mit Schafsfellfutter, aufmerksamer und zäher Blick, kräftige Hände; Berto: 60-jähriger Knecht, gebückt und hinkend, strubbeliges Grauhaar, zerschlissene Kappe, grobe Holzschuhe mit Stroh, wettergegerbtes Gesicht; Raginbert: 50-jähriger geistlicher Grundherr, glatt rasiert, volle von Kaelte geroetete Wangen, wässrig graue Augen, schwerer blauer Mantel mit Fuchspelzfutter, Silberbeschlaege an der Zaumzeug, kalter Blick. Der Atem der Zugochsen stand wie graue Wolle in der Dämmerung. Alda spürte die Kälte durch die gefetteten Rindslederstiefel kriechen, hinauf in die Waden, wo das Tuch der Beinlinge an der Haut klebte. Der Winter gab Straßburg nicht frei. Der Schnee war nass, schwer von der Feuchtigkeit des nahen Rheins, und hatte sich in den Gassen mit Pferdemist, Asche und dem Unrat der vergangenen Wochen zu einem bräunlichen Brei vermengt, der bei jedem Schritt schmatzte. Sie strich sich eine feuchte Strähne unter der wollenen Haube hervor und zog den mit Schafsfell gefütterten Mantel enger um die Schultern. Vor ihr ragten die Weiden am Ufer der Ill wie knorrige Finger in den Nebel. Weiter draußen, auf den Wiesen vor den alten römischen Mauern, brannte das Heerlager. Tausende Männer, Tausende Pferde. Schon seit drei Tagen roch die ganze Stadt nach dem Qualm feuchten Buchenholzes, nach gebratenem Talg, nach ungeräuchertem Fleisch und den Ausdünstungen von Zehntausenden Kriegern, die Ludwig aus dem Osten und Karl aus dem Westen hier zusammengezogen hatten. Man schmeckte den Rauch auf der Zunge, bitter und rußig.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261028_184944_54b0f241-6d22-4ac5-8efa-a483115a7273.png",
+  "job_result": [
+    {
+      "created_at": "2026-10-28T18:49:44.09361Z",
+      "display_name": "GPT Image 2.5",
+      "id": "54b0f241-6d22-4ac5-8efa-a483115a7273",
+      "job_type": "gpt_image_2_5",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261028_184944_54b0f241-6d22-4ac5-8efa-a483115a7273_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "flare",
+        "prompt": "Chapter 001. High-quality chapter illustration for a literary historical novel set in the mid-9th century, in and around Strasbourg on the Rhine, in the winter of a war between two kings. Style: cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light, emotionally intelligent, premium modern book illustration for an ambitious historical family novel. Setting: a river town in the Carolingian empire, muddy streets of snow and manure, the Roman brick walls and a timber gatehouse, the river Ill with flat-bottomed oak cargo barges moored at wooden jetties, salt stores, tanneries, warehouses, the vast tented campaign camp of an army on the meadows outside the walls, campfires and smoke in the fog, frozen mud, horses, wagons, oxen, snow and sleet. Figures in early medieval Frankish dress: wool cloaks and tunics, leather belts and shoes, coarse linen shirts, headscarves and felt caps, mail skirts and conical helmets on warriors, wax tablets and parchment scrolls with quills on clerks, heavy boots and bare working hands. Light: low winter sun through sleet and haze, cold grey-blue daylight, warm firelight at the camp fires, hard shadows on clear days. Colour palette: wet slate grey, cold blue, mud brown, oak dark, iron black, snow white, tarred rope, dull ochre and dark red, brass and pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle; figures small against weather and war, close attention to hands, faces, boats and parchment. Clear central figure or central dramatic situation, strong readable composition. Characters present: Alda: 40-jährige Frau, kräftig und wetterhart, dunkles Haar unter grober Wollkappe, gefettete Rindslederstiefel, fleckiger Wollmantel mit Schafsfellfutter, aufmerksamer und zäher Blick, kräftige Hände; Berto: 60-jähriger Knecht, gebückt und hinkend, strubbeliges Grauhaar, zerschlissene Kappe, grobe Holzschuhe mit Stroh, wettergegerbtes Gesicht; Raginbert: 50-jähriger geistlicher Grundherr, glatt rasiert, volle von Kaelte geroetete Wangen, wässrig graue Augen, schwerer blauer Mantel mit Fuchspelzfutter, Silberbeschlaege an der Zaumzeug, kalter Blick. Der Atem der Zugochsen stand wie graue Wolle in der Dämmerung. Alda spürte die Kälte durch die gefetteten Rindslederstiefel kriechen, hinauf in die Waden, wo das Tuch der Beinlinge an der Haut klebte. Der Winter gab Straßburg nicht frei. Der Schnee war nass, schwer von der Feuchtigkeit des nahen Rheins, und hatte sich in den Gassen mit Pferdemist, Asche und dem Unrat der vergangenen Wochen zu einem bräunlichen Brei vermengt, der bei jedem Schritt schmatzte. Sie strich sich eine feuchte Strähne unter der wollenen Haube hervor und zog den mit Schafsfell gefütterten Mantel enger um die Schultern. Vor ihr ragten die Weiden am Ufer der Ill wie knorrige Finger in den Nebel. Weiter draußen, auf den Wiesen vor den alten römischen Mauern, brannte das Heerlager. Tausende Männer, Tausende Pferde. Schon seit drei Tagen roch die ganze Stadt nach dem Qualm feuchten Buchenholzes, nach gebratenem Talg, nach ungeräuchertem Fleisch und den Ausdünstungen von Zehntausenden Kriegern, die Ludwig aus dem Osten und Karl aus dem Westen hier zusammengezogen hatten. Man schmeckte den Rauch auf der Zunge, bitter und rußig.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261028_184944_54b0f241-6d22-4ac5-8efa-a483115a7273.png",
+      "status": "completed"
+    }
+  ]
+}

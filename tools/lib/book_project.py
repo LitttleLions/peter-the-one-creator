@@ -12,6 +12,8 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
+import difflib
+
 import yaml
 
 
@@ -135,6 +137,19 @@ def load_books(repo_root: Path) -> list[dict[str, Any]]:
     return [project.as_tool_config(repo_root) for project in discover_projects(repo_root)]
 
 
+def _suggest_book_id(books: list[dict[str, Any]], wanted: str) -> str:
+    """Aehnliche Buch-IDs vorschlagen (gegen Tippfehler/Zweitordner).
+
+    Rueckgabe: '' ohne Treffer, sonst ', meintest du ...?' mit bis zu
+    drei Kandidaten. Ruft nichts auf, aendert nichts.
+    """
+    ids = [str(book.get("id", "")) for book in books if book.get("id")]
+    matches = difflib.get_close_matches(wanted, ids, n=3, cutoff=0.55)
+    if not matches:
+        return ""
+    return ", meintest du " + " / ".join(f"'{match}'" for match in matches) + "?"
+
+
 def find_book(repo_root: Path, book_id: str | None = None) -> dict[str, Any]:
     books = load_books(repo_root)
     if not books:
@@ -144,14 +159,16 @@ def find_book(repo_root: Path, book_id: str | None = None) -> dict[str, Any]:
     for book in books:
         if book["id"] == book_id:
             return book
-    raise SystemExit(f"Buch mit id={book_id} nicht gefunden")
+    raise SystemExit(f"Buch mit id={book_id} nicht gefunden{_suggest_book_id(books, book_id)}")
 
 
 def book_project(repo_root: Path, book_id: str) -> BookProject:
-    for project in discover_projects(repo_root):
+    projects = discover_projects(repo_root)
+    for project in projects:
         if project.id == book_id:
             return project
-    raise SystemExit(f"Buch mit id={book_id} nicht gefunden")
+    books = [project.as_tool_config(repo_root) for project in projects]
+    raise SystemExit(f"Buch mit id={book_id} nicht gefunden{_suggest_book_id(books, book_id)}")
 
 
 def write_yaml(path: Path, data: dict[str, Any]) -> None:

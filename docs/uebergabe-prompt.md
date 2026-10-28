@@ -2,9 +2,9 @@
 
 Kopiertext fuer ein neues Chat-Fenster im selben Verzeichnis
 `E:\code\peter-the-one-creator` (Branch `cline/pveejb87`). Kein neues Setup.
-Unter Windows CLI immer `py -3`, nicht `python`. Kein OpenRouter
-ohne ausdrueckliche Freigabe. Nicht committen und keinen Branch-Wechsel,
-solange der Nutzer es nicht verlangt.
+Unter Windows CLI immer `.\.venv\Scripts\python.exe`, nicht `python`/`py -3`.
+Kein OpenRouter ohne ausdrueckliche Freigabe. Nicht committen und keinen
+Branch-Wechsel, solange der Nutzer es nicht verlangt.
 
 ---
 
@@ -16,26 +16,51 @@ Lies zuerst (lesend, keine Kosten):
 1. `AGENTS.md` (Regeln, Pipeline, Release-Gate)
 2. `README.md` (Schnellstart)
 3. `docs/HANDOVER.md` (Titel = Stand-Datum; oben **Letzte Session**
-   = RomanForge-Uebernahme Stufe 1, 2026-10-07, committet `e93f4a2`)
+   = Die Sprache des Anderen + Einstieg gehaertet, 2026-10-28, uncommittet)
 4. `docs/uebernahme-romanforge.md` (Redaktions-/Uebernahme-Ablauf Chronik)
    und `docs/offene-punkte.md` Punkt 6 plus 12 (Chronik)
 
-Danach Lage pruefen:
+Danach Lage pruefen (ein Befehl pro Aufruf, kein `head`/`grep`):
 
 ```text
 git --no-pager status --short --branch
-py -3 -m unittest tests.test_import_markdown_original -v
+.\.venv\Scripts\python.exe -m unittest tests.test_book_project
+.\.venv\Scripts\python.exe -m unittest tests.test_import_markdown_original
+.\.venv\Scripts\python.exe tools/status.py --book die-sprache-des-anderen summary
 ```
 
-Erwartet: Branch `cline/pveejb87` (kein Checkout-Wechsel); Stufe-1-Tests
-31/31 gruen. Chronik-Gate (unveraendert, Kosten-frei):
-`py -3 tools/review_manuscript.py --book die-dritte-chronik --style stil-01-original --all --llm none --fail-on-errors`
+Erwartet: Branch `cline/pveejb87` (kein Checkout-Wechsel, uncommittet);
+`test_book_project` gruen (inkl. `SuggestBookIdTests`);
+`test_import_markdown_original` 41/41 gruen;
+`die-sprache-des-anderen` 34/34 done; Gate dort ERROR=0/WARNING=0/INFO=0;
+EPUB `book-die-sprache-des-anderen-stil-01-original-20261028-183226.epub`.
+Chronik-Gate (unveraendert, Kosten-frei):
+`.\.venv\Scripts\python.exe tools/review_manuscript.py --book die-dritte-chronik --style stil-01-original --all --llm none --fail-on-errors`
 -> ERROR=0/WARNING=13/INFO=36. Chronik KDP-fertig, EPUB
 `...-20260921-131112.epub` (nicht mit `20260919-222611` verwechseln).
 
 ## Was in der letzten Session passiert ist (nicht rueckgaengig machen)
 
-RomanForge-Uebernahme Stufe 1 (commit `e93f4a2` auf `cline/pveejb87`):
+Die Sprache des Anderen (2026-10-28, auf `cline/pveejb87`, uncommittet):
+
+- Falsche Vor-Session-ID `sprache-des-anderen` als Stub entlarvt (kein
+  `id`/`title`, leere Szenen); richtig ist `die-sprache-des-anderen`
+  (34 Kapitel, `rf_id` 232–265, Status 34/34). Stub per Freigabe geloescht.
+- Am vollstaendigen Paket verifiziert: Assembly 34/34 (110.375 Woerter),
+  Review ERROR=0/WARNING=0/INFO=0, EPUB
+  `book-die-sprache-des-anderen-stil-01-original-20261028-183226.epub`
+  (3.917.106 Bytes, `review_gate_errors:0`, `review_gate_bypassed:false`).
+- Einstieg gehaertet: `AGENTS.md` Regeln 2/3/4/5 (unbekannte ID und
+  Doppelordner stoppen + Rueckfrage; kein Root-Scratch/Eigenbau; ein CLI
+  pro Aufruf, `Select-Object -First N`).
+- `tools/lib/book_project.py`: `_suggest_book_id()`; unbekannte IDs melden
+  jetzt `meintest du ...?` (`find_book`, `book_project`).
+- `tools/import_markdown_original.py --new`: Hinweis, wenn `--id` von
+  `slugify(title)` abweicht.
+- `tests/test_book_project.py`: neue `SuggestBookIdTests`.
+
+Aelter (unveraendert): RomanForge-Uebernahme Stufe 1 (commit `e93f4a2` auf
+`cline/pveejb87`):
 
 - `tools/import_markdown_original.py` - compare/accept/keep/new fuer
   DE-Originale. `--compare`/`--dry-run` schreiben nichts (Exit 2 bei
@@ -63,6 +88,14 @@ Print-Details (Trim/Profil/Bilder, Pharao-Innenleben A-D, Wrap-PDFs):
 
 ## Offenes
 
+0. Verifikation in stabiler Shell nachholen (ein Befehl pro Aufruf):
+   `test_book_project`, `test_import_markdown_original`, `status.py
+   --book die-sprache-des-anderen summary`. Danach Root-Scratch loeschen
+   (`SUMMARY.md`, `SUMMARY_FINAL.md`, `tools/create_placeholders.py` —
+   ungetrackt, Regelverstoß seit Vor-Session; kein Commit ohne Freigabe).
+   Erst danach Bilder (`assets/covers`, Kapitelbilder) und
+   Verlags-/Titelei-Texte in `books/die-sprache-des-anderen/export.yaml`
+   entscheiden.
 1. Nutzer liest Chronik 012/025 selbst und entscheidet (`--accept`, dann
    `assemble_chapter.py` + `review_manuscript --chapter NNN --llm none`).
 2. Naechster Schritt laut Plan: `--new` fuer Ashkara (neues Buchpaket).

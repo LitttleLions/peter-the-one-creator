@@ -9,10 +9,10 @@
 Wenn du in diesem Repo arbeitest – ob als Mensch oder als KI – gilt folgende Reihenfolge. Alles andere ist Eigenbau und vermeidbar.
 
 1. Lies `AGENTS.md` (diese Datei), dann `README.md`, dann `docs/HANDOVER.md`. Stoppe dort, wenn du den Stand verstanden hast.
-2. Frage nie den Status ab, den `py -3 tools/status.py --book <buch-id> summary` schon liefert.
-3. Baue keine eigenen Pruef-Skripte oder Datei-Listen. Nutze die vorhandenen CLIs unter `tools/` (siehe Schnellstart in `README.md`).
-4. Arbeite immer buchbezogen unter `books/<buch-id>/`. Nie eigenmaechtig in `source/` eingreifen.
-5. Unter Windows ist `py -3` der Python-Befehl, nicht `python`.
+2. Frage nie den Status ab, den `.\.venv\Scripts\python.exe tools/status.py --book <buch-id> summary` schon liefert. Bei `Buch mit id=<x> nicht gefunden`: sofort stoppen, keine Alternativ-ID erfinden oder per Zweitordner anlegen; aehnliche IDs aus der Fehlermeldung beachten und per Rueckfrage klaeren.
+3. Baue keine eigenen Pruef-Skripte oder Datei-Listen. Nutze die vorhandenen CLIs unter `tools/` (siehe Schnellstart in `README.md`). Keine `SUMMARY*.md` im Repo-Root, keine `tools/create_*.py` ohne Freigabe; Placeholder-Bilder gehoeren nicht zur Pipeline.
+4. Arbeite immer buchbezogen unter `books/<buch-id>/`. Nie eigenmaechtig in `source/` eingreifen. Zwei Ordner fuer einen Titel (z. B. `sprache-des-anderen` vs. `die-sprache-des-anderen`): sofort stoppen, per Rueckfrage klaeren, kein Assembly/Export vorher.
+5. Unter Windows fuer dieses Projekt immer `.\.venv\Scripts\python.exe` verwenden, auch fuer `-m pip`. `py -3` nur zum Anlegen der `.venv`. Nicht auf `python`, `pip` oder einen aktivierten Venv verlassen: diese koennen auf andere Installationen zeigen. Einrichtung und Diagnose stehen in der README unter „Python-Abhaengigkeiten“; aeltere `py -3`-/`python`-Beispiele entsprechend ersetzen. In der PowerShell kein `head`/`grep` verwenden (`Select-Object -First N`); bei labiler Shell ein CLI pro Aufruf.
 6. EPUB-/ZIP-/Artifact-Probleme werden separat nach Absprache gelöst – sie sind kein Grund, den Einstieg zu verlassen.
 7. Im Zweifel: erst fragen, dann schreiben. Keine Spekulation, keine Massendatei-Lesung, kein `tmp_*.py` im Repo-Root.
 
@@ -27,16 +27,23 @@ Einstieg in dieser Reihenfolge (alles lesend, keine Kosten):
 
 1. `AGENTS.md` (diese Datei) + `README.md` (Schnellstart) lesen.
 2. `docs/HANDOVER.md` (Titel = Stand-Datum; oben **Letzte Session** =
-   RomanForge-Uebernahme Stufe 1, 2026-10-07) +
+   Die Sprache des Anderen verifiziert + Einstieg gehaertet, 2026-10-28,
+   uncommittet) +
    `docs/uebernahme-romanforge.md` + `docs/offene-punkte.md` Punkt 6
    (Chronik-Tabelle).
-3. Lage verifizieren: `git --no-pager status --short --branch`.
+3. Lage verifizieren (ein Befehl pro Aufruf, kein `head`/`grep`):
+   `git --no-pager status --short --branch`;
+   `.\.venv\Scripts\python.exe -m unittest tests.test_book_project`;
+   `.\.venv\Scripts\python.exe -m unittest tests.test_import_markdown_original`;
+   `.\.venv\Scripts\python.exe tools/status.py --book die-sprache-des-anderen summary`.
+   Erwartet: Branch `cline/pveejb87`, uncommittet; beide Test-Suiten gruen;
+   `die-sprache-des-anderen` 34/34 done; Gate dort ERROR=0/WARNING=0/INFO=0;
+   EPUB `book-die-sprache-des-anderen-stil-01-original-20261028-183226.epub`.
    Print-Vergleich: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`
    (A 924 / B 788 / C 673 / D 643; Cream 776). Gate Pharao erwartet ERROR=0
-   (`py -3 tools/review_manuscript.py --book pharao --style stil-02-poetisch --all --llm none --fail-on-errors`).
+   (`.\.venv\Scripts\python.exe tools/review_manuscript.py --book pharao --style stil-02-poetisch --all --llm none --fail-on-errors`).
    Chronik KDP-fertig: Gate ERROR=0/WARNING=13/INFO=36,
    EPUB `...-20260921-131112.epub`.
-   Unter Windows CLI mit `py -3`, nicht `python`.
 4. Review-Details Chronik: `books/die-dritte-chronik/work/reviews/stil-01-original/chapters/NNN-review.md`.
    Redaktions-Ablauf Chronik (RomanForge-Uebergabe, Stufe 1):
    Exportdatei nennen -> `import_markdown_original.py --compare`

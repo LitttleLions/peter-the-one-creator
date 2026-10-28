@@ -39,6 +39,9 @@ AKTUALISIEREN, aber das Buch fehlt): **anhalten und fragen**.
 py -3 tools/import_markdown_original.py --new --source <export.md> \
     --title <Titel> --author <Autor> \
     [--id <id>] [--subtitle <u>] [--series <r>] [--publisher <v>]
+py -3 tools/import_markdown_original.py --new --handoff <id> \
+    --title <Titel> --author <Autor> \
+    [--id <id>] [--subtitle <u>] [--series <r>] [--publisher <v>]
 ```
 
 - `--title` und `--author` sind Pflicht. `--id` wird aus dem Titel
@@ -165,12 +168,14 @@ py -3 tools/import_markdown_original.py --book <id> --source <export.md> --accep
   Konflikt 012, 018, 026, 031, 033, 034, 035, 036, 041, 043;
   peter-behalten 008, 009, 025; Rest nichts.
 
-## Offen fuer Stufe 2 (RomanForge-API)
+## Stufe 2 (RomanForge-API) – implementiert
 
-Interne Kapitelliste um optionale `rf_id` erweitern, `match_chapters`
-ID vor Titel, `state.yaml` speichert `rf_id` pro Kapitel. Spec:
-`E:\code\NovelWriter\docs\plan-uebergabe-peter.md` Abschnitt 5+8;
-spaeter `--handoff <id>` mit `ROMANFORGE_URL`/`ROMANFORGE_API_KEY` (.env).
+- **`--handoff <id>`** ist als Alternative zu `--source` verfuegbar (fuer NEU und AKTUALISIEREN).
+- `tools/lib/romanforge_client.py` liest `ROMANFORGE_URL`/`ROMANFORGE_API_KEY` aus `.env` und fragt den Endpunkt `/api/handoffs/{id}` ab. Die API liefert die vollen Uebergabe-Daten (Metadaten, `publication`-Block, alle Kapitel mit Content, `expose`-Feld); es gibt keinen separaten Export-Endpunkt. `download_export` baut den Markdown-Export aus den Kapiteln der API-Antwort auf.
+- `rf_id` (aus `chapter.id` der API) wird pro Kapitel in `state.yaml` gespeichert; `match_chapters` priorisiert ID vor Titel.
+- Verlagsangaben stammen aus dem `publication`-Block der API: `author_name`, `publisher`, `series_name`, `series_number`, `subtitle` (kann `null` sein -> bleibt leer). Fehlende Angaben werden erfragt, nicht erfunden.
+- **NEU:** `--new --handoff <id> --title <Titel> --author <Autor> [--publisher <v>] [--series <r>]` importiert alle Kapitel in einem Lauf, speichert `rf_id` pro Kapitel und schreibt `state.yaml` + `status/status.json`.
+- **AKTUALISIEREN:** `--handoff <id>` lädt die aktuelle Übergabe vom Server; danach gilt der normale `--compare`/`--accept`/`--keep`-Ablauf (max. 5 Kapitel pro Paket).
 
 ## Uebergabe-Prompt
 

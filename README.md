@@ -14,22 +14,26 @@ Dadurch werden fertige Kapitel nicht unnoetig erneut durch ein LLM geschickt.
 1. Neues Chat-Fenster, gleicher Ordner: Kopiertext
    [docs/uebergabe-prompt.md](docs/uebergabe-prompt.md). Sonst zuerst
    `AGENTS.md` (Sektion „Einstieg fuer neue KI-Sitzung“), dann
-   `docs/HANDOVER.md`, dann diese README. Unter Windows CLI `py -3`, nicht `python`.
+   `docs/HANDOVER.md`, dann diese README. Unter Windows die Projektumgebung
+   `.\.venv\Scripts\python.exe` verwenden (siehe Voraussetzungen).
 2. Arbeite immer buchbezogen unter `books/<book-id>/`.
 3. Aendere Originalquellen in `books/<book-id>/source/` und Material in
    `logic/` nicht ohne ausdrueckliche Rueckfrage. Neufassungen DE-Originale nur
    ueber RomanForge-Export (`docs/uebernahme-romanforge.md`), nicht mehr als
    Dateien unter `status/`. `source/` bleibt tabu.
-4. Pruefe den Stand mit `py -3 tools/status.py --book <book-id> summary`.
+4. Pruefe den Stand mit `.\.venv\Scripts\python.exe tools/status.py --book <book-id> summary`. Bei `Buch mit id=<x> nicht gefunden`: sofort stoppen, keine Alternativ-ID erfinden oder per Zweitordner anlegen; aehnliche IDs aus der Fehlermeldung beachten und per Rueckfrage klaeren.
 5. Baue keine eigenen Pruef-Skripte oder Datei-Listen. Nutze die vorhandenen
    CLIs unter `tools/` (z. B. `review_manuscript.py`, `status.py`,
    `assemble_chapter.py`, `export_manuscript.py`). Alles andere ist unnoetiger
-   Eigenbau.
-   Chronik-Gate: `py -3 tools/review_manuscript.py --book die-dritte-chronik --style stil-01-original --all --llm none --fail-on-errors`
+   Eigenbau. Keine `SUMMARY*.md` im Repo-Root, keine `tools/create_*.py` ohne
+   Freigabe; Placeholder-Bilder gehoeren nicht zur Pipeline.
+   In der PowerShell kein `head`/`grep` verwenden
+   (`Select-Object -First N`); bei labiler Shell ein CLI pro Aufruf.
+   Chronik-Gate: `.\.venv\Scripts\python.exe tools/review_manuscript.py --book die-dritte-chronik --style stil-01-original --all --llm none --fail-on-errors`
    (ERROR=0/WARNING=13/INFO=36; Details `docs/offene-punkte.md` Punkt 6 + 12).
    Print-Vergleich Pharao: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`
    (A 924 / B 788 / C 673 / D 643 Seiten; Cream-Limit 776).
-5. Produktive Style-Profile liegen in `books/<book-id>/styles/*.md`.
+6. Produktive Style-Profile liegen in `books/<book-id>/styles/*.md`.
 
 > **Keine Memory Bank:** Dieses Projekt pflegt bewusst keine Cline Memory Bank
 > (`memory-bank/`). Massgeblicher Kontext sind AGENTS.md, README.md,
@@ -75,9 +79,34 @@ Offen: Print-Leseprobe und Entscheidung 788 vs. 776 fuer 6x9 classic
 
 ### Python-Abhaengigkeiten
 
-```bash
-pip install -r requirements.txt
+Unter Windows im Repository-Root eine Projektumgebung anlegen und Pakete
+gezielt dort installieren (nur bei fehlender Umgebung bzw. fuer die Einrichtung):
+
+```powershell
+py -3 -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
+
+Bei vorhandener `.venv` den ersten Befehl nicht erneut ausfuehren. Fuer
+Projektbefehle und Paketinstallation immer diesen Interpreter verwenden;
+`py -3`, `python` und `pip` koennen unterschiedliche Installationen waehlen.
+Eine Aktivierung ist nicht erforderlich. Die folgenden `python`-Beispiele gelten
+unter Windows mit `.\.venv\Scripts\python.exe` anstelle von `python`.
+Auf anderen Systemen entsprechend `.venv/bin/python` verwenden.
+
+Bei Problemen in PowerShell pruefen:
+
+```powershell
+Get-Command py, python, pip -All
+py -0p
+.\.venv\Scripts\python.exe -c "import sys; print(sys.executable, sys.version)"
+.\.venv\Scripts\python.exe -m pip check
+```
+
+Fehlende Pakete mit dem obigen `-m pip install` in der Projektumgebung
+installieren. Ist `.venv` nicht startbar, zuerst die Fehlermeldung und den
+Python-Pfad pruefen; die Umgebung nicht ungefragt loeschen. PowerShell nutzt
+fuer npm bei Problemen mit `npm.ps1` den Aufruf `npm.cmd`.
 
 ### Externe Tools
 
@@ -186,7 +215,7 @@ ist. Zwei Wege:
 ## Befehle
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 
 # Dashboard (FastAPI + React)
 python tools/start_dashboard.py

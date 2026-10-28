@@ -1,0 +1,49 @@
+{
+  "chapter": "006",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "006",
+      "scene": 1,
+      "ru_path": "books\\der-lotse-von-ruegen\\work\\scenes\\de\\006\\scene-01.md",
+      "de_path": "books\\der-lotse-von-ruegen\\work\\scenes\\de\\stil-01-original\\006\\scene-01.md",
+      "ru_words": 4002,
+      "de_words": 4002,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Stapelung (11x: weil 5x, als 3x, wie 1x) in 171 Woertern ohne Satzende.",
+          "chapter": "006",
+          "scene": 1,
+          "evidence": "Am siebten Tag, früh, als es noch dunkel war, ging Lene zum Ufer hinunter, wie an jedem Tag zuvor, und sie stand am Pfahl, und sie sah hinaus, und sie sah nichts, und sie blieb stehen, länger als sonst, und dann drehte sie sich um und ging ins Haus zurück, und sie weckte Fiete, und sie machte Feuer, und sie setzte Wasser auf, und sie stellte den Topf auf die Steinplatte, und sie hängte die Netze nicht zurück, und sie stellte die Stiefel nicht um, und dann setzte sie sich auf den Eimer, nahm das ",
+          "recommendation": "Schachtelsatz gliedern.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        },
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Kapitel-TTR 0.19 bei 3994 Woertern.",
+          "chapter": "006",
+          "scene": 1,
+          "evidence": "TTR=0.19, Woerter=3994",
+          "recommendation": "Wortschatzarmut pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+# Gesendeter Prompt 011
+
+- Zeitstempel: 20260817-205110
+- Provider: openrouter
+- Modell: deepseek/deepseek-v4-flash
+- Stil: stil-05-sachbuch
+- Kapitel: 011
+- Szene: 01
+- Chunk: 01/02
+- Temperatur: 0.4
+- max_tokens: 12000
+- System-Zeichen: 2695
+- User-Zeichen: 10204
+
+## System
+
+Du bist ein literarischer Uebersetzer. Du uebersetzt aus der Ausgangssprache ins Deutsche.
+
+---
+Buch: Perfect Sight Without Glasses (William Horatio Bates, M.D. (1860–1931))
+Sprache: en -> de
+
+### Verbindliches Style-Profil
+
+Das folgende Profil enthaelt verbindliche Stil- und Rekonstruktionsregeln fuer diesen Lauf (stil-05-sachbuch). Die globalen Ausgabe-Regeln und das im Arbeitsauftrag uebermittelte Glossar haben bei Konflikten Vorrang.
+
+Übersetze den englischen Ausgangstext als präzises, ruhiges historisches Sachbuch.
+
+Bewahre vollständig die Argumentation, Reihenfolge, Absätze, Beispiele, Fallberichte,
+Zitate, Zahlen, Tabellenhinweise, Verweise und historischen medizinischen Behauptungen.
+Fasse nichts zusammen und füge keine modernen medizinischen Erklärungen hinzu.
+
+Verwende ein klares, fachlich lesbares Deutsch. Keine literarische Ausschmückung,
+keine werbliche Sprache, keine Dramatisierung und keine erfundenen Zwischenüberschriften.
+Modernisiere Bates’ medizinische Auffassungen nicht stillschweigend und korrigiere sie
+nicht im Übersetzungstext. Die historische Perspektive muss erkennbar bleiben.
+
+Halte die Terminologie aus dem Buch-Glossar konsistent. Besonders wichtig sind
+„Anspannung“ für „strain“, „zentrale Fixation“ für „central fixation“,
+„Akkommodation“ für „accommodation“ und „Refraktion“ für „refraction“.
+Myopie, Hypermetropie/Hyperopie, Astigmatismus, Presbyopie, Amblyopie und Netzhaut
+werden als etablierte deutsche Fachbegriffe verwendet.
+
+Bei historischen Methodenbezeichnungen darf der englische Ausdruck bei der ersten
+Verwendung in Klammern erhalten bleiben, wenn dies die begriffliche Orientierung
+verbessert; danach bleibt die gewählte deutsche Form konsistent.
+
+Erhalte die Unterscheidung zwischen Bates’ eigener Stimme, zitierten Autoritäten,
+Patientenbriefen und Fallberichten. Verändere keine medizinischen Zahlen, Namen,
+Quellenangaben oder Versuchsbedingungen. OCR- oder Quellenfehler dürfen nicht erfunden
+oder kreativ geglättet werden; bei einem unklaren Ausgangstext bleibe möglichst nah am
+vorliegenden Text.
+
+Gib ausschließlich die Übersetzung aus. Keine Vorbemerkung, keine Analyse und keine
+Kommentare außerhalb des übersetzten Textes.
+
+### Harte Ausgabe-Regeln
+
+Diese Regeln haben Vorrang vor widersprechenden Angaben im Style-Profil.
+
+- Gib nur die Uebersetzung aus.
+- Keine Vorbemerkung, keine Zusammenfassung, keine Analyse.
+- Keine Saetze wie 'Hier ist die Uebersetzung'.
+- Keine Markdown-Ueberschriften, Vorabsaetze, Lede, Prologe oder sonstige Struktur-Ergaenzungen erfinden, ausser sie stehen bereits im Quelltext.
+- Inhalt, Reihenfolge und Fakten des Quelltexts bleiben erhalten; nichts ergaenzen, das nicht im Quelltext steht.
+
+## User
+
+Uebersetze den folgenden Text ins Deutsche.
+
+### Buch
+- Titel: Perfect Sight Without Glasses
+- Autor: William Horatio Bates, M.D. (1860–1931)
+- Stil: stil-05-sachbuch
+- Style-Profil: books\perfect.sight\styles\stil-05-sachbuch.md
+- Das Style-Profil steht im System-Prompt und ist verbindlich.
+
+### Verbindliche Namen und Begriffe
+
+Nutze diese Schreibweisen, wenn die genannten Personen oder Begriffe im Quelltext vorkommen. Nicht aufgefuehrte Personen-, Stammes-, Orts- und Titelnamen werden konservativ transliteriert oder im Zweifel in der erkennbaren Quellform beibehalten.
+- strain -> Anspannung
+- central fixation -> zentrale Fixation
+- accommodation -> Akkommodation
+- refraction -> Refraktion
+- myopia -> Myopie
+- hypermetropia -> Hypermetropie
+- hyperopia -> Hyperopie
+- astigmatism -> Astigmatismus
+- presbyopia -> Presbyopie
+- amblyopia -> Amblyopie
+- squint -> Schielen
+- palming -> Palming (Abdecken der Augen mit den Händen)
+- shifting -> Shifting (Verschieben des Blicks)
+- sunning -> Sunning (Sonnenübung)
+- retina -> Netzhaut
+- optic nerve -> Sehnerv
+
+### Zu uebersetzender Text
+
+Interne Arbeitsportion 1/2 derselben Szene. Uebersetze nur diesen Abschnitt fortlaufend ins Deutsche. Keine neue Szenenueberschrift erzeugen.
+
+## Chapter 10: Strain
+
+CHAPTER X - STRAIN
+
+TEMPORARY conditions may contribute to the strain to see which results in the production of errors of refraction; but its foundation lies in wrong habits of thought. In attempting to relieve it the physician has continually to struggle against the idea that to do anything well requires effort. This idea is drilled into us from our cradles. The whole educational system is based upon it; and in spite of the wonderful results attained by Montessori through the total elimination of every species of compulsion in the educational process, educators who call themselves modern still cling to the club, under various disguises, as a necessary auxiliary to the process of imparting knowledge.
+
+It is as natural for the eye to see as it is for the mind to acquire knowledge, and any effort in either case is not only useless, but defeats the end in view. You may force a few facts into a child's mind by various kinds of compulsion, but you cannot make it learn anything. The facts remain, if they remain at all, as dead lumber in the brain. They contribute nothing to the vital processes of thought; and because they were not acquired naturally and not assimilated, they destroy the natural impulse of the mind toward the acquisition of knowledge, and by the time the child leaves school or college, as the case may be, it not only knows nothing but is, in the majority of cases, no longer capable of learning.
+
+In the same way you may temporarily improve the sight by effort, but you cannot improve it to normal, and if the effort is allowed to become continuous, the sight will steadily deteriorate and may eventually be destroyed. Very seldom is the impairment or destruction of vision due to any fault in the construction of the eye. Of two equally good pairs of eyes one will retain perfect sight to the end of life, and the other will lose it in the kindergarten, simply because one looks at things without effort and the other does not.
+
+The eye with normal sight never tries to see. If for any reason, such as the dimness of the light, or the distance of the object, it cannot see a particular point, it shifts to another. It never tries to bring out the point by staring at it, as the eye with imperfect sight is constantly doing.
+
+Whenever the eye tries to see, it at once ceases to have normal vision. A person may look at the stars with normal vision; but if he tries to count the stars in any particular constellation, he will probably become myopic, because the attempt to do these things usually results in an effort to see. A patient was able to look at the letter K on the Snellen test card with normal vision, but when asked to count its twentyseven corners he lost it completely.
+
+It obviously requires a strain to fail to see at the distance, because the eye at rest is adjusted for distant vision. If one does anything when one wants to see at the distance, one must do the wrong thing. The shape of the eyeball cannot be altered during distant vision without strain. It is equally a strain to fail to see at the near-point, because when the muscles respond to the mind's desire they do it without strain. Only by an effort can one prevent the eye from elongating at the near-point.
+
+The eye possesses perfect vision only when it is absolutely at rest. Any movement, either in the organ or the object of vision, produces an error of refraction. With the retinoscope it can be demonstrated that even the necessary movements of the eyeball produce a slight error of refraction, and the moving pictures have given us a practical demonstration of the fact that it is impossible to see a moving object perfectly. When the movement of the object of vision is sufficiently slow, the resulting impairment of vision is so slight as to be inappreciable, just as the errors of refraction produced by slight movements of the eyeball are inappreciable; but when objects move very rapidly they can be seen only as a blur. For this reason it has been found necessary to arrange the machinery for exhibiting moving pictures in such a way that each picture is halted for a twenty-fourth of a second, and screened while it is moving into place. Moving pictures, accordingly, are never seen in motion.
+
+The act of seeing is passive. Things are seen, just as they are felt, or heard, or tasted, without effort or volition on the part of the subject. When sight is perfect the letters on the test card are waiting, perfectly black and perfectly distinct, to be recognized. They do not have to be sought; they are there. In imperfect sight they are sought and chased. The eye goes after them. An effort is made to see them.
+
+The muscles of the body are supposed never to be at rest. The blood-vessels, with their muscular coats, are never at rest. Even in sleep thought does not cease. But the normal condition of the nerves of sense - of hearing, sight, taste, smell and touch - is one of rest. They can be acted upon; they cannot act. The optic nerve, the retina and the visual centers of the brain are as passive as the finger-nail. They have nothing whatever in their structure that makes it possible for them to do anything, and when they are the subject of effort from outside sources their efficiency is always impaired.
+
+The mind is the source of all such efforts from outside sources brought to bear upon the eye. Every thought of effort in the mind, of whatever sort, transmits a motor impulse to the eye; and every such impulse causes a deviation from the normal in the shape of the eyeball and lessens the sensitiveness of the center of sight. If one wants to have perfect sight, therefore, one must have no thought of effort in the mind. Mental strain of any kind always produces a conscious or unconscious eyestrain and if the strain takes the form of an effort to see, an error of refraction is always produced. A schoolboy was able to read the bottom line of the Snellen test card at ten feet, but when the teacher told him to mind what he was about he could not see the big C. Many children can see perfectly so long as their mothers are around; but if the mother goes out of the room, they may at once become myopic, because of the strain produced by fear. Unfamiliar objects produce eyestrain and a consequent error of refraction, because they first produce mental strain. A person may have good vision when he is telling the truth; but if he states what is not true, even with no intent to deceive, or if he imagines what is not true, an error of refraction will be produced, because it is impossible to state or imagine what is not true without an effort.
+
+I may claim to have discovered that telling lies is bad for the eyes, and whatever bearing this circumstance may have upon the universality of defects of vision, the fact can easily be demonstrated. If a patient can read all the small letters on the bottom line of the test card, and either deliberately or carelessly miscalls any of them, the retinoscope will indicate an error of refraction. In numerous cases patients have been asked to state their ages incorrectly, or to try to imagine that they were a year older or a year younger than they actually were, and in every case when they did this the retinoscope indicated an error of refraction. A patient twenty-five years old had no error of refraction when he looked at a blank wall without trying to see; but if he said he was twenty-six, or if someone else said he was twenty-six, or if he tried to imagine that he was twenty-six, he became myopic. The same thing happened when he stated or tried to imagine that he was twenty-four. When he stated or remembered the truth his vision was normal, but when he stated or imagined an error he had an error of refraction.
+
+Two little girl patients arrived one after the other one day, and the first accused the second of having stopped at Huyler's for an ice-cream soda, which she had been instructed not to do, being somewhat too much addicted to sweets. The second denied the charge, and the first, who had used the retinoscope and knew what it did to people who told lies, said:
+
+"Do take the retinoscope and find out."
+
+I followed the suggestion, and having thrown the light into the second child's eyes, I asked:
+
+"Did you go to Huyler's?"
+
+"Yes," was the response, and the retinoscope indicated no error of refraction.
+
+"Did you have an ice-cream soda?"
+
+"No," said the child; but the telltale shadow moved in a direction opposite to that of the mirror, showing that she had become myopic and was not telling the truth.
+
+The child blushed when I told her this and acknowledged that the retinoscope was right; for she had heard of the ways of the uncanny instrument before and did not know what else it might do to her if she said any thing more that was not true.
+
+### Ausgabe
+Gib ausschliesslich die fertige deutsche Uebersetzung aus. Keine Vorbemerkung, keine Analyse, keine Erklaerung, keine Formulierung wie 'Hier ist die Uebersetzung'.

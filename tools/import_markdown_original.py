@@ -301,7 +301,7 @@ def write_state(path: Path, state: dict) -> None:
 
 
 def update_state_chapter(
-    state: dict, chapter_id: str, *, title: str, rf_base: str, peter_base: str, base_export: str
+    state: dict, chapter_id: str, *, title: str, rf_base: str, peter_base: str, base_export: str, rf_id: str | None = None
 ) -> None:
     state.setdefault("chapters", {})[chapter_id] = {
         "title": title,
@@ -309,6 +309,8 @@ def update_state_chapter(
         "peter_base": peter_base,
         "base_export": base_export,
     }
+    if rf_id is not None:
+        state["chapters"][chapter_id]["rf_id"] = rf_id
 
 
 def apply_keep(state: dict, chapter_id: str, *, new_rf_base: str, base_export: str) -> None:
@@ -499,6 +501,8 @@ def build_parser() -> argparse.ArgumentParser:
     ap.add_argument("--book", default=None, help="Buch-ID unter books/<id>/")
     ap.add_argument("--book-root", default=None, help="Direkter Buchpfad (fuer Tests)")
     ap.add_argument("--source", default=None, help="RomanForge-Exportdatei (.md)")
+    ap.add_argument("--handoff", default=None,
+                    help="RomanForge-Uebergabe-ID (Stufe 2; lädt den Export direkt vom Server, ersetzt --source)")
     ap.add_argument("--baseline", default=None,
                     help="Ursprungs-Export als Ausgangsstand (Pflicht ohne state.yaml)")
     ap.add_argument("--dry-run", action="store_true", help="Nur Kapitelliste, schreibt nichts")
@@ -727,26 +731,51 @@ def _neutral_export_yaml(args: argparse.Namespace) -> dict:
     return cfg
 
 
+def _chapters_from_handoff(handoff_data: dict) -> list[tuple[str, str, str, str | None]]:
+    chapters = handoff_data.get("chapters", [])
+    chapters_sorted = sorted(chapters, key=lambda c: c.get("number", 0))
+    result: list[tuple[str, str, str, str | None]] = []
+    for ch in chapters_sorted:
+        chapter_id = f"{ch.get('number', 0):03d}"
+        title = ch.get("title") or f"Kapitel {ch.get('number', '?')}"
+        content = ch.get("content") or ""
+        rf_id = str(ch.get("id")) if ch.get("id") is not None else None
+        result.append((chapter_id, title, content, rf_id))
+    return result
+
+
 def cmd_new(args: argparse.Namespace) -> int:
-    if not args.source:
-        print("FEHLER: --source mit RomanForge-Export angeben.", file=sys.stderr)
-        return 2
-    source = Path(args.source)
-    if not source.exists():
-        print(f"FEHLER: Quelle nicht gefunden: {source}", file=sys.stderr)
-        return 1
-    export_text = source.read_text(encoding="utf-8")
+    if args.handoff:
+        from lib.romanforge_client import RomanForgeConfig, get_handoff_data, download_export  # noqa: E402
+        config = RomanForgeConfig.from_env()
+        handoff_data = get_handoff_data(config, args.handoff)
+        source_text = download_export(config, args.handoff)
+        source_name = f"romanforge-{args.handoff}.md"
+        source_is_download = True
+        chapter_entries = _chapters_from_handoff(handoff_data)
+    else:
+        if not args.source:
+            print("FEHLER: --source mit RomanForge-Export angeben.", file=sys.stderr)
+            return 2
+        source = Path(args.source)
+        if not source.exists():
+            print(f"FEHLER: Quelle nicht gefunden: {source}", file=sys.stderr)
+            return 1
+        source_text = source.read_text(encoding="utf-8")
+        source_name = source.name
+        source_is_download = False
+        chapter_entries = None
 
     # --dry-run: nur Kapitelliste + Wortzahlen, schreibt nichts.
     if args.dry_run:
-        chapters = split_chapters(export_text)
+        chapters = split_chapters(source_text)
         report_title = (
-            args.title or export_title_suggestion(export_text) or "(ohne Titel)")
+            args.title or export_title_suggestion(source_text) or "(ohne Titel)")
         return cmd_dry_run(report_title, chapters)
 
     # Titel aus der '# '-Zeile nur vorschlagen, nie still uebernehmen.
     if not args.title:
-        suggestion = export_title_suggestion(export_text)
+        suggestion = export_title_suggestion(source_text)
         if suggestion:
             print(f"Vorschlag aus '# '-Zeile: --title \"{suggestion}\"")
         print(
@@ -759,7 +788,18 @@ def cmd_new(args: argparse.Namespace) -> int:
         print("FEHLER: --new braucht --author.", file=sys.stderr)
         return 2
 
+    if chapter_entries is None:
+        chapters = split_chapters(source_text)
+        chapter_entries = [(f"{idx:03d}", title, body, None) for idx, (title, body) in enumerate(chapters, 1)]
+
     book_id = args.id or slugify(args.title)
+    if args.id and slugify(args.title) != args.id:
+        print(
+            f"Hinweis: --id '{args.id}' weicht von der Titel-Ableitung "
+            f"'{slugify(args.title)}' ab. Kurz-ID bewusst gewaehlt? "
+            "Weiter mit --id bestaetigt die Kurz-ID.",
+            file=sys.stderr,
+        )
     if args.book_root:
         book_root = Path(args.book_root)
         exists = (book_root / "book.yaml").exists()
@@ -770,14 +810,15 @@ def cmd_new(args: argparse.Namespace) -> int:
         print(f"FEHLER: Buchpaket existiert bereits: {book_root}", file=sys.stderr)
         return 2
 
-    chapters = split_chapters(export_text)
     for sub in ("source", "work/chapters", "work/scenes/de", "styles",
                 "status/logs", "assets/covers", "exports"):
         (book_root / sub).mkdir(parents=True, exist_ok=True)
-    target_source = book_root / "source" / source.name
-    if source.resolve() != target_source.resolve():
+    target_source = book_root / "source" / source_name
+    if source_is_download:
+        target_source.write_text(source_text, encoding="utf-8")
+    elif source.resolve() != target_source.resolve():
         shutil.copy2(source, target_source)
-    book_yaml = _neutral_book_yaml(args, source.name, book_id)
+    book_yaml = _neutral_book_yaml(args, source_name, book_id)
     (book_root / "book.yaml").write_text(
         yaml.safe_dump(book_yaml, allow_unicode=True, sort_keys=False), encoding="utf-8")
     (book_root / "export.yaml").write_text(
@@ -794,8 +835,7 @@ def cmd_new(args: argparse.Namespace) -> int:
     stamp = stamp_now()
     state: dict = {"book": book_id, "chapters": {}}
     rows: list[dict] = []
-    for idx, (title, body) in enumerate(chapters, 1):
-        chapter_id = f"{idx:03d}"
+    for chapter_id, title, body, rf_id in chapter_entries:
         write_accepted_chapter(
             book_root=book_root, output_root=output_root, book_cfg=book_yaml,
             chapter_id=chapter_id, title=title, body=body, style=style,
@@ -803,7 +843,7 @@ def cmd_new(args: argparse.Namespace) -> int:
         chapter_hash = text_hash(canonical_text(body))
         update_state_chapter(
             state, chapter_id, title=title,
-            rf_base=chapter_hash, peter_base=chapter_hash, base_export=stamp,
+            rf_base=chapter_hash, peter_base=chapter_hash, base_export=stamp, rf_id=rf_id,
         )
         rows.append(build_row(
             chapter_id=chapter_id, title_export=title, title_peter=title,
@@ -812,7 +852,7 @@ def cmd_new(args: argparse.Namespace) -> int:
         ))
     write_state(state_path_for(book_root), state)
     run_dir = write_run_artifacts(
-        book_root, stamp, export_text=export_text,
+        book_root, stamp, export_text=source_text,
         report=render_report(str(args.title), rows),
     )
 
@@ -822,7 +862,11 @@ def cmd_new(args: argparse.Namespace) -> int:
     )
 
     status_state = new_book_state(book_yaml)
-    for idx, (title, body) in enumerate(chapters, 1):
+    if chapter_entries:
+        chapter_data = [(title, body) for _, title, body, _ in chapter_entries]
+    else:
+        chapter_data = [(title, body) for title, body in chapters]
+    for idx, (title, body) in enumerate(chapter_data, 1):
         words = count_words(body)
         add_chapter(status_state, ChapterState(
             id=f"{idx:03d}", title_ru=title, title_de=title,
@@ -845,9 +889,9 @@ def cmd_new(args: argparse.Namespace) -> int:
         "Zusammenfassung (summary)", "Autorenleben (author_bio)",
     ]
     print(f"Buchpaket angelegt: {book_root}")
-    print(f"Kapitel importiert: {len(chapters)} (je 3 Textkopien)")
-    print(f"state.yaml: {len(chapters)} Eintraege (rf_base = peter_base = Export-Hash)")
-    print(f"status.json: {len(chapters)} Kapitel, Status done")
+    print(f"Kapitel importiert: {len(chapter_data)} (je 3 Textkopien)")
+    print(f"state.yaml: {len(chapter_data)} Eintraege (rf_base = peter_base = Export-Hash)")
+    print(f"status.json: {len(chapter_data)} Kapitel, Status done")
     print(f"lauf: {run_dir}/export.md + report.md")
     print("Offen (nicht erfunden): " + ", ".join(open_items))
     print(
@@ -880,13 +924,18 @@ def main(argv: list[str] | None = None) -> int:
     book_root, book_cfg = resolve_book_root(args.book, args.book_root)
     book_title = str(book_cfg.get("title") or book_cfg.get("id") or book_root.name)
     style = str(book_cfg.get("style_mode") or "stil-01-original")
-    source_arg = args.source or str(
-        _resolve_under_book(book_root, str(book_cfg.get("source_path") or "")))
-    source_path = Path(source_arg)
-    if not source_path.exists():
-        print(f"FEHLER: Quelle nicht gefunden: {source_path}", file=sys.stderr)
-        return 1
-    export_text = source_path.read_text(encoding="utf-8")
+    if args.handoff:
+        from lib.romanforge_client import RomanForgeConfig, download_export  # noqa: E402
+        config = RomanForgeConfig.from_env()
+        export_text = download_export(config, args.handoff)
+    else:
+        source_arg = args.source or str(
+            _resolve_under_book(book_root, str(book_cfg.get("source_path") or "")))
+        source_path = Path(source_arg)
+        if not source_path.exists():
+            print(f"FEHLER: Quelle nicht gefunden: {source_path}", file=sys.stderr)
+            return 1
+        export_text = source_path.read_text(encoding="utf-8")
     chapters = split_chapters(export_text)
     if args.dry_run:
         return cmd_dry_run(book_title, chapters)

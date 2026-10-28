@@ -1,0 +1,135 @@
+defaults:
+  language: de-DE
+  publisher: Motivatier Hermann Stiftung
+  rights: >-
+    © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung,
+    editorische Einrichtung, Zusatztexte und Covergestaltung.
+  description: >-
+    Historische augenheilkundliche Abhandlung von William Horatio Bates über
+    Refraktionsfehler, Akkommodation und die von ihm vorgeschlagenen Verfahren
+    zur Verbesserung des Sehens ohne Brille. Diese Ausgabe gibt die medizinischen
+    Auffassungen des Jahres 1920 wieder und ist keine aktuelle medizinische Beratung.
+  cover:
+    mode: image
+    image_path: assets/covers/cover.png
+    background: '#243447'
+    foreground: '#ffffff'
+  front_matter:
+    cover_in_body: true
+    title_page: true
+    summary_page: true
+    author_bio_page: true
+    description_page: true
+    imprint_page: true
+    toc_page: true
+    combined_epub_front_matter: false
+    combined_heading: Titelei
+    cover_heading: Cover
+    title_heading: Titelseite
+    summary_heading: Zusammenfassung
+    author_bio_heading: Leben des Autors
+    description_heading: Zu dieser Ausgabe
+    imprint_heading: Impressum
+    toc_heading: Inhalt
+  output:
+    page_break_before_chapter: true
+    chapter_headings: true
+    scene_numbers: false
+    strip_control_metadata: true
+    scene_separator: '* * *'
+  illustrations:
+    enabled: true
+    chapter_images: true
+    scene_images: false
+    chapter_page_break_after_image: false
+    scene_page_break_after_image: false
+    inline_figures:
+      enabled: false
+      manifest: assets/figures/manifest.yaml
+      placements: assets/figures/placements.yaml
+book:
+  title: Perfect Sight Without Glasses
+  subtitle: The Cure of Imperfect Sight by Treatment Without Glasses
+  author: William Horatio Bates, M.D. (1860–1931)
+  original_title: Perfect Sight Without Glasses
+  original_subtitle: The Cure of Imperfect Sight by Treatment Without Glasses
+  original_author: William Horatio Bates, M.D. (1860–1931)
+  original_language: English
+  year: 1920
+  genre: Medizinisches Sachbuch / historische augenheilkundliche Abhandlung
+  period: Frühes 20. Jahrhundert
+  translator: Motivatier
+  translator_label: Übersetzung und editorische Einrichtung
+  language: de-DE
+  publisher: Motivatier Hermann Stiftung
+  rights: >-
+    © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung,
+    editorische Einrichtung, Zusatztexte und Covergestaltung.
+  description: >-
+    Dieses historische Sachbuch versammelt William Horatio Bates’ Untersuchungen
+    und Auffassungen zu Akkommodation, Refraktionsfehlern und verschiedenen von
+    ihm vorgeschlagenen Verfahren zur Verbesserung des Sehens ohne Brille.
+  summary: >-
+    William Horatio Bates legt in diesem Werk seine Beobachtungen und Versuche
+    zur Entstehung und Behandlung von Fehlsichtigkeiten dar. Er wendet sich gegen
+    die damals verbreitete Vorstellung, Myopie, Hypermetropie, Astigmatismus und
+    Presbyopie seien unveränderliche Zustände, und führt seine eigene Erklärung
+    über Anspannung, zentrale Fixation, Erinnerung und Vorstellungskraft aus.
+
+    Die Kapitel verbinden physiologische Erörterungen, klinische Beobachtungen,
+    Fallberichte, Schulversuche und Briefe von Patienten. Die Ausgabe bewahrt
+    den historischen Argumentationsgang, ohne die medizinischen Behauptungen des
+    Autors als heutige Behandlungsempfehlungen auszugeben.
+  author_bio: >-
+    William Horatio Bates (1860–1931) war ein amerikanischer Augenarzt, der in
+    New York als Chirurg und Augenmediziner arbeitete. Er studierte am College
+    of Physicians and Surgeons der Columbia University und widmete sich in
+    seiner klinischen Arbeit insbesondere der Refraktion, der Akkommodation und
+    den funktionellen Beschwerden des Sehens.
+
+    Bates widersprach wesentlichen Teilen der damals vorherrschenden
+    physiologischen Erklärung des Sehens und entwickelte aus seinen
+    Beobachtungen eine eigene Lehre, die später als Bates-Methode bekannt
+    wurde. Zu seinen Veröffentlichungen gehören Perfect Sight Without Glasses
+    sowie zahlreiche Aufsätze und Fallberichte. Seine Ansichten wirkten über
+    die Augenheilkunde seiner Zeit hinaus, sind historisch einzuordnen und
+    stellen keine heutige medizinische Behandlungsempfehlung dar.
+
+    Die vorliegende Ausgabe folgt der englischen Originalausgabe von 1920 und
+    bewahrt ihren historischen Argumentationsgang, während die redaktionellen
+    Hinweise den zeitlichen und medizinischen Kontext kenntlich machen.
+  title_page_extra:
+    - Originaltitel: Perfect Sight Without Glasses
+    - Vollständiger Untertitel: The Cure of Imperfect Sight by Treatment Without Glasses
+    - Originalautor: William Horatio Bates, M.D. (1860–1931)
+    - Central Fixation Publishing Co., New York · 1920
+    - Historisches medizinisches Sachbuch; Originalausgabe gemeinfrei
+    - Diese Ausgabe ist eine neue deutsche Übersetzung aus dem englischen Original. Übersetzung und editorische Einrichtung wurden KI-gestützt erstellt und redaktionell geprüft.
+  imprint_text: |
+    Perfect Sight Without Glasses
+    The Cure of Imperfect Sight by Treatment Without Glasses
+
+    William Horatio Bates, M.D. (1860–1931)
+    Central Fixation Publishing Co., New York, 1920
+
+    Übersetzung und editorische Einrichtung: Motivatier
+    Herausgegeben von der Motivatier Hermann Stiftung
+
+    Diese Ausgabe folgt dem englischen Originaltext der kapitelweisen
+    Wikisource-Ausgabe. EPUB und PDF der Originalausgabe werden als
+    Quellen- und Bildreferenz im Buchpaket erhalten.
+
+    Dieses historische Werk gibt die medizinischen Auffassungen seines Autors
+    aus dem Jahr 1920 wieder. Es ist keine aktuelle medizinische Beratung und
+    ersetzt keine augenärztliche Untersuchung oder Behandlung.
+
+    © 2026 Motivatier Hermann Stiftung für diese deutsche Übersetzung,
+    editorische Einrichtung, Zusatztexte und Covergestaltung.
+
+    Das englische Originalwerk ist gemeinfrei. Rechte an dieser Ausgabe
+    bestehen, soweit sie die neue deutsche Übersetzung, die redaktionellen
+    Ergänzungen, die Gestaltung und die konkrete Einrichtung betreffen.
+website:
+  enabled: false
+  amazon_url: ''
+  sort_order: 80

@@ -1,0 +1,34 @@
+{
+  "chapter": "016",
+  "style": "stil-05-sachbuch",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "016",
+      "scene": 1,
+      "ru_path": "books\\perfect.sight\\work\\scenes\\en\\016\\scene-01.md",
+      "de_path": "books\\perfect.sight\\work\\scenes\\de\\stil-05-sachbuch\\016\\scene-01.md",
+      "ru_words": 3846,
+      "de_words": 3636,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Kapitel-TTR 0.25 bei 3620 Woertern.",
+          "chapter": "016",
+          "scene": 1,
+          "evidence": "TTR=0.25, Woerter=3620",
+          "recommendation": "Wortschatzarmut pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

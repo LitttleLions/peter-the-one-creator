@@ -1,0 +1,34 @@
+{
+  "chapter": "017",
+  "style": "stil-01-original",
+  "ru_scenes": 1,
+  "de_scenes": 1,
+  "findings": [],
+  "scenes": [
+    {
+      "chapter": "017",
+      "scene": 1,
+      "ru_path": "books\\der-lotse-von-ruegen\\work\\scenes\\de\\017\\scene-01.md",
+      "de_path": "books\\der-lotse-von-ruegen\\work\\scenes\\de\\stil-01-original\\017\\scene-01.md",
+      "ru_words": 3731,
+      "de_words": 3731,
+      "findings": [
+        {
+          "severity": "INFO",
+          "category": "repetition_style",
+          "message": "Kapitel-TTR 0.24 bei 3723 Woertern.",
+          "chapter": "017",
+          "scene": 1,
+          "evidence": "TTR=0.24, Woerter=3723",
+          "recommendation": "Wortschatzarmut pruefen.",
+          "source": "deterministic",
+          "current_text": "",
+          "suggested_text": "",
+          "confidence": null,
+          "fixable": null,
+          "position": null
+        }
+      ]
+    }
+  ]
+}

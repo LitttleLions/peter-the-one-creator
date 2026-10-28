@@ -12,19 +12,15 @@ echo === peter-the-one: lokaler Start ===
 echo Arbeitsverzeichnis: %CD%
 echo.
 
-where python >nul 2>&1
-if errorlevel 1 (
-  echo FEHLER: "python" wurde nicht gefunden.
-  echo Bitte Python 3 installieren und sicherstellen, dass es im PATH liegt.
+set "PROJECT_PYTHON=%CD%\.venv\Scripts\python.exe"
+if not exist "%PROJECT_PYTHON%" (
+  echo Projektumgebung .venv fehlt. Bitte zuerst im Repository-Root ausfuehren:
+  echo py -3 -m venv .venv
+  echo .venv\Scripts\python.exe -m pip install -r requirements.txt
   goto :fail
 )
-
-for /f "delims=" %%P in ('where python 2^>nul') do (
-  echo Python ^(PATH^): %%P
-  goto :python_shown
-)
-:python_shown
-python -c "import sys; print('Python aktiv: ' + sys.executable + ' (' + sys.version.split()[0] + ')')"
+"%PROJECT_PYTHON%" -c "import sys; print('Python aktiv: ' + sys.executable + ' (' + sys.version.split()[0] + ')')"
+if errorlevel 1 goto :fail
 echo Dashboard-Ziel: %DASHBOARD_URL%
 echo.
 
@@ -95,20 +91,20 @@ if not exist ".env" (
 
 REM --- Python-Abhaengigkeiten --------------------------------------------
 REM Nicht nur fastapi/uvicorn: start_dashboard importiert u. a. yaml via book_project.
-python -c "import fastapi, uvicorn, yaml, dotenv, httpx, docx, PIL" >nul 2>&1
+"%PROJECT_PYTHON%" -c "import fastapi, uvicorn, yaml, dotenv, httpx, docx, PIL" >nul 2>&1
 if errorlevel 1 (
   echo Python-Abhaengigkeiten fehlen oder sind unvollstaendig.
   echo Installiere aus requirements.txt fuer:
-  python -c "import sys; print(sys.executable)"
-  python -m pip install -r requirements.txt
+  "%PROJECT_PYTHON%" -c "import sys; print(sys.executable)"
+  "%PROJECT_PYTHON%" -m pip install -r requirements.txt
   if errorlevel 1 (
     echo FEHLER: pip install -r requirements.txt ist fehlgeschlagen.
     goto :fail
   )
-  python -c "import fastapi, uvicorn, yaml, dotenv, httpx, docx, PIL" >nul 2>&1
+  "%PROJECT_PYTHON%" -c "import fastapi, uvicorn, yaml, dotenv, httpx, docx, PIL" >nul 2>&1
   if errorlevel 1 (
     echo FEHLER: Kernmodule sind nach der Installation weiterhin nicht importierbar.
-    echo Pruefe, ob "python" und "python -m pip" dieselbe Installation nutzen.
+    echo Pruefe die Projektumgebung .venv.
     goto :fail
   )
   echo Python-Abhaengigkeiten installiert.
@@ -149,7 +145,7 @@ echo.
 REM Browser oeffnen, sobald der Server typischerweise bereit ist (fester Port).
 start "" cmd /c "timeout /t 3 /nobreak >nul && start %DASHBOARD_URL%"
 
-python tools\start_dashboard.py --host %DASHBOARD_HOST% --port %DASHBOARD_PORT%
+"%PROJECT_PYTHON%" tools\start_dashboard.py --host %DASHBOARD_HOST% --port %DASHBOARD_PORT%
 set "EXITCODE=%ERRORLEVEL%"
 
 echo.

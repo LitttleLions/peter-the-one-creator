@@ -793,6 +793,13 @@ def cmd_new(args: argparse.Namespace) -> int:
         chapter_entries = [(f"{idx:03d}", title, body, None) for idx, (title, body) in enumerate(chapters, 1)]
 
     book_id = args.id or slugify(args.title)
+    if args.id and slugify(args.title) != args.id:
+        print(
+            f"Hinweis: --id '{args.id}' weicht von der Titel-Ableitung "
+            f"'{slugify(args.title)}' ab. Kurz-ID bewusst gewaehlt? "
+            "Weiter mit --id bestaetigt die Kurz-ID.",
+            file=sys.stderr,
+        )
     if args.book_root:
         book_root = Path(args.book_root)
         exists = (book_root / "book.yaml").exists()
@@ -855,7 +862,11 @@ def cmd_new(args: argparse.Namespace) -> int:
     )
 
     status_state = new_book_state(book_yaml)
-    for idx, (title, body) in enumerate(chapters, 1):
+    if chapter_entries:
+        chapter_data = [(title, body) for _, title, body, _ in chapter_entries]
+    else:
+        chapter_data = [(title, body) for title, body in chapters]
+    for idx, (title, body) in enumerate(chapter_data, 1):
         words = count_words(body)
         add_chapter(status_state, ChapterState(
             id=f"{idx:03d}", title_ru=title, title_de=title,
@@ -878,9 +889,9 @@ def cmd_new(args: argparse.Namespace) -> int:
         "Zusammenfassung (summary)", "Autorenleben (author_bio)",
     ]
     print(f"Buchpaket angelegt: {book_root}")
-    print(f"Kapitel importiert: {len(chapters)} (je 3 Textkopien)")
-    print(f"state.yaml: {len(chapters)} Eintraege (rf_base = peter_base = Export-Hash)")
-    print(f"status.json: {len(chapters)} Kapitel, Status done")
+    print(f"Kapitel importiert: {len(chapter_data)} (je 3 Textkopien)")
+    print(f"state.yaml: {len(chapter_data)} Eintraege (rf_base = peter_base = Export-Hash)")
+    print(f"status.json: {len(chapter_data)} Kapitel, Status done")
     print(f"lauf: {run_dir}/export.md + report.md")
     print("Offen (nicht erfunden): " + ", ".join(open_items))
     print(

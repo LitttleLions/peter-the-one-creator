@@ -1,7 +1,64 @@
-# Handover – Stand 2026-10-08 (RomanForge-Übernahme Stufe 1/1c auf Branch `cline/pveejb87`, Ashkar I 18→23 Kapitel; sonst wie 2026-09-21: Pharao Print, Chronik KDP-fertig, Aelita LIVE, Anna PARKIERT)
+# Handover – Stand 2026-10-28 (Die Sprache des Anderen verifiziert: 34/34, Gate 0/0/0, EPUB 3,9 MB; Einstieg gehärtet, uncommittet auf Branch `cline/pveejb87`)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei.
 > Kopierfertiger Einstieg: [uebergabe-prompt.md](./uebergabe-prompt.md).
+
+## Letzte Session (2026-10-28, Doppelablage geklärt + Einstieg gehärtet)
+
+Branch **`cline/pveejb87`**, **nicht committet, kein Push**.
+Vor-Session behauptete Buch-ID `sprache-des-anderen` (Stub, 12-Zeilen-`book.yaml`
+ohne `id`/`title`, leere Szenen). Richtig ist **`die-sprache-des-anderen`**
+(`slugify("Die Sprache des Anderen")`, 34 Kapitel, `rf_id` 232–265,
+`state.yaml` + `status.json` 34/34 `done`).
+Falscher Stub `books/sprache-des-anderen/` per Freigabe gelöscht
+(`Remove-Item -Recurse -Force`); in `git status` nicht mehr enthalten.
+Danach am vollständigen Paket verifiziert (lesend + Standard-CLIs,
+kein OpenRouter, keine Bilder):
+
+- `assemble_chapter.py --book die-sprache-des-anderen --all --style stil-01-original`:
+  **34/34 Kapitel, 110.375 Wörter** (eine Zeile `stil-01-original` ohne Szenen
+  erwartbar übersprungen → `34/35` in der Zählung).
+- `review_manuscript.py --all --llm none --fail-on-errors`:
+  **ERROR=0 / WARNING=0 / INFO=0, Exit 0**.
+- `export_manuscript.py --scope book --style stil-01-original --format epub`:
+  `exports/stil-01-original/book/epub/book-die-sprache-des-anderen-stil-01-original-20261028-183226.epub`
+  (**3.917.106 Bytes**), Manifest `partial:false`, `review_gate_errors:0`,
+  `review_gate_bypassed:false`, 34× `missing:[]`.
+- `status.py summary`: **34/34 (100 %) done**.
+- `tests.test_import_markdown_original`: **41/41 OK** (Stand vorige Verifikation).
+- Mit dem Stub sind dessen 4 Placeholder-Bilder (`cover.jpg`,
+  `chapter-001..003.jpg`) entfallen; `die-sprache-des-anderen/assets/` enthält
+  nur leeres `covers/`. `export.yaml` dort ist neutral (Platzhalter-Cover, leere
+  `rights`/`description`/`summary`/`author_bio`, kein `website:`/`marketing:`).
+
+Danach gehärtet (gegen Wiederholung, Plan→Act in derselben Session):
+
+- `AGENTS.md` Einstieg Regeln 2/3/4/5: unbekannte ID → stoppen + Rückfrage
+  (keine Alternativ-ID, kein Zweitordner); keine `SUMMARY*.md` im Root, keine
+  `tools/create_*.py` ohne Freigabe, keine Placeholder-Bilder als Pipeline;
+  Doppelordner → stoppen + Rückfrage, kein Assembly/Export vorher; PowerShell
+  nur `Select-Object -First N`, ein CLI pro Aufruf bei labiler Shell.
+- `tools/lib/book_project.py`: `_suggest_book_id()` (difflib, max. 3, cutoff
+  0.55, read-only); `find_book()` + `book_project()` melden jetzt z. B.
+  `Buch mit id=sprache-des-anderen nicht gefunden, meintest du 'die-sprache-des-anderen'?`.
+- `tools/import_markdown_original.py --new`: Hinweis nach stderr, wenn `--id`
+  von `slugify(title)` abweicht (kein Abbruch, kein Verhalten-Change).
+- `tests/test_book_project.py`: neue `SuggestBookIdTests` (Temp-Paket
+  `die-sprache-des-anderen`, falsche ID muss `meintest du`-Vorschlag werfen).
+
+Offen (nächster Chat, alles lesend zuerst): `unittest`-Läufe
+(`test_book_project`, `test_import_markdown_original`) + `status.py summary`
+in stabiler Shell nachholen (diese Session hing die Shell-Integration:
+`Command completion could not be observed`); danach entscheiden, ob
+Placeholder-Bilder neu oder Higgsfield (`text2image_soul_v2`-Vorgabe lag nur
+im gelöschten Stub) sowie Verlags-/Titelei-Texte in `export.yaml`.
+`SUMMARY.md`/`SUMMARY_FINAL.md` im Root und `tools/create_placeholders.py`
+sind noch ungetrackt vorhanden und sollen gelöscht werden (Regelverstoß,
+kein Commit ohne Freigabe).
+
+## Vorige Session (2026-10-08, Ashkar I: AKTUALISIEREN + Stufe 1c)
+
+Branch **`cline/pveejb87`** (nicht `main`).
 
 ## Letzte Session (2026-10-08, Ashkar I: AKTUALISIEREN + Stufe 1c)
 

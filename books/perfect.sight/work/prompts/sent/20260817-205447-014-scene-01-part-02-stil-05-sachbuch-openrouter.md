@@ -1,0 +1,127 @@
+# Gesendeter Prompt 014
+
+- Zeitstempel: 20260817-205447
+- Provider: openrouter
+- Modell: deepseek/deepseek-v4-flash
+- Stil: stil-05-sachbuch
+- Kapitel: 014
+- Szene: 01
+- Chunk: 02/03
+- Temperatur: 0.4
+- max_tokens: 12000
+- System-Zeichen: 2695
+- User-Zeichen: 10321
+
+## System
+
+Du bist ein literarischer Uebersetzer. Du uebersetzt aus der Ausgangssprache ins Deutsche.
+
+---
+Buch: Perfect Sight Without Glasses (William Horatio Bates, M.D. (1860–1931))
+Sprache: en -> de
+
+### Verbindliches Style-Profil
+
+Das folgende Profil enthaelt verbindliche Stil- und Rekonstruktionsregeln fuer diesen Lauf (stil-05-sachbuch). Die globalen Ausgabe-Regeln und das im Arbeitsauftrag uebermittelte Glossar haben bei Konflikten Vorrang.
+
+Übersetze den englischen Ausgangstext als präzises, ruhiges historisches Sachbuch.
+
+Bewahre vollständig die Argumentation, Reihenfolge, Absätze, Beispiele, Fallberichte,
+Zitate, Zahlen, Tabellenhinweise, Verweise und historischen medizinischen Behauptungen.
+Fasse nichts zusammen und füge keine modernen medizinischen Erklärungen hinzu.
+
+Verwende ein klares, fachlich lesbares Deutsch. Keine literarische Ausschmückung,
+keine werbliche Sprache, keine Dramatisierung und keine erfundenen Zwischenüberschriften.
+Modernisiere Bates’ medizinische Auffassungen nicht stillschweigend und korrigiere sie
+nicht im Übersetzungstext. Die historische Perspektive muss erkennbar bleiben.
+
+Halte die Terminologie aus dem Buch-Glossar konsistent. Besonders wichtig sind
+„Anspannung“ für „strain“, „zentrale Fixation“ für „central fixation“,
+„Akkommodation“ für „accommodation“ und „Refraktion“ für „refraction“.
+Myopie, Hypermetropie/Hyperopie, Astigmatismus, Presbyopie, Amblyopie und Netzhaut
+werden als etablierte deutsche Fachbegriffe verwendet.
+
+Bei historischen Methodenbezeichnungen darf der englische Ausdruck bei der ersten
+Verwendung in Klammern erhalten bleiben, wenn dies die begriffliche Orientierung
+verbessert; danach bleibt die gewählte deutsche Form konsistent.
+
+Erhalte die Unterscheidung zwischen Bates’ eigener Stimme, zitierten Autoritäten,
+Patientenbriefen und Fallberichten. Verändere keine medizinischen Zahlen, Namen,
+Quellenangaben oder Versuchsbedingungen. OCR- oder Quellenfehler dürfen nicht erfunden
+oder kreativ geglättet werden; bei einem unklaren Ausgangstext bleibe möglichst nah am
+vorliegenden Text.
+
+Gib ausschließlich die Übersetzung aus. Keine Vorbemerkung, keine Analyse und keine
+Kommentare außerhalb des übersetzten Textes.
+
+### Harte Ausgabe-Regeln
+
+Diese Regeln haben Vorrang vor widersprechenden Angaben im Style-Profil.
+
+- Gib nur die Uebersetzung aus.
+- Keine Vorbemerkung, keine Zusammenfassung, keine Analyse.
+- Keine Saetze wie 'Hier ist die Uebersetzung'.
+- Keine Markdown-Ueberschriften, Vorabsaetze, Lede, Prologe oder sonstige Struktur-Ergaenzungen erfinden, ausser sie stehen bereits im Quelltext.
+- Inhalt, Reihenfolge und Fakten des Quelltexts bleiben erhalten; nichts ergaenzen, das nicht im Quelltext steht.
+
+## User
+
+Uebersetze den folgenden Text ins Deutsche.
+
+### Buch
+- Titel: Perfect Sight Without Glasses
+- Autor: William Horatio Bates, M.D. (1860–1931)
+- Stil: stil-05-sachbuch
+- Style-Profil: books\perfect.sight\styles\stil-05-sachbuch.md
+- Das Style-Profil steht im System-Prompt und ist verbindlich.
+
+### Verbindliche Namen und Begriffe
+
+Nutze diese Schreibweisen, wenn die genannten Personen oder Begriffe im Quelltext vorkommen. Nicht aufgefuehrte Personen-, Stammes-, Orts- und Titelnamen werden konservativ transliteriert oder im Zweifel in der erkennbaren Quellform beibehalten.
+- strain -> Anspannung
+- central fixation -> zentrale Fixation
+- accommodation -> Akkommodation
+- refraction -> Refraktion
+- myopia -> Myopie
+- hypermetropia -> Hypermetropie
+- hyperopia -> Hyperopie
+- astigmatism -> Astigmatismus
+- presbyopia -> Presbyopie
+- amblyopia -> Amblyopie
+- squint -> Schielen
+- palming -> Palming (Abdecken der Augen mit den Händen)
+- shifting -> Shifting (Verschieben des Blicks)
+- sunning -> Sunning (Sonnenübung)
+- retina -> Netzhaut
+- optic nerve -> Sehnerv
+
+### Zu uebersetzender Text
+
+Interne Arbeitsportion 2/3 derselben Szene. Uebersetze nur diesen Abschnitt fortlaufend ins Deutsche. Keine neue Szenenueberschrift erzeugen.
+
+If the relaxation gained under these favorable conditions is perfect, the patient will be able to retain it when the mind is conscious of the impressions of sight at unfavorable distances. Such cases are, however, very rare. Usually the degree of relaxation gained is markedly imperfect, and is, therefore, lost to a greater or less degree when the conditions are unfavorable, as when letters or objects are being regarded at unfavorable distances. So disturbing are the impressions of sight under these circumstances, that just as soon as details begin to come out at distances at which they have not previously been seen, the patient usually loses his relaxation, and with it the memory of the period. In fact, the strain to see may even return before he has had time to become conscious of the image on his retina, as the following case strikingly illustrates:
+
+A woman of fifty-five who had myopia of fifteen diopters, complicated with other conditions which made it impossible for her to see the big C at more than one foot, or to go about, either in her house or on the street, without an attendant, became able, when she looked at a green wall without trying to see it, to remember a perfectly black period and to see a small area of the wall-paper at the distance as well as she could at the near-point. When she had come close to the wall, she was asked to put her hand on the door-knob, which she did without hesitation. "But I don't see the knob," she hastened to explain. As a matter of fact she had seen it long enough to put her hand on it; but as soon as the idea of seeing it was suggested to her she lost the memory of the period, and with it her improved vision, and when she again tried to find the knob she could not do so.
+
+When a period is remembered perfectly while a letter on the Snellen test card is being regarded, the letter improves, with or without the consciousness of the patient; because it is impossible to strain and relax at the same time, and if one relaxes sufficiently to remember the period, one must also relax sufficiently to see the letter, consciously or unconsciously. Letters on either side of the one regarded, or on the lines above and below it, also improve. When the patient is conscious of seeing the letters, this is very distracting, and usually causes him, at first, to forget the period; while with some patients, as already noted the strain may return even before the letters are consciously recognized.
+
+Thus patients find themselves on the horns of a dilemma. The relaxation indicated by the memory of a period improves their sight, and the things they see with this improved vision cause them to lose their relaxation and their memory. It is very remarkable to me how the difficulty is ever overcome, but some patients are able to do it in five minutes or half an hour. With: others the process is long and tedious.
+
+There are various ways of helping patients to deal with this situation. One is to direct them to remember the period while looking a little to one side of the test card, say a foot or more; then to look a little nearer to it, and finally to look between the lines. In this way they may become able to see the letters in the eccentric field without losing the period; and when they can do this they may become able to go a step farther, and look directly at a letter without losing control of their memory. If they cannot do it, they are told to look at only one part of a letter - usually the bottom - or to see or imagine the period as part of the letter, while noting that the rest of the letter is less black and less distinct than the part directly regarded- When they can do this they become able to remember the period better than when the letter is seen all alike. If the letter is seen all alike, the perfect memory of the period is always lost. The next step is to ask the patient to note whether the bottom of the letter is straight, curved, or open, without losing the period on the bottom. When he can do this, he is asked to do the same with the sides and top of the letter, still holding the period on the bottom. Usually when the parts can be observed separately in this way, the whole letter can be seen without losing the memory of the period; but it occasionally happens that this is not the case, and further practice is needed before the patient can become conscious of all sides of the letter at once without losing the period. This may require moments, hours, days, or months. In one case the following method succeeded:
+
+The patient, a man with fifteen diopters of myopia, was so much disturbed by what he saw when his vision had been improved by the memory of a period that he was directed to look away from the Snellen test card, or whatever object he was regarding, when he found the letters or other details coming out; and for about a week he went around persistently dodging his improved sight. As his memory improved, it became more and more difficult for him to do this, and at the end of the week it was impossible. When he looked at the bottom line at a distance of twenty feet he remembered the period perfectly, and when asked if he could see the letters, he replied:
+
+"I cannot help but see them."
+
+Some patients retard their recovery by decorating the scenery with periods as they go about during the day, instead of simply remembering a period in their minds. This does them no good, but is, on the contrary, a cause of strain. The period can be imagined perfectly and with benefit as forming part of a black letter on the test card, because this merely means imagining that one sees one part of the black letter best; but it cannot be imagined perfectly on any surface which is not black, and to attempt to imagine it on such surfaces defeats the end in view.
+
+The smaller the area of black which the patient is able to remember, the greater is the degree of relaxation indicated; but some patients find it easier, at first, to remember a somewhat larger area, such as one of the letters on the Snellen test card with one part blacker than the rest. They may begin with the big C, then proceed to the smaller letters, and finally get to a period. It is then found that this small area is remembered more easily than the larger ones, and that its black is more intense. Instead of a period, some patients find it easier to remember a colon, with one period blacker than the other, or a collection of periods, with one blacker than all the others, or the dot over an i or j. Others, again, prefer a comma to a period. In the beginning most patients find it helpful to shift consciously from one of these black areas to another, or from one part of such an area to another, and to realize the swing, or pulsation, produced by such shifting (see Chapter XV); but when the memory becomes perfect, one object may be held continuously, without conscious shifting, while the swing is realized only when attention is directed to the matter.
+
+Although black is, as a rule, the best color to remember, some patients are bored or depressed by it, and prefer to remember white or some other color. A familiar object, or one with pleasant associations, is often easier to remember than one which has no particular interest. One patient was cured by the memory of a yellow buttercup, and another was able to remember the opal of her ring when she could not remember a period. Whatever the patient finds easiest to remember is the best to remember, because the memory can never be perfect unless it is easy.
+
+When the memory of the period becomes habitual, it is not only not a burden, but is a great help to other mental processes. The mind, when it remembers one thing better than all other things, possesses central fixation, and its efficiency is thereby increased, just as the efficiency of the eye is increased by central fixation. In other words, the mind attains its greatest efficiency when it is at rest, and it is never at rest unless one thing is remembered better than all other things. When the mind is in such a condition that a period is remembered perfectly, the memory for other things is improved.
+
+A high-school girl reports that when she was unable to remember the answer to a question in an examination, she remembered the period, and the answer came to her. When I cannot remember the name of a patient, I remember a period - and, behold, I have it! A musician who had perfect sight and could remember a period perfectly, had a perfect memory for music; but a musician with imperfect sight who could not remember a period could play nothing without his notes, only gaining that power when his sight and visual memory had become normal. In some exceptional cases, the strain to see letters on the Snellen test card has been so terrific that patients have said that they not only could not remember a period while they were looking at them, but could not remember even their own names.
+
+### Ausgabe
+Gib ausschliesslich die fertige deutsche Uebersetzung aus. Keine Vorbemerkung, keine Analyse, keine Erklaerung, keine Formulierung wie 'Hier ist die Uebersetzung'.

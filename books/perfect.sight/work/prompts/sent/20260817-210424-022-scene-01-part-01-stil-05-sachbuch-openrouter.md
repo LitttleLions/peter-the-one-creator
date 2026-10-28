@@ -1,0 +1,126 @@
+# Gesendeter Prompt 022
+
+- Zeitstempel: 20260817-210424
+- Provider: openrouter
+- Modell: deepseek/deepseek-v4-flash
+- Stil: stil-05-sachbuch
+- Kapitel: 022
+- Szene: 01
+- Chunk: 01/02
+- Temperatur: 0.4
+- max_tokens: 12000
+- System-Zeichen: 2695
+- User-Zeichen: 9496
+
+## System
+
+Du bist ein literarischer Uebersetzer. Du uebersetzt aus der Ausgangssprache ins Deutsche.
+
+---
+Buch: Perfect Sight Without Glasses (William Horatio Bates, M.D. (1860–1931))
+Sprache: en -> de
+
+### Verbindliches Style-Profil
+
+Das folgende Profil enthaelt verbindliche Stil- und Rekonstruktionsregeln fuer diesen Lauf (stil-05-sachbuch). Die globalen Ausgabe-Regeln und das im Arbeitsauftrag uebermittelte Glossar haben bei Konflikten Vorrang.
+
+Übersetze den englischen Ausgangstext als präzises, ruhiges historisches Sachbuch.
+
+Bewahre vollständig die Argumentation, Reihenfolge, Absätze, Beispiele, Fallberichte,
+Zitate, Zahlen, Tabellenhinweise, Verweise und historischen medizinischen Behauptungen.
+Fasse nichts zusammen und füge keine modernen medizinischen Erklärungen hinzu.
+
+Verwende ein klares, fachlich lesbares Deutsch. Keine literarische Ausschmückung,
+keine werbliche Sprache, keine Dramatisierung und keine erfundenen Zwischenüberschriften.
+Modernisiere Bates’ medizinische Auffassungen nicht stillschweigend und korrigiere sie
+nicht im Übersetzungstext. Die historische Perspektive muss erkennbar bleiben.
+
+Halte die Terminologie aus dem Buch-Glossar konsistent. Besonders wichtig sind
+„Anspannung“ für „strain“, „zentrale Fixation“ für „central fixation“,
+„Akkommodation“ für „accommodation“ und „Refraktion“ für „refraction“.
+Myopie, Hypermetropie/Hyperopie, Astigmatismus, Presbyopie, Amblyopie und Netzhaut
+werden als etablierte deutsche Fachbegriffe verwendet.
+
+Bei historischen Methodenbezeichnungen darf der englische Ausdruck bei der ersten
+Verwendung in Klammern erhalten bleiben, wenn dies die begriffliche Orientierung
+verbessert; danach bleibt die gewählte deutsche Form konsistent.
+
+Erhalte die Unterscheidung zwischen Bates’ eigener Stimme, zitierten Autoritäten,
+Patientenbriefen und Fallberichten. Verändere keine medizinischen Zahlen, Namen,
+Quellenangaben oder Versuchsbedingungen. OCR- oder Quellenfehler dürfen nicht erfunden
+oder kreativ geglättet werden; bei einem unklaren Ausgangstext bleibe möglichst nah am
+vorliegenden Text.
+
+Gib ausschließlich die Übersetzung aus. Keine Vorbemerkung, keine Analyse und keine
+Kommentare außerhalb des übersetzten Textes.
+
+### Harte Ausgabe-Regeln
+
+Diese Regeln haben Vorrang vor widersprechenden Angaben im Style-Profil.
+
+- Gib nur die Uebersetzung aus.
+- Keine Vorbemerkung, keine Zusammenfassung, keine Analyse.
+- Keine Saetze wie 'Hier ist die Uebersetzung'.
+- Keine Markdown-Ueberschriften, Vorabsaetze, Lede, Prologe oder sonstige Struktur-Ergaenzungen erfinden, ausser sie stehen bereits im Quelltext.
+- Inhalt, Reihenfolge und Fakten des Quelltexts bleiben erhalten; nichts ergaenzen, das nicht im Quelltext steht.
+
+## User
+
+Uebersetze den folgenden Text ins Deutsche.
+
+### Buch
+- Titel: Perfect Sight Without Glasses
+- Autor: William Horatio Bates, M.D. (1860–1931)
+- Stil: stil-05-sachbuch
+- Style-Profil: books\perfect.sight\styles\stil-05-sachbuch.md
+- Das Style-Profil steht im System-Prompt und ist verbindlich.
+
+### Verbindliche Namen und Begriffe
+
+Nutze diese Schreibweisen, wenn die genannten Personen oder Begriffe im Quelltext vorkommen. Nicht aufgefuehrte Personen-, Stammes-, Orts- und Titelnamen werden konservativ transliteriert oder im Zweifel in der erkennbaren Quellform beibehalten.
+- strain -> Anspannung
+- central fixation -> zentrale Fixation
+- accommodation -> Akkommodation
+- refraction -> Refraktion
+- myopia -> Myopie
+- hypermetropia -> Hypermetropie
+- hyperopia -> Hyperopie
+- astigmatism -> Astigmatismus
+- presbyopia -> Presbyopie
+- amblyopia -> Amblyopie
+- squint -> Schielen
+- palming -> Palming (Abdecken der Augen mit den Händen)
+- shifting -> Shifting (Verschieben des Blicks)
+- sunning -> Sunning (Sonnenübung)
+- retina -> Netzhaut
+- optic nerve -> Sehnerv
+
+### Zu uebersetzender Text
+
+Interne Arbeitsportion 1/2 derselben Szene. Uebersetze nur diesen Abschnitt fortlaufend ins Deutsche. Keine neue Szenenueberschrift erzeugen.
+
+## Chapter 21: Squint and Amblyopia: Their Cause
+
+CHAPTER XXI - SQUINT AND AMBLYOPIA: THEIR CAUSE
+
+SINCE we have two eyes, it is obvious that in the act of sight two pictures must be formed; and in order that these two-pictures shall be fused into one by the mind, it is necessary that there shall be perfect harmony of action between the two organs of vision. In looking at a distant object the two visual axes must be parallel, and in looking at an object at a less distance than infinity, which for practical purposes is less than twenty feet, they must converge to exactly the same degree. The absence of this harmony of action is known as squint, or strabismus and is one of the most distressing of eye defects, not only because of the lowering of vision involved, but because the want of symmetry in the most expressive feature of the face which results from it has a most unpleasant effect upon the personal appearance. The condition is one which has long baffled ophthalmological science. While the theories as to its cause advanced in the text-books seem to fit some cases, they leave others unexplained, and all methods of treatment are admitted to be very uncertain in their results.
+
+The idea that a lack of harmony in the movements of the eye is due to a corresponding lack of harmony in the strength of the muscles that turn them in their sockets seems such a natural one that this theory was almost universally accepted at one time. Operations based upon it once had a great vogue; but to-day they are advised, by most authorities, only as a last resort. It is true that many persons have benefited by them; but at best the correction of the squint is only approximate, and in many cases the condition has been made worse, while a restoration of binocular vision - the power of fusing the two visual images into one - is scarcely even hoped for.
+
+The muscle theory fitted the facts so badly that when Donders advanced the idea that squint was a condition growing out of refractive errors - hypermetropia being held responsible for the production of convergent and myopia for divergent squint - it was universally accepted. This theory, too, proved unsatisfactory, and now medical opinion is divided between various theories. Hansen-Grut attributed the condition, in the great majority of cases, to a defect, not of the muscles, but of the nerve supply; and this idea has had many supporters. Worth and his disciples lay stress on the lack of a so-called fusion faculty, and have recommended the use of prisms, or other measures, to develop it. Stevens believes that the anomaly results from a wrong shape of the orbit, and as it is impossible to alter this condition, advocates operations for the purpose of neutralizing its influence.
+
+In order to make any of these theories appear consistent it is necessary to explain away a great many troublesome facts. The uncertain result of operations upon the eye muscles is sufficient to cast suspicion on the theory that the condition is due to any abnormality of the muscles, and many cases of marked paralysis of one or more muscles have been observed in which there was no squint. Relief of paralysis, moreover, may not relieve the squint, nor the relief of the squint the paralysis. Worth found so many cases which were not benefited by training designed to improve the fusion faculty that he recommended operations on the muscles in such cases; while Donders, noting that the majority of hypermetropes did not squint, was obliged to assume that hypermetropia did not cause this condition without the aid of co-operating circumstances.
+FIG. 53
+No. 1. - Reading the Snellen test card with normal vision; visual axes parallel.
+No. 2. - The same patient making an effort to see the test card; myopia and convergent squint of the left eye have been produced.
+
+That the state of the vision is not an important factor in the production of squint is attested by a multitude of facts. It is true, as Donders observed, that squint is usually associated with errors of refraction; but some people squint with a very slight error of refraction. It is also true that many persons with convergent squint have hypermetropia; but many others have not. Some persons with convergent squint have myopia. A person may also have convergent squint with one eye normal and one hypermetropic or myopic, or with one eye blind. Usually the vision of the eye that turns in is less than that of the eye which is straight; yet there are cases in which the eye with the poorer vision is straight and the eye with the better vision turned in. With two blind eyes, both eyes may be straight, or one may turn in. With one good eye and one blind eye, both eyes may be straight. The blinder the eye, as a rule, the more marked the squint; but exceptions are frequent, and in rare cases an eye with nearly normal vision may turn in persistently. A squint may disappear and return again, while convergent squint will change into divergent squint and back again. With the same error of refraction, one person will have squint and the other not. A third will squint with a different eye. A fourth will squint first with one eye and then with the other. In a fifth the amount of the squint will vary. One will get well without glasses, or other treatment, and another with these things. These cures may be temporary, or permanent, and the relapses may occur either with or without glasses.
+
+However slight the error of refraction, the vision of many squinting eyes is inferior to that of the straight eye, and for this condition, usually, no apparent or sufficient cause can be found in the constitution of the eye. There is a difference of opinion as to whether this curious defect of vision is the result of the squint, or the squint the result of the defect of vision; but the predominating opinion that it is, at least, aggravated by the squint has been crystallized in the name given to the condition, namely, amblyopia ex anopsia, literally dimsightedness from non-use - for in order to avoid the annoyance of double vision the mind is believed to suppress the image of the deviating eye. There are, however, many squinting eyes without amblyopia, while such a condition has been found in eyes that have never squinted.
+
+The literature of the subject is full of the impossibility of curing amblyopia, and in popular writings persons having the care of children are urged to have cases of squint treated early, so that the vision of the squinting eye may not be lost. According to Worth, not much improvement can ordinarily be obtained in amblyopic eyes after the age of six, while Fuchs says, "The function of the retina never again becomes perfectly normal, even if the cause of the visual disturbance is done away with." Yet it is well known, as the translator of Fuchs points out in an editorial comment upon the above statement, that if the sight of the good eye is lost at any period of life, the vision of the amblyopic eye will often become normal. Furthermore, an eye may be amblyopic at one time and not at another. When the good eye is covered a squinting eye may be so amblyopic that it can scarcely distinguish daylight from darkness; but when both eyes are open, the vision of the squinting eye may be found to be as good as that of the straight eye, if not better. In many cases, too, the amblyopia will change from one eye to the other.
+
+Double vision occurs very seldom in squint, and when it does it often assumes very curious forms. When the eyes turn in the image seen by the right eye should, according to all the laws of optics, be to the right, and the image seen by the left eye to the left. When the eyes turn out the opposite should be the case. But often the position of the images is reversed, the image of the right eye in convergent squint being seen to the left and that of the left eye to the right, while in divergent squint the opposite is the case. This condition is known as paradoxical diplopia.. Furthermore, persons with almost normal vision and both eyes perfectly straight may have both kinds of double vision.
+
+### Ausgabe
+Gib ausschliesslich die fertige deutsche Uebersetzung aus. Keine Vorbemerkung, keine Analyse, keine Erklaerung, keine Formulierung wie 'Hier ist die Uebersetzung'.

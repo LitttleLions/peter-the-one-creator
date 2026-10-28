@@ -1,0 +1,22 @@
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 008
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+
+-> 008 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 1468 Woerter EN)...
+   -> Prompt archiviert: prompts\sent\20260817-204819-008-scene-01-stil-05-sachbuch-openrouter.md
+   Tokens: prompt_tokens=2887, completion_tokens=3048, total_tokens=5935, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786992499-EOmq1VEajyF7VW2lYuZE, Response-Created=1786992499, Finish-Reason=stop
+   -> scenes\de\stil-05-sachbuch\008\scene-01.md (1346 Woerter DE)
+API-Prompts archiviert: 1 unter prompts/sent/ (Stamp 20260817-204819)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\008.log.md
+-> 008 = needs_review
+
+Fertig.

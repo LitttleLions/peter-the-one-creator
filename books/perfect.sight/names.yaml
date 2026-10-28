@@ -1,0 +1,67 @@
+entries:
+  - source: strain
+    target: Anspannung
+    type: term
+    status: draft
+    note: Bates’ historischer Zentralbegriff; je nach Kontext nicht automatisch mit Überanstrengung ersetzen.
+  - source: central fixation
+    target: zentrale Fixation
+    type: term
+    status: draft
+    note: Als Fachbegriff konsistent halten.
+  - source: accommodation
+    target: Akkommodation
+    type: term
+    status: draft
+  - source: refraction
+    target: Refraktion
+    type: term
+    status: draft
+  - source: myopia
+    target: Myopie
+    type: term
+    status: draft
+  - source: hypermetropia
+    target: Hypermetropie
+    type: term
+    status: draft
+  - source: hyperopia
+    target: Hyperopie
+    type: term
+    status: draft
+  - source: astigmatism
+    target: Astigmatismus
+    type: term
+    status: draft
+  - source: presbyopia
+    target: Presbyopie
+    type: term
+    status: draft
+  - source: amblyopia
+    target: Amblyopie
+    type: term
+    status: draft
+  - source: squint
+    target: Schielen
+    type: term
+    status: draft
+  - source: palming
+    target: Palming (Abdecken der Augen mit den Händen)
+    type: term
+    status: draft
+  - source: shifting
+    target: Shifting (Verschieben des Blicks)
+    type: term
+    status: draft
+  - source: sunning
+    target: Sunning (Sonnenübung)
+    type: term
+    status: draft
+  - source: retina
+    target: Netzhaut
+    type: term
+    status: draft
+  - source: optic nerve
+    target: Sehnerv
+    type: term
+    status: draft

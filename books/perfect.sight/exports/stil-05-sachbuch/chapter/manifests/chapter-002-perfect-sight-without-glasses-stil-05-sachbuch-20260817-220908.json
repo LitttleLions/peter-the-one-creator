@@ -1,0 +1,32 @@
+{
+  "book_id": "perfect.sight",
+  "book_title": "Perfect Sight Without Glasses",
+  "style": "stil-05-sachbuch",
+  "scope": "chapter",
+  "chapter": "002",
+  "format": "epub",
+  "partial": false,
+  "created_at": "2026-08-17T22:09:08",
+  "chapters": [
+    {
+      "id": "002",
+      "scenes": 1,
+      "missing": []
+    }
+  ],
+  "outputs": [
+    "books\\perfect.sight\\exports\\stil-05-sachbuch\\chapter\\epub\\chapter-002-perfect-sight-without-glasses-stil-05-sachbuch-20260817-220908.epub"
+  ],
+  "work_markdown": "books\\perfect.sight\\exports\\stil-05-sachbuch\\chapter\\work\\chapter-002-perfect-sight-without-glasses-stil-05-sachbuch-20260817-220908.md",
+  "work_pdf_html": null,
+  "work_pdf_css": null,
+  "cover": "books\\perfect.sight\\assets\\covers\\cover.png",
+  "illustrations": [
+    {
+      "kind": "chapter",
+      "chapter": "002",
+      "scene": null,
+      "path": "books\\perfect.sight\\assets\\chapter\\chapter-002.jpeg"
+    }
+  ]
+}

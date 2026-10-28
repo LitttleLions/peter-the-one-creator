@@ -1,0 +1,109 @@
+# Chapter 15: Shifting and Swinging
+
+*Buch: Perfect Sight Without Glasses*
+*Kapitel-ID: 016*
+
+---
+
+CHAPTER XV - SHIFTING AND SWINGING
+
+WHEN the eye with normal vision regards a letter either at the nearpoint or at the distance, the letter may appear to pulsate, or to move in various directions, from side to side, up and down, or obliquely. When it looks from one letter to another on the Snellen test card, or from one side of a letter to another, not only the letter, but the whole line of letters and the whole card, may appear to move from side to side. This apparent movement is due to the shifting of the eye, and is always in a direction contrary to its movement. If one looks at the top of a letter, the letter is below the line of vision, and, therefore, appears to move downward. If one looks at the bottom, the letter is above the line of vision and appears to move upward. If one looks to the left of the letter, it is to the right of the line of vision and appears to move to the right. If one looks to the right, it is to the left of the line of vision and appears to move to the left.
+
+Persons with normal vision are rarely conscious of this illusion, and may have difficulty in demonstrating it; but in every case that has come under my observation they have always become able, in a longer or shorter time, to do so. When the sight is imperfect the letters may remain stationary, or even move in the same direction as the eye.
+
+It is impossible for the eye to fix a point longer than a fraction of a second. If it tries to do so, it begins to strain and the vision is lowered. This can readily be demonstrated by trying to hold one part of a letter for an appreciable length of time. No matter how good the sight, it will begin to blur, or even disappear, very quickly, and sometimes the effort to hold it will produce pain. In the case of a few exceptional people a point may appear to be held for a considerable length of time; the subjects themselves may think that they are holding it; but this is only because the eye shifts unconsciously, the movements being so rapid that objects seem to be seen all alike simultaneously.
+
+The shifting of the eye with normal vision is usually not conspicuous, but by direct examination with the ophthalmoscope it can always be demonstrated. If one eye is examined with this instrument while the other is regarding a small area straight ahead, the eye being examined, which follows the movements of the other, is seen to move in various directions, from side to side, up and down in an orbit which is usually variable. If the vision is normal these movements are extremely rapid and unaccompanied by any appearance of effort. The shifting of the eye with imperfect sight, on the contrary, is slower, its excursions are wider, and the movements are jerky and made with apparent effort.
+
+It can also be demonstrated that the eye is capable of shifting with a rapidity which the ophthalmoscope cannot measure. The normal eye can read fourteen letters on the bottom line of a Snellen test card, at a distance of ten or fifteen feet, in a dim light, so rapidly that they seem to be seen all at once. Yet it can be demonstrated that in order to recognize the letters under these conditions it is necessary to make about four shifts to each letter. At the near-point, even though one part of the letter is seen best, the rest may be seen well enough to be recognized; but at the distance it is impossible to recognize the letters unless one shifts from the top to the bottom and from side to side. One must also shift from one letter to another, making about seventy shifts in a fraction of a second.
+
+A line of small letters on the Snellen test card may be less than a foot long by a quarter of an inch in height; and if it requires seventy shifts to a fraction of a second to see it apparently all at once, it must require many thousands to see an area of the size of the screen of a moving picture, with all its detail of people, animals, houses, or trees, while to see sixteen such areas to a second, as is done in viewing moving pictures, must require a rapidity of shifting that can scarcely be realized. Yet it is admitted that the present rate of taking and projecting moving pictures is too slow. The results would be more satisfactory, authorities say, if the rate were raised to twenty, twenty-two, or twenty-four a second.
+
+The human eye and mind are not only capable of this rapidity of action, and that without effort or strain, but it is only when the eye is able to shift thus rapidly that eye and mind are at rest, and the efficiency of both at their maximum. It is true that every motion of the eye produces an error of refraction; but when the movement is short, this is very slight, and usually the shifts are so rapid that the error does not last long enough to be detected by the retinoscope, its existence being demonstrable only by reducing the rapidity of the movements to less than four or five a second. The period during which the eye is at rest is much longer than that during which an error of refraction is produced. Hence, when the eye shifts normally no error of refraction is manifest. The more rapid the unconscious shifting of the eye, the better the vision; but if one tries to be conscious of a too rapid shift, a strain will be produced.
+
+Perfect sight is impossible without continual shifting, and such shifting is a striking illustration of the mental control necessary for normal vision. It requires perfect mental control to think of thousands of things in a fraction of a second; and each point of fixation has to be thought of separately, because it is impossible to think of two things, or of two parts of one thing, perfectly at the same time. The eye with imperfect sight tries to accomplish the impossible by looking fixedly at one point for an appreciable length of time; that is, by staring. When it looks at a strange letter and does not see it, it keeps on looking at it in an effort to see it better. Such efforts always fail, and are an important factor in the production of imperfect sight.
+
+One of the best methods of improving the sight, therefore, is to imitate consciously the unconscious shifting of normal vision and to realize the apparent motion produced by such shifting. Whether one has imperfect or normal sight, conscious shifting and swinging are a great help and advantage to the eye; for not only may imperfect sight be improved in this way, but normal sight may be improved also. When the sight is imperfect, shifting, if done properly, rests the eye as much as palming, and always lessens or corrects the error of refraction.
+
+The eye with- normal sight never attempts to hold a point more than a fraction of a second, and when it shifts, as explained in the chapter on "Central Fixation," it always sees the previous point of fixation worse. When it ceases to shift rapidly and to see the point shifted from worse, the sight ceases to be normal, the swing being either prevented or lengthened, or (occasionally) reversed. These facts are the keynote of the treatment by shifting.
+
+In order to see the previous point of fixation worse, the eye with imperfect sight has to look farther away from it than does the eye with normal sight. If it shifts only a quarter of an inch, for instance, it may see the previous point of fixation as well as or better than before; and instead of being rested by such a shift, its strain will be increased, there will be no swing, and the vision will be lowered. At a couple of inches it may be able to let go of the first point; and if neither point is held more than a fraction of a second, it will be rested by such a shift and the illusion of swinging may be produced. The shorter the shift the greater the benefit; but even a very long shift - as much as three feet or more - is a help to those who cannot accomplish a shorter one. When the patient is capable of a short shift, on the contrary, the long shift lowers the vision. The swing is an evidence that the shifting is being done properly, and when it occurs the vision is always improved. It is possible to shift without improvement; but it is impossible to produce the illusion of a swing without improvement, and when this can be done with a long shift, the movement can gradually be shortened until the patient can shift from the top to the bottom of the smallest letter, on the Snellen test card or elsewhere, and maintain the swing. Later he may become able to be conscious of the swinging of the letters without conscious shifting.
+
+No matter how imperfect the sight, it is always possible to shift and produce a swing, so long as the previous point of fixation is seen worse. Even diplopia and polyopia do not prevent swinging with some improvement of vision. Usually the eye with imperfect vision is able to shift from one side of the card to the other, or from a point above the card to a point below it, and observe that in the first case the card appears to move from side to side, while in the second it appears to move up and down.
+
+When patients are suffering from high degrees of eccentric fixation, it may be necessary, in order to help them to see worse when they shift, to use some of the methods described in the chapter on "Central Fixation." Usually, however, patients who cannot see worse when they shift at the distance can do it readily at the near-point, as the sight is best at that point, not only in myopia, but often in hypermetropia as well. When the swing can be produced at the near point, the distance can be gradually increased until the same thing can be done at twenty feet.
+
+After resting the eyes by closing or palming, shifting and swinging are often more successful. By this method of alternately resting the eyes and then shifting, persons with very imperfect sight have sometimes obtained a temporary or permanent cure in a few weeks.
+
+Shifting may be done slowly or rapidly, according to the state of the vision. At the beginning the patient will be likely to strain if he shifts too rapidly; and then the point shifted from will not be seen worse, and there will be no swing. As improvement is made, the speed can be increased. It is usually impossible, however, to realize the swing if the shifting is more rapid than two or three times a second.
+
+A mental picture of a letter can, as a rule, be made to swing precisely as can a letter on the test card. Occasionally one meets a patient with whom the reverse is true; but for most patients the mental swing is easier at first than visual swinging; and when they become able to swing in this way, it becomes easier for them to swing the letters on the test card. By alternating mental with visual swinging and shifting, rapid progress is sometimes made. As relaxation becomes more perfect, the mental swing can be shortened, until it becomes possible to conceive and swing a letter the size of a period in a newspaper. This is easier, when it can be done, than swinging a larger letter, and many patients have derived great benefit from it.
+
+All persons, no matter how great their error of refraction, when they shift and swing successfully, correct it partially or completely, as demonstrated by the retinoscope, for at least a fraction of a second. This time may be so short that the patient is not conscious of improved vision; but it is possible for him to imagine it, and then it becomes easier to maintain the relaxation long enough to be conscious of the improved sight. For instance, the patient, after looking away from the card, may look back to the big C, and for a fraction of a second the error of refraction may be lessened or corrected, as demonstrated by the retinoscope. Yet he may not be conscious of improved vision. By imagining that the C is seen better, however, the moment of relaxation may be sufficiently prolonged to be realized.
+
+When swinging, either mental or visual, is successful, the patient may become conscious of a feeling of relaxation which is manifested as a sensation of universal swinging. This sensation communicates itself to any object of which the patient is conscious. The motion may be imagined in any part of the body to which the attention is directed. It may be communicated to the chair in which the patient is sitting, or to any object in the room, or elsewhere, which is remembered. The building, the city, the whole world, in fact, may appear to be swinging. When the patient becomes conscious of this universal swinging, he loses the memory of the object with which it started; but so long as he is able to maintain the movement in a direction contrary to the original movement of the eyes, or the movement imagined by the mind, relaxation is maintained. If the direction is changed, however, strain results. To imagine the universal swing with the eyes closed is easy, and some patients soon become able to do it with the eyes open. Later the feeling of relaxation which accompanies the swing may be realized without consciousness of the latter; but the swing can always be produced when the patient thinks of it.
+
+There is but one cause of failure to produce a swing, and that is strain. Some people try to make the letters swing by effort. Such efforts always fail. The eyes and mind do not swing the letters; they swing of themselves. The eye can shift voluntarily. This is a muscular act resulting from a motor impulse. But the swing comes of its own accord when the shifting is normal. It does not produce relaxation, but is an evidence of it; and while of no value in itself is, like the period, very valuable as an indication that relaxation is being maintained.
+
+The following methods of shifting have been found useful in various cases:
+
+*No. 1 - 
+**(a) Regard a letter.
+**(b) Shift to a letter on the same line far enough away so that the first is seen worse.
+**(c) Look back at No. l and see No. 2 worse.
+**(d) Look at the letters alternately for a few seconds, seeing worse the one not regarded.
+
+When successful, both letters improve and appear to move from side to side in a direction opposite to the movement of the eye.
+
+*No. 2 - 
+**(a) Look at a large letter.
+**(b) Look at a smaller one a long distance away from it. The large one is then seen worse.
+**(c) Look back and see it better.
+**(d) Repeat half a dozen times.
+
+When successful, both letters improve, and the card appears to move up and down.
+
+*No. 3 - 
+
+Shifting by the above methods enables the patient to see one letter on a line better than the other letters, and, usually, to distinguish it in flashes. In order to see the letter continuously it is necessary to become able to shift from the top to the bottom, or from the bottom to the top, seeing worse the part not directly regarded, and producing the illusion of a vertical swing.
+
+**(a) Look at a point far enough above the top of the letter to see the bottom, or the whole letter worse.
+**(b) Look at a point far enough below the bottom to see the top, or the whole letter, worse.
+**(c) Repeat half a dozen times.
+
+If successful, the letter will appear to move up and down, and the vision will improve. The shift can then be shortened until it becomes possible to shift between the top and the bottom of the letter and maintain the swing. The letter is now seen continuously. If the method fails, rest the eyes, palm, and try again.
+
+One may also practice by shifting from one side of the letter to a point beyond the other side, or from one corner to a point beyond the other corner.
+
+*No. 4 - 
+**(a) Regard a letter at the distance at which it is seen best. In myopia this will be at the near-point, a foot or less from the face. Shift from the top to the bottom until able to see each worse alternately, when the letter will appear blacker than before, and an illusion of swinging will be produced.
+**(b) Now close the eyes, and shift from the top to the bottom of the letter mentally.
+**(c) Regard a blank wall with the eyes open, and do the same. Compare the ability to shift and swing mentally with the ability to do the same visually at the near-point.
+**(d) Then regard the letter at the distance, and shift from the top to the bottom. If successful, the letter will improve, and an illusion of swinging will be produced.
+
+*No. 5 - 
+
+Some patients, particularly children, are able to see better when one points to the letters. In other cases
+this is a distraction. When the method is found successful one can proceed as follows:
+
+**(a) Place the tip of the finger three or four inches below the letter. Let the patient regard the letter, and shift to the tip of the finger, seeing the letter worse.
+**(b) Reduce the distance between the finger and the letter, first to two or three inches, then to one or two, and finally to half an inch, proceeding each time as in (a).
+
+If successful, the patient will become able to look from the top to the bottom of the letter, seeing each worse alternately, and producing the illusion of swinging. It will then be possible to see the letter continuously.
+
+*No. 6 - 
+
+When the vision is imperfect it often happens that, when the patient looks at a small letter, some of the larger letters on the upper lines, or the big C at the top, look blacker than the letter regarded. This makes it impossible to see the smaller letters perfectly. To correct this eccentric fixation regard the letter which is seen best, and shift to the smaller letter. If successful, the small letter, after a few movements, will appear blacker than the larger one. If not successful after a few trials, rest the eyes by closing and palming, and try again. One may also shift from the large letter to a point some distance below the small letter, gradually approaching the latter as the vision improves.
+
+*No. 7 - 
+
+Shifting from a card at three or five feet to one at ten or twenty feet often proves helpful, as the unconscious
+memory of the letter seen at the near-point helps to bring out the one at the distance.
+
+Different people will find these various methods of shifting more or less satisfactory. If any method does not succeed, it should be abandoned after one or two trials and something else tried. It is a mistake to continue the practice of any method which does not yield prompt results. The cause of the failure is strain, and it does no good to continue the strain.
+
+When it is not possible to practice with the Snellen test card, other objects may be utilized. One can shift, for instance, from one window of a distant building to another, or from one part of a window to another part of the same window, from one auto to another, or from one part of an auto to another part, producing, in each case, the illusion that the objects are moving in a direction contrary to the movement of the eye. When talking to people, one can shift from one person to another, or from one part of the face to another part. When reading a book, or newspaper, one can shift consciously from one word or letter to another, or from one part of a letter to another.
+
+Shifting and swinging, as they give the patient something definite to do, are often more successful than other methods of obtaining relaxation, and in some cases remarkable results have been obtained simply by demonstrating to the patient that staring lowers the vision and shifting improves it. One patient, a girl of sixteen with progressive myopia, obtained very prompt relief by shifting. She came to the office wearing a pair of glasses tinted a pale yellow, with shades at the sides; and in spite of this protection she was so annoyed by the light that her eyes were almost closed, and she had great difficulty in finding her way about the room. Her vision without glasses was 3/200. All reading had been forbidden, playing the piano from the notes was not allowed, and she had been obliged to give up the idea of going to college. The sensitiveness to light was relieved in a few minutes by focussing the light of the sun upon the upper part of the eyeball when she looked far down, by means of a burning glass (see Chapter XVII). The patient was then seated before a Snellen test card and directed to look away from it, rest her eyes, and then look at the big C. For a fraction of a second her vision was improved, and by frequent demonstrations she was made to realize that any effort to see the letters always lowered the vision. By alternately looking away, and then looking back at the letters for a fraction of a second, her vision improved so rapidly that in the course of half an hour it was almost normal for the distance. Then diamond type was given her to read. The attempt to read it at once brought on a severe pain. She was directed to proceed as she had in reading the Snellen test card; and in a few minutes, by alternately looking away and then looking at the first letter of each word in turn, she became able to read without fatigue, discomfort, or pain. She left the office without her glasses, and was able to see her way without difficulty. Other patients have been benefited as promptly by this simple method.
+
+ Double and multiple vision.

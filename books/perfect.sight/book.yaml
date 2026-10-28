@@ -1,0 +1,46 @@
+id: perfect.sight
+title: Perfect Sight Without Glasses
+author: William Horatio Bates, M.D. (1860–1931)
+source_path: source/Perfect Sight Without Glasses.epub
+source_lang: en
+target_lang: de
+ruleset_path: ''
+ruleset_apply: false
+style_mode: stil-05-sachbuch
+work_dir: work
+exports_dir: exports
+status_file: status/status.json
+log_dir: status/logs
+styles_dir: styles
+assets_dir: assets
+names_file: names.yaml
+structure:
+  mode: chapter_as_scene
+  label: Kapitel als Arbeitseinheiten
+  groups: []
+display:
+  chapters:
+    format: literary
+    suffix: ''
+    align: center
+    include_source_title: false
+  scenes:
+    show: false
+    format: number
+    align: center
+    page_break: false
+    separator: ''
+naming_convention:
+  style: ''
+  example: []
+notes: >-
+  Historisches medizinisches Sachbuch. Primärtext aus der kapitelweisen
+  Wikisource-Ausgabe; EPUB und PDF unter source/ bleiben als Original- und
+  Bildreferenz erhalten. Keine Figurenhandlung; Abbildungen und Fachterminologie
+  sind redaktionell zu prüfen.
+ai:
+  provider: openrouter
+  model: deepseek/deepseek-v4-flash
+  granularity: scene
+  max_tokens_per_scene: 10000
+  chunk_char_limit: 12000

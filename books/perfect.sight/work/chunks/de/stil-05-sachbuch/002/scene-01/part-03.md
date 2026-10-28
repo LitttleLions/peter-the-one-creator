@@ -1,0 +1,9 @@
+Auf der Suche nach Aufklärung über diese Probleme untersuchte ich Zehntausende von Augen, und je mehr Tatsachen ich zusammentrug, desto schwieriger wurde es, sie mit den anerkannten Ansichten in Einklang zu bringen. Schließlich, vor etwa einem halben Dutzend Jahren, unternahm ich eine Reihe von Beobachtungen an den Augen von Menschen und niederen Tieren, deren Ergebnisse sowohl mich selbst als auch andere davon überzeugten, dass die Linse kein Faktor bei der Akkommodation ist und dass die für das Sehen in verschiedenen Entfernungen notwendige Anpassung im Auge, genau wie bei der Kamera, durch eine Veränderung der Länge des Organs bewirkt wird, wobei diese Veränderung durch die Wirkung der Muskeln auf der Außenseite des Augapfels zustande kommt. Ebenso überzeugend war der Nachweis, dass Refraktionsfehler, einschließlich der Presbyopie, nicht auf eine organische Veränderung der Form des Augapfels oder der Beschaffenheit der Linse zurückzuführen sind, sondern auf eine funktionelle und daher heilbare Störung in der Wirkungsweise der äußeren Muskeln.
+
+Abb. 6. Mexikanische Indianer
+Mit normalem Sehvermögen, als sie getestet wurden, schielen oder starren jetzt alle Mitglieder dieser primitiven Gruppe.
+
+Wenn ich diese Aussagen mache, bin ich mir wohl bewusst, dass ich damit die praktisch unbestrittene Lehre der ophthalmologischen Wissenschaft des besseren Teils eines Jahrhunderts widerlege; aber ich wurde durch die Tatsachen zu den Schlussfolgerungen getrieben, die sie enthalten, und das so langsam, dass ich jetzt über meine eigene Blindheit erstaunt bin. Zu der Zeit, als ich hohe Grade von Myopie verbesserte, wollte ich konservativ sein und unterschied zwischen funktioneller Myopie, die ich heilen oder verbessern konnte, und organischer Myopie, die ich in Anerkennung der orthodoxen Tradition als unheilbar akzeptierte.
+
+Abb. 7. Ainu, die Ureinwohner Japans
+Alle zeigen Anzeichen von zeitweilig unvollkommenem Sehvermögen.

@@ -1,0 +1,7 @@
+„Palming“, antwortete er. „Ich habe es ununterbrochen zwanzig Stunden lang gemacht.“
+
+„Aber Sie konnten es unmöglich ununterbrochen zwanzig Stunden lang durchhalten“, sagte ich ungläubig. „Sie müssen doch zum Essen aufgehört haben.“
+
+Darauf erzählte er, dass er von vier Uhr morgens bis zwölf Uhr nachts nichts gegessen, sondern nur große Mengen Wasser getrunken und praktisch die gesamte Zeit dem Palming gewidmet hatte. Es muss, wie er sagte, langweilig gewesen sein, aber es hatte sich auch gelohnt. Als er ohne Brille auf die Sehtafel blickte, las er die unterste Zeile auf zwanzig Fuß Entfernung. Außerdem las er feinen Druck in sechs Zoll und in zwanzig Zoll Entfernung. Die Trübung der Linse hatte stark nachgelassen und war in der Mitte vollständig verschwunden. Zwei Jahre später war kein Rückfall eingetreten.
+
+Obwohl die Mehrheit der Patienten durch Palming Hilfe erfährt, kann eine Minderheit kein Schwarz sehen und verstärkt nur ihre Anspannung, wenn sie auf diese Weise Entspannung zu erreichen versucht. In den meisten Fällen ist es möglich, den Patienten durch Anwendung einiger oder aller der in diesem Kapitel beschriebenen Methoden in die Lage zu versetzen, erfolgreich zu palmen; treten jedoch große Schwierigkeiten auf, ist es in der Regel besser und zeitsparender, die Methode fallenzulassen, bis das Sehvermögen auf andere Weise verbessert worden ist. Der Patient kann dann möglicherweise Schwarz sehen, wenn er palmt, aber manche schaffen es erst, wenn sie geheilt sind.

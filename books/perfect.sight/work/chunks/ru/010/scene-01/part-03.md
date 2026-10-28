@@ -1,0 +1,5 @@
+Generally persons who have never worn glasses are more easily cured than those who have, and glasses should be discarded at the beginning of the treatment. When this cannot be done without too great discomfort, or when the patient has to continue his work during the treatment and cannot do so without glasses, their use must be permitted for a time; but this always delays the cure. Persons of all ages have been benefited by this treatment of errors of refraction by relaxation; but children usually, though not invariably, respond much more quickly than adults. If they are under twelve years of age, or even under sixteen, and have never worn glasses, they are usually cured in a few days, weeks, or months, and always within a year, simply by reading the Snellen test card every day.
+
+Emmetropia (from the Greek emmetros, in measure and ops, the eye) is that condition of the eye in which it is focussed for parallel rays This constitutes normal vision at the distance but is an error of refraction when it occurs at the near-point
+
+The Wonders of Instinct English translation by de Mattos and Miall, 1918, pp. 36-38.

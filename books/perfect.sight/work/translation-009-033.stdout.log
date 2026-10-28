@@ -1,0 +1,1084 @@
+=== Batch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel ausgewaehlt (25): 009, 010, 011, 012, 013, 014, 015, 016, 017, 018, 019, 020, ...
+Style: stil-05-sachbuch
+Provider: openrouter
+Chunk-Grenze: 9000 Zeichen
+Ablauf: fehlende EN-Arbeitseinheiten vorbereiten, dann Uebersetzen/Prompt je Kapitel
+Kapitel zusammensetzen: ja
+Kommandos: 50
+
+[1/50] python tools/translate_chapter.py --book perfect.sight --chapter 009 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 009
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (14,305 Zeichen)
+
+-> 009 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 2478 Woerter EN)...
+   -> interne Chunks: 2 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/2 (8,661 Zeichen RU)...
+   -> Chunk 1/2 (8,661 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-204905-009-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2995, completion_tokens=2848, total_tokens=5843, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786992546-Gbqze8NmqkWB5qL49LFX, Response-Created=1786992546, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\009\scene-01\part-01.md
+   -> Chunk 2/2 (5,638 Zeichen RU)...
+   -> Chunk 2/2 (5,638 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-204905-009-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2308, completion_tokens=1843, total_tokens=4151, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786992574-pxXe2h4PMVTD3LTFHmtu, Response-Created=1786992574, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\009\scene-01\part-02.md
+   -> scenes\de\stil-05-sachbuch\009\scene-01.md (2366 Woerter DE)
+API-Prompts archiviert: 2 unter prompts/sent/ (Stamp 20260817-204905)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\009.log.md
+-> 009 = needs_review
+
+Fertig.
+[2/50] python tools/translate_chapter.py --book perfect.sight --chapter 010 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 010
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (18,852 Zeichen)
+
+-> 010 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 3295 Woerter EN)...
+   -> interne Chunks: 3 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/3 (8,878 Zeichen RU)...
+   -> Chunk 1/3 (8,878 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-204950-010-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=3096, completion_tokens=2961, total_tokens=6057, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786992590-OGrjO43kf64rZPwfnzgt, Response-Created=1786992590, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\010\scene-01\part-01.md
+   -> Chunk 2/3 (8,845 Zeichen RU)...
+   -> Chunk 2/3 (8,845 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-204950-010-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=3021, completion_tokens=3456, total_tokens=6477, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786992615-fp60HUsPCJVOcBX1QQxq, Response-Created=1786992615, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\010\scene-01\part-02.md
+   -> Chunk 3/3 (1,122 Zeichen RU)...
+   -> Chunk 3/3 (1,122 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-204950-010-scene-01-part-03-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=1487, completion_tokens=3542, total_tokens=5029, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786992643-yN9MWAuVZVv3WcfHZ9zD, Response-Created=1786992643, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\010\scene-01\part-03.md
+   -> scenes\de\stil-05-sachbuch\010\scene-01.md (3152 Woerter DE)
+API-Prompts archiviert: 3 unter prompts/sent/ (Stamp 20260817-204950)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\010.log.md
+-> 010 = needs_review
+
+Fertig.
+[3/50] python tools/translate_chapter.py --book perfect.sight --chapter 011 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 011
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (13,325 Zeichen)
+
+-> 011 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 2368 Woerter EN)...
+   -> interne Chunks: 2 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/2 (8,788 Zeichen RU)...
+   -> Chunk 1/2 (8,788 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-205110-011-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=3005, completion_tokens=3251, total_tokens=6256, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786992671-9rGoHHlFCHcwrRB79pXx, Response-Created=1786992671, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\011\scene-01\part-01.md
+   -> Chunk 2/2 (4,529 Zeichen RU)...
+   -> Chunk 2/2 (4,529 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-205110-011-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2158, completion_tokens=6865, total_tokens=9023, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786992698-jwyLwvsQ5YrpHTzC1I8E, Response-Created=1786992698, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\011\scene-01\part-02.md
+   -> scenes\de\stil-05-sachbuch\011\scene-01.md (2170 Woerter DE)
+API-Prompts archiviert: 2 unter prompts/sent/ (Stamp 20260817-205110)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\011.log.md
+-> 011 = needs_review
+
+Fertig.
+[4/50] python tools/translate_chapter.py --book perfect.sight --chapter 012 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 012
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (16,190 Zeichen)
+
+-> 012 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 2906 Woerter EN)...
+   -> interne Chunks: 2 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/2 (8,655 Zeichen RU)...
+   -> Chunk 1/2 (8,655 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-205225-012-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2936, completion_tokens=2991, total_tokens=5927, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786992745-w4rhIXSQtgbTqZ7Fa6hk, Response-Created=1786992745, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\012\scene-01\part-01.md
+   -> Chunk 2/2 (7,530 Zeichen RU)...
+   -> Chunk 2/2 (7,530 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-205225-012-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2705, completion_tokens=3734, total_tokens=6439, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786992771-kXGdz6lWUcgksr4uK6nb, Response-Created=1786992771, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\012\scene-01\part-02.md
+   -> scenes\de\stil-05-sachbuch\012\scene-01.md (2772 Woerter DE)
+API-Prompts archiviert: 2 unter prompts/sent/ (Stamp 20260817-205225)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\012.log.md
+-> 012 = needs_review
+
+Fertig.
+[5/50] python tools/translate_chapter.py --book perfect.sight --chapter 013 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 013
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (17,880 Zeichen)
+
+-> 013 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 3219 Woerter EN)...
+   -> interne Chunks: 3 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/3 (7,624 Zeichen RU)...
+   -> Chunk 1/3 (7,624 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-205321-013-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2725, completion_tokens=3364, total_tokens=6089, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786992802-oDiapvdSlolkQdbF3Efn, Response-Created=1786992802, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\013\scene-01\part-01.md
+   -> Chunk 2/3 (8,940 Zeichen RU)...
+   -> Chunk 2/3 (8,940 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-205321-013-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=3063, completion_tokens=5205, total_tokens=8268, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786992830-HdPdpd4Q8IkKlE9oZtmr, Response-Created=1786992830, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\013\scene-01\part-02.md
+   -> Chunk 3/3 (1,310 Zeichen RU)...
+   -> Chunk 3/3 (1,310 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-205321-013-scene-01-part-03-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=1449, completion_tokens=1399, total_tokens=2848, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786992874-ro4Yvns87P3O9K6VGFaK, Response-Created=1786992874, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\013\scene-01\part-03.md
+   -> scenes\de\stil-05-sachbuch\013\scene-01.md (3113 Woerter DE)
+API-Prompts archiviert: 3 unter prompts/sent/ (Stamp 20260817-205321)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\013.log.md
+-> 013 = needs_review
+
+Fertig.
+[6/50] python tools/translate_chapter.py --book perfect.sight --chapter 014 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 014
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (19,172 Zeichen)
+
+-> 014 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 3471 Woerter EN)...
+   -> interne Chunks: 3 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/3 (8,427 Zeichen RU)...
+   -> Chunk 1/3 (8,427 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-205447-014-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2882, completion_tokens=3538, total_tokens=6420, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786992887-C71XPenGeO3RG82JYcGB, Response-Created=1786992887, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\014\scene-01\part-01.md
+   -> Chunk 2/3 (8,905 Zeichen RU)...
+   -> Chunk 2/3 (8,905 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-205447-014-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=3006, completion_tokens=2972, total_tokens=5978, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786992917-3u0CSxP0tmhPf29nCS2J, Response-Created=1786992917, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\014\scene-01\part-02.md
+   -> Chunk 3/3 (1,835 Zeichen RU)...
+   -> Chunk 3/3 (1,835 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-205447-014-scene-01-part-03-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=1544, completion_tokens=1391, total_tokens=2935, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786992944-mDanEzaWG19fvT0Wvaww, Response-Created=1786992944, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\014\scene-01\part-03.md
+   -> scenes\de\stil-05-sachbuch\014\scene-01.md (3372 Woerter DE)
+API-Prompts archiviert: 3 unter prompts/sent/ (Stamp 20260817-205447)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\014.log.md
+-> 014 = needs_review
+
+Fertig.
+[7/50] python tools/translate_chapter.py --book perfect.sight --chapter 015 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 015
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (18,294 Zeichen)
+
+-> 015 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 3354 Woerter EN)...
+   -> interne Chunks: 3 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/3 (8,344 Zeichen RU)...
+   -> Chunk 1/3 (8,344 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-205556-015-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2847, completion_tokens=3561, total_tokens=6408, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786992957-K9dKowEa0L1djg30GKDm, Response-Created=1786992957, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\015\scene-01\part-01.md
+   -> Chunk 2/3 (8,962 Zeichen RU)...
+   -> Chunk 2/3 (8,962 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-205556-015-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=3046, completion_tokens=3177, total_tokens=6223, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786992988-BbyiKVepq7lSAwRqXFOV, Response-Created=1786992988, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\015\scene-01\part-02.md
+   -> Chunk 3/3 (983 Zeichen RU)...
+   -> Chunk 3/3 (983 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-205556-015-scene-01-part-03-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=1397, completion_tokens=1636, total_tokens=3033, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993016-tFsoZtKlcrDvCNL7AvHz, Response-Created=1786993016, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\015\scene-01\part-03.md
+   -> scenes\de\stil-05-sachbuch\015\scene-01.md (3170 Woerter DE)
+API-Prompts archiviert: 3 unter prompts/sent/ (Stamp 20260817-205556)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\015.log.md
+-> 015 = needs_review
+
+Fertig.
+[8/50] python tools/translate_chapter.py --book perfect.sight --chapter 016 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 016
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (20,996 Zeichen)
+
+-> 016 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 3846 Woerter EN)...
+   -> interne Chunks: 3 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/3 (8,495 Zeichen RU)...
+   -> Chunk 1/3 (8,495 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-205711-016-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2953, completion_tokens=9989, total_tokens=12942, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993032-MNXfD4NHD2k5P3JIvECR, Response-Created=1786993032, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\016\scene-01\part-01.md
+   -> Chunk 2/3 (8,456 Zeichen RU)...
+   -> Chunk 2/3 (8,456 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-205711-016-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2982, completion_tokens=3135, total_tokens=6117, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993117-kqTi3lKdJyzqX22MRu7F, Response-Created=1786993117, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\016\scene-01\part-02.md
+   -> Chunk 3/3 (4,035 Zeichen RU)...
+   -> Chunk 3/3 (4,035 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-205711-016-scene-01-part-03-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2007, completion_tokens=1991, total_tokens=3998, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993145-KsPtloFUu4damfm5z5jp, Response-Created=1786993145, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\016\scene-01\part-03.md
+   -> scenes\de\stil-05-sachbuch\016\scene-01.md (3633 Woerter DE)
+API-Prompts archiviert: 3 unter prompts/sent/ (Stamp 20260817-205711)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\016.log.md
+-> 016 = needs_review
+
+Fertig.
+[9/50] python tools/translate_chapter.py --book perfect.sight --chapter 017 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 017
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (16,507 Zeichen)
+
+-> 017 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 2926 Woerter EN)...
+   -> interne Chunks: 2 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/2 (8,754 Zeichen RU)...
+   -> Chunk 1/2 (8,754 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-205924-017-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2990, completion_tokens=3247, total_tokens=6237, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993164-YXt4Tp3rcFrcIzm5ELEX, Response-Created=1786993164, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\017\scene-01\part-01.md
+   -> Chunk 2/2 (7,750 Zeichen RU)...
+   -> Chunk 2/2 (7,750 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-205924-017-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2764, completion_tokens=4027, total_tokens=6791, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993192-e3uiMdZU4DPcMG1dAitI, Response-Created=1786993192, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\017\scene-01\part-02.md
+   -> scenes\de\stil-05-sachbuch\017\scene-01.md (2770 Woerter DE)
+API-Prompts archiviert: 2 unter prompts/sent/ (Stamp 20260817-205924)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\017.log.md
+-> 017 = needs_review
+
+Fertig.
+[10/50] python tools/translate_chapter.py --book perfect.sight --chapter 018 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 018
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (12,776 Zeichen)
+
+-> 018 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 2202 Woerter EN)...
+   -> interne Chunks: 2 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/2 (8,911 Zeichen RU)...
+   -> Chunk 1/2 (8,911 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-210029-018-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2964, completion_tokens=3891, total_tokens=6855, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993229-7lYjEORlnqkeZGz2cAYj, Response-Created=1786993229, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\018\scene-01\part-01.md
+   -> Chunk 2/2 (3,859 Zeichen RU)...
+   -> Chunk 2/2 (3,859 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-210029-018-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=1968, completion_tokens=2409, total_tokens=4377, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993266-wh0uEzv2DKvudRdMTzcp, Response-Created=1786993266, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\018\scene-01\part-02.md
+   -> scenes\de\stil-05-sachbuch\018\scene-01.md (2051 Woerter DE)
+API-Prompts archiviert: 2 unter prompts/sent/ (Stamp 20260817-210029)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\018.log.md
+-> 018 = needs_review
+
+Fertig.
+[11/50] python tools/translate_chapter.py --book perfect.sight --chapter 019 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 019
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+
+-> 019 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 1096 Woerter EN)...
+   -> Prompt archiviert: prompts\sent\20260817-210128-019-scene-01-stil-05-sachbuch-openrouter.md
+   Tokens: prompt_tokens=2418, completion_tokens=7121, total_tokens=9539, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993289-QzRGCD8isZf4KqXv2tIW, Response-Created=1786993289, Finish-Reason=stop
+   -> scenes\de\stil-05-sachbuch\019\scene-01.md (1024 Woerter DE)
+API-Prompts archiviert: 1 unter prompts/sent/ (Stamp 20260817-210128)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\019.log.md
+-> 019 = needs_review
+
+Fertig.
+[12/50] python tools/translate_chapter.py --book perfect.sight --chapter 020 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 020
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (10,981 Zeichen)
+
+-> 020 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 1933 Woerter EN)...
+   -> interne Chunks: 2 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/2 (8,867 Zeichen RU)...
+   -> Chunk 1/2 (8,867 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-210231-020-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=3066, completion_tokens=2869, total_tokens=5935, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993352-PpQRtXYgHb6ZcngtFZix, Response-Created=1786993352, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\020\scene-01\part-01.md
+   -> Chunk 2/2 (2,111 Zeichen RU)...
+   -> Chunk 2/2 (2,111 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-210231-020-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=1661, completion_tokens=1297, total_tokens=2958, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993379-SN17kZq4khuJM8tYuqP6, Response-Created=1786993379, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\020\scene-01\part-02.md
+   -> scenes\de\stil-05-sachbuch\020\scene-01.md (1823 Woerter DE)
+API-Prompts archiviert: 2 unter prompts/sent/ (Stamp 20260817-210231)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\020.log.md
+-> 020 = needs_review
+
+Fertig.
+[13/50] python tools/translate_chapter.py --book perfect.sight --chapter 021 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 021
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (18,762 Zeichen)
+
+-> 021 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 3301 Woerter EN)...
+   -> interne Chunks: 3 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/3 (8,779 Zeichen RU)...
+   -> Chunk 1/3 (8,779 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-210312-021-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=3065, completion_tokens=3297, total_tokens=6362, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993393-pHAZLLGsHiWzDv8qr6kk, Response-Created=1786993393, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\021\scene-01\part-01.md
+   -> Chunk 2/3 (8,791 Zeichen RU)...
+   -> Chunk 2/3 (8,791 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-210312-021-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=3036, completion_tokens=3866, total_tokens=6902, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993422-A8F86PsVjkb0fZoPC4im, Response-Created=1786993422, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\021\scene-01\part-02.md
+   -> Chunk 3/3 (1,171 Zeichen RU)...
+   -> Chunk 3/3 (1,171 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-210312-021-scene-01-part-03-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=1476, completion_tokens=678, total_tokens=2154, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993457-7InqXHSAeeF3bN9ubP9n, Response-Created=1786993457, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\021\scene-01\part-03.md
+   -> scenes\de\stil-05-sachbuch\021\scene-01.md (3202 Woerter DE)
+API-Prompts archiviert: 3 unter prompts/sent/ (Stamp 20260817-210312)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\021.log.md
+-> 021 = needs_review
+
+Fertig.
+[14/50] python tools/translate_chapter.py --book perfect.sight --chapter 022 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 022
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (10,304 Zeichen)
+
+-> 022 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 1813 Woerter EN)...
+   -> interne Chunks: 2 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/2 (8,080 Zeichen RU)...
+   -> Chunk 1/2 (8,080 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-210424-022-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2956, completion_tokens=2870, total_tokens=5826, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993465-sCvsDssDhM55c4FeRtYI, Response-Created=1786993465, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\022\scene-01\part-01.md
+   -> Chunk 2/2 (2,218 Zeichen RU)...
+   -> Chunk 2/2 (2,218 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-210424-022-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=1653, completion_tokens=900, total_tokens=2553, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993491-CjrMyKc9Skn9r9hyWwDU, Response-Created=1786993491, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\022\scene-01\part-02.md
+   -> scenes\de\stil-05-sachbuch\022\scene-01.md (1698 Woerter DE)
+API-Prompts archiviert: 2 unter prompts/sent/ (Stamp 20260817-210424)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\022.log.md
+-> 022 = needs_review
+
+Fertig.
+[15/50] python tools/translate_chapter.py --book perfect.sight --chapter 023 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 023
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (13,445 Zeichen)
+
+-> 023 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 2461 Woerter EN)...
+   -> interne Chunks: 2 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/2 (8,915 Zeichen RU)...
+   -> Chunk 1/2 (8,915 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-210500-023-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=3121, completion_tokens=3342, total_tokens=6463, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993501-Hy4PytRjukfPSzo2L9sq, Response-Created=1786993501, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\023\scene-01\part-01.md
+   -> Chunk 2/2 (4,523 Zeichen RU)...
+   -> Chunk 2/2 (4,523 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-210500-023-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2184, completion_tokens=2176, total_tokens=4360, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993531-Q5No2wNYDxhf7KtbEbQI, Response-Created=1786993531, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\023\scene-01\part-02.md
+   -> scenes\de\stil-05-sachbuch\023\scene-01.md (2328 Woerter DE)
+API-Prompts archiviert: 2 unter prompts/sent/ (Stamp 20260817-210500)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\023.log.md
+-> 023 = needs_review
+
+Fertig.
+[16/50] python tools/translate_chapter.py --book perfect.sight --chapter 024 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 024
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (9,310 Zeichen)
+
+-> 024 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 1670 Woerter EN)...
+   -> interne Chunks: 2 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/2 (8,541 Zeichen RU)...
+   -> Chunk 1/2 (8,541 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-210549-024-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2964, completion_tokens=7448, total_tokens=10412, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993550-x0XtS5LWVaHUDn3G65B0, Response-Created=1786993550, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\024\scene-01\part-01.md
+   -> Chunk 2/2 (765 Zeichen RU)...
+   -> Chunk 2/2 (765 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-210549-024-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=1340, completion_tokens=586, total_tokens=1926, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993611-6Tj9azjTaCMz7D0oLsyE, Response-Created=1786993611, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\024\scene-01\part-02.md
+   -> scenes\de\stil-05-sachbuch\024\scene-01.md (1541 Woerter DE)
+API-Prompts archiviert: 2 unter prompts/sent/ (Stamp 20260817-210549)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\024.log.md
+-> 024 = needs_review
+
+Fertig.
+[17/50] python tools/translate_chapter.py --book perfect.sight --chapter 025 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 025
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+
+-> 025 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 1119 Woerter EN)...
+   -> Prompt archiviert: prompts\sent\20260817-210657-025-scene-01-stil-05-sachbuch-openrouter.md
+   Tokens: prompt_tokens=2431, completion_tokens=4432, total_tokens=6863, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993618-FGl3gmu9modGJx6tyL54, Response-Created=1786993618, Finish-Reason=stop
+   -> scenes\de\stil-05-sachbuch\025\scene-01.md (1055 Woerter DE)
+API-Prompts archiviert: 1 unter prompts/sent/ (Stamp 20260817-210657)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\025.log.md
+-> 025 = needs_review
+
+Fertig.
+[18/50] python tools/translate_chapter.py --book perfect.sight --chapter 026 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 026
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+
+-> 026 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 1469 Woerter EN)...
+   -> Prompt archiviert: prompts\sent\20260817-210735-026-scene-01-stil-05-sachbuch-openrouter.md
+   Tokens: prompt_tokens=2823, completion_tokens=3771, total_tokens=6594, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993655-f6tSh6qouutpgeKuu0Na, Response-Created=1786993655, Finish-Reason=stop
+   -> scenes\de\stil-05-sachbuch\026\scene-01.md (1380 Woerter DE)
+API-Prompts archiviert: 1 unter prompts/sent/ (Stamp 20260817-210735)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\026.log.md
+-> 026 = needs_review
+
+Fertig.
+[19/50] python tools/translate_chapter.py --book perfect.sight --chapter 027 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 027
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (12,454 Zeichen)
+
+-> 027 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 2086 Woerter EN)...
+   -> interne Chunks: 2 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/2 (8,944 Zeichen RU)...
+   -> Chunk 1/2 (8,944 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-210807-027-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2929, completion_tokens=2925, total_tokens=5854, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993687-sePGk05tn4E9nV6QZmit, Response-Created=1786993687, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\027\scene-01\part-01.md
+   -> Chunk 2/2 (3,499 Zeichen RU)...
+   -> Chunk 2/2 (3,499 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-210807-027-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=1922, completion_tokens=3422, total_tokens=5344, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993712-wgrPMM8ecvQetLtjwrn2, Response-Created=1786993712, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\027\scene-01\part-02.md
+   -> scenes\de\stil-05-sachbuch\027\scene-01.md (1893 Woerter DE)
+API-Prompts archiviert: 2 unter prompts/sent/ (Stamp 20260817-210807)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\027.log.md
+-> 027 = needs_review
+
+Fertig.
+[20/50] python tools/translate_chapter.py --book perfect.sight --chapter 028 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 028
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (19,069 Zeichen)
+
+-> 028 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 3370 Woerter EN)...
+   -> interne Chunks: 3 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/3 (8,468 Zeichen RU)...
+   -> Chunk 1/3 (8,468 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-210901-028-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2878, completion_tokens=3589, total_tokens=6467, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993741-IFhoj6UpDotSU2DqHFPr, Response-Created=1786993741, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\028\scene-01\part-01.md
+   -> Chunk 2/3 (8,694 Zeichen RU)...
+   -> Chunk 2/3 (8,694 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-210901-028-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=3028, completion_tokens=10676, total_tokens=13704, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993775-YY3SmoUjxldzGlsioPKe, Response-Created=1786993775, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\028\scene-01\part-02.md
+   -> Chunk 3/3 (1,900 Zeichen RU)...
+   -> Chunk 3/3 (1,900 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-210901-028-scene-01-part-03-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=1691, completion_tokens=8462, total_tokens=10153, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993852-sCDYmUUJAFx7jDiCmyVO, Response-Created=1786993852, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\028\scene-01\part-03.md
+   -> scenes\de\stil-05-sachbuch\028\scene-01.md (3114 Woerter DE)
+API-Prompts archiviert: 3 unter prompts/sent/ (Stamp 20260817-210901)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\028.log.md
+-> 028 = needs_review
+
+Fertig.
+[21/50] python tools/translate_chapter.py --book perfect.sight --chapter 029 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 029
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+
+-> 029 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 1226 Woerter EN)...
+   -> Prompt archiviert: prompts\sent\20260817-211203-029-scene-01-stil-05-sachbuch-openrouter.md
+   Tokens: prompt_tokens=2598, completion_tokens=2383, total_tokens=4981, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993924-GeHx63dFNOo2LXA9ASIz, Response-Created=1786993924, Finish-Reason=stop
+   -> scenes\de\stil-05-sachbuch\029\scene-01.md (1217 Woerter DE)
+API-Prompts archiviert: 1 unter prompts/sent/ (Stamp 20260817-211203)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\029.log.md
+-> 029 = needs_review
+
+Fertig.
+[22/50] python tools/translate_chapter.py --book perfect.sight --chapter 030 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 030
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (17,080 Zeichen)
+
+-> 030 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 3059 Woerter EN)...
+   -> interne Chunks: 2 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/2 (8,824 Zeichen RU)...
+   -> Chunk 1/2 (8,824 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-211226-030-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2977, completion_tokens=8252, total_tokens=11229, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786993946-CO6IlkUxaIVD1paJxSpZ, Response-Created=1786993946, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\030\scene-01\part-01.md
+   -> Chunk 2/2 (8,252 Zeichen RU)...
+   -> Chunk 2/2 (8,252 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-211226-030-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2868, completion_tokens=2732, total_tokens=5600, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786994013-n6V7hiqCj2coZUFNEeti, Response-Created=1786994013, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\030\scene-01\part-02.md
+   -> scenes\de\stil-05-sachbuch\030\scene-01.md (2875 Woerter DE)
+API-Prompts archiviert: 2 unter prompts/sent/ (Stamp 20260817-211226)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\030.log.md
+-> 030 = needs_review
+
+Fertig.
+[23/50] python tools/translate_chapter.py --book perfect.sight --chapter 031 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 031
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (10,337 Zeichen)
+
+-> 031 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 1805 Woerter EN)...
+   -> interne Chunks: 2 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/2 (8,960 Zeichen RU)...
+   -> Chunk 1/2 (8,960 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-211357-031-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2974, completion_tokens=4200, total_tokens=7174, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786994038-GkHVjDvAHLYbj5PztyZP, Response-Created=1786994038, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\031\scene-01\part-01.md
+   -> Chunk 2/2 (1,373 Zeichen RU)...
+   -> Chunk 2/2 (1,373 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-211357-031-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=1526, completion_tokens=2826, total_tokens=4352, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786994075-FBQnqM5TKAGQTeJOTnsz, Response-Created=1786994075, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\031\scene-01\part-02.md
+   -> scenes\de\stil-05-sachbuch\031\scene-01.md (1698 Woerter DE)
+API-Prompts archiviert: 2 unter prompts/sent/ (Stamp 20260817-211357)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\031.log.md
+-> 031 = needs_review
+
+Fertig.
+[24/50] python tools/translate_chapter.py --book perfect.sight --chapter 032 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 032
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (22,503 Zeichen)
+
+-> 032 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 4137 Woerter EN)...
+   -> interne Chunks: 3 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/3 (8,975 Zeichen RU)...
+   -> Chunk 1/3 (8,975 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-211457-032-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=3188, completion_tokens=4249, total_tokens=7437, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786994098-8TboyDhI6v2y54h2celB, Response-Created=1786994098, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\032\scene-01\part-01.md
+   -> Chunk 2/3 (8,168 Zeichen RU)...
+   -> Chunk 2/3 (8,168 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-211457-032-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2917, completion_tokens=6903, total_tokens=9820, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786994136-XbJUaPyYMgt24H9Blb2R, Response-Created=1786994136, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\032\scene-01\part-02.md
+   -> Chunk 3/3 (5,355 Zeichen RU)...
+   -> Chunk 3/3 (5,355 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-211457-032-scene-01-part-03-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2337, completion_tokens=1989, total_tokens=4326, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786994195-qJk4l62FageM6PXmBKdI, Response-Created=1786994195, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\032\scene-01\part-03.md
+   -> scenes\de\stil-05-sachbuch\032\scene-01.md (3928 Woerter DE)
+API-Prompts archiviert: 3 unter prompts/sent/ (Stamp 20260817-211457)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\032.log.md
+-> 032 = needs_review
+
+Fertig.
+[25/50] python tools/translate_chapter.py --book perfect.sight --chapter 033 --style stil-05-sachbuch --provider openrouter --model deepseek/deepseek-v4-flash --chunk-char-limit 9000 --auto-status
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 033
+Stil: stil-05-sachbuch  (rules_append=False)
+Granularitaet: scene
+Szenen erkannt: 1
+Modell: deepseek/deepseek-v4-flash (DeepSeek V4 Flash, DeepSeek)
+Temperatur: 0.4, max_tokens: 10000
+Chunk-Grenze: 9000 Zeichen
+Chunking aktiv fuer: Szene 01 (10,488 Zeichen)
+
+-> 033 = in_progress
+OpenRouter-Client initialisiert (Modell=deepseek/deepseek-v4-flash).
+
+-> Szene 1/1 (## 1, 1879 Woerter EN)...
+   -> interne Chunks: 2 Teile (Grenze 9,000 Zeichen); finale Szene bleibt scene-01.md
+   -> Chunk 1/2 (8,561 Zeichen RU)...
+   -> Chunk 1/2 (8,561 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-211653-033-scene-01-part-01-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=2931, completion_tokens=2675, total_tokens=5606, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786994213-jHp5RXl98vDfpjfcKncp, Response-Created=1786994213, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\033\scene-01\part-01.md
+   -> Chunk 2/2 (1,924 Zeichen RU)...
+   -> Chunk 2/2 (1,924 Zeichen RU)...
+   -> Prompt archiviert: prompts\sent\20260817-211653-033-scene-01-part-02-stil-05-sachbuch-openrouter.md
+      Tokens: prompt_tokens=1597, completion_tokens=1473, total_tokens=3070, is_byok=False, Antwort-Modell=deepseek/deepseek-v4-flash, Antwort-Provider=Novita, Response-ID=gen-1786994237-TX4s9p09aqLiKwm9oIe8, Response-Created=1786994237, Finish-Reason=stop
+      -> chunks\de\stil-05-sachbuch\033\scene-01\part-02.md
+   -> scenes\de\stil-05-sachbuch\033\scene-01.md (1795 Woerter DE)
+API-Prompts archiviert: 2 unter prompts/sent/ (Stamp 20260817-211653)
+Alle Szenen fuer dieses Kapitel liegen vor.
+Logfile: E:\code\peter-the-one-creator\books\perfect.sight\status\logs\033.log.md
+-> 033 = needs_review
+
+Fertig.
+[26/50] python tools/assemble_chapter.py --book perfect.sight --chapter 009 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 009 ---
+  OK assembled\stil-05-sachbuch\009-translation-v1-stil-05-sachbuch.md (2,369 Woerter)
+
+Ergebnis: 1/1 Kapitel, 2,369 Woerter
+[27/50] python tools/assemble_chapter.py --book perfect.sight --chapter 010 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 010 ---
+  OK assembled\stil-05-sachbuch\010-translation-v1-stil-05-sachbuch.md (3,155 Woerter)
+
+Ergebnis: 1/1 Kapitel, 3,155 Woerter
+[28/50] python tools/assemble_chapter.py --book perfect.sight --chapter 011 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 011 ---
+  OK assembled\stil-05-sachbuch\011-translation-v1-stil-05-sachbuch.md (2,173 Woerter)
+
+Ergebnis: 1/1 Kapitel, 2,173 Woerter
+[29/50] python tools/assemble_chapter.py --book perfect.sight --chapter 012 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 012 ---
+  OK assembled\stil-05-sachbuch\012-translation-v1-stil-05-sachbuch.md (2,775 Woerter)
+
+Ergebnis: 1/1 Kapitel, 2,775 Woerter
+[30/50] python tools/assemble_chapter.py --book perfect.sight --chapter 013 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 013 ---
+  OK assembled\stil-05-sachbuch\013-translation-v1-stil-05-sachbuch.md (3,116 Woerter)
+
+Ergebnis: 1/1 Kapitel, 3,116 Woerter
+[31/50] python tools/assemble_chapter.py --book perfect.sight --chapter 014 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 014 ---
+  OK assembled\stil-05-sachbuch\014-translation-v1-stil-05-sachbuch.md (3,375 Woerter)
+
+Ergebnis: 1/1 Kapitel, 3,375 Woerter
+[32/50] python tools/assemble_chapter.py --book perfect.sight --chapter 015 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 015 ---
+  OK assembled\stil-05-sachbuch\015-translation-v1-stil-05-sachbuch.md (3,173 Woerter)
+
+Ergebnis: 1/1 Kapitel, 3,173 Woerter
+[33/50] python tools/assemble_chapter.py --book perfect.sight --chapter 016 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 016 ---
+  OK assembled\stil-05-sachbuch\016-translation-v1-stil-05-sachbuch.md (3,636 Woerter)
+
+Ergebnis: 1/1 Kapitel, 3,636 Woerter
+[34/50] python tools/assemble_chapter.py --book perfect.sight --chapter 017 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 017 ---
+  OK assembled\stil-05-sachbuch\017-translation-v1-stil-05-sachbuch.md (2,773 Woerter)
+
+Ergebnis: 1/1 Kapitel, 2,773 Woerter
+[35/50] python tools/assemble_chapter.py --book perfect.sight --chapter 018 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 018 ---
+  OK assembled\stil-05-sachbuch\018-translation-v1-stil-05-sachbuch.md (2,054 Woerter)
+
+Ergebnis: 1/1 Kapitel, 2,054 Woerter
+[36/50] python tools/assemble_chapter.py --book perfect.sight --chapter 019 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 019 ---
+  OK assembled\stil-05-sachbuch\019-translation-v1-stil-05-sachbuch.md (1,027 Woerter)
+
+Ergebnis: 1/1 Kapitel, 1,027 Woerter
+[37/50] python tools/assemble_chapter.py --book perfect.sight --chapter 020 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 020 ---
+  OK assembled\stil-05-sachbuch\020-translation-v1-stil-05-sachbuch.md (1,826 Woerter)
+
+Ergebnis: 1/1 Kapitel, 1,826 Woerter
+[38/50] python tools/assemble_chapter.py --book perfect.sight --chapter 021 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 021 ---
+  OK assembled\stil-05-sachbuch\021-translation-v1-stil-05-sachbuch.md (3,205 Woerter)
+
+Ergebnis: 1/1 Kapitel, 3,205 Woerter
+[39/50] python tools/assemble_chapter.py --book perfect.sight --chapter 022 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 022 ---
+  OK assembled\stil-05-sachbuch\022-translation-v1-stil-05-sachbuch.md (1,701 Woerter)
+
+Ergebnis: 1/1 Kapitel, 1,701 Woerter
+[40/50] python tools/assemble_chapter.py --book perfect.sight --chapter 023 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 023 ---
+  OK assembled\stil-05-sachbuch\023-translation-v1-stil-05-sachbuch.md (2,331 Woerter)
+
+Ergebnis: 1/1 Kapitel, 2,331 Woerter
+[41/50] python tools/assemble_chapter.py --book perfect.sight --chapter 024 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 024 ---
+  OK assembled\stil-05-sachbuch\024-translation-v1-stil-05-sachbuch.md (1,544 Woerter)
+
+Ergebnis: 1/1 Kapitel, 1,544 Woerter
+[42/50] python tools/assemble_chapter.py --book perfect.sight --chapter 025 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 025 ---
+  OK assembled\stil-05-sachbuch\025-translation-v1-stil-05-sachbuch.md (1,058 Woerter)
+
+Ergebnis: 1/1 Kapitel, 1,058 Woerter
+[43/50] python tools/assemble_chapter.py --book perfect.sight --chapter 026 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 026 ---
+  OK assembled\stil-05-sachbuch\026-translation-v1-stil-05-sachbuch.md (1,383 Woerter)
+
+Ergebnis: 1/1 Kapitel, 1,383 Woerter
+[44/50] python tools/assemble_chapter.py --book perfect.sight --chapter 027 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 027 ---
+  OK assembled\stil-05-sachbuch\027-translation-v1-stil-05-sachbuch.md (1,896 Woerter)
+
+Ergebnis: 1/1 Kapitel, 1,896 Woerter
+[45/50] python tools/assemble_chapter.py --book perfect.sight --chapter 028 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 028 ---
+  OK assembled\stil-05-sachbuch\028-translation-v1-stil-05-sachbuch.md (3,117 Woerter)
+
+Ergebnis: 1/1 Kapitel, 3,117 Woerter
+[46/50] python tools/assemble_chapter.py --book perfect.sight --chapter 029 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 029 ---
+  OK assembled\stil-05-sachbuch\029-translation-v1-stil-05-sachbuch.md (1,220 Woerter)
+
+Ergebnis: 1/1 Kapitel, 1,220 Woerter
+[47/50] python tools/assemble_chapter.py --book perfect.sight --chapter 030 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 030 ---
+  OK assembled\stil-05-sachbuch\030-translation-v1-stil-05-sachbuch.md (2,878 Woerter)
+
+Ergebnis: 1/1 Kapitel, 2,878 Woerter
+[48/50] python tools/assemble_chapter.py --book perfect.sight --chapter 031 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 031 ---
+  OK assembled\stil-05-sachbuch\031-translation-v1-stil-05-sachbuch.md (1,701 Woerter)
+
+Ergebnis: 1/1 Kapitel, 1,701 Woerter
+[49/50] python tools/assemble_chapter.py --book perfect.sight --chapter 032 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 032 ---
+  OK assembled\stil-05-sachbuch\032-translation-v1-stil-05-sachbuch.md (3,931 Woerter)
+
+Ergebnis: 1/1 Kapitel, 3,931 Woerter
+[50/50] python tools/assemble_chapter.py --book perfect.sight --chapter 033 --style stil-05-sachbuch
+=== Buch: Perfect Sight Without Glasses (perfect.sight) ===
+Kapitel: 1
+Stil: stil-05-sachbuch
+Modus: zusammenbauen
+
+--- Kapitel 033 ---
+  OK assembled\stil-05-sachbuch\033-translation-v1-stil-05-sachbuch.md (1,798 Woerter)
+
+Ergebnis: 1/1 Kapitel, 1,798 Woerter

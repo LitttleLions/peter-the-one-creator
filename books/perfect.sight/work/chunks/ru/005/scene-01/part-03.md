@@ -1,0 +1,1 @@
+In many animals, notably in rabbits, the internal and external recti are either absent or rudimentary, so that. practically, in such cases, there are only two recti, just as there are only two obliques. In others, as in many fish, the internal rectus is negligible.

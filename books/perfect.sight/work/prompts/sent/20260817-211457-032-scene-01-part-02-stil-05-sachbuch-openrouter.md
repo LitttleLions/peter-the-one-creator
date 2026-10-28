@@ -1,0 +1,134 @@
+# Gesendeter Prompt 032
+
+- Zeitstempel: 20260817-211457
+- Provider: openrouter
+- Modell: deepseek/deepseek-v4-flash
+- Stil: stil-05-sachbuch
+- Kapitel: 032
+- Szene: 01
+- Chunk: 02/03
+- Temperatur: 0.4
+- max_tokens: 12000
+- System-Zeichen: 2695
+- User-Zeichen: 9584
+
+## System
+
+Du bist ein literarischer Uebersetzer. Du uebersetzt aus der Ausgangssprache ins Deutsche.
+
+---
+Buch: Perfect Sight Without Glasses (William Horatio Bates, M.D. (1860–1931))
+Sprache: en -> de
+
+### Verbindliches Style-Profil
+
+Das folgende Profil enthaelt verbindliche Stil- und Rekonstruktionsregeln fuer diesen Lauf (stil-05-sachbuch). Die globalen Ausgabe-Regeln und das im Arbeitsauftrag uebermittelte Glossar haben bei Konflikten Vorrang.
+
+Übersetze den englischen Ausgangstext als präzises, ruhiges historisches Sachbuch.
+
+Bewahre vollständig die Argumentation, Reihenfolge, Absätze, Beispiele, Fallberichte,
+Zitate, Zahlen, Tabellenhinweise, Verweise und historischen medizinischen Behauptungen.
+Fasse nichts zusammen und füge keine modernen medizinischen Erklärungen hinzu.
+
+Verwende ein klares, fachlich lesbares Deutsch. Keine literarische Ausschmückung,
+keine werbliche Sprache, keine Dramatisierung und keine erfundenen Zwischenüberschriften.
+Modernisiere Bates’ medizinische Auffassungen nicht stillschweigend und korrigiere sie
+nicht im Übersetzungstext. Die historische Perspektive muss erkennbar bleiben.
+
+Halte die Terminologie aus dem Buch-Glossar konsistent. Besonders wichtig sind
+„Anspannung“ für „strain“, „zentrale Fixation“ für „central fixation“,
+„Akkommodation“ für „accommodation“ und „Refraktion“ für „refraction“.
+Myopie, Hypermetropie/Hyperopie, Astigmatismus, Presbyopie, Amblyopie und Netzhaut
+werden als etablierte deutsche Fachbegriffe verwendet.
+
+Bei historischen Methodenbezeichnungen darf der englische Ausdruck bei der ersten
+Verwendung in Klammern erhalten bleiben, wenn dies die begriffliche Orientierung
+verbessert; danach bleibt die gewählte deutsche Form konsistent.
+
+Erhalte die Unterscheidung zwischen Bates’ eigener Stimme, zitierten Autoritäten,
+Patientenbriefen und Fallberichten. Verändere keine medizinischen Zahlen, Namen,
+Quellenangaben oder Versuchsbedingungen. OCR- oder Quellenfehler dürfen nicht erfunden
+oder kreativ geglättet werden; bei einem unklaren Ausgangstext bleibe möglichst nah am
+vorliegenden Text.
+
+Gib ausschließlich die Übersetzung aus. Keine Vorbemerkung, keine Analyse und keine
+Kommentare außerhalb des übersetzten Textes.
+
+### Harte Ausgabe-Regeln
+
+Diese Regeln haben Vorrang vor widersprechenden Angaben im Style-Profil.
+
+- Gib nur die Uebersetzung aus.
+- Keine Vorbemerkung, keine Zusammenfassung, keine Analyse.
+- Keine Saetze wie 'Hier ist die Uebersetzung'.
+- Keine Markdown-Ueberschriften, Vorabsaetze, Lede, Prologe oder sonstige Struktur-Ergaenzungen erfinden, ausser sie stehen bereits im Quelltext.
+- Inhalt, Reihenfolge und Fakten des Quelltexts bleiben erhalten; nichts ergaenzen, das nicht im Quelltext steht.
+
+## User
+
+Uebersetze den folgenden Text ins Deutsche.
+
+### Buch
+- Titel: Perfect Sight Without Glasses
+- Autor: William Horatio Bates, M.D. (1860–1931)
+- Stil: stil-05-sachbuch
+- Style-Profil: books\perfect.sight\styles\stil-05-sachbuch.md
+- Das Style-Profil steht im System-Prompt und ist verbindlich.
+
+### Verbindliche Namen und Begriffe
+
+Nutze diese Schreibweisen, wenn die genannten Personen oder Begriffe im Quelltext vorkommen. Nicht aufgefuehrte Personen-, Stammes-, Orts- und Titelnamen werden konservativ transliteriert oder im Zweifel in der erkennbaren Quellform beibehalten.
+- strain -> Anspannung
+- central fixation -> zentrale Fixation
+- accommodation -> Akkommodation
+- refraction -> Refraktion
+- myopia -> Myopie
+- hypermetropia -> Hypermetropie
+- hyperopia -> Hyperopie
+- astigmatism -> Astigmatismus
+- presbyopia -> Presbyopie
+- amblyopia -> Amblyopie
+- squint -> Schielen
+- palming -> Palming (Abdecken der Augen mit den Händen)
+- shifting -> Shifting (Verschieben des Blicks)
+- sunning -> Sunning (Sonnenübung)
+- retina -> Netzhaut
+- optic nerve -> Sehnerv
+
+### Zu uebersetzender Text
+
+Interne Arbeitsportion 2/3 derselben Szene. Uebersetze nur diesen Abschnitt fortlaufend ins Deutsche. Keine neue Szenenueberschrift erzeugen.
+
+"To sum up the effect of being cured upon my own mind: I am more direct, more definite, less diffused, less vague. In short, I am conscious of being better centered. It is central fixation of the mind. I saw this in your latest paper, but I realized it long ago and knew what to call it."
+
+A MENTAL TRANSITION
+
+A man of forty-four who had worn glasses since the age of twenty was first seen on October 8, 1917, when he was suffering, not only from very imperfect sight, but from headache and discomfort. He was wearing for the right eye concave 5.00D.S. with concave 0.50D.C., 180 degrees, and for the left concave 2.50D.S. with concave 1.50D.C., 180 degrees. As his visits were not very frequent and he often went back to his glasses, his progress was slow. But his pain and discomfort were relieved very quickly, and almost from the beginning he had flashes of greatly improved and even of normal vision. This encouraged him to continue, and his progress, 
+dition has improved as much as his sight. His wife was particularly impressed with the latter effect, and in December, 1919, she wrote:
+
+"I have become very much interested in the thought of renewing my youth by becoming like a little child. The idea of the mental transition is not unfamiliar, but that this mental, or I should say spiritual, transition should produce a physical effect, which would lead to seeing clearly, is a sort of miracle very possible indeed, I should suppose, to those who have faith.
+
+"In my husband's case, certainly, some such miracle was wrought; for not only was he able to lay aside his spectacles after many years constant use, and to see to read in almost any light, but I particularly noticed his serenity of mind after treatments. In this serenity he seemed able to do a great deal of work efficiently, and not under the high nervous pressure whose after-effect is the devastating scattering of forces.
+
+"It did not occur to me for a long time that perhaps your treatment w as quieting his nerves. But I think now that the quiet periods of relaxation, two or three times a day, during which he practiced with the letter card, must have had a very beneficial effect. He is so enthusiastic by nature, and his nerves are so easily stimulated, that for years he used to overdo periodically. Of course, his greatly improved eyesight and the relief from the former strain must have been a large factor in this improvement. But I am inclined to think that the intervals of quiet and peace were wonderfully beneficial. and why shouldn't they be? We are living on stimulants, physical stimulants, mental stimulants of all kinds. The minute these stop we feel we are merely existing, and yet, if we retain any of the normality of our youth, do you not think that we respond very happily to natural simple things ?"
+
+RELIEF AFTER TWENTY-FIVE YEARS
+
+While many persons are benefited by the accepted methods of treating defects of vision, there is a minority of cases, known to every eye specialist, which gets little or no help from them. These patients sometimes give up the search for relief in despair, and sometimes continue it with surprising pertinacity, never being able to abandon the belief, in spite of the testimony of experience, that somewhere in the world there must be some one with sufficient skill to fit them with the right glasses. The rapidity with which these patients respond to treatment by relaxation is often very dramatic, and affords a startling illustration of the superiority of this method to treatment by glasses and muscle-cutting. In the following case relaxation did in twenty-four hours what the old methods, as practiced by a succession of eminent specialists, could not do in twenty-five years.
+
+The patient was a man of forty-nine, and his imperfect sight was accompanied by continual pain and misery, culminating twenty years before I saw him, in a complete nervous breakdown. As he was a writer, dependent upon his pen for a living, his condition was a serious economic handicap, and he consulted many specialists in the vain hope of obtaining relief. Glasses did little,- either to improve his sight, or to relieve his discomfort, and the eye specialists talked vaguely about disease of the optic nerve and brain as a possible cause of his troubles. The nerve specialists, however, were unable to do anything to relieve him. One specialist diagnosed his case as muscular, and gave him prisms, which helped him a little.
+
+Later, the same specialist, finding that all of the apparent muscular trouble was not corrected by glasses, cut the external muscles of both eyes. This also brought some relief, but not much. At the age of twenty-nine the patient suffered the nervous breakdown already mentioned. For this he was treated unsuccessfully by various specialists, and for nine years he was compelled to live out of doors. This life, although it benefited him, failed to restore his health, and when he came to me on September I5, 1919, he was still suffering from neurasthenia. His distant vision was less than 20/40, and could not be improved by glasses. He was able to read with glasses, but could not do so without discomfort. I could find no symptom of disease of the brain or of the interior of the eye. When he tried to palm he saw grey land yellow instead of black; but he was able to rest his eyes simply by closing them, and by this means alone he became able, in twenty-four hours, to read diamond type and to make out most of the letters on the twenty line of the test card at twenty feet. At the same time his discomfort was materially relieved. He was under treatment f or about six weeks, and on October 25 he wrote as follows:
+
+"I saw you last on October 6, and at the end of the week, the 11th, I started off on a ten-day motor trip as one of the officials of the Cavalry Endurance Test for horses. The last touch of eyestrain which affected me nervously at all I experienced on the 8th and 9th. On the trip, though I averaged but five hours' sleep, rode all day in an open motor without goggles and wrote reports at night by bad lights, I had no trouble. After the third day the universal slow swing seemed to establish itself, and I have never had a moment's discomfort since. I stood fatigue and excitement better than I have ever done, and went with less sleep. My practicing on the trip was necessarily somewhat curtailed, yet there was noticeable improvement in my vision. Since returning I have spent a couple of hours a day in practice, and have at the same time done a lot of writing.
+
+"Yesterday, the 24th, I made a test with diamond type, and found that after twenty minutes' practice I could get the lines distinct, and make out the capital letters and bits of the text at a scant three inches. At seven I could read it readily, though I could not see it perfectly. This was by an average daylight - no sun. In a good daylight I can read the newspaper almost perfectly at a normal reading distance, say fifteen inches.
+
+"I feel now that I am really out of the woods. I have done night work without suffering for it, a thing I have not done in twenty-five years, and I have worked steadily for more hours than I have been able to work at a time since my breakdown in 1899, all without sense of strain or nervous fatigue. You can imagine my gratitude to you. Not only for my own sake, but for yours, I shall leave no stone unturned to make the cure complete and get back the child eyes which seem perfectly possible in the light of the progress I have made in eight weeks."
+
+SEEKING A MYOPIA CURE
+
+In spite of the emphasis with which the medical profession denies the possibility of curing errors of refraction, there are many lay persons who refuse to believe that they are incurable. The author of the following statement represents a considerable class, and was remarkable only in the persistency with which he searched for relief. He was first seen on June 27, 1919, at which time he was thirty-two years of age. He was wearing concave 2.50D.S. for each eye, and his vision in each eye was 20/100 - . After he had obtained almost normal vision he wrote the following account of his experiences for Better Eyesight:
+
+### Ausgabe
+Gib ausschliesslich die fertige deutsche Uebersetzung aus. Keine Vorbemerkung, keine Analyse, keine Erklaerung, keine Formulierung wie 'Hier ist die Uebersetzung'.

@@ -1,0 +1,81 @@
+# Kapitel 018: Chapter 17: Vision Under Adverse Conditions a Benefit to the Eyes
+
+*Buch: Perfect Sight Without Glasses - Alexei Tolstoi*
+*Stil: **stil-05-sachbuch** (assemble aus 1 Szenen)*
+*Erstellt am: 2026-08-17T21:17:32*
+
+---
+
+## Szene 1
+
+## Szene 1
+
+## Kapitel 17 – Sehen unter widrigen Umständen als Vorteil für die Augen
+
+KAPITEL XVII – SEHEN UNTER WIDRIGEN UMSTÄNDEN EIN VORTEIL FÜR DIE AUGEN
+
+Den anerkannten Vorstellungen von Augengesundheit zufolge ist es wichtig, die Augen vor einer Vielzahl von Einflüssen zu schützen, denen man oft nur schwer ausweichen kann und denen sich die meisten Menschen mit dem unbehaglichen Gefühl fügen, dadurch „ihre Sehkraft zu ruinieren“. Helle Lichter, künstliche Lichter, schwache Lichter, plötzliche Lichtschwankungen, Kleindruck, Lesen in fahrenden Fahrzeugen, Lesen im Liegen usw. gelten seit langem als „schlecht für die Augen“, und es sind Bibliotheken voller Literatur über ihre angeblich verheerenden Wirkungen hervorgebracht worden. Diese Vorstellungen stehen in diametralem Gegensatz zur Wahrheit. Wenn die Augen richtig gebraucht werden, schadet das Sehen unter widrigen Umständen ihnen nicht nur nicht, sondern ist sogar ein tatsächlicher Nutzen, weil ein höheres Maß an Entspannung erforderlich ist, um unter solchen Bedingungen zu sehen als unter günstigeren. Es stimmt, dass die fraglichen Bedingungen anfangs selbst Menschen mit normaler Sehkraft Unbehagen bereiten können; aber eine sorgfältige Untersuchung der Tatsachen hat gezeigt, dass nur Personen mit unvollkommener Sehkraft ernsthaft darunter leiden und dass sich solche Personen, wenn sie die zentrale Fixation üben, schnell daran gewöhnen und großen Nutzen daraus ziehen.
+
+Obwohl die Augen dazu gemacht sind, auf Licht zu reagieren, herrscht sowohl in der Ärzteschaft als auch unter den Laien eine weit verbreitete Angst vor der Wirkung dieses Elements auf die Sehorgane. In unseren Häusern, Büros und Schulen werden außerordentliche Vorkehrungen getroffen, um das Licht, ob natürlich oder künstlich, zu dämpfen und sicherzustellen, dass es nicht direkt in die Augen scheint; Rauch- und Bernsteinbrillen, Augenschirme, breitkrempige Hüte und Sonnenschirme werden allgemein verwendet, um die Sehorgane vor dem zu schützen, was man für einen Lichtüberschuss hält; und wenn eine tatsächliche Erkrankung vorliegt, ist es nicht ungewöhnlich, dass Patienten wochen-, monate- und jahrelang in dunklen Räumen oder mit Verbänden über den Augen gehalten werden.
+
+Nicht das Licht, sondern die Dunkelheit ist gefährlich für das Auge. Längerer Lichtentzug senkt stets die Sehkraft und kann ernsthafte entzündliche Zustände hervorrufen. Bei Kleinkindern, die in Mietshäusern leben, ist dies eine recht häufige Ursache für Hornhautgeschwüre, die schließlich das Sehvermögen zerstören. Die Kinder, die ihre Augen lichtempfindlich finden, vergraben sie in den Kissen und schließen so das Licht völlig aus. Die allgemeine Angst davor, bei schwachem Licht zu lesen oder feine Arbeiten zu verrichten, ist jedoch unbegründet. Solange das Licht ausreicht, dass man ohne Unbehagen sehen kann, ist diese Praxis nicht nur unschädlich, sondern kann nützlich sein.
+
+Plötzliche Lichtkontraste sollen besonders schädlich für das Auge sein. Die Theorie, auf der diese Vorstellung beruht, wird von Fletcher B. Dresslar, Fachmann für Schulhygiene und Gesundheit an der US-Bildungsbehörde, wie folgt zusammengefast:
+
+„Die Muskeln der Iris sind in ihren Bewegungen automatisch, aber eher langsam. Plötzliche Kontraste von starkem Licht und schwacher Beleuchtung sind schmerzhaft und auch schädlich für die Netzhaut. Wen zum Bespiel das Auge, an schwaches Licht angepast, plotzlich einem hel beleuchteten Gegenstand zugewendet wird, empfangt die Netzhaut zu viel Licht und wird geschockt, bevor die Muskeln, die die Iris steuern, reaieren können, um den überschssigen Licht auszuschließen. Sind die Kontraste nicht stark, aber häufig, das heißt, muss das Auge dort funktioniren, wo häufige Anpassungen in dieser Weise notwendig sind, werden die die Iris steuernden Muskeln ermüdet, reaigern langamer und weniger vollkommen. Das führt zu einer Anspannung der Ziliarmuskeln, und die Netzhaut wird überreizt. Dies ist eine Ursache für Kopfschmerzen und müde Augen.“
+
+Es gibt keinerlei Beweise zur Stützung dieser Behauptungen. Zweifellos verursachen plötzliche Lichtschwankungen vielen Menschen Unbehagen, aber weit davon entfernt, schädlich zu sein, habe ich in allen beobachteten Fällen festgestellt, dass sie tatsächlich nützlich sind. Die Pupille des normalen Auges verändert sich, wenn es normale Sehkraft hat, unter dem Einfluss von Beleuchtungsänderungen nicht merklich; und Personen mit normaler Sehkraft werden durch solche Änderungen nicht beunträchtigt. Ich habe einen Patienten gesehen, der nach dem Kommen aus einem nur unvolkommen beleuchteten Raum direckt in die Sonne blikte, dann in den Raum rückerte und sofort eine Zeitung aufnam und las. Wenn das Auge unvolkommene Sehkraft hat, ziet sich die Pupile gewöhnlich im Licht zusamen und weit sich im Dunkeln, aber es ist schon beobachted worden, dass sie sich im Dunkeln auf die Größe eines Nadelöhrs zusamen zog. Ob die Zusamenziehung unter dem Eifluss von Licht oder von Dunkelheit stattfindet, die Ursache ist die gleiche, nämich Anspannung. Personen mit unvolkommener Sehkraft erleiden große Unbehagen, die zu vrminderter Sehkraft führen, durch Verängerungen der Lichtintensistät; aber die vrminderte Sehkraft ist immer vorübergehend, und wenn das Auge beharrlich diesen Bedingungen ausgesetzt wird, wird die Sehkraft gebessert. Praktiken wie das abwechselnde Lesen bei hellem und schwachem Licht oder das Gehen von einem dunklen Raum in einen hel erleuchteten und umgekert sind zu empfehlen. Selbst so schnelle und heftige Lichtschwankungen wie die bei der Erzeugung des Filmbildes, sind auf lange Sicht für alle Augen förderlich. Ich rate Patienten unter Behandlung zur Heilung fehlerhafter Sehkraft stets, häufig ins Kino zu gehen und zentrale Fixation zu üben. Sie gewöhnen sich schnell an das flakernde Licht, und danach verursachen anderes Licht und Reflexionen weniger Störungen.
+
+Das Lesen gilt als eines der notwendigen Übel der Zivilisation; man glabt jedoch, dass man durch das Vermeiden von Kleindruck und die Sorgfalt, nur unter bestimmten günstigen Bedingungen zu lesen, seine schädlichen Einflüsse minimiern kann. Umfangreiche Unterschungen über die Wirkung verscchiedener Schriftbilder auf die Sehkraft von Schulkindern wurden durchgefürt, und detaillierte Regeln wurden aufgestellt hinsichtlich der Größe des Drucks, seiner Schatierung, des Abstandes der Buchstaben voneinader, der Zwischenräume zwischen den Zeilen, der Länge der Zeilen usw. Hinsichtlich der Wirkungen verschiedener Schriftarten auf das menschliche Auge im Allgemeinen und das von Kindern im Besonderen macht Dr. A. G. Young in seinem viel zitirten Bericht an das Gesundheitsamt des Staates Maine die folgenden interresanten Beobachtungen:
+
+Pearl, wie die Drucker es nennen, ist für irgendein Auge ungeignet, dennoch locken die Stapel von Bibeln und Testamenten, die jährlich darin gedruckt werden, viele Augen zur Selbsterstörung.
+
+Agate ist die Schrift, in der, nach Wisen des Verfassers, ein Junge unternam, die Bibel ganz durchzulesen. Seine empörten Augen versagten mit Asthenopie, befor er weit kam, und konnten in den nächsten beien Jahren kaum für die Schularbeit gebraucht werden.
+
+Nonpareil wird in einigen Zeitungen und Zeitschriften für Kinder verwndet, aber um die Augen zu schohnen, gehören alle solche auf die Liste des verbotenen Leseosts in jen Häusern, wo die Gefahr eines solchen Drucks verstanden wird.
+
+Minion wird vom gesunden, normalen jungen Auge ohne wesenliche Schwierigkeit gelesen, aber selbst für das gesunde Auge ist die Gefahr der Anspannung so groß, dass alle Kinderbücher und -zeitschriften, die darin gedruckt sind, aus dem Haus und der Schule verbannt werden sollten.
+
+Brevier wird viel in Zeitungen verwndet, ist aber zu klein für Zeitrschriften oder Bücher für junge Leute.
+
+Bourgeois wird viel in Zeitrschriften verwndet, sollte aber nur in solchen Schulbüchern verwndet werden, auf die nur kurz verwiesen wird.
+
+Long Primer eignet sich für Schullesebücher der oberen und mittleren Klassen sowie für Lehrbücher im Allgemeinen.
+
+Small Pica ist eine noch großzügigere Schrift, die in der *North American Review* und im *Forum* verwndet wird.
+
+Pica ist eine gute Schrift für Bücher für kleine Kinder.
+
+Great Primer sollte für das erste Lesebuch verwendet werden.
+
+All dies steht in direkktem Widerspruch zu meiner eigenen Erfahrug. Kinder mögen von Büchern in übermäßig klenem Druck gelangweilt werden; aber ich habe nie einen Grund ge sehen, anzunehemen, dass ihre Augen oder irgendwelche an deren Augen durch solchen Schriftsatz geschädigt würden. Im Gegeteil hat sich das Lesen von Klenstdruck, wenn es ohne Unbehagen möglich ist, stets als vorteilhaft erweisen, und je dünkler das Licht, in dem es gelesen werden kann, und je näher es an die Augen gehalten werden kann, desto größer der Nutzen. Auf diese Weise wurden starke Schmerzen in den Augen innerhalb weniger Minuten oder sogar augenblicklich gelindert. Der Grund ist, dass Klenstdruck bei schwachem Licht und nah an den Augen nicht gelesen werden kann, wenn die Augen nicht entspannt sind, während Großdruck bei gutem Licht und in normaler Lesentfernung gelesen werden kann, auch wenn die Augen unter Anspannung stehen. Wenn Klenstdruck unter widrigen Bedingungen gelesen werden kann, verbessert sich das Lesen von gewöhnlichem Druck unter gewöhnlichen Bedingungen erheblich. Bei Myopie kann es ein Vorteil sein, sich anzu strengen, um Klenstdruck zu sehen, weil Myopie immer verringert wird, wenn eine Anspannung besteht, nahe Objekte zu sehen, und dies hat manchmal der Tendenz zur Anspannung beim Bliken in die Ferne entggen gewirkt, die stets mit der Entstehung von Myopie verbunden ist. Selbst das Anstrengen, um einen so feinen Druck zu sehen, dass er nicht gelesen wetden kann, ist für manche Myopen von Vorteil.
+
+Personen, die ihr Sehvermögen bewahren möchten, wird häufig davon abgeraten, in fahrenden Fahrzeugen zu lesen; da jedoch viele Menschen unter den modernen Lebensbedingungen einen großen Teil ihrer Zeit in fahrenden Fahrzeugen verbringen müssen und viele von ihnen keine andere Zeit zum Lesen haben, ist es zwecklos zu erwarten, dass sie diese Gewohnheit jemals ablegen werden. Glücklicherweise wird die Theorie ihrer Schädlichkeit durch die Tatsachen nicht gestützt. Wenn der betrachtete Gegenstand mehr oder weniger schnell bewegt wird, entsteht zunächst stets Anspannung und herabgesetztes Sehvermögen; dies ist jedoch stets vorübergehend, und letztlich wird das Sehvermögen durch diese Übung verbessert.
+
+**Sieben Wahrheiten des normalen Sehvermögens**
+
+1.  Normales Sehvermögen kann am normalen Auge stets nachgewiesen werden, jedoch nur unter günstigen Umständen.
+2.  Zentrale Fixation: Der Buchstabe oder der Teil des Buchstabens, der betrachtet wird, wird stets am besten gesehen.
+3.  Shifting: Der betrachtete Punkt wechselt schnell und ununterbrochen.
+4.  Swing – Wenn das Shifting langsam erfolgt, scheinen sich die Buchstaben mit einer pendelartigen Bewegung von einer Seite zur anderen oder in andere Richtungen zu bewegen.
+5.  Das Gedächtnis ist vollkommen. Die Farbe und der Hintergrund der Buchstaben oder anderer gesehener Objekte werden vollkommen, augenblicklich und ununterbrochen erinnert.
+6.  Die Vorstellungskraft ist gut. Man kann sogar den weißen Teil der Buchstaben weißer sehen, als er wirklich ist, während das Schwarz durch Entfernung, Beleuchtung, Größe oder Form der Buchstaben nicht verändert wird.
+7.  Ruhe oder Entspannung von Auge und Geist ist vollkommen und kann stets nachgewiesen werden.
+Wenn einer dieser sieben Grundsätze vollkommen ist, sind es alle.
+
+**Abb. 49. Probe der Diamantschrift.**
+Viele Patienten haben durch das Lesen von Schrift dieser Größe große Hilfe erfahren.
+
+**Abb. 50. Photografische Schriftverkleinerung.**
+Patienten, die photografische Schriftverkleinerungen lesen können, werden beim Lesen sofort von Schmerz und Unbehagen befreit, und diejenigen, die solche Schrift nicht lesen können, können allein durch das Anschauen Nutzen daraus ziehen.
+
+Es gibt wahrscheinlich keine Sehgewohnheit, vor der wir nachhaltiger gewarnt wurden als das Lesen in liegender Haltung. Viele einleuchtende Gründe wurden für ihre angebliche Schädlichkeit angeführt; doch die Gewohnheit ist so erfreulich, dass sich wohl nur wenige jemals aus Angst vor den Folgen davon haben abhalten lassen. Daher ist es erfreulich, feststellen zu können, dass ich diese Folgen als eher wohltuend denn als schädlich gefunden habe. Wie bei der Nutzung der Augen unter anderen schwierigen Umständen ist es eine gute Sache, im Liegen lesen zu können, und die Fähigkeit dazu verbessert sich mit der Übung. In aufrechter Haltung, mit gutem Licht, das über die linke Schulter kommt, kann man mit den Augen unter einem beträchtlichen Maß an Anspannung lesen; in liegender Haltung jedoch, bei ungünstigem Lichteinfall und ungünstigem Winkel der Seite zum Auge, kann man nicht lesen, ohne zu entspannen. Wer im Liegen ohne Unbehagen lesen kann, wird wahrscheinlich unter gewöhnlichen Bedingungen keinerlei Schwierigkeiten beim Lesen haben.
+
+Tatsache ist, dass das Sehen unter schwierigen Bedingungen ein gutes mentales Training ist. Der Geist mag anfangs durch die ungünstige Umgebung gestört werden; nachdem er sich jedoch an solche Umgebungen gewöhnt hat, verbessern sich die geistige Kontrolle und folglich auch das Sehvermögen. Von der Nutzung der Augen unter ungünstigen Bedingungen abzuraten, ist, als würde man jemandem, der einige Wochen im Bett gelegen hat und es schwierig findet zu gehen, empfehlen, auf solche Übungen zu verzichten. Natürlich muss in beiden Fällen Umsicht walten.
+
+Aber so, wie der Genesende seine Kraft allmählich steigern kann, bis der Marathon für ihn keinen Schrecken mehr hat, so kann auch das Auge mit fehlerhaftem Sehvermögen geschult werden, bis alle Regeln, mit denen wir uns so lange im Namen der „Augenhygiene“ haben quälen lassen, nicht nur ungestraft, sondern mit Nutzen missachtet werden können.
+
+*School Hygiene, Brief Course Series in Education*, herausgegeben von Monroe, 1916, S. 240
+
+*Seventh Annual Report to the Maine State Board of Health*, von Sekretär Dr. A. G. Young, 1891, S. 193.
+

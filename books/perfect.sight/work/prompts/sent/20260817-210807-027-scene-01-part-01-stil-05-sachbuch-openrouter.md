@@ -1,0 +1,129 @@
+# Gesendeter Prompt 027
+
+- Zeitstempel: 20260817-210807
+- Provider: openrouter
+- Modell: deepseek/deepseek-v4-flash
+- Stil: stil-05-sachbuch
+- Kapitel: 027
+- Szene: 01
+- Chunk: 01/02
+- Temperatur: 0.4
+- max_tokens: 12000
+- System-Zeichen: 2695
+- User-Zeichen: 10360
+
+## System
+
+Du bist ein literarischer Uebersetzer. Du uebersetzt aus der Ausgangssprache ins Deutsche.
+
+---
+Buch: Perfect Sight Without Glasses (William Horatio Bates, M.D. (1860–1931))
+Sprache: en -> de
+
+### Verbindliches Style-Profil
+
+Das folgende Profil enthaelt verbindliche Stil- und Rekonstruktionsregeln fuer diesen Lauf (stil-05-sachbuch). Die globalen Ausgabe-Regeln und das im Arbeitsauftrag uebermittelte Glossar haben bei Konflikten Vorrang.
+
+Übersetze den englischen Ausgangstext als präzises, ruhiges historisches Sachbuch.
+
+Bewahre vollständig die Argumentation, Reihenfolge, Absätze, Beispiele, Fallberichte,
+Zitate, Zahlen, Tabellenhinweise, Verweise und historischen medizinischen Behauptungen.
+Fasse nichts zusammen und füge keine modernen medizinischen Erklärungen hinzu.
+
+Verwende ein klares, fachlich lesbares Deutsch. Keine literarische Ausschmückung,
+keine werbliche Sprache, keine Dramatisierung und keine erfundenen Zwischenüberschriften.
+Modernisiere Bates’ medizinische Auffassungen nicht stillschweigend und korrigiere sie
+nicht im Übersetzungstext. Die historische Perspektive muss erkennbar bleiben.
+
+Halte die Terminologie aus dem Buch-Glossar konsistent. Besonders wichtig sind
+„Anspannung“ für „strain“, „zentrale Fixation“ für „central fixation“,
+„Akkommodation“ für „accommodation“ und „Refraktion“ für „refraction“.
+Myopie, Hypermetropie/Hyperopie, Astigmatismus, Presbyopie, Amblyopie und Netzhaut
+werden als etablierte deutsche Fachbegriffe verwendet.
+
+Bei historischen Methodenbezeichnungen darf der englische Ausdruck bei der ersten
+Verwendung in Klammern erhalten bleiben, wenn dies die begriffliche Orientierung
+verbessert; danach bleibt die gewählte deutsche Form konsistent.
+
+Erhalte die Unterscheidung zwischen Bates’ eigener Stimme, zitierten Autoritäten,
+Patientenbriefen und Fallberichten. Verändere keine medizinischen Zahlen, Namen,
+Quellenangaben oder Versuchsbedingungen. OCR- oder Quellenfehler dürfen nicht erfunden
+oder kreativ geglättet werden; bei einem unklaren Ausgangstext bleibe möglichst nah am
+vorliegenden Text.
+
+Gib ausschließlich die Übersetzung aus. Keine Vorbemerkung, keine Analyse und keine
+Kommentare außerhalb des übersetzten Textes.
+
+### Harte Ausgabe-Regeln
+
+Diese Regeln haben Vorrang vor widersprechenden Angaben im Style-Profil.
+
+- Gib nur die Uebersetzung aus.
+- Keine Vorbemerkung, keine Zusammenfassung, keine Analyse.
+- Keine Saetze wie 'Hier ist die Uebersetzung'.
+- Keine Markdown-Ueberschriften, Vorabsaetze, Lede, Prologe oder sonstige Struktur-Ergaenzungen erfinden, ausser sie stehen bereits im Quelltext.
+- Inhalt, Reihenfolge und Fakten des Quelltexts bleiben erhalten; nichts ergaenzen, das nicht im Quelltext steht.
+
+## User
+
+Uebersetze den folgenden Text ins Deutsche.
+
+### Buch
+- Titel: Perfect Sight Without Glasses
+- Autor: William Horatio Bates, M.D. (1860–1931)
+- Stil: stil-05-sachbuch
+- Style-Profil: books\perfect.sight\styles\stil-05-sachbuch.md
+- Das Style-Profil steht im System-Prompt und ist verbindlich.
+
+### Verbindliche Namen und Begriffe
+
+Nutze diese Schreibweisen, wenn die genannten Personen oder Begriffe im Quelltext vorkommen. Nicht aufgefuehrte Personen-, Stammes-, Orts- und Titelnamen werden konservativ transliteriert oder im Zweifel in der erkennbaren Quellform beibehalten.
+- strain -> Anspannung
+- central fixation -> zentrale Fixation
+- accommodation -> Akkommodation
+- refraction -> Refraktion
+- myopia -> Myopie
+- hypermetropia -> Hypermetropie
+- hyperopia -> Hyperopie
+- astigmatism -> Astigmatismus
+- presbyopia -> Presbyopie
+- amblyopia -> Amblyopie
+- squint -> Schielen
+- palming -> Palming (Abdecken der Augen mit den Händen)
+- shifting -> Shifting (Verschieben des Blicks)
+- sunning -> Sunning (Sonnenübung)
+- retina -> Netzhaut
+- optic nerve -> Sehnerv
+
+### Zu uebersetzender Text
+
+Interne Arbeitsportion 1/2 derselben Szene. Uebersetze nur diesen Abschnitt fortlaufend ins Deutsche. Keine neue Szenenueberschrift erzeugen.
+
+## Chapter 26: The Prevention of Myopia in Schools: Methods That Failed
+
+CHAPTER XXVI - THE PREVENTION OF MYOPIA IN SCHOOLS: METHODS THAT FAILED
+
+NO phase of ophthalmology, not even the problem of accommodation, has been the subject of so much investigation and discussion as the cause and prevention of myopia. Since hypermetropia was supposed to be due to a congenital deformation of the eyeball, and astigmatism, until recently, was also supposed to be congenital in most cases, these conditions were not thought to call for any explanation, nor to admit of any prevention; but myopia appeared to be acquired. It therefore presented a problem of immense practical importance to which many eminent men devoted years of labor.
+
+Voluminous statistics were collected regarding its occurrence, and are still being collected. The subject has produced libraries of literature. But very little light is to be gained from the perusal of this material, and for the most part it leaves the reader with an impression of hopeless confusion. It is impossible even to arrive at any conclusion as to the prevalence of the complaint; for not only has there been no uniformity of standards and methods, but none of the investigators has taken into account the fact that the refraction of the eye is not a constant condition, but one which continually varies. There is no doubt, however, that most children, when they begin school, are free from this defect, and that both the number of cases and the degree of the myopia steadily increase as the educational process progresses. Professor Hermann Cohen, of Breslau, whose report of his study of the eyes of upwards of 10,000 children first called general attention to this subject, found scarcely one per cent of myopia in the village schools, twenty to forty per cent in the Realschulen, thirty to thirty-five in the gymnasia, and fifty-three to sixty-four in the professional schools. His investigations were repeated in many cities of Europe and America, and his observations, with some difference in percentages, everywhere confirmed.
+
+These conditions were unanimously attributed to the excessive use of the eyes for near work, though, according to the theory that the lens is the agent of accommodation, it was a little difficult to see just why near work should have this effect. On the supposition that accommodation was effected by an elongation of the eyeball, it would have been easy to understand why an excessive amount of accommodation should produce a permanent elongation. But why should an abnormal demand on the accommodative power of the lens produce a change, not in the shape of that body, but in that of the eyeball ? Numerous answers to this question have been proposed, but no one has yet succeeded in finding a satisfactory one. In the case of children it has been assumed by many authorities that, since the coats of the eye are softer in youth than in later years, they are unable to withstand a supposed intraocular tension produced by near work. When other errors of refraction, such as hypermetropia and astigmatism, believed to be congenital, were present, it has been supposed that the accommodative struggle for distinct vision produced irritation and strain which encouraged the production of short sight. When the condition developed in adults, the explanations had to be modified to fit the case, and the fact that a considerable number of cases were observed among peasants and others who did not use their eyes for near work led some authorities to divide the anomaly into two classes, one caused by near work and one unrelated to it, the latter being conveniently attributed to hereditary tendencies.
+
+As it was impossible to abandon the educational system, attempts were made to minimize the supposed evil effects of the reading, writing and other near work which it demanded. Careful and detailed rules were laid down by various authorities as to the sizes of type to be used in schoolbooks, the length of the lines, their distance apart, the distance at which the book should be held, the amount and arrangement of the light, the construction of the desks, the length of time the eyes might be used without a change of focus, etc. Face-rests were even devised to hold the eyes at the prescribed distance from the desk and to prevent stooping, which was supposed to cause congestion of the eyeball and thus to encourage elongation. The Germans, with characteristic thoroughness, actually used these instruments of torture, Cohn never allowing his own children to write without one, "even when sitting at the best possible desk."
+
+The results of these preventive measures were disappointing. Some observers reported a slight decrease in the percentage of myopia in schools in which the prescribed reforms had been made, but on the whole, as Risley has observed in his discussion of the subject in Norris and Oliver's System of Diseases of the Eye, "the injurious results of the educational process were not notably arrested."
+
+"It is a significant, though discouraging, fact," he continues, "that the increase, as found by Cohn both in the percentage and in the degree of myopia, had taken place in those schools where he had especially exerted himself to secure the introduction of hygienic reforms; and the same is true of the observations of Just, who had examined the eyes of twelve hundred and twenty-nine of the pupils of the two high schools of Zittau, in both of which the hygienic conditions were all that could be desired. He found, nevertheless, that the excellent arrangements had not in any degree lessened the percentage of increase in myopia."
+FIG. 56. FACE-REST DESIGNED BY KALLMANN-, A GERMAN OPTICIAN.
+Cohn never allowed his children to write without it even when sitting at the best possible desk.
+
+Further study of the subject has only added to its difficulty, while at the same time it has tended to relieve the schools of much of the responsibility formerly attributed to them for the production of myopia. As the American Encyclopedia of Ophthalmology points out, "the theory that myopia is due to close work aggravated by town life and badly lighted rooms is gradually giving ground before statistics."
+
+In an investigation in London, for instance, in which the schools were carefully selected to reveal any differences that might arise from the various influences, hygienic, social and racial, to which the children were subjected, the proportion of myopia in the best lighted building of the group was actually found to be higher than in the one where the lighting conditions were worst, although the higher degrees of myopia were more numerous in the latter than in the former. It has also been found that there is just as much myopia in schools where little near work is done as in those in which the demand upon the accommodative power of the eye is greater. It is only a minority of children, moreover, that become myopic; yet all are subject to practically the same influences, and even in the same child one eye may become myopic while the other remains normal. On the theory that shortsight results from any external influence to which the eye is exposed it is impossible to account for the fact that under the same conditions of life the eyes of different individuals and the two eyes of the same individual behave differently.
+
+Owing to the difficulty of reconciling these facts on the basis of the earlier theories, there is now a growing disposition to attribute myopia to hereditary tendencies; but no satisfactory evidence on this point has been brought forward, and the fact that primitive peoples who have always had good eyesight become myopic just as quickly as any others when subjected to the conditions of civilized life, like the Indian pupils at Carlisle, seems to be conclusive evidence against it.
+
+In spite of the repeated failure of preventive measures based upon the limitation of near work and the regulation of lighting, desks, types, etc., the use of the eyes at the nearpoint under unfavorable conditions is still admitted by most exponents of the heredity theory as probably, if not certainly, a secondary cause of myopia. Sidler-Huguenin, however, whose startling conclusions as to the hopelessness of controlling shortsight were quoted earlier, has observed so little benefit from such precautions that he believes a myope may become an engineer just as well as a farmer, or a forester; and as a result of his experiences with anisometropes, persons with an inequality of refraction between the two organs of vision, he even suggests that the use of myopic eyes may possibly be more favorable to their well-being than their non-use. In 150 cases in which, owing to this inequality and other conditions, the subjects practically used but one eye, the weaker organ, he reports, became gradually more and more myopic, sometimes excessively so, in open defiance of all the accepted theories relating to the matter.
+
+### Ausgabe
+Gib ausschliesslich die fertige deutsche Uebersetzung aus. Keine Vorbemerkung, keine Analyse, keine Erklaerung, keine Formulierung wie 'Hier ist die Uebersetzung'.

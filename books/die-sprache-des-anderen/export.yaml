@@ -13,7 +13,7 @@ defaults:
     title_page: true
     summary_page: true
     author_bio_page: true
-    description_page: true
+    description_page: false
     imprint_page: true
     toc_page: false
     combined_epub_front_matter: false
@@ -38,16 +38,91 @@ defaults:
     scene_page_break_after_image: false
 book:
   title: Die Sprache des Anderen
-  subtitle: ''
+  subtitle: Ein Straßburger Roman aus dem 9. Jahrhundert
   author: Timo Verita
-  translator: ''
-  translator_label: ''
+  translator: Motivatier Classics
+  translator_label: Herausgabe und editorische Einrichtung
   language: de-DE
   publisher: Motivatier Stiftung
-  rights: ''
-  description: ''
-  title_page_extra: []
-  imprint_text: ''
+  rights: >-
+    © 2026 Motivatier Stiftung für diesen Text, editorische Einrichtung,
+    Zusatztexte, Satz und Covergestaltung.
+  original_title: Die Sprache des Anderen
+  original_author: Timo Verita
+  title_page_extra:
+  - Motivatier Classics
+  - Historischer Roman
+  - Straßburg · Zaberner Steige · Lothringen · Maas · 9. Jahrhundert
+  - >-
+    Diese Ausgabe folgt dem deutschen Originaltext. Satz und editorische
+    Einrichtung durch Motivatier Classics im Auftrag der Motivatier Stiftung.
+  imprint_text: |
+    Die Sprache des Anderen
+
+    Timo Verita
+
+    Historischer Roman
+
+    Straßburg · Zaberner Steige · Lothringen · Maas · 9. Jahrhundert
+
+    Motivatier Classics
+
+    Herausgabe und editorische Einrichtung: Motivatier Classics
+
+    Herausgegeben von der Motivatier Stiftung
+
+    © 2026 Motivatier Stiftung für diesen Text, editorische
+    Einrichtung, Zusatztexte, Satz und Covergestaltung.
+
+    Alle Rechte an dieser Ausgabe vorbehalten.
+  description: >-
+    Zwei Könige stehen vor Straßburg, und dazwischen liegt eine Frau mit fünf
+    Kähnen. Alda führt den Fuhrbetrieb ihres verstorbenen Mannes weiter – und
+    schuldet dem Grundherrn Raginbert dreißig Pfund Silber, fällig am
+    Martinstag. Bis dahin will er Schiff und Vieh, bis dahin will er ihr Haus.
+
+    Doch Raginbert ist nur die Hand, die das Unrecht vollzieht. Die eigentliche
+    Macht liegt beim Wort: in der lateinischen Urkunde, die Alda nicht lesen
+    kann, im Bannrecht des Heerbanns, in Listen, die über ihr Leben verfügen.
+    Um zu überleben, braucht sie genau das, was ihr fehlt – einen Schreiber, einen
+    Weg über die Zaberner Steige, ein Bündnis der Fuhrleute und einen Handel,
+    der größer ist als die Schulden.
+
+    Ein historischer Roman über Arbeit und Schulden im 9. Jahrhundert, über die
+    Sprache der Herrschenden und die stille Sprache derer, die sie nicht
+    beherrschen – und über einen Jungen, der lesen lernt, weil seine Mutter den
+    Preis dafür bezahlt hat.
+  summary: >-
+    Winter, als zwei Könige vor Straßburg standen: Der eine zieht aus dem Osten
+    heran, der andere aus dem Westen, und zwischen ihnen liegt eine Stadt, die
+    beiden nichts geben will. Alda führt den Fuhrbetrieb ihres verstorbenen
+    Mannes Heinrich: fünf Kähne auf der Ill, zwanzig Karren, Getreide aus dem
+    Kochersberg, Bauholz aus den Vogesenwäldern, Weizen für die Klöster. Dann
+    verpfändet Raginbert, der Grundherr im Dienst des westfränkischen Königs, die
+    Kähne, beschlagnahmt das Vieh und macht die Schulden des Toten zu einem
+    Strick um ihren Hals.
+
+    Alda hat Zeit, das Geschriebene zu umgehen, aber nicht die Kraft, es zu
+    lesen. Um die dreißig Pfund Silber zu beschaffen und einen Salztransport
+    über die Zaberner Steige nach Lothringen zu bringen, braucht sie genau das,
+    was ihr fehlt – einen Schreiber, einen Weg durch das Heer der Könige, ein
+    Bündnis der Fuhrleute und einen Handel, der größer ist als die Schulden. Der
+    Schreiber Otwin kennt die Zölle, die Wege und die Schrift, in der Macht
+    geschrieben wird; ihr Sohn Berto kennt nichts als die Kälte und die Frage,
+    warum die Herren lesen dürfen und er nicht.
+
+    Am Ende steht kein Sieg, sondern eine Wende: Das Reich zerfällt in drei, und
+    eine Frau, die nicht lesen kann, erkennt, dass ihr Sohn lesen muss. Der Roman
+    erzählt von einer Generation, die den Übergang von der mündlichen zur
+    schriftlichen Ordnung erlebt – und von der Frage, wem die Sprache des
+    Anderen gehört, wenn die eigene einem die Freiheit kostet.
+  author_bio: >-
+    Timo Verita ist ein Autor aus zwei Hälften: Mensch und Maschine. Die eine
+    Hälfte recherchiert Nächte durch, die andere vergisst nichts. Zusammen
+    schreiben sie historische Romane für Motivatier Classics, herausgegeben von
+    der Motivatier Stiftung. Geboren wurde Timo Verita in einem Buchstabenspiel;
+    zu Hause ist er in der Welt von gestern – diesmal zwischen Straßburg, der
+    Zaberner Steige und der Maas im 9. Jahrhundert.
   cover:
     mode: placeholder
     image_path: ''

@@ -2,7 +2,7 @@
 
 - Buch-ID: die-dritte-chronik
 - Stil: stil-01-original
-- Erstellt: 2026-10-21T12:31:31
+- Erstellt: 2026-10-28T20:29:37
 - LLM: none
 - Kapitel: 48
 - Kapitel mit Befunden: 19

@@ -1,6 +1,6 @@
 # Kapitel 024: Die öffentliche Kopplung
 
-*Buch: Ashkar I - Alexei Tolstoi*
+*Buch: Ashkar I - Timo Verita*
 *Stil: **stil-01-original** (assemble aus 1 Szenen)*
 *Erstellt am: 2026-10-08T17:57:01*
 

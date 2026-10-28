@@ -1,6 +1,6 @@
 # Kapitel 005: Kapitel 5: Глава V
 
-*Buch: Der Moloch - Alexei Tolstoi*
+*Buch: Der Moloch - Alexander Iwanowitsch Kuprin*
 *Stil: **stil-01-original** (assemble aus 1 Szenen)*
 *Erstellt am: 2026-09-29T18:08:53*
 

@@ -1,6 +1,6 @@
 # Kapitel 091: Kapitel 91: XVIII
 
-*Buch: Das Leben Arsenjews - Alexei Tolstoi*
+*Buch: Das Leben Arsenjews - Iwan Bunin*
 *Stil: **stil-02-poetisch** (assemble aus 1 Szenen)*
 *Erstellt am: 2026-07-27T17:12:25*
 

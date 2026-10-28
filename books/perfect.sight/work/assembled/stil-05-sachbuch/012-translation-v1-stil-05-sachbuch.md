@@ -1,6 +1,6 @@
 # Kapitel 012: Chapter 11: Central Fixation
 
-*Buch: Perfect Sight Without Glasses - Alexei Tolstoi*
+*Buch: Perfect Sight Without Glasses - William Horatio Bates, M.D. (1860–1931)*
 *Stil: **stil-05-sachbuch** (assemble aus 1 Szenen)*
 *Erstellt am: 2026-08-17T21:17:31*
 

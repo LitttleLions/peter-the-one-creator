@@ -1,6 +1,6 @@
 # Kapitel 004: Kapitel 4: IV
 
-*Buch: Tausend Seelen - Alexei Tolstoi*
+*Buch: Tausend Seelen - Alexei Feofilaktowitsch Pissemski*
 *Stil: **stil-02-poetisch** (assemble aus 1 Szenen)*
 *Erstellt am: 2026-09-21T13:43:13*
 

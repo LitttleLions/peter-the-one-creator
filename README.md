@@ -69,12 +69,16 @@ versioniert unter `books/die-dritte-chronik/work/imports/romanforge/`.
 
 Die Sprache des Anderen (`books/die-sprache-des-anderen/`, Timo Verita,
 DE-Original): 34/34 Kapitel, Gate ERROR=0/WARNING=0/INFO=0, Buch-EPUB
-`book-die-sprache-des-anderen-stil-01-original-20261028-195240.epub`
+`book-die-sprache-des-anderen-stil-01-original-20261028-201552.epub`
 (4.806.312 Bytes, ohne Bypass) mit Cover und Kapitelbildern 001-003.
 Der Lotse von Ruegen (`books/der-lotse-von-ruegen/`, Timo Verita,
 DE-Original): 33/33 Kapitel, Gate ERROR=0/WARNING=0/INFO=20, Cover +
 Kapitelbilder 001-010; Regal-Freigabe `website.enabled: true`
 (sort_order 90), Live-Deploy steht aus.
+Zusaetzlich gibt es `books/der-lotse/` (id `der-lotse`, 32 Kapitel, 32
+Bilder, Gate 0/1/42, `website.enabled: false`) aus `origin/main` - beide
+Pakete gehoeren zum selben Roman und bleiben erhalten; vor Aktionen an
+einem der beiden Rueckfrage.
 Perfect Sight Without Glasses (`books/perfect.sight/`, Sachbuch `en->de`,
 Stil `stil-05-sachbuch`) ist ebenfalls neu.
 

@@ -35,10 +35,10 @@ Einstieg in dieser Reihenfolge (alles lesend, keine Kosten):
    `.\.venv\Scripts\python.exe -m unittest tests.test_book_project`;
    `.\.venv\Scripts\python.exe -m unittest tests.test_import_markdown_original`;
    `.\.venv\Scripts\python.exe tools/status.py --book die-sprache-des-anderen summary`.
-   Erwartet: Branch `main`, 13 Commits vor `origin/main` (kein Push);
+   Erwartet: Branch `main`, mit `origin/main` synchron;
    beide Test-Suiten gruen; `die-sprache-des-anderen` 34/34 done;
    Gate dort ERROR=0/WARNING=0/INFO=0;
-   EPUB `book-die-sprache-des-anderen-stil-01-original-20261028-195240.epub`
+   EPUB `book-die-sprache-des-anderen-stil-01-original-20261028-201552.epub`
    (mit Cover + Kapitelbildern 001-003).
    Print-Vergleich: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`
    (A 924 / B 788 / C 673 / D 643; Cream 776). Gate Pharao erwartet ERROR=0
@@ -72,7 +72,7 @@ KIs bearbeitet wird und eine lokale Memory Bank dadurch schnell veraltet
 bzw. widerspruechlich waere. Massgeblicher Kontext sind AGENTS.md, README.md,
 `docs/HANDOVER.md` sowie die buchlokalen `book.yaml`- und `export.yaml`-Dateien.
 
-Aktuelle Buchpakete (16):
+Aktuelle Buchpakete (17):
 
 - `books/peter-i-buch-01/` - Alexei Tolstoi, Peter der Erste
 - `books/anna-karenina/` - Lew Tolstoi, Anna Karenina (PARKIERT 09/2026)
@@ -89,6 +89,7 @@ Aktuelle Buchpakete (16):
 - `books/pissemski-tausend-seelen/` - Alexei Pissemski, Tausend Seelen (Roh-Anlage 09/2026)
 - `books/die-sprache-des-anderen/` - Timo Verita, Die Sprache des Anderen (DE-Original; RomanForge-Uebernahme 2026-10-28: 34/34 Kapitel, Gate 0/0/0, Cover + Kapitelbilder 001-003, Buch-EPUB `...-20261028-195240.epub` ohne Bypass)
 - `books/der-lotse-von-ruegen/` - Timo Verita, Der Lotse von Ruegen (DE-Original; RomanForge-Uebernahme 2026-10-21: 33/33 Kapitel, Gate 0/0/20, Cover + Kapitelbilder 001-010; Regal `website.enabled: true`, sort_order 90, noch nicht live)
+- `books/der-lotse/` - Timo Verita, Der Lotse von Rügen (zweites Paket desselben Romans, aus `origin/main` übernommen 2026-10-28: 32 Kapitel, 32 Kapitelbilder, Gate 0/1/42, `website.enabled: false`; **Doppelablage** - vor jeder Aktion an einem der beiden Lotse-Pakete Rueckfrage)
 - `books/perfect.sight/` - William Horatio Bates, Perfect Sight Without Glasses (Sachbuch, `en->de`, Stil `stil-05-sachbuch`; Kapitelbilder aus Originalscans, `inline_figures` bewusst aus)
 
 ## Buchpaket-Struktur
@@ -466,11 +467,11 @@ Marketingpaket unter `books/<id>/exports/marketing/` (`campaign.json`,
 Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**
 (Stand 2026-10-28). Kopiertext neues Fenster:
 [docs/uebergabe-prompt.md](./docs/uebergabe-prompt.md).
-Branch: **`main`** (Merge `ce7c1d2` vom 2026-10-28, 13 Commits vor
-`origin/main`, **kein Push**). Der Branch `cline/pveejb87` ist vollstaendig
-eingesmolzen und kann geloescht werden. `main` traegt jetzt die
+Branch: **`main`**, mit `origin/main` synchron (Stand 2026-10-28 abends).
+Der Branch `cline/pveejb87` ist geloescht. `main` traegt die
 RomanForge-Buchpakete (Die Sprache des Anderen, Der Lotse von Ruegen,
-Perfect Sight) sowie den Print-Workflow 2026-09-21
+Der Lotse [zweites Paket], Perfect Sight), das Submodul
+`tools/vendor/amazon-kdp-skill` sowie den Print-Workflow 2026-09-21
 (Trim/Profil/Bilder), davor `1beb55d` Chronik KDP-fertig EPUB
 `...-20260921-131112.epub` plus Tausend Seelen `stil-02-poetisch`; davor
 Peter-I-Raffung 2026-09-17.

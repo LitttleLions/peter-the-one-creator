@@ -1,6 +1,6 @@
 # Kapitel 029: Kapitel 29: VIII
 
-*Buch: Das Leben Arsenjews - Alexei Tolstoi*
+*Buch: Das Leben Arsenjews - Iwan Bunin*
 *Stil: **stil-02-poetisch** (assemble aus 1 Szenen)*
 *Erstellt am: 2026-09-17T19:22:06*
 

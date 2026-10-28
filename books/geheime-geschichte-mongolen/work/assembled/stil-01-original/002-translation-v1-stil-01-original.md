@@ -1,6 +1,6 @@
 # Kapitel 002: Kapitel 002
 
-*Buch: Die Geheime Geschichte der Mongolen - Alexei Tolstoi*
+*Buch: Die Geheime Geschichte der Mongolen - Anonym*
 *Stil: **stil-01-original** (assemble aus 1 Szenen)*
 *Erstellt am: 2026-07-21T15:30:47*
 

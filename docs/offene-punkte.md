@@ -873,6 +873,41 @@ Offen:
 - `books/die-dritte-chronik/source/Die dritte Chronik(1).md` ist lokal
   untracked (Download-Kopie der versionierten Quelle) - `source/` ist tabu.
 
+## 15. Autor-Fix, Merge von origin/main, Push (2026-10-28, abends)
+
+- **`tools/assemble_chapter.py`**: der Kapitelkopf hardcodierte
+  `*Buch: {title} - Alexei Tolstoi*`. `render_header()` und
+  `assemble_chapter()` nehmen jetzt `book_author` (aus `book.yaml`) als
+  Parameter; der Aufrufer reicht `book.get("author")` durch. Ohne Autor
+  bleibt die Zeile `*Buch: {title}*`.
+- Bestandskorrektur: 457 Assembled-Dateien in 8 Buechern hatten die falsche
+  Autorenzeile (u.a. Ashkara, Chronik, Leben Arsenjews, Mongolen, Kuprin-Moloch,
+  Pissemski, Peter I, Perfect Sight) und wurden auf den `book.yaml`-Autor
+  umgeschrieben. `books/peter-i-buch-01` bleibt bei „Alexei Tolstoi" (korrekt).
+ Fuer `die-sprache-des-anderen` und `der-lotse-von-ruegen` wurden die
+  v1-Assemblies durch v2 ersetzt (34/34 bzw. 33/33 Kapitel, Wortzahl
+  unveraendert 110.375 / 104.783).
+- **Autorenschreibweise**: `export.yaml` + `book.yaml` von
+  `die-sprache-des-anderen` schrieben „Timo Veritas" (mit s) -> jetzt
+  „Timo Verita", passend zu allen uebrigen Buechern. Der Export uebernimmt
+  `export.yaml` (`meta = {**defaults, **book_cfg}`), `book.yaml` ist nur
+  Fallback.
+- **`origin/main` war 2 Commits vorn** (`140047c`, `7b809c1`): dort liegt ein
+  zweites Lotse-Paket `books/der-lotse` (id `der-lotse`, 32 Kapitel, 32
+  Kapitelbilder, Gate ERROR=0/WARNING=1/INFO=42, `website.enabled: false`,
+  sort_order 70, Quelle `Der Lotse von Rügen Full I.md`). Der Merge auf
+  `main` lief konfliktfrei; beide Lotse-Pakete bleiben erhalten (Kapitel 1-29
+  Titel identisch, der Schluss unterscheidet sich: remote „An fremden Tauen /
+  Die offene Rechnung / Der Vermerk von Eldena", lokal „Die Grete / Was ich
+  zugesagt habe / Ein Anfang aus altem Holz / Die Namen").
+- **Neues Submodul** `tools/vendor/amazon-kdp-skill`
+  (`joshyattridge/amazon-kdp-skill`, Commit `9194489d`) aus `origin/main`;
+  lokal per `git submodule update --init --recursive` eingerichtet.
+- Export neu fuer `die-sprache-des-anderen`:
+  `book-die-sprache-des-anderen-stil-01-original-20261028-201552.epub`,
+  Autorenzeile „Timo Verita", kein „Existing"-Testeintrag im Reihenkatalog
+  mehr (Paket geloescht).
+
 ## Empfohlene Reihenfolge
 
 1. Punkt 0 (Peter-I-Pruefung, vorgezogen) - lesend, ohne Kosten.

@@ -9,17 +9,17 @@ Branch-Wechsel, solange der Nutzer es nicht verlangt.
 ---
 
 Du arbeitest im bestehenden Repo `E:\code\peter-the-one-creator` (Branch
-`main`). Kein Clone, kein neues Setup. `main` traegt jetzt die
-RomanForge-Buchpakete; `cline/pveejb87` ist vollstaendig eingesmolten.
+`main`). Kein Clone, kein neues Setup. `main` ist gepusht; der Branch
+`cline/pveejb87` ist geloescht.
 
 Lies zuerst (lesend, keine Kosten):
 
 1. `AGENTS.md` (Regeln, Pipeline, Release-Gate)
 2. `README.md` (Schnellstart)
-3. `docs/HANDOVER.md` (Titel = Stand-Datum; oben **Letzte Session**
-   = Bilder + Aufräumen + Merge nach `main`, 2026-10-28)
+3. `docs/HANDOVER.md` (Titel = Stand-Datum; oben **Letzte Session** =
+   Autor-Fix + Merge von origin/main + Push, 2026-10-28)
 4. `docs/uebernahme-romanforge.md` (Redaktions-/Uebernahme-Ablauf Chronik)
-   und `docs/offene-punkte.md` Punkt 6 plus 12 (Chronik)
+   und `docs/offene-punkte.md` Punkt 6 plus 12 (Chronik) plus 14 plus 15
 
 Danach Lage pruefen (ein Befehl pro Aufruf, kein `head`/`grep`):
 
@@ -30,11 +30,11 @@ git --no-pager status --short --branch
 .\.venv\Scripts\python.exe tools/status.py --book die-sprache-des-anderen summary
 ```
 
-Erwartet: Branch `main`, 13 Commits vor `origin/main` (kein Push);
+Erwartet: Branch `main`, mit `origin/main` synchron;
 `test_book_project` gruen (inkl. `SuggestBookIdTests`);
 `test_import_markdown_original` 41/41 gruen;
 `die-sprache-des-anderen` 34/34 done; Gate dort ERROR=0/WARNING=0/INFO=0;
-EPUB `book-die-sprache-des-anderen-stil-01-original-20261028-195240.epub`
+EPUB `book-die-sprache-des-anderen-stil-01-original-20261028-201552.epub`
 (mit Cover + Kapitelbildern 001-003).
 Chronik-Gate (unveraendert, Kosten-frei):
 `.\.venv\Scripts\python.exe tools/review_manuscript.py --book die-dritte-chronik --style stil-01-original --all --llm none --fail-on-errors`

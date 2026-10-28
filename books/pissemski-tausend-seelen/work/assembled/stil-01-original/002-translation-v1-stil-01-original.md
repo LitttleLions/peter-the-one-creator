@@ -1,6 +1,6 @@
 # Kapitel 002: Kapitel 2: II
 
-*Buch: Tausend Seelen - Alexei Tolstoi*
+*Buch: Tausend Seelen - Alexei Feofilaktowitsch Pissemski*
 *Stil: **stil-01-original** (assemble aus 1 Szenen)*
 *Erstellt am: 2026-09-17T16:54:50*
 

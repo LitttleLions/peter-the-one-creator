@@ -1,6 +1,6 @@
 # Kapitel 024: Chapter 23: Floating Specks: Their Cause and Cure
 
-*Buch: Perfect Sight Without Glasses - Alexei Tolstoi*
+*Buch: Perfect Sight Without Glasses - William Horatio Bates, M.D. (1860–1931)*
 *Stil: **stil-05-sachbuch** (assemble aus 1 Szenen)*
 *Erstellt am: 2026-08-17T21:17:33*
 

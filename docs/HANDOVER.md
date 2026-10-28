@@ -1,9 +1,36 @@
-# Handover – Stand 2026-10-28 (Bilder für „Die Sprache des Anderen", Root-Scratch gelöscht, vollständig auf `main` gemergt)
+# Handover – Stand 2026-10-28 (Autor-Fix, Merge von `origin/main`, Push; alles auf `main`)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei.
 > Kopierfertiger Einstieg: [uebergabe-prompt.md](./uebergabe-prompt.md).
 
-## Letzte Session (2026-10-28, Bilder + Aufräumen + Merge nach `main`)
+## Letzte Session (2026-10-28 abends, Autor-Fix + Push)
+
+Branch **`main`**, **gepusht** (mit `origin/main` synchron). Der Branch
+`cline/pveejb87` ist gelöscht.
+
+- **Autor-Fix**: `tools/assemble_chapter.py` hardcodierte im Kapitelkopf
+  `*Buch: {title} - Alexei Tolstoi*`. `render_header()`/`assemble_chapter()`
+  nehmen jetzt `book_author`; der Aufrufer reicht `book.get("author")` aus
+  `book.yaml` durch. **457** Alt-Dateien in 8 Büchern auf den echten
+  Buch-Autor umgeschrieben (Ashkara, Chronik, Arsenjews, Mongolen,
+  Kuprin-Moloch, Pissemski, Perfect Sight u. a.). `peter-i-buch-01` bleibt
+  korrekt bei „Alexei Tolstoi".
+- **Autorenschreibweise**: `die-sprache-des-anderen` schrieb „Timo Veritas"
+  (mit s) → jetzt „Timo Verita" in `book.yaml` + `export.yaml`, passend zu
+  allen übrigen Büchern. Neuer Export
+  `...-20261028-201552.epub` (Autorenzeile „Timo Verita").
+- **`origin/main` war 2 Commits vorn** und brachte ein **zweites
+  Lotse-Paket** `books/der-lotse` (id `der-lotse`, 32 Kapitel, 32 Bilder,
+  Gate ERROR=0/WARNING=1/INFO=42, `website.enabled: false`,
+  sort_order 70). Merge konfliktfrei; **beide** Lotse-Pakete bleiben
+  erhalten (Kapitel 1–29 Titel identisch, Schlusskapitel unterscheiden sich).
+- **Neues Submodul** `tools/vendor/amazon-kdp-skill` (`9194489d`) aus
+  `origin/main`; lokal per `git submodule update --init --recursive`
+  eingerichtet.
+- Offen (nächster Chat): Push ist erledigt; `docs/offene-punkte.md` Punkt 15
+  dokumentiert die Details.
+
+## Vorige Session (2026-10-28, Bilder + Aufräumen + Merge nach `main`)
 
 Branch **`main`** (Merge `ce7c1d2`), **kein Push**. Ausgangspunkt war
 `cline/pveejb87` (4 Commits darauf, 8 weitere schon vorhanden, `main` 1 Commit

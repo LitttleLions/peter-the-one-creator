@@ -58,11 +58,13 @@ def render_header(
     book_title: str,
     mode: str,
     scene_count: int,
+    book_author: str = "",
 ) -> str:
+    author_suffix = f" - {book_author}" if book_author else ""
     out = [
         f"# Kapitel {chapter_id}: {title_ru}",
         "",
-        f"*Buch: {book_title} - Alexei Tolstoi*",
+        f"*Buch: {book_title}{author_suffix}*",
         f"*Stil: **{mode}** (assemble aus {scene_count} Szenen)*",
         f"*Erstellt am: {datetime.now().isoformat(timespec='seconds')}*",
         "",
@@ -78,6 +80,7 @@ def assemble_chapter(
     style: str,
     book_title: str,
     dry_run: bool = False,
+    book_author: str = "",
 ) -> tuple[Path | None, int, list[int]]:
     scene_map = find_scene_translations(output_root, chapter_id, style)
     if not scene_map:
@@ -89,7 +92,8 @@ def assemble_chapter(
     sorted_nums = sorted(scene_map.keys())
     title_ru = get_title_ru(output_root, chapter_id)
     header = render_header(
-        chapter_id, title_ru, book_title, style, len(sorted_nums)
+        chapter_id, title_ru, book_title, style, len(sorted_nums),
+        book_author=book_author,
     )
 
     parts = [header]
@@ -163,6 +167,7 @@ def main() -> int:
         out_path, words, _missing = assemble_chapter(
             output_root, cid, args.style, book["title"],
             dry_run=args.dry_run,
+            book_author=str(book.get("author") or ""),
         )
         if out_path is None:
             continue

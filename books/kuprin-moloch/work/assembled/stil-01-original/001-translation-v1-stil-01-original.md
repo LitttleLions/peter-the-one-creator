@@ -1,6 +1,6 @@
 # Kapitel 001: Kapitel 1: Глава I
 
-*Buch: Der Moloch - Alexei Tolstoi*
+*Buch: Der Moloch - Alexander Iwanowitsch Kuprin*
 *Stil: **stil-01-original** (assemble aus 1 Szenen)*
 *Erstellt am: 2026-09-13T16:01:57*
 

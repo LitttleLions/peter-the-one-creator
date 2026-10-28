@@ -1,6 +1,6 @@
 # Kapitel 025: Der Onkel
 
-*Buch: Die dritte Chronik - Alexei Tolstoi*
+*Buch: Die dritte Chronik - Motivatier*
 *Stil: **stil-01-original** (assemble aus 1 Szenen)*
 *Erstellt am: 2026-09-21T11:55:11*
 

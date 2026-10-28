@@ -2,7 +2,7 @@
 
 - Buch-ID: der-lotse
 - Stil: stil-01-original
-- Erstellt: 2026-09-27T23:33:39
+- Erstellt: 2026-10-28T20:16:43
 - LLM: none
 - Kapitel: 32
 - Kapitel mit Befunden: 22

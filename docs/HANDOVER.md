@@ -45,7 +45,7 @@ angehalten und gefragt; auf Freigabe erweitert.
   mark` ändert nur vorhandene Kapitel), neuer Buch-EPUB (bisheriger
   `...-20261008-002805.epub` deckt nur 001–018; die Bilder 019–025 sind dafür
   aber schon einsatzbereit), Stufe 2 (`--handoff <id>`; der Übergabe-Prompt
-  nennt es, das Werkzeug kennt es nicht).
+  implementiert in `tools/import_markdown_original.py` + `tools/lib/romanforge_client.py`, Endpunkt `/api/handoffs/{id}` verifiziert).
 
 ## Vorige Session (2026-10-07, RomanForge-Übernahme Stufe 1)
 

@@ -830,6 +830,49 @@ Plan (Stufen 2-4) `docs/plan-uebernahme-romanforge.md`.
   (in `.env` vorhanden). Uebergabe-Prompt nennt den Schalter, das Werkzeug hat
   ihn noch nicht; Abruf laeuft per Exportdatei.
 
+## 14. Neue RomanForge-Buchpakete + Bilder (2026-10-28, auf `main`)
+
+Merge `ce7c1d2` auf `main` (kein Push, 13 Commits vor `origin/main`).
+Drei neue Pakete, alle DE-Originale ausser `perfect.sight` (`en->de`):
+
+- **Die Sprache des Anderen** (`books/die-sprache-des-anderen/`, Timo Verita,
+  34 Kapitel, `rf_id` 232-265): Gate **0/0/0**, Buch-EPUB
+  `...-20261028-195240.epub` (4.806.312 Bytes, `partial:false`,
+  `review_gate_bypassed:false`). Cover + Kapitelbilder 001-003 erzeugt.
+- **Der Lotse von Rügen** (`books/der-lotse-von-ruegen/`, Timo Verita,
+  33 Kapitel): Gate **0/0/20**, Cover + Kapitelbilder 001-010 vorhanden,
+  `website.enabled: true` (sort_order 90) - **Regal-Deploy steht aus**.
+- **Perfect Sight Without Glasses** (`books/perfect.sight/`, William Horatio
+  Bates, Sachbuch, Stil `stil-05-sachbuch`): Kapitelbilder aus
+  Originalscans, `inline_figures` bewusst aus.
+
+Bilder-Ablauf (Credits freigegeben, Modell `gpt_image_2_5`):
+
+```bat
+:: Kapitelbild (Cover kann das Tool NICHT)
+.\.venv\Scripts\python.exe tools\generate_illustration.py --book die-sprache-des-anderen --chapter 004 --kind chapter --style stil-01-original --no-reference
+:: Cover direkt ueber die CLI (2:3, 2k) + Optimierung
+higgsfield generate create gpt_image_2_5 --prompt "<einlinegiger Prompt>" --aspect_ratio 2:3 --resolution 2k --quality medium --wait --json
+.\.venv\Scripts\python.exe tools\optimize_asset_images.py --book die-sprache-des-anderen --scope cover
+```
+
+Offen:
+
+- Push nach `origin/main`; Branch `cline/pveejb87` kann geloescht werden.
+- `tools/assemble_chapter.py:65` hardcodiert `*Buch: {title} - Alexei Tolstoi*`
+  - bei **allen** Buechern falsch (Export filtert die Zeile weg, aber
+  `work/assembled/` zeigt sie). Korrektur auf den Autor aus `book.yaml`.
+- `export.yaml` der Sprache des Anderen schreibt „Timo Veritas" (mit s),
+  `book.yaml` und die uebrigen Buecher schreiben „Timo Verita".
+- Titelei-Texte (`rights`, `description`, `summary`, `author_bio`,
+  `subtitle`) der drei neuen Pakete sind neutral/leer.
+- Weitere Kapitelbilder: Sprache des Anderen 004-034, Lotse 011-033.
+- Cover-Typografie (Titel/Autor im Bild) fehlt beim Sprache-des-Anderen-Cover
+  (der Lotse hat sie).
+- Regal: Lotse sichtbar machen (`build_shelf_website.py` + Deploy).
+- `books/die-dritte-chronik/source/Die dritte Chronik(1).md` ist lokal
+  untracked (Download-Kopie der versionierten Quelle) - `source/` ist tabu.
+
 ## Empfohlene Reihenfolge
 
 1. Punkt 0 (Peter-I-Pruefung, vorgezogen) - lesend, ohne Kosten.
@@ -840,6 +883,8 @@ Plan (Stufen 2-4) `docs/plan-uebernahme-romanforge.md`.
 6. Punkt 11 ist auf `main` (Taschenbuch komplett + Katalog + Trim/Profil/Bilder);
    offen bleibt die menschliche Print-Leseprobe, 788 vs. 776 bei 6x9 classic,
    und ein manuelles `cover-print` je Titel.
-7. Punkt 13 (RomanForge Stufe 1, Branch `cline/pveejb87`): Chronik
-   012/025-Entscheidung und `--new` (Ashkara) nur nach Freigabe.
+7. Punkt 13 (RomanForge Stufe 1): Chronik 012/025-Entscheidung und `--new`
+   (Ashkara) nur nach Freigabe.
+8. Punkt 14 (neue Buchpakete): Push, `assemble_chapter.py`-Autor-Fix,
+   restliche Kapitelbilder, Regal-Deploy Lotse.
 

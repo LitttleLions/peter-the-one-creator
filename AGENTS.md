@@ -19,16 +19,15 @@ Wenn du in diesem Repo arbeitest – ob als Mensch oder als KI – gilt folgende
 ## Fortsetzung im gleichen Ordner / neues Chat-Fenster (gleiche LLM)
 
 Kein neues Setup noetig. Im selben Repo-Ordner
-(`E:\code\peter-the-one-creator`, Branch `cline/pveejb87`) weiterarbeiten,
-neues Fenster reicht. `main` bleibt unberuehrt. Kopiertext:
+(`E:\code\peter-the-one-creator`, Branch `main`) weiterarbeiten,
+neues Fenster reicht. Kopiertext:
 [docs/uebergabe-prompt.md](./docs/uebergabe-prompt.md).
 
 Einstieg in dieser Reihenfolge (alles lesend, keine Kosten):
 
 1. `AGENTS.md` (diese Datei) + `README.md` (Schnellstart) lesen.
 2. `docs/HANDOVER.md` (Titel = Stand-Datum; oben **Letzte Session** =
-   Die Sprache des Anderen verifiziert + Einstieg gehaertet, 2026-10-28,
-   uncommittet) +
+   Bilder + Aufräumen + Merge nach `main`, 2026-10-28) +
    `docs/uebernahme-romanforge.md` + `docs/offene-punkte.md` Punkt 6
    (Chronik-Tabelle).
 3. Lage verifizieren (ein Befehl pro Aufruf, kein `head`/`grep`):
@@ -36,9 +35,11 @@ Einstieg in dieser Reihenfolge (alles lesend, keine Kosten):
    `.\.venv\Scripts\python.exe -m unittest tests.test_book_project`;
    `.\.venv\Scripts\python.exe -m unittest tests.test_import_markdown_original`;
    `.\.venv\Scripts\python.exe tools/status.py --book die-sprache-des-anderen summary`.
-   Erwartet: Branch `cline/pveejb87`, uncommittet; beide Test-Suiten gruen;
-   `die-sprache-des-anderen` 34/34 done; Gate dort ERROR=0/WARNING=0/INFO=0;
-   EPUB `book-die-sprache-des-anderen-stil-01-original-20261028-183226.epub`.
+   Erwartet: Branch `main`, 13 Commits vor `origin/main` (kein Push);
+   beide Test-Suiten gruen; `die-sprache-des-anderen` 34/34 done;
+   Gate dort ERROR=0/WARNING=0/INFO=0;
+   EPUB `book-die-sprache-des-anderen-stil-01-original-20261028-195240.epub`
+   (mit Cover + Kapitelbildern 001-003).
    Print-Vergleich: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`
    (A 924 / B 788 / C 673 / D 643; Cream 776). Gate Pharao erwartet ERROR=0
    (`.\.venv\Scripts\python.exe tools/review_manuscript.py --book pharao --style stil-02-poetisch --all --llm none --fail-on-errors`).
@@ -71,7 +72,7 @@ KIs bearbeitet wird und eine lokale Memory Bank dadurch schnell veraltet
 bzw. widerspruechlich waere. Massgeblicher Kontext sind AGENTS.md, README.md,
 `docs/HANDOVER.md` sowie die buchlokalen `book.yaml`- und `export.yaml`-Dateien.
 
-Aktuelle Buchpakete (13):
+Aktuelle Buchpakete (16):
 
 - `books/peter-i-buch-01/` - Alexei Tolstoi, Peter der Erste
 - `books/anna-karenina/` - Lew Tolstoi, Anna Karenina (PARKIERT 09/2026)
@@ -86,6 +87,9 @@ Aktuelle Buchpakete (13):
 - `books/kuprin-moloch/` - Alexander Kuprin, Der Moloch (Roh-Anlage 09/2026)
 - `books/grin-wellenlaeuferin/` - Alexander Grin, Die Wellenlaeuferin (Roh-Anlage 09/2026)
 - `books/pissemski-tausend-seelen/` - Alexei Pissemski, Tausend Seelen (Roh-Anlage 09/2026)
+- `books/die-sprache-des-anderen/` - Timo Verita, Die Sprache des Anderen (DE-Original; RomanForge-Uebernahme 2026-10-28: 34/34 Kapitel, Gate 0/0/0, Cover + Kapitelbilder 001-003, Buch-EPUB `...-20261028-195240.epub` ohne Bypass)
+- `books/der-lotse-von-ruegen/` - Timo Verita, Der Lotse von Ruegen (DE-Original; RomanForge-Uebernahme 2026-10-21: 33/33 Kapitel, Gate 0/0/20, Cover + Kapitelbilder 001-010; Regal `website.enabled: true`, sort_order 90, noch nicht live)
+- `books/perfect.sight/` - William Horatio Bates, Perfect Sight Without Glasses (Sachbuch, `en->de`, Stil `stil-05-sachbuch`; Kapitelbilder aus Originalscans, `inline_figures` bewusst aus)
 
 ## Buchpaket-Struktur
 
@@ -460,10 +464,13 @@ Marketingpaket unter `books/<id>/exports/marketing/` (`campaign.json`,
 ## Aktueller Stand
 
 Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**
-(Stand 2026-10-07). Kopiertext neues Fenster:
+(Stand 2026-10-28). Kopiertext neues Fenster:
 [docs/uebergabe-prompt.md](./docs/uebergabe-prompt.md).
-Branch: `cline/pveejb87` (nicht `main`); Tip `e93f4a2` RomanForge-Uebernahme
-Stufe 1. `main` traegt weiter den Print-Workflow 2026-09-21
+Branch: **`main`** (Merge `ce7c1d2` vom 2026-10-28, 13 Commits vor
+`origin/main`, **kein Push**). Der Branch `cline/pveejb87` ist vollstaendig
+eingesmolzen und kann geloescht werden. `main` traegt jetzt die
+RomanForge-Buchpakete (Die Sprache des Anderen, Der Lotse von Ruegen,
+Perfect Sight) sowie den Print-Workflow 2026-09-21
 (Trim/Profil/Bilder), davor `1beb55d` Chronik KDP-fertig EPUB
 `...-20260921-131112.epub` plus Tausend Seelen `stil-02-poetisch`; davor
 Peter-I-Raffung 2026-09-17.

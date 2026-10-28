@@ -64,9 +64,19 @@ Aktuelles Buch-EPUB `book-die-dritte-chronik-stil-01-original-20260921-131112.ep
 Punkt 6 + 12. Offen: Kindle-Preview + Leseprobe, KDP-Upload durch Nutzer.
 
 Redaktions-/Uebernahme fuer DE-Originale laeuft seit 2026-10-07 ueber RomanForge
-(`docs/uebernahme-romanforge.md`, Stufe 1, commit `e93f4a2`, Branch
-`cline/pveejb87`); Ausgangsstand versioniert unter
-`books/die-dritte-chronik/work/imports/romanforge/`.
+(`docs/uebernahme-romanforge.md`, Stufe 1, commit `e93f4a2`); Ausgangsstand
+versioniert unter `books/die-dritte-chronik/work/imports/romanforge/`.
+
+Die Sprache des Anderen (`books/die-sprache-des-anderen/`, Timo Verita,
+DE-Original): 34/34 Kapitel, Gate ERROR=0/WARNING=0/INFO=0, Buch-EPUB
+`book-die-sprache-des-anderen-stil-01-original-20261028-195240.epub`
+(4.806.312 Bytes, ohne Bypass) mit Cover und Kapitelbildern 001-003.
+Der Lotse von Ruegen (`books/der-lotse-von-ruegen/`, Timo Verita,
+DE-Original): 33/33 Kapitel, Gate ERROR=0/WARNING=0/INFO=20, Cover +
+Kapitelbilder 001-010; Regal-Freigabe `website.enabled: true`
+(sort_order 90), Live-Deploy steht aus.
+Perfect Sight Without Glasses (`books/perfect.sight/`, Sachbuch `en->de`,
+Stil `stil-05-sachbuch`) ist ebenfalls neu.
 
 Pharao (LIVE): Print-Optionen 2026-09-21 auf `main` (Trim/Profil/Bilder).
 Innenleben A–D: 924 / 788 / 673 / 643 Seiten; Cream-Limit 776. Gate ERROR=0

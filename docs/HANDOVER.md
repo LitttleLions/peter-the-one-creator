@@ -1,9 +1,88 @@
-# Handover – Stand 2026-10-28 (Die Sprache des Anderen verifiziert: 34/34, Gate 0/0/0, EPUB 3,9 MB; Einstieg gehärtet, uncommittet auf Branch `cline/pveejb87`)
+# Handover – Stand 2026-10-28 (Bilder für „Die Sprache des Anderen", Root-Scratch gelöscht, vollständig auf `main` gemergt)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei.
 > Kopierfertiger Einstieg: [uebergabe-prompt.md](./uebergabe-prompt.md).
 
-## Letzte Session (2026-10-28, Doppelablage geklärt + Einstieg gehärtet)
+## Letzte Session (2026-10-28, Bilder + Aufräumen + Merge nach `main`)
+
+Branch **`main`** (Merge `ce7c1d2`), **kein Push**. Ausgangspunkt war
+`cline/pveejb87` (4 Commits darauf, 8 weitere schon vorhanden, `main` 1 Commit
+vorn). Alles ist jetzt auf `main`; `cline/pveejb87` ist vollständig
+eingesmolzen und kann gelöscht werden.
+
+### 1. Bilder für `die-sprache-des-anderen` (Credits freigegeben)
+
+- `book.yaml`: `illustration_setting` (9. Jh., Straßburg/Ill/Rhein, Winter,
+  Heerlager, Franken-Tracht) + `higgsfield:`-Block (`gpt_image_2_5`, 3:4, 1k,
+  medium, `image_processing` JPEG q60/1024, Cover q75/1600×2400).
+- `names.yaml`: 14 Einträge (6 Personen mit `visual`-Kurzbeschreibung für den
+  Figurenblock, 8 Orte). Vorher leer.
+- **Kapitelbilder 001–003** via `generate_illustration.py --kind chapter
+  --no-reference` (kein Moodboard für dieses Buch, also reiner Prompt).
+  Ergebnis: `assets/chapter/chapter-001..003.jpg` (772×1024), stilkonsistent
+  und periodisch plausibel (Alda im Vordergrund, Raginbert zu Pferd, Kähne,
+  Ketten, Lager).
+- **Cover** über die Higgsfield-CLI direkt (`higgsfield generate create
+  gpt_image_2_5 --aspect_ratio 2:3 --resolution 2k --quality medium --wait`),
+  Job `f2f6da57-…`, 1360×2048 PNG → `assets/covers/cover.png`, dann
+  `optimize_asset_images.py --scope cover` → `cover.jpg` (482 KB) +
+  `cover_alt.jpg` (Archiv).
+- **Wichtig:** `tools/generate_illustration.py` kann **kein Cover** (nur
+  `--kind chapter|scene`). Cover laufen über die CLI + `optimize_asset_images.py`.
+- Gate danach erneut: **ERROR=0 / WARNING=0 / INFO=0**, Exit 0.
+- Neuer Buch-EPUB `book-die-sprache-des-anderen-stil-01-original-20261028-195240.epub`
+  (4.806.312 Bytes), Manifest `partial:false`, `review_gate_errors:0`,
+  `review_gate_bypassed:false`, 3 Illustrationen, Cover als `cover-image`
+  registriert (`<meta name="cover" content="file11_jpg"/>`).
+
+### 2. Aufräumen
+
+- **Gelöscht** (per Freigabe): `SUMMARY.md`, `SUMMARY_FINAL.md`,
+  `tools/create_placeholders.py`, `books/existing/` (Wegwerf-Testpaket:
+  id `existing`, Autor „Testautor", Inhalt = Chronik-Kopie; stand mit
+  `website.enabled: true` im **Reihenkatalog des EPUB**), `.scratch-lotse/`
+  (Scratch im Repo-Root), `test.jpg`, `hub_logos_request.json`,
+  `hub_logos_request_decoded.md`.
+- **Behalten**: `books/perfect.sight/` (echtes Sachbuch-Paket, 594 Dateien) +
+  `tools/{analyze,generate,import,process}_perfect_sight*.py`; die 4
+  `books/der-lotse-von-ruegen/assets/chapter/chapter-00{5..9}`-PNG+`_alt`-Paare.
+- `books/die-dritte-chronik/source/Die dritte Chronik(1).md` bleibt **lokal
+  untracked** (Browser-Download-Kopie der versionierten Quelle, `source/` ist
+  tabu).
+
+### 3. Merge
+
+- 4 Commits auf `cline/pveejb87`: `4d382d1` Einstieg-Härtung + Doku,
+  `08087d0` beide Buchpakete, `8776da2` Perfect Sight, `9a3f625` Review-/
+  Exportartefakte. Merge auf `main`: `ce7c1d2` (ort, keine Konflikte).
+- Tests nach dem Merge: `test_book_project` 2/2 OK,
+  `test_import_markdown_original` 41/41 OK.
+- `status.py`: `die-sprache-des-anderen` 34/34 done,
+  `der-lotse-von-ruegen` 33/33 done, Gate dort ERROR=0/WARNING=0/INFO=20.
+- **Kein Push** – `main` ist 13 Commits vor `origin/main`.
+
+### 4. Offen (nächster Chat)
+
+- **Push nach `origin/main`** (13 Commits) – noch nicht erfolgt.
+- `cline/pveejb87` kann gelöscht werden (alles auf `main`).
+- Titelei-Texte `export.yaml` von `die-sprache-des-anderen` sind weiterhin
+  neutral (leere `rights`/`description`/`summary`/`author_bio`). Autor bleibt
+  laut Nutzerentscheidung **Timo Verita**; `export.yaml` schreibt aber
+  „Timo Veritas" (mit s) – Schreibweise angleichen.
+- `tools/assemble_chapter.py:65` hardcodiert im Kapitelkopf
+  `*Buch: {title} - Alexei Tolstoi*`. Das ist bei **allen** Büchern falsch
+  (auch beim Lotse-Buch). Wird beim Export weggefiltert, steckt aber in
+  `work/assembled/`. Korrektur auf den Buch-Autor aus `book.yaml` ist offen.
+- Weitere Kapitelbilder für `die-sprache-des-anderen` (004–034) und
+  `der-lotse-von-ruegen` (011–033) sind nicht erzeugt; Cover-Typografie
+  (Titel/Autor im Bild) fehlt – beim Lotse-Buch ist sie vorhanden.
+- Regal: `der-lotse-von-ruegen` hat `website.enabled: true` (sort_order 90),
+  ist aber im Live-Katalog noch nicht sichtbar.
+- Shell-Integration flackert in dieser Umgebung („Command completion could
+  not be observed"). Workaround: Ausgabe per `Out-File` in eine Datei und
+  diese lesen.
+
+## Vorige Session (2026-10-28, Doppelablage geklärt + Einstieg gehärtet)
 
 Branch **`cline/pveejb87`**, **nicht committet, kein Push**.
 Vor-Session behauptete Buch-ID `sprache-des-anderen` (Stub, 12-Zeilen-`book.yaml`

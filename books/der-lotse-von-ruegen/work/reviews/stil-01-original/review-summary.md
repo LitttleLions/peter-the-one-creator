@@ -2,7 +2,7 @@
 
 - Buch-ID: der-lotse-von-ruegen
 - Stil: stil-01-original
-- Erstellt: 2026-10-21T23:32:49
+- Erstellt: 2026-10-28T19:58:32
 - LLM: none
 - Kapitel: 33
 - Kapitel mit Befunden: 12

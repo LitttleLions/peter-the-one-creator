@@ -12,16 +12,19 @@ Dadurch werden fertige Kapitel nicht unnoetig erneut durch ein LLM geschickt.
 ## Schnellstart Fuer KI Und Menschen
 
 1. Neues Chat-Fenster, gleicher Ordner: Kopiertext
-   [docs/uebergabe-prompt.md](docs/uebergabe-prompt.md). Sonst zuerst
-   `AGENTS.md` (Sektion „Einstieg fuer neue KI-Sitzung“), dann
-   `docs/HANDOVER.md`, dann diese README. Unter Windows die Projektumgebung
+   [docs/uebergabe-prompt.md](docs/uebergabe-prompt.md). Der Kopiertext sagt
+   klar: **erst diese README (Schnellstart + Arbeitsplan) und
+   `docs/kontextanalyse.md` (Abschnitt 1 + 5) lesen, dann den Stand melden
+   und auf die Aufgabe warten.** `docs/HANDOVER.md` und
+   `docs/offene-punkte.md` erst lesen, wenn die konkrete Aufgabe sie
+   braucht. Unter Windows die Projektumgebung
    `.\.venv\Scripts\python.exe` verwenden (siehe Voraussetzungen).
 2. Arbeite immer buchbezogen unter `books/<book-id>/`.
 3. Aendere Originalquellen in `books/<book-id>/source/` und Material in
    `logic/` nicht ohne ausdrueckliche Rueckfrage. Neufassungen DE-Originale nur
    ueber RomanForge-Export (`docs/uebernahme-romanforge.md`), nicht mehr als
    Dateien unter `status/`. `source/` bleibt tabu.
-4. Pruefe den Stand mit `.\.venv\Scripts\python.exe tools/status.py --book <book-id> summary`. Bei `Buch mit id=<x> nicht gefunden`: sofort stoppen, keine Alternativ-ID erfinden oder per Zweitordner anlegen; aehnliche IDs aus der Fehlermeldung beachten und per Rueckfrage klaeren.
+4. Pruefe den Stand mit `.\.venv\Scripts\python.exe tools/status.py --book <book-id> summary`. Bei `Buch mit id=<x> nicht gefunden`: sofort stoppen, keine Alternativ-ID erfinden oder per Zweitordner anlegen; aehnliche IDs aus der Fehlermeldung beachten und per Rueckfrage klaeren. Suche immer mit Pfad-Filter (`Select-String -Path '<pfad>' -Pattern '<muster>'`), nie ungefiltert ueber das ganze Repo - der Suchindex enthaelt `node_modules/`, `.npm-cache/` und generierte Artefakte und liefert sonst 100 Kollateraltreffer.
 5. Baue keine eigenen Pruef-Skripte oder Datei-Listen. Nutze die vorhandenen
    CLIs unter `tools/` (z. B. `review_manuscript.py`, `status.py`,
    `assemble_chapter.py`, `export_manuscript.py`). Alles andere ist unnoetiger
@@ -40,6 +43,9 @@ Dadurch werden fertige Kapitel nicht unnoetig erneut durch ein LLM geschickt.
 > `docs/HANDOVER.md`, `docs/uebergabe-prompt.md` sowie die buchlokalen
 > `book.yaml`- und `export.yaml`-Dateien. Der Ordner `memory-bank/`
 > steht in `.gitignore`.
+>
+> **Einstiegskosten:** Warum der Einstieg so teuer ist und welche Hebel es
+> gibt, steht gemessen in [docs/kontextanalyse.md](docs/kontextanalyse.md).
 
 ## Arbeitsplan / Offene Punkte
 
@@ -69,8 +75,10 @@ versioniert unter `books/die-dritte-chronik/work/imports/romanforge/`.
 
 Die Sprache des Anderen (`books/die-sprache-des-anderen/`, Timo Verita,
 DE-Original): 34/34 Kapitel, Gate ERROR=0/WARNING=0/INFO=0, Buch-EPUB
-`book-die-sprache-des-anderen-stil-01-original-20261028-201552.epub`
-(4.806.312 Bytes, ohne Bypass) mit Cover und Kapitelbildern 001-003.
+`book-die-sprache-des-anderen-stil-01-original-20261028-203757.epub`
+(5.361.120 Bytes, ohne Bypass) mit Cover (Titel/Autor im Bild) und
+Kapitelbildern 001-003. Titelei (Rechte, Untertitel, Zusammenfassung,
+Autorenbio, Impressum) ist gefüllt; siehe `docs/HANDOVER.md`.
 Der Lotse von Ruegen (`books/der-lotse-von-ruegen/`, Timo Verita,
 DE-Original): 33/33 Kapitel, Gate ERROR=0/WARNING=0/INFO=20, Cover +
 Kapitelbilder 001-010; Regal-Freigabe `website.enabled: true`

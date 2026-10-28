@@ -8,13 +8,19 @@
 
 Wenn du in diesem Repo arbeitest – ob als Mensch oder als KI – gilt folgende Reihenfolge. Alles andere ist Eigenbau und vermeidbar.
 
-1. Lies `AGENTS.md` (diese Datei), dann `README.md`, dann `docs/HANDOVER.md`. Stoppe dort, wenn du den Stand verstanden hast.
-2. Frage nie den Status ab, den `.\.venv\Scripts\python.exe tools/status.py --book <buch-id> summary` schon liefert. Bei `Buch mit id=<x> nicht gefunden`: sofort stoppen, keine Alternativ-ID erfinden oder per Zweitordner anlegen; aehnliche IDs aus der Fehlermeldung beachten und per Rueckfrage klaeren.
+0. **Erst lesen, dann warten.** Lies `README.md` (Schnellstart + Arbeitsplan) und `docs/kontextanalyse.md` (Abschnitt 1 + 5). Melde dann den Stand in 3-5 Saetzen und **frage nach der Aufgabe**. Lege noch nichts an, teste nichts, suche nicht im Repo und exportiere nichts, bis der Nutzer eine konkrete Aufgabe nennt. Das spart ~45.000 Tokens pro Sitzung; die Messung steht in `docs/kontextanalyse.md`.
+1. Frage nie den Status ab, den `.\.venv\Scripts\python.exe tools/status.py --book <buch-id> summary` schon liefert. Bei `Buch mit id=<x> nicht gefunden`: sofort stoppen, keine Alternativ-ID erfinden oder per Zweitordner anlegen; aehnliche IDs aus der Fehlermeldung beachten und per Rueckfrage klaeren.
+2. Suche **immer mit Pfad-Filter** (`Select-String -Path '<pfad>' -Pattern '<muster>'`), nie ungefiltert ueber das ganze Repo. Der Suchindex enthaelt `node_modules/`, `.npm-cache/` und generierte Artefakte (`books/*/exports/`, `books/*/work/assembled/`, `books/*/work/reviews/`); ein repo-weiter Griff liefert 100 Kollateraltreffer (~48 KB pro Aufruf).
 3. Baue keine eigenen Pruef-Skripte oder Datei-Listen. Nutze die vorhandenen CLIs unter `tools/` (siehe Schnellstart in `README.md`). Keine `SUMMARY*.md` im Repo-Root, keine `tools/create_*.py` ohne Freigabe; Placeholder-Bilder gehoeren nicht zur Pipeline.
 4. Arbeite immer buchbezogen unter `books/<buch-id>/`. Nie eigenmaechtig in `source/` eingreifen. Zwei Ordner fuer einen Titel (z. B. `sprache-des-anderen` vs. `die-sprache-des-anderen`): sofort stoppen, per Rueckfrage klaeren, kein Assembly/Export vorher.
 5. Unter Windows fuer dieses Projekt immer `.\.venv\Scripts\python.exe` verwenden, auch fuer `-m pip`. `py -3` nur zum Anlegen der `.venv`. Nicht auf `python`, `pip` oder einen aktivierten Venv verlassen: diese koennen auf andere Installationen zeigen. Einrichtung und Diagnose stehen in der README unter „Python-Abhaengigkeiten“; aeltere `py -3`-/`python`-Beispiele entsprechend ersetzen. In der PowerShell kein `head`/`grep` verwenden (`Select-Object -First N`); bei labiler Shell ein CLI pro Aufruf.
 6. EPUB-/ZIP-/Artifact-Probleme werden separat nach Absprache gelöst – sie sind kein Grund, den Einstieg zu verlassen.
 7. Im Zweifel: erst fragen, dann schreiben. Keine Spekulation, keine Massendatei-Lesung, kein `tmp_*.py` im Repo-Root.
+**Was die Einstiegskosten verursacht und wie sie sinken:** gemessen in
+[`docs/kontextanalyse.md`](./docs/kontextanalyse.md) (Hebel A-D). Kernaussage:
+fuenf Dokumente tragen denselben Stand (191.597 Bytes), und der Suchindex
+umfasst 9.504 Dateien. Beides ist Ursache der Tokenflut beim Einstieg.
+
 
 ## Fortsetzung im gleichen Ordner / neues Chat-Fenster (gleiche LLM)
 
@@ -23,40 +29,40 @@ Kein neues Setup noetig. Im selben Repo-Ordner
 neues Fenster reicht. Kopiertext:
 [docs/uebergabe-prompt.md](./docs/uebergabe-prompt.md).
 
-Einstieg in dieser Reihenfolge (alles lesend, keine Kosten):
+Der Kopiertext regelt den Einstieg: **erst `README.md` und
+`docs/kontextanalyse.md` (Abschnitt 1 + 5) lesen, dann den Stand melden und
+auf die Aufgabe warten.** `docs/HANDOVER.md`, `docs/offene-punkte.md` und
+`docs/uebernahme-romanforge.md` werden erst gelesen, wenn die konkrete
+Aufgabe sie braucht.
 
-1. `AGENTS.md` (diese Datei) + `README.md` (Schnellstart) lesen.
-2. `docs/HANDOVER.md` (Titel = Stand-Datum; oben **Letzte Session** =
-   Bilder + Aufräumen + Merge nach `main`, 2026-10-28) +
-   `docs/uebernahme-romanforge.md` + `docs/offene-punkte.md` Punkt 6
-   (Chronik-Tabelle).
-3. Lage verifizieren (ein Befehl pro Aufruf, kein `head`/`grep`):
-   `git --no-pager status --short --branch`;
-   `.\.venv\Scripts\python.exe -m unittest tests.test_book_project`;
-   `.\.venv\Scripts\python.exe -m unittest tests.test_import_markdown_original`;
-   `.\.venv\Scripts\python.exe tools/status.py --book die-sprache-des-anderen summary`.
-   Erwartet: Branch `main`, mit `origin/main` synchron;
-   beide Test-Suiten gruen; `die-sprache-des-anderen` 34/34 done;
-   Gate dort ERROR=0/WARNING=0/INFO=0;
-   EPUB `book-die-sprache-des-anderen-stil-01-original-20261028-201552.epub`
-   (mit Cover + Kapitelbildern 001-003).
-   Print-Vergleich: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`
-   (A 924 / B 788 / C 673 / D 643; Cream 776). Gate Pharao erwartet ERROR=0
-   (`.\.venv\Scripts\python.exe tools/review_manuscript.py --book pharao --style stil-02-poetisch --all --llm none --fail-on-errors`).
-   Chronik KDP-fertig: Gate ERROR=0/WARNING=13/INFO=36,
-   EPUB `...-20260921-131112.epub`.
-4. Review-Details Chronik: `books/die-dritte-chronik/work/reviews/stil-01-original/chapters/NNN-review.md`.
-   Redaktions-Ablauf Chronik (RomanForge-Uebergabe, Stufe 1):
-   Exportdatei nennen -> `import_markdown_original.py --compare`
-   (mit `--baseline`, nur Bericht) -> `--accept` nur fuer freigegebene
-   Kapitel (max. 5 pro Paket, im Werkzeug erzwungen; auch `neu`-Kapitel per
-   Exportposition, z. B. `--accept 019`; `status/<Titel> - NN ….md` ist ersetzt) ->
-   pro Kapitel `assemble_chapter.py` + `review_manuscript --chapter NNN --llm none`
-   -> Kurzbericht (nur ERROR/WARNING/INFO), naechstes Paket.
-   Kein OpenRouter fuer Redaktion. `status/status.json` und `status/logs/`
-   bleiben unveraendert. Details: `docs/uebernahme-romanforge.md`.
-   Offene Redaktionskandidaten und ihre Einstufung (C/c/b) stehen in
-   `docs/offene-punkte.md` Punkt 6.
+Verifikation (nur wenn die Aufgabe es erfordert; ein Befehl pro Aufruf, kein
+`head`/`grep`):
+
+```text
+git --no-pager status --short --branch
+.\.venv\Scripts\python.exe -m unittest tests.test_book_project
+.\.venv\Scripts\python.exe -m unittest tests.test_import_markdown_original
+.\.venv\Scripts\python.exe tools/status.py --book die-sprache-des-anderen summary
+```
+
+Erwartet: Branch `main`, mit `origin/main` synchron; beide Test-Suiten gruen;
+`die-sprache-des-anderen` 34/34 done, Gate dort ERROR=0/WARNING=0/INFO=0,
+EPUB `book-die-sprache-des-anderen-stil-01-original-20261028-203757.epub`
+(Cover + Kapitelbilder 001-003, Titelei gefuellt). Chronik KDP-fertig: Gate
+ERROR=0/WARNING=13/INFO=36, EPUB `...-20260921-131112.epub`. Print-Vergleich
+Pharao: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`
+(A 924 / B 788 / C 673 / D 643; Cream 776).
+
+Redaktions-Ablauf Chronik (RomanForge-Uebernahme, Stufe 1), falls gebraucht:
+Exportdatei nennen -> `import_markdown_original.py --compare` (mit
+`--baseline`, nur Bericht) -> `--accept` nur fuer freigegebene Kapitel
+(max. 5 pro Paket, im Werkzeug erzwungen; auch `neu`-Kapitel per
+Exportposition, z. B. `--accept 019`; `status/<Titel> - NN ….md` ist ersetzt) ->
+pro Kapitel `assemble_chapter.py` + `review_manuscript --chapter NNN --llm none`
+-> Kurzbericht (nur ERROR/WARNING/INFO), naechstes Paket. Kein OpenRouter fuer
+Redaktion. `status/status.json` und `status/logs/` bleiben unveraendert.
+Details: `docs/uebernahme-romanforge.md`. Offene Redaktionskandidaten und ihre
+Einstufung (C/c/b) stehen in `docs/offene-punkte.md` Punkt 6.
 
 ## Was Dieses Projekt Ist
 
@@ -87,7 +93,7 @@ Aktuelle Buchpakete (17):
 - `books/kuprin-moloch/` - Alexander Kuprin, Der Moloch (Roh-Anlage 09/2026)
 - `books/grin-wellenlaeuferin/` - Alexander Grin, Die Wellenlaeuferin (Roh-Anlage 09/2026)
 - `books/pissemski-tausend-seelen/` - Alexei Pissemski, Tausend Seelen (Roh-Anlage 09/2026)
-- `books/die-sprache-des-anderen/` - Timo Verita, Die Sprache des Anderen (DE-Original; RomanForge-Uebernahme 2026-10-28: 34/34 Kapitel, Gate 0/0/0, Cover + Kapitelbilder 001-003, Buch-EPUB `...-20261028-195240.epub` ohne Bypass)
+- `books/die-sprache-des-anderen/` - Timo Verita, Die Sprache des Anderen (DE-Original; RomanForge-Uebernahme 2026-10-28: 34/34 Kapitel, Gate 0/0/0, Cover mit Typografie + Kapitelbilder 001-003, Titelei gefüllt, Buch-EPUB `...-20261028-203757.epub` ohne Bypass)
 - `books/der-lotse-von-ruegen/` - Timo Verita, Der Lotse von Ruegen (DE-Original; RomanForge-Uebernahme 2026-10-21: 33/33 Kapitel, Gate 0/0/20, Cover + Kapitelbilder 001-010; Regal `website.enabled: true`, sort_order 90, noch nicht live)
 - `books/der-lotse/` - Timo Verita, Der Lotse von Rügen (zweites Paket desselben Romans, aus `origin/main` übernommen 2026-10-28: 32 Kapitel, 32 Kapitelbilder, Gate 0/1/42, `website.enabled: false`; **Doppelablage** - vor jeder Aktion an einem der beiden Lotse-Pakete Rueckfrage)
 - `books/perfect.sight/` - William Horatio Bates, Perfect Sight Without Glasses (Sachbuch, `en->de`, Stil `stil-05-sachbuch`; Kapitelbilder aus Originalscans, `inline_figures` bewusst aus)
@@ -466,7 +472,9 @@ Marketingpaket unter `books/<id>/exports/marketing/` (`campaign.json`,
 
 Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**
 (Stand 2026-10-28). Kopiertext neues Fenster:
-[docs/uebergabe-prompt.md](./docs/uebergabe-prompt.md).
+[docs/uebergabe-prompt.md](./docs/uebergabe-prompt.md) - dort steht, was vor
+Beginn gelesen wird und dass danach erst auf die Aufgabe gewartet wird.
+Einstiegskosten und Hebel (gemessen): [docs/kontextanalyse.md](./docs/kontextanalyse.md).
 Branch: **`main`**, mit `origin/main` synchron (Stand 2026-10-28 abends).
 Der Branch `cline/pveejb87` ist geloescht. `main` traegt die
 RomanForge-Buchpakete (Die Sprache des Anderen, Der Lotse von Ruegen,
@@ -515,6 +523,7 @@ Peter-I-Raffung 2026-09-17.
   (`docs/uebernahme-romanforge.md`, Stufe 1, `e93f4a2`); Ausgangsstand unter
   `books/die-dritte-chronik/work/imports/romanforge/`. Offen: Nutzer liest
   012/025 selbst, naechster Schritt `--new` (Ashkara).
+  **Einstiegskosten** (gemessen, Hebel A-D): `docs/kontextanalyse.md`.
 - **Higgsfield / Bilder:** `config/higgsfield_models.yaml`, Dashboard-Dropdown,
   Asset-Optimierung `optimize_asset_images.py`. Web-UI-Moodboards nur manuell.
   Details: `docs/higgsfield-integration.md`.

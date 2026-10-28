@@ -1,9 +1,55 @@
-# Handover – Stand 2026-10-28 (Autor-Fix, Merge von `origin/main`, Push; alles auf `main`)
+# Handover – Stand 2026-10-28 (Titelei „Die Sprache des Anderen", Cover neu, Verifikation)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei.
-> Kopierfertiger Einstieg: [uebergabe-prompt.md](./uebergabe-prompt.md).
+> Kopierfertiger Einstieg: [uebergabe-prompt.md](./uebergabe-prompt.md) - dort
+> steht: erst `README.md` und [kontextanalyse.md](./kontextanalyse.md)
+> (Abschnitt 1 + 5) lesen, dann den Stand melden und auf die Aufgabe warten.
+> **Diese Datei erst lesen, wenn die konkrete Aufgabe sie braucht.**
+> Einstiegskosten und Hebel (gemessen): [kontextanalyse.md](./kontextanalyse.md).
 
-## Letzte Session (2026-10-28 abends, Autor-Fix + Push)
+## Letzte Session (2026-10-28 abends, Titelei + Cover + Verifikation)
+
+Branch **`main`**, **kein Commit**, **kein Branch-Wechsel**, keine
+kostenpflichtigen Läufe, keine Bildgenerierung.
+
+- **Verifikation komplett grün**: `tests.test_book_project` 2/2,
+  `tests.test_import_markdown_original` 41/41, **volle Suite
+  `python -m unittest discover -s tests` → 330 Tests OK**. Die in
+  `docs/offene-punkte.md` Punkt 9 dokumentierten 5 `test_print_export`-Fehler
+  und 2 `test_backend_api`-Fehler sind **nicht mehr reproduzierbar**.
+  Chronik-Gate unverändert **ERROR=0/WARNING=13/INFO=36**;
+  `die-sprache-des-anderen` 34/34 done, Gate **0/0/0**.
+- **Titelei `die-sprache-des-anderen` gefüllt**
+  (`books/die-sprache-des-anderen/export.yaml`): `subtitle`
+  („Ein Straßburger Roman aus dem 9. Jahrhundert"), `translator`
+  („Motivatier Classics") + `translator_label` („Herausgabe und editorische
+  Einrichtung"), `rights`, `original_title`, `original_author`,
+  `title_page_extra` (4 Zeilen), `imprint_text`, `description`, `summary`,
+  `author_bio`. Stoffbasis: Titel aller 34 Kapitel, Einstiege von ca. 24 und
+  Auszüge aus ca. 11 Kapiteln (ca. 130 KB); Zeitebene im Text
+  (Fontenoy, zwei Könige vor Straßburg, Teilung in drei Reiche) →
+  **keine** fixe Jahreszahl im Klappentext, nur „9. Jahrhundert".
+  `front_matter.description_page: false` wie bei den Schwestertiteln.
+- **Neues Cover vorgefunden** (nicht in diesem Chat erzeugt):
+  `assets/covers/cover.png` 720×1004 / 1.045.591 Bytes mit Titel, Autor,
+  Serie „Zwischen Rhein und Maas", „Romanreihe Band 1" und Motivatier-Stiftung;
+  `cover.jpg` und `cover_alt.jpg` wurden dabei entfernt. Export nutzt daher
+  jetzt `cover.png` statt `cover.jpg`.
+- **Neuer Buch-EPUB**
+  `book-die-sprache-des-anderen-stil-01-original-20261028-203757.epub`
+  (5.361.120 Bytes), Manifest `partial:false`, `review_gate_errors:0`,
+  `review_gate_bypassed:false`. Im EPUB verifiziert: Cover
+  (`<meta name="cover" content="file11_png"/>`), `dc:publisher` „Motivatier
+  Stiftung", `dc:rights`, Titelseite + Zusammenfassung + Leben des Autors +
+  Impressum als getrennte Seiten, Kapitelbilder 001-003, Reihenkatalog
+  „Weitere Motivatier Classics".
+- **Doku**: `AGENTS.md`, `README.md`, `docs/offene-punkte.md` (Punkt 14
+  abgehakt, neuer Punkt 16).
+- **Offen für den Nutzer**: neues Cover gewollt? Soll daraus wieder eine
+  kompakte `cover.jpg` entstehen (`optimize_asset_images.py --scope cover`)?
+  Commit erst nach Freigabe.
+
+## Vorige Session (2026-10-28 abends, Autor-Fix + Push)
 
 Branch **`main`**, **gepusht** (mit `origin/main` synchron). Der Branch
 `cline/pveejb87` ist gelöscht.

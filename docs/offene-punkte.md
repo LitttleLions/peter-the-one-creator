@@ -837,8 +837,10 @@ Drei neue Pakete, alle DE-Originale ausser `perfect.sight` (`en->de`):
 
 - **Die Sprache des Anderen** (`books/die-sprache-des-anderen/`, Timo Verita,
   34 Kapitel, `rf_id` 232-265): Gate **0/0/0**, Buch-EPUB
-  `...-20261028-195240.epub` (4.806.312 Bytes, `partial:false`,
-  `review_gate_bypassed:false`). Cover + Kapitelbilder 001-003 erzeugt.
+  `...-20261028-203757.epub` (5.361.120 Bytes, `partial:false`,
+  `review_gate_bypassed:false`). Cover (mit Titel/Autor im Bild) +
+  Kapitelbilder 001-003; Titelei gefüllt (Rechte, Untertitel, Zusammenfassung,
+  Autorenbio, Impressum), `description_page: false` wie bei den Schwestertiteln.
 - **Der Lotse von Rügen** (`books/der-lotse-von-ruegen/`, Timo Verita,
   33 Kapitel): Gate **0/0/20**, Cover + Kapitelbilder 001-010 vorhanden,
   `website.enabled: true` (sort_order 90) - **Regal-Deploy steht aus**.
@@ -858,17 +860,21 @@ higgsfield generate create gpt_image_2_5 --prompt "<einlinegiger Prompt>" --aspe
 
 Offen:
 
-- Push nach `origin/main`; Branch `cline/pveejb87` kann geloescht werden.
-- `tools/assemble_chapter.py:65` hardcodiert `*Buch: {title} - Alexei Tolstoi*`
-  - bei **allen** Buechern falsch (Export filtert die Zeile weg, aber
-  `work/assembled/` zeigt sie). Korrektur auf den Autor aus `book.yaml`.
-- `export.yaml` der Sprache des Anderen schreibt „Timo Veritas" (mit s),
-  `book.yaml` und die uebrigen Buecher schreiben „Timo Verita".
-- Titelei-Texte (`rights`, `description`, `summary`, `author_bio`,
-  `subtitle`) der drei neuen Pakete sind neutral/leer.
+- ~~Push nach `origin/main`; Branch `cline/pveejb87` kann geloescht werden.~~
+  Erledigt 2026-10-28 abends (Punkt 15).
+- ~~`tools/assemble_chapter.py:65` hardcodiert `*Buch: {title} - Alexei
+  Tolstoi*`~~ - Erledigt 2026-10-28 abends (Punkt 15, Autor-Fix).
+- ~~`export.yaml` der Sprache des Anderen schreibt „Timo Veritas"~~ -
+  Erledigt 2026-10-28 abends (Punkt 15, jetzt „Timo Verita").
+- ~~Titelei-Texte (`rights`, `description`, `summary`, `author_bio`,
+  `subtitle`) der drei neuen Pakete sind neutral/leer.~~ - Erledigt
+  2026-10-28 abends: `die-sprache-des-anderen` gefüllt (siehe Punkt 16);
+  `der-lotse-von-ruegen`, `der-lotse` und `perfect.sight` waren bereits
+  vollständig.
 - Weitere Kapitelbilder: Sprache des Anderen 004-034, Lotse 011-033.
-- Cover-Typografie (Titel/Autor im Bild) fehlt beim Sprache-des-Anderen-Cover
-  (der Lotse hat sie).
+- ~~Cover-Typografie (Titel/Autor im Bild) fehlt beim
+  Sprache-des-Anderen-Cover~~ - Erledigt 2026-10-28 abends: neues Cover
+  mit Titel/Autor/Serie im Bild (Punkt 16).
 - Regal: Lotse sichtbar machen (`build_shelf_website.py` + Deploy).
 - `books/die-dritte-chronik/source/Die dritte Chronik(1).md` ist lokal
   untracked (Download-Kopie der versionierten Quelle) - `source/` ist tabu.
@@ -908,6 +914,68 @@ Offen:
   Autorenzeile „Timo Verita", kein „Existing"-Testeintrag im Reihenkatalog
   mehr (Paket geloescht).
 
+## 16. Titelei `die-sprache-des-anderen` + Cover (2026-10-28, abends)
+
+Siehe auch `docs/kontextanalyse.md` (gemessene Einstiegskosten und Hebel).
+
+Verifikation (kosten-frei) und Titelei-Ausbau fuer
+`books/die-sprache-des-anderen/`. Kein Commit, kein Branch-Wechsel, keine
+kostenpflichtigen Laeufe, keine Bildgenerierung.
+
+- **Verifikation** (alle Erwartungen bestaetigt):
+  - `git status` → Branch `main`, synchron mit `origin/main`; untracked nur
+    `books/die-dritte-chronik/source/Die dritte Chronik(1).md` (Download-Kopie,
+    `source/` bleibt tabu).
+  - `tests.test_book_project` **2/2 gruen** (inkl. `SuggestBookIdTests`),
+    `tests.test_import_markdown_original` **41/41 gruen**.
+  - **Volle Suite** `python -m unittest discover -s tests` → **330 Tests, OK**.
+    Die in Punkt 9 dokumentierten 5 `test_print_export`-Fehler sind damit
+    **nicht mehr reproduzierbar** (Punkt 9 damit geschlossen); die 2
+    `test_backend_api`-Fehler sind ebenfalls gruen.
+  - Chronik-Gate unveraendert: **ERROR=0 / WARNING=13 / INFO=36** (Exit 0).
+  - `status.py --book die-sprache-des-anderen summary` → **34/34 done**.
+- **Titelei gefuellt** (`books/die-sprache-des-anderen/export.yaml`, Muster
+  wie `der-lotse-von-ruegen`): `subtitle` („Ein Straßburger Roman aus dem
+  9. Jahrhundert"), `translator`/`translator_label` („Motivatier Classics" /
+  „Herausgabe und editorische Einrichtung"), `rights`, `original_title`,
+  `original_author`, `title_page_extra` (4 Eintraege), `imprint_text`,
+  `description`, `summary`, `author_bio`.
+  - Stoffbasis: Titel aller 34 Kapitel, Einstieg von ca. 24 Kapiteln und
+    Auszüge aus ca. 11 Kapiteln gelesen (ca. 130 KB), dazu `names.yaml`
+    und `book.yaml`. Handlung, Figuren, Orte, Zeitebene.
+    Zeitanker im Text: Schlacht bei Fontenoy (Sommer vor der Handlung),
+    Zug Karls des Kahlen aus dem Westen und Ludwigs aus dem Osten vor
+    Straßburg, die Teilung in **drei** Reiche am Ende (Verdun-Vertrag);
+    deshalb **keine** fixe Jahreszahl im Klappentext, nur „9. Jahrhundert".
+  - `front_matter.description_page` auf `false` gesetzt (wie Chronik, Lotse,
+    `perfect.sight`), damit die ausführliche `summary` als „Zusammenfassung"
+    erscheint und nicht doppelt als „Zu dieser Ausgabe".
+  - Die uebrigen neuen Pakete (`der-lotse-von-ruegen`, `der-lotse`,
+    `perfect.sight`) waren bereits vollstaendig - dort kein Eingriff.
+- **Neues Cover** (extern erzeugt, im Working Tree vorgefunden, nicht von
+  diesem Chat erzeugt): `assets/covers/cover.png` jetzt 720×1004 / 1.045.591
+  Bytes mit **Titel, Autor, Serie „Zwischen Rhein und Maas"**, „Romanreihe
+  Band 1" und Motivatier-Stiftung; `cover.jpg` (494 KB) und `cover_alt.jpg`
+  (930 KB) wurden dabei entfernt. Deshalb nutzt der Export jetzt `cover.png`
+  statt `cover.jpg` (EPUB 4.806.312 → 5.361.120 Bytes). **Offen fuer den
+  Nutzer:** ist das neue Cover gewuollt, und soll daraus wieder eine
+  kompakte `cover.jpg` fuer den Export entstehen
+  (`optimize_asset_images.py --scope cover`)?
+- **Gate + Export neu**: Gate **0/0/0** (Exit 0), Buch-EPUB
+  `book-die-sprache-des-anderen-stil-01-original-20261028-203757.epub`
+  (5.361.120 Bytes), Manifest `partial:false`, `review_gate_errors:0`,
+  `review_gate_bypassed:false`. Im EPUB verifiziert: Cover als
+  `<meta name="cover" content="file11_png"/>`, `dc:publisher`
+  „Motivatier Stiftung", `dc:rights` gesetzt, Titelseite +
+  Zusammenfassung + Leben des Autors + Impressum als getrennte Seiten,
+  Kapitelbilder 001-003, Reihenkatalog „Weitere Motivatier Classics".
+- **Doku aktualisiert**: `AGENTS.md` (Einstieg + Buchliste), `README.md`,
+  `docs/offene-punkte.md` (Punkt 14 abgehakt, Punkt 16 neu),
+  `docs/HANDOVER.md`.
+- **Offen (unveraendert)**: weitere Kapitelbilder 004-034 bzw. 011-033
+  (Higgsfield, nur mit Freigabe), Regal-Deploy Lotse, Chronik 012/025,
+  Ashkara `--new`, Kindle-Preview/KDP-Upload, Pharao-Print-Leseprobe.
+
 ## Empfohlene Reihenfolge
 
 1. Punkt 0 (Peter-I-Pruefung, vorgezogen) - lesend, ohne Kosten.
@@ -920,6 +988,8 @@ Offen:
    und ein manuelles `cover-print` je Titel.
 7. Punkt 13 (RomanForge Stufe 1): Chronik 012/025-Entscheidung und `--new`
    (Ashkara) nur nach Freigabe.
-8. Punkt 14 (neue Buchpakete): Push, `assemble_chapter.py`-Autor-Fix,
-   restliche Kapitelbilder, Regal-Deploy Lotse.
+8. Punkt 14 (neue Buchpakete): Push erledigt, Autor-Fix erledigt, Titelei
+   erledigt (Punkt 16); offen restliche Kapitelbilder + Regal-Deploy Lotse.
+9. Punkt 16: Cover-Entscheidung (neu oder `cover.jpg` nachziehen),
+   danach ggf. Commit der Aenderungen.
 

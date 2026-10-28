@@ -1,0 +1,80 @@
+id: die-sprache-des-anderen
+title: Die Sprache des Anderen
+author: Timo Veritas
+source_path: source/romanforge-400a094a-4bca-44c2-87a9-ff4a8cd52f95.md
+source_lang: de
+target_lang: de
+ruleset_path: ''
+ruleset_apply: false
+style_mode: stil-01-original
+work_dir: work
+exports_dir: exports
+status_file: status/status.json
+log_dir: status/logs
+styles_dir: styles
+assets_dir: assets
+names_file: names.yaml
+structure:
+  mode: chapter_as_scene
+  label: Kapitel als Szenen
+  groups: []
+display:
+  chapters:
+    format: words_de
+    suffix: ' Kapitel'
+    align: center
+    include_source_title: false
+  scenes:
+    show: false
+    format: number
+    align: center
+    page_break: false
+    separator: ''
+naming_convention:
+  style: ''
+  example: []
+illustration_setting: >-
+  High-quality chapter illustration for a literary historical novel set in
+  the mid-9th century, in and around Strasbourg on the Rhine, in the winter
+  of a war between two kings. Style: cinematic literary historical
+  illustration, restrained painterly realism, fine detail, atmospheric light,
+  emotionally intelligent, premium modern book illustration for an ambitious
+  historical family novel. Setting: a river town in the Carolingian empire,
+  muddy streets of snow and manure, the Roman brick walls and a timber
+  gatehouse, the river Ill with flat-bottomed oak cargo barges moored at
+  wooden jetties, salt stores, tanneries, warehouses, the vast tented
+  campaign camp of an army on the meadows outside the walls, campfires and
+  smoke in the fog, frozen mud, horses, wagons, oxen, snow and sleet.
+  Figures in early medieval Frankish dress: wool cloaks and tunics, leather
+  belts and shoes, coarse linen shirts, headscarves and felt caps, mail
+  skirts and conical helmets on warriors, wax tablets and parchment
+  scrolls with quills on clerks, heavy boots and bare working hands. Light:
+  low winter sun through sleet and haze, cold grey-blue daylight, warm
+  firelight at the camp fires, hard shadows on clear days. Colour palette:
+  wet slate grey, cold blue, mud brown, oak dark, iron black, snow white,
+  tarred rope, dull ochre and dark red, brass and pale gold firelight.
+  Mood: grave, taut, human and concrete, with work, family, obligation and
+  quiet danger rather than heroic spectacle; figures small against weather
+  and war, close attention to hands, faces, boats and parchment. Clear
+  central figure or central dramatic situation, strong readable
+  composition.
+higgsfield:
+  model: gpt_image_2_5
+  aspect_ratio: "3:4"
+  quality: 1k
+  render_quality: medium
+  image_processing:
+    format: JPEG
+    jpeg_quality: 60
+    max_width: 1024
+    max_height: 1024
+    cover:
+      jpeg_quality: 75
+      max_width: 1600
+      max_height: 2400
+notes: Deutsches Original aus RomanForge (Stufe 1).
+ai:
+  provider: openrouter
+  model: deepseek/deepseek-v4-pro
+  granularity: scene
+  max_tokens_per_scene: 10000

@@ -1,0 +1,167 @@
+book: der-lotse-von-ruegen
+chapters:
+  '001':
+    title: Im falschen Wasser
+    rf_base: 8dced6d75c7bc1e30e2c6e10d80965a8e7f1c29e2a405dbe19ee97780bdfc06d
+    peter_base: 8dced6d75c7bc1e30e2c6e10d80965a8e7f1c29e2a405dbe19ee97780bdfc06d
+    base_export: 20261021-212027
+  '002':
+    title: Drei Hände auf einem Blatt
+    rf_base: 278d1807879e72489ba636a399f7ade407548e1ce20efc4fc68d5849529b77d4
+    peter_base: 278d1807879e72489ba636a399f7ade407548e1ce20efc4fc68d5849529b77d4
+    base_export: 20261021-212027
+  '003':
+    title: Hinüber
+    rf_base: de176f4114dfbdc02081701a47ba03d7b72ce1b013275d5e9ae911c7d438efc6
+    peter_base: de176f4114dfbdc02081701a47ba03d7b72ce1b013275d5e9ae911c7d438efc6
+    base_export: 20261021-212027
+  '004':
+    title: Die Steine von Eldena
+    rf_base: befc01681a1ce207d00a8d1c1b36dd6decb7ca85318b8fae3e6435d245328d23
+    peter_base: befc01681a1ce207d00a8d1c1b36dd6decb7ca85318b8fae3e6435d245328d23
+    base_export: 20261021-212027
+  '005':
+    title: Für wenige Tage
+    rf_base: a2a8223f28a70b0abf8109975d24fa29b8999316e2de498323199f6d13557960
+    peter_base: a2a8223f28a70b0abf8109975d24fa29b8999316e2de498323199f6d13557960
+    base_export: 20261021-212027
+  '006':
+    title: Der leere Platz
+    rf_base: 1cf30e45826820f4749409f1cf0cf5d13f0a332e58b0f23cae329ab1cea034a9
+    peter_base: 1cf30e45826820f4749409f1cf0cf5d13f0a332e58b0f23cae329ab1cea034a9
+    base_export: 20261021-212027
+  '007':
+    title: Noch eine Arbeit
+    rf_base: 36dece7d8e43350f8ac4404e43296243e17c685feb3eff8d135749a5b3aa8184
+    peter_base: 36dece7d8e43350f8ac4404e43296243e17c685feb3eff8d135749a5b3aa8184
+    base_export: 20261021-212027
+  008:
+    title: Was Thies gesehen hat
+    rf_base: aca537168cfa33a87672969064915a26399deb28533ab1bc74747976ff378fba
+    peter_base: aca537168cfa33a87672969064915a26399deb28533ab1bc74747976ff378fba
+    base_export: 20261021-212027
+  009:
+    title: Die fehlenden Fahrzeuge
+    rf_base: f4bcb61e19b766e6f6f2a272bcbddb4bbf12c0afe6161f094226496cfd707ee0
+    peter_base: f4bcb61e19b766e6f6f2a272bcbddb4bbf12c0afe6161f094226496cfd707ee0
+    base_export: 20261021-212027
+  '010':
+    title: Das alte Ufer
+    rf_base: edbf9a7ec69b250eb45bf3f578d5cc32b417d89870639ddb974608af99512ba0
+    peter_base: edbf9a7ec69b250eb45bf3f578d5cc32b417d89870639ddb974608af99512ba0
+    base_export: 20261021-212027
+  '011':
+    title: Ohne Ersatz
+    rf_base: 304d88086de40e3867ebca862ee62cb4d713359787e72d30c393115dc030b8cc
+    peter_base: 304d88086de40e3867ebca862ee62cb4d713359787e72d30c393115dc030b8cc
+    base_export: 20261021-212027
+  '012':
+    title: Der Mann im Boot
+    rf_base: 1e892e65df507eb3f47d51483e8347f162534d2ac31105f8390ab53108ab5d83
+    peter_base: 1e892e65df507eb3f47d51483e8347f162534d2ac31105f8390ab53108ab5d83
+    base_export: 20261021-212027
+  '013':
+    title: Die andere Flagge
+    rf_base: f0525986810968c38de22675f46eecda0d39f527d89779892bd1f551abc91bf4
+    peter_base: f0525986810968c38de22675f46eecda0d39f527d89779892bd1f551abc91bf4
+    base_export: 20261021-212027
+  '014':
+    title: Was auf dem Papier bleibt
+    rf_base: 13551a641f0aa38080d3b935bbfad1d564a154c9f8984ab33e079668d7064456
+    peter_base: 13551a641f0aa38080d3b935bbfad1d564a154c9f8984ab33e079668d7064456
+    base_export: 20261021-212027
+  '015':
+    title: Eine geringere Tiefe
+    rf_base: 09693d641a9abd517d0cba2a66f10dbc24997baa10c46d7ed531bd10ec249c2f
+    peter_base: 09693d641a9abd517d0cba2a66f10dbc24997baa10c46d7ed531bd10ec249c2f
+    base_export: 20261021-212027
+  '016':
+    title: Die Hoffnung
+    rf_base: e7f44fc0f546a59f9a1be82f53978fa7926e56bed775b1ec2a334876600bcb84
+    peter_base: e7f44fc0f546a59f9a1be82f53978fa7926e56bed775b1ec2a334876600bcb84
+    base_export: 20261021-212027
+  '017':
+    title: Keine sichere Seite
+    rf_base: 8404e9cbb0367b83060ed2929299b996cac8daf2da7a71e42814a3d2ef3977d6
+    peter_base: 8404e9cbb0367b83060ed2929299b996cac8daf2da7a71e42814a3d2ef3977d6
+    base_export: 20261021-212027
+  018:
+    title: Alle Angaben
+    rf_base: c47b46cdbde6bd2d55bb7a22845addd01e4709defe622a9b4263115044250422
+    peter_base: c47b46cdbde6bd2d55bb7a22845addd01e4709defe622a9b4263115044250422
+    base_export: 20261021-212027
+  019:
+    title: Nur das eigene Schiff
+    rf_base: 544caf1dababb52c071c7bda2121c6377768ea5513785bf190f73da26ca9401f
+    peter_base: 544caf1dababb52c071c7bda2121c6377768ea5513785bf190f73da26ca9401f
+    base_export: 20261021-212027
+  '020':
+    title: Was wir mitnehmen
+    rf_base: f7a6b4f891ab862e8e27b350bf375dbff850b92e1f77434ae1863aa1782074a5
+    peter_base: f7a6b4f891ab862e8e27b350bf375dbff850b92e1f77434ae1863aa1782074a5
+    base_export: 20261021-212027
+  '021':
+    title: Vor der Fahrt
+    rf_base: 862050cfbda0650ad1118a5f28890b1ba697ba73c10d0ca1d05b3daa13d0242a
+    peter_base: 862050cfbda0650ad1118a5f28890b1ba697ba73c10d0ca1d05b3daa13d0242a
+    base_export: 20261021-212027
+  '022':
+    title: Vom Bodden her
+    rf_base: 84ff779b2aac08319f15fab2a026a9e9168e85286cfeea9ec26382909a24213e
+    peter_base: 84ff779b2aac08319f15fab2a026a9e9168e85286cfeea9ec26382909a24213e
+    base_export: 20261021-212027
+  '023':
+    title: Vor den Wracks
+    rf_base: be25292c76569967f75fe2aefcf6c624a689b8ca04dc16dd0ebeff982d271df0
+    peter_base: be25292c76569967f75fe2aefcf6c624a689b8ca04dc16dd0ebeff982d271df0
+    base_export: 20261021-212027
+  '024':
+    title: Die Männer gehören heim
+    rf_base: 4d6bb7e006dd66b20fa2ce511f5566da966ab9aaf3b177528298fb1a3daf4185
+    peter_base: 4d6bb7e006dd66b20fa2ce511f5566da966ab9aaf3b177528298fb1a3daf4185
+    base_export: 20261021-212027
+  '025':
+    title: Der letzte Wartepunkt
+    rf_base: 202a6cf49b9a52cdc7dbf27b95d673ecdaba6160c20fec0e240780a8fb8968a0
+    peter_base: 202a6cf49b9a52cdc7dbf27b95d673ecdaba6160c20fec0e240780a8fb8968a0
+    base_export: 20261021-212027
+  '026':
+    title: Neun Menschen
+    rf_base: a4b7759dbab19e2efefc2b92602274750365de5fa1f9a7850560b72baa1dde72
+    peter_base: a4b7759dbab19e2efefc2b92602274750365de5fa1f9a7850560b72baa1dde72
+    base_export: 20261021-212027
+  '027':
+    title: Noch nicht drehen
+    rf_base: 84d3bd987550fc3ea5aa8ef984a0dd5de1b8e8aec6da0d73ef6914d87caff95e
+    peter_base: 84d3bd987550fc3ea5aa8ef984a0dd5de1b8e8aec6da0d73ef6914d87caff95e
+    base_export: 20261021-212027
+  028:
+    title: Ein Boot muss reichen
+    rf_base: 0c9c371aea623a5834d713cbeb284cb8df427c2b67f6a92c7dc51a3d5cab5878
+    peter_base: 0c9c371aea623a5834d713cbeb284cb8df427c2b67f6a92c7dc51a3d5cab5878
+    base_export: 20261021-212027
+  029:
+    title: Durch das Tief
+    rf_base: 86704e2899177ed6db4a45f9f70828ae8a1cf1ff21d85e30f31238cbe1e6bd9b
+    peter_base: 86704e2899177ed6db4a45f9f70828ae8a1cf1ff21d85e30f31238cbe1e6bd9b
+    base_export: 20261021-212027
+  '030':
+    title: Die Grete
+    rf_base: f66e94eeacc957964bf1be8d946bd49a5f7a288e5c8546926556b11a9d1a4884
+    peter_base: f66e94eeacc957964bf1be8d946bd49a5f7a288e5c8546926556b11a9d1a4884
+    base_export: 20261021-212027
+  '031':
+    title: Was ich zugesagt habe
+    rf_base: f4221da983c4d43201d453157c54021d86588f52ead74330035cd37da76eb53a
+    peter_base: f4221da983c4d43201d453157c54021d86588f52ead74330035cd37da76eb53a
+    base_export: 20261021-212027
+  '032':
+    title: Ein Anfang aus altem Holz
+    rf_base: 97438cffc51a61d6d5d01e16d34722d973f310b21c8bac5b4c24299939237670
+    peter_base: 97438cffc51a61d6d5d01e16d34722d973f310b21c8bac5b4c24299939237670
+    base_export: 20261021-212027
+  '033':
+    title: Die Namen
+    rf_base: 4c47770a5cef10ae80824fd30a4f8e98bb048bde97495f3e3d36a6ed66a91faa
+    peter_base: 4c47770a5cef10ae80824fd30a4f8e98bb048bde97495f3e3d36a6ed66a91faa
+    base_export: 20261021-212027

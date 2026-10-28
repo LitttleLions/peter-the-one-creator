@@ -1,0 +1,19 @@
+# Review Kapitel 013
+
+- Buch: Der Lotse von Rügen (der-lotse-von-ruegen)
+- Stil: stil-01-original
+- RU-Szenen: 1
+- DE-Szenen: 1
+- Fehler: 0
+- Warnungen: 0
+- Hinweise: 1
+
+## Befunde
+
+### INFO: repetition_style (013, Szene 01)
+
+Kapitel-TTR 0.24 bei 3401 Woertern.
+
+> TTR=0.24, Woerter=3401
+
+Empfehlung: Wortschatzarmut pruefen.

@@ -1,0 +1,177 @@
+entries:
+  - source: "Joren Voss"
+    target: "Joren Voss"
+    aliases: ["Joren", "Lotse"]
+    type: person
+    status: draft
+    note: Lotse aus Thiessow, 52 Jahre, Vater von Maren, Ehemann von Else.
+    visual: >-
+      52-jähriger Lotse, sehnig und drahtig, wettergegerbtes Gesicht mit
+      hellerer Augenpartie, kurzes graues Haar, wollene Jacke, derbe Hände
+  - source: "Maren Voss"
+    target: "Maren Voss"
+    aliases: ["Maren"]
+    type: person
+    status: draft
+    note: Tochter von Joren und Else, 26 Jahre, Helferin im Küsterhaushalt.
+    visual: >-
+      26-jährige Frau, kräftig und beweglich, dunkles Haar unter Kopftuch,
+      schlichtes Wollkleid, aufmerksamer Blick, Tintenfinger
+  - source: "Frederik Holm"
+    target: "Frederik Holm"
+    aliases: ["Holm", "Kapitän Holm"]
+    type: person
+    status: draft
+    note: >-
+      Dänischer Kapitän und Verbindungsoffizier, 38 Jahre. Die ältere
+      Figurenliste der Romanvorlage nennt abweichend "Frederik Bille"; der
+      Roman verwendet durchgehend Holm (Vorlage Abschnitt 3.2).
+    visual: >-
+      38-jähriger dänischer Kapitän, dunkelroter Offiziersrock, Dreispitz,
+      glatt rasiert, kühler und genauer Blick
+  - source: "Nils Rask"
+    target: "Nils Rask"
+    aliases: ["Rask", "Leutnant Rask"]
+    type: person
+    status: draft
+    note: Schwedischer Leutnant, 43 Jahre, kleines Kommando an der Sperre.
+    visual: >-
+      43-jähriger schwedischer Leutnant, Uniformrock in Blau mit gelben
+      Aufschlägen, Dreispitz, strenger prüfender Blick
+  - source: "Dierk Arndt"
+    target: "Dierk Arndt"
+    aliases: ["Dierk"]
+    type: person
+    status: draft
+    note: Fischer und Bootsführer, 39 Jahre, Lenes Mann; führt die "Grete"; nach der Verletzung hinkend.
+    visual: >-
+      39-jähriger Fischer, breite Schultern, Filzhut, grobes Hemd und Weste,
+      freundliches Gesicht, ein Bein geschont
+  - source: "Lene Arndt"
+    target: "Lene Arndt"
+    aliases: ["Lene"]
+    type: person
+    status: draft
+    note: Fischerin, 37 Jahre, Dierks Frau und Thies' Schwester.
+    visual: >-
+      37-jährige Fischerin, kräftige Statur, Kopftuch, hochgekrempelte Ärmel,
+      derbe Schürze, Netz und Salz an den Händen
+  - source: "Thies Arndt"
+    target: "Thies Arndt"
+    aliases: ["Thies"]
+    type: person
+    status: draft
+    note: Bootsreparateur und Küstenfahrer, 31 Jahre, Lenes Bruder, Besitzer der "Hoffnung".
+    visual: >-
+      31-jähriger Bootsbauer, drahtig, kurzes braunes Haar, Lederschürze,
+      Werkzeug am Gürtel, wetterfeste Weste
+  - source: "Else Voss"
+    target: "Else Voss"
+    aliases: ["Else"]
+    type: person
+    status: draft
+    note: Jorens Frau und Marens Mutter, 49 Jahre, führt den Haushalt in Thiessow.
+    visual: >-
+      49-jährige Frau, graues Haar unter Tuch, Schürze über Wollkleid,
+      ruhige, arbeitsame Hände
+  - source: "Laurenz Benthin"
+    target: "Laurenz Benthin"
+    aliases: ["Benthin", "Küster"]
+    type: person
+    status: draft
+    note: Küster in Middelhagen, 58 Jahre, Marens Lehrer und Arbeitgeber; Verwandter Elses.
+    visual: >-
+      58-jähriger Küster, schwarzer Rock, weißes Halstuch, gebeugte Haltung,
+      Feder und Papiere in den Händen
+  - source: "Ewald Krüger"
+    target: "Ewald Krüger"
+    aliases: ["Ewald"]
+    type: person
+    status: draft
+    note: Eingezogener Fischer, 33 Jahre, einer der vier festgehaltenen Männer.
+    visual: >-
+      33-jähriger Fischer, grobe Arbeitskleidung, misstrauischer Blick,
+      kurzer Bart
+  - source: "Peter Bolte"
+    target: "Peter Bolte"
+    aliases: ["Peter"]
+    type: person
+    status: draft
+    note: Eingezogener Fischer und geübter Ruderer, 21 Jahre.
+    visual: >-
+      21-jähriger Fischer, blond, kräftige Arme, verschlissene Jacke,
+      jugendlich angespanntes Gesicht
+  - source: "Olof Lund"
+    target: "Olof Lund"
+    aliases: ["Olof"]
+    type: person
+    status: draft
+    note: Junger schwedischer Soldat, 19 Jahre, bei Rasks Kommando.
+    visual: >-
+      19-jähriger schwedischer Soldat, Uniform, schmales Gesicht,
+      unsichere Haltung, Muskete über der Schulter
+  - source: "Hinrich Mertens"
+    target: "Hinrich Mertens"
+    aliases: ["Hinrich"]
+    type: person
+    status: draft
+    note: Örtlicher Bootshelfer, 40 Jahre, unterstützt Joren bei der Erkundung.
+    visual: >-
+      40-jähriger Bootshelfer, Ledermütze, wetterfeste Jacke, Bootshaken in
+      der Hand
+  - source: "Hendrik Saß"
+    target: "Hendrik Saß"
+    aliases: ["Hendrik"]
+    type: person
+    status: draft
+    note: Eingezogener Fischer und Netzreparateur, 46 Jahre.
+    visual: >-
+      46-jähriger Netzreparateur, gedrungene Gestalt, Netz und Bindfaden,
+      abgetragene Weste
+  - source: "Fiete Arndt"
+    target: "Fiete Arndt"
+    aliases: ["Fiete"]
+    type: person
+    status: draft
+    note: Lenes und Dierks Sohn, 12 Jahre; bleibt bei der Rettungsfahrt an Land.
+    visual: >-
+      12-jähriger Junge, kurze Hose, wollene Mütze, neugieriger Blick
+
+  - source: "Grete"
+    target: "Grete"
+    type: vessel
+    status: draft
+    note: Fischerboot der Familie Arndt; wird für den Arbeitseinsatz an die Sperre geholt.
+  - source: "Hoffnung"
+    target: "Hoffnung"
+    type: vessel
+    status: draft
+    note: Kleines Fahrzeug von Thies Arndt, mit Arbeit und Schulden aufgebaut; geht bei der Rettung verloren.
+  - source: "Thiessow"
+    target: "Thiessow"
+    type: place
+    status: draft
+    note: Heimatort von Joren und Else auf Mönchgut, südöstliches Rügen.
+  - source: "Middelhagen"
+    target: "Middelhagen"
+    type: place
+    status: draft
+    note: Küsterhaushalt, St. Katharinen und Arbeitsort Marens auf Mönchgut.
+  - source: "Eldena"
+    target: "Eldena"
+    type: place
+    status: draft
+    note: >-
+      Klosteranlage bei Greifswald, 1199 gegründet; im Roman als beschädigte,
+      teilweise abgetragene Anlage erlebt, keine tätige mittelalterliche
+      Klostergemeinschaft im 18. Jahrhundert.
+  - source: "Neues Tief"
+    target: "Neues Tief"
+    aliases: ["Westertief"]
+    type: place
+    status: draft
+    note: >-
+      Fahrwasser im Bereich der schwedischen Schiffssperre; im Roman
+      überwiegend "das Neue Tief", einmal erläuternd "auch Westertief
+      genannt".
+

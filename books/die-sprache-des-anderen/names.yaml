@@ -1,0 +1,98 @@
+entries:
+  - source: "Alda"
+    target: "Alda"
+    aliases: ["Frau Alda", "Witwe Alda"]
+    type: person
+    status: draft
+    note: >-
+      Witwe und Inhaberin eines Fuhrbetriebs mit fünf Kähnen auf der Ill in
+      Straßburg; handelt mit Fürsten, Grafen und Heerbann.
+    visual: >-
+      40-jährige Frau, kräftig und wetterhart, dunkles Haar unter grober
+      Wollkappe, gefettete Rindslederstiefel, fleckiger Wollmantel mit
+      Schafsfellfutter, aufmerksamer und zäher Blick, kräftige Hände
+  - source: "Berto"
+    target: "Berto"
+    aliases: ["der alte Knecht"]
+    type: person
+    status: draft
+    note: Alter Knecht und Fuhrmann auf Aldas Kähnen, hinkt seit einem Eiswinter.
+    visual: >-
+      60-jähriger Knecht, gebückt und hinkend, strubbeliges Grauhaar,
+      zerschlissene Kappe, grobe Holzschuhe mit Stroh, wettergegerbtes Gesicht
+  - source: "Raginbert"
+    target: "Raginbert"
+    aliases: ["Herr Raginbert", "Graf Raginbert"]
+    type: person
+    status: draft
+    note: >-
+      Der Grundherr, der im Namen des westfränkischen Königs die Versorgung des
+      linken Rheinufeers sichert; verhaengt ein Haus ueber Aldas Kopf.
+    visual: >-
+      50-jähriger geistlicher Grundherr, glatt rasiert, volle von Kaelte
+      geroetete Wangen, wässrig graue Augen, schwerer blauer Mantel mit
+      Fuchspelzfutter, Silberbeschlaege an der Zaumzeug, kalter Blick
+  - source: "Folker"
+    target: "Folker"
+    aliases: []
+    type: person
+    status: draft
+    note: >-
+      Aldas Verwalter und Gläubiger, der das Haus ueber dem Kopf zerstoeren
+      will; riecht nach Zwiebeln und ranzigem Speck.
+    visual: >-
+      45-jähriger Verwalter, ungepflegt, Bartstoppeln, fleckige Gewandstuecke,
+      aufgeschlagenes Schafsfell, zaehneknirschende Miene, fette Finger
+  - source: "Otwin"
+    target: "Otwin"
+    aliases: []
+    type: person
+    status: draft
+    note: >-
+      Kranker junger Schreiber im Dienst Raginberts, von Schuld und Krankheit
+      gezeichnet, verkauft sein Wissen ueber ein Geleit nach Lothringen.
+    visual: >-
+      25-jähriger blasser Schreiber, eingefallene Wangen, fiebrige unstete
+      Augen, fransige Kapuze, klamme Finger um Feder und Pergament, schwere
+      Schultern unter dem Reiterrock
+  - source: "Giseler"
+    target: "Giseler"
+    aliases: []
+    type: person
+    status: draft
+    note: Straßburger Gläubiger mit Narbe im Gesicht.
+    visual: >-
+      40-jähriger Bürger, schiefes Grinsen, weiche helle Narbe auf der Wange,
+      Lederkappe, grober Mantel, abweisende Haltung
+  - source: "Strassburg"
+    target: "Strassburg"
+    aliases: ["Straßburg"]
+    type: place
+    status: draft
+    note: >-
+      Hauptstadt des Rheintals, Schindentor in römischen Ziegelmauern,
+      Salzlagerhäuser und Bucht der Ill.
+  - source: "Ill"
+    target: "Ill"
+    aliases: []
+    type: place
+    status: draft
+    note: Fluss, an dessen ruhiger Schleife die Umschlagplätze der Fuhrleute liegen.
+  - source: "Zaberner Steige"
+    target: "Zaberner Steige"
+    aliases: []
+    type: place
+    status: draft
+    note: Passweg von Straßburg nach Lothringen, über den der Transport läuft.
+  - source: "Verdun"
+    target: "Verdun"
+    aliases: []
+    type: place
+    status: draft
+    note: Ziel des Geleits und Schauplatz des Grafengerichts.
+  - source: "Marsal"
+    target: "Marsal"
+    aliases: []
+    type: place
+    status: draft
+    note: Ort an der Maas, Schauplatz des Bündnisses der Fuhrleute.

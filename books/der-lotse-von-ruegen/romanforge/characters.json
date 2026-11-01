@@ -1,0 +1,143 @@
+{
+  "format": "romanforge-characters/1",
+  "generated": "Erzeugt von tools/sync_romanforge_characters.py - nicht von Hand bearbeiten.",
+  "handoff_id": "8522e8c0-1807-4ca2-8616-b8ae6e0eafcd",
+  "fetched_at": "2026-11-01T16:34:10Z",
+  "characters": [
+    {
+      "uid": "19c9360d-2893-43c5-b495-70157dbc5122",
+      "name": "Maren Voss",
+      "role": "Jorens Tochter; geübte Leserin und Helferin im Küsterhaushalt",
+      "description": "26 Jahre alt. Sie liest, kopiert und rechnet durch Übung. Sie kennt Haushalte, Verwandtschaften, Bootsbesitz und örtliche Ansprüche. Ihr konkretes Ziel wird, Dierk und die drei anderen Fischer nach Hause zu bringen.",
+      "appearance": "Beweglich und kräftig genug zum Wassertragen und Rudern. Eine verfärbte Fingerkuppe vom Schreiben und ein sorgfältig ausgebesserter Ärmel prägen den Alltag.",
+      "first_appears_chapter": 2,
+      "updated_at": "2026-10-07T15:42:12.275Z"
+    },
+    {
+      "uid": "2950242b-cb49-4295-bab5-c184da4da9a7",
+      "name": "Frederik Holm",
+      "role": "Dänischer Kapitän und Verbindungsoffizier",
+      "description": "Braucht verlässliche Ortskenntnis für ein Vorhutunternehmen. Prüft Jorens Aussagen und macht deutlich, dass ein erfolgreicher Durchbruch weitere militärische Gewalt ermöglicht.",
+      "appearance": "Nicht im Text beschrieben",
+      "first_appears_chapter": 13,
+      "updated_at": "2026-11-01T15:33:07.020Z"
+    },
+    {
+      "uid": "2c051344-8d2d-423a-a470-e6425ab80f2b",
+      "name": "Else Voss",
+      "role": "Jorens Frau und Marens Mutter",
+      "description": "49 Jahre alt. Organisiert den Haushalt in Thiessow und arbeitet bei Fangverarbeitung und Ausrüstung mit. Sie kennt den Unterschied zwischen einem guten Monat und wirklichem Wohlstand.",
+      "appearance": null,
+      "first_appears_chapter": 5,
+      "updated_at": "2026-10-07T15:42:12.275Z"
+    },
+    {
+      "uid": "2d809e8a-a98b-46cb-91c5-a112114e3ba1",
+      "name": "Peter Bolte",
+      "role": "Eingezogener Fischer und geübter Ruderer",
+      "description": "21 Jahre alt. Einer der vier Fischer im Arbeitseinsatz. Unerfahren mit militärischen Abläufen, aber am Riemen geübt.",
+      "appearance": null,
+      "first_appears_chapter": 5,
+      "updated_at": "2026-10-07T15:42:12.275Z"
+    },
+    {
+      "uid": "6f4cfb64-50d9-4948-a1dc-1e1275bfc6ed",
+      "name": "Laurenz Benthin",
+      "role": "Küster, Marens Lehrer und Arbeitgeber",
+      "description": "58 Jahre alt. Bewahrt ältere Abschriften und hilft Maren bei ihrer Schreibarbeit. Die Unterlagen zeigen sowohl Ansprüche der Bewohner als auch ihre Abgabenpflichten.",
+      "appearance": "Nicht im Text beschrieben",
+      "first_appears_chapter": 2,
+      "updated_at": "2026-11-01T15:33:30.049Z"
+    },
+    {
+      "uid": "73e9021f-b026-43df-bbcb-f274266fef00",
+      "name": "Nils Rask",
+      "role": "Schwedischer Leutnant mit örtlichem Kommando",
+      "description": "43 Jahre alt. Führt ein kleines Kommando für Boots- und Arbeitsleistungen im Bereich der Sperre. Will die Sperre funktionsfähig halten und seine Soldaten heil aus dem Einsatz bringen.",
+      "appearance": "Nicht im Text beschrieben",
+      "first_appears_chapter": 1,
+      "updated_at": "2026-10-07T15:42:12.275Z"
+    },
+    {
+      "uid": "86c8973f-35a2-472e-beac-829f6b1ee76e",
+      "name": "Joren Voss",
+      "role": "Lotse aus Thiessow; Vater von Maren",
+      "description": "52 Jahre alt. Erfahren, sehnig und auf dem Wasser sehr sicher. Er will seine Familie ernähren, das Fahrwasser offenhalten und weitere Verluste für die Küstenbewohner begrenzen.",
+      "appearance": "Sehnig, kräftige Hände; die Haut um die Augen ist heller als im übrigen Gesicht.",
+      "first_appears_chapter": 0,
+      "updated_at": "2026-10-07T15:42:12.275Z"
+    },
+    {
+      "uid": "a0346eb7-006f-499b-bcfa-8bd80dbb3058",
+      "name": "Hendrik Saß",
+      "role": "Eingezogener Fischer und Netzreparateur",
+      "description": "46 Jahre alt. Behutsamer Netzreparateur und einer der vier Fischer, die beim Arbeitseinsatz festgehalten werden.",
+      "appearance": null,
+      "first_appears_chapter": 5,
+      "updated_at": "2026-10-07T15:42:12.275Z"
+    },
+    {
+      "uid": "a945b4b3-c566-465b-afcc-b331fb52e154",
+      "name": "Thies Arndt",
+      "role": "Bootsreparateur, Küstenfahrer und Marens Partner",
+      "description": "31 Jahre alt. Repariert Boote und übernimmt Fahrten. Hat sich mit Arbeit und Schulden sein eigenes kleines Fahrzeug, die „Hoffnung“, aufgebaut.",
+      "appearance": null,
+      "first_appears_chapter": 2,
+      "updated_at": "2026-10-07T15:42:12.275Z"
+    },
+    {
+      "uid": "ae3d0ce4-daad-440e-a2c1-0455341e4c43",
+      "name": "Ewald Krüger",
+      "role": "Eingezogener Fischer",
+      "description": "33 Jahre alt. Einer der vier Fischer, die beim Arbeitseinsatz festgehalten werden.",
+      "appearance": null,
+      "first_appears_chapter": 5,
+      "updated_at": "2026-10-07T15:42:12.275Z"
+    },
+    {
+      "uid": "d80f84bb-4bcd-4090-9526-324f721f182f",
+      "name": "Olof Lund",
+      "role": "Junger schwedischer Soldat",
+      "description": "19 Jahre alt. Einer der Soldaten bei Rasks kleinem Kommando.",
+      "appearance": null,
+      "first_appears_chapter": 7,
+      "updated_at": "2026-10-07T15:42:12.275Z"
+    },
+    {
+      "uid": "e079ee59-5780-437f-bebe-0d15eb84e7fa",
+      "name": "Dierk Arndt",
+      "role": "Fischer, Bootsführer und Lenes Mann",
+      "description": "39 Jahre alt. Freundlich und handwerklich aufmerksam. Führt die „Grete“ und nimmt den kurzfristigen Einsatz auch an, weil er Joren vertraut.",
+      "appearance": null,
+      "first_appears_chapter": 5,
+      "updated_at": "2026-10-07T15:42:12.275Z"
+    },
+    {
+      "uid": "ebb4e427-7290-4519-ba66-3f8b818a8a35",
+      "name": "Fiete Arndt",
+      "role": "Lenes und Dierks zwölfjähriger Sohn",
+      "description": "Zwölf Jahre alt. Eine kleine Nebenfigur, die bei der Rettungsfahrt an Land bleibt.",
+      "appearance": null,
+      "first_appears_chapter": 6,
+      "updated_at": "2026-10-07T15:42:12.275Z"
+    },
+    {
+      "uid": "edcd2344-cc47-4f45-8b0f-2bd0cba31577",
+      "name": "Lene Arndt",
+      "role": "Fischerin, Dierks Frau und Thies’ Schwester",
+      "description": "37 Jahre alt. Führt mit Dierk Haushalt und Fangbetrieb. Ihre Familie besitzt das Fischerboot „Grete“. Sie kennt das Wasser aus praktischer Arbeit.",
+      "appearance": "Nicht näher festgelegt.",
+      "first_appears_chapter": 2,
+      "updated_at": "2026-10-07T15:42:12.275Z"
+    },
+    {
+      "uid": "ff8c70d7-7f06-4cb4-81d5-8261ee5a2743",
+      "name": "Hinrich Mertens",
+      "role": "Örtlicher Bootshelfer",
+      "description": "40 Jahre alt. Unterstützt Joren bei der Erkundung des Fahrwassers.",
+      "appearance": null,
+      "first_appears_chapter": 15,
+      "updated_at": "2026-10-07T15:42:12.275Z"
+    }
+  ]
+}

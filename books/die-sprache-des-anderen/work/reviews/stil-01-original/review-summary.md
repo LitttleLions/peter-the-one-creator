@@ -2,7 +2,7 @@
 
 - Buch-ID: die-sprache-des-anderen
 - Stil: stil-01-original
-- Erstellt: 2026-10-28T20:15:40
+- Erstellt: 2026-11-01T17:39:24
 - LLM: none
 - Kapitel: 34
 - Kapitel mit Befunden: 0

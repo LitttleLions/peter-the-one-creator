@@ -1,1 +1,71 @@
-entries: []
+entries:
+- source: Ehemaliger Nemet-Forscher
+  target: Ehemaliger Nemet-Forscher
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 83a61dc3-d243-4b2d-b71a-fe2362d876e1
+  rf_appearance_sha: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  note: 'RomanForge-Rolle: Hohler Forscher und Schlüsselzeuge für Nemets Korrekturverfahren'
+- source: Neris Tal
+  target: Neris Tal
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 87fe84aa-94f1-4fbd-8118-60d6a4e8ab4b
+  rf_appearance_sha: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  note: 'RomanForge-Rolle: Archivforensikerin und Hauptperspektive der historischen
+    Untersuchung'
+- source: Unterglas-Hydrologin
+  target: Unterglas-Hydrologin
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 910bba87-e61a-4eeb-834a-81b7ec64cc9f
+  rf_appearance_sha: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  note: 'RomanForge-Rolle: Hydrologin aus Unterglas und Hauptperspektive des ökologischen
+    Konflikts'
+- source: Oren Kest
+  target: Oren Kest
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 92251e0b-9723-4eaa-b52e-d5723ff4aa0e
+  rf_appearance_sha: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  note: 'RomanForge-Rolle: Designierter Nachfolger Tarns und Hauptperspektive des
+    Identitätskonflikts'
+- source: Ilyan Dheran
+  target: Ilyan Dheran
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: a83a3521-8da2-4bc8-ac33-e572fe30478c
+  rf_appearance_sha: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  note: 'RomanForge-Rolle: Oberhaupt Nemets und politischer Gegenspieler der Untersuchung'
+- source: Erster Schiedsrichter
+  target: Erster Schiedsrichter
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: bea9c54c-b6f0-474e-96d3-2d45b23261da
+  rf_appearance_sha: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  note: 'RomanForge-Rolle: Ungekoppelter Schiedsrichter und Hauptperspektive der politischen
+    Entscheidung'
+- source: Tarns verstorbenes Oberhaupt
+  target: Tarns verstorbenes Oberhaupt
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: d01f3b69-7996-4326-8e25-f97d29380fda
+  rf_appearance_sha: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  note: 'RomanForge-Rolle: Orens Vorgänger und Opfer einer erzwungen verlängerten
+    Kontinuität'
+- source: Veyra-Netzwerk
+  target: Veyra-Netzwerk
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: d8a1cb78-c10d-4369-9bd4-8a52ad0d64b9
+  rf_appearance_sha: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  note: 'RomanForge-Rolle: Nichtmenschliches planetarisches Gegenüber und Ursprung
+    der Rekonstruktionen'

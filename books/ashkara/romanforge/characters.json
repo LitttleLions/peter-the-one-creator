@@ -1,0 +1,80 @@
+{
+  "format": "romanforge-characters/1",
+  "generated": "Erzeugt von tools/sync_romanforge_characters.py - nicht von Hand bearbeiten.",
+  "handoff_id": "32bad13b-dacd-454c-9752-4ba8e872016b",
+  "fetched_at": "2026-11-01T16:56:05Z",
+  "characters": [
+    {
+      "uid": "83a61dc3-d243-4b2d-b71a-fe2362d876e1",
+      "name": "Ehemaliger Nemet-Forscher",
+      "role": "Hohler Forscher und Schlüsselzeuge für Nemets Korrekturverfahren",
+      "description": "Der ehemalige Forscher trägt mehrere unterschiedlich bearbeitete Rekonstruktionen desselben historischen Materials. Er kann nicht immer sicher zuordnen, welche Erinnerungen seine eigenen sind und welche ihm übertragen wurden. Seine Widersprüche wurden deshalb als Folge seines Integrationsverlusts abgetan.",
+      "appearance": null,
+      "first_appears_chapter": null,
+      "updated_at": "2026-09-27T20:03:21.822Z"
+    },
+    {
+      "uid": "87fe84aa-94f1-4fbd-8118-60d6a4e8ab4b",
+      "name": "Neris Tal",
+      "role": "Archivforensikerin und Hauptperspektive der historischen Untersuchung",
+      "description": "Neris untersucht im Auftrag der bestehenden Ordnung die historische Grundlage des geplanten Tiefenschnitts. In einer anerkannten Veyra-Rekonstruktion des ersten Abtretungsvertrags entdeckt sie die scheinbare Anwesenheit eines Menschen, der damals bereits tot war. Aus diesem Widerspruch entwickelt sie gemeinsam mit der Hydrologin und dem ehemaligen Nemet-Forscher eine belastbare Beweiskette.",
+      "appearance": null,
+      "first_appears_chapter": 0,
+      "updated_at": "2026-09-27T20:03:21.822Z"
+    },
+    {
+      "uid": "910bba87-e61a-4eeb-834a-81b7ec64cc9f",
+      "name": "Unterglas-Hydrologin",
+      "role": "Hydrologin aus Unterglas und Hauptperspektive des ökologischen Konflikts",
+      "description": "Die Hydrologin untersucht die Wasserwege unter den Glaslandschaften und erkennt, dass der geplante Tiefenschnitt zentrale Verbindungen des Wasser- und Veyra-Netzes zerstören könnte. Ihr Wissen über historische Wasserwege und Verwaltungsaufzeichnungen ermöglicht Neris erst die unabhängige Prüfung des Abtretungsvertrags.",
+      "appearance": null,
+      "first_appears_chapter": 0,
+      "updated_at": "2026-09-27T20:03:21.822Z"
+    },
+    {
+      "uid": "92251e0b-9723-4eaa-b52e-d5723ff4aa0e",
+      "name": "Oren Kest",
+      "role": "Designierter Nachfolger Tarns und Hauptperspektive des Identitätskonflikts",
+      "description": "Oren soll das Erbe der Kontinuität Tarn übernehmen und dadurch ihre ruhende politische Stimme wiederherstellen. Er beginnt die mehrstufige Kopplung, empfängt Fähigkeiten und Erfahrungen seiner Vorgänger und erlebt zugleich, dass Kompetenzgewinn, Fremdeinfluss und möglicher Selbstverlust nicht sauber voneinander zu trennen sind.",
+      "appearance": null,
+      "first_appears_chapter": 0,
+      "updated_at": "2026-09-27T20:03:21.822Z"
+    },
+    {
+      "uid": "a83a3521-8da2-4bc8-ac33-e572fe30478c",
+      "name": "Ilyan Dheran",
+      "role": "Oberhaupt Nemets und politischer Gegenspieler der Untersuchung",
+      "description": "Dheran führt die Kontinuität Nemet, die Archive, Authentifizierung, wissenschaftliche Standards und zentrale Veyra-Verfahren kontrolliert. Er schützt die vor Jahrzehnten entwickelte „Fehlerkorrektur“ und bekämpft die Offenlegung der Rekonstruktionsproblematik.",
+      "appearance": null,
+      "first_appears_chapter": 0,
+      "updated_at": "2026-09-27T20:03:21.822Z"
+    },
+    {
+      "uid": "bea9c54c-b6f0-474e-96d3-2d45b23261da",
+      "name": "Erster Schiedsrichter",
+      "role": "Ungekoppelter Schiedsrichter und Hauptperspektive der politischen Entscheidung",
+      "description": "Der Erste Schiedsrichter besitzt als bewusst sterblicher Amtsträger keine übertragene Kontinuität. Bei auslaufender Vereinbarung und fehlender Mehrheit kann er einen begrenzten Sicherungsentscheid über die strittigen Ansprüche und die drohenden Eingriffe treffen.",
+      "appearance": null,
+      "first_appears_chapter": 0,
+      "updated_at": "2026-09-27T20:03:21.822Z"
+    },
+    {
+      "uid": "d01f3b69-7996-4326-8e25-f97d29380fda",
+      "name": "Tarns verstorbenes Oberhaupt",
+      "role": "Orens Vorgänger und Opfer einer erzwungen verlängerten Kontinuität",
+      "description": "Das frühere Oberhaupt Tarns stirbt kurz vor Beginn der Haupthandlung nach einem fortschreitenden schweren Integrationsverlust. Tarn hatte seinen Zustand verborgen und versucht, seine Amtsfähigkeit durch weitere belastende Eingriffe zu erhalten.",
+      "appearance": null,
+      "first_appears_chapter": 0,
+      "updated_at": "2026-09-27T20:03:21.822Z"
+    },
+    {
+      "uid": "d8a1cb78-c10d-4369-9bd4-8a52ad0d64b9",
+      "name": "Veyra-Netzwerk",
+      "role": "Nichtmenschliches planetarisches Gegenüber und Ursprung der Rekonstruktionen",
+      "description": "Unter Ashkars Glaslandschaften existiert ein mikrobiell-mineralisches Netzwerk, dessen aktive Knoten als Veyra verwendet werden. Es kann während aktiver Kopplungen beeinflussen, welche Erfahrungsfragmente hervortreten, welches emotionale Gewicht sie erhalten und welche Zusammenhänge ein Empfänger bildet.",
+      "appearance": null,
+      "first_appears_chapter": 0,
+      "updated_at": "2026-09-27T20:03:21.822Z"
+    }
+  ]
+}

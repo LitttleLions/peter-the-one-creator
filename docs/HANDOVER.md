@@ -1,9 +1,39 @@
-# Handover – Stand 2026-10-28 (Autor-Fix, Merge von `origin/main`, Push; alles auf `main`)
+# Handover – Stand 2026-11-01 (RomanForge-Figuren-Abgleich, alles auf `main`)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei.
 > Kopierfertiger Einstieg: [uebergabe-prompt.md](./uebergabe-prompt.md).
 
-## Letzte Session (2026-10-28 abends, Autor-Fix + Push)
+## Letzte Session (2026-11-01, RomanForge-Figuren-Abgleich)
+
+Branch **`main`** (`1535a63`), gepusht. Ausführlich zur Zusammenarbeit beider Repos:
+`docs/sitzungs-uebergabe.md` im Repo NovelWriter (RomanForge, `C:\code\NovelWriter` bzw.
+`E:\code\NovelWriter`) und [romanforge-figuren.md](./romanforge-figuren.md).
+
+- **Entscheidung:** RomanForge führt nur eigene Originale; Übersetzungen fremder Vorlagen
+  bleiben hier und haben keine RomanForge-Figuren. Austausch nur über die Übergabe (API-Schlüssel,
+  `.env`: `ROMANFORGE_URL=https://romanforge.littlelionsfilms.de`, `ROMANFORGE_API_KEY`), kein
+  direkter Datenbankzugriff, kein Rückkanal.
+- **Neu:** `tools/lib/rf_characters.py` und `tools/sync_romanforge_characters.py` (Trockenlauf ist
+  Standard, `--apply` schreibt): Spiegel `books/<id>/romanforge/characters.json` und Abgleich mit
+  `names.yaml` über `rf_uid`. Peter-Felder (`target`, `aliases`, `type`, `note`, `visual`, `status`)
+  werden nie überschrieben. `import_markdown_original.py --new --handoff` legt Spiegel und
+  `names.yaml` gleich mit an. 16 Tests in `tests/test_rf_characters.py`.
+- **Durchgeführt (Übergaben vom 01.11.2026):** Lotse von Rügen (33 Kapitel identisch, 15 Figuren
+  verknüpft), Die Sprache des Anderen (Kapitel 001 aus RomanForge übernommen, Gate 0/0/0; 10 Figuren,
+  `Berto` ist der Junge, `Berto der Knecht` der alte Knecht), Ashkar I (36 Kapitel identisch, 8
+  Figuren als `draft`, `visual` leer). Commits `36cf93f`, `096dc1e`, `959e035`, `1535a63`.
+- **Ablauf je Buch:** `import_markdown_original.py --book <id> --handoff <id> --compare` →
+  `sync_romanforge_characters.py --book <id> --handoff <id>` (Trockenlauf) → nach Freigabe `--apply`
+  → committen. Abweichende Namen zuerst in RomanForge korrigieren (dort ist die Quelle).
+- **Offen:** Lotse Kapitel 31 und 33 enthalten noch „Bille“ (Roman nutzt Holm); `format`/`mode` der
+  Übergabe werden nicht geprüft, `rf_id` wird nicht zum Abgleich genutzt, `publication`/Exposé werden
+  nicht gelesen (Liste der 19 Punkte: `docs/schnittstelle-peter-offene-punkte.md` im Repo NovelWriter);
+  Lektor-Hinweise zu einem Buch stehen aus (Buch, Fassung, Hinweise fehlen noch).
+- **Nicht von dieser Session, nicht committet (Rechner C:):** KDP-Werkzeug (`tools/kdp_sync.py`,
+  `tests/test_kdp_*`, `tools/lib/kdp_*`), `tools/import_de_original.py`, `tools/sync_book_gitignore.py`,
+  `docs/jev-review-plan.md` – bitte sichern oder zuordnen.
+
+## Vorige Session (2026-10-28 abends, Autor-Fix + Push)
 
 Branch **`main`**, **gepusht** (mit `origin/main` synchron). Der Branch
 `cline/pveejb87` ist gelöscht.

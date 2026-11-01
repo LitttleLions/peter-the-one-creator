@@ -826,6 +826,18 @@ def cmd_new(args: argparse.Namespace) -> int:
         encoding="utf-8")
     (book_root / "names.yaml").write_text(
         yaml.safe_dump({"entries": []}, allow_unicode=True), encoding="utf-8")
+    if args.handoff:
+        # Figuren aus der Uebergabe: Spiegel ablegen und names.yaml mit draft-Eintraegen anlegen.
+        from lib import rf_characters as rfc  # noqa: E402
+        from lib.name_registry import write_names  # noqa: E402
+        characters = rfc.normalize_characters(handoff_data.get("characters"))
+        if characters:
+            rfc.write_mirror(book_root, args.handoff, characters)
+            same_language = bool(book_yaml.get("source_lang")) and book_yaml.get("source_lang") == book_yaml.get("target_lang")
+            write_names(
+                book_root / "names.yaml",
+                rfc.apply_sync([], rfc.plan_sync([], characters, same_language=same_language)),
+            )
     style_src = REPO_ROOT / "styles" / f"{NEW_STYLE_DEFAULT}.md"
     if style_src.exists():
         shutil.copy2(style_src, book_root / "styles" / f"{NEW_STYLE_DEFAULT}.md")

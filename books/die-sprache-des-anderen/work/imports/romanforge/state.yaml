@@ -2,10 +2,9 @@ book: die-sprache-des-anderen
 chapters:
   '001':
     title: Die Ketten an den Kähnen
-    rf_base: cda633407f788033dd81d03e767c34ebcaf18025941da35c2fb6334e89c0f0a1
-    peter_base: cda633407f788033dd81d03e767c34ebcaf18025941da35c2fb6334e89c0f0a1
-    base_export: 20261028-142853
-    rf_id: '232'
+    rf_base: 23675d92542fb11c0edcb578fb4ebe2b7f3e95f4ef9fb553f2f4691283fd8120
+    peter_base: 23675d92542fb11c0edcb578fb4ebe2b7f3e95f4ef9fb553f2f4691283fd8120
+    base_export: 20261101-163902
   '002':
     title: Der Eid der Könige
     rf_base: 3776f9946255e6e982512764243a796c8917bde58a682d6c11c52eec2a73c718

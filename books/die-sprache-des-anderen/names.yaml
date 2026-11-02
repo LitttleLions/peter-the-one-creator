@@ -1,98 +1,144 @@
 entries:
-  - source: "Alda"
-    target: "Alda"
-    aliases: ["Frau Alda", "Witwe Alda"]
-    type: person
-    status: draft
-    note: >-
-      Witwe und Inhaberin eines Fuhrbetriebs mit fünf Kähnen auf der Ill in
-      Straßburg; handelt mit Fürsten, Grafen und Heerbann.
-    visual: >-
-      40-jährige Frau, kräftig und wetterhart, dunkles Haar unter grober
-      Wollkappe, gefettete Rindslederstiefel, fleckiger Wollmantel mit
-      Schafsfellfutter, aufmerksamer und zäher Blick, kräftige Hände
-  - source: "Berto"
-    target: "Berto"
-    aliases: ["der alte Knecht"]
-    type: person
-    status: draft
-    note: Alter Knecht und Fuhrmann auf Aldas Kähnen, hinkt seit einem Eiswinter.
-    visual: >-
-      60-jähriger Knecht, gebückt und hinkend, strubbeliges Grauhaar,
-      zerschlissene Kappe, grobe Holzschuhe mit Stroh, wettergegerbtes Gesicht
-  - source: "Raginbert"
-    target: "Raginbert"
-    aliases: ["Herr Raginbert", "Graf Raginbert"]
-    type: person
-    status: draft
-    note: >-
-      Der Grundherr, der im Namen des westfränkischen Königs die Versorgung des
-      linken Rheinufeers sichert; verhaengt ein Haus ueber Aldas Kopf.
-    visual: >-
-      50-jähriger geistlicher Grundherr, glatt rasiert, volle von Kaelte
-      geroetete Wangen, wässrig graue Augen, schwerer blauer Mantel mit
-      Fuchspelzfutter, Silberbeschlaege an der Zaumzeug, kalter Blick
-  - source: "Folker"
-    target: "Folker"
-    aliases: []
-    type: person
-    status: draft
-    note: >-
-      Aldas Verwalter und Gläubiger, der das Haus ueber dem Kopf zerstoeren
-      will; riecht nach Zwiebeln und ranzigem Speck.
-    visual: >-
-      45-jähriger Verwalter, ungepflegt, Bartstoppeln, fleckige Gewandstuecke,
-      aufgeschlagenes Schafsfell, zaehneknirschende Miene, fette Finger
-  - source: "Otwin"
-    target: "Otwin"
-    aliases: []
-    type: person
-    status: draft
-    note: >-
-      Kranker junger Schreiber im Dienst Raginberts, von Schuld und Krankheit
-      gezeichnet, verkauft sein Wissen ueber ein Geleit nach Lothringen.
-    visual: >-
-      25-jähriger blasser Schreiber, eingefallene Wangen, fiebrige unstete
-      Augen, fransige Kapuze, klamme Finger um Feder und Pergament, schwere
-      Schultern unter dem Reiterrock
-  - source: "Giseler"
-    target: "Giseler"
-    aliases: []
-    type: person
-    status: draft
-    note: Straßburger Gläubiger mit Narbe im Gesicht.
-    visual: >-
-      40-jähriger Bürger, schiefes Grinsen, weiche helle Narbe auf der Wange,
-      Lederkappe, grober Mantel, abweisende Haltung
-  - source: "Strassburg"
-    target: "Strassburg"
-    aliases: ["Straßburg"]
-    type: place
-    status: draft
-    note: >-
-      Hauptstadt des Rheintals, Schindentor in römischen Ziegelmauern,
-      Salzlagerhäuser und Bucht der Ill.
-  - source: "Ill"
-    target: "Ill"
-    aliases: []
-    type: place
-    status: draft
-    note: Fluss, an dessen ruhiger Schleife die Umschlagplätze der Fuhrleute liegen.
-  - source: "Zaberner Steige"
-    target: "Zaberner Steige"
-    aliases: []
-    type: place
-    status: draft
-    note: Passweg von Straßburg nach Lothringen, über den der Transport läuft.
-  - source: "Verdun"
-    target: "Verdun"
-    aliases: []
-    type: place
-    status: draft
-    note: Ziel des Geleits und Schauplatz des Grafengerichts.
-  - source: "Marsal"
-    target: "Marsal"
-    aliases: []
-    type: place
-    status: draft
-    note: Ort an der Maas, Schauplatz des Bündnisses der Fuhrleute.
+- source: Alda
+  target: Alda
+  aliases:
+  - Frau Alda
+  - Witwe Alda
+  type: person
+  status: draft
+  note: Witwe und Inhaberin eines Fuhrbetriebs mit fünf Kähnen auf der Ill in Straßburg;
+    handelt mit Fürsten, Grafen und Heerbann.
+  visual: 40-jährige Frau, kräftig und wetterhart, dunkles Haar unter grober Wollkappe,
+    gefettete Rindslederstiefel, fleckiger Wollmantel mit Schafsfellfutter, aufmerksamer
+    und zäher Blick, kräftige Hände
+  rf_uid: 79c3f990-211c-4c27-b8c2-c84bc550cecc
+  rf_appearance_sha: 12d4e672f2503a8751fbe5301ba6329633745f48006114aeac527bb0c79479bb
+- source: Berto der Knecht
+  target: Berto
+  aliases:
+  - der alte Knecht
+  type: person
+  status: draft
+  note: Alter Knecht und Fuhrmann auf Aldas Kähnen, hinkt seit einem Eiswinter.
+  visual: 60-jähriger Knecht, gebückt und hinkend, strubbeliges Grauhaar, zerschlissene
+    Kappe, grobe Holzschuhe mit Stroh, wettergegerbtes Gesicht
+  rf_uid: 317d35b8-4984-4b85-a254-de99ef8e0529
+  rf_appearance_sha: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+- source: Raginbert
+  target: Raginbert
+  aliases:
+  - Herr Raginbert
+  - Graf Raginbert
+  type: person
+  status: draft
+  note: Der Grundherr, der im Namen des westfränkischen Königs die Versorgung des
+    linken Rheinufeers sichert; verhaengt ein Haus ueber Aldas Kopf.
+  visual: 50-jähriger geistlicher Grundherr, glatt rasiert, volle von Kaelte geroetete
+    Wangen, wässrig graue Augen, schwerer blauer Mantel mit Fuchspelzfutter, Silberbeschlaege
+    an der Zaumzeug, kalter Blick
+  rf_uid: 30f7481b-c969-4d1f-96c1-8c2ecc1c2873
+  rf_appearance_sha: e1c6608b417e4ac663bf6cb2cd14564eb91474cb5f08cceb981af82752ac91a0
+- source: Folker
+  target: Folker
+  aliases: []
+  type: person
+  status: draft
+  note: Aldas Verwalter und Gläubiger, der das Haus ueber dem Kopf zerstoeren will;
+    riecht nach Zwiebeln und ranzigem Speck.
+  visual: 45-jähriger Verwalter, ungepflegt, Bartstoppeln, fleckige Gewandstuecke,
+    aufgeschlagenes Schafsfell, zaehneknirschende Miene, fette Finger
+  rf_uid: 1e510ae0-927e-4275-a2f1-ba83b7488819
+  rf_appearance_sha: e15fcd354804cfa877f9d3ddd3624158f57f348c7d7a8e8fc065d3fc58932682
+- source: Otwin
+  target: Otwin
+  aliases: []
+  type: person
+  status: draft
+  note: Kranker junger Schreiber im Dienst Raginberts, von Schuld und Krankheit gezeichnet,
+    verkauft sein Wissen ueber ein Geleit nach Lothringen.
+  visual: 25-jähriger blasser Schreiber, eingefallene Wangen, fiebrige unstete Augen,
+    fransige Kapuze, klamme Finger um Feder und Pergament, schwere Schultern unter
+    dem Reiterrock
+  rf_uid: d29f717a-1565-4188-9b25-b97905180f1e
+  rf_appearance_sha: da676a5168779c9fa28cba14cb5627ffc5550525dfc7968096fe0723caa25c2a
+- source: Giseler
+  target: Giseler
+  aliases: []
+  type: person
+  status: draft
+  note: Straßburger Gläubiger mit Narbe im Gesicht.
+  visual: 40-jähriger Bürger, schiefes Grinsen, weiche helle Narbe auf der Wange,
+    Lederkappe, grober Mantel, abweisende Haltung
+  rf_uid: f881e7c9-4b9e-41f3-9ee1-8e7a78c40e0e
+  rf_appearance_sha: a3aaeddcfc9d34f0e35256329bc329526df051c64afc10f769e0099a0909994b
+- source: Strassburg
+  target: Strassburg
+  aliases:
+  - Straßburg
+  type: place
+  status: draft
+  note: Hauptstadt des Rheintals, Schindentor in römischen Ziegelmauern, Salzlagerhäuser
+    und Bucht der Ill.
+- source: Ill
+  target: Ill
+  aliases: []
+  type: place
+  status: draft
+  note: Fluss, an dessen ruhiger Schleife die Umschlagplätze der Fuhrleute liegen.
+- source: Zaberner Steige
+  target: Zaberner Steige
+  aliases: []
+  type: place
+  status: draft
+  note: Passweg von Straßburg nach Lothringen, über den der Transport läuft.
+- source: Verdun
+  target: Verdun
+  aliases: []
+  type: place
+  status: draft
+  note: Ziel des Geleits und Schauplatz des Grafengerichts.
+- source: Marsal
+  target: Marsal
+  aliases: []
+  type: place
+  status: draft
+  note: Ort an der Maas, Schauplatz des Bündnisses der Fuhrleute.
+- source: Berengar
+  target: Berengar
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 0846c193-bdbf-45c1-97ea-b9b0bbf00360
+  rf_appearance_sha: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  note: 'RomanForge-Rolle: Aldas gefallener Mann, dessen geheime Abmachung die Handlung
+    auslöst'
+- source: Berto
+  target: Berto
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 4307a816-062d-4821-88be-f9e5729fa1fe
+  rf_appearance_sha: f43ad1714e902a30b57c2108fbda44b685541a38e6d3d5bb437cd55f87ddfd7b
+  note: 'RomanForge-Rolle: Aldas Sohn, dessen Zukunft und Freiheit auf dem Spiel stehen'
+  visual: Neunjähriger Junge.
+- source: Gerwin
+  target: Gerwin
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 6804c1cd-bfb1-48ed-bae1-3f8defb36f84
+  rf_appearance_sha: 071fdb71a13b9d86f7c54dd64c9bf777f33277652a82a0055d20046008ee9ff9
+  note: 'RomanForge-Rolle: Aldas jüngerer Bruder, dessen frühere Schuld die Familie
+    ins Verderben stürzte'
+  visual: Etwa 25 Jahre alt, gezeichnet von Entbehrungen und Flucht.
+- source: Ines
+  target: Ines
+  aliases: []
+  type: person
+  status: draft
+  rf_uid: 9cf3df46-ff62-4d47-b4b5-6060dee341d8
+  rf_appearance_sha: f55179eca3a9b0359e52ec3f81509e14f28e858fdd0d7114ea2937e48f7e90bb
+  note: 'RomanForge-Rolle: Scharfsinnige Straßburger Abgabenkundige und Rechtsberaterin
+    der Kaufleute'
+  visual: Über 50 Jahre alt, gepflegtes blondes Haar unter einer feinen Leinenhaube,
+    wache Augen, trägt einen Schlüsselbund und ein Zählbrett am Gürtel.

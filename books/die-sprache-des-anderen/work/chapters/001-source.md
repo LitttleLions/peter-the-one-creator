@@ -5,137 +5,125 @@
 
 ---
 
-Der Atem der Zugochsen stand wie graue Wolle in der Dämmerung. Alda spürte die Kälte durch die gefetteten Rindslederstiefel kriechen, hinauf in die Waden, wo das Tuch der Beinlinge an der Haut klebte. Der Winter gab Straßburg nicht frei. Der Schnee war nass, schwer von der Feuchtigkeit des nahen Rheins, und hatte sich in den Gassen mit Pferdemist, Asche und dem Unrat der vergangenen Wochen zu einem bräunlichen Brei vermengt, der bei jedem Schritt schmatzte.
+Der Schnee in den Gassen war schon am frühen Morgen zu einem braunen, halbgefrorenen Brei zerstampft, der nach Pferdemist, kaltem Buchenrauch und nassem Schafsfell roch. Die Kälte kroch nicht bloß durch die wollenen Beinlinge, sie biss sich in den Fugen des Pflasters fest, stieg an den Waden empor und legte einen eisigen Reif auf die groben Hanftaue, die Alda über der Schulter trug. Hinter ihr schlurfte Berto der Knecht, den hölzernen Handkarren durch die Spurrillen wuchtend, wobei die ungefettete Achse bei jeder Umdrehung wie ein hungriger Kauz schrie.
 
-Sie strich sich eine feuchte Strähne unter der wollenen Haube hervor und zog den mit Schafsfell gefütterten Mantel enger um die Schultern. Vor ihr ragten die Weiden am Ufer der Ill wie knorrige Finger in den Nebel. Weiter draußen, auf den Wiesen vor den alten römischen Mauern, brannte das Heerlager. Tausende Männer, Tausende Pferde. Schon seit drei Tagen roch die ganze Stadt nach dem Qualm feuchten Buchenholzes, nach gebratenem Talg, nach ungeräuchertem Fleisch und den Ausdünstungen von Zehntausenden Kriegern, die Ludwig aus dem Osten und Karl aus dem Westen hier zusammengezogen hatten. Man schmeckte den Rauch auf der Zunge, bitter und rußig.
+„Schweig still mit dem Ding, Berto“, murmelte Alda, ohne sich umzudrehen, während sie ihren Mantel fester um die Schultern zog. „Die halbe Stadt liegt noch auf den Strohsäcken, und die andere Hälfte hat die Hand am Sax.“
 
-»Zieh an, Berto«, sagte Alda heiser. »Die Gerber wollen die Rinde vor der Mittagsstunde am Schindertor haben, sonst feilschen sie wieder um jeden Pfennig.«
+„Es ist der Frost, Herrin“, gab der Alte mit heiserem Keuchen zurück, und sein Atem stand wie weißer Dampf vor seinem verkrusteten Bart. „Das Schmalz ist hart wie Kieselstein. Da hilft kein Schmieren, da hilft nur die Sonne, und die lässt heute auf sich warten wie die Gnade des Bischofs.“
 
-Hinter ihr führte der alte Knecht die beiden braunen Ochsen am Leitstrick. Berto ging schwerfällig, die Schultern hochgezogen gegen den Schneegriesel, der seit der Matutin unbarmherzig vom Himmel fiel. Seine Holzschuhe waren mit Stroh ausgestopft, doch er hinkte leicht; der Frost saß ihm in den Knochen, seit sie vor zwei Jahren das Futterboot aus dem Treibeis hatten bergen müssen.
+Alda antwortete nicht. Sie kannte das Klagen der Knechte, so wie sie das Knarren des Eises auf der Ill kannte, wenn der Winter die Strömung langsam abschnürte. Ihr Blick ging starr geradeaus, vorbei an den windschiefen Hütten aus Weidengeflecht und getrocknetem Lehm, die sich wie schmarotzende Pilze an die gewaltigen, rotbraunen Quader der alten römischen Wehrmauer klammerten. Diese uralten Steine stammten aus einer Zeit, von der die Alten sagten, dass damals Riesen durch das Land gezogen seien, bevor die Franken kamen; nun dienten die zerbröckelnden Gesimse als Hühnerställe, und über den verfallenen Toren wucherte vertrocknetes Efeu. Dazwischen roch es nach dem fauligen Dunst von Gerberlohe, nach Hundekot und dem allgegenwärtigen, beißenden Gestank der vielen Feuer, die seit zwei Tagen jenseits der Wälle brannten.
 
-»Sie werden feilschen, Herrin«, brummte Berto, ohne den Blick vom schlammigen Boden zu heben. »Sie feilschen immer, wenn der König in der Stadt ist. Alles Volk wittert Silber oder fürchtet den Galgen. Dazwischen gibt es dieser Tage nichts.«
+Denn Straßburg platzte aus den Fugen. Nicht wegen des Jahrmarkts oder der Kirchweih zur Ehre der seligen Jungfrau Maria, deren flache, hölzerne Bischofskirche drüben auf dem Hügel wie eine geduckte Glucke im Nebel lag, sondern wegen der Könige. Ludwig der Deutsche war von Osten her über den breiten, grauen Strom gesetzt, mit einem Tross aus bayerischen und alemannischen Reitern, deren lederne Wämser nach Tran und nassem Nadelholz rochen. Und von Westen, über die Pässe der Vogesen, war sein Halbbruder Karl herabgestiegen, gefolgt von Baronen und Fußvolk aus dem welschen Land, Männern, deren Zunge geschmeidig wie Weidenruten klang und von denen kein Fuhrmann verstand, ob sie Brot oder Hafer forderten, wenn sie mit dem Griff ihrer Dolche an die Speicherluken polterten. Zwei Brüder, zwei gewaltige Heere, eingepfercht zwischen den Flussarmen der Ill und den Morästen des Rheins, um ein Bündnis gegen ihren ältesten Bruder Lothar zu besiegeln.
 
-Sie bogen um die Ecke der hölzernen Salzlagerhäuser, wo die schwere Luft nach Pökellake und altem Kiefernholz roch. Hier, an der Bucht, wo die Ill eine ruhige Schleife zog, lagen die Umschlagplätze der Fuhrleute. Fünf breite Kähne gehörten zu Aldas Betrieb – Schiffe mit flachem Boden aus dickem Eichenholz, geteert gegen das Flusswasser, gefügt mit breiten Eisennägeln, die ihr Mann Heinrich noch selbst beim Grobschmied an der Münsterbaustelle erhandelt hatte. Sie waren das Rückgrat des Hofes. Auf ihnen kam das Getreide aus dem Kochersberg, das Bauholz aus den Vogesenwäldern und der Weizen für die Klöster. Ohne die Kähne waren die zwanzig Karren im Hof nur totes Holz, und die Zugtiere fraßen ihr Heu umsonst.
+Für die Fürsten mochte es um Königreiche gehen, um Kronen und den Willen des Allmächtigen, doch für eine Frau, die drei Lastkähne und vier schwere Karren durch den Winter bringen musste, bedeuteten zehntausend Bewaffnete vor allem eines: Mangel. Wenn zwei Heere aufeinandertrafen, wurde Heu so kostbar wie Feingold, und eine Handvoll trockener Erbsen wog mehr als das Seelenheil eines Grafen.
 
-Alda blieb abrupt stehen. Der Schlamm spritzte an ihren Saum.
+Als sie die Krümmung zur Lände hinabschritten, wo die Uferböschung flach in das graugrüne Wasser der Ill überging, blieb Alda jäh stehen. Der Schlamm unter ihren derben Rindslederschuhen schmatzte leise.
 
-»Was ist dort?«, murmelte sie.
+„Herrin?“, stieß Berto der Knecht hervor und brachte den Karren mit einem Ruck zum Stehen. Ein Korb voll geteerter Wergdocken und Weidenkörbe schepperte auf dem Karrenboden.
 
-Am Landesteg, dort, wo das dunkle Wasser träge gegen die Pfähle klatschte, schimmerten Fackeln durch das Morgengrauen. Der Qualm von Pech vermischte sich mit dem Flussgeruch nach faulem Schilf und totem Fisch. Gestalten in kurzen Wollmänteln und mit ledernen Wämsern bewegten sich auf den Planken. Eisen schlug gegen Eisen – ein harter, heller Klang, der über das Wasser hallte und das Gekrächz der Krähen in den Weiden aufscheuchte.
+Alda hob die Hand, gebot ihm Schweigen. Ihre Augen verengten sich.
 
-»Herrin...«, flüsterte Berto und hielt die Ochsen mit einem Ruck am Zaumzeug zurück. Das Zuggeschirr aus Eschenholz knarrte leise. Die Tiere bliesen feuchte Luft aus ihren Nüstern und senkten die Köpfe. »Das sind nicht die Schiffer.«
+An den hölzernen Dalben, wo die Strömung das treibende Treibeis mit hohlem Geklapper gegen das Ufer drückte, lagen die Kähne. Drei schwere Eichenböden, gezimmert aus dicken Bohlen, teergeschwärzt, mit flachem Rumpf, geschaffen, um Getreidesäcke aus dem Breisgau oder Salzfässer aus den nördlichen Gauen durch die Untiefen zu bugsieren. Berengar, ihr vor drei Monden an der Auszehrung verstorbener Mann, hatte diese Kähne mit seinen eigenen Händen verfugt. Jeder Niet, jeder eiserne Krampen war vertraut, der Wert der Schiffe in das Holz ihrer Existenz eingebrannt wie das Zeichen des Schmieds.
 
-Alda wartete nicht auf ihn. Sie raffte den Saum ihres schweren Rocks und stapfte durch den Morast hinunter zum Ufer. Das Eis an den Pfützen brach unter ihren Sohlen mit leisem Knirschen ein.
+Doch über den Steven der beiden vorderen Kähne lag etwas, das dort nicht hingehörte. Schweres, geschmiedetes Eisen. Glied an Glied, rostbraun und dick wie Daumen, wanden sich zwei Ketten um das Holz, führten hinauf zum Ufer und waren dort um die Stämme der alten Uferweiden geschlungen, gesichert mit massiven Hängeschlössern, deren Riegel kalt im Zwielicht glänzten.
 
-Am vordersten Kahn, der »Schwalbe«, standen drei Männer. Zwei trugen eiserne Spangenhelme und lange Lanzen, deren Spitzen im trüben Morgenlicht stumpf glänzten. Der dritte kniete auf dem nassen Holz des Stegs. Er hielt einen schweren Schmiedehammer in den schwieligen Händen und trieb gerade einen eisernen Dorn durch die Kettenglieder, die um die Haltepfähle und die Bugspanten der Kähne geschlungen waren. Ein dickes, schwarz angelaufenes Kettenglied nach dem anderen fraß sich in das weiche Eichenholz der Dollbordwände.
+„Was beim lebendigen Gott…“, flüsterte der Knecht hinter ihr. Seine Stimme verlor allen Mut, wurde dünn und brüchig. „Das sind keine städtischen Pfähle, Herrin. Das ist Kettenwerk aus der Schmiede des Herrenhofs.“
 
-»Halt ein!«, rief Alda. Ihre Stimme schnitt scharf durch das Plätschern des Flusses. »Wer gibt euch das Recht, an meinem Eigentum Hand anzulegen? Weg von den Tauen!«
+Aldas Kiefer mahlen aufeinander. Das vertraute Gefühl der Trauer um Berengar, das sie seit dem ersten Frost wie ein schwerer nasser Wollstoff begleitete, wich mit einem Mal einer harten, schneidenden Kälte, die tiefer saß als der Winterwind. Sie spürte, wie ihr Herz gegen die Rippen schlug, rasch und unnachgiebig wie der Takt eines Flegels auf der Tenne.
 
-Der Mann mit dem Hammer hielt inne und wischte sich mit dem Ärmel über die Nase. Doch die beiden Lanzenträger wandten sich träge um. Einer von ihnen, ein Hüne mit einem Pockennarbengesicht und einem Schwertgurt aus rotem Leder, stieß den Schaft seiner Lanze in die Bohlen, dass es dröhnte.
+„Herrenhof“, wiederholte sie leise. Das Wort schmeckte nach Galle.
 
-»Tritt zurück, Weib«, sagte er mit der trägen Geringschätzung eines Mannes, der gewohnt war, dass Bauern vor ihm den Blick senkten. »Hier wird nichts bewegt, was schwimmt.«
+Sie trat näher an das Wasser heran. Am Heck des größten Kahns, der *Schwalbe*, stand ein Mann. Er trug eine Mütze aus geschorenem Lammfell, tief in die Stirn gezogen, und einen mit Eisenringen verstärkten Lederkoller. Auf seinen Knien ruhte eine lange Lanze mit breiter Blattspitze, deren Schaft mit Fett gegen das Eis eingerieben war. Weiter oben am Hang, im Schutz einer halb verfallenen Mauer aus römischem Ziegelwerk, brannten drei Holzscheite, um die sich zwei weitere Bewaffnete drängten und ihre behandschuhten Hände wärmten.
 
-»Das sind die Kähne der Witwe Alda«, trat nun Berto vor, die Stimme zittrig, aber bemüht um Festigkeit. Er hielt den Leitstecken der Ochsen wie eine Waffe, doch seine Knie gaben unter dem Mantel leicht nach. »Wir haben Fracht für die Gerber. Die Eichenrinde liegt drüben im Speicher. Wenn das Leder verdirbt, haftet ihr vor dem Schultheißen!«
+„He da!“, rief Alda, und ihre Stimme trug klar über das Glucksen des Wassers. Es war der Tonfall, den sie auf den Laderampen gebrauchte, wenn die Träger trödelten oder ein Schiffer das Seil zu früh warf – fest, ohne jedes Zittern, unmissverständlich. „Wer hat euch geheißen, mein Holz an die Kette zu legen?“
 
-Der Pockennarbige lachte kurz auf, ein bellender Laut ohne jede Heiterkeit. »Der Schultheiß sitzt in seiner warmen Stube und betet, dass die Könige ihm das Dach über dem Kopf lassen. Wir nehmen Befehle nicht von Gerbern oder Karrenknechten.«
+Der Mann auf dem Kahn rührte sich träge. Er stützte sich auf die Lanze, richtete sich auf und spuckte einen dunklen Schleimfaden auf die nassen Planken, ehe er Alda von oben bis unten musterte. Seine Augen waren klein, wässrig von der Kälte, und in seinen Mundwinkeln saß die träge Gleichgültigkeit eines Mannes, der weiß, dass das Recht des Stärkeren auf seiner Seite steht.
 
-Aus dem Schatten des benachbarten Salzschuppens löste sich eine weitere Gestalt. Der Mann trug keinen Helm, sondern eine Mütze aus kostbarem Marderfell und einen weiten Reisemantel aus feinstem flandrischem Tuch, dessen Saum sorgfältig aufgesteckt war, um den Straßburger Dreck nicht zu berühren. An seiner Seite ging ein junger Mann mit Schreibzeug am Gürtel – einem hölzernen Futteral für die Rohrfedern und einem ledernen Beutel für Pergamentstreifen.
+„Geh nach Haus, Weib“, sagte er im rauen alemannischen Schlag der Rheinniederung. „Hier gibt es heute nichts zu laden und nichts zu löschen.“
 
-Alda kannte den Mann im Mardermantel nur zu gut. Es war Folker, der Vogt des Grundherrn Raginbert. Wo Folker auftauchte, war das Unrecht nicht weit, stets verkleidet in die Formeln der Herren.
+„Das ist mein Kahn“, sagte Alda und trat bis an den Rand der vereisten Ufersteine. „Das Holz gehört dem Fuhrbetrieb Berengars, und Berengars Erbe liegt in meiner Hand, bis mein Sohn mündig ist. Nehmt die Ketten ab. Ich habe eine Ladung Haferstroh für die Stallungen am Gerbergraben gemeldet, und die Schiffer warten am Kai.“
 
-»Frau Alda«, sagte Folker und neigte den Kopf um ein weniges, kaum mehr als ein Spott. Sein Atem bildete feine Wölkchen vor dem getrimmten Bart. »Ihr seid früh auf den Beinen bei diesem Hundewetter. Eine tugendhafte Witwe, wahrhaftig. Aber eure Mühe ist heute vergebens.«
+Einer der Männer am Feuer, ein Kerl mit pockennarbigem Gesicht und einem breiten Eisenschwert an der Seite, stand langsam auf. Er trat vor, trat ein glimmendes Scheit mit der Ferse aus und kam den schlammigen Pfad herabgeschlendert.
 
-»Was bedeuten diese Eisen an meinen Schiffen, Vogt?«, verlangte Alda zu wissen. Sie stellte sich breitbeinig in den Schlamm des Ufers, die Hände in die Seiten gestützt, so wie sie es gelernt hatte, wenn auf dem Marktplatz die Zwischenhändler versuchten, das Getreidemaß zu drücken. »Ich habe den Flusszoll an Bischof Ratold entrichtet. Bis zum letzten Silberling an Lichtmess. Ihr habt kein Recht, meine Kähne an die Pfähle zu binden.«
+„Berengar ist unter der Erde, Frau“, sagte der Pockennarbige ruhig, fast beiläufig, während er den Daumen in seinen Wehrgurt hakte. „Und was sein war, steht nun unter dem Schutz unseres Herrn Raginbert. Bis die Sache gerichtet ist.“
 
-Folker zog ein gefaltetes Pergament aus den Falten seines Mantels, entfaltete es jedoch nicht. Er tippte nur mit einem fingerbehandschuhten Zeigefinger darauf.
+„Gerichtet?“, schnaubte Alda, und ihre Hände schlossen sich fester um das Tauwerk auf ihrer Schulter. „Was gibt es hier zu richten? Berengar schuldete eurem Herrn nicht einen einzigen Kupferschlag. Wir haben den Pachtzins für den Speicher am Martinstag entrichtet, auf den Schilling genau, in Silbermünzen, gewogen und für gut befunden vor den Zeugen der Gemeinde. Ich habe die Kerbhölzer in meiner Truhe liegen!“
 
-»Das Recht, Alda, wandelt sich mit den Zeiten. Und die Zeiten sind rau. Die Heere der beiden Könige liegen vor den Mauern. Ludwig der Deutsche braucht Verpflegung für seine Sachsen und Bayern, Karl der Kahle für seine Franken. Der Herr Raginbert hat den Auftrag erhalten, die Versorgung des linken Ufers zu sichern. Sämtliche Wasserfahrzeuge von Straßburg bis nach Breisach unterstehen von dieser Stunde an seinem Befehl. Bannrecht des Heerbanns.«
+„Kerbhölzer“, erwiderte der Mann und verzog die Lippen zu einem schiefen Lächeln, das keine Wärme besaß. „Mit Kerbhölzern magst du deinen Mägden das Mehl zuteilen, Alda. Aber Herr Raginbert hält Pergament in den Händen. Echtes Kalbsleder, beschrieben mit der Tinte der Kanzlei, versiegelt und bezeugt nach dem Gesetz der Franken. Dreißig Pfund Silber, so steht es geschrieben. Geschrieben von gelehrter Hand, nicht eingeschnitzt in einen Weidenstock.“
 
-»Das ist eine Lüge«, sagte Alda kalt. »Der Heerbann darf Fuhrwerk requirieren, wenn Not herrscht, aber gegen Entschädigung und nur für die Tage des Zuges. Meine Kähne sind verdingt. Die Gerber warten. Die Abtei Sankt Thomas wartet auf ihr Mehl.«
+Ein Schlag in die Magengrube hätte Alda nicht tiefer treffen können. Dreißig Pfund. Der Betrag war ungeheuerlich. Dreißig Pfund Silber bedeuteten den Wert von sechzig fetten Ochsen, bedeuteten den Preis für ein ganzes Gehöft samt Gesinde, Land und Waldrecht. Kein freier Fuhrmann im ganzen Elsass besaß dreißig Pfund Silber in bar, es sei denn, er handelte mit Seide aus dem Morgenland oder hatte ein Kloster geplündert.
 
-»Die Mönche werden fasten, und die Gerber werden warten müssen«, erwiderte Folker ungerührt. Er wandte sich zu dem Mann mit dem Hammer um. »Schlag den Keil fest, Walo. Niemand rührt diese Ketten an, es sei denn mit dem Siegel meines Herrn Raginbert.«
+„Das ist eine Lüge“, sagte sie, doch ihre Kehle war mit einem Mal trocken wie Asche. „Berengar hätte niemals… für eine solche Summe hätte er mir Rechenschaft abgelegt. Er hat keinen Denar geliehen, ohne dass ich das Buch darüber führte.“
 
-Ein dumpfer Schlag hallte über das Wasser. Das Eisen biss sich tiefer in das Holz. Alda zuckte zusammen, als hätte der Schlag ihr eigenes Fleisch getroffen. Jeder dieser Kähne war mit Mühe, Schweiß und Zinsen bezahlt worden. Wenn die Eichenplanken den Winter über festgekettet im Eisgang lagen, würden die Schollen sie zerdrücken wie Nussschalen. Ohne die Schiffer, die täglich das Eis um die Rümpfe aufhackten, waren sie verloren.
+„Das magst du mit deinem Toten im Gebet ausmachen“, sagte der Bewaffnete und winkte ab, als sei das Gespräch für ihn beendet. „Der Herr Vogt hat die Kähne festlegen lassen. Als Pfand. Und nicht nur das Holz.“
 
-Doch bevor sie einen weiteren Schritt tun konnte, erregte ein Lärm von der Gasse her ihre Aufmerksamkeit. Das Klappern von Hufen auf nassen Kieselsteinen, das Brüllen von Tieren und das Fluchen von Männern.
+Er drehte sich halb um und pfiff durch die Zähne, ein schriller Ton, der die Dohlen auf den Resten der römischen Ringmauer aufscheuchte.
 
-Berto stieß ein Wimmern aus. »Herrin... der Hof!«
+Von den Stallungen her, die Alda hundert Schritt weiter flussaufwärts gepachtet hatte – ein langes, niedriges Gebäude aus Eichenbalken mit Schindeldach –, drang plötzlich Hufschlag durch den Nebel. Ein dumpfes, unruhiges Stampfen auf gefrorener Erde.
 
-Vier berittene Knechte Raginberts kamen den Hang herabgetrieben. Vor ihnen her stolperten drei kräftige Kaltblüter – Aldas beste Zugtiere. Sie waren am Strick zusammengebunden, ihre schweren Hufe pflügten den Morast um. Unter ihnen war der Graue, der Schimmelhengst, den Heinrich kurz vor seinem Tod aus dem Elsass geholt hatte, ein Tier von unbändiger Kraft, das zwei beladene Karren mühelos die Zaberner Steige hinaufziehen konnte.
+Alda fuhr herum. Ihr Herz setzte für einen Wimpernschlag aus.
 
-»Halt!«, schrie Alda und rannte auf die Gasse zu. Der Schlamm bremste ihre Schritte, sie rutschte aus, fing sich mit einer Hand am rauen Pfosten eines Trockengestells für Fischernetze ab. Splitter drangen schmerzhaft durch ihre Wollhandschuhe in den Handballen, doch sie spürte es kaum. »Lasst die Pferde! Berto, pack den Hengst!«
+Aus dem Torweg des Hofes führte ein Knecht Raginberts zwei Tiere an kurzen Stricken heraus. Es waren keine gewöhnlichen Ackerfratzen, sondern die beiden schweren Ardenner Wallache, tiefbrüstig, mit gewaltigen Fesseln und breiten Rücken, fuchsrot das Fell, die Mähnen sorgfältig verflochten. Die besten Zugtiere des gesamten Fuhrbetriebs. Die einzigen Tiere, die imstande waren, die schweren Frachtwagen durch den Lehm der Zaberner Steige zu ziehen, wenn die Achsen bis zur Nabe im Schlamm versanken.
 
-Berto sprang vor, doch einer der Reiter trieb sein Pferd quer in seinen Weg. Der Schlamm spritzte dem alten Knecht mitten ins Gesicht. Der Reiter hob die Reitpeitsche aus geflochtenem Rindsleder und ließ das Ende drohend durch die Luft sausen.
+„Halt!“, schrie Alda. Die Beherrschung, die sie sich mühsam auferlegt hatte, riss wie ein morscher Hanffaden. Sie warf das Seilbündel von der Schulter in den Matsch und rannte los.
 
-»Bleib stehen, Knecht, wenn dir deine Zähne lieb sind!«, schnauzte der Reiter.
+Ihre Schuhe fanden kaum Halt auf dem schmierigen Boden. Zweimal rutschte sie fast aus, fing sich mit den Händen ab, riss sich die Haut an den scharfkantigen Steinen auf, spürte das Brennen nicht einmal.
 
-Folker kam gemächlich hinterher, die Hände nun wieder unter dem Mantel verborgen.
+„Halt, habe ich gesagt! Lasst das Zaumzeug los, verflucht sollt ihr sein!“
 
-»Auch das noch, Alda«, sagte er, und seine Stimme klang fast bedauernd, was sie nur umso giftiger machte. »Die Pferde sind für den Tross des Königs bestimmt. Die fränkischen Panzerreiter brauchen Zugvieh für die Rüstungswagen. Wir können nicht wählerisch sein.«
+Sie erreichte den Knecht, der die Wallache führte, packte den Führstrick des vorderen Pferdes und riss mit aller Kraft daran. Der Fuchs schnaubte, warf den Kopf hoch, das weiße im Auge rollend, und stieg halb auf, die Hufe knapp über Aldas Kopf in die kalte Luft schlagend.
 
-»Das sind meine besten Zucht- und Zugtiere!«, rief Alda, das Gesicht glühend vor Zorn, während der Frost ihren Atem in weißen Stößen vor sich hertrieb. »Ihr nehmt mir die Schiffe, ihr nehmt mir die Pferde – wovon soll mein Hof leben? Wovon soll mein Sohn essen? Wollt ihr uns betteln schicken?«
+„Herrin, um aller Heiligen willen, lasst ab!“, rief Berto der Knecht von hinten, der herangekeucht kam, aber nicht wagte, die Hand gegen die Knechte des Grundherrn zu erheben. Seine Augen waren weit aufgerissen vor Furcht vor den Waffen.
 
-Folker trat ganz nah an sie heran. Er roch nach getrocknetem Lavendel und Nelken, ein fremder, künstlicher Geruch in diesem Schlamm. Seine Augen waren hell und kalt wie der Himmel über dem Schwarzwald.
+Ein harter Stoß gegen die Schulter warf Alda zur Seite. Sie taumelte gegen den hölzernen Torpfosten, schlug mit dem Rücken an das gefrorene Holz und schnappte nach Luft.
 
-»Euer Sohn Berto wird essen, wenn der Herr Raginbert es erlaubt«, flüsterte er so leise, dass die Knechte es kaum verstehen konnten. »Ihr wisst, worum es geht, Alda. Euer Mann Heinrich schuldete meinem Herrn dreißig Pfund Silber. Es gibt ein Schriftstück. Gesiegelt und bezeugt. Raginbert hat Geduld bewiesen, weil Heinrich ein verlässlicher Mann war. Aber Heinrich liegt auf dem Friedhof von Sankt Peter, und ihr seid eine Frau ohne Schutz. Raginbert will sein Silber. Oder er nimmt den Hof. Diese Tiere und die Kähne sind nur das Pfand, damit ihr nicht vergesst, wo euer Platz ist.«
+Der pockennarbige Krieger war herangeeilt, die Rechte lag schwer auf dem Knauf seines Schwertes.
 
-Aldas Hände ballten sich in den Manteltaschen zu Fäusten. Dreißig Pfund Silber. Eine Summe, die ein einfacher Händler in seinem ganzen Leben nicht auf einem Haufen sah. Heinrich hatte nie von dreißig Pfund gesprochen. Nie! Wenn er Geld geliehen hatte, dann für eine Ladung Getreide oder das Holz für die Kähne – Summen von wenigen Schillingen, die er pünktlich nach dem Weiterverkauf zurückzahlte. Dreißig Pfund waren der Wert eines halben Dorfes sammt Hörigen und Vieh.
+„Fass die Tiere nicht an, Weib“, sagte er, und diesmal schwang keine Trägheit mehr in seiner Stimme mit, sondern der kalte, schneidende Ton von Männern, die daran gewöhnt sind, dass Blut fließt, wenn man ihnen nicht gehorcht. „Die Gäule sind gepfändet. Der Herr Raginbert braucht Gespanne für die Fuhrwerke der königlichen Kanzlei. Sie ziehen heute noch Mehl und Zeltleinwand für das Gefolge des Königs. Wenn du dich dazwischenstellst, wirst du als Diebin an den Pfahl gebunden, Witwe hin oder her.“
 
-»Heinrich hat niemals dreißig Pfund geschuldet«, sagte sie zwischen zusammengebissenen Zähnen. »Ihr habt die Urkunde gefälscht. Euer Schreiber hat die Zeichen gesetzt, die Heinrich nicht lesen konnte!«
+„Es ist mein Gut!“, schrie sie ihn an, und ihre Stimme brach fast vor Zorn und Ohnmacht. „Das Getreide, das ich geladen habe, verdirbt an der Lände! Wenn die Wallache fort sind, kann ich die Frachten für das Stift nicht fahren! Wovon soll ich das Brot für meinen Jungen kaufen? Wovon die Abgaben zahlen?“
 
-Folkers Miene verhärtete sich. Der Anflug von Spott verschwand, übrig blieb die nackte Härte der Grundherren, die keinen Widerspruch von jenen duldeten, die unter ihnen standen.
+„Das kümmert den Grafen wenig, und Herrn Raginbert noch weniger“, entgegnete der Bewaffnete kalt. Er wandte sich an den Burschen mit den Pferden. „Schaff sie weg. Hinüber zur Bischofspfalz, dort sammelt sich der Tross von König Ludwig.“
 
-»Hütet eure Zunge, Weib. Das Schriftstück liegt in der Kiste meines Herrn. Mit lateinischen Worten, die vor Gott und dem Bischof gelten. Wer seid ihr, dass ihr das Wort eines freien Franken und die Schrift der Kirche anzweifelt? Wenn ihr das Geld nicht bis Martini aufbringt, zieht Raginbert in euer Haus ein. Und euer Sohn wird als Unfreier auf seinen Feldern pflügen, so wie es das Gesetz vorsieht, wenn eine Schuld nicht getilgt werden kann.«
+Alda wollte sich erneut vorwerfen, doch Berto der Knecht packte sie an den Ärmeln ihres Kleides. Seine Hände zitterten wie Espenlaub, aber sein Griff war verzweifelt fest.
 
-Er wandte sich ab und winkte seinen Bewaffneten zu.
+„Nicht, Herrin… um des Heilands willen, nicht“, wimmerte der Alte an ihrem Ohr. „Die stechen zu. Das sind Raginberts Leute, die kennen kein Erbarmen mit freien Fuhrleuten. Die schlagen Euch nieder und werfen Euch in die Ill, und kein Richter wird nach einer Witwe fragen, solange die Könige in der Stadt sind.“
 
-»Schlagt die Tiere an die Koppel am Bischofshof. Und lasst zwei Mann hier an den Kähnen. Wer versucht, die Ketten zu lösen, wird mit Ruten gestrichen.«
+Sie stand da, die Brust keuchend gehoben, und musste zusehen. Hilflos.
 
-Die Reiter trieben die Pferde voran. Der Schimmel wieherte schrill, die Augen weit aufgerissen, als das fremde Gebiss ihm in die Zunge schnitt. Er bäumte sich kurz auf, doch die Reiter kannten ihr Handwerk. Ein Hieb mit dem Schaft der Lanze auf die Kruppe trieb das Tier vorwärts, hinein in den Nebel der Gasse, dem Heerlager entgegen.
+Sie sah zu, wie die beiden roten Riesen – die Tiere, die Berengar vor zwei Jahren mit stolzer Brust auf dem Markt von Weißenburg erhandelt hatte, für die sie den Schmuck ihrer Mutter hergegeben hatte – im Nebel verschwanden. Das dumpfe Dröhnen ihrer schweren Hufe auf dem befestigten Dammweg wurde leiser, bis es vom allgegenwärtigen Lärm des erwachenden Heereslagers verschluckt wurde.
 
-Alda stand da. Der Schlamm sickerte nun durch die Naht ihres linken Stiefels, eiskalt. Das Pochen in ihrer Hand, wo die Holzsplitter saßen, wurde zu einem dumpfen Schmerz.
+Die beiden Kähne an der Lände lagen stumm im grauen Wasser, gefesselt durch Raginberts Eisen, unbeweglich wie Särge. Ohne die Schiffe und ohne die Zugtiere war der Fuhrbetrieb tot. Sie war keine freie Händlerin mehr, die Verträge schloss und Korn bewegte; sie war mit einem einzigen Federstrich, mit einer einzigen Kette zu einer Bettlerin gemacht worden, abhängig von der Gnade derer, die das Land wie Heuschrecken kahlfraßen.
 
-Berto humpelte zu ihr heran, wischte sich den Dreck aus den Augen und ließ die Schultern hängen wie ein geschlagener Hund. Die beiden Ochsen standen immer noch geduldig am Wegrand, der Atem stieg gleichmäßig aus ihren Nüstern auf, als ginge sie das Schicksal der Welt nichts an.
+Der pockennarbige Krieger spuckte noch einmal vor ihre Füße, wandte sich um und ging zurück zu seinem Feuer an der römischen Mauer, wo die Flammen matt gegen die feuchte Kälte ankämpften.
 
-»Herrin...«, flüsterte Berto mit brüchiger Stimme. »Was sollen wir tun? Ohne die Pferde kriegen wir die Eichenrinde nicht vom Fleck. Die Gerber werden uns verfluchen. Und wenn Raginbert die Kähne behält... im Frühjahr kommt die Saatreise nach Mainz. Das ist unser ganzes Brot.«
+„Herrin…“, flüsterte Berto der Knecht nach einer langen Weile, in der nur das Glucksen des Wassers und das ferne Dröhnen von Trompeten aus dem Heerlager zu hören gewesen waren. Seine Hand tastete vorsichtig nach ihrem Ellbogen. „Was sollen wir tun? Wir haben noch den alten Karrengaul im Stall, und den kleinen Kahn drüben im Schilf, den sie übersehen haben. Wenn wir uns ducken… wenn wir den Winter überstehen…“
 
-Alda schaute auf die dunstige Weite der Ill hinaus. Drüben, jenseits der Stadtmauern, schwoll der Lärm des Lagers an. Hornsignale erklangen, dumpf und weit entfernt, wie das Rufen wilder Tiere im Wald. Schwerter klirrten, Tausende von Stimmen murmelten durcheinander. Dort drüben waren die Mächtigen versammelt. Die beiden Könige, die Enkel des großen Karl, die um das Erbe stritten und die Welt mit ihren Kriegen zerrissen. Sie brauchten Nahrung, sie brauchten Schiffe, sie brauchten Recht – oder das, was sie dafür hielten.
+„Überstehen?“, zischte Alda.
 
-Sie spürte keine Tränen. Die Trauer um Heinrich war in den vergangenen Monaten einer harten, spröden Kälte gewichen, die sie aufrecht hielt. Heinrich hatte geschwiegen. Er hatte ihr ein Erbe hinterlassen, das von Tag zu Tag mehr wie eine Schlinge um ihren Hals wirkte. Aber sie würde nicht zusehen, wie Raginbert die Schlinge zuzog und ihren Sohn Berto in die Knechtschaft stieß.
+Sie riss sich von ihm los. Ihre Hände waren schmutzig vom Schlamm, die Handflächen aufgeschürft, feine rote Blutstropfen traten an den Schnittstellen hervor, wo der scharfe Schotter die Haut geritzt hatte. Sie spürte keinen Schmerz. Nur eine lodernde, weiße Wut, die jede Faser ihres Körpers straffte.
 
-»Wir bringen die Ochsen zurück in den Stall«, sagte Alda. Ihre Stimme zitterte nicht mehr. Sie klang wie das Eis, das draußen auf dem Fluss brach.
+Sie sah auf ihre blutigen Hände hinab, dann hinüber zu den Eisenketten an den Dalben.
 
-»Und die Gerber?«, fragte Berto verängstigt.
+*Pergament.*
 
-»Die Gerber müssen warten. Niemand kriegt heute Rinde.«
+Das Wort fraß sich in ihre Gedanken. Raginbert hatte nicht mit dem Schwert gedroht, nicht mit der Faust. Er hatte sich hinter toter Tierhaut verschanzt, hinter geschwärzten Zeichen, die er von irgendeinem krummrückigen Schreiber aufsetzen ließ, der für ein Stück Speck und einen Kanten Brot jede Schandtat mit Tinte rechtfertigte. Sie wusste nicht, was Berengar getan hatte. Sie wusste nicht, ob ihr Mann im Wahn gehandelt, ob er den Verstand verloren oder ob Raginbert schlicht einen Betrug ersonnen hatte, den kein Schöffe zu durchschauen wagte. Aber eines wusste sie: Wenn sie hier im Schlamm knien blieb und weinte, würde ihr Sohn Berto im nächsten Frühjahr als Knecht auf den herrschaftlichen Äckern stehen, die Furchen ziehend für das Korn eines anderen.
 
-Sie drehte sich um und blickte in Richtung des Heereslagers, dorthin, wo die Fahnen der Könige über den Zeltspitzen im schneidenden Ostwind flatterten. Ein Zeltlager voller Krieger, Vögte, Priester und Schreiber. Irgendwo dort drüben musste es Männer geben, die das Recht sprachen, nicht nur das Recht der Schwerter, sondern das Recht der Verträge. Und irgendwo dort draußen war auch jener Schreiber, von dem Folker gesprochen hatte – der Mann, der die Buchstaben auf das Pergament gesetzt hatte, die ihr nun das Leben rauben sollten.
+„Nimm die Taue auf, Berto“, sagte sie. Ihre Stimme klang nicht mehr zornig. Sie war flach, hart und kalt wie der Eisgang auf dem Fluss.
 
-»Gib mir die Zügel des vorderen Ochsen«, befahl sie dem Knecht. »Du gehst zum Hof, gibst dem Jungen seine Morgensuppe und sorgst dafür, dass das Tor verriegelt bleibt. Lass niemanden hinein. Weder Folker noch sonst wen.«
+„Herrin?“
 
-»Und Ihr, Herrin? Wo wollt Ihr hin?«
+„Nimm die Taue auf und bring sie in den Schuppen. Schließ das Tor. Wenn jemand nach mir fragt, sag, ich sei in der Kirche, um für die Seele meines Mannes zu beten.“
 
-Alda zog die feuchte Wollhaube tiefer ins Gesicht und straffte den Rücken gegen den eisigen Wind, der vom Rhein herüberwehte.
+Der alte Knecht starrte sie mit offenem Mund an. „Und wohin… wohin geht Ihr?“
 
-»Ich gehe ins Heerlager«, sagte sie. »Wenn Raginbert die Könige als Schild für seinen Raubzug nimmt, dann will ich sehen, was die Könige dazu zu sagen haben. Geh, Berto. Und bete, dass der Frost hält.
+Alda wandte den Blick nach Westen, dorthin, wo hinter den verfallenen römischen Mauern und den rauchenden Hütten die Zelte des Lagers aufragten. Dort drüben, auf dem weiten Feld außerhalb der Stadt, versammelten sich in diesen Stunden die Heere. Die Könige sprachen heute Recht, so hieß es in den Gassen. Sie schwuren Eide, um den Frieden zwischen ihren Völkern zu besiegeln, vor Gott und ihren Großen. Grafen, Bischöfe, Vögte – alle waren sie dort versammelt, gepanzert in Eisen und umgeben von ihren Kanzlern und Notaren, den Männern, die die Macht der Schrift führten wie andere das Schwert.
 
-Denn wenn das Eis bricht, reißt es alles mit sich in die Tiefe.«
+„Ich gehe ins Lager“, sagte Alda und strich sich eine feuchte Haarsträhne aus der Stirn, die sich unter ihrem Kopftuch gelöst hatte.
 
-Berto starrte sie an, das welke Gesicht aschfahl unter der speckigen Wollmütze. Seine knochigen Hände krallten sich noch immer in den Strick der Ochsen, als klammere er sich an das letzte Stück Gewissheit in einer Welt, die unter ihren Füßen wegzubrechen drohte. Doch er widersprach nicht. Ein einfacher Knecht wusste, wann das Schicksal der Herren wie ein Fuhrwerk über das Gesinde hinwegrollte; wer sich dagegenstemmte, wurde unter den eisenbeschlagenen Rädern zermalmt.
+„Ins Lager?“, stammelte Berto entsetzt, und das Entsetzen malte ihm tiefe Furchen in die Stirn. „Herrin, das ist der Schlund der Hölle! Zehntausend Kriegsknechte, Trunkenbolde, Franken, Sachsen, Welschen! Eine Frau allein… man wird Euch zertreten wie ein Wurm!“
 
-»Ich bringe das Vieh heim«, murmelte er heiser, schlug das Kreuz über der Brust und wandte die beiden trägen Ochsen mit einem leisen Schnalzen. Das Holz des Zuggeschirrs ächzte, als die Tiere mühsam im Morast umdrehten, ihre breiten Rücken dampfend in der schneidenden Luft. »Gott behüte Euch, Herrin. Der Herr der Heerscharen stehe Euch bei gegen die Wölfe.«
+„Sollen sie es versuchen“, erwiderte sie ruhig, und in ihren Augen lag das unnachgiebige Leuchten von jemandem, der nichts mehr zu verlieren hat außer seiner Ehre. „Raginbert ist dort. Er wird im Gefolge des Bischofs stehen, aufgeblasen wie ein Mastochse. Und wenn er glaubt, dass eine Witwe ihre Kähne aufgibt, weil er mit Pergament wedelt, das kein ehrlicher Mensch lesen kann, dann kennt er Berengars Weib schlecht.“
 
-Alda sah ihm nicht nach. Sie wartete nur, bis das Klatschen der schweren Hufe und das schwere Schnaufen der Tiere im zähen Flussnebel erloschen waren. Dann zog sie die ledernen Riemen ihrer Stiefel enger, spuckte die bitter schmeckende Flugasche aus und wandte den Schritten eine neue Richtung zu.
-
-Der Weg führte weg vom Ufer, fort von den geteerten Rümpfen der festgeketteten Kähne, die reglos wie gefällte Baumstämme am Steg lagen. Sie passierte die niedrigen Hütten der Fischer, an deren Wänden getrocknete Hechte und zerschlissene Weidenreusen hingen. Kein Kind spielte im Dreck, kein Weib stand am Zuber. Die Menschen hielten die Türen verrammelt, seit die Vorhut der Könige vor drei Tagen die Vororte überschwemmt hatte; wer klug war, machte sich unsichtbar, wenn Fürsten ihr Recht suchten.
-
-Vor dem Schindertor staute sich der Tross. Der Gestank von nassem Stroh, Pferdemist und kaltem Rauch schlug Alda entgegen wie eine feuchte Wand. Bewaffnete zu Fuß, mit groben Eisenhüten und von Rost zerfressenen Brünnen, drängten sich an Karren vorbei, deren Achsen bis zur Nabe im Schlamm versunken waren. Ochsen brüllten unter den Schlägen der Treiber, während junge Krieger in schmutzigen Wämsern aus ungewalkter Wolle um das Feuer stritten, das an einer Wegbiegung kümmerlich zischte. Fremde Zungen schwirrten durch die Luft – das harte, kehlige Bellen der Sachsen aus dem Norden, das rollende Idiom der Bayern und dazwischen das weichere, gedehnte Latein der fränkischen Kleriker, die auf klapprigen Maultieren durch den Schlamm ritten, die Tonsuren tief unter wollenen Kapuzen verborgen.
-
-Alda drückte die Ellbogen an den Leib und schob sich voran. Ihr Herz schlug schwer gegen die Rippen, hart wie der Schmiedehammer des Vogts. Dreißig Pfund Silber. Die Zahl brannte in ihrem Kopf wie glühendes Eisen. Heinrich hatte geschwiegen, stets geschwiegen, wenn es um das Geld ging. Doch sie kannte das Gewicht einer Silbermünze, kannte den Klang eines echten Denars auf dem Eichentisch ihrer Stube. Kein ehrlicher Händler lieh sich die Summe eines königlichen Hofguts, ohne seiner Frau davon zu berichten. Raginbert log. Er nutzte die Stunde, da die Welt aus den Fugen geriet, um sich das Fleisch von den Knochen der Schwachen zu schneiden.
-
-Jenseits des Tores öffnete sich die weite Rheinebene, und das Ausmaß des Lagers raubte ihr für einen Atemzug den Mut. Soweit das Auge durch den Grauschleier des Schneegriesels reichte, standen Zelte aus grobem Leinen und Leder, unterbrochen von Rauchfahnen zahlloser Feuergruben. Tausende von Männern waren hier versammelt, um das Erbe des großen Kaisers Karl mit Schwertern zu vermessen. Fahnen aus schwerem Tuch, gezeichnet mit Kreuzen und Adlern, flatterten feucht im eisigen Ostwind.
-
-Alda wischte sich den Schneematsch von der Stirn. Irgendwo dort drüben, zwischen den Seidenzelten der Bischöfe und den Bannern der fränkischen Herzöge, saßen die Männer, die Tinte auf Pergament führten. Männer, die für Geld oder Recht Worte setzten, die ein Leben binden oder lösen konnten. Wenn eine Urkunde ihr den Hof nehmen sollte, dann brauchte sie jemanden, der diese Schrift brechen konnte.
-
-Sie biss die Zähne zusammen, zog den Mantelkragen bis an die Wangen und stapfte mit festen, trotzigen Schritten hinein in das Getümmel der fremden Schwerter.
+Sie wartete Bertos Antwort nicht ab. Sie wandte sich um, zog den groben Wollmantel enger um die Brust und trat hinaus auf die Straße, hinein in den Morast, dorthin, wo das Brüllen von tausend Männerkehlen und das Klirren von Eisen den grauen Februarmorgen zerrissen.
 

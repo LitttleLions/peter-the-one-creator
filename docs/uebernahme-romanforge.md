@@ -210,3 +210,7 @@ keine Kapiteltexte. Keine Uebersetzung, keine Bilder, nichts ueberschreiben ohne
 
 Hinweis zu den Begriffen: `--keep` ist kein Modus, sondern eine Entscheidung
 innerhalb von AKTUALISIEREN (Konflikt zugunsten von peter aufloesen).
+
+## Figuren aus RomanForge
+
+Seit 2026-11-01 liefert die Übergabe auch die Figuren (`characters[]` mit stabiler `uid`). Abgleich, Spiegel und Regeln: [romanforge-figuren.md](./romanforge-figuren.md).

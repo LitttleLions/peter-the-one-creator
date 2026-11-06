@@ -23,6 +23,7 @@ from typing import Any
 
 MIRROR_DIR = "romanforge"
 MIRROR_FILE = "characters.json"
+EXPOSE_FILE = "expose.md"
 MIRROR_FORMAT = "romanforge-characters/1"
 
 NEW = "neu"
@@ -78,6 +79,18 @@ def write_mirror(book_root: Path | str, handoff_id: str, characters: list[dict[s
         "characters": characters,
     }
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    return path
+
+
+def write_expose(book_root: Path | str, handoff_id: str, expose: Any) -> Path | None:
+    """Exposé der Uebergabe als Vorlage unter ``romanforge/expose.md`` ablegen (nicht ins Buch). Ohne Text: None."""
+    text = _clean(expose)
+    if not text:
+        return None
+    path = Path(book_root) / MIRROR_DIR / EXPOSE_FILE
+    path.parent.mkdir(parents=True, exist_ok=True)
+    header = f"<!-- Exposé aus RomanForge (Uebergabe {handoff_id}); Vorlage, nicht automatisch ins Buch uebernommen. -->"
+    path.write_text(f"{header}\n\n{text}\n", encoding="utf-8")
     return path
 
 

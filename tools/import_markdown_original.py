@@ -238,28 +238,49 @@ def _norm_title_key(title: str) -> str:
 
 
 def match_chapters(
-    export: list[tuple[str, str]], known_titles: dict[str, str]
+    export: list[tuple[str, str]], known_titles: dict[str, str],
+    export_rf_ids: list[str | None] | None = None,
+    known_rf_ids: dict[str, str | None] | None = None,
 ) -> list[dict[str, str | None]]:
-    """Ordnet Export-Kapitel per Titel zu (Titel vor Position, K-A4).
+    """Ordnet Export-Kapitel zu: RomanForge-Kapitel-ID vor Titel (K-A4).
+
+    Zuerst gilt die RomanForge-ID (``export_rf_ids`` parallel zu ``export``,
+    ``known_rf_ids`` = chapter_id -> rf_id aus state.yaml); so bleibt ein
+    umbenanntes Kapitel zugeordnet. Alles ohne ID-Treffer wird per Titel
+    zugeordnet. Eine Liste ``export_rf_ids`` in falscher Laenge wird ignoriert.
 
     Rueckgabe pro Export-Kapitel: chapter_id (oder None bei 'neu'),
     title_export, action ('zugeordnet' oder 'neu'). Entfallene und
     verschobene Kapitel meldet der Aufrufer anhand der bekannten IDs.
     """
+    used: set[str] = set()
+    rows: list[dict[str, str | None] | None] = [None] * len(export)
+    if export_rf_ids and known_rf_ids and len(export_rf_ids) == len(export):
+        by_rf = {
+            str(rf_id): chapter_id for chapter_id, rf_id in known_rf_ids.items()
+            if rf_id and chapter_id in known_titles
+        }
+        for index, rf_id in enumerate(export_rf_ids):
+            chapter_id = by_rf.get(str(rf_id)) if rf_id else None
+            if chapter_id and chapter_id not in used:
+                used.add(chapter_id)
+                rows[index] = {
+                    "chapter_id": chapter_id, "title_export": export[index][0], "action": "zugeordnet",
+                }
     by_title: dict[str, list[str]] = {}
     for chapter_id, title in known_titles.items():
         by_title.setdefault(_norm_title_key(title), []).append(chapter_id)
-    used: set[str] = set()
-    rows: list[dict[str, str | None]] = []
-    for position, (title, _body) in enumerate(export, 1):
+    for index, (title, _body) in enumerate(export):
+        if rows[index] is not None:
+            continue
         candidates = [c for c in by_title.get(_norm_title_key(title), []) if c not in used]
         if candidates:
             chapter_id = sorted(candidates)[0]
             used.add(chapter_id)
-            rows.append({"chapter_id": chapter_id, "title_export": title, "action": "zugeordnet"})
+            rows[index] = {"chapter_id": chapter_id, "title_export": title, "action": "zugeordnet"}
             continue
-        rows.append({"chapter_id": None, "title_export": title, "action": ACTION_NEW})
-    return rows
+        rows[index] = {"chapter_id": None, "title_export": title, "action": ACTION_NEW}
+    return [row for row in rows if row is not None]
 
 
 def find_presumed_renames(
@@ -303,12 +324,15 @@ def write_state(path: Path, state: dict) -> None:
 def update_state_chapter(
     state: dict, chapter_id: str, *, title: str, rf_base: str, peter_base: str, base_export: str, rf_id: str | None = None
 ) -> None:
-    state.setdefault("chapters", {})[chapter_id] = {
+    previous = state.setdefault("chapters", {}).get(chapter_id) or {}
+    state["chapters"][chapter_id] = {
         "title": title,
         "rf_base": rf_base,
         "peter_base": peter_base,
         "base_export": base_export,
     }
+    # Eine bekannte RomanForge-ID geht beim Uebernehmen nicht verloren.
+    rf_id = rf_id if rf_id is not None else previous.get("rf_id")
     if rf_id is not None:
         state["chapters"][chapter_id]["rf_id"] = rf_id
 
@@ -537,6 +561,7 @@ def cmd_dry_run(book_title: str, chapters: list[tuple[str, str]]) -> int:
 def cmd_compare(
     *, book_title: str, book_root: Path, style: str,
     chapters: list[tuple[str, str]], state: dict, source_baseline: dict[str, str],
+    export_rf_ids: list[str | None] | None = None,
 ) -> tuple[int, list[dict]]:
     known = {f"{idx:03d}": title for idx, (title, _b) in enumerate(chapters, 1)}
     # Bekannte Titel aus Szenen (fuer Zuordnung); Exporttitel zuerst per Titel matchen.
@@ -546,7 +571,11 @@ def cmd_compare(
         title_p, _b, path = read_scene_text(book_root, style, chapter_id)
         if path.exists():
             scene_titles[chapter_id] = title_p or known[chapter_id]
-    matched = match_chapters(chapters, scene_titles or known)
+    known_rf_ids = {
+        str(cid): entry.get("rf_id") for cid, entry in (state.get("chapters") or {}).items()
+        if isinstance(entry, dict)
+    }
+    matched = match_chapters(chapters, scene_titles or known, export_rf_ids, known_rf_ids)
     matched_ids = {
         str(r["chapter_id"]) for r in matched
         if r["action"] == "zugeordnet" and r["chapter_id"]
@@ -744,12 +773,35 @@ def _chapters_from_handoff(handoff_data: dict) -> list[tuple[str, str, str, str 
     return result
 
 
+PUBLICATION_ARGS = (
+    ("author", "author_name"), ("subtitle", "subtitle"),
+    ("series", "series_name"), ("publisher", "publisher"),
+)
+
+
+def apply_publication_defaults(args: argparse.Namespace, publication: object) -> list[str]:
+    """Fehlende --author/--subtitle/--series/--publisher aus dem Block `publication` der Uebergabe fuellen.
+
+    Ausdrueckliche CLI-Angaben gewinnen. Gibt die uebernommenen Felder als Text zurueck.
+    """
+    taken: list[str] = []
+    if not isinstance(publication, dict):
+        return taken
+    for attr, key in PUBLICATION_ARGS:
+        value = publication.get(key)
+        if not getattr(args, attr, None) and isinstance(value, str) and value.strip():
+            setattr(args, attr, value.strip())
+            taken.append(f"{attr}={value.strip()}")
+    return taken
+
+
 def cmd_new(args: argparse.Namespace) -> int:
+    handoff_data: dict = {}
     if args.handoff:
-        from lib.romanforge_client import RomanForgeConfig, get_handoff_data, download_export  # noqa: E402
+        from lib.romanforge_client import RomanForgeConfig, export_text_from_data, get_handoff_data  # noqa: E402
         config = RomanForgeConfig.from_env()
         handoff_data = get_handoff_data(config, args.handoff)
-        source_text = download_export(config, args.handoff)
+        source_text = export_text_from_data(handoff_data)
         source_name = f"romanforge-{args.handoff}.md"
         source_is_download = True
         chapter_entries = _chapters_from_handoff(handoff_data)
@@ -773,9 +825,16 @@ def cmd_new(args: argparse.Namespace) -> int:
             args.title or export_title_suggestion(source_text) or "(ohne Titel)")
         return cmd_dry_run(report_title, chapters)
 
-    # Titel aus der '# '-Zeile nur vorschlagen, nie still uebernehmen.
+    # Verlagsangaben aus der Uebergabe uebernehmen, soweit nicht per CLI gesetzt.
+    taken = apply_publication_defaults(args, handoff_data.get("publication"))
+    if taken:
+        print("Aus der Uebergabe uebernommen (CLI-Angaben gewinnen): " + ", ".join(taken))
+
+    # Titel aus der '# '-Zeile bzw. dem RomanForge-Projekt nur vorschlagen, nie still uebernehmen.
     if not args.title:
-        suggestion = export_title_suggestion(source_text)
+        project_title = (handoff_data.get("project") or {}).get("title")
+        suggestion = export_title_suggestion(source_text) or (
+            str(project_title).strip() if project_title else None)
         if suggestion:
             print(f"Vorschlag aus '# '-Zeile: --title \"{suggestion}\"")
         print(
@@ -826,9 +885,11 @@ def cmd_new(args: argparse.Namespace) -> int:
         encoding="utf-8")
     (book_root / "names.yaml").write_text(
         yaml.safe_dump({"entries": []}, allow_unicode=True), encoding="utf-8")
+    expose_path = None
     if args.handoff:
-        # Figuren aus der Uebergabe: Spiegel ablegen und names.yaml mit draft-Eintraegen anlegen.
         from lib import rf_characters as rfc  # noqa: E402
+        expose_path = rfc.write_expose(book_root, args.handoff, handoff_data.get("expose"))
+        # Figuren aus der Uebergabe: Spiegel ablegen und names.yaml mit draft-Eintraegen anlegen.
         from lib.name_registry import write_names  # noqa: E402
         characters = rfc.normalize_characters(handoff_data.get("characters"))
         if characters:
@@ -906,6 +967,11 @@ def cmd_new(args: argparse.Namespace) -> int:
     print(f"status.json: {len(chapter_data)} Kapitel, Status done")
     print(f"lauf: {run_dir}/export.md + report.md")
     print("Offen (nicht erfunden): " + ", ".join(open_items))
+    series_number = (handoff_data.get("publication") or {}).get("series_number")
+    if series_number is not None:
+        print(f"Aus RomanForge ohne Zielfeld in peter: Reihe Band {series_number}")
+    if expose_path:
+        print(f"Exposé aus RomanForge als Vorlage abgelegt: {expose_path} (nicht ins Buch uebernommen)")
     print(
         f"Folge: py -3 tools/assemble_chapter.py --book {book_id} --all --style {style}")
     print(
@@ -936,10 +1002,15 @@ def main(argv: list[str] | None = None) -> int:
     book_root, book_cfg = resolve_book_root(args.book, args.book_root)
     book_title = str(book_cfg.get("title") or book_cfg.get("id") or book_root.name)
     style = str(book_cfg.get("style_mode") or "stil-01-original")
+    export_rf_ids: list[str | None] | None = None
     if args.handoff:
-        from lib.romanforge_client import RomanForgeConfig, download_export  # noqa: E402
+        from lib.romanforge_client import (  # noqa: E402
+            RomanForgeConfig, chapter_rf_ids, export_text_from_data, get_handoff_data,
+        )
         config = RomanForgeConfig.from_env()
-        export_text = download_export(config, args.handoff)
+        handoff_data = get_handoff_data(config, args.handoff)
+        export_text = export_text_from_data(handoff_data)
+        export_rf_ids = chapter_rf_ids(handoff_data)
     else:
         source_arg = args.source or str(
             _resolve_under_book(book_root, str(book_cfg.get("source_path") or "")))
@@ -949,6 +1020,13 @@ def main(argv: list[str] | None = None) -> int:
             return 1
         export_text = source_path.read_text(encoding="utf-8")
     chapters = split_chapters(export_text)
+    if export_rf_ids is not None and len(export_rf_ids) != len(chapters):
+        print(
+            "Hinweis: Kapitel-IDs passen nicht zur Kapitelzahl des Exports; "
+            "Zuordnung nur per Titel.",
+            file=sys.stderr,
+        )
+        export_rf_ids = None
     if args.dry_run:
         return cmd_dry_run(book_title, chapters)
     output_root = _output_root_for(book_root, book_cfg)
@@ -977,6 +1055,7 @@ def main(argv: list[str] | None = None) -> int:
         code, _rows = cmd_compare(
             book_title=book_title, book_root=book_root, style=style,
             chapters=chapters, state=state, source_baseline=source_baseline,
+            export_rf_ids=export_rf_ids,
         )
         return code
     accept = parse_id_list(args.accept)
@@ -992,7 +1071,12 @@ def main(argv: list[str] | None = None) -> int:
     code, rows = cmd_compare(
         book_title=book_title, book_root=book_root, style=style,
         chapters=chapters, state=state, source_baseline=source_baseline,
+        export_rf_ids=export_rf_ids,
     )
+    rf_id_by_title = {
+        _norm_title_key(t): rf_id
+        for (t, _b), rf_id in zip(chapters, export_rf_ids or [None] * len(chapters))
+    }
     by_id = {r["chapter_id"]: r for r in rows if r["chapter_id"] != ACTION_NEW}
     # Neue Exportkapitel ('neu') haben keine peter-ID. Sie sind ueber ihre
     # Exportposition ansprechbar (--accept 019 = 19. Kapitel des Exports) und
@@ -1065,6 +1149,7 @@ def main(argv: list[str] | None = None) -> int:
         update_state_chapter(
             state, chapter_id, title=title,
             rf_base=new_hash, peter_base=new_hash, base_export=stamp,
+            rf_id=rf_id_by_title.get(_norm_title_key(title)),
         )
         changed = True
     if not changed:

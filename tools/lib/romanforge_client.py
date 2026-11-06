@@ -1,11 +1,11 @@
 """romanforge_client.py - Client fuer die RomanForge-API (Stufe 2).
 
 Liest ROMANFORGE_URL und ROMANFORGE_API_KEY aus der Umgebung und stellt
-Methoden zum Abruf von Uebergaben und zum Download von Markdown-Exports bereit.
+Methoden zum Abruf von Uebergaben und zum Aufbau von Markdown-Exports bereit.
 
-Die Endpunkte sind als Konstanten am oberen Rand des Moduls gesammelt und
-koennen leicht angepasst werden, sobald die genaue API-Struktur von
-RomanForge bekannt ist.
+Der Endpunkt ist als Konstante am oberen Rand des Moduls gesammelt. Jede
+Antwort wird auf Format (``romanforge-handoff/1``) und Modus (``new`` oder
+``update``) geprueft; eine andere Version wird nicht still falsch gelesen.
 """
 
 from __future__ import annotations
@@ -56,14 +56,38 @@ class RomanForgeConfig:
 
 
 # ---------------------------------------------------------------------------
-# Endpunkte (anzupassen an die tatsächliche RomanForge-API)
+# Endpunkt und unterstuetztes Format der RomanForge-API
 # ---------------------------------------------------------------------------
 
 #: Pfadrelativ zur Basis-URL, um eine Uebergabe abzufragen.
 HANDOFF_GET_PATH = "/api/handoffs/{handoff_id}"
 
 #: Es gibt keinen separaten Export-Endpunkt; der Markdown-Export wird aus den
-#: Kapitel-Inhalten der Uebergabe-Antwort aufgebaut (siehe download_export).
+#: Kapitel-Inhalten der Uebergabe-Antwort aufgebaut (siehe export_text_from_data).
+
+#: Einziges Format, das peter versteht (Feld ``format`` der Antwort).
+SUPPORTED_FORMAT = "romanforge-handoff/1"
+#: Erlaubte Werte des Felds ``mode``.
+SUPPORTED_MODES = ("new", "update")
+
+
+def check_handoff_data(data: Any, url: str = "") -> dict[str, Any]:
+    """Prueft Format und Modus einer Uebergabe-Antwort und gibt sie unveraendert zurueck."""
+    if not isinstance(data, dict):
+        raise RomanForgeError(f"Antwort von RomanForge ist kein JSON-Objekt ({url}).")
+    fmt = data.get("format")
+    if fmt != SUPPORTED_FORMAT:
+        raise RomanForgeError(
+            f"Unbekanntes Uebergabe-Format {fmt!r} ({url}); peter versteht nur "
+            f"{SUPPORTED_FORMAT!r}. tools/lib/romanforge_client.py und "
+            "tools/import_markdown_original.py muessen fuer das neue Format angepasst werden."
+        )
+    mode = data.get("mode")
+    if mode not in SUPPORTED_MODES:
+        raise RomanForgeError(
+            f"Unbekannter Uebergabe-Modus {mode!r} ({url}); erlaubt sind {', '.join(SUPPORTED_MODES)}."
+        )
+    return data
 
 
 def _build_url(config: RomanForgeConfig, path_template: str, **kwargs: Any) -> str:
@@ -91,37 +115,43 @@ def _request(config: RomanForgeConfig, url: str) -> bytes:
         raise RomanForgeError(f"RomanForge-API nicht erreichbar ({url}): {exc}") from exc
 
 
-def get_handoff(config: RomanForgeConfig, handoff_id: str) -> dict[str, Any]:
-    """Ruft die Metadaten einer Uebergabe ab.
+def get_handoff_data(config: RomanForgeConfig, handoff_id: str) -> dict[str, Any]:
+    """Ruft die vollen Uebergabe-Daten ab (Metadaten + Kapitel mit Content).
 
-    Gibt ein dict mit den von der API gelieferten Feldern zurück (z. B.
-    titel, autor, kapitel, status). Die genaue Struktur hängt von der
-    RomanForge-API ab.
+    Gibt das gepruefte JSON der RomanForge-API zurueck mit u. a. den Feldern:
+    mode, expose, format, handoff, project, chapters, instance, publication,
+    characters.
     """
     url = _build_url(config, HANDOFF_GET_PATH, handoff_id=handoff_id)
     raw = _request(config, url)
-    import json
-
     try:
-        return json.loads(raw.decode("utf-8"))
+        data = json.loads(raw.decode("utf-8"))
     except json.JSONDecodeError as exc:
         raise RomanForgeError(
-            f"Antwort von RomanForge ist kein gültiges JSON ({url}): {exc}"
+            "Antwort von RomanForge ist kein gueltiges JSON ({url}): {exc}".format(
+                url=url, exc=exc
+            )
         ) from exc
+    return check_handoff_data(data, url)
 
 
-def download_export(config: RomanForgeConfig, handoff_id: str) -> str:
-    """Lädt den Markdown-Export einer Uebergabe herunter und gibt ihn als Text zurück.
+def get_handoff(config: RomanForgeConfig, handoff_id: str) -> dict[str, Any]:
+    """Ruft eine Uebergabe ab (gleich wie ``get_handoff_data``)."""
+    return get_handoff_data(config, handoff_id)
+
+
+def _chapters_sorted(data: dict[str, Any]) -> list[dict[str, Any]]:
+    return sorted(data.get("chapters", []), key=lambda c: c.get("number", 0))
+
+
+def export_text_from_data(data: dict[str, Any]) -> str:
+    """Baut den Markdown-Export (``## Titel`` + Inhalt je Kapitel) aus den Uebergabe-Daten.
 
     Schreibt nichts ins Dateisystem; der Aufrufer entscheidet, was mit dem
-    Text passiert (z. B. als --source-Ersatz an import_markdown_original.py
-    übergeben).
+    Text passiert (z. B. als --source-Ersatz an import_markdown_original.py).
     """
-    data = get_handoff_data(config, handoff_id)
-    chapters = data.get("chapters", [])
-    chapters_sorted = sorted(chapters, key=lambda c: c.get("number", 0))
     lines: list[str] = []
-    for ch in chapters_sorted:
+    for ch in _chapters_sorted(data):
         title = ch.get("title") or f"Kapitel {ch.get('number', '?')}"
         content = ch.get("content") or ""
         lines.append("## " + title)
@@ -131,28 +161,24 @@ def download_export(config: RomanForgeConfig, handoff_id: str) -> str:
     return "\n".join(lines)
 
 
+def chapter_rf_ids(data: dict[str, Any]) -> list[str | None]:
+    """Kapitel-IDs (``chapters.id`` in RomanForge) in der Reihenfolge des Exports."""
+    return [str(ch["id"]) if ch.get("id") is not None else None for ch in _chapters_sorted(data)]
+
+
+def download_export(config: RomanForgeConfig, handoff_id: str) -> str:
+    """Laedt eine Uebergabe und gibt den Markdown-Export als Text zurueck (ein Abruf)."""
+    return export_text_from_data(get_handoff_data(config, handoff_id))
+
+
 __all__ = [
     "RomanForgeConfig",
     "RomanForgeError",
+    "SUPPORTED_FORMAT",
+    "check_handoff_data",
+    "chapter_rf_ids",
+    "export_text_from_data",
     "get_handoff",
     "get_handoff_data",
     "download_export",
 ]
-
-
-def get_handoff_data(config: RomanForgeConfig, handoff_id: str) -> dict[str, Any]:
-    """Ruft die vollen Uebergabe-Daten ab (Metadaten + Kapitel mit Content).
-
-    Gibt das JSON der RomanForge-API zuruck mit u. a. den Feldern:
-    mode, expose, format, handoff, project, chapters, instance, publication.
-    """
-    url = _build_url(config, HANDOFF_GET_PATH, handoff_id=handoff_id)
-    raw = _request(config, url)
-    try:
-        return json.loads(raw.decode("utf-8"))
-    except json.JSONDecodeError as exc:
-        raise RomanForgeError(
-            "Antwort von RomanForge ist kein gueltiges JSON ({url}): {exc}".format(
-                url=url, exc=exc
-            )
-        ) from exc

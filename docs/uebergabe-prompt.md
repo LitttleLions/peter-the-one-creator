@@ -40,8 +40,11 @@ Ablauf (jeder Schritt mit Kurzbericht, dann weiter):
 4. Auf meine Freigabe: --accept, hoechstens 5 Kapitel pro Lauf; --keep nur nach Absprache. Danach pro
    Kapitel assemble_chapter.py und review_manuscript.py --llm none, nur die Zusammenfassung
    (ERROR/WARNING/INFO). Bei ERROR>0 stoppt der Export.
-5. Figuren (falls vorhanden): tools/sync_romanforge_characters.py --book <id> --handoff <Uebergabe-ID>
-   als Trockenlauf; --apply nur nach Freigabe.
+5. Figuren (fester Teil der Aufgabe, nicht optional; Figuren und ihr Aussehen speisen spaeter die Bilder):
+   Trockenlauf immer ausfuehren und die Tabelle zeigen, auch wenn nichts geaendert ist:
+   .\.venv\Scripts\python.exe tools/sync_romanforge_characters.py --book <id> --handoff <Uebergabe-ID>
+   Danach die Gegenueberstellung zeigen: ... tools/sync_romanforge_characters.py --book <id> --aussehen
+   Mein Ja zu den Kapiteln gilt nicht fuer --apply; frag danach einmal konkret "--apply ausfuehren?".
 6. Marketing: erst tools/export_marketing.py --book <id> --dry-run. Das Paket aus vorhandenen Texten
    ist kostenlos. Neue Texterzeugung ueber OpenRouter (--provider openrouter --regenerate) und
    Higgsfield nur nach meiner ausdruecklichen Freigabe je Aufruf.

@@ -8,6 +8,10 @@ Abruf unveraendert als ``books/<id>/romanforge/characters.json`` ab
 Eigentum je Feld:
   RomanForge: source, rf_uid, rf_appearance_sha (verknuepfte Eintraege)
   Peter:      target, aliases, type, note, visual, status (nie ueberschrieben)
+Ausnahme visual: Ist es leer oder entspricht es noch dem zuletzt uebernommenen Aussehen
+(Hash == rf_appearance_sha, also von Hand nicht angefasst), folgt es einem geaenderten
+Aussehen aus RomanForge (Aktion ``aussehen-nachgezogen``). Von Hand angepasstes visual
+bleibt und bekommt nur den Hinweis ``rf_visual_check``.
 Eintraege ohne ``rf_uid`` (Orte, Begriffe, Peter-eigene) bleiben unberuehrt,
 ausser der einmalige Namensabgleich ordnet sie eindeutig zu.
 """
@@ -30,6 +34,7 @@ NEW = "neu"
 LINK = "verknuepfen"
 RENAMED = "umbenannt"
 APPEARANCE = "aussehen-geaendert"
+FOLLOWED = "aussehen-nachgezogen"
 REMOVED = "in-romanforge-geloescht"
 CONFLICT = "konflikt"
 UNCHANGED = "unveraendert"
@@ -151,12 +156,26 @@ def plan_sync(
                 detail = f"source '{_clean(entry.get('source'))}' -> '{name}'; target und aliases pruefen"
                 fields["source"] = name
             if _clean(entry.get("rf_appearance_sha")) != sha:
-                if kind == UNCHANGED:
-                    kind = APPEARANCE
-                    detail = "Aussehen in RomanForge geaendert; Bild-Prompt (visual) pruefen"
+                new_look = _clean(ch.get("appearance"))
+                visual = _clean(entry.get("visual"))
+                # visual gilt als unberuehrt, solange es noch dem zuletzt uebernommenen Aussehen entspricht.
+                untouched = bool(visual) and appearance_sha(visual) == _clean(entry.get("rf_appearance_sha"))
+                if new_look and (not visual or untouched):
+                    fields["visual"] = new_look
+                    if entry.get("rf_visual_check"):
+                        fields["rf_visual_check"] = None  # Hinweis erledigt: visual folgt RomanForge wieder
+                    note = "Aussehen aus RomanForge nach visual uebernommen (" + ("visual war leer" if not visual else "visual war unveraendert") + ")"
+                    if kind == UNCHANGED:
+                        kind, detail = FOLLOWED, note
+                    else:
+                        detail = f"{detail}; {note}"
+                else:
+                    if kind == UNCHANGED:
+                        kind = APPEARANCE
+                        detail = "Aussehen in RomanForge geaendert; visual wurde von Hand angepasst, Bild-Prompt pruefen"
+                    if entry.get("rf_appearance_sha") is not None:
+                        fields["rf_visual_check"] = True
                 fields["rf_appearance_sha"] = sha
-                if entry.get("rf_appearance_sha") is not None:
-                    fields["rf_visual_check"] = True
             if entry.get("status") == "removed_in_rf":
                 fields["status"] = "draft"
                 detail = (detail + "; " if detail else "") + "wieder in RomanForge vorhanden"
@@ -171,8 +190,10 @@ def plan_sync(
             and name.lower() in {_clean(e.get("source")).lower(), *(a.lower() for a in _alias_list(e))}
         ]
         if len(candidates) == 1:
-            actions.append(Action(LINK, uid, name, "ueber Namen/Alias zugeordnet", candidates[0],
-                                  {"rf_uid": uid, "rf_appearance_sha": sha}))
+            link_fields: dict[str, Any] = {"rf_uid": uid, "rf_appearance_sha": sha}
+            if ch.get("appearance") and not _clean(entries[candidates[0]].get("visual")):
+                link_fields["visual"] = ch["appearance"]  # nur eine leere Beschreibung wird gefuellt
+            actions.append(Action(LINK, uid, name, "ueber Namen/Alias zugeordnet", candidates[0], link_fields))
         elif len(candidates) > 1:
             actions.append(Action(CONFLICT, uid, name, f"{len(candidates)} Eintraege in names.yaml passen auf den Namen - nicht automatisch zugeordnet."))
         else:
@@ -206,8 +227,49 @@ def apply_sync(entries: list[dict[str, Any]], actions: list[Action]) -> list[dic
         if action.kind == NEW:
             result.append(dict(action.fields))
         elif action.entry_index is not None and action.fields:
-            result[action.entry_index].update(action.fields)
+            for key, value in action.fields.items():
+                if value is None:
+                    result[action.entry_index].pop(key, None)  # None heisst: Feld entfernen
+                else:
+                    result[action.entry_index][key] = value
     return result
+
+
+def appearance_report(entries: list[dict[str, Any]], characters: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Gegenueberstellung Aussehen in RomanForge und ``visual`` in names.yaml je Figur (nur lesen)."""
+    by_uid = {_clean(e.get("rf_uid")): e for e in entries if _clean(e.get("rf_uid"))}
+    rows: list[dict[str, Any]] = []
+    for ch in characters:
+        look = _clean(ch.get("appearance"))
+        entry = by_uid.get(ch["uid"])
+        if entry is None:
+            status = "nicht verknuepft"
+            visual = ""
+        else:
+            visual = _clean(entry.get("visual"))
+            if not look and not visual:
+                status = "fehlt in beiden"
+            elif not look:
+                status = "nur in peter"
+            elif not visual:
+                status = "visual leer"
+            elif visual == look:
+                status = "gleich"
+            elif appearance_sha(visual) == _clean(entry.get("rf_appearance_sha")):
+                status = "folgt RomanForge"
+            else:
+                status = "weicht ab (von Hand)"
+        rows.append({"name": ch["name"], "rf": len(look), "visual": len(visual), "status": status})
+    return rows
+
+
+def render_appearance_report(rows: list[dict[str, Any]]) -> str:
+    if not rows:
+        return "Keine Figuren im Spiegel."
+    head = f"{'Figur':<28} {'RomanForge':>10} {'visual':>7}  Stand"
+    lines = [head] + [f"{r['name']:<28} {r['rf']:>10} {r['visual']:>7}  {r['status']}" for r in rows]
+    lines.append("\nZahlen = Zeichen. 'weicht ab (von Hand)': visual wurde in peter angepasst und wird nie ueberschrieben.")
+    return "\n".join(lines)
 
 
 def render_plan(actions: list[Action]) -> str:

@@ -90,6 +90,54 @@ class PlanTests(unittest.TestCase):
         self.assertTrue(result["rf_visual_check"])
         self.assertEqual(result["rf_appearance_sha"], rfc.appearance_sha("Schwarzes Haar"))
 
+    def test_unberuehrtes_visual_folgt_geaendertem_aussehen(self):
+        entries = [{"source": "Mara", "target": "Mara", "visual": "Rotes Haar", "rf_uid": "u1",
+                    "rf_appearance_sha": rfc.appearance_sha("Rotes Haar"), "rf_visual_check": True}]
+        actions = rfc.plan_sync(entries, [ch("u1", "Mara", appearance="Schwarzes Haar")], same_language=True)
+        self.assertEqual(actions[0].kind, rfc.FOLLOWED)
+        result = rfc.apply_sync(entries, actions)[0]
+        self.assertEqual(result["visual"], "Schwarzes Haar")
+        self.assertEqual(result["rf_appearance_sha"], rfc.appearance_sha("Schwarzes Haar"))
+        self.assertNotIn("rf_visual_check", result)
+        again = rfc.plan_sync([result], [ch("u1", "Mara", appearance="Schwarzes Haar")], same_language=True)
+        self.assertEqual(again[0].kind, rfc.UNCHANGED)
+
+    def test_leeres_visual_wird_beim_ersten_aussehen_gefuellt(self):
+        entries = [{"source": "Berengar", "target": "Berengar", "rf_uid": "u1",
+                    "rf_appearance_sha": rfc.appearance_sha(None)}]
+        actions = rfc.plan_sync(entries, [ch("u1", "Berengar", appearance="Grauer Bart, breite Schultern")], same_language=True)
+        self.assertEqual(actions[0].kind, rfc.FOLLOWED)
+        self.assertEqual(rfc.apply_sync(entries, actions)[0]["visual"], "Grauer Bart, breite Schultern")
+
+    def test_von_hand_angepasstes_visual_bleibt_und_wird_nur_markiert(self):
+        entries = [{"source": "Mara", "target": "Mara", "visual": "Handtext", "rf_uid": "u1",
+                    "rf_appearance_sha": rfc.appearance_sha("Rotes Haar")}]
+        actions = rfc.plan_sync(entries, [ch("u1", "Mara", appearance="Schwarzes Haar")], same_language=True)
+        self.assertEqual(actions[0].kind, rfc.APPEARANCE)
+        result = rfc.apply_sync(entries, actions)[0]
+        self.assertEqual(result["visual"], "Handtext")
+        self.assertTrue(result["rf_visual_check"])
+
+    def test_aussehen_in_romanforge_geleert_aendert_visual_nicht(self):
+        entries = [{"source": "Mara", "target": "Mara", "visual": "Rotes Haar", "rf_uid": "u1",
+                    "rf_appearance_sha": rfc.appearance_sha("Rotes Haar")}]
+        actions = rfc.plan_sync(entries, [ch("u1", "Mara", appearance=None)], same_language=True)
+        self.assertEqual(actions[0].kind, rfc.APPEARANCE)
+        self.assertEqual(rfc.apply_sync(entries, actions)[0]["visual"], "Rotes Haar")
+
+    def test_umbenennung_und_nachziehen_zusammen(self):
+        entries = [{"source": "Mara", "target": "Mara", "visual": "Rotes Haar", "rf_uid": "u1",
+                    "rf_appearance_sha": rfc.appearance_sha("Rotes Haar")}]
+        actions = rfc.plan_sync(entries, [ch("u1", "Marit", appearance="Blondes Haar")], same_language=True)
+        self.assertEqual(actions[0].kind, rfc.RENAMED)
+        result = rfc.apply_sync(entries, actions)[0]
+        self.assertEqual((result["source"], result["visual"]), ("Marit", "Blondes Haar"))
+
+    def test_namensabgleich_fuellt_nur_ein_leeres_visual(self):
+        entries = [{"source": "Holm", "target": "Holm"}]
+        result = rfc.apply_sync(entries, rfc.plan_sync(entries, [ch("u9", "Holm")], same_language=True))[0]
+        self.assertEqual(result["visual"], "Rotes Haar")
+
     def test_unveraendert_wird_nicht_geschrieben(self):
         entries = [{"source": "Mara", "target": "Mara", "rf_uid": "u1",
                     "rf_appearance_sha": rfc.appearance_sha("Rotes Haar")}]
@@ -124,6 +172,27 @@ class PlanTests(unittest.TestCase):
         first = rfc.apply_sync([], rfc.plan_sync([], [ch("u1", "Mara")], same_language=True))
         again = rfc.plan_sync(first, [ch("u1", "Mara")], same_language=True)
         self.assertEqual(kinds(again), {"Mara": rfc.UNCHANGED})
+
+
+class AppearanceReportTests(unittest.TestCase):
+    def test_tabelle_zeigt_den_stand_je_figur(self):
+        sha = rfc.appearance_sha
+        entries = [
+            {"source": "A", "rf_uid": "u1", "visual": "gleich", "rf_appearance_sha": sha("gleich")},
+            {"source": "B", "rf_uid": "u2", "visual": "Handtext", "rf_appearance_sha": sha("alt")},
+            {"source": "C", "rf_uid": "u3", "visual": "alt", "rf_appearance_sha": sha("alt")},
+            {"source": "D", "rf_uid": "u4"},
+            {"source": "E", "rf_uid": "u5", "visual": "nur hier", "rf_appearance_sha": sha(None)},
+            {"source": "F", "rf_uid": "u6", "rf_appearance_sha": sha(None)},
+        ]
+        characters = [ch("u1", "A", "gleich"), ch("u2", "B", "neu"), ch("u3", "C", "neu"), ch("u4", "D", "da"),
+                      ch("u5", "E", None), ch("u6", "F", None), ch("u7", "G", "x")]
+        rows = {r["name"]: r["status"] for r in rfc.appearance_report(entries, characters)}
+        self.assertEqual(rows, {
+            "A": "gleich", "B": "weicht ab (von Hand)", "C": "folgt RomanForge", "D": "visual leer",
+            "E": "nur in peter", "F": "fehlt in beiden", "G": "nicht verknuepft",
+        })
+        self.assertIn("weicht ab (von Hand)", rfc.render_appearance_report(rfc.appearance_report(entries, characters)))
 
 
 class MirrorTests(unittest.TestCase):

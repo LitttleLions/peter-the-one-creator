@@ -7,9 +7,11 @@ Verwendung (immer mit der .venv):
     tools/sync_romanforge_characters.py --book <id> --snapshot handoff.json
     tools/sync_romanforge_characters.py --book <id>          (vorhandener Spiegel)
     ... --apply     schreibt den Spiegel (bei neuem Abruf) und names.yaml
+    ... --aussehen  nur Tabelle: Aussehen in RomanForge gegen visual (schreibt nichts)
 
-Eigentum: RomanForge liefert source/rf_uid; target, aliases, type, note, visual
-und status pflegt Peter und werden nie ueberschrieben. Siehe tools/lib/rf_characters.py.
+Eigentum: RomanForge liefert source/rf_uid; target, aliases, type, note und status
+pflegt Peter und werden nie ueberschrieben. visual folgt einem geaenderten Aussehen
+aus RomanForge nur, wenn es leer oder von Hand unberuehrt ist. Siehe tools/lib/rf_characters.py.
 """
 
 from __future__ import annotations
@@ -60,7 +62,11 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--handoff", help="RomanForge-Uebergabe-ID (ROMANFORGE_URL/-API_KEY aus .env)")
     parser.add_argument("--snapshot", help="Handoff-JSON aus einer Datei (offline)")
     parser.add_argument("--apply", action="store_true", help="Aenderungen schreiben (sonst Trockenlauf)")
+    parser.add_argument("--aussehen", action="store_true",
+                        help="Nur Tabelle: Aussehen in RomanForge gegen visual in names.yaml (schreibt nichts)")
     args = parser.parse_args(argv)
+    if args.aussehen and args.apply:
+        parser.error("--aussehen schreibt nichts und passt nicht zu --apply")
 
     book = find_book(REPO_ROOT, args.book)
     book_root = REPO_ROOT / "books" / args.book
@@ -71,6 +77,10 @@ def main(argv: list[str] | None = None) -> int:
     handoff_id, characters, fetched = _load_source(args, book_root)
     names_path = book_root / "names.yaml"
     entries = load_names(names_path)
+    if args.aussehen:
+        print(f"Buch {args.book}: Aussehen (RomanForge, Uebergabe {handoff_id[:8] or '-'}) gegen visual in names.yaml")
+        print(rfc.render_appearance_report(rfc.appearance_report(entries, characters)))
+        return 0
     actions = rfc.plan_sync(entries, characters, same_language=same_language)
 
     print(f"Buch {args.book}: {len(characters)} Figuren aus RomanForge, {len(entries)} Eintraege in names.yaml")

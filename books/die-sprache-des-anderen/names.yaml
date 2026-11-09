@@ -15,8 +15,10 @@ entries:
   rf_appearance_sha: 12d4e672f2503a8751fbe5301ba6329633745f48006114aeac527bb0c79479bb
 - source: Berto der Knecht
   target: Berto
+  visual_label: Berto der Knecht
   aliases:
   - der alte Knecht
+  - der alte Berto
   type: person
   status: draft
   note: Alter Knecht und Fuhrmann auf Aldas Kähnen, hinkt seit einem Eiswinter.
@@ -112,9 +114,12 @@ entries:
   rf_appearance_sha: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
   note: 'RomanForge-Rolle: Aldas gefallener Mann, dessen geheime Abmachung die Handlung
     auslöst'
-- source: Berto
+- source: Berto der Sohn
   target: Berto
-  aliases: []
+  visual_label: Berto der Sohn
+  aliases:
+  - Sohn Berto
+  - Sohn Bertos
   type: person
   status: draft
   rf_uid: 4307a816-062d-4821-88be-f9e5729fa1fe

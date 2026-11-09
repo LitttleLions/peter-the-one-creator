@@ -1,12 +1,59 @@
 # Uebergabe-Prompt (neues Chat-Fenster, gleicher Ordner)
 
-Kopiertext fuer ein neues Chat-Fenster im selben Verzeichnis
-`E:\code\peter-the-one-creator` (Branch `main`). Kein neues Setup, kein Clone.
+Kopiertext fuer ein neues Chat-Fenster im peter-Ordner des jeweiligen Rechners
+(z. B. `C:\code\peter-the-one`, Branch `main`). Kein neues Setup, kein Clone.
 Unter Windows CLI immer `.\.venv\Scripts\python.exe`, nicht `python`/`py -3`.
-Kein OpenRouter ohne ausdrueckliche Freigabe. Nicht committen und keinen
-Branch-Wechsel, solange der Nutzer es nicht verlangt.
+Kein OpenRouter ohne ausdrueckliche Freigabe. Committen und Pushen nur nach
+Freigabe des Nutzers, kein Branch-Wechsel.
+
+Es gibt zwei Prompts: **A** (Aufgabe: neue Fassung aus RomanForge holen und
+daraus Marketing machen, Stand 2026-11-09) und **B** (allgemeiner Einstieg
+mit Warten auf die Aufgabe, ab „Schritt 1“).
 
 ---
+
+## Prompt A: neue Fassung aus RomanForge holen, dann Marketing
+
+peter ist das Programm; RomanForge liefert den Roman (die „Novel“-Fassung). Der
+Ablauf holt eine neue Fassung ueber die Uebergabe-Schnittstelle, uebernimmt nur
+freigegebene Kapitel und baut danach das Marketing aus der neuen Fassung.
+Felder in `<...>` vor dem Einfuegen ausfuellen; unbekannte leer lassen.
+
+```text
+Arbeite im peter-Ordner (Branch main, kein neuer Clone). Hole zuerst den neuesten Stand:
+git fetch, dann git pull --ff-only. Bei Abweichung oder uncommitteten Aenderungen anhalten und fragen.
+
+Lies nur: AGENTS.md, docs/uebernahme-romanforge.md (und docs/romanforge-figuren.md, falls das Buch
+RomanForge-Figuren hat), danach docs/marketing-export.md (Abschnitte "Ablauf im Alltag",
+"Konfiguration", "Bedienung"). Keine Kapiteltexte lesen.
+
+Aufgabe: Von <TITEL> (peter-Buch-ID <id>) liegt in RomanForge eine neue Fassung vor
+(Projekt <ID>, Uebergabe <ID>). Hole sie mit dem Werkzeug, uebernimm freigegebene Kapitel und
+baue danach das Marketing aus der neuen Fassung.
+
+Ablauf (jeder Schritt mit Kurzbericht, dann weiter):
+1. Zugang pruefen: In .env muessen ROMANFORGE_URL und ROMANFORGE_API_KEY stehen. Nur melden, ob sie
+   vorhanden sind, Werte nie anzeigen. Fehlen sie, anhalten und mich fragen.
+2. Modus: NEU (Buch in peter unbekannt) oder AKTUALISIEREN. Passt er nicht zum Stand: anhalten und fragen.
+3. Vergleich (schreibt nichts), nur die Tabelle zeigen:
+   .\.venv\Scripts\python.exe tools/import_markdown_original.py --book <id> --handoff <Uebergabe-ID> --compare
+4. Auf meine Freigabe: --accept, hoechstens 5 Kapitel pro Lauf; --keep nur nach Absprache. Danach pro
+   Kapitel assemble_chapter.py und review_manuscript.py --llm none, nur die Zusammenfassung
+   (ERROR/WARNING/INFO). Bei ERROR>0 stoppt der Export.
+5. Figuren (falls vorhanden): tools/sync_romanforge_characters.py --book <id> --handoff <Uebergabe-ID>
+   als Trockenlauf; --apply nur nach Freigabe.
+6. Marketing: erst tools/export_marketing.py --book <id> --dry-run. Das Paket aus vorhandenen Texten
+   ist kostenlos. Neue Texterzeugung ueber OpenRouter (--provider openrouter --regenerate) und
+   Higgsfield nur nach meiner ausdruecklichen Freigabe je Aufruf.
+
+Regeln: Kapiteltexte nur ueber die Werkzeug-Tabelle vergleichen, nichts ueberschreiben ohne Freigabe,
+books/*/source/ und logic/ nicht aendern. Secrets (API-Schluessel, Passwoerter, Tokens) nie in den
+Chat oder ins Repo. Commit und Push nur nach meiner Freigabe. Fange nichts anderes an, ohne zu fragen.
+```
+
+---
+
+## Prompt B: allgemeiner Einstieg
 
 ## Schritt 1 (jetzt): nur lesen, dann WARTEN
 
@@ -94,6 +141,11 @@ gegeneinander abgleichen muss.
 ---
 
 ## Orientierung Stand 2026-10-28 (nur Kurzfassung)
+
+Hinweis (2026-11-09): Seitdem kamen die RomanForge-Schnittstelle (`--handoff`,
+`rf_id`, Figuren-Abgleich, Verlagsangaben) und weitere Uebernahmen dazu; aktueller
+Stand in `docs/HANDOVER.md` (Kopf) und `docs/uebernahme-romanforge.md`. Der Stand
+unten ist nur noch Hintergrund.
 
 Details nur bei Bedarf: `docs/HANDOVER.md` (Session-Chronik),
 `docs/offene-punkte.md` (Checkliste).

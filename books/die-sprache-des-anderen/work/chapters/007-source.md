@@ -5,173 +5,129 @@
 
 ---
 
-Der rote Sandstein der Vogesen sog die Nässe auf wie ein Schwamm, gab sie aber nicht wieder her. Er schwitzte sie aus, verwandelte die uralten Platten der Römerstraße in schlüpfrige Rutschbahnen, auf denen die Hufe der Ochsen vergeblich nach Halt suchten.
+Der Geruch von totem Laub und faulendem Altschnee schlug ihnen entgegen, als die Straße den Talgrund verließ und sich in die Kehren der Zaberner Steige fraß. Das Tauwetter der vergangenen Tage hatte die Hänge aufgeweicht, doch hier oben, wo die Felswände den Himmel zu einem schmalen, blassen Streifen schnitten, hielt der Frost die Erde noch mit eiserner Faust umklammert. Unter dem grauen Schlamm lagen die uralten Quader der Heidenstraße verborgen, glattgescheuert von Jahrhunderten fremder Karren, tückisch wie nasses Eis im Frühjahrsfluss.
 
-Alda stemmte ihre Schulter gegen die feuchte Bordwand des vorderen Karrens. Der Schweiß brannte ihr in den Augen, vermischt mit dem feinen, eisigen Nieselregen, der seit dem Eintritt in die Schlucht von den Tannen herabtropfte. Unter ihren derben Bundschuhen gab der Lehm schmatzend nach. Jeder Schritt war ein Ringen mit der Tiefe. Wenn hier ein Rad brach, stürzten die Fuhrwerke mitsamt dem Zugvieh in die Zorn, die fünfzig Schritt tiefer durch das Felsbett toste, braun und schäumend von der Schneeschmelze.
+Alda führte das linke Zugross am Zaumzeug, die Finger tief in das klamme Leder der Führleine gegraben. Das Tier schnaubte stoßweise, weißer Dampf quoll aus seinen Nüstern, und bei jedem dritten Schritt rutschten die Hufe über den verdeckten Stein.
 
-»Hüh, Brauner! Greif zu, du faules Aas!«, keuchte Berto der Knecht weiter hinten. Seine Stimme überschlug sich vor Anstrengung. Das Holz der Deichsel ächzte.
+»Stemmen, Brauner, stemmen«, murmelte sie heiser. Sie kannte das Knarren der Eschenholzspeichen, das unter der Last der Vorräte gefährlich trocken klang. Eine gebrochene Achse an diesem Hang bedeutete das Ende des Zugs. Der Wagen würde rückwärts in die Schlucht poltern, und keine Menschenhand hielt zwei Tonnen rollendes Holz auf, wenn das Gefälle erst einmal griff.
 
-Der zweite Karren, dessen rechtes Hinterrad bereits seit der Ebene eierte, setzte mit einem hässlichen Krachen auf einer ausgewaschenen Steinrippe auf. Ein Ruck ging durch das Gespann. Die beiden Zugochsen blieben mit zitternden Flanken stehen, der weiße Geifer troff ihnen von den Lefzen, und ihr warmer Atem stand wie Rauch in der schneidenden Bergluft.
+Hinter dem Wagen keuchte Otwin. Der Schreiber trug Aldas alten Schafspelz, dessen Säume durch das zähe Gemisch aus Lehm und Schneematsch schleiften. Er hatte einen dicken Eichenknüppel in den Händen, um bei jedem Halt hinter das linke Hinterrad zu springen und den Schiebegrund zu sichern. Seine Hände waren rot und aufgesprungen, an den Knöcheln schorfig von der ungewohnten Kärrnerarbeit, doch er klagte nicht mehr. Seit dem Morgen, als sie die letzten strohgedeckten Hüten im Tal hinter sich gelassen hatten, lag ein Schweigen über ihnen, das schwerer wog als der aufkommende Nebel.
 
-Alda wischte sich mit dem nassen Wollärmel über die Stirn und lief nach hinten. Der Geruch nach nassem Fell, faulem Laub und dem Harz zerborstener Tannenzweige hing schwer zwischen den Felswänden.
+Alda spürte die drei Wachstafeln an ihren Rippen, kalt und hart gegen das Fleisch gepresst. Jedes Mal, wenn sie den Fuß hob und der Schuh im Schlamm schmatzte, erinnerte sie das Holz an Folmars Worte vor den Straßburger Toren. Berengar auf einem Streitross. Berengar im Kettenhemd, bezahlt mit Raginberts Silber. Sie schluckte die Bitterkeit hinunter wie schlechten Tresterbrand. Es galt jetzt nicht, über tote Männer nachzudenken, die ihr das Bett und das Leben verpfändet hatten. Vor ihnen lag der Kamm, und jenseits des Passes wartete das Salz von Marsal. Wenn sie die zwanzig Karrenladungen nicht vor dem Austrieb der Weiden an die Ill brachte, gehörte ihr Speicher dem Grundherrn, und ihr Junge würde als Höriger den Pflug über fremde Schollen treiben.
 
-»Das Rad hält diesen Anstieg nicht«, keuchte Berto. Seine Hände, schwielig und klamm vor Kälte, krallten sich in die Speichen. Schlamm klebte ihm bis zu den Knien, die Lederhosen waren an den Waden durchgeweicht. »Die Felge hat sich verzogen, Herrin. Das Eisenband wandert. Wenn der Stein noch einmal so zuschlägt, splittert die Nabe.«
+»Halt!«, rief sie und lehnte sich mit ganzem Gewicht gegen die Schulter des Rosses.
 
-Alda blickte die Steige hinauf. Der Weg schnitt sich wie eine klaffende Wunde in den Bergkamm. Vor Jahrhunderten hatten die Kaiser aus Rom quadergroße Steine in das Gestein getrieben, breit genug für zwei Kriegswagen, flankiert von tiefen Abzugsrinnen. Doch die Jahrhunderte des Verfalls, die Wurzeln der Buchen und die winterlichen Fröste hatten das Werk zersprengt. Wo einst ebener Belag lag, ragten nun scharfe Kanten empor, unterbrochen von tiefen Löchern, in denen sich tückischer Morast und fauliger Altschnee sammelte.
+Das Tier blieb zitternd stehen, die Flanken pumpten wie Blasebälge. Otwin rammte den Hemmkeil hinter das Eisenband des Rades, stützte sich vornüber auf den Knüppel und hustete krampfhaft.
 
-»Wir rasten nicht«, sagte Alda hart, auch wenn ihre eigenen Waden brannten wie Feuer. »Oben auf dem Sattel, wenn die Steigung nachlässt. Nicht hier im Hang. Wenn wir jetzt stehen bleiben, kriegen wir die Ochsen nicht wieder in den Zug.«
+»Die Steigung lässt nach«, stieß er zwischen zwei Atemzügen hervor. Sein Atem roch nach Zwiebeln und Angst. »Hinter der nächsten Felsnase … dort oben muss der alte Posten stehen. Eine Mutatio der Römer, hieß es in den Straßburger Registern. Ein Ort zum Pferdewechseln.«
 
-Ein Rascheln ertönte unter der durchnässten Ziegenhaarplane des zweiten Wagens. Die Plane hob sich, und Otwins Gesicht kam zum Vorschein. Seine Wangen waren aschfahl, die Augen tief eingefallen. Das Klerikergewand, das er unter einem groben Bauernkittel trug, war an den Säumen mit Schlammspritzern besudelt. Er zitterte am ganzen Leib, nicht nur vor der nasskalten Luft, sondern vor der schieren Wucht dieses Gebirges, das ihn wie ein Kerker umschloss.
+Alda wischte sich den kalten Schweiß von der Stirn. Ihre ledernen Fäustlinge waren steif gefroren. Sie blickte die Felswand hinauf, an der schwarze Föhren wie Krallen im roten Sandstein hingen.
 
-»Lass mich hinab«, stieß er hervor, die Zähne aufeinandergeschlagen. »Ich kann schieben. Ich bin kein Mehlsack, den ihr den Berg hinaufschleppen müsst.«
+»Register«, sagte sie rauh, ohne ihn anzusehen. »Auf Pergament steht viel, Schreiber. Auf dem Weg hierher zählt nur, ob die Hufe greifen. Sieh dir die Spur an.«
 
-»Du bleibst drunter, wenn wir auf offener Straße sind«, herrschte Alda ihn an, doch der Blick auf das eiernde Rad ließ sie einlenken. Wenn das Fuhrwerk umkippte, war alles verloren – das Vorkaufsrecht auf das Salz, der Hof an der Ill, Bertos Zukunft. »Komm raus. Aber halt die Hände an der Rungwand und das Maul hinter den Zähnen. Wenn Kriegsknechte auftauchen, bist du mein stummer Vetter aus Hagenau.«
+Sie deutete mit der Peitschenschnur auf den Schlamm vor ihnen. Das Schmelzwasser hatte tiefe Rinnen in den Weg gewaschen, doch da waren andere Zeichen: frische, scharfkantige Tritte von beschlagenen Pferden, tief eingeschnitten, und daneben der Abdruck schwerer, mit Eisen genagelter Bundschuhe. Keine Fuhrleute. Ein Fuhrmann schonte die Rösser und ließ sie nicht im Galopp über Geröll treiben.
 
-Otwin glitt ungelenk von der Ladefläche. Seine Füße fanden kaum Halt auf den glitschigen Steinen; er ruderte mit den Armen, fing sich an einer Runge ab und stieß einen spitzen Schrei aus, als er bis über die Knöchel im eisigen Schmelzwasser versank. Doch er murrte nicht. Er packte das Holz der Ladefläche, krallte die Finger hinein und stemmte seine schmale Gestalt gegen das Gewicht.
+»Reiter«, flüsterte Otwin. Er trat unwillkürlich näher an die Wagendeichsel heran, den Blick unruhig auf das dichte Unterholz gerichtet. »Könnte es Isenbart sein? Hat Raginbert uns Boten nachgeschickt?«
 
-»Auf drei!«, befahl Alda. Sie trat an Bertos Seite an die Speichen des kranken Rades. »Berto, nimm den Riemen! Otwin, drück, als ginge es um deine Haut – denn genau darum geht es!«
+»Isenbart reitet mit Knechten, die Troßknechte kennen«, erwiderte Alda kühl, während sie die Hand an das Holz des Wagenkastens legte, wo die schwere Holzaxt griffbereit unter der Plane klemmte. »Das hier sind keine Amtsleute. Schau, wie sie die Ränder zertrampelt haben. Einer hat das Tier in die Dornen gejagt, aus Eile oder Dummheit. Das sind Verlorene. Gesinde, das nach Fontenoy von den Herren abgefallen ist. Deserteure, die den Wald absuchen wie hungrige Wölfe das Ufergehölz.«
 
-Berto schwang die Lederpeitsche, nicht um die Ochsen zu schlagen, sondern um das Knallen wie Donner über ihre Köpfe fahren zu lassen. »Hoh! Zieht an, ihr Teufelsbrut! Zieht!«
+Sie griff nach den Zügeln und zerrte das Gespann wieder an. Die Rösser bäumten sich kurz gegen das Geschirr auf, die Eisen schlugen Funken auf dem freigelegten römischen Pflaster, dann rollte das Fuhrwerk weiter, zentimeterweise, hinein in den eisigen Schatten des Engpasses.
 
-Die Ochsen warfen sich ins Joch. Die Muskeln an ihren Schenkeln schwollen an, Adern traten hervor wie dicke Stricke. Alda riss am Rad, spürte, wie das kalte, nasse Eisen ihr die Haut an den Handballen aufschürfte. Neben ihr keuchte Otwin, ein gutturaler, fast tierischer Laut drang aus seiner Kehle, seine Adern am Hals traten hervor. Das Rad schabte kreischend über den Stein, rutschte ab, fand wieder Halt – und hob sich mit einem zähen Schmatzen aus der Senke.
+Hinter einer Biegung, wo der Weg zwischen zwei schroffen Felswänden eingezwängt lag, weiteten sich die Trümmer. Römische Quader, groß wie Mühlsteine und fugenlos aneinandergefügt, bildeten ein verfallenes Geviert, dessen Dach vor Generationen eingestürzt war. Junge Birken wuchsen aus den Rissen des roten Steins, ihre weißen Stämme wie Gebeine im Dunst. Aus dem Inneren des Halbdunkels stieg ein dünner, grauer Rauchfaden auf. Es roch nach brennendem feuchtem Fichtenholz und dem süßlichen Gestank von ungesalzenem, angebranntem Fleisch.
 
-Der Karren rollte vorwärts. Schritt für Schritt, keuchend, stampfend, von Schlamm bespritzt, arbeiteten sie sich den Hohlweg hinauf.
+Alda riss die Leinen an. Das Gespann kam mit einem metallischen Ächzen zum Stehen.
 
-Der Wald wurde lichter, je höher sie stiegen, doch die Kälte biss schärfer zu. Flecken von schmutzigem Schnee bedeckten die Hänge wie das Leichentuch eines Riesen. Hier oben, wo der Wind ungehindert aus den westlichen Tälern fegte, roch es nach verbranntem Holz und kaltem Rauch.
+Vier Männer traten aus der Ruine. Sie trugen keine Farben eines Grafen oder Bischofs. Ihre Leiber steckten in fleckigen Wämsern aus ungegerbtem Leder, darüber abgewetzte Bruche und zerschlissene Mäntel, die sie mit Weidenruten um die Hüften gebunden hatten. Zwei von ihnen hielten rostige Jagdspieße mit breiten Klingen, einer trug eine schwere fränkische Franziska im Gürtel, und der Vierte – ein breitschultriger Kerl mit einer frischen, eiternden Narbe über dem linken Auge – stützte sich auf ein langes, gerades Schwert, dessen Scheide fehlte. Seine Finger waren schwielig, der Blick unstet und gierig wie der einer Krähe über dem Aas.
 
-Alda hob die Hand und hielt den vorderen Karren an. Sie lauschte.
+»Sieh an«, sagte der Bärtige mit dem Schwert. Seine Stimme klang schleifend, die Worte fielen im breiten, rauen Idiom der Moselgegend, durchsetzt mit den harten Kehllauten des Westerwaldes. »Ein Kärrner mit dicken Rössern. Und einem Weib als Vorspann.«
 
-Über das Rauschen des Windes hinweg drang ein Laut an ihr Ohr. Das Klatschen von Eisen auf Stein. Nicht das rhythmische Klappern eines Hufes, sondern das unruhige Scharren eines unbeschlagenen Ponys, vermischt mit rohen Stimmen.
+Die anderen lachten nicht. Hunger lacht nicht. Sie fächerten sich auf, langsam, die Spitzen ihrer Waffen auf die Kehlen der Zugtiere gerichtet.
 
-Vor ihnen, wo die Passhöhe eine flache Kuppe bildete, erhob sich eine Ruine aus der Römerzeit. Die Einheimischen nannten solche Orte Heidenmauern; einst mochte es ein Kastell oder eine Raststation gewesen sein, um die Legionen vor den Stürmen des Gebirges zu schützen. Nun standen nur noch mächtige, moosbewachsene Quadermauern ohne Dach, deren Zinnen vor Jahrhunderten herabgestürzt waren. Aus dem Inneren der verfallenen Halle kräuselte sich eine dünne, graue Rauchsäule in den verhangenen Himmel.
+Otwin wich zurück, bis seine Schulterblätter an die vordere Wagenachse stießen. Seine Kehle schnürte sich sichtbar zu, die Hände zitterten an dem Eichenknüppel. Alda rührte sich nicht. Sie blieb zwischen den Tieren stehen, die Hand fest am Trensenzaum des Braunen. Wenn sie jetzt Schwäche zeigte, wenn sie zuckte wie ein scheues Fohlen, würden sie über das Gespann herfallen, die Tiere abstechen und die Vorräte teilen, bevor der Nebel die Felsen verschlang.
 
-»Halt an«, flüsterte Alda nach hinten.
+»Der Weg ist schmal, Brüder«, sagte sie mit ruhiger, tiefer Stimme, im Straßburger Marktton, der keinen Widerspruch duldete, aber auch keine Klingen forderte. »Wir wollen vor der Dämmerung über die Kuppe. Tretet zur Seite, damit die Rösser nicht scheuen.«
 
-Berto zog sofort die Leitstricke an. Seine Augen wurden weit, die Hand fuhr unwillkürlich an das breite Haumesser, das er am Gürtel trug – eine grobe Klinge zum Ausästen von Wegen, kaum tauglich gegen ein Schwert. »Herrin... da sind Bewaffnete.«
+Der Hüne mit der Narbe spuckte einen gelblichen Schleimfaden auf das Pflaster vor Otwins Stiefel.
 
-Aus der breiten Bresche der Ruine traten Gestalten. Zuerst drei, dann zwei weitere. Sie trugen keine einheitlichen Farben, keine Wappenröcke. Einer hatte ein verrostetes Kettenhemd über eine dreckige Wollwams gezogen, das an den Rändern zerfetzt war; ein anderer trug nur einen wattierten Gambeson, der mit getrocknetem Blut und Kot verkrustet schien. In ihren Händen hielten sie kurze Reiterlanzen, Streitäxte und lange sächsische Messer.
+»Der Weg gehört dem König«, sagte der Mann und trat einen Schritt näher. Das rostige Eisen seines Schwertes wippte träge. »Aber hier oben gibt es keinen König. Ludwig sitzt am Rhein und Karl zählt seine Pfennige. Wer über die Steige will, bezahlt Zoll. Zwei Säcke Korn. Und das graue Ross da.«
 
-Deserteure. Männer, die das Morden bei Fontenoy überlebt hatten, die dem Tross Ludwigs oder Lothars entlaufen waren und nun wie Wölfe in den Höhenzügen der Vogesen hockten, um von dem zu leben, was Reisende bei sich trugen.
+»Das Ross bleibt im Geschirr«, schnitt Alda ihm das Wort ab. Sie spürte, wie das Tier neben ihr nervös mit dem Kopf schlug; sie legte beruhigend die Faust auf seinen Nasenrücken. »Ohne das Tier verreckt der Wagen im nächsten Graben. Ihr könnt kein Eisen fressen, Geselle. Und Korn haben wir keines geladen, nur Saatdinkel für das Stift in Metz.«
 
-»Zurückweichen können wir nicht«, zischte Alda. Der Weg hinter ihnen war zu steil, um die schweren Karren zu wenden. Ein falsches Manöver, und das Gespann stürzte ab. »Otwin, unters Tuch. Schnell!«
+»Lüg nicht, Weib!«, herrschte der mit der Axt sie an und hob die Waffe halb an. Seine Augen flackerten fiebrig; er hatte den Blick eines Mannes, der seit drei Tagen nur Wurzeln und Schnee gekaut hatte. »Wir holen uns, was da ist. Wer will uns hindern? Der Pfaffe da hinten?«
 
-Doch Otwin rührte sich nicht. Er stand neben dem Hinterrad, den Blick starr auf die Männer gerichtet, die sich nun langsam, mit der trägen Sicherheit von Raubtieren, im Halbkreis über die Römerstraße verteilten.
+Er deutete mit dem Schaft der Franziska verächtlich auf Otwin. Otwin schluckte. Seine Lippen waren aschfahl, doch Alda sah, wie seine Augen über die Männer wanderten, nicht mit der blinden Panik eines gehetzten Tieres, sondern taxierend. Er musterte die Bruchen, die Schnallen an den Riemen, die Art, wie der Anführer das Schwert hielt.
 
-»Das nützt nichts, Alda«, sagte Otwin leise. Seine Stimme zitterte nicht mehr. Sie war seltsam verändert, trocken und gespannt wie eine Bogensehne. »Wenn die den Karren durchsuchen und mich finden, schlachten sie uns alle ab. Ein Mann im Versteck ist für solche Leute Beute oder Verrat.«
+Der Schreiber trat vor. Seine Knie zuckten, doch er richtete den Rücken auf, strich mit einer beinahe pedantischen Geste den Schafspelz glatt und hob die rechte Hand – nicht drohend, sondern mit der gemessenen Würde eines Mannes, der vor einem Altar steht.
 
-Der Anführer der Rotte – ein stämmiger Kerl mit einer tiefen Narbe quer über der Nase, die seine Oberlippe nach oben zog und ihm das Grinsen eines Hundes verlieh – spuckte einen gelben Schleimfaden auf die Pflastersteine. Er hielt eine schwere Axt lässig in der Armbeuge.
+Als er sprach, war seine Stimme verwandelt. Sie hatte nichts mehr von dem ängstlichen Flüstern, mit dem er in ihrer Küche um sein Leben gebettelt hatte. Er sprach nicht das Straßburger Alemannisch, sondern verfiel in den harten, schleifenden Dialekt der Ripuarier, genau jenen Zungenschlag, den der Anführer eben gebraucht hatte, aber er wob Wörter hinein, die nach Kanzlei und Bischofshof klangen, kühl, unnahbar und gefährlich.
 
-»Sieh an«, rief der Kerl. Seine Sprache war ein hartes, zerhacktes Romanisch, wie man es an der Maas sprach, durchsetzt mit den rauen Lauten der fränkischen Grenzer. »Was kriecht denn da aus dem Schlamm herauf? Ochsen. Fette Ochsen. Und Weiberfleisch.«
+»*Pax vobiscum*, Männer von der Maas«, sagte Otwin, und der Klang seiner Stimme hallte seltsam fremd von den nassen Sandsteinwänden wider. »Ihr sprecht vom König, doch ihr wisst so gut wie ich, wessen Bann auf dieser Steige liegt. Habt ihr die Eide von Straßburg vergessen, die vor vier Wochen geschworen wurden? Oder meint ihr, Bischof Boso von Toul hätte seine Hirtenbriefe umsonst an die Pässe geschickt?«
 
-Die anderen lachten. Ein heiseres, freudloses Bellen. Einer von ihnen, jünger, mit fiebrigen Augen und einem zerschlissenen Mantel, trat vor und hob die Lanze in Richtung von Bertos Brust.
+Die Männer hielten inne. Der Hüne mit der Narbe kniff das gesunde Auge zusammen. Seine Waffe senkte sich um eine Daumenbreite. Das Volk fürchtete Könige wenig, denn Könige waren weit; aber sie fürchteten den Bannfluch der Bischöfe, der die Toten ohne Erde ließ und das Vieh im Stall verenden hieß.
 
-»Steht, Bauern!«, fuhr der Narbige fort, diesmal in einem gebrochenen germanischen Idiom, grob und drohend. »Gebt das Vieh her, und ihr dürft auf euren eigenen Beinen den Berg hinablaufen. Wenn ihr zuckt, füttern wir die Raben mit euren Gedärmen.«
+»Was faselst du, Schreiberling?«, knurrte der Narbige, doch die Härte in seiner Stimme war brüchig geworden.
 
-Berto umkrampfte den Griff seines Haumessers, die Knöchel weiß. »Herrin...«, murmelte er flehend.
+Otwin griff langsam, ohne jede Hast, in seine Umhängetasche. Jeder Muskel an seinem Leib war gespannt wie eine Sehne, doch seine Finger bewegten sich mit der Ruhe eines Mannes, der die Gerichtsordnung kennt. Er zog ein gefaltetes, speckiges Kalbsleder hervor. An einer roten Seidenschnur baumelte ein Klumpen aus gebleichtem Bienenwachs, in den das Relief eines Krummstabs geprägt war – der Schutzbrief, den er vor seiner Flucht aus der Kanzlei Raginberts entwendet hatte, ein altes Geleit für bischöfliche Boten nach Lothringen.
 
-Alda trat einen Schritt vor ihren Karren. Ihr Herz schlug ihr bis zum Hals, das Blut rauschte in ihren Schläfen wie die Zorn in der Schlucht. »Wir sind freie Fuhrleute aus Straßburg«, rief sie mit fester Stimme, bemüht, das Zittern zu ersticken. »Wir fahren im Auftrag der Abtei. Wer uns anrührt, rührt das Kirchengut an!«
+Er entfaltete das Pergament nicht ganz, sondern hielt es so, dass das Siegel im trüben Nachmittagslicht glänzte. Die lateinischen Zeilen, eng und schwarz wie ein Dornengestrüpp, waren für die Männer vor ihnen unlesbar, stumm wie Steine, doch ihre Wirkung war greifbar wie geschliffenes Eisen. Für den Analphabeten barg die Schrift eine finstere, unberechenbare Macht; wer die schwarzen Zeichen bannen konnte, stand mit den Herren im Bunde, die über Zehnt und Galgen geboten.
 
-Der Anführer lachte schallend. »Die Abtei? Die Mönche sitzen warm hinter ihren Mauern und fressen Grütze! Hier oben regiert der Hunger, Weib! Dein Gott hat keine Klingen, wir aber schon! Macht die Ochsen los, Guibert!«
+»Dies ist das Geleit des Stiftes Sankt Arnulf zu Metz«, log Otwin, ohne mit der Wimper zu zucken, und seine Stimme schnitt durch den Nebel wie eine Sense durch nasses Gras. »Wir führen keine weltliche Fracht. Diese Rösser ziehen das Eigentum der Märtyrer. Wer die Hand an diesen Karren legt, fällt noch vor dem nächsten Neumond unter das große Anathema. Seine Saat wird auf dem Feld verfaulen, sein Leib wird von Würmern gefressen, und sein Name wird aus dem Buch des Lebens getilgt, wie es die Väter auf der Synode zu Diedenhofen festgelegt haben.«
 
-Zwei der Kerle setzten sich in Bewegung, die Klingen gesenkt, die Augen gierig auf die Frachtplanen gerichtet. Sie rechneten mit Korn, mit Speck, mit Tuch.
+Alda hielt den Atem an. Sie kannte das Pergament nicht, sie wusste nicht, was wirklich darauf geschrieben stand – vielleicht war es nur eine alte Quittung über Bauholz oder Gerstenzins –, doch sie sah, wie die Worte Otwins trafen. Sie sah es an dem Mann mit der Franziska, der unwillkürlich mit der freien Hand das Zeichen des Kreuzes über seine schmutzige Brust schlug.
 
-In diesem Moment trat Otwin an Alda vorbei.
+Der Anführer schluckte schwer. Er starrte auf das Wachssiegel, dann in Otwins Gesicht. Otwin wich seinem Blick nicht aus. Er stand da wie ein Inquisitor, kalt, herablassend, die Lippen schmal und unerbittlich, als wartete er nur darauf, den Fluch mit einem weiteren lateinischen Wort zu besiegeln.
 
-Er ging nicht geduckt, wie er es auf dem Hof getan hatte, nicht mit der scheuen Unterwürfigkeit eines entlaufenen Schreibers. Er richtete sich zu seiner vollen Größe auf. Seine Haltung veränderte sich mit einer Plötzlichkeit, die Alda den Atem verschlug. Aus dem zitternden Knecht wurde mit einem einzigen Schritt ein Kanzleimann.
+»Wir … wir wussten nicht, dass die Kirche die Steige nutzt«, stammelte der Bärtige, und sein ripuarischer Dialekt klang plötzlich kleinlaut, wie der eines ertappten Stallknechts. »Uns hungert, Herr. Seit Fontenoy haben wir keinen Pfennig Silber gesehen. Unser Herr ist gefallen, und die Franken haben unsere Dörfer niedergebrannt.«
 
-Er hob die rechte Hand – nicht drohend, sondern mit der herrischen Geste eines Priesters, der das Volk vor dem Altar zum Schweigen gebietet.
+Alda begriff die Gunst des Augenblicks. Ein Bogen, den man zu straff spannte, brach. Wenn Otwin sie zu sehr in die Enge trieb, konnte die Verzweiflung der Männer über die Furcht vor dem Bann siegen. Hunger war taub gegen Latein, wenn der Magen erst die Eingeweide fraß.
 
-»*Pax vobiscum, milites Christi!*«, schallte seine Stimme über die Hochebene. Der Ton war schneidend, getragen, mit jener hallenden Resonanz, die man in den hohen Chören der Münsterkirchen lernte.
+Sie trat einen Schritt vor und ließ die Führleine locker, hielt aber die Axt im Augenwinkel fest.
 
-Die beiden Bewaffneten stutzten. Sie hielten inne, verwirrt von dem lateinischen Donnern, das so gar nicht zu dem schlammigen Karrenzug passen wollte.
+»Niemand soll sagen, das Stift ließe die Getreuen des Reiches am Wegrand verschmachten«, sagte sie, ihre Stimme nun milder, vermittelnd, im Ton einer Händlerin, die einen ungleichen Handel zum Abschluss bringt. »Wir haben kein Silber für Wegelagerer, aber wir haben Brot für Christenmenschen.«
 
-Ehe der Narbige fluchen konnte, wechselte Otwin die Zunge. Er sprach nun nicht mehr das Straßburger Deutsch Aldas, auch nicht das holprige Kauderwelsch der Grenzbauern. Er sprach das weiche, fließende Romanisch des westfränkischen Hofes, genau jenen Dialekt, den die Krieger Karls des Kahlen sprachen, aber durchsetzt mit den derben Wendungen, die in den Heerlagern an der Yonne und Marne üblich waren.
+Sie griff nach hinten auf die Ladefläche, zog einen halben Laib hartes Roggenbrot und ein Stück geräucherten Speck hervor, das sie mit dem Messer vom Strang schnitt. Das Fett glänzte weiß und fettig in der Kälte. Sie warf das Bündel nicht in den Dreck, sondern reichte es dem Narbigen mit ruhiger Hand hin, so wie man einem bissigen Hund einen Knochen reicht: ohne Furcht, aber ohne Hast.
 
-»Wollt ihr euch an den Boten der Bischöfe vergreifen, Männer von Lothringen?«, rief Otwin, und seine Stimme troff vor Verachtung und unerschütterlicher Autorität. »Glaubt ihr, Graf Matfrid weiß nicht, welche Rotten hier oben im Wald sein Land schänden?«
+»Nehmt das für die Nacht«, sagte sie fest. »Und räumt die Straße. Wenn der Tross des Bischofs uns folgt und euch hier findet, wird euch das Siegel nicht mehr retten.«
 
-Der Anführer mit der Narbe starrte ihn an. Seine Axt sank um eine Handbreit. »Was faselst du, Pfaffe? Wer bist du?«
+Der Mann griff nach dem Speck, als befürchte er, das Fleisch könnte sich in Luft auflösen. Seine Gefährten starrten mit aufgerissenen Augen auf das Essen.
 
-Otwin griff mit einer langsamen, gemessenen Bewegung in seinen Kittel. Keine Hast, keine Furcht – jede Bewegung strahlte aus, dass er der Herr dieser Begegnung war und sie die Untergebenen. Er zog das Pergament hervor, das er in der Nacht in Aldas Stube beschrieben und versiegelt hatte.
+»Gott schütze euch«, murmelte der Hüne heiser. Es klang nicht wie ein Segen, sondern wie eine Entschuldigung vor sich selbst.
 
-Das dicke, weiße Pergament entrollte sich mit einem trockenen Knacken. Das rote Siegelwachs, obwohl im Eilschritt gefälscht und mit dem Ring eines verstorbenen Notars geschlagen, blitzte im fahlen Mittagslicht auf wie frisches Blut.
+Er nickte seinen Leuten zu. Die vier wichen zurück in den Schatten der römischen Quader, lautlos, wie Wölfe, die sich mit einem Brocken begnügen, um nicht gegen die Lanzen des Hirten antreten zu müssen. Das Fleisch verschwand unter ihren Lumpen, und binnen weniger Herzschläge hatte der kalte Rauch der Ruine sie wieder verschluckt.
 
-»Ich bin Notar des königlichen Hofes zu Worms, unterwegs im geheimen Auftrag für die Kurie zu Metz!«, deklamierte Otwin. Seine Worte waren wie Peitschenhiebe. Er sprach das Romanische der Männer so fehlerfrei, mit dem arroganten Tonfall der bischöflichen Beamten, dass die Kriegsknechte unwillkürlich zurückwichen. »Wir führen keine Fracht für Krämer! Dies hier sind Schriften und Geleitbriefe für den Bischof Adventius selbst! Glaubt ihr Tölpel, dass die Könige Ludwig und Karl ihre Eide schwören, damit Deserteure an der Zaberner Steige den Zorn der Kirche auf sich laden?«
+Alda wartete nicht, bis sie es sich anders überlegten.
 
-Er hielt das Pergament hoch, sodass die Männer die kunstvollen, geschwungenen Majuskeln und das schwere Siegel sehen konnten. Keiner von ihnen konnte lesen, das sah Alda an den stumpfen, wandernden Blicken. Aber sie kannten Pergament. Pergament bedeutete Macht. Pergament bedeutete Grafen, Vögte, Galgen und den Bannstrahl der Bischöfe.
+»Hüh!«, rief sie leise, aber scharf.
 
-»Hier!«, rief Otwin und trat noch einen Schritt vor, direkt auf die Spitze von Guiberts Lanze zu, ohne mit der Wimper zu zucken. »Lies es, wenn deine Augen nicht so verfault sind wie dein Verstand! Wer diese Karren anrührt, verfällt der Reichsacht und dem großen Bann! Wollt ihr vor den Richterstühlen von Metz und Aachen als Straßenräuber enden, nachdem ihr für den Kaiser geblutet habt?«
+Sie riss die Zügel an. Die Zugrösser stemmten sich mit aller Kraft in das Geschirr, die Muskeln an ihren Kruppen spannten sich wie Seile, und mit einem schweren Ruck setzte sich der Wagen wieder in Bewegung. Die Eisenräder rumpelten über die alten Steinplatten, ließen die Ruine hinter sich und rollten dem nahen Passkamm entgegen.
 
-Der Krieger mit der Narbe wechselte einen unruhigen Blick mit seinen Kumpanen. Der Jüngere mit den fiebrigen Augen senkte die Lanze ganz.
+Erst als sie zwei Kehren weiter oben waren und der Fichtenwald den römischen Posten vollends verdeckt hatte, ließ Alda die Tiere wieder verschnaufen. Der Weg wurde hier breiter, der Schnee lag tiefer, doch das Gefälle flachte merklich ab. Sie hatten den Scheitelpunkt der Zaberner Steige erreicht. Vor ihnen, nach Westen hin, riss die Wolkendecke für einen kurzen Augenblick auf und gab den Blick frei auf die weite, nebelverhangene Ebene Lothringens.
 
-»Metz?«, knurrte der Narbige, doch die Härte war aus seiner Stimme gewichen. Der Zweifel nagte an ihm. Ein Schreiber, der so sprach, der ohne Waffen auf fünf Bewaffnete zutrat und sie im Ton eines Herrn tadelte, konnte kein gewöhnlicher Flüchtling sein. In der Welt dieser Männer bedeutete Bildung Gewalt – die unsichtbare, tödliche Gewalt der Herrschenden, die Dörfer niederbrennen und Heere in Marsch setzen konnte.
+Alda drehte sich um. Otwin lehnte an der Bordwand des Wagens. Seine Knie hatten nachgegeben, er saß im Schnee, das Pergament krampfhaft an die Brust gepresst, und zitterte am ganzen Leib, als schüttle ihn das Sumpffieber. Der Eichenknüppel lag achtlos neben ihm im Matsch.
 
-»Wir... wir dachten, ihr wärt Schieber«, murrte der Anführer. Er wechselte ins gebrochene Romanisch zurück, klang nun fast entschuldigend. »Es kommen viele Krämer hier durch, die den Zoll prellen und Korn nach Lotharingen schaffen.«
+Sie ging zu ihm hinüber, stellte sich vor ihn und sah auf ihn herab. In ihren Augen lag kein Hohn, sondern ein neues, vorsichtiges Begreifen. Sie hatte ihn für einen Parasiten gehalten, für einen feigen Handlanger Raginberts, der nur existieren konnte, solange er sich hinter Schreibtischen und Gerichtsdienern verkroch. Doch hier oben, im Angesicht blanken Stahls, hatte er eine Waffe geführt, die tödlicher war als eine Lanze. Er hatte die Sprache gedreht wie ein erfahrener Steuermann das Ruder im Strudel; er hatte den Dialekt der Männer wie ein Fangnetz ausgeworfen und sie mit toter Tinte gefesselt.
 
-»Hältst du mich für einen Kornhändler, Hund?«, fuhr Otwin ihn an. Alda hielt den Atem an; der Schreiber trieb es auf die Spitze. Er spielte um ihr aller Leben. »Sieh dir das Siegel an! Wenn wir nicht bis zur nächsten Vesper an der Station der Bischofsknechte hinter Phalsbourg sind, reitet eine Schwadron Reiter den Pass herauf, um nach uns zu suchen. Und wisst ihr, was sie mit Rotten machen, die den Boten der Könige im Weg stehen? Man hängt sie an den Füßen an die Tannen und lässt sie erfrieren.«
+»Was stand auf dem Leder?«, fragte sie leise.
 
-Ein eisiger Windstoß fuhr durch die Ruine, fuhr durch die zerschlissenen Mäntel der Krieger. Einer der Männer bekreuzigte sich hastig mit der Linken, während seine Rechte noch die Axt hielt.
+Otwin hob den Kopf. Sein Gesicht war schweißnass, die Lippen spröde vor Frost. Er brachte ein heiseres, trockenes Lachen zustande, das eher wie ein Würgen klang.
 
-»Wir wollen keinen Ärger mit der Kirche«, knurrte der Anführer schließlich. Er spuckte erneut aus, diesmal zur Seite. »Aber der Weg ist schlecht, Herr Schreiber. Der Schnee liegt hüfthoch hinter der Senke. Und die Wölfe sind hungrig.«
+»Es … es ist ein Verzeichnis über Bauholzzuteilungen für das Kloster Neuwiller«, flüsterte er und strich mit zitternden Fingern über das Wachssiegel. »Fünfzehn Stämme Eiche, geschlagen im Winter vor drei Jahren. Gesiegelt vom Küchenmeister.«
 
-»Gott schützt die Seinen«, erwiderte Otwin kalt. Er rollte das Pergament zusammen, langsam, bedächtig, und steckte es zurück in sein Wams. »Und euch schützt er vielleicht auch vor dem Strick, wenn ihr uns den Weg freimacht. Tretet zurück.«
+Alda stieß einen kurzen, rauen Atemzug aus. Ein Lächeln umspielte ihre Lippen, hart und humorlos, aber voller Respekt für das Wagnis.
 
-Der Narbige starrte Otwin noch einen langen Atemzug lang an. Es war der Moment, in dem die Waagschale schwankte – zwischen Mordgier und dem tief sitzenden, abergläubischen Schrecken vor der Macht der Schrift und des Klerus.
+»Du hast sie mit Brennholz in die Flucht geschlagen«, sagte sie.
 
-Dann winkte der Anführer mit der Axt ab. »Lasst sie durch. Sollen sie den Berg hinabkriechen. Hier oben gibt es für uns nichts zu holen als schlechtes Latein.«
+»Ich habe sie mit ihrer eigenen Furcht geschlagen«, erwiderte er, und zum ersten Mal klang seine Stimme wieder fest, getragen von jenem Hochmut der Gelehrten, der sie in Straßburg so abgestoßen hatte, der ihr hier oben aber das Leben gerettet hatte. »Sie können kein Latein. Für sie ist jedes Zeichen auf diesem Leder der Wille Gottes oder der Zorn des Königs. Es kommt nicht darauf an, was geschrieben steht, Alda. Es kommt nur darauf an, wer es ausspricht und wer daran glaubt.«
 
-Die Männer traten beiseite, zogen sich langsam in den Schatten der römischen Mauern zurück, wo ihr elendes Feuer glomm. Ihre Blicke blieben feindselig, aber sie rührten sich nicht mehr.
+Alda blickte auf das Pergament hinab. Das Leder war fleckig, der Rand von Mäusen angenagt, doch es hatte vier Klingen gebändigt, ohne dass ein Tropfen Blut geflossen war. Sie begriff mit einer plötzlichen, eisigen Klarheit, warum Raginbert Männer wie Otwin an seiner Seite hielt. Das Pergament war nicht bloß Gedächtnis; es war ein Herrschaftsinstrument, unsichtbar und bindend wie die Eisenketten an ihren Schiffen. Wer die Schrift besaß, besaß die Welt der Dummen und der Gläubigen.
 
-Alda stieß den Atem aus, der ihr in der Brust gestockt hatte. Sie sah zu Otwin.
+Sie streckte die Hand aus, packte Otwin am Kragen seines Schafspelzes und zog ihn mit einem kräftigen Ruck auf die Beine. Er taumelte kurz, fand aber Halt an der Wagendeichsel.
 
-Der Schreiber stand kerzengerade, das Kinn erhoben, doch als er sich langsam umwandte, um wieder neben den Karren zu treten, sah Alda seine Hände. Sie zitterten so heftig, dass er die Finger in den Saum seines Kittels krallen musste, um es zu verbergen. Seine Lippen waren blau, seine Stirn glänzte von kaltem Schweiß.
+»Steh auf, Schreiber«, sagte sie, und ihre Stimme war nicht mehr so schneidend wie am Morgen. »Verstaue dein Holzverzeichnis gut. Wir sind noch nicht in Marsal.«
 
-»Weiter«, flüsterte er heiser, und diesmal war es wieder die Stimme des verängstigten Mannes aus ihrer Stube. »Geh weiter, Alda. Um Christi willen, bleib nicht stehen.«
+Sie wandte sich um und blickte nach Westen, wo die Sonne als blasse, rote Scheibe hinter den fernen Nebelbänken der Seille versank. Der Abstieg würde steil werden, und der Frost zog bereits wieder an. Die Ränder der Schlammpfützen erstarrten zu dünnem, splitterndem Glas.
 
-Alda riss am Führstrick des Leitstiers. »Hüh!«, rief sie, und ihre Stimme brach fast vor Anspannung.
+»Kletter auf den Bock«, ordnete sie an und nahm die Zügel wieder auf. »Die Rösser haben verschnauft. Wir müssen vor der völligen Dunkelheit den Talboden erreichen, sonst frieren uns die Räder fest.«
 
-Berto trieb die Ochsen des zweiten Karrens an. Das schadhafte Rad kreischte laut im eisigen Wind, als es über die alten Steinquader der Heidenmauer rollte, direkt an den Bewaffneten vorbei. Alda blickte starr geradeaus. Sie spürte die Augen der Männer in ihrem Rücken wie Pfeilspitzen zwischen den Schulterblättern. Zehn Schritt. Zwanzig Schritt. Das Knarren des Holzes schien ohrenbetäubend zu sein. Jeden Augenblick erwartete sie den Ruf, den Schlag einer Axt in Bertos Rücken, das Splittern des Karrens.
-
-Doch nichts geschah.
-
-Erst als die römischen Mauern hinter einer Biegung verschwanden und der Weg begann, sich sanft nach Westen hinabzuneigen, ließ der mörderische Druck nach. Der Wind blies ihnen nun in den Rücken. Vor ihnen öffnete sich die weite, neblige Hochebene von Lothringen – ein endloses Meer aus grauen Wäldern, fernen Flussläufen und tief hängenden Wolken.
-
-Berto ließ die Peitsche sinken und sank gegen die Bordwand des Wagens. Er schluchzte einmal trocken auf, wischte sich mit dem schmutzigen Ärmel über das Gesicht und starrte Otwin an, als sähe er einen Geist.
-
-»Herr Jesus...«, stammelte der Knecht. »Herr Schreiber... ihr habt... ihr habt die Teufel verhext.«
-
-Otwin antwortete nicht. Er taumelte zwei Schritte vorwärts, stützte sich an einer krummen Tanne ab und übergab sich geräuschvoll in den schneematschigen Graben. Sein ganzer Körper bebte in krampfhaften Zuckungen. Er war kein Held. Er war ein Schreiber, der gerade dem Tod ins Auge geblickt hatte und dessen Eingeweide nun ihren Tribut forderten.
-
-Alda trat an ihn heran.
-
-Sie reichte ihm den ledernen Wasserschlauch, den sie am Gürtel trug. Otwin nahm ihn mit zitternden Händen, spülte sich den Mund aus und stieß ein gequältes Stöhnen aus.
-
-»Ich dachte... ich dachte, der mit der Narbe spaltet mir den Schädel«, flüsterte er, ohne sie anzusehen. Er kauerte am Wegrand, elend und durchnässt, das Pergament unter seinem Wams eine feuchte Beule auf seiner Brust. »Mein Latein... es war erbärmlich. Ich habe zwei Fälle verwechselt. Ein echter Kanzler hätte mich ausgelacht.«
-
-Alda sah auf ihn hinab.
-
-In ihrem Kopf hallten noch immer die Worte ihres toten Mannes Heinrich wider, die Giseler ihr an der Zollstation ins Gesicht geschleudert hatte. Heinrich hatte geglaubt, alles mit Fäusten, mit geheimen Bündnissen, mit schnellen Griffen nach fremdem Silber lösen zu können. Er hatte gedacht, die Welt gehöre den Starken und Dreisten – und war daran zugrunde gegangen, hatte sie alle an Raginbert verkauft.
-
-Und hier saß ein schwacher, feiger Mann im Schlamm, dessen Muskeln kaum taugten, um ein Rad anzuheben. Aber er hatte fünf Mörder mit nichts als Wörtern in die Flucht geschlagen. Nicht mit Eisen. Mit der Art und Weise, wie er die Zunge wendete, wie er das Romanische sprach, wie er das Pergament hielt. Sprache war nicht nur Zierrat für Mönche und Könige. Sprache war ein Schild. Eine Waffe, schärfer als Giselers Schwert, wenn man wusste, wie man sie führte.
-
-Alda kniete sich neben ihn in den nassen Schnee. Sie nahm den Wasserschlauch zurück, verschloss ihn und legte ihre Hand auf seine schmale, zitternde Schulter. Das grobe Tuch seines Kittels war eiskalt, doch darunter spürte sie das wilde, lebendige Hämmern seines Blutes.
-
-»Der Kanzler war nicht da«, sagte sie leise, und ihre Stimme war frei von der Härte der letzten Tage. »Aber die Deserteure waren da. Und du hast uns das Leben gerettet, Otwin.«
-
-Er hob den Kopf. Seine geröteten, feuchten Augen suchten die ihren. Zum ersten Mal seit dem Tag im Heerlager lag keine Lüge, kein Ausweichen in seinem Blick, nur die nackte, erschöpfte Wahrheit eines Menschen, der seine eigene Grenze überschritten hatte.
-
-»Ich bin kein Krieger, Alda«, flüsterte er.
-
-»Nein«, erwiderte sie, und ein schwaches, grimmiges Lächeln zuckte um ihre Mundwinkel. »Bist du nicht. Gottlob.«
-
-Sie stand auf und reichte ihm die Hand. Otwin zögerte einen Herzschlag lang, dann ergriff er ihre schwieligen, von der Arbeit aufgerissenen Finger und ließ sich von ihr auf die Beine ziehen.
-
-»Komm«, sagte Alda und wandte sich dem Abstieg zu. Der Westwind trug den Geruch von Torffeuer und fernen Salinen an ihre Nase. »Wir haben noch einen langen Weg vor uns. Und in Marsal werden wir jedes einzelne deiner verdammten lateinischen Worte brauchen.
-
-«
-
-Berto schnaubte, während er den Bremsbalken mit einem hölzernen Keil nachjustierte, um dem abfallenden Hang die Wucht zu nehmen. »Herrin, wenn wir nicht vor dem Dunkelwerden einen Unterstand finden, frieren uns die Tiere fest. Die Ochsen zittern bis in die Kniekehlen.«
-
-»Hinter dem Sattel gibt es eine Senke«, erwiderte Alda und wischte sich den grauen Schneematsch von den Fäustlingen. »Dort drüben stehen Buchen, die den Wind brechen. Wir schlagen das Nachtlager erst auf, wenn der Pass uns den Rücken deckt.«
-
-Sie fasste die Deichsel des vorderen Wagens fester, stemmte ihr Gewicht gegen das Gefälle und spürte das mahlende Knirschen der alten Steine unter ihren Sohlen. Neben ihr ging Otwin schweigend, den Kopf tief in den nassen Kragen gezogen, doch seine Schritte waren fester geworden, verankert im feuchten Lehm des Abstiegs. Über ihnen riss die Wolkendecke für einen flüchtigen Herzschlag auf und gab den Blick frei auf das weite, dämmernde Land im Westen, wo zwischen Nebelstreifen und dunklen Waldrücken der Weg nach Marsal lag.
+Otwin nickte stumm, steckte das Pergament sorgfältig in die Ledertasche zurück und stieg schwerfällig auf den Wagen. Alda schnalzte mit der Zunge, das Holz ächzte, und der schwere Karren begann seinen Abstieg in die lothringische Ebene, hinein in das Land des Salzes und der fremden Gesetze.
 

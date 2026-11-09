@@ -1,148 +1,104 @@
 ## Die Pfannen von Marsal
 
-Der Morgen schmeckte nach Asche und feuchtem Kalk. Als die Ochsen ins Joch traten und die nassen Lederriemen knarzten, brach das Seille-Tal vor ihnen auf wie eine offene, schwärende Wunde im Leib der Erde. 
+Der Morgen kroch nicht mit Licht in das Tal der Seille, sondern mit einem grauen, beißenden Schleier, der die Kehle zusammenschnürte, noch ehe der letzte Stern verloschen war. Es roch nach modrigem Schilf, nach fauligem Grundwasser und vor allem nach dem Ruß ungezählter Feuer, die Tag und Nacht kein Ende fanden. Als Alda die Rösser anspannte, schüttelte der Braune unruhig die Mähne; die Nüstern des Tiers waren von feinen, weißen Flocken bedeckt, die wie Reif aussahen, auf den Lippen jedoch salzig und scharf schmeckten.
 
-Alda führte das vordere Gespann am Leitseil. Der Schlamm des Hohlwegs sog schmatzend an ihren Bundschuhen, fett und schwer von uraltem Schiefer und ausgelaugter Erde. Was sie von der Anhöhe aus als milchigen Frühlingsnebel erahnt hatten, erwies sich nun als dichter, beißender Qualm. Er kroch nicht friedlich über die Wiesen; er wälzte sich träge zwischen den Hängen, gelblich-weiß, geschwängert vom Gestank verbrannten Eichenholzes, fauligem Flusswasser und einer scharfen, ätzenden Salzigkeit, die sich sofort auf die Lippen legte und die Zunge pelzig machte.
+Otwin trat fröstelnd an das Fuhrwerk. Die lederne Tasche presste er fest an seine Rippen, als befürchte er, der feuchte Dunst könne die Tinte von den Häuten fressen. Seine Lippen waren spröde und rissig vom Hauch der Salinen, der schon hier oben an den Ausläufern der Hügel wie verdünnte Lauge auf der Haut brannte.
 
-»Herr erbarme dich«, murmelte Knecht Berto hinter ihr. Er führte den zweiten Karren, dessen angebrochene Radfelge bei jeder halben Umdrehung ein trockenes, knackendes Klagelied anstimmte. Er hatte sich die grobe Wollkappe tief über die Stirn gezogen, doch seine Augen tränten unaufhörlich.
+»Die Pfannen brennen ohne Rast«, sagte er heiser und deutete mit dem Kinn hinab in den Talkessel. »Sie verfüttern ganze Eichenwälder an die Gruben. Wer hier die Hand auf dem Salz hat, befehligt mehr Knechte als ein Grenzgraf.«
 
-Otwin ging neben Alda. Er schwieg, die Hände fest in die Ärmel seiner zerschlissenen Gugel vergraben, die Daumen in den Stoff gekrallt. Unter seinem Arm drückte er die lederne Umhängetasche an die Rippen, darin das Pergament mit dem klösterlichen Siegel und Heinrichs beschriebene Wachstafeln samt den Schuldvermerken auf Berengar, den Salzfaktor. Er blinzelte gegen den Rauch an, der wie ein Leichentuch über den Dächern von Marsal lag.
+Alda griff nach den Hanfzügeln, wickelte das raue Tauwerk zweimal um ihre lederbewehrte Faust und trat auf den Bohlenweg hinaus, der in den Talgrund führte. »Mir gleich, wie viele Knechte sie zählen«, entgegnete sie, ohne den Blick von der Spur zu wenden. »Das Vorkaufsrecht trägt das Wachs von Sankt Arnulf. Das Kloster nimmt das Getreide unserer Rheinebene jedes Jahr; sie werden das Zeichen ihres eigenen Propstes kennen.«
 
-Hier gab es kein Grün mehr. Wo an den Hängen der Vogesen noch Buchen und Bergahorn gestanden hatten, ragten im Tal nur noch schwarze Stümpfe aus dem Boden. Ganze Wälder waren in die Schlunde dieser Öfen gewandert. Die Ufer der Seille waren gesäumt von riesigen Bergen aus rotbraunem Schutt – Halden aus zerbrochenen Tonröhren, zersprungenen Ziegeln und feinem, ziegelrotem Mehl, das knirschend unter den eisernen Beschlägen der Wagenräder nachgab.
+Der Weg hinab nach Marsal war keine Straße für geschmeidige Reitpferde. Schwere Karrgleise hatten sich tief in den Lehm gefressen, ausgelegt mit gespaltenen Erlenstämmen, die unter den Eisenreifen des Wagens stöhnten und fauliges Wasser emporspritzten. Je tiefer sie kamen, desto dichter schloss sich der Wald aus Rauch über ihnen. Die Hänge waren kahl geschlagen; kein einziger ausgewachsener Baum stand mehr auf den Kuppen, nur noch verkrüppeltes Gestrüpp und gigantische Halden aus grauem, verbranntem Ton. Es waren die Scherben unzähliger zerschlagener Ziegelformen – die Briquetage-Hügel, auf denen die Salzsieder seit den Zeiten der alten Heidenkönige ihre Siedestätten errichtet hatten.
 
-»Die Briquetage«, flüsterte Otwin, und seine Stimme klang heiser in der beißenden Luft. »Die Alten haben schon zu Römerzeiten die Tonkelche zerschlagen, um an den Salzkern zu kommen. Seit tausend Jahren wächst dieser Berg aus Scherben.«
+Als das Fuhrwerk die ersten Hütten von Marsal erreichte, schlug ihnen der Lärm wie eine Brandung entgegen. Es war kein Markttreiben, wie Alda es von Straßburg kannte, kein Rufen der Tuchhändler und kein Gesang der Schiffer. Es war das dumpfe, unablässige Dröhnen von schweren Hämmern, das Bersten von Scheitholz und das zischende Brüllen von kochendem Wasser. 
 
-Alda sah nicht auf die Scherben. Sie sah auf das, was lebte und litt. Aus dem Dunst schälten sich die langen, flachen Hütten der Siedestellen. Dazwischen bewegten sich Gestalten, kahlgeschoren oder mit rußverklebten Haaren, bloßfüßig im schlammigen Solewasser, die Leiber nur von schmutzigen Leinenkitteln bedeckt. Männer schleppten daumendicke Prügel aus Eichenspaltholz heran, aufgestapelt zu gewaltigen Wänden, die aussahen wie Festungsmauern. Aus den offenen Seiten der Hallen schlug ihnen die Hitze entgegen – kein wärmendes Herdfeuer, sondern eine sengende, feindselige Glut, die die Haut auf Aldas Wangen binnen weniger Schritte spannte und austrocknete.
+Rechts des Weges öffnete sich eine langgestreckte Hütte aus lehmverputztem Flechtwerk, deren Schindeldach von Ruß und Salzkrusten vollkommen geschwärzt war. Durch die offenen Seitenluken sah Alda die Herde. Gewaltige, viereckige Pfannen aus genieteten Eisenplatten ruhten auf niedrigen Sockeln aus Bruchsteinen; darunter loderten Holzfeuer von solcher Glut, dass die Luft über den Rändern flimmerte wie über einer Schmiede. Halbnackte Männer, deren Haut von Asche grau und von der Hitze ledrig gebrannt war, stießen mit langen hölzernen Krücken in die brodelnde Sole. Sie schöpften den nassen, weißen Schaum ab, der sich an den Rändern ansetzte, und warfen ihn in kegelförmige Weidenkörbe, aus denen die bittere Mutterlauge zurück auf den gestampften Boden tropfte.
 
-Das Pochen war allgegenwärtig. Es war das dumpfe Dröhnen hölzerner Schlägel, das Zischen von siedendem Wasser auf glühendem Eisen, das metallische Scheppern schwerer Kratzer, mit denen die Sieder die Salzkrusten aus den Pfannen brachen. Über allem lag das Brüllen der Aufseher, ein raues, abgehacktes Romanisch, durchsetzt mit den harten Flüchen der alamannischen Holzknechte.
+Der Gestank nach Schwefel, nassem Buchenholz und heißem Eisen schnürte Alda für einen Herzschlag den Atem ab. Die Hitze, die aus den Luken schlug, trocknete den Schweiß auf ihrer Stirn augenblicklich zu einer juckenden Schicht.
 
-»Halt! Wer da?«
+»Weiter«, murmelte sie den Rössern zu, die scheuten, als ein Schwall weißer Dampf quer über den Bohlenweg trieb. »Ruhig, Brauner. Es ist nur Dampf. Nur Wasser und Feuer.«
 
-Zwei Wächter traten aus dem Qualm an der Brücke über die Seille. Sie trugen keine Kettenhemden, nur dicke Wämser aus ungegerbtem Rindsleder, bewehrt mit eisernen Ringen an den Schultern, und hielten lange Spieße mit Widerhaken quer über den Weg. Hinter ihnen erhob sich das feste Torhaus von Marsal, gekrönt vom steinernen Kreuz des Bistums Metz.
+Zwei Fuhrknechte, die einen gewaltigen Stamm zur Feuerung wälzten, hielten inne. Ihre Gesichter waren rußverschmiert, die Augen von der beißenden Luft rot gerändert. Keiner von ihnen grüßte. Sie starrten auf Aldas Planwagen, auf das fremde Geschirr der Pferde und auf Otwin, dessen saubere Klerikertracht hier unten wirkte wie ein weißes Tuch auf einem Misthaufen. Ein hagerer Mann mit einer tiefen Brandnarbe am Unterarm spie einen braunen Schleimfaden vor das linke Zugross.
 
-Otwin trat sofort vor. Seine Haltung veränderte sich mit einem Wimpernschlag; die geduckte Scheu des Gejagten fiel von ihm ab wie ein nasser Mantel. Er richtete den Rücken auf, reckte das Kinn und legte die Hand auf die Tasche, als trüge er die königliche Kanzlei selbst mit sich.
+»Hier gibt es kein Korn zu kaufen, Weib«, rief er mit harter, lothringischer Zunge, die Worte kurz und abgehackt wie Axtschläge. »Und wer Holz bringt, fährt links zum Schuppen.«
 
-»Im Auftrag des Klosters«, sprach er, und seine Stimme trug die geschliffene Kälte eines Mannes, der an Kirchenpforten und Gerichtsschranken groß geworden war. »Frachtkarren aus dem Elsass, bestimmt für das Salzamt des ehrwürdigen Bischofs Drogo. Weicht zurück und lasst die Gespanne passieren.«
+»Ich suche nicht den Schuppen«, erwiderte Alda ruhig. Sie hielt das Gespann mit festem Zug an den Leinen an, musterte die Muskelstränge an den Armen des Mannes und den schweren Schürhaken, den er wie einen Spieß hielt. »Ich suche den Kellerer des Stifts. Den Mann, der die Verteilung für Sankt Arnulf führt.«
 
-Die beiden Wachknechte sahen einander an. Der Ältere, ein Mann mit pockennarbigem Gesicht und einer Nase, die einst mit einem Hiebschwert gespalten worden war, spuckte einen braunen Kautabak- oder Kräuterklumpen in den Solematsch vor Bertos Stiefel.
+Der Mann verzog das Gesicht, wobei sich das vernarbte Gewebe an seiner Wange weiß spannte. Er lachte nicht, doch in seinen Augen lag die kalte Geringschätzung derer, die das ganze Jahr über der Glut standen, für die Schmarotzer, die das weiße Korn wogen. »Der Bruder sitzt im Steinaus. Aber spar dir die Sohlen. Der Propst hat heute keine Ohren für Bettelweiber aus dem Osten.«
 
-»Schreiberling«, knurrte der Bewaffnete auf Fränkisch, dessen Laute hart und kehlig klangen. »Jeder Lump aus den Bergen schwingt heute das Kreuz und faselt von Bischof Drogo. Der Verwalter sitzt im Zollhof. Ihr fahrt die Ochsen auf den Vorplatz. Wenn ihr einen Schritt in die Siedegassen macht, hacken meine Jungs euren Zugtieren die Sehnen durch. Verstanden?«
+Alda würdigte ihn keiner weiteren Antwort. Sie trieb die Rösser mit einem leisen Schnalzen an, vorbei an den Reihen der dampfenden Pfannen, wo der Salzstaub wie Mehl in den Radnaben knirschte. Hinter den Siedehütten erhob sich ein massiver Bau, dessen untere Lagen aus schweren, römischen Sandsteinquadern gefügt waren – Überreste einer alten Heidenfestung, auf die man ein wehrhaftes Stockwerk aus schwerem Eichenfachwerk gesetzt hatte. Über dem Torbogen prangte, in roten Sandstein gehauen, das Wappen des Metzer Stifts: ein aufrechtes Schwert, umkränzt von zwei Fischen.
 
-Alda legte Berto eine Hand auf den Arm, ehe der Knecht eine Dummheit sagen konnte. Sie nickte dem Wächter knapp zu. Sie kannte diesen Blick; es war derselbe Blick, mit dem die Zöllner am Schindertor die einfachen Fischer musterten, ehe sie ihnen den Fang abpressten. Macht, die sich aus der Furcht der Ohnmächtigen nährte.
+Vor dem Tor standen zwei Bewaffnete mit kurzen Lanzen und abgewetzten Lederwamsen. Als Alda das Fuhrwerk auf dem gepflasterten Vorplatz zum Stehen brachte, traten sie ihr nicht mit erhobenen Spitzen entgegen, sondern mit der trägen Wachsamkeit von Hofhunden, die genau wussten, dass hier niemand ohne Erlaubnis ein- oder ausging.
 
-Sie lenkten die Karren auf den gepflasterten Hof vor der bischöflichen Salzkammer. Hier war der Lärm gedämpfter, doch der Schwefel- und Salzgestank brannte noch tiefer in den Kehlen. An der Laderampe standen schwere, eisenbeschlagene Fässer, jedes mit dem Stempel des Metzer Domkapitels gebrandmarkt. 
+Otwin stieg vom Bock. Seine Knie schienen weich zu sein, doch er straffte den Rücken, strich seine Kutte glatt und trat mit erhobenem Kopf an das Tor. »Friede sei mit diesem Haus«, sprach er auf Latein, die Laute getragen und mit dem geschliffenen Tonfall der bischöflichen Kanzleien. »Wir kommen im Auftrag und mit dem Siegel des ehrwürdigen Konvents von Sankt Arnulf. Meldet uns bei Bruder Folbert.«
 
-Auf den Stufen zum Amtshaus stand der klösterliche Verwalter. Er trug eine saubere, dunkelblaue Tunika aus feinem flandrischem Tuch, deren Säume mit einfacher Seide eingefasst waren – ein Zeichen von Reichtum, der sich nicht im Schlamm bücken musste. Um seinen Hals hing an einer Schnur ein schweres Siegel aus Blei. Seine Hände waren weiß, die Fingernägel sauber gestutzt. Neben ihm stand ein Schreibpult auf drei Beinen, auf dem eine aufgerollte Pergamentbahn im feuchten Wind flatterte, beschwert mit einem Brocken Steinsalz.
+Die Wächter wechselten einen kurzen Blick. Einer von ihnen, ein stämmiger Kerl mit einem Schmiss über der Lippe, wandte den Kopf zur Torluke und rief etwas ins Innere, das Alda wegen des Dröhnens der fernen Hämmer nicht verstand. Nur wenige Herzschläge später öffnete sich die schwere, mit Eisenbändern beschlagene Tür einen Spaltbreit. Ein Mann trat heraus, gehüllt in eine saubere, dunkelbraune Mönchskutte aus feinem Wollstoff, die Ärmel sorgfältig aufgeschlagen, um keinen Ruß zu fangen. An seinem Gürtel baumelte ein gewichtiges Bündel aus bronzenen Schlüsseln und ein hölzernes Futteral für Schreibkiele.
 
-Otwin stieg die Steinstufen hinauf, zog das Pergament aus seiner Tasche und neigte den Kopf gerade so weit, wie es der Stand eines niederen Klerikers vor einem Amtsträger verlangte.
+Es war Bruder Folbert. Sein Gesicht war glatt rasiert, blass und fleischig, die Augen lagen tief unter schweren Lidern, die den Blick der Ankömmlinge prüften wie ein Zöllner das Tuch auf Webfehler.
 
-»Pax vobiscum, Frater«, begann Otwin auf Latein, mit jener flüssigen, fast singenden Betonung, die er in der Klosterschule gelernt hatte. »Wir bringen den Anspruch des verstorbenen Heinrich von Straßburg und seines lothringischen Händlers Berengar. Dreißig Fuder Siedesalz, verbrieft und gezeichnet zu den Iden des vergangenen Jahres, quittiert mit dem bischöflichen Zeichen zu Wissembourg und verbürgt über Berengars Salzkonto für die Kessel zu Marsal.«
+»Wer ruft den Namen des Patrons an diesem Ort der Plage?«, fragte er auf Deutsch, doch sein Ton war kalt, die Stimme glatt wie geschliffener Flusskiesel. Er sprach nicht laut, aber jedes Wort saß mit der unerschütterlichen Ruhe eines Mannes, der gewohnt war, dass vor seinen Pfannen die Fuhrleute den Hut zogen.
 
-Der Verwalter sah Otwin nicht einmal ins Gesicht. Er blickte über dessen Schulter hinweg auf die beiden armseligen Ochsenkarren, auf die geflickten Planen, auf Aldas vom Regen fleckigen Wollrock und Bertos zerschlissene Kappe. Ein dünnes, saures Lächeln kräuselte seine Lippen.
+Alda trat neben Otwin. Sie griff in ihr Wams, zog die drei mit Hanffaden zusammengebundenen Wachstafeln hervor und hielt sie dem Verwalter entgegen. »Ich bin Alda, die Witwe des Berengar aus Straßburg«, sagte sie fest. »Ich komme, um einzulösen, was meinem Mann rechtmäßig zusteht. Zwanzig Karren weißes Salz aus den Pfannen des Stifts, verbürgt durch dieses Siegel.«
 
-»Ich brauche dein Latein nicht, Bruder«, antwortete der Kleriker, und er sprach in der Volkssprache, hart und herablassend, damit auch die Knechte jedes Wort verstanden. »Ich weiß, wer ihr seid. Und ich weiß, was ihr wollt.«
+Bruder Folbert sah nicht auf ihre Hände. Er sah nicht einmal auf das Wachs, an dem noch der rote Stempel des Klosters pragte. Sein Blick glitt langsam an ihren derben Lederstiefeln hinauf, wanderte über ihren schmutzbefleckten Reisemantel und blieb schließlich an Otwins Gesicht hängen. Ein feines, kaum merkliches Zucken ging über seine Mundwinkel – kein Lächeln, eher das Erkennen eines Rechners, der eine Zahl wiederfindet, die er längst gestrichen hatte.
 
-Alda trat vor. Sie duldete nicht, dass man über Heinrichs Namen oder ihre Abmachungen sprach, als wären sie das Geschwätz von Bettlern. Sie stützte die Hände auf die Hüften, die Lederhandschuhe noch klamm vom Zügelstrick.
+»Berengar«, sprach der Mönch gelassen, als schmecke er das Wort probeweise ab. »Der Fuhrmann, der meinte, er könne mit den Großen am Tisch sitzen und das Brot der Könige brechen.«
 
-»Wenn Ihr wisst, wer wir sind, Herr Verwalter, dann wisst Ihr auch, dass das Silber für Berengars Zuweisung längst in Euren Kassen liegt. Wir sind hier, um die Ladung zu empfangen. Dreißig Fuder. Die Karren sind gerüstet, und wir zahlen das Wegezoll-Pfund, wie es der Brauch ist.«
+Aldas Hand verharrte in der Luft. Ein Stechen fuhr ihr durch die Brust, heißer als der Qualm der Siedepfannen. »Mein Mann hat dem Kloster Getreide und Eichenbalken über den Berg geschafft, als die Truppen von König Karl die Scheunen leerten«, erwiderte sie, und ihre Stimme schnitt durch den Rauch. »Er hat dafür kein Silber verlangt, sondern das Recht auf das Salz. Der Vertrag ist alt, aber er ist ungebrochen.«
 
-Der Kleriker musterte Alda nun doch. Seine Augen verengten sich zu schmalen Schlitzen. In seinem Blick lag jene unerschütterliche Verachtung, die Männer des geistlichen Standes für Weiber hegten, die sich anmaßten, über Silber und Verträge zu richten.
+»Ein Vertrag«, sagte Folbert leise und faltete die Hände in den weiten Ärmeln seiner Kutte, »besteht aus Treue und Bestand. Er ruht auf dem Boden des Vertrauens. Doch der Boden, Frau, auf dem dein Mann stand, ist bei Fontenoy im Blut versunken.«
 
-»Eine Frau, die wie ein Fuhrmann schwätzt«, sagte er leise. »Die Welt ist wahrlich aus den Fugen geraten, seit die Könige sich wie die Wölfe um das Erbe Kaiser Ludwigs reißen.« Er griff nach dem Pergament, das Otwin ihm hinhielt, warf nicht einmal einen Blick auf die Schriftzeilen, sondern drehte es nur einmal zwischen zwei Fingern um, ehe er es mit einer wegwerfenden Handbewegung zurückreichte. »Dein Mann mag Heinrich geheißen haben, Weib. Und Berengar mag hier einst als ehrbarer Faktor gegolten haben. Doch sein Name taugt hier nichts mehr. Sein Kredit ist tot.«
+Otwin trat einen halben Schritt vor. »Das Recht des Klosters stirbt nicht mit dem Mann, Ehrwürdiger«, warf er ein, die Kanzleisprache wie einen Schild vor sich tragend. »Das Siegel des Priors bindet die Gemeinschaft der Brüder über den Tod der Vertragspartner hinaus. Das Gesetz der Kirche—«
 
-»Berengars Kredit?«, stieß Alda hervor. Ein eisiger Stich fuhr ihr in die Magengrube. Sie spürte, wie ihr das Blut in die Schläfen schoss. »Berengar bürgt seit zehn Wintern für das Elsässer Fuhrrecht an diesen Kesseln! Die Frist läuft bis zur Sommersonnenwende! Wir haben Mai! Kein Kirchenfest, kein Landrecht spricht Euch das Recht zu, einen verbürgten Kontrakt vor der Zeit zu brechen!«
+»Sprich mir nicht vom Gesetz der Kirche, entlaufener Kleriker«, schnitt Folbert ihm das Wort ab. Es geschah ohne Zorn, fast beiläufig, doch die Schärfe traf Otwin wie ein Rutenhieb. Der Schreiber erstarrte; die Farbe wich aus seinen Wangen, und seine Finger krallten sich in das Leder seiner Tasche. Folbert sah ihn nicht einmal mehr an, als er weitersprach. Seine Aufmerksamkeit galt wieder ganz Alda.
 
-»Schweig, Weib!«, herrschte der Verwalter sie an, und seine Stimme schnitt scharf durch den Qualm des Hofes. »Du stehst auf dem Boden des heiligen Stephanus zu Metz! Hier gilt das Wort des Bischofs und der Wille unseres Herrn, König Lothars!«
+»Vor drei Tagen«, fuhr der Verwalter fort, und jedes Wort wog so schwer wie ein Karrenstein, »kam ein Bote aus dem Elsass über die Steige geritten. Ein Mann im Wams des Grundherrn Raginbert, versehen mit dem Zeichen des Straßburger Vogts.«
 
-Er trat einen Schritt näher an die Kante der Stufen heran, beugte sich leicht vor und fixierte Alda mit unverhohlener Bosheit.
+Alda hielt den Atem an. Ein kalter Schauer lief ihr über den Nacken, während der Schweiß auf ihren Schläfen brannte. Raginbert. Seine Hand reichte weiter als die Zaberner Steige; sein Schatten war schneller gereist als ihre schweren Zugrösser.
 
-»Vor fünf Tagen traf eine Gesandtschaft aus dem Ostfrankenreich hier ein. Berittene Boten. Sie trugen Briefe des edlen Grundherrn Raginbert, gesiegelt von den Schöffen zu Straßburg und bezeugt von Metzer Domkanonikern.« Er machte eine Kunstpause, genoss das Erbleichen, das Otwins Züge überzog. »Raginberts Boten haben uns die Augen geöffnet. Heinrich war ein eidbrüchiger Schuldner. Und dieser Berengar, auf dessen Gutgläubigkeit und Silber ihr euch beruft? Ein windiger Schieber ohne Deckung, der mit faulen Wechseln hantiert. Raginbert hat offengelegt, dass Berengars Konten im Elsass gepfändet sind und kein einziges Pfund Silber aus seiner Hand je die königlichen Kassen erreichen wird. Berengars Kreditwürdigkeit ist dahin. Wer Bürgschaften eines Zahlungsunfähigen vorlegt, bekommt von diesem Stift nicht ein einziges Salzkorn.«
+»Der Bote überbrachte uns die Klage eines Gläubigers«, sprach Folbert mit der unbewegten Ruhe eines Richters, der einen längst beschlossenen Bann verkündet. »Er legte Zeugnis ab vor dem Kapitel. Dein Mann Berengar, so heißt es, war dem Grundherrn zu schwerstem Schaden verpflichtet. Dreißig Pfund Silber für Harnisch, Ross und Kriegsknechte. Ein Mann, der mit solchem Schuldbann belegt ist, besitzt kein Recht, das er an andere abtreten oder vererben könnte. Sein Vermögen ist verhaftet. Seine Ansprüche an Dritte sind hinfällig, bis das Silber vor dem Schöffengericht erlegt ist.«
 
-Alda starrte den Kleriker an. Das Entsetzen schnürte ihr die Kehle zu, gefolgt von einer Woge brennenden Zorns. Raginberts Boten waren nicht nur schneller gewesen – Raginbert hatte das Netz bis ins lothringische Salinental geknüpft. Er hatte nicht bloß Heinrichs Namen geschwärzt, sondern gezielt Berengars Ansehen als Faktor vernichtet, um jeden Anspruch im Keim zu ersticken. Selbst wenn die Urkunde standhielt: Ohne Berengars anerkannten Kredit war der Vertrag vor den klösterlichen Herren wertloses Zeug.
+»Das ist eine Lüge!«, stieß Alda hervor. Die Wut brach aus ihr heraus, roh und ungefiltert, wie das Bersten von trockenem Fichtenholz im Feuer. »Raginbert hat das Pergament erst aufsetzen lassen, als Berengar schon im Schlamm lag! Mein Mann hat ihm die Zinsen bar gezahlt, Kerbholz um Kerbholz, ich habe die Späne selbst in der Hand gehalten!«
 
-»Das ist eine verfluchte Lüge!«, rief Alda, und ihre Stimme überschlug sich fast. »Raginbert streut Gift, um sich Heinrichs Recht selbst anzueignen! Das Placitum in Straßburg hat entschieden! Graf Erchanger selbst hat mir die Frist bis Martini gewährt! Raginbert hat kein Recht, hier Ansprüche zu sperren oder Berengars Namen in den Schmutz zu ziehen!«
+Folbert neigte den Kopf leicht zur Seite. Sein Blick blieb kühl, frei von Mitleid, aber auch frei von Bosheit. Er tat lediglich das Werk seiner Herren, sauber und ohne Flecken auf dem Pergament zu hinterlassen.
 
-»Graf Erchanger?«, spottete der Kleriker und lachte trocken auf. »Was schert uns ein Graf Ludwigs des Deutschen? Wir sind hier im Reich Lothars, Frau. Eure Ostfranken-Urteile taugen hier bestenfalls dazu, die Siedepfannen anzufeuern. Und was Berengar betrifft: Das Domkapitel leiht keinem Mann Salz, an dessen Beutel Raginberts Zweifel haften. Wenn der Grundherr den Finger auf ihn legt, rühren wir seine Posten nicht mehr an.«
+»Wir sind Mönche, Frau. Wir führen keine Kerbhölzer, auf denen jeder Schiffer nach Belieben Kerben schneiden kann. Wir halten uns an das versiegelte Wort und an den Frieden unseres Klosters. Raginbert ist ein Freund unseres Konvents; seine Kähne bringen uns das Rheinlandtuch, sein Silber stiftet die Kerzen für unseren Altar. Meinst du im Ernst, der Propst von Sankt Arnulf riskiert den Zorn eines fränkischen Grundherrn und die Unruhe im Heerlager des Königs für die Witwe eines gefallenen Fuhrmanns?«
 
-Otwin trat dazwischen. Seine Hände zitterten, doch seine Stimme blieb erstaunlich fest: »Ehrwürdiger Bruder, das Salinenrecht fußt auf verbrieften Kontrakten, nicht auf Gerüchten reitender Boten! Das Salzamt verlangt Sicherheit, und Berengars Pfand ist seit den Karoli-Zeiten im Register verzeichnet. Kein privater Brief kann einen verbürgten Faktor aus dem Register tilgen, solange kein bischöfliches Urteil über seine Zahlungsunfähigkeit vorliegt! Die Pfannen arbeiten nach dem Maß, nicht nach dem Ruf!«
+Er deutete mit einer knappen Geste auf die drei Wachstafeln in Aldas Hand.
 
-Der Verwalter stieß Otwin mit der flachen Hand gegen die Brust. Es war keine gewaltsame Geste, aber eine von solcher Verachtung, dass der Schreiber zurücktaumelte.
+»Behalt dein Holz. Hier in Marsal wird kein Salzkorn auf deinen Wagen verladen. Weder heute noch morgen. Wenn du Sole willst, geh an den Fluss und schöpfe dir das Wasser mit den Händen. Aber die Pfannen des Klosters arbeiten für Männer, deren Kredit unbefleckt ist.«
 
-»Belehr mich nicht über das Register, abtrünniger Mönch! Glaubst du, ich rieche nicht die Klostertünche an deinen Lumpen? Du hast deine Tonsur herauswachsen lassen, aber der Schandfleck deiner Fahnenflucht brennt dir auf der Stirn. Noch ein Wort von dir, und ich lasse dich in den Turm werfen, bis die Vögte von Gorze kommen, um ihr Eigentum abzuholen!«
+»Das Kloster bricht sein eigenes Wort?«, fragte Alda. Sie zitterte nicht, doch ihre Muskeln spannten sich so hart an, dass die Knöchel ihrer Fäuste weiß hervortraten. »Ihr brecht das Siegel des Priors, weil ein reicher Grundherr euch mit seinem Schatten droht?«
 
-Otwin verstummte. Er wich einen Schritt zurück, die Augen geweitet, der Atem ging stoßweise. Alda sah, wie die nackte Todesfurcht ihn wieder ergriff – dieselbe Furcht, die ihn in Straßburg durch das Abortfenster getrieben hatte. Wenn der Verwalter ihn festsetzen ließ, war er verloren.
+»Das Kloster schützt sein Eigentum«, erwiderte Folbert ungerührt. »Und nun wende dein Gespann. Wenn der Karren zur Vesper noch vor dem Tor steht, lasse ich die Knechte die Stränge kappen. Das Holz der Deichsel brennt gut unter den Pfannen.«
 
-Der Kleriker wandte sich wieder an Alda. Sein Ton war nun geschäftsmäßig, eiskalt.
+Er wandte sich um, ohne ein weiteres Wort zu verlieren. Die schwere Holztür fiel ins Schloss; der Schließkeil drinnen glitt mit einem hohlen, metallischen Klacken vor, das wie das Zuschlagen eines Grabsteins klang.
 
-»Die dreißig Fuder Salz sind gesperrt. Berengars Zuweisung liegt unter dem Siegel Raginberts und des Metzer Domstifts, bis seine Zahlungsfähigkeit vor einem königlichen Tribunal erwiesen ist – was niemals geschehen wird. Wenn ihr Salz wollt, kauft es neu. Zum Kriegspreis. Vier Silberlinge der Korb, bar auf den Tisch, ohne Berengar, ohne Anschreiben. Ansonsten räumt diesen Hof, ehe ich die Knechte rufe, um eure morschen Karren auf den Schuttplatz zu kippen.«
+Stille senkte sich über den kleinen Platz, nur durchbrochen vom fernen Zischen der Sole und dem Heulen der Zugluft in den Essen.
 
-Er drehte sich um, trat an sein Schreibpult und begann, eine Feder in ein hornenes Tintenfass zu tunken, als existierten sie gar nicht mehr.
+Otwin stand wie gelähmt neben dem Rad. Seine Augen waren geweitet, die Schultern sackten nach vorne, als sei ihm das Rückgrat gebrochen worden. »Er weiß es«, flüsterte er heiser, und seine Stimme überschlug sich fast vor nackter Furcht. »Raginberts Bote hat alles vorbereitet. Er hat meinen Namen genannt, Alda. Wenn Isenbart hierherkommt... wenn sie mich fassen...«
 
-Alda stand regungslos. Das Dröhnen in ihren Ohren war lauter als das Schlagen der Hämmer in den Siedehütten. Dreißig Pfund Silber. Heinrichs Schande. Berengars zerstörter Ruf. Und Raginberts langer, gieriger Arm, der über die Vogesen griff, schneller als ihre Ochsen hatten ziehen können. Raginbert hatte nie vorgehabt, das Urteil des Grafen abzuwarten. Er hatte Boten geschickt, frische Pferde, die die Zaberner Steige in zwei Tagen überquerten, während sie sich durch Schlamm und Räuberüberfälle gekämpft hatte. Er hatte Berengar gezielt als Zahlungsunfähigen brandmarken lassen, damit sie hier vor verschlossenen Toren verhungerte.
+»Schweig«, herrschte Alda ihn an. Ihre Stimme war rau, aber sie schnitt durch seine Panik wie ein scharfes Messer durch feuchtes Tuch. »Halt den Mund und steig auf den Bock.«
 
-»Alda...«, flüsterte Berto leise hinter ihr. Der Knecht hielt die Ochsenpeitsche mit beiden Fäusten umklammert. »Die Wachen sehen her. Wir müssen weg.«
+»Wohin denn?«, stammelte er und blickte sich gehetzt um, als stünden die Häscher bereits zwischen den rauchenden Briquetage-Hügeln. »Wir haben nichts! Kein Recht, kein Salz, keinen Schutz! Das Siegel ist wertlos, Alda! Es ist nur noch ein Stück Wachs!«
 
-Sie sah die beiden Spießknechte, die langsam von der Brücke herüberschlurften, die Eisenspitzen gesenkt.
+»Ich habe gesagt: Steig auf.«
 
-»Wende die Ochsen, Berto«, sagte sie. Ihre Stimme klang vollkommen ruhig. Es war eine unheimliche, eisige Ruhe, die ihr selbst fremd war. »Wir fahren.«
+Sie wartete nicht, bis er gehorchte. Mit einem harten Ruck riss sie die Köpfe der Rösser herum. Die Tiere schnaubten unwillig, das Geschirr klirrte laut, und die schweren Holzspeichen krachten gegen das Pflaster, als sie das Fuhrwerk auf engstem Raum wendete. Sie trieb die Pferde nicht zurück auf den Pfad zu den Vogesen, sondern tiefer in die Gassen der Siedersiedlung hinein, dorthin, wo der Rauch am schwärzesten war und die Schindeldächer sich fast über dem Weg berührten.
 
-Sie wartete, bis Berto das Gespann mit mühsamen Rufen und Schlägen auf die Deichsel gewendet hatte. Die Räder knirschten tief im Schieferschutt. Sie sah nicht noch einmal zu dem Kleriker auf den Stufen zurück. Sie ging neben Otwins Karren her, hinaus aus dem befestigten Zollbezirk, über die Bohlenbrücke, die unter den Klauen der Tiere hohl widerhallte.
+Otwin stolperte hinterher, packte die Bordwand und zog sich hastig auf den Sitz, während der Wagen über die gefrorenen Spurrillen holperte. »Was tust du?«, keuchte er, den Kopf tief zwischen die Schultern gezogen. »Wir müssen weg von hier. Nach Metz, oder zurück in die Wälder—«
 
-Erst als sie die ersten Schutthalden hinter sich gelassen hatten und wieder im dichten, stinkenden Qualm der freien Siedestellen standen, packte Otwin sie am Ärmel. Seine Finger krallten sich in ihren nassen Wollstoff.
+»Wir fahren nirgendwohin, ehe dieser Karren nicht voll ist«, stieß Alda zwischen den Zähnen hervor. 
 
-»Alda, es ist vorbei«, keuchte er. Der Schweiß hatte Furchen in das Ruß auf seinem Gesicht gewaschen. »Du hast ihn gehört. Raginbert hat alles vergiftet. Er hat Berengars Namen vernichtet! Niemand in Lothringen gibt uns auch nur ein Pfund Salz auf Berengars Kredit. Er hat das Domkapitel gewarnt, die Zöllner geschmiert. Wir können gegen den Bischof von Metz nichts ausrichten. Nicht hier. Wenn sie mich greifen... wenn sie herausfinden, aus welchem Skriptorium ich geflohen bin...«
+Ihre Augen brannten vom Salzstaub, aber der Blick, mit dem sie die rauchenden Hütten musterte, war klar und scharf wie geschliffenes Eisen. Sie sah an den großen Klosterbauten vorbei. Sie sah auf die kleineren, windschiefen Hütten am Rande des Sumpfes, wo keine Wappen über den Türen prangten. Dort, wo Männer in abgerissenen Kitteln das Holz spalteten, wo Frauen die nassen Weidenkörbe auf Karren luden und wo der Ruß die Gesichter so dunkel färbte, dass kein Standesunterschied mehr zu erkennen war.
 
-Alda riss sich mit einem einzigen Ruck los. Ihre Augen flammten.
+Folbert hatte geglaubt, er könne sie mit einem lateinischen Wort und der Drohung eines Grundherrn verjagen wie eine lästige Fliege. Er kannte die Gesetze seiner Bücher, und er kannte das Silber der Reichen. 
 
-»Hör auf zu winseln, Schreiber!«, zischte sie ihn an. »Du hast gesagt, dein Verstand reicht so weit wie deine Tinte. Dann fang an zu denken, anstatt dir vor einem feisten Domherrn in die Hosen zu scheißen!«
+Aber er kannte nicht den Hunger nach dem Salz. Und er wusste nicht, wie Fuhrleute dachten, wenn ihnen das Wasser bis zur Kehle stand.
 
-»Was sollen wir denn denken?«, rief Otwin verzweifelt und deutete mit beiden Armen in das rauchende Tal. »Sie geben uns das Salz nicht heraus! Es liegt hinter Schloss und Riegel im bischöflichen Speicher, weil Berengars Bürgschaft nichts mehr wert ist! Und wir haben kein Silber, um auch nur einen einzigen Korb bar zu bezahlen! Vier Silberlinge! Das ist der zehnfache Preis!«
+Alda zügelte die Rösser vor einer einfachen Schmiede am Ufer des Solebachs, wo ein Mann mit bloßem Oberkörper ein krummes Pfanneneisen auf dem Amboss richtete. Die Funken sprühten weit in die graue Luft hinaus. Sie band die Zügel an der Deichsel fest, stieg vom Wagen und strich ihren Rock glatt.
 
-»Der bischöfliche Speicher«, wiederholte Alda langsam. Sie blieb stehen. Der beißende Geruch nach verdampfender Sole brannte in ihren Lungen, doch sie spürte ihn nicht mehr. Sie blickte an den gewaltigen Hallen entlang, die sich wie schwarze Scheunen am Flussufer aneinanderreihten.
+»Folbert herrscht über die Speicher«, sagte sie, ohne Otwin anzusehen, während sie den schweren Schafspelz fester um ihre Schultern schlug. »Aber er steht nicht an den Pfannen. Er schwitzt nicht über dem Feuer, und er schlägt kein Holz.«
 
-Überall stieg der Dampf auf. Nicht aus Schornsteinen – die Dächer waren offen, Lattenkonstruktionen, durch die der weiße Rauch in den grauen Himmel entwich. Und darunter arbeiteten Hunderte.
-
-Dort standen die Bleipfannen. Gewaltige, viereckige Becken aus zusammengeschmiedeten Bleiplatten, sechs, acht Schritt lang, aufgemauert auf Lehmöfen, in denen das Höllenfeuer brannte. Die Sole brodelte darin in wilden Blasen. Junge Burschen, deren Rücken von Brandblasen und Schorf gezeichnet waren, schürten die Glut mit langen Eisenstangen, warfen Scheit um Scheit in die Flammen, unersättlich, Tag und Nacht. Ältere Männer standen mit langen, durchlöcherten Holzschaufeln an den Rändern der Becken, im beißenden Dunst, und schöpften die feinen, glitzernden Kristalle ab, die sich an der Oberfläche bildeten, warfen sie in spitz zulaufende Weidenkörbe, damit die bittere Restlauge abtropfen konnte.
-
-Niemand von diesen Männern trug ein blaues Wolltuch. Niemand trug ein Siegel um den Hals.
-
-Ihre Gesichter waren verkrustet von weißem Salzstaub, ihre Lippen rissig und blutig von der Hitze, ihre Augen rot gerändert. Sie sprachen kein Kirchenlatein. Wenn ein Holzstoß zusammenbrach, fluchten sie im rauesten Landfränkisch, und wenn der Schöpfer den Takt verlor, brüllte der Kesselmeister in jenem kehlig-harten Dialekt, den Alda von den Flussschiffern am Rhein kannte.
-
-»Sieh sie dir an, Otwin«, sagte Alda leise. Der Zorn in ihrer Stimme war einer kalten, messerscharfen Klarheit gewichen.
-
-Otwin blinzelte verwirrt durch den Rauch. »Wen? Die Knechte? Das sind Kolonen. Hörige des Klosters und der Krone. Sie gehören zur Scholle wie das Vieh.«
-
-»Sie gehören zur Scholle, aber das Salz geht durch ihre Hände«, entgegnete Alda. Sie trat an den Rand des Weges, wo ein Karren mit frischem Eichenholz hielt. Der Fuhrmann, ein hagerer Mann mit grauem Bart und einer tiefen Brandnarbe am Hals, wuchtete gerade schwere Spaltklötze vom Wagen. Seine Gelenke knackten hörbar.
-
-Alda ging auf ihn zu. Sie wartete nicht, bis der Mann sie bemerkte. Sie griff nach einem der Holzscheite, hob ihn an – er war schwer, nass vom Saft des frischen Holzes – und warf ihn mit geübter Bewegung auf den Stapel am Wegrand.
-
-Der Fuhrmann hielt inne. Er wischte sich mit dem rußigen Handrücken über die Stirn und sah Alda aus trüben, misstrauischen Augen an.
-
-»Was soll das, Weibervolk?«, brummte er in breitem Pfälzer Fränkisch. »Hab keine Zeit für Bettler. Wenn der Kessel vier kalt wird, zieht mir der Vogt das Fell über die Ohren.«
-
-»Das Holz ist zu nass«, sagte Alda ruhig. Sie klopfte gegen das Eichenholz. »Das zischt nur und raucht euch die Lungen voll, ehe es Glut gibt. Wenn ihr die Asche nicht alle zwei Stunden räumt, backt euch die Pfanne am Boden an.«
-
-Der Mann stutzte. Er ließ den nächsten Holzklotz sinken. »Woher willst du das wissen?«
-
-»Mein Vater hatte eine Ziegelei am Rhein«, log Alda, ohne mit der Wimper zu zucken. »Feuer ist Feuer. Ob du Ton brennst oder Wasser siedest – die Hitze fragt nicht nach dem bischöflichen Segen. Wer führt den Kessel vier?«
-
-Der Fuhrmann musterte sie von Kopf bis Fuß, sah ihre zerschundenen Hände, die Schlammspuren an ihrem Rock, das feste Leder ihrer Arbeitskleidung. Dann nickte er mit dem Kinn in Richtung der dritten Hütte, aus der besonders dichter, schwarzer Qualm drang.
-
-»Meister Folrad«, sagte er karg. »Aber der schlägt Fremden eher mit dem Schüreisen den Schädel ein, als dass er schwätzt. Wir haben die Quote für Metz noch nicht voll. Dreißig Körbe fehlen bis zum Abendgebet.«
-
-»Dreißig Körbe«, murmelte Alda. Sie wandte sich um und blickte zu Otwin zurück, der einige Schritte entfernt stand und sie mit offenem Mund anstarrte.
-
-Sie ging zu ihm hinüber.
-
-»Du bleibst bei Berto und den Ochsen«, befahl sie leise. »Fahrt die Karren hinter die letzte Weidenhütte, dort, wo die Scherbenhalde den Wind bricht. Und rühr kein Pergament an.«
-
-»Alda, was hast du vor?«, flüsterte er hastig, und in seiner Stimme schwang echtes Entsetzen mit. »Wenn die bischöflichen Vögte sehen, dass du dich an den Siedern zu schaffen machst, peitschen sie dich aus! Berengars Name ist verbrannt, das Amt rückt nichts heraus – das ist Diebstahl von Kirchengut!«
-
-»Berengar mag bei den Domherren nichts mehr gelten, weil Raginberts Boten Schmutz geworfen haben«, erwiderte sie, und ihre Augen wurden so hart wie die Steine der Römerstraße. »Aber Raginbert hat das Silber einst Heinrich geliehen, um mein Haus und meinen Sohn zu rauben. Und dieser feiste Schreiber da oben im Hof denkt, er kann mich mit Zweifeln an fremdem Kredit verhungern lassen.«
-
-Sie zog ihre ledernen Fausthandschuhe strammer, klopfte den Salzstaub von ihrer Schürze und richtete den Blick auf die rauchende Hütte von Kessel vier.
-
-»Ich fahre nicht mit leeren Karren über die Zaberner Steige zurück, Otwin. Und wenn ich dieses Tal mit den Händen umgraben muss. Der Kleriker hat gesagt, Berengars Kredit sei tot und Heinrichs Recht gesperrt. Gut. Dann reden wir jetzt nicht mehr über Schreiber, Vögte oder tote Kredite.«
-
-Sie trat an ihm vorbei, mitten hinein in den beißenden Dunst, dem Brüllen der Öfen und dem Scheppern der Bleipfannen entgegen.
+Sie griff nach ihrem Beutel, in dem die restlichen Silbermünzen aus dem Tausch mit Meister Hanno lagen, und ging auf den Schmied zu.
 

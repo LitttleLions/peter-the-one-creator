@@ -1,138 +1,138 @@
 ## Die Begegnung auf dem Markt
 
-Der schwere Dunst des Spätsommers lag wie nasse Schafwolle über den Toren von Metz. Alda wischte sich mit dem Ärmel ihrer groben Leinentunika über die Stirn, doch der Schweiß brannte in den Augenlidern. Der Geruch der Stadt schlug ihnen schon vor der alten Römerbrücke entgegen: faulender Unrat aus den Gerbergassen an der Mosel, beißender Rauch von Schmiedefeuern, der Gestank von Pferdemist und das träge, dumpfe Aroma von stehendem Flusswasser.
+Der Dunst der Mosel schmeckte nach faulendem Schilf und nassem Kalk, lange bevor die Zinnen der alten Römerstadt hinter den Flussbiegungen emportauchten. Auf den gewölbten Platten der Altstraße knirschte der Sand unter den beschlagenen Hufen der beiden Zugrösser, ein gleichförmiges Mahlen, das Alda seit drei Tagen in den Knochen saß. Die Fuhre lag tief in den Eschenholzfedern des Planwagens; zwanzig Fuder Marsaler Siedesalz wogen schwerer als nasses Eichenstammholz, und die Steigung hinauf zum Stadttor hatte den Tieren weißen Schaum vor die Nüstern getrieben.
 
-Hinter ihr schnaubte der vordere Ochse. Das Tier war am Ende seiner Kräfte. Die feuchte Schwüle nach den Tagen im Seille-Tal hatte dem Gespann zugesetzt, und die steilen Aufstiege über die zerschlagenen Pflasterstraßen hatten den Hufen der Tiere übel mitgespielt. Eines der Rinder lahmte seit dem Morgen am linken Vorderlauf; Alda hatte die Klauenspalte mit Schweineschmalz und Werg ausgestopft, doch es half wenig. Wenn sie das Salz sicher über die Zaberner Steige zurück an den Rhein bringen wollte, brauchte sie frische Zugtiere. Frische, kräftige Ochsen oder zwei schwere Kaltblüter, die das Gewicht der fünfzehn Fuder Bruchsalz die Vogesen hinaufziehen konnten, ohne vor Erschöpfung im Joch zu verenden.
+Alda hielt die ledernen Zügel straff in den rissigen Schwielen ihrer Fäuste. Neben ihr auf dem Bock saß Otwin, die Kapuze tief in die Stirn gezogen, die Finger unruhig um das Bündel mit der Pergamentrolle unter seinem Wollkittel gekrampft. Seit sie den ersten Wachtrupp lotharingischer Reiter an der Furt der Seille passiert hatten, sprach er kaum noch. Er musterte jeden Reisigen mit jenem lauernden Blick eines Gejagten, der weiß, dass ein einziges falsches Wort aus der Kanzlei genügen konnte, um ihn an die nächste Weide zu knüpfen.
 
-Otwin ging an ihrer Seite. Er hielt den Kopf gesenkt, die Filzkappe tief in die Stirn gezogen, um das nachwachsende Haar über der Tonsur zu verbergen. Seit jener Nacht im römischen Gewölbe, als seine Lippen auf ihren gelegen hatten, schien zwischen ihnen ein dünner Faden gespannt zu sein – fein wie ungezwirnte Seide, aber zäh. Manchmal, wenn ihre Blicke sich über den Rücken der Ochsen hinweg trafen, glaubte Alda, die Furcht in ihm zu sehen; nicht vor den Vögten oder den Häschern des Bischofs, sondern vor dem, was er ihr geschworen hatte. Er trug seine Schreibfeder und das Tintenhorn fest in einer Ledertasche an der Hüfte, wie ein Krieger sein Kurzschwert trägt.
+»Die Tore stehen offen«, murmelte Otwin, und seine Stimme klang heiser gegen das dumpfe Rollen der Räder auf den Basaltquadern an. »Doch sie mustern jeden Karren. Kaiser Lothars Leute fordern den Zehnten, und Bischof Drogo lässt seine eigenen Vögte danebenstellen. Es heißt, in den Gassen prügeln sich die Parteien um jeden Laib Brot.«
 
-»Der Viehmarkt liegt unterhalb der Kathedrale des heiligen Stephan«, murmelte Otwin leise, ohne die Lippen weit zu öffnen. Seine Stimme klang heiser von dem Staub, der auf den Straßen aufgewirbelt wurde. »Nahe dem Forum. Doch halte die Augen offen, Alda. Die Stadt ist zerrissen wie ein altes Segeltuch. Bischof Drogo hält zu Kaiser Lothar, aber die Kaufleute und viele der Großen schielen nach Westen zu Karl oder nach Osten zu Ludwig. Jeder Fremde gilt hier als Späher.«
+»Sollen sie sich schlagen, solange unser Salz trocken bleibt«, erwiderte Alda, ohne den Blick von den mächtigen, moosüberwachsenen Quadern des Tores zu wenden. Sie sah die Narben der Jahrhunderte im Stein: römischer Zement, der härter war als Flusskiesel, geflickt mit rohem Buchenfachwerk und zerschlagenen Säulentrommeln, auf denen der Ruß alter Brände klebte. Metz glich einem uralten Riesen, der in zerrissenen Kleidern im Schlamm saß und dessen Glieder nicht mehr wussten, welchem Herren sie gehorchen sollten. »Wir brauchen zwei frische Ochsen oder kräftige Gäule. Wenn wir über die Höhen zurück zum Rhein wollen, brechen uns die Rösser vor der Zaberner Steige zusammen. Das Salz zieht das Wasser an wie ein Schwamm, jeder Tag Regen macht den Wagen um drei Stein schwerer.«
 
-»Wir sind keine Späher«, erwiderte Alda knapp und straffte die Schultern. Sie griff fester nach dem hölzernen Treiberstecken. »Wir sind Fuhrleute mit Salz. Salz fragt nicht nach Kaisern oder Königen. Salz will gepökelt werden.«
+Sie passierten den Torbogen ohne Aufenthalt. Der Torhüter, ein Mann mit speckigem Lederwams und einem krummen Kurzschwert an der Hüfte, warf nur einen trägen Blick auf das Bleiplombensiegel des Stifts Sankt Arnulf, das Otwin ihm mit geübter Kälte vor die Nase hielt. Lateinische Buchstaben, auf dickes Kalbsleder gepresst, schufen selbst hier, wo die Soldaten Lothars den Ton angaben, eine unsichtbare Mauer aus Furcht vor dem Kirchenbann. Der Mann spuckte einen dunklen Schleimfaden auf das Pflaster und winkte sie mit der Lanze weiter.
 
-Sie passierten das Tor, an dem Kriegsknechte mit Eisenhüten und langen Spießen die Einlasssuchenden musterten. Otwins Griff um die Riemen seiner Tasche wurde weiß, doch die Wachen winkten den Karren mit einer gelangweilten Handbewegung durch. Für sie war es nur eine weitere Fuhre stinkender Rohware, gelenkt von einer staubigen Witwe und einem schmächtigen Gehilfen.
+Hinter dem Torwall schlug ihnen der Lärm der Stadt wie ein Fausthieb entgegen. Der Markt dehnte sich im Schatten der Domkirche Sankt Stephan aus, eingezwängt zwischen zerfallenen Arkaden aus heidnischer Vorzeit und den frisch gezimmerten Hürden der lothringischen Händler. Hier roch es nach geräuchertem Flussfisch, saurem Tresterwein, Pferdemist und dem beißenden Odem von Holzkohlenfeuern, an denen Schmiede Eisenringe für Fassdauben trieben. Fahrende Händler aus dem Westen boten schwere flandrische Wolle feil, während Männer aus dem Rheintal lautstark um Schweineborsten stritten. An den Hausecken standen bischöfliche Dienstleute mit blanken Eisenhüten, ihre Blicke starr auf die Gefolgsleute der weltlichen Grafen gerichtet, die mit gefärbten Wollmänteln und breiten Saxklingen durch die Reihen pflügten. Ein falsches Wort, ein angerempeltes Fuhrwerk, und der Markt konnte in Flammen stehen. Die Eide von Straßburg waren hier nur ein Gerücht, das man mit gedämpfter Stimme verfluchte; der Kaiser saß im Norden, doch seine Hand lag bleiern auf den Zöllen.
 
-Die Gassen von Metz stiegen steil an, gesäumt von Fachwerkhäusern, deren Obergeschosse weit über das antike Straßenpflaster ragten und den Himmel zu einem schmalen Streifen trüben Graus verengten. Überall herrschte ein beklemmendes, gereiztes Treiben. Bewaffnete Reiter mit den Abzeichen lothringischer Vasallen drängten Fußgänger rücksichtslos an die Hauswände; an einer Straßenecke stritten zwei Geistliche lautstark auf Latein über die Gültigkeit von Zehntrechten, während eine Traube von Bettlern im Rinnstein nach weggeworfenen Rübenresten scharrte. Man spürte die Lähmung, die der Bruderkrieg der Karolinger über das Land gelegt hatte: Keiner wusste, wessen Münze morgen noch galt, wessen Urkunde Recht sprach oder wessen Heer als Nächstes die Ernte requirieren würde.
+Alda lenkte das Gespann in den Schutz einer halb eingestürzten Säulenreihe unweit des Viehmarkts. Sie zog die Hanfseile der Radbremse an, bis das Eichenholz kreischte, und sprang vom Bock. Ihre Knie protestierten nach den langen Stunden auf dem harten Sitz, doch sie schüttelte die Schwäche ab wie Schmutzwasser von den Stiefeln.
 
-Als sie den offenen Platz am Dombezirk erreichten, öffnete sich der Raum zu einem Meer aus Rufen, Feilschen und Viehgebrüll. Vor der mächtigen Westfassade der Stephanskirche, deren Sandsteinquader in der Mittagshitze rötlich glühten, drängten sich Pferdehändler, Schlächter, Kappenmacher und Salzträger. Der Gestank von frischem Dung, Ammoniak und gebratenem Hammelfett hing schwer zwischen den Buden.
+»Bleib beim Wagen«, schärfte sie Otwin ein und strich mit der flachen Hand über die fest vertäute Plane, unter der die Salzsäcke dumpf und schwer wie Feldsteine ruhten. »Rühr das Schandwerkzeug da drinnen nicht an. Wenn jemand fragt: Wir fahren im Dienst des Stiftsvogts von Sankt Arnulf. Kein Wort von Straßburg. Kein Wort von Raginbert.«
 
-»Dort drüben«, sagte Alda und deutete mit dem Stecken auf eine Reihe von Gattern, an denen schwere, rotbraune Ochsen aus dem Ardennengau angebunden waren. »Die Tiere haben breite Kruppen und starke Fesseln. Wenn wir unser lahmes Tier drangeben und fünfzehn Schillinge Silber aus dem Beutel legen, kommen wir ins Geschäft.«
+Otwin nickte kurz, zog die Knie an die Brust und lehnte sich gegen die Wagenseite. Die Angst stand ihm wie eine Schicht Schweiß auf der Oberlippe, doch seine Augen hielten ihren Blick fest. In ihnen lag noch immer die Wärme jener Nacht in den römischen Mauern, ein Faden aus Vertrauen, den sie beide nicht zerreißen wollten, der aber unter dem Getöse dieser zerrissenen Stadt zum Zerreißen gespannt war.
 
-Sie traten an das Gatter heran. Der Händler, ein Mann mit einem speckigen Wams aus Rindsleder und einem von Branntwein geröteten Gesicht, musterte Aldas staubige Erscheinung mit unverhohlener Geringschätzung, bis sie ein Lederbeutelchen aus dem Mieder zog und die Münzen leise gegeneinander schlagen ließ. Otwin trat einen Schritt zurück, die Hände in den Ärmeln vergraben, die Augen wachsam über den Platz schweifen lassend.
+Alda wandte sich ab und schob sich durch das Gewirr von Leibern, Karren und Vieh. Sie ging mit dem wiegenden, sicheren Schritt einer Frau, die ihr Leben auf schwankenden Schiffsböden und schlammigen Uferpfaden verbracht hatte. Ihre Finger tasteten in der Tasche ihres Schurzes nach den silbernen Denaren, die ihr Drogo und die Sieder von Marsal für das mitgebrachte Werkzeug und als Wechselgeld überlassen hatten. Es war nicht viel, kaum genug für zwei brauchbare Zugtiere, aber sie verstand sich auf den Handel. Sie wusste, wann ein Huf faulte, bevor das Tier lahmte, und sie hörte am Atmen eines Fohlens, ob die Lunge den ersten Frost überstehen würde.
 
-»Zwei Ardenner Ochsen, gesund auf allen Vieren, keine Räude, kein fauler Zahn«, sagte Alda im herben Tonfall der Straßburger Schiffer. »Ich gebe euch den Braunen dort im Joch, der nach zwei Wochen Rast wieder ziehen wird, und dazu das Silber.«
+Am Rand der Pferche, wo die lothringischen Bauern ihr Vieh feilboten, drängte sich das Gesinde. Hier roch es scharf nach Ziegenbock und feuchtem Heu.
 
-Der Händler spuckte einen gelblichen Strahl Kautabak in den Staub vor ihre Schuhe. »Dreißig Schillinge, Weib. Das Reich steht in Flammen, jeder Graf braucht Zugvieh für seine Karren, um die Rüstungen an die Maas zu schaffen. Gesunde Tiere sind teurer als Weiberfleisch.«
+Ein rothaariger Händler mit einer Narbe quer über den Nasenrücken trieb gerade zwei struppige braune Rösser im Kreis, deren Flanken vom Fliegenbefall zuckten. Sie waren klein, mit kräftigen Knochen und breiten Kreuzen – zähe Ardennentiere, gewohnt an Geröll und magere Weide.
 
-»Fünfzehn«, hielt Alda dagegen, ohne mit der Wimper zu zucken. Sie griff einem der Ardenner unerschrocken ins Maul, prüfte die Zähne, strich über das Buggelenk und drückte dem Tier fest in den Rücken, um zu sehen, ob es nachgab. »Der hier zieht links schief, das sieht ein Blinder mit dem Krückstock. Achtzehn Schillinge, der lahme Braune, und keinen Pfennig mehr. Wenn der Bischofsvogt die Straße sperrt, nützen dir deine Ochsen gar nichts, dann fressen sie dir nur das Heu vom Boden weg.«
+»Zwei Schillinge für das Paar, Weib«, rief der Mann, als er Aldas prüfenden Blick bemerkte, und schlug mit der Haselrute gegen die Koppelstange. »Tragen jeden Karren bis nach Verdun, fressen Disteln und saufen Schlammwasser.«
 
-Otwin trat näher an sie heran. Alda spürte seine Anspannung; sein Atem ging flach. »Alda«, flüsterte er hastig, »schließe den Handel ab. Schnell. Wir sollten hier nicht verweilen.«
+Alda trat heran, strich ohne zu fragen über die Sehnen des vorderen Pferdes und fuhr mit dem Daumen über das Zahnfleisch. »Sie tragen gar nichts, wenn der Hufstrahl nach drei Meilen weich wird wie Schmalz«, entgegnete sie trocken, im rauen Tonfall der rheinischen Schiffer. »Schau dir die Risse an den Fesseln an. Das Tier stand den ganzen Sommer im Sumpf. Zwanzig Denare für den Braunen, den anderen kannst du behalten.«
 
-»Ich feilsche nicht um mein Erbe, um dann beim Viehkauf das Silber zum Fenster hinauszuwerfen«, zischte sie zurück, ohne den Blick vom Händler zu wenden.
+»Bist du des Teufels?«, fuhr der Händler auf, doch sein Schimpfen war das gewohnte Vorspiel des Marktes, mechanisch und ohne echten Zorn. »Unter dreißig Denaren geht keines meiner Tiere an eine Fremde. Die Stadt ist voll von Grafenknechten, die jeden Gaul requirieren, den sie greifen können.«
 
-Doch noch ehe der Viehbauer einschlagen konnte, brandete vom oberen Ende des Platzes, wo die Domherrenhäuser standen, lauter Lärm auf. Das Klappern von Eisen auf Stein, das Scheppern von Schilden und das rohe Lachen betrunkener oder siegestrunkener Männer übertönte das Feilschen der Händler. Eine Schar Berittener bahnte sich rücksichtslos einen Weg durch die Menge. Vorneweg ritten zwei Panzerreiter in knielangen Kettenhemden, die Schilde mit Leder bezogen, auf denen das Wappen eines lothringischen Ministerialen prangte. Dahinter folgte ein zerlumpter Tross aus Maultiertreibern, Knechten, Huren und Schanzarbeitern.
+Alda verschränkte die Arme vor der Brust, um den Griff um ihren Beutel zu verbergen. »Dann zeig mir den Falben dort hinten, den mit den weißen Fesseln. Der hat einen geraden Rist und ein Auge, das nicht trüb steht. Fünfundzwanzig Denare für den Falben und den Braunen, und ich nehme dir die Sorge um ihren Unterhalt ab, bevor der Winter sie dir ohnehin wegrafft.«
 
-Alda wandte unwillkürlich den Kopf. Solche Züge hatte sie in Straßburg zuhauf gesehen: die Nachhut der Heere, die menschliche Spreu, die vom Wind des Krieges aufgewirbelt wurde. Männer mit verkrusteten Wunden, barfuß im Schlamm watend, beladen mit Kesseln, Zelttüchern und gestohlenem Hausrat.
+Der Händler spuckte aus, kratzte sich am Kinn und musterte sie mit zusammengekniffenen Augen, wie man ein Stück Vieh mustert, dessen Wert man erst noch ergründen muss. »Sechsundzwanzig, und du legst den Strick selbst an. Ich will mit deinem Gefährt nichts zu schaffen haben.«
 
-Mitten in diesem Zug humpelte ein Mann, der einen schweren Holzsattel auf dem Rücken trug, an dem zwei eiserne Wassereimer baumelten. Seine Knie waren zerschunden, die Hose bestand nur noch aus zerrissenen Flicken, die von Schmutz und getrocknetem Blut steif waren. Eine verfilzte Mähne aus aschblondem Haar hing ihm ins Gesicht, das von Ruß, Dreck und einer langen, frischen Schorfwunde über der linken Wange entstellt war.
+»Sechsundzwanzig«, willigte Alda ein, und sie zählte die Denare in seine schwielige Hand, Münze um Münze, jede auf dem Daumennagel gewogen, dass er nicht eine abgeschliffene unterzuschieben vermochte. Der Handel war geschlossen, der Handel war gut, und zum ersten Mal seit dem Aufbruch aus Marsal spürte sie so etwas wie festen Boden unter den Füßen. Sie griff nach dem Halfter des Falben, um ihn aus dem Pferch zu führen.
 
-Aldas Herz setzte für einen quälenden Schlag aus. Die Welt um sie her – das Rufen des Viehhändlers, das Schnauben der Ochsen, das Klirren der Silbermünzen – verstummte zu einem dumpfen Brausen in ihren Ohren.
+In genau diesem Augenblick pflügte ein plötzlicher Aufruhr am oberen Ende der Straße durch die Menge.
 
-Dieser Gang. Das leichte Einknicken der rechten Hüfte, eine alte Erinnerung an einen Sturz vom Heuboden, als sie noch Kinder auf dem Hof ihres Vaters gewesen waren. Die breiten Daumen, die krampfhaft die Stricke der Eimer hielten.
+Das Klirren von Eisen auf Eisen und das heisere Brüllen von Knechten ließ die Feilschenden verstummen. Durch die engste Gasse, die vom Domplatz herabführte, schob sich der Tross eines vornehmen Herrn. Fünf berittene Kriegsknechte in knielangen Kettenhemden ritten voran, ihre runden Schilde mit rotem Ocker bemalt, die Lanzen spitz nach oben gerichtet, um den Weg freizuhalten. Dahinter folgten vierachsige Ochsenkarren, beladen mit Fässern, Kisten und Bündeln aus Zeltleinwand.
 
-»Gerwin?«, entfuhr es ihren Lippen, kaum lauter als ein Atemzug.
+»Platz da für den Vogt von Metz!«, schrie ein Reiter und hieb mit dem Schaft seiner Lanze nach einem Lastträger, der nicht schnell genug zur Seite sprang.
 
-Der Trossknecht strauchelte, als ein berittener Kriegsknecht ihm mit dem Schaft einer Lanze derb in den Rücken stieß. »Vorwärts, Hund! Wenn das Wasser für die Pferde nicht am Brunnen steht, ehe die Vesperglocke schlägt, hänge ich dich an den nächsten Weidenast!«
+Die Menge wich murrend zurück, drängte sich an die Mauern der alten Säulen und gegen die Viehhurden. Alda wurde gegen die Eichenbohlen des Pferchs gepresst, den Halfter des Falben noch in der Faust. Ein staubiger Geruch nach Schweiß, kaltem Speck und nassem Eisen wehte von den Reitern herüber. Doch es waren nicht die Krieger, die ihren Blick festhielten, sondern das Fußvolk, das hinter den Wagen hergetrieben wurde – der schmutzige Schweif des Trosses, der die Arbeit tat, die kein Freier verrichten wollte.
 
-Der Mann richtete sich keuchend auf, wischte sich mit dem nackten, von Schürfwunden bedeckten Unterarm über die Augen – und blickte direkt zu ihr herüber.
+Männer in zerrissenen Kitteln, die Beine mit dreckigen Wollfetzen umwickelt, trugen Kochkessel, schwere Schanzspaten und Haferkornsäcke. Einige führten abgemagerte Maultiere am Halfter, die Köpfe gebeugt unter der Last und den Schlägen der Treiber.
 
-Es war Gerwin. Ihr jüngerer Bruder.
+Ein Mann stolperte über die rissigen Pflastersteine, fing sich mühsam an einer Deichsel ab und wurde von einem Treiber mit einem Lederriemen vorwärtsgepeitscht.
 
-Doch es war nicht mehr der stolze, leichtfertige Junge, der einst mit geliehenem Geld geprahlt und vom schnellen Reichtum im Gefolge der Großen geträumt hatte. Seine Wangen waren eingefallen, die Augen lagen tief in dunklen Höhlen, getrieben von einem nackten, tierischen Überlebensdrang. Er sah aus wie ein Bettler, der dem Henker um eine Handbreit entkommen war, zerschunden, stinkend nach kaltem Schweiß und Fäulnis.
+Aldas Atem stockte in der Kehle, als wäre ihr kaltes Flusswasser in die Brust gedrungen.
 
-»Gerwin!«, rief Alda nun lauter, vergaß die Ochsen, vergaß den Viehhändler, vergaß den Platz und die Gefahr. Sie machte zwei Schritte auf den Tross zu, die Hand ausgestreckt, als wolle sie ihn aus diesem Elend herausreißen. »Gerwin, bei allen Heiligen, du bist es!«
+Der Mann trug eine zerschlissene Kappe aus grauem Filz, tief in den Nacken gezogen. Seine Schultern waren eingefallen, der rechte Ellenbogen ragte durch einen Riss in der groben Leinwand seines Hemdes, und an seinen Handgelenken klebte der Kot der Zugochsen. Doch die Art, wie er die Füße nach innen setzte, das kurze, unruhige Zucken seiner linken Wange, wenn ein Reiter das Pferd wandte – das kannte sie. Sie kannte es so gut wie das Schnitzen ihrer eigenen Kerbhölzer.
 
-Der Mann hielt inne. Seine Augen weiteten sich. Das matte, stumpfe Glänzen seiner Pupillen wich einem plötzlichen, ungläubigen Erkennen.
+»Gerwin?«, entfuhr es ihr, kaum lauter als ein Flüstern gegen das Schnauben der Maultiere.
 
-»Alda?«, stammelte er. Seine Lippen waren rissig und spröde, weiß von Durst. Er ließ den rechten Strick sinken, der Eimer schlug scheppernd auf das Pflaster, schmutziges Wasser schwappte über die Steine. »Alda… Schwester?«
+Der Trossknecht reagierte nicht auf den Namen, doch er wandte für den Bruchteil eines Herzschlags das Gesicht zur Seite, um einem herabsausenden Peitschenhieb auszuweichen.
 
-Er machte eine halbe Bewegung auf sie zu, die Arme tastend gehoben wie ein Blinder, der ein vertrautes Gesicht im Nebel erblickt. Ein Schluchzen schien in seiner Kehle zu ersticken, ein Ausdruck unendlicher Erleichterung, als breche mit ihrem Anblick die ganze Last seiner Flucht in sich zusammen.
+Es war ihr Bruder.
 
-Da trat Otwin vor.
+Sein Bart war struppig, voller Stroh und Straßendreck, die Wangen eingefallen bis auf die Knochen, das linke Auge von einer alten Schwellung bläulich verfärbt. Von dem stolzen, ungestümen Burschen, der einst im Schankhaus an der Ill mit Münzen geworfen und von schnellem Ruhm gefaselt hatte, war nichts geblieben als das Gerippe eines Knechts. Er sah älter aus als ihr toter Mann Berengar, gezeichnet von jener stumpfen, tierischen Furcht, die den Menschen befällt, der keinen eigenen Willen mehr besitzt.
 
-»Alda, tritt zurück!«, rief er mit schneidender Schärfe. Er griff nach ihrem Unterarm, riss sie mit einer Härte an sich, die sie von ihm nicht kannte. »Sieh ihn nicht an! Mach keine Szene vor dem bischöflichen Volk!«
+»Gerwin!«, rief sie nun lauter, und ihre Stimme brach durch den Lärm der Feilscher.
 
-Otwins Kappe war bei der raschen Bewegung verrutscht. Das harte Mittagslicht fiel auf seine bleichen Züge, auf die schmale Nase, auf die unverwechselbare Linie seines Gesichts und den geschorenen Kranz seines Haares.
+Der Mann zuckte zusammen. Sein Kopf riss herum. Seine Augen, fiebrig und gerötet vom Staub der Heeresstraße, irrten über die Gesichter der Umstehenden, glitten an den Schilden der Reiter vorbei und trafen auf Alda.
 
-Gerwin erstarrte.
+Ein Ausdruck nackten Entsetzens trat in seine Züge. Seine Lippen öffneten sich, schlossen sich wieder, formten ihren Namen, ohne dass ein Laut über die Zunge kam. Einen Moment lang schien es, als wolle er die schwere Last von seiner Schulter werfen und zu ihr taumeln. Er machte einen halben Schritt aus der Reihe des Trosses heraus, streckte eine dreckige, narbige Hand nach ihr aus.
 
-Sein Blick glitt von Alda zu dem Mann, der sie festhielt. Und in diesem einzigen Wimpernschlag verwandelte sich das Aufflackern von Hoffnung in Gerwins Gesicht in ein blankes, nacktes Entsetzen. Es war kein Erstaunen, kein Zweifel. Es war die Panik eines gehetzten Wildes, das plötzlich die Zähne des Wolfes vor sich sieht.
+Alda drängte sich mit den Ellbogen an dem rothaarigen Pferdehändler vorbei, den Halfter des Falben noch immer um die Faust gewickelt. Die Denare waren gezählt, der Handel besiegelt, doch das kümmerte sie nicht mehr. »Gerwin, bleib stehen! Ich bin es!«
 
-»Du!«, keuchte Gerwin. Seine Stimme brach sich in einem heiseren, gellenden Ton, der mehrere Marktfrauen aufhorchen ließ. Er taumelte rückwärts, riss den Holzsattel von seinen Schultern und warf ihn von sich, als sei das Holz mit Gift bestrichen. Der zweite Eimer polterte über die Steine, das Wasser ergoss sich vor Otwins Füße. »Nein… Barmherziger Gott, nein! Nicht du!«
+In diesem Augenblick trat Otwin hinter dem Planwagen hervor.
 
-»Gerwin, halt!«, schrie Alda, riss sich mit aller Gewalt aus Otwins Griff los. »Bleib stehen! Es ist gut, ich bin es doch, deine Schwester!«
+Er hatte Aldas Rufen gehört, war neugierig oder besorgt aus dem Schutz der Säulen getreten und stand nun im vollen Licht der Vormittagssonne auf dem freien Platz zwischen den Marktständen. Seine Kapuze war ihm vom Kopf geglitten; das schmale, blasse Gesicht mit den scharfen Zügen des Klerikers war unverkennbar, das weiße Band seines Kragens hob sich scharf von dem dunklen Reisemantel ab.
 
-Doch Gerwin hörte sie nicht mehr. Sein Blick war starr auf Otwin gerichtet, voller Abscheu und tödlicher Angst. »Du hast uns verraten! Du Hund hast mich ans Messer geliefert!«, brüllte er mit sich überschlagender Stimme.
+Gerwins Blick glitt von Alda zu dem Mann hinter ihr.
 
-»Schweig, Verfluchter!«, fuhr Otwin ihn an. Seine Stimme war nicht mehr die des sanften Gefährten aus der Ruine; sie war kalt, schneidend und trug den herrischen, unerbittlichen Ton eines Kanzleischreibers, der ein Urteil vollstreckt. Er machte einen drohenden Schritt auf Gerwin zu. »Halt dein Maul und mach, dass du fortkommst, wenn dir dein Leben lieb ist!«
+Alda sah, wie die Farbe vollends aus dem Gesicht ihres Bruders wich. Er sah Otwin nicht an wie einen fremden Reisenden. Er starrte ihn an, als stünde der leibhaftige Erzengel mit dem Flammenschwert vor ihm, um ihn in die Grube zu stoßen. Die Scham und die Erleichterung, die eben noch in Gerwins Augen geschimmert hatten, verbrannten in einem einzigen, lodernden Aufflackern panischen Schreckens.
 
-Das war zu viel für den gebrochenen Mann. Gerwin stieß einen Laut aus, der halb Schrei, halb Wimmern war, wandte sich auf dem Absatz um und rannte los. Er stieß einen Korb mit Zwiebeln um, rempelte einen Mönch zur Seite und floh in die enge, finstere Spalte der Gerbergasse, blindlings, panisch, getrieben von einem Schrecken, der tiefer saß als die Peitsche seines Herrn.
+»Nein!«, schrie Gerwin. Es war ein gellender, heiserer Laut, der die Pferde der Reiter scheuen ließ. »Großer Gott, nein!«
 
-»Gerwin!«, schrie Alda erneut und setzte ihm nach, doch nach wenigen Schritten stellte sich ihr der breite Körper des Viehhändlers in den Weg, der ihr grob vor die Brust stieß.
+»Gerwin, warte!«, rief Alda und griff nach seinem Ärmel, doch er riss sich mit einer Gewalt los, die sie taumeln ließ.
 
-»Halt, Weib! Du rennst mir nicht davon! Wir haben einen Handel! Gibst du mir das Silber oder soll ich die Stadtknechte rufen, weil du hier Aufruhr stiftest mit deinem Gesindel?«
+Er warf den Kornsack, den er auf der Schulter getragen hatte, mitten vor die Hufe des nächsten Streitrosses. Das Tier stieg wiehernd empor, der Reiter fluchte laut und zog am Zügel, während die Packfässer auf dem Karren ins Wanken gerieten. Das Durcheinander war augenblicklich: Ein Ochse brüllte, Stände kippten, Äpfel und Zwiebeln kollerten über das schlüpfrige Pflaster, und die Marktweiber kreischten.
 
-Alda taumelte zurück. Der Tross des Herrn zog derweil weiter, die berittenen Kriegsknechte fluchten über das vergossene Wasser, und einer von ihnen trieb sein Pferd so dicht an Alda vorbei, dass die Flanke des Tieres ihre Schulter streifte und sie beinahe zu Boden riss. Hufgetrappel, Rufe, der Gestank von Pferdeschweiß hüllten sie ein wie ein dichter Vorhang.
+Gerwin nutzte die Verwirrung wie ein gehetzter Fuchs. Er wandte sich nicht um, blickte Alda nicht noch einmal an. Er duckte sich unter dem Hals eines Zugochsen hindurch, schlug Haken zwischen den aufgetürmten Fässern und rannte blindlings in den finsteren Torbogen, der in den Hof der Domimmunität führte.
 
-Als die Reiter vorüber waren, war die Gasse leer. Nur ein paar zerdrückte Zwiebeln und eine nasse Spur auf den sonnenheißen Steinen zeugten noch davon, dass Gerwin dagewesen war.
+»Haltet den Knecht!«, brüllte einer der Treiber und schwang die Riemenpeitsche. »Er stiehlt sich davon! Greift ihn!«
 
-Aldas Brustkorb hob und senkte sich in wilden, schmerzhaften Stößen. Das Blut rauschte in ihren Schläfen wie das Wehr an der Ill bei Hochwasser. Sie drehte sich langsam um.
+Zwei der Reisigen wandten ihre Pferde, doch die Gasse war verstopft mit den gestürzten Kisten und der schimpfenden Menge. Binnen zweier Atemzüge war Gerwins graue Filzkappe im Gewimmel der Klerikergewänder und Bettler hinter dem Domportal verschwunden, als hätte der Stein ihn verschlungen.
 
-Otwin stand noch immer an derselben Stelle. Er hatte die Filzkappe wieder tief ins Gesicht gezogen. Seine Hände zitterten, doch er presste sie fest an seine Oberschenkel, um das Beben zu verbergen. Seine Lippen waren zu einem dünnen, blutleeren Strich zusammengepresst, und in seinen Augen lag ein Ausdruck, den sie nicht deuten konnte – eine Mischung aus Schuld, Kälte und dem finsteren Triumph eines Mannes, der eine Gefahr im letzten Moment abgewendet hatte.
+Alda stand mitten im Schlamm, den Halfter des Falben noch in der Hand, das Herz wie ein Felsbrocken in der Brust. Die Blicke der Händler brannten auf ihrer Haut; man musterte sie mit jenem misstrauischen Argwohn, den Städter für Fremde übrig hatten, die Unruhe stifteten.
 
-»Du kennst ihn«, sagte Alda. Ihre Stimme war ganz leise, doch sie schnitt schärfer durch den Marktlärm als jeder Schrei.
+Sie drehte sich langsam um.
 
-Otwin antwortete nicht sofort. Er sah an ihr vorbei, hinauf zu den steinernen Heiligen an der Kathedrale, als suchte er dort nach Worten, die er auf Pergament bannen konnte, um sich zu verteidigen.
+Otwin stand noch immer an derselben Stelle. Er war nicht herbeigeeilt, um zu helfen. Er hatte sich nicht bewegt. Seine Hände hingen schlaff an den Seiten herab, doch seine Schultern waren hochgezogen, starr vor Schreck. Auf seinen Zügen lag kein Erstaunen über das Benehmen eines entlaufenen Trossknechts.
 
-»Alda…«, begann er, und seine Stimme suchte wieder jenen weichen, bittenden Klang, den sie aus der Ruine im Seille-Tal kannte.
+Es war Schuldbewusstsein. Reines, nacktes Schuldbewusstsein.
 
-»Du kennst ihn!«, wiederholte sie, trat auf ihn zu, bis sie seinen Atem spüren konnte. Ihr Gesicht war weiß vor Zorn und Entsetzen. Sie packte ihn am Kragen seiner Tunika, spürte das raue Tuch unter ihren Fingern und rüttelte ihn. »Er hat dich angesehen, als wärst du der Teufel selbst! Er hat geschrien, dass du ihn ans Messer geliefert hast! Was hat das zu bedeuten? Rede! Bei Gottes Wunden, rede, Otwin!«
+Alda schritt langsam auf ihn zu. Jeder Schritt fühlte sich an, als watete sie durch zähen Ill-Schlamm nach einem Eisgang. Der Lärm des Marktes schien dumpf zu werden, erstickt von dem Pochen ihres eigenen Blutes in den Schläfen.
 
-Der Schreiber schluckte mühsam. Er wich ihrem Blick nicht aus, doch seine Augen wurden hart, wie hinter einer unsichtbaren Mauer aus Tinte und Siegelwachs verschanzt.
+Sie blieb eine Armlänge vor ihm stehen. Der schwache Geruch nach Eisengallustinte und Regenwolle, der ihr in der Nacht noch Trost gespendet hatte, stach ihr nun wie Galle in der Nase.
 
-»Er ist ein Flüchtling, Alda«, flüsterte er hastig, bedacht darauf, dass die Umstehenden ihn nicht verstanden. »Ein Mann, der den Frieden gebrochen hat. Er sieht in jedem, der aus Straßburg kommt, einen Henker. Er hat den Verstand verloren im Elend dieses Krieges. Sieh ihn dir doch an! Er weiß nicht mehr, wer Freund und wer Feind ist.«
+»Du kennst ihn«, sagte sie. Es war keine Frage. Ihre Stimme klang flach, bar jeder Wärme, wie das Klopfen eines Holzschlägels auf trockenes Buchenholz.
 
-»Er hat deinen Namen nicht genannt, aber er hat dich erkannt!«, stieß sie hervor, und die Tränen des Zorns brannten ihr in den Augenwinkeln. »Nicht als Fremden! Als denjenigen, der ihn verraten hat! Und du hast ihn bedroht! Du hast ihn verjagt! Warum hast du ihn nicht gehalten? Warum hast du ihn bedroht, statt ihn mir zu überlassen? Er ist mein Bruder! Mein eigener Bruder, das letzte Fleisch und Blut, das mir neben meinem Knaben geblieben ist!«
+Otwin wich ihrem Blick aus. Seine Lider zuckten, seine Augen wanderten über die Säulenreste, suchten Zuflucht im Staub des Bodens, überall, nur nicht in ihrem Gesicht. Seine Kehle bewegte sich krampfhaft, als er schluckte.
 
-»Weil er uns den Kopf gekostet hätte!«, zischte Otwin nun, und zum ersten Mal blitzte in seinen Zügen jener Kanzleiton auf, den sie so fürchtete – die kalte, herablassende Überlegenheit des Schriftgelehrten über die Unwissende. »Er gehört zum Tross eines lothringischen Ritters! Ein entlaufener Knecht, der Diebstahl und Totschlag auf dem Gewissen hat! Wenn die Kriegsknechte umgedreht hätten, wenn sie gesehen hätten, dass wir mit ihm gemein sind – glaubst du, die hätten nach deiner Witwenschaft gefragt? Glaubst du, die hätten mich nach meinem Pergament gefragt? Sie hätten uns an Ort und Stelle an die Brunnenpfosten gebunden und die Karren samt dem Salz beschlagnahmt! Dreißig Fuder Salz, Alda! Dein Hof! Dein Sohn Berto! Alles wäre dahin gewesen, für einen ehrlosen Tropf, der seine eigene Haut nicht retten kann!«
+»Alda …«, begann er, und der Tonfall war derselbe, mit dem er einst vor den Schöffen zu Straßburg gesprochen hatte – glatt, vorsichtig, darauf bedacht, sich keine Blöße zu geben. »Der Markt ist gefährlich. Die Leute des Bischofs schauen herüber. Wir müssen die Pferde nehmen und machen, dass wir fortkommen.«
 
-Jedes Wort traf sie wie ein Peitschenhieb. Nicht, weil es falsch klang – die Logik war unerbittlich, die Logik eines Schreibers, der Leben und Tod wie Posten in einem Rechnungsbuch gegeneinander abwog. Aber es war die Kälte, mit der er es aussprach. Dieselbe Kälte, mit der er vor Gericht das Schicksal ihrer Familie verhandelt hatte.
+»Du kennst ihn«, wiederholte sie, und dieses Mal trat sie einen halben Schritt näher, so nah, dass er zurückweichen musste, bis sein Rücken gegen die Wagenachse stieß. »Er sah dich an und rannte, als wäre der Henker hinter ihm her. Er sah nicht die Vögte. Er sah dich.«
 
-Sie ließ seinen Kragen los. Ihre Hand fiel herab, als hätte sie glühendes Eisen berührt.
+»Ich … ich war Raginberts Schreiber«, murmelte er leise, ohne die Zähne auseinanderzubringen, die Hände nun wieder krampfhaft unter dem Kittel verborgen. »In seinem Hof gingen viele Knechte ein und aus. Gesindel aus dem ganzen Ried. Man erinnert sich an den Mann mit der Feder, Alda. Der Mann mit der Feder schreibt die Abgaben auf. Niemand liebt den, der die Schulden notiert.«
 
-In ihrem Kopf drehte sich alles. Die Worte des Veteranen Giseler an der Straßburger Zollschranke stiegen wieder in ihr auf, dunkel und drohend: *Heinrich stahl Silber aus Raginberts Zelt… und Gerwin war mit drin.* Und nun stand Otwin vor ihr, derselbe Otwin, der Raginberts Schreiber gewesen war, der Heinrichs Urkunden aufgesetzt hatte, der behauptet hatte, sie retten zu wollen.
+»Lüg mich nicht an!«, zischte sie. Das Wort schnitt durch die schwüle Luft wie ein Schustermesser.
 
-*Ich werde dich nicht verraten, Alda.*
+Ein paar Träger blieben stehen und warfen neugierige Blicke herüber, worauf Alda die Zähne zusammenbiss und die Stimme senkte, bis sie nur noch ein gefährliches Grollen war.
 
-Die Worte aus der römischen Mansio klangen plötzlich hohl in ihrer Erinnerung. Wie das Klirren von falschem Silber auf dem Holztisch eines Wechslers.
+»Gerwin war kein Knecht auf Raginberts Hof. Gerwin floh vor drei Jahren, im Frühjahr vor Fontenoy. Berengar sagte mir damals, er sei mit Schiffern nach Mainz gezogen, weil er eine Fehde fürchtete. Eine Blutschuld.« Sie starrte ihn an, bohrte ihre Blicke in seine blassen Schläfen, bis er den Kopf noch tiefer senkte. »Woher kennt dich mein Bruder, Otwin? Was weiß er von dir, das ihn dazu bringt, sein Leben im Schlamm wegzuwerfen, nur um nicht in dein Gesicht sehen zu müssen?«
 
-»Wer bist du?«, flüsterte sie. Sie trat einen Schritt zurück, fort von ihm, fort von dem Geruch nach Tinte und Zedernöl, der ihr noch vor Stunden Trost gespendet hatte. »Wer bist du wirklich, Otwin? Was weißt du über Gerwin? Was weißt du über Heinrich, das du mir verschweigst?«
+»Es ist nicht so, wie du denkst«, flüsterte er, und in seinem Ton schwang die alte, jämmerliche Schwäche mit, die sie verachtete. Das Bündnis der letzten Tage, das geteilte Brot, die Berührung im Dunkeln der römischen Mauern – alles lag da wie ein gewebtes Tuch, das man in eine Schlammpfütze geworfen und mit Füßen getreten hatte.
 
-Otwins Gesicht zuckte. Ein Schatten von Schmerz huschte über seine Züge, so tief und echt, dass sie fast wieder gewankt hätte. Er streckte die Hand nach ihr aus, die Finger gekrümmt, als wolle er sie festhalten, doch er wagte es nicht, sie zu berühren.
+»Wie ist es dann?«, forderte sie.
 
-»Ich bin der Mann, der dich vor dem Ruin bewahrt«, sagte er mit brechender Stimme. »Der einzige, der noch zwischen dir und Raginberts Knechtschaft steht. Glaube mir, Alda. Ich bitte dich bei allem, was dir heilig ist… glaube mir. Ich habe getan, was nötig war, um dich zu schützen.«
+Er schwieg. Seine Lippen blieben fest verschlossen, ein stummes, feiges Pergament, das ihr den Text verweigerte. Genau wie damals auf den Rheinwiesen, als Raginbert ihr das Siegel vorwies und Otwin mit gesenktem Kopf danebenstand und die Unwahrheit als Recht verlas.
 
-»Um mich zu schützen?«, entgegnete sie, und ihre Stimme war tonlos geworden, ausgebrannt wie die Asche unter einer Salzsiedepfanne. »Oder um dich selbst zu schützen?«
+Ein harter Windstoß fuhr über den Platz, wirbelte Spreu und trockenen Pferdemist auf und blähte die Plane des Wagens. Unter dem groben Tuch zeichneten sich die Kanten der Salzsäcke ab – das Gut, für das sie alles gewagt hatte, das Leben ihres Sohnes, ihr Haus, ihre Ehre. Und neben ihr stand der Mann, der den Schlüssel zu Berengars Geheimnis in der Hand hielt und ihn vor ihr verbarg, während ihr Bruder als verlauster Sklave durch den Dreck lotharingischer Heerzüge kroch.
 
-Der Viehhändler räusperte sich laut hinter ihnen, trat ungeduldig von einem Fuß auf den anderen. »He, Weib! Was ist nun mit den Ardennern? Entweder das Silber auf den Tisch, oder packt euren Krüppelochsen und schert euch zum Teufel! Ich habe den ganzen Tag keine Zeit für euer Gewäsch!«
+Alda griff an ihren Gürtel, löste den Schließkeil der Deichsel und schlug ihn mit solcher Wucht gegen das Holz des Wagens, dass Otwin zusammenzuckte.
 
-Alda sah den Händler an. Dann sah sie auf ihre Hände, die noch immer zitterten. Die Welt forderte ihren Tribut. Die Frist bis Martini tickte unbarmherzig weiter, mit jedem Glockenschlag der Stephanskirche, mit jedem Atemzug ihres Sohnes, der meilenweit entfernt an der Bruche auf ihre Rückkehr wartete.
+»Nimm den Falben am Halfter«, sagte sie kalt. »Wir haben zwei Rösser gekauft, und wir werden sie brauchen. Du führst das eine, ich das andere. Und dann setzt du dich auf den Bock und hältst den Mund.«
 
-Sie wandte sich langsam um. Mit starren, mechanischen Bewegungen griff sie in ihren Beutel, zählte achtzehn Schillinge ab und warf sie dem Viehhändler vor die Füße in den Schmutz.
+Er sah sie erschrocken an. »Alda, bitte, lass mich erklären—«
 
-»Nimm«, sagte sie kalt. »Nimm das Silber. Und schirr die Ardenner an meinen Karren.«
+»Kein Wort«, schnitt sie ihm das Wort ab. Ihre Augen waren trocken, doch hinter ihrer Stirn brannte es wie frischer Zunder. »Wir spannen die Braunen an, die wir haben, und fahren dieses Salz über die Grenze. Wenn wir in Zabern sind und mein Kind in Sicherheit ist, wirst du mir Rede stehen. Jedes Wort. Jeden Strich, den du je für Raginbert auf ein Kalbsfell gesetzt hast. Und wehe dir, Otwin, wehe dir, wenn auf deinem Kerbholz auch nur ein einziger falscher Schnitt ist.«
 
-Sie drehte sich nicht mehr zu Otwin um. Als sie zum vorderen Wagen ging, um die Stricke des lahmen Ochsen zu lösen, spürte sie seinen Blick in ihrem Rücken – schwer, flehend und voller dunkler Geheimnisse, die wie giftiger Schlamm auf dem Grund eines klaren Brunnens lagen.
+Sie drückte ihm den Halfter des Falben in die Hand und wandte sich ab, ohne auf seine Antwort zu warten. Sie packte das linke Zugross am Zaumzeug und riss den Kopf des Tieres mit unerbittlicher Härte herum, während Otwin mit zitternden Fingern den Falben heranführte. Der Metzgerkarren vor ihnen wich hastig aus, als Alda den Wagen mit einem heiseren Befehl in Bewegung setzte.
 
-Das Vertrauen, das mühsam in den Gewölben der römischen Ruine erwachsen war, lag zerbrochen auf dem Pflaster von Metz, zertrampelt von den Hufen fremder Kriegsknechte und ertränkt in dem Schmutzwasser aus Gerwins Eimern. Sie war wieder allein. Mit ihren Karren, ihrem Salz und einem Schreiber, dessen wahres Gesicht sie noch immer nicht kannte.
+Hinter ihnen ragte der Dom von Metz wie eine graue Bastion in den bleichen Augusthimmel, unnahbar, verschlossen, voll von Geheimnissen, die nur den Schreibern und den Herrschern gehörten. Gerwin war darin verschwunden, verschluckt von den Mauern. Doch der Schatten, den sein Entsetzen geworfen hatte, lag nun auf dem Wagen – schwerer noch als die zwanzig Fuder Salz, und kälter als das Wasser der Seille im tiefsten Winter.
 

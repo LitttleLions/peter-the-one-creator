@@ -5,129 +5,141 @@
 
 ---
 
-Die Luft im Maastal stand wie geschmolzenes Blei. Schon zwei Meilen vor der Stadt kündigte sich das Lager an, nicht durch den Blick auf Mauern oder Türme, sondern durch den Gestank. Es war der schwere, beißende Dunst von zehntausend Leibern, von Pferdemist, faulendem Schlachtabfall, schwelendem Erlenholz und dem Auswurf von Gruben, die hastig am Wegrand ausgehoben worden waren. Der Juli hatte das Gras der Auen verbrannt; wo einst fette Wiesen das Flussufer gesäumt hatten, dehnte sich nun eine staubgraue Wüste, zerstampft von Zehntausenden Hufen, Stiefeln und Rädern.
+Der Juli fraß das Maastal kahl. Schon drei Meilen vor den Toren der Stadt kündigte sich das Lager durch einen gelblichen Dunst an, der träge über den Weidenhängen lag und die Luft mit dem Gestank von Pferdemist, faulendem Schlachtabfall und brennendem Birkenholz schwängerte. Die Hitze stand wie eine schwere, nasse Decke über dem Tal; sie drückte den Staub nieder, den die Hufe aufwirbelten, und ließ ihn auf den Lippen kleben wie feiner Mahlsand.
 
-Alda zog den Leinenstreifen, den sie sich vor Mund und Nase gebunden hatte, tiefer in die Stirn. Der Schweiß brannte in ihren Augenwinkeln. Neben ihr auf dem Bock saß Berto, das Hemd vollkommen durchnässt, die Hände verkrampft um die ledernen Riemen der Vorderpferde gelegt. Seine kindlichen Lippen waren aufgesprungen, bedeckt von einer feinen Schicht Kalkstaub, der wie Mehl von den kalkigen Höhenzügen herabgeweht kam.
+Alda wischte sich mit dem nackten Unterarm über die Stirn. Das Salz in ihrem Schweiß brannte in den rissigen Schrunden ihrer Haut, doch sie hielt die ledernen Zügel straff, spürte das dumpfe Rucken der Deichsel bis in die Schultern. Hinter ihr ächzten die Achsen der sieben Karren. Das trockene Eschenholz sang sein klagendes Lied gegen die eisernen Buchsen, ein Geräusch, das ihr seit Tagen im Nacken saß wie die Furcht vor einem Achsbruch auf freier Strecke.
 
-»Mutter«, flüsterte der Junge heiser, »sind das alle Menschen der Erde?«
+»Sieh dir das an, Mutter«, flüsterte der junge Berto neben ihr auf dem Bock. Er zeigte mit einem staubgrauen Finger hinab in die Niederung, wo das Wasser der Maas zäh wie geschmolzenes Blei zwischen den Kiesbänken kroch.
 
-Alda sah über das Tal. Soweit das Auge reichte, bis an die Hänge, auf denen die Reben der bischöflichen Höfe verdorrten, erstreckte sich eine Stadt aus Tuch, Leder und Zweigen. Pavillons aus gebleichtem, fränkischem Leinen mit flatternden Wimpeln der Großen standen neben windschiefen Hütten aus Weidengeflecht, in denen Marketenderinnen und Trossknechte hausten. Dazwischen ragten unzählige Kochfeuer auf. Der Rauch stieg in dünnen, trägen Säulen in den weißglühenden Himmel, unfähig, die drückende Schwüle zu durchbrechen. 
+Das Tal war kein Weideland mehr; es war eine wimmelnde Stadt aus Tuch, Leder und Weidengeflecht, die sich über Meilen am Flussufer entlangfraß. Zehntausend Seelen, vielleicht mehr, zusammengepfercht unter den Wimpeln der drei königlichen Brüder. Alda sah die schweren, mit rotem Tuch bespannten Pavillons der Grafen von Lothars Gefolge, die sich wie fette Blutegel an die erhöhten Schotterterrassen klammerten; weiter südlich duckten sich die niedrigen Leinwandhütten der Bayern und Sachsen Ludwigs, während drüben am Westufer, halb verdeckt von Krüppelweiden, die weiß gebleichten Zelte der Westfranken Karls des Kahlen im flimmernden Licht zitterten. Dazwischen standen Tausende von Trosswagen in tiefen Furchen, eingekeilt wie Treibholz nach einem Frühjahrshochwasser.
 
-Hinter ihnen fluchte der rote Walo. Ein dumpfer Schlag hallte durch das Gespann, gefolgt vom Schnauben eines der schweren Kaltblüter. Knecht Berto lief mit rußgeschwärztem Gesicht neben dem Hinterrad des zweiten Wagens, einen hölzernen Hemmschuh in der Faust, bereit, das Rad bei jedem Halt zu verkeilen. Der Boden fiel hier sanft zur Flussniederung ab, und die Last von sechzig Fudern Salz schob erbarmungslos nach vorn.
+»Nimm die Finger runter, Berto«, sagte Alda ruhig, ohne den Blick von der Fahrspur zu wenden. Vor ihnen hatte sich ein Ochsenkarren mit gebrochener Spindel quergestellt; ein Knecht prügelte mit einem dornigen Weißdornast auf das Zugtier ein, das stumm und zitternd im Schlamm kniete. »Schau auf die Naben der Nachbarwagen. Wenn ein Radeisen das unsere streift, reißt es uns die Speichen heraus. Hier hilft dir kein Heiland, wenn die Fuhre liegt.«
 
-»Ruhig, Brauner! Ruhig!«, murmelte der alte Knecht, seine Stimme ein heiseres Krächzen gegen den Lärm.
+Hinter ihnen fluchte der alte Knecht Berto leise und heiser. Er führte das zweite Gespann, seine Holzschuhe schleiften durch den feinen Schotter, der von den alten römischen Pflastersteinen abgeplatzt war.
 
-Und der Lärm war gewaltig. Es war kein geordneter Schall, sondern ein betäubendes Brausen. Das Klirren von Brünnen, das Schlagen von Eisen auf Eisen an den Essen der Hufschmiede, das Brüllen von Ochsen, das Geschrei betrunkener Kriegsknechte und das endlose, heisere Feilschen um jeden Bissen Brot. Eine Henne kostete hier zwei Silberlinge, ein Napf stinkendes Brunnenwasser einen Kupfersolidus, wie ihnen ein fliehender Bauer am Morgen berichtet hatte. Das Heer der drei Brüder fraß das Land kahl wie die Heuschrecken.
+»Das ist kein Heer«, murrte der Alte und spuckte einen gelben Schleimfaden in den Graben. »Das ist eine Heuschreckenplage. Schau dir die Wiesen an – kein Halm mehr für die Rösser. Wenn wir hier keinen Hafer finden, fressen die Tiere bis übermorgen die Deichseln an.«
 
-Gerwin lenkte den dritten Wagen mit zusammengebissenen Zähnen. Er trug eine zerschlissene Kappe tief ins Gesicht gezogen, die Narben an seinen Unterarmen leuchteten rot in der Hitze. Jedes Mal, wenn gepanzerte Reiter des Kaisers Lothar im Schritt an der Kolonne vorbeiritten – Männer mit Kettenhauben, deren eiserne Ringe im Schweiß rosteten –, wandte er den Kopf ab. Die Furcht saß ihm noch immer im Fleisch, die alte Schuld von Fontenoy, die hier, wo dieselben Heere wieder aufeinandertrafen, wie ein Gespenst über jedem Zelt schwebte.
+Gerwin ging neben dem dritten Wagen, dort, wo die kostbaren Riedsalzkörbe unter feuchten Schilfmatten verzurrt waren. Sein Gesicht war rußverschmiert, die Augen lagen tief in den Höhlen, doch er ging aufrecht, die Hand stets am hölzernen Hemmschuh, bereit, das Rad beim kleinsten Stocken zu verkeilen. Er suchte nicht Aldas Blick; er tat einfach, was ein Knecht tun musste, um die Schuld von seinen Knochen zu schwitzen.
 
-»Wir müssen zur Brücke«, rief Walo von hinten herüber. Seine mächtige Gestalt auf dem Karren wirkte wie ein Fels im Staub. »Alda! Wenn wir auf diesem Feldweg bleiben, schneiden uns die Sachsen den Tross ab! Sieh dir das Gesindel dort an!«
+Ein Reiter im ledernen Koller, auf dessen Brust ein schmutziges weißes Kreuz genäht war, preschte an ihnen vorbei, riss sein Tier so hart herum, dass Kies gegen Aldas Bodenbrett prasselte, und schrie etwas mit gellender Stimme in die Gluthitze hinaus.
 
-Alda sah es wohl. Am Rand der alten Römerstraße lagerte ein Haufen fränkischer Fußsoldaten aus dem Reich Ludwigs. Bärtige Männer in groben Wollröcken, mit Schilden aus Lindenholz, die sie auf die Deichseln gestützt hatten. Sie musterten die schwer beladenen Salzwagen mit hungrigen, lauernden Blicken. Salz war Mangelware; die Pökelfässer des Heeres standen leer, und der Gestank von verderbendem Rindfleisch zog in Schwaden von den Trossplätzen herüber.
+»*Via! Via de via, rustici!*«, bellte der Mann, stieß den Schaft seiner Lanze gegen das Geschirr von Aldas rechtem Zugross und fuchtelte mit der Linken nach hinten, wo eine Schar berittener Panzerreiter im Trott heranzog.
 
-»Zusammenbleiben!«, rief Alda zurück, so laut ihre ausgetrocknete Kehle es erlaubte. »Deichsel an Wagenkasten! Berto, zieh die Zügel straff, aber lass den Gaul den Weg suchen!«
+Das Ross wieherte grell auf und trat zur Seite; der Karren neigte sich gefährlich, die Hanfseile kreischten unter der Last der Salzkörbe.
 
-Sie schoben sich im Schritttempo in das Gewühl der Vorstadt. Hier prallten die Welten aufeinander, schärfer noch als im Winter an der Ill. An einer Wegkreuzung, wo ein Karren mit Bierfässern umgestürzt war und der saure Sud im Staub versickerte, stockte der Zug vollends. Ein Trupp romanischer Reiter, Vasallen des westfränkischen Königs Karl, stritt mit baumlangen Fußknechten, die die rauhe Sprache des Main- und Rheingaus führten.
+Der junge Berto krallte die Hände in das Rahmenholz, sein Gesicht wurde kreideweiß.
 
-»*Via! Date viam, rustici!*«, brüllte ein Reiter mit ledernem Wams und blank poliertem Eisenhut. Er fuchtelte mit dem Schaft seiner Lanze über die Köpfe der Fuhrleute hinweg. »*Dominus meus, comes Tetbaldus, transit! Arretro!*«
+»Ruhig, Brauner! Steh!«, herrschte Alda das Tier an, zog die linke Hand hart an ihren Schenkel und trat mit dem rechten Fuß gegen den Bremshebel. Das Eisen griff, das Rad blockierte mit einem hässlichen Knirschen.
 
-»Halt dein Maul, welscher Hund!«, schrie ein sächsischer Knecht zurück, packte das Zaumzeug des Pferdes und riss das Tier zur Seite. »Weiche du selbst! Wir führen das Mehl für die bayerischen Zelte! Schau her, du Froschfresser, ehe dir die Axt im Wanst sitzt!«
+Sie wandte sich nicht an den Reiter auf Latein, denn lateinische Worte gehörten in die Kanzleien und Klöster, wo sie wie Schlingen um den Hals freier Leute gelegt wurden. Stattdessen sah sie dem Mann fest in die trüben, geröteten Augen und wechselte in die weiche, geschliffene Mundart der Moselromanen, die sie auf den Märkten von Metz gelernt hatte:
 
-Ein Klingenrasseln ging durch die Umstehenden. Messer wurden aus Holzscheiden gezogen, derbe Knüppel hoben sich. Pferde wieherten gellend, Scheuklappen schlugen aneinander. Mitten in dieser Enge drohte der Funke die ganze Straße zu entzünden. Wenn hier Blut floss, würde der Pöbel über die Wagen herfallen, und kein Königsfrieden der Welt würde sechzig Fuder Salz vor den Plünderern retten.
+»*Prende garde a la lance, mestre!* Wenn dein Spieß mir das Leder trennt, rollt mein Fuder in den Graben – und dein Herr wartet bis zur Vesper auf sein Brot. Sieh nach hinten: Die Straße ist dicht wie ein verstopfter Mühlgraben!«
 
-Alda drückte ihrem Sohn die Zügel fest in die Hände. »Sitz bleiben, Berto. Rühr dich nicht von der Bank.«
+Der Reiter stutzte. Das harte Leder seines Gesichts verzog sich; er musterte die feste Haltung der Frau auf dem Bock, die derben Fausthandschuhe aus Rindsleder und das schwere, vertraute Fluchen der Straßburger Fuhrleute hinter ihr. Er senkte die Lanze um eine Spanne.
 
-»Mutter, geh nicht hinunter!«, rief das Kind, Angst schnürte ihm die Kehle zu.
+»*Romani?*«, knurrte er misstrauisch, halb auf Fränkisch, halb im Kauderwelsch der lothringischen Grenzleute. »Königsleute?«
 
-Doch Alda war bereits über das Rad geklettert. Ihre Lederstiefel sanken knöcheltief in den heißen, von Unrat durchsetzten Staub. Der Gestank schlug ihr wie eine Faust ins Gesicht, doch sie beachtete ihn nicht. Sie trat zwischen das tänzelnde Streitross des Romanen und die gereckten Äxte der Ostfranken.
+»Salz«, erwiderte Alda knapp, diesmal im harten, thüringisch gefärbten Rheinfränkisch, damit auch die Kriegsknechte hinter ihm es begriffen. »Achtzig Fuder Riedsalz für die Kämmerer. Für das Pökelfleisch der Barone, es sei denn, eure Edlen wollen ihre Ochsen madig fressen wie die Hunde am Wegrand.«
 
-»Halt ein!«, rief sie, zuerst auf rheinfränkisch, mit jener schneidenden Härte, die Heinrich immer an ihr gefürchtet hatte, wenn das Gesinde auf dem Hof nachlässig geworden war. »Wollt ihr euch vor den Toren der Stadt abschlachten, damit die Vögte euer Gut einziehen? Steckt das Eisen weg!«
+Ein heiseres Lachen kam von den nachfolgenden Reitern, Männern aus dem Gefolge Ludwigs des Deutschen, die an ihren breiten Holzschilden und den wollenen Beinwickeln zu erkennen waren.
 
-Der sächsische Knecht stutzte, überrascht von dem Weib, das ihm ohne Furcht vor die Brust trat. Der Reiter fluchte auf Romanisch, holte mit dem Lanzenstumpf aus und richtete die Spitze grob gegen ihre Schulter. »*Tace, femina! Amove te, aut te conculcabo!*«
+»Recht hat das Weib!«, rief einer mit struppigem Flachsbart. »Lasst die Fuhre durch, Karls Schlemmer haben schon den ganzen Speck von der oberen Maas weggefressen! Wenn das Kraut nicht bald Salz sieht, meutert das Fußvolk noch vor dem Neumond!«
 
-Alda wich keinen Zoll zurück. Sie blickte dem Reiter direkt in die trüben, sonnenverbrannten Augen. Aus ihrer Jugend am Ufer der Mosel und den Jahren auf den Straßburger Märkten waren ihr die Laute der westlichen Zunge vertraut – jenes fließende, verwaschene Latein, das die Kanzleien mieden, das aber vom Volk zwischen Paris und der Maas gesprochen wurde.
+Der Lanzenreiter spuckte aus, riss sein Ross nach links in das Weidengebüsch und gab die Spur frei.
 
-»*Non sum rustica, miles!*«, rief sie ihm in seiner eigenen Mundart entgegen, fest und unerschrocken. »*Sal portamus! Sal album pro curia regis Caroli et fratrum eius. Si equum meum tangis, dominus tuus carnem putidam manducabit!*«
+Alda nickte ihm nicht zu. Dankbarkeit war eine schlechte Münze auf Heerstraßen. Sie löste den Hemmschuh mit einem kurzen Tritt und trieb die Rösser wieder an. »Vorwärts, Gerwin! Berto, schau nach dem Schmierbüchsenhalter an der Hinterachse, der schlägt gegen die Speichen!«
 
-Der Reiter hielt inne. Seine Brauen zogen sich zusammen. Dass eine Frau im verstaubten Gewand einer Fuhrmannswitwe seine Sprache sprach – und das nicht zögernd, sondern mit dem stolzen Nachdruck einer Händlerin –, ließ ihn stutzen. Er senkte das Holz ein wenig.
+Sie erreichten die äußere Senke vor dem alten römischen Mauerring Verduns. Hier staute sich alles. Ein hölzernes Vortor, gezimmert aus frisch geschlagenen Eichenstämmen, die noch bitter nach Saft und Harz rochen, riegelte den Zugang zur Brücke ab. Davor drängte sich ein schreiender, schwitzender Haufen: Schafhirten mit staubigen Herden, deren Wolle zu filzigen Klumpen verklumpt war; Weinhändler aus dem Burgund, deren Fässer in der Hitze leckten, sodass der Geruch von saurem Most sich mit dem Kot der Zugochsen mischte; mittellose Freie, die Weidenkörbe voller Zwiebeln und harter Ziegenkäse auf den Köpfen balancierten, und dazwischen die Trabanten der verschiedenen königlichen Lager, die versuchten, Vorrechte für ihre Herren zu erzwingen.
 
-»*Sal?*«, fragte er misstrauisch. »*Verum sal?*«
+Über dem Tor ragten die uralten, grauen Quader der römischen Mauer auf, fleckig von Moos und Jahrhunderten von Rauch, geflickt mit rohen Bruchsteinen und Weidengeflecht, wo einst der Mörtel gewichen war.
 
-»Weißes Salz aus den Kesseln von Marsal«, fuhr Alda auf Romanisch fort, wechselte dann aber, ohne den Atem anzuhalten, in das Alemannische hinüber, um den sächsischen Haufen zu packen: »Und für euch auch, ihr Narren! Glaubt ihr, euer König Ludwig lässt sein Volk hungern, während der Wein der Welschen sauer wird? Macht die Gasse frei! Vier Schritte zurück mit dem Fasskarren, dann kommt die Lanze durch, und meine Räder folgen!«
+»Zehn Pfennige!«, schrie ein Mann in einem kurzen blauen Wams, der auf einem umgestürzten Quader stand und eine blechbeschlagene Holztafel hielt. Er sprach das nasale Romanisch der Pariser Senke. »Zehn Pfennige für jeden Karren, oder kehrt um in den Dreck, wo ihr hergekommen seid! *Par saint Denis*, kein Rad rollt über die Bohlen ohne königlichen Pfennig!«
 
-Sie stand da wie eine Säule im Treiben. Ihre Haare, die sich unter dem Tuch gelöst hatten, klebten feucht an den Schläfen, ihr einfacher Rock war staubgrau, doch ihr Blick duldete keinen Widerspruch. Es war die Stimme des Marktes, die Macht der Ware, die hier sprach – mächtiger für einen Augenblick als die Herolde und Grafen, die irgendwo jenseits der Mauern in seidenen Zelten schwitzten.
+»Was kreischt der Kerl da vorn?«, rief Hartwig von seinem Wagen herüber. Seine Stimme klang wie zwei Mahlsteine, die trocken aufeinandertrafen. »Alda! Verstehst du das Gewäsch? Der will uns das Silber aus den Taschen schneiden! Zehn Pfennige? Für einen Wagen Schotter hat mein Vater früher drei Schillinge Korn gekauft! Das ist Räuberei!«
 
-Der sächsische Knecht spuckte aus, senkte die Axt und brummte etwas von herrischem Weibsvolk, griff aber dennoch nach den Speichen des verklemmten Bierwagens. Mit vereinten Kräften wuchteten die Männer das Hindernis zwei Ellen zur Seite. Der romanische Reiter stieß ein kurzes, halb anerkennendes Schnauben aus, gab seinem Pferd die Schenkel und ritt, gefolgt von seinen drei Begleitern, durch die schmale Lücke.
+»Halt die Männer zurück, Hartwig!«, rief Alda über die Schulter. Sie reichte Berto die Zügel. »Halt sie kurz, Junge. Lass das Gespann nicht aufrücken, sonst drücken uns die Burgunder von hinten die Achsen ein.«
 
-»Vorwärts, Walo!«, schrie Alda über die Schulter. »Aufschließen! Berto, lass die Mähren anziehen!«
+Sie schwang sich vom Bock, ihre Waden schmerzten vom langen Stehen gegen das Bremsbrett. Der Schlamm vor dem Tor war zu einer zähen, warmen Kruste getrocknet, die unter ihren Bundschuhen wie dünnes Eis brach und darunter eine stinkende Jauche freigab.
 
-Die Kolonne setzte sich wieder in Bewegung, das Ächzen der Achsen mischte sich mit dem Dröhnen der Hufe. Alda sprang mit einem geübten Griff an das Eisen des Wagenkastens zurück auf ihren Bock. Ihr Herz schlug bis zum Halse, doch ihre Finger waren ruhig. 
+Als sie den Quader erreichte, sah sie das Dilemma. Neben dem blau gekleideten Zöllner Karls stand ein breitschultriger Alamanne im Kettenhemd, der einen Streitkolben lässig auf der Schulter wiegte und für Ludwigs Kämmerer sprach. Beide Männer schrien sich an, jeder in seiner Zunge, unfähig und unwillig, das Wort des anderen zu fassen, während ein dritter, ein kahlköpfiger Kleriker in lothringischer Tracht, mit einer Schreibfeder aus Gänsekiel hilflos auf ein Pergament einhackte, das in der feuchten Hitze bereits wellig geworden war.
 
-Vor ihnen erhob sich nun das östliche Stadttor von Verdun, die *Porta Castrensis*. Die alten römischen Quadersteine waren von Jahrhunderten der Kriege geschwärzt; oben auf den Zinnen standen Schützen mit gespannten Armbrüsten, während unten am Torbogen eine dichte Traube von Bewaffneten jeden Durchgang sperrte. Das Einlassgitter aus schwerer, mit Eisen beschlagener Eiche war nur halb hochgezogen, kaum breit genug für ein einzelnes Fuhrwerk.
+»*Ce sont les ordres du comte!*«, schrie der Westfranke und schlug mit der flachen Hand auf seine Tafel. »Kein Proviant ohne Marken der königlichen Kanzlei!«
 
-Hier staute sich das Elend des ganzen Reiches. 
+»Halt dein Maul, Welscher!«, brüllte der Mann mit dem Streitkolben zurück, seine Spucke traf das Wams des anderen. »Der Herzog von Bayern hat den Vortritt befohlen! Das Salz gehört in die Lagerzelte am Südhang, nicht in eure feinen Mäuler! Schieb das Tor auf, oder ich spalte dir den Schragen, auf dem du sitzt!«
 
-Hunderte von Bittstellern, Klerikern in staubigen Kutten, Boten mit versiegelten Lederbüchsen und Fuhrleuten standen im Schlamm des Grabens, der von den Küchenabfällen der Besatzung zu einer stinkenden Kloake geworden war. An der Torschwelle stand die Wache: eine gemischte Rotte aus Ministerialen Lothars und bischöflichen Knechten. An ihrer Spitze saß auf einer umgedrehten Salztonne ein fetter Vogt mit einer Schreibtafel auf den Knien, geschützt vor der Sonne durch ein provisorisches Tuch, das zwei Knechte über ihm hielten.
+Die Menge drängte nach. Ein Weinschlauch platzte unter den Hufen eines Maultiers; der rote Saft ergoss sich über die Stiefel des Klerikers, der ein weinerliches *»Misericordia«* ausstieß. Die Fuhrknechte begannen, ihre hölzernen Hebebäume von den Wagen zu lösen. Wenn hier ein Funke fiel, würden die Achsen brennen, noch ehe das Stadttor auch nur eine Daumenbreite nachgab.
 
-»Kein Einlass!«, plärrte ein Büttel mit einer Eisenstange, die er quer über den Weg hielt. »Die Stadt ist voll! Niemand betritt Verdun ohne Siegel des Erzkapellans oder Geleitbrief eines der drei Herzöge! Zurück mit dem Dreck!«
+Alda drängte sich zwischen die beiden Streithähne. Sie war nicht groß, aber die Arbeit an den Kähnen der Ill hatte ihre Schultern breit gemacht, und ihr Gesicht trug den unnachgiebigen Ausdruck einer Frau, die schon zu viele Männer über das Wetter hat klagen hören, während das Heu im Regen verfaulte.
 
-Walo ließ seinen Wagen neben Aldas Gespann halten. Seine Stirn war rot wie eine frische Rübe. »Hier ist Schluss, Alda. Die lassen niemanden durch. Sie pressen das Korn draußen ab und zahlen mit wertlosen Schuldscheinen. Wenn wir das Salz hier abladen müssen, sind wir verloren. Bis morgen früh haben die Trossbuben die Säcke aufgeschlitzt.«
+»Hört auf zu bellen wie die Kettenhunde!«, rief sie.
 
-Alda sah sich um. Knecht Berto war herangeeilt, hielt die Hand am Griff seines Messers, die Augen unruhig auf die Torwächter gerichtet. Gerwin saß auf seinem Karren, das Gesicht aschfahl; er hatte jemanden unter den Wachen erkannt oder fürchtete zumindest, erkannt zu werden. 
+Sie wandte sich zuerst an den Westfranken, sprach sein schnelles, rollendes Idiom mit der gelassenen Härte einer Marktfrau, die den Preis nicht verhandelt:
 
-»Bleib hinten, Gerwin«, rief sie leise zurück. »Berto, halt den Jungen fest.«
+»*Escoute, prevost!* Du verlangst zehn Pfennige für ein Fuder, das der König selbst bestellt hat? Glaubst du, Graf Adalhard lässt dir die Ohren am Kopf, wenn seine Schenken morgen das Fleisch wegwerfen müssen, weil deine Schranke den Konvoi aufhält?«
 
-Sie stieg erneut vom Bock, griff unter ihre Sitzbank und zog die beiden Holztafeln hervor, die Otwin in Marsal so sorgfältig mit Rußtinte und Daumenabdrücken versehen hatte, zusammen mit der Tonscherbe Folrads, die sie tief in ihrer Tasche trug. Otwin war noch nicht hier – er sollte mit den Schreibern des Bischofs auf dem Wasserweg über die Mosel und Maas nachrücken –, aber seine Handschrift, steil und kantig nach Art der Reimser Schule, lag nun in ihren Händen.
+Der Zöllner blinzelte verblüfft. Das Romanisch der Frau war rau, hatte den harten Schlag des Rheintals, aber jedes Wort saß an der richtigen Stelle. »Du hast eine Kanzleimarke?«, fragte er unsicherer, den Blick auf ihre einfachen Kleider gerichtet.
 
-Mit festen Schritten ging sie auf den Torvogt zu. Die umstehenden Treiber wichen ihr aus; eine Frau allein im Gedränge zog die Blicke auf sich wie ein brennender Strohwisch.
+»Ich habe etwas Besseres«, erwiderte sie kalt. Sie drehte sich halb zum Alamannen um und wechselte mitten im Atemzug in das tiefe, kehlige Fränkisch: »Und du, Kriegsknecht, nimm den Prügel von der Schulter, ehe du dir selbst die Zähne einschaltest. Das Salz ist Riedsalz aus Marsal. Es ist weder lothringisch noch bayerisch noch westfränkisch. Es salzt den Tisch für alle drei Enkel Karls. Wenn ihr euch hier die Schädel spaltet, fressen eure Herren den Brei ungesalzen. Ist es das, wofür dich dein Herzog bezahlt?«
 
-»Zurück, Weib!«, herrschte der Büttel sie an und stieß die Eisenstange gegen ihre Brust.
+Der Kleriker hob den Kopf, die Feder zitterte in seinen tintenbefleckten Fingern. »Wer bist du, Weib?«, fragte er auf Latein, um seine verlorene Würde wiederzugewinnen. *»Qua auctoritate ...«*
 
-Alda schlug die Stange mit dem Unterarm beiseite – eine Bewegung, die sie von den Laderampen an der Ill kannte, hart und ohne Zögern. »Nimm das Eisen weg, Knecht, ehe ich dem Vogt berichte, dass du das Siegel des Bischofs von Metz mit Kot besudelst.«
+»Lass das Latein in der Kapelle, Schreiberling«, unterbrach ihn Alda scharf in der Volkssprache. »Das Pergament macht den Braten nicht haltbar. Mein Name ist Alda, Witwe des Berengar von Straßburg. Meine Wagen bringen achtzig Fuder reines weißes Riedsalz. Wir zahlen den Brückenzoll nach altem Reichsrecht: ein Maß Salz auf zehn Fuder, gewogen am Tor, abzuliefern an die königliche Pfalz. So steht es im Heristaler Kapitulare, und so hat es gegolten, ehe eure drei Könige anfingen, das Reich wie ein altes Leichentuch zu zerschneiden.«
 
-Der Schreiber auf der Tonne hob den Kopf. Seine Augen waren klein, vom Wein des Vorabends gerötet, die Wangen schlaff. Er sprach ein gebrochenes, lothringisches Idiom, in dem sich die Zungen des Nordens und Südens mischten. »Was für ein Siegel? Hier gibt es kein Recht ohne Pfand, Frauenzimmer. Die Stadt platzt aus den Nähten. Kaiser Lothar speist heute mit seinen Brüdern, und die Herren haben keinen Platz für Landvolk.«
+Der Alamanne stieß ein kurzes, trockenes Bellen aus, das wohl ein Lachen sein sollte. »Ein altes Recht! Das Weibsvolk kennt das alte Recht besser als der Kleriker mit seinem Tintenfass!«
 
-»Ich bringe kein Landvolk«, sagte Alda laut, so dass die umstehenden Hauptleute der kaiserlichen Wache es hören mussten. Sie sprach jetzt jenes geschliffene, formelle Fränkisch, das an den Gerichtsplätzen des Rheins galt, streute aber gezielt die romanischen Rechtsbegriffe ein, die sie auf den Tafeln gelernt hatte. »Ich bringe sechzig Fuder gesiedetes Salz aus Marsal. Bestellt für die Hofhaltung des Königs Karl und die Küchen des Herzogs von Sachsen.«
+»Aber die Gebühr ...«, wandte der Westfranke ein, doch seine Stimme hatte das Schneidende verloren. Der Hinweis auf Graf Adalhard, den mächtigen Kämmerer Karls, schien seine Wirkung nicht verfehlt zu haben. Im Lager wusste jeder, wie schnell ein Untervogt in den Fluss geworfen wurde, wenn die Herren am Abend keinen gesalzenen Speck zum Wein bekamen.
 
-Der Vogt stutzte. Er blickte an ihr vorbei auf die Reihe der sechzehn schweren Planwagen, deren Gespanne schnaubend den ganzen Weg blockierten. »Salz? Sechzig Fuder? Die Salinen von Marsal unterstehen dem Bischof von Metz, und der Bischof hat dem Kaiser noch keine Zehnten geliefert.«
+»Du bekommst dein Maß Salz«, sagte Alda ruhig und trat einen Schritt näher an den Quader heran. »Ein volles Maß aus dem ersten Korb. Feinstes Riedsalz, kein grauer Steinschnitt. Du kannst es heute Abend für vier Silberlinge an die Burgunder verkaufen, die dort hinten im Dreck stehen und um eine Handvoll betteln. Und du« – sie sah den Alamannen an – »sorgst dafür, dass meine Gespanne den Weg hinauf zur Stiftskirche Sankt Stephan nehmen können, ohne dass mir deine Trunkenbolde die Planen aufschlitzen. Wenn ein Sack fehlt, ziehe ich es deinem Herzog von der Lieferliste ab.«
 
-»Die Salinen unterstehen Gott und den Meistern der Pfannen«, erwiderte Alda kühl. Sie hielt ihm die Wachstafel hin, tippte mit dem rissigen Fingernagel auf die lateinischen Zeilen, die sie zwar nicht Wort für Wort lesen, deren Klang und Sinn Otwin ihr aber hundertfach eingeprägt hatte. »Hier steht das *vectigal*, gezeichnet von Meister Folrad. Freier Durchzug zum kaiserlichen Markt gegen Abgabe des zehnten Teils an der städtischen Waage. Und wenn du uns hier im Staub verrecken lässt, Herr Vogt, dann wirst du heute Abend dem Mundschenk des Kaisers erklären müssen, warum die Ochsenbrust für das Königsmahl ungesalzen auf den Tisch kommt und stinkt wie ein toter Hund im Graben.«
+Der Kleriker sah vom einen zum anderen. Die Hitze schien ihm den Verstand zu vernebeln, der Schweiß rann ihm in dicken Tropfen über die Glatze und tropfte auf die unbeschriebene Ecke seines Pergaments.
 
-Ein raues Lachen ertönte hinter den Wachen. Ein älterer Kriegsknecht, dessen Wams die Farben Lothars trug, trat vor. Er trug ein langes Schwert an einem breiten Wehrgehänge, das Gesicht von einer Narbe quer über die Wange gespalten. Er blickte auf Alda, dann auf die Karren, auf die riesigen, mit nassen Tüchern abgedeckten Lasten.
+»Lass sie durch«, murmelte er schließlich auf Romanisch. »Schreib auf: sieben Karren, Provant für das Hochstift und die königliche Tafel. Zoll entrichtet in Naturalien.«
 
-»Sie hat recht, Guntram«, sagte der Krieger auf Romanisch, wandte sich dann aber mit sächsischem Zungenschlag an den Vogt: »Das Küchengesinde flucht seit zwei Tagen. Die Brühe ist schal, und das Fleisch aus dem Hennegau fault ihnen unter den Messern weg. Wenn die drei Könige morgen beim Friedensmahl sitzen und das Fleisch schmeckt nach Aas, schlägt man dir die Ohren ab, Vogt, nicht ihr.«
+Der Westfranke zögerte noch einen Herzschlag lang, dann winkte er mit seiner Holztafel den Torwächtern zu. »*Ovrez!* Macht auf da vorn! Sieben Wagen Salz! Räumt die Straße, ihr Hunde!«
 
-Der Schreiber biss sich auf die Lippe. Er sah die Urkunde an, fuhr mit dem Daumen über das eingedrückte Bienenwachs, in dem die Runen und Meisterzeichen der Salzsieder prangten. Er konnte die Rechtmäßigkeit in diesem babylonischen Chaos unmöglich prüfen; hundert Boten brachten täglich tausend Papiere, und die Kanzleien der drei Herrscher belauerten sich gegenseitig mit Argwohn. Aber Salz – wirkliches, trockenes Salz – war eine Sprache, die jeder verstand.
+Zwei riesige Eichenbalken wurden unter lautem Ächzen zurückgeschoben. Das Tor öffnete sich einen Spaltbreit, gerade genug für die Breite einer Achse.
 
-»Wo wollt ihr lagern?«, fragte der Vogt bissig, gab aber dem Büttel ein Zeichen, die Eisenstange zu senken.
+Alda drehte sich um und hob den Arm. »Hartwig! Gerwin! Voran! Zieht die Tiere an den Köpfen, lasst ihnen keine Luft!«
 
-»Am Ufer der Maas, unterhalb der Bischofspfalz«, antwortete Alda ohne Zögern. »Dort, wo die Schiffe aus Lüttich anlegen.«
+Sie eilte zurück zu ihrem Wagen. Der junge Berto reichte ihr mit glänzenden Augen die Zügel herab.
 
-»Dort steht schon der Tross des Grafen von Tours!«, giftete der Schreiber.
+»Du hast sie bezwungen, Mutter«, flüsterte er ehrfürchtig. »Ganz ohne Schwert.«
 
-»Dann stellen wir uns daneben. Platz für sechzehn Wagen findet sich immer, wenn das Salz billiger ist als das der Händler aus Verdun.«
+»Man bezwingt solche Männer nicht mit dem Schwert, Berto«, sagte sie leise, während sie sich wieder auf das Trittbrett schwang und das Leder aufnahm. »Man zeigt ihnen nur, wie sie ihren eigenen Hals aus der Schlinge ziehen können, ohne dass es sie etwas kostet. Merk dir das: Ein Mann mit einem Federkiel und ein Mann mit einer Lanze fürchten dasselbe – den Zorn desjenigen, der ihnen das Korn zuteilt.«
 
-Ein Raunen ging durch die Menge der Fuhrleute hinter ihnen. Walo grinste grimmig, entblößte zwei Reihen gelber Zähne und spuckte über das Rad. 
+Sie schnalzte mit der Zunge. Die schweren Rosse legten sich ins Geschirr, die Hufe fanden Halt auf den abgewetzten Stufen der römischen Torschwelle. Eisen schabte über Stein, Funken stoben im trüben Dunst auf.
 
-»Zehn Schillinge Brückenzoll«, verlangte der Schreiber, der seinen Stolz retten wollte. »In Silber. Kein Kupfer, keine Wachskeile.«
+Als Gerwins Karren durch das Tor rollte, trat der Zöllner heran, um das versprochene Maß Salz einzufordern. Gerwin schnitt mit ruhiger Hand die Schnur eines Weidenkorbes auf, tauchte ein hölzernes Schöpfgefäß tief in das blendend weiße Pulver und goss es in die Schürze des Beamten. Das Salz rieselte trocken und schwer, ein lautloses weißes Rinnsal, das im Sonnenlicht wie zerstoßene Perlen glänzte.
 
-Alda griff in den Beutel an ihrem Gürtel. Sie zählte die Silbermünzen ab – nicht die lothringischen Denare, die an Wert verloren hatten, sondern gute, schwere Straßburger Pfennige, geprägt unter Kaiser Ludwig dem Frommen. Das Silber klang hell, als sie es auf die Holztafel des Vogts fallen ließ.
+Der Zöllner steckte eine Fingerkuppe hinein, leckte sie ab und schloss für einen Augenblick die Augen.
 
-»Geschworen und gezahlt«, sagte sie fest.
+»*C'est du bon*«, murmelte er fast andächtig. »Kein Dreck darin.«
 
-Der Vogt wischte das Silber mit einer schnellen Bewegung in seine Tasche, riss die Wachstafel an sich und kritzelte mit dem Griffel ein Zeichen auf das rohe Holz eines Zettels. Er warf ihn ihr vor die Füße.
+»Aus den Feuern von Marsal«, sagte Gerwin leise, und zum ersten Mal seit vielen Monaten schwang kein Zittern mehr in seiner Stimme mit.
 
-»Fahrt zu, beim Teufel«, knurrte er. »Aber wenn ein einziger Karren die Torachse rammt, lasse ich eure Zugtiere schlachten und an die Hunde verfüttern!«
+Sie waren in Verdun. Doch der Rauch, der über den Gassen der Stadt lag, war noch dicker als vor den Toren. Die Häuser aus dunklem Eichenfachwerk drängten sich eng aneinander, überragt von den Ruinen der spätrömischen Paläste, deren zerschlagene Marmorsäulen als Fundamente für Schweineställe und Schmieden dienten. Überall lagen Menschen auf den Schwellen, erschöpft von der Glut des Mittags, während aus den Schenken das betrunkene Gebrüll fränkischer Krieger drang, die ihr Silber für dünnes, saures Bier vergeudeten.
 
-Alda hob den Zettel auf. Sie wandte sich um, sah Knecht Berto an, der die Daumen nach oben reckte, und ihren kleinen Sohn, der mit leuchtenden Augen auf dem Bock saß und ihr zusah, wie sie das Unmögliche erzwungen hatte. Gerwin ließ langsam die Schultern sinken, die Angst in seinen Zügen wich einer tiefen, erschöpften Erleichterung.
+Alda hielt den Zug auf dem kleinen Platz vor den Mauern von Sankt Stephan an, wo eine Reihe von Kastanienbäumen spärlichen Schatten spendete. Die Blätter der Bäume waren grau vom Ruß der Hufschmieden, die Tag und Nacht arbeiteten, um das Eisen für die Heere bereitzuhalten.
 
-»Das Gitter auf!«, brüllte der narbige Krieger den Torknechten zu. »Macht Platz für das Salz aus dem Osten!«
+Der alte Knecht Berto sank auf die Deichsel seines Wagens und wischte sich mit einem speckigen Lappen über das triefende Gesicht. »Wir sind drin, Herrin. Aber sieh dir die Preise an den Ständen an.« Er wies mit dem Daumen auf eine Bretterbude, wo ein Schlächter Rindfleischfetzen feilbot, die bereits schwarz von Schmeißfliegen waren. »Drei Denare für ein Pfund Grieben! Ein Brot kostet hier mehr als ein Schaf im Elsass. Wenn wir das Salz nicht teuer verkaufen, verhungern wir, ehe die Könige ihre Siegel gesetzt haben.«
 
-Mit einem kreischenden Laut, der durch Mark und Bein ging, hoben die Winden das schwere Fallgatter empor. Ketten rasselten, Staub rieselte von den alten Steinen des Torgewölbes.
+»Wir verkaufen nicht an den Pöbel«, erwiderte Alda fest. Sie stieg vom Wagen und kontrollierte die Radeisen ihres vorderen Karrens. Das Metall war glühend heiß, aber die Keile saßen fest. »Wir warten auf Otwin.«
 
-Alda stieg wieder auf ihren Karren. Sie griff nach den Zügeln, nahm die Hand ihres Sohnes und legte sie wieder an das Leder.
+»Otwin?«, Gerwin trat hinzu, seine Hände waren weiß vom Salzstaub. »Du traust ihm immer noch? Er ist ein Knecht der Kanzleien. Er riecht nach Tinte und Verrat.«
 
-»Siehst du, Berto?«, flüsterte sie leise, während die Hufe der Pferde auf den ersten Pflastersteinen des dunklen Torwegs aufschlugen und das Poltern der Wagen wie Donner unter dem Gewölbe widerhallte. »Worte sind Waffen. Man muss nur wissen, in wessen Ohr man sie stößt.«
+Alda sah ihren Bruder an. Es war kein Zorn in ihrem Blick, nur die tiefe, unerbittliche Sachlichkeit einer Frau, die gelernt hatte, mit dem Holz zu bauen, das vorhanden war, nicht mit dem, das sie sich wünschte.
 
-Der Junge nickte ehrfürchtig. Das Gespann tauchte ein in den kühlen Schatten der Tordurchfahrt, fort aus der sengenden Glut des Tals, hinein in das brodelnde Herz von Verdun, wo das Schicksal eines Reiches – und das Erbe eines kleinen Straßburger Hofes – auf der Waage lagen.
+»Er kennt die Namen der Zahlmeister, Gerwin. Er weiß, welches Silber echt ist und welche Münzen die Westfranken mit Kupfer gestreckt haben, um ihre Söldner zu betrügen. Du verstehst dich auf die Deichseln, ich verstehe mich auf die Zügel. Aber Otwin versteht das Gift, das auf den Pergamenten trocknet. Wir brauchen alle drei, wenn wir mit mehr als leeren Händen nach Straßburg zurückkehren wollen.«
+
+Der Junge Berto stand am Kopf des Leitpferdes und kühlte die Nüstern des Tiers mit einem feuchten Tuch. Er sah auf zu den Türmen der Stiftskirche, hinter deren hölzernen Schallläden die Glocken zur None schlugen. Der metallene Klang legte sich schwer und ehern über das Stimmengewirr der Zehntausenden, die das Schicksal des Reiches erwarteten, ohne zu wissen, welche Grenze morgen ihre Äcker teilen würde.
+
+Alda zog das gespaltene Kerbholz aus ihrem Gürtel. Das Holz war durchtränkt vom Schweiß ihrer Reise, dunkel geworden an den Rändern, doch die Kerben standen unverrückbar im Buchenspan. Sie strich mit der Daumenkuppe über die Einschnitte, zählte sie im Stillen nach.
+
+Draußen im Lager begann ein Trupp Panzerreiter ein wildes Gejohle, gefolgt vom Scheppern von Eisen auf Holz. Irgendwo brannte ein Zelt ab; eine dünne, schwarze Rauchsäule stieg kerzengerade in den bleiernen Himmel von Verdun. Die Könige verhandelten, die Krieger sofffen, und das Reich hielt den Atem an.
+
+Alda steckte das Holz zurück in ihr Mieder, direkt auf ihre Haut, wo es kühl und hart an ihren Rippen lag.
+
+»Berto«, sagte sie zu dem Knecht. »Tränkt die Rösser. Aber gebt ihnen nicht zu viel auf einmal, das Wasser hier schmeckt nach faulem Schilf. Wir rühren uns nicht von der Stelle, bis die Kämmerer kommen. Und wenn sie kommen, reden wir nicht vom Reich. Wir reden vom Pfund Salz für zwei Denare Silber, gewogen nach Straßburger Gewicht.«
+
+Sie stellte sich vor ihren Wagen, die Beine fest in den Schotter gestemmt, und sah hinab auf das brodelnde Tal, in dem die Zukunft begraben oder neu geschmiedet werden würde.
 

@@ -5,159 +5,107 @@
 
 ---
 
-Der Gestank von totem Flusswasser und nassem Pferdemist schlug Alda am Schindertor entgegen, vermengt mit dem sauren Geruch von gärender Lohe aus den Gruben der Gerber. Doch als sie die Gasse zu ihrem Hof einbog, verharrten ihre Schritte im gefrorenen Matsch. Kein friedlicher Rauch stieg aus dem Rauchloch ihres Wohnhauses. Am Tor standen zwei breitschultrige Knechte mit Eschenspießen, gehüllt in grobe, ungebleichte Wollkitteln. Dazwischen stand Folker.
+Der Schneeregen hatte nachgelassen, doch die Kälte kroch nun feuchter und schneidender durch die Gassen, als Alda den befestigten Bezirk der alten Bischofsstadt erreichte. Über den römischen Fundamenten, deren wuchtige Quader noch immer die Trassen der Kaiserzeit trugen, erhoben sich die grauen Fachwerkbauten und niedrigen Steinhallen der fränkischen Großen. Vor der offenen Vorhalle des Münsters, wo sich das Volk bei Streitigkeiten unter dem Schutz des Grafenstabs sammelte, dampfte der Kot der Zugochsen in der eisigen Luft. Hier roch es nach erloschenem Torffeuer, nassem Ziegenleder und dem fauligen Schlick, den die Ill bei jedem Hochwasser in die Senken drückte.
 
-Der Vogt hielt einen geschälten Haselstab in der Rechten – das Zeichen der gerichtlichen Einweisung. Vor ihm kniete der Junge Berto im Dreck, die Hände schützend über den Kopf gelegt.
+Alda blieb am Fuß der steinernen Stufen stehen und strich sich die klammen Haarsträhnen unter das Leinentuch. Die Wut aus dem Zeltlager brannte noch immer in ihren Adern, doch sie wusste, dass sie wie schäumendes Schmelzwasser war – heftig, aber ungelenkt, unfähig, ein Mühlrad zu treiben, wenn es an Gräben und Wehren fehlte. Mit bloßem Grimm würde sie Raginbert nicht beikommen. Das Recht der Franken kannte keine Tränen einer Schifferwitwe; es kannte Eide, Sippenzeugen und vor allem das unnahbare Vorrecht jener, die das Königsbannrecht handhabten.
 
-»Halt ein!«, schrie Alda, und ihre Stimme schnitt durch den feuchten Februarnachmittag wie eine Sense durch Schilf. Sie rannte, ohne auf den schlüpfrigen Boden zu achten, packte Folkers pelzbesetzten Ärmel und riss ihn mit solcher Wucht herum, dass der Vogt ins Straucheln geriet. »Nimm deine Hände von meinem Kind, Folker!«
+Sie wandte sich zur Flanke des Bauschuppens, wo unter einem weit vorkragenden Schindeldach die Tische der Zöllner und Abgabenerheber standen. Zwischen ledernen Säcken und eisenbeschlagenen Truhen saß dort Ines, das dichte, helle Haar mit einem schlichten Wollband straff aus der Stirn gebunden, die lederne Schürze über dem derben Wams voll grauer Kalkspuren und Bienenwachs. Ines war keine Klerikerin, doch ihre Finger wussten um jede Einkerbung, die ein Reichsknecht in Eschenholz schnitt, und ihr Gedächtnis glich einem wohlgefügten Ladekran: Was einmal darin verzeichnet war, rutschte nicht heraus.
 
-Der Vogt fing sich ab, sein Gesicht verzerrte sich zu einer Grimasse aus Überraschung und Wut. Er roch nach ranzigem Talg und Schafsfett. »Zurück, Weib! Raginbert hat gesprochen. Das Geld ist nicht auf dem Tisch, der Valentinstag neigt sich. Der Hof ist heimgefallen. Der Knabe geht mit mir in den Schafstall der Herrenkurie, bis seine Knochen den Schaden abgearbeitet haben.«
+»Du gehst wie eine, der das Grundwasser bis an die Schwellbalken steht«, sagte Ines, ohne den Kopf zu heben. Mit einem kleinen Hohlbeitel schnitt sie eine frische Kerbe in ein langes, vierkantiges Buchenholz, blies die Späne beiseite und legte das Messer auf den Tisch.
 
-»Er rührt sich nicht von der Schwelle!«, stieß Alda hervor. Ihr Atem ging stoßweise, weißer Dampf schoss aus ihren Lippen. Sie stellte sich breitbeinig vor Berto, die Fäuste unter der groben Schürze geballt. »Das Recht gilt auch für Raginbert. Kein Vogt legt Hand an freies Gut ohne das Wort des Grafen!«
+»Schlimmer«, erwiderte Alda und trat unter das Schirmdach, wo der Geruch von getrocknetem Stockfisch und Gerstenmalz die feuchte Luft sättigte. »Raginbert hat meine Kähne an die Ringe der Kaimauer geschmiedet. Die Zugtiere sind im Tross des Königs, und vor dem Heerlager hielt er mir ein Pergament hin. Dreißig Pfund Silber, besiegelt auf Berengars Namen. Wenn ich bis Martini nicht zahle, nimmt er den Hof, das Lagerhaus und die Plätten.«
 
-Folker lachte trocken auf, ein heiseres Bellen. »Der Graf hält sein Placitum heute in der Vorhalle der Marienkirche ab, Weib. Nach der Non. Glaubst du, Graf Erchanger hört auf das Gezeter einer Fuhrmannswitwe, wenn Raginbert von Salm eine besiegelte Haut auf den Tisch wirft? Deine Kähne gehören dem Heer, dein Haus gehört meinem Herrn.«
+Ines hob die Brauen. Ihre blassen Augen musterten Aldas durchnässten Mantel, glitten über den verkrusteten Schlamm an ihren Bundschuhen und blieben an der linken Hand hängen, die noch immer fest um das Bündel eigener Kerbhölzer geschlossen war.
 
-»Dann soll es der Graf aussprechen!«, rief Alda. Sie spürte, wie ihr das Herz bis in den Hals schlug, doch die Kälte in ihrem Magen war eisig und klar. »Vor den Schöffen. Vor freiem Volk. Wagst du es, das Tor vor dem Urteil zu brechen, Folker, klage ich dich des Landfriedensbruchs an. Ludwig und Karl haben heute einen Eid geschworen, erinnerst du dich? Frieden im Reich! Vergreif dich an mir, und ich rufe das Königsrecht an!«
+»Dreißig Pfund«, wiederholte die Blonde tonlos. »Für ein solches Gewicht kauft man eine halbe Gemarkung samt Hörigen und Pflugscharen. Berengar hat auf dem Wasser viel gewagt, aber er war kein Narr. Warum sollte er vor dem Ritt nach Fontenoy eine solche Bürde auf sich laden?«
 
-Die Knechte blickten unruhig zu Folker. Das Wort von den Eiden der Könige hatte sich wie ein Lauffeuer durch die Gassen gefressen. Selbst die Hörigen wussten, dass an diesem Tag die Augen der Franken und Alemannen auf Straßburg gerichtet waren.
+»Wegen Rüstung und Ross, sagt der Grundherr. Er hat einen Schreiber dabei, einen mit furchtsamen Augen und einer Zunge, die lateinische Formeln wie Gift über den Tisch rollte.« Alda zog die Hölzer aus dem Mantel und legte sie auf das Fichtenbrett zwischen ihnen. »Hier sind unsere Fuhren. Jede Eiche, die wir für das Stift geflößt haben, jeder Fuder Korn nach Basel, das Salz vom letzten Herbst. Nichts fehlt. Es gibt keine Schuld an Raginbert, die älter wäre als der Frost im Januar.«
 
-Folker spuckte einen braunen Schleimklumpen auf das Pflaster. »Gut. Gehen wir vor den Richterstuhl. Die Glocke zur Non hat drüben schon angeschlagen. Doch mach dir keine Hoffnung, Alda. Du hast kein Pergament. Du hast kein Silber. Nach der Vesper gehört mir dein Schlüssel.« Er wandte sich mit einer brüsken Handbewegung ab und stapfte mit seinen Leuten davon in Richtung Münsterplatz.
+Ines griff nach dem ältesten Holz, glättete das Holz mit dem Daumen und prüfte die Schnittkanten. »Das Holz spricht wahr für dich und für die Schiffer, Alda. Aber auf dem Grafenplatz gilt ein geschriebenes Blatt mit Wachssiegel mehr als ein Wagen voller gespaltener Weidenzweige. Vor dem Placitum bist du ein Weib ohne Mundherr. Wenn Raginbert den Grafen dazu bringt, die Pfändung sofort zu bestätigen, treiben seine Knechte dich noch vor der Vesper aus dem Haus. Dann nutzt dir keine Frist bis Martini, denn ohne Hof und ohne Schiffe wirst du bis zum Sommer betteln gehen.«
 
-Alda beugte sich hinab, zog Berto hoch und drückte ihn an ihre zerschlissene Gugel. Der Junge zitterte am ganzen Leib, seine Knie waren nass vom Tauwetter.
+Ein harter Schlag hallte von der Vorhalle herüber. Der Bannwart des Grafen stieß seinen eisenbeschlagenen Eschenstab dreimal auf das Pflaster, um das Gericht des Nachmittags zu eröffnen. Die Stimmen der Kläger und Schöffen wurden lauter; grobes Alemannisch mischte sich mit dem schärferen Laut der fränkischen Krieger, die den Schutz der Königseide noch im Nacken trugen.
 
-»Mutter«, flüsterte er mit erstickter Stimme, »er wollte mich binden. Er hatte Stricke dabei.«
+»Ich habe nichts als diese Kerben«, sagte Alda, und ihre Stimme klang rau wie Binsen im Frost. »Sag mir, was ich dem Richter sagen soll, Ines. Wenn ich schweige, bin ich verloren. Wenn ich ihn einen Lügner schelte, lässt der Graf mich wegen Ungebühr an den Pranger stellen.«
 
-»Er bindet niemanden«, sagte sie rau und strich ihm den schmutzigen Schopf aus der Stirn. »Hör mir zu, Berto. Du gehst ins Haus. Du schiebst den Eichenbalken vor das Tor. Wenn jemand klopft, öffnest du nicht – für niemanden außer mir. Verstehst du? Nicht einmal für Onkel Gerwin, falls er auftaucht. Nur für mich.«
+Ines schwieg einen langen Atemzug lang. Sie griff unter die Bank, zog ein Bündel schmaler, rußgeschwärzter Hölzer hervor, die an einer Lederschnur aufgereiht waren – das Abgabenregister der Stadtpforte und der königlichen Schiffsländen für das abgelaufene Jahr. Ihre geübten Finger schoben die Stäbe auseinander, zählten die doppelten Einschnitte, hielten inne.
 
-Er nickte stumm, die Augen weit vor Furcht, und schlüpfte durch die Pforte. Alda wartete, bis das schwere Holz ins Schloss fiel und der Riegel mit einem dumpfen Schlag ins Mauerwerk glitt.
+»Hier«, murmelte sie plötzlich, und ein kühles, fast unmerkliches Lächeln trat um ihre Mundwinkel. »Sieh dir das an.«
 
-Dann wandte sie sich um. Ihr Mut von eben zerrann wie dünnes Eis in der Mittagssonne. Otwin hatte ihr zwar gestanden, dass das Datum gefälscht war, doch Otwin war Raginberts Schreiber. Er würde vor dem Grafen den Mund nicht aufmachen, wenn es um seinen eigenen Kopf ging. Mündliche Worte galten vor Gericht nichts gegen ein lateinisches Pergament mit Wachssiegel. Raginbert besaß die Schrift, die Macht und das Ohr der Richter. Mut allein reichte nicht. Sie brauchte eine Waffe, die genauso scharf schnitt wie das Recht der Herren.
+Sie deutete auf ein Holz, das an der Schmalseite mit dem Zeichen des königlichen Fiscus versehen war – drei gekreuzte Linien, tief eingebrannt.
 
-Sie lief nicht zur Kirche. Sie bog in das feuchte Gängelchen hinter der Stadtmauer ein, wo das Wasser der Ill träge gegen die Weidenpfähle schwappte. Dort, im Schatten der alten römischen Quadersteine, lag das kleine, geduckte Haus der Münz- und Zollpächter.
+»Im letzten Herbst, vor dem ersten Eisgang, hast du für den Verwalter des Königshofs zwölf Lasten Mühlsteine von Zabern geholt. Die Abgabe für die Ufernutzung und den Wegezoll an der Illbrücke wurde gestundet, weil der königliche Vogt das Getreide für den Heereszug nicht rechtzeitig verrechnen konnte.«
 
-Ines saß auf einer niedrigen Holzbank vor der offenen Tür, trotz des schneidenden Windes. Auf ihren Knien lag eine gewachste Holztafel, in der Hand hielt sie einen schmalen Griffel aus Bronze. Um ihren Hals hing an einem Riemen ein Bündel gespaltener Hasel- und Buchenstäbe – die Kerbhölzer der städtischen Abgaben. Ines war kaum älter als Alda, doch ihr Haar war von jenem hellen, fast weißlichen Flachsblond, wie man es nur bei den Friesen an der Nordsee sah. Ihr Vater war als Tuchhändler an den Rhein gekommen; sie selbst führte seit fünf Wintern die Register für den bischöflichen Zoll und die königliche Fährgerechtigkeit. Sie konnte rechnen wie kein zweiter Kopf zwischen Basel und Mainz, und sie kannte jedes Gesetz, das jemals auf eine Tierhaut gekratzt worden war.
+»Ich erinnere mich«, sagte Alda rasch. »Wir gaben ihm zwei Silberlinge bar, der Rest sollte verrechnet werden, wenn die Schiffe im Frühjahr wieder fahren.«
 
-»Du bist außer Atem, Alda«, sagte Ines, ohne den Blick sofort von ihren Zahlen zu heben. Ihre Stimme klang trocken, wie das Rascheln von trockenem Stroh. »Und du riechst nach Aufruhr.«
+»Genau das ist dein Schild«, sagte Ines und schob das Holz über den Tisch, bis es fest an Aldas Daumen stieß. »Die Abgabe ist nicht an die Stadt gebunden, sondern an die königliche Kammer Ludwigs. Ein Lastkahn, auf dem eine unbeglichene königliche Frachtabgabe ruht, steht im Schutz des Königsfriedens, bis die Abrechnung beim nächsten Hauptgerichtshof vollzogen ist. Kein Grundherr, kein Graf und kein Vogt darf ein solches Pfand anrühren oder veräußern, ehe der Fiscus seinen Teil empfangen hat. Wenn Raginbert deine Schiffe und deinen Hof vor Martini mit Beschlag belegt, greift er in das Gut der Krone ein.«
 
-»Raginbert will mich vertreiben. Jetzt. Vor dem Grafen.« Alda stützte sich mit beiden Händen auf den rohen Zaun, ihre Finger krallten sich in das verwitterte Holz. »Er hat Heinrichs Schuldschein gefälscht. Otwin hat es mir gebeichtet, aber er wird nicht gegen seinen Herrn zeugen. Wenn Graf Erchanger die Urkunde sieht, gibt er ihm Recht. Heinrich hat vor Zeugen ein Kreuz darunter gesetzt.«
+Alda hielt das Holz fest. Das Buchenholz fühlte sich schwer an, trocken und vertraut, doch die Last, die es trug, war mit einem Mal eine ganz andere. »Das Recht der Krone bricht das Recht des Gläubigers?«
 
-Ines hob langsam den Kopf. Ihre blassen, wasserblauen Augen musterten Aldas verzweifeltes Gesicht mit kühler Sachlichkeit. Sie legte die Wachstafel beiseite, stand auf und strich ihren dunkelblauen Wollenmantel glatt.
+»Es bricht es nicht, aber es hemmt den Zugriff wie ein Eisriegel im Fluss«, erwiderte Ines leise. »Tritt vor den Grafen. Bestreite das Pergament nicht mit bloßen Schimpfworten, denn gegen das Siegel kommst du heute nicht an. Aber verlange die Frist. Erzwinge sie mit dem Königsrecht. Wenn der Graf sieht, dass Raginberts Pfändung die königlichen Abgaben gefährdet, wird er dem Grundherrn die Hände binden, bis das Jahr sich neigt.«
 
-»Ein Kreuz bindet«, sagte Ines ruhig. »Ein freier Mann, der sein Zeichen unter ein Skriptum setzt, übergibt sich der Hand des Gläubigers. Das ist fränkisches Recht, Alda. Da hilft kein Weinen und kein Zorn.«
+Ein weiterer Stoß des Bannstabs dröhnte durch die Vorhalle. Die Menge rückte zusammen, und der Geruch von nasser Wolle und kaltem Schweiß schlug herüber.
 
-»Es muss etwas geben!«, drängte Alda, trat durch die Pforte und packte Ines bei den Handgelenken. »Heinrich hat ihm dreißig Pfund Silber versprochen, ja, aber erst zu Martini! Raginbert will die Frist verkürzen, weil er meine Schiffe für den König braucht. Wenn er heute pfändet, bin ich vogelfrei. Berto wird sein Knecht!«
+»Geh«, sagte Ines und zog ihre Schürze glatt. »Und halte das Holz so, dass die Schöffen das Siegelzeichen sehen. Sie mögen kein Latein verstehen, aber das Brandmal des Fiscus kennen sie alle.«
 
-Ines entzog sich nicht, doch ihre Augen verengten sich. »Dreißig Pfund? Eine gewaltige Summe für einen Schiffer. Wofür?«
+Alda nickte nur. Sie verbarg die Hölzer nicht im Gewand, sondern trug sie offen in beiden Händen, als sie die Stufen zur Vorhalle hinaufstieg.
 
-»Ich weiß es nicht«, stieß Alda hervor, und die alte Scham brannte heiß in ihren Wangen. »Er hat geschwiegen. Er hat mich belogen, bis zu seinem letzten Atemzug. Irgendetwas mit Salz im Westen, jenseits der Berge. Aber das tut nichts zur Sache. Wie halte ich die Pfändung auf?«
+Unter den halbkreisförmigen Bögen, gestützt auf alte römische Säulen aus rötlichem Sandstein, hatte sich das Placitum versammelt. Auf einer erhöhten Bank aus schwerem Eichenholz saß Graf Adalhard, ein Mann mit wettergegerbtem Gesicht und kurz geschorenem, grauem Haar, gehüllt in einen Biberpelz, dessen Saum vom Schlamm der Königswiesen dunkel gefleckt war. Zu seinen Seiten saßen die sieben Schöffen, freie Grundbesitzer der Stadt, die Daumen in die breiten Ledergürtel gehakt, die Mienen unbewegt wie behauener Fels.
 
-Ines schwieg einen langen Augenblick. Der ferne Schall der Bronzeglocke von der Marienkirche wehte über die Dächer – die Richter versammelten sich zum Thing. Dann drehte sich die Friesin um und ging in ihre dämmrige Hütte.
+Raginbert stand bereits vor den Schranken. Er wirkte nicht wie ein Mann, der um sein Recht kämpfen musste; er stand da mit der gelassenen Sicherheit eines Herrn, dessen Speicher gefüllt und dessen Knechte zahlreich waren. Neben ihm, den Blick zu Boden gerichtet und die Schultern eng zusammengezogen, kauerte Otwin. Der Schreiber hielt das verhängnisvolle Kalbsleder mit beiden Händen vor der Brust, als sei es eine Last, die ihm die Arme nach unten riss. Seine Wangen waren fahl, und die Tintenspuren an seinen Knöcheln hoben sich schmutzig von der blassen Haut ab.
 
-»Komm rein«, befahl sie knapp.
+»... weshalb wir den Vollzug der Pfändung fordern«, schloss Raginbert gerade mit seiner tiefen, wohlklingenden Stimme, die den Raum mühelos füllte. »Der Schuldner ist vor Fontenoy geblieben, sein Erbe haftet für die Ausrüstung. Die Witwe besitzt weder die Mittel noch das Ansehen, um eine solche Summe zu gewährleisten. Das Gesetz der Franken gibt dem Gläubiger das Anrecht auf das Pfand, wenn der Bürge fehlt.«
 
-Der Raum roch nach Bienenwachs, Talg und dem herben Duft von getrocknetem Waid. An den Wänden hingen Hunderte von Kerbhölzern, fein säuberlich nach Gauen und Zöllen geordnet, jedes Holz der Länge nach gespalten: die eine Hälfte beim Schuldner, das Gegenstück an der Wand.
+Graf Adalhard strich sich über den Bart und sah zu den Schöffen hinüber. »Das Siegel ist unversehrt. Der Schreiber hat den Wortlaut bezeugt. Was sagt die Frau dazu?«
 
-Ines trat an eine Truhe aus Eichenholz, hob den schweren Deckel und kramte zwischen Bündeln von Lederstreifen und geschnitzten Stäben hervor.
+Die Blicke der Umstehenden wandten sich Alda zu. Sie spürte das Flüstern, das gedämpfte Lachen eines Knechts im Hintergrund, die herablassende Ruhe in Raginberts grauen Augen. Der Grundherr sah sie nicht einmal zornig an; für ihn war sie ein Stein auf dem Weg, den man mit der Stiefelspitze beiseiteschob.
 
-»Wenn du gegen ein Pergament kämpfen willst, musst du ein anderes Pergament finden. Oder einen König«, murmelte Ines. Ihre flinken Finger zogen ein schmales, langes Buchenholz hervor, das mit tiefen Einkerbungen und einem eingebrannten Zeichen – dem königlichen Monogramm Ludwigs – versehen war. »Hier.«
+Alda trat vor die niedrige Holzschranke, die Kläger und Beklagte von den Richtern trennte. Das Holz war glatt geschliffen von den Händen zahlloser Verzweifelter, die vor ihr hier gestanden hatten.
 
-Alda starrte auf das Holz. »Was ist das?«
+»Herr Graf«, begann sie, und ihre Stimme schwankte nicht, obwohl ihr Herz gegen die Rippen schlug wie ein Schaufelrad bei Hochwasser. »Ich bestreite nicht, dass dieser Mann ein Pergament in Händen hält. Doch ich stehe hier als freie Schifferin dieser Stadt, die ihren Zins und ihre Abgaben stets zur rechten Stunde entrichtet hat.«
 
-»Heinrichs Kerbholz für die königliche Transportabgabe«, erklärte Ines und strich mit dem Daumen über die Kanten. »Im letzten Herbst, kurz vor dem großen Frost, hat dein Mann fünf Fuhren Weinfässer vom Kaiserstuhl für den königlichen Hof zu Ingelheim übernommen. Die Fuhrlohnsteuer – der *teloneum* – wurde gestundet, weil der Frost die Ill blockierte. Heinrich schuldete der königlichen Kammer noch zwei Unzen Feinsilber für das Durchgangsrecht.«
+Raginbert lächelte schwach, ein kaum merkliches Kräuseln der Lippen. »Gute Worte zahlen kein Silber, Frau. Vor diesem Gericht zählt die Urkunde, nicht das Klagen am Herdfeuer.«
 
-Alda schüttelte ungeduldig den Kopf. »Was nützt mir eine Schuld beim König, wenn Raginbert mich mit dreißig Pfund erschlägt?«
+»Ich klage nicht«, erwiderte Alda fest und sah dem Grafen gerade in die Augen. »Ich frage nach dem Königsbann. Auf meinen drei Lastkähnen an der Ill und auf dem Speicher am Kai ruht nicht nur die angebliche Schuld an diesen Grundherrn. Dort ruht das Zeichen des königlichen Fiscus.«
 
-»Du verstehst die Gesetze der Franken nicht«, sagte Ines mit einem fast unmerklichen Lächeln, das keine Wärme besaß, sondern nur die Schärfe eines geschliffenen Messers zeigte. »Wer hat den Vorrang? Ein Grundherr mit einem privaten Schuldbrief – oder der König mit seinen Heeres- und Zolleinkünften?«
+Ein leises Raunen ging durch die Reihe der Schöffen. Einer der älteren Männer beugte sich vor, die Stirn in tiefe Falten gelegt.
 
-Alda hielt den Atem an. Ein Funke zündete in ihren Gedanken.
+Adalhard hob die Hand, um Ruhe zu gebieten. »Sprich deutlicher, Weib. Was hat die Krone mit deinem Hausrat zu schaffen?«
 
-»Die *lex* ist eindeutig«, fuhr Ines fort, und ihre Stimme nahm den belehrenden Klang eines Kanzlers an. »Kein freies Gut, auf dem eine unvergoltene Abgabe an die königliche Krone ruht, darf von einem Dritten gepfändet werden, ehe die königliche Schuld getilgt oder das Gut im königlichen Dienst ausgelöst ist. Solange die Krone eine Hand auf deinem Fuhrwerk und deinem Speicher hat, darf Raginbert keinen einzigen Nagel herausreißen, ohne sich des Eingriffs in königliches Kammergut schuldig zu machen. Schon gar nicht jetzt, wo Ludwig in der Stadt weilt und jeder Denar für die Rüstung zählt.«
+Alda legte die Kerbhölzer auf die Schranke, das Holz mit dem Brandzeichen des Königs ganz nach oben. »Im vergangenen Herbst wurden zwölf Fuder Zaberner Mühlsteine für den Königshof gefahren. Der Wege- und Wasserzoll an den Fiscus ist noch nicht verrechnet; er steht als offene Abgabe im Buch der Zöllner verzeichnet, gestundet bis zum Frühjahrsgericht nach dem Eisgang. Wenn der Grundherr meine Schiffe heute an die Kette legt und meinen Speicher bricht, greift er in das Pfand der Krone ein, ehe der königliche Vogt seinen Zins empfangen hat.«
 
-Alda griff nach dem Buchenstab, doch Ines hielt ihn fest.
+Raginberts Gelassenheit bekam einen ersten Riss. Sein Blick huschte kurz zu Otwin, doch der Schreiber starrte wie gelähmt auf den Boden zwischen seinen Füßen, unfähig oder unwillig, dem Grundherrn beizustehen.
 
-»Nicht so hastig, Alda. Das schützt dich nicht ewig. Es kauft dir nur Zeit. Die königliche Steuer wird fällig, sobald die Schifffahrt im Frühjahr vollends eröffnet ist – spätestens aber zum Jahresabschluss an Martini. Und der Graf wird verlangen, dass Raginberts Recht gewahrt bleibt. Wenn du Raginbert vor dem Grafen bloßstellst, wird er dich hassen bis aufs Blut.«
+»Eine Winkelzügigkeit«, sagte Raginbert, doch seine Stimme hatte die mühelose Milde verloren. »Eine geringe Transportgebühr kann eine rechtmäßige Schuld von dreißig Pfund Silber nicht aufheben. Der Grafensitz ist nicht dazu da, Schifferausreden gegen besiegelte Urkunden abzuwägen.«
 
-»Er hasst mich ohnehin«, erwiderte Alda hart und riss das Kerbholz an sich. Die scharfen Kanten des Buchenholzes bohrten sich in ihre Schwielen. »Er will mich brechen. Aber er bekommt meinen Hof nicht heute. Komm mit mir zum Placitum, Ines.«
+»Sie hebt die Schuld nicht auf, Herr«, entgegnete Alda, und sie spürte, wie der Boden unter ihren Füßen fester wurde. »Aber sie hemmt die Pfändung. Ihr verlangt mein ganzes Gut für eine Schuld, von der mein toter Mann mir nie ein Wort gesagt hat. Wenn Ihr mein Recht brecht, brecht Ihr zugleich den Königsfrieden über den Gütern des Fiscus. Wollt Ihr König Ludwig erklären, warum sein Zoll nicht eingezogen werden kann, weil ein Grundherr es eilig hatte, die Kähne einer Witwe an sich zu reißen?«
 
-»Nein«, wehrte die Blonde kühl ab. »Ich bin eine Pächterin, kein Fürsprech. Wenn ich mich offen gegen Raginbert stelle, brennt mein Haus vor dem nächsten Neumond. Das Wort musst du selbst sprechen. Steh vor den Grafen. Lass Raginbert seine Haut vorweisen. Und wenn der Schöffe den Stab über deinen Hof brechen will, wirfst du das Holz auf den Tisch. Sag genau diese Worte: *Königlicher Bann liegt auf Schiff und Speicher wegen unbeglichener Heerfahrtsteuer.* Wage es nicht, zu stottern.«
+Die Schöffen tuschelten nun offen miteinander. Der Älteste wandte sich an den Grafen und sprach mit gedämpfter Stimme auf ihn ein, während sein Zeigefinger mehrfach auf das eingebrannte Zeichen auf dem Buchenholz wies. Adalhard hörte zu, die Brauen zusammengezogen, den Blick abwechselnd auf Raginbert und auf das schlichte Holzstück gerichtet.
 
-Alda nickte. Ihr Mund war trocken wie Kalk, doch die Lähmung war gewichen. Sie drehte sich auf dem Absatz um und rannte los.
+Das Gesetz war starr, doch es war auch eifersüchtig. Kein Graf wagte es in diesen Tagen, da die beiden Könige ihr Heer vor den Toren versammelt hatten, die Einkünfte der Krone hinter die Ansprüche eines lokalen Grundherrn zurückzustellen.
 
-Der Wind trieb feine Eisnadeln vor sich her, als sie die offene Vorhalle der Marienkirche erreichte. Unter den wuchtigen Rundbögen aus rotem Sandstein hatte sich eine dichte Menschenmenge versammelt: Kaufleute in dicken Tuchmänteln, Gerber mit gebeugten Rücken, Schiffer und Kleriker des Bischofs. Der Atem der Menge stieg in dicken Schwaden empor und verfing sich im Gebälk der Decke.
+Adalhard richtete sich auf. Die Geräusche in der Vorhalle erstarben mit einem Schlag.
 
-Mitten in der Halle, auf einem erhöhten Holzstuhl mit geschnitzten Löwenköpfen, saß Graf Erchanger. Sein langes, ergrautes Haar war nach fränkischer Art gescheitelt, über seinen Schultern lag ein schwerer, bärenfellgefütterter Mantel, der mit einer goldenen Scheibenfibel zusammengehalten wurde. Neben ihm standen vier Schöffen – freie Grundbesitzer des Gaues – mit ernsten, versteinerten Gesichtern.
+»Das Recht der Urkunde steht fest«, sprach der Graf, und seine Stimme hallte von den romanischen Rundbögen wider. »Ein besiegeltes Pergament kann nicht durch den Widerspruch eines Weibes getilgt werden. Die Schuld von dreißig Pfund Silber bleibt gegen das Erbe Berengars gerichtet.«
 
-Davor stand Raginbert. Er trug ein Prachtgewand aus tiefblauem flandrischem Tuch, die Hände lässig auf den Knauf seines Kurzschwertes gestützt. Neben ihm duckte sich Otwin. Der Schreiber hielt das verhängnisvolle Pergament mit beiden Händen fest; seine Knöchel traten weiß hervor, sein Blick war starr auf die Steinplatten des Bodens gerichtet. Er zitterte, obwohl die Vorhalle vor Menschenleibern warm war.
+Raginbert atmete hörbar aus und straffte die Schultern, doch der Graf hatte noch nicht geendet.
 
-»... und darum fordere ich die Einweisung in Haus, Speicher und Gerät des verstorbenen Heinrich«, hallte Raginberts Stimme durch die Halle. Sie klang sonor, gemessen und frei von jedem Zweifel. »Die Frist war der Tag des heiligen Valentin. Der Tag ist da. Das Silber ist nicht gewogen worden. Hier ist das Skriptum, gefertigt von meinem Schreiber, besiegelt und vom Schuldner eigenhändig mit dem Kreuz Christi bestätigt.«
+»Jedoch«, fuhr Adalhard fort, und sein Blick traf den Grundherrn mit unmissverständlicher Schärfe, »geht der Anspruch des Königs allem privaten Zugriff voran. Solange die Abgaben an die königliche Kammer nicht gerechnet und entrichtet sind, bleibt das Gut ungeteilt. Es wird keine sofortige Ausweisung geben. Die Ketten an den Kähnen mögen als Zeichen des Streits verbleiben, doch Haus und Speicher bleiben in der Hand der Witwe, damit sie den Zins des Königs und die Mittel zur Tilgung erwirtschaften kann.«
 
-Graf Erchanger strich sich über den gepflegten Bart und warf einen Blick auf die Schöffen. »Ist der Witwe Nachricht zugekommen?«, fragte er mit gelangweilter Stimme. Gerichtstage im Winter waren lang, und der Graf dachte zweifellos an die Festmähler mit dem königlichen Gefolge.
+»Herr Graf—«, setzte Raginbert an, das Gesicht nun vollends verfinstert.
 
-»Ich bin hier!«, rief Alda und stieß die Männer in der vorderen Reihe beiseite.
+»Mein Wort ist gesprochen«, unterbrach ihn Adalhard kalt. »Die Frist steht. Bis zum Fest des heiligen Martin, wenn die Ernten eingefahren und die Herbstgerichte gehalten sind, hat Alda, Berengars Witwe, Zeit, die dreißig Pfund Silber vor diesen Schranken zu erlegen. Zahlt sie das Silber, ist das Pergament zunichte und die Kähne sind frei. Zahlt sie nicht bis zum Sonnenuntergang des Martinstages, fallen Speicher, Hof, Schiffe und alles Fahrnis ohne weiteren Spruch an Raginbert.«
 
-Das Gemurmel der Menge erstarb. Raginbert wandte den Kopf nicht um; er lächelte lediglich dünn, als habe sich eine Fliege auf seinen Ärmel verirrt. Otwin hingegen zuckte zusammen, als hätte ihn eine Peitsche getroffen. Seine Augen huschten gehetzt zu Alda, flehend, voller nackter Angst.
+Der Bannwart stieß den Stab auf das Pflaster. Das Urteil war gefällt, unverrückbar wie ein Grenzstein.
 
-»Alda, Heinrichs Witwe«, sprach der Graf und neigte den Kopf leicht. »Du kommst spät. Dein Gläubiger legt ein bindendes Dokument vor. Bestreitest du das Zeichen deines Mannes?«
+Raginbert stand regungslos. Für einen kurzen Augenblick begegneten sich seine Augen und die von Alda. Es lag keine Wut in seinem Blick, sondern die kalte, berechnende Geduld eines Mannes, der wusste, wie lang ein Winter und wie unerreichbar dreißig Pfund Silber für eine mittellose Schifferin waren.
 
-Alda trat vor die Schranke aus Eschenholz, die den Richtplatz vom Volk trennte. Sie spürte hunderte Augen auf ihrem Rücken. Sie sah Folker am Rand stehen, die Arme verschränkt, die Zähne bleckend.
+»Bis Martini also«, sagte er leise, kaum mehr als ein Hauch, der nur für sie bestimmt war. »Acht Monate, Frau. Du wirst das Silber nicht finden, weder auf dem Wasser noch unter der Erde. Und am Ende gehört mir jeder Nagel deines Hauses.«
 
-»Ich bestreite die Frist, Herr Graf«, sagte sie laut. Ihre Stimme zitterte nicht. Sie zwang sich, die Worte langsam zu sprechen, so wie Ines es ihr geheißen hatte. »Heinrich hat sich niemals auf den heutigen Tag verpflichtet. Es war Martini vereinbart.«
+Er wandte sich um, stieß Otwin mit dem Ellbogen an und schritt mit wehendem Wollmantel die Stufen hinab in das Gedränge der Stadt. Der Schreiber stolperte hinterher, das Pergament krampfhaft an die Brust gepresst. Als er an Alda vorbeikam, hob er für den Bruchteil eines Herzschlags den Kopf. Seine Lippen bebten, als wollte er etwas sagen, doch aus seiner Kehle drang kein Laut; dann riss ihn der Strom der Abziehenden mit sich fort.
 
-Raginbert stieß ein leises, wohlklingendes Lachen aus. »Weibergeschwätz. Der Schmerz hat ihren Verstand getrübt, Herr Graf. Das Pergament lügt nicht. Schreiber, lies die Datierung und zeige das Siegel den Schöffen.«
+Alda blieb allein an der Schranke stehen. Sie nahm ihre Kerbhölzer vom Tisch, strich mit den kalten Fingerspitzen über das Holz und barg sie wieder im Mantel.
 
-Otwin trat vor. Seine Hände bebten so stark, dass das getrocknete Ziegenleder leise knisterte. Er räusperte sich, die Stimme brach ihm weg. »*Actum... actum in vico Argentoratense...*«, begann er heiser. Er blickte kurz auf, traf Aldas brennenden Blick, dann den kalten, drohenden Raginberts. »... am Feste des heiligen Märtyrers Valentinus.«
+Sie hatte gesiegt, und doch fühlte es sich an wie ein Aufschub vor dem Ertrinken. Dreißig Pfund Silber. Eine Summe, die ein ganzes Leben wog.
 
-»Der Beweis ist erbracht«, stellte der oberste Schöffe, ein alter Freier namens Werinher, mit brummender Stimme fest. »Die Schrift schlägt das mündliche Wort. Wo ein Siegel spricht, schweigt die Klage.«
-
-Graf Erchanger griff bereits nach dem weißen Richterstab, um ihn zum Zeichen der Vollstreckung zu brechen. »So erkenne ich Raginbert von Salm das Recht zu, die Pfändung an Hof und Schiffen...«
-
-»Halt, Herr Graf!«, rief Alda und riss den Arm in die Höhe.
-
-In ihrer Rechten hielt sie das gespaltene Buchenholz. Das dunkle, eingebrannte Monogramm des Königs stach deutlich gegen das helle Holz ab.
-
-»Du wagst es, das Placitum zu unterbrechen?«, donnerte Erchanger, die Brauen finster zusammengezogen.
-
-»Ich rufe das Recht des Königs an!«, schrie Alda und trat noch einen Schritt näher an die Schranke heran. Sie knallte das Kerbholz auf das Geländer, dass das Holz splitterte. »Raginbert mag eine Forderung haben – doch der König hat die erste! Auf Heinrichs Hof und auf jedem seiner Kähne liegt der Bann der unbeglichenen Heerfahrtsteuer für den Weinzug nach Ingelheim!«
-
-Ein Raunen ging durch die Menge. Die Schöffen beugten sich vor. Der Graf hielt inne, der Stab schwebte in seiner Hand.
-
-Raginberts Lächeln gefror. Zum ersten Mal wandte er sich vollends zu Alda um, seine Augen wurden zu zwei schmalen, tödlichen Schlitzen. »Was faselt diese Närrin da? Ein Kerbholz über ein paar Pfennige Zollsoll gegen dreißig Pfund Silber stehen?«
-
-»Es steht nicht dagegen, Herr!«, entgegnete Alda, wandte sich an den Grafen und hielt Erchangers forschendem Blick stand. »Es geht um den Vorrang! Nach der *Capitulatio* des hochseligen Kaisers Karl darf kein Gut gepfändet werden, auf dem eine offene Abgabe an die königliche Kammer haftet, ehe die Sache der Krone bereinigt ist! König Ludwig weilt in diesen Mauern. Will Graf Erchanger das Gut der Krone an einen Grundherrn übergeben, während die Rosse des Königs draußen im Morast auf Verpflegung warten?«
-
-Erchanger stieß ein tiefes Grunzen aus. Er blickte von Alda zu Raginbert, dann zu den Schöffen. Keiner der freien Männer wagte es, dem König in Zeiten eines drohenden Bruderkriegs in die Abgaben zu greifen. Ein Eingriff in Kammergut galt als Treuebruch.
-
-»Woher stammt das Holz?«, verlangte der Graf zu wissen.
-
-»Vom bischöflichen Zollschreiber«, rief Alda. »Prüft das Gegenstück im Register! Heinrichs Schuld an der Krone steht offen. Bis zum Ende des Jahreslaufs. Bis Martini!«
-
-Raginbert trat vor, seine Fassung bröckelte für einen kurzen Augenblick, seine Stimme verlor die kühle Eleganz. »Herr Graf, das ist eine Finte! Sie will die Vollstreckung verschleppen! Mein Anspruch ist tituliert, dreißig Pfund Silber sind kein Pappenstiel! Soll mein Recht verfallen wegen zweier Unzen Steuerschuld?«
-
-»Dein Recht verfällt nicht, Raginbert«, entschied Graf Erchanger nach einem kurzen Geflüster mit den Schöffen. Er ließ den Richterstab sinken, ohne ihn zu zerbrechen. Der Graf war ein erfahrener Mann; er wusste genau, wie gefährlich es war, zwischen die Heeresinteressen der Könige und den Ehrgeiz des Adels zu geraten. »Doch das Königsrecht bricht das Herrenrecht. Wo die Krone die Hand auflegt, weicht die Pfändung.«
-
-Erchanger erhob sich halb von seinem Stuhl und deutete mit dem Stab auf Alda.
-
-»Die Pfändung des Hofes wird ausgesetzt. Der Königsbann sichert das Gut. Doch höre mich wohl, Alda, Heinrichs Witwe: Die Schuld an Raginbert von Salm ist nicht getilgt. Die Urkunde ist gültig. Wenn die königlichen Abgaben zum Martinstag dieses Jahres abgerechnet werden, fällt auch dieser Schutz. Bis zum Tage des heiligen Martin hast du Zeit, Raginberts dreißig Pfund Silber auf diesen Tisch zu wiegen. Tust du es nicht, wird dir kein König, kein Schöffe und kein Kerbholz mehr helfen. Dann fällt dein Hof an Raginbert, und dein Sohn geht in seine Hand.«
-
-Der Graf wandte sich ab und winkte die nächsten Kläger heran. Der Fall war entschieden.
-
-Alda stand regungslos da. Ein Schauer jagte über ihren Rücken, heiß und kalt zugleich. Sie hatte gewonnen. Nicht den Krieg, aber die Zeit. Neun Monate. Bis zum Frost. Bis Martini.
-
-Raginbert trat dicht an sie heran. Sein Gefolge schirmte ihn von den Blicken der Menge ab. Er war so nah, dass sie die feine Wolle seines Mantels berühren konnte. Seine Miene war wieder vollkommen glatt, doch in seinen dunklen Augen brannte ein unbarmherziges Feuer.
-
-»Ein kluger Schachzug, Fuhrmannsweib«, flüsterte er so leise, dass nur sie es hören konnte. Seine Worte klangen wie giftiger Honig. »Du hast dir den Galgen bis zum Herbst aufgespart. Dreißig Pfund Silber. Nicht einmal dein toter Mann hat so viel Silber auf einem Haufen gesehen. Du wirst betteln, du wirst deine letzten Kleider verkaufen, und am Martinstag werde ich nicht nur deinen Hof nehmen. Ich werde dich und deinen Bastard barfuß durch das Schindertor jagen.«
-
-Alda wich seinem Blick nicht aus. Sie reckte das Kinn, obwohl ihr Inneres zitterte. »Bis Martini fließt noch viel Wasser die Ill hinab, Herr. Und vielleicht friert es früher zu, als Euch lieb ist.«
-
-Raginbert musterte sie mit schneidender Verachtung, wandte sich um und schritt davon. Im Gehen stieß er Otwin grob in die Seite. »Komm, Schreiber. Verstaue die Urkunde. Sie wird im November umso süßer schmecken.«
-
-Otwin stolperte hinter seinem Herrn her. Doch kurz bevor er den Schatten der Kirchenpfeiler erreichte, drehte er den Kopf zurück. Für den Bruchteil eines Herzschlags trafen sich seine und Aldas Augen. In seinem Blick lag keine Furcht mehr vor Raginbert, sondern ein anderes, dunkles Entsetzen – und ein stummer Schwur. Die Komplet. Die Ill-Bucht.
-
-Alda griff nach dem Buchenholz auf dem Geländer. Ihre Hand war klamm vor Schweiß. Sie drehte sich um und trat hinaus in den feuchtkalten Straßburger Nachmittag.
-
-Der Himmel über der Stadt war von einem bleichen, schmutzigen Grau. Drüben im Heerlager brüllten die Ochsen, und die Hämmer der Schmiede schlugen unablässig auf das Eisen für den kommenden Feldzug. Sie war eine arme Witwe mit einem gesperrten Hof und fünf beschlagnahmten Schiffen. Doch als sie ihre Bundschuhe wieder in den zähen Lehm der Gasse setzte, spürte sie den festen Boden unter ihren Füßen.
-
-Sie wusste nun, wie man gegen die Herren kämpfte. Nicht mit Fäusten und Tränen. Mit ihren eigenen Zeichen. Mit ihrer eigenen Schrift.
-
-Sie beschleunigte ihre Schritte in Richtung des Schindertors. Es galt, ein Haus zu sichern, ein Kind zu trösten und in der Dunkelheit der kommenden Nacht die Wahrheit aus den Pergamenten eines Toten zu reißen.
+Sie wandte sich um und trat hinaus in den grauen Nachmittag. Über den Dächern von Straßburg stieg der Rauch unzähliger Feuerstellen auf, und im Westen, hinter den trüben Nebelschleiern der Rheinebene, zeichneten sich die fernen, eisigen Grate der Vogesen ab. Der Weg zu den Salinen war weit, steil und voller Gefahren, doch er war der einzige Pfad, der nicht in die Knechtschaft führte.
 

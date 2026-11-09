@@ -1,236 +1,124 @@
 ## Das Siegel des Klosters
 
-Der Gestank von kaltem Ruß und feuchtem Lehm kroch durch die Ritzen der Bohlenwand, als der Frost gegen das Haus drückte. In der Wohnstube glomm nur noch ein winziger Rest Eichenglut im offenen Herd, umgeben von grauer Asche, die wie Mehlstaub aufgewirbelt wurde, wann immer der Nordostwind an den Fensterläden rüttelte.
+Otwin beugte sich tiefer über die drei hölzernen Klapptafeln. Sein Atem ging stoßweise und hinterließ einen feinen Dunstbeschlag auf der dunklen Wachsschicht, die von zahllosen feinen Ritzungen überzogen war. Mit dem Daumennagel kratzte er vorsichtig an einer verkrusteten Kante, wo Ruß und Schmutz die lateinischen Schriftzüge unkenntlich gemacht hatten. Der Kienspan in Bertos kleiner Hand knackte leise, Funken stoben auf das Eichenholz, und der scharfe Geruch nach brennendem Harz mischte sich mit dem Moder des nassen Flusssands, der an Otwins Schuhen klebte.
 
-Alda kniete auf den grob behauenen Dielen. Ihre Knie schmerzten von der Härte des Holzes, doch sie spürte die Kälte kaum. Vor ihr lag die eiserne Spange des Beschlags, daneben die drei Wachstafeln aus dunklem Buchenholz, zusammengebunden mit rissigen Lederriemen.
+»Sprich deutsch mit mir«, sagte Alda. Ihre Stimme schnitt durch das Knistern des Feuers wie ein frisch geschliffenes Zugmesser durch Eschenholz. »Keine Kanzleiworte. Sag mir, was Berengar dort festgeschrieben hat.«
 
-Im Stall nebenan schnaubte einer der Zugochsen, gefolgt von einem dumpfen Scharren auf der Einstreu. Otwin schlief dort drüben im Heu – falls ein Mann schlafen konnte, dessen Leben an einem seidenen Faden hing. Berto hockte schräg hinter ihr auf dem Schemel, die Fersen in die Querstrebe geklemmt, die Hände fest in die wollene Tunika vergraben. Seine Lippen waren spröde von der Zugluft, die durch die Ritzen pfiff.
+Der Schreiber schluckte. Seine Finger zitterten noch immer, doch als er mit der Zeigefingerspitze den Linien folgte, glätteten sich seine Züge für einen Herzschlag. Das Handwerk gab ihm Halt, selbst hier, in einer rußgeschwärzten Stube an der Ill, gejagt von den Hunden des Grundherrn.
 
-»Mutter?«, flüsterte der Junge. Der Atem stand ihm weiß vor dem Mund.
+»Es ist eine Übereinkunft mit dem Stift Sankt Arnulf zu Metz«, begann Otwin und wählte die Worte bedächtig, als wöge er Getreidekörner auf einer Zählwaage ab. »Geschlossen im dritten Jahr nach der Erhebung Kaiser Lothars, vor dem großen Sterben bei Fontenoy. Berengar hat Getreideladungen und Bauholz aus dem Ried den Fluss hinab nach Lothringen gebracht. Drei schwere Züge im Frühjahr, zwei im Herbst.«
 
-»Sei still, Berto. Schau zur Tür.«
+»Das weiß ich«, unterbrach ihn Alda. Ihr Blick ruhte schwer auf den Händen des Schreibers. »Ich habe die Kähne beladen. Ich habe die Säcke gezählt, jeden einzelnen, und die Kerben ins Holz geschlagen. Das Getreide hat er bezahlt bekommen. Es floss in die neuen Taue und den Schifferlohn.«
 
-Sie lauschte in das Dunkel. Draußen, jenseits des gefrorenen Uferschlanns der Ill, zog eine Rotte Fußvolk vorbei. Man hörte das Klirren von Eisenringen auf Leder, das harte Aufschlagen von genagelten Bundschuhen auf dem gefrorenen Dreck und ein heiseres Fluchen in der rauen Mundart der Sachsen. Die Heere der beiden Brüder, Ludwig und Karl, lagen noch immer wie eine Heuschreckenplage vor Straßburg. Jeder Schuppen, jede Darre war durchstöbert worden. Was die Fouragiere nicht beschlagnahmten, fraßen die Pferde der Panzerreiter kahl. Im Speicher unter ihrem Dachboden war die Gerste bis auf den Boden der Truhen geschrumpft; kaum zwei Eimer voll blieben für das Frühjahr, dazu eine Handvoll verschrumpelter Steckrüben und der Ranz von drei Speckseiten, an denen die Mäuse genagt hatten.
+»Nicht ganz«, erwiderte Otwin leise. Er blickte nicht auf, sondern deutete auf ein kreisrundes, tief in das Holz geprägtes Zeichen am unteren Rand der mittleren Tafel, das zwei gekreuzte Schöpflöffel unter einem Krummstab zeigte. »Hier. Der Kellner des Klosters hatte kein Silber mehr, um die letzte Fracht zu begleichen. Die Heere lagen damals schon im Westen, die Speicher der Bischöfe waren leergefressen. Statt Münzen gab man Berengar einen Anteil an den Siedepfannen im Tal der Seille. Ein Vorkaufsrecht. Zwanzig Karrenladungen weißes Siedesalz aus Marsal, festgeschrieben zum alten Pfennigwert des Vorjahres.«
 
-Alda griff nach dem Griffel aus Hirschhorn, den Otwin ihr dagelassen hatte, ehe sie ihn in den Stall geschickt hatte. Sie drehte das Bein zwischen den klammen Fingern.
+Aldas Hände schlossen sich langsam zu Fäusten. Der Schmerz in ihren Knöcheln erinnerte sie an das Gewicht der Eisenketten, die draußen am Ufer ihre Kähne an die römischen Quader banden. Weißes Salz. Nicht die graue, bittere Kruste, die man aus dem Schlamm der Lagunen kratzte, sondern das schwere, trockene Siedegut der Lothringer Brunnen, das auf den Märkten im Reich mehr galt als gediegenes Kupfer. Wenn die Schmelze einsetzte und die Straßen unpassierbar wurden, verdoppelte sich sein Wert binnen zweier Wochen.
 
-»Hol ihn herein«, sagte sie leise.
+»Ein Recht verfällt, wenn man es nicht einfordert«, sagte sie hart. »Berengar ritt nach Westen und kam auf einem Karren unter einem Leintuch zurück. Warum hat er die Pfannen nicht eingelöst?«
 
-Berto zögerte nicht. Er sprang auf, lautlos auf seinen weichen Filzschuhen, schob den Holzriegel der Zwischentür zurück und schlüpfte in den Stalltrakt. Einen Herzschlag später kehrte er zurück, gefolgt von dem Schreiber.
+Otwin strich mit dem Ärmel über die dritte Tafel, drehte sie gegen das flackernde Licht und schüttelte langsam den Kopf. »Weil der Weg gesperrt war. Die Vogesenpässe waren im letzten Sommer von den Gefolgsleuten König Karls besetzt. Niemand kam durch, ohne dass ihm die Ladung abgepresst oder das Zugvieh geschlachtet wurde. Doch die Frist läuft nicht nach Monden, sie läuft nach Jahren. Das Siegel des Propstes ist unversehrt. Solange Sankt Arnulf die Hand über Marsal hält, muss der Salzvogt das Gut herausgeben. An jeden, der dieses Holz vorweist und den alten Preis in Silber oder gleichwertigem Gut auf den Tisch legt.«
 
-Otwin duckte sich unter dem niedrigen Sturz hindurch. Strohhalme klebten in seinem verfilzten, dunklen Haar, und die zerschlissene Tunika aus ungefärbter Wolle roch penetrant nach Mist und kaltem Schweiß. Seine Hände, die feinen Finger eines Mannes, der nie eine Axt geschwungen hatte, waren blaurot angelaufen. Doch in seinen Augen lag kein Stumpfsinn, sondern die flackernde Wachsamkeit eines gejagten Tiers.
+Alda starrte auf die schwarzen Linien im Wachs. Für sie waren es tote Striche, Krallenspuren eines fremden Vogels, doch in Otwins Mund verwandelten sie sich in eine schwere Last, die eine Richtung bekam. Zwanzig Karren. Wenn sie auch nur die Hälfte über die Zaberner Steige brachte, bevor die Frühjahrsfronknechte die Wege zermahlten, konnte sie Raginberts Zins tilgen. Sie konnte die Kähne frei kaufen, die Knechte entlohnen und Berto das Haus erhalten. Dreißig Pfund Silber waren ein Berg, den kein einfacher Schiffer je aufzuhäufen vermochte, doch zwanzig Fuder Marsaler Salz wogen diesen Berg auf – wenn man die Fracht lebend an die Ill brachte.
 
-»Ihr wollt es noch einmal sehen«, sagte Otwin ohne Umschweife. Er trat an die Herdstelle und hielt die Hände über die schwindende Glut, ohne darum zu bitten. Seine Gelenke knackten.
+Ein dumpfes Pochen ließ beide zusammenfahren.
 
-»Ich will jedes einzelne Zeichen hören«, erwiderte Alda. Ihre Stimme schnitt durch den Raum wie eine frisch geschliffene Sense. Sie schob die größte der drei Tafeln mit dem Daumen über das Holz. »Heinrich hat geschwiegen. Vier Jahre lang hat er über diese Bretter geschwiegen. Er hat sie unter den Dielen versteckt, hinter dem Räucherbalken. Wenn ein Mann etwas vor seiner Frau verbirgt, ist es entweder Schande oder Gold.«
+Berto stieß einen spitzen Schrei aus und ließ den Kienspan fallen. Das glimmende Holz zischte auf dem gestampften Lehmboden, bevor Alda den Fuß darauf setzte und die Glut erstickte. Sie griff nach der Axt, die neben der Bank an der Wand lehnte. Die Schneide war schartig vom Holzhacken, aber schwer genug, um einen Schädel zu spalten. Otwin kroch auf allen vieren rückwärts unter den Tisch, das Gesicht kreideweiß, den Kopf zwischen die Schultern gezogen wie ein geprügelter Hund.
 
-»Es ist beides«, sagte Otwin leise.
+Alda lauschte. Draußen wehte der Wind den nasskalten Geruch des Flusses durch die Ritzen der Tür. Kein Hufschlag. Kein Klirren von Eisen. Nur das schwere, rhythmische Schlagen eines losen Weidengeflechts gegen den Speicherpfosten, das der Windstoß losgerissen hatte.
 
-Er kniete nieder, zog eine kleine Öllampe aus seiner Tasche, entzündete den Docht an der letzten Glut und stellte das flackernde Lämpchen zwischen die Tafeln. Der Geruch von tranigem Fischöl mischte sich mit dem Ruß. Otwin nahm die Tafel zur Hand, neigte sie gegen das gelbliche Licht und fuhr mit dem stumpfen Ende seines Nagelreinigers über das geschwärzte Bienenwachs, in das lateinische Minuskeln geritzt waren.
+Sie atmete langsam aus, doch der Druck auf ihrer Brust wich nicht. Sie wandte sich dem Schreiber zu. »Komm da raus.«
 
-»Hier«, sagte er und tippte auf den oberen Rand. »Das Monogramm des königlichen Fiskus. Nicht das von Karl dem Kahlen, sondern das alte, aus der Kanzlei Kaiser Lothars, gesetzt zu Aachen vor drei Wintern. Heinrich hat nicht nur Getreide gefahren. Er hat den Transport für das Stift Sankt Stephan übernommen.«
+Otwin stieß sich mühsam vom Boden ab, klopfte den Staub von seiner zerschlissenen Kutte und setzte sich wieder. Seine Zähne schlugen leise aufeinander. »Isenbart schläft nicht«, flüsterte er. »Er kennt jeden Winkel der Vorstadt. Wenn er erfährt, dass ich hier bin, brennt er diesen Hof nieder, ohne nach dem Grafenbann zu fragen.«
 
-»Das weiß ich«, unterbrach ihn Alda schroff. »Er brachte Bauholz hinauf und Talg für die Kerzen. Sag mir, was das Recht wert ist.«
+»Er wird ihn nicht niederbrennen, solange Raginbert hofft, die Speicher im Herbst unversehrt einzustreichen«, entgegnete Alda kalt. »Aber er wird zusehen, dass mir vorher der Atem ausgeht. Schau dir die Vorratskammer an. Das Heer der beiden Könige hat uns kahlgefressen wie Heuschrecken das Ried.«
 
-Otwin schluckte. Seine Kehle bewegte sich krampfhaft. »Es ist kein bloßer Transportauftrag. Es ist eine Zuweisung. Dreißig Fuder Salz. Nicht aus den Händen der Händler am Rhein, sondern direkt ab den königlichen Pfannen zu Marsal im Seille-Tal. Ein Vorkaufsrecht für den dritten Teil des Ertrags der vierten Siedepfanne. Verbriefte Zuteilung gegen Lieferung von zweihundert Klaftern Buchenspälten zur Befeuerung der Öfen.«
+Sie trat an die Wandnische neben dem Herd. Dort stand kein Speck mehr, kein Fass mit eingesalzenem Schweinefleisch, keine Kiste mit Roggenmehl. Die Fourierknechte König Ludwigs hatten vor drei Tagen alles mitgenommen, was nicht niet- und nagelfest war; die Quittungen auf Wachs und Pappelholz waren nicht mehr wert als das Laub des vergangenen Herbstes. Eine halbe Kiste getrocknete Saubohnen, schrumpelig und von Würmern angebohrt, zwei Krüge mit ranzigem Rüböl und ein kleiner Laib hartes Gerstenbrot – das war alles, was das Haus bis zur ersten Ernte am Leben halten sollte.
 
-Alda starrte auf das Wachs. Die Buchstaben waren für sie nichts als ein Gewirr von Ameisenbeinen, kleine Schnitte in einer toten Haut. »Marsal«, wiederholte sie. Der Name schmeckte nach fremdem Land, nach feindlichen Reitern und den dichten, unwegsamen Wäldern der Vogesen. »Marsal liegt im Reich Lothars.«
+»Wie willst du nach Marsal gelangen?«, fragte Otwin heiser. Er blickte von der leeren Nische zu Aldas Axt. »Die Salzsieder schenken dir das Gut nicht. Du brauchst Zugtiere, um die Karren über den Pass zu schleppen. Raginbert hat deine besten Ochsen genommen. Du brauchst Tauschgut, um den Salzzoll anzuzahlen, Schmalz für die Achsen, Hafer für die Pferde und Brot für die Knechte. Mit leeren Händen lacht man dich an den Brunnen der Seille aus.«
 
-»Tief darin«, bestätigte Otwin. »Zwei Tagesreisen jenseits der Zaberner Steige, wenn die Wege trocken sind. Jetzt, im Vorfrühling, im Schlamm der Schneeschmelze, werdet Ihr vier Tage brauchen. Mindestens. Aber seht hier.« Er deutete auf eine feine Einritzung am unteren Rand, kaum größer als ein Fingernagel. »Das Zeichen des Salzgrafen. Ein Rost und drei Wellenlinien. Heinrich hat die Vorleistung erbracht. Die Buchenspalten wurden geliefert, das Holz ist verbucht. Er hat den Anspruch bereits bezahlt – mit seinem eigenen Fuhrwerk, mit den Knechten, die er vor zwei Sommern mitnahm.«
+»Ich gehe nicht mit leeren Händen«, sagte Alda.
 
-Alda spürte, wie ihr das Blut in die Schläfen schoss. »Wenn er es bezahlt hat ... warum hat er das Salz nie geholt? Warum lag dieses Holz hier unberührt?«
+Sie wandte sich zu Berto um, der noch immer zitternd an der Herdstelle stand. Der Junge beobachtete jede ihrer Regungen mit großen, dunklen Augen. Er trug Berengars alte Wollweste, die ihm bis zu den Knien reichte und an den Säumen ausgefranst war. Seine nackten Füße waren blau vor Kälte auf dem feuchten Lehm.
 
-Otwin sah sie nicht an. Sein Blick blieb starr auf die Wachstafel geheftet. »Weil Raginbert die Hand auf der Ausfahrt hatte. Heinrich hatte keine Karren mehr, die für den schweren Salzzug gerüstet waren. Um das Salz über die Steige zu bringen, braucht es keine Kähne, Frau Alda. Auf der Zorn kann man stromaufwärts nicht treiben, und über das Gebirge fließt kein Wasser. Man braucht Räder. Eichene Achsen, eisenbeschlagene Felgen, Zugochsen mit festen Hufen. Heinrich lieh sich das Silber für die Ausrüstung von Raginbert.«
+»Berto«, sagte sie sanft, doch ohne Weichheit in der Stimme. »Hol den kleinen Beutel unter dem Bodenbrett hinter der Mehlkiste.«
 
-»Die dreißig Pfund«, flüsterte Alda. Die Wahrheit legte sich wie ein nasses Tuch auf ihre Brust, raubte ihr den Atem. »Er hat Raginbert das Silber geschuldet, weil er das Salz holen wollte.«
+Der Junge zögerte. »Mutter ... das ist doch Großmutters Band.«
 
-»Und Raginbert hat gewartet«, fuhr Otwin fort, seine Stimme sank zu einem kaum vernehmbaren Murmeln herab. »Er hat Heinrichs Kähne gepfändet, die Pferde beschlagnahmt, ihn mürbe gemacht. Ein Salzzug, der nicht vor der Sommersonnenwende in Marsal eintrifft, verfällt der Krone. Die Siedepfannen werden neu vergeben. Raginbert musste nur warten, bis Heinrich starb oder die Frist verstrich. Dann hätte er mit dieser Tafel selbst nach Marsal reisen und das Salz für einen Spottpreis beanspruchen können. Dreißig Fuder weißes Salz aus Marsal – das sind auf dem Markt zu Straßburg oder Basel sechzig Pfund Silber wert. Mehr als dieser ganze Hof samt Schiffslände und Gesinde.«
+»Hol ihn.«
 
-Berto war näher getreten. Seine Hand tastete nach Aldas Ärmel, fand den derben Wollstoff und hielt ihn fest. »Mutter? Müssen wir fort?«
+Berto schluckte, nickte und kniete sich in den Winkel der Kammer. Seine kleinen Finger tasteten nach der Fuge, fanden den losen Nagel und hoben das kurze Stück Eichenholz an. Als er zurückkam, hielt er ein in grobes Leinen gewickeltes Bündel in den Händen, als trüge er ein krankes Küken.
 
-Alda sah ihren Sohn an. Die Wangen des Neunjährigen waren hohl geworden in diesen letzten Wochen, da das Heer der Könige die Kornkammern der Stadt leerkaufte und stahl. Unter seinen Augen lagen dunkle Schatten. Er war das Kind eines freien Mannes, doch wenn Raginbert am Martinstag die Hand auf diesen Hof legte, würde Berto mit einem eisernen Halsring hinter dem Pflug des Grundherrn hergehen. Er würde Korn schneiden, das ihm nicht gehörte, und das Vieh fremder Männer hüten, bis sein Rücken krumm war.
+Alda nahm ihm das Päckchen ab. Sie löste das Hanfband, schlug den groben Stoff zurück und legte das Stück auf den Tisch, direkt neben die Wachstafeln des Klosters.
 
-»Nein«, sagte sie heiser. »Nicht wir.«
+Das Licht des Feuers fing sich auf dem Silber. Es war ein schwerer Gürtel aus getriebenem Blech, gefasst auf dickes, geschwärztes Rindsleder. Fünfzehn Platten, jede so groß wie die Handfläche eines Kindes, verziert mit Flechtbandmustern, wie sie die heidnischen Schmiede vor hundert Jahren jenseits des Rheins gegossen hatten. Die Schließe war massiv, abgegriffen an den Rändern, wo die Hände ihrer Mutter und Großmutter das Metall blank poliert hatten. Es war das Einzige von Wert, das die Kriege, die Missernten und die Plünderungen der letzten zwanzig Jahre überstanden hatte. Berengar hatte es nie anrühren dürfen, nicht einmal im Hungerwinter nach der großen Überschwemmung, als sie zwei Wochen lang nur Weidenrindenbrei gegessen hatten.
 
-Sie stand auf. Ihre Knie knackten in der Stille. Sie ging zu der schweren Eichentruhe in der Ecke des Raumes, strich über das rostige Schloss, für das sie den Schlüssel an einem Lederband um den Hals trug. Sie öffnete es mit einem harten Ruck.
+Otwin stieß einen leisen Pfiff aus. Er streckte unwillkürlich die Hand aus, zog sie aber sofort zurück, als er Aldas Blick traf. »Das ... das sind mindestens zwei Pfund Feinsilber«, flüsterte er. »Vielleicht mehr, wenn man den Schmelzwert rechnet.«
 
-Der Deckel knarrte. Drinnen lagen zwei grobe Wolldecken, ein Bündel getrockneter Schafgarbe gegen das Wundfieber und ganz unten, eingewickelt in ein Stück verblichenen Leinens, das Brautgut ihrer Mutter.
+»Man schmilzt es nicht ein«, sagte Alda tonlos. »Wer es schmilzt, verliert die Arbeit der Meister. Man beleiht es. Meister Hanno drüben am Münsterplatz gibt mir Getreide, zwei Zugrösser und Eisenbeschläge dafür. Er kennt das Stück. Er weiß, dass ich es wiederhole, wenn Gott mir die Kraft dazu gibt.«
 
-Alda griff hinein und zog den Gegenstand hervor.
+»Und wenn du es nicht wiederholst?«, fragte Otwin.
 
-Das Licht der Tranlampe fing sich auf mattem Metall. Es war ein breiter Gürtel aus feinstem Rindsleder, dicht besetzt mit gegossenen Silberbeschlägen. Auf den Platten waren Reben und kleine Vögel eingemeißelt, Arbeit aus einer alemannischen Werkstatt am Bodensee,Generationen alt. Die Schließe war schwer, massiv, mit zwei Granatsteinen besetzt, die im Halbdunkel wie geronnenes Blut glänzten.
+»Dann trägt es Hannos Tochter zur Hochzeit, und meine Ahnen drehen sich im Grab um«, schnitt sie ihm das Wort ab. »Besser, sie fluchen im Grab auf mich, als dass mein Sohn als Höriger Raginberts den Mist von den Pflastersteinen kratzen muss.«
 
-Otwin stieß leise den Atem aus. »Ein herrschaftliches Stück.«
+Sie wickelte das Silber wieder ein, fest und unerbittlich, und band das Hanfseil darum. Jeder Knoten fühlte sich an wie ein Schnitt ins eigene Fleisch, doch ihre Hände arbeiteten ruhig und sicher, wie sie es beim Verzurren der Fracht gelernt hatte. Ein Fuhrwerk durfte nicht schwanken; wer zögerte, verlor die Ladung am ersten Hang.
 
-»Es ist das Letzte, was mir gehört«, sagte Alda. Ihre Stimme zitterte nicht mehr; sie war hart wie Flusskiesel. »Mein Vater gab ihn meiner Mutter, als er sie aus dem Breisgau holte. Vierzig Unzen reines Silber, vielleicht mehr. Raginbert weiß nichts davon. Heinrich wusste es, aber er wagte es nicht anzurühren, solange ich lebte.«
+Sie wandte sich ab, ging zur Kammertür und rief nach draußen: »Berto! Knecht! Wach auf und komm her!«
 
-Sie wandte sich zu Berto um. »Geh hinüber zu Meister Gundbert, dem Stellmacher an der Martinskapelle. Klopf dreimal an den Fensterladen seiner Werkstatt. Sag ihm, die Witwe des Schiffermeisters schickt nach ihm. Er soll seine Waage mitbringen und den Prüfstein.«
+Es dauerte einen Moment, bis schlurfende Schritte im Hof zu hören waren. Die Tür knarrte auf, und der alte Knecht schob sich herein. Seine Schultern hingen herab, der Kittel war feucht vom Nebel, und in seinem grauen Bart hingen Reste von getrocknetem Stroh. Er blinzelte misstrauisch in das Halbdunkel, musterte den Schreiber am Tisch mit unverhohlenem Abscheu und blieb an der Schwelle stehen.
 
-»Jetzt?«, fragte der Junge mit großen Augen. »Mitten in der Nacht? Die Wachen ...«
+»Frau Alda?«, brummte er. »Es ist mitten in der Nacht. Die Knechte des Grundherrn stehen unten am Kai. Sie haben ein Feuer angezündet und trinken Bier. Wenn wir uns rühren, sind sie da.«
 
-»Die Wachen wärmen sich an den Feuern vor dem Bischofshof und saufen den Wein der Kanoniker«, schnitt sie ihm das Wort ab. »Geh durch die Gärten hinter den Gerbergassen. Halte dich im Schatten der Weiden. Lauf, Berto.«
+»Sie sollen saufen«, sagte sie. »Wir rühren die Kähne nicht an. Wir gehen über Land.«
 
-Der Junge nickte, schluckte schwer und schlüpfte zur Hintertür hinaus in den eisigen Wind.
+Der Knecht starrte sie an. »Über Land? Mit was denn? Die Ochsen sind fort. Die Heeresknechte haben das beste Zuggeschirr mitgenommen.«
 
-Alda blieb mit dem Schreiber allein. Otwin saß noch immer am Boden, den Kopf gesenkt, das Pergament und die Wachstafeln vor sich.
+»Wir nehmen den zweiachsigen Karren aus dem Schuppen. Den mit den eisenbeschlagenen Eschenrädern«, ordnete sie an. Ihre Stimme duldete keinen Widerspruch. »Du nimmst diesen Beutel, gehst vor der Frühmesse zu Meister Hanno. Wecke ihn durch die Stalltür, nicht vorne am Laden. Zeig ihm das Pfand. Sag ihm, ich brauche zwei kräftige Zugrösser, fünf Säcke Hafer, zwei Laibe Schmalz und vier neue Radnaben. Wenn er zögert, sag ihm, ich gebe ihm den zehnten Teil des Salzes obendrauf, wenn wir vor Pfingsten zurück sind.«
 
-»Ihr wollt mit Karren fahren«, sagte er leise, ohne aufzusehen. »Die Kähne ...«
+Der alte Knecht wog den schweren Beutel in der Hand. Ein Schatten von Kummer huschte über sein faltiges Gesicht. »Das Band deiner Mutter, Alda? Hat es nun so weit kommen müssen?«
 
-»Die Kähne bleiben hier«, sagte Alda kalt. »Graf Erchanger hat mir zwei Kähne gelassen, aber Raginberts Vögte bewachen die Ill. Kein Schiff verlässt den Fluss nach Norden, ohne dass Folker seine Hellebarde in die Ladung stößt. Aber die Landstraße nach Westen – über Kochersberg hinauf zur Steige – dort zieht das Heer ab. Wo zehntausend Männer und Trosse zertreten haben, fällt ein Fuhrwerk mit drei Ochsen nicht auf.«
+»Es muss«, sagte sie knapp. »Und noch etwas, Berto. Du bleibst nicht hier.«
 
-»Und wenn wir die Steige erreichen?«, fragte Otwin. Er blickte nun doch auf, und in seinen Augen lag die nackte Furcht. »Dort oben steht die Zollstation des Königs. Lothars Grenzer. Sie lassen niemanden durch, der keine Siegel vorweisen kann. Sie nehmen die Ochsen, sie nehmen das Fuhrwerk, und mich ... mich schlagen sie in Ketten, weil ich eine Tonsur trage, aber kein Geleitwort eines Abts.«
+Der Knecht hob den Kopf. »Ich soll mit über die Steige? Meine Knie taugen nichts mehr für den Pass, Frau. Das weißt du.«
 
-Alda trat an ihn heran. Sie packte den Schreiber am Kragen seiner schmutzigen Tunika und riss ihn hoch, bis sein Gesicht nur eine Spanne von ihrem entfernt war. Sie roch die Angst, die aus seinen Poren drang.
+»Nein«, sagte sie und wandte den Kopf langsam zu ihrem Sohn. »Du nimmst den Jungen. Du bringst ihn nach Zabern. Zu meiner Base Hiltgund. Dort ist er sicher vor Raginberts Vögten. Wenn die Pfändung kommt oder Isenbart das Haus stürmt, finden sie niemanden vor.«
 
-»Ihr werdet ihnen das Siegel des Bischofs vorlesen«, sagte sie zischend. »Ihr werdet diesen Wachstafeln ein lateinisches Wort hinzufügen, das ihnen die Knie weich macht. Ihr seid ein Schreiber, Otwin! Ihr habt für Raginbert gelogen, Ihr habt Urkunden mit Bimsstein geschabt, um mein Haus zu zerstören. Jetzt werdet Ihr Eure verdammte Feder für mich brauchen. Wenn Ihr zögert, wenn Ihr auch nur einen Buchstaben falsch setzt, liefere ich Euch an den ersten Vogt aus, der uns begegnet. Versteht Ihr mich?«
+In der Stube wurde es mit einem Schlag totenstill. Das einzige Geräusch war das leise Klagen des Windes im Kamin.
 
-Otwin hielt ihrem Blick stand. Seine Lippen bebten, doch dann strafften sich seine Züge in einer Art verzweifelter Ergebung. »Ich verstehe«, flüsterte er. »Gott stehe uns bei.«
+Berto trat einen Schritt vor. Seine Unterlippe bebte, doch er weinte nicht. Er hatte gelernt, dass Tränen die Arbeit nur aufhielten. »Mutter ... ich will nicht zu Tante Hiltgund. Ich kann die Rösser führen! Ich habe Berengar geholfen, als wir die Mühlsteine aus den Bergen geholt haben. Ich kenne die Hemmschuhe! Ich weiß, wie man die Deichsel schmiert!«
 
-Ein leises Scharren an der Außentür kündigte Bertos Rückkehr an. Der Junge trat ein, hinter ihm ein breitschultriger Mann in einem speckigen Lederschurz, den Kragen seines Mantels tief ins Gesicht gezogen. Gundbert der Stellmacher blies sich in die schwieligen Fäuste. An seinem Gürtel baumelte ein lederner Beutel, in dem eisernes Werkzeug leise schepperte.
+Alda ging vor ihm in die Knie. Der Boden war kalt durch ihren Rock, feucht und unnachgiebig. Sie legte die Hände auf die schmalen Schultern ihres Kindes. Er roch nach altem Rauch und dem wenigen Gerstenbrei, den er gegessen hatte, nach der Kindheit, die ihr zwischen den Fingern zerrann wie trockenes Getreide.
 
-»Alda«, brummte der Handwerker heiser. Er warf einen misstrauischen Blick auf Otwin, der rasch in den Schatten des Herdes zurückwich. »Was soll das um diese Stunde? Wenn Folkers Knechte mich hier sehen ...«
+»Du wirst die Deichsel noch oft genug schmieren, mein Junge«, sagte sie, und ihre Stimme war rau, fast heiser vor zurückgehaltenem Schmerz. »Aber nicht auf diesem Zug. Der Schnee liegt mannshoch in den Vogesen. Die Wölfe folgen den Heereszügen, und die Deserteure erschlagen einen Mann für ein Paar alte Stiefel. Wenn ich dich mitnehme, muss ich nach dir sehen, statt nach der Furt. Wenn ich nach dir sehe, bricht die Achse. Bricht die Achse, verfällt das Gut.«
 
-»Sie sehen dich nicht«, sagte Alda. Sie trat vor den Tisch und legte den silbernen Gürtel mit einem dumpfen Schlag auf das Holz.
+»Ich will aber nicht fort von hier«, flüsterte er. Eine einzelne Träne löste sich aus seinem Auge und zog eine helle Spur durch den Ruß auf seiner Wange. »Was, wenn du nicht wiederkommst? Berengar ist auch nach Westen geritten und nicht wiedergekommen.«
 
-Gundberts Augen weiteten sich. Er trat näher, zog den Mantelkragen herab und strich mit einem rissigen, von Holzleim und Pech verkrusteten Daumen über die Schließe. Er nahm die Waage aus dem Beutel, zwei kleine Messingschalen an Hanffäden, hängte sie an seinen Zeigefinger und legte ein Gegengewicht ein. Schweigend wog er die einzelnen Glieder ab, prüfte das Metall mit der Spitze seines Messers, kratzte an der Rückseite und rieb den Span über einen schwarzen Schieferstein.
+Alda packte ihn fester. Ihre Finger gruben sich in den groben Wollstoff, so fest, dass er zusammenzuckte. »Ich bin nicht Berengar«, sagte sie mit einer Härte, die sie selbst im Innersten erschreckte. »Ich ziehe nicht für die Ehre eines Königs in den Schlamm. Ich ziehe für das Holz dieses Hauses. Für das Bett, in dem du schläfst, und für das Brot, das du morgen essen wirst. Ich komme zurück. Hörst du mich? Ich bringe das Salz, und ich schlage Raginbert die Münzen vor die Füße, bis ihm die Ohren gellen.«
 
-»Gutes Silber«, murmelte er schließlich. »Aus den Bergen. Kaum Kupfer beigemischt. Es ist ein Erbstück.«
+Sie zog ihn an sich, presste sein Gesicht an ihre Schulter und hielt ihn für drei lange Atemzüge fest. Sie spürte sein Herz schlagen, schnell und flatternd wie das eines gefangenen Vogels. Dann ließ sie ihn los. Sie stand auf, ohne noch einmal hinzusehen, denn sie wusste, dass sie schwach werden würde, wenn sie seine Augen noch länger ertrug.
 
-»Ich brauche keine Worte über seine Herkunft«, sagte Alda trocken. »Ich brauche zwei schwere Frachtkarren. Eschenholz für die Achsen, mit Eisen beschlagene Naben. Vier Ersatzräder. Und Zuggeschirr für vier Ochsen. Vollständig, mit neuen Lederriemen und eisernen Kummetbügeln.«
+»Nimm ihn mit, Knecht«, sagte sie mit dem Rücken zu den beiden. »Packt die Wolldecke ein und den Rest vom Brot. Geht durch die Gärten hinter der Heidenmauer, wo die Posten der Bischofsknechte nicht stehen. Wenn ihr in Zabern seid, verriegelt die Kammer und wartet, bis ich euch rufen lasse.«
 
-Gundbert schüttelte den Kopf. »Du bist verrückt, Weib. Die Heere haben jedes Fuhrwerk in der Stadt beschlagnahmt. Ich habe noch zwei alte Planwagen in der Scheune stehen, aber die Achsen sind trocken, und Eisen ist so teuer wie Salz.«
+Der alte Berto nickte schwer. Er legte seine schwielige Hand auf den Nacken des Knaben und schob ihn sanft zur Tür. Der Junge wandte sich an der Schwelle noch einmal um, suchte ihren Blick, doch Alda starrte starr auf die Wachstafeln auf dem Tisch. Das Holz knarrte, die Tür fiel ins Schloss, und der Riegel glitt mit einem dumpfen Schlag an seinen Platz.
 
-»Dafür gebe ich dir den Gürtel«, sagte Alda. Sie schob das Silber näher zu ihm hin. »Du nimmst das Silber, Gundbert. Du behältst die Hälfte als Pfand für die Wagen und die Reparatur. Die andere Hälfte wechselst du mir in lothringische Denare und Silberbarren. Bis zur dritten Stunde nach Mitternacht müssen die Karren im Hof stehen. Geschmiert, bespannt und mit Plane gedeckt.«
+Sie waren fort.
 
-Der Stellmacher blickte von dem Silber auf Aldas Gesicht. Er sah die Entschlossenheit in ihren dunklen Augen, sah den Schreiber im Schatten und den stummen Jungen, der an der Wand lehnte. Er seufzte, ein langes, resigniertes Ausatmen.
+Alda stand regungslos im Halbdunkel. Die Stille schien nun doppelt so schwer auf den Balken zu lasten. Die leeren Haken an der Wand, die verwaiste Mehlkiste, das kalte Aschebett im Kamin – das ganze Haus schien bereits tot zu sein, ein leeres Gehäuse, das nur darauf wartete, von Raginberts Leuten geplündert zu werden.
 
-»Heinrich hätte dich schlagen sollen, als er noch lebte«, sagte er leise. »Du wirst den Hof verlieren, Alda. Und deinen Kopf dazu.«
+»Eine kluge Entscheidung«, sagte Otwin leise aus dem Schatten des Tisches. »Ein Kind verlangsamt den Zug um ein Drittel der Wegstrecke. Wir müssen vor dem Tauwetter über den Kamm, sonst ersaufen die Räder im Schlick.«
 
-»Heinrich ist tot«, erwiderte sie ohne Wimpernschlag. »Und ich lebe noch. Nimmst du den Handel an oder soll ich zum Schmied an der Gerbergasse gehen?«
+Alda drehte sich langsam um. Ihre Augen brannten vor Schlafmangel und kaltem Zorn. »Halt dein Schandmaul, Schreiber.«
 
-Gundbert griff nach dem Gürtel. Das schwere Silber glitt geschmeidig wie eine Schlange in seine raue Hand. »Die Karren stehen vor der Frühmette im Hof«, sagte er knapp, wandte sich um und verschwand in der Dunkelheit.
+Otwin zuckte zusammen und schwieg.
 
-Die Stille schlug wieder über der Wohnstube zusammen.
+Sie trat an den Tisch, griff nach den drei Wachstafeln und schob sie vorsichtig zusammen, sodass das dunkle Wachs innen lag und vor dem Zerkratzen geschützt war. Dann wickelte sie die Tafeln in ein Stück gefettetes Hirschleder, das sie aus ihrer Gürteltasche zog. Sie band einen Lederriemen darum und schlang ihn sich um die Schulter, fest unter den Arm geklemmt, sodass das Gut an ihren Rippen anlag. Sie spürte die harten Kanten des Holzes durch das Tuch ihres Kleides, wie ein zweites Herz, das ihr fremd war und doch nun ihr ganzes Schicksal trug.
 
-Alda wandte sich ab. Sie ging zur Feuerstelle, nahm einen hölzernen Löffel und schabte den Rest des kalten Haferbreis aus dem Topf in eine irdene Schüssel. Sie reichte sie Berto.
+»Zieh deine Stiefel an«, befahl sie Otwin, ohne ihn anzusehen. »Wir haben noch eine Stunde bis zum ersten Hahnenschrei. Bis dahin müssen die Rösser vor dem Karren stehen.«
 
-»Iss«, sagte sie.
+Otwin griff nach seinen nassen Schuhen. Seine Hände zitterten nicht mehr, aber seine Bewegungen waren fahrig. »Und wenn Isenbarts Reiter die Ausfalltore bewachen?«
 
-Der Junge nahm die Schüssel, aß jedoch nicht. Er hielt den Löffel fest umklammert, sah auf die graue Pampe hinab und dann zu seiner Mutter auf. »Du nimmst mich nicht mit«, sagte er. Es war keine Frage. Seine Stimme war dünn, fast brüchig, aber er weinte nicht.
+Alda nahm die schwere Axt vom Boden und steckte den Stiel durch ihren Ledergürtel. Der kalte Stahl drückte gegen ihre Hüfte.
 
-Alda spürte einen Stich in der Brust, schärfer als jede Klinge. Sie kniete sich vor ihm nieder, packte ihn fest an den schmalen Schultern und zog ihn an sich. Er roch nach Schafwolle und nach dem Rauch ihrer Kindheit, nach allem, was ihr geblieben war.
+»Raginbert bewacht die Straßen nach Süden, weil er denkt, ich laufe zum Grafen«, sagte sie und trat an das kleine Fenster, um durch die Holzritzen in den nebligen Hof zu spähen. »Niemand reitet Ende Februar über die Vogesen, wenn er noch bei klarem Verstand ist. Wir nehmen den alten Saumpfad am Steinbruch vorbei. Dort liegt der Schnee bis an die Achsen, aber es stehen keine Vögte im Weg.«
 
-»Nein, Berto«, flüsterte sie an seinem Ohr. Ihre Wange berührte seine kalte Stirn. »Ich nehme dich nicht mit.«
-
-»Ich kann die Ochsen führen!«, stieß er hervor, und nun zitterten seine Hände doch. »Ich kann mit der Peitsche umgehen, Mutter! Ich schlafe unter der Plane, ich brauche kaum Brot, ich ...«
-
-»Hör mir zu!«, sie packte sein Gesicht mit beiden Händen und zwang ihn, sie anzusehen. Ihre Daumen strichen über seine Wangenknochen. »Die Zaberner Steige ist voll von Deserteuren, von herrenlosen Knechten und Reitern, die jeden erschlagen, der ihnen in die Quere kommt. Es schneit in den Bergen. Die Pfade sind eisig. Wenn ein Karren abrutscht, stürzt er zweihundert Klafter in die Tiefe. Ich kann dich dort oben nicht beschützen.«
-
-»Aber Raginbert ...«, stammelte er, und eine Träne brach aus seinem Augenwinkel, heiß und hell auf der staubigen Haut. »Raginbert holt mich! Wenn du nicht hier bist, holt er mich in seinen Hof!«
-
-»Er wird dich nicht holen«, sagte Alda mit einer Härte, die sie selbst das Fürchten lehrte. »Du bleibst nicht hier am Schindertor. Sobald die Karren beladen sind, bringe ich dich zur Muhme Hiltgund in das Fischerdorf an der Bruche. Niemand sucht dich dort. Du wirst ihr helfen, die Netze zu flicken und die Fische zu dörren. Du wirst deinen Namen nicht nennen. Du bist Hiltgunds Neffe aus dem Wasgau. Verstehst du mich? Niemand darf wissen, wer du bist.«
-
-Berto presste die Lippen zusammen. Seine kleinen Zähne bissen sich in die Unterlippe, bis ein winziger Tropfen Blut hervortrat. Er nickte. Langsam, ergeben, wie ein alter Mann, der sein Urteil empfängt.
-
-»Und wann ... wann kommst du zurück?«
-
-»Vor der Sommersonnenwende«, versprach sie, obwohl sie wusste, wie leer solche Versprechen in Zeiten wie diesen waren. »Ich bringe das Salz. Wir zahlen die dreißig Pfund an Graf Erchanger, vor den Schranken des Gerichts. Und dann nehmen wir uns die Schiffe zurück. Jedes einzelne.«
-
-Sie ließ ihn los, stand auf und wandte sich ab, damit er nicht sah, wie ihre eigenen Hände zitterten.
-
-Sie ging zu Otwin. Der Schreiber saß noch immer über die Wachstafeln gebeugt. Er hatte ein Röhrchen mit Rußtinte und eine Gänsefeder aus seinem Reisewamms hervorgezogen.
-
-»Die Wachstafel reicht nicht«, sagte Otwin leise, ohne aufzusehen. Er spürte den Schmerz im Raum, doch er wagte nicht, ihn zu berühren. »Auf der Steige fordern die Vögte Pergament. Wachs lässt sich glätten, Wachs lässt sich erwärmen und neu beschreiben. Sie trauen Wachs nicht.«
-
-Alda griff in ihren Rock und zog ein kleines, gefaltetes Stück gelbliches Kalbsleder hervor. Es war der Schutzbrief, den Heinrich einst vom Vogt des Klosters Wissembourg für die Holzfuhren erhalten hatte – alt, an den Rändern abgegriffen, aber am unteren Ende hing noch das schwere, runde Wachssiegel des Abtes, an einer Schnur aus roter und weißer Seide.
-
-»Hier«, sagte sie und warf das Pergament auf den Tisch. »Der Text ist alt. Der Name meines Vaters steht darauf. Kannst du ihn tilgen?«
-
-Otwin nahm das Pergament ehrfürchtig in die Hände. Er strich mit den Fingern über die verblasste Eisengallustinte, roch an dem alten Leder. »Es ist feines Pergament. Ein Kleriker kann die oberen Lagen mit einem scharfen Schabmesser abheben, ohne das Leder zu durchstoßen. Das Siegel ist unversehrt. Der Name ... ich kann Heinrichs Namen einsetzen. Und den Vermerk über das Salz aus Marsal.«
-
-Er blickte auf. In seinen Augen lag die ganze Zwiespältigkeit seines Standes: die Verachtung für die Unwissenheit der Laien und die Furcht vor der eigenen Macht.
-
-»Es ist ein Sakrileg, Frau Alda. Ein Klostersiegel zu fälschen zieht das Abschlagen der rechten Hand nach sich. Wenn sie uns fassen ...«
-
-»Wenn Raginbert uns fasst, verhungern wir im Kot seines Schweinestalls«, schnitt sie ihm das Wort ab. »Schab das Pergament, Otwin. Schab es, solange das Öl in der Lampe brennt.«
-
-Der Schreiber senkte den Kopf. Er zog ein winziges, halbmondförmiges Messer aus dem Futteral an seinem Gürtel. Mit unendlicher Geduld, den Atem anhaltend, setzte er die Schneide auf das Pergament und begann, die alten Buchstaben abzuschaben. Das feine, weiße Lederpulver rieselte wie Mehl auf den Tisch.
-
-Alda ging zum Fenster. Sie schob den hölzernen Laden einen Spalt breit auf.
-
-Draußen begann die Nacht zu weichen. Kein Licht noch, aber die Finsternis verlor ihre Dichte, wurde zu einem schmutzigen, aschgrauen Nebel, der vom Fluss her über die Weiden kroch. Aus der Ferne, vom Münsterplatz her, läutete eine einzelne Glocke zur Mette. Drei Schläge, dumpf und verloren in der Weite des gefrorenen Tals.
-
-Sie hörte das Knarren von ungeschmierten Holzachsen auf dem Weg hinter dem Haus. Meister Gundbert hielt sein Wort. Zwei Karren, hochbordig, von struppigen Planen aus grobem Ziegenhaar verdeckt, bogen langsam in die Hofeinfahrt ein. Dampf stieg aus den Nüstern der vier Ochsen auf, die schwerfällig im Joch gingen.
-
-Alda zog den Laden zu und wandte sich um.
-
-Otwin blies den letzten Staub vom Pergament. Mit ruhiger, geübter Hand setzte er die Feder an, tauchte sie in die schwarze Tinte und zog den ersten Strich. Eine lange, geschwungene Initiale entstand auf dem geschabten Leder – die Sprache der Könige, der Priester und der Richter, gebändigt auf einer Handbreit Haut, um das Überleben dreier Menschen zu erzwingen.
-
-Alda ging zu Berto, nahm seine Hand und zog ihn sanft auf die Beine.
-
-»Zieh deinen Mantel an«, sagte sie leise. »Es ist Zeit.
-
-Sie trat an die Wand und nahm den schweren, grob gewebten Wollmantel von dem Holzpflock. Er roch nach verbranntem Holz und nach dem Schafsfett, mit dem sie das Tuch gegen das winterliche Schmelzwasser eingerieben hatte. Sie legte ihn Berto um die Schultern, strich das steife, graue Gewebe glatt und zog die Kapuze weit über seine Stirn, bis nur noch seine schmale Nase und die großen, wachsamen Augen zu sehen waren.
-
-»Kein Wort auf der Gasse«, schärfte sie ihm ein. Ihre Finger schlossen die hölzerne Knebelspange an seiner Kehle. »Wenn Hunde anschlagen, duckst du dich an die Plankenwände. Wenn Reiter kommen, wirfst du dich in den Graben. Du bleibst im Schilf liegen, bis die Hufe verklungen sind. Hast du mich verstanden?«
-
-Der Junge nickte stumm. Seine Hände, die in den weiten Ärmeln der Joppe verschwanden, ballten sich zu kleinen Fäusten. Er weinte noch immer nicht; der Schmerz hatte sich in eine spröde Starre verwandelt, wie sie sonst nur erwachsene Fuhrleute trugen, wenn ihnen die letzte Mahlzeit vor der Frostnacht verdarb.
-
-Otwin trat an den Tisch heran. Er streute eine Prise feinen Ziegelstaub über die noch feuchte Tinte des gefälschten Klosterbriefs, wartete einen Herzschlag lang, blies den rötlichen Mehlstaub fort und rollte das steife Kalbsleder vorsichtig zusammen. Das bleierne Klostersiegel klirrte leise gegen die Schnur, als er die Rolle in eine Wachstuchtasche schob und diese tief unter seinem speckigen Lederwams barg.
-
-»Das Pergament hält einer flüchtigen Beschau stand«, sagte er mit gepresster Stimme. »Der Name des Schiffermeisters fügt sich in den Schnitt der alten Minuskeln. Doch wenn ein Abt die Hand darauf legt ...«
-
-»Dort, wo wir hingehen, wird kein Abt nach Pergamenten fragen, sondern Knechte im Eisenhemd«, unterbrach ihn Alda. Sie löschte die kleine Öllampe mit den Fingern. Der Docht zischte kurz, und der beißende Gestank von kaltem Tran erfüllte den Raum.
-
-Sie schob Berto vor sich her zur hinteren Pforte. Als sie den Riegel zurückzog, schnitt der Nordostwind wie ein eisernes Messer durch den Spalt. Der Hof roch nach frischem Ochsenmist, nach feuchter Rinde und dem modrigen Lehm der Ill, der sich unter den schweren Schritten der Hufe zu zähem Brei wandelte. Meister Gundbert stand reglos neben dem vorderen Gespann. Seine Atemwolke hing weiß vor dem Bart. Er hielt eine Weidenrute in der Faust, mit der er das vordere Tier leise am Nacken kraulte, um es am Scharren zu hindern.
-
-»Das vordere Rad links hat Spiel«, flüsterte der Stellmacher heiser, ohne den Kopf zu drehen. »Ich habe die Nabe mit geschmolzenem Rindertalg ausgegossen und einen neuen Eichenkeil eingetrieben. Bis zur Steige hält es. Was danach kommt, liegt bei Gott und euren Achsen.«
-
-»Gott schert sich wenig um Radnaben«, erwiderte Alda leise. Sie griff nach Gundberts Unterarm, drückte das derbe Leder seines Ärmels. »Bring die Ochsen auf den Weg nach Kronenburg, jenseits der Wälle. Wir stoßen am zweiten Bildstock zu dir. Halte dich fern von den Posten der Sachsen.«
-
-Der Stellmacher nickte, stieß einen kurzen, kehligen Laut aus und trieb die beiden Gespanne mit leisen Rutenhieben an. Das Lederzeug knarzte, die hölzernen Felgen schnitten tief in den gefrorenen Matsch des Hofwegs, doch kein Eisen schlug an Eisen; Gundbert hatte die Deichselketten mit Strohbändern umwickelt.
-
-Alda packte Berto an der Hand. Die Finger des Knaben waren klein und eiskalt. Otwin folgte ihnen wie ein Schatten, krumm gebeugt, den Kopf tief in den Kragen gezogen, damit das weiß schimmernde Mal seiner Tonsur im aschgrauen Frühlicht verborgen blieb.
-
-Sie machten einen weiten Bogen um das Schindertor. Hinter den Erdwällen, auf denen die Frankenposten der Heere Ludwig des Deutschen lagen, brannten noch vereinzelt Wachfeuer, deren Funken im Wind zerstoben. Der Weg zur Bruche führte durch das Gestrüpp der Kopfweiden, wo der Morast bis über die Knöchel reichte. Das Wasser schmatzte unter ihren Bundschuhen. Zweimal hielten sie inne, drückten sich flach in das gefrorene Schilfrohr, als von den Wegen her das dumpfe Poltern berittener Streifen zu hören war – herrenlose Reiter, die nach versprengten Trossknechten suchten, um ihnen die Schuhe von den Füßen zu reißen.
-
-Am Rand der Weidengründe tauchten die niedrigen, mit Schilf gedeckten Hütten des Fischerdorfs aus dem Bodennebel auf. Aus einem Rauchloch stieg ein dünner, bläulicher Faden empor; der Geruch von getrocknetem Hecht, Tran und faulendem Flusswasser lag schwer über dem Uferhang.
-
-Alda blieb vor der windschiefen Tür der dritten Hütte stehen. Sie klopfte dreimal mit dem Knöchel gegen das mürbe Eichenholz.
-
-Drinnen schlurften Füße. Ein Riegel wurde zurückgeschoben, und das faltige, von Wind und Flusskälte gegerbte Gesicht der Muhme Hiltgund erschien in der Öffnung. Die alte Frau trug eine zerfledderte Schafpelzjoppe über dem grauen Kittel, in der Hand hielt sie ein kurzes Fischermesser, bereit zuzustoßen.
-
-Als sie Alda erkannte, senkte sie die Klinge. Ihr Blick wanderte von der Frau zu dem Jungen, dann kurz zu Otwin, der abseits im Weidengebüsch lauerte.
-
-»Du hättest nicht kommen sollen«, flüsterte die Alte rauh. »Raginberts Knechte waren gestern an den Kähnen. Sie suchen nach Booten für die Kriegsknechte des Königs. Sie haben den alten Meinhard totgeschlagen, weil er sein Netz nicht hergeben wollte.«
-
-»Ich bringe dir Berto«, schnitt Alda ihr das Wort ab. Ihre Stimme war völlig ruhig, bar jeder Regung, als verhandele sie über ein Maß Weizen. Sie schob den Jungen an den Schultern über die Schwelle in den dämmrigen, nach Moder riechenden Raum. »Er bleibt hier, bis das Korn auf den Feldern steht. Er flickt Netze, er zieht die Reusen. Niemand darf erfahren, wer sein Vater war.«
-
-Hiltgund sah den Jungen an. Sie legte eine knochige, mit Fischschuppen besetzte Hand auf seinen Kopf und strich durch das dichte Haar. »Er frisst wie ein Wolf, Alda. Die Heere haben uns nichts gelassen als Gräten und die faulen Rüben im Keller.«
-
-Alda griff unter ihren Umhang. Aus einem kleinen Beutel zog sie vier dünne Silberdenare hervor – lothringische Münzen, die Gundbert ihr aus dem Erlös des Gürtels ausgezahlt hatte. Sie drückte das kalte Metall in die schwielige Hand der Alten.
-
-»Dafür kaufst du Gerste bei den Müllern an der Zorn. Und wenn das Silber aufgebraucht ist, lass ihn im Schilf schlafen, aber gib ihn Raginbert nicht preis.«
-
-Die Alte schloss die Faust um das Geld. Das Silber klickte leise in ihrer Hand.
-
-»Er wird nicht hungern«, murmelte die Alte, wandte sich um und schob Berto tiefer in das stickige Dunkel der Fischerkate.
-
-Der Junge drehte sich noch einmal um. Seine Hände griffen nach dem groben Holz des Türpfostens, die Knöchel weiß hervortretend. Er sagte nichts, doch sein Blick brannte sich in Aldas Fleisch wie ein glühendes Brandeisen. Dann schlug Hiltgund die Tür zu. Der schwere Eichenriegel fiel mit einem dumpfen, endgültigen Schlag ins Schloss.
-
-Alda blieb einen Herzschlag lang reglos stehen. Die Kälte schien nun von innen zu kommen, klamm und schneidend, schnürte ihr die Kehle zu. Sie presste die Zähne so fest aufeinander, dass der Kiefer schmerzte, wandte dem Haus den Rücken zu und schritt aus. Sie blickte nicht zurück. Wer sich im Winter auf den Wegen nach hinten wandte, stolperte über die gefrorenen Furchen.
-
-»Kommt«, stieß sie heiser gegen Otwin hervor, der am Rande der Kopfweiden zitterte.
-
-Sie liefen querfeldein, vorbei an versunkenen Torfstichen und überschwemmten Wiesen, auf denen sich eine dünne, tückische Eisschicht gebildet hatte. Der Nebel fraß die Umrisse der Weiden, dämpfte jeden Laut, doch aus Richtung der Stadtmauer drang bereits das raue Gebrüll der Knechte, die das Vieh für die Schlächter des Heeres zusammentrieben. Vor ihnen, wo der Weg sanft gegen den Ausläufer des Kochersbergs anstieg, ragte der verwitterte Sandstein des Bildstocks aus dem Dunst.
-
-Gundbert wartete im Schatten einer halb verfallenen Feldmauer. Die vier Ochsen schnaubten dichte Schwaden in die Dämmerung, die Hufe unruhig im grauen Gras scharrend. Das Leder der Geschirre war dunkel von altem Fett, die Planen der beiden Fuhrwerke festgezurrt mit festen Hanfstricken.
-
-»Ihr habt lange gebraucht«, brummte der Stellmacher und reichte Alda eine kurze Peitsche mit gedrehtem Riemen. Seine Finger waren klamm, das Gesicht aschfahl vor Übermüdung. »Die Voraustrupps der Bayern sammeln sich am Schindertor. Wenn die Sonne den Nebel hebt, sperren sie die Ausfallstraßen für das gemeine Volk.«
-
-»Sie werden uns nicht sperren«, erwiderte Alda. Sie nahm die Peitsche, wog das schwere Holz in der Hand und wandte sich zu dem ersten Wagen um. Unter der Plane zeichneten sich die Umrisse der Fässer ab – Leergebinde, getrocknetes Rauchfleisch für die Überquerung und die Werkzeuge, die Heinrich einst hinterlassen hatte.
-
-Otwin kletterte auf die Ladefläche des zweiten Karrens, kauerte sich zwischen zwei Mehlsäcke und zog die Ziegenhaarplane so weit herab, dass nur seine funkelnden Augen im Spalt blieben.
-
-Alda trat an das Joch der vorderen Ochsen, legte die Hand auf die feuchte, raue Stirn des Leitstiers und flüsterte dem Tier einen alten Fuhrmannslaut zu. Die hölzerne Achse knarrte, als das Gespann anriss. Eisenringe bissen in das Eschenholz, die nassen Naben stöhnten unter der Last, und die schweren Räder gruben sich schmatzend in den gefrorenen Weg, der nach Westen führte – hinauf zur Zaberner Steige, fort von der Ill, hinein in das Ungewisse.
+Sie wandte sich um, blies die letzte Kienspanflamme aus und tauchte den Raum in pechschwarze Nacht. Nur das leise Knirschen von Otwins Schritten auf dem Estrich war zu hören, als er ihr zur Hintertür folgte. Draußen schlug der Fluss gegen das Holz der gefangenen Schiffe, gleichförmig, unerbittlich, wie die verstreichende Zeit bis Martini. Alda hob den Riegel. Der Frost biss sofort in ihre Wangen, als sie in die Dunkelheit trat.
 

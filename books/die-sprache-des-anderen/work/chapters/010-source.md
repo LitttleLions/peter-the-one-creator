@@ -5,177 +5,109 @@
 
 ---
 
-Die Hitze schlug Alda wie eine feuchte Faust ins Gesicht, kaum dass sie den grob gezimmerten Verschlag der Hütte betreten hatte. Drinnen roch es nach scharfem Schwefel, faulem Holz, nassem Ruß und dem allgegenwärtigen, ätzenden Salzstaub, der sich wie feiner Sand auf die Lippen legte. Ein tiefes, gurgelndes Fauchen erfüllte den Raum. Auf vier gemauerten Pfeilern ruhte eine wuchtige Pfanne aus getriebenem Blei, unter der ein Höllenfeuer brannte. Die Sohle kochte in trägen Blasen, und weißer Schaum spritzte zischend über den Rand in die Asche.
+Der Schlag des Hammers dröhnte hohl über die graue Lache des Solebachs, ein schwerer, gleichförmiger Takt, der das Klirren der Ketten an den Deichseln übertönte. Weißer Staub lag wie Raureif auf den geschwärzten Schindeln der Schmiede, doch es war kein Frost; die beißende Kruste fraß sich in das rohe Holz, zerfaserte die Ränder der Balken und brannte auf Aldas Lippen, kaum dass sie den Schafspelz fester an den Hals zog. Der Mann am Amboss senkte das Eisen nicht, als ihr Schatten über den glimmenden Herd fiel. Er schlug noch dreimal zu, bedächtig, mit der stumpfen Wucht von Schultern, die seit dreißig Wintern nichts anderes getan hatten, ehe er das verzogene Blech mit einer groben Zange in den Trog stieß. Ein zischender Schwall Dampf schlug empor, der nach Schwefel, geronnenem Blut und abgestandenem Schlamm stank.
 
-Drei Männer arbeiteten mit nacktem Oberkörper am Feuer. Ihre Haut war von Rußflecken marmoriert, die Arme glänzten von Schweiß, der in kleinen Bächen durch die dichte Schicht grauen Staubs rann. An ihren Ellenbogen und Schienbeinen klebten verkrustete Salzflecken – Wunden, die in dieser Luft niemals heilten.
+»Ihr steht im Wind, Weib«, sagte der Schmied, ohne den Kopf zu heben. Seine Sprache war das harte, schleifende Westfränkisch der Moselleute, zäh wie Buchenteer. »Der Ruß frisst das Tuch.«
 
-Der Hüne in der Mitte schwang eine breite Krücke aus geschwärztem Eschenholz. Er schob die schweren Salzkristalle, die sich am Pfannenboden absetzten, mit gleichmäßigen, wütenden Stößen an den Rand, wo zwei Jungen das weiße Gut mit durchlöcherten Eisenschaufeln in Weidenkörbe hoben.
+»Mein Tuch hält mehr aus als mancher Klostereid«, erwiderte Alda auf demselben rauen Schlag, die Laute vorn auf der Zunge geformt, wie sie es als Mädchen von den lothringischen Schiffern an den Länden der Ill gelernt hatte. Sie trat einen Schritt näher an die Esse, dorthin, wo die Strahlungswärme das klamme Leder ihrer Stiefel erweichte. »Und mein Karren steht leer, Meister. Das schmerzt meine Augen weit mehr als euer Qualm.«
 
-»Raus da!«, herrschte der Hüne sie an, ohne den Blick vom siedenden Blei zu wenden. Seine Stimme klang wie zwei Mahlsteine, die trocken aufeinander rieben. »Hier gibt’s keine Reste für Bettelvolk. Fort, oder die Schaufel trifft dein Gebein!«
+Der Mann wischte sich mit einem rußigen Handrücken über die Stirn, hinterließ eine Schliere grauen Schweißes und musterte zuerst die beiden Zugrösser, dann das massive Eschenholz der Achsen und zuletzt Aldas Gesicht. Sein Blick blieb an ihren Händen hängen – an den schwieligen Handtellern, den kurz geschnittenen Nägeln, der dunklen Narbe über dem Daumengelenk, wo ihr einst ein nasses Hanfseil die Haut abgezogen hatte. Es waren keine Hände, die Pergamente hielten oder den Zehnten wogen.
 
-Alda blieb stehen. Sie wich keinen Schritt zurück, stemmte die Fäuste in die Seiten und ließ den Blick über die Anlage wandern. Sie kannte diesen Ton. So sprachen Fuhrknechte, die seit drei Tagen keinen Schlaf gefunden hatten, so sprachen Schiffer im Rheinüberschwemmungsland, wenn das Treibholz die Ruder brach. Wer jetzt buckelte, hatte verloren. Wer sich aufblähte wie ein Domherr, lag im Dreck.
+»Ein Straßburger Rungengestell«, brummte er und spuckte zielsicher zwischen zwei Schlackesteine. »Breite Spur, rheinische Eisenreifen. Habt wohl gedacht, Bruder Folbert schüttet euch die Mulden voll, bloß weil ein toter Mann noch Kreide auf seiner Schiefertafel hat?«
 
-»Wenn du die Krücke weiter so steil führst, Meister Folrad«, sagte sie laut, um das Tosen des Feuers zu übertönen, »scharrst du dir das weiche Blei von der Sohle. Dann hast du grauen Schlick im Salz und der Vogt streicht dir den halben Lohn.«
+»Folbert rechnet nach den Büchern seiner Herren«, sagte Alda ruhig. Sie ließ die Hand nicht an den Geldbeutel wandern; eine solche Geste machte die Leute misstrauisch oder gierig, beides verdarb den Preis. »Aber die Pfannen schlagen die Mönche nicht selbst. Ich sehe sieben Risse in diesem Blech, Schmied. Und ich rieche Tannenholz in eurer Esse. Ihr brennt Nadelholz, weil die Buchen zu teuer sind. Euer Eisen wird spröde davon.«
 
-Der Riese hielt inne. Das Eschenholz zitterte in seinen schwieligen Händen. Langsam wandte er sich um. Seine Augen lagen tief in von Falten und Ruß umrahmten Höhlen, rot geädert vom Qualm der Eichenspäne. Er musterte Alda von ihren festen Rindslederstiefeln über die derbe Wollschürze bis hinauf zu der geflochtenen Haube, unter der sich nassgeschwitzte Strähnen lösten.
+Der Schmied verengte die Lider, doch seine Schultern verloren die abweisende Spannung. Ein Zugeständnis unter Handwerkern, lautlos gewährt. Er stellte den Hammer auf die Bahn. »Ich bin Drogo. Wenn ihr zum Reden gekommen seid, Weib, dann spart euch den Atem für den Schankkeller drüben bei der alten Brücke. Hier wird geschlagen, nicht geschwatzt.«
 
-»Was versteht ein Weibsbild vom Salzsieden?«, knurrte er auf Westfränkisch, doch der Tonfall trug den harten, kehlig geschliffenen Schlag der Moselgegend in sich. »Und wer lässt dich hier rein? Wenn der Klosterknecht dich sieht, gibt es Striemen für uns alle.«
+»Ich zahle für das Wort so gut wie für das Eisen, Drogo«, entgegnete sie. Sie wandte sich um, deutete mit dem Kinn hinüber zu einer langen, aus lehmverstrichenem Flechtwerk gefügten Halle, aus deren Dachluken dicker, öliger Rauch quoll. Vor der niedrigen Pforte hockten Männer auf umgestürzten Salzkufen, die Knie an die Brust gezogen, zerschlissene Gugeln tief in den Nacken geschoben. »Dort drüben sitzen die Freien. Die nicht dem Stift gehören.«
 
-Alda wechselte mühelos die Mundart. Sie ließ das weiche Straßburger Alemannisch fallen, griff nach den langgezogenen Vokalen und den harten Endungen, wie sie sie als Mädchen an den Kaianlagen gelernt hatte, wo die Flößer aus dem Westen anlegten.
+»Noch nicht«, knurrte Drogo. Er tauchte die Zange erneut ins Wasser. »Das Stift kauft jeden Daumenbreit Holz auf drei Meilen im Umkreis auf. Wer siedet, braucht Feuer. Wer kein Holz hat, geht zu Folbert oder lässt die Wannen kalt werden. Geht zu ihnen, wenn ihr wollt. Aber nehmt euren Schreiberling nicht mit. Männer mit weißer Haut und glatten Fingern haben drüben ein kurzes Leben.«
 
-»Der Klosterknecht sitzt in seiner Stube und zählt Schrotkörner, um zu prüfen, ob die Metzer Münzen schwer genug sind«, erwiderte sie trocken. »Der riecht den Rauch erst, wenn ihm die eigene Soutane brennt. Und was ich vom Sieden verstehe? Genug, um zu sehen, dass dir das Feuer die Pfanne zerreißt, weil dein Holz zu nass ist. Schau doch hin: Es qualmt schwarz statt weiß. Du vergeudest zwei Fuder Scheite für einen einzigen Kessel.«
+Alda nickte knapp. Sie ging zurück zum Fuhrwerk, wo Otwin noch immer wie ein Häuflein Unglück auf der Bank kauerte, die Hände in den Ärmeln seiner Kutte vergraben, die Augen unstet von einer Gassenecke zur nächsten wandernd.
 
-Ein jüngerer Bursche an den Körben kicherte leise, verstummte jedoch augenblicklich unter Folrads finsterem Blick. Der Kesselmeister trat einen Schritt vor. Er überragte Alda um Haupteslänge, und die Hitze, die von seinem erhitzten Leib ausging, roch nach saurem Bier und altem Schafsfett.
+»Bleib beim Gespann«, befahl sie leise, während sie die Handbremse noch eine Raste fester zog. »Löse die Knebel nicht, aber halte die Peitsche griffbereit. Wenn jemand nach dem Siegel fragt, sagst du gar nichts. Du sprichst kein Wort, hörst du? Du bist stumm. Ein taubstummer Knecht vom Oberrhein.«
 
-»Wer bist du?«, fragte er leiser, aber nicht minder bedrohlich. »Eine Spionin des Bischofs? Hat der Verwalter nicht genug daran, uns das Kornmehl zu kürzen? Will er jetzt auch noch die Huren schicken, um zu sehen, ob wir Salz beiseiteschaffen?«
+»Alda, das ist Wahnsinn«, flüsterte er heiser, und seine Zähne schlugen leicht aneinander. »Isenbart kann jeden Augenblick den Pass herunterkommen. Wenn Folbert Boten nach Metz schickt—«
 
-»Mein Name ist Alda. Ich bin Händlerin aus Straßburg, Witwe eines Fuhrmannes. Und die einzige Frau in diesem Drecksloch, die dir helfen kann, deine Haut zu retten.«
+»Isenbart reitet nicht schneller als das Schmelzwasser fließt, und Folbert scheißt auf denselben Topf wie alle fetten Pröpste«, schnitt sie ihm das Wort ab. Ihre Stimme war hart wie gefrorene Eiche. »Wir haben kein Korn mehr im Sack und kein Heu für die Mähren. Wenn wir ohne Salz über den Berg zurückkehren, nimmt Raginbert Haus, Speicher und Berto den Knecht. Dann sind wir Bettler, Otwin. Und Bettler schlägt man tot, ganz ohne Urkunde.«
 
-Folrad lachte bellend auf, ein Geräusch ohne jede Freude. »Mir helfen? Mir fehlen dreißig Körbe für das Metzer Fuder. Wenn die Glocke zur Vesper schlägt, reitet der bischöfliche Vogt über den Damm. Findet er die Kufen leer, wandern zwei meiner Leute für eine Woche in den Turm und ich kriege Wasser und Schimmelbrot. Was willst du da helfen, Weib? Hast du dreißig Körbe Salz in den Taschen deines Rocks?«
+Sie ließ ihn sitzen, ohne seine Antwort abzuwarten, griff unter die Plane und zog zwei handfeste Stücke Räucherspeck hervor, fest in grobes Leinentuch geschlagen, dazu einen kleinen Beutel getrockneter Bergkräuter, die sie noch von der Zaberner Steige mitgebracht hatte. Es war die Währung des Tals, das wusste sie, noch ehe sie den ersten Fuß über die Schwelle der Schenke setzte. Silber konnte man nicht essen, und wer den ganzen Tag Salzstaub schluckte, dessen Gaumen schrie nach Fett und Schärfe.
 
-»Nein«, sagte Alda ruhig. Sie trat näher an den Rand der Grube, wo die Hitze die Wolle ihres Kleides versengte. »Aber ich habe zwei leere Karren hinter der Scherbenhalde. Vier starke Ochsen. Und ich habe Augen im Kopf.«
+Der Raum hinter der niedrigen Eichentür empfing sie mit einer Wand aus dumpfer Hitze. Der Boden bestand aus festgestampftem Lehm, der mit grauem Seillesand und zerkleinerten Tonscherben durchsetzt war; unter den Bänken sammelte sich Feuchtigkeit, die den säuerlichen Geruch von saurem Dünnbier, nassem Ziegenhaar und Schweiß nährte. Ein halbes Dutzend Männer saß um ein offenes Herdfeuer, über dem ein verbeulter Kessel mit dicken Rüben und Grünkohl brodelte. Niemand lachte. Die Stimmen verstummten schlagartig, als die Tür ins Schloss fiel und der Zugluftstoß die Flammen flackern ließ.
 
-Sie deutete mit dem Kinn auf die Weidenkörbe, die an der Wand aufgeschichtet lagen. Sie waren grob geflochten, viele waren gebrochen, notdürftig mit Binsen zusammengebunden. Daneben lagen drei Schaufeln, deren eiserne Blätter bis auf den Schaft abgewetzt waren.
+Alda blieb auf der Schwelle stehen. Sie senkte den Kopf nicht, doch sie vermied es, den Männern starr in die Augen zu sehen – das galt unter Fuhrvolk wie unter Hunden als Herausforderung.
 
-»Eure Werkzeuge taugen nicht mal mehr zum Mistausräumen«, fuhr sie fort, und ihre Stimme schnitt klar durch den Lärm. »Die Körbe faulen euch unterm Hintern weg, weil ihr keine frische Weide bekommt. Euer Eisen ist so dünn, dass die Schaufeln verbiegen, ehe ihr den Pfannengrund erreicht. Und du, Meister, hast seit heute Morgen nichts gegessen als Hafergrütze mit saurem Brunnenwasser. Richtig?«
+»Gott zum Gruß, Gesellen«, sagte sie laut, diesmal in dem breiten, offenen Dialekt der lothringischen Grenzlande, den die Flößer auf der Saar sprachen. »Es zieht kalt vom Berg herunter, und der Solebach schmeckt heute mehr nach Schnee als nach Salz.«
 
-Folrad verzog keine Miene, doch seine Kiefermuskeln mahlten. Einer der Schaufeljungen ließ den Kopf hängen und strich sich über den eingefallenen Bauch.
+Ein ältlicher Mann mit narbigem Gesicht, dessen rechte Hand in einem steifen Lederhandschuh ohne Finger stak – das Kennzeichen eines Meistersieders, der zu oft in die kochende Lauge gegriffen hatte –, blickte auf. Seine Augenbrauen waren von der Hitze der Feuerstellen fast völlig weggesengt.
 
-»Das Kloster gibt uns, was das Kloster für richtig hält«, presste der Meister hervor. »Sie bringen uns Spelz und Roggen, wenn die Kähne aus Nancy kommen. Aber seit die Heere im Norden stehen, behalten die Herren das Mehl für die Reiter. Wir fressen Staub.«
+»Eine Schifferin«, stellte er fest, und seine Stimme klang wie zwei Mahlsteine, die trocken aufeinander rieben. »Vom Rhein. Was sucht ein Elsässer Karren im Morast von Marsal? Haben die Mönche euch keinen Platz im Klosterhof angewiesen?«
 
-»Und sie nehmen euch das Salz ab zum alten Satz, nicht wahr?«, hakte Alda nach. »Ein Metzen Korn für drei Scheffel weißes Gold. Und wehe, ein Pfund fehlt.«
+»Die Mönche haben volle Speicher und leere Versprechen«, erwiderte Alda frei heraus. Sie trat an den Tisch heran, zog eine der grob behauenen Bänke zurück und setzte sich, ohne um Erlaubnis zu bitten. Sie legte den Speck und die Kräuter mitten auf das fleckige Holz. »Und ihre Schreiber wiegen die Gerechtigkeit nach dem Gewicht ihrer Pergamente. Ich bin Alda, Berengars Witwe. Mein Mann hat mit euch gehandelt, ehe der König ihn zu Fontenoy ins Verderben ritt.«
 
-»Zehn Maß Salz für ein Maß Roggen«, spuckte der Hüne aus, und seine Galle brach sich Bahn. »Sie wiegen das Salz feucht und geben uns das Korn staubtrocken und voller Wicken! Und wenn wir murren, heißt es, Lothar brauche das Salz für die Pökelung der Heeresochsen, und wer sich weigere, sei ein Verräter an Krone und Altar.«
+Ein leises Murren lief durch die Reihe der Männer. Der Alte betrachtete den Speck. Seine Nase zuckte kaum merklich; die weiße, fette Schicht war dick, mit edlem Buchenrauch gedunkelt. 
 
-Alda nickte langsam. Das war der Riss im Holz. Sie musste nur den Keil ansetzen.
+»Berengar«, wiederholte der Alte langsam. Er griff mit der gesunden Linken nach einem Messer, schnitt ein daumennagelgroßes Stück von dem Fett ab, schob es sich in den Mund und schloss für einen Herzschlag die Augen. Das Fett schmolz auf seiner Zunge, linderte den ewigen Brand der Sole. »Er brachte einmal sechs Fässer Elsässer Gerste über den Pass, als der Spätfrost uns das Korn auf den Halmen erfroren hatte. Ein harter Feilscher. Aber sein Wort stand.«
 
-»Draußen steht mein Knecht Berto«, sagte sie mit fester, eindringlicher Stimme. »Auf dem ersten Wagen liegen noch drei Säcke Elsässer Spelzweizen. Reines, schweres Korn, kein Unkraut, keine Wicken. Trocken gelagert im dichten Fass. Dazu haben wir ein halbes Schwein, eingesalzen im Winter, Speckseiten, fest wie Schuhsohlen. Und unter der Plane liegen vier eiserne Scharreisen und zwei neue Hacken, die mein Stellmacher in Zabern geschmiedet hat. Reines Eisen aus den Vogesen. Kein sprödes Zeug, sondern geschmeidiger Stahl.«
+»Sein Wort steht noch immer«, sagte Alda fest. »Auch wenn er unter dem Rasen liegt. Ich habe zwanzig Fuder Salz auf seinem Kerbholz stehen. Ausgemacht mit dem Stift Sankt Arnulf. Doch Folbert verweigert den Auszug, weil ein Grundherr am Rhein seine Finger nach meinem Hof ausstreckt.«
 
-Folrads Augen flackerten. Die beiden Burschen an den Körben hatten das Schaufeln gänzlich eingestellt. Sie starrten Alda an, als hätte sie von einem Wunder der heiligen Odilia gesprochen. Der Geruch von gebratenem Speck schien leibhaftig in die verrußte Hütte zu ziehen, verdrängte für einen Herzschlag den Schwefeldunst.
+Ein jüngerer Mann am Ende des Tisches, die Arme bis zu den Ellbogen mit roten Brandflecken übersät, lachte heiser auf. »Folbert! Der verweigert jedem alles, was nicht den Stempeldruck des Bischofs trägt. Glaubt ihr etwa, wir sehen auch nur einen Krümel von dem Salz, das aus den großen Pfannen gezogen wird? Sankt Arnulf nimmt die Sole, Sankt Arnulf nimmt das Holz, und uns werfen sie die Krume hin, die auf den Trockenböden abfällt.«
 
-»Und was willst du dafür?«, fragte Folrad misstrauisch. Seine Stimme hatte die Schärfe verloren, klang nun vorsichtig, fast lauernd. »Unser Salz gehört dem Bischof. Jeder Korb ist gezählt. Wenn der Vogt einen Fehlbetrag sieht, brennt mein Dach.«
+»Er hat euch in der Hand«, sagte Alda und beugte sich vor, die Unterarme auf den Tisch gestützt. Sie sprach leise, aber mit jenem drängenden Gewicht, das die Fuhrleute anschlugen, wenn das Eis auf dem Fluss zu knacken begann. »Drogo schlägt euer Eisen mit Tannenholz. Eure Wannen biegen sich durch. Ich habe auf dem Weg hierher die Hänge gesehen – der Wald oberhalb von Moyenvic ist geschlagen, kahl wie ein geschorenes Schaf. Folberts Fuhrknechte holen das Holz von weiter her, und euch lassen sie verhungern, weil ihr die Fuhrlöhne nicht zahlen könnt.«
 
-»Ich will kein Salz, das in den Büchern steht«, sagte Alda. Sie trat noch einen halben Schritt näher, so nah, dass sie Folrads Atem spüren konnte. »Ich will das, was ihr nach der Schicht aus den Winkeln kratzt. Das Pfannensalz, das ihr als Ausschuss deklariert, weil die Kruste zu dunkel gebacken ist. Ich will das, was der Vogt nicht wiegt, weil es angeblich im Sumpf zerlaufen ist.«
+Der Alte mit dem Narbengesicht strich über den Speck. »Und was schert das ein Weib vom Rhein? Ihr wollt Salz. Wir haben welches, gewiss. Drei, vier Pfannen laufen noch auf eigene Rechnung, hinten im Ried, wo der Schlamm den Klosterkarren die Räder bricht. Aber wir verschenken es nicht für Speck und Weibergeschwätz. Wir brauchen Korn. Kein Silber, das die Schergen uns beim nächsten Kirchgang wieder abnehmen. Echtes, schweres Spelzgetreide, Hafer für die Saumtiere und Eisen, das nicht beim dritten Schlag splittert.«
 
-Folrad schnaubte durch die Nase. Ein Grinsen, dunkel und zahnlückig, stahl sich auf sein Gesicht.
+Alda ließ die Worte im Raum stehen. Sie kannte diesen Tanz. Es war das Feilschen auf der Lände, wo der Schiffer erst die Mängel des Schiffsbodens beklagte, ehe er nach der Ladung fragte.
 
-»Du bist ein Teufelsweib. Der Ausschuss gehört den Siedern, das ist altes Recht. Aber es reicht nicht für zwei Wagenladungen. Das sind vielleicht fünf, sechs Körbe in drei Tagen.«
+»Eisen«, sagte sie bedächtig, »gibt es im Wasgau. Gutes Raseneisen, weich genug zum Schmieden, zäh genug für die Soleglut. Mein Schwager sitzt an den Erzgängen hinter Zabern. Und was das Korn angeht: Die elsässische Ebene steht voll mit Winterweizen. Der Krieg hat die Felder zertrampelt, wo die Könige zogen, aber die Speicher im Ried sind voll geblieben. Die Klöster am Rhein lassen das Getreide lieber verrotten, als es den Metzer Händlern zu verkaufen, weil der Zoll an den Pässen zu hoch ist.«
 
-»Dann macht mehr Ausschuss«, sagte Alda kalt. »Lasst das Feuer am hinteren Pfannenrand heißer brennen. Schürt mit dem trockenen Fichtenholz, das drüben am Zaun lehnt. Das Blei verbrennt nicht so schnell, aber das Salz setzt an. Der Vogt nimmt keine angebrannte Kruste für die Metzer Stiftsherren, die wollen weißes Mehl für ihre Forellen. Ich nehme die Kruste. Ich nehme das grobe Salz. Meine Schiffer am Rhein fragen nicht, ob das Salz weiß glänzt wie eine Hostie. Sie wollen es für den Lachs, für das Rindfleisch, für die Gerbergruben.«
+»Die Zaberner Steige ist dicht«, warf der junge Sieder ein. »Räubergesindel. Deserteure aus dem Frankenheer.«
 
-Folrad schwieg. Er strich sich mit dem rußigen Handrücken über die Stirn und hinterließ einen breiten, grauen Schmierstreifen.
+»Ich bin heute Morgen über die Steige gekommen«, erwiderte Alda kühl. »Mein Karren steht draußen. Mit zwei gesunden Rössern und einer unzerbrochenen Deichsel. Wer den Weg kennt, kommt durch. Wer Wagen hat, beherrscht den Pass.«
 
-»Das reicht noch immer nicht für dreißig Fuder«, sagte er. »Selbst wenn wir die Nacht durchbrennen.«
+Der alte Sieder musterte sie lange. Seine Augen, wässrig vom ewigen Rauch, suchten in ihren Zügen nach Falschheit, nach der glatten Überheblichkeit der Klosterleute, nach der Furcht einer verlassenen Witwe. Doch er fand nur die harte, unnachgiebige Entschlossenheit eines Menschen, der nichts mehr zu verlieren hatte als das nackte Leben.
 
-»Ich brauche die dreißig Fuder nicht heute«, erwiderte Alda schnell. »Ich brauche heute genug, um meine Karren zu füllen und den Rückweg über die Steige zu rechtfertigen. Zehn Fuder grobes Salz. Und ich brauche euer Wort, dass ihr mir den Rest zur Sommersonnenwende bereitstellt, wenn ich mit fünf Kähnen an der Seille anlege.«
+»Ich bin Guntram«, sagte er schließlich und stieß das Messer in die Tischplatte. »Ältester der Riedsieder. Wie viel wollt ihr laden?«
 
-»Fünf Kähne?«, Folrad starrte sie an. »An den Klöstern vorbei? Wie willst du an der Zollstation von Moyenvic vorbei?«
+»Zwanzig Fuder. Nicht den grauen Staub vom Boden, sondern die weißen Brote aus dem ersten Sud. Gut durchgetrocknet, in Weidenkörben, mit Hanfplanen verschnürt.«
 
-»Das ist meine Sorge«, sagte Alda hart. »Ich bringe euch Korn aus dem Breisgau und Eisen aus den Vogesen. Ich bringe euch Flachs für Stricke und frisches Leder für eure Schurzfelle. Ich gebe es euch, Hand in Hand, ohne dass ein Schreiberling eine Feder ins Fass tunkt oder ein Domherr seine Hand aufhebt. Ihr kocht das Salz, ihr schwitzt das Blut – warum soll der Vogt das Fett abschöpfen?«
+»Zwanzig Fuder«, wiederholte Guntram und schüttelte den Kopf. »Ihr seid toll, Weib. Das ist die halbe Monatsarbeit unserer Pfannen. Wenn Folbert sieht, dass ihr zwanzig Fuder aus dem Ried fahrt, schickt er die Klosterreiter.«
 
-Der Riese blickte zu seinen Burschen hinüber. Der ältere nickte kaum merklich, ein fast unscheinbares Zucken des Kinns. Der Hunger saß ihnen allen in den Gliedern. Man sah es an den vorstehenden Rippen, an den wunden Lippen, am hohlen Blick.
+»Folbert schaut auf die Straße nach Metz«, sagte Alda scharf. »Er wartet darauf, dass ich bete oder fliehe. Er rechnet nicht damit, dass das Salz durch den Schilfgürtel rollt. Ich zahle jetzt. Mit Silber für die ersten fünf Fuder, bar auf den Tisch, ohne Pergament und ohne Zehntabzug.« Sie zog ihren Beutel hervor, lockerte das Lederband und kippte zehn Straßburger Pfennige auf das Holz. Das Metall klang hell und rein im feuchten Raum. »Und für den Rest gebe ich mein Wort. Nicht vor dem Altar, sondern auf dieses Holz.«
 
-»Der Vogt kommt zur Vesper«, murmelte Folrad. »Er zählt die Kufen am Hof. Aber drüben an der alten Ziegelei, hinter dem Weidicht, lagert das Bruchsalz vom letzten Monat. Es ist grau vom Rauch, voller Aschekrümel. Das Domkapitel hat es verworfen. Wir sollten es in den Fluss schütten, damit die Brunnen nicht versauern.«
+Sie zog ein langes, vierkantiges Buchenholz aus dem Ärmel – ihr Kerbholz, glatt geschabt, frei von Schriftzeichen, aber gezeichnet von der Arbeit. 
 
-»Wo liegt es?«, fragte Alda, und ihr Herz schlug einen Schlag schneller.
+»Zehn Karren Spelz im Herbst«, sagte sie, und jeder Mann im Raum hielt den Atem an. »Dazu vier Zentner schmiedbares Wasgau-Eisen, direkt an Drogos Esse geliefert, ehe der erste Schnee die Vogesen schließt. Ich nehme das Salz jetzt mit. Ihr haltet die Kerbe. Wenn ich zu Martini nicht liefere, gehört mein Fuhrbetrieb euch – oder dem, was davon übrig ist. Doch ich werde liefern. Denn wenn ich ohne Salz an den Rhein komme, bin ich tot. Und ein toter Schuldner bringt euch kein einziges Korn.«
 
-»Unter nassen Strohmatten. Zwölf Fuder, vielleicht mehr. Wir haben es nicht fortgeschafft, weil die Karren fehlten. Wenn wir es ins Wasser werfen, haben wir die Arbeit. Wenn du es auflädst, ist es weg.«
+Guntram starrte auf das Silber, dann auf das Holz. Seine Finger schlossen sich langsam um den Schaft des Messers. »Ihr riskiert euren Hals für ein paar Säcke Salz, Schifferin.«
 
-»Und wenn der Vogt fragt?«
+»Ich riskiere meinen Sohn«, erwiderte Alda, und zum ersten Mal trat eine schneidende Kälte in ihre Stimme, die tiefer ging als der Rauch. »Und das wiegt schwerer als alle Klöster zwischen hier und Rom. Steht der Handel, Guntram? Hand auf Hand, wie die Väter es taten, ehe die Mönche das Schreiben lernten?«
 
-»Liegt es auf dem Grund der Seille«, sagte Folrad trocken. »Wasser wäscht alles rein. Auch die Schuld.«
+Ein langes Schweigen senkte sich über die Schenke. Draußen schlug Drogo wieder auf das Eisen; der dumpfe Ton drang durch die Wände, ein steter Mahnruf an die Vergänglichkeit des Metalls. Die Männer am Tisch sahen sich an. Es war kein leichtes Ding. Es war Auflehnung gegen das Monopol von Sankt Arnulf, ein Bruch mit den herrschaftlichen Verordnungen, die ihnen vorschrieben, jedes Korn Salz an die herrschaftliche Waage zu liefern. Doch der Hunger war ein schärferer Vogt als Folbert. Der Gedanke an volles, schweres Elsässer Korn im kommenden Winter, an Eisen für neue Pfannen, wog schwerer als die Furcht vor einer Rüge des Abts.
 
-Er streckte eine riesige, von Brandblasen und Schwielen entstellte Hand aus. Die Handfläche war schneeweiß von eingetrockneter Lauge, die Risse in der Haut schienen tief wie Schnitte.
+Guntram streckte die linke Hand aus. Die Haut war dick, schwielig und voller Salzporen, die nie wieder verheilen würden. 
 
-Alda zögerte keinen Lidschlag. Sie zog ihren Fausthandschuh aus und schlug ein. Ihre Finger verschwanden fast völlig in seiner Pranke. Der Griff war fest, schmerzhaft hart, aber ehrlich. Kein feuchter Händedruck eines bischöflichen Notars, kein falsches Siegel unter gefälschtem Text. Das Bündnis war besiegelt durch die Hände derer, die den Dreck der Welt bewegten.
+»Hand auf Hand«, sagte der alte Sieder.
 
-»Zuerst das Eisen«, sagte Folrad. »Und ein Sack Korn. Vor der Vesper.«
+Alda schlug ein. Der Griff war fest, trocken und rau wie Schmirgelstein. Sie spürte das Pochen ihres eigenen Blutes in den Schläfen, doch ihre Hand zitterte nicht. 
 
-»In einer halben Stunde steht der Karren an der alten Ziegelei«, erwiderte Alda. »Mein Knecht Berto wird abladen. Aber kein Wort zu den Leuten von Kessel zwei und drei. Was der Neid nicht weiß, macht die Vögte nicht heiß.«
+Guntram nahm ihr Kerbholz, setzte sein Messer an die Kante und schnitt mit einem sauberen, tiefen Ruck zwanzig Kerben in das helle Holz. Zehn auf der oberen Seite für das Salz, zehn auf der unteren für das versprochene Korn und Eisen. Dann spaltete er das Holz der Länge nach mit einem geschickten Druck der Klinge. Die Maserung teilte sich krachend; zwei identische Hälften blieben zurück, jede mit den halbierten Kerben, die nur auf das Gegenstück passten und keinem fremden Betrug Raum ließen.
 
-»Glaubst du, ich bin dumm?«, knurrte der Meister, doch um seine Mundwinkel zuckte etwas, das fast wie Respekt aussah. »Mach, dass du rauskommst. Wenn der Geruch von Weizenmehl durch die Tür weht, fällt mir die ganze Siederschaft über den Hals.«
+Er reichte Alda das Gegenholz. »Wenn der Mond heute Nacht hinter den Weiden versinkt, bringt ihr den Karren an die alte Furt hinter Drogos Schmiede. Kein Licht. Keine Glocken am Zaumzeug. Wir haben zehn Körbe bereitstehen, die anderen zehn müsst ihr selbst von den Hürden laden.«
 
-Alda wandte sich um und trat hinaus ins Freie. Die kühle Maienluft schlug ihr entgegen, rein und fast süßlich im Vergleich zu der Hölle im Inneren. Sie atmete tief ein, spürte das Brennen im Hals, aber auch den kühlen, klaren Triumph, der ihr durch die Adern schoss.
+»Der Karren wird dort sein«, sagte Alda. Sie schob ihre Hälfte des Kerbholzes tief in den Gürtel, raffte den Schafspelz und stand auf. Das Silber ließ sie auf dem Tisch liegen. Guntrams Pranke deckte die Münzen zu, noch ehe sie den ersten Schritt zur Tür getan hatte.
 
-Sie eilte den schmalen Pfad entlang, der zwischen den Schlackenhalden hindurchführte. Der Boden federt unter ihren Schritten, getränkt von Salzwasser und zertretenem Stroh. Hinter der Weidenhütte kauerte Otwin auf einer umgestürzten Deichsel. Sein Gesicht war aschfahl, die Knie an die Brust gezogen, den Klostermantel eng um die Schultern gewickelt. Er sah aus wie ein gehetzter Hase, der den Schatten des Habichts über sich kreisen sieht. Knecht Berto stand bei den Ochsen, beruhigte das vordere Tier mit leisen, gutturalen Lauten und klopfte ihm den staubigen Hals.
+Als sie ins Freie trat, schlug ihr die kalte Maienluft ins Gesicht. Der Wind hatte gedreht; er trieb den Rauch nun talabwärts zur Seille, wo die Weidenbüsche grau im Schlick standen. Am Fuhrwerk stand Otwin, bleich wie Kalk, die Zügel so fest um die Faust gewickelt, dass die Knöchel weiß hervortraten. Drogo stand noch immer am Amboss, doch er hämmerte nicht mehr. Er beobachtete sie.
 
-Als Otwin sie sah, sprang er auf. »Alda! Bei allen Heiligen, ich dachte schon, sie hätten dich! Ich habe Hufschläge gehört – oben auf dem Damm reitet eine Streife! Wir müssen fort, die Zöllner werden den Platz durchkämmen, wenn der Verwalter Verdacht schöpft!«
+»Hast du... hast du mit ihnen gesprochen?«, keuchte Otwin, als sie den Bock erklomm und die Deichsel löste. »Alda, ein Reiter ist durch das Obertor gekommen. Vor zehn Minuten. Er trug den Waffenrock von Graf Adalhards Leuten, aber er ritt direkt zum Stiftshaus!«
 
-Alda ging an ihm vorbei, ohne das Tempo zu verringern, trat an den ersten Karren und riss die Plane zurück.
+»Dann hat Folbert jetzt etwas zu bereden«, sagte Alda kühl und griff nach den Zügeln. Ihre Stimme war vollkommen ruhig, getragen von jener eisernen Festigkeit, die sie immer dann erfasste, wenn der Fluss über die Ufer trat und das Schiff auf Grund zu laufen drohte. »Und wir haben zu tun.«
 
-»Hör auf zu zittern, Otwin«, sagte sie barsch. »Hol den Spelzsack hervor. Den hinteren, den wir in Zabern mit Pech versiegelt haben.«
+»Wir fliehen?«
 
-Otwin starrte sie verständnislos an. »Was? Das Korn? Das ist unser Reiseproviant! Wenn wir das hergeben, hungern wir auf dem Rückweg!«
+»Wir fahren zu Drogos Schuppen«, befahl sie und trieb die Pferde mit einem kurzen Schnalzen an. »Wir fetten die Achsen, Otwin. Und du wirst deine Hände gebrauchen, um Weidenkörbe zu wuchten, statt Tinte zu rühren. Heute Nacht laden wir Salz. Echtes Salz. Und morgen früh stehen wir wieder auf der Steige.«
 
-»Wir hungern nicht, wir tauschen«, entgegnete sie, während sie bereits an den Stricken zerrte, die das Getreide sicherten. »Berto! Pack mit an. Den Sack und die Scharreisen aus der Kiste unter dem Bock.«
+Der Wagen rumpelte an der Schmiede vorbei. Drogo hob die Zange zum Gruß – nicht unterwürfig, sondern von Gleichem zu Gleichem. Alda erwiderte das Zeichen mit einem knappen Nicken. Das Bündnis war geschlossen. Es stand nicht auf Pergament, es trug kein Siegel aus rotem Wachs, und kein Kanzler hatte Latein darüber gegossen. Aber es war in Buchenholz geschnitten und mit Handschlag besiegelt zwischen Menschen, die den Geschmack von Schweiß und Rauch teilten.
 
-Der alte Knecht nickte stumm. Seine Augen waren wachsam, er stellte keine Fragen. Er kannte die Händlerin seit ihrer Kindheit; wenn Alda diesen Tonfall anschlug, gab es kein Zaudern, nur Gehorsam. Mit seinen breiten Schultern wuchtete er den schweren Sack von der Ladefläche.
-
-»Alda, das ist Wahnsinn«, flüsterte Otwin, der ihr hastig nachfolgte, als sie die Eisenwerkzeuge unter Stroh und Leder hervorzog. »Du kannst nicht einfach Getreide an die Kolonen verfüttern! Sie sind Leibeigene des Bischofs. Alles, was sie besitzen, gehört dem Domkapitel. Wenn du mit ihnen handelst, machst du dich der Hehlerei schuldig! Nach dem Salischen Recht—«
-
-Alda fuhr herum. Sie hielt ein langes, geschmiedetes Scharreisen in der Faust, die Spitze glänzte silbern im matten Sonnenlicht.
-
-»Vergiss dein Salisches Recht, Otwin!«, zischte sie ihm ins Gesicht. »Dein Salisches Recht hat zugesehen, wie Raginbert mein Haus verpfändet hat! Dein Salisches Recht hat auf Pergament geschrieben, dass mein Sohn Berto als Knecht enden soll, weil ein toter Mann einen Eid brach! Glaubst du, die Männer da drinnen scheren sich um dein Latein? Sie verhungern! Sie schuften Tag und Nacht am Blei, verbrennen sich die Lunge und kriegen dafür faulen Spelz, während die Herren in Metz das Salz zu Silber machen!«
-
-Otwin zuckte zurück, als hätte sie ihn geschlagen. Er senkte den Blick auf seine Schreibfinger, die weiß und sauber waren, abgesehen von den alten Tintenflecken an den Nägeln.
-
-»Das Recht schützt die Ordnung«, flüsterte er schwach.
-
-»Das Recht schützt die, die das Pergament bezahlen können«, entgegnete sie unbarmherzig. »Aber hier unten im Rauch gilt eine andere Sprache. Hier gilt: Eisen gegen Salz. Brot gegen Schweiß. Wenn du überleben willst, Otwin, dann lerne diese Sprache. Sonst bleibst du ewig der Knecht eines Herrn, der dich ans Messer liefert, sobald ihm deine Tinte nicht mehr passt.«
-
-Sie drückte ihm eines der schweren Scharreisen in die Hand. Das kalte Metall zwang ihn, zuzugreifen, um es nicht auf seine Füße fallen zu lassen.
-
-»Trag das«, befahl sie. »Und halt den Mund. Du bist jetzt mein Knecht, kein Notar. Berto, nimm den Sack auf die Schulter. Wir gehen zur alten Ziegelei.«
-
-Der Weg führte im toten Winkel der Schlackenhalden entlang. Überall standen die Pfähle der alten römischen Fundamente aus dem Boden, Zeugen einer Zeit, in der hier schon vor tausend Jahren das weiße Gold aus der Erde gekocht worden war. Die Luft war erfüllt vom Knistern des Schilfs und dem fernen Rufen der Treiber.
-
-Hinter der zerfallenen Ziegelmauer stießen sie auf eine Mulde. Vier Männer erwarteten sie bereits. Meister Folrad lehnte an einem verwitterten Holzbock, neben ihm standen drei jüngere Salzsieder mit leeren Tragekörben. Niemand sprach ein Wort. Berto ließ den Kornsack mit einem dumpfen Laut ins Gras fallen. Otwin legte das Eisen dazu, seine Hände zitterten noch immer.
-
-Folrad kniete nieder. Er zog ein kurzes Messer aus dem Gürtel, schlitzte die Naht des Sackes auf und griff mit den schwieligen Fingern hinein. Er zog eine Handvoll Weizen hervor, hielt sie an die Nase, roch daran, biss auf ein Korn. Es knackte vernehmlich zwischen seinen Backenzähnen.
-
-Ein langes, tiefes Ausatmen entwich seiner Brust. »Guter Weizen«, sagte er leise. »Kein Moder. Trocken wie Sommerheu.«
-
-Er sah auf zu den Scharreisen, strich mit dem Daumen über die geschmiedete Schneide des Werkzeugs, das Otwin gebracht hatte. »Und die Schneide ist gehärtet. Das bricht nicht beim ersten Schlag.«
-
-Er steckte das Messer weg und blickte Alda an. »Zur Ziegelei rein. Unter den Matten. Zwölf Fuder. Schafft es weg, ehe der Himmel rot wird.«
-
-Die Sieder packten sofort an. Was nun folgte, war keine Verhandlung mehr, es war das lautlose, hastige Getriebe von Ameisen vor dem Unwetter. Berto fuhr den ersten Karren rückwärts an den verfallenen Ziegelofen heran. Die Salzsieder rissen die fauligen Strohmatten zur Seite. Darunter kamen gewaltige Klumpen grauen, grobkörnigen Salzes zum Vorschein – verkrustet, mit Aschestreifen durchzogen, schwer wie Granit, aber vollkommen brauchbar.
-
-Alda packte selbst mit an. Sie nahm die Körbe entgegen, wuchtete die zentnerschweren Brocken auf die Ladefläche, verteilte das Gewicht gleichmäßig über die Achsen, damit die Räder im Schlamm nicht brachen. Ihre Hände brannten, als das scharfe Salz in die feinen Schürfwunden an ihren Handgelenken drang. Es brannte wie Feuer, doch der Schmerz war ihr willkommen. Jeder Schmerz bedeutete ein Pfund Salz mehr, jeden Stein, den sie aufluden, riss sie Raginberts gierigen Klauen aus dem Rachen.
-
-Sogar Otwin packte schließlich an. Er stöhnte unter der Last, seine feine Klerikertracht riss an der Schulter ein, als er sich gegen einen widerspenstigen Salzklumpen stemmte, und sein Gesicht war bald so rußgeschwärzt wie das der Sieder. Doch er ließ nicht los. Er blickte Alda einmal an, als sie gemeinsam einen Korb über die Bordwand hoben; in seinen Augen lag keine Angst mehr, sondern ein seltsames, fast trotziges Erstaunen über sich selbst.
-
-Als die Glocke von der fernen Klosterkapelle zur Vesper schlug, waren beide Karren bis an den Rand beladen. Die Achsen bogen sich gefährlich durch, das Holz ächzte unter der Last von fast fünfzehn Fudern unreinem, aber kostbarem Siedesalz. Berto hatte die schweren Planen darüber festgezurrt und mit altem Heu bedeckt, sodass die Fracht von außen wie gewöhnliche Futterwagen aussah.
-
-Folrad stand am Ausgang der Ziegelei. Der Kornsack war verschwunden, versteckt in einem unterirdischen Rauchkanal des alten Ofens, die Scharreisen lagen bereits an Kessel vier. Der Meister hielt Alda ein kleines, abgebrochenes Stück eines runden Ziegelsteins hin. Mit einem Nagel hatte er drei tiefe Kerben in den weichen Ton geritzt.
-
-»Was ist das?«, fragte Alda und nahm die Scherbe.
-
-»Mein Zeichen«, sagte Folrad. »Wenn du zur Sonnenwende wiederkommst, zeigst du das meinem Bruder an der Seille-Fähre. Er wird wissen, dass du kein Vogtvolk bist. Er wird dir die Kähne beladen, wenn du das Getreide bringst.«
-
-Er sah sie eindringlich an. »Du kommst doch wieder?«
-
-Alda schloss die Finger um das Kerbholz aus gebranntem Ton. Sie spürte die rauen Kanten, die Wärme, die das Material noch immer hielt. Kein Wachs, kein Siegel des Erzbischofs, kein flüchtiges lateinisches Wort, das ein Schreiber mit einem Bimsstein auskratzen konnte. Das hier war Ton und Eisen.
-
-»Ich komme wieder, Meister Folrad«, sagte sie fest. »Mit fünf Kähnen. Und genug Mehl, dass deine Leute den ganzen Winter lang weißes Brot essen.«
-
-Der Hüne nickte kurz. Er spuckte auf den Boden, wandte sich um und ging mit schweren Schritten durch den Morast zurück zu den rauchenden Hütten, ohne noch einmal zurückzublicken.
-
-Alda trat an ihren Karren. Sie strich dem vorderen Ochsen über die Stirn, wo das Joch das Fell abgewetzt hatte. Das Tier schnaubte warmen Dampf in die Abendkühle.
-
-»Wir müssen los«, sagte Berto leise und trat neben sie. »Wenn wir die Talsohle vor Einbruch der Dunkelheit verlassen, schaffen wir den ersten Anstieg zur Zaberner Steige, ehe die Vögte den Wachwechsel machen.«
-
-»Ja«, antwortete sie.
-
-Sie wandte sich zu Otwin um. Der Schreiber stand da, atemlos, mit schmutzigen Händen und zerrissenem Gewand, das Salz klebte ihm in den Augenbrauen wie Reif. Er sah nicht mehr aus wie ein Mann der Kirche, er sah aus wie einer der ihren.
-
-»Und?«, fragte sie ihn leise. »Glaubst du noch immer, dass die Welt auf Pergament steht?«
-
-Otwin blickte auf seine schwieligen, zitternden Hände, dann auf die schwer beladenen Karren, deren Räder tief im lothringischen Lehm standen. Ein mattes, müdes Lächeln trat auf seine Lippen, das erste echte Lächeln, das sie an ihm sah.
-
-»Pergament brennt zu schnell«, sagte er leise, und seine Stimme trug einen neuen, dunkleren Ton. »Salz bleibt.«
-
-»Dann nimm die Peitsche für das linke Gespann«, befahl Alda und griff nach dem Leitseil der Führtiere. »Wir haben dreißig Pfund Silber zu bezahlen. Und mein Sohn wartet an der Bruche.«
-
-Mit einem Ruck setzten sich die Ochsen in Bewegung. Die Eisenreifen schnitten knirschend in den Boden, das Holz der Karren stöhnte laut auf, und der Zug wandte sich langsam, schwerfällig, aber unaufhaltsam nach Osten, weg von den rauchenden Feuern von Marsal, den steilen Hängen der Vogesen entgegen.
+Als das Fuhrwerk im tiefen Schatten der schiefen Hütten verschwand, begann es leise zu regnen. Die Tropfen zischten auf den heißen Schlackehaufen des Solebachs, und über dem Tal lag der Geruch von nassem Eisen und Neuanfang.
 

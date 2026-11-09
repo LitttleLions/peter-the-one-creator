@@ -1,124 +1,178 @@
 ## Die Versammlung der Fuhrleute
 
-Der Geruch von Straßburg schlug Alda entgegen, noch ehe der letzte Nebelfetzen über den Schilfbänken der Ill zerrissen war: kaltes Flusswasser, modriges Weidengeflecht, der herbe Dunst von Pferdemist und das scharfe, bittere Aroma von geräuchertem Schinkenspeck aus den Häusern der Gerbergasse. 
+Der Geruch von nassem Pferdemist, fauligem Stroh und kaltem Buchenrauch schlug Alda entgegen, noch ehe sie das Weichbild der Stadt durchschritten hatten. Straßburg lag geduckt unter einem bleigrauen Aprilhimmel, der tief über den Schindeldächern und den moosbewachsenen Resten der römischen Wehrmauern hing. Es war jene Stunde zwischen Hund und Wolf, in der die Nachtwächter an den Toren gähnten und die ersten Gerber ihre stinkenden Bottiche an der Ill zu Tale ließen.
 
-Sie trug die derbe Wollkappe tief in die Stirn gezogen. Ihr Rock war von den Schleichwegen durch das Ried mit grauem Schlamm verkrustet, der Saum schwer von Feuchtigkeit. Hinter ihr duckte sich der junge Berto in den Schatten der Weiden. Seine Hände steckten tief in den Ärmeln seiner viel zu weiten Lodenjoppe. Der Junge fror, doch er gab keinen Laut von sich. Er hatte in den vergangenen Wochen gelernt, wie man schwieg, wenn die Erwachsenen die Zähne zusammenbissen.
+Alda hielt den Saum ihres Mantels fest um die Schultern geschlungen, zog die grobe Wollkapuze tiefer in die Stirn und schob die Hand unter das Tuch, wo das gespaltene Kerbholz flach gegen ihre Rippen drückte. An ihrer Seite ging der Knecht Berto, der das schwerfällige Zugross am kurzen Zügel führte. Der Karren hinter ihnen war leer, doch die eichenen Speichen ächzten im tiefen Schlamm der Altstraße, die von Zabern hereinbrach. Neben ihr lief ihr Junge. Berto hielt ihren Rockzipfel umklammert; seine harten Bundschuhe patschten durch die zähe Brühe aus Schmelzwasser und Kehricht, aber er schwieg, wie sie es ihm auf den letzten Meilen eingeschärft hatte. Ein neunjähriger Junge verstand, wann Schweigen das nackte Überleben sicherte.
 
-»Mutter«, flüsterte er heiser, als vom Münster her die Glocke zur Terz schlug. »Der Speicher gehört doch jetzt dem reichen Mann. Dürfen wir überhaupt hier sein?«
+Sie steuerten nicht den alten Hof an. Jener gehörte Raginbert, versiegelt durch das Recht des Stärkeren und jene toten Zeichen auf Pergament, die Berengars Namen getragen hatten. Ihr Weg führte sie an den südlichen Rand der Marktsiedlung, dorthin, wo die Stallungen der Fuhrleute und die niedrigen Schuppen der Schiffknechte an den schlammigen Uferhang der Ill stießen. Hier standen keine Steinhäuser. Flechtwerkwände, verschmiert mit gelbem Lehm und Rinderkot, duckten sich unter windschiefen Schilfdächern. Es roch nach altem Wagenschmalz, Tran und ungesalzenem Flussfisch.
 
-Alda legte ihm eine Hand auf die schmale Schulter. Das Tuch war feucht, aber darunter spürte sie das Pochen seines Blutes, schnell und unruhig wie der Herzschlag eines Vogels. »Wir sind auf freiem Grund, Berto. Der Kutscherplatz gehört der Stadt, nicht Raginbert. Merk dir das. Man kann dir das Dach über dem Kopf nehmen, aber nicht den Weg unter deinen Sohlen.«
+Vor der langen, offenen Remise, wo die großen Weidenkörbe und Frachtkarren für den Fernverkehr untergestellt wurden, brannte ein offenes Holzfeuer in einer halbierten römischen Schale aus rotem Sandstein. Um die Glut drängten sich Männer in derben Lodenkitteln, die Arme tief in die Ärmel vergraben. Einige schnitzten an neuen Speichen, andere schärften mit dem Wetzstein eiserne Schaufelblätter. Über ihren Köpfen stieg der schwere Dunst von nassen Wollmänteln auf.
 
-Knecht Berto trat heran, das Gesicht grau von Schlafmangel, die Schultern gebeugt unter der Last des geflochtenen Weidenkorbs, in dem das trockene Brot und die lederne Dokumentenkapsel lagen. Seine groben Lederstiefel hinterließen tiefe, saugende Abdrücke im Frühlingsmorast. 
+Als das Knarren von Aldas Karrenachse über den Platz hallte, verstummten die gedämpften Stimmen. Köpfe wandten sich um. Gesichter, wettergegerbt und von Flusswinden rissig wie alte Birkenrinde, starrten ihr entgegen. 
 
-»Es ist Markttag«, murmelte der Alte und spähte durch die Astgabel einer Weide zum Platz hinüber. »Das Gesindel treibt sich herum. Aber Folkers Knechte sind auch da. Ich habe ihre Wämser mit dem roten Streifen drüben am Salzstadel gesehen. Wenn Raginbert erfährt, dass wir zurück über die Steige sind …«
+»Die Händlerin«, murmelte jemand am Feuer. Es war Hartwig, ein stämmiger Fuhrmann mit schiefen Schultern, dessen rechtes Auge von einem peitschenden Hanfseil vor Jahren blind geschlagen worden war. Er ließ das Zugmesser sinken. »Man hat gesagt, du wärst im Westen verhungert, Alda. Oder Isenbarts Knechte hätten dich in der Mosel ersäuft.«
 
-»Er wird es erfahren«, schnitt Alda ihm das Wort ab. Ihre Stimme war rau vom feuchten Wind, doch jedes Wort saß fest. »Aber erst, wenn die Räder rollen. Wir brauchen Gespanne. Folrad siedet in Marsal, die Kähne auf der Seille sind gerüstet, aber über die Woëvre kommen wir nicht ohne Ochsen und schwere Karren. Zu Fuß schaffen Gerwin und die Siedersöhne die sechzig Fuder nicht vor die Tore von Verdun.«
+»Man redet viel, wenn der Tag lang und das Bier dünn ist, Hartwig«, erwiderte sie ruhig. Sie blieb drei Schritte vor dem Feuer stehen, spürte die Hitze der Buchenkloben an ihren klammen Knöcheln und nickte dem Knecht Berto zu, das Zugross anzuhalten. Der Knecht legte dem Tier beruhigend die Hand auf den Widerrist, die Augen scheu auf den Boden gerichtet.
 
-Sie traten aus dem Weidendickicht auf den breiten, unbefestigten Platz, der sich zwischen den Stadtmauern und dem Flussufer erstreckte. Hier herrschte das laute, raue Leben der Straße. Fuhrleute fetteten Achsen mit stinkendem Talg, Schiffer fluchten in breitem alemannischem Laut, während sie Weinfässer über knarrende Bohlen rollten, und der beißende Rauch von Schmiedefeuern trieb über die Pferche. Mehr als dreißig Gespanne standen herum – schwere, zweiachsige Planwagen mit eisenbeschlagenen Eschenholzrädern, gezogen von zähen Vogesenstieren oder breiten Kaltblütern, deren Nüstern im kalten Aprilwind dampften. 
+»Sie sagen auch«, warf ein anderer ein, ein Schiffer namens Folpert, der auf einem umgestürzten Salzbottich hockte, »dass Raginberts Bann auf jedem liegt, der dir die Hand reicht. Gestern ritt sein Amtmann über den Platz. Dreißig Pfund Silber habe Berengar ihm geschuldet, sagt er. Und wer für Berengars Witwe auch nur einen Nagel richtet oder eine Deichsel spannt, dessen Gespann lässt der Vogt noch vor Pfingsten an die Kette legen.«
 
-Doch die Stimmung auf dem Platz war gedrückt. Das Gewirr der Stimmen war nicht das gewohnte laute Gebrüll eines florierenden Frühjahrsmarktes. Es war ein gärendes Murren. 
+Ein beklemmendes Schweigen senkte sich über die Männer. Man hörte nur das Knacken des feuchten Holzes in den Flammen und das Schnauben von Aldas Zugross. Die Furcht saß diesen Kerlen in den Gliedern, tiefer noch als der Frost des vergangenen Winters. Sie alle kannten Raginberts Macht; sie kannten die gräflichen Schöffen, die auf Geheiß der Großen jedes noch so alte Gewohnheitsrecht mit einem einzigen Federstrich zunichtemachten.
 
-Im Zentrum des Platzes, vor der Schenke zum Eisernen Haken, stand ein Tross von sechs Reitern. In ihrer Mitte saß Raginbert im Sattel eines mächtigen, apfelgrauen Hengstes. Sein Mantel aus feinstem flandrischem Tuch war mit dunklem Marderpelz verbrämt, die silbernen Sporen blitzten im trüben Vormittagslicht. Neben ihm hielt Vogt Folker, der eine Reitpeitsche rhythmisch gegen seine lederne Beinröhre schlug – *klatsch, klatsch, klatsch*.
+Ehe Alda antworten konnte, zerriss das dumpfe Klopfen von beschlagenen Hufen den zähen Dunst der Gasse.
 
-Vor ihnen standen die Fuhrleute. Alte Karrenführer mit ledernen Schürzen, zerschlissenen Kappen und von Schwielen zerrissenen Händen. Männer, die jeden Stein zwischen Basel und Mainz kannten, die mit dem Gestank von nassem Heu und Pferdeschweiß aufgewachsen waren. Sie blickten zu Boden. Niemand wagte es, dem Grundherrn ins Gesicht zu sehen.
+Zwei Reiter bogen um die Ecke der Gerberscheune. Der vordere saß auf einem hochbeinigen Rappen, gehüllt in einen schweren, mit Fuchsfell gefütterten Mantel aus dunklem flämischem Tuch. Raginbert. Hinter ihm hielt ein berittener Knecht, der einen kurzen Jagdspieß quer über dem Sattelknauf trug.
 
-»… und wer für Heinrichs Weib spannt«, sprach Raginbert gerade, und seine Stimme trug mühelos über das Pflaster, kühl, gelassen, von der absoluten Gewissheit eines Mannes getragen, der die Gesetze nicht nur kannte, sondern sie kaufte, »der hat hier im Bistum keinen Tag mehr eine Fracht zu erwarten. Weder Tuch nach Speyer noch Korn aus dem Breisgau. Der Rheinzoll wird für jeden verdoppelt, der auch nur einen Nagel für ihren Zug richtet. Ihr kennt meine Vögte an den Furten. Ihr wisst, wie schnell ein Rad bricht, wenn ein Balken im Dunkeln auf dem Weg liegt.«
+Der Grundherr zog die Zügel nicht hastig an; er ritt im gemessenen Schritt bis an den Rand der Schuppen heran, als nähme er lediglich sein Vieh in Augenschein. Seine Züge waren glatt rasiert, die Augen kalt und wach. Er blickte nicht herablassend auf die Fuhrleute, sondern mit jener gelassenen, unerschütterlichen Milde eines Mannes, der gewohnt war, dass vor seinen Ochsenkarren das gemeine Volk ohne Zögern in den Graben trat.
 
-Ein Raunen lief durch die Menge, beklommen und zornig zugleich. 
+»Hartwig. Folpert«, sprach Raginbert, und seine Stimme trug mühelos über das Prasseln des Feuers hinweg. Er würdigte Alda keines ersten Blickes. »Ich sehe, die Karren stehen noch immer ohne Fracht. Der Hof des Bischofs braucht Hafer für die Boten. Zehn Kufen Roggen liegen an der Schiffslände zur Verladung bereit. Der Satz bleibt, wie er im Vorjahr war: zwei Silberlinge je Fuder bis Zabern.«
 
-Ein breitschultriger Fuhrmann, den man überall am Oberrhein nur den roten Walo nannte, trat einen halben Schritt vor. Seine Joppe war an den Ellenbogen geflickt, seine Stiefel hatten kaum noch Sohlen. »Herr«, stieß er hervor, und seine Stimme klang wie zwei Mahlsteine, die aufeinanderrieben, »die Pferde stehen seit Lichtmess im Stall. Das Heu ist teuer wie nie zuvor, die Könige fressen das Land kahl mit ihren Heeren. Wovon sollen wir die Knechte füttern, wenn wir nicht fahren? Wenn die Witwe Silber bietet …«
+Hartwig trat von einem Fuß auf den andern. Der feuchte Lehm schmatzte unter seinen Sohlen. Er zog die Schultern hoch, den Blick fest auf seine Bundschuhe gerichtet. »Das Heu ist teuer, Herr«, stammelte der Fuhrmann leise. »Die Zugtiere sind mager aus dem Schnee gekommen. Für zwei Silberlinge decken wir kaum das Eisen für die Hufbeschläge.«
 
-»Sie bietet euch keinen Heller Silber, Walo«, unterbrach ihn Raginbert mit einem feinen, herablassenden Lächeln. »Sie bietet euch leere Versprechungen. Heinrichs Nachlass ist gepfändet. Der Speicher an der Ill ist mein. Wer mit einer Bettlerin zieht, teilt ihr Bett im Staub. Ich dagegen brauche Gespanne für den Sommer – aber nur für jene, die wissen, wem die Straßen gehören.«
+»Zwei Silberlinge«, wiederholte Raginbert ohne jede Schärfe. »Es steht euch frei, eure Gespanne verhungern zu lassen. Doch wer den Frondienst an der Straße verweigert, verliert das Weiderecht auf den Allmenden vor dem Westtor. Und wer sich gar mit Schuldnern gemeinmacht, die dem Grafengericht trotzen, der mag zusehen, wo er künftig sein Fuhrlohn einklagt.«
 
-Folkers Peitsche klatschte laut gegen das Leder. Ein paar jüngere Knechte wichen unwillkürlich zurück. 
+Erst jetzt wandte er den Kopf und sah Alda an. Seine Lippen kräuselten sich kaum merklich. »Du hättest im Ziegenstall bleiben sollen, Weib. Dein Hof ist mein. Dein Speicher ist mein. Und die Schiffe am Ufer tragen mein Brandzeichen. Was suchst du noch im Staub der Straße? Es gibt kein Recht für dich, das nicht längst durch mein Pergament besiegelt wäre.«
 
-Alda spürte, wie sich Bertos kleine Finger krampfhaft in ihren Rock bohrten. Der Junge zitterte. Knecht Berto neben ihr stöhnte leise auf: »Herrin, um aller Heiligen willen, geh nicht hin. Er lässt uns von den Bütteln in den Turm werfen. Die Urkunden …«
+Berto, ihr Junge, drückte sich enger an Aldas Hüfte. Sie spürte, wie das Kind zitterte, doch sie legte ihm fest die Hand auf den Scheitel, um ihm Halt zu geben. Sie wich Raginberts Blick nicht aus. Als sie sprach, war ihre Stimme frei von Zorn; sie klang trocken und fest, wie das Klopfen eines Holzschlägels auf ein gesundes Eichenrad.
 
-»Die Urkunden sind tote Haut«, flüsterte Alda. Sie löste Bertos Hand sanft von ihrem Rock. »Bleib hier bei Knecht Berto. Rühr dich nicht vom Fleck.«
+»Dein Pergament ist vollgeschrieben mit fremden Worten, Herr«, sagte sie, und wandte sich langsam von ihm ab, dem Feuer und den Männern zu. »Aber Pergament füllt keine Mägen. Und die Kanzleien der Könige fressen kein Kalbsleder, wenn sie im Juni an der Maas zusammenkommen.«
 
-Sie atmete tief ein. Die kalte Luft schmeckte nach Schlamm, Rauch und Pferdemist. Sie war keine Edelfrau, die hinter Gittern saß; sie war eine Händlerin, Tochter eines Zimmermanns, Witwe eines Fuhrunternehmers. Sie kannte das Fluchen dieser Männer, sie kannte das Gewicht eines Salzsacks auf den Schultern, sie wusste, wie das Leder riecht, wenn es im Regen verfault. 
+Ein leises Murren ging durch die Reihe der Fuhrleute. Hartwig hob vorsichtig den Kopf.
 
-Mit festen Schritten trat sie aus dem Schatten der Weiden hervor, mitten auf den Platz. Das Geräusch ihrer schweren Holzschuhe auf dem feuchten Lehm schnitt durch das Schweigen.
+»Ihr kennt mich«, sprach Alda laut in die Runde der Karrenführer und Schiffer. Sie bediente sich der breiten, einfachen Mundart, die sie alle von Kindesbeinen an sprachen, unverfälscht und bar jeder lateinischen Schnörkel. »Mein Vater hat mit euren Vätern das Salz vom Rhein heraufgeholt. Mein Mann hat mit euch an den Furten gestanden, als das Eis brach. Ihr wisst, was eine Achse trägt, und ihr wisst, was ein Fuder Salz wert ist, wenn fünfzehntausend Mäuler nach Fleisch schreien.«
 
-»Wem die Straßen gehören, Raginbert?«, rief sie. 
+»Alda«, zischte Raginbert vom Pferd herab, nun doch mit einer Spur von Härte im Ton. »Hüte deine Zunge. Du besitzt nichts mehr.«
 
-Ihre Stimme war nicht schrill, sondern voll, getragen von den Jahren, in denen sie gegen den Lärm der Ill-Mühlen und das Brüllen der Schiffer hatte anrufen müssen. 
+»Ich besitze das Salz«, hielt sie dagegen, ohne ihn auch nur anzusehen. Sie trat einen Schritt vor, direkt an den Rand der Glut, sodass das rote Licht ihr Gesicht scharf zeichnete. Sie zog das Buchenholz aus dem Gürtel und hielt es hoch, sodass die frischen, tiefen Kerben für jeden der Männer sichtbar wurden. »Achtzig Fuder bestes Siedsalz aus Marsal. Nicht das bittere Zeug aus den Klosterpfannen, sondern das harte, weiße Riedsalz, das nicht zerfließt, wenn der Nebel steigt. Es liegt verpackt in gefetteten Weidenkörben jenseits der Vogesen.«
 
-Die Köpfe der Fuhrleute ruckten herum. Erstaunen, Entsetzen und Neugier blitzten in den wettergegerbten Gesichtern auf. Raginberts Hengst tänzelte nervös zur Seite; der Grundherr zog die Zügel straff, seine Brauen zogen sich zusammen. Vogt Folker griff an den Griff seines kurzen Schwertes.
+»Lügen«, warf der Grundherr ein, doch seine Hand schloss sich fester um die Zügel seines Rappen. »Marsal gehört dem Stift Sankt Arnulf. Kein Körnchen Salz verlässt das Tal ohne das Siegel des Abts.«
 
-»Die Witwe«, murmelte einer der Schiffer. »Sie wagt es tatsächlich.«
+»Frag deine Vögte, was noch in Marsal steht, Raginbert!«, rief Alda ihm nun entgegen, und ihre Stimme schnitt durch den klammen Dunst wie eine geschliffene Axt. »Rauch steht dort! Kalte Asche! Die freien Sieder haben ihre Pfannen zerschlagen und sind mir gefolgt. Sie ziehen nicht für deine zwei Silberlinge durch den Dreck. Sie teilen die Ladung nach altem fränkischem Recht: Ein Drittel der Fuhr, ein Drittel dem Sieder, ein Drittel dem Kaufmann!«
 
-Alda ging geradewegs auf den roten Walo und die Gruppe der Karrenführer zu. Sie beachtete Raginbert kaum, ihr Blick galt den Männern in den schmutzigen Leinwandkitteln.
+Sie wandte sich ganz an Hartwig, an Folpert, an die anderen Karrenführer, die nun unruhig wurden. Das Wort vom Drittel traf sie wie ein Peitschenhieb. Seit Generationen pressten die Grundherren den Fuhrlohn auf kärgliche Münzen herab, während die Gewinne aus Salz und Tuch in den Schatztruhen der Vögte verschwanden.
 
-»Hört ihm zu!«, rief sie und wies mit der Hand auf den reich gekleideten Grundherrn. »Er verspricht euch Gnade im Sommer, wenn eure Rinder jetzt im Frühjahr an den leeren Krippen verenden! Er droht euch mit dem Rheinzoll – als ob der Rhein ihm gehörte! Habt ihr vergessen, wer die Wege durch die Zaberner Steige ausbessert, wenn das Eis taut? Das seid ihr! Wer bricht die Steine für die Furten? Ihr! Raginbert sitzt in seiner geheizten Kemenate und wiegt die Silberpfennige, die er euch abgepresst hat!«
+»Was bietet er euch?«, fuhr Alda fort und wies mit dem Kerbholz auf den berittenen Grundherrn. »Zwei Silberlinge für eine Fahrt nach Zabern, bei der euch die Zugtiere verrecken und die Räder brechen! Und wenn ihr im Schlamm steckenbleibt, pfändet er eure Karren für die versäumte Frist. Ihr fürchtet seine Briefe? Ihr fürchtet seine lateinischen Worte? Ein Pergament hält keinen Karren auf der Straße, wenn der Achsnagel bricht! Ein Pergament zieht keinen Ochsen aus dem Morast! Wir sind es, die dieses Land tragen. Wir, die wissen, wo das Flussbett trägt und wo der Sand nachgibt!«
 
-»Schweig, Weib!«, herrschte Folker sie an und trieb sein Pferd zwei Schritte vor. »Du bist eine zahlungsunfähige Schuldnerin. Dein Speicher ist versiegelt! Nach dem Gesetz hast du kein Recht, hier Verträge zu schließen!«
+»Sie verführt euch zum Bruch des Landfriedens!«, rief Raginbert, und seine Stimme verlor die kühle Gelassenheit. Sein Rappe tänzelte unruhig auf der Stelle, die Hufe warfen schwarzen Schlamm auf. »Wer ihr folgt, ist vogelfrei! Der Graf wird euch richten lassen!«
 
-Alda wandte sich blitzschnell um, ihre Augen blitzten Folker an. »Mein Speicher ist versiegelt, Vogt, aber mein Wort ist es nicht! Und das Recht, von dem du sprichst, ist das Recht der Schreiber, die eure Lügen auf Pergamente kratzen!«
+»Der Graf sitzt vor Verdun und wartet auf Brot und Pökelfleisch für seine Reisigen!«, hielt Alda dagegen. Sie trat dicht an Hartwig heran, blickte dem einäugigen Fuhrmann fest in das verwitterte Gesicht. »Drei Könige treffen sich an der Maas, Hartwig. Lothar, Ludwig, Karl. Hundert Grafen, tausend Panzerreiter, Trossknechte ohne Zahl. Der Schinken fault in den Fässern, wenn das Salz fehlt. Glaubst du, die Kämmerer des Königs fragen nach Raginberts Erlaubnis, wenn wir mit achtzig Fudern vor den Toren stehen? Sie zahlen mit gutem Silbergewicht, reinem Korn und freiem Geleit auf allen Straßen des Reiches!«
 
-Sie trat noch näher an Walo heran. Der Hüne musterte sie mit zusammengekniffenen Augen, der Adamsapfel an seinem runzligen Hals bewegte sich schwer.
+Hartwig schluckte schwer. Seine runzlige Hand strich über das rohe Holz des Speichenholzes. »Achtzig Fuder«, murmelte er heiser. »Das schaffen wir nicht mit zwei Karren. Da braucht es acht schwere Gespanne. Sechzehn Zugrosse, ausgeruht und beschlagen.«
 
-»Walo«, sagte sie nun in jenem ruhigen, unerbittlichen Ton, den die Männer aus den Kontoren kannten, wo Frachten verhandelt wurden, »dein Vater hat schon für meinen Vater gefahren. Du weißt, was ein Fuder Salz wert ist, wenn die Heere hungern. Dreitausend Reiter liegen vor Verdun. Karl der Kahle zieht von Westen heran, Ludwig der Deutsche lagert am Fluss, Lothar bringt den ganzen Tross aus Italien mit. Das Fleisch verdirbt in den Fässern! Sie zahlen keinen Pfennig Kupfer – sie zahlen in Silber und Korn, weil sie sonst vor der Teilung des Reiches verhungern!«
+»Ich habe sechs Männer mit Karren in Marsal«, entgegnete Alda sofort. Ihr Tonfall war nun wieder ganz Geschäft, sachlich, berechnend, auf den Punkt. »Drogo schlägt die Achsen neu. Doch wir müssen über die Hügel des Woëvre, ehe die Frühjahrsfluten die Täler ersäufen. Ich brauche vier Gespanne von hier. Vier Männer, die keine Angst vor dem Schatten eines Grundherrn haben und wissen, wie man ein Zugross im Hohlweg führt.«
 
-Raginbert lachte laut auf, ein scharfes, schneidendes Geräusch. »Sie phantasiert! Marsal liefert kein Korn, Marsal liefert kein Salz, außer an meine Vögte. Das Stift Saint-Arnould hat mir die Pfannen übertragen. Du hast nichts als den Dreck an deinen Sohlen, Alda!«
+Sie spaltete das Kerbholz vor ihren Augen mit einem kurzen Ruck an der Bruchlinie entzwei. Das helle Buchenholz splitterte leise.
 
-»Ich habe das Salz!«, hielt sie ihm entgegen, und ihre Stimme gellte über den ganzen Kutscherplatz, sodass selbst die Knechte an den Schmiedefeuern innehielten. »Die Siedermeister von Marsal schwitzen nicht mehr für deine Zinsen, Raginbert! Folrad und die zwölf Meister haben den Bund besiegelt. Sechzig Fuder feinstes, gereinigtes Pfannensalz warten an der Seille und in den Katen der Woëvre!«
+»Hier«, sagte sie und hielt Hartwig die eine Hälfte hin. »Mein Zeichen gegen deines. Kein lateinischer Schreiber, der die Worte verdreht. Wenn das Salz in Verdun gewogen ist, gehört der Fuhrlohn dir und deinen Leuten. Wer mitkommt, schirrt an. Wer bleibt, mag für Raginberts zwei Silberlinge die Krätze an den Beinen kriegen.«
 
-Ein kollektives Luftholen ging durch die Reihen der Fuhrleute.
+Raginberts Knecht griff an den Schaft seines Jagdspießes, doch der Grundherr hob jäh die bewehrte Hand. Er sah die Blicke der Fuhrleute. Fünfzehn, zwanzig Männer standen um das Feuer. In ihren Händen hielten sie Beile, Schaufeln, schwere Radhölzer. Sie sprachen kein Wort, aber die Haltung ihrer Schultern hatte sich verändert. Das Duckmäuserische, die uralte Scham des unfreien Knechts, war einer finsteren, entschlossenen Härte gewichen. 
 
-»Sechzig Fuder …«, murmelte ein hagerer Karrenführer mit zerschlissenem Filzhut, der neben Walo stand. »Heilige Mutter Gottes. Das ist ein Vermögen.«
+»Du treibst dein Spiel zu weit, Berengars Weib«, sagte Raginbert leise, doch der Klang seiner Stimme war nun schneidend wie frisches Eis. »Glaubst du, du erreichst die Maas? Die Straßen nach Westen sind dicht. Meine Vögte halten jede Brücke über die Mosel.«
 
-»Es ist ein Vermögen, wenn es nach Verdun kommt«, fuhr Alda fort und trat mitten unter die Fuhrleute. Sie sprach nicht wie eine Bittstellerin; sie sprach wie eine Meisterin zu ihren Gesellen. »Raginbert sagt, er wird euch die Straßen sperren. Ich sage euch: Auf den Heerstraßen der Könige gilt Raginberts Wille einen Dreck! Lothars Banner decken den Tross, wenn wir kaiserlichen Bedarf liefern! Ich biete euch nicht den kargen Knechtslohn, den er euch für die Sommertage verspricht. Ich biete euch die Hälfte des Reingewinns für die Fuhrgemeinschaft! Feste Anteile für jeden Wagen, bar ausbezahlt in Verdun, noch ehe die Verträge der Könige besiegelt sind!«
+»Das Wasser hat viele Arme, Herr«, entgegnete Alda kalt. »Und die Schiffer kennen Furten, von denen deine Vögte nicht einmal im Traum gehört haben. Reite heim, Raginbert. Schau nach deinem leeren Speicher. Denn mehr als die leeren Wände wirst du von mir nicht bekommen.«
 
-»Sie lügt!«, rief Folker und riss das Schwert ein Stück aus der Scheide. »Raginbert, soll ich die Knechte holen lassen? Sie stiftet Aufruhr an!«
+Einen Herzschlag lang schien es, als wolle der Grundherr sein Ross in die Menge treiben. Seine Kinnbacken mahlten, die Zügel spitzten sich in seinen Lederhandschuhen. Doch dann wandte er das Pferd mit einer einzigen, harten Bewegung. Die Hufe klatschten in den Schlamm, Wasser spritzte über die Schwellen der niedrigen Hütten. Ohne ein weiteres Wort trabte er davon, sein Knecht hastig hinterdrein, bis der graue Nebel der Ufergasse sie verschluckte.
 
-»Lass sie«, sagte Raginbert leise, doch seine Finger umklammerten die ledernen Zügel so fest, dass die Knöchel weiß hervortraten. In seinen Augen lag zum ersten Mal keine kalte Überlegenheit mehr, sondern die gefährliche Wachsamkeit eines Wolfes, der bemerkt, dass die Beute Zähne hat. »Niemand von diesen Hunden wird für sie spannen. Sie wissen, dass ich Straßburg beherrsche.«
+Auf dem Platz blieb es still, bis das Hufgeklapp hinter den Mauern der Martinskirche verklungen war.
 
-Alda wandte sich ganz von den Reitern ab. Sie blickte den Männern der Straße ins Gesicht. Sie sah den Hunger in den hohlen Wangen, die Verzweiflung über einen Winter ohne Verdienst, aber sie sah auch den Stolz – jenen alten, trotzigen Stolz der Karrenführer, die den Unbilden des Wetters und den Launen der Grundherren trotzten.
+Hartwig sah von dem Buchenholz in Aldas Hand hinüber zu Folpert. Der Schiffer nickte kaum merklich, spuckte einen gelblichen Strahl Kautabak in die Asche und stand auf.
 
-»Er nennt euch Hunde«, sagte Alda leise, aber jedes Wort schnitt wie ein Schabeisen. »Er sitzt auf seinem fetten Gaul und denkt, er kann euch das Futter verweigern, bis ihr vor seinen Füßen kriecht. Wollt ihr den Sommer damit verbringen, um seine Brosamen zu betteln? Oder wollt ihr als freie Männer fahren? Wir brechen heute Nacht auf. Über Schleichwege durchs Ried, über die Zaberner Steige, hinüber ins Seille-Tal. Wer mit mir spannt, riskiert seine Räder – aber er rettet sein Haus! Wer bleibt, hat Raginberts Knechtschaft schon gewählt!«
+»Mein Gespann steht hinter dem Malzhaus«, sagte Hartwig schließlich. Seine Stimme war rau, aber fest. Er streckte die schwielige Pranke aus und nahm das gespaltene Holz an sich. Er strich mit dem Daumen über die Kerben, prüfte die Passung mit seinen eigenen Fingern. »Zwei braune Zugrosse, die ziehen auch einen beladenen Kahn stromaufwärts. Mein Junge richtet das Lederzeug.«
 
-Stille legte sich über den Platz. Nur das Schnauben der Pferde und das ferne Hämmern einer Schmiede waren zu hören. Der kalte Wind trieb eine Wolke aus Ruß und Spreu zwischen den Gestalten hindurch.
+»Ich nehme den leichten Kastenkarren«, sagte ein jüngerer Fuhrmann aus der zweiten Reihe, der bisher geschwiegen hatte. Er trat an das Feuer, die Augen funkelnd vor grimmiger Abenteuerlust. »Mit vier Rädern und Eisenringen um die Naben. Wenn wir durch den Woëvre müssen, sacken die Zweiräder bis an die Achse ein.«
 
-Walo blickte zu Raginbert hinüber. Dann spuckte er einen braunen Strahl Kautabak direkt vor die Hufe von Raginberts Hengst auf den Boden.
+»Gut«, sagte Alda. Sie spürte, wie eine ungeheure Last von ihren Schultern glitt, doch ihr Gesicht verriet nichts davon. Sie blieb die Kauffrau, die den Überblick behalten musste. »Folpert, du besorgst drei Fässer Wagenschmalz und so viele Hanfseile, wie du auftreiben kannst. Berto der Knecht wird dir helfen.«
 
-»Mein Vater hat für ihren Vater gefahren«, knurrte der Rote und wischte sich mit dem Handrücken über den Mund. »Und Heinrich hat meine Leute immer anständig entlohnt, selbst wenn die Fracht im Schlamm steckenblieb. Raginbert hat mir beim letzten Holztransport zwei Schilling abgezogen, weil angeblich eine Rinde beschädigt war.«
+Der ältere Knecht trat eifrig vor, sichtlich erleichtert, dass das Unwetter ohne Blutvergießen an ihnen vorbeigezogen war. »Ich kenne den Seiler an der Gerberbrücke, Herrin. Der gibt uns Kredit auf dein Wort.«
 
-Er wandte sich zu den anderen Fuhrleuten um. »Ich habe vier Ochsen und zwei schwere Karren im Hof stehen. Sie fressen mir die Haare vom Kopf. Ich spanne für Alda.«
+»Kein Kredit«, sagte Alda scharf. Sie griff unter ihren Mantel, löste eine kleine silberne Spange – das letzte Stück, das sie von ihrer Aussteuer noch besaß – und drückte sie dem Knecht in die Hand. »Wir bezahlen bar, was wir nehmen. Kein Mann soll sagen können, wir hätten wie Diebe gehandelt. Wir treffen uns zwei Stunden vor Mitternacht an der alten Römerbrücke bei Kronenburg. Kein Licht, kein Lärm. Wer das Maul nicht halten kann, bleibt hier.«
 
-»Walo, du Narr!«, zischte ein älterer Schiffer. »Raginbert bricht dir das Genick!«
+Die Männer nickten. Die Trägheit des Winters war mit einem Schlag von ihnen abgefallen. Das Versprechen auf Silber, auf gerechten Lohn und auf den Triumph über die herrschaftliche Willkür hatte das Feuer in ihren Adern entfacht. Sie wandten sich ab, eilten zu den Schuppen, rufen halblaut nach ihren Knechten und Weibern, holten Kummete und Stränge aus den Kammern.
 
-»Soll er's versuchen«, entgegnete Walo grimmig und trat an Aldas Seite. Seine gewaltige Gestalt schirmte sie beinahe vor den Blicken der Reiter ab. »Auf der Woëvre hat er keine Vögte. Da draußen regieren die Wölfe und die Heere.«
+Alda blieb allein am Feuer zurück, nur ihr Sohn Berto stand noch neben ihr.
 
-Ein zweiter Mann trat vor, ein sehniger Kerl mit narbigem Gesicht, der eine Peitsche über der Schulter trug. »Mein Dreispännig ist gerüstet, Alda. Wenn wir Salz nach Verdun bringen, will ich Mehl für meine Kinder sehen. Nicht Raginberts leere Worte.«
+Der Junge sah zu ihr auf. Der Schein der verglimmenden Buchenkloben spiegelte sich in seinen dunklen Augen, die so sehr denen seines Vaters glichen, doch in seinem Blick lag kein Verrat, nur das unbedingte Vertrauen eines Kindes.
 
-»Du bekommst Mehl, Kuno«, sagte Alda fest. »Und Silber.«
+»Haben wir gesiegt, Mutter?«, flüsterte er.
 
-Ein dritter schloss sich an, dann ein vierter. Binnen weniger Augenblicke standen acht erfahrene Fuhrleute um Alda herum – Männer mit insgesamt vierzehn schweren Gespannen. Es waren nicht alle, viele blieben aus Furcht vor Raginberts Rache im Hintergrund stehen, doch es waren die Erfahrensten, jene, die die alten Trassen und Pfade über das Gebirge kannten wie ihre eigene Westentasche.
+Alda blickte nach Westen, wo hinter den grauen Wolkenfetzen die schroffen Kämme der Vogesen verborgen lagen. Dort warteten Kälte, Schlamm und Isenbarts Späher.
 
-Raginberts Gesicht war vollkommen starr geworden. Seine Züge schienen aus kaltem Kalk gehauen. Er neigte den Kopf leicht nach vorn, seine Stimme war nur noch ein schneidendes Flüstern, das die Kälte des Vormittags noch vertiefte.
+»Nein, mein Junge«, sagte sie leise und strich ihm über die nasskalte Wange. »Wir haben uns nur das Recht erkauft, loszufahren.
 
-»Du hast dein eigenes Urteil gesprochen, Alda«, sagte er. »Du glaubst, du hättest gesiegt, weil ein paar verarmte Kärrner dir nachlaufen? Ihr werdet die Steige nicht lebend überqueren. Und selbst wenn ihr die Woëvre erreicht – vor Verdun wartet das Grafengericht auf dich. Ich werde dort sein. Und ich werde nicht nur den Speicher fordern. Ich werde deinen Sohn fordern, für jeden Pfennig, den Heinrich mir schuldete.«
+«
 
-Er riss die Zügel herum. Der Hengst stieg kurz auf die Hinterhand, schlug mit den Eisen Funken aus den feuchten Steinen, und im nächsten Augenblick preschte Raginbert davon, gefolgt von Folker und den Reitern. Der Schlamm spritzte hoch und traf die Beine der Fuhrleute.
+Sie bückte sich, griff nach der Hand des Knaben und zog ihn mit sich, fort von der erlöschenden Asche, hinein in das Labyrinth aus schiefen Schuppen und stinkenden Gerbertümpeln. Der Geruch nach totem Fleisch und Alaun biss ihr in die Nase, doch er war vertraut; er gehörte zu den Gassen, die sie seit ihrer Kindheit durchmessen hatte, lange ehe fremde Vögte den Zins nach ihren eigenen Maßen berechneten. Jeder Schritt durch den zähen Lehm forderte Kraft, das nasse Tuch ihres Mantels klebte schwer an ihren Waden, doch Alda spürte die Müdigkeit nicht. In ihrem Kopf drehten sich die Zahlen wie schwere Mühlsteine: vier Gespanne hier, sechs Karren drüben im Seille-Tal, die Fässer Schmalz, die Stränge aus Hanf, das karge Futter für sechzehn Mäuler von Zugtieren, die man über die Zaberner Steige treiben musste, ehe der Schnee in den Schluchten vollends zu bodenlosem Schlamm zerfloss.
 
-Niemand sah ihnen nach. 
+In einer finsteren Nische zwischen zwei Flechtwerkwänden, wo das Schilfdach so tief herabhing, dass nur ein Kind aufrecht stehen konnte, wartete der Knecht Berto. Er presste sich flach an das feuchte Holz, die Hände tief in den Ärmeln seines Lodenkittels vergraben. Seine Wangen glänzten fahl im fernen Schein einer Stalllaterne.
 
-Walo wandte sich an Alda, seine Stirn lag in tiefen Falten. »Er meint es ernst, Weib. Er wird die Pässe bewachen lassen.«
+»Sie spannen an, Herrin«, flüsterte der Knecht mit heiserer Stimme. Er sah sich hastig um, als fürchte er noch immer, Raginberts Rappe könne lautlos aus dem Nebel brechen. »Hartwigs Junge schmiert die Naben drüben am Malzhaus. Folpert hat zwei Kumpane geweckt, die das Hanfseil aufschießen. Aber die Knechte des Vogts streifen am Fischertor umher. Wenn sie den Karren auf der Pflasterstraße hören, schlagen sie Lärm.«
 
-»Wir nehmen nicht den Hauptpass«, erwiderte Alda ruhig. Ihr Herz hämmerte wie rasend gegen ihre Rippen, doch ihre Hände lagen vollkommen ruhig an ihren Seiten. »Wir gehen über den alten Römersteig nördlich der Zaberner Senke. Gerwin wartet dort auf uns. Er kennt jeden Hohlweg.«
+»Wir nehmen nicht das Pflaster«, erwiderte Alda knapp. Sie drückte ihrem Sohn die grobe Kapuze zurecht, deren Wolle vom Dunst des Flusses klamm geworden war. »Wir gehen durch den Mühlgraben hinaus, dort, wo die alte Wehrmauer geschleift ist. Der Grund ist weich, die Hufe schlagen nicht auf Stein. Hast du das Schmalz?«
 
-Sie winkte zu den Weiden hinüber. Knecht Berto kam mit dem kleinen Berto herbeigelaufen. Das Gesicht des Jungen strahlte vor ungläubigem Stolz, als er sah, wie die großen Fuhrleute seine Mutter umringten.
+Berto der Knecht nickte und deutete auf eine flache Holzkufe, die im Schatten einer Regentonne stand. »Drei Fässchen, voll und rein. Kein Talg untermischt, sondern gutes Schweineschmalz, das die Naben nicht verkrustet. Die Silberspange hat gereicht. Der Seiler gab mir noch zwei Ellen Werg dazu, um die Buchsen abzudichten.«
 
-»Spannt an«, befahl Alda den Männern, und die Härte in ihrer Stimme duldete keinen Widerspruch mehr. »Keine Fackeln, kein Lärm. Treffpunkt ist die dritte Stunde nach Sonnenuntergang an der alten Ziegelei vor dem Ried. Wer bis Mitternacht nicht dort ist, bleibt zurück.«
+»Gut. Verstaue es unter dem Stroh auf unserm Karren.« Sie wandte sich zu ihrem Jungen hinab, packte ihn fest an den Schultern und sah ihm in die Augen, bis er den Kopf hob. »Du läufst jetzt neben dem Knecht, Berto. Deine Hand bleibt an seinem Gürtel. Wenn ein Reiter kommt, springst du in den Graben und rührst dich nicht, bis ich dich rufe. Hast du mich verstanden?«
 
-Die Männer nickten knapp, spuckten in die Hände und zerstreuten sich eilig über den Platz, um ihre Karren zu rüsten.
+Der Knabe schluckte, nickte stumm und presste die Lippen aufeinander, genau wie sein Vater es getan hatte, wenn ein schwerer Kahn gegen die Strömung auf Grund zu laufen drohte. In diesem Augenblick schien er um zwei Winter gealtert. Er stellte keine Fragen mehr. Er nahm den Zipfel von Knecht Bertos Kittel zwischen die klammen Finger, und sein kleiner Körper straffte sich unter der nassen Lodenjacke.
 
-Alda kniete im Schlamm nieder und zog ihren Sohn an sich. Der Loden seiner Joppe war klamm, aber seine Wange brannte vor Aufregung.
+Sie warteten, bis die Glocke des Martinsmünsters die sechste Stunde nach Sonnenuntergang schlug. Die Töne fielen schwer und dumpf durch das Nass, als würden sie im Schlamm der Gassen ersticken. Dann setzte sich der kleine Zug in Bewegung.
 
-»Hast du gesehen, Mutter?«, flüsterte Berto. »Der reiche Mann ist weggelaufen!«
+Der Knecht führte ihr Zugross mit ruhiger Hand, die Eisen der Hufe mit nassen Leinwandstreifen umwickelt, wie man es tat, wenn man vor den Zöllnern der Bischöfe durch die Auwälder schlich. Die Achse knarrte nur einmal leise auf, als das linke Rad über einen versunkenen römischen Ziegelstein glitt, dann schluckte der Schlick des Grabens jedes Geräusch. Alda ging voran, den Blick starr auf den Saum des Weichbildes gerichtet. Wo einst mächtige Quader die Grenze des römischen Lagers markiert hatten, klafften heute breite Lücken, notdürftig mit Dornengestrüpp und Weidenflechtwerk verhauen. Die Bürger holten seit Menschengedenken die Steine für ihre Herdstellen aus der alten Mauer, und eben diese Trägheit der Herren öffnete ihnen nun den Weg.
 
-»Er ist nicht weggelaufen, mein Junge«, sagte Alda leise und strich ihm eine feuchte Haarsträhne aus der Stirn. »Er ist nur vorausgeritten. Der Kampf fängt gerade erst an.«
+Dahinter dehnte sich das weite, dunkle Ried. Kalt strich der Wind herüber, der den Geruch von Schilf, faulendem Altwasser und feuchter Erde trug. In der Ferne, kaum als Schatten gegen das tiefere Schwarz der Nacht auszumachen, lag die Römerbrücke bei Kronenburg.
 
-Sie stand auf, wandte sich zum Fluss und blickte nach Westen, wo hinter den grauen Wolken die Kämme der Vogesen lagen. Der Weg nach Verdun war lang, und er war mit Blut und Eisen gepflastert. Doch zum ersten Mal seit dem Tag, an dem Heinrich gestorben war, spürte sie unter ihren Füßen nicht mehr das Schwanken einer Schlinge, sondern den harten, unerbittlichen Boden des eigenen Willens.
+Alda blieb am Fuß des niedrigen Bahndamms stehen und lauschte. Kein Ruf der Wächter gellte von den Zinnen des Stadttores herüber. Nur das Rauschen der angeschwollenen Ill und das dumpfe Glucksen des Wassers an den Weidenstämmen erfüllten die Finsternis.
+
+Aus dem Nebel schälte sich ein schwerer Umriss. Ein Fuhrwerk, gefolgt von einem zweiten.
+
+Hartwig saß nicht auf dem Bock; er führte sein vorderes Zugross am Kopfgestell, den schweren Schäfereischaufelstiel wie einen Wanderstab in der Faust. Hinter ihm folgte der junge Fuhrmann mit dem Kastenkarren, dessen vier Räder tief im Moorboden schnitten, aber gleichmäßig und ohne Schlagen liefen. Zwei weitere Gespanne schlossen auf, geführt von Männern, deren Gesichter unter tief gezogenen Filzhüten verborgen blieben. Keiner sprach ein Wort. Sie nickten Alda nur zu, ein kurzes Rucken der Köpfe im fahlen Licht der Sterne, die für wenige Augenblicke zwischen den ziehenden Wolken aufrissen.
+
+Vier Karren. Acht kräftige Zugrosse, deren Atem in weißen Schwaden vor ihren Nüstern stand.
+
+Hartwig trat an Aldas Seite. Er griff in seinen Kittel, zog die gespaltene Hälfte des Buchenholzes hervor und hielt sie an die Bruchstelle des Stücks, das Alda noch immer in der Faust hielt. Im Halbdunkel passten die Risse fugenlos ineinander, Zahn um Zahn, Holzfaser um Holzfaser. Die Kerben trafen sich wie die Glieder einer eisernen Kette.
+
+»Die Knechte des Abts von Sankt Peter liegen im Wirtshaus am Westtor und saufen Sauerkirschwein«, sagte der einäugige Fuhrmann leise. Seine Stimme klang wie zwei Kiesel, die man aneinanderrieb. »Vor der Morgendämmerung merkt kein Amtmann, dass unsere Ställe leer stehen. Aber bis zur Zaberner Steige sind es acht Meilen durch den Bruch. Wenn die Achsen brechen, hängen wir.«
+
+»Sie brechen nicht«, erwiderte Alda fest und schob ihr Kerbholz zurück unter das Tuch. »Drogo hat das Eisen gerichtet, und das Schmalz ist rein. Wir rasten nicht vor der Furt bei Zabern.«
+
+Sie wandte sich um und sah zurück auf Straßburg.
+
+Die Weichbildgrenze lag wie ein schlafender Hund im Dunst, schwer und finster, nur an zwei Stellen von den fahlen Feuern der bischöflichen Torwächter durchglimmt. Hinter jenen Zinnen saß Raginbert in seiner warmen Kemenate, strich über das glatte, tote Kalbsleder seiner Register und glaubte die Welt geordnet nach dem Willen derer, die das Siegel führten. Er rechnete in Scheffeln und Tagen, in Zins und Zwang. Doch er kannte das Ried nicht, wenn das Schmelzwasser stieg, und er wusste nichts von Männern, deren ganzer Reichtum in zwei gesunden Armen und einem eingekerbten Buchenspan bestand.
+
+»Vorwärts«, sagte Alda. Das Wort fiel leise, kaum mehr als ein Atemzug in der feuchten Luft, aber es schnitt durch die Nacht.
+
+Hartwig hob den Arm. Ohne Zuruf, ohne Peitschenknall zog das erste Gespann an. Die schweren Rumpen stemmten sich in das lederne Geschirr, die Hufe fanden Halt im zähen Riedgras, und die eisenbeschlagenen Räder fraßen sich durch den weichen Moorgrund, schnitten tiefe Rillen in den Schlick, rollten aber weiter, stetig und schwer. Hinter ihm rückte der Kastenkarren nach. Das Holz der Deichsel knarrte, als der junge Fuhrmann das Fuhrwerk schräg über den Grabenrand zog, doch der Bau hielt stand; die Achsnägel saßen stramm in ihren Pfannen, dick bestrichen mit dem Schweineschmalz, das der Seiler hergegeben hatte.
+
+Knecht Berto führte das Ross ihres eigenen Karrens mit gesenktem Kopf, die Leinwand um die Hufe dämpfte jeden Tritt zu einem dumpfen Klatschen. An seinem Kittel hing ihr Junge. Berto hob die Füße hoch, trat genau in die tiefen Spuren, die der Knecht vor ihm in den Morast drückte, und biss die Zähne zusammen. Kein Laut kam über seine spröden Lippen. Wenn er stolperte, griff Alda nach seinem Kragen, riss ihn empor, ohne den Schritt zu verlangsamen, und schob ihn wieder vorwärts. Das Kind verstand die Sprache des Zugs. Wer stehenblieb, versank. Wer klagte, verlor den Atem, den er für die Steige brauchte.
+
+Sie hielten sich fern der gepflasterten Heerstraße, wo die Steine den Hufschlag meilenweit durch die Stille getragen hätten. Ihr Pfad war der alte Treidelweg, der sich zwischen den Weidenbüschen und den toten Flussarmen der Ill nach Norden wand, dorthin, wo der Breusch-Kanal das Ried durchschnitt. Hier roch es nach Moder, faulem Schilf und dem kalten Hauch des Wassers, das träge gegen die Schilfwurzeln schwappte. Das Eis war erst vor zwei Wochen gebrochen; braune Schollen trieben noch immer wie treibendes Holz an den Biegungen, drehten sich im Kehrwasser und stießen mit hohlem Grollen an die Uferweiden.
+
+Zwei Stunden vor der Morgendämmerung erreichten sie die Furt unterhalb von Kronenburg, wo die Trümmer der Römerstraße als buckliger Damm aus dem Schilf ragten. Die gewaltigen Quader lagen zerborsten und schief im Grund, überwachsen von Brombeerranken und Moos, doch unter dem Schlamm trug das alte Steinbett noch immer das Gewicht von Lasten, die vor Jahrhunderten für andere Heere bestimmt gewesen waren.
+
+Hartwig hielt sein Gespann an der Kante des Wassers an. Der Fuhrmann bückte sich, tastete mit dem Schaufelstiel nach der Tiefe des Flussbettes und zog das Holz wieder herauf. Die feuchte Marke stand ihm bis zur Mitte der Wade.
+
+»Das Wasser fällt«, murmelte er herüber, ohne den Kopf ganz zu wenden. Sein weißer Star schimmerte milchig im Sternenlicht. »Der Schlamm auf den Steinen ist schmierig wie Seife. Wenn ein Gaul strauchelt, bricht er sich die Röhre.«
+
+»Wir führen sie einzeln«, entschied Alda. Sie trat neben ihn an den Rand des Stroms, spürte das eiskalte Wasser durch das Leder ihrer Bundschuhe dringen und packte die Mähne von Hartwigs Leitpferd. Das Tier schnaubte, die Nüstern blähten sich gegen den Geruch des tiefen Wassers, doch Alda legte ihm die Hand flach auf den Nasenrücken, strich fest über den knochigen Stirnkamm und zog es mit dem ganzen Gewicht ihres Körpers voran. »Langsam, Brauner. Such den Stein. Such den festen Grund.«
+
+Der Hengst setzte den ersten Huf in die Strömung. Das Wasser schäumte gelblich um die Fesseln, Steine rollten mit dumpfem Klappern unter den Eisen, dann fasste das Tier Tritt. Schritt um Schritt wateten sie hinein, das Mahlen der Achsen übertönt vom Gurgeln der Ill, die gegen die Bordwände des Karrens schlug. Hinter ihnen folgte der Kastenkarren, dessen Fuhrmann die Stränge mit beiden Händen auf Zug hielt, fluchend, mit heiserem, atemlosem Flüstern, das eher einem Gebet glich als einem Fluch.
+
+Als das letzte Fuhrwerk die jenseitige Böschung hinaufkroch und die Räder sich wieder in den feuchten Lehm des Kronenburger Forstes gruben, begann der Himmel im Osten zu verblassen. Ein schmutziges, bleiernes Grau kroch über die Wipfel der Buchen. Es brachte keine Wärme, nur das nackte, unbarmherzige Licht eines neuen Tages, das die Armseligkeit ihres Zugs bloßstellte: vier verwitterte Fuhrwerke, durchnässte Männer mit zerschlissenen Lodenkitteln, Zugtiere, deren Flanken dampften wie frischer Mist, und ein neunjähriger Knabe, dessen Lippen vor Kälte blau gefärbt waren.
+
+Aber sie standen jenseits der Stadtgrenze. Kein Zöllner hatte gerufen, kein Horn von den Wehrtürmen geblasen. Die Macht der Pergamente und der versiegelten Briefe reichte weit, doch sie kroch auf schweren Sohlen durch die Kanzleien, während das Holz rollte.
+
+Hartwig wischte sich den kalten Schweiß mit dem Ärmel von der Stirn. Er blickte zurück auf den schmalen Streifen Nebel, der das Flusstal wie ein Leichentuch verdeckte, und spuckte aus. In seiner Faust hielt er noch immer das gespaltene Kerbholz, fest umklammert, als fürchte er, der Wind könne ihm die Kerben nehmen.
+
+»Zabern liegt vor uns, Alda«, sagte er rauh. »Fünf Meilen bis zum Fuß der Steige. Wenn Isenbarts Reiter die Pässe halten, sitzen wir in der Falle wie die Igel im Reisig.«
+
+Alda strich den nassen Mantelsaum zurück und schob die Hand an die Rippen, wo ihre eigene Hälfte des Buchenholzes warm an ihrer Haut lag. Sie blickte nach Westen, wo die Kämme der Vogesen sich wie eine schwarze Mauer gegen das fahle Morgenlicht stemmten. Drüben im Tal der Seille warteten Drogo und Otwin. Drüben wartete das weiße Riedsalz, verpackt in gefetteten Körben, und die Asche der Hütten, die Raginbert den Weg weisen würde.
+
+»Isenbart wartet an den Brücken der Mosel«, erwiderte sie, und ihre Stimme klang fest und unnachgiebig wie das Buchenholz in ihrer Hand. »Er sucht nach Booten und nach Zillen mit bischöflichem Brandzeichen.
+
+Aber die Kähne liegen nicht auf der Mosel, Hartwig. Sie liegen tief im Schilf der Seille, wo kein Zöllner einen Gaul durch die Weiden treibt.«
+
+Der Fuhrmann schnaubte durch die Zähne, ein Geräusch wie das Reiben zweier harter Mühlsteine, doch er nickte. Er packte die Leitseile seines Gespanns fester, zog die Schultern unter dem nassen Loden hoch und watete voran in das fahle Licht des Morgens. 
+
+Hinter ihnen sank die Stadt zurück in den Dunst der Flussniederung, ein Schatten aus kaltem Rauch, verfallenen Steinen und nassen Ziegeldächern, beherrscht von Herren, die ihre Macht mit Tinte auf Häute strichen. Doch hier draußen, wo der schwere Ackerlehm an den Eisenringen der Holzräder klebte und der Atem von Ross und Mensch in dichten Schwaden aufstieg, galt nur die Kraft in den Strängen. 
+
+Alda griff nach der Hand ihres Sohnes. Seine kleinen Finger waren steif von der Kälte der Nacht, aber sein Griff schloss sich fest um ihre Handfläche, rau von der Arbeit, unnachgiebig wie das Buchenholz an ihren Rippen. Gemeinsam traten sie in die tiefe Geleisespur der Altstraße, dem Knarren der vier Karren hinterher, die sich schwer und unaufhaltsam nach Westen wandten.
 

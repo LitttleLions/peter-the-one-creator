@@ -5,109 +5,119 @@
 
 ---
 
-Der Schlamm an der Maas roch nach kaltem Flusswasser, verrottetem Schilf und dem schweren Fett von tausend Reitstiefeln. Vom Ufer her trieb der Wind den Gestank von nassem Stroh und ausgebrannten Herdgruben herüber, vermengt mit dem stechenden Dunst von Pferdemist. Das Heer zog ab. Was zwei Wochen lang eine Stadt aus weiß gebleichtem Leinen, Eisen und wieherndem Vieh gewesen war, zerfiel nun Zeltbahn für Zeltbahn, Nagel für Nagel.
+Der Gestank von zertretenem Binsenried, nassem Pferdemist und kaltem Buchenrauch hing schwer über der Maasniederung. Noch vor der Vesper hatte der Tross des Kaisers begonnen, das Zeltlager vor den Toren der Stadt abzutragen; wie ein träger Schlammstrom wälzten sich die Kolonnen der Gepäckwagen, die Rotten der Fußknechte und das verkrustete Gefolge der Kleriker nach Norden. Zwischen den zerfurchten Wagenspuren, wo die Hufe hunderter Saumtiere den fetten Lehmboden zu Brei gestampft hatten, floss das Flusswasser träge und grau, als schämte es sich für den Unrat, den man hineingeworfen hatte.
 
-Alda stand neben der Deichsel des vorderen Planwagens und prüfte das Geschirr. Das Leder war vom Flussnebel klamm, roch säuerlich nach Gerberlohe, doch die Nähte hielten. Mit dem Daumen fuhr sie über das Hanfseil, das die schweren Salzfässer auf den Bohlen sicherte. Drei Fässer waren noch übrig; der Rest war bereits in den Mündern und Vorratsgruben der königlichen Knechte verschwunden, aufgewogen in blanken Denaren, die schwer in dem ledernen Beutel an ihrer Hüfte lagen. Jeder Schilling bedeutete Heu für die Ochsen, Mehl für den Winter und das Recht, jedem Vogt der Welt aufrecht ins Gesicht zu sehen.
+Alda stand am Uferabbruch, die Hände in die raue Wolle ihrer Schürze gegraben, und beobachtete die Lastprahme, die mit knarrenden Eichenplanken an den Weidenstümpfen vertäut lagen. Der Wind roch nach heranziehendem Herbst, nach welkenden Pappelblättern und dem feuchten Rost alter Beschläge. Es war ein Geruch, den sie kannte, seit sie als Mädchen das erste Mal das Treideln an der Ill beaufsichtigt hatte. Wasser blieb Wasser. Es fragte nicht danach, wer auf den Königshöfen saß oder welche Siegel auf den Pergamenten prangten, die man hinter den Mauern von Verdun hin- und hergetragen hatte.
 
-Hinter ihr scholl das Scheppern von Eisen heran. Ein Trupp burgundischer Reiter lenkte seine Klepper im Schritt durch den zähen Schlick, die Schilde in grobes Tuch gehüllt, die Spitzen der Lanzen trübe gegen den grauen Spätsommerhimmel gereckt. Niemand sang. Der Friede von Verdun war kein Fest der Sieger, sondern das mürrische Aufteilen von Beute unter Brüdern, die einander das Mark in den Knochen nicht gönnten.
+Hinter ihr schabte Holz auf Kies. Sie wandte den Kopf nicht, denn sie erkannte den leichten, zögernden Schritt. Otwin bewegte sich stets wie jemand, der fürchtete, den Boden zu beschädigen, auf den er trat, ganz anders als die Fuhrleute, deren Fersen tief in die Krume gruben.
 
-Schritte näherten sich im Kies. Sie waren ungleichmäßig; das Schleifen einer Sohle verriet den Mann, noch ehe er um die Wagenecke trat.
+Er blieb eine Armlänge von ihr entfernt stehen. Seine Hände, weißer als die der Kärrner und an den Fingerkuppen noch immer von alter Gallapfeltinte blaugrau gefleckt, hielten eine Lederrolle umklammert. Das Futteral war neu, gefertigt aus geschmeidigem Kalbsleder, gewachst gegen die Feuchtigkeit des Flusses. Eine rote Seidenschnur hielt den Deckel fest, an deren Ende eine schwere Bleibulle baumelte.
 
-Otwin trug nicht mehr den zerschlissenen Kittel, in dem er durch die Seille gewatet war. Jemand hatte ihm einen mantelartigen Überwurf aus feiner, dunkelbrauner Schafwolle gegeben, gesäumt mit festem Leinenband. Um seine linke Hand lag eine frische Binde aus weißem Verbandszeug, doch die Schiene aus Weidenholz war fort. Seine Rechte hielt ein Futteral aus geschwärztem Leder, an dem zwei lederne Schnüre baumelten – das Zeichen eines Mannes, der Pergamente nicht bloß für andere trug, sondern sie selbst verwahrte.
+»Der Kaiser zieht noch vor Sonnenuntergang nach Diedenhofen«, sagte Otwin. Seine Stimme klang heiser, wie ausgewaschen von den langen Stunden im Rauch der Schreibstuben. »Von dort geht es rheinabwärts. Nach Aachen.«
 
-Er blieb zwei Schritte vor ihr stehen. Zwischen ihnen floss das graue Wasser der Maas, träge und schwer von den Regenfällen der letzten Nacht, hinab nach Norden, dorthin, wo das Land flach und fremd wurde.
+Alda sah auf die Bleibulle. Das Wappen darauf war ihr fremd, eine Ansammlung winziger Kerben und Linien, die für sie stumm blieben wie das Muster gefrorener Schilfhalme. Doch sie wusste, was solch ein Stempel wog. Er wog mehr als zehn Fuder bestes Riedsalz, und er konnte einen Mann erdrücken oder ihn über die Köpfe aller Vögte heben.
 
-»Nithard hat mein Gesuch dem Hofkaplan vorgelegt«, sagte Otwin. Seine Stimme klang ruhig, fast zu bedächtig, wie immer, wenn er versuchte, die Erregung hinter der Kanzleisprache zu verbergen. »Der kaiserliche Kanzler hat mein Siegelrecht geprüft. Sie brauchen Männer, die das Latein der alten Kapitularien kennen und zugleich verstehen, wie man eine Zolleinnahme auf Rheinfränkisch und Romanisch festhält, ohne dass die Schreiber der Brüder Einspruch erheben.«
+»Aachen«, wiederholte sie gelassen, ohne den Blick vom trüben Wasser zu wenden. »Eine weite Fuhre. Die Straßen dort oben sollen tiefe Gräben haben. Im Winter friert der Schlamm zu Spitzen, die den Tieren die Hufe spalten.«
 
-Alda ließ den Lederriemen sinken. Sie musterte ihn mit dem kühlen, prüfenden Blick einer Frau, die zu oft erlebt hatte, wie Männer ihre Träume mit der Wirklichkeit verwechselten.
+»Die Kanzlei reist auf befestigten Wegen«, erwiderte er, und zum ersten Mal schwang ein leiser Ton von Stolz in seinen Worten mit, den er sofort wieder zu dämpfen suchte. »Kanzler Hrabanus hat mein Schriftbild geprüft. Es gefiel ihm. Die Minuskel sei sauber, sagte er, frei von den Schnörkeln der Alemannen. Er braucht Schreiber, die den Urkundenverkehr mit den Bischöfen ordnen. Lothar will jedes Gut, jede Mühle und jeden Fischteich zwischen den Alpen und der Nordsee verzeichnen lassen, damit Karl und Ludwig keinen Daumenbreit davon antasten.«
 
-»Lothar zieht nach Aachen«, sagte sie schlicht.
+Alda schnaubte leise durch die Nase. Sie dachte an die Kerbhölzer, die sie in ihrem Lederbeutel trug. Glatte Buchenspäne, mit dem Messer gespalten, jede Kerbe ein Sack Salz, jeder Schnitt ein verbindliches Versprechen zwischen Menschen, die sich in die Augen gesehen hatten.
 
-»Ja.« Otwin strich mit den Fingerspitzen über das Futteral. Es war eine zögernde, fast zärtliche Bewegung, wie man über die Narbe einer alten Wunde strich. »Morgen mit der ersten Wache. Der Tross des Kaisers nimmt die alte Heerstraße über Bastnach. Sie haben mir eine Bestallung gegeben, Alda. Ich stehe in der Schreibstube des Palastes. Als Notar zweiter Klasse. Kein Vogt darf mich mehr greifen, kein Grundherr kann mir befehlen, ein Erbe umzuschreiben oder eine Zinsleiste zu fälschen. Mein Brot kommt aus dem kaiserlichen Kornspeicher, mein Recht aus dem kaiserlichen Bann.«
+»Ein Haufen toter Haut, um lebendige Erde festzuhalten«, sagte sie. »Aber es wird dich nähren. Schreiber essen vom Tisch der Herren, selbst wenn das Gesinde hungert.«
 
-Er sah sie an. In seinen Augen lag kein Triumph, sondern eine Scheu, die tiefer ging als die Furcht vor Raginberts Knechten. Es war das Verlangen nach ihrer Zustimmung, das er schon in den feuchten Ruinen von Marsal gehegt hatte, damals, als der Regen auf die römischen Ziegel geprasselt war und sie geglaubt hatten, Salz könne die Welt heilen.
+Otwin trat einen halben Schritt näher. Die Binsen knisterten unter seinen Sohlen. »Es ist mehr als Brot, Alda. Es ist Schutz. Der kaiserliche Dienst löscht das Schandmal nicht aus, aber er deckt es zu. Niemand – weder ein Vogt aus Prüm noch Raginberts Schergen – wird es wagen, einen Notar der kaiserlichen Pfalz anzurühren. Das Gesetz steht wie eine Steinmauer vor mir.«
 
-»Das ist dein Platz«, sagte Alda leise. Der Wind riss an den Zipfeln ihres Kopftuchs, und sie schob eine dunkle Strähne zurück unter den groben Wollstoff. »Du gehörst zu den Büchern, Otwin. Nicht auf den Kutschbock, wo der Staub einem die Lunge verklebt und die Rungen im Morast brechen.«
+»Bis ein anderer König die Mauer einreißt«, bemerkte sie trocken. Dennoch spürte sie den Stich in ihrer Brust. Er hatte seine Freiheit erstritten, auf die einzige Weise, die einem Mann seines Standes offenstand: indem er sich unter das Joch eines noch größeren Herrn beugte. Es war kein schlechtes Joch. Es war mit weichem Tuch gepolstert und roch nach Wachs und teurem Räucherwerk, nicht nach Pferdeschweiß und nassem Stroh.
 
-Otwin trat einen Schritt näher. Der Geruch von Bienenwachs und Tinte, der ihm immer anhaftete, stieg Alda in die Nase, überdeckte für einen Herzschlag den Gestank des Heerlagers. Er hob die gesunde Hand, hielt inne, als fürchte er, sie würde wie damals nach einem Rungenstecker greifen, und ließ die Finger dann doch auf ihren Unterarm sinken. Die Berührung war leicht, beinahe tastend durch den derben Ärmel ihres Wollkleides.
+Er schwieg einen Moment, während unten am Ufer ein Fuhrmann einen Schimmel mit gellenden Flüchen über die Laderampe eines Prahms trieb. Das Tier bäumte sich auf, die Eisen schlugen Funken auf den Eichenbohlen, dann gab der Rumpf nach, und das Ross stand zitternd im Bauch des Schiffes.
 
-»Komm mit mir«, sagte er. Das Wort war draußen, mühsam hervorgebracht, als hätte es ihm die Kehle wundgerieben. »Aachen ist groß. Dort gibt es Gilden für Fuhrleute unter dem Schutz der Pfalzgrafen. Es gibt Häuser aus Stein, Alda, mit Dächern aus Schiefer, nicht aus faulem Stroh wie in der Straßburger Vorstadt. Berto könnte in der Stiftsschule lernen. Nicht auf einer Karrenbank, zwischen Mehlsäcken und Hufnägeln, sondern bei den Klerikern, die den Chorgesang und die Zahlen der Gelehrten lehren.«
+»Komm mit mir«, sagte Otwin unvermittelt. Die Worte fielen schwer und hastig, als hätte er sie zu lange auf der Zunge getragen, wo sie bitter geworden waren. »Komm mit nach Aachen. Die Pfalz ist eine Stadt für sich. Es gibt Herbergen, Getreidespeicher, Höfe, die dem Kaiserhof zuarbeiten. Ein Notar hat Anspruch auf eine Stube im Wirtschaftshof, auf Korn und Brennholz. Du müsstest nicht mehr den Schlamm der Straßen fürchten. Du müsstest nicht mehr um jede Fuhre feilschen, als ginge es um dein Leben.«
 
-Alda blickte an ihm vorbei, über seine Schulter hinweg zu dem Treiben am Fluss. Weiter unten am Ufer stand ihr Bruder Gerwin. Er wusch ein Geschirrteil im seichten Wasser, die Ärmel hochgekrempelt, das grobe Gesicht von der harten Arbeit gefurcht, aber frei von jener lauernden Furcht, die ihn monatelang wie ein räudiger Hund begleitet hatte. Neben ihm hockte Berto. Der Junge trug ein Holzstück und schnitzte mit einem stumpfen Messer an einer Radspeiche herum, die Zungenspitze zwischen den Zähnen, ganz so, wie sein Vater es getan hatte, wenn ein Karren brach.
+Alda wandte sich langsam um und sah ihn an. Seine Wangen waren eingefallen von den Wochen der Angst, die dunklen Ringe unter seinen Augen zeugten von schlaflosen Nächten über den Wachstafeln. Doch der Blick, mit dem er sie festhielt, war klar. Er bot ihr keine Almosen an. Es war das Angebot eines Mannes, der wusste, was Kälte bedeutete, und der ihr ein Dach über dem Kopf bauen wollte.
 
-Sie spürte den Schmerz, der bei Otwins Worten aufstieg – ein kurzes, brennendes Ziehen tief in der Brust. Steinene Mauern. Ein Herd, der nicht jedes Jahr einem anderen Grundherrn gehörte. Ein Mann, der nicht mit Fäusten sprach, sondern mit klugem Verstand, ein Mann, dessen Nähe ihr in den Nächten an der Seille Wärme gegeben hatte, als die Welt um sie her zu Eis erstarrte.
+Sie betrachtete seine Hände, die das kaiserliche Pergament hielten, und dachte an ihre eigenen. Ihre Finger waren rissig von den Hanfseilen, die Nägel kurz und an den Rändern dunkel von Pech und Wagenschmiere.
 
-Sie legte ihre freie Hand auf seine Finger, die auf ihrem Ärmel lagen. Ihre Haut war rau, von Salzschwielen und Seilen zerrissen, im Vergleich zu seiner schreibgewohnten Hand wie Horn gegen Tuch.
+»Und was wäre ich in Aachen, Otwin?«, fragte sie leise, ohne Bitterkeit, aber mit jener unnachgiebigen Schärfe, mit der sie das Silber auf der Waage prüfte. »Die Frau eines Schreibers. Eine Magd, die im Hof wartet, bis der Kämmerer das Mehl zuteilt. Eine Fremde, die den Mund halten muss, wenn die Hofbeamten vorübergehen.«
 
-»Und was wäre ich dort, Otwin?« fragte sie ruhig. Ihre Stimme zitterte nicht. »Die Frau eines Kanzleischreibers? Ein Weib, das im Vorhof der Pfalz wartet, bis der Herr mit drei Silberlingen von der Messe heimkehrt?«
+»Du wärst frei von der Schuld«, entgegnete er dringlich. »Berengars Schatten erreicht dich dort nicht. Raginbert hat keine Macht im Land des Kaisers.«
 
-»Du wärst frei«, sagte er hastig. »Niemand könnte dir etwas anhaben. Ich würde dafür bürgen.«
+»Ich bin frei von der Schuld«, sagte Alda, und ihre Stimme schnitt durch den Wind wie ein frisch geschliffenes Beil. »Ich habe sie bezahlt. Mit meinen Ochsen, mit meinem Schweiß und mit dem Hof an der Ill, den Raginbert nun behalten mag, bis die Ratten das Gebälk gefressen haben. Ich habe zehn Pfund Silber Trierer Gewichts im Wagenkasten liegen, Otwin. Rechtmäßig erhandelt von den Kämmerern zweier Könige. Es gehört mir. Nicht einem Vogt, nicht einem Stift – und keinem Mann.«
 
-»Ich will keinen Bürgen mehr«, schnitt sie ihm das Wort ab, nicht laut, aber mit der Härte eines geschmiedeten Nagels. »Mein ganzes Leben lang haben Männer für mich gebürgt. Mein Vater bürgte für Heinrich. Heinrich bürgte für Gerwin, ohne mein Wissen, und zahlte mit meinem Hof und Bertos Freiheit dafür. Und du – du hast die Buchstaben gesetzt, die mich beinahe in die Knechtschaft gestürzt hätten, weil ein Vogt für dein Überleben gebürgt hat.«
+Otwin senkte den Kopf. Er kannte den Tonfall. Er wusste, dass man einen Fluss nicht mit bloßen Händen aufhalten konnte, wenn das Frühjahrswasser die Ufer brach.
 
-Otwin zuckte zusammen, als hätte sie ihn geschlagen. Er zog die Hand nicht zurück, aber die Finger verloren ihre Festigkeit. »Das war vorbei. Wir haben es zerrissen, Alda. Vor dem Grafen.«
+»Berto könnte dort lernen«, versuchte er es noch einmal, doch seine Stimme verlor bereits an Kraft. »Er begreift schnell. Ich habe es an den Wachstafeln gesehen. In Aachen gibt es Schulen für die Knaben der Hofbediensteten. Er müsste nicht sein Leben lang hinter dem Pflug hergehen oder Räder schmieren.«
 
-»Vor dem Grafen haben wir gerettet, was zu retten war«, erwiderte sie. »Aber die Welt ist nicht heil, Otwin. Nur weil drei Könige ein Stück Pergament geküsst haben, ist die Welt nicht gerecht geworden. In Aachen wäre ich dein Schatten. Mein Fuhrbetrieb wäre eine Laune, die man mir gewährt, solange der Palastkämmerer dir gewogen ist. Wenn du fällst – und Schreiber fallen schnell, wenn ein neuer Bischof kommt –, falle ich mit dir. Und mein Sohn mit mir.«
+Ein weicher Schmerz regte sich in Aldas Kehle, doch sie schluckte ihn hinunter. Berto. Ihr Junge saß drüben am Wagen, kaute an einem Stück hartem Fladenbrot und strich mit einem abgebrochenen Nagel Zeichen in ein Rindenstück, genau wie Otwin es ihm gezeigt hatte. Sie wollte eine Zukunft für ihn, gewiss. Aber sie wollte keine, die er erbetteln musste.
 
-Sie blickte auf ihre eigenen Hände hinab, wandte sie um und betrachtete die tiefen Furchen in den Handflächen.
+»Er wird lernen«, sagte sie fest. »Er lernt bereits. Er weiß, wie man ein Maß Weizen schätzt, indem man hineingreift. Er hört am Klang des Rades, ob die Achse heißläuft, und er wird von dir lernen, wie man die Buchstaben setzt. Aber er wird lernen, auf eigenem Fuhrwerk zu sitzen, nicht auf den Bänken derer, die ihn verjagen können, sobald ein neuer Kaiser die Kanzlei ausmistet.«
 
-»Ich habe dieses Salz durch die Vogesen gebracht. Ich habe die Sieder in Marsal überzeugt, mir zu vertrauen, nicht den Grafen und nicht den Pröpsten. Ich habe vierzehn Gespanne an Karls Kriegsknechten vorbeigeführt. Ich bin keine Schreibersfrau, Otwin. Ich bin Frachtführerin.«
+Sie trat an ihn heran, so nah, dass sie den vertrauten Geruch von saurer Tinte und getrocknetem Lavendel wahrnahm, der ihm stets anhaftete. Sie hob die Hand, zögerte einen Herzschlag lang und legte dann ihre raue, schwielige Handfläche an seine Wange. Seine Haut war kühl, glatt rasiert nach der Art der Kleriker, die er nie ganz abgelegt hatte.
 
-Otwin schwieg. Der Lärm des Lagers drang wieder zu ihnen durch: das Brüllen eines Ochsen, dem die Peitsche über den Rücken gezogen wurde, das dumpfe Poltern von Fässern, die auf einen Lastkahn gerollt wurden, die gellenden Rufe eines Händlers, der getrockneten Stockfisch anbot.
+Otwin schloss für einen Augenblick die Augen. Ein tiefer, bebender Atemzug hob seine Brust, und er lehnte sich kaum merklich gegen ihre Hand.
 
-Langsam zog er seine Hand zurück. Er schaute nicht weg. In seinem Gesicht lag Trauer, aber kein Zorn. Er war klug genug, um das Maß ihrer Worte zu wiegen; er verstand Recht und Pflicht besser als die meisten Männer seiner Zeit.
+»Wenn ich dir nach Aachen folge«, sprach sie weiter, und jedes Wort war so bedacht gesetzt wie ein Grenzstein im Ackerland, »bin ich nichts als ein Anhängsel an deinem kaiserlichen Siegel. Ich müsste warten, was du mir heimbringst. Ich müsste lernen zu schweigen, wo ich bisher verhandelt habe. Nach zwei Wintern würde ich dich hassen, Otwin. Und du würdest den Tag verfluchen, an dem du eine sture Straßburger Fuhrfrau in deine saubere Kanzleistube geholt hast.«
 
-»Du gehst also nach Metz«, sagte er schließlich.
+Er öffnete die Augen wieder. Sie waren dunkel vor Trauer, aber nicht vor Zorn. Er verstand. Das war das Schlimmste und das Beste an ihm: Er verstand die Welt der Abrechnungen ebenso gut wie sie.
 
-»Ich gehe nach Metz. Die Mosel friert später zu als der Rhein. In der Vorstadt gibt es Speicher, die leer stehen, weil die Kaufleute aus Trier sich vor den Grenzen fürchten. Walo bringt noch fünf Gespanne aus dem Elsass nach. Wir werden Gerste und Tuch laden, wenn das Salz verteilt ist. Gerwin kann zupacken, und Berto lernt, wie man die Frachtbriefe vergleicht.« Sie hielt seinem Blick stand. »Er braucht jemanden, der ihm zeigt, wie man die Zahlen ordnet, Otwin. Aber nicht in einer kaiserlichen Schule, wo man ihm den Rücken krumm schlägt, damit er für fremde Herren betet. Er muss lernen, wie man rechnet, um nicht betrogen zu werden.«
+»Du gehst also nach Osten«, sagte er leise.
 
-Otwin nickte kaum merklich. Er schluckte. Ein feines Zittern lag auf seinen Lidern.
+»Ich gehe dorthin, wo das Salz gebraucht wird«, erwiderte sie und nahm die Hand von seiner Wange. Die Kälte des Windes schloss sich sofort um ihre Haut. »Der Krieg hat die Scheunen am Main geleert. Die Leute in Worms und Speyer haben Vieh geschlachtet, das sie nicht einpökeln können, weil die alten Straßen gesperrt waren. Ich habe zwei gute Gespanne, Gerwin führt die Ochsen, und ich habe freie Sieder im Rücken, die mir vertrauen. Ich kenne die Furten, Otwin. Ich brauche kein kaiserliches Privileg, um zu wissen, wo der Grund fest ist.«
 
-»Aachen ist weit von Metz«, sagte er leise. »Drei Wochen zu Pferd, wenn die Wege im Herbst verschlammt sind. Im Winter geht kein Bote durch die Ardennen.«
+»Und wenn Raginbert dir auflauert?«
 
-»Dann geht eben kein Bote«, erwiderte Alda. Sie trat einen halben Schritt auf ihn zu. Sie berührte ihn nicht, aber die Nähe zwischen ihnen war so dicht, dass sie seinen Atem spürte, warm und stockend im kühlen Wind. »Aber das Eis bricht im März. Die Maas taut auf, und die Mosel führt Schmelzwasser. Lothar wird im Frühjahr einen Landtag halten müssen, wenn er wissen will, wie viel Korn seine neuen Untertanen noch im Kasten haben.«
+»Raginbert leckt seine Wunden«, sagte sie grimmig. »Er sitzt auf einem leeren Hof an der Ill und muss sehen, wie er seine eigenen Schulden beim Bischof tilgt. Graf Adalhard hat ihm vor aller Augen das Maul gestopft. Wenn er mir noch einmal in die Quere kommt, dann nicht als Grundherr, der das Recht beugt, sondern als Wegelagerer. Und gegen Wegelagerer helfen Eschenknüppel und Fuhrmannsäxte besser als Pergamente.«
 
-Ein schwaches, bitteres Lächeln glitt über Otwins Züge. »Er wird Schreiber schicken. Um die Register anzulegen.«
+Am Ufer drängten nun die Reiter der kaiserlichen Leibwache nach vorn. Eisenhelme blitzten matt im grauen Spätsommerlicht, lange Lanzen schwankten wie ein Schilfwald über den Köpfen der Menge. Hörner stießen kurze, heisere Töne aus, die über das Wasser hallten und die Dohlen von den Weiden aufscheuchten. Der Aufbruch duldete keinen Aufschub mehr. Lothar ritt nicht allein; der gesamte Hofstaat, zweihundert Schreiber, Kämmerer, Falkner und Stallknechte, musste vor Nachteinbruch die Hänge hinauf sein.
 
-»Er wird Schreiber schicken«, bestätigte Alda. »Und die Kaufleute von Metz werden Karren brauchen, um das Saatgut über die Grenze zu schaffen. Karren, die verlässliche Führer haben. Und Frachtverträge, die kein königlicher Richter zerreißen kann.«
+Otwin blickte über die Schulter zu den Reitern. Seine Lippen waren schmal geworden, ein dünner Strich im blassen Gesicht. Er strich mit dem Daumen über das gewachste Leder seiner Urkundenrolle.
 
-Sie hielten einander fest, mit den Augen, ohne ein Wort des Schwurs, wie ihn Liebende auf Jahrmärkten austauschten. Es gab keine Küsse am Fluss, nicht vor den Augen der abziehenden Kriegsknechte, nicht vor Gerwin und den Fuhrleuten, die Aldas Urteil vertrauen mussten, weil ihr Leben an ihrer Besonnenheit hing. Im Frühmittelalter war eine Umarmung vor Fremden eine Schwäche, ein Versprechen ein Rechtsakt und die Liebe eine Last, die man tragen können musste, ohne darunter zusammenzubrechen.
+»Ein halbes Jahr«, sagte er leise. »Vielleicht sieben Monde.«
 
-»Metz«, wiederholte Otwin, und der Klang des Wortes schien sich in seiner Kehle festzusetzen. »An der Brücke bei Saint-Arnould. Dort, wo die Gerber ihre Felle spülen.«
+Alda sah ihn scharf an. »Was redest du da?«
 
-»Dort«, sagte Alda. »Wenn die Weiden austreiben. Kein Tag früher. Ich will dich nicht sehen, Otwin, ehe ich meine Ochsen bezahlt und meine Knechte entlohnt habe. Und du kommst nicht zu mir, ehe dein Name auf der Rolle der kaiserlichen Kanzlei steht, fest und unanfechtbar.«
+»Die Pfalz zieht nach Aachen, um den Winter dort zu verbringen. Aber im Frühjahr, nach der Tagundnachtgleiche, ordnet der Kaiser die Grenzen neu. Die Gesandten werden sich wieder treffen müssen, um die Zölle an den Übergängen festzulegen. Es gibt nur einen Ort, an dem die Straßen aus dem Westen, dem Osten und dem Norden zusammenlaufen.«
 
-Er nickte. Es war ein Nicken, das mehr wog als ein Eid auf ein Reliquiar. Er wusste, was sie forderte: keine halben Dinge. Keine Schuld, die zwischen ihnen stand, kein Mitleid, das die Liebe vergiftete. Wenn sie einander wiederbegegneten, dann als zwei Freie, die nichts voneinander erbetteln mussten.
+»Metz«, sagte sie, und das Wort schmeckte nach altem Rauch und feuchtem Sandstein.
 
-»Nimm dies«, sagte er plötzlich und griff unter seinen Wollüberwurf. Er zog ein schmales, flaches Stück geschabtes Holz hervor, kaum länger als eine Handspanne. Es war kein Pergament, das im Regen auflöste, sondern eine einfache Buchsbaumtafel, an den Rändern fein mit einem Schnitzmesser geglättet. Auf der hellen Fläche waren mit Kohle und Wachs Zeichen eingeritzt – keine lateinischen Segenswünsche, keine Gebete, sondern die klaren, eckigen Formen des Alphabets und die römischen Ziffern für Zehn, Fünfzig und Hundert.
+»Metz«, bestätigte er. Ein schwaches, trauriges Lächeln zuckte um seine Mundwinkel. »Die Kanzlei wird am Hof des Bischofs Quartier nehmen, im Schatten von Sankt Arnulf. Ich werde dort sein, Alda. Ich werde die Listen für die Schifffahrtszölle auf der Mosel führen müssen.«
 
-»Für Berto«, sagte er. »Sag ihm, der linke Strich muss tiefer stehen als der rechte, wenn er das Maß für das Salz aufschreibt. Er vergisst das immer.«
+Alda wandte den Blick ab und sah stromaufwärts, dorthin, wo die Maas zwischen grauen Weidenstreifen im Dunst verschwand. Die Mosel war nicht weit von dort. Ein erfahrener Fuhrmann schaffte den Weg von den Salinen im Seille-Tal nach Metz in drei Tagen, wenn das Wetter hielt und die Achsen gut geschmiert waren.
 
-Alda nahm das Holz. Ihre Finger schlossen sich fest um das glatte, kühle Material. Es war ein Geschenk von geringem Wert für einen Grafen, aber für ein Kind eines Fuhrbetriebs war es der Schlüssel zu einer Welt, die bislang nur den Pröpsten und Vögten offenstand.
+»Im Frühjahr treiben die Sieder von Marsal das erste Salz aus den neuen Pfannen«, sagte sie, als spräche sie nur von Frachtgut und Fuhrlohn. »Das Holz für die Feuer ist dann geschlagen, die Sole steht hoch. Ich werde Fuhrwerke brauchen, um die Ladung an den Fluss zu bringen. Es wird Kaufleute geben, die nach Fässern suchen.«
 
-»Ich werde es ihm sagen«, sprach sie. Ihre Stimme war rau geworden. Sie blickte ihn an, und in diesem einen Moment ließ sie die Härte fallen, ließ zu, dass er die Trauer in ihren Zügen sah, die Sehnsucht nach einer Ruhe, die es für Leute ihres Standes niemals geben würde. »Pass auf dich auf, Otwin. Die Schreiber in Aachen haben schärfere Federn als die Vögte im Elsass.«
+»Und ich werde am Hafen stehen«, sagte Otwin. Er trat den letzten Schritt auf sie zu, griff nach ihrer rechten Hand und umschloss sie mit beiden Händen. Seine Finger waren kühl, doch der Druck war fest, ohne jedes Zittern. »Ich werde dort stehen, Alda. Nicht um dich zu bitten, mir zu folgen. Aber um zu sehen, ob dein Karren heil über die Steige gekommen ist.«
 
-»Und sie sind feiger«, entgegnete er leise. »Ich habe gelernt, wie man sich wehrt. Du hast es mich gelehrt.«
+Sie zog die Hand nicht zurück. Sie spürte die harten Sehnen in seinen Handgelenken, das feine Mahlen der Knochen, das jedem Menschen eigen war, der schwere Lasten trug – selbst wenn diese Lasten nur aus Worten bestanden.
 
-Ein Horn stiess in die Luft, grell und schneidend. Drüben auf dem Hügel, wo das Zelt des Kaisers gestanden hatte, setzte sich die Vorhut in Bewegung. Ein Bannerträger hob das kaiserliche Zeichen – das Kreuz auf rotem Tuch –, und die Hufe von fünfzig Schlachtrössern donnerten im Gleichschritt über das gestampfte Erdreich.
+»Wenn die Weiden austreiben«, sagte sie leise. »Nicht früher. Vor dem ersten Neumond nach Ostern hat das Eis auf den Pässen keinen Halt, und ich riskiere meine Zugtiere nicht für einen Schreiber, der ungeduldig auf dem Kai wartet.«
 
-Otwin wandte den Kopf. Er atmete tief ein, schloss das Futteral an seiner Hüfte und straffte die Schultern. Als er sich wieder zu ihr wandte, war der Schreiber zurückgekehrt, der Mann des Gesetzes, gerüstet für die Welt der Paläste und Urkunden.
+»Ich kann warten«, erwiderte er, und zum ersten Mal klang seine Stimme fest wie Eichenholz, das den Winter über im Wasser gelegen hatte, um hart zu werden. »Ich habe mein halbes Leben lang im Skriptorium gewartet, dass jemand die Tür aufstößt. Ich kann auch sechs Monde am Fluss stehen.«
 
-»Bis zum Frühjahr, Alda.«
+Er hob ihre Hand an seine Lippen. Er küsste nicht den Handrücken, wie es die Hofleute taten, wenn sie den Damen der Grafen heuchelten; er drückte seine Lippen mitten auf ihre Handfläche, auf die harte Hornhaut, die der Leitstrick dort eingegraben hatte. Es war eine Geste der Unterwerfung unter das Leben, das sie gewählt hatte, und zugleich ein Siegel, bindender als das Blei an seiner Rolle.
 
-»Bis zum Frühjahr.«
+Dann ließ er sie los. Er wandte sich um, straffte die Schultern unter dem Lodenmantel und ging mit schnellen, sicheren Schritten hinüber zu der Gruppe der Kanzleiknechte, die ihre Maultiere bereits beladen hatten. Er drehte sich nicht noch einmal um. Er wusste, dass man auf einer Furt nicht zurückblicken durfte, wenn die Strömung an den Beinen riss.
 
-Er neigte den Kopf, eine knappe, fast förmliche Verneigung, wandte sich um und ging den Pfad hinauf, der vom Maasufer zur alten Römerstraße führte. Er drehte sich nicht noch einmal um. Seine Schritte waren fest im Schotter, der Saum seines Mantels strich durch das nasse Gras der Uferböschung.
+Alda blieb am Ufer stehen, bis seine dunkle Gestalt im Gewirr der kaiserlichen Standarten und Planwagen verschwunden war. Der Wind blies ihr eine lose Strähne ihres aschblonden Haars ins Gesicht. Sie strich sie mit dem Handrücken zurück und atmete tief ein. Die Kälte tat gut. Sie reinigte die Lunge von den Ausdünstungen der Stadt und dem Moder der alten Gerichtsstreitigkeiten.
 
-Alda sah ihm nach, bis sein brauner Wollumhang in der Kolonne der Kanzleiwagen verschwand, zwischen den Packpferden der Notare und den Lanzenspitzen der kaiserlichen Garde.
+Langsam drehte sie sich um und ging zu ihrem Wagen hinüber.
 
-Der Wind drehte. Er kam jetzt von Westen, feucht und kalt, roch nach dem ersten Regen des heraufziehenden Herbstes.
+Gerwin stand an den Köpfen der beiden neuen Ochsen, kräftige, rotbraune Tiere mit breiten Stirnen, die er auf dem Markt erstanden hatte. Er prüfte gerade das Joch, schob die Finger zwischen das Lindenholz und das Nackenfell, um zu sehen, ob das Polster scheuerte. Als er sie kommen sah, hielt er inne.
 
-Alda schob die Schrifttafel in ihren Lederbeutel, direkt neben das schwere Silber aus dem Salzverkauf. Dann drehte sie sich um und ging hinab zum Wasser.
+»Ist er fort?«, fragte er mit seiner tiefen, brummenden Stimme.
 
-»Gerwin!« rief sie, und ihre Stimme klang laut und schneidend über das Klatschen der Wellen. »Spann die Grauen ein! Wir füttern erst wieder hinter den Wäldern. Berto, hol das Zugseil von der zweiten Achse!«
+»Er reitet mit dem Kaiser«, antwortete Alda knapp. Sie trat an den Wagenkasten, legte die Hand auf das rohe, ungehobelte Holz der Bordwand und rüttelte daran. Es hielt. Nichts klapperte, die Keile saßen tief im Eisen. »Wir haben nichts mehr hier zu suchen. Berto!«
 
-Der Junge sprang auf, das Holzstück noch in der Hand, und rannte lachend zu den Karren. Gerwin wischte sich die nassen Hände an den Hosen ab und nickte seiner Schwester zu.
+Der Junge sprang vom Trittbrett herab. Das Rindenstück hielt er noch immer in der Hand, darauf drei krakelige Linien, die aussahen wie die Spuren einer Krähe im Schnee.
 
-Alda griff nach der Deichsel des ersten Wagens. Das Holz war kalt, splitterig und voller Leben. Sie stemmte die Füße in den Schlamm der Maas, richtete den Blick nach Süden, dorthin, wo der Flusslauf den Weg nach Metz wies, und gab das Zeichen zum Aufbruch.
+»Pack das Zeug weg«, sagte sie, doch ihre Stimme war nicht hart. Sie griff in ihre Tasche, zog ein kleines Stück getrocknetes Rindfleisch hervor und drückte es ihm in die Hand. »Wir müssen den Waldweg vor Einbruch der Dämmerung erreichen. Wenn der Nachtfrost kommt, will ich die Räder auf festem Grund wissen.«
+
+Berto nickte, steckte das Fleisch in den Mund und kletterte behende auf den Kasten, wo er sich zwischen die Kornsäcke kauerte.
+
+Alda griff nach dem Leitstrick des vorderen Ochsen. Sie spürte das warme, lebendige Zucken des Tieres durch das Hanfseil, die schiere, stumpfe Kraft, die nur darauf wartete, in Bewegung gesetzt zu werden. Vor ihnen lag der steile Pfad hinauf zum Bannforst, der alte Römerweg, auf dem das Unkraut die Fugen sprengte, aber dessen Schotterbett die schweren Räder tragen würde, ganz gleich, wer das Land ringsum für sich beanspruchte.
+
+Sie blickte noch einmal kurz hinab zum Fluss, wo der letzte kaiserliche Prahm gerade die Taue löste und träge in die Hauptströmung glitt.
+
+»Hü!«, rief sie, und der Laut riss ihr heiser aus der Kehle. »Zieht an, ihr Faulpelze! Zieht!«
+
+Die Ochsen stemmten die Klauen in den feuchten Schotter, das Holz knarrte im Gebälk, und der schwere Karren setzte sich knirschend in Bewegung, fort vom Ufer der Maas, dem kommenden Winter und dem fernen Frühling entgegen.
 

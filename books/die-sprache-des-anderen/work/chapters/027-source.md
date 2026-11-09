@@ -5,79 +5,95 @@
 
 ---
 
-Der Modergeruch des Rieds kroch schwer durch das Schilf, als die Räder der Fuhrwerke im feuchten Lehm versanken. Niemand rief den Zugtieren zu. Nur das dumpfe Klatschen der Hufe, das Ächzen der Eschenholznarben und das leise Klirren der eisernen Kettenstränge zerschnitten das Dunkel vor der Morgendämmerung. An der alten Ziegelei hatten sich vierzehn Karren gesammelt. Sie rochen nach altem Leder, nach feuchtem Stroh und nach dem Tran, mit dem die Achsen geschmiert worden waren.
+Die Räder schnitten tief in den feuchten Grund der Altstraße, wo der Mai den Frost zwar längst aus der Erde gesaugt, aber eine schwere, lehmige Kruste hinterlassen hatte. Zwischen den zerschlagenen Quadern des alten Römerpflasters sprossen frischer Schachtelhalm und wilde Nelken, deren herber Geruch sich mit dem scharfen Schweiß der Zugrösser und dem ranzigen Wagenschmalz der Achsbüchsen mengte. Der Morgen roch nach nassem Birkenlaub und kaltem Bachkies, doch die Luft trug bereits die weiche Wärme des Frühlings in sich.
 
-Alda saß auf dem Bock des ersten Wagens. Neben ihr kauerte Berto, fest eingehüllt in eine grobe Wolldecke, die nach Ziegenhaar und Stall schmeckte. Seine schmalen Knie stießen gegen das Stirnbrett des Karrens, doch er regte sich nicht. Seine Augen waren weit geöffnet und spiegelten das fahle Glimmen des Himmels, der sich hinter den Vogesenkämmen langsam von Schiefergrau zu kaltem Milchweiß wandelte.
+Alda saß auf dem hölzernen Holm des vorderen Karrens, die Schenkel fest gegen das Rütteln des Gestells gestemmt, und ließ ihren Blick über die Kämme wandern. Die Zaberner Steige lag hinter ihnen; zwei Tage mörderischer Schufterei am Berg, wo Mensch und Tier gemeinsam in den Strängen gehangen hatten, Schritt für Schritt durch den engen Felsspalt, bis die Bremsklötze aus hartem Eschenholz geraucht und gestunken hatten wie Holzkohlenmeiler. Nun senkte sich das Land sanft nach Lothringen hinab. Die weite, wellige Ebene des Seille-Gaus öffnete sich vor ihnen, durchzogen von glänzenden Adergeflechten träger Flüsse, über denen Schwärme von Weidenlaubkrähen kreisten.
 
-»Halt die Riemen nicht mit der Faust, Mutter«, flüsterte der Junge, den Blick starr auf das braune Gespann gerichtet. »Der Knecht sagt, man muss die Leinen zwischen den Fingern laufen lassen wie Garn beim Weben. Sonst spürt das Maul den Schmerz zu spät und wirft den Kopf.«
+Neben ihr saß Berto. Der Junge trug Berengars altes Lederwams, das sie mit grobem Hanfgarn an den Schultern enger genäht hatte, damit die Ärmel nicht über seine Knöchel schlackerten. Seine kleinen Hände lagen flach auf den geflochtenen Hanfsträngen, die von den ledernen Kummeten der beiden braunen Rösser zurückliefen. Jede Erschütterung des Karrens übertrug sich auf seinen schmalen Körper, doch er wich nicht aus. Seine Augen klebten an den Ohren des vorderen Rosses, an jeder Bewegung des breiten Rückens.
 
-Alda sah von der Seite auf ihren Sohn hinab. Der Schmutz der Straßburger Gassen klebte noch an seinen Schläfen, doch die Scheu, die ihn monatelang wie ein Schatten begleitet hatte, war aus seinen Zügen gewichen. Auf diesem hohen Holz sitzend, den Karrenboden unter sich und das Schnauben der Kaltblüter in den Ohren, schien er um zwei Sommer gewachsen zu sein.
+»Spürst du den Zug im Seil?«, fragte Alda leise, ohne die Augen von der Fahrspur zu wenden.
 
-»Der Knecht versteht sein Handwerk«, antwortete sie leise. Ihre Finger lockerten sich geringfügig um das speckige Leder. »Aber merk dir: Ein Fuhrmann lenkt nicht mit den Händen allein. Er lenkt mit dem Hintern und dem Gewicht. Wenn der Karren ins Rutschen kommt, spürst du es im Kreuz, lange bevor die Deichsel splittert.«
+Berto nickte eifrig. Er schluckte den kühlen Fahrtwind hinunter. »Die Braune zieht stärker als der Rappe, Mutter. Sie drückt mit der Schulter nach links, weg von der Spurrille.«
 
-Hinter ihnen schnalzte der ältere Knecht Berto mit der Zunge. Er ging zu Fuß neben dem linken Rad, die Hand auf der Runge, eine schwere, mit Eisen beschlagene Axt griffbereit im Gürtel. Sein Atem stieg in kleinen Wölkchen in die klamme Maienluft. Immer wieder blickte der alte Mann zurück über die Schulter, dorthin, wo das Ried flach in die Ebene der Ill überging. Er fürchtete die Reiter Raginberts, fürchtete den harten Hufschlag von Folkers Knechten auf den Schotterbänken. Doch von dort kam nichts. Nur der Frühnebel lagerte auf den Wiesen wie nasses Vlies.
+»Weil das Rad dort tiefer einsinkt«, erwiderte sie, und ein seltenes, flüchtiges Lächeln huschte über ihre spröden Lippen. »Der Schlamm bremst wie getrockneter Leim. Wenn du das Ross zu hart rannimmst, schlägt es dir in die Stränge und verdirbt sich das Schulterblatt. Ein Fuhrwerk lenkt man nicht mit der Peitsche, Berto. Man wiegt es mit den Augen ab, wie Korn auf der Schale.«
 
-Der Weg stieg an. Der alte Römersteig, fernab der bewachten Zaberner Steige, war vor Jahrhunderten mit schweren Sandsteinquadern gelegt worden. Nun wucherte der Ginster aus den Fugen, junge Birken hatten den Belag gesprengt, und die schmalen Radreifen schnitten tief in das Geröll. Die Fuhrleute mussten fluchen, schieben und das Holz mit den eigenen Schultern stützen, um die Karren über die verfallenen Absätze zu wuchten. Walos Rotschopf leuchtete weiter hinten zwischen den Planen auf; der Riese schwitzte trotz des kühlen Windes, seine derben Flüche galten den Steinen, den Kaisern und dem Morast, doch er trieb seine Gäule unerbittlich voran.
+Der Junge drückte die Fersen gegen das Stirnbrett des Wagens. Er war in den letzten Monden gewachsen, die Magerkeit des Winters wich langsam einer sehnigen Zähigkeit, die Alda wohlbekannt war; so hatte Berengar ausgesehen, ehe der Krieg und das falsche Silber seinen Blick getrübt hatten. Doch in Bertos Augen lag keine Verschlagenheit. Da war nur das unbändige Verlangen, das Holz unter den Sohlen zu spüren und die schwere Fracht sicher durch die Furten zu bringen.
 
-Drei Tage dauerte der Marsch durch das Gebirge. Der Geruch der Tannenwälder – harzig, feucht und bitter nach faulendem Nadelstreu – wich erst, als die Hänge flacher wurden und der weite, lehmige Kessel des Seille-Tals vor ihnen aufragte. 
+Hinter ihnen ging der alte Berto. Der Knecht führte das Gespann des zweiten Karrns am Zaumzeug, den Kopf wie stets leicht gesenkt, als fürchte er noch immer, aus dem Gebüsch könne ein herrschaftlicher Reiter hervorschnellen. Seine Knie knarrten bei jedem Schritt im Rhythmus der hölzernen Radnaben, aber seine Hände am Leder waren ruhig und sicher. Vier Gespanne folgten ihnen im Abstand zweier Wagenlängen, gelenkt von Hartwig und seinen Leuten, deren raue Zurufe wie heisere Rabenschreie durch das Flusstal hallten. Sie waren durchgekommen. Kein Zöllner hatte die Schlucht von Zabern gesperrt, kein Vogt Isenbarts ihnen den Weg verlegt; Raginberts Kanzleiknechte rechneten offenbar noch immer mit Schiffen auf der Mosel oder glaubten die Fuhrleute furchtsam in den Hütten an der Ill.
 
-Hier roch die Luft nicht nach Harz. Sie roch nach Rauch, nach Schwefel und nach Salz.
+Gegen Mittag veränderte sich der Wind. Der milde Duft des Buchenholzes und der feuchten Wiesen wich einem bekannten, beißenden Dunst: der schale Geruch von Sole, verbranntem Torf und salzigem Schlamm. 
 
-Am vierten Tag zur Mittagsstunde erreichte die Karawane die Senke von Marsal. Über den Dächern der Salzkaten stand ein bleigrauer Dunst, der von hundert kleinen Feuern herrührte, auf denen die Sole in bleiernen Pfannen Tag und Nacht verkocht wurde. Das Hämmern der Fassbinder klang durch das Tal wie das Picken unzähliger Spechte.
+Marsal lag vor ihnen in der Senke. 
 
-Auf einem Schotterstreifen vor den Toren der Siedlung stand Gerwin.
+Doch es war nicht das Marsal des vergangenen Jahres. Als der Zug den sanften Höhenrücken überwand, hielt Alda die Rösser mit einem kurzen, kehlig gemurmelten Laut an. Hartwig schloss mit seinem Wagen auf und spuckte geräuschvoll in den Weidenstrauch am Wegrand.
 
-Er hatte sich verändert. Das weiße Hemd, das er einst in Straßburg getragen hatte, war durch ein speckiges Wams aus ungegerbtem Rindsleder ersetzt worden, dessen Ärmel an den Ellbogen mit grobem Hanfgarn geflickt waren. Seine Hände, die früher oft zittrig an seinem Gürtel genestelt hatten, waren von Ruß und Salzschorf gezeichnet. Über seinen Schläfen klebte grauer Staub, und seine Wangenknochen traten spitz hervor wie Firstbalken eines alten Speichers.
+Wo einst die hölzernen Siedehütten gestanden hatten, ragten nur noch geschwärzte Pfähle und Aschehaufen in den Frühlingshimmel. Wie die Zähne eines verfaulten Kiefers standen die Reste der Flechtwerkwände zwischen den Rinnen, in denen das salzige Quellwasser noch immer unaufhörlich gurgelte. Die freien Riedsieder hatten Wort gehalten. Sie hatten ihre eigenen Pfannen zerschlagen, ihre Dächer niedergebrannt und dem Grundherrn Raginbert sowie den Vögten des Stifts Sankt Arnulf nichts hinterlassen als verrußten Lehm und nutzlosen Morast.
 
-Hinter ihm standen zwei mächtige, zweiachsige Kärren, bespannt mit je vier stämmigen Ardennern. Die Wagen waren voll beladen: bauchige Weidenkörbe und feste Fässer, mit Pech versiegelt und fest verzurrt unter groben Hanfplanen. Das weiße Gold drückte die Achsen so tief in die Federn, dass das Eschenholz unter der Last knarrte.
+Am Rande des zerstörten Siedeplatzes, geschützt durch die zerschlagenen Quader eines verfallenen römischen Wachturms, herrschte jedoch emsiges Treiben. Zwei schwere, zweirädrige Karren standen bereits dort, die Deichseln auf Holzböcke gelegt. Sie waren mit dicken, gefetteten Rinderhäuten überspannt, die mit festen Weidenruten und Hanfstricken verzurrt waren; darunter wölbten sich die bauchigen Formen der Riedsalzkörbe, weißes Gold, sicher verpackt gegen jeden Regenguss.
 
-Alda zog die Zügel an. Der Karren hielt mit einem scharfen Ruck.
+Neben den Karren stand ein Mann, der eine schwere eiserne Kette um eine Achse schlang. Er trug ein zerrissenes Leinenhemd, dessen Ärmel bis zu den Schultern aufgerollt waren. Seine Arme waren von Ruß und Schrammen gezeichnet, die Haut von der Arbeit an den Feuern gerötet und fleckig. 
 
-Gerwin trat heran. Er sah nicht zu seiner Schwester auf, sondern starrte auf die Radnabe, an der getrockneter Schlamm in Schollen abfiel. Seine Schultern waren gebeugt, doch die Haltung war nicht mehr die eines Versteckten, sondern die eines Mannes, der die Last von zehn Zentnern Holz gehoben hatte.
+Als das Knarren von Aldas Rädern näher kam, fuhr der Mann herum. Er griff instinktiv nach einer hölzernen Hebestange, die im Schlamm lehnte, doch als er Alda auf dem Bock und den Jungen an ihrer Seite erkannte, entglitt ihm das Holz. Es schlug dumpf auf den feuchten Boden.
 
-»Die Sieder haben Tag und Nacht durchgebrannt«, sagte er mit heiserer Stimme. Die Worte klangen rau, als hätte die salzige Luft seine Kehle abgeschabt. »Folrad hat Wort gehalten. Zwanzig Fuder feinstes Weißsalz aus den ersten Pfannen auf meinen Wagen. Dazu vierzig Fuder Bruchsalz auf den Karren der Siederknechte, die sich uns anschließen. Die bischöflichen Vögte sitzen in Vic und zählen ihre Zehnten. Sie ahnen nichts. Wir haben das Salz bei Nacht aus den Trockenhäusern geschafft.«
+Es war Gerwin.
 
-Alda stieg vom Bock herab. Ihre Knie waren steif von der langen Fahrt, ihre Stiefel sanken in den schwarzen, salzgetränkten Schlamm des Talgrunds. Sie trat vor ihren Bruder. Sie suchte nach den alten Ausflüchten in seinem Blick, nach der feigen Hast, die ihn damals durch die Wälder von Fontenoy getrieben hatte. Doch Gerwins Augen blieben ruhig auf ihr ruhen, matt vor Erschöpfung, aber frei von Lüge.
+Aldas Atem stockte für den Bruchteil eines Herzschlags. Sie sah die Spuren der Krankheit, die noch im Winter in Metz an ihm gezehrt hatte: die eingefallenen Wangen, den unsteten Blick, das Zittern in den sehnigen Sehnen seiner Handgelenke. Doch die erbärmliche Gestalt des siechen Bettlers aus der Spitalkammer war verschwunden. Der Schlamm von Marsal klebte an seinen Waden, der Schweiß rann ihm über die Schläfen, und in seinen Muskeln spannte sich die Kraft eines Mannes, der Tag und Nacht Holz geschleppt und Lasten gewuchtet hatte.
 
-»Du hast deine Haut riskiert«, sagte sie leise.
+Alda zog die Zügel an und sprang vom Bock. Ihre groben Bundschuhe sanken bis über die Knöchel in den feuchten Schotter. Gerwin trat einen Schritt auf sie zu, zögerte, senkte den Kopf und blieb stehen, die Hände an den Hosenbeinen abwischend.
 
-»Ich habe Heinrichs Namen in den Schmutz gezogen«, erwiderte er tonlos. »Und deinen Hof. Ein paar Säcke Salz waschen das Blut nicht ab. Aber sie füllen den Wagen.« Er hob die Hände. Die Handflächen waren voller Schwielen, die Risse in der Haut standen weiß vom Salz, das sich in jede Wunde fraß und brannte. »Ich fahre den vorderen Karren. Bis zur Maas. Und wenn die Achse bricht, trage ich die Fässer auf dem Rücken.«
+»Alda«, brachte er hervor. Seine Stimme war rau, belegt vom Rauch der Siederöfen, doch sie zitterte nicht mehr vor panischer Furcht wie in Metz. »Du hast es über den Berg geschafft.«
 
-Alda schwieg. Sie streckte die Hand aus und legte sie nicht sanft, sondern mit festem, prüfendem Druck auf seinen Unterarm. Der Muskel darunter war hart wie gebeiztes Eichenholz. Sie spürte das Zittern der Übermüdung, aber auch den festen Halt.
+»Hartwig hat die Gespanne geführt«, antwortete sie sachlich und musterte die beiden beladenen Karren hinter ihm. »Und du? Ich sehe Salz. Echtes Riedsalz oder nur Strauchasche?«
 
-»Du fährst nicht vorn«, entschied sie. »Walo führt die Kolonne. Seine Schimmel kennen den Takt. Du nimmst den dritten Wagen. Knecht Berto bleibt bei deinen Hinterrädern. Wenn ein Riemen reißt, bist du nicht allein.«
+Ein schmerzhaftes Zucken lief über Gerwins Gesicht, doch er hielt ihrem Blick stand. »Vierzig Körbe, Alda. Trocken eingelagert hinter dem alten Heidentor, ehe wir die Hütten abbrannten. Ich habe jede Fuhre selbst geschaufelt und gebunden. Die Achsen sind mit Talg geschmiert, die Speichen mit frischen Keilen gesichert. Kein Körnchen geht verloren.« Er deutete mit dem Kinn auf die Deichseln. »Zwei Karren. Voll beladen. Meine Gespanne stehen drüben im Weidengehölz, wohlgenährt und ausgeruht.«
 
-Ein Schatten von Erleichterung huschte über Gerwins Züge, doch er nickte nur kurz.
+Alda trat an den ersten Wagen heran, schob die Hand unter den Saum der gefetteten Rinderhaut und bohrte die Fingerspitzen in das Weidengeflecht eines Korbes. Das Salz war trocken, grobkörnig und biss scharf in ihre rissige Haut. Sie zog die Hand zurück und rieb die weißen Kristalle zwischen Daumen und Zeigefinger.
 
-Da kletterte Berto vom Bock herunter. Der Junge war unruhig hin und her gerutscht, seine Neugier größer als der Respekt vor den ernsten Gesichtern der Erwachsenen. Er lief auf die Wagen seines Onkels zu, strich mit den Fingerspitzen über das grobe Segeltuch der Plane und hob eine kleine Handvoll weißer Krümel auf, die sich in einer Ritze des Korbgeflechts gefangen hatten. Er steckte die Zungenspitze daran, verzog das Gesicht und lachte laut auf.
+»Wer hat dir geholfen?«, fragte sie leise.
 
-»Das brennt wie Feuer!«, rief er und wischte sich den Mund mit dem Ärmel ab. Dann sah er Gerwin an, legte den Kopf schief und musterte dessen rußverschmiertes Gesicht. »Bist du jetzt ein Sieder, Oheim? Du riechst wie der Kamin in der Herberge.«
+»Drogo hat die Reifen aufgezogen«, sagte Gerwin und trat näher, die Stimme gedämpft. »Und der Schreiber. Er sitzt drüben in der Ruine und führt Buch über jeden Korb auf Wachstafeln. Er meidet das Tageslicht, Alda. Er fürchtet die Reiter des Bischofs noch immer mehr als den Teufel.«
 
-Gerwin sah den Knaben an. Zum ersten Mal seit Monaten brach das starre Gefüge seiner Züge auf; um seine Augen bildeten sich kleine, schmerzhafte Falten. Er ging vor dem Jungen in die Hocke, so dass ihre Gesichter auf gleicher Höhe waren. 
+Alda nickte langsam. Sie spürte keinen Zorn mehr, nur die kühle, lastende Schwere der Verantwortung. Das Geschehene – Berengars Verrat, Gerwins Blutschuld, Otwins Federstriche auf dem gefälschten Pergament – war wie geschmolzenes Eis im Frühjahr: Es hatte tiefe Rinnen in ihr Leben gerissen, aber der Fluss floss nun in ein neues Bett.
 
-»Ich bin ein Kärrner, Berto«, sagte Gerwin leise. »Genau wie du es werden musst. Wir fahren das weiße Zeug dorthin, wo Könige darum betteln. Und wenn wir dort ankommen, gehört uns der Lohn. Nicht Raginbert. Nicht dem Bischof. Uns.«
+In diesem Moment sprang Berto vom Holm des Karrens herab. Mit festen Schritten platschte er durch die Pfützen, blieb vor Gerwin stehen und sah zu dem hochgewachsenen Mann auf.
 
-Berto nickte eifrig. Er schien den Sinn der Worte kaum zu begreifen, wohl aber das Gewicht, das darin lag. Er wandte sich um und blickte stolz auf die lange Reihe der Karren, die sich nun hinter ihnen aufstaute. Sechzehn Gespanne standen jetzt im Tal von Marsal. Die Rosse schüttelten ihre Mähnen, schnaubten gegen den beißenden Geruch der Salzpfannen an und traten mit den Eisen in den Schotter. Es war kein Zug von Bettlern mehr, die vor den Vögten flohen. Es war eine Streitmacht aus Holz, Hanf und Pferdefleisch.
+»Bist du Gerwin?«, fragte das Kind mit jener unbefangenen Härte, die nur den Jungen eigen war, die früh das Dienen gelernt hatten. »Mutter sagt, du hättest unser Haus an den Grundherrn verloren.«
 
-Walo ritt auf einem seiner mächtigen Hengste heran, spuckte einen braunen Strahl Kautabak in den Dreck und blickte prüfend über Gerwins Ladung. Er klopfte mit der Faust gegen die Fassdaube des obersten Fasses. Der Klang war dumpf und trocken.
+Gerwin wich zurück, als hätte ihn eine Peitsche getroffen. Die Röte schoss ihm in die Wangen, doch er senkte den Blick nicht vor den klaren, forschenden Augen seines Neffen. Er ging langsam in die Hocke, bis seine Augen auf gleicher Höhe mit denen des Jungen waren. Der Schlamm drang durch seine Kniebunde, doch er achtete nicht darauf.
 
-»Gute Ware«, brummte der Rote. »Trocken geschlagen. Wenn das Wetter hält, verlieren wir auf dem Weg zur Maas kein Pfund durch Nässe. Aber wir müssen los, Weib. Die Straße nach Westen ist breit, und der König von Bayern hat seine Späher weit vorgeschickt. Wenn wir zwischen die lothringischen Haufen und die Sachsen geraten, fragen sie nicht nach Frachtbriefen.«
+»Ich habe eine schwere Schuld auf mich geladen, kleiner Berto«, sagte Gerwin leise, und seine Stimme klang heiser vor zurückgehaltenem Schmerz. »Eine Schuld, die man nicht mit Worten tilgen kann. Aber diese beiden Karren hier ... sie gehören dir und deiner Mutter. Ich werde sie nach Verdun ziehen. Und wenn ein Rad bricht, lege ich meine eigene Schulter unter die Achse, bis wir am Ziel sind.«
 
-»Wir brechen auf«, sagte Alda.
+Berto betrachtete Gerwins zerschundene Hände, dann die fest verzurrten Rinderhäute auf den Wagen. Er griff an seinen Gürtel, zog ein kleines Schnitzmesser hervor, das der alte Berto ihm im Winter aus einem alten Pflugeisen geschliffen hatte, und tippte mit dem Holzgriff gegen Gerwins Knie.
 
-Sie wandte sich nicht mehr nach Straßburg um. Straßburg lag hinter den Vogesen, versunken in der Willkür des Grundherrn und dem Staub eines leergeräumten Speichers. Ihr ganzes Gut, ihr Recht und ihr Leben lagen jetzt auf diesen Bohlen. Sie ging zurück zu ihrem Karren, griff die eiserne Trittstufe und schwang sich auf den Bock. Ihre Bewegungen waren sicher, frei von dem Zaudern, das sie im Winter gelähmt hatte. 
+»Die linke Radnabe am vorderen Karren eiert«, sagte der Junge ernst. »Du musst den Schließkeil fester eintreiben, sonst friert dir das Holz auf dem Steinpflaster fest, wenn wir nach Norden kommen.«
 
-Berto kletterte geschwind an ihrer Seite hinauf. Er setzte sich kerzengerade hin, zog die Knie an und legte die Hände auf das Holz, genau wie er es bei den alten Fuhrknechten gesehen hatte.
+Gerwin starrte das Kind an, dann hob er den Blick zu Alda. Seine Augen schimmerten feucht, doch seine Lippen formten sich zu einem grimmigen, festen Zug. Er nickte dem Jungen zu. »Ich hole den Schlägel, Kleiner. Zeig mir, wie weit der Keil hinein muss.«
 
-»Darf ich die Peitsche halten, Mutter?«, fragte er mit leuchtenden Augen.
+Alda wandte sich ab, um die Regung in ihrer Brust nicht sichtbar werden zu lassen. Es gab keinen Raum für Weichheit. Sie pfiff schrill durch die Zähne, ein Signal, das die Fuhrleute sofort verstanden. 
 
-»Die Peitsche bleibt im Halfter«, erwiderte Alda fest. »Ein guter Fuhrmann braucht die Peitsche nur für die Bremsen. Nimm die linken Zügel. Aber zieh nicht. Lass das Tier spüren, dass deine Hand da ist.«
+Hartwig und der alte Berto führten die Gespanne heran. Innerhalb einer halben Stunde wurden die Pferde umgeschirrt, frisches Brunnenwasser geschöpft und die Linien geordnet. Die beiden Karren Gerwins wurden an die Spitze des Trosses gesetzt, direkt hinter Aldas Fuhrwerk. Insgesamt sieben schwere Wagen bildeten nun den Konvoi; achtzig Fuder feinstes Siedsalz, die einzige Ladung dieser Art zwischen dem Rhein und den Maaslanden, die nicht unter dem herrschaftlichen Bann Raginberts oder des Stifts stand.
 
-Die kleinen Kinderhände griffen nach dem zähen Leder. Alda legte ihre eigenen, rauen Finger über die seinen. Sie spürte das Pochen seines Blutes, das warme, unbändige Leben in seinen Adern. 
+Aus den Schatten der römischen Mauerreste trat eine verhüllte Gestalt. Otwin hielt sich im Hintergrund, eine Kapuze tief ins Gesicht gezogen, die Wachstafeln unter den Mantel gepresst. Er suchte Aldas Blick, doch sie schenkte ihm nur ein knappes, herrisches Nicken. Er war der Schreiber; er kannte die Routen der königlichen Kämmerer, und dafür würde er seinen Anteil erhalten. Mehr nicht. Das geschriebene Recht hatte sie fast vernichtet; das gesprochene Wort und die Kraft ihrer Hände würden sie retten.
 
-Hinter ihnen rief Knecht Berto den Kutschern die Warnungen zu. Ketten klirrten, als die Hemmschuhe gelöst wurden. Die Knechte schwangen sich auf ihre Sitze, die Peitschenschnüre knallten trocken durch die feuchte Luft, und ein tiefes, grollendes Ächzen lief durch die Kolonne, als sechzehn schwer beladene Wagen gleichzeitig anrollten.
+»Hört zu!«, rief Alda, und ihre Stimme schnitt durch das Rauschen des Seille-Wassers und das Schnauben der Rösser. Die Fuhrleute, die Sieder, die noch bei den Ruinen ausharrten, und die Knechte hielten inne. 
 
-Die Eisenreifen schnitten in die alte Römerstraße, die nach Westen führte. Vor ihnen lagen die sanften, grünen Hügel Lothringens, über denen der Himmel aufbrach und die Frühlingssonne durch die Wolkenrisse brach. Das Licht fiel golden auf die Planen der Salzwagen, auf die dampfenden Rücken der Pferde und auf das Gesicht ihres Sohnes.
+»Vor uns liegt der Woëvre-Gau. Tiefer Morast, schlechte Dämme und die Heerstraßen der Könige. Wenn Lothars Vögte uns greifen, verlangen sie Zoll; wenn Raginberts Späher uns finden, verlangen sie unser Leben. Wir meiden die großen Brücken bei Metz. Wir nehmen den alten Dammweg westlich der Mosel, geradeaus auf Étain zu und dann an die Maas.«
 
-Sie zogen nach Westen. Nicht als Bittsteller, nicht als Gejagte. Mit jedem Mahlen der Räder auf dem Stein, mit jedem Tritt der Hufe im lothringischen Schotter holten sie sich Stück für Stück die Würde zurück, die ihnen im Schlamm von Straßburg genommen worden war. Alda blickte starr auf die Straße, die sich wie ein graues Band durch die weiten Wälder schnitt, geradewegs auf die Maas zu, wo die Könige über das Reich feilschten und eine Händlerin aus dem Elsass ihren Preis fordern würde.
+Sie zog das gespaltene Kerbholz aus ihrem Gürtel und hielt es hoch in die kühle Maienluft. Die frischen Kerben leuchteten weiß auf dem dunklen Buchenholz.
+
+»Ein Drittel für die Fuhrleute. Ein Drittel für die Riedsieder. Ein Drittel für meinen Hof. Wer weicht, verliert sein Holz. Wer steht, isst im Sommer sein eigenes Brot.«
+
+Hartwig stieß einen tiefen, rauhen Schrei aus, in den die anderen Männer einstimmten. Es war kein Kriegsgeschrei, sondern der heisere Ruf von Fuhrleuten, die den Schlamm gewohnt waren und wussten, dass ihr Recht allein auf der Festigkeit ihrer Achsen ruhte.
+
+Alda schwang sich wieder auf den Bock. Gerwin sprang auf den Karren hinter ihr, griff nach den Leitseilen seiner beiden Gespanne und rief Berto zu, der sich geschickt neben seine Mutter schwang. 
+
+»Halt dich fest, Sohn«, sagte Alda leise.
+
+»Ich halte mich«, erwiderte der Junge, packte das Rahmenholz und stützte seine Füße fest gegen das Bodenbrett.
+
+Alda hob die Zügel. »Vorwärts!«
+
+Die Peitschen knallten nicht; ein leises Schnalzen mit der Zunge genügte. Die schweren Kaltblüter stemmten ihre Hufe in den Schotter, die Stränge spannten sich, das Holz knarrte laut auf, als sich das ungeheure Gewicht der sieben Wagen in Bewegung setzte. Eisenringe mahlten über die alten römischen Pflastersteine, Wasser spritzte aus den Pfützen hoch und benetzte Bertos Beine, doch der Junge zuckte nicht einmal mit der Wimper.
+
+Der vereinte Zug verließ die rauchende Senke von Marsal und wandte sich nach Nordwesten, dem Lauf der Maas entgegen. Hinter ihnen verblasste der Geruch von verbranntem Holz im frischen Wind des Frühlings, der über die weiten, grünen Hügel strich. Auf Aldas Karren saß das Kind, aufrecht und mit wachem Blick, während hinter ihnen Gerwin mit gebeugtem Rücken ging, die Augen unverwandt auf die Fährte gerichtet, die seine Schwester in den Schlamm schnitt. Sie waren keine Bittsteller mehr, keine Gejagten auf der Flucht vor herrschaftlichen Pergamenten. Sie waren Fuhrleute, und die Straße nach Westen gehörte ihnen.
 

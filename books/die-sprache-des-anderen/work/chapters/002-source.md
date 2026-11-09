@@ -5,225 +5,99 @@
 
 ---
 
-Der Morast fraß an Aldas Bundschuhen. Mit jedem Schritt saugte der lehmige Grund des Rheintals an den Sohlen, gab schmatzende Laute von sich und drohte, das Leder von ihren Füßen zu reißen. Um sie her wälzte sich das Heer wie ein vielköpfiges Ungeheuer durch den Nebel. Es roch nach verbranntem Talg, nach feuchter Wolle, dem sauren Schweiß ungezählter Leiber und dem stechenden Dunst von Pferdepisse. Trossknechte schleppten halbe Rinderhälften an Stangen vorbei; das geronnene Blut tropfte dunkel in den grauen Altschnee. An einer Weggabelung fluchten Fuhrmänner aus dem Elsass auf zwei Kriegsknechte ein, deren bepacktes Maultier quer auf dem Knüppeldamm verendet war. Das Tier lag auf der Seite, die Augen gebrochen, weißer Schaum vor den Nüstern gefroren. Niemand hielt an. Man stieg darüber hinweg.
+Der Frost saß tief in den Furchen der Altstraße, doch die Hufe von tausend Pferden hatten die Kruste zerschlagen und den Grund in eine graue, schmatzende Brühe verwandelt. Alda trat auf die Ränder der Wagenspuren, wo das vergilbte Vorjahresgras noch ein wenig Halt bot, während ihr der beißende Dunst von nassem Loden, kaltem Pferdemist und erloschenen Lagerfeuern in die Kehle kroch. Reif hing wie Schafwolle in den nackten Ästen der Schlehdornhecken. Rechter Hand ragten die rissigen Reste einer heidnischen Schanze auf, bemooste Quader, aus deren Fugen der Schmelzwasserabfluss wie braune Gülle quoll. 
 
-Alda schlang die Arme um den Leib und zog die grobe Wollkappe tiefer in die Stirn. Das Schindertor lag hinter ihr, eine dunkle Scharte in den römischen Ziegelmauern der Stadt. Ihr Blick wanderte suchend über das Gewirr von Hütten aus Weidengeflecht, die man eilig mit Strohmatten gedeckt hatte, hinüber zu den höheren Zelten aus geöltem Tuch. Dort, wo die Standarten der Großen im feuchten Ostwind schlugen, musste das Zelt der Notare stehen. Jeder Graf führte Schreiber mit sich, magere Männer mit geschorenen Schädeln und klammen Fingern, die Zehntenlisten und Heeresbannrollen führten. Sie brauchte ein solches Paar Augen. Augen, die das Latein verstanden, mit dem Folker ihr das Haus über dem Kopf zerschlagen wollte.
+Die Königswiesen glichen einem aufgewühlten Flachwasser nach dem Eisgang. Überall standen die Männer gedrängt, Schulter an Schildbuckel, gehüllt in schwere Ziegenfelle und grob gewalkte Mäntel, die nach saurem Schweiß und geräuchertem Speck rochen. Fahnen aus gebleichtem Leinen und roter Wolle hingen klamm in der feuchten Luft, während sich das Gemurmel der Rotten zu einem dumpfen Grollen vereinte, das wie das Mahlen von Mühlsteinen über die Ebene rollte. Weiter vorn, wo der Baugrund leicht anstieg und das Gestrüpp für die Zelte der Großen gerodet worden war, blitzten Kettenhemden im fahlen Februarlicht.
 
-Ein Hufschlag hallte dumpf auf den Eichenbohlen des befestigten Weges. Alda wich zur Seite aus, trat knöcheltief in eine gefrorene Pfütze, dass das Eis unter ihrem Gewicht krachte. 
+Alda schob sich an einem Trosskarren vorbei, dessen Eschenholzachse gebrochen im Dreck lag. Sie kannte das Holz, roch den frischen Bruch, der noch nach Saft schmeckte; der Fuhrmann hatte das Gespann überladen, blind für die Schwäche der Faser. Ihr Blick suchte nicht nach Königen. Sie suchte nach den Farben, die man an den Anlegern der Ill fürchtete, nach dem blassen Blau und dem Waidgrün, das Raginberts Knechte an ihren Wämsern trugen.
 
-Drei Reiter schoben sich aus dem Dunst. Voran ritt ein Mann auf einem mächtigen braunen Wallach, dessen Zaumzeug mit silberbeschlagenen Riemen verziert war. Der Reiter trug einen schweren, mit Fuchspelz gefütterten Mantel aus tiefblauem Tuch, darunter blitzte der Saum eines fein gewirkten Kettenhemdes hervor. Sein Gesicht war glatt rasiert nach Art der hohen Herren am Hofe, die Wangen voll und von der Kälte gerötet, die Augen von einem wässrigen, unbarmherzigen Grau. 
+Sie fand ihn schneller, als ihr lieb war.
 
-Raginbert. 
+Am Rande eines Bretterverschlagenen Zeltes, wo der Boden mit frischem Roggenstroh bestreut war, stand Raginbert auf einem umgestürzten Eichenklotz, um seine ledernen Bundschuhe vor dem Unrat zu bewahren. Er trug einen dichten, ottergefütterten Umhang, der mit einer runden Fibel aus Bronze auf der rechten Schulter gehalten wurde, und sprach mit leiser, beiläufiger Stimme auf zwei Reiter ein. Seine Züge waren glatt, unberührt von der schneidenden Luft, das Kinn sorgfältig geschoren wie bei den Klerikern in der Bischofsstadt. Ein paar Schritte hinter ihm, halb im Schatten einer zerschlissenen Zeltbahn, duckte sich eine schmale Gestalt in einer dunklen, abgewetzten Kutte.
 
-Aldas Atem stockte. Das Blut rauschte ihr in den Ohren, heiß und jähzornig gegen die Kälte des Morgens. Neben dem Grundherrn ritt nicht Folker, sondern ein schmaler Mann auf einem zottigen Klepper. Er hielt sich krumm im Sattel, als schmerze ihn jede Bewegung. Seine Hände, die krampfhaft die Zügel umklammerten, waren blau gefleckt von Kälte und Tinte; unter der fransigen Kapuze schaute ein Gesicht hervor, das Alda noch nie gesehen hatte – bleich, mit eingefallenen Wangen und unsteten, fiebrigen Augen, die ständig zwischen den Hufen seines Pferdes und dem Rücken seines Herrn hin- und herwanderten. Hinter ihnen trabte ein berittener Knecht, der die Lanze auf den Oberschenkel gestützt hielt.
+Alda blieb drei Schritt vor dem Grundherrn stehen, die Fäuste tief in die Manteltaschen vergraben, die Finger um das Kerbholz geschlossen, dessen Kanten ihr hart in die Handfläche schnitten.
 
-Raginbert zügelte sein Pferd nicht, doch er verlangsamte den Schritt, als sein Blick Alda traf. Ein feines, kaum merkliches Lächeln kräuselte seine Lippen. Er kannte sie. Er kannte jeden Bürger Straßburgs, der ein Schiff auf der Ill oder einen Speicher am Flussufer besaß.
+»Herr Raginbert«, sagte sie. Ihre Stimme trug nicht weit im Getöse der Hörner, doch sie war fest wie trockenes Buchenholz.
 
-»Die Witwe Berengar«, sprach Raginbert. Seine Stimme war ruhig, tief, ohne jede Hektik, der Tonfall eines Mannes, der es gewohnt war, dass vor ihm gewichen wurde. »Ich dachte, du wärst daheim am Herd und hieltest deine Kammern feil für die neuen Herren. Das Lager der Könige ist kein Ort für ein Weib, dessen Mann unter dem Rasen fault.«
+Der Grundherr wandte den Kopf nicht hastig. Er ließ den Reitern noch ein Nicken zukommen, ehe sein Blick langsam über ihren lehmverkrusteten Saum glitt und schließlich an ihren Augen hängen blieb. In seinem Gesicht regte sich weder Zorn noch Überraschung; es war die träge Geduld eines Mannes, der zusieht, wie das Korn in den Trichter rieselt.
 
-Alda richtete sich auf. Sie spürte die Nässe, die langsam durch ihre Wadenwickel kroch, spürte das Zittern ihrer Knie, doch sie zwang ihr Kinn nach oben. »Mein Hof gehört mir und meinem Sohn, Herr Raginbert. Bis zum Martinstag, so steht es im Recht der Freien. Doch deine Knechte haben meine Kähne an die Kette gelegt und meine Rosse aus dem Stall geschlagen. Das ist kein Bannrecht. Das ist Raub.«
+»Alda«, sprach er, und seine Stimme klang voll, fast väterlich, ohne jede Schärfe. »Du solltest am Herd sein. Der Wind vom Rhein her bringt Husten und Fieber, und eine Witwe hat wenig Fleisch auf den Rippen, um dem Frost zu trotzen.«
 
-Raginbert lachte leise, ein trockenes Glucksen in der Kehle. Die Reiter um ihn herum hielten an, der Trosswich ihnen respektvoll aus. Kriegsknechte mit Rundschilden wichen ins Geäst, um den Weg für den Grundherrn freizuhalten. 
+»Die Kähne an der Ill frieren fest«, entgegnete sie, ohne den Gruß zu erwidern. »Euer Vogt hat Eisen um das Ruderwerk gelegt und meine Zugtiere weggeschlagen. Ihr brecht die Fuhren, ehe das Eis bricht.«
 
-»Raub?«, wiederholte Raginbert und neigte den Kopf leicht zur Seite, als lausche er dem Gezwitscher eines unbedeutenden Vogels. »Große Worte für eine Frau, deren Mann das Erbe seines Vaters verspielt hat wie ein Trunkenbold seine letzten Pfennige in der Schenke.« Er wandte sich im Sattel um und nickte dem schmalen Mann auf dem Klepper zu. »Otwin. Zeig der Witwe, was ihr geliebter Heinrich ihr hinterlassen hat. Man sagt, das einfache Volk glaube nur, was es mit Händen greifen kann. Obwohl du«, sein Blick glitt herablassend über Aldas grobes Wams, »ohnehin nur Bilder verstehst.«
+Raginbert stieg bedächtig von dem Klotz herab. Seine Sohlen knirschten auf dem Stroh. »Ich breche nichts, Frau. Ich nehme das Pfand, das mir die Ordnung zusteht. Dein Mann Berengar war ein tapferer Narr, Gott gebe seiner Seele Rast auf den blutigen Wiesen von Fontenoy. Doch Mut bezahlt kein Silber. Dreißig Pfund, gewogen nach königlichem Korn. Die Frist war gesetzt, als das Korn noch grün stand. Nun ist das Feld kahl, und die Schuld liegt noch immer offen.«
 
-Der Schreiber – Otwin – zuckte zusammen. Er griff mit steifen Fingern unter seinen dünnen Wollmantel und zog ein Futteral aus geschwärztem Leder hervor. Seine Hände zitterten so heftig, dass er den Knebelverschluss kaum öffnen konnte. Alda sah, wie seine Kehle auf und ab ging, als schlucke er an einer Gräte. Seine Augen trafen für einen winzigen, flüchtigen Lidschlag die ihren, und darin lag keine Härte, keine Verachtung wie bei Raginbert, sondern eine nackte, elende Furcht. 
+»Berengar hat den Zins gebracht«, sagte Alda. Sie zog das Buchenholz hervor, hielt es ihm hin, den Daumen auf den tiefen Einkerbungen. »Hier. Zwei Pfund im Herbst vor zwei Jahren, drei Pfund zu Walpurgis, bevor er dem Bann nach Burgund folgte. Jeder Schnitt ein Schilling, jeder Querstrich ein Pfund. Der Vogt hat sein Zeichen daneben geritzt, ein Kreuz mit dem Messerspitz.«
 
-Otwin zog eine Pergamentrolle hervor. Das Leder war an den Rändern vergilbt, vom Fett vieler Hände speckig, doch die Tinte stand darauf in dichten, fremdartigen Zeilen. Alda starrte auf das Blatt. Es waren schwarze Zeichen, kantig, mit langen Hälsen und geschwungenen Bäuchen, manche spitz wie Speerspitzen, andere rund wie Schilde. Für sie waren es tote Käfer, aufgereiht an einer Schnur, stumm und unerbittlich.
+Raginbert sah nicht einmal hinab auf das Holz. Sein Blick blieb ruhig auf ihrer Stirn liegen, als betrachte er einen Riss im Verputz einer Scheunenwand.
 
-»Lies es ihr vor, Otwin«, befahl Raginbert schneidend. »Wort für Wort. Auf dass sie begreift, warum der Vogt heute die Ketten schloss.«
+»Ein Ast aus dem Wald beweist nichts, Weib. Jeder Knecht kann mit der Hippe ins Holz schneiden, wenn die Nächte lang sind und der Most sauer wird.« Er wandte den Kopf zur Zeltbahn. »Otwin. Tritt vor.«
 
-Otwin räusperte sich. Seine Lippen waren spröde und rissig vom Frost. Als er ansetzte, klang seine Stimme dünn, fast kläglich im schneidenden Wind: »*Notum sit omnibus fidelibus Christi...*«
+Die Gestalt im Schatten rührte sich. Der Mann, der herantrat, war jung, kaum älter als fünfundzwanzig Winter, doch seine Schultern hingen, als trüge er einen Kornsack über eine steile Laderampe. Seine Wangen waren eingefallen, bläulich von der Kälte, und an seinen schmalen Fingern klebten schwärzliche Spuren von Gallapfeltinte. Er hielt ein gefaltetes Kalbsleder vor der Brust, klammerte sich daran fest, als böte es Schutz gegen den schneidenden Ostwind. Seine Augen mieden Aldas Gesicht; sie irrten über den Schlamm zu ihren Füßen, zuckten zu den Fellen an Raginberts Schulter und blieben schließlich an den Spitzen seiner eigenen Schuhe haften.
 
-»Halt ein mit dem Pfaffengeschwätz!«, fuhr Alda dazwischen. Sie trat einen Schritt vor, ungeachtet des Pferdekopfes, der schnaubend nach ihr schnappte. »Ich kenne euer Kirchenlatein nicht! Was steht dort über Heinrich? Was steht dort über mein Haus?«
+»Lies es ihr vor«, befahl Raginbert gelassen. »Auf dass sie versteht, warum der Vogt rechtmäßig gehandelt hat. Lies die Worte, die vor Gott und dem Kanzler Gültigkeit haben.«
 
-Otwin hielt inne. Er senkte das Pergament um eine Daumenbreite. Seine Fingerknöchel traten weiß hervor. Er blickte kurz zu Raginbert, dessen Hand schwer und ruhig auf dem Sattelknauf ruhte, die Finger in pelzbesetzten Handschuhen. Dann wandte sich Otwin wieder an Alda, und seine Zunge stieß schwer an die Zähne.
+Otwin schluckte. Seine Kehle bewegte sich krampfhaft über dem groben Wollkragen. Mit zitternden Fingern, deren Nägel rissig und abgekaut waren, entrollte er das Pergament. Das Leder war steif von der Feuchtigkeit, es widersetzte sich dem Griff und knisterte wie dürres Schilf im Frost.
 
-»Es... es besagt«, stammelte der Schreiber, und seine Mundart verriet ihn als einen, der am Mittelrhein aufgewachsen war, »dass Heinrich, Sohn des Berengar, dem edlen Grundherrn Raginbert dreißig Pfund Silber schuldet. Aufgenommen zu Worms im vergangenen Herbst. Verpfändet dafür... verpfändet ist der gesamte Fuhrbetrieb, das Wohnhaus am Schindertor, die fünf Weidling-Kähne an der Ill und die Gerechtigkeit am Flusszoll.«
+Alda starrte auf die dunklen Zeichen. Sie standen dort in Reih und Glied, fremd, abweisend und drohend wie eine Hecke aus Eisendornen. Nichts daran erinnerte an die vertrauten Züge eines Kerbholzes, nichts an das gesprochene Wort eines Handschlags auf dem Marktplatz, wo ein Blick genügte, um das Gewicht einer Schiffsladung Hafer zu besiegeln. Es waren stumme Striche, und doch schienen sie Zähne zu haben.
 
-Aldas Brust zog sich zusammen, als hätte man ihr ein eisernes Band um die Rippen gelegt. Worms. Heinrich war im Herbst in Worms gewesen, angeblich um Getreideverträge zu schließen. Er war blass zurückgekehrt, schweigsam, hatte Nächte am Tisch gesessen und in das Talglicht gestarrt.
+»In nomine sanctae et individuae Trinitatis«, begann Otwin. Seine Stimme war dünn, heiser, verlor sich fast im fernen Dröhnen einer Heerposaune. Er stockte, holte Atem, und sein Blick huschte für den Bruchteil eines Herzschlags zu Alda – ein Blick voll nackter, schamhafter Furcht, der sogleich wieder auf das Leder fiel. »Notum sit omnibus fidelibus... dass Berengar, Fuhrmann zu Straßburg, schuldet dem edlen Herrn Raginbert dreißig Pfund gereinigten Silbers, aufzunehmen für Rüstung und Pferd. Und so er fällt oder die Summe nicht erlegt bis zum Tage des heiligen Martin, so soll all sein Fahrnis, sein Speicher an der Ill, die drei Lastkähne samt allem Zubehör und das Wohnrecht an Hof und Garten unweigerlich und ohne Einrede an den Gläubiger fallen...«
 
-»Und die Frist?«, stieß sie hervor. »Der Martinstag! Das Recht gibt dem Schuldner ein Jahr und einen Tag!«
+»Halt ein«, unterbrach ihn Alda. Ihr Herz schlug schwer gegen die Rippen, wie ein loser Eimer im Brunnen. »Berengar hatte sein Pferd. Er brauchte keine dreißig Pfund für die Schlacht. Dreißig Pfund sind das Vermögen eines halben Dorfes! Er ritt auf der Schimmelstute, die sein Vater ihm hinterließ, und trug den Ringpanzer meines Bruders.«
 
-Otwin schluckte erneut. Sein Blick glitt über die Zeilen, hastig, wie ein Dieb, der nach einem Ausweg sucht. Er deutete mit einem tintenbefleckten Zeigefinger auf eine geschwungene Zeile nahe dem unteren Rand, wo ein dunkler Wachsklecks klebte.
+Otwin schwieg. Er senkte das Pergament nicht, doch seine Finger krampften sich so fest in das Leder, dass die Ränder einrissen. Er sah sie nicht an. Nicht ein einziges Mal.
 
-»Hier«, flüsterte er, »steht geschrieben: *statim post festum sancti Valentini*. Bei Zahlungsunfähigkeit... fällt das Pfand am Tage des heiligen Valentin an den Gläubiger, sollte die Bürgschaft nicht durch klares Silber erneuert werden.«
+»Er hat es gesiegelt«, sagte Raginbert mit unerschütterlicher Milde. »Das Wachs trägt den Stempel des Kanzleischreibers. Siehst du das rote Zeichen dort unten? Das bricht kein Fuhrmannsfluch und kein Buchenspan. Latein lügt nicht, Alda. Die Sprache der Kirche und der Könige kennt kein Vergessen. Du hast Zeit bis Martini, um das Silber zu beschaffen. Bis dahin bleiben die Kähne an der Kette, damit das Pfand nicht auf dem Rhein davonschwimmt. Und die Rosse leisten ihren Dienst für König Ludwig, der sie nötiger braucht als eine Witwe, die nur noch Mehlstaub hütet.«
 
-Alda starrte den Schreiber an. »Valentin? Das ist heute! Das ist heute früh! Folker sprach von Martini!«
+»Das ist Diebstahl«, stieß sie hervor. Die Wut schnürte ihr die Kehle zu, heiß und bitter wie Ruß. »Ihr habt die Schrift gesetzt, wie es euch gefiel! Berengar konnte so wenig lesen wie ich. Wenn er eine Hand auf dieses Kalbsleder legte, dann im Glauben, er bürge für fünf Fuder Salz oder die Fracht nach Speyer!«
 
-»Folker ist ein Knecht, der die Feder nicht von einem Pflugsterz unterscheiden kann«, warf Raginbert mit eisiger Gelassenheit ein. Er beugte sich im Sattel leicht herab, so nah, dass Alda den Geruch von Gewürznelken in seinem Atem wahrnahm – ein Duft aus fernen Ländern, den sich nur die Reichsten leisten konnten. »Die Schrift irrt nicht, Witwe. Die Schrift lügt nicht. Heinrich hat sein Kreuz darunter gesetzt. Dort, siehst du es? Das Kreuz eines Mannes, der wusste, dass er verloren hatte. Das Pergament gehört mir. Das Land gehört mir. Und deine Kähne fahren ab heute für das Heer meines Herrn, König Ludwig.«
+Raginbert lächelte nicht einmal. Er zog die Handschuhe aus weichem Hirschleder straff. »Das Recht ist kein Handel um Fische, Weib. Es steht geschrieben. Geh nach Haus. Sei froh, dass ich dir das Dach über dem Kopf lasse, bis der Frost weicht.«
 
-»Du lügst«, sagte Alda. Ihre Stimme zitterte nicht mehr. Sie war flach, hart, wie zwei Steine, die man aneinanderschlug. »Heinrich hätte niemals unser Haus verwirkt. Er hätte Berto nicht auf die Straße gesetzt. Du hast die Schrift gekauft! Du hast diesen Schreiberling bezahlt, damit er Lügen auf die Haut malt!«
+Er wandte sich ab, als existiere sie nicht mehr, trat wieder auf den Holzbock und winkte einem herankommenden Hauptmann zu. Otwin rollte das Pergament hastig zusammen. Für einen Wimpernschlag begegneten sich ihre Blicke. In den Augen des Schreibers lag kein Hochmut, keine Kälte wie bei seinem Herrn; da war nur eine elende, kriechende Qual, das Entsetzen eines geschlagenen Hundes, der weiß, dass er den falschen gebissen hat. Ehe Alda ihn packen konnte, ehe sie ihm die Schrift aus den feigen Händen reißen konnte, wich er rückwärts in die Schatten der Zeltwand zurück und verschwand zwischen den Fässern und Ballen des Lagers.
 
-Otwins Kopf fuhr herum, als hätte sie ihn geschlagen. Seine Augen weiteten sich, eine Welle von Scham oder Entsetzen – sie konnte es nicht unterscheiden – überzog seine Wangen mit einer matten Röte. Er rollte das Pergament hastig zusammen, fast grob, als ertrüge er den Anblick der eigenen Buchstaben nicht mehr.
+Alda stand allein im Matsch. 
 
-»Genug des Geschwätzes«, schnitt Raginbert ihr das Wort ab. Die Milde war aus seinem Gesicht gewichen; die Augen waren jetzt schmal wie Schlitze in einer Festungsmauer. »Ich bin ein geduldiger Mann, Alda. Ich lasse dir dein Dach über dem Kopf bis zum Abend. Bring mir dreißig Pfund Silber, gewogen und rein, oder räum das Haus vor der Komplet. Mein Vogt wird die Riegel vorlegen. Und wenn du dich wehrst, lasse ich deinen Buben in die Hofmark bringen. Ein kräftiger Junge findet immer Arbeit an den Schlägen der Schweinehirten.«
+Das Gefühl der Ohnmacht legte sich wie Blei auf ihre Brust. Sie wusste, wie man eine Kufe aus Eschenholz bog, sie wusste, wie viel Last ein Lastkahn bei Niedrigwasser tragen konnte, ohne auf den Kiesbänken der Ill aufzusetzen. Sie konnte den Wert von zehn Säcken Korn auf den Pfennig genau gegen Salz aus dem Westen aufwiegen. Doch gegen diese toten schwarzen Haken auf der Tierhaut gab es kein Werkzeug. Man konnte sie nicht mit der Axt spalten, man konnte sie nicht mit Getreide aufwiegen. Das Pergament war taub für ihre Stimme.
 
-»Fass ihn an«, zischte Alda, und ihre Hände ballten sich zu Fäusten, »und ich schneide dir im Schlaf die Kehle ab, Raginbert. Bei Gott und allen Heiligen, ich tue es.«
+Ein gellender Ton riss sie aus der Erstarrung. 
 
-Raginberts Lanzenknecht machte eine drohende Bewegung mit der Waffe, doch der Grundherr hob bloß lässig die Hand. »Ein Weib bellt, aber es beißt nicht. Komm, Otwin. Die Könige warten nicht auf uns. Der Hofkaplan will die Abschriften vor der Mittagsstunde sehen.«
+Das dumpfe Gemurmel des Heeres schwoll mit einem Schlag zu einem Brausen an, das die Erde unter ihren Sohlen zittern ließ. Von den Wällen der alten Heidenschanze herab stießen die Bläser in lange, gewundene Hörner. Trommeln schlugen einen harten, stampfenden Takt. Die Menge der Krieger setzte sich in Bewegung, drängte wie aufgestautes Treibeis nach vorn, riss Alda fast von den Beinen. Sie musste die Ellbogen einsetzen, sich gegen breite, stinkende Lederwämser stemmen, um nicht unter die Hufe der herandrängenden Reitknechte zu geraten.
 
-Er gab seinem Wallach die Fersen. Das schwere Tier drängte vorwärts; eine seiner Schultern streifte Aldas Arm und warf sie fast in den Schlamm. Sie fing sich mühsam an einem Zaunpfahl ab. Otwin folgte seinem Herrn. Als er an ihr vorüberritt, blickte er sie noch einmal an. Seine Lippen bewegten sich lautlos, formten ein Wort, das im Hufgeklapper und dem Geschrei der Treiber unterging. Es sah aus wie eine Entschuldigung. Oder wie ein Gebet. Alda spie vor die Hufe seines Kleppers aus.
+Die Strömung trug sie mit sich, fort von Raginberts Zelt, hinein in das dichte Spalier der Truppen, die sich auf der weiten, baumlosen Senke formierten. 
 
-Sie stand allein im Morast, während die drei Reiter im Getümmel des Heerlagers verschwanden. Dreißig Pfund. Bis heute Abend. Eine Summe, die ein freier Schiffer in fünf Jahren harter Arbeit auf dem Fluss nicht zusammenbrachte, selbst wenn jede Ladung Wein und Salz unbeschadet die Zölle passierte. Sie war rechtlos. Ein einziges Stück gegerbtes Kalbsleder, beschrieben von fremden Händen in einer Sprache, die kein Fischer, kein Gerber und kein Bauer an den Ufern der Ill verstand, wischte das Werk dreier Generationen fort. 
+Dort, auf einer Erhöhung aus aufgeschüttetem Lehm und alten Steinquadern, die man aus den Ruinen gerissen hatte, standen zwei Männer. Sie waren gekleidet wie Krieger, nicht wie Priester. Über ihren Kettenhemden trugen sie kurze, feine Mäntel, der eine in tiefem Purpur, der andere in kühlem Blau, die Ränder mit Golddraht besetzt. Der größere von ihnen, Ludwig mit dem gelblichen, wettergegerbten Bart, der das Heer der Bayern, Sachsen und Alemannen anführte, hob die gepanzerte Rechte.
 
-Ein dumpfes Grollen riss sie aus ihrer Erstarrung. 
+Stille senkte sich über das Feld. Es war keine lautlose Stille; zehntausend Männer atmeten in der Kälte, Schilde klirrten leise aneinander, Pferde schnaubten feuchte Dampfwolken in den Himmel, doch das Geschrei und das Fluchen erstarben.
 
-Es kam nicht von den Karren, nicht von den Hufen. Es war der Klang tausender Kehlen, tief, vibrierend wie das Brausen des Rheins zur Schneeschmelze. Aus dem Zentrum des Lagers, dort, wo die Ebene zu einer weiten, baumlosen Senke abfiel, drängten die Menschenmassen zusammen. Bewaffnete liefen herbei, ließen ihre Feuerstellen brennen, stießen Alda fast um, als sie den Hügel hinabstürmten.
+Ludwig trat vor. Seine Stimme war nicht das zarte Gemurmel eines Schreibers, sie war das Brüllen eines Mannes, der gewohnt war, gegen Sturm und Schlachtlärm anzuschreien. Er sprach nicht in den fremden, geschliffenen Lauten der Messe. Die Worte, die über die Köpfe der Fahrensleute, der Freien und der Panzerreiter hinwegrollten, waren die Laute, die Alda von den Laderampen der Ill kannte, die Worte, die die Schiffer sangen, wenn sie das Treidelvolk anfeuerten.
 
-»Sie treten zusammen!«, schrie ein junger Krieger mit einem zerschlissenen Lederwams im Vorbeirennen auf Elsässisch. »Die Brüder! Sie schwören!«
+»In godes minna«, rief der König, und der Schall trug weit über den feuchten Grund, »ind in thes christanes folches gehaltnissi...«
 
-Ein Strom von Leibern riss Alda mit sich. Sie wehrte sich nicht. Ihre Füße trugen sie mechanisch vorwärts, betäubt von dem Schlag, den Raginbert ihr versetzt hatte, hinein in das Gedränge. Wenn alles verloren war, wenn ihr Hof am Abend versiegelt wurde, was zählte es dann noch, wo sie stand?
+Aldas Atem stockte. 
 
-Sie fand sich am Rande einer riesigen Menschenmauer wieder. Zehntausend Männer, vielleicht mehr, standen im Halbkreis um eine erhöhte Holzplattform, die man eilig aus frisch gefällten Kiefernstämmen über dem Schnee errichtet hatte. Auf der Bühne standen Bischöfe in goldgewirkten Messgewändern, deren Krummstäbe matt im milchigen Winterlicht glänzten. Priester schwangen Weihrauchfässer; der süßliche, schwere Rauch vermengte sich mit dem Dunst der tausendfachen Atemzüge zu einer trägen Wolke über den Köpfen der Menge.
+Sie verstand jedes Wort. Es war die Sprache ihrer Mutter, die Sprache, in der sie mit Berto stritt, in der sie auf dem Markt den Preis für Hanfseile aushandelte. Für die Liebe Gottes und des christlichen Volkes Heil. Der König schwor seinem Bruder Beistand. Er schwor, ihn nicht zu verraten, seine Männer nicht zu verführen, das Recht nicht zu beugen. Er sprach es so, dass der geringste Knecht am Rand des Grabens es hören und mit seinem Nachbarn teilen konnte. Kein Pergament trennte den Mund des Herrschers von den Ohren seiner Leute.
 
-Und vorn, an der Brüstung, standen zwei Männer.
+Ein tiefes, gutturales Brüllen antwortete ihm aus den Kehlen der Scharen östlich des Rheins, ein Aufschreien von Tausenden, die mit den Schwertknäufen gegen ihre Lindenholzschilde schlugen, bis die Luft vibrierte wie das Gehäuse einer Glocke.
 
-Alda brauchte niemanden zu fragen, wer sie waren. Der eine, Ludwig, Herr über die Ostfranken, die Bayern und die Sachsen, war von breitem Wuchs, mit einem wettergegerbten, harten Gesicht unter einer schlichten Kappe, umhüllt von einem Pelzmantel aus einheimischem Bärenfell. Neben ihm stand Karl, sein jüngerer Halbbruder, der Herr des Westens – feingliedriger, jünger, in einem Mantel aus purpurroter Seide, die aus den Werkstätten von Rom oder Byzanz stammen musste, das dunkle Haar kunstvoll gescheitelt.
+Kaum war der Hall verklungen, trat der andere vor. Karl, der jüngere, schmaler im Gesicht, mit dunklem Haar, das ihm nass an den Schläfen klebte. Er wandte sich nicht an seine eigenen Leute. Er blickte zu den Scharen seines Bruders hinüber, zu den Männern aus dem Westen, den Franken, die an den Ufern der Seine und der Maas saßen. Und als er den Mund auftat, klangen die Worte fremd und weich, schleifend wie das Schleifen von Weidenruten über einen seichten Flussgrund, und doch erkannte Alda den Takt, den die Fuhrleute aus dem Westen mitbrachten, wenn sie Wein aus den Tälern der Mosel an die Ill fuhren.
 
-Es war totenstill geworden. Das Gebrüll der Ochsen am Rande des Lagers, das Hämmern der Hufschmiede – alles schien zu ersterben. Selbst der Ostwind schien den Atem anzuhalten über dieser Ebene bei Straßburg.
+»Pro Deo amur et pro christian poblo et nostro commun salvament...«
 
-Alda stand eingekeilt zwischen einem bayerischen Lanzenträger, der nach ranzigem Speck roch, und einem älteren Krieger aus dem Westen, dessen Schild mit verblasster roter Farbe bemalt war. Niemand sprach. Zehntausend Krieger warteten auf das Latein der Bischöfe. So war es immer gewesen. Die Priester sprachen die heiligen Worte, unbegreiflich, geheimnisvoll wie Zaubersprüche, und das Volk neigte das Haupt und glaubte.
+Auch Karl schwor. In der Zunge der anderen, damit kein Mann sagen konnte, er habe den Eid nicht vernommen, er sei betrogen worden durch die Heimtücke unkundiger Laute.
 
-Doch König Ludwig trat nicht zurück, um dem Erzbischof das Wort zu überlassen. Er trat vor an den Rand der Bohlen. Er blickte nicht zu den Gelehrten, nicht zu den Gesandten mit ihren Wachstafeln. Er blickte hinab auf die Krieger Karls, auf die Männer aus dem Westen, die seine Sprache nicht sprachen.
+Die Krieger antworteten mit demselben Dröhnen. Sprachen prallten aufeinander, vermischten sich im Nebel zu einem einzigen, gewaltigen Strom aus Atem und Willen. Hier draußen, unter dem offenen Himmel, galt das gesprochene Wort. Es band Könige aneinander, es band das Heer an den Herrn, festgeschmiedet vor den Augen aller durch den bloßen Laut der menschlichen Stimme.
 
-Ludwig holte tief Luft. Seine Stimme, gewohnt, über Schildwälle hinweg zu befehlen, schnitt durch die Kälte:
+Alda stand regungslos im Schlamm, während die Männer um sie her jubelten, rau und heiser, trunken von der Macht dieses Augenblicks. Tränen der Kälte und des Zorns brannten auf ihren Wangen, doch sie wischte sie nicht fort.
 
-»*Pro Deo amur et pro christian poblo et nostro commun salvament...*«
+Der Kontrast schnitt ihr ins Herz wie ein frisch geschliffenes Reifmesser. 
 
-Alda fuhr zusammen. Neben ihr keuchte der westfränkische Krieger auf, seine Hand krampfte sich um den Eschenschaft seiner Lanze.
+Dort oben schworen die Herren der Welt in den Zungen der Knechte und Schiffer, um Glauben zu finden. Sie beugten ihre Zungen unter die Laute des Volkes, weil nur das verstandene Wort die Männer dazu brachte, ihr Blut auf den Feldern zu lassen. Und hier unten, nur wenige Pfeilschüsse entfernt im Halbdunkel eines Zeltes, zertrat ein Grundherr ihr ganzes Leben mit ein paar Zeilen aus toter Kanzleisprache, die niemand an der Ill je gesprochen oder verstanden hatte. Raginbert brauchte nicht zu schwören. Er brauchte nur ein Stück Kalbsleder, beschrieben von einem zitternden Knecht, um ihr die Rosse zu rauben, die Kähne an die Kette zu legen und ihren Sohn Berto in den Staub der Knechtschaft zu stoßen.
 
-Es war kein Latein.
+Sie presste die Hand auf ihren Lodenmantel, spürte das kalte, unnachgiebige Metall des Gürtels ihrer Mutter darunter. Er war echt. Er war schwer. Er war gegossen aus Erz, das Feuer und Wasser überstanden hatte, genau wie ihr Wille.
 
-Es waren die Worte, die man westlich der Vogesen sprach, in den Dörfern an der Maas und der Marne, die Sprache der Fischer und Bauern, weich geschliffen, den Alda von den Schiffern kannte, die flussaufwärts kamen, aber roh und wahrhaftig gesprochen. Ein König sprach die Zunge seiner Mägde und Knechte. Er sprach sie holprig, mit dem harten Akzent der Germanen, doch jedes Wort war verständlich. Er schwor, seinem Bruder beizustehen, kein Unrecht zu tun, das Reich zu wahren – nicht verborgen hinter den gelehrten Floskeln der Schreiber, sondern so, dass jeder Fußsoldat im Schlamm begreifen konnte, was versprochen wurde.
+Die Könige mochten schwören, wem sie wollten. Der Kaiser im Norden mochte das Reich zerreißen oder zusammenhalten. Doch wenn das lateinische Pergament ihre Welt vernichten wollte, dann würde sie nicht weinend an der Kaimauer warten, bis der Schmelzwasserabfluss die Schwalbe und den Auerhahn zermalmte.
 
-Als Ludwig schwieg, ging ein Seufzen durch das Heer, wie ein Windhauch durch trockenes Schilf.
+Sie wandte sich um, stemmte sich gegen den Strom der abziehenden Krieger und suchte ihren Weg zurück durch den Morast. Raginbert hatte ihr eine Frist gesetzt. Dreißig Pfund Silber bis Martini. Es war eine Zahl, gedacht, um sie zu erdrücken, um sie auf die Knie zu zwingen.
 
-Dann trat Karl vor. Der junge König aus dem Westen hob die rechte Hand. Er wandte sich nicht an seine eigenen Leute, sondern an die Ostfranken, an die Bayern und Alemannen, die um Alda herum standen. Er blickte ihnen in die Augen, und als er den Mund auftat, klang seine Stimme heller, aber fest:
-
-»*In Godes minna ind in thes christanes folches gehaltnissi...*«
-
-Ein Ruck ging durch die Reihen. Der bayerische Krieger neben Alda stieß ein heiseres Knurren aus, die Tränen traten ihm in die Augenwinkel. 
-
-*In Godes minna.* In Gottes Liebe. Es war ihr eigenes Wort. Das Wort, das Alda ihrer Mutter nachgesprochen hatte, das Wort, das sie Berto lehrte, wenn er am Abend die Hände faltete. Karl schwor den gleichen Eid, Wort um Wort, doch in der Sprache des Ostens, im Idiom derer, die er gestern noch bekriegt hatte.
-
-Zwei Könige, Enkel des großen Kaisers Karl, standen auf nassen Fichtenbohlen und beugten ihre Zungen vor dem Volk. Sie bedienten sich nicht der Kirchensprache, um ihre Absichten zu verschleiern oder ihre Macht mit unverständlichen Formeln zu panzern. Sie sprachen so, dass kein Schreiber nötig war, um den Sinn zu drehen.
-
-Als der letzte Laut verhallt war, riss das Heer die Schilde empor. Ein Donnern brach los, tausend Fäuste schlugen Eisen auf Holz, zehntausend Kehlen brüllten ihre Zustimmung in den grauen Himmel, dass die Krähen schreiend aus den Weiden an der Ill aufflogen.
-
-Alda schrie nicht. Sie stand unbeweglich im Getöse der Schwerter. Eine bittere, brennende Klarheit legte sich über ihre Gedanken, schärfer als der Frost an ihren Händen.
-
-Dort oben schworen Könige in der Zunge der Mägde und Knechte, um Frieden zu stiften, um verstanden zu werden, um Treue zu binden. Ihr Eid galt, weil er von Ohr zu Ohr ging, von Mund zu Mund, offen vor dem Angesicht Gottes und der Krieger.
-
-Und unten, im Dreck des Trosses, nutzte ein Grundherr das tote Latein, um ihr das Dach über dem Kopf wegzureißen. Eine Sprache, die Heinrich nicht verstanden hatte, die sie selbst nicht lesen konnte. Eine Urkunde, geschrieben auf Kalbshaut von einem zitternden Schreiber, der für seinen Herrn Lügen in schwarze Tinte goss. Die Könige sprachen Deutsch und Romanisch, um ein Reich zu retten – und Raginbert brauchte das Latein, um ihr das Leben zu stehlen.
-
-Sie blickte durch die wogende Menge nach vorn, dorthin, wo die Edlen und Notare vom Gefolge umringt wurden.
-
-Dort stand er. Otwin. Er hielt sich abseits der königlichen Schreiber, die nun hastig Pergamente entrollten, um die Eide aufzuzeichnen. Er stand wie ein Schatten am Fuße der Tribüne, die Arme eng an die Brust gepresst, das Futteral mit der Urkunde unter das Wams geklemmt. Er sah nicht zu den Königen auf. Er starrte auf seine Schuhe, auf den Morast, der sie bedeckte, als suche er darin sein eigenes Begräbnis.
-
-Er wusste es. Alda sah es an der Haltung seiner Schultern, an dem gebeugten Nacken. Er hatte gelogen. Oder er hatte die Feder für eine Lüge geführt. Er war das Werkzeug in Raginberts Hand, doch er trug die Kette nicht mit Stolz. Er trug sie wie ein Sträfling seinen Eisenring.
-
-Alda schob sich durch die jubelnden Krieger. Sie stieß einen hünenhaften Sachsen mit der Schulter beiseite, der sie wütend anblaffte, doch sie hörte ihn nicht. Ihr Herz schlug nicht mehr mit der panischen Furcht der Verzweifelten. Es schlug mit dem kalten, rhythmischen Takt einer Schifferin, die ihr Boot durch die Stromschnellen steuern muss, wo ein einziger falscher Ruderschlag das Zerschellen am Felsen bedeutet.
-
-Raginbert wollte Silber. Dreißig Pfund. Bis heute Abend war das unmöglich. Doch bis Martini... Bis Martini gab es Monate. Zeit genug, um die Straßen zu befahren, Zeit, um Salz über die Berge zu schaffen, Zeit, um die Schulden zu tilgen oder die Urkunde als das zu entlarven, was sie war. Wenn sie denn jemanden hatte, der ihr die Schrift aufbrach. Jemanden, der die toten Käfer zum Sprechen brachte.
-
-Sie trat hinter Otwin. Der Jubel des Heeres brandete noch immer über das Feld, ein Sturm aus Rufen und Schildgeklirr, der ihre Stimme für alle anderen Ohren verschlang.
-
-Alda streckte die Hand aus. Ihre Finger, schwielig von den Tauen der Lastkähne, schlossen sich fest wie eine Schmiedezange um Otwins mageren Oberarm.
-
-Der Schreiber fuhr herum, ein Keuchen erstickte in seiner Kehle. Als er in ihr Gesicht blickte, wich die letzte Farbe aus seinen Wangen.
-
-»Schreiber«, sagte Alda leise, und ihre Stimme war so schneidend wie der Ostwind über dem gefrorenen Rhein. »Du und ich, wir haben noch eine Schuld aufzuschreiben. Und diesmal bestimmst du nicht allein, welche Worte gelten.
-
-«
-
-Otwins Atem ging stoßweise, flach und rasselnd, als fehle seinen Lungen die Kraft für die frostige Luft. Er sah an Aldas zupackender Faust hinab, dann hinauf in ihre Augen, die ihm keinen Daumenbreit Raum ließen. Um sie herum brüllten die Krieger noch immer ihren Beifall in den grauen Himmel, reckten Spieße und Äxte empor und schlugen das Eisen ihrer Klingen gegen die bemalten Schildbuckel. Niemand achtete auf ein Weib im Schlamm und einen verkrümmten Schreiberling im Schatten der königlichen Estrade.
-
-»Lass mich«, keuchte Otwin. Seine Stimme klang gepresst, erstickt von der Angst vor den Blicken der Hofleute, die oben auf den Kiefernbohlen ihre Mäntel ordneten. »Wenn Raginbert sieht, dass du... Er schlägt mich tot. Er lässt mich an den Schweif seines Hengstes binden, Weib, du weißt nicht, was er vermag.«
-
-»Ich weiß, was er mir nimmt«, erwiderte Alda, ohne den Griff zu lockern. Ihre Finger gruben sich durch den rauen Wollstoff seines Mantels tief in das Fleisch darunter. »Und ich weiß, dass deine Hand gezittert hat, als du das Pergament entrolltest. Du hast nicht geblinzelt wie ein Mann, der das Recht verkündet. Du hast gezuckt wie ein Hund, der den Prügel schon auf dem Rücken spürt.«
-
-Sie riss ihn einen halben Schritt mit sich, fort von den Pfosten der Tribüne, hinein in die Lücke zwischen zwei Fuhren ungespaltenen Brennholzes, wo der beißende Rauch eines schwelenden Torffeuers die Sicht trübte. Otwin stolperte, fing sich an einer schmierigen Radnabe ab und presste das lederne Futteral mit beiden Händen krampfhaft gegen seine Brust, als trage er darin die Knochen eines Heiligen.
-
-»Valentin«, stieß sie hervor, das Gesicht so nah an seinem, dass er ihren Atem spüren musste. »Warum Valentin? Folker kam heute früh an meinen Hof. Er nannte den Tag des heiligen Martin. Ein ganzes Jahr, vom Herbst bis zum Herbst, das ist das Gesetz der Freien an der Ill! Doch du hast Valentin vorgelesen. Heute. Den Tag, an dem die Könige ihre Zungen vor dem Volk beugen.«
-
-Otwin schloss für einen Herzschlag die Lider. Ein Zittern lief über seine schmalen Lippen, und auf seiner Stirn glänzte trotz der schneidenden Kälte ein dünner Schweißfilm. »Die Frist... Raginbert wollte keine Monate warten. Nicht jetzt. Die Heere ziehen nach Norden, der Bischof fordert Korn, die Herzöge verlangen Lastkähne. Wer jetzt das Fuhrwerk beherrscht, herrscht über das Silber beider Könige. Er brauchte deine Schiffe heute. Nicht erst, wenn das Korn geschnitten ist.«
-
-»Und dafür schreibst du ein Todesurteil auf Kalbshaut?«, flüsterte Alda. Die Wut schnürte ihr die Kehle zu, doch sie hielt ihre Stimme tief, erstickte jeden Schrei, der die Kriegsknechte hätte herbeirufen können. »Dreißig Pfund Silber! Mein Mann hat niemals eine solche Summe gewogen. Nicht in Worms, nicht an der Ill, nicht im ganzen Reich!«
-
-Otwins Augen flackerten unruhig zu den Pferden der Großen hinüber, wo Raginberts blauer Mantel eben zwischen den Bannerträgern Ludwigs verschwand. Das Gefolge setzte sich in Bewegung; die Notare packten Wachstafeln und Federkiele in lederne Säcke, während die Knechte begannen, die Pfosten der Redebühne zu bewachen.
-
-»Er... er hat sie nicht für sich geliehen«, murmelte Otwin kaum hörbar.
-
-Alda erstarrte. Der Lärm der abziehenden Krieger schien mit einem Mal meilenweit entrückt, dumpf wie das Rauschen des Flusses unter dickem Wintereis. »Was sagst du?«
-
-Otwin schüttelte hastig den Kopf, als bereue er jedes Wort, das ihm über die spröden Lippen geschlüpft war. Er zog den Kopf zwischen die Schultern, machte sich klein, wie ein Bettler vor dem Kirchenportal. »Ich darf nicht. Gott im Himmel ist mein Zeuge, Alda, lass mich gehen. Wenn ich nicht mit den Kanzleiknechten am Zelt eintreffe, schickt Raginbert seine Reiter aus. Er hat die Urkunde. Er hat das Siegel. Der Graf wird gegen ein königlich beglaubigtes Pergament kein einziges Wort der Einrede dulden. Vor Gericht gilt die Haut, nicht die Klage einer Frau!«
-
-»Die Haut lügt, wenn die Hand bestochen war!«, hielt sie dagegen und schüttelte ihn an der Schulter, dass seine Kapuze zurückrutschte und die unsauber geschorene Tonsur eines flüchtigen Klerikers sichtbar wurde. »Du hast die Eide der Könige gehört, Otwin! Hast du ihnen zugehört? Ludwig hat nicht Latein gesprochen, um seine Absicht vor den Franken zu verbergen. Und Karl hat nicht die Worte der Bischöfe gemurmelt, um sein Volk zu täuschen. Sie haben gesprochen, wie wir sprechen! Von Angesicht zu Angesicht, damit jeder Knecht im Dreck weiß, woran er gebunden ist! Und du kommst mit toten Käfern auf Leder und willst mein Kind an den Schweinetrog verkaufen?«
-
-Der Schreiber schluckte hart. Seine Hand fuhr mechanisch an seinen Hals, strich über das verfilzte Tuch seiner Gugel, als schnüre ihm ein unsichtbarer Strick die Kehle zu. In seinen Augen stand keine Ausflucht mehr, sondern das dumpfe Elend eines Mannes, der weiß, dass er seine Seele für ein Stück Brot und das nackte Überleben hergegeben hat.
-
-»Ich bin kein freier Mann, Alda«, flüsterte er, und zum ersten Mal klang seine Stimme nicht nach Kanzlei und Hof, sondern nach der Armut, aus der er stammte. »Raginbert hält mich an einer kürzeren Kette als deine Kähne. Er weiß, woher ich floh. Ein Wort von ihm an den Abt von Lorsch, und ich sterbe im Karzer, geschlagen und in Eisen gelegt.«
-
-Alda sah ihn an. Sie sah die Schwielen an seinen Fingern, die nicht von der Ruderstange stammten, sondern vom ewigen Druck des harten Kielfederkiels; sie sah die zerfetzten Säume seines Mantels, die gefrorenen Zehen in den rissigen Schuhen. Er war kein Herr. Er war ein Knecht wie Berto, nur dass seine Waffe nicht die Axt war, sondern das schwarze Gift im Tintenhorn.
-
-»Er gibt mir Zeit bis zum Abend«, sagte sie, und ihre Stimme wurde ruhig, von einer kalten, unerbittlichen Festigkeit. »Um mich zu brechen. Um Berto und mich ohne Wehr auf die Gasse zu treiben, bevor das Gericht der Stadt die Sache verhandeln kann.«
-
-Otwin nickte kaum merklich. »Er weiß, dass die Schöffen an Martini Recht sprechen würden. Darum der Valentin. Auf der Urkunde... die Tinte des Datums ist frisch. Heller als der Text darüber. Ein Kenner sieht es auf einen Blick.«
-
-Aldas Herz schlug einen harten, triumphierenden Schlag gegen ihre Rippen. »Die Schrift ist gefälscht.«
-
-»Sie ist verändert«, korrigierte Otwin hastig, die Stimme zittrig vor Furcht. »Heinrichs Zeichen steht darunter. Das Kreuz ist echt. Doch die Frist... die Frist stand ursprünglich auf den Tag des heiligen Martin. Raginbert ließ mich das Wort schaben. Mit dem Bimsstein. Bis das Leder dünn war wie eine Zwiebelhaut.
-
-Und dann setzte ich das andere Wort darüber.«
-
-Er schwieg, erschöpft von dem Geständnis, als hätte er eben unter Folterqualen eine Todsünde gebeichtet. Seine Schultern fielen nach vorn, kraftlos und elend.
-
-Alda ließ seinen Arm nicht los. Sie spürte den dünnen Knochen unter dem Stoff, das schwache Pochen seines Blutes. Die Erkenntnis traf sie mit der Wucht einer Flusswelle, die im Frühjahr die Weidengeflechte an der Ill zerriss. Heinrich hatte sich gebeugt. Er hatte Schulden gemacht, eine unbegreifliche Summe, deren Ursache wie giftiger Schlamm auf dem Grund lag – doch die Schlinge, die ihr nun die Luft abschnürte, hatte Raginbert geknüpft. Mit Otwins Hand. Mit einem Schabmesser und frischer Rußtinte.
-
-»Martini«, sprach sie, und jedes Wort war ein Nagel, den sie einschlug. »Die wahre Frist reicht bis zum Martinstag.«
-
-Otwin nickte kaum merklich, den Blick starr auf den zertretenen Schnee gerichtet. »Bis zum Martinstag. Neun Monate. Aber was nützt es dir, Alda? Niemand vor Gericht wird einem Weib glauben, das die Schrift nicht lesen kann, gegen das Wort eines mächtigen Grundherrn. Raginbert hat die Knechte, er hat die Speicher, er hat das Gehör des Grafen. Und ich... wenn ich den Mund auftue, bin ich vor Sonnenuntergang tot.«
-
-Aus dem Lager drang das Schmettern von Signalhörnern herüber. Dumpfe, metallene Stöße zerschnitten die feuchte Kälte, gefolgt vom Klirren zahlloser Eisenringe und dem Schreien der Hauptleute. Die Versammlung der Könige löste sich auf. Ludwig und Karl ritten zurück in den Schutz ihrer Zelte, umgeben von geschlossenen Schildwällen und flatternden Bannern, während sich das Volk wieder in den Schlamm des Alltags ergoss. Ochsenkarren rumpelten an, Hufe trampelten das gefrorene Schilf nieder, und der Geruch von kaltem Aschwasser und Pferdemist kroch wieder schwer über die Ebene.
-
-»Er wird mir heute Abend die Riegel vorlegen«, sagte Alda. »Und wenn ich mich wehre, treibt Folker meine Ochsen fort und holt das Kind.«
-
-»Er wird es tun«, flüsterte Otwin. Ein Hustenanfall schüttelte ihn, trocken und bellend; er presste den Ärmel vor das Gesicht. »Er hat Knechte genug, um den Hof niederzubrennen, wenn du dich sperrst. Und der Schultheiß wird wegschauen, solange die Truppen des Königs versorgt sein wollen.«
-
-Alda starrte auf das lederne Futteral an seiner Brust. Für einen Lidschlag zuckte ihre Hand, bereit, das Futteral an sich zu reißen, das Pergament herauszuzerren und es vor seinen Augen im fauligen Morast zu zertreten. Doch was half Asche oder zerrissene Kalbshaut? Raginbert besaß das Siegel, und er besaß die Waffen. Ein vernichtetes Blatt würde die Männer mit den Spießen nicht aufhalten. Es brauchte mehr als Wut. Es brauchte Gegenwehr, die auf demselben Boden stand wie der Anspruch des Herrn.
-
-»Du bleibst am Leben, Schreiber«, sagte sie leise, und ihr Griff um seinen Arm verengte sich noch einmal so schmerzhaft, dass er aufkeuchte. »Aber du bleibst nicht sein Knecht. Nicht, wenn du deine Seele retten willst.«
-
-Otwin starrte sie mit aufgerissenen, fiebrigen Augen an. »Was... was verlangst du?«
-
-»Raginbert will Silber. Dreißig Pfund. Er weiß, dass niemand an der Ill eine solche Last in Stunden heben kann. Er will die Frist verkürzen, weil er meine Schiffe jetzt braucht. Für den König. Für das Korn.« Sie trat noch näher heran, zwang ihn, ihr direkt in die Augen zu blicken, dorthin, wo keine Furcht mehr war, sondern nur noch der blanke Wille zum Überdauern. »Du gehst jetzt zu ihm. Du sagst ihm, dass ich geschrien habe. Sag ihm, dass ich getobt habe wie eine Närrin, dass ich ihm Flüche an den Hals gewünscht habe.«
-
-»Und weiter?«, stammelte Otwin.
-
-»Sag ihm, dass ich nachgebe. Sag ihm, dass ich die Schiffe heute nicht halten kann, aber dass ich die Frist bis Martini einfordere – öffentlich, vor den Schöffen der Stadt, wenn die Glocken zur Vesper läuten. Ich werde ihm Silber bringen. Nicht heute. Aber vor dem Martinstag. Und wenn er mir den Hof vorher nimmt, gehe ich vor das Grafengericht und klage ihn des Bruchs des Landfriedens an, während die Könige noch im Lande weilen. Ludwig und Karl haben eben geschworen, das Volk zu schützen, Schreiber! Sie haben es in unserer Zunge getan, damit jeder Hufschmied und jeder Fischer es bezeugen kann. Meinst du, Raginbert wagt einen offenen Rechtsbruch vor den Toren der Stadt, solange die königlichen Richter im Lager sitzen?«
-
-Ein schwacher Schimmer von Hoffnung oder Verstehen glomm in Otwins erloschenem Blick auf. »Er fürchtet das Grafengericht nicht... aber er fürchtet den Verzug. Die Schiffe müssen morgen beladen sein. Wenn er sich auf einen Rechtsstreit vor den Boten des Königs einlassen muss, beschlagnahmt der Hofkaplan die Kähne für das Heer, bis das Urteil gesprochen ist. Dann hat weder er sie noch du.«
-
-»Genau das wirst du ihm einflüstern«, stieß Alda hervor. »Er bekommt das Nutzungsrecht an drei Kähnen für den Heereszug. Doch der Hof bleibt mein. Bis Martini. Er soll die Urkunde zurückhalten, bis das Grafengericht tagt. Sag ihm, ich sei gebrochen. Ein Weib, das um Gnade bettelt.«
-
-Otwin schluckte schwer. Seine klammen Finger tasteten über das kalte Leder der Schriftrolle. »Und wie willst du dreißig Pfund Silber wiegen, Alda? In neun Monaten? Selbst wenn du Tag und Nacht fährst, wirft der Flusszoll das nicht ab. Nicht in Kriegszeiten.«
-
-Alda dachte an Heinrichs verschlossene Truhe unter der Dielenbohle in der Schlafkammer. An die alten Pergamentfetzen mit den Siegeln aus Lothringen, die er stets vor ihr verborgen hatte – Zeichen über Salzrechte in den Tälern jenseits der Vogesen, über die er im Fieber vor seinem Tode gemurmelt hatte. Salz. Das weiße Gold, nach dem die Heere schrien, um das Fleisch für den Frühjahrszug haltbar zu machen.
-
-»Das ist meine Sorge, Schreiber«, erwiderte sie hart. »Deine Sorge ist es, Raginbert davon zu überzeugen, dass er gewonnen hat, ohne dass er heute mein Tor aufbricht. Und danach...« Sie ließ seinen Arm los, langsam, Finger um Finger, doch ihr Blick hielt ihn fest wie ein Strick. »Danach kommst du an die Ill. Heimlich. Wenn der Mond über den Weiden steht. Du wirst mir jedes einzelne Wort vorlesen, das Heinrich auf diese Haut setzen ließ. Jedes Zeichen. Und wenn du mich belügst, Otwin, schwöre ich dir beim Blut Christi: Ich finde dich, und wenn du dich im tiefsten Klosterkeller von Mainz verkriechst.«
-
-Otwin trat einen Schritt zurück. Er rieb sich den geschundenen Arm, seine Brust hob und senkte sich in raschen, unruhigen Zügen. Er sah hinüber zu den Zelten, wo Raginberts Knechte bereits nach ihm Ausschau hielten, dann wieder zu Alda.
-
-»Ich komme«, flüsterte er heiser. »Ich schwöre es bei der heiligen Maria. Nach der Komplet.
-
-An der Ill-Bucht, wenn die Glocken des Münsters zur Nacht schlagen.«
-
-Er wandte sich ab, duckte den Kopf zwischen die Schultern und verschwand mit hastigen, fahrigen Schritten im Gedränge des Trosses, dorthin, wo das Gefolge des Grundherrn seine Rosse sattelte.
-
-Alda blieb allein zurück im beißenden Dunst des Torffeuers. Die feuchte Kälte kroch nun ungehindert durch die dicken Wollstrümpfe, doch in ihren Adern brannte das Blut wie flüssiges Pech. Sie wandte sich um und blickte zurück über die weite, zertretene Ebene. Die Holzbühne der Könige stand nun verlassen da; Priesterknechte löschten die Weihrauchbecken mit schmutzigem Schnee, und die schwere Wolke süßlichen Rauchs löste sich im eisigen Ostwind auf.
-
-Zwei Herrscher hatten ihre Eide in der Sprache des einfachen Volkes abgelegt, damit kein Knecht, kein Schiffer und kein Krieger sagen konnte, er habe die Worte nicht verstanden. Sie hatten die Macht des Lateins für einen Augenblick gebrochen, um ein Heer zu einen. 
-
-Alda zog die Wollkappe tiefer in die Stirn, straffte die Schultern und stapfte durch den schweren Lehm zurück in Richtung des Schindertors. Der Schlamm fraß noch immer an ihren Bundschuhen, doch ihr Schritt war fest. Sie kannte nun die Frist. Neun Monate blieben ihr, um den Hof zu retten, dreißig Pfund Silber zu wiegen und das Netz aus Tinte und Verrat zu zerschneiden, das die Großen um ihr Leben gewoben hatten.
+Alda hob das Kinn gegen den Ostwind. Sie würde das Silber finden. Und wenn sie dafür den Rhein hinauf und über die gefrorenen Pässe der Vogesen fahren musste, bis in die Tiefen der Salztäler, wo das weiße Gold aus der Erde kochte. Sie kannte die Wege. Sie kannte das Wasser. Und vor allem kannte sie nun das Gesicht des Schreibers, der ihre Fuhren an das tote Leder verraten hatte.
 

@@ -1,154 +1,164 @@
 ## Die Spur im Schnee
 
-Der Frost kam nicht schleichend, er fiel wie ein geschlagenes Richtbeil über das Land. Nach den ersten Botenläufen im November zog eine Kälte herauf, die selbst das fließende Wasser der Ill an den Rändern zu milchigem, schrundigem Eis erstarren ließ. Doch die Unruhe trieb Alda fort. Nicht die Vorbereitung der Achsen allein konnte sie retten; eine dunkle Last lag auf dem Fundament ihres Vorhabens, schwerer noch als Raginberts Pfandknechte. Das Raunen der Schiffer am Rheintor, die spärlichen Berichte heimkehrender Fuhrleute aus dem Westen – alles deutete darauf, dass ihr Bruder Gerwin nicht nach Süden entkommen war. Man hatte ihn im Spätherbst am Moselufer gesehen, zerlumpt, mit dem Brandmal der Ehrlosigkeit gezeichnet. Ehe sie im Frühjahr Korn und Wagen gen Marsal warf, brauchte sie die nackte Wahrheit über das Bündnis zwischen Berengar und Gerwin. Ohne diese Gewissheit baute jeder Schritt auf fauligem Grund.
+Der Frost biss ohne Erbarmen, als wäre die Luft selbst zu zersplitterndem Glas gefroren, das mit jedem Atemzug die Lungen aufriss. Der Schnee lag nicht weich auf dem Land; der Ostwind hatte ihn über die braunen Stoppelfelder und die verkrusteten Fahrrinnen der alten Heerstraße getrieben, bis er zu harten, welligen Bänken erstarrt war, die den Hufen des Zugrosses keinen sicheren Halt boten. Jeder Schritt war ein Wagnis aus Rutschen und Stolpern. Das Tier, ein struppiger Brauner mit gesenktem Kopf und von Eisnadeln verklebten Nüstern, schnaubte dumpf in das bleierne Dämmerlicht des Dezembers. Dampf stieg aus seinen Flanken empor, vermengte sich mit dem Gestank von nassem, ungewaschenem Wolltuch und dem Geruch von faulem Moorwasser, der aus den Gräben heraufkroch.
 
-Den Jungen ließ sie wohlverwahrt bei Muhme Hiltgund an der Bruche zurück, tief im Ried, wo der Torfrauch die Hütten vor neugierigen Reitern verbarg. Mit Knecht Berto und zwei struppigen Packpferden brach sie auf.
+Alda saß tief in ihren Filzumhang gewickelt auf dem hölzernen Packsattel, die Knie an den feuchten Leib des Tieres gepresst, um auch den letzten Rest lebendiger Wärme aufzusaugen. Ihre Finger in den derben Fäustlingen waren gefühllos geworden, taub wie totes Holz. Die Kälte kroch von den ledernen Bundschuhen durch die Strohpolsterung die Schienbeine hinauf, ein stetiger, dumpfer Schmerz, der sich in den Gelenken festsetzte wie Grünspan auf ungesalzenem Kupfer. 
 
-Die Zaberner Steige im tiefsten Dezember war kein Pfad, sondern eine weiße Todesfalle. Auf den Steigungen schnaubten die Tiere blutigen Geifer, der ihnen an den Nüstern zu Eiszapfen fror. Knecht Berto ging voraus, die Füße in Lumpen und ungegerbte Rindshaut gewickelt, die mit Weidenbast verschnürt waren. Seine Hände steckten in faustgroßen Fäustlingen aus filzigem Schafswollstoff, der vom gefrierenden Atem steif geworden war wie getrocknetes Holz. Mit einer eisenbeschlagenen Stange stieß er in die Wechten, um zu prüfen, wo der Fels abfiel und wo der alte Karrenweg unter drei Fuß Neuschnee begraben lag.
+Sie hatte nicht auf das Frühjahr warten können. Otwins Beichte, die wie ein fauliger Pfahl in ihrem Fleisch steckte, ließ ihr keine Rast: Gerwin hatte gemordet. Ihr eigener Bruder hatte das Blut vergossen, für das Berengar mit dem Erbe gebürgt hatte – mit dem Hof, den Schiffen, mit Bertos Zukunft. Ein Trossknecht erschlagen für ein paar silberne Denare oder einen Sack Korn, und Berengar hatte geschwiegen, hatte sich dem Grundherrn unterworfen und war am Ende im Schlamm von Fontenoy verreckt, während die Urkunde wie eine Schlinge um ihren Hals liegen geblieben war. 
 
-Alda führte das zweite Tier am Halfter. Die Kälte schnitt wie eine Sense durch ihren gefütterten Wollmantel, biss in die Wangenknochen und ließ die Glieder taub werden, bis jeder Schritt nur noch ein dumpfes Aufschlagen von Knochen auf gefrorenem Grund war. Als Wegzehrung führten sie nichts mit sich als knochenharte Gerstenfladen, die sie im Mund mit Schnee aufweichen mussten, und einen Klumpen Rindertalg, von dem sie allabendlich einen Daumenbreit in siedendem Schmelzwasser auflösten. Feuer machten sie nur in tiefen Mulden abseits des Passes, stets in Furcht vor marodierenden Rotten, die das Heerlager zu Fontenoy ausgespuckt hatte und die nun als vogelfreie Wölfe durch die Wälder streiften.
+Wenn sie den Salzzug nach Verdun im Sommer wagen wollte, wenn sie den freien Riedsiedern um Guntram mit geradem Rücken gegenübertretend konnte, brauchte sie die Wahrheit. Kein lateinisches Gefasel, kein krummes Wort eines verstossenen Schreibers, sondern das Geständnis des Mannes, der ihr Fleisch und Blut war. Sie musste wissen, ob Gerwin sie wissentlich ins Verderben getrieben hatte.
 
-Fünf Tage dauerte der Übergang, der im Sommer in zwei getrieben werden konnte. Jenseits des Kammes, wo das Land Lothars flacher wurde und die Seille träge unter einer trüben Eisdecke kroch, wandelte sich der Schnee in nasskalten Schneeregen, der das Tuch durchnässte und den Schlamm der Wege knöcheltief aufrührte. 
+Die grauen Mauern von Metz schoben sich aus dem Nebel wie die Zähne eines verfaulten Gebisses. Römische Werksteine, mächtig und mit Moos überwachsen, wechselten sich ab mit geflickten Abschnitten aus gestampftem Lehm und gespaltenen Eichenpfählen. Doch Alda lenkte das Zugross nicht zu den bewachten Stadttoren, wo die Zöllner der Bischofsstadt jeden Reisenden nach Abgaben durchleuchteten und die Vögte nach Deserteuren spähten. Sie bog vor dem Graben nach Norden ab, wo die Mosel zäh und von grauen Eisschollen bedeckt zwischen den Weidengebüschen floss. 
 
-Am siebten Tag, als die Dämmerung wie rußige Asche über die Hügel sackte, erreichten sie den Hospitalhof vor den Toren von Metz.
+Dort, geduckt an die Reste eines uralten Aquädukts, dessen Bögen wie versteinerte Riesen im Schneetreiben standen, lag das Hospital. Es war kein Ort des Heils, sondern eine Endstation des Siechtums. Niedrige Hütten aus Weidengeflecht und kalkverstrichenem Dung klammerten sich an das feuchte Mauerwerk; die Dächer aus morschem Stroh bogen sich unter der Last des gefrorenen Schnees durch. Aus den schartigen Rauchlöchern quollen dünne, gelbliche Schwaden, die nach verbranntem Torf, Tran und dem unverkennbaren, süßlichen Odem von Brandwunden und verfaulendem Fleisch rochen.
 
-Es war kein Ort der Zuflucht, sondern ein Vorhof des Verderbens. Die Anlage, unter dem Patronat des heiligen Arnulf errichtet, kauerte hinter einer bröckelnden Feldsteinmauer an der Kreuzung der alten Römerstraße. Der Gestank schlug Alda schon am äußeren Gatter entgegen: ein Brechreiz erregendes Gemisch aus faulendem Stroh, ungelöschtem Kalk, kaltem Urin und dem süßlichen Moder offener Wunden. Hier wurden jene hingeworfen, die das Heer der drei karolingischen Vettern zertreten hatte – verstümmelte Fußknechte, deren Beinstümpfe in verkrustete Leinenfetzen gewickelt waren, Bettler mit dem Brandmal entwichener Höriger und Sieche, deren Gesichter von der Schwindflucht zerfressen waren.
+Alda glitt aus dem Sattel. Ihre Knie knickten ein, als ihre Sohlen auf die gefrorenen Rossmistbrocken des Vorhofs schlugen; sie musste sich am Riemenwerk des Saumtiers festhalten, bis das pochende Blut wieder in ihre Waden schoss. 
 
-Knecht Berto packte das Halfter des vorderen Pferdes fester und zog den Kopf zwischen die Schultern. »Herrin«, murmelte er mit heiserer, belegter Stimme, »das ist kein Ort für ein Weib. Hier regiert der Henker oder der Tod.«
+Ein Mann in einer Kutte aus ungefärbter, fleckiger Wolle, die Kapuze tief über das von Pockennarben zerfressene Gesicht gezogen, trat aus einem Verschlag. In der Hand hielt er eine hölzerne Schaufel, deren Blatt mit geronnenem Blut und Asche verkrustet war. Seine Augen lagen tief in dunklen Höhlen, stumpf und misstrauisch wie die eines geschundenen Karrenochsen.
 
-»Der Henker wäre mir lieber als die Ungewissheit«, erwiderte Alda schneidend. Ihre Lippen waren aufgesprungen, der Geschmack von getrocknetem Blut lag auf ihrer Zunge. »Halt die Pferde am Brunnenkasten. Schau, dass ihnen niemand das Zaumzeug schneidet. Wenn sich ein Pfründner nähert, nimm den Schaft der Peitsche.«
+»Hier gibt es kein Brot für Wanderer«, krächzte er in einem rauen fränkischen Dialekt, der die Kehle kratzte. »Und der Bischof zahlt keine Pfennige für fremde Weiber. Wenn du verrecken willst, leg dich an die Mauer, aber nimm den Gaul mit fort. Wir haben kein Heu für Mäuler, die nicht beten können.«
 
-Sie watete durch den knöcheltiefen Morast des Hofes. Zwischen zwei niedrigen Lehmhütten scharrte ein mageres Schwein an einem Haufen verfaultem Kohlstrünken. Auf einer Bank unter dem Vordach saß ein Pfründner, dessen linkes Auge eine verkrustete Höhle war. Er starrte stumm auf ihre derben Lederstiefel, die Hände reglos in die abgewetzte Kutte geschoben. Alda würdigte ihn keines Blicks. Sie kannte das Gesetz dieser Spitäler: Mitleid galt hier als Schwäche, und wer Schwäche zeigte, verlor seinen Beutel oder das Leben.
+Alda richtete sich auf, strich den groben Mantel zurück und fasste den Mann fest ins Auge. Sie kannte diesen Ton. So sprachen Knechte, die den Prügel der Herren gewohnt waren und jeden Fremden als Bedrohung für ihre winzige Ration Maulgeld sahen.
 
-Am Ende des Wirtschaftshofs, halb in den Hang gegraben und mit morschem Eichenschindeldach gedeckt, lag die Holzkammer. Ein feuchter, fensterloser Bau, in dem die Spitalsknechte das knorrige Buchenholz und den Reisig für die Küchenfeuer aufschichteten.
+»Ich suche kein Almosen«, sagte sie ruhig, ihre Stimme fest und schneidend wie eine frische Bruchkante im Eis. »Und ich bin nicht zum Sterben hier. Ich suche einen Knecht, der vor drei Monden hier Unterschlupf fand. Einen, der aus der Domimmunität fortgeschafft wurde, weil seine Hände zu grob für die Kerzenstube waren.«
 
-Alda stieß die unverriegelte Tür auf. Die Lederangeln ächzten im Frost.
+Der Pfründner spie gelblichen Speichel in den Schnee. Er musterte das Pferd, den festen Zaum, das schwere Leder ihrer Schuhe. 
 
-Drinnen roch es nach Moder, feuchter Rinde und tierischer Notdurft. Der Atem stand als weißer Rauch im Raum. Nur durch die Ritzen der verquollenen Holzbohlen drang das fahle Abendlicht und zeichnete blasse Streifen auf die aufgetürmten Holzstöße. Im hintersten Winkel, wo das Scheitholz bis unter die Dachsparren reichte, lag ein Haufen fauliges Roggenstroh.
+»Viele kommen hierher. Die meisten trägt man nach drei Nächten auf den Acker hinaus, ehe die Erde zu hart zum Schaufeln wird.« Er hob die Schaufel leicht an, eine stumme Geste der Abwehr. »Die Kälte frisst das Gesindel schneller als die Franzosenkrätze.«
 
-Dort regte sich etwas.
+Alda griff in ihre Tasche. Ihre klammen Finger tasteten an der Wachstafel vorbei, bis sie ein kleines Stück getrockneten Schweinespeck fanden, hart wie eine Sohle, aber nahrhaft. Sie zog es hervor und hielt es so, dass der Mann das weiße Fett zwischen ihren Fingern schimmern sah. Es war keine Münze, die man ihm abnehmen konnte, sondern Nahrung, die zählte.
 
-Ein heiseres Röcheln drang aus dem Halbdunkel, gefolgt vom Klappern herabfallender Holzscheite. Alda trat vor, die Hand fest um den Holzgriff ihres Messers gelegt, das sie unter dem Mantel trug.
+»Er kam im Herbst«, fuhr sie fort, ohne die Hand zu senken. »Ein junger Kerl mit einer Narbe über dem linken Daumen, wo ein Riemen ihn riss. Er spricht wie die Leute von der mittleren Ill. Und er kann Holz spalten, bis ihm die Sehnen platzen, weil die Angst ihm im Nacken sitzt.«
 
-»Gerwin?«
+Der Pfründner starrte auf den Speck. Seine Kehle bewegte sich in einem trockenen Schlucken.
 
-Der Haufen bewegte sich. Eine Gestalt schälte sich aus den nassen Halmen, schwankend, von Krämpfen geschüttelt. Ein Mann, gekleidet in eine zerrissene Tunika aus grauem Loden, die ihm viel zu weit über den knochigen Schultern schlotterte. Das Gesicht war unrasiert, von Ruß und Schmutzkrusten geschwärzt, die Wangen eingefallen bis auf das nackte Gebein. Doch die Augen – hell, unstet, von einem wahnhaften Glanz getrieben – gehörten ihrem Fleisch und Blut.
+»Er spaltet noch immer«, murmelte er und griff mit einer schnellen, diebischen Bewegung nach dem Fleisch, ließ es sofort unter seiner Kutte verschwinden. »Drüben in der hinteren Kammer beim Kalkofen. Der Hospitalmeister lässt ihn das Buchenholz für die Waschbottiche zurichten. Wenn er die Finger nicht mehr rühren kann, fliegt er raus. So wie alle.«
 
-Als der Mann sie erkannte, schlug er die Hände vor das Gesicht und kroch rücklings gegen das Holz, bis ihm ein Stoß Scheite in den Nacken polterte.
+Er wandte sich ab und stieß seine Schaufel in einen Haufen vereister Schlacke, als hätte das Gespräch nie stattgefunden.
 
-»Nicht ... schlag mich nicht«, wimmerte er. Die Stimme war brüchig, zerkratzt von Wochen im Freien. »Ich habe nichts mehr. Raginberts Vogt hat den letzten Pfennig genommen ... der Rock ist alles, was blieb ...«
+Alda band die Zügel des Zugrosses an einen eisernen Haken, der tief in einen römischen Werkstein getrieben war. Das Tier senkte den Kopf zum gefrorenen Boden und suchte vergeblich nach Halmen. Alda zog ihren Mantel enger um die Schultern und stapfte durch den morastigen, angefrorenen Schnee auf den niedrigen Anbau zu, der sich im toten Winkel zweier Mauerbögen duckte.
 
-Alda blieb drei Schritte vor ihm stehen. Die Kälte schien plötzlich noch tiefer in ihre Knochen zu dringen, doch es war nicht der Frost des Winters. Es war der Ekel vor dem Anblick ihres Bruders, der einst stolz auf den Ladeplätzen der Ill gestanden und über die Lasten verhandelt hatte.
+Die Luft hier roch nach saurem Eichenholz, feuchter Rinde und dem beißenden Rauch eines schwelenden Feuers. Alda stieß die Tür auf, ein provisorisches Gestell aus ungehobelten Schwartenbrettern, das an Weidenruten in den Angeln hing. Es kreischte schrill im Eis.
 
-»Steh auf, Gerwin«, sagte sie tonlos.
+Drinnen herrschte Halbdunkel. Der einzige Lichtschein fiel durch die schmalen Ritzen der Bretterwand und die glimmende Asche eines kleinen Tonofens in der Ecke, der mehr Qualm als Hitze spie. Auf dem Boden lagen Späne und Rindenmulch ellenhoch aufgeschüttet, faulig riechend und feucht. Holzscheite waren an den Wänden aufgeschichtet, dazwischen Säcke mit Kalk, die vom eindringenden Tropfwasser verklumpt und aufgebrochen waren.
 
-Er senkte die zitternden Hände. Seine Lippen bebten. »Alda? Du ... wie hast du mich ...«
+In der Mitte des Raumes kniete eine Gestalt. 
 
-»Ein Händler aus Vic hat dich gesehen. Er hat dich erkannt, als du auf dem Markt um eine Handvoll Erbsen betteln wolltest. Er wusste, wessen Bruder du bist.« Sie trat einen Schritt näher. Ihr Schatten fiel breit über ihn. »Steh auf. Ich bin nicht durch das Eis der Steige geritten, um ein Gespenst im Stroh winseln zu sehen.«
+Ein Mann, gehüllt in einen zerrissenen Kittel aus rauem Rupfen, der ihm kaum bis über die Knie reichte. Seine Beine waren mit verfilzten Schafwollbändern umwickelt, durch die nackte, gerötete Haut schimmerte. Er hielt ein kurzes Spaltmesser in beiden Händen und trieb es mit einem hölzernen Schlegel in einen Astabschnitt aus zäher Rüster. Schlag auf Schlag, gleichförmig, stumpf, wie ein Mühlenrad, das kein Wasser mehr antreibt, sondern nur noch die eigene Schwere.
 
-Gerwin tastete mit steifen, blauschwarzen Fingern nach einem Holzscheit, stützte sich mühsam auf und kam auf die Knie. Seine Zähne schlugen laut aufeinander, ein unbarmherziges Klappern im Schweigen des Schuppens. 
+»Gerwin«, sagte Alda.
 
-»Warum bist du hergekommen?«, keuchte er. »Hier gibt es nichts. Sie werfen uns einmal am Tag eine Schüssel Haferschleim hin, dünn wie Flusswasser. Wenn du bleibst, holen dich die Büttel des Bischofs. Sie suchen jeden, der drüben bei Fontenoy den Tross verlassen hat.«
+Das Holz spaltete sich mit einem harten Knall. Das Messer blieb im Klotz stecken. Der Mann erstarrte, doch er drehte sich nicht um. Sein Atem ging stoßweise, als hätte er meilenweit durch Schneewehen laufen müssen. Seine Schultern zuckten einmal zusammen, krampften sich fest und sanken dann langsam herab.
 
-»Ich bin nicht wegen des Bischofs hier«, sprach sie, und jedes Wort wog schwer wie ein Mühlstein. »Ich bin hier wegen Berengar. Und wegen Raginberts Schuldurkunde.«
+»Alda«, flüsterte er. Der Name klang brüchig, verbraucht.
 
-Gerwin zuckte zusammen, als hätte sie eine Peitsche über seinen Rücken gezogen. Er wandte den Blick ab, starrte auf die fauligen Strohhalme zwischen seinen nackten, wundgelaufenen Knöcheln.
+Er wandte den Kopf. Im dämmrigen Schein des Ofens wirkte sein Gesicht hohlwangig, die Augen lagen tief und fiebrig in dunklen Rändern. Er trug einen struppigen, rotblonden Bart, der voller Holzstaub war. Die Hände, die den Schlegel hielten, waren blutig gerissen; der Frost hatte die Knöchel aufplatzen lassen, und an den Daumenballen klebten Reste von Pech und Ruß. Es war nicht mehr der übermütige Bursche, der vor zwei Sommern in Straßburg geprahlt hatte, er werde bald sein eigenes Fuhrwerk lenken. Vor ihr saß ein geschlagener Hund, der jeden Moment den nächsten Tritt erwartete.
 
-»Ich weiß nichts«, flüsterte er.
+»Du hast mich gefunden«, stieß er hervor. Seine Stimme zitterte, halb vor Kälte, halb vor einer Furcht, die tiefer saß als der Frost im Gebälk. »Wie ... wie bist du an den Wachen vorbeigekommen? Raginberts Leute ... sie suchen mich. Sie wissen, dass ich hier bin.«
 
-»Lüg mich nicht an!«, fuhr Alda auf. Ihre Stimme brach durch den Raum, scharf und hart, dass ein Pfründner draußen am Gatter aufhorchte. »Ich habe meinen Speicher verloren! An Martini stand Raginbert mit dem Schöffen vor dem Tor! Sie haben mir den Grund genommen, den Hof, die Kähne! Mein Junge schläft auf feuchtem Mist im Stall, und wir müssen um jede Runkelrübe betteln, während der Grundherr über mein Eigentum lacht! Und das alles wegen einer Urkunde über dreißig Pfund Silber, die auf Berengars Namen lautet!«
+»Niemand sucht dich hier, Gerwin«, sagte Alda hart und schloss die Tür hinter sich, sodass das Licht fast völlig erlosch und nur noch die Glut des Ofens rote Flecken auf ihre Kleider warf. »Raginbert hat, was er will. Er hat den Speicher. Er hat die Kähne. Er hat das Haus an der Ill und die Rösser. Er braucht dich nicht mehr am Galgen zu sehen, denn dein Hals hat ihm bereits meinen Hof eingebracht.«
 
-Sie packte ihn am Kragen des zerschlissenen Lodens. Der Stoff war feucht und roch nach Schweiß und Verwesung. Sie riss ihn hoch, zwang ihn, sie anzusehen. Seine Augen flackerten voller Furcht, ein gehetztes Tier im Bau.
+Gerwin ließ den Schlegel sinken. Das Holz fiel dumpf in die Späne. Er schlug die Hände vor das Gesicht, doch er weinte nicht; seine Kehle brachte nur ein trockenes, rasselndes Keuchen hervor.
 
-»Du warst bei ihm«, stieß sie hervor. »In Fontenoy. Otwin hat geredet, ehe ich ihn an der Seille verstoßen habe. Giseler hat geredet. Alle wussten es – nur ich nicht! Was habt ihr getan? Was hat mein Mann für dich getan, dass er uns alle an Raginberts Kette gelegt hat?«
+»Ich wollte das nicht«, murmelte er durch die zerschundenen Finger. »Bei allen Heiligen, Alda ... ich wollte das nicht. Berengar ... er hat geschworen, er biegt es hin. Er sagte, der Grundherr würde die Sache ruhen lassen, wenn er für ihn reitet.«
 
-Gerwin begann zu zittern, ein Jammern entrang sich seiner Kehle, das sich wie das Klagen eines geprügelten Hundes anhörte. Er schlug sich mit den Fäusten gegen die eigenen Schläfen.
+Alda trat zwei Schritte vor. Der Geruch von feuchtem Holz und menschlichem Schweiß, der in diesem Loch stand, schnürte ihr die Kehle zu. Sie blieb dicht vor ihm stehen, ragte über ihm auf, bis ihr Schatten die Glut des Ofens verdeckte.
 
-»Er wollte mich retten!«, stieß er hervor, die Worte stolperten über seine Lippen, begleitet von feuchtem Atem. »Er wollte nur ... er war mein Schwager, Alda! Er schwor unserem Vater am Sterbebett, auf mich zu achten!«
+»Er biegt es hin?«, fragte sie leise, und die Kälte in ihren Worten war schneidender als der Wind an der Mosel. »Berengar ist tot. Er ist vor anderthalb Jahren bei Fontenoy verreckt, im Schlamm erstickt wie ein Schwein in der Schlachtbank, und du hast dich verkrochen. Du hast dich in Metz hinter Kirchenmauern versteckt, während seine Leiche auf dem Karren lag und Raginbert seine Knechte auf meinen Hof schickte!«
 
-»Was habt ihr getan?«, wiederholte sie unbarmherzig und schüttelte ihn, bis sein Kopf gegen das Holz schlug.
+»Er hat mich gezwungen!«, schrie Gerwin plötzlich auf. Er hob den Kopf, und in seinen Augen blitzte für einen Herzschlag die alte, verzweifelte Wut auf, ehe sie wieder in sich zusammenfiel. »Ich konnte nicht zurück! Raginberts Vogt ... Isenbart ... er hätte mir die Hand abgehackt oder mich an den nächsten Weidenbaum geknüpft! Ich hatte kein Silber!«
 
-»Der Wagenzug«, wimmerte Gerwin. Er sank wieder auf die Knie, als Alda den Griff lockerte, doch er floh nicht mehr. Er hielt sich die Brust, wo das Linnen rissig war. »Vor der Schlacht. Im Juni des letzten Jahres. Raginberts Tross fuhr hinter dem Heer Karls. Getreide, gesalzenes Schweinefleisch und die Silberkassette für den Sold der fränkischen Reiter. Berengar und ich ... wir sollten drei Karren über die Marne bringen.«
+»Was ist geschehen?«, unterbrach sie ihn, ohne die Stimme zu heben. Jeder Ton war gesetzt wie ein Keil im Spaltholz. »Keine Ausflüchte mehr, Gerwin. Otwin hat geredet. Er hat mir gesagt, dass Berengar für ein Wergeld bürgte. Für dreißig Pfund Silber. Dreißig Pfund! Für das Geld hättest du drei Höfe kaufen können! Welches Blut klebt an deinen Händen, dass ein freier Bauer seinen ganzen Hof daran hängen musste?«
 
-Alda hielt den Atem an. Die Luft in der Kammer schien dick zu werden, erstickend vor Kälte.
+Gerwin wich zurück, kroch rückwärts auf den Knien durch die Späne, bis sein Rücken an die geschichteten Holzscheite stieß. Das Holz knarrte leise unter seinem Gewicht; ein Scheit polterte herab und rollte vor Aldas Füße.
 
-»Giseler war die Wache«, fuhr Gerwin stockend fort. Tränen schnitten helle Rinnen durch den Schmutz auf seinen Wangen. »Giseler und zwei Knechte. Wir hatten Hunger, Alda! Die Könige fraßen das Land kahl, die Pferde verreckten an der Räude, und wir bekamen seit zwei Monden keinen Pfennig Sold! Ich habe es getan ... nicht Berengar! Ich habe die Kiste aus dem Trosswagen gehoben, in der Nacht, als das Unwetter über das Lager zog! Ich wollte nur meinen Anteil, meinen gerechten Lohn!«
+»Es war kein Mord«, stammelte er, und seine Lippen bebten so heftig, dass die Worte kaum zu verstehen waren. »Es war ... wir waren betrunken. Unten an der Lände, vor dem großen Heerzug. Da war dieser Knecht aus Lothringen. Er hatte Korn gestohlen, Säcke von Raginberts eigenem Speicher, und er wollte sie an einen Schiffer aus Mainz verschachern. Ich habe ihn gestellt. Ich wollte das Korn sichern, damit der Herr mich belohnt, verstehst du? Ich wollte mich hervortun!«
 
-»Und Giseler?« Aldas Stimme war nur noch ein schneidendes Flüstern.
+Er fasste sich an die Schläfen, krallte die Finger in das verfilzte Haar.
 
-»Er erwachte«, schluchzte Gerwin. »Er zog das Sax. Er wollte mich an Ort und Stelle erstechen. Berengar kam dazwischen. Er ... er riss Giseler von mir fort. Im Gerangel ... die Klinge fuhr Giseler durch die Schulter. Wir dachten, er sei tot. Das Blut spritzte über das ganze Korn. Berengar packte mich, warf mich auf ein Pferd. Doch Raginberts Reiter holten uns noch vor der Morgendämmerung ein.«
+»Er zog ein Messer. Ein krummes Fuhrmannsmesser. Er hat mich am Arm geritzt – hier, sieh doch!« Er riss den Ärmel hoch und zeigte auf eine weißliche, gezackte Narbe am Unterarm. »Ich habe mich nur gewehrt. Ich habe nach einer Deichselstange gegriffen. Ein Schlag. Nur ein einziger Schlag, Alda! Der Schädel ... er brach wie ein Eiertopf. Da war so viel Blut auf den Steinen. Gott steh mir bei, das Blut hörte nicht auf zu laufen.«
 
-Gerwin hob den Kopf, und in seinen trüben Augen spiegelte sich das blanke Entsetzen jener Nacht wider.
+Alda rührte sich nicht. Das Bild stand vor ihr, so klar und greifbar, als wäre sie selbst an der Lände im Regen gestanden: Das zerschlagene Hirn auf den nassen Kieseln, der Gestank von Wein und Kot, und ihr Bruder, zitternd mit der blutigen Stange in der Hand.
 
-»Raginbert wollte uns am nächsten Baum aufhängen. Ohne Priester, ohne Gericht. Die Schlinge lag mir schon um den Hals, das Seil brannte sich in mein Fleisch. Da trat Berengar vor ihn. Berengar kniete im Schlamm, Alda! Er war ein freier Mann, stolzer als alle Schiffer an der Ill, und er kroch vor Raginbert im Dreck! Er bot ihm alles. Seine Schiffe. Seinen Hof. Seinen Eid. Er schwor, die dreißig Pfund Silber für die geplünderte Kiste und das verletzte Kriegsvolk abzuarbeiten – wenn Raginbert mich laufen ließe.«
+»Und dann?«, fragte sie. »Ein Knecht Raginberts erschlägt einen Knecht Raginberts. Das kostet kein Gut. Das kostet Schläge oder ein paar Schillinge Buße.«
 
-Aldas Hände fielen herab. Sie ballten sich zu Fäusten in den Taschen ihres Mantels. Die Tonscherbe von Folrad bohrte sich scharf in ihr Fleisch, ein kleiner, brennender Schmerz, der sie im Hier und Jetzt hielt.
+»Er war kein gewöhnlicher Knecht«, flüsterte Gerwin, und seine Stimme brach fast. »Er war der Vetter des Vogts. Isenbarts eigenes Fleisch und Blut. Und das Korn ... das Korn war nicht gestohlen. Raginbert selbst hatte es beiseitegeschafft, am Fiskus vorbei, um es heimlich nach Speyer zu verkaufen, ehe der König die Speicher für den Krieg pfänden konnte. Der Junge wusste es. Und ich Narr hatte ihn erschlagen und das ganze Ufer zusammengeschrien!«
 
-»Und Raginbert nahm das Pfand«, sprach sie leise.
+Er ließ die Hände sinken, seine Schultern bebten nun unter hemmungslosem Schluchzen.
 
-»Er lachte«, flüsterte Gerwin. »Er lachte und ließ Otwin kommen. Otwin, den Schreiber, der immer an seiner Seite ritt. Otwin setzte die Urkunde auf. Noch in derselben Nacht, im Zelt, beim Schein einer Talglampe. Berengar setzte sein Handzeichen darunter. Dreißig Pfund Silber bis Martini. Wenn er nicht zahlt, fällt der Hof, das Haus, das Gespann und das Recht an Raginbert.«
+»Isenbart wollte mich an Ort und Stelle ertränken. Er hielt mich bereits mit dem Kopf unter Wasser in der Ill. Da kam Berengar dazu. Berengar sah die Getreidesäcke. Er verstand sofort, was Raginbert trieb. Er packte Isenbart am Kragen und drohte, am nächsten Morgen vor den Grafen zu treten und das falsche Getreide offenzulegen.«
 
-»Und du?«, fragte Alda. Ihre Stimme zitterte nicht, doch sie war schneidend wie das Eis auf der Steige. »Was tat mein treuer Bruder?«
+Alda zog die Brauen zusammen. Der Nebel begann sich zu lichten, doch das, was dahinter sichtbar wurde, war hässlicher als jede Lüge.
 
-Gerwin schlang die Arme um seinen mageren Leib. »Raginbert jagte mich mit der Peitsche aus dem Lager. Er schwor, wenn ich mich je wieder östlich der Vogesen blicken ließe, würde er mich den Hunden vorwerfen. Ich floh nach Metz. Ich dachte ... ich dachte, Berengar würde es schaffen. Er hatte doch die Salzrechte in Marsal! Er hatte die Kähne! Er war stark!«
+»Berengar hat Raginbert erpresst«, stellte sie fest. Es war keine Frage.
 
-»Er ist gestorben, Gerwin!«, schrie sie ihn an. »Er ist auf der Rückfahrt im Herbst vom Kahn ins eiskalte Wasser gestürzt, entkräftet, zerfressen von der Sorge um eine Schuld, von der ich kein einziges Wort wusste! Er hat sich zu Tode geschuftet für deine Schandtat! Und du hockst hier im Dreck der Bettler und lässt mein Kind im Stall erfrieren!«
+»Er wollte mein Leben retten!«, rief Gerwin flehend. »Er wollte nicht, dass unser Name geschändet wird! Raginbert bot den Vergleich an: Dreißig Pfund Silber als Wergeld für Isenbarts Sippe. Eine gewaltige Summe, die niemand zahlen konnte. Aber Raginbert sagte, wenn Berengar für ihn als Panzerreiter mit in den Krieg zieht, mit zwei Pferden und vollem Eisen, und wenn er eine Bürgschaft über den Hof unterschreibt – nur zur Sicherheit, falls er flieht –, dann sei die Schuld beglichen, sobald der König gesiegt hat. Dann würde der Herr die Urkunde zerreißen.«
 
-Gerwin brach vollends zusammen. Er warf sich vornüber, die Stirn auf das faulige Stroh gepresst, die Hände über dem Nacken verschlungen. »Schlag mich tot«, wimmerte er. »Nimm das Beil und spalte mir den Schädel. Ich tauge zu nichts mehr. Meine Hände taugen nicht mehr zum Rudern, meine Beine tragen mich nicht mehr. Ich bin ein toter Mann, Alda.«
+»Und Otwin?«, stieß Alda hervor. »Welche Rolle spielte der Schreiber?«
 
-Alda sah auf das Häuflein Elend herab. Kein Zorn stieg mehr in ihr auf. Der Zorn war verbrannt, verzehrt von der Kälte und der Erkenntnis. Berengar war kein Verräter gewesen, wie sie in den dunklen Stunden im Stall geglaubt hatte. Er war ein Narr gewesen. Ein stolzer, verblendeter Narr, der geglaubt hatte, das Recht der Großen mit der eigenen Hände Arbeit besiegen zu können, der die Schande vor seiner Frau verbarg, bis sie ihn ertränkte. Und Raginbert hatte das Spiel von Anfang an beherrscht – mit Otwins Feder und den Reitern im Rücken.
+Gerwin wischte sich mit dem Kittelrücken über die laufende Nase.
 
-Sie atmete tief ein. Der Dunst der Holzkammer drang in ihre Lungen, kalt und faulig, doch ihr Geist war klar wie der Himmel über den Bergen.
+»Otwin saß im Kontor des Vogts. Er musste die Urkunde schreiben. Er strich die Worte heraus, die Berengar schützten. Berengar konnte die lateinischen Zeichen nicht lesen! Er dachte, auf dem Kalbsleder stünde, dass der Hof nur haftet, wenn er die Fahne verrät! Aber Otwin ... Isenbart stand hinter ihm mit dem gezogenen Dolch. Sie haben Berengar eine Bürgschaft untergeschoben, die sofort fällig wurde, wenn er im Feld blieb. Sie wollten den Hof von Anfang an, Alda! Nicht wegen des Geldes. Wegen der Lände! Wegen der Salzschiffe! Raginbert wollte das Monopol auf der Ill, und Berengar war ihm seit zehn Jahren im Weg!«
 
-»Du wirst hier nicht krepieren«, sagte sie.
+Stille legte sich über die Holzkammer. Nur das Knacken des schwindenden Feuers und das heisere Keuchen eines Kranken aus der Nachbarhütte drangen durch die Wandritzen.
 
-Gerwin rührte sich nicht. Nur sein Schluchzen ebbte ab.
+Alda stand reglos da. Die Wahrheit war keine Erleichterung; sie wog schwerer als ein Fuder nasses Salz auf einer gebrochenen Achse. Berengar war kein Heiliger gewesen. Er war ein sturer, stolzer Fuhrmann gewesen, der geglaubt hatte, er könne mit den Wölfen heulen und sie am Ende überlisten. Er hatte gemeint, ein Schiedsgericht der Großen mit ihren eigenen Waffen schlagen zu können, und hatte dabei vergessen, dass das Pergament immer den Herren gehörte. Und er hatte sie belogen. Bis zu dem Tag, an dem er seinen Eisenhut aufsetzte und nach Westen ritt, hatte er ihr in die Augen gesehen und geschwiegen.
 
-»Hörst du mich?«, sprach sie weiter. Sie stieß mit der Stiefelspitze gegen seine verkrustete Ferse. »Du wirst nicht hier im Hospital verfaulen, bis dich die Totengräber in eine Grube scharren. Du hast diese Schuld über mein Haus gebracht, und du wirst dabei helfen, sie abzutragen.«
+»Und du?«, wandte sie sich an Gerwin. Ihr Blick brannte sich in seine Augen. »Warum bist du geflohen? Warum warst du nicht in Straßburg, als die Klage erhoben wurde? Du hättest bezeugen können, dass das Wergeld ein Betrug war!«
 
-Er hob mühsam den Kopf, die Augen rot gerändert, verklebt von Schleim und Dreck. »Wie? Ich habe keinen Heller ...«
+»Ich hatte Angst!«, schrie Gerwin auf und schlug mit der Faust auf den Lehmboden. »Verstehst du das denn nicht? Nach der Schlacht ... als die Nachricht kam, dass Berengar tot war, wusste ich, dass Isenbart mich holen würde! Es gab keinen Schutz mehr! Berengar war nicht mehr da, um sein Schwert dazwischenzuhalten! Wenn ich geblieben wäre, läge ich jetzt mit durchgeschnittener Gurgel im Schilf der Zaberner Aue!«
 
-»Ich brauche dein Silber nicht, du hast keines«, schnitt sie ihm das Wort ab. »Aber du kennst das Seille-Tal. Du kennst die Pfade um Marsal, die Schleichwege der Schmuggler, die wir damals mit den Wagen meiden mussten. Du kennst die Knechte an den Sudhäusern, mit denen du früher Holz gehandelt hast.«
+»Stattdessen liegt dein Neffe in einem feuchten Ziegenstall und friert«, sagte sie eisig. »Stattdessen muss der alte Berto Reisig sammeln, damit das Kind nicht erfriert, während ich den Dreck von Raginberts Stiefeln fressen soll!«
 
-Sie griff unter ihren Mantel, zog ein Stück getrocknetes Rindfleisch hervor, das sie in ein Leinentuch gewickelt hatte, und warf es ihm vor die Knie. Gerwin starrte darauf, als wäre es pures Gold. Seine Finger zuckten vor, griffen gierig nach der Nahrung, noch ehe sein Verstand begreifen konnte, was geschah.
+Gerwin sank wieder in sich zusammen. Er barg das Gesicht in den Händen, zitternd wie Espenlaub im Herbstwind.
 
-»Draußen steht Knecht Berto mit den Pferden«, fuhr sie fort. »Du isst das Fleisch. Dann nimmst du den alten Mantel, der über dem zweiten Saumsattel liegt. Wenn wir nach Marsal ziehen, wenn das Eis im Vorfrühling bricht, wirst du an unserer Seite gehen. Du wirst die Säcke schleppen, du wirst den Karren schieben, bis dir das Blut unter den Nägeln hervorspritzt. Jeder Schritt, den du tust, gehört von nun an meinem Sohn.«
+»Töte mich«, wimmerte er. »Gib mich den Vögten. Es ist mir gleich. Hier drin krepiere ich ohnehin bis Lichtmess. Meine Lunge brennt wie Feuer, und der Meister schlägt uns mit Weidenruten, wenn das Holz nicht reicht. Geh zu Isenbart. Sag ihm, wo ich bin. Vielleicht gibt er dir dafür einen Kahn zurück.«
 
-Gerwin kaute hastig auf dem zähen Fleisch herum, Tränen rannen ihm unaufhörlich über das Gesicht, doch in seinen Zügen mischte sich die Scham mit einem winzigen, verzweifelten Funken Hoffnung. Er nickte, einmal, zweimal, hastig, wie ein Ertrinkender, der nach einem Ast greift.
+Alda sah auf ihn hinab. Zorn kochte in ihr hoch, heiß und bitter wie geschmolzenes Pech, doch darunter lag etwas anderes: das kühle, berechnende Wesen einer Frau, die ihr ganzes Leben lang Ladungen gewogen, Achslasten verteilt und die Strömungen des Flusses eingeschätzt hatte. Mit Zorn kaufte man kein Brot. Mit Rache spannte man kein Ross vor den Wagen.
 
-»Ich tue es«, keuchte er, mit vollem Mund. »Alda ... ich schwöre es beim Grab unserer Mutter. Ich tue alles, was du verlangst.«
+Ein toter Bruder nützte ihr nichts. Ein Gehängter brachte ihr kein Silber und wusch die Schmach nicht von ihrem Namen.
 
-»Spar dir die Schwüre«, erwiderte sie kalt und wandte sich zur Tür. »Spar dir die Worte für die Schöffen auf, wenn der Tag kommt, an dem wir vor das Gericht der Könige treten.«
+Sie griff unter ihren Mantel, löste den kleinen ledernen Beutel, in dem sie ein paar gedörrte Äpfel und ein weiteres Stück Schinkenschwarten aufbewahrt hatte, und warf ihn vor Gerwins Knie in die Hobelspäne.
 
-Sie stieß den Holzflügel auf und trat hinaus in den Hof des Spitals. Der Schneeregen hatte aufgehört. Am westlichen Horizont riss die Wolkendecke auf und gab einen schmalen Streifen eisigen, blassgelben Lichts frei, das sich in den gefrorenen Pfützen spiegelte. Draußen stand Knecht Berto, die Peitsche schussbereit in der Faust, während zwei verkrüppelte Gestalten gierig nach den Futtersäcken der Pferde spähten. Als Berto seine Herrin sah, stieß er den Atem aus, der wie weißer Rauch in der Dämmerung stand.
+»Hör auf zu flennen«, sagte sie barsch. »Steh auf.«
 
-»Herrin?«, fragte er leise.
+Er hob zögernd den Kopf, blickte auf den Beutel und dann zu ihr auf, als verstünde er ihre Sprache nicht mehr.
 
-»Wir haben ihn«, sagte Alda und zog die Lederhandschuhe fester über die tauben Finger. »Er wird laufen. Zurück nach Marsal. Wir holen uns, was Berengar bezahlt hat.
+»Was ... was hast du vor?«
 
-«
+»Du wirst hier nicht krepieren«, sagte sie, und jeder Satz fiel fest wie ein Hammerschlag auf Eisen. »Du wirst dir die Lunge nicht vom Hospitalmeister zerschlagen lassen. Du wirst arbeiten. Aber nicht für die Pfründner und nicht für die Metzer Domherren.«
 
-Berto nickte finster, spuckte auf das gefrorene Pflaster des Spitalshofs und packte die Zügel der Tiere kürzer. »Wenn der Strick ihn nicht gewürgt hat, wird er schuften wie ein Ochse im Joch«, brummte der Knecht und musterte mit unruhigem Blick das morsche Holztor der Kammer. »Aber wir müssen fort aus dieser Vorstadt, Herrin. Ehe die Wachen des Bischofs die Runde reiten.«
+Sie bückte sich, packte ihn am Kragen seines zerrissenen Rupfenkittels und riss ihn mit einer Kraft empor, die sie sich selbst kaum zugetraut hätte. Er taumelte auf die Beine, roch nach totem Holz und Angstschweiß, doch sie ließ ihn nicht los.
 
-Aus dem Halbdunkel des Schuppens taumelte Gerwin hervor. Seine Finger krallten sich noch krampfhaft in die Reste des zähen Rindfleischs, während er den Kopf tief zwischen die schlotternden Schultern zog. Das Licht des späten Nachmittags schien ihm in den Augen zu brennen; er blinzelte feindselig gegen den grauen Himmel an und wankte auf geschwollenen, blutunterlaufenen Füßen über den schlammigen Vorplatz. Als sein Blick auf Knecht Berto fiel, duckte er sich instinktiv weg, als erwarte er den Hieb einer Peitsche.
+»Im Sommer teilt sich das Reich«, stieß sie hervor, ihr Gesicht dicht vor dem seinen. »Die Könige treffen sich in Verdun. Zehntausend Krieger, Trossknechte, Kleriker und Herren werden dort lagern. Sie brauchen Salz. Fleisch, das nicht verdirbt. Und ich werde dieses Salz liefern.«
 
-»Sieh ihn dir an«, murrte Berto verächtlich und warf Gerwin die grobe Pferdedecke aus rauem Ziegenhaar vor die Füße. »Einst ein stolzer Schiffer auf der Ill, und nun kriecht er wie ein Hund vor den Pfründnern im Kot. Wickel dich ein, Mann, ehe dir das Fleisch an den Rippen festfriert.«
+Gerwin blinzelte sie fassungslos an. »Alda ... du bist von Sinnen. Du hast keine Schiffe mehr!«
 
-Gerwin griff mit zitternden Händen nach dem steifen Tuch. Er schlug es um seinen ausgemergelten Rumpf, zog den Saum fest unter das Kinn und vermied es, den Knecht oder seine Schwester anzusehen. Der säuerliche Gestank des Siechenhauses haftete an ihm wie Pech, ein Hauch von Fäulnis und kaltem Schweiß, den selbst der schneidende Ostwind nicht fortzublasen vermochte.
+»Ich habe Guntram«, erwiderte sie hart. »Und ich habe den alten Karren. Und im Frühjahr, sobald der Schnee von den Vogesen weicht, brauche ich Männer, die zupacken können. Ich brauche keine Heulsusen, die sich in Kirchenwinkeln verkriechen, sondern Fuhrleute, die eine Achse im Schlamm anheben können, wenn die Speichen krachen.«
 
-»Wo ... wo führt ihr mich hin?«, brachte er mühsam hervor, während seine Zähne unaufhörlich aufeinanderstießen.
+Sie stieß ihn zurück gegen die Holzbeigen. Er fing sich mit den Händen an den Scheiten ab, atmete schwer und starrte sie an, als sähe er einen Geist.
 
-»Zurück über den Pass«, erwiderte Alda ohne jede Regung im Gesicht. Sie trat an ihr Saumpferd heran, prüfte mit einem festen Griff die Bastseile der Traglasten und raffte die Zügel. »Wir lagern diese Nacht nicht vor den Mauern von Metz. In der Talsenke hinter Longeville steht eine verlassene Köhlerhütte. Dort gibt es ein Dach gegen den Schneeregen und trockenes Reisig. Du wirst vor uns hergehen, Gerwin. Schritt für Schritt. Wenn du zurückbleibst, lassen wir dich im Schnee liegen.«
+»Du ... du vergibst mir?«, hauchte er.
 
-Gerwin hob den Kopf, und für einen flüchtigen Moment flammte in seinen trüben Augen das alte, sture Entsetzen auf. »Über die Steige? Bei diesem Wetter? Das überlebt kein Mensch zu Fuß! Die Wege sind verweht, die Wölfe wittern das Aas aus Meilen Entfernung ...«
+»Ich vergebe dir gar nichts«, schnitt sie ihm das Wort ab. »Keinen einzigen Atemzug. Du hast Berengars Tod auf dem Gewissen, und du hast Bertos Erbe verspielt. Jeder Schritt, den du tust, jede Schaufel Schlamm, die du vor meinen Rädern wegräumst, wird ein Pfennig sein, den du an deinem Neffen abzahlst. Wenn wir in Verdun ankommen und das Salz gewogen ist, dann bist du quitt. Nicht vorher. Bis dahin gehörst du mir. Nicht Raginbert, nicht dem Bischof. Mir.«
 
-»Du hast überlebt, wie Berengar für dich den Kopf hinhielt«, schnitt Alda ihm mit eisiger Schärfe das Wort ab. »Du wirst auch den Weg zurück schaffen. Vorwärts.«
+Sie wandte sich um und trat zur Tür. Ihre Hand lag bereits auf dem hölzernen Riegel, da hielt sie noch einmal inne und blickte über die Schulter zurück.
 
-Mit einem Ruck setzte sie sich in Bewegung. Knecht Berto trieb das vordere Saumpferd an, dessen Hufe schmatzend aus dem lehmigen Morast des Spitalshofs rissen. Gerwin zögerte einen Herzschlag lang, warf einen gehetzten Blick zurück auf die finstere Holzkammer, in der er wochenlang wie ein getretenes Tier gehaust hatte, und stolperte dann mit hängendem Kopf hinterdrein.
+»Wenn die Weiden an der Seille austreiben, komme ich wieder«, sagte sie. »Sei bereit. Wenn du dann noch hier im Dreck sitzt und winselst, lasse ich dich liegen, und du kannst zusehen, wie Isenbarts Knechte dir die Haut vom Fleisch ziehen. Hast du mich verstanden?«
 
-Sie passierten das äußere Gatter der Anlage. Der einäugige Pfründner auf der Bank hob nicht einmal den Kopf, als das kleine Gespann an ihm vorüberzog; seine starren Augen blickten stumm ins Leere, gefangen im unbarmherzigen Warten auf das Ende des Winters. 
+Gerwin stand da, den Kopf gesenkt, die Arme schlaff an den Seiten herabhängend. Doch als er wieder aufsah, war das feige Flackern in seinen Augen gewichen. Da war nur noch der nackte, dumpfe Wille eines Mannes, der auf dem Grund des Brunnens stand und zum ersten Mal ein Seil sah, an dem man sich die Hände blutig scheuern konnte, um hinaufzukommen.
 
-Draußen gabelte sich die alte Heerstraße. Nach Westen hin verloren sich die Wagenspuren im Dunst über der Mosel, doch Aldas Weg führte nach Osten, zurück zu den vereisten Hängen der Vogesen, zurück in das Herz der Bedrängnis. Der Wind frischte auf, fegte feine, nadelscharfe Eiskörner über das gefrorene Stoppelland und trieb die Kälte durch jede Faser ihres Mantels. Doch unter dem derben Loden schlug ihr Herz in einem festen, unerbittlichen Takt. 
+»Ich werde da sein«, sagte er leise. »Ich schneide die Deichseln aus den Eschen. Ich weiß, wo gutes Holz am Fluss steht.«
 
-Die Lüge war zerschlagen. Der Nebel, der Berengars Andenken und Otwins Verrat umhüllt hatte, war der nackten, harten Wahrheit gewichen. In ihrer Faust spürte Alda die scharfe Kante von Folrads Salzscherbe durch das Tuch ihrer Tasche schneiden. Sie hatte den Schuldigen an ihrer Seite und das Ziel vor Augen. Ehe das Frühjahr das Eis der Flüsse brach, würde der Karren gerüstet sein – und kein Schöffe und kein Grundherr würde ihr das Recht nehmen, das sie sich mit jedem Schritt durch diesen Schnee zurückholte.
+Alda nickte nur kurz, ein knappes Rucken des Kinns. Sie stieß die Schwartentür auf.
+
+Die Kälte schlug ihr wie eine feuchte Leinwand ins Gesicht. Der Himmel über Metz war nun fast schwarz geworden, nur im Westen, über den Hügeln des Maasgaus, glomm noch ein schmaler, blutroter Streifen Licht, ehe die Winternacht das Land verschlang. Der Schnee begann wieder zu fallen, dichte, schwere Flocken, die lautlos auf die elenden Hütten der Pfründner und die zerschlagenen Quader der alten Heidenbauten herabsanken.
+
+Alda band das Zugross los. Das Tier wandte ihr den Kopf zu und stieß seinen warmen Atem gegen ihre Wange. Sie strich ihm über die gefrorene Mähne, prüfte mit einem Griff den Sitz des Gurtes und schwang sich auf den Sattel. 
+
+Sie sah nicht mehr zurück zu der Holzkammer. Der Weg nach Straßburg war lang, drei Tage durch Eis und Schlamm über die Steige, und im Ziegenstall wartete ihr Sohn auf das Mehl, das sie mit ihren letzten Kräften gegen die Kälte verteidigen mussten. Doch während das Ross langsam durch den tiefen Schnee des Hospitalhofs stapfte und die Hufschläge im weichen Weiß erstickten, spürte Alda das Ziehen in ihren Gliedern nicht mehr. 
+
+Die Spur war gelegt. Sie wusste nun, wo der Feind stand, und sie wusste, woraus die Fesseln geschmiedet waren, die man ihr angelegt hatte. Es war kein Recht. Es war nur Angst, Gewalt und die Tücke jener, die das Pergament beherrschten. Aber Pergament brannte im Feuer, und das Salz aus den Tiefen des Rieds brauchte kein Siegel, um die Krieger der Könige zu nähren.
+
+Sie trieb die Fersen in die Flanken des Tieres und ritt in das Dunkel hinein, dem Osten entgegen, wo der Frost wartete.
 

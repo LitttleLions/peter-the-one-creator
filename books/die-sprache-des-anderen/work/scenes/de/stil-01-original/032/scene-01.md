@@ -1,150 +1,86 @@
 ## Die Glocken von Verdun
 
-Der Lärm des Heeres erstarb nicht, aber er veränderte seine Tonart. Es war kein Brüllen mehr, kein Klirren von Eisen gegen Schildbuckel, sondern ein tiefes, vibrierendes Wogen, das die feuchte Sommerluft über der Maas zerschnitt.
+Der Himmel über der Maas schmeckte nach altem Ofenruß und feuchtem Stroh, als der erste Glockenschlag vom Münster herabfiel. Es war kein hastiges Sturmleuten, wie Alda es aus den Jahren der Plünderungszüge kannte, sondern ein schwerer, erzener Ton, der den Schlamm unter den Holzsohlen erzittern ließ. Ein zweiter Schlag folgte, dumpfer noch, von der Marienkirche jenseits des Marktes erwidert, bis das Dröhnen wie dickflüssige Pottasche über die Dächer kroch und die Ausdünstungen von Tausenden Männern und Zugtieren in den Gassen erstickte.
 
-Über den Ziegeldächern der befestigten Oberstadt, wo das Münster der heiligen Maria wie ein massiger Fels im Häusermeer stand, schlug die erste Glocke an.
+Auf dem Karren ruckte Berto auf, die Knie an das Kinn gezogen, den Daumen fest in die grobe Wolle seiner Joppe gekrallt. »Mutter?«, murmelte der Junge und starrte zu den Zinnen empor, wo Tauben in grauen Schwärmen aus dem verfallenen römischen Mauerwerk stoben. »Kämpfen sie wieder?«
 
-Ein dumpfer, eherner Schlag. Er traf Alda in die Brust, fuhr durch das nasse Leder ihrer Bundschuhe tief in die Sohlen. Ein zweiter Ton folgte, heller, scheppernd, getragen von den Stricken der Domkleriker, die droben im Turm schwitzten. Dann fielen die Glocken der Abteien Sankt Paul und Sankt Vanne ein. Sie schlugen nicht den gemessenen Rhythmus der Horen, nicht das schleppende Geläut für die Toten von Fontenoy und nicht den stürmischen Takt eines Brandes. Es war der volle, ungebrochene Schall des Friedens.
+»Sie teilen«, antwortete Alda knapp. Sie ließ das Leder der Zügel nicht locker. Die beiden rotbraunen Zugochsen, die Gerwin vor die Deichsel gespannt hatte, hoben unruhig das Gehörn, das feuchte Flotzmaul voll schäumender Spucke. Das dumpfe Poltern des Erzes fuhr den Tieren in die Glieder; ein Ochs kannte den Unterschied zwischen Fron und Frieden nicht, wohl aber den Geruch von zu vielen Menschen auf zu engem Raum. »Bleib auf dem Kasten sitzen, Berto. Schau auf die Säcke, nicht auf die Reiter.«
 
-Aldas Griff um Otwins beschienten Arm lockerte sich nicht. Sie stand inmitten des Morastes vor der Porta Castrensis, den feuchten Saum ihres Wollgewands schwer von gelbem Lehm, und lauschte. Neben ihr hielt Berto ihren Rockzipfel umklammert. Der Junge legte den Kopf in den Nacken, starrte hinauf zu den schiefergrauen Zinnen der Bischofsburg.
+Aus den Gassen, die zur Bischofspfalz hinaufführten, schwappte das Volk. Es waren keine Krieger in Brünnen, die den Platz vor der Basilika fluteten, sondern der Troß: Hufschmiede mit rußgeschwärzten Schurzfellen, Mägde mit leeren Wassereimern, Träger, deren Nacken von den Tragjochen wundgerieben waren, und Händler, die ihre Wachstafeln und Ellenmaße an sich drückten wie Schilde. Sie drängten gegeneinander, stießen Flüche in drei verschiedenen Zungen aus, die sich in der Enge rieben wie Mahlsteine ohne Korn dazwischen.
 
-»Mutter?«, fragte er mit dünner Stimme. »Ist das der Kaiser?«
+Otwin trat dichter an den Wagenkasten, die Hände unter dem nassen Umhang verborgen. Sein Gesicht war bleich, doch der Blick unstet auf das Portal gerichtet, wo sich die Flügeltüren aus schwerem Eichenholz mit einem knarrenden Laut öffneten. 
 
-»Die Kaiser«, murmelte Otwin heiser. Er hustete trocken, schlang den rauen Wollmantel enger um die schmalen Schultern. Seine Finger zitterten gegen das Holz der Schiene. »Oder was von ihnen übrig blieb.«
+»Es ist vorbei«, sagte er leise, kaum lauter als das Schaben einer Achse im Sand. »Die Kanzler haben ihre Zeichen gesetzt. Dreißig Tage lang haben sie jedes Gut, jeden Waldsaum und jede Fischweide auf den Streifen vermessen, und nun schlagen die Kleriker das Kreuz darüber.«
 
-Aus den Gassen der Vorstadt strömten Menschen auf den Platz. Knechte ließen Karren stehen, Schiffer vertäuten ihre Nachen hastig an den Weidenpfählen des Maasufers, Hufschmiede traten mit rußgeschwärzten Lederschürzen und noch glimmenden Zangen ins Freie. Keiner blickte mehr auf den Richtplatz, auf den Schandpfahl oder auf die Stelle im Dreck, an der noch vor wenigen Herzschlägen Raginbert gestanden hatte. Die Macht des Grundherrn war zerronnen, weggespült von einem Ereignis, das größer war als das Recht einer einzelnen Stadt.
+Alda spuckte in den Rinnstein, wo eine tote Ratte zwischen Kohlstrünken trieb. »Sie haben drei Kronen und einen Acker. Wie schneidet man ein Fuder Heu in drei Haufen, ohne dass die Halme am Boden verfaulen?«
 
-Vom oberen Torbogen herab sprengten Reiter. Drei Rotten zu je zwölf Mann, die Hufe ihrer schweren Ardennerhengste schlugen Funken aus den runden Flusskieseln der Steige. Voran ritten Herolde in Waffenröcken, die keine einheitlichen Farben mehr trugen: Auf der Linken glänzten die Scharlachtuche der Gefolgsleute Karls, in der Mitte das kaiserliche Purpur Lothars, rechts das schwere, ungefärbte Wollgrau der baierischen und alemannischen Reiter Ludwig des Deutschen.
+»Sie schneiden nicht das Heu, Alda. Sie schneiden die Straßen.« Otwin deutete mit dem Kinn auf die Stufen der Kirche. Dort traten nun keine Fürsten ins Licht. Weder Lothar mit dem kaiserlichen Stirnreif noch seine Brüder Karl und Ludwig zeigten sich den Fuhrknechten und Metzgern. Stattdessen schritten Diakone hervor, weiß gekleidet, die Hände in den Ärmeln vergraben, gefolgt von Bannerträgern, deren Wimpel die Farben der drei Heerlager trugen: das verblichene Purpur des Kaisers, das frische Blau des Westens und das dunkle Grün der Baiern.
 
-Auf dem Münsterplatz hatten sich Tausende zusammengedrängt. Alda bahnte sich mit Ellenbogen und Entschlossenheit einen Weg durch die Menge, zog Berto fest an sich und hielt Otwin im Schlepptau. Der Geruch von nassem Pferdeschweiß, ungewaschenen Leibern, ranzigem Talg und Weihrauch lag wie eine dicke Decke über dem Pflaster.
+Ein Kleriker mit kahlem Scheitel und einer Stimme wie rissiges Pergament hob eine lange, lederne Hülse in die Höhe. Er sprach kein Latein, sondern stieß die Worte in der harten, fränkischen Volkssprache hervor, die jeder Fuhrmann verstand, selbst wenn die Laute über den Marktplatz hallten wie Schläge auf ein trockenes Fass.
 
-Vor dem Westportal des Münsters hielten die Reiter an. Ein Mann im bischöflichen Ornat trat auf die steinerne Kanzel über den Stufen. Neben ihm stand Nithard, den Federkiel noch hinter das Ohr geklemmt, die Schriftrollen unter den Arm gepresst. Seine Stirn glänzte im feuchten Augustdunst.
+»Friede den Christen!«, rief der Mann, und der Chor der Priester hinter ihm murmelte die Bestätigung wie ein fernes Gewittergrummeln. »Geeint sind die Enkel des großen Karls. Jedem sein Teil, jedem sein Volk, vom Meer bis zu den Bergen. Gott hat das Los geworfen, die Könige haben genickt.«
 
-Kein großes Pergament wurde entrollt. Kein prunkvolles Siegel aus rotem Wachs brach vor den Augen des gemeinen Volkes.
+Die Menge schwieg für den Herzschlag eines Vogels. Niemand jubelte. Ein alter Schiffer neben Aldas Rad, dessen Bart gelb vom Tabaksud war, wischte sich mit dem Handrücken über den Mund und wandte sich an einen Gerber. »Was rief er? Gehört Toul nun dem Kahlen oder dem Kaiser? Wo zahle ich den Brückenzoll?«
 
-Ein Kaplan trat vor und rief mit einer Stimme, die über das Murren der Menge gellte, die Worte in die Runde. Zuerst auf Latein, hart, abgezirkelt, unerbittlich.
+»Der Kaiser behält die Mitte«, rief ein Reiter dazwischen, der sich mühsam einen Weg durch die Kärrner bahnte. »Aachen bleibt Lothar! Und Rom! Alles, was dazwischen liegt, von der Küste bis zu den Reben am Rhein!«
 
-»Was sagt er?«, zischte ein Korbflechter neben Alda, dessen Hände nach fauligem Weidenbast stanken. »Sagt er, wer nun unser Herr ist?«
+»Und Straßburg?«, schrie eine Frau aus der Menge, die ein Kleinkind auf der Hüfte trug und deren Rock mit Pferdemist verschmiert war. »Wo liegt Straßburg?«
 
-»Halt das Maul und hör zu«, knurrte ein sächsischer Fußsoldat, der sich auf seine Lanze stützte.
+»Beim Kaiser!«, brüllte ein anderer zurück. »Nein, bei Ludwig! Die Grenze läuft mitten durchs Wasser!«
 
-Dann trat ein zweiter Sprecher vor, rief die Formeln in der fränkischen Zunge Karls aus, gefolgt von einem dritten, der das harte, kehlig rollende Alemannisch der Krieger jenseits des Rheins sprach.
+Ein zähes Murren hub an, wuchs an wie das Rauschen eines Wehrs im Frühjahrshochwasser. Niemand zeigte ein Schriftstück. Kein großes kaiserliches Pergament mit goldenem Siegel wurde den Leuten vor Augen gehalten, kein Pergamentstreifen von der Kanzel herabgeweht. Es gab nur das gesprochene Wort, das sich von Mund zu Mund verwandelte, zerfasert von Gerüchten, von Furcht und der Gewissheit, dass jeder Friede der Könige am Ende die Arbeit der Kleinen teurer machte.
 
-Die Brüder hatten sich verglichen. Das Reich Karls des Großen, das unteilbare Erbe der Franken, war zerlegt worden. Dreigeteilt. Wie ein Schlachtvieh auf der Richtbank.
+»Hörst du es?«, flüsterte Otwin, der seine Finger um den Holm der Karrenleiter legte. »Kein Mensch hat die Grenze je mit Augen gesehen. Nicht einmal die Gelehrten in Saint-Denis wissen, wo ein Bistum endet, wenn die Sümpfe dazwischenliegen. Sie haben die Welt mit dem Mund geteilt, aber die Erde wehrt sich dagegen.«
 
-Karl behielt den Westen, das Land der romanischen Zungen bis an die Schelde und die Maas. Ludwig erhielt den Osten, die Wälder, die Gaue der Sachsen, Bayern und Thüringer jenseits des Rheins. Und Lothar, der Kaiser ohne Vorrang, behielt die Mitte: einen langen, schmalen Riegel Land, der sich von den Friesischen Inseln über Aachen, Metz und Verdun bis hinab nach Italien und Rom erstreckte.
+»Mir gleich, wer die Kronen wiegt«, sagte Alda mit zusammengebissenen Zähnen. Sie sah, wie sich am oberen Tor die Masse zu teilen begann. Reiter preschten hervor. Es waren königliche Boten, deren Tiere mit Schaum bedeckt waren, die Hufeisen klapperten gellend auf den Resten der alten römischen Steinplatten, die man einst für die Legionen in den Grund gerammt hatte. Einer trug die lederne Depeschentasche nach Norden, den Maaslauf hinab; drei andere rissen ihre Rösser nach Osten herum, die Straße hinauf, die über die Ardennenhügel nach Diedenhofen und zur Mosel führte.
 
-Das Volk schwieg. Es war kein Jubel, kein Aufschrei. Nur ein ratloses, dumpfes Scharren von Holzschuhen im Sand.
+Sie ritten wie Männer, die ein Feuer austreten müssen, bevor der Wind dreht. Hinter ihnen stoben Hühner auseinander, ein Schweinehirt sprang fluchend in den Dreck, um seine Ferkel vor den Hufen zu retten.
 
-»Und wo sind wir?«, rief eine Magd mit einer Kiepe voll Lauch auf dem Rücken. »Zu wem gehören wir nun? Zu den Welschen oder den Deutschen?«
+»Sie reiten zu den Vögten«, murmelte Alda. »Bevor der Tag sinkt, sitzen an jeder Furt neue Knechte, die Zölle fordern. Für jeden Eimer Salz ein Silberling, für jedes Rad zwei Denare.«
 
-Niemand antwortete ihr. Die Boten der Könige trugen keine Karten, sie zeigten keine gemalten Grenzen. Sie sprachen von Flüssen, von Bistümern, von Abteien und Gauen. Sie nannten Namen, die kaum ein einfacher Fuhrmann je gehört hatte.
+»Aber Straßburg und Verdun liegen unter demselben Herrn«, warf Otwin ein, und zum ersten Mal klang seine Stimme nicht nach Kanzleistrenge, sondern nach vorsichtiger Hoffnung. »Lothar behält den Mittelstrich. Marsal, Metz, Straßburg – alles steht unter seinem Frieden. Raginbert kann dich im Osten nicht greifen, wenn du im Reich des Kaisers bleibst. Ludwig der Deutsche herrscht erst jenseits des Stroms.«
 
-»Verdun bleibt bei Lothar«, flüsterte Otwin. Seine Stimme war kaum mehr als ein Hauch, aber seine Augen funkelten mit der fiebrigen Schärfe des Kanzleimannes. Er stand dicht hinter Alda, sein Atem strich warm an ihrem Nacken vorbei. »Und Straßburg ebenso. Das ganze Elsass. Die Seille, Marsal, Metz, Straßburg – alles in einem einzigen Reich. Lothars Mittelreich.«
+Alda ließ die Zügel durch die schwieligen Hände gleiten. Die Hanfseile waren nass und rau, sie bissen in die Haut, ein vertrauter Schmerz, der den Kopf klar hielt. »Glaubst du an den Frieden von Brüdern, Schreiber? Hast du je zwei Hunde um einen Knochen gesehen, die Frieden schlossen, weil ein dritter Hund dazwischentrat?«
 
-Alda drehte sich langsam um. Die Worte sickerten tief in ihr Bewusstsein, wogen schwerer als das Silber, das man ihr unten am Fluss für das Salz versprochen hatte.
+Sie blickte zurück auf den Wagen. Berto hatte ein Stück Holz in der Hand, ein abgebrochenes Deichselstück, auf dem er mit einem stumpfen Nagel ritzte. Er versuchte, Otwins Buchstaben nachzuahmen, krumme, ungelenke Linien, die aussahen wie Hühnerkrallen im Sand.
 
-»Straßburg auch?«, fragte sie leise.
+»Berto«, rief sie scharf. »Leg das Holz weg. Fass das Seil am Mehlsack nach. Wenn der Sack rutscht, frieren wir im Winter.«
 
-»Straßburg auch«, bestätigte Otwin. »Ludwig hat das rechte Ufer des Rheins, die Bischofsstadt drüben, Mainz, Worms, Speyer. Aber das linke Ufer, das ganze Land zwischen Vogesen und Strom, gehört dem Kaiser. Raginbert mag auf seinem Gut in Straßburg sitzen, aber er untersteht denselben Gesetzen wie Metz. Und Ludwig, sein heimlicher Förderer, kann ihm über den Strom hinweg keine Truppen schicken, ohne den Frieden zu brechen.«
+Der Junge gehorchte ohne Widerrede, doch seine Augen hingen an den Türmen, von denen das Geläut nun langsamer wurde, schwerer, wie der Puls eines sterbenden Tieres. »Mutter, wenn die Stadt geteilt ist, wem gehört dann das Tor?«
 
-Berto zupfte an Otwins Knie. »Herr Otwin? Was bedeutet das? Wenn wir über den Rhein fahren, sind wir dann Fremde?«
+»Dem, der die Schranke senkt, mein Junge. Und dem, der das Silber hat, um sie wieder aufzuziehen.«
 
-Otwin blickte auf den Jungen hinab, seine Finger strichen flüchtig über Bertos zerzaustes Haar. »Ihr seid dort Gäste, Berto. Und wer den Fluss quert, muss wissen, wem das Boot gehört und wessen Münze im Beutel liegt.«
+Gerwin kam durch das Gedränge zurückgestampft. Sein Knie schmerzte ihn noch immer von dem alten Bruch, er hinkte leicht, doch seine breiten Fäuste waren fest um die Stricke der beiden Ochsen gewickelt. In seinem Bart klebten Haferhülsen.
 
-Rings um sie her brach das Stimmengewirr los. Ein Tumult des Unverständnisses. Kaufleute stritten erregt auf den Stufen des Doms. Ein Tuchhändler aus Tournai schrie auf einen Fuhrknecht aus Mainz ein.
+»Der Kämmerer hat den Schlagbaum am Osttor freigegeben«, keuchte er und wischte sich den Rotz mit dem Kittelärmel weg. »Aber draußen auf der Straße staut es sich bis zum Galgenberg. Die Trossknechte von Karl dem Kahlen weigern sich, die lothringischen Fuhrleute vorzulassen. Sie schreien, dass das Korn westfränkisch sei und die Straße ihnen gehöre. Ein Schreiber von Ludwigs Gnaden steht an der Brücke und schreibt jedes Rindvieh auf eine Rinde, damit kein Zehnt verloren geht.«
 
-»Mein Tuch liegt in Cambrai!«, wetterte der Händler. »Gehört Cambrai nun zu Karl? Muss ich Zoll zahlen, wenn ich es nach Trier bringe?«
+»Dann fahren wir nicht über die Brücke«, sagte Alda kühl.
 
-»Frage den Teufel!«, antwortete der Knecht grob. »Mein Herr hat Ochsen in Worms und Weiden im Ried. Wenn Ludwig der König ist, wer schützt mein Heu vor den Franken?«
+Gerwin starrte sie an. »Es gibt keine andere Furt vor der Mosel, die nicht versumpft ist nach dem Regen.«
 
-Niemand wusste es. Es gab keine geschriebenen Grenzsteine im Wald. Es gab nur die Gewissheit, dass der Strom, der jahrzehntelang das Herz des Reiches gewesen war, nun eine Nahtstelle war – oder ein Graben.
+»Es gibt die alten Wege der Heiden«, entgegnete sie und wies mit der Peitsche nach Süden, dorthin, wo die Wälder dunkel und schwer über den Hügelkämmen hingen. »Wo die Römer ihre Steine setzten, wächst der Dornbusch drüber, aber der Grund trägt. Kein Zöllner stellt sich in den Wald, solange er im trockenen Torhaus den Met saufen kann.«
 
-Vom Münsterportal sprengten die Königsboten los. Mit gepeitschten Pferden ritten sie in drei Richtungen davon: die einen nach Westen, dem Staub der Maasstraße folgend; die anderen nach Norden, dem Lauf des Flusses nach Aachen hinterher; die dritten wandten die Pferdeköpfe gen Süden und Osten, über die Hochebenen hinweg zum Rhein. Sie trugen die Botschaft in die Gaue, ohne Urkunde, nur mit dem Wort im Munde und den Siegelringen ihrer Herren an den Ketten.
+Otwin trat neben sie, den Blick sorgenvoll auf die fernen Baumkronen gerichtet. »Alda, das ist kaiserlicher Bannforst. Wenn uns die Förster greifen, nehmen sie die Ochsen und schneiden Gerwin die Ohren ab.«
 
-Alda sah ihnen nach. Der Schlamm spritzte hoch unter den Hufen der Tiere, flog gegen die Holzwände der Krambuden, traf die Schürzen der Frauen. Sie spürte keinen Schmerz mehr über den Verlust ihres Hofes am Schindertor. Der Hof war Holz, Stroh und Lehm gewesen, verpfändet von einem Mann, der im Geheimen gehandelt und ihr Vertrauen mit Schulden bezahlt hatte. Der Schlüssel lag im Dreck vor der Porta Castrensis. Raginbert mochte die leeren Scheunen besitzen, die morschen Dachbalken, die Kähne, die er an die Kette gelegt hatte.
+»Die Förster wissen heute selbst nicht mehr, wer ihr Herr ist«, sagte sie, und ihre Stimme schnitt durch den Lärm der Glocken wie ein scharfes Wiegemesser. »Lothar sitzt in Aachen, Karl zieht an die Seine, und Ludwig reitet nach Regensburg. Bis die Pergamente geritten sind, haben wir das Salz drei Tälern weiter verkauft.«
 
-Aber die Straßen gehörten ihm nicht.
+Sie trat an das Joch der Ochsen heran, legte die flache Hand an die warme, feuchte Stirn des vorderen Tieres und spürte das harte Pochen der Adern unter der dicken Haut. Die Last wog schwer im Kasten: zehn Pfund Silber in Barren und Münzen, verborgen unter doppelten Böden aus Weidengeflecht, dazu das Saatgut und das Mehl, das sie den Heermeistern abgetrotzt hatte. Raginbert mochte nun auf den leeren Hof an der Ill spucken und die verrotteten Schindeln zählen, die er ihr abgepresst hatte. Hier draußen, wo der Geruch von Schafmist und faulendem Stroh die Luft schwängerte, zählte keine Urkunde, die in einer warmen Klosterstube mit Rußtinte bemalt worden war. Hier zählte nur die Achse, die hielt, und das Zugross, das nicht lahmte.
 
-»Komm«, sagte Alda und fasste Berto bei der Hand.
+Rund um sie her brach Verwirrung aus wie Mehltau auf dem Korn. Zwei Weinhändler schlugen mit ihren Messlatten aufeinander ein, weil der eine mit Pariser Maß, der andere mit Speyerer Fuß messen wollte. Frauen schrien, ein Pferd scheute und trat eine Hütte aus Flechtwerk ein, aus der trockener Roggen in die Pfützen rann. Kleriker versuchten mit lauten Gebeten die Menge zu beruhigen, doch niemand kniete nieder; jeder klammerte sich an seine Kiste, seinen Karren oder seinen Sack.
 
-»Wohin, Mutter?«, fragte der Junge, während er über einen weggeworfenen Rübenstrunk stolperte.
+»Sie fürchten sich«, bemerkte Otwin leise. Seine schmalen Schultern zuckten unter dem Loden. »Die Welt war eins. Nun ist sie drei.«
 
-»Zu den Wagen. Zum Fluss.«
+»Die Welt war nie eins«, hielt Alda dagegen, ohne den Blick von den Tieren zu wenden. »Sie war nur für die groß genug, die oben saßen und zuschauten, wie wir den Dreck aus den Furchen karrten. Jetzt schlagen sie drei Zäune statt einem, und jeder Zaun hat ein Tor, an dem man feilschen muss.«
 
-Sie drängten sich durch die wogende Menge talwärts. Der Geruch der Stadt veränderte sich, je näher sie der Maas kamen. Der Dunst der Kirchenkerzen und der Schweiß der Volksmassen wichen dem kühlen Atem des Wassers, dem Aroma von nassem Schilf, geteerten Planken und feuchter Salzlauge.
+Sie wandte sich zu Gerwin um. »Nimm den langen Leitstrick. Wenn wir den Hang hinaufmüssen, legst du deine Schulter mit an die Speichen. Otwin, du nimmst die Schaufel. Wenn ein Rad einsinkt, will ich nicht erst warten, bis du dein Latein aufgesagt hast.«
 
-Am Flussufer herrschte emsiges Treiben. Die Knechte Walos standen um die sechzehn Wagen herum, die Äxte noch griffbereit im Gürtel, doch die Anspannung war von ihren Gesichtern gewichen. Gerwin saß auf einer Deichsel. Er hatte die rußigen Wangen im Flusswasser gewaschen, doch die Striemen an seinen Handgelenken, wo die Eisenstricke gescheuert hatten, leuchteten rot und geschwollen. Er hielt ein Stück Roggenbrot in beiden Händen, biss vorsichtig hinein, als könne er nicht glauben, dass es ihm gehörte. Als er Alda sah, hob er den Kopf, und in seinen Augen lag eine stumme, zittrige Dankbarkeit, die sie mit einem kurzen Nicken quittierte. Es bedurfte keiner Worte zwischen Geschwistern, die durch denselben Schlamm gewatet waren.
+Otwin nickte stumm. Es lag kein Hochmut mehr in seinen Augen, nur noch die zähe Ergebenheit eines Mannes, der begriffen hatte, dass sein ganzes Wissen um Worte wertlos war, wenn die Speichen brachen. Er griff nach dem Eschenholz der Schaufel, dessen Blatt von altem Lehm stumpf geworden war.
 
-Walo, der breitschultrige Fuhrmeister, kam ihnen mit schweren Schritten entgegen. Sein ledernes Wams war an den Schultern speckig vom Tragen der Mehlsäcke, sein Bart mit Asche und Pfeifenkraut durchsetzt.
+Alda schwang sich mit einer schnellen, geübten Bewegung auf den vorderen Holm des Wagens, zog den Rock zwischen die Knie und griff nach der Peitsche. Berto sah sie von unten an, die Augen weit, doch er weinte nicht mehr. Er sah die Härte in ihrem Gesicht, dieselbe Härte, mit der sie einst den Eisgang auf der Ill beobachtet hatte, wenn die Schollen gegen die Bordwand schlugen.
 
-»Sie haben geteilt«, sagte er trocken und spuckte einen gelblichen Strahl Tabaksaft ins Ufergras. »Die Kärrner oben reden von drei Königen. Gibt es nun drei Zölle?«
+»Vorwärts«, rief sie.
 
-»Vielleicht«, antwortete Alda. Sie trat an den vordersten Wagen, strich mit der Handfläche über das derbe Segeltuch, das die Salzfässer schützte. Unter dem Tuch lag der Reichtum von Marsal, weißes Gold, rein und trocken. »Oder gar keine für den, der weiß, wessen Proviant er fährt.«
+Die Glocken schlugen ein letztes Mal gemeinsam an, ein wildes, ungeordnetes Dröhnen, das wie zersprungenes Glas über den Dächern von Verdun verhallte. Dann verstummten sie, eine nach der anderen, bis nur noch das Schreien der Kärrner, das Schnauben der Mähren und das Knarren des Holzes übrigblieben.
 
-Otwin trat neben sie. Er zog ein Pergamentblatt aus seinem Gürtel – Nithards Bestätigung, versehen mit dem Zeichen des königlichen Vetters. »Wir haben kaiserliches Geleit für Lothars Lande. Und eine Bescheinigung von Karls Hofmeister für den Proviantkauf. Solange wir Salz von den Salinen der Seille an die Heerlager und Klöster liefern, sind wir Frachtführer des Reiches.«
-
-»Welches Reiches?«, knurrte Walo und kratzte sich am Nacken. »Es gibt ja drei.«
-
-»Des Reiches, das zahlt«, sagte Alda ohne Zögern.
-
-Sie sah über das Wasser. Auf der anderen Seite der Maas schlugen die Knechte der westfränkischen Fürsten bereits ihre Zelte ab. Knechte beluden Maultiere, Kisten wurden auf Schleifen verzurrt. Im Osten, auf den Hügeln über der Stadt, rüsteten die Truppen Ludwigs zum Abmarsch in Richtung Rhein. Das riesige Heerlager, das monatelang die Weiden zertrampelt und die Kornspeicher geleert hatte, löste sich auf. Zehntausende Mäuler zogen heimwärts, und jedes dieser Mäuler brauchte Salz, Korn, Fleisch und Leder.
-
-Die Welt war nicht mehr dieselbe wie im Winter, als Raginbert mit seinen Vögten vor ihrem Hoftor gestanden und sie für vogelfrei erklärt hatte. Das alte, starre Gefüge, in dem ein freier Bauer oder ein kleiner Händler an die Scholle eines Grafen gebunden war, riss an den Nähten auseinander. Wenn die Könige neue Grenzen zogen, wurden jene unentbehrlich, die wussten, wie man diese Grenzen überwand.
-
-»Wir verkaufen die Fässer an der Maas wie vereinbart«, sagte Alda zu Walo. Ihre Stimme hatte den klaren, schneidenden Klang von Silbermünzen, die auf Holz fielen. »Ein Drittel des Silbers geht an die Sieder in Marsal, so wie der Vertrag es festlegt. Ein Drittel gehört dir und deinen Fuhrleuten für die Gespanne und den Weg.«
-
-Walo blinzelte überrascht. Seine dicken Brauen zogen sich zusammen. »Und das letzte Drittel?«
-
-»Das gehört mir«, sagte sie. »Davon kaufen wir vier eigene Zugochsen und zwei neue Wagen in Metz. Und wir rüsten den Zug für den Herbst.«
-
-»Der Herbst kommt bald«, wandte Walo ein, doch in seinen Augen glomm der Respekt vor einer Frau, die mehr wagte als die meisten Männer seiner Zunft. »Die Wege werden tief sein. Die Vogesenpässe frieren früh zu.«
-
-»Wir fahren nicht über die Kämme, wenn der Frost einsetzt«, erwiderte sie. »Wir fahren die Flusstäler hinab. Die Maas nach Norden oder die Mosel nach Koblenz. Salz braucht man im Winter mehr als im Sommer, wenn das Schlachtvieh eingesalzen werden muss.«
-
-Gerwin stand von der Deichsel auf und trat näher. Er strich sich mit dem Handrücken über den Mund. »Und was wird aus mir, Alda? Wenn ich nach Straßburg gehe, schlägt Raginbert mich doch im ersten Hohlweg tot, kaiserliche Amnestie hin oder her.«
-
-Alda sah ihren jüngeren Bruder an. Sie sah die Schuld, die er trug, das Blut, das durch seine Torheit vergossen worden war, und das Opfer ihres toten Mannes, der lieber ein falsches Spiel getrieben hatte, als die Wahrheit zu gestehen. Aber sie sah auch den Mann, der in Marsal die Fässer geschleppt und die Ochsen durch den Dreck getrieben hatte.
-
-»Du gehst nicht nach Straßburg«, sagte sie hart. »Niemand von uns geht nach Straßburg. Dein Platz ist bei den Wagen, Gerwin. Du führst das vierte Gespann. Du sorgst dafür, dass die Achsen geschmiert sind und kein Knecht das Futter stiehlt. Wenn du kneifst, lasse ich dich am Wegrand stehen.«
-
-Ein Hauch von Farbe kehrte in Gerwins blasses Gesicht zurück. Er senkte den Kopf, nicht aus Scham, sondern aus Erleichterung. »Ich bleibe bei den Ochsen«, murmelte er.
-
-Alda wandte sich ab und ging ein paar Schritte den Uferpfad hinauf, dorthin, wo die Maas eine weite Biegung machte. Otwin folgte ihr schweigend. Seine leichten Lederschuhe machten kaum ein Geräusch im weichen Gras.
-
-Er blieb eine Elle hinter ihr stehen, bedacht darauf, ihren Raum nicht zu verletzen. Die Glocken von Verdun läuteten noch immer, aber der Schall war ferner geworden, gedämpft von den Weiden und dem Plätschern des Wassers.
-
-»Ihr habt kühn verhandelt«, sagte er leise. »Raginbert hat das Haus, aber er hat das Nachsehen.«
-
-»Er hat das, was tot ist«, erwiderte Alda, ohne sich umzudrehen. Ihr Blick folgte einem Stück Treibholz, das langsam im trüben Fluss trieb, fortgetragen von der Strömung gen Norden, dorthin, wo das Land Lothars sich im Nebel verlor. »Ein Hof ist nur Erde und Dachsparren. Man kann ihn niederbrennen oder verpfänden. Aber das Wissen um die Wege, die Verträge mit den Siedern und die Männer, die einem folgen – das kann kein Grundherr mit einem Schultheißenbrief pfänden.«
-
-Sie drehte sich zu ihm um. Otwin sah elend aus, ausgezehrt von den Monaten auf der Flucht, seine Wange hohl, das Tuch um seine verkrüppelte Hand schmutzig. Doch in seinen dunklen Augen brannte ein Licht, das sie kannte. Es war dasselbe Feuer, das sie selbst durch den Frost getrieben hatte.
-
-»Und du?«, fragte sie. »Wohin führt dein Weg?«
-
-Otwin blickte auf seine linke Hand, auf die Schiene aus Eschenholz, die seine krummen, steifen Knochen zusammenhielt. »Ein Schreiber ohne Kloster und ohne Herrn hat keinen Ort. Ein entlaufener Kleriker gehört nirgendwohin.«
-
-»Ein Schreiber, der zwei Sprachen schreibt und drei Gesetze kennt, gehört überall dorthin, wo gehandelt wird«, sagte Alda fest. »Glaubst du, diese drei Könige können ihr Land regieren, ohne dass jemand die Zölle aufschreibt? Glaubst du, die Händler in Trier oder Mainz wissen, wie man Verträge aufsetzt, die vor Karls und Ludwigs Richtern gleichermaßen gelten?«
-
-Otwin hob den Kopf. Ein feines, fast unscheinbares Zucken ging über seine Lippen. »Sie werden Gesetze brauchen. Für jedes Reich eigene.«
-
-»Und wir werden diejenigen sein, die sie kennen«, sagte Alda.
-
-Sie trat einen Schritt auf ihn zu. Sie streckte nicht die Hand nach ihm aus – das war nicht ihre Art, und es war noch zu viel Kälte und Bitterkeit aus den vergangenen Monaten zwischen ihnen zu schmelzen. Doch ihre Augen hielten seinen Blick fest.
-
-»Ich gehe nach Metz, Otwin. Wir überwintern in der Vorstadt, bei den Gerbern oder den Fuhrleuten an der Mosel. Berto muss lernen. Er muss lernen, wie man mit dem Rechenbrett umgeht und wie man Buchstaben auf Pergament setzt. Er soll kein Knecht werden, der sich vor dem Siegel eines Vogts beugt, weil er die Striche nicht lesen kann.«
-
-Otwins Brust hob und senkte sich. »Ich kann ihn lehren«, sagte er leise, und seine Stimme trug das erste Mal seit langem keine Furcht mehr in sich. »Ich kann ihm das Latein der Kanzleien beibringen. Und das Alemannische. Und die Schrift der Franken.«
-
-»Gut«, sagte Alda. »Dann hast du deine Aufgabe.«
-
-Sie wandte sich um und blickte zurück zu den Wagen. Berto half bereits einem der Knechte, die ledernen Riemen um eine Deichsel zu wickeln. Seine kleinen Hände griffen fest zu, unerschrocken vor dem groben Leder und dem Dreck. Er lachte, als das Zugpferd schnaubte und ihm feuchten Odem ins Gesicht blies.
-
-Alda atmete tief ein. Die Luft schmeckte nach feuchtem Kalk, nach dem Schlamm der Maas und nach dem herben Rauch der Feuer, an denen die Proviantmeister der Könige ihre Kessel hängten. Hinter ihr, über den Dächern von Verdun, verhallte der letzte Schlag der Münsterglocken.
-
-Die alte Ordnung war zerbrochen. Drei Reiche waren an einem einzigen Vormittag entstanden, zerschnitten durch den Willen dreier Brüder, die sich nicht einigen konnten und doch einigen mussten. Für die Bauern in den Dörfern mochte es das Ende der Welt bedeuten, neue Zölle, neue Vögte, neue Abgaben.
-
-Für Alda war es der Anfang.
-
-Sie strich ihr nasses Wollgewand glatt, griff nach dem Ledergurt, an dem ihr Geldbeutel hing, und ging mit festen, federnden Schritten hinab zu den Gespannen, die am Ufer auf ihren Befehl warteten.
+Alda trieb die Ochsen mit einem tiefen, gurgelnden Ruf an. Die Deichsel ruckte, das Leder spannte sich bis zum Äußersten, und mit einem zähen Schmatzen rissen sich die eisenbeschlagenen Holzräder aus dem Schlamm der Kaiserstadt. Hinter ihnen blieben die Mauern zurück, die Gesandten und das Pergament, das niemand sehen durfte; vor ihnen lag die zerschnittene Erde, reich an Gräben, Zöllen und Angst – und voll von Menschen, die essen mussten, ganz gleich, welchen Namen der König trug, der ihre Äcker zertrat.
 

@@ -2,204 +2,205 @@ book: die-sprache-des-anderen
 chapters:
   '001':
     title: Die Ketten an den Kähnen
-    rf_base: 23675d92542fb11c0edcb578fb4ebe2b7f3e95f4ef9fb553f2f4691283fd8120
-    peter_base: 23675d92542fb11c0edcb578fb4ebe2b7f3e95f4ef9fb553f2f4691283fd8120
-    base_export: 20261101-163902
+    rf_base: b384299c8c1c24b986ea2bc56cb3e8b3b34470eb2bbd2b7259d0a99c47c96828
+    peter_base: b384299c8c1c24b986ea2bc56cb3e8b3b34470eb2bbd2b7259d0a99c47c96828
+    base_export: 20261109-195331
+    rf_id: '232'
   '002':
     title: Der Eid der Könige
-    rf_base: 3776f9946255e6e982512764243a796c8917bde58a682d6c11c52eec2a73c718
-    peter_base: 3776f9946255e6e982512764243a796c8917bde58a682d6c11c52eec2a73c718
-    base_export: 20261028-142853
+    rf_base: 2902b02b64fbae2d60c74a728d3c4229c83b80904890226d9bd71a1f3cbb3b14
+    peter_base: 2902b02b64fbae2d60c74a728d3c4229c83b80904890226d9bd71a1f3cbb3b14
+    base_export: 20261109-195331
     rf_id: '233'
   '003':
     title: Die Frist des Grafen
-    rf_base: 8d93afc02ab3d33e9a9ecb5ccbbe8abdeb04f3b0d66ae78e686db9768d8f5d64
-    peter_base: 8d93afc02ab3d33e9a9ecb5ccbbe8abdeb04f3b0d66ae78e686db9768d8f5d64
-    base_export: 20261028-142853
+    rf_base: 03343d5d02c05fad6b93d264120ca6041bb89dac8b4bbef81af48ceaf62e4d6a
+    peter_base: 03343d5d02c05fad6b93d264120ca6041bb89dac8b4bbef81af48ceaf62e4d6a
+    base_export: 20261109-195331
     rf_id: '234'
   '004':
     title: Das Flüstern an der Schwelle
-    rf_base: 66ec8265478e7b5a2b7a5828d56af9536ce53f541cb904d36fd5e3946ef4d942
-    peter_base: 66ec8265478e7b5a2b7a5828d56af9536ce53f541cb904d36fd5e3946ef4d942
-    base_export: 20261028-142853
+    rf_base: 226dd83d10f3db73ba0b5bcc58a20bed6c32fe4d08d6b1f77c233c8eaf2ed96e
+    peter_base: 226dd83d10f3db73ba0b5bcc58a20bed6c32fe4d08d6b1f77c233c8eaf2ed96e
+    base_export: 20261109-195331
     rf_id: '235'
   '005':
     title: Das Siegel des Klosters
-    rf_base: d66628a02fa890ae291edae220cd6d6f22b11a4e31d626ee23530344eb3c888a
-    peter_base: d66628a02fa890ae291edae220cd6d6f22b11a4e31d626ee23530344eb3c888a
-    base_export: 20261028-142853
+    rf_base: 756c76daab32464e59326a950f0057a48d1c13cdfb7ac1a446b70f200d958a61
+    peter_base: 756c76daab32464e59326a950f0057a48d1c13cdfb7ac1a446b70f200d958a61
+    base_export: 20261109-195331
     rf_id: '236'
   '006':
     title: Der Schatten von Fontenoy
-    rf_base: 52ae6016485cda77827c477bf80820140f4772d446d5c5bdfa1c826300342a3a
-    peter_base: 52ae6016485cda77827c477bf80820140f4772d446d5c5bdfa1c826300342a3a
-    base_export: 20261028-142853
+    rf_base: 365e8f1ed8ff40451e2f383db0bbc7ca4f425ba959112047eb5dcaf1b4e32f36
+    peter_base: 365e8f1ed8ff40451e2f383db0bbc7ca4f425ba959112047eb5dcaf1b4e32f36
+    base_export: 20261109-195352
     rf_id: '237'
   '007':
     title: Die Zaberner Steige
-    rf_base: 0b74197230fb08a33323ba6e268c7f66a65d57e3b91a58fe5c1ad4fd6db167df
-    peter_base: 0b74197230fb08a33323ba6e268c7f66a65d57e3b91a58fe5c1ad4fd6db167df
-    base_export: 20261028-142853
+    rf_base: 151d1e6f408084fb9596abdf8d00c2f5cf2534e7dd238b931b632161a87d1f55
+    peter_base: 151d1e6f408084fb9596abdf8d00c2f5cf2534e7dd238b931b632161a87d1f55
+    base_export: 20261109-195352
     rf_id: '238'
   008:
     title: Der weiße Rauch
-    rf_base: c661c371a934685ac52cc84f7494b7aec02daff3ce0d4c0ac60047775806dd2b
-    peter_base: c661c371a934685ac52cc84f7494b7aec02daff3ce0d4c0ac60047775806dd2b
-    base_export: 20261028-142853
+    rf_base: ac90490aa716676b7a344cb2fe03e8d0e7eb6d83f4dfdec391d4ebfd462a3a1b
+    peter_base: ac90490aa716676b7a344cb2fe03e8d0e7eb6d83f4dfdec391d4ebfd462a3a1b
+    base_export: 20261109-195352
     rf_id: '239'
   009:
     title: Die Pfannen von Marsal
-    rf_base: 87f1149432209a0153844ca259c00f2387f3d5a0f06de74a5bed3b6242fbfc7b
-    peter_base: 87f1149432209a0153844ca259c00f2387f3d5a0f06de74a5bed3b6242fbfc7b
-    base_export: 20261028-142853
+    rf_base: b7997593b57e9dacd02718471129a41bee8e933d77b806bdfab16e114037b79e
+    peter_base: b7997593b57e9dacd02718471129a41bee8e933d77b806bdfab16e114037b79e
+    base_export: 20261109-195352
     rf_id: '240'
   '010':
     title: Das Bündnis der Hände
-    rf_base: 692ef1b111f1fa28f85f9e0db9b76153cacb5759da88d35fd53f6af36794bd88
-    peter_base: 692ef1b111f1fa28f85f9e0db9b76153cacb5759da88d35fd53f6af36794bd88
-    base_export: 20261028-142853
+    rf_base: 93de653290db1770821cddc66f8ea75b02f316ca082a0b9e43d60b2eb55a12b7
+    peter_base: 93de653290db1770821cddc66f8ea75b02f316ca082a0b9e43d60b2eb55a12b7
+    base_export: 20261109-195352
     rf_id: '241'
   '011':
     title: Die Macht des Pergaments
-    rf_base: cebf2c6ba3a6b734236ac97be079c46fc697c9904d70be0c4a2fb75b446046db
-    peter_base: cebf2c6ba3a6b734236ac97be079c46fc697c9904d70be0c4a2fb75b446046db
-    base_export: 20261028-142853
+    rf_base: 2890fcf8dda06caca37456ec9aa7eb98199308e90c150e32088a4c37f4ea02a8
+    peter_base: 2890fcf8dda06caca37456ec9aa7eb98199308e90c150e32088a4c37f4ea02a8
+    base_export: 20261109-195400
     rf_id: '242'
   '012':
     title: Die Zuflucht in den Mauern
-    rf_base: c08e30de0d5ff432b021113557b393d6ef8cca366bb812752f95338f776cd383
-    peter_base: c08e30de0d5ff432b021113557b393d6ef8cca366bb812752f95338f776cd383
-    base_export: 20261028-142853
+    rf_base: ccab6af8725fdadf06c37397761d809c7e7296a3108441ec9458e2201066d379
+    peter_base: ccab6af8725fdadf06c37397761d809c7e7296a3108441ec9458e2201066d379
+    base_export: 20261109-195400
     rf_id: '243'
   '013':
     title: Die Begegnung auf dem Markt
-    rf_base: f14228eeeaad02b959fb5bc6ab4c011e215d9f019ad99a4198ef3ee09ce65f5f
-    peter_base: f14228eeeaad02b959fb5bc6ab4c011e215d9f019ad99a4198ef3ee09ce65f5f
-    base_export: 20261028-142853
+    rf_base: abbcfd1ccc95c1877f7ec0a1a48b27b8757506361b9b99f2e8e208bc1903d007
+    peter_base: abbcfd1ccc95c1877f7ec0a1a48b27b8757506361b9b99f2e8e208bc1903d007
+    base_export: 20261109-195400
     rf_id: '244'
   '014':
     title: Das Netz der Halbwahrheiten
-    rf_base: fa8fc2212d3f7dbb6f8ff0e1825dd5212a669c4da4c1262757dbe5b4986fd6d0
-    peter_base: fa8fc2212d3f7dbb6f8ff0e1825dd5212a669c4da4c1262757dbe5b4986fd6d0
-    base_export: 20261028-142853
+    rf_base: 1e8cd8e13426bbcc4f6a76cef265a39143160c8f6511eca9613104c909077f73
+    peter_base: 1e8cd8e13426bbcc4f6a76cef265a39143160c8f6511eca9613104c909077f73
+    base_export: 20261109-195400
     rf_id: '245'
   '015':
     title: Die verweigerte Brücke
-    rf_base: 8024ae6f75acfbe0df189575944143e2925f78c002bb126cf424f75e5ad23f89
-    peter_base: 8024ae6f75acfbe0df189575944143e2925f78c002bb126cf424f75e5ad23f89
-    base_export: 20261028-142853
+    rf_base: 18400e135c4ff14dab3a71436ac797d51428131a2449c1c25bbb5e0ae038d0c9
+    peter_base: 18400e135c4ff14dab3a71436ac797d51428131a2449c1c25bbb5e0ae038d0c9
+    base_export: 20261109-195400
     rf_id: '246'
   '016':
     title: Die Furt im Herbstregen
-    rf_base: 93865e9b1638ba4afdf864dd7b884a869dccc3fb9d5589a96c39f5c923ba6802
-    peter_base: 93865e9b1638ba4afdf864dd7b884a869dccc3fb9d5589a96c39f5c923ba6802
-    base_export: 20261028-142853
+    rf_base: 3a1024634aadd15c229ffb1236015bddd474709bc6afb5f8930a946a4508c0f5
+    peter_base: 3a1024634aadd15c229ffb1236015bddd474709bc6afb5f8930a946a4508c0f5
+    base_export: 20261109-195407
     rf_id: '247'
   '017':
     title: Die entblößte Hand
-    rf_base: 078daec3d37b72b46b00a423004f02c872bef6bf5cdb2492f7966b514601508b
-    peter_base: 078daec3d37b72b46b00a423004f02c872bef6bf5cdb2492f7966b514601508b
-    base_export: 20261028-142853
+    rf_base: 163e3384d1fe9e1d7eaed15d54f46da503375969adf493833ce220235059fc86
+    peter_base: 163e3384d1fe9e1d7eaed15d54f46da503375969adf493833ce220235059fc86
+    base_export: 20261109-195407
     rf_id: '248'
   018:
     title: Im kalten Morgenlicht
-    rf_base: a9130ca2fd95e5cdf60e64f3b60808c023da323f6c1dfe9623770f21fdc92d12
-    peter_base: a9130ca2fd95e5cdf60e64f3b60808c023da323f6c1dfe9623770f21fdc92d12
-    base_export: 20261028-142853
+    rf_base: 7fbe3552a1754292ee5297bd59f40d82805af3906d903bf82dfa803949eabed5
+    peter_base: 7fbe3552a1754292ee5297bd59f40d82805af3906d903bf82dfa803949eabed5
+    base_export: 20261109-195407
     rf_id: '249'
   019:
     title: Der Verlust des Speichers
-    rf_base: 5b5a0d9beab197c1f50371ad26cf68c6fa7b8571cd897ff60c043ada8e060076
-    peter_base: 5b5a0d9beab197c1f50371ad26cf68c6fa7b8571cd897ff60c043ada8e060076
-    base_export: 20261028-142853
+    rf_base: 4bddca9651c7da218fc4176daad237bc770cdc7113002a41d6a0a32d773a5772
+    peter_base: 4bddca9651c7da218fc4176daad237bc770cdc7113002a41d6a0a32d773a5772
+    base_export: 20261109-195407
     rf_id: '250'
   '020':
     title: Die Boten der Teilung
-    rf_base: 0ddfbbde975a04b6a1bfc134f8a564db0f60d8357e4636c0ae2e8bde3184439f
-    peter_base: 0ddfbbde975a04b6a1bfc134f8a564db0f60d8357e4636c0ae2e8bde3184439f
-    base_export: 20261028-142853
+    rf_base: 4f93afabbc678ed93a649a62eba23caa8a683587bc5e477b3223a260f2047e8f
+    peter_base: 4f93afabbc678ed93a649a62eba23caa8a683587bc5e477b3223a260f2047e8f
+    base_export: 20261109-195407
     rf_id: '251'
   '021':
     title: Die Spur im Schnee
-    rf_base: 40e851c648d1bd67da3566674d364b732ccae8d1228585bee495dab830fa3d24
-    peter_base: 40e851c648d1bd67da3566674d364b732ccae8d1228585bee495dab830fa3d24
-    base_export: 20261028-142853
+    rf_base: 6c2540ec0b84318d635ea3c1419351a91f4721fb082be02576de91da538e91d9
+    peter_base: 6c2540ec0b84318d635ea3c1419351a91f4721fb082be02576de91da538e91d9
+    base_export: 20261109-195415
     rf_id: '252'
   '022':
     title: Die Beichte des Bruders
-    rf_base: 310ad05110ef298a02ff72b3e8b5ca347f7fd4768a8f48ef4847f75f59f6b268
-    peter_base: 310ad05110ef298a02ff72b3e8b5ca347f7fd4768a8f48ef4847f75f59f6b268
-    base_export: 20261028-142853
+    rf_base: caa96b5604eec6b575b25696a2cdec95d06aacf44f41ff81843514511a8e32b8
+    peter_base: caa96b5604eec6b575b25696a2cdec95d06aacf44f41ff81843514511a8e32b8
+    base_export: 20261109-195415
     rf_id: '253'
   '023':
     title: Die Schrift der Knechtschaft
-    rf_base: 921d9c2b838e2dc5d514bc6ef60513937d74764f43f48eac5e1961322c8bafb7
-    peter_base: 921d9c2b838e2dc5d514bc6ef60513937d74764f43f48eac5e1961322c8bafb7
-    base_export: 20261028-142853
+    rf_base: a763a1bb08e1c59b4b853772af0701e46e3ddf116a4be05901d177741fde52b9
+    peter_base: a763a1bb08e1c59b4b853772af0701e46e3ddf116a4be05901d177741fde52b9
+    base_export: 20261109-195415
     rf_id: '254'
   '024':
     title: Der Plan für Verdun
-    rf_base: 17c1c82a66b823053917b4c9e3749028fed0bfbf77c0076d69fee692b3cc73bc
-    peter_base: 17c1c82a66b823053917b4c9e3749028fed0bfbf77c0076d69fee692b3cc73bc
-    base_export: 20261028-142853
+    rf_base: 609a978aa24fad823d2ccbb62b7fb0bc473c255caf60009e2d08d1bd619dd2cf
+    peter_base: 609a978aa24fad823d2ccbb62b7fb0bc473c255caf60009e2d08d1bd619dd2cf
+    base_export: 20261109-195415
     rf_id: '255'
   '025':
     title: Der Bund von Marsal
-    rf_base: b1e3cf499338bdfa2cc39a66c8591d896c2ae273fd88b38c057edaa39f25c638
-    peter_base: b1e3cf499338bdfa2cc39a66c8591d896c2ae273fd88b38c057edaa39f25c638
-    base_export: 20261028-142853
+    rf_base: c0fb9599e7a6d7a59b7b910ab20ed7485f29867c272d3cb3d2ed9c72299ff8a0
+    peter_base: c0fb9599e7a6d7a59b7b910ab20ed7485f29867c272d3cb3d2ed9c72299ff8a0
+    base_export: 20261109-195415
     rf_id: '256'
   '026':
     title: Die Versammlung der Fuhrleute
-    rf_base: d0286c4ae86d3f47e54d127e65b1748a54db7f76d611bb2c6af4fb9d667a966e
-    peter_base: d0286c4ae86d3f47e54d127e65b1748a54db7f76d611bb2c6af4fb9d667a966e
-    base_export: 20261028-142853
+    rf_base: 3b378027063f5963e3532ad2c169f6e6007a918844007519dbae2dc8170b1862
+    peter_base: 3b378027063f5963e3532ad2c169f6e6007a918844007519dbae2dc8170b1862
+    base_export: 20261109-195422
     rf_id: '257'
   '027':
     title: Der Zug nach Westen
-    rf_base: 9abff8e854292d2d991ffe071dcc1c220e7713871f2cb7d27ad021312e0e0f53
-    peter_base: 9abff8e854292d2d991ffe071dcc1c220e7713871f2cb7d27ad021312e0e0f53
-    base_export: 20261028-142853
+    rf_base: fd42ad59be22df2a6260131d748b177fc693d4a3af2af5f057315c49a8b54a92
+    peter_base: fd42ad59be22df2a6260131d748b177fc693d4a3af2af5f057315c49a8b54a92
+    base_export: 20261109-195422
     rf_id: '258'
   028:
     title: Das Lager vor Verdun
-    rf_base: ab26e0d07604dea3a534969fa4215933e1fc3a85bcefd0162bd0ffc36c42738f
-    peter_base: ab26e0d07604dea3a534969fa4215933e1fc3a85bcefd0162bd0ffc36c42738f
-    base_export: 20261028-142853
+    rf_base: dd5cab05381e20dc52c8dac70f37a195d8d916597d1cc8aa80492b65bad2934b
+    peter_base: dd5cab05381e20dc52c8dac70f37a195d8d916597d1cc8aa80492b65bad2934b
+    base_export: 20261109-195422
     rf_id: '259'
   029:
     title: Die Beschlagnahmung an der Maas
-    rf_base: 8723bdfdb0f927f30c7d788ba0887a385e3f41f6c4f5be9557c4f541ce730e3b
-    peter_base: 8723bdfdb0f927f30c7d788ba0887a385e3f41f6c4f5be9557c4f541ce730e3b
-    base_export: 20261028-142853
+    rf_base: 0aa3c490f89dacb1470fec362e5c3889cd25c2178d2642d7c38593f3892a3500
+    peter_base: 0aa3c490f89dacb1470fec362e5c3889cd25c2178d2642d7c38593f3892a3500
+    base_export: 20261109-195422
     rf_id: '260'
   '030':
     title: Der Plan am Flussufer
-    rf_base: af0e4c11eb8f658518627d18f9938e5922a718b1bb2a2aca374710b3f0e23f82
-    peter_base: af0e4c11eb8f658518627d18f9938e5922a718b1bb2a2aca374710b3f0e23f82
-    base_export: 20261028-142853
+    rf_base: d237b91f3a291c8ce7934a00dc99a5498b0b3e8e10ef96b9a88fbfd035ecc616
+    peter_base: d237b91f3a291c8ce7934a00dc99a5498b0b3e8e10ef96b9a88fbfd035ecc616
+    base_export: 20261109-195422
     rf_id: '261'
   '031':
     title: Das Grafengericht von Verdun
-    rf_base: 5226b8a41fefe5403128a4c2e1cc405bb34d81c22a2da7bc0952c82d0ca10bdb
-    peter_base: 5226b8a41fefe5403128a4c2e1cc405bb34d81c22a2da7bc0952c82d0ca10bdb
-    base_export: 20261028-142853
+    rf_base: fd03eb16c04d1d4dce1d397e693f0d05e34043abc1d2efcb7335d978c232f1dc
+    peter_base: fd03eb16c04d1d4dce1d397e693f0d05e34043abc1d2efcb7335d978c232f1dc
+    base_export: 20261109-195430
     rf_id: '262'
   '032':
     title: Die Glocken von Verdun
-    rf_base: 65f4a62f115e2108e70dad6aa4358bfe956f09595836825c505bafde752b5983
-    peter_base: 65f4a62f115e2108e70dad6aa4358bfe956f09595836825c505bafde752b5983
-    base_export: 20261028-142853
+    rf_base: 5a46dd7588fe1459b3dab8ce35fbcd7cdad4015f527b6b897757d082d30404f8
+    peter_base: 5a46dd7588fe1459b3dab8ce35fbcd7cdad4015f527b6b897757d082d30404f8
+    base_export: 20261109-195430
     rf_id: '263'
   '033':
     title: Der Abschied am Fluss
-    rf_base: 9a48d12014100d65c0ce914eb08bf243811318c30d3e90d86100b4a088fc771c
-    peter_base: 9a48d12014100d65c0ce914eb08bf243811318c30d3e90d86100b4a088fc771c
-    base_export: 20261028-142853
+    rf_base: f1f1c540aafecd0e70e35f60d088bc600f94c25c3e223d7ceb96633e67d80a55
+    peter_base: f1f1c540aafecd0e70e35f60d088bc600f94c25c3e223d7ceb96633e67d80a55
+    base_export: 20261109-195430
     rf_id: '264'
   '034':
     title: Die Straße nach Osten
-    rf_base: 3ea864a2b1c28029306473ae23e6c71acbb7010ec3509dac6f316b621ab9f088
-    peter_base: 3ea864a2b1c28029306473ae23e6c71acbb7010ec3509dac6f316b621ab9f088
-    base_export: 20261028-142853
+    rf_base: 380a8a4958275915b8425e2eeb69c394099401a8b9be3ae6fdd2b555f0f0d034
+    peter_base: 380a8a4958275915b8425e2eeb69c394099401a8b9be3ae6fdd2b555f0f0d034
+    base_export: 20261109-195430
     rf_id: '265'

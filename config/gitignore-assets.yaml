@@ -1,0 +1,31 @@
+# ============================================================
+# Git-Ausschluss fuer grosse, regenerierbare Medien
+# ============================================================
+# Wird pro Buch ueber tools/sync_book_gitignore.py in
+# books/<id>/.gitignore geschrieben. Schalter pro Buch in book.yaml:
+#
+#   gitignore:
+#     large_assets: true      # false -> keine Muster schreiben
+#     extra_patterns:         # zusaetzliche, buchspezifische Zeilen
+#       - "/work/grosses-original/"
+#     disabled_patterns:      # einzelne Default-Muster abwaehlen
+#       - "/assets/audio/"
+#
+# EPUB/DOCX/A5 nutzen weiter assets/chapter bzw. assets/scene. Nur die
+# Druckoriginale, Audio, Video und Clips sind regenerierbar und gehoeren
+# deshalb nicht in die Historie (.git war bereits ueber 2 GB).
+
+defaults:
+  patterns:
+    - "/assets/master/"
+    - "/assets/audio/"
+    - "/assets/video/"
+    - "/assets/scene/*/originals/"
+    - "/work/media-originals/"
+    - "/exports/**/audio/"
+    - "/exports/**/video/"
+    - "/exports/marketing/clips/"
+
+# Oeffnet die verwaltete Sektion in books/<id>/.gitignore an bzw. zu.
+begin_marker: "# >>> motivatier:large-assets >>>"
+end_marker: "# <<< motivatier:large-assets <<<"

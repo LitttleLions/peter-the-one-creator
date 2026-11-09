@@ -92,3 +92,6 @@ webapp/frontend/*.tsbuildinfo
 books/*/work/image-recovery/*/originals/
 books/*/work/image-recovery/*/jpg/
 books/*/work/image-recovery/*/before/
+
+# KDP-Sitzung (lokale Laufzeitdaten)
+.kdp-session/

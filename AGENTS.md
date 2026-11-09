@@ -224,11 +224,14 @@ Zwei Arten von Aenderungen, getrennt committen:
 - **Code und Doku des Programms (`tools/`, `tests/`, `webapp/`, `config/`, `docs/`,
   `AGENTS.md`, `README.md`):** einzeln und bewusst committen, nur mit gruenen Tests;
   eigener Commit, nicht mit Buchinhalt gemischt.
-- **Ausnahme: grosse, regenerierbare Ausgaben** (`books/<id>/exports/**`: PDF, EPUB,
-  HTML-Zwischenstaende; einzelne Dateien bis ueber 70 MB). Sie werden nicht massenhaft
-  committet, weil das Repository sonst waechst (`.git` hat schon ueber 2 GB). Was als
-  Auslieferungsstand gilt (z. B. das EPUB/PDF einer Veroeffentlichung), wird bewusst
-  und einzeln committet; alte Probelaeufe werden nach Rueckfrage geloescht oder ignoriert.
+- **Ausnahme: grosse, regenerierbare Ausgaben** (`books/<id>/exports/**`: PDF, EPUB, `print/`,
+  `work/`; einzelne Dateien bis ueber 70 MB). Sie sind seit 2026-11-09 ueber den verwalteten
+  Abschnitt in `books/<id>/.gitignore` ausgeschlossen (`config/gitignore-assets.yaml`,
+  `tools/sync_book_gitignore.py`) und werden nicht committet, weil das Repository sonst waechst
+  (`.git` hat schon ueber 2 GB). Marketingtexte (`exports/marketing/*.md|json`) gehoeren dagegen
+  zum Buchinhalt und werden mit committet. Ein Auslieferungsstand (z. B. das EPUB/PDF einer
+  Veroeffentlichung) wird bewusst und einzeln mit `git add -f` committet; alte Probelaeufe werden
+  nur nach Rueckfrage geloescht.
 - Medien (Bilder-Originale, Audio, Video) steuert `books/<id>/.gitignore` (verwalteter
   Abschnitt, `tools/sync_book_gitignore.py`).
 - Vor dem Wechsel der KI oder des Rechners: `git status` muss sauber sein, `git stash list`

@@ -25,6 +25,13 @@ defaults:
     - "/exports/**/audio/"
     - "/exports/**/video/"
     - "/exports/marketing/clips/"
+    # Generierte Auslieferungsdateien (Probelaeufe, Druck-PDFs): regenerierbar, einzelne Dateien bis
+    # ueber 70 MB. Marketingtexte (md/json) und schon getrackte Dateien bleiben unberuehrt; ein
+    # Auslieferungsstand wird bewusst mit `git add -f` aufgenommen.
+    - "/exports/**/print/"
+    - "/exports/**/*.pdf"
+    - "/exports/**/*.epub"
+    - "/exports/**/work/"
 
 # Oeffnet die verwaltete Sektion in books/<id>/.gitignore an bzw. zu.
 begin_marker: "# >>> motivatier:large-assets >>>"

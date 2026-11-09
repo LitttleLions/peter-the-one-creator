@@ -10,4 +10,8 @@
 /exports/**/audio/
 /exports/**/video/
 /exports/marketing/clips/
+/exports/**/print/
+/exports/**/*.pdf
+/exports/**/*.epub
+/exports/**/work/
 # <<< motivatier:large-assets <<<

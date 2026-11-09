@@ -209,6 +209,31 @@ die Heading-Struktur (`<h3>` → Fliess-Text).
 - Keine automatischen Loeschungen oder destruktiven Operationen ohne klare
   Freigabe.
 
+## Arbeitsstand: nichts liegen lassen (seit 2026-11-09)
+
+Aenderungen bleiben nicht im Arbeitsordner, im Stash oder als Ungetracktes liegen.
+Am Ende einer Aufgabe (und vor jedem Wechsel des Rechners oder der KI) ist der Stand
+committet und gepusht; ein Stash ist nur eine Zwischenablage von Minuten, kein Lager.
+Zwei Arten von Aenderungen, getrennt committen:
+
+- **Buchinhalt (`books/<id>/`: `source/`, `work/`, `names.yaml`, `book.yaml`, `export.yaml`,
+  `status/`, `styles/`, Szenen, Berichte):** immer mit committen und pushen, in der Regel
+  ein Sammel-Commit pro Buch (`books: <id> Stand <Datum>`), **ohne** Zeile-fuer-Zeile-Pruefung.
+  Viele einzelne Dateien (Szenen, Kapitel) sind normal. Keine Rueckfrage je Datei; nur
+  `source/` bleibt tabu (siehe oben).
+- **Code und Doku des Programms (`tools/`, `tests/`, `webapp/`, `config/`, `docs/`,
+  `AGENTS.md`, `README.md`):** einzeln und bewusst committen, nur mit gruenen Tests;
+  eigener Commit, nicht mit Buchinhalt gemischt.
+- **Ausnahme: grosse, regenerierbare Ausgaben** (`books/<id>/exports/**`: PDF, EPUB,
+  HTML-Zwischenstaende; einzelne Dateien bis ueber 70 MB). Sie werden nicht massenhaft
+  committet, weil das Repository sonst waechst (`.git` hat schon ueber 2 GB). Was als
+  Auslieferungsstand gilt (z. B. das EPUB/PDF einer Veroeffentlichung), wird bewusst
+  und einzeln committet; alte Probelaeufe werden nach Rueckfrage geloescht oder ignoriert.
+- Medien (Bilder-Originale, Audio, Video) steuert `books/<id>/.gitignore` (verwalteter
+  Abschnitt, `tools/sync_book_gitignore.py`).
+- Vor dem Wechsel der KI oder des Rechners: `git status` muss sauber sein, `git stash list`
+  leer, und `git log origin/main..HEAD` leer.
+
 ## Pipeline
 
 ```bash

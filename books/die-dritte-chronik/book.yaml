@@ -29,9 +29,14 @@ illustration_setting: >-
   rather than open desert or battlefield spectacle; historically grounded court
   dress and armor of the period.
 higgsfield:
-  model: text2image_soul_v2
+  model: gpt_image_2
   aspect_ratio: "3:4"
   quality: 2k
+  render_quality: medium
+  # Druckoriginal nach assets/master/ (2k = ca. 1536x2048px, ~470 dpi im
+  # 5.5x8.5-Taschenbuchsatz). EPUB/DOCX/A5 behalten die 1024px-Fassung
+  # darunter in assets/chapter/. Beide Ordner bleiben per .gitignore draussen.
+  keep_master: true
   # Kapitel-/Szenen-Downloads und Batch-Optimierung (PNG bleibt erhalten).
   # Cover-Overrides nur fuer tools/optimize_asset_images.py.
   image_processing:
@@ -43,6 +48,11 @@ higgsfield:
       jpeg_quality: 75
       max_width: 1600
       max_height: 2400
+    master:
+      format: JPEG
+      jpeg_quality: 92
+      max_width: 2048
+      max_height: 2048
 structure:
   mode: chapter_as_scene
   label: Kapitel als Szenen

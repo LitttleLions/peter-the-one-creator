@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import importlib.util
+import io
 import sys
 import tempfile
 import unittest
@@ -9,12 +11,28 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(REPO_ROOT / "tools"))
 
 import export_manuscript as export  # noqa: E402
+from lib.asset_images import (  # noqa: E402
+    DEFAULT_MASTER_PROCESSING,
+    MASTER_DIRNAME,
+    discover_export_assets,
+    is_master_path,
+    load_master_processing,
+    master_assets_enabled,
+)
+from lib.gitignore_assets import (  # noqa: E402
+    book_switch,
+    effective_patterns,
+    gitignore_state,
+    load_config,
+    render_gitignore,
+)
 from lib.print_css import build_paperback_css, write_paperback_css  # noqa: E402
 from lib.print_pdf import (  # noqa: E402
     _helvetica_overlay_pdf,
     count_export_words,
     count_frontmatter_sections,
     export_paperback_interior,
+    illustration_tier_summary,
 )
 from lib.print_spec import (  # noqa: E402
     PrintSpec,
@@ -170,6 +188,28 @@ class PrintCssTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             css = build_paperback_css(spec, Path(tmp) / "book-paperback.css", 80)
         self.assertIn("break-before: right", css)
+
+    def test_titlepage_min_height_uses_type_area_not_trim(self) -> None:
+        """Regression 2026-09-27: min-height auf voller Trim-Hoehe erzeugt
+        im A5/Paperback-Satz je eine Leerseite, weil der Block hoeher ist
+        als der Satzspiegel."""
+        spec = PrintSpec.from_dict({}, REPO_ROOT)
+        with tempfile.TemporaryDirectory() as tmp:
+            css = build_paperback_css(spec, Path(tmp) / "book-paperback.css", 80)
+        self.assertIn("min-height: 180.9mm", css)
+        self.assertNotIn("min-height: 8.5in", css)
+        self.assertLess(
+            spec.fill_height_mm(), spec.trim_height_in * 25.4
+        )
+        self.assertAlmostEqual(spec.fill_height_mm(), spec.type_height_mm() - 1.0, places=6)
+
+    def test_six_by_nine_titlepage_min_height_follows_margins(self) -> None:
+        spec = load_print_spec(REPO_ROOT, {}, overlay={"trim_size": "6x9"})
+        with tempfile.TemporaryDirectory() as tmp:
+            css = build_paperback_css(spec, Path(tmp) / "book-paperback.css", 80)
+        # 9in = 228.6mm - 16 - 18 - 1 Sicherheitszugabe
+        self.assertIn("min-height: 193.6mm", css)
+        self.assertNotIn("min-height: 9in", css)
 
 
 class PrintHtmlTests(unittest.TestCase):
@@ -631,6 +671,113 @@ class PrintPdfPipelineTests(unittest.TestCase):
         self.assertEqual(name, "book-der-pharao-stil-02-poetisch-6x9-classic-inline")
 
 
+class BlankPageTests(unittest.TestCase):
+    def _pdf_with_blank_and_text_page(self, path: Path) -> None:
+        from pypdf import PdfReader, PdfWriter
+
+        writer = PdfWriter()
+        writer.add_blank_page(width=200, height=200)
+        text_page = PdfReader(
+            io.BytesIO(_helvetica_overlay_pdf(200, 200, 20, 100, "Impressum", 9.0))
+        ).pages[0]
+        writer.add_page(text_page)
+        writer.add_blank_page(width=200, height=200)
+        with path.open("wb") as handle:
+            writer.write(handle)
+
+    def test_find_blank_pages_reports_empty_pages(self) -> None:
+        from lib.print_pdf import blank_page_warning, find_blank_pages
+
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "interior.pdf"
+            self._pdf_with_blank_and_text_page(path)
+            blanks = find_blank_pages(path)
+        self.assertEqual(blanks, [1, 3])
+
+    def test_blank_page_warning_names_the_pages(self) -> None:
+        from lib.print_pdf import blank_page_warning
+
+        text = blank_page_warning([1, 3])
+        self.assertIn("2 Leerseite(n)", text)
+        self.assertIn("1, 3", text)
+        self.assertIn("fill_height_mm", text)
+
+    @unittest.skipUnless(
+        importlib.util.find_spec("pypdfium2"), "pypdfium2 optional"
+    )
+    def test_frontmatter_fill_flags_sparse_pages(self) -> None:
+        """Eine fast leere Titelei-Seite soll als `sparse` gemeldet werden -
+        sie ist die Seite, die sich im Druck einsparen laesst."""
+        from lib.print_pdf import frontmatter_fill_report
+
+        spec = load_print_spec(REPO_ROOT, {})
+        from pypdf import PdfReader, PdfWriter
+
+        writer = PdfWriter()
+        # 5.5x8.5in = 396x612pt; Satzspiegel 16mm..(612-18mm)
+        sparse = PdfReader(
+            io.BytesIO(_helvetica_overlay_pdf(396, 612, 40, 500, "Wenig Text", 9.0))
+        ).pages[0]
+        full = PdfReader(
+            io.BytesIO(_helvetica_overlay_pdf(396, 612, 40, 100, "Viel Text", 9.0))
+        ).pages[0]
+        writer.add_page(sparse)
+        writer.add_page(full)
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "interior.pdf"
+            with path.open("wb") as handle:
+                writer.write(handle)
+            fill = frontmatter_fill_report(path, 2, spec)
+
+        self.assertEqual([item["page"] for item in fill], [1, 2])
+        self.assertTrue(fill[0]["sparse"])
+        self.assertLess(fill[0]["used_percent"], 20.0)
+        self.assertFalse(fill[1]["sparse"])
+        self.assertGreater(fill[1]["used_percent"], 80.0)
+
+    def test_sparse_frontmatter_warning_names_the_switches(self) -> None:
+        from lib.print_pdf import sparse_frontmatter_warning
+
+        text = sparse_frontmatter_warning(
+            [
+                {"page": 1, "used_percent": 72.1, "sparse": False},
+                {"page": 3, "used_percent": 19.8, "sparse": True},
+            ]
+        )
+        self.assertIn("3 (20%)", text)
+        self.assertNotIn("1 (", text)
+        self.assertIn("author_bio_page", text)
+
+    def test_paperback_report_lists_blank_pages(self) -> None:
+        spec = load_print_spec(REPO_ROOT, {})
+
+        def fake_render(_html_path: Path, pdf_path: Path) -> None:
+            self._pdf_with_blank_and_text_page(pdf_path)
+
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            report = export_paperback_interior(
+                spec=spec,
+                chapters=[
+                    export.ChapterExport(
+                        "001", "K", [export.SceneExport(1, "kurz")], [], 1, 1
+                    )
+                ],
+                html_text='<section class="frontmatter-page titlepage"></section>',
+                html_path=root / "book.paperback.html",
+                css_path=root / "book-paperback.css",
+                pdf_path=root / "interior.pdf",
+                report_path=root / "print-report.json",
+                author="Autor",
+                title="Titel",
+                render_pdf=fake_render,
+                stamp=False,
+            )
+        self.assertEqual(report["blank_pages"], [1, 3])
+        self.assertTrue(any("Leerseite" in w for w in report["warnings"]))
+        self.assertEqual(report["status"], "warning")
+
+
 class PrintCompareTests(unittest.TestCase):
     def test_markdown_table_from_reports(self) -> None:
         from lib.print_compare import render_print_comparison_markdown
@@ -664,6 +811,247 @@ class PrintCompareTests(unittest.TestCase):
         self.assertIn("NOT KDP COMPATIBLE", md)
         self.assertIn("KDP COMPATIBLE", md)
         self.assertIn("+146", md)
+
+
+class MasterAssetTests(unittest.TestCase):
+    """Zweite Bild-Ebene: assets/master/ fuer den Taschenbuchsatz."""
+
+    def setUp(self) -> None:
+        self.tmp = tempfile.TemporaryDirectory()
+        self.root = Path(self.tmp.name)
+        self.book = self.root / "books" / "sample"
+        self.assets = self.book / "assets"
+        self.addCleanup(self.tmp.cleanup)
+
+    def _write(self, rel: str, size: tuple[int, int]) -> Path:
+        from PIL import Image
+
+        path = self.assets / rel
+        path.parent.mkdir(parents=True, exist_ok=True)
+        Image.new("RGB", size, (30, 60, 90)).save(path, format="JPEG", quality=90)
+        return path
+
+    def test_output_path_targets_master_folder(self) -> None:
+        import generate_illustration as gi
+
+        book = {"book_root": str(self.book)}
+        request = gi.IllustrationRequest(
+            book_id="sample",
+            chapter_id="007",
+            scene_number=None,
+            style="s",
+            kind="chapter",
+            model="gpt_image_2",
+            moodboard="",
+            images=(),
+            no_reference=True,
+            aspect_ratio="3:4",
+            quality="2k",
+            overwrite=False,
+        )
+        reader = gi.output_image_path(book, request, {"format": "JPEG"})
+        master = gi.output_image_path(book, request, {"format": "JPEG"}, master=True)
+        self.assertEqual(
+            reader, self.book / "assets" / "chapter" / "chapter-007.jpg"
+        )
+        self.assertEqual(
+            master,
+            self.book / "assets" / MASTER_DIRNAME / "chapter" / "chapter-007.jpg",
+        )
+
+    def test_master_processing_defaults_and_override(self) -> None:
+        self.assertEqual(load_master_processing({}), DEFAULT_MASTER_PROCESSING)
+        book = {
+            "higgsfield": {
+                "image_processing": {
+                    "max_width": 1024,
+                    "master": {"jpeg_quality": 88, "max_width": 3000},
+                }
+            }
+        }
+        cfg = load_master_processing(book)
+        # Nur der master-Block ueberschreibt, der Reader-Block nicht.
+        self.assertEqual(cfg["jpeg_quality"], 88)
+        self.assertEqual(cfg["max_width"], 3000)
+        self.assertEqual(cfg["max_height"], 2048)
+
+    def test_keep_master_switch(self) -> None:
+        self.assertTrue(master_assets_enabled({}))
+        self.assertTrue(master_assets_enabled({"higgsfield": {}}))
+        self.assertFalse(
+            master_assets_enabled({"higgsfield": {"keep_master": False}})
+        )
+
+    def test_is_master_path(self) -> None:
+        self.assertTrue(is_master_path(Path("a/assets/master/chapter/c.jpg")))
+        self.assertFalse(is_master_path(Path("a/assets/chapter/c.jpg")))
+
+    def test_export_prefers_master_for_print(self) -> None:
+        self._write("chapter/chapter-001.jpg", (768, 1024))
+        self._write("master/chapter/chapter-001.jpg", (1536, 2048))
+        meta = {
+            "_base_dir": str(self.book),
+            "illustrations": {"enabled": True, "chapter_images": True},
+        }
+        reader = export.chapter_illustration(meta, "001")
+        printed = export.chapter_illustration(meta, "001", prefer_master=True)
+        assert reader is not None and printed is not None
+        self.assertNotIn(MASTER_DIRNAME, Path(reader.path).parts)
+        self.assertIn(MASTER_DIRNAME, Path(printed.path).parts)
+
+    def test_export_falls_back_to_reader_without_master(self) -> None:
+        self._write("chapter/chapter-002.jpg", (768, 1024))
+        meta = {
+            "_base_dir": str(self.book),
+            "illustrations": {"enabled": True, "chapter_images": True},
+        }
+        printed = export.chapter_illustration(meta, "002", prefer_master=True)
+        assert printed is not None
+        self.assertNotIn(MASTER_DIRNAME, Path(printed.path).parts)
+
+    def test_scene_master_resolution(self) -> None:
+        self._write("scene/003/scene-001.jpg", (768, 1024))
+        self._write("master/scene/003/scene-001.jpg", (1536, 2048))
+        meta = {
+            "_base_dir": str(self.book),
+            "illustrations": {"enabled": True, "scene_images": True},
+        }
+        printed = export.scene_illustration(meta, "003", 1, prefer_master=True)
+        assert printed is not None
+        self.assertIn(MASTER_DIRNAME, Path(printed.path).parts)
+
+    def test_tier_summary_counts_master(self) -> None:
+        class Item:
+            def __init__(self, path: str) -> None:
+                self.path = path
+
+        items = [
+            Item("assets/master/chapter/chapter-001.jpg"),
+            Item("assets/chapter/chapter-002.jpg"),
+        ]
+        summary = illustration_tier_summary(items)
+        self.assertEqual(summary["total"], 2)
+        self.assertEqual(summary["master"], 1)
+        self.assertEqual(summary["reader"], 1)
+
+    def test_optimizer_reads_master_but_writes_reader(self) -> None:
+        self._write("master/chapter/chapter-001.jpg", (1536, 2048))
+        found = discover_export_assets(
+            self.book,
+            include_cover=False,
+            include_scene=False,
+            from_master=True,
+        )
+        self.assertEqual(len(found), 1)
+        item = found[0]
+        self.assertIn(MASTER_DIRNAME, item.source.parts)
+        # Ziel bleibt ausserhalb von master/ – Originale werden nie ersetzt.
+        self.assertNotIn(MASTER_DIRNAME, item.jpeg_target.parts)
+        self.assertEqual(
+            item.jpeg_target, self.assets / "chapter" / "chapter-001.jpg"
+        )
+
+    def test_optimizer_default_ignores_master_folder(self) -> None:
+        self._write("chapter/chapter-001.jpg", (768, 1024))
+        self._write("master/chapter/chapter-002.jpg", (1536, 2048))
+        found = discover_export_assets(
+            self.book,
+            include_cover=False,
+            include_scene=False,
+        )
+        stems = {item.jpeg_target.stem for item in found}
+        self.assertIn("chapter-001", stems)
+        self.assertNotIn("chapter-002", stems)
+
+
+class GitignoreAssetsTests(unittest.TestCase):
+    """Pro-Buch-Schalter gegen grosse, regenerierbare Medien."""
+
+    def setUp(self) -> None:
+        self.config = load_config(REPO_ROOT)
+
+    def test_default_config_lists_master_folder(self) -> None:
+        self.assertIn("/assets/master/", self.config["patterns"])
+        self.assertIn("/assets/video/", self.config["patterns"])
+
+    def test_config_fallback_keeps_markers(self) -> None:
+        """Ohne config/gitignore-assets.yaml muss es trotzdem renderbar bleiben."""
+        import tempfile
+
+        with tempfile.TemporaryDirectory() as tmp:
+            config = load_config(Path(tmp))
+        self.assertEqual(config["patterns"], ["/assets/master/"])
+        self.assertTrue(config["begin_marker"].startswith("# >>>"))
+        self.assertTrue(config["end_marker"].startswith("# <<<"))
+        text = render_gitignore("", {"gitignore": {"large_assets": True}}, config)
+        self.assertIn("/assets/master/", text)
+
+    def test_switch_defaults_to_active(self) -> None:
+        self.assertTrue(book_switch({})["large_assets"])
+        self.assertIn("/assets/master/", effective_patterns({}, self.config))
+
+    def test_switch_off_yields_no_patterns(self) -> None:
+        book = {"gitignore": {"large_assets": False}}
+        self.assertEqual(effective_patterns(book, self.config), [])
+        self.assertIn("Kein Ausschluss", render_gitignore("", book, self.config))
+
+    def test_extra_and_disabled_patterns(self) -> None:
+        book = {
+            "gitignore": {
+                "extra_patterns": ["/work/gross/"],
+                "disabled_patterns": ["/assets/video/"],
+            }
+        }
+        patterns = effective_patterns(book, self.config)
+        self.assertIn("/work/gross/", patterns)
+        self.assertNotIn("/assets/video/", patterns)
+        self.assertIn("/assets/master/", patterns)
+
+    def test_render_is_idempotent(self) -> None:
+        book = {"gitignore": {"large_assets": True}}
+        once = render_gitignore("", book, self.config)
+        self.assertEqual(render_gitignore(once, book, self.config), once)
+        self.assertEqual(gitignore_state(once, book, self.config), "ok")
+        self.assertEqual(gitignore_state("", book, self.config), "abweichend")
+
+    def test_foreign_lines_are_preserved(self) -> None:
+        book = {"gitignore": {"large_assets": True}}
+        text = render_gitignore("eigene-regel/\n", book, self.config)
+        self.assertTrue(text.startswith("eigene-regel/"))
+        self.assertIn("/assets/master/", text)
+        self.assertEqual(render_gitignore(text, book, self.config), text)
+
+    def test_changed_patterns_replace_block_in_place(self) -> None:
+        first = render_gitignore(
+            "kopf/\nfuss/\n", {"gitignore": {"large_assets": True}}, self.config
+        )
+        book2 = {
+            "gitignore": {
+                "large_assets": True,
+                "disabled_patterns": ["/assets/video/"],
+            }
+        }
+        second = render_gitignore(first, book2, self.config)
+        self.assertNotIn("/assets/video/", second)
+        self.assertEqual(second.count("/assets/master/"), 1)
+        self.assertTrue(second.startswith("kopf/"))
+        self.assertEqual(gitignore_state(second, book2, self.config), "ok")
+
+    def test_repo_books_all_have_current_switch(self) -> None:
+        """Alle Buchpakete muessen den verwalteten Abschnitt fuehren."""
+        import yaml
+
+        books = sorted((REPO_ROOT / "books").glob("*/book.yaml"))
+        self.assertTrue(books, "keine Buchpakete gefunden")
+        for book_yaml in books:
+            data = yaml.safe_load(book_yaml.read_text(encoding="utf-8")) or {}
+            path = REPO_ROOT / "books" / str(data["id"]) / ".gitignore"
+            with self.subTest(book=data["id"]):
+                self.assertTrue(path.is_file(), f"{path} fehlt")
+                state = gitignore_state(
+                    path.read_text(encoding="utf-8"), data, self.config
+                )
+                self.assertEqual(state, "ok")
 
 
 if __name__ == "__main__":

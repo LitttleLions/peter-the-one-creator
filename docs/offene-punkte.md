@@ -769,8 +769,9 @@ Status: UMGESETZT und erweitert (2026-09-21, Trim/Profil/Bilder waehlbar).
   schliesst PARKIERT/WIP aus).
 - Dateiname: `…-55x85-classic-full-TIMESTAMP-paperback-interior.pdf`.
   Report: `*-print-report.json`. Vergleich: `tools/lib/print_compare.py`.
-- Pharao A–D (creme, 2026-09-21): 924 / 788 / 673 / 643 Seiten.
-  Tabelle: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`.
+- Pharao A–D (creme, 2026-09-27 nach der Leerseiten-Korrektur):
+  923 / 787 / 672 / 642 Seiten.
+  Tabelle: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260927-pharao-abcd.md`.
   A und B liegen ueber 776; C und D sind KDP-creme-tauglich.
 - Kopiertext neues Chat-Fenster: `docs/uebergabe-prompt.md`.
 
@@ -804,6 +805,86 @@ Plan (Stufen 2-4) `docs/plan-uebernahme-romanforge.md`.
   (in `.env` vorhanden). Uebergabe-Prompt nennt den Schalter, das Werkzeug hat
   ihn noch nicht; Abruf laeuft per Exportdatei.
 
+## 14. Buchbilder: Master-Ebene nachziehen (2026-09-27)
+
+Der Taschenbuchsatz liest inzwischen `assets/master/` (2k). Der Bestand hat
+diese Ebene noch nicht, also melden die Bücher mit kleinem Material weiter
+die dpi-Warnung im Print-Report. Das ist **kein Fehler**, sondern eine offene
+Entscheidung.
+
+Messung, welche Quelle (PNG → `_alt.jpg` → JPEG) je Bild noch hergibt:
+
+| Buch | ≥ 1000 px | zu klein | breiteste Quelle |
+|---|---:|---:|---:|
+| pharao | 70 | 0 | 1200 |
+| leben-arsenjews | 27 | 0 | 1600 |
+| peter-i-buch-01 | 21 | 0 | 1122 |
+| feuriger-engel | 16 | 1 | 1152 |
+| aelita | 15 | 3 | 1600 |
+| die-dritte-chronik | 5 | **47** | 1086 |
+| pissemski-tausend-seelen | 0 | **45** | 880 |
+| der-lotse | 0 | **10** | 772 |
+
+**Nachtrag 2026-09-27 abends (`der-lotse`):** Der Roman wurde als vollstaendig
+integriert (32 Kapitel aus `source/Der Lotse von Rügen Full I.md`), und
+Nutzerentscheidung war, **neue Bilder fuer alle 32 Kapitel zu erzeugen**
+(011–032 neu, 010 neu, weil der Text dort eine Neufassung ist, 001–009
+bewusst unberuehrt). Dadurch hat `der-lotse` jetzt 23 Master-Bilder
+(`gpt_image_2`, 2k, 1529x2048, ~300 dpi im Paperback) – die 1k-Messung in der
+Tabelle oben gilt fuer den 10-Kapitel-Stand und ist damit ueberholt. Offen
+bleiben fuer dieses Buch nur die 1k-Bilder der Kapitel 001–009 (dpi-Hinweis im
+Report) und `assets/covers/cover-print.*` fuer die KDP-Titelei.
+
+Zwei Klassen, beide brauchen eine Nutzerentscheidung:
+
+1. **Kostenlos (Upscale aus dem Bestand)** - pharao, arsenjews, peter,
+   feuriger-engel, aelita. Erreicht 300 dpi, aber Detailtreue waechst
+   dadurch nicht. Nur sinnvoll, wenn 5.5x8.5 gebaut wird (6x9 braucht
+   > 1000 px, dort reichen 1000-1150 px nicht).
+2. **Neuerzeugung (kostet Higgsfield-Credits)** - die-dritte-chronik (47),
+   pissemski-tausend-seelen (45), der-lotse (10) = 102 Bilder. Nur diese
+   Buecher haben **keine** auflösbare Quelle mehr.
+
+Nutzerentscheidung vom 2026-09-27 war: **nichts neu erzeugen, nur fuer
+kuenftige Laeufe umstellen.** Deshalb steht das hier bewusst offen.
+
+Nachziehen einer Ebene, wenn es freigegeben wird:
+
+```text
+py -3 tools/generate_illustration.py --book <id> --chapter NNN --kind chapter --style <style> --overwrite
+py -3 tools/optimize_asset_images.py --book <id> --source master
+```
+
+Danach `py -3 tools/export_manuscript.py --book <id> --scope book --style <style> --format paperback`
+und im Print-Report `illustration_tier.master` sowie die dpi-Warnungen pruefen.
+
+## 15. KDP-Adapter Phase 1 (2026-10-13)
+
+Duenner Adapter `tools/kdp_sync.py` auf das Submodule
+`tools/vendor/amazon-kdp-skill` (HTTP `127.0.0.1:3001`). Soll kommt aus
+`export.yaml` `book.*`; Join-Keys nur im top-level `amazon:` (Pilot: Pharao,
+`title_id` noch leer). Phase 1 liest Session, Bookshelf, Katalog und ein
+einzelnes Metadatenformat. Update, Preis, Upload, KDP Select und Publish
+ruft der Client nicht auf.
+
+Der Bookshelf-Scan des Skills liefert nur `titleId` und Format, keinen Titel.
+Zuordnung: gespeicherte `title_id`, sonst ASIN, sonst exakter Titel plus
+Nachname — und nur, wenn der Katalogschluessel dieselbe Bookshelf-ID ist
+oder der Metadaten-Cache den Titel schon kennt. Bei 0 oder mehr als 1 Treffer
+Stopp, nichts raten. `bind` schreibt die bestaetigte ID lokal.
+
+```text
+npm install
+# im Ordner tools/vendor/amazon-kdp-skill (Playwright-Chromium inklusive)
+py -3 tools/kdp_sync.py status
+py -3 tools/kdp_sync.py login
+py -3 tools/kdp_sync.py pull --book pharao
+py -3 tools/kdp_sync.py diff --book pharao
+```
+
+Offen: einmal `npm install`, dann Nutzer-Login (MFA im Chromium) und der
+erste Pharao-Pull. `bind` erst danach, wenn der Treffer eindeutig ist.
+
 ## Empfohlene Reihenfolge
 
 1. Punkt 0 (Peter-I-Pruefung, vorgezogen) - lesend, ohne Kosten.
@@ -814,6 +895,7 @@ Plan (Stufen 2-4) `docs/plan-uebernahme-romanforge.md`.
 6. Punkt 11 ist auf `main` (Taschenbuch komplett + Katalog + Trim/Profil/Bilder);
    offen bleibt die menschliche Print-Leseprobe, 788 vs. 776 bei 6x9 classic,
    und ein manuelles `cover-print` je Titel.
-7. Punkt 13 (RomanForge Stufe 1, Branch `cline/pveejb87`): Chronik
-   012/025-Entscheidung und `--new` (Ashkara) nur nach Freigabe.
+7. Punkt 13 (RomanForge, Commits jetzt auf lokalem `main`): Chronik 012/025 entscheiden. Ashkar I ist 36/36; offen bleiben Bilder 026-036, `status.json` und ein neuer EPUB.
+8. Punkt 14 (Buchbilder Master, lokal 2026-09-27, noch nicht committet).
+9. Punkt 15 (KDP-Adapter Phase 1): `npm install` im Skill-Submodule, dann Login und Pharao-`pull`/`diff`. `bind` erst nach einem eindeutigen Treffer.
 

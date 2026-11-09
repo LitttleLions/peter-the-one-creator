@@ -1,4 +1,5 @@
-# Handover – Stand 2026-10-08 (RomanForge-Übernahme Stufe 1/1c auf Branch `cline/pveejb87`, Ashkar I 18→23 Kapitel; sonst wie 2026-09-21: Pharao Print, Chronik KDP-fertig, Aelita LIVE, Anna PARKIERT)
+# Handover – Stand 2026-10-13 (Cline-Branch per Fast-Forward auf lokalem main, Tip Ashkar I 2026-10-08; lokal uncommittet bleibt 2026-09-27: Der Lotse, Buchbilder, Leerseiten)
+
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei.
 > Kopierfertiger Einstieg: [uebergabe-prompt.md](./uebergabe-prompt.md).
@@ -78,6 +79,476 @@ committet (`e93f4a2`). Vorgänger `import_die_dritte_chronik.py` bleibt liegen
 - Offen: Nutzer liest 012/025 selbst und entscheidet. Nächster Schritt laut
   Plan: `--new` für Ashkara (neues Buchpaket über den Übernahme-Weg).
 
+
+## Vorige Session (2026-09-27 abends, lokal noch nicht committet: Buch `der-lotse` vollständig integriert)
+
+**Auslöser:** Der Nutzer hat die Vollfassung unter
+`books/der-lotse/source/Der Lotse von Rügen Full I.md` geliefert (623 KB,
+27.09. 22:54) mit dem Auftrag, die neuen Kapitel zu integrieren. **Buch ist
+jetzt vollständig: 32 Kapitel / 104.080 Wörter**, Umfangsziel 100.000–115.000
+Wörter aus `book.yaml:notes` damit erreicht. Kapitel 032 „Der Vermerk von
+Eldena" ist der **Epilog (Anno 1725)**, Kapitel 031 schließt mit dem
+Verlustregister der Kirchgemeinde Middelhagen.
+
+**Befund vor dem Import (read-only, `import_de_original.split_chapters` auf
+beide Quellen):**
+
+| | alt `Der Lotse von Rügen.md` | neu `… Full I.md` |
+| --- | --- | --- |
+| `##`-Kapitel | 10 | **32** |
+| Wörter | 32.849 | **104.080** |
+| Kapitel 001–009 | — | **byte-identisch** (Titel und Text) |
+| **Kapitel 010 „Das alte Ufer"** | 3.107 W / 113 Abs. | **3.655 W / 111 Abs., Wort-Ähnlichkeit 0,039** |
+| Kapitel 011–032 | — | neu, 2.438–4.058 W (Median 3.335) |
+
+Kapitel 010 ist also **kein Nachtrag, sondern eine Neufassung**; die bis
+dahin gültige DE-Szene 010 und das Kapitelbild 010 gehörten zum alten Text.
+Kein Textbruch, keine Lücke – die Neufassung ist die gültige Quelle.
+
+**Ablauf (kein LLM, keine OpenRouter-Kosten):**
+
+1. `books/der-lotse/book.yaml`: `source_path` auf
+   `source/Der Lotse von Rügen Full I.md` umgestellt. Die **alte Datei bleibt
+   unangetastet** im Ordner (Quellen werden nie gelöscht) und ist der Backup
+   des 10-Kapitel-Stands; `status.json:source` folgt beim Import automatisch.
+2. `py -3 tools/import_de_original.py --book der-lotse --dry-run` →
+   32 Kapitel / 104.080 W, keine Fehlermeldung.
+3. `py -3 tools/import_de_original.py --book der-lotse` → schreibt
+   `work/chapters/001–032-source.md`, `work/scenes/de/NNN/scene-01.md`,
+   `work/scenes/de/stil-01-original/NNN/scene-01.md` und
+   `status/status.json` (32 × `done`, `status.py summary` = 32/32).
+   Weil es ein DE-Original ist, ist die DE-Szene eine 1:1-Kopie des
+   Quelltexts – ein Überschreiben verliert also nichts.
+   **Kein `assemble_chapter.py` nötig:** der Export liest DE-Szenen direkt,
+   `work/assembled/` war schon beim 10-Kapitel-Export leer.
+4. `book.yaml:notes` auf den Vollstand-Stand gebracht (32 Kapitel, Epilog in
+   032, Vollfassung als Quelle, alte Datei als Backup benannt).
+
+**Gate:** `py -3 tools/review_manuscript.py --book der-lotse --style
+stil-01-original --all --llm none --fail-on-errors` →
+**ERROR=0 / WARNING=1 / INFO=42** (10 Kapitel davor 0/0/14). Die einzige
+Warnung ist `repetition_style` in **021**: eine 16-fache Anaphorenkette
+(„…und er spürte, wie das Schiff sich bewegte, wie es sich drehte, wie es in
+die Rinne glitt…") plus TTR 0,22. Das ist **Autortext und Stilmittel**, kein
+Mangel – wie bei der Chronik nicht angefasst. Nur ERROR blockiert den Export.
+
+**Bilder (Nutzerentscheidung: neue Bilder für 011–032, Kapitel 010 neu,
+Cover bleibt):** 23 Generierungen mit `gpt_image_2`, `quality: 2k`,
+`render_quality: medium`, 3:4, `--no-reference --allow-paid-generation
+--overwrite`, Lauf im Hintergrund mit Log
+`books/der-lotse/work/imagegen-010-032.log` (Muster wie das frühere
+`work/imagegen-004-010.log`), ~47 s pro Bild. Dank `keep_master: true` schreibt
+jeder Lauf **beide** Ebenen aus einem Download: `assets/master/` 1529×2048
+(2k, ~300 dpi im Paperback) und `assets/chapter/` 764×1024 (E-Reader). Nachweis
+an Kapitel 010: Master 874 KB, Reader 113 KB, beide 23:35:10.
+`chapter-001_alt.jpg` und `assets/covers/cover.png` bleiben unangetastet; das
+alte 1k-Bild für Kapitel 010 liegt als Sicherung in
+`work/legacy/chapter-010-20260927-1k-alt.jpg`. **001–009 bleiben bewusst 1k**
+(Nutzerentscheidung) – der Print-Report nennt für diese neun Kapitel weiter
+die dpi-Warnung, das ist ein Hinweis, kein Fehler.
+
+**Doku:** `AGENTS.md` und `README.md` auf „Roman vollständig, 32 Kapitel"
+nachgezogen; `docs/offene-punkte.md` Punkt 13 bleibt für die anderen Bücher
+offen.
+
+**Exporte (alle ohne `--allow-review-errors`, Manifest mit 32 Illustrationen
+und `cover.png`, `review_gate_errors: 0`, `review_gate_bypassed: false`):**
+
+- EPUB `...-20260927-235509.epub` (8,96 MB, 36 XHTML-Teile, **40 Bilder**,
+  Nav mit 32 Kapiteln)
+- DOCX `...-20260927-235521.docx` (5,84 MB)
+- A5-PDF `...-20260927-235527.pdf` (7,85 MB, **446 S.**, `blank_pages: []`)
+- Paperback 5.5x8.5 classic full `...-20260927-235631` (41,07 MB,
+  **332 S.**, KDP-Limit 776, `within_kdp_page_limit: true`)
+
+Print-Report-Status `warning` mit **genau den zwei bereits bekannten, bewusst
+akzeptierten Punkten** – keine neue Meldung:
+
+1. **dpi 001–009:** 250–252 dpi (< 300), weil diese neun Kapitel bewusst
+   1k-Bilder behalten. `illustration_tier` zählt `master: 23, reader: 9` –
+   die Master-Ebene greift also nachweislich für 010–032.
+2. **Frontmatter Seite 3 (Autorenbio) 20 %** – bleibt laut deiner früheren
+   Entscheidung stehen, ist dauerhaft keine Reparatur.
+
+**Doku:** `AGENTS.md` und `README.md` auf „Roman vollständig, 32 Kapitel"
+nachgezogen; `docs/offene-punkte.md` Punkt 13 um einen `der-lotse`-Nachtrag
+ergänzt; `book.yaml:notes` auf den Vollstand-Stand gebracht.
+
+**Offen für `der-lotse`:** `assets/covers/cover-print.*` für die komplette
+KDP-Titelei (`--format paperback-complete`), `website.enabled` bleibt bewusst
+`false`, Kindle-Previewer und Leseprobe stehen aus. Kapitel 001–009 bleiben
+1k – ein Neugriff wäre 9 Generierungen, falls du die 300 dpi durchziehen willst.
+
+## Vorherige Session (2026-09-27, zwei Ebenen fuer Buchbilder: 2k-Druckoriginal plus E-Reader-Fassung, Git-Schalter fuer grosse Medien)
+
+Nutzerentscheidungen: Modell **`gpt_image_2` mit `quality: 2k`**, **keine
+Neuerzeugung im Bestand** (gilt nur fuer kuenftige Laeufe), und **keine
+grossen Dateien ins Git** – mit einem Schalter *pro Buch*, der auch
+Audio und Video abdeckt.
+
+**Befund vor der Umsetzung.** Die Ursache der dpi-Warnungen war nicht
+„1K", sondern eine einzige Bilddatei fuer zwei Zwecke:
+`chapter_illustration()` lieferte per `find_named_image()` dieselbe Datei
+an EPUB, DOCX, A5 **und** Paperback, waehrend `image_processing` auf
+E-Reader getrimmt ist (1024 px / q60). Der Druck braucht bei
+`(trim - 2*Rand) * 0.72` Anzeigebreite rund **970 px** (5.5x8.5) bzw.
+**1170 px** (6x9), also bei 1k-Material nur 237 dpi.
+
+**Korrektur:**
+
+- `tools/lib/asset_images.py`: zweite Ebene `assets/master/`
+  (`MASTER_DIRNAME`, `DEFAULT_MASTER_PROCESSING` 2048 px / q92,
+  `load_master_processing()`, `master_assets_enabled()`,
+  `is_master_path()`). `discover_export_assets(..., from_master=True)`
+  liest dort, schreibt aber weiter nach `assets/chapter` bzw.
+  `assets/scene` – die Master sind nie Ziel eines Laufs.
+- `tools/generate_illustration.py`: `download_url()` in
+  `fetch_image_bytes()` + `_write_image()` zerlegt, neue
+  `store_illustration()` schreibt **beide** Ebenen aus einem Download
+  (Reader = saubere Verkleinerung desselben Originals). CLI-Flag
+  `--no-master`, Buchschalter `higgsfield.keep_master`.
+- `tools/export_manuscript.py`: `resolve_illustration(..., prefer_master=)`;
+  `chapter_illustration` / `scene_illustration` / `collect_illustrations`
+  entsprechend erweitert. Nur der Paperback-Zweig sammelt mit
+  `prefer_master=True`; EPUB/DOCX/A5 bleiben unveraendert. Rueckfall auf
+  die E-Reader-Bilder, wenn `assets/master/` fehlt.
+- `tools/lib/print_pdf.py`: dpi-Warnung nennt die Herkunft in Klammern,
+  neuer Report-Feld `illustration_tier` (`total`/`master`/`reader`).
+- `tools/optimize_asset_images.py`: `--source auto\|master` plus
+  Sicherheitsnetz, das abbricht, falls ein Ziel im Master-Ordner liegt.
+
+**Git-Schalter:** `config/gitignore-assets.yaml` (Muster),
+`tools/lib/gitignore_assets.py` (Logik), `tools/sync_book_gitignore.py`
+(CLI mit `--check`/`--dry-run`). Geschrieben wird nur der Abschnitt
+zwischen zwei Markern in `books/<id>/.gitignore`, eigene Zeilen bleiben
+stehen. Schalter pro Buch: `book.yaml` -> `gitignore.large_assets` plus
+`extra_patterns` / `disabled_patterns`. Alle **13** Buchpakete haben den
+Abschnitt; `git check-ignore` bestaetigt, dass `assets/master/`,
+`assets/audio/` und `exports/marketing/clips/` greifen. `.git` war
+bereits 2288 MB, die Assets im Worktree 251 MB.
+
+**Dashboard-Schalter (Nachtrag derselben Session).** Der Git-Schalter ist
+jetzt auch im UI bedienbar, damit niemand dafür die CLI braucht:
+
+- `webapp/backend/main.py`: `GET`/`PUT /api/books/{id}/gitignore`,
+  Request-Modell `GitignoreSettingsUpdateRequest`, generischer Helfer
+  `_write_nested_scalar_preserving_yaml()` (baut auf dem bestehenden
+  `_set_nested_scalar` auf, wie `_write_website_settings_preserving_yaml`).
+  Nach dem Schreiben wird `books/<id>/.gitignore` **sofort** neu gerendert,
+  damit der Schalter nicht erst per CLI wirkt.
+- `tools/lib/gitignore_assets.py`: `load_settings()` (Zustand für API inkl.
+  repo-relativem `gitignore_path`), `write_gitignore()` (CLI und API teilen
+  sich damit denselben Pfad), `with_switch()`. Das CLI benutzt dieselben
+  zwei Funktionen – keine doppelte Logik.
+- Frontend: Panel **Grosse Medien aus Git halten** auf der Bilder-Seite
+  unter der Illustration-Setting-Karte, im vorhandenen `toggle-row`-Stil.
+  Zeigt die aktiven Muster, meldet einen veralteten Abschnitt und hat
+  Speichern/Zuruecksetzen. `getBookGitignore` / `saveBookGitignore` in
+  `api.ts`, Typ `GitignoreSettings` in `types.ts`.
+- `tsc --noEmit` Exit 0, `vite build` Exit 0. ESLint hat im Frontend keine
+  Config (vorbestehend, nicht angefasst).
+
+**Dabei zwei echte Fehler gefunden und behoben:** (1) Der Fallback in
+`load_config()` gab bei fehlender `config/gitignore-assets.yaml`
+`begin_marker: None` zurück, woran `render_block()` mit
+`TypeError: sequence item 0: expected str instance, NoneType` starb. Marker
+sind jetzt Konstanten und werden immer gefüllt – Regressionstest
+`test_config_fallback_keeps_markers`. (2) `gitignore_path` kam absolut
+zurück; ist jetzt repo-relativ wie der Rest der API. Tests 296 → **318**,
+OK (22 neu: 19 Bild-/Gitignore-Logik, 3 API-Routen inkl. 404).
+
+
+**Buchkonfiguration:** sieben Buecher mit Bildbestand (aelita,
+die-dritte-chronik, feuriger-engel, leben-arsenjews, peter-i-buch-01,
+pharao, der-lotse) auf `gpt_image_2` / `2k` / `render_quality: medium`
+plus `image_processing.master` umgestellt. `anna-karenina`, `mongolen`
+und die vier Roh-Anlagen haben bewusst kein `higgsfield:`-Block.
+
+**Wichtig:** Der Bildbestand wurde **nicht** angefasst. Messung, welche
+Quelle (PNG → `_alt.jpg` → JPEG) je Bild noch hergibt:
+
+| Buch | ≥ 1000 px | zu klein | breiteste Quelle |
+| --- | ---: | ---: | ---: |
+| pharao | 70 | 0 | 1200 |
+| leben-arsenjews | 27 | 0 | 1600 |
+| peter-i-buch-01 | 21 | 0 | 1122 |
+| feuriger-engel | 16 | 1 | 1152 |
+| aelita | 15 | 3 | 1600 |
+| die-dritte-chronik | 5 | 47 | 1086 |
+| pissemski-tausend-seelen | 0 | 45 | 880 |
+| der-lotse | 0 | 10 | 772 |
+
+`die-dritte-chronik` und `pissemski-tausend-seelen` haben **keine**
+auflösbare Quelle mehr; deren Master koennen nur durch Neuerzeugung
+entstehen (92 Bilder, kostet Credits). Bewusst offen gelassen. Die
+uebrigen Bucher koennten kostenlos hochskaliert werden – Detailtreue
+waechst dadurch aber nicht, und nur 6x9 braucht > 1000 px.
+
+**Nachweis** (Temp-Buch mit 768 px Reader- und 1536 px Master-Datei):
+`collect_illustrations(..., prefer_master=True)` liefert
+`assets/master/chapter/chapter-001.jpg`, `illustration_tier` meldet
+`master=1`, und die dpi-Warnung schweigt; der Reader-Pfad meldet
+weiterhin 237 dpi. Tests 296 → **314**, OK (18 neue in
+`MasterAssetTests` und `GitignoreAssetsTests`). Dabei fiel auf, dass
+`AssetKind.name` die Kategorie und nicht den Stem traegt.
+
+**Nebenbei behoben:** `tests/test_generate_illustration.py` mockte noch
+`download_url`; die vier Tests wurden auf die neue Seam `store_illustration`
+umgestellt. Zwischendurch hatte ein PowerShell-Replace die Datei
+doppelkodiert (Mojibake + BOM) – mit `git checkout` zurueckgesetzt und
+die Ersetzungen ueber den Editor wiederholt. **Merke:** unter Windows
+niemals `Get-Content -Raw` + `Set-Content -Encoding utf8` auf Dateien mit
+Umlauten/Kyrillisch anwenden, das zerstoert die Kodierung.
+
+## Übergabepunkt 2026-09-27 (Ende dieser Arbeitsrunde)
+
+Der Stand liegt fertig im Worktree, **es wurde bewusst kein Commit erzeugt** –
+das bleibt dem Nutzer vorbehalten (`git --no-pager status --short` zeigt
+die Änderungen).
+
+Erledigt in dieser Runde:
+
+1. **Leerseiten-Bug im A5-/Paperback-Satz** behoben (`min-height` stand auf
+   voller Seiten-/Trim-Höhe statt auf dem Satzspiegel). `der-lotse` 155→153 /
+   112→111, Pharao A–D 924/788/673/643 → **923/787/672/642**, alle ohne
+   Leerseiten. `blank_pages` und `frontmatter_fill` werden jetzt bei jedem
+   Export gemessen.
+2. **Zwei Bild-Ebenen** (`assets/master/` 2k für Paperback, `assets/chapter|scene/`
+   1024 für E-Reader), Standard `gpt_image_2` / `2k`, sieben Buchpakete
+   umgestellt.
+3. **Git-Schalter pro Buch** für Druckoriginale, Audio, Video und Clips –
+   als CLI (`tools/sync_book_gitignore.py`) und im Dashboard (Panel **Grosse
+   Medien aus Git halten** auf der Bilder-Seite, `GET`/`PUT
+   /api/books/{id}/gitignore`).
+4. Doku: `AGENTS.md`, `README.md`, `docs/handover.md` (dieser Eintrag),
+   `docs/higgsfield-integration.md`, `docs/offene-punkte.md` (Punkt 13 neu),
+   `docs/uebergabe-prompt.md`, `.gitignore`.
+
+Tests **318 grün** (vor der Runde 296), `tsc --noEmit` 0, `vite build` 0,
+`sync_book_gitignore.py --check` 0.
+
+**Nicht erledigt und bewusst so:**
+
+- Kein einziges Bild neu erzeugt (Nutzerentscheidung). Punkt 13 in
+  `docs/offene-punkte.md` hält fest, welche 102 Bilder eine Neuerzeugung
+  brauchen (die-dritte-chronik 47, pissemski 45, der-lotse 10) und welche
+  Bücher kostenlos aus dem Bestand hochskaliert werden könnten.
+- `anna-karenina` und `geheime-geschichte-mongolen` bleiben wie besprochen
+  liegen (A5-Vorschau bzw. Gate blockiert wegen Kyrillisch).
+- `der-lotse`: `assets/covers/cover-print.*` fehlt weiterhin, 1k-Material
+  ergibt 236–238 DPI, `website.enabled` bleibt `false`.
+- Pharao A (923) und B (787) liegen über dem Cream-Limit 776; die
+  Print-Leseprobe steht aus.
+- Nichts committet, nichts gepusht.
+
+Direkt als Nächstes sinnvoll: entweder Punkt 13 freigeben (Bild-Master
+nachziehen) oder den Print-Leseprobe-Abschnitt abarbeiten. Beides wartet auf
+eine Entscheidung des Nutzers.
+
+## Vorherige Session (2026-09-27, Buch `der-lotse`: Leerseiten-Bug im PDF-/Taschenbuch-Satz behoben)
+
+
+
+Ursachenanalyse plus Korrektur eines Satzbugs, der **alle** Bücher betraf
+hat. Dazu der Abschluss der Bilder-/Cover-Session vom selben Tag (unten
+unter „Buch `der-lotse`" weitergeführt).
+
+**Der Fehler:** `min-height` der Titelei stand auf der vollen Seiten- bzw.
+Trim-Hoehe (A5: `210mm`, Paperback: `8.5in`), nicht auf dem Satzspiegel
+(A5: 172mm, 5.5x8.5: 181.9mm). Chromium schiebt den Inhalt eines zu hohen
+Blocks komplett auf die naechste Seite; der Rest bleibt als Leerseite im
+PDF. Beim A5-Pfad kam hinzu, dass `.cover-image img` mit `max-height: 175mm`
+selbst hoeher war als der Satzspiegel - Folge war nicht nur eine Leerseite,
+sondern ein **schwarzer Ueberlaufstreifen des Coverbilds oben auf der
+Titelei** (in `books/der-lotse/.../book/work/...163024.pdf.html` nachweisbar).
+
+Isoliert mit einem 5-Faelle-Playwright-Testdokument: `break-before: page`
+auf dem ersten Element ist unschuldig (2 Seiten), `min-height` = volle
+Seitenhoehe erzeugt die Leerseite (3 Seiten), Satzspiegelhoehe laesst sie
+weg (2 Seiten).
+
+**Messung des Bestands** (`find_blank_pages()`, neuester Export je Buch):
+
+| Buch | Format | Seiten | Leerseiten |
+| --- | --- | ---: | --- |
+| anna-karenina | A5 | 829 | 1, 4 |
+| feuriger-engel | A5 | 456 | 1, 4 |
+| geheime-geschichte-mongolen | A5 | 193 | 1, 4 |
+| peter-i-buch-01 | A5 | 1098 | 1, 4 |
+| pharao | A5 | 1134 | 1, 4 |
+| pharao | Paperback 5.5x8.5 | 643 | 2 |
+| der-lotse (vorher) | A5 / Paperback | 155 / 112 | 1+4 / 2 |
+
+**Korrektur:**
+- `tools/lib/print_spec.py`: `FILL_HEIGHT_SAFETY_MM = 1.0` und
+  `PrintSpec.fill_height_mm()` (Satzspiegel minus Sicherheitszugabe gegen
+  die Pixelrundung in Chromium).
+- `tools/lib/print_css.py`: `.titlepage { min-height: … }` nutzt jetzt
+  `spec.fill_height_mm()` statt `spec.trim_height_in` (5.5x8.5 → 180.9mm,
+  6x9 → 193.6mm).
+- `tools/export_manuscript.py`: A5-Masse als Konstanten
+  (`PDF_PREVIEW_PAGE_MM`, `PDF_PREVIEW_MARGIN_MM`) plus
+  `pdf_preview_type_mm()`; `min-height: 171mm`, Coverbild `max-height: 170mm`.
+- `tools/lib/print_pdf.py`: `find_blank_pages()` + `blank_page_warning()`,
+  Ergebnis als `blank_pages` im Print-Report **und** im Export-Manifest
+  (Feld `blank_pages`), A5-Pfad gibt die Warnung auf der Konsole aus.
+  Messung bewusst vor `stamp_running_matter()`.
+- `tools/lib/print_pdf.py`: `frontmatter_fill_report()` +
+  `sparse_frontmatter_warning()` messen den **Füllgrad der Frontmatter-Seiten**
+  (unterste Tintenzeile gegen Satzspiegel) und schreiben `frontmatter_fill` in
+  den Report; unter 40 % kommt als Warnung plus konkreten Schaltern
+  (`summary_page` / `author_bio_page` / `imprint_page: false`).
+  Umsetzung per Rastermessung über pypdfium2: pypdf liefert für
+  Chromium-PDFs keine verlässlichen Textpositionen (geprüft, Werte sind
+  antikorrekt), und die Zeilenzahl taugt nicht als Ersatz, weil der
+  Impressumsatz Schriftgrade mischt. `pypdfium2` ist optional in
+  `requirements.txt` – fehlt es, wird nur diese Messung übersprungen.
+  Wichtig auf Windows: Dokument **und** Seiten schließen, sonst blockiert
+  das Datei-Handle das Löschen der Temp-Dateien in den Tests.
+
+**Ergebnis `der-lotse`:** A5 155 → **153** Seiten, Paperback 112 → **111**,
+`blank_pages: []`. Titelei ist Seite 1, Cover im A5-Pfad Seite 1, Ueberlauf­
+streifen weg, Folio stimmt wieder (Frontmatter 1–4, Text beginnt S5 mit
+Kolumnentitel). Frontmatter-Füllgrade: Titelei 72 %, Zusammenfassung 48 %,
+**Leben des Autors 20 % (als `sparse` gemeldet)**, Impressum 64 %. Tests: 296
+statt 288 (8 neue Regressionstests in `tests/test_print_export.py` und
+`tests/test_export_manuscript.py`), OK.
+
+**Entscheidung des Nutzers zur `sparse`-Meldung:** Die Bio-Seite
+(`author_bio_page`) bleibt. Bei 111 Seiten spart ihr Weglassen eine Seite, der
+Bestand ist bewusst so (Autorenbio separat ist im Buchhandel üblich, Amazon
+führt sie ohnehin). Die Warnung im Report bleibt also dauerhaft stehen und
+ist **kein Fehler**, nicht "reparieren". Pharao ist nicht betroffen (5
+Frontmatter-Seiten, 73/49/47/73/99 % Füllung).
+
+**Pharao Print-Vergleich neu gefahren** (4 Varianten, siehe
+`books/pharao/exports/stil-02-poetisch/book/print/`), weil die alte Tabelle
+`print-comparison-20260921-pharao-abcd.md` je eine Seite zu hoch war. Neue
+Zahlen: **923 / 787 / 672 / 642** (vorher 924 / 788 / 673 / 643), überall
+`blank_pages: []`. Frontmatter dort 5 Seiten, Füllgrade 73 / 49 / 47 / 73 /
+99 % – nichts Einsparbares. A und B liegen weiter über dem Cream-Limit 776.
+
+**A5-Vorschaupfade nachgezogen:** peter-i-buch-01, feuriger-engel und pharao
+neu gerendert – dort sind die 2 Leerseiten je Buch ebenfalls weg (454 / 1167
+/ 1132 Seiten). Bei peter-i-buch-01 ist die Seitenzahl gegenüber dem alten
+PDF vom 17.06.2026 (1098) **gestiegen**, das liegt am Textstand der
+Neuebersetzungen vom 17.09.2026 (6 Szenen), nicht an dieser Korrektur.
+Offen bleiben: `anna-karenina` (PARKIERT, A5 weiterhin mit Leerseiten 1+4)
+und `geheime-geschichte-mongolen` (Export bricht im Gate ab, exit 2, weil die
+Monolith-Kapitel noch Kyrillisch enthalten – das Gate hat hier korrekt
+blockiert, nicht neu zu rendern). Neu laufen lassen:
+`py -3 tools/export_manuscript.py --book <id> --scope book --style <style> --format pdf`.
+
+## Buch `der-lotse` (2026-09-27, echtes Cover + alle 10 Kapitelbilder, Export neu)
+
+Nachtrag zum selben Tag, siehe Abschnitt darunter. **Der Lotse von Rügen** ist
+ein **eigenständiges deutschsprachiges Original von Timo Verita** wie Die
+dritte Chronik – gleiche Autoren-/Herausgeberlogik, gleiche
+Motivatier-Classes-Rollen. Stand des Pakets: **10 von 32 Kapiteln (ca. 31 %,
+32.849 Wörter)**, Ziel des Gesamtwerks 100.000–115.000 Wörter.
+
+- Romanvorlage (Entwicklungsfassung 1.0, 26.09.2026) in `book.yaml:notes` und
+  `export.yaml` eingearbeitet: Genre „historischer Abenteuer- und
+  Familienroman", September 1715 über ca. drei Wochen plus Nachklang 1725,
+  Schauplätze Thiessow/Middelhagen auf Mönchgut, Greifswalder Bodden,
+  Fahrwasser an der schwedischen Schiffssperre, Eldena; Perspektive
+  ausschließlich Joren und Maren Voss, personale dritte Person.
+  `description`/`summary` nach dem Leserversprechen formuliert, Fiktionshinweis
+  im Impressum.
+- **Bilder-Modell auf GPT Image 2 umgestellt** (Nutzerwunsch):
+  `higgsfield: model: gpt_image_2, quality: 1k, render_quality: medium`.
+  Hinweis: die globale Voreinstellung in `config/higgsfield_models.yaml` und
+  in den anderen Buchpaketen ist weiterhin `text2image_soul_v2` – die
+  Umstellung gilt nur für `der-lotse`.
+- `illustration_setting` um „no frame, no canvas edge, no signature,
+  full-bleed" ergänzt. Grund: Soul 2.0 lieferte gerahmte Gemälde mit
+  Signatur-Kante, die im Buchsatz unbrauchbar waren. Die Soul-Variante von
+  Kapitel 001 liegt als `assets/chapter/chapter-001_alt.jpg` (wird vom Export
+  ignoriert).
+- Erzeugt mit `tools/generate_illustration_batch.py --kind chapter
+  --no-reference --allow-paid-generation --missing` (kein Moodboard vorhanden,
+  deshalb `--no-reference`; ohne das Flag bricht der Lauf mit dem
+  Share-Link-Fehler ab). 3 Bilder, 1K, je 70–115 KB:
+  `assets/chapter/chapter-001.jpg` … `chapter-003.jpg`. Bild 001 zeigt Joren
+  im Wasser mit der roten Mütze des schwedischen Leutnants, Pfahlsperre und
+  Eldena, 002 die Requisition mit Maren und den Abschriften, 003 die Fahrt
+  an der Sperre.
+- Gate unverändert **ERROR=0/WARNING=0/INFO=14**. Neu exportiert (alle ohne
+  Bypass, 3 Illustrationen im Manifest):
+  EPUB `...-20260927-161440.epub`, DOCX `...-20260927-161501.docx`,
+  A5-PDF `...-20260927-161506.pdf` (148 S.),
+  Paperback 5.5×8.5 classic `...-161514` (**105 S.**, KDP-Limit 776).
+- **Echtes Cover vom Nutzer geliefert**: `assets/covers/cover.png`
+  (1024×1536, Renditionsmotiv mit Titel „Der Lotse von Rügen", Autor
+  „Timo Verita", Serie „MOTIVATIER CLASSICS"). `export.yaml:book.cover` steht
+  jetzt explizit auf `mode: image` + `image_path: assets/covers/cover.png`
+  (vorher `placeholder` mit leerem Pfad; die Auto-Erkennung hätte es auch
+  gefunden, explizit ist aber sauberer und im Dashboard sichtbar).
+- **Kapitelbilder 004–010 nachgezogen**, damit 10/10 vorhanden sind. Erzeugt
+  mit `py -3 tools/generate_illustration.py --book der-lotse --chapter NNN
+  --kind chapter --no-reference --allow-paid-generation`, gleiche Defaults wie
+  001–003 (`gpt_image_2`, 1K, `render_quality: medium`, 3:4, ~40–50 s pro
+  Bild). Motivkette jetzt durchgehend: Pfahlwerk im Greifswalder Bodden vor
+  Eldena, Requisition/Offiziere, Fischerei am Bodden, Seekarte mit
+  schwedischer Flagge, Maren im Watt zwischen den Pfählen. `chapter-001_alt.jpg`
+  bleibt die ignorierte Soul-V2-Variante.
+- Gate erneut **ERROR=0/WARNING=0/INFO=14**, danach alle vier Formate neu
+  exportiert (ohne `--allow-review-errors`, Manifest mit 10 Illustrationen und
+  `cover.png`):
+  - EPUB `...-20260927-163021.epub` (6,8 MB, 18 Bilder: 10 Kapitelbilder,
+    Cover + 7 Cover der Reihenkatalog-Titel)
+  - DOCX `...-20260927-163021.docx` (3,7 MB), A5-PDF `...-20260927-163024.pdf`
+    (4,96 MB, **155 S.**)
+  - Paperback 5.5×8.5 classic full `...-20260927-163028` (11,25 MB,
+    **112 S.**, KDP-Limit 776, `within_kdp_page_limit: true`)
+- Print-Report-Status `warning`, **nur** wegen DPI: die 1K-Bilder ergeben bei
+  3,24 in Anzeigebreite 236–238 dpi (< 300). Für echten Print-Qualitätsanspruch
+  müsste `higgsfield.quality` für `der-lotse` auf `2k` hochgehen und die Bilder
+  neu erzeugt werden; EPUB/DOCX/PDF sind davon nicht betroffen.
+- Offen: `assets/covers/cover-print.*` für die komplette KDP-Titelei
+  (`--format paperback-complete`) fehlt weiterhin, `website.enabled` bewusst
+  `false`, und `gpt_image_2 / 1K / medium` gilt weiterhin nur für dieses eine
+  Buchpaket.
+
+## Vorherige Session am selben Tag (2026-09-27, Buch angelegt + exportiert)
+
+**Der Lotse von Rügen** (Timo Verita) ist als 13. Buchpaket unter
+`books/der-lotse/` entstanden und vollständig exportiert. Kein
+Übersetzungsprojekt, kein LLM-Lauf, keine OpenRouter-Kosten.
+
+- DE-Original wie die Dritte Chronik: `source_lang/target_lang: de`,
+  `structure.mode: chapter_as_scene`, `display.chapters.format: literary`.
+- Metadaten nach Nutzerentscheidung: Autor **Timo Verita**, Herausgabe
+  **Motivatier Classics**, Verlag **Motivatier Stiftung**, Untertitel
+  „Roman". Titelblock, Impressum, Zusammenfassung, Autorenbio und
+  Klartext-Beschreibung selbst formuliert – **fachlich prüfen**, ebenso die
+  Zeile „Greifswalder Bodden, Insel Rügen · um 1715" (das steht so nicht
+  als Quelle im Dokument, die Quellen nennen 1700–1715).
+- Neues generisches Tool **`tools/import_de_original.py`** (Kapitelgrenze =
+  `## `-Überschrift, DE-Szene = Kapiteltext, Status `done`). Das Skript
+  `tools/import_die_dritte_chronik.py` ist davon unabhaengig und bleibt
+  bestehen. Aufruf: `py -3 tools/import_de_original.py --book <id> [--dry-run]`.
+- Quelle: `books/der-lotse/source/Der Lotse von Rügen.md` (10 Kapitel,
+  32.849 Wörter) + `.docx`-Backup. **Quelle unangetastet.**
+- Gate: `py -3 tools/review_manuscript.py --book der-lotse --style
+  stil-01-original --all --llm none --fail-on-errors` → **ERROR=0,
+  WARNING=0, INFO=14** (nur `repetition_style`: Anaphorenketten „weil/dass/
+  oder" + TTR-Hinweise – bewusstes Stilmittel, nicht angefasst).
+- Exporte (alle ohne `--allow-review-errors`):
+  - EPUB `book-der-lotse-von-r-gen-stil-01-original-20260927-155754.epub`
+    (3,3 MB, 12 XHTML-Teile, Nav mit 10 Kapiteln + Reihenkatalog)
+  - DOCX `...-20260927-155817.docx`, PDF (A5) `...-20260927-155831.pdf`
+  - Paperback 5.5×8.5 classic full: **102 Seiten** (KDP-Limit 776)
+- Offen: Cover ist nur ein **Platzhalter** (`cover.mode: placeholder`), keine
+  Kapitelbilder. Für KDP fehlen `assets/covers/cover-print.*` und eine
+  `website:`-Freigabe ist bewusst `enabled: false`.
+- Tests: `py -3 -m unittest discover -s tests` → 288 Tests, OK.
+- Datei-Slugs enthalten `r-gen` statt `ruegen` (globale
+  `sanitize_filename()` in `export_manuscript.py` – betrifft alle Bücher mit
+  Umlauten im Titel, z. B. auch „Der feurige Engel" → `der-feurige-engel`).
+  Nur Dateiname, kein Inhaltsproblem.
+
+
 ## Vorige Session (2026-09-21, Print-Optionen Trim/Profil/Bilder)
 
 Paperback-Export waehlt Trim, Satzprofil und Bildmodus pro Job. Default
@@ -95,12 +566,12 @@ gehoben werden.
 Aelterer Komplett-Pilot ohne Varianten-Slug: Stempel `20260921-155209`
 (924 Seiten, Limit damals 828). Neue Varianten 2026-09-21:
 
-- A 5.5x8.5 classic full: **924** Seiten (nicht KDP-creme)
-- B 6x9 classic full: **788** Seiten (–136 / –14,7 % gegen A; noch +12 ueber 776)
-- C 6x9 long_classic full: **673** Seiten
-- D 6x9 long_classic inline: **643** Seiten
+- A 5.5x8.5 classic full: **923** Seiten (nicht KDP-creme)
+- B 6x9 classic full: **787** Seiten (–136 / –14,7 % gegen A; noch +11 ueber 776)
+- C 6x9 long_classic full: **672** Seiten
+- D 6x9 long_classic inline: **642** Seiten
 
-Vergleich: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`.
+Vergleich: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260927-pharao-abcd.md`.
 Code, Tests, Doku, Pharao-000 und `cover-print.png` sind auf `main`.
 Die grossen Interior-/Complete-/Wrap-PDFs bleiben lokal (regenerierbar).
 
@@ -602,6 +1073,7 @@ mit 7000 nachgezogen), und `names.yaml` vorher fuellen - sonst laeuft
 | `tools/lib/print_{spec,css,pdf,wrap}.py` | Print-Spec, EB-Garamond-CSS, Playwright-PDF, Wrap-Bogen |
 | `tools/lib/series_catalog.py` | Reihenkatalog am Buchende (`website.enabled`, `website.catalog: false`) |
 | `tools/export_marketing.py` | Marketingpaket (Beitraege, YouTube-Materialien, `campaign.json`); siehe [marketing-export.md](marketing-export.md) |
+| `tools/kdp_sync.py` | KDP-Adapter Phase 1 (2026-10-13): `status`, `login`, `pull`, `diff`, `bind`. Skill als Submodule `tools/vendor/amazon-kdp-skill` (HTTP `127.0.0.1:3001`). Soll aus `export.yaml` `book.*`, Join-Keys nur in top-level `amazon:`. Kein Update, Preis, Upload oder Publish. Vor `status`: `npm install` im Vendor-Ordner. |
 
 Higgsfield: [docs/higgsfield-integration.md](higgsfield-integration.md). Web-UI-Moodboards sind CLI-seitig nicht wählbar.
 
@@ -681,14 +1153,18 @@ Higgsfield: [docs/higgsfield-integration.md](higgsfield-integration.md). Web-UI-
 9. Optional: Feature-Branch `codex/geheime-geschichte-mongolen-prompts` remote löschen, wenn alle Clients auf `main` sind
 10. Anna-Cover: geprueft und erledigt – `export.yaml` setzt `cover.mode: image` mit `image_path: assets/covers/annakarenina.png` (Vorrang vor `find_named_image(..., "cover")`); nur bei geleertem Feld droht der Platzhalter
 11. Aelita Release-Kandidat (2026-09-17): Regelcheck 0/0 ueber alle 30 Kapitel. Kapitel 030: Romantext endet in der DE-Szene, Editionskommentare der RU-Quelle sind vollstaendig in den Anhang „Kommentare“ ausgelagert (`work/appendices/de/stil-03-branderson/kommentare.md`; alte Fassung in `work/legacy/`). Neues `appendices:`-Feature: `tools/lib/editorial_appendices.py`, Export EPUB/DOCX/PDF, Gate-Anrechnung in `review_checks.py` (27 Export-Tests gruen). 16 Kapitelbilder optimiert (Export-JPG q60, max 1600x2400, ~14,8 → ~2,4 MB); 12 Kapitel bleiben bewusst ohne Bild (009, 010, 011, 012, 016-019, 022-027); 11 wiedergefundene Motive fuer 020-030 liegen in `work/image-recovery/20260917-165216/verified/` zur freien Nutzung. Buch-EPUB `...-20260917-180435.epub` (Gate 0 Fehler) von Nutzer geprueft. Offen: Kindle Previewer.
-12. Taschenbuch (2026-09-21, auf `main`): `--format paperback` =
-    Innenleben; `--format paperback-complete` = Lese-PDF plus Wrap.
-    Trim `--trim-size 5.5x8.5|6x9`, Profil `classic|long_classic`, Bilder
-    `full_page|inline` getrennt waehlbar. Cream-Limit 776. Wrap =
-    Umschlagbogen Rueckseite|Ruecken|Vorderseite, nicht der Text.
-    Pharao A–D: 924 / 788 / 673 / 643 Seiten. Offen: menschliche
-    Print-Leseprobe, Entscheidung 788 vs. 776 fuer 6x9 classic,
-    `cover-print` fuer andere Titel.
+12. Taschenbuch (2026-09-21, auf `main`; Zahlen 2026-09-27 aktualisiert):
+    `--format paperback` = Innenleben; `--format paperback-complete` =
+    Lese-PDF plus Wrap. Trim `--trim-size 5.5x8.5|6x9`, Profil
+    `classic|long_classic`, Bilder `full_page|inline` getrennt waehlbar.
+    Cream-Limit 776. Wrap = Umschlagbogen Rueckseite|Ruecken|Vorderseite,
+    nicht der Text. Pharao A–D: 923 / 787 / 672 / 642 Seiten (vorher je eine
+    zu hoch, Leerseiten-Bug behoben). Offen: menschliche Print-Leseprobe,
+    Entscheidung 787 vs. 776 fuer 6x9 classic, `cover-print` fuer andere
+    Titel.
+13. Buchbilder (2026-09-27): `assets/master/` (2k) eingefuehrt, Paperback liest
+    dort zuerst. Bestand bewusst nicht neu erzeugt – siehe
+    `docs/offene-punkte.md` Punkt 13.
 
 Covers und Übersetzungsläufe (OpenRouter-Kosten) nur nach ausdrücklicher Freigabe starten.
 

@@ -56,9 +56,14 @@ naming_convention:
   - Herhor -> Herhor
   - Sargon -> Sargon
 higgsfield:
-  model: text2image_soul_v2
+  model: gpt_image_2
   aspect_ratio: "3:4"
-  quality: 1.5k
+  quality: 2k
+  render_quality: medium
+  # Druckoriginal nach assets/master/ (2k = ca. 1536x2048px, ~470 dpi im
+  # 5.5x8.5-Taschenbuchsatz). EPUB/DOCX/A5 behalten die kleinere Fassung
+  # darunter in assets/chapter/. Beide Ordner bleiben per .gitignore draussen.
+  keep_master: true
   moodboard:
     name: Pharao III
     custom_reference_id: b1808566-674b-4495-b268-756f2ea287d5
@@ -75,6 +80,11 @@ higgsfield:
     jpeg_quality: 60
     max_width: 1600
     max_height: 2400
+    master:
+      format: JPEG
+      jpeg_quality: 92
+      max_width: 2048
+      max_height: 2048
 notes: >-
   Buchpaket fuer Bolesław Prus, Der Pharao. Als Master-Quelle wird die
   polnische Wolne-Lektury-EPUB `source/faraon.epub` verwendet. Sie enthaelt

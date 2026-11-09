@@ -421,6 +421,22 @@ class ExportManuscriptTests(unittest.TestCase):
         self.assertIn("break-before: page", css)
         self.assertIn("page-break-after: always", css)
 
+    def test_write_pdf_css_fills_type_area_not_full_page(self) -> None:
+        """Regression 2026-09-27 (der-lotse): min-height 210mm auf A5 ist
+        hoeher als der Satzspiegel (172mm) und erzeugt eine Leerseite plus
+        Ueberlaufstreifen des Coverbilds auf der Titelei."""
+        with tempfile.TemporaryDirectory() as tmp:
+            path = export.write_pdf_css(Path(tmp) / "book-print.css")
+            css = path.read_text(encoding="utf-8")
+
+        type_w, type_h = export.pdf_preview_type_mm()
+        self.assertAlmostEqual(type_w, 116.0)
+        self.assertAlmostEqual(type_h, 171.0)
+        self.assertIn("min-height: 171mm", css)
+        self.assertIn("max-height: 170mm", css)
+        self.assertNotIn("min-height: 210mm", css)
+        self.assertNotIn("max-height: 175mm", css)
+
     def test_epub_postprocess_renames_auto_title_nav_entry(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             path = Path(tmp) / "book.epub"

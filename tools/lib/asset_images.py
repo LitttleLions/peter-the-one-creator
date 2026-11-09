@@ -30,6 +30,18 @@ DEFAULT_COVER_PROCESSING: dict[str, Any] = {
     "max_height": 2400,
 }
 
+# Druckoriginale. liegen unter assets/master/ und werden vom Optimierer
+# NIE als Ziel benutzt. 2k (Higgsfield) ergibt bei 3:4 ca. 1536x2048 px und
+# damit reichlich 300 dpi im Taschenbuchsatz (Anzeigebreite 3.24in).
+MASTER_DIRNAME = "master"
+
+DEFAULT_MASTER_PROCESSING: dict[str, Any] = {
+    "format": "JPEG",
+    "jpeg_quality": 92,
+    "max_width": 2048,
+    "max_height": 2048,
+}
+
 # Hochwertige Nebenkopie der Quelle (kein Resize), bevor Export-JPG ueberschrieben wird.
 ARCHIVE_JPEG_PROCESSING: dict[str, Any] = {
     "format": "JPEG",
@@ -194,6 +206,44 @@ def load_cover_processing(book: dict[str, Any]) -> dict[str, Any]:
     return cfg
 
 
+def _processing_from_block(block: Any, base: dict[str, Any]) -> dict[str, Any]:
+    cfg = dict(base)
+    if not isinstance(block, dict):
+        return cfg
+    for key in ("format", "jpeg_quality", "max_width", "max_height"):
+        if key in block and not isinstance(block[key], dict):
+            cfg[key] = block[key]
+    return cfg
+
+
+def _image_processing_block(book: dict[str, Any]) -> dict[str, Any]:
+    hf = book.get("higgsfield") or {}
+    if not isinstance(hf, dict):
+        return {}
+    ip = hf.get("image_processing")
+    return ip if isinstance(ip, dict) else {}
+
+
+def load_master_processing(book: dict[str, Any]) -> dict[str, Any]:
+    """Druckprofil aus ``higgsfield.image_processing.master``."""
+    return _processing_from_block(
+        _image_processing_block(book).get(MASTER_DIRNAME),
+        DEFAULT_MASTER_PROCESSING,
+    )
+
+
+def master_assets_enabled(book: dict[str, Any]) -> bool:
+    """False schaltet die Master-Ebene fuer dieses Buch komplett ab."""
+    hf = book.get("higgsfield") or {}
+    if not isinstance(hf, dict):
+        return True
+    return bool(hf.get("keep_master", True))
+
+
+def is_master_path(path: Path) -> bool:
+    return MASTER_DIRNAME in Path(path).parts
+
+
 def _prefer_source(directory: Path, stem: str) -> Path | None:
     """Prefer PNG master, else ``*_alt.jpg`` archive, else export JPEG."""
     if is_alt_stem(stem):
@@ -233,11 +283,16 @@ def discover_export_assets(
     include_test: bool = False,
     illustration_processing: dict[str, Any] | None = None,
     cover_processing: dict[str, Any] | None = None,
+    from_master: bool = False,
 ) -> list[AssetKind]:
-    """Find cover/chapter/scene assets that should have an optimized .jpg."""
-    assets = book_root / "assets"
-    if not assets.is_dir():
-        return []
+    """Find cover/chapter/scene assets that should have an optimized .jpg.
+
+    ``from_master=True`` liest die Druckoriginale unter ``assets/master/``,
+    schreibt aber weiterhin nach ``assets/chapter`` bzw. ``assets/scene``.
+    Die Master-Ebene ist thereby nie Ziel eines Laufs.
+    """
+    base = book_root / "assets"
+    assets = (base / MASTER_DIRNAME) if from_master else base
     ill = illustration_processing or DEFAULT_ILLUSTRATION_PROCESSING
     cov = cover_processing or DEFAULT_COVER_PROCESSING
     found: list[AssetKind] = []
@@ -256,7 +311,9 @@ def discover_export_assets(
                 source = _prefer_source(covers, stem)
                 if source is None:
                     continue
-                found.append(AssetKind("cover", source, covers / f"{stem}.jpg", cov))
+                found.append(
+                    AssetKind("cover", source, base / "covers" / f"{stem}.jpg", cov)
+                )
 
     if include_chapter:
         chapter_dir = assets / "chapter"
@@ -265,7 +322,12 @@ def discover_export_assets(
             if source is None:
                 continue
             found.append(
-                AssetKind("chapter", source, chapter_dir / f"{stem}.jpg", ill)
+                AssetKind(
+                    "chapter",
+                    source,
+                    base / "chapter" / f"{stem}.jpg",
+                    ill,
+                )
             )
         if include_test:
             test_dir = chapter_dir / "test"
@@ -282,7 +344,7 @@ def discover_export_assets(
                         AssetKind(
                             "chapter",
                             source,
-                            test_dir / f"{path.stem}.jpg",
+                            base / "chapter" / "test" / f"{path.stem}.jpg",
                             ill,
                         )
                     )
@@ -299,7 +361,7 @@ def discover_export_assets(
                         AssetKind(
                             "scene",
                             source,
-                            chapter_dir / f"{stem}.jpg",
+                            base / "scene" / chapter_dir.name / f"{stem}.jpg",
                             ill,
                         )
                     )

@@ -46,6 +46,8 @@ import {
   saveBookNames,
   saveBookSettings,
   saveIllustrationSetting,
+  getBookGitignore,
+  saveBookGitignore,
   saveBookWebsite,
   startActionJob,
   startBuildShelfWebsiteJob,
@@ -3060,6 +3062,7 @@ function ImagesPage({ book, settings }: { book?: BookSummary; settings: Workspac
   const [selectedJobId, setSelectedJobId] = useState<string | null>(null);
   const [illustrationSetting, setIllustrationSetting] = useState(book?.illustration_setting || "");
   const [settingExpanded, setSettingExpanded] = useState(false);
+  const [largeAssets, setLargeAssets] = useState(true);
 
   const chaptersQuery = useQuery({
     queryKey: ["chapters", book?.id, style || book?.style_mode],
@@ -3105,6 +3108,18 @@ function ImagesPage({ book, settings }: { book?: BookSummary; settings: Workspac
       queryClient.invalidateQueries({ queryKey: ["books"] });
     }
   });
+  const gitignoreQuery = useQuery({
+    queryKey: ["book-gitignore", book?.id],
+    queryFn: () => getBookGitignore(book!.id),
+    enabled: Boolean(book)
+  });
+  const saveGitignoreMutation = useMutation({
+    mutationFn: (value: boolean) => saveBookGitignore(book!.id, value),
+    onSuccess: (data) => {
+      if (book) queryClient.setQueryData(["book-gitignore", book.id], data);
+      queryClient.invalidateQueries({ queryKey: ["books"] });
+    }
+  });
 
   const chapters = chaptersQuery.data?.chapters ?? [];
   const jobs = jobsQuery.data?.jobs ?? [];
@@ -3119,6 +3134,10 @@ function ImagesPage({ book, settings }: { book?: BookSummary; settings: Workspac
   useEffect(() => {
     setStyle(settings.active_style);
   }, [book?.id, settings.active_style]);
+
+  useEffect(() => {
+    if (gitignoreQuery.data) setLargeAssets(gitignoreQuery.data.large_assets);
+  }, [gitignoreQuery.data]);
 
   useEffect(() => {
     setModel(book?.higgsfield_model || higgsfieldDefault);
@@ -3192,6 +3211,9 @@ function ImagesPage({ book, settings }: { book?: BookSummary; settings: Workspac
   const canStart = Boolean(style && kind && (scope === "chapter" ? chapter : startChapter));
   const settingDirty = illustrationSetting.trim() !== (book.illustration_setting || "").trim();
   const settingPreview = (book.illustration_setting || "").trim() || "Noch kein illustration_setting in book.yaml.";
+  const gitignoreSettings = gitignoreQuery.data;
+  const gitignoreDirty =
+    gitignoreSettings != null && largeAssets !== gitignoreSettings.large_assets;
 
   return (
     <section className="page-stack">
@@ -3507,6 +3529,88 @@ function ImagesPage({ book, settings }: { book?: BookSummary; settings: Workspac
               </div>
             </>
           )}
+        </div>
+
+        <div className="panel stack-panel">
+          <div className="panel-header">
+            <div>
+              <h2>Grosse Medien aus Git halten</h2>
+              <p>
+                Druckoriginale, Audio, Video und Marketing-Clips sind regenerierbar.
+                Ausgeschaltet bleiben sie in der Git-Historie und lassen sich nur
+                schwer wieder entfernen. Die kleine E-Reader-Fassung in
+                <code> assets/chapter</code> ist davon nicht betroffen.
+              </p>
+            </div>
+            <NotebookTabs size={22} />
+          </div>
+
+          <div className="toggle-row">
+            <label>
+              <input
+                type="checkbox"
+                checked={largeAssets}
+                disabled={gitignoreQuery.isLoading || saveGitignoreMutation.isPending}
+                onChange={(event) => setLargeAssets(event.target.checked)}
+              />
+              <span>Groesse, regenerierbare Medien aus diesem Buchpaket ausschliessen</span>
+            </label>
+          </div>
+
+          {gitignoreQuery.isError && (
+            <div className="error-box">
+              {String(gitignoreQuery.error.message)}
+            </div>
+          )}
+          {saveGitignoreMutation.isError && (
+            <div className="error-box">
+              {String(saveGitignoreMutation.error.message)}
+            </div>
+          )}
+
+          {gitignoreSettings && (
+            <>
+              <div className="muted-note">
+                {gitignoreSettings.patterns.length > 0
+                  ? `${gitignoreSettings.patterns.length} Muster in ${gitignoreSettings.gitignore_path}`
+                  : `Kein Ausschluss in ${gitignoreSettings.gitignore_path}`}
+                {gitignoreSettings.state === "ok" ? "" : " – Abschnitt veraltet, bitte speichern."}
+              </div>
+              {gitignoreSettings.patterns.length > 0 && (
+                <pre className="log-tail compact">
+                  {gitignoreSettings.patterns.join("\n")}
+                </pre>
+              )}
+            </>
+          )}
+
+          <div className="action-row">
+            <button
+              className="button primary"
+              type="button"
+              disabled={!gitignoreDirty || saveGitignoreMutation.isPending}
+              onClick={() => saveGitignoreMutation.mutate(largeAssets)}
+            >
+              {saveGitignoreMutation.isPending ? "Speichere…" : "Schalter speichern"}
+            </button>
+            <button
+              className="button ghost"
+              type="button"
+              disabled={!gitignoreDirty}
+              onClick={() => {
+                if (gitignoreSettings) setLargeAssets(gitignoreSettings.large_assets);
+                saveGitignoreMutation.reset();
+              }}
+            >
+              Zuruecksetzen
+            </button>
+          </div>
+          <div className="muted-note">
+            Schalter: <code>book.yaml → gitignore.large_assets</code>. Muster in{" "}
+            <code>config/gitignore-assets.yaml</code>, zusaetzlich pro Buch ueber{" "}
+            <code>extra_patterns</code> und <code>disabled_patterns</code>. Gegenprobe
+            per CLI: <code>py -3 tools/sync_book_gitignore.py --check</code>.
+          </div>
         </div>
         </div>
 

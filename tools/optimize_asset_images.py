@@ -7,6 +7,9 @@
 - Quelle bevorzugt PNG, sonst ``*_alt.jpg``, sonst vorhandenes JPEG.
 - Ziel ist immer ``stem.jpg`` (Export bevorzugt .jpg vor .png).
 - Cover nutzt grosszuegigere Masse aus book.yaml ``image_processing.cover``.
+- ``--source master`` liest stattdessen die Druckoriginale aus
+  ``assets/master/``; geschrieben wird weiter nach ``assets/chapter`` bzw.
+  ``assets/scene``. Die Master-Ebene ist nie Ziel eines Laufs.
 """
 
 from __future__ import annotations
@@ -21,7 +24,9 @@ if str(TOOLS_DIR) not in sys.path:
     sys.path.insert(0, str(TOOLS_DIR))
 
 from lib.asset_images import (  # noqa: E402
+    MASTER_DIRNAME,
     discover_export_assets,
+    is_master_path,
     load_cover_processing,
     load_illustration_processing,
     plan_conversions,
@@ -61,6 +66,16 @@ def parse_args() -> argparse.Namespace:
         help="Auch assets/chapter/test/* einbeziehen",
     )
     parser.add_argument(
+        "--source",
+        choices=("auto", "master"),
+        default="auto",
+        help=(
+            "auto = PNG / *_alt.jpg / vorhandenes JPEG wie bisher; "
+            f"master = Druckoriginale aus assets/{MASTER_DIRNAME}/ als Quelle "
+            "(Ziel bleibt assets/chapter bzw. assets/scene)"
+        ),
+    )
+    parser.add_argument(
         "--dry-run",
         action="store_true",
         help="Nur planen, keine Dateien schreiben",
@@ -83,6 +98,7 @@ def main() -> int:
     include_chapter = args.scope in ("all", "chapter")
     include_scene = args.scope in ("all", "scene")
 
+    from_master = args.source == "master"
     assets = discover_export_assets(
         book_root,
         include_cover=include_cover,
@@ -91,10 +107,19 @@ def main() -> int:
         include_test=args.include_test,
         illustration_processing=ill,
         cover_processing=cov,
+        from_master=from_master,
     )
+    # Sicherheitsnetz: die Druckoriginale duerfen nie ueberschrieben werden.
+    master_targets = [i for i in assets if is_master_path(i.jpeg_target)]
+    if master_targets:
+        raise SystemExit(
+            "Abbruch: Ziel im Master-Ordner gefunden: "
+            + ", ".join(str(t.jpeg_target) for t in master_targets)
+        )
     todo, skipped = plan_conversions(assets, skip_existing=args.skip_existing)
 
     print(f"Buch: {args.book}")
+    print(f"Quelle: {'assets/' + MASTER_DIRNAME if from_master else 'PNG / *_alt.jpg / JPEG'}")
     print(
         "Kapitel/Szenen: "
         f"JPEG q{ill.get('jpeg_quality')} "

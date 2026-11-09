@@ -78,6 +78,10 @@ from lib.higgsfield_models import (  # noqa: E402
     list_higgsfield_models,
     load_higgsfield_model_catalog,
 )
+from lib.gitignore_assets import (  # noqa: E402
+    load_settings as load_gitignore_settings,
+    write_gitignore as write_gitignore_file,
+)
 
 from .json_utils import jsonable
 
@@ -156,6 +160,10 @@ class WebsiteSettingsUpdateRequest(BaseModel):
     enabled: bool
     amazon_url: str = ""
     sort_order: int | None = None
+
+
+class GitignoreSettingsUpdateRequest(BaseModel):
+    large_assets: bool
 
 
 def _global_style_options(repo_root: Path) -> list[dict[str, str]]:
@@ -471,6 +479,21 @@ def _write_website_settings_preserving_yaml(
     if sort_order is not None:
         _set_nested_scalar(lines, "website", "sort_order", int(sort_order))
     path.write_text(newline.join(lines) + (newline if had_trailing_newline else ""), encoding="utf-8")
+
+
+def _write_nested_scalar_preserving_yaml(
+    path: Path, block_key: str, key: str, value: str | int | bool
+) -> None:
+    """Top-level Block in einer YAML-Datei setzen, ohne den Rest anzufassen."""
+    text = path.read_text(encoding="utf-8") if path.exists() else ""
+    newline = "\r\n" if "\r\n" in text else "\n"
+    had_trailing_newline = text.endswith(("\n", "\r\n")) if text else True
+    lines = text.splitlines()
+    _set_nested_scalar(lines, block_key, key, value)
+    path.write_text(
+        newline.join(lines) + (newline if had_trailing_newline else ""),
+        encoding="utf-8",
+    )
 
 
 def _file_info(path: Path, repo_root: Path) -> dict[str, Any] | None:
@@ -1157,6 +1180,33 @@ def create_app(repo_root: Path = REPO_ROOT) -> FastAPI:
             "illustration_setting": str(saved_book.get("illustration_setting") or "").strip(),
             "summary": jsonable(_book_summary(saved_book, root), root),
         }
+
+    @app.get("/api/books/{book_id}/gitignore")
+    def api_book_gitignore_get(book_id: str, request: Request) -> dict[str, Any]:
+        root = _repo_root(request)
+        book = _load_book_or_404(root, book_id)
+        settings = load_gitignore_settings(book, root)
+        return jsonable({"book_id": book_id, **settings}, root)
+
+    @app.put("/api/books/{book_id}/gitignore")
+    def api_book_gitignore_update(
+        book_id: str, payload: GitignoreSettingsUpdateRequest, request: Request
+    ) -> dict[str, Any]:
+        root = _repo_root(request)
+        _load_book_or_404(root, book_id)
+        project = book_project(root, book_id)
+        _write_nested_scalar_preserving_yaml(
+            project.root / "book.yaml",
+            "gitignore",
+            "large_assets",
+            bool(payload.large_assets),
+        )
+        # Nach dem Speichern sofort den verwalteten Abschnitt nachziehen,
+        # damit der Schalter nicht erst per CLI wirkt.
+        refreshed = _load_book_or_404(root, book_id)
+        write_gitignore_file(refreshed, root)
+        settings = load_gitignore_settings(refreshed, root)
+        return jsonable({"book_id": book_id, "saved": True, **settings}, root)
 
     @app.get("/api/books/{book_id}/website")
     def api_book_website_get(book_id: str, request: Request) -> dict[str, Any]:

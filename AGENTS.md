@@ -6,21 +6,21 @@
 
 ## Fortsetzung im gleichen Ordner / neues Chat-Fenster (gleiche LLM)
 
-Kein neues Setup noetig. Im selben Repo-Ordner
-(`E:\code\peter-the-one-creator`, Branch `cline/pveejb87`) weiterarbeiten,
-neues Fenster reicht. `main` bleibt unberuehrt. Kopiertext:
+Kein neues Setup noetig. Im selben Repo-Ordner (`c:\code\peter-the-one`,
+Branch `main`) weiterarbeiten, neues Fenster reicht. Die Commits von
+`cline/pveejb87` liegen auf `main` (`d893767`). Kopiertext:
 [docs/uebergabe-prompt.md](./docs/uebergabe-prompt.md).
 
 Einstieg in dieser Reihenfolge (alles lesend, keine Kosten):
 
 1. `AGENTS.md` (diese Datei) + `README.md` (Schnellstart) lesen.
 2. `docs/HANDOVER.md` (Titel = Stand-Datum; oben **Letzte Session** =
-   RomanForge-Uebernahme Stufe 1, 2026-10-07) +
+   RomanForge-Uebernahme Stufe 1c, 2026-10-08, jetzt auf lokalem `main`) +
    `docs/uebernahme-romanforge.md` + `docs/offene-punkte.md` Punkt 6
-   (Chronik-Tabelle).
+   (Chronik), Punkt 11 (Print) und Punkt 14 (Buchbilder, lokal 2026-09-27).
 3. Lage verifizieren: `git --no-pager status --short --branch`.
-   Print-Vergleich: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`
-   (A 924 / B 788 / C 673 / D 643; Cream 776). Gate Pharao erwartet ERROR=0
+   Print-Vergleich: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260927-pharao-abcd.md`
+   (A 923 / B 787 / C 672 / D 642; Cream 776, also A und B darüber). Gate Pharao erwartet ERROR=0
    (`py -3 tools/review_manuscript.py --book pharao --style stil-02-poetisch --all --llm none --fail-on-errors`).
    Chronik KDP-fertig: Gate ERROR=0/WARNING=13/INFO=36,
    EPUB `...-20260921-131112.epub`.
@@ -56,7 +56,7 @@ Aktuelle Buchpakete (13):
 
 - `books/peter-i-buch-01/` - Alexei Tolstoi, Peter der Erste
 - `books/anna-karenina/` - Lew Tolstoi, Anna Karenina (PARKIERT 09/2026)
-- `books/pharao/` - Bolesław Prus, Der Pharao (LIVE; Print-Optionen 2026-09-21: Trim/Profil/Bilder, A–D 924/788/673/643, Cream 776, Gate ERROR=0, Einleitung 000 restauriert)
+- `books/pharao/` - Bolesław Prus, Der Pharao (LIVE; Print-Optionen 2026-09-21: Trim/Profil/Bilder, nach der Leerseiten-Korrektur 2026-09-27 A–D 923/787/672/642, Cream 776, Gate ERROR=0, Einleitung 000 restauriert)
 - `books/feuriger-engel/` - Walerij Brjussow, Der feurige Engel
 - `books/aelita/` - Alexei Tolstoi, Aelita (LIVE 09/2026: Regelcheck 0/0, Kapitel-030-Kommentare als Anhang ausgelagert, Buch-EPUB 2026-09-17 nutzergeprueft und veroeffentlicht; 12 Kapitel bewusst ohne Bild; Amazon-Link + Marketing nach Amazon-Freigabe)
 - `books/leben-arsenjews/` - Iwan Bunin, Das Leben Arsenjews (Release-Kandidat 09/2026: Gate ERROR=0/WARNING=8, EPUB 20260917-212334 ohne Bypass)
@@ -67,6 +67,7 @@ Aktuelle Buchpakete (13):
 - `books/kuprin-moloch/` - Alexander Kuprin, Der Moloch (Roh-Anlage 09/2026)
 - `books/grin-wellenlaeuferin/` - Alexander Grin, Die Wellenlaeuferin (Roh-Anlage 09/2026)
 - `books/pissemski-tausend-seelen/` - Alexei Pissemski, Tausend Seelen (Roh-Anlage 09/2026)
+- `books/der-lotse/` - Timo Verita, Der Lotse von Rügen (DE-Original, Roman **vollständig** 09/2026: 32 Kapitel / 104.080 W, Epilog in 032, echtes Cover + 32/32 Kapitelbilder, Gate 0/1/42; KDP-Cover + Website-Freigabe offen)
 
 ## Buchpaket-Struktur
 
@@ -77,8 +78,10 @@ books/<book-id>/
   names.yaml                # buchlokale Namen-/Begriffsliste fuer Prompts
   source/                   # Originalquellen; nicht ohne Rueckfrage aendern
   assets/covers/            # Cover
-  assets/chapter/           # optionale Kapitelbilder chapter-NNN.*
-  assets/scene/NNN/         # optionale Szenenbilder scene-NNN.*
+  assets/chapter/           # optionale Kapitelbilder chapter-NNN.* (E-Reader-Fassung)
+  assets/scene/NNN/         # optionale Szenenbilder scene-NNN.* (E-Reader-Fassung)
+  assets/master/            # Druckoriginale 2k; nur Paperback, nicht im Git
+  .gitignore                # verwalteter Ausschluss (tools/sync_book_gitignore.py)
   styles/                   # editierbare Style-Profile fuer dieses Buch
   work/
     chapters/               # NNN-source.md
@@ -210,6 +213,13 @@ python tools/export_manuscript.py --book pharao --scope book --style stil-02-poe
 python tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback --trim-size 6x9 --layout-profile classic --illustration-mode full_page
 python tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback --trim-size 6x9 --layout-profile long_classic --illustration-mode inline
 python tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback-complete
+
+# KDP-Adapter Phase 1 (liest nur; bind schreibt title_id lokal, nicht nach Amazon)
+py -3 tools/kdp_sync.py status
+py -3 tools/kdp_sync.py login
+py -3 tools/kdp_sync.py pull --book pharao
+py -3 tools/kdp_sync.py diff --book pharao
+py -3 tools/kdp_sync.py bind --book pharao --title-id TITLEID --asin B0XXXXXXXX
 
 # Marketingpaket erzeugen (nichts veroeffentlichen; ohne --provider keine Kosten)
 python tools/export_marketing.py --book anna-karenina --dry-run
@@ -377,6 +387,40 @@ Export-JPGs nachtraeglich (ohne PNG/`*_alt.jpg` zu loeschen):
 optimieren“. Erkannte Moodboards und der Discovery-Workflow sind in
 `docs/higgsfield-integration.md` dokumentiert.
 
+**Zwei Bild-Ebenen (2026-09-27).** Der Drucksatz braucht ~970 px (5.5x8.5)
+bzw. ~1170 px (6x9) Breite fuer 300 dpi, der E-Reader dagegen kleine
+Dateien. Deshalb landen neue Bilder in zwei Ordnern:
+
+```text
+assets/master/chapter/chapter-NNN.jpg   2k, q92  – nur Paperback
+assets/chapter/chapter-NNN.jpg          1024, q60 – EPUB/DOCX/A5
+```
+
+`generate_illustration.py` schreibt beide aus **einem** Download: das
+Druckoriginal zuerst, die Reader-Fassung als saubere Verkleinerung
+davon. Abschaltbar mit `--no-master` oder `higgsfield.keep_master: false`;
+Profil in `higgsfield.image_processing.master` (Default 2048 px / q92).
+Ohne `assets/master/` faellt der Paperback-Export automatisch auf die
+E-Reader-Bilder zurueck – bei 1k-Material bleibt dann die dpi-Warnung
+(kein Fehler, nur ein Hinweis). `optimize_asset_images.py --source master`
+leitet Reader-Fassungen aus vorhandenen Druckoriginalen ab, schreibt aber
+nie nach `assets/master/`. 3k gibt es im Modellkatalog nicht; 2k ist die
+Obergrenze fuer alle fuenf Modelle, 4k nur bei `gpt_image_2` und
+`nano_banana_2`.
+
+**Grosse Medien nicht ins Repo.** Druckoriginale, Audio, Video und
+Marketing-Clips sind regenerierbar; `.git` war bereits ueber 2 GB. Muster
+liegen in `config/gitignore-assets.yaml`, der Schalter pro Buch in
+`book.yaml` (`gitignore.large_assets`, optional `extra_patterns` und
+`disabled_patterns`). `py -3 tools/sync_book_gitignore.py` schreibt den
+Abschnitt in `books/<id>/.gitignore` (nur zwischen den Markern, eigene
+Zeilen bleiben), `--check` prueft ohne zu schreiben, Exit 1 bei Drift.
+Die E-Reader-Fassung in `assets/chapter` bleibt bewusst versioniert.
+Dashboard: Seite **Bilder** → Panel **Grosse Medien aus Git halten**;
+`GET`/`PUT /api/books/{id}/gitignore`. Das Dashboard setzt
+`book.yaml -> gitignore.large_assets` und zieht den Abschnitt sofort
+nach, damit der Schalter ohne CLI-Lauf wirkt.
+
 Standardfolge fuer Leserexporte: Coverbild, Titelseite, Zusammenfassung,
 Leben des Autors, dann Textbeginn mit Teil-/Buchgruppe und Kapiteln.
 
@@ -406,6 +450,22 @@ und Satzprofil (`--layout-profile classic|long_classic`) sind getrennt;
 Kapitelbilder `--illustration-mode full_page|inline`. Default 5,5×8,5 / classic /
 full_page, Cream-Limit 776 (White 828). Ohne Flags bleibt der bisherige Satz.
 Ausgabe unter `exports/<style>/<scope>/print/` mit Varianten-Slug im Dateinamen.
+**Keine Leerseiten im Satz (Pflichtregel, 2026-09-27):** ein Block, der hoeher
+ist als der Satzspiegel, erzeugt in Chromium eine Leerseite plus
+Ueberlaufstreifen. Titelei/Cover duerfen deshalb nie `min-height` auf voller
+Seiten- bzw. Trim-Hoehe setzen, sondern nur auf den Satzspiegel
+(`PrintSpec.fill_height_mm()` bzw. `pdf_preview_type_mm()` in
+`tools/export_manuscript.py`, inkl. 1mm Sicherheitszugabe gegen Pixelrundung).
+Bilder im Vorschaupfad ebenfalls auf Satzspiegelhoehe deckeln. Jeder Export
+misst das Ergebnis: `print_pdf.find_blank_pages()` schreibt `blank_pages` in
+den Print-Report (plus Warnung) und in das Export-Manifest, davor wird
+gemessen, **bevor** Kolumnentitel/Folios gestempelt werden, weil die sonst
+jede Seite als gefuellt erscheinen. Zusaetzlich misst
+`print_pdf.frontmatter_fill_report()` den Fuellgrad der Frontmatter-Seiten
+(`frontmatter_fill` im Report, Warnung unter 40 %) und nennt die Schalter
+`summary_page` / `author_bio_page` / `imprint_page: false`, die je eine
+bezahlte Seite einsparen. Rastermessung ueber `pypdfium2` (optional in
+`requirements.txt`); Dokument und Seiten dabei schliessen.
 `--format paperback-complete` haengt Vorderseite (`assets/covers/cover-print.*`,
 sonst ohne Bild), generierte Rueckseite und Wrap-PDF (Ruecken = Seitenzahl ×
 0,0635 mm, creme/SW) an. Reihenkatalog (andere `website.enabled`-Titel) steht in EPUB und
@@ -441,13 +501,15 @@ Marketingpaket unter `books/<id>/exports/marketing/` (`campaign.json`,
 ## Aktueller Stand
 
 Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**
-(Stand 2026-10-07). Kopiertext neues Fenster:
+(Stand 2026-10-13). Kopiertext neues Fenster:
 [docs/uebergabe-prompt.md](./docs/uebergabe-prompt.md).
-Branch: `cline/pveejb87` (nicht `main`); Tip `e93f4a2` RomanForge-Uebernahme
-Stufe 1. `main` traegt weiter den Print-Workflow 2026-09-21
-(Trim/Profil/Bilder), davor `1beb55d` Chronik KDP-fertig EPUB
-`...-20260921-131112.epub` plus Tausend Seelen `stil-02-poetisch`; davor
-Peter-I-Raffung 2026-09-17.
+Branch: `main`, vier Commits vor `origin/main` (Fast-Forward von
+`cline/pveejb87`, Tip `d893767` Ashkar I / RomanForge Stufe 1c).
+Lokal uncommittet bleibt der Stand 2026-09-27: Leerseiten-Bug im
+PDF-/Paperback-Satz, zwei Bild-Ebenen (`assets/master/` 2k,
+`assets/chapter|scene/` 1024, Git-Schalter pro Buch) und `der-lotse`.
+Davor Print-Workflow 2026-09-21; `1beb55d` Chronik KDP-fertig EPUB
+`...-20260921-131112.epub`.
 
 - Buchpakete sind fuehrend; alte zentrale `config/books.yaml` und
   `config/export.yaml` liegen unter `config/legacy/`.
@@ -513,7 +575,11 @@ Peter-I-Raffung 2026-09-17.
   fertig, Gate 0/13/36, EPUB 20260921-131112 - offen Kindle-Preview, KDP-Upload,
   RomanForge-Entscheidung 012/025 (Stufe 1, `e93f4a2`);
   Pharao-Taschenbuch 2026-09-21 umgesetzt (Punkt 11, auf `main`),
-  offen Print-Leseprobe + KDP-Creme 776 vs. 924/788 (C/D liegen unter 776);
+  2026-09-27 neu exportiert (923/787/672/642, ohne Leerseiten),
+  offen Print-Leseprobe + KDP-Creme 776 vs. 923/787 (A/B liegen darueber);
+  Buchbilder: `assets/master/` (2k) neu eingefuehrt, Bestand bewusst nicht
+  neu erzeugt - `die-dritte-chronik` (47) und `pissemski-tausend-seelen` (45)
+  haben keine Master-Quelle und melden bei Paperback weiter die dpi-Warnung;
   Top-5: Pilot `kuprin-moloch` 001 fertig, Pissemski `stil-02-poetisch`
   (Gate 0/0/5, `1beb55d`); Stilurteil und Rest-Kapitel nur nach Freigabe;
   Regal Amazon-URLs / Deploy; optional Mint-GLBs. Uebersetzungslaeufe

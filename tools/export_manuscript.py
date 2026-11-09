@@ -40,6 +40,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 import yaml
 
+from lib.asset_images import MASTER_DIRNAME
 from lib.book_project import find_book as find_book_project
 from lib.print_pdf import count_pdf_pages, export_paperback_interior, write_print_report
 from lib.print_spec import (
@@ -468,13 +469,57 @@ def find_print_cover(meta: dict[str, Any]) -> Path | None:
     return find_named_image(book_base_dir(meta) / "assets" / "covers", "cover-print")
 
 
-def chapter_illustration(meta: dict[str, Any], chapter_id: str) -> Illustration | None:
+def find_master_image(
+    meta: dict[str, Any],
+    kind: str,
+    chapter_id: str,
+    scene_number: int | None = None,
+) -> Path | None:
+    """Druckoriginal aus ``assets/master/`` (2k, nie vom Optimierer beruehrt)."""
+    master_root = book_base_dir(meta) / "assets" / MASTER_DIRNAME
+    if kind == "chapter":
+        return find_named_image(master_root / "chapter", f"chapter-{chapter_id}")
+    if scene_number is None:
+        return None
+    return find_named_image(
+        master_root / "scene" / chapter_id, f"scene-{scene_number:03d}"
+    )
+
+
+def resolve_illustration(
+    meta: dict[str, Any],
+    kind: str,
+    chapter_id: str,
+    scene_number: int | None = None,
+    *,
+    prefer_master: bool = False,
+) -> Path | None:
+    """Taschenbuchsatz nimmt das Master-Bild, E-Reader die kleine Variante."""
+    if prefer_master:
+        master = find_master_image(meta, kind, chapter_id, scene_number)
+        if master is not None:
+            return master
+    assets = book_base_dir(meta) / "assets"
+    if kind == "chapter":
+        return find_named_image(assets / "chapter", f"chapter-{chapter_id}")
+    if scene_number is None:
+        return None
+    return find_named_image(
+        assets / "scene" / chapter_id, f"scene-{scene_number:03d}"
+    )
+
+
+def chapter_illustration(
+    meta: dict[str, Any],
+    chapter_id: str,
+    *,
+    prefer_master: bool = False,
+) -> Illustration | None:
     cfg = illustrations_config(meta)
     if not illustrations_enabled(meta) or not bool(cfg.get("chapter_images", True)):
         return None
-    path = find_named_image(
-        book_base_dir(meta) / "assets" / "chapter",
-        f"chapter-{chapter_id}",
+    path = resolve_illustration(
+        meta, "chapter", chapter_id, prefer_master=prefer_master
     )
     if path is None:
         return None
@@ -485,13 +530,14 @@ def scene_illustration(
     meta: dict[str, Any],
     chapter_id: str,
     scene_number: int,
+    *,
+    prefer_master: bool = False,
 ) -> Illustration | None:
     cfg = illustrations_config(meta)
     if not illustrations_enabled(meta) or not bool(cfg.get("scene_images", True)):
         return None
-    path = find_named_image(
-        book_base_dir(meta) / "assets" / "scene" / chapter_id,
-        f"scene-{scene_number:03d}",
+    path = resolve_illustration(
+        meta, "scene", chapter_id, scene_number, prefer_master=prefer_master
     )
     if path is None:
         return None
@@ -501,15 +547,24 @@ def scene_illustration(
 def collect_illustrations(
     chapters: list[ChapterExport],
     meta: dict[str, Any],
+    *,
+    prefer_master: bool = False,
 ) -> list[Illustration]:
     if not illustrations_enabled(meta):
         return []
     found: list[Illustration] = []
     for chapter in chapters:
-        if illustration := chapter_illustration(meta, chapter.chapter_id):
+        if illustration := chapter_illustration(
+            meta, chapter.chapter_id, prefer_master=prefer_master
+        ):
             found.append(illustration)
         for scene in chapter.scenes:
-            if illustration := scene_illustration(meta, chapter.chapter_id, scene.number):
+            if illustration := scene_illustration(
+                meta,
+                chapter.chapter_id,
+                scene.number,
+                prefer_master=prefer_master,
+            ):
                 found.append(illustration)
     return found
 
@@ -1386,11 +1441,34 @@ def render_pdf_html(
     return "\n".join(lines) + "\n"
 
 
+# A5-Vorschaupfad (Leseprobe, kein KDP-Satz). Masse in mm; daraus wird die
+# Satzspiegelhoehe abgeleitet. Wichtig: `min-height` auf der vollen
+# Seitenhoehe (210mm) oder ein Coverbild hoeher als der Satzspiegel erzeugen
+# in Chromium je eine Leerseite plus Ueberlaufstreifen (2026-09-27,
+# books/der-lotse: 2 Leerseiten und ein schwarzer Reststreifen auf der
+# Titelei). Deshalb ausschliesslich Satzspiegelmasse verwenden.
+PDF_PREVIEW_PAGE_MM = (148.0, 210.0)
+PDF_PREVIEW_MARGIN_MM = (18.0, 16.0, 20.0, 16.0)  # oben rechts unten links
+PDF_PREVIEW_FILL_SAFETY_MM = 1.0
+
+
+def pdf_preview_type_mm() -> tuple[float, float]:
+    """Satzspiegel (Breite, Hoehe) des A5-Vorschaupfads in mm."""
+    page_w, page_h = PDF_PREVIEW_PAGE_MM
+    top, right, bottom, left = PDF_PREVIEW_MARGIN_MM
+    width = max(1.0, page_w - left - right)
+    height = max(1.0, page_h - top - bottom - PDF_PREVIEW_FILL_SAFETY_MM)
+    return width, height
+
+
 def write_pdf_css(path: Path) -> Path:
+    top, right, bottom, left = PDF_PREVIEW_MARGIN_MM
+    _, type_h = pdf_preview_type_mm()
+    cover_h = max(1.0, type_h - PDF_PREVIEW_FILL_SAFETY_MM)
     css = (
         "@page {\n"
         "  size: A5;\n"
-        "  margin: 18mm 16mm 20mm 16mm;\n"
+        f"  margin: {top:g}mm {right:g}mm {bottom:g}mm {left:g}mm;\n"
         "}\n"
         "\n"
         "* { box-sizing: border-box; }\n"
@@ -1420,7 +1498,7 @@ def write_pdf_css(path: Path) -> Path:
         "\n"
         ".coverpage,\n"
         ".titlepage {\n"
-        "  min-height: 210mm;\n"
+        f"  min-height: {type_h:g}mm;\n"
         "  display: flex;\n"
         "  flex-direction: column;\n"
         "  align-items: center;\n"
@@ -1430,7 +1508,7 @@ def write_pdf_css(path: Path) -> Path:
         "\n"
         ".cover-image img {\n"
         "  max-width: 100%;\n"
-        "  max-height: 175mm;\n"
+        f"  max-height: {cover_h:g}mm;\n"
         "  object-fit: contain;\n"
         "}\n"
         "\n"
@@ -2488,6 +2566,7 @@ def main() -> int:
     pdf_html_path: Path | None = None
     pdf_css_path: Path | None = None
     print_report_path: Path | None = None
+    pdf_blank_pages: list[int] = []
     if args.format == "pdf":
         pdf_path = dirs["pdf"] / f"{base}.pdf"
         pdf_html_path = dirs["work"] / f"{base}.pdf.html"
@@ -2505,9 +2584,29 @@ def main() -> int:
         )
         pdf_html_path.write_text(pdf_html, encoding="utf-8")
         write_pdf(pdf_path, pdf_html_path)
+        from lib.print_pdf import blank_page_warning, find_blank_pages
+
+        pdf_blank_pages = find_blank_pages(pdf_path)
+        if pdf_blank_pages:
+            print(blank_page_warning(pdf_blank_pages))
         outputs.append(pdf_path)
     if args.format in PRINT_FORMATS:
         print_spec = print_spec or load_print_spec(REPO_ROOT, meta, overlay=print_overlay)
+        # Taschenbuchsatz bevorzugt die Druckoriginale aus assets/master/;
+        # ohne Master-Variante bleibt es bei den E-Reader-Bildern.
+        print_illustrations = collect_illustrations(
+            result.chapters, meta, prefer_master=True
+        )
+        master_used = sum(
+            1
+            for item in print_illustrations
+            if MASTER_DIRNAME in Path(item.path).parts
+        )
+        if master_used:
+            print(
+                f"Taschenbuchbilder: {master_used}/{len(print_illustrations)} "
+                f"aus assets/{MASTER_DIRNAME}/"
+            )
         pdf_html_path = dirs["work"] / f"{base}.paperback.html"
         pdf_css_path = dirs["work"] / "book-paperback.css"
         pdf_path = dirs["print"] / f"{base}-paperback-interior.pdf"
@@ -2522,7 +2621,7 @@ def main() -> int:
             cover_path,
             pdf_html_path,
             pdf_css_path,
-            illustrations,
+            print_illustrations,
             include_cover=False,
             catalog_entries=catalog_entries,
             illustration_mode=print_spec.illustration_mode,
@@ -2537,7 +2636,7 @@ def main() -> int:
             report_path=print_report_path,
             author=str(meta.get("author") or book.get("author") or ""),
             title=str(meta.get("title") or book.get("title") or title),
-            illustrations=illustrations,
+            illustrations=print_illustrations,
         )
         outputs.append(pdf_path)
         outputs.append(print_report_path)
@@ -2617,6 +2716,7 @@ def main() -> int:
         "work_pdf_html": rel_label(pdf_html_path) if pdf_html_path else None,
         "work_pdf_css": rel_label(pdf_css_path) if pdf_css_path else None,
         "print_report": rel_label(print_report_path) if print_report_path else None,
+        "blank_pages": pdf_blank_pages,
         "print_trim_size": getattr(print_spec, "trim_size", None),
         "print_layout_profile": getattr(print_spec, "layout_profile", None),
         "print_illustration_mode": getattr(print_spec, "illustration_mode", None),

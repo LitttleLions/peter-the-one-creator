@@ -9,6 +9,7 @@ import type {
   BuildShelfWebsiteRequest,
   BuildWebpageDistRequest,
   ChaptersResponse,
+  GitignoreSettings,
   ExportInfoResponse,
   ExportJobRequest,
   ExtractChaptersRequest,
@@ -92,6 +93,25 @@ export function saveIllustrationSetting(
     {
       method: "PUT",
       body: JSON.stringify({ illustration_setting: illustrationSetting })
+    }
+  );
+}
+
+export function getBookGitignore(bookId: string): Promise<GitignoreSettings> {
+  return requestJson<GitignoreSettings>(
+    `/api/books/${encodeURIComponent(bookId)}/gitignore`
+  );
+}
+
+export function saveBookGitignore(
+  bookId: string,
+  largeAssets: boolean
+): Promise<GitignoreSettings> {
+  return requestJson<GitignoreSettings>(
+    `/api/books/${encodeURIComponent(bookId)}/gitignore`,
+    {
+      method: "PUT",
+      body: JSON.stringify({ large_assets: largeAssets })
     }
   );
 }

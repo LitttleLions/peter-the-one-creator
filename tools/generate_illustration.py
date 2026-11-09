@@ -322,8 +322,29 @@ def _name_match(text: str, name: str) -> bool:
         return False
     if len(value) <= 2:
         return value in text
-    pattern = rf"(?<![\w-]){re.escape(value)}(?![\w-])"
+    if " " in value:
+        pattern = rf"(?<![\w-]){re.escape(value)}(?![\w-])"
+    else:
+        # Genitiv-s tolerieren (Raginberts, Bertos, Aldas), damit erwaehnte
+        # Antagonisten nicht aus der Zaehlung fallen.
+        pattern = rf"(?<![\w-]){re.escape(value)}(?:s)?(?![\w-])"
     return re.search(pattern, text, flags=re.IGNORECASE | re.UNICODE) is not None
+
+
+def _count_name_mentions(text: str, name: str) -> int:
+    value = str(name or "").strip()
+    if not value:
+        return 0
+    if len(value) <= 2:
+        return text.count(value)
+    if " " in value:
+        pattern = rf"(?<![\w-]){re.escape(value)}(?![\w-])"
+    else:
+        pattern = rf"(?<![\w-]){re.escape(value)}(?:s)?(?![\w-])"
+    try:
+        return len(re.findall(pattern, text, flags=re.IGNORECASE | re.UNICODE))
+    except re.error:
+        return 1 if _name_match(text, value) else 0
 
 
 def text_for_character_match(text: str) -> str:
@@ -350,9 +371,8 @@ def character_visual_lines(book: dict[str, Any], source_text: str, limit: int = 
     names_path = REPO_ROOT / str(names_file)
     entries = load_names(names_path)
     match_text = text_for_character_match(source_text)
-    lines: list[str] = []
-    seen: set[str] = set()
-    for entry in entries:
+    scored: list[tuple[int, int, str, str]] = []
+    for order, entry in enumerate(entries):
         if str(entry.get("type") or "person").strip() != "person":
             continue
         visual = re.sub(r"\s+", " ", str(entry.get("visual") or "").strip())
@@ -363,13 +383,66 @@ def character_visual_lines(book: dict[str, Any], source_text: str, limit: int = 
             entry.get("target"),
             *(entry.get("aliases") or []),
         ]
-        if not any(_name_match(match_text, str(candidate)) for candidate in candidates):
+        best = 0
+        for candidate in candidates:
+            text = str(candidate or "").strip()
+            if not text:
+                continue
+            count = _count_name_mentions(match_text, text)
+            if count > best:
+                best = count
+        if best <= 0:
             continue
-        label = str(entry.get("target") or entry.get("source") or "").strip()
-        if not label or label in seen:
+        label = str(
+            entry.get("visual_label")
+            or entry.get("target")
+            or entry.get("source")
+            or ""
+        ).strip()
+        if not label:
+            continue
+        role_key = str(entry.get("source") or "").strip()
+        scored.append((best, order, label, f"{label}: {visual}", role_key))
+    # Haeufigste zuerst, bei Gleichstand stabile Dateireihenfolge.
+    scored.sort(key=lambda item: (-item[0], item[1]))
+    # Sonderfall Berto: Knecht und Sohn heissen im Text beide schlicht
+    # "Berto". Nur einer darf in den Prompt, sonst steht zweimal dieselbe
+    # Person drin und verdraengt Raginbert & Co. Entscheidung ueber
+    # spezifische Belege ("Berto der Knecht" vs. "Sohn Berto") plus
+    # Kind-Kontext (Junge/Knabe/Kind/Mutter/Neun Jahre).
+    berto_items = [s for s in scored if s[4] in ("Berto der Knecht", "Berto der Sohn")]
+    if len(berto_items) > 1:
+        knecht_specific = (
+            _count_name_mentions(match_text, "Berto der Knecht")
+            + _count_name_mentions(match_text, "der alte Knecht")
+            + _count_name_mentions(match_text, "der alte Berto")
+        )
+        sohn_specific = (
+            _count_name_mentions(match_text, "Berto der Sohn")
+            + _count_name_mentions(match_text, "Sohn Berto")
+            + _count_name_mentions(match_text, "Sohn Bertos")
+        )
+        child_context = (
+            _count_name_mentions(match_text, "Junge")
+            + _count_name_mentions(match_text, "Knabe")
+            + _count_name_mentions(match_text, "Kind")
+            + _count_name_mentions(match_text, "Mutter")
+            + _count_name_mentions(match_text, "Neun Jahre")
+        )
+        if sohn_specific > knecht_specific or (
+            sohn_specific == knecht_specific and child_context > 0
+        ):
+            keep_role = "Berto der Sohn"
+        else:
+            keep_role = "Berto der Knecht"
+        scored = [s for s in scored if s[4] not in ("Berto der Knecht", "Berto der Sohn") or s[4] == keep_role]
+    lines: list[str] = []
+    seen: set[str] = set()
+    for _score, _order, label, line, _role in scored:
+        if label in seen:
             continue
         seen.add(label)
-        lines.append(f"{label}: {visual}")
+        lines.append(line)
         if len(lines) >= limit:
             break
     return lines

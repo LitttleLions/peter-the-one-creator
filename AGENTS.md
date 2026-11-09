@@ -555,6 +555,12 @@ Peter-I-Raffung 2026-09-17.
 - **Higgsfield / Bilder:** `config/higgsfield_models.yaml`, Dashboard-Dropdown,
   Asset-Optimierung `optimize_asset_images.py`. Web-UI-Moodboards nur manuell.
   Details: `docs/higgsfield-integration.md`.
+  Bild-Befund 2026-11-10 (`die-sprache-des-anderen` 001-003 neu, aber fast
+  identisch): Prompt vom buchweiten `illustration_setting` dominiert;
+  Figurenauswahl seit 2026-11-10 auf Haeufigkeit + Berto-Trennung
+  (`tools/generate_illustration.py`), allein unzureichend. Naechste Schritte:
+  Setting kuerzen, Figuren/Szene nach vorn, je Kapitel `--dry-run`, erst dann
+  echt (`docs/offene-punkte.md` Punkt 14).
 - **Top-5-Anlage 09/2026** (auf `main`): `books/kuprin-duell/`,
   `books/kuprin-moloch/`, `books/grin-wellenlaeuferin/`,
   `books/pissemski-tausend-seelen/`. Kapitelquellen und Metadaten stehen,

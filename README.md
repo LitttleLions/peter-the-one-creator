@@ -79,6 +79,14 @@ DE-Original): 34/34 Kapitel, Gate ERROR=0/WARNING=0/INFO=0, Buch-EPUB
 (5.361.120 Bytes, ohne Bypass) mit Cover (Titel/Autor im Bild) und
 Kapitelbildern 001-003. Titelei (Rechte, Untertitel, Zusammenfassung,
 Autorenbio, Impressum) ist gefüllt; siehe `docs/HANDOVER.md`.
+Bild-Befund 2026-11-10 (`die-sprache-des-anderen` 001-003 neu, aber fast
+identisch): Der Prompt wird vom buchweiten `illustration_setting`
+(~2.500 Zeichen, immer gleich) dominiert; Figurenblock (~300 Zeichen) und
+Szenenauszug gehen unter. Figurenauswahl ist seit 2026-11-10 auf
+Haeufigkeit + Berto-Trennung umgestellt (`tools/generate_illustration.py`),
+das allein aendert die Bilder kaum. Naechste Schritte siehe
+`docs/offene-punkte.md` Punkt 14 (Setting kuerzen, Figuren/Szene nach vorn,
+je Kapitel `--dry-run` pruefen, erst dann echt erzeugen).
 Der Lotse von Ruegen (`books/der-lotse-von-ruegen/`, Timo Verita,
 DE-Original): 33/33 Kapitel, Gate ERROR=0/WARNING=0/INFO=20, Cover +
 Kapitelbilder 001-010; Regal-Freigabe `website.enabled: true`

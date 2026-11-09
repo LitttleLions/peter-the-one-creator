@@ -279,6 +279,26 @@ in den Prompt ein. Das Feld bleibt bewusst kurz und positiv formuliert.
 `higgsfield.character_id` ist fuer echte Character-/Soul-Referenzen reserviert
 und wird nicht als Moodboard-ID interpretiert.
 
+Auswahl seit 2026-11-10 nach Haeufigkeit im Kapiteltext (nicht mehr nach
+Dateireihenfolge in `names.yaml`), Genitiv-s tolerant (`Raginberts` zaehlt
+fuer `Raginbert`), Doppelnamen ueber `visual_label` getrennt (z. B. Berto
+der Knecht vs. Berto der Sohn – nur einer kommt in den Prompt, entschieden
+ueber spezifische Belege plus Kind-Kontext). Details: Code-Funktion
+`character_visual_lines()` in `tools/generate_illustration.py`.
+
+### Befund 2026-11-10: Bilder fast identisch trotz neuer Auswahl
+
+`die-sprache-des-anderen` 001-003 mit neuer Auswahl neu erzeugt – Bilder
+kaum veraendert. Ursache: ~2.500 Zeichen `illustration_setting` (immer
+gleich) dominieren den Prompt; Figurenblock (~300 Zeichen) + Szenenauszug
+gehen unter. Die Auswahl-Fixes waren notwendig, aber allein unzureichend.
+
+Naechste Schritte (erst dann 004-034 echt erzeugen):
+
+1. `build_prompt()` umbauen: Setting kuerzen, Figuren/Szene nach vorn.
+2. Je Kapitel `--dry-run` + Prompt pruefen, vom Nutzer abnicken lassen.
+3. Erst dann echt erzeugen (`--overwrite`), nicht alle auf einmal.
+
 Die Reihenfolge ist **Setting zuerst, Auszug danach**. Der Grund ist
 praktisch: Die buchweite Bildsprache aus `book.yaml` setzt den visuellen
 Rahmen, bevor der konkrete Szeneninhalt folgt. Die Stil-/Setting-Ergaenzung

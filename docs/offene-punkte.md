@@ -872,6 +872,16 @@ Offen:
   `der-lotse-von-ruegen`, `der-lotse` und `perfect.sight` waren bereits
   vollständig.
 - Weitere Kapitelbilder: Sprache des Anderen 004-034, Lotse 011-033.
+  **Bild-Befund 2026-11-10** (`die-sprache-des-anderen` 001-003 mit neuer
+  Figurenauswahl neu erzeugt, aber fast identisch): ~2.500 Zeichen
+  `illustration_setting` (immer gleich) dominieren den Prompt; Figurenblock
+  (~300 Zeichen) + Szenenauszug gehen unter. Figurenauswahl ist auf
+  Haeufigkeit + Berto-Trennung umgestellt (`character_visual_lines`,
+  `visual_label`, Genitiv-Toleranz; Tests 33/33 gruen) - notwendig, aber
+  allein unzureichend. **Naechste Schritte (erst dann 004-034 echt):**
+  1. `build_prompt()` umbauen: Setting kuerzen, Figuren/Szene nach vorn.
+  2. Je Kapitel `--dry-run` + Prompt pruefen, vom Nutzer abnicken lassen.
+  3. Erst dann echt erzeugen (`--overwrite`), nicht alle auf einmal.
 - ~~Cover-Typografie (Titel/Autor im Bild) fehlt beim
   Sprache-des-Anderen-Cover~~ - Erledigt 2026-10-28 abends: neues Cover
   mit Titel/Autor/Serie im Bild (Punkt 16).

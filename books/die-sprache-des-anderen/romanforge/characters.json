@@ -1,8 +1,8 @@
 {
   "format": "romanforge-characters/1",
   "generated": "Erzeugt von tools/sync_romanforge_characters.py - nicht von Hand bearbeiten.",
-  "handoff_id": "d2cc5a23-2dce-4642-9a6b-4d9917312658",
-  "fetched_at": "2026-11-01T16:52:14Z",
+  "handoff_id": "95397fc7-1e63-4902-935d-7e68e1a96505",
+  "fetched_at": "2026-11-09T20:17:39Z",
   "characters": [
     {
       "uid": "0846c193-bdbf-45c1-97ea-b9b0bbf00360",
@@ -11,7 +11,7 @@
       "description": "Ehemaliger Straßburger Händler und Fuhrmann, der im Sommer 841 im karolingischen Bürgerkrieg bei Fontenoy den Tod fand.",
       "appearance": null,
       "first_appears_chapter": 1,
-      "updated_at": "2026-10-27T15:19:45.870Z"
+      "updated_at": "2026-10-27T16:19:45.870Z"
     },
     {
       "uid": "1e510ae0-927e-4275-a2f1-ba83b7488819",
@@ -20,7 +20,7 @@
       "description": "Folker ist Aldas Verwalter und Gläubiger, der versucht, ihr das Haus über dem Kopf zu zerstören. Er tritt als unbarmherziger Gegenspieler in Erscheinung.",
       "appearance": "Etwa 45 Jahre alt, ungepflegt, mit Bartstoppeln, fleckigen Gewändern und einem aufgeschlagenen Schafsfell. Er hat eine zähneknirschende Miene, fette Finger und riecht nach Zwiebeln und ranzigem Speck.",
       "first_appears_chapter": 1,
-      "updated_at": "2026-11-01T15:46:00.564Z"
+      "updated_at": "2026-11-01T16:46:00.564Z"
     },
     {
       "uid": "30f7481b-c969-4d1f-96c1-8c2ecc1c2873",
@@ -29,7 +29,7 @@
       "description": "Ein regionaler Grundherr am Oberrhein, der die politische Unsicherheit des karolingischen Bruderkriegs rücksichtslos zu seinem Vorteil nutzt.",
       "appearance": "Etwa 50 Jahre alt, hochgewachsen, wettergegerbtes Gesicht mit Narben, sorgfältig gestutzter grauer Bart; trägt Kettenhemd und pelzgefütterten Reitermantel; Wappen ist ein schwarzer Eberkopf auf fahlem Grund.",
       "first_appears_chapter": 1,
-      "updated_at": "2026-10-27T15:19:45.870Z"
+      "updated_at": "2026-10-27T16:19:45.870Z"
     },
     {
       "uid": "317d35b8-4984-4b85-a254-de99ef8e0529",
@@ -38,7 +38,7 @@
       "description": "Ein langjähriger, treuer Gehilfe von Aldas Familie, der Fuhrwerke und Zugtiere betreut.",
       "appearance": null,
       "first_appears_chapter": 1,
-      "updated_at": "2026-10-27T15:19:45.870Z"
+      "updated_at": "2026-10-27T16:19:45.870Z"
     },
     {
       "uid": "4307a816-062d-4821-88be-f9e5729fa1fe",
@@ -47,7 +47,7 @@
       "description": "Neunjähriger Sohn von Alda und dem gefallenen Berengar.",
       "appearance": "Neunjähriger Junge.",
       "first_appears_chapter": 1,
-      "updated_at": "2026-10-27T15:19:45.870Z"
+      "updated_at": "2026-10-27T16:19:45.870Z"
     },
     {
       "uid": "6804c1cd-bfb1-48ed-bae1-3f8defb36f84",
@@ -56,7 +56,7 @@
       "description": "Aldas Bruder, der in den Heeren des Bruderkriegs diente und nach einer schweren Verfehlung untertauchen musste.",
       "appearance": "Etwa 25 Jahre alt, gezeichnet von Entbehrungen und Flucht.",
       "first_appears_chapter": 13,
-      "updated_at": "2026-10-27T15:19:45.870Z"
+      "updated_at": "2026-10-27T16:19:45.870Z"
     },
     {
       "uid": "79c3f990-211c-4c27-b8c2-c84bc550cecc",
@@ -65,7 +65,7 @@
       "description": "Tochter einer Kaufmannsfamilie aus dem Straßburger Raum, die nach dem Tod ihres Mannes Berengar den familiären Fuhrbetrieb weiterführt.",
       "appearance": "Etwa 32 Jahre alt, zweckmäßige Reisekleidung aus Wolle.",
       "first_appears_chapter": 1,
-      "updated_at": "2026-10-27T15:19:45.870Z"
+      "updated_at": "2026-10-27T16:19:45.870Z"
     },
     {
       "uid": "9cf3df46-ff62-4d47-b4b5-6060dee341d8",
@@ -74,7 +74,7 @@
       "description": "Die resolute Ehefrau des Straßburger Markt- und Zollvogts, die im Hintergrund die eigentlichen Abgaben- und Steuerlisten der Stadt führt und Kaufleute in Rechts- und Finanzfragen vor dem Grafengericht berät.",
       "appearance": "Über 50 Jahre alt, gepflegtes blondes Haar unter einer feinen Leinenhaube, wache Augen, trägt einen Schlüsselbund und ein Zählbrett am Gürtel.",
       "first_appears_chapter": 3,
-      "updated_at": "2026-10-27T16:04:03.467Z"
+      "updated_at": "2026-10-27T17:04:03.467Z"
     },
     {
       "uid": "d29f717a-1565-4188-9b25-b97905180f1e",
@@ -83,7 +83,7 @@
       "description": "Ein ausgebildeter Schreiber, der Latein und die Formelsprache politischer Dokumente meistert und für Alda unentbehrlich wird.",
       "appearance": "Etwa 29 Jahre alt, schmale Statur, tintenverschmierte Finger, trägt die abgetragene dunkle Tunika eines Klerikers, hat eine vernarbte linke Hand und führt einen hölzernen Schreibkasten am Gürtel.",
       "first_appears_chapter": 1,
-      "updated_at": "2026-10-27T15:19:45.870Z"
+      "updated_at": "2026-10-27T16:19:45.870Z"
     },
     {
       "uid": "f881e7c9-4b9e-41f3-9ee1-8e7a78c40e0e",
@@ -92,7 +92,7 @@
       "description": "Giseler ist ein Straßburger Gläubiger, der als Nebenfigur in Erscheinung tritt. Er tritt erstmals in Kapitel 6 auf und ist in insgesamt 8 Kapiteln präsent.",
       "appearance": "Etwa 40 Jahre alt, Bürger, schiefes Grinsen, weiche helle Narbe auf der Wange, Lederkappe, grober Mantel, abweisende Haltung.",
       "first_appears_chapter": 1,
-      "updated_at": "2026-11-01T15:46:00.564Z"
+      "updated_at": "2026-11-01T16:46:00.564Z"
     }
   ]
 }

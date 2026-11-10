@@ -1,0 +1,21 @@
+﻿{
+  "created_at": "2026-11-10T13:07:40.022841Z",
+  "display_name": "GPT Image 2.5",
+  "id": "d4b1ec75-bf22-4430-abcb-cdd6f58675dc",
+  "job_type": "gpt_image_2_5",
+  "min_result_url": null,
+  "params": {
+    "aspect_ratio": "1:1",
+    "height": 1024,
+    "medias": [],
+    "model": "flare",
+    "prompt": "Vertical German historical novel cover, 2:3, full-bleed artwork, no border frame.",
+    "quality": "low",
+    "reference_elements": [],
+    "remove_bg": false,
+    "resolution": "1k",
+    "width": 1024
+  },
+  "result_url": null,
+  "status": "in_progress"
+}

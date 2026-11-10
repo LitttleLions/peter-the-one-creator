@@ -8,11 +8,12 @@ entries:
   status: draft
   note: Witwe und Inhaberin eines Fuhrbetriebs mit fünf Kähnen auf der Ill in Straßburg;
     handelt mit Fürsten, Grafen und Heerbann.
-  visual: 40-jährige Frau, kräftig und wetterhart, dunkles Haar unter grober Wollkappe,
-    gefettete Rindslederstiefel, fleckiger Wollmantel mit Schafsfellfutter, aufmerksamer
-    und zäher Blick, kräftige Hände
+  visual: Etwa 32 Jahre alt, sehnige, kräftige Statur,  Dunkelblondes, meist straff
+    zurückgebundenes Haar, markante Wangenknochen, wache graubraune Augen mit frühem
+    Ernst in den Mundwinkeln. Ihre Hände sind schmal, aber von harter Arbeit an Tauen,
+    Holz und Zügeln kräftig und an den Handflächen leicht verschwielt.
   rf_uid: 79c3f990-211c-4c27-b8c2-c84bc550cecc
-  rf_appearance_sha: 12d4e672f2503a8751fbe5301ba6329633745f48006114aeac527bb0c79479bb
+  rf_appearance_sha: cdf535336667c80762e0e9015f81e2157b6c1429c36c8e5a26943fc960be38bc
 - source: Berto der Knecht
   target: Berto
   visual_label: Berto der Knecht
@@ -22,10 +23,11 @@ entries:
   type: person
   status: draft
   note: Alter Knecht und Fuhrmann auf Aldas Kähnen, hinkt seit einem Eiswinter.
-  visual: 60-jähriger Knecht, gebückt und hinkend, strubbeliges Grauhaar, zerschlissene
-    Kappe, grobe Holzschuhe mit Stroh, wettergegerbtes Gesicht
+  visual: Mann, 55 Jahre, gedrungene, krummrückige Gestalt, breiter Nacken. Tief zerfurchtes,
+    wettergegerbtes Gesicht, schütteres graues Haar, verfilzter Vollbart, grobe Hände.
+    Einfacher brauner Arbeitskittel, grobe Lederweste.
   rf_uid: 317d35b8-4984-4b85-a254-de99ef8e0529
-  rf_appearance_sha: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  rf_appearance_sha: 8e5f2b380b38ec853069b0b617da40997e4e91ca4ce4b7723c87839000c079ef
 - source: Raginbert
   target: Raginbert
   aliases:
@@ -35,11 +37,11 @@ entries:
   status: draft
   note: Der Grundherr, der im Namen des westfränkischen Königs die Versorgung des
     linken Rheinufeers sichert; verhaengt ein Haus ueber Aldas Kopf.
-  visual: 50-jähriger geistlicher Grundherr, glatt rasiert, volle von Kaelte geroetete
-    Wangen, wässrig graue Augen, schwerer blauer Mantel mit Fuchspelzfutter, Silberbeschlaege
-    an der Zaumzeug, kalter Blick
+  visual: Mann, 50 Jahre, hochgewachsen, breitschultrig. Wettergegerbtes, glattrasiertes
+    Gesicht, kalte graue Augen, volles stahlgraues Haar. Edler frühmittelalterlicher
+    Pelzmantel über feinem blauen Wollgewand, Kettenhemd-Ansatz, Schwert am Gürtel.
   rf_uid: 30f7481b-c969-4d1f-96c1-8c2ecc1c2873
-  rf_appearance_sha: e1c6608b417e4ac663bf6cb2cd14564eb91474cb5f08cceb981af82752ac91a0
+  rf_appearance_sha: b7ccd9c685fd45b1724b5c6fc19e355dbed3997aab2764b57a2bfe592574e5ed
 - source: Isenbart
   target: Isenbart
   aliases:
@@ -57,10 +59,11 @@ entries:
   status: draft
   note: Aldas Verwalter und Gläubiger, der das Haus ueber dem Kopf zerstoeren will;
     riecht nach Zwiebeln und ranzigem Speck.
-  visual: 45-jähriger Verwalter, ungepflegt, Bartstoppeln, fleckige Gewandstuecke,
-    aufgeschlagenes Schafsfell, zaehneknirschende Miene, fette Finger
+  visual: Mann, 45 Jahre, untersetzt, fleischige Statur, schwerer Nacken. Glattes,
+    gerötetes Gesicht, schmale Lippen, kurz gestutzter dunkler Bart, kalte Augen.
+    Feiner dunkelblauer Tuchmantel mit Marderfellkragen und Fellmütze.
   rf_uid: 1e510ae0-927e-4275-a2f1-ba83b7488819
-  rf_appearance_sha: e15fcd354804cfa877f9d3ddd3624158f57f348c7d7a8e8fc065d3fc58932682
+  rf_appearance_sha: e86603e474b95d1cd85d5586437abdb2c011170566c9ba9fdf2307ea131afa03
 - source: Otwin
   target: Otwin
   aliases: []
@@ -68,21 +71,23 @@ entries:
   status: draft
   note: Kranker junger Schreiber im Dienst Raginberts, von Schuld und Krankheit gezeichnet,
     verkauft sein Wissen ueber ein Geleit nach Lothringen.
-  visual: 25-jähriger blasser Schreiber, eingefallene Wangen, fiebrige unstete Augen,
-    fransige Kapuze, klamme Finger um Feder und Pergament, schwere Schultern unter
-    dem Reiterrock
+  visual: Mann, 29 Jahre, schmale, leicht gebeugte Statur. Blasses, schmales Gesicht,
+    dunkle unruhige Augen, herauswachsende Mönchstonsur im dunkelbraunen Haar. Tintenflecken
+    an den Fingern, blasse Brandnarbe auf dem linken Handrücken. Abgetragene dunkle
+    Klerikerkutte, hölzernes Schreibfutteral am Gürtel.
   rf_uid: d29f717a-1565-4188-9b25-b97905180f1e
-  rf_appearance_sha: da676a5168779c9fa28cba14cb5627ffc5550525dfc7968096fe0723caa25c2a
+  rf_appearance_sha: 3abc9519023eba2980b8fa87f82b045a7f3aeb4989328f08bf8cc1139569ff0d
 - source: Giseler
   target: Giseler
   aliases: []
   type: person
   status: draft
   note: Straßburger Gläubiger mit Narbe im Gesicht.
-  visual: 40-jähriger Bürger, schiefes Grinsen, weiche helle Narbe auf der Wange,
-    Lederkappe, grober Mantel, abweisende Haltung
+  visual: Mann, 45 Jahre, hager und sehnig. Scharfe Hakennase, zusammengekniffene
+    Augen, dünnes rötlich-graues Haar, knochige Finger. Schlichte Kaufmannskleidung
+    aus gediegenem Wollstoff, Lederbeutel am Gürtel
   rf_uid: f881e7c9-4b9e-41f3-9ee1-8e7a78c40e0e
-  rf_appearance_sha: a3aaeddcfc9d34f0e35256329bc329526df051c64afc10f769e0099a0909994b
+  rf_appearance_sha: 36341f158167d4d0ce4174eaef13309de978f92f4d1855d3a57a6797c0692214
 - source: Strassburg
   target: Strassburg
   aliases:
@@ -121,10 +126,13 @@ entries:
   type: person
   status: draft
   rf_uid: 0846c193-bdbf-45c1-97ea-b9b0bbf00360
-  rf_appearance_sha: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  rf_appearance_sha: 7f3851db835f1cf0be27757b6365e79cef4920026e9063401d23514e49228f39
   note: 'RomanForge-Rolle: Aldas gefallener Mann, dessen geheime Abmachung die Handlung
     auslöst'
-- source: Berto der Sohn
+  visual: Mann, 38 Jahre, kräftig und breitschultrig. Sonnengebräuntes Gesicht, dichter
+    dunkler Vollbart, ruhige dunkle Augen, vernarbte Fuhrmannshände. Derber Fuhrmannsmantel
+    aus Loden.
+- source: Berto
   target: Berto
   visual_label: Berto der Sohn
   aliases:
@@ -133,27 +141,31 @@ entries:
   type: person
   status: draft
   rf_uid: 4307a816-062d-4821-88be-f9e5729fa1fe
-  rf_appearance_sha: f43ad1714e902a30b57c2108fbda44b685541a38e6d3d5bb437cd55f87ddfd7b
+  rf_appearance_sha: 2efb36e256a389749b08fb48751001dc6938d3251bb7723d04199d55d02a067e
   note: 'RomanForge-Rolle: Aldas Sohn, dessen Zukunft und Freiheit auf dem Spiel stehen'
-  visual: Neunjähriger Junge.
+  visual: Junge, 9 Jahre, schmal und hochaufgeschossen. Widerspenstiger brauner Haarschopf,
+    große dunkle Augen, kantiges Kinn. Schlichter, ungebleichter Wollkittel.
 - source: Gerwin
   target: Gerwin
   aliases: []
   type: person
   status: draft
   rf_uid: 6804c1cd-bfb1-48ed-bae1-3f8defb36f84
-  rf_appearance_sha: 071fdb71a13b9d86f7c54dd64c9bf777f33277652a82a0055d20046008ee9ff9
+  rf_appearance_sha: 9fca46a5b1c733b94cb489ec5e414b402d9e7d9648dba0aca84be3185763606f
   note: 'RomanForge-Rolle: Aldas jüngerer Bruder, dessen frühere Schuld die Familie
     ins Verderben stürzte'
-  visual: Etwa 25 Jahre alt, gezeichnet von Entbehrungen und Flucht.
+  visual: Mann, 25 Jahre, mittelgroß, abgemagert und hohlwangig. Dunkelblondes, zerzaustes
+    Haar, ungepflegter Bart, flache Narbe über der Augenbraue, gehetzter Blick. Verschlissene,
+    schmutzige Knechtskleidung aus grober Wolle und Leder.
 - source: Ines
   target: Ines
   aliases: []
   type: person
   status: draft
   rf_uid: 9cf3df46-ff62-4d47-b4b5-6060dee341d8
-  rf_appearance_sha: f55179eca3a9b0359e52ec3f81509e14f28e858fdd0d7114ea2937e48f7e90bb
+  rf_appearance_sha: de9dd492f32bef0de84a4ab9ca16815ec2015a70b7ca002c6a27395ec11fa1e8
   note: 'RomanForge-Rolle: Scharfsinnige Straßburger Abgabenkundige und Rechtsberaterin
     der Kaufleute'
-  visual: Über 50 Jahre alt, gepflegtes blondes Haar unter einer feinen Leinenhaube,
-    wache Augen, trägt einen Schlüsselbund und ein Zählbrett am Gürtel.
+  visual: Frau, 52 Jahre, mittelgroß, kerzengerade Haltung. Helles, flachsblondes
+    Haar unter schlichtem Leinentuch, hohe Stirn, wache wasserblaue Augen. Gepflegtes
+    dunkelblaues Wollkleid, Lederschürze, Kerbhölzer am Gürtel.

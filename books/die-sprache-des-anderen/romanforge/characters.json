@@ -1,98 +1,98 @@
 {
   "format": "romanforge-characters/1",
   "generated": "Erzeugt von tools/sync_romanforge_characters.py - nicht von Hand bearbeiten.",
-  "handoff_id": "95397fc7-1e63-4902-935d-7e68e1a96505",
-  "fetched_at": "2026-11-09T20:17:39Z",
+  "handoff_id": "feebc32e-ea86-420e-97c4-acbda08dc6b9",
+  "fetched_at": "2026-11-10T11:25:52Z",
   "characters": [
     {
       "uid": "0846c193-bdbf-45c1-97ea-b9b0bbf00360",
       "name": "Berengar",
       "role": "Aldas gefallener Mann, dessen geheime Abmachung die Handlung auslöst",
       "description": "Ehemaliger Straßburger Händler und Fuhrmann, der im Sommer 841 im karolingischen Bürgerkrieg bei Fontenoy den Tod fand.",
-      "appearance": null,
+      "appearance": "Mann, 38 Jahre, kräftig und breitschultrig. Sonnengebräuntes Gesicht, dichter dunkler Vollbart, ruhige dunkle Augen, vernarbte Fuhrmannshände. Derber Fuhrmannsmantel aus Loden.",
       "first_appears_chapter": 1,
-      "updated_at": "2026-10-27T16:19:45.870Z"
+      "updated_at": "2026-11-10T11:04:53.034Z"
     },
     {
       "uid": "1e510ae0-927e-4275-a2f1-ba83b7488819",
       "name": "Folker",
       "role": "Gegenspieler, Gläubiger, Verwalter",
       "description": "Folker ist Aldas Verwalter und Gläubiger, der versucht, ihr das Haus über dem Kopf zu zerstören. Er tritt als unbarmherziger Gegenspieler in Erscheinung.",
-      "appearance": "Etwa 45 Jahre alt, ungepflegt, mit Bartstoppeln, fleckigen Gewändern und einem aufgeschlagenen Schafsfell. Er hat eine zähneknirschende Miene, fette Finger und riecht nach Zwiebeln und ranzigem Speck.",
+      "appearance": "Mann, 45 Jahre, untersetzt, fleischige Statur, schwerer Nacken. Glattes, gerötetes Gesicht, schmale Lippen, kurz gestutzter dunkler Bart, kalte Augen. Feiner dunkelblauer Tuchmantel mit Marderfellkragen und Fellmütze.",
       "first_appears_chapter": 1,
-      "updated_at": "2026-11-01T16:46:00.564Z"
+      "updated_at": "2026-11-10T11:05:08.137Z"
     },
     {
       "uid": "30f7481b-c969-4d1f-96c1-8c2ecc1c2873",
       "name": "Raginbert",
       "role": "Mächtiger Grundherr und Gläubiger, der Aldas Besitz an sich reißen will",
       "description": "Ein regionaler Grundherr am Oberrhein, der die politische Unsicherheit des karolingischen Bruderkriegs rücksichtslos zu seinem Vorteil nutzt.",
-      "appearance": "Etwa 50 Jahre alt, hochgewachsen, wettergegerbtes Gesicht mit Narben, sorgfältig gestutzter grauer Bart; trägt Kettenhemd und pelzgefütterten Reitermantel; Wappen ist ein schwarzer Eberkopf auf fahlem Grund.",
+      "appearance": "Mann, 50 Jahre, hochgewachsen, breitschultrig. Wettergegerbtes, glattrasiertes Gesicht, kalte graue Augen, volles stahlgraues Haar. Edler frühmittelalterlicher Pelzmantel über feinem blauen Wollgewand, Kettenhemd-Ansatz, Schwert am Gürtel.",
       "first_appears_chapter": 1,
-      "updated_at": "2026-10-27T16:19:45.870Z"
+      "updated_at": "2026-11-10T11:02:43.517Z"
     },
     {
       "uid": "317d35b8-4984-4b85-a254-de99ef8e0529",
       "name": "Berto der Knecht",
       "role": "Älterer, loyaler Knecht in Aldas Straßburger Fuhrbetrieb",
       "description": "Ein langjähriger, treuer Gehilfe von Aldas Familie, der Fuhrwerke und Zugtiere betreut.",
-      "appearance": null,
+      "appearance": "Mann, 55 Jahre, gedrungene, krummrückige Gestalt, breiter Nacken. Tief zerfurchtes, wettergegerbtes Gesicht, schütteres graues Haar, verfilzter Vollbart, grobe Hände. Einfacher brauner Arbeitskittel, grobe Lederweste.",
       "first_appears_chapter": 1,
-      "updated_at": "2026-10-27T16:19:45.870Z"
+      "updated_at": "2026-11-10T11:04:29.018Z"
     },
     {
       "uid": "4307a816-062d-4821-88be-f9e5729fa1fe",
       "name": "Berto",
       "role": "Aldas Sohn, dessen Zukunft und Freiheit auf dem Spiel stehen",
       "description": "Neunjähriger Sohn von Alda und dem gefallenen Berengar.",
-      "appearance": "Neunjähriger Junge.",
+      "appearance": "Junge, 9 Jahre, schmal und hochaufgeschossen. Widerspenstiger brauner Haarschopf, große dunkle Augen, kantiges Kinn. Schlichter, ungebleichter Wollkittel.",
       "first_appears_chapter": 1,
-      "updated_at": "2026-10-27T16:19:45.870Z"
+      "updated_at": "2026-11-10T11:03:39.162Z"
     },
     {
       "uid": "6804c1cd-bfb1-48ed-bae1-3f8defb36f84",
       "name": "Gerwin",
       "role": "Aldas jüngerer Bruder, dessen frühere Schuld die Familie ins Verderben stürzte",
       "description": "Aldas Bruder, der in den Heeren des Bruderkriegs diente und nach einer schweren Verfehlung untertauchen musste.",
-      "appearance": "Etwa 25 Jahre alt, gezeichnet von Entbehrungen und Flucht.",
+      "appearance": "ann, 25 Jahre, mittelgroß, abgemagert und hohlwangig. Dunkelblondes, zerzaustes Haar, ungepflegter Bart, flache Narbe über der Augenbraue, gehetzter Blick. Verschlissene, schmutzige Knechtskleidung aus grober Wolle und Leder.",
       "first_appears_chapter": 13,
-      "updated_at": "2026-10-27T16:19:45.870Z"
+      "updated_at": "2026-11-10T11:03:20.024Z"
     },
     {
       "uid": "79c3f990-211c-4c27-b8c2-c84bc550cecc",
       "name": "Alda",
       "role": "Verwitwete Straßburger Händlerin, die um das Erbe und die Freiheit ihrer Familie kämpft",
       "description": "Tochter einer Kaufmannsfamilie aus dem Straßburger Raum, die nach dem Tod ihres Mannes Berengar den familiären Fuhrbetrieb weiterführt.",
-      "appearance": "Etwa 32 Jahre alt, zweckmäßige Reisekleidung aus Wolle.",
+      "appearance": "Etwa 32 Jahre alt, sehnige, kräftige Statur,  Dunkelblondes, meist straff zurückgebundenes Haar, markante Wangenknochen, wache graubraune Augen mit frühem Ernst in den Mundwinkeln. Ihre Hände sind schmal, aber von harter Arbeit an Tauen, Holz und Zügeln kräftig und an den Handflächen leicht verschwielt.",
       "first_appears_chapter": 1,
-      "updated_at": "2026-10-27T16:19:45.870Z"
+      "updated_at": "2026-11-10T11:00:23.316Z"
     },
     {
       "uid": "9cf3df46-ff62-4d47-b4b5-6060dee341d8",
       "name": "Ines",
       "role": "Scharfsinnige Straßburger Abgabenkundige und Rechtsberaterin der Kaufleute",
       "description": "Die resolute Ehefrau des Straßburger Markt- und Zollvogts, die im Hintergrund die eigentlichen Abgaben- und Steuerlisten der Stadt führt und Kaufleute in Rechts- und Finanzfragen vor dem Grafengericht berät.",
-      "appearance": "Über 50 Jahre alt, gepflegtes blondes Haar unter einer feinen Leinenhaube, wache Augen, trägt einen Schlüsselbund und ein Zählbrett am Gürtel.",
+      "appearance": "Frau, 52 Jahre, mittelgroß, kerzengerade Haltung. Helles, flachsblondes Haar unter schlichtem Leinentuch, hohe Stirn, wache wasserblaue Augen. Gepflegtes dunkelblaues Wollkleid, Lederschürze, Kerbhölzer am Gürtel.",
       "first_appears_chapter": 3,
-      "updated_at": "2026-10-27T17:04:03.467Z"
+      "updated_at": "2026-11-10T11:04:40.397Z"
     },
     {
       "uid": "d29f717a-1565-4188-9b25-b97905180f1e",
       "name": "Otwin",
       "role": "Schriftkundiger Schreiber und entlaufener Kleriker im Zwiespalt zwischen Wahrheit und Selbsterhalt",
       "description": "Ein ausgebildeter Schreiber, der Latein und die Formelsprache politischer Dokumente meistert und für Alda unentbehrlich wird.",
-      "appearance": "Etwa 29 Jahre alt, schmale Statur, tintenverschmierte Finger, trägt die abgetragene dunkle Tunika eines Klerikers, hat eine vernarbte linke Hand und führt einen hölzernen Schreibkasten am Gürtel.",
+      "appearance": "Mann, 29 Jahre, schmale, leicht gebeugte Statur. Blasses, schmales Gesicht, dunkle unruhige Augen, herauswachsende Mönchstonsur im dunkelbraunen Haar. Tintenflecken an den Fingern, blasse Brandnarbe auf dem linken Handrücken. Abgetragene dunkle Klerikerkutte, hölzernes Schreibfutteral am Gürtel.",
       "first_appears_chapter": 1,
-      "updated_at": "2026-10-27T16:19:45.870Z"
+      "updated_at": "2026-11-10T11:03:03.811Z"
     },
     {
       "uid": "f881e7c9-4b9e-41f3-9ee1-8e7a78c40e0e",
       "name": "Giseler",
       "role": "Gläubiger, Nebenfigur",
       "description": "Giseler ist ein Straßburger Gläubiger, der als Nebenfigur in Erscheinung tritt. Er tritt erstmals in Kapitel 6 auf und ist in insgesamt 8 Kapiteln präsent.",
-      "appearance": "Etwa 40 Jahre alt, Bürger, schiefes Grinsen, weiche helle Narbe auf der Wange, Lederkappe, grober Mantel, abweisende Haltung.",
+      "appearance": "Mann, 45 Jahre, hager und sehnig. Scharfe Hakennase, zusammengekniffene Augen, dünnes rötlich-graues Haar, knochige Finger. Schlichte Kaufmannskleidung aus gediegenem Wollstoff, Lederbeutel am Gürtel",
       "first_appears_chapter": 1,
-      "updated_at": "2026-11-01T16:46:00.564Z"
+      "updated_at": "2026-11-10T11:05:20.915Z"
     }
   ]
 }

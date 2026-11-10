@@ -2220,6 +2220,63 @@ def remove_auto_title_heading_from_epub(
     tmp.replace(path)
 
 
+def add_epub_series_metadata(path: Path, meta: dict[str, Any]) -> None:
+    """Schreibt die Reihenzugehoerigkeit ins EPUB-OPF (EPUB 3 collections).
+
+    Quelle ist `book.series` und `book.series_volume` in `export.yaml`. Sie
+    landen als `belongs-to-collection` + `collection-type` + `group-position`
+    im OPF, damit Haendler die Baende einer Reihe zuordnen koennen. Im Buch
+    selbst wird keine Bandnummer gedruckt - die steht im Covermotiv und wird
+    dort gepflegt. Ohne `series` bleibt das EPUB unveraendert.
+    """
+    series = str(meta.get("series") or "").strip()
+    if not series:
+        return
+    volume = meta.get("series_volume")
+    additions = [
+        '<meta property="belongs-to-collection" id="series-1">'
+        f"{html.escape(series)}</meta>",
+        '<meta refines="#series-1" property="collection-type">series</meta>',
+    ]
+    if volume not in (None, ""):
+        additions.append(
+            '<meta refines="#series-1" property="group-position">'
+            f"{html.escape(str(volume))}</meta>"
+        )
+    block = "".join(additions).encode("utf-8")
+
+    with zipfile.ZipFile(path, "r") as zf:
+        entries = [(info, zf.read(info.filename)) for info in zf.infolist()]
+
+    changed = False
+    new_entries: list[tuple[zipfile.ZipInfo, bytes]] = []
+    for info, data in entries:
+        if (
+            info.filename.endswith(".opf")
+            and b"belongs-to-collection" not in data
+            and b"</metadata>" in data
+        ):
+            data = data.replace(b"</metadata>", block + b"</metadata>", 1)
+            changed = True
+        new_entries.append((info, data))
+
+    if not changed:
+        return
+
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    with zipfile.ZipFile(tmp, "w") as zf:
+        for info, data in new_entries:
+            compression = zipfile.ZIP_STORED if info.filename == "mimetype" else zipfile.ZIP_DEFLATED
+            new_info = zipfile.ZipInfo(info.filename, info.date_time)
+            new_info.comment = info.comment
+            new_info.extra = info.extra
+            new_info.internal_attr = info.internal_attr
+            new_info.external_attr = info.external_attr
+            new_info.create_system = info.create_system
+            zf.writestr(new_info, data, compress_type=compression)
+    tmp.replace(path)
+
+
 def rel_label(path: Path) -> str:
     try:
         return str(path.relative_to(REPO_ROOT))
@@ -2485,6 +2542,7 @@ def main() -> int:
             document_title(meta, args.scope, result.chapters[0] if result.chapters else None),
             str(front_matter_config(meta).get("title_heading") or "Titelseite"),
         )
+        add_epub_series_metadata(epub_path, meta)
         errors, warnings = check_epub(epub_path)
         if warnings:
             print(f"EPUB-Warnungen (Pandoc-Artefakte):")
@@ -2633,6 +2691,8 @@ def main() -> int:
         "print_paper": getattr(print_spec, "paper", None),
         "cover": rel_label(cover_path),
         "print_cover": rel_label(print_cover_asset) if print_cover_asset else None,
+        "series": meta.get("series") or None,
+        "series_volume": meta.get("series_volume"),
         "illustrations": [
             {
                 "kind": item.kind,

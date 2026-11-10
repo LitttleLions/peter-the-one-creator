@@ -7,7 +7,38 @@
 > **Diese Datei erst lesen, wenn die konkrete Aufgabe sie braucht.**
 > Einstiegskosten und Hebel (gemessen): [kontextanalyse.md](./kontextanalyse.md).
 
-## Letzte Session (2026-11-10 abends, 4k-Druckcover + Wrap-Fehler behoben)
+## Letzte Session (2026-11-10 spaeter, Autorenvita + Reihenmetadaten)
+
+Branch **`main`**, gepusht. Zwei Nacharbeiten zum Cover-Stand:
+
+- **Autorenvita ersetzt** (`export.yaml: book.author_bio`, 2 Absaetze,
+  112 Woerter, Nutzertext): neuer Satz mit Herkunft (Buchstabenspiel),
+  Lehrjahren (Handschriftensammlungen/Rechenzentren), Motivatier Classics,
+  Arbeitsteilung Mensch/Maschine und dem Reihen-Leitsatz "politische Grenzen
+  wandern schneller als die Verbindungen der Menschen" (842, Strassburg
+  bis Verdun). Seite "Leben des Autors" im Druck-PDF (S. 4) geprueft.
+- **Reihenmetadaten sind jetzt Code, nicht nur YAML.** Neu:
+  `add_epub_series_metadata()` in `tools/export_manuscript.py` schreibt
+  `belongs-to-collection`, `collection-type: series` und `group-position` aus
+  `book.series` + `book.series_volume` ins OPF (idempotent, XML-escaped,
+  ohne `series` ein No-op); das Export-Manifest traegt `series` und
+  `series_volume`. Zwei neue Tests in `tests/test_export_manuscript.py`,
+  volle Suite **400 Tests OK**. Dokumentiert in `README.md` (Export) und
+  `AGENTS.md` (Export).
+- **Fallstrick notiert**: `>-` in YAML faltet den Absatzabstand zu einem
+  einzelnen `\n`; mehrAbsatzige Felder (`summary`, `author_bio`,
+  `description`) brauchen einen literalen Block (`|`), sonst sieht der Export
+  nur einen Absatz. Die Bio stand zuerst als `>-` im YAML und wurde deshalb
+  umgestellt.
+- **Neue Exporte** (Bio + Reihenmetadaten): EPUB `...-20261110-155537.epub`,
+  Print-Satz `155553` (Innenleben 330, Komplett 332, Wrap 306,6 x 222,2 mm -
+  Seitenzahl unveraendert, Ruecken bleibt 20,96 mm), A5-PDF `...-155607.pdf`.
+  Die vorherigen Staende `141553`, `143217`, `143234` sind ueberholt.
+- **Offen**: KDP-Upload (Manuskript `155553` + Wrap), Kindle-Preview,
+  Cover-Text "Band 1" -> "Band 2" beim naechsten Coverlauf,
+  Tippfehler `ann, 25 Jahre` bei Gerwin in RomanForge.
+
+## Vorige Session (2026-11-10 abends, 4k-Druckcover + Wrap-Fehler behoben)
 
 Branch **`main`**. Schwerpunkt Cover: das Druckcover war ein 2k-Motiv (real
 ~241 dpi) mit per Skript gesetzter Typografie, ohne Zierlinie, Tagline und

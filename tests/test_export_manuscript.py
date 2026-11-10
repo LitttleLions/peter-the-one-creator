@@ -509,6 +509,50 @@ class ExportManuscriptTests(unittest.TestCase):
         self.assertNotIn(f">{title}</a>", nav)
         self.assertNotIn(f"<h1>{title}</h1>", body)
 
+    def test_epub_series_metadata_is_written_and_idempotent(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "book.epub"
+            with zipfile.ZipFile(path, "w") as zf:
+                zf.writestr("mimetype", b"application/epub+zip")
+                zf.writestr(
+                    "EPUB/content.opf",
+                    (
+                        "<package><metadata>"
+                        "<dc:title>Buch</dc:title>"
+                        "</metadata></package>"
+                    ).encode("utf-8"),
+                )
+
+            meta = {"series": "Zwischen Rhein und Maas", "series_volume": 2}
+            export.add_epub_series_metadata(path, meta)
+            export.add_epub_series_metadata(path, meta)
+
+            with zipfile.ZipFile(path) as zf:
+                opf = zf.read("EPUB/content.opf").decode("utf-8")
+
+        self.assertEqual(opf.count("belongs-to-collection"), 1)
+        self.assertIn(">Zwischen Rhein und Maas</meta>", opf)
+        self.assertIn('property="collection-type">series</meta>', opf)
+        self.assertIn('property="group-position">2</meta>', opf)
+        self.assertTrue(opf.endswith("</metadata></package>"))
+
+    def test_epub_series_metadata_is_optional(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "book.epub"
+            with zipfile.ZipFile(path, "w") as zf:
+                zf.writestr("mimetype", b"application/epub+zip")
+                zf.writestr(
+                    "EPUB/content.opf",
+                    b"<package><metadata></metadata></package>",
+                )
+
+            export.add_epub_series_metadata(path, {"title": "Buch"})
+
+            with zipfile.ZipFile(path) as zf:
+                opf = zf.read("EPUB/content.opf").decode("utf-8")
+
+        self.assertNotIn("belongs-to-collection", opf)
+
     def test_render_export_markdown_uses_compact_epub_front_matter(self) -> None:
         chapter = export.ChapterExport(
             chapter_id="001",

@@ -489,6 +489,16 @@ Gesteuert wird das ueber `front_matter.cover_in_body`, `title_page`,
 `summary_page`, `author_bio_page`, `imprint_page` und die Buchfelder
 `subtitle`, `translator`, `summary` und `author_bio`.
 
+**Reihe und Bandnummer.** `book.series` und `book.series_volume` in
+`export.yaml` gehen als EPUB-3-Collection-Metadaten ins OPF
+(`belongs-to-collection`, `collection-type: series`, `group-position`) und
+zusaetzlich ins Export-Manifest (`series`, `series_volume`); geschrieben wird
+das in `add_epub_series_metadata()`. Damit ordnen Haendler wie KDP die Baende
+einer Reihe zu. Im Buchtext wird bewusst **keine** Bandnummer gedruckt - siesteht im Covermotiv und wird dort beim Coverlauf gepflegt. Mehrabsaetze in
+`summary`, `description` und `author_bio` gehoeren in einen literalen
+YAML-Block (`|`), weil `>-` den Absatzabstand zu einem einfachen Zeilenumbruch
+faltet und der Export dann nur einen Absatz sieht.
+
 EPUB-Hinweis: Das Cover wird nur als offizielles EPUB-Cover ueber Pandoc
 eingebunden. Die sichtbare Titelseite wird als robuste Pandoc-Div/Span-Struktur
 mit CSS-Klassen erzeugt; dadurch vermeiden wir doppelte Coverseiten und

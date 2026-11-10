@@ -634,6 +634,42 @@ class GenerateIllustrationTests(unittest.TestCase):
         self.assertEqual(diagnostic["selected_flag"], "--style_id")
         self.assertEqual(diagnostic["status"], "moodboard_supported")
 
+    def test_download_url_retries_after_connection_reset(self) -> None:
+        from io import BytesIO
+
+        from PIL import Image
+
+        buffer = BytesIO()
+        Image.new("RGB", (8, 8), "white").save(buffer, format="PNG")
+        payload = buffer.getvalue()
+        calls = {"count": 0}
+
+        class FakeResponse:
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *exc_info):
+                return False
+
+            def read(self):
+                return payload
+
+        def fake_urlopen(*args, **kwargs):
+            calls["count"] += 1
+            if calls["count"] < 3:
+                raise gi.urllib.error.URLError("reset")
+            return FakeResponse()
+
+        target = self.book_root / "assets" / "chapter" / "retry.jpg"
+        with (
+            patch.object(gi.urllib.request, "urlopen", side_effect=fake_urlopen),
+            patch.object(gi.time, "sleep"),
+        ):
+            gi.download_url("https://example.test/image.png", target)
+
+        self.assertEqual(calls["count"], 3)
+        self.assertTrue(target.exists())
+
     def test_diagnose_reports_missing_cli_without_schema_call(self) -> None:
         with (
             patch.object(gi, "higgsfield_executable", return_value=None),

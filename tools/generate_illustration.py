@@ -14,6 +14,8 @@ import re
 import shutil
 import subprocess
 import sys
+import time
+import urllib.error
 import urllib.request
 from dataclasses import dataclass
 from io import BytesIO
@@ -1261,14 +1263,39 @@ def _resize_image(image: Image.Image, image_processing: dict[str, Any]) -> Image
 
 
 def download_url(url: str, destination: Path,
-                 image_processing: dict[str, Any] | None = None) -> None:
+                 image_processing: dict[str, Any] | None = None,
+                 retries: int = 3) -> None:
+    """Laedt das fertige Bild und schreibt es als Export-Datei.
+
+    Der CDN antwortet gelegentlich mit einem abgebrochenen TLS-Handshake
+    (WinError 10054); ohne Wiederholung waere ein bezahlter Job dann
+    verloren, obwohl das Bild fertig ist.
+    """
     destination.parent.mkdir(parents=True, exist_ok=True)
     http_request = urllib.request.Request(
         url,
         headers={"User-Agent": "peter-the-one-creator/illustration-tool"},
     )
-    with urllib.request.urlopen(http_request, timeout=120) as response:
-        data = response.read()
+    data = b""
+    last_error: Exception | None = None
+    for attempt in range(retries):
+        try:
+            with urllib.request.urlopen(http_request, timeout=120) as response:
+                data = response.read()
+            break
+        except (urllib.error.URLError, OSError) as exc:
+            last_error = exc
+            if attempt < retries - 1:
+                time.sleep(2 * (attempt + 1))
+                continue
+            raise SystemExit(
+                f"Download fehlgeschlagen ({exc}). Das Bild ist fertig; URL aus "
+                f"den Metadaten erneut laden: {url}"
+            ) from exc
+    if not data:
+        raise SystemExit(
+            f"Download lieferte keine Daten ({last_error}). URL: {url}"
+        )
     ip = image_processing or DEFAULT_IMAGE_PROCESSING
     fmt = str(ip.get("format", "JPEG")).strip().upper()
     if fmt == "PNG":
@@ -1516,6 +1543,16 @@ def generate_illustration(
                 api_metadata=api_metadata,
             )
             raise SystemExit("Higgsfield-API-Antwort enthaelt keine Medien-URL")
+        # Vor dem Download festhalten: bricht er ab, bleibt der bezahlte Job
+        # aus den Metadaten reproduzierbar.
+        write_files(
+            planned_command,
+            is_dry_run=False,
+            schema_checked=True,
+            job_result=api_result,
+            media_url=media_url,
+            api_metadata=api_metadata,
+        )
         download_url(media_url, image_path, image_processing)
         write_files(
             planned_command,
@@ -1546,6 +1583,15 @@ def generate_illustration(
             job_result=job_result,
         )
         raise SystemExit("Higgsfield-Antwort enthaelt keine Medien-URL")
+    # Vor dem Download festhalten: bricht er ab, bleibt der bezahlte Job aus
+    # den Metadaten reproduzierbar.
+    write_files(
+        command,
+        is_dry_run=False,
+        schema_checked=True,
+        job_result=job_result,
+        media_url=media_url,
+    )
     download_url(media_url, image_path, image_processing)
     write_files(
         command,

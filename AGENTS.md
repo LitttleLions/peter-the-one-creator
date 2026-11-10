@@ -47,9 +47,9 @@ git --no-pager status --short --branch
 
 Erwartet: Branch `main`, mit `origin/main` synchron; beide Test-Suiten gruen;
 `die-sprache-des-anderen` 34/34 done, Gate dort ERROR=0/WARNING=0/INFO=0,
-EPUB `book-die-sprache-des-anderen-stil-01-original-20261110-132245.epub`
+EPUB `book-die-sprache-des-anderen-stil-01-original-20261110-143217.epub`
 (Cover + Kapitelbilder 001-034, Titelei gefuellt), Print-Satz Stempel
-`134427` (Innenleben 330 Seiten, Wrap 306,6 x 222,2 mm). Chronik KDP-fertig: Gate
+`141553` (Innenleben 330 Seiten, Wrap 306,6 x 222,2 mm). Chronik KDP-fertig: Gate
 ERROR=0/WARNING=13/INFO=36, EPUB `...-20260921-131112.epub`. Print-Vergleich
 Pharao: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`
 (A 924 / B 788 / C 673 / D 643; Cream 776).
@@ -94,7 +94,7 @@ Aktuelle Buchpakete (17):
 - `books/kuprin-moloch/` - Alexander Kuprin, Der Moloch (Roh-Anlage 09/2026)
 - `books/grin-wellenlaeuferin/` - Alexander Grin, Die Wellenlaeuferin (Roh-Anlage 09/2026)
 - `books/pissemski-tausend-seelen/` - Alexei Pissemski, Tausend Seelen (Roh-Anlage 09/2026)
-- `books/die-sprache-des-anderen/` - Timo Verita, Die Sprache des Anderen (DE-Original; RomanForge-Uebernahme 2026-10-28, Figuren neu 2026-11-10: 34/34 Kapitel, Gate 0/0/0, Cover mit Typografie + Kapitelbilder 001-034, Titelei gefüllt, Buch-EPUB `...-20261110-132245.epub` ohne Bypass; Print-Satz `134427`: Innenleben 330 Seiten, Wrap 306,6 x 222,2 mm; offen KDP-Upload)
+- `books/die-sprache-des-anderen/` - Timo Verita, Die Sprache des Anderen (DE-Original; RomanForge-Uebernahme 2026-10-28, Figuren neu 2026-11-10: 34/34 Kapitel, Gate 0/0/0, Druck- und Ebook-Cover als 4k-Render mit Typografie im Bild `cover-print.jpg` / `cover.jpg` (1725x2625, 300 dpi) + Kapitelbilder 001-034, Titelei gefüllt, Buch-EPUB `...-20261110-143217.epub` ohne Bypass; Print-Satz `141553`: Innenleben 330 Seiten, Wrap 306,6 x 222,2 mm; offen KDP-Upload)
 - `books/der-lotse-von-ruegen/` - Timo Verita, Der Lotse von Ruegen (DE-Original; RomanForge-Uebernahme 2026-10-21: 33/33 Kapitel, Gate 0/0/20, Cover + Kapitelbilder 001-010; Regal `website.enabled: true`, sort_order 90, noch nicht live)
 - `books/der-lotse/` - Timo Verita, Der Lotse von Rügen (zweites Paket desselben Romans, aus `origin/main` übernommen 2026-10-28: 32 Kapitel, 32 Kapitelbilder, Gate 0/1/42, `website.enabled: false`; **Doppelablage** - vor jeder Aktion an einem der beiden Lotse-Pakete Rueckfrage)
 - `books/perfect.sight/` - William Horatio Bates, Perfect Sight Without Glasses (Sachbuch, `en->de`, Stil `stil-05-sachbuch`; Kapitelbilder aus Originalscans, `inline_figures` bewusst aus)

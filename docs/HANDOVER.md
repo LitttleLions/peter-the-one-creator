@@ -7,7 +7,49 @@
 > **Diese Datei erst lesen, wenn die konkrete Aufgabe sie braucht.**
 > Einstiegskosten und Hebel (gemessen): [kontextanalyse.md](./kontextanalyse.md).
 
-## Letzte Session (2026-11-10, `die-sprache-des-anderen`: Bilder, Print, Cover)
+## Letzte Session (2026-11-10 abends, 4k-Druckcover + Wrap-Fehler behoben)
+
+Branch **`main`**. Schwerpunkt Cover: das Druckcover war ein 2k-Motiv (real
+~241 dpi) mit per Skript gesetzter Typografie, ohne Zierlinie, Tagline und
+Badge, und mit einem anderen Motiv als das Ebook-Cover.
+
+- **Druckcover neu, Text im Bild** (`gpt_image_2_5`, `2:3`, `resolution 4k`,
+  `quality medium`): 2336x3504, alle Texte im Bild - Titel mit grossem A und
+  Zierschleife, Zierlinie mit Ornament, `Zwischen Rhein und Maas`, Vierzeiler,
+  `Historischer Roman`, Badge `Romanreihe Band 1`, `Motivatier Stiftung`.
+  In 100 %-Ansicht geprueft, fehlerfrei. Prompt und Job-JSON unter
+  `work/prompts/higgsfield/cover-print-4k-20261110*.md|json`;
+  `-v2` brachte die Randregel.
+- **Druckdatei**: auf 5,75 x 8,75 in beschnitten (1725x2625 px, 300 dpi im
+  JPEG), Bild 20 px nach unten verschoben und die obere Himmelszeile
+  gespiegelt/geblurrt ergaenzt, damit jeder Text im 0,25-in-Sicherheitsabstand
+  liegt (Titel y=118, Fusszeile 174, Tagline x=114; Beschnitt 37,5 px).
+  Das Panel des Wrap ist 5,625 in breit, deshalb liegen die Raender im PDF
+  bei ~0,25 in.
+- **Ebook-Cover**: `cover.png` (720x1004) ersetzt durch `cover.jpg`
+  (1725x2625, dasselbe 4k-Motiv). Zwei 3:4-Versuche wurden verworfen, weil der
+  Renderer Wortabstaende verschluckte (`DESANDEREN`, `MOTIVATIERSTIFTUNG`);
+  Kandidaten und Vergleiche in `work/cover-candidates/`.
+- **Wrap-Fehler gefunden und behoben** (`tools/lib/print_wrap.py`): in
+  `.panel`, `.spine` und `.back` stand ein `}}` in einem Nicht-f-String.
+  Chromium verwirft darauf die jeweils naechste Regel - `.spine`,
+  `.spine span` und `.brand` fielen weg. Folge: Ruecken 2,25 in statt
+  0,825 in, Vorderseite gestaucht, Rueckentext ungedreht am Seitenkopf. Das
+  galt auch fuer den bis dahin aktuellen Satz `134427`. Fix plus
+  Regressionstest in `tests/test_print_export.py`, volle Suite **398 Tests OK**.
+- **Neuer Satz `141553`**: Innenleben 330 Seiten, Komplett 332, Wrap
+  306,6 x 222,2 mm mit Ruecken 0,825 in; Vorderseite mit dem 1725x2625-Bild
+  1:1 eingebettet. Wrap-PDF mit MuPDF gerendert und geprueft. Buch-EPUB
+  `...-20261110-143217.epub` (8,03 MB, Cover 1725x2625), A5-PDF
+  `...-20261110-143234.pdf`. Alte Print-Familien `134427` und `141334` geloescht.
+- **Kosten**: 5,00 Credits fuer die Bilder (Guthaben 563,53 -> 558,53), davon
+  0,25 fuer einen Fehlstart (PowerShell schnitt den mehrzeiligen Prompt ab,
+  1k/1:1 verworfen) und 2 x 1,25 fuer die verworfenen 3:4-Versuche.
+- **Offen**: KDP-Upload (Manuskript `141553` + Wrap), Kindle-Preview,
+  Tippfehler `ann, 25 Jahre` bei Gerwin in RomanForge. EPUB `132245` und
+  A5-PDF `132328` sind ueberholt (altes Cover) und noch nicht geloescht.
+
+## Vorige Session (2026-11-10 mittags, `die-sprache-des-anderen`: Bilder, Print, Cover)
 
 Branch **`main`**, bis `bbb136e` gepusht. Schwerpunkt war das Bildproblem: die
 Kapitelbilder 001-003 sahen fast gleich aus, die Figuren waren zu alt/uneinheitlich.

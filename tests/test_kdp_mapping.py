@@ -51,6 +51,10 @@ class MappingTests(unittest.TestCase):
             epub_dir.mkdir(parents=True)
             (epub_dir / "book-der-pharao-20260921-120000.epub").write_bytes(b"old")
             (epub_dir / "book-der-pharao-20260921-163814.epub").write_bytes(b"new")
+            print_dir = root / "exports" / "stil-02-poetisch" / "book" / "print"
+            print_dir.mkdir(parents=True)
+            (print_dir / "book-der-pharao-55x85-classic-head-20260921-170000-paperback-interior.pdf").write_bytes(b"i")
+            (print_dir / "book-der-pharao-55x85-classic-head-20260921-170000-paperback-wrap.pdf").write_bytes(b"w")
             soll = map_kdp_soll(_export(), book_root=root, style="stil-02-poetisch")
 
         self.assertEqual(soll["title"], "Der Pharao")
@@ -75,6 +79,11 @@ class MappingTests(unittest.TestCase):
         self.assertTrue(soll["formats"]["kindle"]["interior_path"].endswith("20260921-163814.epub"))
         self.assertEqual(soll["formats"]["kindle"]["cover_path"], "assets/covers/cover.jpg")
         self.assertEqual(soll["formats"]["paperback"]["cover_path"], "assets/covers/cover-print.png")
+        self.assertTrue(
+            soll["formats"]["paperback"]["wrap_path"].endswith(
+                "20260921-170000-paperback-wrap.pdf"
+            )
+        )
 
     def test_short_link_has_no_asin_but_dp_url_does(self) -> None:
         self.assertEqual(asin_from_store_url("https://amzn.to/3AbcDef"), "")

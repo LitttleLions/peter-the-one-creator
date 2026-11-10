@@ -118,6 +118,7 @@ def map_kdp_soll(
                 "asin": paperback_asin,
                 "interior_path": _rel(book_root, newest_paperback_interior(book_root, style)),
                 "cover_path": _rel(book_root, print_cover(book_root)),
+                "wrap_path": _rel(book_root, newest_paperback_wrap(book_root, style)),
             },
         },
     }
@@ -304,6 +305,23 @@ def newest_paperback_interior(book_root: Path, style: str) -> Path | None:
         path
         for path in folder.glob("*.pdf")
         if path.name.endswith("-paperback-interior.pdf")
+    ]
+    return _newest_stamped(paths)
+
+
+def newest_paperback_wrap(book_root: Path, style: str) -> Path | None:
+    """KDP laedt fuer das Taschenbuch den Wrap hoch, nicht das Vorderbild.
+
+    Der Wrap enthaelt Rueckseite, Ruecken und Vorderseite in einer Seite; das
+    Vorderbild (`print_cover`) taugt nur fuer Vorschauen.
+    """
+    folder = book_root / "exports" / style / "book" / "print"
+    if not folder.is_dir():
+        return None
+    paths = [
+        path
+        for path in folder.glob("*.pdf")
+        if path.name.endswith("-paperback-wrap.pdf")
     ]
     return _newest_stamped(paths)
 

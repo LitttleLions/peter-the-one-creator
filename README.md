@@ -673,6 +673,33 @@ Dashboard-Sektion **X-Clip** auf der Export-Seite.
 
 Details: `docs/marketing-export.md`.
 
+### A+ Content (KDP)
+
+`tools/aplus_build.py` bereitet den A+-Content der Produktseite vor. Amazon
+hat dafuer **keine API** – der Content-Manager ist ein Webformular –, deshalb
+erzeugt das Werkzeug nur die Zutaten: einen Modulplan mit Zielmassen, die
+zugeschnittenen Bilder und die Texte zum Einfuegen.
+
+```text
+books/<book-id>/work/aplus/
+  modules.json      # Module, Texte, Bilddateien, Masse, Zeichenzaehlung
+  copy.md           # Copy-Paste-Fassung, Modul fuer Modul
+  assets/*.jpg      # 970x600 (Kopfmodul), 3x 300x300 (Dreibild-Modul)
+```
+
+```bash
+python tools/aplus_build.py --book die-sprache-des-anderen
+python tools/aplus_build.py --book die-sprache-des-anderen --dry-run
+```
+
+Texte kommen aus `book.title`, `book.description` (Absatz 1 und 2) und
+`book.summary`; fehlende Ueberschriften stehen als `TODO` im Plan, es wird
+nichts erfunden. Bildquellen sind die Kapitelvignetten, gleichmaessig
+verteilt; `--images a.jpg b.jpg ...` waehlt eigene. Ein Logo-Modul wird
+uebersprungen, solange `assets/covers/logo.png` fehlt. Die Masse folgen den
+Amazon-Standardmodulen, stehen aber im Plan – vor dem Upload gegen die
+aktuelle Vorgabe pruefen.
+
 ## Lokaler Start unter Windows
 
 Doppelklick auf `dev.cmd` im Repository-Root startet das Dashboard ohne IDE.

@@ -506,6 +506,15 @@ Marketingpaket unter `books/<id>/exports/marketing/` (`campaign.json`,
   `exports/marketing/clips/`, braucht System-ffmpeg); API
   `GET /api/books/{id}/marketing`, Actions `marketing_export` / `render_x_clip`.
 
+**A+ Content (KDP):** `tools/aplus_build.py` schreibt nach
+`books/<id>/work/aplus/` einen Modulplan (`modules.json`), eine
+Copy-Paste-Fassung (`copy.md`) und die zugeschnittenen Bilder (`assets/`,
+Kopfmodul 970x600, Dreibild-Modul 3x 300x300). Amazon hat **keine A+-API**;
+der Upload im Content-Manager bleibt Handarbeit. Texte kommen aus
+`book.title`, `book.description` und `book.summary`, fehlende Ueberschriften
+stehen als `TODO` im Plan – nichts wird erfunden. Bildquellen sind die
+Kapitelvignetten; `--images` waehlt eigene.
+
 ## Aktueller Stand
 
 Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**

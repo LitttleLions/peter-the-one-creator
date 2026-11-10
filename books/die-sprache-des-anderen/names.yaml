@@ -40,6 +40,16 @@ entries:
     an der Zaumzeug, kalter Blick
   rf_uid: 30f7481b-c969-4d1f-96c1-8c2ecc1c2873
   rf_appearance_sha: e1c6608b417e4ac663bf6cb2cd14564eb91474cb5f08cceb981af82752ac91a0
+- source: Isenbart
+  target: Isenbart
+  aliases:
+  - Vogt Isenbart
+  type: person
+  status: draft
+  note: Vogt des Grundherrn Raginbert; trägt die Forderung aus dem gesiegelten Kalbsleder
+    vor und pfändet Aldas Zugrosse (Kapitel 001). Kein RomanForge-Eintrag.
+  visual: Schmaler, gepflegter Vogt um die fünfzig, dunkelblauer Wollmantel mit Marderfell,
+    schmales Holzstäbchen in der Hand, sorgfältig gekämmtes Haar, kalter Blick
 - source: Folker
   target: Folker
   aliases: []

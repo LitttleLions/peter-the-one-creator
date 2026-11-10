@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "chapter": "001",
+  "title": "Die Ketten an den Kähnen",
+  "moment": "Alda steht am Kai und berührt die eiserne Kette, mit der ihr Kahn festgebunden ist.",
+  "figures": [
+    {
+      "name": "Alda",
+      "action": "blickt auf die Kette, ihre Hand berührt das kalte Metall",
+      "look": "kräftige Frau, dunkles Haar unter Wollkappe, fleckiger Wollmantel, aufmerksamer Blick"
+    }
+  ],
+  "props": [
+    "eiserne Kette",
+    "Bugring des Kahns",
+    "Schließkeil"
+  ],
+  "composition": "medium shot",
+  "beat": "Konfrontation",
+  "evidence": [
+    11,
+    44
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T10:17:05Z",
+  "text_sha256": "8cdd701c7e0cd558",
+  "usage": {
+    "prompt_tokens": 5442,
+    "completion_tokens": 181,
+    "total_tokens": 5623,
+    "cost": 0.0006166,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0006166,
+      "upstream_inference_prompt_cost": 0.0005442,
+      "upstream_inference_completions_cost": 7.24e-05
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

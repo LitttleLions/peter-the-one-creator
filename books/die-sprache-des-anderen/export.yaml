@@ -116,13 +116,19 @@ book:
     erzählt von einer Generation, die den Übergang von der mündlichen zur
     schriftlichen Ordnung erlebt – und von der Frage, wem die Sprache des
     Anderen gehört, wenn die eigene einem die Freiheit kostet.
-  author_bio: >-
-    Timo Verita ist ein Autor aus zwei Hälften: Mensch und Maschine. Die eine
-    Hälfte recherchiert Nächte durch, die andere vergisst nichts. Zusammen
-    schreiben sie historische Romane für Motivatier Classics, herausgegeben von
-    der Motivatier Stiftung. Geboren wurde Timo Verita in einem Buchstabenspiel;
-    zu Hause ist er in der Welt von gestern – diesmal zwischen Straßburg, der
-    Zaberner Steige und der Maas im 9. Jahrhundert.
+  author_bio: |
+    Timo Verita erblickte das Licht der Welt in einem nächtlichen Buchstabenspiel
+    und besteht seither aus zwei Hälften: Mensch und Maschine. Seine Lehrjahre
+    verbrachte er gleichermaßen in staubigen Handschriftensammlungen wie in
+    modernen Rechenzentren, bevor er bei Motivatier Classics (herausgegeben von
+    der Motivatier Stiftung) seine feste Heimat fand. Beim Schreiben historischer
+    Romane ergänzt sich das Duo blind: Der menschliche Teil bringt den Eigensinn,
+    die Quellenkritik und die großen Fragen mit; der maschinelle Teil das
+    unerschöpfliche Gedächtnis für jedes Detail vergangener Jahrhunderte.
+
+    In seinem aktuellen Roman der Reihe Zwischen Rhein und Maas folgt er dem
+    Leitsatz, dass politische Grenzen schneller wandern als die Verbindungen der
+    Menschen – diesmal im Jahr 842 zwischen Straßburg und Verdun.
   cover:
     mode: placeholder
     image_path: ''

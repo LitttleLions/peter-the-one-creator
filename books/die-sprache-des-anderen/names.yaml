@@ -52,6 +52,19 @@ entries:
     vor und pfändet Aldas Zugrosse (Kapitel 001). Kein RomanForge-Eintrag.
   visual: Schmaler, gepflegter Vogt um die fünfzig, dunkelblauer Wollmantel mit Marderfell,
     schmales Holzstäbchen in der Hand, sorgfältig gekämmtes Haar, kalter Blick
+- source: Adalhard
+  target: Adalhard
+  visual_label: Graf Adalhard
+  aliases:
+  - Graf Adalhard
+  - Adelhardt
+  type: person
+  status: draft
+  note: Graf und Vorsitzender des Placitum in Straßburg; setzt in Kapitel 003 die Frist
+    bis Martini und spricht in 031 das Grafengericht. Kein RomanForge-Eintrag, von
+    Hand angelegt (Schreibweise im Roman "Adalhard").
+  visual: Mann mit wettergegerbtem Gesicht, kurz geschorenem grauem Haar und dichtem
+    grauem Bart, gehüllt in einen Biberpelz mit schlammgeflecktem Saum
 - source: Folker
   target: Folker
   aliases: []

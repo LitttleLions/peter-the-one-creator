@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "chapter": "006",
+  "title": "Der Schatten von Fontenoy",
+  "moment": "Alda hält den Planwagen am alten Turm an; ein hagerer Mann mit speckiger Wollmütze lehnt dort, auf eine Krücke gestützt, und starrt sie an.",
+  "figures": [
+    {
+      "name": "Alda",
+      "action": "hält die Zügel straff, die rechte Hand tastet nach dem Axtstiel",
+      "look": "Lodenmantel, der Kragen um das Kinn gezogen, ernster Blick"
+    },
+    {
+      "name": "Folmar",
+      "action": "lehnt am Turm, auf eine Krücke gestützt, den Blick auf Alda gerichtet",
+      "look": "zerschlissene Lederweste, speckige Wollmütze tief in der Stirn, verfallenes Gesicht, zahnloser Mund"
+    }
+  ],
+  "props": [
+    "Planwagen mit Plane",
+    "Zügel",
+    "Axtstiel",
+    "alte Krücke"
+  ],
+  "composition": "medium shot",
+  "beat": "Konfrontation",
+  "evidence": [
+    10,
+    14,
+    16
+  ],
+  "source": "manual",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T11:39:33Z",
+  "text_sha256": "3f9f939e5eb832d5",
+  "usage": {}
+}

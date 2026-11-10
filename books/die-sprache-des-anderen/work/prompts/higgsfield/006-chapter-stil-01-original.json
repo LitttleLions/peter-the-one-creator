@@ -14,15 +14,15 @@
   "source_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\scenes\\de\\stil-01-original\\006\\scene-01.md",
   "prompt_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\006-chapter-stil-01-original.md",
   "output_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\assets\\chapter\\chapter-006.jpg",
-  "dry_run": true,
-  "schema_checked": false,
+  "dry_run": false,
+  "schema_checked": true,
   "command": [
-    "higgsfield",
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
     "generate",
     "create",
     "gpt_image_2_5",
     "--prompt",
-    "Chapter 006. High-quality chapter illustration for a literary historical novel set in the mid-9th century, in and around Strasbourg on the Rhine, in the winter of a war between two kings. Style: cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light, emotionally intelligent, premium modern book illustration for an ambitious historical family novel. Setting: a river town in the Carolingian empire, muddy streets of snow and manure, the Roman brick walls and a timber gatehouse, the river Ill with flat-bottomed oak cargo barges moored at wooden jetties, salt stores, tanneries, warehouses, the vast tented campaign camp of an army on the meadows outside the walls, campfires and smoke in the fog, frozen mud, horses, wagons, oxen, snow and sleet. Figures in early medieval Frankish dress: wool cloaks and tunics, leather belts and shoes, coarse linen shirts, headscarves and felt caps, mail skirts and conical helmets on warriors, wax tablets and parchment scrolls with quills on clerks, heavy boots and bare working hands. Light: low winter sun through sleet and haze, cold grey-blue daylight, warm firelight at the camp fires, hard shadows on clear days. Colour palette: wet slate grey, cold blue, mud brown, oak dark, iron black, snow white, tarred rope, dull ochre and dark red, brass and pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle; figures small against weather and war, close attention to hands, faces, boats and parchment. Clear central figure or central dramatic situation, strong readable composition. Characters present: Alda: 40-jährige Frau, kräftig und wetterhart, dunkles Haar unter grober Wollkappe, gefettete Rindslederstiefel, fleckiger Wollmantel mit Schafsfellfutter, aufmerksamer und zäher Blick, kräftige Hände; Raginbert: 50-jähriger geistlicher Grundherr, glatt rasiert, volle von Kaelte geroetete Wangen, wässrig graue Augen, schwerer blauer Mantel mit Fuchspelzfutter, Silberbeschlaege an der Zaumzeug, kalter Blick; Otwin: 25-jähriger blasser Schreiber, eingefallene Wangen, fiebrige unstete Augen, fransige Kapuze, klamme Finger um Feder und Pergament, schwere Schultern unter dem Reiterrock. Der Schlamm vor dem Weißturmtor schmeckte nach altem Pferdemist und zerschlagenem Kalk, als Alda den Kragen ihres Lodenmantels fester um das Kinn zog. Der Frost der Nacht war mit der Dämmerung in eine klamme, faulige Nässe umgeschlagen, die aus den zahllosen Pfützen emporstieg und den Atem wie graue Wolle vor den Lippen hängen ließ. Straßburg erwachte nicht, es wälzte sich nur schwerfällig von einer Seite auf die andere, zerschunden von den Heerscharen der beiden Könige, die den Boden rings um die Wehrmauern kahlgefressen hatten wie Heuschrecken ein Sommerfeld. Wo noch im Herbst Weidengebüsch gestanden hatte, ragten nun schwarze Stümpfe aus dem Morast, abgeholzt für die Kochfeuer von Tausenden Männern, deren Hufe und Stiefel die alte Heerstraße in eine grundlose Rinne verwandelt hatten. Alda stemmte die Schulter gegen die feuchte Rinde des vorderen Planwagens und lauschte auf das Geräusch der Naben. Es war ein tiefes, sattes Knarren, das ihr verriet, dass die Achsen frisch mit Talg geschmiert waren. Meister Hanno hatte Wort gehalten, auch wenn der Tausch ihr das Herz abgedrückt hatte wie eine zu eng gezogene Schlinge: Ihr ererbter Silbergürtel, schweres fränkisches Werk mit Buckeln, die ihr Vater noch von einem Waffenschmied aus Worms erhandelt hatte, lag nun in Hannos eiserner Kiste. Dafür standen zwei magere, aber sehnige Zugrösser im Geschirr, deren Fell nach feuchtem Stall roch, und ein zweiachsiges Fuhrwerk mit eisenbeschlagenen Felgen, das für die steilen Kehren der Zaberner Steige taugte.",
+    "Alda hält den Planwagen am alten Turm an; ein hagerer Mann mit speckiger Wollmütze lehnt dort, auf eine Krücke gestützt, und starrt sie an. Figuren: Alda — hält die Zügel straff, die rechte Hand tastet nach dem Axtstiel — Etwa 32 Jahre alt, sehnige, kräftige Statur, Dunkelblondes, meist straff zurückgebundenes Haar, markante Wangenknochen, wache graubraune Augen mit frühem Ernst in den Mundwinkeln; Folmar — lehnt am Turm, auf eine Krücke gestützt, den Blick auf Alda gerichtet — zerschlissene Lederweste, speckige Wollmütze tief in der Stirn, verfallenes Gesicht, zahnloser Mund. Gegenstände: Planwagen mit Plane, Zügel, Axtstiel, alte Krücke. Bildausschnitt: medium shot. Early medieval Frankish material world: wool, linen and leather clothing, felt caps, mail and conical helmets, wax tablets, parchment and calfskin deeds with wax seals, oak, tarred rope, iron. Cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light. Mid-9th century Carolingian winter: cold grey-blue daylight, wet slate grey, mud brown, oak dark, iron black, snow white, dull ochre and dark red, pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle. Clear central figure or central dramatic situation, strong readable composition.",
     "--aspect_ratio",
     "3:4",
     "--resolution",
@@ -32,6 +32,66 @@
     "--wait",
     "--json"
   ],
-  "media_url": null,
-  "job_result": null
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261110_114110_b7e495a4-7aa6-4b40-a062-490ca86cf62f.png",
+  "job_result": [
+    {
+      "created_at": "2026-11-10T11:41:10.146677Z",
+      "display_name": "GPT Image 2.5",
+      "id": "b7e495a4-7aa6-4b40-a062-490ca86cf62f",
+      "job_type": "gpt_image_2_5",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261110_114110_b7e495a4-7aa6-4b40-a062-490ca86cf62f_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "flare",
+        "prompt": "Alda hält den Planwagen am alten Turm an; ein hagerer Mann mit speckiger Wollmütze lehnt dort, auf eine Krücke gestützt, und starrt sie an. Figuren: Alda — hält die Zügel straff, die rechte Hand tastet nach dem Axtstiel — Etwa 32 Jahre alt, sehnige, kräftige Statur, Dunkelblondes, meist straff zurückgebundenes Haar, markante Wangenknochen, wache graubraune Augen mit frühem Ernst in den Mundwinkeln; Folmar — lehnt am Turm, auf eine Krücke gestützt, den Blick auf Alda gerichtet — zerschlissene Lederweste, speckige Wollmütze tief in der Stirn, verfallenes Gesicht, zahnloser Mund. Gegenstände: Planwagen mit Plane, Zügel, Axtstiel, alte Krücke. Bildausschnitt: medium shot. Early medieval Frankish material world: wool, linen and leather clothing, felt caps, mail and conical helmets, wax tablets, parchment and calfskin deeds with wax seals, oak, tarred rope, iron. Cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light. Mid-9th century Carolingian winter: cold grey-blue daylight, wet slate grey, mud brown, oak dark, iron black, snow white, dull ochre and dark red, pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle. Clear central figure or central dramatic situation, strong readable composition.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261110_114110_b7e495a4-7aa6-4b40-a062-490ca86cf62f.png",
+      "status": "completed"
+    }
+  ],
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\vignettes\\006.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "006",
+    "title": "Der Schatten von Fontenoy",
+    "moment": "Alda hält den Planwagen am alten Turm an; ein hagerer Mann mit speckiger Wollmütze lehnt dort, auf eine Krücke gestützt, und starrt sie an.",
+    "figures": [
+      {
+        "name": "Alda",
+        "action": "hält die Zügel straff, die rechte Hand tastet nach dem Axtstiel",
+        "look": "Lodenmantel, der Kragen um das Kinn gezogen, ernster Blick"
+      },
+      {
+        "name": "Folmar",
+        "action": "lehnt am Turm, auf eine Krücke gestützt, den Blick auf Alda gerichtet",
+        "look": "zerschlissene Lederweste, speckige Wollmütze tief in der Stirn, verfallenes Gesicht, zahnloser Mund"
+      }
+    ],
+    "props": [
+      "Planwagen mit Plane",
+      "Zügel",
+      "Axtstiel",
+      "alte Krücke"
+    ],
+    "composition": "medium shot",
+    "beat": "Konfrontation",
+    "evidence": [
+      10,
+      14,
+      16
+    ],
+    "source": "manual",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-10T11:39:33Z",
+    "text_sha256": "3f9f939e5eb832d5",
+    "usage": {}
+  }
 }

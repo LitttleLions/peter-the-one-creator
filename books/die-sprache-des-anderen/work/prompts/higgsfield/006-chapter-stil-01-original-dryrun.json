@@ -1,0 +1,75 @@
+{
+  "book": "die-sprache-des-anderen",
+  "chapter": "006",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\scenes\\de\\stil-01-original\\006\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\006-chapter-stil-01-original-dryrun.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\assets\\chapter\\chapter-006.jpg",
+  "dry_run": true,
+  "schema_checked": false,
+  "command": [
+    "higgsfield",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Alda hält den Planwagen am alten Turm an; ein hagerer Mann mit speckiger Wollmütze lehnt dort, auf eine Krücke gestützt, und starrt sie an. Figuren: Alda — hält die Zügel straff, die rechte Hand tastet nach dem Axtstiel — Etwa 32 Jahre alt, sehnige, kräftige Statur, Dunkelblondes, meist straff zurückgebundenes Haar, markante Wangenknochen, wache graubraune Augen mit frühem Ernst in den Mundwinkeln; Folmar — lehnt am Turm, auf eine Krücke gestützt, den Blick auf Alda gerichtet — zerschlissene Lederweste, speckige Wollmütze tief in der Stirn, verfallenes Gesicht, zahnloser Mund. Gegenstände: Planwagen mit Plane, Zügel, Axtstiel, alte Krücke. Bildausschnitt: medium shot. Early medieval Frankish material world: wool, linen and leather clothing, felt caps, mail and conical helmets, wax tablets, parchment and calfskin deeds with wax seals, oak, tarred rope, iron. Cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light. Mid-9th century Carolingian winter: cold grey-blue daylight, wet slate grey, mud brown, oak dark, iron black, snow white, dull ochre and dark red, pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle. Clear central figure or central dramatic situation, strong readable composition.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": null,
+  "job_result": null,
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\vignettes\\006.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "006",
+    "title": "Der Schatten von Fontenoy",
+    "moment": "Alda hält den Planwagen am alten Turm an; ein hagerer Mann mit speckiger Wollmütze lehnt dort, auf eine Krücke gestützt, und starrt sie an.",
+    "figures": [
+      {
+        "name": "Alda",
+        "action": "hält die Zügel straff, die rechte Hand tastet nach dem Axtstiel",
+        "look": "Lodenmantel, der Kragen um das Kinn gezogen, ernster Blick"
+      },
+      {
+        "name": "Folmar",
+        "action": "lehnt am Turm, auf eine Krücke gestützt, den Blick auf Alda gerichtet",
+        "look": "zerschlissene Lederweste, speckige Wollmütze tief in der Stirn, verfallenes Gesicht, zahnloser Mund"
+      }
+    ],
+    "props": [
+      "Planwagen mit Plane",
+      "Zügel",
+      "Axtstiel",
+      "alte Krücke"
+    ],
+    "composition": "medium shot",
+    "beat": "Konfrontation",
+    "evidence": [
+      10,
+      14,
+      16
+    ],
+    "source": "manual",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-10T11:39:33Z",
+    "text_sha256": "3f9f939e5eb832d5",
+    "usage": {}
+  }
+}

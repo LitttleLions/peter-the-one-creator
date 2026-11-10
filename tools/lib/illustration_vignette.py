@@ -404,27 +404,39 @@ def count_mentions(text: str, name: str) -> int:
 
 
 def figure_looks(entries: Iterable[dict[str, Any]] | None) -> dict[str, str]:
-    """Aussehen je Figurenname aus dem Glossar (Schluessel kleingeschrieben)."""
+    """Aussehen je Figurenname aus dem Glossar (Schluessel kleingeschrieben).
+
+    ``visual_label`` wird zuerst eingetragen: zwei Glossareintraege koennen
+    denselben ``target`` haben (Berto der Knecht / Berto der Sohn), und der
+    volle Label ist die einzige eindeutige Adresse.
+    """
     looks: dict[str, str] = {}
     for entry in person_entries(entries):
         look = _clean(entry.get("visual"))
         if not look:
             continue
+        label = _clean(entry.get("visual_label"))
+        if label:
+            looks.setdefault(label.lower(), look)
         for name in _candidates(entry):
             looks.setdefault(name.lower(), look)
     return looks
 
 
 def look_for(looks: dict[str, str], name: str) -> str:
+    """Aussehen zur Figur; exakter Treffer vor dem laengsten Worttreffer."""
     value = _clean(name).lower()
     if not value:
         return ""
     if value in looks:
         return looks[value]
-    for key, look in looks.items():
-        if key and (key in value or value in key):
-            return look
-    return ""
+    best_key = ""
+    for key in looks:
+        if not key or len(key) <= len(best_key):
+            continue
+        if re.search(rf"(?<![\w-]){re.escape(key)}(?![\w-])", value):
+            best_key = key
+    return looks[best_key] if best_key else ""
 
 
 # ---------------------------------------------------------------------------

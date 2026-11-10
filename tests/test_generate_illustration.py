@@ -862,6 +862,35 @@ class VignettePromptTests(unittest.TestCase):
         self.assertNotIn("Raginbert", prompt)
         self.assertNotIn("Fuchspelz", prompt)
 
+    def test_gleicher_target_name_trennt_aussehen_ueber_visual_label(self) -> None:
+        (self.book_root / "names.yaml").write_text(
+            "\n".join([
+                "entries:",
+                "- source: Berto der Knecht",
+                "  target: Berto",
+                "  visual_label: Berto der Knecht",
+                "  aliases: []",
+                "  type: person",
+                "  visual: Alter Knecht im Wollkittel.",
+                "- source: Berto",
+                "  target: Berto",
+                "  visual_label: Berto der Sohn",
+                "  aliases: [Sohn Berto]",
+                "  type: person",
+                "  visual: Neunjaehriger Junge im Wollkittel.",
+            ]),
+            encoding="utf-8",
+        )
+        book = find_book(self.root, "die-sprache-des-anderen")
+        looks = gi.figure_looks(gi.book_name_entries(book))
+
+        self.assertEqual(
+            gi.look_for(looks, "Berto der Sohn"), "Neunjaehriger Junge im Wollkittel."
+        )
+        self.assertEqual(
+            gi.look_for(looks, "Berto der Knecht"), "Alter Knecht im Wollkittel."
+        )
+
     def test_glossar_aussehen_geht_vor_vignetten_aussehen(self) -> None:
         vignette = self.vignette(
             figures=[Figure(name="Alda", action="", look="ALTER TEXT aus der Vignette")]

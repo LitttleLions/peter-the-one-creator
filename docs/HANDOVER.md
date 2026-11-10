@@ -45,6 +45,12 @@ Badge, und mit einem anderen Motiv als das Ebook-Cover.
 - **Kosten**: 5,00 Credits fuer die Bilder (Guthaben 563,53 -> 558,53), davon
   0,25 fuer einen Fehlstart (PowerShell schnitt den mehrzeiligen Prompt ab,
   1k/1:1 verworfen) und 2 x 1,25 fuer die verworfenen 3:4-Versuche.
+- **Reihe**: `Die Sprache des Anderen` ist **Band 2** der Reihe "Zwischen Rhein
+  und Maas"; Band 1 entsteht spaeter (Prequel, ungewoehnliche Reihenfolge).
+  Vermerkt in `export.yaml` als `book.series_volume: 2`. Cover (`cover.jpg`,
+  `cover-print.jpg`) und die Cover-Prompts nennen noch `BAND 1`; das wird
+  bewusst erst beim naechsten Coverlauf gestellt. Epub/PDF drucken keine
+  Bandnummer.
 - **Offen**: KDP-Upload (Manuskript `141553` + Wrap), Kindle-Preview,
   Tippfehler `ann, 25 Jahre` bei Gerwin in RomanForge. Die ueberholten
   Exporte `132245` (EPUB) und `132328` (A5-PDF, altes Cover) sind geloescht;

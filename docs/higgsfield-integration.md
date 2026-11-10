@@ -234,9 +234,77 @@ Deshalb:
 - Keine Meta-Instruktionen wie "Create ONE unified image" oder
   "Scene location: chapter 001".
 
-### Prompt-Aufbau
+### Prompt-Aufbau (Vignetten, seit 2026-11-10)
 
-Der Prompt besteht aus genau zwei Teilen (in dieser Reihenfolge):
+Der Prompt hat vier Teile, in dieser Reihenfolge:
+
+1. **Moment** – eine Handlung mit Person und Ort, ein Satz.
+2. **Figuren** – nur wer in diesem Moment koerperlich anwesend ist, je eine
+   Zeile mit Handlung und Aussehen.
+3. **Gegenstaende und Bildausschnitt** – konkrete Dinge plus eine der festen
+   Ausschnittsangaben (`wide establishing shot`, `medium shot`, `close-up`,
+   `low angle`, `high angle`, `over-the-shoulder`, `two-shot`).
+4. **Stilanker** – `illustration_setting` (max. 700 Zeichen) und
+   `illustration_world` (max. 400 Zeichen).
+
+Der Grund fuer die Reihenfolge: das Bildmodell gewichtet den Anfang des
+Prompts. Der feste Stilanker steht deshalb hinten und beschreibt nur Stil,
+Licht, Palette und Stimmung – nicht die Kulisse. Die Kulisse kommt aus dem
+Moment. Ein Orts- und Wetterkatalog im `illustration_setting` machte
+`die-sprache-des-anderen` 001-003 fast identisch (Befund unten).
+
+Die Vignette liegt als JSON unter
+`books/<book-id>/work/prompts/higgsfield/vignettes/<kapitel>.json`, ist
+lesbar, von Hand editierbar und wird bei `provider=auto` wiederverwendet:
+
+```json
+{
+  "moment": "Alda steht am Kai und beruehrt die eiserne Kette, mit der ihr Kahn festgebunden ist.",
+  "figures": [
+    {"name": "Alda", "action": "blickt auf die Kette", "look": "Wollkappe, fleckiger Wollmantel"}
+  ],
+  "props": ["eiserne Kette", "Bugring des Kahns"],
+  "composition": "medium shot",
+  "beat": "Konfrontation",
+  "evidence": [11, 44],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite"
+}
+```
+
+- `source: heuristic` – kostenfreier Vorschlag: Absatz mit Titelbezug,
+  anwesenden Figuren und Handlung; Innerlichkeit (Gedanken, Erinnerungen)
+  wird abgewertet.
+- `source: openrouter` – ein LLM hat den Moment gewaehlt (Kosten pro Kapitel
+  im Bereich eines halben Cents, siehe `usage` im JSON).
+- `source: manual` – von Hand geschrieben oder korrigiert. Bleibt bei
+  `provider=auto` stehen und ist die empfohlene Fassung fuer die Freigabe.
+
+```bat
+:: vorhandene Vignette nutzen, sonst Heuristik (keine API-Kosten)
+.\.venv\Scripts\python.exe tools\generate_illustration.py --book die-sprache-des-anderen --chapter 004 --kind chapter --vignette-provider auto --dry-run
+:: LLM waehlt den Moment und die anwesenden Figuren
+.\.venv\Scripts\python.exe tools\generate_illustration.py --book die-sprache-des-anderen --chapter 004 --kind chapter --vignette-provider openrouter --vignette-overwrite --dry-run
+:: ohne Vignette, bisheriger Aufbau (Legacy)
+.\.venv\Scripts\python.exe tools\generate_illustration.py --book die-sprache-des-anderen --chapter 004 --kind chapter --vignette-provider off --dry-run
+```
+
+Der Default steht in `book.yaml` unter `higgsfield.vignette.provider`
+(`auto`, `none`, `openrouter`, `off`). Ohne Eintrag gilt `off` – andere
+Buchpakete laufen unveraendert weiter. `--dry-run` schreibt nach
+`<stem>-dryrun.md`/`.json` und ueberschreibt den dokumentierten Prompt des
+letzten echten Laufs nicht. Aendert sich der Kapiteltext, warnt der Lauf
+(`is_stale`), bis die Vignette mit `--vignette-overwrite` neu erzeugt wird.
+
+Das Aussehen der Figuren kommt aus der Vignette (`look`), sonst aus
+`names.yaml` (`visual`). Fehlt eine Figur im Glossar, nennt der Lauf sie
+beim Namen (Beispiel: `Graf Adalhard`, Kapitel 003) – der Eintrag wird
+bewusst nicht automatisch erfunden.
+
+### Bisheriger Aufbau (Legacy, `--vignette-provider off`)
+
+Ohne Vignette besteht der Prompt aus genau zwei Teilen (in dieser
+Reihenfolge):
 
 1. **`illustration_setting`** (aus `book.yaml`): Eine vom Nutzer
    editierbare positive Beschreibung von Epoche, Ort, Kleidung,
@@ -293,17 +361,25 @@ kaum veraendert. Ursache: ~2.500 Zeichen `illustration_setting` (immer
 gleich) dominieren den Prompt; Figurenblock (~300 Zeichen) + Szenenauszug
 gehen unter. Die Auswahl-Fixes waren notwendig, aber allein unzureichend.
 
-Naechste Schritte (erst dann 004-034 echt erzeugen):
+Zusaetzlich gemessen: In 001 stand `Raginbert` als anwesend im Prompt (9
+Erwaehnungen, 0 Sprechzuordnungen – er ist nicht am Kai), waehrend der
+anwesende `Isenbart` in `names.yaml` fehlte. Prompt-Aehnlichkeit ueber alle
+34 Kapitel: mittlere Wortueberlappung 0,52.
 
-1. `build_prompt()` umbauen: Setting kuerzen, Figuren/Szene nach vorn.
-2. Je Kapitel `--dry-run` + Prompt pruefen, vom Nutzer abnicken lassen.
-3. Erst dann echt erzeugen (`--overwrite`), nicht alle auf einmal.
+Behoben durch die Vignetten-Stufe (2026-11-10, `tools/lib/illustration_vignette.py`
+plus umgebauter `build_prompt()`):
 
-Die Reihenfolge ist **Setting zuerst, Auszug danach**. Der Grund ist
-praktisch: Die buchweite Bildsprache aus `book.yaml` setzt den visuellen
-Rahmen, bevor der konkrete Szeneninhalt folgt. Die Stil-/Setting-Ergaenzung
-kommt ausschliesslich aus `book.yaml` unter `illustration_setting`; sie wird
-nicht im Code gepflegt.
+- der Moment steht vorn, der Stilanker hinten und kurz (max. 700 Zeichen);
+- die Kulisse kommt aus dem Moment, nicht aus dem Setting;
+- Figuren waehlt der Moment (LLM) bzw. die Heuristik, nicht die Erwaehnungs-
+  haeufigkeit im ganzen Kapitel;
+- `illustration_world` traegt nur Material und Epoche;
+- `--dry-run` ueberschreibt den echten Prompt nicht mehr.
+
+Dry-Run-Beispiele (noch nicht freigegeben, keine Bilder erzeugt):
+`books/die-sprache-des-anderen/work/prompts/higgsfield/vignettes/001.json` und
+`003.json` sowie die zugehoerigen `*-dryrun.md`. Prompt-Laenge 001: 1009
+statt 3147 Zeichen; 003: 1379 statt 3461 Zeichen.
 
 ### Prompt-Ausgabe
 

@@ -875,13 +875,26 @@ Offen:
   **Bild-Befund 2026-11-10** (`die-sprache-des-anderen` 001-003 mit neuer
   Figurenauswahl neu erzeugt, aber fast identisch): ~2.500 Zeichen
   `illustration_setting` (immer gleich) dominieren den Prompt; Figurenblock
-  (~300 Zeichen) + Szenenauszug gehen unter. Figurenauswahl ist auf
-  Haeufigkeit + Berto-Trennung umgestellt (`character_visual_lines`,
-  `visual_label`, Genitiv-Toleranz; Tests 33/33 gruen) - notwendig, aber
-  allein unzureichend. **Naechste Schritte (erst dann 004-034 echt):**
-  1. `build_prompt()` umbauen: Setting kuerzen, Figuren/Szene nach vorn.
-  2. Je Kapitel `--dry-run` + Prompt pruefen, vom Nutzer abnicken lassen.
-  3. Erst dann echt erzeugen (`--overwrite`), nicht alle auf einmal.
+  (~300 Zeichen) + Szenenauszug gehen unter. Zusatzmessung: In 001 stand
+  `Raginbert` als anwesend im Prompt (0 Sprechzuordnungen), der anwesende
+  `Isenbart` fehlte in `names.yaml`; Prompt-Aehnlichkeit ueber 34 Kapitel
+  0,52 (Jaccard).
+  **Erledigt 2026-11-10: Vignetten-Stufe eingebaut** (`tools/lib/
+  illustration_vignette.py`, `build_prompt()` umgebaut, `book.yaml` in
+  `illustration_setting` (Stilanker) + `illustration_world` (Material)
+  geteilt, `Isenbart` in `names.yaml`; Tests 42/42, Gesamtsuite 391/391).
+  Der Prompt ist jetzt Moment -> Figuren -> Gegenstaende/Ausschnitt ->
+  Stilanker; `--dry-run` schreibt `*-dryrun.md` und ueberschreibt den
+  echten Prompt nicht. Details: `docs/higgsfield-integration.md`
+  ("Prompt-Aufbau (Vignetten)").
+  **Offen (Reihenfolge):**
+  1. Dry-Runs 001/003 pruefen und abnicken
+     (`books/die-sprache-des-anderen/work/prompts/higgsfield/`)
+     - Vignette 001: Alda an der Eisenkette am Kai (nur Alda anwesend).
+     - Vignette 003: Alda vor Graf Adalhard mit den Kerbhoelzern; Hinweis:
+       `Graf Adalhard` fehlt noch in `names.yaml`.
+  2. 2-3 Bilder echt erzeugen und mit den alten 001-003 vergleichen.
+  3. Erst dann 004-034, je Kapitel Vignette + Dry-Run.
 - ~~Cover-Typografie (Titel/Autor im Bild) fehlt beim
   Sprache-des-Anderen-Cover~~ - Erledigt 2026-10-28 abends: neues Cover
   mit Titel/Autor/Serie im Bild (Punkt 16).

@@ -33,6 +33,17 @@ from lib.output_paths import (
 )
 from lib.name_registry import load_names
 from lib.higgsfield_models import size_cli_args
+from lib.illustration_vignette import (
+    Figure,
+    Vignette,
+    VignetteError,
+    ensure_vignette,
+    figure_looks,
+    is_stale,
+    look_for,
+    normalize_provider as normalize_vignette_provider,
+    vignette_path,
+)
 from PIL import Image
 
 
@@ -53,6 +64,13 @@ UUID_RE = re.compile(
     r"[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$"
 )
 ASPECT_RATIO_RE = re.compile(r"^\d+(?:\.\d+)?:\d+(?:\.\d+)?$")
+
+# Budget fuer den Stilanker im Vignetten-Prompt. Der Anker beschreibt Stil,
+# Epoche und Palette - nicht die Kulisse des Kapitels. Die Kulisse kommt aus
+# der Vignette; ein langer Ortskatalog war die Ursache fuer fast identische
+# Kapitelbilder (siehe docs/offene-punkte.md Punkt 14).
+PROMPT_STYLE_LIMIT = 700
+PROMPT_WORLD_LIMIT = 400
 
 # NOTE: text2image_soul_v2 hat KEINEN negative_prompt-Parameter.
 # Alle Negativ-Formulierungen ("no X") werden als positive Anweisung
@@ -81,6 +99,9 @@ class IllustrationRequest:
     soul_id: str | None = None
     soul_strength: float = 1.0
     allow_paid_generation: bool = False
+    vignette_provider: str | None = None
+    vignette_model: str | None = None
+    vignette_overwrite: bool = False
 
 
 def normalize_chapter_id(value: str) -> str:
@@ -146,10 +167,15 @@ def prompt_stem(request: IllustrationRequest) -> str:
     return f"{request.chapter_id}-scene-{scene:02d}-{request.style}"
 
 
-def prompt_paths(book: dict[str, Any], request: IllustrationRequest) -> tuple[Path, Path]:
+def prompt_paths(book: dict[str, Any], request: IllustrationRequest,
+                 dry_run: bool = False) -> tuple[Path, Path]:
     output_root = book_output_root(REPO_ROOT, book)
     prompt_dir = output_root / "prompts" / "higgsfield"
     stem = prompt_stem(request)
+    if dry_run:
+        # Ein Dry-Run darf den dokumentierten Prompt des letzten echten Laufs
+        # nicht ueberschreiben.
+        stem += "-dryrun"
     return prompt_dir / f"{stem}.md", prompt_dir / f"{stem}.json"
 
 
@@ -451,8 +477,9 @@ def character_visual_lines(book: dict[str, Any], source_text: str, limit: int = 
 def prompt_tracking_header(book: dict[str, Any], request: IllustrationRequest) -> str:
     """Kurzer Kapitel-/Szenen-Marker oben im Prompt – sichtbar in der Higgsfield-UI.
 
-    Absichtlich minimal: kein Buchname, kein Titel, keine No-Lettering-Floskeln.
-    Danach folgt direkt das illustration_setting aus book.yaml.
+    Nur noch fuer den Legacy-Prompt (ohne Vignette). Im Vignetten-Prompt steht
+    der Marker in den Metadaten, nicht im Bildtext: "Chapter 001." als erstes
+    Token laedt Schrift ins Bild ein.
     """
     del book  # bewusst ungenutzt; Marker nur aus Request
     if request.kind == "scene" and request.scene_number is not None:
@@ -460,8 +487,101 @@ def prompt_tracking_header(book: dict[str, Any], request: IllustrationRequest) -
     return f"Chapter {request.chapter_id}."
 
 
-def build_prompt(book: dict[str, Any], request: IllustrationRequest, source_text: str) -> str:
+def clip_sentences(text: str, limit: int) -> str:
+    """Kuerzt Text an einer Satz- oder Wortgrenze (fuer Prompt-Budgets)."""
+    compact = re.sub(r"\s+", " ", str(text or "")).strip()
+    if len(compact) <= limit:
+        return compact
+    cut = compact[:limit]
+    sentence_end = max(cut.rfind(". "), cut.rfind("; "))
+    if sentence_end > limit * 0.45:
+        return cut[: sentence_end + 1].strip()
+    return cut.rsplit(" ", 1)[0].rstrip(".,;:")
+
+
+def load_illustration_world(book: dict[str, Any]) -> str:
+    """Material- und Epochenvokabular (Kleidung, Werkzeug, Stoffe).
+
+    Bewusst getrennt vom Stilanker und ohne Ortskatalog: die Kulisse eines
+    Kapitels kommt aus der Vignette, nicht aus einer Liste im book.yaml.
+    """
+    return re.sub(r"\s+", " ", str(book.get("illustration_world") or "").strip())
+
+
+def book_name_entries(book: dict[str, Any]) -> list[dict[str, Any]]:
+    names_file = book.get("names_file")
+    if not names_file:
+        return []
+    path = REPO_ROOT / str(names_file)
+    if not path.exists():
+        return []
+    try:
+        return list(load_names(path) or [])
+    except Exception:  # noqa: BLE001 - defektes Glossar darf kein Bild blockieren
+        return []
+
+
+def build_vignette_prompt(
+    book: dict[str, Any],
+    request: IllustrationRequest,
+    vignette: Vignette,
+) -> str:
+    """Prompt aus der Vignette: Moment, Figuren, Ausschnitt, dann Stil.
+
+    Reihenfolge und Laenge sind der Kern der Korrektur: das Bildmodell
+    gewichtet den Anfang, deshalb steht der konkrete Moment vorn und der
+    Stilanker (max. ``PROMPT_STYLE_LIMIT`` Zeichen) ganz hinten. Ein
+    Ortskatalog wie im alten ``illustration_setting`` faellt weg.
+    """
+    del request  # Marker/Scene stehen in den Metadaten, nicht im Bildprompt
+    parts: list[str] = []
+
+    moment = re.sub(r"\s+", " ", vignette.moment or "").strip()
+    if moment and not moment.endswith((".", "!", "?")):
+        moment += "."
+    if moment:
+        parts.append(moment)
+
+    if vignette.figures:
+        looks = figure_looks(book_name_entries(book))
+        figure_lines: list[str] = []
+        for figure in vignette.figures:
+            bits = [figure.name]
+            if figure.action:
+                bits.append(figure.action.rstrip("."))
+            look = figure.look or look_for(looks, figure.name)
+            if look:
+                bits.append(clip_sentences(look, 140).rstrip("."))
+            figure_lines.append(" — ".join(bits))
+        parts.append("Figuren: " + "; ".join(figure_lines) + ".")
+
+    if vignette.props:
+        parts.append("Gegenstände: " + ", ".join(vignette.props) + ".")
+
+    if vignette.composition:
+        parts.append(f"Bildausschnitt: {vignette.composition}.")
+
+    world = clip_sentences(load_illustration_world(book), PROMPT_WORLD_LIMIT)
+    if world:
+        parts.append(world)
+
+    style = clip_sentences(load_illustration_setting(book), PROMPT_STYLE_LIMIT)
+    if style:
+        parts.append(style)
+
+    return re.sub(r"\s+", " ", " ".join(parts)).strip()
+
+
+def build_prompt(
+    book: dict[str, Any],
+    request: IllustrationRequest,
+    source_text: str,
+    vignette: Vignette | None = None,
+) -> str:
     """Build a concise Higgsfield prompt with only positive descriptions.
+
+    Mit ``vignette`` entsteht der neue Prompt (Moment zuerst). Ohne Vignette
+    bleibt der bisherige Aufbau erhalten:
 
     The model text2image_soul_v2 has NO negative_prompt parameter.
     All "no X" formulations are read as positive instructions and produce
@@ -474,6 +594,9 @@ def build_prompt(book: dict[str, Any], request: IllustrationRequest, source_text
     Single-line only – Higgsfield CLI kann mehrzeilige --prompt-Werte
     nicht korrekt verarbeiten.
     """
+    if vignette is not None:
+        return build_vignette_prompt(book, request, vignette)
+
     header = prompt_tracking_header(book, request)
     setting = load_illustration_setting(book)
     excerpt = clean_markdown_excerpt(source_text)
@@ -483,6 +606,63 @@ def build_prompt(book: dict[str, Any], request: IllustrationRequest, source_text
         character_text = "Characters present: " + "; ".join(character_lines) + "."
     parts = [part for part in (header, setting, character_text, excerpt) if part]
     return re.sub(r"\s+", " ", " ".join(parts))
+
+
+def resolve_vignette(
+    book: dict[str, Any],
+    request: IllustrationRequest,
+    source_text: str,
+) -> Vignette | None:
+    """Liest/erzeugt die Vignette fuer diesen Lauf (None = Legacy-Prompt)."""
+    try:
+        # Ohne ausdrueckliche Angabe bleibt der bisherige Prompt-Aufbau: die
+        # Vignette ist opt-in (CLI-Flag oder book.yaml higgsfield.vignette).
+        requested = request.vignette_provider
+        provider = normalize_vignette_provider(
+            "off" if requested is None else requested
+        )
+    except VignetteError as exc:
+        raise SystemExit(f"Vignette-Fehler: {exc}") from exc
+    if provider == "off":
+        return None
+    try:
+        vignette = ensure_vignette(
+            repo_root=REPO_ROOT,
+            book=book,
+            chapter_id=request.chapter_id,
+            text=source_text,
+            provider=provider,
+            model=request.vignette_model,
+            overwrite=request.vignette_overwrite,
+        )
+    except VignetteError as exc:
+        raise SystemExit(f"Vignette-Fehler: {exc}") from exc
+    if is_stale(vignette, source_text):
+        print(
+            f"Hinweis: Vignette {request.chapter_id} ist aelter als der "
+            "Kapiteltext (--vignette-overwrite erzeugt sie neu).",
+            file=sys.stderr,
+        )
+    if not vignette.figures:
+        print(
+            f"Hinweis: Vignette {request.chapter_id} nennt keine Figuren.",
+            file=sys.stderr,
+        )
+    else:
+        looks_table = figure_looks(book_name_entries(book))
+        missing = [
+            figure.name
+            for figure in vignette.figures
+            if not look_for(looks_table, figure.name)
+        ]
+        if missing:
+            print(
+                "Hinweis: Figuren ohne Glossareintrag in names.yaml: "
+                + ", ".join(missing)
+                + " (Aussehen kommt aus der Vignette).",
+                file=sys.stderr,
+            )
+    return vignette
 
 
 def _command_for_log(cmd: list[str]) -> str:
@@ -572,6 +752,8 @@ def higgsfield_defaults(book: dict[str, Any]) -> dict[str, Any]:
         if isinstance(soul, dict) and soul_enabled
         else 1.0
     )
+    vignette = cfg.get("vignette") if isinstance(cfg, dict) else None
+    vignette_cfg = vignette if isinstance(vignette, dict) else {}
     return {
         "model": (
             str(cfg.get("model") or DEFAULT_MODEL)
@@ -610,6 +792,12 @@ def higgsfield_defaults(book: dict[str, Any]) -> dict[str, Any]:
             str(cfg.get("render_quality") or "").strip() or None
             if isinstance(cfg, dict)
             else None
+        ),
+        # Vignetten sind opt-in pro Buch: ohne Eintrag bleibt der bisherige
+        # Prompt-Aufbau (off), damit andere Buchpakete unveraendert laufen.
+        "vignette_provider": str(vignette_cfg.get("provider") or "off"),
+        "vignette_model": (
+            str(vignette_cfg.get("model") or "").strip() or None
         ),
     }
 
@@ -1115,8 +1303,9 @@ def write_prompt_files(
     job_result: Any | None = None,
     media_url: str | None = None,
     api_metadata: dict[str, Any] | None = None,
+    vignette: Vignette | None = None,
 ) -> tuple[Path, Path]:
-    prompt_md, meta_json = prompt_paths(book, request)
+    prompt_md, meta_json = prompt_paths(book, request, dry_run=dry_run)
     prompt_md.parent.mkdir(parents=True, exist_ok=True)
     prompt_md.write_text(prompt + "\n", encoding="utf-8")
     meta = {
@@ -1141,6 +1330,14 @@ def write_prompt_files(
         "media_url": media_url,
         "job_result": job_result,
     }
+    if vignette is not None:
+        meta["prompt_builder"] = "vignette"
+        meta["vignette_path"] = str(
+            vignette_path(book_output_root(REPO_ROOT, book), request.chapter_id)
+        )
+        meta["vignette"] = vignette.to_dict()
+    else:
+        meta["prompt_builder"] = "legacy"
     if api_metadata:
         meta.update(api_metadata)
     meta_json.write_text(
@@ -1161,7 +1358,33 @@ def generate_illustration(
         raise SystemExit(f"Zielbild existiert bereits: {image_path}")
 
     source_path, source_text = read_scene_text(book, request)
-    prompt = build_prompt(book, request, source_text)
+    vignette = resolve_vignette(book, request, source_text)
+    prompt = build_prompt(book, request, source_text, vignette=vignette)
+
+    def write_files(
+        command: list[str],
+        *,
+        is_dry_run: bool,
+        schema_checked: bool,
+        job_result: Any | None = None,
+        media_url: str | None = None,
+        api_metadata: dict[str, Any] | None = None,
+    ) -> tuple[Path, Path]:
+        return write_prompt_files(
+            book,
+            request,
+            source_path,
+            prompt,
+            command,
+            image_path,
+            dry_run=is_dry_run,
+            schema_checked=schema_checked,
+            job_result=job_result,
+            media_url=media_url,
+            api_metadata=api_metadata,
+            vignette=vignette,
+        )
+
     backend = selected_backend(request)
     planned_command = (
         ["node", str(higgsfield_api_adapter_path())]
@@ -1183,14 +1406,9 @@ def generate_illustration(
     api_metadata: dict[str, Any] = {}
 
     if has_moodboard(request) and not has_programmatic_reference(request):
-        write_prompt_files(
-            book,
-            request,
-            source_path,
-            prompt,
+        write_files(
             planned_command,
-            image_path,
-            dry_run=dry_run,
+            is_dry_run=dry_run,
             schema_checked=False,
             api_metadata={
                 "web_ui_moodboard_id": request.moodboard,
@@ -1247,27 +1465,17 @@ def generate_illustration(
                 build_higgsfield_api_payload(request, prompt, dry_run=True)
             )
             api_metadata["api_dry_run_request"] = validation.get("request_payload")
-        prompt_md, meta_json = write_prompt_files(
-            book,
-            request,
-            source_path,
-            prompt,
+        prompt_md, meta_json = write_files(
             planned_command,
-            image_path,
-            dry_run=True,
+            is_dry_run=True,
             schema_checked=False,
             api_metadata=api_metadata,
         )
         return prompt_md, meta_json, image_path
 
-    prompt_md, meta_json = write_prompt_files(
-        book,
-        request,
-        source_path,
-        prompt,
+    prompt_md, meta_json = write_files(
         planned_command,
-        image_path,
-        dry_run=False,
+        is_dry_run=False,
         schema_checked=False,
         api_metadata=api_metadata,
     )
@@ -1277,14 +1485,9 @@ def generate_illustration(
                 build_higgsfield_api_payload(request, prompt, dry_run=True)
             )
             api_metadata["api_dry_run_request"] = validation.get("request_payload")
-            write_prompt_files(
-                book,
-                request,
-                source_path,
-                prompt,
+            write_files(
                 planned_command,
-                image_path,
-                dry_run=False,
+                is_dry_run=False,
                 schema_checked=True,
                 api_metadata=api_metadata,
             )
@@ -1305,28 +1508,18 @@ def generate_illustration(
             request.soul_id,
         )
         if not media_url:
-            write_prompt_files(
-                book,
-                request,
-                source_path,
-                prompt,
+            write_files(
                 planned_command,
-                image_path,
-                dry_run=False,
+                is_dry_run=False,
                 schema_checked=True,
                 job_result=api_result,
                 api_metadata=api_metadata,
             )
             raise SystemExit("Higgsfield-API-Antwort enthaelt keine Medien-URL")
         download_url(media_url, image_path, image_processing)
-        write_prompt_files(
-            book,
-            request,
-            source_path,
-            prompt,
+        write_files(
             planned_command,
-            image_path,
-            dry_run=False,
+            is_dry_run=False,
             schema_checked=True,
             job_result=api_result,
             media_url=media_url,
@@ -1338,40 +1531,25 @@ def generate_illustration(
     moodboard_flag = None
     validate_higgsfield_available()
     command = build_higgsfield_command(request, prompt, moodboard_flag)
-    prompt_md, meta_json = write_prompt_files(
-        book,
-        request,
-        source_path,
-        prompt,
+    prompt_md, meta_json = write_files(
         command,
-        image_path,
-        dry_run=False,
+        is_dry_run=False,
         schema_checked=True,
     )
     job_result = run_json_command(command)
     media_url = find_first_url(job_result)
     if not media_url:
-        write_prompt_files(
-            book,
-            request,
-            source_path,
-            prompt,
+        write_files(
             command,
-            image_path,
-            dry_run=False,
+            is_dry_run=False,
             schema_checked=True,
             job_result=job_result,
         )
         raise SystemExit("Higgsfield-Antwort enthaelt keine Medien-URL")
     download_url(media_url, image_path, image_processing)
-    write_prompt_files(
-        book,
-        request,
-        source_path,
-        prompt,
+    write_files(
         command,
-        image_path,
-        dry_run=False,
+        is_dry_run=False,
         schema_checked=True,
         job_result=job_result,
         media_url=media_url,
@@ -1427,6 +1605,24 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         action="store_true",
         help="Prueft CLI-Schema und Moodboard-Parameter ohne Bildgenerierung",
     )
+    parser.add_argument(
+        "--vignette-provider",
+        choices=("auto", "none", "openrouter", "off"),
+        help=(
+            "Vignette (bildtragender Moment) statt Legacy-Auszug; Default aus "
+            "book.yaml higgsfield.vignette.provider, sonst off. auto nutzt eine "
+            "vorhandene Vignette, sonst die Heuristik ohne API-Kosten."
+        ),
+    )
+    parser.add_argument(
+        "--vignette-model",
+        help="Modell fuer --vignette-provider openrouter (Default: gemini-2.5-flash-lite)",
+    )
+    parser.add_argument(
+        "--vignette-overwrite",
+        action="store_true",
+        help="Vignette neu erzeugen, auch wenn bereits eine JSON-Datei existiert",
+    )
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--overwrite", action="store_true")
     return parser.parse_args(argv)
@@ -1474,14 +1670,23 @@ def main(argv: list[str] | None = None) -> int:
             else float(defaults.get("soul_strength", 1.0))
         ),
         allow_paid_generation=bool(args.allow_paid_generation),
+        vignette_provider=args.vignette_provider or defaults["vignette_provider"],
+        vignette_model=args.vignette_model or defaults.get("vignette_model"),
+        vignette_overwrite=bool(args.vignette_overwrite),
     )
     prompt_md, meta_json, image_path = generate_illustration(
         request,
         dry_run=bool(args.dry_run),
     )
+    meta = json.loads(meta_json.read_text(encoding="utf-8"))
+    if meta.get("vignette_path"):
+        print(f"Vignette: {meta['vignette_path']}")
     print(f"Prompt: {prompt_md}")
     print(f"Metadaten: {meta_json}")
     if args.dry_run:
+        print()
+        print(prompt_md.read_text(encoding="utf-8").strip())
+        print()
         print(f"Geplantes Zielbild: {image_path}")
     else:
         print(f"Zielbild: {image_path}")

@@ -80,13 +80,17 @@ DE-Original): 34/34 Kapitel, Gate ERROR=0/WARNING=0/INFO=0, Buch-EPUB
 Kapitelbildern 001-003. Titelei (Rechte, Untertitel, Zusammenfassung,
 Autorenbio, Impressum) ist gefüllt; siehe `docs/HANDOVER.md`.
 Bild-Befund 2026-11-10 (`die-sprache-des-anderen` 001-003 neu, aber fast
-identisch): Der Prompt wird vom buchweiten `illustration_setting`
+identisch): Der Prompt wurde vom buchweiten `illustration_setting`
 (~2.500 Zeichen, immer gleich) dominiert; Figurenblock (~300 Zeichen) und
-Szenenauszug gehen unter. Figurenauswahl ist seit 2026-11-10 auf
-Haeufigkeit + Berto-Trennung umgestellt (`tools/generate_illustration.py`),
-das allein aendert die Bilder kaum. Naechste Schritte siehe
-`docs/offene-punkte.md` Punkt 14 (Setting kuerzen, Figuren/Szene nach vorn,
-je Kapitel `--dry-run` pruefen, erst dann echt erzeugen).
+Szenenauszug gingen unter. Seit 2026-11-10 baut
+`tools/generate_illustration.py` den Prompt aus einer **Vignette**
+(`work/prompts/higgsfield/vignettes/<kapitel>.json`): Moment, Figuren,
+Gegenstaende/Ausschnitt, dann ein kurzer Stilanker. Die Kulisse kommt aus dem
+Moment, nicht aus einer Ortsliste im `book.yaml`; den Moment waehlt
+`--vignette-provider openrouter` (LLM) oder `none` (kostenfreie Heuristik).
+Naechste Schritte siehe `docs/offene-punkte.md` Punkt 14 (Dry-Runs 001/003
+abnicken, 2-3 Bilder echt, dann 004-034); Details in
+`docs/higgsfield-integration.md`.
 Der Lotse von Ruegen (`books/der-lotse-von-ruegen/`, Timo Verita,
 DE-Original): 33/33 Kapitel, Gate ERROR=0/WARNING=0/INFO=20, Cover +
 Kapitelbilder 001-010; Regal-Freigabe `website.enabled: true`
@@ -582,18 +586,26 @@ wird es still uebersprungen.
 Higgsfield-CLI. Die Defaults (Modell, Moodboard-UUID, Seitenverhaeltnis,
 Qualitaet) stehen pro Buch in `book.yaml` unter `higgsfield`.
 
-Der Prompt an Higgsfield enthaelt automatisch:
+Der Prompt an Higgsfield wird aus der **Vignette** des Kapitels gebaut
+(`work/prompts/higgsfield/vignettes/<kapitel>.json`) und hat vier Teile:
 
-- Einen Auszug aus der jeweiligen DE-Szene (max. 1500 Zeichen).
-- Die Kurzbeschreibung des Buches aus `export.yaml` (`book.description`) als
-  Kontexthinweis – z. B. "altes Aegypten", "Russland" – damit das Modell
-  passende Stimmung und Kulisse waehlt.
-- Visuelle Constraints: epochengerechte Kleidung/Architektur, keine modernen
-  Objekte, keine lesbaren Texte oder Signaturen.
+1. **Moment** – eine Handlung mit Person und Ort.
+2. **Figuren** – nur wer in diesem Moment anwesend ist, mit Handlung und
+   Aussehen (aus der Vignette, sonst `names.yaml`).
+3. **Gegenstaende und Bildausschnitt.**
+4. **Stilanker** – `illustration_setting` (Stil, Licht, Palette, Stimmung,
+   max. 700 Zeichen) und `illustration_world` (Material/Epoche, max. 400
+   Zeichen). Ein Ortskatalog gehoert dort nicht hinein.
 
-Qualitaet ist standardmaessig `1.5k` (Soul 2.0 unterstuetzt `1.5k` und `2k`).
+Den Moment waehlt `--vignette-provider openrouter` (LLM, Bruchteile eines
+Cents pro Kapitel), `none` (kostenfreie Heuristik) oder `auto` (vorhandene
+Vignette, sonst Heuristik). `off` baut den bisherigen Prompt aus
+`illustration_setting` plus den ersten zwei Absaetzen. Default steht in
+`book.yaml` unter `higgsfield.vignette.provider`.
+
 Bestehende Bilder werden nur mit `--overwrite` ersetzt; `--dry-run` zeigt den
-Prompt ohne API-Call an. Details: `docs/higgsfield-integration.md`.
+Prompt ohne API-Call an und schreibt `*-dryrun.md`/`.json`, ohne den echten
+Prompt zu ueberschreiben. Details: `docs/higgsfield-integration.md`.
 
 Ausgaben landen unter:
 

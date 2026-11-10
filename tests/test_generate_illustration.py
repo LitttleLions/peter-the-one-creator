@@ -14,6 +14,15 @@ sys.path.insert(0, str(REPO_ROOT / "tools"))
 
 import generate_illustration as gi  # noqa: E402
 from lib.book_project import find_book, write_yaml  # noqa: E402
+from lib.illustration_vignette import (  # noqa: E402
+    Figure,
+    Vignette,
+    VignetteError,
+    build_heuristic_vignette,
+    ensure_vignette,
+    parse_vignette_payload,
+    vignette_path,
+)
 
 
 class GenerateIllustrationTests(unittest.TestCase):
@@ -638,6 +647,248 @@ class GenerateIllustrationTests(unittest.TestCase):
         run_json.assert_not_called()
         self.assertFalse(diagnostic["schema_checked"])
         self.assertEqual(diagnostic["status"], "cli_missing")
+
+
+CHAPTER_TEXT = (
+    "## Die Ketten an den Kähnen\n\n"
+    "Der Schlamm vor dem Wassertor roch nach altem Schnee und Pferdemist.\n\n"
+    "Raginbert hatte den Zins auf das Holz gelegt, so sagte man am Kai.\n\n"
+    "Ihre drei größten Lastkähne lagen mit fingerdicken Eisenketten am "
+    "Bollwerk, und Isenbart stand oben auf dem Dammweg. »Wer hat euch "
+    "geheißen, mein Holz an die Mauer zu ketten?«, fragte Alda.\n\n"
+    "Der Vogt zuckte die Achseln.\n"
+)
+
+NAMES_YAML = """entries:
+- source: Alda
+  target: Alda
+  aliases: []
+  type: person
+  status: draft
+  visual: 40-jährige Frau in gefettetem Wollmantel
+- source: Raginbert
+  target: Raginbert
+  aliases: []
+  type: person
+  status: draft
+  visual: Grundherr im blauen Mantel mit Fuchspelz
+- source: Isenbart
+  target: Isenbart
+  aliases: []
+  type: person
+  status: draft
+  visual: Vogt im dunkelblauen Wollmantel mit Marderfell
+"""
+
+
+class VignettePromptTests(unittest.TestCase):
+    """Vignetten-Stufe: Moment zuerst, Stil zuletzt, nur anwesende Figuren."""
+
+    def setUp(self) -> None:
+        self.tmp = tempfile.TemporaryDirectory()
+        self.root = Path(self.tmp.name)
+        self.old_repo_root = gi.REPO_ROOT
+        gi.REPO_ROOT = self.root
+        self.addCleanup(self.cleanup)
+        self.book_root = self.root / "books" / "die-sprache-des-anderen"
+        write_yaml(
+            self.book_root / "book.yaml",
+            {
+                "id": "die-sprache-des-anderen",
+                "title": "Die Sprache des Anderen",
+                "author": "Timo Verita",
+                "source_lang": "de",
+                "target_lang": "de",
+                "style_mode": "stil-01-original",
+                "illustration_setting": (
+                    "Cinematic painterly realism, cold winter light."
+                ),
+                "illustration_world": "Wool, linen, iron chains.",
+                "higgsfield": {
+                    "model": "gpt_image_2_5",
+                    "aspect_ratio": "3:4",
+                    "quality": "1k",
+                },
+            },
+        )
+        scene = (
+            self.book_root
+            / "work"
+            / "scenes"
+            / "de"
+            / "stil-01-original"
+            / "001"
+            / "scene-01.md"
+        )
+        scene.parent.mkdir(parents=True, exist_ok=True)
+        scene.write_text(CHAPTER_TEXT, encoding="utf-8")
+        (self.book_root / "names.yaml").write_text(NAMES_YAML, encoding="utf-8")
+
+    def cleanup(self) -> None:
+        gi.REPO_ROOT = self.old_repo_root
+        self.tmp.cleanup()
+
+    def book(self) -> dict:
+        return find_book(self.root, "die-sprache-des-anderen")
+
+    def request(self, **overrides) -> gi.IllustrationRequest:
+        data = {
+            "book_id": "die-sprache-des-anderen",
+            "chapter_id": "001",
+            "scene_number": None,
+            "style": "stil-01-original",
+            "kind": "chapter",
+            "model": "gpt_image_2_5",
+            "moodboard": gi.DEFAULT_MOODBOARD,
+            "images": (),
+            "no_reference": True,
+            "aspect_ratio": "3:4",
+            "quality": "1k",
+            "overwrite": False,
+            "backend": "auto",
+            "moodboard_name": None,
+            "moodboard_strength": 1.0,
+            "soul_id": None,
+            "soul_strength": 1.0,
+            "allow_paid_generation": False,
+        }
+        data.update(overrides)
+        return gi.IllustrationRequest(**data)
+
+    def vignette(self, **overrides) -> Vignette:
+        data = {
+            "chapter": "001",
+            "moment": "Alda packt die Eisenkette am Bug der Schwalbe.",
+            "title": "Die Ketten an den Kähnen",
+            "figures": [
+                Figure(name="Alda", action="Hand um die Kette"),
+                Figure(name="Isenbart", action="hält das gesiegelte Leder"),
+            ],
+            "props": ["Eisenkette", "Pergament mit Wachssiegel"],
+            "composition": "medium shot",
+            "beat": "Konfrontation",
+            "evidence": [2],
+            "source": "manual",
+        }
+        data.update(overrides)
+        return Vignette(**data)
+
+    def test_prompt_puts_moment_first_and_style_last(self) -> None:
+        prompt = gi.build_prompt(
+            self.book(), self.request(), CHAPTER_TEXT, vignette=self.vignette()
+        )
+
+        self.assertTrue(
+            prompt.startswith("Alda packt die Eisenkette am Bug der Schwalbe.")
+        )
+        self.assertIn("Figuren: Alda", prompt)
+        self.assertIn("Isenbart", prompt)
+        self.assertIn("Gegenstände: Eisenkette", prompt)
+        self.assertIn("Bildausschnitt: medium shot", prompt)
+        self.assertTrue(prompt.lower().endswith("cold winter light."))
+        # Kein Tracking-Header und keine Figurenliste aus dem Glossar.
+        self.assertNotIn("Chapter 001", prompt)
+        self.assertNotIn("Raginbert", prompt)
+        self.assertNotIn("Fuchspelz", prompt)
+
+    def test_prompt_stays_short_with_default_anchors(self) -> None:
+        prompt = gi.build_prompt(
+            self.book(), self.request(), CHAPTER_TEXT, vignette=self.vignette()
+        )
+
+        self.assertLess(len(prompt), 900)
+
+    def test_style_anchor_is_capped_at_budget(self) -> None:
+        book = self.book()
+        book["illustration_setting"] = "A" * 5000 + " ENDMARKER"
+        prompt = gi.build_prompt(
+            book, self.request(), CHAPTER_TEXT, vignette=self.vignette()
+        )
+
+        self.assertNotIn("ENDMARKER", prompt)
+        self.assertLessEqual(
+            len(prompt), len(self.vignette().moment) + gi.PROMPT_STYLE_LIMIT + 400
+        )
+
+    def test_legacy_prompt_keeps_tracking_header_without_vignette(self) -> None:
+        prompt = gi.build_prompt(self.book(), self.request(), CHAPTER_TEXT)
+
+        self.assertIn("Chapter 001.", prompt)
+        self.assertIn("Cinematic painterly realism", prompt)
+
+    def test_heuristic_vignette_prefers_paragraph_matching_title(self) -> None:
+        vignette = build_heuristic_vignette(
+            text=CHAPTER_TEXT,
+            entries=[
+                {"source": "Alda", "target": "Alda", "type": "person"},
+                {"source": "Raginbert", "target": "Raginbert", "type": "person"},
+                {"source": "Isenbart", "target": "Isenbart", "type": "person"},
+            ],
+            chapter_id="001",
+        )
+
+        self.assertEqual(vignette.evidence, [2])
+        self.assertIn("Eisenketten", vignette.moment)
+        names = [figure.name for figure in vignette.figures]
+        self.assertIn("Isenbart", names)
+        self.assertIn("Alda", names)
+        # Raginbert wird im Kapitel nur erwaehnt, nicht gezeigt.
+        self.assertNotIn("Raginbert", names)
+        self.assertEqual(vignette.source, "heuristic")
+        self.assertTrue(vignette.text_sha256)
+
+    def test_vignette_payload_requires_moment_and_clips_long_text(self) -> None:
+        with self.assertRaises(VignetteError):
+            parse_vignette_payload({"figures": []}, chapter_id="001")
+
+        vignette = parse_vignette_payload(
+            {"moment": "Wort " * 200, "composition": "close-up"},
+            chapter_id="001",
+        )
+        self.assertLessEqual(len(vignette.moment), 300)
+
+    def test_ensure_vignette_writes_json_and_reuses_it(self) -> None:
+        book = self.book()
+        text = CHAPTER_TEXT
+        first = ensure_vignette(
+            repo_root=self.root, book=book, chapter_id="001", text=text,
+            provider="auto",
+        )
+        path = vignette_path(self.root / book["work_dir"], "001")
+        self.assertTrue(path.exists())
+
+        second = ensure_vignette(
+            repo_root=self.root, book=book, chapter_id="001", text=text,
+            provider="auto",
+        )
+        self.assertEqual(first.moment, second.moment)
+        payload = json.loads(path.read_text(encoding="utf-8"))
+        self.assertEqual(payload["moment"], first.moment)
+        self.assertEqual(payload["source"], "heuristic")
+
+    def test_dry_run_uses_vignette_and_keeps_real_prompt_file(self) -> None:
+        request = self.request(vignette_provider="auto")
+        prompt_path, meta_path, image_path = gi.generate_illustration(
+            request, dry_run=True
+        )
+
+        self.assertTrue(prompt_path.name.endswith("-dryrun.md"))
+        self.assertFalse((prompt_path.parent / prompt_path.name.replace("-dryrun", "")).exists())
+        self.assertFalse(image_path.exists())
+        meta = json.loads(meta_path.read_text(encoding="utf-8"))
+        self.assertEqual(meta["prompt_builder"], "vignette")
+        self.assertTrue(Path(meta["vignette_path"]).exists())
+
+    def test_vignette_off_keeps_legacy_prompt_builder(self) -> None:
+        prompt_path, meta_path, _ = gi.generate_illustration(
+            self.request(vignette_provider="off"), dry_run=True
+        )
+
+        meta = json.loads(meta_path.read_text(encoding="utf-8"))
+        self.assertEqual(meta["prompt_builder"], "legacy")
+        prompt = prompt_path.read_text(encoding="utf-8")
+        self.assertIn("Chapter 001.", prompt)
+        self.assertNotIn("Vignette", prompt)
 
 
 if __name__ == "__main__":

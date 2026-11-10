@@ -1,0 +1,105 @@
+{
+  "book": "die-sprache-des-anderen",
+  "chapter": "002",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\scenes\\de\\stil-01-original\\002\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\002-chapter-stil-01-original-dryrun.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\assets\\chapter\\chapter-002.jpg",
+  "dry_run": true,
+  "schema_checked": false,
+  "command": [
+    "higgsfield",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Alda steht Raginbert gegenüber, der auf einem umgestürzten Klotz steht, während Otwin hinter ihm kauert. Figuren: Alda — steht mit gefalteten Händen, die Finger um ein Kerbholz geklammert, blickt Raginbert direkt an — fleckiger Wollmantel, grobe Wollkappe, wetterhartes Gesicht, zäher Blick; Raginbert — blickt mit kaltem Ausdruck von Alda weg, seine Hand ruht auf dem Griff seines Mantels — blauer Mantel mit Fuchspelzfutter, Silberbeschläge am Zaumzeug, glatte Züge, kalter Blick; Otwin — duckte sich halb im Schatten, hält ein gefaltetes Kalbsleder vor sich — dunkle, abgewetzte Kutte, eingefallene Wangen, bläuliche Kälte, klebende Tintenspuren an Fingern. Gegenstände: umgestürzter Eichenklotz, Kerbholz, Kalbsleder (Pergament), Bronze-Fibel. Bildausschnitt: medium shot. Early medieval Frankish material world: wool, linen and leather clothing, felt caps, mail and conical helmets, wax tablets, parchment and calfskin deeds with wax seals, oak, tarred rope, iron. Cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light. Mid-9th century Carolingian winter: cold grey-blue daylight, wet slate grey, mud brown, oak dark, iron black, snow white, dull ochre and dark red, pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle. Clear central figure or central dramatic situation, strong readable composition.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": null,
+  "job_result": null,
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\vignettes\\002.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "002",
+    "title": "Der Eid der Könige",
+    "moment": "Alda steht Raginbert gegenüber, der auf einem umgestürzten Klotz steht, während Otwin hinter ihm kauert.",
+    "figures": [
+      {
+        "name": "Alda",
+        "action": "steht mit gefalteten Händen, die Finger um ein Kerbholz geklammert, blickt Raginbert direkt an.",
+        "look": "fleckiger Wollmantel, grobe Wollkappe, wetterhartes Gesicht, zäher Blick"
+      },
+      {
+        "name": "Raginbert",
+        "action": "blickt mit kaltem Ausdruck von Alda weg, seine Hand ruht auf dem Griff seines Mantels.",
+        "look": "blauer Mantel mit Fuchspelzfutter, Silberbeschläge am Zaumzeug, glatte Züge, kalter Blick"
+      },
+      {
+        "name": "Otwin",
+        "action": "duckte sich halb im Schatten, hält ein gefaltetes Kalbsleder vor sich.",
+        "look": "dunkle, abgewetzte Kutte, eingefallene Wangen, bläuliche Kälte, klebende Tintenspuren an Fingern"
+      }
+    ],
+    "props": [
+      "umgestürzter Eichenklotz",
+      "Kerbholz",
+      "Kalbsleder (Pergament)",
+      "Bronze-Fibel"
+    ],
+    "composition": "medium shot",
+    "beat": "Konfrontation",
+    "evidence": [
+      4,
+      5,
+      6,
+      7,
+      14,
+      15
+    ],
+    "source": "openrouter",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-10T10:30:25Z",
+    "text_sha256": "44bc8c839358d5b1",
+    "usage": {
+      "prompt_tokens": 5566,
+      "completion_tokens": 381,
+      "total_tokens": 5947,
+      "cost": 0.000709,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.000709,
+        "upstream_inference_prompt_cost": 0.0005566,
+        "upstream_inference_completions_cost": 0.0001524
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+}

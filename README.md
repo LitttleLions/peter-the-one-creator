@@ -700,6 +700,34 @@ uebersprungen, solange `assets/covers/logo.png` fehlt. Die Masse folgen den
 Amazon-Standardmodulen, stehen aber im Plan – vor dem Upload gegen die
 aktuelle Vorgabe pruefen.
 
+**Begleiteter Fahrer.** `tools/aplus_drive.py` bedient das Formular, aber nie
+blind: erst Schnappschuss, dann Plan mit Pruefsummen, dann Ausfuehrung mit
+Journal.
+
+```bash
+python tools/aplus_drive.py login                    # einmalig, Sitzung nach .kdp-session/
+python tools/aplus_drive.py snapshot --url <A+-Seite>
+python tools/aplus_drive.py plan --actions actions.json --out plan.json
+python tools/aplus_drive.py execute --plan plan.json --journal journal.jsonl
+```
+
+Regeln im Code, nicht in der Disziplin: nur Amazon-Hosts als Ziel,
+Passwort-/Steuer-/Bank-/Kontaktfelder werden nie gefuellt, Uploads muessen
+dieselbe SHA-256 haben wie beim Planen, Klicks auf Speichern oder
+Veroeffentlichen brauchen `--allow-submit`, und jede Aktion landet als JSONL
+im Journal (ohne Werte sensibler Felder).
+
+```json
+{
+  "url": "https://kdp.amazon.com/...",
+  "steps": [
+    {"action": "fill", "label": "Headline", "value": "Die Sprache des Anderen"},
+    {"action": "upload", "label": "Bild 1", "path": "books/<id>/work/aplus/assets/hero-hero-970x600.jpg"},
+    {"action": "click", "label": "Speichern"}
+  ]
+}
+```
+
 ## Lokaler Start unter Windows
 
 Doppelklick auf `dev.cmd` im Repository-Root startet das Dashboard ohne IDE.

@@ -375,6 +375,13 @@ class PrintHtmlTests(unittest.TestCase):
         self.assertIn("barcode-reserve", html)
         self.assertIn("Motivatier Classics", html)
         self.assertIn("class='spine'", html)
+        # Ein einzelnes "}}" beendet die Regel und laesst die naechste Regel
+        # fallen: der Ruecken verlor dann Breite und die Zentrierung, das
+        # Vorderseitenbild wurde gestaucht (Befund 2026-11-10).
+        self.assertNotIn("}}", html)
+        self.assertIn(".spine span", html)
+        self.assertIn("rotate(-90deg)", html)
+        self.assertIn("width: 0.5in", html)
 
     def test_preview_html_still_includes_cover(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:

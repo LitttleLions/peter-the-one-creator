@@ -163,5 +163,12 @@ amazon:
     enabled: true
     price_eur: "4.99"
     price_usd: "5.99"
+    # Kategorien im Kindle-Shop sind eine eigene Liste ("Kindle-Shop > ...").
+    # Pfade hier eintragen, sobald sie im KDP-Picker gewaehlt sind; ohne
+    # Eintrag greift die gemeinsame Liste oben.
+    categories: []
   paperback:
     enabled: true
+    # Buchhandel-Kategorien ("Buecher > ..."), ebenfalls erst nach der Wahl
+    # im Print-Formular eintragen.
+    categories: []

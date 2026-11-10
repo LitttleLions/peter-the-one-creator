@@ -44,9 +44,23 @@ Coverlauf gestellt); im KDP-Formular die Reihennummer 2 eintragen.
 
 ## Kategorien (KDP-Dropdown, Klartext)
 
-1. Belletristik > Historische Romane
-2. Belletristik > Historischer Roman > Mittelalter
-3. Belletristik > Familienleben
+Kindle-Shop und Buchhandel führen **getrennte Listen**; im eBook-Picker stehen
+Pfade wie „Kindle-Shop > …", im Taschenbuch „Bücher > …". Deshalb gibt es im
+YAML `amazon.categories` (gemeinsamer Rückfall) und je Format
+`amazon.kindle.categories` / `amazon.paperback.categories`. Die gewählten
+Pfade werden dort eingetragen, sobald sie im Picker bestätigt sind – nicht
+vorher raten.
+
+Ablauf: **erst das eBook**, Kategorien im Kindle-Picker über die Suche
+(„Historische Romane", „Mittelalter", „Familienleben") wählen, die drei
+gezeigten Pfade hier notieren. Nach dem Freischalten dann das Taschenbuch mit
+der Buchhandels-Liste.
+
+Vorschlag für beide Formate:
+
+1. Historische Romane
+2. Historischer Roman → Mittelalter
+3. Familienleben
 
 ## Keywords (7 Felder)
 

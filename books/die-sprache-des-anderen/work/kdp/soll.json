@@ -1,0 +1,62 @@
+{
+  "marketplace": "DE",
+  "title": "Die Sprache des Anderen",
+  "subtitle": "Ein Straßburger Roman aus dem 9. Jahrhundert",
+  "primaryAuthor": {
+    "firstName": "Timo",
+    "lastName": "Verita"
+  },
+  "contributors": [
+    {
+      "role": "Translator",
+      "firstName": "",
+      "lastName": "Motivatier Classics"
+    },
+    {
+      "role": "Editor",
+      "firstName": "",
+      "lastName": "Motivatier Classics"
+    }
+  ],
+  "publisherLabel": "Motivatier Stiftung",
+  "language": "German",
+  "description": "Zwei Könige stehen vor Straßburg, und dazwischen liegt eine Frau mit fünf Kähnen. Alda führt den Fuhrbetrieb ihres verstorbenen Mannes weiter – und schuldet dem Grundherrn Raginbert dreißig Pfund Silber, fällig am Martinstag. Bis dahin will er Schiff und Vieh, bis dahin will er ihr Haus.\n\nDoch Raginbert ist nur die Hand, die das Unrecht vollzieht. Die eigentliche Macht liegt beim Wort: in der lateinischen Urkunde, die Alda nicht lesen kann, im Bannrecht des Heerbanns, in Listen, die über ihr Leben verfügen. Um zu überleben, braucht sie genau das, was ihr fehlt – einen Schreiber, einen Weg über die Zaberner Steige, ein Bündnis der Fuhrleute und einen Handel, der größer ist als die Schulden.\n\nEin historischer Roman über Arbeit und Schulden im 9. Jahrhundert, über die Sprache der Herrschenden und die stille Sprache derer, die sie nicht beherrschen – und über einen Jungen, der lesen lernt, weil seine Mutter den Preis dafür bezahlt hat.",
+  "isPublicDomain": false,
+  "isAdultContent": false,
+  "keywords": [
+    "Historischer Roman 9. Jahrhundert",
+    "Karolinger und Frankenreich",
+    "Straßburg im Mittelalter",
+    "historischer Roman starke Frauen",
+    "Recht und Schrift im Mittelalter",
+    "Familienroman Mittelalter",
+    "deutsche Geschichte 842"
+  ],
+  "categories": [
+    "Belletristik > Historische Romane",
+    "Belletristik > Historischer Roman > Mittelalter",
+    "Belletristik > Familienleben"
+  ],
+  "prices": {
+    "EUR": "4.99",
+    "USD": "5.99"
+  },
+  "asin": "",
+  "formats": {
+    "kindle": {
+      "enabled": true,
+      "title_id": "",
+      "asin": "",
+      "interior_path": "exports/stil-01-original/book/epub/book-die-sprache-des-anderen-stil-01-original-20261110-155537.epub",
+      "cover_path": "assets/covers/cover.jpg"
+    },
+    "paperback": {
+      "enabled": true,
+      "title_id": "",
+      "asin": "",
+      "interior_path": "exports/stil-01-original/book/print/book-die-sprache-des-anderen-stil-01-original-55x85-classic-head-20261110-155553-paperback-interior.pdf",
+      "cover_path": "assets/covers/cover-print.jpg",
+      "wrap_path": "exports/stil-01-original/book/print/book-die-sprache-des-anderen-stil-01-original-55x85-classic-head-20261110-155553-paperback-wrap.pdf"
+    }
+  }
+}

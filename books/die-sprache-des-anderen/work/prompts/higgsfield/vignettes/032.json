@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "chapter": "032",
+  "title": "Die Glocken von Verdun",
+  "moment": "Alda treibt ihre Ochsen mit einem Ruf vorwärts, die Räder reißen sich aus dem Schlamm vor den Mauern von Verdun.",
+  "figures": [
+    {
+      "name": "Alda",
+      "action": "Auf dem Wagen stehend, Peitsche in der Hand, treibt sie die Ochsen an.",
+      "look": "Sehnige Statur, dunkelblondes Haar, kräftige Hände, einfacher Rock."
+    },
+    {
+      "name": "Berto der Sohn",
+      "action": "Steht auf dem Wagen, blickt Alda mit großen Augen an.",
+      "look": "Schmal, hochaufgeschossen, widerspenstiger Haarschopf, schlichter Wollkittel."
+    },
+    {
+      "name": "Gerwin",
+      "action": "Steht neben den Ochsen, hält die Stricke, blickt Alda an.",
+      "look": "Hager, sehnig, zerzaustes Haar, verschlissene Kleidung, Haferhülsen im Bart."
+    }
+  ],
+  "props": [
+    "Zwei Ochsen",
+    "Wagen mit Ladung",
+    "Peitsche",
+    "Leitstrick"
+  ],
+  "composition": "medium shot",
+  "beat": "Aufbruch",
+  "evidence": [
+    41
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T12:09:49Z",
+  "text_sha256": "208ac95d6fb73b34",
+  "usage": {
+    "prompt_tokens": 5142,
+    "completion_tokens": 331,
+    "total_tokens": 5473,
+    "cost": 0.0006466,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0006466,
+      "upstream_inference_prompt_cost": 0.0005142,
+      "upstream_inference_completions_cost": 0.0001324
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

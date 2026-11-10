@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "chapter": "013",
+  "title": "Die Begegnung auf dem Markt",
+  "moment": "Alda steht auf dem Markt von Metz und erkennt ihren Bruder Gerwin in der Kolonne der Trossknechte, der sie mit Entsetzen ansieht.",
+  "figures": [
+    {
+      "name": "Alda",
+      "action": "blickt mit aufgerissenen Augen und offenem Mund auf Gerwin",
+      "look": "Frau, 32, kräftig, dunkelblondes Haar, schlichtes Schurzkleid, hält Halfter in der Faust"
+    },
+    {
+      "name": "Gerwin",
+      "action": "stolpert, blickt Alda mit panischem Entsetzen an, eine Hand ausgestreckt",
+      "look": "Mann, 25, hager, zerzaustes Haar, zerrissener Kittel, dreckige Beine, Kappe tief im Nacken"
+    }
+  ],
+  "props": [
+    "Halfter",
+    "Kornsack",
+    "Pferch"
+  ],
+  "composition": "medium shot",
+  "beat": "Erkennung",
+  "evidence": [
+    25,
+    26,
+    28,
+    31,
+    32,
+    33
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T12:00:26Z",
+  "text_sha256": "000d10d16627905e",
+  "usage": {
+    "prompt_tokens": 7214,
+    "completion_tokens": 292,
+    "total_tokens": 7506,
+    "cost": 0.0008382,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0008382,
+      "upstream_inference_prompt_cost": 0.0007214,
+      "upstream_inference_completions_cost": 0.0001168
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "chapter": "023",
+  "title": "Die Schrift der Knechtschaft",
+  "moment": "Otwin, ein Schreiber, hebt den Kopf, seine Feder tropft Tinte auf das Pergament, als er Alda erkennt.",
+  "figures": [
+    {
+      "name": "Otwin",
+      "action": "blickt auf, die Feder tropft",
+      "look": "eingefallen, Bartstoppeln, rissige Lippen, tintenverschmierte Fingerknöchel, abgewetzter Wollkittel"
+    },
+    {
+      "name": "Alda",
+      "action": "steht vor ihm, ihr Schatten fällt auf das Pergament",
+      "look": "schlammverkrusteter Saum, Ledergurt, Rindsledermantel"
+    }
+  ],
+  "props": [
+    "Pergament",
+    "Feder",
+    "Tintenhorn",
+    "Schandmesser"
+  ],
+  "composition": "medium shot",
+  "beat": "Konfrontation",
+  "evidence": [
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T12:05:51Z",
+  "text_sha256": "aea8cfb9747d26ca",
+  "usage": {
+    "prompt_tokens": 6906,
+    "completion_tokens": 261,
+    "total_tokens": 7167,
+    "cost": 0.000795,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.000795,
+      "upstream_inference_prompt_cost": 0.0006906,
+      "upstream_inference_completions_cost": 0.0001044
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

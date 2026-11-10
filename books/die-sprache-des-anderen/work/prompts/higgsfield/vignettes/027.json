@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "chapter": "027",
+  "title": "Der Zug nach Westen",
+  "moment": "Gerwin, schlammbedeckt und mit rußigen Armen, geht vor dem zerstörten Siedeplatz in die Hocke, um mit dem neunjährigen Berto auf Augenhöhe zu sprechen.",
+  "figures": [
+    {
+      "name": "Gerwin",
+      "action": "geht in die Hocke, seine Augen auf gleicher Höhe mit denen des Jungen",
+      "look": "Schlamm an Waden und Kleidung, Arme von Ruß und Schrammen gezeichnet, zerrissenes Leinenhemd, Wangen eingefallen, aber die Muskeln spannen s"
+    },
+    {
+      "name": "Berto der Sohn",
+      "action": "steht aufrecht, blickt Gerwin forschend an",
+      "look": "kleine Hände, schmaler Körper, ungezügeltes Verlangen, das Holz unter den Sohlen zu spüren"
+    }
+  ],
+  "props": [
+    "zwei Karren mit Rinderhaut überspannt",
+    "Salzkörbe",
+    "Holzgriff eines Schnitzmessers",
+    "Schlamm"
+  ],
+  "composition": "medium shot",
+  "beat": "Schuld",
+  "evidence": [
+    27,
+    28,
+    29
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T12:07:32Z",
+  "text_sha256": "333597ccfd940f2d",
+  "usage": {
+    "prompt_tokens": 5398,
+    "completion_tokens": 316,
+    "total_tokens": 5714,
+    "cost": 0.0006662,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0006662,
+      "upstream_inference_prompt_cost": 0.0005398,
+      "upstream_inference_completions_cost": 0.0001264
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

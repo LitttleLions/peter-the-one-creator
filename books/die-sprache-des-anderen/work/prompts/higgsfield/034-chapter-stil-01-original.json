@@ -1,0 +1,124 @@
+{
+  "book": "die-sprache-des-anderen",
+  "chapter": "034",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\scenes\\de\\stil-01-original\\034\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\034-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\assets\\chapter\\chapter-034.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Alda steht am Rand des Karrens, ihr Sohn Berto sitzt darin und zeichnet mit einem Griffel in Wachs auf einer Tafel. Figuren: Alda — lehnt sich mit den Unterarmen auf die Bordwand, blickt auf die Tafel ihres Sohnes — Etwa 32 Jahre alt, sehnige, kräftige Statur, Dunkelblondes, meist straff zurückgebundenes Haar, markante Wangenknochen, wache graubraune Augen mit frühem Ernst in den Mundwinkeln; Berto der Sohn — sitzt im Karren, konzentriert sich auf das Zeichnen im Wachs — Junge, 9 Jahre, schmal und hochaufgeschossen. Widerspenstiger brauner Haarschopf, große dunkle Augen, kantiges Kinn. Schlichter, ungebleichter Wollkittel. Gegenstände: rechteckige Tafel aus Buchenholz mit Wachsfüllung, eiserner Griffel, Kornsack, Wolldecken. Bildausschnitt: medium shot. Early medieval Frankish material world: wool, linen and leather clothing, felt caps, mail and conical helmets, wax tablets, parchment and calfskin deeds with wax seals, oak, tarred rope, iron. Cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light. Mid-9th century Carolingian winter: cold grey-blue daylight, wet slate grey, mud brown, oak dark, iron black, snow white, dull ochre and dark red, pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle. Clear central figure or central dramatic situation, strong readable composition.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261110_121047_0f23531e-8bd0-4e45-a282-fc252e5e6ddf.png",
+  "job_result": [
+    {
+      "created_at": "2026-11-10T12:10:47.140321Z",
+      "display_name": "GPT Image 2.5",
+      "id": "0f23531e-8bd0-4e45-a282-fc252e5e6ddf",
+      "job_type": "gpt_image_2_5",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261110_121047_0f23531e-8bd0-4e45-a282-fc252e5e6ddf_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "flare",
+        "prompt": "Alda steht am Rand des Karrens, ihr Sohn Berto sitzt darin und zeichnet mit einem Griffel in Wachs auf einer Tafel. Figuren: Alda — lehnt sich mit den Unterarmen auf die Bordwand, blickt auf die Tafel ihres Sohnes — Etwa 32 Jahre alt, sehnige, kräftige Statur, Dunkelblondes, meist straff zurückgebundenes Haar, markante Wangenknochen, wache graubraune Augen mit frühem Ernst in den Mundwinkeln; Berto der Sohn — sitzt im Karren, konzentriert sich auf das Zeichnen im Wachs — Junge, 9 Jahre, schmal und hochaufgeschossen. Widerspenstiger brauner Haarschopf, große dunkle Augen, kantiges Kinn. Schlichter, ungebleichter Wollkittel. Gegenstände: rechteckige Tafel aus Buchenholz mit Wachsfüllung, eiserner Griffel, Kornsack, Wolldecken. Bildausschnitt: medium shot. Early medieval Frankish material world: wool, linen and leather clothing, felt caps, mail and conical helmets, wax tablets, parchment and calfskin deeds with wax seals, oak, tarred rope, iron. Cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light. Mid-9th century Carolingian winter: cold grey-blue daylight, wet slate grey, mud brown, oak dark, iron black, snow white, dull ochre and dark red, pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle. Clear central figure or central dramatic situation, strong readable composition.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261110_121047_0f23531e-8bd0-4e45-a282-fc252e5e6ddf.png",
+      "status": "completed"
+    }
+  ],
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\vignettes\\034.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "034",
+    "title": "Die Straße nach Osten",
+    "moment": "Alda steht am Rand des Karrens, ihr Sohn Berto sitzt darin und zeichnet mit einem Griffel in Wachs auf einer Tafel.",
+    "figures": [
+      {
+        "name": "Alda",
+        "action": "lehnt sich mit den Unterarmen auf die Bordwand, blickt auf die Tafel ihres Sohnes",
+        "look": "grober Linnenkittel, Hände schmal und kräftig, mit frühen Ernst in den Mundwinkeln"
+      },
+      {
+        "name": "Berto der Sohn",
+        "action": "sitzt im Karren, konzentriert sich auf das Zeichnen im Wachs",
+        "look": "Neunjähriger Junge, schmal, widerspenstiger brauner Haarschopf, hält einen eisernen Griffel"
+      }
+    ],
+    "props": [
+      "rechteckige Tafel aus Buchenholz mit Wachsfüllung",
+      "eiserner Griffel",
+      "Kornsack",
+      "Wolldecken"
+    ],
+    "composition": "medium shot",
+    "beat": "Hoffnung",
+    "evidence": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "source": "openrouter",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-10T12:10:46Z",
+    "text_sha256": "ae571940e410d386",
+    "usage": {
+      "prompt_tokens": 5414,
+      "completion_tokens": 364,
+      "total_tokens": 5778,
+      "cost": 0.000687,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.000687,
+        "upstream_inference_prompt_cost": 0.0005414,
+        "upstream_inference_completions_cost": 0.0001456
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+}

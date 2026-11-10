@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "chapter": "019",
+  "title": "Der Verlust des Speichers",
+  "moment": "Alda steht vor Raginbert, der gerade mit einem schweren Eisenkeil das Schloss des Speichers zuschlägt.",
+  "figures": [
+    {
+      "name": "Alda",
+      "action": "steht reglos, Arme vor der Brust verschränkt, blickt Raginbert fest an.",
+      "look": "Robuster Wollstoff, Hände fest in die Brust gepresst."
+    },
+    {
+      "name": "Raginbert",
+      "action": "treibt mit einem Fäustel einen schweren Eisenkeil in das Schlossband des Speichers.",
+      "look": "Grüner Wollmantel mit Fuchsfell, dicke Handschuhe."
+    }
+  ],
+  "props": [
+    "Speichertor",
+    "Eisenkeil",
+    "Fäustel"
+  ],
+  "composition": "medium shot",
+  "beat": "Verlust",
+  "evidence": [
+    29
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T12:03:53Z",
+  "text_sha256": "438181ed1a048c55",
+  "usage": {
+    "prompt_tokens": 7427,
+    "completion_tokens": 241,
+    "total_tokens": 7668,
+    "cost": 0.0008391,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0008391,
+      "upstream_inference_prompt_cost": 0.0007427,
+      "upstream_inference_completions_cost": 9.64e-05
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

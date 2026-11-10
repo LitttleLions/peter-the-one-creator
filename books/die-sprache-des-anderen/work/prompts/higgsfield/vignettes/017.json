@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "chapter": "017",
+  "title": "Die entblößte Hand",
+  "moment": "Alda steht starr vor dem Feuer, ihr Blick auf Otwin gerichtet, der mit Tränen in den Augen und bebenden Lippen zu ihr spricht.",
+  "figures": [
+    {
+      "name": "Alda",
+      "action": "steht starr, blickt Otwin an",
+      "look": "zerzaustes, nasses Haar, schmutzige Kleidung, Axt in der Hand"
+    },
+    {
+      "name": "Otwin",
+      "action": "sitzt im Schmutz, hebt langsam das Gesicht, Augen voller Tränen, Lippen beben",
+      "look": "blasses Gesicht, dunkle, unruhige Augen, Klerikerkutte, Tintenflecken an den Fingern"
+    }
+  ],
+  "props": [
+    "kleines Feuer",
+    "Axt",
+    "nasse Kleidung",
+    "Schreibkapsel"
+  ],
+  "composition": "medium shot",
+  "beat": "Verrat",
+  "evidence": [
+    54,
+    55,
+    56,
+    57,
+    66,
+    67,
+    68
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T12:02:50Z",
+  "text_sha256": "62a466486d010a04",
+  "usage": {
+    "prompt_tokens": 6966,
+    "completion_tokens": 289,
+    "total_tokens": 7255,
+    "cost": 0.0008122,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0008122,
+      "upstream_inference_prompt_cost": 0.0006966,
+      "upstream_inference_completions_cost": 0.0001156
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

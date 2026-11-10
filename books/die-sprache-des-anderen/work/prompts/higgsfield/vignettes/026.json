@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "chapter": "026",
+  "title": "Die Versammlung der Fuhrleute",
+  "moment": "Alda steht vor dem Feuer, hält ein gespaltenes Kerbholz hoch und spricht zu den versammelten Fuhrleuten.",
+  "figures": [
+    {
+      "name": "Alda",
+      "action": "hält ein gespaltenes Kerbholz hoch",
+      "look": "steht vor dem Feuer, das rote Licht zeichnet ihr Gesicht scharf; trägt einen Mantel"
+    }
+  ],
+  "props": [
+    "offenes Holzfeuer in einer Sandsteinschale",
+    "gespaltenes Kerbholz",
+    "derbe Lodenkittel der Männer"
+  ],
+  "composition": "medium shot",
+  "beat": "Trotz",
+  "evidence": [
+    21
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T12:07:08Z",
+  "text_sha256": "777418d43f9487e6",
+  "usage": {
+    "prompt_tokens": 10035,
+    "completion_tokens": 184,
+    "total_tokens": 10219,
+    "cost": 0.0010771,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0010771,
+      "upstream_inference_prompt_cost": 0.0010035,
+      "upstream_inference_completions_cost": 7.36e-05
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

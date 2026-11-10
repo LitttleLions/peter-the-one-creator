@@ -1,0 +1,94 @@
+{
+  "book": "die-sprache-des-anderen",
+  "chapter": "033",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\scenes\\de\\stil-01-original\\033\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\033-chapter-stil-01-original-dryrun.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\assets\\chapter\\chapter-033.jpg",
+  "dry_run": true,
+  "schema_checked": false,
+  "command": [
+    "higgsfield",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Alda steht am Flussufer, Otwin reicht ihr seine Hand, auf die er seine Lippen drückt. Figuren: Alda — steht, blickt stromaufwärts — Etwa 32 Jahre alt, sehnige, kräftige Statur, Dunkelblondes, meist straff zurückgebundenes Haar, markante Wangenknochen, wache graubraune Augen mit frühem Ernst in den Mundwinkeln; Otwin — kniet, küsst Aldas Handfläche — Mann, 29 Jahre, schmale, leicht gebeugte Statur. Blasses, schmales Gesicht, dunkle unruhige Augen, herauswachsende Mönchstonsur im dunkelbraunen Haar. Tintenflecken an den Fingern, blasse Brandnarbe auf dem linken Handrücken. Gegenstände: Lederrolle mit Bleibulle, Flussufer, Korbwagen. Bildausschnitt: medium shot. Early medieval Frankish material world: wool, linen and leather clothing, felt caps, mail and conical helmets, wax tablets, parchment and calfskin deeds with wax seals, oak, tarred rope, iron. Cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light. Mid-9th century Carolingian winter: cold grey-blue daylight, wet slate grey, mud brown, oak dark, iron black, snow white, dull ochre and dark red, pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle. Clear central figure or central dramatic situation, strong readable composition.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": null,
+  "job_result": null,
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\vignettes\\033.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "033",
+    "title": "Der Abschied am Fluss",
+    "moment": "Alda steht am Flussufer, Otwin reicht ihr seine Hand, auf die er seine Lippen drückt.",
+    "figures": [
+      {
+        "name": "Alda",
+        "action": "steht, blickt stromaufwärts",
+        "look": "Frau, etwa 32, sehnig, dunkles Haar zurückgebunden, raue Schürze, Handfläche nach oben erhoben"
+      },
+      {
+        "name": "Otwin",
+        "action": "kniet, küsst Aldas Handfläche",
+        "look": "Mann, 29, blass, schmale Statur, dunkle unruhige Augen, abgetragene Klerikerkutte, hölzernes Schreibfutteral am Gürtel"
+      }
+    ],
+    "props": [
+      "Lederrolle mit Bleibulle",
+      "Flussufer",
+      "Korbwagen"
+    ],
+    "composition": "medium shot",
+    "beat": "Abschied",
+    "evidence": [
+      44
+    ],
+    "source": "openrouter",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-10T12:10:20Z",
+    "text_sha256": "80fa03857df8eb31",
+    "usage": {
+      "prompt_tokens": 6183,
+      "completion_tokens": 257,
+      "total_tokens": 6440,
+      "cost": 0.0007211,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0007211,
+        "upstream_inference_prompt_cost": 0.0006183,
+        "upstream_inference_completions_cost": 0.0001028
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+}

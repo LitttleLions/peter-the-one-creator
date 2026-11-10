@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "chapter": "029",
+  "title": "Die Beschlagnahmung an der Maas",
+  "moment": "Alda steht vor ihrem Karren, das Kerbholz in der Hand, und blickt Raginbert herausfordernd in die Augen, während Gerwin hinter ihr kauert.",
+  "figures": [
+    {
+      "name": "Alda",
+      "action": "hält das Kerbholz erhoben, blickt Raginbert direkt an",
+      "look": "Sehnige Statur, dunkles, zurückgebundenes Haar, ernster Blick, grobes Leinenkleid, Kerbholz in der Hand"
+    },
+    {
+      "name": "Raginbert",
+      "action": "sitzt auf seinem Zugross, blickt auf Alda herab",
+      "look": "Hochgewachsen, breitschultrig, edler Pelzmantel über blauem Gewand, Schwert am Gürtel"
+    },
+    {
+      "name": "Gerwin",
+      "action": "kauert hinter Alda, Schultern hochgezogen, Kinn an Brust",
+      "look": "Hager, zerzaustes Haar, ungepflegter Bart, verschlissene Kleidung"
+    }
+  ],
+  "props": [
+    "Kerbholz",
+    "Zugross",
+    "Karren"
+  ],
+  "composition": "medium shot",
+  "beat": "Konfrontation",
+  "evidence": [
+    31,
+    32,
+    33,
+    15,
+    10,
+    19
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T12:08:32Z",
+  "text_sha256": "09732450c05dd7f9",
+  "usage": {
+    "prompt_tokens": 11280,
+    "completion_tokens": 351,
+    "total_tokens": 11631,
+    "cost": 0.0012684,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0012684,
+      "upstream_inference_prompt_cost": 0.001128,
+      "upstream_inference_completions_cost": 0.0001404
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

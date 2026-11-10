@@ -1,0 +1,97 @@
+{
+  "book": "die-sprache-des-anderen",
+  "chapter": "027",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\scenes\\de\\stil-01-original\\027\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\027-chapter-stil-01-original-dryrun.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\assets\\chapter\\chapter-027.jpg",
+  "dry_run": true,
+  "schema_checked": false,
+  "command": [
+    "higgsfield",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Gerwin, schlammbedeckt und mit rußigen Armen, geht vor dem zerstörten Siedeplatz in die Hocke, um mit dem neunjährigen Berto auf Augenhöhe zu sprechen. Figuren: Gerwin — geht in die Hocke, seine Augen auf gleicher Höhe mit denen des Jungen — Mann, 25 Jahre, mittelgroß, abgemagert und hohlwangig. Dunkelblondes, zerzaustes Haar, ungepflegter Bart, flache Narbe über der Augenbraue, gehetzter Blick. Verschlissene, schmutzige Knechtskleidung aus grober Wolle und Leder; Berto der Sohn — steht aufrecht, blickt Gerwin forschend an — Junge, 9 Jahre, schmal und hochaufgeschossen. Widerspenstiger brauner Haarschopf, große dunkle Augen, kantiges Kinn. Schlichter, ungebleichter Wollkittel. Gegenstände: zwei Karren mit Rinderhaut überspannt, Salzkörbe, Holzgriff eines Schnitzmessers, Schlamm. Bildausschnitt: medium shot. Early medieval Frankish material world: wool, linen and leather clothing, felt caps, mail and conical helmets, wax tablets, parchment and calfskin deeds with wax seals, oak, tarred rope, iron. Cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light. Mid-9th century Carolingian winter: cold grey-blue daylight, wet slate grey, mud brown, oak dark, iron black, snow white, dull ochre and dark red, pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle. Clear central figure or central dramatic situation, strong readable composition.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": null,
+  "job_result": null,
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\vignettes\\027.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "027",
+    "title": "Der Zug nach Westen",
+    "moment": "Gerwin, schlammbedeckt und mit rußigen Armen, geht vor dem zerstörten Siedeplatz in die Hocke, um mit dem neunjährigen Berto auf Augenhöhe zu sprechen.",
+    "figures": [
+      {
+        "name": "Gerwin",
+        "action": "geht in die Hocke, seine Augen auf gleicher Höhe mit denen des Jungen",
+        "look": "Schlamm an Waden und Kleidung, Arme von Ruß und Schrammen gezeichnet, zerrissenes Leinenhemd, Wangen eingefallen, aber die Muskeln spannen s"
+      },
+      {
+        "name": "Berto der Sohn",
+        "action": "steht aufrecht, blickt Gerwin forschend an",
+        "look": "kleine Hände, schmaler Körper, ungezügeltes Verlangen, das Holz unter den Sohlen zu spüren"
+      }
+    ],
+    "props": [
+      "zwei Karren mit Rinderhaut überspannt",
+      "Salzkörbe",
+      "Holzgriff eines Schnitzmessers",
+      "Schlamm"
+    ],
+    "composition": "medium shot",
+    "beat": "Schuld",
+    "evidence": [
+      27,
+      28,
+      29
+    ],
+    "source": "openrouter",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-10T12:07:32Z",
+    "text_sha256": "333597ccfd940f2d",
+    "usage": {
+      "prompt_tokens": 5398,
+      "completion_tokens": 316,
+      "total_tokens": 5714,
+      "cost": 0.0006662,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0006662,
+        "upstream_inference_prompt_cost": 0.0005398,
+        "upstream_inference_completions_cost": 0.0001264
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+}

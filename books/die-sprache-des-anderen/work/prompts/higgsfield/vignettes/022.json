@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "chapter": "022",
+  "title": "Die Beichte des Bruders",
+  "moment": "Alda steht im dunklen, feuchten Krankenzimmer und blickt auf ihren Bruder Gerwin, der im Stroh liegt und weint.",
+  "figures": [
+    {
+      "name": "Alda",
+      "action": "steht, Hände tief in den Ärmeln ihres Fuchsfellkragens vergraben, Blick auf Gerwin gerichtet",
+      "look": "Dunkelblondes Haar, straff zurückgebunden, wache graubraune Augen, Fuchsfellkragen"
+    },
+    {
+      "name": "Gerwin",
+      "action": "liegt im Stroh, zieht die Knie an die Brust, zittert heftig, weint",
+      "look": "Hager, hohlwangig, dunkelbraunes Haar, zerzaust, ungepflegter Bart, abgetragene, schmutzige Knechtskleidung"
+    }
+  ],
+  "props": [
+    "Kienspanhalterung in der Mauerspalte",
+    "fauliges Strohlager",
+    "modriger Lehmboden"
+  ],
+  "composition": "medium shot",
+  "beat": "Offenbarung",
+  "evidence": [
+    12,
+    13,
+    14,
+    16,
+    28,
+    29,
+    30,
+    31
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T12:05:24Z",
+  "text_sha256": "09c0e5b7b8be6fda",
+  "usage": {
+    "prompt_tokens": 6787,
+    "completion_tokens": 339,
+    "total_tokens": 7126,
+    "cost": 0.0008143,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0008143,
+      "upstream_inference_prompt_cost": 0.0006787,
+      "upstream_inference_completions_cost": 0.0001356
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

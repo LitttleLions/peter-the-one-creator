@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "chapter": "033",
+  "title": "Der Abschied am Fluss",
+  "moment": "Alda steht am Flussufer, Otwin reicht ihr seine Hand, auf die er seine Lippen drückt.",
+  "figures": [
+    {
+      "name": "Alda",
+      "action": "steht, blickt stromaufwärts",
+      "look": "Frau, etwa 32, sehnig, dunkles Haar zurückgebunden, raue Schürze, Handfläche nach oben erhoben"
+    },
+    {
+      "name": "Otwin",
+      "action": "kniet, küsst Aldas Handfläche",
+      "look": "Mann, 29, blass, schmale Statur, dunkle unruhige Augen, abgetragene Klerikerkutte, hölzernes Schreibfutteral am Gürtel"
+    }
+  ],
+  "props": [
+    "Lederrolle mit Bleibulle",
+    "Flussufer",
+    "Korbwagen"
+  ],
+  "composition": "medium shot",
+  "beat": "Abschied",
+  "evidence": [
+    44
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T12:10:20Z",
+  "text_sha256": "80fa03857df8eb31",
+  "usage": {
+    "prompt_tokens": 6183,
+    "completion_tokens": 257,
+    "total_tokens": 6440,
+    "cost": 0.0007211,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0007211,
+      "upstream_inference_prompt_cost": 0.0006183,
+      "upstream_inference_completions_cost": 0.0001028
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

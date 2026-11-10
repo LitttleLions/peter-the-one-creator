@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "chapter": "016",
+  "title": "Die Furt im Herbstregen",
+  "moment": "Alda klammert sich verzweifelt an einen Sack Siedesalz, der aus dem gekenterten Wagen gefallen ist, während das weiße Pulver im braunen Flusswasser zerfließt.",
+  "figures": [
+    {
+      "name": "Alda",
+      "action": "stemmt sich gegen die Strömung, klammert sich an einen Sack",
+      "look": "Zerschundene Hände, nasser Wollrock, verzweifelter Ausdruck"
+    }
+  ],
+  "props": [
+    "Sack mit Siedesalz",
+    "braunes Flusswasser",
+    "zerrissene Hanfseile"
+  ],
+  "composition": "medium shot",
+  "beat": "Verlust",
+  "evidence": [
+    41,
+    42,
+    44
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T12:02:22Z",
+  "text_sha256": "aa5cae9a46553be3",
+  "usage": {
+    "prompt_tokens": 6005,
+    "completion_tokens": 205,
+    "total_tokens": 6210,
+    "cost": 0.0006825,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0006825,
+      "upstream_inference_prompt_cost": 0.0006005,
+      "upstream_inference_completions_cost": 8.2e-05
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

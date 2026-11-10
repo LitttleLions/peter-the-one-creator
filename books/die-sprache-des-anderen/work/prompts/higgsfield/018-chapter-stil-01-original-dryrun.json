@@ -1,0 +1,97 @@
+{
+  "book": "die-sprache-des-anderen",
+  "chapter": "018",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\scenes\\de\\stil-01-original\\018\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\018-chapter-stil-01-original-dryrun.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\assets\\chapter\\chapter-018.jpg",
+  "dry_run": true,
+  "schema_checked": false,
+  "command": [
+    "higgsfield",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Alda steht vor dem Karren im kalten Morgenlicht, die Hand auf dem Rad, und blickt Otwin an, der auf dem Boden kauert. Figuren: Alda — steht, Hand auf dem Rad — Etwa 32 Jahre alt, sehnige, kräftige Statur, Dunkelblondes, meist straff zurückgebundenes Haar, markante Wangenknochen, wache graubraune Augen mit frühem Ernst in den Mundwinkeln; Otwin — hockt auf den Fersen, zittert — Mann, 29 Jahre, schmale, leicht gebeugte Statur. Blasses, schmales Gesicht, dunkle unruhige Augen, herauswachsende Mönchstonsur im dunkelbraunen Haar. Tintenflecken an den Fingern, blasse Brandnarbe auf dem linken Handrücken. Gegenstände: Karrenrad, Schlamm, Heidenmauer (im Hintergrund). Bildausschnitt: medium shot. Early medieval Frankish material world: wool, linen and leather clothing, felt caps, mail and conical helmets, wax tablets, parchment and calfskin deeds with wax seals, oak, tarred rope, iron. Cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light. Mid-9th century Carolingian winter: cold grey-blue daylight, wet slate grey, mud brown, oak dark, iron black, snow white, dull ochre and dark red, pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle. Clear central figure or central dramatic situation, strong readable composition.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": null,
+  "job_result": null,
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\vignettes\\018.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "018",
+    "title": "Im kalten Morgenlicht",
+    "moment": "Alda steht vor dem Karren im kalten Morgenlicht, die Hand auf dem Rad, und blickt Otwin an, der auf dem Boden kauert.",
+    "figures": [
+      {
+        "name": "Alda",
+        "action": "steht, Hand auf dem Rad",
+        "look": "Sehnige Statur, dunkles Haar, Arbeitskleidung, schmutzige Wangen"
+      },
+      {
+        "name": "Otwin",
+        "action": "hockt auf den Fersen, zittert",
+        "look": "Schmale Statur, blasses Gesicht, zerissener Mantel, rote Augen"
+      }
+    ],
+    "props": [
+      "Karrenrad",
+      "Schlamm",
+      "Heidenmauer (im Hintergrund)"
+    ],
+    "composition": "medium shot",
+    "beat": "Konfrontation",
+    "evidence": [
+      2,
+      5,
+      6,
+      7
+    ],
+    "source": "openrouter",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-10T12:03:27Z",
+    "text_sha256": "5abf5425c21961c9",
+    "usage": {
+      "prompt_tokens": 6804,
+      "completion_tokens": 241,
+      "total_tokens": 7045,
+      "cost": 0.0007768,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0007768,
+        "upstream_inference_prompt_cost": 0.0006804,
+        "upstream_inference_completions_cost": 9.64e-05
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+}

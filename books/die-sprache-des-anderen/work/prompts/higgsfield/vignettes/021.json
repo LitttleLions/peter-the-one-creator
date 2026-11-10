@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "chapter": "021",
+  "title": "Die Spur im Schnee",
+  "moment": "Alda steht vor Gerwin in der dunklen Holzkammer, sein Schatten fällt über die glimmende Asche des Ofens.",
+  "figures": [
+    {
+      "name": "Alda",
+      "action": "ragt über Gerwin auf, ihr Schatten verdeckt die Glut des Ofens",
+      "look": "Ihr Blick brennt sich in seine Augen, ihre Stimme ist schneidend wie Eis."
+    },
+    {
+      "name": "Gerwin",
+      "action": "kniet im Spänehaufen, sein Rücken stößt gegen Holzscheite",
+      "look": "Hohlwangig, Augen tief und fiebrig, struppiger Bart voller Holzstaub, Hände blutig gerissen."
+    }
+  ],
+  "props": [
+    "glimmende Asche eines Tonofens",
+    "Späne und Rindenmulch",
+    "Holzscheite",
+    "zerrissener Kittel aus rauem Rupfen"
+  ],
+  "composition": "medium shot",
+  "beat": "Konfrontation",
+  "evidence": [
+    31
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T12:05:01Z",
+  "text_sha256": "89f29bff84a69f7f",
+  "usage": {
+    "prompt_tokens": 7962,
+    "completion_tokens": 273,
+    "total_tokens": 8235,
+    "cost": 0.0009054,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0009054,
+      "upstream_inference_prompt_cost": 0.0007962,
+      "upstream_inference_completions_cost": 0.0001092
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

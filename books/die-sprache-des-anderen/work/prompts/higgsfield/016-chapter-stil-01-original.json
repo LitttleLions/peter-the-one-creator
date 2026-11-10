@@ -1,0 +1,113 @@
+{
+  "book": "die-sprache-des-anderen",
+  "chapter": "016",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\scenes\\de\\stil-01-original\\016\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\016-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\assets\\chapter\\chapter-016.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Alda klammert sich verzweifelt an einen Sack Siedesalz, der aus dem gekenterten Wagen gefallen ist, während das weiße Pulver im braunen Flusswasser zerfließt. Figuren: Alda — stemmt sich gegen die Strömung, klammert sich an einen Sack — Etwa 32 Jahre alt, sehnige, kräftige Statur, Dunkelblondes, meist straff zurückgebundenes Haar, markante Wangenknochen, wache graubraune Augen mit frühem Ernst in den Mundwinkeln. Gegenstände: Sack mit Siedesalz, braunes Flusswasser, zerrissene Hanfseile. Bildausschnitt: medium shot. Early medieval Frankish material world: wool, linen and leather clothing, felt caps, mail and conical helmets, wax tablets, parchment and calfskin deeds with wax seals, oak, tarred rope, iron. Cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light. Mid-9th century Carolingian winter: cold grey-blue daylight, wet slate grey, mud brown, oak dark, iron black, snow white, dull ochre and dark red, pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle. Clear central figure or central dramatic situation, strong readable composition.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261110_120223_8947a4cf-de6b-4036-9657-177726293b31.png",
+  "job_result": [
+    {
+      "created_at": "2026-11-10T12:02:23.91093Z",
+      "display_name": "GPT Image 2.5",
+      "id": "8947a4cf-de6b-4036-9657-177726293b31",
+      "job_type": "gpt_image_2_5",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261110_120223_8947a4cf-de6b-4036-9657-177726293b31_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "flare",
+        "prompt": "Alda klammert sich verzweifelt an einen Sack Siedesalz, der aus dem gekenterten Wagen gefallen ist, während das weiße Pulver im braunen Flusswasser zerfließt. Figuren: Alda — stemmt sich gegen die Strömung, klammert sich an einen Sack — Etwa 32 Jahre alt, sehnige, kräftige Statur, Dunkelblondes, meist straff zurückgebundenes Haar, markante Wangenknochen, wache graubraune Augen mit frühem Ernst in den Mundwinkeln. Gegenstände: Sack mit Siedesalz, braunes Flusswasser, zerrissene Hanfseile. Bildausschnitt: medium shot. Early medieval Frankish material world: wool, linen and leather clothing, felt caps, mail and conical helmets, wax tablets, parchment and calfskin deeds with wax seals, oak, tarred rope, iron. Cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light. Mid-9th century Carolingian winter: cold grey-blue daylight, wet slate grey, mud brown, oak dark, iron black, snow white, dull ochre and dark red, pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle. Clear central figure or central dramatic situation, strong readable composition.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261110_120223_8947a4cf-de6b-4036-9657-177726293b31.png",
+      "status": "completed"
+    }
+  ],
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\vignettes\\016.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "016",
+    "title": "Die Furt im Herbstregen",
+    "moment": "Alda klammert sich verzweifelt an einen Sack Siedesalz, der aus dem gekenterten Wagen gefallen ist, während das weiße Pulver im braunen Flusswasser zerfließt.",
+    "figures": [
+      {
+        "name": "Alda",
+        "action": "stemmt sich gegen die Strömung, klammert sich an einen Sack",
+        "look": "Zerschundene Hände, nasser Wollrock, verzweifelter Ausdruck"
+      }
+    ],
+    "props": [
+      "Sack mit Siedesalz",
+      "braunes Flusswasser",
+      "zerrissene Hanfseile"
+    ],
+    "composition": "medium shot",
+    "beat": "Verlust",
+    "evidence": [
+      41,
+      42,
+      44
+    ],
+    "source": "openrouter",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-10T12:02:22Z",
+    "text_sha256": "aa5cae9a46553be3",
+    "usage": {
+      "prompt_tokens": 6005,
+      "completion_tokens": 205,
+      "total_tokens": 6210,
+      "cost": 0.0006825,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0006825,
+        "upstream_inference_prompt_cost": 0.0006005,
+        "upstream_inference_completions_cost": 8.2e-05
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+}

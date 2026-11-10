@@ -1,0 +1,101 @@
+{
+  "book": "die-sprache-des-anderen",
+  "chapter": "030",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\scenes\\de\\stil-01-original\\030\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\030-chapter-stil-01-original-dryrun.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\assets\\chapter\\chapter-030.jpg",
+  "dry_run": true,
+  "schema_checked": false,
+  "command": [
+    "higgsfield",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Alda und Otwin stehen am Flussufer, ihre Gesichter nah beieinander, während Alda Otwin am Kragen packt und ihm ihre Entscheidung mitteilt. Figuren: Alda — packt Otwin am Kragen und zieht ihn zu sich heran, ihr Gesicht ist entschlossen — Etwa 32 Jahre alt, sehnige, kräftige Statur, Dunkelblondes, meist straff zurückgebundenes Haar, markante Wangenknochen, wache graubraune Augen mit frühem Ernst in den Mundwinkeln; Otwin — wird von Alda am Kragen gepackt, sein Blick ist fiebrig und verzweifelt, dann resigniert — Mann, 29 Jahre, schmale, leicht gebeugte Statur. Blasses, schmales Gesicht, dunkle unruhige Augen, herauswachsende Mönchstonsur im dunkelbraunen Haar. Tintenflecken an den Fingern, blasse Brandnarbe auf dem linken Handrücken. Gegenstände: Holzrad des Karrens, Kerbhölzer, Wachstafel. Bildausschnitt: medium shot. Early medieval Frankish material world: wool, linen and leather clothing, felt caps, mail and conical helmets, wax tablets, parchment and calfskin deeds with wax seals, oak, tarred rope, iron. Cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light. Mid-9th century Carolingian winter: cold grey-blue daylight, wet slate grey, mud brown, oak dark, iron black, snow white, dull ochre and dark red, pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle. Clear central figure or central dramatic situation, strong readable composition.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": null,
+  "job_result": null,
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\vignettes\\030.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "030",
+    "title": "Der Plan am Flussufer",
+    "moment": "Alda und Otwin stehen am Flussufer, ihre Gesichter nah beieinander, während Alda Otwin am Kragen packt und ihm ihre Entscheidung mitteilt.",
+    "figures": [
+      {
+        "name": "Alda",
+        "action": "packt Otwin am Kragen und zieht ihn zu sich heran, ihr Gesicht ist entschlossen.",
+        "look": "kräftige Statur, dunkles Haar zurückgebunden, schmalen Hände, grober Wollmantel."
+      },
+      {
+        "name": "Otwin",
+        "action": "wird von Alda am Kragen gepackt, sein Blick ist fiebrig und verzweifelt, dann resigniert.",
+        "look": "schmale, leicht gebeugte Statur, blasses Gesicht, dunkle unruhige Augen, abgetragene dunkle Klerikerkutte, Tintenflecken an Fingern."
+      }
+    ],
+    "props": [
+      "Holzrad des Karrens",
+      "Kerbhölzer",
+      "Wachstafel"
+    ],
+    "composition": "medium shot",
+    "beat": "Entscheidung",
+    "evidence": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "source": "openrouter",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-10T12:08:57Z",
+    "text_sha256": "35270f4dd1d752e5",
+    "usage": {
+      "prompt_tokens": 6953,
+      "completion_tokens": 342,
+      "total_tokens": 7295,
+      "cost": 0.0008321,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0008321,
+        "upstream_inference_prompt_cost": 0.0006953,
+        "upstream_inference_completions_cost": 0.0001368
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+}

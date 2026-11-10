@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "chapter": "028",
+  "title": "Das Lager vor Verdun",
+  "moment": "Alda, eine Frau von etwa 32 Jahren, steht auf dem Bock ihres Karrens vor einem Stadttor und konfrontiert einen zöllnerischen Beamten und einen Kriegsknecht, die sich streiten.",
+  "figures": [
+    {
+      "name": "Alda",
+      "action": "steht aufrecht, blickt fest auf die beiden Männer, eine Hand am Zügel, die andere leicht erhoben, um zu sprechen",
+      "look": "ca. 32 Jahre, sehnige Statur, dunkles, zurückgebundenes Haar, wache graubraune Augen, einfache Kleidung, lederne Fausthandschuhe"
+    },
+    {
+      "name": "Zöllner",
+      "action": "steht auf einem umgestürzten Quader, hält eine Holztafel, gestikuliert wild, blickt abwechselnd zum Kriegsknecht und zu Alda",
+      "look": "blauer Wams, nasal sprechend"
+    },
+    {
+      "name": "Kriegsknecht",
+      "action": "steht breitbeinig, hält einen Streitkolben lässig auf der Schulter, blickt zornig auf den Zöllner",
+      "look": "Kettenhemd, breitschultrig, Alamanne"
+    }
+  ],
+  "props": [
+    "Karren mit Salzfässern",
+    "Holztafel des Zöllners",
+    "Streitkolben des Kriegsknechts",
+    "Stadttor"
+  ],
+  "composition": "medium shot",
+  "beat": "Konfrontation",
+  "evidence": [
+    28,
+    29,
+    30,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T12:08:04Z",
+  "text_sha256": "203e0ce89c62df3e",
+  "usage": {
+    "prompt_tokens": 7084,
+    "completion_tokens": 436,
+    "total_tokens": 7520,
+    "cost": 0.0008828,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0008828,
+      "upstream_inference_prompt_cost": 0.0007084,
+      "upstream_inference_completions_cost": 0.0001744
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

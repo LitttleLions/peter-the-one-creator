@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "chapter": "031",
+  "title": "Das Grafengericht von Verdun",
+  "moment": "Alda wirft zwei rostige Eisenschlüssel auf den Schöffentisch, die mit einem scheppernden Geräusch auf dem Eichenholz aufschlagen.",
+  "figures": [
+    {
+      "name": "Alda",
+      "action": "wirft die Schlüssel",
+      "look": "Hände ruhen ruhig vor der Schürze, Daumen in den derben Wollstoff gehakt. Ihre Stimme ist fest."
+    }
+  ],
+  "props": [
+    "rostige Eisenschlüssel",
+    "Schöffentisch",
+    "Eichenholz",
+    "Wachstafeln des Schreibers"
+  ],
+  "composition": "medium shot",
+  "beat": "Konfrontation",
+  "evidence": [
+    11
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T12:09:24Z",
+  "text_sha256": "bbc1b1b47bd8fc7b",
+  "usage": {
+    "prompt_tokens": 10190,
+    "completion_tokens": 188,
+    "total_tokens": 10378,
+    "cost": 0.0010942,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0010942,
+      "upstream_inference_prompt_cost": 0.001019,
+      "upstream_inference_completions_cost": 7.52e-05
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

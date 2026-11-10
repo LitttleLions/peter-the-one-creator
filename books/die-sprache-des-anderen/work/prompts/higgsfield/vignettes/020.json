@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "chapter": "020",
+  "title": "Die Boten der Teilung",
+  "moment": "Alda steht im Schatten der römischen Mauer und beobachtet Raginbert, der vor dem Grafenhof mit einem Schreiber spricht.",
+  "figures": [
+    {
+      "name": "Alda",
+      "action": "steht, beobachtet",
+      "look": "steht im Schatten, Korb unter dem Arm, Finger taub vor Kälte"
+    },
+    {
+      "name": "Raginbert",
+      "action": "spricht, spielt mit Fibel",
+      "look": "Mantel aus feinem friesischem Tuch, kornblumenblau, mit Fuchsfell besetzt"
+    },
+    {
+      "name": "Schreiber (Otwin)",
+      "action": "spricht, hält Futteral",
+      "look": "hager, tonsuriert, spitze Kinn, hölzernes Futteral"
+    }
+  ],
+  "props": [
+    "römische Quadermauer",
+    "Kohlebecken",
+    "hölzernes Futteral",
+    "Messrute"
+  ],
+  "composition": "medium shot",
+  "beat": "Konfrontation",
+  "evidence": [
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T12:04:23Z",
+  "text_sha256": "806c9a5738187742",
+  "usage": {
+    "prompt_tokens": 7745,
+    "completion_tokens": 389,
+    "total_tokens": 8134,
+    "cost": 0.0009301,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0009301,
+      "upstream_inference_prompt_cost": 0.0007745,
+      "upstream_inference_completions_cost": 0.0001556
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

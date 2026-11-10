@@ -1,0 +1,95 @@
+{
+  "book": "die-sprache-des-anderen",
+  "chapter": "021",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\scenes\\de\\stil-01-original\\021\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\021-chapter-stil-01-original-dryrun.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\assets\\chapter\\chapter-021.jpg",
+  "dry_run": true,
+  "schema_checked": false,
+  "command": [
+    "higgsfield",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Alda steht vor Gerwin in der dunklen Holzkammer, sein Schatten fällt über die glimmende Asche des Ofens. Figuren: Alda — ragt über Gerwin auf, ihr Schatten verdeckt die Glut des Ofens — Etwa 32 Jahre alt, sehnige, kräftige Statur, Dunkelblondes, meist straff zurückgebundenes Haar, markante Wangenknochen, wache graubraune Augen mit frühem Ernst in den Mundwinkeln; Gerwin — kniet im Spänehaufen, sein Rücken stößt gegen Holzscheite — Mann, 25 Jahre, mittelgroß, abgemagert und hohlwangig. Dunkelblondes, zerzaustes Haar, ungepflegter Bart, flache Narbe über der Augenbraue, gehetzter Blick. Verschlissene, schmutzige Knechtskleidung aus grober Wolle und Leder. Gegenstände: glimmende Asche eines Tonofens, Späne und Rindenmulch, Holzscheite, zerrissener Kittel aus rauem Rupfen. Bildausschnitt: medium shot. Early medieval Frankish material world: wool, linen and leather clothing, felt caps, mail and conical helmets, wax tablets, parchment and calfskin deeds with wax seals, oak, tarred rope, iron. Cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light. Mid-9th century Carolingian winter: cold grey-blue daylight, wet slate grey, mud brown, oak dark, iron black, snow white, dull ochre and dark red, pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle. Clear central figure or central dramatic situation, strong readable composition.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": null,
+  "job_result": null,
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\vignettes\\021.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "021",
+    "title": "Die Spur im Schnee",
+    "moment": "Alda steht vor Gerwin in der dunklen Holzkammer, sein Schatten fällt über die glimmende Asche des Ofens.",
+    "figures": [
+      {
+        "name": "Alda",
+        "action": "ragt über Gerwin auf, ihr Schatten verdeckt die Glut des Ofens",
+        "look": "Ihr Blick brennt sich in seine Augen, ihre Stimme ist schneidend wie Eis."
+      },
+      {
+        "name": "Gerwin",
+        "action": "kniet im Spänehaufen, sein Rücken stößt gegen Holzscheite",
+        "look": "Hohlwangig, Augen tief und fiebrig, struppiger Bart voller Holzstaub, Hände blutig gerissen."
+      }
+    ],
+    "props": [
+      "glimmende Asche eines Tonofens",
+      "Späne und Rindenmulch",
+      "Holzscheite",
+      "zerrissener Kittel aus rauem Rupfen"
+    ],
+    "composition": "medium shot",
+    "beat": "Konfrontation",
+    "evidence": [
+      31
+    ],
+    "source": "openrouter",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-10T12:05:01Z",
+    "text_sha256": "89f29bff84a69f7f",
+    "usage": {
+      "prompt_tokens": 7962,
+      "completion_tokens": 273,
+      "total_tokens": 8235,
+      "cost": 0.0009054,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0009054,
+        "upstream_inference_prompt_cost": 0.0007962,
+        "upstream_inference_completions_cost": 0.0001092
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+}

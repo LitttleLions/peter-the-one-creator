@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "chapter": "034",
+  "title": "Die Straße nach Osten",
+  "moment": "Alda steht am Rand des Karrens, ihr Sohn Berto sitzt darin und zeichnet mit einem Griffel in Wachs auf einer Tafel.",
+  "figures": [
+    {
+      "name": "Alda",
+      "action": "lehnt sich mit den Unterarmen auf die Bordwand, blickt auf die Tafel ihres Sohnes",
+      "look": "grober Linnenkittel, Hände schmal und kräftig, mit frühen Ernst in den Mundwinkeln"
+    },
+    {
+      "name": "Berto der Sohn",
+      "action": "sitzt im Karren, konzentriert sich auf das Zeichnen im Wachs",
+      "look": "Neunjähriger Junge, schmal, widerspenstiger brauner Haarschopf, hält einen eisernen Griffel"
+    }
+  ],
+  "props": [
+    "rechteckige Tafel aus Buchenholz mit Wachsfüllung",
+    "eiserner Griffel",
+    "Kornsack",
+    "Wolldecken"
+  ],
+  "composition": "medium shot",
+  "beat": "Hoffnung",
+  "evidence": [
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T12:10:46Z",
+  "text_sha256": "ae571940e410d386",
+  "usage": {
+    "prompt_tokens": 5414,
+    "completion_tokens": 364,
+    "total_tokens": 5778,
+    "cost": 0.000687,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.000687,
+      "upstream_inference_prompt_cost": 0.0005414,
+      "upstream_inference_completions_cost": 0.0001456
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

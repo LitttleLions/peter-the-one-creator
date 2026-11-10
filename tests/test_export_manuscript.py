@@ -164,6 +164,55 @@ class ExportManuscriptTests(unittest.TestCase):
             text.index("# Erstes Kapitel"),
         )
 
+    def test_chapter_head_mode_puts_heading_before_illustration(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            image = root / "assets" / "chapter" / "chapter-001.jpg"
+            image.parent.mkdir(parents=True)
+            image.write_bytes(b"image")
+            chapter = export.ChapterExport(
+                chapter_id="001",
+                title="Kapitel 1",
+                scenes=[export.SceneExport(number=1, text="Ein Satz.")],
+                missing=[],
+                ru_count=1,
+                de_count=1,
+            )
+            meta = {
+                "_base_dir": str(root),
+                "title": "Peter der Erste",
+                "front_matter": {"title_page": False, "imprint_page": False},
+                "display": {"chapters": {"format": "words_de", "suffix": " Kapitel"}},
+                "illustrations": {
+                    "enabled": True,
+                    "chapter_images": True,
+                    "scene_images": True,
+                    "chapter_page_break_after_image": True,
+                },
+            }
+            illustrations = export.collect_illustrations([chapter], meta)
+            text = export.render_pdf_html(
+                [chapter],
+                meta=meta,
+                style="stil-test",
+                scope="book",
+                partial=False,
+                cover_path=root / "cover.png",
+                html_path=root / "work" / "export.html",
+                css_path=root / "work" / "style.css",
+                illustrations=illustrations,
+                include_cover=False,
+                illustration_mode="chapter_head",
+            )
+
+        self.assertIn('<div class="chapter-illustration head">', text)
+        self.assertNotIn("page-break-after", text)
+        # Kopfvignette: Titel zuerst, Bild danach.
+        self.assertLess(
+            text.index("Erstes Kapitel"),
+            text.index("chapter-001.jpg"),
+        )
+
     def test_missing_illustration_does_not_change_export_markdown(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)

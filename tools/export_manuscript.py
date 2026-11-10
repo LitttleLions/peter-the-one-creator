@@ -1320,6 +1320,7 @@ def render_pdf_html(
 
         lines.append(f'<section class="chapter" id="kapitel-{html.escape(chapter.chapter_id)}">')
         chapter_image = illustrations_by_key.get(f"chapter:{chapter.chapter_id}")
+        image_html = None
         if chapter_image:
             css_class = "chapter-illustration"
             page_break_after = bool(
@@ -1328,24 +1329,33 @@ def render_pdf_html(
             if illustration_mode == "inline":
                 css_class += " inline"
                 page_break_after = False
+            elif illustration_mode == "chapter_head":
+                css_class += " head"
+                page_break_after = False
             elif illustration_mode == "full_page":
                 css_class += " full-page"
                 page_break_after = True
             if page_break_after:
                 css_class += " page-break-after"
-            lines.append(
-                render_pdf_image(
-                    chapter_image.path,
-                    html_path,
-                    css_class,
-                    illustration_label(chapter_image),
-                )
+            image_html = render_pdf_image(
+                chapter_image.path,
+                html_path,
+                css_class,
+                illustration_label(chapter_image),
             )
         level = "h2" if has_groups else "h1"
-        lines.append(
+        heading_html = (
             f'<{level} class="chapter-heading">'
             f"{html.escape(display_chapter_title(chapter, meta))}</{level}>"
         )
+        if image_html and illustration_mode == "chapter_head":
+            # Kopfvignette: Titel zuerst, Bild darunter, Text fliesst direkt weiter.
+            lines.append(heading_html)
+            lines.append(image_html)
+        else:
+            if image_html:
+                lines.append(image_html)
+            lines.append(heading_html)
         for idx, scene in enumerate(chapter.scenes):
             scene_image = illustrations_by_key.get(
                 f"scene:{chapter.chapter_id}:{scene.number:02d}"

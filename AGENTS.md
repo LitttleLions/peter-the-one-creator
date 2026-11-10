@@ -461,7 +461,7 @@ zweiten top-level Block an (`_write_website_settings_preserving_yaml`).
 PDF wird explizit mit `--format pdf` erzeugt (A5-Vorschau). Das
 KDP-Taschenbuch-Innenleben ist `--format paperback`. Trim (`--trim-size 5.5x8.5|6x9`)
 und Satzprofil (`--layout-profile classic|long_classic`) sind getrennt;
-Kapitelbilder `--illustration-mode full_page|inline`. Default 5,5×8,5 / classic /
+Kapitelbilder `--illustration-mode full_page|inline|chapter_head`. Default 5,5×8,5 / classic /
 full_page, Cream-Limit 776 (White 828). Ohne Flags bleibt der bisherige Satz.
 Ausgabe unter `exports/<style>/<scope>/print/` mit Varianten-Slug im Dateinamen.
 `--format paperback-complete` haengt Vorderseite (`assets/covers/cover-print.*`,

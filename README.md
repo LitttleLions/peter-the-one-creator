@@ -513,7 +513,17 @@ py -3 tools/export_manuscript.py --book pharao --scope book --style stil-02-poet
 
 :: 6 x 9, long_classic (10,2/12,5 pt), Bilder inline (oben, Text darunter)
 py -3 tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback --trim-size 6x9 --layout-profile long_classic --illustration-mode inline
+
+:: Kopfvignette: Kapiteltitel, Bild darunter (62 % Breite), Text laeuft sofort weiter
+py -3 tools/export_manuscript.py --book die-sprache-des-anderen --scope book --style stil-01-original --format paperback --illustration-mode chapter_head
 ```
+
+Bildmodi im Druck: `full_page` (Bild auf eigener Seite, +1 Seite je Kapitel),
+`inline` (Bild oben auf der Kapitelseite, Titel rutscht darunter) und
+`chapter_head` (Titel zuerst, Bild als Vignette darunter, Text fliesst direkt
+weiter). `chapter_head` spart bei `die-sprache-des-anderen` 17 Seiten
+gegenueber `full_page` und haelt die Bilder durch die schmalere Darstellung
+ueber 300 dpi.
 
 `--format paperback-complete` liefert Innenleben plus Rueckseite, Reihenkatalog
 und – wenn `assets/covers/cover-print.jpg` oder `.png` existiert – Vorderseite

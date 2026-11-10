@@ -7,6 +7,9 @@ from pathlib import Path
 from lib.print_spec import PrintSpec
 
 ILLUSTRATION_MAX_WIDTH_RATIO = 0.72
+# Kopfvignette (chapter_head): schmaler, damit der Text schneller weiterlaeuft
+# und die Bilder bei 772 px ueber 300 dpi bleiben.
+ILLUSTRATION_HEAD_WIDTH_RATIO = 0.62
 ILLUSTRATION_MAX_HEIGHT_MM = 90.0
 ILLUSTRATION_PAD_MM = 4.0
 
@@ -183,6 +186,14 @@ def build_paperback_css(spec: PrintSpec, css_path: Path, page_count: int) -> str
         f"  max-height: {mm(image_max_height)};\n"
         f"  height: auto;\n"
         f"  object-fit: contain;\n"
+        f"}}\n"
+        f"\n"
+        f".chapter-illustration.head {{\n"
+        f"  margin: -6mm auto 8mm;\n"
+        f"  padding: 0;\n"
+        f"  border: 0;\n"
+        f"  max-width: 62%;\n"
+        f"  background: transparent;\n"
         f"}}\n"
         f"\n"
         f".series-catalog {{\n"

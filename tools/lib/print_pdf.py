@@ -9,7 +9,11 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any, Callable
 
-from lib.print_css import ILLUSTRATION_MAX_WIDTH_RATIO, write_paperback_css
+from lib.print_css import (
+    ILLUSTRATION_HEAD_WIDTH_RATIO,
+    ILLUSTRATION_MAX_WIDTH_RATIO,
+    write_paperback_css,
+)
 from lib.print_spec import GUTTER_MAX_PASSES, PrintSpec, kdp_gutter_band
 
 FRONTMATTER_CLASS_RE = re.compile(r'class="[^"]*frontmatter-page')
@@ -236,7 +240,11 @@ def illustration_dpi_warnings(
 
     side_mm = spec.side_margin_mm(page_count)
     type_width_in = max(0.5, spec.trim_width_in - (2 * side_mm / 25.4))
-    display_width_in = max(0.5, type_width_in * ILLUSTRATION_MAX_WIDTH_RATIO)
+    width_ratio = ILLUSTRATION_MAX_WIDTH_RATIO
+    if spec.illustration_mode == "chapter_head":
+        width_ratio = ILLUSTRATION_HEAD_WIDTH_RATIO
+    max_width_in = max(0.5, type_width_in * width_ratio)
+    max_height_in = max(0.5, spec.illustration_max_height_mm() / 25.4)
     warnings: list[str] = []
     for item in illustrations or []:
         path = getattr(item, "path", None)
@@ -244,9 +252,15 @@ def illustration_dpi_warnings(
             continue
         try:
             with Image.open(path) as image:
-                width_px, _height_px = image.size
+                width_px, height_px = image.size
         except OSError:
             continue
+        # Die tatsaechliche Anzeigebreite ist das Minimum aus Breiten- und
+        # Hoehenbegrenzung; nur so stimmt die dpi-Schaetzung.
+        width_by_height_in = max_width_in
+        if height_px:
+            width_by_height_in = min(max_width_in, max_height_in * width_px / height_px)
+        display_width_in = max(0.3, width_by_height_in)
         dpi = width_px / display_width_in if display_width_in else 0
         if dpi < 300:
             label = getattr(item, "kind", "image")

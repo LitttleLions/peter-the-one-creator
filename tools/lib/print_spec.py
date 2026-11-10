@@ -64,6 +64,14 @@ ILLUSTRATION_MODES: dict[str, dict[str, Any]] = {
         "max_height_ratio": 0.45,
         "slug": "inline",
     },
+    # Kopfvignette: Kapiteltitel zuerst, Bild direkt darunter, Text laeuft
+    # sofort weiter. Spart gegenueber full_page eine Seite je Kapitel, ohne
+    # dass der Titel unter ein Seitenbild rutscht.
+    "chapter_head": {
+        "page_break_after": False,
+        "max_height_ratio": 0.40,
+        "slug": "head",
+    },
 }
 
 CHAPTER_START_MODES = ("next_page", "recto")
@@ -124,6 +132,10 @@ _ILLUSTRATION_ALIASES = {
     "inline": "inline",
     "half_page": "inline",
     "half-page": "inline",
+    "chapter_head": "chapter_head",
+    "chapter-head": "chapter_head",
+    "head": "chapter_head",
+    "kopf": "chapter_head",
 }
 
 
@@ -522,7 +534,7 @@ class PrintSpec:
         return max(1.0, self.trim_width_in * 25.4 - 2 * self.side_margin_mm(page_count))
 
     def illustration_max_height_mm(self) -> float:
-        if self.illustration_mode == "inline":
+        if self.illustration_mode in ("inline", "chapter_head"):
             ratio = self.illustration_max_height_ratio or 0.45
             return self.type_height_mm() * ratio
         return 90.0

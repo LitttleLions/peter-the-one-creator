@@ -75,7 +75,9 @@ book:
     Einrichtung, Zusatztexte, Satz und Covergestaltung.
 
     Alle Rechte an dieser Ausgabe vorbehalten.
-  description: >-
+  # Literaler Block: mehrAbsatzig, weil `>-` den Absatzabstand zu einem
+  # einzelnen Zeilenumbruch faltet (KDP-Listing soll Absaetze haben).
+  description: |
     Zwei Könige stehen vor Straßburg, und dazwischen liegt eine Frau mit fünf
     Kähnen. Alda führt den Fuhrbetrieb ihres verstorbenen Mannes weiter – und
     schuldet dem Grundherrn Raginbert dreißig Pfund Silber, fällig am
@@ -138,3 +140,28 @@ book:
   # auf Band 2 gestellt; ein YAML-Feld aendert ihn nicht.
   series: Zwischen Rhein und Maas
   series_volume: 2
+
+# KDP (Amazon). Gelesen von tools/lib/kdp_mapping.py: `kdp_sync.py pull` baut
+# daraus das Soll, `diff` vergleicht es mit dem Live-Stand. Preise sind
+# Entwuerfe - KDP zeigt im Wizard den Mindestpreis (Druckkosten) an. Die
+# Kategorien sind die Klartext-Pfade aus dem KDP-Dropdown, nicht BISAC-Codes.
+amazon:
+  marketplace: DE
+  keywords:
+    - Historischer Roman 9. Jahrhundert
+    - Karolinger und Frankenreich
+    - Straßburg im Mittelalter
+    - historischer Roman starke Frauen
+    - Recht und Schrift im Mittelalter
+    - Familienroman Mittelalter
+    - deutsche Geschichte 842
+  categories:
+    - Belletristik > Historische Romane
+    - Belletristik > Historischer Roman > Mittelalter
+    - Belletristik > Familienleben
+  kindle:
+    enabled: true
+    price_eur: "4.99"
+    price_usd: "5.99"
+  paperback:
+    enabled: true

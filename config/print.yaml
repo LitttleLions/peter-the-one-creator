@@ -21,10 +21,13 @@ ink: black
 bleed: false
 layout_profile: classic
 
+# Statische Instanzen (wght=400) statt der variablen Originale: Chromium kann
+# variable Fonts nicht als TrueType in PDF einbetten und zeichnet sie als
+# Type3-Pfade - KDP meldet dann "Schriftarten nicht eingebettet".
 font:
   family: EB Garamond
-  regular: assets/print-fonts/eb-garamond/EBGaramond.ttf
-  italic: assets/print-fonts/eb-garamond/EBGaramond-Italic.ttf
+  regular: assets/print-fonts/eb-garamond/EBGaramond-Regular-static.ttf
+  italic: assets/print-fonts/eb-garamond/EBGaramond-Italic-static.ttf
 
 layout_profiles:
   classic:

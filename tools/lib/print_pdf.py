@@ -70,6 +70,62 @@ def render_html_to_pdf(html_path: Path, pdf_path: Path) -> None:
             browser.close()
 
 
+def _folios_overlay_pdf(
+    pdf_path: Path,
+    spec: Any,
+    work_dir: Path,
+    page_numbers: list[int],
+    *,
+    width_pt: float,
+    height_pt: float,
+    margin_pt: float,
+    folio_y_pt: float,
+    font_size_pt: float = 9.0,
+) -> Path:
+    """Alle Folios (Seitenzahlen) als ein PDF mit eingebetteter Hausschrift.
+
+    Die frueheren Helvetica-Folios waren nicht eingebettet; KDP ersetzt solche
+    Schriften und meldet "Schriftarten nicht ordnungsgemäß eingebettet".
+    Chromium bettet die per @font-face geladene TrueType-Schrift dagegen ein.
+    """
+    from lib.print_css import css_asset_url
+
+    html_path = work_dir / "folio-overlay.html"
+    font_url = css_asset_url(spec.font_regular_path, html_path)
+    family = spec.font_family
+    blocks: list[str] = []
+    for number in page_numbers:
+        text = str(number)
+        if number % 2:  # ungerade: aussen rechts
+            left = width_pt - margin_pt - (0.5 * font_size_pt * len(text))
+        else:  # gerade: aussen links
+            left = margin_pt
+        top = height_pt - folio_y_pt - (font_size_pt * 0.75)
+        blocks.append(
+            f"<div class='page'><span class='folio' "
+            f"style='left:{left:.2f}pt; top:{top:.2f}pt'>{text}</span></div>"
+        )
+    html = (
+        "<!doctype html><html><head><meta charset='utf-8' />"
+        "<style>"
+        f"@font-face {{ font-family: '{family}'; "
+        f"src: url('{font_url}') format('truetype'); font-style: normal; }}"
+        f"@page {{ size: {width_pt:.2f}pt {height_pt:.2f}pt; margin: 0; }}"
+        "html, body { margin: 0; padding: 0; }"
+        f".page {{ position: relative; width: {width_pt:.2f}pt; "
+        f"height: {height_pt:.2f}pt; page-break-after: always; }}"
+        ".page:last-child { page-break-after: auto; }"
+        f".folio {{ position: absolute; font-family: '{family}', serif; "
+        f"font-size: {font_size_pt}pt; color: #111; }}"
+        "</style></head><body>"
+        + "".join(blocks)
+        + "</body></html>"
+    )
+    html_path.write_text(html, encoding="utf-8")
+    render_html_to_pdf(html_path, pdf_path)
+    return pdf_path
+
+
 def _pdf_escape(text: str) -> str:
     return text.replace("\\", "\\\\").replace("(", "\\(").replace(")", "\\)")
 
@@ -201,25 +257,30 @@ def stamp_running_matter(
     folio_y = 10 * 72 / 25.4
     skip = max(0, int(skip_pages))
 
+    folio_numbers = [index + 1 for index in range(len(reader.pages)) if index + 1 > skip]
+    folios_path = _folios_overlay_pdf(
+        work_dir / "folio-overlay.pdf",
+        spec,
+        work_dir,
+        folio_numbers,
+        width_pt=width_pt,
+        height_pt=height_pt,
+        margin_pt=margin_pt,
+        folio_y_pt=folio_y,
+    )
+    folio_pages = PdfReader(str(folios_path)).pages
+    if len(folio_pages) < len(folio_numbers):
+        raise RuntimeError(
+            f"Folio-Overlay hat {len(folio_pages)} Seiten, erwartet {len(folio_numbers)}"
+        )
+
     writer = PdfWriter()
     for index, page in enumerate(reader.pages):
         page_no = index + 1
         if page_no > skip:
             stamp = odd_stamp if page_no % 2 else even_stamp
             page.merge_page(stamp)
-            folio = str(page_no)
-            if page_no % 2:
-                folio_x = width_pt - margin_pt - (5.0 * len(folio))
-            else:
-                folio_x = margin_pt
-            overlay = PdfReader(
-                io.BytesIO(
-                    _helvetica_overlay_pdf(
-                        width_pt, height_pt, folio_x, folio_y, folio, 9.0
-                    )
-                )
-            ).pages[0]
-            page.merge_page(overlay)
+            page.merge_page(folio_pages[page_no - skip - 1])
         writer.add_page(page)
 
     tmp_path = pdf_path.with_suffix(".stamped.pdf")

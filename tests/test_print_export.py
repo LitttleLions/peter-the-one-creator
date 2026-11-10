@@ -436,6 +436,36 @@ class PrintPdfPipelineTests(unittest.TestCase):
         reader = PdfReader(__import__("io").BytesIO(blob))
         self.assertEqual(len(reader.pages), 1)
 
+    def test_folio_overlay_embeds_the_book_font(self) -> None:
+        """Folios frueher als Helvetica (nicht eingebettet) - KDP hat sie ersetzt."""
+        from pypdf import PdfReader
+
+        from lib.print_pdf import _folios_overlay_pdf
+
+        spec = PrintSpec.from_dict({}, REPO_ROOT)
+        with tempfile.TemporaryDirectory() as tmp:
+            path = _folios_overlay_pdf(
+                Path(tmp) / "folios.pdf",
+                spec,
+                Path(tmp),
+                [1, 2, 3],
+                width_pt=396.0,
+                height_pt=612.0,
+                margin_pt=45.0,
+                folio_y_pt=28.0,
+            )
+            reader = PdfReader(str(path))
+            self.assertGreaterEqual(len(reader.pages), 3)
+            fonts = (reader.pages[0].get("/Resources") or {}).get("/Font") or {}
+            names = [
+                str(ref.get_object().get("/BaseFont")) for ref in fonts.values()
+            ]
+            self.assertTrue(names, "keine Schrift im Folio-Overlay")
+            self.assertFalse(
+                any("Helvetica" in name for name in names),
+                f"Helvetica im Folio-Overlay: {names}",
+            )
+
     def test_export_rerenders_when_gutter_band_changes(self) -> None:
         from pypdf import PdfWriter
 

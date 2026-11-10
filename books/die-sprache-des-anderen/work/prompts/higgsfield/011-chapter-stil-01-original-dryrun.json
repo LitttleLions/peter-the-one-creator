@@ -1,0 +1,104 @@
+{
+  "book": "die-sprache-des-anderen",
+  "chapter": "011",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\scenes\\de\\stil-01-original\\011\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\011-chapter-stil-01-original-dryrun.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\assets\\chapter\\chapter-011.jpg",
+  "dry_run": true,
+  "schema_checked": false,
+  "command": [
+    "higgsfield",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Otwin sitzt am Tisch, die Feder in der Hand, und schreibt mit konzentrierter Miene auf das Pergament, während Alda und der Vogt zusehen. Figuren: Otwin — schreibt mit konzentrierter Miene — Mann, 29 Jahre, schmale, leicht gebeugte Statur. Blasses, schmales Gesicht, dunkle unruhige Augen, herauswachsende Mönchstonsur im dunkelbraunen Haar. Tintenflecken an den Fingern, blasse Brandnarbe auf dem linken Handrücken; Alda — beobachtet Otwin mit angespanntem Blick — Etwa 32 Jahre alt, sehnige, kräftige Statur, Dunkelblondes, meist straff zurückgebundenes Haar, markante Wangenknochen, wache graubraune Augen mit frühem Ernst in den Mundwinkeln; Vogt — beobachtet Otwin mit lauernder Vorsicht — pelzverbrämter Wams aus dunkelgrünem Fries, Siegel des Stiftsvogts an der Mantelfibel. Gegenstände: Pergamentblatt, Tintenhorn, Federkiel, irdener Becher. Bildausschnitt: medium shot. Early medieval Frankish material world: wool, linen and leather clothing, felt caps, mail and conical helmets, wax tablets, parchment and calfskin deeds with wax seals, oak, tarred rope, iron. Cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light. Mid-9th century Carolingian winter: cold grey-blue daylight, wet slate grey, mud brown, oak dark, iron black, snow white, dull ochre and dark red, pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle. Clear central figure or central dramatic situation, strong readable composition.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": null,
+  "job_result": null,
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\vignettes\\011.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "011",
+    "title": "Die Macht des Pergaments",
+    "moment": "Otwin sitzt am Tisch, die Feder in der Hand, und schreibt mit konzentrierter Miene auf das Pergament, während Alda und der Vogt zusehen.",
+    "figures": [
+      {
+        "name": "Otwin",
+        "action": "schreibt mit konzentrierter Miene",
+        "look": "Tintenflecken an den Fingern, abgetragene dunkle Klerikerkutte, hölzernes Schreibfutteral am Gürtel"
+      },
+      {
+        "name": "Alda",
+        "action": "beobachtet Otwin mit angespanntem Blick",
+        "look": "sehnige, kräftige Statur, dunkles blondes Haar, wache graubraune Augen, schmal, aber kräftige Hände, Lodenmantel"
+      },
+      {
+        "name": "Vogt",
+        "action": "beobachtet Otwin mit lauernder Vorsicht",
+        "look": "pelzverbrämter Wams aus dunkelgrünem Fries, Siegel des Stiftsvogts an der Mantelfibel"
+      }
+    ],
+    "props": [
+      "Pergamentblatt",
+      "Tintenhorn",
+      "Federkiel",
+      "irdener Becher"
+    ],
+    "composition": "medium shot",
+    "beat": "List",
+    "evidence": [
+      24,
+      25,
+      26,
+      30,
+      33
+    ],
+    "source": "openrouter",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-10T11:58:49Z",
+    "text_sha256": "103d0d1b43fa1e9e",
+    "usage": {
+      "prompt_tokens": 10550,
+      "completion_tokens": 352,
+      "total_tokens": 10902,
+      "cost": 0.0011958,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0011958,
+        "upstream_inference_prompt_cost": 0.001055,
+        "upstream_inference_completions_cost": 0.0001408
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "chapter": "010",
+  "title": "Das Bündnis der Hände",
+  "moment": "Alda und Guntram besiegeln ihr Bündnis mit einem festen Handschlag in der rauchgeschwängerten Schenke.",
+  "figures": [
+    {
+      "name": "Alda",
+      "action": "schaut Guntram fest in die Augen, ihre Hand ist erhoben.",
+      "look": "Schmal, aber kräftig, trägt einen einfachen Wollmantel, ihre Hände sind von harter Arbeit gezeichnet."
+    },
+    {
+      "name": "Guntram",
+      "action": "streckt seine linke Hand aus, seine rechte Hand steckt in einem steifen Lederhandschuh.",
+      "look": "Ältlicher Mann mit narbigem Gesicht, seine Augenbrauen sind fast weggesengt."
+    }
+  ],
+  "props": [
+    "Kerbholz",
+    "Messer",
+    "Silberpfennige"
+  ],
+  "composition": "two-shot",
+  "beat": "Bündnis",
+  "evidence": [
+    41,
+    42
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T11:58:47Z",
+  "text_sha256": "a338378f9d09cd59",
+  "usage": {
+    "prompt_tokens": 6353,
+    "completion_tokens": 259,
+    "total_tokens": 6612,
+    "cost": 0.0007389,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0007389,
+      "upstream_inference_prompt_cost": 0.0006353,
+      "upstream_inference_completions_cost": 0.0001036
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

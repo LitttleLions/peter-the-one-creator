@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "chapter": "012",
+  "title": "Die Zuflucht in den Mauern",
+  "moment": "Alda und Otwin lehnen Schulter an Schulter im Schutz einer römischen Mauer, während draußen ein Gewitter tobt. Ihre Hände berühren sich auf dem Stein.",
+  "figures": [
+    {
+      "name": "Alda",
+      "action": "lehnt sich an Otwin, schließt die Augen",
+      "look": "Grobe Lodenkleidung, vom Regen durchnässt"
+    },
+    {
+      "name": "Otwin",
+      "action": "lehnt sich an Alda, berührt ihre Wange",
+      "look": "Feuchter Wollkittel, blasse Haut, dunkle Haare an den Schläfen klebend"
+    }
+  ],
+  "props": [
+    "Römische Quadersteine",
+    "Regen",
+    "Blitzlicht"
+  ],
+  "composition": "medium shot",
+  "beat": "Zuflucht",
+  "evidence": [
+    40,
+    41,
+    42,
+    45
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T11:58:51Z",
+  "text_sha256": "2672b446c41d7cf2",
+  "usage": {
+    "prompt_tokens": 5984,
+    "completion_tokens": 255,
+    "total_tokens": 6239,
+    "cost": 0.0007004,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0007004,
+      "upstream_inference_prompt_cost": 0.0005984,
+      "upstream_inference_completions_cost": 0.000102
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

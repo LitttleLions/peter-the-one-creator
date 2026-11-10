@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "chapter": "011",
+  "title": "Die Macht des Pergaments",
+  "moment": "Otwin sitzt am Tisch, die Feder in der Hand, und schreibt mit konzentrierter Miene auf das Pergament, während Alda und der Vogt zusehen.",
+  "figures": [
+    {
+      "name": "Otwin",
+      "action": "schreibt mit konzentrierter Miene",
+      "look": "Tintenflecken an den Fingern, abgetragene dunkle Klerikerkutte, hölzernes Schreibfutteral am Gürtel"
+    },
+    {
+      "name": "Alda",
+      "action": "beobachtet Otwin mit angespanntem Blick",
+      "look": "sehnige, kräftige Statur, dunkles blondes Haar, wache graubraune Augen, schmal, aber kräftige Hände, Lodenmantel"
+    },
+    {
+      "name": "Vogt",
+      "action": "beobachtet Otwin mit lauernder Vorsicht",
+      "look": "pelzverbrämter Wams aus dunkelgrünem Fries, Siegel des Stiftsvogts an der Mantelfibel"
+    }
+  ],
+  "props": [
+    "Pergamentblatt",
+    "Tintenhorn",
+    "Federkiel",
+    "irdener Becher"
+  ],
+  "composition": "medium shot",
+  "beat": "List",
+  "evidence": [
+    24,
+    25,
+    26,
+    30,
+    33
+  ],
+  "source": "openrouter",
+  "model": "google/gemini-2.5-flash-lite",
+  "created": "2026-11-10T11:58:49Z",
+  "text_sha256": "103d0d1b43fa1e9e",
+  "usage": {
+    "prompt_tokens": 10550,
+    "completion_tokens": 352,
+    "total_tokens": 10902,
+    "cost": 0.0011958,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0011958,
+      "upstream_inference_prompt_cost": 0.001055,
+      "upstream_inference_completions_cost": 0.0001408
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

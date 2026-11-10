@@ -1,0 +1,119 @@
+{
+  "book": "die-sprache-des-anderen",
+  "chapter": "012",
+  "scene": null,
+  "kind": "chapter",
+  "style": "stil-01-original",
+  "model": "gpt_image_2_5",
+  "moodboard": "https://higgsfield.ai/s/R0FemgKUPW4",
+  "images": [],
+  "no_reference": true,
+  "aspect_ratio": "3:4",
+  "quality": "1k",
+  "render_quality": "medium",
+  "source_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\scenes\\de\\stil-01-original\\012\\scene-01.md",
+  "prompt_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\012-chapter-stil-01-original.md",
+  "output_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\assets\\chapter\\chapter-012.jpg",
+  "dry_run": false,
+  "schema_checked": true,
+  "command": [
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
+    "generate",
+    "create",
+    "gpt_image_2_5",
+    "--prompt",
+    "Alda und Otwin lehnen Schulter an Schulter im Schutz einer römischen Mauer, während draußen ein Gewitter tobt. Ihre Hände berühren sich auf dem Stein. Figuren: Alda — lehnt sich an Otwin, schließt die Augen — Etwa 32 Jahre alt, sehnige, kräftige Statur, Dunkelblondes, meist straff zurückgebundenes Haar, markante Wangenknochen, wache graubraune Augen mit frühem Ernst in den Mundwinkeln; Otwin — lehnt sich an Alda, berührt ihre Wange — Mann, 29 Jahre, schmale, leicht gebeugte Statur. Blasses, schmales Gesicht, dunkle unruhige Augen, herauswachsende Mönchstonsur im dunkelbraunen Haar. Tintenflecken an den Fingern, blasse Brandnarbe auf dem linken Handrücken. Gegenstände: Römische Quadersteine, Regen, Blitzlicht. Bildausschnitt: medium shot. Early medieval Frankish material world: wool, linen and leather clothing, felt caps, mail and conical helmets, wax tablets, parchment and calfskin deeds with wax seals, oak, tarred rope, iron. Cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light. Mid-9th century Carolingian winter: cold grey-blue daylight, wet slate grey, mud brown, oak dark, iron black, snow white, dull ochre and dark red, pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle. Clear central figure or central dramatic situation, strong readable composition.",
+    "--aspect_ratio",
+    "3:4",
+    "--resolution",
+    "1k",
+    "--quality",
+    "medium",
+    "--wait",
+    "--json"
+  ],
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261110_115938_9f7e3361-8d06-4859-be8d-a8987cdb98b3.png",
+  "job_result": [
+    {
+      "created_at": "2026-11-10T11:59:38.579921Z",
+      "display_name": "GPT Image 2.5",
+      "id": "9f7e3361-8d06-4859-be8d-a8987cdb98b3",
+      "job_type": "gpt_image_2_5",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261110_115938_9f7e3361-8d06-4859-be8d-a8987cdb98b3_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "flare",
+        "prompt": "Alda und Otwin lehnen Schulter an Schulter im Schutz einer römischen Mauer, während draußen ein Gewitter tobt. Ihre Hände berühren sich auf dem Stein. Figuren: Alda — lehnt sich an Otwin, schließt die Augen — Etwa 32 Jahre alt, sehnige, kräftige Statur, Dunkelblondes, meist straff zurückgebundenes Haar, markante Wangenknochen, wache graubraune Augen mit frühem Ernst in den Mundwinkeln; Otwin — lehnt sich an Alda, berührt ihre Wange — Mann, 29 Jahre, schmale, leicht gebeugte Statur. Blasses, schmales Gesicht, dunkle unruhige Augen, herauswachsende Mönchstonsur im dunkelbraunen Haar. Tintenflecken an den Fingern, blasse Brandnarbe auf dem linken Handrücken. Gegenstände: Römische Quadersteine, Regen, Blitzlicht. Bildausschnitt: medium shot. Early medieval Frankish material world: wool, linen and leather clothing, felt caps, mail and conical helmets, wax tablets, parchment and calfskin deeds with wax seals, oak, tarred rope, iron. Cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light. Mid-9th century Carolingian winter: cold grey-blue daylight, wet slate grey, mud brown, oak dark, iron black, snow white, dull ochre and dark red, pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle. Clear central figure or central dramatic situation, strong readable composition.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261110_115938_9f7e3361-8d06-4859-be8d-a8987cdb98b3.png",
+      "status": "completed"
+    }
+  ],
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\vignettes\\012.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "012",
+    "title": "Die Zuflucht in den Mauern",
+    "moment": "Alda und Otwin lehnen Schulter an Schulter im Schutz einer römischen Mauer, während draußen ein Gewitter tobt. Ihre Hände berühren sich auf dem Stein.",
+    "figures": [
+      {
+        "name": "Alda",
+        "action": "lehnt sich an Otwin, schließt die Augen",
+        "look": "Grobe Lodenkleidung, vom Regen durchnässt"
+      },
+      {
+        "name": "Otwin",
+        "action": "lehnt sich an Alda, berührt ihre Wange",
+        "look": "Feuchter Wollkittel, blasse Haut, dunkle Haare an den Schläfen klebend"
+      }
+    ],
+    "props": [
+      "Römische Quadersteine",
+      "Regen",
+      "Blitzlicht"
+    ],
+    "composition": "medium shot",
+    "beat": "Zuflucht",
+    "evidence": [
+      40,
+      41,
+      42,
+      45
+    ],
+    "source": "openrouter",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-10T11:58:51Z",
+    "text_sha256": "2672b446c41d7cf2",
+    "usage": {
+      "prompt_tokens": 5984,
+      "completion_tokens": 255,
+      "total_tokens": 6239,
+      "cost": 0.0007004,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0007004,
+        "upstream_inference_prompt_cost": 0.0005984,
+        "upstream_inference_completions_cost": 0.000102
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
+}

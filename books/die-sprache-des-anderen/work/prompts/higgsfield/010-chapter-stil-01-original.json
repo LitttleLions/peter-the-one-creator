@@ -14,15 +14,15 @@
   "source_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\scenes\\de\\stil-01-original\\010\\scene-01.md",
   "prompt_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\010-chapter-stil-01-original.md",
   "output_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\assets\\chapter\\chapter-010.jpg",
-  "dry_run": true,
-  "schema_checked": false,
+  "dry_run": false,
+  "schema_checked": true,
   "command": [
-    "higgsfield",
+    "C:\\Users\\janse\\AppData\\Local\\Volta\\bin\\higgsfield.cmd",
     "generate",
     "create",
     "gpt_image_2_5",
     "--prompt",
-    "Chapter 010. High-quality chapter illustration for a literary historical novel set in the mid-9th century, in and around Strasbourg on the Rhine, in the winter of a war between two kings. Style: cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light, emotionally intelligent, premium modern book illustration for an ambitious historical family novel. Setting: a river town in the Carolingian empire, muddy streets of snow and manure, the Roman brick walls and a timber gatehouse, the river Ill with flat-bottomed oak cargo barges moored at wooden jetties, salt stores, tanneries, warehouses, the vast tented campaign camp of an army on the meadows outside the walls, campfires and smoke in the fog, frozen mud, horses, wagons, oxen, snow and sleet. Figures in early medieval Frankish dress: wool cloaks and tunics, leather belts and shoes, coarse linen shirts, headscarves and felt caps, mail skirts and conical helmets on warriors, wax tablets and parchment scrolls with quills on clerks, heavy boots and bare working hands. Light: low winter sun through sleet and haze, cold grey-blue daylight, warm firelight at the camp fires, hard shadows on clear days. Colour palette: wet slate grey, cold blue, mud brown, oak dark, iron black, snow white, tarred rope, dull ochre and dark red, brass and pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle; figures small against weather and war, close attention to hands, faces, boats and parchment. Clear central figure or central dramatic situation, strong readable composition. Characters present: Alda: 40-jährige Frau, kräftig und wetterhart, dunkles Haar unter grober Wollkappe, gefettete Rindslederstiefel, fleckiger Wollmantel mit Schafsfellfutter, aufmerksamer und zäher Blick, kräftige Hände; Otwin: 25-jähriger blasser Schreiber, eingefallene Wangen, fiebrige unstete Augen, fransige Kapuze, klamme Finger um Feder und Pergament, schwere Schultern unter dem Reiterrock; Berto der Knecht: 60-jähriger Knecht, gebückt und hinkend, strubbeliges Grauhaar, zerschlissene Kappe, grobe Holzschuhe mit Stroh, wettergegerbtes Gesicht. Der Schlag des Hammers dröhnte hohl über die graue Lache des Solebachs, ein schwerer, gleichförmiger Takt, der das Klirren der Ketten an den Deichseln übertönte. Weißer Staub lag wie Raureif auf den geschwärzten Schindeln der Schmiede, doch es war kein Frost; die beißende Kruste fraß sich in das rohe Holz, zerfaserte die Ränder der Balken und brannte auf Aldas Lippen, kaum dass sie den Schafspelz fester an den Hals zog. Der Mann am Amboss senkte das Eisen nicht, als ihr Schatten über den glimmenden Herd fiel. Er schlug noch dreimal zu, bedächtig, mit der stumpfen Wucht von Schultern, die seit dreißig Wintern nichts anderes getan hatten, ehe er das verzogene Blech mit einer groben Zange in den Trog stieß. Ein zischender Schwall Dampf schlug empor, der nach Schwefel, geronnenem Blut und abgestandenem Schlamm stank. Der Mann wischte sich mit einem rußigen Handrücken über die Stirn, hinterließ eine Schliere grauen Schweißes und musterte zuerst die beiden Zugrösser, dann das massive Eschenholz der Achsen und zuletzt Aldas Gesicht. Sein Blick blieb an ihren Händen hängen – an den schwieligen Handtellern, den kurz geschnittenen Nägeln, der dunklen Narbe über dem Daumengelenk, wo ihr einst ein nasses Hanfseil die Haut abgezogen hatte. Es waren keine Hände, die Pergamente hielten oder den Zehnten wogen.",
+    "Alda und Guntram besiegeln ihr Bündnis mit einem festen Handschlag in der rauchgeschwängerten Schenke. Figuren: Alda — schaut Guntram fest in die Augen, ihre Hand ist erhoben — Etwa 32 Jahre alt, sehnige, kräftige Statur, Dunkelblondes, meist straff zurückgebundenes Haar, markante Wangenknochen, wache graubraune Augen mit frühem Ernst in den Mundwinkeln; Guntram — streckt seine linke Hand aus, seine rechte Hand steckt in einem steifen Lederhandschuh — Ältlicher Mann mit narbigem Gesicht, seine Augenbrauen sind fast weggesengt. Gegenstände: Kerbholz, Messer, Silberpfennige. Bildausschnitt: two-shot. Early medieval Frankish material world: wool, linen and leather clothing, felt caps, mail and conical helmets, wax tablets, parchment and calfskin deeds with wax seals, oak, tarred rope, iron. Cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light. Mid-9th century Carolingian winter: cold grey-blue daylight, wet slate grey, mud brown, oak dark, iron black, snow white, dull ochre and dark red, pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle. Clear central figure or central dramatic situation, strong readable composition.",
     "--aspect_ratio",
     "3:4",
     "--resolution",
@@ -32,6 +32,86 @@
     "--wait",
     "--json"
   ],
-  "media_url": null,
-  "job_result": null
+  "media_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261110_115856_074f46aa-3e36-446a-a024-f03814f89e6d.png",
+  "job_result": [
+    {
+      "created_at": "2026-11-10T11:58:56.591088Z",
+      "display_name": "GPT Image 2.5",
+      "id": "074f46aa-3e36-446a-a024-f03814f89e6d",
+      "job_type": "gpt_image_2_5",
+      "min_result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261110_115856_074f46aa-3e36-446a-a024-f03814f89e6d_min.webp",
+      "params": {
+        "aspect_ratio": "3:4",
+        "height": 1168,
+        "medias": [],
+        "model": "flare",
+        "prompt": "Alda und Guntram besiegeln ihr Bündnis mit einem festen Handschlag in der rauchgeschwängerten Schenke. Figuren: Alda — schaut Guntram fest in die Augen, ihre Hand ist erhoben — Etwa 32 Jahre alt, sehnige, kräftige Statur, Dunkelblondes, meist straff zurückgebundenes Haar, markante Wangenknochen, wache graubraune Augen mit frühem Ernst in den Mundwinkeln; Guntram — streckt seine linke Hand aus, seine rechte Hand steckt in einem steifen Lederhandschuh — Ältlicher Mann mit narbigem Gesicht, seine Augenbrauen sind fast weggesengt. Gegenstände: Kerbholz, Messer, Silberpfennige. Bildausschnitt: two-shot. Early medieval Frankish material world: wool, linen and leather clothing, felt caps, mail and conical helmets, wax tablets, parchment and calfskin deeds with wax seals, oak, tarred rope, iron. Cinematic literary historical illustration, restrained painterly realism, fine detail, atmospheric light. Mid-9th century Carolingian winter: cold grey-blue daylight, wet slate grey, mud brown, oak dark, iron black, snow white, dull ochre and dark red, pale gold firelight. Mood: grave, taut, human and concrete, with work, family, obligation and quiet danger rather than heroic spectacle. Clear central figure or central dramatic situation, strong readable composition.",
+        "quality": "medium",
+        "reference_elements": [],
+        "remove_bg": false,
+        "resolution": "1k",
+        "width": 880
+      },
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_2vIIsNn7moi94XgApv3Q2nex9yW/hf_20261110_115856_074f46aa-3e36-446a-a024-f03814f89e6d.png",
+      "status": "completed"
+    }
+  ],
+  "prompt_builder": "vignette",
+  "vignette_path": "C:\\code\\peter-the-one\\books\\die-sprache-des-anderen\\work\\prompts\\higgsfield\\vignettes\\010.json",
+  "vignette": {
+    "version": 1,
+    "chapter": "010",
+    "title": "Das Bündnis der Hände",
+    "moment": "Alda und Guntram besiegeln ihr Bündnis mit einem festen Handschlag in der rauchgeschwängerten Schenke.",
+    "figures": [
+      {
+        "name": "Alda",
+        "action": "schaut Guntram fest in die Augen, ihre Hand ist erhoben.",
+        "look": "Schmal, aber kräftig, trägt einen einfachen Wollmantel, ihre Hände sind von harter Arbeit gezeichnet."
+      },
+      {
+        "name": "Guntram",
+        "action": "streckt seine linke Hand aus, seine rechte Hand steckt in einem steifen Lederhandschuh.",
+        "look": "Ältlicher Mann mit narbigem Gesicht, seine Augenbrauen sind fast weggesengt."
+      }
+    ],
+    "props": [
+      "Kerbholz",
+      "Messer",
+      "Silberpfennige"
+    ],
+    "composition": "two-shot",
+    "beat": "Bündnis",
+    "evidence": [
+      41,
+      42
+    ],
+    "source": "openrouter",
+    "model": "google/gemini-2.5-flash-lite",
+    "created": "2026-11-10T11:58:47Z",
+    "text_sha256": "a338378f9d09cd59",
+    "usage": {
+      "prompt_tokens": 6353,
+      "completion_tokens": 259,
+      "total_tokens": 6612,
+      "cost": 0.0007389,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0007389,
+        "upstream_inference_prompt_cost": 0.0006353,
+        "upstream_inference_completions_cost": 0.0001036
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  }
 }

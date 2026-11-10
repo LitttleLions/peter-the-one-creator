@@ -62,6 +62,14 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--handoff", help="RomanForge-Uebergabe-ID (ROMANFORGE_URL/-API_KEY aus .env)")
     parser.add_argument("--snapshot", help="Handoff-JSON aus einer Datei (offline)")
     parser.add_argument("--apply", action="store_true", help="Aenderungen schreiben (sonst Trockenlauf)")
+    parser.add_argument(
+        "--force-visual",
+        action="store_true",
+        help=(
+            "Geaendertes Aussehen aus RomanForge auch dann nach visual uebernehmen, "
+            "wenn visual in peter von Hand angepasst wurde (sonst nur rf_visual_check)"
+        ),
+    )
     parser.add_argument("--aussehen", action="store_true",
                         help="Nur Tabelle: Aussehen in RomanForge gegen visual in names.yaml (schreibt nichts)")
     args = parser.parse_args(argv)
@@ -81,10 +89,17 @@ def main(argv: list[str] | None = None) -> int:
         print(f"Buch {args.book}: Aussehen (RomanForge, Uebergabe {handoff_id[:8] or '-'}) gegen visual in names.yaml")
         print(rfc.render_appearance_report(rfc.appearance_report(entries, characters)))
         return 0
-    actions = rfc.plan_sync(entries, characters, same_language=same_language)
+    actions = rfc.plan_sync(
+        entries, characters, same_language=same_language, force_visual=args.force_visual
+    )
 
     print(f"Buch {args.book}: {len(characters)} Figuren aus RomanForge, {len(entries)} Eintraege in names.yaml")
     print(rfc.render_plan(actions))
+    if not args.force_visual and any(a.kind == rfc.APPEARANCE for a in actions):
+        print(
+            "\nHinweis: bei 'aussehen-geaendert' bleibt visual stehen (von Hand "
+            "angepasst). Mit --force-visual wird das RomanForge-Aussehen uebernommen."
+        )
     conflicts = [a for a in actions if a.kind == rfc.CONFLICT]
     if not args.apply:
         print("\nTrockenlauf - nichts geschrieben. Mit --apply uebernehmen.")

@@ -128,8 +128,15 @@ def plan_sync(
     characters: list[dict[str, Any]],
     *,
     same_language: bool,
+    force_visual: bool = False,
 ) -> list[Action]:
-    """Berechnet die Abgleich-Aktionen, ohne etwas zu veraendern."""
+    """Berechnet die Abgleich-Aktionen, ohne etwas zu veraendern.
+
+    ``force_visual`` uebernimmt ein geaendertes Aussehen aus RomanForge auch
+    dann in ``visual``, wenn die Beschreibung in peter von Hand angepasst
+    wurde. Ohne das Flag bleibt Handarbeit stehen und wird nur mit
+    ``rf_visual_check`` markiert.
+    """
     actions: list[Action] = []
     by_uid = {
         _clean(e.get("rf_uid")): i for i, e in enumerate(entries) if _clean(e.get("rf_uid"))
@@ -165,6 +172,18 @@ def plan_sync(
                     if entry.get("rf_visual_check"):
                         fields["rf_visual_check"] = None  # Hinweis erledigt: visual folgt RomanForge wieder
                     note = "Aussehen aus RomanForge nach visual uebernommen (" + ("visual war leer" if not visual else "visual war unveraendert") + ")"
+                    if kind == UNCHANGED:
+                        kind, detail = FOLLOWED, note
+                    else:
+                        detail = f"{detail}; {note}"
+                elif force_visual and new_look:
+                    fields["visual"] = new_look
+                    if entry.get("rf_visual_check"):
+                        fields["rf_visual_check"] = None
+                    note = (
+                        "Aussehen aus RomanForge uebernommen (visual war von Hand "
+                        "angepasst, --force-visual)"
+                    )
                     if kind == UNCHANGED:
                         kind, detail = FOLLOWED, note
                     else:

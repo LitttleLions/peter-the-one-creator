@@ -297,6 +297,41 @@ class GenerateIllustrationTests(unittest.TestCase):
         self.assertIn("wettergegerbtes Gesicht", prompt)
         self.assertNotIn("Sehr grosser junger Zar", prompt)
 
+    def test_berto_trennung_bleibt_nach_umbenennung_in_romanforge(self) -> None:
+        (self.book_root / "names.yaml").write_text(
+            "\n".join([
+                "entries:",
+                "- source: Berto",
+                "  target: Berto",
+                "  visual_label: Berto der Knecht",
+                "  aliases: []",
+                "  type: person",
+                "  status: draft",
+                "  visual: 55-jaehriger Knecht, gebeugt und breitschultrig.",
+                "- source: Berto",
+                "  target: Berto",
+                "  visual_label: Berto der Sohn",
+                "  aliases: [Sohn Berto]",
+                "  type: person",
+                "  status: draft",
+                "  visual: Neunjaehriger Junge.",
+            ]),
+            encoding="utf-8",
+        )
+        book = find_book(self.root, "peter-i-buch-01")
+
+        prompt = gi.build_prompt(
+            book,
+            self.request(),
+            "Berto der Knecht zog den Karren durch den Schnee. Berto schwieg.",
+        )
+
+        # visual_label trennt die beiden gleichnamigen Figuren, auch wenn
+        # RomanForge source auf "Berto" umbenannt hat.
+        self.assertIn("Berto der Knecht:", prompt)
+        self.assertIn("55-jaehriger Knecht", prompt)
+        self.assertNotIn("Neunjaehriger Junge", prompt)
+
     def test_higgsfield_defaults_are_read_from_book_config(self) -> None:
         book = find_book(self.root, "peter-i-buch-01")
         defaults = gi.higgsfield_defaults(book)
@@ -826,6 +861,27 @@ class VignettePromptTests(unittest.TestCase):
         self.assertNotIn("Chapter 001", prompt)
         self.assertNotIn("Raginbert", prompt)
         self.assertNotIn("Fuchspelz", prompt)
+
+    def test_glossar_aussehen_geht_vor_vignetten_aussehen(self) -> None:
+        vignette = self.vignette(
+            figures=[Figure(name="Alda", action="", look="ALTER TEXT aus der Vignette")]
+        )
+        prompt = gi.build_prompt(
+            self.book(), self.request(), CHAPTER_TEXT, vignette=vignette
+        )
+
+        self.assertNotIn("ALTER TEXT", prompt)
+        self.assertIn("gefettetem Wollmantel", prompt)
+
+    def test_vignetten_aussehen_gilt_fuer_figuren_ohne_glossareintrag(self) -> None:
+        vignette = self.vignette(
+            figures=[Figure(name="Graf Adalhard", look="Biberpelz, kurzes graues Haar")]
+        )
+        prompt = gi.build_prompt(
+            self.book(), self.request(), CHAPTER_TEXT, vignette=vignette
+        )
+
+        self.assertIn("Biberpelz", prompt)
 
     def test_prompt_stays_short_with_default_anchors(self) -> None:
         prompt = gi.build_prompt(

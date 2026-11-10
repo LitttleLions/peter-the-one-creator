@@ -73,6 +73,10 @@ ASPECT_RATIO_RE = re.compile(r"^\d+(?:\.\d+)?:\d+(?:\.\d+)?$")
 # Kapitelbilder (siehe docs/offene-punkte.md Punkt 14).
 PROMPT_STYLE_LIMIT = 700
 PROMPT_WORLD_LIMIT = 400
+# Budget je Figur im Prompt. Das Aussehen kommt aus dem Glossar (RomanForge),
+# damit eine Figur in allen Kapiteln gleich aussieht; die Vignette liefert nur
+# dann den Text, wenn die Figur dort keinen Eintrag hat.
+FIGURE_LOOK_LIMIT = 240
 
 # NOTE: text2image_soul_v2 hat KEINEN negative_prompt-Parameter.
 # Alle Negativ-Formulierungen ("no X") werden als positive Anweisung
@@ -429,7 +433,12 @@ def character_visual_lines(book: dict[str, Any], source_text: str, limit: int = 
         ).strip()
         if not label:
             continue
-        role_key = str(entry.get("source") or "").strip()
+        # Rollen-Schluessel fuer Sonderfaelle (Berto): visual_label ist
+        # Peter-eigen und bleibt auch dann stabil, wenn RomanForge `source`
+        # umbenennt (z. B. "Berto der Sohn" -> "Berto").
+        role_key = str(
+            entry.get("visual_label") or entry.get("source") or ""
+        ).strip()
         scored.append((best, order, label, f"{label}: {visual}", role_key))
     # Haeufigste zuerst, bei Gleichstand stabile Dateireihenfolge.
     scored.sort(key=lambda item: (-item[0], item[1]))
@@ -551,9 +560,9 @@ def build_vignette_prompt(
             bits = [figure.name]
             if figure.action:
                 bits.append(figure.action.rstrip("."))
-            look = figure.look or look_for(looks, figure.name)
+            look = look_for(looks, figure.name) or figure.look
             if look:
-                bits.append(clip_sentences(look, 140).rstrip("."))
+                bits.append(clip_sentences(look, FIGURE_LOOK_LIMIT).rstrip("."))
             figure_lines.append(" — ".join(bits))
         parts.append("Figuren: " + "; ".join(figure_lines) + ".")
 

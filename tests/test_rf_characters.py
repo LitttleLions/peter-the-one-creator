@@ -118,6 +118,21 @@ class PlanTests(unittest.TestCase):
         self.assertEqual(result["visual"], "Handtext")
         self.assertTrue(result["rf_visual_check"])
 
+    def test_force_visual_uebernimmt_auch_handangepasstes_aussehen(self):
+        entries = [{"source": "Alda", "target": "Alda", "visual": "Handtext", "rf_uid": "u1",
+                    "rf_appearance_sha": rfc.appearance_sha("Rotes Haar")}]
+        actions = rfc.plan_sync(
+            entries,
+            [ch("u1", "Alda", appearance="Frau, 32 Jahre, sehnig")],
+            same_language=True,
+            force_visual=True,
+        )
+        self.assertEqual(actions[0].kind, rfc.FOLLOWED)
+        result = rfc.apply_sync(entries, actions)[0]
+        self.assertEqual(result["visual"], "Frau, 32 Jahre, sehnig")
+        self.assertEqual(result["rf_appearance_sha"], rfc.appearance_sha("Frau, 32 Jahre, sehnig"))
+        self.assertNotIn("rf_visual_check", result)
+
     def test_aussehen_in_romanforge_geleert_aendert_visual_nicht(self):
         entries = [{"source": "Mara", "target": "Mara", "visual": "Rotes Haar", "rf_uid": "u1",
                     "rf_appearance_sha": rfc.appearance_sha("Rotes Haar")}]

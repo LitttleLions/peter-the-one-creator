@@ -85,6 +85,30 @@ class MappingTests(unittest.TestCase):
             )
         )
 
+    def test_format_categories_override_the_shared_list(self) -> None:
+        export = _export()
+        export["amazon"] = {
+            "categories": ["Belletristik > Historische Romane"],
+            "kindle": {"categories": ["Kindle-Shop > Belletristik > Historische Romane"]},
+            "paperback": {"categories": ["Bücher > Belletristik > Historische Romane"]},
+        }
+        soll = map_kdp_soll(export, book_root=Path("."), style="stil")
+        self.assertEqual(
+            soll["formats"]["kindle"]["categories"],
+            ["Kindle-Shop > Belletristik > Historische Romane"],
+        )
+        self.assertEqual(
+            soll["formats"]["paperback"]["categories"],
+            ["Bücher > Belletristik > Historische Romane"],
+        )
+
+        export["amazon"]["paperback"] = {}
+        soll = map_kdp_soll(export, book_root=Path("."), style="stil")
+        self.assertEqual(
+            soll["formats"]["paperback"]["categories"],
+            ["Belletristik > Historische Romane"],
+        )
+
     def test_short_link_has_no_asin_but_dp_url_does(self) -> None:
         self.assertEqual(asin_from_store_url("https://amzn.to/3AbcDef"), "")
         self.assertEqual(

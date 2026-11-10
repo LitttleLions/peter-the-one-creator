@@ -109,6 +109,7 @@ def map_kdp_soll(
                 "enabled": bool(kindle_cfg.get("enabled", True)),
                 "title_id": str(kindle_cfg.get("title_id") or "").strip(),
                 "asin": kindle_asin,
+                "categories": _format_categories(amazon, kindle_cfg),
                 "interior_path": _rel(book_root, newest_epub(book_root, style)),
                 "cover_path": _rel(book_root, kindle_cover(book_root, book)),
             },
@@ -116,6 +117,7 @@ def map_kdp_soll(
                 "enabled": bool(paperback_cfg.get("enabled", False)),
                 "title_id": str(paperback_cfg.get("title_id") or "").strip(),
                 "asin": paperback_asin,
+                "categories": _format_categories(amazon, paperback_cfg),
                 "interior_path": _rel(book_root, newest_paperback_interior(book_root, style)),
                 "cover_path": _rel(book_root, print_cover(book_root)),
                 "wrap_path": _rel(book_root, newest_paperback_wrap(book_root, style)),
@@ -393,6 +395,17 @@ def _optional_list(value: Any) -> list[str] | None:
         return None
     items = [str(item).strip() for item in value if str(item).strip()]
     return items or None
+
+
+def _format_categories(amazon: dict[str, Any], format_cfg: dict[str, Any]) -> list[str] | None:
+    """Kategorien je Format, mit `amazon.categories` als Rueckfall.
+
+    Kindle-Shop und Buchhandel haben getrennte Listen ("Kindle-Shop > ..." vs.
+    "Buecher > ..."), deshalb darf ein Buch pro Format eigene Pfade tragen.
+    """
+    return _optional_list(format_cfg.get("categories")) or _optional_list(
+        amazon.get("categories")
+    )
 
 
 def _optional_prices(kindle_cfg: dict[str, Any]) -> dict[str, str] | None:

@@ -6,9 +6,10 @@ Unter Windows CLI immer `.\.venv\Scripts\python.exe`, nicht `python`/`py -3`.
 Kein OpenRouter ohne ausdrueckliche Freigabe. Committen und Pushen nur nach
 Freigabe des Nutzers, kein Branch-Wechsel.
 
-Es gibt zwei Prompts: **A** (Aufgabe: neue Fassung aus RomanForge holen und
-daraus Marketing machen, Stand 2026-11-09) und **B** (allgemeiner Einstieg
-mit Warten auf die Aufgabe, ab „Schritt 1“).
+Es gibt drei Prompts: **A** (neue Fassung aus RomanForge holen und daraus
+Marketing machen, Stand 2026-11-09), **B** (allgemeiner Einstieg mit Warten auf
+die Aufgabe, ab „Schritt 1“) und **C** (Bilder, Print und Veroeffentlichung fuer
+`die-sprache-des-anderen`, Stand 2026-11-10).
 
 ---
 
@@ -55,6 +56,51 @@ Chat oder ins Repo. Commit und Push nur nach meiner Freigabe. Fange nichts ander
 ```
 
 ---
+
+## Prompt C: Bilder, Print und Veroeffentlichung (Stand 2026-11-10)
+
+Fuer die naechste Runde an `die-sprache-des-anderen` (Buch-ID
+`die-sprache-des-anderen`). Kurz halten: die Details stehen in den genannten
+Dateien.
+
+```text
+Arbeite im peter-Ordner (Branch main, kein neuer Clone). Erst `git fetch`,
+dann `git pull --ff-only`; bei Abweichung oder uncommitteten Aenderungen
+anhalten und fragen.
+
+Nur lesen: AGENTS.md, docs/HANDOVER.md (Abschnitt "Letzte Session
+(2026-11-10...)"), docs/higgsfield-integration.md (Abschnitt
+"Prompt-Aufbau (Vignetten)"). Keine Kapiteltexte, keine alten Prompts lesen.
+Windows-CLI immer .\.venv\Scripts\python.exe.
+
+Stand, den du nicht neu pruefen musst:
+- Kapitelbilder 001-034 sind fertig (Vignetten unter
+  work/prompts/higgsfield/vignettes/, Aussehen aus names.yaml/RomanForge).
+- EPUB 20261110-132245, A5-PDF 20261110-132328, Print-Satz 134427
+  (Innenleben 330 Seiten, Komplett 332, Wrap 306,6 x 222,2 mm) liegen in
+  exports/stil-01-original/book/. Nur der Satz 134427 ist aktuell.
+- Druckcover assets/covers/cover-print.jpg (Typografie im Bild).
+
+Meine Aufgabe diesmal: <HIER EINTRAGEN, z. B. KDP-Upload begleiten /
+2k-Neulauf der Bilder / Covermotiv veraendern / ein Kapitelbild neu machen>.
+
+Regeln:
+- Neue Bilder nur nach ausdruecklicher Freigabe je Lauf; ein Kapitelbild neu
+  kostet 1 Credit, eine Vignette ~0,0007 USD. Pro Kapitel:
+  --vignette-provider openrouter --vignette-overwrite --dry-run (Vignette +
+  *-dryrun.md, kein Bild) -> nach Blick auf den Prompt --overwrite (Bild).
+- Figuren-Aussehen kommt aus names.yaml (RomanForge); die Vignette liefert es
+  nur fuer Figuren ohne Eintrag. Wenn ein Aussehen falsch ist, erst
+  sync_romanforge_characters.py (Trockenlauf, dann --force-visual --apply) oder
+  den Eintrag von Hand, dann Bild neu.
+- Print: --format paperback --illustration-mode chapter_head.
+  paperback-complete baut zusaetzlich Rueckseite und Wrap (braucht
+  assets/covers/cover-print.jpg). Wrap-Ruecken = Seitenzahl x 0,0635 mm.
+- Commit und Push nur nach meiner Freigabe; Buchinhalt und Code getrennt
+  committen. Keine alten Exporte liegen lassen: nach einem Lauf nur die
+  aktuelle Stempel-Familie behalten, Loeschen vorher fragen.
+```
+
 
 ## Prompt B: allgemeiner Einstieg
 

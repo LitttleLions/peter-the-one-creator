@@ -47,8 +47,9 @@ git --no-pager status --short --branch
 
 Erwartet: Branch `main`, mit `origin/main` synchron; beide Test-Suiten gruen;
 `die-sprache-des-anderen` 34/34 done, Gate dort ERROR=0/WARNING=0/INFO=0,
-EPUB `book-die-sprache-des-anderen-stil-01-original-20261028-203757.epub`
-(Cover + Kapitelbilder 001-003, Titelei gefuellt). Chronik KDP-fertig: Gate
+EPUB `book-die-sprache-des-anderen-stil-01-original-20261110-132245.epub`
+(Cover + Kapitelbilder 001-034, Titelei gefuellt), Print-Satz Stempel
+`134427` (Innenleben 330 Seiten, Wrap 306,6 x 222,2 mm). Chronik KDP-fertig: Gate
 ERROR=0/WARNING=13/INFO=36, EPUB `...-20260921-131112.epub`. Print-Vergleich
 Pharao: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`
 (A 924 / B 788 / C 673 / D 643; Cream 776).
@@ -93,7 +94,7 @@ Aktuelle Buchpakete (17):
 - `books/kuprin-moloch/` - Alexander Kuprin, Der Moloch (Roh-Anlage 09/2026)
 - `books/grin-wellenlaeuferin/` - Alexander Grin, Die Wellenlaeuferin (Roh-Anlage 09/2026)
 - `books/pissemski-tausend-seelen/` - Alexei Pissemski, Tausend Seelen (Roh-Anlage 09/2026)
-- `books/die-sprache-des-anderen/` - Timo Verita, Die Sprache des Anderen (DE-Original; RomanForge-Uebernahme 2026-10-28: 34/34 Kapitel, Gate 0/0/0, Cover mit Typografie + Kapitelbilder 001-003, Titelei gefüllt, Buch-EPUB `...-20261028-203757.epub` ohne Bypass)
+- `books/die-sprache-des-anderen/` - Timo Verita, Die Sprache des Anderen (DE-Original; RomanForge-Uebernahme 2026-10-28, Figuren neu 2026-11-10: 34/34 Kapitel, Gate 0/0/0, Cover mit Typografie + Kapitelbilder 001-034, Titelei gefüllt, Buch-EPUB `...-20261110-132245.epub` ohne Bypass; Print-Satz `134427`: Innenleben 330 Seiten, Wrap 306,6 x 222,2 mm; offen KDP-Upload)
 - `books/der-lotse-von-ruegen/` - Timo Verita, Der Lotse von Ruegen (DE-Original; RomanForge-Uebernahme 2026-10-21: 33/33 Kapitel, Gate 0/0/20, Cover + Kapitelbilder 001-010; Regal `website.enabled: true`, sort_order 90, noch nicht live)
 - `books/der-lotse/` - Timo Verita, Der Lotse von Rügen (zweites Paket desselben Romans, aus `origin/main` übernommen 2026-10-28: 32 Kapitel, 32 Kapitelbilder, Gate 0/1/42, `website.enabled: false`; **Doppelablage** - vor jeder Aktion an einem der beiden Lotse-Pakete Rueckfrage)
 - `books/perfect.sight/` - William Horatio Bates, Perfect Sight Without Glasses (Sachbuch, `en->de`, Stil `stil-05-sachbuch`; Kapitelbilder aus Originalscans, `inline_figures` bewusst aus)
@@ -499,11 +500,11 @@ Marketingpaket unter `books/<id>/exports/marketing/` (`campaign.json`,
 ## Aktueller Stand
 
 Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**
-(Stand 2026-10-28). Kopiertext neues Fenster:
+(Stand 2026-11-10). Kopiertext neues Fenster:
 [docs/uebergabe-prompt.md](./docs/uebergabe-prompt.md) - dort steht, was vor
 Beginn gelesen wird und dass danach erst auf die Aufgabe gewartet wird.
 Einstiegskosten und Hebel (gemessen): [docs/kontextanalyse.md](./docs/kontextanalyse.md).
-Branch: **`main`**, mit `origin/main` synchron (Stand 2026-10-28 abends).
+Branch: **`main`**, mit `origin/main` synchron (Stand 2026-11-10 mittags).
 Der Branch `cline/pveejb87` ist geloescht. `main` traegt die
 RomanForge-Buchpakete (Die Sprache des Anderen, Der Lotse von Ruegen,
 Der Lotse [zweites Paket], Perfect Sight), das Submodul
@@ -565,11 +566,11 @@ Peter-I-Raffung 2026-09-17.
   `docs/offene-punkte.md` Punkt 14, `docs/higgsfield-integration.md`.
   Bild-Befund 2026-11-10 (`die-sprache-des-anderen` 001-003 neu, aber fast
   identisch): Prompt vom buchweiten `illustration_setting` dominiert;
-  Figurenauswahl seit 2026-11-10 auf Haeufigkeit + Berto-Trennung
-  (`tools/generate_illustration.py`), seit dem Vignetten-Umbau waehlt der
-  Moment die Figuren. Naechste Schritte: Dry-Runs 001/003 abnicken, 2-3
-  Bilder echt, dann 004-034
-  (`docs/offene-punkte.md` Punkt 14).
+  behoben durch die Vignetten-Stufe - der Moment waehlt die Figuren, ihr
+  Aussehen kommt aus `names.yaml` (RomanForge), nicht aus der Vignette.
+  Bilder 001-034 sind damit fertig; offen sind KDP-Upload, Kindle-Preview
+  und ggf. ein 2k-Neulauf fuer echten 300-dpi-Druck
+  (`docs/offene-punkte.md` Punkt 14, `docs/HANDOVER.md`).
 - **Top-5-Anlage 09/2026** (auf `main`): `books/kuprin-duell/`,
   `books/kuprin-moloch/`, `books/grin-wellenlaeuferin/`,
   `books/pissemski-tausend-seelen/`. Kapitelquellen und Metadaten stehen,

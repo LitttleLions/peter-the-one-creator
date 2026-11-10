@@ -75,22 +75,19 @@ versioniert unter `books/die-dritte-chronik/work/imports/romanforge/`.
 
 Die Sprache des Anderen (`books/die-sprache-des-anderen/`, Timo Verita,
 DE-Original): 34/34 Kapitel, Gate ERROR=0/WARNING=0/INFO=0, Buch-EPUB
-`book-die-sprache-des-anderen-stil-01-original-20261028-203757.epub`
-(5.361.120 Bytes, ohne Bypass) mit Cover (Titel/Autor im Bild) und
-Kapitelbildern 001-003. Titelei (Rechte, Untertitel, Zusammenfassung,
-Autorenbio, Impressum) ist gefüllt; siehe `docs/HANDOVER.md`.
-Bild-Befund 2026-11-10 (`die-sprache-des-anderen` 001-003 neu, aber fast
-identisch): Der Prompt wurde vom buchweiten `illustration_setting`
-(~2.500 Zeichen, immer gleich) dominiert; Figurenblock (~300 Zeichen) und
-Szenenauszug gingen unter. Seit 2026-11-10 baut
-`tools/generate_illustration.py` den Prompt aus einer **Vignette**
-(`work/prompts/higgsfield/vignettes/<kapitel>.json`): Moment, Figuren,
-Gegenstaende/Ausschnitt, dann ein kurzer Stilanker. Die Kulisse kommt aus dem
-Moment, nicht aus einer Ortsliste im `book.yaml`; den Moment waehlt
-`--vignette-provider openrouter` (LLM) oder `none` (kostenfreie Heuristik).
-Naechste Schritte siehe `docs/offene-punkte.md` Punkt 14 (Dry-Runs 001/003
-abnicken, 2-3 Bilder echt, dann 004-034); Details in
-`docs/higgsfield-integration.md`.
+`book-die-sprache-des-anderen-stil-01-original-20261110-132245.epub`
+(8,0 MB, ohne Bypass) mit Cover (Titel/Autor im Bild) und Kapitelbildern
+001-034. Titelei (Rechte, Untertitel, Zusammenfassung, Autorenbio, Impressum)
+ist gefuellt; siehe `docs/HANDOVER.md`.
+Bild-Prompt seit 2026-11-10 ueber **Vignetten**
+(`work/prompts/higgsfield/vignettes/<kapitel>.json`): der Moment waehlt
+Figuren und Gegenstaende, das Aussehen kommt aus `names.yaml` (RomanForge),
+der Stilanker steht kurz am Ende. Print-Satz (Stempel `134427`,
+`--illustration-mode chapter_head`): Innenleben 330 Seiten, Komplett-PDF 332,
+Wrap 306,6 x 222,2 mm mit 20,96 mm Ruecken und Druckcover
+`assets/covers/cover-print.jpg`. Offen: KDP-Upload und Kindle-Preview;
+Details in `docs/higgsfield-integration.md` und `docs/offene-punkte.md`
+Punkt 14.
 Der Lotse von Ruegen (`books/der-lotse-von-ruegen/`, Timo Verita,
 DE-Original): 33/33 Kapitel, Gate ERROR=0/WARNING=0/INFO=20, Cover +
 Kapitelbilder 001-010; Regal-Freigabe `website.enabled: true`

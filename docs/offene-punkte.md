@@ -895,8 +895,22 @@ Offen:
      -> `Berto`. Dafuer `--force-visual` an `sync_romanforge_characters.py`;
      ohne das Flag bleibt handgepflegtes `visual` stehen.
   3. Bilder 001-034 alle neu erzeugt (Vignette je Kapitel, LLM waehlt den
-     Moment). Offen: Buch-EPUB mit den neuen Bildern bauen, Sichtpruefung
-     durch den Nutzer.
+     Moment). Ablauf je Kapitel: `--vignette-provider openrouter
+     --vignette-overwrite --dry-run` (nur Vignette + `*-dryrun.md`, kein Bild)
+     -> `--overwrite` (Bild).
+  4. Export mit den neuen Bildern: EPUB `...-20261110-132245.epub` (8,0 MB,
+     34 Kapitelbilder + Cover, Gate 0/0/0), A5-PDF `...-20261110-132328.pdf`.
+  5. Print: neuer Modus `chapter_head` (Titel -> Vignette 62 % Breite ->
+     Text laeuft weiter). Bei 5,5x8,5/classic: `full_page` 347 Seiten,
+     `inline` 334, `chapter_head` 330 - und 0 dpi-Warnungen statt 34, weil
+     die Pruefung jetzt mit der echten Anzeigebreite rechnet (~355 dpi).
+  6. Druckcover `assets/covers/cover-print.jpg` (Motiv 2:3/2k, Typografie mit
+     EB Garamond, 1690x2585 px) und KDP-Satz im Stempel `134427`:
+     Innenleben 330 Seiten, Komplett-PDF 332, Wrap 306,6 x 222,2 mm,
+     Ruecken 20,96 mm. Ueberholte Print-PDFs (10 Dateien, 258 MB) geloescht.
+  **Offen:** KDP-Upload (Manuskript `...-interior.pdf` + Cover `...-wrap.pdf`),
+  Kindle-Preview; Covermotiv hat real nur ~241 dpi (auf 300 hochskaliert) - bei
+  Bedarf 2k-Neulauf; Gerwin-Tippfehler in RomanForge.
   - Fehler dabei gefunden und behoben: `Berto der Sohn` bekam das Aussehen
     des alten Knechts, weil beide in RomanForge auf `Berto` laufen ->
     `figure_looks` loest jetzt `visual_label` zuerst auf.

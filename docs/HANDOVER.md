@@ -1,4 +1,4 @@
-# Handover – Stand 2026-11-01 (RomanForge-Figuren-Abgleich, alles auf `main`)
+# Handover – Stand 2026-11-10 (Bilder, Vignetten, Print mit Kopfvignette)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei.
 > Kopierfertiger Einstieg: [uebergabe-prompt.md](./uebergabe-prompt.md) - dort
@@ -7,7 +7,65 @@
 > **Diese Datei erst lesen, wenn die konkrete Aufgabe sie braucht.**
 > Einstiegskosten und Hebel (gemessen): [kontextanalyse.md](./kontextanalyse.md).
 
-## Letzte Session (2026-11-01, RomanForge-Figuren-Abgleich)
+## Letzte Session (2026-11-10, `die-sprache-des-anderen`: Bilder, Print, Cover)
+
+Branch **`main`**, bis `bbb136e` gepusht. Schwerpunkt war das Bildproblem: die
+Kapitelbilder 001-003 sahen fast gleich aus, die Figuren waren zu alt/uneinheitlich.
+
+- **Vignetten-Stufe** (neu, `tools/lib/illustration_vignette.py`): pro Kapitel
+  wird *ein* bildtragender Moment gewaehlt und als
+  `work/prompts/higgsfield/vignettes/<kapitel>.json` abgelegt (Moment, Figuren,
+  Gegenstaende, Ausschnitt, Belegabsaetze, Quelle `heuristic|openrouter|manual`).
+  `build_prompt()` baut daraus: Moment -> Figuren -> Gegenstaende/Ausschnitt ->
+  kurzer Stilanker (`illustration_setting` max. 700 Zeichen,
+  `illustration_world` max. 400). Vorher standen 1.642 Zeichen Ortskatalog vor
+  zwei Anfangsabsaetzen; das machte alle Bilder gleich.
+- **Aussehen kommt aus dem Glossar**: `names.yaml` (`visual`, aus RomanForge)
+  schlaegt das per-Kapitel-`look` der Vignette; die Vignette liefert es nur fuer
+  Figuren ohne Eintrag (Folmar, Schmied, Raeuberhauptmann, Guntram, Vogt).
+  `figure_looks()` loest `visual_label` zuerst auf - sonst trug `Berto der Sohn`
+  das Gesicht des alten Knechts (beide heissen in RomanForge `Berto`).
+- **Figuren neu importiert** (Uebergabe `feebc32e`, Modus `update`, 10 Figuren):
+  `sync_romanforge_characters.py --force-visual --apply` (neues Flag). 9
+  Aussehen-Texte + Umbenennung `Berto der Sohn` -> `Berto`. Alda ist jetzt ~32,
+  Raginbert 50 mit Kettenhemd und Schwert, Otwin 29 mit Tonsur.
+  `Graf Adalhard` von Hand in `names.yaml` (RomanForge hat ihn nicht; Schreibweise
+  des Romans, Alias `Adelhardt`). `Isenbart` war schon von Hand drin.
+- **Bilder 001-034** alle neu erzeugt (Vignette je Kapitel, LLM waehlt den Moment,
+  ~0,0007 USD pro Kapitel). Kosten der 34 Bilder: je 1 Credit. Ablauf je Kapitel:
+  `--vignette-provider openrouter --vignette-overwrite --dry-run` (schreibt
+  Vignette + `*-dryrun.md`, kostet kein Bild) -> `--overwrite` (Bild).
+- **Download-Fix**: ein fertig gerendertes Bild ging verloren, weil der
+  CDN-Download mit TLS-Reset abbrach (`WinError 10054`). `download_url` versucht
+  es jetzt dreimal; die Metadaten werden mit `job_result` und `media_url`
+  **vor** dem Download geschrieben. Der eine verlorene Job wurde manuell aus der
+  `result_url` geholt.
+- **Export** (`die-sprache-des-anderen`): EPUB
+  `book-die-sprache-des-anderen-stil-01-original-20261110-132245.epub` (8,0 MB,
+  34 Kapitelbilder + Cover, Gate 0/0/0), A5-PDF `...-20261110-132328.pdf`
+  (6,1 MB). Playwright-Chromium war nicht installiert und wurde nachgezogen
+  (118 MB in den Benutzer-Cache).
+- **Print**: neuer Bildmodus `chapter_head` (Titel -> Vignette 62 % Breite,
+  max. 40 % Satzhoehe -> Text laeuft weiter). Messung bei gleichem Trim/Profil:
+  `full_page` 347 Seiten, `inline` 334, `chapter_head` 330. Die dpi-Pruefung
+  rechnet jetzt mit der echten Anzeigebreite (Minimum aus Breiten- und
+  Hoehenbegrenzung) statt pauschal 72 %: `chapter_head` meldet 0 Warnungen,
+  die Bilder liegen bei ~355 dpi (vorher 252 dpi Warnung).
+- **Druckcover** neu: Motiv in 2:3 bei 2k erzeugt (1360x2048), auf
+  5,5x8,5 + 3,175 mm Beschnitt geschnitten, Typografie mit EB Garamond
+  (Titel, Untertitel, Autor, Fusszeile) -> `assets/covers/cover-print.jpg`
+  (1690x2585 px). Achtung: die Motivdatei hat real ~241 dpi, wurde auf 300 dpi
+  hochskaliert.
+- **KDP-Satz** (Stempel `134427`): Innenleben 330 Seiten, Komplett-PDF 332
+  Seiten, Wrap 306,6 x 222,2 mm mit Ruecken 20,96 mm (330 Seiten Cream).
+  Rueckentext im Wrap ist jetzt zentriert (`print_wrap.py`).
+- **Aufgeraeumt**: 10 ueberholte Print-PDFs (258 MB) und ihre Reports geloescht;
+  es bleiben nur die drei `134427`-Dateien.
+- **Offen**: KDP-Upload (Manuskript + Wrap), Kindle-Preview, ggf. 2k-Neulauf der
+  Bilder fuer echten 300-dpi-Druck, Tippfehler `ann, 25 Jahre` bei Gerwin in
+  RomanForge korrigieren.
+
+## Vorige Session (2026-11-01, RomanForge-Figuren-Abgleich)
 
 Branch **`main`** (`1535a63`), gepusht. Ausführlich zur Zusammenarbeit beider Repos:
 `docs/sitzungs-uebergabe.md` im Repo NovelWriter (RomanForge, `C:\code\NovelWriter` bzw.

@@ -46,8 +46,10 @@ Badge, und mit einem anderen Motiv als das Ebook-Cover.
   0,25 fuer einen Fehlstart (PowerShell schnitt den mehrzeiligen Prompt ab,
   1k/1:1 verworfen) und 2 x 1,25 fuer die verworfenen 3:4-Versuche.
 - **Offen**: KDP-Upload (Manuskript `141553` + Wrap), Kindle-Preview,
-  Tippfehler `ann, 25 Jahre` bei Gerwin in RomanForge. EPUB `132245` und
-  A5-PDF `132328` sind ueberholt (altes Cover) und noch nicht geloescht.
+  Tippfehler `ann, 25 Jahre` bei Gerwin in RomanForge. Die ueberholten
+  Exporte `132245` (EPUB) und `132328` (A5-PDF, altes Cover) sind geloescht;
+  im EPUB-Ordner liegen noch fuenf aeltere Staende aus 2026-10-28/11-09 und
+  sechs alte Manifest-Eintraege aus dem Print-Vergleich (132356 ... 134343).
 
 ## Vorige Session (2026-11-10 mittags, `die-sprache-des-anderen`: Bilder, Print, Cover)
 

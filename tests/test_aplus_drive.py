@@ -50,6 +50,26 @@ class SensitiveTests(unittest.TestCase):
         self.assertFalse(drive.requires_submit_confirmation("Weiter"))
 
 
+class LoginDetectionTests(unittest.TestCase):
+    class _Page:
+        def __init__(self, url: str) -> None:
+            self.url = url
+
+    def test_storefront_without_kdp_is_not_authenticated(self) -> None:
+        page = self._Page("https://www.amazon.de/")
+        self.assertFalse(drive.authenticated_on_kdp(page, [{"label": "Suche"}]))
+
+    def test_signin_page_is_not_authenticated(self) -> None:
+        page = self._Page("https://www.amazon.de/ap/signin?x=1")
+        self.assertFalse(drive.authenticated_on_kdp(page, [{"label": "E-Mail"}]))
+        page = self._Page("https://kdp.amazon.de/aplus")
+        self.assertFalse(drive.authenticated_on_kdp(page, [{"label": "Mobiltelefonnummer oder E-Mail-Adresse"}]))
+
+    def test_kdp_page_is_authenticated(self) -> None:
+        page = self._Page("https://kdp.amazon.de/aplus")
+        self.assertTrue(drive.authenticated_on_kdp(page, [{"label": "A+ Inhalt erstellen"}]))
+
+
 class ResolveTests(unittest.TestCase):
     def test_resolves_case_and_space_insensitive(self) -> None:
         control, problem = drive.resolve_step(_controls(), {"label": "  hEaDlInE "})

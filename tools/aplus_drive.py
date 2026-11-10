@@ -265,16 +265,71 @@ def execute_plan(
     return records
 
 
+LOGIN_URL = "https://kdp.amazon.de/aplus"
+LOGIN_FALLBACKS = (
+    "https://kdp.amazon.de/aplus",
+    "https://www.amazon.de/",
+    "https://kdp.amazon.com/en_US/bookshelf",
+)
+LOGIN_HINTS = ("e-mail", "mobiltelefon", "passwort", "password", "anmelden", "sign in")
+
+
+def open_login_page(page, url: str) -> str:
+    """Erste erreichbare Anmeldeseite oeffnen (Amazon resettet einzelne Hosts)."""
+    candidates = [url] + [candidate for candidate in LOGIN_FALLBACKS if candidate != url]
+    for candidate in candidates:
+        try:
+            page.goto(candidate, wait_until="domcontentloaded", timeout=30000)
+            return candidate
+        except Exception as error:
+            print(f"  {candidate} nicht erreichbar ({type(error).__name__}), naechster Versuch")
+    raise SystemExit("Keine KDP-/Amazon-Seite erreichbar")
+
+
+def looks_like_login(controls: list[dict[str, Any]]) -> bool:
+    """Anmeldeseite erkennen: sie zeigt genau die Konto-Felder, keine Formulare."""
+    labels = " ".join(normalize_label(control.get("label")) for control in controls)
+    return any(hint in labels for hint in LOGIN_HINTS)
+
+
+def authenticated_on_kdp(page, controls: list[dict[str, Any]]) -> bool:
+    """Nur zaehlt eine echte KDP-Seite - der Storefront ohne Login reicht nicht."""
+    url = page.url or ""
+    return (
+        "kdp.amazon." in url
+        and "signin" not in url
+        and "/ap/" not in url
+        and not looks_like_login(controls)
+    )
+
+
 def cmd_login(args: argparse.Namespace) -> int:
     state = Path(args.storage_state)
+    url = getattr(args, "url", None) or LOGIN_URL
+    assert_allowed_url(url)
     with open_browser(state, headless=False) as (page, context):
-        page.goto("https://kdp.amazon.com/en_US/bookshelf")
-        print("Browser offen. Bitte anmelden (inkl. Zwei-Faktor), dann hier Enter druecken.")
-        input()
-        state.parent.mkdir(parents=True, exist_ok=True)
-        context.storage_state(path=str(state))
-    print(f"Sitzung gespeichert: {state}")
-    return 0
+        opened = open_login_page(page, url)
+        print(f"Browser offen auf {opened}")
+        print("Bitte im Fenster anmelden (inkl. Zwei-Faktor). Ich warte und speichere dann.")
+        deadline = int(getattr(args, "timeout", 300))
+        waited = 0
+        while waited < deadline:
+            try:
+                page.wait_for_timeout(5000)
+                controls = snapshot_page(page)
+            except Exception as error:  # Fenster geschlossen oder Verbindung weg
+                print(f"Fenster weg ({type(error).__name__}); nichts gespeichert.", flush=True)
+                return 2
+            waited += 5
+            if authenticated_on_kdp(page, controls):
+                state.parent.mkdir(parents=True, exist_ok=True)
+                context.storage_state(path=str(state))
+                print(f"Anmeldung erkannt nach {waited} s auf {page.url}. Sitzung gespeichert: {state}", flush=True)
+                return 0
+            if waited % 30 == 0:
+                print(f"  warte ... {waited} s (Seite: {page.url[:70]})", flush=True)
+        print("Zeitlimit erreicht, keine Anmeldung erkannt. Sitzung unveraendert.")
+        return 1
 
 
 def cmd_snapshot(args: argparse.Namespace) -> int:
@@ -358,6 +413,8 @@ def build_parser() -> argparse.ArgumentParser:
     sub = parser.add_subparsers(dest="command", required=True)
 
     login = sub.add_parser("login", parents=[common], help="Browser oeffnen und Anmeldung speichern")
+    login.add_argument("--url", default=LOGIN_URL, help="Startseite (Default: deutsches KDP)")
+    login.add_argument("--timeout", type=int, default=300, help="Sekunden warten (Default 300)")
     login.set_defaults(func=cmd_login)
 
     snapshot = sub.add_parser("snapshot", parents=[common], help="sichtbare Felder einer Seite auflisten")

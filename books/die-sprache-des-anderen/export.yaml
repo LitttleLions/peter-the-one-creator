@@ -126,4 +126,9 @@ book:
   cover:
     mode: placeholder
     image_path: ''
+  # Reihe "Zwischen Rhein und Maas": Dieser Roman ist Band 2, Band 1 entsteht
+  # spaeter. Der Cover-Text "ROMANREIHE / BAND 1" im Stand 2026-11-10 steht im
+  # Bild (cover.jpg / cover-print.jpg) und wird erst beim naechsten Coverlauf
+  # auf Band 2 gestellt; ein YAML-Feld aendert ihn nicht.
   series: Zwischen Rhein und Maas
+  series_volume: 2

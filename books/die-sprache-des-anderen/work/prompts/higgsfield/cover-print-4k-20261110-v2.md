@@ -1,9 +1,12 @@
-﻿# Cover-Prompt Druckcover (4k, Text im Bild) - Versuch 2 mit Randregel
+# Cover-Prompt Druckcover (4k, Text im Bild) - Versuch 2 mit Randregel
 
 Buch: `die-sprache-des-anderen`
+Reihe: Zwischen Rhein und Maas, **Band 2** (siehe `export.yaml: book.series_volume`).
+Der Prompt-Body unten nennt noch `BAND 1` - das ist der Stand des 2026-11-10.
+Beim naechsten Coverlauf `BAND 1` durch `BAND 2` ersetzen.
 Ziel: `assets/covers/cover-print.jpg`, 5,5 x 8,5 in + 3,175 mm Beschnitt, 300 dpi
 Modell: `gpt_image_2_5`, `aspect_ratio 2:3`, `resolution 4k`
-Motivvorgabe: wie Ebook-Cover (`assets/covers/cover.png`), warme Sommerabend-Szene
+Motivvorgabe: wie Ebook-Cover (`assets/covers/cover.jpg`), warme Sommerabend-Szene
 Freigabe: Nutzer 2026-11-10 (4k-Render mit Text, bis 3 Versuche)
 
 ## Prompt

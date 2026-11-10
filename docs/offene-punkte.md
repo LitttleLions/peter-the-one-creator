@@ -887,14 +887,24 @@ Offen:
   Stilanker; `--dry-run` schreibt `*-dryrun.md` und ueberschreibt den
   echten Prompt nicht. Details: `docs/higgsfield-integration.md`
   ("Prompt-Aufbau (Vignetten)").
-  **Offen (Reihenfolge):**
-  1. Dry-Runs 001/003 pruefen und abnicken
-     (`books/die-sprache-des-anderen/work/prompts/higgsfield/`)
-     - Vignette 001: Alda an der Eisenkette am Kai (nur Alda anwesend).
-     - Vignette 003: Alda vor Graf Adalhard mit den Kerbhoelzern; Hinweis:
-       `Graf Adalhard` fehlt noch in `names.yaml`.
-  2. 2-3 Bilder echt erzeugen und mit den alten 001-003 vergleichen.
-  3. Erst dann 004-034, je Kapitel Vignette + Dry-Run.
+  **Erledigt 2026-11-10 (Nachmittag):**
+  1. Vignetten 001-003 abgenommen; `Graf Adalhard` in `names.yaml` angelegt
+     (kein RomanForge-Eintrag, Schreibweise des Romans, Alias `Adelhardt`).
+  2. Figuren neu aus RomanForge uebernommen (Uebergabe `feebc32e`, Modus
+     `update`, 10 Figuren): 9 Aussehen-Texte + Umbenennung `Berto der Sohn`
+     -> `Berto`. Dafuer `--force-visual` an `sync_romanforge_characters.py`;
+     ohne das Flag bleibt handgepflegtes `visual` stehen.
+  3. Bilder 001-034 alle neu erzeugt (Vignette je Kapitel, LLM waehlt den
+     Moment). Offen: Buch-EPUB mit den neuen Bildern bauen, Sichtpruefung
+     durch den Nutzer.
+  - Fehler dabei gefunden und behoben: `Berto der Sohn` bekam das Aussehen
+    des alten Knechts, weil beide in RomanForge auf `Berto` laufen ->
+    `figure_looks` loest jetzt `visual_label` zuerst auf.
+  - Tippfehler in RomanForge: Gerwins Aussehen beginnt mit `ann, 25 Jahre`
+    (statt `Mann`); lokal korrigiert, in RomanForge noch zu fixen.
+  - Ephemere Figuren ohne Glossareintrag (Folmar, Raeuberhauptmann,
+    Schmied, Vogt, Guntram) bekommen ihr Aussehen aus der Vignette; bewusst
+    nicht in RomanForge aufgenommen.
 - ~~Cover-Typografie (Titel/Autor im Bild) fehlt beim
   Sprache-des-Anderen-Cover~~ - Erledigt 2026-10-28 abends: neues Cover
   mit Titel/Autor/Serie im Bild (Punkt 16).

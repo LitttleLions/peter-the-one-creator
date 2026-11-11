@@ -134,11 +134,32 @@ print:
   # ergibt 924 Seiten und liegt ueber dem Cream-Limit 776; ohne diese Zeilen
   # baut `--format paperback` ohne Flags wieder den unbrauchbaren Satz.
   # A-D-Vergleich: exports/stil-02-poetisch/book/print/print-comparison-20260927-pharao-abcd.md
+  # chapter_head statt full_page (Nutzerentscheidung 2026-11-11): 640 statt
+  # 674 Seiten, Bild als Kopfvignette unter dem Kapiteltitel.
   enabled: true
   trim_size: 6x9
   layout_profile: long_classic
-  illustration_mode: full_page
+  illustration_mode: chapter_head
   paper: cream
+  # Rueckseiten-Gestaltung des Umschlags (2026-11-11). Ohne `styled: true`
+  # bleibt die schlichte Fassung (weisse Flaeche) - so laufen alle anderen
+  # Buchpakete unveraendert weiter.
+  back_cover:
+    styled: true
+    colors:
+      background: '#f4ecdc'
+      text: '#2b2117'
+      heading: '#8c2b1c'
+      rule: '#b8934f'
+    tagline: Das alte Aegypten als Spiegel der Macht - ein Roman ueber Herrschaft, Wissen und die Grenzen des einzelnen Willens.
+    quote: Aegypten ist ein Geschenk des Nils.
+    quote_source: Herodot
+    author_bio: >-
+      Boleslaw Prus (1847-1912), eigentlich Aleksander Glowacki, gilt als der
+      bedeutendste polnische Erzaehler des Realismus. Als Journalist und
+      Chronist seiner Zeit schrieb er ueber soziale und politische Spannungen;
+      in "Faraon" verlegte er sie ins alte Aegypten und schuf einen der
+      markantesten historischen Romane der polnischen Literatur.
 website:
   enabled: true
   amazon_url: ''

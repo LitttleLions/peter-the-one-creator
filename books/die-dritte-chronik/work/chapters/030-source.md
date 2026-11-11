@@ -5,288 +5,153 @@
 
 ---
 
-Sie kam in der Stunde, in der die Lampe zu flackern begann.
+Die Flamme der Butterlampe zuckte im Luftzug der Filztür, warf den Schatten des Richters an die gewölbte Wand aus Weidengeflecht und ließ ihn für einen Herzschlag riesenhaft erscheinen. Shigi Qutuqu saß mit gekreuzten Beinen auf dem harten Filzpolster hinter der niedrigen Schreibtafel. Vor ihm lag der offene Gesetzeskodex, das blau-weiße Register, in dem seit den Tagen des großen Gründers jede Schuld und jede Sühne ihren Platz fand. Die Luft roch nach Hammeltalg, altem Papier und dem bitteren Hauch von Wacholder, den er am Abend im eisernen Becken verbrannt hatte, um die Feuchte aus den Gelenken zu treiben.
 
-Shigi Qutuqu saß an seinem Tisch, die Hände flach auf der Holzplatte, und er wartete. Er hatte auf sie gewartet, seit der Vertraute ihm die Nachricht gebracht hatte. Sie würde kommen. Sie musste kommen. Die Logik der Macht, die er seit vierzig Jahren studierte, ließ keine andere Möglichkeit zu.
+Hinter ihm, im Halbdunkel des Jurtenrunds, stand sein alter Vertrauter. Der Mann, der ihm seit drei Jahrzehnten als Bote und Schatten diente, rührte sich nicht. Er stand da wie ein Pfahl in der Steppe, die Hände in den Ärmeln des Reitermantels verborgen, der Atem kaum lauter als das Schaben eines trockenen Halms im Frost.
 
-Das Zelt war still. Der Vertraute stand im Schatten des Eingangs, ein Mann, der gelernt hatte, unsichtbar zu sein, ein Mann, der die Briefe getragen hatte, die niemand lesen sollte, ein Mann, der wusste, dass das Schweigen das einzige Gesetz war, das nicht gebrochen werden durfte.
+Shigi sah auf, als der Vorhang zur Seite geschoben wurde.
 
-Shigi hörte ihre Schritte, bevor er sie sah.
+Sie trat ein, ohne anzuklopfen, ohne den Gruß der Kanzleien. Er brauchte nicht hinzusehen, um zu wissen, wer es war. Es gab nur eine Person im gesamten Hofbezirk, die den Schritt einer Katze im Schnee besaß und doch den Raum mit dem Gewicht einer ganzen versunkenen Welt füllte. Fatima.
 
-Die Schritte waren leicht, aber nicht eilig. Sie kamen nicht wie die Schritte einer Frau, die floh. Sie kamen wie die Schritte einer Frau, die wusste, dass sie nicht fliehen konnte. Sie kamen wie die Schritte einer Frau, die gekommen war, um zu geben, was sie nicht mehr behalten konnte.
+Sein Blick wanderte nicht zuerst zu ihrem Gesicht, sondern zu ihren Händen. Sie waren ruhig. Keine zitternde Sehne, kein unruhiges Nesteln am Saum, keine Flucht in die Falten des Stoffs. Wer im Gericht vor ihm stand, verriet sich stets zuerst durch die Hände – sie griffen nach Ausflüchten, ballten sich in ohnmächtigem Zorn oder suchten nach Halt an den eigenen Knien. Ihre Hände lagen flach an ihren Seiten, wie abgelegte Werkzeuge nach vollbrachter Arbeit.
 
-Der Vorhang bewegte sich.
+Dann sah er ihre Kleidung. 
 
-Sie trat ein, und Shigi sah sie an, wie er alle Zeugen ansah, die vor ihn traten. Er sah ihre Hände. Sie waren ruhig. Kein Zittern, kein Krampfen, kein unnötiges Greifen nach dem Stoff des Gewandes. Die Hände einer Frau, die nichts mehr zu verlieren hatte.
+Sie trug den einfachen, dunkelbraunen Wollmantel der Kanzleidienerschaft. Keine Seide aus Chorasan, keine der zarten Borten, die Töregene ihr einst geschenkt hatte, keine Schnalle aus gehämmertem Silber, kein Türkis am Gürtel. Der Stoff war schmucklos, fest zusammengerafft, grob gefüttert. Es war das Gewand einer Frau, die darauf wartete, dass fremde Fäuste sie packten. Sie hatte nichts am Leib, das man ihr entreißen konnte. Sie hatte sich bereits entkleidet, bevor die Häscher des Khagans ihre Riemen schnürten.
 
-Er sah ihre Kleidung. Nichts Wertvolles am Leib. Kein Schmuck, keine verzierten Gürtel, keine Seide. Ein einfaches Gewand aus grobem Wollstoff, das sie trug wie eine Rüstung.
+Sie war auf Verhaftung vorbereitet.
 
-*Sie war auf Verhaftung vorbereitet.*
+Shigi spürte ein Ziehen in den alten Knochen seiner Schulter, eine Erinnerung an Wunden aus Tagen, als die Welt noch mit Lanzen geteilt wurde und nicht mit Siegellack. Wie oft hatte er Männer gesehen, die sich mit Gold behängten, um ihren Richtern zu imponieren, nur um nackt am Pfahl zu enden. Diese Frau ging den umgekehrten Weg. Sie hatte sich selbst ausgelöscht, bevor Güyük es tun konnte.
 
-Der Gedanke kam und blieb. Er sah es an der Art, wie sie den Gürtel gebunden hatte, wie sie die Ärmel gerafft hatte, wie sie die Falten des Gewandes glatt gestrichen hatte, bevor sie eintrat. Sie hatte sich angezogen, als ob sie wüsste, dass sie nicht mehr würde ausziehen können.
+Sie trat an den Tisch. Zwischen ihren Händen hielt sie das Bündel.
 
-Er sah ihre Augen. Sie waren klar. Die Augen einer Frau, die geweint hatte, aber nicht mehr weinen würde. Die Augen einer Frau, die getrauert hatte, aber nicht mehr trauern würde. Die Augen einer Frau, die bereit war.
+Grober Steppenfilz, mit Hanffäden stramm und fest umwickelt, ohne kunstvolle Knoten, ohne ein Siegel, das Herkunft oder Rang verriet. Sie legte es auf das Holz der Tafel. Die Bewegung war so bedacht, so endgültig, als senke sie einen Leichnam in die gefrorene Erde des Orchon-Tals.
 
-„Fatima", sagte er.
+„Wann ist später?“, fragte er. Seine eigene Stimme klang in seinen Ohren wie das Mahlen zweier Granitblöcke am Ufer des Kalka-Flusses – langsam, schwer, von vierzig Wintern des Richtens abgeschliffen.
 
-„Shigi Qutuqu", sagte sie.
+„Wenn es keine Khane mehr braucht, um gelesen zu werden.“
 
-Sie sprach in der Gegenwart.
+Ihre Grammatik schnitt tiefer als jede Klinge. Sie sprach nicht in der Zukunft. Sie gebrauchte keinen Konjunktiv, kein vorsichtiges Hoffen, keine Bedingung, die Raum für ein Morgen ließ. Sie sprach in jener nackten Gegenwart, die den Verurteilten eigen war, deren letzte Stunde bereits von den Sternen gezählt wurde. Es gab für sie kein *Wenn ich zurückkehre* oder *Falls wir den Frühling sehen*. Es gab nur das Sein des Gegenstands und das Vergehen der Herrscher.
 
-Das war das erste, was er hörte, das erste, was er registrierte, das erste, was er in das Protokoll seines Gedächtnisses schrieb: *Sie spricht in der Gegenwart. Kein Konjunktiv. Kein Zweifel. Kein Vielleicht. Sie spricht, als ob die Zeit aufgehört hätte zu fließen.*
+Er zuckte nicht mit den Wimpern. Er wusste, was Wahrheit war. Wahrheit war kein Licht, das vom Himmel fiel; sie war das, was übrig blieb, wenn das Fleisch verbrannt und das Gold geplündert war. 
 
-Die meisten Menschen, die vor ihm standen, sprachen in der Vergangenheit oder in der Zukunft. Sie rechtfertigten, was sie getan hatten. Sie versprachen, was sie tun würden. Sie sprachen im Konjunktiv der Hoffnung oder im Imperativ der Verzweiflung.
+Shigi streckte den Arm aus. Seine Hand, gezeichnet von den Knoten der Gicht und den Narben alter Feldzüge, senkte sich auf das Bündel. Unter der rauen Wolle spürte er die harten, geraden Kanten einer Holzschatulle. Ein Federkasten. Der Qalamdān, den sie gehütet hatte wie andere Frauen ihre erstgeborenen Söhne. Darunter die dichten Lagen von Papier, eng gepresst, voller stummer Zeichen.
 
-Fatima sprach in der Gegenwart. Sie sagte, was war. Sie fragte nicht. Sie bat nicht. Sie rechtfertigte nicht.
+Er wog es in der Handfläche. Ein leichtes Heben, ein Prüfen der Schwere.
 
-Sie zog das Bündel unter ihrem Gewand hervor.
+Es wog nicht mehr als ein halber Brotlaib. Und doch fühlte es sich an wie die Last eines ganzen Reiches, das auf einer Kante balancierte.
 
-Es war in Filz gewickelt, grob, uneben, wie ein Stein, den man aus einem Flussbett gehoben hatte. Es war nicht schön. Es war nicht wertvoll. Es war nichts, was ein Dieb nehmen würde, nichts, was ein Soldat beachten würde, nichts, was ein Schreiber registrieren würde.
+Er nickte. Ein einziges Mal. Kurz. Schwer.
 
-Sie legte es auf den Tisch.
+Fatima verneigte sich nicht. Sie sah ihn an – ein Blick, der kein Flehen enthielt, keine Bitte um Gnade, nur jene furchtbare, unerbittliche Klarheit zweier Fremder, die unter demselben Zelt des Schicksals alt geworden waren. Dann wandte sie sich um, schob die schwere Filzklappe beiseite und trat hinaus in den eisigen Atem der mongolischen Nacht.
 
-Die Bewegung war präzise. Die Bewegung war endgültig. Die Bewegung war die Bewegung einer Frau, die wusste, dass sie etwas gab, das sie nicht zurücknehmen würde.
+Der Vorhang fiel zurück. Das Tuch schwang noch zweimal leise nach, dann stand die Luft wieder still.
 
-„Ich gebe dir, was ich nicht mehr schützen kann", sagte sie.
+Shigi rührte sich nicht. Das Flackern der Lampe spiegelte sich auf der glatten Oberfläche des Tisches. Draußen heulte der Wind in den Spannseilen der Jurte, ein langgezogener, klagender Ton, als weine die Steppe um das, was nicht mehr gerettet werden konnte.
 
-Shigi sah das Bündel an. Es lag auf dem Tisch, zwischen ihnen, wie ein Urteil, das noch nicht gesprochen war, wie ein Beweis, der noch nicht geprüft war, wie eine Wahrheit, die noch nicht gehört war.
+Der alte Bote hinter ihm trat einen halben Schritt vor. Das Leder seiner Stiefel knarrte leise im getrockneten Gras, das den Boden bedeckte.
 
-Er hob die Hand.
+„Soll ich…“, begann der Vertraute mit heiserer Stimme, hielt jedoch mitten im Satz inne.
 
-Er legte sie auf das Bündel.
+Shigi antwortete nicht sofort. Seine Finger lagen noch immer auf der Wolle. 
 
-Das Filz fühlte sich rau an, kalt, wie die Haut eines Tieres, das lange tot war. Er spürte die Kanten des Inhalts, die harten Ecken, die weichen Flächen, die Formen, die sich unter dem Filz verbargen.
+Da war sie. Die Versuchung.
 
-Er konnte es öffnen.
+Sie brannte in seinen Fingerkuppen wie frische Asche. Vierzig Jahre lang war er der Jarghuchi gewesen, der oberste Richter des Weltreichs. Vierzig Jahre lang hatte Temüjin, der Herrscher der Völker, ihn gelehrt, dass kein Wort ungesehen bleiben durfte. Ein Richter, der nicht prüft, ist ein Blinder mit einem Schwert. Sein ganzes Wesen, jede Falte seines Gehirns, jede Gewohnheit seines Blutes verlangte danach, die Schnur zu lösen.
 
-Er konnte es prüfen.
+Er wollte wissen.
 
-Er konnte es registrieren.
+Er wollte die Kanten des Holzes sehen, das Papier auffalten, die Tinte riechen. Er wollte wissen, was sie über den Tag aufgeschrieben hatte, an dem Ögedei mit blau angelaufenen Lippen über seinem goldenen Becher zusammenbrach. Er wollte wissen, ob sein eigener Name darin stand – Shigi Qutuqu, der Tatarenknabe, der die Gesetze der Mörder seines eigenen Blutes hütete. Stand darin, dass er geschwiegen hatte? Stand darin, dass er den Kältetod beurkundet hatte, obwohl die Galle des Khagans nach bitteren Mandeln stank?
 
-Vierzig Jahre hatte er das getan. Vierzig Jahre hatte er die Akten geöffnet, die Schrift gelesen, die Siegel geprüft, die Wahrheit von der Lüge geschieden. Vierzig Jahre hatte er sein Urteil gesprochen, sein Siegel gesetzt, seine Akte geschlossen.
+Ein Schnitt mit dem kleinen Federmesser, das neben dem Tintentopf lag, und die Wahrheit gehörte ihm. 
 
-Vierzig Jahre war er Richter gewesen.
+Er nahm das Bündel auf. Seine Daumen tasteten über die Knoten. Sie waren fest gezurrt, mit persischer Akribie geschlungen. Die Wolle roch schwach nach dem Rauch von Schafsdung und nach einem fernen, kaum noch wahrnehmbaren Hauch von getrockneten Rosenblättern – der Geruch von Maschhad, zwanzig Jahre lang durch die Kälte der Hochebene getragen.
 
-Er war der Richter, der kein Urteil ohne Beweis fällte. Er war der Richter, der die Akten prüfte, die Zeugen befragte, die Fakten sammelte, die Wahrheit suchte. Er war der Richter, der wusste, dass das Urteil nur so gut war wie der Beweis, der es trug.
+Er spürte den Drang, das Siegel des Wissens zu brechen. Das Amt verlangte Beweise. Ein Gesetz ohne Beweis war nur ein Hauch im Wind.
 
-Er konnte das Bündel öffnen.
+Er schloss die Augen.
 
-Er konnte es prüfen.
+Vor seinem inneren Blick stand die Mutter Hö'elün, wie sie ihn einst als zerlumptes Kind an sich gedrückt hatte, das Goldstück noch in der Nase, gefunden zwischen den Trümmern des Tatarenlagers. *Sei mein Sohn*, hatte sie gesagt. *Sei der Gerechte.* Und dann Temüjin, dessen Augen wie Bernstein im Feuer geglüht hatten: *Was du aufschreibst, Shigi, soll ewig gelten. Was du in weißer Schrift auf blauem Grund festlegst, soll niemand ändern.*
 
-Er konnte es registrieren.
+Er hatte sein ganzes Leben damit verbracht, Pergamente zu mustern, Zeugen zu befragen, Folterknechten zuzusehen, Geständnisse abzuwägen. Er hatte gelernt, dass Menschen unter Schmerzen jede Wahrheit erfanden und vor Furcht jede Lüge schworen. 
 
-Er tat es nicht.
+Fatima hatte keine Angst gezeigt. Sie hatte nicht gelogen.
 
-Er nahm die Hand von dem Bündel, langsam, wie ein Mann, der sich von etwas trennt, das er nie besessen hatte. Er legte die Hände auf den Tisch, neben das Bündel, und er sah Fatima an.
+Er legte das Bündel zurück auf das Holz. Er nahm das Messer nicht auf. Seine Hände lagen flach auf dem Tisch, wie zuvor die ihren.
 
-„Ich werde es nicht öffnen", sagte er.
+„Herr?“, wisperte der Vertraute im Schatten. „Ist es Verrat?“
 
-Sie nickte.
+Shigi drehte den Kopf langsam zur Seite. Seine Augen, schwer von Tränensäcken und den Falten unzähliger Winter, fixierten den alten Gefährten.
 
-Kein Lächeln. Keine Erleichterung. Keine Dankbarkeit. Sie nickte, wie eine Frau nickt, die keine andere Wahl erwartet hatte, wie eine Frau, die wusste, dass das, was sie gab, nicht geprüft werden musste, weil es die Wahrheit war.
+„Vierzig Jahre habe ich Akten geprüft, um Wahrheit von Lüge zu scheiden“, sagte er. Seine Stimme zitterte nicht, aber sie trug den Klang von gefrorenem Erz in sich. „Ich habe Fleisch zerschneiden und Knochen brechen lassen, um ein einziges wahres Wort zu hören. Ich habe Siegel gebrochen, Briefe abgefangen, Boten gehängt. Dieses eine Mal prüfe ich nicht.“
 
-„Ich werde es nicht prüfen", sagte er. „Ich werde es nicht registrieren. Ich werde es nicht in die Akten schreiben."
+Er hielt inne. Sein Blick fiel wieder auf das Filzpaket.
 
-Sie nickte wieder.
+„Es ist das einzige Urteil, das ich ohne Beweis fälle.“
 
-„Ich werde es verstecken", sagte er. „Ich werde es in das Archiv der abgeschlossenen Fälle legen. In die toten Akten, in die niemand mehr schaut."
+Der Vertraute schwieg. Ein Steppenmann verstand das Schweigen besser als das Wort. Er wusste, dass es Grenzen gab, an denen das Gesetz der Khane zerschellte wie Wasser an den Klippen des Altai.
 
-„In die toten Akten", wiederholte sie.
+„Wohin damit?“, fragte der Diener leise. „Zur geheimen Truhe? Zu den Reitern an die Kalka? In die Erde der Ahnen?“
 
-Die Worte klangen wie eine Bestätigung, wie ein Echo, wie ein letzter Atemzug, der in der Stille verklang.
+„Nein.“ Shigi schüttelte langsam den Kopf. Die Pelzkappe strich an seinem Kragen entlang. „Dort sucht man nach Chroniken. Güyük lässt die Jurten durchkämmen. Seine Kanzler wissen, dass dort Geschichte geschrieben wird. Sie suchen nach Büchern, die Throne stürzen können. Sie graben nach Texten wie die Wölfe nach Aas.“
 
-Shigi stand auf.
+Er erhob sich mühsam. Seine Knie knackten trocken, der Rücken schmerzte vom langen Sitzen auf dem harten Boden. Er nahm das Bündel mit beiden Händen, drückte es leicht an seine Brust, fast unwillkürlich, als suche auch er für einen Moment nach dem Halt, den sie verloren hatte.
 
-Er nahm das Bündel, hob es, wog es in der Hand. Es war schwerer, als es aussah. Es war schwerer, als es sein sollte. Es war schwer von der Last dessen, was es enthielt, von der Last der Worte, die geschrieben waren, von der Last der Wahrheit, die niemand hören durfte.
+Er trat an die hölzernen Verschläge im hinteren Teil der Jurte. Dort, wo die Kälte von der Wand kroch und der Reif an den Weidenstangen glitzerte, standen die schweren Kisten aus Pappelholz, beschlagen mit rohem Eisen.
 
-Er ging zur Rückseite des Zeltes, zu der großen Truhe, die dort stand, die Truhe, die die Akten der abgeschlossenen Fälle enthielt, die Akten, die niemand mehr öffnete, die Akten, die vergessen waren, die Akten, die tot waren.
+Es waren die Register der Vergessenen.
 
-Er hob den Deckel.
+Akten über Grenzstreitigkeiten zwischen unbedeutenden Sippen vor zwanzig Jahren. Verzeichnisse von Pferdediebstählen am Selenga-Fluss, deren Schuldige längst verwest waren. Alte Zehntlisten von Hirten, deren Jurten der Schnee von 1235 begraben hatte. Abgeschlossene Fälle. Abgeurteilte Leben.
 
-Der Geruch von altem Papier stieg auf, der Geruch von Staub, der Geruch von Vergessen. Er sah die gestapelten Rollen, die gebündelten Blätter, die versiegelten Umschläge, die alle eines gemeinsam hatten: Sie waren abgeschlossen. Sie waren entschieden. Sie waren tot.
+Er schob den schweren Eisenriegel der untersten Kiste zur Seite. Das Holz ächzte im Scharnier. Ein Geruch von Staub, Schimmel und totem Pergament schlug ihm entgegen – die Asche vergangener Pflichten.
 
-Er legte das Bündel hinein.
+„Hierhin“, murmelte Shigi.
 
-Er legte es zwischen zwei Rollen, die so alt waren, dass das Papier bräunlich geworden war, dass die Tinte verblasst war, dass die Siegel gebrochen waren. Er legte es so, dass es nicht auffiel, dass es nicht hervorstach, dass es wie die anderen Akten aussah, wie eine tote Akte unter toten Akten.
+„In tote Akten schaut niemand mehr.“
 
-Er schloss den Deckel.
+Er legte das Bündel behutsam auf den Grund der Kiste, zwischen vergilbte Rollen und brüchige Schnüre. Es war eine sonderbare, bittere Fügung. Fatimas ganzes Leben war ein Aufbäumen gegen das Verstummen gewesen, ein kunstvolles, schmerzhaftes Weben gegen das Ausgelöschtwerden – und nun wurde ihre Lebensschrift selbst zu einer toten Akte. Zu jener Kategorie des Vergessens, der sie mit jedem Federstrich, mit jedem verheimlichten Wort an ihre tote Schwester zeitlebens entkommen war.
 
-Er holte sein Siegel hervor.
+Aber tote Akten waren sicher. Niemand fürchtete die Toten, solange sie in Kisten lagen.
 
-Der Zylinder war aus Bronze, schwer, mit den eingravierten Zeichen, die ihn als Richter des Reiches auswiesen, als den Mann, der das Gesetz sprach, als den Mann, der das Urteil fällte. Er hatte es von Dschingis Khan selbst erhalten, in den Jahren, als die Macht noch jung war, in den Jahren, als das Gesetz noch neu war, in den Jahren, als die Worte noch bedeuteten, was sie sagten.
+Er schloss den Deckel. Das dumpfe Poltern des Holzes klang wie der Schlag eines Richtbeils.
 
-Er drückte das Siegel in den nassen Ton, den er auf den Deckel der Truhe strich.
+Shigi griff nach der kleinen Tonschale, die auf einem niedrigen Schemel neben den Kisten stand. Darin lag roter Siegellack, kalt und hart wie Stein. Er hielt die Schale über die Glut des Kohlenbeckens, wartete mit stoischer Geduld, bis die Masse zähflüssig wurde, blubberte und den scharfen Geruch von Kiefernharz und Zinnober verströmte.
 
-Der Abdruck war klar.
+Mit einem Holzspatel nahm er einen Klumpen des kochenden Lacks auf und strich ihn über den Spalt zwischen Kistendeckel und Rumpf, genau über die eiserne Schließe.
 
-Das Zeichen war deutlich.
+Dann griff er an seinen Gürtel.
 
-Das Siegel war gesetzt.
+Dort hing das schwere, viereckige Siegel aus weißer Jade, das Dschingis Khan ihm vor einem halben Menschenalter mit eigenen Händen überreicht hatte. Das Amtssiegel des Oberrichters. Das Zeichen, das Städte niederbrennen und Fürsten entleiben konnte.
 
-Er wandte sich um.
+Shigi drückte das kalte Gestein in den heißen roten Brei. 
 
-Fatima stand noch da, wo sie gestanden hatte, am Tisch, die Hände flach auf der Platte, die Augen auf das Siegel gerichtet, das er gesetzt hatte.
+Der Stein sog die Hitze auf. Das Zeichen grub sich tief in das Wachs – die uigurischen Schriftzeichen der höchsten richterlichen Gewalt, unumstößlich, endgültig.
 
-„Es ist getan", sagte er.
+Er zog das Siegel zurück. Der Abdruck stand scharf und unerbittlich auf dem Holz.
 
-„Es ist getan", sagte sie.
+Ein Amtsgeheimnis.
 
-Die Worte klangen wie ein Echo, wie ein Abschied, wie ein letzter Gruß, den niemand hören würde.
+Kein Schreiber Güyüks, kein Spion des Hauses Tolui würde es wagen, dieses Siegel ohne den ausdrücklichen Befehl des Khagans zu brechen. Und bis Güyük verstand, wonach er suchen musste, würde der Sand der Zeit über diesen Kisten liegen.
 
-„Ich danke dir", sagte sie.
+Shigi strich mit dem Daumen über die Kante seines Siegels, um einen Rest des roten Wachses abzuwischen. Das Material war kühl. Es fühlte sich an wie Eis.
 
-Die Worte waren einfach. Die Worte waren klar. Die Worte waren die Worte einer Frau, die keine Worte mehr hatte, die Worte einer Frau, die alles gesagt hatte, was sie sagen konnte, die Worte einer Frau, die wusste, dass das Schweigen das einzige Geschenk war, das sie noch geben konnte.
+Er blickte auf das rote Zeichen im Halbdunkel. 
 
-Shigi nickte.
+In wenigen Tagen, das wusste er mit der grausamen Gewissheit eines alten Wolfes, würde er dasselbe Siegel wieder in die Hand nehmen müssen. Nicht für eine Kiste im Schatten. Nicht für alte Schriften.
 
-Sie wandte sich um.
+Er würde es in rotes Wachs drücken, um das Urteil über die Hexe von Chorasan zu beglaubigen. Er würde ihren Namen siegeln, während Güyüks Kanzler das Urteil verlasen und die Henker die Nadeln und den Filz bereitlegten. Er würde dastehen, stumm und unbeweglich wie ein Götzenbild, und das Gesetz vollstrecken, das ihn selbst gefangen hielt.
 
-Sie ging.
+Das Siegel war das Band. Es verband ihre Rettung mit ihrem Tod.
 
-Der Vorhang fiel zurück.
+Shigi drehte sich um und ging langsam zurück zu seinem Tisch. Seine Glieder schmerzten. Die Kälte schien nun auch durch seine schweren Pelze zu kriechen, unaufhaltsam, bis tief ins Mark.
 
-Die Schritte entfernten sich, leicht, nicht eilig, die Schritte einer Frau, die wusste, dass sie nicht fliehen konnte, die Schritte einer Frau, die wusste, dass sie nicht mehr fliehen musste, die Schritte einer Frau, die bereit war.
+„Lösch die Lampe“, sagte er zu dem Vertrauten.
 
-Shigi stand vor der Truhe.
+„Herr?“
 
-Er sah das Siegel.
+„Lösch sie. Wir haben für heute genug Recht gesprochen.“
 
-Er sah das Bündel, das er nicht geöffnet hatte, das er nicht geprüft hatte, das er nicht registriert hatte.
+Der Diener beugte sich vor und blies die Flamme aus. 
 
-„Vierzig Jahre", sagte er, und die Worte waren leise, als ob er sie nicht zu sich selbst sprach, sondern zu den toten Akten, zu den vergessenen Urteilen, zu den geschlossenen Fällen, die ihn umgaben.
+Ein dünner Faden grauen Rauches stieg in die Dunkelheit, roch nach verbranntem Fett und verwehte im eisigen Zugwind der Jurte, während draußen über Karakorum der Winter den Himmel mit grauen Wolken zuschüttete.
 
-Der Vertraute trat vor.
-
-Er stand neben Shigi, ein Schatten, der wartete, ein Zeuge, der still war, ein Mann, der wusste, dass das, was er gesehen hatte, nie gesprochen werden durfte.
-
-„Vierzig Jahre", sagte Shigi, und er wandte sich zu dem Vertrauten, und er sah ihn an, zum ersten Mal in dieser Nacht, „habe ich Akten geprüft, um Wahrheit von Lüge zu scheiden. Ich habe Zeugen befragt. Ich habe Beweise gesammelt. Ich habe Urteile gefällt. Ich habe das Gesetz gesprochen, wie ich es gelernt hatte, wie ich es verstanden hatte, wie ich es glaubte."
-
-Der Vertraute nickte.
-
-„Dieses eine Mal", sagte Shigi, und seine Stimme war leise, aber fest, „prüfe ich nicht. Dieses eine Mal öffne ich die Akte nicht. Dieses eine Mal lese ich die Worte nicht. Dieses eine Mal registriere ich nicht, was sie geschrieben hat."
-
-Er hob die Hand.
-
-Er legte sie auf die Truhe.
-
-„Es ist das einzige Urteil", sagte er, „das ich ohne Beweis fälle."
-
-Der Vertraute sagte nichts.
-
-Die Stille füllte das Zelt.
-
-Shigi stand da, die Hand auf der Truhe, das Siegel vor sich, das Bündel unter sich, die Akte der toten Fälle um sich.
-
-Er dachte an Fatima.
-
-Er dachte an die Frau, die gekommen war, um zu geben, was sie nicht mehr schützen konnte. Er dachte an die Frau, die er nicht gefragt hatte, was sie geschrieben hatte. Er dachte an die Frau, die er nicht geprüft hatte, die er nicht registriert hatte, die er nicht verurteilt hatte.
-
-Er dachte an das Bündel, das er nicht geöffnet hatte.
-
-Er dachte an die Worte, die er nicht gelesen hatte.
-
-Er dachte an die Wahrheit, die er nicht gesucht hatte.
-
-Er dachte an das Urteil, das er ohne Beweis gefällt hatte.
-
-Er dachte an das Siegel, das er gesetzt hatte.
-
-Er dachte an das Gesetz, das er gebrochen hatte.
-
-Er dachte an die Gerechtigkeit, die er nicht gesprochen hatte.
-
-Er dachte an die Sühne, die er gefunden hatte.
-
-Er dachte an die Schuld, die er trug, die Schuld, die er nicht ablegen konnte, die Schuld, die er nicht ablegen wollte, die Schuld, die ihn trug, die ihn hielt, die ihn trug, wie das Gesetz ihn getragen hatte, wie das Gesetz ihn nicht mehr tragen würde.
-
-Er dachte an Fatima.
-
-Er dachte an die Frau, die sterben würde.
-
-Er dachte an die Frau, die sterben würde, weil sie die Wahrheit geschrieben hatte, die Wahrheit, die niemand lesen durfte, die Wahrheit, die er nicht gelesen hatte, die Wahrheit, die er nicht lesen würde.
-
-Er dachte an die Frau, die sterben würde, weil sie ihm vertraut hatte.
-
-Er dachte an die Frau, die sterben würde, weil er nicht geurteilt hatte.
-
-Er dachte an die Frau, die sterben würde, weil er die Wahrheit nicht geprüft hatte, weil er die Wahrheit nicht gesucht hatte, weil er die Wahrheit nicht gefunden hatte.
-
-Er dachte an die Frau, die sterben würde, und er dachte an das Siegel, das er gesetzt hatte, das Siegel, das sie besiegelte, das Siegel, das sie begrub, das Siegel, das sie tötete.
-
-Er dachte an das Siegel, das er gesetzt hatte, und er dachte an das Siegel, das er setzen würde, das Siegel, das das Urteil sprechen würde, das Siegel, das den Tod verordnen würde, das Siegel, das sie töten würde.
-
-Er dachte an das Siegel, das er gesetzt hatte, und er dachte an das Siegel, das er setzen würde, und er wusste, dass es dasselbe Siegel war.
-
-Er wusste, dass das Siegel, das er auf die Truhe gesetzt hatte, dasselbe Siegel war, das er auf das Todesurteil setzen würde, das Urteil, das Fatima töten würde, das Urteil, das er nicht verhindern konnte, das Urteil, das er nicht verhindern würde.
-
-Er wusste, dass das Siegel, das er gesetzt hatte, das Siegel der Gerechtigkeit war, das Siegel der Wahrheit, das Siegel der Macht, das Siegel des Todes.
-
-Er wusste, dass das Siegel, das er gesetzt hatte, das Siegel war, das er nicht brechen konnte, das Siegel, das er nicht lösen konnte, das Siegel, das er nicht ändern konnte.
-
-Er stand da, die Hand auf der Truhe, das Siegel vor sich, die Akte der toten Fälle um sich, und er wusste, dass er das Bündel nicht öffnen würde, dass er die Worte nicht lesen würde, dass er die Wahrheit nicht suchen würde.
-
-Er wusste, dass er das Urteil gesprochen hatte, ohne Beweis, ohne Prüfung, ohne Registrierung.
-
-Er wusste, dass er das Urteil gesprochen hatte, und er wusste, dass er es nicht zurücknehmen konnte.
-
-Er wusste, dass er das Urteil gesprochen hatte, und er wusste, dass es das einzige Urteil war, das er je gesprochen hatte, das einzige Urteil, das er je sprechen würde, das einzige Urteil, das zählte.
-
-Er wusste, dass er das Urteil gesprochen hatte, und er wusste, dass es das Urteil war, das ihn trug, das ihn hielt, das ihn trug, wie das Gesetz ihn getragen hatte, wie das Gesetz ihn nicht mehr tragen würde.
-
-Er wusste, dass er das Urteil gesprochen hatte, und er wusste, dass es das Urteil war, das ihn begleiten würde, bis er starb, bis er selbst zur toten Akte wurde, bis er selbst vergessen wurde, bis er selbst zu Staub wurde.
-
-Er stand da, die Hand auf der Truhe, das Siegel vor sich, und er wartete.
-
-Der Vertraute stand neben ihm, stumm, wie ein Schatten.
-
-Die Lampe flackerte.
-
-Die Stille war voll.
-
-Die Nacht war lang.
-
-Shigi Qutuqu, der Richter des Reiches, der Hüter des Gesetzes, der Mann, der das Siegel hielt, stand vor der Truhe, die das Bündel barg, das Bündel, das er nicht geöffnet hatte, das Bündel, das er nicht prüfen würde, das Bündel, das er nicht registrieren würde, das Bündel, das er versteckt hatte, das Bündel, das er begraben hatte, das Bündel, das er bewahren würde, bis die Zeit kam, bis die Zeit verging, bis die Zeit ihn selbst begrub.
-
-Er stand da, und er wusste, dass er das Urteil gesprochen hatte, das Urteil, das ihn trug, das Urteil, das ihn hielt, das Urteil, das ihn begleiten würde, bis er starb, bis er selbst zur toten Akte wurde, bis er selbst vergessen wurde, bis er selbst zu Staub wurde.
-
-Er stand da, und er wartete.
-
-Der Morgen würde kommen.
-
-Der Morgen würde kommen, und Fatima würde sterben.
-
-Der Morgen würde kommen, und das Siegel würde gesetzt.
-
-Der Morgen würde kommen, und das Urteil würde gesprochen.
-
-Der Morgen würde kommen, und der Richter würde richten.
-
-Der Morgen würde kommen, und der Richter würde verurteilen.
-
-Der Morgen würde kommen, und der Richter würde töten.
-
-Der Morgen würde kommen, und der Richter würde überleben.
-
-Der Morgen würde kommen, und der Richter würde weitermachen, wie er weitergemacht hatte, seit vierzig Jahren, seit er das Siegel erhalten hatte, seit er das Gesetz gelernt hatte, seit er die Wahrheit gesucht hatte.
-
-Der Morgen würde kommen, und der Richter würde weitermachen, wie er weitergemacht hatte, immer weiter, immer weiter, immer weiter.
-
-Shigi Qutuqu stand vor der Truhe.
-
-Die Hand auf dem Holz.
-
-Das Siegel vor sich.
-
-Das Bündel unter sich.
-
-Die toten Akten um sich.
-
-Die Stille über sich.
-
-Die Nacht vor sich.
-
-Er stand da, und er wartete.
-
-Der Morgen würde kommen.
-
----

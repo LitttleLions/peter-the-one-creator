@@ -1,136 +1,119 @@
-## Der letzte Brief
+# Der letzte Brief
 
-Die Hände schreiben noch. Der Rest von mir hat aufgehört, mich zu interessieren.
-
-Ich sitze hier, Schwester, auf dem Boden einer Zelle, die nach nassem Stein und vergessenem Stroh riecht, und stelle fest, dass meine Finger die Feder halten wie immer. Sie zittern nicht. Das ist das Merkwürdige. Ich habe alles verloren – meine Stellung, meinen Namen, mein Leben, das in Stunden gemessen wird, nicht in Tagen – aber die Hand zittert nicht.
-
-Der Wächter hieß mich warten. Er nahm das Silberstück aus Töregenes Armreif – den letzten Besitz, den ich besaß – und fragte nicht. Er hatte Kinder. Das sah ich an seinen Augen. Die kleinen Leute des Buches retten die Überlieferung, Schwester. Nicht die Großen.
-
-Ich schreibe auf dem Boden kauernd, das Papier auf einem zusammengelegten Mantel. Die Lampe brennt noch eine Stunde. Dann kommt er zurück und nimmt Feder und Papier mit, und ich werde nichts mehr haben außer dem, was ich geschrieben habe.
-
-Also schreibe ich.
-
-Du bist tot seit 1221, Schwester. Du weißt das. Ich weiß es auch. Aber ich habe dir all die Jahre geschrieben, weil du der einzige Mensch warst, der nie fragte: Warum schreibst du? Du hast mich schreiben sehen in unserer Werkstatt in Maschhad, als ich am Rand deiner Blätter übte, mein erstes Alif krumm wie ein Wurm. Du hast gelacht und gesagt: Die Hand wird gerader werden.
-
-Sie wurde gerader.
-
-Sie wurde so gerade, dass sie die Briefe eines Khans schrieb und die Dekrete einer Regentin und die Todesurteile ihrer Feinde.
-
-Und jetzt schreibt sie ihren eigenen Abschied.
-
-Ich mache Inventur, Schwester. So habe ich es gelernt: nennen, was da ist. Keine Klage. Zustandsfeststellung.
-
-Da ist eine Zelle aus luftgetrockneten Ziegeln. Drei Schritte lang, zwei breit. Das Licht fällt durch einen Spalt unter der Tür – nicht genug zum Lesen genug zum Schreiben wenn man blind übt wie ich es tat in den ersten Jahren nach Maschhad als ich nachts mit Kohle auf Leder schrieb weil sie mir kein Papier gaben.
-
-Da ist Stroh in einer Ecke für den Schlaf den ich nicht brauche.
-
-Da sind Ketten an der Wand aber sie haben mich nicht gefesselt weil Güyük sagte Eine Tote muss man nicht binden.
-
-Da bin ich Fatima Tochter des Kopisten von Maschhad genannt die Chorasanerin genannt die Schreiberin genannt die Hexe genannt die Verräterin genannt das Nichts das bald vergangen sein wird.
-
-Da ist meine Hand die schreibt als ob morgen noch ein Tag wäre an dem jemand diese Worte lesen würde.
-
-Da bist du Schwester tot seit siebenundzwanzig Jahren und doch hier bei mir wie immer wenn ich schreibe weil du der einzige Mensch bist der mich kennt ohne meine Titel ohne meine Ämter ohne den Schatten den Töregene über mich warf als sie mich kaufte auf dem Markt von Buchara für sechs Stücke Silber und ein Versprechen das sie nie hielt aber das ich nie vergaß weil es das einzige war was ich hatte: Du wirst bei mir sein solange du lebst.
-
-Sie hielt es.
-
-Nicht wie ich dachte aber sie hielt es.
-
-Jetzt bin ich allein mit dir und mit dem was ich vierunddreißig Kapitel lang verschwiegen habe weil die Wahrheit keinen Empfänger hatte in dieser Welt außer dir der nichts mehr verlieren kann also bekommst du sie jetzt ganz vollständig ungeschönt ungefiltert unkorrigiert so wie sie war so wie ich sie sah so wie ich sie nie aufschrieb weil Aufschreiben bedeutet Zeugenschaft bedeutet Beweis bedeutet Gefahr für alle die ihn lesen könnten bevor er sicher ist in den Händen der Toten denen alle Geheimnisse gleich sind weil sie keine mehr verraten können.
-
-Also hier ist der Name:
-
-1241 im Dezember beim Gelage zu Ehren des letzten Westfeldzugs schenkte ein Diener dem Khan Wein ein aus einem goldenen Becher den Töregene ihm reichte aus ihren eigenen Händen aus ihrem eigenen Vorrat aus ihrem eigenen Willen oder nicht Willen oder Wissen oder Nichtwissen – darüber spreche ich nicht heute Abend Schwester denn das Urteil über Töregene fällst du im Jenseits wenn es eines gibt was ich bezweifle seit Maschhad wo wir sahen dass kein Engel kam um uns zu retten sondern nur Männer mit Schwertern und Seilen für Frauen die zu langsam waren auf der Flucht.
-
-Der Diener trug ein Gesicht das ich kannte aus Chorasan aus den Jahren nach Toluis Tod als Sorkaktani ihren Haushalt neu ordnete und Männer entließ die ihr nicht genehm waren oder zu viel wussten oder beides – denn Sorkaktani war klug genug ihre Feinde zu belohnen indem sie ihnen erlaubte weiterzuleben weit weg vom Hof wo niemand ihre Gesichter kannte außer denen die zufällig vor zwanzig Jahren in einer anderen Stadt einem anderen Haus einem anderen Leben gestanden hatten am Rand einer Werkstatt in Maschhad wo ein Mädchen lernte Buchstaben zu malen während draußen die Welt verbrannte unter den Hufen von Pferden. Deren Reiter nie erfuhren dass dieses Mädchen einmal ihre Briefe schreiben würde ihre Dekrete ihre Todesurteile ihre Lügen ihre Wahrheiten ihre ganze verdammte Geschichte auf Papier das keiner lesen durfte weil es zu wahr war zu genau zu gefährlich für alle die dachten sie hätten Macht über Worte während Worte längst Macht hatten über sie ohne dass sie es merkten bis es zu spät war bis jemand kam der las bis jemand kam der verstand bis jemand kam der alles aufschrieb so wie es wirklich war und dann starb dafür dass er es wagte zu sehen was keiner sehen wollte:dass Macht nichts ist als eine Geschichte erzählt von denen die lauter schreien können als andere dass Wahrheit nichts ist als eine Geschichte erzählt von denen länger leben als andere dass wir alle nichts sind als Geschichten geschrieben von Umständen von Zufällen von Hunger von Durst von Angst vor dem Tod den wir alle sterben müssen allein im Dunkeln ohne Zeugen ohne Schreiber ohne Feder ohne Papier ohne alles außer dem was wir waren was wir taten was wir liebten hassten fürchteten erhofften verrieten bewahrten vergruben tief unter der Erde wo niemand je graben würde um uns zu finden um uns zu lesen um uns zu verstehen endlich nach all den Jahren all dem Schweigen all dem Warten auf einen Leser der kommt wenn niemand mehr da ist. Wenn alles vorbei ist wenn nur noch Papier bleibt Asche Staub Erinnerung an eine Erinnerung an einen Namen den niemand mehr aussprechen kann weil er verbrannt wurde gelöscht vergessen zusammen mit dem Gesicht das ihn trug durch zwanzig Jahre durch drei Reiche durch zwei Kriege durch eine Liebe durch einen Verrat durch eine Stunde im Dezember 1241 als ein Diener Wein einschenkte aus einem goldenen Becher den Töregene ihm reichte während Ögedei lachte während Güyük trank während Batu fern war im Westen während Sorkaktani lächelte in ihrem Zelt während Shigi Qutuqu seine Chronik las während Juvaini noch Kind war in Persien während keiner wusste außer mir außer diesem Diener außer vielleicht Sorkaktani vielleicht Töregene vielleicht allen vielleicht niemand außer mir der sah was keiner sehen sollte:dass dieser Diener denselben Gang hatte denselben gesenkten Blick dieselbe Art sich lautlos zu bewegen wie damals vor zwanzig Jahren im Haus Toluis wo er Wasser brachte am Tag nachdem Tolui gestorben war an einem Fieber das keiner heilen konnte an einem Fieber das keiner je erklärte an einem Fieber über das keiner sprach weil Tolui gestorben war wie Väter sterben wie Brüder sterben wie Söhne sterben wenn jemand will dass sie sterben wenn jemand bereit ist dafür wenn jemand wartet im Schatten mit einem Becher Wasser statt Wein aber Wasser tötet auch wenn man weiß welche Kräuter man mischen muss welche Mengen welchen Zeitpunkt welchen Diener man bezahlen muss. Damit er bringt damit er schenkt damit er geht damit er nie wiederkommt nie gefunden wird nie spricht nie aussagt nie bezeugt nie gesteht nie bereut nie vergisst dass er zweimal getan hat was andere nur einmal tun wollen aber niemals wagen weil Mut etwas anderes ist als Gehorsam weil Treue etwas anderes ist als Angst weil Liebe etwas anderes ist als Besitz – aber wer unterscheidet schon am Ende am Ende zählt nur wer lebt wer stirbt wer überlebt um weiterzuerzählen was keiner hören will bis es zu spät ist bis alles vorbei bis nur noch Papier bleibt Asche Staub Erinnerung an eine Erinnerung an einen Namen:
-
-Der Diener hieß Börü – Wolf auf Türkisch – und er diente im Haus Toluis nach dessen Tod 1232 dann verschwand er dann tauchte wieder auf 1241 beim Gelage Ögedeis dann verschwand wieder dann tauchte wieder auf 1243 beim Fest Sorkaktanis wohlgenährt lebendig gekleidet in Seide im Gefolge einer Frau deren Söhne vier Khane werden würden deren Geduld legendär war deren Wille unerschütterlich deren Hand niemals zitterte wenn sie Wein nahm oder Wasser oder einen Becher reichte einem Mann der starb damit ihrer leben konnte damit ihrer herrschen konnte damit ihrer Geschichte schreiben konnte in Blut statt Tinte aber Geschichte bleibt Geschichte egal womit geschrieben ob mit Feder ob mit Schwert ob mit Gift ob mit Schweigen ob mit Lügen ob mit Wahrheit am Ende bleibt nur Papier Asche Staub Erinnerung an eine Erinnerung an einen Namen:
-
-Börü.
-Wolf.
-Diener.
-Mörder.
-Werkzeug.
-Belohnt.
-Überlebend.
-Wohlgenährt.
-Im Gefolge Sorkaktanis.
-Zweimal getan.
-Zweimal entkommen.
-Zweimal belohnt.
-Weil Männer die einen Khan vergiften gewöhnlich schnell sterben Schwester schnell sehr schnell damit keine Fragen bleiben keine Zeugen keine Akten keine Spur kein Name kein Gesicht keine Erinnerung an diesen Mann der da stand mit gesenktem Blick lautlos wartend auf seinen Lohn seinen Tod sein Ende sein Nichts
-
-Dieser Mann wurde belohnt.
-
-Rechne selbst Schwester.
-Ich habe aufgehört zu rechnen.
-
-Vielleicht wusste Töregene davon vielleicht nicht vielleicht ließ sie es geschehen vielleicht plante sie alles vielleicht plante Sorkaktani alles vielleicht planten beide zusammen jede gegen jede jede für sich jede gegen alle jede für ihren Sohn ihren Thron ihr Reich ihr Vermächtnis ihr Blut ihr Recht ihr Wille ihr Weg ihr Ziel ihr Ende
-
-Ich weiß es nicht.
-Ich habe nie gewusst wer wen wann wo warum getötet hat am Ende dieses endlosen Endes dieser endlosen Kette von Enden die begann lange vor mir endet lange nach mir weitergeht ohne mich weitergeht ohne dich weitergeht ohne jeden außer denen die bleiben um weiterzuschreiben weiterzulügen weiterzuleben weiterzusterben weiterzuvergessen weiterzuverraten weiterzulieben weiterzuhassen weiterzuhoffen weiterzufürchten weiterzuatmen bis zum nächsten Ende bis zum nächsten Anfang bis zum nächsten Namen:
-
-Fatima Tochter des Kopisten
-Fatima genannt die Chorasanerin
-Fatima genannt die Schreiberin
-Fatima genannt die Hexe
-Fatima genannt toter Buchstabe
-bald gelöscht bald vergessen bald nichts mehr
-
-Hätte ich es Töregene gesagt – Krieg.
-Hätte ich es Güyük gesagt – Krieg.
-Die Wahrheit hatte keinen Empfänger in dieser Welt Schwester darum bekommst du sie jetzt ganz vollständig ungeschönt ungefiltert unkorrigiert so wie du immer warst immer sein wirst immer bleiben wirst für mich: tot still wartend lesend verstehend vergehend verweilend im Nichts zwischen zwei Zeilen zwischen zwei Welten zwischen zwei Atemzügen eines Lebens das längst vorbei ist bevor es richtig begann bevor jemand las was wirklich geschah bevor jemand verstand wer wen wann wo warum tötete am Ende dieses endlosen Endes
-
-Du kannst nichts mehr verlieren also bekommst du alles:
-Die Angst vor Güyük seine kalten Augen seine leise Stimme seine Handflächen flach auf dem Tisch zwischen uns als er sagte Du stirbst morgen Fatima hast du noch etwas zu sagen
-
-Ich hatte nichts mehr zu sagen außer Nein denn alles andere hätte ihn interessiert hätte ihn gefüttert hätte ihn bereichert hätte ihn mächtiger gemacht klüger gefährlicher tödlicher für alle anderen für Juvaini für Shigi für Batu für Sorkaktani nein sogar für Sorkaktani nein gerade für Sorkaktani denn Güyük hasste seine Cousine mehr als jeden Feind mehr als Batu mehr als seinen toten Vater mehr sich selbst wahrscheinlich hasste Güyük sich selbst dafür dass er Khan geworden war durch seine Mutter statt durch eigenes Schwert dafür dass er regierte statt kämpfte dafür dass er brauchte was keiner geben konnte: Respekt Liebe Anerkennung Wahrheit?
-
-Nein Güyük wollte keine Wahrheit.
-Güyük wollte Bestätigung seiner Lüge seiner Version seiner Geschichte seines Rechts seines Thrones seines Sieges über alle Zweifel aller Fragen aller Akten aller Siegel aller Richter aller Schreiber aller Frauen aller Männer aller Götter aller Dämonen aller Geister seiner toten Mutter seiner toten Brüder seiner toten Feinde seiner toten Freunde seiner toten Träume seiner toten Zukunft seiner toten Vergangenheit seines ganzen verdammten Lebens voller Hass voller Wut voller Scham voller Angst vor dem einzigen was zählt:
-
-Dass ihm gehört was ihm gehört
-Dass er herrscht wo andere dienen
-Dass er lebt wo andere sterben
-Dass sein Name bleibt wo andere vergehen
-
-Aber Namen vergehen auch Schwester auch Khane vergehen auch Reiche vergehen auch Geschichten vergehen wenn niemand da ist der weiterschreibt wenn niemand da ist der weitergibt wenn niemand da ist der weiterträgt ins nächste Jahrhundert ins nächste Jahrtausend ins nächste Nichts
-
-Nur Papier bleibt länger als Menschen
-Nur Schrift bleibt länger als Stimmen
-Nur Wahrheit bleibt länger als Lügen
-Auch wenn niemand glaubt dass Wahrheit existiert
-Auch wenn niemand will dass Wahrheit bekannt wird
-Auch wenn niemand lebt um Wahrheit zu bezeugen
-
-Schwester jetzt weißt du alles:
-Wer Ögedei tötete (Börü)
-Wer Börü bezahlte (Sorkaktani vermutlich)
-Wer Börü beschützte (Sorkaktani Gewiss)
-Wer Börü belohnte (Sorkaktani Sicher)
-Warum (Frag nicht)
-Wie (Frag nicht)
-Wann (1241 dann 1243 dann immer wieder)
-
-Es wiegt nichts diese ganze Wahrheit all diese Jahre all dieses Schweigen all diese Angst all dieser Hass all diese Liebe all dieser Verrat all dieses Überleben am Ende am Ende wiegt nichts
-
-Es ist nur Wahrheit
-
-Nichts mehr nichts weniger nichts anderes
-
-Man sagt der Filz sei eine Ehrenweise zu sterben Weil kein Blut fließt Weil Erde verträgt Blut der Khane nicht heißt es Man näht dich ein in Filz legt dich unter Pferde lässt dich trampeln ersticken vergehen verschwinden spurlos namenlos aktenlos urteilsspruchlos einfach weg einfach fort einfach tot ohne Blut ohne Schuld ohne Sünde ohne Verdammnis ohne Erlösung einfach still einfach leer einfach Nichts
-
-Ich denke:
-Die Erde hat mein Leben lang Blut vertragen genug Blut genug Leid genug Tod genug Schreie genug Tränen genug Flüche genug Gebete genug Hoffnung genug Verzweiflung genug Liebe genug Hass genug Leben genug Sterben
-
-Sie wird meins nicht bemerken mein kleines stilles namenloses bedeutungsloses unbemerktes unbeachtetes unbetrauertes unvergessenes? Nein vergessen werde auch ich werden auch wir werden auch diese Zeilen diese Briefe diese Geständnisse diese Abschiede dieses ganze verdammte Archiv meines Lebens meines Sterbens meines Überlebens meines Scheiterns meines Versagens meines Gelingens meines Bleibens meines Gehens meines Endes
-
-Schreib weiter habe ich Juvaini gesagt Schreib immer weiter egal ob du verstehst egal ob du glaubst egal ob du willst Hauptsache du schreibst Hauptsache etwas bleibt Hauptsache einer da ist einer liest einer trägt ins nächste Jahrhundert ins nächste Jahrtausend ins nächste Nichts Hauptsache etwas überlebt von uns allen von dir von mir von ihnen von allem was wir waren taten liebten hassten hofften fürchteten verrieten bewahrten begruben unter Steinen unter Staub unter Erde unter Vergessen unter Stille unter Nacht unter Schnee unter Regen unter Sonne unter Wind unter allem außer Papier außer Schrift außer Wort außer Satz außer Seite außer Buch außer Archiv außer Geschichte außer Wahrheit
-
-Ich höre jetzt auf Schwester Meine Stunde läuft ab Der Wächter kommt gleich nimmt Feder nimmt Papier nimmt Licht nimmt alles nimmt mich mit hinaus in den Hof wo Filz liegt bereit Pferde stehen bereit Männer warten bereit Erde wartet bereit Nichts wartet bereit für mich Fatima Tochter des Kopisten Genannt Schreiberin Genannt Zeugin Genannt Verräterin Genannt Hexe Genannt Verschwunden Genannt Vergessen Genannt Nichts
-
-Du bist tot seit 1221 Maschhad brannte unsere Werkstatt brannte unser Vater brannte unsere Mutter brannte unser Leben brannte unsere Zukunft brannte unsere Hoffnung brannte unser Alles brannte nieder lichterloh himmelhoch rauchschwarz aschgrau staubfein windverweht regennass sonnengetrocknet mondbeleuchtet sternüberglänzt himmelüberwölbt erdeunterlegt zeitüberdauert raumüberwölbt weltüberbrückt todüberlebt lebenüberstanden liebeüberstrahlt hassüberwunden angstüberwunden hoffnungüberlebt verzweiflungüberstanden einsamkeitüberbrückt gemeinschaftunterlegt wahrheithervorgebracht lügeentlarvt machtdurchschaut ohnmachtgelindert knechtschaftgebrochen freiheiterrungen todakzeptiert lebenverabschiedet friedengefunden ruhegewonnen stillergebnist stillergegeben stillergegangenstillerwordenstillerbleibendstillerseiendstillernichtsmehralsnichtsmehralsnichtsmehrals:
-
-Du bist tot und ich komme Es gibt viel zu erzählen
+*Buch: Die dritte Chronik*
+*Kapitel-ID: 034*
 
 ---
+
+Der Boden schmeckte nach altem Kalk und gefrorenem Urin. Es war kein Geruch, den man vergaß, aber der Körper verlor nach Tagen in der Finsternis die Kraft, davor zurückzuweichen.
+
+Fatima hob den Kopf, als das Schloss knarrte. Der Laut schnitt durch das Summen in ihren Ohren wie eine Klinge durch nasses Tuch. Es war kein Geräusch von vielen; in diesem Trakt gab es nur zwei Arten von Schritten: jene, die den Bottich brachten, und jene, die den Tod ankündigten.
+
+Der Mann, der eintrat, trug einen einfachen Mantel aus grobem, ungegerbtem Schafsfell, an dem der Dunst von Pferdemist und kaltem Talg haftete. Seine Stiefel waren an den Fersen mit getrocknetem Sehnenband geflickt. Er trug keine Rüstung, keinen Bogen, nur eine kleine Tranlampe, deren Docht rußig glomm und die feuchten Flecken an den Felsquadern in ein schwankendes, schmutziges Gelb tauchte. Er stellte die Lampe auf den Boden, kniete sich nieder und sah sie nicht an.
+
+Ein Soldat der Wache. Einer von jenen, die man vergaß, sobald man an ihnen vorbeiging, weil das Reich voll von ihnen war – Männer aus den nördlichen Weiden, die für zwei Schalen Hirsebrei am Tag und das Versprechen auf ein Stück Filz für ihre Jurte das Scharnier einer fremden Welt bewachten.
+
+„Du hast noch eine Stunde“, flüsterte er. Sein Mongolisch war rau, die Vokale schabend und schwer vom Dialekt der Kereiten. „Vor dem Morgengrauen wechseln sie die Posten. Wenn die Reiter vom Fluss kommen, darf nichts hier liegen.“
+
+Fatima strich sich mit der Linken über den Schoß. Ihre Finger waren taub, die Nägel blau von der Kälte, die aus den Steinen emporstieg, doch unter den zerfetzten Lagen ihres Seidengewandes lag noch die letzte Zuflucht. Sie griff nicht hastig danach; jede plötzliche Bewegung weckte den Schmerz in ihren gerissenen Sehnen, der tief in den Knochen saß wie ein bösartiger Frost.
+
+Sie zog den schmalen Silberreif hervor, den sie unter dem Futter ihres Gürtels verborgen gehalten hatte. Es war kein Prunkstück, wie Töregene sie an die Frauen des Hofes verteilt hatte, sondern eine dünne, persische Schmiedearbeit, verziert mit drei winzigen Nelkenblüten, kaum mehr wert als der Gegenwert zweier Schafe. Der letzte Rest von Chorasan, den sie fünfundzwanzig Jahre lang durch Jurten, Kanzleien und Verwüstungen getragen hatte.
+
+Der Wächter sah das Metall im trüben Schein der Lampe aufblitzen. Seine Augen verengten sich nicht gierig; sie wurden nur noch müder.
+
+„Meine Tochter hustet Blut“, sagte er schlicht. Er griff nicht zu, sondern hielt nur die Hand hin, eine breite, rissige Pranke, deren Handfläche von Schwielen zerschnitten war. „Der Heiler verlangt getrocknete Wurzeln aus dem Süden. Silber nimmt er. Papier nicht.“
+
+„Er wird dir die Wurzeln geben“, antwortete Fatima. Ihre Stimme klang heiser, wie das Rascheln von Steppengras im Herbstwind, aber sie zitterte nicht.
+
+Sie legte ihm den Reif in die Handfläche. Seine Finger schlossen sich langsam darum, als schäme er sich für das Gewicht des Metalls. Dann griff er in seinen Mantel und zog ein einzelnes, raues Blatt uigurischen Kanzleipapiers hervor, dazu ein spitz zugeschnittenes Schilfrohr und ein winziges Thongefäß mit getrockneter Rußtinte, die er mit ein paar Tropfen seines eigenen Mundspeichels flüssig gerührt hatte.
+
+Er stellte das Zeug vor ihr ab. Er stellte keine Fragen. Er wusste, wer sie war; der ganze Palast wusste, dass die fremde Hexe der Regentin hier unten lag. Aber er hatte Kinder, und Hunger fragte nicht nach Hofintrigen.
+
+„Eine Stunde“, wiederholte er, erhob sich, schob den Holzriegel von außen vor und ließ die Lampe auf dem Boden zurück.
+
+Fatima blieb allein mit dem Flackern.
+
+Sie atmete ein. Der Geruch von feuchtem Papier und Ruß stieg ihr in die Nase – ein vertrauter, fast zärtlicher Hauch inmitten der Verwesung. Jahrelang war dies ihr Leben gewesen. Worte, gewogen gegen das Gewicht von Heeren; Tinte, die über Leben und Tod entschied, während draußen die Trommeln schlugen. Sie stützte das Brett, das der Wächter dagelassen hatte, auf ihre zerschundenen Knie.
+
+Ihre rechte Hand schmerzte. Zwei Finger waren gebrochen gewesen, notdürftig zusammengewachsen in den Tagen nach den ersten Verhören, aber das Gelenk gehorchte noch.
+
+*Die Hände schreiben noch*, dachte sie und setzte das Rohr auf das grobe Blatt. *Der Rest von mir hat aufgehört, mich zu interessieren.*
+
+Sie brauchte keine Anrede mehr. Es gab keinen Namen, den sie voranstellen musste. Die Tote kannte ihre Stimme.
+
+*Ich schreibe dir nicht aus den Gärten*, begann sie, und die persischen Schriftzeichen flossen leise, schmal und gleichmäßig über die Faser des Papiers, als schriebe sie eine Abrechnung über Getreidesäcke in Nischapur. *Ich schreibe dir aus einer Grube, Schwester. Der Boden ist kalt, und die Luft riecht nach geronnenem Fett. Es ist keine Klage. Du weißt, dass ich das Klagen verlernt habe, an jenem Tag, als sie dich in den Brunnen warfen und mich auf das Pferd hoben. Eine Kanzlerin führt Buch. Bis zum letzten Posten.*
+
+Sie hielt inne, lauschte auf die Stille über der Decke. Irgendwo weit oben schlug ein Pferd mit den Hufen gegen das Holz eines Stalls. Ein dumpfer Laut in der Weite des gefrorenen Tals.
+
+*Man hat mich gefragt*, schrieb sie weiter, *immer wieder, mit Eisen und mit Schnüren, wer das Gift in den Becher goss. Güyük saß vor mir. Er roch nach gebranntem Wein und nach dem sauren Schweiß der Rüstungen, die man zu lange im Regen getragen hat. Er wollte einen Namen hören. Einen ganz bestimmten Namen. Er wollte, dass ich Sorkaktani nenne. Er wollte den Krieg gegen ihre Söhne, gegen Möngke, gegen Kublai, er wollte den Vorwand, um die Steppe in Brand zu setzen und Batu im Westen das Blut seiner eigenen Brüder trinken zu lassen. Er dachte, der Schmerz würde mir die Zunge lösen. Er versteht nicht, dass Schmerz nur Fleisch zerbricht, nicht das Wissen.*
+
+Ihre Finger wurden klamm. Sie hauchte auf die Knöchel, spürte die schwache, fast erloschene Wärme ihres Atems.
+
+*Ich habe ihm nichts gegeben. Nur mein eigenes Geständnis über Flüche, über Zauberworte, über Kräuter, die den Prinzen Köden faulen ließen. Albernes Zeug. Ammenmärchen für die Richter, Futter für das Volk, das ein Ungeheuer braucht, wenn ein Prinz an seiner eigenen Galle erstickt. Sie haben mein Geständnis gesiegelt. Shigi Qutuqu hat seinen Jadestempel darauf gesetzt. Ich habe das Klacken des Steins auf dem Wachs nicht gehört, aber ich kenne das Geräusch. Es klingt wie das Brechen eines kleinen Knochens.*
+
+Sie tauchte das Schilfrohr erneut ein. Der Ruß war dünn, fast wässrig, aber er reichte.
+
+*Jetzt sollst du es wissen. Du bist die Einzige, die dieses Gewicht tragen kann, ohne daran zu zerbrechen, denn du bist Staub, und Staub klagt nicht an.*
+
+Fatima schloss für einen Herzschlag die Augen. Sie sah wieder die große Jurte vor sich, die Winternacht im Dezember einundvierzig, den Geruch von gebratenem Hammel, den Rauch des Wacholders, der die Atemluft bissig machte, und Ögedei, wie er lachte, mit roten Wangen, das Fett an den Lippen, während draußen der Schnee die Zeltwände eindrückte.
+
+*Erinnerst du dich an die Gesichter im Palast der Witwe Toluis?*, setzte sie die Feder wieder an, und die Schrift wurde schärfer, unerbittlicher. *Als Tolui starb, ging ich mit Töregene zu den Trauerfeiern. Dort sah ich ihn zum ersten Mal. Ein Bursche mit einer Narbe über der linken Braue, schielend auf dem rechten Auge, lautlos wie eine Katze im Gras. Ein Mundschenk aus dem inneren Gefolge Toluis. Er trug damals den blauen Filz ihres Hauses.*
+
+Ein Tropfen kalten Wassers fiel von der Decke der Zelle auf ihren nackten Knöchel. Sie zuckte nicht einmal.
+
+*Im Dezember einundvierzig stand derselbe Mann hinter Ögedeis Rücken. Nicht unter den offiziellen Schenken des Khagans. Er stand im Schatten der Pfeiler, trug das Gewand der kaiserlichen Leibwache, aber ich sah seine Braue. Ich sah, wie er die Kanne hob, aus der nur der Großkhan trank. Er schenkte nach. Drei Schalen. Ögedei trank sie auf einen Zug, lachte noch über einen Witz, den niemand verstanden hatte, und fiel drei Stunden später vornüber in seine eigene Kotze.*
+
+Sie atmete tief ein. Der Druck auf ihrer Brust war kein Schmerz mehr, es war die Schwere der Erinnerung, die endlich Form annahm.
+
+*Männer, die einen Großkhan vergiften, sterben gewöhnlich schnell, Schwester. Man findet sie am nächsten Morgen mit gebrochenem Genick hinter den Küchenzelten, oder man bindet sie an zwei Pferde und treibt sie auseinander. Aber dieser Mann starb nicht. Im Sommer dreiundvierzig, als Sorkaktani zum Fest kam, um Töregene die Ehre zu erweisen – weißt du noch, wie die Schalen mit den Granatäpfeln klirrten? –, sah ich ihn wieder. Er ritt im Gefolge ihrer Söhne. Er trug Seide aus Khotan, gefüttert mit Zobel. Er war wohlgenährt. Er befehligte ein Hundertschafts-Kontingent der Kereiten.*
+
+Sie hielt das Rohr still. Ein kleiner, schwarzer Klecks bildete sich auf der rauen Faser.
+
+*Rechne selbst, Schwester. Ich habe aufgehört zu rechnen.*
+
+Sie sah auf die Zeilen hinab. Da stand es. Keine Anklage, kein herrschaftliches Dekret, kein Siegel, das einen Krieg auslösen konnte. Nur eine Kette von Tagen, Gesichtern und Zobelpelzen. Das Bild einer Frau, die vier Söhne auf vier Throne setzen wollte und wusste, dass die Zeit auf der Seite jener steht, die das Gift nicht selbst anrühren, sondern die Kanne nur zur rechten Stunde füllen lassen. Sorkaktani hatte nie einen Befehl gegeben, den man aufschreiben konnte. Sie hatte nur dafür gesorgt, dass ein Diener reich belohnt wurde.
+
+*Du fragst mich*, schrieb Fatima, und ihre Hand wurde schneller, getrieben von dem schwindenden Docht der Lampe, *warum ich schwieg. Warum ich Töregene nichts sagte. Hätte ich es Töregene gesagt – Krieg. Sie hätte Karakorum angezündet, um das Haus Tolui auszurotten. Hätte ich es Güyük gesagt – Krieg. Er hätte die Steppe von den Ufern des Amur bis an die Wolga in ein Schlachthaus verwandelt. Die Brüder hätten einander das Fleisch von den Knochen gerissen, und am Ende wären wieder die Städte Chorasans verbrannt, die Dörfer am Fluss, die Kinder, die nichts von Khanen wissen.*
+
+Sie zog die Brauen zusammen. Ihr Gesicht, eingefallen und schmutzig, fand für einen flüchtigen Moment jene harte, unnahbare Ruhe wieder, mit der sie einst hinter dem Thron der Regentin gestanden hatte.
+
+*Die Wahrheit hatte keinen Empfänger in dieser Welt, Schwester. Darum bekommst du sie. Du kannst nichts mehr verlieren. Du hast keine Länder, die man verheeren kann, keine Archive, die brennen, keine Kinder, die man in Filzsäcke näht. Die Toten sind die Einzigen, die eine Wahrheit aushalten, ohne Blut daraus zu schlagen.*
+
+Das Licht der Lampe zuckte. Der Docht schwamm nur noch auf einem winzigen Rest stinkenden Talgs.
+
+*Jetzt weißt du alles. Es wiegt nichts. Es ist nur Wahrheit.*
+
+Sie strich vorsichtig mit der Kante ihres Zeigefingers über das Papier, um die Tinte zu prüfen. Sie war fast trocken, gebunden an die grobe Faser, bereit, die Kälte zu überstehen.
+
+*Draußen bereiten sie die Pferde vor. Ich höre die Stimmen der Wachen. Sie sprechen leise, wie Männer sprechen, die vor der Morgenkälte Angst haben. Man sagt, der Filz sei eine Ehrenweise zu sterben, weil kein Blut fließt. Die Erde verträgt das Blut der Khane nicht, heißt es. Man darf den Boden nicht verunreinigen mit dem Saft der Herrscher, also bricht man ihnen das Rückgrat oder näht sie ein, bis ihnen der Atem ausgeht. Jetzt ehren sie mich mit dem Tod der Khane. Eine Sklavin aus Maschhad, gewickelt in denselben Filz, den sie für die Enkel Temüjins walken.*
+
+Ein bitteres, lautloses Lächeln kräuselte ihre aufgesprungenen Lippen.
+
+*Ich denke: Die Erde hat mein Leben lang Blut vertragen. Sie hat das Blut deines Körpers getrunken, sie hat das Blut unserer Eltern geschluckt, sie hat die Straßen von Samarkand und Nischapur rot gefärbt, bis der Lehm stank. Sie wird meins nicht bemerken. Ein paar Tropfen weniger im Schlamm des Orchon-Flusses machen die Steppe nicht reicher.*
+
+Schritte näherten sich dem Gang. Nicht mehr die schlurfenden Tritte des Wachmanns mit den geflickten Stiefeln. Diesmal waren es mehrere. Schwerer Tritt, Holzsohlen auf Stein, das leise Scheppern von Riemenzeug.
+
+*Schreib weiter, habe ich dem Jungen gesagt.*
+
+Sie dachte an Juvaini. An seine unruhigen Hände, an das Notizbuch, an seine Verse, die immer zu schön sein wollten für eine Welt, die nur aus Hufschlägen bestand. Sie sah ihn vor sich, wie er nach Westen ritt, in den Wind Chorasans hinein, verbannt und gerettet zugleich, mit dem Rußfetzen an seiner Brust. Er würde leben. Er würde Kompromisse schließen, er würde für die Mörder schreiben, er würde das Grauen in persische Metaphern kleiden, um nicht den Verstand zu verlieren. Aber er würde leben. Und eines Tages würde er verstehen, dass man nicht dichten muss, um Zeugnis abzulegen.
+
+*Ich höre jetzt auf. Mein Schilfrohr ist stumpf geworden, und das Licht stirbt.*
+
+Sie setzte die letzte Zeile ganz an den unteren Rand, dorthin, wo das Papier faserte:
+
+*Du bist tot, und ich komme. Es gibt viel zu erzählen.*
+
+Fatima legte das Schilfrohr nieder. Sie blies den feinen Rußstaub vom Papier, faltete das Blatt einmal, zweimal, zu einem schmalen Streifen, nicht größer als die Handfläche eines Kindes. Sie schob es nicht in ihr Gewand. Als der Riegel zurückgeschoben wurde und die Tür mit einem kreischenden Laut aufschwang, ließ sie das gefaltete Blatt einfach unter den Rand des Holzbretts gleiten, an die feuchte Wand, in den Schatten, den die Lampe nicht erreichte.
+
+Der Wachmann mit den rissigen Händen trat ein. Hinter ihm standen zwei Männer in dicken Filzmänteln, die Gesichter im Schein ihrer Fackeln dumpf und ausdruckslos wie grob behauene Holzklötze. Einer von ihnen trug eine Rolle schweren, grauen Teppichfilzes über der Schulter, zusammengeschnürt mit nassen Sehnen. Sie roch nach nassem Schaf und nach Flusswasser.
+
+Niemand sprach ein Wort. Es gab kein Urteil mehr zu verlesen; der Tod in Karakorum brauchte keine Rhetorik, er brauchte nur Handwerker.
+
+Fatima erhob sich. Ihre Knie knirschten, ein stechender Schmerz schoss durch ihre Hüfte, aber sie stand aufrecht. Sie sah den Wachmann an. Ein einziger, ruhiger Blick, der nicht um Gnade bat und keine Verachtung trug. Seine Augen glitten kurz hinab zu der Stelle neben dem Brett, wo das weiße Papier im Schatten lag. Er blinzelte nicht. Er nickte kaum merklich, ein winziges Absenken des Kinns, das in der Dunkelheit der Zelle fast verloren ging.
+
+Er würde das Papier nehmen. Er würde es zu den anderen Schriften legen, zu dem Bündel, das Shigi Qutuqu versiegelt hatte, oder er würde es dem Schreiberjungen verkaufen, wenn dieser wiederkehrte. Denn die kleinen Leute des Reiches vergaßen nicht, wer ihnen das Silber für das Leben ihrer Kinder gegeben hatte.
+
+Die Männer griffen nach ihren Armen. Die Kälte des Filzes schlug ihr ins Gesicht, schwer, erstickend, dunkel.
+
+Fatima schloss die Augen und ging in die Nacht hinaus, und der Wind über dem Tal trug keinen Laut mehr von ihr davon.
+

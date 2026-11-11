@@ -1,137 +1,116 @@
 ## Die Protokolle
 
-Die Kanzlei roch nach Leder, nach Tinte und nach der Kälte, die durch die Filzwände drang. Juvaini saß an einem Tisch, der breit genug war für vier Schreiber, und vor ihm lag ein Stapel Protokolle, die er nicht geschrieben hatte, die er nicht schreiben wollte, die er schreiben würde.
+Der Geruch von ranziger Butter und erkaltetem Hammelfett hing zäh im Kanzleizelt, vermischt mit dem beißenden Dampf feuchten Rußes, der aus den bronzenen Kohlebecken stieg. Draußen peitschte der Steppenwind den gefrorenen Sand von Karakorum gegen die doppelte Filzwand, rhythmisch, unablässig, wie eine ferne Brandung aus Stein und Eis. 
 
-Er war der zweite Tag.
+Ata-Malik Juvaini strich das Maulbeerbaumpapier glatt. Es war schweres, kostbares Zeug aus Samarkand, gekalkt und mit Achatsteinen auf Hochglanz gerieben, damit die Tinte nicht verlief. Unter seinen Fingerkuppen fühlte sich die Faser kühl und geschmeidig an, beinahe wie die Haut an der Innenseite eines Handgelenks. Fünf Jahre waren vergangen, seit er diesen Hof hatte verlassen müssen, doch der Tisch, an dem er saß, war derselbe geblieben. Ein langes, niedriges Brett aus sibirischer Lärche, gebeizt von verschüttetem Essig, Wasser und den schwarzen Tränen unzähliger Rohrfedern.
 
-Draußen, zwischen den Zelten, begann die Säuberung als Verwaltungsakt. Männer in dunklen Mänteln betraten die Behausungen der ögedeidischen Prinzen, ihrer Kanzleien, ihrer Heerführer, und sie kamen mit Listen heraus, mit Siegeln, mit der Autorität des neuen Khans. Die Namen wurden notiert, die Daten festgehalten, die Geständnisse gebaut, sauber, schön, endgültig.
+Nur der Stuhl war neu.
 
-Juvaini griff nach dem ersten Protokoll.
+Früher hatte er auf den Knien gesessen, den Rücken gebeugt, während Kanzler Chinqai oder Fatima den Takt der Feder bestimmten. Nun saß er auf einem gepolsterten Holzbock, den Rücken gestützt von einem Kissen aus geschorenem Ziegenpelz. Der Rang eines ersten Sekretärs des Statthalters Arghun Aqa verlieh ihm Würde, und der kaiserliche Erlass Möngke Khagans, der ihn in die Zentralkanzlei abkommandierte, schützte ihn vor den Blicken der Wachen. Man brauchte seine Hand. Sein Papstbrief aus dem Jahr 1246, den er damals für Güyük ins Lateinische und Persische gesetzt hatte, galt den neuen Herren nicht als Makel, sondern als Beweis handwerklicher Meisterschaft. Wer die Worte der fernen Franken bändigen konnte, verstand sich auch darauf, die Aussagen von Steppenprinzen zurechtzuhobeln.
 
-Die Handschrift war fest, die Buchstaben gleichmäßig, die Worte präzise. Ein Geständnis, unterschrieben von einem Mann, den er kannte, den er gestern noch gesehen hatte, den er heute nicht mehr sehen würde. Die Unterschrift war zittrig, kaum lesbar, die Unterschrift eines Mannes, der die Wahrheit sagen musste, die man ihm vorgegeben hatte.
+Er hob die Feder, tauchte die Spitze aus geschnittenem Schilf in das Rußschwarz und wartete.
 
-Er las.
+Vor ihm, am anderen Ende des Tisches, saß kein Schreiber, sondern Mangghur, einer der Chefermittler des Hauses Tolui. Der Mann trug eine schlichte Tunika aus grobem, ungebleichtem Wollstoff, ohne jedes Seidenornament. Seine Zöpfe waren kurz geschnitten, die Finger fleckig von Salzlake und Reitsattelfett. An Mangghur war nichts Bedrohliches, nichts Großartiges oder Zorniges. Er gähnte laut, schabte mit dem Daumennagel einen Krümel getrockneten Käse von seiner Wange und schob Juvaini ein zerknittertes Blatt Papier hinüber.
 
-*Ich, Temüge Noyan, Anführer der Tausend von Ögedei, bekenne mich schuldig, die Einheit des Reiches gefährdet zu haben. Ich habe nach dem Tod des Khans mit den ögedeidischen Prinzen konspiriert, um die Nachfolge zu umgehen. Ich habe Boten geschickt, die die Autorität des Kuriltai in Frage stellten. Ich habe gelogen, um die Wahrheit zu verbergen.*
+„Der Fürst hat gesprochen“, sagte Mangghur mit matter Stimme, als spräche er über den Futterverbrauch von Packkamelen. „Es sind zu viele Floskeln darin. Er schwört bei den Ahnen, er jammert über den Frost in den Eisen, er ruft den ewigen Himmel an. Nimm den Staub heraus, Ata-Malik. Wir brauchen den Kern.“
 
-Die Worte waren zu perfekt.
+Juvaini überflog die hastigen, ungelenken Notizen, die ein Adjutant im Kerker unter der Kanzlei auf Birkenrinde geschmiert hatte. Es waren die Worte von Shiremün, dem Enkel Ögedeis, einst von seinem Großvater als Erbe des Weltreichs bestimmt. Ein Knabe noch, verwöhnt, zitternd vor Kälte in den nassen Kellern unter dem Schotterboden. Er hatte gestanden, dass in den Wagen seines Gefolges doppelte Böden eingelassen waren; Waffen, Pfeilspitzen, Panzerhemden für einen Überfall auf Möngkes Krönungslager.
 
-Juvaini erkannte die Formulierung, die Satzstellung, die kalte Präzision der Anklage, die in das Geständnis eingewebt war, als ob der Angeklagte selbst sie geschrieben hätte. Es war die gleiche Technik, die gleiche Methode, die gleiche Hand, die die Geständnisse formte, die er vor Jahren gesehen hatte, in einem anderen Zelt, in einer anderen Zeit, für eine andere Angeklagte.
+Der Verrat war plump gewesen, fast kindisch. Aber wie es auf dem Papier stand, klang es nach Verwirrung, nach Missverständnis, nach verletztem Stolz.
 
-Er schloss die Augen.
+„Er sagt hier“, bemerkte Juvaini leise, während seine Stimme so glatt und ebenmäßig blieb wie das Samarkand-Papier, „dass die Waffen nur für die Jagd bestimmt waren. Dass die Gesandtschaft die Bräuche der Ahnen ehren wollte.“
 
-Die Erinnerung kam nicht als Bild, sondern als Geruch. Der Geruch von feuchter Erde, von Metall, von Blut. Der Geruch der Zisterne, in der Fatima gesessen hatte, der Kälte, die sie umgeben hatte, der Dunkelheit, die sie erwartet hatte. Er hatte sie nicht retten können. Er hatte nicht einmal versuchen können, sie zu retten. Er hatte zugesehen, wie die Prozedur ablief, wie die Geständnisse gebaut wurden, wie die Urteile gefällt wurden, wie die Wahrheit starb, bevor sie gesagt werden konnte.
+Mangghur kratzte sich am Nacken. Seine kleinen, tief liegenden Augen blickten durch Juvaini hindurch, direkt auf die Filzwand hinter ihm. „Der Khagan jagt mit Falken und Hunden, Schreiber. Wer hundert Eisenpanzer unter Sätteln verbirgt, jagt keine Rehe. Er jagt den Thron. Schreib es so, dass die Fürsten im Ältestenrat nicht nachfragen müssen. Wenn das Geständnis zu lang ist, schlafen die Khane ein. Drei Sätze. Die Absicht. Die Mittäter. Die Unterwerfung unter das Gesetz der Jasaq.“
 
-Und jetzt saß er auf der anderen Seite des Tisches.
+Juvaini nickte. Er tauchte die Feder erneut ein.
 
-Er öffnete die Augen.
+Er kannte diesen Rhythmus. Er kannte die Pausen zwischen den Worten, das Weglassen der Seufzer, das Glätten der Verzweiflung zu einer geometrischen Linie aus Tinte. 
 
-Der Raum war still, bis auf das Kratzen der Federn, das Rascheln der Blätter, die leisen Stimmen der Schreiber, die die neuen Geständnisse diktierten, die die neuen Urteile vorbereiteten, die die neue Ordnung in Worte fassten, in Schrift, in Wahrheit.
+Es war derselbe Vorgang wie damals. 
 
-„Juvaini?“
+Im Herbst 1247 war er es gewesen, der vor verschlossenen Türen auf den Knien gelegen hatte, den Atem anhaltend, während aus der Dunkelheit das leise, erstickte Stöhnen drang. Er hatte gewusst, wie man Fatimas Körper brach, Glied für Glied, nicht aus Zorn, sondern mit der kalten Geduld von Fleischern, bis ihre Zunge die Worte formte, die man ihr in den Mund legte: *Ich habe den Prinzen verhext. Ich habe den Brunnen verflucht.* Sie hatten ihr Geständnis damals so lange umgeschrieben, bis es den Glanz der Unausweichlichkeit trug.
 
-Er sah auf.
+Jetzt saß er auf der anderen Seite des Tisches. 
 
-Ein junger Schreiber stand vor ihm, der Filz in der Hand, der ihn aus der Stille geholt hatte. Die Augen waren hell, die Haltung locker, die Stimme freundlich, die Stimme eines Mannes, der seine Arbeit kannte, der sie gut fand, der sie nicht hinterfragte.
+Die Position war bequemer. Die Kissen wärmten sein Gesäß, ein Junge brachte gedämpften Tee mit gestoßenem Kardamom, dessen würziger Duft das stinkende Fett der Lampen für Herzschläge überdeckte. Sonst war nichts anders. Die Maschine hatte nur den Besitzer gewechselt. Unter Güyük war sie ein Raubtier gewesen, das brüllte und blind zuschlug; unter Möngke war sie ein Mühlstein geworden, der kornfein mahlte, Tag und Nacht, ohne Hass, getrieben vom reinen Willen zur Ordnung.
 
-„Der Ermittler möchte das dritte Protokoll. Hast du es fertig?“
+Er setzte die Feder an. *Ich, Shiremün, Enkel des erhabenen Ögedei, bekenne vor den Richtern des ewigen Himmels…*
 
-Juvaini nickte, griff nach dem Blatt, das er nicht geschrieben hatte, das er nicht schreiben wollte, das er geschrieben hatte. Er reichte es dem Schreiber, der es nahm, der es durchlas, der es gut fand.
+Die Buchstaben flossen mühelos aus der Spitze. Schönes, geschwungenes Nasta‘līq, durchsetzt mit den starren uigurischen Kanzleiformeln, die den Satzbau zu einem unentrinnbaren Eisengitter machten. Jeder Nebensatz schnitt einen Fluchtweg ab. Jedes Adjektiv band die Schlinge enger um den Hals des Prinzen. Er schrieb es nicht, wie Shiremün es gewimmert hatte, sondern wie die Kanzlei es brauchte: vollkommen, logisch, unausweichlich.
 
-„Saubere Arbeit“, sagte der Schreiber. „Der Ermittler wird zufrieden sein.“
+„Gut“, murmelte Mangghur, der ihm über die Schulter sah. Der Odem des Mongolen roch nach gerösteter Hirse und schlechtem Branntwein. „Sehr gut. Das persische Zuckerwerk nimmt den Geständnissen die Bitterkeit. Die Fürsten werden nicken.“
 
-Er wandte sich um und verschwand durch den Filz. Die Stille kehrte zurück, die Stille eines Raumes, in dem die Wahrheit produziert wurde, in der die Geschichte geschrieben wurde, in der die Toten ihre Stimmen fanden, um das zu sagen, was die Lebenden hören wollten.
+Mangghur klopfte ihm mit der flachen Hand auf die Schulter – eine Geste roher, wohlwollender Vertrautheit – und schlurfte davon, um einen Topf Hammelbrühe zu suchen.
 
-Juvaini griff nach dem nächsten Protokoll.
+In der Kanzlei arbeiteten zwanzig Schreiber. Neben Juvaini saß ein nestorianischer Christ aus Kerait, der mit leiser, singender Stimme syrische Glossen in ein Steuerregister eintrug. Dahinter stritten zwei Uiguren flüsternd darüber, ob die Pferde des hingerichteten Generals Eljigidey dem kaiserlichen Marstall oder den Tausendschaften der Leibwache zufallen sollten. Sie lachten gedämpft über eine Zote, die einer über die dritte Frau des Generals gerissen hatte. 
 
-Diesmal war der Name einer Frau. Eine Prinzessin, eine Tochter Ögedeis, eine Frau, die in ihren Gemächern gelebt hatte, die keine Politik betrieben hatte, die keine Konspiration geplant hatte, die nur gelebt hatte, die nur gelebt worden war. Das Geständnis war lang, detailliert, voller Namen, Daten, Orte. Sie gestand, Boten geschickt zu haben, Siegel gefälscht zu haben, die Einheit des Reiches gefährdet zu haben.
+Niemand schrie. Niemand weinte. Der Tod von sechzig Prinzen, Heerführern und Ministern der alten Regentschaft vollzog sich als ein sanftes Schaben von Federn auf Papier, unterbrochen vom Knacken der Kohlen und dem gelegentlichen Räuspern eines Schreibers, der zu viel Staub geschluckt hatte.
 
-Sie hatte nie einen Boten geschickt. Sie hatte nie ein Siegel gefälscht. Sie hatte nie die Einheit des Reiches gefährdet.
+Juvaini legte das fertige Geständnis beiseite und griff nach dem nächsten Bündel.
 
-Juvaini las das Geständnis, las die Worte, die sie nicht gesagt hatte, die sie nicht sagen würde, die sie nicht sagen konnte, und er erkannte die Hand, die sie geschrieben hatte. Es war die gleiche Hand, die Fatimas Geständnis geschrieben hatte, die gleiche Hand, die die Worte formte, die die Wahrheit baute, die die Wahrheit tötete.
+Es war eine schwere Ledermappe, verschnürt mit rotem Pferdehaar – das Zeichen für beschlagnahmten Schriftverkehr. Auf dem Schild stand in eckiger uigurischer Schrift: *Unerlaubte Schriften, Briefe und Verzeichnisse aus den Jurten der verfluchten Frauen Töregenes und Oghul Qaimishs.*
 
-Er legte das Blatt beiseite.
+Sein Magen zog sich zusammen. Ein plötzlicher, eisiger Stich fuhr ihm durch die Eingeweide, so heftig, dass ihm für einen Wimpernschlag der Atem stockte. 
 
-Die Stille war jetzt voller, die Stille eines Raumes, in dem die Worte sprachen, in dem die Worte lebten, in dem die Worte die Toten waren, die nicht sterben konnten. Er griff nach der Tinte, tauchte die Feder ein, begann zu schreiben, begann die Worte zu formen, die er nicht formen wollte, die er formen musste.
+Er öffnete den Knoten mit klammen Fingern.
 
-Das Geständnis war schnell geschrieben, die Formulierung präzise, die Unterschrift sorgfältig nachgezeichnet, die Unterschrift einer Frau, die nie unterschrieben hatte, die nie unterschreiben würde, die nie unterschreiben konnte.
+Er suchte nicht nach Staatsgeheimnissen. Er suchte nicht nach Verrat. Instinktiv, mit jenem hungrigen, verzweifelten Blick, den er seit fünf Jahren nicht hatte ablegen können, suchte er nach einem einzigen Namen. Nach einer Schrift, die er unter tausend Händen herausgekannt hätte: jenen zarten, leicht nach links geneigten Schriftzügen, die aussahen wie Schilfhalme im Abendwind von Maschhad.
 
-Er legte die Feder beiseite.
+Er wühlte durch Verzeichnisse über Brokatstoffe, Bittschriften von Seidenhändlern, verblasste Anweisungen an die Küchenmeister von Karakorum. Er las den Namen Töregenes, dutzende Male, gekoppelt mit Flüchen und Anklagen wegen Maßlosigkeit. Er stieß auf die Inventare von Oghul Qaimish, der unglücklichen Witwe Güyüks, die man vor wenigen Tagen nackt verhört, in Filz eingenäht und in den eisigen Fluten des Orchon ertränkt hatte – genau wie Fatima.
 
-Der Nachmittag war lang, die Protokolle endlos, die Geständnisse immer gleich, immer perfekt, immer die gleiche Wahrheit, die gleiche Lüge, die gleiche Leere zwischen den Zeilen, die keine Fragen mehr zuließ. Die Schreiber kamen und gingen, die Ermittler kamen und gingen, die Angeklagten kamen und gingen, und Juvaini saß an seinem Tisch, tauchte die Feder ein, schrieb die Worte, die ihm diktiert wurden, die er schreiben musste, die er schrieb.
+Aber Fatima war nicht darin.
 
-Als die Sonne unterging, als die Schatten länger wurden, als die Kälte zurückkehrte, stand er auf. Die Bewegung war langsam, vorsichtig, die Bewegung eines Mannes, der wusste, dass die Arbeit nicht enden würde, dass die Wahrheit nicht sprechen würde, dass die Stille bleiben würde, voll, schwer, unausweichlich.
+Keine Zeile. Kein Randvermerk. Nicht einmal ihr Name, der einst die Höfe von Tabris bis zum Altai erzittern ließ. 
 
-Er trat an die Tür, die zur äußeren Kanzlei führte, und blieb stehen.
+Juvaini hielt ein Blatt gegen das Licht der Butterlampe. Das Papier war leer, gelbbraun von altem Fett. Er blätterte weiter, schneller nun, die Beherrschung verlierend, bis seine Finger das feine Pergament knitterten. Nichts.
 
-„Juvaini?“
+Ein bitteres, lautloses Lachen stieg in seiner Kehle auf. 
 
-Er drehte sich um.
+Sie war nicht hier. Ihre Akte war längst gewandert – hinab in jene staubigen Tiefen, in denen die Toten lagen, die man nicht einmal mehr für die Rache brauchte. Ihr Name war ausgelöscht worden, nicht aus Gnade, sondern weil die Sieger keinen Nutzen mehr darin sahen. Für Möngke und seine kühlen Rechner existierte Fatima nicht als Hexe oder Schattenregentin; sie war nur ein toter Splitter aus der Regierungszeit einer anderen Sippe, verweht wie die Asche eines längst abgebrannten Lagerfeuers. 
 
-Der Ermittler stand im Schatten, der Filz in der Hand, die Augen kalt, die Stimme freundlich. „Ich brauche noch eine Akte. Die Akte über unerlaubte Schriften und Korrespondenzen der ögedeidischen Höfe. Hast du sie?“
+Ihre tiefste Rettung, begriff Juvaini mit schmerzhafter Klarheit, war ihre vollkommene Bedeutungslosigkeit für die neue Macht. Das Filzbündel, das Shigi Qutuqu in der dunklen Holzkiste unter den Knochen toter Fürsten verborgen hielt, schlief in der sichersten Gruft der Welt: dem Desinteresse der Gewinner.
 
-Juvaini nickte, griff nach dem Stapel, der auf dem Tisch lag, suchte, fand die Akte, die er nicht finden wollte, die er finden musste. Die Akte war dick, voller Briefe, voller Schriften, voller Korrespondenz, die nicht erlaubt war, die nicht erlaubt sein durfte, die nicht erlaubt sein sollte.
+„Ata-Malik.“
 
-Er reichte sie dem Ermittler.
+Juvaini schreckte hoch. Seine Hand glitt wie von selbst über die beschlagnahmten Briefe und schob sie zur Seite.
 
-Der Ermittler nahm sie, blätterte kurz, nickte. „Danke. Saubere Arbeit heute. Morgen geht es weiter. Ruhe dich aus. Der neue Khan wird zufrieden sein.“
+Vor dem Tisch stand Buqa, der Gerichtsschreiber des neuen Obersten Gerichtshofs. In den Armen hielt er eine Rolle aus schwerem Pergament, an deren unterem Rand bereits drei rote Lacksiegel klebten.
 
-Er wandte sich um, verschwand im Schatten, im Filz, in der Nacht, die über der Kanzlei lag, kalt, still, voller Jahre, voller Wahrheiten, die warteten, auf den Tag, an dem sie gelesen wurden, an dem sie verstanden wurden, an dem sie weitergingen, in die nächste Hand, in die nächste Generation, in die nächste Zeit, die kommen würde, um alles zu fordern, was noch nicht gefordert war.
+„Das Urteil für Shiremün und den Kanzler Mahmud Yalawatsch“, sagte Buqa sachlich. „Der Khagan hat die Verbannung des Prinzen bestätigt. Aber der Anhang für die Hauptleute muss besiegelt werden. Dreiundzwanzig Köpfe. Noch vor Sonnenuntergang am Südtor. Reinschrift, wenn es beliebt. Der Khagan will keine Korrekturen sehen.“
 
-Juvaini blieb stehen.
+Juvaini nahm das Dokument entgegen. Das Pergament war steif, der Geruch von frischem Leim stieg ihm in die Nase.
 
-Die Hand, die die Akte gehalten hatte, zitterte nicht.
+Er nahm eine frische Rohrfeder, schnitt die Spitze mit drei kurzen, präzisen Schnitten seines Messers zurecht und prüfte den Grat an seinem Daumennagel. Die Klinge war scharf. Sie schnitt ohne Widerstand.
 
-Er sah auf seine Finger, auf die Haut, die kalt war, auf die Knochen, die still waren, auf die Muskeln, die die Bewegung verweigerten, die das Zittern verweigerten, das er brauchte, das er wollte, das er nicht mehr hatte. Die Hand war ruhig, fest, die Hand eines Mannes, der seine Arbeit kannte, der sie gut fand, der sie nicht hinterfragte.
+Er setzte die Feder auf das Pergament.
 
-Er erinnerte sich an Fatimas Hand.
+Er schrieb die Urteile rein. Namen, die einst Ehrfurcht geboten hatten – Söhne von Generälen, die mit Dschingis Khan geritten waren, Männer, deren Väter ganz Chorasan in Schutt und Asche gelegt hatten –, wurden zu schwarzen Zeichenreihen auf gebleichter Tierhaut. Er schrieb mit jener vollkommenen, fast zärtlichen Eleganz, die sein Vater ihn in den Ruinen von Nischapur gelehrt hatte. *Das Schwert erobert, die Feder bleibt.* 
 
-An die Hand, die das Geständnis geschrieben hatte, das nicht ihres war, das nicht ihres sein konnte, das nicht ihres sein sollte. An die Hand, die den Brief an ihre Schwester geschrieben hatte, die die Worte formte, die die Worte trug, die die Worte bewahrte. An die Hand, die zitterte, die zitterte, als sie die Feder hielt, als sie die Tinte eintauchte, als sie die Worte schrieb, die sie schreiben musste, die sie schreiben wollte, die sie schreiben würde.
+Wie heuchlerisch dieser Satz war. Die Feder blieb nicht, um Zeugnis abzulegen. Sie blieb, um das Werk des Schwertes zu vermessen, einzutragen und reinzuwaschen.
 
-Er wünschte sich, seine Hand würde wieder zittern.
+Als der letzte Name geschrieben war, griff Juvaini nach dem Siegellack. Er hielt die Stange aus karmesinrotem Harz über die Flamme der Butterlampe. Das Wachs schmolz langsam, tropfte dick und glänzend wie geronnenes Blut auf den unteren Rand des Schriftstücks. Ein süßlicher, schwerer Duft nach Weihrauch und verbranntem Teer stieg auf.
 
-Die Stille blieb.
+Er nahm das schwere Bronzesiegel der kaiserlichen Kanzlei. 
 
-Die Stille eines Raumes, in dem die Toten sprachen, in dem die Toten lebten, in dem die Toten warteten, um die Geschichte zu erzählen, die niemand hören wollte. Juvaini stand im Schatten, die Hand ruhig, die Finger still, das Zittern verweigert, das Zittern verloren, das Zittern tot.
+In diesem Moment, als das kühle Metall seine Haut berührte, hielt er inne.
 
-Er trat hinaus in die Kälte.
+Er sah auf seine Hand.
 
-Die Nacht war klar, die Sterne hell, die Kälte scharf, die Kälte eines Winters, der nicht enden würde, der nicht enden durfte, der nicht enden konnte. Er ging durch die Zeltstadt, vorbei an den Wachen, vorbei an den Feuern, vorbei an den Schreien, die aus den Verhörzelten kamen, die nicht aufhören würden, die nicht aufhören durften, die nicht aufhören konnten.
+Sie lag vollkommen ruhig auf dem Tisch. Die Finger waren weiß vom Druck, aber die Sehnen spannten sich glatt und unbewegt über die Knöchel. Kein Zittern. Nicht das leiseste Beben in den Fingerspitzen. 
 
-Er erreichte sein Zelt.
+Juvaini starrte auf seine eigenen Finger, als gehörten sie einem Fremden, einem Götzenbild aus poliertem Knochen.
 
-Im Inneren war es kalt, die Lampe aus, die Decke auf dem Boden, der Stapel Akten, den er mitgebracht hatte, die Akten von 1247, die er gelesen hatte, die er bewahren würde, die er weitertragen würde, bis zum Ende, bis nichts mehr blieb, außer Papier, außer Worten, außer ihr, außer ihm, außer der Erinnerung an das, was sie verloren hatten.
+Er erinnerte sich an Fatimas Hand. Im Kerker von Karakorum, als sie ihm damals über den Tisch ein unbeschriebenes Blatt zugeschoben hatte, hatte ihre Hand gezittert. Es war ein feines, unbezwingbares Beben gewesen, das Schlagen eines gefangenen Vogels unter der zarten Haut, das Zittern eines Menschen, der die Kälte des Todes spürt und dennoch weint, der liebt und fürchtet und leidet. Dieses Zittern war ihr Zeugnis gewesen, der letzte Beweis dafür, dass hinter den Lügen der Akten ein lebendiges Herz schlug.
 
-Er legte sich hin.
+Seine eigene Hand war still. 
 
-Die Decke war kalt, die Kälte drang durch den Filz, durch die Wolle, durch die Haut, in die Knochen, in das Fleisch, in die Leere, die in ihm war. Er schloss die Augen.
+Er presste das Siegel in das heiße Wachs. Das Metall zischte leise, als es den Brei verdrängte und die Schriftzeichen Möngkes tief in das weiche Harz grub: *Durch die Macht des ewigen Himmels.* 
 
-Die Bilder kamen nicht.
+Der Stempel hob sich. Das Zeichen stand vollkommen da, scharfkantig, unerbittlich, schön.
 
-Die Worte kamen nicht.
+Juvaini zog die Hand zurück und legte sie flach auf das kalte Holz der Lärche. 
 
-Die Stille blieb.
+Er starrte auf seine Haut, auf die Tintenflecken an Zeigefinger und Daumen, und eine schreckliche, eisige Übelkeit kroch ihm die Kehle empor. Er war gerettet. Er war unersetzlich. Er saß an den Feuern der Sieger, er aß ihr Brot und trank ihren Tee, und seine Kunst würde die Jahrhunderte überdauern.
 
-Und in der Stille, in der Kälte, in der Dunkelheit, in der Leere, die in ihm war, wünschte er sich, dass seine Hand wieder zittern würde, dass die Schuld ihn erreichen würde, dass die Erinnerung ihn holen würde, dass die Trauer ihn tragen würde, dass die Worte ihn retten würden, die er nicht schrieb, die er nicht schreiben wollte, die er nicht schreiben konnte.
+Und in der Stille des Zeltes, während draußen der Wind den Schnee über die Gräber der Besiegten fegte, wünschte er sich mit jeder Faser seiner verfaulten Seele, seine Hand würde wieder zittern.
 
-Der Morgen kam.
-
-Die Kälte blieb.
-
-Die Arbeit wartete.
-
-Die neuen Geständnisse warteten.
-
-Die neuen Urteile warteten.
-
-Die neue Wahrheit wartete, die er schreiben würde, die er formen würde, die er liefern würde, sauber, schön, endgültig.
-
-Er stand auf.
-
-Die Hand war ruhig.
-
-Sie zitterte nicht.
-
-Sie würde nie wieder zittern.
-
----

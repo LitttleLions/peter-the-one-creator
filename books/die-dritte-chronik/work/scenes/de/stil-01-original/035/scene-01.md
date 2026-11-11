@@ -1,208 +1,136 @@
 ## Drei Sätze auf der Karawanenstraße
 
-Der Händler kam am späten Vormittag, als die Karawane einen Fluss überquerte.
+Der Wind über dem Altai trug den Geruch von schmelzendem Eis und trockenem Pferdekot, die bittere Vorahnung eines zähen Frühlings, der das Land nicht wärmte, sondern nur auftaute. Seit sechsundvierzig Tagen bestand Juvainis Welt aus dem dumpfen, rhythmischen Schlagen von zweihundert Hufen im gefrorenen Schlamm, dem Quietschen ungeölter Wagenachsen und dem tiefen, heiseren Husten der Lastkamele. Poststation um Poststation war hinter ihnen versunken wie Steine in einem trüben Fluss. Nachrichten aus dem Osten erreichten diese endlose Straße selten; Gerüchte dagegen reisten schneller als die kaiserlichen Kuriere, flüchtig von Mund zu Mund geworfen, verformt an jedem Lagerfeuer, bis niemand mehr wusste, wer zuerst gesprochen hatte.
 
-Juvaini hatte die Furt bereits zur Hälfte durchquert, das Wasser reichte den Pferden bis zum Bauch, als der Mann neben ihm auftauchte – ein untersetzter Sogder mit einem Packpferd, das bis zum Rand mit Pelzen beladen war. Er ritt von Osten heran, von Karakorum kommend, und sein Gesicht trug die graue Erschöpfung eines Mannes, der zu lange unterwegs war.
+An der Poststation von Qara-Qorum-Say, einem kargen Viereck aus sonnengetrockneten Lehmziegeln zwischen kahlen Schieferhügeln, stockte der Zug. Eine Händlerkarawane aus dem Osten hatte die Brunnen besetzt. Fünfzig Packpferde, beladen mit verschnürten Ballen chinesischer Rohseide, getrocknetem Rhabarber und Fässern voll stinkendem Tran, dampften in der dünnen Höhenluft.
 
-„Ihr seid vom Hof?“, fragte der Händler.
+Juvaini saß auf einer umgestürzten Futterkiste, die lederne Schreibmappe auf den Knien. Seine Finger waren klamm, gerötet von der Kälte, die aus dem Boden kroch. Vor ihm stand der Karawanenführer, ein Mann aus Sogdien mit einer zerschlissenen Fuchsfellmütze, die Augen schmal und tränend vom ewigen Qualm der Schafsmistfeuer. Zwischen ihnen dampften zwei Schalen Ziegeltee, bitter und ranzig von alter Stutenmilch.
 
-Juvaini nickte. Das Wasser strömte kalt um seine Stiefel.
+Es ging um den Wegezoll. Fünfzehn Ballen geringer Seide sollten gegen drei Felle Silber verrechnet werden, ein Streit um Stempelmarken und alte Zählmarken aus der Kanzlei von Karakorum, die seit dem Winter ihre Gültigkeit verloren hatten.
 
-„Dann habt Ihr vielleicht gehört. Von der Chorasanerin. Der Schreiberin der alten Regentin. “
+Der Sogdier blies auf den heißen Tee, schnäuzte sich mit zwei Fingern in den Staub und zog ein zerknittertes Zolldokument aus seinem Gürtel.
 
-Juvainis Hand fand den Zügel fester.
+„Die Stempel der Khatun gelten nicht mehr, Schreiber“, sagte der Mann beiläufig und wies mit einem daumengroßen, schmutzigen Fingernagel auf das verblasste rote Wachs. „Der Khagan fegt mit eisernem Besen. In der Stadt haben sie aufgeräumt, bevor die große Armee nach Westen aufbrach.“
 
-„Man sagt, sie ist tot“, fuhr der Händler fort. „Hingerichtet. Gestern oder vorgestern – die Zeit läuft anders in Karakorum. “ Er spuckte ins Wasser. „Man sagt, in Filz genäht und in den Fluss geworfen. Man sagt auch, sie haben sie vorher gefoltert, aber das sagen sie immer. “
+Juvaini tauchte das Schilfrohr in das tragbare Tintenfass, prüfte die Spitze und glättete das Pergament. „Die Steuerverordnung des letzten Jahres bleibt in Kraft, bis der Statthalter neue Register siegelt. Zehn Dinar für die Fuhr, oder ihr ladet ab.“
 
-Drei Sätze.
+Der Händler lachte trocken, ein Geräusch wie splitterndes Schilf. Er nahm einen tiefen Schluck aus der Schale, wischte sich das fettige Maul mit dem Ärmel ab und schüttelte den Kopf.
 
-Der Händler zog an seinem Zügel und ritt weiter, weil er Zoll zahlen musste und einen Tee brauchte und weil die Nachricht für ihn nichts weiter war als eine Neuigkeit unter vielen – eine Geschichte für die nächste Herberge, ein Gesprächsstoff für den Abend.
+„Nichts bleibt in Kraft. Die Chorasanerin, die Hexe der Regentin, haben sie vor dem Neumond gerichtet.“
 
-Juvaini ritt weiter durch die Furt.
+Das Schilfrohr hielt inne. Nicht zitternd. Es schwebte einen halben Daumenbreit über der Zeile, unbeweglich, als hätte der Frost die Luft zwischen Holz und Faser erstarren lassen.
 
-Das Wasser umspülte die Beine seines Pferdes, kalt, gleichmäßig, ohne Eile. Am anderen Ufer wartete Arghun Aqa mit zwei Schreibern und einer Liste von Abgaben, die in den nächsten drei Tagen eingetrieben werden mussten. Juvaini stieg ab, übergab die Zügel einem Diener und begann mit der Arbeit.
+Der Händler schaute nicht auf. Er nestelte an den Riemen seiner Geldkatze herum, feilschend um die Differenz eines halben Silberlings.
 
-Er verhandelte den Zoll für vierzig Ballen Seide.
+„Man sagt, in Filz“, fügte der Mann gleichmütig hinzu. „Man sagt, im Fluss.“
 
-Er prüfte die Frachtpapiere eines armenischen Weinhändlers.
+*Man sagt.*
 
-Er notierte die Anzahl der Pferde in einer Herde, die nach Westen getrieben wurde – einhundertsiebenunddreißig Stück.
+Es war der Modus aller Wahrheit im Reich. Das Gerücht, das kein Fleisch hatte, kein Begräbnis, keinen Ort, an dem ein Klagender niederknien konnte. Drei Sätze, fallen gelassen zwischen der Verzollung von Tierhäuten und dem Schlürfen von erkaltetem Fett.
 
-Er tat all dies mit einer Präzision, die ihn selbst überraschte. Seine Hände zitterten nicht. Seine Stimme blieb ruhig. Er lächelte sogar einmal kurz auf, als ein Kaufmann aus Täbris einen Witz über Steuereintreiber machte.
+Juvaini spürte, wie die Kälte in seinen Nacken stieg. Nicht der Wind der Hochebene. Es war ein lautloses, inneres Bersten, als würde tief in seiner Brust ein Pfeiler nachgeben, auf dem bisher das gesamte Himmelsgewölbe geruht hatte. Ein Felsbrocken, der ohne Hall in einen bodenlosen Brunnen stürzt. Unter der schweren Wolle seines Reisemantels schlug sein Herz zwei Schläge lang gegen das Gebein, hart und unregelmäßig wie ein gefangener Vogel, der gegen das Gebälk einer fremden Halle schlägt.
 
-Der Körper wusste noch nichts.
+Dann schwieg es fast.
 
-Der Körper funktionierte wie eine Maschine: Die Hand griff nach der Feder; der Mund öffnete sich zu Antworten; die Beine trugen ihn von einem Zelt zum nächsten; alles lief weiter wie immer – nur dass irgendwo tief drinnen ein Schalter umgelegt worden war und nichts mehr so sein würde wie zuvor.
+Er blinzelte nicht. Er rührte kein Glied. Sein Blick blieb auf das Ziegenleder der Futterkiste geheftet, auf einen winzigen, getrockneten Blutfleck im Holz, der von einer geschlachteten Ziehe herrührte, Wochen her, vergessen.
 
-Die Sonne stand hoch über dem Lagerplatz am Nachmittag. Juvaini aß Brot und getrocknete Früchte mit Arghun Aqa und besprach die Route für den nächsten Tag: zwei Tagesmärsche bis zur nächsten befestigten Stadt; dort sollten neue Vorräte aufgenommen werden; dann weiter nach Westen; immer weiter nach Westen; weg von Karakorum; weg von allem; weg von ihr.
+„Die Verordnung verlangt zehn Dinar“, sagte Juvaini. Seine Stimme klang fremd in seinen Ohren, ebenmäßig, trocken wie getrockneter Wermut, völlig frei von Zittern. „Acht für die Pferde, zwei für das Begleitvolk. Wenn Ihr die Siegelmarke aus Karakorum nicht vorweisen könnt, wird der Aufschlag nach Gewicht berechnet.“
 
-Er kaute das Brot trocken herunter und schluckte es hinunter wie Steine.
+Der Händler fluchte leise, spuckte aus und kramte widerwillig drei abgegriffene Silberbarren hervor. Juvaini nahm das Metall entgegen, wog es mit der Hand, prüfte den Schnitt mit der Kante seines Messers und strich den Betrag im Register ab. Seine Hand zog die geschwungenen arabischen Ziffern mit vollendeter Eleganz. Keine Linie brach, kein Tintenklecks entweihte die kaiserliche Ordnung.
 
-Arghun Aqa beobachtete ihn schweigend über den Rand seines Bechers hinweg. Der alte Mongole hatte gelernt zu warten – auf Geständnisse, auf Zusammenbrüche, auf den richtigen Moment für ein Wort oder das Schweigen danach. Er wartete jetzt auch: saß da im Staub des Lagerplatzes zwischen Lasttieren und Packkisten und ließ Juvaini allein mit dem Wissen in seinem Kopf.
+Er bezahlte das Wechselgeld aus Arghun Aqas Kasse. Er stempelte den Passierschein mit dem Holzsiegel des Statthalters. Er nickte dem Händler zu, der seine Packpferde mit heiserem Gebrüll wieder auf den Pfad trieb.
 
-Es half nicht viel: Der Kopf wusste es seit dem Vormittag; aber erst am Abend begriff der Körper es wirklich.
+Niemand sah etwas. Kein Wächter, kein Treiber, kein Knecht bemerkte den Augenblick, in dem die Welt aufhörte, eine Schöpfung Gottes zu sein, und zu einem leeren Getriebe aus Schlamm und Eisen wurde.
 
-Die Dämmerung kam früh im Frühling 1248 – ein graues Licht über der weiten Ebene; keine Bäume weit und breit; nur Gras im Wind und ferne Berge im Norden wie eine Mauer aus Schatten. Die Karawane lagerte um drei Feuer herum: eins für die Wachen; eins für die Kaufleute; eins für Arghun Aqa und seine Schreiber.
+Als die Karawane eine Stunde später aufbrach, stieg Juvaini auf seinen Wallach. Er ritt hinter Arghun Aqa, hielt den Zügel mit festem Griff und sah starr zwischen den Ohren des Pferdes hindurch auf den Horizont. Der Schmutz auf dem Weg war grau. Der Himmel über ihnen war grau wie eine nasse Filzdecke. Vor ihm bewegte sich der breite Rücken seines Patrons, geschützt von schwerem Zobel und den seidenen Bändern der mongolischen Beamtenschaft.
 
-Juvaini saß abseits am dritten Feuer und starrte ins Leere, während seine Hände das Notizbuch öffneten – jenes kleine Lederbuch mit den Gedichten darin. Verse über Liebe, über Abschied. Über das Licht auf ihrem Gesicht an jenem letzten Abend im Durchgang zwischen zwei Gebäuden. Als sie so vertraut mit ihm sprach wie nie zuvor. Als sie ihm drei Worte gab. Als sie ging. Als er blieb. Als alles begann, was jetzt endete. Endgültig, unwiderruflich. Ohne Wiederkehr, ohne Gnade. Ohne Ende, außer diesem einen Ende, das er nicht schreiben konnte. Weil es keine Form dafür gab, kein Versmaß, keinen Reim, kein Bild, keine Metapher. Nichts außer drei Sätzen eines Händlers im Wasser einer Furt:
+Sie ritten bis zum Einbruch der Dunkelheit, als die Kälte wieder wie geschliffenes Eisen von den Bergen herabstieg.
 
-Man sagt.
-In Filz.
-Im Fluss.
+Das Nachtlager schlugen sie in einer Senke auf, geschützt vor dem schneidenden Ostwind durch eine Wand aus rotem Sandstein. Die Wachen entzündeten Feuer aus trockenem Holz und Dornbüschen. Rauch stieg auf, schwer von Harz und bitterem Kraut, und legte sich wie ein Schleier über die Männer, die ihre Hände über den Flammen rieben und von den warmen Bädern in Buchara und den Granatäpfeln von Nischapur sprachen.
 
-Seine Hand hielt die Feder über dem Papier, aber es kam nichts. Kein Wort, kein Satz, kein Anfang. Nur Leere, nur Stille. Nur das ferne Geräusch des Windes im Gras, draußen, wo keine Bäume standen, wo nichts stand außer dieser einen Wahrheit, die er nicht fassen konnte:
+Erst jetzt, als das Pferd versorgt und der Sattel abgenommen war, begann Juvainis Körper zu begreifen, was sein Verstand seit dem Mittag wie eine fremde Akte verwahrte.
+
+Sein Magen krampfte sich mit einer solchen Heftigkeit zusammen, dass er taumelte. Er musste sich mit einer Hand am Rad eines Proviantwagens abstützen; das Holz schnitt scharf in seine Handfläche, doch er spürte den Schmerz kaum. Ihm war übel. Eine Welle aus kaltem Schweiß brach unter seinem Kragen hervor. Es war keine Trauer, die ihn überfiel; Trauer war ein Luxus für jene, die weinen durften. Es war die physische Anwesenheit des Nichts.
+
+*In Filz. Im Fluss.*
+
+Das Wasser des Tuul-Flusses, eisgrau, unerbittlich, die Strömung, die keinen Atem ließ. Sie hatten sie hineingeworfen wie Abfall, den man aus dem Hof fegt. Ihre Hände, die das Papier so zart berührt hatten, als wäre jede Faser lebendig; ihre Augen, die jedes Ausweichen in seinen Worten entlarvt hatten, noch ehe er den Satz beenden konnte; ihre Stimme, die in der Dunkelheit der Kanzlei wie das ferne Rauschen von Bächen in Chorasan geklungen hatte – ausgelöscht. Aus der Welt gewischt, als hätte sie nie auf der Erde geatmet.
+
+Er ging langsam zu seinem Schlafplatz, abseits der laut lachenden Krieger. Aus der inneren Tasche seines Wamses zog er das schmale, in Schweinsleder gebundene Notizbuch.
+
+Jahrelang war dieses Buch seine Zuflucht gewesen. Hier hatte er die Zeilen Firdausis gesammelt, die Reime, mit denen er versucht hatte, die Asche von Nischapur zu überdecken, die Verse, die er für sie geschrieben hatte – verschlüsselt in Metaphern von Nachtigallen und verdorrenden Gärten, feige und stolz zugleich.
+
+Juvaini kniete im Staub nieder. Er schlug die Lampe an, öffnete das Buch auf einer leeren Seite und nahm das Schilfrohr zur Hand.
+
+Er wollte ihr ein Denkmal setzen. Eine Klage, die Jahrhunderte überdauern sollte, ein Klagelied, so rein und schmerzvoll, dass jeder, der es las, den Verlust dieses einzigen, unersetzlichen Lebens beweinen musste.
+
+Er setzte die Spitze auf das raue Papier.
+
+Nichts kam.
+
+Die Reime, die ihm sonst wie silberne Fische ins Netz geschwommen waren, zerfielen zu Staub. Welches Metrum passte zu nassem Filz, der sich mit Eiswasser vollsaugt? Welcher Vers konnte den Laut fassen, wenn Sehnen zugezogen werden, um den Atem einer Frau zu ersticken, die mehr Weisheit besaß als alle Khane auf ihren goldenen Stühlen?
 
 Für diesen Satz gab es kein Versmaß.
 
-Er schloss das Notizbuch. Langsam, sorgfältig, wie ein Mann, der etwas begräbt, das nie wieder ans Licht kommen sollte. Er legte es neben sich auf den Boden, zwischen Kieselsteine, ausgerissene Grashalme, Aschereste eines Feuers, das langsam verglomm. Ringsum lachten Männer, aßen, tranken, machten weiter. Weil sie nicht wussten, was er wusste. Weil sie nicht verstehen konnten, dass eine Frau gestorben war, heute oder gestern oder vorgestern. Dass man sie in Filz genäht hatte. Dass man sie in den Fluss geworfen hatte. Dass man ihre Stimme ausgelöscht hatte, für immer. Weil sie zu viel wusste. Weil Güyük Khan Angst vor ihr hatte. Weil Macht bedeutete, andere zum Schweigen zu bringen, bevor man selbst verstummte. Weil dies das Gesetz des Reiches war, seit jeher. Seit Dschingis. Seit Ögedei. Seit immer:
+Die persische Dichtung war ein Garten mit hohen Mauern, voll von Rosen, Zypressen und dem Schmerz getrennter Liebender. Aber draußen vor diesen Mauern lag die Steppe, und in der Steppe wuchs nichts als Wermut, und die Reiter fragten nicht nach Kadenzen, wenn sie einen Körper zertrampelten. Die Schönheit rettete nichts. Sie linderte nichts. Sie war eine Lüge, die er sich selbst erzählt hatte, um nicht daran zu ersticken, dass er den Mördern die Steuern eintrieb.
 
-Töten.
-Schweigen.
-Weitermachen.
+Juvaini starrte auf die weiße Fläche. Seine Hand zuckte nicht einmal mehr.
 
-Arghun Aqa setzte sich neben ihn ohne zu fragen ob er stören würde – einfach da sein altes Gesicht vom Feuer beleuchtet runzlig müde aber fest entschlossen weiterzumachen wie er es fünfzig Jahre lang getan hatte durch drei Khagane hindurch durch Bürgerkriege Kriege Hungersnöte Intrigen Aufstände alles überlebt indem er arbeitete indem er weitermachte indem er nie stehenblieb:
+Er führte das Schilfrohr an die Flamme der kleinen Butterlampe. Er sah zu, wie das getrocknete Holz Feuer fing, wie die Spitze schwarz wurde, glühte und zu Asche zerfiel. Dann legte er das Buch zusammen, band den Lederriemen fest um die Seiten und zog den Knoten zu.
 
-„Du hast gehört was der Händler sagte?“
+Er würde nie wieder ein Gedicht schreiben.
 
-Juvaini nickte ohne aufzusehen seine Finger strichen noch einmal über den Einband des Notizbuchs einmal zweimal dreimal dann hielt er inne legte beide Hände flach auf seine Knie atmete tief durch hob den Kopf sah Arghun Aqa an:
+„Du verbrennst dein Handwerkszeug, Junge.“
 
-„Ja. “
+Arghun Aqa stand hinter ihm. Der Statthalter bewegte sich trotz seiner schweren Pelze lautlos wie ein Wolf auf gefrorenem Gras. Er trat an das Feuer, hielt seine fleischigen Hände in den Rauch und blickte nicht auf Juvaini herab, sondern in die Glut. Sein Gesicht, breit und vom Wetter gegerbt, trug jene unbewegliche Ruhe, die man nur erwarb, wenn man drei Herrscher überlebt hatte und wusste, dass der vierte auch nicht ewig leben würde.
 
-„Dann weißt du Bescheid“, sagte Arghun Aqa knapp wie immer wenn etwas Wichtiges gesagt werden musste ohne Umschweife ohne Trost ohne falsche Hoffnung einfach Tatsache: „Sie ist tot du lebst wir arbeiten weiter so ist das so war es immer so wird es bleiben solange dieses Reich steht was ziemlich lange dauern wird wenn wir unseren Job machen also mach deinen Job morgen früh reiten wir weiter. “ Er schwieg kurz dann fügte er hinzu leiser fast beiläufig aber Juvaini hörte jedes einzelne Wort deutlich klar unauslöschlich: „Arbeite“ sagte Arghun Aqa „es ist das Einzige was sie dir nicht nehmen können was sie dir nie nehmen werden was bleibt wenn alles andere vergeht wenn alle anderen sterben wenn du selbst stirbst: Die Arbeit deine Arbeit was du tust was du schreibst was du hinterlässt wenn du gehst. “ Er stand auf klopfte Juvaini leicht auf die Schulter einmal kurz fest dann ging er zurück zum Feuer wo ein junger Schreiber ihm einen Becher Tee reichte wo jemand lachte wo jemand eine Geschichte erzählte vom letzten Frühling in Buchara wo alles gut gewesen war bevor es schlecht wurde bevor alles endete bevor nichts mehr blieb außer Arbeit Arbeit Arbeit bis zum Ende deiner Tage:
+Juvaini schwieg. Seine Lippen waren trocken, spröde vom Wind.
 
-Und Juvaini saß allein am ausgehenden Feuer hörte diesen Satz:
-Arbeite.
-Es ist das Einzige was sie dir nicht nehmen können:
-Die Arbeit.
-Dieser Satz würde ihn dreißig Jahre tragen durch Persien durch Bagdad durch Kriege Eroberungen Säuberungen Aufstände durch alles hindurch bis ans Ende seiner Tage:
-Dieser Satz würde ihn retten:
-Und dieser Satz würde ihn korrumpieren:
-Weil Arbeit bedeutete, weiterzumachen, als wäre nichts geschehen. Als wäre Fatima nie gewesen. Als hätte es diese Liebe nie gegeben. Als könnte man einfach weiterschreiben, weitermachen, weiterleben. Während andere starben, während andere vergingen. Während andere zu Asche wurden, zu Wasser wurden, zu Nichts wurden:
+„Ein Bote von der Nordroute hat uns vorhin eingeholt“, sagte Arghun Aqa leise, fast beiläufig, während er ein trockenes Zweiglein ins Feuer warf. „Die Sache in Karakorum ist vorbei. Es hat nicht lange gedauert. Güyük duldet keine Schatten neben seinem Thron.“
 
-Aber genau darum ging es doch genau darum ging es immer:
-Überleben bedeutete vergessen:
-Überleben bedeutete weitermachen:
-Überleben bedeutete jeden Morgen aufwachen jeden Tag arbeiten jeden Abend einschlafen ohne sich zu fragen ob man dazu berechtigt war ob man es verdient hatte ob man leben durfte während andere starben:
-Überleben bedeutete schuldig sein:
-Und schuldig bleiben:
-Und diese Schuld tragen bis ans Ende deiner Tage als einzige Wahrheit deines Lebens:
+„Sie war kein Schatten“, flüsterte Juvaini. Es war das einzige Zugeständnis, das seine Kehle hergab, ein Ton, der klang, als kratze Eisen auf Stein.
 
-Juvaini öffnete das Notizbuch noch einmal blätterte zurück zu jener Seite wo Fatimas Brief an ihre tote Schwester lag jener Brief den er gelesen hatte damals in Karakorum vor zwei Jahren bevor alles begann bevor alles endete bevor nichts mehr blieb außer diesem einen Blatt Papier zwischen seinen Fingern unter seinen Augen vor seinem Herzen:
+Arghun Aqa drehte den Kopf. In seinen Augen lag kein Hohn, aber auch kein Mitleid – nur das kalte, klare Verständnis eines Mannes, der die Welt sah, wie sie war, ohne Schleier.
 
-Er las:
-_Ich habe Angst dass ich vergesse wer ich war bevor ich hierherkam._
+„Für die Welt war sie es. Für das Gesetz war sie es. Und du lebst noch, weil du hier bist und nicht dort. Glaubst du, deine Verse hätten ihren Filz zerschnitten? Glaubst du, ein Ghasel von Nischapur hält die Henker auf?“
 
-_Dass ich eines Morgens aufwache und nicht mehr weiß wie meine Schwester aussah wie ihre Stimme klang wie ihr Lachen roch._
+Der ältere Mann trat näher, setzte sich schwerfällig auf einen Sattel und stützte die Ellbogen auf die Knie.
 
-_Dass ich nur noch Funktionalität bin nur noch Nutzen nur noch Werkzeug:_
+„Hör mir zu, Ata-Malik. Du hast den Schmerz eines Dichters, aber du hast den Kopf eines Ministers. Ein Dichter stirbt an der ersten Biegung dieser Straße, weil er meint, der Himmel müsse weinen, wenn ein Mensch fällt. Der Himmel weint nicht. Er ist blau und leer, und darunter reiten wir.“
 
-_Eine Feder in fremder Hand:_
+Arghun Aqa griff in seinen Gürtel, zog ein Amtsregister hervor, dessen Ecken mit Kupfer beschlagen waren, und warf es Juvaini auf die Knie. Es landete schwer, ein dumpfer Schlag auf dem Stoff seines Mantels.
 
-_Und wenn ich schreibe dann schreibe ich gegen dieses Vergessen:_
+„Arbeite“, sagte der Statthalter. Seine Stimme war nicht hart, sie war unerbittlich wie das Gesetz der Jahreszeiten. „Es ist das Einzige, was sie nicht töten können: die Arbeit. Sie können eine Khatun ertränken, sie können eine Stadt dem Erdboden gleichmachen, sie können die Zunge eines Mannes herausschneiden. Aber am nächsten Morgen brauchen sie jemanden, der aufschreibt, wie viele Säcke Weizen aus den Ruinen geholt wurden. Sie brauchen jemanden, der die Toten zählt. Wer die Zahlen hat, hat die Zeit. Und wer die Zeit hat, überlebt sie alle.“
 
-_Gegen meine eigene Auslöschung:_
+Juvaini sah auf das Register hinab. Das Leder war abgegriffen, speckig vom Schweiß vieler Hände, voll von Kolonnen, Namen, Getreidemaßen und Silberstücken.
 
-_Weil Worte bleiben wenn Menschen gehen:_
+„Sie wollten keine Dichtung von ihr“, fuhr Arghun Aqa fort. „Sie wollten ihr Schweigen. Und von dir wollen sie deinen Fleiß. Gib ihn ihnen. Füttere die Bestie mit Pergament, bis sie vergisst, wer du bist. Schreibe ihre Befehle, siegle ihre Urteile, verwalte ihre Provinzen. Sei das Schilfrohr, das sich biegt, wenn der Sturm geht. Wenn der Sturm vorbei ist, steht das Rohr noch. Und der Sturm ist nur noch ein Name in deinen Büchern.“
 
-_Weil Sätze überleben wenn Körper vergehen:_
+Juvaini hob die Hand. Seine Finger berührten das schwere Buch auf seinen Knien. Unter seinem Gewand, direkt über dem Herzen, spürte er den kleinen Streifen Leinen, den sie ihm vor ihrer Verhaftung geschickt hatte – die Rußschrift, die ihn aufforderte, Zeuge zu sein, nicht Retter.
 
-_Weil Liebe bestehen bleibt solange jemand da ist der sich erinnert:_
-_Der erzählt:_
-_Der weiterschreibt:_
+Er nickte. Ein einziges, langsames Senken des Kopfes.
 
-_Also schreibe ich:_
+In diesem Nicken starb der Knabe aus Dschuwain, der geglaubt hatte, Worte könnten die Welt erlösen. An seine Stelle trat der Beamte, der kühle Rechner, der Mann, der eines Tages die Chronik des Weltreichs verfassen würde – voll von geschliffenem Lob für die Khane, voll von verbeugenden Euphemismen für ihre Grausamkeit, und darunter, tief vergraben zwischen den Zeilen, das Gift der unbestechlichen Erinnerung.
 
-_Für dich:_
-_Für mich:_
-_Für uns beide:_
-_Für alle die vergessen werden sollen_
-_damit dieses Reich bestehen kann:_
-_Ich schreibe:_
-_Ich zeuge:_
-_Ich bleibe:_
+Es war ein Pakt mit dem Weiterleben. Ein Pakt, der ihn dreißig Jahre lang über Steppen und durch Trümmer tragen würde – und der seine Seele mit jedem Tag ein wenig mehr aushöhlen sollte, bis er selbst nicht mehr wusste, wo die Maske endete und das Fleisch begann.
 
-_Bis nichts mehr bleibt_
-_außer dem was ich geschrieben habe_
-_was niemand lesen wird_
-_was niemand finden wird_
-_was niemand retten wird_
-_wenn ich gehe._
+„Gut“, sagte Arghun Aqa und erhob sich. „Morgen vor Sonnenaufgang brechen wir auf. Die Oase von Chotan wartet. Wir müssen die Steuerlisten vor dem Sommer abschließen.“
 
-_Bis dahin bleibe ich hier._
-_Bis dahin schreibe ich._
-_Bis dahin liebe ich._
+Der Statthalter ging hinüber zu seiner Jurte. Juvaini blieb allein am Feuer sitzen.
 
-_In dieser Reihenfolge._
-_In dieser Ordnung._
-_In dieser Welt._
+Er zog ein neues Schreibrohr aus dem Futteral, spitzte es mit drei präzisen Schnitten seines Messers und öffnete das Amtsbuch. Im flackernden Schein der brennenden Dornen trug er die Einnahmen des Tages ein. Drei Silberlinge vom sogdischen Händler. Zehn Dinar für Seide und Rhabarber. Alles sauber verbucht, kein Buchstabe verrutscht, kein Seufzer auf dem Blatt.
 
-_Fatima._
+Die Nacht war tief und lautlos. Hoch über der Schlucht funkelten die Sterne mit jener eisigen Gleichgültigkeit, die kein menschliches Klagen je erweicht hatte.
 
-Er las diesen Brief dreimal. Langsam, sorgfältig. Jedes Wort abwägend, jeden Satz prüfend, jede Zeile auswendig lernend. Dann faltete er das Papier zusammen, steckte es zurück ins Notizbuch, legte beide Hände darüber, schloss die Augen, atmete tief durch, sagte leise, unhörbar für jeden außer sich selbst:
+Am nächsten Morgen zog die Karawane weiter nach Westen.
 
-„Ich werde weiterschreiben.
-Für dich.
-Für mich.
-Für uns beide.
-Für alle die vergessen werden sollen
-damit dieses Reich bestehen kann:
-Ich werde weiterschreiben.
-Ich werde zeugen.
-Ich werde bleiben. “
+Die Hufe traten das Eis entzwei, das sich in den Pfützen gebildet hatte; der Atem der Lasttiere stieg in weißen Säulen empor, und die Peitschen der Treiber knallten durch die schneidende Morgenluft. Die endlose Straße nahm sie auf, schluckte sie, wie sie tausende vor ihnen geschluckt hatte.
 
-Dann löschte er die Lampe, legte sich hin, starrte in die Dunkelheit, lauschte dem Wind draußen im Gras. Fern, fern, fern, wie eine Stimme aus einer anderen Welt, aus einer anderen Zeit, aus einem anderen Leben, das jetzt endgültig vorbei war. Unwiderruflich, unwiederbringlich, verloren für immer:
+Juvaini ritt im Zug, stumm, die Kanzleitasche fest an die Seite geschnallt, die Augen auf den Staub vor den Hufen seines Pferdes gerichtet. Er wusste nicht, was zur selben Stunde fern im Norden geschah. Er konnte nicht wissen, dass Großkhan Güyük, der Herrscher über alle Zelte und Völker, der Mann, dessen Wille Fatima in den eisigen Fluss gestoßen hatte, seine eigene Armee nicht mehr führen würde.
 
-Am nächsten Morgen ritt Juvaini weiter nach Westen. Ohne zurückzublicken, ohne stehenzubleiben, ohne etwas anderes zu tun, als seine Arbeit zu verrichten, seinen Dienst zu tun, seine Pflicht zu erfüllen. Genau wie Arghun Aqa es ihm geraten hatte. Genau wie Fatima es gewollt hätte. Genau wie alle Überlebenden dieses Reiches handelten, seit jeher. Seit Dschingis, seit Ögedei, seit immer:
+Er wusste nicht, dass der Khan in diesem schmelzenden Frühjahr bereits im Sterben lag, aufgerieben von Gift, Wein und der Schwindsucht in einem staubigen Zelt bei Samarkand, verlassen von seinen Leibärzten, während seine Truppen noch nach Westen starrten. Die gewaltige Maschine, die sie zermalmt hatte, überlebte ihr Opfer nur um wenige Wochen. Die Macht, für die sie gestorben war, zerbrach in den Händen des Sohnes, noch ehe das Eis auf ihrem namenlosen Grab im Tuul-Fluss geschmolzen war.
 
-Sie arbeiteten weiter:
-Sie lebten weiter:
-Sie vergaßen weiter:
+Aber Juvaini wusste es nicht.
 
-Bis eines Tages auch sie sterben würden. Still, leise, unspektakulär. Mitten in der Arbeit, mitten im Satz, mitten im Leben:
+Er trieb sein Pferd an, schloss die Augen gegen den beißenden Staub der Steppe und ritt weiter in die Kälte hinein, ein Schreiber unter Schreibern, ein Rädchen im Getriebe, das kein Erbarmen kannte und keinen Gesang.
 
-So wie Fatima gestorben war heute oder gestern oder vorgestern:
-In Filz genäht:
-In den Fluss geworfen:
-Ohne Zeugen, ohne Grab, ohne Gebet:
-
-Nur drei Sätze eines Händlers im Wasser einer Furt:
-
-Man sagt.
-In Filz.
-Im Fluss.
-
-Und dann Stille:
-
-Die ganze lange Stille des restlichen Lebens:
-
-Die Karawane zog weiter nach Westen. Richtung Persien, Richtung Bagdad, Richtung Zukunft, Richtung Vergessen. Richtung allem, was kommen würde nach diesem Tod, nach dieser Liebe, nach diesem Ende. Aller Enden, aller Anfänge, aller Geschichten, aller Chroniken. Aller Bücher, aller Worte, aller Menschen, aller Zeiten. Aller Welten, aller Götter, aller Dämonen, aller Engel, aller Bestien. All dessen, was war, all dessen, was ist, all dessen, was sein wird, wenn nichts mehr bleibt außer dem einen letzten Satz. Dem einzigen Satz, dem ewigen Satz. Dem Satz, den niemand je lesen wird. Weil niemand da sein wird, um ihn zu lesen. Niemand da sein wird, um ihn zu verstehen. Niemand da sein wird, um ihn zu bewahren. Wenn alles vorbei ist. Wenn nichts mehr bleibt außer Wind, außer Gras, außer Stille. Außer endloser, endloser, endloser Stille unter einem grauen Himmel über einer weiten Ebene. Fern, fern, fern von allem, was jemals wichtig war. Von allem, was jemals zählte. Von allem, was jemals Liebe hieß. Zwischen zwei Menschen, zwei Herzen, zwei Seelen. Zwei Schreibern, zwei Federn, zwei Worten, zwei Welten, zwei Leben. Jetzt tot, jetzt fort, jetzt verschwunden. Unwiederbringlich, unwiderruflich, verloren. Verloren, verloren, für immer. Amen, amen, amen. So sei es, so soll es sein, so muss es sein. So bleibt es ewiglich. Amen, amen, amen, amen.
-
-Amen
-
-Die Karawane zog weiter nach Westen
-
-Und Juvaini ritt
-
-Und schwieg
-
-Und arbeitete
-
-Drei Jahrzehnte lang
-
-Bis ans Ende seiner Tage
-
-Als Chronist des Reiches
-
-Als Überlebender seiner Liebe
-
-Als toter Mann unter Lebenden
-
-Der jeden Morgen aufstand
-
-Jeden Tag weiterschrieb
-
-Jeden Abend einschlief
-
-Ohne je wieder ein Gedicht geschrieben zu haben
-
----

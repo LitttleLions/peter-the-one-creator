@@ -1,242 +1,186 @@
 ## Die Säuberung
 
-Die Sonne war über Karakorum aufgegangen, aber die Kälte blieb.
+Der Geruch von gefrorener Schafsgalle und saurem Ruß lag über den niedrigen Schreibpulten der Kanzlei wie ein Leichentuch. Es war ein Geruch, den Juvaini bis in die Träume verfolgte, seit der Frost das Orchon-Tal im Griff hielt und Güyük Khagan den Befehl erteilt hatte, die Register des Reiches umzupflügen. Draußen pfiff der Winterwind durch die Ritzen der hölzernen Palisaden, aber hier drinnen war es das stetige, rhythmische Schaben von Klingen auf Pergament, das die Stille zerschnitt – das Geräusch von Namen, die getilgt wurden.
 
-Juvaini saß in der Kanzlei, die Hände über der Schreibfläche gefaltet, und beobachtete, wie der neue Tag seine Arbeit auf den Tisch legte. Ein Stapel Dokumente, noch nicht sortiert. Ein Tintenfass, halb gefüllt. Eine Feder, die er heute Morgen zugespitzt hatte, mit einer Sorgfalt, die er sich selbst nicht erklären konnte.
+Juvaini saß mit gekreuzten Beinen auf dem dünnen Wollteppich, die Knie steif vor Kälte. Er war einundzwanzig Jahre alt, und seine Finger waren von Gallustinte blau gefleckt, als trüge er die Flecken einer schleichenden Krankheit auf der Haut. Vor ihm lag kein Gedichtband, kein Vers von Firdausi über den Glanz alter Könige, sondern ein Bündel Akten aus dickem chinesischem Papier, gebunden mit roter Seidenschnur: Steuerverzeichnisse, Proviantlisten, Verhörprotokolle. 
 
-Er war zurück. Arghun Aqa hatte ihn in die Zentralkanzlei beordert, drei Tage nach dem Tod der Regentin, einen Tag nach dem Begräbnis, das niemand wirklich betrauert hatte, weil alle bereits zu beschäftigt waren mit der neuen Ordnung.
+Jede Seite trug am unteren Rand das Siegel des Gerichtshofs.
 
-Die neue Ordnung.
+Er tauchte das Schilfrohr in das tönerne Tintenfass und strich die Spitze an der Kante ab. Neben ihm saß Arghun Aqa. Sein Patron sprach nicht oft an diesen langen Vormittagen. Der mongolische Statthalter saß aufrecht da, gehüllt in einen schweren Wolfspelz, dessen Grannen im Zugluftzug zitterten, und blätterte mit ruhigen, dicken Daumen durch die Ausgabenabrechnungen der vergangenen fünf Jahre. Arghun Aqa roch nach trockenem Leder, nach Hammelfett und der unerschütterlichen Gelassenheit eines Mannes, der begriffen hatte, dass das Weltreich nicht mit Klingen regiert wurde, sondern mit Ziffern.
 
-Güyük Khan regierte jetzt. Güyük Khan, der die Dekrete seiner Mutter annulliert hatte, der die Kanzleien prüfen ließ, der eine Liste der Namen verlangte, die während der Regentschaft aufgestiegen waren.
+„Lies es noch einmal“, sagte Arghun Aqa, ohne den Blick von den Blättern zu heben.
 
-Juvaini hatte die Liste gesehen. Sie lag auf dem Tisch des Kanzleivorstehers, und sein eigener Name stand darauf, klein und unscheinbar, aber vorhanden.
+Juvaini räusperte sich. Die Luft brannte in seiner Kehle. Er nahm das oberste Protokoll zur Hand, die Tinte war erst vor wenigen Stunden getrocknet.
 
-Er nahm die Feder, tauchte sie ein und begann zu schreiben. Einen Bericht über die Steuereinnahmen der westlichen Provinzen, den Arghun Aqa gestern diktiert hatte. Die Zahlen waren präzise, die Formulierungen korrekt, die Handschrift sauber. Er schrieb, als wäre nichts geschehen. Als wäre die Regentin nicht tot. Als wäre Fatima nicht verschwunden.
+„Abd ar-Rahman, Sohn des Mahmud“, las Juvaini mit fester, fast melodischer Stimme vor, wie er es in den Schreibstuben von Chorasan gelernt hatte, wo jedes Wort nach Maß und Wohllaut gewogen worden war. „Angeklagt der Veruntreuung kaiserlicher Zölle, der Unterschlagung von zweitausend Ballen Seide aus den Provinzen des Südens und der unrechtmäßigen Aneignung von Getreidespeichern im Namen der verstorbenen Khatun.“
 
-Er wusste nicht, wo sie war. Er hatte sie seit der Rückkehr nicht gesehen, nicht einmal im Vorbeigehen, nicht einmal im Schatten eines Zeltes, das sie hätte bewohnen können. Die Gerüchte sagten, sie sei in Töregenes Winterquartier geblieben, am Rand des Hofes, unsichtbar und unerwähnt. Die Gerüchte sagten, Güyük habe sie vergessen. Die Gerüchte sagten, Güyük habe sie nie vergessen.
+„Die Beweise?“, fragte Arghun Aqa beiläufig.
 
-Juvaini schrieb weiter.
+„Drei Rechnungsbücher aus Chotan. Ein Bündel Quittungen mit gefälschtem Siegel. Die Zeugenaussage zweier uigurischer Schreiber, die beschworen haben, dass er das Gold in versiegelten Fässern an seine Brüder geschafft hat.“
 
-Der Morgen verging in der Stille der Kanzlei, die nur vom Kratzen der Federn und dem Rascheln von Papier unterbrochen wurde. Die anderen Schreiber arbeiteten schweigend, die Köpfe gesenkt, die Blicke auf die Dokumente gerichtet. Sie wussten, dass dies eine Zeit der Vorsicht war. Sie wussten, dass jeder Fehler, jedes unbedachte Wort, jede falsche Adresse tödlich sein konnte.
+„Und das Urteil?“
 
-Der neue Khan liebte das Gesetz. Er liebte die Ordnung. Er liebte die Präzision der Bürokratie, die seine Feinde namentlich erfasste, ihre Vergehen protokollierte, ihre Strafen datierte und begründete.
+„Die Schlinge.“ Juvaini hielt inne. Seine Hand, die das Blatt hielt, zuckte unwillkürlich. „Das Urteil ist bereits vollstreckt. Heute in der ersten Morgenwache. Am Viehgraben hinter den Schmieden.“
 
-Er liebte die Akte.
+Arghun Aqa nickte nur leicht, als habe Juvaini den Preis für ein Maß Gerste verlesen. Er griff nach seinem kleinen Elfenbeinsiegel, drückte es auf das rote Wachs am Rand der Akte und legte das Blatt auf den Stapel zur Rechten. Der Stapel der Toten.
 
-Juvaini hatte die ersten Akten des neuen Regimes gesehen. Sie lagen im Archiv, in einem eigenen Schrank, der mit einem neuen Schloss gesichert war. Der Kanzleivorsteher, ein Mann namens Toghril, den Güyük persönlich eingesetzt hatte, verwaltete sie mit einer Sorgfalt, die Juvaini an die Art erinnerte, wie sein Vater die Familienpapiere sortiert hatte, nach dem Fall von Nischapur, als er die Namen der Toten ordnete, weil er nicht wusste, was sonst.
+Abd ar-Rahman war tot. Juvaini hatte den Mann noch vor wenigen Wochen auf dem Kuriltai gesehen – aufgedunsen von Stolz, gehüllt in goldgewirkten Brokat, die Taschen voll von kaiserlichen Steuerpachten, wie ein fettes Insekt, das sich am Bauch des Hofes mästete. Er hatte sich für unantastbar gehalten, weil Töregene ihm die Hand auf die Schulter gelegt hatte. Doch Töregene lag nun kalt und starr unter der gefrorenen Erde, und Abd ar-Rahman hatte nichts besessen außer ihrer Gunst. Kein Volk im Rücken. Keine Tausendschaft, die seinen Namen rief. Keine Ahnen, deren Gräber man fürchtete.
 
-Die Akten des neuen Regimes waren kurz. Sie enthielten Namen, Daten, Vergehen. Sie enthielten keine Zeugenaussagen, keine Verteidigungen, keine mildernden Umstände. Sie waren Urteile, die noch nicht gesprochen waren, aber bereits feststanden.
+Er war aus dem Nichts gekommen, ein geschickter Händler mit einem schnellen Mundwerk und einer Gier nach Gold. Und das Nichts hatte ihn wieder verschlungen.
 
-Juvaini schrieb weiter.
+Aufsteiger ohne Erbmasse überlebten den Herbst der Herrscher nicht. 
 
-Am späten Vormittag wurde die Tür der Kanzlei geöffnet, und zwei Soldaten traten ein. Sie waren nicht von der Palastwache, die die Gänge bewachte, sondern von der inneren Garde, den Männern, die Güyük persönlich unterstanden. Sie trugen keine Waffen, aber sie trugen ein Dokument.
+Der Gedanke traf Juvaini wie ein Schlag zwischen die Rippen. Er sah auf seine eigenen Hände hinab, auf das feine Schilfrohr, auf die Zierlichkeit seiner persischen Schrift. Was war er selbst? Ein Gelehrtensohn aus den Trümmern von Nischapur, ein Schreiber, der am Rande einer fremden Macht saß und hoffte, dass seine Kunst ihn unsichtbar machte. 
 
-Der Kanzleivorsteher Toghril erhob sich, nahm das Dokument entgegen, las es und nickte. Dann wandte er sich an die Schreiber.
+Und Fatima.
 
-„Abd ar-Rahman, Sohn des Yusuf, ist zu verhaften. Der Befehl kommt vom Khan persönlich. Die Anklage lautet auf Veruntreuung von Steuergeldern, Bestechung und Amtsmissbrauch während der Regentschaft."
+Ein kalter Schauer rann ihm über den Nacken. Wo war sie in diesem Augenblick? Er wusste, dass sie gefangen gehalten wurde, irgendwo in den finsteren Jurten am Rande des Lagers, bewacht von Güyüks kahlgeschorenen Kriegern. Güyük verzieh nichts. Güyük duldete keine Schatten neben seinem Thron. Wenn Abd ar-Rahmans Vergehen die Gier gewesen war – was war dann Fatimas Verbrechen? Sie trug nicht Gold in ihren Kleidern, sondern die Geheimnisse des ganzen Hauses Ögedei.
 
-Die Schreiber hoben die Köpfe. Einige wechselten Blicke. Abd ar-Rahman, der Finanzverwalter der westlichen Provinzen, der Mann, der aus dem Nichts gekommen war und den Aufstieg der Regentin mitgemacht hatte – er war gefallen. Die Nachricht verbreitete sich durch die Kanzlei wie ein Windstoß, der die Blätter auf den Tischen flattern ließ.
+„Du zögerst, Ata-Malik“, bemerkte Arghun Aqa ruhig.
 
-Juvaini schrieb weiter.
+„Verzeiht, Herr“, sagte Juvaini rasch und griff nach dem nächsten Pergament. „Die Kälte macht die Tinte zäh.“
 
-Toghril setzte sich wieder, nahm eine neue Akte aus dem Schrank und begann zu schreiben. Die Anklageschrift. Die Verhaftungsgründe. Die Verfahrensordnung. Die Höchststrafe.
+„Nicht die Kälte. Deine Gedanken.“ Arghun Aqa sah ihn mit seinen schmalen, dunklen Augen an, in denen weder Zorn noch Mitleid lagen, sondern jene endlose Geduld der Steppe, die wusste, dass jeder Fluss irgendwann ins Eis mündete. „Ein Schreiber, der Mitleid mit den Zahlen hat, verliert die Hand. Lerne von den Akten, Junge. Der neue Khan stürzt den Hof nicht im Zorn um. Er tut es mit dem Gesetz. Ein Paragraph schneidet tiefer als eine Krummsäbelklinge, und er hinterlässt keine Blutflecken auf dem Teppich.“
 
-Juvaini sah die Handschrift des Vorstehers, die klaren, geraden Linien, die Buchstaben, die wie Soldaten in Reih und Glied standen. Es war die Handschrift eines Mannes, der wusste, was er tat, und der keine Zweifel hatte.
+Bevor Juvaini antworten konnte, hob sich der schwere Filzvorhang am Eingang der Jurte. Frierender Dunst drang herein, weiß und dicht, gefolgt von zwei Offizieren der kaiserlichen Garde. Ihre Rüstungen aus gekochtem Leder knarrten vor Frost. Zwischen ihnen trat ein Schreiber ein, der eine flache Holzkiste trug.
 
-Er wandte sich ab und schrieb weiter.
+„Bericht aus dem Lager des Fürsten Köden“, sagte der vordere Offizier knapp. Er verneigte sich nicht vor Arghun Aqa, sondern schlug nur die Faust gegen die linke Brust. „Die Anordnung des Khagans bezüglich des alten Kanzlers ist ausgeführt.“
 
-Am Nachmittag wurde Abd ar-Rahman hereingeführt.
+Juvaini spürte, wie sich sein Magen zusammenkrampfte.
 
-Juvaini sah ihn durch das Fenster der Kanzlei, als die Soldaten ihn über den Hof führten. Er war nicht mehr der aufstrebende Kaufmann, der vor zwei Jahren in der Kanzlei gestanden hatte, die Hände auf dem Rücken, das Kinn erhoben, die Stimme laut und selbstbewusst. Er war ein alter Mann, der zwischen den Soldaten ging, den Kopf gesenkt, die Schultern eingefallen, die Kleidung zerknittert und schmutzig.
+Chinqai.
 
-Er sah aus wie ein Mann, der wusste, dass er sterben würde.
+Der alte nestorianische Kanzler, der Mann, der unter Dschingis Khan die ersten Gesetze in uigurischer Schrift niedergeschrieben hatte, der unter Ögedei das Rückgrat der Verwaltung gewesen war – Chinqai, der vor Töregenes Zorn zu Köden geflohen war. Jahrelang hatte Köden ihn beschützt, hatte dem Willen seiner eigenen Mutter getrotzt, um den treuen Diener seines Vaters nicht auszuliefern.
 
-Die Soldaten führten ihn in das Verhörzelt, das neben der Kanzlei aufgebaut worden war, ein schmales, graues Zelt, das Juvaini noch nie betreten hatte, von dem er aber wusste, dass es dort einen Tisch gab, einen Stuhl, eine Lampe und eine Truhe mit Werkzeugen, die er nicht sehen wollte.
+Doch Köden war tot. Sein Fleisch war verwest, sein letzter Fluch über Fatima war verhallt, und seine Erben hatten nicht den Mut besessen, die Zähne gegen Güyük zu fletschen. Sie hatten den Greis ausgeliefert, feige, pünktlich, säuberlich verpackt wie ein fälliger Tribut.
 
-Die Tür des Zeltes schloss sich.
+Der Bote öffnete die Holzkiste. Darin lag nicht der Kopf des Kanzlers – Güyük liebte die Ordnung zu sehr für rohe Schaukelspiele –, sondern sein Amtssiegel aus rotem Jaspis, gebrochen in zwei Hälften, und ein Bogen Seidenpapier, auf dem der Vollzug der Hinrichtung besiegelt war.
 
-Juvaini schrieb weiter.
+Drei Regierungen lang hatte Chinqai die Fäden dieses Reiches gewoben. Er hatte Könige aufsteigen und Reiche brennen sehen, hatte jedes Bündnis und jeden Verrat mit ruhiger Hand protokolliert. Und nun war er ausgelöscht worden, nicht auf einem Schlachtfeld, sondern durch einen Federstrich im Zelt eines Fürsten, der seine eigene Haut retten wollte.
 
-Die Verhandlung dauerte drei Tage.
+Der Faden hatte sich geschlossen.
 
-Juvaini hörte die Gerüchte, die durch die Kanzlei flogen, die Bruchstücke von Gesprächen, die er nicht hören sollte, die Namen, die geflüstert wurden, wenn Toghril den Raum verließ. Abd ar-Rahman hatte gestanden. Abd ar-Rahman hatte nicht gestanden. Abd ar-Rahman hatte die Namen seiner Komplizen genannt. Abd ar-Rahman hatte geschwiegen, bis die Werkzeuge ihn zum Sprechen brachten.
+„Trag es ein“, befahl Arghun Aqa leise und schob das zerbrochene Siegel zu Juvaini hinüber. „Vermerke: Das Siegel des Großkanzlers Chinqai wurde am vierzehnten Tag des ersten Wintermonats für ungültig erklärt. Das Amt ist erloschen.“
 
-Juvaini wusste nicht, was wahr war. Er wusste nur, dass die Akte wuchs, Seite um Seite, und dass der Name Abd ar-Rahman darin stand, und dass daneben, in der Spalte für das Urteil, ein Wort stand, das er nicht lesen wollte.
+Juvaini nahm die Feder. Seine Hand gehorchte ihm, aber sie fühlte sich fremd an, wie aus Holz geschnitzt. Er schrieb. Er zog die eleganten, geschwungenen Linien des Nastaʿlīq über das Papier, setzte die Punkte mit meisterhafter Präzision, schmückte das Urteil mit den vorgeschriebenen Ehrenfloskeln für den Khagan. Jeder Strich war vollendet. Und jeder Strich war Gift.
 
-Tod.
+Er diente der Maschine. Er war das Rädchen, das das Blut in Tusche verwandelte.
 
-Am dritten Tag, am späten Nachmittag, wurde das Urteil verkündet. Juvaini stand am Fenster der Kanzlei, als die Soldaten Abd ar-Rahman aus dem Verhörzelt führten, ihn auf einen Karren hoben und durch das Tor des Hofes fuhren. Der Karren war schlicht, ohne jede Verzierung, und die Räder knarrten auf dem gefrorenen Boden.
+„Und nun zu der Sache aus dem Westen“, sagte Arghun Aqa und wischte die Reste des Siegellacks vom Pult. „Der Mönch wartet.“
 
-Juvaini sah zu, wie der Karren verschwand, und dann wandte er sich ab, ging zurück zu seinem Tisch und setzte sich.
+Juvaini hob den Kopf. „Carpini?“
 
-Die Akte von Abd ar-Rahman lag auf dem Tisch des Vorstehers. Sie war geschlossen. Sie würde ins Archiv wandern, in den Schrank mit den neuen Akten, und dort bleiben, bis jemand sie brauchte, um ein anderes Urteil zu begründen, um einen anderen Namen zu verurteilen, um eine andere Geschichte zu schreiben.
+„Er reist morgen ab. Seine Pferde sind beschlagen, seine Satteltaschen gepackt. Der Khagan hat die Antwort diktiert. Du wirst sie ins Persische übertragen. Das ist die Sprache, die ihre Dolmetscher im Westen verstehen.“
 
-Juvaini nahm die Feder, tauchte sie ein und schrieb weiter.
+Arghun Aqa reichte ihm ein langes, schmales Blatt Papier. Es war der Entwurf der mongolischen Kanzlei, diktiert von Güyüks engsten Ratgebern, roh, schmucklos und von einer Kälte, die selbst den Winter Karakorums erblassen ließ.
 
-Er schrieb den Bericht über die Steuereinnahmen der westlichen Provinzen, den Arghun Aqa diktiert hatte. Er schrieb die Zahlen, die präzise waren, die Formulierungen, die korrekt waren, die Handschrift, die sauber war. Er schrieb, als wäre nichts geschehen. Als wäre Abd ar-Rahman nicht gestorben. Als wäre der Karren, der ihn aus der Stadt fuhr, nicht real gewesen.
+Juvaini las die Zeilen. Mit jedem Satz, den er überflog, weiteten sich seine Augen.
 
-Aber er wusste, dass es real war. Er wusste, dass die Akte auf dem Tisch des Vorstehers den Namen eines Mannes enthielt, der noch am Morgen gelebt hatte, und der jetzt nicht mehr lebte. Er wusste, dass dieselbe Maschinerie, an der er saß, die dieselbe Tinte verwendete, dieselben Federn, dasselbe Papier – er wusste, dass diese Maschinerie ihn morgen, übermorgen, in einem Jahr oder in zehn Jahren verschlingen konnte.
+Innozenz IV., der Bischof von Rom, der Herr über die Priester des fernen Westens, hatte Briefe geschickt – fromme, tadelnde Briefe, in denen er die Mongolen aufforderte, das Morden zu beenden, Buße zu tun und sich vor dem christlichen Gott zu beugen. Carpini hatte geglaubt, er sei als Gesandter eines überlegenen Himmelsreichs an den Hof gereist. Er hatte die Rituale beobachtet, hatte sich gewundert, hatte jedes Missverständnis mit frommer Naivität in sein Notizbuch gekritzelt, fest davon überzeugt, dass diese Steppenreiter bald das Knie vor dem Kreuz beugen würden.
 
-Er wusste, dass sein Name auf der Liste stand.
+Und nun hielt Juvaini die Antwort in den Händen.
 
-Er schrieb weiter.
+Es war nicht der Zorn eines Barbaren, der aus diesen Zeilen sprach. Es war etwas Schlimmeres: die absolute, ruhige Gewissheit eines Raubtiers, das die Welt bereits vermessen hatte.
 
-Eine Woche später kam die Nachricht von Chinqai.
+„Bring es in die Form unseres Hofes, Ata-Malik“, sagte Arghun Aqa. „Lass es klingen wie Wasser, das über Steine fließt. Aber verändere kein einziges Wort des Sinns.“
 
-Juvaini erfuhr es von Arghun Aqa, der ihn in der Kanzlei aufsuchte, am späten Abend, als die anderen Schreiber bereits gegangen waren. Arghun Aqa setzte sich auf den Stuhl gegenüber, nahm die Lampe vom Tisch, stellte sie zwischen sich und Juvaini und sprach leise, mit einer Stimme, die müde klang und alt.
+Juvaini setzte sich aufrecht hin. Er strich ein neues, kostbares Blatt Papier glatt – festes Steppenpapier, hergestellt aus Maulbeerbast, glatt poliert mit einer Achatkugel. Er rührte frische Tinte an, tiefschwarz, glänzend, duftend nach einem Hauch von Rosenwasser, den er vor Monaten aus Chorasan mitgebracht hatte.
 
-„Chinqai ist tot."
+Und dann begann er zu übersetzen.
 
-Juvaini legte die Feder nieder. Er sah Arghun Aqa an, der das Licht der Lampe auffing, das Gesicht halb im Schatten, die Augen rot gerändert.
+Er kleidete den nackten Schrecken in die erhabenste Höflichkeit, zu der die persische Sprache fähig war. Jeder Satz begann mit einer Verbeugung und endete mit einem Todesurteil.
 
-„Ködens Erben haben ihn ausgeliefert. Sie haben ihn in der Nacht nach Güyüks Thronbesteigung in Ketten gelegt und nach Karakorum geschickt. Der Khan hat ihn nicht einmal verhört. Er hat das Urteil aus der Akte seiner Mutter übernommen, die Anklage, die sie vor fünf Jahren gegen ihn erhoben hat, die Chinqai entkommen war, weil Köden ihn schützte, und weil Köden tot ist, und weil seine Söhne keine Angst vor einem toten Prinzen haben, sondern nur vor einem lebenden Khan."
+*„Durch die Kraft des ewigen Himmels sind wir der allumfassende Herrscher des großen Reiches. Dies ist ein Befehl…“*
 
-Juvaini schwieg. Er sah das Licht der Lampe, das auf Arghun Aqas Gesicht tanzte, und er dachte an den alten Kanzler, den Mann, der durch drei Regierungen gefallen war, den Mann, den Töregene gehasst hatte, den Köden geschützt hatte, den Güyük jetzt hingerichtet hatte.
+Juvainis Schilfrohr glitt über das Papier. Er wählte Worte von majestätischer Schwere. Er sprach den Papst mit den gebührenden Titeln an, nannte ihn den großen Papst der Christenheit, während er gleichzeitig jeden seiner Glaubenssätze mit eisiger Logik zerlegte.
 
-Drei Regierungen. Ein Opfer.
+*„Ihr habt gesagt: ‚Ich bin ein Christ, ich bete zu Gott, ich verachte die anderen.‘ Woher wisst ihr, wen Gott begnadigt und wem er seine Barmherzigkeit schenkt? Durch die Kraft Gottes ist vom Sonnenaufgang bis zum Sonnenuntergang die ganze Erde uns unterworfen worden. Wer könnte solches tun gegen den Willen Gottes?“*
 
-„Sie haben ihn hingerichtet", sagte Arghun Aqa, „heute Morgen, vor den Toren der Stadt, auf demselben Platz, an dem sie Temüge Otchigin hingerichtet haben, und auf dem sie Abd ar-Rahman hingerichtet haben, und auf dem sie alle hinrichten werden, die auf der Liste stehen."
+Er spürte ein seltsames, brennendes Fieber in seinen Schläfen. Seine eigene Kultur – das feingeistige, uralte Persien, das die Welt mit Poesie, Gärten und Gelehrsamkeit beschenkt hatte – lieh hier ihre Stimme einer Macht, die nichts von Gärten verstand, sondern nur von Gehorsam.
 
-Juvaini nickte. Er wusste, dass die Liste länger war, als er dachte. Er wusste, dass die Namen darauf standen, die während der Regentschaft aufgestiegen waren, die von Töregene gefördert worden waren, die ihre Macht ihrer Gönnerin verdankten. Er wusste, dass sein Name darauf stand, und dass es nur eine Frage der Zeit war, bis die Soldaten kamen, um ihn zu holen.
+*„Wenn ihr den Befehl Gottes vernehmt und unseren Willen erfüllen wollt, so sollt ihr, an der Spitze aller Könige, unverzüglich kommen, um uns eure Huldigung darzubringen. Dann werden wir eure Unterwerfung anerkennen.“*
 
-Aber er wusste auch, dass Arghun Aqa ihn beschützen würde, wenn er nützlich war. Dass er überleben würde, wenn er unverzichtbar war. Dass er nicht sterben würde, solange er schrieb.
+Und dann kam der Schlusssatz. Juvaini hielt den Atem an. Er wog die Worte im Mund, wie man eine Münze prüft, ehe man sie ausgibt. Sie waren von einer Arroganz, die so vollkommen war, dass sie fast wie Demut klang:
 
-Er nahm die Feder, tauchte sie ein und schrieb weiter.
+*„Wenn ihr aber dem Befehl Gottes nicht gehorcht und unserem Befehl zuwiderhandelt, so werden wir euch als Feinde betrachten. Was dann geschehen wird, wissen wir nicht; der ewige Himmel weiß es.“*
 
-Arghun Aqa sah ihm zu, schweigend, und dann stand er auf, nahm die Lampe und ging hinaus in die Nacht, die kalt war und still und voller Namen, die noch nicht geschrieben waren.
+Juvaini setzte den letzten Punkt. Er saß da und starrte auf die schwarzen Schriftzeichen, die wie eine Reihe wohlgeformter Krieger auf dem hellen Grund standen.
 
-Juvaini schrieb.
+Es war der hochmütigste Brief, den je eine Hand geschrieben hatte. Er forderte nichts Geringeres als die Kapitulation der halben Welt, gekleidet in die samtweiche Rüstung persischer Kanzleikunst.
 
-Der Papstbrief kam zwei Wochen später.
+Arghun Aqa beugte sich vor, las die Zeilen langsam und nickte zufrieden. „Gut. Bringe es zur Siegelung.“
 
-Juvaini wurde in die Privatkanzlei des Khans gerufen, ein kleines, schmales Zelt, das an das Hauptzelt angrenzte, in dem Güyük seine Audienzen hielt. Die Wände waren mit Filz bedeckt, und der Boden war mit Teppichen ausgelegt, die aus dem Westen gekommen waren, aus Persien, aus den Werkstätten von Isfahan, wo die Muster so fein waren, dass sie aussahen, als wären sie gemalt.
+In der großen Jurte des Khagans herrschte gedämpftes Licht. Der Rauch von getrocknetem Mist und Fichtenholz biss in den Augen. Güyük Khagan saß nicht auf Kissen, sondern auf einer harten, mit Filz bespannten Bank. Sein Gesicht war pockennarbig, verschlossen, die Lippen zu einem schmalen Strich zusammengepresst, der keine Heiterkeit kannte. Er musterte Juvaini nicht einmal, als der junge Schreiber niederkniete und das Dokument auf einer seidenen Unterlage darbot.
 
-Güyük saß hinter einem Tisch, der mit Papieren bedeckt war. Er sah Juvaini an, als er eintrat, und sein Blick war kalt und forschend, wie immer, aber es lag etwas Neues darin, etwas, das Juvaini nicht benennen konnte, etwas, das wie Zufriedenheit aussah.
+Ein uigurischer Kanzler trat vor, prüfte den Text, las die mongolische Parallelfassung und nickte dem Großkhan zu.
 
-„Du bist der persische Schreiber", sagte Güyük, ohne zu fragen. „Du schreibst in der Kanzlei. Du warst im Westen, mit Arghun Aqa."
+Güyük hob die Hand. Ein Diener reichte ihm das kaiserliche Siegel – schwer, aus massiver Bronze, getränkt mit zinnoberroter Tusche. Der Khan drückte es mit einer einzigen, kurzen Bewegung auf das Dokument, genau unter Juvainis persischen Text.
 
-Juvaini verbeugte sich. „Ja, Herr."
+Die roten Schriftzeichen der mongolischen Siegelschrift brannten sich in das Papier: *„Durch die Macht des ewigen Himmels… der Befehl des Khagan…“*
 
-Güyük nickte. Er nahm ein Blatt Papier vom Tisch, hielt es hoch, und Juvaini erkannte die Schrift, die lateinischen Buchstaben, die fremdartig aussahen in diesem Raum, der nach Leder und Filz roch, nach Pferden und Schweiß.
+Am Nachmittag wurde der Gesandte gerufen.
 
-„Der Papst von Rom hat einen Brief geschickt", sagte Güyük. „Er fordert uns auf, das Christentum anzunehmen und unsere Eroberungen zu stoppen. Er droht mit dem Zorn Gottes, wenn wir uns nicht unterwerfen."
+Johannes de Plano Carpini kniete vor dem Kanzleizelt im Schnee. Der Franziskanermönch war ein dicker, kleiner Mann, dessen Kutte von den Monaten auf den Postpferden schmutzig und zerschlissen war. Seine Wangen waren rot von der Kälte, seine Augen feucht und gerötet vom ewigen Rauch der Jurten. Er zitterte, obwohl er einen groben Schafspelz über die Schultern geworfen hatte.
 
-Juvaini sah das Blatt. Er konnte die lateinischen Wörter nicht lesen, aber er sah die Handschrift, die sorgfältig und regelmäßig war, die Handschrift eines Gelehrten, der wusste, dass seine Worte die Welt verändern würden.
+Juvaini stand neben Arghun Aqa und beobachtete den Fremden.
 
-„Du wirst die Antwort schreiben", sagte Güyük. „Auf Persisch. Die Kanzlei wird sie ins Mongolische übersetzen, und dann wird sie in die lateinische Schrift übertragen, damit der Papst sie versteht. Du wirst den Ton vorgeben, den Stil, die Formulierungen. Du wirst die Worte finden, die dieser Mann verstehen kann."
+Carpini verstand kein Wort Mongolisch. Er verstand kein Persisch. Er blickte zu den Kriegern auf, die ihn mit kalten, unbewegten Gesichtern umringten, und in seinen Augen lag jene eigentümliche Mischung aus Furcht, frommer Verblendung und heiligem Eifer, die Juvaini schon in Sira Ordu bemerkt hatte. Der Mönch glaubte, er habe das Herz des Heidentums gesehen. Er glaubte, er habe verhandelt. Er glaubte, er bringe die Kunde von wilden, unberechenbaren Völkern zurück in seine Heimat.
 
-Juvaini verbeugte sich. „Ja, Herr."
+Ein Dolmetscher reichte ihm den Brief, eingewickelt in gewachstes Leinen und versiegelt mit roter Schnur.
 
-Güyük gab ihm das Blatt. „Lies es. Und dann schreib die Antwort. Du hast drei Tage."
+„Dies ist das Wort des Herrn der Erde an deinen Herrn“, sagte der Dolmetscher auf Latein, hart und gebrochen. „Verliere es nicht. Öffne es nicht. Wenn du es deinem Papst übergibst, verneige dich bis zur Erde.“
 
-Juvaini nahm das Blatt, verbeugte sich erneut und verließ das Zelt.
+Carpini nahm das Bündel mit beiden Händen entgegen. Er hielt es an seine Brust, als trüge er die Reliquie eines Märtyrers, küsste das Wachstuch und murmelte ein kurzes Gebet auf Latein.
 
-Draußen war die Luft kalt, und der Himmel war grau, und die Zelte standen still im Wind, der nicht wehte. Juvaini hielt das Blatt in der Hand, das Blatt, das aus Rom gekommen war, das Blatt, das die Stimme des Papstes trug, die Stimme eines Mannes, der nie in Karakorum gewesen war, der nie die Weite der Steppe gesehen hatte, der nie verstanden hatte, dass seine Worte in dieser Welt wie Sand waren, den der Wind verwehte.
+Juvaini unterdrückte ein bitteres Lächeln. 
 
-Er ging in die Kanzlei, setzte sich an seinen Tisch, legte das Blatt vor sich und las.
+Dieser Mann, der nichts verstand – weder die Zeichen auf dem Papier noch die unerbittliche Logik des Reiches, das ihn empfangen hatte –, ritt nun davon. Er würde den Brief über die gefrorene Wolga tragen, durch die Wälder Russlands, über die Pässe Polens bis in die marmornen Paläste von Rom. Tausende von Meilen würde dieses Pergament reisen, getragen von einem frierenden Mönch auf mageren Steppenpferden, um dort die Botschaft der Vernichtung zu verkünden.
 
-Der Brief war lang. Er war voller Zitate aus der Bibel, voller Ermahnungen, voller Drohungen. Der Papst forderte den Khan auf, das Christentum anzunehmen, die Eroberungen zu stoppen, die Gefangenen freizulassen. Er warnte vor dem Zorn Gottes, der jeden treffen würde, der sich nicht unterwarf.
+*Meine Hand*, dachte Juvaini und spürte ein seltsames Frösteln tief in seinen Knochen. *Meine Schrift wird in ihren Tempeln liegen. Sie werden meine Buchstaben anstarren und nicht wissen, wer ich war. Sie werden das Urteil über ihre Welt lesen, geschrieben mit der Tinte eines Knaben aus Chorasan.*
 
-Juvaini las den Brief zweimal, dann legte er ihn beiseite, nahm eine neue Feder, tauchte sie ein und begann zu schreiben.
+Er sah zu, wie Carpini sich mühsam auf sein Pferd schwang, wie die kleine Gesandtschaft sich in Bewegung setzte und im wirbelnden Schneegestöber der Steppe verschwand. Ein schwarzer Punkt, der vom Weiß verschlungen wurde.
 
-Er schrieb die Antwort in dem Stil, den er gelernt hatte, in der Sprache der Höflichkeit, die die Mongolen von ihren persischen Schreibern verlangten. Er schrieb die Worte, die Güyük diktiert hatte, die Worte, die der Khan persönlich formuliert hatte, die Worte, die die Arroganz des Weltreichs trugen.
+Die Nacht fiel früh über Karakorum ein.
 
-*Im Namen des ewigen Himmels, des Herrschers über alle Völker, des Khans der Khane, des Herrn der Welt, an Innozenz, den Papst von Rom, der sich den Diener der Diener Gottes nennt, im Namen des Friedens, den wir nicht kennen, und der Wahrheit, die wir nicht suchen.*
+In seiner Schlafjurte war es bitterkalt. Das kleine Becken mit glühender Holzkohle spendete kaum genug Wärme, um die Kälte von seinen Knöcheln fernzuhalten. Der Wind rüttelte an den hölzernen Spannstangen des Zeltes, heulte wie ein verwundetes Tier und trieb feinen Eisschnee unter dem Filzrand hindurch.
 
-*Dein Brief ist angekommen, und wir haben ihn gelesen, und wir haben verstanden, dass du nicht verstehst, wer wir sind und was wir wollen. Du forderst uns auf, das Christentum anzunehmen, aber du vergisst, dass der ewige Himmel alle Völker geschaffen hat, und dass er uns den Auftrag gegeben hat, die Welt zu beherrschen, nicht, um sie zu bekehren, sondern um sie zu ordnen.*
+Juvaini saß allein. Neben ihm brannte eine flackernde Butterlampe, deren gelblicher Schein tanzende Schatten an die Filzwand warf. 
 
-*Du forderst uns auf, die Eroberungen zu stoppen, aber du vergisst, dass wir nicht erobern, um zu zerstören, sondern um zu vereinen. Die Welt ist ein Chaos, und wir sind die Ordnung, die der Himmel gesandt hat. Du forderst uns auf, die Gefangenen freizulassen, aber du vergisst, dass sie keine Gefangenen sind, sondern Untertanen, die gelernt haben, zu gehorchen.*
+Er hatte sein privates Heft aufgeschlagen – das kleine Buch mit den feinen Lederdeckeln, in das er seit seiner Jugend Verse notierte. Es war sein Zufluchtsort gewesen. Wenn die Kanzlei nach Blut und Eintreibungen roch, wenn die Befehle der Khagane die Welt verheerten, hatte er dort die Schönheit gesucht. Er hatte geglaubt, dass ein vollendeter Vers das Grauen aufwiegen könne. Dass die Dichtkunst eine Burg sei, unbezwingbar für die Barbarei der Zeit.
 
-*Und du drohst uns mit dem Zorn Gottes, aber du vergisst, dass der ewige Himmel auf unserer Seite ist, und dass er uns den Sieg gegeben hat, den Sieg, den wir nicht verlieren werden, den Sieg, der nicht enden wird.*
+Er nahm das Schilfrohr. Er wollte ein Gedicht schreiben. Über den Brief. Über den Mönch, der in die Nacht ritt. Über den Hochmut der Herrscher und die Nichtigkeit der Throne.
 
-Juvaini schrieb weiter. Die Feder glitt über das Papier, und die Worte kamen, wie sie immer kamen, in der Ordnung, die er gelernt hatte, in der Präzision, die er beherrschte, in der Schönheit, die er liebte.
+Er setzte die Feder an.
 
-*Wenn du den Frieden willst, dann komme zu uns, persönlich, an unseren Hof, und wir werden dich empfangen, wie wir alle Gesandten empfangen, mit Respekt und mit Vorsicht. Wenn du den Krieg willst, dann bleib in deiner Stadt, und wir werden dich finden, wie wir alle Städte gefunden haben, die sich uns widersetzt haben, und wir werden sie zerstören, wie wir alle Städte zerstört haben, die uns nicht verstanden haben.*
+*„Der Reiter eilt im Sturm davon, ein Bote stummer Nacht…“*
 
-*Die Wahl liegt bei dir. Der ewige Himmel weiß, was geschehen wird. Wir wissen es nicht.*
+Er stockte. Die Worte klangen hohl. Sie klangen wie die Nachahmung eines Meisters, dem die Seele abhandengekommen war.
 
-*Wir wissen nur, dass wir den Willen des Himmels erfüllen werden, und dass nichts uns aufhalten wird, und dass alles, was du tust, nichts ändern wird, solange du nicht verstehst, dass wir die Herren der Welt sind, und dass du uns gehorchen musst, wenn du überleben willst.*
+Er strich die Zeile durch und begann von Neuem.
 
-Juvaini legte die Feder nieder. Er las den Brief, den er geschrieben hatte, und er sah die Worte, die er gefunden hatte, die Worte, die die Arroganz des Weltreichs trugen, die Worte, die die Macht des Khans spiegelten, die Worte, die die Wahrheit sagten, die der Papst nicht hören wollte.
+*„Es sprach der Fürst der finstern Welt zum Herrn des fernen Meers: ‚Beug deinen Nacken in den Staub, es nützt dir kein…‘“*
 
-Er sah den Brief, und er dachte an die Worte, die er geschrieben hatte, und er dachte an die Worte, die er nicht geschrieben hatte, die Worte, die er hätte schreiben können, wenn er ein anderer Mann gewesen wäre, wenn er nicht in der Kanzlei gesessen hätte, wenn er nicht der Schreiber des Khans gewesen wäre.
+Mitten im Wort hielt er inne. Seine Hand begann zu zittern.
 
-Er dachte an die Worte, die er hätte schreiben können, wenn er Fatima gewesen wäre.
+Es war eine Lüge.
 
-Am nächsten Tag wurde der Brief in die mongolische Schrift übertragen, und dann in die lateinische Schrift, und dann wurde er versiegelt, mit dem Siegel des Khans, dem Siegel, das die Welt bedeutete, dem Siegel, das die Antwort trug, die der Papst nicht verstehen würde.
+Die Verse waren nicht schön. Sie waren ein Schleier, gewoben aus Feigheit. Er versuchte, etwas zu besingen, das keine Schönheit besaß. Er versuchte, dem Schrecken der Kanzlei einen poetischen Sinn abzuringen, um sich selbst zu verzeihen, dass er ihn aufgeschrieben hatte.
 
-Juvaini sah zu, wie der Brief aus der Kanzlei getragen wurde, von einem Boten, der ihn zu Plano Carpini bringen würde, dem Franziskanermönch, der immer noch in Karakorum war, der immer noch nichts verstand, der immer noch glaubte, dass er den Khan zum Christentum bekehren könnte.
+Er war kein Dichter mehr, der die Welt deutete. Er war ein Schreiber, der Todesurteile siegelte und die Erpressung eines halben Kontinents mit Schönschrift verzierte, um am Leben zu bleiben. Er hatte Abd ar-Rahmans Ende protokolliert, ohne mit der Wimper zu zucken. Er hatte Chinqais ausgelieferten Kopf – sein gebrochenes Siegel – mit Randnotizen versehen. Er hatte dem Papst mit vollendeter Eleganz das Messer an die Kehle gesetzt.
 
-Er sah den Brief, und er dachte an die Worte, die er geschrieben hatte, und er dachte an die Worte, die der Papst lesen würde, und er dachte an die Worte, die in Rom bleiben würden, für immer, in den Archiven des Vatikans, in den Regalen, die die Geschichte der Welt bewahrten.
+Und warum? Um nützlich zu sein. Um unentbehrlich zu sein für Güyük. Um nicht auf der Liste zu stehen, die morgen auf Arghun Aqas Pult lag.
 
-Der Brief würde überleben. Die Worte würden bleiben. Die Antwort des Khans, die Antwort, die er geschrieben hatte, die Antwort, die die Arroganz des Weltreichs trug, die Antwort, die die Wahrheit sagte, die niemand hören wollte.
+Er sah auf das weiße Blatt hinab. 
 
-Juvaini saß in der Kanzlei, die Hände über der Schreibfläche gefaltet, und er dachte an den Brief, und er dachte an die Worte, und er dachte an die Schönheit, die er geschaffen hatte, und er dachte an die Schönheit, die er nicht mehr sehen konnte.
+Zum ersten Mal in seinem Leben fand er keine Schönheit in seinem Handwerk. Die Buchstaben erschienen ihm plötzlich wie Ameisen, die über einen Kadaver krochen – schwarz, geschäftig, blind für das Fleisch, das sie fraßen. Die Dichtkunst hatte ihn verlassen. Sie weigerte sich, die Hure der Kanzlei zu sein.
 
-Er nahm die Feder, tauchte sie ein und schrieb weiter.
+Mit einer schnellen, fast wütenden Bewegung tauchte er die Feder tief in die schwarze Tinte und zog drei dicke, breite Striche quer über die Seite. Er strich die Verse durch, bis das Papier aufriss und der Ruß die Fasern tränkte.
 
-In dieser Nacht, nachdem die anderen Schreiber gegangen waren, saß Juvaini allein in der Kanzlei, die Lampe flackerte, und der Wind zerrte an den Filzwänden des Zeltes. Er nahm ein neues Blatt Papier, legte es vor sich, und begann zu schreiben.
+Das war das Einzige, was wahr war: das Durchgestrichene.
 
-Ein Gedicht.
+Er schloss das Heft und legte das Schilfrohr beiseite. 
 
-Er schrieb über den Brief, den er geschaffen hatte, über die Worte, die er gefunden hatte, über die Arroganz, die er in Schönheit gekleidet hatte, über die Wahrheit, die er in Höflichkeit verpackt hatte. Er schrieb über die Macht des Khans, die er in Sätze gegossen hatte, über die Drohung, die er in Höflichkeit verschleiert hatte, über den Tod, den er in Worte versteckt hatte.
+Draußen sang der Wind sein uraltes, gnadenloses Lied über der Steppe. Juvaini zog die schwere Decke über seine Schultern, löschte die Butterlampe mit zwei Fingern und starrte in die Dunkelheit. 
 
-Er schrieb die erste Strophe, und die Worte kamen, wie sie kamen, wenn er schrieb, in der Ordnung, die er gelernt hatte, in der Schönheit, die er liebte.
+Er dachte an Fatima. Irgendwo dort draußen, nur wenige hundert Schritt entfernt in der eisigen Finsternis, saß sie auf ihren Knien und wartete. Und er wusste mit einer furchtbaren, eisigen Klarheit: Wenn Güyük ihren Namen auf ein Blatt Papier schrieb, würde er, Ata-Malik Juvaini, die Tinte dafür anrühren.
 
-*Der Brief, den ich schrieb, trug den Willen des Khans,*
-*in Worte gekleidet, die wie Seide waren, weich und stark,*
-*und die Wahrheit, die ich nicht sagen durfte, lag darin verborgen,*
-*wie ein Dolch in einer Scheide, die niemand öffnete.*
-
-Er las die Zeilen, und sie waren gut. Die Bilder waren präzise, die Worte waren genau, die Schönheit war vorhanden, wie sie immer vorhanden war, wenn er schrieb, wenn er die Feder bewegte, wenn er die Welt in Sätze verwandelte.
-
-Er schrieb die zweite Strophe, und die Worte kamen, wie sie kamen, aber sie waren anders. Sie waren kälter. Sie waren leerer.
-
-*Und ich, der Schreiber, der die Worte fand,*
-*ich war der Dolch, und ich war die Scheide,*
-*und ich war die Hand, die den Brief trug,*
-*und ich war die Stimme, die die Wahrheit sprach,*
-*die niemand hören wollte, und die ich nicht vergessen konnte.*
-
-Er las die Zeilen, und sie waren nicht gut. Die Bilder waren zu direkt, die Worte waren zu persönlich, die Schönheit war verschwunden, wie sie verschwand, wenn er zu viel von sich selbst in die Worte legte, wenn er die Wahrheit nicht in Höflichkeit verpacken konnte, wenn er die Feder nicht mehr kontrollierte.
-
-Er nahm das Blatt, las es noch einmal, und dann zerriss er es.
-
-Er zerriss es in kleine Stücke, die auf den Tisch fielen, die wie Schnee aussahen, die wie die Asche von etwas waren, das verbrannt war, das nicht mehr existierte. Er sammelte die Stücke, legte sie in die Lampe, und sah zu, wie sie brannten, wie sie zu Asche wurden, wie sie verschwanden.
-
-Das Gedicht war weg. Die Wahrheit war weg. Die Schönheit war weg.
-
-Er saß im Dunkeln, die Hände auf dem Tisch, die Lampe flackerte, und der Wind zerrte an den Filzwänden des Zeltes. Er dachte an den Brief, den er geschrieben hatte, an die Worte, die er gefunden hatte, an die Schönheit, die er geschaffen hatte, und er dachte an die Schönheit, die er nicht mehr sehen konnte.
-
-Er dachte an die Schönheit, die er verloren hatte, weil er sie benutzt hatte, um den Tod zu schmücken, um die Macht zu verkleiden, um die Wahrheit zu verbergen.
-
-Er dachte an die Schönheit, die er nicht mehr finden konnte, weil er sie verraten hatte.
-
-Er nahm die Feder, tauchte sie ein, aber er schrieb nicht. Er hielt die Feder in der Hand, die Feder, die so leicht war, die Feder, die so schwer war, die Feder, die die Worte trug, die er nicht mehr schreiben konnte.
-
-Er legte die Feder nieder, löschte die Lampe, und saß im Dunkeln, in der Stille, in der Kälte, die nicht enden wollte.
-
-Er saß im Dunkeln, und er dachte an Fatima, die die Briefe der Regentin geschrieben hatte, die die Worte gefunden hatte, die die Macht in Höflichkeit gekleidet hatte, die die Wahrheit verborgen hatte, um zu überleben.
-
-Er dachte an Fatima, die die Briefe an ihre tote Schwester schrieb, die Briefe, die niemand lesen würde, die Briefe, die die Wahrheit sagten, die niemand hören wollte.
-
-Er dachte an Fatima, die verschwunden war, und er dachte an die Briefe, die sie geschrieben hatte, und er dachte an die Schönheit, die sie gefunden hatte, an die Schönheit, die er nicht mehr finden konnte.
-
-Er saß im Dunkeln, und er wusste, dass er weiterschreiben würde, weil er keine Wahl hatte, weil er nicht sterben wollte, weil er nicht wusste, was sonst.
-
-Aber er wusste auch, dass er nie wieder ein Gedicht schreiben würde, das die Wahrheit sagte, weil er die Wahrheit nicht mehr in Schönheit kleiden konnte, weil er die Schönheit verraten hatte, weil er sie benutzt hatte, um den Tod zu schmücken.
-
-Er saß im Dunkeln, und er wartete auf den Morgen, der kommen würde, der neue Tag, der neue Brief, der neue Name auf der Liste, die neue Akte, die er schreiben würde, weil er schreiben musste, weil er überleben musste, weil er nicht wusste, was sonst.
-
-Er saß im Dunkeln, und er dachte an die Schönheit, die er verloren hatte, und er dachte an die Wahrheit, die er nicht mehr sagen konnte, und er dachte an die Worte, die er nicht mehr schreiben würde.
-
-Er saß im Dunkeln, und er wartete.
-
-Der Morgen kam, wie er immer kam, und die Sonne stieg über Karakorum auf, und die Kälte blieb, und die Arbeit begann, wie sie immer begann, mit dem Geruch von Rauch und Pferden und der Stille der Kanzlei, die niemand durchbrach.
-
-Juvaini saß an seinem Tisch, die Hände auf der Schreibfläche, und er sah die leeren Blätter, die auf ihn warteten, die neuen Akten, die neuen Namen, die neuen Briefe, die er schreiben würde, weil er schreiben musste, weil er überleben musste, weil er nicht wusste, was sonst.
-
-Er nahm die Feder, tauchte sie ein, und begann zu schreiben.
-
----

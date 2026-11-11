@@ -1,119 +1,126 @@
 ## Der goldene Becher
 
-Der Geruch von kaltem Fett und Kampfer hing im Zelt wie ein zweiter Vorhang.
+Der Wind über dem Orchon-Tal trug den Duft von Wermut und erstem Schnee, als wollte die Steppe selbst den Atem anhalten.
 
-Fatima kniete nieder auf der Filzmatte vor Töregenes Lagerstatt und wartete darauf, dass die Regentin sie bemerkte. Das dauerte diesmal länger als sonst – drei Herzschläge mehr als gestern, vielleicht fünf mehr als vorgestern. Die Zeit kroch anders hier drinnen, wo das Licht durch gefrorene Lederplanen fiel und jede Bewegung schwer war wie Blei in der Kälte des Winters 1246.
+In den Fugen des Holzbodens knirschte gefrorener Raureif, der sich während der Morgendämmerung durch die Filzbahnen gefressen hatte. Fatima trat leise ein. Sie schloss den Vorhang aus dreilagigem Wollstoff hinter sich, bedächtig darauf bedacht, dass kein Hauch der eisigen Zugluft die Mitte des Raumes erreichte. Früher hatten hier drei Wachen mit blanken Säbeln gestanden, deren Atem im Schein der kupfernen Kohlenbecken dampfte; heute lehnte nur noch ein alter Diener am Türpfosten, dessen Augen matt waren wie getrübtes Horn.
 
-Töregene lag aufgestützt auf gestapelten Kissen aus grauem Filz und chinesischer Seide, deren Muster unter dem Gebrauch verblichen waren wie alles hier drinnen außerhalb des Lichtstrahls einer einzelnen Lampe auf einem Bronzetisch neben ihrem Bett.
+Ein Besuch bei den Entmachteten glich dem Betreten eines Hauses, über dessen Schwelle bereits die Pestmarke gemalt war. Jeder Schritt, den sie über den Vorplatz gesetzt hatte, war von den Posten der kaiserlichen Leibgarde beobachtet worden – Männern in neuen, schwarzen Filzmänteln, die nicht mehr Töregenes Befehlen gehorchten, sondern den Befehlen ihres Sohnes. Jeder wusste es. Jeder Hofbeamte, jeder Kanzlist, jeder persische Schreiber mied dieses Winterquartier am südlichen Rand des Lagers, als stünde die Kälte der Steppe hier tiefer als anderswo. Fatima kam dennoch. Sie kam jeden Tag zur Stunde, da die Sonne ihren höchsten Stand erreichte und das Licht fahl durch das Rauchloch fiel.
 
-Neben der Lampe standen zwei Kelche aus Jade – unberührt seit Tagen nach Fatimas Wissen – und eine kleine Schale mit getrockneten Aprikosen , deren Oberfläche schon rissig geworden war von der trockenen Hitze des Kohlebeckens , das Tag und Nacht brannte , obwohl niemand ihn beaufsichtigte .
+Töregene saß auf einem Berg aus Kissen, gehüllt in einen schweren Mantel aus Silberfuchs, der einst den Schatzkammern von Buchara entstammte. Doch die Felle schienen zu groß für sie; der Pelz verschlang ihre Schultern, ließ ihren Hals knochig und bloß hervortreten. Ihr Gesicht, einst von einer fast grausamen Entschlossenheit gezeichnet, glich nun getrocknetem Pergament, straff über die Wangenknochen gespannt. Vor ihr stapelten sich Gaben: Ballen aus grobem Brokat, versiegelte Krüge mit geronnenem Kumis, zwei geschnitzte Kästchen aus Buchsbaumholz.
 
-„Du kommst noch“, sagte Töregene . Ihre Stimme klang dünner als damals , als sie noch Dekrete diktierte , aber immer noch klar , immer noch schneidend . „Ich hätte gedacht , du hättest Besseres zu tun .“
+„Sie schicken noch Geschenke“, sagte die Herrin, ohne den Kopf zu heben. Ihre Stimme klang rau, wie Schotter, der im Flussbett gegeneinander rieb. „Bündel. Felle. Getrocknete Aprikosen aus dem Süden. Doch kein Fürst betritt mehr diese Schwelle. Nicht einmal Arghun Aqa lässt sich blicken.“
 
-„Ich komme jeden Tag “ , erwiderte Fatima .
+„Er hat die Kanzlei zu ordnen, Herrin“, erwiderte Fatima sanft und kniete auf dem Filz nieder. Ihre Finger glitten über den Saum ihres eigenen Mantels, wo die heimlichen Blätter verborgen lagen, dünn wie Zwiebelhäute. „Güyük fordert Rechenschaft über jede Münze.“
 
-Sie sagte es ohne Vorwurf , weil es wahr war und weil sie wusste , dass Töregene zählte . Die Regentin zählte alles : wer kam , wer blieb , wer wegging . Sie inventarisierte ihre Welt wie einen Haushalt vor einer langen Reise .
+Töregene stieß ein trockenes, heiseres Lachen aus, das in einem Husten erstickte. Sie griff nach einer Schale mit lauwarmem Wasser, nippte daran und wischte sich mit dem Handrücken über die Lippen.
 
-„Jeden Tag “ wiederholte Töregene . Sie lächelte nicht . „Man lernt am Ende die Preise . Weißt du , was ich gelernt habe ?“
+„Er fordert nicht Rechenschaft, er zählt die Tage“, sagte die Khatun. Sie blickte auf die ungeöffneten Kisten. „Man lernt am Ende die Preise, Fatima. Fünf Jahre lang habe ich geglaubt, sie beugten sich meinem Willen, meiner Klugheit, der Kälte meines Urteils. Aber sie beugten sich nur dem Siegel. Ein Stück Jade, nicht größer als die Handfläche eines Kindes. Man nimmt es dir aus der Hand, und plötzlich bist du nur noch eine alte Naimanin, die im Frost stirbt.“
 
-Fatima schwieg .
+Fatima schwieg. Sie kannte das Gesetz dieses Schweigens; sie hatte es in zwanzig Jahren an Töregenes Seite gelernt, erst als Dienerin, dann als Kanzlerin im Schatten. In Fatimas Erinnerung war Chorasan kein Ort auf einer Karte, sondern das warme Licht in den Gärten von Maschhad und das Lachen ihrer Schwester – Erinnerungen, die sie wie glimmende Kohlen unter der Asche trug, um im eisigen Wind dieser Herrschaft nicht zu erfrieren.
 
-„Geschenke kommen noch “ , sagte Töregene . Ihre Finger tasteten über die Decke aus Kamelhaar , zupften an einem losen Faden . „Die Fürsten nicht mehr . Die Gesandten nicht mehr . Aber Geschenke kommen noch . Goldschalen aus Georgien . Seide aus Song . Ein lebendiger Leopard aus Indien , den sie mir geschickt haben – er ist letzte Woche erfroren , weil keiner sich mehr um ihn gekümmert hat .“
+„Bring mir die Eisenkiste“, befahl Töregene plötzlich. Ihre Augen, tief in den Höhlen liegend, flackerten für einen Herzschlag mit der alten, herrischen Schärfe auf. „Die kleine, unter dem Wandbehang.“
 
-Sie lachte kurz auf , ein Laut ohne Wärme .
+Fatima erhob sich lautlos. Das Scharnier der kleinen, mit Eisenbändern beschlagenen Truhe quietschte leise im kalten Raum. Der Geruch von altem Zedernholz und bitterem Staub stieg empor. Darin lagen keine Urkunden, keine Siegel. Nur ein einziges Tuch aus verblichener roter Seide, das etwas Schweres, Rundes umhüllte.
 
-„Geschenke sind billiger als Anwesenheit “ , sagte sie . „Man gibt Gold statt Zeit . Und man hofft , dass niemand den Unterschied bemerkt .“
+Fatima hob das Bündel heraus. Unter ihren Händen spürte sie das Metall. Kalt. Unbarmherzig.
 
-Fatima senkte den Kopf .
+Sie trug es hinüber und legte es auf das niedrige Tischchen vor der Regentin. Töregene griff mit zitternden, aber zielsicheren Fingern nach dem Stoff und schlug ihn zurück.
 
-Draußen hörte sie Pferdegetrappel vorbeiziehen – Wachen Güyüks wahrscheinlich oder Boten oder Diener mit Nachrichten für wichtigere Menschen als eine sterbende Regentin in ihrem Winterquartier am Rande des Hofes .
+Im Schein der matten Butterlampe schimmerte der goldene Becher.
 
-Töregene bewegte sich unbehaglich auf ihren Kissen .
+Fünf Jahre waren vergangen, seit er zuletzt offen auf einem Tisch gestanden hatte. Fünf Jahre, seit jenem bitterkalten Dezembermorgen des Jahres 1241, als Ögedei Khagan auf seinen Kissen gelegen hatte, mit blau angelaufenen Lippen und dem Geruch bitterer Mandeln in seinem Atem. Die getriebenen Jagdszenen am Rand des Gefäßes fingen das Licht ein – ein Reiter, der Pfeil auf der Sehne, ein fliehender Hirsch, der für immer im Gold erstarrte.
 
-„Hilf mir hoch “ , sagte sie .
+Fatima starrte auf das Metall. Ihr Herz schlug schwer gegen ihre Rippen. Sie erinnerte sich an jeden Herzschlag jener Nacht. Sie erinnerte sich an den Schankknecht mit den gesenkten Wimpern, an die Stickerei auf dessen Ärmel, die das Zeichen des Hauses Tolui getragen hatte – die Spur, die direkt zu Sorkaktanis stillen Jurten führte. Sie erinnerte sich an den Becher, den sie selbst von den Kissen genommen, abgewischt und in Töregenes Hände gelegt hatte.
 
-Fatima stand auf und griff unter ihren Arm . Die Regentin war leichter geworden in diesen Wochen ; ihr Körper fühlte sich an wie trockenes Holz unter dem Mantel aus Brokat und Pelz . Sie stützte sich auf Fatimas Schulter während Fatima sie vorsichtig aufrichtete bis sie saß mit dem Rücken gegen die gestapelten Kissen gelehnt .
+Töregene strich mit dem Daumen über den Rand. „Ich habe dich damals nicht gefragt“, sagte die Regentin leise. Ihre Stimme verlor die Schärfe, wurde beinahe nachdenklich, ein Flüstern zwischen den dicken Wänden der Jurte. „Er lag da, und sein Atem ging schon wie ein Blasebalg, der im Ruß versinkt. Du brachtest mir diesen Becher. Er roch nicht nach Hirsewein.“
 
-Ihr Atem ging flach .
+Fatima verharrte reglos. Sie wagte nicht, den Blick zu heben.
 
-Für einen Moment sahen sie sich an im gelben Licht der Lampe : zwei Frauen , fünf Jahre eines gemeinsamen Geheimnisses zwischen ihnen wie ein unsichtbarer Faden gesponnen aus Schweigen und Wissen .
+„Ich habe dich nicht gefragt“, wiederholte Töregene, und ein dünnes, grausames Lächeln umspielte ihre Mundwinkel, „weil Antworten Täter brauchen. Wenn ich nach dem Gift gefragt hätte, hätte ich den Namen hören müssen. Wenn ich den Namen gehört hätte, hätte ich das Haus Tolui vernichten müssen. Oder sie hätten mich vernichtet, noch ehe der Leichnam gewaschen war. Ich brauchte keinen Mörder. Ich brauchte den Thron für meinen Sohn.“
 
-Töregene deutete auf eine Truhe am Fußende des Lagers .
+Sie blickte Fatima fest in die Augen. In diesem Blick lag keine Anklage. Es war das nackte, ungeschminkte Einverständnis zweier Frauen, die auf einem schmalen Felsgrat über einem Abgrund gewandert waren, fünf Jahre lang, Schritt für Schritt.
 
-„Öffne sie “ , sagte sie .
+„Ich wusste genug, um zu schweigen“, sagte Töregene. „Das ist die Staatskunst der Frauen: rechtzeitig aufhören zu wissen.“
 
-Fatima ging hinüber zur Truhe aus Eichenholz mit Eisenbeschlägen deren Schloss intakt war aber kein Siegel trug mehr seit Güyük alle Siegel seiner Mutter eingezogen hatte vor drei Monaten nachdem er offiziell Khagan geworden war .
+Fatima atmete langsam aus. Eine tiefe, schmerzhafte Ruhe senkte sich über sie. Die Regentin hatte es gewusst. Nicht die Einzelheiten, nicht den Namen des Knechts, aber die Natur der Tat. Sie hatten denselben Pakt mit der Stille geschlossen, jede für sich, getrennt durch Rang und Herkunft, und doch vereint im selben Abgrund. Zwei Frauen, ein Geheimnis, fünf Jahre vollendeter Höflichkeit darüber.
 
-Sie hob den Deckel an .
+„Und nun, Herrin?“, fragte Fatima leise. „Was soll mit dem Gefäß geschehen?“
 
-Drinnen lag Kleidung zusammengelegt in ordentlichen Stapeln : Mäntel Röcke Unterkleider alles fein gewebt aber alt getragen von Jahren des Gebrauchs darunter ein Bündel Leder zusammengeschnürt mit einem Riemen aus Rohhaut .
+Töregene schob den Becher mit dem Handrücken von sich, als sei er plötzlich wertlos geworden, ein Stück verrostetes Eisen am Wegesrand.
 
-Fatima zog es hervor .
+„Lass ihn einschmelzen“, sagte sie ruhig. „Noch heute Abend. Rufe den Goldschmied der Kereiten, jenen alten Mann am Westtor, der keine Zunge mehr hat. Er soll ihn in den Tiegel werfen, bis nichts mehr übrig ist als ein Klumpen. Und dann gibst du das Gold den Mönchen im neuen Tempel am Fluss. Sie sollen eine Glocke daraus gießen oder das Dach vergolden.“
 
-Es war schwerer als es aussah ; etwas Metallisches klapperte leise darin als sie es auf das Bett legte neben Töregenes Hüfte .
+Fatima hob die Brauen. „Ein Tempel?“
 
-Töregene löste den Knoten mit langsamen Fingern deren Gelenke geschwollen waren vom Alter oder von der Kälte oder von beidem zusammen während Fatima daneben stand ohne etwas zu sagen ohne etwas zu tun nur zusehend wie sich das Leder öffnete Schicht für Schicht bis darunter zum Vorschein kam :
+„Aus Wahrheit, die niemand braucht, macht man am besten Gold“, sagte Töregene, und ihre Stimme trug wieder diesen trockenen, schneidenden Ton, der keinen Widerspruch duldete. „Gold braucht jeder. Ein Becher ist eine Anklage, Fatima. Er hat eine Form, er hat ein Gedächtnis. Ein Goldklumpen ist nur Frömmigkeit. Frömmigkeit stellt keine Fragen. Wenn mein Sohn diesen Becher fände, würde er ihn nutzen, um das Reich in Brand zu stecken. Nicht aus Liebe zu seinem Vater. Sondern um die Häuser seiner Brüder und Vettern im Blut zu ertränken.“
 
-Der goldene Becher von 1241
+Sie schloss für einen Augenblick die Augen, erschöpft von den wenigen Sätzen. „Lass ihn vergehen. Mach Almosen daraus.“
 
-Er glänzte im Lampenschein matt von Jahren im Verborgenen aber unverkennbar : breite Form getrieben mit Mustern von Weinranken die um einen Rand liefen ausgearbeitet von einer Hand deren Meisterschaft man noch sah trotz der Dunkelheit dieses Raums trotz der Jahre trotz allem was geschehen war seit er zum letzten Mal ans Licht gekommen war im Zelt eines toten Khans während draußen das Gelage weiterging als wäre nichts gewesen
+Fatima neigte den Kopf. Der Bogen schloss sich. Das Gefäß, das ein Weltreich ins Wanken gebracht hatte, würde in einem Schmelztiegel vergehen, verwandelt in Rauch und flüssige Glut, um fortan als stummes Opferblech an einem Götzenbild zu hängen. Die Wahrheit über Ögedeis Tod würde niemals durch ein Gericht geklärt werden. Sie würde im Sand der Steppe versickern, bewahrt einzig auf den zarten Pergamentstreifen, die Fatima unter ihrer Kleidung trug.
 
-Fatimas Herz schlug einmal hart gegen ihre Rippen dann normal weiter
+Ein Geräusch an der Tür riss sie aus den Gedanken.
 
-Sie sah den Becher an
+Der schwere Vorhang wurde zur Seite gerissen, ohne dass der Diener draußen den Besucher ankündigen konnte. Kalte Luft flutete in die Jurte, weißer Nebel, der wie der Atem eines Raubtiers über den Boden kroch.
 
-Fünf Jahre
+Güyük trat ein.
 
-Fünf Jahre seit dieser Nacht fünf Jahre seit sie ihn zuletzt gesehen hatte als Töregene ihn zurücklegte in dieselbe Truhe ohne ein Wort fünf Jahre voller Briefe Dekrete Intrigen Besuche Gespräche Schweigen fünf Jahre in denen niemand diesen Gegenstand berührt hatte außer ihnen beiden
+Er trug keine Zeremoniengewänder. Ein einfacher Mantel aus gegerbtem Wolfsfell, die Stiefel mit gefrorenem Schlamm verkrustet, das Schwert in einer schmucklosen Scheide an der Hüfte. Seine Gegenwart füllte den Raum nicht mit Glanz, sondern mit einer drückenden, kargen Enge. Seine Augen glitten über die Kisten, über die Geschenke, über Fatima, die bereits mit gesenktem Blick am Rand stand, und blieben schließlich an seiner Mutter hängen.
 
-Töregene nahm den Becher in beide Hände hob ihn langsam hoch bis er im vollen Licht der Lampe stand
+Es war kein Blick eines Sohnes. Es war der Blick eines Rechnungsprüfers, der die Bestände eines eroberten Lagers musterte.
 
-Das Gold fing das Licht ein hielt es fest gab es zurück in warmem Schimmer
+„Mutter“, sagte er. Seine Stimme war kurz angebunden, militärisch hart, ohne jeden Tonfall von Herzlichkeit.
 
-„Weißt du “ sagte Töregene leise ohne Fatima anzusehen „was mich am meisten beschäftigt hat all diese Jahre ?“
+„Khagan“, erwiderte Töregene mit vollendeter Haltung. Obwohl ihr Körper zitterte, richtete sie sich auf den Kissen auf, legte die Hände in den Schoß und hob das Kinn. Die Würde einer Regentin verließ sie nicht, selbst wenn das Fleisch ihr den Dienst versagte.
 
-Fatima wartete
+Güyük trat vor das Tischchen. Sein Blick fiel flüchtig auf den goldenen Becher, verharrte nicht darauf, glitt weiter zu den Vorräten in den Ecken. Für ihn war das Gefäß nur eines von tausend Trinkgefäßen, die aus den Palästen des Südens geraubt worden waren.
 
-Nicht ob jemand ihn vergiftet hat “
+„Der Frost wird härter“, sagte er knapp. „Die Pferde der Leibwache brauchen die Stallungen im Ostbezirk. Ich habe befohlen, deine Herden weiter nach Süden zu treiben, an den Schara-Muren.“
 
-sagte Töregene
+„Das sind meine Herden, Güyük“, sagte sie ruhig. „Sie tragen mein Brandzeichen.“
 
-Das wusste ich früh genug
+„Sie tragen das Zeichen des Reiches“, verbesserte er sie ohne jede Regung im Gesicht. „Und das Reich hat nur einen Herrn. Deine Frauen werden morgen die Zelte am Nordhang räumen. Vierzig Jurten genügen für dein Gefolge. Mehr steht einer Witwe nicht zu.“
 
-Sondern ob ich es gewusst habe bevor er starb oder erst danach“
+Fatima spürte die Kälte, die von ihm ausging. Er verhandelte nicht. Er strich Posten auf einer Liste ab. Töregenes fünfjährige Herrschaft wurde von ihm nicht mit Hass zerstört, sondern mit Verwaltungsschwamm und Tinte ausgelöscht, Zeile für Zeile, Zelt für Zelt.
 
-Sie setzte den Becher ab legte ihn flach auf ihre Knie drehte ihn langsam zwischen ihren Händen während ihre Augen über seine Oberfläche strichen über die Weinranken über den Rand wo einmal Lippen eines Khans seine Spur hinterlassen hatten vor langer Zeit ehe alles begann ehe alles endete ehe zwei Frauen allein zurückblieben im Licht einer einzelnen Lampe im Winterquartier einer sterbenden Regentin
+„Du hast Temüge richten lassen“, sagte Töregene leise. Es war kein Vorwurf, nur die Feststellung einer Tatsache.
 
-Fatima öffnete den Mund dann schloss sie ihn wieder weil ihr nichts einfiel was gesagt werden durfte hier nichts was nicht falsch klingen würde oder naiv oder verräterisch an dem stillen Pakt dessen Bedingungen beide kannten seit fünf Jahren ohne je darüber gesprochen zu haben
+Güyüks Kiefer spannte sich an. „Er hat Krieger gegen das Zelt des Herrschers geführt. Shigi Qutuqu hat das Urteil nach dem Gesetz gesprochen. Niemand steht über der Jasa. Weder der Bruder des Gründers noch die Schreiberinnen fremder Länder.“
 
-Töregene lächelte wieder dieses Lächeln ohne Wärme ohne Humor nur eine Bewegung von Lippenmuskeln trainiert durch Jahrzehnte am Hof eines Mannes der keine Fragen duldete außer seinen eigenen
+Sein Blick traf Fatima. Es war kein Zorn darin, nur eine kalte, abwägende Feindseligkeit. Ein Schnitt mit einer stumpfen Klinge.
 
-„In jener Nacht “ sagte sie „nachdem du gegangen warst saß ich hier mit diesem Becher in meinen Händen genau so wie jetzt Und ich habe mir dieselbe Frage gestellt immer wieder dieselbe Frage : Habe ich gewusst dass mein Mann sterben würde bevor er starb Oder habe ich es erst begriffen nachdem sein Herz aufgehört hatte zu schlagen ?“
+Fatima hielt die Augen auf den Boden gerichtet. Sie spürte seinen Blick auf ihren Händen, auf ihrem Nacken, dort, wo die Ader pulsierte. Töten, dachte sie unwillkürlich. Er dachte in Befehlen, in Hinrichtungen, in geordneten Gräbern.
 
-Ihre Stimme zitterte kaum merklich aber deutlich genug für jemanden der fünf Jahre gelernt hatte jedes Zittern ihrer Herrin zu lesen jedes Zögern jedes Verbergen hinter glatten Worten
+„Ich habe noch Pflichten“, sagte Güyük, wandte sich ab und sah seine Mutter nicht noch einmal an. „Sorge dafür, dass die Kanzleikisten bis zum Abend versiegelt sind. Chinqai wird sie morgen übernehmen.“
 
-Weißt du was meine Antwort ist ?“
+Er drehte sich um. Der Vorhang fiel hinter ihm zu, und mit ihm verschwand der Atemzug der eisigen Steppenluft. Die Stille, die er hinterließ, war schwerer als zuvor.
 
-fragte Töregene
+Töregene saß reglos da. Ihre Hände auf den Knien begannen unkontrolliert zu zittern. Sie sah auf den goldenen Becher hinab, dann hob sie den Kopf und blickte Fatima an.
 
-Fatima schüttelte langsam den Kopf
+In ihren Augen lag das Wissen eines Menschen, der die Tore der Welt hinter sich zufallen sieht.
 
-Es spielt keine Rolle“
+„Er wird dich holen, wenn ich tot bin“, sagte Töregene. Es war kein Flüstern mehr, sondern ein Urteil, gesprochen mit der unerbittlichen Klarheit der letzten Stunde.
 
-sagte Töregene
-Ob ich es wusste oder nicht ändert nichts an dem was passiert ist
-Und was passiert ist ändert nichts an dem was jetzt passieren muss“
+Fatima schluckte trocken. „Herrin… Ködens Fluch… Abd ar-Rahman hetzt die Richter auf…“
 
-Sie legte den Becher hin neben sich auf die Decke griff nach einem Lappen aus weichem Leder begann damit das Gold zu polieren mechanisch fast abwesend während ihre Gedanken woanders waren weit weg vielleicht im Sommer 1241 vielleicht weiter zurück vielleicht dort wo kein Mensch mehr hinreichen konnte außer ihr allein in diesem Raum dieser Nacht diesem Augenblick zwischen Leben und Tod zwischen Macht und Ohnmacht zwischen Wahrheit und dem was übrig bleibt wenn Wahrheit nutzlos geworden ist
+„Nicht wegen Köden“, unterbrach sie die Regentin mit einer schneidenden Handbewegung. „Köden war ein Hitzkopf, der im Fieber nach Schuldigen schrie. Abd ar-Rahman ist ein Schakal, der nach Abfällen schnappt. Güyük schert sich nicht um tote Prinzen oder Schakale. Er fürchtet keine Hexerei.“
 
-Fatima setzte sich auf einen Schemel neben dem Bett, ohne gefragt worden zu sein. Weil Höflichkeit hier keinen Sinn mehr ergab unter denen, die bald sterben würden oder bald verlassen sein würden. Allein zurückgelassen mit nichts außer Erinnerungen an Dinge, die besser vergessen wären, wenn Vergessen möglich wäre. Unter Menschen, denen man beigebracht hatte, sich zu erinnern, generationenlang. Bis jede Narbe zum Familienwappen wurde, jeder Schmerz zur Legende, jedes Geheimnis zur Münze, geprägt für spätere Geschäfte
+Töregene beugte sich mühsam ein Stück vor. Ihr Atem roch nach Krankheit und bitterem Holzrauch.
 
-Töregenes Hand ruhte kurz still auf seiner Oberfläche dann begann sie wieder zu polieren Strich für Strich gleichmäßig geduldig wie jemand der Abschied nimmt von einem Gegenstand indem man ihm seine letzte Schönheit schenkt bevor er verwandelt wird in etwas anderes etwas Nützlicheres etwas Unkenntliches mehr
+„Er wird dich holen wegen dem, was du nicht sagst. Du hast fünf Jahre lang neben mir gesessen, Fatima. Du hast die Gesandten gehört, du hast die geheimen Botschaften aus Persien übersetzt, du kennst die Tribute, die Unterschlagungen, die Schwächen jedes Prinzen von hier bis an die Wolga. Du weißt, wer bestechlich ist. Du weißt, wie mein Mann starb.“
 
-Ich hätte fragen können damals“
-sagte sie
-In jener Nacht am nächsten Morgen Ich hätte Shigi rufen können Ich hätte Ärzte herbeordern können Ich hätte Untersuchungen befohlen Ich hätte Diener verhören lassen Ich hätte alles tun können was eine Witwe tut wenn ihr Mann stirbt unter Umständen die seltsam genug sind um Zweifel zu sähen“
+Sie griff nach Fatimas Handgelenk. Ihre Finger waren knöchern, kalt wie Reif, doch ihr Griff besaß eine letzte, verzweifelte Kraft.
 
-Ihre Finger stoppten mitten im Polieren. Sie ruhten still auf dem Gold des Bechers, dessen Glanz jetzt heller geworden war unter ihrer Arbeit. Heller, fast gleißend im Schein der Lampe. Heller als alles andere in diesem dunklen Raum voller Schatten, halb geleerter Kelche, getrockneter Früchte, einsamer Tage. Gezählt von einer Frau, deren Macht geschmolzen war wie Schnee unter einer Frühlingssonne. Deren Rückkehr niemand mehr erwartete, hier draußen am Rand des Reiches, am Rand des Lebens, am Rand dessen, was übrig bleibt, wenn alles andere weggenommen ist. Bis auf eine Handvoll Gegenstände, Erinnerungen, Geheimnisse, die niemand mehr braucht außer denen, die daran sterben werden, früher oder später. So sicher wie das Gold dieses Bechers morgen Abend neu gegossen sein wird. Zu etwas anderem. Etwas Heiligem. Etwas Unverfänglichem. Etwas, das man segnen kann statt verdammen, statt verfluchen, statt bewahren als Zeugen eines Verbrechens, dessen Namen niemand ausspricht seit fünf Jahren. Weil Aussprechen bedeutet, einzugestehen, dass man weiß, was besser ungewusst bliebe, wenn man weiterleben will unter denen, welche Antworten geben müssen. Weil Antwort immer einen Schuldigen fordert. Und Schuldige immer gefunden werden, früher oder später. So sicher wie dieser Winter endet. So sicher wie dieser Sommer kommt. So sicher wie Güyük mich beerben wird. Mein Fleisch, meine Knochen, meine Macht, meine Fehler, meine Lügen, meine Wahrheiten: alles wird ihm gehören. Bald, sehr bald. Vielleicht schon morgen. Vielleicht heute Nacht. Vielleicht noch bevor dieser Becher geschmolzen ist zu Tempelgold. Gebetet, geweiht, verwandelt, geläutert, unkenntlich gemacht. Für alle Ewigkeit. Amen, amen, amen
+„Ein Herrscher kann Krieger ertragen, die ihn hassen“, flüsterte Töregene, und ihr Blick bohrte sich in Fatimas Seele. „Er kann Verräter hinrichten lassen. Aber er kann niemanden ertragen, der ihn durchschaut. Dein Schweigen ist lauter als jede Anklage. Und mein Sohn hasst nichts mehr als ein Geheimnis, das er nicht besitzt.“
 
----
+Sie ließ Fatimas Arm los. Ihre Hand sank kraftlos auf die Kissen zurück.
+
+„Ich kann dich nicht mehr schützen. Nicht morgen, nicht übermorgen. Mein Name ist nur noch Rauch im Schornstein.“
+
+Fatima verneigte sich tief, bis ihre Stirn den kalten Filz berührte. Die Schwere in ihrer Brust war nicht Furcht, sondern eine seltsame, fast schmerzlose Gewissheit.
+
+Die Frist lief.
+
+Sie griff nach dem roten Seidentuch, wickelte den goldenen Becher vorsichtig darin ein, so wie man einen Leichnam vor den Augen der Welt verbirgt, und drückte das schwere, metallene Paket an ihre Brust.
+
+Draußen sang der Wind in den gefrorenen Spannseilen der Jurte, ein hoher, klagender Ton, der über die Dächer von Karakorum hinwegfegte und sich in der endlosen Weite der Steppe verlor.
+

@@ -5,182 +5,155 @@
 
 ---
 
-Der Morgen kam kalt über Karakorum, als die Nachricht eintraf.
+Der Wind über dem Orchon-Tal trug den Duft von Wermut und erstem Schnee, als wollte die Steppe selbst den Atem anhalten.
 
-Shigi Qutuqu saß in seiner Kanzlei, die Hände um einen Becher mit warmem Ziegenteig gewärmt, als der Lärm von Pferdehufen vor dem Zelt anhielt. Drei Männer. Er hörte es an der Art, wie sie abstiegen – gleichzeitig, diszipliniert, ohne das übliche Zögern von Boten, die sich erst orientieren mussten. Das waren keine einfachen Kuriere.
+Shigi Qutuqu saß mit gekreuzten Beinen auf dem weiß gebleichten Filz seiner Schreibjurte und lauschte dem Singen der Spannseile im böigen Herbststurm. Vor ihm auf dem niederen Tisch aus Ulmenholz stand eine Schale mit gerösteter Hirse, deren nussiger Dunst sich mit dem fetten Geruch der brennenden Hammeltalg-Lampen mischte. Ein einfacher Mann brauchte nicht mehr, um die Kälte zu vertreiben. Doch die Kälte, die seit Monden in den Adern Karakorums kroch, ließ sich weder mit Wollfilz noch mit Teefeuern bannen.
 
-Er stellte den Becher ab, glättete den Ärmel seines Gewandes und wartete.
+Es war das dritte Jahr, in dem der Thron des Welteroberers verwaist blieb. Drei Jahre, in denen das Reich wie ein gewaltiger Wagen dastand, dessen Zugtiere in verschiedene Himmelsrichtungen zerrten, während die Deichsel im gefrorenen Schlamm versank.
 
-Der Vorhang teilte sich. Ein junger Schreiber in der blauen Schärpe von Güyüks Kanzlei trat ein, gefolgt von zwei Wachen, die draußen stehen blieben. Der Schreiber war höflich, seine Verbeugung korrekt, seine Stimme präzise wie ein Schnitt.
+Shigi tunkte die Rohrfeder nicht ein. Er hielt sie reglos über dem Papier, lauschte auf die Schritte vor der Zeltwand. Das Knirschen von Stiefeln auf verkrustetem Raureif, das leise Klirren von Eisenringen.
 
-„Richter Shigi Qutuqu. Im Namen des Prinzen Güyük, Sohn Ögedeis, Enkel Dschingis Khans, ergeht die Bitte um Einsicht in die Aufzeichnungen des letzten Willens des verstorbenen Khagan.“
+Zwei Offiziere traten ein, die Mützen tief in die Stirn gezogen, die Schultern behängt mit schwerem Wolfspelz. Sie verneigten sich nach der alten Sitte, die Handflächen gegen die Knie gepresst, doch in ihren Augen lag nicht die Demut von Bittstellern, sondern die ungeduldige Härte von Männern, die hinter sich zehntausend Reiter wussten. Boten aus dem Lager des Prinzen Güyük.
 
-Shigi nickte langsam. Seine Finger ruhten auf dem Tisch, bewegten sich nicht.
+„Großer Richter“, sagte der Ältere, ein baumlanger Mann mit pockennarbigem Kinn, dessen Atem weiße Schwaden in das Halbdunkel der Jurte stieß. „Wir kommen im Auftrag des ältesten Sohnes. Der Prinz lässt fragen, ob das Gesetz des ewigen Himmels noch gilt.“
 
-„Die Bitte ist angekommen“, sagte er. „Welche Aufzeichnungen genau werden erfragt?“
+Shigi legte die Feder behutsam auf den Schnitzrand des Pultes. Seine Gelenke schmerzten bei diesem Wetter; die Jahre forderten ihren Tribut, das Fleisch erinnerte sich an jeden Ritt durch Eis und Wüstensand. „Das Gesetz ruht nie, Hauptmann. Es wacht auch, wenn die Khagane schlafen.“
 
-„Die Chronik des Hauses. Die Passage über den Erben. Und alle Dokumente, die den Willen des Khagan betreffen, der vor seinem Tod geäußert wurde.“
+„Dann wacht es zu lange über einem leeren Sitz“, erwiderte der Bote ohne jedes Zögern. Die Höflichkeit war nur eine dünne Schicht Firnis über blankem Stahl. „Prinz Batu sendet erneut Boten von der Wolga. Er lässt ausrichten, seine Schenkel seien wund, die Gicht halte ihn auf dem Lager fest. Er könne nicht reiten. Nicht in diesem Mond, nicht im nächsten. Wie viele Monde soll der Herrscherstuhl noch ein Witwensitz bleiben?“
 
-Shigi hielt den Blick des jungen Mannes. Der Schreiber war gut ausgebildet, das hörte man an der Formulierung. Kein Drohen, kein Drängen. Nur eine Bitte, die keine Ablehnung vorsah.
+Batu. Der Königsmacher, der niemals kam. Shigi unterdrückte ein bitteres Lächeln. Jeder im Lager wusste, dass Batus Beine kräftig genug waren, um jedes Ross zu besteigen, doch seine Abscheu vor Güyük wog schwerer als zehntausend Zentner Blei. Solange Batu fernblieb, gab es kein vollzähliges Kuriltai. Und ohne ein Kuriltai gab es keinen rechtmäßigen Khan – nur einen Thronräuber im Pelzmantel.
 
-„Die Chronik des Hauses“, wiederholte Shigi. „Ein umfangreiches Werk. Drei Bände, wenn ich mich recht erinnere. Der letzte Wille des Khagan – eine mündliche Äußerung während eines Gelages, die von mehreren Zeugen unterschiedlich überliefert wird. Welcher Version wünscht Prinz Güyük Einsicht?“
+„Der Große Rat tritt zusammen, wenn die Fürsten versammelt sind“, sprach Shigi mit jener ruhigen, schleifenden Stimme, die er seit vierzig Jahren vor Gerichtshöfen und Thingplätzen gebraucht hatte. „So hat es Dschingis Khan bestimmt. Keiner kann den Schatten der Ahnen überspringen.“
 
-Der Schreiber zögerte. Eine winzige Pause. Shigi notierte sie im Kopf.
+Der jüngere Offizier trat einen halben Schritt vor. „Prinz Güyük verlangt keinen Schatten. Er verlangt Klarheit. Er beauftragt uns, Einsicht in die Chronik zu begehren. Welche Aufzeichnungen existieren im Blau-Weißen Buch über den letzten Willen seines erhabenen Vaters Ögedei?“
 
-„Alle vorhandenen Versionen“, sagte der Schreiber schließlich.
+Da war sie. Die Klinge, die seit Monden im Dunkeln geschliffen worden war.
 
-Shigi lächelte dünn. „Dann wird der Prinz eine Weile warten müssen. Die Chronik ist nicht am Hof. Sie wird an einem sicheren Ort verwahrt, wie es üblich ist für Dokumente, deren Alter und Bedeutung eine besondere Behandlung erfordern. Ich kann sie innerhalb von drei Tagen herbeischaffen lassen.“
+Shigi sah die beiden Männer an. Im flackernden Schein der Butterlampe glänzten die feuchten Lederriemen ihrer Rüstungen. Die Frage war höflich gekleidet, wie es sich für eine Kanzleianfrage an den Oberrichter gehörte, doch der Sinn dahinter war so spitz wie eine Pfeilspitze aus gehärtetem Horn. Sie suchten nicht nach Gerechtigkeit. Sie suchten nach einem Todesurteil.
 
-Der Schreiber nickte, notierte etwas auf einer Wachstafel.
+„Die Chronik verzeichnet das Recht“, antwortete Shigi langsam, jedes Wort wie ein schweres Holzscheit auf das Feuer legend. „Und die Sprüche der Khane werden darin verwahrt, wie Wasser in einem Brunnen gesammelt wird, damit die Nachfahren nicht verdursten. Aber die Brunnen der Kanzlei sind tief, meine Söhne. Viele Urteile betreffen Weiden, viele betreffen Pferdeherden und die Verteilung von Beutegut aus den Westlanden. Wenn der Prinz wissen will, was sein Vater verfügte, so verweise ich ihn auf die versiegelten Rollen, die Töregene Khatun hütet.“
 
-„Drei Tage. Ich werde dem Prinzen Bericht erstatten.“
+„Die Regentin schweigt“, zischte der Ältere. „Und wir fragen nicht nach Pferden. Wir fragen nach dem Erben.“
 
-„Das sollten Sie“, sagte Shigi. „Und richten Sie ihm aus, dass ich die Anfrage mit der gebotenen Sorgfalt behandele. Wie es das Gesetz verlangt. Wie ich es immer getan habe.“
+„Dann fragt den Wind über Ködens Grab“, entgegnete Shigi mit schneidender Kälte, die die beiden Männer für einen Herzschlag erstarren ließ. „Der Tod hat erst gestern das Haus des Khans heimgesucht. Ist das Lager Ögedeis schon so ehrlos geworden, dass die Aasvögel kreisen, ehe der Leichenrauch verflogen ist?“
 
-Der Schreiber verbeugte sich erneut und ging. Die Wachen folgten. Der Vorhang fiel zurück, und Shigi blieb allein in der Stille seiner Kanzlei, die plötzlich enger wirkte als noch am Morgen.
+Die Boten wechselten einen schnellen, gereizten Blick. Sie spürten die Nebelwand, die der Richter um sich aufbaute – dieses dichte Geflecht aus Respekt, Paragraphen und Zurechtweisung, an dem schon stärkere Männer als sie zerschellt waren.
 
-Er stand auf. Langsam, als müsse er jeden Muskel einzeln davon überzeugen, dass Bewegung noch möglich war. Seine Beine trugen ihn zum hinteren Teil des Zeltes, wo eine schwere Holztruhe stand, die er vor Jahren von Yelü Chucai geerbt hatte. Der kitanische Gelehrte hatte sie ihm am Tag vor seinem Tod geschenkt, mit den Worten: „Wenn du etwas zu verstecken hast, versteck es an dem Ort, den niemand für möglich hält. Unter dem, was alle sehen, aber keiner ansieht.“
+„Wir werden dem Prinzen berichten, dass der Große Richter die Schriften prüft“, sagte der Pockennarbige schließlich. Seine Hand ruhte auf dem Griff seines Dolches, unruhig, fast drohend. „Aber lasst Euch eines sagen, Shigi Qutuqu: Das Eis schmilzt. Und wer zu lange auf dem Eis verweilt, bricht ein.“
 
-Shigi öffnete die Truhe. Sie war gefüllt mit Schriftrollen, alten Urteilen, Briefen von Statthaltern aus Provinzen, deren Namen niemand mehr kannte. Ein Archiv von Papier, das niemandem etwas nützte und das doch als Deckmantel diente für das, was darunter lag.
+Sie wandten sich ab und stießen den Filzvorhang beiseite. Die Zugluft fuhr in die Jurte, ließ die Flamme der Lampe wild tanzen und warf rußige Schatten an die Holzgitter.
 
-Er hob die oberste Lage an. Seine Hände griffen tiefer, tasteten nach dem Griff der zweiten Bodenplatte. Sie gab nach, leise, und er zog das Buch hervor.
+Shigi blieb allein zurück.
 
-Die Chronik des Hauses. Das blau-weiße Buch, in dem die Geschichte der Familie aufgeschrieben war, die seine eigene ausgelöscht hatte. Dschingis Khan. Ögedei. Die Söhne. Die Töchter. Die Kriege. Siege. Niederlagen. Und dazwischen, fast beiläufig, ein Satz:
+Das war gefährlich.
 
-*Und der Khagan sprach zu seinen Vertrauten: Wenn mir etwas zustößt, soll mein Enkel Shiremün auf dem Thron sitzen, denn er hat das reine Herz, das ein Herrscher braucht. Güyük ist stark, aber stark ist nicht gütig, und ein Reich braucht beides.*
+Er stand auf. Seine Knie knackten vernehmlich in der Stille des Zeltes. Er ging zur hinteren Wand, dorthin, wo die Truhen aus dunklem Teakholz standen, beschlagen mit Eisenbändern, verziert mit verblichenen mongolischen Brandzeichen. Mit einem schweren Bronzeschlüssel, den er stets an einer Lederschnur um den Hals unter seinem Pelzkragen trug, öffnete er das Schloss der innersten Kiste.
 
-Shigi las den Satz zum hundertsten Mal. Er kannte ihn auswendig, hatte ihn in den langen Nächten der Korrektur immer wieder betrachtet, gewogen, befragt. Ein Satz, der alles veränderte. Ein Satz, den der Khagan in einer Stunde des Vertrauens gesprochen hatte, vielleicht im Rausch, vielleicht in Klarheit. Niemand wusste es mehr. Aber der Satz existierte.
+Darin lag sie.
 
-Und Güyük wusste davon.
+Keine glänzende Urkunde, keine mit Goldstaub besprengte persische Handschrift. Es war ein Stoß aus grobem Steppenpapier, gebunden zwischen zwei Platten aus getrocknetem, gehärtetem Rosshaut-Leder. Die Geheime Geschichte der Familie. Zeile für Zeile von seiner eigenen Hand niedergeschrieben, manche Seiten in der schnellen, knappen Schrift der Heerlager verfasst, manche in der bedächtigen Kanzleihandschrift, die er von den alten Kitanen gelernt hatte.
 
-Die Logik war von einer Schärfe, die Shigi in den Knochen spürte: Der Satz war für Güyük ein Todesurteil. Er erklärte ihn für unwürdig, verriet den Willen seines Vaters, öffnete die Tür für einen Bürgerkrieg mit einem Kind als Thronfolger. Für Shiremün war der Satz ein Thron – wenn er je das Licht der Welt erblickte, wenn je eine Fraktion ihn fand und nutzte. Für den Besitzer des Textes, für den Hüter des Buches, war der Satz beides: eine Waffe und ein Ziel.
+Shigi strich mit den rissigen Fingerkuppen über das Leder. Unter seinen Händen lag das Gedächtnis eines ganzen Volkes – die Triumphe, der Hunger an den Hängen des Burchan Chaldun, die Ermordung des Bruders Begter, das Blutvergießen, der Rausch der Siege. Und auf den letzten Seiten, verborgen zwischen den Feldzugsberichten aus dem Westen, jener eine fatale Absatz, den Ögedei in einer trunkenen, von Todesahnung umflorten Nacht diktiert hatte:
 
-Shigi schloss das Buch. Seine Hände zitterten nicht, aber er spürte die Kälte, die von den Seiten ausging, als hätte die Tinte die Temperatur des Todes angenommen.
+*„Mein Enkel Shiremün ist von edler Art. Ihm soll der Sitz gehören. Wenn ich nicht mehr bin, sollt ihr Shiremüns Knie umfassen und sein Wort hören…“*
 
-Er setzte sich auf den Boden, das Buch im Schoß, und dachte nach. Langsam. Gründlich. So, wie er es gelernt hatte in den Jahren des Richtens, als jeder Fall eine Ewigkeit wert war, weil jeder Fall ein Leben bedeutete.
+Ein einziger Satz.
 
-Er konnte das Buch aushändigen. Die Passage zeigen. Offiziell bestätigen, dass Ögedei Shiremün benannt hatte. Das Gesetz war auf seiner Seite – der letzte Wille des Khagan war der letzte Wille, keine Interpretation, keine Verhandlung.
+Shigi schloss für einen Herzschlag die Augen. Die Logik des Hofes war unerbittlich wie ein Wolfsrudel im tiefen Schnee. Für Güyük war dieser Satz ein Todesurteil; er würde Shiremün vernichten müssen, um sicher auf dem Thron zu sitzen. Für den jungen Shiremün war der Satz eine Krone aus glühendem Eisen, die seinen Kopf verbrennen würde, ehe er ihn heben konnte. Und für den Mann, der dieses Blatt Papier besaß?
 
-Aber er kannte Güyük. Er kannte die Zerstörungswut eines Mannes, der sich betrogen fühlte. Güyük würde das Buch nicht einfach lesen. Er würde es zerlegen. Satz für Satz, Wort für Wort, Zeuge für Zeuge, bis die Chronik nicht mehr existierte, nur noch seine eigene Version. Er würde die Passage streichen, den Boten töten, den Schreiber mundtot machen. Und Shigi selbst würde die nächste Akte sein, die er schloss.
+Für ihn bedeutete es beides. Vernichtung und Schande.
 
-Er konnte das Buch verstecken. An einem Ort, den niemand fand. In der Steppe, in den Hügeln, in den Löchern der Erde, aus denen seine Familie einst gekrochen war, bevor Dschingis Khan sie zu Staub machte.
+Wenn Töregene das Buch forderte, würde sie es verbrennen. Wenn Güyük es fand, würde er jeden hinrichten lassen, dessen Name darin nicht glänzte. Die Wahrheit war keine Richtschnur mehr in diesem Reich; sie war zu einer brennbaren Flüssigkeit geworden, die das gesamte Zelt Karakorums in Asche legen konnte.
 
-Das war ungesetzlich. Das war Verrat. Das war ein Urteil, das er nicht fällen durfte, weil es nicht in seiner Macht lag.
+*Ein Richter richtet nach dem, was geschrieben steht*, dachte Shigi. Ein bitterer Geschmack stieg in seiner Kehle auf. Doch wer beschützte das Geschriebene vor den Richtern?
 
-*Jetzt beginnt die Erbschaft*, hatte Yelü Chucai gesagt, auf dem Totenbett, seine Stimme dünn wie Pergament. *Archive sind Schlachtfelder geworden.*
+Er zog das Buch aus der Truhe. Es wog schwer in seinen Händen, schwerer als ein Eisenschwert. Jahrelang war er der Hüter gewesen, das Auge, das nicht blinzelte, die Hand, die den Pinsel ohne Zittern über das Papier führte, während draußen Köpfe fielen. Er hatte Protokoll geführt über das Morden und das Herrschen. Er hatte sich für unantastbar gehalten, weil das Gesetz unantastbar war.
 
-Shigi stand auf. Er legte das Buch auf den Tisch, öffnete es, blätterte zu der Seite. Seine Finger ruhten auf dem Satz, berührten die Buchstaben, als könne er sie spüren, die Hitze des Augenblicks, in dem Ögedei sie gesprochen hatte, die Kälte des Todes, der ihm auf den Fersen war.
+Welch ein hochmütiger Wahn.
 
-Dann schloss er das Buch. Langsam. Endgültig.
+Er wickelte den Lederband in ein altes Stück geölte Seide, dann in zwei Lagen dichten, wasserabweisenden Wollfilz. Seine Finger arbeiteten methodisch, fest, fast zärtlich, als bettete er ein neugeborenes Kind in die Wiege.
 
-Er rief seinen Gehilfen.
+Er würde die Chronik nicht ausliefern. Er würde sie weder Güyük geben, um Shiremün zu schlachten, noch Töregene, um sie im Feuer des goldenen Bechers zu tilgen. Er würde das tun, was gegen jedes Gesetz seiner Ahnen verstieß, gegen jede Pflicht seines Amtes: Er würde der Welt die Wahrheit entziehen.
 
-Der alte Khorchin kam auf leisen Sohlen, ein Mann in den Siebzigern, dessen Gesicht von Wind und Frost gezeichnet war. Er hatte Shigi gedient, seit das Kind aus den Trümmern des Tatarenlagers gezogen worden war. Er wusste alles, ohne je zu fragen.
+Er trat an den Ausgang und klopfte dreimal mit dem Schaft seines Messers gegen die Pfoste.
 
-„Ich brauche einen Reiter“, sagte Shigi. „Einen, dem ich vertraue wie mir selbst. Keinen aus dem Hofstaat. Keinen, der gesehen wird. Einen, der in die Steppe reitet und nicht zurückkommt, bevor ich es sage.“
+Wenige Augenblicke später glitt eine Gestalt durch den Filz. Es war Mönke-Temür, ein Mann aus Shigis eigenem Stamm, ein Tatar, dessen Gesicht von den Winden der Kalka gegerbt war wie altes Sattelzeug. Er trug die einfache Tracht eines Hirten und roch nach Schafwolle, Pferdemist und trockenem Gras – der Geruch von Männern, die keine Paläste brauchten, um zu leben. Sie kannten sich seit vierzig Wintern; Mönke-Temür hatte mit Shigi am Selenga geritten, als Dschingis Khan noch ein Mann aus Fleisch und Blut war und kein Mythos im Himmel.
 
-Der alte Khorchin nickte. „Jigüdei. Der Sohn deiner Schwester. Er hütet Pferde auf der Nordweide, drei Tagesritte von hier. Niemand kennt ihn am Hof. Niemand wird ihn suchen.“
+„Du hast gerufen, Richter?“, fragte der Alte leise, ohne die Augen zu heben.
 
-„Jigüdei“, wiederholte Shigi. Der Name war ihm vertraut, aber das Gesicht war verschwommen – er hatte den Jungen Jahre nicht gesehen, seit er ihm zur Geburt einen Segen geschickt hatte. Ein entfernter Verwandter, ein Bote der Steppe.
+Shigi reichte ihm das Filzbündel. Mönke-Temür nahm es entgegen. Seine Hände waren breit, mit abgearbeiteten Nägeln, doch er hielt das Paket mit einer instinktiven Ehrfurcht, als spürte er das Gewicht der Ahnen darin.
 
-„Er reitet noch heute“, sagte der Khorchin. „Was soll er tragen?“
+„Du reitest heute Nacht“, sagte Shigi, und seine Stimme war kaum mehr als ein Flüstern gegen das Pfeifen des Windes. „Nicht auf den Poststraßen. Nicht dorthin, wo die Kanzleireiter die Pferde wechseln. Nimm die Wege der Jäger. Nach Norden. Über die Kalka hinauf, dorthin, wo die Wälder an die Steppe stoßen. In das Land, aus dem unsere Wiegen stammen.“
 
-Shigi griff in die Truhe, zog einen Beutel aus gegerbtem Leder hervor. Er legte das Buch hinein, wickelte es in Filz, dann in eine zweite Schicht aus Ziegenhaut. Der Beutel wurde verschnürt, zugebunden, mit Wachs versiegelt. Das Siegel trug das Zeichen des Hauses – die geflügelte Sonne, die Dschingis Khan einst als sein Emblem gewählt hatte.
+Mönke-Temür nickte langsam. „Und dort?“
 
-„Er soll dieses Buch in die Steppe bringen“, sagte Shigi. „Zu den Hügeln von Burkhan Khaldun, wo die Gräber der Vorfahren liegen. Er soll es vergraben, an einem Ort, den nur er kennt. Und er soll zurückkommen, sobald es getan ist, und mir sagen, wo es liegt.“
+„Vergrab es“, sprach Shigi, und jedes Wort schnürte ihm die Kehle zu. „Wickle es in Birkenrinde und trockenes Leder. Leg Steine darauf, wie man sie auf ein Grab legt, das kein Feind schänden soll. Sag niemandem davon. Nicht deiner Frau, nicht deinen Söhnen. Wenn der Himmel will, dass dieses Reich den Verstand wiedererlangt, wird ein Tag kommen, an dem ein Mann die Steine beiseiteschiebt.“
 
-Der Khorchin nahm den Beutel. Seine Hände waren ruhig.
+„Und wenn dieser Tag nicht kommt?“
 
-„Richter Shigi“, sagte er leise. „Wenn man dich fragt, was geschehen ist?“
+„Dann schläft es dort besser als in den Klauen dieser Brut“, entgegnete Shigi grimmig.
 
-„Dann werde ich sagen, dass die Chronik archiviert wurde. Dass sie an einem sicheren Ort verwahrt wird. Dass alle Anfragen nach Einsicht schriftlich zu stellen sind und dass ich sie prüfen werde, wie das Gesetz es vorsieht. Mehr nicht.“ Er hielt inne. „Weniger nicht.“
+Mönke-Temür verbarg das Bündel unter seinem weiten Schaffellmantel, drückte es an seine Brust und sah Shigi mit trüben, alten Augen an. „Du bleibst im Maul des Wolfes, Shigi.“
 
-Der alte Mann verbeugte sich und ging. Shigi hörte das Zischen des Vorhangs, das Knirschen seiner Schritte im Schnee, das leise Wiehern eines Pferdes, das auf den Reiter wartete.
+„Der Wolf hat schlechte Zähne bekommen“, erwiderte Shigi mit einem Anflug jenes trockenen Humors, der ihn durch all die Jahre des Blutes getragen hatte. „Reite, mein Bruder. Ehe der Morgen den Frost von den Zeltplanen leckt.“
 
-Dann war Stille.
+Ein stummes Nicken, eine Berührung der Fäuste – nach alter Nomadenart –, dann war der Mann verschwunden. Draußen verklang das leise Scharren von Hufen im gefrorenen Gras. Das Buch war unterwegs. Hinaus in die schweigende Weite, aus der es geboren worden war.
 
-Er setzte sich wieder, starrte auf den leeren Tisch, auf die Stelle, an der das Buch gelegen hatte. Fünf Jahre Arbeit. Die Stimmen der Toten, die er gesammelt hatte, die Geschichten, die er bewahrt hatte, die Wahrheit, die er nicht ausgelöscht, sondern verborgen hatte. Er fühlte keine Erleichterung. Keine Befreiung. Nur die Kälte eines Urteils, das er über sich selbst gefällt hatte.
+Shigi atmete tief ein. Die Jurte schien mit einem Mal seltsam hohl, als hätte jemand die Seele aus den Hölzern gesaugt.
 
-Zum ersten Mal hatte er die Wahrheit nicht nur verzerrt, sondern entzogen.
+Er trat vor das Zelt. Der Wind schnitt ihm wie eine Klinge ins Gesicht. Über Karakorum wölbte sich ein Himmel von fahlem Blei; graue Wolkenfetzen jagten über die Zinnen der unfertigen Lehmmauern. Überall im Heerlager brannten Feuer, um die Pferde warmzuhalten. Der Qualm von getrocknetem Mist lag schwer über den Gassen.
 
-Am späten Nachmittag, als die Sonne hinter den Bergen versank und die Schatten länger wurden, erschien Güyük persönlich.
+Shigi schritt den gefrorenen Weg hinab in Richtung der Kanzleijurten. Seine Schritte waren gemessen, unerschütterlich. Wenn man alt war, durfte man keine Eile zeigen; Eile war das Eingeständnis von Furcht, und Furcht war das einzige Fleisch, von dem sich die Prinzen ernährten.
 
-Shigi hörte die Schritte, bevor er den Vorhang sah. Schwer, bestimmt, ohne das Zögern eines Bittstellers. Güyük schob den Stoff zur Seite und trat ein, ohne auf ein Willkommen zu warten.
+An der Kreuzung der Lagerstraßen, dort, wo die Banner der Leibwache im Wind knallten wie Peitschenhiebe, stockte sein Schritt nicht, doch sein Körper spannte sich an.
 
-Er trug keinen Schmuck, keine Rangabzeichen. Nur eine einfache Lederrüstung und einen Gürtel, an dem ein Dolch hing, dessen Scheide abgenutzt war. Seine Augen waren kalt, unter den Brauen verborgen, die Wangen von Wind und Frost gerötet.
+Güyük ritt heran.
 
-„Richter Shigi Qutuqu“, sagte Güyük. Nicht als Gruß. Als Feststellung.
+Der Prinz saß auf einem gewaltigen Rappen aus dem Westen, dessen Flanken dampften. Er trug keine Paradekleidung, keinen Goldbrokat wie seine Mutter Töregene, sondern einen schlichten, schweren Panzer aus geschwärztem Eisen unter einem Mantel aus Wolfsfell. Seine Züge waren wie aus Kieselstein gehauen: flache Wangenknochen, ein schmaler, fast lippenloser Mund, und Augen, in denen nichts brannte außer dem kalten Willen zur Unterwerfung. Hinter ihm hielten zwanzig Panzerreiter, die Bogen in den Futteralen, die Gesichter starr.
 
-„Prinz Güyük“, antwortete Shigi. Er stand auf, verbeugte sich korrekt, ohne Übertreibung. „Ich wusste nicht, dass Sie selbst kommen würden.“
+Güyük zügelte sein Pferd zwei Schritt vor Shigi. Das Ross schnaubte, der Huf schlug ungeduldig auf die gefrorene Erde.
 
-„Ich komme, wenn ich etwas will“, sagte Güyük. „Und ich will Antworten. Mein Schreiber hat mir berichtet, dass die Chronik nicht verfügbar ist. Dass sie an einem ‚sicheren Ort‘ verwahrt wird. Dass ich drei Tage warten muss. Hast du ihn belogen, Shigi?“
+Die Luft zwischen ihnen wurde mit einem Schlag dünn.
 
-„Nein“, sagte Shigi ruhig. „Ich habe ihm gesagt, was ich ihm sagen konnte. Die Chronik ist nicht in dieser Kanzlei. Sie wird in einem Tresor aufbewahrt, der mehrere Tagesreisen entfernt liegt. Ich habe einen Boten geschickt, um sie zu holen. Drei Tage, wie versprochen.“
+Shigi verneigte sich leicht – nicht tiefer als nötig, gerade so viel, wie der Anstand vor dem Sohn des Khagans gebot.
 
-Güyük trat näher. Seine Schritte waren langsam, seine Schultern breit, sein Schatten fiel über den Tisch. Er blieb stehen, einen halben Schritt von Shigi entfernt. Keiner von ihnen bewegte sich.
+Güyük sah von seinem Sattel auf ihn herab. Sein Blick glitt über den alten Richter, prüfend, kalt, wie ein Schlächter, der ein Rind taxiert. Er erinnerte sich. Shigi sah es in dem leisen Zucken des linken Augenlids des Prinzen: Er erinnerte sich an jenen Tag vor Jahren, als Shigi ihm eine Akte verweigert hatte, als der Richter das Gesetz über den Zorn des Prinzen gestellt hatte. Güyük vergaß nichts. Er war ein Mann, der Beleidigungen sammelte wie Pfeile im Köcher, bereit, sie alle auf einmal abzuschießen.
 
-„Ich erinnere mich an dich“, sagte Güyük leise. „Weißt du noch, Shigi? Damals, als ich die Akte meines Vaters sehen wollte. Du hast sie mir gegeben, ich habe sie gelesen, und sie war leer. Nichts als Formeln. Keine Namen. Keine Beweise. Du hast mir das Gefühl gegeben, ein Idiot zu sein, der nicht versteht, was er liest.“
+„Richter“, sagte Güyük. Die Stimme war heiser, kurz angebunden, jedes Wort ein Befehl.
 
-Shigi antwortete nicht.
+„Prinz“, erwiderte Shigi.
 
-„Das hast du damals nicht zugegeben“, sagte Güyük. „Aber ich wusste es. Du wusstest es. Und jetzt tust du es wieder. Du hältst etwas zurück. Etwas, das mir gehört. Das Erbe meines Vaters. Die Wahrheit über den Tod des Khagan. Den letzten Willen, der mich betrifft.“ Er beugte sich vor, sein Gesicht nah an Shigis. „Ich will sie haben. Alle. Und ich werde nicht zulassen, dass du sie versteckst hinter deinen Paragraphen und Registern. Hörst du?“
+Güyüks Blick bohrte sich in die Augen des Tataren. Es war kein Gespräch; es war das Vorüberziehen zweier Heere auf Rufweite. Zwischen ihnen lag kein unausgesprochenes Missverständnis, sondern ein unerklärter, tödlicher Krieg. Der Krieg zwischen dem geschriebenen Wort und dem gezückten Schwert.
 
-Shigi hielt seinem Blick stand. Der Schweiß auf seiner Stirn blieb unsichtbar.
+Güyük gab seinem Pferd die Schenkel. Das Tier machte einen Satz vorwärts, die Hufe schleuderten gefrorene Schlammbrocken gegen Shigis Stiefel, während die Leibwache wie eine dunkle Wand an dem alten Mann vorbeidonnerte.
 
-„Prinz Güyük“, sagte er. „Ich diene dem Gesetz. Ich habe meinem Herrn, dem Khagan, in Treue gedient. Ich diene jetzt der Regentin, wie es die Ordnung verlangt. Ich habe nie gelogen. Ich habe nie eine Akte gefälscht. Ich habe nie eine Information zurückgehalten, die einem rechtmäßigen Erben zusteht. Aber ich kann nur geben, was ich habe. Die Chronik kommt in drei Tagen. Sie werden sie sehen. Danach werden Sie urteilen.“
+Kein weiteres Wort. Kein Gruß.
 
-Güyük starrte ihn an. Die Sekunden vergingen. Das Zelt war still, so still, dass Shigi das Herz des anderen schlagen hörte – oder war es sein eigenes?
+Shigi blickte den Reitern nicht nach. Er schmeckte den feinen Staub auf seinen Lippen, den bitteren Geruch von Eisen und Pferdeschweiß, der in der Luft hing. Die Botschaft war klarer gewesen als jedes kaiserliche Dekret: Wenn Güyük den Thron bestieg, würde Karakorum kein Ort für Richter mehr sein.
 
-„Drei Tage“, wiederholte Güyük. „Wenn sie nicht in drei Tagen vor mir liegt, wirst du mich nicht noch einmal belügen müssen. Weil du dann nicht mehr reden wirst, Shigi Qutuqu. Nicht mit mir. Nicht mit irgendwem. Hast du verstanden?“
+Er ging langsam zurück zu seiner Jurte.
 
-„Ja“, sagte Shigi. „Ich habe verstanden.“
+Drinnen war es still. Das Feuer war heruntergebrannt, nur noch ein paar rote Glutaugen glommen in der Asche. Auf dem niedrigen Tisch lag der leere Streifen Seide, den er nicht gebraucht hatte.
 
-Güyük trat zurück, drehte sich um, ging zum Ausgang. An der Öffnung hielt er inne, drehte den Kopf halb zur Seite.
+Shigi trat an die Teakholztruhe. Der Deckel stand noch offen. Er blickte in die Schwärze des Kastens, dorthin, wo das Buch vierzig Jahre lang geruht hatte. Jetzt lag dort nur noch das Holz, staubig, nackt, ohne Zeugnis.
 
-„Deine Mutter war eine Tatarenfrau, nicht wahr?“, sagte er. „Eine, die Dschingis Khan getötet hat. Er hat dich aufgezogen. Dich, den Sohn seiner Feinde. Und du bist ein treuer Diener geworden. Hübsche Geschichte, findest du nicht?“
+Ein seltsames Gefühl erfasste ihn, eine Mischung aus Trauer und einer fast befreienden Leere.
 
-Shigi antwortete nicht.
+Er dachte an Yelü Chucai. An den alten Kitanen mit dem langen, weißen Bart, der wie ein Fels in den Brandungswellen des Hofes gestanden hatte, bis Töregenes Ränke ihn gebrochen hatten. Er erinnerte sich an Chucais Begräbnis, an jenen Tag im eisigen Regen, als Fatima neben ihm gestanden hatte – die persische Schreiberin mit den wachen, unglücklichen Augen, die wie er wusste, wie man mit Tinte die Welt bewegte.
 
-Güyük lächelte. Es war kein schönes Lächeln. „Pass auf, dass die Geschichte nicht in ihr Gegenteil kippt. Ein Diener, der seinen Herrn betrügt – das wäre eine viel kürzere Geschichte. Und die endet immer gleich.“
+*„Wenn die Khagane sterben, mein Freund“*, hatte Yelü Chucai einst zu ihm gesagt, während sie im Kanzleizelt über Steuerlisten gesessen hatten, *„bleiben nur die Akten zurück. Aber wenn die Erben kommen, beginnen sie den Krieg nicht auf den Feldern. Sie beginnen ihn in den Truhen.“*
 
-Der Vorhang fiel. Die Schritte entfernten sich. Shigi stand allein im Zelt, das kalte Licht des Abends fiel durch die Lücken des Filzes, zeichnete Muster auf den Boden.
+Jetzt begann die Erbschaft.
 
-Er setzte sich wieder. Seine Hände lagen flach auf dem Tisch, die Finger gespreizt, als müssten sie das Gewicht des Tages tragen. Der Schweiß, den er nicht gezeigt hatte, brach jetzt aus, lief über seine Schläfen, sammelte sich in den Falten seiner Wangen.
+Shigi schloss den Deckel der Kiste. Das Eisenband fiel mit einem dumpfen, endgültigen Schlag ins Schloss. Er drehte den Schlüssel nicht um. Es gab nichts mehr darin zu verschließen.
 
-Drei Tage.
+Archive waren keine Zufluchtsorte des Rechts mehr. Sie waren zu Schlachtfeldern geworden, auf denen jedes Wort eine Waffe und jedes Blatt Pergament ein Schild war.
 
-Er wusste, dass Jigüdei sieben brauchen würde, um die Hügel von Burkhan Khaldun zu erreichen. Drei Tage waren eine Lüge, eine Illusion, ein Versprechen, das er nicht halten konnte.
+Er hatte sein ganzes Leben damit verbracht, die Wahrheit zu messen, sie abzuwägen auf den feinen Waagschalen des Jasaq, getreu dem Eid, den er Hö'elün und Temüjin geleistet hatte. Er war stolz darauf gewesen, niemals zu beugen, was geschehen war. Doch heute hatte er zum ersten Mal gehandelt wie die Fürsten, die er verachtete. Er hatte die Waage zerschlagen. Er hatte die Wahrheit der Welt entzogen, hatte sie der Erde anvertraut, damit die Menschen sie nicht zerrissen.
 
-Aber er konnte die Tage nutzen. Konnte sie füllen mit dem Nebel der Bürokratie, mit Formeln und Verfahren und Prüfungen, die nichts prüften außer die Geduld dessen, der sie überreichte. Konnte dem jungen Prinzen das Gefühl geben, dass er kämpfen musste, dass die Wahrheit sich nicht einfach nehmen ließ, dass der Besitz eines Satzes nicht den Besitz der Macht bedeutete.
+Er setzte sich wieder auf den Filz, nahm die Rohrfeder zur Hand und tunkte sie in die dunkle, rußige Tinte.
 
-Er griff nach dem Federkiel, tauchte ihn ein, zog ein Blatt Papier aus dem Stapel. Seine Hand war ruhig, die Schrift klar und gleichmäßig.
+Vor ihm lag ein neues, unberührtes Blatt. Er begann zu schreiben – eine höfliche, ausschweifende, vollkommen nutzlose Antwort an den Prinzen Güyük über die alten Weiderechte der Ögedei-Familie.
 
-*Betrifft: Anfrage auf Einsichtnahme in die Chronik des Hauses, Band III, Absatz über den letzten Willen des Khagan Ögedei.*
+Draußen wehte der Wind den ersten Schnee über die Gräber von Karakorum.
 
-*Die Anfrage des Prinzen Güyük ist eingegangen und wird bearbeitet. Da die Chronik aus konservatorischen Gründen an einem externen Ort verwahrt wird, beträgt die Bearbeitungszeit voraussichtlich drei Tage. Sollten zusätzliche Prüfungen der Authentizität oder Vollständigkeit erforderlich sein, bitte ich um Mitteilung, mit welchen Verfahren der Prinz einverstanden ist.*
-
-Er unterschrieb. Das Siegel drückte er fest, das Wachs zischte unter dem warmen Metall.
-
-Dann legte er den Stift nieder, lehnte sich zurück, schloss die Augen.
-
-Die Toten sprachen nicht mehr. Die Lebenden auch nicht. Nur die Stille in seinem Kopf, die sich langsam mit Yelü Chucais Worten füllte:
-
-*Jetzt beginnt die Erbschaft. Archive sind Schlachtfelder geworden.*
-
-Shigi Qutuqu, Sohn der Tataren, Hüter der Chronik des Hauses, der die Wahrheit versteckt hatte, um sie zu retten, öffnete die Augen und sah in der Dunkelheit des Zeltes die Gesichter derer, die vor ihm gekommen waren. Dschingis Khan, der ihn vom Schlachtfeld gehoben hatte. Hö'elün, die ihn aufgezogen hatte, ohne zu fragen, woher er kam. Ögedei, der ihm vertraut hatte, bis zum Ende. Yelü Chucai, der ihn gewarnt hatte.
-
-Er war der letzte Hüter einer Wahrheit, die niemand hören wollte. Und er hatte sie vergraben, in den Hügeln der Steppe, wo die Gräber der Vorfahren lagen und der Wind die Namen der Toten trug, bis auch sie vergingen.
-
-Das war die einzige Wahrheit, die blieb: dass alles verging. Und dass das, was blieb, die Geschichten waren, überlebt in der Dunkelheit, verborgen vor denen, die sie zerstören würden, aufbewahrt für eine Zeit, in der sie nicht mehr als Waffe dienten, sondern als Erinnerung.
-
-Vielleicht kam diese Zeit nie.
-
-Vielleicht war das die wahre Aufgabe des Chronisten: zu schreiben, zu verstecken, zu warten, zu hoffen – und am Ende zu sterben, ohne je zu wissen, ob das, was er bewahrt hatte, je gelesen werden würde.
-
-Shigi Qutuqu stand auf, löschte die Lampe, legte sich auf seinen Filz.
-
-Draußen, jenseits der Zeltwand, ritt ein Bote durch die Nacht, ein Beutel mit einem Buch auf dem Rücken, die Hügel von Burkhan Khaldun vor sich, die Vergangenheit hinter sich.
-
-Und in der Kanzlei des Richters, in der Dunkelheit des Zeltes, hörte niemand das leise Geräusch eines Mannes, der weinte, ohne einen Laut zu machen.
-
----

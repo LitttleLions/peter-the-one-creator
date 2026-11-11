@@ -5,120 +5,119 @@
 
 ---
 
-Fatima saß in der Dunkelheit ihres Zeltes und hörte den Wind. Er trug den Geruch von verbranntem Holz und kaltem Stein, den Geruch einer Nacht, die nicht enden wollte. Sie hatte die Lampe nicht angezündet. Sie brauchte kein Licht, um zu wissen, was sie tun musste.
+Der Wind über dem Orchon-Tal trug den Geruch von kaltem Aschestaub und gefrorenem Pferdehaar heran, als schnüre der Winter die Kehle der Stadt mit einem Riemen aus nassem Leder zu. 
 
-Die Truhe stand offen vor ihr, der Deckel zurückgeschlagen wie ein aufgerissener Mund. Sie hatte sie vor einer Stunde aus dem Versteck unter der losen Diele geholt, hatte sie auf den Filz gestellt, hatte die Hände auf den Deckel gelegt und gewartet. Auf was? Auf einen Befehl, der nicht kommen würde. Auf eine Stimme, die längst verstummt war. Töregene war tot. Abd ar-Rahman war tot. Die Reihenfolge war klar, wenn man sie zu lesen verstand.
+Fatima kniete vor der eisernen Kohlenpfanne in ihrer Jurte am Viehgraben. Die Glut war herabgebrannt zu einem matten, dunkelroten Glosen, das kaum Wärme spendete, aber genügte, um die Ränder von getrocknetem Schilfpapier zum Fressen gern zu haben. Draußen schlugen die Spannseile im Wind, ein rhythmisches, hartes Peitschen gegen den Filz. Jedes Geräusch war ein Zählen von Herzschlägen. 
 
-Erst das Vermögen. Dann die Vertrauten.
+Sie wusste um die Reihenfolge. Sie hatte sie zwanzig Jahre lang studiert, erst als Beute, dann als Schatten, schließlich als Hand, die hinter Töregenes Seidenärmel die Fäden hielt. Die Säuberung eines Reiches geschah niemals planlos; sie besaß die mechanische Eleganz einer Schlachtung im Spätherbst. Zuerst nahm man den Toten ihre Siegel. Dann brach man die Speicher auf und köpfte die Verwalter – Abd ar-Rahman lag bereits mit zertrümmertem Rückgrat im Schlamm jenseits der Erdwälle, sein Gold gewogen, seine Knechte verteilt. Dann tilgte man die Schreiber der alten Ordnung; Chinqais zerbrochenes Amtszeichen war noch feucht von Kanzleitinte, als sein Kopf fiel. Und danach, unausweichlich wie der Frost nach der ersten Rauhreifnacht, kamen die Zeugen. Die Vertrauten. Die Frauen, die gewusst hatten, welcher Becher zu welcher Stunde gereicht worden war.
 
-Sie hatte den Termin nicht gewusst, aber sie hatte die Richtung gewusst. Sie hatte es gewusst, seit Güyük ihr in der Nacht des Kuriltai ins Ohr geflüstert hatte, dass er sie zwingen würde, die Wahrheit zu sagen, bevor er sie töten ließ. Sie hatte es gewusst, als Töregene ihr den goldenen Becher gezeigt hatte. Sie hatte es gewusst, als sie die Briefe schrieb, die sie jetzt verbrennen würde.
+Fatima kannte den Tag nicht, an dem die Wachen des Khagans ihre Jurte aufreißen würden. Aber sie kannte die Richtung des Windes. 
 
-Sie zündete die Lampe an.
+Sie würde nicht warten, bis fremde Fäuste ihre Truhe zertrümmerten.
 
-Das Licht fraß sich durch die Dunkelheit, langsam, widerwillig, als ob es selbst wüsste, was es sehen würde. Die Truhe war voller Papier. Briefe, die sie geschrieben hatte, Briefe, die sie empfangen hatte, Briefe, die sie nie abgeschickt hatte. Die Namen der Lebenden, die Daten der Toten, die Zahlen der Steuern, die sie umgeleitet hatte, die Bittgesuche, die sie bewilligt hatte, die Drohungen, die sie in Höflichkeit gekleidet hatte.
+Vor ihr auf dem abgewetzten Teppich lagen die Blätter ausgebreitet. Zehn Jahre Reich, gebannt auf persisches Seidenpapier, auf chinesische Rindenblätter, auf das grobe, faserige Zeug, das man in den Werkstätten von Samarkand aus Hadern schöpfte. Es roch nach getrockneter Gallapfeltinte, nach altem Gummiarabikum und dem feinen, fast verflogenen Hauch von Rosenwasser, mit dem sie einst die Briefe aus Chorasan bestrichen hatte.
 
-Die ehrlichste Chronistin des Buches redigierte sich selbst.
+In Fatimas Erinnerung war Maschhad kein Ort auf einer zerfledderten Reichslandkarte gewesen, sondern das warme Nachmittagslicht in den Höfen ihres Vaters, das Klopfen der Holzpressen und das helle Lachen ihrer Schwester, ehe die Reiter kamen und die Brunnen mit Leibern füllten.
 
-Sie begann mit den Briefen, die Namen enthielten. Die Namen der Männer, die Töregene gestützt hatten, die Namen der Frauen, die ihr vertraut hatten, die Namen der Kinder, die in den Ordos lebten, von denen niemand wusste, dass sie existierten. Sie las jeden Brief ein letztes Mal, dann hielt sie ihn über die Flamme.
+Sie nahm das oberste Blatt. Es war ein Rechnungsbeleg aus dem Frühjahr 1242, abgezeichnet mit ihrem eigenen Zeichen, der kleinen geschwungenen Schleife, die Töregene so geliebt hatte. Vierzig Ballen Seide für die Boten aus Täbris. Darunter, in winzigen, persischen Schriftzügen am Rand notiert: *Die Kereiten-Köche wurden in jener Nacht ausgetauscht. Der Wein schmeckte nach Mandeln.*
 
-Das Papier brannte langsam, widerwillig, wie das Licht. Die Tinte wurde schwarz, dann braun, dann grau, dann Asche. Die Worte, die sie geschrieben hatte, die Sätze, die sie gefunden hatte, die Wahrheit, die sie verborgen hatte, um zu überleben – alles wurde zu Asche.
+Fatima hielt das Blatt über die Glut. 
 
-Sie verbrannte die Briefe an ihre Schwester nicht. Die Tote konnte niemanden verraten.
+Das Papier rollte sich zusammen. Die Ränder schwärzten sich, glühten golden auf und zerfielen in feine, lautlose Flocken. Sie sah zu, wie ihr eigenes Gedächtnis verbrannte. 
 
-Sie sortierte weiter. Die Briefe, die sie von Töregene erhalten hatte, die Briefe, die sie an Töregene geschrieben hatte, die Briefe, die sie nie abgeschickt hatte, die Briefe, die sie nie schreiben würde. Sie legte sie in zwei Haufen: den Haufen der Asche und den Haufen der Erinnerung.
+Namen. Daten. Die Liste der Kuriere, die damals das Reichssiegel heimlich nach Norden getragen hatten. Die Notizen über Ködens Fieber und die Namen der Heiler, die versucht hatten, das Gift aus seinen Eingeweiden zu brennen, bevor er im Delirium ihren Namen schrie. Wenn Güyüks Richter diese Blätter fänden, würden hundert Menschen sterben, bevor die Sonne den Zenit erreichte. Unschuldige Schreiber, Stallburschen, die Boten der Poststationen.
 
-Der Haufen der Erinnerung war klein. Er enthielt nichts, was einen Lebenden gefährden konnte. Er enthielt nichts, was einen Namen nannte, der noch atmete. Er enthielt die Briefe an ihre Schwester, die Briefe an sich selbst, die Briefe, die sie geschrieben hatte, um zu überleben.
+Sie strich die Asche mit den Fingerspitzen nieder. Der Ruß setzte sich tief in die Rillen ihrer Haut, dort, wo die Tinte der Kanzlei ohnehin seit einem Vierteljahrhundert wohnte.
 
-Sie nahm das Federetui ihres Vaters aus der Truhe. Es war das Letzte, was sie von ihm hatte, das Letzte, was sie von einem Leben hatte, das nicht aus Dienst und Angst bestand. Sie öffnete es, strich über die Federn, die er geschnitzt hatte, die Federn, die sie benutzt hatte, um die Briefe zu schreiben, die sie verbrannt hatte, die Federn, die sie benutzt hatte, um die Briefe zu schreiben, die sie retten würde.
+Sie redigierte nicht für die Macht. Sie redigierte für das Überleben derer, die noch atmeten. 
 
-Sie legte das Federetui auf den Haufen der Erinnerung.
+Am Ende blieben nur jene Blätter übrig, die keine Namen von Lebenden nannten. Die Briefe an ihre tote Schwester. Zeilen, geschrieben in der Einsamkeit der Nächte, wenn der Khagan betrunken schlief und Töregene im Zorn über ihre Söhne weinte. Zeilen, die nichts enthielten als das Nackte, das Wesentliche: wie ein Weltreich erbaut wurde aus Blut, Angst und dem unstillbaren Hunger nach Unterwerfung. Die Wahrheit über den Tod Ögedeis. Die Wahrheit über eine Regentin, die sich selbst zur Kaiserin gekrönt hatte, um nicht wieder zur Kriegsbeute herabzusinken.
 
-Dann begann sie, das Bündel zu wickeln.
+Es war eine Chronik der Schatten. 
 
-Sie nahm den Filz, den sie vorbereitet hatte, den Filz, der dick genug war, um die Kälte abzuhalten, der dick genug war, um die Feuchtigkeit abzuhalten, der dick genug war, um die Zeit abzuhalten. Sie legte die Briefe darauf, die Briefe, die sie retten würde, die Briefe, die die Wahrheit sagten, die niemand hören wollte, die Briefe, die sie geschrieben hatte, um zu überleben.
+Fatima glättete die verbliebenen Bogen mit der flachen Hand. Dann griff sie nach dem langen, schmalen Gegenstand, der neben der Glut lag: das Federetui ihres Vaters. Ein Qalamdān aus dunklem Nussbaumholz, mit feinen Einlegearbeiten aus Perlmutt und Knochen versehen, an den Ecken bestoßen von dreißig Jahren Wanderung durch Wüsten, Jurtenlager und Kanzleien. Das Holz roch nach dem Wachs der väterlichen Werkstatt und nach den getrockneten Pflaumen, die er zwischen den Federn aufbewahrt hatte, um die Spitzen geschmeidig zu halten.
 
-Sie legte das Federetui dazu.
+Ihre Finger glitten über das Holz, weich und kühl, während draußen der Wind durch die Filzwände heulte. Es war das letzte Stück ihrer Kindheit. Der letzte Beweis, dass sie eine Tochter gewesen war, bevor man sie zur Beute, zur Sklavin und zur Kanzlerin machte.
 
-Sie wickelte den Filz um die Briefe, fest, langsam, sorgfältig, wie ein Leichentuch. Sie band die Schnüre, die sie vorbereitet hatte, die Schnüre, die stark genug waren, um das Bündel zu halten, die Schnüre, die stark genug waren, um die Zeit zu halten. Sie zog die Knoten fest, prüfte sie, zog sie noch einmal fest.
+Sie legte die Bogen bündig zusammen. Sie legte das Qalamdān mittig auf den Stapel.
 
-Das Bündel lag in ihren Händen, schwer, kalt, endgültig.
+Dann nahm sie den groben, grauen Steppenfilz, den sie zurechtgeschnitten hatte. Dreilagig geschlagene Schafwolle, imprägniert mit Talg gegen die Nässe des Schnees. Sie schlug den Filz um das Papier und das Holz, straff, unerbittlich, bis ein festes, schweres Paket entstand. Mit einem geölten Lederriemen band sie es kreuzweise ab, zog die Knoten mit den Zähnen fest, so wie die Nomadenfrauen die Lasten auf die Kamele zurrten. 
 
-Sie ging.
+Kein Siegel. Kein Zeichen. Ein Päckchen aus Dreck, Wolle und Fleisch.
 
-Die Nacht war kalt, der Wind scharf, die Stille drückend. Sie trug das Bündel unter ihrem Mantel, dicht am Körper, als ob es ihr letztes Kind wäre, als ob es ihr letztes Leben wäre. Sie ging durch die Gassen des Lagers, vorbei an den Zelten der Wachen, vorbei an den Feuerstellen, die langsam verglühten, vorbei an den Schatten, die sich bewegten, die sie nicht sahen.
+Sie stand auf. Ihre Knie knackten in der Stille des Zeltes. Unter der schweren Wolle ihres Mantels pochte ihr Herz, hart und regelmäßig wie die Hufe eines Botenpferdes auf gefrorenem Grund.
 
-Sie dachte an Shigi Qutuqu.
+Sie trat hinaus in die Nacht.
 
-Sie hatte ihn jahrelang geprüft. Sie hatte ihn geprüft, als er in Kapitel 7 ihren Namen aus der Liste der Verhörten gestrichen hatte. Sie hatte ihn geprüft, als er in Kapitel 14 den Moment der Ehrlichkeit mit ihr geteilt hatte, den Moment, in dem er gesagt hatte, dass Macht bedeute, die Lüge der Wahrheit vorzuziehen. Sie hatte ihn geprüft, als er Yelü Chucai die letzte Ehre erwiesen hatte, als er die Papiere des toten Gelehrten gesichert hatte, als er die Chronik des Hauses vergraben hatte, um sie zu retten.
+Karakorum schlief nicht; eine Stadt aus Jurten schlief niemals ganz. Das Lager atmete im Takt des Windes. Aus den fernen Pferchgattern drang das dumpfe Stampfen der Herden, dazwischen das Heulen eines Steppenhundes, der den Geruch von Wölfen im Wind witterte. Überall glosten Wachfeuer, rote Augen in der pechschwarzen Ebene. Die Wachen trugen schwere Filzmäntel und Bogenfutterale aus Birkenrinde; sie musterten die Gestalt, die durch die Zeltgassen glitt, hielten sie aber nicht an. Eine alte Frau, eine Dienerin auf dem Weg zu den Küchen, dachten sie vielleicht. Oder ein Geist. In Karakorum sah man viele Geister in diesen Nächten.
 
-Sie hatte ihn geprüft, und er hatte bestanden.
+Fatima hielt das Bündel unter dem linken Arm, eng an ihre Rippen gepresst. Es wärmte sie nicht; es war schwer wie ein Stein aus dem Flussbett des Orchon.
 
-Er behandelte Texte wie Menschen. Er wusste, dass Worte lebten, dass Worte starben, dass Worte gerettet werden mussten, bevor die Zeit sie fraß.
+Sie kannte den Weg im Schlaf. Vorbei an den verlassenen Wagen der Regentin, an denen die Seidenschabracken im Frost klirrten wie Glas. Vorbei an den Zelten der Kanzleischreiber, wo in einem einzigen Fenster noch schwaches Licht schimmerte – Juvaini, dachte sie, und ein feiner, schneidender Schmerz durchfuhr ihre Brust. Sie hielt nicht an. Sie wandte den Kopf nicht einmal nach seinem Zelt. Seine Jugend konnte sie nicht retten; sein Dichterherz war ohnehin bereits von der Kanzlei zernagt. Ihn jetzt zu berühren, hieße, ihn mit in die Grube zu ziehen.
 
-Sie erreichte sein Zelt.
+Ihr Ziel lag am östlichen Rand des Hofbezirks, abseits des Getümmels, dort, wo die Zelte des obersten Richters standen. 
 
-Es war dunkel, aber sie wusste, dass er wach war. Er war immer wach, wenn die Nacht am tiefsten war, wenn die Stille am schwersten war, wenn die Gedanken am lautesten waren. Sie trat ein, ohne anzuklopfen, ohne zu fragen, ohne zu zögern.
+Shigi Qutuqu.
 
-Er saß an seinem Tisch, die Hände auf der Schreibfläche, die Lampe neben ihm, das Licht schwach, das Gesicht unbewegt. Er sah sie an, als hätte er sie erwartet, als hätte er auf sie gewartet, als hätte er gewusst, dass sie kommen würde.
+Sie hatte zwanzig Jahre gebraucht, um ihn zu verstehen. Er war ein Tatarenwaisenkind gewesen, großgezogen an der Brust der Mutter Temüjins, ein Fremder im Hause seiner eigenen Eroberer. Sie erinnerte sich an das Begräbnis von Yelü Chucai, als sie nebeneinander im eisigen Wind gestanden hatten, zwei Schreibkundige über dem Grab des letzten weisen Mannes. Er hatte damals geschwiegen. Er hatte sie in den Akten des Reiches durch Auslassung geschützt, wieder und wieder, nicht aus Liebe, nicht aus Schwäche, sondern weil er die Gerechtigkeit wie eine mathematische Waage verstand. Ein Richter, der wusste, dass die Gesetze der Menschen nur Narben auf der Haut der Erde waren.
 
-Sie legte das Bündel auf seinen Tisch.
+Er behandelte Worte, als wären sie Seelen.
 
-Es war schwer, als sie es ablegte, schwerer, als sie gedacht hatte, schwerer, als die Briefe wogen, schwerer, als das Federetui wog, schwerer, als die Wahrheit wog, die sie hineingewickelt hatte.
+Fatima hob die Filzklappe seiner Vorjurte an. Der Wachposten, ein alter tatarischer Krieger mit vernarbtem Ohr, hob die Lanze, doch sie sah ihn nur an. Sie sprach kein Wort. Er erkannte die Augen der Schattenkanzlerin, selbst im Zwielicht, spuckte schweigend in den Schnee und trat einen Schritt zur Seite. In diesem Reich wusste jeder, wer heute noch mächtig war und morgen geschlachtet werden würde; aber manche Menschen behielten eine Würde, vor der selbst die Schlächter zurückwichen.
 
-„Nicht für jetzt“, sagte sie. „Für später.“
+Sie trat in die Jurte.
 
-Er sah das Bündel an, aber er berührte es nicht. Seine Hände blieben auf der Schreibfläche, ruhig, still, wartend.
+Der Raum war warm. Ein schwerer Eisenofen in der Mitte brannte mit trockenem Birkenholz, das süßlich und rein roch. Keine seidenen Kissen, kein Prunk. An den Zeltwänden standen lederne Truhen, beschlagen mit rohem Eisen, vollgestopft mit den Rollen des blau-weißen Buches. 
 
-„Wann ist später?“, fragte er.
+Shigi Qutuqu saß auf einem niedrigen Holzschemel vor einem Tisch aus ungehobeltem Lärchenholz. Er trug einen weiten, ungefütterten Wolfspelz über den Schultern. Vor ihm lag eine aufgerollte Schriftrolle, doch er schrieb nicht. Er saß einfach da, die großen, knorrigen Hände mit den abgearbeiteten Knöcheln flach auf das Holz gelegt. Sein Gesicht glich den Granitfelsen im Altai-Gebirge – tief zerfurcht, wettergegerbt, von einer Ruhe, die jenseits aller Furcht lag.
 
-Sie hielt seinem Blick stand. „Wenn es keine Khane mehr braucht, um gelesen zu werden.“
+Als sie eintrat, hob er den Kopf nicht ruckartig. Seine Lider hoben sich langsam. Die dunklen, fast schwarzen Augen nahmen sie auf, maßen die Kälte, die mit ihr hereinströmte, und blieben an ihren Händen hängen.
 
-Er nickte langsam, einmal, zweimal, wie ein Richter, der ein Urteil bestätigt, das er längst gefällt hatte. Er fragte nicht, was das Bündel enthielt. Er fragte nicht, warum sie es ihm gab. Er fragte nicht, was sie erwartete.
+Fatima ging auf den Tisch zu. Der Boden aus Schafsfellen dämpfte jeden ihrer Schritte. 
 
-Sie erklärte den Inhalt nicht. Sie sagte nicht, dass die Briefe an ihre Schwester darin waren, die Briefe, die niemand lesen sollte, die Briefe, die die Wahrheit sagten, die niemand hören wollte. Sie sagte nicht, dass das Federetui darin war, das Federetui ihres Vaters, das Letzte, was sie von einem Leben hatte, das nicht aus Dienst und Angst bestand. Sie sagte nicht, dass die Briefe darin waren, die sie geschrieben hatte, um zu überleben, die Briefe, die sie geschrieben hatte, um zu wissen, wer sie war, die Briefe, die sie geschrieben hatte, um nicht zu vergessen.
+Sie sprach nicht. Sie neigte nicht den Kopf. Zwischen ihnen hatte es in all den Jahren niemals die falschen Höflichkeiten der Kanzlei gegeben.
 
-Er fragte nicht. Er nahm das Bündel, legte es neben sich, auf den Stapel der Akten, die er prüfen musste, auf den Stapel der Urteile, die er fällen musste, auf den Stapel der Wahrheit, die er verbergen musste.
+Sie trat an den Tisch heran, löste den Griff ihrer erstarrten Finger und legte das Filzbündel vor ihm nieder. Es landete mit einem dumpfen, weichen Ton auf dem Lärchenholz, genau zwischen zwei Stapeln von Aktenrollen über Pferdediebstähle und Landgrenzen.
 
-Der Pakt bestand aus zwei Sätzen und zwanzig Jahren gegenseitiger Beobachtung.
+Shigi sah auf das Bündel herab. Er berührte es nicht. Seine Finger blieben flach auf dem Tisch liegen. 
 
-Sie ging.
+Das Holz des Ofens knackte. Ein Funke stob gegen das Gitter.
 
-Der Rückweg durch den Nacht-Ordu war länger, als sie gedacht hatte. Die Gassen waren enger, die Schatten tiefer, die Kälte schärfer. Sie ging ohne das Bündel, ohne die Last, ohne die Briefe, ohne die Federn, ohne die Wahrheit, die sie geschützt hatte, die sie getragen hatte, die sie gerettet hatte.
+„Nicht für jetzt“, sagte Fatima. Ihre Stimme war rau von der Kälte der Nacht, aber fest. Kein Zittern lag darin, kein Bitten. „Für später.“
 
-Zum ersten Mal seit Jahren fühlte sie sich nicht leichter, sondern nackt.
+Shigi Qutuqu schwieg mehrere Herzschläge lang. Der Rauch des Feuers zog in feinen, blauen Schlieren durch das Rauchloch im Scheitel der Jurte in den eisigen Nachthimmel. Seine Augen wanderten von dem verschnürten Filz zu ihren Augen, hielten ihren Blick fest mit jener unbestechlichen Schwere, mit der er seit vierzig Jahren Urteile über Leben und Tod fällte.
 
-Ihre Hand suchte das Federetui.
+„Wann ist später?“, fragte er. Seine Stimme klang wie zwei Mahlsteine, die aufeinanderrieben – tief, langsam, ohne Eile.
 
-Es war nicht da. Es war im Bündel, auf Shigis Tisch, in der Dunkelheit seines Zeltes, in der Stille seiner Hände, in der Sicherheit seiner Obhut.
+„Wenn es keine Khane mehr braucht, um gelesen zu werden.“
 
-Sie hatte alles abgegeben.
+Er zuckte nicht mit den Wimpern. Er fragte nicht, was darin lag. Er fragte nicht nach Siegeln, nicht nach Rechten, nicht nach Verrat. Er kannte die Welt, die sie beide geschaffen und überlebt hatten, zu genau, um nach dem Offensichtlichen zu fragen. Ein Chronist wusste, wann eine andere Chronik begann.
 
-Sie ging weiter, durch die leeren Gassen, vorbei an den erloschenen Feuern, vorbei an den schlafenden Zelten, vorbei an den Wachen, die sie nicht sahen, die sie nicht sehen sollten. Der Wind zerrte an ihrem Mantel, der Wind, der den Geruch von verbranntem Papier trug, den Geruch der Briefe, die sie verbrannt hatte, den Geruch der Wahrheit, die sie geopfert hatte.
+Shigi legte eine seiner breiten Hände auf das Bündel. Die schweren, von Gicht gezeichneten Finger schlossen sich um die Wolle, prüften das Gewicht, das feste Holz darunter, die Kanten des Papiers. Eine Geste des Wiegens, des Anerkennens.
 
-Sie erreichte ihr Zelt. Es war leer, kalt, still. Die Truhe stand offen, der Deckel zurückgeschlagen, der Haufen der Asche kalt, der Haufen der Erinnerung fort.
+Er nickte. Ein einziges Mal. Kurz und schwer.
 
-Sie setzte sich auf den Filz, die Hände im Schoß, die Finger leer, die Gedanken schwer.
+Das war alles.
 
-Sie dachte an die Briefe, die sie verbrannt hatte. Sie dachte an die Namen, die zu Asche geworden waren. Sie dachte an die Daten, die zu Staub geworden waren. Sie dachte an die Wahrheit, die sie geopfert hatte, um die Lebenden zu schützen, um die Toten zu ehren, um die Texte zu retten, die sie nicht retten konnte.
+Kein Eid. Keine Zeugen. Zwanzig Jahre geteilter Stille, verdichtet zu einem Atemzug in einer Winternacht.
 
-Sie dachte an Shigi Qutuqu, der das Bündel halten würde, der es verstecken würde, der es bewahren würde, bis die Zeit reif war, bis es keine Khane mehr brauchte, um gelesen zu werden.
+Fatima wandte sich um. 
 
-Sie dachte an die Frage, die sie nicht gestellt hatte: Was würde er damit tun?
+Sie ging zur Filzklappe, schob das schwere Tuch beiseite und trat wieder hinaus in die beißende Finsternis.
 
-Die Antwort würde kommen, wenn sie nicht mehr da war, wenn sie nicht mehr fragen konnte, wenn sie nicht mehr wusste, was die Antwort war.
+Der Wind traf sie wie ein Schlag ins Gesicht. Schneegriesel fegte über die gefrorene Erde, wirbelte um ihre Stiefel und blieb an den Säumen ihres Mantels hängen. 
 
-Sie saß in der Dunkelheit ihres Zeltes, und sie wartete.
+Sie ging den Weg zurück, an den Kanzleizelten vorbei, an den reglosen Wachen, den Blick starr auf den Boden gerichtet. 
 
-Der Morgen kam, wie er immer kam, die Sonne stieg über Karakorum auf, und die Kälte blieb. Sie hörte die Geräusche des Lagers, die Stimmen der Wachen, das Wiehern der Pferde, das Schlagen der Zelte, die sich hoben, die sich senkten, die sich bewegten, als ob die Welt sich weitergedreht hätte, als ob die Nacht nie gewesen wäre.
+Ihre linke Hand fuhr unwillkürlich unter den Mantel, tastete an die Brust, dorthin, wo sie seit ihrer Flucht aus Maschhad, seit vierundzwanzig Jahren, das Etui ihres Vaters getragen hatte. Der Stoff war glatt. Leer. Das Holz fehlte. Das Gewicht fehlte.
 
-Sie blieb sitzen, die Hände im Schoß, die Finger leer, die Gedanken schwer.
+Zum ersten Mal in ihrem Leben spürte sie die Kälte der Steppe durch ihr Gewand dringen, als bestünde ihr Mantel nur noch aus Spinnweben. Sie fühlte sich nicht befreit. Sie fühlte sich nicht leichter. 
 
-Sie wusste, dass sie nicht mehr lange hier sein würde. Sie wusste, dass Güyüks Männer kommen würden, dass sie sie holen würden, dass sie sie fragen würden, dass sie sie quälen würden, dass sie sie töten würden. Sie wusste, dass die Reihenfolge klar war, dass sie die Nächste war, dass sie den Termin nicht kannte, aber die Richtung kannte.
+Sie fühlte sich nackt.
 
-Sie hatte gehandelt, bevor gehandelt wurde.
+Ihre Hand klammerte sich in den leeren Stoff ihrer Tunika, suchte nach den Kanten des Perlmutt, nach der vertrauten Härte, die sie gegen die Pfeile, die Worte und die Blicke der Herrscher geschützt hatte. Da war nichts mehr. Sie hatte ihre Waffen abgegeben. Sie hatte ihre Toten weggegeben.
 
-Die Flucht des Textes war gelungen, bevor die Falle zuschnappte.
+Das war der Preis.
 
-Sie saß in der Dunkelheit ihres Zeltes, und sie wartete.
+Fatima ging weiter, Schritt für Schritt durch das Dunkel, während hinter ihr, in der Jurte des Richters, das Bündel lag wie ein Samenkorn unter dem Eis – wartend auf eine Welt, die noch nicht geboren war.
 
----

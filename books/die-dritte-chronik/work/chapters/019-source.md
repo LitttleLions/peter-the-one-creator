@@ -5,230 +5,147 @@
 
 ---
 
-Die Vorladung kam am frühen Morgen, bevor der Tau von den Zeltstricken gefallen war.
+Der Geruch von ranziger Stutenmilch, feuchtem Filz und brennendem Wacholder lag schwer in der Morgenluft, als zwei Leibwächter der Regentin vor Ata-Malik Juvainis Zelt traten. Sie sagten kein Wort. Einer von ihnen schlug lediglich mit dem Schaft seiner Lanze gegen das Holzgestänge des Eingangs. Der dumpfe Laut hallte im Brustkorb des jungen Schreibers wider, noch ehe er die Augen ganz geöffnet hatte. Es war der Sommer des Jahres 1244, und die Hitze über dem Orchon-Tal schien selbst die Schatten der Weiden am Flussufer auszutrocknen, während der Wind den bitteren Duft von Wermut und sonnengedörrtem Gras über das Lager trug.
 
-Ein Bote stand vor Juvainis Quartier – kein gewöhnlicher Laufbursche, sondern einer jener stillen Männer mit dem blauen Gürtel, die ausschließlich im Dienst der Regentin liefen und deren Erscheinen am Morgen selten Gutes bedeutete. Er überreichte ein gefaltetes Papier ohne Erklärung, ohne Blickkontakt, und war verschwunden, bevor Juvaini das Siegel gebrochen hatte.
+Als er durch die Zeltgassen geführt wurde, tastete seine linke Hand unwillkürlich nach den Falten seines Gewandes. Dort, tief verborgen im Futter, ruhte das schmale Blatt Papier, das Fatima ihm vor Wochen zugesteckt hatte – ihre Warnung vor Güyüks drohender Thronbesteigung. Es war flach, fast gewichtslos, und doch brannte es gegen seine Rippen wie ein glimmendes Stück Holzkohle. Jeder Schritt durch den aufgewirbelten Staub fühlte sich an wie ein Gang über brüchiges Eis. Wenn Töregene rief, gab es selten Gnade; meistens gab es Urteile. Er rechnete mit der Entdeckung, mit Verhören über gefälschte Kanzleisiegel, mit den spitzen Anschuldigungen Abd ar-Rahmans oder den finsteren Blicken Güyüks, dessen Zorn wie ein Gewitter über den Bergen lauerte. Er rechnete mit Ketten.
 
-Das Siegel war das der Regentin.
+Er rechnete mit allem, nur nicht mit Milde.
 
-Er las die drei Zeilen zweimal. Dann ein drittes Mal, weil er sichergehen wollte, dass er nichts übersah. Es gab nichts zu übersehen. Der Text war von vollkommener Klarheit, wie alles, was aus Töregenes Kanzlei kam, und diese Klarheit war die beunruhigendste Eigenschaft des Schreibens: Es ließ keinen Raum für Deutung. Ata-Malik Juvaini, Schreiber der Kanzlei, möge sich am Mittag des heutigen Tages in den Empfangsraum der Regentin begeben.
+Die Audienzjurte der Regentin war riesig, gestützt von rot lackierten Säulen, die mit chinesischem Blattgold belegt waren. Drinnen herrschte eine dämmrige, erstickende Kühle. Die Luft schmeckte nach zerstoßenem Kardamom, Bienenwachs und dem fetten Ruß der Butterlampen, die in Nischen entlang der hölzernen Gitterwände flackerten. Auf den dicken Teppichen aus Buchara, deren Muster im Halbdunkel wie verschlungene Schlangen wirkten, saß Töregene Khatun. Sie trug eine schwere Deel aus dunkelblauem Brokat, eingefasst mit Zobelfell, ungeachtet der Sommerglut. Ihr Gesicht, breit und von den unerbittlichen Winden der Steppe gezeichnet, lag vollkommen ruhig da. Ihre Augen glänzten wie polierter Hornstein.
 
-Er faltete das Papier zweimal, steckte es in seinen Ärmel und stand lange am Zelteingang, ohne hinauszutreten.
+Zur Rechten der Herrin stand Fatima.
 
-Rechne mit allem außer Freundlichkeit, sagte er sich.
+Juvainis Blick glitt nur für den Bruchteil eines Herzschlags zu ihr, doch was er sah, schnürte ihm die Kehle zu. Fatimas Züge waren aus Stein gehauen. Kein Zucken um die Mundwinkel, kein Schatten des Erkennens in ihren dunklen, tief liegenden Augen. Sie trug ein schlichtes Gewand aus erdfarbener Seide, die Hände vor dem Leib in den weiten Ärmeln verborgen, den Kopf um ein unmerkliches Maß gesenkt – die vollendete Haltung einer Dienerin, die zugleich das unsichtbare Getriebe dieses Hofes bewegte. Sie sah ihn nicht an. Sie blickte durch ihn hindurch, als wäre er nichts weiter als ein Hauch von Steppenstaub, der durch den Türspalt geweht worden war.
 
-Der Morgen war heiß und trocken, wie alle Morgen dieses Sommers 1244. Der Staub Karakorums lag wie ein feines Tuch über allem, über den Zelten und Jurten, über den Stallungen und den Kanzleigebäuden aus gebranntem Lehmstein, über dem silbernen Baum des Goldschmieds Boucher, der im Innenhof des Palastes stand und dessen Äste im Windstillen reglos hingen. Der Geruch von Pferdemist und gekochtem Hammelfleisch zog durch die Gassen. Irgendwo hämmerte jemand Eisen. Irgendwo schrie ein Kind.
+Juvaini warf sich zu Boden, berührte mit der Stirn den kühlen Teppich und wartete. Das Schlagen seines eigenen Blutes in den Schläfen übertönte das ferne Wiehern der Pferde draußen.
 
-Juvaini wusch sein Gesicht mit dem Wasser aus dem Tonkrug, zog seine beste Robe an – die blaue mit dem bestickten Kragen, die er nur zu Audienzen trug – und knotete seinen Gürtel mit einer Sorgfalt, die er sich selbst nicht ganz erklären konnte. Als sei äußere Ordnung ein Schutz gegen das, was von innen drückte.
+„Steh auf, Sohn des Baha ad-Din“, sagte Töregenes Stimme. Sie klang nicht scharf. Sie klang fast mütterlich, voll jener trägen, tiefen Wärme, die tückischer war als jeder gezogene Säbel. „Ein Schreiber sollte seine Knie für das Pult schonen, nicht für den Staub.“
 
-Er rechnete mit allem außer Freundlichkeit.
+Juvaini erhob sich langsam, die Lider gesenkt. „Möge die Herrin der Völker ewig herrschen.“
 
-Und genau die kam.
+Töregene lächelte. Es war ein Lächeln, das die Falten um ihre Augen vertiefte, ohne ihre Kälte zu mindern. Vor ihr auf einem niedrigen Tischchen aus Ulmenholz lagen mehrere Schriftrollen, fein gebunden mit Seidenschnüren. Ihre beringte Hand strich beiläufig über das Papier – chinesisches Hanfpapier, glatt geschlagenes Pergament aus Bagdad, Kanzleiberichte.
 
-Der Empfangsraum der Regentin war kleiner, als er ihn sich vorgestellt hatte – ein niedriger, quadratischer Raum mit Filzwänden, auf denen Muster in Rot und Gold eingearbeitet waren, und einem Boden aus geflochtenen Matten. Der Geruch von Räucherwerk hing schwer in der Luft, süßlich und harzig zugleich, und das Licht fiel durch einen schmalen Spalt in der Decke und schnitt einen schrägen Streifen in den Raum. Töregene saß auf einem niedrigen Podest, gekleidet in Seide von einem Blauton, der an das Innere eines Muscheltiers erinnerte. Neben ihr, etwas zurückgesetzt, saß Fatima.
+„Ich habe deine Berichte über die Zolleinnahmen am Dschaihun gelesen“, begann sie gelassen und nahm eine geschnitzte Schale mit Kumys zur Hand. „Deine Hand ist schnell, Ata-Malik. Schneller als die der meisten Männer deines Alters. Deine Schrift fließt wie kühles Quellwasser über Kieselsteine. Das gefällt mir. Ein Reich wird auf dem Rücken der Pferde erobert, aber man hält es nur mit der Spitze des Rohrs zusammen. Dein Vater wusste das. Du scheinst es geerbt zu haben.“
 
-Juvaini sah sie sofort. Er konnte nicht anders.
+„Die Gunst der Khatun beschämt ihren geringsten Diener“, erwiderte Juvaini. Seine Stimme klang fester, als ihm zumute war, doch seine Kehle war trocken wie Sand.
 
-Sie saß vollkommen still, die Hände im Schoß gefaltet, das Gesicht eine glatte, unbewegliche Fläche. Kein Lächeln, keine Anspannung, kein Zucken um den Mundwinkel. Sie war eine Wand. Eine sehr schöne, sehr kalte Wand. Er registrierte das und wandte den Blick ab, bevor er zu lange verweilt hatte.
+„Beschämt?“ Töregene neigte den Kopf zur Seite. Der schwere Kopfschmuck, besetzt mit Korallen und Silberstücken, klirrte leise bei der Bewegung. „Nein, du solltest stolz sein. Du bist jung. Und du hast Talent. Nicht nur für Zahlen und Getreidemaße.“ Sie pausierte, trank einen kleinen Schluck aus der Schale und wischte sich mit dem Handrücken über die Lippen. Dann sah sie ihn wieder an, unverwandt, durchdringend. „Wie lauteten jene Verse noch gleich? *‚Die Nacht vergeht im Schatten fremder Lanzen, doch wo der Rauch die Sterne deckt, sucht meine Seele nur den einen Zweig, der keinen Schatten wirft.‘*“
 
-Er verbeugte sich vor der Regentin.
+Die Luft wich schlagartig aus Juvainis Lungen.
 
-„Setzt Euch", sagte Töregene.
+Das war gefährlich.
 
-Er setzte sich auf das Kissen, das ein Diener vor das Podest geschoben hatte, und wartete. Die Regentin betrachtete ihn mit dem Ausdruck eines Menschen, der etwas prüft, von dem er bereits weiß, dass es gut ist – eine Prüfung der Form halber, nicht der Erkenntnis halber.
+Er erstarrte. Die Verse. Er hatte sie vor Wochen niedergeschrieben, spät in der Nacht, in der Abgeschiedenheit seines Zelts, und noch vor Tagesanbruch hatte er das Blatt zerrissen und die Fetzen im Stroh seines Lagers vergraben. Er hatte geglaubt, der Wind, die Asche und das Schweigen hätten sie verschlungen. Niemand hatte sie gelesen. Niemand konnte sie kennen.
 
-„Ich habe Eure Briefe gelesen", sagte sie schließlich. „Die an den Gouverneur von Buchara. Die Zusammenfassung der Steuerregister aus den westlichen Provinzen. Den Bericht über die Ernte in Samarkand." Sie machte eine kurze Pause. „Ihr habt eine gute Hand."
+Und doch sprach die Regentin sie nun aus, beiläufig, fast zärtlich, als koste sie eine reife Frucht.
 
-„Ihr seid gnädig, Herrin."
+Sie wusste alles.
 
-„Ich bin nicht gnädig", sagte sie, und der Ton war nicht unfreundlich, sondern präzise. „Ich sage, was ich sehe. Gnädig ist ein Wort für Priester und Bittende." Sie lehnte sich leicht vor. „Ich habe noch etwas gelesen. Ein Gedicht."
+Es gab keinen Winkel in Karakorum, keinen Schlupfwinkel im Zeltlager, keinen flüchtigen Gedanken, den ihre Spione nicht aus dem Staub klaubten. Die freundliche Fassade, das Lob über seine Kanzleiführung – es war nichts weiter als Seide, gewickelt um eine eiserne Klinge. Sie wusste von seinen schlaflosen Nächten. Und wenn sie seine Verse kannte, wie viel wusste sie dann über das, was Fatima ihm zugesteckt hatte? Wie viel über die Blicke, die im Kanzleizelt zwischen ihnen gewechselt worden waren?
 
-Die Stille, die folgte, dauerte vielleicht drei Herzschläge.
+Juvaini wagte nicht, zu Fatima hinüberzusehen. Er spürte ihre Anwesenheit wie eine Wand aus Eis zu seiner Rechten. Ihre Reglosigkeit war vollkommen. Sie atmete kaum. Nicht einmal das feine Zittern einer Wimper verriet, dass sie die Verse wiedererkannte, dass sie wusste, wem dieser zweiglose Schatten gegolten hatte. In diesem Augenblick begriff er: Ihre Kälte war kein Verrat. Sie war der einzige Schild, den sie zwischen ihn und den Henker stellen konnte. Hätte sie auch nur eine Sekunde lang den Atem angehalten, hätte sie nur die Hand gehoben – Töregene hätte zugestoßen. Fatimas Maske war ihr Geschenk an ihn.
 
-Juvaini hielt den Atem an.
+„Eine hübsche Klage“, fuhr die Regentin fort, als hätte sie die lähmende Stille im Raum gar nicht bemerkt. „Ein wenig zu schwermütig für einen jungen Mann, der im Dienste des Hauses Ögedei steht. Aber Perser trauern gern, nicht wahr? Ihr baut Paläste aus Klagen.“ Sie lehnte sich zurück in ihre Kissen. „Ein solches Talent darf nicht in den Schreibstuben der Kanzlei verkümmern, Ata-Malik. Karakorum ist eng. Hier gibt es zu viele Ohren, zu viel Staub, zu viele alte Weiber, die tuscheln.“
 
-Töregene zitierte:
+Ein Schatten fiel über den Zelteingang.
 
-„Der Schreiber trägt kein Schwert, doch seine Hand / schneidet tiefer als Eisen in das Land."
+Der Filzvorhang wurde zurückgeschlagen, und ein Mann trat ein, der sich mit knapper, militärischer Würde vor der Khatun verneigte. Er trug die lederne Rüstung eines hochrangigen Befehlshabers, über der ein schlichter, aber kostbarer Wollmantel lag. Sein Gesicht war wettergegerbt, die Züge von ruhiger, unaufgeregter Strenge gezeichnet. Arghun Aqa. Ein Verwalter, der Schlachten geschlagen hatte; ein Mann, der verstand, wie Getreidespeicher gefüllt und Steuern eingetrieben wurden, ohne dass das Land in Flammen aufging. Korrekt, pragmatisch, unerschütterlich.
 
-Ihre Aussprache des Persischen war schwer, die Vokale zu breit, die Konsonanten zu hart – aber die Worte waren die seinen. Er erkannte sie so sicher, wie man sein eigenes Gesicht im Wasser erkennt. Es waren die ersten beiden Zeilen eines Gedichts, das er vor drei Monaten in sein Notizbuch geschrieben hatte. Nur in sein Notizbuch.
+„Du hast gerufen, Regentin“, sagte Arghun Aqa. Seine Stimme war tief und fest, frei von höfischer Kriecherei.
 
-Er verstand sofort.
+„Ich habe deinen neuen Schreiber gefunden, Arghun“, sagte Töregene und wies mit einer nachlässigen Handbewegung auf Juvaini. „Ata-Malik wird dich nach Westen begleiten. Nach Chorasan, nach Persien. Er wird deine Kanzlei führen, deine Register ordnen und das Buch der Verordnungen führen.“
 
-Sie weiß alles.
+Juvaini spürte, wie der Boden unter seinen Füßen nachgab.
 
-Die Erkenntnis kam nicht als Schock, sondern als stille, schwere Klarheit, wie das Absinken eines Steins in tiefes Wasser. Er hatte nicht damit gerechnet – nein, das stimmte nicht. Er hatte damit gerechnet, aber nicht damit, dass es so beiläufig serviert werden würde, als Kompliment verkleidet, als Lob, als Beweis ihrer Aufmerksamkeit. Das war die Raffinesse daran. Sie zeigte ihm, dass sie sein Notizbuch kannte, und sie tat es mit einem Lächeln.
+Eine Versetzung. Der Westen. Tausende von Meilen, Wüsten, Pässe, Wochen des Ritts, fort von Karakorum, fort vom Orchon-Tal. Fort von Fatima.
 
-„Ein hübscher Vers", sagte Töregene. „Vielleicht ein wenig selbstbewusst. Aber das gehört sich für einen jungen Mann."
+Es war eine Beförderung. Der Stab des Gouverneurs der Westlande war der Traum jedes jungen Kanzleibeamten; es war Macht, Einfluss, ein Aufstieg, von dem sein Vater nicht hätte träumen können. Es war eine unermessliche Ehre. Und genau darin lag die grausame Präzision Töregenes: Niemand konnte eine solche Gunst ablehnen, ohne sein eigenes Todesurteil zu unterschreiben. Es war eine Verbannung, eingekleidet in die Farben des Triumphs.
 
-„Ihr seid zu gütig, Herrin."
+„Er ist jung“, bemerkte Arghun Aqa nüchtern und musterte Juvaini mit schnellen, taxierenden Blicken. „Aber ich kenne das Haus seines Vaters. Baha ad-Din war ein verlässlicher Mann. Wenn der Junge nur die Hälfte seines Verstandes hat, wird er nützlich sein.“
 
-„Ich sagte doch: Ich bin nicht gütig." Aber sie lächelte dabei. „Ich schätze Präzision. Ihr seid präzise. Eure Feder und Euer Kopf arbeiten zusammen. Das ist selten."
+„Er hat mehr als Verstand“, entgegnete Töregene mit einem leisen, fast unhörbaren Kichern. „Er hat Poesie. Pass gut auf ihn auf, Arghun. Lass ihn nicht zu viel dichten. Im Westen braucht man Rechnungen, keine Verse.“
 
-Juvaini wartete. Er wusste, dass das Eigentliche noch kommen würde.
+„Er wird tun, was der Dienst verlangt“, sagte der Statthalter knapp.
 
-Es kam.
+„Gut.“ Töregene winkte ab. „Die Befehle sind gesiegelt. Ihr brecht mit der dritten Nachtwache auf. Das Lager zieht ohnehin bald weiter nach Süden. Ich brauche klare Tische.“ Sie sah Juvaini noch einmal an, und für einen Wimpernschlag blitzte etwas Dunkles, Unerbittliches in ihren Augen auf. „Geh, Junge. Diene dem Reich. Und vergiss die Schatten.“
 
-„Arghun Aqa reist in drei Tagen in den Westen ab", sagte Töregene. „Er braucht einen Schreiber, der Persisch und Mongolisch beherrscht, der mit Steuerregistern umgehen kann und der versteht, wie man einen Brief formuliert, der eine Drohung enthält, ohne eine Drohung zu sein." Sie betrachtete ihn ruhig. „Ich habe ihm Euren Namen genannt. Er ist einverstanden."
+Juvaini verneigte sich tief, tiefer noch als zuvor. „Ich danke der Khatun für ihre bodenlose Güte.“
 
-Ehre. Aufstieg. Entfernung. Drei Worte für dasselbe.
+Die Worte schmeckten nach Asche auf seiner Zunge.
 
-Juvaini saß still und spürte, wie sich die Konturen des Raumes verschoben, wie Wände sich bewegten ohne sich zu bewegen. Der Westen. Die Provinzen. Weg von Karakorum. Weg von der Kanzlei. Weg.
+Als er sich rückwärts zur Zeltöffnung bewegte, wagte er es doch. Nur für die Dauer eines halben Atemzugs hob er die Augen und sah Fatima an. Sie stand immer noch dort, unbeweglich wie die hölzerne Säule neben ihr. Doch in ihren Augen, tief in den Pupillen, die das flackernde Licht der Butterlampen auffingen, sah er etwas aufblitzen: kein Abschied, keine Trauer, sondern ein stummer, brennender Befehl.
 
-Er erlaubte sich einen einzigen Blick zu Fatima.
+*Überlebe.*
 
-Nichts.
+Draußen schlug die sengende Mittagshitze wie eine Faust gegen seine Stirn. Das Lager dröhnte vom Lärm der Hufschmiede, dem Brüllen der Kamele und dem Rufen der Wachen. Juvaini stolperte fast über die Zeltpflöcke, als er taumelnd den Weg zurück zu seiner Unterkunft suchte. Seine Hände zitterten so heftig, dass er sie tief in die Ärmel bohren musste.
 
-Ihre Hände lagen im Schoß. Ihr Gesicht war glatt. Ihre Augen ruhten auf einem Punkt irgendwo über seiner linken Schulter, als sei er nicht im Raum, als sei er bereits abgereist, als existiere er in dieser Version der Wirklichkeit bereits nicht mehr. Kein Zucken. Keine Anspannung. Keine Wärme und keine Kälte, denn beides hätte etwas verraten. Nur das vollkommene, meisterhafte Nichts einer Frau, die gelernt hatte, ihr Gesicht als Schutzwall zu bauen.
+Drei Stunden vor Aufbruch fand er Fatima hinter den Kanzleijurten.
 
-Er verstand auch das sofort.
+Es war die Zeit der Abenddämmerung, wenn das Orchon-Tal für einen kurzen Augenblick in ein kupferrotes Licht getaucht wurde, ehe die Kälte aus den Bergen herabstürzte. Die Schreiber waren zum Abendmahl gegangen; zwischen den Reihen der Lederzelte und den gestapelten Kisten mit Aktenrollen herrschte eine atemlose Stille. Sie stand an einer Fuhre mit getrocknetem Weidenholz, die Hände mit einem Tuch beschäftigt, mit dem sie den Staub von einer Schreibtafel rieb.
 
-Ihre Maske war ihr Geschenk an ihn. Das einzige, das sie ihm noch geben konnte.
+Juvaini trat an sie heran, der Schatten eines achtzehnjährigen Mannes, der sich plötzlich um Jahrzehnte gealtert fühlte.
 
-„Ich bin geehrt", hörte er sich sagen. Die Worte kamen aus einem Teil von ihm, der weiterarbeitete, während der andere Teil noch versuchte, den Boden unter den Füßen zu finden. „Arghun Aqa ist ein Mann von großem Ansehen."
+„Fatima“, flüsterte er.
 
-„Er ist ein Mann, der überlebt", sagte Töregene. „Das ist mehr wert als Ansehen." Sie machte eine kurze Geste mit der Hand, die Abschluss bedeutete. „Ihr werdet ihm morgen vorgestellt. Bereitet Euer Gepäck vor."
+Sie fuhr nicht zusammen. Ihre Hand bewegte sich gleichmäßig weiter über das Holz. „Tritt weiter zurück, Ata-Malik. Wenn ein Wachreiter vorbeikommt, bist du ein Schreiber, der nach Tinte fragt. Nichts weiter.“
 
-Das war alles. Er war entlassen.
+Er hielt den Atem an, trat einen halben Schritt zurück, doch die Worte drängten aus ihm heraus, heiß und ungestüm: „Sie weiß es. Sie hat meine Zeilen zitiert. Sie schickt mich fort, weil...“
 
-Er stand auf, verbeugte sich, und seine Augen streiften ein letztes Mal Fatimas Gesicht.
+„Sie schickt dich fort, weil du zu laut atmest“, unterbrach sie ihn mit schneidender, aber leiser Stimme. „Weil du glaubst, deine Gedanken gehörten dir. An diesem Hof gehört dir nicht einmal der Rauch über deiner Feuerstelle.“
 
-Nichts.
+„Komm mit mir“, entfuhr es ihm, ein verzweifelter, törichter Gedanke, geboren aus der Panik der Jugend. „Arghun Aqa schätzt deinen Rat. Im Westen, in Nischapur, in Rayy... dort gibt es Gärten. Dort gibt es Mauern, die nicht aus Filz sind. Wir könnten...“
 
-Er trat hinaus in den Staub und die Hitze des Sommers.
+Fatima hielt in ihrer Bewegung inne. Zum ersten Mal seit Tagen sah sie ihn direkt an. Ihr Blick war so voller Schmerz und zugleich so eisern beherrscht, dass die Worte ihm im Halse erstickten.
 
-Arghun Aqa empfing ihn am Nachmittag in einem der Kanzleiräume, einem länglichen, niedrigen Raum mit Regalen voller Aktenbündel und dem Geruch von altem Leder und Tinte. Er war ein Mann mittlerer Größe, mittleren Alters, mit einem Gesicht, in dem nichts Überflüssiges stand – keine Grausamkeit, keine Wärme, keine Großzügigkeit und keine Enge. Ein Gesicht, das Kompetenz ausdrückte wie ein gut geschmiedetes Werkzeug. Er betrachtete Juvaini mit der ruhigen Aufmerksamkeit eines Mannes, der Menschen schnell einschätzte und selten falsch lag.
+„Glaubst du, Nischapur ist frei von Reitern?“, fragte sie leise. „Glaubst du, der Wind dort weht anders als hier? Ich gehöre Töregene. Ich gehöre diesem Palast, diesen Akten, diesen Lügen. Mein Platz ist hier, solange sie mich braucht – und solange ich atme.“
 
-„Ihr schreibt Persisch und Mongolisch", sagte er. Kein Fragezeichen.
+Juvaini senkte den Kopf. Die Hilflosigkeit schnürte ihm die Kehle zu. Seine Hand fuhr in sein Gewand, zog ein kleines Stück feines, unbeschriebenes Pergament hervor, das er in ein Seidentuch gewickelt hatte. „Dann schreib mir. Gib mir ein Zeichen mit. Nur eine Zeile. Ein Wort in deiner Hand, das ich mitnehmen kann. Damit ich weiß, dass Maschhad... dass du... dass es wahr war.“
 
-„Ja."
+Fatima sah das weiße Blatt an. Ihre Augen wurden für einen Moment weich, beinahe zärtlich, und in dieser kurzen Spanne schien sie wieder das Mädchen aus Chorasan zu sein, das am Rand der väterlichen Werkstatt gesessen und das Schleifen des Schilfrohrs belauscht hatte. Doch dann schloss sie die Augen, atmete langsam ein und schüttelte den Kopf.
 
-„Arabisch?"
+„Nein“, sagte sie barsch und schob seine Hand zurück.
 
-„Etwas. Genug für Verträge."
+„Fatima, bitte.“
 
-Arghun Aqa nickte. „Ich brauche jemanden, der die Steuerregister der westlichen Provinzen neu ordnet. Die alten sind ein Chaos – drei Schreiber, drei Systeme, niemand versteht, was der andere meinte." Er zog einen Aktenstapel hervor und legte ihn auf den Tisch zwischen ihnen. „Seht Euch das an."
+„Papier reist schlecht“, erwiderte sie unerbittlich. „Menschen auch. Ein Brief ist ein Strick um den Hals dessen, der ihn trägt, und ein Pfeil in das Herz dessen, der ihn schreibt. Du hast gesehen, was sie weiß. Glaubst du, eine Tasche bleibt ungeöffnet auf dem Weg nach Westen? Glaubst du, Arghun Aqas Reiter durchsuchen nicht das Gepäck der Kanzlei?“
 
-Juvaini sah sich das an. Es war tatsächlich ein Chaos.
+Sie trat einen Schritt näher an ihn heran, so nah, dass er den vertrauten, schwachen Duft von Nardenöl und getrockneter Tinte wahrnehmen konnte, der immer an ihren Kleidern haftete – ein Duft, der für ihn Heimat bedeutete inmitten dieser fremden Steppe. Ihre Hand hob sich, strich für den Bruchteil eines Herzschlags über seinen Ärmel, eine Berührung, so leicht wie das Fallen eines Weidenblattes im Herbst, ehe sie die Finger zur Faust schloss und sinken ließ.
 
-„Ich kann das in Ordnung bringen", sagte er.
+Kein Geständnis. Keine Tränen. Kein Schwur der Treue.
 
-„Gut." Arghun Aqa nahm die Akte wieder. „Wir reisen in drei Tagen. Morgen früh Überprüfung des Gepäcks, nachmittags Briefings mit meinen anderen Schreibern. Habt Ihr Fragen?"
+Stattdessen sah sie ihm fest in die Augen, und ihre Stimme brannte sich in sein Gedächtnis wie ein Siegel in heißes Wachs:
 
-Juvaini hatte eine Frage, aber nicht die Art, die man stellen konnte. Er schüttelte den Kopf.
+„Schreib weiter. Schreib immer weiter.“
 
-„Dann bis morgen früh."
+Juvaini starrte sie an. Die Schlichtheit des Satzes traf ihn härter als jede Wehklage.
 
-Er verließ die Kanzlei und stand wieder im Staub. Die Sonne stand tief genug, um lange Schatten zu werfen, und der Geruch von Hammelfleisch und Rauch zog durch die Gassen, und irgendwo hämmerte noch immer jemand Eisen, als habe die Welt keine Kenntnis davon genommen, dass sich soeben etwas Unwiderrufliches vollzogen hatte.
+„Schreib das auf, was sie dich schreiben lassen“, flüsterte sie, und ihre Augen glühten in der einbrechenden Dämmerung. „Ihre Siege, ihre Gesetze, ihre Steuern. Diene ihnen mit der Feder, wie dein Vater es tat. Aber behalte die Augen offen. Sieh die Dinge, die nicht in die Register passen. Sieh das Blut an den Rändern. Und wenn die Zeit kommt – schreib es auf. Nicht für mich. Für niemanden, der heute lebt. Aber lass es nicht vergehen. Schreib weiter. Das ist das Einzige, was bleibt, wenn ihre Reiche zerfallen.“
 
-Er fand Fatima am Abend.
+Sie wandte sich ab, griff nach ihrer Schreibtafel und ging mit schnellen, gemessenen Schritten davon, ohne sich noch einmal umzusehen. Ihr dunkler Mantel verschmolz mit den langen Schatten der Jurten, bis sie ganz verschwunden war.
 
-Oder sie fand ihn – er war nie sicher, wie es geschehen war, ob es Zufall gewesen war oder Absicht, ob sie gewusst hatte, dass er an jenem schmalen Durchgang zwischen dem Lagerhaus und dem Kanzleigebäude vorbeikommen würde, oder ob sie selbst zufällig dort stand, in dem kurzen Moment, in dem das Licht des Abends schräg durch den Spalt zwischen den Gebäuden fiel und den Staub in der Luft golden färbte.
+In der dritten Nachtwache war das Zeltlager in tiefes Schweigen gehüllt. Nur das Knistern der verglimmenden Wachtfeuer und das Schnauben der Packpferde durchbrach die Kälte. Über den Gipfeln des Orchon-Tals stand der Himmel wie ein Bogen aus schwarzem Eisen, übersät mit Myriaden kalter, unbarmherziger Sterne.
 
-Sie stand dort, ein Bündel Papiere unter dem Arm, und als er um die Ecke trat, hielt sie inne.
+Arghun Aqa saß bereits im Sattel seines kräftigen Steppenpferdes, eingehüllt in einen weiten Pelz. Er blickte nicht zurück, als die Kolonne sich in Bewegung setzte. Neben ihm ritten zwanzig schwer bewaffnete Reiter, ihre Lanzen ragten wie ein kahler Wald in die Finsternis.
 
-Für einen Moment sahen sie sich an.
+Juvaini ritt hinter seinem neuen Herrn. Seine Satteltaschen waren gefüllt mit leeren Rollen Pergament, Reiseschreibzeugen aus Horn, chinesischer Tusche und den Befehlen der Regentin. Sein Blick wanderte noch ein letztes Mal zurück zu den großen weißen Jurten auf der Anhöhe. In der Jurte Töregenes brannte noch Licht. Ein schwacher, gelblicher Schimmer fiel durch den Rauchabzug in den Nachthimmel.
 
-Dann sagte er: „Ich weiß, wann ich abgehe."
+Ein quälender Zweifel fraß an seinem Herzen, während die Hufe seines Pferdes den gefrorenen Sommerboden zermahlten.
 
-„Ich weiß", sagte sie.
+Warum hatte Töregene ihn weggeschickt?
 
-„Drei Tage."
+War es Eifersucht gewesen? Der besitzergreifende Zorn einer Herrscherin, die Fatima als ihr persönliches Eigentum betrachtete und keinen anderen Anspruch, keinen leisen Gedanken neben sich duldete? Hatte sie die Glut zwischen ihnen bemerkt und sie mit einem einzigen Atemzug ihrer Macht ausgelöscht?
 
-„Ich weiß."
+Oder lag etwas anderes dahinter? Etwas Dunkleres, Vorahnendes? Hatte die Regentin, die den Tod Ögedeis verschleiert und das Reich mit eisernen Fäusten zusammenhielt, die kommenden Stürme bereits gerochen? Güyüks Zorn, die Gerüchte über Hexerei um den kranken Köden, die lauernden Klingen des Hauses Tolui – hatte sie ihn entfernt, um ihn vor dem zu bewahren, was über diesen Hof hereinbrechen würde? War die Verbannung in Wahrheit eine Rettung gewesen?
 
-Die Papiere unter ihrem Arm raschelten leicht im Wind. Irgendwo in der Ferne rief jemand einen Namen. Das Licht wurde röter, tiefer, und der Staub tanzte in ihm wie etwas Lebendiges.
+Er wusste es nicht. Die Regentin gab keine Antworten; sie fällte nur Urteile.
 
-„Gebt mir einen Brief", sagte er. Er hörte selbst, wie die Bitte klang – zu direkt, zu nackt, ohne die Schicht von Höflichkeit, die man hier brauchte wie Wasser in der Wüste. „Etwas zum Mitnehmen. Nur ein Satz. Ich werde ihn nicht zeigen."
+„Ata-Malik!“, rief Arghun Aqa von der Spitze des Zuges nach hinten, ohne den Kopf zu wenden. Seine Stimme durchschnitt die eisige Nachtluft. „Halt die Zügel kürzer. Der Weg nach Westen ist lang, und wir haben keine Zeit für Träumer.“
 
-Fatima betrachtete ihn.
+„Ich folge, Herr“, erwiderte Juvaini.
 
-Ihre Augen waren nicht kalt. Das war das Schwierigste daran – sie waren nicht kalt, sie waren nur still, wie ein Brunnen still ist, der tief geht.
-
-„Papier reist schlecht", sagte sie. „Menschen auch."
-
-Er öffnete den Mund.
-
-„Nein", sagte sie, bevor er sprechen konnte. Nicht hart. Nur endgültig. „Kein Brief. Kein Papier. Nichts, das jemand finden kann."
-
-„Dann nichts."
-
-„Nicht nichts."
-
-Sie stand einen Moment still, und er sah, wie sie etwas in sich abwog, etwas sortierte und ordnete wie Aktenbündel auf einem Regal, und dann sagte sie, leise und ohne Betonung, als sei es eine Anweisung für die Kanzleiarbeit:
-
-„Schreib weiter. Schreib immer weiter."
-
-Er wartete auf mehr.
-
-Es kam nicht mehr.
-
-„Das ist alles?", sagte er.
-
-„Das ist alles."
-
-Er betrachtete sie – die Stille in ihrem Gesicht, die Papiere unter ihrem Arm, den Staub um ihre Füße, das rote Licht, das ihr Profil in etwas schnitt, das er nicht benennen konnte.
-
-„Das reicht nicht", sagte er.
-
-„Nein", sagte sie. „Es reicht nicht. Aber es ist das Einzige, das ich dir mitgeben kann, ohne dich zu gefährden."
-
-Das war das erste Mal, dass sie das Wort verwendete. Dich. Nicht Euch. Nicht den höflichen Abstand, der zwischen Schreibern üblich war, nicht die Formalität, die alles glatt und sicher hielt. Dich. Ein einziges, kleines Wort, das alles enthielt, was sie nicht sagen würde.
-
-Er verstand es.
-
-Er verstand auch, dass es das letzte Mal sein würde.
-
-„Schreib weiter", sagte er. Nicht als Frage. Als Bestätigung.
-
-Sie nickte einmal, kurz, und dann war sie gegangen, um die Ecke, weg in den Abend, und er stand allein in dem schmalen Durchgang, und der Staub tanzte noch immer im roten Licht, und das Eisen hämmerte noch immer irgendwo in der Ferne, und er dachte: Schreib weiter.
-
-Er dachte es noch einmal.
-
-Schreib immer weiter.
-
-Die drei Tage vergingen wie alle Tage in Karakorum vergingen – zu schnell und zu langsam zugleich, mit zu viel Arbeit und zu viel Zeit zum Denken. Er packte sein Gepäck: die Robe, die Tintenfässer, das Notizbuch mit den Gedichten, das er sorgfältig in Leder wickelte und ganz unten in den Sack steckte. Er saß in den Briefings mit Arghun Aqas anderen Schreibern und lernte die Namen der Provinzen, die Struktur der Steuerregister, die Hierarchie der lokalen Beamten. Er aß, schlief, wachte auf.
-
-Er sah Fatima nicht wieder.
-
-Das war keine Zufälligkeit; das wusste er. Sie hatte die Entfernung eingerichtet mit derselben Präzision, mit der sie Briefe formulierte – kein Wort zu viel, keine Geste, die ausgelegt werden konnte. Sie schützte ihn. Noch immer. Bis zum letzten Morgen.
-
-Am dritten Tag stand er vor dem Stadttor und wartete, während die Pferde gesattelt und die Packbündel verladen wurden. Arghun Aqa ritt auf ihn zu, prüfte kurz die Ordnung des Zugs, nickte Juvaini zu.
-
-„Fertig?"
-
-„Fertig."
-
-„Gut." Arghun Aqa wandte sein Pferd. „Wir reiten bis zum Abend. Morgen früh sind wir aus dem Staub raus."
-
-Juvaini bestieg sein Pferd. Das Tier war ruhig, ein graubrauner Wallach mit breitem Rücken und dem geduldigen Blick eines Tieres, das viele Reisen hinter sich hatte. Er saß im Sattel und sah zurück auf Karakorum – die Jurten und Lehmgebäude, den Palast, den silbernen Baum, der in der Morgensonne glänzte wie ein Versprechen oder eine Lüge, je nachdem, wie man es sah.
-
-Er suchte nicht nach ihr.
-
-Er wusste, dass sie dort war, irgendwo hinter den Wänden und Zelten, hinter ihrer Maske und ihrer Stille und ihren Papieren. Er wusste, dass sie nicht am Tor stand. Das war nicht ihre Art. Ihr Abschied war bereits gegeben worden, in einem schmalen Durchgang im roten Licht, mit drei Worten, die keine Liebeserklärung waren und doch alles enthielten, was eine Liebeserklärung enthält: die Sorge um den anderen, das Wissen um seine Natur, den Wunsch, dass er überlebt.
+Er strich mit der Hand über seine Brust, wo unter dem Stoff das schmale Blatt mit Fatimas Warnung lag, und schloss die Augen. In seinen Gedanken wiederholte sich ihr Satz, stetig, rhythmisch, im Takt der Hufe auf dem harten Steppenboden.
 
 Schreib weiter. Schreib immer weiter.
 
-Er würde es tun.
+Die Reiterkolonne tauchte ein in das weite, namenlose Dunkel der Steppe, und Karakorum versank hinter ihnen im Staub.
 
-Der Zug setzte sich in Bewegung. Arghun Aqa ritt an der Spitze, ruhig und aufrecht, ein Mann, der wusste, wohin er ritt und warum. Juvaini ritt dahinter, und der Staub stieg unter den Hufen auf, und Karakorum schrumpfte hinter ihm, und der Himmel war weit und blau und gleichgültig über allem.
-
-Er dachte an Töregenes Gesicht, als sie sein Gedicht zitiert hatte. Die beiläufige Freundlichkeit, mit der sie ihm gezeigt hatte, dass sie alles wusste. Er dachte an die Frage, die er sich nicht beantworten konnte und die wie ein Stein in ihm lag, schwer und ungelöst: Hatte sie ihn entfernt, weil sie Fatima besaß und nichts mit ihr teilte – oder hatte sie ihn entfernt, um ihn vor dem zu schützen, was kommen würde? War es Eifersucht gewesen? War es Voraussicht?
-
-Er wusste es nicht.
-
-Er würde es nicht wissen.
-
-Vielleicht war das dieselbe Frage.
-
-Der Staub legte sich auf seine Robe, auf seine Hände, auf das Leder, das sein Notizbuch umhüllte. Karakorum war nicht mehr zu sehen. Arghun Aqa ritt ruhig und schweigend, und die anderen Schreiber ritten schweigend, und die Eskorte ritt schweigend, und die Welt war Staub und Himmel und das ferne Grollen eines Sturms irgendwo im Norden.
-
-Schreib weiter.
-
-Er griff in den Sack, ohne abzusteigen, und tastete nach dem Leder, das das Notizbuch umhüllte. Es war da. Es war immer da gewesen.
-
-Schreib immer weiter.
-
-Er ließ es los und ritt weiter in den Westen.
-
----

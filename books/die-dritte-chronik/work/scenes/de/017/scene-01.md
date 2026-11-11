@@ -1,190 +1,136 @@
 ## Der Leser
 
-Die Kanzlei roch an diesem Morgen nach Staub und kaltem Tee. Juvaini saß auf seiner Matte, die Beine untergeschlagen, und sortierte die Abschriften des Vormittags. Draußen hing der Himmel grau über Karakorum, und der Wind trug den Geruch von nasser Erde und Pferdemist durch die offenen Zeltluken. Die Luft war dick, fast greifbar, und das Licht, das durch die eingerissenen Stoffbahnen fiel, hatte die Farbe von vergilbtem Papier.
+Der Wind über dem Orchon-Tal trug den Geruch von kaltem Talg und verbranntem Dung durch die Ritzen der Zeltwand, aber im Inneren der Kanzlei roch es nach nasser Kreide, Leim und dem Ruß alter Tuschesteine.
 
-Er arbeitete seit drei Stunden. Die Finger schmerzten vom Halten der Feder, die Knie vom langen Sitzen, doch er hatte fast die Hälfte geschafft. Die restlichen Dokumente lagen in einem Stapel neben ihm, die meisten unbedeutend: Berichte über Viehbestände, ein Steuererlass für eine unbedeutende Provinz, eine Anfrage zur Öffnung einer Karawanserei in der Nähe von Samarkand. Er nahm das nächste Blatt, ein loses Stück Papier von schlechter Qualität, und begann zu lesen.
+Ata-Malik Juvaini strich mit dem Daumen über einen Ballen Makulaturpapier. Es war grobes chinesisches Zeug, an den Rändern faserig und gelblich wie getrocknete Sehnen, bestimmt für die alltäglichen Kanzleientwürfe, für Steuerlisten, die man nach dem ersten Frost ohnehin verfeuerte, für das wertlose Geplapper des Reiches. Mit achtzehn Jahren besaß Juvaini bereits jene feine Hornhaut an der Innenseite des Mittelfingers, die einen Schreiber von den Kriegern unterschied, und doch fühlten sich seine Hände an diesem Morgen seltsam ungeschickt an. Die Kälte kroch aus dem gefrorenen Lehmboden herauf, fraß sich durch die Filzstiefel in die Knöchel.
 
-Der erste Satz traf ihn wie ein Schlag.
+Er ordnete die zerschnittenen Streifen, um sie mit einem Knochenmesser auf das Maß der persischen Eingaben zuzurichten. Unter einem Packen vergilbter Zolllisten von Rayy stieß er auf einen Bogen, der nicht dorthin gehörte.
+
+Es war kein Amtsblatt. Das Papier war dünner, geschmeidiger, von jener feinen, weichen Art, wie sie nur in den Werkstätten von Samarkand geschöpft wurde, getränkt mit Reismehl und poliert mit einem Achat, bis die Oberfläche glänzte wie Elfenbein. Juvaini hielt den Atem an. Die Schriftzeilen standen darauf nicht in den weit ausholenden, befehlenden Bögen der mongolischen Kanzlei, sondern in einer dichten, fast atemlosen Handschrift, die er kannte, seit er vor zwei Jahren das erste Mal vor dem Schreibpult der Khatun gestanden hatte.
+
+Es war Fatimas Hand.
+
+Doch es fehlten die üblichen Einleitungsformeln. Kein Lobpreis auf das Ewige Blaue Zelt des Himmels, keine Anrufung der Gnade des Schöpfers, kein Stempel, kein Vermerk über Empfänger und Botenritt.
+
+Am oberen Rand stand ein einziges Wort, abgesetzt von den übrigen Zeilen, als habe die Feder dort gezögert, bis ein winziger Tintentropfen ins Gefüge des Papiers gesunken war:
 
 *Schwester,*
 
-Seine Hand erstarrte. Die Feder zitterte über dem Tintenfass, ein Tropfen fiel auf das Blatt und breitete sich dunkel und schnell aus. Er sah den Tropfen an, dann den Brief. Drei Wörter, die nichts bedeuten sollten – und alles bedeuteten.
-
-*Schwester,*
-
-Er las es noch einmal. Die Handschrift war unverwechselbar: die leichte Rechtsneigung, die klaren, fast schonungslosen Linien. Fatima. Er hatte ihre Handschrift in den letzten Wochen studiert, sie analysiert, in sein Notizbuch kopiert. Er kannte ihre Buchstaben besser als die seiner Mutter. Und er erkannte jede Kurve, jeden Schwung, jede Unterbrechung, die dem Blatt seinen Rhythmus gab.
-
-Das Blatt war kein offizielles Dokument. Das Format war falsch, das Papier von der Sorte, die man für Makulatur verwendete. Und der Ton – dieser Ton, der von einem Menschen sprach, der sprach, ohne gehört zu werden – war absolut privat.
-
-Er hätte aufhören sollen. Ein Teil von ihm wusste, dass er das Blatt zurücklegen musste, als hätte er es nie gesehen. Wer einen Brief las, der nicht für ihn bestimmt war, verlor sich selbst und das Recht, sich jemals als anständig zu bezeichnen. Sein Vater hätte ihm die Hand dafür gebrochen.
-
-Doch der Teil, der nicht aufhören konnte, war stärker.
+Juvainis Herz schlug gegen seine Rippen wie ein gefangener Falke gegen das Holz eines Käfigs. Er wusste, was das Kanzleigesetz verlangte. Ein ungesiegeltes Blatt aus den Gemächern der Frauen war entweder sofort der Aufsicht zu übergeben oder ungeprüft den Kohlenbecken zu überantworten. Wer den Blick in die Papiere der Herrscherinnen senkte, riskierte die Sehne um den Hals.
 
 Er las.
 
-*Schwester, ich habe heute wieder den Weizen bestellt. Für Mashhad. Ich weiß, es ist sinnlos. Ich weiß, dass die Stadt tot ist und die Gassen leer und die Datteln nicht mehr wachsen. Aber ich tue es trotzdem. Ich tue es, weil das Tun das Einzige ist, was mich davon abhält, stehenzubleiben. Solange ich handle, lebe ich.*
-*Ich habe auch das Gerücht gehört. Sie nennen mich die Hexe aus Chorasan. Es ist ein Name, der sich wie Rauch ausbreitet, der in den Zelten hängen bleibt, der aus den Kellern der Verwalter hochsteigt, wenn ich vorübergehe. Ich spüre ihn, Schwester. Er brennt auf der Haut wie ein Mal, das man mir aufgepresst hat. Aber was kann ich tun? Ich kann keine Gerüchte verbrennen. Ich kann keinen Namen tilgen, der bereits in den Mündern der Menschen lebt.*
-*Heute hat mir die Regentin einen Armreif geschenkt. Gold. Schwer. Er liegt in meinem Zelt, und wenn ich ihn ansehe, weiß ich, dass er eine Kette ist, die ich um den Hals trage, auch wenn er äußerlich wie ein Schmuckstück wirkt. Sie hat ihn mir gegeben, um mich zu erinnern. Dass ich ihr gehöre. Dass alles, was ich bin, alles, was ich tue, alles, was ich besitze, ihr Eigentum ist. Ich bin ihre Feder, Schwester. Ihre Hand. Ihr Werkzeug. Und Werkzeuge werden weggeworfen, wenn sie stumpf werden.*
-*Ich habe Angst. Nicht vor dem Tod – der Tod ist ein alter Bekannter, der mir schon so oft über die Schulter gesehen hat, dass ich seinen Atem kaum noch spüre. Ich habe Angst vor dem Vergessen. Dass ich eines Tages aufwache und nicht mehr weiß, wer ich war. Dass ich nur noch die Hexe bin, die Schattenkanzlerin, das Werkzeug. Dass ich dich vergesse. Dass ich das letzte Mal, als wir durch die Gassen von Mashhad liefen, aus meinem Gedächtnis verliere. Dass ich das Lachen des alten Händlers nicht mehr höre. Dass ich die Koranverse nicht mehr spüre, die der Imam sprach, wenn die Sonne unterging.*
-*Deshalb schreibe ich. Deshalb schreibe ich dir. Damit ich nicht vergesse. Damit ich weiter weiß, dass es eine Welt gab, in der ich nicht die Hexe war, sondern nur deine Schwester. Nur ein Mädchen, das im Hof saß und die Datteln zählte, die der Händler uns schenkte.*
-*Bleib bei mir, Schwester. Bleib in diesem Papier. Sei die Erinnerung, die ich festhalte, wenn alles andere mich verlässt.*
-*Deine Fatima.*
+Er las, obwohl jeder Funke Verstand, den sein Vater ihm in Nischapur eingebläut hatte, ihn anschrie, die Augen abzuwenden. Die Zeilen waren auf Persisch verfasst, in jenem reinen, unberührten Idiom der östlichen Oasen, das keine mongolischen Brocken duldete, keine Härte, keine Verbeugung vor den Siegern.
 
-Der Brief endete – abrupt, als hätte der Schreiber mitten im Satz die Feder niedergelegt, unfähig, weiterzumachen. Juvaini starrte auf das letzte Wort, das verblasste *Fatima*, und spürte, wie sich etwas in ihm zusammenzog. Ein Schmerz, der nicht sein eigener war. Eine Trauer, die unterhalb seiner Rippen saß, schwer wie ein Stein, den man in einem Fluss fand.
+*Maschhad brennt noch immer in meinen Lungen,* stand da, und die Tinte schien an dieser Stelle heller zu sein, verdünnt mit Wasser oder etwas anderem. *Wenn der Morgen über die Jurten kriecht, suche ich nach dem Klang deiner Schritte auf den Fliesen unseres Hofes. Dreiundzwanzig Jahre, und ich weiß noch immer nicht, unter welcher Weide sie deinen Leib verscharrt haben. Sie haben mir das Fleisch gelassen, weil meine Zunge viele Laute formen kann. Dich haben sie im Staub gelassen, weil du nur das Singen gelernt hattest.*
 
-Er hatte nicht wissen dürfen, was er jetzt wusste.
+Maschhad. Das Jahr des Himmelsfeuers, 1221.
 
-*Es ist ein Brief an eine Tote.*
+Juvaini spürte eine Taubheit in den Fingerspitzen. Er war fünf Jahre nach jenem Blutbad geboren worden, doch der Geruch von verbranntem Holz und vertrocknetem Blut hatte über seiner gesamten Kindheit gehangen wie der Dunst über einem Sumpf. Er kannte die Geschichten: wie die Reiter des Dschingis Khan die Gelehrten auf die Mauern trieben, wie sie die Bibliotheken als Pferdeställe nutzten und den Koran unter die Hufe warfen. Aber dies hier war keine Chronik für die Nachwelt. Dies war kein Klagegesang, den man auf den Basaren zur Laute vortrug. Es war die nackte, ungeschützte Wunde einer Frau, die am Hof als unnahbar galt, als kalt wie der Kieselstein im Eisbach.
 
-Die Worte aus dem Brief hallten in ihm nach: *Mashhad, 1221.* Diese Jahreszahl – sie war eine Narbe, die sich durch Chorasan zog. 1221: die Zerstörung von Nischapur, die Massaker, der Geruch von verbranntem Fleisch, der noch Jahre später in der Luft hing. Seine Familie war in Dschuwain gewesen, ein kleines Dorf, das die Welle nur streifte, die großen Städte jedoch vernichtete. Mashhad fiel. Und jemand war gestorben, den Fatima geliebt hatte.
+Er las den letzten Satz.
 
-Er las den Brief ein zweites Mal.
+*Ich lebe unter Wölfen und lerne ihr Heulen, aber wenn ich bete, spreche ich deinen Namen, damit Gott nicht vergisst, wer ich einmal war.*
 
-Ein drittes.
+Ein Schatten fiel über das Pergament.
 
-Mit jeder Wiederholung verwandelte sich der Schmerz in Faszination. Das war die wahre Fatima. Nicht die Schattenkanzlerin mit den klaren Sätzen und der kalten Präzision, nicht die Frau, die Drohungen in Höflichkeit verpackte, sondern die Überlebende, die an eine Tote schrieb, weil sie nicht wusste, wie sonst sie weitermachen sollte.
+Juvaini fuhr nicht zusammen. Seine persische Erziehung, jene uralte Kunst des Überlebens durch vollkommene Reglosigkeit, hielt seine Glieder fest, doch das Blut wich ihm aus den Wangen.
 
-Das war gefährlich.
-
-Er ließ das Blatt sinken, legte es auf die Makulatur zurück, als wäre es nie weggenommen worden. Seine Hände zitterten nicht, aber sein Herz schlug schnell, hart, unrhythmisch. Er atmete tief ein, zwang sich zur Ruhe.
-
-Draußen hörte er Schritte.
-
-Er wusste sofort, dass es ihr Schritt war. Die anderen Schreiber gingen anders, schwerer, schleppender. Fatimas Schritte waren leicht, fast unhörbar, aber Juvaini hatte gelernt, sie zu hören. Es gab Tage, an denen er den Atem anhielt, um zu lauschen, ob sie vorbeikam, ob sie vielleicht innehalten würde, ob sie vielleicht – er verachtete sich für diesen Gedanken – etwas zu ihm sagen würde.
-
-Sie trat ein. Der Rücken gerade, das Gesicht undurchdringlich. Sie trug einen Stapel Papier, den sie auf den Tisch legte. Ihre Augen schweiften kurz über den Raum – ein Mechanismus, den er längst kannte: Sie sah alles, ohne es zu sehen, registrierte jede Veränderung, jede Unordnung, jeden Gegenstand, der nicht an seinem Platz war.
-
-Ihr Blick blieb auf der Makulatur haften.
+Fatima stand am Eingang der Zeltabteilung, den schweren Vorhang aus Ziegenhaar noch in der Rechten. Sie trug ein schlichtes Gewand aus dunkelbrauner Seide, gefüttert mit Fuchspelz, das Kragenteil hochgeschlossen gegen die Zugluft. An ihrem linken Handgelenk zeichnete sich unter der Manschette die schmale, silberweiße Narbe ab, die er schon oft bemerkt hatte, wenn sie den Schilfrohrkiel tunkte. Ihre Augen, tief in den Höhlen liegend und von jener unerbittlichen Klarheit, die selbst erfahrene Emire zum Schweigen brachte, ruhten auf seinen Händen.
 
 Auf dem Blatt.
 
-Ein Moment. Keine zwei Herzschläge.
+Die Stille zwischen ihnen dehnte sich, zäh und schwer wie kaltes Lampenöl. Man hörte das ferne Schlagen von Hufen auf der Koppel der Leibwache, das heisere Krächzen einer Krähe auf der Zeltspitze.
 
-Dann sah sie ihn an.
+Juvaini senkte die Hände langsam, ohne Hast, legte das Blatt flach auf das Pult und glättete die Kanten mit dem Handballen.
 
-Er kannte diesen Blick noch nicht, aber er verstand ihn sofort. Es war ein Blick, der durch jede Maske drang, jede Lüge durchschaute, jedes Zögern las. Ein Gerichtsprozess in drei Sekunden.
+„Ich habe die Makulatur für die Steuerlisten von Chorasan sortiert, Herrin“, sagte er. Seine Stimme klang erstaunlich fest, nur am Ende schlich sich ein Hauch von Brüchigkeit ein, den er nicht ersticken konnte. „Ein beschädigter Bogen hatte sich darunter gemischt.“
 
-„Juvaini.“ Nur sein Name. Eine Aufforderung.
+Fatima trat näher. Ihre Schritte auf dem Teppich waren lautlos. Der Duft von getrocknetem Kardamom und herber Steppenseife folgte ihr, überlagerte für einen Lidschlag den Gestank des Kanzleitalgs. Sie blieb auf der anderen Seite des niedrigen Tisches stehen, die Hände in den Ärmeln verborgen.
 
-Er stand auf, die Beine schwer vom langen Sitzen, und trat zu ihr. Seine Handflächen waren feucht, sein Mund trocken, aber er zwang sein Gesicht in jene freundliche Höflichkeit, die sein Vater ihm beigebracht hatte. „Ja, Herrin?“
+„Du lügst schlecht, Ata-Malik“, sagte sie leise. Ihr Persisch war sanft, ohne jede Schärfe, und gerade darum schnitt es wie ein frisch geschliffenes Federmesser. „Ein Schreiber deines Ranges erkennt den Unterschied zwischen chinesischem Hadernpapier und der Seide von Samarkand mit geschlossenen Augen. Du hast gewusst, was es ist, bevor du das erste Wort entziffert hast.“
 
-Sie nahm das Blatt. Las es nicht – sie hatte es schon tausendmal gelesen. Ihr Blick war eine Vergewisserung. Ein Test.
+Juvaini sah nicht auf. Seine Augen hafteten auf dem winzigen Tintenfleck hinter dem Wort *Schwester*. Er konnte die Lüge aufrechterhalten, konnte sich auf die Knie werfen, die Unschuld der Jugend beteuern, das Unvermögen, den Sinn zu fassen. Es wäre das Klügste gewesen. An diesem Hof war Klugheit oft gleichbedeutend mit Feigheit.
 
-„Hast du das gelesen?“
+„Ich habe es gelesen“, sagte er.
 
-Er zögerte. Ein falsches Wort, und alles wäre vorbei. Sie würde ihn nie wieder einen vertraulichen Satz schreiben lassen. Sie würde ihn aus der Kanzlei entfernen, an die Peripherie, wo die unwichtigen Dokumente landeten. Sie würde ihn unsichtbar machen.
+Das war gefährlich.
 
-„Nein“, sagte er.
+Fatima rührte sich nicht. Kein Muskel in ihrem Gesicht verriet, ob der Schlag ihn treffen würde oder der Befehl an die Wachen vor der Tür. In ihren Augen flammte etwas auf – kein Zorn, eher das plötzliche, schmerzhafte Aufflackern einer Flamme, in die jemand zu viel Luft geblasen hat. Sie wurde nicht bei einem Vergehen ertappt. Sie wurde bei einer Wahrheit ertappt, und das war am Hof von Karakorum ein weit tödlicheres Vergehen.
 
-Das Wort lag schwer in der Luft.
+„Du weißt, was auf diesem Blatt steht?“, fragte sie.
 
-Sie sah ihn an. Ein langer, stiller Blick, der durch ihn hindurchging und alles sah, was er nicht sagen konnte. Er wusste, dass sie wusste. Und sie wusste, dass er wusste, dass sie wusste.
+„Es ist an niemanden gerichtet, der noch Steuern zahlt, Herrin.“
 
-Es änderte nichts.
+Ein feines Zucken lief über ihre Unterlippe, kaum mehr als das Zittern eines Blattes im ersten Abendhauch. Sie zog die rechte Hand aus dem Ärmel. Die Finger waren lang, an den Spitzen braun von Nussgallentinte.
 
-„Hast du gelesen?“
+„Die Toten fordern mehr als die Steuereintreiber der Khatun“, sagte sie, und ihre Stimme verlor für den Bruchteil eines Atemzugs jene Härte, die sie sich wie einen Panzer umgelegt hatte. Sie deutete auf das kleine, mit glimmender Holzkohle gefüllte Becken aus getriebenem Kupfer, das zwischen den Schreibpulten stand, um die Kälte von den Fingern der Schreiber fernzuhalten.
 
-Die zweite Frage. Härter, direkter. Sie gab ihm keine Flucht.
+„Verbrenn es.“
 
-Er könnte jetzt die Wahrheit sagen. Er könnte gestehen, dass er es gelesen hatte, dass es ihm leid tat, dass er seine Grenzen überschritten hatte. Das wäre ehrlich. Das wäre, was ein anständiger Mensch tun würde.
+Es war kein Befehl an einen Knecht. Es war eine Frage, verkleidet als Urteil.
 
-Aber Juvaini hatte schon lange gelernt, dass die Wahrheit am Hof von Karakorum ein Luxus war, den man sich nur leisten konnte, wenn man genug Deckung hatte, um den Preis zu zahlen.
+Juvaini hob das Papier auf. Er spürte das feine Korn der Fasern unter seinen Fingerkuppen, die Wärme, die das Blatt aus seinen eigenen Händen aufgenommen hatte, das gelebte, ungetröstete Leid einer fremden Seele, die ihm in diesem Augenblick näher war als alle lebenden Menschen in dieser riesigen, kalten Jurtenstadt. Wenn er zögerte, wenn er um Gnade für die Zeilen bat, war er verloren – dann war er bloß ein sentimentaler Knabe aus Nischapur, unbrauchbar für das Spiel der Mächte. Wenn er es mit Spott verbrannte, war er ein Feind.
 
-„Nein, Herrin. Ich habe es nur gesehen und zurückgelegt. Es sah nicht nach einem offiziellen Dokument aus, also habe ich es nicht gelesen.“
+Er führte das Blatt an die Glut.
 
-Sie lächelte nicht.
+Das Papier fing langsam Feuer. Zuerst rollte sich die Ecke ein, färbte sich braun, dann schoss eine schmale, weiße Flamme empor. Der Rauch roch nicht nach Kanzleiruß, sondern süßlich, nach gebranntem Reis und Leim. Juvaini hielt den Streifen zwischen Daumen und Zeigefinger, bewegungslos, während die Flamme die Schriftzeichen fraß: *Maschhad*, *Bruder*, *Tränen*, bis nur noch ein schmaler Rand blieb und die Hitze seine Haut sengte. Erst als der Schmerz in die Nerven stach, ließ er den schwarzen Rest in die Asche fallen.
 
-„Verbrenn es“, sagte sie.
+Die Flocken zerfielen zu grauem Staub.
 
-Das war keine Bitte.
+Fatima sah zu, wie der letzte Funke erlosch. Ihr Gesicht war wieder die Maske, die ganz Karakorum fürchtete: ebenmäßig, verschlossen, unlesbar wie eine geweißte Mauer.
 
-Er nahm das Blatt. Seine Finger berührten das Papier, und er spürte Wärme, als ob die Tinte noch frisch wäre, als ob der Schmerz, der in den Worten lag, die Oberfläche erwärmte. Er trat zur Kohlenpfanne, die in der Ecke der Kanzlei stand, und legte das Blatt auf die Glut, ohne eine Regung zu zeigen.
+„Die Register für die Gerstenlieferungen aus Choresmien müssen bis zur Abenddämmerung kopiert sein“, sagte sie, wandte sich um und verließ die Kanzlei, ohne ein weiteres Wort zu verlieren. Das schwere Ziegenhaar des Vorhangs fiel hinter ihr zu und schnitt das matte Licht der Nachmittagssonne ab.
 
-Die Flammen fraßen sich am Rand entlang, langsamer, als er erwartet hatte. Die Buchstaben schrumpften und verschwanden, als wären sie nie geschrieben worden. Der Name *Fatima* war zuerst da, dann verging er, dann das Wort *Schwester*, dann alles andere. Asche, die zerfiel, als hätte es den Brief nie gegeben.
+Juvaini blieb allein zurück. Seine Fingerkuppe schmerzte, eine rote Brandblase begann sich unter dem Nagel zu bilden. Er presste den Daumen fest dagegen, um den Schmerz tiefer ins Fleisch zu treiben.
 
-Er sah zu, wie die Asche aufstieg und sich im Luftzug verlor.
+Drei Tage vergingen, an denen sie kein Wort wechselten, das über Maße, Zölle und das Siegelwachs hinausging. Fatima diktierte mit jener schneidenden Genauigkeit, die keinen Widerspruch duldete; Juvaini schrieb, bis ihm der Arm lahmte, das Gesicht geneigt, die Augen auf den feuchten Schriftzügen. Er sprach Firdausi nicht an, er wagte keine rhetorischen Ornamente, er tat seine Arbeit wie ein Ochs am Göpel.
 
-Als er sich umdrehte, war sie weg.
+Am vierten Tag, die Sonne stand bereits tief hinter den kahlen Bergrücken des Changai-Gebirges und tauchte den Schnee draußen in ein schmutziges Violett, trat sie an sein Pult.
 
----
+Die anderen Schreiber hatten den Raum bereits verlassen, um die Abendrationen in den Gemeinschaftszelten zu empfangen. Die Kohlen im Becken glühten nur noch matt unter einer dicken Schicht weißer Asche.
 
-Die nächsten Tage vergingen ohne Zwischenfall. Juvaini arbeitete, sortierte, schrieb. Er sah Fatima mehrmals, aber sie sprach ihn nicht an, suchte keinen Blickkontakt. Das war normal. In ihrer Welt gab es keine Höflichkeiten, keine Nebensächlichkeiten. Nur Arbeit. Nur die Dinge, die getan werden mussten.
+Fatima legte ein gefaltetes Blatt vor ihn hin.
 
-Doch jedes Mal, wenn sie an ihm vorbeiging, spürte er ihren Blick – flüchtig, aber schwer. Eine Beobachtung, die nicht aufhörte.
+Es war wieder jenes Seidenpapier aus Samarkand, sauber an den Rändern beschnitten, gefaltet in drei gleiche Teile. Sie sprach nicht. Sie sah ihn nicht einmal an. Sie legte es einfach auf das polierte Holz, drehte sich um und ging zu ihrem eigenen Schreibtisch am anderen Ende des Zeltes, wo sie begann, die Kanzleibücher in ihre Filzhüllen zu wickeln.
 
-Am dritten Tag, am späten Nachmittag, als die Sonne durch die Zeltwände aus Büffelleder fiel und den Raum in einen warmen, staubigen Farbton tauchte, stand sie vor seinem Tisch.
+Juvainis Herz schlug mit dumpfen Schlägen. Er öffnete die Faltung mit zitternden Fingern.
 
-Sie sagte nichts.
+Keine Siegel. Keine Anrede an den Hof. Nur zwei Zeilen, geschrieben mit einer frischen, tiefschwarzen Tinte, die noch den Duft von Rosenwasser trug:
 
-Sie legte ein Blatt Papier auf seine Abschriften.
+*Sie wollen Güyük zum Khan machen, noch ehe das Gras hoch genug für die Herden ist. Wenn er den Bogen spannt, wird kein persisches Haus mehr stehen. Bete für uns, Schwester. Der Himmel ist hier zu weit, um die Stimmen der Schwachen zu hören.*
 
-Dann ging sie.
+Juvaini las es einmal. Dann las er es ein zweites Mal.
 
-Juvaini wagte nicht, sich zu rühren. Er starrte auf das Blatt, das vor ihm lag, und spürte, wie sein Herz schneller schlug. Es war das gleiche Papier wie zuvor, dieselbe schlechte Qualität, dieselben leicht vergilbten Ränder. Und dieselbe Handschrift.
+Es gab keine Anweisung, es zu verbrennen. Es gab keine Warnung, kein Versprechen. Es war die Übergabe einer Last. In diesem Augenblick begriff er mit jener erschreckenden Hellsichtigkeit, die ihn zeit seines Lebens begleiten sollte, dass er aufgehört hatte, nur ihre Feder zu sein. Sie hatte ihn zu ihrem Leser gemacht. Sie hatte eine Bresche in die Mauer ihrer Einsamkeit geschlagen, und er war hindurchgetreten, ohne zu wissen, ob dahinter Rettung lag oder der Abgrund.
 
-Er öffnete es langsam, als ob das Papier zerbrechen könnte.
+Er faltete das Blatt zusammen und schob es in die innere Tasche seiner Weste, direkt auf die Haut, wo es bei jedem Atemzug gegen seine Rippen rieb. Als er aufblickte, war Fatimas Platz leer. Der Vorhang schwang noch leicht im Zugluftstoß.
 
-*Schwester,*
+In dieser Nacht fand Juvaini keinen Schlaf.
 
-Er las.
+Das Kanzleizelt der Gehilfen war voll von den Geräuschen schlafender Männer – dem tiefen, sägenden Schnarchen der mongolischen Rechnungsführer, dem unruhigen Murmeln eines Knaben aus Buchara, der im Traum nach seiner Mutter rief. Eine einzige Butterlampe brannte in einer Tonschale in der Ecke, warf zitternde, rußige Schatten an die Filzwand.
 
-*Schwester, ich habe einen Brief verbrennen müssen. Er lag auf der Makulatur, und ein junger Mann hat ihn gefunden. Ich habe ihn getestet. Er hat bestanden. Nicht weil er die Wahrheit gesagt hat – er hat gelogen. Aber er hat gelogen, um mich zu schützen und um nicht zu wissen, was er nicht wissen sollte. Das ist die Kunst des Hofes: zu wissen, ohne zu zeigen, dass man weiß. Ich denke, er hat sie verstanden.*
-*Jetzt frage ich mich: Habe ich einen Fehler gemacht? Indem ich ihm den Brief gezeigt habe, meine ich. Indem ich ihm erlaubt habe, zu sehen, was niemand sehen darf. Die andere Seite der Maske. Das Gesicht, das ich niemandem zeige.*
-*Aber vielleicht war es kein Fehler. Vielleicht war es eine Entscheidung. Ein Netz, das ich auswerfe, und hoffe, dass der, der darin hängen bleibt, derjenige ist, den ich brauche.*
-*Ich weiß nicht, ob ich ihn brauche, Schwester. Ich weiß nicht, ob ich jemanden brauche. Ich bin es gewohnt, allein zu sein. Allein zu schreiben, allein zu handeln, allein zu überleben. Aber manchmal, in den Nächten, wenn der Wind die Wände meines Zeltes schüttelt und ich das Gefühl habe, dass das ganze Reich auf mir lastet, denke ich: Es wäre schön, einen Zeugen zu haben. Jemanden, der liest, was ich schreibe, und versteht, was ich nicht sagen kann.*
-*Vielleicht ist das meine Schwäche, Schwester. Vielleicht ist das der Fehler, den ich eines Tages bezahlen werde. Ich will nicht allein sein.*
-*Aber ich habe Angst davor, jemanden zu nah zu lassen.*
-*Was soll ich tun?*
-*Deine Fatima.*
+Juvaini zog sein persönliches Notizbuch unter dem Sattelkissen hervor. Es war mit weichem Ziegenleder gebunden, die Seiten gefüllt mit Versen aus Schiras und Isfahan, Abschriften von Gedichten, mit denen er sich in den langen Steppenwintern vorgemacht hatte, die Schönheit der Welt sei unzerstörbar, wenn man sie nur in das richtige Versmaß zwang. *Das Schwert erobert, die Feder bleibt.* So hatte sein Vater es gesagt. Ein schöner Satz. Ein stolzer Satz.
 
-Juvaini las den Brief zweimal. Dann las er ihn ein drittes Mal, langsamer, wie man einen Durst löscht, den man nicht stillen kann.
+Er tauchte die Feder in das kleine Reisefässchen.
 
-Sie gab ihm einen Zeugen.
+Er wollte ihre Handschrift fassen. Er wollte die Art beschreiben, wie ihre Buchstaben sich neigten, nicht unterwürfig wie die Züge der Kanzleischreiber vor ihren Herrn, sondern wie Schilfrohr im Sturm, das sich beugt, um nicht zu brechen. Er suchte nach den Bildern seiner Vorfahren – nach Zypressen, nach dem Schwung einer Bogensehne, nach dem Glanz von Sternen über den Kuppeln von Chorasan.
 
-Sie gab ihm Einblick.
+*Gleich dem Flug der Reiher über dem Schilf des Dschaihun…*
 
-Als er aufsah, war die Kanzlei leer. Nur das Summen der Insekten, das leise Knistern des Feuers in der Kohlenpfanne, der ferne Lärm des Lagers, der durch die Wände drang.
+Er hielt inne. Er strich die Zeile durch.
 
-Er faltete den Brief und legte ihn in sein Notizbuch. Ein Geschenk, das schwerer wog als jeder Armreif aus Gold.
+Das Wort war falsch. Es war zu süß, zu glatt, ein Parfüm über einem offenen Grab. Er setzte neu an, wählte ein härteres Versmaß, sprach von Tusche und Tränen, von Eisen und Seide. Doch je länger er schrieb, desto deutlicher spürte er das Misslingen. Die Verse blieben Papier. Sie erreichten nicht jenen Schmerz, der in dem einzigen Wort *Schwester* gelegen hatte, erreichten nicht das kalte Leuchten in ihren Augen, als sie ihn vor das Feuer gestellt hatte.
 
----
+Er starrte auf das Blatt.
 
-Nachts konnte er nicht schlafen.
+Die Kunst, an die er sein ganzes kurzes Leben geglaubt hatte – die Kunst, die alles retten, alles veredeln, jedes Grauen in Wohlklang verwandeln sollte –, war vor dieser Wirklichkeit stumm. Sie vermochte nichts zu trösten. Sie vermochte nicht einmal, das Zittern ihrer Finger zu bewahren, als sie ihm das Blatt hingelegt hatte.
 
-Er saß in seinem Zelt, die Lampe flackerte, und vor ihm lag ein Blatt Papier. Er hatte die Feder in der Hand, die Tinte war frisch, aber die Worte – die Worte kamen nicht.
+Ein Riss ging durch sein Denken, fein und unsichtbar wie der Bruch in einer Schale aus feinstem Porzellan, die man zu heiß gewaschen hat. Er sah auf seine geschwärzten Fingerkuppen, auf die Brandblase am Daumen, die im gelblichen Licht der Lampe glänzte.
 
-Er versuchte, ein Gedicht zu schreiben. Über ihre Handschrift. Über die Art, wie ihre Buchstaben auf dem Papier saßen, wie die Kurven sich öffneten und schlossen, wie die Linien bestimmt waren, aber auch verletzlich. Eine Handschrift wie eine Landschaft: karg, aber nicht tot. Herb, aber nicht lieblos.
+Juvaini riss die Seite mit seinen unfertigen Versen aus dem Buch.
 
-Er schrieb einen Vers. Dann einen zweiten. Dann durchstrich er beide.
+Er verbrannte sie nicht. Er zerknüllte das Papier in der Faust, drückte es zusammen, bis die Ränder ihm in die Handfläche schnitten, und stopfte es tief in die Strohunterlage seines Lagers, unter den Schmutz und die Kälte der fremden Erde.
 
-Die Worte waren hölzern, kalt, bedeutungslos. Sie erreichten nicht, was er fühlen wollte. Die Sprache, die ihm sonst so leicht von der Feder floss, die Verse, die er für die Gouverneure und Prinzessinnen schrieb – sie versagten hier, wo es darauf ankam. Wo er etwas ausdrücken wollte, das tiefer lag als Höflichkeit, tiefer als Macht, tiefer als das, was sich in Worte fassen ließ.
+Dann legte er sich zurück, zog den Schafspelz bis an das Kinn und lauschte dem Wind, der draußen an den Tauen der Jurte riss, als wollte er das ganze Lager mitsamt seinen Schreibern, seinen Fürsten und seinen Lügen hinwegfegen in die finstere, unendliche Nacht.
 
-Die Hand einer Frau, die an die Toten schrieb.
-
-Wie sollte man das in Verse fassen?
-
-Er warf die Feder hin.
-
-*Die Liebe hat ein Medium gefunden: Papier.*
-
-Aber er verlor sich darin. Sie war nicht erreichbar, nicht fassbar, nicht wiederzugeben.
-
-Er las ihren Brief noch einmal, den er im Notizbuch versteckt hatte. Die Worte, die sie ihm anvertraut hatte.
-
-Das war kein Gedicht. Es war roher, persönlicher, verletzlicher. Es war die Wahrheit, die sie niemandem sonst zeigte.
-
-Und er wusste, dass er sie nie würde erreichen können. Dass seine Kunst, seine Worte, seine Verse nie das einfangen würden, was sie ihm gab.
-
-Er blies die Lampe aus und lag im Dunkeln, die Hände unter dem Kopf, die Decke kalt um die Schultern.
-
-Die Schönheit war nutzlos.
-
-Und das war die Rissbildung, die er fühlte: der Glaube, dass Schönheit alles fassen kann, zerbrach an der Handschrift einer Frau aus Chorasan, die in der Dunkelheit an eine Tote schrieb.
-
-Er schloss die Augen.
-
-Der Morgen würde kommen. Der nächste Brief würde kommen. Und er würde lesen, weil es keine andere Wahl gab, weil er verstehen musste, weil er bereits verstrickt war, tiefer, als er je gedacht hatte.
-
-Am nächsten Morgen fand er einen neuen Brief unter seinem Filzkissen.
-
----

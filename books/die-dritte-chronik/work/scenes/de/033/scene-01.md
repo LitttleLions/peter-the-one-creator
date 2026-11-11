@@ -1,304 +1,156 @@
-# Das Siegel
+## Das Siegel
 
-*Buch: Die dritte Chronik*
-*Kapitel-ID: 033*
+Die Gerichtsjurte roch nach altem Talg, nach dem beißenden Dunst von getrocknetem Schafsmist im eisernen Ofen und nach dem kalten, metallischen Hauch von Eisenfeilspänen, mit denen die uigurischen Schreiber ihre Tinte schwärzten. Draußen riss der Winterwind an den geflohenen Hanfseilen, schlug das schwere Filzdach mit dumpfen, rhythmischen Schlägen gegen das Holzgestänge, als fordere die Steppe selbst Einlass in diesen Raum, in dem seit vier Jahrzehnten das Schicksal von Stämmen und Fürsten gewogen worden war.
 
----
+Shigi Qutuqu saß auf seinem niedrigen Schemel aus Pappelholz, die Beine unter den schweren Zobelpelz geschlagen, und bewegte sich nicht. Seine alten Finger, krumm und verhärtet von unzähligen Wintern und den Sehnen der Kriegsbögen seiner Jugend, ruhten reglos auf den Schenkeln. Vor ihm auf dem niedrigen Schreibtisch lag ein einzelnes Blatt chinesisches Maulbeerbaumpapier.
 
-Der Morgen war grau, als Shigi Qutuqu die Gerichtskanzlei betrat. Der Wind hatte über Nacht gedreht und trug den Geruch von Schnee aus den Bergen, vermischt mit dem Rauch der Lagerfeuer, die zwischen den Zelten brannten. Die Kanzlei war kalt; der Feuerkorb in der Ecke war nicht angezündet worden, und die Tinte im Bronzenapf hatte eine hauchdünne Eiskruste gebildet.
+Das Papier war zäh, gelblich wie getrocknete Sehnen und an den Rändern von Ruß und Schweiß gezeichnet. Am unteren Rand stand ein Name, geschrieben mit einer Hand, die Shigi so vertraut war wie der Lauf der Sterne über dem Chentii-Gebirge.
 
-Auf dem Tisch lag das Dokument.
+Er senkte den Blick auf die Tusche. 
 
-Er wusste es, bevor er es sah. Die Art, wie die Schriftrolle lag – ausgerollt, beschwert mit zwei Steinblöcken, die er aus der Gerichtsstube kannte – verriet ihm, dass hier etwas vorbereitet worden war, das nicht auf seine Ankunft gewartet hatte. Die Kanzlei roch nach kaltem Stein und alter Tinte, nach dem Staub der Akten, die in den Regalen standen, und nach etwas anderem, das er nicht sofort benennen konnte. Angst. Sie hatten Angst hier hereingetragen, und die Angst saß noch in den Falten des Filzes, der den Boden bedeckte.
+Es war Fatimas Schrift. Doch es war nicht jene vollendete, fließende Kunstfertigkeit, mit der sie einst die Edikte der Khatun in drei Sprachen aufgesetzt hatte – diese Schrift, die kühl und geschmeidig wie das Wasser des Cherlen durch die Zeilen geglitten war. Diese Züge hier waren eckig, zerrissen, von Schmerz und gebrochenen Gelenken in die Fasern gepflügt. Die Rundungen der arabischen Buchstaben waren abgehackt, als hätte das Schilfrohr bei jedem Bogen gezittert; an einer Stelle war das Papier eingerissen, dort, wo die Hand den Druck nicht mehr hatte abfedern können. Ein winziger, bräunlicher Fleck haftete an der Schlaufe des *Mim* – kein Tropfen Tinte, sondern geronnenes Blut.
 
-Er trat näher.
+Shigi schloss für zwei Herzschläge die Lider. In der Dunkelheit hinter seinen Augen sah er sie am Grab von Yelü Chucai stehen, die Hände in den Ärmeln verborgen, schweigend, während der Wind die Asche der Totenopfer über die Gräber trieb. Zwei Fremde an einem fremden Hof, die dasselbe Gesetz des Überlebens gelernt hatten: Sei nützlich, oder werde zertreten.
 
-Das Geständnis.
+Er öffnete die Augen wieder.
 
-Die Schrift rollte sich vor ihm aus wie eine Landschaft, die er nicht wiedererkennen wollte. Fünf Absätze, eng beschrieben, in der sauberen Kanzleischrift, die er aus tausend Dokumenten kannte. Die Worte waren einfach, präzise, ohne Umschweife. Sie gestand, den Prinzen Köden durch einen Trunk verhext zu haben, gestand die Absicht, den Thron zu schädigen, gestand den Umgang mit Geistern und Giften, die sie in zwanzig Jahren am Hof gesammelt haben sollte.
+Neben dem Papier lag kein Vernehmungsprotokoll. Kein uigurischer Faden, der die Seiten zusammenhielt, keine beglaubigten Zeugenaussagen, kein Verzeichnis der beschlagnahmten Gegenstände. Nur dieses eine Blatt, das von bösen Zaubern sprach, von Puppen aus Rosshaar und Flüchen, die man angeblich in die Kleidersäume des Prinzen Köden genäht habe, um sein Mark zu dörren.
 
-Er las die Worte zweimal.
+Ein Schatten fiel über den Tisch, schnitt das trübe Licht ab, das durch den Rauchabzug fiel.
 
-Dann sah er auf die Unterschrift.
+Güyük stand auf der anderen Seite des Tisches. Er hatte den schweren Wolfspelz nicht abgelegt; Reif glänzte in den grauen Spitzen der Haare, die seinen Kragen säumten. Der Großkhan roch nach feuchtem Leder, Pferdeschweiß und dem herben, kalten Geruch von frischem Schnee. Seine Züge waren wie aus gelbem Schiefer gehauen – keine Regung, keine Falte, die ein Zögern verriet, nur die harte, schmale Linie seines Mundes, die seit seiner Thronbesteigung noch unerbittlicher geworden war.
 
-Fatima.
+„Du hast es gelesen“, sagte Güyük. Seine Stimme war kein Befehl; sie war eine Feststellung, trocken wie splitterndes Eis.
 
-Er kannte ihre Handschrift besser als jede andere am Hof. Er hatte ihre Briefe gelesen, ihre Diktate geprüft, ihre Korrekturen in den Randnotizen der Kanzlei studiert. Die Unterschrift war echt. Jede Kurve, jeder Druckpunkt, die leichte Neigung des letzten Buchstabens – das war ihre Hand, die diese Zeichen auf das Papier gesetzt hatte.
+Shigi hob den Kopf nicht. Seine Augen blieben auf der Unterschrift haften.
 
-Und doch war das Dokument eine Lüge.
+„Ich habe die Zeilen gelesen, mein Khagan“, antwortete der alte Richter langsam. Seine Stimme klang tief, heiser vom Rauch vieler Nächte. „Ich sehe das Geständnis. Aber ich vermisse die Akte.“
 
-Er wusste es, wie er es immer wusste, wenn ein Urteil nicht stimmte: nicht durch Beweise, sondern durch das, was fehlte. Die Worte waren zu glatt. Zu wenige Korrekturen. Zu wenige Stellen, an denen die Feder gezögert hatte. Ein Geständnis, das unter Folter entsteht, trägt die Spuren des Zögerns – ein abgebrochener Buchstabe, ein Tropfen Tinte, eine Zeile, die neu begonnen wurde. Dieses Dokument war in einem Zug geschrieben worden, von einer Hand, die geführt worden war.
+„Es gibt keine Akte.“
 
-Er ließ den Finger über die Zeilen gleiten.
+„Das Gesetz verlangt nach den Befragungen.“ Shigi tippte mit der knorrigen Kuppe seines Zeigefingers auf das nackte Holz neben dem Papier. „Wo ist das Protokoll über den Becher? Wo ist die Befragung über den bitteren Wein, der Ögedei Khagan in den Schlaf sandte, aus dem er nicht mehr erwachte?“
 
-„Das Vernehmungsprotokoll fehlt“, sagte er.
+Die Stille in der Jurte dehnte sich aus. Nur das Knistern des Talgs in der eisernen Schale zerriss das Schweigen. Ein Diener, der reglos am Zelteingang stand, hielt den Atem an; man hörte das feine Knarren des gefrorenen Filzes im Wind.
 
-Die Worte hingen in der kalten Luft. Er hatte sie laut gesprochen, ohne sich umzudrehen, ohne zu wissen, ob jemand hinter ihm stand. Aber er wusste es. Er hatte die Schritte gehört, die leisen, absichtlich gleichmäßigen Schritte, die vor der Tür innegehalten hatten, bevor sie eintraten.
+Güyüks Augen verengten sich zu zwei schmalen, dunklen Spalten.
 
-„Es gibt keins“, sagte Güyük.
+„Der Khan zieht eine Anklage zurück, die er nie gestellt hat“, sagte Güyük leise.
 
-Shigi wandte sich um. Der Khan stand im Eingang der Kanzlei, die Schultern breit unter dem schweren Mantel aus Wolfsfell, die Hände leer an den Seiten. Er trug keine Waffe. Er brauchte keine.
+Shigi schaute auf. Die Blicke der beiden Männer trafen sich über dem Schreibtisch, stumm, ohne ein Zucken der Wimpern. Es war das Duell zweier Überlebender, die wussten, wie Reiche gebaut wurden: nicht aus Wahrheit, sondern aus dem geschickten Begraben von Leichen.
 
-„Die Anklage lautet auf Verhexung“, sagte Shigi. „Nicht auf Gift.“
+Güyük begrub die Waffe, die er nicht bekommen hatte. Fatima hatte geschwiegen. Sie hatte die Folter ertragen, hatte das Fleisch von ihren Knochen reißen lassen, aber sie hatte den Namen des Hauses Tolui nicht preisgegeben. Sie hatte dem Khagan die Rechtfertigung verweigert, Batu an der Wolga und Sorkaktani im Zeltlager mit Feuer und Schwert zu überziehen. Und so blieb Güyük nichts als dieses armselige, aberwitzige Blatt über Hexerei – ein Urteil für das gemeine Volk, eine Lüge, um die Hinrichtung einer Frau zu rechtfertigen, deren einziges Verbrechen darin bestand, das Herz des Reiches besser gekannt zu haben als seine Herrscher.
 
-„Die Anklage lautet, wie ich sie bestimmt habe.“
+„Die Anklage wegen Giftmordes existiert also nicht“, sagte Shigi. Es war keine Frage.
 
-„Der Prinz ist an einem Fieber gestorben. An einem Fieber, das die Heiler nicht heilen konnten. Es gibt keine Zeugen für einen Giftanschlag, keine Spuren, keine Untersuchung.“
-
-Güyük trat näher. Seine Stiefel hinterließen feuchte Abdrücke auf dem Filz. „Der Prinz ist an dem gestorben, was sie ihm angetan hat. Das Geständnis sagt es.“
-
-„Das Geständnis sagt es“, wiederholte Shigi. „Weil es sie sagt.“
-
-Er hielt den Blick des Khans, während er die Worte sprach. Es war still in der Kanzlei. Das Feuer im Korb war erloschen, und die Kälte kroch von den Wänden her in den Raum, legte sich auf die Tinte, auf das Papier, auf die Hände, die darauf warteten, ein Urteil zu besiegeln.
-
-„Sie hat unterschrieben“, sagte Güyük.
-
-„Alles ist unterschrieben, wenn man lange genug unterschreiben lässt.“
-
-Güyüks Kiefer spannte sich. Einen Moment lang sah Shigi den Mann, der er hätte sein können, wenn die Macht ihn nicht geformt hätte: einen Soldaten, der an klare Befehle gewöhnt war und an die Ordnung der Schlacht, wo die Wahrheit aus Sieg und Niederlage bestand. Aber hier gab es keine Schlacht. Nur Papier.
-
-„Du zweifelst an der Echtheit ihrer Unterschrift?“
-
-„Ich zweifle an der Echtheit ihres Willens.“
-
-„Sie hat gestanden. Vor Zeugen. Der Schreiber hat es protokolliert.“
-
-„Ich sehe kein Protokoll.“
-
-Güyük machte eine Bewegung mit der Hand, knapp, ungeduldig. „Der Schreiber war überfordert. Es gab Komplikationen. Die Zeugen haben ihre Aussagen gemacht, die sind in der Akte.“
-
-„Ich sehe keine Aussagen.“
-
-„Sie werden nachgereicht.“
-
-Shigi ließ den Blick über den Tisch gleiten. Die Steinblöcke, die das Dokument beschwerten, waren aus der Gerichtsstube geholt worden – er erkannte die feinen Risse im grauen Stein, die er selbst vor Jahren markiert hatte, als er die Blöcke hatte schleifen lassen, damit sie die Papiere nicht beschädigten. Er hatte sie für die großen Prozesse benutzt, für die Urteile, die das Reich betrafen. Jetzt lagen sie auf einem Geständnis, das keine Zeugen hatte, kein Protokoll, keine Wahrheit.
-
-„Der Khan zieht die Anklage wegen Giftes zurück?“, fragte er.
-
-Güyük sah ihn lange an. „Es gab keine Anklage wegen Giftes.“
-
-„Es gab Gerüchte.“
-
-„Gerüchte sind keine Anklagen. Der Khan zieht nichts zurück, was er nie gestellt hat.“
-
-Shigi verstand. Die Giftspur verschwand amtlich. Die Frage nach dem Becher, nach dem Diener, nach dem, was in der Nacht von Ögedeis Tod geschehen war – sie würde nie gestellt werden. Güyük begrub die Waffe, die er nicht bekommen hatte, und machte aus Fatima eine Verhexerin, eine Wahnsinnige, eine Frau, die aus Neid und Bosheit gehandelt hatte. Kein politisches Verbrechen. Kein Mord am Khan. Nur der Fluch einer Sklavin, die zu viel wusste.
-
-„Du willst, dass ich das besiegle“, sagte Shigi.
-
-„Es ist ein Urteil. Es braucht dein Siegel.“
-
-„Ich habe vierzig Jahre lang Urteile besiegelt. Ich habe noch nie ein Urteil besiegelt, das keine Grundlage hatte.“
-
-„Es hat eine Grundlage. Das Geständnis.“
+„Sie hat nie existiert“, erwiderte Güyük kalt. „Was hier liegt, ist die Hexerei gegen meinen Bruder Köden. Er starb mit ihrem Namen auf den Lippen. Das Reich verlangt Sühne.“
 
 „Das Geständnis ist erpresst.“
 
-Güyüks Stimme blieb ruhig. „Es ist unterschrieben.“
+„Es ist unterschrieben.“
 
-„Alles ist unterschrieben, wenn man lange genug unterschreiben lässt.“
+„Alles ist unterschrieben, wenn man lange genug unterschreiben lässt.“ Shigies Stimme blieb ebenmäßig, ohne Bitterkeit, getragen von der traurigen Weisheit eines Mannes, der Hunderte von Geständnissen gesehen hatte. „Du weißt, was diese Feder geführt hat, Güyük. Es war nicht ihre Reue. Es waren deine Knechte im Dunkeln.“
 
-Einen Moment lang war es still. Shigi hörte den Wind draußen, der an den Zeltplanen riss, das ferne Wiehern eines Pferdes, das Klirren von Metall aus der Richtung der Schmiede. Die Welt ging weiter. Die Welt würde immer weitergehen, mit oder ohne dieses Urteil, mit oder ohne Fatima, mit oder ohne die Wahrheit, die in den Falten dieser Kanzlei vergraben lag.
+Güyük trat einen halben Schritt näher. Der schwere Saum seines Mantels strich über den Teppich. Seine Hände ruhten schwer auf dem Griff seines Krummschwerts, die Knöchel weiß vor Anspannung.
 
-„Du bist der Oberrichter des Reiches“, sagte Güyük. „Du hast den Eid auf das Gesetz geschworen. Das Gesetz verlangt, dass Urteile besiegelt werden, wenn sie rechtmäßig zustande gekommen sind.“
+„Siegel“, sagte der Khan.
 
-„Dieses Urteil ist nicht rechtmäßig zustande gekommen.“
+Ein einziges Wort. Es fiel wie ein Stein auf das Pergament.
 
-„Es ist unterschrieben. Es ist bezeugt. Die Zeugen werden ihre Aussagen machen, wenn du sie brauchst. Das Gesetz verlangt keine Folterprotokolle, wenn das Geständnis vorliegt.“
+Shigi rührte sich nicht. Seine Hand lag flach auf dem Tisch, die Adern traten blau und dick hervor wie alte Wurzeln unter gefrorener Steppenerde. 
 
-„Das Gesetz verlangt, dass ich prüfe, ob das Geständnis wahr ist.“
+„Siegel“, wiederholte Güyük nicht. Er wusste, dass Wiederholungen die Macht schwächten. Stattdessen neigte er den Kopf ein wenig zur Seite, und in seinen Blick trat etwas, das beinahe wie eine finstere, giftige Milde wirkte.
 
-„Und wie willst du das prüfen?“, fragte Güyük. „Willst du sie verhören? Willst du sie in deine Kanzlei bringen lassen, damit sie dir ihre Geschichte erzählt? Willst du sie anfassen, ihre Hände sehen, ihre Augen?“
+„Glaubst du, du rettest sie, wenn du deine Hand zurückziehst, alter Mann?“, sprach Güyük, und jedes Wort war geschliffen, präzise, tödlich wie ein vergifteter Pfeil aus dem Hinterhalt. „Wenn du nicht siegelst, siegelt ein anderer. Eljigidey wird es tun. Oder ein kleiner Schreiber aus der Kanzlei der Uiguren, ein Wurm, der für zwei Silberbarren jeden Namen unter das Beil bringt.“
 
-Shigi schwieg.
+Güyük beugte sich hinab, bis sein Gesicht nur noch zwei Handbreit von dem des Richters entfernt war. Shigi spürte den Atem des Khagans – er roch nach Kumys und geröstetem Fleisch, heiß und fordernd.
 
-„Sie ist in einer Zisterne“, sagte Güyük. „Sie ist seit drei Tagen dort. Sie hat nichts gegessen, nichts getrunken, nichts gesagt. Sie hat unterschrieben, weil sie wusste, dass es vorbei ist. Sie will sterben, Shigi. Sie will es. Du würdest ihr nur das Geschenk verweigern, das sie verdient hat.“
+„Wenn sie durch die Hand eines Knechtes stirbt, stirbt sie zweimal“, flüsterte Güyük. „Einmal dem Urteil nach, und einmal der Ehre nach, weil ein kleiner Richter ihren Namen auslöscht wie den Schmutz von einem Stiefel. Du hast mit meinem Vater geritten. Du hast Hö'elüns Milch getrunken. Du bist das Gesetz, Shigi Qutuqu. Du bist die letzte Würde, die sie kriegen kann.“
 
-„Das Geschenk?“
+Das Wort schnitt tiefer als jede Drohung.
 
-„Den Tod mit Würde. Den Tod durch das Gesetz, nicht durch die Dunkelheit. Den Tod, der ihr bleibt, nachdem sie alles andere verloren hat.“
+*Die letzte Würde.*
 
-Shigi sah den Khan an. Es war das erste Mal, dass er Güyük so sprechen hörte – nicht mit der kalten Wut des Soldaten, nicht mit der Arroganz des Thronerben, sondern mit einer Ruhe, die tiefer saß als jede Drohung. Es war die Ruhe eines Mannes, der wusste, dass er gewinnen würde, weil er die Zeit auf seiner Seite hatte.
+Es war der teuflischste Satz, den dieser Hof je hervorgebracht hatte – und er war wahr. Shigi wusste es. Wenn er sich weigerte, würde Fatima nicht gerettet. Sie würde dennoch sterben, noch in dieser Nacht, verscharrt in Schande, besiegelt von den Schmeichlern und Henkern, die den Hof wie Schakale umkreisten. Sein Siegel, das heilige Zeichen des Rechts, geschaffen aus dem Willen des großen Temüjin, würde sie nicht vor dem Filzsack und dem Eiswasser bewahren. Aber es würde bezeugen, dass sie keine gemeine Zauberin gewesen war, die man heimlich im Pferdemist erstickte, sondern die Gegenspielerin eines Großkhans.
 
-„Wenn du nicht siegelst“, sagte Güyük, „dann siegelt ein anderer. Es gibt genug Richter, genug Schreiber, genug Männer, die ein Siegel führen dürfen. Und dann stirbt sie zweimal: einmal dem Urteil nach, einmal der Ehre nach, weil ein kleiner Richter es besiegelt hat, einer, der nicht weiß, was er tut, einer, der das Gesetz nicht versteht.“
+Ein grausamer Handel. Das Leben gegen die Form. Das Blut gegen das Recht.
 
-Er machte eine Pause.
+Shigi sah auf seine Hände hinab. Sie waren alt. Sie hatten das blau-weiße Buch geschrieben, hatten Weideland verteilt, Morde gesühnt und die Ordnungen eines Weltreichs in Stein und Leder gemeißelt. Und nun waren sie gefangen in den Schlingen, die er selbst geknüpft hatte.
 
-„Du bist die letzte Würde, die sie kriegen kann.“
+Er hob die Hand.
 
-Die Worte trafen Shigi wie ein Schlag. Er spürte sie in der Brust, in der Kälte, die sich dort ausgebreitet hatte, in dem Schweigen, das zwischen ihnen hing. Es war wahr. Er wusste, dass es wahr war. Wenn er nicht siegelte, würde ein anderer es tun – ein Schreiber, der keine Fragen stellte, ein Richter, der keine Akten las, ein Mann, der das Urteil nicht verstand und es trotzdem besiegeln würde. Und Fatima würde sterben, wie sie gelebt hatte: als Werkzeug, als Ding, als ein Name auf einem Papier, das niemand gelesen hatte.
+Langsam, ohne Hast, griff er in die seidene Tasche seines Untergewands. Seine Finger schlossen sich um den kalten, glatten Stein, der ihn seit vierzig Jahren begleitete: das quadratische Siegel aus trüber, graugrüner Nephritjade, an dessen Kopf zwei verschlungene Drachen den Knauf bildeten.
 
-Er konnte ihr das nicht antun.
+Dasselbe Siegel.
 
-Er konnte ihr nicht einmal den Tod geben, den sie verdient hatte.
+Vor wenigen Nächten hatte er es in rotes Wachs gedrückt, um jenes wetterfeste Filzbündel zu verschließen, das nun tief unten in seiner Pappelholzkiste ruhte, bedeckt von den staubigen Steuerrollen vergangener Feldzüge. Jenes Bündel, das ihre wahre Stimme trug – die Briefe an eine tote Schwester, die Chronik der Schatten, die ungeschminkte Wahrheit über den Untergang von Völkern und den Hochmut der Herrscher. Mit diesem Siegel hatte er ihr Vermächtnis versiegelt, um es vor der Welt zu verbergen, bis die Khane zu Staub geworden waren.
 
-„Du hasst mich“, sagte Güyük. „Das ist gut. Du sollst mich hassen. Aber du wirst siegeln, weil du weißt, dass ich recht habe.“
+Und nun hielt er denselben Stein in den Fingern, um ihr das Leben zu nehmen.
 
-Shigi wandte sich ab. Er trat an das Fenster der Kanzlei, das mit geöltem Papier bespannt war, und sah hinaus auf das Lager. Die Zelte standen dicht an dicht, grau unter dem grauen Himmel, und zwischen ihnen bewegten sich die Menschen wie Ameisen, die ihre Bahnen zogen, ohne zu wissen, dass über ihnen ein Schatten lag. Irgendwo dort draußen, am Nordrand des Lagers, war die Zisterne. Irgendwo dort saß Fatima im Dunkeln und wartete.
+Shigi zog die Tonschale mit dem roten Siegellack heran. Er nahm das Schabmesser, schnitt ein Stück des harten, duftenden Harzes ab und hielt es über die Flamme der Talglampe. Das Wachs begann zu weinen. Schwere, blutrote Tropfen fielen auf das Maulbeerbaumpapier, genau neben Fatimas zittrige Unterschrift. Der Geruch von schmelzendem Nelkenöl und Schellack stieg auf, süßlich und schwer, vermischte sich mit dem Dunst des Schafsmists.
 
-Er hatte ihr Bündel genommen.
+Es war heiß. Das Wachs brodelte leise auf den zähen Fasern.
 
-Er hatte es in seine Truhe gelegt, hatte die Truhe verschlossen, hatte sein Siegel in das Wachs gedrückt. Eine Bewegung, zwei Bedeutungen: bewahren und töten. Er hatte es damals gewusst, hatte es in dem Moment gewusst, als das warme Wachs unter seinem Siegel nachgab, dass er mit derselben Geste, mit der er ihre Wahrheit schützte, ihr Todesurteil besiegelte.
+Shigi Qutuqu setzte den Jadestempel auf das flüssige Rot.
 
-Jetzt sollte er es wieder tun.
+Er drückte zu. Nicht hastig, sondern mit dem gleichmäßigen, unerbittlichen Gewicht seines ganzen Körpers. Seine Knöchel traten hervor, die Sehnen seines Arms spannten sich. Er spürte, wie das kühle Gestein die Hitze des Wachses aufsaugte, wie die erhabenen mongolischen Schriftzeichen sich tief in den roten Brei gruben, ihn bannten, ihn formten, ihn zur ewigen Tatsache machten.
 
-„Bring mir das Wachs“, sagte er.
+Eine Bewegung. Zwei Bedeutungen. Bewahren und töten.
 
-Er hörte, wie Güyük sich bewegte, wie er an den Tisch trat, wie er die kleine Truhe öffnete, die am Rand der Kanzlei stand. Shigi selbst hatte die Truhe dorthin gestellt, vor Jahren, als er die Kanzlei eingerichtet hatte – mit dem Wachs, den Siegeln, den Bändern, die er für die Urteile brauchte. Er hatte nie gedacht, dass er sie für ein solches Urteil öffnen würde.
+Das Gesetz war vollstreckt.
 
-„Du willst es selbst tun?“, fragte Güyük.
+Shigi hob das Siegel ab. Die Kanten des Abdrucks standen scharf und unerbittlich auf dem Papier: das Wappen des obersten Jarghuchi, das unfehlbare Zeichen des Rechts.
 
-„Es ist mein Siegel.“
+Güyük blickte auf den roten Fleck hinab. In seinen Augen flammte kein Triumph auf, nur die kalte Befriedigung eines Feldherrn, der einen unwilligen Fluss überquert hat. Er streckte die behandschuhte Hand aus, nahm das Blatt vom Tisch, ohne Shigi noch eines Blickes zu würdigen, und drehte sich um.
 
-Er wandte sich um. Güyük stand am Tisch, die Wachsstange in der Hand, und sah ihn an. Es lag kein Triumph in seinem Blick, keine Genugtuung. Nur die Ruhe eines Mannes, der wusste, dass er gewonnen hatte, und der den Sieg nicht feiern musste.
+Der Filzvorhang der Jurte wurde zur Seite gerissen. Ein Stoß eisiger Steppenluft fuhr herein, ließ die Lampe wild flackern und riss den beißenden Geruch von schmelzendem Wachs mit sich fort in die Dunkelheit. Dann fiel der Vorhang zurück.
 
-Shigi trat an den Tisch. Er nahm die Wachsstange aus Güyüks Hand, spürte das kalte, glatte Wachs unter seinen Fingern. Er hatte diese Stange hundertmal gehalten, hatte sie über die Flamme gehalten, hatte das Wachs tropfen lassen auf die Urteile, die das Reich regierten. Er hatte Urteile besiegelt, die Leben retteten, und Urteile, die Leben nahmen. Er hatte nie gezögert.
+Shigi Qutuqu war allein.
 
-Jetzt zögerte er.
+Das Zelt schien mit einem Mal unendlich groß und leer zu sein. Draußen heulte der Wind über Karakorum hinweg, trieb den Schnee gegen die Wände, ein rastloses, hungriges Klagen. Weit in der Ferne, im Trakt der Gefangenen, schlug eine eiserne Kette dumpf gegen Holz.
 
-„Ich will Zeugen“, sagte er.
+Der alte Richter saß unbeweglich. Seine Hand, die das Siegel hielt, zitterte nun doch – ein feines, unmerkliches Beben, das aus der tiefsten Tiefe seiner Glieder aufstieg, dort, wo die Kälte des Alters und des Verrats saß. Er legte den Jadestein behutsam auf den Tisch zurück. Auf der Unterseite haftete noch ein winziger roter Schimmer, wie ein Tropfen geronnenen Blutes an einer Klinge.
 
-„Es gibt keine Zeugen.“
+Er griff nach seinem eigenen Buch.
 
-„Dann will ich es schriftlich festhalten, dass das Vernehmungsprotokoll fehlt.“
+Es war kein prunkvoller Band, sondern ein schmales Register, gebunden in abgeschabtes Pferdeleder, das er seit dem Tag hütete, an dem Temüjin ihn zum Wächter der Gesetze ernannt hatte. Seine Privatakte. Der einzige Ort auf der Welt, an dem kein Khan ihm befehlen konnte, was wahr zu sein hatte und was Lüge war.
 
-„Das wirst du nicht.“
+Er nahm das Schilfrohr, tunkte es in das schwarze Tintenfass und schlug eine neue Seite auf.
 
-Shigi sah den Khan an. „Ich werde es in meine Privatakte eintragen. Das kannst du mir nicht verbieten.“
+Seine Schrift war nicht zittrig. Wenn er schrieb, gehorchten ihm die Muskeln noch immer mit jener eisernen Disziplin, die man ihm als tatarischem Waisenjungen im Lager der Herrscherin eingebläut hatte.
 
-Güyük zuckte mit den Schultern. „Tu, was du nicht lassen kannst. Aber das Urteil wird besiegelt, und es wird vollstreckt.“
+Er trug das Urteil ein.
 
-Shigi nahm die Kerze, die auf dem Tisch stand, und entzündete sie an der glimmenden Dochtkohle, die er aus dem Feuerkorb holte. Die Flamme tanzte, warf Schatten auf das Papier, auf das Geständnis, auf die Unterschrift, die echt und falsch zugleich war. Er hielt die Wachsstange in die Flamme, drehte sie langsam, bis das Wachs zu schmelzen begann.
+*Im Jahr des Schafes, im ersten Monat des Winters. Die Gerichtskanzlei zu Karakorum. Anwesend: Güyük Khagan, Shigi Qutuqu Jarghuchi. Fatima, die persische Magd aus Chorasan, verurteilt wegen Zauberei und Schadenszauber gegen den Prinzen Köden. Strafe: der Tod ohne Vergießen von Blut.*
 
-Er dachte an Fatima.
+Er setzte das Datum darunter. Er vermerkte die Stunde – die vierte Nachtwache, kurz vor dem Aufdämmern des ersten trüben Lichts. Alles war ordentlich. Alles war juristisch einwandfrei, unangreifbar vor den Geistern der Ahnen und den Gesetzen der Steppe.
 
-An die Frau, die ihm das Bündel gegeben hatte, die ihm ihre Wahrheit anvertraut hatte, die ihm gesagt hatte, dass sie sterben würde und dass es gut war. An die Frau, die zwanzig Jahre lang in den Zelten der Mächtigen gelebt hatte, die Briefe geschrieben hatte, die sie nicht unterschreiben durfte, die Gesetze gemacht hatte, die sie nicht besiegeln durfte, die die Wahrheit gewusst hatte, die niemand wissen durfte.
+Shigi hielt inne. Die Feder schwebte über dem Papier. Ein Tropfen Tinte sammelte sich an der gespaltenen Spitze des Rohrs, schwer und glänzend wie eine Träne, die nicht fallen durfte.
 
-Er dachte an ihre Handschrift.
+Sein Blick wanderte zu der Kiste in der Ecke der Jurte. Dort unten lag ihr Geist. Dort unten lagen ihre Worte, die sie ihm anvertraut hatte, weil sie geglaubt hatte, er sei der Gerechte. *Lies es erst, wenn das Reich keine Khane mehr braucht.* Sie hatte ihm vertraut, und er hatte ihr Todesurteil mit demselben Stein besiegelt, mit dem er ihr Vermächtnis hütete.
 
-An die Kurven, die Druckpunkte, die leichte Neigung der Buchstaben. Er hatte sie in hundert Dokumenten gesehen, hatte sie erkannt, hatte sie bewundert – die Präzision, die Ruhe, die keine Angst verriet. Und jetzt lag diese Handschrift unter seiner Hand, entstellt durch Worte, die nicht ihre waren.
+Er senkte die Hand wieder auf das Papier.
 
-Das Wachs tropfte auf das Papier.
-
-Rot. Heiß. Flüssig.
-
-Er legte die Wachsstange beiseite und nahm das Siegel. Es war schwer in seiner Hand, kalt, vertraut. Er hatte es von Dschingis Khan selbst erhalten, vor vierzig Jahren, als er zum Oberrichter ernannt worden war. Das Siegel war älter als das Reich, älter als die Gesetze, die er damit besiegelte. Es trug die Zeichen der Gründer, die Zeichen der Familie, die ihn aufgenommen hatte, die ihn erzogen hatte, die seine eigene Familie ausgelöscht hatte.
-
-Er drückte das Siegel in das Wachs.
-
-Der Druck war fest, gleichmäßig, sicher. Er hielt das Siegel einen Moment lang, spürte, wie das Wachs unter dem Metall nachgab, wie es sich formte, wie es die Zeichen annahm, die er ihm aufprägte. Dann hob er das Siegel ab.
-
-Das Wachs war noch warm, glänzend, weich. Die Zeichen waren sauber eingeprägt, scharf, unmissverständlich. Das Siegel des Oberrichters des Reiches. Das Siegel, das Urteile legitimierte. Das Siegel, das Todesurteile bestätigte.
-
-Dasselbe Siegel, mit dem er das Bündel verschlossen hatte.
-
-Eine Bewegung. Zwei Bedeutungen.
-
-Er starrte auf das Wachs, auf die Zeichen, auf das Geständnis, das darunter lag. Er hatte es getan. Er hatte es besiegelt. Er hatte die Wahrheit getötet, um ihr die Würde zu geben, die ihr niemand sonst geben konnte.
-
-„Es ist vollzogen“, sagte Güyük.
-
-Shigi antwortete nicht. Er sah den Khan nicht an, als der das Dokument vom Tisch nahm, es zusammenrollte, es in die Mappe legte, die er mitgebracht hatte. Er hörte die Schritte, die zur Tür gingen, hörte das Geräusch des Leders, das sich über das Papier legte, hörte die Stimme, die noch einmal sprach:
-
-„Du hast das Richtige getan, Shigi. Für sie. Für das Reich.“
-
-Dann war Güyük gegangen.
-
-Die Tür fiel ins Schloss. Der Wind draußen riss an den Planen, und die Kälte kroch zurück in den Raum, legte sich auf das Wachs, das noch immer warm war, auf die Tinte, die im Bronzenapf erstarrte, auf die Hände, die auf dem Tisch ruhten.
-
-Shigi stand lange da.
-
-Er wusste nicht, wie lange. Die Kerze brannte herunter, der Docht glühte, die Flamme flackerte, erlosch. Der Raum wurde dunkler, die Schatten länger, die Kälte tiefer. Er stand da und sah auf das Siegel, auf das Wachs, auf die Zeichen, die er selbst gesetzt hatte, und er dachte an die Frau, die in der Zisterne saß und auf den Tod wartete.
-
-Er hatte ihr das Geschenk gegeben, das sie verdient hatte.
-
-Er hatte sie getötet.
-
-Er ging zu dem Regal, das an der Wand stand, und nahm das Buch heraus, das er in den letzten Jahren geführt hatte – seine Privatakte, getrennt von den amtlichen Dokumenten, getrennt von der Chronik, die in der Steppe vergraben war. Es war ein schmales Buch, in Leder gebunden, mit einem Riemen verschlossen, den er selbst angenäht hatte. Er öffnete es.
-
-Die Seiten waren eng beschrieben. Daten, Namen, Urteile, Beobachtungen. Er hatte es geführt, wie er alles führte: präzise, vollständig, ohne Wertung. Die Fakten, die er amtlich nicht festhalten durfte, die er nicht in die offiziellen Akten schreiben konnte, fanden hier ihren Platz.
-
-Er blätterte zu der letzten beschriebenen Seite.
-
-Der Eintrag von gestern: die Übergabe des Bündels, die Versiegelung der Truhe, die Namen der Zeugen, die nichts gesehen hatten.
-
-Er wandte die Seite um.
-
-Dann setzte er die Feder an.
-
-Die Tinte war kalt, zäh, sie floss nur langsam aus der Spitze. Er schrieb:
-
-*Jahr des Hasen, zwölfter Tag des ersten Wintermonats. Auf Anordnung des Khans besiegelt mit dem Amtssiegel das Urteil gegen Fatima aus Chorasan, Dienerin der verstorbenen Regentin Töregene. Anklage: Verhexung des Prinzen Köden. Geständnis: vorliegend, unterschrieben. Vernehmungsprotokoll: nicht vorhanden. Zeugenaussagen: nicht vorgelegt. Der Khan bestätigte die Anklage in persönlicher Audienz. Das Urteil wurde besiegelt in Anwesenheit des Khans. Die Vollstreckung wurde angeordnet.*
-
-Er hielt inne.
-
-Die Feder schwebte über dem Papier. Die Tinte trocknete auf der Spitze, bildete einen kleinen, dunklen Tropfen, der bereit war, zu fallen.
-
-Er dachte an die Worte, die er nicht schreiben durfte. Die Worte, die er nicht einmal denken durfte, weil sie das Urteil in Frage stellten, weil sie die Wahrheit aussprachen, die er mit seinem Siegel legitimiert hatte. Die Worte, die in der Kanzlei hingen, die zwischen ihm und Güyük gestanden hatten, die er nicht gesagt hatte, weil er sie nicht sagen konnte.
-
-Er setzte die Feder an.
+Unter den formellen Eintrag, unter die kühle Kanzleisprache, die das Morden in Paragraphen kleidete, schrieb er mit fester, unnachgiebiger Hand einen einzigen weiteren Satz:
 
 *Ich habe heute die einzige Wahrheit des Reiches getötet, weil ich das Gesetz liebte.*
 
-Die Worte flossen aus der Feder, ohne dass er sie aufhielt. Sie standen auf dem Papier, schwarz, deutlich, unübersehbar – die einzige Selbstanklage, die er je geschrieben hatte, der einzige Satz, der die Wahrheit aussprach, die er sein ganzes Leben lang verschwiegen hatte. Er sah die Worte an, las sie, spürte ihr Gewicht.
+Er starrte auf die Worte.
 
-Dann nahm er die Feder, drehte sie um und strich den Satz durch.
+Sie standen da, schwarz auf weiß, ein nackter Schrei in der wohlgeordneten Stille seines Lebenswerkes. Sie waren das Eingeständnis des Bankrotts. Sie sagten, dass das Gesetz, dem er sein ganzes Dasein geopfert hatte – von den Tagen, als er als hungerndes Waisenkind in den Schafsfellen schlief, bis zu dieser Nacht, in der er über Leben und Tod entschied –, nichts weiter war als ein Schleier über der Willkür der Starken. Sie machten ihn zu einem Mörder. Zu einem Werkzeug.
 
-Ein einziger, dunkler Strich. Die Tinte verschmierte, bildete eine kleine Lache, die die Worte unlesbar machte. Er strich noch einmal, und noch einmal, bis der Satz nicht mehr zu erkennen war, bis nur noch ein schwarzer Fleck auf dem Papier blieb, ein Zeichen, das niemand würde lesen können.
+Das Talglicht flackerte im Zugluftstoß, der unter dem Türfilz hindurchkroch. Die Schatten an den Wänden tanzten, lang und verzerrt wie die Geister der Erschlagenen von Samarkand und Nischapur.
 
-Er klappte das Buch zu.
+Shigi Qutuqu atmete schwer ein. Seine Brust schmerzte unter dem Zobelpelz, ein dumpfer Druck, als läge ein Mahlstein auf seinem Herzen.
 
-Er band den Riemen.
+Er hob das Schilfrohr erneut.
 
-Er legte es zurück in das Regal.
+Er setzte die Spitze an den Anfang des Satzes. Mit einer einzigen, harten, schnellen Bewegung zog er einen dicken, schwarzen Strich durch die Worte. Er strich sie durch, tilgte sie, zog eine zweite Linie darüber, bis die Tinte zu einem undurchdringlichen Balken verschmierte, unter dem kein Buchstabe mehr zu erkennen war.
 
-Dann stand er in der dunklen Kanzlei, in der Kälte, in dem Schweigen, und wusste, dass er die Grenze überschritten hatte. Er hatte das Gesetz geliebt, sein ganzes Leben lang. Er hatte es verteidigt, hatte es angewandt, hatte es über die Familie gestellt, die ihn aufgenommen hatte, über die Wahrheit, die er hätte sprechen können, über die Gerechtigkeit, die er hätte üben können.
+Selbst hier, in seinem geheimsten Buch, duldete die Ordnung keine Anklage. Seine ehrlichste Minute war tot, erstickt unter der Schwärze der eigenen Zensur.
 
-Und jetzt hatte er es getötet.
+Shigi legte das Schilfrohr beiseite. Er bestreute die feuchte Tinte mit feinem Sand aus der Wüste Gobi, pustete den Überschuss mit einem einzigen, müden Atemzug fort und schlug das Pferdelederbuch mit einem dumpfen Laut zu.
 
-Nicht mit einem Schlag, nicht mit einer Klinge, sondern mit einem Siegel. Mit einem Stück Wachs, das er geschmolzen und geprägt hatte, mit einem Druck seiner Hand, der ein Urteil legitimierte, das keine Grundlage hatte. Er hatte die Wahrheit getötet, weil er das Gesetz liebte. Und er hatte den Satz durchgestrichen, weil er die Wahrheit nicht ertragen konnte.
+Das Urteil war gesprochen. Das Siegel war gesetzt. Es wartete nur noch auf den Vollzug – auf die dumpfen Schläge der Filznäherinnen im Seitentrakt, auf das Zuknoten der Säcke und das kalte, gurgelnde Wasser des Flusses, das keine Spuren hinterließ.
 
-Er trat an das Fenster.
+Shigi Qutuqu stützte die Stirn in die offenen Hände und lauschte dem Wind, der über das Tal fegte und alles zutrug, bis nichts mehr übrig war als Schweigen.
 
-Die Nacht war hereingebrochen, ohne dass er es bemerkt hatte. Die Zelte waren dunkel, nur wenige Feuer glühten zwischen ihnen, und der Himmel war schwer von Wolken, die Schnee versprachen. Irgendwo dort draußen, am Nordrand des Lagers, war die Zisterne. Irgendwo dort saß Fatima im Dunkeln und wartete auf den Morgen.
-
-Sie wusste nicht, dass das Urteil besiegelt war. Sie wusste nicht, dass er es gewesen war, der es besiegelt hatte. Sie wusste nicht, dass er ihr den Tod gegeben hatte, den sie verdient hatte, mit demselben Siegel, mit dem er ihre Wahrheit bewahrt hatte.
-
-Er dachte an das Bündel.
-
-An die Truhe, die er verschlossen hatte, an das Wachs, das er hineingedrückt hatte, an die Briefe, die Feder, die Aufzeichnungen, die sie ihm anvertraut hatte. Er hatte sie bewahrt. Er hatte sie versteckt. Er hatte sie vor den Blicken der Mächtigen geschützt, die sie zerstört hätten.
-
-Aber er hatte nicht sie geschützt.
-
-Er hatte sie sterben lassen.
-
-Die Frage stand im Raum, in der Kälte, in dem Schweigen: Was bleibt von ihr außer der Akte?
-
-Die Akte, die er besiegelt hatte. Die Akte, die eine Lüge war. Die Akte, die ihren Namen trug, ihre Unterschrift, ihr Todesurteil. Die Akte, die in den Regalen der Kanzlei liegen würde, jahrzehntelang, jahrhundertelang, bis die Schrift verblasste und das Papier zerfiel.
-
-Die Akte, die nicht sie war.
-
-Sie war die Briefe, die sie geschrieben hatte. Sie war die Wahrheit, die sie bewahrt hatte. Sie war die Frau, die zwanzig Jahre lang in den Zelten der Mächtigen gelebt hatte, die Briefe geschrieben hatte, die sie nicht unterschreiben durfte, die Gesetze gemacht hatte, die sie nicht besiegeln durfte, die die Wahrheit gewusst hatte, die niemand wissen durfte.
-
-Sie war das Bündel.
-
-Das Bündel, das er bewahrt hatte.
-
-Das Bündel, das er besiegelt hatte.
-
-Das Bündel, das sie überleben würde.
-
-Er stand am Fenster und sah in die Nacht hinaus, und er wusste, dass er morgen früh aufstehen würde, dass er in die Kanzlei kommen würde, dass er die Akten öffnen würde, dass er weiterarbeiten würde, als wäre nichts geschehen. Er wusste, dass er das Urteil vollstrecken lassen würde, dass er die Formalitäten erledigen würde, dass er das Gesetz anwenden würde, das er geliebt hatte.
-
-Er wusste, dass er den Satz, den er durchgestrichen hatte, nie wieder schreiben würde.
-
-Aber er wusste auch, dass er ihn nie vergessen würde.
-
-Die Nacht war lang. Der Schnee begann zu fallen, leise, dicht, und bedeckte die Zelte, die Wege, die Spuren, die zur Zisterne führten. Er stand am Fenster, bis die erste Helligkeit den Himmel färbte, und dann setzte er sich an den Tisch, an dem das Urteil gelegen hatte, und begann, die Akten des Tages zu sortieren.
-
-Die Feder in seiner Hand war ruhig.
-
-Die Tinte floss.
-
-Er schrieb.
-
----

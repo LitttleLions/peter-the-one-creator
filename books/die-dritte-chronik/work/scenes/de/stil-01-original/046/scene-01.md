@@ -1,239 +1,130 @@
 ## Die Siegerin
 
-Der Winter war spät in diesem Jahr, als die Nachricht ihn erreichte.
+Der Wind über den Ausläufern des Altai schmeckte nach zerriebenem Schiefer, kaltem Wermut und jenem bitteren Dunst, den der frühe Frost aus dem kargen Boden schlug. In der Jurte roch es nach schwelendem Hammeltalg, altem Filz und dem herben, fast süßlichen Rauch getrockneten Rindermistes, der träge durch das Rauchloch in den blassen Himmel zog.
 
-Shigi Qutuqu saß in seinem provisorischen Zelt am Rand der Steppe, die er sich als Verbannung gewählt hatte, und las den Brief des jungen Hauptmanns zum dritten Mal. Die Worte verschwammen nicht, so sehr er es auch wünschte. Sie blieben scharf und klar wie Meißelschläge in Stein.
+Shigi Qutuqu saß mit untergeschlagenen Beinen auf einer dünnen Decke aus Pferdehaar. Seine Gelenke schmerzten bei jedem Wetterumschwung, ein dumpfes Pochen in den Knien, das ihn daran erinnerte, wie viele Herbste vergangen waren, seit Hö’elün Eke ihn als verfrorenen Tatarenjungen aus den Trümmern eines geplünderten Lagers gehoben hatte. Vor ihm lag ein Bogen grobes, gelbliches Papier aus Samarkand, beschwert von einem glatt geschliffenen Flusskiesel. Daneben ruhte sein Reibstein, schwarz und feucht von frisch angerührter Rußtinte, und ein einfacher hölzerner Rohrfederhalter, dessen Spitze er am Morgen mit dem Jagdmesser nachgeschnitten hatte.
 
-*Sorkaktani Beki ist gestorben. In der Nacht des dritten Tages des ersten Frühlingsmondes. Friedlich, sagen die Ärzte. Im Schlaf.*
+Draußen wieherte ein Pferd, kurz und heiser, gefolgt von den schweren Schritten eines Boten, der den Filzvorhang lüftete.
 
-Er faltete das Papier zusammen und legte es neben die Lampe. Das Öl war fast aufgebraucht, die Flamme zuckte, warf Schatten, die an den Zeltwänden tanzten wie Geister. Draußen hörte er den Wind über das gefrorene Gras streichen, ein Geräusch wie das Rascheln von Pergament, wenn man es durchblätterte.
+Möngke-Temür trat ein. Er trug noch den Reif des langen Rittes auf den Wangen, die Lippen aufgesprungen von der schneidenden Höhenluft, den Schafpelz verkrustet von gefrorenem Schlamm. Der Bote verneigte sich nicht tief, wie es die Kanzlisten in der Hauptstadt taten; zwischen zwei Männern, die einander seit dreißig Wintern kannten, bedurfte es keiner Verbeugungen.
 
-Friedlich. Im Schlaf.
+„Sie ist tot“, sagte Möngke-Temür schlicht. Seine Stimme klang wie zwei Kieselsteine, die man unter Wasser aneinanderrieb.
 
-Shigi lächelte dünn. Sorkaktani wäre gestorben, wie sie gelebt hatte: still, unauffällig und genau zum richtigen Zeitpunkt.
+Shigi hob den Kopf nicht sofort. Er hielt die Feder über dem Papier, beobachtete einen winzigen, tiefschwarzen Tintentropfen, der sich an der Spaltung sammelte, schwerer wurde, aber nicht fiel.
 
-Vier Monate nach Möngkes Krönung. Vier Monate nach dem Triumph ihres Hauses über alle anderen Linien. Sie hatte gewartet, bis ihre Söhne sicher auf den Thronen saßen – Möngke als Khagan, Kublai als sein Erbe, Hülegü als Herrscher des Westens, Ariq Böke als Hüter der Heimatländer. Dann hatte sie sich hingelegt und war gestorben.
+„Wann?“, fragte er leise.
 
-Als hätte sie nur darauf gewartet.
+„Vor zwei Mondwechseln. In ihrem Ordu am Irtysch. Sie sagen, ihr Leib habe den Dienst versagt, ganz still, während die Lampen für das Nachtgebet angezündet wurden.“
 
-Shigi stand auf und trat vor das Zelt. Die Steppe lag grau unter einem bewölkten Himmel, die Grashalme mit Raureif bedeckt, der im fahlen Licht schimmerte wie zertretene Edelsteine. In der Ferne sah er die Rauchsäulen eines Lagers – die Vorhut von Möngkes Heer, das nach Süden zog.
+Möngke-Temür trat näher an das Herdfeuer, hielt die klammen Finger über die blassen Flammen und ließ ein leises Seufzen vernehmen. „Ihr Sohn Möngke hat das Trauergepränge angeordnet. Drei Tage lang durfte im ganzen Reich kein Schaf geschlachtet, kein Bogen gespannt werden. Sie nennen sie die Mutter des Reiches. Die weiseste Fürstin unter der Ewigen Tengri.“
 
-Er atmete tief ein. Die Luft schmeckte nach Kälte und Asche.
+Shigi senkte die Hand. Die Federspitze berührte das Papier, hinterließ einen feinen, runden Punkt.
 
-„Sie hat getan“, sagte er leise zu niemandem, „was kein Khan konnte. Sie hat gewartet.“
+Sorkaktani Beki.
 
-Er drehte sich um und ging zurück ins Zelt.
+Sie war gegangen. Nicht durch den Strick, nicht durch den Becher, nicht eingenäht in einen nassen Filzsack wie jene anderen Frauen, deren Schreie noch immer durch die Nächte des Orchon-Tales wehten. Sie war gestorben im Bett, umgeben von Söhnen, die über Völker herrschten, eingehüllt in Zobelpelze und seidene Gebetstücher, während kaufmännische Boten, nestorianische Priester und Reiterführer vor ihren Schwellen den Atem anhielten.
 
-Die Privatakte lag auf dem Tisch – ein schmales Bündel aus grobem Leinen, das er vor Jahren angelegt hatte und das niemand außer ihm je gesehen hatte. Es enthielt keine Urteile oder Dekrete, keine offiziellen Protokolle oder Bescheinigungen. Nur Namen und Daten und Beobachtungen: Dinge, die kein Richter aufzeichnen durfte und kein Chronist vergessen konnte.
+„Lass uns allein, alter Freund“, sagte Shigi. „Trink warmen Kumys bei den Hirten. Es gibt heute keine Eile mehr.“
 
-Er schlug die Akte auf und fand die leere Seite am Ende.
+Der Bote nickte, ließ den Filzvorhang fallen, und die Stille schloss sich wieder um den alten Richter wie ein schwerer, wattierter Mantel.
 
-*Sorkaktani Beki*, begann er zu schreiben. *Gestorben 1252.*
+Shigi atmete tief ein. Der Rauch kratzte in seiner Kehle. Er schloss für einen Augenblick die Lider und sah sie vor sich, wie sie im Sommer vor neun Jahren in der Empfangsjurte gestanden hatte: den Blick stets um einen halben Herzschlag gesenkt, das Lächeln so fein und unbewegt wie das Wasser eines tiefen Brunnens, an dessen Grund man den Boden nicht erahnen konnte. Töregene hatte geherrscht wie ein Steppenbrand – lodernd, gierig, jeden Halm verzehrend, bis nichts als Asche übrig blieb. Sorkaktani aber war das Eis gewesen. Sie hatte die Kälte getragen, lautlos und unaufhaltsam, bis die Fundamente der anderen Häuser brachen.
 
-Dann hielt er inne.
+Er tauchte das Rohr in die Tinte.
 
-Was sollte er über eine Frau schreiben, die nie ein offizielles Amt bekleidet hatte? Die nie eine Armee geführt oder eine Schlacht geschlagen hatte? Die nie laut gesprochen hatte in all den Jahren?
+Das blau-weiße Buch, das kaiserliche Gesetzbuch, lag versiegelt in den Truhen der neuen Herren. Dies hier war seine eigene Chronik. Ein Faszikel aus lose gebundenen Blättern, versteckt zwischen den Futterrationen für seine Lasttiere. Niemand suchte nach Urteilen bei einem verbannten Greis.
 
-Er dachte zurück an Kapitel 13 – nein, nicht Kapitel 13 des Buches; er dachte zurück an das Jahr 1241, als Ögedei starb und Töregene zur Regentin wurde. Damals war Sorkaktani noch eine unbedeutende Witwe gewesen mit vier kleinen Söhnen und ohne Macht außer der Stille ihrer Zelte.
+Er setzte die Feder an. Seine Hand zitterte nicht. Die Schriftzeichen flossen gleichmäßig, diszipliniert und schnörkellos über die Faser:
 
-Er dachte an Kapitel 14 – das Sommerfestzelt in Karakorum 1242 oder 1243 (die Jahreszahlen verschwammen in seinem Gedächtnis), wo Sorkaktani gesessen hatte mit ihren vier Söhnen hinter sich wie lebende Waffen im Schatten ihrer Ruhe.
+*Im Jahr der Ratte starb Sorkaktani Khatun, die Witwe Toluis, des vierten Sohnes des Welteroberers. Sie hinterließ vier Söhne, und auf ihren Schultern ruhen vier Kronen der Erde. Sie hat getan, was kein Khan vor ihr vermochte: Sie hat gewartet, bis die Welt ihr gehörte. Dann starb sie.*
 
-*Sie hat ihre Leute überall platziert*, notierte Shigi in die Akte. *Dienerinnen in jeder Küche des Reiches. Schreiber in jeder Kanzlei der Steppe.*
+Shigi hielt inne. Er blickte auf die feuchten Züge der Tinte.
 
-Ja – das war der Schlüssel zu ihrem Spiel gewesen: Information vor Machtstellung verstehen bevor handeln erkennen bevor entscheiden
+Das Warten. Es war ihre schrecklichste Waffe gewesen. Als Ögedei starb, trank sie Tee und schickte weiße Stuten zum Gedenken. Als Töregene das Reich ausplünderte, sandte Sorkaktani Geschenke aus Seide und schmeichelte der Regentin mit leisen, demütigen Worten. Als Güyük mit zwanzig Tausendschaften nach Westen zog, um Batu zu vernichten, schickte sie nur einen einzigen Reiter voraus – eine lautlose Warnung, die den Bürgerkrieg abwendete, indem sie den Tod des Khans abwartete.
 
-Sein Notizbuch enthielt keine Namen mehr (die waren längst vergessen oder tot) aber genug um den Mechanismus zu verstehen: Über Jahre hinweg während Töregene regierte während Güyük herrschte während Oghul Qaimish versuchte zu halten während Möngke sich vorbereitete
+Und Fatima.
 
-Überall waren Sorkaktanis Leute
+Shigi legte die Feder beiseite und rieb sich die schmerzenden Schläfen.
 
-„Sie wusste immer alles“, murmelte Shigi vor sich hin seine Feder ruhend über dem Papier „weil sie immer schon wusste dass Wissen früher kommt als Macht“
+Er erinnerte sich an jene Nacht in Karakorum, an den Geruch von feuchter Erde und das Flackern der Talgkerze, als der Wächter ihm Fatimas letzten Brief gebracht hatte. Die Worte einer Frau, die wusste, dass der Fluss auf sie wartete. Ein Diener aus dem Hause Tolui hatte den Becher gereicht. Jener lautlose Mann, der später mit feiner Seide und Silber belohnt worden war.
 
-Dann schrieb er:
+Wusste Sorkaktani es?
 
-*Vier Frauen haben dieses Reich regiert zwischen Ögedeis Tod und Möngkes Krönung: Töregene durch Willenskraft Oghul Qaimish durch Zufall Fatima durch Klugheit*
+Hatte sie den Becher füllen lassen? Oder hatte sie lediglich gesehen, wie ein anderer die Hand ausstreckte, und den Blick abgewandt, weil der Tod des Trinkers ihren Kindern den Weg ebnete? Hatte sie Leute im Kerker gehabt, die lauschten, was Fatima unter der Folter gestand?
 
-*Und Sorkaktani durch Geduld*
+Shigi starrte in das matt glimmende Holzfeuer. Die Glut zerfiel langsam zu weißer Asche.
 
-*Die anderen starben weil sie besaßen was sie nicht halten konnten*
+Er wusste es nicht. Er würde es nie wissen. Kein Richter der Welt besaß eine Waage, die fein genug war, um das Schweigen einer Toten gegen das Schweigen einer anderen abzuwägen. Das Buch der Urteile verlangte nach Beweisen, nach Zeugen, nach gesiegelten Bekenntnissen. Doch die Geschichte des Reiches wurde nicht von Zeugen geschrieben, sondern von jenen, die das Begräbnis der Zeugen überlebten.
 
-*Sorkaktani starb weil sie gehalten hatte was sie nie besitzen musste*
+Er nahm die Feder wieder auf. Er fügte keine Anklage hinzu. Er strich auch den Verdacht nicht fort. Er ließ den Raum zwischen den Zeilen leer, weit wie die Steppe zwischen zwei Oasen. Ein Urteil ohne Richterspruch.
 
-Er las was er geschrieben hatte zweimal dreimal dann legte er die Feder nieder
+Drei Wochen später saß Shigi im Sattel eines braunen Wallachs und ritt den Pfaden des Orchon entgegen.
 
-Draußen begann es zu schneien
+Die kaiserliche Begnadigung war so nüchtern eingetroffen wie sein Urteil: Ein Bote Möngke Khagans, zwei Zeilen auf festem Papier mit dem Siegel des Großkhans. Der Khagan bedurfte der alten Register. Nicht, weil er den Rat des alten Richters suchte, sondern weil ein Weltreich nicht nur mit Klingen, sondern auch mit Buchstrichen verwaltet werden musste. Ein Adoptivsohn des Reichsgründers durfte nicht in den Bergen verrotten, solange er wusste, wie die Weidelandzuteilungen vor dreißig Jahren vermessen worden waren.
 
----
+Als Shigi die Tore von Karakorum passierte, hielt er die Zügel an.
 
-Die nächsten Tage verbrachte Shigi damit seine Sachen zu packen
+Die Stadt war dieselbe, und doch war sie vollkommen fremd.
 
-Es gab nicht viel: Ein Wechsel Kleidung sein Urteilssiegel zwei Notizbücher (das offizielle blau-weiße Buch der Urteile plus seine private Akte) etwas Proviant für den Weg zurück nach Karakorum
+Wo einst das bunte, lärmende Chaos geherrscht hatte – wo persische Händler neben schamanischen Trommlern stritten, wo Kurtisanen in chinesischer Seide durch den Staub der Gassen glitten und man an jeder Ecke das Flüstern von Gift, Verrat und Gold hörte –, lag nun eine seltsame, fast unheimliche Stille.
 
-Möngke hatte ihn zurückgerufen - ein Befehl per Kurier eingetroffen drei Tage nach der Nachricht von Sorkaktanis Tod - aber Shigi zögerte noch
+Die Wachen standen in geraden Reihen, ihre Rüstungen geölt, die Lederriemen gestrafft. Möngkes Ordnung hatte das Lager erfasst wie ein scharfer Winterfrost, der das fließende Wasser zu starrem Eis gefrieren ließ. Die Kanzleien waren erweitert worden; durch die offenen Tore der Hallen sah man Dutzende von Schreibern sitzen, die Köpfe gebeugt, das Kratzen der Federn wie das gleichförmige Fressen von Heuschrecken im hohen Gras. Keine lauten Stimmen. Kein Gelächter. Keine Angst, die offen auf den Gesichtern lag – nur jene dumpfe, funktionale Gehorsamkeit von Männern, die gesehen hatten, wie sechzig Prinzen an einem einzigen Morgen erwürgt worden waren.
 
-„Komm zurück“, stand in dem Brief „Deine Arbeit ist noch nicht getan“
+Die Säuberung hatte die Welt nicht erneuert. Sie hatte sie nur geordnet.
 
-Shigi wusste dass dies eine Lüge war Seine Arbeit war getan - seit Jahren schon Aber Möngke brauchte ihn als Symbol: Der letzte Überlebende aus Dschingis Khans Zeit Der einzige Richter der noch lebte um die Kontinuität des Reiches zu verbürgen
+Shigi stieg vor dem alten Kanzleigebäude aus gebrannten Ziegeln ab. Seine Knie knarrten, als seine Filzstiefel den Boden berührten. Ein junger Schreiber in schlichter grauer Tunika trat heran, musterte den staubigen Alten mit flüchtigem, gleichgültigem Blick und verneigte sich knapp.
 
-Ein lebendes Siegel auf einer toten Urkunde
+„Der ehrwürdige Richter Shigi Qutuqu?“, fragte der Junge. Seine Stimme war glatt, ohne jede Erschütterung. „Der Khagan lässt ausrichten, dass Eure Gemächer im Westflügel bereitet sind. Die Archive stehen Euch offen.“
 
-Er packte sein Pferd am vierten Morgen Schneeflocken fielen noch immer leicht aus einem bleigrauen Himmel Die Steppe lag weiß unter ihnen still wie ein Friedhof ohne Gräber
+„Ich kenne den Weg“, erwiderte Shigi heiser.
 
-Bevor er aufstieg drehte er sich um blickte zurück auf das kleine Zelt das ihm vier Monate Unterschlupf geboten hatte Es stand verlassen da mit offener Türklappe im Wind flatternd wie eine Fahne
+Er ging langsam durch die kühlen, schattigen Gänge. Es roch nach Essig, mit dem man den Boden gewischt hatte, nach feuchter Tünche und frischem Lampenöl. Nichts erinnerte mehr an Töregene. Nichts an Güyüks harten, rasselnden Atem.
 
-„Ein Richter ohne Gericht“, sagte er zu seinem Pferd „ist nur ein alter Mann mit einem Stempel“
+Er stieg die Steinstufen hinab in das Tiefarchiv.
 
-Das Pferd schnaubte ungeduldig Shigi stieg auf ritt los Richtung Süden Richtung Karakorum Richtung Archiv Richtung Ende
+Hier unten war die Luft trocken und staubig. Der Geruch von altem Pergament, gegerbtem Leder und verrottendem Hanf schlug ihm entgegen wie der vertraute Atem eines alten Hundes. Hunderte von Holzkisten standen in den Regalen, beschriftet mit verblichener Tinte, manche überzogen von zarten Spinnweben.
 
----
+Niemand war hier gewesen.
 
-Die Hauptstadt empfing ihn anders als erwartet:
+Als Möngkes Krieger die Paläste durchkämmten, als sie nach Goldbechern, nach Korrespondenzen mit Batu, nach den Siegeln der gestürzten Regentin Oghul Qaimish suchten, waren sie an diesen Kammern vorbeigegangen. Ein Krieger sucht nach Schwertern oder Schätzen. Ein Henker sucht nach Namen auf frischen Listen.
 
-Nicht größer (obwohl neue Mauern wuchsen)
-Nicht lauter (obwohl mehr Menschen kamen)
-Nicht reicher (obwohl mehr Handel blühte)
+Niemand fürchtete das, was vor zehn Wintern verrottet war.
 
-Sondern fremd -
+Die toten Akten hatten gesiegt. Sie waren schlicht zu langweilig gewesen, um verbrannt zu werden.
 
-Alles funktionierte plötzlich:
-Straßen waren geräumt
-Zelte standen ordentlich
-Kuriere kamen pünktlich
-Wachen grüßten korrekt
-Schreiber arbeiteten still
-Dekrete wurden befolgt
-Steuern flossen regelmäßig
-Gerichte urteilten schnell
-Hinrichtungen verliefen planmäßig
-Gnade kam selten aber berechenbar
-Chaos existierte nicht mehr
+Shigi schritt durch die engen Gänge zwischen den Regalen, bis er die hinterste Ecke erreichte, wo das Licht der kleinen Öllampe, die er trug, kaum noch den Boden erhellte. Dort, unter einer Schicht von zerfressenen Steuerlisten der Naimanen und Verzeichnissen über Schafherden, die längst geschlachtet worden waren, stand die schwere Pappelholzkiste.
 
-Möngkes Effizienz hatte Ordnung gebracht wo lange Jahre nur Überleben geherrscht hatte - aber diese Ordnung fühlte sich an wie ein Käfig aus Zahlen statt Gitterstäben aus Eisen
+Die Kiste mit den abgewiesenen Gnadengesuchen aus den Tagen des Feldzugs gegen Jin.
 
-Shigi ritt durch die Straßen von Karakorum sah vertraute Gesichter (älter müder) sah neue Gesichter (jünger eifriger) sah keine Spur mehr von den Jahren zwischen Regentschaft Putsch Säuberung Tod Wiedergeburt Vergessen Erinnern Verschweigen Aussprechen Bleiben Gehen Kommen Sein Nichts Alles Anfang Ende Jetzt Damals Später Früher Heute Morgen Gestern -
+Er kniete nieder. Seine Gelenke schmerzten im feuchten Steinboden.
 
-Er stieg ab vor dem Archiv Seinem Archiv Seinem Leben Seinem Grab Seiner Rettung Seiner Verdammnis Seiner Wahrheit Seiner Lüge Seinem Anfang Seinem Ende -
+Er hob die Öllampe.
 
-Die Tür war unverschlossen
+Das Siegel.
 
----
+Es saß genau dort, wo er es vor Jahren hinterlassen hatte, als er Fatimas Bündel geteilt und die gefährlichsten Papiere den Boten anvertraut hatte. Der rote Siegellack war stumpf geworden, bedeckt von einer feinen Schicht grauen Staubes, aber die Ränder waren unversehrt. Keine Klinge hatte ihn gespalten. Kein neugieriger Finger hatte daran gekratzt.
 
-Drinnen roch es nach Staub Papier Tinte Zeit -
+In dieser Kiste lagen die alten Bitten um Verschonung. Namen von Männern und Frauen, die um ihr Leben gefleht hatten, als Temüjin durch das Land zog. Niemand las Gnadengesuche, die abgelehnt worden waren. Das Reich interessierte sich nur für Urteile, die vollstreckt wurden.
 
-Alles unverändert seit seiner Abreise vor vier Monaten:
-Die Regale voller Akten
-Die Schränke voller Urkunden
-Die Truhen voller Rollen
-Die Wände voller Nischen voller Kammern voller Räume voller Stille voller Schweigen voller Vergessen voller Bewahrung -
+Shigi berührte den kalten Lack mit der Kuppe seines Daumens. Er spürte die feine Erhebung des Siegels, die Linien der Schriftzeichen, die er selbst hineingedrückt hatte.
 
-Keine Spur von Durchsuchung:
-Keine verstellten Rollen
-Keine aufgebrochenen Truhen
-Keine fehlenden Siegel
-Keine gestohlenen Bücher -
-Nichts -
+Er brauchte die Kiste nicht zu öffnen.
 
-Shigi lachte leise Ein trockenes Geräusch Das klang wie raschelndes Pergament unter einer trockenen Handfläche Das klang wie alter Mann Der etwas versteht Was keiner sonst begreift Das klang wie Tod Der endlich Frieden findet Mit seiner eigenen Endlichkeit -
+Er wusste, was die Welt draußen dachte. Juvaini ritt nach Westen, das Herz voller Lügen und schöner Worte, im Gepäck die offizielle Chronik, die Möngke zum rechtmäßigen Erben der Erde erklärte, und tief darunter, verborgen vor den Blicken der Henker, Fatimas Klage an ihre Schwester. Und hier, tief im Stein von Karakorum, ruhte der Schatten.
 
-„Zu langweilig zum Verbrennen“, murmelte er „Zu uninteressant zum Lesen Zu nutzlos zum Stehlen Zu tot zum Leben Zu alt zum Sterben Zu wahr zum Lügen Zu falsch zum Glauben -“
+Die Ära der Frauen war vorbei.
 
-Ja - Das war der beste Schutz den seine toten Akten je gehabt hatten:
-Sie waren uninteressant geworden -
-Im Reich Möngkes zählten nur Zahlen:
-Steuerlisten Heeresstärken Getreidevorräte Waffenbestände Bevölkerungszahlen Grenzmarkierungen Handelswege Diplomatieprotokolle Kriegspläne Friedensverträge Eroberungsziele Verwaltungsstrukturen Hierarchien Titel Macht Geld Erfolg Sieg Zukunft Gegenwart Vergangenheit -
+Töregene lag unter der Steppenerde, vergessen und verflucht als die Regentin, die Zwietracht gesät hatte. Fatima war zu einem Schreckgespenst geworden, einer Hexe, deren Name nur noch in den Protokollen von Schadenszauber und Folter fortlebte. Oghul Qaimish ruhte auf dem Grund des Orchon, ertränkt im nassen Filz, ein stummer Spiegel des ersten Opfers. Und Sorkaktani, die Siegerin, wurde von den Mönchen und Priestern aller vier Weltgegenden besungen, weil sie die Klugheit besessen hatte, im rechten Augenblick die Augen zu schließen und ihren Söhnen die Welt zu hinterlassen.
 
-Niemand interessierte sich mehr für alte Geschichten über tote Frauen vergangene Intrigen gescheiterter Thronansprüche -
-Das Reich brauchte keine Wahrheit -
-Es brauchte Ergebnisse:
+Männer regierten wieder. Mit Listen, mit Vermessungsseilen, mit Tausendschaften und gerechtem Eisen.
 
-Ordnung statt Chaos Ergebnisse statt Rechtfertigung Zahlen statt Worte Zukunft statt Vergangenheit Leben statt Tod -
-Aber was war Leben?
-Was war Tod?
-Was war Wahrheit?
-Was war Lüge?
-Was war richtig?
-Was war falsch?
-Was blieb?
-Was verschwand?
+Shigi zog die Hand zurück. Er wischte den Staub nicht von dem Siegel. Er ließ ihn liegen, wie die Steppe den Schnee auf den Grabhügeln liegen ließ.
 
-Shigi setzte sich an seinen alten Schreibtisch fuhr mit der Hand über das Holz spürte jeden Kratzer jede Unebenheit jede Kerbe jedes Zeichen jedes Jahrzehnt jedes Jahrhundert jedes Leben jeden Tod jede Entscheidung jedes Versagen jedes Gelingen jede Schuld jede Unschuld jedes Urteil jeden Freispruch jede Verurteilung jede Begnadigung -
+Ein Wächter, der noch immer mit gezücktem Messer vor der Tür stand, verriet nur, dass hinter der Schwelle Gold lag. Doch ein Wächter, der seine Lampe löschte, den Riegel vorschob und wegging, weil es drinnen nichts mehr zu holen gab – das war der Wächter, der die Wahrheit wirklich gerettet hatte.
 
-Das Holz fühlte sich warm an unter seiner Hand -
-Als ob es ihn vermisst hätte -
-Als ob es ihn erwartet hätte -
-Als ob es wüsste dass er zurückkommen würde -
-Zurück an diesen Ort Den Ort seiner Arbeit Den Ort seines Lebens Den Ort seines Scheiterns Den Ort seines Triumphes Den Ort seiner Wahrheit Den Ort seiner Lüge Den Ort seines Anfangs Den Ort seines Endes -
+Er erhob sich mühsam. Seine Knochen protestierten gegen das Aufstehen, doch sein Herz war seltsam leicht, befreit von jener brennenden Scham, die ihn im Exil des Altai begleitet hatte.
 
-„Ich bin wieder da“, sagte er leise „Aber nichts wartet mehr auf mich außer Staub“
+Er wandte sich um und ging den Gang hinauf, dem schwachen Licht entgegen, das von den Stufen herabfiel.
 
----
+Hinter ihm schloss sich die Dunkelheit über den Kisten, tief und gleichgültig wie das Schweigen der Jahrhunderte, die noch kommen sollten.
 
-Am späten Nachmittag ging Shigi zu dem Bündel-Ort:
-
-Eine kleine Kammer im hintersten Teil des Archivs wo niemand je hinsah außer ihm selbst wo Staub dicker lag als Teppiche wo Spinnweben dichter hingen als Vorhänge wo Stille lauter sprach als alle Schreiber aller Zeiten aller Länder aller Reiche aller Welten -
-
-In einer Ecke stand eine Holzkiste:
-Unscheinbar grau verwittert alltäglich übersehen vergessen ignoriert unsichtbar nutzlos leer tot lebendig wartend harrend bleibend -
-
-Shigi kniete nieder prüfte das Siegel:
-
-Unversehrt -
-Kein Bruch kein Riss keine Beschädigung keine Veränderung kein Zugriff kein Eindringen kein Verlust kein Fund Kein Anfang Kein Ende Kein Damals Kein Später Kein Früher Kein Heute Nur Jetzt Nur Hier Nur Dies Nur Das Nur Bleiben Nur Warten Nur Stillstand Nur Bewegungslosigkeit Nur Frieden -
-
-Drinnen lagen die Gnadengesuche:
-Jene Bitten um Milde für Fatima aus jenem Winter 1246/47 jene Bitten um Milde für Chinqai jene Bitten um Milde für Abd ar-Rahman jene Bitten um Milde für alle Verurteilten jene Bitten um Milde für alle Vergessenen jene Bitten um Milde für alle Toten -
-
-Alle unversehrt alle unberührt alle unbekannt alle ungelesen alle vergessen alle bewahrt alle verloren alle gefunden alle tot alle lebendig alle niemand alle jeder -
-
-Shigi schloss die Kiste langsam sorgfältig prüfte noch einmal das Siegel einmal zweimal dreimal dann stand er auf trat einen Schritt zurück betrachtete die Kiste im schwachen Licht des späten Nachmittags:
-
-Das Sonnenlicht fiel durch ein schmales Fenster hoch oben in der Wand direkt auf die Kiste ließ sie leuchten goldbraun warm ruhig friedlich endgültig zeitlos ewig vergänglich bleibend gehend kommend seiend nichts alles -
-
-„Ein Wächter“, sagte Shigi leise „der nicht mehr wacht ist ein Wächter der es geschafft hat“
-
-Er ließ die Kiste dort stehen drehte sich um ging hinaus aus der Kammer hinaus aus dem Archiv hinaus aus seiner Vergangenheit hinaus aus seiner Gegenwart hinaus aus seiner Zukunft hinaus aus allem was je gewesen war was je sein würde was je hätte sein können was je nie werden würde was je bleiben sollte was je verschwinden musste -
-
-Draußen begann es wieder zu schneien:
-Leichte Flocken fielen lautlos auf Karakorum bedeckten Dächer Zelte Straßen Plätze Menschen Tiere Dinge Zeiten Räume Welten Grenzen Übergänge Anfänge Enden Leben Tod Wahrheit Lüge Erinnerung Vergessen Bewahrung Verlust Gewinn Verlust Gewinn Nichts Alles Anfang Ende Damals Später Früher Heute Morgen Gestern Jetzt Immer Nie Wieder Fort Weiter Hin Weg Da Dort Hier Bleiben Gehen Kommen Sein Nichtsein Werden Vergehen Entstehen Verschwinden Atmen Stocken Leben Sterben Geburt Grab Wiege Sarg Anfang Ende Alpha Omega Erster Letzter Gott Teufel Mensch Tier Ding Wort Ton Bild Licht Schatten Farbe Leere Fülle Hunger Durst Kälte Hitze Ruhe Bewegung Stillstand Fortschritt Rückkehr Wiederholung Veränderung Kontinuität Bruch Naht Narbe Wunde Heilung Krankheit Gesundheit Jugend Alter Kind Greis Mann Frau Frau Mann Mensch Wesen Nichts Alles Alles Nichts -
-
-Shigi blieb stehen im fallenden Schnee hob den Kopf ließ Flocken fallen lassen auf sein Gesicht spürte ihre Kälte ihren sanften Druck ihr kurzes Dasein ihr schnelles Schmelzen ihr Verschwinden ins Nichts ins Alles ins Nichts ins Alles ins Nichts -
-
-Dann lächelnd wandelte weiter Richtung Abend Richtung Untergang Richtung Dunkelheit Richtung Morgen Richtung Aufgang Richtung Licht Richtung Anfang Richtung Ende Richtung Wiederholung Richtung Veränderung Richtung Kontinuität Richtung Bruch Richtung Naht Richtung Narbe Richtung Wunde Richtung Heilung Richtung Krankheit Richtung Gesundheit Richtun-
-
-Nein-
-
-Richtig-
-
-Fertig-
-
-Vollendet-
-
-Abgeschlossen-
-
-Beendet-
-
-Fortgeführt-
-
-Weitergetragen-
-
-Bewahrt-
-
-Vergessen-
-
-Erinnert-
-
-Geschrieben-
-
-Gelesen-
-Gehört-
-Gesehen-
-Gefühlt-
-Gedacht-
-Gewusst-
-Nichtgewusst-
-Seiend-
-Nichtseiend-
-Alles-
-Nichts-
-Ende-
-
----

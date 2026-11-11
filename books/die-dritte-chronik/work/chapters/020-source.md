@@ -5,108 +5,139 @@
 
 ---
 
-Das Fieber kam aus dem Nichts, wie ein Reiter in der Nacht, den niemand kommen sah.
+Der Geruch von ranzigem Fett und verbranntem Wacholder hing wie eine zweite Haut in der Jurte. Er schmeckte nach Galle und altem Schweiß, nach jener zähen, fauligen Süße, die sich einstellt, wenn das Fleisch eines Menschen vor der Seele stirbt.
 
-Köden erwachte mit Schüttelfrost, die Zähne schlugen aufeinander wie Hufe auf Stein. Die Wachen am Eingang des Zeltes hörten ihn stöhnen, fanden ihn in einer Lache aus Schweiß und zerknüllten Decken, das Gesicht grau wie Asche, die Augen verdreht, die Lippen blau.
+Fatima stand drei Schritte hinter dem geschnitzten Holzpfosten, die Hände in den weiten Ärmeln ihres Gewandes aus ungefärbter Rohseide verborgen. Sie hielt den Atem an, zählte die Herzschläge zwischen den rasselnden Atemzügen des Mannes auf dem Lager. Vierzehn Tage dauerte dieses Sterben nun schon. Vierzehn Tage, in denen der herbstliche Wind über das Orchon-Tal fegte, den ersten Reif in das vergilbte Steppengras drückte und die Zeltwände aus schwerem Filz zum Stöhnen brachte.
 
-Am Morgen wusste die gesamte Ordu Bescheid.
+Köden lag da wie ein gefällter Stamm. Der Sohn des Großkhans, der Mann, der einst Kanzler Chinqai vor dem Zorn seiner eigenen Mutter geschützt hatte, war nur noch eine Kruste aus gelblicher Haut über spitzen Knochen. Seine Lippen waren schwarz vor getrocknetem Blut, die Zunge geschwollen wie ein Stück Leder, das zu lange im Schlamm gelegen hatte.
 
-Fatima erfuhr es von einer Dienerin, die ihren Tee brachte: „Prinz Köden ist krank, Herrin. Die Heiler sind gerufen.“ Die Frau senkte die Stimme. „Sie sagen, es sei die schwarze Galle. Vielleicht ein Fluch.“
+An Höfen endete die Heilkunst früh. Wo die Medizin schwieg, begann die Politik ihren Hunger zu stillen.
 
-Fatima nahm die Schale entgegen, trank einen Schluck und sagte nichts.
+Ein Schamane aus den Wäldern des Nordens kniete am Kopfende. Seine Kleidung bestand aus Streifen gegerbter Hirschhaut, behängt mit eisernen Schellen und den getrockneten Krallen von Greifvögeln. Er schlug eine flache Handtrommel, dumpf, unbarmherzig, im Takt eines kranken Pulses. Rauch von Steppenwermut stieg aus einer Tonschale auf, biss in Fatimas Augen, legte sich wie Asche auf ihre Zunge. Vor ihm hatte es der nestorianische Priester versucht, mit Weihwasser und syrischen Psalmen, die wie das Murmeln von Bachkieseln durch den Raum geplätschert waren. Davor der tibetische Lama mit seinen Gebetsmühlen aus Kupfer und den Rindenstücken voll roter Tusche. Davor der chinesische Arzt, der Nadeln aus Silber in Ködens Schläfen getrieben hatte, bis dunkles, dickes Blut über die Kissen sickerte.
 
-Flüche waren nützlich. Flüche waren eine Erklärung, die keine Medizin brauchte. Flüche gaben einem sterbenden Prinzen einen Sinn, den das bloße Versagen des Körpers nicht liefern konnte.
+Sie alle waren gescheitert. Einer nach dem anderen hatten sie den Blick gesenkt, ihre Taschen gepackt und waren rückwärts zur Filztür hinausgekrochen, den Tod im Rücken und die Angst vor der Regentin in den Knochen.
 
-Sie zog sich an und ging zum Krankenzelt.
+Denn ein Prinz von Dschingis Khans Blut durfte nicht einfach an verdorbenem Fleisch oder schlechtem Wasser sterben. Die Steppe duldete keine Schwäche des Körpers. Wenn ein Sohn der Goldenen Sippe fiel, musste eine Klinge ihn getroffen haben – oder ein Wort.
 
-Der Geruch traf sie schon vor dem Eingang: verbrannte Kräuter, ranziges Fett, Schweiß und etwas Süßliches, das sie nicht benennen konnte. Der Gestank des Sterbens. Sie kannte ihn aus Chorasan, aus den Tagen, als die Stadt fiel und die Luft voll war von brennendem Fleisch und offenen Wunden. Ein Geruch, der sich ins Gedächtnis grub wie ein Messer.
+Töregene saß auf einem niedrigen Schemel am Fußende des Lagers. Sie trug keinen Schmuck, keine Perlenkronen, kein Gold. Ihr Mantel aus Fuchsfellen war schwer, fast erdrückend, doch ihr Rücken blieb gerade wie eine gezogene Bogensehne. Sie bewegte sich nicht. Nur ihre Finger, die auf den Knien ruhten, verrieten sie: Die Nägel gruben sich so tief in den Saum ihres Pelzes, dass das Leder leise knirschte.
 
-Drinnen war es heiß. Zu heiß für den Herbst. Kohlenbecken glühten in den Ecken, warfen flackernde Schatten an die Zeltwände. Heiler drängten sich um das Lager, drei Männer in groben Leinenkleidern, ein Lama in safranfarbener Robe, zwei Schamanen mit Rasseln und Trommeln. Sie arbeiteten nebeneinander, sprachen in verschiedenen Sprachen, aber alle suchten dasselbe: eine Tür, durch die das Leben zurückkehren konnte.
+„Noch ein Sud“, sagte der Schamane, ohne den Rhythmus seiner Trommel zu unterbrechen. Seine Stimme klang wie zwei Steine, die man aneinanderrieb. „Die Geister der Ahnen sind erzürnt. Ein Schatten liegt auf seinen Eingeweiden. Ein fremder Schatten.“
 
-Köden lag auf einer Matte aus gefilzter Wolle, das Hemd geöffnet, der Oberkörper nass von feuchten Tüchern. Seine Augen waren geschlossen, sein Atem flach und unregelmäßig. Ab und zu zuckte sein Körper, als schlage etwas gegen ihn an, von innen.
+Fatima spürte die Blicke im Halbdunkel. Im Schatten der Zeltwände standen die Hauptleute aus Ködens Gefolge, Männer mit wettergegerbten Gesichtern, deren Hände gewohnheitsmäßig an den Griffen ihrer Messer lagen. Hinter ihnen lauerte Abd ar-Rahman, das Gesicht ölig vom Schein der Butterlampen, die Augen schmal und wachsam wie die eines Geiers über einem verendenden Pferd.
 
-Töregene stand am Fußende des Lagers. Sie trug keine Kopfbedeckung, ihr Haar hing lose herab, das Gesicht unbewegt. Ihre Hände lagen auf dem Gürtel, flach, still, als hätte sie sie dort festgeklebt.
+Sie suchten einen Namen. Sie brauchten ein Gefäß für das Gift, das sich in dieser Jurte sammelte.
 
-Fatima trat neben sie.
+Plötzlich bäumte Köden sich auf. Es war eine grausame, unnatürliche Bewegung. Seine Fersen trommelten gegen das Filzlager, die Sehnen an seinem Hals traten hervor wie dicke Taue. Seine Augen, trüb und milchig wie blindes Glas, rissen auf. Er sah nicht seine Mutter an. Er sah nicht den Schamanen an. Sein Blick irrte durch den Rauch, zerrissen von Fieberwahn und Schmerz, bis er an Fatima hängen blieb.
 
-„Wie lange?“, fragte sie leise.
+Ein Laut brach aus seiner Kehle, feucht und erstickt.
 
-„Drei Tage“, antwortete Töregene, ohne den Blick von ihrem Sohn zu nehmen. „Die Heiler sagen, es sei die Galle. Sie sagen, es sei ein Ungleichgewicht. Sie sagen, es sei Dämonenfieber. Sie sagen vieles, aber nichts hilft.“
+„Die Hexe…“, stieß er hervor. Schaum trat vor seine Lippen, rot gefärbt von inneren Blutungen. „Sie… die Chorasanerin… sie bindet die Sehnen ab… sie füttert den Schatten…“
 
-„Was sagt der Lama?“
+Stille schlug über dem Raum zusammen.
 
-„Er betet. Bisher ohne Ergebnis.“ Eine Pause. „Die Schamanen tanzen. Die Heiler machen ihre Arbeit. Sie schöpfen aus einer Quelle, die kein Wasser mehr gibt. Aber sie schöpfen trotzdem, weil sie bezahlt werden, um zu schöpfen, und weil sie Angst haben, mir zu sagen, dass sie nichts tun können.“ Töregene wandte den Kopf, nur einen Fingerbreit. „Hast du schon von den Gerüchten gehört?“
+Selbst die Trommel des Schamanen hielt inne. Der Rauch stieg kerzengerade empor zur Rauchöffnung, als wagte auch er nicht mehr zu weichen.
 
-„Ein Fluch“, sagte Fatima.
+Fatima regte sich nicht. Unter dem Seidenstoff ihres Gewandes schlug ihr Herz gegen die Rippen, unruhig wie ein Vogel, der gegen das Gebälk einer fremden Halle fliegt. Sie kannte diesen Ton. Sie hatte ihn in Maschhad gehört, damals, vor dreiundzwanzig Jahren, als die Reiter durch die Gassen brachen und die Schreie der Nachbarn das Pflaster tränkten. Es war der Ton, der ertönte, bevor das Eisen fiel.
 
-„Ein Fluch. Genau.“ Töregenes Stimme war ruhig, aber ihre Kiefer mahlten. „Es ist immer ein Fluch. Nie der Körper. Nie das Alter. Nie der Zufall. Immer ein Fluch. Immer jemand, der ihn ausgesprochen hat. Immer jemand, der dafür bezahlen wird.“ Sie drehte den Kopf zurück zu Köden. „Die Menschen brauchen eine Ursache, Fatima. Sie brauchen etwas, das sie anfassen können, in das sie hineinbeißen können. Sonst ist der Tod nur sinnlos, und das können sie nicht ertragen. Sie müssen ihn reich machen, voller Bedeutung, voller Schuld. Sie müssen jemanden finden, der sie befreit von der Tatsache, dass der Körper irgendwann aufgibt, und dass sie nichts dagegen tun können.“
+Ködens Arm hob sich zitternd. Seine Hand, mager und gelb wie die Klaue eines Falken, deutete direkt auf ihre Brust.
 
-Sie sprach weiter, leise, wie zu sich selbst:
+„Mutter…“, keuchte der Prinz, und seine Stimme brach in ein Würgen um. „Sie herrscht über dich… sie hat das Siegel… sie verflucht mein Blut… nimm ihr das Eisen… verbrenn sie…“
 
-„Gestern Abend rief Köden nach dir. Im Fieber. Er sagte deinen Namen.“
+Ein Murmeln lief durch die Männer an der Wand. Abd ar-Rahman trat einen halben Schritt vor, die Hände ehrerbietig gefaltet, doch auf seinen Lippen lag der Schatten eines Triumphs, kalt und scharf.
 
-Fatima erstarrte.
+„Der Prinz spricht mit dem Mund der Geister“, wisperte der Schamane. „Die Wahrheit steigt auf, wenn der Leib vergeht.“
 
-„Was hat er gesagt?“
+Fatima sah zu Töregene.
 
-„Nichts, das Sinn ergab. Bruchstücke. Namen, die ich nicht kannte. Orte, an denen er nie gewesen war. Und dann deinen Namen. Einmal. Deutlich. ‚Fatima‘.“ Töregene wandte sich ihr jetzt voll zu. „Rate, was die Heiler daraus machen, während ich ihnen dabei zusehe, wie sie meinen Sohn langsam sterben lassen, weil ihre Hände zu dumm sind, um ihn zu retten, und ihre Zungen zu geschwind, um zu schweigen.“ Sie ließ eine Pause. „Sie sagen, du habest ihn verflucht. Sie sagen, du seist eine Hexe aus dem Westen, die im Reich des Khans nichts zu suchen habe. Sie sagen, ich hätte dich besser nicht in meine Nähe gelassen. Sie sagen, deine Augen seien falsch, deine Hände kalt, deine Worte Gift. Sie sagen, du wärst gekommen, um das Haus des Khans zu zerstören, und du hattest nur darauf gewartet, mit einem Fluch zuzuschlagen, der den Sohn der Regentin trifft, den einzigen Sohn, der ihr treu geblieben ist, während alle anderen gegen sie arbeiten.“
+Die Regentin hatte den Kopf nicht gewandt. Sie blickte starr auf das verzerrte Gesicht ihres Sohnes. Für einen einzigen, winzigen Lidschlag glaubte Fatima, ein Zittern um die Mundwinkel der Herrin zu sehen – jenen Riss im Stein, den nur sie kannte, die Erinnerung an ein Zelt der Naimanen, an ein Leben als Beute, an den Schmerz einer Mutter, die ihr Kind an das Dunkel verlor.
 
-Fatima hörte zu. Die Worte brannten nicht. Sie kannte diese Melodie aus zwanzig Jahren. Sie hatte andere Versionen gehört. „Die Sklavin aus Chorasan. Die Diebin von Macht. Die Schattenkanzlerin.“ Sie lächelte nicht. „Ich habe sie alle gehört. Sie sind nur Worte, Khatun. Sie ändern nichts an der Tatsache, dass ich hier stehe, und dass ich bleibe, solange du es willst. Solange du es brauchst. Solange du mich nicht wegschickst und solange ich noch atme. Deine Entscheidung. Immer deine Entscheidung, Khatun. Du hast mich geholt. Du kannst mich gehen lassen. Jederzeit. Ein Wort. Ein Blick. Ein Satz im Fieber eines sterbenden Prinzen, der gesprochen wird, weil er ein Zeichen braucht, und weil er nicht an den Tod glaubt, wenn er keine Farbe hat, wenn er keine Stimme hat, wenn er kein Gesicht hat, das er erkennen kann. Du hast mich geholt, du kannst mich gehen lassen. Ich werde dir nicht widersprechen. Nicht heute. Nicht morgen. Keine Woche. Kein Monat. Kein Jahr, das mir bleibt, um zu vergessen, wo ich geboren wurde, wo meine Schwester starb, wo mein Leben zu etwas geriet, das ich nicht wählen durfte, auch wenn es mein Leben war und bleibt, solange ich atme, schreibe, diene, vergehe. Deine Entscheidung, Khatun. Immer deine Entscheidung, Khatun. Immer deine Entscheidung, Khatun, auch wenn du sie nicht triffst, und der Fluch mich trifft, weil ich hier stehe und rede, und meine Finger zittern, und du es siehst, du siehst es, du siehst mich, und du wirst entscheiden.“ Er zitterte. Seine Hände zitterten auf den Tüchern, und seine Zähne schlugen aufeinander mit einem Geräusch, das alle im Zelt gehört haben müssen.
+Doch dann schloss sich der Stein wieder.
 
-Der Heiler trat zurück. Der Lama hörte auf zu beten. Die Schamanen ließen die Rasseln sinken.
+Töregene erhob sich. Ihre Gestalt war nicht groß, aber als sie aufstand, schien die Jurte mit einem Schlag zu eng für alle Anwesenden zu werden. Der Fuchspelz rauschte über den Boden. Sie ging nicht zu ihrem Sohn. Sie trat zwischen das Lager und Fatima, drehte sich langsam um und blickte in den Kreis der Krieger.
 
-Ködens Stimme war leise, kaum ein Flüstern, aber im Zelt hätte man eine Feder fallen hören:
+Ihre Stimme war nicht laut. Sie schnitt durch den Raum wie frisches Eis.
 
-„Fatima…“
+„Mein Sohn liegt im Brand des Fiebers“, sagte Töregene. Jedes Wort war abgewogen, geschliffen an den Zähnen der Macht. „Sein Verstand wandert in den Sümpfen, wo die Toten flüstern. Wer den Wahn eines Sterbenden zur Anklage macht, stellt sich gegen meinen Willen.“
 
-Der Name hing im Raum wie Rauch, der sich nicht verziehen wollte.
+Ihr Blick traf Abd ar-Rahman. Der Steuereintreiber wich nicht zurück, aber seine Lider zuckten.
 
-Die Heiler sahen sich an. Der Lama senkte den Kopf. Die Schamanen murmelten etwas in einer Sprache, die keiner verstand, die aber von alten Giften und Rache sprach, die man nicht vergessen sollte.
+„Khatun“, begann ein älterer Hauptmann aus Ködens Leibwache, die Hand noch immer an der Klinge, „sein Blut schreit. Wenn eine Fremde, eine Ungläubige aus dem Westen, mit Zauberzaum und bösem Blick über die Jurten kommt…“
 
-Töregene rührte sich nicht. Sie stand neben dem Lager ihres Sohnes, und ihr Gesicht war unbewegt wie Stein.
+„Schweig, Eljigidey“, sprach Töregene. Es war kein Herrscherinnenbefehl; es war ein Todesurteil, das auf Bewährung ausgesetzt wurde. „Fatima schreibt, was ich ihr auftrage. Sie siegelt, was ich befehle. Wer behauptet, sie lenke meine Hand, sagt damit, dass Töregene sich von einer Sklavin lenken lässt. Willst du das sagen, Hauptmann?“
 
-Fatima hielt ihren Atem an.
+Der Mann erbleichte unter seiner wettergegerbten Haut. Seine Finger glitten langsam vom Griff seines Messers. Er senkte den Kopf.
 
-Sie hörte, wie die Stille sich füllte mit dem, was nicht gesagt worden war: mit Anklage, mit Misstrauen, mit Gewissheit. Die Gewissheit, dass der Name eines Menschen, ausgesprochen im Fieber eines Sterbenden, eine Beweiskraft haben kann, die alle Logik übertrifft. Die Gewissheit, dass der Hof einen Sündenbock brauchte, und dass sie ihn hatte, dass sie ihn schon immer gehabt hatte, seit dem Tag, an dem sie zum ersten Mal das Zelt der Regentin betreten hatte, seit dem Tag, an dem man ihren Namen zum ersten Mal geflüstert hatte: Die Chorasanerin.
+„Niemand zweifelt an der Weisheit der Regentin“, murmelte er rauh.
 
-Töregene hob den Kopf.
+„Gut“, sagte Töregene, und ihr Tonfall war so eisig, dass Fatima die Kälte körperlich auf den Armen spürte. „Dann schafft diese Gaukler hinaus. Schafft den Schamanen fort. Seine Trommel weckt die bösen Geister, anstatt sie zu vertreiben. Schafft die Lamas fort. Wir brauchen keine Bettler, die um Ködens Seele feilschen. Bringt reines Wasser und frische Tücher. Fatima bleibt.“
 
-„Ihr habt gehört, was mein Sohn gesagt hat“, sagte sie.
+Die Männer verneigten sich, einer nach dem anderen, tief und steif, aber in ihren Augen stand keine Unterwerfung. Dort brannte etwas anderes: der aufgeschobene Hass. Sie wichen zurück, schoben den Schamanen vor sich her, dessen Schellen leise und kläglich klirrten, als er stolpernd die Schwelle überquerte.
 
-Ihre Stimme war leise, aber sie trug durch das ganze Zelt.
+Als der schwere Filzlappen hinter dem letzten Krieger herabfiel, brach der Raum in sich zusammen.
 
-„Er hat ihren Namen genannt. Im Fieber. Der Name der Frau, die vor ihm steht. Meiner Dienerin. Meiner Schreiberin. Der Frau, der ich vertraue, seit ich denken kann. Eine Frau, die ich nach dem Tod meines Mannes an meiner Seite behalten habe, als alle anderen mich verlassen haben oder mir misstraut oder gegen mich gearbeitet haben. Eine Frau, die nie etwas getan hat, um einen Fluch zu verdienen, es sei denn, man hält Treue für einen Fluch, und Dienst für einen Fluch, und Überleben in einer Welt, die Sklavinnen wie sie verhökert wie Vieh, für einen Fluch. Ihr habt eure Arbeit gemacht. Ihr habt gehört. Ihr habt gesehen. Ihr habt eure Schlüsse gezogen. Aber ihr habt auch diesen Satz gehört, den ich jetzt ausspreche, und ich sage ihn einmal, und ihr werdet ihn sofort verstehen: Wenn meine Dienerin ein Fluch wäre, hätte ich ihn schon vor zwanzig Jahren an mir selbst gespürt. Ich fühle nichts. Ich fühle nur den Verlust eines Sohnes, der mir durch die Finger rinnt wie Sand, und den Geruch von Kräutern, die nicht wirken, und diesen einen Satz, den ihr jetzt hören werdet: Hier wird niemand angeklagt. Niemand. Solange ich hier stehe. Solange ich noch Regentin dieses Reiches bin. Solange ich noch die Zügel in der Hand halte, die Männer geführt haben, die dreißig Jahre lang kein Volk besiegt haben, keine Stadt erobert, kein Gesetz gegeben haben – solange ich noch die Waage halte, die Ögedei mir gegeben hat, als er noch lebte und vertraute, solange habe ich das Wort. Und mein Wort ist: Wir suchen keine Ursachen. Wir suchen einen Heiler, der diesen Mann gesund macht, den Mann, der Fleisch von meinem Fleisch ist und Knochen von meinen Knochen, und wenn ich noch einen Satz höre, der nicht von der Heilung spricht, sondern von der Anklage, werde ich die Zunge entfernen, die ihn gesprochen hat, und den Körper, der ihn getragen hat. Das ist mein Wort. Das letzte Wort in diesem Zelt. Das letzte Wort, bevor ich gehe und den nächsten Heiler hole. Verstanden?“
+Köden atmete noch dreimal. Es waren lange, zerrissene Züge, wie das Schlürfen von Wasser in einem versiegenden Brunnen. Beim dritten Atemzug bäumte sich seine Brust noch einmal auf, dann sank sie ein. Seine Augen blieben offen, starr auf das runde Dachfenster gerichtet, durch das der graue Herbsthimmel schimmerte.
 
-Niemand sprach. Die Heiler standen still. Der Lama verneigte sich. Die Schamanen wichen zurück.
+Ein Laut entwich ihm, kein Wort mehr, nur die letzte Luft.
 
-Fatima sah Töregene an.
+Er war tot.
 
-Die Regentin hatte die Wahl getroffen: öffentlich, eisig, kompromisslos.
+Töregene blieb reglos stehen. Ihr Rücken war noch immer durchgedrückt, die Haltung der unantastbaren Regentin des größten Reiches der Erde. Zehn Herzschläge lang stand sie da. Fünfzehn.
 
-Aber in den Sekunden, die auf die Stille folgten, in den winzigen Zehnteln von Atemzügen, in denen sich die Heiler wieder an die Arbeit machten und die Schamanen ihre Rasseln hoben und der Lama zu beten begann – in diesen winzigen Nadelstichen der Zeit fühlte Fatima etwas anderes.
+Dann knickten ihre Schultern ein.
 
-Töregene hatte sie beschützt. Das war die Nachricht, die alle hören sollten.
+Es war kein lauter Zusammenbruch. Es war das lautlose Bersten eines Tragebalkens tief im Holz. Sie drehte sich um, trat an das Lager heran und ließ sich auf die Knie fallen. Ihre Hände, diese harten, unerbittlichen Hände, die Kanzleien geschlossen und Urteile gesprochen hatten, griffen nach Ködens starrenden Fingern. Sie zog die Hand ihres Sohnes an ihre Wange, strich mit dem Daumen über die kalten Knöchel, wieder und wieder.
 
-Aber Töregene hatte auch etwas gezeigt: Sie hatte sich zwischen Sohn und Dienerin stellen müssen. Sie hatte wählen müssen. Das war eine Wahl, die sie nie hätte treffen müssen, wenn die Fieberträume ihres Sohnes ihn nicht dazu gebracht hätten, den Namen einer Frau aus Chorasan zu rufen, deren Anwesenheit am Hof schon immer ein Problem gewesen war, ein Stein im Schuh, der nicht wegging.
+Fatima trat leise heran. Sie wusste, dass sie nicht sprechen durfte. In der Welt der Mongolen weinte eine Herrscherin nicht vor Zeugen. Tränen waren Wasser, das den Boden schwächte; Trauer war ein Eingeständnis der Ohnmacht vor Tengri, dem ewigen Himmel.
 
-Töregene wandte sich ihr zu. „Geh, Fatima. Ich will dich heute nicht mehr im Zelt. Nicht vor dem Abendessen. Geh. Ruhe dich aus. Sieh zu, dass du isst. Du siehst aus, als hättest du seit Tagen nicht geschlafen.“ Eine Pause. „Wir reden später. Aber nicht jetzt. Jetzt möchte ich mit meinem Sohn allein sein. Ganz allein. Ohne Heiler. Ohne Schwestern. Ohne Diener. Nur ich und er, wie es war, als er noch klein war und Fieber hatte, und ich ihm die Stirn kühlte, und er mich nannte, wie er mich immer nannte: Die, die bleibt. Geh, Fatima. Geh jetzt. Tu mir den Gefallen. Tu mir den Gefallen, den ich dir nicht befehlen kann, weil er nichts mit Befehl zu tun hat, sondern mit dem, was du für mich bedeutest, und mit dem, was mein Sohn gerade getan hat, obwohl er es nicht wusste, obwohl er nicht wollte, obwohl er nicht schuld ist an dem, was er im Fieber denkt oder sagt oder tut oder wünscht. Geh, Fatima. Lass mich trauern, bevor er stirbt. Lass mich trauern, während er noch lebt, und der Schmerz noch nicht das Ende ist, sondern die Mitte, und ich ihn noch berühren kann, seine Hand halten, seinen Namen sagen, seine Stirn kühlen, bevor er mich verlässt auf eine Reise, von der ich nicht weiß, wohin sie führt, und ob es Worte gibt, die ich ihm mitgeben kann, die ihm helfen, den Weg zu finden, und ob ich je wieder atmen werde, wenn er mich verlassen hat. Geh, Fatima. Geh. Ich kann es dir nicht zweimal sagen. Geh jetzt. Bitte. Geh. Geh. Geh. Geh. Geh. Geh…
+Doch hier, in diesem stinkenden, von Rauch geschwärzten Raum, waren sie allein. Zwei Frauen, die der Krieg zusammengeblasen hatte wie Laub im Sturm. Töregene, als Beute geraubt nach dem Untergang ihres Stammes, zur Frau eines Khans erhoben, den sie nicht gewählt hatte; Fatima, aus dem Blutbad von Maschhad gezerrt, zur Kanzleisklavin gemacht, die ihr Überleben mit der Schärfe ihrer Feder erkaufte.
 
-Töregene sprach nicht weiter. Sie nahm die Hand ihres Sohnes.
+Beide hatten gelernt, dass Verlust nichts war, worüber man klagte. Verlust war etwas, das man archivierte. Man legte ihn ab in den dunklen Kammern der Brust, versiegelte ihn mit Schweigen und wartete, bis der nächste Schlag fiel.
 
-Fatima ging.
+Töregene hob den Kopf. Ihre Augen waren trocken, aber ihre Züge schienen um Jahre gealtert, die Haut fahl und straff über den Wangenknochen.
 
-Draußen war der Himmel grau. Der Wind trug den Geruch von Pferden und verbranntem Mist. Die Ordu summte wie ein Bienenschwarm, die Wachen standen an ihren Posten, die Diener eilten zwischen den Zelten hin und her. Keiner sah sie an. Keiner sprach sie an. Aber sie wusste: Der Name war gefallen. Der Keim war gesät. Die Ernte würde kommen.
+„Er hat deinen Namen gerufen“, flüsterte die Herrin. Ihre Stimme zitterte nicht, aber sie klang hohl, wie aus einer tiefen Grube heraufgeholt. „Er hat dich genannt, Fatima. Nicht mich.“
 
-Das Fieber stieg in den nächsten Tagen wie eine Flut, die nicht mehr zurückweichen wollte.
+„Er war im Fieber, Herrin“, erwiderte Fatima leise auf Persisch, der Sprache, die sie sprachen, wenn die Mauern Ohren hatten.
 
-Heiler kamen. Heiler gingen. Der Lama brachte geschriebene Gebete, die er unter Ködens Kopfkissen legte. Die Schamanen tanzten drei Nächte lang, ihre Silhouetten zuckten im Schein der Feuer gegen die schwarze Leinwand des Zeltes. Der Arzt aus Buchara, der auf der Durchreise war, verordnete Aderlass – ein halber Liter Blut, das dick und dunkel in die Schale rann, aber keinen Unterschied machte. Ein Kräuterhändler aus Samarkand schickte getrocknete Wurzeln, die zu einem Brei zerstampft wurden, den Köden nicht bei sich behalten konnte.
+„Er war mein Fleisch“, sagte Töregene. Sie ließ die tote Hand los. Sie fiel schwer und dumpf auf die Decken zurück. „Und er ist gestorben mit dem Glauben, dass ich eine Marionette in deinen Händen bin. Güyük wird dasselbe glauben. Wenn er zurückkehrt, wird er es auf jedem Schild durch die Steppe tragen.“
 
-Der Prinz magerte ab. Seine Wangen fielen ein, die Haut spannte sich über die Knochen wie Pergament über einen Rahmen. Seine Hände zitterten, auch wenn er schlief. Seine Lippen rissen auf, der Schweiß trocknete weiß auf seiner Stirn.
+Fatima senkte den Blick. Sie sah die Narbe an ihrem linken Handgelenk, weiß und dünn gegen die Haut. Sie spürte die Einsamkeit des Lagers wie eine Last aus Blei. Jede Stütze schwand. Wie dünn war der Grund, auf dem sie alle gingen.
 
-Töregene wich nicht von seiner Seite. Sie aß neben ihm, trank Tee neben ihm, schlief auf einer Filzmatte am Fußende seines Lagers, die Knie angezogen, den Kopf auf die Hände gestützt. Sie sprach wenig, und wenn sie sprach, dann in kurzen, knappen Sätzen: „Wasser.“ „Holt den Heiler.“ „Wascht ihn.“ „Löscht das Feuer.“ „Lasst mich eine Stunde allein mit ihm. Eine Stunde. Auf die Minute genau. Ich rufe, wenn ich euch brauche. Ich rufe, wenn er etwas braucht. Ich rufe, wenn ich nicht mehr kann. Ich rufe, wenn er…“ Sie vollendete den Satz nicht.
+„Ihr habt mich geschützt“, sagte Fatima leise.
 
-Am vierten Tag trat der Älteste der Heiler zu ihr. Er zog den Vorhang zwischen dem Krankenlager und dem äußeren Raum zu, kniete nieder, senkte den Kopf.
+Töregene stand langsam auf. Ihre Knie knackten in der Stille. Sie strich mit einer fast fahrigen Geste über ihren Fuchspelz, richtete den Kragen, zog die Maske der Regentin wieder über ihr Gesicht, Schicht um Schicht, bis kein Mensch mehr darunter zu sehen war.
 
-„Khatun“, sagte er leise. „Ich muss mit dir sprechen. Über das, was wir sehen. Über das, was wir nicht sehen, und über das, was wir tun können, und über das, was wir nicht tun können, und über das, was wir nicht verhindern können, wenn es so weitergeht. Khatun. Der Prinz hat aufgehört, Flüssigkeiten aufzunehmen. Sein Puls ist schwach, seine Haut kühl, seine Augen verfärben sich. Er sieht Dinge, die nicht da sind. Er spricht mit Menschen, die gestorben sind. Er ruft Namen, die niemand kennt, und Namen, die alle kennen. Sein Körper gibt auf, Khatun. Nicht seine Seele, aber sein Körper. Der Körper ist nicht ewig, Khatun. Der Körper ist nicht dafür gemacht, das auszuhalten, was in ihn gefahren ist. Was in ihn gefahren ist, haben wir nicht identifizieren können. Es ist kein Fieber, das wir kennen. Es ist keine Galle, kein Schleim, kein Blut, das wir ins Gleichgewicht bringen können. Es ist etwas, das wir nicht verstehen. Etwas,
+„Ich habe mich geschützt“, sagte sie kalt. „Wenn sie dich als Hexe verbrennen, Fatima, verbrennen sie mein Recht zu herrschen gleich mit. Du bist mein Schatten. Wenn man auf den Schatten spuckt, trifft es den Körper.“
 
----
+Sie ging zur Filztür, legte die Hand auf den Riemen, hielt aber noch einmal inne. Sie sah Fatima nicht an, als sie sprach.
+
+„Wisch ihm das Gesicht ab“, befahl die Regentin leise. „Nimm das Tuch mit Essig. Lass nicht zu, dass sie sehen, wie der Schaum an seinen Lippen klebte. Der Sohn eines Großkhans stirbt mit reinem Antlitz.“
+
+„Ja, Herrin.“
+
+Töregene stieß den Filz zur Seite und trat hinaus in das grelle, kalte Licht des Herbsttages. Draußen ertönten sofort die Rufe der Wachen, das Wiehern der Hengste, das dumpfe Gemurmel des Hofstaates, der auf das Urteil über Leben und Tod gewartet hatte.
+
+Fatima blieb allein mit der Leiche.
+
+Sie nahm die Schale mit dem Essigwasser, tunkte das grobe Leinentuch hinein und wringte es aus. Der Geruch nach saurem Wein stach in ihren Augen. Sie trat an Ködens Lager heran und begann, die Spuren des Sterbens von seiner Haut zu waschen.
+
+Sie strich über seine Stirn, strich ihm die starren Lider über den Augen zu. Köden war kein grausamer Mann gewesen; er hatte Kanzler Chinqai das Leben gerettet, hatte versucht, ein Gegengewicht zu seiner Mutter zu sein, eine Brücke zwischen den alten Gesetzen und der neuen Härte. Und doch war sein letztes Vermächtnis ein Fluch gewesen.
+
+Fatima spürte ein Ziehen in der Brust, dort, wo unter den Seidenlagen die Briefe an ihre tote Schwester eingenäht waren.
+
+*Er hat meinen Namen genannt, Schwester*, dachte sie, und ihre Finger zitterten kaum merklich, als sie das Blut von den Mundwinkeln des toten Prinzen wischte. *Er hat das Wort ausgesprochen, das sie alle seit Monaten auf den Zungen tragen. Nun ist es in der Welt. Man kann einen Pfeil nicht zurückholen, wenn die Sehne ihn erst losgelassen hat.*
+
+Töregene hatte sie verteidigt. Doch dieser Schutz war wie das dünne Eis auf dem Orchon im Spätherbst: Es trug das Gewicht eines Schrittes, aber es brach unter dem nächsten. Töregene war nun eine Mutter, die ein Kind an die Erde verloren hatte, geschwächt vor den Fürsten, umringt von Feinden, die nur darauf warteten, dass die Regentin ins Wanken geriet.
+
+Fatima wusch das Tuch aus. Das Wasser in der Schale färbte sich trüb und rosa.
+
+Draußen im Wind hub das Wehklagen der Frauen an. Der Tod war nun amtlich. Reiter würden gesattelt werden, sie würden nach Norden sprengen, nach Osten, nach Westen. Sie würden zu Güyük reiten, der an den fernen Grenzen sein Heer sammelte und darauf wartete, dass Karakorum fiel wie eine überreife Frucht.
+
+Sie würden ihm berichten, dass sein Bruder tot war. Und sie würden ihm berichten, wessen Name in Ködens letztem Atemzug gelegen hatte.
+
+Fatima trat zurück und verbarg ihre nassen Hände wieder in den Ärmeln.
+
+Der Prinz war tot, aber seine Worte waren lebendig. Sie hingen jetzt in der Luft wie Rauch in Kleidern, bitter und unauslöschlich.
+
+Es brauchte nur noch einen Mund, der sie aussprach.
+

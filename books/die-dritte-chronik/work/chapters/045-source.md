@@ -5,306 +5,169 @@
 
 ---
 
-Die Lampe brannte flach, als Juvaini den ersten Satz schrieb.
+Der Geruch von rußigem Hammelfett und kaltem Pergament füllte die Kanzleijurte, schwer und erstickend wie ein nasses Tuch auf dem Gesicht. Es war die vierte Nachtwache, die kälteste Stunde vor dem ersten Grauen, in der selbst das Heulen der Steppenhunde vor den Wällen Karakorums erstarb. Auf dem niedrigen Schreibtisch aus Ulmenholz stand eine einzige Butterlampe, deren Docht träge zischelte und einen öligen Lichtkreis auf die ausgebreiteten Blätter warf.
 
-Das Öl war fast aufgebraucht, die Flamme zuckte, warf Schatten, die sich an den Wänden der Kanzlei brachen. Er saß vor dem leeren Blatt, das Papier vor ihm ausgebreitet, die Feder in der Hand, die Tinte frisch.
+Ata-Malik Juvaini saß mit gekreuzten Beinen auf dem Filz, die Knie steif vor Kälte, die Finger der rechten Hand klamm um das Schilfrohr geschlossen. Vor ihm lagen die amtlichen Gerichtsakten der Säuberung. Akten, die nach Moder, getrockneter Galle und altem Staub rochen.
 
-Er hatte drei Anläufe gebraucht, um den Raum zu betreten.
+Das Urteil. Das erpresste Geständnis. Der Makel der Zauberei.
 
-Der erste Versuch endete vor der Tür. Er stand im Gang, die Hand auf dem Griff, und spürte, wie sich etwas in ihm verweigerte. Ein Muskel, ein Nerv, ein Teil seines Bewusstseins, der sich weigerte, diesen Schritt zu tun. Er drehte um. Ging zurück zum Fluss. Stand am Ufer. Sah auf das Wasser.
+Der Großkhan Möngke verlangte ein Denkmal, keine Rechnungslegung. Er verlangte die *Geschichte des Welteroberers*, ein Monument aus erlesenem Persisch, das die Herrschaft des Hauses Tolui so unanfechtbar machen sollte wie den Lauf der Gestirne am Himmel über den Weiten der Steppe. Juvaini war sechsundzwanzig Jahre alt, im Zenit seiner Kanzleikunst, ein Meister der Metaphern und der höfischen Ziselierung. Seine Hand verstand es, einen Mord in göttliche Vorsehung zu kleiden und die Brandschatzung einer Weltstadt wie den unausweichlichen Einbruch des Frühlingsgewitters zu schildern.
 
-Das Wasser zeigte nichts.
+Nun forderte die Chronik ihren Blutzoll: den Abschnitt über das Jahr der Maus. Über die Vertraute der Regentin Töregene. Über die Frau, deren Atem einst nach getrockneten Rosenblättern und Safran geschmeckt hatte, wenn sie in den kurzen Sommernächten nebeneinander im Schatten der Kanzlei gesessen hatten.
 
-Der zweite Versuch endete am Schreibtisch. Er setzte sich, legte die Feder zurecht, öffnete das Tintenfass. Dann sah er das Bündel auf dem Tisch liegen – dort, wo Shigis Vertrauter es abgelegt hatte, Stunden zuvor, ohne ein Wort. Das Filz war grau, abgenutzt, an den Rändern ausgefranst. Das Siegel war dasselbe wie auf dem Todesurteil.
+*Fatima.*
 
-Juvaini stand auf. Verließ die Kanzlei. Ging zurück zur Zeltstadt.
+Juvaini tauchte die Feder in das Rußschwarz. Er hob die Hand, setzte die Spitze auf das geschmeidige, geleimte Papier aus Samarkand und begann zu schreiben.
 
-Er fand einen Händler, der noch offen hatte, und kaufte Öl für die Lampe.
+*Als die Angelegenheiten des Reiches durch weibliche Torheit verwirrt und die Fäden der Ordnung zerrissen waren, trat jene verruchte Verführerin hervor, ein Dämon in Menschengestalt, deren Bosheit wie giftiger Rauch die Pfeiler des Reiches umnachtete…*
 
-Jetzt saß er da. Die Lampe brannte flach, aber sie brannte. Das Blatt lag vor ihm. Das Bündel lag daneben – er hatte es nicht geöffnet, nicht berührt, nicht angesehen. Es lag da wie ein zweites Gewicht, eine zweite Last, eine zweite Wahrheit.
+Er hielt inne. Sein Herz schlug gegen die Rippen, unruhig wie ein Vogel, der gegen das Gebälk einer fremden Halle fliegt. Er sah auf die Zeilen herab.
 
-Er begann zu schreiben.
+Die Schwünge der Kanzleischrift waren makellos. Die Bögen der Buchstaben glitten dahin wie Schwäne auf einem Teich, edel, geschmückt, vollendet in ihrem feierlichen Rhythmus. Die Sprache gehorchte ihm mit widerwärtiger Eleganz. Sie verwandelte das nackte Grauen, das er am Orchon-Fluss gesehen hatte – das Fleisch, das im Schlamm erstickte, die Schreie, die in nassem Filz verklangen –, in ein ornamentales Mosaik. Sie machte aus einer lebendigen, klugen Frau mit einer schmalen Narbe am Handgelenk eine Schimäre aus Tinte. Ein abstraktes Ungeheuer, das man straflos ertränken durfte.
 
-*Im Namen des ewig währenden Gottes, des Barmherzigen, des Erbarmers.*
+Juvaini stieß ein leises, keuchendes Atmen aus. Er nahm das Messer, schabte die feuchte Tinte vom Papier, riss die Faser auf, bis ein rauer, grauer Fleck zurückblieb.
 
-Die Formel kam automatisch. Die Hand bewegte sich, ohne dass er es wollte, ohne dass er es steuerte. Die Worte flossen aus der Feder wie Wasser aus einer Quelle – glatt, geschmeidig, schön.
+Er setzte neu an.
 
-*Dies ist die wahre und unverfälschte Darstellung der Ereignisse um die Person Fatima bint Muhammad al-Chorasaniyya, bekannt als die Dienerin der Regentin Töregene Khatun.*
+*Jene Fatima aber, deren Herz von den Einflüsterungen Iblis’ erfüllt war, wandte Künste an, die der Schöpfer verflucht hat, und brachte Verwirrung über die Söhne Ögedeis…*
 
-Er hielt inne.
+Er strich es durch. Ein dicker, schwarzer Balken schnitt durch die Zeile wie eine Richtschnur.
 
-Die Worte standen auf dem Papier – sauber, präzise, elegant. Die Handschrift war makellos: jeder Buchstabe wohlgeformt, jede Ligatur perfekt geschwungen, jeder Diakritikpunkt an seinem Platz. Es war Hofpersisch in seiner reinsten Form: geschliffen wie Edelsteinpolitur.
+Wieder floss der Hofstil aus seiner Feder, automatisch, feige, glattgeschliffen durch Generationen persischer Schreiber, die gelernt hatten, dass man die Tyrannen mit Weihrauch füttern muss, um den eigenen Kopf auf den Schultern zu behalten. Jeder Satz war ein Verrat an den Nächten, in denen sie ihm beigebracht hatte, dass Worte kein Schild waren, sondern ein Zeugnis. *Das Schwert erobert, die Feder bleibt.* So hatte sein Vater ihn belehrt. Aber was blieb, wenn die Feder zur Hure der Sieger wurde?
 
-Und es log bereits im zweiten Satz.
+Das Zeltseil ächzte leise im Wind, der vom Orchon herüberwehte und den Geruch von gefrorenem Wermut und Schnee mit sich trug.
 
-„Unverfälschte Darstellung“ – als ob es so etwas gäbe in dieser Kanzlei.
+Ein Schatten fiel über den Eingang der Jurte. Der schwere Filzbehang hob sich lautlos.
 
-„Wahre und unverfälschte Darstellung“ – als ob nicht jeder Satz, den er je geschrieben hatte in diesem Raum, eine Verzerrung war, eine Anpassung, eine Lüge im Gewand der Wahrheit.
+Juvaini fuhr herum, die Hand am Schabmesser.
 
-Er strich den Satz durch.
+Im Dämmerlicht stand ein Mann in einem groben, abgewetzten Mantel aus Schaffell. Das Gesicht war von Windpocken und Wetter gegerbt, der Schnurrbart hing voll Raureif. Es war Möngke-Temür, der alte Bote, der sein halbes Leben im Sattel zwischen den Jurtenstädten verbracht hatte. Ein Schatten aus dem Gefolge des gestürzten Oberrichters.
 
-Die Tinte verlief auf dem Papier, hinterließ einen dunklen Strich durch das Wort „unverfälscht“. Er begann neu.
+Der Mann trat zwei Schritte vor. Seine Stiefel aus ungegerbtem Leder hinterließen feuchte Flecken auf dem Wollteppich. Er sprach kein Wort. Er griff unter seinen Pelzmantel, zog ein Bündel hervor und legte es mitten auf Juvainis Schreibtisch, direkt auf die Akten mit den königlichen Todesurteilen.
 
-*Im Namen des ewig währenden Gottes.*
+Das Geräusch, als es aufschlug, war dumpf und schwer.
 
-Wieder die Formel.
+Juvaini starrte darauf. Es war ein längliches Paket, umwickelt mit dickem, grauem Steppenfilz, festgezurrt mit Hanfschnüren, an deren Knoten getrockneter Siegellack klebte. Der Lack trug einen Abdruck, den Juvaini besser kannte als sein eigenes Gesicht: das Quadrat mit den zweiseitigen Einkerbungen, das persönliche Zeichen des Oberrichters Shigi Qutuqu. Dasselbe Siegel, das unter Fatimas Verurteilung gestanden hatte. Dasselbe Siegel, das die Hinrichtung von Fürsten, Kanzlern und Bettlern besiegelt hatte.
 
-*Es wurde berichtet von den Schreibern des Hofes und den Zeugen der Ereignisse.*
+Der Bote nickte nur einmal, eine stumme Verbeugung der Schultern, wandte sich um und glitt durch den Vorhang zurück in die eisige Finsternis der Steppe.
 
-Er schrieb weiter. Die Hand bewegte sich schneller jetzt – aber immer noch schön. Immer noch flüssig. Immer noch das geschliffene Persisch eines Hofdichters, der gelernt hatte aus den Meistern von Schiras und Buchara.
+Juvaini blieb allein.
 
-Er beschrieb Fatimas Herkunft: *Geboren in Chorasan in einer Familie unbekannter Herkunft.* Dann strich er „unbekannter“ durch und schrieb „niedriger“. Dann strich er auch das durch und ließ nur „Geboren in Chorasan“ stehen – als ob das allein schon ein Urteil wäre.
+Der Wind rüttelte an der Dachöffnung der Jurte. Das Feuer im Eisenkorb war fast erloschen; nur noch ein paar glühende Dungbrocken sandten ein fahles, rötliches Glimmen aus.
 
-Er beschrieb ihren Aufstieg: *Durch Klugheit und Fleiß erwarb sie sich das Vertrauen der Regentin.* Das stimmte sogar – aber es stimmte nicht für dieses Dokument. In diesem Dokument würde sie keine Klugheit haben; sie würde List haben. Kein Vertrauen; Verführungskraft. Keine Hingabe; Besessenheit.
+Juvaini berührte das Filzbündel. Seine Fingerspitzen zitterten. Das Material war rau, borstig vom Fett der Steppenschafe, aber darunter spürte er die Festigkeit von Pergament, die harte Kante eines alten, schmalen Holzgegenstandes – Fatimas Federetui, das sie von ihrem Vater aus Chorasan mitgebracht hatte. Ein ganzes Leben, verschnürt gegen Feuchtigkeit, Würmer und die Klauen der Henker.
 
-Er strich den Satz durch und schrieb neu:
+Er verstand in einem einzigen Herzschlag.
 
-*Durch List und Betrug gewann sie Einfluss auf die Regentin.*
+Shigi Qutuqu, der Tatarenknabe, der die Gesetze hütete und dem Willen der Khagane weichen musste, hatte getan, was das Gesetz verbot. Er hatte ihr Todesurteil besiegelt, um das Reich vor dem Zerreißen zu bewahren, aber er hatte ihren Geist gerettet. Er hatte die Mörderin unterschrieben und die Zeugin beschützt.
 
-Seine Hand zitterte nicht.
+Und nun lag das Vermächtnis hier.
 
-Das war das Erschreckende: Seine Hand zitterte nicht mehr wie einst ihre Hand gezittert hatte unter dem Geständnis. Sie war ruhig wie ein Stein im Flussbett eines ausgetrockneten Bachs: kalt und unbeweglich und tot.
+Auf diesem Tisch berührten sich die zwei Formen der Schuld: Der Richter, der sie verurteilt hatte, hatte ihre Wahrheit verwahrt. Und der Schreiber, der sie geliebt hatte, war dazu verdammt, die Lüge über sie in die Ewigkeit zu meißeln.
 
-Er schrieb weiter:
+Juvaini zog die Hände zurück, als hätte der Filz ihn verbrannt.
 
-*Sie nutzte diesen Einfluss zur Bereicherung und zur Verfolgung persönlicher Feinde.*
+Er blickte auf das versiegelte Bündel, dann auf das leere Samarkand-Papier, auf dem die Weltgeschichte auf seine Worte wartete.
 
-Die Worte kamen leicht: Die Formeln lagen bereit wie Werkzeuge in einer Werkstatt – gut geölt und geschliffen von Generationen von Schreibern vor ihm. Er musste sie nur greifen und anwenden:
+Ein Schaudern lief ihm über den Nacken, kalt wie Steppenwasser. Wenn Möngkes Spione dieses Bündel fanden, würde Juvainis Fleisch vor Sonnenuntergang an den Pfählen der Stadtmauer hängen. Wenn er aber die Wahrheit über den Giftbecher, über Töregenes Todeskampf und Sorkaktanis stillen Griff nach dem Thron in die offizielle Chronik schrieb, würde sein Text mit ihm brennen. Niemand würde je ein einziges Wort davon lesen. Die Sieger würden die Blätter zerschneiden, die Asche in den Wind streuen, und die Welt würde nur das Schweigen kennen.
 
-"Verbreitung von Zwietracht zwischen den Prinzen des Hauses."
-"Anwendung verbotener Künste zur Schädigung von Prinz Köden."
-"Geständnis unter Zeugen abgelegt."
+*Man kann sie nicht mit der Wahrheit retten*, dachte er. Seine Brust zog sich krampfhaft zusammen, ein schmerzhafter Druck, der ihm den Atem raubte. *Die Wahrheit ist ein Brandopfer. Man kann sie nur verstecken.*
 
-Der letzte Satz blieb einen Moment länger auf dem Papier stehen als nötig.
+Er schloss für zehn Atemzüge die Augen. In der Dunkelheit hinter seinen Lidern sah er ihr Gesicht. Nicht die verkrallte Greisin, zu der die Hofgerüchte sie gemacht hatten, sondern die Frau in den einfachen seidenen Gewändern Maschhads, wie sie am Tisch gesessen und die Feder gereinigt hatte, während draußen die Reiter des Khagans durch den Staub preschten. *Bewahre nicht mich*, hatte sie ihm durch Shigi ausrichten lassen. *Bewahre, was ich weiß.*
 
-Unter Zeugen abgelegt.
+Juvaini öffnete die Augen wieder. Die Unsicherheit war gewichen. Das Zittern seiner Hände hatte aufgehört. An ihre Stelle trat eine Kälte, so blank und unbarmherzig wie die Splitterklingen der Leibwachen.
 
-Welche Zeugen? Der Folterknecht? Der Schreiber, der das Geständnis formuliert hatte? Der Richter selbst – Shigi Qutuqu – der gesiegelt hatte?
+Er nahm die Feder zur Hand.
 
-Juvaini legte die Feder nieder.
+Er strich das zerstörte Blatt beiseite und zog einen frischen Bogen heran. Das Papier war glatt, elfenbeinfarben, ein vollkommener Spiegel.
 
-Er starrte auf das Blatt vor sich: eine Seite voller Wörter mit einem durchgestrichenen Anfang und einem Wiederbeginn darunter; voller Formeln; voller Lügen; voller Schönheit; voller Tod; voller nichts außer einem Mechanismus perfektioniert über Jahrzehnte hinweg bis zur Perfektion eines Uhrwerks aus Stahl und Stein und Stille...
+Er würde die Lüge schreiben. Aber er würde sie so schreiben, dass sie zur Rüstung wurde.
 
-Er griff nach dem Bündel auf dem Tisch.
+Juvaini tauchte die Feder tief in das Tintenfass. Seine Züge verhärteten sich. Er wählte nicht den schlichten Ton der Gelehrten, nicht die weiche Trauer der Elegie. Er wählte bewusst die hässlichste, steifste, hermetischste Sprache, zu der das Hofpersisch fähig war – jenes überladene, geschwollene Gestrüpp aus Arabesken, Synonymen und kriecherischen Phrasen, das den Verstand des Lesers betäubte und den Sinn unter einer Flut von Schmeicheleien begrub.
 
-Das Filz war rau unter seinen Fingern: kalt vom langen Liegen im Schatten der Kanzlei; schwer mit dem Gewicht dessen was darin verborgen lag...
+Er schrieb, und die Worte ergossen sich wie zäher, klebriger Sirup auf das Pergament.
 
-Er öffnete es nicht.
+Er nannte sie die Verführerin, die Heuchlerin, die Kupplerin des Verderbens. Er häufte Schimpfnamen auf sie, die aus den Kanzleien der Abbasiden entlehnt waren, schmückte jede Verleumdung mit dreifachen Reimen und geschraubten Metaphern, bis das Bild der wirklichen Fatima vollkommen unter der goldenen Kruste höfischer Propaganda verschwand. Er machte die Lüge so prunkvoll, so absolut und widerspruchslos konform mit Möngkes Willen, dass kein Zensor, kein kaiserlicher Wesir und kein Richter je auf den Gedanken kommen würde, dahinter nach einem menschlichen Herzen zu suchen.
 
-Er legte es zurück an seinen Platz neben der Lampe wo es weitermachte zu existieren als stummer Vorwurf oder Versprechen oder beides gleichzeitig...
+Es war die schönste Lüge. Ein Denkmal aus vergoldetem Dreck.
 
-Und dann geschah etwas Seltsames:
+Er schrieb die ganze Nacht hindurch. Der Docht der Lampe fraß sich durch das Schmalz, die Kälte kroch durch seine Pelzstiefel bis in die Gelenke, doch seine Hand hielt nicht inne. Zeile um Zeile, Absatz um Absatz wuchs das Lügengebäude heran, unangreifbar in seiner offiziellen Verworfenheit.
 
-Seine Hand begann zu zittern...
+Er kam an das Ende. An die Hinrichtung.
 
-Nur leicht: kaum sichtbar bei genauerem Hinsehen... Ein feines Beben der Finger überm Papier... Wie damals ihre Hand gezittert haben musste als sie ihr Geständnis schrieb unter den Augen ihrer Peiniger...
+Hier verlangten die Notizen der kaiserlichen Untersuchungsrichter Details: wie man sie gefoltert hatte, wie man ihre Scham entblößt, die Öffnungen ihres Leibes vernäht und sie in den Filzsack gesteckt hatte, um sie lebendig in den eisigen Schlamm des Orchon zu werfen.
 
-Er legte die Feder nieder...
+Juvainis Hand erstarrte über dem Blatt. Die Tintenspitze schwebte einen Millimeter über der Faser.
 
-Wartete...
+Er hörte wieder das Klatschen des Wassers. Das schwere Glucksen, als die Wellen sich über dem Bündel schlossen. Den Geruch von Schlick und Galle.
 
-Atmete...
+Er konnte es nicht schreiben. Nicht, weil es die Machthaber beleidigt hätte – sie hätten sich an der Schilderung ihrer gnadenlosen Gerechtigkeit geweidet. Sondern weil das Niederschreiben dieser Schlachtung sie endgültig zum Vieh gemacht hätte. Weil die Chronik den Henkern nicht das letzte Bild überlassen durfte.
 
-Das Zittern hörte auf...
+Juvaini biss sich auf die Lippe, bis er das Salz seines eigenen Blutes schmeckte. Er senkte die Feder.
 
-Er nahm die Feder wieder auf - ruhig jetzt - fest - bereit - tot - fertig - funktionsfähig -
+Er setzte an, schrieb fünf Worte, und dann brach er die Erzählung mitten im Satz ab. Er setzte keinen Punkt, fügte keine buhlerische Ausrede an, sondern ließ den Satz ins Leere laufen, riss ein Loch in das lückenlose Gewebe seines eigenen Betrugs:
 
-Und schrieb weiter:
+*Was dann geschah, erlaubt der Anstand nicht zu schreiben.*
 
-*Geständnis abgelegt vor Zeugen -*
+Er hob die Feder vom Papier.
 
-Er hielt inne mitten im Satz...
+Die Leerstelle starrte ihn an. Ein weißer Fleck auf dem Blatt, umgeben von geschwärzten Lügen. Es war der einzige wahre Satz in seinem ganzen monumentalen Werk. Ein Schweigen, das wie eine klaffende Wunde im Text stand – unauffällig genug, dass ein Hofbeamter darin nur die züchtige Schamhaftigkeit eines frommen Schreibers sehen würde, aber für jeden, der die Kunst des Lesens verstand, ein stummer Schrei über das Verbrechen, das keine Sprache der Welt jemals fassen durfte.
 
-Ein Wort fehlte...
+Juvaini atmete tief ein. Die Luft schmeckte nach Asche und kaltem Talg.
 
-Ein Name fehlte...
+Er streute feinen Wüstensand über die frische Tinte, wartete, bis das Schwarz stumpf geworden war, und blies den Sand mit einem einzigen Atemzug fort.
 
-Der Name dessen der sie verurteilte... Der Name dessen der das Urteil vollstreckte... Der Name dessen der hier saß und ihre Lüge schrieb weil er sie liebte weil er sie retten wollte weil er sie bewahren wollte weil er sie verriet indem er sie bewahrte indem er sie rettete indem er -
+Die Chronik des Khagans war fertig. Die Hexe war gerichtet, die Dynastie war rein gewaschen, das Reich war gerettet.
 
-- Er ließ den Satz abbrechen:
+Er wandte sich dem Bündel auf dem Tisch zu.
 
-*Geständnis abgelegt vor Zeugen...*
+Er rührte die Siegel Shigis nicht an. Er öffnete den Knoten nicht. Er brauchte Fatimas Briefe jetzt nicht zu lesen; er trug ihre Stimme in sich, eingegraben in das Fleisch seines Gedächtnisses. Doch dieses Bündel durfte nicht hierbleiben. Karakorum war ein Kessel voller Wölfe; Möngkes Schreiber schnüffelten in jedem Winkel nach verbotenen Texten des gestürzten Hauses Ögedei.
 
-Dann darunter in kleinerer Schrift:
+Juvaini stand auf. Seine Knie knackten in der Stille der Jurte.
 
-*Was dann geschah erlaubt der Anstand nicht zu schreiben.*
+Er ging zu einem Holzkasten, in dem er die Kurierpässe und die leeren Siegelrollen für die Westlande verwahrte. Er nahm einen schmalen Streifen Pergament, riss ihn mit dem Messer ab – kaum zwei Finger breit – und tunkte die feine Feder in die Tinte.
 
----
+Keine Namen. Keine Grüße. Keine Floskeln der Zuneigung oder der Ehrfurcht. In der neuen Welt der Khagane war jedes überflüssige Wort ein Strick um den Hals.
 
-Es wurde still in der Kanzlei...
+Er schrieb in der knappen, eckigen Kanzleikurzschrift:
 
-So still dass Juvaini seine eigenen Gedanken hören konnte... So still dass er den Atem hörte seiner Lungen seiner Kehle seines Mundes... So still dass er hörte wie draußen jemand vorbeiging mit leisen Schritten auf feuchtem Boden...
+*Die Erbschaft ist geteilt. Die Chronik bleibt bei Euch. Die Briefe gehen nach Westen.*
 
-Der Wind blies durch einen Spalt in der Zeltwand ließ die Flamme flackern warf Schatten über das Papier über seine Hände über sein Gesicht -
+Er rollte den Streifen zusammen, so dünn wie ein Weidenzweig, und schob ihn in eine kupferne Hülse, die man einer Brieftaube an den Ständer band oder im Sattelzeug eines Reitknechts verbarg.
 
-Er starrte auf den Satz den er geschrieben hatte:
+Draußen begann der Himmel sich zu färben. Ein schmutziges, bleiches Grau kroch über die östlichen Hügel, das Licht des Morgens, kalt und ohne Wärme.
 
-*Was dann geschah erlaubt der Anstand nicht zu schreiben*
+Juvaini trat vor die Jurte. Der Frost brannte auf seinen Wangen wie Peitschenhiebe. Die ersten Rauchsäulen der Kochfeuer stiegen kerzengerade in die reglose Steppenluft, und in der Ferne schlug eine eiserne Glocke die Morgenwache.
 
-Das war wahr...
+Ein junger Reiter aus dem Gefolge Arghun Aqas stand bereits bei den Pferden, die Hände in den Ärmeln vergraben, der Atem als weiße Dampfwolke vor dem Mund.
 
-Das war vielleicht der einzige wahre Satz in diesem ganzen Dokument... Der einzige Satz den je ein Schreiber geschrieben hatte an diesem Hof unter diesem Reich unter dieser Sonne -
+Juvaini trat an ihn heran. Er reichte ihm die Kupferhülse.
 
-Aber selbst dieser Satz log...
+„Für den alten Mann am Altai“, sagte Juvaini leise. Seine Stimme klang heiser, fremd in seinen eigenen Ohren, als hätte er seit Jahren nicht gesprochen. „Reite, ehe die Sonne den Frost vom Gras leckt.“
 
-Denn es gab keinen Anstand hier... Es gab nur Macht... Und Tod... Und Wiederholung... Und Leere...
+Der Reiter nickte, verbarg die Hülse in seinem Filzgurt, schwang sich ohne ein Wort in den Sattel und sprengte davon. Der Hufschlag verhallte dumpf im gefrorenen Boden.
 
-Er nahm die Feder wieder auf drehte sie zwischen den Fingern betrachtete ihre Spitze -
+Juvaini kehrte in die Jurte zurück.
 
-Dann legte er sie nieder griff nach dem Bündel öffnete es mit langsamen Bewegungen vorsichtig behutsam fast zärtlich -
+Er nahm das schwere Filzbündel mit Fatimas Archiv, wickelte es zusätzlich in eine Lage geölter Leinwand und verstaute es auf dem Grund seiner eisernen Reisetruhe, unter den amtlichen Steuerregistern von Chorasan und den kaiserlichen Dekreten für die Provinzen des Südens. Dort, wo niemand nach Poesie suchen würde. Dort, wo die Welt nur Zahlen und Namen sah.
 
-Das Filz löste sich gab den Inhalt frei:
+Er würde dieses Bündel mit sich führen. Nach Chotan, nach Samarkand, durch die Wüsten Persiens, bis in die großen Bibliotheken des Westens. Er würde es hüten wie sein eigenes Blut.
 
-Ein Stoß Briefe zusammengebunden mit einem Lederriemen getrocknete Tinte auf vergilbtem Papier -
+Zwei Tage später, als Juvaini im großen Audienzsaal des Palastes vor Möngke Khagan kniete und mit melodischer, fester Stimme die offizielle Lüge über den Untergang der Hexe Fatima vortrug – während die Fürsten nickten und der Großkhan mit kühlem Wohlwollen auf das vollendete Ornament der Chronik lauschte –, traf ein Reiter aus den Bergen ein.
 
-Und darunter -
+Er brachte Juvaini keine geschriebene Nachricht. Shigi Qutuqu verschwendete kein Papier mehr an die Welt, die ihn verstoßen hatte.
 
-Ein Federetui aus Holz mit eingelegtem Perlmuttmuster -
+Der Bote drückte Juvaini beim Verlassen der Halle lediglich ein kleines, quadratisches Stück ungebleichten Filzes in die Hand.
 
-Juvaini berührte das Etui mit den Fingerspitzen spürte die Maserung des Holzes spürte die Kälte des Perlmutts spürte etwas anderes tiefer drinnen -
+Mitten auf dem Filz prangte ein einziger, tiefer, roter Abdruck.
 
-Ihre Hand hatte dieses Etui berührt tausendmal zehntausendmal während ihres Lebens während ihres Schreibens während ihres Überlebens am Hofe des Khans während ihrer Liebe zu ihm während ihres Todes -
+Das Urteilssiegel des Oberrichters.
 
-Er öffnete das Etui...
+Kein Wort. Keine Rechtfertigung. Nur die Bestätigung des Paktes.
 
-Eine Feder lag darin: abgenutzt gespalten trocken -
+Zwei Überlebende hatten die Wahrheit in Stücke gerissen, um sie durch den Sturm zu tragen. Das offizielle Gedächtnis des Reiches gehörte den Siegern, festgeschrieben in prunkvollen Lügen, die Shigi im Exil des Altai mit seinen geheimen Registern vergleichen würde. Aber das Herz – die leise Klage einer Sklavin aus Chorasan, die Briefe an eine tote Schwester, das ungeschminkte Antlitz der Macht – lag tief im Holz von Juvainis Truhe, bereit für den langen Ritt nach Westen.
 
-Ihre letzte Feder?
+Juvaini schloss die Hand um das Stück Filz, bis die Kanten des getrockneten Siegellacks sich schmerzhaft in seine Handfläche bohrten.
 
-Oder ihre erste?
+Er spürte den Schmerz kaum. Er trat hinaus auf die Stufen des Palastes der Tausend Freuden, blickte nach Westen, wo die Steppe sich im fernen, dunstigen Horizont verlor, und wusste zum ersten Mal seit jener Nacht am Fluss, dass er überleben würde.
 
-Oder irgendeine dazwischen?
-
-Er wusste es nicht... Er würde es nie wissen... Er musste es auch gar nicht wissen denn was zählte war nicht welches Werkzeug sie benutzt hatte sondern was damit geschrieben worden war:
-
-Ihre Briefe an eine Tote...
-Ihre Aufzeichnungen über Ögedeis Tod...
-Ihre Version dessen was wirklich geschah zwischen 1241 und 1247 zwischen Töregene Güyük Sorkaktani zwischen ihnen allen zwischen ihnen beiden zwischen ihr und ihm -
-
-Er band den Lederriemen los entfaltete den ersten Brief las:
-
-*Liebe Schwester ich weiß dass du tot bist aber ich muss dir trotzdem schreiben denn wer sonst wird mich hören wenn nicht du*
-
-Tränen kamen ihm keine Tränen mehr vorbei waren schon längst weggetrocknet ausgetrocknet leer wie sein Inneres leer wie seine Seele leer wie sein Herz das schon seit Jahren nicht mehr richtig geschlagen hatte seit jenem Tag seit jenem Abschied seit jener Nacht seit jenem Morgen seit jener Ewigkeit -
-
-Er las weiter:
-
-*Heute habe ich einen jungen Schreiber getroffen namens Ata-Malik Juvaini aus Dschuwain bei Nischapur - Er sieht mich an als wäre ich ein Mensch kein Werkzeug kein Ding kein Besitz sondern ein Mensch - Ich weiß dass diese Liebe gefährlich ist aber ich kann sie nicht verhindern so wenig ich meinen Atem verhindern kann oder meinen Herzschlag oder mein Denken*
-
-Er faltete den Brief zusammen steckte ihn zurück ins Bündel band ihn wieder zu -
-
-Seine Hände zitterten jetzt stärker als zuvor so stark dass er kaum noch Kontrolle hatte kaum noch Kraft kaum noch Willen übrig hatte zum Festhalten zum Bewahren zum Weitermachen -
-
-Aber er machte weiter denn was blieb ihm übrig außer weiterzumachen außer weiterzuschreiben außer weiterzutragen außer weiterzuüberleben bis nichts mehr blieb außer Leere außer Wiederholung außer Kontinuität außer dem Mechanismus perfektioniert über Jahrzehnte hinweg bis zur Perfektion eines Uhrwerks aus Stahl Stein Stille Schweigen Tod
-
----
-
-Juvaini nahm das Bündel unter den Arm ging hinaus in die Nacht:
-
-Die Zeltstadt lag still im Mondschein Silberlicht fiel auf Filzwände Zeltplanen Wachtposten Feuerstellen Pferdekoppeln -
-Er ging zur Botenstation fand einen jungen Reiter beim Satteln fragte nach einer Nachricht nach Westen bekam Papier Feder Tinte -
-Schrieb:
-
-*An Shigi Qutuqu Richter des Reiches*
-*Die Erbschaft ist geteilt*
-*Die Chronik bleibt bei Euch*
-*Die Briefe gehen nach Westen*
-
-Kein Name keine Unterschrift kein Datum -
-Nur diese drei Sätze:
-Einer für ihn:
-Einer für sie:
-Einer für beide:
-Einer für niemanden:
-Einer für alle:
-Einer für ewig:
-
-Er gab dem Reiter Silber Anweisung: *Schnellster Weg zur Ordos des alten Richters kein Umweg keine Rast keine Pause bis Übergabe* -
-Der Reiter nickt saß auf ritt davon -
-Verschwand im Mondlicht zwischen Zelten Wachen Feuern Gerüchen Lauten Nächten
-
-Juvaini stand allein im Wind -
-Sah zurück zur Kanzlei deren Lampe noch brannte deren Arbeit wartete deren Akten lagen deren Schreiber saß dessen Platz noch warm war dessen Feder noch feucht war dessen Tinte noch frisch -
-Sah nach Westen wo Shigi Qutuqu wohnte wo Fatimas Chronik lag wo seine Briefe hingehen würden wo ihre Wahrheit überleben würde geteilt geschützt bewahrt durch Trennung durch Distanz durch Schweigen
-
-Sah zum Himmel wo keine Sterne standen wo Wolken zogen wo Mondlicht brach wo Dunkelheit blieb wo nichts wartete außer Morgen außer Weiterarbeit außer Wiederholung außer Kontinuität außer dem Mechanismus perfektioniert über Jahrzehnte hinweg bis zur Perfektion eines Uhrwerks aus Stahl Stein Stille Schweigen Tod Lüge Wahrheit
-
----
-
-Als Juvaini zurückkehrte zur Kanzlei fand er alles unverändert vor:
-Lampe brannte flach...
-Papier lag offen...
-Feder ruhte trocken...
-Bündel fehlte unter seinem Arm begraben verwahrt versteckt vergessen bewahrt getragen weitertragend weiterschreibend weiterschweigend
-
-Er setzte sich...
-Nahm die Feder...
-Tauchte ein...
-Schrieb weiter:
-
-*Im Namen Gottes des Barmherzigen*
-*Dies ist die wahre Darstellung*
-*der Ereignisse um*
-*die Person*
-*bekannt als*
-_die Hexe Fatima_
-
-Die Worte kamen leicht jetzt:
-Glatt...
-Geschmeidig...
-Schön...
-Hässlich...
-Wahr...
-Falsch...
-Leer...
-Voll...
-Tot...
-Lebendig
-
-Er beschrieb ihre Verbrechen:
-Verführungskunst gegen Prinzen
-Giftmischerei gegen Feinde
-Hexerei gegen Köden
-Verräterei gegen Güyük
-Lügen gegen alle
-
-Kein Wort davon stimmte -
-Aber jedes Wort klang wahr:
-Geschliffen wie Edelsteinpolitur
-Formuliert wie Gerichtsurteil
-Geschrieben wie Weltgeschichte
-
-Und mitten drin ließ er eine Lücke:
-Einen Satz abgebrochen
-Eine Unvollständigkeit
-Eine Leerstelle
-
-*Was dann geschah*
-_ _
-_ _
-_ _
-_ _
-
-Darunter setzte er:
-
-*erlaubt der Anstand nicht zu schreiben*
-
----
-
-Der Morgen kam grau fahl kalt neblig nass regnerisch windstill lautlos schwer lastend drückend endlich
-
-Juvaini legte die Feder nieder las was er geschrieben hatte las jede Zeile jedes Wort jeden Buchstaben jede Lüge jede Wahrheit jede Leere jede Fülle jeden Tod jedes Leben jede Liebe jeden Hass jeden Verrat jede Treue jedes Vergessen jedes Erinnern jedes Verschweigen jedes Aussprechen jedes Verschwinden jedes Bleiben
-
-Das Dokument war fertig.
-Die Chronik vollendet.
-Die Lüge perfekt.
-Die Wahrheit bewahrt.
-Der Pakt besiegelt.
-Die Schuld geteilt.
-Das Leben getrennt.
-Der Tod vereint.
-Sie würden nie wiederkommen diese Jahre diese Nächste dieser Abschnitt dieses Kapitel dieses Leben dieser Tod diese Liebe dieser Hass dieser Verrat diese Treue dieses Vergessen dieses Erinnern dieses Verschweigen dieses Aussprechen dieses Verschwinden dieses Bleiben
-
-Juvaini stand auf ging zur Tür öffnete sie trat hinaus ins Grau ins Kalt ins Nass ins Nichts ins Alles ins Ende ins Anfang ins Weiter ins Immer ins Nie ins Jetzt ins Damals ins Später ins Früher ins Heute ins Morgen ins Gestern ins Heute ins Morgen
-
----

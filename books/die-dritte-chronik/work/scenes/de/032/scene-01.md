@@ -1,195 +1,166 @@
 ## Rette mich nicht
 
-Der Morgen kam mit dem Geruch von Rauch und gefrorenem Schlamm.
+Der Geruch von gefrorenem Pferdemist und nassem Filz hing wie ein Leichentuch über den Gassen Karakorums, als Ata-Malik Juvaini die Schwelle seiner Schlafstatt überschritt. Die Kälte schlug ihm ins Gesicht, scharf wie das Salzwasser von Nischapur, und sein Atem stieg in dichten, weißen Schwaden auf, die sofort vom schneidenden Wind des Orchon-Tals zerrissen wurden. In seinen Ohren dröhnte noch das Flüstern des Kanzleigehilfen, der ihn vor kaum zwanzig Herzschlägen aus dem Schlaf gerissen hatte: *Sie haben sie geholt. In der dritten Nachtwache. Sie liegt im Seitentrakt.*
 
-Juvaini stand vor dem Zelt der Palastwachen, die Hände leichenblass in den Ärmeln vergraben, und wartete. Er hatte die ganze Nacht nicht geschlafen. Stattdessen hatte er in seinem Notizbuch Seiten gefüllt mit Argumenten, Zahlen, Namen – eine Liste derer, die er bestechen konnte, derer, die er überzeugen musste, derer, die er fürchten sollte.
+Drei Jahre lang hatte er gelernt, wie das Reich atmete. Er kannte das Klappern der Siegelkapseln, das Rascheln des chinesischen Seidenpapiers, das trockene Schaben der Gänsekiele auf getrockneter Haut – er war ein Rädchen in jener gewaltigen, lautlosen Mühle geworden, die Provinzen zermahlte und Fürsten das Leben abschnitt. Doch als er nun über den hart gefrorenen Lehmboden rannte, stolpernd, die Füße in den weichen Lederstiefeln taub vor Frost, begriff er mit jeder Faser seines jungen Körpers die grausame Nichtigkeit seiner Kunst.
 
-Die Wache trat aus dem Zelt, ein breiter Mann mit vernarbten Wangen und einem Blick, der durch ihn hindurchsah.
+Das Schwert erobert, die Feder bleibt. So hatte sein Vater es ihm eingehämmert, damals in den Ruinen Chorasans, wo zwischen den zertretenen Kacheln der Moscheen der Staub der Gelehrten lag. Eine Lüge. Eine erbärmliche, hochmütige Lüge von Männern, die sich hinter Pulten verkrochen.
 
-„Nein“, sagte die Wache.
+Vor dem Wachzelt des Seitentrakts standen zwei Krieger der Leibwache, breitschultrige Männer aus dem Waldland, gehüllt in struppige Wolfspelze, an deren Rändern der Reif klebte. Ihre Gesichter waren breite, unbewegliche Holzmasken unter den kegelförmigen Eisenhauben. Ihre Lanzen kreuzten sich, noch ehe Juvaini die Stufen erreichen konnte.
 
-Juvaini zog den Beutel aus dem Mantel. Silberstücke, sein Gehalt von drei Monaten, sorgfältig abgezählt. „Ich möchte nur wissen, wo sie ist. Mehr nicht. Nur ihr Zelt. Nur ob es ihr gut geht.“
+„Zurück, Schreiber“, knurrte der Ältere. Der Atem des Mannes stank nach altem Hammelfett und saurem Kumys.
 
-Die Wache sah den Beutel an, dann Juvaini. „Du verstehst nicht“, sagte er leise. „Es gibt keine Bestechung für diese Tür. Der Khan hat persönlich angeordnet: Keine Besucher. Keine Nachrichten. Nichts.“ Er trat näher, seine Stimme fiel zu einem Flüstern. „Sie ist nicht in einem Zelt, Schreiber. Sie ist in einer Grube. Einer trockenen Zisterne am Nordrand des Lagers. Da unten ist es kalt genug, dass man in einer Nacht erfriert, wenn man sich nicht bewegt.“
+Juvainis Hände zitterten, als er in die Falten seines Wollkaftans griff. Er zog keinen Dolch hervor – er besaß keinen, seine einzige Waffe war das Schilfrohr gewesen –, sondern den schweren Lederbeutel, den er seit seiner Rückkehr aus dem Westen gehütet hatte. Silberne Dirhams, mühsam gespart aus den Schreibgebühren der persischen Gesandtschaften, schwer und kühl.
 
-Juvainis Magen zog sich zusammen. „Wer hat das gesagt?“
+„Nur ein Wort“, keuchte Juvaini, und seine Stimme klang jämmerlich dünn in der Weite der Steppe. „Nur ein Becher Wasser für die Khatun aus Maschhad. Lasst mich zu ihr. Ich bin Ata-Malik, Sohn des Baha al-Din, Schreiber des Großen Diwans. Hier. Nehmt es. Es ist gutes Silber, ungekürzt.“
 
-„Jeder weiß es.“ Die Wache trat zurück. „Geh nach Hause, Schreiber. Es gibt hier nichts zu retten.“
+Er drängte den Beutel vor, seine Finger berührten das schmutzige Leder der Handschuhe des Wachmanns.
 
-Er drehte sich um und verschwand im Zelt.
+Der Krieger blickte nicht einmal auf das Geld. Er stieß Juvaini mit dem hölzernen Schaft seiner Lanze vor die Brust. Der Stoß war nicht wütend, er war beiläufig, geführt mit jener gleichgültigen Wucht, mit der ein Hirte ein lästiges Schaf vom Pferch weichen lässt. Juvaini taumelte rückwärts, der Frostboden riss ihm die Haut an den Knöcheln auf, als er stürzte. Die Silbermünzen kullerten klirrend über das Eis, stumpfe kleine Scheiben, die im Dämmerlicht wie tote Fischaugen glänzten.
 
-Juvaini stand noch einen langen Moment im Schlamm, den Beutel in der Hand, das Gewicht des Silbers plötzlich absurd schwer.
+„Niemand geht hinein“, sagte der Wachmann, ohne die Stimme zu heben. „Der Befehl trägt den roten Stempel des Khagans. Wenn du noch einen Atemzug hier stehst, Junge, binde ich dich an den Pfahl.“
 
----
+Das war gefährlich.
 
-Das Gnadengesuch schrieb er in einer Stunde.
+Juvaini raffte die Münzen nicht auf. Er kroch auf allen vieren zurück, schmeckte das Eisen seines eigenen Blutes auf den Lippen, wo die Kälte die Haut aufgesprengt hatte, und rannte zur Kanzlei.
 
-Er verwendete die höfischste Form des Persischen – Firdausis Rhythmen schimmerten zwischen den Zeilen wie Goldfäden in einem einfachen Tuch – und pries Güyüks Gerechtigkeit als Fortsetzung Dschingis Khans Weisheit. Fatima wurde nicht namentlich erwähnt; stattdessen sprach er von „einer Dienerin des verstorbenen Haushalts“, deren Dienste „durch Missverständnisse“ vergessen worden seien.
+Dort brannte bereits das Feuer. Der Rauch von getrocknetem Mist und Fichtenholz biss in den Augen, vermengte sich mit dem schweren, süßlichen Geruch von schmelzendem Siegellack. Dutzende Schreiber saßen mit untergeschlagenen Beinen auf den Filzmatten, ihre Rücken gebeugt, ihre Gesichter fahl im flackernden Gelb der Rindertalgkerzen. Keiner sah auf, als er hereinstürzte. Sie kannten diesen Schritt. Sie wussten alle, welches Wild heute zur Strecke gebracht wurde.
 
-Er trug das Gesuch selbst zur Kanzlei des Hofes.
+Mit fiebrigen Fingern riss Juvaini einen Bogen feinsten Kanzleipapiers an sich. Seine Feder tunkte so hastig in das schwarze Rußfass, dass ein Tropfen auf das weiße Holz des Tisches spritzte. Er schrieb ein Gnadengesuch. Er rief die alten Gesetze an, die Yassa des Gründers, die festlegte, dass man das Blut von Frauen der Kanzlei nicht ohne Befragung des Ältestenrates vergießen durfte; er flocht Verse von Saadi und Firdausi ein, kunstvolle Girlanden aus Reue, Schmeichelei und rechtlicher Spitzfindigkeit, Sätze, die so wohlklingend waren, dass sie selbst Steine hätten erweichen müssen.
 
-Der Sekretär am Eingang war ein junger Mann aus Buchara mit müden Augen und einer Narbe an der Stirn – einer von denen, die Juvaini seit Monaten kannte und die ihn jetzt ansahen wie einen Fremden.
+*An den Erhabenen Schirm der Welt, den Erben des Himmels, Khagan Güyük…*
 
-„Das kommt in den Stapel“, sagte der Sekretär und nahm das Blatt entgegen.
+Als er den Text beendet hatte, noch ehe der Sand die Tinte getrocknet hatte, trug er das Blatt zum Tisch der Registratur. Der ältere uigurische Archivar, ein Mann mit Brille und gelben, nikotingefleckten Zähnen, nahm den Bogen mit zwei Fingern entgegen. Er überflog die kunstvollen persischen Schriftzüge, die wie kunstvoll geschwungene Zweige im Frühling über das Blatt tanzten.
 
-„Wann wird es gelesen?“
+Er sah Juvaini nicht an. Mit einer langsamen, fast zärtlichen Bewegung führte der Uigure das Blatt an das Becken mit den glühenden Kohlen, das neben seinem Knie stand.
 
-„Wenn es gelesen wird.“ Der Sekretär legte es auf einen Stapel anderer Gesuche – Dutzende Blätter aus allen Provinzen des Reiches – und wandte sich ab.
+„Nein!“, schrie Juvaini heiser.
 
-Drei Tage später war das Gesuch nicht mehr auffindbar.
+Das Papier fing sofort Feuer. Die Ecken rollten sich schwarz ein, der Name des Khagans glühte für einen Herzschlag purpurrot auf, dann zerfiel das Ersuchen zu feiner, grauer Asche, die der Zugwind durch die Ritzen der Jurte davontrug.
 
-Ein Schreiber flüsterte Juvaini zu: „Es wurde verbrannt noch am selben Abend auf Befehl von oben.“ Er nannte keinen Namen.
+„Es gibt heute keine Gnadengesuche für Hexen, Ata-Malik“, sagte der Archivar leise, ohne jede Feindseligkeit. „Schreib Listen über Gerstenrationen. Wenn du leben willst, schreib über Heu.“
 
----
+Juvainis Brustkorb krampfte sich zusammen. Die Welt schien keinen Halt mehr zu bieten, die Zeltwände wankten wie die Segel eines sinkenden Schiffes auf dem Kaspischen Meer. Er drehte sich um und stürmte hinaus, dem einzigen Mann entgegen, der in diesem Mahlstrom je ein Gerüst aus Vernunft besessen hatte.
 
-Arghun Aqa empfing ihn in seinem Arbeitszelt am Rand des Lagerzentrums.
+Arghun Aqa saß in seiner Dienstjurte nahe den Pferdeställen der westlichen Kuriere. Der mongolische Statthalter trug einen einfachen, ungefärbten Schafspelz über seinem Seidengewand; auf dem niedrigen Tisch vor ihm standen eine Schale mit gerösteter Hirse, ein halbleerer Zinnbecher mit heißem Tee und drei versiegelte Lederrollen. Der Raum roch nach Kardamom, feuchtem Leder und der nüchternen Kühle eines Mannes, der sein ganzes Dasein auf Bilanzen gebaut hatte.
 
-Der Gouverneur saß hinter einem Tisch voller Karten und Listen; eine Lampe brannte neben ihm und warf flackernde Schatten auf sein Gesicht. Er sah älter aus als noch vor Wochen – Falten um die Augen, Grau im Bart – aber seine Haltung war unverändert: gerade Rücken, klare Augen, eine Gelassenheit wie Stein unter Wind.
+Arghun hob den Blick nicht, als Juvaini vor ihm auf die Knie stürzte. Das Geräusch, mit dem die Knie des jungen Schreibers auf das Holz schlugen, war hart.
 
-„Setz dich“, sagte Arghun Aqa ohne Einleitung.
+„Herr“, stieß Juvaini hervor, und seine Stimme brach. „Arghun Aqa. Ihr habt das Ohr des Khans. Ihr habt die Steuern von Chorasan verdreifacht, er hört auf Euren Rat. Sie werden sie töten. Sie haben sie im Seitentrakt angekettet wie ein tollwütiges Tier. Ihr wisst, dass sie keine Hexe ist! Ihr wisst, wer die Kanzlei fünf Jahre lang vor dem Verfall gerettet hat! Ich flehe Euch an… nehmt mein Erbe, nehmt mein Gehalt für zehn Jahre, aber sprecht ein Wort für sie.“
 
-Juvaini setzte sich auf den Teppich vor dem Tisch und legte seine Hände offen auf die Knie – eine Geste der Demut und der Dringlichkeit zugleich.
+Arghun Aqa strich mit der Daumenkuppe eine Krume Hirse vom Rand seiner Schale. Seine Bewegungen waren von jener quälenden, gemessenen Ruhe, die Männern eigen ist, die schon zu viele Städte haben brennen sehen, um noch an Wunder zu glauben.
 
-Arghun Aqa sah ihn lange an. Dann lehnte er sich zurück; das Holz knarrte unter seinem Gewicht; seine Stimme kam ruhig: „Du willst über Fatima sprechen.“
+„Atme, Junge“, sagte er. Seine Stimme war tief und klang wie Mahlsteine, die trockenes Korn fassen. „Steh auf. Ein Schreiber des Reiches wirft sich nicht in den Dreck wie ein betrunkener Derwisch.“
 
-„Ja“, sagte Juvaini flach; fast erstickt an der eigenen Stimme: „Ich habe alles versucht: Geld bei den Wachen vergeudet; ein Gnadengesuch geschrieben – verbrannt noch am selben Abend; ich wollte dich bitten…“
+„Sie stirbt!“, schrie Juvaini, und zum ersten Mal scherte er sich nicht um Etikette oder Ehrfurcht. „Begreift Ihr denn nicht? Sie nähen bereits den Filz!“
 
-„Hör auf.“ Arghun Aqas Hand hob sich leicht: eine Geste wie das Abwehren eines Schlags: „Du kommst zu mir wegen Fatima; du willst meine Hilfe bei ihrer Rettung … Du bist mein bester Schreiber Juvaini; aber du musst verstehen: Was dort unten passiert … dafür gibt es keine Lösung von außen …“
+Arghun Aqa sah ihn nun an. In den dunklen, schmalen Augen des älteren Mannes lag kein Zorn, nicht einmal Kälte. Es war etwas Schlimmeres: vollkommenes, unbewegtes Verstehen.
 
-Juvainis Stimme kratzte im Hals; jedes Wort war eine Anstrengung gegen die kalte Lungenluft des Zelts: „Aber sie hat niemandem etwas getan! Sie war treu! Sie hat nie…“
+„Glaubst du wirklich, dies sei ein Handel?“, fragte Arghun leise. Er schob die Schale beiseite und stützte die Unterarme auf den Tisch. „Glaubst du, Güyük sitzt dort drüben auf dem Thron und wartet darauf, dass jemand ihm einen Beutel Silber oder ein schönes persisches Gedicht bringt, um die Waagschale auszugleichen? Der Khan will keinen Preis für sie. Der Khan will einen Namen von ihr. Gegen so etwas gibt es keine Bestechung.“
 
-„Sie weiß etwas“ unterbrach Arghun Aqa ihn hart: Seine Stimme schnitt durch Juvenis Satz wie ein Messer durch Seide … Der Gouverneur beugte sich vor; seine Augen waren jetzt nah; grau im Lampenlicht … Etwas lag zwischen ihnen jetzt auf dem Tisch wie ein Ding aus Metall … Arghun Aqas Ton wurde sachlich fast schonend: „Fatima war fünf Jahre lang Töregenes engste Vertraute … Sie kennt jede Entscheidung jedes Geheimnis jeden Brief … Güyük will nicht ihren Tod – Güyük will ihr Wissen … Er will wissen was wirklich geschah in jener Nacht 1241 als sein Vater starb … Er will wissen wer wusste was wer half wer schwieg … Und sobald sie spricht wird sie sterben weil sie dann nutzlos ist … Und sobald sie schweigt wird sie sterben weil sie dann gefährlich bleibt … Es gibt keinen Weg da raus …“
+„Einen Namen?“, hauchte Juvaini. Seine Lippen waren trocken wie Pergament. „Welchen Namen?“
 
-Juvaini schloss für einen Moment die Augen …
+„Den Namen dessen, der Ögedei den Becher gereicht hat. Sie saß daneben. Sie weiß, wer den Schankknecht geschickt hat, sie weiß, welches Haus das Siegel trug. Güyük braucht diesen Namen, um das Haus Tolui auszurotten und Batu an der Wolga das Genick zu brechen. Er wollte diesen Namen von ihr. Und weißt du, was sie getan hat?“
 
-Als er sie wieder öffnete war sein Blick leer aber fest: „Und wenn sie nie spricht? Wenn sie schweigt bis zum Ende?“
+Juvaini schwieg. Sein Herz schlug gegen seine Rippen wie ein gefangener Vogel gegen das Weidengeflecht eines Korbes.
 
-Arghun Aqa lächelte nicht …
+„Sie hat ihm ein Märchen von Knochen und Flüchen aufgeschrieben“, fuhr Arghun fort, und seine Stimme sank zu einem rauen Flüstern herab. „Sie hat gestanden, eine Hexe zu sein. Sie hat sich selbst zum Schafott geschickt, um die Fürsten zu verschonen. Sie hat Güyüks Krieg erwürgt, noch ehe er beginnen konnte.“
 
-Sein Lächeln war nur ein Zucken an den Mundwinkeln ohne Wärme ohne Hoffnung ohne Trost …
+„Und wenn sie ihn nie nennt?“, fragte Juvaini, obwohl er die Antwort bereits in den Augen seines Patrons las. „Wenn sie standhaft bleibt?“
 
-Seine Antwort fiel wie Stein in stilles Wasser: ein Satz so schwer dass er Wellen schlug bis tief unter die Haut …
+„Dann ist sie toter als tot, und du lebst. Das ist das ganze Angebot.“
 
-„Dann stirbt sie toter als tot Juvaini … Und du lebst weiter … Das ist das ganze Angebot dieser Welt … Mehr gibt es nicht …“
+Arghun griff nach einer der Lederrollen, drehte sie in den Händen und blickte ins Leere. „Das Reich ist keine Laute, Ata-Malik. Du kannst die Saiten nicht stimmen, wie es dir gefällt. Es ist ein Mühlstein. Wenn du die Hand dazwischensteckst, mahlt es deine Hand. Wenn du dein Herz hineinwirfst, bleibt nur Mehl übrig. Geh auf deine Knie und danke dem Himmel, dass dein Fleisch noch ganz ist.“
 
----
+„Ich kann nicht“, flüsterte Juvaini.
 
-Die Audienz-Bitte bei Güyük wagte er am nächsten Morgen …
+„Du wirst.“
 
-Ein Fehler dachte er während er vor dem großen Khan-Zelt stand zwischen zwei Leibwächtern deren Gesichter so ausdruckslos waren wie Steinmasken …
+Juvaini erhob sich taumelnd. Er hörte Arghuns Rufe nicht mehr. Er rannte blindlings durch das Lager, vorbei an den Reihen der Jurten, wo Frauen Rinderdärme wuschen und Krieger Pfeilschäfte über kleinen Feuern gerade bogen, hinauf zum Großen Weißen Zelt des Khagans. Er wusste, dass es Wahnsinn war. Ein Schreiber der vierten Rangklasse bat nicht um eine Audienz bei jenem Mann, dessen Heere von Polen bis zum Gelben Meer das Land entvölkert hatten.
 
-Ein Fehler aber einer den ich machen muss …
+Die Schildträger vor Güyüks Thronjurte ließen ihn nicht einmal in die Nähe des Eingangs. Zehn Schritt vor der mit Goldfäden durchwirkten Filzwand wurde er von vier Hellebarden gestoppt, deren Spitzen sich in den Stoff seines Mantels bohrten.
 
-Er nannte seinen Namen Titel Herkunft Zweck seines Kommens …
+„Ich erbitte das Wort des Herrschers!“, rief er mit versagender Stimme auf Mongolisch, dessen Laute ihm wie Kieselsteine die Kehle zerschnitten. „Ata-Malik Juvaini, Diener Seiner Gnaden!“
 
-Die Wachen traten kurz ins Zelt …
+Ein Kämmerer trat heraus, ein hagerer Kereit mit öligen Haaren und den schmalen Lippen eines Zensors. Er musterte den zitternden Perser mit jenem Blick, den man einer Schmeißfliege schenkt, die auf dem Festgewand gelandet ist. Er ging hinein, verschwand für endlose Herzschläge im Halbdunkel des Zeltes, aus dem das schwere Dröhnen von Bronzegongs drang.
 
-Draußen wartete Juvaini im kalten Wind der über das Lager fegte Staubwirbel aufwirbelte zwischen den Zelten zwischen den Menschen zwischen den Jahren …
+Als er zurückkehrte, trat er nah an Juvaini heran. Sein Atem roch nach Nelken.
 
-Nach langer Zeit kam ein Eunuch heraus …
+„Der Herr der Erde lässt dir etwas ausrichten“, flüsterte der Kämmerer, und ein feines, grausames Lächeln zuckte um seine Mundwinkel. „Er erinnert sich an dich. Er sagt: Der Schreiber, der den Papstbrief so schön persisch gemacht hat, solle sich nicht lächerlich machen. Er schätze deine Familie. Dein Vater habe Nischapur treu gedient, und dein Großvater habe gewusst, wann man den Kopf senkt. Tu es ihnen gleich. Eine zweite Bitte wird er nicht mit Worten beantworten.“
 
-Ein schmaler Mann mit hohen Wangenknochen und Augen so glatt wie polierter Marmor …
+Die Drohung war verpackt wie ein Geschenk aus Brokat. Kalt. Unwiderruflich.
 
-Er blieb vor Juvaini stehen maß ihn mit einem Blick der alles wusste …
+Juvaini taumelte zurück. Seine Beine trugen ihn kaum noch. Der Himmel über Karakorum färbte sich bleigrau; ein dumpfes, erstickendes Licht legte sich über die Jurtenstadt. Es schneite nicht, aber der Frost zog die Haut über den Schläfen zusammen wie nasses Leder, das in der Sonne trocknet.
 
-Dann öffnete er den Mund:
+Er kehrte zum Viehgraben zurück, dorthin, wo die Latrinen und die Küchenzelte der niederen Mägde lagen. Dort fand er sie schließlich: Maral, eine junge Kiptschakin mit pockennarbigem Gesicht, die einst Fatimas Filzmatten gewendet und ihr das Waschwasser gebracht hatte. Er packte das Mädchen am Arm, zerrte sie hinter einen Stapel getrockneten Mists und drückte ihr seine letzten beiden goldenen Ringe in die rissige Hand – den Schmuck seiner Mutter, den er seit seiner Flucht aus Chorasan am Halsband getragen hatte.
 
-„Der Khan empfängt dich nicht … Aber er lässt dir ausrichten:‘“ Die Stimme des Eunuchen wurde tiefer als zitiere er genau : ‚Der Schreiber der den Papstbrief so schön persisch gemacht hat möge sich nicht lächerlich machen mit Bitten um Frauen aus verbrannten Häusern…‘ Und dann:“ Der Eunuch machte eine Pause bevor er hinzufügte : ‚…sonst könnte seine Feder ihm eines Tages abhandenkommen samt seiner Hand…‘“
+„Bring mir ein Wort von ihr“, bettelte er, und die Tränen, die er den ganzen Tag zurückgehalten hatte, liefen heiß über seine gefrorenen Wangen. „Nur ein Wort, Maral. Bei allem, was dir heilig ist. Nur ein Wort, dass sie weiß, dass ich hier bin.“
 
-Juvaini stand still …
+Die Magd sah auf das Gold, dann auf sein entstelltes, tränenüberströmtes Gesicht. Furcht flackerte in ihren Augen, doch die Gier und ein Rest von Mitleid siegten. „Warte an der Mauer des Pferche“, zischelte sie. „Wenn die Wachen die Suppe holen.“
 
-Kein Muskel bewegte sich in seinem Gesicht während sein Inneres zu Eis gefror …
+Drei Stunden stand er im Wind. Die Kälte kroch von den Stiefelsohlen durch die Knochen aufwärts, bis sein ganzes Gerippe schmerzte, als sei es aus Glas gebrannt. Seine Zähne schlugen unkontrolliert aufeinander.
 
-Er verbeugte sich formvollendet murmelte Dankbarkeit für die Nachricht drehte sich um ging weg Schritt für Schritt durch den kalten Morgen durch das Lager durch die Jahre zurück zu seiner Kanzlei wo die leeren Blätter auf ihn warteten wo die Arbeit begann wo alles weiterging als wäre nichts geschehen…
+Als das Mädchen wiederkam, schlich sie wie ein Schatten an den Zaunpfählen entlang. Sie sah sich nicht um. Sie trat dicht an ihn heran, presste ihm einen kleinen, schmutzigen Fetzen groben Leinenstoffs in die Hand, der nach Schweiß, Ruß und getrocknetem Essig roch, und verschwand, als hätte die Steppe sie verschlungen.
 
-Aber seine Hand zitterte als er später Feder eintauchte…
+Juvaini stolperte in den Schutz eines umgestürzten Futterwagens. Mit klammen, steifen Fingern entfaltete er das Tuch.
 
----
+Es gab keine Tinte im Verlies. Die Schriftzeichen waren mit einem verkohlten Holzsplitter auf den rauen Stoff gekratzt worden, ungelenk, zittrig, aber mit jener unnachahmlichen, klaren Führung der Buchstaben, die er aus tausend Kanzleiakten kannte. Die Schrift jener Frau, die ihn gelehrt hatte, wie man das Entsetzen in Höflichkeit kleidet.
 
-Am Abend kam eine Dienerin zu ihm ins Arbeitszelt…
+*Hör auf.*
 
-Eine stille Frau mit gesenktem Blick grauen Schläfen und Händen schwielig vom Tragen von Wasser…
+Das Wort stand allein auf der ersten Linie, wie ein Stein, der in tiefes Wasser geworfen wird. Darunter, enger zusammengedrängt, als sei der Splitter zerbrochen:
 
-Sie stellte einen Tonkrug ab…
+*Wer mich retten will, muss mit mir sterben. Wer mich liebt, muss mich bewahren – nicht mein Leben, meine Wahrheit.*
 
-Wasser für den Schreiber…
+Juvaini starrte auf die Zeilen. Seine Augen brannten.
 
-Als sie ging ließ sie etwas fallen…
+*Bewahren.*
 
-Ein gefaltetes Stück Leder fiel zu Boden neben seinen Füßen…
+Er verstand es nicht. Sein von Angst und Verzweiflung betäubter Verstand sah darin nur die letzte, eisige Zurückweisung. Sie stieß ihn fort, so wie sie ihn immer fortgestoßen hatte, wenn die Welt zu eng wurde; sie wählte den Tod, sie ging in die Nacht hinab und ließ ihn in diesem schmutzigen, erbarmungslosen Schlamm zurück. Sie verlangte von ihm, zuzusehen. Sie verlangte von ihm, ihren Untergang wie ein braver Beamter zu dulden.
 
-Er hob es auf während sein Herz gegen seine Rippen hämmerte…
+„Nein“, flüsterte er und presste den Stoff an seine Lippen. Er schmeckte den Ruß, schmeckte die Asche ihrer Zelle. „Nein, Fatima…“
 
-Er entfaltete es langsam vorsichtig als könne es zerbrechen beim bloßen Ansehen…
+Er barg das Tuch an seiner Brust, direkt über dem Herzen, wo es brannte wie ein Stück glühende Kohle.
 
-Darauf stand:
+Als er am späten Nachmittag seine Jurte erreichte, fand er seine Habe bereits gepackt. Zwei Kuriere von Arghun Aqas Garde standen vor der Tür, die Pferde bereits gesattelt, die Packtaschen mit Rohlederriemen festgezurrt. Ihre Rösser stampften ungeduldig im gefrorenen Staub, weißer Dampf schoss aus ihren Nüstern.
 
-*Hör auf…*
+Arghun Aqa selbst trat aus dem Zelt. In der Hand hielt er ein kaiserliches Paiza, die silberne Schrifttafel mit dem Falkenkopf, die dem Träger unbeschränkte Vollmacht auf allen Poststationen des Westens verlieh.
 
-*Wer mich retten will muss mit mir sterben…*
+„Du brichst auf, Ata-Malik“, sagte der Statthalter, und seine Stimme schnitt durch den pfeifenden Wind wie eine Klinge. „Deine Ernennung zum Ersten Kanzleiführer des West-Stabes ist gesiegelt. Wir reisen nach Chorasan. Sofort.“
 
-*Wer mich liebt muss mich bewahren—nicht mein Leben meine Wahrheit…*
+Juvaini sah ihn an. Er sah die Pferde, sah das kaiserliche Siegel, sah die Ehre, die man ihm auf die Schultern lud wie ein seidenes Totenhemd.
 
-Es gab keine Unterschrift…
+Karriere als Entwaffnung. Sie töteten ihn nicht. Sie machten ihn größer, sie banden ihn fester in das Geschirr des Reiches ein, sie zogen ihn meilenweit fort von der Grube, in der sie ihr das Blut abschnüren würden, damit er nicht einmal den Schrei hören konnte.
 
-Keine Unterschrift nötig…
+„Ich habe noch Akten zu ordnen…“, versuchte er ein letztes Mal einzuwenden, doch seine Stimme war nur noch ein heiseres Krächzen.
 
-Er las einmal zweimal dreimal bis ihm Tränen kamen ohne dass er weinte bis seine Sicht verschwamm bis draußen jemand rief dass der West-Stab morgen früh abreise nach Persien—Befehl des Khans—sofortiger Aufbruch—
+„Die Akten sind geordnet“, sagte Arghun Aqa unerbittlich. „Steig auf dein Pferd. Wenn du den Sonnenuntergang noch in Karakorum erlebst, verfällt dein Pass. Und Güyük vergisst nie ein zweites Mal.“
 
-Und während ringsum hastiges Packen begann während Rufe durchs Lager hallten während Pferde gesattelt wurden Karren beladen Menschen verschwanden blieb Juvaini sitzen hielt das Lederstück in beiden Händen las es noch einmal las es immer wieder…
+Am Lagerrand hielten sie für einen kurzen Moment, während die Kuriere die Sattelgurte nachzogen.
 
-Sie hatte recht dachte er erschöpft gebrochen leer…
+Hinter ihnen lag die Zeltstadt, ein Meer aus grauem Filz, über dem die Rauchsäulen wie schwarze Speere in den bleiernen Himmel ragten. Irgendwo dort drinnen, im Schatten der Kanzleizelte, schabte eine Nadel durch schweren Steppenfilz, Stich für Stich, um eine Frau lebendig zu begraben, deren Verbrechen darin bestand, die Wahrheit gekannt zu haben.
 
-Wer mich retten will muss mit mir sterben…
+Juvaini saß im Sattel. Seine Glieder waren taub. Er griff mit der linken Hand in seine Tasche und zog das kleine, in Ziegenleder gebundene Notizbuch hervor, das ihn seit Nischapur begleitet hatte. Seine Zuflucht. Der Ort, an dem er versucht hatte, die Schrecken der Welt in kunstvolle Doppelverse zu bannen, wo das Blut zu Rubinen und die Toten zu schlafenden Zypressen wurden.
 
-Ich kann dich nicht retten Fatima dachte ich kann nur deine Wahrheit bewahren deine Briefe deine Chronik dein Leben nach dem Tod dein Wort nach meinem Wort nach unserer gemeinsamen Sprache nach alldem was wir waren bevor wir wurden was wir jetzt sind—getrennt durch Macht getrennt durch Tod getrennt durch Distanz—
+Er schlug die letzte Seite auf. Er nahm das Schilfrohr, das er in der Kanzlei noch eingesteckt hatte, tunkte es in das kleine Reisefass an seinem Gürtel.
 
-Ich werde deine Wahrheit bewahren dachte ich werde deine Geschichte weitergeben ich werde dich weiterschreiben—
+Seine Hand zitterte so heftig, dass die Spitze über das Papier kratzte. Er wollte ein Klagelied schreiben. Ein Denkmal aus Worten, ein Lied über die Gärten von Maschhad, über das Lachen, das er nie gehört hatte, über die Kälte, die ein ganzes Leben erstickte.
 
-Aber ich werde nie wieder ein Gedicht vollenden können weil jedes Gedicht an dich gerichtet wäre weil jedes Gedicht unvollendet bleiben müsste weil jedes Gedicht dich sucht dich ruft dich vermisst—
+Er schrieb den ersten Vers.
 
-Draußen rief jemand seinen Namen:
+*Es weint der Himmel über Chorasans verlorenem Stern…*
 
-Das Packen beginnt—die Karawane bricht morgen früh auf—der West-Stab wartet—
+Er hielt inne.
 
-Er stand langsam schwer wie unter einer Last unsichtbarer Steine auf jedem Schulterblatt Dreifachgewicht von Jahren Jahren Jahren seit Maschhad seit Chorasan seit allem was gewesen war was nie mehr sein würde…
+Die Tinte gefror fast augenblicklich auf dem Papier, wurde grau und blind. Er sah auf die Worte hinab. Sie waren hohl. Sie waren süßlich, verlogen, feige. Ein Klagelied war nur das Parfüm, das man über eine Verwesung spritzte, um den Gestank nicht riechen zu müssen.
 
-Sein Notizbuch lag noch offen auf dem Tisch…
+*Wer mich liebt, muss mich bewahren – nicht mein Leben, meine Wahrheit.*
 
-Die letzte Seite trug drei Zeilen eines Gedichts:
+Das Schilfrohr brach in seinen Fingern entzwei. Ein dunkler Klecks fiel auf das Blatt, direkt hinter das Wort *Stern*, und sickerte wie eine offene Wunde in die Fasern.
 
-*Die Feder spricht*
-*Das Wort bleibt*
-*Die Liebe*
+Juvaini vollendete den Vers nicht. Er hob die Hand nicht mehr, um die Zeile zu schließen. Zum ersten Mal in seinem Leben ließ er eine Seite unfertig stehen, einen verstümmelten Gedanken, einen zerrissenen Atemzug im Eis.
 
-Darunter nichts mehr—ein weißes Blatt voller Möglichkeiten unmöglich geworden unmöglich je wieder gefüllt zu werden—
+Er schlug das Buch mit einem dumpfen Laut zu, schob es tief in sein Gewand, direkt neben den Stofffetzen aus ihrer Zelle, und stieß den Fersen die eisernen Bügel in die Flanken seines Hengstes.
 
-Das erste Mal dachte Juvaini dass sein Buch unvollendet bleiben würde genau wie dieses Gedicht genau wie dieses Leben genau wie diese Liebe—
+Als das Pferd vorwärtsgaloppierte und die Kälte der Steppe ihm die letzten Tränen aus den Augen brannte, blickte er nicht mehr zurück. Der Weg nach Westen war lang, und er führte durch ein Land, das nur den Gehorsamen das Atmen erlaubte.
 
-Das erste Mal verstand er dass Überlieferung keine Rettung ist sondern nur Verschiebung—
-
-Er klappte das Notizbuch zu steckte es in seinen Mantel trat hinaus in die kalte Nacht hinaus ins Lager hinaus in das Jahr 1247 hinaus in all das was kommen würde ohne sie—
-
-Und während hinter ihm Karakorum langsam verschwand im Dunst unter dem grauen Himmel während vor ihm Persien lag Arghun Aqa an seiner Seite Pferdegetrappel Staub ferne Berge ferne Jahre ferne Zukunft—
-
-Während alledem trug Juvaini ein Lederstück überm Herzen
-
-und drei unvollendete Zeilen
-
-und einen Auftrag
-
-den er erst viel später verstehen würde
-
-viel später
-
-als alles längst entschieden war
-
-und nichts mehr blieb
-
-außer Papier außer Worten außer ihr außer ihm außer uns allen
-
-die wir weiterschreiben müssen
-
-weil wir nicht anders können
-
----

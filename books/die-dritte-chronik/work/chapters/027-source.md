@@ -5,134 +5,95 @@
 
 ---
 
-Der Tod kam in der Nacht, unspektakulär, wie die meisten wichtigen Dinge in diesem Reich.
+Der Wind über dem Orchon-Tal trug den Duft von Wermut und erstem Schnee, als wollte die Steppe selbst den Atem anhalten.
 
-Fatima saß auf dem Filz am Fußende der Liege und beobachtete, wie das Atmen aufhörte. Kein letzter Seufzer, kein Zucken, kein Kampf. Töregene Khatun, Regentin des Weltreichs, Herrscherin über die Ordos, die Frau, die den Tod eines Khans verheimlicht und einen anderen auf den Thron gesetzt hatte – sie hörte einfach auf zu atmen, mitten in einem Wort, das niemand mehr hören würde.
+In der Jurte roch es nach ranzigem Fett, kaltem Talg und jenem süßlichen Dunst, den ein Leib verströmt, wenn das Herz aufhört, das Blut durch die Adern zu treiben. Es war kein großer Laut gewesen. Kein Aufschrei, kein Beben der Erde, kein Donnergrollen über den Jurtenkämmen von Karakorum. Sie war einfach erloschen, unspektakulär und leise, mitten in der dritten Nachtwache, während draußen ein Pferd gegen die Koppelstangen trat und die Wachfeuer im eisigen Zugwind zischten. Ein kurzes, rasselndes Einziehen von Luft, das Zögern eines vertrockneten Blattes im Frost, dann nichts mehr. 
 
-Die Lampe flackerte. Der Wind zerrte an den Filzwänden des Zeltes. Draußen schlief der Hof, der bereits wusste, dass dies kommen würde, und der sich bereits neu sortierte, bevor der letzte Atemzug verklungen war.
+Fatima hatte ihre Hand gehalten. Die Finger, die fünf Jahre lang das Schicksal von drei Kontinenten gelenkt hatten, waren dünn gewesen wie abgebrochene Zweige, rauer gelber Hornstoff über knöchernen Gelenken. Als das Leben wich, war kein Zorn zurückgeblieben. Nur die Kälte, die unaufhaltsam aus dem gefrorenen Boden kroch und sich des Fleisches bemächtigte.
 
-Fatima saß still. Sie wusste, dass sie die Regeln einhalten musste: die Totenwache, die mindestens bis zum Morgengrauen dauerte, die Anwesenheit einer Vertrauten, die den Übergang bezeugte. Keine Trauer, keine Tränen – das war nicht vorgesehen für eine Dienerin. Nur Anwesenheit. Nur Zeugenschaft.
+Sie hatte gewartet, bis die Regeln es verlangten. Sie hatte die Totenwache gehalten, ganz allein, während die Butterlampe am Fußende flackerte und der Rauch des Wacholderzweigs träge gegen das Dachrad stieg. Niemand sonst war gekommen. Kein Schamane, kein Prinz des Blutes, kein Kanzleischreiber. Der Hof hatte sich schon vor Tagen neu geordnet; die Zelte der Macht waren geräuschlos weitergezogen, hinüber zu den Hallen des Sohnes, wo der Branntwein floss und die neuen Befehle besiegelt wurden.
 
-Sie sah auf die Tote hinab. Töregene war klein gewesen im Leben, aber im Tod wirkte sie noch kleiner, zusammengefallen, als hätte die Macht ihren Körper aufgebläht und sei nun entwichen wie Luft aus einem zerstochenen Schlauch. Die Frau, die die Welt regiert hatte, passte jetzt in eine Kiste.
+Erst als das erste fahle Morgengrauen den Filz der Türöffnung erhellte, war Fatima aufgestanden, hatte die Tote mit dem weißen Leinentuch bedeckt und war hinüber in ihr eigenes Zelt gegangen. 
 
-Stell dir das vor, Schwester.
+Nun saß sie auf ihrer dünnen Wollmatte. Vor ihr lag der Bogen Seidenpapier, den sie vor Jahren aus den Kanzleibeständen beiseitegelegt hatte – kühl und weich wie Wasser zwischen den tauben Fingern. Das alte Federetui ihres Vaters aus getriebenem Messing lag geöffnet neben dem Tintenfass. Die Tinte roch nach Ruß und Nelkenöl, ein Hauch aus fernen Gärten, der hier, am Rande der Welt, beinahe wie eine Verhöhnung wirkte.
 
-Fatima bewegte die Lippen lautlos, formte die Worte, die sie bald schreiben würde. Die Frau, die Prinzen empfing, die Gesandte aus Bagdad und Kiew abfertigte, die den Aufstieg ihres Sohnes gegen den Willen eines toten Mannes durchgesetzt hatte – sie lag da, klein, ausgezehrt, die Hände auf der Brust gefaltet, als hätte jemand sie so hingelegt wie eine Puppe, mit der man nicht mehr spielt.
+Ihre Hand zitterte nicht, als das Schilfrohr auf das Papier traf.
 
-Die Lampe warf Schatten auf die Zeltwand. Fatima hörte das leise Knacken der Filze, das Knarren der Stangen, die Geräusche der Nacht, die sich nicht darum scherten, dass eine Regentin gestorben war. Der Wind würde weiterwehen. Die Wachen würden ihre Runden drehen. Die Köche würden das Feuer schüren, ohne zu wissen, dass das Frühstück heute keinen Empfänger mehr hatte.
+*Ich schreibe dir auf Schandseide, Schwester, weil mir die Kanzlei kein Pergament mehr zusteht.*
 
-Fatima saß da, und die Stille wurde schwerer mit jeder Stunde.
+*Die Regentin ist tot.*
 
-Sie dachte an den goldenen Becher. Sie dachte an die Enthüllung, die Töregene ihr gezeigt hatte, an die Worte, die sie ausgesprochen hatte, ohne sie je zu beweisen. *Ich hätte fragen können.* Die Frage, die nie gestellt worden war, war jetzt mit Töregene gestorben, und niemand würde sie je beantworten. Vielleicht war das die letzte Wahrheit dieses Reiches: Antworten starben mit denen, die sie hätten geben können, und die Lebenden blieben zurück mit dem, was sie wussten, und dem, was sie nie erfahren würden.
+*Sie starb in der Nacht, still und schmucklos, wie eine Hirtin stirbt, die man am Ende des Winters im Grashang vergisst. Keine Trommel hat geschlagen. Kein Reiter sprengte durch das Lager, um die Tausendschaften zu wecken. Ich habe die Kerzen herabgebrannt gesehen, Zoll um Zoll, und als der Docht im Wachs ertrank, war ihr Atem schon fort. Die Frau, die die Welt regierte, passt jetzt in eine Kiste. Stell dir das vor, Schwester.*
 
-Der Morgen kam langsam, grau und kalt. Fatima stand auf, als das erste Licht durch die Zeltluke fiel, und ging hinaus in den Hof, der bereits erwachte. Sie sah die Blicke der Diener, das Flüstern der Wachen, das schnelle Wegdrehen der Gesichter. Der Tod war angekommen, und mit ihm die Neuordnung.
+*Vor zwei Tagen noch zitterten die Gesandten aus Dschurdschan vor ihrem Schatten. Gestern noch wichen die Statthalter zur Seite, wenn ihr Wagen durch den Schlamm der Wege fuhr. Nun liegt sie da, klein und ausgezehrt, eine alte Naimanin mit eingesunkenen Wangen und verkrusteten Lippen, von der nichts geblieben ist als der Geruch von saurer Stutenmilch und versengtem Filz. Es gibt keinen Thron im Tod. Es gibt nur das Holz, das man um einen Leib schlägt, und den gefrorenen Lehm, der darauf wartet, die Schaufeln zu brechen.*
 
-Sie ging zu ihrem Zelt, zog die Plane hinter sich zu und setzte sich an den niedrigen Tisch, auf dem das Federetui ihres Vaters lag, das einzige, was sie aus Chorasan gerettet hatte. Sie nahm die Feder heraus, legte ein Blatt Papier zurecht und begann zu schreiben.
+*Und ich sitze hier, mit Ruß an den Fingerspitzen und Frost in den Gelenken, und weine.*
 
-*Schwester,*
+*Ich trauere um meine Besitzerin. Sag mir, was das über mich verrät.*
 
-*ich sitze in meinem Zelt und sollte eigentlich schlafen. Die Wache ist vorbei, die Heiler haben den Leichnam gewaschen, die Schreiber werden bald kommen, um den Tod zu protokollieren. In ein paar Stunden wird der Hof offiziell wissen, was er heute Nacht schon inoffiziell wusste. Die Regentin ist tot.*
+*Du hättest mich verflucht, damals in Maschhad, als die Rauchschwaden über den Ziegeln standen und die Pferdehufe das Pflaster zerschlugen. Du hättest mich angespuckt, wenn du gesehen hättest, wie ich mich vor ihr beugte, wie ich ihr das Haar strich, wie ich lernte, ihre Launen an der Krümmung ihrer Augenbrauen abzulesen. Sie war es, die den Befehl gab, der uns zu Waisen machte – nicht mit eigener Hand, aber mit dem Stempel, der die Reiter nach Westen trieb. Sie war es, die mich kaufte wie ein Lasttier auf dem Markt von Samarkand, prüfend, ob die Zähne fest saßen und der Verstand zu mehr taugte als zum Walken von Schafwolle.*
 
-*Ich habe die ganze Nacht bei ihr gesessen. Ich habe gesehen, wie sie aufgehört hat zu atmen. Es war nicht dramatisch, Schwester. Es war nicht wie in den Dichtungen, die Juvaini mir einmal vorgelesen hat, wo die Helden sterben mit einem letzten Wort, einem letzten Fluch, einem letzten Kuss. Es war einfach nur das Ende eines Körpers, der zu müde war, weiterzumachen. Die Frau, die die Welt regierte, passt jetzt in eine Kiste. Stell dir das vor, Schwester.*
+*Sie besaß mich. Sie besaß meinen Atem, meine Tage, das Licht meiner Augen und jeden Gedanken, den ich vor ihr nicht tief genug im Herzen verbergen konnte. Wenn sie nach mir rief, musste ich kommen; wenn sie mich schlug, musste ich danken; wenn sie mich erhob, tat sie es nicht aus Barmherzigkeit, sondern weil sie ein Werkzeug brauchte, das schärfer schnitt als die Messer ihrer Söhne.*
 
-*Stell dir vor, dass die Hände, die Siegel auf Dekrete drückten, die Prinzen empfingen, die den goldenen Becher polierten, jetzt still liegen. Stell dir vor, dass die Augen, die alles sahen, was in diesem Reich geschah, jetzt geschlossen sind. Stell dir vor, dass die Stimme, die Befehle erteilte, die mich rief, die zu mir sagte „Du bleibst" – dass diese Stimme für immer verstummt ist.*
+*Und doch zerreißt es mir die Brust.*
 
-*Ich trauere um meine Besitzerin.*
+*Ich habe versucht, es zu trennen, Schwester. Nächte lang habe ich über dieser Frage gebrütet, während die Jurte im Sturm ächzte und draußen die Wölfe heulten. Wo endet die Dankbarkeit an die Frau, die mich aus dem Dreck zog, und wo beginnt die Liebe zu der, die mich besaß? Gibt es einen Unterschied? Oder ist das die letzte, vollkommene Schandtat der Sklaverei: dass man den Käfig zu lieben lernt, weil er der einzige Ort auf Erden ist, an dem man nicht erfriert?*
 
-*Sag mir, was das über mich verrät.*
+*Sie hat mich geschützt. Fünf Jahre lang war ihr Wille mein Schild. Wenn die Prinzen die Zähne fletschten, brauchte sie nur die Hand zu heben. Wenn Abd ar-Rahman mein Blut forderte, lachte sie ihn aus und warf ihm einen Knochen hin, damit er schwieg. Sie gab mir die Siegel. Sie ließ mich die Befehle schreiben, die Armeen bewegten und Städte verschonten. An ihrer Seite war ich kein Ding mehr, das man mitnahm; ich war die Hand, die das Reich lenkte. Aber sie tat es, weil ich ihr gehörte. Ein Herrscher pflegt sein bestes Pferd nicht aus Mitleid, sondern weil er auf ihm in die Schlacht reiten will. Ich wusste das. Ich wusste es in jedem Atemzug, den wir gemeinsam taten.*
 
-Die Feder hielt inne. Fatima starrte auf die Worte, die sie geschrieben hatte, und spürte, wie sich etwas in ihr löste. Die Wahrheit, die sie nie ausgesprochen hatte, stand jetzt auf dem Papier, schwarz auf weiß, unauslöschlich.
+*Trotzdem habe ich ihre Hand gehalten, als sie starb. Und als ihre Finger kalt wurden, war mir, als risse jemand das Fleisch von meinen Rippen.*
 
-*Ich habe dir nie gesagt, wie das war. Ich habe dir nie gesagt, was es bedeutet, einer Frau zu gehören, die dich gekauft hat. Nicht im metaphorischen Sinne, Schwester. Wirklich gekauft. Sie hat Geld für mich bezahlt, als ich auf dem Sklavenmarkt von Buchara stand, zwanzig Jahre alt, zahnlos vor Angst, halb verhungert, und sie hat mich ausgewählt, weil sie eine Frau brauchte, die lesen und schreiben konnte, und weil ich die einzige war, die beim Verhör nicht weinte.*
+*Es ist ein Schandfleck auf meiner Seele, und ich gestehe ihn nur dir, die du unter der Erde liegst und mich nicht mehr verurteilen kannst. Ich habe sie geliebt. Nicht wie eine Tochter eine Mutter liebt, nicht wie eine Dienerin ihre Gebieterin. Ich habe sie geliebt mit der finsteren, unentwirrbaren Ergebenheit eines Hundes, der den Fuß leckt, der ihn an die Kette gelegt hat, weil dieser Fuß der einzige Halt in einer Welt ohne Gnade war.*
 
-*Sie hat mich gekauft. Das vergesse ich manchmal, wenn ich in ihrem Zelt sitze und ihre Briefe schreibe, wenn sie mir vertraut, wenn sie mich lobt. Aber dann kommt ein Moment wie heute Nacht, wo ich sie tot daliegen sehe, und ich weiß: Sie hat mich gekauft. Ich war ihr Besitz. Ich bin es immer noch.*
+*Nun ist die Kette gerissen. Und ich lerne, wie die Kälte schmeckt.*
 
-*Und ich trauere um sie.*
+*Der Hof hat keine Zeit für Totenklagen. Sie haben nicht einmal gewartet, bis ihr Leib erstarrt war. Gestern Abend, noch während sie nach Luft rang, kamen die Schreiber des Großkhans. Sie kamen nicht mit gezückten Säbeln, sie brachten keine Ketten und keine Henker. So arbeiten sie jetzt nicht mehr.*
 
-*Ich trauere um die Frau, die mich kaufte, die mich kleidete, die mich fütterte, die mir ein Zelt gab, die mir erlaubte, zu schreiben. Ich trauere um die Frau, die mir sagte, ich sei mehr als eine Dienerin, und die mir gleichzeitig nie erlaubte, zu vergessen, dass ich eine war. Ich trauere um die Frau, die mich beschützte, weil ich ihr gehörte, und die mich verraten hätte, wenn es ihr genützt hätte.*
+*Sie kamen mit Wachstafeln und Terminen.*
 
-*Sag mir, Schwester, wie man das nennt. Wie man das trennt. Die Dankbarkeit von der Liebe. Die Liebe von der Besitznahme. Die Besitznahme von der Freiwilligkeit. Ich weiß es nicht. Ich habe es nie gewusst.*
+*Ein junger Mann mit kahlgeschorener Stirn und den Augen eines Buchhalters trat ein, verneigte sich knapp und las mir vor, dass die Kemenaten der Regentin mit dem morgigen Sonnenaufgang „neu zugewiesen“ seien. Die Kanzleikisten seien vor der Mittagsstunde an Kanzler Chinqai zu übergeben. Die Vorräte an getrocknetem Fleisch und Hirse seien bis zum Abend inventarisiert abzuliefern. Meine eigene Unterkunft sei für die Gesandtschaft aus dem Tangutenland vorgesehen; man habe mir ein Filzzelt am Viehgraben bestimmt, bis der erhabene Khagan über meine künftige Verwendung befunden habe.*
 
-*Sie hat mir einmal gesagt, ich sei ihr wertvollstes Werkzeug. Und ich war stolz darauf. Ich war stolz, das Werkzeug einer Regentin zu sein. Ich war stolz, dass meine Feder ihre Macht war. Ich war stolz, dass sie mich brauchte.*
+*Verstehst du, Schwester? So löscht man ein Leben aus. Nicht durch einen Schwerthieb. Nicht durch einen Schrei auf dem Richtplatz. Sondern durch Termine. Durch Listen, auf denen dein Name nicht mehr vorkommt. Durch Schreiber, die an dir vorbeisehen, als wärst du bereits aus Luft gewoben, während sie die Siegelkisten verschnüren und die Teppiche zusammenrollen.*
 
-*Was sagt das über mich, Schwester? Dass ich stolz war, ein Werkzeug zu sein? Dass ich meine Sklaverei als Auszeichnung betrachtete? Dass ich die Ketten trug, als wären sie Schmuck?*
+*Meine Vollmachten sind ohnehin ein Haufen Asche. Güyük hat jeden Erlass für nichtig erklärt, den seine Mutter je gezeichnet hat. Fünf Jahre Herrschaft – weggewischt mit einem Federstrich seines neuen Großrichters. Die Steuern, die wir erließen, werden doppelt eingetrieben. Die Begnadigungen, die ich entwarf, sind ungültig. Die Kornspeicher, die ich für Maschhad öffnen ließ – wer weiß, ob das Getreide je die Ruinen erreicht hat oder ob die Krieger es unterwegs an ihre Rosse verfütterten.*
 
-*Ich weiß die Antwort. Ich weiß sie, seit ich sie dir schreibe. Ich war stolz, weil ich keine Wahl hatte. Weil die Alternative – wertlos zu sein – schlimmer war. Weil ich gelernt hatte, in meinem Käfig zu tanzen, und weil ich vergaß, dass es ein Käfig war.*
+*Ich bin nackt.*
 
-*Und jetzt ist der Käfig leer.*
+*Es gibt keine Mauer mehr zwischen mir und den Wölfen. Abd ar-Rahman schleicht schon um mein Zelt wie ein Schakal um ein verendetes Kalb. Er flüstert mit den Hofmeistern; er erinnert jeden, der es hören will, an Ködens Sterbefluch. ‚Die Hexe aus dem Westen‘, nennen sie mich jetzt. Nicht mehr ‚die weise Fatima‘, nicht mehr ‚die Stimme der Khatun‘. Eine Hexe ist leicht zu verbrennen. Das Volk verlangt nach Schuldigen, wenn der Winter zu hart wird und das Vieh krepiert, und der neue Khan braucht ein Opfer, um zu beweisen, dass die Zeit der Weiber vorüber ist.*
 
-Fatima legte die Feder nieder und rieb sich die Augen. Das Zelt war heller geworden, das Morgenlicht fiel durch die Filze und ließ den Staub tanzen. Sie hörte Schritte draußen, Stimmen, die leiser wurden, als sie ihr Zelt passierten. Der Hof war wach, und der Hof sortierte sich neu.
+*Töregene hat es gewusst. Sie hat es mir ins Gesicht gesagt, ehe das Licht in ihren Augen erloschen ist. Nicht wegen Köden werden sie mich holen. Nicht wegen der Zauberei, an die ohnehin nur die Narren glauben.*
 
-Sie nahm die Feder wieder auf.
+*Sie werden mich holen wegen dem, was ich weiß.*
 
-*Heute Nacht, während ich bei ihr saß, habe ich gehört, wie die Neuordnung begann. Nicht durch Befehle, Schwester. Nicht durch Dekrete. Durch Termine.*
+*Ich weiß, wie Ögedei starb. Ich habe den Geruch bitterer Mandeln in seinem Becher gerochen, als alle Welt vom Versagen seines Herzens sprach. Ich habe den Mundschenk gesehen, der aus dem Zelt glitt, und ich kenne das Wappen auf seinem Dolch. Ich weiß, welche Fürsten Gold von den Kereiten nahmen, um bei der Thronerhebung zu schweigen. Ich kenne die Fälschungen, die Bestechungen, die geheimen Bündnisse, die dieses Reich zusammenhalten wie verfaultes Leder, das man mit Sehnen geflickt hat.*
 
-*Ein Bote kam zum Zelt des Kanzleramts und fragte nach den Listen der Provinzsteuern. Ein anderer fragte nach dem Schlüssel zur Schatzkammer. Ein dritter fragte nach dem Verzeichnis der Gesandten, die noch in der Stadt waren. Niemand sagte: „Die Regentin ist tot, und wir übernehmen." Niemand sagte: „Güyük hat jetzt die Macht." Es war einfach so, dass die Termine, die Töregene für heute geplant hatte, plötzlich nicht mehr stattfanden, und dass die Termine, die für Güyük reserviert waren, plötzlich stattfanden.*
+*Ich weiß zu viel für eine Frau, die keine Reiter hinter sich hat.*
 
-*So funktioniert Macht, Schwester. Nicht durch Gewalt. Nicht durch Worte. Durch die schlichte Tatsache, dass ein Termin nicht mehr stattfindet, weil keiner mehr kommt, der ihn einberufen könnte.*
+*Güyük weiß, dass ich es weiß. Er erträgt keine Zeugen. Ein Herrscher kann Verräter kaufen und Rebellen enthaupten, aber er kann nicht schlafen, solange ein Schatten in den Ecken sitzt, der die Wahrheit über seinen Thron kennt. Mein Schweigen ist für ihn wie eine Klinge, die über seiner Kehle hängt.*
 
-*Ich habe es kommen sehen. Ich habe es vorausgesehen, seit Güyük Khan wurde. Aber es zu sehen und es zu erleben, ist zweierlei.*
+*Sie werden kommen. Vielleicht heute Nacht, wenn das Lager schläft. Vielleicht morgen, wenn der Frost die Erde noch fester schließt. Sie werden nach meinen Papieren suchen. Sie werden den Boden aufgraben, sie werden die Säume meiner Kleider auftrennen, sie werden mir die Fingernägel ziehen, um zu erfahren, wohin die Aufzeichnungen der Regentschaft verschwunden sind.*
 
-*Meine Vollmachten sind ohnehin nichtig. Die hat Güyük schon vor Monaten annulliert, mit einem Federstrich, einer Unterschrift, einem Siegel. Ich bin keine Schattenkanzlerin mehr. Ich bin keine Vertraute der Regentin. Ich bin nichts als eine Frau, die in einem Zelt sitzt und einen Brief an eine Tote schreibt, weil sie niemanden mehr hat, dem sie schreiben könnte.*
+*Und doch sitze ich hier.*
 
-*Die Zimmer, die mir zugewiesen waren, werden neu zugewiesen. Die Diener, die mir zugeteilt waren, werden neu zugeteilt. Die Vorräte, die ich beziehen durfte, werden neu bewilligt – oder nicht. Ich werde hören, dass ich umziehen muss, dass ich weniger bekomme, dass ich nicht mehr gebraucht werde. Nicht durch einen Befehl. Durch einen Termin, der nicht mehr stattfindet.*
+*Die Kälte kriecht durch die Sohlen meiner Stiefel, meine Gelenke schmerzen, die Tinte wird zäh auf der Spitze des Rohrs. Aber ich tauche die Feder wieder ein. Buchstabe für Buchstabe, schwarz auf weiß, ziehe ich die Linien über das Seidenblatt. Meine Hand gehorcht mir noch.*
 
-*Früher war Wissen mein Schutz. Ich wusste Dinge, Schwester. Ich wusste, was in den Briefen stand, die Töregene schrieb. Ich wusste, was in den Berichten stand, die die Spione brachten. Ich wusste, wer wen fürchtete, wer wen haßte, wer wen verriet. Wissen war Macht, und Macht war Schutz.*
-
-*Jetzt ist Wissen nur noch eine Gefahr.*
-
-*Ich weiß, dass Ögedei vergiftet wurde. Ich weiß, dass Töregene den Becher versteckt hat. Ich weiß, dass Güyük Verdacht schöpft, aber nicht genug weiß, um zu handeln – oder zu viel weiß, um zu warten. Ich weiß, dass Shigi die Chronik versteckt hat. Ich weiß, dass Juvaini irgendwo im Westen ist und schreibt, was man ihm befiehlt. Ich weiß, dass ich die Einzige bin, die das ganze Bild kennt.*
-
-*Und deshalb bin ich in Gefahr.*
-
-*Güyük hat mir gedroht, damals, als er noch nicht Khan war. Er hat gesagt, er werde mich zwingen, die Wahrheit zu sagen, oder mich töten lassen. Er hat gesagt, ich sei die Einzige, die wisse, was in jener Nacht geschah. Er hat gesagt, er werde mich finden, und er werde mich nicht vergessen.*
-
-*Ich habe gehofft, dass Töregene mich schützen würde. Ich habe gehofft, dass sie einen Weg finden würde, mich zu retten, wie sie mich immer gerettet hatte. Aber sie ist tot, Schwester, und sie kann niemanden mehr retten, nicht einmal sich selbst.*
-
-*Jetzt bin ich nur noch eine Frau, die etwas gesehen hat.*
-
-*Früher war das mein Beruf. Ich war die Augen der Regentin, die Ohren der Regentin, die Feder der Regentin. Ich habe gesehen, was sie sehen wollte, und ich habe geschwiegen, was sie nicht hören wollte. Ich habe Dinge gesehen, die niemand sehen sollte, und ich habe sie aufgeschrieben, weil ich glaubte, dass sie eines Tages wichtig sein würden.*
-
-*Jetzt ist es mein Todesurteil.*
+*Jetzt bin ich nur noch eine Frau, die etwas gesehen hat. Früher war das mein Beruf. Jetzt ist es mein Todesurteil.*
 
 *Ich schreibe trotzdem weiter.*
 
-*Sag mir, warum.*
+*Sag mir, warum.
 
-Die Feder hielt inne. Das Wort *warum* stand am Ende der Zeile, und es war das schwerste Wort, das Fatima je geschrieben hatte. Sie starrte darauf, als könnte es sich von selbst beantworten, als würde die Tinte sich teilen und die Antwort offenbaren.
+*Sag mir, warum das Herz sich weigert, stillzustehen, wenn der Verstand längst das Grab geschaufelt hat.*
 
-Aber die Tinte blieb still. Das Papier blieb leer bis auf das, was sie geschrieben hatte. Keine Stimme antwortete ihr, keine Hand führte die ihre, kein Geist ihrer Schwester erschien im Zelt und sagte: *Weil du es musst. Weil es dein Leben ist. Weil du nicht aufhören kannst, weil Aufhören bedeuten würde, dass alles, was du gesehen und gewusst und ertragen hast, umsonst war.*
+*Vielleicht ist es der Trotz eines Kindes, das einst in den Gärten von Maschhad saß und glaubte, ein aufgeschriebenes Wort könne die Welt vor dem Einsturz bewahren. Vielleicht schreibe ich, weil die Tinte das Einzige ist, was mir gehört. Nicht der Filz, auf dem ich kniee. Nicht das Kleid, das ich am Leib trage. Nicht einmal die Jahre, die ich der Toten geschenkt habe. Nur dieser Bogen, die Spur aus Ruß und Öl, und der Schmerz, der mich daran erinnert, dass ich noch atme.*
 
-Sie wusste die Antwort. Sie hatte sie immer gewusst.
+*Wenn sie kommen, werden sie diesen Brief finden. Sollen sie ihn lesen. Sie werden die persischen Schriftzeichen anstarren wie stumme Steine, unfähig zu begreifen, dass eine Sklavin ihr ganzes Reich in den Händen hielt – und es für nichtig befand.*
 
-Sie schrieb weiter, weil sie schreiben musste. Weil sie nicht aufhören konnte. Weil das Schreiben das Einzige war, was sie noch hatte, das Einzige, was ihr gehörte, das Einzige, was sie nicht besitzen konnte, weil es kein Besitz war, sondern ein Akt, eine Handlung, ein Leben.
+Fatima hielt inne. 
 
-Sie schrieb weiter, weil sie existierte, solange sie schrieb. Weil sie nicht verschwinden würde, solange es ihr Papier gab. Weil sie nicht sterben würde, solange ihre Feder bewegte.
+Das feine Schilfrohr knirschte leise, als sie es zur Seite legte. Draußen vor der Jurte glomm das Wachfeuer matt durch die Filzwände, begleitet vom fernen, dumpfen Pochen beschlagener Hufe im gefrorenen Lehm. Karakorum erwachte nicht mit Klagegesängen, sondern mit dem harten, metallenen Klirren von Zaumzeug und Rüstungen. Die Welt drehte sich weiter, gleichgültig gegen das Verlöschen einer Herrin, taub für das Schicksal einer Schreiberin aus dem Westen.
 
-Sie schrieb weiter, weil sie der Hof bereits vergessen hatte, und weil Vergessenwerden der Tod war, und weil sie noch nicht sterben wollte, nicht hier, nicht jetzt, nicht so.
+Sie faltete das Seidenpapier behutsam zusammen, strich mit der Daumenkuppe über die scharfe Bruchkante und schob das Blatt tief in die Falten ihres Wamses, direkt über das unruhig schlagende Herz. 
 
-Sie schrieb weiter, weil sie keine Wahl hatte.
+Die Kälte des Morgens kroch bereits unter der Türschwelle hindurch. Fatima richtete sich auf, strich ihr Gewand glatt und wartete auf den ersten Schritt vor ihrer Tür.
 
-*Ich schreibe weiter, Schwester, weil ich nicht weiß, was ich sonst tun soll. Ich schreibe weiter, weil ich glaube, dass es einen Grund gibt, dass ich überlebt habe, damals in Chorasan, damals auf dem Sklavenmarkt, damals all die Jahre, in denen andere starben und ich weitermachte. Ich schreibe weiter, weil ich hoffe, dass dieses Papier eines Tages gelesen wird, und dass jemand versteht, was hier geschah, und dass ich nicht umsonst gelebt habe.*
-
-*Ich schreibe weiter, weil ich Angst habe, aufzuhören.*
-
-*Ich schreibe weiter, weil ich sterben werde, wenn ich aufhöre.*
-
-*Und ich will nicht sterben, Schwester. Noch nicht. Noch nicht.*
-
-Sie legte die Feder nieder, faltete das Blatt sorgfältig und verstaute es im Federetui, neben den anderen Briefen, die sie nie abschicken würde. Sie würde sie verbrennen, bevor sie gefunden wurden, oder sie verstecken, oder sie jemandem geben, der sie lesen würde, wenn sie nicht mehr schreiben konnte.
-
-Sie wusste nicht, was sie tun würde. Sie wusste nur, dass sie weiterschreiben würde, bis der letzte Atemzug aus ihr wich, so wie Töregene weitergemacht hatte, bis ihr Körper sich weigerte, weiterzumachen.
-
-Das Zelt war jetzt hell. Die Stimmen draußen wurden lauter, der Hof erwachte, und die Welt bewegte sich weiter, ohne Töregene, ohne Fatima, ohne die Erinnerung an die Frau, die die Welt regiert hatte und die jetzt in einer Kiste lag, klein und still und endgültig.
-
-Fatima stand auf, strich ihr Gewand glatt und trat vor das Zelt. Die Sonne war aufgegangen, und der Tag begann, wie jeder andere Tag begann, mit dem Geruch von Rauch und Pferden und der Kälte des Winters, der noch nicht vorbei war.
-
-Sie hatte keine Termine mehr. Sie hatte keine Vollmachten mehr. Sie hatte keine Besitzerin mehr.
-
-Sie war nur noch eine Frau, die etwas gesehen hatte, und die weiterschrieb, weil sie nicht wusste, was sonst.
-
-Und das, dachte sie, während sie in den grauen Morgen hinausblickte, war vielleicht die einzige Wahrheit, die sie je besessen hatte.
-
----

@@ -1,291 +1,174 @@
 ## Die Rückkehr des Schreibers
 
-Die Stube war lang und schmal, ein Raum zwischen Archiv und Kanzlei, in dem niemand länger blieb als nötig. Juvaini stand an dem niedrigen Tisch, auf dem die Rollen lagen, die er aus dem Westen mitgebracht hatte, und wartete. Der Ofen in der Ecke war kalt, die Lampe brannte schwach, und durch den schmalen Spalt im Filz der Wand drang das ferne Geräusch der Zeltstadt, das Rufen der Händler, das Wiehern der Pferde, das Knarren der Wagenräder auf gefrorenem Boden.
+Der Wind über dem Orchon-Tal trug den Geruch von nassem Filz, verbranntem Dung und jenem feinen, unerbittlichen Staub mit sich, der sich in jede Ritze der Welt schlich. Karakorum roch nach Veränderung, nach dem fauligen Atem eines sterbenden Regimes und der kühlen Schärfe eines heraufziehenden Sturms. Als Ata-Malik Juvaini die schwere Filzklappe des Kanzleizeltes hob, schlug ihm die vertraute, dumpfe Wärme entgegen: Talgkerzen, altes Leder, zerriebener Ruß und der bittersüße Dunst von getrockneter Hirse, die auf einem kleinen Kohlebecken röstete.
 
-Er hatte zwei Jahre gebraucht, um hierher zurückzukehren. Zwei Jahre, in denen er durch die westlichen Provinzen gereist war, von Merw nach Buchara, von Buchara nach Samarkand, von Samarkand zurück an diesen Ort, den er nie wiedersehen wollte. Arghun Aqa hatte ihn geschickt, mit dem abgeschlossenen Register der Steuerrevision, mit den Briefen der Gouverneure, mit den Listen der Toten und der Lebenden und derer, die es nicht mehr gab.
+Er trat ein und blieb auf der Schwelle stehen. Vor fünf Jahren war er als Jüngling aus diesem Zelt vertrieben worden, ein Schreiberling mit Firdausi auf den Lippen und einer ungestillten Sehnsucht im Herzen. Nun kehrte er als Mann von vierundzwanzig Jahren zurück, das Gesicht von der Wüstensonne Chorasans gegerbt, die Wangen eingefallen, die Augen umwölkt von jenem zynischen Panzer, den Arghun Aqas Dienst einem jeden aufzwang. Unter dem linken Arm trug er das lederne Futteral mit dem westlichen Steuerregister – ein Verzeichnis von Seelen, Gerstensäcken und Silberbarren, das allein dazu diente, dem künftigen Herrscher die Unterwerfung der fernen Provinzen zu beweisen.
 
-Aber das war nicht der Grund, warum er hier stand.
+Am Ende des langgestreckten Raumes, hinter einem niedrigen Pult aus schwarzem Ulmenholz, saß Shigi Qutuqu.
 
-Juvaini hörte die Schritte, bevor er sie sah. Langsam, gemessen, das Geräusch eines Mannes, der es nicht eilig hatte, der wusste, dass die Welt wartete, und der bereit war, sie warten zu lassen. Der Filzvorhang teilte sich, und Shigi Qutuqu trat ein.
+Der oberste Richter des Weltreichs sah aus wie ein aus grauem Fels gehauenes Götzenbild, über das Jahrzehnte von Eisregen gegangen waren. Seine Wangenknochen traten scharf hervor, das dünne weiße Haar war streng nach hinten geflochten, und die Hände, die auf einem aufgeschlagenen Rechnungsbuch ruhten, zeigten bläuliche Adern unter pergamentener Haut. In den Winkeln des Zeltes stapelten sich Weidenkörbe und lederne Schatullen; zwei Kanzlisten des Hauses Tolui tuschelten in einer fernen Ecke über mongolischen Steuerlisten, verstummten jedoch jäh, als Shigi kaum merklich das Kinn hob.
 
-Er war älter geworden. Das war das erste, was Juvaini bemerkte, das einzige, was er bemerken durfte. Die Falten um die Augen tiefer, das Haar dünner, die Schultern schmaler unter dem schweren Mantel. Aber die Augen waren dieselben: dunkel, ruhig, von einer Wachsamkeit, die nicht schlief, die nie geschlafen hatte, die alles gesehen hatte, was es zu sehen gab, und die bereit war, nichts zu zeigen.
+Mit einer knappen Handbewegung entließ der Richter die Gehilfen. Die Männer verneigten sich tief, rafften ihre Papiere zusammen und glitten lautlos wie Schatten durch den Vorhang hinaus in den schneidenden Wind.
 
-„Schreiber Juvaini", sagte Shigi. Die Stimme war flach, neutral, die Stimme eines Mannes, der jeden Tag Dutzende von Namen nannte und keinen von ihnen behielt.
+Stille senkte sich über den Raum. Nur das Knistern der Kohlen im Becken und das Singen der Spannseile im Frost blieben übrig.
 
-„Richter Qutuqu." Juvaini verbeugte sich knapp, die Haltung eines Untergebenen, der wusste, dass er ein Untergebener war, und der es nicht mehr änderte als nötig.
+„Der Schreiber des Statthalters“, sagte Shigi Qutuqu. Seine Stimme klang wie zwei Mühlsteine, die trocken aufeinander rieben, tief, langsam, ohne jedes tastende Suchen. Er hob den Blick nicht sofort, sondern strich mit einem Hornfalzbein über den Falz eines Aktenbogens. „Ihr reist schnell, Juvaini. Die Gerüchte über Möngkes Kuriltai eilen Euren Pferden voraus, doch Eure Register sind früher hier als die Herden der Toluiden.“
 
-Shigi trat an den Tisch, ließ den Blick über die Rollen gleiten, ohne sie zu berühren. „Ihr seid mit dem Register zurückgekehrt?"
+„Arghun Aqa lässt den künftigen Herrn der Welt ungern warten“, erwiderte Juvaini und verneigte sich mit jener höfischen Eleganz, die ihm in Chorasan zur zweiten Haut geworden war. Jeder Muskel gehorchte der Etikette, doch in seiner Kehle brannte eine Trockenheit, die nichts mit dem Wüstenstaub zu tun hatte. Er legte das Futteral auf den Rand des Tisches. „Die Zensuslisten von Chorasan, Mazandaran und den Städten am Fluss. Geprüft, gegengezeichnet, bereit zur Bestätigung durch das kaiserliche Kanzleiamt.“
 
-„Arghun Aqa lässt grüßen. Die Revision ist abgeschlossen. Die Zahlen sind korrigiert, die Lücken geschlossen, die Unterschriften eingeholt."
+Shigi blickte auf. Seine Augen, von faltigen Lidern halb verdeckt, waren trüb wie Flusswasser vor dem Frost, doch dahinter lag eine Wachheit, die Juvaini bis ins Mark traf. Sie musterten den jungen Mann – die straffen Schultern, den dichten, kurzen Bart, den Mund, der das Lächeln verlernt zu haben schien.
 
-„Gut."
+„Ihr habt keinen Vers auf der Zunge“, stellte der Richter fest. „Kein Gleichnis über die Vergänglichkeit der Rosen. Chorasan hat Euch den Überfluss an Worten ausgetrieben.“
 
-Stille.
+„Die Toten verlangen keine Metaphern, Herr Richter. Und die Lebenden fordern Zahlen.“
 
-Juvaini stand da und wartete. Er wusste nicht, worauf er wartete. Auf ein Zeichen, auf eine Frage, auf etwas, das kommen würde und das er nicht benennen konnte. Die Stille dehnte sich, wurde dicker, wurde zu einem Raum zwischen ihnen, den keiner von beiden betreten wollte.
+„Eine nützliche Wandlung.“ Shigi schob das Steuerregister mit zwei Fingern beiseite, ohne das Siegel zu brechen. „Doch Ihr seid nicht wegen Arghun Aqas Weizenerträgen drei Monde lang durch den Frost geritten. Ein Bote hätte genügt. Selbst ein Reiter der Poststation hätte diese Haut transportieren können. Warum seid Ihr hier, Ata-Malik?“
 
-„Ich hätte noch eine Bitte", sagte Juvaini schließlich. Die Worte kamen leiser als beabsichtigt, leiser als erlaubt. „Ich brauche Akten. Aus den Jahren 1246 und 1247."
+Juvaini spürte, wie sein Herz gegen die Rippen schlug, unruhig wie ein Vogel, der gegen das Gebälk einer fremden Halle fliegt. Der Duft von Tinte und trockenem Schafsleder im Zelt war derselbe wie damals, im Sommer 1246, als sie noch hier gesessen hatte. Genau an dieser Stelle, zwei Daumenbreiten links von Shigis Ellbogen, hatte einst ihr zinnernes Tintenfass gestanden.
 
-Shigi hob den Kopf. Der Blick traf Juvaini, kurz, prüfend, und senkte sich wieder auf die Rollen. „Welche Akten?“
+Er trat einen halben Schritt vor. Die Kanzleihöflichkeit fiel von ihm ab wie ein zerrissener Mantel.
 
-„Die Protokolle der Kanzlei unter Güyük Khan. Die Ernennungen, die Entlassungen, die Verfahren." Er zögerte, nur einen Herzschlag lang. „Die Vernehmungsakten."
+„Ich brauche die Akten“, sagte er leise. „Die Kanzleiprotokolle der Jahre sechsundvierzig und siebenundvierzig. Die Verhöre. Das, was nach Töregenes Tod verhandelt wurde.“
 
-Die Stille wurde schwarz. Juvaini spürte sie in der Kehle, im Hals, in der Lunge, in dem Raum zwischen den Rippen, in dem die Luft stillstand.
+Shigis Miene veränderte sich nicht um eine Haaresbreite. Die Falten um seinen Mund schienen tiefer zu werden, als gritte der Schatten einer Wolke über Steppengeröll. „Die Kanzlei gehört nun den Schreibern des Prinzen Möngke. Die Akten Güyüks werden geordnet, gesäubert, versiegelt. Nichts verlässt diesen Raum, was den Frieden des Hauses Tolui gefährden könnte.“
 
-„Man hat mir gesagt", fuhr er fort, langsamer jetzt, jedes Wort wie ein Schritt auf dünnem Eis, „dass die Akten noch existieren. Dass niemand sie vernichtet hat. Dass sie hier lagern, in der Kanzlei, in der sie abgelegt wurden, und dass sie seit dem Ende der Verfahren nicht mehr geöffnet wurden."
+„Ihr wisst genau, was ich suche.“ Juvainis Stimme verlor jeden Tonfall von Respekt; sie zitterte vor einer Wut, die fünf Jahre lang unter Eis gelegen hatte. „Ich suche kein Staatsgeheimnis. Ich suche ihren Namen.“
 
-Shigi antwortete nicht. Er stand still, die Hände hinter dem Rücken verschränkt, der Blick auf den Boden gerichtet, auf den Filz, auf die Risse im Filz, auf die Staubkörner, die in der Lampe tanzten.
+Stille dehnte sich aus, zäh und schwer wie kaltes Lampenöl. Draußen rief ein Wachreiter der Tausendschaft einen Befehl gegen das Heulen des Windes an, ein heiserer Laut, der sofort im Orkontal verwehte.
 
-„Ihr habt sie gekannt", sagte Juvaini.
+Juvaini beugte sich vor, stützte die behandschuhten Hände auf das Holz des Pultes und sah den alten Mann an. „Ihr habt sie gekannt.“
 
-Es war keine Frage. Es war eine Feststellung. Eine Tür, die er öffnete, die er nicht mehr schließen konnte, die er nicht mehr schließen wollte.
+Shigi Qutuqu senkte die Lider nicht. Er hielt dem Blick stand, unbeweglich, ein tatarisches Findelkind, das im Blut der eigenen Sippe großgeworden war und gelernt hatte, jeden Schmerz in Rechtsparagraphen zu ersticken.
 
-Shigi hob den Kopf. Die Bewegung war langsam, bedächtig, die Bewegung eines Mannes, der wusste, was kommen würde, und der bereit war, es zu treffen. Die Augen trafen Juvainis Augen, und in ihnen lag etwas, das wie Schmerz aussah, wie Erinnerung, wie die Narben von etwas, das nie verheilt war.
+„Ich habe ihr Urteil gesiegelt“, sagte Shigi.
 
-„Ich habe ihr Urteil gesiegelt."
+Der Satz traf Juvaini wie ein Hieb mit der flachen Klinge vor die Brust. Obwohl er es gewusst hatte, obwohl jede Faser seines Verstandes seit jenem finsteren Tag am Altai um die Beteiligung des Oberrichters wusste, schnürte die nackte Feststellung ihm den Atem ab. Die Kälte im Raum schien mit einem Schlag zuzunehmen, kroch durch die Sohlen seiner Stiefel hinauf bis in die Kehle.
 
-Der Satz fiel wie ein Stein in stilles Wasser. Juvaini spürte den Aufprall in der Brust, in den Knien, in den Händen, die sich zu Fäusten ballten, die sich wieder lösten, die sich wieder ballten.
+Er schluckte die Bitterkeit hinab, die wie Galle schmeckte.
 
-Er hatte es gewusst. Er hatte es die ganze Zeit gewusst, seit er gehört hatte, dass Shigi Qutuqu das Todesurteil bestätigt hatte, dass er das Siegel gesetzt hatte, das sie zur Hexe machte, das sie zum Tode verurteilte, das sie in der Zisterne sterben ließ, allein, ohne Namen, ohne Würde, ohne jemanden, der ihr die Hand hielt. Er hatte es gewusst, als er die Nachricht erhielt, als er sie las, als er sie verbrannte, als er die Asche in den Wind warf und wusste, dass nichts übrig blieb, nichts außer ihm, der die Asche verbrannt hatte, der nichts übrig gelassen hatte, der weitergeschrieben hatte, als hätte es sie nie gegeben.
+„Ich habe sie geliebt“, sagte Juvaini.
 
-Und jetzt stand er hier, in dieser schmalen, kalten Stube, und hörte, was er bereits wusste, und es war dasselbe, und es war anders, und es war alles, und es war nichts.
+Das Bekenntnis hing zwischen ihnen, nackt und ungeschützt, ein Frevel gegen jede Kanzleidistanz, ein Sakrileg an diesem Ort, an dem nur Befehle und Gesetze Gewicht hatten. Es war das erste Mal seit ihrem Tod, dass Juvaini diese Worte laut aussprach. Sie klangen brüchig, fast fremd im Mund eines Mannes, der gelernt hatte, Kanzleiberichte über Massenhinrichtungen ohne Wimpernzucken zu diktieren.
 
-„Ich habe sie geliebt", sagte er.
+Shigi Qutuqu rührte sich nicht. Doch in seinen alten Händen, die flach auf dem Tisch lagen, spannte sich eine Sehne. Für den Bruchteil eines Atemzuges schien das Flackern der Talgkerze die Furchen seines Gesichts noch tiefer zu graben.
 
-Die Worte kamen ohne Vorbereitung, ohne Schutz, ohne das geringste Verlangen, sie zurückzunehmen. Er sah Shigi an, während er sie aussprach, sah den Schatten, der über das Gesicht des alten Richters zog, sah das Zucken in den Augen, das Zucken, das er kannte, das er selbst spürte, wenn er ihren Namen dachte, wenn er ihre Stimme hörte, wenn er nachts aufwachte und wusste, dass sie nicht mehr da war.
+„Ich weiß“, erwiderte der Richter leise. „Glaubt Ihr, eine Frau wie Fatima hätte ihr Herz vor mir verbergen können? Sie trug ein Schild vor sich her, an dem die Pfeile der Regentin und der Khane abprallten. Aber wenn sie von Euch sprach, war sie wehrlos. Es war ihre einzige Schwäche.“
 
-Shigi senkte den Kopf. Die Bewegung war langsam, eine Verbeugung vor etwas, das größer war als sie beide, das schwerer war als die Akten, die zwischen ihnen lagen, das schwerer war als das Schweigen, das sie umgab.
+„Und Ihr habt sie getötet.“
 
-„Dann sind wir uns nicht fremd, Schreiber Juvaini." Die Stimme war leise, belegt, die Stimme eines Mannes, der zu lange geschwiegen hatte. „Wir sind uns so fremd nicht."
+„Ich habe das Gesetz vollstreckt, das dieses Reich zusammenhält“, sagte Shigi, und zum ersten Mal schwang in seiner tiefen Stimme etwas mit, das wie unendliche Müdigkeit klang. „Ein morscher Balken bricht unter der Last des Daches, Juvaini. Güyük wollte Blut. Er wollte Toluis Haus vernichten, er wollte Krieg mit Batu. Sie stand zwischen zwei Mahlsteinen. Hätte ich mich geweigert, mein Siegel unter ihr Geständnis zu setzen, hätte er sie dennoch zerrissen – und die Chronik dazu. Er hätte die Wahrheit mit brennendem Pech aus der Erde gebrannt.“
 
-Juvaini spürte, wie sich etwas in seiner Brust löste. Eine Spannung, die er seit Jahren getragen hatte, seit dem Abschied im Durchgang zwischen den Gebäuden, seit den drei Worten, die sie ihm mitgegeben hatte, seit dem Lederstück, das er über dem Herzen trug, seit der Asche, die er verbrannt hatte, seit der Leere, die er in sich trug, seit der Stille, die er nicht mehr füllen konnte.
+„Ihr habt Eure Haut gerettet. Und Euer blaues Buch.“
 
-„Die Akten", sagte er. Die Stimme war rau, und er räusperte sich nicht. „Die Vernehmungsakten von 1247. Ich muss sie sehen."
+„Ich habe das gerettet, was von ihr übrig ist.“
 
-Das Bündel lag zwischen ihnen.
+Juvaini erstarrte. Seine Finger krallten sich in das Ulmenholz. Das Geräusch von Leder auf Holz klang trocken im dämmrigen Licht. „Das Bündel.“
 
-Juvaini hatte es nicht gesehen, als er eintrat. Es lag in der Ecke, auf einem Stapel alter Rollen, in Filz gewickelt, unscheinbar, tot. Aber jetzt, nachdem Shigi es aus der Ecke genommen hatte, nachdem er es auf den Tisch gelegt hatte, nachdem er den Filz auseinandergefaltet hatte, jetzt konnte Juvaini es sehen, und er wusste sofort, dass es das Bündel war. Das Bündel, das Fatima geschrieben hatte, das Bündel, das er nie gesehen hatte, das Bündel, von dem er nur wusste, weil er in ihren Briefen gelesen hatte, weil er ihre Stimme gehört hatte, weil er ihre Handschrift kannte, weil er ihre Worte kannte, weil er sie kannte, wie er niemanden gekannt hatte, wie er nie wieder jemanden kennen würde.
+Shigi antwortete nicht sofort. Er stand langsam auf, ein mühsamer Vorgang, der die Steifheit seiner alten Glieder verriet. Der Pelz aus Wolfsfell raschelte leise, als er um den Tisch herumtrat. Er ging zu einer Reihe schwerer Truhen an der Rückwand der Jurte, wo Aktenbündel aus Hanf und Leder lagen, von Staubschichten bedeckt, die aussahen wie grauer Reif.
 
-„Das ist das Problem", sagte Shigi, die Hände flach auf dem Tisch, die Finger gespreizt, als müsste er sich festhalten. „Es gibt die Akten. Aber sie sind nicht vollständig."
+„Ihr wollt es mitnehmen“, sagte Shigi, ohne sich umzudrehen. „Ich habe es in Euren Augen gesehen, als Ihr eintratet. Ihr wollt es nach Chorasan schaffen.“
 
-„Nicht vollständig?“
+„Dort liest es niemand“, stieß Juvaini hervor, und seine Stimme gewann jene leidenschaftliche Schärfe zurück, die er totgeglaubt hatte. „In Nischapur, in den Ruinen von Chorasan, kümmert sich kein mongolischer Hauptmann um die Briefe einer Hofdame. Niemand dort versteht die Namen der Ordos, niemand schert sich um Ögedeis Tod oder den Becher der Naimanen. Dort, im Schatten der zerstörten Bibliotheken, kann es überdauern. Darum ist es dort sicher.“
 
-„Das Geständnis ist vorhanden. Unterschrieben am dritten Tag der Vernehmung. Die Unterschrift ist ihre, das haben drei Schreiber bestätigt. Aber das Vernehmungsprotokoll der ersten beiden Tage fehlt. Die Aussagen der Zeugen sind nicht datiert. Und das Protokoll der Giftprobe, die angeblich an Ködens Becher durchgeführt wurde, existiert nicht."
+Shigi blieb vor einer verrotteten Kiste stehen, deren Eisenbeschläge rot vom Rost waren. Er drehte sich langsam um, verschränkte die Arme in den weiten Ärmeln seines Deel und musterte den Perser mit herbem Spott.
 
-Juvaini starrte ihn an. Die Worte drangen durch die Stille, durch die Kälte, durch die Jahre, die zwischen ihnen lagen, und sie brannten.
+„Sicher?“, wiederholte der Richter. „Ein persischer Schreiber glaubt immer, das Exil sei ein Tresor. Ihr wollt es davontragen wie einen Schatz, Juvaini. Aber ein Schatz zieht Diebe an. Sobald Möngke auf dem Thron sitzt, werden seine Vögte den Westen durchkämmen. Sie werden jedes Steuerregister, jedes Gedichtbuch, jeden Brief öffnen, um zu sehen, ob Verrat darin nistet. Bringt Ihr ihr Vermächtnis über den Oxus, wird es früher oder später in den Händen eines Zöllners landen. Ein Funke genügt, und der Wind verweht die Asche.“
 
-„Es gibt kein Protokoll der Giftprobe", wiederholte er. Die Stimme war flach, leer, die Stimme eines Mannes, der die Antwort bereits kannte, bevor er die Frage stellte.
+„Und hier?“, hielt Juvaini dagegen. Er trat näher an den Richter heran, bis er den sauren Geruch von altem Leder und Schafsfett an dessen Kleidung wahrnehmen konnte. „Hier durchsuchen Toluis Schreiber nachts die Hallen! Glaubt Ihr, Mahmud hält für immer den Mund? Die Söhne Sorkaktanis wissen, dass etwas fehlt. Wenn Möngke den Thron besteigt, wird er dieses Archiv umgraben lassen wie ein Feld nach der Schlacht. Hier wird es verfaulen. Oder verbrennen.“
 
-„Nein."
+Das Wort stand zwischen ihnen. *Verbrennen.*
 
-„Weil sie nie durchgeführt wurde."
+Keiner von ihnen hatte es bisher ausgesprochen, doch es hatte seit fünf Jahren wie Rauch über jedem Gedanken geschwebt. Das Bündel war Gift. Es enthielt die Wahrheit über den Tod des Khagans, über den Mundschenk des Hauses Tolui, über die Lüge, auf der das neue Reich gegründet werden sollte.
 
-Shigi antwortete nicht. Er stand da, die Hände auf dem Tisch, und sah Juvaini an, und in seinen Augen lag etwas, das wie Bitte aussah, wie Vergebung, wie die Hoffnung, dass jemand verstehen würde, was er nicht sagen konnte.
+„Hier ist es tot“, sagte Shigi kühl, und seine Augen verengten sich zu zwei schmalen Schlitzen. „Tot ist sicherer als fern. Was unter dem Schutt von drei Dynastien liegt, riecht nach Moder, nicht nach Macht. Man sucht nicht nach einem Schwert in einer Grube voll fauler Knochen. Lasst es hier. Lasst das Gras darüber wachsen. Ein Urteil, das niemand liest, schadet niemandem.“
 
-Juvaini trat an den Tisch. Die Bewegung war langsam, jeder Schritt eine Entscheidung. Er streckte die Hand aus, zögerte, berührte den Rand des Bündels, die Filzhülle, rau und kalt.
+„Es ist kein Urteil!“, rief Juvaini, und zum ersten Mal überschlug sich seine Stimme fast. Er dämpfte sie mühsam, warf einen gehetzten Blick zur Filzklappe des Zeltes, doch draußen heulte nur der Steppenwind. „Es ist ihr Leben. Es ist der einzige Beweis dafür, dass sie nicht das Ungeheuer war, zu dem Eure Akten sie gemacht haben. Wenn wir es begraben, Shigi Qutuqu, dann haben wir sie ein zweites Mal ertränkt. Dann haben Güyük und die Toluiden gewonnen. Dann bleibt von ihr nur die Hexe übrig, die ein kaiserlicher Prinz im Fieberwahn verflucht hat.“
 
-„Darf ich?"
+Shigi schwieg lange. Er sah den jungen Mann an mit jenem stillen Hunger eines Menschen, der jahrelang in der Fremde gelebt hat und plötzlich einen Laut aus seiner Heimat hört. In seinen Zügen rang die unerbittliche Härte des Gesetzesmannes mit einer tief verborgenen Trauer, die keine Tränen kannte.
 
-Shigi nickte.
+„Die Wahrheit“, murmelte der alte Richter schließlich, „ist ein Luxus für Völker, die Zeit haben zu sterben. Wir bauen ein Reich auf Knochen, Schreiber. Die Steppe duldet keine Zweifel an den Siegern.“
 
-Juvaini öffnete den Filz. Die Bewegung war vorsichtig, als würde er etwas Lebendiges berühren, etwas Zerbrechliches, etwas, das noch atmete, das noch Schmerz spürte. Das Papier darunter war vergilbt, die Ränder eingerissen, die Tinte verblasst. Aber die Schrift war lesbar, klar, präzise. Ihre Schrift.
+„Und doch habt Ihr es nicht verbrannt.“
 
-Er las das Geständnis. Wort für Wort, Satz für Satz, Zeile für Zeile. Es war kurz, sachlich, bar jeder Emotion. Die Unterschrift am Ende war zittrig, dennoch erkennbar, die Buchstaben ineinander verschlungen, als hätte sie die Hand geführt, die bereits wusste, dass es das letzte Mal war.
+Juvainis Worte waren kein Triumph, sondern eine Feststellung. Eine Klinge, die das letzte Gewebe der Ausflüchte durchtrennte.
 
-„Sie hat unterschrieben", sagte er. Die Stimme war ruhig, ruhiger als er erwartet hatte. „Sie hat unterschrieben, weil sie wusste, dass es keinen Sinn hatte, sich zu wehren."
+„Ihr hattet fünf Jahre Zeit“, fuhr Juvaini fort, und seine Stimme sank zu einem Flüstern herab, das den Raum füllte. „Ihr hattet das Feuer vor Euch. Ein Wurf in die Kohlen, und Euer Gewissen wäre rein gewesen. Keine Gefahr für Möngke, keine Gefahr für Euch, keine Gefahr für das Reich. Warum habt Ihr es behalten, Richter? Warum liegt es noch immer in Eurer Obhut?“
 
-„Sie hat unterschrieben, weil ich ihr keine Wahl ließ."
+Shigi Qutuqu wandte den Blick ab. Seine Schultern sanken um eine Winzigkeit nach unten, als fiele eine unsichtbare Rüstung von ihm ab.
 
-Juvaini hob den Kopf. Shigi stand noch immer am Tisch, die Hände darauf, und zum ersten Mal sah er ihn an, wirklich an, ohne den Schleier der Höflichkeit, der Distanz, der Verstellung. Der alte Richter hatte die Augen geschlossen, und in seinem Gesicht lag etwas, das wie Trauer aussah, wie Reue, wie die Last von etwas, das er nicht ablegen konnte.
+Er ging nicht zur verrotteten Kiste. Stattdessen trat er an ein niedriges Regal, zog eine schmale, mit ungegerbtem Leder umwickelte Mappe hervor und legte sie auf das Pult. Die Schnüre waren brüchig, das Siegelwachs gesprungen.
 
-„Ich hätte das Urteil verweigern können", sagte Shigi. Die Stimme war leise, fast ein Flüstern, als würde er mit sich selbst sprechen, mit dem Richter, der er einmal gewesen war, mit dem Gesetz, das er verteidigt hatte. „Ich hätte auf das fehlende Protokoll bestehen können. Ich hätte auf die Vorlage der Zeugenaussagen bestehen können. Ich hätte Zeit gewinnen können, Tage, Wochen, Monate, die sie vielleicht gerettet hätten, die vielleicht nicht gereicht hätten, die nie gereicht hätten, weil Güyük entschlossen war, sie sterben zu sehen, und weil er der Khan war, und weil ich der Richter war, und weil das Gesetz in dieser Reihenfolge funktioniert."
+„Seht es Euch an“, sagte Shigi leise. „Wenn Ihr wissen wollt, was Ihr retten wollt, dann schaut hin.“
 
-Seine Stimme brach ab. Der Raum war still, bis auf das schwache Knistern der Lampe, bis auf das ferne Geräusch der Zeltstadt, das durch die Ritzen drang.
+Juvaini trat an den Tisch. Seine Finger zitterten, als er die Riemen löste. Das Papier im Inneren war kein kostbares Gewebe aus Samarkand; es war das raue, graue Zeug der kaiserlichen Kanzlei, beschrieben mit hastigen, harten Schriftzügen in uigurischer Schrift, durchsetzt mit Randnotizen auf Mongolisch.
 
-„Ich habe ihr Urteil gesiegelt", fuhr er fort, leiser jetzt, die Worte kaum hörbar. „Aber das war nicht das Schlimmste. Das Schlimmste war, dass ich wusste, was ich tat. Dass ich wusste, dass die Anklage auf Lügen beruhte. Dass ich wusste, dass das Geständnis erpresst war. Dass ich wusste, dass die Zeugen bestochen waren. Dass ich wusste, dass ich sie tötete, für eine Wahrheit, die nicht existierte, für eine Schuld, die sie nicht begangen hatte." Er öffnete die Augen, und sie waren tränenleer, trocken, ausgebrannt. „Und ich tat es trotzdem."
+Es waren die Vernehmungsakten vom Herbst 1247.
 
-Juvaini stand da und hörte zu. Er hörte zu, wie er die ganze Geschichte hörte, die er bereits kannte, die er bereits in Fragmenten gehört hatte, die er bereits in seinen Alpträumen durchlebt hatte, und er spürte, wie die Wut in ihm aufstieg, die Wut, die er seit Jahren unterdrückt hatte, die Wut, die er in den Westen getragen hatte, die Wut, die er in Merw, Buchara, Samarkand eingeschlossen hatte, in die Zahlen, die er korrigierte, in die Briefe, die er schrieb, in die Register, die er führte, die Wut, die er nicht fühlen durfte, weil er sie nicht fühlen konnte, weil er sie nicht fühlen wollte, weil er sie nicht fühlen durfte, weil wenn er sie fühlte, würde er zerbrechen, würde er aufhören zu schreiben, würde er aufhören zu leben, würde er aufhören zu sein, der er war, der er geworden war, der er sein musste, um zu überleben.
+Juvainis Augen glitten über die Zeilen. *Gegen die Perserin Fatima, vordem Sklavin, nachmalig Kanzleiführerin der verstorbenen Regentin.* Er las die Fragen – kalt, formelhaft, konstruiert, um ein vorherbestimmtes Urteil zu stützen. Ködens Krankheit. Die Zauberzeichen im Sattelzeug. Die Flüche am Flusslauf.
 
-Und dann spürte er nichts.
+Dann stockte sein Atem.
 
-Nichts außer einer großen, leeren Stille, die ihn ausfüllte, die ihn verschluckte, die ihn zu einem Teil der Stille machte, die zwischen den Akten lag, zwischen den Jahren, zwischen den Toten, die in den Registern standen, die er selbst geschrieben hatte.
+Auf dem dritten Bogen fehlte der gesamte Mittelteil. Dort, wo nach kaiserlichem Recht das Protokoll der Giftbefragung hätte stehen müssen – die Fragen nach Ögedeis letzter Nacht, nach dem Wein, nach den Schalen des Mundschenks –, klaffte eine gähnende Leere. Drei Zeilen waren mit dickem Ruß überstrichen worden, unleserlich gemacht mit einer Wucht, die das Papier an einer Stelle fast durchstoßen hatte.
 
-„Die Akten", sagte er. Die Stimme war klar, deutlich, die Stimme eines Schreibers, der zur Sache kam. „Ich brauche sie."
+Darunter stand ihr Geständnis.
 
-Shigi sah ihn an, lange, forschend, als wüsste er nicht, was er sehen würde, als wüsste er nicht, ob der Mann vor ihm der Schreiber war, der er zu sein schien, oder etwas anderes, etwas Gefährlicheres, etwas, das er noch nicht gesehen hatte.
+Es war nicht ihre Handschrift. Ein Kanzlist hatte es niedergeschrieben, gleichförmig und gefühllos. Doch ganz unten, am Fuß der Seite, befand sich ein einzelnes Zeichen. Fatimas Namenszug auf Persisch. Die Tinte war verwischt, die Linien zittrig, verzerrt von gebrochenen Fingern. Der letzte Abstrich endete in einem dünnen, kläglichen Strich, als wäre die Hand auf das Holz geschlagen worden.
 
-„Warum?"
+Juvaini starrte auf diesen Strich.
 
-Juvaini zögerte. Die Frage war einfach, und doch gab es keine einfache Antwort. Er hätte sagen können: Weil ich sie brauche, um die Geschichte zu schreiben. Er hätte sagen können: Weil sie das Einzige sind, was von ihr übrig ist. Er hätte sagen können: Weil ich wissen will, was passiert ist, weil ich verstehen will, warum ich nicht hier war, warum ich sie nicht retten konnte, warum ich nichts tun konnte, während sie starb.
+Die Welt um ihn her schrumpfte zusammen auf dieses verletzte Stück Papier. Er sah ihre Finger vor sich, wie sie einst das Bambusrohr gehalten hatten, ruhig, präzise, mit jener unendlichen Geduld, die sie ihm beigebracht hatte. Er erinnerte sich an das Klopfen ihres Herzens in jener Sommernacht, als sie ihm zum ersten Mal gestattet hatte, ihre Wange zu berühren – kühl wie Quellwasser, während draußen die Rosse der Fürsten durch das Lager stampften.
 
-Aber er sagte nichts von alledem.
+Sie hatte geschwiegen. Sie hatte die absurde Schande der Hexerei auf sich genommen, hatte sich als Zauberin verdammen und in Filz nähen lassen, nur um diesen einen Namen nicht zu nennen. Sie hatte den Krieg verhindert, den Güyük herbeisehnen wollte, und dafür ihr eigenes Gedächtnis der Schändung preisgegeben.
 
-„Ich weiß nicht", sagte er stattdessen. „Vielleicht, weil ich nicht will, dass ihre Wahrheit stirbt. Weil ich nicht will, dass sie stirbt, ohne dass jemand weiß, dass sie nicht schuldig war. Weil ich nicht will, dass sie stirbt, ohne dass jemand weiß, dass sie lebte."
+Und er? Er war am Leben geblieben. Er hatte Rechnungen für Arghun Aqa geprüft. Er hatte überlebt.
 
-Shigi nickte langsam. Die Bewegung war klein, fast unsichtbar, aber sie war da, und sie bedeutete etwas.
+Das Schweigen im Zelt war länger als jedes Klagelied, das ein persischer Dichter jemals verfasst hatte. Keine Träne trat in Juvainis Augen; der Schmerz war zu trocken, zu alt, als dass er sich in Wasser hätte auflösen können. Er stand da, den Kopf gebeugt, die Hände flach neben das Dokument gelegt, unfähig, den Blick von jenem zittrigen Schriftzug abzuwenden.
 
-„Das Bündel", sagte er dann, und seine Hand ruhte darauf, leicht, wie ein Gruß. „Sie hat es mir gegeben. In einem Brief, den ich erst am siebten Tag nach ihrem Tod lesen durfte. Sie wusste, dass ich ihr Urteil siegeln würde, als sie den Brief schrieb. Sie wusste, dass ich sie zum Tode verurteilen würde, und sie schrieb mir trotzdem. Sie bat mich, das Bündel zu bewahren. Sie sagte, sie vertraue mir. Sie sagte, sie wisse, dass ich die Wahrheit nicht töten würde, auch wenn ich die Trägerin der Wahrheit töten ließ."
+Shigi Qutuqu stand schräg hinter ihm. Der Richter sprach kein Wort des Trostes. Er wusste, dass Trost eine Beleidigung für diesen Schmerz gewesen wäre.
 
-Seine Stimme brach, und er verstummte.
+„Sie hat nicht geredet“, sagte Shigi schließlich, und in dem tiefen Grollen seiner Stimme lag zum ersten Mal so etwas wie Ehrfurcht. „Güyük hat ihr die Nägel aus den Händen ziehen lassen. Sie hat geschwiegen. Sie hat die Hexerei gestanden, weil sie wusste, dass man sie dafür töten, aber das Reich nicht spalten würde. Sie war klüger als wir alle, Schreiber. Und mutiger als die Fürsten, die jetzt um den Thron würfeln.“
 
-Juvaini trat näher. Er spürte die Wärme des Ofens nicht, die Kälte der Wände nicht, die Stille, die alles umgab. Er sah nur das Bündel, den Filz, das Papier darunter, die Schrift, die er kannte, die er liebte, die er für immer wiedererkennen würde, selbst wenn er blind wäre, selbst wenn er taub wäre, selbst wenn er nichts mehr hätte, nichts außer der Erinnerung an ihre Hand, die die Feder führte.
+Juvaini strich mit der Fingerspitze über den Rand des Papiers, vermied es jedoch sorgsam, die verblasste Tinte ihres Namens zu berühren. „Und Ihr habt sie verurteilt.“
 
-„Es muss in den Westen", sagte er. Die Worte kamen schnell, dringend, die Worte eines Mannes, der keine Zeit mehr hatte, der wusste, dass die Zeit knapp war, dass die Zeit sich neigte, dass die Zeit kam, um alles zu nehmen, was noch übrig war. „Dort liest es niemand. Die Schreiber dort kennen keine persischen Gedichte. Sie kennen keine Geständnisse, keine erpressten Unterschriften, keine toten Frauen, die in Zisternen starben. Das Bündel ist dort sicher."
+„Ich habe die Form gewahrt“, erwiderte Shigi unerbittlich. „Hätte ich es nicht getan, lägen ihre Knochen heute verstreut auf den Steinen von Sira Ordu, von Hunden gefressen, und kein Mensch wüsste mehr, dass sie je geatmet hat. Das Bündel existiert, Juvaini. Weil ich mein Siegel unter diese Schande gesetzt habe.“
 
-Shigi schüttelte den Kopf. Die Bewegung war langsam, bedächtig, die Bewegung eines Mannes, der genau wusste, was er tat, der es sich genau überlegt hatte, der keine Zweifel mehr hatte.
+Juvaini schloss die Mappe. Das trockene Klappen des Leders klang wie das Schließen einer Grabplatte. Er band die brüchigen Riemen wieder fest, langsam, Knoten für Knoten.
 
-„Hier ist es tot", sagte er leise. „Tot ist sicherer als fern. Ich kenne jeden Schacht in dieser Kanzlei, jeden Spalt, jede Diele, die locker ist, jedes Loch, in das eine Rolle passt. Ich kenne die Wachen, die Schreiber, die Boten, die Diener. Ich weiß, wer spricht, und ich weiß, wer nicht spricht. Hier ist es sicher."
+„Wir können es jetzt nicht wegbringen“, sagte Juvaini leise. Seine Stimme klang nun anders: nicht mehr zornig, nicht mehr hitzig, sondern fest, von einer eisernen, kalten Entschlossenheit durchdrungen. „Die Straßen nach Westen sind von Toluis Reitern besetzt. Wenn Möngke zum Khagan ausgerufen wird, wird jeder Reisende gefilzt. Es muss hier bleiben. Noch.“
 
-Juvaini spürte den Widerspruch in der Brust, heiß, drängend, der Wunsch, den Westen zu erreichen, die Ferne, die Leere, die das Bündel verbergen würde, die es vergessen machen würde, die es unlesbar machen würde, für immer, für niemanden, außer ihn.
+Shigi nickte kaum merklich. „Es liegt an einem Ort, den kein Schreiber Toluis jemals beachten wird. Unter den toten Bittschriften jener, deren Geschlechter ausgelöscht sind.“
 
-„Und Güyük?", fragte er. Die Stimme war scharf, schärfer als beabsichtigt. „Wenn er die Kanzlei durchsuchen lässt? Wenn er die Akten aus 1246 und 1247 liquidieren will?"
+„Aber es bleibt nicht für immer dort.“ Juvaini sah den Richter an. Der Blick, den die beiden Männer tauschten, war frei von Täuschung. Sie wussten beide, wer sie waren: zwei Überlebende, beschmiert von der Schuld ihres Dienstes, verbunden durch das Blut einer Frau, die sie auf unterschiedliche Weise verraten und geliebt hatten. „Es wird der Tag kommen, an dem Karakorum fällt oder seine Herren wechseln. Die Zeit der Khane währt nicht ewig. Und wenn dieser Tag kommt, werde ich ihr Wort holen.“
 
-„Güyük ist tot."
+„Wenn Ihr dann noch lebt, Schreiber.“
 
-Juvaini erstarrte. Die Worte trafen ihn wie ein Schlag, wie ein Schlag, den er nicht erwartet hatte, der ihn unvorbereitet traf, der ihn mitten in der Bewegung stoppte.
+„Wenn ich lebe.“
 
-„Wann?"
+Juvaini nahm das Steuerregister Arghun Aqas vom Rand des Tisches und legte es genau in die Mitte des Pultes, dorthin, wo das kaiserliche Siegel aufgedrückt werden musste. Es war die vollendete Rückkehr zur Pflicht, die Maske des unbeteiligten Beamten, die wieder über sein Gesicht glitt.
 
-„Vor drei Monden. Auf dem Marsch nach Westen. Er ist gestorben, wie sein Vater starb, plötzlich, mitten in der Nacht, ohne Warnung, ohne Zeugen." Shigi sah ihn an, und in seinen Augen lag etwas, das wie Wissen aussah, wie das Wissen um Dinge, die nicht geschrieben standen, die nicht geschrieben werden durften, die nie geschrieben werden würden. „Die Ärzte sagen, sein Herz. Der Hof sagt, sein Fluch. Batu sagt, seine Zeit."
+Er verneigte sich knapp. „Ich werde in drei Tagen zur kaiserlichen Audienz reisen, Herr Richter. Die Huldigungsschrift ist vorbereitet. Der Name des Khagans wird eingesetzt, sobald die Schamanen das Feuer befragt haben.“
 
-Die Stille war voll, drückend, die Stille eines Raumes, in dem die Toten sprachen, in dem die Toten lebten, in dem die Toten warteten, um die Geschichte zu erzählen, die niemand hören wollte.
+Er wandte sich um und ging mit festen Schritten auf den Ausgang der Jurte zu. Der dicke Filzvorhang schwankte leicht im Zugluftstrom.
 
-„Und die Regentschaft?", fragte Juvaini. Die Stimme war flach, leer, die Stimme eines Schreibers, der die Antwort bereits kannte, der sie bereits in den Zahlen gesehen hatte, in den Listen der Toten, in den Chroniken der Kanzlei, die er nicht gelesen hatte, die er nicht lesen musste, die er nicht lesen durfte.
+Als seine Hand bereits nach dem Saum griff, erklang Shigis Stimme noch einmal.
 
-„Oghul Qaimish, die Witwe. Sie regiert, wie Töregene regierte, aber ohne Töregenes Fähigkeit. Die Kanzlei sortiert sich neu. Die alten Schreiber kehren zurück. Die verbannten Gouverneure schicken Briefe. Die Prinzen sammeln sich im Osten: Möngke, Kublai, Hülegü, Ariq Böke. Sie warten."
+Sie war leise, fast beiläufig, ohne dass der alte Mann den Blick vom Pult gehoben hätte. Er sah auf die geschlossenen Steuerlisten, als spräche er zu dem Holz des Tisches.
 
-„Auf was?“
+„Es gibt einen Brief.“
 
-„Auf den nächsten Khagan. Auf den Krieg, der kommen wird. Auf das Ende von allem, was wir kennen."
+Juvaini hielt inne. Sein Rücken blieb dem Richter zugewandt.
 
-Juvaini stand da und sah den alten Richter an, den Mann, der das Todesurteil gesiegelt hatte, der den Brief sieben Tage lang ungeöffnet gelassen hatte, der das Bündel bewahrt hatte, der die Akten verwaltete, der die Wahrheit kannte, und er wusste, dass die Zeit ändern würde, dass die Zeit fordern würde, dass die Zeit nehmen würde, was noch nicht genommen war.
+„Nach der Übergabe“, fuhr Shigi fort, und seine Mühlsteinstimme war kaum mehr als ein Flüstern im Pfeifen des Windes. „Sie hat im Kerker geschrieben. In der letzten Nacht vor dem Fluss. Ein Bote brachte ihn mir, als das Urteil schon vollstreckt war. Er ist versiegelt. Eingenäht in den Filz.“
 
-„Ich nehme die Akten", sagte er. Die Stimme war fest, fest wie die Entscheidung, die er getroffen hatte, fest wie die Jahre, die vor ihm lagen, fest wie die Pflicht, die er auf sich nahm. „Ich nehme die Akten, und ich bewahre sie in der Kanzlei von Arghun Aqa. Wenn die Zeit kommt, wenn der neue Khagan die Kanzleien säubert, wenn die alten Schreiber sterben, wenn die Rollen verbrannt werden, wenn alles verloren ist, werden die Akten noch da sein. Sie werden überleben."
+Juvainis Atem stockte. Seine Hand am Vorhang schloss sich so fest um den Filzstoff, dass seine Knöchel weiß hervortraten.
 
-„Und das Bündel?“
+„Er ist an niemanden adressiert“, sagte Shigi. „Oder an eine, die schon lange tot ist. Aber ich habe das Siegel nicht gebrochen.“
 
-Juvaini sah das Bündel an, den Filz, das Papier, die Schrift, die er kannte. Er spürte die Schwere in der Luft, die Schwere einer Entscheidung, die er nicht treffen konnte, die er nicht treffen durfte, die er nicht treffen musste, die die Zeit für ihn treffen würde.
+Ein langes Schweigen folgte, in dem nur der Frost an den Außenwänden des Zeltes knisterte. Der Same war gelegt; der Richter hatte das letzte Geheimnis preisgegeben, ohne es preiszugeben, hatte die Verpflichtung übergeben, ohne ein Versprechen einzufordern.
 
-„Das Bündel bleibt", sagte er. Die Worte kamen langsam, jedes Wort ein Abschied. „Es bleibt hier, bei Euch, zwischen den toten Akten, wo es sicher ist. Bis jemand kommt, der es zu lesen verdient. Bis jemand kommt, der es zu schätzen weiß. Bis die Zeit reif ist."
+Juvaini drehte sich nicht um. Er brauchte Shigis Gesicht nicht zu sehen, um zu wissen, was in den Augen des alten Tataren lag: das gleiche unerbittliche Warten, das auch ihn von nun an begleiten würde, durch alle Kanzleien, durch alle Herrscherwechsel, bis ans Ende seiner Tage.
 
-Shigi sah ihn an, und in seinen Augen lag etwas, das wie Dankbarkeit aussah, wie Erleichterung, wie das Wissen, dass er sein Schweigen nicht allein tragen musste.
+„Ich werde da sein“, sagte Juvaini leise.
 
-„Es gibt einen Brief", sagte er. Die Stimme war leise, fast ein Flüstern, als fürchtete er, die Wände könnten lauschen. „Nach der Übergabe. Versiegelt."
+Er stieß den Vorhang auf und trat hinaus in die Kälte. Der Wind schlug ihm mit eisiger Wucht ins Gesicht, riss an den Säumen seines Mantels und wirbelte trockenen Schnee über den gefrorenen Boden von Karakorum. Juvaini zog die Kapuze tief in die Stirn, stemmte sich gegen den Sturm und ging durch das graue Licht der Steppe davon.
 
-Juvaini hob den Kopf. Die Frage lag in seinen Augen, aber er stellte sie nicht.
-
-„Er liegt bei den Akten", fuhr Shigi fort. „Ich wusste nicht, wohin damit. Ich wusste nicht, ob ich ihn öffnen sollte, ob ich ihn vernichten sollte, ob ich ihn bewahren sollte. Ich ließ ihn liegen, zwischen den Jahren, zwischen den Daten, zwischen den Unterschriften, die ich selbst gesetzt hatte."
-
-„Was steht darin?“
-
-„Ich weiß es nicht. Ich habe es nicht gelesen."
-
-Die Stille zog sich, die Stille eines Raumes, in dem die Worte zwischen ihnen hingen, unausgesprochen, ungewiss, unberührt.
-
-Juvaini spürte die Schwere des Augenblicks, die Schwere der Entscheidung, die vor ihm lag, die Schwere des Briefes, den er nicht sehen durfte, den er nicht lesen durfte, den er nicht öffnen durfte, weil die Zeit noch nicht reif war, weil die Zeit noch nicht gekommen war, weil die Zeit noch fordern würde, was sie fordern musste.
-
-„Hebt ihn auf", sagte er. Die Stimme war leise, ein Flüstern, das kaum hörbar war, das kaum etwas war, das kaum etwas bedeutete, das alles bedeutete. „Hebt ihn auf für den, der die Wahrheit sucht. Für den, der sie liest, wenn die Zeit gekommen ist. Für den, der sie weiterträgt, wenn wir nicht mehr sind."
-
-Shigi nickte. Die Bewegung war langsam, die letzte Bewegung eines Mannes, der die Entscheidung getroffen hatte, der den Weg gewählt hatte, der die Konsequenzen trug.
-
-„Ich werde die Akten aus 1246 und 1247 für Euch bereitlegen", sagte er. Die Stimme war wieder flach, neutral, die Stimme eines Richters, der zur Tagesordnung überging. „Kommt morgen in die Kanzlei. Ich werde sie Euch aushändigen."
-
-Juvaini verbeugte sich knapp. Die Bewegung war formell, die letzte Bewegung eines Schreibers, der wusste, dass er gehen musste, der wusste, dass er nicht bleiben durfte, der wusste, dass die Zeit ihn forderte, der wusste, dass er gehen musste, um zu überleben, um die Wahrheit zu bewahren, um weiterzuschreiben, ohne aufzuhören, ohne zurückzublicken, ohne den Schmerz zu spüren, der in der Luft lag, der in den Worten lag, der in dem Bündel lag, das in der Ecke wartete, das wartete, das wartete, auf den Tag, an dem jemand kommen würde, der es öffnete, der es las, der es verstand, der es bewahrte.
-
-„Richter Qutuqu", sagte er. Die Stimme war ruhig, ruhiger als er erwartet hatte, ruhiger als er gefühlt hatte. „Danke."
-
-Shigi antwortete nicht. Er stand da, die Hände auf dem Bündel, die Finger gespreizt, als hielte er etwas fest, das ihm gehörte, das ihm nicht gehörte, das er nicht loslassen konnte, das er nicht loslassen durfte, das er bewahren würde, bis zum Ende, bis zu dem Tag, an dem er selbst gehen würde, an dem er selbst nichts mehr sein würde, außer einem Namen, einem Datum, einem Siegel, und dem Bündel, das er bewahrt hatte, für die, die kommen würden, für die, die lesen würden, für die, die verstehen würden.
-
-Juvaini ging.
-
-Die Kälte schlug ihm entgegen, als er die Stube verließ, die Kälte des späten Nachmittags, die Kälte der Steppe, die Kälte der Jahre, die vor ihm lagen. Er ging durch die Gänge der Kanzlei, an den Wachen vorbei, an den Schreibern, die ihn ansahen, die ihn nicht erkannten, die ihn vergessen würden, sobald er verschwunden war.
-
-Er spürte nichts.
-
-Nichts außer der Leere in der Brust, der Leere, die er trug, der Leere, die er füllen würde mit Zahlen, mit Briefen, mit Registern, mit den Listen der Toten, mit den Listen der Lebenden, mit den Listen derer, die es nicht mehr gab.
-
-Die Sonne senkte sich über Karakorum, und die Schatten wurden länger, und die Kälte wurde tiefer, und die Stille wurde voll, und Juvaini dachte an den Brief, den Shigi bewahrte, an den Brief, der versiegelt war, der ungeöffnet war, der wartete, auf den Leser, der kommen würde, auf die Zeit, die reif war, auf die Wahrheit, die weiterleben würde.
-
-Er dachte an das Bündel in der Ecke, zwischen den toten Akten, an den Filz, der es umhüllte, an die Schrift darunter, an ihre Hand, die die Feder führte, an ihre Stimme, die er nicht mehr hörte, an ihre Worte, die er nicht mehr las, an ihre Liebe, die er nicht mehr fühlte, die er nicht mehr fühlen durfte, die er bewahren würde, in den Zahlen, in den Briefen, in den Registern, in den Listen der Toten, in den Listen der Lebenden, in den Listen derer, die es nicht mehr gab.
-
-Er schrieb weiter.
-
-Ohne aufzuhören, ohne zurückzublicken, ohne den Schmerz zu spüren, der in der Luft lag, der in den Worten lag, der in dem Bündel lag, das wartete, das wartete, das wartete, auf den Tag, an dem die Zeit kommen würde, an dem die Zeit fordern würde, an dem die Zeit nehmen würde, was noch nicht genommen war.
-
-Der Morgen kam mit einem Himmel aus hellem, kaltem Grau, dem ersten Licht, das ohne Farbe über der Zeltstadt lag. Juvaini stand in der Kanzlei, vor den Regalen, die Shigi ihm geöffnet hatte, und blätterte durch die Akten von 1247, die der alte Richter ihm an diesem Morgen ausgehändigt hatte.
-
-Die Blätter waren vergilbt, die Ränder eingerissen, die Schrift an manchen Stellen verwischt. Er las das Vernehmungsprotokoll vom ersten Tag, die Fragen und die Antworten, die Leere zwischen den Zeilen, die keine Fragen mehr zuließ. Er las die Unterschrift, die erpresst war, die zittrig war, die nicht ihre war, die die letzte war, die die einzige war, die die war, die er bewahren würde, für immer, für niemanden, für die Zeit, die kommen würde.
-
-Er las und las und las, stundenlang, als die Sonne höher stieg, als die Schatten kürzer wurden, als die Kälte nachließ, als die Stille, die ihn umgab, voller wurde, voller als die Worte, die er las, voller als die Jahre, die er getragen hatte, voller als die Leere, die in ihm war.
-
-Am späten Nachmittag schloss er die letzte Akte, legte sie zurück in das Regal, und stand auf. Die Bewegung war langsam, vorsichtig, die Bewegung eines Mannes, der wusste, dass die Wahrheit, die er gelesen hatte, nicht geändert werden konnte, nicht gelöscht werden konnte, nicht ungeschehen gemacht werden konnte.
-
-Er trat an die Tür, die zur Kanzlei führte, und blieb stehen, die Hand auf dem Filz, der den Eingang bedeckte.
-
-„Richter Qutuqu", die Stimme war leise, aber durch die Stille der Kanzlei drang sie bis zur Tür, die sich nicht bewegte, die sich nicht öffnete, die sich nicht schloss.
-
-„Ich werde die Unwahrheit bewahren, damit die Wahrheit eines Tages sichtbar wird."
-
-Keine Antwort.
-
-Eine Stimme, die sich nicht in den Gängen der Kanzlei verlor, nicht im Lärm der Zeltstadt, nicht im Wind, der von den Hügeln herüberwehte.
-
-„Ich werde das Bündel nicht anrühren", die Worte kamen heiß und auf einmal, wie eine Flut, die sich nicht zurückhalten ließ. „Ich werde es verstecken, bis die Zeit reif ist. Bis jemand kommt, der es zu lesen verdient. Bis die Leser kommen, die es zu verstehen vermögen."
-
-Stille.
-
-„Und wenn niemand kommt? Wenn die Leser nie kommen, die das Bündel zu öffnen verstehen?“
-
-Die Stimme kam von der Tür, die sich unbemerkt geöffnet hatte, die Stimme von Shigi Qutuqu, der dort stand, die Hände in den Ärmeln, das Gesicht leer, die Augen dunkel.
-
-„Wenn niemand kommt, der die Wahrheit zu verstehen vermag", sagte Juvaini, die Stimme leise, die Stimme eines Schreibers, der die Antwort wusste, der sie gewusst hatte, bevor er die Frage hörte, der sie bewahren würde, bis zum Ende, „dann wird das Bündel bleiben. Und die Wahrheit wird bleiben. Und die Welt, die sie nicht lesen kann, wird eine ärmere Welt sein, eine Welt, die ärmer ist um das, was sie hätte sein können, um das, was sie nicht geworden ist, um die Stimme der Toten, die nicht zu den Lebenden kommt."
-
-Shigi sah ihn lange an, die Stirn in Falten, der Blick abwesend und doch voller Spannung.
-
-„Dann sind wir uns einig", sagte er.
-
-Juvaini trat einen Schritt zur Seite, die Hand auf dem Filz, der den Eingang bedeckte, den er noch nicht berührt hatte, den er nicht berühren würde, bis die Zeit reif war, bis die Leser kamen, bis die Welt bereit war, die Wahrheit zu empfangen, die in dem Bündel lag, die in den Akten lag, die in den Jahren lag, die vor ihnen lagen, die kommen würden, die fordern würden, die nehmen würden, was noch nicht genommen war.
-
-„Ja", sagte er. „Wir sind uns einig."
-
-Shigi verbeugte sich knapp, die Bewegung formell und endgültig, die Bewegung eines Mannes, der wusste, dass die Zeit kommen würde, dass die Zeit fordern würde, dass die Zeit nehmen würde, was noch nicht genommen war, und der bereit war, sie kommen zu lassen.
-
-Juvaini ging.
-
-Die Kälte schlug ihm entgegen, die Kälte des späten Nachmittags, die Kälte der Steppe, die Kälte der Jahre, die vor ihm lagen. Er ging durch die Gänge der Kanzlei, an den Wachen vorbei, an den Schreibern, die ihn ansahen, die ihn nicht erkannten, die ihn vergessen würden, sobald er verschwunden war.
-
-Die Sonne senkte sich über Karakorum, und die Schatten wurden länger, und die Kälte wurde tiefer, und die Stille wurde voll, und Juvaini dachte an den Brief, den Shigi bewahrte, an den Brief, der versiegelt war, der ungeöffnet war, der wartete, auf den Leser, der kommen würde, auf die Zeit, die reif war, auf die Wahrheit, die weiterleben würde.
-
-Er dachte an das Bündel in der Ecke, zwischen den toten Akten, an den Filz, der es umhüllte, an die Schrift darunter, an ihre Hand, die die Feder führte, an ihre Stimme, die er nicht mehr hörte, an ihre Worte, die er nicht mehr las, an ihre Liebe, die er nicht mehr fühlte, die er nicht mehr fühlen durfte, die er bewahren würde, in den Zahlen, in den Briefen, in den Registern, in den Listen der Toten, in den Listen der Lebenden, in den Listen derer, die es nicht mehr gab.
-
-Er schrieb weiter.
-
-Ohne aufzuhören, ohne zurückzublicken, ohne den Schmerz zu spüren, der in der Luft lag, der in den Worten lag, der in dem Bündel lag, das wartete, das wartete, das wartete, auf den Tag, an dem die Zeit kommen würde, an dem die Zeit fordern würde, an dem die Zeit nehmen würde, was noch nicht genommen war.
-
-Der Morgen kam mit einem Himmel aus hellem, kaltem Grau, dem ersten Licht, das ohne Farbe über der Zeltstadt lag. Juvaini stand in der Kanzlei, vor den Regalen, die Shigi ihm geöffnet hatte, und blätterte durch die Akten von 1247, die der alte Richter ihm an diesem Morgen ausgehändigt hatte.
-
-Die Blätter waren vergilbt, die Ränder eingerissen, die Schrift an manchen Stellen verwischt. Er las das Vernehmungsprotokoll vom ersten Tag, die Fragen und die Antworten, die Leere zwischen den Zeilen, die keine Fragen mehr zuließ. Er las die Unterschrift, die erpresst war, die zittrig war, die nicht ihre war, die die letzte war, die die einzige war, die die war, die er bewahren würde, für immer, für niemanden, für die Zeit, die kommen würde.
-
-Er las und las und las, stundenlang, als die Sonne höher stieg, als die Schatten kürzer wurden, als die Kälte nachließ, als die Stille, die ihn umgab, voller wurde, voller als die Worte, die er las, voller als die Jahre, die er getragen hatte, voller als die Leere, die in ihm war.
-
-Am späten Nachmittag schloss er die letzte Akte, legte sie zurück in das Regal, und stand auf. Die Bewegung war langsam, vorsichtig, die Bewegung eines Mannes, der wusste, dass die Wahrheit, die er gelesen hatte, nicht geändert werden konnte, nicht gelöscht werden konnte, nicht ungeschehen gemacht werden konnte.
-
-Er trat an die Tür, die zur Kanzlei führte, und blieb stehen, die Hand auf dem Filz, der den Eingang bedeckte.
-
-„Richter Qutuqu", sagte er leise, die Stimme ein Flüstern, das kaum hörbar war, das kaum etwas war, das kaum etwas bedeutete, das alles bedeutete. „Ich werde die Akten bewahren. Ich werde die Wahrheit bewahren. Ich werde sie weitertragen, bis zum Ende, bis nichts mehr bleibt, außer Papier, außer Worten, außer ihr, außer uns, außer der Erinnerung an das, was wir verloren haben."
-
-Er wartete.
-
-Keine Antwort.
-
-Die Stille blieb, die Stille eines Raumes, in dem die Toten sprachen, in dem die Toten lebten, in dem die Toten warteten, um die Geschichte zu erzählen, die niemand hören wollte.
-
-Juvaini öffnete den Filz, trat hinaus in die Kälte, in die Dämmerung, in die Jahre, die vor ihm lagen, in die Jahre, die er tragen würde, in die Jahre, die er fordern würde, in die Jahre, die er nehmen würde, was noch nicht genommen war.
-
-Er ging.
-
-Und hinter ihm blieb die Kanzlei zurück, still, kalt, voller Akten, voller Jahre, voller Wahrheiten, die warteten, auf den Tag, an dem sie gelesen wurden, an dem sie verstanden wurden, an dem sie weitergingen, in die nächste Hand, in die nächste Generation, in die nächste Zeit, die kommen würde, um alles zu fordern, was noch nicht gefordert war.
-
-Das Bündel lag in der Ecke, zwischen den toten Akten, und wartete.
-
----

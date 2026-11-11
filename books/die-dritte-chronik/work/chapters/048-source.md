@@ -5,216 +5,103 @@
 
 ---
 
-Kalak umrundete einen Felsvorsprung und blieb stehen. Der Himmel brannte in einem Rot, das er nie zuvor gesehen hatte – nicht das Rot der Dämmerung, nicht das Rot des Sturms, sondern das Rot einer Stadt, die seit drei Tagen in Flammen stand.
+Der Gestank von verbranntem Hammelfett, Zedernholz und nassem Putz kroch durch die Gassen von Bagdad, so dicht, dass man ihn wie Asche auf der Zunge schmeckte. Am Ufer des Tigris trieben die Trümmer der Stadt stromabwärts, gebrochene Dachsparren, zerrissene Schilfmatten und zahllose Buchseiten, deren Tinte sich im grauen Wasser zu dunklen Schleiern auflöste, als weinte der Fluss um den Geist einer ganzen Welt.
 
-Bagdad brannte.
+Ata-Malik Juvaini stand vor den Stufen seines Hauses im Viertel der Kanzleischreiber. Er war zweiunddreißig Jahre alt, ein Mann in der vollen Kraft seiner Jahre, doch in seinen Gliedern nistete die Schwere eines Greises. Hinter ihm fauchte das Feuer im Dachstuhl des Nachbargebäudes. Funken stoben wie glühende Hirse in den nachtschwarzen Himmel, den die Mongolenreiter mit ihren Lanzen und Standarten umstellt hielten. 
 
-Er stand auf einem Hügel östlich der Stadt, wo die Rauchsäulen sich zu einer einzigen schwarzen Wolke vermischten, die das Sonnenlicht verschlang. Die Luft war heiß und schwer von Asche, die wie Schnee auf die Ruinen fiel. Unter ihm, im Tal des Tigris, lag die zerstörte Metropole des Kalifats – einst die größte Stadt der Welt, einst das Herz des Wissens und der Macht, nun ein Friedhof aus Stein und verbrannten Büchern.
+Zwei persische Knechte wankten aus der rauchgeschwängerten Halle des Hauses. Sie keuchten unter dem Gewicht einer schweren Truhe aus kaukasischem Walnussholz, die mit breiten Bändern aus geschmiedetem Eisen beschlagen war. Das Holz war dunkel geölt, stumpf glänzend im Schein der Feuersbrunst.
 
-Juvaini ritt durch das Osttor, das als eines der wenigen noch stand.
+„Setzt sie ab“, befahl Juvaini leise. Seine Stimme schnitt ruhig durch das Brüllen der Flammen und die fernen Schreie vom Ufer.
 
-Sein Pferd stolperte über Trümmer, die den Weg versperrten. Er zwang es weiter, zwang es durch Rauch und Hitze, durch die Schreie der Verwundeten und das Stöhnen der Sterbenden. Die Straßen waren übersät mit Leichen – Männer, Frauen, Kinder, alle in derselben Haltung gefallen, als hätte der Tod sie im Laufen eingeholt.
+Die Knechte ließen das Holz auf das Straßenpflaster sinken. Es klang hohl, fast wie ein dumpfer Trommelschlag im gefrorenen Lehm.
 
-Er hatte solche Bilder gesehen. In Chorasan, als Kind. In Merw, als junger Schreiber. In Nischapur, in Herat, in Balkh. Immer dieselbe Szenerie, immer dieselbe Stille nach dem Fall, immer derselbe Geruch von brennendem Fleisch und byzantinischem Rauch.
+Aus der Gasse bog ein Trupp berittener Krieger. An ihrer Spitze ritt ein junger Hauptmann der Garde Hülegüs, ein Hazar-Offizier mit mongolischen Wangenknochen und einem Deel aus schwerem, blutbeflecktem Filz, der den Schweiß der Pferde und den bitteren Ruß der Belagerung in sich trug. Seine Hand ruhte lässig auf dem Griff des Krummsäbels.
 
-Aber diesmal war er auf der Seite derer, die die Tore geöffnet hatten.
+Der Offizier zügelte sein Pferd. Das Tier schnaubte, weißer Dampf schoss aus seinen Nüstern in die kühle Nachtluft. Seine Augen musterten die Truhe, dann Juvaini, dessen Kanzlergewand aus feiner Seide mit Schmutz und Brandschutt bedeckt war.
 
-Juvaini zwang den Gedanken weg, drückte ihn tief hinunter in den Schacht, den er in sich trug. Er hatte gelernt, diese Gedanken wegzudrücken. Zwanzig Jahre am mongolischen Hof hatten ihn gelehrt, dass die Wahrheit der Feder nichts galt, wenn das Schwert sprach.
+„Was ist darin?“, fragte der junge Offizier auf Mongolisch, hart und ohne Umschweife. Seine Stimme kannte nur Befehl und Ausführung.
 
-Er ritt weiter.
+Juvaini sah ihm geradewegs in die Augen. Nicht trotzig, nicht mit gesenktem Blick, sondern mit der ruhigen, unnahbaren Würde eines Dieners, der den Wert der Dinge kennt, die Fürsten vernichten. Er dachte an die Steppe, an den Wind über dem Orchon, an die Hände von Shigi Qutuqu und an eine Frau, deren Atem vor sechzehn Jahren im Eiswasser erstickt war.
 
-Das Viertel der Hanbaliten lag am westlichen Rand der Altstadt, nahe den Basaren, die seit zwei Tagen brannten. Juvaini erkannte die Straße an den Resten eines Wasserbrunnens, den er vor Jahren skizziert hatte – für ein Buch, das er nie schreiben würde, über die Stadt, die er nie besitzen würde. Das Haus stand noch. Die Mauern waren geschwärzt, das Dach teilweise eingestürzt, aber das Gebäude selbst hielt.
+„Steuerregister“, antwortete Juvaini. Seine Aussprache des Mongolischen war makellos, geschliffen an den Höfen von Karakorum. „Abgabenlisten der Provinzen Fars und Chusistan für den erhabenen Ilchan Hülegü. Nichts, womit ein Krieger Ehre erringt. Aber alles, womit sein Herrscher die nächste Kampagne bezahlt.“
 
-Ein junger mongolischer Offizier wartete vor dem Tor. Tümen. Derselbe, der ihn am ersten Tag durch die Stadt geführt hatte, als der Sturm noch nicht gewütet hatte, als Bagdad noch eine Stadt und nicht ein Grab war.
+Der Offizier starrte auf das schwere Holz. Steuerregister. Die Langeweile der Kanzleien. Die spröde Arithmetik von Korn, Silber und Schafherden, die kein Schwert fürchten musste, weil kein Krieger sie je lesen wollte. Er spuckte seitlich aus, zog die Zügel an und gab seinem Pferd die Sporen.
 
-„Herr Juvaini“, sagte Tümen und salutierte mit der flachen Hand. „Das Archiv der Hanbaliten. Die Steuerregister sind gesichert, die Landtitel verpackt. Die Kuriere warten auf Ihre Anweisung.“
+„Schaff es fort aus dem Feuer, Schreiber“, knurrte er im Weiterreiten. „Hülegü Khan lässt keine verbrannten Zahlen zählen.“
 
-Juvaini stieg vom Pferd, spürte die Müdigkeit in den Knochen, die Sehne des Beins, die noch immer schmerzte von den Jahren des Reitens. Er nickte, ging auf das Tor zu, blieb dann stehen.
+Die Reiter zogen weiter, das Klirren ihrer Steigbügel verlor sich im Tosen der Stadt.
 
-„Mein Haus“, sagte er. „Das Viertel der Gelehrten. Wie weit ist es?“
+Juvaini atmete aus. Der Rauch biss in seiner Lunge, doch sein Herz schlug gleichmäßig, getaktet wie der Fall von Wassertropfen in einem tiefen Schacht. 
 
-Tümen zögerte. „Es brennt, Herr. Seit gestern. Die Flammen haben die Bibliotheken erreicht. Die Kuppel der Moschee ist eingestürzt. Ich fürchte…“
+Es war die letzte Lüge des Buches. Und sie schützte die einzige Wahrheit, die den Einsturz dreier Reiche überdauert hatte.
 
-„Ich brauche zwei Männer“, unterbrach Juvaini. „Eine Stunde. Nicht länger. Sag dem Hauptmann, ich sichere die Steuerregister meiner eigenen Provinz. Die Schreine des Kalifats. Die Dokumente des Waqf.
+Er wandte sich an die Knechte. „Geht. Sucht eure Familien am Nordtor. Ich nehme die Truhe selbst.“
 
-Tümen sah ihn an, als wolle er etwas sagen – etwas über die Sinnlosigkeit, über die Gefahr, über die Befehle Hülegüs, die jede Rettung von Privatbesitz verboten. Dann schwieg er. Er kannte Juvaini seit Wochen. Er wusste, dass dieser Perser anders war als die anderen Schreiber. Dass er Dinge sah, die andere nicht sahen.
+Die Männer zögerten nicht; in einer brennenden Stadt fragt niemand zweimal nach der Freiheit. Sie flohen in die rauchverhangene Gasse.
 
-„Zwei Männer“, sagte Tümen und wandte sich um. „Eine Stunde. Aber wenn der Wind dreht, müssen wir zurück. Habt Ihr verstanden?“
+Juvaini bückte sich. Seine Muskeln spannten sich unter dem Seidenstoff, als er die eiserne Handhabe griff. Das Gewicht riss an seinen Schultern, aber er stemmte die Truhe hoch, presste sie an seine Brust. Durch den dicken Mantel spürte er die Kälte des Holzes, und darunter – tiefer, wie ein verborgener Puls – das Bündel, das er seit dem Orchon-Tal bei sich trug.
 
-„Ich verstehe“, sagte Juvaini.
+Er ging nicht zur Kanzlei des Khans. Er ging nicht zu den Zelten des Siegers, wo Hülegü, der Sohn Sorkaktanis, bereits den Thron des Kalifen mit Teppichen belegen ließ. Er schritt durch eine schmale, gewölbte Gasse, vorbei an eingestürzten Lehmziegelmauern, zu einem unscheinbaren, halb verfallenen Gelehrtenhaus nahe der alten Mustansiriyya-Medrese. Die Tür stand offen, zerschlagen von Plünderern, die drinnen nichts als staubige Regale und unbrauchbare Streitschriften über das Wesen der Engel gefunden hatten.
 
-Sie ritten durch die brennenden Straßen.
+Er stieg die Steinstufen hinab. Stufe für Stufe, tiefer in den Bauch der Erde.
 
-Juvaini lenkte sein Pferd durch Gassen, die er auswendig kannte – aus den Karten der Eroberer, aus den Berichten der Gelehrten, aus den Träumen eines jungen Mannes, der einmal gedacht hatte, er könne die Welt durch Worte verändern. Die Stadt brannte um ihn herum. Die Bibliotheken brannten. Die Moscheen brannten. Die Paläste brannten.
+Hier unten, im Kellergewölbe, schwieg der Brand. Die Luft war kühl, dick von uraltem Kalkstaub und dem süßlichen Geruch von moderndem Pergament. Eine einzelne Butterlampe brannte auf einem Mauervorsprung, vergessen von jenen, die geflohen oder gestorben waren. Ihr gelblicher Docht warf flackernde Schatten an die Decke, die von feinen Wurzeln durchzogen war.
 
-Und er ritt hindurch wie ein Schatten, wie ein Geist, der nicht wusste, dass er schon tot war.
+Juvaini stellte die Truhe auf den gestampften Lehmboden. Der Schall verhallte im feuchten Gemäuer.
 
-Sein Haus stand noch.
+Er kniete nieder. Seine Knie schmerzten von der Härte des Bodens. Mit langsamen, bedächtigen Bewegungen zog er ein kurzes Messer aus seinem Gürtel und löste den Riegel. Das Holz knarrte beim Öffnen, ein Laut wie ein fernes Seufzen.
 
-Die Fassade war geschwärzt, aber die Tür war unbeschädigt. Der Innenhof war voller Asche, aber die Bäume standen – die Zypressen, die er vor Jahren gepflanzt hatte, als er zum ersten Mal in diese Stadt gekommen war. Sie waren verbrannt, verkohlt, aber sie standen.
+Im Inneren lag kein Gold, lagen keine Juwelen, die ein Soldat hätte plündern können. Dort lag ein schweres Bündel aus grauem, verfilztem Wollstoff, gebunden mit festen Hanfschnüren, an deren Enden der getrocknete Siegellack wie geronnenes Blut haftete. 
 
-Juvaini stieg ab, befahl den Männern, am Tor zu warten, und ging hinein.
+Juvaini berührte das Siegel mit der Fingerspitze. Es war der Abdruck von Shigir Qutuqus Richterzeichen, die mongolische Siegelschrift, die einst über Leben und Tod von Tausendschaften entschieden hatte. Der Lack war rissig geworden auf dem langen Ritt durch die Sandmeere von Chorasan, über die Pässe des Elburs-Gebirges, doch er hielt. Nichts war gebrochen.
 
-Das Innere war zerstört. Die Möbel waren umgestürzt, die Bücher verstreut, die Teppiche verkohlt. Er ging durch die Räume wie ein Blinder, tastete sich an den Wänden entlang, suchte nach etwas, das er vor zwanzig Jahren versteckt hatte.
+Er öffnete das Bündel nicht. Er nahm nicht die Blätter heraus, die Fatima in jenen dunklen Nächten beschrieben hatte, als der Khan noch lebte und das Schicksal der Welt am seidenen Faden einer Frau hing. Er las nicht die Worte, die sie an ihre tote Schwester gerichtet hatte. Er kannte sie fast auswendig, nicht weil er sie heimlich betrachtet hätte, sondern weil der Schmerz, aus dem sie geboren waren, derselbe Schmerz war, den er jeden Tag in den Ruinen seiner eigenen Heimat Nischapur eingeatmet hatte.
 
-Die Diele im dritten Raum – unter dem Teppich, den er niemals benutzt hatte.
+Stattdessen zog er aus seinem Ärmel eine Nadel aus Knochen und einen Faden aus gepechtem Zwirn. Mit ruhigen, gleichmäßigen Stichen verstärkte er die Kanten des Filzes, nähte das Bündel fester, dichter, unzugänglicher ein. Jeder Einstich der Nadel war wie ein Verschluss gegen das Licht, gegen die Neugier der Nachwelt, gegen die Richter und die Khane, die alles besitzen wollten: das Land, das Vieh, das Fleisch der Menschen und zuletzt auch ihre Erinnerung.
 
-Er kniete nieder, drückte die Platte, spürte das Holz unter den Fingern, das Knarren, das Knacken. Die Platte löste sich, und darunter, in der Dunkelheit, lag die Truhe.
+Er fügte nichts hinzu. Kein einziges Blatt aus seiner eigenen Feder. Keine Entschuldigung für das, was er der Welt als Geschichte verkaufen würde.
 
-Die Zedernholztruhe.
+Als der Faden zu Ende war, verknotete er ihn mit den Zähnen, strich über das raue Tuch und hob das Bündel behutsam aus der Truhe.
 
-Er zog sie heraus mit zitternden Händen. Sie war noch immer versiegelt, noch immer mit Lederriemen umwickelt, noch immer vollständig eingehüllt. Er hielt sie einen Moment lang, wie eine Reliquie, wie etwas Heiliges.
+Er wandte sich den Regalen an der Wand zu. Dort standen dicke, speckige Lederbände, vollgesogen mit Feuchtigkeit, verstaubt, von Motten zerfressen. Es waren die Bittschriften und Gnadengesuche an die Kalifen der vergangenen drei Generationen. Die Klagen von Witwen, die Beschwerden über unrechtmäßige Zölle, die Bettelbriefe von Dichtern, deren Verse längst niemand mehr sang. Akten, die man vergessen hatte, noch während jene lebten, die sie geschrieben hatten. Tote Worte, begraben unter dem Staub von sechzig Jahren Frieden, den die Reiter aus dem Osten in sieben Tagen zerschlagen hatten.
 
-Dann schob er sie unter seinen Mantel, band sie fest mit einem Seil, und verließ das Haus.
+Juvaini schob zwei der massiven Folianten beiseite. Dahinter, im finsteren Hohlraum zwischen Mauerwerk und Regal, entstand ein Spalt. 
 
-Draußen brannte die Stadt.
+Er legte Fatimas Bündel hinein. 
 
-Der junge Offizier erwartete ihn am Tor. „Herr? Ist etwas?“
+Es passte genau. Er schob die alten Gnadengesuche wieder davor, strich den Staub mit der Handkante über die Buchrücken glatt, bis kein Auge der Welt hätte erkennen können, dass hinter dem Klagen vergessener Bettler das Geheimnis eines Weltreichs verborgen lag.
 
-„Steuerregister“, sagte Juvaini. „Die letzten Steuerregister des Viertels. Sie müssen in einem gesicherten Keller deponiert werden, sofort.
+Die Methode der toten Akten. Der alte Richter in Karakorum hatte es ihn gelehrt: Die Macht sucht nach Schwertern, nach Gold und nach offenen Auflehnungen. Sie sucht niemals dort, wo die Ohnmacht ihren Nachlass verwahrt.
 
-Tümen sah die Truhe. Sie war klein, nicht größter als ein Kindersarg. Sie war mit Leder bezogen, mit Riemen verschlossen, mit einem Siegel versehen, das im fahlen Licht der Flammen fast unsichtbar war.
+Juvaini erhob sich langsam. Seine Gelenke knackten im stillen Keller.
 
-„Eine Truhe für Steuerregister?“, fragte Tümen.
+Er wusste um die Bücher der Welt. Er kannte die Chroniken, die man einst in Samarkand, in Isfahan, in den Kanzleien der Christen und der Ungläubigen lesen würde. Es gab die Chronik der Mongolen selbst, jenes geheime, rauhe Lied von Dschingis Khan, von Wölfen und Weideland, das Shigi Qutuqu mit tatarischer Geduld in der Steppe begraben hatte – die *Geheime Geschichte*, stolz und karg wie das Land, aus dem sie stammte. 
 
-„Die wichtigsten Steuerregister des gesamten Kalifats“, sagte Juvaini ruhig. „Die Tribute von Chorasan, von Fars, von Aserbaidschan. Die Eigentumsverhältnisse der Gelehrten, die jetzt unter unseren Schutz gestellt wurden. Hülegü Khan wird diese Papiere brauchen. Für den Wiederaufbau. Für die Verwaltung.
+Und es gab jene andere Chronik, die er selbst schrieb. Die offizielle, prunkvolle Geschichte des Welteroberers, die Möngke und Hülegü zufriedenstellen würde. Sein eigenes Werk, kunstvoll geflochten aus persischer Rhetorik, voll von wohlklingenden Euphemismen, in denen Morde zu Fügungen des Himmels wurden und das Ersticken einer Frau im Filzsack zu einer gerechten Strafe für Hexerei. Ein Meisterwerk des Überlebens. 
 
-Tümen sah ihn an. Er war jung, erst zwanzig Jahre alt, aber er war klug. Er wusste, dass dies nicht die ganze Wahrheit war. Aber er wusste auch, dass Juvaini für Hülegü arbeitete, dass er das Vertrauen der Eroberer hatte, dass sein Wort mehr galt als das eines einfachen Offiziers.
+Zwei dieser Chroniken kann man kaufen. 
 
-„Ihr braucht einen Keller“, sagte Tümen. „Ich kenne einen. Ein Haus im Süden der Stadt, das der Kalif selbst genutzt haben soll. Die Katakomben sind tief, die Mauern dick. Kein Feuer wird sie erreichen.
+Sie werden auf Märkten feilgeboten werden, gebunden in Ziegenleder, vergoldet an den Rändern, Gegenstand gelehrter Dispute in den Medresen und Bibliotheken künftiger Jahrhunderte. Gelehrte werden darüber streiten, welcher Khan welches Jahr regierte, wer welches Gesetz erließ und wer wem die Hand zur Treue reichte.
 
-„Zeig mir den Weg“, sagte Juvaini.
+Die dritte ist das Buch, das Sie gerade geschlossen haben.
 
-Der Keller war kalt und dunkel.
+Sie liegt hier. Im Dunkeln. Zwischen Gnadengesuchen, die kein Herrscher je erhörte.
 
-Juvaini trug die Truhe selbst die Treppe hinunter, die Stufen waren schmal, die Wände mit Ruß bedeckt. Das Haus war ein Anbau des Kalifenpalastes, ein Gebäude, das vor zwei Jahrhunderten errichtet worden war, um die seltensten Manuskripte der islamischen Welt zu beherbergen.
+Sie existiert nur, weil sie verschwiegen wurde. Sie atmet nur, weil der Filz sie wärmt und der Moder sie vergisst. Sie ist nicht für die Khane geschrieben worden, nicht für die Richter und nicht für die Nachwelt, die Denkmäler aus Stein und Ruhm verlangt. Sie wurde geschrieben für eine tote Schwester am Rand einer Lehmgrube in Maschhad, und für einen jungen Schreiber, der einst glaubte, Verse könnten eine Lanze brechen.
 
-Jetzt war es leer.
+Juvaini wandte sich ab. Er blies die Butterlampe nicht aus; er ließ sie brennen, bis der Docht im eigenen Fett ertrinken würde.
 
-Die Regale waren geplündert, die Bücher verbrannt, die Dokumente zerrissen. Nur die Katakomben waren intakt – die Gänge unter der Erde, wo die alten Akten der Kalifen begraben lagen.
+Er stieg die Steintreppe hinauf in die Nacht.
 
-Juvaini stellte die Truhe auf einen steinernen Tisch in der Mitte des Raumes. Seine Hand zitterte, als er das Siegel prüfte.
+Als er ins Freie trat, schlug ihm die Hitze Bagdads wieder entgegen. Der Himmel war purpurrot, als bluteten die Sterne über Mesopotamien. Drüben, am Horizont, stürzten die Kuppeln des Kalifenpalastes mit leisem Grollen ein, und der Tigris trug zentnerweise Tinte und Asche hinab zum Meer, dunkel wie ein Strom aus geronnenem Urteilsspruch.
 
-Es war intakt.
+Juvaini strich sein Seidengewand glatt. Er wischte den Ruß von seinen Schläfen.
 
-Die Federn, die er vor zwanzig Jahren eingewebt hatte, waren noch da. Die Farbe war verblasst. Der Stoff war abgenutzt. Aber das Siegel war intakt.
-
-Er öffnete die Truhe nicht.
-
-Er setzte sich auf den steinernen Boden, die Hände auf der Truhe, die Augen geschlossen. Er dachte an die Frau, die er geliebt hatte, an die Briefe, die sie geschrieben hatte, an die Chronik, die er niemals gelesen hatte. Er dachte an den Mann im Osten, der das Gesetz geliebt und die Wahrheit getötet hatte. Er dachte an den jungen Schreiber, der die Kraft gefunden hatte, die Wahrheit zu bewahren.
-
-Er dachte an die zwei Chroniken, die man heute kaufen konnte.
-
-Die Geheime Geschichte der Mongolen, verfasst in einer Sprache, die kaum jemand übersetzen konnte, aufbewahrt in den Archiven Chinas, aber veröffentlicht in einer Welt, die sie nicht verstand.
-
-Seine eigene Weltgeschichte, die er in den Jahren des Westfeldzugs verfasst hatte, eine Chronik der mongolischen Eroberungen aus der Feder eines Dieners der Eroberer.
-
-Zwei Chroniken, die man kaufen konnte.
-
-Und die dritte.
-
-Er legte die Hand auf die Truhe und spürte das Holz unter den Fingern. Die Frau, die die dritte Chronik geschrieben hatte, war tot. Der Mann, der sie bewahrt hatte, war tot. Der Richter, der das Urteil gesiegelt hatte, würde bald tot sein.
-
-Aber die Chronik lebte.
-
-Juvaini holte die Nadel aus seinem Mantel, den Faden, den er seit zwanzig Jahren trug. Er nähte die Truhe neu ein, eine Naht nach der anderen, sorgfältig, akribisch, als ob er das einzige Exemplar der Wahrheit in einem Meer von Lügen bewahren würde.
-
-Dann stand er auf, trug die Truhe durch die Katakomben, bis er einen Raum fand, der mit Regalen gefüllt war. Die Gnadengesuche der verstorbenen Kalifen. Die Bittschriften der Toten, die niemals erhört worden waren.
-
-Er stellte die Truhe zwischen sie.
-
-Ein Bündel unter Bündeln. Eine Akte unter Akten. Eine Wahrheit unter Lügen.
-
-Die Methode der toten Akten, wie Shigi Qutuqu es vor zwanzig Jahren genannt hatte. Die Kunst, etwas so zu verstecken, dass es niemand sucht, indem man es mit dem versteckt, das niemand liest.
-
-Juvaini trat einen Schritt zurück. Die Truhe war nicht mehr zu erkennen. Sie war eines von Hunderten Bündeln, die hier lagerten, alt, verstaubt, vergessen.
-
-Er könnte sie nie wieder finden.
-
-Er könnte sie nie wieder lesen.
-
-Er könnte nie wieder die Worte der Frau lesen, die er geliebt hatte.
-
-Aber das war nicht der Sinn.
-
-Die Wahrheit lag im Dunkeln. Aber sie lag.
-
-Und das war alles, was zählte.
-
-Juvaini stieg die Treppe hinauf. Die Katakomben waren dunkel, die Stufen glitschig vom Schweiß der Wände, die Luft schwer und kalt. Er stieg hinauf, Stufe für Stufe, aus der Dunkelheit ins Licht, aus der Vergangenheit in die Gegenwart, aus der Wahrheit in die Lüge.
-
-Oben brannte Bagdad.
-
-Er trat hinaus auf die Straße, in den Rauch, in den Lärm, in das Chaos. Die Stadt brannte. Der Tigris trug Tinte, Seite an Seite mit Leichen, Seite an Seite mit Büchern, Seite an Seite mit Träumen.
-
-Juvaini stand da einen langen Moment, die Hände leer, den Mantel aschebedeckt, das Gesicht maskenhaft still.
-
-Der junge Offizier kam auf ihn zu. „Herr? Ist alles in Ordnung?“
-
-Juvaini nickte. Er hob den Kopf, sah über die Rauchschwaden hinweg, die in den Himmel stiegen. Er konnte die Zitadelle sehen, wo Hülegü Khan die Schätze des Kalifats sortierte. Er konnte die Basare sehen, die noch immer in Flammen standen. Er konnte die Moscheen sehen, deren Kuppeln eingestürzt waren.
-
-Er konnte die neue Ordnung sehen.
-
-„Wir haben Arbeit“, sagte Juvaini. „Die Steuerregister müssen nach Karakorum geschickt werden. Die Landtitel müssen neu vergeben werden. Die Verwaltung muss aufgebaut werden.
-
-Tümen nickte. „Hülegü Khan erwartet Euch im Palast. Er möchte mit Euch über das Statthalteramt sprechen. Er sagt, Ihr kennt das Land, Ihr kennt die Sprachen, Ihr kennt die Menschen. Ihr seid der richtige Mann für den Wiederaufbau.
-
-Juvaini stand still. Seine Hände waren leer. Seine Truhe war im Keller, zwischen den toten Gnadengesuchen vergraben. Seine Gedichte waren verbrannt. Seine Feder war ein Werkzeug der Macht geworden, keine Waffe der Wahrheit.
-
-Er drehte sich um und ging in Richtung Palast.
-
-Seine Schritte waren ruhig, gemessen, entschlossen. Er hatte aufgehört, Gedichte zu schreiben. Er hatte angefangen, Wahrheiten zu vergraben.
+Er hatte aufgehört, Gedichte zu schreiben. Verse waren der Luxus von Menschen, die glaubten, die Welt sei heilbar. Er hatte angefangen, Wahrheiten zu vergraben. 
 
 Das war seine Form von Liebe.
 
-Die Zypressen brannten in der Ferne. Die Bücher schwammen im Tigris. Die Toten lagen in den Gassen wie vergessene Worte. Die Gelehrten waren tot, die Bibliotheken zerstört, die Erinnerung gelöscht.
+Hülegü Khan wartete. Der Hofstaat brauchte eine Kanzlei. Die brennende Stadt brauchte Korn, Zuteilungen, Gräber für die Toten und neue Mauern gegen die Fluten des Flusses. Sie brauchte einen Statthalter, der den Tribut so berechnete, dass die Lebenden nicht verhungerten, während sie den Siegern dienten.
 
-Aber in einem Keller im Süden der Stadt, zwischen Gnadengesuchen verstorbener Kalifen, lag ein Bündel aus Filz und Leder.
+Er trat auf die Straße hinaus, dorthin, wo das Brüllen der Rosse und das Hämmern der Pioniere den Wiederaufbau forderten. Juvaini ging an die Arbeit.
 
-Zwei dieser Chroniken konnte man kaufen.
-
-Die dritte war das Buch, das der Leser gerade geschlossen hatte.
-
-Juvaini ging durch die brennende Stadt, an die Arbeit. Statthalter werden, wiederaufbauen, dienen. Er war auf der Seite der Macht, der Eroberer, der Sieger.
-
-Aber er trug etwas in sich.
-
-Die Erinnerung daran, dass die Wahrheit nicht stirbt, wenn sie nicht gelesen wird. Dass sie wartet.
-
-Dass sie immer wartet.
-
----
-
-Er betrat den Palast. Die Korridore waren voller Gesandter, Schreiber, Soldaten. Alle redeten, alle schrien, alle ordneten. Die Eroberung war abgeschlossen, die Ordnung begann.
-
-Juvaini nahm seinen Platz an einem überfüllten Tisch ein. Ein Stapel Papiere wartete auf ihn. Ein Schreiber reichte ihm eine Feder, die noch nass von der neuen Tinte war.
-
-„Das Landtitel für das Viertel, das abgebrannt ist“, sagte der Schreiber. „Die neuen Eigentümer. Hülegü Khan möchte, dass die Verteilung innerhalb der Woche abgeschlossen ist.
-
-Juvaini nahm die Feder. Er hielt sie einen Moment lang, spürte den Schaft zwischen den Fingern.
-
-Früher hatte er Gedichte geschrieben mit dieser Hand. Früher hatte er Briefe an eine tote Frau geschrieben. Früher hatte er geglaubt, dass die Wahrheit siegen würde, wenn er nur lange genug schrieb.
-
-Heute wusste er es besser.
-
-Er setzte die Feder auf das Papier und begann zu schreiben.
-
-Die Stunde der Sieger kam. Die Stunde der Wahrheit auch. Aber sie wartete. Sie wartete immer.
-
-Unter der Stadt, in einem Keller, zwischen toten Gnadengesuchen, lag ein Bündel aus Filz und Leder. Eine Frau hatte es geschrieben. Ein Mann hatte es bewahrt. Ein Richter hatte es gesiegelt. Ein Schreiber hatte es versteckt.
-
-Und niemand würde es lesen.
-
-Nicht heute.
-
-Nicht morgen.
-
-Niemals.
-
-Juvaini schrieb weiter. Das Papier war weiß. Die Tinte war schwarz. Das Wort war wahr.
-
-Die Wahrheit lag im Dunkeln.
-
-Aber sie lag.
-
----

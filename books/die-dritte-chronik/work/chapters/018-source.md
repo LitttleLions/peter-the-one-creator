@@ -1,203 +1,105 @@
-## Umgekehrte Welt
+# Umgekehrte Welt
 
-Die Lampe war längst erloschen, aber Fatima lag noch immer wach. Die Dunkelheit über ihr war schwer wie Filz, warm wie der Atem eines Schlafenden. Sie hörte den Wind draußen gegen die Zeltwand drücken, hörte das leise Knarren der Stangen, das Knistern der erlöschenden Glut in der Feuerstelle.
-
-Sie hörte ihr eigenes Herz.
-
-Es pochte nicht schneller als sonst. Es pochte gleichmäßig, ruhig, fast verräterisch ruhig – als wolle es ihr beweisen, dass nichts anders war als gestern oder vorgestern oder vor einem Monat. Dass alles beim Alten blieb.
-
-Aber es blieb nichts beim Alten.
-
-Sie setzte sich auf. Ihre Hände tasteten nach dem Feuerstein neben dem Lager; sie schlug Licht, entzündete den Docht der kleinen Öllampe aus Ton – jener Lampe mit dem Sprung im Rand, den sie nie hatte reparieren lassen – und zog das Federetui unter der Matte hervor.
-
-Es war warm geworden vom Boden ihres Zeltes.
-
-Sie legte es auf den Schoß und öffnete den Verschluss nicht sofort. Die Finger ruhten auf dem Holz; sie spürte die feinen Rillen unter den Fingerkuppen; sie spürte die abgeschliffenen Kanten dort wo ihr Vater jeden Abend seine Hand hingelegt hatte wenn er das Etui öffnete um den nächsten Brief zu schreiben – für einen Emir einen Kaufmann einen Sohn der weit weg war.
-
-Sie öffnete es.
-
-Die Feder lag obenauf; sie nahm sie heraus prüfte ihre Spitze mit dem Daumen zog ein Blatt Papier aus dem Stapel – kein Abfallblatt sondern das gute das weiße das sie für Töregenes wichtigste Briefe verwendete – legte es vor sich hin tauchte die Feder ein und begann zu schreiben ohne zu wissen ob sie je aufhören würde.
-
-*Schwester. *
-
-*Ich schreibe dir von einem Jungen. *
-
-*Er ist jünger als unser Unglück. *
-
-Sie hielt inne las den Satz zweimal spürte sein Gewicht im Mund wie eine Münze die man zu lange zwischen den Zähnen behält bis man ihren Geschmack nicht mehr von Speichel unterscheiden kann.
-
-*Er ist jünger als unser Unglück – das heißt: Er war noch nicht geboren als Maschhad fiel; er war noch nicht geboren als du starbst; er war noch nicht geboren als ich lernte dass Schweigen überleben bedeutet und Reden gefährlich ist. *
-
-*Er wurde in eine Welt hineingeboren die unsere Trümmer bereits kannte aber er selbst hat sie nie gesehen. *
-
-*Wie erklärt man einem Menschen der in einer Ruine aufwächst dass diese Ruine einmal eine Stadt war?*
-
-*Wie erklärt man ihm dass man selbst aus dieser Stadt stammt?*
-
-*Man erklärt es nicht. *
-
-*Man schweigt. *
-
-*Und er versteht das Schweigen. *
-
-Die Feder kratzte über das Papier; draußen bellte ein Hund zweimal dann war wieder Stille.
-
-Fatima las was sie geschrieben hatte – die Wörter standen da schwarz auf weiß unwiderruflich wie ein Geständnis unter Folter nur dass niemand sie gezwungen hatte außer ihr eigenes Herz das so gleichmäßig weiterschlug als sei nichts geschehen.
-
-Sie tauchte die Feder erneut ein.
-
-*Sein Name ist Ata-Malik Juvaini und er kommt aus Dschuwain bei Nischapur einer Stadt die fünf Jahre vor seiner Geburt zerstört wurde aber wieder aufgebaut worden ist weil irgendjemand entschieden haben muss dass Steine leichter zu ersetzen sind als Menschen. *
-
-*Er ist Schreiber wie ich Schreiberin bin. *
-
-*Aber er ist anders. *
-
-*Alle am Hof verhandeln mit mir Schwester. *
-
-*Sie kommen in mein Zelt mit Bittgesuchen mit Drohungen mit Gold mit Versprechungen; sie sehen mich an als wäre ich eine Tür durch die man hindurch muss um zur Regentin zu gelangen; sie messen meinen Wert an meiner Nützlichkeit an meiner Nähe zur Macht an dem was ich für sie tun kann. *
-
-*Er nicht. *
-
-*Er kommt in mein Zelt und spricht mit mir. *
-
-*Nicht über Bittgesuche nicht über Ämter nicht über Handelslizenzen oder Steuererlasse oder Thronfolgen. *
-
-*Er spricht über Wörter. *
-
-*Über Sätze die wir geschrieben haben über Formulierungen die wir gewählt haben über die Kunst einen Befehl so zu kleiden dass er wie eine Bitte klingt oder eine Bitte so dass sie wie ein Befehl wirkt. *
-
-*Er fragt mich nach meiner Meinung und wartet dann tatsächlich auf meine Antwort. *
-
-*Das ist ungewöhnlich Schwester. *
-
-*Das ist so ungewöhnlich dass ich tagelang nicht wusste was ich damit anfangen sollte. *
-
-Sie legte die Feder ab massierte ihre Finger beugte den Nacken bis es knackte dann nahm sie die Feder wieder auf.
-
-*Und jetzt kommt das Absurde Schwester. *
-
-*Jetzt kommt das was ich dir am meisten fürchten musste zu schreiben weil es so lächerlich klingt so unmöglich so unglaubwürdig dass ich selbst kaum glauben kann dass es wahr ist während ich es niederschreibe:*
-
-*Ich liebe ihn. *
-
-*Ich liebe einen Jungen der acht Jahre jünger ist als mein Unglück einer der nichts weiß von Maschhad nichts von unserer Mutter nichts von deinem Tod nichts von dem Geruch verbrannten Fleisches der mir noch heute in der Nase hängt wenn der Wind aus Süden kommt. *
-
-*Ich liebe ihn nicht wegen seines Gesichts – obwohl sein Gesicht schön ist auf eine Art wie alte Schrift schön ist wenn man sie lesen kann; nicht wegen seiner Stimme – obwohl seine Stimme tief ist und sicher wenn er Firdausi zitiert; nicht wegen seiner Hände oder seiner Schultern oder seiner Art sich zu bewegen wenn er durch die Kanzlei geht zwischen den Regalen voller Akten als wäre er schon immer dagewesen obwohl er erst seit wenigen Monaten hier ist. *
-
-*Ich liebe ihn wegen seiner Pausen. *
-
-*Wegen des Augenblicks bevor er antwortet wenn er kurz inne hält und nachdenkt bevor er spricht als wäre jedes Wort eine Münze deren Wert er prüfen müsste bevor er sie ausgibt. *
-
-*Wegen des Moments in dem er mich ansieht – nicht prüfend nicht taxierend nicht berechnend sondern einfach sehend als wäre ich kein Werkzeug keine Tür keine Schattenkanzlerin keine Hexe aus Chorasan sondern einfach eine Frau die etwas sagt das es wert ist gehört zu werden. *
-
-*Alle anderen sehen mich an was ich bin was ich habe was ich kann. *
-
-*Er sieht mich an wer ich bin. *
-
-*Und ich weiß nicht was ich damit machen soll. *
-
-Die Lampe flackerte; Fatima wartete bis sich der Docht beruhigt hatte dann tauchte sie die Feder zum vierten Mal ein.
-
-*Die Umkehrung Schwester:*
-
-*Am Hof bin ich diejenige die redet während andere schweigen; ich diktiere Befehle ich formuliere Dekrete ich spreche für eine Regentin deren Stimme zu rau ist für diplomatische Wendungen; alle hören mir zu wenn ich spreche weil meine Worte Macht haben weil sie Leben verändern können weil sie entscheiden ob ein Dorf Steuererlass bekommt oder ob ein Gouverneur abgesetzt wird. *
-
-*Bei ihm ist es umgekehrt. *
-
-*Er redet und ich schweige. *
-
-*Und mein Schweigen ist keine Taktik keine Strategie kein bewusstes Mittel um etwas zu erreichen; mein Schweigen ist einfach weil ich nichts sagen will weil ich nur hören will wie seine Stimme klingt wenn er über Hafiz spricht oder darüber wie sich persische Versmaße ins Mongolische übersetzen lassen (schlecht sagt er sehr schlecht) oder darüber ob Guillaume Boucher wirklich glaubt dass sein silberner Baum jemals Wein Milch Honig und vergorene Stutenmilch gleichzeitig ausschenken wird (nein sagt er ironisch aber er wird trotzdem dafür bezahlt).*
-
-*Er redet Schwester und ich schweige. *
-
-*Und in meinem Schweigen liegt alles was ich nicht sagen kann:*
-
-*Dass ich ihn liebe. *
-*Dass ich Angst habe. *
-*Dass ich nicht weiß ob diese Liebe ihn retten wird oder uns beide vernichten. *
-*Dass ich zum ersten Mal seit zwanzig Jahren wieder etwas fühle außer Überlebenswillen und Pflichtgefühl und dem kalten Stolz einer Frau die gelernt hat ihre Verletzlichkeit hinter perfekter Dienstbarkeit zu verstecken. *
-*Dass ich sterben würde wenn ihm etwas zustieße. *
-*Dass ich genau deshalb sterben müsste wenn ihm etwas zustieße weil meine Liebe ihn erst zum Ziel macht. *
-
-Fatima hielt inne atmete tief aus dann weiter:
-
-*Die Regentin sieht alles Schwester. *
-
-*Sie sieht alles was am Hof geschieht jeden Blick jede Berührung jedes Wort das lauter geflüstert wird als beabsichtigt jedes Schweigen das länger dauert als üblich. *
-
-*Sie sieht mich am genauesten weil ich ihr gehöre weil sie mich gemacht hat weil sie mich jeden Abend daran erinnert dass ich ohne sie nichts bin dass ich ohne sie tot wäre dass mein Leben ihr gehört mein Atem ihr gehört jedes Wort das ich schreibe jeder Gedanke den ich denke jeder Mensch den ich liebe ihr gehört falls ich je wagen sollte jemanden zu lieben außer ihr. *
-
-*Was sie besitzt liebt sie Schwester. *
-*Was sie liebt lässt sie nicht gehen. *
-*Und wenn sie entdeckt dass ich etwas besitze das mir gehört etwas das nur mir gehört etwas das sie mir nicht gegeben hat und mir daher auch nicht nehmen kann…*
-
-Sie setzte ab strich mit dem Finger über den Rand des Papiers spürte seine Glätte dann tauchte sie die Feder wieder ein:
-
-*…dann wird sie es zerstören Schwester dann wird sie ihn zerstören nicht aus Bosheit sondern aus Notwendigkeit denn eine Dienerin die etwas Eigenes hat ist keine Dienerin mehr; eine Dienerin die etwas liebt außer ihrer Herrin beginnt sich abzulösen beginnt einen Raum in sich zu haben in den keine Befehle dringen beginnen Wurzeln zu wachsen wo keine sein sollten beginnt frei zu werden auch wenn sie es selbst noch nicht merkt. *
-
-*Und Töregene Khatun kann keine Freiheit neben sich dulden Schwester denn Freiheit ist ansteckend Freiheit untergräbt Autorität Freiheit flüstert allen anderen Sklaven im Lager zu dass auch sie vielleicht etwas Eigenes haben könnten auch wenn es nur ein Gefühl ist nur eine geheime Liebe nur ein Name den man nachts flüstert wenn niemand zuhört außer dem Wind und den Sternen und einer toten Schwester die sowieso nichts mehr hört weil sie tot ist seit zwanzig Jahren tot seit Maschhad tot seit jenem Tag an dem du starbst damit ich leben konnte damit ich hier sitzen konnte einen Brief. An dich schreiben konnte über einen Jungen den ich liebe während du Staub bist während deine Knochen irgendwo im Massengrab von Chorasan liegen während niemand mehr deinen Namen kennt außer mir während selbst ich langsam vergesse wie deine Stimme klang damals damals in den Gassen von Maschhad wenn wir Datteln aßen vom alten Händler wenn wir Koranverse hörten vom Imam wenn wir Kinder waren bevor alles brannte bevor alles endete bevor du gingst und mich zurückließest allein mit diesem Herzen das immer noch schlägt immer noch pocht immer noch weitermacht als gäbe es einen Grund dafür*
-
-Fatima hielt inne atmete flach schnell kontrolliert zwang ihre Hand ruhig zu bleiben zwang ihre Gedanken zurück in Linie zwang sich weiterzuschreiben:
-
-*Verzeih mir Schwester. *
-*Verzeih mir dass ich dir solche Dinge schreibe dir einer Toten dir einer Abwesenden dir einer deren Stimme ich kaum noch höre deren Gesicht ich kaum noch sehe deren Namen ich kaum noch ausspreche ohne dabei an Asche denken zu müssen an verbranntes Fleisch an Rauch der tagelang über der Stadt hing bis sogar der Himmel grau wurde bis sogar die Sonne aussah wie eine offene Wunde*
-
-*Verzeih mir dass ich lebe*
-*Verzeih mir dass ich liebe*
-*Verzeih mir dass ich Angst habe vor dieser Liebe mehr Angst als vor Güyüks Drohungen mehr Angst als vor Abd ar-Rahmans Intrigen mehr Angst als vor allem was dieser Hof mir antun kann*
-
-*Denn dieser Hof kann mich töten Schwester kann mich foltern kann mich verschwinden lassen kann mich auslöschen aus allen Aufzeichnungen aller Chroniken aller Erinnerungen so gründlich als hätte es mich nie gegeben*
-
-*Aber diese Liebe kann mich zerstören*
-*Sie kann mich weich machen*
-*Sie kann mich verwundbar machen*
-*Sie kann mich dazu bringen Fehler zu machen Dinge zu riskieren Sicherheiten aufzugeben Schutzmauern einzureißen hinter denen ich zwanzig Jahre lang gelebt habe zwanzig Jahre lang sicher war zwanzig Jahre lang tot genug um niemandem wehzutun außer mir selbst*
-
-*Und genau deshalb muss diese Liebe wahr sein muss echt sein muss bleiben auch wenn ich nie wieder mit ihm spreche nie wieder sein Schweigen höre (denn auch sein Schweigen liebe ich Schwester besonders sein Schweigen) nie wieder diesen Moment erlebe in dem seine Augen meine treffen und er mich sieht wirklich sieht ohne Verstellung ohne Berechnung ohne Hintergedanken*
-
-*Weil diese Liebe das erste Lebendige in mir seit zwanzig Jahren ist*
-*Das erste Ding das wächst atmet pulsiert*
-*Das erste Ding das mir gehört*
-
-Die Feder stockte mitten im Wort; Fatima starrte auf den Tintenfleck der langsam ins Papier kroch größer wurde unaufhaltsam wie ein Flussufer bei Hochwasser wie eine Stadt die brennt wie ein Leben das man nicht halten kann egal wie fest man zudrückt
-
-Sie beugte sich tiefer über das Blatt:
-
-*Sag mir Schwester*
-
-*Sag mir wie man etwas Lebendiges liebt ohne es zu gefährden*
-
-*Sag mir wie man etwas Lebendiges atmen lässt ohne es zu ersticken zwischen zwei Händen die nur gelernt haben loszulassen indem andere starben*
-
-*Sag mir wie man etwas Lebendiges beschützt ohne es in denselben Käfig zu sperren aus dem man selbst gerade erst gelernt hat durchs Gitter zu sehen*
-
-*Sag mir wie du es geschafft hast damals damals in Maschhad damals bevor alles brannte damals als wir noch Schwestern waren wirklich Schwestern Fleisch von meinem Fleisch Atem von meinem Atem Leben von meinem Leben*
-
-*Sag mir wie du geliebt hast ohne Angst*
-*Ohne Rechnung*
-*Ohne den Schatten dessen der dich jederzeit nehmen könnte*
-
-Die Feder lag still auf dem Papier.
-
-Fatima wartete auf eine Antwort aber natürlich kam keine denn Tote antworten nicht denn Tote sind still denn Tote haben nichts mehr zu sagen denn Tote sind fertig mit Fragen fertig mit Antworten fertig mit dem ganzen Geschäft des Lebens das nur daraus besteht Dinge zu beginnen die man niemals beenden wird
-
-Sie faltete den Brief sorgfältig exakt Strich für Strich presste jede Kante mit dem Fingernagel glatt stopfte ihn ins Federetui unter all die anderen Briefe all die anderen Geständnisse all die anderen Fragen auf die niemand antworten würde
-
-Dann blies sie die Lampe aus
-
-Im Dunkeln spürte sie ihn noch einmal ganz kurz ganz leicht ganz fern wie eine Berührung durch Filz hindurch – seinen Blick seine Pausen sein Schweigen
-
-Etwas Lebendiges
-
-Das erste seit zwanzig Jahren
-
-Und jetzt wusste jeder davon
-
-Der Wind draußen drückte gegen das Zelt drückte gegen ihre Stirn drückte gegen ihren Atem drückte gegen alles was noch stand
-
-Und Fatima saß da
-Hielt ihre Hände ineinander
-Und wartete
-Auf nichts
+*Buch: Die dritte Chronik*
+*Kapitel-ID: 018*
 
 ---
+
+Der Wind über dem Orchon-Tal trug in dieser Nacht das Heulen der Steppendornen mit sich, ein trockenes, klagendes Geräusch, das an den Filzwänden ihrer Jurte zupfte wie eine ungeduldige Hand. Im Kohlenbecken glimmten die Reste von getrocknetem Dung und Wacholderzweigen, deren harziger, schwerer Rauch sich mit dem Geruch von ranziger Schafbutter und dem fernen, metallischen Hauch des schmelzenden Altschnees mischte. Fatima saß mit gekreuzten Beinen auf dem niedrigen Teppich, die Knie fest aneinandergepresst, als könne sie ihren Körper damit zwingen, jene Festung zu bleiben, die sie zwanzig Jahre lang gegen die Welt errichtet hatte.
+
+Vor ihr lag das hölzerne Schreibpult, kaum zwei Spannen breit. Das Holz trug die Narben zahlloser Karawanenritte: tiefe Schrammen, dunkle Flecken geronnener Tinte und die feinen Einkerbungen, die ihr Vater vor einem halben Leben hineingeritzt hatte, um die Maße persischer Verszeilen zu prüfen. Neben dem Pult lag das Qalamdān, das längliche Federetui aus lackiertem Pappmaché, dessen florale Muster unter einer Schicht aus Fett und Steppenstaub fast erblindet waren.
+
+Ihre Finger waren kalt. Sie schlug den Saum ihres Mantels zurück, jenes schweren, dunkelblauen Wollstoffes, den sie trug, um am Hof der Regentin unsichtbar zu bleiben, und befreite das Bündel aus chinesischem Hanfpapier, das sie sorgsam zwischen den Lagen verborgen hielt.
+
+Seit Wochen hatten sie Seite an Seite gesessen. Wochen des geteilten Lesens, in denen der junge Schreiber aus Dschuwain die Berichte aus Isfahan und Schiras geordnet, Frachtlisten geprüft und die Siegel der Statthalter verglichen hatte, während sie selbst kaum mehr als drei Worte am Tag an ihn gerichtet hatte. Sie hatte ihn beobachtet. Sie hatte gesehen, wie er die Zähne zusammenbiss, wenn die Kälte des Frühlingsmorgens seine Gelenke steif machte, wie er die Lippen bewegte, wenn er eine arabische Floskel ins Mongolische übertrug, und wie er zuweilen innehielt, die Feder über dem Pergament schwebend, als lauschte er einem Echo, das nur er vernehmen konnte.
+
+Sie hatte sich vor dieser Nacht gefürchtet. Vor diesem Brief, vor dem sie länger zurückgewichen war als vor jeder Drohung der Fürsten. Mehr als vor den giftigen Blicken Abd ar-Rahmans, mehr als vor dem Zorn Güyüks, der wie ein dumpfer Donner am Horizont des Reiches grollte, mehr sogar als vor jenen Nächten, in denen Töregene sie zu sich rief, um ihren Kopf an Fatimas Schulter zu betten und von ihren toten Feinden zu flüstern.
+
+Fatima nahm das Rohrmesser. Die Klinge schnitt mit einem trockenen, sauberen Laut in das Schilfrohr, schälte einen winzigen Span ab, formte die Spitze, die Zunge der Feder, die gleich die Wahrheit tragen musste. Ein Tropfen Tinte, tiefschwarz und rußig, sickerte in den Spalt.
+
+Sie setzte an.
+
+*Ich schreibe dir von einem Jungen.*
+
+Die Worte standen da, nackt und scharf gegen das gelbliche Papier, und Fatima spürte, wie ihr Atem stockte, als hätte sie eine Ader geöffnet.
+
+*Er ist jünger als unser Unglück. Wenn ich in sein Gesicht blicke, sehe ich das Jahr nicht, in dem Maschhad brannte, denn in jenem Jahr lag er noch nicht einmal im Schoß seiner Mutter. Er weiß nichts von dem Geruch von verbranntem Menschenfleisch, der sich in die Wolle frisst und nie wieder vergeht. Er kennt die Ruinen Chorasans nur als Kulisse seiner Kindheit, als einen Ort, an dem man zwischen zerbrochenen Kacheln Verse aufsagt, um sich einzureden, die Vorväter hätten das letzte Wort behalten.*
+
+Sie hielt inne. Draußen schlug ein Pferd an die Koppelstangen, gefolgt von dem heiseren Ruf eines Wachpostens, der die dritte Nachtwache anzeigte. Drei Herzschläge lang lauschte sie in die Dunkelheit, ob sich Schritte näherten, ob die Wachen der Regentin ihre Runde änderten. Nichts. Nur das endlose Mahlen des Steppenwindes.
+
+Fatima tauchte die Feder erneut ein.
+
+*Es ist eine Absurdität. Ein Hohn auf jedes Gesetz, das mich am Leben gehalten hat. Ich bin eine Frau, deren Jugend in den Jurten der Eroberer zermahlen wurde, eine Dienerin, deren Hände nach den Urkunden des Todes riechen, und er ist ein Schreiber mit seidener Haut an den Wangen, der glaubt, man könne das Grauen mit einem Metrum von Firdausi bezwingen. Er ist achtzehn Jahre alt, meine Schwester. Achtzehn Sommer, in denen er nichts gelernt hat außer dem Vertrauen darauf, dass das Wort mächtiger sei als das Eisen. Ich zähle die Jahre, ich zähle seinen Rang, ich zähle die Gefahr auf wie eine Anklage gegen mich selbst. Was für eine verfluchte, anmaßende Torheit.*
+
+Sie strich mit dem Zeigefinger über die noch feuchte Tinte der Ränder. Die helle Narbe an ihrem linken Handgelenk, das weiße Band, das die Klinge eines Reiters vor dreiundzwanzig Jahren dort hinterlassen hatte, spannte sich.
+
+*Du würdest mich fragen, wie er aussieht. Du hättest gelacht, wie du damals im Feigengarten gelacht hast, als der Sohn des Webers am Tor stehenblieb, und du hättest wissen wollen, ob seine Augen dunkel sind wie die Nächte über Nischapur oder ob seine Brauen den Schwung eines persischen Bogens tragen. Aber ich kann es dir nicht sagen. Ich weiß es nicht einmal. Wenn ich an ihn denke, sehe ich kein Gesicht. Ich sehe keine Züge, an die man sich klammern könnte, wenn der Sturm losbricht.*
+
+Ihre Hand zitterte nicht, aber der Druck auf das Schilfrohr wurde so stark, dass die Spitze leise auf dem Papier knirschte.
+
+*Ich kenne nur seine Pausen. Ich kenne den Augenblick, in dem er mitten im Satz abbricht, weil er begreift, dass die Höflichkeit, die man ihm beigebracht hat, eine Lüge ist. Ich kenne das Zögern seiner Feder, kurz bevor er ein Wort tilgt, das zu hübsch war für die Hässlichkeit dieses Hofes. Alle Menschen hier verhandeln mit mir. Die Regentin kauft mich mit Seide und verlangt dafür meine Seele. Abd ar-Rahman droht mir mit den Zungen der Schamanen, um meine Zölle zu stehlen. Die Fürsten verbeugen sich vor mir, weil sie wissen, dass mein Pinselstrich eine Tausendschaft nach Westen schicken oder verhungern lassen kann. Sie alle sprechen zu der Schattenkanzlerin. Sie alle verhandeln. Sie alle wollen etwas nehmen, fordern, erzwingen.*
+
+Sie schloss für einen Wimpernschlag die Augen. Vor ihr stand das Bild des Kanzleizeltes im trüben Vormittagslicht, der Geruch von nassem Filz, der feine Dampf ihres Tees.
+
+*Er aber spricht mit mir. Er sitzt auf seinem Schemel, die Knie an die Kiste gepresst, und redet. Die ganze Welt ist verkehrt herum: Er redet. Ich schweige. Er schüttet seine Gedanken vor mir aus wie ein Kind, das gefundene Steine auf einem Teppich ausbreitet. Er redet von der Grammatik des Arabischen, von den Fehlern in den alten Steuerregistern von Rayy, von der Einsamkeit der Nächte, in denen die mongolischen Krieger betrunken um die Feuer heulen. Er redet, ohne ein Zugeständnis zu fordern. Er redet, als wäre die bloße Gegenwart eines Menschen, der seine Sprache versteht, genug, um den Frost aus dieser Welt zu vertreiben.*
+
+Ein bitteres, weiches Lächeln glitt über Fatimas Lippen, so flüchtig wie der Schatten eines Vogels über dem Gras.
+
+*Und ich? Ich schweige. Ich sitze da, die Hände in den weiten Ärmeln verborgen, und lasse seine Worte über mich hinweggehen wie das Wasser des Frühlings über die Steine eines ausgetrockneten Flussbetts. In meinem Schweigen liegt meine ganze Zustimmung. Ich antworte ihm nicht mit Gedichten, ich antworte ihm nicht mit Trost. Ich gebe ihm nur diesen Raum, in dem er nicht der persische Hund sein muss, der für die Eroberer die Kasse führt. Ich lasse ihn reden. Und während er redet, heilt an mir eine Stelle, von der ich nicht einmal wusste, dass sie noch bluten konnte.*
+
+Das war gefährlich.
+
+Sie hob die Feder an, sah zu, wie ein schwarzer Tropfen am Schaft hing, schwer und unheilvoll.
+
+*Aber die Regentin sieht alles.*
+
+Das Wort stand da wie ein Urteil. Fatima sah unwillkürlich zur Filztür hinüber, hinter der die endlose Kälte der Nacht lag. Töregenes Bild trat vor ihren inneren Blick: die schmalen, geschlitzten Augen, in denen der Schmerz einer ehemaligen Kriegsbeute zu reinem Bernstein erstarrt war; der Mund, der so grausam lächeln konnte, wenn sie wieder einen Widersacher zu Fall gebracht hatte; die fleischigen, schweren Hände, die Fatima am Vorabend an sich gezogen hatten, fast zärtlich, fast erstickend.
+
+*Sie sieht mich am genauesten. Was sie besitzt, liebt sie. Was sie liebt, lässt sie nicht gehen. Sie hat mir gestern Brokat geschenkt, Stoffe, die so schwer mit Goldfäden durchwirkt sind, dass sie von selbst stehen können wie eine Rüstung. Sie hat meine Wange berührt und gesagt, wir beide seien die einzigen Männer in diesem Reich, das von Knaben und Trunkenbolden regiert werde. Sie meint es als Gnade. Doch in ihrer Gnade liegt die Schlinge, die sich jeden Tag ein wenig enger um meinen Hals zieht. Wenn Töregene erfährt, dass in meiner Brust ein Gedanke existiert, der nicht ihr gehört – ein einziger Herzschlag, der nicht dem Schutz ihrer Regentschaft geweiht ist –, wird sie ihn zertreten. Nicht aus Hass. Sondern mit jener beiläufigen Härte, mit der ein Reiter ein Fohlen ertränkt, das auf dem Marsch lahmt.*
+
+Fatima legte das Schilfrohr für einen Moment beiseite und rieb sich die Schläfen. Der Schmerz saß tief hinter den Augen, ein dumpfes Pochen, das sie seit Tagen begleitete. Sie dachte an Güyük, der flussabwärts lagerte und dessen Boten immer unverschämter wurden; an den kranken Prinzen Köden, dessen Husten am Hof bereits als Fatimas Hexenwerk geraunt wurde; an das gefälschte Dekret für Maschhad, das wie glühendes Eisen unter den Kanzleiakten schwelte.
+
+Alles um sie herum war brüchig. Das Reich war ein Koloss auf tönernen Füßen, zusammengehalten nur von Töregenes eisernem Willen und den Urkunden, die Fatima Nacht für Nacht siegelte. Wenn dieses Gebilde barst, würde es alles unter sich begraben – die Chroniken, die Paläste, die Schreiber.
+
+Und Juvaini.
+
+Sie nahm die Feder wieder auf. Das Papier fühlte sich unter ihrer Handfläche warm an, erwärmt von ihrem eigenen Blut, das durch die Adern strömte. Zum ersten Mal seit dreiundzwanzig Jahren, seit jener Nacht, in der die Reiter Maschhad in Asche legten und sie ihre Schwester tot im Hof des Vaters zurückließ, wandte sich der Brief ab von der Vergangenheit.
+
+Zum ersten Mal stellte sie der Toten eine Frage über die Lebenden.
+
+*Sag mir, wie man etwas Lebendiges liebt, ohne es zu gefährden.*
+
+Die Zeile stand allein auf dem Blatt, umgeben von der leeren, hellen Fläche des Papiers, ein Schrei ohne Laut. Keine Antwort war möglich.
+
+*Du bist im Frieden, meine Schwester. Du ruhst unter der Erde von Chorasan, unberührt von der Schande des Überlebens, unberührt von den Kompromissen, die ich jeden Tag schließen muss, um das nächste Morgengrauen zu sehen. Die Toten verlangen nichts. Sie fordern keine Vorsicht, sie verlangen keine Lügen. Man kann die Toten lieben mit einem reinen, unverbrüchlichen Herzen, denn ihnen kann kein Khan mehr ein Leid antun, kein Siegel kann ihr Verderben besiegeln, kein Kanzler kann sie auf die Folterbank spannen.*
+
+Ihre Kehle war trocken wie die Steppe im Hochsommer.
+
+*Aber er lebt. Er atmet. Er friert, wenn der Wind dreht, und er blutet, wenn er eine Kohle anfasst. Wenn ich ihn ansehe, sehe ich das Ziel, das ich den Jägern biete. Jeder Blick, den ich ihm zuwerfe, jeder Zettel, den ich auf sein Pult lege, ist ein Pfeil, der auf seine Brust gerichtet ist. Ich habe ihn in meine Welt hineingezogen. Ich habe ihn zum Leser meiner Furcht gemacht, weil ich zu schwach war, sie allein zu tragen. Und nun trage ich nicht mehr nur mein eigenes Leben wie eine brennende Schale durch diesen Palast, sondern auch das seine.*
+
+Sie senkte die Hand.
+
+Eine Antwort würde nicht kommen. Die Briefform selbst offenbarte ihre ganze Tragik – ein einseitiges Flehen in das Nichts einer Grabstatt. Der Wind riss an den Zeltstricken, drückte gegen die Filzbahnen, ließ das Holz des Dachrings ächzen. Die Jurte war kalt geworden; die Glut im Kohlenbecken war von einer dünnen, grauen Ascheschicht überzogen, unter der nur noch hier und da ein winziger roter Punkt gloste wie ein verirrtes Auge.
+
+Es gab keine Antwort. Die Toten schwiegen, weil sie die Gesetze der Lebenden vergessen hatten, und die Lebenden logen, um die nächste Nacht zu überstehen.
+
+Fatima sah auf die Zeilen hinab. Sie sah ihre eigene Handschrift, jenes makellose Nasta'līq, das ihr Vater sie am Rand seiner Werkstatt gelehrt hatte, als die Welt noch geordnet war und aus Tinte, Papier und Rosenwasser bestand. Doch die Worte, die sie geschrieben hatte, waren kein Kunstwerk. Sie waren kein Versmaß, das man aufsagen konnte, um Fürsten zu schmeicheln. Sie waren ein Schuldbekenntnis. Die Liebe war nun in ihrem ehrlichsten Medium bestätigt – und genau dadurch war sie schutzlos geworden, splitterfasernackt auf weißem Grund, verwundbar für jedes Auge, das den Blick zu senken verstand.
+
+Sie wartete nicht, bis die Tinte vollends von selbst trocknete. Sie nahm eine Prise feinen Wüstensand aus einer kleinen Tonschale, streute ihn behutsam über die Zeilen, blies den Überschuss mit einem einzigen, leisen Atemzug fort. Der feine Staub glitzerte auf den Kurven der Buchstaben wie Raureif auf gefrorenem Gras.
+
+Vorsichtig, mit Fingern, die nun vollkommen ruhig waren, faltete sie das Blatt. Einmal in der Länge, zweimal in der Breite, bis ein schmales, festes Rechteck entstand, nicht größer als die Handfläche eines Kindes.
+
+Sie griff nach dem Faden aus gezwirnter Seide und der feinen Nadel aus Damaszener Stahl, die sie in der Saumfalte ihres Mantels verwahrte. Mit geübten, lautlosen Stichen nähte sie das Papier in das Futter, direkt neben das Herz, dorthin, wo bereits die anderen Briefe lagen, verborgen vor den Blicken der Mägde, verborgen vor den Händen Töregenes, ein stummer Panzer aus verbotener Wahrheit.
+
+Jeder Stich tat weh. Nicht im Fleisch, sondern tiefer, an jenem Ort, an dem sie bisher unangreifbar gewesen war. Sie hatte es niedergeschrieben. Sie hatte der Nacht den Namen jenes Jungen anvertraut, und damit hatte sie dem Schicksal eine Waffe gereicht, die genau gegen sie gerichtet war.
+
+Als der letzte Knoten saß und sie den Faden mit den Zähnen durchtrennte, erlosch der letzte rote Funke im Kohlenbecken.
+
+Fatima erhob sich im Dunkeln. Ihre Glieder waren steif, die Kälte kroch ihr an den Beinen empor, doch sie achtete nicht darauf. Sie trat an den Spalt des Zeltes, schob den schweren Filz um eine Fingerbreite zur Seite und blickte hinaus in das erwachende Lager.
+
+Im Osten, über den Bergen, die das Orchon-Tal wie eine steinerne Mauer einfassten, begann der Himmel zu verblassen. Es war kein Licht, noch nicht, nur ein kaltes, aschfahles Grau, das die Zeltkuppeln der Herrscherfamilie aus der Finsternis schälte. In wenigen Stunden würde das Lager erwachen. Die Herden würden getrieben werden, die Kanzleischreiber würden ihre Pulte öffnen, Abd ar-Rahman würde mit seinen Rechnungsbüchern vor der Regentin stehen, und Töregene würde nach ihr rufen.
+
+Und Juvaini würde seinen Platz einnehmen. Er würde das Notizbuch aufschlagen, seine geschwärzten Finger an den Ärmeln reiben, um sie zu wärmen, und zu ihr herübersehen mit jenem suchenden, unruhigen Blick, der keine Verse mehr brauchte, um nach Rettung zu fragen.
+
+Fatima ließ den Vorhang fallen. Das Zelt versank wieder in vollkommener Schwärze, doch unter der rauen Wolle ihres Mantels, fest an ihre Brust gepresst, brannte das Papier, als trüge sie ein Stück glühender Kohle direkt auf der nackten Haut.
+

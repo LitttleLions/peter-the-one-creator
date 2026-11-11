@@ -1,184 +1,153 @@
 # Der Onkel
 
-*Buch:* Die dritte Chronik
-*Kapitel-ID:* 025
+*Buch: Die dritte Chronik*
+*Kapitel-ID: 025*
 
 ---
 
-## Der Onkel
+Der Wind über dem Orchon-Tal trug den Duft von Wermut und erstem Schnee, als wollte die Steppe selbst den Atem anhalten. Im großen weißen Gerichtszelt des Khagan, das man auf dem gefrorenen Boden vor den Toren Karakorums errichtet hatte, roch es nach schwelendem Birkenholz, nassem Filz und dem herben Schweiß von Männern, die seit Tagen nicht aus ihren Pelzen gestiegen waren. 
 
-Der Winter hatte Karakorum in Stein verwandelt.
+In der Mitte des Zeltes brannte kein offenes Feuer, sondern nur eine flache Bronzeschale mit glimmenden Kohlen. Die Kälte kroch durch die Sohlen der Stiefel, biss in die Knöchel und verwandelte den Atem der Anwesenden in dünne, weiße Rauchfahnen, die träge unter das Rauchloch stiegen.
 
-Nicht in Schnee, nicht in Eis – in Stein. Die Zelte standen steif in der Kälte, die Planen gefroren zu grauen Platten, die Seile hart wie Eisen, und der Boden unter Shigi Qutuqus Stiefeln klang hohl, als er das Gerichtszelt betrat, als läge darunter nicht Erde, sondern Grab. Der Atem der Männer, die bereits warteten, stieg in weißen Wolken auf und löste sich in der Dunkelheit des Zelts auf, bevor er die Decke erreichte. Shigi bemerkte das. Er bemerkte immer solche Dinge – die kleinen Zeichen, die anzeigten, ob ein Raum atmen durfte oder nicht.
+Shigi Qutuqu saß auf dem niedrigen Richtstuhl aus geschnitztem Ulmenholz. Seine Knie schmerzten von dem Frost, der seit drei Nächten ohne Gnade über die Ebene strich, doch sein Rücken blieb gerade, unbewegt wie der Pfahl, an dem man die Leitstuten anbindet. Vor ihm auf dem niedrigen Tisch lag das blau-weiße Buch, aufgeschlagen auf einer unbeschriebenen Seite aus festem Steppenpapier. Daneben ruhte das schwere Eisensiegel des obersten Jarghuchi, dessen Griff von unzähligen Händen speckig geglänzt war.
 
-Dieser Raum durfte es kaum.
+Zu seiner Rechten und Linken saßen die Prinzen des goldenen Hauses. Sieben Söhne und Enkel, gehüllt in Zobel und schweren Brokat, die Gesichter verschlossen, die Hände unter den weiten Ärmeln verborgen. Sie waren Beisitzer in diesem Verfahren, doch sie blickten nicht wie Richter. Sie blickten wie Jäger, die einen alten Wolf in die Schlucht getrieben hatten und nun darauf warteten, dass ein anderer den ersten Pfeil von der Sehne ließ.
 
-Acht Prinzen saßen auf der rechten Seite, junge Männer mit harten Gesichtern und weichen Augen, Söhne und Neffen und Vettern des Hauses, das die Welt regierte. Auf der linken Seite saßen die Zeugen, vier Offiziere in Wintermänteln, die Hände auf den Knien, die Blicke geradeaus. Zwischen ihnen, auf dem erhöhten Holzstuhl in der Mitte des Zelts, saß niemand. Dieser Stuhl war für Shigi.
+Güyük selbst saß nicht auf dem Richterstuhl. Er saß abseits, auf einer schlichten Holzbank im Schatten der hinteren Zeltwand, die Stiefel weit von sich gestreckt, die Arme vor der Brust verschränkt. Er trug keinen Prunk, nur einen abgewetzten Lederwams über dem grauen Wollmantel. Er sprach nicht. Er gab kein Zeichen. Aber seine Gegenwart füllte den Raum wie der schwere Dunst vor einem Sommergewitter. Jeder Atemzug, jedes Knarren des gefrorenen Leders, jeder Blick der Prinzen war auf diese eine dunkle Gestalt im Schatten gerichtet.
 
-Er ging dorthin, ohne zu eilen. Sein Siegel trug er in der linken Hand, das blau-weiße Buch in der rechten, und er setzte sich so, wie er sich seit dreißig Jahren auf solche Stühle gesetzt hatte: mit dem Rücken gerade, den Blick offen, die Hände auf dem Tisch vor ihm. Das Verfahren begann nicht mit Worten. Es begann mit dieser Haltung.
+Shigi wusste, warum er hier saß. Ein Gerichtstag als Familienfest: Der Adoptivsohn, das einst im Schlamm gefundene Tatarenwaisenkind, sollte über den letzten Blutsverwandten des Reichsgründers zu Gericht sitzen. Güyük brauchte keinen Henker. Henker fand man an jedem Lagerfeuer für den Preis eines mageren Schafs. Güyük brauchte einen Präzedenzfall. Er brauchte den unanfechtbaren, eisernen Stempel des Gesetzes, und er brauchte Shigis Siegel darauf.
 
-Güyük war nicht anwesend.
+Die Zeltplane am Eingang wurde zurückgeschlagen. Der Frost schnitt wie eine Klinge herein, und mit ihm traten vier Wachen der Leibgarde ins Halbdunkel. Zwischen ihnen ging Temüge Otchigin.
 
-Das war die erste Lüge des Tages, und Shigi registrierte sie, wie er alle Lügen registrierte: ohne Überraschung, ohne Zorn, mit der kühlen Genauigkeit eines Mannes, der weiß, dass Lügen eine Grammatik besitzen, die man lesen muss. Güyük war nicht auf dem Richterstuhl, nicht auf dem Fürstenstuhl, nicht hinter dem Vorhang, der das hintere Drittel des Zelts vom vorderen trennte. Und doch war er überall. In den Augen der Prinzen, die gelegentlich nach links schauten, obwohl dort nichts war. In der Haltung der Offiziere, die zu still saßen, zu diszipliniert für Männer, die auf eine gewöhnliche Befragung warteten. Im Vorhang selbst, der sich nicht bewegte, obwohl kein Windhauch das Zelt durchquerte.
+Der Mann war alt. So alt, dass seine Haut an den Wangenknochen wie gegerbtes Ziegenleder spannte, fahl und aschgrau im Schein der Butterlampen. Seine Schultern, die einst den Bogen mit der Kraft von zwei Männern gespannt hatten, waren gebeugt, als trüge er die Last der gesamten Steppe auf seinem Nacken. Doch er ging ohne Fesseln. Niemand wagte es, die Hände des jüngsten Bruders von Dschingis Khan mit Eisen zu berühren. Er trug den Kragen seines Pelzes aufgeschlagen, und in seinem schütteren, weißen Bart glitzerten Eiskristalle.
 
-Güyük war der Raum.
+Er blieb vor dem Richtertisch stehen. Seine Augen, trüb vom Alter, suchten nicht Güyük im Schatten. Sie fanden Shigi.
 
-Shigi legte das blau-weiße Buch auf den Tisch und öffnete es auf der Seite des heutigen Datums, die er am Morgen vorbereitet hatte. Datum, Stunde, Anwesende. Er hatte die Namen der Prinzen bereits eingetragen, die Namen der Zeugen, den Namen des Angeklagten. Dieser letzte Name stand allein in einer Zeile, mit einem kleinen Abstand davor und dahinter, als hätte die Seite selbst gezögert, ihn aufzunehmen.
+„Du lässt mich rufen, Knabe?“, fragte Temüge. Seine Stimme war rau, brüchig wie trockenes Schilf im Winterwind, aber sie besaß noch immer jenen beiläufigen Tonfall der absoluten Selbstverständlichkeit, mit dem die Söhne von Hö'elün über die Erde geboten hatten. „Es ist kalt in diesem Zelt. Früher wusste man, wie man ein Feuer schürt, wenn die Familie zusammenkommt.“
 
-Temüge Otchigin.
+Ein leises Rascheln ging durch die Reihe der Prinzen. Niemand antwortete.
 
-Der Jüngste der Brüder. Der letzte.
+Shigi senkte den Kopf nicht. Er spürte das Pochen in seinen Schläfen, das vertraute, schwere Schlagen seines Herzens, unruhig wie ein Vogel, der gegen das Gebälk einer fremden Halle fliegt. Aber seine Finger blieben ruhig, als er das Federrohr aufnahm und in das Tintenfass tauchte. Die Tinte war mit Schnaps versetzt, damit sie auf dem Tisch nicht zu Klumpen fror.
 
-Er trat ein, als Shigi gerade die Feder niederlegte. Zwei Wachen flankierten ihn, aber sie hielten ihn nicht – sie gingen neben ihm, wie Begleiter, nicht wie Bewacher, und das war eine weitere Inszenierung, die Shigi vermerkte. Temüge war ein alter Mann. Siebzig, vielleicht mehr. Sein Gesicht trug die Furchen eines langen Lebens in der Steppe, und seine Schultern waren noch breit, noch aufrecht, aber die Art, wie er ging, verriet den Winter in seinen Gelenken, den langsamen Zerfall, den kein Rang aufhalten konnte. Er trug seinen besten Mantel. Zobelpelz, dunkel, mit goldenen Borten. Er hatte sich gekleidet, als käme er zu einem Fest.
+„Temüge Otchigin“, sprach Shigi, und seine tiefe, langsame Stimme füllte das Zelt, ohne laut zu werden. „Fürst der östlichen Marken. Hüter der heimatlichen Herde. Du stehst vor dem Jarghu.“
 
-Das war keine Naivität. Das war Würde.
+„Ich stehe vor meinem eigenen Blut“, erwiderte der Greis und spuckte trocken auf den Filz zu seinen Füßen. „Oder vor dem, was davon übrig ist. Wo ist mein Neffe? Versteckt er sich hinter den Kisten der Schreiber?“
 
-Shigi kannte Temüge seit Jahrzehnten. Er hatte ihn als Kind gekannt, als Hö'elün noch lebte und das Lager noch nach Steppe roch und nicht nach Kanzleitinte. Er hatte ihn bei drei Kuriltais gesehen, bei zwei Feldzügen, bei einem Dutzend Festen, bei denen Temüge getrunken und gelacht hatte mit der Sorglosigkeit eines Mannes, der wusste, dass sein Name ihn schützte. Dschingis Khans Bruder. Der jüngste. Der Überlebende.
+Güyük rührte sich im Schatten nicht. Nur das weiße Wölkchen seines Atems stieß für einen Herzschlag schneller hervor.
 
-Bis heute.
+„Die Anklage ist verlesen worden, ehe die Sonne den Zenit erreichte“, fuhr Shigi fort, unerbittlich in der vorgeschriebenen Formel, jedes Wort abgewogen wie Silber auf der Waage eines Händlers aus Samarkand. „Sie liegt hier niedergelegt, bezeugt durch die Siegel der Tausendschaftsführer des Ostens. Im Mond des weißen Winters, nach dem Hinscheiden des erhabenen Khagan Ögedei, hast du drei Tausendschaften deiner Haustruppen unter Waffen gesetzt. Du hast die Herden verlassen, die Grenzen deines Weidelandes überschritten und bist in Eilmärschen gegen das Lager der Goldenen Jurte gezogen. Ohne Befehl des Regentschaftsrats. Ohne Ruf des Kuriltai.“
 
-„Temüge Otchigin", sagte Shigi, und seine Stimme war ruhig, ohne Wärme, ohne Kälte. „Du bist vor dieses Gericht geladen wegen des Vorwurfs, in der Zeit des Interregnums nach dem Tod des Khagan Ögedei Truppenbewegungen angeordnet zu haben, ohne Genehmigung der Regentin und ohne Wissen des Hauses. Verstehst du die Anklage?"
+Shigi hob die Augen vom Papier.
 
-Temüge setzte sich auf den Stuhl, der für ihn bereitstand, und sah Shigi an. Sein Blick war nicht der eines Angeklagten. Er war der eines Mannes, der nicht glaubt, dass das, was gerade geschieht, wirklich geschieht.
+„Was antwortest du dem Gesetz?“
 
-„Ich verstehe die Worte", sagte Temüge. „Die Anklage selbst verstehe ich nicht."
+Temüge lachte. Es war ein heiseres, verächtliches Bellen, das keinen Raum für Furcht ließ. Er schüttelte den Kopf, trat einen Schritt näher an den Tisch heran und stützte seine knorrigen Hände auf das Holz.
 
-„Das Gericht wird dir helfen, sie zu verstehen."
+„Das Gesetz? Welches Gesetz meinst du, Tatare? Das Gesetz, das mein Bruder Temüjin am Onon in die Steppe rief, als du noch den Rotz an den Ärmeln deiner Kindertracht abwischtest? Ich war dabei, als wir die Jurten der Merkithen verbrannten. Ich habe an seiner Seite geritten, als wir den Fluss rot färbten. Ich habe deine Mutter gekannt, als sie noch Ziegen molk, ehe sie zur Mutter des Reiches erhoben wurde!“
 
-Shigi nickte dem ersten Zeugen zu.
+Er wandte den Kopf langsam zur Reihe der Prinzen, musterte sie einen nach dem anderen, und sein Blick troff von Geringschätzung.
 
-Was folgte, dauerte zwei Stunden. Shigi führte das Verfahren so, wie er alle Verfahren führte: mit peinlicher Genauigkeit, ohne Abkürzungen, ohne Gesten der Ungeduld oder des Wohlwollens. Die vier Offiziere berichteten. Datum für Datum. Lager für Lager. Truppenstärken, Marschrouten, Befehle, die in Temüges Namen ausgegeben worden waren. Der erste Offizier nannte drei Lager, die in der Woche nach Ögedeis Tod verlegt worden waren, ohne Befehl der Regentin. Der zweite bestätigte die Zahlen und fügte eine Liste von Versorgungslieferungen hinzu, die aus Temüges eigenem Depot stammten. Der dritte hatte einen Brief gesehen – nicht gelesen, nur gesehen –, der Temüges Siegel trug und Marschbefehle enthielt. Der vierte war Temüges eigener Quartiermeister gewesen, und er sprach mit dem tonlosen Gesicht eines Mannes, der weiß, dass er gerade seinen Herrn verrät und nicht anders kann.
+„Ihr Knaben wisst nicht mehr, wie die Erde riecht, wenn zehntausend Pferde darüberjagen. Ihr sitzt in Häusern aus getrocknetem Lehm und lasst euch von persischen Sklaven den Hintern mit Seide wischen. Ich habe Truppen bewegt, ja! Weil das Reich keinen Herrn hatte! Weil ein Weib auf dem Thron saß und die Schätze an fremde Hunde verteilte! Wer, wenn nicht der letzte Bruder des Gründers, hätte das Lager der Ahnen schützen sollen?“
 
-Die Beweislage war echt.
+Er richtete sich auf, so weit sein gekrümmter Rücken es erlaubte. 
 
-Das war das Unerwartete, das Shigi schon beim Lesen der Anklageschrift bemerkt hatte, und es war das Einzige, das ihn in dieser Nacht wachgehalten hatte. Er hatte erwartet, dass Güyük einen Präzedenzfall auf dünnem Eis errichten würde, auf konstruierten Zeugen, auf gefälschten Dokumenten, auf dem Gerüst einer Anklage, die jeder sehen konnte, der sehen wollte. Aber die Beweislage war echt. Temüge hatte tatsächlich Truppen bewegt. Nicht viele. Nicht in Kriegsstärke. Aber er hatte sie bewegt, in den Tagen des Machtvakuums, als jeder Prinz im Reich abwog, was er tun konnte, und die meisten nichts taten. Temüge hatte etwas getan.
+„Ich bin der Otchigin. Der Herr des Herdfeuers. Niemand richtet über das Feuer, das er selbst entzündet hat.“
 
-Vielleicht aus Angst. Vielleicht aus Gewohnheit. Vielleicht weil er dachte, dass sein Name ihm erlaubte, was anderen verboten war.
+Das war seine Verteidigung. Es war keine.
 
-Das war die eigentliche Anklage, und sie stand nicht in den Dokumenten.
+Shigi sah die Blicke der Prinzen. Einige senkten die Augen, beschämt von der Wucht der Erinnerung, die der alte Mann in den Raum warf wie einen blutigen Fleischbrocken. Aber es war eine Scham ohne Gnade. In ihren Gesichtern lag das blanke, nüchterne Einverständnis der neuen Zeit. Rang bedeutete nichts mehr, wenn er nicht von zehntausend frischen Lanzen gestützt wurde. Das Alter war kein Schild gegen den Bogen des Khans.
 
-Als die Zeugen geendet hatten, sah Shigi Temüge an. „Du hast das Recht, dich zu äußern."
+Shigi blickte auf die Akten vor sich.
 
-Temüge richtete sich auf. Er sprach langsam, mit der Würde eines Mannes, der nicht gewohnt ist, sich zu rechtfertigen.
+Die Beweislage war lückenlos. Keine Vermutung, kein Gerücht, keine Verleumdung aus der Kanzlei. Es gab die Marschbefehle mit Temüges eigenem Falkensiegel. Es gab die Aussagen von zwei Tausendschaftsführern, die den Gehorsam verweigert hatten, als sie begriffen, dass der alte Mann die Regentschaft mit Waffengewalt an sich reißen wollte, ehe Töregene die Tore verriegeln konnte. Es gab die Daten, exakt eingetragen von den Schreibern der Poststationen: dritter Tag nach dem Tod Ögedeis, Aufbruch; fünfter Tag, Überquerung des Kalka-Flusses; achter Tag, erzwungener Halt vor den Wachen der kaiserlichen Leibgarde.
 
-„Ich habe deinen Großvater gekannt", sagte er. Nicht zu Shigi. Zu den Prinzen. Sein Blick wanderte von Gesicht zu Gesicht, jung und jung und jung. „Ich habe Temüjin gekannt, als er noch kein Khan war, als er noch ein Junge war in der Steppe, der lernte, was Hunger bedeutet. Ich bin sein Bruder. Ich bin der letzte seines Blutes, der noch lebt. Ich habe für dieses Reich gekämpft, bevor es ein Reich war. Ich habe mein Leben gegeben, meine Söhne gegeben, meine Jahre gegeben. Was ihr Truppenbewegungen nennt, war ein alter Mann, der in einer Zeit der Unruhe seine Grenze sicherte. Das ist kein Verbrechen. Das ist Pflicht."
+Der Fall war sauber.
 
-Er schwieg.
+Shigi hätte sich eine Lüge gewünscht. Eine gefälschte Urkunde, einen bestochenen Zeugen, irgendeinen Makel, an dem er den Hebel des Zweifels hätte ansetzen können, um den alten Mann in die Verbannung an die sibirischen Wälder zu schicken. Doch Temüge hatte ihm diesen Gefallen nicht getan. In seiner grenzenlosen Arroganz, in dem unerschütterlichen Glauben an die Unantastbarkeit seines Blutes, hatte der Onkel seine Absichten nie verborgen. Er hatte gehandelt, wie die Steppe seit tausend Jahren gehandelt hatte: Wer die Pferde hat, holt sich die Jurte.
 
-Die Prinzen sahen ihn an. Keiner sprach.
+Aber die Steppe gehörte nicht mehr den Hirten. Sie gehörte dem Gesetz.
 
-Shigi wartete drei Herzschläge. Dann sagte er: „Hast du weitere Argumente?"
+„Du hast den Marschbefehl gegeben“, sagte Shigi leise. Seine Stimme schnitt durch das Zelt, kalt und scharf wie gefrorenes Wasser. „Du leugnest ihn nicht.“
 
-Temüge sah ihn an, und zum ersten Mal lag in seinem Blick etwas, das Shigi erkannte. Nicht Zorn. Nicht Angst. Begreifen. Der langsame, schwere Moment, in dem ein Mensch versteht, was wirklich geschieht.
+„Warum sollte ich ihn leugnen vor einem Knecht?“, spie Temüge aus.
 
-„Ich habe deinen Großvater gekannt", wiederholte Temüge, leiser jetzt, fast zu sich selbst. „Ich habe Hö'elün gekannt, deine Mutter, die dich aufgenommen hat. Ich habe dich gekannt, Shigi, als du noch ein Kind warst."
+Shigi zuckte nicht mit der Wimper. Er kannte das Wort. Er hatte es als Kind gehört, als er im Zelt von Hö'elün aufwuchs, geduldet, genährt, aber niemals einer von ihnen. Er hatte sein ganzes Leben damit verbracht, nützlicher zu sein als jedes eigene Kind, weil Nützlichkeit die einzige Rüstung eines Fremden war.
 
-„Das weiß ich", sagte Shigi.
+„Die Große Jasa“, sprach Shigi, und jedes Wort fiel schwer und endgültig auf den Tisch wie ein geschliffener Kiesel, „kennt keine Brüder. Sie kennt keine Onkel. Sie spricht: Wer Truppen versammelt ohne den Siegelbrief des rechtmäßigen Herrschers, wer das Heer spaltet im Angesicht des Todes eines Khagan, der greift nach der Sehnenkraft des Reiches. Und wer nach der Sehnenkraft greift, dessen Hand gehört dem Beil.“
 
-Es war keine Antwort. Es war eine Grenze.
+Er blickte nicht zu Güyük hinüber. Er brauchte den Khan nicht anzusehen, um zu wissen, dass dieser im Schatten lächelte – nicht mit den Lippen, sondern mit jenem tiefen, dunklen Triumph eines Mannes, der endlich bekommt, was er begehrt. 
 
-Temüge schwieg.
+Der Präzedenzfall stand. 
 
-Shigi blickte auf das blau-weiße Buch vor ihm. Die Beweislage war echt. Die Truppenbewegungen hatten stattgefunden. Die Genehmigung der Regentin hatte nicht vorgelegen. Das Gesetz des Reiches, das Dschingis Khan selbst erlassen hatte, das Gesetz, das Shigi sein ganzes Leben lang gehütet hatte wie ein Hirte seine Herde, sagte eindeutig, was in solchen Fällen galt. Kein Prinz, kein Feldherr, kein Bruder des Gründers durfte in Zeiten des Interregnums Truppen ohne Genehmigung bewegen. Das war nicht eine Regel unter vielen. Das war die Regel, aus der alle anderen folgten. Ohne sie war das Reich kein Reich, sondern ein Haufen bewaffneter Männer, die auf ihre eigenen Interessen warteten wie Wölfe auf eine Herde ohne Hirten.
+Ab heute war das Blut nicht mehr heilig. Ab heute war die Familie justiziabel. Wenn der letzte Bruder des Gründers verurteilt werden konnte, dann gab es niemanden zwischen Himmel und Erde, der über dem Gesetz des Khagan stand. Kein Prinz, kein Heerführer, keine Witwe.
 
-Ich habe deinen Großvater gekannt war keine Verteidigung. Es war eine Bitte.
+Und keine persische Sklavin.
 
-Und Bitten waren keine Argumente.
+Shigi spürte die Kälte in seiner Brust, eine eisige Gewissheit, die tiefer reichte als der Winter vor dem Zelt. Er benutzte das Gesetz heute genau so, wie Dschingis Khan es gedacht hatte: als unbestechliche Waage, blind für Geburt und Herkunft. Und dieses saubere, vollkommen gerechte Urteil würde einen alten Mann töten – und das Fundament für alles Unrecht legen, das Güyük in den kommenden Monden über das Reich bringen würde.
 
-Shigi hob den Kopf.
+Er nahm das Eisensiegel. Seine Hand zitterte nicht.
 
-„Das Gericht hat die Beweise geprüft", sagte er. „Die Truppenbewegungen sind belegt durch vier Zeugen und durch Dokumente, die das Siegel des Angeklagten tragen. Eine Genehmigung der Regentin lag nicht vor. Eine nachträgliche Genehmigung wurde nicht beantragt. Der Angeklagte hat keine sachlichen Einwände gegen die Beweise vorgebracht." Er machte eine Pause, kurz, präzise. „Das Gericht befindet Temüge Otchigin des Verstoßes gegen das Gesetz des Hauses für schuldig."
+„Temüge Otchigin“, sagte Shigi, und die Stille im Zelt war so vollkommen, dass man das ferne Heulen der Windhunde draußen im Lager hören konnte. „Schuldig des Aufruhrs gegen das Reich. Schuldig des Bruchs der Großen Jasa.“
 
-Der Satz fiel in die Stille wie ein Stein in stehendes Wasser.
+Er setzte das Siegel auf das Papier. Das Eisen traf mit einem dumpfen, trockenen Schlag auf den Tisch. Rote Siegelerde quoll unter den Rändern hervor, dick wie geronnenes Blut.
 
-Die Prinzen bewegten sich nicht. Die Wachen bewegten sich nicht. Temüge saß still, die Hände auf den Knien, den Blick geradeaus, und Shigi sah, wie der alte Mann die Nachricht aufnahm – nicht mit Zusammenbruch, nicht mit Protest, sondern mit der Erschöpfung eines Mannes, der endlich versteht, dass der Boden unter ihm schon lange nicht mehr fest gewesen war.
+Temüge starrte auf das Papier. Für einen Augenblick schien all die wilde, archaische Wut aus seinem Körper zu weichen. Seine Schultern sackten noch tiefer ein. Er sah plötzlich nicht mehr aus wie ein furchterregender Fürst der Steppe, sondern nur noch wie ein gebrochener Greis, der zu lange gelebt hatte, hinein in eine Welt, deren Sprache er nicht mehr verstand.
 
-Schuldig.
+Er sah Shigi an. In diesem Blick lag keine Wut mehr, nur noch das grenzenlose, fassungslose Erstaunen eines Kindes, das geschlagen worden war, ohne den Grund zu begreifen.
 
-Das Wort hallte in Shigis Kopf nach, während er es in das blau-weiße Buch schrieb. Datum. Stunde. Anwesende. Anklagepunkte. Beweismittel. Urteil. Er schrieb langsam und deutlich, jeden Buchstaben mit der Sorgfalt eines Mannes, der weiß, dass dieses Dokument überleben wird. Nicht ihn. Nicht Temüge. Nicht Güyük. Das Dokument würde überleben, und in ihm stand, was heute geschehen war, und was heute geschehen war, war mehr als ein Urteil gegen einen alten Mann.
+„Du hast es getan“, flüsterte Temüge. „Du Hund. Du hast es wirklich getan.“
 
-Es war ein Präzedenzfall.
+Die Wachen traten vor. Sie berührten ihn nicht grob, aber sie schlossen den Kreis um ihn, eng und unüberwindbar. Sie führten ihn ab, hinaus in den Frost, und der Vorhang fiel hinter ihnen zu.
 
-Der älteste Mann der Familie – der letzte Bruder des Gründers, der Mann, der Temüjin als Kind gekannt hatte, der Mann, dessen Blut dasselbe war wie das Blut, das das Reich gegründet hatte – stand ab heute unter dem Khan. Unter dem Gesetz. Unter dem Gericht. Kein Rang schützte ihn. Kein Name schützte ihn. Kein Jahrzehnt des Dienstes schützte ihn. Das war die Botschaft, und jeder im Zelt empfing sie, ob er wollte oder nicht, ob er verstand oder nicht, ob er den Vorhang im hinteren Drittel des Zelts bemerkt hatte oder nicht.
+Das war das Ende. Kein Schrei, kein Kampf. Was nun geschehen würde, würde hinter den Zelten geschehen, ohne dass Blut auf die Erde floss – eine Sehnenschlinge, ein schwerer Filzteppich, der das Leben erstickte, wie es dem kaiserlichen Blut gebührte. Der Vollzug gehörte nicht in die Kanzlei. Die Kanzlei brauchte nur das Urteil.
 
-Die Familie war justiziabel.
+Die Prinzen erhoben sich schweigend. Sie sahen Shigi nicht an, als sie das Zelt verließen. Sie gingen mit gesenkten Köpfen, hastig, als fürchteten sie, der Frost im Zelt könnte sich an ihre Fersen heften.
 
-Shigi schloss das Buch.
+Zuletzt stand Güyük auf.
 
-Der Vollzug des Urteils war nicht seine Aufgabe. Er wusste, was folgen würde – nicht sofort, nicht heute, vielleicht nicht einmal in dieser Woche, aber es würde folgen, mit der Unausweichlichkeit eines Sturms, der am Horizont stand und dessen Geruch man schon riechen konnte. Temüge würde nicht alt sterben. Das war keine Prophezeihung. Das war Arithmetik.
+Er trat aus dem Schatten hervor, ging langsam auf den Richtertisch zu und blieb stehen. Seine dunklen Augen ruhten auf dem versiegelten Blatt. Er legte eine Hand auf das Holz, beugte sich leicht vor. Der Geruch von kaltem Eisen und altem Leder ging von ihm aus.
 
-Er stand auf, und die Männer im Zelt standen mit ihm, reflexartig, wie Männer aufstehen, wenn Macht sich bewegt. Temüge stand nicht. Er saß noch auf seinem Stuhl, den Blick geradeaus, und Shigi sah ihn an, einen letzten Moment lang, und er dachte an Hö'elün, die ihn aufgenommen hatte, die ihm einen Namen gegeben hatte, die ihm gesagt hatte: Das Gesetz ist der einzige Vater, dem du vertrauen kannst, weil er keine Söhne bevorzugt. Er dachte an den Tag, an dem er das zum ersten Mal geglaubt hatte, und er dachte an den Tag, an dem er aufgehört hatte, es zu glauben, und er dachte an heute, an dieses Urteil, das sauber war, das korrekt war, das das Gesetz so anwandte, wie es gedacht war, und das trotzdem einen alten Mann tötete.
+„Sauber“, sagte der Khagan. Seine Stimme war leise, fast anerkennend, aber ohne jede Wärme. „Ein sauberes Urteil, Jarghuchi. Mein Vater hätte es nicht besser gekonnt.“
 
-Er verließ das Zelt.
+„Dein Vater“, erwiderte Shigi, ohne aufzusehen, „hatte Furcht vor dem Himmel, Khagan.“
 
-Der Winter traf ihn sofort. Kalt. Stein. Der Geruch von gefrorenem Gras und Rauch aus den Kochfeuern, die irgendwo hinter den Zelten brannten. Der Himmel war weiß, nicht blau, eine flache, gleichmäßige Helligkeit, die keine Schatten warf und keine Wärme gab. Shigi stand einen Moment vor dem Zelt und ließ die Kälte in seinen Mantel dringen, weil sie ehrlicher war als das, was er gerade hinter sich gelassen hatte.
+Güyük schwieg einen Herzschlag lang. Dann drehte er sich um und ging. Seine Stiefel knirschten auf dem gefrorenen Boden, bis der Vorhang flatterte und auch er verschwunden war.
 
-Er ging zurück in seine Kanzlei.
+Shigi blieb allein zurück.
 
-Sie war leer. Khorchin war nicht da, die Schreiber nicht da, niemand. Er hatte das so angeordnet, ohne es ausdrücklich gesagt zu haben, nur durch die Art, wie er am Morgen gegangen war, mit dem blau-weißen Buch in der Hand und dem Siegel in der anderen, und Khorchin hatte verstanden, wie Khorchin immer verstand, wenn Shigi allein sein musste.
+Die Butterlampen flackerten im Zugluftstrom. Der Docht der rechten Lampe ertrank im schmelzenden Fett, zischte kurz und erlosch, sodass ein beißender, bläulicher Rauchfaden aufstieg.
 
-Er setzte sich an den Tisch.
+Shigi saß da und rührte sich nicht. Seine Finger waren taub vor Kälte.
 
-Das blau-weiße Buch lag vor ihm, und er öffnete es erneut auf der Seite des heutigen Datums. Der Eintrag war vollständig. Datum, Stunde, Anwesende, Anklagepunkte, Beweismittel, Urteil. Alles korrekt. Alles sauber. Er las es einmal durch, mit dem Blick eines Mannes, der prüft, ob ein Werkzeug scharf genug ist, und er stellte fest, dass es scharf genug war. Zu scharf, vielleicht.
+Er hatte das Gesetz benutzt, wie es gedacht war. Er hatte nicht gelogen, er hatte nichts gebeugt, er hatte keine Bestechung angenommen und kein falsches Zeugnis geduldet. Es war die reinste, makelloseste Stunde seiner richterlichen Pflicht gewesen.
 
-Dann holte er das andere Buch hervor.
+Und er wusste mit einer schmerzhaften, unerbittlichen Klarheit, dass es das letzte ehrliche Urteil seiner Laufbahn gewesen war.
 
-Es lag in der Lade unter der Tischplatte, hinter einem Bündel Steuerregister aus der Provinz Yunnan, die niemanden interessierten und die deshalb der beste Ort waren, etwas zu verstecken. Das andere Buch war kleiner als das blau-weiße, ohne Prägung, ohne Farbe, ein schlichtes Heft aus gepresstem Papier, das er vor Jahren begonnen hatte, ohne genau zu wissen, warum. Die Privatakte. Das Buch der ehrlichen Minuten.
+Ab morgen würde Güyük dieses Urteil als Waffe tragen. Er würde es gegen die Schatzmeister seiner Mutter wenden, gegen die Statthalter im Westen, gegen jeden, der ihm im Weg stand. Er hatte bewiesen, dass der Richtstuhl über dem Blut stand. Nun würde er den Richtstuhl benutzen, um das Blut fließen zu lassen.
 
-Er öffnete es auf der letzten beschriebenen Seite und las, was dort stand. Die Einträge waren kurz. Datum. Stunde. Was wirklich geschehen war. Nicht das Urteil, das er gesprochen hatte, sondern das Urteil, das er gedacht hatte. Nicht die Formel, sondern die Wahrheit dahinter. Er las den Eintrag vom Tag, an dem er Ögedeis Tod bestätigt hatte, ohne die Ärzte zu befragen. Er las den Eintrag vom Tag, an dem er Fatimas Namen nicht genannt hatte, obwohl Güyük danach gefragt hatte. Er las den Eintrag vom Tag, an dem er die Chronik in die Steppe geschickt hatte, um sie vor Toghril zu verbergen.
+Shigi griff unter seinen schweren Schafpelz. Seine Finger tasteten nach der verborgenen Tasche in seinem Wams, dort, wo das flache, in dunkles Rohleder gebundene Heft ruhte – seine Privatakte. Die geheime Chronik, die kein Khan je zu Gesicht bekommen durfte, solange er atmete.
 
-Jeder Eintrag war eine Lüge, die er gesprochen hatte.
+Er schlug das Heft auf. Die Seiten waren rau, handgeschöpftes Papier aus Samarkand, das er vor zwanzig Jahren von einem Händler gekauft hatte. Er strich mit der Handfläche über das Blatt, spürte die Unebenheiten der Fasern.
 
-Und jeder Eintrag war die Wahrheit, die er aufgeschrieben hatte.
+Er tauchte die Feder erneut in die kältestarre Tinte.
 
-Er nahm die Feder.
+Er schrieb nicht den Text des Urteils nieder. Er schrieb nicht die Paragrafen der Jasa. Er fixierte nur die nackten, unbarmherzigen Knochen der Wirklichkeit, so wie er es in jener Nacht getan hatte, als Ögedei mit Schaum vor dem Mund auf den Seidenkissen lag.
 
-Der heutige Eintrag schrieb sich schneller als die anderen, weil er einfacher war. Nicht einfacher im Sinne von leichter – einfacher im Sinne von klarer. Er schrieb: Temüge Otchigin, letzter Bruder des Gründers, heute verurteilt. Beweislage echt. Verfahren korrekt. Das Gesetz angewandt, wie es gedacht ist. Der Angeklagte hat keine Verteidigung vorgebracht, die sachlich war. Nur seinen Namen. Nur seine Nähe zum Gründer. Ich habe deinen Großvater gekannt als Argument. Es war kein Argument.
+*Winter des Pferdejahres. Im Lager am Orchon. Die vierte Stunde nach Sonnenhöchststand.*
 
-Er hielt inne.
+Seine Hand bewegte sich langsam, aber die Schriftzüge waren klar, jedes Zeichen ein Schnitt in die Rinde der Zeit.
 
-Dann schrieb er weiter: Das Urteil war das sauberste, das ich in diesem Jahr gesprochen habe. Vielleicht das sauberste seit Jahren. Und es wird ihn töten. Das ist das Gesetz, wie es gedacht ist. Ich weiß nicht mehr, ob das eine Entschuldigung ist oder eine Anklage.
+*Temüge Otchigin, jüngster Bruder des Erhabenen, zum Tode verurteilt wegen unrechtmäßiger Heeresfolge. Gesiegelt von meiner Hand. Zugegen: Güyük Khagan im Schatten der Wand; sieben Prinzen des Blutes, stumm wie Schafe vor der Schur.*
 
-Er legte die Feder nieder.
+Er hielt inne. Die Tinte glänzte feucht im matten Licht der verbliebenen Lampe. Er sah auf die Worte hinab, und für einen Augenblick war ihm, als könnte er das Schlagen seines eigenen Herzens im Rhythmus der kratzenden Feder hören.
 
-Draußen war es still. Die Kälte drückte gegen die Zeltwände, und irgendwo in der Ferne hörte er das Geräusch von Pferden, das Scharren von Hufen auf gefrorenem Boden, das leise Scheppern von Rüstungsteilen. Truppenbewegungen. Immer Truppenbewegungen, in diesem Winter, in diesem Reich, in dieser Zeit, in der jeder abwog und niemand stillstand.
+Er setzte die Feder noch einmal an und fügte eine letzte Zeile hinzu:
 
-Temüge hatte Truppen bewegt.
+*Das Gesetz war gerecht. Möge der Himmel uns vergeben.*
 
-Shigi dachte daran, warum. Nicht die juristische Warum, nicht die Frage nach dem Befehl und der Genehmigung und dem Dokument mit dem Siegel. Die andere Warum. Der alte Mann in seinem Zobelpelz, der seinen besten Mantel angezogen hatte, weil er wusste, dass er vor Gericht stand, und der trotzdem nicht geglaubt hatte, dass das Gericht ihn verurteilen würde, weil er dachte, dass sein Name ihn schützte. Nicht aus Arroganz. Aus Gewohnheit. Aus einem Leben, in dem der Name tatsächlich geschützt hatte, in dem Rang tatsächlich bedeutet hatte, dass die Regeln für andere galten.
+Er blies vorsichtig über die Zeilen, bis der Glanz matt wurde und das Papier die Schwärze aufsog. Dann schloss er das Heft, schob es zurück an seine Brust, dorthin, wo die Kälte des Winters es nicht erreichen konnte.
 
-Das war vorbei.
-
-Güyük hatte das heute beendet, und er hatte Shigi benutzt, um es zu beenden, und Shigi hatte mitgemacht, weil die Beweislage echt war und das Gesetz eindeutig war und weil er kein Werkzeug der Macht sein wollte, aber auch kein Werkzeug der Sentimentalität. Das Gesetz galt für jeden. Das hatte er immer geglaubt. Das glaubte er noch.
-
-Und doch.
-
-Er blickte auf den Eintrag in der Privatakte. Die ehrliche Minute. Er dachte: Das war das letzte saubere Urteil. Er wusste nicht, woher er das wusste, aber er wusste es mit der Sicherheit, mit der man manchmal Dinge weiß, die man nicht beweisen kann, die man aber auch nicht widerlegen kann. Was nach diesem Urteil kommen würde – die Fälle, die Güyük ihm bringen würde, die Anklagen, die auf Temüges Urteil als Präzedenzfall verweisen würden, die Logik, die sich aus diesem Tag ergab wie ein Fluss aus einer Quelle –, das würde nicht mehr sauber sein. Das würde das Gesetz benutzen, nicht anwenden. Das war der Unterschied, und er war der einzige Unterschied, der zählte.
-
-Wenn schon der Bruder des Gründers fiel.
-
-Er schloss die Privatakte. Legte sie zurück in die Lade, hinter die Steuerregister aus Yunnan. Stand auf. Ging zum Fenster, das nicht wirklich ein Fenster war, sondern eine Öffnung in der Zeltwand, die mit einem Stück geöltem Leder verschlossen war, das im Winter gegen die Kälte abdichtete und im Sommer Licht durchließ. Er hob das Leder an und sah hinaus.
-
-Die Zeltstadt lag im weißen Licht des Wintertages. Rauch stieg aus Dutzenden von Feuern, gerade und dünn in der stillen Luft. Zwischen den Zelten bewegten sich Menschen, klein und schnell, eingehüllt in Pelze und Mäntel, die Köpfe gesenkt gegen die Kälte. Irgendwo in diesem Lager saß Temüge Otchigin in einem Zelt, das bald kein Zelt mehr sein würde, das ihm gehörte, und wartete auf das, was Güyük aus diesem Urteil machte.
-
-Shigi ließ das Leder fallen.
-
-Er dachte an Hö'elün. Er dachte an den Satz, den sie ihm einmal gesagt hatte, in einem anderen Winter, in einem anderen Lager, als er noch ein Kind war und noch nicht wusste, was er werden würde: Das Gesetz ist nicht dazu da, Gerechtigkeit zu garantieren. Es ist dazu da, Willkür zu verhindern. Das ist nicht dasselbe, und wer das vergisst, verliert beides.
-
-Er hatte das nicht vergessen.
-
-Aber er begann zu verstehen, dass es einen Punkt gab, an dem das Gesetz selbst zur Willkür wurde, wenn es von einem Mann benutzt wurde, der es nicht für Gerechtigkeit einsetzte, sondern für Macht. Und er begann zu verstehen, dass er in diesem Punkt stand, in diesem Winter, in dieser Kanzlei, mit dem blau-weißen Buch auf dem Tisch und der Privatakte in der Lade und dem Urteil von heute, das sauber war und das trotzdem falsch war, nicht falsch im Sinne des Gesetzes, sondern falsch im Sinne von etwas, das er noch nicht benennen konnte.
+Die ehrliche Minute funktionierte noch. 
 
 Noch.
 
-Er setzte sich wieder an den Tisch.
-
-Er öffnete das blau-weiße Buch ein letztes Mal, auf der Seite des heutigen Datums, und las den Eintrag noch einmal durch. Datum, Stunde, Anwesende, Anklagepunkte, Beweismittel, Urteil. Alles korrekt. Alles sauber. Alles wahr, in dem Sinne, in dem offizielle Dokumente wahr sind: vollständig, belegt, gesiegelt.
-
-Er schloss das Buch.
-
-Die ehrliche Minute funktionierte noch.
-
-Noch.
-
----

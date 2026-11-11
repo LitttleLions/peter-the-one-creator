@@ -1,159 +1,172 @@
 ## Die Schattenkanzlerin
 
-Der Morgen begann mit einem Geschenk.
+Der Geruch von geschmolzenem Bienenwachs, feuchtem Filz und getrocknetem Wermut hing schwer im Vorzelt der Kanzlei. Draußen schlug der Wind gegen die Spannseile, ein dumpfes, rhythmisches Reißen, als zupfe eine ungeduldige Hand an den Sehnen des Himmels. Fatima saß auf drei Lagen kaspischer Teppiche, den Rücken gerade, die Knie unter den Falten eines dunkelblauen Wollgewandes verborgen, das weder das Licht fing noch die Blicke der Wartenden herausforderte.
 
-Fatima saß in der äußeren Kammer des Regentinnenzeltes, als der erste Bittsteller eintrat. Ein Kaufmann aus Buchara, der vor ihr niederkniete, als wäre sie die Herrscherin selbst. Er brachte Seide, blau wie der Winterhimmel über Karakorum, und ein versiegeltes Schreiben, das er nicht öffnen durfte.
+Vor ihrem niedrigen Schreibpult kniete ein Mann aus Buchara. Die Stirn presste er in die Wolle, die Hände hielt er mit offenen Handflächen nach oben, als erwarte er Regen oder Schläge. Neben ihm stand eine Schatulle aus geschnitztem Walrosszahn, deren Scharniere leise knarrten, als er den Deckel mit zitternden Daumen lüpfte. Zehn Bezoarsteine, gebettet auf grünem Samt, glatt wie Flusskiesel und von der Größe von Taubeneiern.
 
-Sie nahm die Seide, wog sie in den Händen, spürte die Kälte des Stoffes zwischen den Fingern.
+„Für die Lunge der erhabenen Khatun“, flüsterte der Bittsteller. Sein Persisch schmeckte nach der Oase, nach faulenden Feigen und Lehmstaub. „Gegen die Kälte des Winters. Gegen das böse Blut.“
 
-„Ich kann dein Gesuch nicht lesen“, sagte sie. „Ich kann nur die Seide wiegen. Und sie ist leicht, Kaufmann. Zu leicht für das, was du erbittest.“
+Fatima blickte nicht auf die Steine. Sie sah auf die Hände des Mannes. Die Ränder der Nägel waren schwarz von Indigo; er war Tuchhändler, kein Gelehrter, und das Gut, das er durch die Berge von Chotan schleusen wollte, lag nicht in der Gnade des Ewigen Himmels, sondern auf zweihundert Maultieren.
 
-Er sah auf, verwirrt, verängstigt. „Edle Herrin, es sind fünfzig Ballen bester Seide aus Samarkand –“
+„Die Regentin atmet die Luft der Steppe ohne Schmerz“, sagte Fatima. Ihre Stimme war nicht laut, aber sie besaß jene glatte Härte von gefrorenem Quellwasser. „Nehmt Eure Steine. Sie gehören in das Haus eines Kranken. Aber sagt Eurem Vetter in Samarkand, dass der Zollposten am Oxus ab dem Neumond keine Silberbarren mehr wiegt, sondern Seidenballen zählt. Wenn seine Ballen das Maß der Kanzlei haben, wird sein Konvoi vor dem ersten Frost den Fluss überqueren.“
 
-„Fünfzig Ballen wiegen mehr als deine Hände.“ Sie legte den Stoff auf den Tisch, glättete die Falten, ließ ihre Finger über die Kante gleiten. „Du bittest um eine Handelslizenz für den Westen, nicht wahr? Für die Straßen durch Chorasan, die noch offen sind, weil keine Armee sie bewacht, weil kein Gouverneur die Zölle erhebt, weil die Dörfer dort leer sind und die Toten noch immer nicht begraben wurden.“
+Der Mann hob den Kopf, die Augen geweitet zwischen Schrecken und ungläubigem Begreifen. Er hatte mit einem Monat des Wartens gerechnet, mit Schmiergeldern an zehn Schreiber und dem feilbietenden Lächeln der Eunuchen.
 
-Er antwortete nicht. Sein Gesicht wurde grau, und er öffnete den Mund, aber die Worte kamen nicht.
+„Herrin…“, stammelte er.
 
-„Du willst reisen durch eine Provinz, die es nicht mehr gibt“, sagte sie leise, ohne ihm die Möglichkeit einer Antwort zu lassen. „Du willst deine Seide verkaufen an Dörfer, die keine Hände mehr haben, sie zu weben. Deine Lizenz ist kein Geschäft, Kaufmann. Sie ist eine Beleidigung. Geh zurück nach Buchara. Bring deine Seide nach Westen, wenn du lebensmüde bist. Aber verschwende nicht meine Zeit mit Geschenken, die nicht wiegen, was sie kosten sollten.“
+„Drei Worte genügen“, sagte sie leise. „Geht.“
 
-Sie schob das Tuch über den Tisch, und der Ton seiner Stimme hatte die Kraft eines Befehls. Der Kaufmann nahm die Seide, stand auf, verbeugte sich tief und ging. Seine Schritte auf dem Filzboden waren schnell, flüchtend, das Geräusch seiner Flucht war ein Echo, das in der Stille liegen blieb.
+Er kroch rückwärts hinaus, die Schatulle an die Brust gepresst wie ein gestohlenes Kind. Kaum hatte sich die schwere Filzklappe hinter ihm gesenkt, trat der nächste Schatten in den Schein der Talgkerze.
 
-Fatima sah ihm nach, bis der Vorhang zufiel.
+Es war kein Tag des Nachdenkens. Es war ein Tag des Richtens.
 
-Draußen, vor dem Zelt, hörte sie das Wispern. Es war ein leises Geräusch, das sich im Wind verfing, der durch die Ordu strich, zwischen den Zelten der Diener, den Jurten der Prinzen, den Karren der Händler. Ein Wort, das von Zelt zu Zelt wanderte, wie ein Funke, der von Gras zu Gras sprang, bevor das Feuer sichtbar wurde.
+Die Kanzlei war unter Töregenes Regentschaft zu einem Trichter geworden, und Fatima war der Hals, durch den alles hindurchmusste, was das Weltreich bewegte. Hundertachtzig Gesuche lagen aufgeschichtet auf den Buchenholzbrettern zu ihrer Linken. Ernennungen für das Land am Fünfflussland. Beschwerden nestorianischer Bischöfe über Steuereintreiber in Täbris. Klagen uigurischer Schreiber, denen man die Futterrationen für ihre Pferde gekürzt hatte.
 
-*Chorasanische Hexe.*
+Fatima hob das Schilfrohr. Mit einer winzigen Bewegung ihres Handgelenks strich sie den Namen eines Gouverneurs für Nischapur durch. Drei Zeilen weiter unten setzte sie ein anderes Zeichen, flüchtig, fast nachlässig. Der Mann, den sie strich, hatte vor zwanzig Jahren Getreide an die Truppen Jebe Noyans geliefert, während die Vorstädte brannten; der Mann, den sie einsetzte, war ein alter Steuerbeamter, der damals seine eigenen Speicher geöffnet hatte, um den Waisen von Tus Gerstenmehl zu backen.
 
-Fatima blieb ruhig. Sie hob den nächsten Brief vom Stapel, öffnete ihn mit dem Messer, das neben ihr auf dem Tisch lag. Das Messer war scharf, die Klinge alt und abgenutzt an der Stelle, wo der Daumen sie hielt. Es hatte ihrem Vater gehört, vor langer Zeit, in einer anderen Welt.
+Drei Sätze. Eine Handbewegung. Dreihundert Meilen entfernt würden Männer ihre Pferde satteln und ihre Häuser verlassen, ohne je den Namen der Frau zu erfahren, die ihr Schicksal mit Ruß und Gummiarabikum besiegelt hatte.
 
-Sie las. Ein Bittgesuch um Wasserrechte am Oxus. Ein zweites um Steuererlass für eine Karawane, die nach Süden zog. Ein drittes, das eine Stellungnahme des Gouverneurs von Merw erforderte, der sich weigerte zu antworten, weil er wusste, dass die Regentin keine Antwort von ihm verlangte.
+Macht.
 
-Sie nahm die Feder, tauchte sie ein, und schrieb.
+Sie schmeckte nicht nach Rache. Sie schmeckte metallisch, kühl, wie Wasser aus einem Zinnbecher an einem heißen Mittag.
 
-*Der Gouverneur von Merw wird abgesetzt. Sein Nachfolger ist Chaqan, der Neffe des Statthalters von Buchara, der sich bereits als fähig erwiesen hat, den Handel im Westen zu sichern.*
+„Ihr lasst die Hunde lange betteln, Herrin Fatima.“
 
-Sie setzte das Siegel darunter. Ein zweiter Satz. *Die Wasserrechte am Oxus gehen an die Sippe des Tümen-Berke, als Gegenleistung für die Sicherung der südlichen Handelsstraße.*
+Die Stimme kam von der Seite, wo die Holzpfeiler den Rauchfang stützten. Abd ar-Rahman stand dort, den Bauch in scharlachroten Brokat geschnürt, die Fäuste in die Hüften gestemmt. Er roch nach Rosenwasser und Hammelfett, jener Mischung aus Basar und Zeltlager, die seinen Aufstieg begleitete wie der Staub eine Hammelherde. Einst war er ein kleiner Geldwechsler gewesen, der in den Gassen von Herat Kupfer gegen Silber wog; nun pachtete er die Steuern der gesamten Westländer, weil er Töregene versprochen hatte, aus Sand Gold zu pressen.
 
-Ein dritter Satz. *Der Steuererlass für die Karawane von Isfahan wird genehmigt, unter der Bedingung, dass die Hälfte der Waren dem Hof der Regentin zur Prüfung vorgelegt wird.*
+Fatima legte das Schilfrohr auf die Porzellanbank. Sie sah ihn nicht an, doch sie spürte die Feindseligkeit, die zwischen ihnen stand wie die Hitze über einem Schmiedefeuer. Zwei Menschen, die aus der Asche desselben Feuers gekrochen waren, aber während sie gelernt hatte, sich unsichtbar zu machen, wollte er die Sonne verdunkeln.
 
-Sie legte die Feder nieder, drehte das Siegel auf den Wachsresten, und die drei Papiere waren bereit, um als Gesetze hinauszugehen in die Welt. Sie würde sie heute Abend der Regentin vorlegen, und sie würden unterschrieben werden, als wäre es Töregenes Wille gewesen.
+„Hunde, die man zu schnell füttert, beißen nach den Fingern“, erwiderte sie ruhig. „Ihr wolltet die Zolleinkünfte von Rayy für das kommende Jahr im Voraus verpachten. Die Regentin hat das Gesuch abgelehnt.“
 
-Aber es war ihr Wille.
+Abd ar-Rahmans Lächeln verrutschte um Haaresbreite. „Das war mein Vorschlag. Er hätte der Schatzkammer vierzigtausend Silberbarren gebracht, noch ehe das Eis schmilzt.“
 
-Sie saß in der Kammer, und die Stille um sie herum war schwer, voller ungehörter Worte, ungeweinter Tränen. Sie spürte die Wärme der Lampe auf ihrer Haut, das Knistern des Dochts, der langsam verbrannte. Sie spürte die Macht, die in ihren Händen lag, schwer wie Stein, kalt wie die Klinge eines Messers, das man zu lange in der Hand hält.
+„Und im Herbst hätte Rayy keine Saat mehr gehabt, um den Weizen für das nächste Jahr in die Erde zu bringen. Wer das Korn frisst, ehe es wächst, stirbt im Winter.“ Sie hob nun doch den Blick, ruhig, unerschütterlich. „Ich habe den Brief zerrissen, Abd ar-Rahman. Sucht Euer Silber in Choresmien. Dort haben Eure Kaufleute noch nicht alle Brunnen vergiftet.“
 
-*Chorasanische Hexe.* Das Wort war wie ein Echo, das von den Zelten zurückschlug, und sie wusste, dass es bleiben würde, dass es wachsen würde, dass es sich in den Gängen des Hofes festsetzen würde, wie das Geräusch von Schritten, die nie aufhören.
+Ein Muskel an seinem Kiefer zuckte. Er trat einen Schritt näher, die Ringe an seinen fleischigen Fingern stießen leise aneinander. „Ihr vergesst, wer Euch den Rücken freihält, Chorasanerin. Die Fürsten im Osten murren. Sie sagen, ein Weib regiere den Ordu, und hinter dem Weib sitze eine Sklavin, die keine Gebete kennt, weder die der Christen noch die der Ahnen.“
 
-Sie wollte nicht daran denken. Sie nahm den nächsten Brief, riss ihn auf, las die gestelzten Worte eines Kaufmanns aus Samarkand, der um eine Audienz bei der Regentin bat. Sie schrieb eine Ablehnung, kurz, präzise, ohne eine Spur von Gnade.
+„Sie sagen viel, wenn der Tag lang ist und der Kumis sauer.“
 
-Die Arbeit des Vormittags war eine Litanei der Entscheidungen, ein Strom von Gesuchen und Ablehnungen, von Gaben, die angenommen, und Gaben, die zurückgewiesen wurden. Sie ließ die Geschenke vor sich ausbreiten, als wären sie Beweise, als wären sie die Fragmente einer Sprache, die sie erst lernen musste. Ein goldener Gürtel aus Buchara, ein Kästchen mit Edelsteinen aus Indien, ein Säbel, dessen Klinge mit Koranversen graviert war. Sie legte jedes Stück zur Seite, notierte den Namen des Schenkers, die Höhe des Geschenks, die vermutete Erwartung.
+„Sie sagen noch etwas anderes.“ Er neigte sich vor, und seine Stimme sank zu einem rauen Zischen herab, das den Geruch von Gewürznelken trug. „Sie nennen Euch die chorasanische Hexe. Sie sagen, Ihr hättet der Khatun ein Kraut in den Tee gemischt, das ihren Willen schmilzt wie Talg in der Pfanne.“
 
-Sie nahm den Gürtel, drehte ihn in den Händen, spürte das Gewicht des Goldes, die Kälte des Metalls. Der Schenker war der Bruder des abgesetzten Gouverneurs von Tus, ein Mann, der seine Position verloren hatte, weil sein Bruder zu langsam gewesen war, den Tribut zu zahlen. Sie wusste, dass er um eine Rückkehr bat, um die Gunst der Regentin, um die Möglichkeit, sein Haus wieder aufzubauen.
+Das war gefährlich.
 
-Sie schrieb die Ablehnung, ohne den Gürtel loszulassen. *Der Bruder des Gouverneurs von Tus darf nicht zurückkehren. Das Blut seiner Familie klebt noch an den Steinen der Stadt.*
+Fatima hielt dem Blick stand. Kein Wimpernschlag verriet das kalte Ziehen in ihrer Brust, jenen alten, vertrauten Schmerz am linken Handgelenk, wo die Narbe weiß gegen ihre gebräunte Haut stand. Sie kannte das Wort. Sie hatte es in den vergangenen Monden schon gehört, geflüstert hinter Filzbehängen, gemurmelt von Wachposten, wenn sie nach Mitternacht die Kanzlei verließ. Eine Hexe war vogelfrei. Eine Hexe stand außerhalb des Jasaq. Wenn ein Prinz fiel oder ein Fohlen tot geboren wurde, war die Hexe die Antwort, auf die alle Pfeile zeigten.
 
-Ihre Feder zögerte nicht.
+„Wenn ich eine Hexe wäre, Abd ar-Rahman“, sagte sie mit sanfter, beinahe zärtlicher Kälte, „würde ich Eure Zunge in eine Kröte verwandeln, damit die Kanzlei endlich Stille hat. Da Ihr aber noch sprecht, solltet Ihr gehen. Die Khatun erwartet mich zum Abendmahl.“
 
-Draußen, am späten Nachmittag, erschien Abd ar-Rahman. Sie hörte seine Schritte, bevor sie ihn sah. Der Gang eines Mannes, der wusste, dass ihm der Boden gehörte, auf dem er ging. Er trat durch den Vorhang, und sein Lächeln war breit, zu breit für das Gesicht eines Mannes, der vor einer Sklavin stand.
+Er starrte sie an, die Lippen aufeinandergepresst, bis sie weiß wurden. Dann spuckte er geräuschlos auf den Boden neben den Teppich, wandte sich um und stapfte hinaus. Der schwere Filz schlug hinter ihm zu wie ein Grabstein.
 
-„Sie arbeiten hart, edle Fatima“, sagte er, und seine Stimme war honigsüß, aber die Augen waren kalt. „Die Regentin wird zufrieden sein mit Ihrem Eifer.“
+Fatima atmete aus. Langsam. Zählte drei Herzschläge, ehe sie die Hand hob. Ihre Finger zitterten nicht, aber die Haut fühlte sich eiskalt an.
 
-„Ich tue meine Pflicht“, sagte sie, ohne aufzusehen.
+***
 
-„Ich habe gehört, Sie haben heute drei Gouverneure versetzt.“ Er trat näher, legte die Hände auf den Tisch, beugte sich vor. „Das ist bemerkenswert für eine Frau, die noch vor einem Jahr nur die Briefe der Regentin abschrieb.“
+In der Jurte der Regentin roch es nach verbranntem Wacholder und gebratenem Hammel. Hier gab es keine Kanzleistille; das Feuer in der runden Lehmgrube brüllte, angefacht von einem Knecht, der unaufhörlich getrockneten Mist nachlegte.
 
-Sie sah auf. Ihr Blick traf seinen, und die Stille zwischen ihnen war ein Raum, den beide betreten und nicht verlassen wollten. „Ich schreibe immer noch Briefe für die Regentin. Die Unterschrift ist die gleiche. Nur der Name des Absenders wechselt mit der Zeit.“
+Töregene saß nicht auf Kissen. Sie saß auf einem niedrigen Holzsitz, die Beine weit von sich gestreckt, die Ärmel ihres Zobelpelzes zurückgeschlagen. Vor ihr lag ein Haufen Seidenstoffe, die Gesandten aus Damaskus gebracht hatten – Stoffe, so dünn, dass man sie durch einen Fingerring ziehen konnte, gewoben aus Goldfäden und dunkelstem Purpur.
 
-Abd ar-Rahman lachte leise, ein Laut, der wie Glas klang. „Sie sind klüger, als Sie sein sollten. Das ist gefährlich, Fatima. Am Hof der Regentin ist Klugheit eine Münze, die man nicht zeigen sollte, wenn man sie behalten will.“
+„Komm her“, sagte Töregene, ohne aufzusehen. Sie hielt einen Dolch mit einem Griff aus grünem Nephrit in der Hand und schabte damit gedankenverloren an ihren Fingernägeln. „Schau dir das an. Sie nennen es Seide des Sultans. Wenn man hineinbeißt, schmeckt es nach gar nichts. Reine Verschwendung.“
 
-„Ich behalte meine Münzen, wo sie niemand findet“, erwiderte sie. „Und ich gebe sie nur aus, wenn ich weiß, dass der Preis stimmt.“
+Fatima trat heran und kniete nieder, genau in jenem Abstand, der weder Unterwerfung noch Anmaßung bedeutete – zwei Ellen von der Kniekehle der Herrin entfernt.
 
-Er richtete sich auf, zog die Hände vom Tisch, und sein Lächeln verschwand, so plötzlich, wie es erschienen war. „Ich habe gehört, dass man im Westen über Sie spricht. Sie nennen Sie die Schattenkanzlerin. Sie sagen, Sie seien die wahre Macht hinter der Regentin, dass Töregene nichts tut, ohne Ihre Zustimmung.“ Er legte den Kopf schräg, musterte sie mit einer Neugier, die an Verachtung grenzte. „Gefällt Ihnen der Titel?“
+„Es ist für Vorhänge gedacht, Herrin. Nicht für Mäntel. Es hält den Staub ab und lässt den Wind durch.“
 
-„Der Titel gehört der Regentin. Ich bin nur ihre Dienerin, die ihre Briefe schreibt und ihre Worte trägt. Der Schatten folgt dem Körper, nicht umgekehrt. Wenn Sie meinen, ich sei der Schatten, vergessen Sie, wer das Licht ist.“ Sie sagte es leise, ohne die Stimme zu heben, und jedes Wort war ein Stein, den sie zwischen sich und ihn legte.
+„Ich will keinen Wind, der durch Wände kriecht“, schnaubte Töregene. Sie warf den Dolch auf den Teppich, packte eine schwere Bahn aus schwerem, grünem Brokat, der mit silbernen Pfauen bestickt war, und warf ihn Fatima über die Schultern. Der Stoff war kalt und glatt, schwer wie eine Rüstung. „Das ist für dich. Nimm es.“
 
-Abd ar-Rahman nickte langsam, als hätte er eine Antwort erwartet, die er nicht bekam. „Ich werde Sie nicht länger aufhalten. Die Regentin erwartet Sie heute Abend. Sie hat ein Geschenk für Sie vorbereitet, wie ich höre. Ein großzügiges Geschenk, von einer großzügigen Herrin, die weiß, was sie an ihren Dienern hat.“ Er drehte sich um und ging, und seine Schritte waren leiser diesmal, als hätte er die Wucht seines Auftritts verloren.
+Fatima spürte die Kühle der Seide auf ihren Handgelenken. „Herrin, das ist der Stoff, den die Gesandten für Eure Schwiegertochter bestimmt hatten.“
 
-Fatima blieb sitzen, die Feder in der Hand, das Siegel noch feucht, und das Wort *Hexe* lag auf ihrer Zunge, unausgesprochen, aber gegenwärtig. Sie wusste, dass Abd ar-Rahman die Gerüchte hörte. Vielleicht hatte er sie selbst gestreut, wie Samen, die in der Erde wuchsen, die man nicht mehr ausreißen konnte, wenn sie erst einmal Wurzeln schlugen.
+„Meine Schwiegertochter hat fette Wangen und Augen wie eine Ziege“, knurrte Töregene. Sie beugte sich vor, packte Fatima am Kinn und zog ihr Gesicht mit rauen, sehnigen Fingern nach oben. Ihre Haut roch nach Zwiebeln und dem bitteren Rauch der Steppe. Sie sah Fatima an – forschend, hungrig, mit jenem unersättlichen Besitzerstolz, der keinen Widerspruch duldete. „Sie versteht nichts von Seide. Du verstehst sie. Du bist wie dieser Stoff, Fatima. Teuer, kühl, und wenn man nicht aufpasst, schneidet man sich an den Kanten.“
 
-Sie schob die Gedanken beiseite. Es war Zeit, zur Regentin zu gehen.
+Ihre Finger bohrten sich tief in Fatimas Fleisch, nicht ganz schmerzhaft, aber wie die Krallen eines Falken, der seine Beute auf dem Handschuh festhält.
 
-Das Zelt Töregenes war warm und hell erleuchtet. Die Lampe warf lange Schatten, die über den Filzboden krochen wie Wasser, das sich seinen Weg sucht. Die Regentin saß auf ihrer Liege, die Beine unter sich geschlagen, und vor ihr lag ein Tuch, ein schweres, rotes Seidentuch, das im Licht glänzte wie Blut.
+„Alles, was ich dir gebe, bleibt meins“, sagte Töregene leise, und in ihren dunklen Augen flackerte das Feuer der Feuergrube wider. „Der Pelz, den du trägst. Die Ringe. Die Worte, die du schreibst. Darum gebe ich dir so viel, Fatima. Weil niemand mir nehmen kann, was mir gehört.“
 
-„Komm näher“, sagte Töregene, ohne aufzusehen. Ihre Stimme war ruhig, aber es lag eine Spannung darin, die Fatima sofort erkannte. Die Spannung vor einer Geste, die mehr sagte als Worte.
+Fatima senkte den Blick nicht. Sie ließ die Berührung geschehen, spürte das warme, schwere Pochen des fremden Blutes an ihren Wangenknochen. In Töregenes Nähe war die Welt immer eng, ein Kreis aus Filz und Zorn, der keinen Raum für die Toten ließ.
 
-Fatima trat näher, ließ sich auf den Teppich nieder, kniete vor der Regentin, wie sie es immer tat. Töregene hob das Tuch an, und darunter lagen Gegenstände, die Fatima den Atem stocken ließen. Ein Armreif aus Gold, mit Edelsteinen besetzt, die in der Lampe wie flüssige Sonne glühten. Ein Kästchen aus Elfenbein, so fein geschnitzt, dass die Muster darin zu leben schienen. Ein Beutel aus Leder, der schwer in der Hand lag, gefüllt mit Silbermünzen, die leise klirrten, als Töregene ihn berührte.
+„Ich gehöre der Kanzlei der Khatun“, sagte sie leise.
 
-„Alles für dich“, sagte Töregene leise. Ihre Finger strichen über den Armreif, über das Kästchen, über den Beutel, und jede Berührung war zärtlich, fast eifersüchtig. „Alles, was ich dir gebe, bleibt meins. Darum gebe ich dir so viel. Weil du nie vergisst, wem du gehörst, auch wenn du mein Siegel trägst und meine Briefe schreibst und meine Gouverneure versetzt. Du gehörst mir, Fatima. Alles, was du hast, ist meins. Alles, was du wirst, ist durch mich. Du gehst nicht, weil du gehen könntest, sondern weil ich dich gehen lasse. Du bleibst, weil ich dich hier haben will. Und ich will dich hier haben, solange ich dich brauche, und ich werde dich brauchen, bis ich sterbe oder du stirbst, was wahrscheinlicher ist, weil ich schon alt bin und du noch jung, und wenn du stirbst, werde ich dich in einem goldenen Sarg nach Chorasan schicken, dorthin, wo deine Schwester liegt, damit ihr wieder zusammen sein könnt, bis die Welt vergeht und das Gras über eure Gräber wächst. Das ist mein Geschenk, Fatima. Das und der Armreif, das Kästchen, das Silber. Nimm es. Es gehört dir. Weil du mir gehörst. Und weil ich weiß, dass du nicht vergisst, wer der Schatten ist und wer das Licht.“
+„Du gehörst mir“, korrigierte Töregene und ließ sie los. Sie griff nach einem Becher Kumis, trank in langen, gierigen Zügen und wischte sich den Schaum mit dem Handrücken ab. „Der Kanzler Chinqai sitzt immer noch bei meinem Sohn Köden und flüstert ihm Gift ins Ohr. Köden hustet Blut, hast du das gehört? Die Schamanen sagen, jemand habe einen Knochen auf seinen Namen besprochen.“
 
-Fatima nahm den Armreif, ließ ihre Finger über das Gold gleiten. Es war warm, als hätte Töregene es in ihren Händen gehalten, lange genug, dass die Wärme in das Metall eingedrungen war. Sie streifte ihn über ihr Handgelenk, und das Gewicht war schwer, schwerer, als sie erwartet hatte.
+Fatimas Magen zog sich zusammen. „Köden hat schon immer eine schwache Brust gehabt, Herrin. Schon als Junge am Kökö-Nuur.“
 
-„Ich vergesse es nicht, Herrin“, sagte sie leise. Ihre Stimme war ein Flüstern, das nur für die Regentin bestimmt war. „Ich vergesse nie, wem ich gehöre. Ich vergesse nie, wie kalt die Wüste ist, wenn man sie ohne Schutz durchquert. Ich vergesse nie, wie die Steine von Mashhad schmecken, wenn man sie isst, weil es nichts anderes gibt. Ich vergesse nie, dass ich ohne Sie nur eine Tote wäre, eine von den vielen, die in der Erde liegen und deren Namen niemand mehr kennt. Ich vergesse es nicht, Herrin. Ich kann es nicht vergessen, weil die Erinnerung das Einzige ist, was ich habe, außer Ihnen. Und ich will nicht vergessen. Ich will immer wissen, wem ich mein Leben verdanke. Weil Schulden nicht vergehen, auch wenn man sie bezahlt hat. Schulden sind wie Narben: Sie heilen, aber sie bleiben sichtbar. Und ich will, dass meine Narbe sichtbar ist. Damit jeder, der mich sieht, weiß, wem ich gehöre. Und dass ich nicht gestohlen werden kann, weil ich schon genommen bin, weil ich schon bezahlt bin, weil ich keinen Preis mehr habe, den ein anderer zahlen könnte. Das ist meine Macht, Herrin. Nicht das Siegel, nicht die Briefe, nicht die Gouverneure. Sondern die Tatsache, dass ich schon alles verloren habe, was ein Mensch verlieren kann. Und dass ich nur noch das habe, was Sie mir geben. Und das reicht. Das reicht für den Rest meines Lebens, so kurz oder lang es sein mag. Weil es mehr ist, als ich je hatte. Und mehr, als ich je zu hoffen wagte, als ich in Mashhad in den Trümmern lag und dachte, dass die Sonne nie wieder aufgehen würde. Sie ging auf, Herrin. Sie ging auf, weil Sie sie aufgehen ließen. Und ich werde nie vergessen, in welche Richtung der Osten liegt, auch wenn ich blind bin. Weil ich weiß, dass die Sonne von dort kommt, wo Sie sind, und dass sie nie wieder untergehen wird, solange ich Ihnen diene.“
+„Die Schamanen lügen, wenn man sie bezahlt“, sagte Töregene düster. „Aber das Volk hört auf sie. Güyük schickt mir Briefe, die kürzer sind als die Pfeile seiner Leibwache. Er will den Kuriltai. Er will den Thron. Er denkt, weil er der Sohn ist, gehört ihm die Erde.“ Sie lachte, ein heiseres, bellendes Geräusch. „Er hat vergessen, wer ihn aus seinem Fleisch gepresst hat.“
 
-Die Stille, die folgte, war schwer, voller unausgesprochener Worte, ungeteilter Verzweiflung. Töregene sah sie an, und ihre Augen waren feucht, aber ihre Hand, die nach Fatimas Wangen griff, war fest und sicher.
+Sie winkte ab. Es war die Geste der Entlassung. Fatima neigte den Kopf, sammelte den schweren Brokat um ihre Arme und stand lautlos auf. Als sie die Filztür erreichte, hörte sie Töregene noch einmal murmeln, fast wie zu sich selbst:
 
-„Ich liebe dich“, sagte sie leise. „Nicht wie eine Herrin eine Dienerin liebt, sondern wie eine Frau eine andere Frau liebt, die sie versteht. Die sie kennt, ohne dass Worte nötig sind. Die ihre Gedanken liest, als stünden sie auf Papier. Die weiß, wann sie schweigen soll, und wann sie sprechen muss. Du bist mein Spiegel, Fatima, und ich bin deiner, und wenn der Spiegel zerbricht, werden wir beide in Scherben liegen, die niemand mehr zusammensetzen kann. Also pass auf dich auf. Pass auf uns auf. Und wenn du das Getreide für Mashhad bestellst, tue es nicht so, als wäre es ein Geschenk von dir. Tue es, als wäre es ein Geschenk von mir. Weil wir eins sind, du und ich. Und was du tust, tue ich. Und was ich bin, bist du. Darum gebe ich dir so viel. Weil ich mich selbst in deinen Händen sehe, und ich weiß, dass du mich nicht fallen lassen wirst. Nicht wie die anderen. Nicht wie Chinqai, der mich verraten hat. Nicht wie Güyük, der mich hasst. Nicht wie Sorkaktani, die mich fürchtet. Du wirst mich nicht fallen lassen, weil du weißt, dass du mit mir fällst. Und du willst nicht fallen, nicht mehr. Du hast genug vom Fallen, Fatima. Du hast genug vom Aufstehen. Du willst nur noch gehen, auf festem Boden, und nie wieder hinsehen, was hinter dir liegt. Das werde ich dir geben. Das und mehr. Das und alles, was ich habe, solange ich lebe. Und wenn ich tot bin, wirst du mein Testament sein, mein letztes Wort, meine letzte Unterschrift. Du wirst weitermachen, für mich, mit mir, in mir. Weil du mir gehörst, und ich werde nie aufhören, dir zu gehören, auch wenn ich nicht mehr bin. Das ist der Eid, den ich dir geben kann. Nimm ihn. Er ist der einzige, den ich jemals freiwillig geschworen habe, der nicht erzwungen war, der nicht erbeten war, der nicht gekauft war. Er ist mein Geschenk, und er ist größer als der Armreif, größer als das Kästchen, größer als das Silber, weil er nicht endet, wenn ich sterbe. Er endet nie. Weil ich dich liebe, Fatima. Und Liebe ist das Einzige, was länger hält als Macht. Das Einzige, was den Tod überdauert. Das Einzige, was uns bleibt, wenn alles andere verbrannt ist und die Asche in den Wind geworfen wurde. Und ich will, dass du das weißt. Dass du es nie vergisst. Dass du es in dein Federetui legst, neben die Briefe an deine Schwester, und dass du es mitnimmst, wenn du gehst, und dass du es liest, wenn die Nacht lang ist und der Wind heult, und dass du dann weißt, dass du nicht allein bist, dass du nie allein sein wirst, weil ich bei dir bin, in dem Armreif, in dem Kästchen, in dem Silber, und in dem Wort, das ich dir heute gebe: *mein*.“
+„Trau Abd ar-Rahman nicht. Er stiehlt mir das Silber aus den Truhen. Aber er ist nützlich. Nützliche Hunde schlägt man erst, wenn die Jagd vorbei ist.“
 
-Fatima nahm das Wort, nahm die Gabe, nahm die Last, die darin lag, und sie spürte, wie das Gewicht des Armreifs sich in ihr Handgelenk grub, wie das Kästchen auf ihrem Schoß lag, wie der Beutel mit Silber in ihrer Hand lag. Sie nahm alles. Aber sie wusste, dass sie nie genug nehmen würde, um den Preis zu zahlen, der morgen oder in einem Jahr fällig sein würde.
+***
 
-Sie wusste, dass Besitz nicht schützt. Dass Liebe nicht rettet. Dass das Einzige, was zählt, die Feder ist, die schreibt, und die Erinnerung, die bleibt, und der Name, den man hinterlässt.
+Die Nacht über dem Ordu war klar und schneidend. Die Sterne standen über dem Orchon-Tal wie ausgestreutes Salz auf schwarzem Leder. Kein Laut war zu hören außer dem Stampfen der Wachtpferde und dem fernen, klagenden Heulen eines Steppenhundes.
 
-Und sie wusste, dass sie heute einen Namen bekommen hatte, den sie nie mehr loswerden würde.
+Fatima ging nicht in ihr Schlafzelt. Sie kehrte in die Schreibstube zurück.
 
-*Chorasanische Hexe.*
+Die Kohlen im Becken glommen nur noch schwach, gaben kaum mehr Wärme als ein erlöschender Atemzug. Auf ihrem Tisch lag der letzte Stapel des Tages, den Juvaini vor dem Aufbruch zusammengestellt hatte. Der junge Mann besaß die seltene Gabe, Ordnung zu schaffen, ohne die Dinge totzuschlagen; seine Handschrift auf den Begleitstreifen war klar, fast zierlich, eine Erinnerung an die Schulen von Nischapur, die sie beide im Herzen trugen wie eine Narbe.
 
-Sie verließ das Zelt der Regentin, als die Schatten draußen länger wurden, als der Wind kälter war und die Sterne am Himmel wie die Augen der Toten leuchteten. Der Armreif an ihrem Handgelenk glühte im Licht der Fackeln, und sie spürte die Blicke der Diener, die sich vorbeugten, als sie vorbeiging.
+Sie zündete eine einzelne Talgkerze an.
 
-*Die Schattenkanzlerin.*
+Unter den Akten lag ein Schreiben aus den Südprovinzen. Es war ein Bericht des mongolischen Statthalters von Chorasan, gegengezeichnet von Arghun Aqa. Eine nüchterne Bestandsaufnahme der Verwüstung, abgefasst in jenem bürokratischen Tonfall, der Gräberfelder in Tabellen verwandelte. Zahlen über zerstörte Bewässerungskanäle, versandete Qanate, verödete Dörfer.
 
-*Die Hexe.*
+Und ganz unten, fast beiläufig erwähnt: Mashhad.
 
-Sie ging zurück in ihr Zelt, und die Arbeit des Abends wartete. Ein Stapel von Schreiben, die sie noch prüfen musste, bevor sie der Regentin vorgelegt wurden. Sie setzte sich, nahm den ersten Brief, las ihn, und ihre Hand bewegte sich über das Papier, wie von selbst.
+*Die Stadt des Heiligtums liegt brach. Sechzehn Familien hausen in den Ruinen der Großen Moschee. Der Schrein des achten Imams ist ohne Dach; die Ziegel wurden für den Bau der Garnisonsmauer nach Nischapur geschafft. Es fehlt an Holz, an Zugtieren und an Saatgut für die Gerste.*
 
-Dann kam das Schreiben über Mashhad.
+Fatima saß da, die Hände auf dem kalten Holz des Pultes.
 
-Es war ein formloses Gesuch, eines von vielen, das der Gouverneur von Tus geschickt hatte, eine Liste von Waren und Baumaterialien, die für die Wiederbesiedlung der Stadt benötigt wurden. Getreide, zwanzig Wagen. Ziegel, zehntausend. Silber für die Moschee, die noch kein Dach hatte. Und eine Frage, die am Rand notiert war: *Wer wird die Arbeit bezahlen?*
+Das Licht der Kerze flackerte im Zugluftspalt der Zeltwand. Plötzlich roch sie nicht mehr den Talg, nicht mehr den Hammel und den herben Wermut der Steppe. Sie roch Rosenwasser. Sie roch den Staub der Werkstatt ihres Vaters, den Geruch von frisch geriebenem Ruß, Safran und feuchtem Papier, das zum Trocknen auf Schnüren über dem Hof hing. Sie sah ihre Schwester – zehn Jahre alt, mit jenem unbändigen, dunklen Haar, das immer aus dem Tuch rutschte –, wie sie barfuß über die sonnenwarmen Ziegel lief, um einen Krug mit Brunnenwasser zu holen.
 
-Fatima las es zweimal. Der Name der Stadt brannte auf dem Papier, als wäre er in die Haut ihrer Hand geschrieben.
+*Schwester.*
 
-Sie nahm die Feder. Ihre Hand zitterte nicht, als sie den Satz hinzufügte, den niemand genehmigt hatte, den niemand gesehen hatte, den niemand je zurücknehmen würde: *Die Regentin bewilligt zusätzlich fünfhundert Säcke Weizen, zweitausend Ziegel und einhundert Silberstücke aus der Privatkasse des Khans für die Instandsetzung der Mauern und die Versorgung der Überlebenden. Die Anweisung gilt ab sofort.*
+Niemand in diesem Lager wusste, was Mashhad gewesen war. Für Töregene war es ein Punkt auf einem Seidenstreifen, für Güyük eine Furt, an der man Pferde tränkte, für Abd ar-Rahman eine Kolonne von Steuererträgen, die man vernachlässigen konnte, weil dort nichts mehr zu holen war.
 
-Sie setzte das Siegel. Der Wachs war noch warm, als sie das Papier auf den Stapel legte, und sie wusste, dass es morgen ausgehen würde, als wäre es der Wille der Regentin.
+Niemand würde je nach Mashhad fragen.
 
-Ihr einziger Machtmissbrauch.
+Fatima griff nach dem Qalamdān ihres Vaters. Das alte Holz war glatt von den Jahren, dunkel nachgedunkelt vom Schweiß ihrer Finger. Sie zog das schmale Schilfrohr heraus, tunkte die Spitze in die schwarze Tinte und hielt den Atem an.
 
-Für Tote.
+Ihre Hand war vollkommen ruhig.
 
-Sie saß da, in der Dunkelheit ihres Zeltes, und die Lampe flackerte, warf Schatten an die Zeltwand, die sich bewegten wie lebendige Wesen. Der Armreif war kalt an ihrem Handgelenk, und sie dachte an die Schwester, die nicht da war, die nie da sein würde, an die Stadt, die Asche war, an die Hände, die nicht mehr anbauen würden, an den Weizen, der nie geerntet werden würde, an die Ziegel, die sich nie zu Mauern fügen würden.
+Unter die letzte Zeile des Statthalterberichts, genau über den Raum, an dem das Siegel der Regentin angebracht werden würde, setzte sie drei neue Sätze. Die Schrift passte sich nahtlos dem Duktus der Kanzlei an, unpersönlich, unanfechtbar, gefrorenes Gesetz:
 
-Sie nahm das Federetui, das sie immer bei sich trug. Die Feder ihres Vaters, die er benutzt hatte, um die Koranverse zu schreiben, bevor die Stadt fiel. Immer noch lag Tinte an der Spitze, getrocknet, aber nie vergangen.
+*Aus den Beständen der Provinz Fars sind dreitausend Sack Weizen und zweihundert Lasten gebrannter Ziegel unverzüglich nach Mashhad zu leiten. Der Wiederaufbau der Brunnenanlagen und des Schutzbaus um das Grab ist aus der Kasse des Dīwāns zu bestreiten. Die Bewohner sind für zehn Jahre von allen Steuern und Abgaben an die Tausendschaften befreit.*
 
-Sie entzündete die Lampe neu, setzte sich auf den Boden, und das Papier lag vor ihr, leer wie die Wüste zwischen Karakorum und Mashhad, leer wie die Jahre, die sie nicht gehabt hatte, leer wie die Zeit, die kommen würde.
+Es war Verrat.
 
-*Schwester*, schrieb sie. *Ich bin wichtig geworden.*
+Es war die Veruntreuung von Reichsgütern, ein Eingriff in die Zuständigkeit der Heerführer, ein Bruch des Jasaq, der mit dem Strang oder dem Zerschlagen des Rückgrats geahndet wurde. Wenn Töregene es erfuhr, würde sie sie nicht anschreien; sie würde sie ansehen mit jenen kalten, enttäuschten Augen und den Wachen ein Zeichen geben.
 
-*Es schmeckt wie damals das erste Brot nach der Stadt. Man isst es und denkt an die, die keins haben. Und man schämt sich, dass man isst. Aber man isst trotzdem. Weil man überleben muss, um weiterzuschreiben. Und ich schreibe, Schwester. Ich schreibe für dich, für die Toten, für die, die keine Stimme mehr haben, die keinen Namen mehr tragen, die keine Feder mehr in der Hand halten können, weil ihre Finger zu Asche geworden sind und ihre Hände in der Erde liegen, wo das Gras sie gefressen hat.*
+Fatima drückte das Siegel der Kanzlei in den roten Siegellack neben ihren Worten. Der Abdruck war scharf, unerbittlich, das Zeichen einer Macht, die über den halben Erdkreis herrschte.
 
-*Ich habe die Macht, Gouverneure zu versetzen, Gesetze zu schreiben, den Willen einer Regentin in die Welt zu tragen. Ich könnte alles ändern, was ich hasse, alles verbrennen, was weh tut, alles zerstören, was an der Vergangenheit klebt. Aber ich ändere nichts, Schwester. Ich verbrenne nichts. Ich zerstöre nichts. Weil ich Angst habe. Angst, dass die Macht mich auffrisst, wie sie die anderen gefressen hat, dass sie mich leer macht, dass ich eines Tages aufwache und nicht mehr weiß, wer ich bin, dass ich nur noch der Schatten bin, den die Regentin wirft, und dass ich vergesse, dass ich auch eine war, die Brot isst und an die denkt, die keins haben.*
+Sie tat es nicht für die sechzehn Familien, die dort im Schlamm hausten. Sie kannte keinen einzigen Namen von ihnen. Die Menschen, die sie geliebt hatte, lagen fünf Ellen tief unter dem Schotter des ausgetrockneten Flussbetts, ihre Knochen längst eins mit dem Lehm von Chorasan.
 
-*Heute habe ich etwas getan, was ich nicht hätte tun sollen. Ich habe Weizen bestellt, Ziegel, Silber für Mashhad. Für die Stadt, die niemand mehr kennt, die niemand mehr besiedeln will, die wie ein Grab ist, das man nicht öffnen darf, weil der Geruch der Verwesung noch zu stark ist. Ich habe es getan, weil ich nicht vergessen kann, dass wir dort waren, du und ich, dass wir durch die Gassen gelaufen sind, dass wir die Datteln gegessen haben, die der alte Händler uns schenkte, dass wir die Koranverse hörten, die der Imam sprach, wenn die Sonne unterging. Ich habe es getan, weil ich will, dass die Stadt wieder lebt, dass die Gassen wieder voll sind, dass die Datteln wieder wachsen, dass der Imam wieder spricht. Aber ich weiß, es ist sinnlos. Die Stadt ist tot, Schwester. Sie ist so tot wie du. Und alles, was ich tue, ist ein Versuch, die Toten aufzuwecken, ein Tanz auf einem Grab, der niemanden zurückholt.*
+Sie tat es für die Toten. Sie stahl dem Weltreich das Getreide, um den Schatten ein Dach zu bauen.
 
-*Ich bin die Schattenkanzlerin, Schwester. Die Hexe aus Chorasan, wie sie mich nennen. Und ich habe Angst, dass der Name wahr wird, dass ich wirklich eine Hexe bin, dass ich die Macht habe, die Toten zu rufen, und dass ich eines Tages rufe und du kommst, und dass ich dich nicht mehr gehen lasse. Aber ich kann dich nicht rufen, Schwester. Weil ich weiß, dass du nicht kommen würdest. Du warst immer die Klügere von uns. Du würdest nicht in eine Welt zurückkommen, die dir nichts mehr geben kann außer Schmerz und Asche und dem Geruch von verbranntem Fleisch.*
+Als der Lack hart war, blies sie die Kerze aus.
 
-*Bleib, wo du bist. Ich schreibe dir, damit ich nicht vergesse, dass es dich gab. Damit ich nicht vergesse, dass ich eine war, die geliebt hat. Und dass ich immer noch eine bin, die liebt, auch wenn die Liebe nutzlos ist, auch wenn sie nichts ändert, auch wenn sie nur in der Dunkelheit meines Zeltes existiert, zwischen zwei Lichtern, zwischen zwei Atemzügen, zwischen zwei Wörtern, die nie gesagt werden.*
+***
 
-*Bleib.*
+In ihrer eigenen Jurte brannte nur ein winziges Öllämpchen aus gebranntem Ton, das sie aus Herat mitgebracht hatte. Der Raum war kahl: eine Schlafstatt aus drei Lagen Filz, eine eiserne Kiste mit ihren Gewändern und dem schweren Brokat, den Töregene ihr geschenkt hatte und der nun achtlos in der Ecke lag wie eine abgelegte Haut.
 
-*Ich werde weitermachen. Für dich. Für die Toten. Für den Weizen, der nie wachsen wird, und die Ziegel, die nie verbaut werden. Für die Stadt, die es nicht mehr gibt, und die Stadt, die es nie geben wird.*
+Fatima setzte sich auf den Boden. Sie zog das lederne Futteral hervor, das sie tief im Saum ihres Wintermantels verbarg. Ein langes, schmales Band aus grobem Steppenpapier, zusammengefaltet wie eine Ziehharmonika, bedeckt mit eng geschriebenen, winzigen persischen Schriftzeichen.
 
-*Deine Fatima.*
+Sie tauchte die Feder nicht ein. Sie schrieb mit der Tinte, die noch an der Spitze klebte, blass und grau, wie Schatten auf Schnee.
 
-Sie faltete den Brief, legte ihn in das Federetui, schob ihn unter die Matte ihres Lagers. Die Lampe flackerte, und sie blies sie aus.
+*Ich bin wichtig geworden, Schwester.*
 
-Die Dunkelheit war voll, schwer, warm wie die Hand einer Toten, die sich auf ihre Stirn legte.
+Sie hielt inne. Draußen ritt die Nachtwache vorbei; das dumpfe Klatschen der Hufe auf dem gefrorenen Boden verklang nach Osten hin, wo die ersten Ausläufer des Altai im Dunkeln lagen.
 
-Sie schloss die Augen.
+*Es schmeckt wie damals das erste Brot nach der Stadt. Weißt du noch, an der Quelle von Nishapur, als die Reiter uns die Reste ihrer Teigfladen zuwarfen? Man isst es, und es ist süß, und im selben Atemzug schnürt es einem die Kehle zu. Man isst es und denkt an die, die keins haben.*
 
-Und wartete auf den Morgen.
+*Ich befehle nun über Städte, deren Namen die Frauen hier nicht aussprechen können. Ich hebe Fürsten ins Amt und stoße sie hinab mit einem Federstrich. Sie fürchten mich. Sie flüstern meinen Namen, als wäre ich eine Seuche, die im Nebel über das Gras schleicht. Sie nennen mich die Hexe.*
 
----
+*Vielleicht haben sie recht. Eine Frau, die alles verloren hat und dennoch nicht stirbt, muss ihnen wie ein Zauber vorkommen. Sie verstehen nicht, dass ich nur darum noch atme, weil ich mich weigere, euch zu vergessen.*
+
+*Töregene hat mir heute Seide geschenkt. Sie hält mich an der Kehle, ganz sanft, wie man ein kostbares Pferd am Zügel hält, damit es nicht in die Schlucht springt. Sie denkt, sie besitzt mich. Sie weiß nicht, dass man einen Menschen, der nichts mehr verlangt als das Vergangene, nicht kaufen kann.*
+
+*Heute habe ich Ziegel nach Mashhad geschickt. Niemand wird dort nach unserem Vater fragen. Seine Werkstatt ist Staub, und der Wind hat seine Bücher über die Berge getragen bis an die Grenzen von Chind. Aber vielleicht wächst im Frühjahr ein Halm Gerste aus der Erde, wo du gelegen hast.*
+
+*Schlaf, meine Seele. Die Nacht ist kalt, aber der Schnee deckt alles zu.*
+
+Sie faltete das Papier zusammen, langsam, Kante auf Kante, bis es wieder schmal genug war, um im Futter ihres Mantels zu verschwinden. Mit einer feinen Knochennadel und einem Faden aus gewachster Sehne stach sie durch das Leder, Stich für Stich, bis die Naht unsichtbar war.
+
+Sie löschte das Öl.
+
+In der Finsternis hörte sie das Atmen der Steppe – das endlose, unbarmherzige Streichen des Windes über die Gräser, der kein Gestern kannte und kein Morgen, und der die Namen der Herrscher verwehte wie Asche über dem Eis.
+

@@ -60,8 +60,18 @@ Print-Satz mehr gebaut worden - die Schrift-Fixes (`ee90790`) fehlten ihm also.
   `load_series_catalog(..., limit=None)`.
 - Alte Stempel geloescht: die 674er-`full_page`-Familie (Interior + Wrap) und
   die 09/2026-Staende. Im print-Ordner liegt nur die aktuelle 637er-Familie.
-- **Offen**: KDP-Upload (Interior `…-head-20261111-130819` + Wrap
-  `cover-wrap-20261111-130901-637`), danach Druckansicht bei Amazon pruefen.
+- **Satzspiegel: Aussenrand vom Bundsteg entkoppelt** (Nutzerentscheidung
+  2026-11-11, Befund aus der KDP-Druckvorschau). Bisher galt
+  `aussen = innen = max(Bundsteg, min_outer)`; da der Bundsteg mit der
+  Seitenzahl waechst, wurde der Satzspiegel bei dicken Buechern unnoetig
+  schmal. Bei Pharao lagen aussen 19,1 mm an, wo KDP nur 6,4 mm verlangt.
+  Jetzt: aussen fest 12,7 mm, innen 19,1 mm, umgesetzt ueber
+  `@page :left`/`:right` in `print_css.py` (Chromium kann das; mit einem
+  Testlauf geprueft). Satz **609 statt 637 Seiten**, Ruecken 38,67 mm,
+  Wrap `cover-wrap-20261111-132822-609.pdf`. Gilt fuer alle Buecher - die
+  Seitenzahlen aller Buchpakete aendern sich beim naechsten Printlauf.
+- **Offen**: KDP-Upload (Interior `…-head-20261111-132746` + Wrap
+  `cover-wrap-20261111-132822-609`), danach Druckansicht bei Amazon pruefen.
 
 ## Letzte Session (2026-11-11, KDP-Paperback: Covergröße und Schriften)
 

@@ -550,6 +550,25 @@ Drei Print-PDFs (nicht verwechseln):
 | `*-paperback-complete.pdf` | Zum Blaettern: Coverseite, Text, Rueckseite - **nicht hochladen** |
 | `*-paperback-wrap.pdf` | Umschlag **als eine Flaeche** (Rueckseite \| Ruecken \| Vorderseite) fuer den KDP-Cover-Upload |
 
+### Satzspiegel: Aussenrand fest, Bundsteg wachsend
+
+Der Bundsteg (Innenrand) haengt bei KDP an der Seitenzahl (`KDP_GUTTER_BANDS`:
+9,6 / 12,7 / 15,9 / 19,1 / 22,3 mm). Der **Aussenrand ist unabhaengig davon
+fest** (`margins.min_outer_mm`, Default 12,7 mm) - KDP verlangt dort nur
+6,4 mm.
+
+Umgesetzt ueber `@page :left` / `@page :right` (Chromium unterstuetzt das):
+die Grundregel setzt aussen, die beiden Seitenregeln ziehen innen den Bundsteg
+ein. Kopfzeile und Seitenzahl sitzen mit dem Aussenrand.
+
+Vorher war `aussen = innen = Bundsteg`. Da der Bundsteg waechst, wurde der
+Satzspiegel bei dicken Buechern unnoetig schmal - bei `pharao` (637 Seiten)
+lagen aussen 19,1 mm an, wo 6,4 mm genuegen. Nach der Trennung: 12,7 mm aussen,
+19,1 mm innen, und der Satz schrumpfte von **637 auf 609 Seiten**.
+
+Pruefung nach einem Satzlauf (Report): `side_margin_mm` = Aussenrand,
+`gutter_mm` = Bundsteg.
+
 ### Inhaltsverzeichnis: Kapitel oder Gruppen
 
 `front_matter.toc_depth` steuert, was das Inhaltsverzeichnis listet:

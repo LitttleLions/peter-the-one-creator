@@ -130,8 +130,15 @@ book:
     mode: image
     image_path: assets/covers/cover.jpg
 print:
+  # Gewaehlter KDP-Satz (2026-11-11). Der Default 5.5x8.5/classic/full_page
+  # ergibt 924 Seiten und liegt ueber dem Cream-Limit 776; ohne diese Zeilen
+  # baut `--format paperback` ohne Flags wieder den unbrauchbaren Satz.
+  # A-D-Vergleich: exports/stil-02-poetisch/book/print/print-comparison-20260927-pharao-abcd.md
   enabled: true
-  profile: classic
+  trim_size: 6x9
+  layout_profile: long_classic
+  illustration_mode: full_page
+  paper: cream
 website:
   enabled: true
   amazon_url: ''

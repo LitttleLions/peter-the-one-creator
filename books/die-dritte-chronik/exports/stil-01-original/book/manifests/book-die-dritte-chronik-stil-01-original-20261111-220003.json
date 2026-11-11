@@ -4,11 +4,11 @@
   "style": "stil-01-original",
   "scope": "book",
   "chapter": null,
-  "format": "paperback",
+  "format": "pdf",
   "partial": false,
   "review_gate_errors": 0,
   "review_gate_bypassed": false,
-  "created_at": "2026-11-11T14:29:11",
+  "created_at": "2026-11-11T22:00:06",
   "chapters": [
     {
       "id": "001",
@@ -252,17 +252,16 @@
     }
   ],
   "outputs": [
-    "books\\die-dritte-chronik\\exports\\stil-01-original\\book\\print\\book-die-dritte-chronik-stil-01-original-6x9-long_classic-head-20261111-142902-paperback-interior.pdf",
-    "books\\die-dritte-chronik\\exports\\stil-01-original\\book\\print\\book-die-dritte-chronik-stil-01-original-6x9-long_classic-head-20261111-142902-print-report.json"
+    "books\\die-dritte-chronik\\exports\\stil-01-original\\book\\pdf\\book-die-dritte-chronik-stil-01-original-20261111-220003.pdf"
   ],
-  "work_markdown": "books\\die-dritte-chronik\\exports\\stil-01-original\\book\\work\\book-die-dritte-chronik-stil-01-original-6x9-long_classic-head-20261111-142902.md",
-  "work_pdf_html": "books\\die-dritte-chronik\\exports\\stil-01-original\\book\\work\\book-die-dritte-chronik-stil-01-original-6x9-long_classic-head-20261111-142902.paperback.html",
-  "work_pdf_css": "books\\die-dritte-chronik\\exports\\stil-01-original\\book\\work\\book-paperback.css",
-  "print_report": "books\\die-dritte-chronik\\exports\\stil-01-original\\book\\print\\book-die-dritte-chronik-stil-01-original-6x9-long_classic-head-20261111-142902-print-report.json",
-  "print_trim_size": "6x9",
-  "print_layout_profile": "long_classic",
-  "print_illustration_mode": "chapter_head",
-  "print_paper": "cream",
+  "work_markdown": "books\\die-dritte-chronik\\exports\\stil-01-original\\book\\work\\book-die-dritte-chronik-stil-01-original-20261111-220003.md",
+  "work_pdf_html": "books\\die-dritte-chronik\\exports\\stil-01-original\\book\\work\\book-die-dritte-chronik-stil-01-original-20261111-220003.pdf.html",
+  "work_pdf_css": "books\\die-dritte-chronik\\exports\\stil-01-original\\book\\work\\book-print.css",
+  "print_report": null,
+  "print_trim_size": null,
+  "print_layout_profile": null,
+  "print_illustration_mode": null,
+  "print_paper": null,
   "cover": "books\\die-dritte-chronik\\assets\\covers\\cover.jpg",
   "print_cover": "books\\die-dritte-chronik\\assets\\covers\\cover-print.jpg",
   "series": null,

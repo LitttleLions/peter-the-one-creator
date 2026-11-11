@@ -110,13 +110,10 @@ book:
     Dieser Roman behauptet ihren Fund. Rahmung und vier Akte, drei Stimmen,
     ein durchgehendes Geheimnis: Texte überleben ihre Schreiber. Genau davon
     handelt das Buch.
-  author_bio: >-
-    Timo Verita ist ein Autor aus zwei Hälften: Mensch und Maschine.
-    Die eine Hälfte recherchiert Nächte durch, die andere vergisst
-    nichts. Zusammen schreiben sie historische Romane für Motivatier
-    Classics, herausgegeben von der Motivatier Stiftung. Geboren wurde
-    Timo Verita in einem Buchstabenspiel; zu Hause ist er in der Welt
-    von gestern – diesmal zwischen Karakorum, Chorasan und Bagdad.
+  author_bio: |
+    Timo Verita erblickte das Licht der Welt in einem nächtlichen Buchstabenspiel und besteht seither aus zwei Hälften: Mensch und Maschine. Seine Lehrjahre verbrachte er gleichermaßen in staubigen Handschriftensammlungen wie in modernen Rechenzentren, bevor er bei Motivatier Classics (herausgegeben von der Motivatier Stiftung) seine feste Heimat fand. Beim Schreiben historischer Romane ergänzt sich das Duo blind: Der menschliche Teil bringt den Eigensinn, die Quellenkritik und die großen Fragen mit; der maschinelle Teil das unerschöpfliche Gedächtnis für jedes Detail vergangener Jahrhunderte.
+
+    In diesem Roman führt ihn die Spur in das Jahrzehnt zwischen 1241 und 1251, als nach dem Tod des Großkhans Frauen das mongolische Weltreich lenkten – und drei Chronisten in Karakorum ihr Leben riskierten, weil ein Kaiserreich nicht nur mit dem Bogen erobert wird, sondern mit der Feder.
   cover:
     mode: image
     image_path: assets/covers/cover.jpg

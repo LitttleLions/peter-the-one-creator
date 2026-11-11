@@ -134,7 +134,9 @@ def main(argv: list[str] | None = None) -> int:
         return 2
 
     title = str(meta.get("book", {}).get("title") or "")
-    wrap_meta = dict(meta.get("book") or {})
+    # Wie export_manuscript.py das ganze Dokument uebergeben: der Wrap liest
+    # `book` (Titel/Autor/Summary) und `print.back_cover` (Rueckseiten-Gestaltung).
+    wrap_meta = dict(meta)
     html_path = target.with_suffix(".html")
     html_text = render_wrap_html(
         meta=wrap_meta,

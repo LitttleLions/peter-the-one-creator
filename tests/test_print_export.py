@@ -16,6 +16,7 @@ from lib.print_pdf import (  # noqa: E402
     count_frontmatter_sections,
     export_paperback_interior,
 )
+from lib.print_wrap import DEFAULT_BACK_COLORS  # noqa: E402
 from lib.print_spec import (  # noqa: E402
     PrintSpec,
     kdp_gutter_band,
@@ -382,6 +383,87 @@ class PrintHtmlTests(unittest.TestCase):
         self.assertIn(".spine span", html)
         self.assertIn("rotate(-90deg)", html)
         self.assertIn("width: 0.5in", html)
+
+    def test_wrap_plain_by_default(self) -> None:
+        """Ohne print.back_cover bleibt die schlichte Rueckseite erhalten."""
+        from lib.print_wrap import render_wrap_html
+
+        spec = PrintSpec.from_dict({}, REPO_ROOT)
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            cover = root / "cover-print.jpg"
+            cover.write_bytes(b"img")
+            html = render_wrap_html(
+                meta={"title": "T", "author": "A", "summary": "S."},
+                cover_path=cover,
+                html_path=root / "wrap.html",
+                spec=spec,
+                page_count=200,
+            )
+        self.assertIn("background: #ffffff", html)
+        self.assertNotIn("back-head", html)
+        self.assertNotIn("author-bio", html)
+
+    def test_wrap_styled_back_cover_from_export_document(self) -> None:
+        """`print.back_cover` gestaltet die Rueckseite (Dokumentform wie in
+        export.yaml, Buchdaten unter `book`). Genau diese Form uebergibt
+        build_cover.py - vorher kam nur `book` an und die Gestaltung fiel
+        stillschweigend auf Weiss zurueck (Befund 2026-11-11)."""
+        from lib.print_wrap import back_cover_settings, render_wrap_html
+
+        spec = PrintSpec.from_dict({}, REPO_ROOT)
+        meta = {
+            "book": {"title": "Der Pharao", "author": "Boleslaw Prus", "summary": "S."},
+            "print": {
+                "back_cover": {
+                    "styled": True,
+                    "colors": {"background": "#f4ecdc", "heading": "#8c2b1c"},
+                    "tagline": "Macht und Wissen.",
+                    "quote": "Aegypten ist ein Geschenk des Nils.",
+                    "quote_source": "Herodot",
+                    "author_bio": "Boleslaw Prus (1847-1912).",
+                }
+            },
+        }
+        self.assertTrue(back_cover_settings(meta)["styled"])
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            cover = root / "cover-print.jpg"
+            cover.write_bytes(b"img")
+            html = render_wrap_html(
+                meta=meta,
+                cover_path=cover,
+                html_path=root / "wrap.html",
+                spec=spec,
+                page_count=640,
+            )
+        self.assertIn("background: #f4ecdc", html)
+        self.assertIn("Der Pharao", html)
+        self.assertIn("Boleslaw Prus", html)
+        self.assertIn("back-head", html)
+        self.assertIn("author-bio", html)
+        self.assertIn("Herodot", html)
+        self.assertIn("spine-rule", html)
+        self.assertNotIn("background: #ffffff", html)
+        self.assertNotIn("}}", html)
+
+    def test_back_cover_colors_fall_back(self) -> None:
+        from lib.print_wrap import back_cover_settings
+
+        cfg = back_cover_settings(
+            {"print": {"back_cover": {"styled": True, "colors": {"heading": ""}}}}
+        )
+        self.assertEqual(cfg["colors"]["heading"], DEFAULT_BACK_COLORS["heading"])
+        self.assertEqual(cfg["colors"]["background"], DEFAULT_BACK_COLORS["background"])
+
+    def test_back_cover_flat_meta_still_works(self) -> None:
+        """Flache Metadaten (aeltere Aufrufer) bleiben lesbar."""
+        from lib.print_wrap import back_cover_copy
+
+        title, author, _summary = back_cover_copy(
+            {"title": "T", "author": "A", "summary": "S."}
+        )
+        self.assertEqual((title, author), ("T", "A"))
 
     def test_preview_html_still_includes_cover(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:

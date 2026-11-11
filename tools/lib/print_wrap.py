@@ -20,6 +20,17 @@ SERIES_LINE = "Motivatier Classics"
 BARCODE_WIDTH_MM = 30
 BARCODE_HEIGHT_MM = 18
 
+# Rueckseiten-Gestaltung (2026-11-11). Ohne `print.back_cover` in export.yaml
+# bleibt alles beim bisherigen, schlichten Aufbau (weisse Flaeche, schwarze
+# Schrift) - andere Buchpakete laufen unveraendert weiter.
+DEFAULT_BACK_COLORS = {
+    "background": "#f6f1e6",
+    "text": "#241c12",
+    "heading": "#7a1f1a",
+    "rule": "#b08d4f",
+}
+BACK_ORNAMENT = "\u2766"  # ❦ Blattornament, in EB Garamond vorhanden
+
 
 def _inches(value: float) -> str:
     text = f"{value:.4f}".rstrip("0").rstrip(".")
@@ -39,12 +50,117 @@ def _asset_url(path: Path, html_path: Path) -> str:
 
 
 def back_cover_copy(meta: dict[str, Any]) -> tuple[str, str, str]:
-    title = str(meta.get("title") or "").strip() or "Motivatier Classics"
-    author = str(meta.get("author") or "").strip()
-    summary = str(meta.get("summary") or "").strip()
+    fields = _book_fields(meta)
+    title = str(fields.get("title") or "").strip() or "Motivatier Classics"
+    author = str(fields.get("author") or "").strip()
+    summary = str(fields.get("summary") or "").strip()
     if not summary:
-        summary = str(meta.get("description") or "").strip()
+        summary = str(fields.get("description") or "").strip()
     return title, author, summary
+
+
+def _book_fields(meta: dict[str, Any]) -> dict[str, Any]:
+    """Buchdaten lesen - flach oder unter ``book`` (Export-Dokument).
+
+    `export_manuscript.py` uebergibt das ganze export.yaml (Buchdaten liegen
+    unter ``book``), `build_cover.py` uebergibt dasselbe Dokument. Beide Formen
+    werden bedient; flache Felder haben Vorrang.
+    """
+    out = dict(meta.get("book") or {}) if isinstance(meta.get("book"), dict) else {}
+    for key in ("title", "author", "summary", "description"):
+        value = meta.get(key)
+        if value:
+            out[key] = value
+    return out
+
+
+def back_cover_settings(meta: dict[str, Any]) -> dict[str, Any]:
+    """Rueckseiten-Gestaltung aus ``print.back_cover`` (optional).
+
+    Fehlt der Block, ist ``styled`` False und der Wrap bleibt wie bisher.
+    """
+    raw = meta.get("back_cover")
+    if not isinstance(raw, dict):
+        print_block = meta.get("print")
+        raw = print_block.get("back_cover") if isinstance(print_block, dict) else None
+    if not isinstance(raw, dict):
+        raw = {}
+    colors = dict(DEFAULT_BACK_COLORS)
+    given = raw.get("colors")
+    if isinstance(given, dict):
+        for key, value in given.items():
+            text = str(value or "").strip()
+            if key in colors and text:
+                colors[key] = text
+    return {
+        "styled": bool(raw.get("styled", False)),
+        "colors": colors,
+        "tagline": str(raw.get("tagline") or "").strip(),
+        "quote": str(raw.get("quote") or "").strip(),
+        "quote_source": str(raw.get("quote_source") or "").strip(),
+        "author_bio": str(raw.get("author_bio") or "").strip(),
+    }
+
+
+def _summary_paragraphs(summary: str, limit: int = 4) -> list[str]:
+    out: list[str] = []
+    for block in summary.split("\n\n")[:limit]:
+        clean = " ".join(block.split()).strip()
+        if clean:
+            out.append(clean)
+    return out
+
+
+def back_cover_html(meta: dict[str, Any]) -> str:
+    """Rueckseiteninhalt als HTML - schlicht oder gestaltet."""
+    title, author, summary = back_cover_copy(meta)
+    cfg = back_cover_settings(meta)
+    paragraphs = _summary_paragraphs(summary)
+    if not cfg["styled"]:
+        body = "\n".join(f"<p>{_escape(text)}</p>" for text in paragraphs)
+        author_line = f"<p class='author'>{_escape(author)}</p>" if author else ""
+        return (
+            f"<p class='brand'>{_escape(SERIES_LINE)}</p>"
+            f"<h1>{_escape(title)}</h1>"
+            f"{author_line}"
+            f"{body}"
+        )
+
+    body = "\n".join(f"<p>{_escape(text)}</p>" for text in paragraphs)
+    tagline = (
+        f"<p class='tagline'>{_escape(cfg['tagline'])}</p>"
+        if cfg["tagline"]
+        else ""
+    )
+    quote = ""
+    if cfg["quote"]:
+        source = (
+            f"<span class='quote-source'>{_escape(cfg['quote_source'])}</span>"
+            if cfg["quote_source"]
+            else ""
+        )
+        quote = (
+            "<div class='quote'>"
+            f"<p>{_escape(cfg['quote'])}</p>{source}</div>"
+        )
+    bio = ""
+    if cfg["author_bio"]:
+        bio = (
+            "<div class='author-bio'>"
+            "<p class='bio-head'>Ueber den Autor</p>"
+            f"<p>{_escape(cfg['author_bio'])}</p></div>"
+        )
+    return (
+        "<div class='back-head'>"
+        f"<p class='brand'>{_escape(SERIES_LINE)}</p>"
+        f"<h1>{_escape(title)}</h1>"
+        f"<p class='author'>{_escape(author)}</p>"
+        f"<div class='rule'>{BACK_ORNAMENT}</div>"
+        "</div>"
+        f"<div class='blurb'>{body}{tagline}</div>"
+        f"{quote}"
+        f"{bio}"
+    )
 
 
 def _font_css(spec: PrintSpec, html_path: Path) -> str:
@@ -80,17 +196,23 @@ def render_print_cover_html(cover_path: Path, html_path: Path, spec: PrintSpec) 
 
 def render_back_cover_html(meta: dict[str, Any], html_path: Path, spec: PrintSpec) -> str:
     title, author, summary = back_cover_copy(meta)
-    paragraphs = []
-    for block in summary.split("\n\n"):
-        clean = " ".join(block.split()).strip()
-        if clean:
-            paragraphs.append(f"<p>{_escape(clean)}</p>")
-    body = "\n".join(paragraphs)
+    cfg = back_cover_settings(meta)
+    body = "\n".join(
+        f"<p>{_escape(text)}</p>" for text in _summary_paragraphs(summary)
+    )
     author_line = f"<p class='author'>{_escape(author)}</p>" if author else ""
+    styled = (
+        f"body {{ background: {cfg['colors']['background']}; "
+        f"color: {cfg['colors']['text']}; }}\n"
+        "h1 { color: %s; }\n" % cfg["colors"]["heading"]
+        if cfg["styled"]
+        else ""
+    )
     return (
         "<!doctype html><html><head><meta charset='utf-8' />"
         "<style>"
         f"{_font_css(spec, html_path)}\n"
+        f"{styled}"
         f"@page {{ size: {spec.trim_css()}; margin: 16mm 16mm 24mm 16mm; }}\n"
         "html, body { margin: 0; padding: 0; }\n"
         ".brand { font-size: 9pt; letter-spacing: 0.14em; text-transform: uppercase; "
@@ -120,18 +242,76 @@ def render_wrap_html(
     page_count: int,
 ) -> str:
     title, author, summary = back_cover_copy(meta)
+    cfg = back_cover_settings(meta)
+    colors = cfg["colors"]
     src = _asset_url(cover_path, html_path)
     width = wrap_width_in(page_count, spec.trim_width_in, spec.paper)
     height = wrap_height_in(spec.trim_height_in)
     panel = wrap_panel_width_in(spec.trim_width_in)
     spine_in = kdp_spine_mm(page_count, spec.paper) / 25.4
-    paragraphs = []
-    for block in summary.split("\n\n")[:4]:
-        clean = " ".join(block.split()).strip()
-        if clean:
-            paragraphs.append(f"<p>{_escape(clean)}</p>")
-    body = "\n".join(paragraphs)
+    paragraphs = _summary_paragraphs(summary)
+    body = "\n".join(f"<p>{_escape(text)}</p>" for text in paragraphs)
     spine_label = " · ".join(part for part in (author, title) if part)
+    back_panel = back_cover_html(meta)
+
+    if cfg["styled"]:
+        back_bg = colors["background"]
+        spine_bg = "linear-gradient(180deg, #1c150e 0%, #33240f 50%, #1c150e 100%)"
+        spine_color = "#e8dcc0"
+        spine_rule = (
+            f"<div class='spine-rule top'>{BACK_ORNAMENT}</div>"
+            f"<div class='spine-rule bottom'>{BACK_ORNAMENT}</div>"
+        )
+        back_css = (
+            ".back-head { text-align: center; margin: 0 0 7mm; }\n"
+            ".brand { font-size: 8.5pt; letter-spacing: 0.14em; "
+            "text-transform: uppercase; margin: 0 0 5mm; }\n"
+            f"h1 {{ font-size: 19pt; font-weight: normal; margin: 0 0 2mm; "
+            f"line-height: 1.12; color: {colors['heading']}; }}\n"
+            ".author { font-size: 11pt; margin: 0 0 5mm; letter-spacing: 0.06em; }\n"
+            f".rule {{ color: {colors['rule']}; font-size: 12pt; "
+            "display: flex; align-items: center; gap: 4mm; }\n"
+            f".rule::before, .rule::after {{ content: ''; flex: 1; "
+            f"border-top: 0.5pt solid {colors['rule']}; opacity: 0.55; }}\n"
+            ".blurb p { font-size: 9.2pt; line-height: 1.42; margin: 0 0 0.75em; "
+            "text-align: justify; }\n"
+            ".blurb p:first-child::first-letter { font-size: 2.1em; float: left; "
+            "line-height: 0.86; padding: 0.04em 0.08em 0 0; }\n"
+            f".tagline {{ font-style: italic; text-align: center; "
+            f"color: {colors['heading']}; margin-top: 4mm; }}\n"
+            f".quote {{ margin: 6mm 0 0; padding: 4mm 0 0; "
+            f"border-top: 0.5pt solid {colors['rule']}; text-align: center; }}\n"
+            ".quote p { font-style: italic; font-size: 9.6pt; line-height: 1.4; "
+            "margin: 0 0 1.5mm; text-align: center; }\n"
+            ".quote-source { font-size: 8pt; letter-spacing: 0.1em; "
+            "text-transform: uppercase; opacity: 0.75; }\n"
+            f".author-bio {{ margin: 6mm 0 0; padding: 4mm 0 0; "
+            f"border-top: 0.5pt solid {colors['rule']}; }}\n"
+            f".bio-head {{ font-size: 8.5pt; letter-spacing: 0.14em; "
+            f"text-transform: uppercase; color: {colors['heading']}; "
+            "margin: 0 0 2mm; }\n"
+            ".author-bio p { font-size: 8.6pt; line-height: 1.38; margin: 0; "
+            "text-align: justify; }\n"
+            ".spine-rule { position: absolute; left: 50%; "
+            "transform: translateX(-50%); font-size: 11pt; opacity: 0.75; }\n"
+            ".spine-rule.top { top: 26mm; }\n"
+            ".spine-rule.bottom { bottom: 26mm; }\n"
+        )
+    else:
+        back_bg = "#ffffff"
+        spine_bg = "#1a1a1a"
+        spine_color = "#f4f0e6"
+        spine_rule = ""
+        back_css = (
+            ".brand { font-size: 8.5pt; letter-spacing: 0.14em; "
+            "text-transform: uppercase; margin: 0 0 8mm; }\n"
+            "h1 { font-size: 16pt; font-weight: normal; margin: 0 0 3mm; "
+            "line-height: 1.12; }\n"
+            ".author { font-size: 11pt; margin: 0 0 8mm; }\n"
+            "p { font-size: 9.2pt; line-height: 1.32; margin: 0 0 0.7em; "
+            "text-align: justify; }\n"
+        )
+
     return (
         "<!doctype html><html><head><meta charset='utf-8' />"
         "<style>"
@@ -142,32 +322,28 @@ def render_wrap_html(
         f".panel {{ width: {_inches(panel)}; height: 100%; position: relative; "
         "overflow: hidden; box-sizing: border-box; }\n"
         f".spine {{ width: {_inches(spine_in)}; height: 100%; position: relative; "
-        "background: #1a1a1a; color: #f4f0e6; }\n"
+        f"background: {spine_bg}; color: {spine_color}; }}\n"
         ".spine span { position: absolute; top: 50%; left: 50%; "
         "transform: translate(-50%, -50%) rotate(-90deg); white-space: nowrap; "
         "font-size: 9pt; letter-spacing: 0.08em; }\n"
-        f".back {{ padding: {_inches(KDP_BLEED_IN + 0.35)} {_inches(0.35)} "
-        f"{_inches(KDP_BLEED_IN + 0.55)} {_inches(KDP_BLEED_IN + 0.3)}; "
+        f".back {{ background: {back_bg}; color: {colors['text']}; "
+        f"padding: {_inches(KDP_BLEED_IN + 0.45)} {_inches(0.42)} "
+        f"{_inches(KDP_BLEED_IN + 0.55)} {_inches(0.42)}; "
         "box-sizing: border-box; }\n"
-        ".brand { font-size: 8.5pt; letter-spacing: 0.14em; text-transform: uppercase; "
-        "margin: 0 0 8mm; }\n"
-        "h1 { font-size: 16pt; font-weight: normal; margin: 0 0 3mm; line-height: 1.12; }\n"
-        ".author { font-size: 11pt; margin: 0 0 8mm; }\n"
-        "p { font-size: 9.2pt; line-height: 1.32; margin: 0 0 0.7em; text-align: justify; }\n"
+        f"{back_css}"
         f".barcode-reserve {{ position: absolute; left: {_inches(KDP_BLEED_IN + 0.2)}; "
         f"bottom: {_inches(KDP_BLEED_IN + 0.2)}; width: {BARCODE_WIDTH_MM}mm; "
-        f"height: {BARCODE_HEIGHT_MM}mm; border: 0.3pt dashed #bbb; }}\n"
+        f"height: {BARCODE_HEIGHT_MM}mm; "
+        f"border: 0.3pt dashed {colors['rule'] if cfg['styled'] else '#bbb'}; "
+        f"opacity: {0.5 if cfg['styled'] else 1}; }}\n"
         ".front img { display: block; width: 100%; height: 100%; object-fit: cover; }\n"
         "</style></head><body>"
         "<div class='wrap'>"
         "<div class='panel back'>"
-        f"<p class='brand'>{_escape(SERIES_LINE)}</p>"
-        f"<h1>{_escape(title)}</h1>"
-        f"<p class='author'>{_escape(author)}</p>"
-        f"{body}"
+        f"{back_panel}"
         "<div class='barcode-reserve' aria-hidden='true'></div>"
         "</div>"
-        f"<div class='spine'><span>{_escape(spine_label)}</span></div>"
+        f"<div class='spine'>{spine_rule}<span>{_escape(spine_label)}</span></div>"
         f"<div class='panel front'><img src='{_escape(src)}' alt='Cover' /></div>"
         "</div></body></html>"
     )

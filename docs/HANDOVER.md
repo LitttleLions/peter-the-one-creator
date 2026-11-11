@@ -7,7 +7,41 @@
 > **Diese Datei erst lesen, wenn die konkrete Aufgabe sie braucht.**
 > Einstiegskosten und Hebel (gemessen): [kontextanalyse.md](./kontextanalyse.md).
 
-## Letzte Session (2026-11-11 nachmittags, `die-dritte-chronik` als Paperback)
+## Letzte Session (2026-11-11 abends, `die-dritte-chronik`: RomanForge-Uebernahme + neue Saetze)
+
+Branch **`main`**. Die Chronik wurde komplett auf die RomanForge-Uebergabe
+`7357431a` vom 2026-11-11 14:49 gezogen (Modus AKTUALISIEREN, Stufe 2) und
+danach in allen Formaten neu gesetzt.
+
+- **48/48 Kapitel uebernommen**, in 10 Paketen zu max. 5 Kapiteln, je Paket
+  `assemble_chapter.py` + `review_manuscript --chapter NNN --llm none`.
+  Alle 12 Konflikte zugunsten von RomanForge aufgeloest (Nutzerentscheidung).
+  **Gate ueber das ganze Buch: ERROR=0 / WARNING=0 / INFO=0.**
+  Commits `9dcbbe6` (Pakete 1-3) und `7641489` (Pakete 4-10).
+- **Kapitel 003 ersetzt**: RomanForge hat "Das Trinkgelage" (2297 Woerter)
+  durch "Bittere Mandeln" (3419) getauscht. Der Import blockiert das, weil
+  `import_markdown_original.py` bei kollidierender Exportposition der
+  vorhandenen Kapitel-ID Vorrang gibt - der erste `--accept 003` setzte
+  dadurch nur den Titel und leerte den Text (`state.yaml` mit Leer-Hash
+  `e3b0c442…`). Aufgeloest durch Entfernen der 003-Dateien und des
+  state-Eintrags, dann frischer Import. Der alte Text liegt in Git (`HEAD`)
+  und im Roh-Export `work/imports/romanforge/runs/20261111-140609/`.
+  **Bei allen weiteren Paketen vorab Trockenlauf** - keine weitere Kollision.
+- `state.yaml`: alle 48 Kapitel mit `rf_base`/`peter_base` aus der neuen
+  Uebergabe und fortlaufender `rf_id`.
+- **Alle Formate neu** (Textstand 116.986 Woerter):
+  - Paperback-Innenleben `6x9 / long_classic / chapter_head` = **304 Seiten**
+    (vorher 262), Bundsteg 15,9 mm, Aussenrand 12,7 mm, Report `status: ok`
+    ohne Warnungen
+  - `paperback-complete.pdf` = 307 Seiten (Vorderseite + Text + Rueckseite)
+  - **Wrap** `cover-wrap-20261111-220024-304.pdf`: 330,5 x 234,9 mm,
+    Ruecken **19,3 mm** (vorher 16,64 mm bei 262 Seiten)
+  - A5-Lese-PDF `…-20261111-220003.pdf`: 582 Seiten, 148,2 x 209,9 mm
+- **Offen**: Chronik bei KDP hochladen (Trim 6 x 9, Creme; Interior
+  `…-215856`, **nicht** das Komplett-PDF) und die Druckansicht pruefen.
+  EPUB der Chronik ist noch der Stand `20260921-131112` mit altem Text.
+
+## Vorige Session (2026-11-11 nachmittags, Chronik: 4k-Cover, Vita, Untertitel)
 
 Branch **`main`**. Pharao ist bei KDP hochgeladen (Testbuch, Wartezeit) - der
 erste Band, an dem die neue Satzlogik geprueft wird. Parallel die Chronik als
@@ -47,7 +81,7 @@ zweites Druckbuch aufgebaut.
 - **Offen**: Chronik bei KDP als Paperback hochladen und die Druckansicht
   pruefen.
 
-## Letzte Session (2026-11-11 spaeter, `pharao`: Druckcover 4k + 6x9-Satz + Wrap)
+## Vorige Session (2026-11-11 spaeter, `pharao`: Druckcover 4k + 6x9-Satz + Wrap)
 
 Branch **`main`**, gepusht (`32ce84b`). Pharao hatte bis dahin **kein**
 Druckcover im KDP-Sinn: `cover-print.png` war 1024x1536 (~182 dpi) und damit

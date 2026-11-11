@@ -2326,6 +2326,54 @@ def add_epub_series_metadata(path: Path, meta: dict[str, Any]) -> None:
     tmp.replace(path)
 
 
+def add_epub_subtitle_metadata(path: Path, meta: dict[str, Any]) -> None:
+    """Schreibt den Untertitel als ``dc:subtitle`` ins EPUB-OPF.
+
+    `book.subtitle` erschien bis 2026-11-11 nur auf der Titelseite im Buch,
+    nicht in den Metadaten - Haendler und Lesegeraete sahen also nur den
+    Haupttitel (Befund bei `die-dritte-chronik`). EPUB 3 fuehrt den Untertitel
+    als eigenes `dc:subtitle`-Element. Ohne `subtitle` bleibt das EPUB
+    unveraendert.
+    """
+    subtitle = str(meta.get("subtitle") or "").strip()
+    if not subtitle:
+        return
+    block = (
+        f'<dc:subtitle id="epub-subtitle-1">{html.escape(subtitle)}</dc:subtitle>'
+    ).encode("utf-8")
+
+    with zipfile.ZipFile(path, "r") as zf:
+        entries = [(info, zf.read(info.filename)) for info in zf.infolist()]
+
+    changed = False
+    new_entries: list[tuple[zipfile.ZipInfo, bytes]] = []
+    for info, data in entries:
+        if (
+            info.filename.endswith(".opf")
+            and b"<dc:subtitle" not in data
+            and b"</metadata>" in data
+        ):
+            data = data.replace(b"</metadata>", block + b"</metadata>", 1)
+            changed = True
+        new_entries.append((info, data))
+
+    if not changed:
+        return
+
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    with zipfile.ZipFile(tmp, "w") as zf:
+        for info, data in new_entries:
+            compression = zipfile.ZIP_STORED if info.filename == "mimetype" else zipfile.ZIP_DEFLATED
+            new_info = zipfile.ZipInfo(info.filename, info.date_time)
+            new_info.comment = info.comment
+            new_info.extra = info.extra
+            new_info.internal_attr = info.internal_attr
+            new_info.external_attr = info.external_attr
+            new_info.create_system = info.create_system
+            zf.writestr(new_info, data, compress_type=compression)
+    tmp.replace(path)
+
+
 def rel_label(path: Path) -> str:
     try:
         return str(path.relative_to(REPO_ROOT))
@@ -2592,6 +2640,7 @@ def main() -> int:
             str(front_matter_config(meta).get("title_heading") or "Titelseite"),
         )
         add_epub_series_metadata(epub_path, meta)
+        add_epub_subtitle_metadata(epub_path, meta)
         errors, warnings = check_epub(epub_path)
         if warnings:
             print(f"EPUB-Warnungen (Pandoc-Artefakte):")

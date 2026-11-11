@@ -619,6 +619,51 @@ class ExportManuscriptTests(unittest.TestCase):
 
         self.assertNotIn("belongs-to-collection", opf)
 
+    def test_epub_subtitle_metadata_is_written_and_idempotent(self) -> None:
+        """`book.subtitle` gehoert als dc:subtitle ins OPF (Befund 2026-11-11:
+        der Untertitel stand nur auf der Titelseite, nicht in den Metadaten)."""
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "book.epub"
+            with zipfile.ZipFile(path, "w") as zf:
+                zf.writestr("mimetype", b"application/epub+zip")
+                zf.writestr(
+                    "EPUB/content.opf",
+                    (
+                        "<package><metadata>"
+                        "<dc:title>Die dritte Chronik</dc:title>"
+                        "</metadata></package>"
+                    ).encode("utf-8"),
+                )
+
+            meta = {"title": "Die dritte Chronik",
+                    "subtitle": "Im Schatten Dschingis Khans"}
+            export.add_epub_subtitle_metadata(path, meta)
+            export.add_epub_subtitle_metadata(path, meta)
+
+            with zipfile.ZipFile(path) as zf:
+                opf = zf.read("EPUB/content.opf").decode("utf-8")
+
+        self.assertEqual(opf.count("<dc:subtitle"), 1)
+        self.assertIn(">Im Schatten Dschingis Khans</dc:subtitle>", opf)
+        self.assertTrue(opf.endswith("</metadata></package>"))
+
+    def test_epub_subtitle_metadata_is_optional(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "book.epub"
+            with zipfile.ZipFile(path, "w") as zf:
+                zf.writestr("mimetype", b"application/epub+zip")
+                zf.writestr(
+                    "EPUB/content.opf",
+                    b"<package><metadata></metadata></package>",
+                )
+
+            export.add_epub_subtitle_metadata(path, {"title": "Buch"})
+
+            with zipfile.ZipFile(path) as zf:
+                opf = zf.read("EPUB/content.opf").decode("utf-8")
+
+        self.assertNotIn("<dc:subtitle", opf)
+
     def test_render_export_markdown_uses_compact_epub_front_matter(self) -> None:
         chapter = export.ChapterExport(
             chapter_id="001",

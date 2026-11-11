@@ -1,173 +1,150 @@
 ## Das geheime Buch
 
-Der Sturm hatte das Zelt in der Nacht fast niedergerissen. Shigi Qutuqu stand am Morgen vor dem geflickten Filz und betrachtete die Naht, die seine Diener gezogen hatten. Sie war ungleichmäßig, die Stiche zu weit, der Faden zu locker. Er würde sie neu machen lassen.
+In Shigis Zelt roch es nach altem Leder, feuchtem Schafsfett und der bitteren Asche von getrocknetem Mist, der seit dem Morgengrauen in der eisernen Schale glomm. Es war ein Geruch, der sich in den dicken Filzwänden gefangen hatte wie die Kälte des Winters, die auch jetzt, im zweiten Jahr nach Ögedeis Hinscheiden, noch immer tief im Lehmboden saß.
 
-Im Inneren war alles noch an seinem Platz. Die Truhen mit den Urteilsbüchern, der niedrige Tisch, die Lampe, die nie ganz erlosch. Und das Buch.
+Draußen sang der Wind über dem Orchon-Tal, rüttelte an den geflochtenen Spannseilen und trieb den Staub der Steppe vor sich her. Shigi Qutuqu saß mit untergeschlagenen Beinen auf einem flachen Holzsitz, den Rücken gerade, die Hände reglos auf den Knien gebettet. Vor ihm dampfte eine Holzschale mit gerösteter Hirse, doch er rührte sie nicht an.
 
-Shigi setzte sich auf die Filzmatte und legte die Hände auf den Deckel. Das Leder war abgegriffen, die Ecken abgestoßen. Fünf Jahre Arbeit. Fünf Jahre, in denen er alte Männer befragt, ihre Geschichten verglichen, die Widersprüche notiert und wieder verworfen hatte.
+Ihm gegenüber saß Khasar-Batu, ein Mann mit milchig trüben Augen und Händen, deren Knöchel dick und krumm waren wie Wurzelwerk aus dem Altai. Er kaute mühsam an einem Stück getrocknetem Hammelfleisch, während der fettige Rauch der Feuerstelle zwischen ihnen aufstieg.
 
-Er schlug das Buch auf.
+»Die Taichi’ut banden ihm das Cangue-Holz um den Nacken«, sagte der Greis, und seine Stimme krächzte wie eine Krähe im Frost. »Neun Tage trug Temüjin das Joch, und sein Hals war wund gescheuert bis auf das rote Fleisch. Aber in der Nacht des Vollmonds schlug er den Wachposten nieder. Nicht mit einer Klinge, nein. Er traf ihn mit dem schweren Holz selbst, packte den Mann an der Kehle und rannte in das Schilf des Onon. Ich weiß es, Richter. Ich stand drei Bögen weit entfernt, als das Geschrei losbrach. Er floh allein, weil er keinem Menschen vertraute, nicht einmal den Hunden.«
 
-Die erste Seite war leer. Er hatte sie freigelassen für ein Vorwort, das er noch nicht schreiben konnte. Die zweite Seite trug den ersten Eintrag, datiert auf das Jahr des Tigers, den Monat des ersten Schnees.
+Shigi nickte langsam. Er hob die Binsenfeder nicht. Er tauchte sie nicht in die schwarze Rußtinte, die in einem kleinen Gefäß aus gebranntem Ton neben ihm stand.
 
-*Temüjin, genannt Dschingis Khan, geboren am Ufer des Onon-Flusses, im Jahr des Schweins, im Jahr 1167 nach der Zählung der Chinesen. Sein Vater hieß Yesügei, sein Großvater Bartan. Seine Mutter hieß Hö'elün, eine Frau der Olchunut, die Yesügei seinem Bruder raubte.*
+Drei Monde zuvor hatte Khorchi an genau derselben Stelle gesessen, die zitternden Finger um eine Schale gegorener Stutenmilch gekrampft. Khorchi, dessen linke Wange von einer alten Hiebwunde gezeichnet war, hatte geschworen, dass Temüjin niemals geflohen sei. *Er wurde freigelassen*, hatte Khorchi mit jenem sturen Trotz behauptet, den alte Krieger wie einen Schild vor ihrer Eitelkeit hertragen. *Sorghon-Shira schnitt ihm das Holz vom Nacken, versteckte ihn in einem Wollkarren und gab ihm eine Stute mit weißer Blesse, weil er sah, dass der Himmel über dem Knaben stand. Ohne Sorghon-Shiras Sippe wäre der Khan im Schlamm verrottet.*
 
-Shigi las den Satz und dachte an die Frau, die ihn aufgezogen hatte. Hö'elün, die ihm das Schreiben beigebracht, die ihm gesagt hatte: *Ein Urteil ohne Beweis ist ein Schwert ohne Klinge.* Sie war tot seit zwanzig Jahren, aber ihre Stimme war in seinem Kopf, so klar wie am ersten Tag.
+Und dann war da noch Eljigidey gewesen, der vor zwei Monden gekommen war, als der erste Frühlingsschnee das Gras verbrannte. Eljigidey hatte gelacht, ein heiseres, zahnloses Bellen. *Ihr faselt alle. Temüjin brach das Holz mit bloßen Fäusten, als der Wachmann schlief, und schlich sich ins Lager der eigenen Mutter zurück, ohne dass ein einziger Hund anschlug. Er brauchte niemanden. Er war wie der Wolf, der sich die Pfote abbeißt, um dem Eisen zu entkommen.*
 
-Er blätterte weiter.
+Drei Männer. Drei Zeugen, die am selben Feuer gesessen, dasselbe Fleisch geteilt und denselben Herrn in die Schlachten begleitet hatten. Und drei Lügen.
 
-Die ersten Kapitel waren einfach gewesen. Die Geburt, die Kindheit, der Tod des Vaters. Die Flucht der Familie in die Einöde. Die Jahre des Hungers, der Demütigungen, des Überlebens. Temüjin, der als Junge lernte, dass die Welt keine Gnade kannte.
+Nicht bösartige Lügen, dachte Shigi, während er Khasar-Batu dabei zusah, wie er sich mit dem Handrücken über den feuchten Bartstrich fuhr. Es waren jene Lügen, die Männer webten, um die eigene Schwäche zu bedecken oder das Andenken eines Toten so hoch aufzutürmen, dass kein Makel mehr daran haften blieb. Jeder von ihnen hatte seine eigene Ehre in die Flucht des Khagans hineingewoben; jeder hatte die Fäden so gezogen, dass die eigene Sippe im Licht stand und der Schatten auf die anderen fiel.
 
-Shigi hatte diese Geschichten von Hö'elün gehört, von den alten Gefährten, von Männern, die dabei gewesen waren. Sie waren hart, aber sie waren klar. Es gab keine Zweifel an dem, was geschehen war.
+Das war das Gesetz der Erinnerung. Es glich dem Treibsand in den Flussauen des Kerulen: Je tiefer man hineintrat, desto schneller versank der Grund.
 
-Aber dann kamen die Jahre, in denen die Erinnerungen auseinanderliefen.
+»Du schreibst nicht, Shigi«, bemerkte Khasar-Batu und blinzelte durch den Rauch. Seine grauen Brauen zogen sich zusammen. »Ist mein Wort dem Oberrichter nicht gut genug? Mein Vater hat mit Yesügei gejagt, als du noch in den Windeln deiner tatarischen Hure lagst.«
 
-Shigi blätterte zu der Stelle, an der er die Flucht Temüjins notiert hatte. Es war eine der ersten großen Prüfungen des jungen Khans, ein Ereignis, das jeder kannte, das in hundert Geschichten erzählt wurde. Aber wenn er die Zeugen befragte, hörte er drei verschiedene Versionen.
+Shigi zuckte nicht einmal mit der Wimper. Die alte Beleidigung prallte an ihm ab wie stumpfe Pfeile am Hornbogen. Er war der Junge mit der goldenen Nase gewesen, das Findelkind, das man in den Ruinen eines zerschlagenen Lagers aus dem Schlamm gewühlt hatte, gerettet von Hö'elün, um an den Feuern der Feinde heranzuwachsen. Er kannte die Herkunft jedes Bisses, den er je geschluckt hatte.
 
-Der erste war Sorkhan, ein alter Nukar, der Temüjin in jenen Jahren gedient hatte. Er war klein und verwittert, seine Hände von der Arbeit an den Zügeln verkrümmt. Er saß in Shigis Zelt und trank den Tee, den man ihm reichte, und erzählte die Geschichte, als wäre sie gestern geschehen.
+»Dein Wort ist schwer wie Stein, alter Oheim«, erwiderte Shigi mit seiner tiefen, schleppenden Stimme, die keinen Raum für Widerspruch ließ. »Aber Stein splittert, wenn der Winter zu hart wird. Ich wäge noch ab.«
 
-„Die Merkit kamen bei Sonnenaufgang“, sagte er. „Sie ritten durch das Tal, dreißig Mann, vielleicht vierzig. Temüjin hörte sie von weitem. Der Boden zitterte, sagte er später, wie wenn ein Sturm kommt, aber tiefer. Er weckte seine Brüder, und sie flohen in die Berge. Die Merkit folgten ihnen drei Tage lang. Sie fanden die Spur im Schnee, sie fanden das Lager, sie fanden die Pferde. Aber sie fanden Temüjin nicht. Er war zu schnell, zu klug. Er kannte jeden Fels, jeden Bach, jeden Pfad. Er überlebte, weil er die Berge besser kannte als die Männer, die ihn jagten.“
+Er griff nach dem Becher, goss ein wenig warmes Wasser hinein und reichte ihn dem Greisen. Es war eine Geste der Ehrerbietung, aber auch des Abschieds. Khasar-Batu trank gierig, wischte sich den Mund ab und erhob sich mühsam. Seine Gelenke knackten im Halbdunkel des Zeltes. Als der Filzbehang hinter ihm zufiel und der kalte Luftzug die Flamme der Fettlampe flackern ließ, saß Shigi wieder allein da.
 
-Sorkhan nickte, als er fertig war, und trank seinen Tee aus. Es war eine gute Geschichte, eine Heldengeschichte, die Geschichte eines Mannes, der seine Feinde überlistete.
+Er atmete langsam ein.
 
-Der zweite war Chilaun, ein anderer alter Krieger, der in derselben Nacht bei Temüjin gewesen war. Er war größer als Sorkhan, breiter in den Schultern, aber seine Augen waren trüb, und seine Stimme klang, als käme sie aus einer tiefen Höhle.
+Das Buch lag auf dem niedrigen Tischchen aus Pappelholz. Es war kein blau-weißes Register, wie er es für die Urteile des Reiches führte, keine Ansammlung von Viehzählungen, Weidegrenzen und Blutgeldern. Die Blätter waren aus festem, gelblichem Papier, das Kaufleute auf verschlungenen Pfaden aus den Städten am Gelben Fluss herübergebracht hatten. Der Einband bestand aus rohem, ungegerbtem Pferdeleder, das er selbst mit Sehnenfaden vernäht hatte.
 
-„Die Merkit kamen bei Sonnenaufgang“, sagte er. „Aber Temüjin hörte sie nicht. Er schlief. Wir mussten ihn wecken, ihn schütteln, ihn anschreien. Er war müde, versteht Ihr? Er war siebzehn Jahre alt, und er war allein mit seiner Familie, ohne Verbündete, ohne Waffen. Er hatte Angst. Wir alle hatten Angst. Wir flohen in die Berge, aber wir flohen blind. Wir wussten nicht, wohin wir gingen. Wir verirrten uns. Wir verloren die Pferde. Wir hätten sterben können, wenn nicht ein Zufall gewesen wäre – ein Jäger, der uns den Weg zeigte. Temüjin überlebte, weil ein Fremder Mitleid mit uns hatte.“
+Die Chronik.
 
-Chilaun schwieg einen Moment, dann fügte er hinzu: „Er hat mir verboten, diese Geschichte zu erzählen. Aber Ihr fragt nach der Wahrheit, Shigi Qutuqu. Also sage ich sie Euch.“
+Sie hatte keinen Namen. Niemand am Hof der Regentin Töregene wusste, dass sie existierte, nicht einmal Fatima mit ihren lautlosen Schritten und den dunklen, wissenden Augen, die sonst jeden Atemzug im Lager verzeichneten. Wenn Shigi an diesem Buch arbeitete, stellte er keine Wachen vor die Jurte. Wachen zogen Blicke an. Er ließ lediglich den Rauchabzug halb geöffnet, damit die Vorübergehenden glaubten, der alte Richter schlafe oder spreche mit den Ahnen.
 
-Der dritte war Jebei, ein Mann, der nicht dabei gewesen war, der die Geschichte aber von seinem Vater gehört hatte, der sie von seinem Onkel gehört hatte, der sie von einem Mann gehört hatte, der Temüjin in jener Nacht begleitet hatte. Jebei war jung, keine vierzig, und er sprach schnell, wie ein Mann, der seine Worte nicht prüft.
+Er strich mit der Kuppe seines Zeigefingers über den Lederrücken. Die Haut war kühl, fast lebendig. Es war, als berühre er den Puls eines schlafenden Tieres, das in den Tiefen der Jurte lauerte – ein Wesen, geformt aus Tusche, Schmerz und den Stimmen derer, die längst zu Staub geworden waren.
 
-„Die Merkit kamen bei Sonnenaufgang“, sagte er. „Temüjin hörte sie, und er wusste sofort, was zu tun war. Er schickte seine Brüder in verschiedene Richtungen, um die Verfolger zu verwirren. Er selbst ritt nach Norden, in die Wälder, wo die Bäume so dicht standen, dass man die Sonne nicht sah. Er versteckte sich in einer Höhle, drei Tage lang, ohne Wasser, ohne Feuer. Die Merkit suchten ihn, aber sie fanden ihn nicht. Sie gaben auf. Sie dachten, er sei tot. Aber er lebte. Er kam zurück, stärker als zuvor, und er schwor, dass er nie wieder fliehen würde. Und er hielt diesen Schwur. Bis zu seinem Tod hat er nie wieder einen Feind gefürchtet.“
+Shigi schlug die ersten Lagen auf.
 
-Jebei lächelte, als er fertig war, stolz auf die Geschichte, die er erzählt hatte.
+Der Duft von getrockneter Rußtinte stieg ihm in die Nase, herb und unveränderlich. Auf diesen Seiten lebte Temüjin nicht als der eherne Reiter, vor dem die Könige des Westens auf die Knie sanken. Hier war er der vaterlose Knabe am Delüün Boldoq, frierend, hungrig, voller Angst vor den Hunden der Nachbarn.
 
-Shigi hatte alle drei Versionen aufgeschrieben. Er hatte sie nebeneinandergelegt, verglichen, die Gemeinsamkeiten und die Widersprüche notiert. Es gab keine Möglichkeit, die Wahrheit zu finden. Die Männer, die dabei gewesen waren, waren tot. Die Männer, die noch lebten, erinnerten sich anders, jeder auf seine Weise.
+Shigis Augen glitten über die Zeilen, die er vor Jahren niedergeschrieben hatte, als das Reich noch jung gewesen war und das Blut der Eroberungen noch frisch auf den Steppen graste.
 
-Und dann war da die Frage, warum sie sich anders erinnerten.
+*Da sprachen Temüjin und Qasar zu ihrer Mutter Hö'elün: ›Bekhter nimmt uns die Beute weg. Als wir heute eine kleine Lerche schossen, entriss er sie uns. Nun hat er uns auch noch die silberne Forelle genommen. Wir können nicht mehr mit ihm leben.‹ Doch die Mutter sprach: ›Warum hadert ihr mit eurem eigenen Fleisch? Habt ihr vergessen, dass wir keine Freunde haben außer unseren eigenen Schatten?‹*
 
-Sorkhan hatte die Geschichte erzählt, die Temüjin am meisten ehrte. Chilaun hatte die Geschichte erzählt, die ihn am menschlichsten machte. Jebei hatte die Geschichte erzählt, die am besten klang, die am meisten nach einer Legende roch.
+Shigi hielt den Atem an. Er erinnerte sich an Hö'elüns Gesicht, als sie ihm, dem adoptierten Tatarenknaben, diese Geschichte anvertraut hatte. Sie hatte nicht geweint. In den Augen der Großen Mutter hatte eine furchtbare, ausgedörrte Leere gelegen, wie ein ausgetrocknetes Flussbett im Hochsommer.
 
-Drei Männer. Drei Versionen. Drei Wahrheiten.
+*Sie hörten nicht auf die Worte der Mutter*, las Shigi stumm weiter. *Temüjin schlich von vorn heran, Qasar von hinten. Sie legten die Pfeile auf die Sehnen. Bekhter saß auf dem Hügel und hütete die Schimmelstuten. Er sah sie kommen und rührte sich nicht. Er sprach: ›Tötet mich, wenn ihr müsst. Aber lasst meinen jüngeren Bruder Belgütei leben. Zerstört nicht die Familie.‹ Da schossen sie ihn von vorn und von hinten nieder und ließen ihn im Gras liegen.*
 
-Shigi schloss das Buch und legte die Hände darauf. Er spürte das Leder unter seinen Fingern, die Wärme, die es gespeichert hatte. Er dachte an die Worte, die er geschrieben hatte, und an die Worte, die er nicht geschrieben hatte.
+Shigi spürte die Kälte in seinen Fingerspitzen.
 
-Er hatte sich entschieden, alle drei Versionen aufzunehmen. Er hatte sie nebeneinandergestellt, ohne Kommentar, ohne Wertung. Der Leser würde selbst entscheiden müssen, welcher er glaubte.
+Er hatte es aufgeschrieben. Genau so. Kein Wort des Tadels, kein Ausruf des Entsetzens. Die Tat stand nackt da, kalt wie ein geschlachtetes Schaf auf gefrorenem Boden.
 
-Aber das war eine Lüge, und er wusste es.
+Er blätterte weiter, und das Papier raschelte leise im Zugwind.
 
-Der Leser würde der Version glauben, die am besten erzählt war. Der Leser würde der Version glauben, die seinen Erwartungen entsprach. Der Leser würde der Version glauben, die er hören wollte.
+Die Seiten über Börte.
 
-Und Shigi, der die Versionen auswählte, der sie anordnete, der sie nebeneinanderstellte, bestimmte, welche das war.
+Er sah das Bild vor sich, als wäre es gestern gewesen: Börte, die erste Frau des Khans, zurückgeholt aus den Händen der Merkit. Neun Monate war sie in den Zelten der Feinde gefangen gewesen. Neun Monde des Schreckens, des Schmutzes, der fremden Berührungen. Als Temüjin das Lager der Merkit überrannte und sie im Durcheinander der fliehenden Wagen fand, lag ihr Leib bereits schwer und rund unter dem Schafsfell.
 
-Er war kein Chronist. Er war ein Schöpfer.
+Und auf dem Rückritt, am Ufer des Tuul, war das Kind zur Welt gekommen.
 
-Er war ein Lügner.
+Dsotschi. Der »Gast«.
 
----
+Shigi erinnerte sich an das Flüstern in den Jurten, das gehässige Zischeln der Vettern, das Gift, das von Mund zu Mund wanderte und die Steppe schneller durchmaß als ein Brand im trockenen Gras. Tschagatai hatte es später laut herausgeschrien, vor den Augen des Vaters: *Sollen wir uns von diesem Merkit-Bastard befehlen lassen?*
 
-Die nächsten Monate brachten neue Zeugen, neue Geschichten, neue Widersprüche.
+In Shigis Chronik stand kein Urteil über Dsotschis Blut. Er hatte nur verzeichnet, wie Temüjin den Knaben an seine Brust drückte, ihn in weißen Filz wickelte und sagte: *Börte ist mein Zelt, und was in ihr wächst, gehört zu meinem Herd.*
 
-Ein alter Gefährte, der Temüjin auf der Jagd begleitet hatte, erzählte von dem Tag, an dem der junge Khan seinen Halbbruder Bekhter tötete. Es war eine Geschichte, die jeder kannte, die in hundert Liedern besungen wurde, aber die Wahrheit war anders, als die Lieder sie sangen.
+War es Großmut gewesen? Oder die pure, unerbittliche Notwendigkeit eines Mannes, der wusste, dass ein Riss im Fundament das ganze Haus zum Einsturz bringen würde?
 
-„Bekhter stahl Temüjins Beute“, sagte der alte Mann. „Einen Fisch, einen kleinen Fisch, nichts wert. Aber Temüjin war wütend. Er war immer wütend in jenen Jahren. Er nahm seinen Bogen, und er schoss. Ein Pfeil. In den Rücken. Bekhter fiel, und Temüjin stand über ihm und sah zu, wie er starb. Er weinte nicht. Er sagte kein Wort. Er drehte sich um und ging. Seine Mutter schrie ihn an, stundenlang, aber er hörte nicht zu. Er wusste, was er getan hatte. Er wusste, dass es falsch war. Aber er tat es trotzdem. Weil er der Stärkere war. Weil er überleben wollte. Weil er bereit war, alles zu tun, um zu überleben.“
+Shigi tauchte die Binsenfeder in die Tinte. Er hielt sie knapp über dem Papier, doch seine Hand zitterte nicht. Die Jahre als Oberrichter hatten seine Muskeln zu hartem Holz geschliffen.
 
-Shigi schrieb die Geschichte auf. Dann schrieb er eine zweite Version, die er von einem anderen Mann gehört hatte, der sagte, Bekhter habe Temüjin zuerst angegriffen, der habe nur sich verteidigt. Dann schrieb er eine dritte Version, die von einem Mann stammte, der sagte, es sei ein Unfall gewesen, ein Jagdunfall, ein tragisches Missverständnis.
+Er sah auf die freien Zeilen am unteren Rand der Lage. Wie sollte er Khasar-Batus Worte einfügen? Wie Eljigideys Prahlen? Wie die Tränen Khorchis?
 
-Drei Versionen. Drei Wahrheiten. Ein toter Junge.
+Er konnte es nicht. Wenn er der Eitelkeit der Krieger nachgab, wurde dieses Buch zu einem jener schmeichlerischen Lieder, wie sie die persischen Hofschreiber für ihre Fürsten dichteten – voller weitschweifiger Gleichnisse von Sonnenaufgängen, Löwenmut und Sternenbildern, unter denen das wahre Elend der Menschen erstickte. Er hatte Juvaini beobachtet, den jungen Mann mit den scheuen Augen und dem spitzen Stift, der in der Kanzlei saß und die Erlasse Töregenes in ein Farsi goss, das glatt und kühl war wie geschliffener Türkis. Solche Worte waren Seide. Sie verhüllten die Wunden.
 
-Shigi legte die Feder nieder und rieb sich die Schläfen. Der Schmerz war da, wie immer, wenn er zu lange schrieb. Ein dumpfer Druck hinter den Augen, der sich langsam ausbreitete, bis er den ganzen Kopf umfasste.
+Aber Shigis Buch durfte keine Seide sein. Es musste Leder sein. Dick, zäh, unnachgiebig gegen den Regen.
 
-Er dachte an Bekhter. Er hatte ihn nie gekannt. Er war tot, bevor Shigi in die Familie kam. Aber er spürte sein Gewicht, das Gewicht eines toten Jungen, der die Familie gespalten hatte, der die erste Wunde war, die nie heilte.
+Er flüsterte die Worte in die Stille des Zeltes hinein, als müsse er sie erst gegen den Wind prüfen, ehe er sie dem Papier anvertraute:
 
-Er dachte an Temüjin, der seinen Bruder tötete. An den Jungen, der lernte, dass Macht der einzige Weg war. An den Mann, der das Reich gründete, das Shigi jetzt diente.
+»Schreib das Hässliche schlicht. Dann wagt niemand, es zu ändern.«
 
-Er dachte an die Chronik, die er schrieb. An die Worte, die er wählte. An die Wahrheit, die er formte.
+Er strich mit der Feder über den Rand. Ja. Das war das Gesetz. Eine kunstvolle Lüge lud dazu ein, durch eine noch kunstvollere ersetzt zu werden. Ein schmückendes Beiwort war wie eine offene Fuge im Mauerwerk, in die jeder nach Belieben seinen Keil treiben konnte. Aber die schlichte, nackte Hässlichkeit – der Brudermord um eine Lerche, das Kuckuckskind im Filz, die Angst des Gründers vor den Hunden –, sie trug das Siegel der Wahrheit eben deshalb in sich, weil kein Mensch bei Verstand sie erfunden haben konnte. Sie widerstand der Zeit, weil sie niemandes Eitelkeit schmeichelte.
 
-Er nahm die Feder und schrieb einen Satz an den Rand der Seite.
+Shigi legte die Feder beiseite und rieb sich die müden Augen. Seine Schläfen pochten.
 
-*Schreib das Hässliche schlicht. Dann wagt niemand, es zu ändern.*
+Er blätterte weiter, an den großen Zügen gegen die Jin vorbei, an den Bergen von Schädeln vor Samarkand, bis er zu den Lagen gelangte, die die letzten Jahre des großen Khagans behandelten. Die Tinte hier war jünger, schwärzer, noch nicht von den Sommern ausgebleicht.
 
-Er betrachtete den Satz lange. Er wusste nicht, ob er gut war. Er wusste nicht, ob er wahr war. Aber er wusste, dass er ihn brauchte. Als Regel. Als Richtschnur. Als Erinnerung daran, dass seine Arbeit nicht darin bestand, die Wahrheit zu finden, sondern sie zu schreiben.
+Hier stand, wie Temüjin seine Söhne vor sich rief, als das Ende nahte. Wie Dsotschi und Tschagatai einander an den Kragen fuhren, wie die Wolfsbrut die Zähne fletschte, bis der Vater sprach: *Ögedei ist sanftmütig. Er wird das Reich zusammenhalten. Ögedei soll auf meinem Thron sitzen.*
 
----
+Und Ögedei hatte gesessen. Zwölf Jahre lang. Er hatte den Becher erhoben, gelacht, Gold mit vollen Händen unter die Bettler geworfen und den Kanzlern erlaubt, die Welt mit Papier zu überziehen, während er selbst den Wein trank, der ihm schließlich das Herz zerfraß – oder die Eingeweide verbrannte.
 
-Die Chronik wuchs.
+Shigis Finger hielten inne.
 
-Shigi schrieb die Geschichte von Dsotschis Geburt, neun Monate nach Börtes Befreiung aus der Gefangenschaft der Merkit. Er schrieb die Gerüchte, die nie verstummten, die Frage, ob Dsotschi wirklich Temüjins Sohn war oder der Sohn eines Merkit-Kriegers. Er schrieb die Zweifel, die Verleumdungen, die stillen Blicke, die Dsotschi sein ganzes Leben begleiteten.
+Sein Blick fiel auf eine Randnotiz, kaum drei Zeilen lang, geschrieben in seiner eigenen, engen Juristenschrift, hineingequetscht zwischen den Bericht über den Feldzug gegen Choresm und die Bestimmungen über die Poststationen. Er hatte diese Notiz vor fast fünf Jahren gemacht, in einer lauen Sommernacht am See Kökö-Nuur, als Ögedei wieder einmal zu tief in den Krug geschaut und seinen Lieblingsenkel an sich gedrückt hatte.
 
-Er schrieb die Geschichte von Ögedeis Ernennung zum Erben, die Entscheidung, die die Familie spaltete, die Dsotschi und Tschagatai gegeneinander aufbrachte, die den Grundstein legte für den Bürgerkrieg, der noch kommen würde.
+Shigi las die Worte.
 
-Er schrieb die Geschichte von Temüjins Tod, die letzten Worte, die letzten Befehle, die letzte Reise in die Berge, von der niemand zurückkehrte.
+*Der Khagan sprach im Rausch, doch sein Geist war klar wie Quellwasser: ›Mein Sohn Güyük taugt zum Schlagen, nicht zum Herrschen. Seine Brust ist zu eng für die Welt. Wenn ich gehe, soll Shiremün meinen Sitz einnehmen. Er trägt das Lächeln meiner Mutter.‹*
 
-Und er schrieb die Randnotizen, die kleinen Beobachtungen, die Zweifel, die Fragen, die er nicht beantworten konnte.
+Ein eisiger Schauer lief Shigi über den Nacken, feiner und schneidender als der Wind, der durch die Zeltnähte pfiff.
 
-Eine dieser Notizen war fast vergessen. Sie stand am Rand einer Seite, die von Ögedeis letzten Jahren handelte, von den Feldzügen, den Festen, den Dekreten. Shigi hatte sie geschrieben, als er einen alten Brief aus der Kanzlei las, einen Brief, den Ögedei an einen seiner Generäle geschrieben hatte, in dem er seine Nachfolge regelte.
+Er starrte auf die Tinte.
 
-*Ögedei habe später Shiremün als Nachfolger benannt.*
+Fünf Jahre lang war dieser Satz ein Schatten gewesen, ein flüchtiger Gedanke eines betrunkenen Herrschers, den man am nächsten Morgen mit Stutenmilch und heißer Brühe hinweggespült hatte. Niemand hatte ihn beachtet. Niemand hatte ihn besiegelt. Im Reich galt das gesprochene Wort des Khans zwar als Gesetz, aber am Hofe galt nur, was von Klingen gestützt wurde.
 
-Der Satz war kurz, fast beiläufig. Shigi hatte ihn notiert, ohne ihm große Bedeutung beizumessen. Shiremün war ein Kind, der Enkel Ögedeis, der Sohn seines Sohnes Köden. Ein Kind, das niemand kannte, das niemand ernst nahm.
+Doch jetzt?
 
-Aber der Satz war da. Und er war wahr.
+Jetzt lag Ögedei unter den Steinen des Burkhan Khaldun. Töregene hielt das Reichssiegel in ihrer festen, kühlen Hand wie einen Falken auf dem Handschuh. Sie stritt mit den Fürsten, sie vertagte den Kurultai, sie kaufte die Treue der Kiptschak-Reiter mit dem Silber der persischen Händler, und alles, was sie tat, tat sie für einen einzigen Zweck: um den Thron für Güyük freizuhalten. Für ihren Erstgeborenen. Für den Mann, dessen Zorn wie eine ungeölte Klinge im Scheidenleder saß.
 
-Shigi las ihn noch einmal, und plötzlich begriff er.
+Und hier, auf diesem vergilbten Papier, stand das Urteil des toten Vaters.
 
-Der Satz war eine Waffe.
+*Güyük taugt nicht zum Herrschen. Shiremün soll meinen Sitz einnehmen.*
 
-Solange Güyük ohne Thron war, solange die Regentin um die Macht kämpfte, solange die Familie in Fraktionen gespalten war, war dieser Satz eine Waffe. Eine Waffe, die auf Güyük zeigte. Eine Waffe, die seine Legitimität in Frage stellte. Eine Waffe, die die Thronfolge sprengen konnte.
+Shigi hörte das Klopfen seines eigenen Herzens. Es schlug langsam, schwer, wie die Kriegstrommeln vor dem Angriff.
 
-Shigi legte die Feder nieder und starrte auf den Satz.
+Dieser eine Satz.
 
-Er hatte ihn geschrieben. Er hatte ihn in der Chronik festgehalten. Er hatte ihn der Nachwelt überliefert.
+Wenn Güyük ihn sah, würde er dieses Zelt niederbrennen lassen und die Asche des Schreibers in den Orchon streuen. Wenn Töregene davon erfuhr, würde sie lächeln – jenes feine, grausame Lächeln, das keine Zähne zeigte – und Shigi fragen, warum ein so treuer Diener des Hauses eine solche Schlange an seinem Herd nährte.
 
-Aber was würde geschehen, wenn jemand den Satz las? Was würde geschehen, wenn Töregene ihn sah? Was würde geschehen, wenn Güyük ihn fand?
+Und wenn die Fürsten ihn lasen? Wenn Batu, der im fernen Westen an der Wolga saß und auf einen Grund wartete, Güyük das Khaganat zu verweigern, diesen Satz in die Hände bekam?
 
-Shigi wusste die Antwort.
+Es war kein Bericht über die Vergangenheit.
 
-Er würde sterben.
+Es war eine Waffe.
 
-Oder er würde töten.
+Eine Waffe, geschmiedet aus Ruß und Pappelholz, geladen mit dem Atem eines Toten, und sie zielte geradewegs auf die Brust des Thronfolgers. Solange dieser Satz existierte, war Güyüks Anspruch nicht das Erbe des Vaters, sondern ein Raub.
 
-Er schloss das Buch und legte die Hände darauf. Das Leder war warm, die Seiten voller Worte, die er geschrieben hatte, die niemand außer ihm kannte.
+Shigi hob die Hand. Seine Finger berührten das Messer, das in einer einfachen Lederscheide an seinem Gürtel hing. Die Klinge war scharf genug, um ein Fohlenhaar zu spalten. Ein einziger Schnitt, ein kleiner, sauberer Span aus dem dicken Papier, und die Worte wären Staub. Er könnte die Schnipsel in die Glutschale werfen, zusehen, wie sie sich krümmten, schwarz wurden und als feine Asche durch den Rauchabzug in den Nachthimmel entwichen. Niemand wusste davon. Niemand würde ihn je fragen.
 
-Er konnte den Satz löschen. Er konnte die Seite herausreißen. Er konnte das Buch verbrennen und so tun, als hätte er nie davon gehört.
+Er ließ das Messer los.
 
-Aber er würde es nicht tun.
+Seine Hand sank zurück auf den Tisch.
 
-Er war ein Chronist. Seine Aufgabe war es, die Wahrheit aufzuschreiben, so hässlich sie auch war. Seine Aufgabe war es, die Geschichte zu bewahren, so gefährlich sie auch war.
+Er war der Richter. Er hatte geschworen, das Recht der Familie zu wahren, als Hö'elün ihn an ihren Brüsten gewiegt und Temüjin ihn seinen fünften Bruder genannt hatte. Doch was war das Recht, wenn die Familie selbst aus Lug und Trug bestand? Wenn der eine Bruder den anderen im Schilf erschoss und der Vater den eigenen Sohn vom Thron stieß, noch ehe die Asche des Lagers erkaltet war?
 
-Er würde den Satz stehen lassen. Er würde das Buch schließen. Er würde warten.
+Draußen ritt eine Wache vorbei. Das dumpfe Dröhnen der Hufe im halb gefrorenen Schlamm klang wie das Pochen eines Riesen, der ungeduldig an die Pforten der Welt schlug.
 
-Noch.
+Shigi sah auf die Zeilen hinab.
 
----
+Er strich die Notiz nicht durch. Er schnitt sie nicht heraus.
 
-Der Winter kam, und die Kälte kroch durch die Filzwände des Zeltes. Shigi saß an seinem Tisch, die Lampe flackerte, die Feder war trocken.
+Mit einer langsamen, bedächtigen Bewegung legte er die Lagen aufeinander. Das Pferdeleder schloss sich mit einem dumpfen, satten Laut, der im Zelt verhallte wie das Zuschlagen einer schweren Truhe. Er zog das Sehnenseil fest um das Buch, knotete es mit jenem Knoten, den nur er zu lösen verstand, und schob das Bündel tief unter die Filzdecken seines Lagers, dorthin, wo die Kälte des Bodens auf die Wärme seines Körpers traf.
 
-Er las die Chronik noch einmal. Von Anfang bis Ende. Jede Seite, jedes Wort, jede Randnotiz.
+Er beschloss nichts. Er traf kein Urteil.
 
-Er las die Geschichte von Temüjins Flucht, von Bekhters Tod, von Dsotschis Geburt, von Ögedeis Ernennung, von Shiremüns Namen.
+Noch nicht.
 
-Er las die Widersprüche, die Lügen, die Wahrheiten, die niemand hören wollte.
-
-Er las den Satz am Rand der Seite, den Satz, der alles verändern konnte.
-
-*Schreib das Hässliche schlicht. Dann wagt niemand, es zu ändern.*
-
-Er schloss das Buch und legte es in die Truhe. Er schloss den Deckel und drehte den Schlüssel um.
-
-Dann setzte er sich auf die Filzmatte und starrte in die Dunkelheit.
-
-Er hatte nichts beschlossen. Noch.
-
-Aber der Satz war da. Die Waffe war geschmiedet. Und der Tag würde kommen, an dem er sie benutzen musste.
-
-Shigi Qutuqu, der Oberrichter des Weltreichs, der Hüter der Chronik, der Mann, der die Wahrheit kannte, die niemand wissen durfte, saß in seinem Zelt und wartete.
-
-Der Wind heulte draußen, und die Kälte kroch näher.
-
-Aber das Buch war sicher.
-
-Noch.
-
----

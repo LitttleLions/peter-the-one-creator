@@ -2,79 +2,94 @@ book: ''
 chapters:
   '001':
     title: Prolog – Bagdad, Februar 1258
-    rf_base: dcd5e593185ae006593175082e07e6cf537eeee24f8fdee1681aff27c079c0c0
-    peter_base: dcd5e593185ae006593175082e07e6cf537eeee24f8fdee1681aff27c079c0c0
-    base_export: 20261007-201221
+    rf_base: 74b913b99efa5c0cae4e0b9404762a413846c54a0501cbfb1ae74b9f8922af26
+    peter_base: 74b913b99efa5c0cae4e0b9404762a413846c54a0501cbfb1ae74b9f8922af26
+    base_export: 20261111-140609
+    rf_id: '100'
   '002':
     title: Zwei Sätze
-    rf_base: e1e2e793571a178f2e98d1d92839b4f6ab9a7f5b27da3ca66ff2d6a0cdb0338c
-    peter_base: e1e2e793571a178f2e98d1d92839b4f6ab9a7f5b27da3ca66ff2d6a0cdb0338c
-    base_export: 20261007-201221
+    rf_base: c5d8cd543ee754dc0ebbeb7f46048fffe0b684241a38094a11e53f5cbf36859c
+    peter_base: c5d8cd543ee754dc0ebbeb7f46048fffe0b684241a38094a11e53f5cbf36859c
+    base_export: 20261111-140609
+    rf_id: '101'
   '003':
-    title: Das Trinkgelage
-    rf_base: 2591582a6d4641823576daa9e951c2fdd1f30081dfd8c6b42e89937875721138
-    peter_base: 2591582a6d4641823576daa9e951c2fdd1f30081dfd8c6b42e89937875721138
-    base_export: 20261007-201221
+    title: Bittere Mandeln
+    rf_base: 167e07b9bfd2f3781014f2016cf2e6acdb99023e332066e6f9b3af5656f9ce4b
+    peter_base: 167e07b9bfd2f3781014f2016cf2e6acdb99023e332066e6f9b3af5656f9ce4b
+    base_export: 20261111-202354
+    rf_id: '102'
   '004':
     title: Sein Herz
-    rf_base: 916c27171ddb088a2e62cbf9f1941c7fd7cb9823327a3be847d91e5614e80f47
-    peter_base: 916c27171ddb088a2e62cbf9f1941c7fd7cb9823327a3be847d91e5614e80f47
-    base_export: 20261007-201221
+    rf_base: 9fb135054d4bb6c7c403e8be161f073e4ee5d55699e21ead6465d499b997bbdd
+    peter_base: 9fb135054d4bb6c7c403e8be161f073e4ee5d55699e21ead6465d499b997bbdd
+    base_export: 20261111-140609
+    rf_id: '103'
   '005':
     title: An eine Tote
-    rf_base: 4244d29471712d60cbc66a9081faa1445c96d3512688ea3212e7c86225120a40
-    peter_base: 4244d29471712d60cbc66a9081faa1445c96d3512688ea3212e7c86225120a40
-    base_export: 20261007-201221
+    rf_base: b6b4c0d8657615f1b32ef7bf34a02997ebac57af2eb948dcd4beaf56f2da88a0
+    peter_base: b6b4c0d8657615f1b32ef7bf34a02997ebac57af2eb948dcd4beaf56f2da88a0
+    base_export: 20261111-140609
+    rf_id: '104'
   '006':
     title: Der Kanzler
-    rf_base: 29c44dee499a6c9e2ba86fe20fe10e4ee57ee5ccb49a3efe1da9147238078d6b
-    peter_base: 29c44dee499a6c9e2ba86fe20fe10e4ee57ee5ccb49a3efe1da9147238078d6b
-    base_export: 20261007-201221
+    rf_base: 99900774036ef8e267544f13c92301518d0b0123d09e77002fa0773689b3cedb
+    peter_base: 99900774036ef8e267544f13c92301518d0b0123d09e77002fa0773689b3cedb
+    base_export: 20261111-203959
+    rf_id: '105'
   '007':
     title: Die Briefe der Regentin
-    rf_base: c68a251875c093101c7d2f90386a1956ac2b03d3ee7f1dd7651f05dd0f6dd31f
-    peter_base: c68a251875c093101c7d2f90386a1956ac2b03d3ee7f1dd7651f05dd0f6dd31f
-    base_export: 20261007-201221
+    rf_base: 2fbfff6e0be53f491acc7d67f65f43416d0bc96e938efdd024e59bbcc631a07e
+    peter_base: 2fbfff6e0be53f491acc7d67f65f43416d0bc96e938efdd024e59bbcc631a07e
+    base_export: 20261111-203959
+    rf_id: '106'
   008:
     title: Der Heimkehrer
-    rf_base: 9411d9585f63449043dde57c16ad427bf979e539bbbfbe7421264d3be09eb67b
-    peter_base: b6358542fe9384b00a0a17bb9b17e27686ce1822692ad77eace196001473b9b1
-    base_export: 20261007-201221
+    rf_base: 7d6d4cca38b46c7554a843b1fe1f5b64535c27a0865a319dd3f1b9684d3b938c
+    peter_base: 7d6d4cca38b46c7554a843b1fe1f5b64535c27a0865a319dd3f1b9684d3b938c
+    base_export: 20261111-203959
+    rf_id: '107'
   009:
     title: Noch nicht
-    rf_base: 1545b0db857881065ae4fa91476e1c1558dcea0d6891deb4a271cd767b2f552f
-    peter_base: 1545b0db857881065ae4fa91476e1c1558dcea0d6891deb4a271cd767b2f552f
-    base_export: 20261007-201221
+    rf_base: fcbd2624ee8502a33195eb6edc6664ded572587f20ce5a6112d41271ca3ff8d9
+    peter_base: fcbd2624ee8502a33195eb6edc6664ded572587f20ce5a6112d41271ca3ff8d9
+    base_export: 20261111-203959
+    rf_id: '108'
   '010':
     title: Der Silberbaum
-    rf_base: d7471480b3f646ead97c2ba493631198ea0724292fa7e49a85c9faecc2529804
-    peter_base: d7471480b3f646ead97c2ba493631198ea0724292fa7e49a85c9faecc2529804
-    base_export: 20261007-201221
+    rf_base: 2412849677d490f7accec2cc3215037a10cfaf2f406b5712fd07c251b9529c7e
+    peter_base: 2412849677d490f7accec2cc3215037a10cfaf2f406b5712fd07c251b9529c7e
+    base_export: 20261111-203959
+    rf_id: '109'
   '011':
     title: Die Kanzlei
-    rf_base: d60e7e95383416d5e56f5c6d0cf6156b6b12ea498411631c515a02f0a704c4da
-    peter_base: d60e7e95383416d5e56f5c6d0cf6156b6b12ea498411631c515a02f0a704c4da
-    base_export: 20261007-201221
+    rf_base: 4432376cee062ff0413eb7cdc60ffdd3c2d0399ff80c35bff9e19f999e19fadd
+    peter_base: 4432376cee062ff0413eb7cdc60ffdd3c2d0399ff80c35bff9e19f999e19fadd
+    base_export: 20261111-204051
+    rf_id: '110'
   '012':
     title: Die Prüfung
-    rf_base: 81c716591373a35eb9c661b8ae8d7b233e6615fb1d6bbec85081a99fd66919fd
-    peter_base: 81c716591373a35eb9c661b8ae8d7b233e6615fb1d6bbec85081a99fd66919fd
-    base_export: 20261007-201221
+    rf_base: f729f64b12f5f778a710bb1cf59de63f1643c5c0944da12016362054eca81db2
+    peter_base: f729f64b12f5f778a710bb1cf59de63f1643c5c0944da12016362054eca81db2
+    base_export: 20261111-204051
+    rf_id: '111'
   '013':
     title: Das geheime Buch
-    rf_base: 484ed52649f43c808e44fbef778e1542c0204803ac0d09eff2b8e81fde0be257
-    peter_base: 484ed52649f43c808e44fbef778e1542c0204803ac0d09eff2b8e81fde0be257
-    base_export: 20261007-201221
+    rf_base: a5f8f8e6e266c5a9feed6e1ea52c24b8b45d46eb28cae24a32da24ed4815105f
+    peter_base: a5f8f8e6e266c5a9feed6e1ea52c24b8b45d46eb28cae24a32da24ed4815105f
+    base_export: 20261111-204051
+    rf_id: '112'
   '014':
     title: Zwei Witwen
-    rf_base: 835d956b1145ec0ddae05ca1494ab8025eeb3794fa0ce1fc43574336d1acc056
-    peter_base: 835d956b1145ec0ddae05ca1494ab8025eeb3794fa0ce1fc43574336d1acc056
-    base_export: 20261007-201221
+    rf_base: 979ebf1bbe8f0d9fa424f47e3bbfdda1237baa6197eca8ff6400c5a68d8f5fd2
+    peter_base: 979ebf1bbe8f0d9fa424f47e3bbfdda1237baa6197eca8ff6400c5a68d8f5fd2
+    base_export: 20261111-204051
+    rf_id: '113'
   '015':
     title: Der letzte ehrliche Stift
-    rf_base: c7e70e3d54ed1ae7e645637be148e7875c369131b4923d8af06b7b91e5282a0e
-    peter_base: c7e70e3d54ed1ae7e645637be148e7875c369131b4923d8af06b7b91e5282a0e
-    base_export: 20261007-201221
+    rf_base: d363f602663ec76d564db61b1ab4edcaa49eade2df1aa1309ee27dc2bf62823c
+    peter_base: d363f602663ec76d564db61b1ab4edcaa49eade2df1aa1309ee27dc2bf62823c
+    base_export: 20261111-204051
+    rf_id: '114'
   '016':
     title: Die Schattenkanzlerin
     rf_base: 565c553b3947ab76710ddbb3a5d2a414ac9e744d18c0e1531a13c762aee716c0

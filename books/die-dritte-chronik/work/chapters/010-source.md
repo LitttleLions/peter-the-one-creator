@@ -5,102 +5,117 @@
 
 ---
 
-Juvaini hatte Karakorum größer erwartet.
+Der Wind über dem Orchon-Tal trug den Duft von Wermut und erstem Schnee, als wollte die Steppe selbst den Atem anhalten. 
 
-Er war den ganzen Weg von der Passhöhe des Altai geritten, hatte geträumt von Marmor und Gold, von Türmen und Bögen, die den Himmel durchstießen. Die Hauptstadt der Welt. Der Nabel des Reiches. Der Ort, von dem aus der Khan die Länder der Sonne bis zur Grenze der Finsternis beherrschte.
+Ata-Malik Juvaini zog den groben Wollkragen enger um den Hals und blinzelte gegen das beißende Licht an, das über die Ebene strömte. Er war sechzehn Jahre alt, seine Glieder schmerzten von vierzig Tagen im Sattel, und in den beiden lederbeschlagenen Holzkisten, die auf das Maultier hinter ihm gespannt waren, scheuerten dreißig Bände persischer Poesie und arabischer Grammatik aneinander, als suchten sie Halt gegen das Nichts. 
 
-Stattdessen fand er Staub.
+Er hatte ein Weltwunder erwartet. Ein Bagdad aus weißem Stein, ein Isfahan mit türkisblauen Kuppeln, die in den Himmel ragten wie Gebete, oder zumindest Paläste, deren Säulenhallen von Gold und Weihrauch widerhallten. 
 
-Staub, der in dichten Wolken von den Weiden aufstieg. Staub, der sich auf seine Kleider legte. Staub, der die Luft füllte, bis er jede Farbe verschluckte und nur ein fahles Grau zurückließ. Die Stadt lag vor ihm wie eine Wunde in der Steppe: ein Durcheinander aus Zelten und Lehmhütten, Holzfällen und Stoffbahnen, die im Wind flatterten. Keine Mauer. Kein Tor. Kein Palast. Nichts, das diesen Ort von jeder armseligen Oase unterschied, an der er vorbeigeritten war.
+Vor ihm lag Karakorum. 
 
-Sein Vater hatte ihn gewarnt. *Die Mongolen bauen keine Städte*, hatte Baha-ud-Din geschrieben in dem Empfehlungsschreiben, das Juvaini in der Innentasche seines Mantels trug. *Sie erobern sie. Wenn du Erhabenheit suchst, wirst du sie nicht in Karakorum finden. Suchst du Macht, wirst du sie überall finden.*
+Es war ein Haufen aus grauem Lehm, getrocknetem Mist und rußgeschwärztem Filz, eingekeilt zwischen niedrige Hügel, über die der Wind unablässig fegte. Keine ragenden Mauern, nur ein niedriger Erdwall mit Gräben, in denen der Abfall der halben Welt faulte. Karrenräder hatten tiefe Furchen in den Schlamm geschnitten; dazwischen stampften struppige Ponys, Kamele mit verfilztem Winterfell und Männer in fettglänzenden Schafspelzen, deren Atem wie weißer Rauch aufstieg. Rauch von getrocknetem Dung lag wie eine träge, beißende Decke über den Dächern.
 
-Er suchte keine Erhabenheit. Er suchte einen Auftrag.
+Das also war das Herz der Welt. Eine Ansammlung von Zelten mit Größenwahn.
 
-Juvaini schloss die Augen, spürte den Staub auf seinen Lidern, atmete den Geruch von Pferdemist und verbranntem Dung. Dann begann er zu zählen, denn Zählen war die einzige Art, die Welt zu ordnen, die er gelernt hatte.
+Juvaini hielt das Pferd an. Er spürte das schwere, gesiegelte Empfehlungsschreiben seines Vaters Baha al-Din auf der Brust, verborgen unter dem Brokatwams, das für diese Reise viel zu dünn war. *Das Schwert erobert, mein Sohn, aber die Feder bleibt*, hatte der Vater gesagt, als er ihm den Abschiedssegen gab. Doch hier schien nichts zu bleiben. Hier schien alles im nächsten Sturmwind einfach davongeweht zu werden.
 
-Zwölf Tempel. Er zählte ihre Dächer, die sich wie Pagoden über die flachen Dächer der Stadt erhoben. Zwei Moscheen. Ihre Minarette ragten auf wie Zeigefinger, die den Himmel anklagten. Eine Kirche. Ein einfaches Holzkreuz, das im Wind schwankte. Die Hauptstadt der Welt hatte drei Götter, und keine wusste vom anderen.
+Er atmete tief ein, hustete gegen den Schwefelrauch und stieg aus dem Sattel. Seine Stiefel sanken knöcheltief in eine Mischung aus gefrorenem Schlamm und Pferdemist. 
 
-Er ritt weiter durch die Gassen, die kaum breit genug waren für zwei beladene Kamele. Ein chinesisches Viertel, abgegrenzt durch rot gestrichene Holzpfosten. Ein muslimisches Viertel, erkenntlich an den Gebetsteppichen, die vor den Zelten ausgebreitet lagen. Auf dem Markt boten Händler aus Byzanz Seide an, aus Sibirien Pelze, aus Persien Teppiche, aus China Porzellan. Die Stadt war hässlich, dachte Juvaini. Hässlich und provisorisch und voller Staub.
+Ein Junge kam gelaufen, kaum älter als er selbst, die Wangen von Frostnarben gezeichnet, riss ihm die Zügel aus der Hand und rief etwas in einer kehligen Sprache, die Juvaini nicht verstand. Der junge Perser wollte protestieren, wollte die Haltung eines Beamtensohns aus Nischapur wahren, doch dann hielt er inne. Er sah sich um. Er begann zu begreifen, dass man diesen Ort nicht mit den Augen der Sehnsucht betrachten durfte. Man musste ihn vermessen.
 
-Und sie enthielt die ganze Welt.
+Er begann zu zählen.
 
-Er hielt vor einem Zelt an, das größer war als die anderen. Ein schwarzes Seidentuch hing über dem Eingang, bestickt mit goldenen Drachen, die sich um einen unsichtbaren Thron wanden. Darunter stand ein Mann, der ihn erwartete.
+Rechts erhoben sich die geschwungenen, ziegelgedeckten Dächer chinesischer Pagoden; der ferne Klang einer Bronzeglocke zitterte durch die Luft, rein und metallisch. Zwölf Tempel zählte er auf seinem Weg entlang der Hauptader, geschmückt mit bemalten Holzdrachen und bunten Wimpeln, die im Steppenwind flatterten. Ein Stück weiter, getrennt durch eine stinkende Gasse voller Gerberbottiche, stieg der einfache Ruf eines Muezzins in die Dämmerung: zwei Moscheen aus luftgetrockneten Lehmziegeln, schlicht, fast beschämt in dieser heidnischen Weite. Und kaum hundert Schritte dahinter ragte das Holzkreuz einer nestorianischen Kirche auf, vor der ein bärtiger Priester in schwarzer Kutte Weihrauch in eine Tonschale warf.
 
-Guillaume Boucher war groß für einen Franken. Sein Bart war rot wie Herbstlaub, seine Hände waren von Narben übersät, von Säuren und Feuern gezeichnet. Er trug eine Lederschürze, die einst weiß gewesen sein mochte, über einem Wams aus grobem Tuch. Er sprach Persisch mit einem Akzent, der die Worte dehnte und streckte, bis sie kaum wiederzuerkennen waren.
+Die Stadt war hässlich, ein zerrissenes Gewebe aus Schlamm und Notdurft. Und doch enthielt sie die ganze Erde. 
 
-„Du bist der Schreiber", sagte er. „Der mit den zwei Koffern Bücher."
+Auf dem Marktplatz, wo das Geschrei von zwanzig Völkern die Luft zerschnitt, sah Juvaini Ballen byzantinischer Seide, die schimmerten wie gefrorenes Wasser, aufgetürmt neben Fellen sibirischer Zobel, so dunkel und weich wie eine mondlose Nacht. Ein Händler aus Bagdad stritt mit einem Tanguten über den Preis von Rhabarberwurzeln; daneben wog ein uigurischer Schreiber getrockneten Ingwer gegen venezianisches Silber auf. 
 
-Juvaini nickte. Er hatte die Koffer bei einem Händler am Stadtrand gelassen, gegen eine Gebühr, die sein ganzes Reisegeld verschlungen hatte. „Mein Vater schrieb an den Kanzler. Er sagte, ich solle Boucher aufsuchen."
+Niemand fragte hier nach den Ahnen eines Mannes. Niemand interessierte sich dafür, ob der Urgroßvater eines Schreibers am Hofe der Choresm-Schahs gedient hatte oder in einer Hütte am Fluss geboren worden war. Wer den Bogen spannen konnte, durfte reiten; wer das Metall schmelzen konnte, durfte schmieden; wer die Feder führte, durfte leben. 
 
-„Dein Vater hatte einen guten Namen. Ich erinnere mich an seine Briefe. Sauber geschrieben. Keine Tintenkleckse. Das sage ich nicht oft."
+Können war der einzige Pass. Alles andere fraß die Steppe.
 
-Boucher trat zur Seite und bedeutete Juvaini einzutreten.
+Bevor Juvaini sich zur Großen Kanzlei begab, folgte er einer Weisung seines Vaters, die ihn in die westliche Vorstadt führte. Dort, wo die Essen der Metallhandwerker Tag und Nacht glühten, lag die Werkstatt eines Mannes, dessen Ruhm selbst in Churasan mit leisem Kopfschütteln erwähnt worden war: Guillaume Boucher, der Pariser.
 
-Das Innere des Zeltes war anders als erwartet. Kein Wohnraum, sondern eine Werkstatt. Überall lagen Werkzeuge: Hämmer, Zangen, Feilen, Meißel, in Körben sortiert nach Größe und Verwendungszweck. In der Mitte stand ein Tisch, beladen mit Kesseln und Formen aus Ton. An den Wänden hingen Zeichnungen, so präzise wie die, die sein Vater von alten Manuskripten kopierte, aber mit Motiven, die Juvaini noch nie gesehen hatte: Tiere aus Metall, Vögel mit Flügeln aus Blattgold, Bäume mit silbernen Ästen.
+Die Werkstatt roch nach feuchtem Sand, glühender Holzkohle und geschmolzenem Blei. Überall lagen Tiegel, Hämmer und Zangen, halbfertige Beschläge für Sättel und filigrane silberne Gürtelschnallen, die im Schein der Blasebälge aufleuchteten. 
 
-„Das ist es", sagte Boucher und trat zu einer der Zeichnungen. „Das Wichtigste, das ich je gemacht habe. Vielleicht das Einzige, das zählt."
+Mitten im Raum stand ein Mann mit breiten, sehnigen Unterarmen, rußverschmiertem Gesicht und einer Leinenschürze, die von Brandlöchern übersät war. Seine Haare waren grau meliert, die Augen von einem wässrigen, müden Blau. Als Juvaini eintrat, sprach ihn der Schmied in einem gebrochenen, rauen Persisch an, durchsetzt mit tatarischen Flüchen.
 
-Juvaini trat näher. Das Blatt Pergament war groß, fast so groß wie sein Oberkörper, und darauf war ein Baum gezeichnet. Ein Baum aus Silber, mit einem Stamm, der sich in vier Hauptäste verzweigte. Jeder Ast trug Früchte, die wie Perlen leuchteten. An der Basis des Stammes saßen vier Löwen aus metallenem Gold, ihre Mäuler geöffnet, als wollten sie trinken.
+„Ihr seid spät, Jüngelchen“, sagte der Franzose, ohne den Blick von einer großen Holztafel zu wenden, auf der mit Kohle gezeichnete Linien ein Gewirr bildeten. „Der Wind dreht auf Nord. Bald friert das Zinn im Tiegel.“
 
-„Ein Baum", sagte Juvaini.
+„Ich bringe Grüße aus Chorasan“, erwiderte Juvaini und verneigte sich leicht, wie es die Höflichkeit seiner Heimat verlangte. „Und diesen Block Lapislazuli, den mein Vater für Eure Schmelzen versprochen hatte.“
 
-„Ein Silberbaum", korrigierte Boucher. „Für den nächsten Khan. Ich baue ihn seit zwei Jahren. Seit ich hier bin."
+Er zog einen faustgroßen, tiefblauen Stein aus der Tasche und legte ihn auf den hölzernen Werktisch. 
 
-„Du baust ihn. Du bist Gefangener."
+Boucher nahm den Stein, wog ihn in der schwieligen Hand und nickte kaum merklich. Seine Finger strichen über die goldenen Pyritadern im Blau. „Gutes Korn. Rein. Nicht wie der Dreck, den die Karawanen aus dem Süden anschleppen.“ Er wies mit einem Kohlestift auf die Zeichnung vor sich. „Schau her, Schreiber. Du verstehst doch etwas von Linien, nicht wahr?“
 
-Boucher lachte, ein trockenes Geräusch, das wie ein Husten klang. „Ich bin Goldschmied. Ich war in Paris Goldschmied, bevor die Mongolen kamen. Jetzt bin ich Goldschmied in Karakorum. Der Lohn ist gleich. Nur die Auftraggeber sind mächtiger."
+Juvaini trat näher. Die Wärme des Schmelzofens drang durch seine Kleidung, fast tröstlich nach den Wochen der Kälte. 
 
-Er fuhr mit dem Finger über die Zeichnung, folgte den Konturen des Stammes. „Die Löwen werden Wein aus ihren Mäulern speien, Wein aus vier Sorten. Einer für jede Himmelsrichtung. Der Baum wird sich drehen, angetrieben durch verborgenen Wind. Es wird die Gäste des Khans erheitern, während sie in seinem Palast hofhalten."
+Was er auf der Tafel sah, verschlug ihm den Atem.
 
-„Dein Gefangener", sagte Juvaini, „und du schaffst ihm Schönheit."
+Es war die Skizze eines gewaltigen Baumes, ganz aus Silber gedacht. Seine Wurzeln gruben sich in vier Löwen aus vergoldetem Erz; seine Äste trugen silberne Blätter und Früchte, und um den Stamm wanden sich Schlangen, aus deren offenen Mäulern Ströme fließen sollten.
 
-Boucher drehte sich um. Seine Augen waren grau, wie Winterwolken, und sie ruhten auf Juvaini ohne Zorn. „Ich schaffe Schönheit für die, die mich gefangen halten. Das ist mein Leben. Dein Leben wird das Gleiche sein."
+„Vier Röhren“, erklärte Boucher mit einer seltsamen, fiebrigen Ruhe in der Stimme, während er mit dem Finger den gezeichneten Linien folgte. „Eine für Wein. Eine für vergorene Stutenmilch, diesen teuflischen Kumys. Eine für Met. Eine für Reisschnaps. Ganz oben ein Engel mit einer Posaune. Wenn der Großkhan im Festsaal nach Trank verlangt, bläst der Engel, und aus den Mäulern der Tiere ergießt sich der Rausch direkt in die silbernen Becken.“
 
-Juvaini schwieg.
+Juvaini starrte auf das Blatt. Er sah die unfassbare Kunstfertigkeit der Konstruktion, die feinen Zahnräder und Hebel, die Boucher am Rand skizziert hatte. Er sah die Schönheit, die dieser gefangene Mann aus dem fernen Abendland ersonnen hatte – und gleichzeitig überlief ihn ein eiskalter Schauder.
 
-Er sah die Zeichnung an, die filigranen Linien, die perfekten Proportionen, die kunstvollen Verzierungen. Der Baum war schön – von einer kalten, perfekten Schönheit, die jeden Makel ausschloss. Und er war schrecklich. Er war das Zeugnis einer Niederlage, die sich Kunst nannte. Der Sieger befahl, der Besiegte schuf, und das Ergebnis wurde Silberbaum genannt.
+„Für wen ist das?“, flüsterte der Junge. „Ögedei Khagan ist tot.“
 
-„Du schreibst", sagte Boucher. „Ich gieße Metall. Wir sind gleich."
+„Für den nächsten“, sagte Boucher trocken und wischte sich mit dem Handrücken über die Stirn, wodurch er einen schwarzen Rußstreifen hinterließ. „Es gibt immer einen nächsten Khan. Sie reiten aus dem Osten heran, sie brennen Städte nieder, sie schleppen uns hierher wie Vieh. Und dann verlangen sie, dass wir für sie zaubern. Wir gießen ihnen Wunder, mein Junge. Wir schenken ihnen Unsterblichkeit aus Silber und Erz, damit sie uns nicht den Schädel spalten.“
 
-Juvaini schluckte den Widerspruch hinunter, der ihm auf der Zunge lag. Er war nicht gleich. Er war Schreiber, kein Handwerker. Er schrieb die Geschichte des Reiches, er schrieb die Edikte des Khans, er schrieb so schön, dass die Worte sangen. Aber er spürte die Wahrheit, wie sie sich in ihm festsetzte, wie eine Wurzel, die sich in Stein grub: Er würde für die Eroberer schreiben. Er würde die Eroberung beschönigen, die Unterwerfung erklären, die Gewalt mit Worten übermalen. Er würde der Silberbaum sein, dessen Gesang die Schrecken der Zerstörung übertönte.
+Er wandte sich um und sah Juvaini an mit jenem stillen Hunger eines Menschen, der jahrelang in der Fremde gelebt hat und plötzlich einen Laut aus seiner Heimat hört.
 
-„Wann wirst du ihn fertigstellen?", fragte er.
+„Du schreibst, ich gieße“, fuhr Boucher leise fort. „Wir sind dieselben Huren, Perser. Wir kleiden ihre Herrschaft in Pracht, damit wir das Heulen der Wölfe vor der Tür nicht hören müssen.“
 
-„Wenn der nächste Khan kommt", sagte Boucher. „Oder wenn ich sterbe. Was zuerst eintritt."
+Juvaini schwieg. Seine Hand schloss sich unwillkürlich um den Riemen seiner Tasche. In diesem Silberbaum sah er sein eigenes Schicksal liegen, rein und unbarmherzig gezeichnet: die schönste und schrecklichste Version der Zukunft. Die Besiegten würden den Siegern dienen, nicht mit dem Schwert, sondern mit ihrem Geist, ihrer Poesie, ihrem Verstand. Sie würden Denkmäler errichten für jene, die ihre Väter erschlagen hatten.
 
-Er nahm die Zeichnung vom Tisch und rollte sie sorgfältig zusammen. „Geh jetzt. Deine Arbeit wartet in der Kanzlei. Hier entlang."
+„Es wird ein großes Werk“, sagte Juvaini leise, und seine Stimme klang älter, als er war.
 
-Sie traten hinaus in die Sonne, die niedrig stand und grell war. Der Staub legte sich auf Juvainis Lippen, und er schmeckte die Erde der Steppe. Er spürte das Gewicht der Bücher, die in den Koffern auf ihn warteten. Die Gewissheit, dass Worte nie ausreichen würden, um das, was hier geschah, zu fassen.
+„Es wird ein Käfig aus Silber“, erwiderte der Goldschmied und wandte sich wieder seinem Blasebalg zu. „Geh jetzt zur Kanzlei. Die Schreiber warten nicht gern auf Jungen, die noch nach Rosenwasser riechen.“
 
-Die Kanzlei war ein Gebäude aus Holz und Lehm, das in der Mitte der Stadt thronte. Es hatte zwei Stockwerke, ein seltenes Zeichen von Prestige in einer Stadt aus Zelten. Die Fenster waren vergittert, nicht aus Sicherheitsgründen, wie Juvaini später erfuhr, sondern weil das Papier nicht im Wind flattern durfte. Alles hier war darauf ausgelegt, die Ordnung zu bewahren, die die Stadt selbst vermissen ließ.
+Die Große Kanzlei war kein Palast, sondern ein weitläufiger Holzbau mit lehmverstrichenen Wänden, der an den ehemaligen Palast des verstorbenen Khagans grenzte. Im Inneren herrschte gedämpftes Licht. Dutzende von Männern saßen im Schneidersitz auf Filzmatten, die Knie an niedrige Pulte gepresst. Es roch nach Rußtinte, feuchtem Pergament, Essig und getrocknetem Schafsfett, das in den kleinen Lampen verbrannt wurde.
 
-Der ältere Sekretär, der ihn empfing, war ein Mann von vielleicht fünfzig Jahren, mit grauem Bart und Händen, die von Tinte gefleckt waren wie die seines Vaters. Er sprach Persisch mit einem leichten Khorasan-Akzent und trug einen Mantel aus schlichter Wolle, ohne Verzierung, ohne Rangabzeichen.
+Kein lautes Wort fiel. Nur das unaufhörliche, trockene Kratzen von Schilfrohrfedern auf rauem Papier erfüllte den Raum – ein Geräusch wie das Wandern von Millionen Insekten durch trockenes Laub.
 
-„Du bist Juvaini", sagte er. „Man hat uns deine Ankunft angekündigt."
+Ein älterer persischer Sekretär mit einem sorgfältig gestutzten, grauen Bart und tiefen Ringen unter den Augen trat auf Juvaini zu. Er trug ein einfaches Obergewand aus dunkler Seide, die Ärmel hochgebunden, die Fingerkuppen der rechten Hand tiefblau von Tinte. Sein Blick glitt über Juvainis Statur, blieb kurz an den Bücherkisten hängen, die draußen im Vorraum abgestellt worden waren, und fixierte schließlich das Empfehlungsschreiben Baha al-Dins.
 
-Juvaini reichte ihm den Brief seines Vaters. Der Sekretär nahm ihn, las ihn schweigend, dann nickte er.
+Er brach das Siegel nicht einmal auf. Er wusste, wer der Vater war.
 
-„Deine Handschrift ist leserlich. Die Grammatik ist korrekt. Das genügt."
+„Du bist Ata-Malik?“, fragte der Sekretär. Seine Stimme war tonlos, geschliffen von Jahrzehnten des Kanzleidienstes, in denen jedes überflüssige Wort eine Gefahr bedeutete.
 
-Er führte Juvaini durch einen schmalen Gang in einen Raum, der mit Regalen bedeckt war. Regale voller Rollen, von der Decke bis zum Boden, so dicht gepackt, dass das Licht kaum einfiel. In der Mitte stand ein Pult, darauf ein Bogen Papier und eine Feder.
+„Ich bin es, Herr. Ich stehe bereit, dem Reich zu dienen.“
 
-„Hier wirst du arbeiten. Deine Aufgabe: Abschreiben. Alles, was dir vorgelegt wird. Edikte, Briefe, Listen, Protokolle. Du wirst nicht fragen, was sie bedeuten. Du wirst nicht kommentieren. Du wirst schreiben."
+„Hier dient man nicht dem Reich, Junge. Man bedient die Register.“ Der Ältere wies auf einen freien Platz in der hintersten Ecke des Raumes, wo das Licht der Butterlampe kaum hinreichte und der kalte Zugwind durch eine Ritze in der Wand strich. „Dort ist dein Pult. Tinte. Papier aus Samarkand für die Reinschriften, chinesisches Rindenpapier für die Entwürfe. Du wirst die Steuerlisten aus Chorasan kopieren. Tausendschaft für Tausendschaft, Sack für Sack Hirse, jedes Schaf, jedes Pferd.“
 
-Juvaini setzte sich an das Pult. Das Holz war abgenutzt, die Tinte auf der Platte hatte tiefe Spuren hinterlassen. Er legte die Feder zurecht, testete die Spitze an seinem Daumen.
+Juvaini setzte sich. Seine Knie protestierten gegen den harten Boden. Er strich über das raue Holz des Pultes, nahm ein Schilfrohr zur Hand und prüfte die Spitze mit dem Daumen. Sie war gut geschnitten.
 
-„Was ist mit den Briefen der Regentin?", fragte er.
+„Wie viele Abschriften?“, fragte er.
 
-Der Sekretär sah ihn an. Ein langer Blick, der keine Neugier verriet, nur eine sachliche Einschätzung.
+„Drei. Eine für die Archive hier, eine für den Richter Shigi Qutuqu, eine für das Gefolge der Regentin.“
 
-„Die Briefe der Regentin werden von einer Chorasanerin diktiert. Sie ist ihre Schreiberin. Du wirst ihre Arbeit nicht anrühren."
+Der Sekretär drehte sich bereits um, hielt dann aber inne. Er musterte Juvaini noch einmal, diesmal mit einem Hauch von spöttischer Nachsicht. 
 
-Juvaini nickte, als wäre das verstanden. Aber in seinem Kopf setzte sich ein Satz fest, wie ein Steinchen in einem Schuh. *Eine Chorasanerin.* Er war aus Chorasan. Ein Land, das es nicht mehr gab, zerstört von genau den Menschen, denen er jetzt diente. Und eine Frau aus diesem Land saß hier, in der Hauptstadt der Welt, und schrieb die Briefe der Regentin.
+„Du hast Dichtungen in deinen Kisten, nicht wahr? Firdausi? Nizami?“
 
-Er dachte an den Silberbaum und an Boucher, der Schönheit für seine Henker schuf.
+Juvaini spürte, wie ihm das Blut in die Wangen stieg. „Ich trage die Verse meiner Heimat bei mir, Herr.“
 
-Er dachte an den Staub auf seinen Lippen.
+„Vergiss sie“, sagte der alte Sekretär ruhig, und seine Hand legte sich schwer wie nasses Leder auf Juvainis Schulter. „Hier reimt sich nichts. Hier gibt es nur Zahlen und Namen. Wer dichtet, denkt nach. Wer nachdenkt, zögert. Und wer zögert, dessen Namen streichen wir aus den Listen.“
 
-Er begann zu schreiben.
+Er ging ein paar Schritte, blieb an einem Tisch stehen, auf dem sich frische Rollen türmten, deren Tinte noch glänzte, und begann, die Blätter nach Siegeln zu ordnen.
 
----
+Juvaini tauchte die Feder ein. Der erste Strich war schwer, fast ungelenk, nach den langen Wochen auf dem Pferderücken. Er schrieb den Namen eines Dorfes nahe Nischapur, das er als Kind gesehen hatte – ein Dorf, von dem er wusste, dass es seit zehn Jahren nur noch aus Asche und verwilderten Obstgärten bestand. Doch hier, auf dem Papier, lebte es fort als Summe von zehn Silbermünzen und zwanzig Scheffeln Weizen.
+
+Während er schrieb, traten zwei andere Schreiber an den Tisch des älteren Sekretärs. Sie sprachen leise miteinander, doch der Raum war so still, dass ihre Worte wie Kieselsteine auf Eis fielen.
+
+„Der Erlass für Batu Khan ist fertig gesiegelt“, sagte der eine, ein Mann mit den schmalen Augen der Uiguren. „Aber die Regentin verlangt eine zweite Fassung. Schärfer im Ton, doch weicher in den Grüßen.“
+
+Der alte Perser schnaubte leise durch die Nase. „Töregene Khatun versteht kein Persisch und kaum das Uigurische. Wer hat den Text aufgesetzt?“
+
+Der Uigure zuckte mit den Achseln, nahm eine frische Feder und strich das Schilf an einem Wetzstein ab.
+
+„Wie immer“, sagte er beiläufig, während er die Tinte anrührte. „Die Briefe der Regentin diktiert eine Chorasanerin.“
+
+Juvaini hielt inne. 
+
+Der Tropfen schwarzer Tinte an der Spitze seines Rohres löste sich, fiel herab und sickerte langsam in das weiße Papier, genau zwischen zwei Zeilen aus Zahlen, wo er sich wie eine dunkle, lautlose Blüte ausbreitete.
+

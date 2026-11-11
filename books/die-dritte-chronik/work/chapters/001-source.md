@@ -5,168 +5,129 @@
 
 ---
 
-Der Tigris trug Tintenschwarz.
+Der Tigris floss schwarz. Es war nicht die Schwärze einer mondlosen Winternacht und nicht der Schlamm, den die Schneeschmelze aus den Bergen der Kurden herabwälzte, sondern Tinte. Millionen von Worten, Generationen von Auslegungen, Gedichten, Rechnungsbüchern und Gebeten, aus den Bibliotheken geschleift und von den Reitern der Steppe in die Fluten gekippt, lösten sich im trägen Wasser auf und tränkten den Strom mit dem flüssigen Gedächtnis einer sterbenden Welt. Der Geruch von nassem, faulendem Pergament mischte sich mit dem Gestank von verbranntem Fett, feuchter Asche und dem süßlichen Dunst von zehntausend unbegrabenen Leibern.
 
-Juvaini sah es vom Sattel aus, als er die Al-Mansur-Brücke überquerte, und für einen Moment glaubte er, die Flüsse seiner Kindheit trügen die Farbe von Trauer. Aber das war keine Metapher. Tinte, dachte er. Bibliotheken. Er ritt weiter, die Hufe seines Pferdes klackerten auf feuchten Steinen, und der Geruch von verbranntem Papier hing so dicht in der Luft, dass er ihn schmecken konnte – bitter, scharf, das Aroma von tausend Jahren Gelehrsamkeit, die sich in Rauch verwandelte.
+Ata-Malik Juvaini hielt die Zügel seines Hengstes mit klammen Fingern. Er war zweiunddreißig Jahre alt, im Zenit seiner Jahre, gehüllt in einen schweren Mantel aus bucharischem Wollstoff, dessen Saum längst von Rußflecken geschwärzt war. Auf den Wangen spürte er den feinen, beißenden Niederschlag, den der Ostwind aus den brennenden Gassen herüberwehte. Ascheflocken, leicht wie grauer Schnee, blieben in seinem dichten Bart hängen. Hinter ihm klirrten die Eisenringe der Rüstungen, schnaubten die zähen Steppenponys der Eskorte. 
 
-Der junge mongolische Offizier neben ihm zügelte sein Pferd ungeduldig. Er hieß Tümen, oder vielleicht war es nur ein Dienstgrad, den Juvaini nicht richtig verstanden hatte. Er war jung, vielleicht zwanzig, mit den breiten Wangenknochen und der glatten Gesichtshaut der Steppe. Seine Rüstung war noch neu, das Leder unverkratzt.
+Ein junger Offizier ritt an seiner Seite, Bayan, dessen Wangenknochen wie zwei blank polierte Kieselsteine unter der gespannten, sonnengegerbten Haut hervortraten. Bayan war kaum zwanzig Sommer alt, die Augen schmal und wachsam, die Hand stets am Griff des gekrümmten Säbels. Für ihn war dieser Tag ein Festmahl des Sieges, der Lärm der einstürzenden Paläste Musik, das Geschrei aus den Kellern das natürliche Echo der Ordnung, die Hülegü Khan über die Welt brachte. Hülegü selbst weilte drüben im Feldlager vor den östlichen Mauern, eine ferne, unnahbare Naturgewalt; sein Wille jedoch marschierte durch jede Gasse Bagdads, vollstreckt durch Feuer und Klinge.
 
-„Wohin jetzt, Schreiber?“
+Juvaini wandte den Blick vom Fluss ab. Sein Inneres fühlte sich taub an, hohl wie ein vertrockneter Kürbis. Zehn Jahre stand er nun im Dienst der Eroberer. Er hatte gelernt, das Entsetzen in gefällige persische Reimprosa zu kleiden, das Morden als unabwendbaren Ratschluss des Himmels zu protokollieren und den Niedergang seines eigenen Volkes mit der spitzen Feder eines Kanzleibeamten zu begleiten. *Das Schwert erobert, die Feder bleibt.* So hatte es sein Vater ihm beigebracht, als Nischapur in Schutt und Asche lag. Doch heute, an diesem kalten Februartag des Jahres 1258, schien selbst die Feder zu brechen.
 
-Seine Stimme klang gelangweilt. Juvaini hatte gelernt, diese Langeweile zu lesen – sie bedeutete Ungeduld, die Bereitschaft, das zu tun, wozu er keinen Befehl hatte, und es später als Missverständnis zu erklären.
+„Hier“, sagte Juvaini leise auf Mongolisch und deutete mit der peitschenbewehrten Rechten auf das schwere, zweiflügelige Portal aus Zypressenholz, das in die Hofmauer des Archivs der Steuerverwaltung führte. Die Tür war mit bronzenen Beschlägen verstärkt, das Schloss von einer Axt gespalten, doch die Flammen hatten den Bau noch verschont.
 
-„Zum Verwaltungsarchiv der Hanbaliten“, sagte Juvaini ruhig. „Westseite des Zitadellenbezirks. Hülegü will die Steuerregister und die Landtitel. Lesbare, versteht sich. Nicht von den Flammen gefressen.“
+Bayan zügelte sein Pferd und spuckte aus. „Wozu das Getue um ein Haus voll altem Stroh, Sekretär? Der Ilchan will Silber. Goldene Schalen, Perlenketten, Sklavinnen für die Herdenführer. Kein modriges Papier.“
 
-Tümen schnaubte. „Papier. Wir verbrennen eine Stadt, und dein Herr will Papier.“
+„Auf diesem Papier steht, wer das Silber schuldet, Herr“, erwiderte Juvaini mit jener geschliffenen Höflichkeit, die er sich wie einen Harnisch übergezogen hatte. „Wenn die Truhen der Kaufleute geleert sind, müsst ihr wissen, wer im nächsten Frühjahr Weizen sät und wie viele Scheffel Gerste den Zehnten bilden. Wenn ihr die Register verbrennt, erobert ihr eine Wüste, die euch nichts füttert.“
 
-„Euer Herr“, korrigierte Juvaini. Er sagte es ohne Schärfe, fast freundlich. Das war seine Kunst: Er erinnerte die Männer an ihre Loyalität, ohne sie zu demütigen. „Und ja. Papier. Das Reich braucht mehr als Schwerter. Es braucht Listen. Wer schuldet was. Wem gehört das Land, das ihr erobert habt?“
+Bayan schnaubte abfällig, winkte jedoch den sechs Kriegern hinter sich. Die Männer sprangen aus den Sätteln, ihre Filzstiefel klatschten in den Schlamm. Juvaini stieg ebenfalls ab, strich den Saum seines Mantels glatt und trat über die Schwelle. Im kühlen, gewölbten Innenraum roch es vertraut nach Zedernöl, gestoßener Gallustinte und getrocknetem Kleister. Für einen winzigen Herzschlag beruhigte sich sein Atem. Die Schriftrollen lagen in geordneten Nischen aus Tonziegeln; Ledermappen, verschnürt mit Hanfband, füllten die Zedernregale. Hier herrschte die alte, beruhigende Geometrie der Ordnung.
 
-„Uns gehört es“, sagte Tümen.
+Er zog das schwere Siegel aus der Tasche, die ihm Hülegüs Kanzler übergeben hatte, drückte rotes Wachs auf den Riegel des inneren Gewölbes und presste den Stempel hinein. Die Schriftzeichen der Steppe drückten sich tief in die weiche Masse. 
 
-„Dann müsst ihr wissen, was es ist, das euch gehört. Sonst seid ihr nur Räuber, keine Herrscher.“ Juvaini lenkte sein Pferd nach links, weg vom Fluss, in eine schmale Gasse. Die Häuser standen noch hier, aber die Fenster waren leer, die Türen offen. Er hörte Schreie aus der Ferne, einen einzelnen Schrei, der abrupt abbrach, als hätte jemand ihn mit der Hand erstickt.
+Juvaini sichert ein Archiv, genau wie es ihm aufgetragen worden war, methodisch und ohne jedes Zögern.
 
-Er zählte die Schritte seines Pferdes. Eins. Zwei. Drei. Das half.
+„Kein Mann betritt diesen Raum ohne mein Zeichen“, sagte Juvaini zu den Wachen, wandte sich an Bayan und sah ihm fest in die Augen. „Wer eine einzige dieser Rollen verbrennt, vergreift sich am künftigen Tribut des Großkhans.“
 
-Das Verwaltungsarchiv der Hanbaliten war ein quadratischer Bau aus gebrannten Ziegeln, zweistöckig, mit schmalen Fenstern, die wie Schießscharten aussahen. Ein Gebäude, das Wissen hortete, als wäre es Gold. Juvaini stieg ab, band das Pferd an einen Eisenring, der einst eine Lampe gehalten hatte, und ging zur Tür.
+Bayan nickte gleichgültig. „Gut. Das Archiv gehört dem Palast. Lass uns weiterreiten. Im Westen, am Karkh-Kanal, heben sie gerade den Palast des Wesirs aus. Dort gibt es Becher aus getriebenem Gold.“
 
-Sie war offen. Das war schlecht.
+In diesem Augenblick trat ein Melder durch das Hoftor, das Gesicht rußgeschwärzt, die Lederweste von Schweiß durchtränkt. Er rief Bayan etwas auf Mongolisch zu, hastig, mit heiserer Stimme. Juvaini verstand die Worte, noch ehe der Offizier antworten konnte.
 
-Er trat ein. Im Inneren roch es nach altem Papier, nach Staub und nach der Stille, die nur dort herrscht, wo Menschen weggelaufen sind. Die Regale standen noch – massive Holzgestelle, die bis zur Decke reichten, gefüllt mit Rollen und Bündeln. Einige waren umgekippt, der Inhalt verstreut. Juvaini hob eine Rolle auf, wickelte sie halb auf. Steuerliste der Ölpressen, 1247. Nichts, was Hülegü interessierte, aber wichtig für die Verwaltung. Er legte sie zurück.
+Die Vorstadt am Karkh stand lichterloh in Flammen. Ein Trupp schiitischer Plünderer und unkontrollierter Reiter der Nachhut hatte die Seidenweberzelte in Brand gesteckt, und der Wind trieb die Feuerwand nun unaufhaltsam durch die Wohnviertel der Gelehrten und Kanzlisten, geradewegs auf die Al-Muqtadiya-Gasse zu.
 
-Tümen war ihm gefolgt. „Was suchst du?“
+Juvaini erfährt vom Brand seines Viertels, mitten im aufsteigenden Qualm dieser zertretenen Stadt.
 
-„Alles, was die Eroberung betrifft. Landtitel, Steuerregister, Verträge. Wenn wir sie nicht sichern, werden die Soldaten sie verbrennen, um sich zu wärmen, oder die Kaufleute werden sie stehlen und an die nächsten Machthaber verkaufen.“ Juvaini ging durch den Raum, die Hand leicht auf den Regalen, als zählte er die Bücher durch Berührung. „Wir müssen sie versiegeln. Deine Männer – wie viele hast du?“
+Al-Muqtadiya.
 
-„Fünf.“
+Ein jäher Schmerz schoss Juvaini durch die Brust, so heftig, als hätte sich eine Pfeilspitze zwischen seine Rippen gebohrt. Seine Hände, die eben noch so ruhig das Amtssiegel geführt hatten, begannen unmerklich zu zittern. 
 
-„Genug. Stellt Posten auf. Keiner darf hinein, bis ich zurückkomme. Wenn Soldaten fragen, sagt: Befehl von Hülegü. Wenn sie nicht hören, schneidet sie nieder. Es wird mir leidtun, aber eurem Khagan wird das Papier mehr wert sein als ihr Leben.“ Er sagte es ohne Ironie. Das war die Sprache, die sie verstanden.
+In der Al-Muqtadiya-Gasse stand das kleine Lehmziegelhaus, das er vor vier Monaten bezogen hatte, als der Tross des Heeres die Ebenen Mesopotamiens erreichte. Dort lagen seine Notizen. Dort lagen die Abschriften der Gedichte Firdausis, die er seit seiner Jugend sammelte. Und dort lag die Kiste.
 
-Tümen zögerte. Dann nickte er, knapp, und ging nach draußen. Juvaini hörte seine Rufe, die Befehle in einer Sprache, die er verstand, aber nicht liebte. Die Schritte der Männer. Das Klirren von Waffen.
+Er griff nach den Zügeln seines Hengstes, schwang sich mit einer Hast in den Sattel, die seiner sonst so gemessenen Art spottete, und riss den Kopf des Tieres herum.
 
-Er atmete tief ein. Der Geruch von altem Papier überdeckte den Rauch für einen Moment, und er schloss die Augen. Er war gut in dem, was er tat. Das war sein Trost. Er half, das zu bewahren, was nach dem Feuer übrig blieb. Er war der letzte Kopist des persischen Geistes, der die Hand der Eroberer führte, um zu retten, was zu retten war.
+„Sekretär!“, rief Bayan überrascht und legte eine Hand an den Bogenkasten. „Wohin? Wir haben Befehl, zum Flussufer zu reiten!“
 
-Draußen explodierte ein Schrei. Juvaini öffnete die Augen.
+„In mein Haus“, warf Juvaini über die Schulter zurück, die Stimme rau, die Zähne aufeinandergebissen.
 
-Ein Soldat stand in der Tür. Nicht Tümens, ein anderer – älter, die Rüstung mit Ruß bedeckt, das Gesicht schweißglänzend von der Anstrengung des Weges. Er japste nach Luft.
+„Dein Haus?“ Bayans Lachen war trocken wie das Knacken dürrer Zweige. „Was schert ein Kanzler sein Dach, wenn eine Stadt fällt? Der Khan gibt dir morgen zehn Paläste, wenn du willst!“
 
-„Juvaini? Der Schreiber?“
+Juvaini hörte nicht hin. Er trieb die Fersen in die Flanken des Pferdes. Das Tier wieherte gellend auf und preschte durch das Tor hinaus auf die Straße. Hinter ihm fluchte Bayan lautstark, doch das Hufgetrappel der Eskorte folgte ihm. Sie durften den persischen Sekretär nicht verlieren; Hülegü duldete keine Nachlässigkeit bei jenen, deren Wissen er benötigte.
 
-„Ja.“
+Sie ritten wie durch die Vorhöfe der Hölle.
 
-Der Soldat kam näher, die Hand auf dem Schwert, als wäre er unsicher, ob Juvaini Freund oder Feind war. „Das Viertel westlich des Zitadellenbezirks brennt. Sie sagen, es ist das Viertel der Schreiber und Gelehrten. Dein Haus – sie sagten, du wohnst dort.“
+Die Straßen waren verstopft von Menschen, die vor den Flammen flohen, von Karren, deren Räder zerbrochen waren, von verendeten Zugochsen. Frauen mit zerrissenen Schleiern kauerten an Hauswänden, starr vor Schreck, Kinder an sich gepresst. Dazwischen zogen berittene Schützen, beutebeladen, mit Teppichen und Messingkesseln über den Sattelknäufen. Über allem lag das Brüllen des Feuers. Es war kein gewöhnliches Geräusch, sondern ein tiefes, grollendes Raunen, als atme ein Ungeheuer tief im Bauch der Erde. Funken regneten herab wie glühende Bienen. Der Rauch biss so schneidend in die Lungen, dass Juvaini husten musste; Tränen trübten seinen Blick, doch er ritt weiter, unbarmherzig die Sporen nutzend.
 
-Juvaini spürte etwas in der Brust. Keine Panik, nicht sofort. Eine Kälte, die langsam stieg.
+Als er in die Gasse bog, schlug ihm eine Hitzewelle entgegen, die seinem Pferd die Nüstern versengte. Das Tier bäumte sich auf, die Augen rollten weiß im Rauch. 
 
-„Welches Haus?“
+Das Haus brannte.
 
-Der Soldat zuckte die Achseln. „Weiß ich nicht. Ich soll nur sagen: Das Viertel brennt. Manche Häuser stehen noch, aber die Flammen kommen. Du solltest kommen, wenn du noch etwas retten willst. Sonst sagten sie, ich soll es dir nicht sagen. Aber ich kenne deinen Namen. Du hast meinem Bruder geholfen, letztes Jahr, in Hamadan. Die Steuerliste. Du hast ihn nicht hängen lassen.“ Der Soldat spuckte auf den Boden. „Also sage ich es dir.“
+Die Holzbalken des oberen Stockwerks hatten bereits Feuer gefangen; orangerote Zungen leckten aus den Fensternischen, und das Flachdach neigte sich gefährlich nach innen. Im Hof war die kleine Zisterne mit Asche bedeckt, der Granatapfelbaum, der erst vor wenigen Tagen die ersten zarten Knospen getrieben hatte, verkohlt zu einem schwarzen Gerippe. Drei Soldaten einer Hilfstruppe wühlten im Schutt des Vorraums, traten Tonkrüge um und suchten nach verborgenen Münzen.
 
-Juvaini nickte. Er spürte die Kälte jetzt deutlicher, ein Kribbeln in den Fingerspitzen. „Danke. Wie heißt du?“
+Juvaini sprang vom Pferd, noch ehe es zum Stehen kam, strauchelte im Ascheregen und fing sich an einem Pfeiler ab.
 
-„Das ist egal. Beeil dich.“ Der Soldat drehte sich um und lief hinaus, seine Schritte verklangen im Lärm der Stadt.
+„Halt!“, schrie er die Plünderer an. Seine Stimme überschlug sich. 
 
-Juvaini blieb stehen. Er sah die Regale, die Rollen, die Ordnung, die er in zehn Jahren Dienst gelernt hatte zu lieben. Dann sah er die Truhe in der Ecke, die er mitgebracht hatte – leer, bereit, die wichtigsten Dokumente aufzunehmen. Er sah sie an, und die Kälte in seiner Brust wurde heiß.
+Die Männer fuhren herum, Dolche in den Fäusten. Bayan ritt in den Hof, zog seinen Bogen halb aus dem Futter und bellte einen Befehl in der Steppensprache. Die Männer erstarrten, senkten die Klingen und wichen einen Schritt zurück, den Blick auf die Abzeichen an Bayans Lederharnisch gerichtet.
 
-Das Viertel der Gelehrten. Sein Haus. Die Truhe unter dem Bett. Das Filzbündel.
+„Was suchst du hier, Perser?“, herrschte Bayan ihn an, die Hand ungeduldig am Zügel. „Das Gebälk stürzt jeden Augenblick ein! Willst du für ein paar Kissen verbrennen?“
 
-Er drehte sich um und lief.
+Juvaini ignorierte ihn. Er tastete in sein Gewand, riss einen Beutel aus schwerer Seide hervor und warf ihn dem Anführer der drei Plünderer vor die Füße. Der Beutel landete mit dem satten, schweren Klang von Feingold im Schlamm. 
 
-Draußen traf er auf Tümen, der gerade einen der Wachen anwies. Er packte den jungen Offizier am Arm – eine Geste, die er sich nie erlaubt hätte, wenn er klar denken könnte. „Das Viertel brennt“, sagte er. „Mein Haus.“
+„Im hinteren Raum“, sagte Juvaini, und seine Stimme bebte nun, nicht vor Furcht vor den Flammen, sondern vor einer nackten, verzweifelten Dringlichkeit. „Unter der Schlafstatt aus Lehm. Eine Truhe aus dunklem Nussholz. Mit Eisenbändern beschlagen. Bringt sie heraus. Nur diese eine Truhe. Das Gold gehört euch. Wenn das Holz Feuer fängt, schneide ich euch die Kehlen ab.“
 
-Tümens Gesicht zeigte nichts. „Wir sind hier, um ein Archiv zu sichern. Du hast es gesagt. Dein Haus – das ist dein Problem, nicht meins.“
+Der Soldat blickte von dem Goldbeutel zu den lodernden Flammen, dann zu Bayan, der finster die Stirn runzelte, aber schwieg. Das Gold wog schwerer als die Hitze. Die drei Männer stürzten sich ins Innere des brennenden Hauses.
 
-„Ich brauche deine Männer. Nur zwei. Eine Stunde. Ich gebe dir Gold. Das Doppelte, was du in einem Jahr verdienst.“
+Ein Balken brach krachend ein. Ein Schauer aus Funken stob in den grau verhangenen Himmel.
 
-Tümen sah ihn an. Seine Augen waren flach, unbewegt. „Gold hilft mir nicht, wenn der Khagan erfährt, dass ich sein Archiv den Flammen überlassen habe, während ich Privathäuser rette.“
+Juvaini stand reglos im Hof. Er atmete nicht. Er spürte die Hitze nicht, die seine Wangen versengte, nicht den stechenden Gestank von brennendem Ziegenhaar und Zedernharz. In seinem Kopf war es vollkommen still geworden, mit jener furchtbaren, eisigen Klarheit, die einen Menschen erfasst, wenn das Einzige, was sein Leben zusammenhält, auf der Schwelle zur Vernichtung steht.
 
-„Das Archiv ist gesichert“, sagte Juvaini. Die Worte kamen schnell, sein Verstand arbeitete fieberhaft. „Die Türen sind versiegelt. Deine Männer stehen hier. Die Flammen sind im Westen, der Wind kommt von Osten. Das Archiv ist sicher, es sei denn, du zündest es selbst an. Komm mit mir. Zwei Männer. Eine Stunde. Ich schwöre dir, ich werde dich dafür belohnen, wie du es nicht glaubst.“
+Dort drinnen lagen seine eigenen Werke. Zehn Jahre Arbeit an der Geschichte der Weltbezwinger. Verse, die er mühsam gefeilt hatte, um die Gräuel der Steppenreiter in den Wohlklang persischer Metren zu zwingen. Sie mochten verbrennen. Sie waren Staub, Schmeichelei, das feige Lied eines Knechts für seine Herren. 
 
-Tümen schwieg einen langen Moment. Juvaini hörte das Knistern von Feuer in der Ferne, das gedämpfte Schreien, das Pochen der Hufe auf dem Pflaster. Die Stadt klang wie ein verwundetes Tier.
+Aber die Truhe. Wenn die Truhe verbrannte, war sie endgültig tot.
 
-„Zwei Männer“, sagte Tümen schließlich. „Eine Stunde. Dann sind wir zurück, oder ich lasse dich in der Asche zurück, und dein Gold kauft dir eine bessere Stelle auf dem nächsten Schlachtfeld.“
+Husten. Keuchen. Zwei der Soldaten taumelten rückwärts aus der Türöffnung, die Gesichter rußschwarz, ihre Ärmel glosten. Zwischen sich trugen sie die schwere Kiste aus dunklem Nussholz. Sie ließen sie unsanft auf die Steine des Innenhofs fallen; das Eisen schepperte auf dem Pflaster. Kaum hatten sie die Kiste abgestellt, griffen sie nach dem Goldbeutel und stoben davon, hinaus auf die Straße, dem nächsten Brandherd entgegen.
 
-Juvaini nickte. Er zeigte auf zwei Männer, die am Eingang standen. „Ihr. Folgt mir. Schnell.“ Er stieg auf sein Pferd, riss es herum, und galoppierte durch die Gassen zurück, der Richtung des Feuers entgegen.
+Juvaini rettet eine Truhe mit Filzbündel, ohne einen Blick an die Münzen oder seine eigenen Verse zu verschwenden.
 
-Der Weg war vertraut. Er kannte jede Biegung, jeden Stein. Zehn Jahre in dieser Stadt, zehn Jahre, in denen er zwischen Archiven und Höfen gewandert war, und doch war das Haus, in dem er lebte, nur ein Ort der Stille gewesen.
+Im selben Augenblick krachte das Dach des Hauses mit einem ohrenbetäubenden Donnern in sich zusammen. Eine Feuersäule schoss empor, Funken stoben wie ein Schwarm roter Wespen in die Dämmerung, und eine Welle aus kochend heißer Luft trieb selbst Bayans abgebrühtes Pferd zwei Schritte zurück.
 
-Der Rauch wurde mit jeder Minute dichter. Die Luft brannte in der Lunge.
+„Du bist ein Narr“, murmelte der junge Offizier kopfschüttelnd. Er betrachtete Juvaini mit jenem tiefen, unverständigen Misstrauen, das die Reiter der Steppe den Schreibern der Städte entgegenbrachten. „Ein ganzer Beutel Gold für eine Holzkiste voller toter Wörter.“
 
-Die Gasse vor ihm öffnete sich zu einem kleinen Platz, und er sah es: das Viertel der Gelehrten, das er liebte, stand in Flammen. Die Häuser waren nicht mehr wiederzuerkennen. Die Fassaden waren schwarz, die Dächer eingestürzt oder im Begriff einzustürzen. Die Flammen leckten aus den Fenstern, die Ziegel barsten von der Hitze, und die Gasse war übersät mit Trümmern, verbrannten Möbeln, den Körpern derer, die nicht rechtzeitig geflohen waren.
+Juvaini antwortete nicht. Er sank neben der Truhe auf die Knie. Seine Finger waren schwärzer als die Asche, die um ihn herabfiel. Er scherte sich nicht um den Schmutz, nicht um Bayan, nicht um das Heulen der Sterbenden, das vom Fluss herüberwehte.
 
-Er sprang vom Pferd, noch bevor es stand, und rannte.
+Das Eisen des Schlosses war heiß, doch er spürte den Schmerz der Brandblasen nicht, als er den Schlüssel aus seinem Halsband löste und ins Schloss trieb. Der Bart griff mit einem trockenen Knacken. Er hob den schweren Deckel.
 
-„Wo wohnst du?“ schrie einer der Soldaten hinter ihm.
+Im Inneren lag kein Gold. Keine Edelsteine aus Badachschan, keine seidenen Ehrengewänder.
 
-„Drittes Haus links“, keuchte Juvaini. „Die Tür mit dem blauen Stein über dem Bogen.“ Er rannte durch die Trümmer, spürte die Hitze auf der Haut, hörte das Knistern des Holzes. Das Haus stand noch. Die Fassade war geschwärzt, der blaue Stein über der Tür war fast unsichtbar, aber das Dach war noch halb intakt, und die Fenster waren geschlossen. Noch. Aber in einer Stunde würde es anders sein. In einer halben Stunde.
+Ganz oben lag ein grobes Bündel aus ungefärbtem, grauem Steppenfilz, gebunden mit einer einfachen Schnur aus Pferdehaar. Es roch nach altem Rauch, nach dem bitteren Wermutkraut der nördlichen Ebenen und nach jenem fernen, trockenen Wind, der über die Hänge des Orchon-Tals weht. Sechzehn Jahre. Sechzehn Jahre lang hatte er dieses Bündel gehütet, durch Kriege, durch Sandstürme, durch die Intrigen der Kanzleien von Karakorum bis Täbris. Er hatte es getragen wie eine Reliquie, wie ein heimliches Gift, das man am Herzen birgt.
 
-Er riss die Tür auf. Die Flammen waren noch nicht im Inneren. Der Gang war verraucht, aber die Flammen waren noch im Obergeschoss. Er hörte ihr Fressen, das Krachen von Balken.
+Mit zitternden Händen hob Juvaini das Filzbündel an. Darunter lag ein einzelnes, schmales Schriftstück, eingeschlagen in gewachstes Leder, die Ränder mit rotem Siegellack verschlossen.
 
-Seine Kammer war im Erdgeschoss, hinten, rechts. Er wusste den Weg blind.
+Er strich mit dem Daumen über das Wachs. Juvaini prüft das Siegel der letzten Nachricht, sorgsam, fast ehrfürchtig in der sengenden Hitze. Es war das Siegel der Schattenkanzlerin. Das Siegel einer Frau, deren Name am Hof der Khane nur noch mit gedämpfter Stimme und abergläubischer Furcht geflüstert wurde, verflucht als Hexe, ertränkt im Fluss der Vergessenheit, doch in seiner Erinnerung lebendig wie das erste Licht über den schneebedeckten Gipfeln des Altai.
 
-Er rannte den Gang hinunter, stolperte über einen Tisch, der umgestürzt war, fing sich an der Wand. Die Handfläche brannte von der heißen Ziegeloberfläche. Er ignorierte es.
+Das Siegel war unversehrt. Die feinen Rillen des geschnittenen Karneols traten scharf und unbeschädigt unter der Ascheschicht hervor.
 
-Die Tür zu seiner Kammer war offen. Er trat ein.
+Ein Laut entwich Juvainis Kehle – ein heiseres, ersticktes Ausatmen, das wie eine ungeheure Erleichterung klang, doch die Schwere einer unheilbaren Trauer trug. Seine Schultern sackten nach vorn. Für einen Moment schloss er die Augen, drückte die Stirn gegen das kühle Wachs des Siegels und verharrte reglos, während um ihn herum eine der größten Städte der Welt zu Asche zerfiel.
 
-Das Bett stand noch. Der Tisch, der daran grenzte, war von der Decke des einstürzenden Regals bedeckt. Bücher und Rollen lagen auf dem Boden. Juvaini kniete nieder, griff unter das Bett, tastete nach der Truhe.
+Bayan sah von seinem Pferd herab auf den knienden Sekretär. Der Steppenkrieger verstand vieles: den Wert einer guten Klinge, den Tritt eines schnellen Pferdes, die Furcht im Auge eines Feindes. Doch diesen Mann verstand er nicht.
 
-Die Truhe war da.
+„Sekretär“, rief Bayan, und zum ersten Mal klang seine Stimme nicht spöttisch, sondern beunruhigt von der Fremdartigkeit des Moments. „Wir müssen fort. Das Feuer greift auf die Stallungen über. Wenn der Wind dreht, schneidet es uns den Weg zum Haupttor ab.“
 
-Er zog sie hervor. Sie war klein, aus Zedernholz, mit einem einfachen Messingverschluss. Er hatte sie vor Jahren gekauft, in Samarkand, für einen Preis, den er sich kaum leisten konnte. Sie wog nicht viel.
+Juvaini hob den Kopf. Sein Gesicht war ruhig geworden. Die professionelle Kälte, die er sich wie eine Maske zugelegt hatte, um im Dienst der Mörder zu überleben, war verschwunden; darunter lag das Gesicht eines Mannes, der heimgekehrt war an einen Ort, den kein Feuer erreichen konnte.
 
-Die Truhe hier. Aber das Bündel – das Filzbündel – war nicht in der Truhe. Es war unter der losen Diele, die er vor einem Jahr ausgehöhlt hatte, versteckt vor neugierigen Blicken. Er hob die Diele auf, griff in das Loch, und seine Finger fanden den Stoff.
+„Einen Atemzug noch, Herr“, sagte er sanft. Seine Stimme war wieder die melodische, wohlgesetzte Stimme des persischen Gelehrten, ungebrochen von Rauch und Lärm.
 
-Das Filzbündel war noch da.
+Er legte das versiegelte, ungelesene Schreiben behutsam beiseite, dorthin, wo die Asche es nicht berühren konnte. Dann griff er in das geöffnete Filzbündel. 
 
-Seine Hände zitterten. Er zog es heraus, drückte es an die Brust. Der Filz war kalt, obwohl die Luft um ihn herum heiß war. Er spürte die Form der Gegenstände darin: das hart umwickelte Paket der ungeöffneten Briefe, das leichtere Bündel der älteren Briefe, die er kannte, das kleine Etui mit der Feder. Alles noch da.
+Seine Fingerspitzen berührten das erste Blatt. Es war kein feines Papier aus den kaiserlichen Werkstätten von Samarkand, sondern raues, faseriges Steppenpapier, hergestellt aus zerstoßenem Maulbeerbast, brüchig an den Rändern, vergilbt von der Zeit. Die Tinte war verblasst, doch die Schriftzüge standen klar und fest auf der Seite – eine feine, disziplinierte Hand, die das Arabische mit jener geometrischen Strenge führte, die man nur in den Werkstätten Chorasans erlernte, gepaart mit einer inneren Kälte, die jedes überflüssige Ornament verschmähte.
 
-Er stand auf, wankte, hielt die Truhe unter eine Arm, das Filzbündel unter den anderen. Er lief zurück den Gang, vorbei an den Flammen, die jetzt durch das obere Stockwerk fielen, und trat wieder auf die Straße.
+Juvaini schlägt den ersten Brief auf und liest 'Schwester,'.
 
-Die zwei Soldaten warteten. Einer sah ihn an, das Bündel in seinen Armen, die Truhe.
-
-„Das?“ fragte der Soldat. „Dafür bist du gerannt? Ein Bündel und eine Schachtel?“
-
-„Helft mir“, sagte Juvaini. Seine Stimme klang rau, aber fest. „Die Truhe auf mein Pferd. Schnell. Und dann zurück zum Archiv. Schnell, sage ich.“ Er warf sich auf sein Pferd, die Truhe vor sich auf dem Sattel, das Filzbündel auf den Knien. Er ritt zurück, die Flammen hinter sich, der Rauch in der Lunge. Er dachte an nichts. Er hielt das Bündel fest.
-
-Zurück am Archiv, angehalten, abgestiegen. Tümen wartete, die Arme verschränkt. „Eine Stunde. Du hast sechzehn Sekunden übrig.“ Er sah das Filzbündel, die Truhe. „Was ist das?“
-
-Juvaini wandte sich nicht um. „Nichts. Privat. Ich brauche einen Hof. Einen abgeschiedenen. Hinter dem Archiv – die Mauer da. Ja, dort. Ich brauche eine Stunde allein. Dann stehe ich zur Verfügung.“
-
-Tümen sah ihn einen Moment an, die schmalen Augen unlesbar. Dann zuckte er die Achseln. „Eine Stunde. Dann arbeitest du. Wir sichern die Archive, wie befohlen.“ Er drehte sich um und rief seinen Männern Anweisungen zu.
-
-Juvaini ging um das Archiv herum, die Schritte schwer, die Truhe und das Bündel auf den Armen. Der Hof, den er meinte, war ein kleiner, von Mauern umgebener Platz, einst ein Kräutergarten der Sekretäre. Jetzt stand das Kraut vertrocknet zwischen den Steinen, die Erde mit Asche bedeckt.
-
-Er setzte die Truhe auf die Mauerbank, stellte das Filzbündel vorsichtig daneben. Dann öffnete er die Truhe.
-
-Sie war leer, bis auf einen flachen Seidenbeutel, der ein wenig Münzen enthielt. Gold, ja, aber nicht wichtig. Er schob den Beutel beiseite. Dann hob er das Filzbündel an, zog die Verschnürung auf, wickelte die Schichten ab.
-
-Die Briefe waren da.
-
-Er zählte sie mit den Fingern. Zwölf. Die älteren, die er gelesen hatte, die er kannte, die er wusste, was sie enthielten – elf von ihnen. Und der letzte, der zwölfte, in der stärkeren Hülle, die versiegelt war, die er nie geöffnet hatte.
-
-Er nahm ihn heraus. Das Papier war fein, das Siegel aus schwarzem Wachs, mit dem Abdruck einer Blume – einer Narzisse, wenn er sich recht erinnerte. Das Siegel war unversehrt. Kein Riss. Kein Kratzer.
-
-Erleichterung durchflutete ihn, so stark, dass er sich setzen musste, auf einen Stein, der vor Hitze noch warm war. Aber die Erleichterung fühlte sich nicht wie Freude an. Sie fühlte sich wie Trauer an. Weinen. Er spürte die Tränen nicht, aber sie waren da, eine Nässe auf der Wange.
-
-Sechzehn Jahre.
-
-Sechzehn Jahre hielt er diesen Brief in den Händen, ohne ihn zu öffnen. Er wusste nicht, was drin stand. Er wusste nur, von wem er kam. Die Handschrift auf dem Umschlag war zart, aber bestimmt. Fatima. Fatima, in den letzten Tagen ihres Lebens geschrieben, bevor die Anklage kam, bevor die Nadel, bevor der Fluch, den sie nicht hätte aussprechen sollen.
-
-Juvaini hatte den Brief nie geöffnet.
-
-Er hatte ihn nicht öffnen können.
-
-Er hielt ihn jetzt in den Händen, in der Asche einer Stadt, die brannte, und die gleiche Angst ergriff ihn wie immer: dass der Brief etwas enthielt, das er nicht ertragen konnte. Dass sie ihm Vorwürfe machte. Dass sie ihn bat, etwas zu tun, was er nicht getan hatte. Dass sie ihn liebte, und er hatte sie nicht gerettet.
-
-Er hob den Brief an das Licht, das durch den Rauch fiel. Das schwarze Siegel schimmerte.
-
-Schwester, dachte er. Er wusste nicht, warum er das dachte. Fatima hatte keine Schwester gehabt. Er hatte nie von einer Schwester gehört. Aber in dem Moment, als er das Siegel ansah, dachte er: Das ist für die Schwester.
-
-Er riss das Siegel auf. Seine Hände zitterten nicht. Er war ruhig, so ruhig, dass es ihm auffiel. Die Papierhülle ließ sich leicht öffnen. Darin lag ein gefaltetes Blatt, so dünn, dass die Tinte auf der anderen Seite durchschien.
-
-Er entfaltete es.
-
-Die Handschrift war Fatimas. Ihre Buchstaben – fest, schräg, mit kleinen Schleifen an den Enden der Wörter. Er hatte sie nicht gesehen, seit er die letzte Seite von ihren Briefen gelesen hatte. Er las die erste Zeile.
+Dort, wo der Ruß die Fasern noch nicht berührt hatte, stand ein einziges Wort, gefolgt von einem winzigen, zögernden Abstrich der Rohrfeder, als hätte die Schreibende vor dem nächsten Atemzug innehalten müssen, um den Schmerz des Anfangs zu ertragen.
 
 „Schwester,“
 
----
+Juvaini las das Wort nicht mit den Augen eines Mannes, der Akten prüft; er schmeckte es. Es schmeckte nach den kühlen Lehmmauern von Nischapur vor dem großen Schlachten, nach dem Duft zerriebener Minze und jenem fernen, unberührten Licht Chorasans, das in der Erinnerung der Heimatlosen niemals verging. Ein einziges Wort, gesetzt gegen das Tosen der Welt. Draußen brach ein weiterer Balken des brennenden Hauses berstend entzwei, die Flammen fraßen sich gierig durch das trockene Geäst der Nachbargärten, und über den Dächern von Bagdad wälzte sich der Himmel in schwerem, eitrigem Gelb, während der Tigris das Gedächtnis von Jahrhunderten lautlos ins Meer trug. Doch hier, auf seinen Knien im Schlamm, zwischen den Ascheflocken und dem ungeduldigen Schnauben der Steppenpferde, schwieg die Verwüstung.
+
+Er barg das Blatt wieder im rauen Filz, zog die Schnur aus Pferdehaar fest und presste das Bündel an seine Brust, unter das schwere Tuch seines Mantels, genau dorthin, wo sein Herz schlug – unruhig, wund und am Leben.
+
+„Wir reiten“, sagte er leise, erhob sich aus dem Staub und wandte Bayan ein Gesicht zu, das nichts mehr von der Furcht eines Kanzlisten verriet, sondern die ruhige, unerbittliche Geduld eines Mannes trug, der das Überdauern gelernt hatte.
+

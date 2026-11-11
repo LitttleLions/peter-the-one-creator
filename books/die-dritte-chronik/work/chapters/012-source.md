@@ -5,186 +5,171 @@
 
 ---
 
-Frühjahr kam in Karakorum wie ein Gerücht, das niemand glauben wollte.
+Der Wind über dem Orchon-Tal trug den Geruch von feuchter Erde, schmelzendem Eis und dem ersten, bitteren Hauch von Wermut heran, der unter der Schneedecke hervorkroch. Es war das Frühjahr, jene unbarmherzige Jahreszeit in der Steppe, in der die Tiere vor Entkräftung starben, während der Himmel bereits blau und weit wie ungegerbte Seide über den Bergen stand.
 
-Der Boden taukte langsam auf, erst an den Rändern der Feuerstellen, dann in den Rinnsalen zwischen den Zelten, und der Schlamm, der dabei entstand, war tiefer und hartnäckiger als der Frost, den er ersetzte. Die Kanzlei roch nach nassem Filz und frischer Tinte und dem Rauch der Öfen, die man noch nicht abzustellen wagte. Fatima saß an ihrem Pult am Fenster und wartete.
+Fatima stand am schmalen Holzfenster der Kanzleijurte und beobachtete, wie ein Falke hoch über den Wachposten kreiste. Ihre Hände ruhten in den weiten Ärmeln ihres Übergewands, die Finger der linken Hand umklammerten wie gewohnt die feine, verblasste Narbe an ihrem Handgelenk. Ein altes Zeichen. Eine Erinnerung daran, dass das Fleisch nachgibt, wenn der Stahl hart genug geschliffen ist.
 
-Sie wartete nicht auf den Jungen. Sie wartete auf das, was der Junge tun würde, wenn er nicht wusste, dass sie wartete.
+In Fatimas Erinnerung war Chorasan kein Ort auf einer Karte, sondern das warme Licht in den Gärten von Mashhad und das Lachen ihrer Schwester.
 
-Das war ein Unterschied, der ihr Leben bedeutete.
+Doch zwanzig Jahre im Lager der Eroberer lehrten eine Frau andere Maße. Man überlebte nicht durch Schönheit, nicht durch Herkunft und gewiss nicht durch Güte. Man überlebte, indem man ein Gewicht wog, ehe man die Hand danach ausstreckte. Töregene Khatun maß Menschen nach ihrem Gehorsam und ihrer Furcht. Fatima maß sie nach dem, was sie verschwiegen.
 
-Juvaini erschien pünktlich, wie immer. Er trug seinen Mantel noch, als er eintrat, schüttelte den Schlamm von den Sohlen und legte die Schreibutensilien auf den Tisch, bevor er sich setzte – die Federn zuerst, dann das Tintenfass, dann das Schleifstein für die Klingen, in einer Ordnung, die er offenbar nicht bewusst einhielt, sondern die sich aus einem Körpergedächtnis ergab, aus Tausenden von Morgen, an denen ein Vater oder ein Lehrer dieselbe Reihenfolge vorgegeben hatte. Fatima registrierte das. Dann wandte sie den Blick ab und wartete weiter.
+Hinter ihr scharrte eine Rohrfeder über raues Papier aus Samarkand. Ein gleichmäßiger, ruhiger Laut, unterbrochen nur vom trockenen, keuchenden Husten des alten Kanzleischreibers Mas'ud, der drei Pulte weiter über den Steuerlisten von Isfahan hockte. Mas'uds Blick brannte seit Tagen in Fatimas Rücken – ein stumpfer, von Neid getrübter Blick. Der Greis spürte, dass der Boden unter seinen Knien brüchig geworden war. Dreißig Jahre lang hatte er die Siegel geführt, Eingaben abgefasst und sich vor jedem Wind gebeugt, der aus dem Zelt des jeweiligen Khagans wehte. Nun aber wehte der Wind aus den Gemächern einer Naimanin, und die Feder, die diesen Wind in Worte fasste, gehörte einer Frau aus Chorasan.
 
-Der ältere Sekretär – Nasir, der seit acht Jahren in dieser Kanzlei saß und seit acht Jahren glaubte, dass Beständigkeit dasselbe sei wie Kompetenz – beobachtete den Jungen mit der stillen Feindseligkeit eines Mannes, dem man einen Tisch weggerückt hatte, ohne es zu erklären. Fatima kannte diesen Blick. Sie hatte ihn an zwanzig Höfen gesehen, in zwanzig Variationen. Er war ungefährlich, solange man ihn nicht unterschätzte.
+Fatima wandte sich langsam um.
 
-„Wir beginnen mit der Westkorrespondenz", sagte sie, ohne aufzublicken.
+An dem niedrigen Tisch nahe dem mittleren Stützpfosten saß der Junge. Ata-Malik Juvaini. Sechzehn Sommer zählte er, kaum dem Knabenalter entwachsen, doch seine Hände verrieten die Zucht einer alten Gelehrtenfamilie. Er saß aufrecht im Fersensitz, den Rücken gerade wie eine Zypresse, das Kinn leicht gesenkt. Sein Knie diente ihm als Schreibunterlage, so wie es die Kopisten im Westen seit Jahrhunderten taten. Vor ihm lag ein frischer Bogen Steppenpapier, schwer und faserig, geglättet mit Achat.
 
-Juvaini griff zur Feder.
+Begabung war eine Klinge ohne Griff. Wer sie unachtsam führte, schnitt sich selbst die Sehnen durch.
 
-Sie diktierte langsam. Die erste Hälfte des Briefes war Formelkram – Grußformeln an den Gouverneur von Samarkand, Bestätigungen von Liefermengen, eine höfliche Erinnerung an ausstehende Tributzahlungen. Juvaini schrieb, und seine Feder bewegte sich ruhig, ohne Unterbrechung. Nasir an seinem Tisch schrieb ebenfalls, irgendeine Abschrift, und Fatima hörte das Kratzen seiner Feder als das, was es war: eine Demonstration von Anwesenheit.
+Fatima trat lautlos näher. Der Filz schluckte ihre Schritte. Sie blieb zwei Schritte vor seinem Pult stehen, dort, wo der Rauch des kleinen Kohlebeckens nach gebranntem Wachholder und Schafstalg roch.
 
-Dann, in der Mitte des zweiten Absatzes, baute sie den Fehler ein.
+„Wir setzen das Schreiben an den Hof von Tabriz auf“, sagte sie ruhig. Ihre Stimme war nicht laut, aber sie besaß jene klare, unerschütterliche Härte, die keinen Widerspruch duldete. „Ein Dekret der Regentin an die Statthalter der Westlande. Nimm die Binsenfeder mit der schrägen Spitze. Die Tinte muss tief sein, ohne Glanz.“
 
-Es war ein kleiner Fehler. Harmlos genug, um den Absender in Verlegenheit zu bringen, nicht das Reich. Sie nannte den Gouverneur beim falschen Namen – Mahmud statt Muhammad, eine Verwechslung, die in der Kanzlei jedes Jahres mindestens einmal vorkam und die jeden Empfänger sofort wissen ließ, dass er nicht wichtig genug war, um genau gelesen zu werden. Ein Fehler, der Botschaften sendete, die man nicht senden wollte.
+Juvaini hob den Kopf. Seine Augen waren dunkel, wach, von jener unruhigen Klugheit, die Fatima bei jungen Männern fürchtete. Solche Männer wollten die Welt nicht nur beschreiben; sie wollten von der Welt gesehen werden.
 
-Juvaini schrieb weiter.
+„Ich höre, Herrin“, erwiderte er. Sein Persisch war vollkommen, geschliffen an den Versen von Firdausi und den Urkunden seines Vaters, frei von den harten Kehllauten der Steppe.
 
-Fatima wartete.
+„Schreib“, befahl sie und trat einen Schritt zur Seite, sodass ihr Schatten über sein Blatt fiel. „Im Namen des Ewigen Himmels und durch die Gnade der Regentin Töregene Khatun. An die Erhabenen der Diwane im Westen, an die Befehlshaber der Garnisonen und die Verwalter der Speicher. Es ist Uns zu Ohren gekommen, dass die Abrechnungen der Provinzen Fars und Aserbaidschan Unstimmigkeiten aufweisen.“
 
-Er schrieb den falschen Namen auf, ohne zu zögern. Dann schrieb er den nächsten Satz. Dann noch einen. Dann hielt er inne – nicht mit der Feder in der Luft, nicht mit einem Räuspern, nicht mit einem Blick zu ihr hin. Er hielt inne, indem er die Feder auf den Tisch legte und das Tintenfass ein kleines Stück zur Seite rückte, als brauche er mehr Platz.
+Die Feder glitt über das Papier. Der Junge schrieb rasch, die Buchstaben flossen wie schwarzes Wasser in ein kühles Flussbett, die Ligaturen eng, diszipliniert und ohne eitle Schnörkel.
 
-„Darf ich fragen", sagte er, ohne aufzublicken, „ob der Gouverneur von Samarkand derselbe ist, der letzten Herbst den Tributbrief an Arghun Aqa gesandt hat?"
+„Weiter“, sagte Fatima und ließ ihren Blick scheinbar beiläufig über den Raum wandern, wo Mas'ud die Ohren spitzte und vorgab, ein Messer an einem Wetzstein zu schärfen. „Die Siegel von Hamadan sind zu erneuern. Der Statthalter Mahmud Yalavach hat die Weisung erhalten, die Eintreibung der Kopfsteuer bis zum nächsten Vollmond abzuschließen. Wer sich weigert, fällt unter das Urteil des Jasaq.“
 
-Fatima legte die Hände in den Schoß. „Warum?"
+Sie schwieg.
 
-„Weil in dem Brief, den ich kopiert habe, Muhammad ibn Yusuf als Absender stand. Ich wollte sichergehen, dass ich den richtigen Namen verwende."
+Sie wartete.
 
-Er sagte es beiläufig. Er sagte es, als sei es eine Frage der Genauigkeit, nicht der Korrektur. Er sagte es so, dass sie selbst den Fehler entdecken konnte, ohne dass er ihr gezeigt hatte, wo er lag.
+Der Name lag im Raum wie ein vergifteter Bissen. *Mahmud Yalavach*. Jeder Schreiber, der auch nur einen Winter lang die Botenberichte aus den Westlanden sortiert hatte, wusste, dass Yalavach vor zwei Monaten nach Choresm versetzt worden war. Sein Rivale Körgüz, und nach dessen Verhaftung der Statthalter Arghun Aqa, führte die Amtsgeschäfte im Westen. Yalavach einen Erlass für Hamadan zuzustellen, war kein Verbrechen, das Heere in Bewegung setzte. Doch es war ein Makel, der die Kanzlei der Khatun vor den Augen der fernen Emire lächerlich machen würde – ein Beweis, dass die Frauen im Zelt von Karakorum nicht wussten, welche Hand welches Schwert führte.
 
-Fatima schwieg einen Moment.
+Juvainis Feder hielt nicht inne. Sie vollendete das Wort *Yalavach*, setzte die drei diakritischen Punkte über das *Tsch*, zog den Bogen des Schlussbuchstabens mit makelloser Ruhe aus.
 
-„Muhammad", sagte sie. „Natürlich."
+Kein Erstarren. Kein triumphierendes Aufblitzen in den Augen.
 
-„Danke." Er griff wieder zur Feder.
+Fatima spürte, wie sich ihr Nacken anspannte. Sie beobachtete die Adern an seinen Schläfen. Wenn er den Fehler nicht bemerkt hatte, war er nichts weiter als ein gewöhnlicher Abschreiber, nützlich für die Zählung von Hammeln und Getreidesäcken, unbrauchbar für die Kanzlei der Macht. Wenn er ihn bemerkt hatte und schwieg, um sie ins offene Messer laufen zu lassen, war er ein Feind.
 
-Nasir an seinem Tisch hatte aufgehört zu schreiben. Fatima hörte das Ausbleiben seines Federkratzens als das, was es war: Aufmerksamkeit. Sie ignorierte es.
+Der Junge tauchte die Feder erneut in das kleine Horn mit Rußtinte. Er strich die Spitze behutsam am Rand ab. Dann hob er den Kopf, sah sie jedoch nicht direkt an, sondern richtete den Blick mit vollkommener Höflichkeit auf den Saum ihres Mantels.
 
-Der Junge kann taktvoll die Wahrheit sagen.
+„Herrin“, sprach er, leise genug, dass Mas'uds Schaben am Wetzstein seine Worte übertönte. „Darf dieser geringe Diener eine Frage zum Wortlaut des Adressaten stellen?“
 
-Das war die seltenste Hofkunst. Seltener als Mut, seltener als Klugheit, seltener als Loyalität, die man kaufen oder brechen konnte. Taktvoll die Wahrheit sagen hieß: den anderen nicht beschämen, aber auch nicht lügen. Es hieß: den Fehler sichtbar machen, ohne einen Schuldigen zu benennen. Es hieß: verstehen, dass Macht nicht aus dem Wissen kommt, dass jemand falsch liegt, sondern aus der Fähigkeit, ihn richtig liegen zu lassen.
+„Sprich.“
 
-Sie hatte Männer gekannt, die dreißig Jahre am Hof gelebt hatten und das nie gelernt hatten.
+„Wenn das Dekret den Botenreitern des Örtöö übergeben wird, reiten sie Tag und Nacht. Vierzig Pferdewechsel liegen zwischen diesem Tal und den Toren des Westens. Wenn der Bote Hamadan erreicht, wird der Statthalter Mahmud Yalavach bereits tief in den Steppen von Choresm weilen, um den Befehlen der Khatun dort Geltung zu verschaffen. Soll der Reiter nach Norden abbiegen, um ihn zu suchen – oder soll die Abschrift sogleich an den Palast von Arghun Aqa gehen, damit das Dekret nicht an der Schwelle eines leeren Hauses verhallt?“
 
-Der Junge hatte es in einem Atemzug getan.
+In der Jurte war es still geworden, bis auf das ferne Klatschen der Zeltbahnen im Frühjahrswind.
 
-Sie diktierte weiter.
+Fatima atmete langsam aus.
 
-Die Mittagsstunde kam und ging. Nasir verließ die Kanzlei für sein Essen, wie jeden Tag zur selben Zeit, mit derselben Miene eines Mannes, der seine Gewohnheiten für Tugenden hielt. Fatima blieb sitzen. Juvaini blieb sitzen. Sie tranken den Tee, den eine Dienerin brachte, und Fatima diktierte den dritten Brief, einen heikleren, über Steuerbefreiungen in den nördlichen Distrikten, dessen Formulierungen sie mit einer Sorgfalt wählte, die der Junge vielleicht bemerkte und vielleicht nicht.
+Er hatte sie nicht belehrt. Er hatte nicht gesagt: *Ihr irrt Euch.* Er hatte keinen Triumph zur Schau gestellt, der Mas'uds schadenfrohe Blicke angelockt hätte. Er hatte ihr eine Brücke gebaut, breit genug für eine Regentin, gefügt aus reiner Gehorsamkeit und vollkommener Einsicht in die Wege der Reichspost.
 
-Dann, als der Nachmittag begann und das Licht durch das Fenster flacher und goldener wurde, stand sie auf.
+Er beherrschte die seltenste Kunst am Hof: die Wahrheit so zu sagen, dass die Macht ihr Gesicht behielt.
 
-„Ich muss zur Regentin", sagte sie. „Schreibt die Reinschrift des zweiten Briefes."
+Fatima ließ sich nichts anmerken. Ihre Züge blieben kalt, glatt wie der Stein eines Wehrs. „Ein Bote, der einem Schatten nachjagt, verschwendet die Pferde des Reiches“, sagte sie trocken. „Setze den Namen von Arghun Aqa ein. Und füge hinzu, dass die Abrechnungen von ihm persönlich zu siegeln sind.“
 
-Sie ging. Aber bevor sie durch die Tür trat, ließ sie, scheinbar achtlos, ein Blatt auf dem Tisch liegen. Es war halbgeschrieben. Ihre Handschrift. Ein Brief, der nicht für die Kanzleiakten bestimmt war – das erkannte jeder, der es las, sofort. Die Namen darin waren keine Gouverneure und keine Tributleister. Die Namen darin waren Männer, die am Hof lebten, und was neben ihren Namen stand, waren keine Zahlen.
+„Zu Befehl, Herrin.“
 
-Sie ließ das Blatt liegen, beschwert mit nichts. Dann ging sie.
+Mit einer winzigen, fast unsichtbaren Bewegung seiner Klinge schabte Juvaini das noch feuchte Wort *Yalavach* vom festen Papier, streute eine Prise feinsten Bimssteinmehl darüber, rieb die Stelle mit dem Fingernagel glatt und setzte den neuen Namen darüber. Kein Fleck blieb zurück. Nur eine winzige Unebenheit im Fasergefüge, die nur derjenige ertasten konnte, der darum wusste.
 
-Sie brauchte nicht lange. Töregene hatte sie nicht wirklich gerufen – es gab eine Kleinigkeit zu besprechen, einen Kurier, der am nächsten Morgen abgehen sollte, eine Frage der Adressierung. Zehn Minuten, nicht mehr. Fatima kannte den Unterschied zwischen einem Vorwand und einem Grund, und sie nutzte Vorwände, wenn sie sie brauchte.
+Ein Fehler war erst dann ein Vergehen, wenn man ihn stehen ließ.
 
-Als sie zurückkehrte, lag das Blatt noch da.
+„Lass das Blatt ruhen“, sagte Fatima und trat an ihren eigenen Tisch.
 
-Genau so. Kein Millimeter verschoben. Beschwert mit dem Federetui, das Juvaini offenbar von seiner Seite des Tisches genommen und daraufgelegt hatte, ohne Kommentar, als habe er bemerkt, dass das Blatt zu leicht war und vom Zugwind hätte bewegt werden können.
+Auf ihrer Arbeitsplatte lag ein schwerer Holzblock, daneben ein Bogen aus dickem, fast weißem Maulbeerpapier. Es war ein Entwurf, den sie in den frühen Morgenstunden selbst begonnen hatte – ein Verzeichnis geheimer Abgaben, die nicht durch die Bücher von Abd ar-Rahman fließen sollten, sondern direkt für die Bestechung der Führer der Kiptschak-Tausendschaften bestimmt waren. Namen standen darauf, Zahlen in uigurischer Schrift, Notizen über Goldbarren, die in Filzsäcken an den Wachen des Kronprinzen Güyük vorbeigeschleust werden mussten. Ein einziges Wort aus dieser Liste, geflüstert zur rechten Zeit am falschen Feuer, konnte den Frieden des Lagers in Brand stecken.
 
-Fatima trat an den Tisch und betrachtete das Blatt. Dann betrachtete sie das Federetui.
+Fatima nahm das Blatt, legte es offen auf den Schemel neben Juvainis Knie und platzierte ihr schweres, mit schwarzem Lack überzogenes Federetui darauf – jenen Qalamdān, den ihr Vater einst in Mashhad geschnitzt hatte, abgegriffen an den Kanten, das Holz dunkel vom Schweiß zweier Generationen.
 
-Juvaini schrieb die Reinschrift. Er blickte nicht auf.
+„Ich werde zur Khatun gerufen“, sagte sie, ohne die Stimme zu heben. „Das Kohlebecken geht aus. Mas'ud, hol frischen Dung und Birkenholz aus den Magazinen.“
 
-Ob er gelesen hatte, würde sie nie sicher wissen. Das war der Punkt. Sie suchte keine Unwissenden – Unwissende waren nützlich, aber begrenzt. Sie suchte Menschen, die Wissen behandeln konnten. Die verstanden, dass ein Blatt, das man nicht lesen soll, ungelesen bleibt, nicht weil man es nicht könnte, sondern weil man versteht, was das Lesen bedeuten würde. Was es kosten würde. Was es von einem verlangen würde.
+Der alte Sekretär knurrte unwillig, erhob sich mühsam auf seine arthritischen Beine und schlurfte fluchend zum Ausgang.
 
-Wissen ist eine Schuld, die man eingeht, wenn man es aufnimmt.
+Fatima wandte sich an Juvaini. „Rühre nichts an. Wenn die Tinte deines Schreibens trocken ist, streue Sand darüber. Warte hier.“
 
-Der Junge wusste das, oder er hatte es getan, oder er hatte es nicht getan und das Blatt trotzdem nicht berührt, weil er Angst hatte. Auch das war möglich. Aber selbst wenn es Angst war – die richtige Angst war besser als die falsche Kühnheit.
+Sie ging.
 
-Sie nahm das Federetui vom Blatt, faltete das Blatt zusammen und steckte es ein.
+Der Vorhang fiel hinter ihr ins Schloss. Doch sie trat nicht hinaus in die Kälte des Vormittags. Sie blieb im schmalen, dämmrigen Gang zwischen der inneren Kanzleijurte und dem Vorratszelt stehen, dort, wo die Filzbahnen sich überlappten und ein fingerbreiter Spalt den Blick auf das Innere freigab.
 
-„Danke", sagte sie.
+Die Kälte kroch ihr sofort durch die Filzstiefel in die Knochen. Der Wind rüttelte an den Seilen.
 
-Juvaini blickte auf. „Für das Federetui?"
+In der Jurte saß der Junge allein.
 
-„Ja."
+Er rührte sich nicht. Das Licht der Rauchöffnung fiel auf sein gebeugtes Haupt, zeichnete die weiche Linie seiner Wange nach, die noch den Knaben verriet, und die straffen Schultern, die bereits die Last eines Mannes trugen.
 
-Er nickte und schrieb weiter.
+Das Blatt lag eine Handbreit von seinem Knie entfernt. Das Papier war weiß, der Text deutlich lesbar, geschrieben in Fatimas klarer Kanzleihand. Das Federetui ihres Vaters lag quer über der oberen Kante, eine stumme Wache aus Holz.
 
-Nasir kehrte zurück und setzte sich an seinen Tisch mit der Miene eines Mannes, der weiß, dass er etwas verpasst hat, aber nicht weiß, was. Fatima ließ ihn in diesem Unwissen. Es war das Freundlichste, was sie für ihn tun konnte.
+Fatima hielt den Atem an. Ihr Herz schlug ruhig, mit jenem mechanischen, unbarmherzigen Takt, den sie sich in zwanzig Jahren Knechtschaft erzwungen hatte.
 
-Der Nachmittag verging. Die Briefe wurden fertig. Juvaini legte die Reinschriften in die richtige Reihenfolge, beschwerte sie mit dem kleinen Stein, den er für diesen Zweck benutzte, und stand auf, um zu gehen.
+Der Junge blickte auf seine eigenen Hände. Dann sah er zur Seite.
 
-„Bleibt noch einen Moment", sagte Fatima.
+Sein Blick streifte das Papier. Er sah die Schrift. Ein intelligenter Geist brauchte nicht mehr als drei Herzschläge, um eine Zeile zu erfassen, ein Wort zu greifen, einen Namen zu stehlen. Ein ehrgeiziger Schreiber hätte den Kopf geneigt. Er hätte die Gunst der Einsamkeit genutzt, um sich ein Faustpfand zu sichern, ein Geheimnis, das man später gegen Gold oder Schutz eintauschen konnte.
 
-Er blieb.
+Juvaini hob die Hand.
 
-Nasir sammelte seine Sachen und verließ die Kanzlei, langsamer als nötig, mit dem Gehör eines Mannes, der hoffte, etwas aufzufangen. Die Tür schloss sich hinter ihm.
+Fatimas Handglocke im Ärmel schwieg, doch ihre Muskeln spannten sich an.
 
-Fatima stand am Fenster. Der Schlamm vor der Kanzlei fing an, in der Abendkälte wieder zu frieren, und die Oberfläche kräuselte sich zu kleinen Kristallen, die im letzten Licht glitzerten. Sie betrachtete das eine Moment, dann wandte sie sich um.
+Der Junge berührte weder das Papier noch den Qalamdān. Er griff nach dem kleinen Holzschälchen mit Streusand, hob es an und ließ den feinen, grauen Sand mit einer fast zärtlichen Bewegung über sein *eigenes* Dokument rieseln. Er tat es bedächtig, Korn für Korn, als gäbe es auf der ganzen Welt nichts Wichtigeres als das Trocknen der Tinte auf einem Erlass an Arghun Aqa.
 
-„Die Westkorrespondenz", sagte sie. „Briefe an die Gouverneure der persischen Provinzen, an die Statthalter in Buchara und Samarkand, gelegentlich an die Händlergilden in Täbris. Ich brauche einen Kopisten, der Persisch und Mongolisch kann und versteht, dass der Inhalt dieser Briefe nicht für die Kanzleiakten bestimmt ist."
+Dann faltete er die Hände in den Ärmeln seines Gewandes, senkte das Kinn auf die Brust und schloss die Augen.
 
-Juvaini schwieg einen Moment. Dann sagte er: „Ich verstehe."
+Er saß da wie aus Stein gehauen.
 
-„Ich glaube nicht, dass Ihr versteht", sagte Fatima. „Noch nicht. Aber Ihr werdet es lernen."
+Fatima wartete zehn Herzschläge. Zwanzig. Fünfzig.
 
-Sie sagte es ohne Schärfe. Es war eine Feststellung, keine Drohung. Der Unterschied war wichtig.
+Draußen wieherte ein Pferd der Wachposten, dumpf drang das Rufen eines Treibers durch die Wolle. Der Junge bewegte sich nicht einmal, um eine Fliege zu vertreiben, die über seinen Kragen krabbelte.
 
-„Wann beginnen wir?" fragte er.
+Ob er die erste Zeile gelesen hatte, bevor er die Augen schloss?
 
-„Morgen früh. Eine Stunde vor den anderen."
+Fatima wusste es nicht. Sie würde es niemals mit Gewissheit wissen. Doch als sie den Filz zur Seite schob und mit festen, geräuschvollen Schritten wieder in die Jurte trat, lag das Blatt exakt so da, wie sie es zurückgelassen hatte: unberührt, der Qalamdān keinen Millimeter verschoben, das weiße Maulbeerpapier unbefleckt von neugierigen Fingern.
 
-Er nickte. Er fragte nicht, warum eine Stunde vor den anderen. Er fragte nicht, was in den Briefen stand. Er fragte nicht, was das für ihn bedeutete, für seine Stellung, für sein Verhältnis zu Nasir, der es bemerken würde und nichts sagen, aber es wissen würde. Er fragte nicht.
+Sie suchte keine Unwissenden. Wer am Hof der Regentin nichts wusste, war eine Last. Sie suchte jene, die wussten, wie man Wissen behandelte – wie glühende Kohlen, die man mit einer Zange fasst, nicht mit der bloßen Hand.
 
-Das war die richtige Antwort.
+Juvaini öffnete die Augen, als ihr Schatten auf ihn fiel. Er erhob sich nicht, das verbot der Anstand vor dem fertigen Dokument, aber er neigte das Haupt.
 
-„Dann bis morgen früh", sagte Fatima.
+„Das Schreiben ist bereit für das Siegel, Herrin.“
 
-Er ging. Sie hörte seine Schritte auf dem gefrorenen Schlamm, gleichmäßig, ohne Eile. Dann war die Stille zurück, und die Kanzlei gehörte ihr allein.
+Fatima trat an ihn heran. Sie griff nach dem Blatt mit den geheimen Zahlen, hob es auf und steckte es, ohne ihn anzusehen, in die Tiefe ihres Mantels. Dann nahm sie das Federetui ihres Vaters an sich. Das Holz fühlte sich kühl an, vertraut und schwer.
 
-Sie saß noch eine Weile am Fenster und ließ den letzten Rest des Lichts vergehen. Die Kälte kroch durch die Ritzen des Holzrahmens, und sie zog den Mantel enger. Draußen rief jemand nach einem Pferd. Irgendwo in der Ferne schlug ein Hammer auf Metall – Guillaume Boucher, wahrscheinlich, der noch an seinem silbernen Baum arbeitete, der noch immer nicht fertig war.
+„Du schreibst schnell“, sagte sie leise. „Und du siehst scharf. Aber das ist hier die geringste deiner Pflichten.“
 
-Dann holte sie das Federetui heraus.
+Juvaini schwieg. Seine Lippen waren schmal, beherrscht.
 
-Es war aus Leder, abgegriffen an den Rändern, und die Gravur auf dem Deckel war fast nicht mehr zu erkennen – ein Muster aus Ranken, das ihr Vater in Mashhad hatte einschneiden lassen, an dem Herbst, bevor alles endete. Sie öffnete es und nahm ein leeres Blatt heraus. Dann ein zweites. Das zweite legte sie zur Seite – es war kein leeres Blatt, es war ein halbgeschriebenes, das sie vorhin vom Tisch genommen hatte. Sie betrachtete es kurz, faltete es kleiner und steckte es tiefer ins Etui.
+„Ab morgen“, fuhr Fatima fort, und ihre Worte fielen wie schwere Tropfen in den stillen Raum, „wirst du nicht mehr die Register von Mas'ud kopieren. Du wirst hier an diesem Tisch sitzen. Du wirst die Korrespondenz mit den Ländern der Sonne übernehmen. Die Briefe nach Fars, nach Isfahan, nach Tabriz und an den Fluss Dschihun. Jedes Wort, das den Hof der Khatun nach Westen verlässt, wird durch deine Hand gehen. Und jedes Wort, das von dort zurückkehrt, wird zuerst von deinen Augen gelesen.“
 
-Dann begann sie zu schreiben.
+Ein kurzes, fast unmerkliches Zittern ging durch die Schultern des Jungen. Seine Finger schlossen sich fester um den Saum seiner Ärmel. Er wusste, was das bedeutete. Es war der Aufstieg aus dem Dunkel der Schreiberjurte in das tückische Licht der Macht. Ein falscher Buchstabe dort bedeutete nicht mehr den Schelt eines Vorgesetzten, sondern das Seil der Henker oder die Verbannung in die Minen des Altai.
 
-Nicht für die Kanzlei. Nicht für Töregene. Für die Tote.
+„Ich bin der Diener der Khatun“, sagte er, und seine Stimme klang tiefer, als sie es noch am Morgen getan hatte. „Und die Feder in Eurer Hand, Herrin.“
 
-*An Zahra,*
+„Sei keine Feder“, erwiderte sie hart. „Federn brechen. Sei das Pergament. Das Pergament übersteht die Hand, die darauf schreibt.“
 
-*der Frühjahr kommt, und ich habe heute einen Jungen geprüft.*
+Sie wandte sich ab, als Mas'ud mit einem Korb stinkenden Schafsdungs durch die Tür stolperte, das Gesicht rot vor Kälte und Missgunst. Fatima würdigte den alten Mann keines Blickes. Sie verließ die Kanzlei, den Kopf hoch erhoben, während der Wind ihr die Kälte des Frühjahrs ins Gesicht blies.
 
-*Du hättest ihn mochten, glaube ich. Er zitiert Firdausi, wenn er denkt, dass niemand zuhört, und er hat die Gewohnheit, seine Federn in einer Reihenfolge aufzulegen, die mir sagt, dass ihm jemand Ordnung beigebracht hat, dem er noch heute gehorcht. Das ist entweder Stärke oder Schwäche, und ich weiß noch nicht, welches.*
+***
 
-*Ich habe ihm heute zwei Prüfungen gestellt. Die erste: Ich habe einen Fehler ins Diktat eingebaut. Er hat ihn nicht korrigiert – er hat eine Frage gestellt, die mich den Fehler selbst finden ließ. Du weißt, wie selten das ist. Du hast es nie gelernt, und ich meine das nicht als Vorwurf, ich meine es als Tatsache: Es ist eine Kunst, die die meisten Männer nie lernen, weil sie glauben, dass die Wahrheit ihr Eigentum ist und nicht das des anderen.*
+In der Nacht schwieg das Lager.
 
-*Die zweite: Ich habe ein Blatt liegen lassen. Ob er es gelesen hat, weiß ich nicht. Ich werde es nie wissen. Aber er hat es nicht bewegt, und er hat nicht so getan, als sei er es nicht gewesen, der es beschwert hat. Er hat es einfach getan und dann weitergeschrieben.*
+Nur die Hunde heulten in den Tausendschaften flussabwärts, ein heiserer, klagender Laut, der von den Hängen des Tals widerhallte. In Fatimas Jurte brannte nur eine einzige Schale mit Hammelfett, deren Docht leise knisterte und einen gelblichen Lichtkreis auf den niedrigen Holztisch warf.
 
-*Ich habe zwanzig Jahre überlebt, indem ich Menschen maß, bevor ich sie nutzte. Ich habe Männer gesehen, die klüger waren als dieser Junge, und Männer, die mutiger waren, und Männer, die loyaler waren. Aber ich habe selten einen gesehen, der sich richtig fürchtete.*
+Auf ihren Knien lag das Bündel.
 
-*Er fürchtet sich vor dem Fehler, nicht vor mir.*
+Sie hatte die Seidenschnüre gelöst. Das alte Papier ihres Vaters lag vor ihr, beschrieben mit jener feinen, fast schwebenden Schrift, die sie niemandem am Hof je zeigen durfte. Es war ihr einziger Zufluchtsort. Der einzige Ort auf der weiten, gefrorenen Erde, an dem sie nicht die Schattenkanzlerin war, nicht die Beute aus Naimanenhand, nicht das Werkzeug einer Regentin, die nach der Weltherrschaft griff.
 
-*Das ist der Unterschied. Die meisten fürchten sich vor mir – vor dem, was ich der Regentin sagen könnte, vor dem, was ich über sie weiß, vor dem, was mein Missfallen für ihre Stellung bedeutet. Diese Furcht ist nützlich, aber sie macht Menschen klein. Sie macht sie vorsichtig auf die falsche Weise: Sie achten darauf, was ich sehe, nicht darauf, was sie tun.*
+Sie tunkte die Binsenfeder ein.
 
-*Wer sich vor dem Fehler fürchtet, achtet auf das, was er tut.*
+*Schwester*, schrieb sie.
 
-*Das ist eine Seltenheit, die ich mir nicht leisten kann, zu verschwenden.*
+Die Tinte war blass im Schein der Lampe, fast grau, als scheue sie sich vor der Dunkelheit.
 
-*Ich weiß, was Du fragen würdest, wenn Du noch hier wärst. Du würdest fragen, ob er schön ist, und ich würde sagen, das ist nicht die Frage, und Du würdest lachen und sagen, es ist immer die Frage. Vielleicht. Aber das ist für einen anderen Brief.*
+*Heute habe ich dem Knaben die Briefe des Westens gegeben. Er ist jünger als du warst, als das Feuer über Mashhad kam, und doch trägt er dieselbe Asche in den Augen. Er spricht die Verse unserer Heimat, aber er spricht sie vorsichtig, wie man über ein Moor geht, dessen Eisdecke noch nicht trägt.*
 
-*Heute schreibe ich nur dies: Ich habe einen Kopisten für die Westkorrespondenz gefunden. Und ich habe das Gefühl, das ich habe, wenn ich eine Entscheidung treffe, die ich nicht bereuen werde – ein Gefühl, das ich nicht oft habe und dem ich nicht traue, wenn es zu schnell kommt.*
+Fatima hielt inne. Sie lauschte in die Nacht. Draußen ritten die Wachen vorbei, das dumpfe Pochen der Hufe im halb gefrorenen Schlamm klang wie das Schlagen eines fernen, unerbittlichen Herzens.
 
-*Es kam nicht zu schnell. Ich habe gewartet. Ich habe gemessen.*
+Unter der schweren Seide ihres Kleides spürte sie die Kälte, die niemals ganz aus ihren Knochen wich. Was kostete Vertrauen eine Frau, die nur durch Misstrauen alt geworden war?
 
-*Er hat bestanden.*
+Es kostete alles. Jeden Atemzug. Jeden Gedanken, den man nicht mehr für sich allein behalten konnte.
 
-Sie hielt inne. Die Lampe flackerte, und der Schatten ihrer Hand auf dem Papier bewegte sich wie etwas Lebendiges. Sie betrachtete den letzten Satz einen Moment.
+Sie setzte die Feder wieder an.
 
-Dann schrieb sie darunter, in einer kleineren Schrift, die sie nur für Dinge verwendete, die sie nicht laut denken wollte:
+*Die Männer hier fürchten die Regentin, weil sie das Eisen hat und das Gold. Sie fürchten Güyük, weil sein Zorn blind ist wie der Wintersturm. Aber dieser Junge fürchtet weder das Gold noch das Eisen. Er fürchtet sich richtig: vor dem Fehler, nicht vor mir.*
 
-*Frage: Was kostet es mich, ihm zu vertrauen?*
+Fatima starrte auf die feuchten Zeilen.
 
-*Antwort: Dasselbe wie immer. Alles oder nichts. Es gibt keinen mittleren Preis.*
+Ein Lächeln, bitter und traurig wie der Geschmack von Wermut, zuckte um ihre Mundwinkel. Sie streute keinen Sand auf die Schrift. Sie wartete, bis die Nachtkälte die Tinte getrocknet hatte, langsam, Buchstabe für Buchstabe, ehe sie das Papier zusammenfaltete und es tief in das versiegelte Bündel unter ihrem Lager schob.
 
-Sie legte die Feder hin. Ließ die Tinte trocknen, wie ihr Vater es ihr beigebracht hatte – nie eilen, nie pusten, die Zeit arbeiten lassen. Dann faltete sie das Blatt in der Weise, die sie für diese Briefe immer verwendete: dreimal längs, zweimal quer, bis es so klein war, dass es in die hinterste Kammer des Federetuies passte, dort, wo die alten Briefe lagen, Dutzende davon, alle an dieselbe Adresse, alle unzustellbar.
-
-Sie schloss das Etui.
-
-Draußen war es jetzt dunkel. Der Hammer schwieg. Die Kälte hatte vollständig gesiegt über den kurzen Frühlingsvormittag, und der Schlamm vor der Kanzlei war wieder zu Eis geworden, fest und glatt und unerbittlich. Fatima stand auf, streckte die Schultern und löschte die Lampe.
-
-Die Dunkelheit war willkommen.
-
-Morgen früh, eine Stunde vor den anderen, würde der Junge kommen. Er würde seine Federn in Reihe legen. Er würde schweigen, wenn Schweigen das Richtige war. Er würde fragen, wenn Fragen das Richtige war. Und er würde Briefe kopieren, deren Inhalt er tragen musste wie ein Gewicht, das man nicht ablegen konnte, nur umverteilen.
-
-Fatima kannte dieses Gewicht.
-
-Sie trug es seit zwanzig Jahren.
-
----

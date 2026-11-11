@@ -1,127 +1,96 @@
 ## Zwei Sätze
 
-Die Nacht war kalt und sternenlos, als die Dienerin Fatima weckte.
+Der Griff an ihrer Schulter war lautlos, aber hart wie gefrorenes Holz.
 
-Kein Wort. Nur eine Hand auf der Schulter, ein Druck, der keine Frage duldete. Fatima öffnete die Augen und sah das Mädchen im Licht der erlöschenden Lampe stehen – eine der Stummen, die Töregene um sich versammelt hatte, Mädchen ohne Zunge, die keine Geheimnisse weitertragen konnten.
+Fatima schlug die Augen auf, noch ehe der Schlaf ganz von ihr abgefallen war. Wer in den Ordos der Steppe zwanzig Winter überstanden hatte, brauchte keine Dämmerung, um zu begreifen, was eine Hand im Nacken zur vierten Nachtwache bedeutete. Eine Nachtweckung war kein Dienst. Eine Nachtweckung war ein Urteil, das noch nicht gesprochen war.
 
-Fatima setzte sich auf. Sie fragte nicht. Sie hatte in zwanzig Jahren gelernt, dass Fragen an diesem Hof eine Währung waren, die man nicht verschwenden durfte. Stattdessen stand sie auf, zog den schweren Mantel über die Schultern und band die Filzstiefel fest. Die Dienerin wartete, regungslos, die Lampe in der Hand.
+Über ihr stand eine der stummen Dienerinnen aus dem Gefolge der Khatun, das Gesicht im Schatten der Zeltwand verborgen, die Wangenknochen fahl im matten Schimmer der glimmenden Schafdungasche. Die Magd sprach nicht – sie besaß keine Zunge mehr, seit man sie vor Jahren aus den Trümmern von Gurganj hierher geschleppt hatte –, doch ihr Zeigefinger wies mit schneidender Schärfe zur Filztür.
 
-Nachtweckung hieß an diesem Hof: Gefahr.
+Kälte strömte herein, als Fatima die Decken aus Ziegenhaar zurückschlug. Die Luft im Zelt schmeckte nach altem Rauch, nach Pferdefett und nach jenem bitteren Frost, der im Dezember die Steine des Orchon-Tals zerspringen ließ. Sie griff nach ihren Stiefeln, fuhr mit den Füßen in das weiche, mit Wolle gefütterte Leder und strich mit einer einzigen, geübten Bewegung ihr Kleid glatt. Keine Hektik. Wer stolperte, zeigte Schwäche; wer Fragen stellte, verriet seine Furcht. Am Hof der Khagane war das Beobachten kein Talent, es war das einzige Organ, das zwischen Atem und Strang entschied.
 
-Fatima folgte der Stummen durch die Gänge der Ordu, an den schlafenden Jurten vorbei, an den Wachtfeuern, die in der Kälte zuckten. Der Wind trug den Geruch von Pferdemist und gefrorener Erde, und irgendwo in der Ferne hörte sie das Heulen eines Wolfes. Sie zählte die Schritte. Siebenundvierzig bis zum Vorzelt. Zwölf bis zum inneren Zelt. Die Dienerin blieb stehen, zog den Vorhang zurück und ließ sie allein eintreten.
+Sie trat hinaus in die Nacht. Der Wind über dem Orchon-Tal trug den Duft von Wermut und erstem Schnee, als wollte die Steppe selbst den Atem anhalten. 
 
-Töregene saß auf dem Teppich, die Beine untergeschlagen, den Rücken gerade. Sie trug kein Weiß. Sie trug ein dunkles Gewand, fast schwarz, und ihr Gesicht war unbewegt wie Stein. Vor ihr stand eine Schale mit unberührtem Tee, daneben eine Lampe, deren Flamme flackerte, als der Vorhang fiel.
+In den Gassen zwischen den zahllosen Zelten herrschte jene unheimliche, kriechende Stille, die gefährlicher war als jedes Schlachtengetümmel. Doch Fatimas Augen, an das Halbdunkel gewöhnt wie die einer Katze, sahen die Risse in dieser Ruhe. An den Wegkreuzungen standen Wachen der Leibgarde, die Keshik, in doppelter Mannschaftsstärke. Ihre Bogenhüllen waren geöffnet, die Sehnen gewachst und gespannt, die Spitzen der Lanzen funkelten eisig im Mondlicht. Niemand sprach ein Wort. Die Tore des Ordu waren mit schwerem Holz versperrt, die Riegel vorgeschoben, noch ehe die Hörner den Tag ankündigen konnten.
 
-Fatima blieb stehen. Sie wartete.
+Der Hof wusste noch nichts. Aber die Spinne in der Mitte des Netzes hatte die Fäden bereits gestrafft.
 
-Töregene sah sie an. Einen langen Augenblick, in dem nichts geschah, außer dass der Wind gegen die Zeltwände drückte und die Lampe zischte.
+Vor dem großen Zelt der Khatun wehte das weiße Rosshaar-Banner im Wind, steif gefroren. Die stumme Magd hob die schwere Filzklappe, und Fatima trat über die hölzerne Schwelle – achtsam, ohne das Holz mit den Sohlen zu berühren, denn auf das Treten der Schwelle stand nach dem Gesetz des Gründers der Tod.
 
-Dann sprach sie. Zwei Sätze, gemessen, als hätte sie sie geübt.
+Im Inneren empfing sie die Hitze eines eisernen Kohlenbeckens, gemischt mit dem scharfen, fettigen Geruch von brennendem Schmalz und dem feinen, fast unmerklichen Atem von Moschus. Zwei Dienerinnen knieten mit gesenkten Köpfen am Rand des Teppichs, die Hände reglos in den weiten Ärmeln vergraben, die Körper gespannt wie vor einem Peitschenhieb.
 
-„Mein Mann ist tot.“
+In der Mitte des Zeltes, auf einem niedrigen Thronsitz aus geschnitztem Ulmenholz, saß Töregene.
 
-Fatima spürte, wie die Worte sie trafen, kalt und schwer, wie ein Stein, der ins Wasser fällt. Sie sagte nichts.
+Sie trug kein Trauergewand. Sie trug die schwere, mit Marderfell besetzte Seide einer Herrscherin, die Farbe von dunklem Granatapfelsaft, und auf ihren Knie ruhte das schwere, viereckige Kästchen mit dem Siegel des Großkhans. Dreiundfünfzig Winter hatten ihr Gesicht zu einer Landschaft aus Kalkstein und Härte geformt, doch ihre Augen waren klar, wach und furchterregend ruhig. Sie sah Fatima nicht sofort an. Sie betrachtete ihre eigenen Finger, die langsam über das feine Schnitzwerk des Siegels glitten.
 
-„Sag mir, was du gesehen hast“, fuhr Töregene fort, ihre Stimme ruhig, ohne Zittern. „Und dann vergiss es.“
+„Tritt näher, Tochter des Chorasani“, sagte Töregene. Ihre Stimme klang wie trockenes Schilf, das im Wind aneinanderrieb – ohne jedes Beben, ohne jede Träne.
 
-Fatima atmete einmal tief ein. Sie ließ die Worte in sich wirken, ordnete sie, prüfte sie auf Fallstricke. Der Khan tot. Töregene wusste es – und sie sprach es aus, bevor es offiziell war. Das bedeutete, dass sie schon gehandelt hatte. Dass die Tore gesperrt waren, die Wachen verdoppelt, die Kuriere gestoppt. Dass sie, Fatima, die erste war, die es erfuhr, weil Töregene sie brauchte.
+Fatima trat drei Schritte vor und verneigte sich tief, die Hände flach auf den Knien, den Blick knapp vor den Saum des Herrscherinnenkleides gesenkt. Ihr Herz schlug schwer gegen ihre Rippen, unruhig wie ein Vogel, der gegen das Gebälk einer fremden Halle fliegt, doch ihr Atem blieb gleichmäßig. Nichts fragen. Alles merken.
 
-Aber sie brauchte sie auf eine bestimmte Art.
+„Ich bin hier, Herrin.“
 
-Fatima setzte sich auf den Teppich, Töregene gegenüber, und begann zu sprechen.
+Töregene hob den Kopf. Ihr Blick traf Fatima mit der Wucht eines geschliffenen Steins. Es gab kein Zögern in diesen Augen, kein Suchen nach Halt. Nur den kalten, unerbittlichen Willen einer Frau, die ihr ganzes Leben lang als Kriegsbeute, als Gefäß für Söhne, als Ding im Zelt der Fremden verbracht hatte – und die in dieser Nacht beschlossen hatte, dass sie nie wieder ein Ding sein würde.
 
-„Der Khan trank wie jede Nacht“, sagte sie. „Das Gelage war im großen Zelt, die Generäle waren da, die Söhne, die Schreiber. Er lachte, er aß, er trank. Der Wein floss in Strömen, wie immer. Er rief nach mehr, und ein Diener schenkte nach. Dann –“
+„Mein Mann ist tot“, sagte Töregene. Die Worte fielen schwer und endgültig in den Raum. „Sag mir, was du gesehen hast – und dann vergiss es.“
 
-Sie machte eine Pause. Sie sah Töregene an, deren Augen sie nicht losließen.
+Zwei Sätze. Eine Welt brach entzwei, und eine andere wurde im selben Herzschlag gefordert.
 
-„Dann brach er zusammen. Kein Schrei, kein Stöhnen. Er fiel einfach um, als ob die Knochen ihn plötzlich nicht mehr tragen wollten. Die Ärzte kamen. Sie versuchten, ihn zu beleben, aber es war zu spät. Er war tot, bevor sie ihn auf die Matte legen konnten.“
+Fatima hielt den Blick gesenkt, doch vor ihrem inneren Auge stieg die Szene der vergangenen Nacht auf, scharf und grell wie ein Schnitt ins Fleisch. Das Gelage in der großen Jurte. Der Geruch von gebratenem Hammelfett, das raue Lachen der Fürsten, die dumpfen Schläge der Trommeln. Ögedei Khagan, der Erbe der Welt, der auf seinem Lager lag, das Gesicht aufgedunsen vom Kumis und dem schweren, süßen Wein aus dem Süden. Er hatte gelacht, maßlos wie immer, hatte nach mehr verlangt, immer nach mehr, während die Kanzler am Rand standen und um die Siegel zitterten.
 
-Töregene nickte. Einmal. Langsam.
+Sie sah den Becher wieder vor sich. Groß, schwer, aus getriebenem Gold, besetzt mit verblassten Türkisen, wie die Khane sie aus den Palästen von Samarkand geraubt hatten.
 
-„Der Diener?“
+Fatima sammelte ihre Worte, wog jedes einzelne wie giftiges Pulver auf einer Apothekerwaage.
 
-„Ein junger Mann, aus dem Westen, glaube ich. Einer von den Neuen, die der Khan erst vor wenigen Wochen in den Dienst genommen hatte. Er war verschwunden, als die Ärzte kamen. Niemand hat ihn seitdem gesehen.“
+„Der Großkhan trank, wie er jede Nacht trank, Herrin“, sprach sie leise, und ihre Stimme trug jenen kühlen, fast demütigen Tonfall, den man in den Schreibstuben Chorasans lernte, wo ein falscher Buchstabe den Kopf kostete. „Die Musikanten spielten die Weisen der Kitanen. Ein Diener trat von der linken Seite an sein Lager, kniete nieder und goss aus einem Krug aus gebranntem Ton nach. Der Herrscher der Völker leerte das Gefäß in drei Zügen. Es vergingen kaum fünfzig Herzschläge, da griff er sich an die Kehle. Seine Augen trübten sich, er stürzte vornüber in die Kissen, und der Atem verließ ihn mit einem Laut, wie wenn nasses Holz im Feuer birst.“
 
-Das war wahr. Der Diener war verschwunden. Fatima hatte ihn nicht mehr gesehen, nachdem der Khan gefallen war. Sie hatte ihn auch nicht gesucht.
+Sie schwieg.
 
-Aber sie hatte sein Gesicht wiedererkannt.
+Sie hatte die Wahrheit gesagt. Und sie hatte das Einzige ausgelassen, worauf es ankam.
 
-In dem Moment, als der Khan zusammenbrach, als der Diener den Krug fallen ließ und zurückwich, hatte Fatima ihn angesehen, und etwas in ihr war kalt geworden. Sie kannte dieses Gesicht. Sie hatte es gesehen, vor Jahren, in einer anderen Stadt, in einem anderen Leben. Der Diener war kein Fremder gewesen. Er war jemand, den sie kannte – jemand, der nicht hier sein sollte, nicht in dieser Ordu, nicht in dieser Nacht.
+Sie hatte verschwiegen, dass sie das Gesicht des Dieners gekannt hatte. Sie hatte nicht erwähnt, dass der Mann, der den Tonkrug mit gesenkter Stirn hielt, schmale, fast zarte Schläfen besaß, eine feine Narbe über der rechten Braue und jene lautlose, geschmeidige Haltung, wie man sie nur im Haushalt des Palastes im Süden fand – im Umkreis des Hauses Tolui. Sie hatte den Blick dieses Dieners für den Bruchteil eines Wimpernschlags gestreift, kalt, leer und vollkommen furchtlos, ehe der Mann im Tumult des zusammenbrechenden Hofstaats wie Rauch durch die Zeltwand verschwunden war.
 
-Sie sagte es nicht.
+Fatima sprach diesen Namen nicht aus. Sie hielt ihn tief in ihrer Brust verschlossen, dorthin verbannt, wo auch die Schreie ihrer sterbenden Schwester und der Ascheregen von Mashhad lagen. Wissen war Gift; geteiltes Wissen war der Galgen.
 
-Sie ließ die Lücke stehen, wie eine offene Tür, durch die niemand gehen musste.
+Töregene rührte sich nicht. Das Zelt war so still, dass das Knistern der Kohlen im Becken wie das Brechen von Knochen klang. Die Regentin saß da, den Kopf leicht geneigt, und musterte Fatima.
 
-Töregene sah sie an. Der Blick dauerte länger als nötig. Fatima hielt ihn aus, ohne zu blinzeln, ohne den Kopf zu senken. Sie hatte gelernt, dass Schweigen manchmal die beste Antwort war, besonders wenn man nicht wusste, ob die Wahrheit töten würde.
+Sekunden dehnten sich. Ein Atemzug. Noch einer.
 
-Die Regentin sagte nichts. Sie drückte nicht nach. Aber in ihren Augen lag etwas – eine Ahnung, ein Wissen, das sie nicht aussprach. Sie wusste, dass Fatima etwas ausließ. Sie wusste es, und sie entschied, nicht zu fragen.
+Töregene hörte die Lücke.
 
-Fatima fragte sich, warum.
+Es war kein lautes Misstrauen, das die Luft zwischen ihnen schwer machte. Es war die uralte, grausame Intuition von Frauen, die in Zelten voll bewaffneter Männer überlebt hatten. Töregene wusste, wie eine vollständige Geschichte klang; und sie wusste, wie eine Geschichte klang, an deren Rändern sorgfältig geschabt worden war, um die schärfsten Kanten zu glätten. Ihre Augen verengten sich um ein Winziges, ein Schatten glitt über ihre Wangen, als würde sie die Konturen des Ungesagten mit den Fingerspitzen nachzeichnen.
 
-Vielleicht, weil Töregene die Antwort nicht hören wollte. Vielleicht, weil sie sie schon kannte. Vielleicht, weil es in diesem Moment nicht um die Wahrheit ging, sondern um die Kontrolle darüber, wer sie wann erfuhr.
+Sie drückte nicht nach. Sie verlangte keinen Namen. Wer an diesem Hof zu früh nach Namen fragte, zwang den anderen zum Schwur – oder zum Dolch.
 
-Töregene erhob sich. Ihre Bewegungen waren präzise, jede Handlung ein Befehl.
+Stattdessen hob Töregene die Hand, eine Geste, trocken und schneidend wie der Steppenwind.
 
-„Die Tore bleiben geschlossen“, sagte sie. „Niemand verlässt den Ordu, bis ich es sage. Die Kuriere werden angehalten, die Briefe gesammelt. Bei Tageslicht versiegelst du die Kanzleien – alle Papiere, die den Khan betreffen, kommen in meine Truhe. Niemand öffnet sie ohne mein Siegel.“
+„Das Reich wird nicht trauern, solange die Wölfe wittern, dass der Leitwolf fehlt“, sagte die Herrin, und ihre Stimme schnitt durch den Raum wie eine Klinge durch Filz. „Niemand verlässt den Ordu. Kein Bote, kein Pferdepfleger, kein Fürst. Wenn ein Reiter versucht, die Poststationen nach Westen zu erreichen, lasst ihm die Sehnen an den Fersen durchtrennen. Noch vor dem ersten Sonnenstrahl lässt du die Kanzlei der Schreiber versiegeln. Chinqais Kisten, die Urkunden der Steuern, die Register der Heere – alles kommt unter meine Wache. Shigi Qutuqu mag das Gesetzbuch hüten, aber die Siegel liegen hier.“ Sie schlug mit der flachen Hand auf das Kästchen auf ihren Knien. Ein dumpfer, hohler Laut. „Und du, Fatima.“
 
-Fatima nickte. Sie stand auf, bereit zu gehen.
+„Herrin?“
 
-„Und die Küche“, fügte Töregene hinzu, ihre Stimme plötzlich leiser, fast zärtlich. „Beruhige die Küche. Die Köche werden reden, die Diener werden flüstern. Sag ihnen, der Khan sei friedlich gestorben, im Schlaf, an Altersschwäche. Sag ihnen, es gäbe nichts zu fürchten. Sag ihnen, sie sollen schweigen, oder ich werde sie schweigen lassen.“
+„Geh in die Küchen. Sprich mit den Vorstehern, mit den Fleischern, mit den Knaben, die das Wasser vom Fluss schleppen. Sieh ihnen in die Augen. Beruhige sie. Wenn einer zittert, bring ihn zum Schweigen. Wenn einer flüstern will, schneide ihm den Lohn ab – oder die Kehle, wenn Worte daraus werden. Die Herde darf nicht wissen, dass der Zaun niedergetrampelt ist, ehe mein Sohn Güyük den Bogen in der Hand hält.“
 
-Fatima verstand. Die Küche war der Ort, an dem Gerüchte geboren wurden, wo sie wuchsen und sich ausbreiteten wie Feuer im trockenen Gras. Wenn man die Küche kontrollierte, kontrollierte man die Erzählung.
+„Ich werde tun, wie Ihr befehlt“, erwiderte Fatima sanft.
 
-„Ich werde es tun“, sagte sie.
+In diesem Augenblick regte sich die stumme Dienerin im Schatten. Mit gebeugtem Rücken und tastenden Schritten trat sie an den Thronsitz heran. In ihren Händen trug sie ein schweres Tuch aus gebleichtem Leinen, sorgsam um einen Gegenstand geschlagen, dessen Umrisse Fatima nur allzu vertraut waren.
 
-Töregene trat an eine Truhe, die in der Ecke des Zeltes stand, und öffnete sie. Sie nahm etwas heraus – einen Gegenstand, der im Lampenlicht aufblitzte. Gold. Ein Becher, breit und schwer, mit eingelegten Steinen, die das Licht brachen.
+Töregene schlug das Tuch zurück.
 
-Der goldene Becher des Abends.
+Das matte Gold des Bechers fing den Schein der Glut ein. An seinem Rand klebte noch ein klebriger, dunkler Rest von süßem Wein und getrocknetem Schaum, unberührt, wie er aus den steifen Fingern des toten Khagan gerissen worden war.
 
-Fatima erkannte ihn. Sie hatte gesehen, wie der Khan daraus getrunken hatte, in der Nacht, in der er starb. Sie hatte gesehen, wie der Diener ihn nachgeschenkt hatte, mit Wein, der vielleicht mehr war als Wein.
+Töregene sah das Gefäß an. Für einen flüchtigen, fast schmerzhaften Herzschlag verlor ihr Gesicht die kaiserliche Härte. Ihre Züge wurden seltsam weich, beinahe zärtlich, als betrachte sie das Spielzeug eines Kindes, das im Schlaf gestorben war. Sie streckte die Hand aus und berührte das kalte Metall mit den Fingerspitzen, fuhr sanft über die Wölbung, tastete nach den rohen Fassungen der Türkise. Dreißig Jahre lang hatte dieser Mann über ihren Körper verfügt, hatte sie als Beute genommen, als Frau behalten, als Mutter seiner Erben geduldet. Nun lag er kalt in seiner Seide, und alles, was von seinem Willen geblieben war, passte in ein Hohlmaß aus Gold.
 
-Töregene hielt den Becher in den Händen, drehte ihn, als ob sie sein Gewicht prüfte. Dann stellte sie ihn in die Truhe, vorsichtig, fast zärtlich, und schloss den Deckel.
+Sie sagte kein Wort. Sie gab keine Erklärung.
 
-Kein Kommentar. Keine Erklärung.
+Mit einer langsamen, bedächtigen Bewegung öffnete Töregene eine schwere, mit Eisenbändern beschlagene Truhe, die neben ihrem Lager stand. Sie hob den goldenen Becher hinein, bettete ihn zwischen Pelze und kostbare Seidenballen, klappte den Deckel zu und ließ das schwere Vorhängeschloss einrasten.
 
-Fatima sah zu, und sie fragte nicht.
+Das Eisen schnappte zu. Der Klang hallte im Zelt nach wie ein Grabgesang.
 
-Die Regentin wandte sich um. Ihr Gesicht war unbewegt, aber ihre Augen waren wach, hellwach, als ob sie in dieser Nacht nicht schlafen würde.
+„Geh jetzt“, sagte Töregene, ohne aufzublicken. „Die Nacht ist fast vorbei.“
 
-„Geh“, sagte Töregene. „Tu, was ich gesagt habe. Und vergiss nicht – du hast nichts gesehen. Du hast nichts gehört. Du weißt nichts.“
+Fatima verneigte sich bis zur Erde, strich mit den Fingerspitzen über den Teppich und wich rückwärts zur Filztür, den Blick unverwandt auf die Frau gerichtet, die soeben das Weltreich an sich gerissen hatte.
 
-Fatima verbeugte sich und trat hinaus in die Kälte.
+Draußen schlug die Kälte wieder nach ihr, gierig und rein. Der Himmel über den fernen Hügeln färbte sich im Osten bereits in einem schmutzigen, bläulichen Grau, der Farbe von Blei und altem Eis. Am Horizont zeichneten sich die schwarzen Silhouetten der Jurten gegen die Dämmerung ab, endlos und stumm, ein Meer aus Filz, das noch nicht ahnte, dass sein Herrscher tot war.
 
-Der Wind war stärker geworden, und die Sterne waren hinter Wolken verschwunden. Sie ging durch die Gänge der Ordu, an den schlafenden Jurten vorbei, an den Wachen, die sie mit misstrauischen Blicken verfolgten. Sie spürte die Kälte nicht. Sie spürte nur das Gewicht dessen, was sie wusste, und das Gewicht dessen, was sie verschwiegen hatte.
+Fatima zog den Mantel enger um die Schultern und presste die Hände unter den Pelz, wo ihre Finger gegen das Holz des alten Federetuis ihres Vaters stießen. 
 
-Der Diener.
+Sie hatte geschwiegen. Zum ersten Mal, seit sie den Boden dieses Reiches betreten hatte, hatte sie ein Geheimnis nicht zur Herrin getragen, sondern in sich selbst vergraben. Und während sie den Weg zu den Küchen einschlug, vorbei an den schweigenden Reitern und den verriegelten Toren des Lagers, wusste sie mit einer eisigen, unerbittlichen Gewissheit, dass dieses Schweigen erst der Anfang war.
 
-Sein Gesicht.
-
-Sie hatte es wiedererkannt, in dem Moment, als der Khan fiel. Es war das Gesicht eines Mannes, den sie vor Jahren gesehen hatte, in Chorasan, in einer Stadt, die nicht mehr stand. Ein Gesicht, das sie mit einer anderen Zeit verband, mit einem anderen Leben, mit einer Schwester, die tot war.
-
-Warum war er hier?
-
-Warum hatte er dem Khan den Wein nachgeschenkt?
-
-Sie wusste es nicht. Aber sie wusste, dass sie es nicht sagen durfte. Nicht heute Nacht. Vielleicht nie.
-
-Sie erreichte ihr Zelt, schob den Vorhang beiseite und trat ein. Die Lampe war erloschen, aber sie brauchte kein Licht. Sie kannte jeden Gegenstand in diesem Raum, jede Matte, jeden Krug, jeden Stapel Papier. Sie setzte sich auf den Teppich, zog die Knie an die Brust und starrte in die Dunkelheit.
-
-Zum ersten Mal in diesem Buch hatte sie geschwiegen.
-
-Sie wusste, dass es nicht das letzte Mal war.
-
-Draußen heulte der Wind, und die Nacht war lang, und irgendwo in der Ordu wachte eine Frau über einen goldenen Becher, der mehr wusste, als sie sagte.
-
-Fatima schloss die Augen.
-
-Sie dachte an den Diener.
-
-Sie dachte an das Gesicht, das sie erkannt hatte.
-
-Und sie fragte sich, ob Töregene wusste, was sie wusste – oder ob sie nur ahnte, dass es etwas gab, das sie nicht wusste.
-
-Die Antwort lag in der Dunkelheit, unausgesprochen, unberührt.
-
-Fatima wartete auf den Morgen.
-
----

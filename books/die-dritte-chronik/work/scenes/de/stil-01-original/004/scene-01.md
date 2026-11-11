@@ -1,155 +1,130 @@
 ## Sein Herz
 
-Shigi Qutuqu erwachte, bevor die Hähne krähten.
+Der Wind über dem Orchon-Tal trug den Duft von Wermut und erstem Schnee, als wollte die Steppe selbst den Atem anhalten.
 
-Es war eine Gewohnheit, älter als sein Amt, älter als der Hof, älter als fast alles in seinem Leben. Er stand auf, wusch sich das Gesicht in der Schale aus grauem Stein und zog die Robe des Richters an – dunkelblau, fast schwarz, mit weißen Bordüren an den Ärmeln. Die Farbe des Urteilsbuchs. Die Farbe des Gesetzes.
+Shigi Qutuqu ging mit schweren, bedächtigen Schritten durch die Reifgassen des Ordu. Er war einundfünfzig Jahre alt, und seine Knie spürten die Kälte lange vor den Vögeln. Unter dem weiten Mantel aus schwerem Marderpelz drückte die hölzerne Lade gegen seine Rippen, vertraut wie eine alte Rippenprellung: das blau-weiße Buch, die Register der Urteile, gebunden in das feste Leder von Ziegen, die auf Weiden gegrast hatten, an deren Namen sich niemand mehr erinnerte. Auf dem Rücken des Bandes war die weiße Schnur mit blauem Faden durchwirkt – die Farben des Ewigen Himmels und der Gesetze, die der Große Ahnherr einst diktiert hatte.
 
-Sein Diener brachte Tee, und er trank ihn schweigend, während das erste Licht durch die Filzwände seines Zeltes sickerte. Draußen hörte er die Geräusche der Ordu: Hufschlag auf festgetretenem Boden, das Rufen der Wachen, das Knarren von Wagenrädern. Ein Tag wie jeder andere.
+„Ein Gesetz, das man biegt, ist kein Weidenzweig“, hatte Temüjin zu ihm gesagt, damals, als der Staub von Samarkand noch in ihren Bärten gehangen hatte. „Es ist ein Knochen. Wenn du ihn biegst, splittert er.“
 
-Aber es war kein Tag wie jeder andere.
+Shigi berührte die Lade mit den Fingerspitzen durch das Tuch. Splitter heilten nicht.
 
-Der Khan war tot.
+Zwei Krieger der Khasag-Wache standen vor der hohen Filztür des khaganischen Gemachs, die Schaftstiefel tief in den gefrorenen Lehm gestemmt. Sie senkten ihre Lanzen nicht, aber ihre Blicke wichen zur Seite aus, als er herantrat. Sie kannten ihn seit dreißig Jahren. Er war das Waisenkind mit den tatarischen Zügen, das Hö'elün aus dem zertretenen Schilf geholt und an die Brust gelegt hatte; der Knabe, den sie die mongolischen Worte lehrten, während seine eigene Sprache wie Ruß im Steppenwind verflog. Er war der Bruder, der kein Erbe besaß, der Fremde, dem man die Waage anvertraut hatte, weil er kein eigenes Zeltvolk ins Feld führen konnte.
 
-Shigi stellte die Schale ab und griff nach dem blau-weißen Buch, das auf dem niedrigen Tisch neben seiner Matte lag. Es war schwer, gebunden in Leder, die Seiten aus dickem, grobem Papier. Das Urteilsbuch des obersten Richters des Weltreichs. Jeder Spruch, den er gefällt hatte, war hier verzeichnet. Jede Entscheidung, jede Berufung, jede Hinrichtung.
+Er trat über die Schwelle.
 
-Er öffnete es nicht. Er legte nur die Hand auf den Deckel, spürte die Kühle des Leders, die raue Textur der Naht. Dann stand er auf.
+Der Geruch schlug ihm sofort entgegen: kein Ausdünsten eines soeben entwichenen Geistes, nicht der säuerliche Dunst von Schweiß, Erbrochenem oder Agonie, wie er ihn aus hundert Feldlagern kannte. Es roch nach Rosenwasser, nach Schafsfettseife und nach dem dumpfen, feuchten Qualm von Wacholder, den jemand in bronzenen Becken verbrannt hatte, um die Luft reinzuwaschen.
 
-Die Nachricht war in der Nacht gekommen. Ein Diener der Regentin: *Der Richter wird gebeten, zur amtlichen Feststellung des Todes in das Zelt des Khagan zu kommen.* Keine Eile. Keine Dringlichkeit. Ein Höflichkeitsbesuch.
+Der Raum war bereits fertig.
 
-Shigi wusste besser.
+Auf der breiten Lagerstatt lag Ögedei Khagan. Der mächtige Rumpf, der noch gestern die Erde erzittern ließ, wenn er lachend nach einem Schenkel Hammel griff, war gehüllt in makellose, ungebleichte Seide aus den Werkstätten von Choresmien. Die Decken waren bis zur Brust heraufgezogen, glattgestrichen ohne eine einzige Falte. Das breite Gesicht des Herrschers, einst gerötet von Kumis, Wein und Sonne, schimmerte wächsern. Die Hände lagen ordentlich übereinander über dem Gürtel, die kräftigen Fingernägel gesäubert, fast weiß geschabt.
 
-Er verließ das Zelt und ging durch die schmalen Gänge zwischen den Jurten. Der Himmel war bleich, die Luft kalt. Er konnte seinen Atem sehen. Die Ordu war stiller als sonst, gedämpft, als ob selbst der Wind den Respekt vor dem Toten gewahrt hätte. Aber unter der Stille spürte er die Spannung. Blicke, die ihm folgten, dann schnell wegzuckten. Hände, die sich in Ärmeln versteckten.
+Keine Hofärzte. Kein Kanzler Chinqai mit den Pinseln der Protokollführer. Kein nestorianischer Priester mit dem Rauchfass, kein Schamane, der auf dem Boden hockte und die Knochen warf.
 
-Das Zelt des Khans stand abseits, größer als alle anderen, mit weißen Filzdecken und goldenen Schnüren. Die Wachen salutierten, als er näher kam, und einer von ihnen, ein junger Mann mit vernarbtem Gesicht, trat zur Seite, um den Eingang freizugeben.
+Nur drei Menschen standen im Halbdunkel des Zeltes.
 
-„Der Hofarzt ist schon drinnen, Exzellenz“, sagte der Wächter.
+An den hölzernen Pfeilern zwei stumme Leibwächter, die Hände auf den Griffen ihrer Säbel, die Augen reglos auf den Boden geheftet. Und zu Füßen des Lagers, halb im Schatten des großen Filzbehangs: Töregene Khatun.
 
-Shigi nickte. Er wusste, dass es nicht stimmte.
+Sie trug die hohe Boghtag-Haube der naimanischen Fürstinnen, deren Pfauenfedern fast das Dachgestänge berührten, und einen einfachen, ungekürzten Trauermantel aus dunkler Wolle. Ihre Hände lagen ruhig vor dem Leib, reglos wie Steine im Fluss. Neben ihr, um einen halben Schritt zurückgesetzt, stand Fatima, die Perserin. Shigi kannte das Mädchen – nein, die Frau; sie zählte gewiss auch schon sechsunddreißig Winter. Fatima hielt den Kopf gesenkt, doch ihre Lider waren nicht ganz geschlossen. Durch den feinen Spalt ihrer Wimpern beobachtete sie den Boden vor Shigis Stiefeln, als läge dort eine Fährte.
 
-Er trat ein.
+Shigi blieb stehen. Seine Knie knirschten leise.
 
-Das Zelt war weit, geräumig, mit Teppichen ausgelegt, die aus dem Westen stammten – weich, bunt, mit Mustern, die an Gärten erinnerten. An der Wand hingen Waffen, erbeutete Banner, ein goldener Becher. In der Mitte, auf einer niedrigen Plattform unter einem Baldachin aus Seide, lag der Leichnam des Khagan.
+„Du kommst spät, Jarghuchi“, sagte Töregene. Ihre Stimme war nicht laut, aber sie besaß die trockene Härte von gefrorenem Leder.
 
-Ögedei war gewaschen worden.
+„Das Eis auf den Wegen bricht leicht unter den Hufen, Herrin“, erwiderte Shigi. Er neigte den Kopf, tief genug für die Sitte, nicht tief genug für Unterwerfung. „Ich hörte den Ruf erst beim zweiten Hahnenschrei.“
 
-Das war das erste, was Shigi auffiel. Der Leichnam war in ein weißes Tuch gehüllt, die Hände auf der Brust gefaltet, das Gesicht bedeckt. Die Ärzte waren nicht da. Stattdessen standen zwei Leichenwäscher an der Seite, die Hände gefaltet, die Köpfe gesenkt. Sie sahen aus, als warteten sie.
+„Der Khagan brauchte keine Eile mehr.“ Sie deutete mit einer kaum merklichen Bewegung des Kinns auf das Bett. „Er schläft den langen Schlaf.“
 
-Und Töregene saß auf einem Kissen am Kopfende der Plattform.
+Shigi trat näher an die Lagerstatt heran. Seine Augen, geübt darin, die Wahrheit aus den Winkeln eines Gesichts zu lesen, suchten die Haut des Toten ab. Die Lippen waren blass, doch um den Rand der Mundwinkel lag ein matter, bläulicher Schatten, kaum breiter als ein Nadelstich. Die Halshaut war straff gewaschen, aber hinter dem linken Ohrläppchen schimmerte ein feiner, rötlicher Hof, wie ihn getrocknetes Blut hinterlässt, das man mit Eile und kaltem Wasser abgerieben hat.
 
-Sie trug ein einfaches Gewand, grau, ohne Schmuck, und ihr Gesicht war ruhig. Sie sah Shigi an, als er eintrat, und nickte leicht. „Richter. Tritt näher.“
+Er streckte die Hand aus, um die Seide zurückzuschlagen und die Brust zu berühren.
 
-Er trat näher. Seine Schritte waren leise auf den Teppichen, aber er hörte sie trotzdem. Jeder Schritt war eine Ankündigung.
+„Rühre ihn nicht an“, sagte Töregene.
 
-„Der Khan ist in der Nacht gestorben“, sagte Töregene. Ihre Stimme war leise, aber klar, ohne Trauer, ohne Zittern. „Die Ärzte sagen, es sei sein Herz gewesen. Ein Versagen. Plötzlich, ohne Vorwarnung.“
+Shigis Hand verharrte zwei Daumenbreiten über dem Stoff. Er blickte nicht auf. Er spürte die Kälte, die von dem toten Fleisch aufstieg. Unter der Seide war keine Wärme mehr, nicht einmal der Rest, den ein menschlicher Körper noch Stunden nach dem letzten Atemzug hütet. Dieser Mann war nicht vor einer Stunde gestorben. Er war in der Tiefe der Nacht gestorben, als das Lager schlief.
 
-Shigi blieb stehen. Er sah den Leichnam an, das weiße Tuch, die gefalteten Hände. Er konnte das Gesicht nicht sehen, aber er brauchte es nicht. Er sah die Hände. Sie waren sauber, die Nägel geschnitten, die Finger gerade. Die Hände eines Mannes, der friedlich gestorben war.
+„Das Gesetz verlangt den Augenschein, Khatun“, sagte Shigi ruhig. „Seit den Tagen von Deligün Boldoq stellt der Jarghuchi fest, wie der Faden zerriss. Damit kein Makel auf den Erben fällt. Damit das Volk weiß, wem die Klage gilt.“
 
-Aber der Khan war nicht friedlich gestorben. Das wusste er.
+„Es gibt keine Klage“, sagte sie.
 
-Er sah Töregene an. Sie sah zurück, ohne Hast, ohne Eile. Sie wartete.
+Das Zelt schien enger zu werden. Der Rauch des Wacholders kratzte in Shigis Kehle, bitter und scharf. Er zog seine Hand langsam zurück und wandte sich um.
 
-„Ich muss den Leichnam untersuchen“, sagte Shigi.
+Töregene sah ihn an. Da war keine Trauer in ihren Zügen, aber auch kein Triumph. Es war der Blick einer Hirtin, die vor dem Schneesturm die Hürden schließt und genau weiß, wie viele Lämmer die Nacht nicht überstehen werden. Sie wusste, wer er war. Sie wusste, dass er kein Blut der goldenen Sippe in sich trug, dass seine Macht allein aus dem Respekt vor dem Wort des toten Gründers stammte.
 
-„Er ist gewaschen worden“, sagte Töregene. „Nach den Gebräuchen. Die Seele verlässt den Körper in Reinheit. Es wäre unpassend, ihn zu stören.“
-
-„Der Brauch verlangt auch, dass der Richter die Todesursache bestätigt, bevor der Leichnam bewegt wird“, sagte Shigi. Seine Stimme war ruhig, aber fest. „Der Leichnam wurde bewegt, bevor ich gerufen wurde. Die Wäscher waren hier, bevor der Richter den Raum betrat. Das ist nicht der Brauch.“
-
-Stille. Das Zelt war so still, dass er das Atmen der Wäscher hören konnte, das Knistern der Lampe, das ferne Rauschen des Windes.
-
-Töregene neigte den Kopf, eine winzige Bewegung, fast nicht zu sehen. „Die Lage ist ungewöhnlich“, sagte sie. „Der Khan starb bei einem Gelage. Es gibt Gerüchte. Du weißt, wie Gerüchte sind. Sie nähren sich von dem, was sie nicht sehen. Wenn der Leichnam untersucht wird, wenn der Richter die Todesursache feststellt, dann haben die Gerüchte keine Nahrung mehr. Sie verdorren. Sie sterben.“
-
-„Und wenn die Untersuchung etwas anderes ergibt?“
-
-„Das wird sie nicht.“ Töregene sah ihn an, und in ihren Augen war etwas, das er nicht deuten konnte. Keine Drohung. Keine Bitte. Eine Feststellung. „Die Ärzte haben festgestellt, dass es sein Herz war. Sie sind bereit, das zu beschwören. Die Wäscher haben den Leichnam nach dem Brauch behandelt. Der Richter bestätigt nur, was alle wissen. Das ist dein Amt, Richter. Du bestätigst, was alle wissen. Du schreibst es auf. Du machst es wahr durch dein Siegel.“
+„Die Schalen waren leer“, sprach Töregene, und jedes Wort fiel wie ein Eisbrocken in die Stille. „Die Nächte der Jagd waren lang. Sein Fleisch war müde vom Reiten, sein Geist erschöpft von den Sorgen um die vier Weltgegenden. Sein Herz.“
 
 Shigi schwieg.
 
-Er stand vor der Plattform, und er dachte an die Jahre, die er im Dienst der Familie verbracht hatte. An Dschingis Khan, der ihn aus dem zerstörten Lager der Tataren geholt hatte, ihn zum Sohn gemacht hatte, ihm das Lesen beigebracht, das Schreiben, das Urteilen. Er dachte an Hö'elün, die alte Frau, die ihn angenommen hatte, ihn gewärmt, ihn erzogen. Er dachte an die Jahre des Krieges, der Eroberung, der Gründung. Er dachte an den Eid, den er geschworen hatte: das Gesetz zu wahren, die Gerechtigkeit zu schützen, die Wahrheit zu bezeugen.
+Er ließ das Schweigen wachsen. Es dehnte sich aus zwischen den bestickten Filzwänden, kroch über den gewaschenen Leichnam, strich an den reglosen Wächtern vorbei. Er schwieg so lange, dass man das ferne Knarren eines Wagens auf der Lagerstraße hören konnte, das dumpfe Stampfen eines Pferdes im Schnee, das leise, fast unmerkliche Rascheln von Fatimas Seidenärmel, als sie für den Bruchteil eines Herzschlags die Finger aneinanderrieb.
 
-Aber die Wahrheit war nicht das, was er sah. Die Wahrheit war das, was man ihm sagte.
+Er schwieg, damit sie alle wussten: Er hatte verstanden.
 
-Er hob den Blick und sah Töregene an. Ihre Augen waren ruhig, aber er sah die Spannung darin, die winzige Falte zwischen ihren Brauen, die Art, wie ihre Finger auf dem Kissen lagen – nicht entspannt, nicht bereit, sondern wartend.
+Hier wurde kein Tod festgestellt. Hier wurde eine Herrschaft gezimmert. Wer das Ende des Khagans benannte, bestimmte den Anfang des nächsten. Wenn es Gift war, schrien die Ordos nach Rache, die Prinzen ritten gegeneinander, und der Kurultai würde im Blut ertrinken, noch ehe die Boten die Wolga erreicht hatten. Wenn es sein Herz war, gehörte die Jurte der Witwe.
 
-Sie testete ihn.
+„Sein Herz“, wiederholte Shigi. Es war keine Frage. Es war ein Grabstein.
 
-Das war der Augenblick. Er wusste es. Wenn er jetzt widersprach, wenn er auf der Untersuchung bestand, wenn er das Gesetz über den Willen der Regentin stellte, dann würde er den Raum als Feind verlassen. Vielleicht nicht heute. Vielleicht nicht morgen. Aber irgendwann.
+„So steht es“, sagte Töregene. „Und so wird es gesiegelt.“
 
-Und wenn er schwieg, wenn er tat, was sie verlangte, dann würde er das Gesetz verraten. Ein kleines Mal. Ein winziges Mal. Aber ein Mal.
+Shigi atmete durch die Nase ein. Er schmeckte den Wacholder, die Seife und darunter, ganz schwach, wie der Hauch von faulendem Obst auf feuchtem Moos, eine Ahnung von bitterem Holz. Bittere Mandeln. Er kannte diesen Geruch aus den Feldzügen im Westen, aus den Palästen der Kitanen, wo die Höflinge den Tod im Ärmel trugen.
 
-Er dachte an das blau-weiße Buch. An die Urteile, die er gefällt hatte. An die Jahre des Aufbaus, der Ordnung, des Rechts.
+Er kniete nieder. Seine Gelenke schmerzten. Er zog die kleine Holzbank heran, die für die Schreiber bereitstand, öffnete die Riemen der Lade und hob das blau-weiße Buch heraus. Das Papier war dick, geschöpft aus Hanf und Maulbeerbast, unerbittlich weiß gegen das Dämmerlicht.
 
-Er sagte: „Der Khan starb an seinem Herzen. Das ist die offizielle Todesursache. Ich werde sie beglaubigen.“
+Fatima trat lautlos heran. Sie trug ein flaches Schreibpult aus dunklem Kirschholz, auf dem ein Schälchen mit frisch geriebener Tusche und zwei geschnittene Rohrfedern lagen. Sie blickte ihn nicht an, als sie das Pult vor ihm abstellte, doch ihre Hand zitterte nicht. Nicht um Haaresbreite.
 
-Töregene nickte. Keine Bewegung in ihrem Gesicht. Kein Lächeln, keine Erleichterung. Ein Nicken, das alles und nichts bedeutete.
+Shigi nahm das Rohr. Die Spitze war scharf, geschnitten nach persischer Art, sauber gespalten.
 
-Shigi trat an den Tisch, der an der Seite des Zeltes stand. Ein Diener brachte Tinte und Pinsel. Er öffnete das blau-weiße Buch, schlug die leere Seite auf, und schrieb.
+Er tauchte die Feder ein. Er dachte an Hö'elün, die alte Mutter, wie sie am Ufer des Onon gesessen und ihm die tatarischen Knoten aus dem Haar gekämmt hatte, mit Händen, die nach Flusswasser und Rauch rochen. *„Lerne die Zeichen, mein Sohn“,* hatte sie gesagt. *„Die Schwerter rosten in der Erde, aber was einmal auf das weiße Tuch gemalt ist, wandert von Mund zu Mund, bis die Welt vergeht.“*
 
-*Der große Khagan, der Beschützer des Throns, der Herr der Welten, starb im Jahr des Stiers, im Monat des Frosts, am zwölften Tag des abnehmenden Mondes. Die Ärzte des Hofes stellten fest: sein Herz. Der Richter bestätigt: sein Herz.*
+Er setzte die Feder auf das amtliche Blatt. Seine Schrift war die der Uiguren, senkrecht, fließend wie ein gezäumter Bach, streng und ohne Schnörkel.
 
-Er schrieb es auf. Die Worte waren klar, präzise, die Schrift sauber. Seine Hand zitterte nicht.
+*Im Jahr des Rindes, im ersten Wintermonat, schied der Khagan Ögedei aus dem Fleisch. Sein Herz hielt an.*
 
-Aber er dachte an die Hände des Khans, die sauberen Finger, die Art, wie sie auf der Brust lagen, als ob sie nie etwas gehalten hätten, nie etwas ergriffen, nie etwas getan.
+Die Tinte war schwarz und feucht. Sie glänzte wie Teer.
 
-Er dachte an den Diener, der verschwunden war.
+Shigi hielt inne. Er legte die Feder nicht ab. Er blies nicht über die Schrift. Stattdessen schlug er das Blatt nicht um, sondern zog aus dem doppelten Boden seiner Lade ein zweites, schmaleres Buch hervor – kein prunkvoller Band, sondern einfache, mit Rohleder geheftete Lagen, abgegriffen an den Rändern, gefüllt mit jener winzigen, gedrängten Schrift, die er seit dreißig Jahren nur für sich selbst verwendete.
 
-Er setzte sein Siegel unter den Eintrag. Das Wachs war warm, die Prägung klar: das Siegel des Oberrichters, das Symbol der Gerechtigkeit, das Zeichen des Gesetzes.
+Töregene trat einen Schritt näher. Die Federn ihrer Haube schwankten leise im Zugwind der Tür.
 
-„Es ist beglaubigt“, sagte er. Seine Stimme klang fremd in seinen eigenen Ohren.
+Shigi sah sie nicht an. Er tauchte die Feder erneut ein.
 
-Töregene stand auf. Sie trat an den Tisch, nahm das Buch, las den Eintrag. Ihre Augen glitten über die Zeilen. Sie nickte wieder. „Danke, Richter. Der Khan wird morgen bestattet. Du wirst gebeten, bei der Zeremonie anwesend zu sein.“
+Am Rand des persönlichen Blattes, exakt auf der Höhe der Zeile, die das offizielle Siegel tragen würde, begann er zu schreiben. Die Feder kratzte gleichmäßig über das raue Bastpapier.
 
-„Ich werde da sein“, sagte Shigi.
+*Vierte Nachtwache. Die Kälte steht bei zwei Daumenbreiten Frost. Der Leichnam ist gewaschen, die Lippen gereinigt, die Ärzte nicht zugegen. Anwesend im Zelt: Töregene Khatun von den Naimanen. Fatima, die Schreiberin aus Chorasan. Zwei Krieger der Khasag, deren Namen ich kenne: Temür vom Clan der Baarin, Borchu vom Clan der Urianchai. Sie sagen: sein Herz.*
 
-Töregene hielt einen Moment inne, als ob sie etwas sagen wollte, aber dann ließ sie es. Sie wandte sich ab und ging zurück zu ihrem Platz am Kopfende der Plattform.
+Er strich nicht durch, was er geschrieben hatte. Er fügte kein Urteil an. Er schrieb nur die Stunde. Er schrieb die Kälte. Er schrieb die Namen.
 
-Shigi nahm das Buch, schloss es, trat zurück. Die Wäscher verneigten sich. Die Diener öffneten den Eingang. Er ging hinaus, und die kalte Luft schlug ihm ins Gesicht, und der Himmel war grau, und die Welt war still.
+Als er den letzten Punkt setzte, verharrte die Spitze der Feder einen Herzschlag lang auf dem Papier, ein kleiner, dunkler Krater im Weiß.
 
-Er ging zurück zu seinem Zelt.
+Töregene stand direkt neben ihm. Ihr Blick fiel hinab auf das schmale Buch, auf die engen Kolonnen der uigurischen Zeichen, die sie zu lesen verstand. Sie schwieg. Ihr Gesicht blieb starr, doch ihre Augen verengten sich um einen winzigen Spalt. Sie sah die Marginalie. Sie sah die Zeugen. Sie sah die Falle, die kein Strick war, sondern eine Erinnerung, festgehalten gegen den Tag, an dem die Söhne nach den Wurzeln des Baumes graben würden.
 
-Dort setzte er sich an den niedrigen Tisch, auf dem das blau-weiße Buch lag, und er starrte es an. Die Seiten waren dick, das Leder war schwer, das Siegel war sauber. Alles war in Ordnung. Alles war richtig.
+Einen Atemzug lang schien das Zelt den Atem anzuhalten.
 
-Aber es war nicht richtig. Es war das erste Mal in seinem Leben, dass er eine Lüge beglaubigt hatte.
+„Du schreibst viel für einen Mann, der nur das Ende bezeugen soll“, sagte sie leise.
 
-Er griff in die Schatulle unter dem Tisch und zog ein anderes Buch hervor. Klein, ungebunden, die Seiten aus billigem Papier, das er selbst zugeschnitten hatte. Sein privates Buch. Nicht das Buch des Gesetzes. Nicht das Buch des Amtes. Sein Buch.
+Shigi hob den Kopf. Sein Blick traf den ihren, ruhig, trüb von den Jahren, aber fest wie der Granit der Khentii-Berge.
 
-Er schlug es auf. Die erste Seite war leer. Er tauchte den Pinsel in die Tinte, und er schrieb.
+„Ein Richter, der die Stunde vergisst, verliert den Weg“, antwortete er. Seine Stimme war tief, heiser vom langen Schweigen. „Der Khagan ist tot, Herrin. Aber die Zeit geht weiter. Das Gesetz schläft nicht, es wartet nur.“
 
-*Zwölfter Tag des abnehmenden Mondes. Jahr des Stiers. Ich, Shigi Qutuqu, Oberrichter des Weltreichs, bestätigte den Tod des Khagan Ögedei. Offizielle Todesursache: sein Herz. Anwesend: Töregene, Witwe des Khans; zwei Leichenwäscher, Namen unbekannt; zwei Diener, Namen unbekannt. Der Leichnam war gewaschen, bevor ich den Raum betrat. Die Ärzte waren nicht anwesend.*
+Töregene erwiderte seinen Blick. Ein kaltes, fast unmerkliches Lächeln zuckte um ihre Mundwinkel – nicht aus Spott, sondern aus jenem bitteren Verständnis, das zwei Raubtiere teilen, wenn sie einander am Riss begegnen und wissen, dass der Kampf heute zu viel Blut kosten würde.
 
-Er hielt inne. Er sah auf die Worte, die er geschrieben hatte. Sie waren einfach, nüchtern, präzise. Keine Interpretation. Keine Spekulation. Nur die Fakten, die er gesehen hatte.
+„Siegle es“, sagte sie.
 
-Er schrieb weiter.
+Shigi griff in seine Tasche, holte das schwere Siegel aus grünem Jadeit hervor, tauchte es in das Zinnoberkissen und drückte es mit dem vollen Gewicht seines Oberkörpers auf das offizielle Papier. Die rote Farbe quoll an den Rändern der kantigen Schriftzeichen hervor wie frisches Blut auf Schnee.
 
-*Der Diener, der dem Khan den Wein einschenkte, ist verschwunden. Ich habe keine Untersuchung eingeleitet. Die Regentin hat keine Anordnung gegeben.*
+Es war vollbracht. Die erste Lüge des Gerichts trug seinen Namen.
 
-Er schrieb die Namen der Diener nicht auf, weil er sie nicht wusste. Aber er schrieb das Datum. Die Stunde. Die Anwesenheit.
+Er erhob sich langsam. Seine Knie schmerzten dumpf. Er packte die Bücher ein, band die Schnüre der Lade mit festen Knoten zu und schob das schmale Tagebuch tief unter seinen Arm, fest an das Fleisch gepresst.
 
-Es war nicht viel. Es war nichts. Ein Blatt Papier, das niemand lesen würde. Aber es war wahr.
+Als er sich zur Tür wandte, fing er Fatimas Blick auf. Die Perserin stand noch immer reglos da, doch ihre Finger hatten sich in den Stoff ihres Ärmels gekrallt. In ihren Augen lag kein Schrecken. Es war etwas Schlimmeres: Sie erkannte in ihm denselben Hunger, dieselbe geheime Last, die sie selbst unter den Schichten ihrer Gewänder trug. Zwei Chronisten in einem Zelt voll von Mördern, und jeder von ihnen barg ein Stück Papier, das den Steppensturm entfesseln konnte.
 
-Er legte den Pinsel nieder. Er sah auf das Blatt, auf die nüchternen Worte, und dann sah er auf das blau-weiße Buch mit der glatten Seite und dem präzisen Eintrag.
+Shigi neigte das Haupt vor dem Leichnam, dann vor der Herrin.
 
-Zwei Versionen. Eine offizielle. Eine private.
+„Möge der Ewige Himmel Eure Schritte lenken, Khatun“, sagte er.
 
-Er schloss das private Buch und legte es zurück in die Schatulle.
+Er trat hinaus in die Kälte.
 
-Draußen hörte er die Geräusche der Ordu. Die Hufe der Pferde, die Stimmen der Händler, das Rufen der Wachen. Die Welt bewegte sich weiter. Der Khan war tot. Die Regentin regierte. Der Richter hatte gesprochen.
+Der Morgen dämmerte herauf, bleiern und weiß. Über den Dächern von Karakorum stiegen die ersten Rauchsäulen auf, gerade Striche im windstillen Frost. Shigi schritt durch den Schnee hinüber zur Kanzlei, wo die Schreiber bald erwachen und die Kopien anfertigen würden: *Sein Herz. Sein Herz. Sein Herz.* Hundertfach, tausendfach, getragen von Reitern in alle vier Himmelsrichtungen, bis die Lüge zur Wahrheit der Welt geworden war.
 
-Aber Shigi Qutuqu saß in der Stille seines Zeltes, und er wusste, dass er soeben eine Grenze überschritten hatte, die er nie hätte überschreiten sollen.
+Er spürte das schmale Buch unter seinen Rippen.
 
-Er wusste nicht, wie weit die Reise noch führen würde.
+Es war ein dünner Schild gegen das, was kommen würde. Doch solange die Tinte trocken blieb, lebte die Stunde fort. Er ging weiter, den Kragen hochgeschlagen, ein alter Mann auf gefrorener Erde, der wusste, dass die Schrift das Einzige war, was die Toten vor den Lebenden schützte.
 
-Er wusste nur, dass er ihr folgen würde, weil er keine Wahl hatte.
-
-Er stand auf, nahm das blau-weiße Buch und trat wieder ins Licht.
-
-Die Ordu wartete. Die Regentin wartete. Die Welt wartete.
-
-Und er war der Richter.
-
-Er würde sein Amt ausüben.
-
-Aber er würde vergessen, was er getan hatte.
-
-Nie.
-
----

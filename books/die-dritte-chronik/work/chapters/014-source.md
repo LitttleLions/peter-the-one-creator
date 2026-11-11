@@ -5,116 +5,129 @@
 
 ---
 
-Der Sommer war gekommen, und mit ihm die Hitze, die über den Steppen flimmerte wie ein zweiter Himmel. Juvaini stand am Rand des Festzelts, den Rücken gegen einen der hölzernen Pfosten gelehnt, und beobachtete.
+Der Geruch von gebratenem Hammelfett, wildem Thymian und schmelzendem Bienenwachs hing schwer in der Nachmittagshitze, als Ata-Malik Juvaini das Schreibpult am Rande der Empfangsjurte einrichtete. Es war das dritte Jahr nach dem Umsturz der Ordnung, der Sommer 1243, und das Gras im Orchon-Tal stand hoch und saftig, gebogen unter einem stetigen Westwind, der den herben Staub der Sandebenen mit sich führte. Siebzehn Jahre zählte Juvaini nun, und seine Hände, die das feine Maulbeerbaumpapier glätteten, zitterten nicht mehr wie in den ersten Monden seiner Ankunft. Er hatte gelernt, dass am Hof der Regentin das Überleben nicht im Gefecht mit der Lanze gesichert wurde, sondern in den Fugen zwischen zwei sorgsam gesetzten Worten.
 
-Er hatte Feste gesehen in Karakorum. Feste, bei denen der Wein in Strömen floss, die Sänger sich überschlugen und die mongolischen Fürsten so lange tranken, bis sie unter den Tischen lagen. Aber dieses Fest war anders. Dieses Fest war ein Duell.
+Er tauchte die Rohrfeder in die Rußtinte, atmete den vertrauten, trockenen Duft von Galläpfeln und Gummiarabikum ein und hob den Blick. Vor ihm entfaltete sich ein Fest, das nach Frieden aussah und dennoch das Knirschen von Kettenhemden unter schwerer Seide verbarg. 
 
-Die beiden Frauen saßen einander gegenüber, getrennt durch die Breite des Zeltes, durch die Höflichkeit der Begrüßung, durch die Kunst des Schweigens.
+Töregene Khatun saß auf ihrem erhöhten Podest, gebettet auf Schichten kaukasischer Teppiche und weißer Filze. Sie trug ein Gewand aus schwerem, golddurchwirktem Samt, das das grelle Sonnenlicht wie eine Rüstung brach. Ihr Gesicht, von der Steppensonne und Jahrzehnten des Schweigens gegerbt, war vollkommen glatt, als hätte kein Wind je vermocht, eine Falte hineinzugraben. Ihre Augen jedoch wanderten unablässig, prüfend, messend. Sie war eine Naimanin, einst Beute, nun Herrin über das weiteste Reich, das je unter dem Ewigen Himmel gelegen hatte. Zu ihrer Rechten stand Fatima.
 
-Töregene war die Gastgeberin. Sie trug Seide, die im Licht der Lampen schimmerte, und ihr Haar war geflochten mit Perlen, die aus dem Westen gekommen waren. Sie lächelte, als sie ihren Gast begrüßte, und ihr Lächeln war eine Waffe.
+Die ältere Perserin trug mattgraue Seide aus den Webereien von Schiras, schmucklos, still, die Hände in den weiten Ärmeln verborgen. Seit jenem Tag im vergangenen Jahr, an dem sie Juvaini über die Listen der Statthalter gebeugt und seine Treue gewogen hatte, sprach sie selten mehr als nötig mit ihm. Doch wenn sie ihn ansah, spürte er stets jenen ziehenden Schmerz, jene Ahnung von den zerstörten Gärten Chorasans, die sie beide wie ein unsichtbares Mal auf der Stirn trugen.
 
-Sorkaktani war die Gästin. Sie trug keine Seide. Sie trug Wolle, schlicht und dunkel, und an ihrem Hals hing ein kleines silbernes Kreuz, das im Licht aufblitzte, wenn sie sich bewegte. Sie lächelte nicht. Sie nickte nur, einmal, knapp, und setzte sich.
+Und nun öffneten sich die bestickten Filzbehänge des Eingangs.
 
-Juvaini notierte alles.
+Sorkaktani Beki trat ein.
 
-Die Sitzordnung war das erste Duell. Töregene hatte den Ehrenplatz für Sorkaktani vorbereitet, links von ihr, wie es sich für eine Witwe des Khans gehörte. Aber Sorkaktani hatte sich nicht gesetzt. Sie war stehen geblieben, hatte die Anordnung der Kissen betrachtet, und dann hatte sie sich auf den Platz rechts von Töregene gesetzt, den Platz der Gleichrangigen.
+Juvaini hielt den Atem an. Die Feder verharrte einen Daumenbreit über dem Papier. Zum ersten Mal sah er die Fürstin des Hauses Tolui leibhaftig vor sich, jene Frau, deren Name in den Kanzleien stets mit einer vorsichtigen, fast scheuen Ehrfurcht geflüstert wurde. Sie trug keine blendende Seide. Ihr Mantel bestand aus schlichtem, dunkelbraunem Wollstoff, gesäumt von feinem Marderpelz, der dem warmen Sommer trotzte. Um ihren Hals lag ein einfaches nestorianisches Kreuz aus gehämmertem Silber, das auf dem dunklen Stoff ruhte wie ein Wassertropfen auf schwarzem Stein. Nichts an ihr prunkte, und doch schien der gesamte Raum sich mit ihrem Eintritt zur Tür hin zu neigen. 
 
-Die Diener zögerten. Töregene zögerte nicht.
+Hinter ihr folgten ihre Söhne. Möngke ging an ihrer rechten Seite, der Älteste, die Schultern breit, der Blick gesenkt, aber mit der Wachsamkeit eines Wolfes, der den Geruch von Rauchwitterung kennt. Dahinter die jüngeren Brüder, eine Phalanx aus Blut, Erbrecht und geduldiger Stärke.
 
-„Ein schönes Zelt“, sagte Sorkaktani, und ihre Stimme war ruhig, sachlich, wie ein Bericht.
+Das Zelt verstummte nicht jäh, sondern sickerte leer von Geräuschen, bis nur noch das Singen der Spannseile im Sommerwind und das dumpfe Knacken der Holzfeuer in den Kochgruben zu hören waren.
 
-„Es war das Lieblingszelt des Khans“, erwiderte Töregene. „Er hat es aus dem Westen bringen lassen, aus dem Land der Rus, wo die Wälder so dicht sind, dass die Sonne den Boden nicht erreicht.“
+Juvaini beobachtete, wie sich Töregenes Lächeln formte. Es war meisterhaft gefertigt, gewoben aus honigsüßer Zuvorkommenheit.
 
-„Ich habe gehört, die Wälder dort sind voller Bären“, sagte Sorkaktani.
+„Schwester“, sprach Töregene, und ihre Stimme trug jenen hellen, reinen Ton, mit dem man Kinder oder Kranke begrüßt. Sie erhob sich nicht ganz, deutete aber eine Neigung des Oberkörpers an, die millimetergenau den Anforderungen des Gesetzes entsprach, ohne ein Gran an Unterwerfung preiszugeben. „Der Weg vom Selenga-Fluss war staubig und lang. Dass Ihr den weiten Ritt auf Euch genommen habt, um mein Lager zu ehren, wärmt mein Herz wie die erste Frühlingssonne.“
 
-„Sie sind voller Bären“, bestätigte Töregene. „Und voller Bienen. Der Honig ist berühmt. Süß wie Verrat, sagt man.“
+Sorkaktani neigte den Kopf. Die Bewegung war fließend, fast sanft, und bar jeder Demut. 
 
-Keine von beiden erwähnte Ögedeis Tod. Keine erwähnte die Erbfolge. Das Ungesagte füllte das Zelt wie Rauch, der sich unter der Decke sammelte und langsam auf die Gesichter senkte.
+„Eure Güte beschämt das Haus meines verstorbenen Gemahls, erhabene Regentin“, antwortete sie. Ihr Timbre war dunkel, ruhig wie tiefes Brunnenwasser. „Wir kommen nicht, um geehrt zu werden, sondern um der Mutter des Reiches jene Aufwartung zu machen, die ihr gebührt. Wo die Wurzel fest im Boden steht, können die Zweige im Wind nicht brechen.“
 
-Juvaini beobachtete die anderen Gäste. Die Söhne Sorkaktanis saßen in einer Reihe hinter ihr, vier Männer, die wie eine Mauer aus Fleisch und Knochen wirkten. Möngke, der Älteste, saß direkt hinter seiner Mutter, und seine Augen wanderten durch das Zelt wie die eines Jägers, der die Herde mustert. Die anderen drei – Kublai, Hülegü, Ariq Böke – saßen schweigend, ihre Gesichter unbewegt.
+Juvaini schrieb. Seine Hand glitt über das Blatt, und während er die Begrüßungsformeln festhielt, schnürte sich ihm die Kehle zu. 
 
-Sie waren die Waffen, die Sorkaktani nicht zeigen musste. Sie waren da, und das reichte.
+Keine von beiden erwähnte Ögedei.
 
-Juvaini wandte den Blick ab und ließ ihn durch das Zelt schweifen. Die Diener bewegten sich zwischen den Gästen, trugen Schalen mit Fleisch und Becher mit Kumys. Sie waren geschickt, schnell, fast unsichtbar.
+Nicht mit einer einzigen Silbe fiel der Name des toten Großkhans, dessen Beisetzung nun fast zwei Sommer zurücklag. Keine sprach von den Vorrechten der Nachfolge. Keine erwähnte Güyük, Töregenes Sohn, der im Westen mit zehntausend Reitern wartete wie ein Gewitter über den Bergen; keine erwähnte Shiremün, den der tote Herrscher einst begünstigt hatte. Das Ungesagte war so dicht, dass man es hätte mit der Klinge schneiden können. Es hing zwischen den beiden Frauen wie ein Tuch aus giftigem Dunst, unsichtbar und allgegenwärtig.
 
-Aber er sah sie.
+„Nehmt Platz zur Rechten des Herdes, Sorkaktani“, sagte Töregene und wies mit einer Handbewegung, die von schwebender Gunst zeugte, auf die vorbereiteten Kissen. „Dort zieht der Rauch nicht hin, und die Kühle des Nordwindes streift die Wangen Eurer Söhne.“
 
-Er sah, dass die Frau, die den Kumys einschenkte, nicht zum Haushalt Töregenes gehörte. Er sah, dass der Mann, der die Lampen ölte, Sorkaktanis Gesichtszüge trug. Er sah, dass die Wachen am Eingang des Zeltes die Köpfe senkten, als sie an Sorkaktani vorbeigingen.
+Es war ein Ehrenplatz, gewiss. Doch es war der Platz für Gäste, nicht für Teilhaber der Herrschaft. Sorkaktani nahm die Zuweisung an, ohne mit der Wimper zu zucken. Sie sank auf die Teppiche mit einer Haltung, die jedes Kissen in einen Richterstuhl verwandelte. Möngke ließ sich hinter ihrer Schulter nieder, die Hände flach auf den Oberschenkeln, reglos wie aus Holz geschnitzt.
 
-Überall dienten Leute, die Sorkaktani gestellt oder geschenkt hatte. Die Küche, die Zeltwache, die Pferde. Juvaini notierte es als Kuriosität, eine Randnotiz in seinem Gedächtnis, die er später abrufen würde.
+Diener schwärmten aus. Sie trugen Schalen aus weißem Ton, gefüllt mit gerösteter Hirse, dampfendem Hammelfleisch und Kannen aus gegossenem Kupfer, aus denen der säuerliche, schwere Geruch von gegorener Stutenmilch aufstieg.
 
-Der Leser sollte es sich merken.
+Juvaini beobachtete die Burschen, die das Fleisch schnitten und die silbernen Becher füllten. Ihm fiel etwas auf, eine Kleinigkeit nur, ein Muster im Gewebe des Alltags. Der Schenk, der Sorkaktani die Kumysschale reichte, trug die typische zweifarbige Schärpe der Weiden des Tolui-Hauses. Der Zeltwächter, der mit gezogener Axt am Eingang den Wind abschirmte, war derselbe Mann, den man im vergangenen Herbst als Geschenk aus den Gestüten der Beki geschickt hatte, um die Leibwache der Regentin zu verstärken. Selbst der Junge, der nun eine Schale mit getrocknetem Quark vor Fatima abstellte, verneigte sich nach der Art der Kereiten – dem Volk Sorkaktanis.
 
-Töregene sprach, und ihre Stimme war wie Seide, weich und glatt. „Ich habe gehört, deine Söhne haben im Westen große Erfolge erzielt. Möngke, sagt man, hat die Wälder der Rus so gründlich durchkämmt, dass kein Bär mehr übrig ist. Nur Bienen.“
+Überall dienten sie. 
 
-Sorkaktani neigte den Kopf, eine kaum sichtbare Bewegung. „Meine Söhne tun, was sie tun müssen. Sie lernen von ihrem Vater, der von den Wäldern bis ans Ende der Welt reiste. Sie lernen von ihrem Großvater, der die Berge ebnete und die Flüsse umleitete. Sie lernen, dass die Welt ein Ort ist, den man nimmt, nicht den man bekommt.“ Sie hielt inne. „Aber das weißt du. Du hast auch Söhne. Du weißt, dass sie lernen müssen, was sie nicht von dir lernen können.“
+In den Küchen, an den Pferdepflöcken, vor den Schwellen der Vorratszelte. Sorkaktani hatte dem Hofstaat der Regentin in den vergangenen zwanzig Monden Geschenke gemacht: Diener, geschickte Hände, unauffällige Geister, die die Kessel reinigten und die Pferde striegelten. Töregene hatte sie huldvoll angenommen, denn eine Khatun wies Geschenke der Ehrerbietung nicht ab. Juvaini notierte am Rand seines Protokollbogens eine kleine Randbemerkung in chosrauischem Duktus: *Die Diener der Kereitin tragen das Fleisch, doch ihre Augen wiegen die Knochen.* Es war eine Kuriosität, eine Randnotiz für spätere Tage.
 
-Die Luft im Zelt wurde kälter. Juvaini spürte es, ein Ziehen in der Haut, als ob der Sturm draußen plötzlich näher gekommen wäre.
+„Ich sehe, Eure Speicher sind voll, Töregene“, sagte Sorkaktani und nippte an der Schale, die man ihr gereicht hatte. Sie berührte das Gefäß nur mit den Lippen, ohne wahrhaft zu trinken. „Der Himmel segnet Eure Regentschaft mit milden Monden. Möge der Friede, den Ihr über den Völkern haltet, so fest sein wie die Pflöcke dieser Jurte.“
 
-Töregene lächelte. Ihr Lächeln war scharf wie eine Klinge. „Meine Söhne lernen, was sie brauchen. Köden kämpft im Westen, gegen die Völker, die sich weigern, den Frieden zu akzeptieren. Güyük ist zurückgekehrt, um dem Hof zu dienen. Sie lernen, dass die Macht nicht in der Ferne liegt, sondern in der Nähe, im Zelt des Khans, an dem Ort, an dem die Entscheidungen getroffen werden.“
+Töregene lächelte breiter, und ihre Finger glitten über die Armlehne ihres geschnitzten Sessels, als spüre sie das Holz auf Fehler ab.
 
-Sorkaktani nickte langsam. „Ja. Die Entscheidungen werden hier getroffen. Das habe ich nie bezweifelt. Aber die Frage ist, wer sie trifft. Und wer sie überlebt.“ Sie blickte auf ihre Hände, die in ihrem Schoß lagen, ruhig und still. „Die Macht ist ein Ort, den man nicht verlassen kann. Ich habe das gelernt, als ich jünger war. Ich habe gelernt, dass man stärker wird, wenn man den Ort kennt, an dem man steht. Stärker als die, die sich bewegen, ohne zu wissen, wohin sie gehen.“
+„Der Friede ist eine zarte Pflanze, Schwester. Man muss das Unkraut jäten, noch ehe es Samen trägt. Nicht wahr?“
 
-Juvaini schrieb die Worte mit, in seinem Kopf, in seinem Gedächtnis, in dem Buch, das er nur in seinen Gedanken führte. Die Worte waren nicht gefährlich. Sie waren nur ein Gespräch zwischen zwei Frauen, die wussten, dass sie einander nicht trauen konnten. Aber die Worte waren auch eine Karte, eine Landkarte der Macht, die unter der Oberfläche des Zeltes lag, unsichtbar für die meisten, aber nicht für ihn.
+„Gewiss“, erwiderte Sorkaktani sanft. „Aber mancher reißt das Unkraut aus und entwurzelt dabei den Weizen. Geduld ist die Zügel der Weisheit, so lehrte es unser erhabener Vater Temüjin.“
 
-Er sah Fatima.
+Jedes Wort war ein Pfeil, dessen Spitze in Honig getaucht war. Töregene parierte, lobte die Frömmigkeit der Beki, pries das Wohlverhalten ihrer vier Söhne, nannte Möngke eine Stütze des Reiches und schnitt ihm damit zugleich im übertragenen Sinn die Möglichkeit ab, sich selbst als Haupt zu begreifen. Sorkaktani konterte mit Preisungen auf Güyüks Tapferkeit in fernen Ländern, wohl wissend, dass dessen Abwesenheit die Regentin schutzlos und abhängig von den Launen der Steppenfürsten machte.
 
-Sie stand am Rand der Gesellschaft, hinter Töregene, wie immer. Ihre Hände waren gefaltet, ihr Gesicht war ruhig, ihre Augen waren auf den Boden gerichtet. Sie war die Dienerin, die perfekte Dienerin, die unsichtbare Kraft, die die Fäden zog.
+Juvainis Hand flog über das Papier. Er war fasziniert und abgestoßen zugleich. Firdausi hatte vom Kampf der Helden gesungen, von Rostam und Sohrab, von blitzendem Stahl und schmetternden Schilden. Doch dieser Kampf hier, der sich hinter Kissen und vergoldeten Schalen vollzog, war tödlicher. Hier floss kein Blut über den Boden, doch Reiche wurden in kleine Stücke geschnitten.
 
-Aber Juvaini sah etwas anderes. Er sah, dass ihre Schultern sich versteift hatten, als sie einen der Diener erblickte, der am Eingang des Zeltes stand. Er sah, dass ihre Augen für einen Moment aufleuchteten, als ob sie ein Gesicht erkannte, das sie nicht mehr erwartet hatte. Er sah, dass sie erstarrte, vollkommen still, wie eine Statue, die vergessen hatte, dass sie lebendig war.
+Da geschah es.
 
-Dann arbeitete sie weiter. Sie nahm die Schale mit Kumys von der Dienerin entgegen, reichte sie Töregene, neigte den Kopf und trat zurück. Ihre Bewegungen waren flüssig, perfekt, wie immer.
+Vier Diener traten ein, beladen mit den Gegengeschenken des Hauses Tolui. Sie trugen Rollen persischer Seide, Ballen von feinstem blauem Tuch aus den Webereien von Samarkand und zwei Kästchen aus geschnitztem Pappelholz, in denen Weihrauch und getrocknete Gewürznelken aus dem fernen Süden lagen.
 
-Aber Juvaini hatte es gesehen. Er hatte den Bruch gesehen, den Riss in der Fassade, die Sekunde, in der Fatima nicht mehr die Dienerin war, sondern eine Frau, die etwas erkannt hatte, das sie nicht zeigen durfte.
+Der letzte der Männer ging gebeugt. Er war von mittlerem Wuchs, hatte schmale Schultern und ein Gesicht, das im flackernden Schein der Talgkerzen im Halbschatten blieb. Er trug eine kupferne Schale mit Granatäpfeln, die er zu Füßen der Regentin niederlegte.
 
-Er fragte nicht. Er war ein Schreiber, und Schreiber fragen nicht. Sie beobachten, sie notieren, sie warten.
+Juvaini sah hinauf, weil er das sanfte Rascheln von Fatimas Ärmel hörte.
 
-Er vergaß es nicht.
+Fatima stand neben Töregenes Thron.
 
-Sorkaktani erhob sich, und mit ihr erhoben sich ihre Söhne, wie eine Welle, die sich aus dem Meer hob. Sie neigte den Kopf, ein letztes Mal, und ihre Augen trafen die von Töregene. „Ich danke dir für die Gastfreundschaft, Schwester. Dein Zelt ist schön, deine Diener sind geschickt, deine Speisen sind gut. Ich werde es nicht vergessen.“ Sie betonte das letzte Wort, und die Bedeutung hing in der Luft, schwer wie der Rauch der Lampen.
+Sie bewegte sich nicht.
 
-Töregene erhob sich ebenfalls, und ihr Lächeln war perfekt. „Du bist immer willkommen, Schwester. Das Zelt des Khans ist offen für alle, die den Frieden suchen. Und für alle, die ihn finden wollen.“ Sie hielt inne. „Ich hoffe, du findest, was du suchst. Ich hoffe, du findest es, bevor es zu spät ist.“
+Für den Bruchteil eines Atemzugs schien die Zeit im Zelt einzufrieren, als hätte der eisige Wind des Altai mitten im Hochsommer durch die Filzwände gegriffen. Fatima war nicht bloß erstarrt; das Leben schien aus ihren Zügen gewichen zu sein. Ihre sonst so wachsamen, dunklen Augen waren auf den Nacken des gebeugten Dieners geheftet. Ihre Lippen hatten jede Farbe verloren, waren weiß wie gespaltenes Knochenmark. Ihre rechte Hand, die im weiten Seidenärmel ruhte, krallte sich so heftig in den Stoff, dass die zarten Fäden des Schiraser Gewebes hörbar zerrissen. Ein winziges, trockenes Reißen.
 
-Sorkaktani antwortete nicht. Sie wandte sich um, und ihre Söhne folgten ihr, wie Schatten, die der Sonne folgen. Die Diener strömten aus dem Zelt, und die Wachen senkten die Köpfe, und die Luft wurde leichter, als die Tür sich schloss.
+Juvaini hielt den Atem an.
 
-Töregene stand in der Mitte des Zeltes, allein, und ihre Hände zitterten nicht. Aber ihre Augen waren kalt, kalt wie der Winter, der noch nicht gekommen war.
+Der Diener kniete nieder, legte die Schale ab, senkte die Stirn bis auf den Filzbelag und erhob sich wieder, ohne den Kopf zu heben. Seine Bewegungen waren geschmeidig, lautlos, die Bewegungen eines Mannes, der es gewohnt war, Schatten zu sein. Er trat drei Schritte rückwärts, wandte sich um und verschwand im Gefolge Sorkaktanis, eingereiht hinter den Leibwächtern Möngkes.
 
-Fatima trat zu ihr, flüsternd, kaum hörbar.
+Fatima stand da. Ihre Brust hob sich nicht.
 
-„Was war?“
+Sie sah nicht den Diener an. Sie sah auf den leeren Raum, den er hinterlassen hatte, als blicke sie in eine Grube, die sich plötzlich mitten im Zeltboden aufgetan hatte.
 
-Juvaini hörte es. Er hörte die Frage, die leise war, die kaum mehr als ein Atemzug war, und er sah die Antwort, die nicht kam.
+Niemand im Raum schien es bemerkt zu haben. Töregene neigte sich gerade vor, um mit Kennerblick die Farbe der samarkandischen Seide zu mustern. Sorkaktani sprach eine weitere Höflichkeitsformel, ruhig, unerschütterlich. Möngke starrte stur auf seine Knie.
 
-Fatima hob den Kopf, und ihre Augen trafen die von Töregene. Ihre Stimme war ruhig, sachlich, wie ein Bericht.
+Nur Juvaini sah es. 
+
+Und dann, so rasch wie sie gekommen war, fiel die Maske wieder über Fatimas Gesicht. Ein einziges Mal blinzelte sie. Ein Schaudern, kaum sichtbar, lief über ihre Schultern hinab, als schüttle sie Raureif ab. Ihre Hände glätteten das zerrissene Seidentuch im Verborgenen ihres Ärmels. Sie trat einen halben Schritt zurück in den Schatten hinter der Regentin, das Kinn erhoben, das Gesicht wieder eine Fläche aus Elfenbein und Wachs.
+
+Sie griff nach einer silbernen Zange, um ein Stück Weihrauchharz auf die Glutschale neben dem Thron zu legen. Ihre Hand war ruhig. Vollkommen ruhig.
+
+Juvainis Herz hämmerte gegen seine Rippen. Er kannte Fatima nun seit vielen Monaten. Er hatte ihre Härte gesehen, als sie Kanzler und Fürsten mit zwei Zeilen einer Botschaft ins Verderben schickte; er hatte ihre leise Trauer gespürt, wenn die Rede auf Chorasan kam. Doch dies hier war weder Härte noch Trauer gewesen. 
+
+Es war Entsetzen gewesen. Ein nacktes, uraltes Grauen.
+
+Töregene, die sich wieder in ihre Kissen zurückgelehnt hatte, wandte den Kopf leicht zur Seite. Sie blickte Fatima nicht direkt an, doch ihre Stimme, leise und schneidend wie ein Seidenfaden, drang durch das Gemurmel der speisenden Fürsten bis zu Juvainis Pult.
+
+„Was war?“, hauchte die Herrin des Reiches.
+
+Die Worte waren kaum mehr als ein Atemhauch, verweht vom Duft des schwelenden Weihrauchs.
+
+Fatima senkte den Kopf, die Zange noch in den Fingern. Ihre Stimme klang flach, bar jeder Regung, kälter als das Wasser des Orchon im tiefsten Winter.
 
 „Nichts, das sich lohnt.“
 
-Die Lüge war glatt, perfekt, wie eine zweite Haut. Juvaini hörte sie, und er wusste, dass sie eine Lüge war. Er wusste, dass Fatima etwas gesehen hatte, das sie nicht zeigen durfte, etwas, das sie nicht einmal ihrer Herrin sagen konnte.
+Das war eine Lüge. 
 
-Töregene nickte, einmal, knapp. Sie wandte sich ab, und ihre Hände waren ruhig, ihre Schultern waren gerade, ihre Stimme war fest. „Dann lass uns aufräumen. Das Fest ist vorbei, und die Nacht ist lang. Wir haben morgen viel zu tun.“
+Juvaini wusste es im selben Herzschlag, in dem die Silben fielen. Es war nicht die erste Lüge, die Fatima ihrer Herrin auftischte; er hatte erlebt, wie sie die Khatun mit sanften Auslassungen lenkte, wie sie ihr Wahrheiten vorenthielt, um sie vor übereilten Zornesausbrüchen zu bewahren. Doch jene früheren Lügen waren Schilde gewesen, geschmiedet, um Töregene zu dienen und zu schützen.
 
-Sie ging, und Fatima folgte ihr, wie immer, die Dienerin, die alles wusste, aber nichts sagte.
+Diese Lüge hier war anders.
 
-Juvaini blieb allein im Zelt zurück, umgeben von den Resten des Festes, von den leeren Schalen, den kalten Lampen, den Spuren der Gäste, die gegangen waren.
+Sie war kein Schutzschild. Sie war eine Mauer. Aufgerichtet zwischen zwei Frauen, die seit zwei Jahren ein Weltreich miteinander regierten. Die Kälte in Fatimas Stimme hatte nichts Dienendes an sich gehabt; sie war schneidend gewesen, ein Zurückweisen, das keine Nähe duldete.
 
-Er dachte an Fatimas Augen, an den Moment, in dem sie erstarrt war, an die Lüge, die sie ausgesprochen hatte, ohne zu zögern. Er dachte an die Macht, die unter der Oberfläche des Zeltes lag, an die Fäden, die gezogen wurden, an die Karten, die gespielt wurden.
+Töregene verharrte einen Augenblick. Ihre Augenlider zuckten kaum merklich, dann wandte sie sich wieder Sorkaktani zu und lachte, ein helles, silbernes Lachen, das wie Glas im Raum zersprang.
 
-Er dachte an die zweite Machtkarte, die er gesehen hatte, die unter der sichtbaren lag, die niemand außer ihm bemerkt hatte.
+„Eure Geschenke beschämen uns, Beki. Wahrhaftig, das Haus Tolui weiß, wie man das Herz einer Regentin erfreut.“
 
-Fatima trug ab hier ihr Wissen nicht mehr nur als Erinnerung, sondern als Ort. Eine Landkarte des Schweigens, die sie in sich trug, die sie nicht zeigen durfte, die sie nicht einmal der Frau anvertraute, die sie schützte.
+Sorkaktani neigte den Kopf. „Alles, was wir besitzen, gehört dem Hause des Gründers. Wir sind nur die Hüter der Schalen.“
 
-Juvaini wusste nicht, was sie gesehen hatte. Er wusste nicht, warum sie schwieg.
+Juvaini senkte den Kopf über sein Pergament. Seine Hand bewegte sich wieder, er zeichnete die Schriftzeichen mit mechanischer Präzision nach, doch die Tinte auf dem Papier schien ihm fremd. 
 
-Aber er wusste, dass es wichtig war. Dass es eines Tages, wenn die Fäden gezogen wurden, wenn die Karten fallen, wenn die Macht sich neu ordnete, dass es dann ans Licht kommen würde.
+Er sah zu Fatima hinüber. Die ältere Frau stand reglos hinter dem Thron, das Gesicht dem Licht abgewandt. Doch Juvaini sah ihre Augen. Sie blickten nicht mehr in die Ferne, nicht mehr nach Chorasan, nicht mehr zu den Gärten von Maschhad, die sie in ihren stillen Stunden betrauerte. 
 
-Er wusste, dass die Geschichte nicht nur das war, was geschrieben wurde. Sie war auch das, was nicht geschrieben wurde. Die Lücken, die Risse, die Lügen, die die Wahrheit verbargen.
+Ihre Augen suchten das Gefolge Sorkaktanis ab, suchten jenen einen Mann im braunen Kittel, der zwischen den Leibwächtern stand und den Kopf gebeugt hielt. Fatima trug ihr Wissen nicht mehr nur als eine Wunde in der Brust oder als Schmerz der Vergangenheit. Sie trug es nun als einen Ort. Einen greifbaren, atmenden Ort hier in diesem Zelt.
 
-Er würde warten. Er würde beobachten. Er würde notieren.
+Juvaini wusste nicht, was sie gesehen hatte. Er wusste nicht, welches Gespenst aus den Schatten getreten war, um die mächtigste Frau der Kanzlei erbleichen zu lassen. Er wusste nur, dass das Fundament, auf dem die Macht der Regentin ruhte, Risse bekommen hatte – feine, unsichtbare Haarrisse, die kein Schreiber in die offiziellen Annalen eintragen würde.
 
-Denn eines Tages würde die Wahrheit ans Licht kommen. Und dann würde er bereit sein.
+Er tauchte die Feder erneut in die Tinte.
 
-Das Zelt war leer, und die Lampen flackerten, und die Kälte kroch durch die Filzwände, und Juvaini stand allein in der Mitte, umgeben von den Spuren eines Festes, das nicht gefeiert worden war, sondern gekämpft.
+Draußen wehte der Sommerwind über die Steppe, frei und gleichgültig, während drinnen zwei Witwen lächelten und ein Mann im Schatten auf seine Stunde wartete.
 
-Er wusste, dass der Krieg erst begonnen hatte.
-
----

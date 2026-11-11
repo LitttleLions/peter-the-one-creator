@@ -5,229 +5,113 @@
 
 ---
 
-Die Luft im Zelt war dick vom Rauch der Feuerbecken und dem Geruch nasser Wolle. Fatima saß auf ihrem Kissen, das Schreibbrett auf den Knien, die Feder gezückt, bereit. Sie war unsichtbar. Das war ihre Kunst.
+Der Wind über dem Orchon-Tal trug den Geruch von versengtem Gras, getrocknetem Mist und dem herben, schweren Atem des Sommers, der träge über den Jurten lag. Es war nicht die weiße Kälte des Winters, die Fleisch und Gedanken erstarren ließ, sondern eine flirrende, staubige Hitze, die sich in den dichten Filzwänden fing und den Raum mit dem Dunst von ranziger Butter, altem Leder und Schafswolle füllte.
 
-Töregene saß auf dem erhöhten Sitz, die Hände locker um die Armlehnen gelegt, das Gesicht eine Maske aus höflicher Geduld. Sie trug ein schlichtes Gewand aus grauer Seide, kein Gold, keine Perlen. Eine Frau, die es nicht mehr nötig hatte, ihren Rang zu beweisen.
+Fatima kniete abseits des hölzernen Mittelpfostens, im Schatten, den der große Baldachin aus gebleichter Seide warf. Ihre Knie ruhten auf einem einfachen Filzpolster, das Schreibbrett aus glattem Buchsbaumholz quer über die Schenkel gelegt. Vor ihr stand das zinnerne Tintenfass, darin die feine Rußtusche, die sie jeden Morgen mit ein paar Tropfen Rosenwasser anrieb – eine winzige, geheime Erinnerung an die Gärten von Maschhad, die sie wie ein Amulett mit sich trug. Unter der schweren, indigoblauen Seide ihres Kleides spürte sie das Schlagen ihres eigenen Herzens, unruhig wie ein Vogel, der gegen das Gebälk einer fremden Halle fliegt.
 
-Güyük stand vor ihr. Er kam direkt vom Feld, der Staub des Marsches noch auf den Stiefeln, der Lederpanzer ungeputzt. Hinter ihm flatterte der Zeltvorhang noch nach. Er hatte keinen Gruß angeboten.
+Am anderen Ende des Raumes saß Töregene Khatun. Die Regentin lehnte nicht auf den Kissen; sie saß aufrecht auf einer niedrigen Bank, die mit den Fellen sibirischer Zobel belegt war, die Hände flach auf die Knie gebettet. Ihr Gesicht, von der Steppensonne gegerbt und von scharfen Linien um den Mund gezeichnet, glich einer geschnitzten Maske. Auf dem niedrigen Tischchen zu ihrer Rechten stand Ögedeis goldener Becher, leer, doch poliert, als warte er auf den nächsten Schluck.
 
-„Ich will ein Kuriltai“, sagte er.
+Der Filzvorhang am Eingang wurde nicht beiseitegezogen, er wurde aufgerissen.
 
-Keine Einleitung. Keine Bitte. Eine Forderung.
+Das blendende Mittagslicht brach herein, zerschnitt den Dämmer der Jurte und zeichnete die schwere, wuchtige Gestalt eines Mannes auf den Teppichboden. Güyük brauchte keine Ankündigung. Er trug noch den staubigen Waffenrock aus gehärtetem Pferdeleder, den Geruch von Pferdeschweiß, Eisen und getrocknetem Schlamm an sich, als wäre er in diesem Augenblick aus dem Sattel gestiegen. Seine Armee lag wenige Meilen flussabwärts, zehntausend Reiter, deren Lanzen wie ein Wald aus kaltem Dornengestrüpp im Hitzeflimmern der Ebene aufragten.
 
-Töregene hob eine Augenbraue. „Setz dich.“
+Er trat vor, ohne den Kopf zu neigen. Seine Stiefel traten schwer auf den geknüpften Teppichen auf, die einst aus Isfahan hierhergeschleppt worden waren.
 
-„Ich will kein Gespräch“, sagte Güyük. „Ich will das Kuriltai einberufen. Die Fürsten sollen kommen. Der Thron soll bestätigt werden.“
+„Mutter“, sagte er. Seine Stimme war kein Gruß; sie war ein Schnitt. Trocken, heiser vom Staub der Steppe, bar jedes höfischen Zierrats.
 
-Fatima schrieb nicht auf. Sie lauschte nur, spürte die Spannung zwischen Mutter und Sohn wie die Hitze eines Feuers.
+Töregene hob nicht einmal die Brauen. Ihre Finger rührten sich nicht auf dem dunklen Pelz.
 
-Töregene schwieg einen langen Augenblick. Dann sagte sie: „Batu kommt nicht.“
+„Du hast den Staub des Feldzugs noch in den Haaren, Güyük“, sprach sie leise, und doch trug ihre Stimme durch die weite Jurte, kühl und unerschütterlich wie das Wasser eines tiefen Brunnens. „Nimm Kumys. Wasch dir das Gesicht. Die Hirten sagen, die Hitze mache die Pferde tollkühn.“
 
-„Batu ist nicht der einzige Fürst im Reich.“
+„Ich bin nicht hier, um Milch zu trinken.“ Güyük blieb fünf Schritt vor ihr stehen. Er war breitschultrig, mit den tiefsitzenden, unruhigen Augen seines Vaters, doch in ihnen brannte nicht Ögedeis leichtfertige Heiterkeit, sondern eine finstere, nagende Wachsamkeit. Er war der älteste Sohn. Er war der Mann, der den Westen niedergeritten hatte, während andere in Karakorum saßen und Urkunden siegelten. „Die Krieger warten. Die Pferde sind fett vom Sommergras. Es ist Zeit.“
 
-„Batu ist der Älteste des Hauses Dschingis“, sagte Töregene ruhig. „Ohne ihn ist kein Kuriltai vollzählig. Du weißt das.“ Sie machte eine Pause, ließ den Satz wirken. „Ein unvollständiges Kuriltai ist ein Kriegsgrund.“
+„Zeit wofür?“ fragte Töregene, und Fatima spürte, wie die Luft im Zelt mit einem Schlag dünner wurde.
 
-Güyük trat näher an den Sitz heran, bis er direkt vor seiner Mutter stand. „Du hältst mich hin“, sagte er leise.
+„Für das Kuriltai.“ Güyük stieß die Worte hervor wie zwei geschliffene Kieselsteine. „Das Reich ist seit einem halben Jahr ohne Herrn. Mein Vater liegt in den Bergen begraben, und die Fürsten murren in ihren Lagern. Sie fragen, wer das Gesetz spricht. Sie fragen, wer die Beute teilt. Ein Weib auf dem Thron ist ein Zelt ohne Firststange; der erste Sturm reißt es nieder. Ich bin der älteste Sohn. Ich habe die Kanzlei meines Vaters verwaltet, ich habe seine Kriege geführt. Berufe die Versammlung ein. Bestätige mich.“
 
-„Ich halte dich von einem Fehler ab.“
+Es war eine Forderung, gewaltig und unmissverständlich, untermauert von den zehntausend Klingen, die draußen im Flusstal geschliffen wurden.
 
-„Du fürchtest mich.“
+Fatima hielt den Schilfrohrkiel knapp über dem Papier. Sie wagte nicht zu atmen. Durch den feinen Spalt der Augenlider beobachtete sie die Regentin. Töregene hätte zornig werden können; sie hätte aufspringen und die Autorität einer Mutter gegen den ungehorsamen Sohn ins Feld führen können. Doch Macht in diesem Reich wurde nicht mit Zorn behauptet. Macht war Geduld, gewoben aus Schweigen und Geografie.
 
-„Ich fürchte für dich.“ Töregene beugte sich leicht vor; ihre Stimme wurde weicher, fast zärtlich: „Dein Vater hat Shiremün benannt als seinen Erben.“ Die Worte fielen wie Steine in stilles Wasser: rund schwer unverrückbar: „Willst du gegen den letzten Willen deines Vaters herrschen? Bevor die Fürsten ihn vergessen haben?“
+Töregene lächelte kaum merklich, ein schmaler Zug um die Lippen, der kälter war als der Herbstwind am Orchon.
 
-Die Stille dehnte sich aus füllte das Zelt drückte gegen die Wände gegen die Decke gegen die Lungen aller Anwesenden.
+„Du sprichst von der Firststange, mein Sohn“, sagte sie ruhig. „Aber du siehst nur das Holz über deinem Kopf, nicht das Land, auf dem das Zelt steht. Glaubst du, ein Kuriltai ist ein Thing von zehn Reitern an einer Wasserstelle?“
 
-Güyük starrte seine Mutter an.
+Güyüks Kiefer mahlen. Seine Hände, die an den Daumen schwere Schießringe aus Horn trugen, ballten sich zu Fäusten. „Die Fürsten des Ostens sind hier. Chagatais Söhne sind bereit. Wer fehlt, beugt sich dem Gesetz.“
 
-Fatima sah es: den Kampf in seinen Augen – Zorn Scham Furcht Stolz Verwirrung – alles gleichzeitig alles miteinander verschlungen alles ohne Ausweg.
+„Batu fehlt.“
 
-Er wusste es.
-Er wusste dass sein Vater ihn übergangen hatte.
-Er wusste dass Shiremün der Enkel war der Jüngling der Unerfahrene.
-Er wusste dass er selbst der älteste Sohn war der Reichsverwalter seines Vaters der legitime Erbe nach allem was Recht und Brauch und Ordnung hieß.
-Und er wusste dass Recht und Brauch und Ordnung nichts galten gegen den letzten Willen eines Khans.
+Der Name fiel in die Stille wie ein Stein, der in ein tiefes Moor sinkt. Kein lautes Geräusch, aber das Wasser geriet in Schwingung.
 
-Das Grundgesetz des Reiches:
-Der Wille des Herrschers ist Gesetz.
-Und Ögedeis Wille hatte Shiremün genannt.
-Nicht Güyük.
-Niemals Güyük.
+Güyüks Gesicht verfinsterte sich, seine Wangenknochen traten weiß hervor unter der gebräunten Haut. „Batu sitzt an der Wolga und leckt sich die Wunden. Er tut, als schmerzten ihn die Glieder, aber er fürchtet den Ritt. Er ist ein Hund, der aus der Ferne kläfft.“
 
-Aber was war Wille?
-War es das letzte Wort eines sterbenden Mannes?
-War es das was in einer Urkunde stand?
-War es das was die Chronisten schrieben?
-Oder war es das was die Macht daraus machte?
+„Er ist der Herr der Goldenen Horde“, entgegnete Töregene ungerührt. „Er befehligt hunderttausend Reiter, die keinen Befehl aus Karakorum hören wollen, wenn sein Siegel nicht danebensteht. Glaubst du, Batu wird kommen, weil du mit dem Fuß aufstampfst? Ich habe ihm geschrieben. Fatima hat den Brief verfasst – mit aller gebotenen Ehre, mit allen Worten, die einem Enkel des großen Ahnherrn zustehen. Und weißt du, was die Antwort war? Die Kuriere berichten, dass er seine Zelte nicht abbricht. Er hat Schmerzen in den Beinen, lässt er ausrichten. Er kann nicht reiten.“
 
-Thronfolge war ein Streit über Texte.
-Das verstand Fatima in diesem Augenblick mit einer Klarheit die sie erschaudern ließ:
-Es gab keine Tatsachen mehr.
-Es gab nur noch Geschichten.
-Und wer die bessere Geschichte erzählte bekam den Thron.
+Ein hässlicher Laut entrang sich Güyüks Kehle, halb Lachen, halb Knurren. „Eine Ausflucht!“
 
-Güyük lockerte seine Schultern atmete aus schien einen Entschluss zu fassen: „Shiremün ist ein Kind“, sagte er verächtlich: „Das Reich braucht einen Mann an seiner Spitze – keinen Knaben keinen Enkel keinen Strohmann für deine Günstlinge!“
+„Gewiss ist es eine Ausflucht“, sprach die Khatun gelassen. „Aber eine Ausflucht, die durch hunderttausend Lanzen gedeckt ist. Ein Kuriltai ohne Batu ist kein Kuriltai. Es ist eine Verschwörung von Brüdern. Wenn wir die weiße Filzmatte ohne ihn ausbreiten und dich darauf emporheben, wird er die Wolga überschreiten. Er wird sagen, die Rechtmäßigkeit sei gebrochen. Ein unvollständiges Kuriltai, Güyük, ist kein Thronantritt. Es ist eine Kriegserklärung an dein eigenes Blut. Willst du das Reich deines Vaters verbrennen, noch ehe du seine Krone trägst?“
 
-Töregene blieb unbewegt: „Das Reich braucht Ruhe – keinen Bürgerkrieg zwischen zwei Ansprüchen!“ Ihre Stimme schnitt durch seine Wut wie eine Klinge durch Nebel: „Wenn du jetzt drängst wenn du jetzt zwingst wenn du jetzt Gewalt anwendest dann spaltest du das Haus Dschingis in zwei Hälften! Dann stehst du gegen Batu gegen deinen Bruder Köden gegen halb China gegen halb Persien gegen alle die Shiremün stützen!“
+Güyük trat einen Schritt näher an den Tisch. Sein Schatten legte sich nun über das Gold des Bechers, löschte dessen Glanz aus. „Er wird sich beugen müssen. Wenn die Fürsten hier sprechen, hat er keine Wahl.“
 
-„Dann sollen sie kommen!“ Güyüks Faust schlug auf den Tisch neben dem Sitz; Tintenfässer klirrten Papiere rutschten Federn fielen zu Boden: „Ich habe gegen Song gekämpft habe gegen Korea gekämpft habe gegen Russland gekämpft habe Polen erreicht habe Ungarn erreicht habe Europa erreicht! Ich fürchte keine Schlacht – auch nicht gegen meine eigenen Verwandten!“
+„Die Fürsten hier?“ Töregene neigte den Kopf leicht zur Seite. Ihre dunklen Augen bohrten sich in die seines Sohnes, unnachgiebig, fast mitleidlos. „Welche Fürsten meinst du? Diejenigen, die sich noch daran erinnern, was dein Vater trank, bevor er starb? Oder diejenigen, die wissen, was er niederschreiben ließ?“
 
-„Du fürchtest keine Schlacht?“ Töregene stand langsam auf; zum ersten Mal zeigte sie Größe Macht Präsenz Autorität: Ihre Stimme war leise aber jeder Ton traf wie ein Pfeil ins Ziel: „Dann bist du dümmer als ich dachte!“
+Fatimas Hand erstarrte vollends. Die Tinte an der Spitze des Kiels trocknete ein.
 
-Güyük trat einen Schritt zurück; seine Hand fuhr unwillkürlich zum Schwertgriff – dann hielt er inne ließ los atmete aus beherrschte sich sichtlich unter größter Anstrengung:
+Töregene sprach weiter, beiläufig, als erwähnte sie das Wetter des gestrigen Tages: „Dein Vater hat Shiremün benannt.“
 
-„Du wagst es mich dumm zu nennen?“
-„Ich wage es dich jung zu nennen“, sagte Töregene müde: „Jung und ungeduldig und blind für das was wirklich zählt:“
-Sie trat näher an ihn heran; ihre Stimme fiel ins Flüstern aber jedes Wort war deutlich vernehmbar:
+Die Jurte schien den Atem anzuhalten. Das Singen des Windes in den Spannseilen draußen verstummte für einen Herzschlag.
 
-„Batu wird keiner Versammlung zustimmen solange du Anspruch erhebst – er hasst dich seit deinem Streit am Westfeldzug seit deiner Beleidigung seit deiner Herausforderung seit deiner Demütigung vor den Fürsten Russlands! Du hast ihn öffentlich gedemütigt und Männer wie Batu vergessen so etwas nie!“
+Shiremün. Der Enkel. Das Kind, das Ögedei geliebt hatte, das er auf seinen Knien wiegte, während er die Gesandten aus aller Welt empfing. Der Knabe, dessen Name in den Kanzleien geflüstert wurde, während der Staub über den Gräbern der Feldzüge noch nicht verweht war.
 
-Güyük schwieg; sein Kiefer mahlte sichtbar unter der angespannten Haut:
+„Shiremün ist ein Knabe“, stieß Güyük hervor. Seine Stimme zitterte nun, nicht vor Furcht, sondern vor einer rasenden, unterdrückten Wut. „Ein Kind kann dieses Reich nicht führen. Die Steppe frisst Kinder.“
 
-„Also wartest du“, flüsterte Töregene weiter; ihre Hand legte sich sanft auf seine Wange eine Geste von Zärtlichkeit die Fatima nie zuvor gesehen hatte:
+„Aber der Wille deines Vaters ist kein Kind“, erwiderte Töregene mit schneidender Härte. „Er ist niedergeschrieben. Shigi Qutuqu verwahrt das blau-weiße Buch. Glaubst du, der Oberrichter zerreißt die Seiten, nur weil dein Schwert scharf geschliffen ist? Die Fürsten wissen, was Ögedei wollte. Sie haben seine Worte gehört. Wenn du heute den Thron forderst, forderst du ihn nicht von mir. Du forderst ihn gegen das Vermächtnis deines eigenen Vaters. Willst du gegen seinen letzten Willen herrschen, Güyük? Jetzt? Bevor die Fürsten ihn vergessen haben?“
 
-„Du wartest bis Batu stirbt oder bis er nachgibt oder bis Shiremün vergessen wird oder bis sich eine Gelegenheit bietet… Das ist Regieren Güyük! Nicht mit dem Schwert zuschlagen sondern warten können!“
+Da lag es offen zwischen ihnen, nackt und unbarmherzig auf dem Teppich ausgebreitet.
 
-Güyük entzog sich ihrer Berührung drehte sich um ging zum Zelteingang blieb stehen drehte sich nicht um:
+Fatima begriff es in diesem einen, schrecklichen Moment mit vollkommener Klarheit. Das Reich der Steppe, das sich von den Ufern des Gelben Meeres bis an die Tore Europas erstreckte, wurde nicht von Klingen zusammengehalten. Klingen konnten töten, sie konnten Städte schleifen und Blut in den Sand gießen, wie sie es damals in Maschhad getan hatten, als das Haus ihres Vaters brannte und das Schreien ihrer Schwester im Lärm der Hufen erstickte. Doch ein Reich regieren – das vermochten sie nicht. Ein Reich brauchte eine Erzählung.
 
-„Wie lange?“
-Seine Stimme klang gepresst erstickt fast verzweifelt:
-„Wie lange soll ich noch warten während du hier sitzt und Briefe schreibst und Intrigen spinnst und mich von allem fernhältst?“
-Er lachte bitter kurz rau hohl:
-„Weißt du was sie über dich sagen Mutter? Dass du mit deinem Finanzminister schläfst dass du Gift in Ögedeis Becher getan hast dass du Fatima zur Kanzlerin machst weil sie dir die Wahrheit sagt… Aber ich sage dir:“
-Endlich drehte er sich um sein Gesicht hart kalt leer tot:
-„Die Wahrheit interessiert mich nicht mehr – ich will nur noch den Thron!“
+Thronfolge war kein Urteil der Waffen. Sie war ein Streit über Pergamente, über Siegel, über Worte, die in Zelten gesprochen und von Schreibern festgehalten wurden. Es gab zwei Wahrheiten über Ögedeis Willen: die eine, die in Shigi Qutuqus ledergebundenen Registern schlummerte, und die andere, die Töregene Tag für Tag aus dem Nichts erschuf, Brief um Brief, Erlass um Erlass. Und wer die Geschichte kontrollierte, wer bestimmte, welche Worte wahr gewesen waren und welche nur Asche im Wind, der beherrschte die Welt.
 
-Töregene antwortete nicht.
-Sie sah ihn nur an mit diesem Blick den Fatima kannte:
-Dem Blick einer Frau die schon alles gesehen hatte schon alles verloren hatte schon alles gewonnen hatte schon alles überlebt hatte schon alles ertragen hatte schon alles verstanden hatte schon alles vergeben hatte schon alles bereut hatte schon alles neu gemacht hatte…
+Güyük starrte seine Mutter an. Sein Atem ging stoßweise, die breite Brust hob und senkte sich unter dem Lederpanzer. In seinen Augen lag die grausame Erkenntnis eines Mannes, der auf eine Mauer eingeschlagen hatte und feststellen musste, dass sie aus weichem, nachgiebigem Filz bestand, an dem jede Klinge wirkungslos abglitt.
 
-Und dann sprach sie zwei Worte:
-Zwei Worte so leise gesprochen dass Fatima sie kaum hörte aber jeder Buchstabe brannte sich ins Gedächtnis ein:
+„Wann?“ knurrte er. Das Wort war kurz, ein Ultimatum, zusammengepresst aus gekränktem Stolz und nacktem Machtanspruch. „Wann machst du mich zum Khagan?“
 
-**Noch nicht.**
+Töregene sah ihn lange an. Es war kein Blick einer Mutter auf ihr Fleisch und Blut; es war der Blick einer Herrscherin auf ein Werkzeug, das man noch nicht aus der Scheide ziehen durfte, weil der Stahl sonst im falschen Moment brach.
 
-Die Stille danach war ohrenbetäubend zerdrückend erstickend vernichtend endgültig unwiderruflich unveränderlich unausweichlich unabwendbar…
+„Noch nicht.“
 
-Güyük stand regungslos da minutenlang minutenlang minutenlang minutenlang minutenlang…
-Dann wandte er sich ab trat durch den Vorhang verschwand in der Dunkelheit draußen wo Schnee fiel wo Wind heulte wo Nacht herrschte wo Kälte regierte wo Einsamkeit lauerte wo Tod wartete…
+Zwei Worte. Sanft gesprochen, doch endgültig wie der Fall eines Richtbeils.
 
-Der Vorhang fiel zurück; die Stille blieb zurück; Töregene setzte sich wieder zurück nickte kaum merklich zurück gab Zeichen zurück Normalität zurück Alltag zurück Routine zurück…
+Güyük regte sich nicht. Drei lange Atemzüge vergingen, in denen man nur das Summen einer Fliege hörte, die gegen das Dachfenster prallte. Dann wandte er sich abrupt um.
 
-Fatima atmete aus atmete tief atmete langsam atmete bewusst befreite ihre Lungen befreite ihren Geist befreite ihre Gedanken…
+Er ging mit harten, stampfenden Schritten auf den Ausgang zu. Doch drei Schritt vor der Schwelle verlangsamte er seinen Gang.
 
-Sie begann zu schreiben begann Notizen zu machen begann Sätze zu formulieren begann Eindrücke festzuhalten begann Bilder einzufangen begann Momente zu konservieren begann Wahrheit zu archivieren begann Geschichte zu dokumentieren…
+Sein Kopf drehte sich. Seine Augen fanden Fatima.
 
-Aber dann hörte sie Schritte hinter sich:
-Schwere Schritte langsame Schritte bedächtige Schritte bedrohliche Schritte gefährliche Schritte tödliche Schritte…
+Es war derselbe Blick, mit dem er sie schon im Kanzleizelt gemustert hatte – jener kalte, taxierende Inventurblick eines Kriegers, der die Habe eines eroberten Hofes abschätzte. Doch diesmal lag keine bloße Verachtung darin. Diesmal stand eine Rechnung in seinen Augen. Eine Ziffer. Ein Maß. Er sah ihre gebeugte Haltung, ihre ruhende Hand über dem Papier, das zinnerne Tintenfass zu ihren Füßen. Er sah nicht eine Sklavin, er sah die Hand, die die Briefe an Batu schrieb. Er sah die Feder, die zwischen ihm und dem Thron stand.
 
-Güyük kam zurück.
-Er trat neben ihren Sitz blieb stehen beugte sich herab senkte seinen Kopf fast bis auf ihre Höhe flüsternd:
+Er sagte kein Wort. Er riss den Filzbehang zur Seite und trat hinaus in das grelle Licht der Steppe, das ihn verschlang.
 
-„Ich weiß wer du bist“, hauchte er ihr ins Ohr seine Stimme heiß vor Bitterkeit eiskalt vor Hass:
+Fatima atmete aus. Es war ein zitternder, lautloser Hauch. Ihre Finger schmerzten von der Verkrampfung.
 
-„Ich weiß dass du dabei warst in jener Nacht im Dezember als mein Vater starb… Ich weiß dass meine Mutter dich beauftragt hat Beweise verschwinden zu lassen… Ich weiß dass du mehr weißt als alle anderen zusammen…“
+In der Jurte herrschte eine lastende Stille, nur unterbrochen vom fernen Wiehern der Hengste im Lager und dem Knistern der Asche im zentralen Herd. Töregene hatte sich nicht bewegt. Sie saß noch immer mit geradem Rücken auf ihren Zobelfellen, den Blick auf den leeren Eingang gerichtet, durch den der Staub langsam wieder zu Boden sank.
 
-Seine Hand legte sich schwer auf ihre Schulter drückend quetschend würgend fast brechend fast zerstörend fast tötend:
+Ohne den Kopf zu wenden, ohne die Augen von der blendenden Helligkeit draußen abzuwenden, sprach die Regentin.
 
-„Eines Tages werde ich Khan sein“, flüsterte er weiter seine Lippen fast an ihrem Ohr sein Atmen heiß ihr Nacken kalt ihr Herz rasend ihr Verstand klar ihr Wille stark ihr Mut grenzenlos:
+„Schreib das nicht auf.“
 
-„Und dann werde ich dich finden werde ich dir Fragen stellen werde ich Antworten bekommen werde ich wissen was wirklich geschah… Und wenn du mir dann nicht sagst was ich wissen will wenn du mich belügst wenn du mich betrügst wenn du mich hintergehst wenn du mich verrätst…“
+Ihre Stimme klang fast sanft, eine beiläufige Anweisung zwischen zwei Frauen, die seit zwanzig Jahren denselben Raum teilten.
 
-Seine Finger gruben sich tiefer in ihr Fleisch;
-Sie spürten jeden Knochen jede Sehne jedes Band jeden Nerv jeden Muskel jede Faser jedes Atom jedes Molekül jedes Teilchen ihrer Existenz:
+Fatima hob das Kinn. Unter ihrer Seide fühlte sie den geheimen Brief an ihre Schwester brennen, jenes verborgene Blatt, auf dem die Wahrheit über das Gift der bitteren Mandeln stand, sicher vernäht im Saum ihres Mantels. Sie sah das schmale Profil Töregenes, die Falten um ihren Mund, die Einsamkeit einer Frau, die ihr eigenes Fleisch verleugnen musste, um die Fäden der Welt nicht zu verlieren.
 
-**Dann wirst du sterben.**
+Zum ersten Mal in ihrem Leben lag Fatima nicht im Verborgenen. Zum ersten Mal hob sie die Stimme, um die Frau zu belügen, die sie aus dem Staub der Sklavenmärkte geholt, die sie gekleidet, genährt und zur mächtigsten Stimme im Schatten des Throns gemacht hatte.
 
-Er richtete sich auf ging hinaus verschwand endgültig diesmal wirklich diesmal ganz diesmal für immer diesmal unwiderruflich diesmal endgültig diesmal absolut diesmal total diesmal final…
+„Ich schreibe nie das Wichtigste auf“, sagte Fatima.
 
-Fatima saß still reglos unbeweglich unbewegt unbeeindruckt unbeeinflussbar unerschütterbar unzerstörbar unbesiegbar unkaputtbar unvergessbar unaustilgbar uneinnehmbar uneinholbar uneinholbar uneinhol—
+Ihre Stimme war ruhig, weich wie das Wasser des Orchon im Frühling. Ein feines, beinahe unsichtbares Lächeln legte sich auf ihre Lippen.
 
-Ihre Hand zitterte kaum merklich fast unsichtbar fast unbemerkt fast unbedeutend fast unwichtig fast—
+Töregene wandte langsam den Kopf. Ihre Blicke trafen sich im Halbdunkel des Zeltes – zwei Frauen, aneinandergekettet durch Schuld, Überleben und die lautlose Architektur der Macht. Die Regentin verzog die Mundwinkel, ein schattenhaftes, melancholisches Echo jenes Lächelns, ehe sie wieder nach dem goldenen Becher griff, um seine Kühle in der Handfläche zu spüren.
 
-Aber wichtig!
-Bedeutungsvoll!
-Entscheidend!
+Draußen ritt Güyük zurück zu seinen Tausendschaften, die Klingen geschärft, die Ungeduld wie ein schwelendes Feuer in den Adern. Doch hier drinnen, im dämmrigen Bauch der Jurte, lag die Welt auf einem einfachen Bogen Maulbeerpapier, dünn, weiß und trügerisch wie frisch gefallener Schnee, auf dem noch niemand seine Spuren hinterlassen hatte.
 
-Denn jetzt trennte sich was nie hätte vereint werden sollen:
-Loyalität Selbsterhaltung Dienst Überleben Pflicht Furcht Ehre Angst Gehorsam Vernunft Treue Klugheit Liebe Hass Vertrauen Misstrauen Hoffnung Verzweiflung Glaube Zweifel Gewissheit Ungewissheit Sicherheit Gefahr Leben Tod—
-
-Alles!
-Alles gleichzeitig!
-Alles miteinander verwoben!
-Alles durcheinander gewirbelt!
-Alles ohne Ende!
-
-Töregene riss sie aus ihren Gedanken:
-Ohne sich umzudrehen ohne den Blick vom Vorhang zu lösen ohne eine Bewegung ihres Körpers ohne eine Veränderung ihrer Haltung ohne eine Regung ihres Gesichts ohne einen Ton ihrer Stimme außer dem einen Befehl:
-
-**Schreib das nicht auf.**
-
-Fatima erstarrte mitten im Satz mitten im Wort mitten im Buchstaben mitten im Gedanken mitten im Impuls mitten im Reflex mitten im Automatismus mitten im Drang mitten im Zwang mitten in der Pflicht mitten im Beruf mitten in ihrer Natur:
-
-Die Feder schwebte über dem Papier;
-Die Tinte trocknete auf ihrer Spitze;
-Die Zeit dehnte sich endlos unmessbar unendlich ewig zeitlos raumlos dimensionslos grenzenlos uferlos bodenlos abgrundtief todesschwer lebensleicht unmöglich möglich notwendig unmöglich—
-
-Sie lächelte:
-Ein Lächeln so leicht so sanft so freundlich so harmlos so arglos so naiv so kindlich so rein so unbeleckt so unbeschrieben so leer so voller Bedeutung so voller Geheimnis so voller Wissen so voller Macht so voller List so voller Klugheit so voller Überlebenswillen— :
-
-**Ich schreibe nie das Wichtigste auf.**
-
-Töregene drehte sich langsam um sah sie an musterte ihr Gesicht prüfte ihren Blick testete ihre Worte wog ihre Bedeutung ab maß ihre Wahrheit gegeneinander unterschied Lüge von Wirklichkeit trennte Schein von Sein löste Maske von Gesicht befreite Fassade von Kern öffnete Tür öffnete Fenster öffnete Tor öffnete Weg öffnete Brücke öffnete Abgrund—
-
-Zwei Frauen sahen einander an;
-Zwei Frauen lächelten fast;
-Zwei Frauen logen fast;
-Zwei Frauen vertrauten fast;
-Zwei Frauen hassten fast;
-Zwei Frauen liebten fast;
-
-Fast—
-Nur fast—
-Immer nur fast—
-
-Nie ganz—
-Nie wirklich—
-Nie endgültig—
-Nie absolut—
-Nie total—
-Nie final—
-
-Immer offen—
-Immer möglich—
-Immer verhandelbar—
-Immer beweglich—
-Immer fließend—
-Immer werdend—
-
-Niemals seiend—
-Niemals bleibend—
-Niemals feststehend geschrieben besiegelt bestätigt beglaubigt ratifiziert manifestiert materialisiert realisiert verwirklicht wahrgemacht wahrhaft seiend existent lebendig tot sterblich unsterblich ewig zeitlos grenzenlos—
-
-Töregene nickte kaum merklich wandte sich wieder ab richtete ihren Blick wieder nach draußen wo Schnee fiel wo Nacht herrschte wo Kälte regierte wo Dunkelheit lauerte wo Einsamkeit wartete wo Tod lauerte wo Leben kämpfte wo Zukunft entschieden wurde— :
-
-**Geh jetzt.**
-
-Fatima erhob sich nahm ihr Brett nahm ihre Feder nahm ihr Tintenfass nahm ihr Schweigen nahm ihr Wissen nahm ihr Geheimnis nahm ihre Lüge nahm ihre Wahrheit nahm ihr Leben nahm ihren Tod nahm alles mit hinaus hinaus aus dem Zelt hinaus in die Nacht hinaus in den Schnee hinaus in die Kälte hinaus in die Dunkelheit hinaus in das Unbekannte hinaus in das Ungewisse hinaus in das Unvermeidliche hinaus in das Unausweichliche hinaus…
-
-Draußen fiel Schnee erste Flocken erste Boten erste Vorboten eines Winters der kommen würde kommen musste kommen sollte kommen durfte kommen könnte kommen würde bestimmt kam sicher kam bald kam schnell kam hart kam kalt kam endlos kam ewig kam tief kam schwer kam weiß kam rein kam totkamlebendkamtotkamlebendkamtotlebendtotlebendtotleb—
-
----
-
-*Der Konflikt des Jahrzehnts war gezündet.*
-*Mutter verweigerte Sohn das Reich.*
-*Thronfolge war ein Streit über Texte entlarvt offengelegt enthüllt demaskiert entkleidet nackt bloßgestellt wehrlos verwundbar sterblich menschlich allzu menschlich—*
-
-*Und Fatima*
-*die Sklavin*
-*die Schreiberin*
-*die Vertraute*
-*die Lügnerin*
-*die Überlebende*
-*die Chronistin*
-
-*hatte zum ersten Mal offen ins Gesicht gelogen*
-*der Frau*
-*die ihr alles gab:*
-
----

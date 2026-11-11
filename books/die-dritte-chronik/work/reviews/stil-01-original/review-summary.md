@@ -2,61 +2,16 @@
 
 - Buch-ID: die-dritte-chronik
 - Stil: stil-01-original
-- Erstellt: 2026-10-28T20:29:37
+- Erstellt: 2026-11-11T21:41:13
 - LLM: none
-- Kapitel: 48
-- Kapitel mit Befunden: 19
+- Kapitel: 1
+- Kapitel mit Befunden: 0
 - Fehler: 0
-- Warnungen: 13
-- Hinweise: 36
+- Warnungen: 0
+- Hinweise: 0
 
 ## Kapitel
 
-- 001: OK (ERROR=0, WARNING=0, INFO=0)
-- 002: OK (ERROR=0, WARNING=0, INFO=0)
-- 003: OK (ERROR=0, WARNING=0, INFO=0)
-- 004: OK (ERROR=0, WARNING=0, INFO=0)
-- 005: Befund (ERROR=0, WARNING=1, INFO=0)
-- 006: OK (ERROR=0, WARNING=0, INFO=0)
-- 007: OK (ERROR=0, WARNING=0, INFO=0)
-- 008: OK (ERROR=0, WARNING=0, INFO=0)
-- 009: OK (ERROR=0, WARNING=0, INFO=0)
-- 010: OK (ERROR=0, WARNING=0, INFO=0)
-- 011: OK (ERROR=0, WARNING=0, INFO=0)
-- 012: OK (ERROR=0, WARNING=0, INFO=0)
-- 013: Befund (ERROR=0, WARNING=0, INFO=1)
-- 014: OK (ERROR=0, WARNING=0, INFO=0)
 - 015: OK (ERROR=0, WARNING=0, INFO=0)
-- 016: Befund (ERROR=0, WARNING=0, INFO=3)
-- 017: OK (ERROR=0, WARNING=0, INFO=0)
-- 018: Befund (ERROR=0, WARNING=0, INFO=4)
-- 019: OK (ERROR=0, WARNING=0, INFO=0)
-- 020: Befund (ERROR=0, WARNING=0, INFO=1)
-- 021: OK (ERROR=0, WARNING=0, INFO=0)
-- 022: OK (ERROR=0, WARNING=0, INFO=0)
-- 023: Befund (ERROR=0, WARNING=0, INFO=3)
-- 024: OK (ERROR=0, WARNING=0, INFO=0)
-- 025: OK (ERROR=0, WARNING=0, INFO=0)
-- 026: OK (ERROR=0, WARNING=0, INFO=0)
-- 027: Befund (ERROR=0, WARNING=0, INFO=1)
-- 028: Befund (ERROR=0, WARNING=0, INFO=2)
-- 029: OK (ERROR=0, WARNING=0, INFO=0)
-- 030: Befund (ERROR=0, WARNING=2, INFO=3)
-- 031: Befund (ERROR=0, WARNING=0, INFO=1)
-- 032: Befund (ERROR=0, WARNING=0, INFO=2)
-- 033: OK (ERROR=0, WARNING=0, INFO=0)
-- 034: Befund (ERROR=0, WARNING=2, INFO=4)
-- 035: OK (ERROR=0, WARNING=0, INFO=0)
-- 036: OK (ERROR=0, WARNING=0, INFO=0)
-- 037: OK (ERROR=0, WARNING=0, INFO=0)
-- 038: Befund (ERROR=0, WARNING=0, INFO=1)
-- 039: OK (ERROR=0, WARNING=0, INFO=0)
-- 040: Befund (ERROR=0, WARNING=0, INFO=3)
-- 041: Befund (ERROR=0, WARNING=0, INFO=1)
-- 042: OK (ERROR=0, WARNING=0, INFO=0)
-- 043: OK (ERROR=0, WARNING=0, INFO=0)
-- 044: Befund (ERROR=0, WARNING=0, INFO=2)
-- 045: Befund (ERROR=0, WARNING=2, INFO=0)
-- 046: Befund (ERROR=0, WARNING=3, INFO=1)
-- 047: Befund (ERROR=0, WARNING=3, INFO=3)
-- 048: OK (ERROR=0, WARNING=0, INFO=0)
+
+Alle geprueften Kapitel sind regelbasiert unauffaellig — keine kyrillischen Reste, keine Encoding-Fehler, keine auffaelligen Laengen, keine Degeneration.

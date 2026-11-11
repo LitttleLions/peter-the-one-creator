@@ -5,384 +5,129 @@
 
 ---
 
-Der Sturm trug den Geruch von nassem Filz und trocknender Tinte, und Shigi wusste, dass dieser Winter anders sein würde.
+Der Geruch von nassem Filz, verbranntem Talg und getrocknetem Ruß hing schwer in den Kanzleizelten, vermengt mit dem stechenden Dunst von frischem chinesischem Leim und Essigwasser, mit dem die Schreiber alte Schriftzeichen von den Seidenrollen wuschen. Draußen pfiff der Wind über das gefrorene Schilf des Orchon, ein schneidender Steppenhauch, der die Zeltbahnen schlagen ließ und die Asche in den flachen Eisenbecken aufwirbelte. 
 
-Die Kanzleien der Ordu waren nie still gewesen, nicht unter Dschingis, nicht unter Ögedei. Es gab immer Boten, die kamen und gingen, Schreiber, die Urkunden kopierten, Gelehrte, die stritten. Aber jetzt, in diesen Wochen nach dem Tod des Khans, hatte die Stille eine andere Qualität angenommen. Sie war lauernd. Sie wartete.
+Shigi Qutuqu saß mit untergeschlagenen Beinen auf seinem niedrigen Holzgestell, die schwere Marderfellrobe eng um die Schultern gezogen. Vor ihm lag das blau-weiße Buch, die gebundenen Lagen aus festem Steppenpapier, deren Ränder von zahllosen Daumen berieben waren. Vierzig Winter hatte er gesehen, wie Fürsten starben, wie die Söhne der Steppe um Erbschaften stritten, Rosse zählten und die Weiden nach alter Gewohnheit neu vermaßen. Ein Herrscher ging, die Tausendschaften schwiegen für die Trauerzeit, und am Ende saß der Kanzler mit den Ältesten am Herdfeuer und wog die Rinder gegen die Jurten ab.
 
-Shigi saß an seinem Tisch, das blau-weiße Buch vor sich aufgeschlagen, und las die Einträge der letzten Tage. Fünfzehn Siegelentzüge. Zweiunddreißig neue Ernennungen. Acht Dekrete, die die Einnahmequellen der Provinzen neu verteilten. Alles in Töregenes Namen. Alles mit seiner Unterschrift beglaubigt.
+Das hier jedoch war kein Nachlass. Es war ein Feldzug.
 
-Er hatte es nicht verhindern können.
+Auf den niedrigen Schreibpulten stapelten sich die Rollen, weiß wie frischer Schnee, gelb wie Horn, bestrichen mit Verordnungen, die in den vergangenen sieben Tagen ausgefertigt worden waren. Nicht mit der Lanze unterwarf Töregene die Welt, sondern mit dem Schnitt der Rohrfeder. Siegel um Siegel war in die Große Kanzlei getragen worden, schwere Klumpen aus Silber, geschnitzte Stücke aus weißer Jade mit den Drachenköpfen der Kitanen, klobige Holzstempel der uigurischen Steuereintreiber. Die Boten der Khatun hatten sie aus den Truhen der Wesire gerissen, während Ögedeis Asche noch kaum kalt war.
 
-Er hatte es nicht einmal versucht.
+„Dieses noch, Großer Richter“, sagte ein junger Schreiber mit zitternder Stimme und legte einen weiteren Bogen aus dickem Maulbeerbaumpapier vor Shigi nieder. 
 
-Der erste Bote war am Morgen nach Ögedeis Begräbnis gekommen. Ein junger Mann, kaum älter als fünfzehn, mit einem versiegelten Umschlag, den er auf Shigis Tisch legte, als wäre er nichts als eine Einladung zu einem Festmahl.
+Der Junge war kaum älter als sechzehn Winter, ein Uigure mit schmalen Händen, an denen die Ränder der Nägel vom Schwefel der Beize blau verfärbt waren. Seine Augen flackerten unstet zur Zeltöffnung, als fürchte er, der Wind selbst könnte eine Wache der Khasag hereinwehen.
 
-„Die Regentin bittet um Ihre Bestätigung", hatte der Bote gesagt, und Shigi hatte gelacht. Nicht laut. Ein trockenes Geräusch, das in der Stille der Kanzlei wie ein Husten klang.
+Shigi hob die Hand, langsam, mit der unerbittlichen Ruhe eines Mannes, der vor Jahren gelernt hatte, dass Eile nur den Pfeil vom Ziel abbringt. Seine Finger, knochig und von der Kälte der Jurten gezeichnet, strichen über die feuchte Tusche.
 
-„Bittet", wiederholte er. „Sie bittet."
+*Dekret über die Einkünfte der Seidenstraßenposten von Beshbaliq bis Samarkand. Sämtliche Erträge an Silberbarren, Zobelfellen und Weinen sind mit sofortiger Wirkung nicht mehr an den Schatzmeister des Palastes abzuführen, sondern der Ordu der Großen Khatun Töregene zu überstellen. Widerrufe ergehen an alle Statthalter.*
 
-Der Bote sagte nichts. Er wartete. Shigi öffnete das Siegel.
+Ein Federstrich. Ein halbes Weltreich an Zöllen und Tributen, das über Generationen hinweg das Fundament von Ögedeis Trinkgelagen und Feldzügen gebildet hatte, wechselte den Herrn. Nicht durch einen Kurultai, nicht durch das Urteil der Fürsten. Durch ein Stück gepresste Rinde und ein paar Tropfen Ruß.
 
-Das Dekret war präzise formuliert. Es entzog Chinqai, dem Kanzler des Reiches, die Kontrolle über die Steuereinnahmen der westlichen Provinzen und übertrug sie einem gewissen Abd ar-Rahman, von dem Shigi noch nie gehört hatte. Die Begründung war knapp: Verwaltungsreform.
+„Sie nimmt alles“, flüsterte der Schreiber, unfähig, den Schrecken hinunterzuschlucken.
 
-Shigi las das Dekret zweimal. Dann legte er es beiseite und griff nach seinem Siegel.
+„Sie nimmt nichts“, erwiderte Shigi mit seiner tiefen, schleifenden Stimme, die klang wie zwei Mühlsteine, die trocken aufeinanderrieben. „Sie ordnet es nur neu an. Das Gesetz ist wie das Wasser in einem Graben: Wer die Erde aufwirft, bestimmt, wohin es fließt.“
 
-Er konnte nicht verhindern, dass Töregene die Männer ihres Mannes entmachtete. Er konnte nur dafür sorgen, dass es nach den Regeln geschah. Dass die Formalitäten gewahrt blieben. Dass das blau-weiße Buch nicht zur Chronik der Willkür wurde, sondern zur Chronik der Verfahren.
+Er griff nach dem schweren Stempel aus Speckstein, tauchte ihn in die flache Schale mit Zinnober und presste ihn auf den unteren Rand des Papiers. Das Rot fraß sich tief in die Fasern, eine Wunde, die nicht mehr verheilen würde. Er stempelte, weil er nicht die Macht besaß, den Dammbruch aufzuhalten; aber während der Stein das Siegel hinterließ, brannte sich jedes Wort, jede Jahreszahl und jeder genannte Name in sein Gedächtnis ein. 
 
-Das war seine Pflicht.
+*Er merkte sich alles.* 
 
-Das war seine Lüge, und er kannte sie.
+Seit Dschingis Khans Mutter Hö'elün ihn als weinendes Kind aus den Trümmern des Tatarenlagers gezogen hatte, besaß er nichts als seine Nützlichkeit und sein Gedächtnis. Die Familie hatte sein Volk zerschlagen, seine Brüder unter das Joch der Wagenräder gezwungen, und dennoch liebte er diesen Stamm, liebte die Weite dieser Herrschaft, die er mit seinen eigenen Rechtsformeln eingefriedet hatte. Töregene zerbrach diese Hecken nun nicht mit der Axt. Sie setzte sie einfach um, Rute für Rute.
 
-Der Stempel fiel. Die Tinte trocknete. Der Bote nahm das Dekret und verschwand.
+Sein Respekt vor ihr wuchs mit jedem gestempelten Bogen, und das Bittere daran war, dass dieser Respekt seine Verachtung nährte. Sie war eine Frau, die Ögedei einst als leblose Beute genommen hatte, ein Naimanenmädchen ohne Stimme; nun regierte sie schneller mit Tinte und Siegellack, als ihre Generäle mit zehn Tausendschaften reiten konnten.
 
-An diesem Tag kamen sieben weitere Dekrete. Am nächsten Tag elf. Am dritten Tag neunzehn.
+Ein Schrei gellte vor der Jurte auf, gefolgt vom Schnauben erschöpfter Pferde und dem trockenen Klappern von Eisengeschirr. Die dicke Filzmatte am Eingang wurde beiseitegeschlagen. Ein Bote trat ein, gehüllt in einen dampfenden Wolfspelz, auf dessen rauem Haar der Reif glitzerte. Seine Stiefel waren bis zu den Waden mit gefrorenem Matsch verkrustet.
 
-Shigi stempelte sie alle.
+Er verneigte sich flüchtig, ohne die Ehrerbietung abzuwarten, die dem Oberrichter des Reichs gebührte, und warf eine lederne Kartusche auf Shigis Tisch.
 
-Aber er merkte sich jedes einzelne.
+„Ein Eilbefehl aus dem Zelt der Khatun. Mit dem roten Band gebunden. Für den Jarghuchi persönlich.“
 
-Er merkte sich die Namen der Männer, die ihre Ämter verloren: Mahmud Yalavach, der Gouverneur von Transoxanien. Mas'ud Beg, sein Sohn. Qadaq, Ögedeis erster Berater. Er merkte sich die Daten, die Summen, die Umleitungen. Er merkte sich die Unterschriften, die fehlten. Die Siegel, die brachen.
+Shigi blickte den Mann nicht an. Er betrachtete stattdessen den Riemen, an dem die Kartusche befestigt war. Es war feines, geschmeidiges Ziegenleder, rot gefärbt, wie es nur am Hof der Regentin verwendet wurde. Er zog das Holzstäbchen heraus, entrollte das Papier und überflog die Zeilen.
 
-Und er schrieb alles nieder.
+Es war ein Haftbefehl.
 
-Nicht im blau-weißen Buch. In einem anderen Heft, das er unter seinem Tisch aufbewahrte, zwischen losen Blättern und verbrauchten Tintenfässern. Ein Notizbuch, das niemand finden würde, weil niemand suchte.
+*Gegen Chinqai. Den Großen Kanzler. Den Vertrauten des toten Khagans.*
 
-*Zurück an den Ort, den er so fürchtete. Zurück an den Ort des Schmerzes. Zurück an den Ort, an dem er das Gesetz beugte, um es zu bewahren.*
+Ihm wurde Hochverrat vorgeworfen, Unterschlagung von Reichsbeständen, eigenmächtiges Siegeln kaiserlicher Postenpässe nach dem Ableben des Herrschers. Die Strafe nach dem Gesetz: Bruch des Rückgrats ohne Vergießen von Blut. Die Vollstreckung: sofort, an jedem Ort des Reichs, an dem er ergriffen würde.
 
-*Das war seine Arbeit jetzt.*
+Shigi spürte, wie die Kälte des Winters durch die Ritzen der Zeltwände kroch und sich um sein Herz legte. Chinqai. Der alte Mann, der mit ihm am Totenbett Dschingis Khans gestanden hatte. Ein Kanzler, der dreißig Jahre lang das Gedächtnis der Kanzleien gewesen war, der jeden Vertrag mit den Jin-Kaisern, jeden Briefwechsel mit den Statthaltern in Chorasan formuliert hatte. 
 
-*Das war seine Verantwortung.*
+Töregene schnitt die alten Wurzeln ab. Eine nach der anderen.
 
-Er schrieb die Namen der Männer auf, die fielen, und die Namen der Männer, die aufstiegen. Er schrieb die Summen, die verschwanden, und die Summen, die neu auftauchten. Er schrieb die Daten, die Löcher in der Chronik, die Lücken, die Töregene hinterließ.
+Ehe Shigi die Hand nach der Zinnobertusche ausstrecken konnte, trat ein zweiter Mann ein. Es war kein Schreiber, sondern ein Melder der südlichen Postlinie, dessen Gesicht von Frostbeulen blau gezeichnet war. Er hielt ein kurzes, versiegeltes Bambusrohr in den klammen Fingern.
 
-Und er wusste, dass er diese Liste eines Tages brauchen würde.
+„Nachricht aus dem Lager des Prinzen Köden“, stieß der Mann hervor, während ihm der weiße Atem vor dem Mund gefror. „Aus der Hochebene von Liangzhou.“
 
-Er wusste nur nicht, wann.
+Shigi nahm das Bambusrohr, brach das Wachs mit dem Daumennagel und zog den schmalen Streifen Seide heraus. Er las die wenigen, hastig mit dem Pinsel gesetzten Zeichen.
 
----
+*Chinqai ist bei mir. Wer seine Hand gegen den Kanzler meines Vaters erhebt, erhebt sie gegen mein Zelt. Köden.*
 
-Die Tage vergingen, und die Kanzleien veränderten sich.
+Shigi atmete langsam aus. Der Rauch aus der Feuerstelle stieg kerzengerade zur Rauchöffnung empor.
 
-Es waren kleine Veränderungen, unsichtbar für den, der nicht hinsah. Neue Gesichter in den Ecken. Vertraute Männer, die plötzlich nicht mehr da waren. Boten, die andere Wege gingen. Türen, die sich öffneten und schlossen, ohne dass man hörte, wer hindurchging.
+Der Haftbefehl der Mutter auf der einen Seite des Tisches. Die Schutzurkunde des Sohnes auf der anderen. 
 
-Shigi beobachtete alles.
+Der Riss, der die Familie des Welteroberers spalten würde, lag nicht auf einem fernen Schlachtfeld zwischen den Lanzen der Reitersoldaten. Er lag als simpler Kanzleivorgang vor ihm, zwei Fußbreit voneinander entfernt, niedergeschrieben auf Holz und Seide. Töregenes zweiter Sohn, der stille, kränkliche Köden, schützte den Mann, den seine Mutter vernichten wollte. 
 
-Er saß an seinem Tisch, das Siegel in der Hand, und sah zu, wie Töregene das Reich regierte, ohne je einen Fuß in die Kanzlei zu setzen. Sie schickte Dekrete. Sie schickte Boten. Sie schickte Anweisungen, die präzise waren, als hätte sie jedes Wort selbst diktiert.
+Gefahr.
 
-Und das hatte sie.
+Shigi legte die Hände flach auf die Knie. Vierzig Jahre lang war er ein Spiegel gewesen, der nur das Licht der Gesetze zurückwarf. Er hatte geurteilt, ohne den Blick zu heben, ob der Mann vor ihm ein Bettler war oder ein Sohn des Khagans. Doch nun begriff er: Das Gesetz war kein Spiegel mehr. Es war ein Schild. Und wenn er diesen Schild nicht hob, würde das Reich in Stücke geschlagen werden, noch ehe Töregenes ältester Sohn Güyük aus dem Westen zurückkehren konnte.
 
-Shigi kannte ihre Handschrift. Er hatte sie oft genug gesehen, in den Briefen, die sie an ihren Mann schrieb, in den Anweisungen, die sie an die Gouverneure sandte. Sie schrieb wie ein Mann, sagten die Schreiber. Nein, korrigierte Shigi leise. Sie schrieb wie ein Befehlshaber.
+Er wandte sich an den Boten der Khatun, der ungeduldig von einem Fuß auf den anderen trat.
 
-Aber was ihn mehr beeindruckte als ihre Handschrift, mehr als ihre Präzision, mehr als ihre Geschwindigkeit, war ihr Verständnis für die Macht des Papiers.
+„Dieser Haftbefehl ist mangelhaft“, sagte Shigi leise.
 
-Der Sturm trug den Geruch von verbranntem Stein und Sturmlicht, und er wusste, dass der Feind näher kam.
+Der Bote riss die Augen auf. „Herr? Er trägt das persönliche Siegel der Regentin! Der Befehl duldet keinen Verzug!“
 
-Töregene war der Feind. Töregene war die Feindin. Und sie verstand besser als jeder Mann in diesem Reich, dass man mit Papier erobern konnte, was man mit Schwertern nicht halten konnte.
+„Er trägt das Siegel der Herrin, doch er missachtet das Jasaq-Verfahren des Gründers“, erwiderte Shigi, und seine Stimme gewann jene schneidende, unerschütterliche Härte, die Fürsten bei Streitigkeiten verstummen ließ. „Ein Kanzler des Reiches, der von Ögedei Khagan mit der goldenen Paiza ersten Ranges ausgestattet wurde, kann nicht durch einen einfachen Erlass verhaftet werden. Es bedarf der Gegenzeichnung des Großrichters, der Bestätigung des Ältestenrates und der Benennung eines festen Gerichtsortes. Überdies ist der Aufenthaltsort des Beschuldigten in der Klageschrift mit ‚flüchtig in den Nordprovinzen‘ angegeben.“
 
-Dekrete, die Einnahmen umleiteten. Siegel, die Ernennungen bestätigten. Befehle, die Provinzen neu ordneten. Alles auf Papier. Alles mit Tinte. Alles mit seinem Siegel bestätigt.
+Shigi tippte mit dem Zeigefinger auf die Seide des Prinzen Köden.
 
-Er spürte die Macht, die in seiner Hand lag.
+„Er befindet sich jedoch nachweislich im Herrschaftsbereich des Prinzen Köden im Süden. Das ist eine andere Gerichtsbarkeit. Wenn ich diesen Haftbefehl siegle, ohne Ködens Appellation zuvor nach altem Brauch anzuhören, begeht diese Kanzlei einen Verfahrensbruch gegen das Blut Dschingis Khans.“
 
-Und er spürte die Ohnmacht.
+Der Schreiber am Nachbartisch hielt den Atem an. Niemand widersprach Töregene. Niemand verzögerte ihre Rache.
 
----
+„Ihr verweigert der Khatun den Gehorsam?“, zischte der Bote.
 
-Es war der siebte Tag, als der Haftbefehl kam.
+„Ich schütze die Khatun vor den Fehlern ihrer Schreiber“, konterte Shigi kalt. „Geh zurück zu ihren Zelten. Sag ihr, der Große Richter verlange nach den Akten der Staatskasse von 1238, um die Vorwürfe der Unterschlagung zu prüfen. Und sag ihr, ich benötige drei Botenläufe, um die Grenzen von Ködens Weidebezirk juristisch mit dem alten Verzeichnis abzugleichen. Bis diese Fragen geklärt sind, ruht der Vollzug.“
 
-Der Bote war älter als die anderen, ein Mann mit grauen Schläfen und einem Gesicht, das schon viele Befehle überbracht hatte. Er legte das Dokument auf Shigis Tisch, verbeugte sich kurz und wartete.
+Er benutzte sein Handwerk wie einen Wall aus Steinen. Paragrafen, Fristen, Formfehler, das endlose, zähe Mahlen der Kanzleimühlen – er warf den Staub des Gesetzes in das Getriebe ihrer Eile. Zum ersten Mal in seinem Leben wandte er die Gesetze nicht an, um ein Vergehen zu sühnen, sondern um einem Mann das Leben zu retten. Um Zeit zu kaufen. Chinqai saß fest bei Köden, und Köden war der Sohn der Regentin; solange das Verfahren schwebte, wagte Töregene es nicht, ihre eigenen Krieger gegen das Zelt ihres Fleisches und Blutes zu schicken.
 
-Shigi las den Befehl.
+Der Bote spie auf den Filzboden, riss den ungesiegelten Befehl an sich und stürmte hinaus in das Schneetreiben.
 
-Es war ein Haftbefehl gegen Chinqai, den Kanzler des Reiches.
+Shigi blieb regungslos sitzen. Sein Puls ging ruhig, doch in seiner Brust brannte eine trockene Hitze. Er hatte eine Grenze überschritten. Er war kein unbeteiligter Chronist mehr. Er hatte eine Figur auf dem Brett verschoben.
 
-„Das ist ein Fehler", sagte er leise.
+In diesem Augenblick hob sich der Vorhang des Kanzleizeltes erneut.
 
-Der Bote sagte nichts.
-
-„Chinqai ist der Kanzler. Er hat Ögedei zwanzig Jahre gedient. Er hat Dschingis Khan gedient. Er hat –"
-
-„Der Befehl kommt von der Regentin", sagte der Bote.
-
-Shigi schwieg. Er las den Befehl noch einmal.
-
-Es war formal korrekt. Einwandfrei. Das Siegel Töregenes war echt, die Unterschrift war echt, die Begründung war vage genug, um nicht angreifbar zu sein: Verschwörung gegen die Ordnung des Reiches. Nichts, was man widerlegen konnte. Nichts, was man beweisen musste.
-
-Shigi legte den Befehl beiseite.
-
-„Ich werde ihn bearbeiten", sagte er.
-
-Der Bote zögerte. „Die Regentin erwartet sofortige Ausführung."
-
-„Ich verstehe", sagte Shigi. „Aber ein Haftbefehl gegen den Kanzler des Reiches erfordert bestimmte Verfahrensschritte. Ich muss prüfen, ob die Anklage –"
-
-„Die Regentin erwartet sofortige Ausführung", wiederholte der Bote.
-
-Shigi sah ihn an. Lange.
-
-„Ich habe verstanden", sagte er.
-
-Der Bote verbeugte sich und ging.
-
-Shigi blieb allein.
-
-Er sah auf den Haftbefehl hinunter, der vor ihm lag, und dachte an Chinqai, den er seit dreißig Jahren kannte, den er respektierte, den er vielleicht sogar mochte. Chinqai, der immer korrekt gewesen war, immer loyal, immer der Diener des Reiches, niemals der Diener eines einzelnen Khans.
-
-Chinqai, der jetzt fliehen musste.
-
-Shigi legte den Befehl in eine Schublade.
-
-Er würde ihn bearbeiten.
-
-Morgen.
-
----
-
-Der Nachmittag brachte die Nachricht, die alles veränderte.
-
-Ein Schreiber aus der Kanzlei Ködens, Töregenes eigenem Sohn, erschien mit einem versiegelten Brief. Er übergab ihn Shigi mit der Bitte um sofortige Weiterleitung an die Regentin.
-
-Shigi öffnete den Brief nicht. Er hatte das Recht nicht dazu. Aber er fragte den Schreiber.
-
-„Was ist der Inhalt?"
-
-Der Schreiber zögerte. Ein junger Mann, kaum älter als zwanzig, mit der nervösen Energie eines, der zum ersten Mal eine wichtige Botschaft überbringt. „Prinz Köden hat Chinqai unter seinen Schutz gestellt", sagte er leise.
-
-Shigi sagte nichts.
-
-„Chinqai erschien heute Morgen am Hof des Prinzen. Er bat um Asyl. Prinz Köden gewährte es."
-
-„Weiß die Regentin davon?"
-
-„Der Brief informiert sie."
-
-Shigi nickte langsam. Er sah auf das Siegel des Briefes, das rote Wachs, das den Inhalt verbarg, das Geheimnis, das er bereits kannte.
-
-Prinz Köden, der Sohn Töregenes, schützte den Feind seiner Mutter.
-
-*Der Riss in der Familie lag als Aktenvorgang vor ihm.*
-
-Shigi schloss die Augen.
-
-Er sah die Ordnungen der Dinge, wie sie sich vor ihm ausbreiteten: Töregene, die das Reich ihrer Söhne wollte. Köden, der sich weigerte, die Männer seiner Mutter zu verraten. Güyük, der noch im Westen war, aber bald zurückkehren würde. Drei Kinder einer Mutter, drei Wege, drei Loyalitäten.
-
-Und zwischen ihnen das Papier.
-
-Der Haftbefehl, den er verschleppen konnte.
-
-Der Brief, den er nicht öffnen durfte.
-
-Die Chronik, die er führte.
-
-*Er ballte die Fäuste, spürte das Kribbeln der Macht in den Adern, doch er hielt sich zurück.*
-
-Er öffnete die Schublade. Er nahm den Haftbefehl heraus. Er legte ihn neben den Brief.
-
-Dann begann er zu schreiben.
-
-„Ich brauche eine Klärung der Rechtsgrundlage", notierte er. „Der Haftbefehl gegen den Kanzler des Reiches erfordert einen Nachweis der Verschwörung. Die Begründung der Regentin ist zu vage, um eine Verhaftung zu rechtfertigen. Ich bitte um Präzisierung."
-
-Er schrieb. Er formulierte. Er erfand Verfahrensfragen, die es nicht gab, und Fragen, die es gab, aber nicht relevant waren. Er schrieb von Jurisdiktionen, von Zuständigkeiten, von Beweislasten, von allem, was ihm einfiel, um die Zeit zu dehnen, um den Befehl zu verschleppen, um Chinqai die Zeit zu geben, die er brauchte.
-
-Und als er fertig war, legte er das Papier beiseite und wartete.
-
-Er würde es morgen abschicken.
-
-Oder übermorgen.
-
-Er würde es schicken, wenn er sicher war, dass Chinqai weit genug war.
-
----
-
-Das war gefährlich.
-
-Er wusste es. Er spürte es in den Knochen, in der Kälte, die durch die Filzwände der Kanzlei kroch, in der Stille, die schwerer wurde mit jedem Tag. Töregene würde nicht ewig warten. Sie würde nicht ewig fragen.
-
-Aber er konnte nicht anders.
-
-_Diesmal habe ich wirklich überlebt._
-
-Nein. Diesmal hatte er nicht überlebt. Diesmal hatte er gehandelt. Zum ersten Mal seit Jahren, seit Jahrzehnten, hatte er seine Position nicht genutzt, um sich zu schützen, sondern um einen anderen zu schützen.
-
-Es fühlte sich seltsam an.
-
-Es fühlte sich richtig an.
-
----
-
-Am Abend des achten Tages kam Abd ar-Rahman.
-
-Shigi hörte ihn, bevor er ihn sah. Die Schritte auf dem Kies, die Stimmen der Boten, das Öffnen der Türen. Die Kanzlei war nie leise, wenn ein neuer Mann kam.
-
-Abd ar-Rahman war ein großer Mann, breitschultrig, mit einem Gesicht, das zu jung für seine Position schien. Er trug die Kleidung eines Kaufmanns, nicht eines Hofbeamten, aber die Art, wie er ging, die Art, wie er sprach, die Art, wie er die Schreiber musterte, verriet, dass er wusste, wer er war.
-
-Er war ein Fremder in diesem Reich.
-
-Er war Töregenes Mann.
-
-Shigi stand auf, als Abd ar-Rahman eintrat. Es war eine Geste der Höflichkeit, nichts weiter. Respekt vor dem Amt, nicht vor dem Mann.
-
-„Shigi Qutuqu", sagte Abd ar-Rahman lächelnd.
-
-„Der Oberrichter des Reiches."
-
-„Abd ar-Rahman. Der neue Finanzverwalter der westlichen Provinzen."
-
-Shigi nickte. „Ich habe von Ihrer Ernennung gehört."
-
-„Die Regentin war so freundlich, mir das Vertrauen zu schenken."
-
-„Sie ist bekannt für ihre klugen Entscheidungen."
-
-Die Worte waren glatt, zu glatt. Sie schwebten zwischen den Männern wie Staub in der Luft. Beide wussten, dass sie lagen.
-
-Abd ar-Rahman trat näher. Er sah auf den Tisch, auf die Papiere, die darauf lagen, auf die Schubladen, die verschlossen waren. „Ich werde viele Dokumente zur Bestätigung bringen", sagte er. „Die Neuordnung der Finanzen erfordert eine vollständige Überarbeitung der alten Strukturen."
-
-„Ich verstehe."
-
-„Ich hoffe, dass ich auf Ihre volle Unterstützung zählen kann."
-
-„Sie können auf die Unterstützung des Gesetzes zählen", sagte Shigi. „Immer."
-
-Abd ar-Rahman lächelte wieder. „Das ist alles, was ich brauche."
-
-Er verbeugte sich kurz und ging. Die Schritte auf dem Kies verklangen. Die Türen schlossen sich. Die Stille kehrte zurück.
-
-Shigi setzte sich.
-
-Er nahm sein Notizbuch aus der Schublade.
-
-Er schrieb: *Abd ar-Rahman, Finanzverwalter der westlichen Provinzen, eingesetzt durch Dekret der Regentin. Datum: der achte Tag nach dem Tod Ögedeis. Anmerkung: Ich kenne diesen Mann nicht. Ich kenne seine Herkunft nicht. Ich kenne seine Fähigkeiten nicht. Er ist zu schnell aufgestiegen.*
-
-Dann legte er den Stift nieder.
-
-*Männer, die zu schnell aufsteigen, fallen auch schnell*, dachte er.
-
-Er schrieb nichts.
-
-Aber er merkte es sich.
-
----
-
-Die Nacht kam, und die Kanzlei war still.
-
-Shigi saß allein in seinem Zelt, das Notizbuch vor sich, die Lampe flackernd. Draußen hörte er den Wind, den Schnee, die Stille einer Welt, die sich veränderte.
-
-Er sah auf die Seite, die er geschrieben hatte.
-
-*Abd ar-Rahman.*
-
-Der Name war fremd, aber das Gesicht war es nicht. Das Lächeln, die Sicherheit, die Art, wie er die Schreiber musterte – all das hatte Shigi schon gesehen. Bei anderen Männern. In anderen Zeiten.
-
-Männer, die glaubten, die Macht sei ihr Recht.
-
-Männer, die glaubten, sie hätten sie verdient.
-
-Männer, die glaubten, sie würden nie fallen.
-
-*Die Klinge war kalt, schwer, und sie flüsterte ihm Dinge zu, die er nicht hören wollte.*
-
-Aber er hörte sie trotzdem.
-
-Er hörte die Geschichten der Gefallenen. Die Namen der Männer, die zu hoch gestiegen waren. Die Daten ihrer Stürze. Die Lücken in den Chroniken, die sie hinterließen.
+Der Mann, der eintrat, brachte nicht die Kälte der Steppe mit sich, sondern den Geruch von Nardenöl, Moschus und getrockneten persischen Rosenblättern. Er trug keinen Pelz aus Wolf oder Marder, wie die Mongolen ihn liebten, sondern ein langes, bis auf die Knöchel reichendes Gewand aus damaszenischem Seidenbrokat, gewebt mit goldenen Granatäpfeln, gefüttert mit zartem Feh. 
 
 Abd ar-Rahman.
 
-Ein Name.
+Der neue Mann. Töregenes Kaufmann, der Schatten, der aus den Basaren von Buchara aufgetaucht war und sich innerhalb weniger Monde unentbehrlich gemacht hatte. Seine Augen waren wachsam, dunkel, mit schweren Lidern, seine Hände weich und gepflegt wie die einer Fürstentochter. Er schritt durch das Zelt, als gehöre ihm der Boden, über den er ging, ohne die Schreiber anzusehen, ohne Shigi mit dem Blick eines Bittstellers zu würdigen.
 
-Bald eine Geschichte.
+Er war fremd. Und er war sich seiner Macht so sicher, dass es wie eine Beleidigung in der kargen Zeltstadt wirkte. Alle in Karakorum hassten ihn – die mongolischen Krieger, die persischen Gelehrten, die kitanischen Minister. Doch er genoss das Vertrauen der einzigen Person, auf die es ankam.
 
-Shigi schloss das Notizbuch.
+Hinter Abd ar-Rahman folgten zwei Diener, die eine schwere, mit Eisen beschlagene Kiste trugen.
 
-Die Lampe flackerte.
+„Für die Kanzlei der Khatun“, sagte der Kaufmann. Seine Stimme war glatt, wohltönend, mit dem weichen, singenden Akzent der westlichen Oasenstädte. Er sprach Mongolisch, aber er sprach es wie eine Sprache, die man zum Feilschen auf dem Markt benutzte, nicht wie das Erbe der Ahnherren. „Die neuen Steuerlisten für die Provinzen des Südens. Steuerpacht. Wer das meiste Silber bietet, erhält das Recht, die Tribute einzutreiben.“
 
-Die Dunkelheit kam, und sie war nicht willkommen.
+Die Schreiber erstarrten. Steuerpacht bedeutete das Auspressen der Dörfer bis aufs Blut, bedeutete Hunger, Aufruhr, Verzweiflung. Yelü Chucai hatte sein Leben lang dagegen gekämpft.
 
----
+Shigi sah Abd ar-Rahman an. Der Blick des Richters traf den Kaufmann wie ein eisiger Hauch aus dem Norden. 
 
-Nur die Stille antwortete ihm, die Stille und das ferne Grollen des Sturms.
+Abd ar-Rahman hielt dem Blick stand, nur einen halben Herzschlag lang, dann lächelte er dünn, verneigte sich mit einer Spur zu tiefer, spöttischer Höflichkeit und wandte sich ab, um die Kiste in den hinteren Teil des Zeltes bringen zu lassen, wo Töregenes persönliche Schreiber saßen. Sein Seidenmantel raschelte über dem groben Filz.
 
-Er dachte an Chinqai, der in den Ordos Ködens Schutz gefunden hatte. Er dachte an den Brief, den er noch nicht geschickt hatte. Er dachte an den Haftbefehl, den er noch in seiner Schublade hielt.
+Er stieg zu schnell auf. 
 
-*Sie sahen ihn an, als wäre er ein Gott, aber er fühlte sich nur wie ein gebrochener Mann.*
+Männer, die auf Pferden der Steppe heranwuchsen, wussten, dass ein Hang, der zu steil erklommen wurde, den Knochen des Rosses den Tod brachte. Aber Kaufleute dachten in Goldgewichten, nicht in Hufschlägen.
 
-Er war kein Gott. Er war ein Richter, der gelernt hatte, das Gesetz zu biegen, um es zu bewahren. Ein Hüter der Chronik, der gelernt hatte, die Wahrheit zu verstecken, um sie zu schützen. Ein Diener, der gelernt hatte, die Macht zu nutzen, ohne ihr zu verfallen.
+Als die Schritte des Kaufmanns im Heulen des Windes verklungen waren, schob Shigi das blau-weiße Buch des Reiches behutsam beiseite. Er zog eine flache Schatulle aus dunklem Nussholz unter seinem Pult hervor und öffnete sie. Darin lag ein kleines, schlichtes Buch, gebunden in unbehandeltes, raues Pferdeleder. Kein Schreiber hatte je eine Zeile darin gesehen; kein Richter wusste von seiner Existenz.
 
-Aber der Sturm kam.
+Er tunkte seine Rohrfeder in die schwarze Tinte, strich sie sorgsam am Rand des Horns ab und schlug die letzte beschriebene Seite auf. 
 
-Der Sturm kam jeden Tag näher.
+Er notierte nicht den Haftbefehl. Er notierte nicht die Weigerung.
 
-Und Shigi wusste, dass er bald würde wählen müssen.
+Mit ruhiger, fester Hand schrieb er einen einzigen Satz:
 
-Das Reich. Die Wahrheit. Das Gesetz. Das Papier.
+*Wer auf den Schultern des Windes reitet, vergisst, dass der Sturm keinen Reiter duldet; die am schnellsten steigen, brechen sich am tiefsten das Genick.*
 
-Oder sich selbst.
+Shigi blies auf die Tinte, schloss das Lederbuch und barg es wieder an seinem Platz. Draußen fiel der Schnee dichter, begrub die Spuren der Boten, die Wege der Kanzler und die Gräber der alten Herren, während das Reich lautlos in eine neue Hand glitt.
 
-Er blies die Lampe aus.
-
-Die Dunkelheit kam, und er wartete.
-
----
-
-Am Morgen des neunten Tages schickte er den Brief an die Regentin.
-
-Er hatte die Verfahrensfragen aufgeschrieben, die Präzisierungen, die er forderte, die Bedenken, die er hatte. Es war ein Meisterwerk der Verschleppung, der Verzögerung, der juristischen Tarnung.
-
-Töregene würde es lesen.
-
-Töregene würde verstehen, was er tat.
-
-Töregene würde entweder zustimmen oder ihn bestrafen.
-
-Shigi wusste nicht, was er hoffte.
-
-Der Bote nahm den Brief und verschwand. Die Zeit verging. Die Kanzlei füllte sich mit Schreibern, Boten, Männern, die kamen und gingen. Shigi arbeitete. Er stempelte Dekrete. Er prüfte Siegel. Er schrieb ins blau-weiße Buch, was er schreiben musste.
-
-Und er wartete.
-
-Die Antwort kam am späten Nachmittag.
-
-Ein Bote brachte einen versiegelten Umschlag, das Siegel Töregenes, die Handschrift eines Schreibers. Shigi öffnete das Siegel. Er las die Antwort.
-
-Die Regentin hatte seinen Fragen zugestimmt.
-
-Sie hatte ihn gebeten, eine vollständige Prüfung des Falls Chinqai durchzuführen.
-
-Sie hatte ihm Zeit gegeben.
-
-Shigi legte den Brief beiseite.
-
-Er hatte gewonnen.
-
-Er hatte Zeit gewonnen.
-
-Er wusste nicht, wie viel, aber er hatte Zeit.
-
-Er nahm den Haftbefehl aus der Schublade. Er sah ihn an, die Worte, die einen Mann ins Verderben schicken sollten, und er wusste, dass er ihn nie ausführen würde. Er würde ihn so lange in seiner Schublade behalten, bis Chinqai im Schutz Ködens sicher war, bis der Sturm vorüber war, bis die Geschichte eine andere Wendung nahm.
-
-*Das Licht floss aus ihm, ein letzter Atemzug, bevor die Dunkelheit kam.*
-
-Aber der Atem war nicht sein letzter.
-
-Noch nicht.
-
-Noch war die Lampe nicht erloschen.
-
-Noch schrieb er die Chronik.
-
----
-
-Er notierte den Satz. Er wusste, er würde ihn eines Tages brauchen.
-
-*Männer, die zu schnell aufsteigen, fallen auch schnell. Und manchmal fallen sie so tief, dass sie nie wieder aufstehen.*
-
-Es war kein Urteil. Es war eine Beobachtung.
-
-Aber es würde ein Urteil werden.
-
-Eines Tages.
-
-Er legte die Feder nieder. Er schloss das Notizbuch. Er hörte den Wind draußen, den Schnee, die Stille einer Welt, die sich veränderte.
-
-Und er wartete auf den Sturm.
-
----

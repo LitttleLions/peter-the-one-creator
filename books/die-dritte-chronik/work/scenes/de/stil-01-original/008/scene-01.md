@@ -1,247 +1,186 @@
 ## Der Heimkehrer
 
-Die Aktenkammer des Ordos roch nach Leder und altem Staub, nach dem feuchten Moder von Filzwänden und dem schwachen, beißenden Geruch von Tintenessig. Shigi Qutuqu kannte diesen Geruch seit dreißig Jahren. Er war ihm vertrauter als der Geruch von Steppe oder Lagerfeuer, vertrauter als der Geruch von Blut, den er auf zwanzig Schlachtfeldern gerochen hatte. Dieser Raum war sein Raum. Diese Regale mit den gebundenen Aktenbündeln, die säuberlich nach Jahr und Provinz geordneten Schriftrollen, die Tintenfässer in ihren hölzernen Halterungen – das war die Welt, die er kannte und beherrschte.
+Die Kälte kroch nicht durch die Ritzen des Filzes, sie stand bereits im Raum. In der Aktenkammer des Ordos roch es nach getrocknetem Schafsfett, nach Ruß, geronnenem Bienenwachs und dem fahlen Staub von Jahrhunderten, der sich auf Tausenden von Rollen chinesischen Hanfpapiers und uigurischen Urkunden niedergelassen hatte. Es war ein trockener, fast asketischer Geruch, der Shigi Qutuqu seit vierzig Jahren vertrauter war als der Duft von geröstetem Hammelfleisch oder der Dunst eines frischen Sommerregens über dem Gras.
 
-Er saß an seinem Tisch, als Güyük eintrat.
+Hier, zwischen den hölzernen Verschlägen und den Truhen aus schwerem Lärchenholz, herrschte eine Stille, die nichts mit Frieden zu tun hatte. Es war die Stille eines Raumes, in dem die Toten gezählt, die Lebenden besteuert und die Grenzen von Königreichen mit einem einzigen Tuschestrich ausgelöscht wurden.
 
-Nicht anklopfte. Nicht warten ließ. Eintrat.
+Shigi saß auf einem niedrigen Schemel aus Ulmenholz, die Füße in den mit Filz gefütterten Reitstiefeln dicht an das kleine Kohlebecken geschoben. Seine alten Knochen schmerzten bei jedem Wetterumschwung, und der Himmel über dem Orchon-Tal versprach Schnee – jenen harten, körnigen Steppenschnee, der die Pferde erblinden ließ.
 
-Der Sohn der Regentin trug keine Rüstung, aber er bewegte sich wie ein Mann, der Rüstung gewohnt war – mit der schwerfälligen Gewissheit eines Körpers, der gelernt hatte, Gewicht zu tragen. Er war groß. Er hatte Ögedeis Breite in den Schultern, aber nicht Ögedeis Wärme im Gesicht. Das Gesicht war kälter. Schmaler. Die Augen wanderten sofort zu den Regalen, zu den Aktenbündeln, zu den Siegeln, die an Schnüren hingen wie getrocknete Früchte.
+Er hielt ein Reibholz in der Hand und rieb mit gleichmäßigen, kreisenden Bewegungen einen Barren schwarzer Rußtusche auf dem feuchten Reibstein an. Das Geräusch – ein leises, rhythmisches Schaben – beruhigte ihn.
 
-Shigi legte seinen Stift ab.
+Ein Stoß riss den Vorhang zur Kammer zur Seite. Keine Kälte wehte herein, sondern der Geruch von Pferdeschweiß, nassem Eisen und geräuchertem Leder.
 
-„Ich brauche die Akte über den Tod meines Vaters."
+Güyük trat ein.
 
-Keine Begrüßung. Kein Titel. Kein Zeichen der Höflichkeit, die der Oberrichter des Reiches erwarten durfte.
+Er trug keinen höfischen Mantel aus Seide, wie ihn die Prinzen am Hof seiner Mutter bevorzugten, sondern einen schlichten, schweren Waffenrock aus Wolfspelz über eisernen Schuppen. Seine Wangen waren von den eisigen Winden der westlichen Feldzüge gegerbt, rissig und dunkel; in den Winkeln seiner schmalen Augen lag jene unerbittliche Wachsamkeit, die Männer kennzeichnete, die gewohnt waren, von Pferderücken herab über Leben und Sterben von Tausendschaften zu entscheiden. Er verneigte sich nicht. Er wartete nicht auf das Geheiß des Oberrichters.
 
-Shigi betrachtete ihn einen Moment lang. Er war siebzig Jahre alt. Er hatte Dschingis Khan gekannt, als Dschingis Khan noch Temüjin hieß und nichts besaß außer einem Pferd und einem Willen, der die Welt zermalmte. Er hatte Ögedei als Kind gesehen, als kleinen Jungen mit Mehl auf den Händen, der Küchenschüsseln hinter sich herzog. Er hatte Güyük als Säugling gesehen, schreiend und rot im Gesicht.
+„Die Akte“, sagte Güyük. Seine Stimme klang wie zwei Kieselsteine, die man unter Wasser aneinanderrieb. Rau, metallisch, ohne jeden Raum für Widerrede.
 
-Er ließ sich nicht drängen.
+Shigi legte das Reibholz bedächtig zur Seite. Seine Finger waren knochig, die Haut gefleckt wie das Fell einer alten Bergziege, doch seine Hände zitterten nicht. Er hob den Blick und sah den ältesten Sohn Ögedeis an. Wie oft hatte er diesen Knaben als Kind über den Schafmist der heimatlichen Lager stolpern sehen? Damals, als der Reichsgründer noch gelebt hatte und die Welt noch nicht so riesig gewesen war, dass ein Menschenleben darin verloren ging.
 
-„Setz dich", sagte Shigi.
+„Möge der Ewige Blaue Himmel Eure Rückkehr segnen, Prinz“, sagte Shigi mit jener getragenen, tiefen Stimme, die in den Gerichtszelten des Reiches gefürchtet war. „Ihr kommt ohne Gefolge in das Haus der Gesetze.“
 
-Güyük setzte sich nicht.
+„Ich brauche keine Lobredner und keine Höflinge“, erwiderte Güyük und blieb mitten im Raum stehen. Der Schmelzwasserfleck seiner Stiefel breitete sich langsam auf den geflochtenen Binsenmatten aus. „Und ich brauche keine Segenswünsche von Männern, die hinter Papierbergen verfaulen. Ich will die Akte über den Tod meines Vaters sehen. Jetzt.“
 
-Shigi stand auf. Er war nicht groß, aber er bewegte sich ohne Hast, und das hatte eine eigene Wirkung. Er ging zu einem der Regale, ließ seine Finger über die Bündel gleiten, las die Beschriftungen, die er selbst geschrieben hatte. Das Rascheln von Papier. Das leise Knarren des Holzregals. Dann zog er ein Bündel heraus – gebunden mit roter Schnur, versiegelt mit dem Stempel der Kanzlei.
+Shigi senkte das Kinn um eine Winzigkeit. Sein Herz schlug ruhig, mit dem langsamen, schweren Takt eines Ochsen, der eine schwere Fuhre durch den Morast zog. Er hatte diesen Augenblick erwartet. Seit dem Tag, an dem Ögedei den letzten Atemzug getan hatte und Töregenes Boten das Zelt abriegelten, hatte er gewusst, dass dieser Tag kommen würde.
 
-Er legte es auf den Tisch.
+Das Reich war voll von Waffen. Bogen aus Horn und Sehne, Klingen aus Damaszenerstahl, Lanzen, die das Rückgrat eines Mannes brachen, ehe er schreien konnte. Aber hier, in diesem dämmrigen Raum, lagerte eine andere Art von Waffen.
 
-„Die amtliche Akte zum Tod des Khagans Ögedei, Sohn Temüjins, Sohn der Hö'elün", sagte Shigi. „Eröffnet im zwölften Monat des Jahres der Ziege."
+Waffen aus Papier.
 
-Güyük trat an den Tisch und öffnete das Bündel. Er löste die Schnur mit einer einzigen Bewegung, ruckartig, wie man einen Knoten an einem Sattelgurt löst. Die Blätter lagen vor ihm.
+„Euer Vater starb als Khagan“, sagte Shigi leise. „Sein Ableben gehört der Geschichte dieses Reiches. Jedes Wort, das darüber geschrieben wurde, ist mit dem Siegel des Gerichtes verwahrt.“
 
-Shigi setzte sich wieder und nahm seinen Stift auf.
+„Dann öffne die Truhe, Richter. Ich werde nicht zweimal fragen.“ Güyük trat einen Schritt näher. Seine Hand ruhte ganz natürlich auf dem Griff seines Reitersäbels. Es war keine Geste der Drohung, es war eine Gewohnheit. Für Güyük existierte die Welt nur dort, wo ein Befehl mit Eisen durchgesetzt werden konnte.
 
-Er schrieb nicht. Er wartete.
+Shigi erhob sich langsam. Seine Knie knackten hörbar in der frostigen Stille. Er ging an dem Prinzen vorbei, ohne ihn anzusehen – eine alte Gewohnheit des Respekts, die zugleich eine Rüstung war –, und trat an die östliche Wand der Kammer. Dort standen drei Truhen aus Lärche, mit Bändern aus geschwärztem Eisen beschlagen.
 
-Güyük las.
+Er öffnete die mittlere.
 
-Die Aktenkammer war still. Draußen, hinter den Filzwänden, konnte man das Ordos hören – das ferne Stampfen von Pferden, das Rufen eines Wächters, das gedämpfte Klirren von Metall. Hier drinnen war nur das Rascheln von Papier, wenn Güyük eine Seite umwandte.
+Er griff nicht in den Boden, wo das Lederbündel lag, dessen Existenz nur ihm und den Geistern der Ahnen bekannt war. Er griff nach ganz oben, wo ein Bündel uigurischer Hanfblätter lag, sorgfältig mit einer gelben Seidenschnur zusammengehalten und mit dem amtlichen Wachssiegel des Großrichters versehen.
 
-Shigi beobachtete ihn, ohne zu beobachten. Ein Blick auf das Tintenfass. Ein Blick auf das Fenster, durch das das Frühjahrslicht schmal und kalt hereinschnitt. Dann wieder auf die Akte in Güyüks Händen.
+Shigi nahm das Bündel heraus, strich mit der flachen Hand über das kühle, raue Papier und drehte sich um.
 
-Die Akte war vollständig.
+„Hier ist der amtliche Vorgang“, sagte er.
 
-Das war das Tückische daran.
+Güyük riss ihm die Blätter förmlich aus der Hand. Er ging nicht an den Tisch, er setzte sich nicht. Er blieb stehen, wo er war, im fahlen Licht der einzigen Talgkerze, und löste die Schnur mit einem ruckartigen Zug seiner behandschuhten Finger.
 
-Jede Zeile stimmte. Jeder Name war korrekt. Die Ärzte waren verzeichnet, ihre Aussagen protokolliert, die Zeugen des Abends aufgeführt. Die Todesursache – Herzversagen, beschleunigt durch übermäßigen Weingenuss und die Erschöpfung des Feldzugs – war in drei verschiedenen Händen bestätigt. Shigis eigenes Siegel saß auf dem letzten Blatt, klar und unbestreitbar.
+Shigi beobachtete ihn schweigend. Er wusste, was Güyük lesen würde.
 
-Die Akte war vollständig.
+Er hatte die Akte selbst verfasst. Drei Tage und Nächte hatte er daran gearbeitet, während draußen der Schnee die Dächer von Karakorum begrub. Es war ein Meisterwerk der Kanzleikunst – und eine Festung aus tödlicher Langeweile.
 
-Und sie war tödlich langweilig.
+Güyüks Augen huschten über die schwarzen Kolumnen.
 
-Güyük las die letzte Seite. Dann legte er die Blätter auf den Tisch zurück und sagte nichts. Shigi wartete. Dann begann Güyük von vorne.
+Die ersten Seiten bestanden aus nichts als Zahlen. Endlose, minutiöse Aufzählungen der Vorräte, die für das große Wintergelage im Tal des Orchon herbeigeschafft worden waren: sechsunddreißig Schläuche vergorener Stutenmilch aus den südlichen Gestüten; zweihundert Hammel, geschlachtet nach dem Gesetz des Jasaq; vierzehn Fässer persischen Weins, geliefert über die Karawanenstraße von Buchara, verzollt am Pass von Altai durch den Zöllner Yesün-Temür; achtzig Maß Hirse; zwölf Säcke getrockneter Topfen.
 
-Das zweite Lesen war langsamer. Güyüks Finger fuhren unter den Zeilen entlang, nicht berührend, nur führend – der Gestus eines Mannes, der nach etwas sucht, das zwischen den Worten liegt. Shigi kannte diesen Gestus. Er hatte ihn selbst oft genug gemacht.
+Jeder Posten war mit dem Namen des zuständigen Kassenwarts versehen, mit dem Datum des Eintreffens, dem Gewicht des Wagens und der Feuchtigkeit des Mehls.
 
-„Die Namen des Gelages", sagte Güyük, ohne aufzublicken.
+Güyük blätterte um. Seine Stirn legte sich in tiefe, finstere Falten. Seine Kiefermuskeln traten hervor.
 
-„Sie sind auf der zweiten Seite verzeichnet."
+„Was ist das für ein Unrat?“, knurrte er. „Ich habe nach dem Tod meines Vaters gefragt, nicht nach dem Preis von Schafdung und Hirsemehl.“
 
-„Ich sehe sie." Eine Pause. „Ich will, dass du sie mir nennst."
+„Der Staat, mein Prinz, besteht aus Getreide und Fleisch“, erwiderte Shigi mit unerschütterlicher Milde. „Wenn ein Khagan ein Mahl gibt, speist das Reich mit ihm. Jedes Korn muss verbucht werden, damit kein Verwalter den Zehnten unterschlägt. Das war der Wille Eures Großvaters Dschingis Khan. Er sagte: Wer ein Lamm nicht zählen kann, verliert eine Tausendschaft.“
 
-Shigi legte seinen Stift ab. Er faltete die Hände. „Warum?"
+Güyük fluchte leise, eine kurze, schmutzige Verwünschung aus den Lagern an der Wolga. Er blätterte weiter.
 
-„Weil ich fragen kann."
+Seite um Seite.
 
-Das war keine Antwort. Aber es war auch keine Frage, die eine Antwort brauchte. Güyük war der Sohn der Regentin, und in wenigen Jahren würde er mehr sein. Das war die Realität, die in diesem Raum stand, schwerer als der Geruch von Tintenessig.
+Das Wetterprotokoll: Die Windrichtung zur dritten Nachtwache, der Stand des Mondes über den Jurten, die Dicke des Eises auf dem Fluss.
 
-„Sehr gut", sagte Shigi. „Ich nenne sie."
+Die Sitzordnung der zweiten und dritten Reihe: Vierzig Krieger der Nachhut, deren Namen Shigi mit penibler Genauigkeit aufgeführt hatte, samt ihrer Stammeszugehörigkeit und den Pferdemarken ihrer Reittiere.
 
-Er nannte sie. Einen nach dem anderen. Die Heerführer, die beim Gelage gesessen hatten. Die Mundschenken. Den Arzt, der als Erster gerufen worden war. Den Kanzleischreiber, der die Anwesenheit protokolliert hatte. Shigi nannte die Namen in der Reihenfolge, in der sie in der Akte standen, ohne Zögern, ohne Betonung, ohne den kleinsten Hinweis auf Wichtigkeit oder Unwichtigkeit.
+Die Reden der Kitanen-Schreiber: Auszüge aus alten Gedichten, die zu Ehren der Ahnen vorgetragen worden waren, zitiert in holpriger uigurischer Übersetzung, so zäh und staubig wie getrockneter Lehm.
 
-Güyük hörte zu. Er sah ihn an.
+Und schließlich der Bericht über das Ableben selbst: Drei nüchterne, vollkommen reglose Sätze.
 
-„Wer hat ihm den Wein eingeschenkt?"
+*Zur sechsten Stunde nach Sonnenuntergang, als die Kälte den Atem an den Zeltwänden zu Eis gefrieren ließ, versagte die Kraft im Herzen des Großkhans Ögedei. Die Anstrengung der langen Jagd und die Kälte des Winters löschten die Flamme seines Lebens. Er sank auf die Kissen, ohne ein Wort des Kummers, und ging ein in das Reich des Ewigen Himmels.*
 
-„Die Mundschenken. Wie verzeichnet."
+Darunter die Zeugenaussage zweier Greise aus der Leibwache, die bestätigten, dass der Khan schwer geatmet und sich an die Brust gegriffen habe.
 
-„Einer nach dem anderen? Oder gab es jemanden, der ihm besonders diente?"
+Güyük las den Absatz. Dann las er ihn noch einmal.
 
-Shigi ließ eine kurze Pause entstehen. Nicht lang genug, um auffällig zu sein. Nur lang genug, um die Frage zu bedenken.
+Seine Augen verengten sich zu zwei schmalen Schlitzen. Er hob den Kopf und starrte Shigi an. Das Licht der Talgkerze spiegelte sich gelblich auf seiner schweißnassen Stirn.
 
-„Es war ein Gelage", sagte er. „Beim Gelage schenken die Mundschenken ein. Das ist ihre Aufgabe."
+„Er ist einfach umgefallen?“, fragte Güyük. Seine Stimme hatte jenen gefährlich leisen Tonfall angenommen, den Krieger anschlugen, ehe sie den Bogen spannten. „Mein Vater trank wie ein Pferd und ritt wie ein Dämon. Er überlebte drei Pfeilwunden und die Seuchen von Jin. Und hier steht geschrieben, die Winterkälte habe ihm das Herz abgedrückt?“
 
-„War jemand anderes anwesend? Jemand, der nicht in der Akte steht?"
+„Die Kälte der Steppe schont auch die Söhne des Himmels nicht“, sagte Shigi ruhig. „Euer Vater war müde. Die Last der Welt ist schwerer als ein Kettenhemd, Prinz.“
 
-„Jeder Anwesende ist verzeichnet."
+Güyük knüllte den Rand des Papiers mit den Daumen zusammen. Es war ein Frevel gegen das Gesetz, ein amtliches Dokument zu beschädigen, doch Shigi rührte sich nicht. Er wusste, dass man einem hungrigen Wolf nicht in die Schnauze fasst, wenn er an einem Knochen nagt.
 
-Das stimmte. Es stimmte vollständig. Fatima war nicht anwesend gewesen. Fatima war nicht beim Gelage gewesen. Fatima hatte am Rand gestanden, jenseits der Zeltöffnung, in jenem Grenzbereich zwischen drinnen und draußen, den niemand protokolliert, weil niemand dort steht, der protokolliert werden müsste. Sie war keine Mundschenkin. Sie war keine Heerführerin. Sie war Töregenes Schreiberin, und Töregenes Schreiberin gehörte nicht zu den Gästen eines Khagan-Gelages.
+„Wer war im Zelt?“, stieß Güyük hervor. Er trat so nah an Shigi heran, dass der Oberrichter den Gestank von ranzigem Fett und altem Rauch riechen konnte, der in den Haaren des Prinzen saß. „Nenn mir die Namen derer, die ihm die Schale gereicht haben. Nicht die vierzig Krieger der Nachhut, nicht die Köche, die den Hammel brieten. Wer stand an seinem Lager, als er trank?“
 
-Jeder Anwesende war verzeichnet.
+Die Luft in der Kammer schien mit einem Mal dünner zu werden. Das Kohlebecken knackte leise; ein winziger Funke stieg empor und verging in der Schwärze des Raumes.
 
-Das war die Wahrheit.
+Shigi wusste, welche Antwort Güyük suchte. Der Prinz suchte nach einem Namen. Nach einem Verrat, den er mit dem Schwert ahnden konnte. Nach einem Hebel, um die Regentschaft seiner Mutter zu zerschlagen oder die Vettern im Norden zu vernichten.
 
-Güyük sah ihn noch einen Moment lang an. Dann sah er wieder auf die Akte.
+In Shigis Gedächtnis tauchte das Bild jener Nacht auf.
 
-„Es gibt keine Untersuchung. Keine Befragung der Zeugen. Nur Aussagen, die gesammelt wurden."
+Er sah das fahle, bläuliche Gesicht des toten Khagan vor sich. Den süßlichen, unverkennbaren Hauch von Wacholder und bitteren Mandeln, der über den Lippen des Toten geschwebt hatte. Den kleinen, dunklen Blutfleck hinter dem rechten Ohr. Und er sah die Gestalt, die in den Schatten der Jurte gekauert hatte, schmal und stumm wie eine Zypresse im Winter: Fatima. Die Perserin mit den wachen, unerbittlichen Augen, die den Becher weggestellt hatte, noch ehe die Leibärzte gerufen wurden.
 
-„Das Verfahren folgte dem Gesetz", sagte Shigi. „Bei einem natürlichen Tod liegt keine Grundlage für eine Untersuchung vor."
+Wenn er ihren Namen nannte – nur diese eine Silbe –, würde Güyük sie noch vor der Morgendämmerung an die Schweife von vier Wildpferden binden lassen. Er würde das Fleisch von ihren Knochen reißen, um zu erfahren, wer den Becher gefüllt hatte. Und das Reich würde in Flammen aufgehen, noch ehe der Schnee schmolz.
 
-„Natürlicher Tod." Güyük sprach die Worte aus, als koste er sie. Als prüfe er, ob sie im Mund halten, was sie versprechen. „Mein Vater war sechsundfünfzig Jahre alt. Er trank. Er aß. Er feierte. Dann fiel er um. Das ist ein natürlicher Tod?"
+Shigi hielt dem Blick des Prinzen stand. Seine Augen waren trüb vom Alter, aber sie waren tief wie die Brunnen in der Wüste Gobi.
 
-„Das ist der Tod, den die Ärzte bestätigt haben."
+„Es waren die Getreuen seiner Tafel anwesend“, sagte Shigi mit bedächtiger, fast träger Stimme. Er begann an den Fingern seiner linken Hand abzuzählen, langsam, als müsse er sich mühsam erinnern. „Möngke Beki, der Truchsess der Vorratszelte. Er hatte die Aufsicht über das Fleisch. Chinqai, der Große Kanzler, der die Segenswünsche der Kaufleute verlas. Yesün, der Kitanen-Hauptmann der Leibwache, der die vierte Wache befehligte. Und zwei Schenken aus dem Stamm der Jalayir, deren Sippen seit den Tagen Temüjins das Recht besitzen, das Kumys vorzukosten.“
 
-„Die Ärzte, die meine Mutter gerufen hat."
+Er machte eine Pause. Er ließ die Namen wie schwere Steine in das Wasser eines tiefen Teiches fallen.
 
-Shigi antwortete nicht.
+„Und sonst niemand?“, hakte Güyük nach. Seine Finger zuckten am Schwertgriff. „Keine Fremden? Keine Weiber? Meine Mutter verlässt die Kanzlei nie ohne ihr Gefolge aus dem Westen.“
 
-Das war die richtige Entscheidung.
+Shigi schüttelte langsam den Kopf. Die Falten um seinen Mund vertieften sich zu Furchen aus Stein.
 
-Güyük stand auf. Er ließ die Akte auf dem Tisch liegen – ließ sie liegen, als wäre sie wertlos, als hätte das zweimalige Lesen nichts ergeben außer der Bestätigung, dass sie nichts ergab. Er trat zum Fenster. Das Frühjahrslicht fiel auf sein Gesicht, machte die Erschöpfung sichtbar, die Schatten unter den Augen, die Spannung in den Kiefermuskeln.
+„Die Khatun saß an ihrem Ehrenplatz zur Rechten des Khans, wie es das Gesetz vorschreibt“, erwiderte Shigi ohne das geringste Zögern. „Ihre Mägde und Schreiberinnen blieben im Vorraum des Ordos, hinter dem roten Filzvorhang. Das Zelt eines Khagan zur Stunde seines Todes ist kein Ort für Frauen aus Chorasan, Prinz. Es war ein Heimgang unter Kriegern.“
 
-„Du hast dieses Reich seit dreißig Jahren verwaltet", sagte er, ohne sich umzudrehen.
+Es war eine Lüge. Eine vollkommene, juristisch makellose Lüge.
 
-„Länger", sagte Shigi.
+Güyük starrte ihn an. Einen Herzschlag lang, zwei, drei. In den Augen des Prinzen glomm jener dumpfe, wütende Zweifel, der Männer befällt, die einen Feind spüren, ihn aber im Nebel nicht fassen können. Er suchte nach einem Riss in Shigis Stimme, nach einem Flackern der Lider, nach der kleinsten Regung von Furcht.
 
-„Dann weißt du, wie Akten aussehen, die etwas verbergen."
+Doch Shigi Qutuqu war kein Schreiber, den man mit einem Drohwort brach. Er war der Mann, den Hö’elün, die Mutter des Reichsgründers, im Schmutz eines zerstörten Tatarenlagers aufgelesen und an ihrer eigenen Brust genährt hatte. Er war mit den Söhnen Temüjins aufgewachsen. Er hatte den Zorn des großen Khans überlebt; er würde den Zorn dieses ungeduldigen Sohnes ertragen wie einen weiteren Wintersturm.
 
-„Ich weiß, wie Akten aussehen, die das Gesetz erfüllen."
+Güyük stieß die Luft zischend durch die Zähne aus.
 
-Güyük drehte sich um. Er sah Shigi an, und in diesem Blick war etwas, das Shigi erkannte, weil er es schon oft gesehen hatte: die Mischung aus Wissen und Ohnmacht, die einen Mann kennt, der versteht, dass er belogen wird, aber nicht beweisen kann, womit. Das war der gefährlichste Zustand, in dem sich ein Mächtiger befinden konnte. Gefährlich für alle, die in seiner Reichweite standen.
+Er warf das Aktenbündel auf den Tisch. Das Papier schlug hart auf das Holz, rutschte über die Kante und blieb halb entrollt liegen.
 
-„Ich werde wiederkommen", sagte Güyük.
+„Papier“, sagte Güyük mit unverhohlener Verachtung. „Hirse, Hammel und tote Worte. Ihr Schreiber seid wie die Würmer im Kadaver eines Bären. Ihr nährt euch von dem, was einmal Kraft hatte, und hinterlasst nichts als Staub.“
 
-„Die Akte liegt jederzeit bereit", sagte Shigi.
+Er wandte sich um. Der Wolfspelz bauschte sich auf, als er den Vorhang beiseiteriss.
 
-Güyük ging.
+„Ich werde den Kurultai erzwingen, Richter“, rief er über die Schulter zurück, ohne stehenzubleiben. „Und wenn ich auf dem Thron meines Vaters sitze, werde ich sehen, wie viel deine Gesetze noch wert sind, wenn die Klingen sprechen.“
 
-Die Filzwand schloss sich hinter ihm, und der Geruch von Leder und Tintenessig legte sich wieder über den Raum wie eine Decke, die man hochgezogen hatte. Shigi saß still. Er hörte die Schritte draußen – erst laut, dann leiser, dann fort.
+Seine schweren Schritte hallten im Gang wider, wurden leiser und verklangen schließlich im heulenden Pfeifen des Windes, der um die Ecken der Aktenkammer strich.
 
-Er wartete noch einmal.
+Shigi Qutuqu bewegte sich nicht.
 
-Dann stand er auf.
+Er stand da, die Hände in den weiten Ärmeln seines schlichten Wollgewandes vergraben, und lauschte. Er lauschte auf das Geräusch der Wachen vor der Tür, auf das ferne Wiehern eines Hengstes im Tal, auf das eigene, mühsame Atmen seiner Brust.
 
-Er ging nicht zum Regal. Er ging zu dem kleinen Tisch in der hinteren Ecke der Kammer, wo er seine Privatkorrespondenz führte – getrennt vom Amtstisch, getrennt von den Siegeln und den offiziellen Bündeln. Ein Tisch, an dem er manchmal saß, wenn er allein war, und schrieb, was er nicht siegeln konnte.
+Erst als er sicher war, dass der Prinz das Ordu verlassen hatte und zu seinen Tausendschaften ins Tal geritten war, trat er an die Tür.
 
-Er öffnete die untere Schublade.
+Er schob den schweren hölzernen Riegel vor. Das Holz glitt mit einem dumpfen, satten Laut in die Fuge.
 
-Darin lagen zwei Bündel.
+Shigi atmete tief aus. Der Atem stand als weiße Wolke vor seinem Gesicht.
 
-Das eine war in blaues Tuch gebunden. Das andere in weißes.
+Er ging zurück zum Tisch, hob die verstreuten Blätter auf, strich die Falten, die Güyüks behandschuhte Finger hinterlassen hatten, mit dem Handballen glatt und rollte sie wieder zusammen. Er band die gelbe Seidenschnur mit einem festen, sauberen Knoten fest.
 
-Das blaue Bündel enthielt, was er dem Reich schuldete: die amtliche Akte, eine Kopie davon, sauber und vollständig und leer von allem Wesentlichen. Das weiße Bündel enthielt, was er der Wahrheit schuldete: seine Privataufzeichnungen, die er seit dem Morgen nach Ögedeis Tod führte. Seite für Seite, in seiner kleinen, präzisen Handschrift, die er in seiner Jugend gelernt hatte, als Hö'elün ihm das Schreiben beibrachte und er nicht wusste, wozu es gut sein würde.
+Die amtliche Lüge. Sie war vollständig. Sie war gesiegelt. Sie würde in den Truhen liegen, bis die Würmer sie fraßen oder ein Feuer sie verzehrte. Generationen von Schreibern würden sie abschreiben, Gesandte würden sie nach Karakorum und Täbris tragen, und die Welt würde glauben, dass ein großer Herrscher im Frieden des Winters entschlafen war.
 
-Er nahm das weiße Bündel heraus.
+Dann ging Shigi zur dritten Truhe.
 
-Er öffnete es auf der letzten beschriebenen Seite.
+Er kniete nieder. Seine Gelenke schmerzten heftig, ein beißendes Brennen zog vom Knie in die Hüfte, doch er ignorierte es. Er griff tief unter die Schichten von Steuerverzeichnissen der Provinz Hebei, dorthin, wo das Holz der Truhe dunkel und feucht roch.
 
-Dort stand, was er in den vergangenen Wochen aufgezeichnet hatte. Die Dekrete Töregenes. Der Fall Chinqai. Abd ar-Rahmans Aufstieg. Die Briefe, die in die westlichen Provinzen gegangen waren. Die Namen der Männer, die ihre Siegel verloren hatten. Die Namen der Männer, die neue Siegel bekommen hatten.
+Seine Finger schlossen sich um ein Bündel, das nicht in Seide, sondern in geschmeidiges, geöltes Pferdeleder geschlagen war.
 
-Er tauchte den Stift ein.
+Er trug es an das Kohlebecken, setzte sich wieder auf seinen Schemel und schlug das Leder auf.
 
-Er schrieb.
+Darin lag kein Kanzleipapier. Es waren Bogen aus festem, handgeschöpftem Maulbeerbaumpapier, beschrieben mit seiner eigenen, kantigen Hand – nicht in den geschwungenen, gefälligen Linien der uigurischen Hofschreiber, sondern in den harten, unerbittlichen Zeichen des alten Rechts.
 
-Güyük, Sohn Ögedeis, Sohn Temüjins, erschien heute in der Aktenkammer. Er forderte Einsicht in die Akte zum Tod seines Vaters. Die Akte wurde vorgelegt. Er las sie zweimal. Er fragte nach den Namen der Anwesenden beim Gelage. Die Namen wurden genannt. Alle Namen, die in der Akte stehen. Alle Namen, die in der Akte stehen müssen.
+Hier stand die Wahrheit.
 
-Er hielt inne.
+Hier stand geschrieben, dass Ögedei Khagans Zunge schwarz gewesen war, als man den Mund öffnete.
 
-Die Feder ruhte über dem Papier, ohne es zu berühren. Ein Tropfen Tinte sammelte sich an der Spitze, schwoll an, fiel. Ein kleiner schwarzer Fleck auf dem weißen Papier, der nichts bedeutete und alles.
+Hier stand geschrieben, dass der Becher aus Gold, der am Boden lag, nach Wacholder und bitteren Mandeln roch.
 
-Dann schrieb er weiter.
+Und hier stand der Name der Frau, die den Becher an sich genommen hatte. Fatima, die Tochter des Kopisten aus Maschhad.
 
-Fatima, Schreiberin der Regentin, ist in der Akte nicht verzeichnet. Sie war nicht beim Gelage. Sie war nicht unter den Gästen. Sie war nicht unter den Bediensteten, die das Gesetz zu verzeichnen verlangt. Ihr Name erscheint in keinem amtlichen Dokument, das sich auf die Nacht des Todes bezieht. Das ist die Wahrheit.
+Shigi tauchte den Pinsel in die frische Rußtusche, die er vor Güyüks Eintreten angerieben hatte. Die Tusche war schwarz wie Pech, tief und undurchdringlich.
 
-Er legte den Stift nieder.
+Mit ruhiger Hand setzte er ein neues Zeichen unter den letzten Eintrag:
 
-Das ist die Wahrheit.
+*Güyük, Sohn der Töregene, fragte nach dem Blut seines Vaters. Er sucht ein Schwert, wo nur Gift war. Ich gab ihm Asche zu essen.*
 
-Er betrachtete den Satz. Er war präzise. Er war juristisch korrekt. Er war vollständig. Und er war auch das Andere: eine Entscheidung, die er getroffen hatte, bevor Güyük die Kammer betrat, ohne es sich einzugestehen, und die er jetzt, in diesen wenigen Zeilen, eingestand.
+Er blies vorsichtig über die feuchte Tinte.
 
-Er hatte Fatimas Namen nicht genannt.
+Vor Wochen noch hatte er geglaubt, ein Richter müsse die Wahrheit hüten wie einen heiligen Berg – unbeweglich, unveränderlich, für jedermann sichtbar im Licht der Sonne. Er hatte geglaubt, seine Pflicht sei es, das Recht aufzuschreiben, damit es die Zeiten überdauerte.
 
-Nicht weil er ihn vergessen hatte. Nicht weil er ihn nicht kannte. Er kannte ihn seit Jahren, hatte ihn in Töregenes Korrespondenz gesehen, hatte die Frau beobachtet, die schrieb, was die Regentin dachte, und manchmal, so glaubte er, die Frau beobachtet, die dachte, was die Regentin schrieb. Er kannte ihren Namen. Er kannte ihre Herkunft. Er kannte, was sie war und was sie nicht war.
+Jetzt, in der frostigen Stille dieser Kammer, begriff er etwas anderes.
 
-Er hatte ihn nicht genannt.
+Die Wahrheit war kein Denkmal. Sie war eine Waffe. Und wie jede Waffe musste sie im Verborgenen geschliffen, geölt und weggesperrt werden, bis der Tag der Schlacht kam. Wer die Wahrheit zu früh zeigte, wurde von ihr erschlagen; wer sie ganz vergaß, verlor seine Seele.
 
-Weil Güyük ihn gesucht hatte.
+Er hatte Fatima geschützt. Nicht aus Mitleid – Mitleid war ein Luxus, den die Steppe nicht duldete. Er hatte sie geschützt, weil diese schmale, persische Frau mit den zerrissenen Händen und dem Schweigen einer Toten das Einzige war, was Töregenes maßlose Gier im Gleichgewicht hielt. Fiel Fatima, fiel die Kanzlei. Fiel die Kanzlei, ritten Güyüks Tausendschaften gegen Batus Reiter an der Wolga, und das Werk des großen Ahnherrn Temüjin würde in einem Meer aus Brüderblut ertrinken.
 
-Das war der Kern der Sache, so einfach und so schwer wie ein Stein. Güyük hatte nach jemandem gesucht, den er nicht finden durfte. Nicht weil dieser jemand schuldig war – Shigi wusste nicht, ob Fatima schuldig war, wusste nicht einmal, ob es eine Schuld gab, die zu tragen war – sondern weil Güyük nach einem Hebel suchte, nach einem Namen, den er aufheben und als Werkzeug benutzen konnte. Und Werkzeuge in Güyüks Händen wurden stumpf, bevor sie nützlich waren.
+Shigi strich mit den Fingerspitzen über das raue Maulbeerpapier. Es war kühl, aber unter seiner Hand schien es fast zu pulsieren, wie das Herz eines kleinen, gefangenen Vogels.
 
-Das war gefährlich.
+Er schlug das Pferdeleder wieder um die Blätter. Er verschnürte es nicht mit Seide, sondern mit einem einfachen Riemen aus Rohhaut.
 
-Nicht das Verschweigen. Das Nennen wäre gefährlich gewesen.
+Dann stand er auf, trat an die Lärchentruhe und verbarg die Wahrheit wieder dort, wo kein Prinz und kein Khagan sie jemals suchen würde: unter den staubigen Zehntregistern von dreißigtausend Bauern, die längst gestorben waren.
 
-Shigi schloss das weiße Bündel und legte es zurück in die untere Schublade. Darüber legte er das blaue Bündel. Dann schloss er die Schublade.
+Draußen vor dem Fenster riss der Wind eine Wolke auf. Für einen kurzen, lautlosen Augenblick fiel das Licht des Mondes über die Dächer von Karakorum, kalt und weiß wie Knochen, ehe der erste Schnee des Winters die Spuren der Reiter im Schlamm des Tals zudeckte.
 
-Er saß einen Moment lang still.
-
-Er dachte an Hö'elün, die ihn das Schreiben gelehrt hatte, und an den Satz, den sie immer gesagt hatte: Ein Richter urteilt nach dem Gesetz. Ein weiser Mann urteilt nach dem, was das Gesetz nicht sagen kann. Er hatte diesen Satz dreißig Jahre lang für eine Warnung gehalten, eine Mahnung zur Vorsicht vor der Hybris des Richters, der sich für weiser hält als das Gesetz.
-
-Heute hatte er ihn anders gehört.
-
-Heute hatte er ihn als Erlaubnis gehört.
-
-Er stand auf und trat zum Regal. Er nahm das rote Bündel – die amtliche Akte, die er Güyük vorgelegt hatte – und trug es zu seinem Amtstisch zurück. Er öffnete es. Er las es einmal durch, langsam, mit der Sorgfalt eines Mannes, der prüft, ob ein Gebäude hält, was er gebaut hat.
-
-Es hielt.
-
-Jede Zeile stimmte. Jeder Name war korrekt. Die Todesursache war bestätigt. Das Verfahren war sauber. Wer diese Akte las, fand ein vollständiges Bild: den Tod eines Khagans, umgeben von seinen Männern, im Rausch des Festes, das Herz erschöpft von Krieg und Trauer und Wein.
-
-Ein vollständiges Bild.
-
-Ein leeres Bild.
-
-Er band das rote Bündel wieder zu und legte es auf den Stapel der Akten, die zurück ins Regal mussten. Dann saß er an seinem Tisch und sah auf die Wände, die Regale, die Bündel.
-
-Er dachte an etwas, das er vor langer Zeit gelesen hatte, in einem Dokument aus den frühen Jahren des Reiches, einem Urteil, das Dschingis Khan selbst gefällt hatte: Der Sieg gehört dem, der die Geschichte überlebt. Nicht dem, der sie erlebt.
-
-Er hatte das immer für eine Übertreibung gehalten. Eine Rhetorik der Macht, nicht ihre Wahrheit.
-
-Jetzt saß er in einem Raum voller Papier und verstand, was es bedeutete.
-
-Diese Regale waren kein Archiv.
-
-Sie waren ein Waffenlager.
-
-Und er war seit dreißig Jahren der Waffenschmied, ohne es gewusst zu haben. Ohne es gewusst haben zu wollen. Er hatte Akten geführt, Urteile gefällt, Dokumente versiegelt – nicht als Werkzeug der Macht, sondern als Dienst am Gesetz. Das war der Unterschied, den er immer gezogen hatte. Das war die Grenze, hinter der er sich sicher gefühlt hatte.
-
-Heute hatte er eine Waffe geschmiedet.
-
-Nicht aus Stahl. Aus Schweigen.
-
-Er hatte Fatimas Namen nicht genannt, und dieses Schweigen war präziser, schärfer, gefährlicher als jede Klinge. Es war ein Urteil, das er gefällt hatte, ohne es zu nennen. Ein Urteil für jemanden, den er kaum kannte, gegen jemanden, der Khagan werden würde.
-
-Das war nicht Dienst am Gesetz.
-
-Das war etwas anderes.
-
-Er nahm seinen Stift und öffnete das weiße Bündel noch einmal. Er suchte die Seite, die er gerade beschrieben hatte. Er las den letzten Satz.
-
-Das ist die Wahrheit.
-
-Er schrieb darunter, in der kleinen, präzisen Handschrift, die Hö'elün ihm beigebracht hatte:
-
-Die Frage ist, welche Wahrheit dient dem Recht. Und welche dem, was das Recht schützen soll.
-
-Er betrachtete die Zeile.
-
-Dann schloss er das Bündel, legte es in die Schublade, legte das blaue Bündel darüber, schloss die Schublade, stand auf, trat zum Regal, nahm das rote Bündel und stellte es an seinen Platz.
-
-Die Aktenkammer roch nach Leder und altem Staub. Nach feuchtem Moder von Filzwänden. Nach dem schwachen, beißenden Geruch von Tintenessig.
-
-Dieser Geruch war ihm vertraut seit dreißig Jahren.
-
-Heute roch er ihn anders.
-
----

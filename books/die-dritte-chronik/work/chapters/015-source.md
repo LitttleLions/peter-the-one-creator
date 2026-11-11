@@ -5,234 +5,133 @@
 
 ---
 
-Der Winter hatte Karakorum in den Farben der Verwesung gemalt.
+Die Nachricht erreichte das Jurtenlager am Oberlauf des Selenga mit dem ersten gefrorenen Nebel des Winters. Ein Bote der Kanzlei, die Wangen weiß vom Frost, die Wimpern verkrustet mit Eiskristallen, stieg vom erschöpften Pferd und sprach fünf Worte, ehe er die Knie beugte: Yelü Chucai ist nicht mehr.
 
-Shigi Qutuqu stand in seiner Kanzlei, als die Nachricht kam, und er wusste sofort, dass dies kein gewöhnlicher Tod war. Der Bote war jung, atemlos, die Kälte hing in seinen Kleidern wie ein zweites Fell. Er sprach von Herzversagen, von einem Mann, der in seiner Schreibstube zusammengebrochen war, den Kopf auf den Papieren, die Feder noch in der Hand.
+Shigi Qutuqu saß auf seinem Filzkissen, die Hände über einer Tonschale mit glimmender Birkenkohle gebreitet. Er schloss die Augen nicht. Er nickte bloß, langsam, mit der unerbittlichen Ruhe eines Mannes, der zu viele Herbste gesehen hatte, um vom Sterben überrascht zu werden. Manche sagten, der alte Kanzler sei an Gram gestorben, am Ausbleichen seiner Macht, daran, dass die Regentin ihn in eine Ecke geschoben hatte wie ein zerbrochenes Joch, für das auf dem Wagen kein Platz mehr war. Andere murmelten von kaltem Wasser im Eingeweide, von der Bitternis eines Kitanen, der zwei Khaganen gedient hatte, nur um am Ende von kaufmännischen Steuereintreibern und verschleierten Frauen überstimmt zu werden.
 
-Yelü Chucai war tot.
+Shigi stand auf. Seine Knie knackten wie trockenes Kiefernholz im Feuer. 
 
-Shigi entließ den Boten mit einer knappen Geste und blieb allein zurück. Er stand am Fenster, blickte auf den gefrorenen Hof, auf die Rauchsäulen, die aus den Jurten stiegen, auf die Hunde, die zwischen den Abfällen trotteten. Der Himmel war grau, flach, ohne Tiefe, als hätte jemand ein Tuch über die Welt gelegt.
+Er ging nicht zum Begräbnis, um einer Leiche die Ehre zu erweisen. Leichen waren dem Himmel gleichgültig; die Erde nahm sie, die Geier taten ihr Werk, und der Wind trug den Staub fort, bis kein Hügel mehr verriet, wo ein König gelegen hatte. Er reiste, weil ein Bauwerk eingestürzt war. Yelü Chucai war der Balken gewesen, der das Dach über ihren Köpfen gehalten hatte, als Temüjin die Welt in Brand steckte. Wo die mongolischen Reiter nur Weideland und Asche sahen, hatte der alte Mann Städte gesehen, die man melken konnte wie Stuten, und Seide, die mehr wog als Blut. 
 
-Er dachte an den Mann, den er gekannt hatte, an den kitanischen Gelehrten, der Dschingis Khan das Schreiben gelehrt hatte, der Ögedei gesagt hatte: *Man kann ein Reich vom Pferd aus erobern, aber nicht regieren.* Yelü Chucai hatte diese Worte nicht nur gesprochen, sondern gelebt. Er hatte die Steuerregister aufgestellt, die Verwaltung geordnet, die Gesetze geschrieben. Er war der letzte gewesen, der wirklich verstanden hatte, dass ein Reich nicht aus Pfeilen und Pferden gebaut wurde, sondern aus Papier und Zahlen.
+Drei Tage ritt Shigi durch den Schnee, der die endlose Weite in ein Leichentuch aus milchigem Licht hüllte. Der Wind über dem Orchon-Tal trug den Duft von Wermut und erstem Schnee, als wollte die Steppe selbst den Atem anhalten.
 
-Und jetzt war er tot.
+Die Begräbnisstätte lag abseits der befestigten Wege von Karakorum, auf einer sanften Anhöhe, wo die Erde unter der eisigen Kruste noch weich genug war, um mit Eisenhacken aufgebrochen zu werden. Es war ein stilles Begräbnis. Keine Trommeln, kein Klagegeschrei von zehntausend Reitern, wie damals, als sie den großen Gründer in die heiligen Berge trugen. Nur taoistische Mönche in blassen Gewändern, nestorianische Priester mit Weihrauchfässern, aus denen kühler, harziger Rauch in den grauen Himmel stieg, und eine Handvoll Greise aus den Tagen, als Karakorum noch aus sieben Filzzelten und einem Traum bestand.
 
-Shigi wandte sich vom Fenster ab und griff nach seinem Mantel. Die Wolle war schwer, dick, von der Kälte durchdrungen. Er zog ihn über die Schultern und schritt zur Tür, die Stiefel knirschten auf dem gefrorenen Boden.
+Und da war die Kanzlei. 
 
-Die Reise zur Trauerfeier war kurz, aber sie fühlte sich lang an. Jeder Schritt war ein Schritt in die Vergangenheit, in eine Zeit, die es nicht mehr gab. Er ritt durch die Gassen von Karakorum, an den leeren Märkten vorbei, an den geschlossenen Läden, an den Zelten der Händler, die ihre Waren nicht mehr ausbreiteten, weil es niemanden gab, der kaufte.
+Töregene Khatun war nicht gekommen. Die Regentin blieb in ihren warmen Hallen, umgeben von persischen Teppichen, Weinkrügen und den kriechenden Bittstellern aus allen vier Himmelsrichtungen. Doch sie hatte Geschenke geschickt. Zwanzig Ballen schwerer kaiserlicher Seide, gefüttert mit Zobelfell, lagen auf den Schlitten neben der Grube – eine kaiserliche Gabe, glänzend, maßlos und kalt. Es war Staatskunst, gedacht, um den Toten zu ehren und ihn zugleich noch tiefer unter der Erde zu begraben, damit niemand wagte, nach seinen Rechnungsbüchern zu fragen. Oder es war schlichte, fleischgewordene Heuchelei. Shigi sah die Seide an und sah darin nur die Rechnung für ein Schweigen.
 
-Er erreichte die Kanzlei des Toten, ein niedriges Gebäude aus Lehm und Holz, das am Rand des Regierungsviertels stand. Die Türen waren offen, und der Geruch von Räucherwerk hing in der Luft. Er ließ sein Pferd an einem Pfosten zurück und trat ein.
+Neben den Schlitten stand Fatima.
 
-Der Raum war voller Menschen.
+Sie trug Trauerkleidung nach der Sitte des Westens: schwere, dunkle Wolle aus Chorasan, ohne jeden Stickfaden, gefüttert mit grauem Lammfell. Unter der Kapuze lag ihr Gesicht wie aus Elfenbein geschnitten, schmal und streng. Eine feine, blasse Narbe an ihrem linken Handgelenk zeichnete sich im Frostlicht ab, dort, wo die Kälte die Haut spannte. Sie stand vollkommen reglos, die Hände in den weiten Ärmeln verborgen, den Blick auf die offene Grube gerichtet, in der die Holzkiste des Kanzlers stand.
 
-Shigi erkannte viele Gesichter: Schreiber, Administratoren, Beamte aus den unteren Rängen der Kanzlei, die gekommen waren, um ihrem Vorgesetzten die letzte Ehre zu erweisen. Sie standen in Gruppen, flüsterten, wagten nicht laut zu sprechen. In der Mitte des Raumes lag der Körper Yelü Chucais auf einer einfachen Bahre, eingewickelt in weiße Leinentücher, nur das Gesicht war frei.
+Shigi trat neben sie. Seine schweren Stiefel knirschten im Harsch. Der Richter roch nach getrocknetem Fleisch, Pferdeschweiß und dem alten Rauch seiner Jurte; sie roch nach Kardamom, feuchter Wolle und jener eigentümlichen, bitteren Kühle, die stets an Menschen haftete, die mehr Tinte tranken als Kumys.
 
-Shigi trat näher.
+Sie wechselten keinen Gruß. An den Gräbern der Gründerväter brauchte es keine Formalitäten.
 
-Das Gesicht des Toten war ruhig, fast friedlich, als hätte der Tod ihn nicht überrascht, sondern als hätte er ihn erwartet. Die Falten um die Augen waren tief, die Haut war grau, die Lippen waren geschlossen. Shigi sah die Hände, die auf der Brust gefaltet lagen, die Finger lang und schmal, die Nägel sauber geschnitten. Es waren die Hände eines Schreibers gewesen, eines Mannes, der sein Leben lang mit Papier und Tinte gearbeitet hatte, und sie sahen auch im Tod noch aus, als gehörten sie einem Lebenden.
+„Die Khatun lässt für sein Seelenheil beten“, sagte Fatima leise. Ihre Stimme war rau von der Kälte, aber jedes Wort fiel mit dem Gewicht eines gewogenen Silberbarrens. „In fünf Klöstern. Tag und Nacht.“
 
-Er stand still, ließ den Blick über die Menge schweifen. Er sah die Frauen, die mit gesenkten Köpfen in der Ecke standen, die Kinder, die nicht verstanden, was geschah, die Männer, die sich durch Blinzeln und Nicken verständigten.
+„Sie hätte ihn leben lassen sollen“, erwiderte Shigi. Er blickte nicht zu ihr, sondern starrte auf die Mönche, die ihre Holzklappern schlugen. Das Geräusch klang hohl, wie Spechte an einem toten Stamm. „Ein Kanzler stirbt nicht am Alter. Er stirbt am Schimmel in seinen Kammern, wenn man ihm die Fenster vernagelt.“
 
-Und dann sah er sie.
+„Er war müde, Richter.“
 
-Fatima stand am Rand der Menge, halb verborgen im Schatten eines Pfeilers, die Hände vor dem Körper gefaltet. Sie trug keine Trauerkleidung, aber ihre Haltung war ernst, ihre Augen waren auf den Toten gerichtet, und ihr Gesicht zeigte nichts von dem, was sie dachte.
+„Er war unbestechlich.“ Shigi spie ein braunes Blatt getrockneten Krauts in den Schnee. Der Speichel gefror fast augenblicklich. „Das ist eine Krankheit, die man in diesem Lager nicht überlebt. Man stirbt daran, früher oder später.“
 
-Shigi bemerkte eine Bewegung im Eingang. Ein Diener der Regentin trat ein, trug einen kleinen Kasten aus poliertem Holz, den er neben der Bahre hinstellte. Er flüsterte dem ältesten Schreiber etwas ins Ohr, und dieser nickte, einmal, knapp.
+Fatima schwieg. Eine Böe fuhr über den Hang, riss an den Seidendecken auf den Schlitten und ließ die Spannseile der nahen Zeltpavillons klagend singen. Der Schnee tanzte in kleinen Wirbeln um ihre Füße.
 
-Töregene schickte Geschenke.
+„Ich war in seiner Kanzlei“, sagte sie nach einer Weile, so leise, dass der Wind die Silben beinahe fortgeweht hätte. „Gestern Nacht. Die Schreiber haben seine Pinsel zusammengerafft. Seine Tuschesteine. Seine Register. Sie haben die Schränke versiegelt, wie es der Brauch ist.“
 
-Sie blieb fern, natürlich. Sie hatte Yelü Chucai kaltgestellt, ihn entmachtet, ihn vergessen lassen. Sie hatte gezeigt, dass sie ihn nicht brauchte, dass sie seine Bücher, seine Register, seine Ordnung nicht brauchte. Und jetzt, wo er tot war, schickte sie ihre Gaben, als ob das etwas ändern würde.
+„Ein leerer Tisch“, murmelte Shigi. In seiner Erinnerung stand Yelü Chucai noch immer vor Temüjin, langbärtig, mit Augen wie zwei dunkle Brunnen, die Schriftrollen entrollend, während die Fürsten mit dem Blut der Steppe an ihren Händen dastanden und lachten. Keiner von ihnen hatte die Zeichen verstanden. Aber Chucai hatte ihnen erklärt, wie viele Pfeile man für eine Million Münzen kaufen konnte. Und sie hatten aufgehört zu lachen. „Wer bewahrt jetzt, was er wusste?“
 
-Staatskunst, dachte Shigi. Oder Heuchelei.
+Fatima drehte den Kopf. Zum ersten Mal traf ihr Blick den seinen. Ihre Augen waren dunkel, grundlos tief, gezeichnet von einer Erschöpfung, die nicht von schlaflosen Nächten herrührte, sondern von Jahrzehnten des Überlebens unter Raubtieren. 
 
-Es war egal. Töregene war nicht da, und das war die einzige Wahrheit, die zählte. Die einzige Wahrheit, die blieb.
+„Wer es aufschreibt“, sagte sie, „bewahrt es. Wer es verbrennt, beherrscht es.“
 
-Die Zeremonie begann.
+Beide verstanden sofort. 
 
-Die Schreiber rezitierten die offiziellen Formeln, die Texte, die für die Toten bestimmt waren, die Worte, die den Übergang von der Welt der Lebenden in die Welt der Ahnen begleiten sollten. Die Kinder weinten, die Frauen flüsterten, die Männer standen schweigend.
+Es war kein Gedanke, den man laut auf dem Markt aussprach. In diesem Reich galt das gesprochene Wort des Khagans als Gesetz, der Wille des Himmels als Pfeil. Aber die Pfeile flogen vorbei, und das Wort verhallte in der Steppe. Was blieb, war die schwarze Tinte auf chinesischem Hanfpapier oder persischem Pergament. Die Steuerlisten, die Bestechungsbriefe, die Zeugnisse darüber, wer in der Nacht von Ögedeis Tod im Zelt gewesen war und wer den Becher gereicht hatte.
 
-Shigi nahm kaum etwas davon wahr.
+Archive waren die Waffen der Toten. Und die Werkzeuge derer, die nach ihnen kamen, um das Fleisch von den Knochen zu schälen.
 
-Er stand und starrte auf die Bahre, auf das weiße Leinen, auf das Gesicht des Toten, und er fühlte etwas, das er nicht benennen konnte. Es war keine Trauer, nicht in dem Sinne, wie er sie kannte. Es war etwas anderes, etwas Trockenes, etwas, das in der Kehle saß und ihn am Schlucken hinderte.
+„Mit ihm ist die Gründung gestorben“, sagte Shigi, und seine tiefe Stimme trug eine Schwere in sich, die der Frost noch härter machte. „Jetzt beginnt die Erbschaft.“
 
-Mit ihm ist die Gründung gestorben.
+Fatima atmete aus. Ein feiner weißer Hauch stieg vor ihren Lippen auf und verwehte im Grau des Morgens. 
 
-Der Gedanke kam klar und kalt, wie eine Stimme, die er kannte. Er sah die Geschichte des Reiches vor sich, die Jahre, die vergangen waren, die Männer, die gekommen und gegangen waren. Dschingis Khan, der das größte Reich der Welt erobert hatte. Ögedei, der es verwaltet hatte. Die Generäle, die Fürsten, die Gesandten.
+„Dann wird gefährlich, was geschrieben steht.“
 
-Und dann war da noch Yelü Chucai.
+Das war gefährlich.
 
-Ein Mann, der keine Schlacht geschlagen hatte, der kein Heer kommandiert hatte, der kein Blut vergossen hatte. Ein Mann, der nur Papier und Tinte besessen hatte, der nur geschrieben und gerechnet und geplant hatte. Und doch war er derjenige gewesen, der das Reich zusammengehalten hatte, der es vor dem Zerfall bewahrt hatte, der es von einer Horde in einen Staat verwandelt hatte.
+Shigi spürte die Wahrheit dieses Satzes bis in das Mark seiner alten Knochen. Er dachte an das Buch unter seinen Schlafdecken. An die ungelenken mongolischen Schriftzeichen, eingetragen mit seiner eigenen Hand, Zeile für Zeile, Urteil für Urteil. An jene eine Randnotiz über Ögedeis Willen am See Kökö-Nuur, die Shiremün zum Erben machte und Güyük zu einem Bettler um die Macht degradierte. Er hatte die Notiz nicht verbrannt. Er trug sie bei sich wie eine Glut, die darauf wartete, das trockene Steppengras in Flammen zu setzen.
 
-Shigi schloss die Augen.
+Und die Frau neben ihm – was trug sie?
 
-*Jetzt beginnt die Erbschaft.*
+Er sah die feine Linie ihrer Lippen. Er erinnerte sich an die Berichte aus dem Sommer, an das Fest der Witwen, an das Flüstern über ihr Erbleichen vor einem Diener des Hauses Tolui. Fatima war keine Mongolin. Sie hatte keine Sippe, keine Tausendschaft von Reitern, die für ihren Namen das Schwert zogen. Wenn Töregene fiel oder wenn Töregene sie fallen ließ, gab es keinen Ort auf der Welt, an den sie fliehen konnte. Ihre einzige Waffe war das, was sie im Kopf trug – und auf den Blättern, von denen Shigi wusste, dass sie existieren mussten. Niemand diente zwei Herrschern im Zentrum der Macht, ohne sich ein Gegengift aus Tinte anzulegen.
 
-Die Worte fühlten sich an wie ein Richtspruch, wie eine Verkündigung, die er nicht zurücknehmen konnte.
+„Die Khatun vertraut Euch blind“, sagte Shigi beiläufig. Seine Augen wanderten wieder zum Grab, wo die Mönche nun gelben Sand auf das Holz der Kiste rieseln ließen. Ein trockenes, schabendes Geräusch.
 
-Er öffnete die Augen und sah, dass die Zeremonie vorbei war. Die Menschen begannen zu gehen, die Menge löste sich auf. Die Schreiber trugen die Bahre hinaus, um den Toten zu bestatten.
+„Niemand vertraut blind an diesem Hof“, erwiderte sie ohne Zögern. „Man schließt die Augen nur, wenn man das Messer schon kommen sieht.“
 
-Shigi folgte ihnen nicht.
+„Sie hat Eile. Sie will den Kurultai erzwingen. Sie will ihren Sohn auf dem Thron sehen, ehe Batu seine Pferde gesattelt hat.“
 
-Er blieb im Raum zurück, allein, oder fast allein, und nach einer Weile hörte er einen Schritt, der näher kam.
+„Eine Mutter kämpft für ihr Blut.“
 
-„Richter."
+„Ein Reich ist kein Zelt für eine Familie“, entgegnete Shigi schroff. „Ein Reich ist ein Vertrag mit den Lebenden und den Toten. Wenn man das Dach abbricht, frieren alle.“
 
-Er drehte sich um. Fatima stand drei Schritte von ihm entfernt, die Hände immer noch gefaltet, die Augen ruhig und wach.
+Er schwieg für die Dauer von zehn Herzschlägen. In der Ferne wieherte ein Hengst, schrill und einsam gegen die weiße Wand des Himmels. Shigi rückte seinen Kragen zurecht. Das Wolfsfell kratzte an seinem Kinn, warm und vertraut wie der Geruch der eigenen Kindheit bei den Jurten von Hö'elün.
 
-„Schreiberin", sagte er.
+„Der Khan trank sein Leben lang“, sagte er unvermittelt. Die Worte fielen schwer, wie Steine, die man in einen tiefen Brunnen warf, ohne auf den Klang des Aufschlags zu warten. „Herzen sind geduldig – bis sie es nicht sind.“
 
-Sie sahen einander an.
+Fatima rührte sich nicht. Kein Muskel in ihrem Gesicht zuckte. Kein Wimpernschlag verriet, was hinter dieser kühlen Stirn geschah. Aber Shigi sah, wie sich der Stoff ihres Mantels an ihren Schultern für den Bruchteil eines Atemzugs straffte. 
 
-„Ein seltsamer Tag für ein Begräbnis", sagte sie.
+Sie wusste es. 
 
-„Es gibt keine seltsamen Tage für den Tod", erwiderte Shigi. „Nur unterschiedliche Orte, ihn zu empfangen."
+Sie wusste um den Becher. Sie wusste um den Wein, der süßer gewesen war als die Trauben von Nischapur, und um die Lippen des Khagans, die sich blau gefärbt hatten, ehe das letzte Licht aus seinen Augen wich. Und sie wusste nun, dass der Oberrichter des Reiches es ebenfalls wusste.
 
-„Sie haben ihn gekannt."
+Er jagte sie nicht. Shigi Qutuqu war der Mann des Gesetzes, aber das Gesetz Temüjins war kein stumpfes Beil; es war eine Waage. Wenn er jetzt die Wahrheit über das Gift in die Kanzleien rief, würde das Reich in tausend Stücke zerspringen. Güyük würde gegen Batu reiten. Die Söhne des Tolui würden ihre Banner gegen die Söhne des Ögedei erheben. Die Steppe würde rot werden vom Blut der eigenen Brüder, und die Arbeit von vierzig Kriegsjahren würde vom Wind verweht wie die Asche von Chucais Papieren.
 
-„Seit vierzig Jahren."
+Er hatte Herzversagen in das große blau-weiße Buch geschrieben. Eine Lüge. Seine erste Amtslüge. Und diese Frau neben ihm hatte das Dekret gesiegelt.
 
-Fatima nickte, langsam, als ob sie etwas abwog. „Ein seltsamer Mann", sagte sie. „Er sprach immer von Zahlen und von Gesetzen, als wären sie lebendige Dinge."
+Sie waren Komplizen, lange bevor sie dieses Grab erreicht hatten.
 
-„Das waren sie für ihn."
+Fatima wandte den Blick nicht ab von der Grube. Ihre Stimme, als sie endlich sprach, war fast unhörbar, ein fernes Säuseln zwischen den wehenden Seidenbahnen.
 
-„Und für Sie?"
+„Manchmal“, sagte sie, „ist die Geduld eines Herzens das Einzige, was die Welt davor bewahrt, in Flammen aufzugehen.“
 
-Shigi zögerte. Er sah die Tafel, die auf dem Schreibtisch des Toten lag, die Papiere, die noch nicht weggeräumt waren. „Für mich sind sie das auch", sagte er leise. „Aber ich habe gelernt, sie nicht laut zu sagen."
+Sie antwortete nicht direkt auf den Khan. Sie nannte kein Gift. Sie nannte keinen Mörder. Aber sie hatte den Stein aufgefangen, den er geworfen hatte, und hielt ihn nun in ihrer geschlossenen Hand.
 
-Sie lächelte, ein schmales, flüchtiges Lächeln, das nicht die Lippen erreichte. Es war das Lächeln einer Frau, die wusste, wann sie schweigen musste, wann sie sprechen durfte, wann sie die Wahrheit hinter der Lüge verstecken musste.
+„Yelü Chucai hat mir einmal etwas gesagt“, sprach Shigi weiter, als sprächen sie über das Wetter oder den Zustand der Weiden im nächsten Frühjahr. „Es war im Jahr des Schafes, nach dem Feldzug im Süden. Die Prinzen stritten um die Verteilung der Seidenweber von Xuanhua. Jeder wollte sie töten, weil sie Getreide aßen, das die Pferde brauchten. Chucai kniete einen ganzen Tag vor dem Zelt des Gründers, ohne Wasser, bis die Knie bluteten. Als er herauskam, sagte er zu mir: ‚Ein Pferd kann die Welt erobern, Shigi. Aber man kann nicht vom Sattel aus regieren.‘“
 
-Shigi erkannte dieses Lächeln. Er hatte es selbst oft genug getragen.
+Fatima neigte den Kopf ein wenig. „Er irrte sich in einem Punkt.“
 
-„Sie sind eine der Wenigen, die ihn verstanden haben", sagte sie. „Die ihn überleben werden."
+„In welchem?“
 
-„Wir alle werden ihn überleben", erwiderte Shigi. „Die Frage ist nur, ob wir auch das überleben, was er hinterlassen hat."
+„Man kann vom Sattel aus regieren. Aber man hinterlässt dabei nichts als zertrampeltes Gras.“ Sie zog die Hände aus den Ärmeln. Ihre Finger waren weiß vor Kälte, die Nägel kurz und sauber geschnitten, ohne die Henna-Farbe, die die Frauen in Chorasan trugen. Sie griff nach einer Handvoll der gefrorenen Erde, die neben dem Grab aufgeschüttet lag. Die Klumpen waren hart wie Kies. „Wenn dieser Winter vorbei ist, Richter, werden die Pferde wieder laufen. Und die Männer werden vergessen, wer Chucai war.“
 
-Sie nickte, und ihre Augen glitten zu den Papieren auf dem Tisch. Sie sprach leise, fast flüsternd, als ob die Wände Ohren hätten.
+„Ich werde es nicht vergessen“, sagte Shigi.
 
-„Wer bewahrt jetzt, was er wusste?"
+„Ich auch nicht.“
 
-Die Frage hing in der Luft, schwer wie ein Schleier, der nicht gehoben werden konnte.
+Sie ließ die Erde fallen. Die gefrorenen Krümel schlugen mit einem trockenen Klappern auf den Sargdeckel auf. Ein kleiner, unbedeutender Laut in der grenzenlosen Weite der Mongolei.
 
-Shigi antwortete nicht sofort. Er sah sich um, blickte auf die leeren Tische, die leeren Bänke, die leeren Regale, die einst voll gewesen waren mit Rollen und Büchern. Yelü Chucai hatte alles gewusst. Er hatte die Steuerregister gehalten, die Bevölkerungszahlen, die Ernteerträge, die Handelsrouten. Er hatte die Namen aller Fürsten und Gouverneure gekannt, ihrer Frauen und Kinder, ihrer Stärken und Schwächen. Er hatte das Reich in seinen Papieren getragen, in seinen Zahlen, in seinen Aufzeichnungen.
+„Die Kanzlei braucht Ordnung“, sagte Fatima, und ihre Worte bekamen nun eine geschäftsmäßige Schärfe, die den Schmerz der Trauer wie eine Klinge schnitt. „Die Briefe aus dem Westen stapeln sich. Der Gesandte aus Rom soll im Aufbruch sein. Die Steuerlisten aus Fars sind unvollständig. Wenn die Register lückenhaft sind, wird Güyük sie mit dem Schwert schließen, sobald er den Thron betritt.“
 
-Und jetzt war er tot.
+„Güyük versteht von Büchern so viel wie ein Wolf von der Zither“, knurrte Shigi.
 
-„Vielleicht niemand", sagte Shigi schließlich. „Vielleicht war er der Einzige, der den Überblick hatte."
+„Eben darum.“ Sie sah ihn nun direkt an, und in ihren Augen lag kein Schatten mehr von der Sklavin, die man einst aus Chorasan verschleppt hatte. Es war der Blick einer Frau, die ihr eigenes Schicksal mit beiden Händen festhielt, wohl wissend, dass das Seil, an dem sie hing, über einem Abgrund zerriss. „Wenn Ihr Recht sprechen wollt, Shigi Qutuqu, braucht Ihr Urkunden, die älter sind als die Launen der Regentin. Und ich brauche ein Siegel, das selbst ein Khagan nicht brechen kann, ohne die Geister seiner Väter zu erzürnen.“
 
-„Das ist gefährlich."
+Es war der Pakt. Geschlossen auf gefrorenem Grund, bezeugt von taoistischen Priestern, die ihre eigenen Lieder sangen, und den Seidenballen einer Mörderin.
 
-„Das war er auch."
+Sie brauchten einander. Er war die Vergangenheit – unantastbar durch sein Alter, geheiligt durch Temüjins Gesetz, aber hilflos gegen die neuen Intrigen einer Kanzlei, die von Tag zu Tag giftiger wurde. Sie war die Gegenwart – die Feder hinter dem Thron, das Ohr an Töregenes Lippen, aber schutzlos ausgeliefert, sobald der nächste Khagan den Bogen spannte.
 
-Fatima trat einen Schritt näher. Ihre Stimme war ruhig, aber sie hatte eine Schärfe, die Shigi noch nicht kannte.
+„Die Erbschaft“, sagte Shigi leise und spürte, wie das Wort seinen Gaumen trocken hinterließ, „wird teuer werden.“
 
-„Die Papiere werden nicht verschwinden. Sie werden irgendwo landen, irgendwo in einer Kanzlei, in einem Archiv. Die Frage ist, wer sie finden wird. Wer sie lesen wird. Wer verstehen wird, was sie bedeuten."
+„Sie kostet bereits alles“, erwiderte Fatima.
 
-Shigi sah sie an. Ihre Augen waren dunkel, klar, sie verrieten nichts. Aber er wusste, dass sie wusste. Sie wusste, dass Papiere Waffen waren, dass Archive die Schlachtfelder der Toten waren, dass die Vergangenheit noch lange nach dem Tod derer, die sie erlebt hatten, kämpfte.
+Sie wandte sich ab. Ohne eine weitere Verbeugung, ohne ein Wort des Abschieds ging sie den Hügel hinab zu den wartenden Wagen, ihre Gestalt dunkel gegen den Schnee, aufrecht und einsam wie eine Zypresse in den Ruinen einer verbrannten Stadt.
 
-„Die Gründung ist gestorben", sagte er leise.
+Shigi Qutuqu blieb stehen, bis die Mönche den letzten Spaten Erde auf das Grab geworfen hatten. Er sah hinüber zu dem kleinen hölzernen Gebäude am Rande des Lagers, der Schreibstube, in der Yelü Chucai dreißig Jahre lang gearbeitet hatte. Durch das offene Fenster konnte man den leeren Tisch sehen. Das Pult war kahl, kein Pinsel lag mehr auf der Porzellanbank, keine Schriftrolle war entrollt.
 
-Fatima hielt inne. Ihre Hände, die vor dem Körper gefaltet waren, zuckten kurz, ein Reflex, der sofort kontrolliert wurde.
+Ein Zeitalter war zu Ende. Die Schreiber, die nun kamen, trugen keine Gelehrtenkappen mehr; sie trugen Dolche unter den Seidenmänteln und zählten nicht die Ernten, sondern die Köpfe.
 
-„Sie sagen das mit einer Gewissheit", erwiderte sie, „die klingt wie ein Urteil."
+Shigi zog die Pelzhandschuhe an, spürte das schwere, kalte Silber seines Siegels an der Hüfte und wandte sein Pferd nach Norden, zurück zu seiner Jurte, zurück zu den Zeilen, die er vor der Welt verbergen musste, solange die Erben noch stritten.
 
-Shigi lächelte, ohne Humor. „Ich bin Richter. Urteile sind meine Muttersprache."
-
-„Und was ist Ihr Urteil über diesen Tag? Über diesen Tod?"
-
-Er schwieg. Sah an ihr vorbei zu den leeren Regalen, zu den Papieren, auf dem Tisch, zu der Tinte, die noch nicht getrocknet war auf der letzten Seite des Toten.
-
-„Mit ihm ist die Gründung gestorben. Jetzt beginnt die Erbschaft."
-
-Er machte eine Pause, ließ die Worte zwischen ihnen hängen, wie eine Last, die beide tragen mussten.
-
-„Jeder wird sich etwas nehmen, was er nicht versteht, und es gegen die anderen wenden. Die Zahlen der Steuerregister werden zu Vorwürfen. Die Landtitel werden zu Waffen. Die Namen der Beamten werden zu Verrat."
-
-Ihre Augen blieben ruhig, aber er sah, wie ihre Lippen schmaler wurden, wie sie das Gewicht der Wahrheit in sich aufnahm.
-
-„Dann wird gefährlich, was geschrieben steht", sagte sie.
-
-Es war kein Fragen, keine Bitte um Bestätigung. Es war eine Feststellung, die aus derselben Quelle kam, aus der auch Shigi schöpfte: aus der Erfahrung, dass Worte töteten, dass Sätze Urteile waren, dass die Wahrheit nichts wert war, wenn niemand sie las.
-
-„Ja", sagte er. „Das wird es."
-
-Sie sahen sich an, beide in der Stille des verlassenen Raumes, umgeben von den Spuren des Toten, von den leeren Bänken und den Büchern, die nichts mehr erzählten.
-
-Shigi spürte, wie er atmete, wie die Kälte durch die Ritzen der Wände kroch, wie die Stille sich anfühlte wie eine Zwiebelhaut, die jede Sekunde dünner wurde.
-
-„Ich habe eine Frage", sagte er, und es klang beiläufig, beinahe nebensächlich.
-
-„Richter?"
-
-„Wie fühlt es sich an, eine Herrin zu haben? Die eine Regentin, die ein Reich regiert, während ihr Sohn darauf wartet, dass die Macht vom Himmel fällt?"
-
-Fatima zögerte. Sie sah ihn an, und ihre Augen waren so bewegungslos wie das Gesicht des Toten, als sie antwortete.
-
-„Sie fühlt sich an wie ein Käfig. Aber der Käfig ist warm, und er schützt einen vor den Wölfen draußen."
-
-„Und wenn die Wölfe hereinkommen?"
-
-„Dann schreibt man auf, was man sieht, damit sich später jemand erinnert."
-
-Sie machte eine Pause, die eine Antwort verlangte.
-
-„Und Sie, Richter? Wie fühlt es sich an, das Gesetz zu sein, wenn die Regentin es bricht?"
-
-Shigi lächelte, ein schmales Lächeln, das nicht den Mund erreichte.
-
-„Macht bedeutet, die Lüge der Wahrheit vorzuziehen", sagte er. „Ich habe sieben Herrschen erlebt, und ich habe die Wahrheit an keinem von ihnen gefunden."
-
-Fatimas Lächeln blieb ruhig, aber ihre Augen wurden tiefer, prüfend, als ob sie jede seiner Falten, jede Linie seiner Haut las wie eine Schrift.
-
-Shigi wusste, dass der Moment gekommen war. Kein Bekenntnis. Keine Beichte. Nur der eine Satz, den man sagen konnte ohne ihn zu sagen, den man hören konnte ohne ihn zu hören.
-
-Er sprach leise, mit einer Stimme, die er für die Formeln des Gerichts reservierte, für die Urteile, die er nicht aufschreiben durfte.
-
-„Der Khan trank sein Leben lang. Herzen sind geduldig – bis sie es nicht sind."
-
-Die Worte fielen in die Stille wie Kiesel in einen Fluss, und das Wasser schloss sich über ihnen, ohne zu zeigen, wohin sie gefallen waren. Fatimas Gesichtsausdruck blieb unverändert, aber ihre Hände, die bis zu diesem Moment völlig reglos gewesen waren, spannten sich, die Finger legten sich kurz über die Handflächen, ein Reflex, den kaum jemand bemerkt hätte. Er bemerkte ihn.
-
-Sie sah ihn an.
-
-Es war kein Blick der Überraschung, kein Blick der Angst, kein Blick der Wut. Es war ein Blick des Erkennens, der Stille, der beinahe Dankbarkeit, dass er es ausgesprochen hatte, ohne es auszusprechen, dass er ihr den Spiegel vorgehalten hatte, in dem sie beide sich selbst erkennen konnten.
-
-Kein Wort fiel mehr.
-
-Die Stille in dem Raum hatte sich verändert. Sie war dicker, tiefer, wie der Sand des Winters, der sich über das Gras legte und es ersticken ließ.
-
-Shigi stand. Er griff nach seinem Stab, der am Boden neben ihm gelehnt hatte, und sein Griff war fest, sicher.
-
-„Ich werde gehen", sagte er. „Der Tag war lang."
-
-Sie antwortete nicht. Ihr Blick auf ihm blieb ruhig, und er wusste, dass er nichts mehr hinzufügen musste.
-
-Er drehte sich um und ging.
-
-Der Wind im Flur war eisig, als er die Kanzlei verließ, der Himmel war tief und schwer, und der Schnee fiel in kleinen, harten Körnern. Er spürte die Kälte auf seiner Haut, aber er spürte nichts davon in sich. Sein Geist war kalt wie Stein, und dieser Stein wurde zu einem Entschluss, der sich in seinem Kopf festsetzte, fest wie die Gesetze, die er sein Leben lang geschrieben hatte.
-
-Er wusste nun: Fatima wusste alles über die Nacht, in der Ögedei starb. Sie wusste über das Gift, über den Becher, über den Diener, der verschwunden war. Und sie wusste jetzt, dass er es auch wusste.
-
-Sie waren aneinander gebunden, nicht durch Worte, sondern durch das Schweigen zwischen ihnen.
-
-Er würde auf die Allianz der Alten bauen.
-
----
-
-Er ritt durch den Wind zurück zu seiner Kanzlei, und der Weg zog sich in die Länge. Die Stadt lag vor ihm, grau und still. Eine Stadt der Toten.
-
-Als er in seine Arbeitsstube trat, war die Lampe noch an, und die Papiere lagen auf dem Tisch, unverändert.
-
-Er setzte sich, nahm die Feder, tauchte sie in die Tinte, und schrieb in sein geheimes Buch. Nichts über Yelü Chucai. Nichts über Fatima. Nur ein Wort, das er immer wieder unterstrich, bis das Papier riss: *Erbschaft.*
-
-Er dachte an Yelü Chucais leeres Pult, an die sauberen Blätter, die darauf lagen, an die Feder, die nicht mehr schrieb. Er dachte an die Lücke, die dieser Tod in die Welt gerissen hatte, und er wusste, dass diese Lücke sich nicht füllen ließ.
-
-Aber er wusste auch, dass er nicht allein war.
-
-Er war müde.
-
-Müde von den Jahren, müde von den Worten, müde von der Last, die er trug. Aber die Müdigkeit war vertraut, sie war ein alter Freund, der ihn nie aufgab, der immer bei ihm war, wenn die Nacht kam.
-
-Und er wusste, dass die Arbeit weitergehen würde, dass die Papiere nicht verschwinden würden, dass die Geschichten weitererzählt werden würden.
-
-Er saß da, in der Dunkelheit, und hörte die Stille des Raumes, die sich anfühlte wie ein Echo auf Jahrzehnte, die vergehen würden, ohne dass die Wahrheit je ans Licht kam.
-
----

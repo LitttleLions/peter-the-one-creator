@@ -5,180 +5,79 @@
 
 ---
 
-Karakorum, im Mond des ersten Schnees
+Der Wind über dem Orchon-Tal trug den Geruch von gefrorenem Riedgras, rußigem Kiefernholz und jenem ersten, trockenen Schnee, der sich wie Asche über die Zeltstadt legte. In der Jurte schmolz der Talg in den flachen Bronzeschalen mit einem trägen, erstickten Knistern, dessen fahlgelbes Licht kaum bis an das Weidengeflecht der Wände reichte. Vor Fatima lag der Bogen aus festem Hadernpapier, weiß und unerbittlich wie der gefrorene Boden vor der Schwelle, glatt poliert mit einem Achat, so wie sie es als Mädchen gelernt hatte. 
 
-Schwester,
+Ihre Finger waren starr von der Kälte, die durch die Ritzen der Filzdecken kroch. Sie schob die linke Hand unter die Borte ihres gefütterten Mantels, berührte die feine, verhornte Narbe an ihrem Gelenk und zog das hölzerne Federetui heran. Es roch nach altem Rosenöl, nach Rußtinte und getrocknetem Thymian – der Duft der Schreibstube ihres Vaters, eingefangen in Nussbaumholz, das um zehntausend Reiterwege von den Hügeln Chorasans entfernt war. Sie schob die Hülse auf. Die Rohrfeder lag darin, zugeschnitten, die Spitze noch dunkel von getrocknetem Ruß.
 
-ich weiß nicht, ob Briefe an Tote gelesen werden. Aber ich weiß, dass Briefe an Lebende verloren gehen können. Verkauft. Verraten. Verbrannt. Dich kann mir niemand mehr nehmen. Darum schreibe ich dir alles.
+Fatima atmete aus. Ein feiner Dunst stieg vor ihren Lippen auf.
 
-Ich bin in Karakorum. Du würdest die Stadt nicht erkennen, weil sie keine ist. Sie ist ein Lager, das sich Stadt nennt, ein Kreis aus Filzwänden und Lehm, den der Wind jedes Jahr ein Stück weiter trägt. Die Chinesen nennen sie die Stadt des ewigen Friedens, aber sie lügen, wie alle, die Namen geben. Es gibt hier keinen Frieden. Es gibt nur die Stille vor dem nächsten Befehl.
+Sie tunkte die Feder nicht ein, um einen Erlass für die Kanzlei zu zeichnen. Sie setzte die Spitze an, um jene Sprache zu sprechen, die am Hof der Khagane niemand verstand, weil sie hier als die Zunge der Besiegten galt – weich, voller Vokale, die wie reife Granatäpfel über die Lippen glitten.
 
-Ich bin wichtig, Schwester. Stell dir das vor. Eine von uns, wichtig.
+*Karakorum, im Mond des ersten Schnees.*
 
-Der Satz schmeckt mir nicht, wenn ich ihn aufschreibe. Er schmeckt nach etwas, das ich nicht essen wollte, aber doch gegessen habe. Ich bin wichtig, weil die Frau, die über alles herrscht, mir vertraut. Sie vertraut mir mehr als ihren Söhnen, mehr als ihren Generälen, mehr als den Männern, die ihre Gesetze schreiben. Ich bin die Einzige, die sie nachts ruft, wenn die Lampe brennt und die Papiere auf dem Tisch liegen wie tote Vögel.
+*Schwester.*
 
-Ich hätte dir sagen sollen, wer sie ist. Töregene. Die Frau des Khans. Jetzt die Witwe des Khans, aber das Wort ist zu klein für das, was sie geworden ist. Sie ist die Regentin. Sie hält die Siegel. Sie spricht mit der Stimme des Toten, und niemand widerspricht.
+*Ich sitze in einem Kasten aus Filz und Holz, und die Erde darunter zittert, wenn die Nachtwachen ihre Rosse wechseln. Sie nennen diesen Ort eine Stadt, doch Karakorum will keine Stadt sein. Es ist ein Heerlager, das vergessen hat, wie man weiterzieht, festgefroren im Eis eines endlosen Tals. Mauern haben sie hochgezogen, grob gefügt aus Lehm und Steinen, doch der Wind pfeift hindurch, als verspotte er ihren Willen zur Dauer. Er riecht nach gerösteter Hirse, nach ranzigem Fett und nach Pferdeharn, der im Steppengras zu gelben Perlen gefriert. Wenn ich die Augen schließe, versuche ich, das Wasserrauschen aus den Terrassengärten von Maschhad zu hören, den warmen Nachmittagswind, der den Staub von den Mauern wehte, das Lachen, das du hattest, wenn die Maulbeeren überreif auf den Hof fielen und wir sie mit den bloßen Füßen zertraten. Doch hier gibt es kein Wasserrauschen. Nur das Singen der Spannseile im Frost und das heisere Krächzen der Raben über den Schlachtgruben.*
 
-Ich bin ihre Hand, Schwester. Ihre Finger, die schreiben. Ihre Augen, die lesen. Ihr Ohr, das hört, was die Wände nicht hören sollen.
+Fatima hielt inne. Sie wärmte die Feder zwischen ihren Handflächen. Das Rohr war spröde geworden in der trockenen Kälte der Steppe, und sie fürchtete stets, dass die Spalte brechen könnte. 
 
-Ich weiß, was du jetzt denkst. Du denkst: Fatima, die nie lesen durfte, die hinter der Werkstatt des Vaters kauerte und die Blätter stahl, die er beschrieben hatte, die Silben flüsternd, bis sie wusste, wie die Wörter aussahen, wenn sie sprachen – diese Fatima ist wichtig. Stell dir das vor.
+*Ich bin wichtig, Schwester. Stell dir das vor. Eine von uns, wichtig.*
 
-Ich stelle es mir jeden Abend vor, wenn ich in mein Zelt gehe und die Lampe anzünde, und ich weiß nicht, ob ich lachen oder weinen soll.
+Sie blickte auf die geschwungenen persischen Schriftzüge, und der Satz schmeckte ihr bitter, wie der Bodensatz von saurer Stutenmilch. 
 
----
+*Sie nennen mich die Stimme hinter dem Vorhang. Gestern noch war ich eine Sklavin aus Chorasan, eine von Hunderten, die hinter den Trosswagen durch den Staub getrieben wurden, die Beute eines Sommers, den niemand mehr zählt. Heute weichen die Krieger zurück, wenn mein Saum die Türschwelle streift. Sie fürchten meine Nähe zu Töregene Khatun mehr als die Pfeile der Merkit. Wenn ich durch den Ordu gehe, senken Fürsten den Blick, Männer, deren Väter Könige köpften. Sie glauben, ich besäße Zauberkraft, weil ich Worte in drei Sprachen wiegen und auf Pergament bannen kann, ohne dass meine Wimpern zucken. Aber es ist keine Magie, Schwester. Es ist nur die Geduld des Steins, über den das Wasser fließt. Eine von uns, wichtig. Wenn Vater mich sehen könnte, wie ich vor diesen Analphabeten stehe und ihnen erkläre, wie viel Getreide ein Tal im Süden abwerfen muss, er würde weinen. Oder er würde lachen, jenes trockene Lachen, mit dem er damals die zerfetzten Ränder seiner Handschriften glättete.*
 
-Der Vater hätte uns beide sterben sehen, bevor er geglaubt hätte, dass eine von uns so weit kommt. Er war ein guter Mann, aber er war ein Mann seiner Zeit, und seine Zeit sagte: Frauen lesen nicht, Frauen schreiben nicht, Frauen bewahren nichts. Sie sind die Gefäße, nicht die Hand, die füllt.
+Die Talgkerze flackerte unruhig. Draußen schnaubte ein Wachpferd, Eisen klirrte dumpf im Frost. Fatima lauschte mit angehaltenem Atem, die Muskeln in ihrem Nacken gespannt wie Bogensehnen, bis die Tritte der Filzstiefel verklungen waren.
 
-Ich habe ihm nicht verziehen. Ich habe nur gelernt, dass er nicht anders konnte.
+Sie war allein. Doch Einsamkeit war an diesem Hof ein Geschenk, das man mit Argusaugen bewachen musste.
 
-Aber ich habe seine Feder behalten.
+*Du fragst dich vielleicht, warum ich dir schreibe, wo deine Knochen doch längst unter der grauen Erde ruhen, vermischt mit dem Lehm der Töpfergasse, die es nicht mehr gibt. Lebende Zuhörer kann man verlieren, kaufen, töten. Man vertraut einem Schreiber ein Wort an, und am nächsten Morgen findet man es auf der Zunge des Henkers wieder. Man flüstert einer Gefährtin einen Trost zu, und sie tauscht ihn gegen einen seidenen Überwurf oder zwei Maß Weizen ein. Den Lebenden darf man nicht einmal das eigene Schweigen anvertrauen, denn sie deuten es um, bis es wie Verrat aussieht. Dich kann mir niemand mehr nehmen. Darum schreibe ich dir alles.*
 
-Du erinnerst dich an das Federetui. Das Leder, das er von dem Händler aus Buchara tauschte, das Holz, das er selbst schnitzte, die Kerben, die er für jedes Kind machte, das er lehrte. Drei Kerben. Drei Kinder. Zwei gestorben. Eines, das überlebte, weil es mitgenommen wurde.
+Fatima strich über das Papier. Es war raues Material, hergestellt aus Flachs und alten Lumpen in den Kanzleien des Ostens, weit entfernt von der geschmeidigen Glätte der Blätter aus Samarkand, auf denen ihr Vater einst die Verse des Buches der Könige verzeichnet hatte. Doch es nahm die Tinte an, saugte sie tief ein, hielt sie fest.
 
-Ich habe das Etui heute Abend vor mir liegen. Die Lampe wirft einen Schatten darauf, der größer ist als das Etui selbst, und ich denke an den Tag, an dem er es mir gab. Weißt du noch? Es war der Morgen des ersten Schnees, ein Jahr vor Maschhad. Er legte es in meine Hände und sagte: „Du wirst es eines Tages brauchen. Ich weiß nicht, wofür. Aber du wirst es brauchen.“
+*Gestern Nacht ist Ögedei Khagan gestorben. Sie sagen, sein Herz habe aufgehört zu schlagen, ermüdet von der Größe seines eigenen Ruhms und der Schwere des Weins. Shigi Qutuqu, der alte Richter mit den Augen eines Adlers, der zu lange in die Sonne gestarrt hat, hat es mit Zinnober besiegelt. Ich stand daneben und reichte ihm das Pult. Ich sah, wie seine Hände zitterten, nur einen Wimpernschlag lang, als er das Siegel auf die Lüge drückte. 'Sein Herz', schreiben sie nun alle. Hundert Pinsel fliegen über das Papier in der Kanzlei, während ich diese Zeilen setze. 'Sein Herz.'*
 
-Er wusste es nicht. Keiner wusste es. Aber ich habe es seither bei mir getragen. Zwanzig Jahre. Durch die Ordos, durch die Feldlager, durch die Jahre, in denen ich lernte, dass Schweigen die einzige Währung ist, die nicht entwertet wird. Das Etui ist zerkratzt, das Leder ist rissig, aber die Feder darin schreibt noch.
+Sie schloss die Augen. 
 
-Und sie schreibt heute Abend an dich.
+Immer, wenn die Kälte der Jurte zu tief in ihre Glieder drang, kam die Erinnerung an jenen Tag im Frühjahr 1221 zurück. Sie roch nicht nach Tinte, sondern nach verbranntem Holz, nach verfaulendem Fleisch in den Gräben und nach dem bittersüßen Schweiß hunderter Pferde, die durch die Tore von Maschhad preschten.
 
----
+*Erinnerst du dich an den Geruch von Kardamom? Vater mörserte ihn immer morgens, noch ehe die Sonne über die Minarette stieg, und warf ihn in das kochende Wasser, während er die Tintensteine rieb. Wir saßen auf dem Filzteppich, die Knie aneinandergepresst, und warteten, dass das Licht die Fenster durchbrach. Es war der Tag, an dem Toluis Reiter kamen. Sie machten keinen Lärm, ehe sie die Mauern erreichten; es war nur ein dumpfes Grollen, wie Donner hinter den Bergen.*
 
-Ich habe dir nie geschrieben. Ich habe es nie gewagt, weil ich nicht wusste, wohin. Die Toten haben keine Adresse, hat der Vater immer gesagt. Sie sind dort, wo die Worte nicht mehr hinkommen.
+Fatima spürte, wie ihr Atem stockte. Eine Welle kalter Übelkeit stieg in ihr auf, so vertraut und unveränderlich wie der Schmerz in ihren Knöcheln vor dem Frost.
 
-Aber ich habe gelernt, dass die Toten die einzigen sind, die wirklich zuhören. Sie unterbrechen nicht. Sie fragen nicht nach dem Warum. Sie urteilen nicht, weil sie jenseits des Urteils sind. Sie sind die einzigen Adressaten, die nicht verraten.
+*Sie trieben uns auf den Platz vor der großen Moschee. Weißt du noch, wie Vater sein Federetui an sich drückte, dieses Etui, das jetzt hier neben mir liegt? Er schützte es mit beiden Armen, als wäre es ein Säugling. Sie nahmen ihm das Holz nicht weg; sie lachten nur und stießen ihn nieder, weil ein Mann mit Tinte an den Fingern für sie keinen Wert besaß. Toluis Krieger kannten keine Gnade für Kopisten. Sie brauchten Schmiede, um Hufeisen zu schlagen, und Weberinnen für ihre Filze. Und dann nahmen sie dich.*
 
-Ich schreibe dir alles, weil ich dir nichts mehr verheimlichen kann. Du warst bei mir, als die Stadt fiel. Du warst bei mir, als die Truppen kamen. Du warst bei mir, als die Erde rot wurde, und du weißt, was ich sah, weil du es auch sahst, bis du es nicht mehr sehen konntest.
+Die Tinte auf der Federspitze war angetrocknet. Fatima kratzte sie mit dem Daumennagel ab. Ihre Hand zitterte nicht. Die Hand einer Schreiberin durfte niemals zittern, nicht vor den Henkern und nicht vor den Geistern.
 
-Ich weiß, dass du mich hörst. Ich weiß, dass du hier bist, in diesem Zelt, in der Stille zwischen den Worten. Ich weiß, dass du die Feder siehst, die über das Papier fährt, und dass du denkst: Fatima, sei vorsichtig.
+*Ich sehe noch deine Augen, Schwester. Sie waren weit aufgerissen, schwarz und still vor Entsetzen. Du hast nicht geschrien, als sie dich über den Sattel warfen. Du hast nur nach meinem Rock gegriffen, und der Stoff zerriss zwischen deinen Fingern. Sie töteten dich, weil du stolpertest. Sie stachen dich nieder wie ein krankes Fohlen am Wegrand, einfach so, im Vorbeigehen, ohne Zorn, ohne Eile. Und mich nahmen sie mit, weil ich auf Türkisch nach Wasser rief. Meine Stimme hat mich gerettet. Meine Stimme, die damals schon die Sprache der Wölfe sprach.*
 
-Aber ich bin es leid, vorsichtig zu sein. Ich bin es leid, zu schweigen. Ich bin es leid, das zu bewahren, was niemand bewahren will.
+Sie blickte auf das Federetui. Das dunkle Holz trug an der Kante eine kleine Schramme, wo damals ein Kriegerstiefel daraufgetreten war. 
 
-Ich schreibe dir, weil ich etwas gesehen habe.
+*Und nun diene ich ihnen. Ich teile das Zelt mit Töregene, der Witwe des Sohnes von Dschingis Khan. Ich ordne ihre Abgaben, ich höre ihre Ängste, ich kämme ihr nasses Haar, wenn sie aus dem Dampfbad tritt, und rieche ihren Schweiß. Ich diene den Söhnen und Enkeln jener Männer, die Maschhad dem Erdboden gleichgemacht haben. Toluis Blut sitzt am Tisch der Macht, Toluis Witwe sendet Seidenstoffe als Geschenke, und ich nehme sie entgegen, verneige mich und küsse den Saum. Manchmal, wenn ich der Herrin den Spiegel halte, suche ich in meinen eigenen Augen nach Verrat. Aber da ist kein Verrat, Schwester. Da ist nur das nackte, eisige Überleben. Ein Baum biegt sich im Steppensturm, bis seine Äste das Gras berühren; richtet er sich zu früh auf, bricht der Wind ihn mitten entzwei.*
 
-Ich schreibe es noch nicht auf. Noch wiegt es zu viel.
+Draußen schlug die Glocke der Nachtwache. Drei Schläge, dumpf und metallisch, die in der frostigen Luft sofort erstarben. 
 
-Aber ich werde es dir schreiben. Eines Tages, wenn die Nacht still genug ist und die Lampe hell genug brennt. Eines Tages, wenn ich den Namen aussprechen kann, ohne dass meine Hand zittert.
+Fatima hob den Kopf. Im Rauchabzug oben in der Jurte funkelten die Sterne wie Glassplitter über einem schwarzen Tuch. Kalt, unendlich fern. Niemand im Himmel kümmerte sich um ein zerstörtes Haus in Chorasan oder um die Lügen, die am Hof eines Nomadenfürsten ersonnen wurden.
 
----
+Sie senkte die Feder wieder auf das Papier. Die nächsten Worte formten sich langsamer, bedächtiger, getragen von jener Furcht, die nicht aus der Vergangenheit kam, sondern aus der Gegenwart, die sie umzingelte.
 
-Erinnerst du dich an Maschhad?
+*Ich habe etwas gesehen. Ich schreibe es noch nicht auf. Noch wiegt es zu viel.*
 
-Ich versuche, mich zu erinnern. Ich versuche, die Bilder zu ordnen, aber sie sind wie die Blätter der Werkstatt, die der Wind erfasste, als die Stadt brannte, und die ich nie wieder einsammeln konnte. Manche sind verbrannt. Manche sind davongeflogen. Manche liegen noch da, irgendwo, unter der Asche, und ich kann sie nicht lesen, weil sie zu schwarz sind.
+Sie starrte auf diese zwei kurzen Sätze. Die Tinte schimmerte noch nass im Schein des Talglichts. 
 
-An den Tag vormittags erinnere ich mich. Die Sonne schien. Der Markt war voll. Der Vater hatte einen Auftrag von einem Händler aus Herat, und er war den ganzen Morgen am Tisch gesessen, hatte die Feder gespitzt, die Tinte gemischt, die Buchstaben gesetzt, als wäre jedes Wort ein Gebet. Du saßest neben ihm, wie immer, und lasest ihm die Fehler vor, die er machte, weil deine Augen besser waren als seine. Ich stand hinter dir, und ich sah, wie deine Hand über das Papier fuhr, und ich dachte: So wird sie es lernen. Sie wird es eines Tages besser können als er.
+*Wenn dieses Papier verbrennt, ist es gleich. Doch wenn diese Zeile in falsche Hände gerät, wird kein Stein in Karakorum auf dem anderen bleiben. Es gibt Wahrheiten, die wie Gift wirken: Ein Tropfen genügt, um das Blut zum Stillstand zu bringen, aber wenn man den Becher zu früh leert, erstickt man selbst daran. Ich habe das Gesicht des Mannes gesehen, der den Wein reichte. Ich kenne die Fäden, die von seinem Mantelärmel hinüber zu den Zelten im Norden führen. Aber die Zeit ist noch nicht reif. Shigi Qutuqu weiß, dass der Becher nicht rein war, doch er schweigt, weil das Gesetz die Eintracht mehr liebt als die Wahrheit. Töregene weiß es, doch sie schweigt, weil sie das Reich für ihren Sohn zusammenhalten muss. Und ich schweige, weil ich die Einzige bin, die weiß, wie das Netz gewebt ist.*
 
-Ich dachte nicht, dass du einen Tag später tot sein würdest.
+Sie atmete tief ein. Der Duft von Tinte und Holz gab ihr Halt. 
 
-Ich dachte nicht, dass die Sonne untergehen würde, ohne dass ich deine Hand noch einmal halten könnte.
+*Sie glauben alle, sie schrieben die Geschichte mit ihren Hufen, ihren Bogen und ihren goldenen Siegeln. Sie glauben, die Welt gehöre dem, der das meiste Blut über das Steppengras vergießt. Doch die Hufe verwehen im Schnee, Schwester. Die Jurten verfaulen, das Gold wird eingeschmolzen, und die Namen der Krieger werden vergessen sein wie der Staub von Maschhad. Was bleibt, ist das, was aufgeschrieben wird. Wenn ich sterbe, soll die Welt wissen, dass wir nicht nur stumme Schafe waren, die man zur Schlachtbank trieb. Wir waren die Zeugen. Ich bin deine Augen, die nicht geblendet werden konnten. Ich bin deine Hand, die noch schreiben kann.*
 
-Die Stadt fiel so schnell. Weißt du noch? Die Schreie kamen wie eine Welle, von außen nach innen, und sie rissen die Stille in Stücke, als wäre sie nie da gewesen. Der Vater stand auf. Er sagte: „Bleibt hier. Ich komme wieder.“ Er nahm sein Schwert, das er nie geführt hatte, und er ging hinaus, und ich sah ihn nie wieder.
+Fatima hielt die Feder still. Ein letzter Tropfen Tinte fiel von der Spitze und landete am unteren Rand des Bogens, ein kleiner, dunkler Stern auf dem weißen Grund. 
 
-Ich hielt deine Hand. Ich sagte: „Es wird alles gut.“ Ich log. Ich log, weil ich nicht wusste, was ich sonst sagen sollte, und weil die Wahrheit zu schwer war, um sie auszusprechen.
+Sie streute vorsichtig feinen Wüstensand über die Schrift, wartete einige Herzschläge lang und blies ihn dann mit einem einzigen, sanften Hauch fort. Das Papier war trocken.
 
-Die Truppen kamen. Du weißt, wie sie kamen. Du weißt, was sie taten. Du warst dabei, und du starbst dabei, und ich überlebte, weil ich mitgenommen wurde.
+Mit ruhigen, fast zärtlichen Bewegungen faltete sie den Brief dreimal der Länge nach, bis er kaum breiter war als zwei Finger. Dann zog sie aus der Innentasche ihres Mantels die kleine Ahle und ein Stück gewachsten Zwirn hervor. 
 
-Ich weiß nicht, warum. Ich habe es nie erfahren. Vielleicht war es der Zufall. Vielleicht war es der Wille einer Macht, die ich nicht verstehe. Vielleicht war es nur die Gnade eines Mannes, der an diesem Tag müde war und kein Blut mehr sehen wollte.
+Niemand würde dieses Blatt finden. Es würde ruhen, dicht am Fleisch ihrer Brust, unter der Seide und dem Lammfell, wärmer als die Erde von Karakorum, kälter als die Rache, die sie niemals üben durfte, solange die Dynastie lebte.
 
-Ich überlebte. Ich wurde in eine Ordu gebracht. Ich lernte die Sprache. Ich lernte, mich nützlich zu machen. Ich lernte, dass Überleben nichts ist, worauf man stolz sein kann, sondern etwas, das man tut, weil es keine Alternative gibt.
+Fatima schob die Rohrfeder zurück in das Etui ihres Vaters. Das Holz schnappte leise zu, ein trockener Laut, der in der Stille der Nacht verhallte wie das Brechen eines dürren Zweiges unter dem Huf eines fremden Pferdes.
 
-Ich lernte, dass die Männer, die meine Familie töteten, die gleichen Männer waren, die ich eines Tages bedienen würde.
-
-Ich lernte, dass die Dynastie, die ich hasste, die gleiche Dynastie war, der ich mein Leben verdankte.
-
-Ich lernte, dass die Welt nicht gerecht ist, und dass es dumm ist, sie zu fragen, warum.
-
----
-
-Ich diene ihnen jetzt. Ich diene Töregene, der Witwe des Khans. Ich diene der Frau, die den Tod ihres Mannes so schnell verarbeitete, dass ich nicht wusste, ob sie ihn liebte oder ob sie ihn erwartete. Ich diene der Frau, die das Siegel hält, die die Briefe öffnet, die die Befehle diktiert, die die Welt bewegt, während die Männer noch glauben, sie hätten die Kontrolle.
-
-Ich diene ihr, und ich hasse sie.
-
-Nein. Das ist nicht wahr. Ich hasse sie nicht. Ich bewundere sie. Ich fürchte sie. Ich vertraue ihr nicht, aber ich verstehe sie. Und das ist schlimmer als Hass, weil Verstehen die Grenzen verwischt zwischen dem, was richtig ist, und dem, was nötig ist.
-
-Sie ist klug. Sie ist kalt. Sie ist die Frau, die ich wäre, wenn ich ihre Macht hätte und ihre Geschichte.
-
-Aber ich habe meine Geschichte. Und sie ist anders.
-
----
-
-Ich schreibe dir, weil ich vergessen will. Ich schreibe dir, weil ich mich erinnern muss. Ich schreibe dir, weil ich nicht weiß, an wen sonst. Die Lebenden sind gefährlich. Die Toten sind sicher. Du bist der einzige Mensch, den ich je geliebt habe, und du bist der einzige Mensch, der mich nie verraten wird, weil du bereits gestorben bist, bevor du es konntest.
-
-Ich bin wichtig, Schwester. Aber ich weiß nicht, ob ich stolz darauf bin.
-
-Ich weiß nur, dass ich jeden Abend in mein Zelt gehe, die Lampe anzünde, das Federetui öffne und anfange zu schreiben. Ich schreibe dir, was ich gesehen habe. Ich schreibe dir, was ich weiß. Ich schreibe dir, was ich nicht sagen kann, weil die Wände Ohren haben und die Ohren Münder haben und die Münder töten.
-
-Ich schreibe dir, weil du die Einzige bist, die mich nicht verraten wird.
-
-Ich schreibe dir, weil du tot bist.
-
-Und ich schreibe dir, weil ich eines Tages sterben werde, und dann werde ich dir alles sagen, was ich nicht aufschreiben konnte.
-
----
-
-Ich habe etwas gesehen, Schwester.
-
-Ich habe etwas gesehen, das ich nicht verstehe, das ich nicht deuten kann, das ich nicht aufschreiben darf, weil es zu schwer wiegt. Noch.
-
-Aber ich werde es dir schreiben. Eines Tages. Wenn die Lampe hell genug brennt. Wenn die Nacht still genug ist. Wenn ich den Namen aussprechen kann, ohne dass meine Hand zittert.
-
-Bis dahin schreibe ich dir nur dies:
-
-Ich lebe.
-
-Ich diene.
-
-Ich warte.
-
-Und ich denke an dich, jeden Abend, wenn die Feder über das Papier fährt, und ich frage mich, ob du mich hörst, ob du mich liest, ob du mich verstehst.
-
-Ich hoffe es.
-
-Ich hoffe, dass die Toten nicht taub sind.
-
-Ich hoffe, dass die Briefe ankommen.
-
-Ich hoffe, dass du mir verzeihst, dass ich überlebt habe, während du starbst.
-
-Ich hoffe, dass du mir verzeihst, dass ich ihnen diene, während deine Knochen noch in der Erde von Maschhad liegen, unberührt, ungeweiht, vergessen.
-
-Ich hoffe, dass du mir verzeihst, dass ich lebe.
-
-Ich hoffe, dass du mich liebst, trotz allem.
-
-Ich hoffe, dass du mich liest.
-
-Ich hoffe, dass du mich hörst.
-
-Ich hoffe.
-
----
-
-Ich lege die Feder nieder. Die Lampe flackert. Der Wind draußen trägt den Geruch von Schnee, und ich weiß, dass der Winter kommen wird, kälter als der letzte, härter als der vorige, und ich weiß nicht, ob ich ihn überleben werde.
-
-Aber ich werde weiterschreiben. Ich werde dir alles schreiben. Jeden Abend, jede Nacht, jeden Brief, bis ich nichts mehr zu sagen habe, bis ich nichts mehr zu verbergen habe, bis ich nichts mehr zu fürchten habe.
-
-Ich werde dir schreiben, bis ich sterbe.
-
-Und dann werde ich dir sagen, was ich gesehen habe.
-
-Bis dahin, Schwester, bleib mir nah.
-
-Bleib mir nah in der Stille zwischen den Worten.
-
-Bleib mir nah in der Dunkelheit der Nacht.
-
-Bleib mir nah, bis ich dich wiedersehe.
-
-Deine Fatima
-
----
-
-*Sie legte die Feder neben das Papier. Sie sah auf die Buchstaben, die sie geschrieben hatte, und sie dachte an die Worte, die sie nicht geschrieben hatte. Sie dachte an den Namen, den sie nicht ausgesprochen hatte. Sie dachte an das Gewicht, das sie noch trug, und sie wusste, dass es schwerer werden würde, bevor es leichter wurde.*
-
-*Sie faltete das Papier sorgfältig. Sie legte es in das Federetui, neben die Feder des Vaters, neben die Leere, die sie füllen würde, wenn die Zeit gekommen war.*
-
-*Sie blies die Lampe aus.*
-
-*Die Dunkelheit kam, und sie war willkommen.*
-
----

@@ -68,3 +68,8 @@ ai:
   model: deepseek/deepseek-v4-pro
   granularity: scene
   max_tokens_per_scene: 10000
+
+# Feste Zuordnung zum RomanForge-Projekt (nicht ueber den Titel suchen)
+romanforge:
+  instance: romanforge.littlelionsfilms.de
+  project_id: 7

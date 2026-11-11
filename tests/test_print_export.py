@@ -384,8 +384,10 @@ class PrintHtmlTests(unittest.TestCase):
         self.assertIn("rotate(-90deg)", html)
         self.assertIn("width: 0.5in", html)
 
-    def test_wrap_plain_by_default(self) -> None:
-        """Ohne print.back_cover bleibt die schlichte Rueckseite erhalten."""
+    def test_wrap_styled_by_default(self) -> None:
+        """Gestaltet ist der Standard: auch ohne `print.back_cover` kommt die
+        gestaltete Rueckseite. So bekommt jede KI bei einem neuen Print-Lauf
+        automatisch das neue Format (Nutzerentscheidung 2026-11-11)."""
         from lib.print_wrap import render_wrap_html
 
         spec = PrintSpec.from_dict({}, REPO_ROOT)
@@ -395,6 +397,30 @@ class PrintHtmlTests(unittest.TestCase):
             cover.write_bytes(b"img")
             html = render_wrap_html(
                 meta={"title": "T", "author": "A", "summary": "S."},
+                cover_path=cover,
+                html_path=root / "wrap.html",
+                spec=spec,
+                page_count=200,
+            )
+        self.assertIn(DEFAULT_BACK_COLORS["background"], html)
+        self.assertIn("back-head", html)
+        self.assertIn("spine-rule", html)
+        self.assertNotIn("background: #ffffff", html)
+
+    def test_wrap_plain_only_when_explicitly_disabled(self) -> None:
+        """Schlicht gibt es nur noch bewusst: styled: false."""
+        from lib.print_wrap import render_wrap_html
+
+        spec = PrintSpec.from_dict({}, REPO_ROOT)
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            cover = root / "cover-print.jpg"
+            cover.write_bytes(b"img")
+            html = render_wrap_html(
+                meta={
+                    "book": {"title": "T", "author": "A", "summary": "S."},
+                    "print": {"back_cover": {"styled": False}},
+                },
                 cover_path=cover,
                 html_path=root / "wrap.html",
                 spec=spec,

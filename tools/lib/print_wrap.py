@@ -20,14 +20,19 @@ SERIES_LINE = "Motivatier Classics"
 BARCODE_WIDTH_MM = 30
 BARCODE_HEIGHT_MM = 18
 
-# Rueckseiten-Gestaltung (2026-11-11). Ohne `print.back_cover` in export.yaml
-# bleibt alles beim bisherigen, schlichten Aufbau (weisse Flaeche, schwarze
-# Schrift) - andere Buchpakete laufen unveraendert weiter.
+# Rueckseiten-Gestaltung (2026-11-11). Gestaltet ist der STANDARD: jedes
+# Buchpaket bekommt die gestaltete Umschlagrueckseite, auch ohne eigenen
+# `print.back_cover`-Block. Schlicht (weisse Flaeche) nur noch bewusst mit
+# `print.back_cover.styled: false`.
+#
+# Der Standard ist bewusst neutral (warmes Papierweiss, dunkle Schrift, gedeckte
+# Akzente), damit er zu jedem Buch passt; Buchpakete koennen mit
+# `print.back_cover.colors` ihre eigene Palette setzen (Vorbild: pharao).
 DEFAULT_BACK_COLORS = {
-    "background": "#f6f1e6",
-    "text": "#241c12",
-    "heading": "#7a1f1a",
-    "rule": "#b08d4f",
+    "background": "#f7f4ee",
+    "text": "#1f1b16",
+    "heading": "#3c332a",
+    "rule": "#a89478",
 }
 BACK_ORNAMENT = "\u2766"  # ❦ Blattornament, in EB Garamond vorhanden
 
@@ -67,7 +72,7 @@ def _book_fields(meta: dict[str, Any]) -> dict[str, Any]:
     werden bedient; flache Felder haben Vorrang.
     """
     out = dict(meta.get("book") or {}) if isinstance(meta.get("book"), dict) else {}
-    for key in ("title", "author", "summary", "description"):
+    for key in ("title", "author", "summary", "description", "author_bio"):
         value = meta.get(key)
         if value:
             out[key] = value
@@ -75,9 +80,10 @@ def _book_fields(meta: dict[str, Any]) -> dict[str, Any]:
 
 
 def back_cover_settings(meta: dict[str, Any]) -> dict[str, Any]:
-    """Rueckseiten-Gestaltung aus ``print.back_cover`` (optional).
+    """Rueckseiten-Gestaltung aus ``print.back_cover``.
 
-    Fehlt der Block, ist ``styled`` False und der Wrap bleibt wie bisher.
+    Gestaltet ist der Standard, damit ein neuer Print-Lauf ohne Zutun im neuen
+    Format entsteht. Schlicht nur mit ``print.back_cover.styled: false``.
     """
     raw = meta.get("back_cover")
     if not isinstance(raw, dict):
@@ -93,12 +99,16 @@ def back_cover_settings(meta: dict[str, Any]) -> dict[str, Any]:
             if key in colors and text:
                 colors[key] = text
     return {
-        "styled": bool(raw.get("styled", False)),
+        "styled": bool(raw.get("styled", True)),
         "colors": colors,
+        # Ohne eigene Angaben: Kurzbiografie und Zusammenfassung aus dem
+        # Buchpaket, damit die Rueckseite auch ohne Pflege gefuellt ist.
         "tagline": str(raw.get("tagline") or "").strip(),
         "quote": str(raw.get("quote") or "").strip(),
         "quote_source": str(raw.get("quote_source") or "").strip(),
-        "author_bio": str(raw.get("author_bio") or "").strip(),
+        "author_bio": str(
+            raw.get("author_bio") or _book_fields(meta).get("author_bio") or ""
+        ).strip(),
     }
 
 

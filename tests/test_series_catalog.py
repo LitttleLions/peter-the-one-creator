@@ -9,6 +9,7 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(REPO_ROOT / "tools"))
 
 from lib.series_catalog import (  # noqa: E402
+    CATALOG_LIMIT,
     CatalogEntry,
     catalog_html,
     catalog_markdown,
@@ -110,6 +111,46 @@ class SeriesCatalogTests(unittest.TestCase):
         self.assertNotIn("pissemski-tausend-seelen", ids)
         self.assertNotIn("grin-wellenlaeuferin", ids)
         self.assertTrue(ids)
+
+    def test_catalog_is_limited_to_two_pages(self) -> None:
+        """Der Katalog ist auf zwei Seiten zu je drei Eintraegen ausgelegt.
+
+        Ohne Limit erzeugte ein siebter Titel eine dritte, halbleere Seite
+        (Befund 2026-11-11 bei pharao).
+        """
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            for index in range(8):
+                _write_book(root, f"buch{index}", title=f"Buch {index}", sort_order=index)
+            limited = load_series_catalog(root, exclude_book_id="keins")
+            full = load_series_catalog(root, exclude_book_id="keins", limit=None)
+        self.assertEqual(len(limited), CATALOG_LIMIT)
+        self.assertEqual(len(full), 8)
+        # Die ersten nach sort_order bleiben, die spaeteren fallen weg.
+        self.assertEqual([e.book_id for e in limited], [f"buch{i}" for i in range(6)])
+
+    def test_html_breaks_page_after_every_three_entries(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            entries = [
+                CatalogEntry(
+                    book_id=f"b{i}",
+                    title=f"Titel {i}",
+                    author="Autor",
+                    summary="Kurz.",
+                    cover_path=None,
+                    sort_order=i,
+                )
+                for i in range(6)
+            ]
+            html = "\n".join(catalog_html(entries, Path(tmp) / "book.html"))
+        self.assertEqual(html.count("series-page-break"), 1)
+        first = html.index("series-page-break")
+        self.assertLess(html.index("Titel 2"), first)
+        self.assertLess(first, html.index("Titel 3"))
+
+    def test_repo_catalog_for_pharao_has_six_entries(self) -> None:
+        entries = load_series_catalog(REPO_ROOT, exclude_book_id="pharao")
+        self.assertEqual(len(entries), CATALOG_LIMIT)
 
 
 if __name__ == "__main__":

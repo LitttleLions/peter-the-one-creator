@@ -13,6 +13,12 @@ import yaml
 IMAGE_EXTENSIONS = (".jpg", ".jpeg", ".png", ".webp")
 CATALOG_HEADING = "Weitere Motivatier Classics"
 SUMMARY_LIMIT = 520
+# Der Katalog steht am Buchende und ist auf zwei Seiten ausgelegt: drei
+# Eintraege je Seite. Ein siebter Eintrag landet allein auf einer dritten Seite
+# und laesst zwei Drittel Leerraum stehen (Befund 2026-11-11 bei pharao).
+CATALOG_PAGE_SIZE = 3
+CATALOG_PAGES = 2
+CATALOG_LIMIT = CATALOG_PAGE_SIZE * CATALOG_PAGES
 
 
 @dataclass(frozen=True)
@@ -76,7 +82,14 @@ def _include_in_catalog(website: dict[str, Any]) -> bool:
 def load_series_catalog(
     repo_root: Path,
     exclude_book_id: str | None = None,
+    limit: int | None = CATALOG_LIMIT,
 ) -> list[CatalogEntry]:
+    """Reihenkatalog laden, nach ``sort_order`` sortiert.
+
+    ``limit`` begrenzt auf die ersten Eintraege (Default: zwei Seiten zu je
+    drei). Mit ``limit=None`` kommt die volle Liste - fuer Aufrufer, die den
+    Katalog nicht seitenweise setzen (z. B. Dashboard/Website).
+    """
     books_root = Path(repo_root) / "books"
     if not books_root.is_dir():
         return []
@@ -111,6 +124,8 @@ def load_series_catalog(
             )
         )
     entries.sort(key=lambda item: (item.sort_order, item.title.casefold()))
+    if limit is not None and limit > 0:
+        entries = entries[:limit]
     return entries
 
 
@@ -126,7 +141,7 @@ def catalog_markdown(entries: list[CatalogEntry], markdown_path: Path) -> list[s
     if not entries:
         return []
     lines = ["", f"# {CATALOG_HEADING} {{#series-catalog}}", ""]
-    for item in entries:
+    for index, item in enumerate(entries):
         lines.append(f'<div class="series-entry">')
         if item.cover_path is not None and item.cover_path.is_file():
             ref = _image_ref(item.cover_path, markdown_path)
@@ -150,7 +165,11 @@ def catalog_html(entries: list[CatalogEntry], html_path: Path) -> list[str]:
         '<section class="series-catalog" id="series-catalog">',
         f"<h1>{html.escape(CATALOG_HEADING)}</h1>",
     ]
-    for item in entries:
+    for index, item in enumerate(entries):
+        # Seitenumbruch nach je drei Eintraegen: der Katalog ist auf zwei
+        # Seiten ausgelegt, damit keine halbleere Seite entsteht.
+        if index and index % CATALOG_PAGE_SIZE == 0:
+            lines.append('<div class="series-page-break" aria-hidden="true"></div>')
         lines.append('<article class="series-entry">')
         if item.cover_path is not None and item.cover_path.is_file():
             ref = _image_ref(item.cover_path, html_path)

@@ -220,6 +220,16 @@ def build_paperback_css(spec: PrintSpec, css_path: Path, page_count: int) -> str
         f"  text-indent: 0;\n"
         f"}}\n"
         f"\n"
+        # Feste Aufteilung: drei Eintraege je Katalogseite. Ohne das rutscht
+        # ein vierter Eintrag auf Seite 2 und ein siebter auf eine dritte,
+        # halbleere Seite (Befund 2026-11-11 bei pharao).
+        f".series-page-break {{\n"
+        f"  break-after: page;\n"
+        f"  page-break-after: always;\n"
+        f"  height: 0;\n"
+        f"  margin: 0;\n"
+        f"}}\n"
+        f"\n"
         f".series-entry img {{\n"
         f"  width: 28mm;\n"
         f"  height: auto;\n"

@@ -458,6 +458,72 @@ class ExportManuscriptTests(unittest.TestCase):
         self.assertIn('class="chapter-illustration page-break-after"', text)
         self.assertNotIn("<figcaption", text)
 
+    def test_toc_depth_groups_lists_only_groups(self) -> None:
+        """`front_matter.toc_depth: groups` listet nur die Gruppen und
+        verlinkt deren Anker statt jedes Kapitel (Beispiel pharao: 69
+        durchgezaehlte Kapitel sagen in einer Liste nichts)."""
+        self.assertEqual(export.toc_depth({}), "chapters")
+        self.assertEqual(
+            export.toc_depth({"front_matter": {"toc_depth": "groups"}}), "groups"
+        )
+        self.assertEqual(
+            export.toc_depth({"front_matter": {"toc_depth": "CHAPTERS"}}), "chapters"
+        )
+        self.assertEqual(
+            export.toc_depth({"front_matter": {"toc_depth": "quatsch"}}), "chapters"
+        )
+
+    def test_render_pdf_html_toc_depth_groups(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            cover = root / "assets" / "covers" / "cover.jpg"
+            self.write_test_image(cover)
+            chapter = export.ChapterExport(
+                chapter_id="001",
+                title="Erstes Kapitel",
+                scenes=[export.SceneExport(number=1, text="Ein Absatz.")],
+                missing=[],
+                ru_count=1,
+                de_count=1,
+            )
+            meta = {
+                "_base_dir": str(root),
+                "title": "Der Pharao",
+                "author": "Boleslaw Prus",
+                "summary": "Kurz.",
+                "front_matter": {
+                    "title_page": False,
+                    "summary_page": False,
+                    "author_bio_page": False,
+                    "imprint_page": False,
+                    "toc_page": True,
+                    "toc_heading": "Inhalt",
+                    "toc_depth": "groups",
+                },
+                "structure_groups": [
+                    {"id": "tom-1", "label": "Buch I", "from": "001", "to": "025"},
+                ],
+            }
+            text = export.render_pdf_html(
+                [chapter],
+                meta,
+                style="stil-test",
+                scope="book",
+                partial=False,
+                cover_path=cover,
+                html_path=root / "work" / "book.pdf.html",
+                css_path=root / "work" / "book-print.css",
+                illustrations=[],
+            )
+        toc = text[text.index('id="frontmatter-toc"'):]
+        toc = toc[: toc.index("</section>")]
+        self.assertIn("Buch I", toc)
+        self.assertIn('href="#gruppe-tom-1"', toc)
+        # Keine Kapitelaufzaehlung mehr im Verzeichnis
+        self.assertNotIn("Erstes Kapitel</a>", toc)
+        # Der Kapitelanker fuer den Text selbst bleibt bestehen
+        self.assertIn('id="kapitel-001"', text)
+
     def test_write_pdf_css_contains_a5_page_and_breaks(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             path = export.write_pdf_css(Path(tmp) / "book-print.css")

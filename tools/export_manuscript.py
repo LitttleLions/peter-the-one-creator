@@ -435,6 +435,18 @@ def should_show(meta: dict[str, Any], key: str, default: bool = True) -> bool:
     return bool(front_matter_config(meta).get(key, default))
 
 
+def toc_depth(meta: dict[str, Any]) -> str:
+    """Tiefe des Inhaltsverzeichnisses: ``chapters`` (Default) oder ``groups``.
+
+    ``groups`` listet nur die Gruppen (z. B. Buch I-III) statt jedes Kapitel.
+    Sinnvoll bei Buechern mit sehr vielen gleichnamigen Kapiteln, wo eine
+    Kapitelaufzaehlung den Leser nicht informiert (Beispiel: pharao mit 69
+    Eintraegen "Erstes Kapitel" ... "Neunundsechzigstes Kapitel").
+    """
+    raw = str(front_matter_config(meta).get("toc_depth") or "").strip().lower()
+    return "groups" if raw == "groups" else "chapters"
+
+
 def display_config(meta: dict[str, Any]) -> dict[str, Any]:
     return meta.get("display", {}) or {}
 
@@ -1001,20 +1013,31 @@ def render_export_markdown(
         heading = fm.get("toc_heading", "Inhalt")
         lines.extend([f"# {heading} {{#frontmatter-toc}}", ""])
         toc_has_groups = bool(meta.get("structure_groups"))
-        toc_last_group: str | None = None
-        for chapter in chapters:
-            if toc_has_groups:
-                group = group_for_chapter(meta, chapter.chapter_id)
-                group_id = group.get("id") if group else None
-                if group and group_id != toc_last_group:
-                    label = str(group.get("label") or group_id)
-                    lines.append(f"- **{label}**")
-                    toc_last_group = group_id
-                prefix = "    - " if group else "- "
-            else:
-                prefix = "- "
-            lines.append(f"{prefix}[{display_chapter_title(chapter, meta)}](#kapitel-{chapter.chapter_id})")
-        lines.append("")
+        if toc_depth(meta) == "groups" and toc_has_groups:
+            # Nur die Gruppen nennen (z. B. Buch I-III). Bei Buechern mit
+            # durchgezaehlten Kapiteln ist eine Kapitelaufzaehlung sinnlos.
+            for group in meta.get("structure_groups") or []:
+                group_id = group.get("id")
+                if not group_id:
+                    continue
+                label = str(group.get("label") or group_id)
+                lines.append(f"- [{label}](#gruppe-{sanitize_filename(str(group_id))})")
+            lines.append("")
+        else:
+            toc_last_group: str | None = None
+            for chapter in chapters:
+                if toc_has_groups:
+                    group = group_for_chapter(meta, chapter.chapter_id)
+                    group_id = group.get("id") if group else None
+                    if group and group_id != toc_last_group:
+                        label = str(group.get("label") or group_id)
+                        lines.append(f"- **{label}**")
+                        toc_last_group = group_id
+                    prefix = "    - " if group else "- "
+                else:
+                    prefix = "- "
+                lines.append(f"{prefix}[{display_chapter_title(chapter, meta)}](#kapitel-{chapter.chapter_id})")
+            lines.append("")
     page_break_before_chapter = bool(meta.get("output", {}).get("page_break_before_chapter", True))
     last_group_id = None
     has_groups = bool(meta.get("structure_groups"))
@@ -1263,8 +1286,24 @@ def render_pdf_html(
             "<ol>",
         ])
         toc_has_groups = bool(meta.get("structure_groups"))
-        toc_last_group: str | None = None
-        for cidx, chapter in enumerate(chapters):
+        if toc_depth(meta) == "groups" and toc_has_groups:
+            # Nur die Gruppen (Buch I-III) verlinken; die Kapitelaufzaehlung
+            # waere bei durchgezaehlten Kapiteln nur Rauschen.
+            for group in meta.get("structure_groups") or []:
+                group_id = group.get("id")
+                if not group_id:
+                    continue
+                label = str(group.get("label") or group_id)
+                anchor = sanitize_filename(str(group_id))
+                lines.append(
+                    f'<li><a href="#gruppe-{html.escape(anchor)}">'
+                    f"{html.escape(label)}</a></li>"
+                )
+            lines.extend(["</ol>", "</section>"])
+            toc_last_group = None
+        else:
+          toc_last_group = None
+          for cidx, chapter in enumerate(chapters):
             group = group_for_chapter(meta, chapter.chapter_id) if toc_has_groups else None
             group_id = group.get("id") if group else None
             if toc_has_groups:
@@ -1296,10 +1335,10 @@ def render_pdf_html(
                     f'<li><a href="#kapitel-{html.escape(chapter.chapter_id)}">'
                     f"{html.escape(display_chapter_title(chapter, meta))}</a></li>"
                 )
-        # close any still-open group
-        if toc_last_group is not None:
+          # close any still-open group
+          if toc_last_group is not None:
             lines.append("</ol></li>")
-        lines.extend(["</ol>", "</section>"])
+          lines.extend(["</ol>", "</section>"])
 
     last_group_id = None
     has_groups = bool(meta.get("structure_groups"))
@@ -1735,21 +1774,31 @@ def write_docx(
     if should_show(meta, "toc_page", True):
         document.add_heading(str(fm.get("toc_heading", "Inhalt")), 1)
         docx_toc_has_groups = bool(meta.get("structure_groups"))
-        docx_toc_last_group: str | None = None
-        for chapter in chapters:
-            if docx_toc_has_groups:
-                group = group_for_chapter(meta, chapter.chapter_id)
-                group_id = group.get("id") if group else None
-                if group and group_id != docx_toc_last_group:
-                    label = str(group.get("label") or group_id)
-                    p = document.add_paragraph(label)
+        if toc_depth(meta) == "groups" and docx_toc_has_groups:
+            for group in meta.get("structure_groups") or []:
+                group_id = group.get("id")
+                if not group_id:
+                    continue
+                label = str(group.get("label") or group_id)
+                p = document.add_paragraph(label, style=None)
+                if p.runs:
                     p.runs[0].bold = True
-                    docx_toc_last_group = group_id
-                p = document.add_paragraph(display_chapter_title(chapter, meta), style=None)
-                if group:
-                    p.paragraph_format.left_indent = Inches(0.35)
-            else:
-                document.add_paragraph(display_chapter_title(chapter, meta), style=None)
+        else:
+            docx_toc_last_group: str | None = None
+            for chapter in chapters:
+                if docx_toc_has_groups:
+                    group = group_for_chapter(meta, chapter.chapter_id)
+                    group_id = group.get("id") if group else None
+                    if group and group_id != docx_toc_last_group:
+                        label = str(group.get("label") or group_id)
+                        p = document.add_paragraph(label)
+                        p.runs[0].bold = True
+                        docx_toc_last_group = group_id
+                    p = document.add_paragraph(display_chapter_title(chapter, meta), style=None)
+                    if group:
+                        p.paragraph_format.left_indent = Inches(0.35)
+                else:
+                    document.add_paragraph(display_chapter_title(chapter, meta), style=None)
         document.add_page_break()
 
     page_break_before_chapter = bool(meta.get("output", {}).get("page_break_before_chapter", True))

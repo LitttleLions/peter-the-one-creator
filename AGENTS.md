@@ -51,8 +51,11 @@ EPUB `book-die-sprache-des-anderen-stil-01-original-20261110-155537.epub`
 (Cover + Kapitelbilder 001-034, Titelei gefuellt). Print: Ordner geleert,
 aktuell nur der Wrap `cover-wrap-*-332.pdf` (6x9, 332 Seiten, 13,083 x 9,250 in)
 aus `tools/build_cover.py`; Innenleben wird nach der Trim-Entscheidung neu
-gesetzt. Chronik KDP-fertig: Gate
-ERROR=0/WARNING=13/INFO=36, EPUB `...-20260921-131112.epub`. Print-Vergleich
+gesetzt. Chronik nach der RomanForge-Uebernahme 2026-11-11: Gate
+**ERROR=0/WARNING=0/INFO=0** (48/48), alle Formate neu - Paperback 304 Seiten,
+Komplett 307, A5 582, Wrap `cover-wrap-20261111-220024-304.pdf`
+(330,5 x 234,9 mm, Ruecken 19,3 mm), EPUB `...-20261111-222333.epub` mit
+`dc:subtitle`. Print-Vergleich
 Pharao: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`
 (A 924 / B 788 / C 673 / D 643; Cream 776).
 
@@ -66,6 +69,25 @@ pro Kapitel `assemble_chapter.py` + `review_manuscript --chapter NNN --llm none`
 Redaktion. `status/status.json` und `status/logs/` bleiben unveraendert.
 Details: `docs/uebernahme-romanforge.md`. Offene Redaktionskandidaten und ihre
 Einstufung (C/c/b) stehen in `docs/offene-punkte.md` Punkt 6.
+
+**Ab Stufe 2** laeuft der Abruf direkt: `--handoff <Uebergabe-ID>` statt
+`--source`; `--compare`/`--accept`/`--keep` bleiben gleich.
+
+**Fallstrick: Exportposition vs. vorhandene Kapitel-ID (2026-11-11).** Hat
+RomanForge ein Kapitel ersetzt oder umbenannt und belegt die Exportposition
+zugleich eine vorhandene peter-ID, verweigert `--accept <position>` den Import
+(„Kollidiert eine Position mit einer vorhandenen Kapitel-ID, gewinnt die
+vorhandene ID") - schlimmer: das *vorhandene* Kapitel wird mit dem neuen Titel
+verknuepft und sein **Text geleert** (`state.yaml` bekommt den SHA-256 von
+leerem Text, `e3b0c442…`). Bei der Chronik war Kapitel 003 betroffen
+(„Das Trinkgelage" -> „Bittere Mandeln").
+- **Vor jedem Paket einen Trockenlauf** (`--accept … --dry-run`) und auf
+  `Hinweis: Exportposition … ist mehrdeutig` achten.
+- Tritt es auf: alte Dateien (`work/chapters/NNN-source.md`, beide
+  `work/scenes/de/**/NNN/scene-01.md`) und den `state.yaml`-Eintrag entfernen,
+  dann frisch `--accept`. Der alte Text liegt weiter in Git und im Roh-Export
+  unter `work/imports/romanforge/runs/<stempel>/export.md`.
+- Nach jedem `--accept` die Wortzahl des Kapitels gegen den Report stellen.
 
 ## Was Dieses Projekt Ist
 
@@ -90,7 +112,7 @@ Aktuelle Buchpakete (17):
 - `books/aelita/` - Alexei Tolstoi, Aelita (LIVE 09/2026: Regelcheck 0/0, Kapitel-030-Kommentare als Anhang ausgelagert, Buch-EPUB 2026-09-17 nutzergeprueft und veroeffentlicht; 12 Kapitel bewusst ohne Bild; Amazon-Link + Marketing nach Amazon-Freigabe)
 - `books/leben-arsenjews/` - Iwan Bunin, Das Leben Arsenjews (Release-Kandidat 09/2026: Gate ERROR=0/WARNING=8, EPUB 20260917-212334 ohne Bypass)
 - `books/geheime-geschichte-mongolen/` - Anonym, Die Geheime Geschichte der Mongolen
-- `books/die-dritte-chronik/` - Motivatier, Die dritte Chronik (DE-Original; Redaktion 2026-09-19 fertig, KDP-fertig 2026-09-21: 29/48 clean, Gate 0/13/36, Bilder 48/48, EPUB `...-20260921-131112.epub`; offen Kindle-Preview + KDP-Upload)
+- `books/die-dritte-chronik/` - Timo Verita, Die dritte Chronik (DE-Original; Untertitel "Im Schatten Dschingis Khans"; RomanForge-Uebernahme 2026-11-11: 48/48 Kapitel, Gate **0/0/0**, alle 12 Konflikte zugunsten RomanForge. Alle Formate neu: Paperback 304 Seiten, Komplett 307, A5 582, Wrap `cover-wrap-20261111-220024-304.pdf` (330,5 x 234,9 mm, Ruecken 19,3 mm), EPUB `...-20261111-222333.epub` mit `dc:subtitle`, Druckcover 4k `cover-print.jpg`; offen KDP-Upload)
 - `books/ashkara/` - Timo Verita, Ashkar I (Das Glasmeer) (DE-Original; RomanForge-Uebernahme 2026-10-07/08: 36/36 Kapitel, Buch-Gate 0/0/18, Abschlussvergleich 36x `nichts`, Kapitelbilder 001-025; offen Bilder 026-036, `status.json`, Buch-EPUB)
 - `books/kuprin-duell/` - Alexander Kuprin, Das Duell (Roh-Anlage 09/2026)
 - `books/kuprin-moloch/` - Alexander Kuprin, Der Moloch (Roh-Anlage 09/2026)
@@ -492,6 +514,25 @@ hochgeladen** statt `*-paperback-interior.pdf` (die Komplettdatei hat zwei
 Umschlagseiten mehr und ergibt einen breiteren Ruecken) und ein **Trim im
 Assistenten**, der nicht zum Satz passt.
 
+**Satzspiegel (seit 2026-11-11).** Der Aussenrand ist **fest**
+(`margins.min_outer_mm`, Default 12,7 mm), nur der **Bundsteg waechst** mit der
+Seitenzahl (`KDP_GUTTER_BANDS`: 9,6 / 12,7 / 15,9 / 19,1 / 22,3 mm). Umgesetzt
+ueber `@page :left` / `@page :right` in `lib/print_css.py` (Chromium kann das).
+Vorher galt `aussen = innen = Bundsteg`, wodurch dicke Buecher unnoetig schmal
+wurden. Im Report stehen `gutter_mm` (innen) und `side_margin_mm`/`outer_margin_mm`
+(aussen). `needs_rerender()` prueft nur noch den Bundsteg-Band.
+
+**Reihenkatalog.** `lib/series_catalog.py` listet die ersten **sechs** Titel
+(`CATALOG_LIMIT`, zwei Seiten zu je drei, Umbruch nach jedem dritten Eintrag) -
+ein siebter Titel erzeugte sonst eine dritte, halbleere Seite. Die volle Liste
+gibt es mit `load_series_catalog(..., limit=None)`.
+
+**Inhaltsverzeichnis.** `front_matter.toc_depth` steuert den Umfang:
+`chapters` (Default, jedes Kapitel) oder `groups` (nur die Gruppen aus
+`book.yaml structure.groups`, verlinkt auf die Gruppenanker). Bei Buechern mit
+vielen durchgezaehlten Kapiteln (pharao: 69) ist `groups` sinnvoll - KDP
+beanstandet sonst die vielen Markierungen.
+
 **Nur den Umschlag bauen:** `tools/build_cover.py --book <id> --page-count <n>
 [--trim-size 6x9] [--dry-run]` rendert allein den Wrap, prueft die Ausgabegroesse
 gegen die Rechnung (Exit 1 bei Abweichung) und schreibt `cover-wrap-<stempel>-<seiten>.pdf`
@@ -552,18 +593,20 @@ und wird mit `tools/kdp_sync.py` geteilt.
 ## Aktueller Stand
 
 Kurzfassung und Checkliste fuer neue Chats: **[docs/HANDOVER.md](./docs/HANDOVER.md)**
-(Stand 2026-11-10). Kopiertext neues Fenster:
-[docs/uebergabe-prompt.md](./docs/uebergabe-prompt.md) - dort steht, was vor
-Beginn gelesen wird und dass danach erst auf die Aufgabe gewartet wird.
+(Stand 2026-11-11). Kopiertext neues Fenster:
+[docs/uebergabe-prompt.md](./docs/uebergabe-prompt.md) - dort stehen die Prompts
+A (RomanForge-Uebernahme + Marketing), B (allgemeiner Einstieg), C (Bilder und
+Print fuer die Sprache des Anderen) und D (Print, Cover und Wrap bauen);
+dort steht auch, was vor Beginn gelesen wird und dass danach erst auf die
+Aufgabe gewartet wird.
 Einstiegskosten und Hebel (gemessen): [docs/kontextanalyse.md](./docs/kontextanalyse.md).
-Branch: **`main`**, mit `origin/main` synchron (Stand 2026-11-10 mittags).
+Branch: **`main`**, mit `origin/main` synchron (Stand 2026-11-11 abends).
 Der Branch `cline/pveejb87` ist geloescht. `main` traegt die
 RomanForge-Buchpakete (Die Sprache des Anderen, Der Lotse von Ruegen,
 Der Lotse [zweites Paket], Perfect Sight), das Submodul
-`tools/vendor/amazon-kdp-skill` sowie den Print-Workflow 2026-09-21
-(Trim/Profil/Bilder), davor `1beb55d` Chronik KDP-fertig EPUB
-`...-20260921-131112.epub` plus Tausend Seelen `stil-02-poetisch`; davor
-Peter-I-Raffung 2026-09-17.
+`tools/vendor/amazon-kdp-skill` sowie den Print-Workflow
+(Trim/Profil/Bilder, seit 2026-11-11 mit festem Aussenrand und wachsendem
+Bundsteg).
 
 - Buchpakete sind fuehrend; alte zentrale `config/books.yaml` und
   `config/export.yaml` liegen unter `config/legacy/`.
@@ -586,25 +629,26 @@ Peter-I-Raffung 2026-09-17.
   014. Vor jedem Lauf `--style stil-04-original-geheim` explizit mitgeben,
   sonst plant der Default `stil-01-original` Kapitel 006 mit. Feature-Branch-
   Inhalt wurde 2026-07-28 per Fast-Forward nach `main` gemerged.
-- **Die dritte Chronik** (auf `main`): DE-Original; Import
-  `tools/import_die_dritte_chronik.py`; Cover vorhanden. Redaktion
-  2026-09-18: 008+012 clean 0/0 (Nutzer-Neufassungen), 034 nur
-  Satzzeichen (Monster 672W in 6 Absaetze, 5W->2W). Redaktion
-  2026-09-19 ohne OpenRouter abgeschlossen: komplett-Runde 031
-  (Neufassung 3753 W, 0W/1I `sie-dachte`-Anapher = Stilmittel), 033
-  (Neufassung 3539 W, clean 0/0), 036 (Neuschreibung 785 W, clean 0/0);
-  mini 009/026/035 clean 0/0, 018 0W/4I und 041 0W/1I (Anaphern/TTR =
-  Stilmittel). Endstand: Gate ERROR=0/WARNING=13/INFO=36, 29/48 clean.
-  Bilder 2026-09-19 komplett: 48/48 Kapitel bebildert (Kapitelbild 001-014,
-  Szenenbild 008 + 015-048 = 49 Bilder + Cover), EPUB
-  `...-20260921-131112.epub` (50 Bilder, ohne Bypass; aelterer Stempel
-  `20260919-222611` ist ueberholt). Rest-Tabelle siehe
-  `docs/offene-punkte.md` Punkt 6 + 12. Offen: Kindle-Preview + Leseprobe,
-  KDP-Upload durch Nutzer. Redaktionsweg seit 2026-10-07 ueber RomanForge
-  (`docs/uebernahme-romanforge.md`, Stufe 1, `e93f4a2`); Ausgangsstand unter
-  `books/die-dritte-chronik/work/imports/romanforge/`. Offen: Nutzer liest
-  012/025 selbst, naechster Schritt `--new` (Ashkara).
+- **Die dritte Chronik** (auf `main`): DE-Original, Timo Verita, Untertitel
+  "Im Schatten Dschingis Khans". **RomanForge-Uebernahme 2026-11-11
+  abgeschlossen** (Uebergabe `7357431a`, Stufe 2, `--handoff`): 48/48 Kapitel
+  in 10 Paketen uebernommen, alle 12 Konflikte zugunsten von RomanForge,
+  Gate **ERROR=0/WARNING=0/INFO=0**. Kapitel 003 wurde dabei ersetzt
+  ("Das Trinkgelage" -> "Bittere Mandeln"); die Kollision "Exportposition vs.
+  vorhandene Kapitel-ID" blockiert `--accept` und leerte beim ersten Versuch
+  den Text - vor jedem Paket Trockenlauf, Details in `docs/HANDOVER.md`.
+  Alle Formate auf demselben Textstand (116.986 Woerter): Paperback 304 Seiten,
+  Komplett 307, A5-Lese-PDF 582, Wrap `cover-wrap-20261111-220024-304.pdf`
+  (330,5 x 234,9 mm, Ruecken 19,3 mm), EPUB `...-20261111-222333.epub`
+  (7,86 MB, 56 Bilder, `dc:subtitle`), Druckcover `cover-print.jpg`
+  (4k-Render, 1838x2775 px, 300 dpi). Offen: KDP-Upload.
+  Redaktionsweg: `docs/uebernahme-romanforge.md`; Ausgangsstand unter
+  `books/die-dritte-chronik/work/imports/romanforge/`.
   **Einstiegskosten** (gemessen, Hebel A-D): `docs/kontextanalyse.md`.
+- **EPUB-Metadaten:** `add_epub_series_metadata()` schreibt `book.series` /
+  `series_volume` als EPUB-3-Collections ins OPF, `add_epub_subtitle_metadata()`
+  seit 2026-11-11 zusaetzlich `book.subtitle` als `dc:subtitle`. Beide sind
+  idempotent und ohne die jeweilige Angabe ein No-op.
 - **Higgsfield / Bilder:** `config/higgsfield_models.yaml`, Dashboard-Dropdown,
   Asset-Optimierung `optimize_asset_images.py`. Web-UI-Moodboards nur manuell.
   Details: `docs/higgsfield-integration.md`.
@@ -641,11 +685,10 @@ Peter-I-Raffung 2026-09-17.
   (011/03, 002/11, 003/05, 009/08, 010/01, 010/02), Buch-EPUB neu mit Gate
   0 Fehler; offen nur noch Kindle Previewer und eine menschliche Stichprobe
   der drei zuletzt neu uebersetzten Szenen; Mongolen: 14 Monolith-Kapitel abschnittsweise in
-  `stil-04-original-geheim`; Chronik (2026-09-21): Text + Bilder + KDP-Titelei
-  fertig, Gate 0/13/36, EPUB 20260921-131112 - offen Kindle-Preview, KDP-Upload,
-  RomanForge-Entscheidung 012/025 (Stufe 1, `e93f4a2`);
-  Pharao-Taschenbuch 2026-09-21 umgesetzt (Punkt 11, auf `main`),
-  offen Print-Leseprobe + KDP-Creme 776 vs. 924/788 (C/D liegen unter 776);
+  `stil-04-original-geheim`; Chronik (2026-11-11): Uebernahme und alle Formate
+  fertig, Gate 0/0/0 - offen nur der KDP-Upload;
+  Pharao: 4k-Druckcover, Satz 609 Seiten und Wrap fertig, bei KDP hochgeladen
+  (Testbuch, Nutzer prueft die Druckansicht); offen dort die Rueckmeldung;
   Top-5: Pilot `kuprin-moloch` 001 fertig, Pissemski `stil-02-poetisch`
   (Gate 0/0/5, `1beb55d`); Stilurteil und Rest-Kapitel nur nach Freigabe;
   Regal Amazon-URLs / Deploy; optional Mint-GLBs. Uebersetzungslaeufe

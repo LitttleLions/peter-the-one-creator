@@ -6,10 +6,63 @@ Unter Windows CLI immer `.\.venv\Scripts\python.exe`, nicht `python`/`py -3`.
 Kein OpenRouter ohne ausdrueckliche Freigabe. Committen und Pushen nur nach
 Freigabe des Nutzers, kein Branch-Wechsel.
 
-Es gibt drei Prompts: **A** (neue Fassung aus RomanForge holen und daraus
+Es gibt vier Prompts: **A** (neue Fassung aus RomanForge holen und daraus
 Marketing machen, Stand 2026-11-09), **B** (allgemeiner Einstieg mit Warten auf
-die Aufgabe, ab „Schritt 1“) und **C** (Bilder, Print und Veroeffentlichung fuer
-`die-sprache-des-anderen`, Stand 2026-11-10).
+die Aufgabe, ab „Schritt 1“), **C** (Bilder, Print und Veroeffentlichung fuer
+`die-sprache-des-anderen`, Stand 2026-11-10) und **D** (Print und Cover aus dem
+aktuellen Textstand bauen, Stand 2026-11-11).
+
+---
+
+## Prompt D: Print, Cover und Wrap bauen (Stand 2026-11-11)
+
+Fuer `die-dritte-chronik` (48 Kapitel) und sinngemaess fuer jedes Buch, das als
+Paperback zu KDP soll. Die Details stehen in `README.md` und
+`docs/higgsfield-integration.md`.
+
+```text
+Arbeite im peter-Ordner (Branch main, kein neuer Clone). Erst `git fetch`,
+dann `git pull --ff-only`; bei Abweichung oder uncommitteten Aenderungen
+anhalten und fragen.
+
+Nur lesen: AGENTS.md, README.md (Abschnitte "Export", "KDP-Covergroessen
+nachrechnen", "Satzspiegel", "Reihenkatalog"), docs/HANDOVER.md (neuester
+Kopf). Keine Kapiteltexte, keine alten Prompts lesen.
+Windows-CLI immer .\.venv\Scripts\python.exe.
+
+Stand, den du nicht neu pruefen musst:
+- Uebernahme aus RomanForge (Uebergabe 7357431a) ist fertig: 48/48 Kapitel,
+  Gate ERROR=0/WARNING=0/INFO=0, state.yaml vollstaendig.
+- Aktuelle Ausgaben (Textstand 116.986 Woerter):
+  Paperback-Innenleben 304 Seiten (6x9, long_classic, chapter_head),
+  paperback-complete 307 Seiten, A5-Lese-PDF 582 Seiten,
+  Wrap cover-wrap-20261111-220024-304.pdf (330,5 x 234,9 mm, Ruecken 19,3 mm),
+  EPUB ...-20261111-222333.epub (mit dc:subtitle).
+- Druckcover assets/covers/cover-print.jpg (4k-Render, 1838x2775 px, 300 dpi).
+
+Meine Aufgabe diesmal: <HIER EINTRAGEN, z. B. KDP-Upload begleiten /
+Covermotiv aendern / Satz neu bauen / EPUB neu erzeugen>.
+
+Regeln:
+- Satz: --format paperback (KDP-Innenleben) bzw. paperback-complete (mit
+  Rueckseite). Trim 6x9, long_classic, chapter_head stehen als Defaults in
+  export.yaml - ohne CLI-Flags bauen sie sich so.
+- Zum Hochladen ist IMMER das *-paperback-interior.pdf gedacht, nie das
+  Komplett-PDF (das hat drei Seiten mehr und ergibt einen falschen Ruecken).
+- Wrap: tools/build_cover.py --book <id> --page-count <Seiten aus dem
+  Print-Report> --trim-size 6x9. Nach JEDEM Satzlauf neu bauen - der Ruecken
+  haengt an der Seitenzahl (Seiten x 0,0635 mm creme/SW).
+- Cover: neue Bilder nur nach ausdruecklicher Freigabe je Lauf. Higgsfield
+  laeuft ueber die native CLI (~/.higgsfield/bin/higgsfield.exe); der
+  Volta-Shim higgsfield.cmd ist unter der Sandbox defekt. Ein 4k-Render
+  kostet 1,25 Credits. Prompt erst schreiben und zeigen, dann rendern.
+  Modell gpt_image_2_5, aspect_ratio 2:3, resolution 4k, quality medium.
+  Druckdatei auf 300 dpi und Panelmass bringen (6,125 x 9,25 in =
+  1838 x 2775 px), Text im Bild.
+- Commit und Push nur nach meiner Freigabe; Buchinhalt und Code getrennt
+  committen. Keine alten Exporte liegen lassen: nur die aktuelle
+  Stempel-Familie behalten, Loeschen vorher fragen.
+```
 
 ---
 
@@ -189,33 +242,27 @@ gegeneinander abgleichen muss.
 
 ---
 
-## Orientierung Stand 2026-10-28 (nur Kurzfassung)
+## Orientierung Stand 2026-11-11 (nur Kurzfassung)
 
-Hinweis (2026-11-09): Seitdem kamen die RomanForge-Schnittstelle (`--handoff`,
-`rf_id`, Figuren-Abgleich, Verlagsangaben) und weitere Uebernahmen dazu; aktueller
-Stand in `docs/HANDOVER.md` (Kopf) und `docs/uebernahme-romanforge.md`. Der Stand
-unten ist nur noch Hintergrund.
-
-Details nur bei Bedarf: `docs/HANDOVER.md` (Session-Chronik),
-`docs/offene-punkte.md` (Checkliste).
+Massgeblich ist der Kopf von `docs/HANDOVER.md`. Was dort und in dieser Datei
+nicht steht, wird nicht gebraucht.
 
 - **17 Buchpakete** unter `books/<id>/`. Live: `aelita`, `leben-arsenjews`,
-  `pharao`, `peter-i-buch-01`. DE-Originale: `die-dritte-chronik` (KDP-fertig),
+  `pharao`, `peter-i-buch-01`. DE-Originale: `die-dritte-chronik`,
   `die-sprache-des-anderen`, `der-lotse-von-ruegen`, `der-lotse`, `ashkara`,
   `perfect.sight`.
-- **`die-sprache-des-anderen`** (Timo Verita, 34 Kapitel): Gate 0/0/0,
-  Titelei gefuellt (2026-10-28), Buch-EPUB `...-20261028-203757.epub`
-  mit Cover + Kapitelbildern 001-003.
-- **Chronik** (`die-dritte-chronik`, 48 Kapitel): Gate 0/13/36, KDP-fertig,
-  EPUB `...-20260921-131112.epub`. Offen: Kindle-Preview + KDP-Upload durch
-  Nutzer; Nutzer entscheidet Kapitel 012/025.
-- **Offen und teuer:** weitere Kapitelbilder 004-034 (Sprache des Anderen)
-  bzw. 011-033 (Lotse) - Higgsfield, nur nach Freigabe; Regal-Deploy fuer den
-  Lotse; Pharao-Print-Leseprobe; Ashkara `--new`.
-- **Vorgemerkt im Working Tree** (nicht von diesem Chat erzeugt, nicht
-  committen): neues Cover der Sprache des Anderen, neue Lotse-Kapitelbilder
-  011-032. `books/die-dritte-chronik/source/Die dritte Chronik(1).md` bleibt
-  untracked - `source/` ist tabu.
+- **`die-dritte-chronik`**: RomanForge-Uebernahme 2026-11-11 fertig (48/48,
+  Gate 0/0/0). Alle Formate neu: Paperback 304 Seiten, Komplett 307, A5 582,
+  Wrap 330,5 x 234,9 mm, EPUB mit `dc:subtitle`. Offen: KDP-Upload.
+- **`pharao`**: 4k-Druckcover + Satz 609 Seiten + Wrap; bei KDP hochgeladen
+  (Testbuch, Nutzer prueft die Druckansicht). Kapitelbilder unveraendert.
+- **`die-sprache-des-anderen`**: Gate 0/0/0, 34 Kapitel, 4k-Cover,
+  Kapitelbilder 001-034. Print-Satz wird nach der Trim-Entscheidung neu
+  gesetzt.
+- **Print-Regeln (2026-11-11)**: Aussenrand fest 12,7 mm, Bundsteg waechst mit
+  der Seitenzahl (`KDP_GUTTER_BANDS`), umgesetzt ueber `@page :left`/`:right`.
+  Kataloggrenze sechs Eintraege auf zwei Seiten. `toc_depth: groups` listet
+  nur die Gruppen.
 - **Regeln, die immer gelten:** `books/*/source/` und `logic/` nicht ohne
   Rueckfrage aendern; keine Secrets, kein Force-Push, kein Hard-Reset, kein
   Branch-Wechsel; Uebersetzungslaeufe und Higgsfield nur nach Freigabe.

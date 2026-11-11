@@ -33,7 +33,7 @@ Dadurch werden fertige Kapitel nicht unnoetig erneut durch ein LLM geschickt.
    In der PowerShell kein `head`/`grep` verwenden
    (`Select-Object -First N`); bei labiler Shell ein CLI pro Aufruf.
    Chronik-Gate: `.\.venv\Scripts\python.exe tools/review_manuscript.py --book die-dritte-chronik --style stil-01-original --all --llm none --fail-on-errors`
-   (ERROR=0/WARNING=13/INFO=36; Details `docs/offene-punkte.md` Punkt 6 + 12).
+   (**ERROR=0/WARNING=0/INFO=0** nach der RomanForge-Uebernahme 2026-11-11).
    Print-Vergleich Pharao: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`
    (A 924 / B 788 / C 673 / D 643 Seiten; Cream-Limit 776).
 6. Produktive Style-Profile liegen in `books/<book-id>/styles/*.md`.
@@ -62,16 +62,23 @@ Leben Arsenjews (Release-Kandidat 09/2026): Gate ERROR=0/WARNING=8, Buch-EPUB
 `book-das-leben-arsenjews-stil-02-poetisch-20260917-212334.epub` ohne Bypass.
 Offen: Kindle Previewer + menschliche Stichprobe (029/034/037/040).
 
-Die dritte Chronik (DE-Original, Redaktion 09/2026 abgeschlossen, KDP-fertig
-2026-09-21): Gate ERROR=0/WARNING=13/INFO=36, 29 von 48 Kapiteln clean 0/0.
-Aktuelles Buch-EPUB `book-die-dritte-chronik-stil-01-original-20260921-131112.epub`
-(48/48 Kapitel, 50 Bilder inkl. Cover, ohne Bypass; aelterer Stempel
-`20260919-222611` ist ueberholt). Rest-Tabelle: `docs/offene-punkte.md`
-Punkt 6 + 12. Offen: Kindle-Preview + Leseprobe, KDP-Upload durch Nutzer.
+Die dritte Chronik (DE-Original, Timo Verita, 48 Kapitel): RomanForge-Uebernahme
+2026-11-11 abgeschlossen (Uebergabe `7357431a`, 48/48 Kapitel uebernommen,
+alle 12 Konflikte zugunsten von RomanForge), **Gate ERROR=0/WARNING=0/INFO=0**.
+Untertitel: **Im Schatten Dschingis Khans**. Alle Formate auf demselben
+Textstand (116.986 Woerter):
 
-Redaktions-/Uebernahme fuer DE-Originale laeuft seit 2026-10-07 ueber RomanForge
-(`docs/uebernahme-romanforge.md`, Stufe 1, commit `e93f4a2`); Ausgangsstand
-versioniert unter `books/die-dritte-chronik/work/imports/romanforge/`.
+| Ausgabe | Stand |
+| --- | --- |
+| Paperback-Innenleben (KDP) | **304 Seiten**, 6x9, long_classic, chapter_head |
+| `paperback-complete` | 307 Seiten |
+| Wrap | 330,5 x 234,9 mm, Ruecken 19,3 mm |
+| A5-Lese-PDF | 582 Seiten |
+| EPUB | `...-20261111-222333.epub`, 7,86 MB, 56 Bilder, mit `dc:subtitle` |
+
+Offen: KDP-Upload durch den Nutzer (Trim 6 x 9, Creme; **Interior** hochladen,
+nicht das Komplett-PDF). Redaktions-/Uebernahmeweg: `docs/uebernahme-romanforge.md`;
+Ausgangsstand unter `books/die-dritte-chronik/work/imports/romanforge/`.
 
 Die Sprache des Anderen (`books/die-sprache-des-anderen/`, Timo Verita,
 DE-Original): 34/34 Kapitel, Gate ERROR=0/WARNING=0/INFO=0, Buch-EPUB

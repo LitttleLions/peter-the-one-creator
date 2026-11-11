@@ -136,6 +136,21 @@ py -3 tools/import_markdown_original.py --book <id> --source <export.md> --accep
 - `--keep` ist fuer `neu` nicht moeglich (kein peter-Text vorhanden, Exit 2).
 - Kollidiert eine Exportposition mit einer vorhandenen Kapitel-ID, gewinnt die
   vorhandene ID; das Werkzeug meldet die Mehrdeutigkeit auf stderr.
+  **Achtung - Datenverlust (Befund 2026-11-11, Chronik Kapitel 003):** In
+  diesem Fall importiert `--accept <position>` das neue Kapitel **nicht**.
+  Stattdessen wird das *vorhandene* Kapitel mit dem neuen Titel verknuepft und
+  sein **Text geleert**; `state.yaml` bekommt den SHA-256 von leerem Text
+  (`e3b0c44298fc…`). Betroffen war "Das Trinkgelage" (003), das RomanForge
+  durch "Bittere Mandeln" ersetzt hatte.
+  - **Vor jedem Paket `--accept … --dry-run`** laufen lassen und auf
+    `Hinweis: Exportposition … ist mehrdeutig` achten.
+  - Tritt es auf: `work/chapters/NNN-source.md`, beide
+    `work/scenes/de/**/NNN/scene-01.md` und den `state.yaml`-Eintrag fuer NNN
+    entfernen, dann frisch `--accept` (die Position ist damit frei).
+  - Der ersetzte Text ist nicht verloren: er steht in Git (`git show HEAD:…`)
+    und im Roh-Export `work/imports/romanforge/runs/<stempel>/export.md`.
+  - Nach jedem `--accept` die Wortzahl im `assemble_chapter.py`-Ergebnis gegen
+    die Report-Spalte "Woerter RomanForge" stellen.
 - Paketgrenze jetzt im Werkzeug: hoechstens **5** Kapitel pro Lauf
   (`--accept`/`--keep` zusammen), sonst Exit 2 ohne Schreibzugriff.
 - Danach wie ueblich pro Kapitel `assemble_chapter.py` +

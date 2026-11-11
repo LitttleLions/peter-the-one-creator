@@ -25,6 +25,12 @@ defaults:
     description_heading: Zu dieser Ausgabe
     imprint_heading: Impressum
     toc_heading: Inhalt
+    # Nur die drei Buecher auflisten, nicht alle 69 Kapitel. Die Kapitel heissen
+    # durchgezaehlt "Erstes Kapitel" ... "Neunundsechzigstes Kapitel" und sagen
+    # dem Leser in einer Liste nichts (KDP beanstandet die vielen Eintraege
+    # zudem). Die Gruppen kommen aus book.yaml structure.groups (Buch I-III);
+    # im PDF/EPUB wird auf die Gruppenanfaenge verlinkt.
+    toc_depth: groups
   output:
     chapter_headings: true
     scene_numbers: false

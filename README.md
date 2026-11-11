@@ -546,9 +546,72 @@ Drei Print-PDFs (nicht verwechseln):
 
 | Datei | Was es ist |
 |---|---|
-| `*-paperback-interior.pdf` | Buchinhalt fuer KDP (ohne Cover) |
-| `*-paperback-complete.pdf` | Zum Blaettern: Coverseite, Text, Rueckseite |
+| `*-paperback-interior.pdf` | Buchinhalt fuer KDP (ohne Cover) - **das ist die Upload-Datei** |
+| `*-paperback-complete.pdf` | Zum Blaettern: Coverseite, Text, Rueckseite - **nicht hochladen** |
 | `*-paperback-wrap.pdf` | Umschlag **als eine Flaeche** (Rueckseite \| Ruecken \| Vorderseite) fuer den KDP-Cover-Upload |
+
+### KDP-Covergroessen nachrechnen
+
+KDP meldet Abweichungen als zwei Zahlen, z. B.
+*"Die erwartete Covergroesse betraegt 13.080x9.250, die eingereichte
+Dateigroesse jedoch 12.070x8.750."* Trim und Seitenzahl stehen da nicht drin -
+man rechnet sie zurueck:
+
+```text
+Hoehe:     Coverhoehe − 2 x 0,125 in Beschnitt                = Trimhoehe
+Breite:    Coverbreite − 2 x Trim − 2 x 0,125 in Beschnitt    = Ruecken
+Seiten:    Ruecken (in) / 0,025 in  (= 0,0635 mm Creme/SW)
+
+Breite  = 2 x Trim + Ruecken + 2 x 0,125 in
+Hoehe   = Trim + 2 x 0,125 in
+```
+
+Beispiel: 13,080 x 9,250 in -> Hoehe 9,00 in (Trim 6 x 9), Breite
+13,08 − 12 − 0,25 = 0,83 in Ruecken = 332 Seiten.
+
+Haeufigste Ursachen fuer die Meldung:
+
+1. **`*-paperback-complete.pdf` hochgeladen** statt `*-paperback-interior.pdf`.
+   Die Komplettdatei hat zwei Umschlagseiten mehr (332 statt 330), KDP erwartet
+   dann einen breiteren Ruecken.
+2. **Trim im Assistenten** passt nicht zum Satz (6x9 statt 5,5x8,5 usw.).
+
+Nur den Umschlag bauen, ohne den Satz neu zu rendern:
+
+```bash
+python tools/build_cover.py --book die-sprache-des-anderen --page-count 332 --trim-size 6x9
+python tools/build_cover.py --book die-sprache-des-anderen --page-count 330 --trim-size 5.5x8.5 --dry-run
+```
+
+Das Werkzeug rechnet Ruecken und Zielgroesse aus Trim, Papier und Seitenzahl,
+rendert den Wrap nach `exports/<style>/book/print/cover-wrap-<stempel>-<seiten>.pdf`
+und prueft die Ausgabegroesse gegen die Rechnung (Exit 1 bei Abweichung).
+Report daneben: `*-report.json`.
+
+**Nach jedem Satzlauf den Wrap neu bauen** - der Ruecken haengt an der
+Innenseitenzahl, und die haengt an Trim und Bildmodus (`chapter_head` spart bei
+diesem Buch 17 Seiten gegenueber `full_page`).
+
+### Schriften im Print-PDF
+
+KDP verlangt eingebettete Schriften; die Meldung *"Die Schriftarten wurden nicht
+ordnungsgemäß eingebettet"* hatte zwei Ursachen, beide behoben:
+
+- **Variable Fonts.** `EBGaramond*.ttf` sind variabel (`fvar`/`gvar`); Chromium
+  bettet sie nicht als TrueType ein, sondern zeichnet Type3-Pfade. In
+  `config/print.yaml` stehen deshalb die statischen Instanzen
+  `EBGaramond-Regular-static.ttf` / `EBGaramond-Italic-static.ttf`
+  (erzeugt mit `fontTools.varLib.instancer`, `wght=400`).
+- **Folios.** Chromium setzt keine Seitenzahlen; sie kamen aus einem
+  Helvetica-Overlay (base-14, nicht eingebettet). `_folios_overlay_pdf()` in
+  `lib/print_pdf.py` rendert jetzt alle Seitenzahlen in einem Chromium-Durchlauf
+  mit der Hausschrift als ein Overlay-PDF.
+
+Pruefbefehl nach einem Satzlauf (erwartet: nur EBGaramond, jeweils eingebettet):
+
+```bash
+python -c "from pypdf import PdfReader; r=PdfReader('...interior.pdf'); fd=(r.pages[20].get('/Resources') or {}).get('/Font') or {}; print([(str(f.get_object().get('/BaseFont')), str(f.get_object().get('/Subtype'))) for f in fd.values()])"
+```
 
 Druck-Vorderseite: manuell `books/<id>/assets/covers/cover-print.jpg` oder `.png`.
 Kein Fallback auf das Kindle-`cover.jpg`. Fehlt `cover-print`, entsteht das

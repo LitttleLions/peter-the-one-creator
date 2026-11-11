@@ -1,4 +1,4 @@
-# Handover – Stand 2026-11-10 (Bilder, Vignetten, Print mit Kopfvignette)
+# Handover – Stand 2026-11-11 (KDP-Paperback: Größen, Schriften, Umschlag)
 
 > Für neue Chats: zuerst [AGENTS.md](../AGENTS.md), dann diese Datei.
 > Kopierfertiger Einstieg: [uebergabe-prompt.md](./uebergabe-prompt.md) - dort
@@ -7,7 +7,99 @@
 > **Diese Datei erst lesen, wenn die konkrete Aufgabe sie braucht.**
 > Einstiegskosten und Hebel (gemessen): [kontextanalyse.md](./kontextanalyse.md).
 
-## Letzte Session (2026-11-10 spaeter, Autorenvita + Reihenmetadaten)
+## Letzte Session (2026-11-11, KDP-Paperback: Covergröße und Schriften)
+
+Branch **`main`**, gepusht (`4784d6a`). Der Paperback-Upload schlug zweimal fehl;
+beide Ursachen sind gefunden und behoben.
+
+### 1. Die Covergrößen-Meldung auseinanderrechnen (wichtig)
+
+KDP: *"Die erwartete Covergröße beträgt 13.080x9.250, die eingereichte
+Dateigröße jedoch 12.070x8.750."* Aus diesen zwei Zahlen liest man Trim und
+Innenseitenzahl direkt ab:
+
+```text
+Höhe:      9,250 in − 2 x 0,125 in Beschnitt = 9,00 in  -> Trim 6 x 9 in
+Breite:   13,080 in − 2 x 6 in − 2 x 0,125 in Beschnitt = 0,83 in Ruecken
+Ruecken:   0,83 in / 0,025 in je Seite (0,0635 mm) = 332 Seiten
+Unser PDF: 12,070 x 8,750 in  -> 5,5 x 8,5 in und 330 Seiten
+```
+
+**Merksatz:** Die Cover-Meldung nennt nie Trim und Seitenzahl direkt - man
+rechnet sie zurueck. Formeln (Creme/SW):
+
+```text
+Breite  = 2 x Trim + Ruecken + 2 x 0,125 in     Ruecken = Seiten x 0,0635 mm
+Hoehe   = Trim + 2 x 0,125 in
+```
+
+Gegenprobe fuer unseren 5,5x8,5-Satz: 2 x 5,5 + 0,25 + 330 x 0,0635/25,4
+= **12,075 x 8,75 in** - genau die eingereichte Datei, also rechnerisch korrekt;
+nur die Formularwerte passten nicht.
+
+**Zwei typische Fehlerquellen:**
+- **Komplett-PDF statt Interior hochgeladen.** `paperback-complete.pdf` enthaelt
+  zwei zusaetzliche Umschlagseiten; KDP zaehlt dann 332 statt 330 und erwartet
+  einen breiteren Ruecken. Hochzuladen ist immer `-paperback-interior.pdf`.
+- **Trim im Assistenten** nicht auf den Satz gestellt (6x9 statt 5,5x8,5 bzw.
+  umgekehrt).
+
+### 2. Schriften: variable Fonts und Helvetica-Folios
+
+KDP: *"Die Schriftarten wurden nicht ordnungsgemäß in Ihrer Datei eingebettet."*
+Ursache war doppelt:
+
+- `assets/print-fonts/eb-garamond/EBGaramond*.ttf` sind **variable Fonts**
+  (`fvar`/`gvar`/`HVAR`). Chromium bettet variable Fonts nicht als TrueType ein,
+  sondern zeichnet die Glyphen als **Type3-Pfade** - im PDF stehen dann
+  Hunderte `/Type3`-Fonts ohne `/BaseFont`. Fix: statische Instanzen mit
+  `wght=400` erzeugen und in `config/print.yaml` eintragen:
+  `EBGaramond-Regular-static.ttf`, `EBGaramond-Italic-static.ttf`.
+  Erzeugt mit `fontTools.varLib.instancer.instantiateVariableFont`.
+- Die **Seitenzahlen (Folios)** kamen aus einem Helvetica-Overlay
+  (`_helvetica_overlay_pdf`, base-14, nicht eingebettet). Chromium setzt selbst
+  keine Seitenzahlen. Fix: `_folios_overlay_pdf()` rendert **alle** Folios in
+  einem Chromium-Durchlauf mit der Hausschrift als ein Overlay-PDF, das
+  seitenweise gemergt wird.
+
+Ergebnis nach dem Fix: Schriftspannen im Innenleben nur noch
+`EBGaramond-Regular` und `EBGaramond-Italic`, beide als `/Type0` mit
+`/FontFile2` eingebettet; kein Helvetica, kein Type3.
+
+### 3. Neues Werkzeug: nur den Umschlag bauen
+
+`tools/build_cover.py` erzeugt **allein** den Wrap (Rueckseite, Ruecken,
+Vorderseite) aus Trim, Papier und Seitenzahl - ohne den Satz neu zu rendern,
+und prueft die Ausgabegroesse gegen die Rechnung (Exit 1 bei Abweichung).
+
+```bash
+python tools/build_cover.py --book die-sprache-des-anderen --page-count 332 --trim-size 6x9
+python tools/build_cover.py --book die-sprache-des-anderen --page-count 330 --trim-size 5.5x8.5 --dry-run
+```
+
+Aufruf fuer den KDP-Stand dieser Sitzung: 6x9, 332 Seiten, Creme ->
+Ruecken 21,08 mm, Umschlag 13,083 x 9,250 in (332,3 x 234,9 mm), eine Seite,
+Titelbild 1725x2625 px, Schrift eingebettet. Datei:
+`exports/stil-01-original/book/print/cover-wrap-<stempel>-332.pdf`.
+
+### 4. Stand und Offenes
+
+- **Print-Ordner ist geleert** (Nutzerwunsch): bis auf den frisch gebauten
+  Umschlag liegt nichts mehr unter `exports/.../print/`. Vorher wurden
+  Familien `172026` (5,5x8,5) und `234212` (6x9) samt Manifesten verworfen.
+- Offen: im KDP-Formular **6 x 9 in, Creme** einstellen und den Wrap hochladen;
+  danach den passenden Innenleben-Satz neu erzeugen
+  (`--format paperback-complete --trim-size 6x9 --illustration-mode chapter_head`,
+  ergab 271 Innenseiten - dann Ruecken mit 274 statt 332 neu bauen!).
+- **Achtung Seitenzahl-Kopplung:** Der Rücken haengt an der Seitenzahl, und die
+  Seitenzahl am Trim und am Bildmodus. Nach jedem Satzlauf mit
+  `build_cover.py --page-count <echte Seiten>` den Wrap neu bauen.
+- Nebenbefund: `tests.test_backend_api` hat zwei rote Tests
+  (`translate_batch` mit `ollama_model=gemma4:latest`), weil lokal Ollama laeuft
+  und nur `gemma4:e4b` kennt. Vor dieser Sitzung schon rot, unabhaengig vom
+  Cover.
+
+## Vorige Session (2026-11-10 spaeter, Autorenvita + Reihenmetadaten)
 
 Branch **`main`**, gepusht. Zwei Nacharbeiten zum Cover-Stand:
 

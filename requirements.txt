@@ -6,6 +6,9 @@ python-docx>=1.1.0
 markdown>=3.6
 playwright>=1.42.0
 pypdf>=5.0.0
+# Nur fuer die Print-Diagnose (Frontmatter-Fuellgrad im Taschenbuch-Report).
+# Ohne das Paket laeuft der Export weiter, die Messung wird dann uebersprungen.
+pypdfium2>=4.0.0
 
 # KI-Provider (OpenRouter)
 python-dotenv>=1.0.0

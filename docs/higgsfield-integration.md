@@ -5,9 +5,112 @@ ueber `tools/generate_illustration.py`. Die fertigen Bilder werden direkt in
 der Export-Konvention des jeweiligen Buchpakets abgelegt:
 
 ```text
-books/<book-id>/assets/chapter/chapter-001.jpg
-books/<book-id>/assets/scene/001/scene-001.jpg
+books/<book-id>/assets/master/chapter/chapter-001.jpg
+books/<book-id>/assets/master/scene/001/scene-001.jpg
 ```
+
+## Zwei Bild-Ebenen: Druckoriginal und E-Reader-Fassung
+
+Der Taschenbuchsatz stellt andere Anforderungen als der E-Reader.
+`illustration_dpi_warnings()` rechnet mit
+`(trim_width - 2 * Rand) * 0.72` Anzeigebreite, das sind rund **3,24 in**
+bei 5.5x8.5 bzw. **3,89 in** bei 6x9 – fuer 300 dpi also etwa **970 px**
+bzw. **1170 px** Bildbreite. Eine auf den E-Reader getrimmte Datei
+(`max_width: 1024`, `jpeg_quality: 60`) liegt darunter; bei 1k-Material
+(768 px) ergibt das 237 dpi und eine Warnung im Print-Report.
+
+Deshalb schreibt `generate_illustration.py` zwei Ebenen aus **einem**
+Download:
+
+| Ebene | Ordner | Profil | Wird verwendet von |
+| --- | --- | --- | --- |
+| Druckoriginal | `assets/master/…` | `image_processing.master` (Default 2048 px, q92) | `--format paperback` / `paperback-complete` |
+| E-Reader | `assets/chapter/…`, `assets/scene/NNN/…` | `image_processing` (1024 px, q60) | EPUB, DOCX, A5-PDF, Reihenkatalog |
+
+```yaml
+higgsfield:
+  model: gpt_image_2
+  quality: 2k          # ca. 1536x2048 px bei 3:4 -> ~470 dpi im 5.5x8.5-Satz
+  keep_master: true    # false schaltet assets/master/ fuer dieses Buch ab
+  image_processing:
+    format: JPEG
+    jpeg_quality: 60
+    max_width: 1024
+    max_height: 1024
+    master:
+      format: JPEG
+      jpeg_quality: 92
+      max_width: 2048
+      max_height: 2048
+```
+
+- `--no-master` (CLI) bzw. `higgsfield.keep_master: false` schreiben nur
+  die Reader-Fassung.
+- Fehlt `assets/master/`, nimmt der Paperback-Export automatisch die
+  Reader-Bilder; der Print-Report zaehlt das in `illustration_tier`
+  (`total` / `master` / `reader`) und die dpi-Warnung nennt die
+  Herkunft in Klammern.
+- Bestehende Bilder werden **nicht** angefasst. Wer den Bestand auf
+  Drucktauglichkeit bringen will, erzeugt die Master gezielt neu oder
+  skaliert sie aus dem Bestand hoch – das kostet Credits bzw. Detailtreue
+  und ist bewusst eine eigene Entscheidung.
+
+### Aufloesung und Modell
+
+3k gibt es im Katalog nicht. Verfuegbar sind:
+
+| Modell | Optionen |
+| --- | --- |
+| `text2image_soul_v2` | 1.5k, 2k |
+| `seedream_v5_pro` / `seedream_v5_lite` | 1k, 1.5k, 2k |
+| `nano_banana_2` | 1k, 2k, 4k |
+| `gpt_image_2` | 1k, 2k, 4k (+ `render_quality` low/medium/high) |
+
+2k ist die Obergrenze fuer alle fuenf Modelle und liefert bei 3:4 bereits
+474 dpi (5.5x8.5) bzw. 394 dpi (6x9). 4k ergibt 948 dpi – im Druck nicht
+sichtbar, aber dreifache Dateigroesse und Wartezeit. Buchstandard ist
+deshalb `gpt_image_2` mit `quality: 2k` und `render_quality: medium`.
+
+## Grosse Medien aus Git halten
+
+Druckoriginale, Audio, Video und Marketing-Clips sind regenerierbar;
+`.git` waechst sonst unbegrenzt (bereits ueber 2 GB). Muster stehen in
+`config/gitignore-assets.yaml`, der Schalter pro Buch in `book.yaml`:
+
+```yaml
+gitignore:
+  large_assets: true          # false -> keine Muster
+  extra_patterns:             # zusaetzliche, buchspezifische Zeilen
+    - "/work/grosses-original/"
+  disabled_patterns:          # einzelne Default-Muster abwaehlen
+    - "/assets/audio/"
+```
+
+```powershell
+py -3 tools/sync_book_gitignore.py --dry-run   # zeigen
+py -3 tools/sync_book_gitignore.py             # schreiben
+py -3 tools/sync_book_gitignore.py --check     # Exit 1 bei Drift
+```
+
+Geschrieben wird nur der Abschnitt zwischen
+`# >>> motivatier:large-assets >>>` und `# <<< motivatier:large-assets <<<`
+in `books/<id>/.gitignore`; eigene Zeilen bleiben erhalten. Die
+E-Reader-Fassung in `assets/chapter` bzw. `assets/scene` bleibt bewusst im
+Repo, nur `assets/master/` faellt heraus.
+
+### Dashboard
+
+Seite **Bilder** (`/books/:bookId/images`), Panel **Grosse Medien aus Git
+halten** (unter der Illustration-Setting-Karte). Der Schalter schreibt
+`gitignore.large_assets` in `book.yaml` und zieht den verwalteten
+Abschnitt in `books/<id>/.gitignore` **sofort** nach, damit die Wirkung
+nicht erst über die CLI entsteht. Das Panel zeigt die aktiven Muster und
+meldet einen veralteten Abschnitt.
+
+API: `GET /api/books/{id}/gitignore` und `PUT /api/books/{id}/gitignore`
+(`{"large_assets": true|false}`). Antwort: `large_assets`, `patterns`,
+`extra_patterns`, `disabled_patterns`, `gitignore_path`, `state`
+(`ok` / `abweichend`).
 
 ## Buch-Defaults
 
@@ -510,6 +613,12 @@ im EPUB/PDF/DOCX. Cover analog mit Stem `cover` unter `assets/covers/`.
 Dateien wie `cover1.jpg` oder `chapter-001_alt.jpg` werden vom Export
 **nicht** automatisch gewaehlt.
 
+Fuer den Taschenbuchsatz gilt eine Ausnahme: `--format paperback` und
+`paperback-complete` suchen zuerst in `assets/master/` (gleicher Stem,
+gleiche Prioritaet `.jpg` → `.jpeg` → `.png` → `.webp`) und fallen
+sonst auf `assets/chapter` bzw. `assets/scene` zurueck. EPUB, DOCX und
+die A5-Leseprobe lesen die kleine E-Reader-Fassung wie bisher.
+
 ## Nachtraegliche Asset-Optimierung
 
 Manuelle Web-UI-Downloads landen oft als grosse PNGs; fruehere CLI-JPGs
@@ -524,6 +633,7 @@ python tools\optimize_asset_images.py --book die-dritte-chronik --scope cover
 | Flag | Wirkung |
 | --- | --- |
 | `--scope all\|cover\|chapter\|scene` | Welche Assets (Default `all`) |
+| `--source auto\|master` | Quelle: `auto` = PNG / `*_alt.jpg` / JPEG wie bisher, `master` = Druckoriginale aus `assets/master/` (Ziel bleibt `assets/chapter` bzw. `assets/scene`) |
 | `--dry-run` | Nur planen |
 | `--skip-existing` | Vorhandene Export-`.jpg` nicht neu schreiben |
 | `--include-test` | Auch `assets/chapter/test/` |

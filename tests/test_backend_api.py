@@ -180,6 +180,65 @@ class BackendApiTests(unittest.TestCase):
         )
         self.assertEqual(too_long.status_code, 400)
 
+    def test_gitignore_settings_toggle(self) -> None:
+        initial = self.client.get("/api/books/sample/gitignore")
+        self.assertEqual(initial.status_code, 200)
+        body = initial.json()
+        self.assertTrue(body["large_assets"])
+        self.assertIn("/assets/master/", body["patterns"])
+        self.assertEqual(body["gitignore_path"], "books/sample/.gitignore")
+        # Ohne verwalteten Abschnitt ist der Zustand "abweichend".
+        self.assertEqual(body["state"], "abweichend")
+
+        off = self.client.put(
+            "/api/books/sample/gitignore", json={"large_assets": False}
+        )
+        self.assertEqual(off.status_code, 200)
+        off_body = off.json()
+        self.assertTrue(off_body["saved"])
+        self.assertFalse(off_body["large_assets"])
+        self.assertEqual(off_body["patterns"], [])
+        self.assertEqual(off_body["state"], "ok")
+
+        book_yaml = self.repo_root / "books" / "sample" / "book.yaml"
+        yaml_text = book_yaml.read_text(encoding="utf-8")
+        self.assertIn("gitignore:", yaml_text)
+        self.assertIn("large_assets: false", yaml_text)
+        # Der Illustration-Setting-Block darf nicht beschaedigt werden.
+        self.assertIn("Sample Book", yaml_text)
+
+        gitignore = self.repo_root / "books" / "sample" / ".gitignore"
+        self.assertTrue(gitignore.is_file())
+        self.assertIn("Kein Ausschluss", gitignore.read_text(encoding="utf-8"))
+
+        on = self.client.put(
+            "/api/books/sample/gitignore", json={"large_assets": True}
+        )
+        self.assertEqual(on.status_code, 200)
+        self.assertTrue(on.json()["large_assets"])
+        self.assertIn("/assets/master/", on.json()["patterns"])
+        self.assertEqual(on.json()["state"], "ok")
+
+    def test_gitignore_settings_keeps_foreign_lines(self) -> None:
+        gitignore = self.repo_root / "books" / "sample" / ".gitignore"
+        gitignore.parent.mkdir(parents=True, exist_ok=True)
+        gitignore.write_text("eigene-regel/\n", encoding="utf-8")
+
+        self.client.put("/api/books/sample/gitignore", json={"large_assets": True})
+        text = gitignore.read_text(encoding="utf-8")
+        self.assertTrue(text.startswith("eigene-regel/"))
+        self.assertIn("/assets/master/", text)
+
+        # Erneutes Speichern haengt keinen zweiten Abschnitt an.
+        self.client.put("/api/books/sample/gitignore", json={"large_assets": True})
+        again = gitignore.read_text(encoding="utf-8")
+        self.assertEqual(text.count("/assets/master/"), 1)
+        self.assertEqual(text, again)
+
+    def test_gitignore_settings_404_for_unknown_book(self) -> None:
+        response = self.client.get("/api/books/missing/gitignore")
+        self.assertEqual(response.status_code, 404)
+
     def test_logs_list_and_detail(self) -> None:
         response = self.client.get("/api/logs?book_id=sample")
 

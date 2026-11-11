@@ -2,6 +2,7 @@
 # Secrets & Credentials
 # ============================================================
 .env
+.kdp-session/
 .env.*
 *.pem
 *.key
@@ -87,6 +88,9 @@ webapp/frontend/*.tsbuildinfo
 # ============================================================
 /staging/
 
+# KDP-Adapter: Laufzeit-Snapshots, keine zweite Metadatenquelle
+books/*/work/kdp/
+
 # Higgsfield-Bildwiederherstellung: nur verified/ + Manifeste im Repo,
 # grosse Originale/Sichtungskopien/Backups bleiben lokal
 books/*/work/image-recovery/*/originals/
@@ -95,3 +99,9 @@ books/*/work/image-recovery/*/before/
 
 # KDP-Sitzung (lokale Laufzeitdaten)
 .kdp-session/
+# Grosse, regenerierbare Medien (Druckoriginale, Audio, Video, Clips) werden
+# pro Buchpaket ausgeschlossen: books/<id>/.gitignore, verwaltet von
+# `py -3 tools/sync_book_gitignore.py`. Muster in
+# config/gitignore-assets.yaml, Schalter pro Buch in book.yaml
+# (`gitignore.large_assets`). Die E-Reader-Fassung in assets/chapter bzw.
+# assets/scene bleibt bewusst im Repo, nur assets/master/ nicht.

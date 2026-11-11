@@ -107,7 +107,7 @@ Aktuelle Buchpakete (17):
 
 - `books/peter-i-buch-01/` - Alexei Tolstoi, Peter der Erste
 - `books/anna-karenina/` - Lew Tolstoi, Anna Karenina (PARKIERT 09/2026)
-- `books/pharao/` - Bolesław Prus, Der Pharao (LIVE; Print-Optionen 2026-09-21: Trim/Profil/Bilder, A–D 924/788/673/643, Cream 776, Gate ERROR=0, Einleitung 000 restauriert)
+- `books/pharao/` - Bolesław Prus, Der Pharao (LIVE; Print-Optionen 2026-09-21: Trim/Profil/Bilder, nach der Leerseiten-Korrektur 2026-09-27 A–D 923/787/672/642, Cream 776, Gate ERROR=0, Einleitung 000 restauriert)
 - `books/feuriger-engel/` - Walerij Brjussow, Der feurige Engel
 - `books/aelita/` - Alexei Tolstoi, Aelita (LIVE 09/2026: Regelcheck 0/0, Kapitel-030-Kommentare als Anhang ausgelagert, Buch-EPUB 2026-09-17 nutzergeprueft und veroeffentlicht; 12 Kapitel bewusst ohne Bild; Amazon-Link + Marketing nach Amazon-Freigabe)
 - `books/leben-arsenjews/` - Iwan Bunin, Das Leben Arsenjews (Release-Kandidat 09/2026: Gate ERROR=0/WARNING=8, EPUB 20260917-212334 ohne Bypass)
@@ -132,8 +132,10 @@ books/<book-id>/
   names.yaml                # buchlokale Namen-/Begriffsliste fuer Prompts
   source/                   # Originalquellen; nicht ohne Rueckfrage aendern
   assets/covers/            # Cover
-  assets/chapter/           # optionale Kapitelbilder chapter-NNN.*
-  assets/scene/NNN/         # optionale Szenenbilder scene-NNN.*
+  assets/chapter/           # optionale Kapitelbilder chapter-NNN.* (E-Reader-Fassung)
+  assets/scene/NNN/         # optionale Szenenbilder scene-NNN.* (E-Reader-Fassung)
+  assets/master/            # Druckoriginale 2k; nur Paperback, nicht im Git
+  .gitignore                # verwalteter Ausschluss (tools/sync_book_gitignore.py)
   styles/                   # editierbare Style-Profile fuer dieses Buch
   work/
     chapters/               # NNN-source.md
@@ -293,6 +295,13 @@ python tools/export_manuscript.py --book pharao --scope book --style stil-02-poe
 python tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback --trim-size 6x9 --layout-profile classic --illustration-mode full_page
 python tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback --trim-size 6x9 --layout-profile long_classic --illustration-mode inline
 python tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback-complete
+
+# KDP-Adapter Phase 1 (liest nur; bind schreibt title_id lokal, nicht nach Amazon)
+py -3 tools/kdp_sync.py status
+py -3 tools/kdp_sync.py login
+py -3 tools/kdp_sync.py pull --book pharao
+py -3 tools/kdp_sync.py diff --book pharao
+py -3 tools/kdp_sync.py bind --book pharao --title-id TITLEID --asin B0XXXXXXXX
 
 # Marketingpaket erzeugen (nichts veroeffentlichen; ohne --provider keine Kosten)
 python tools/export_marketing.py --book anna-karenina --dry-run
@@ -460,6 +469,40 @@ Export-JPGs nachtraeglich (ohne PNG/`*_alt.jpg` zu loeschen):
 optimieren“. Erkannte Moodboards und der Discovery-Workflow sind in
 `docs/higgsfield-integration.md` dokumentiert.
 
+**Zwei Bild-Ebenen (2026-09-27).** Der Drucksatz braucht ~970 px (5.5x8.5)
+bzw. ~1170 px (6x9) Breite fuer 300 dpi, der E-Reader dagegen kleine
+Dateien. Deshalb landen neue Bilder in zwei Ordnern:
+
+```text
+assets/master/chapter/chapter-NNN.jpg   2k, q92  – nur Paperback
+assets/chapter/chapter-NNN.jpg          1024, q60 – EPUB/DOCX/A5
+```
+
+`generate_illustration.py` schreibt beide aus **einem** Download: das
+Druckoriginal zuerst, die Reader-Fassung als saubere Verkleinerung
+davon. Abschaltbar mit `--no-master` oder `higgsfield.keep_master: false`;
+Profil in `higgsfield.image_processing.master` (Default 2048 px / q92).
+Ohne `assets/master/` faellt der Paperback-Export automatisch auf die
+E-Reader-Bilder zurueck – bei 1k-Material bleibt dann die dpi-Warnung
+(kein Fehler, nur ein Hinweis). `optimize_asset_images.py --source master`
+leitet Reader-Fassungen aus vorhandenen Druckoriginalen ab, schreibt aber
+nie nach `assets/master/`. 3k gibt es im Modellkatalog nicht; 2k ist die
+Obergrenze fuer alle fuenf Modelle, 4k nur bei `gpt_image_2` und
+`nano_banana_2`.
+
+**Grosse Medien nicht ins Repo.** Druckoriginale, Audio, Video und
+Marketing-Clips sind regenerierbar; `.git` war bereits ueber 2 GB. Muster
+liegen in `config/gitignore-assets.yaml`, der Schalter pro Buch in
+`book.yaml` (`gitignore.large_assets`, optional `extra_patterns` und
+`disabled_patterns`). `py -3 tools/sync_book_gitignore.py` schreibt den
+Abschnitt in `books/<id>/.gitignore` (nur zwischen den Markern, eigene
+Zeilen bleiben), `--check` prueft ohne zu schreiben, Exit 1 bei Drift.
+Die E-Reader-Fassung in `assets/chapter` bleibt bewusst versioniert.
+Dashboard: Seite **Bilder** → Panel **Grosse Medien aus Git halten**;
+`GET`/`PUT /api/books/{id}/gitignore`. Das Dashboard setzt
+`book.yaml -> gitignore.large_assets` und zieht den Abschnitt sofort
+nach, damit der Schalter ohne CLI-Lauf wirkt.
+
 Standardfolge fuer Leserexporte: Coverbild, Titelseite, Zusammenfassung,
 Leben des Autors, dann Textbeginn mit Teil-/Buchgruppe und Kapiteln.
 
@@ -498,6 +541,22 @@ und Satzprofil (`--layout-profile classic|long_classic`) sind getrennt;
 Kapitelbilder `--illustration-mode full_page|inline|chapter_head`. Default 5,5×8,5 / classic /
 full_page, Cream-Limit 776 (White 828). Ohne Flags bleibt der bisherige Satz.
 Ausgabe unter `exports/<style>/<scope>/print/` mit Varianten-Slug im Dateinamen.
+**Keine Leerseiten im Satz (Pflichtregel, 2026-09-27):** ein Block, der hoeher
+ist als der Satzspiegel, erzeugt in Chromium eine Leerseite plus
+Ueberlaufstreifen. Titelei/Cover duerfen deshalb nie `min-height` auf voller
+Seiten- bzw. Trim-Hoehe setzen, sondern nur auf den Satzspiegel
+(`PrintSpec.fill_height_mm()` bzw. `pdf_preview_type_mm()` in
+`tools/export_manuscript.py`, inkl. 1mm Sicherheitszugabe gegen Pixelrundung).
+Bilder im Vorschaupfad ebenfalls auf Satzspiegelhoehe deckeln. Jeder Export
+misst das Ergebnis: `print_pdf.find_blank_pages()` schreibt `blank_pages` in
+den Print-Report (plus Warnung) und in das Export-Manifest, davor wird
+gemessen, **bevor** Kolumnentitel/Folios gestempelt werden, weil die sonst
+jede Seite als gefuellt erscheinen. Zusaetzlich misst
+`print_pdf.frontmatter_fill_report()` den Fuellgrad der Frontmatter-Seiten
+(`frontmatter_fill` im Report, Warnung unter 40 %) und nennt die Schalter
+`summary_page` / `author_bio_page` / `imprint_page: false`, die je eine
+bezahlte Seite einsparen. Rastermessung ueber `pypdfium2` (optional in
+`requirements.txt`); Dokument und Seiten dabei schliessen.
 `--format paperback-complete` haengt Vorderseite (`assets/covers/cover-print.*`,
 sonst ohne Bild), generierte Rueckseite und Wrap-PDF (Ruecken = Seitenzahl ×
 0,0635 mm, creme/SW) an. Reihenkatalog (andere `website.enabled`-Titel) steht in EPUB und

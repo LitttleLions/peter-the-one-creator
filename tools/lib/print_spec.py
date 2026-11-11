@@ -103,6 +103,10 @@ KDP_SPINE_MM_PER_PAGE = {
 }
 KDP_BLEED_IN = 0.125
 GUTTER_MAX_PASSES = 3
+# Sicherheitszugabe in mm. Chromium rundet den Satzspiegel auf Pixel; ein
+# Block, der exakt so hoch ist wie die Textflaeche, kann dadurch um ein
+# Pixel ueberlaufen und eine Leerseite erzeugen (2026-09-27, books/der-lotse).
+FILL_HEIGHT_SAFETY_MM = 1.0
 DEFAULT_TRIM_SIZE = "5.5x8.5"
 DEFAULT_LAYOUT_PROFILE = "classic"
 DEFAULT_ILLUSTRATION_MODE = "full_page"
@@ -546,6 +550,16 @@ class PrintSpec:
 
     def type_height_mm(self) -> float:
         return max(1.0, self.trim_height_in * 25.4 - self.top_mm - self.bottom_mm)
+
+    def fill_height_mm(self) -> float:
+        """Hoehe, mit der Titelei/Frontmatter den Satzspiegel fuellt.
+
+        Muss die Satzspiegelhoehe sein, nicht die volle Trim-Hoehe: ein
+        Section mit ``min-height: <Trim-Hoehe>`` ist hoeher als die
+        Textflaeche, Chromium schiebt den Inhalt auf die naechste Seite und
+        der Rest bleibt als Leerseite (plus Ueberlaufstreifen) im PDF.
+        """
+        return max(1.0, self.type_height_mm() - FILL_HEIGHT_SAFETY_MM)
 
     def type_width_mm(self, page_count: int) -> float:
         return max(1.0, self.trim_width_in * 25.4 - 2 * self.side_margin_mm(page_count))

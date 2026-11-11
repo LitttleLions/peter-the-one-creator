@@ -107,11 +107,28 @@ Perfect Sight Without Glasses (`books/perfect.sight/`, Sachbuch `en->de`,
 Stil `stil-05-sachbuch`) ist ebenfalls neu.
 
 Pharao (LIVE): Print-Optionen 2026-09-21 auf `main` (Trim/Profil/Bilder).
-Innenleben A–D: 924 / 788 / 673 / 643 Seiten; Cream-Limit 776. Gate ERROR=0
-nach restaurierter Einleitung 000. Vergleich:
-`books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`.
-Offen: Print-Leseprobe und Entscheidung 788 vs. 776 fuer 6x9 classic
+Innenleben A–D nach der Leerseiten-Korrektur 2026-09-27: 923 / 787 / 672 / 642
+Seiten; Cream-Limit 776. Gate ERROR=0 nach restaurierter Einleitung 000.
+Vergleich: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260927-pharao-abcd.md`.
+Offen: Print-Leseprobe und Entscheidung 787 vs. 776 fuer 6x9 classic
 (`docs/offene-punkte.md` Punkt 11).
+
+Der Lotse von Rügen (DE-Original, Timo Verita, **Roman vollständig** 2026-09-27):
+32 Kapitel / 104.080 Wörter, Epilog in Kapitel 032, importiert aus
+`source/Der Lotse von Rügen Full I.md` über `tools/import_de_original.py`
+(ohne LLM, ohne Kosten). Gate ERROR=0/WARNING=1/INFO=42 – die Warnung ist eine
+bewusste Anaphorenkette in Kapitel 021. Cover liegt vor, 32/32 Kapitelbilder.
+Offen: `assets/covers/cover-print.*` fuer die KDP-Titelei und
+`website.enabled` (bewusst `false`).
+
+Buchbilder (2026-09-27): Zwei Ebenen – Druckoriginal 2k unter
+`assets/master/` fuer den Taschenbuchsatz, kleine E-Reader-Fassung (1024 px)
+darunter in `assets/chapter/` bzw. `assets/scene/`. Standardmodell ist
+`gpt_image_2` mit `quality: 2k`. Druckoriginale, Audio, Video und Clips bleiben
+per Schalter pro Buch (`book.yaml` → `gitignore.large_assets`, im Dashboard
+unter **Bilder** bedienbar) aus dem Repo. Der Bildbestand wurde bewusst **nicht**
+neu erzeugt; `die-dritte-chronik` und `pissemski-tausend-seelen` haben keine
+auflösbare Quelle mehr. Details: `docs/higgsfield-integration.md`.
 
 ## Voraussetzungen
 
@@ -294,6 +311,12 @@ python tools/export_manuscript.py --book anna-karenina --scope chapter --chapter
 python tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback
 python tools/export_manuscript.py --book pharao --scope book --style stil-02-poetisch --format paperback-complete
 
+# KDP-Adapter Phase 1 (nach dem Export; kein Schreiben nach Amazon)
+py -3 tools/kdp_sync.py status
+py -3 tools/kdp_sync.py login
+py -3 tools/kdp_sync.py pull --book pharao
+py -3 tools/kdp_sync.py diff --book pharao
+
 # Review-Fixes aus vorhandenen Review-JSONs
 python tools/apply_review_suggestions.py --book anna-karenina --style stil-01-original --plan
 python tools/apply_review_suggestions.py --book anna-karenina --style stil-01-original --stage
@@ -304,6 +327,17 @@ python tools/generate_illustration.py --book pharao --chapter 001 --scene 01 --k
 python tools/generate_illustration.py --book pharao --chapter 001 --kind chapter --style stil-02-poetisch
 python tools/generate_illustration.py --book pharao --chapter 001 --scene 01 --kind scene --style stil-02-poetisch --overwrite
 python tools/generate_illustration.py --book pharao --chapter 001 --scene 01 --kind scene --style stil-02-poetisch --dry-run
+python tools/generate_illustration.py --book pharao --chapter 001 --kind chapter --style stil-02-poetisch --no-master
+
+# Exportbilder kompakt nachziehen (E-Reader-Fassung; PNG und *_alt.jpg bleiben)
+python tools/optimize_asset_images.py --book die-dritte-chronik --dry-run
+python tools/optimize_asset_images.py --book die-dritte-chronik
+python tools/optimize_asset_images.py --book die-dritte-chronik --source master
+
+# Grosse Medien (Druckoriginale, Audio, Video, Clips) aus Git halten
+python tools/sync_book_gitignore.py --dry-run
+python tools/sync_book_gitignore.py
+python tools/sync_book_gitignore.py --check        # Exit 1 bei Drift
 
 # Marketingpaket (erzeugt nichts oeffentlich; ohne --provider keine API-Kosten)
 python tools/export_marketing.py --book peter-i-buch-01 --dry-run
@@ -702,12 +736,21 @@ defaults:
 Namenskonvention:
 
 ```text
-books/<book-id>/assets/chapter/chapter-001.jpg
+books/<book-id>/assets/chapter/chapter-001.jpg      # E-Reader-Fassung
 books/<book-id>/assets/scene/001/scene-002.png
+books/<book-id>/assets/master/chapter/chapter-001.jpg   # Druckoriginal (nur Paperback)
+books/<book-id>/assets/master/scene/001/scene-002.jpg
 ```
 
 Erlaubte Formate sind `.jpg`, `.jpeg`, `.png` und `.webp`. Fehlt ein Bild,
 wird es still uebersprungen.
+
+Bei mehreren Formaten gleicher Stem gewinnt `.jpg` vor `.png`. Eine
+Ausnahme gilt fuer den Taschenbuchsatz: `--format paperback` und
+`paperback-complete` suchen zuerst in `assets/master/` und fallen sonst auf
+`assets/chapter` bzw. `assets/scene` zurueck. EPUB, DOCX und die
+A5-Leseprobe lesen immer die kleine Fassung. Beide Ebenen im Detail:
+`docs/higgsfield-integration.md`.
 
 ### Illustrationen Erzeugen
 
@@ -731,6 +774,14 @@ Cents pro Kapitel), `none` (kostenfreie Heuristik) oder `auto` (vorhandene
 Vignette, sonst Heuristik). `off` baut den bisherigen Prompt aus
 `illustration_setting` plus den ersten zwei Absaetzen. Default steht in
 `book.yaml` unter `higgsfield.vignette.provider`.
+
+Standard ist `gpt_image_2` mit `quality: 2k` und `render_quality: medium`
+(ca. 1536x2048 px bei 3:4). 3k gibt es im Modellkatalog nicht, 4k nur bei
+`gpt_image_2` und `nano_banana_2` und waere im Druck nicht sichtbar.
+Pro Bild entstehen **zwei** Ausgaben: das Druckoriginal in `assets/master/`
+und die daraus verkleinerte E-Reader-Fassung in `assets/chapter/` bzw.
+`assets/scene/`. Abschaltbar mit `--no-master` oder
+`higgsfield.keep_master: false`.
 
 Bestehende Bilder werden nur mit `--overwrite` ersetzt; `--dry-run` zeigt den
 Prompt ohne API-Call an und schreibt `*-dryrun.md`/`.json`, ohne den echten
@@ -875,6 +926,14 @@ Buchsetup, Uebersetzen, Stiltest, Review, Export (inkl. Karte
 (Regal-Freigabe, Katalog-/Dist-Jobs). Die verbindliche Optik-Referenz liegt in
 `docs/dashboard-design-system.md`. Die oeffentliche Regal-Website selbst liegt
 unter `webpage/` (siehe `webpage/README.md`).
+
+Auf der Bilder-Seite gibt es neben der Illustration-Setting-Karte das Panel
+**Grosse Medien aus Git halten**. Der Schalter schreibt
+`book.yaml` → `gitignore.large_assets` und zieht den verwalteten Abschnitt in
+`books/<id>/.gitignore` sofort nach, damit die Wirkung nicht erst über die CLI
+entsteht; das Panel zeigt die aktiven Muster und meldet einen veralteten
+Abschnitt. API: `GET`/`PUT /api/books/{id}/gitignore`. CLI-Gegenprobe:
+`python tools/sync_book_gitignore.py --check` (Exit 1 bei Drift).
 
 Lange Uebersetzungs- und Review-Laeufe werden ueber den framework-neutralen
 Job-Service `tools/lib/dashboard_jobs.py` als Hintergrundprozesse gestartet.

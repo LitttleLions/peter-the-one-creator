@@ -170,3 +170,11 @@ website:
   enabled: true
   amazon_url: ''
   sort_order: 30
+amazon:
+  marketplace: DE
+  kindle:
+    enabled: true
+    title_id: ''
+    asin: ''
+  paperback:
+    enabled: false

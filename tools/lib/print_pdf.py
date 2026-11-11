@@ -9,6 +9,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any, Callable
 
+from lib.asset_images import MASTER_DIRNAME
 from lib.print_css import (
     ILLUSTRATION_HEAD_WIDTH_RATIO,
     ILLUSTRATION_MAX_WIDTH_RATIO,
@@ -36,6 +37,131 @@ def count_pdf_pages(path: Path) -> int:
 
     reader = PdfReader(str(path))
     return len(reader.pages)
+
+
+def find_blank_pages(path: Path) -> list[int]:
+    """1-basierte Seitenzahlen ohne Text und ohne Bild.
+
+    Leerseiten entstehen typischerweise dadurch, dass ein Block hoeher ist als
+    der Satzspiegel (Chromium schiebt den Inhalt komplett auf die naechste
+    Seite). Fuer KDP ist jede Seite bezahlter Blindraum, deshalb wird das
+    direkt nach dem Rendern gemessen und im Print-Report ausgewiesen.
+
+    Grenze der Heuristik: eine Seite, die ausschliesslich aus Vektoren
+    (Linien, Rahmen) besteht, gilt hier nicht als leer. Im aktuellen Satz gibt
+    es solche Seiten nicht - Bilder sind XObjects, Text ist Text.
+    """
+    from pypdf import PdfReader
+
+    blanks: list[int] = []
+    for index, page in enumerate(PdfReader(str(path)).pages, start=1):
+        try:
+            if (page.extract_text() or "").strip():
+                continue
+            resources = page.get("/Resources") or {}
+            xobjects = resources.get("/XObject") or {}
+            has_image = False
+            for key in list(xobjects.keys()):
+                obj = xobjects[key].get_object()
+                if obj.get("/Subtype") == "/Image":
+                    has_image = True
+                    break
+        except Exception:  # pragma: no cover - defekte Seite nicht als Fehler
+            continue
+        if not has_image:
+            blanks.append(index)
+    return blanks
+
+
+def blank_page_warning(blanks: list[int], limit: int = 12) -> str:
+    shown = ", ".join(str(n) for n in blanks[:limit])
+    if len(blanks) > limit:
+        shown += ", ..."
+    return (
+        f"{len(blanks)} Leerseite(n) ohne Text und ohne Bild (Seite {shown}) - "
+        "Satz pruefen: min-height eines Blocks darf nie groesser sein als der "
+        "Satzspiegel (PrintSpec.fill_height_mm())."
+    )
+
+
+FRONTMATTER_SPARSE_PERCENT = 40.0
+# Nur fuer die Frontmatter-Messung noetig (Rastermessung). Fehlt das Paket,
+# wird die Messung uebersprungen; die Leerseiten-Pruefung braucht es nicht.
+RASTER_MEASURE_DPI = 100.0
+
+
+def frontmatter_fill_report(
+    path: Path, first_pages: int, spec: PrintSpec
+) -> list[dict[str, Any]]:
+    """Fuellgrad der Frontmatter-Seiten in Prozent der Textflaeche.
+
+    Gemessen wird die unterste Tintenzeile je Seite gegen den Satzspiegel
+    (Kopfrand und Folio liegen ausserhalb und werden nicht mitgezaehlt).
+    Beantwortet die Frage, ob eine Frontmatter-Seite so viel traegt, dass sie
+    eine eigene Seite beanspruchen muss - oder ob sie mit der Folgeseite
+    zusammengelegt werden kann und damit im Druck eine Seite einspart.
+
+    pypdf liefert fuer Chromium-PDFs keine verlaesslichen Textpositionen, und
+    die Zeilenzahl taugt nicht als Ersatz (Impressumsatz mischt
+    Schriftgrade). Deshalb Rastermessung ueber pypdfium2; ohne das Paket
+    liefert die Funktion [].
+    """
+    try:
+        import pypdfium2 as pdfium
+    except ImportError:
+        return []
+    from PIL import Image
+
+    scale = RASTER_MEASURE_DPI / 72.0
+    report: list[dict[str, Any]] = []
+    # pypdfium2 haelt die Datei offen; unter Windows blockiert das spaeter das
+    # Loeschen, deshalb Dokument und Seiten zwingend schliessen.
+    document = pdfium.PdfDocument(str(path))
+    try:
+        limit = min(max(0, first_pages), len(document))
+        for index in range(limit):
+            page = document[index]
+            try:
+                height_pt = float(page.get_height())
+                top_px = spec.top_mm / 25.4 * 72.0 * scale
+                bottom_px = height_pt * scale - spec.bottom_mm / 25.4 * 72.0 * scale
+                type_height_px = bottom_px - top_px
+                if type_height_px <= 1:
+                    continue
+                image: Image.Image = page.render(scale=scale).to_pil().convert("L")
+                mask = image.point(lambda value: 255 if value < 200 else 0)
+                box = mask.getbbox()
+                image.close()
+                if not box:
+                    continue
+                last_row = min(float(box[3]), bottom_px)
+                used = max(0.0, (last_row - top_px) / type_height_px * 100.0)
+            finally:
+                page.close()
+            report.append(
+                {
+                    "page": index + 1,
+                    "used_percent": round(used, 1),
+                    "sparse": used < FRONTMATTER_SPARSE_PERCENT,
+                }
+            )
+    finally:
+        document.close()
+    return report
+
+
+def sparse_frontmatter_warning(fill: list[dict[str, Any]]) -> str:
+    sparse = [item for item in fill if item.get("sparse")]
+    detail = ", ".join(
+        f"{item['page']} ({item['used_percent']:.0f}%)" for item in sparse
+    )
+    return (
+        f"Frontmatter-Seite(n) {detail} nutzt weniger als "
+        f"{FRONTMATTER_SPARSE_PERCENT:.0f}% der Textflaeche. Jede Seite kostet "
+        "im KDP-Druck: in books/<id>/export.yaml koennen `summary_page: false`, "
+        "`author_bio_page: false` oder `imprint_page: false` je eine Seite "
+        "einsparen."
+    )
 
 
 def render_html_to_pdf(html_path: Path, pdf_path: Path) -> None:
@@ -330,11 +456,23 @@ def illustration_dpi_warnings(
         if dpi < 300:
             label = getattr(item, "kind", "image")
             chapter_id = getattr(item, "chapter_id", "?")
+            tier = "master" if MASTER_DIRNAME in Path(path).parts else "E-Reader"
             warnings.append(
-                f"{label} {chapter_id}: {width_px}px bei Anzeigebreite "
+                f"{label} {chapter_id} ({tier}): {width_px}px bei Anzeigebreite "
                 f"{display_width_in:.2f}in ergibt {dpi:.0f} dpi (< 300)"
             )
     return warnings
+
+
+def illustration_tier_summary(illustrations: list[Any]) -> dict[str, int]:
+    """Wie viele Bilder im Satz aus assets/master/ stammen."""
+    master = sum(
+        1
+        for item in illustrations or []
+        if MASTER_DIRNAME in Path(str(getattr(item, "path", ""))).parts
+    )
+    total = len(illustrations or [])
+    return {"total": total, "master": master, "reader": total - master}
 
 
 def write_print_report(path: Path, payload: dict[str, Any]) -> Path:
@@ -388,6 +526,11 @@ def export_paperback_interior(
         iterations += 1
         rerendered = True
 
+    # Vor dem Kolumnentitel-Setzen messen: danach traegt jede Textseite einen
+    # Folio und eine Leerseite waere nicht mehr als solche erkennbar.
+    blank_pages = find_blank_pages(pdf_path)
+    frontmatter_fill = frontmatter_fill_report(pdf_path, frontmatter_sections, spec)
+
     outer_mm = spec.side_margin_mm(actual_pages)
     if stamp:
         stamp_running_matter(
@@ -415,6 +558,10 @@ def export_paperback_interior(
             f"Seitenzahl {actual_pages} nahe am KDP-Maximum {kdp_max}."
         )
     warnings.extend(illustration_dpi_warnings(illustrations, spec, actual_pages))
+    if blank_pages:
+        warnings.append(blank_page_warning(blank_pages))
+    if any(item.get("sparse") for item in frontmatter_fill):
+        warnings.append(sparse_frontmatter_warning(frontmatter_fill))
     status = "ok" if within_limit and not warnings else "warning"
 
     report = {
@@ -429,6 +576,7 @@ def export_paperback_interior(
         "layout_profile": spec.layout_profile,
         "profile": spec.profile,
         "illustration_mode": spec.illustration_mode,
+        "illustration_tier": illustration_tier_summary(illustrations),
         "chapter_start": spec.chapter_start,
         "bleed": spec.bleed,
         "font_family": spec.font_family,
@@ -445,6 +593,8 @@ def export_paperback_interior(
         "gutter_rerendered": rerendered,
         "cover_omitted": True,
         "frontmatter_sections_unstamped": frontmatter_sections,
+        "blank_pages": blank_pages,
+        "frontmatter_fill": frontmatter_fill,
         "word_count": words,
         "warnings": warnings,
         "output_pdf": str(pdf_path),

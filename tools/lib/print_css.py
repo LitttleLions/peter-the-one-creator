@@ -114,7 +114,7 @@ def build_paperback_css(spec: PrintSpec, css_path: Path, page_count: int) -> str
         f"}}\n"
         f"\n"
         f".titlepage {{\n"
-        f"  min-height: {spec.trim_height_in}in;\n"
+        f"  min-height: {mm(spec.fill_height_mm())};\n"
         f"  display: flex;\n"
         f"  flex-direction: column;\n"
         f"  align-items: center;\n"

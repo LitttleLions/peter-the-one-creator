@@ -60,9 +60,24 @@ naming_convention:
   - Алексей -> Alexei
   - Толстой -> Tolstoi
 higgsfield:
-  model: text2image_soul_v2
+  model: gpt_image_2
   aspect_ratio: "3:4"
   quality: 2k
+  render_quality: medium
+  # Druckoriginal nach assets/master/ (2k = ca. 1536x2048px, ~470 dpi im
+  # 5.5x8.5-Taschenbuchsatz). EPUB/DOCX/A5 behalten die 1024px-Fassung
+  # darunter in assets/chapter/. Beide Ordner bleiben per .gitignore draussen.
+  keep_master: true
+  image_processing:
+    format: JPEG
+    jpeg_quality: 60
+    max_width: 1024
+    max_height: 1024
+    master:
+      format: JPEG
+      jpeg_quality: 92
+      max_width: 2048
+      max_height: 2048
   moodboard:
     name: Buch Peter der Erste
     custom_reference_id: 8b79a5c6-5539-4257-9b42-537d82259bc4

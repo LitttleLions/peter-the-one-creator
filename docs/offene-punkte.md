@@ -795,8 +795,9 @@ Status: UMGESETZT und erweitert (2026-09-21, Trim/Profil/Bilder waehlbar).
   schliesst PARKIERT/WIP aus).
 - Dateiname: `…-55x85-classic-full-TIMESTAMP-paperback-interior.pdf`.
   Report: `*-print-report.json`. Vergleich: `tools/lib/print_compare.py`.
-- Pharao A–D (creme, 2026-09-21): 924 / 788 / 673 / 643 Seiten.
-  Tabelle: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260921-pharao-abcd.md`.
+- Pharao A–D (creme, 2026-09-27 nach der Leerseiten-Korrektur):
+  923 / 787 / 672 / 642 Seiten.
+  Tabelle: `books/pharao/exports/stil-02-poetisch/book/print/print-comparison-20260927-pharao-abcd.md`.
   A und B liegen ueber 776; C und D sind KDP-creme-tauglich.
 - Kopiertext neues Chat-Fenster: `docs/uebergabe-prompt.md`.
 

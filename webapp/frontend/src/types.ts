@@ -399,6 +399,22 @@ export type IllustrationSettingSaveResponse = {
   summary: BookSummary;
 };
 
+/** Pro-Buch-Schalter: grosse, regenerierbare Medien aus Git halten. */
+export type GitignoreSettings = {
+  book_id?: string;
+  saved?: boolean;
+  large_assets: boolean;
+  extra_patterns: string[];
+  disabled_patterns: string[];
+  patterns: string[];
+  gitignore_path: string;
+  state: string;
+};
+
+export type GitignoreSettingsSaveRequest = {
+  large_assets: boolean;
+};
+
 export type ReviewFileInfo = {
   path: string;
   name: string;

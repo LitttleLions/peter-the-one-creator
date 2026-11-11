@@ -27,6 +27,11 @@ import yaml
 sys.path.insert(0, str(Path(__file__).parent))
 
 from lib.book_project import find_book as find_book_project
+from lib.asset_images import (
+    MASTER_DIRNAME,
+    load_master_processing,
+    master_assets_enabled,
+)
 from lib.output_paths import (
     book_output_root,
     de_scene_path,
@@ -108,6 +113,7 @@ class IllustrationRequest:
     vignette_provider: str | None = None
     vignette_model: str | None = None
     vignette_overwrite: bool = False
+    no_master: bool = False
 
 
 def normalize_chapter_id(value: str) -> str:
@@ -148,9 +154,12 @@ def output_ext_for_format(fmt: str) -> str:
 
 
 def output_image_path(book: dict[str, Any], request: IllustrationRequest,
-                      image_processing: dict[str, Any] | None = None) -> Path:
+                      image_processing: dict[str, Any] | None = None,
+                      master: bool = False) -> Path:
     book_root = REPO_ROOT / str(book["book_root"])
     assets_root = book_root / "assets"
+    if master:
+        assets_root = assets_root / MASTER_DIRNAME
     ext = output_ext_for_format(
         (image_processing or {}).get("format", "JPEG")
     )
@@ -1271,16 +1280,13 @@ def _resize_image(image: Image.Image, image_processing: dict[str, Any]) -> Image
     return image
 
 
-def download_url(url: str, destination: Path,
-                 image_processing: dict[str, Any] | None = None,
-                 retries: int = 3) -> None:
-    """Laedt das fertige Bild und schreibt es als Export-Datei.
+def fetch_image_bytes(url: str, retries: int = 3) -> bytes:
+    """Laedt die Bilddaten des fertigen Jobs (mit Wiederholung).
 
     Der CDN antwortet gelegentlich mit einem abgebrochenen TLS-Handshake
     (WinError 10054); ohne Wiederholung waere ein bezahlter Job dann
     verloren, obwohl das Bild fertig ist.
     """
-    destination.parent.mkdir(parents=True, exist_ok=True)
     http_request = urllib.request.Request(
         url,
         headers={"User-Agent": "peter-the-one-creator/illustration-tool"},
@@ -1305,6 +1311,12 @@ def download_url(url: str, destination: Path,
         raise SystemExit(
             f"Download lieferte keine Daten ({last_error}). URL: {url}"
         )
+    return data
+
+
+def _write_image(data: bytes, destination: Path,
+                 image_processing: dict[str, Any] | None = None) -> None:
+    destination.parent.mkdir(parents=True, exist_ok=True)
     ip = image_processing or DEFAULT_IMAGE_PROCESSING
     fmt = str(ip.get("format", "JPEG")).strip().upper()
     if fmt == "PNG":
@@ -1325,6 +1337,30 @@ def download_url(url: str, destination: Path,
             image = image.convert("RGB")
             image.save(destination, format="JPEG",
                        quality=int(ip.get("jpeg_quality", 95)))
+
+
+def download_url(url: str, destination: Path,
+                 image_processing: dict[str, Any] | None = None) -> None:
+    _write_image(fetch_image_bytes(url), destination, image_processing)
+
+
+def store_illustration(
+    url: str,
+    reader_path: Path,
+    reader_processing: dict[str, Any] | None = None,
+    master_path: Path | None = None,
+    master_processing: dict[str, Any] | None = None,
+) -> None:
+    """Ein Download, zwei Ebenen: Druckoriginal und E-Reader-Fassung.
+
+    Die Reader-Variante ist immer eine saubere Verkleinerung desselben
+    Originals, nicht ein eigener Download. Ohne ``master_path`` verhaelt sich
+    die Funktion wie zuvor (nur Reader-Ziel).
+    """
+    data = fetch_image_bytes(url)
+    if master_path is not None:
+        _write_image(data, master_path, master_processing)
+    _write_image(data, reader_path, reader_processing)
 
 
 def write_prompt_files(
@@ -1390,8 +1426,26 @@ def generate_illustration(
     book = find_book_project(REPO_ROOT, request.book_id)
     image_processing = load_image_processing(book)
     image_path = output_image_path(book, request, image_processing)
+    # Druckoriginal unter assets/master/, damit der Taschenbuchsatz 300 dpi
+    # erreicht, waehrend EPUB/DOCX/A5 die kleine Reader-Fassung behalten.
+    keep_master = master_assets_enabled(book) and not getattr(
+        request, "no_master", False
+    )
+    master_image_processing = load_master_processing(book)
+    master_image_path = (
+        output_image_path(book, request, master_image_processing, master=True)
+        if keep_master
+        else None
+    )
     if image_path.exists() and not request.overwrite and not dry_run:
         raise SystemExit(f"Zielbild existiert bereits: {image_path}")
+    if (
+        master_image_path is not None
+        and master_image_path.exists()
+        and not request.overwrite
+        and not dry_run
+    ):
+        raise SystemExit(f"Zielbild existiert bereits: {master_image_path}")
 
     source_path, source_text = read_scene_text(book, request)
     vignette = resolve_vignette(book, request, source_text)
@@ -1562,7 +1616,10 @@ def generate_illustration(
             media_url=media_url,
             api_metadata=api_metadata,
         )
-        download_url(media_url, image_path, image_processing)
+        store_illustration(
+            media_url, image_path, image_processing,
+            master_image_path, master_image_processing,
+        )
         write_files(
             planned_command,
             is_dry_run=False,
@@ -1601,7 +1658,10 @@ def generate_illustration(
         job_result=job_result,
         media_url=media_url,
     )
-    download_url(media_url, image_path, image_processing)
+    store_illustration(
+            media_url, image_path, image_processing,
+            master_image_path, master_image_processing,
+        )
     write_files(
         command,
         is_dry_run=False,
@@ -1650,6 +1710,14 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     )
     parser.add_argument("--soul-id", help="Echte Soul-/Character-Referenz-ID")
     parser.add_argument("--soul-strength", type=float, help="Staerke fuer --soul-id")
+    parser.add_argument(
+        "--no-master",
+        action="store_true",
+        help=(
+            "Kein Druckoriginal unter assets/master/ ablegen; nur die "
+            "E-Reader-Fassung schreiben"
+        ),
+    )
     parser.add_argument(
         "--allow-paid-generation",
         action="store_true",
@@ -1728,6 +1796,7 @@ def main(argv: list[str] | None = None) -> int:
         vignette_provider=args.vignette_provider or defaults["vignette_provider"],
         vignette_model=args.vignette_model or defaults.get("vignette_model"),
         vignette_overwrite=bool(args.vignette_overwrite),
+        no_master=bool(args.no_master),
     )
     prompt_md, meta_json, image_path = generate_illustration(
         request,

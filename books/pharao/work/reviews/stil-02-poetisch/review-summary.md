@@ -2,7 +2,7 @@
 
 - Buch-ID: pharao
 - Stil: stil-02-poetisch
-- Erstellt: 2026-09-21T16:09:17
+- Erstellt: 2026-09-21T18:20:23
 - LLM: none
 - Kapitel: 69
 - Kapitel mit Befunden: 3

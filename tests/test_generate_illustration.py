@@ -515,15 +515,16 @@ class GenerateIllustrationTests(unittest.TestCase):
         self.assertEqual(payload["soul_id"], request.soul_id)
 
     def test_real_cli_generation_flow_uses_mocked_higgsfield_and_download(self) -> None:
-        def fake_download(url: str, destination: Path,
-                          image_processing=None) -> None:
+        def fake_download(url: str, destination: Path, _reader=None,
+                          _master_path: Path | None = None,
+                          _master=None) -> None:
             destination.parent.mkdir(parents=True, exist_ok=True)
             destination.write_bytes(f"downloaded from {url}".encode("utf-8"))
 
         with (
             patch.object(gi, "validate_higgsfield_available"),
             patch.object(gi, "run_json_command", return_value=[{"image_url": "https://example.test/image.jpg"}]) as run_json,
-            patch.object(gi, "download_url", side_effect=fake_download),
+            patch.object(gi, "store_illustration", side_effect=fake_download),
         ):
             _prompt_path, meta_path, image_path = gi.generate_illustration(
                 self.request(no_reference=True, backend="auto"),
@@ -542,8 +543,9 @@ class GenerateIllustrationTests(unittest.TestCase):
     def test_real_generation_flow_accepts_image_references_without_moodboard_schema(self) -> None:
         image_ref = "22222222-2222-4222-8222-222222222222"
 
-        def fake_download(url: str, destination: Path,
-                          image_processing=None) -> None:
+        def fake_download(url: str, destination: Path, _reader=None,
+                          _master_path: Path | None = None,
+                          _master=None) -> None:
             destination.parent.mkdir(parents=True, exist_ok=True)
             destination.write_bytes(b"image")
 
@@ -551,7 +553,7 @@ class GenerateIllustrationTests(unittest.TestCase):
             patch.object(gi, "validate_higgsfield_available"),
             patch.object(gi, "validate_moodboard_support") as moodboard_schema,
             patch.object(gi, "run_json_command", return_value={"result_url": "https://example.test/image.jpg"}) as run_json,
-            patch.object(gi, "download_url", side_effect=fake_download),
+            patch.object(gi, "store_illustration", side_effect=fake_download),
         ):
             _prompt_path, meta_path, image_path = gi.generate_illustration(
                 self.request(images=(image_ref,)),
@@ -567,8 +569,9 @@ class GenerateIllustrationTests(unittest.TestCase):
         self.assertEqual(meta["images"], [image_ref])
 
     def test_no_reference_generation_skips_reference_validation(self) -> None:
-        def fake_download(url: str, destination: Path,
-                          image_processing=None) -> None:
+        def fake_download(url: str, destination: Path, _reader=None,
+                          _master_path: Path | None = None,
+                          _master=None) -> None:
             destination.parent.mkdir(parents=True, exist_ok=True)
             destination.write_bytes(b"image")
 
@@ -576,7 +579,7 @@ class GenerateIllustrationTests(unittest.TestCase):
             patch.object(gi, "validate_higgsfield_available"),
             patch.object(gi, "validate_moodboard_support") as moodboard_schema,
             patch.object(gi, "run_json_command", return_value={"result_url": "https://example.test/image.jpg"}) as run_json,
-            patch.object(gi, "download_url", side_effect=fake_download),
+            patch.object(gi, "store_illustration", side_effect=fake_download),
         ):
             _prompt_path, meta_path, image_path = gi.generate_illustration(
                 self.request(no_reference=True),
@@ -594,15 +597,16 @@ class GenerateIllustrationTests(unittest.TestCase):
     def test_cli_generation_passes_soul_id_as_custom_reference(self) -> None:
         soul_id = "22222222-2222-4222-8222-222222222222"
 
-        def fake_download(url: str, destination: Path,
-                          image_processing=None) -> None:
+        def fake_download(url: str, destination: Path, _reader=None,
+                          _master_path: Path | None = None,
+                          _master=None) -> None:
             destination.parent.mkdir(parents=True, exist_ok=True)
             destination.write_bytes(b"image")
 
         with (
             patch.object(gi, "validate_higgsfield_available"),
             patch.object(gi, "run_json_command", return_value={"result_url": "https://example.test/image.jpg"}) as run_json,
-            patch.object(gi, "download_url", side_effect=fake_download),
+            patch.object(gi, "store_illustration", side_effect=fake_download),
         ):
             gi.generate_illustration(
                 self.request(no_reference=True, soul_id=soul_id),

@@ -44,10 +44,17 @@ Print-Satz mehr gebaut worden - die Schrift-Fixes (`ee90790`) fehlten ihm also.
   gilt die neutrale Palette (`DEFAULT_BACK_COLORS`: #f7f4ee / #3c332a /
   #a89478), die Autorenbio kommt aus `book.author_bio`, wenn nichts gesetzt ist.
   Damit bekommt jede KI bei einem neuen Print-Lauf automatisch das neue Format.
+- **Inhaltsverzeichnis auf Gruppen reduziert** (`front_matter.toc_depth: groups`,
+  neu in `export_manuscript.py`): Pharao listet nur **Buch I-III** statt 69
+  durchgezaehlter Kapitel ("Erstes Kapitel" ... "Neunundsechzigstes Kapitel"),
+  die in einer Liste nichts sagen und bei KDP als viele Markierungen auffallen.
+  Gilt fuer PDF/EPUB und DOCX; `chapters` bleibt der Default, andere Buecher
+  sind nicht betroffen. Der Satz schrumpfte dadurch auf **638 Seiten**
+  (vorher 640) - Ruecken 40,51 mm, Wrap `cover-wrap-20261111-130401-638.pdf`.
 - Alte Stempel geloescht: die 674er-`full_page`-Familie (Interior + Wrap) und
-  die 09/2026-Staende. Im print-Ordner liegt nur die 640er-Familie.
-- **Offen**: KDP-Upload (Interior `…-head-20261111-122824` + Wrap
-  `cover-wrap-20261111-125546-640`), danach Druckansicht bei Amazon pruefen.
+  die 09/2026-Staende. Im print-Ordner liegt nur die aktuelle 638er-Familie.
+- **Offen**: KDP-Upload (Interior `…-head-20261111-130322` + Wrap
+  `cover-wrap-20261111-130401-638`), danach Druckansicht bei Amazon pruefen.
 
 ## Letzte Session (2026-11-11, KDP-Paperback: Covergröße und Schriften)
 

@@ -550,6 +550,23 @@ Drei Print-PDFs (nicht verwechseln):
 | `*-paperback-complete.pdf` | Zum Blaettern: Coverseite, Text, Rueckseite - **nicht hochladen** |
 | `*-paperback-wrap.pdf` | Umschlag **als eine Flaeche** (Rueckseite \| Ruecken \| Vorderseite) fuer den KDP-Cover-Upload |
 
+### Inhaltsverzeichnis: Kapitel oder Gruppen
+
+`front_matter.toc_depth` steuert, was das Inhaltsverzeichnis listet:
+
+| Wert | Wirkung |
+| --- | --- |
+| `chapters` (Default) | Jedes Kapitel mit Link (bisheriges Verhalten) |
+| `groups` | Nur die Gruppen aus `book.yaml` `structure.groups` (z. B. Buch I-III) |
+
+`groups` ist fuer Buecher mit vielen durchgezaehlten Kapiteln gedacht: Bei
+`pharao` hiessen 69 Eintraege "Erstes Kapitel" bis "Neunundsechzigstes
+Kapitel" - in einer Liste sagt das nichts, und KDP beanstandet die vielen
+Markierungen. Mit `toc_depth: groups` steht dort nur noch `Buch I`, `Buch II`,
+`Buch III`, verlinkt auf die Gruppenanfaenge; der Satz wurde dadurch zwei
+Seiten kuerzer. Gilt fuer PDF/EPUB und DOCX. Die Kapitel selbst behalten ihre
+Ueberschriften und Anker.
+
 ### KDP-Covergroessen nachrechnen
 
 KDP meldet Abweichungen als zwei Zahlen, z. B.

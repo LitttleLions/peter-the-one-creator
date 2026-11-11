@@ -142,7 +142,11 @@ def build_contributors(book: dict[str, Any]) -> list[dict[str, str]]:
     if translator:
         person = split_person_name(translator)
         contributors.append({"role": "Translator", **person})
-    if str(book.get("translator_label") or "").strip():
+    editor = str(book.get("editor") or "").strip()
+    if editor:
+        # Eigenes Herausgeber-Feld: Rolle Editor mit dem Namen aus RomanForge, nie als Translator.
+        contributors.append({"role": "Editor", **split_person_name(editor)})
+    elif str(book.get("translator_label") or "").strip():
         contributors.append(
             {"role": "Editor", "firstName": "", "lastName": EDITOR_ORG}
         )

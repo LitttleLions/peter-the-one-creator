@@ -40,6 +40,7 @@ if str(_TOOLS_DIR) not in sys.path:
     sys.path.insert(0, str(_TOOLS_DIR))
 
 import export_manuscript as manuscript  # noqa: E402
+from lib.credits import apply_editor_credit  # noqa: E402
 from lib.output_paths import (  # noqa: E402
     book_exports_root,
     book_output_root,
@@ -591,7 +592,7 @@ def export_meta(book: dict[str, Any], repo_root: Path) -> dict[str, Any]:
     meta.setdefault("author", book.get("author", ""))
     meta.setdefault("language", "de-DE")
     meta["_base_dir"] = str(book_root(book, repo_root))
-    return meta
+    return apply_editor_credit(meta)
 
 
 def chapter_ids_with_de_scenes(

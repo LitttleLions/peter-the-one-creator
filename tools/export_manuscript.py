@@ -41,6 +41,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import yaml
 
 from lib.book_project import find_book as find_book_project
+from lib.credits import apply_editor_credit, publisher_label
 from lib.print_pdf import count_pdf_pages, export_paperback_interior, write_print_report
 from lib.print_spec import (
     CHAPTER_START_MODES,
@@ -147,7 +148,7 @@ def load_export_config(book: dict[str, Any]) -> dict[str, Any]:
     meta["appendices"] = data.get("appendices") or []
     meta["print"] = data.get("print") or {}
     meta["_base_dir"] = str(export_path.parent)
-    return meta
+    return apply_editor_credit(meta)
 
 
 def sanitize_filename(value: str) -> str:
@@ -774,7 +775,7 @@ def add_imprint_lines(
     if meta.get("translator"):
         lines.extend([f"**{translator_label(meta)}:** {meta['translator']}", ""])
     if meta.get("publisher"):
-        lines.extend([f"**Herausgeber:** {meta['publisher']}", ""])
+        lines.extend([f"**{publisher_label(meta)}:** {meta['publisher']}", ""])
     if meta.get("rights"):
         lines.extend([f"**Rechte:** {meta['rights']}", ""])
     lines.extend([f"**Sprache:** {meta.get('language', 'de-DE')}", ""])
@@ -830,7 +831,7 @@ def render_imprint_page_html(
             str(meta.get("subtitle", "")) if scope == "book" else "",
             str(meta.get("author", "")),
             f"{translator_label(meta)}: {meta['translator']}" if meta.get("translator") else "",
-            f"Herausgeber: {meta['publisher']}" if meta.get("publisher") else "",
+            f"{publisher_label(meta)}: {meta['publisher']}" if meta.get("publisher") else "",
             f"Rechte: {meta['rights']}" if meta.get("rights") else "",
             f"Sprache: {meta.get('language', 'de-DE')}",
         ]
@@ -1759,7 +1760,7 @@ def write_docx(
                 ("Untertitel", str(meta.get("subtitle", "")) if scope == "book" else ""),
                 ("Autor", str(meta.get("author", ""))),
                 (translator_label(meta), str(meta.get("translator", ""))),
-                ("Herausgeber", str(meta.get("publisher", ""))),
+                (publisher_label(meta), str(meta.get("publisher", ""))),
                 ("Rechte", str(meta.get("rights", ""))),
                 ("Sprache", str(meta.get("language", "de-DE"))),
             ]

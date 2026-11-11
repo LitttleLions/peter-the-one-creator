@@ -104,6 +104,11 @@ Ablauf (jeder Schritt mit Kurzbericht, dann weiter):
    .\.venv\Scripts\python.exe tools/sync_romanforge_characters.py --book <id> --handoff <Uebergabe-ID>
    Danach die Gegenueberstellung zeigen: ... tools/sync_romanforge_characters.py --book <id> --aussehen
    Mein Ja zu den Kapiteln gilt nicht fuer --apply; frag danach einmal konkret "--apply ausfuehren?".
+5b. Buchangaben (Autor, Untertitel, Reihe, Band, Verlag, Herausgeber, Klappentext; RomanForge ist die Quelle):
+   .\.venv\Scripts\python.exe tools/rf_metadata.py --book <id> --handoff <Uebergabe-ID>
+   Trockenlauf: ist nichts zu tun, kommt eine Zeile, sonst nur die betroffenen Felder. Identitaetsfelder
+   ueberschreibt --apply; ein von Hand geaenderter Klappentext bleibt ("weicht-ab"), --force-meta blurb
+   uebernimmt ihn. Der Titel wird nie geschrieben. Auch hier erst nach meiner konkreten Antwort --apply.
 6. Marketing: erst tools/export_marketing.py --book <id> --dry-run. Das Paket aus vorhandenen Texten
    ist kostenlos. Neue Texterzeugung ueber OpenRouter (--provider openrouter --regenerate) und
    Higgsfield nur nach meiner ausdruecklichen Freigabe je Aufruf.

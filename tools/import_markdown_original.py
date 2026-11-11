@@ -914,6 +914,13 @@ def cmd_new(args: argparse.Namespace) -> int:
     if args.handoff:
         from lib import rf_characters as rfc  # noqa: E402
         expose_path = rfc.write_expose(book_root, args.handoff, handoff_data.get("expose"))
+        # Buchangaben aus der Uebergabe (Herausgeber, Klappentext, Band ...) uebernehmen und als Stand merken.
+        from lib import rf_metadata as rfm  # noqa: E402
+        rfm.apply_actions(
+            book_root,
+            rfm.plan_metadata(rfm.rf_values(handoff_data), rfm.current_values(book_root), {}),
+            args.handoff, adopted={},
+        )
         # Figuren aus der Uebergabe: Spiegel ablegen und names.yaml mit draft-Eintraegen anlegen.
         from lib.name_registry import write_names  # noqa: E402
         characters = rfc.normalize_characters(handoff_data.get("characters"))

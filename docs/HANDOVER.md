@@ -50,11 +50,18 @@ Print-Satz mehr gebaut worden - die Schrift-Fixes (`ee90790`) fehlten ihm also.
   die in einer Liste nichts sagen und bei KDP als viele Markierungen auffallen.
   Gilt fuer PDF/EPUB und DOCX; `chapters` bleibt der Default, andere Buecher
   sind nicht betroffen. Der Satz schrumpfte dadurch auf **638 Seiten**
-  (vorher 640) - Ruecken 40,51 mm, Wrap `cover-wrap-20261111-130401-638.pdf`.
+  (vorher 640); mit der Kataloggrenze unten sind es **637 Seiten**.
+- **Reihenkatalog auf zwei Seiten begrenzt** (`CATALOG_LIMIT = 6`, je drei
+  Eintraege pro Seite): Pharao hatte 7 Katalogtitel, der siebte landete allein
+  auf Seite 638 mit zwei Dritteln Leerraum. Jetzt endet der Katalog auf zwei
+  vollen Seiten; Satz **637 Seiten**, Ruecken 40,44 mm, Wrap
+  `cover-wrap-20261111-130901-637.pdf`. Gilt fuer alle Buecher und alle
+  Formate (EPUB, PDF, Paperback, DOCX); die volle Liste gibt es weiter ueber
+  `load_series_catalog(..., limit=None)`.
 - Alte Stempel geloescht: die 674er-`full_page`-Familie (Interior + Wrap) und
-  die 09/2026-Staende. Im print-Ordner liegt nur die aktuelle 638er-Familie.
-- **Offen**: KDP-Upload (Interior `…-head-20261111-130322` + Wrap
-  `cover-wrap-20261111-130401-638`), danach Druckansicht bei Amazon pruefen.
+  die 09/2026-Staende. Im print-Ordner liegt nur die aktuelle 637er-Familie.
+- **Offen**: KDP-Upload (Interior `…-head-20261111-130819` + Wrap
+  `cover-wrap-20261111-130901-637`), danach Druckansicht bei Amazon pruefen.
 
 ## Letzte Session (2026-11-11, KDP-Paperback: Covergröße und Schriften)
 

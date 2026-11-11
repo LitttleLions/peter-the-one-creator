@@ -636,6 +636,12 @@ Komplett-PDF ohne Coverbild, der Wrap entfaellt.
 
 Reihenkatalog (andere Motivatier-Classics) haengt EPUB und Paperback an.
 Abschalten pro Buch: `website.catalog: false` in `export.yaml`.
+Der Katalog ist auf **zwei Seiten zu je drei Eintraegen** ausgelegt
+(`CATALOG_LIMIT = 6` in `tools/lib/series_catalog.py`); die Seitenumbruch-
+Marke `series-page-break` sitzt nach jedem dritten Eintrag. Ein siebter Titel
+landete sonst allein auf einer dritten, halbleeren Seite (Befund 2026-11-11
+bei `pharao`). Wer die volle Liste braucht (Dashboard, Website), ruft
+`load_series_catalog(..., limit=None)`.
 
 Coverpfade sind relativ zum Buchpaket:
 

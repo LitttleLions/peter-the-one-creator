@@ -39,7 +39,7 @@ defaults:
     scene_page_break_after_image: false
 book:
   title: Die dritte Chronik
-  subtitle: Die Chronik derer, die nicht schreiben duerfen
+  subtitle: Im Schatten Dschingis Khans
   author: Timo Verita
   translator: Motivatier Classics
   translator_label: Herausgabe und editorische Einrichtung

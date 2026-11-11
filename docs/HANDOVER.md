@@ -7,6 +7,36 @@
 > **Diese Datei erst lesen, wenn die konkrete Aufgabe sie braucht.**
 > Einstiegskosten und Hebel (gemessen): [kontextanalyse.md](./kontextanalyse.md).
 
+## Letzte Session (2026-11-11 nachmittags, `die-dritte-chronik` als Paperback)
+
+Branch **`main`**. Pharao ist bei KDP hochgeladen (Testbuch, Wartezeit) - der
+erste Band, an dem die neue Satzlogik geprueft wird. Parallel die Chronik als
+zweites Druckbuch aufgebaut.
+
+- **Autorvita ersetzt** (`export.yaml: book.author_bio`, Nutzertext,
+  2 Absaetze): Buchstabenspiel, zwei Haelfte Mensch/Maschine, Lehrjahre,
+  Motivatier Classics; zweiter Absatz mit dem Zeitraum 1241-1251.
+  Literaler YAML-Block (`|`), sonst faellt der Absatzabstand weg.
+- **Druckcover 4k** (`gpt_image_2_5`, `2:3`, `resolution 4k`,
+  `quality medium`, Job `497711b5`, 1,25 Credits): drei Chronisten am Tisch,
+  Zeltstadt, Berge, goldene Schrift. `MOTIVATIER CLASSICS` /
+  `DIE DRITTE CHRONIK` / `TIMO VERITA` fehlerfrei. Prompt, Job und
+  PNG-Master unter `work/prompts/higgsfield/cover-print-4k-20261111.*`.
+  Der CDN-Download brach einmal mit `WinError 10054` ab (bekannt); der
+  zweite Versuch holte die Datei.
+- **Druckdatei** `assets/covers/cover-print.jpg`: 1838x2775 px, 300 dpi,
+  6,127 x 9,250 in. Das 4k-Bild ist 2:3, das Panel 0,662 - nur **0,7 %**
+  Beschnitt, der Zierrahmen bleibt vollstaendig. (Das Ebook-Cover ist 3:4 und
+  haette 11,7 % seitlich verloren.)
+- **Print-Satz** `6x9 / long_classic / chapter_head` = **262 Seiten**, Bundsteg
+  12,7 mm (Band bis 300), Report `status: warning` nur wegen des
+  Bundsteg-Neulaufs. Bei dieser Seitenzahl ist der Bundsteg genau so hoch wie
+  der Aussenrand - die Entkopplung wirkt erst bei dicken Buechern.
+- **Wrap** `cover-wrap-20261111-135642-262.pdf`: 327,7 x 234,9 mm, Ruecken
+  16,64 mm. Gestaltete Rueckseite (Standardpalette) mit Klappentext und der
+  neuen Vita.- **Offen**: Chronik bei KDP als Paperback hochladen und die Druckansicht
+  pruefen.
+
 ## Letzte Session (2026-11-11 spaeter, `pharao`: Druckcover 4k + 6x9-Satz + Wrap)
 
 Branch **`main`**, gepusht (`32ce84b`). Pharao hatte bis dahin **kein**

@@ -36,11 +36,18 @@ Print-Satz mehr gebaut worden - die Schrift-Fixes (`ee90790`) fehlten ihm also.
 - **`export.yaml` hat jetzt feste Print-Defaults** (`trim_size`, `layout_profile`,
   `illustration_mode`, `paper`). Vorher fiel Pharao ohne CLI-Flags auf
   5,5x8,5/classic/full_page zurueck = **924 Seiten**, ueber dem Cream-Limit 776.
-- Alte Stempel 2026-09-21/27 geloescht (44 PDFs/Reports, 1,52 GB); vier davon
-  waren getrackte Report-JSONs und sind im Commit `32ce84b` als Loeschung
-  enthalten. `print-comparison-*.md` bleiben.
-- **Offen**: KDP-Upload (Interior `…-full-20261111-115518` + Wrap `…-674`),
-  Entscheidung `full_page` vs. `chapter_head`, danach ggf. neuer Satz + Wrap.
+- **Gestaltete Umschlagrueckseite** (2026-11-11): Papierweiss statt Weiss,
+  Titel in Rotbraun, Zierlinie mit Ornament, Klappentext mit Initiale, Tagline,
+  Herodot-Zitat, Block "Ueber den Autor", Ruecken mit Verlauf und Ornamenten.
+  Gestaltet ist seit `d73694f`/diesem Stand der **Standard fuer alle Buecher**;
+  schlicht nur noch mit `print.back_cover.styled: false`. Ohne eigene Farben
+  gilt die neutrale Palette (`DEFAULT_BACK_COLORS`: #f7f4ee / #3c332a /
+  #a89478), die Autorenbio kommt aus `book.author_bio`, wenn nichts gesetzt ist.
+  Damit bekommt jede KI bei einem neuen Print-Lauf automatisch das neue Format.
+- Alte Stempel geloescht: die 674er-`full_page`-Familie (Interior + Wrap) und
+  die 09/2026-Staende. Im print-Ordner liegt nur die 640er-Familie.
+- **Offen**: KDP-Upload (Interior `…-head-20261111-122824` + Wrap
+  `cover-wrap-20261111-125546-640`), danach Druckansicht bei Amazon pruefen.
 
 ## Letzte Session (2026-11-11, KDP-Paperback: Covergröße und Schriften)
 

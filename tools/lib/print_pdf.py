@@ -299,8 +299,12 @@ def illustration_dpi_warnings(
     except ImportError:
         return []
 
-    side_mm = spec.side_margin_mm(page_count)
-    type_width_in = max(0.5, spec.trim_width_in - (2 * side_mm / 25.4))
+    # Satzbreite: innen liegt der Bundsteg an, aussen der feste Aussenrand.
+    # Der engere der beiden bestimmt die Breite, die das Bild nutzen kann.
+    inner_mm = spec.gutter_margin_mm(page_count)
+    outer_only_mm = spec.side_margin_mm(page_count)
+    usable_mm = spec.trim_width_in * 25.4 - inner_mm - outer_only_mm
+    type_width_in = max(0.5, usable_mm / 25.4)
     width_ratio = ILLUSTRATION_MAX_WIDTH_RATIO
     if spec.illustration_mode == "chapter_head":
         width_ratio = ILLUSTRATION_HEAD_WIDTH_RATIO
@@ -384,7 +388,7 @@ def export_paperback_interior(
         iterations += 1
         rerendered = True
 
-    side_mm = spec.side_margin_mm(actual_pages)
+    outer_mm = spec.side_margin_mm(actual_pages)
     if stamp:
         stamp_running_matter(
             pdf_path,
@@ -393,7 +397,7 @@ def export_paperback_interior(
             title=title,
             skip_pages=frontmatter_sections,
             work_dir=html_path.parent,
-            side_margin_mm=side_mm,
+            side_margin_mm=outer_mm,
         )
 
     kdp_max = spec.kdp_max_pages()
@@ -434,8 +438,9 @@ def export_paperback_interior(
         "page_count": actual_pages,
         "kdp_max_pages": kdp_max,
         "within_kdp_page_limit": within_limit,
-        "gutter_mm": spec.gutter_mm(actual_pages),
-        "side_margin_mm": side_mm,
+        "gutter_mm": spec.gutter_margin_mm(actual_pages),
+        "side_margin_mm": outer_mm,
+        "outer_margin_mm": outer_mm,
         "iterations": iterations,
         "gutter_rerendered": rerendered,
         "cover_omitted": True,

@@ -523,9 +523,26 @@ class PrintSpec:
     def gutter_mm(self, page_count: int) -> float:
         return kdp_gutter_mm(page_count)
 
-    def side_margin_mm(self, page_count: int) -> float:
-        """Chromium: Innen = Aussen = max(Bundsteg, Mindest-Aussensteg)."""
+    def gutter_margin_mm(self, page_count: int) -> float:
+        """Innenrand (Bundsteg): waechst mit der Seitenzahl, nie unter dem Minimum."""
         return max(self.gutter_mm(page_count), self.min_outer_mm)
+
+    def outer_margin_mm(self, page_count: int) -> float:
+        """Aussenrand: fest, entkoppelt vom Bundsteg.
+
+        Frueher war aussen = innen = max(Bundsteg, min_outer). Da der Bundsteg
+        mit der Seitenzahl waechst (9,6 -> 22,3 mm), wuchs der Aussenrand mit
+        und der Satzspiegel wurde bei dicken Buechern unnoetig schmal
+        (Befund 2026-11-11 aus der KDP-Druckvorschau: bei 637 Seiten lagen
+        aussen 19,1 mm an, KDP-Minimum waere 6,4 mm).
+        """
+        return max(self.min_outer_mm, 0.0)
+
+    def side_margin_mm(self, page_count: int) -> float:
+        """Chromium setzt links und rechts denselben Rand; hier der kleinere
+        der beiden (aussen). Die Bundsteg-Differenz wird als Overlay
+        aufgesetzt - siehe ``gutter_margin_mm``."""
+        return self.outer_margin_mm(page_count)
 
     def type_height_mm(self) -> float:
         return max(1.0, self.trim_height_in * 25.4 - self.top_mm - self.bottom_mm)
@@ -540,8 +557,10 @@ class PrintSpec:
         return 90.0
 
     def needs_rerender(self, assumed_pages: int, actual_pages: int) -> bool:
-        assumed = round(self.side_margin_mm(assumed_pages), 1)
-        actual = round(self.side_margin_mm(actual_pages), 1)
+        """Neu setzen, wenn sich der Bundsteg-Band aendert (der Aussenrand ist
+        fest und loest keinen zweiten Lauf mehr aus)."""
+        assumed = round(self.gutter_margin_mm(assumed_pages), 1)
+        actual = round(self.gutter_margin_mm(actual_pages), 1)
         return assumed != actual
 
     def scaled_words_per_page(self) -> int:

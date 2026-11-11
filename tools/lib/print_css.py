@@ -39,7 +39,8 @@ def _chapter_break_css(spec: PrintSpec) -> str:
 
 
 def build_paperback_css(spec: PrintSpec, css_path: Path, page_count: int) -> str:
-    side = spec.side_margin_mm(page_count)
+    outer = spec.outer_margin_mm(page_count)
+    gutter = spec.gutter_margin_mm(page_count)
     regular = css_asset_url(spec.font_regular_path, css_path)
     italic = css_asset_url(spec.font_italic_path, css_path)
     family = spec.font_family
@@ -62,9 +63,21 @@ def build_paperback_css(spec: PrintSpec, css_path: Path, page_count: int) -> str
         f"  font-display: swap;\n"
         f"}}\n"
         f"\n"
+        # Chromium kann @page :left/:right (getestet 2026-11-11). Damit ist der
+        # Bundsteg innen moeglich, waehrend aussen ein fester Rand bleibt.
+        # Frueher war aussen = innen = Bundsteg, wodurch der Satzspiegel bei
+        # dicken Buechern unnoetig schmal wurde.
         f"@page {{\n"
         f"  size: {spec.trim_css()};\n"
-        f"  margin: {mm(spec.top_mm)} {mm(side)} {mm(spec.bottom_mm)} {mm(side)};\n"
+        f"  margin: {mm(spec.top_mm)} {mm(outer)} {mm(spec.bottom_mm)} {mm(outer)};\n"
+        f"}}\n"
+        f"@page :right {{\n"
+        f"  margin-left: {mm(gutter)};\n"
+        f"  margin-right: {mm(outer)};\n"
+        f"}}\n"
+        f"@page :left {{\n"
+        f"  margin-left: {mm(outer)};\n"
+        f"  margin-right: {mm(gutter)};\n"
         f"}}\n"
         f"\n"
         f"* {{ box-sizing: border-box; }}\n"

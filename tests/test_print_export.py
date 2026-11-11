@@ -79,13 +79,22 @@ class PrintSpecTests(unittest.TestCase):
         self.assertAlmostEqual(wrap_width_in(200, 5.5), 11.75)
         self.assertAlmostEqual(wrap_height_in(8.5), 8.75)
 
-    def test_side_margin_uses_min_outer(self) -> None:
+    def test_outer_margin_is_fixed_and_gutter_grows(self) -> None:
+        """Aussenrand fest, Bundsteg waechst mit der Seitenzahl (2026-11-11).
+
+        Frueher war aussen = innen = Bundsteg; dadurch wurde der Satzspiegel
+        bei dicken Buechern unnoetig schmal (KDP-Druckvorschau).
+        """
         spec = PrintSpec.from_dict({}, REPO_ROOT)
         self.assertEqual(spec.side_margin_mm(120), 12.7)
         self.assertEqual(spec.side_margin_mm(200), 12.7)
-        self.assertEqual(spec.side_margin_mm(400), 15.9)
+        self.assertEqual(spec.side_margin_mm(400), 12.7)
+        self.assertEqual(spec.outer_margin_mm(400), 12.7)
+        self.assertEqual(spec.gutter_margin_mm(120), 12.7)
+        self.assertEqual(spec.gutter_margin_mm(400), 15.9)
+        self.assertEqual(spec.gutter_margin_mm(637), 19.1)
 
-    def test_needs_rerender_only_when_side_margin_changes(self) -> None:
+    def test_needs_rerender_only_when_gutter_band_changes(self) -> None:
         spec = PrintSpec.from_dict({}, REPO_ROOT)
         self.assertFalse(spec.needs_rerender(120, 200))
         self.assertTrue(spec.needs_rerender(200, 400))
@@ -116,7 +125,13 @@ class PrintCssTests(unittest.TestCase):
         self.assertIn("@font-face", css)
         self.assertIn("text-align: justify", css)
         self.assertIn("text-indent: 1.2em", css)
-        self.assertIn("margin: 16mm 15.9mm 18mm 15.9mm", css)
+        # Aussenrand fest (12.7 mm), Bundsteg seitenabhaengig innen (15.9 mm
+        # im Band bis 500 Seiten).
+        self.assertIn("margin: 16mm 12.7mm 18mm 12.7mm", css)
+        self.assertIn("@page :right", css)
+        self.assertIn("@page :left", css)
+        self.assertIn("margin-left: 15.9mm", css)
+        self.assertIn("margin-right: 15.9mm", css)
         self.assertNotIn("size: A5", css)
         self.assertIn(".scene-text blockquote", css)
         self.assertIn("font-style: italic", css)

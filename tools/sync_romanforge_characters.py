@@ -32,12 +32,15 @@ except Exception:
 
 from lib.book_project import find_book  # noqa: E402
 from lib.name_registry import load_names, write_names  # noqa: E402
+from lib import rf_binding as rfb  # noqa: E402
 from lib import rf_characters as rfc  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 
 
-def _load_source(args: argparse.Namespace, book_root: Path) -> tuple[str, list[dict], bool]:
+def _load_source(
+    args: argparse.Namespace, book_root: Path, book_id: str = "", book_cfg: dict | None = None,
+) -> tuple[str, list[dict], bool]:
     """Liefert (handoff_id, Figuren, neu_abgerufen)."""
     if args.snapshot:
         data = json.loads(Path(args.snapshot).read_text(encoding="utf-8"))
@@ -45,7 +48,16 @@ def _load_source(args: argparse.Namespace, book_root: Path) -> tuple[str, list[d
         return handoff_id, rfc.normalize_characters(data.get("characters")), True
     if args.handoff:
         from lib.romanforge_client import RomanForgeConfig, get_handoff_data  # noqa: E402
-        data = get_handoff_data(RomanForgeConfig.from_env(), args.handoff)
+        config = RomanForgeConfig.from_env()
+        data = get_handoff_data(config, args.handoff)
+        from lib.book_project import discover_projects  # noqa: E402
+        errors = rfb.check_update(
+            book_id=book_id, book_cfg=book_cfg or {}, handoff_data=data, env_url=config.base_url,
+            books=[(p.id, p.config) for p in discover_projects(REPO_ROOT)],
+            state_rf_ids=[], snapshot_ids=[],
+        )
+        if errors:
+            raise SystemExit("\n".join(f"FEHLER: {message}" for message in errors))
         if "characters" not in data:
             raise SystemExit(
                 "Diese Uebergabe enthaelt keine Figuren (aeltere RomanForge-Version?). "
@@ -82,7 +94,7 @@ def main(argv: list[str] | None = None) -> int:
     target_lang = str(book.get("target_lang") or "")
     same_language = bool(source_lang) and source_lang == target_lang
 
-    handoff_id, characters, fetched = _load_source(args, book_root)
+    handoff_id, characters, fetched = _load_source(args, book_root, args.book, book)
     names_path = book_root / "names.yaml"
     entries = load_names(names_path)
     if args.aussehen:

@@ -89,6 +89,11 @@ Ablauf (jeder Schritt mit Kurzbericht, dann weiter):
 1. Zugang pruefen: In .env muessen ROMANFORGE_URL und ROMANFORGE_API_KEY stehen. Nur melden, ob sie
    vorhanden sind, Werte nie anzeigen. Fehlen sie, anhalten und mich fragen.
 2. Modus: NEU (Buch in peter unbekannt) oder AKTUALISIEREN. Passt er nicht zum Stand: anhalten und fragen.
+   Die Zuordnung Buch <-> RomanForge-Projekt steht fest in books/<id>/book.yaml (Block `romanforge:` mit
+   instance und project_id), nie ueber den Titel. Ein Buch ohne Block einmalig binden (Trockenlauf, dann
+   mit --apply): .\.venv\Scripts\python.exe tools/import_markdown_original.py --book <id> --handoff <Uebergabe-ID> --bind
+   Passt Instanz oder Projekt-ID nicht oder tragen zwei Buecher dieselbe Bindung, bricht das Werkzeug mit
+   Exit 2 ab: stoppen und mich fragen.
 3. Vergleich (schreibt nichts), nur die Tabelle zeigen:
    .\.venv\Scripts\python.exe tools/import_markdown_original.py --book <id> --handoff <Uebergabe-ID> --compare
 4. Auf meine Freigabe: --accept, hoechstens 5 Kapitel pro Lauf; --keep nur nach Absprache. Danach pro

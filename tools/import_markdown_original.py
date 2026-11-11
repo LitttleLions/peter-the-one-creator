@@ -533,6 +533,11 @@ def build_parser() -> argparse.ArgumentParser:
     ap.add_argument("--compare", action="store_true", help="Nur Bericht, schreibt nichts")
     ap.add_argument("--accept", action="append", default=None, help="Kapitel uebernehmen, z.B. 008 oder 008,012")
     ap.add_argument("--keep", action="append", default=None, help="peter-Text behalten, z.B. 008 oder 008,012")
+    ap.add_argument("--bind", action="store_true",
+                    help="Bestehendes Buch an das RomanForge-Projekt der Uebergabe binden (Trockenlauf; mit --apply schreiben)")
+    ap.add_argument("--apply", action="store_true", help="Mit --bind: Bindung in book.yaml schreiben")
+    ap.add_argument("--project-id", type=int, default=None,
+                    help="Mit --bind: Projekt-ID bestaetigen, wenn der Inhaltsabgleich nichts beweist")
     ap.add_argument("--new", action="store_true", help="Neues DE-Original anlegen")
     ap.add_argument("--id", default=None)
     ap.add_argument("--title", default=None)
@@ -805,7 +810,25 @@ def cmd_new(args: argparse.Namespace) -> int:
         source_name = f"romanforge-{args.handoff}.md"
         source_is_download = True
         chapter_entries = _chapters_from_handoff(handoff_data)
+        from lib import rf_binding as rfb  # noqa: E402
+        new_key = rfb.handoff_key(handoff_data)
+        if new_key is None:
+            print("FEHLER: Uebergabe nennt keine Instanz oder Projekt-ID.", file=sys.stderr)
+            return 2
+        if rfb.normalize_host(config.base_url) != new_key[0]:
+            print(
+                f"FEHLER: Instanz der Uebergabe ({new_key[0]}) passt nicht zu ROMANFORGE_URL "
+                f"({rfb.normalize_host(config.base_url) or '-'}).", file=sys.stderr)
+            return 2
+        from lib.book_project import discover_projects  # noqa: E402
+        taken_by = rfb.find_bound([(p.id, p.config) for p in discover_projects(REPO_ROOT)], new_key)
+        if taken_by:
+            print(
+                f"FEHLER: {new_key[0]} Projekt {new_key[1]} ist schon an das Buch "
+                f"'{', '.join(taken_by)}' gebunden. Aktualisieren statt --new.", file=sys.stderr)
+            return 2
     else:
+        new_key = None
         if not args.source:
             print("FEHLER: --source mit RomanForge-Export angeben.", file=sys.stderr)
             return 2
@@ -880,6 +903,8 @@ def cmd_new(args: argparse.Namespace) -> int:
     book_yaml = _neutral_book_yaml(args, source_name, book_id)
     (book_root / "book.yaml").write_text(
         yaml.safe_dump(book_yaml, allow_unicode=True, sort_keys=False), encoding="utf-8")
+    if new_key is not None:
+        rfb.append_binding(book_root / "book.yaml", new_key[0], new_key[1])
     (book_root / "export.yaml").write_text(
         yaml.safe_dump(_neutral_export_yaml(args), allow_unicode=True, sort_keys=False),
         encoding="utf-8")
@@ -991,6 +1016,69 @@ def baseline_hashes(baseline_path: Path) -> dict[str, str]:
     }
 
 
+def _binding_gate(args, book_root, book_cfg, handoff_data, config, export_text, export_rf_ids) -> int | None:
+    """Prueft Buch gegen Uebergabe (Instanz, Projekt-ID, Eindeutigkeit) oder fuehrt --bind aus.
+
+    Rueckgabe None = weiter mit dem Import, sonst Exit-Code.
+    """
+    from lib import rf_binding as rfb  # noqa: E402
+    from lib.book_project import discover_projects  # noqa: E402
+
+    book_id = str(book_cfg.get("id") or book_root.name)
+    books = [(p.id, p.config) for p in discover_projects(REPO_ROOT)]
+    state = load_state(state_path_for(book_root))
+    snapshot_ids = [rid for rid in (export_rf_ids or []) if rid]
+    if args.bind:
+        key = rfb.handoff_key(handoff_data)
+        if key is None:
+            print("FEHLER: Uebergabe nennt keine Instanz oder Projekt-ID.", file=sys.stderr)
+            return 2
+        if rfb.normalize_host(config.base_url) != key[0]:
+            print(f"FEHLER: Instanz der Uebergabe ({key[0]}) passt nicht zu ROMANFORGE_URL "
+                  f"({rfb.normalize_host(config.base_url) or '-'}).", file=sys.stderr)
+            return 2
+        existing = rfb.read_binding(book_cfg)
+        if existing == key:
+            print(f"Buch '{book_id}' ist bereits an {key[0]} Projekt {key[1]} gebunden.")
+            return 0
+        if existing is not None:
+            print(f"FEHLER: Buch '{book_id}' ist schon an {existing[0]} Projekt {existing[1]} gebunden; "
+                  "book.yaml nicht automatisch umschreiben.", file=sys.stderr)
+            return 2
+        taken_by = rfb.find_bound(books, key)
+        if taken_by:
+            print(f"FEHLER: {key[0]} Projekt {key[1]} ist schon an '{', '.join(taken_by)}' gebunden.",
+                  file=sys.stderr)
+            return 2
+        hashes = [text_hash(canonical_text(body)) for _t, body in split_chapters(export_text)]
+        proven, reason = rfb.prove_by_chapters(
+            state_chapters=state.get("chapters") or {}, snapshot_ids=snapshot_ids, snapshot_hashes=hashes)
+        print(f"Buch '{book_id}' -> {key[0]} Projekt {key[1]} (\"{(handoff_data.get('project') or {}).get('title', '')}\")")
+        print(f"Nachweis: {reason}")
+        if not proven:
+            if args.project_id != key[1]:
+                print(f"Kein Nachweis ueber Inhalte. Wenn das Buch wirklich zu Projekt {key[1]} gehoert: "
+                      f"--project-id {key[1]} angeben.", file=sys.stderr)
+                return 2
+            print(f"Projekt-ID {key[1]} vom Autor bestaetigt.")
+        if not args.apply:
+            print("Trockenlauf - nichts geschrieben. Mit --apply in book.yaml eintragen.")
+            return 0
+        rfb.append_binding(book_root / "book.yaml", key[0], key[1])
+        print(f"book.yaml: Block 'romanforge' ergaenzt ({key[0]}, Projekt {key[1]}).")
+        return 0
+    state_ids = [str(c["rf_id"]) for c in (state.get("chapters") or {}).values()
+                 if isinstance(c, dict) and c.get("rf_id")]
+    errors = rfb.check_update(
+        book_id=book_id, book_cfg=book_cfg, handoff_data=handoff_data, env_url=config.base_url,
+        books=books, state_rf_ids=state_ids, snapshot_ids=snapshot_ids)
+    if errors:
+        for message in errors:
+            print(f"FEHLER: {message}", file=sys.stderr)
+        return 2
+    return None
+
+
 def main(argv: list[str] | None = None) -> int:
     try:
         sys.stdout.reconfigure(encoding="utf-8")
@@ -999,18 +1087,41 @@ def main(argv: list[str] | None = None) -> int:
     args = build_parser().parse_args(argv)
     if args.new:
         return cmd_new(args)
-    book_root, book_cfg = resolve_book_root(args.book, args.book_root)
-    book_title = str(book_cfg.get("title") or book_cfg.get("id") or book_root.name)
-    style = str(book_cfg.get("style_mode") or "stil-01-original")
+    if args.bind and not (args.handoff and (args.book or args.book_root)):
+        print("FEHLER: --bind braucht --book <id> und --handoff <id>.", file=sys.stderr)
+        return 2
     export_rf_ids: list[str | None] | None = None
+    handoff_data: dict = {}
+    config = None
     if args.handoff:
         from lib.romanforge_client import (  # noqa: E402
             RomanForgeConfig, chapter_rf_ids, export_text_from_data, get_handoff_data,
         )
         config = RomanForgeConfig.from_env()
         handoff_data = get_handoff_data(config, args.handoff)
+        if not args.book and not args.book_root:
+            from lib import rf_binding as rfb  # noqa: E402
+            from lib.book_project import discover_projects  # noqa: E402
+            key = rfb.handoff_key(handoff_data)
+            found = rfb.find_bound([(p.id, p.config) for p in discover_projects(REPO_ROOT)], key) if key else []
+            if len(found) != 1:
+                print(
+                    "FEHLER: kein eindeutiges Buch fuer diese Uebergabe gefunden "
+                    f"({key[0]} Projekt {key[1]}; Treffer: {', '.join(found) or 'keiner'}). "
+                    "Erst binden: --book <id> --handoff <id> --bind." if key else
+                    "FEHLER: Uebergabe nennt keine Instanz oder Projekt-ID.",
+                    file=sys.stderr)
+                return 2
+            args.book = found[0]
+    book_root, book_cfg = resolve_book_root(args.book, args.book_root)
+    book_title = str(book_cfg.get("title") or book_cfg.get("id") or book_root.name)
+    style = str(book_cfg.get("style_mode") or "stil-01-original")
+    if args.handoff:
         export_text = export_text_from_data(handoff_data)
         export_rf_ids = chapter_rf_ids(handoff_data)
+        code = _binding_gate(args, book_root, book_cfg, handoff_data, config, export_text, export_rf_ids)
+        if code is not None:
+            return code
     else:
         source_arg = args.source or str(
             _resolve_under_book(book_root, str(book_cfg.get("source_path") or "")))

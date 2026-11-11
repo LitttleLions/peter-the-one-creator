@@ -235,12 +235,16 @@ class NewBookFromHandoffTests(unittest.TestCase):
         import yaml
         import import_markdown_original as mod
 
+        from types import SimpleNamespace
+
         handoff = {
+            "instance": "http://rf.example.de", "project": {"id": 3, "title": "Testbuch"},
             "chapters": [{"id": 5, "number": 1, "title": "Eins", "content": "Mara geht los."}],
             "characters": [ch("u1", "Mara"), ch("u2", "Ben", appearance=None, role=None)],
         }
         with tempfile.TemporaryDirectory() as tmp, \
-                mock.patch("lib.romanforge_client.RomanForgeConfig.from_env", return_value=object()), \
+                mock.patch("lib.romanforge_client.RomanForgeConfig.from_env",
+                           return_value=SimpleNamespace(base_url="https://rf.example.de")), \
                 mock.patch("lib.romanforge_client.get_handoff_data", return_value=handoff), \
                 mock.patch("lib.romanforge_client.download_export", return_value="# Eins\n\nMara geht los.\n"):
             book_root = Path(tmp) / "testbuch"

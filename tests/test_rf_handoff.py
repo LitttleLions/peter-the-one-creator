@@ -11,6 +11,7 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+from types import SimpleNamespace
 from unittest import mock
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -118,13 +119,15 @@ class NewFromHandoffTests(unittest.TestCase):
         import yaml
 
         handoff = snapshot(
+            instance="http://rf.example.de", project={"id": 3, "title": "Testbuch"},
             chapters=[{"id": 5, "number": 1, "title": "Eins", "content": "Mara geht los."}],
             publication={"author_name": "A. Autor", "subtitle": "Ein Untertitel", "series_name": "Reihe",
                          "series_number": 2, "publisher": "Verlag X"},
             expose="Kurzer Plot.",
         )
         with tempfile.TemporaryDirectory() as tmp, \
-                mock.patch("lib.romanforge_client.RomanForgeConfig.from_env", return_value=object()), \
+                mock.patch("lib.romanforge_client.RomanForgeConfig.from_env",
+                           return_value=SimpleNamespace(base_url="https://rf.example.de")), \
                 mock.patch("lib.romanforge_client.get_handoff_data", return_value=handoff):
             book_root = Path(tmp) / "testbuch"
             code = mod.main(["--new", "--handoff", "h1", "--title", "Testbuch",
@@ -137,6 +140,8 @@ class NewFromHandoffTests(unittest.TestCase):
             self.assertIn("Kurzer Plot.", (book_root / "romanforge" / "expose.md").read_text(encoding="utf-8"))
             state = yaml.safe_load((book_root / "work" / "imports" / "romanforge" / "state.yaml").read_text(encoding="utf-8"))
             self.assertEqual(state["chapters"]["001"]["rf_id"], "5")
+            book = yaml.safe_load((book_root / "book.yaml").read_text(encoding="utf-8"))
+            self.assertEqual(book["romanforge"], {"instance": "rf.example.de", "project_id": 3})
 
 
 if __name__ == "__main__":
